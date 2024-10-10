@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wrong |  
-| bip_39_word_new_br10 | wrong<br>perfect<br>jungle<br>click<br>scissors<br>oil<br>crack<br>pact<br>stage<br>case |  
-| bip_39_word_new_br11 | wrong<br>perfect<br>jungle<br>click<br>scissors<br>oil<br>crack<br>pact<br>stage<br>case<br>sibling |  
-| bip_39_word_new_br12 | wrong<br>perfect<br>jungle<br>click<br>scissors<br>oil<br>crack<br>pact<br>stage<br>case<br>sibling<br>alcohol |  
-| bip_39_word_new_br2 | wrong<br>perfect |  
-| bip_39_word_new_br3 | wrong<br>perfect<br>jungle |  
-| bip_39_word_new_br4 | wrong<br>perfect<br>jungle<br>click |  
-| bip_39_word_new_br5 | wrong<br>perfect<br>jungle<br>click<br>scissors |  
-| bip_39_word_new_br6 | wrong<br>perfect<br>jungle<br>click<br>scissors<br>oil |  
-| bip_39_word_new_br7 | wrong<br>perfect<br>jungle<br>click<br>scissors<br>oil<br>crack |  
-| bip_39_word_new_br8 | wrong<br>perfect<br>jungle<br>click<br>scissors<br>oil<br>crack<br>pact |  
-| bip_39_word_new_br9 | wrong<br>perfect<br>jungle<br>click<br>scissors<br>oil<br>crack<br>pact<br>stage |  
-| bip_39_word_new_line1 | wrong |  
-| bip_39_word_new_line10 | wrong
+| bip_39_word_new_br_1 | wrong |  
+| bip_39_word_new_br_10 | wrong<br>perfect<br>jungle<br>click<br>scissors<br>oil<br>crack<br>pact<br>stage<br>case |  
+| bip_39_word_new_br_11 | wrong<br>perfect<br>jungle<br>click<br>scissors<br>oil<br>crack<br>pact<br>stage<br>case<br>sibling |  
+| bip_39_word_new_br_12 | wrong<br>perfect<br>jungle<br>click<br>scissors<br>oil<br>crack<br>pact<br>stage<br>case<br>sibling<br>alcohol |  
+| bip_39_word_new_br_2 | wrong<br>perfect |  
+| bip_39_word_new_br_3 | wrong<br>perfect<br>jungle |  
+| bip_39_word_new_br_4 | wrong<br>perfect<br>jungle<br>click |  
+| bip_39_word_new_br_5 | wrong<br>perfect<br>jungle<br>click<br>scissors |  
+| bip_39_word_new_br_6 | wrong<br>perfect<br>jungle<br>click<br>scissors<br>oil |  
+| bip_39_word_new_br_7 | wrong<br>perfect<br>jungle<br>click<br>scissors<br>oil<br>crack |  
+| bip_39_word_new_br_8 | wrong<br>perfect<br>jungle<br>click<br>scissors<br>oil<br>crack<br>pact |  
+| bip_39_word_new_br_9 | wrong<br>perfect<br>jungle<br>click<br>scissors<br>oil<br>crack<br>pact<br>stage |  
+| bip_39_word_new_line_1 | wrong |  
+| bip_39_word_new_line_10 | wrong
 perfect
 jungle
 click
@@ -55,7 +55,7 @@ crack
 pact
 stage
 case |  
-| bip_39_word_new_line11 | wrong
+| bip_39_word_new_line_11 | wrong
 perfect
 jungle
 click
@@ -66,7 +66,7 @@ pact
 stage
 case
 sibling |  
-| bip_39_word_new_line12 | wrong
+| bip_39_word_new_line_12 | wrong
 perfect
 jungle
 click
@@ -78,34 +78,34 @@ stage
 case
 sibling
 alcohol |  
-| bip_39_word_new_line2 | wrong
+| bip_39_word_new_line_2 | wrong
 perfect |  
-| bip_39_word_new_line3 | wrong
+| bip_39_word_new_line_3 | wrong
 perfect
 jungle |  
-| bip_39_word_new_line4 | wrong
+| bip_39_word_new_line_4 | wrong
 perfect
 jungle
 click |  
-| bip_39_word_new_line5 | wrong
+| bip_39_word_new_line_5 | wrong
 perfect
 jungle
 click
 scissors |  
-| bip_39_word_new_line6 | wrong
+| bip_39_word_new_line_6 | wrong
 perfect
 jungle
 click
 scissors
 oil |  
-| bip_39_word_new_line7 | wrong
+| bip_39_word_new_line_7 | wrong
 perfect
 jungle
 click
 scissors
 oil
 crack |  
-| bip_39_word_new_line8 | wrong
+| bip_39_word_new_line_8 | wrong
 perfect
 jungle
 click
@@ -113,7 +113,7 @@ scissors
 oil
 crack
 pact |  
-| bip_39_word_new_line9 | wrong
+| bip_39_word_new_line_9 | wrong
 perfect
 jungle
 click

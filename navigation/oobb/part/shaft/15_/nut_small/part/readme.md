@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cycle |  
-| bip_39_word_new_br10 | cycle<br>situate<br>armor<br>poverty<br>impact<br>illness<br>fly<br>assume<br>put<br>benefit |  
-| bip_39_word_new_br11 | cycle<br>situate<br>armor<br>poverty<br>impact<br>illness<br>fly<br>assume<br>put<br>benefit<br>skirt |  
-| bip_39_word_new_br12 | cycle<br>situate<br>armor<br>poverty<br>impact<br>illness<br>fly<br>assume<br>put<br>benefit<br>skirt<br>ahead |  
-| bip_39_word_new_br2 | cycle<br>situate |  
-| bip_39_word_new_br3 | cycle<br>situate<br>armor |  
-| bip_39_word_new_br4 | cycle<br>situate<br>armor<br>poverty |  
-| bip_39_word_new_br5 | cycle<br>situate<br>armor<br>poverty<br>impact |  
-| bip_39_word_new_br6 | cycle<br>situate<br>armor<br>poverty<br>impact<br>illness |  
-| bip_39_word_new_br7 | cycle<br>situate<br>armor<br>poverty<br>impact<br>illness<br>fly |  
-| bip_39_word_new_br8 | cycle<br>situate<br>armor<br>poverty<br>impact<br>illness<br>fly<br>assume |  
-| bip_39_word_new_br9 | cycle<br>situate<br>armor<br>poverty<br>impact<br>illness<br>fly<br>assume<br>put |  
-| bip_39_word_new_line1 | cycle |  
-| bip_39_word_new_line10 | cycle
+| bip_39_word_new_br_1 | cycle |  
+| bip_39_word_new_br_10 | cycle<br>situate<br>armor<br>poverty<br>impact<br>illness<br>fly<br>assume<br>put<br>benefit |  
+| bip_39_word_new_br_11 | cycle<br>situate<br>armor<br>poverty<br>impact<br>illness<br>fly<br>assume<br>put<br>benefit<br>skirt |  
+| bip_39_word_new_br_12 | cycle<br>situate<br>armor<br>poverty<br>impact<br>illness<br>fly<br>assume<br>put<br>benefit<br>skirt<br>ahead |  
+| bip_39_word_new_br_2 | cycle<br>situate |  
+| bip_39_word_new_br_3 | cycle<br>situate<br>armor |  
+| bip_39_word_new_br_4 | cycle<br>situate<br>armor<br>poverty |  
+| bip_39_word_new_br_5 | cycle<br>situate<br>armor<br>poverty<br>impact |  
+| bip_39_word_new_br_6 | cycle<br>situate<br>armor<br>poverty<br>impact<br>illness |  
+| bip_39_word_new_br_7 | cycle<br>situate<br>armor<br>poverty<br>impact<br>illness<br>fly |  
+| bip_39_word_new_br_8 | cycle<br>situate<br>armor<br>poverty<br>impact<br>illness<br>fly<br>assume |  
+| bip_39_word_new_br_9 | cycle<br>situate<br>armor<br>poverty<br>impact<br>illness<br>fly<br>assume<br>put |  
+| bip_39_word_new_line_1 | cycle |  
+| bip_39_word_new_line_10 | cycle
 situate
 armor
 poverty
@@ -55,7 +55,7 @@ fly
 assume
 put
 benefit |  
-| bip_39_word_new_line11 | cycle
+| bip_39_word_new_line_11 | cycle
 situate
 armor
 poverty
@@ -66,7 +66,7 @@ assume
 put
 benefit
 skirt |  
-| bip_39_word_new_line12 | cycle
+| bip_39_word_new_line_12 | cycle
 situate
 armor
 poverty
@@ -78,34 +78,34 @@ put
 benefit
 skirt
 ahead |  
-| bip_39_word_new_line2 | cycle
+| bip_39_word_new_line_2 | cycle
 situate |  
-| bip_39_word_new_line3 | cycle
+| bip_39_word_new_line_3 | cycle
 situate
 armor |  
-| bip_39_word_new_line4 | cycle
+| bip_39_word_new_line_4 | cycle
 situate
 armor
 poverty |  
-| bip_39_word_new_line5 | cycle
+| bip_39_word_new_line_5 | cycle
 situate
 armor
 poverty
 impact |  
-| bip_39_word_new_line6 | cycle
+| bip_39_word_new_line_6 | cycle
 situate
 armor
 poverty
 impact
 illness |  
-| bip_39_word_new_line7 | cycle
+| bip_39_word_new_line_7 | cycle
 situate
 armor
 poverty
 impact
 illness
 fly |  
-| bip_39_word_new_line8 | cycle
+| bip_39_word_new_line_8 | cycle
 situate
 armor
 poverty
@@ -113,7 +113,7 @@ impact
 illness
 fly
 assume |  
-| bip_39_word_new_line9 | cycle
+| bip_39_word_new_line_9 | cycle
 situate
 armor
 poverty

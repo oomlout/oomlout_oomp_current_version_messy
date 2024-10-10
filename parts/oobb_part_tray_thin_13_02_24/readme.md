@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | addict |  
-| bip_39_word_new_br10 | addict<br>erosion<br>business<br>kick<br>remind<br>female<br>urge<br>best<br>pull<br>angle |  
-| bip_39_word_new_br11 | addict<br>erosion<br>business<br>kick<br>remind<br>female<br>urge<br>best<br>pull<br>angle<br>dinner |  
-| bip_39_word_new_br12 | addict<br>erosion<br>business<br>kick<br>remind<br>female<br>urge<br>best<br>pull<br>angle<br>dinner<br>assume |  
-| bip_39_word_new_br2 | addict<br>erosion |  
-| bip_39_word_new_br3 | addict<br>erosion<br>business |  
-| bip_39_word_new_br4 | addict<br>erosion<br>business<br>kick |  
-| bip_39_word_new_br5 | addict<br>erosion<br>business<br>kick<br>remind |  
-| bip_39_word_new_br6 | addict<br>erosion<br>business<br>kick<br>remind<br>female |  
-| bip_39_word_new_br7 | addict<br>erosion<br>business<br>kick<br>remind<br>female<br>urge |  
-| bip_39_word_new_br8 | addict<br>erosion<br>business<br>kick<br>remind<br>female<br>urge<br>best |  
-| bip_39_word_new_br9 | addict<br>erosion<br>business<br>kick<br>remind<br>female<br>urge<br>best<br>pull |  
-| bip_39_word_new_line1 | addict |  
-| bip_39_word_new_line10 | addict
+| bip_39_word_new_br_1 | addict |  
+| bip_39_word_new_br_10 | addict<br>erosion<br>business<br>kick<br>remind<br>female<br>urge<br>best<br>pull<br>angle |  
+| bip_39_word_new_br_11 | addict<br>erosion<br>business<br>kick<br>remind<br>female<br>urge<br>best<br>pull<br>angle<br>dinner |  
+| bip_39_word_new_br_12 | addict<br>erosion<br>business<br>kick<br>remind<br>female<br>urge<br>best<br>pull<br>angle<br>dinner<br>assume |  
+| bip_39_word_new_br_2 | addict<br>erosion |  
+| bip_39_word_new_br_3 | addict<br>erosion<br>business |  
+| bip_39_word_new_br_4 | addict<br>erosion<br>business<br>kick |  
+| bip_39_word_new_br_5 | addict<br>erosion<br>business<br>kick<br>remind |  
+| bip_39_word_new_br_6 | addict<br>erosion<br>business<br>kick<br>remind<br>female |  
+| bip_39_word_new_br_7 | addict<br>erosion<br>business<br>kick<br>remind<br>female<br>urge |  
+| bip_39_word_new_br_8 | addict<br>erosion<br>business<br>kick<br>remind<br>female<br>urge<br>best |  
+| bip_39_word_new_br_9 | addict<br>erosion<br>business<br>kick<br>remind<br>female<br>urge<br>best<br>pull |  
+| bip_39_word_new_line_1 | addict |  
+| bip_39_word_new_line_10 | addict
 erosion
 business
 kick
@@ -55,7 +55,7 @@ urge
 best
 pull
 angle |  
-| bip_39_word_new_line11 | addict
+| bip_39_word_new_line_11 | addict
 erosion
 business
 kick
@@ -66,7 +66,7 @@ best
 pull
 angle
 dinner |  
-| bip_39_word_new_line12 | addict
+| bip_39_word_new_line_12 | addict
 erosion
 business
 kick
@@ -78,34 +78,34 @@ pull
 angle
 dinner
 assume |  
-| bip_39_word_new_line2 | addict
+| bip_39_word_new_line_2 | addict
 erosion |  
-| bip_39_word_new_line3 | addict
+| bip_39_word_new_line_3 | addict
 erosion
 business |  
-| bip_39_word_new_line4 | addict
+| bip_39_word_new_line_4 | addict
 erosion
 business
 kick |  
-| bip_39_word_new_line5 | addict
+| bip_39_word_new_line_5 | addict
 erosion
 business
 kick
 remind |  
-| bip_39_word_new_line6 | addict
+| bip_39_word_new_line_6 | addict
 erosion
 business
 kick
 remind
 female |  
-| bip_39_word_new_line7 | addict
+| bip_39_word_new_line_7 | addict
 erosion
 business
 kick
 remind
 female
 urge |  
-| bip_39_word_new_line8 | addict
+| bip_39_word_new_line_8 | addict
 erosion
 business
 kick
@@ -113,7 +113,7 @@ remind
 female
 urge
 best |  
-| bip_39_word_new_line9 | addict
+| bip_39_word_new_line_9 | addict
 erosion
 business
 kick

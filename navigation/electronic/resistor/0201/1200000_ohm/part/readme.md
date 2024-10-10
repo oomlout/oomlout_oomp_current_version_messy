@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | logic |  
-| bip_39_word_new_br10 | logic<br>dry<br>shed<br>submit<br>minor<br>source<br>fancy<br>curious<br>cloth<br>laptop |  
-| bip_39_word_new_br11 | logic<br>dry<br>shed<br>submit<br>minor<br>source<br>fancy<br>curious<br>cloth<br>laptop<br>wood |  
-| bip_39_word_new_br12 | logic<br>dry<br>shed<br>submit<br>minor<br>source<br>fancy<br>curious<br>cloth<br>laptop<br>wood<br>addict |  
-| bip_39_word_new_br2 | logic<br>dry |  
-| bip_39_word_new_br3 | logic<br>dry<br>shed |  
-| bip_39_word_new_br4 | logic<br>dry<br>shed<br>submit |  
-| bip_39_word_new_br5 | logic<br>dry<br>shed<br>submit<br>minor |  
-| bip_39_word_new_br6 | logic<br>dry<br>shed<br>submit<br>minor<br>source |  
-| bip_39_word_new_br7 | logic<br>dry<br>shed<br>submit<br>minor<br>source<br>fancy |  
-| bip_39_word_new_br8 | logic<br>dry<br>shed<br>submit<br>minor<br>source<br>fancy<br>curious |  
-| bip_39_word_new_br9 | logic<br>dry<br>shed<br>submit<br>minor<br>source<br>fancy<br>curious<br>cloth |  
-| bip_39_word_new_line1 | logic |  
-| bip_39_word_new_line10 | logic
+| bip_39_word_new_br_1 | logic |  
+| bip_39_word_new_br_10 | logic<br>dry<br>shed<br>submit<br>minor<br>source<br>fancy<br>curious<br>cloth<br>laptop |  
+| bip_39_word_new_br_11 | logic<br>dry<br>shed<br>submit<br>minor<br>source<br>fancy<br>curious<br>cloth<br>laptop<br>wood |  
+| bip_39_word_new_br_12 | logic<br>dry<br>shed<br>submit<br>minor<br>source<br>fancy<br>curious<br>cloth<br>laptop<br>wood<br>addict |  
+| bip_39_word_new_br_2 | logic<br>dry |  
+| bip_39_word_new_br_3 | logic<br>dry<br>shed |  
+| bip_39_word_new_br_4 | logic<br>dry<br>shed<br>submit |  
+| bip_39_word_new_br_5 | logic<br>dry<br>shed<br>submit<br>minor |  
+| bip_39_word_new_br_6 | logic<br>dry<br>shed<br>submit<br>minor<br>source |  
+| bip_39_word_new_br_7 | logic<br>dry<br>shed<br>submit<br>minor<br>source<br>fancy |  
+| bip_39_word_new_br_8 | logic<br>dry<br>shed<br>submit<br>minor<br>source<br>fancy<br>curious |  
+| bip_39_word_new_br_9 | logic<br>dry<br>shed<br>submit<br>minor<br>source<br>fancy<br>curious<br>cloth |  
+| bip_39_word_new_line_1 | logic |  
+| bip_39_word_new_line_10 | logic
 dry
 shed
 submit
@@ -55,7 +55,7 @@ fancy
 curious
 cloth
 laptop |  
-| bip_39_word_new_line11 | logic
+| bip_39_word_new_line_11 | logic
 dry
 shed
 submit
@@ -66,7 +66,7 @@ curious
 cloth
 laptop
 wood |  
-| bip_39_word_new_line12 | logic
+| bip_39_word_new_line_12 | logic
 dry
 shed
 submit
@@ -78,34 +78,34 @@ cloth
 laptop
 wood
 addict |  
-| bip_39_word_new_line2 | logic
+| bip_39_word_new_line_2 | logic
 dry |  
-| bip_39_word_new_line3 | logic
+| bip_39_word_new_line_3 | logic
 dry
 shed |  
-| bip_39_word_new_line4 | logic
+| bip_39_word_new_line_4 | logic
 dry
 shed
 submit |  
-| bip_39_word_new_line5 | logic
+| bip_39_word_new_line_5 | logic
 dry
 shed
 submit
 minor |  
-| bip_39_word_new_line6 | logic
+| bip_39_word_new_line_6 | logic
 dry
 shed
 submit
 minor
 source |  
-| bip_39_word_new_line7 | logic
+| bip_39_word_new_line_7 | logic
 dry
 shed
 submit
 minor
 source
 fancy |  
-| bip_39_word_new_line8 | logic
+| bip_39_word_new_line_8 | logic
 dry
 shed
 submit
@@ -113,7 +113,7 @@ minor
 source
 fancy
 curious |  
-| bip_39_word_new_line9 | logic
+| bip_39_word_new_line_9 | logic
 dry
 shed
 submit

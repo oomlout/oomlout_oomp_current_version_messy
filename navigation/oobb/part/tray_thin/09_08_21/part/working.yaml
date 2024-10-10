@@ -1,17 +1,17 @@
-bip_39_word_new_br1: confirm
-bip_39_word_new_br10: confirm<br>glide<br>pause<br>coconut<br>car<br>snap<br>hover<br>home<br>amateur<br>edit
-bip_39_word_new_br11: confirm<br>glide<br>pause<br>coconut<br>car<br>snap<br>hover<br>home<br>amateur<br>edit<br>device
-bip_39_word_new_br12: confirm<br>glide<br>pause<br>coconut<br>car<br>snap<br>hover<br>home<br>amateur<br>edit<br>device<br>afford
-bip_39_word_new_br2: confirm<br>glide
-bip_39_word_new_br3: confirm<br>glide<br>pause
-bip_39_word_new_br4: confirm<br>glide<br>pause<br>coconut
-bip_39_word_new_br5: confirm<br>glide<br>pause<br>coconut<br>car
-bip_39_word_new_br6: confirm<br>glide<br>pause<br>coconut<br>car<br>snap
-bip_39_word_new_br7: confirm<br>glide<br>pause<br>coconut<br>car<br>snap<br>hover
-bip_39_word_new_br8: confirm<br>glide<br>pause<br>coconut<br>car<br>snap<br>hover<br>home
-bip_39_word_new_br9: confirm<br>glide<br>pause<br>coconut<br>car<br>snap<br>hover<br>home<br>amateur
-bip_39_word_new_line1: confirm
-bip_39_word_new_line10: 'confirm
+bip_39_word_new_br_1: confirm
+bip_39_word_new_br_10: confirm<br>glide<br>pause<br>coconut<br>car<br>snap<br>hover<br>home<br>amateur<br>edit
+bip_39_word_new_br_11: confirm<br>glide<br>pause<br>coconut<br>car<br>snap<br>hover<br>home<br>amateur<br>edit<br>device
+bip_39_word_new_br_12: confirm<br>glide<br>pause<br>coconut<br>car<br>snap<br>hover<br>home<br>amateur<br>edit<br>device<br>afford
+bip_39_word_new_br_2: confirm<br>glide
+bip_39_word_new_br_3: confirm<br>glide<br>pause
+bip_39_word_new_br_4: confirm<br>glide<br>pause<br>coconut
+bip_39_word_new_br_5: confirm<br>glide<br>pause<br>coconut<br>car
+bip_39_word_new_br_6: confirm<br>glide<br>pause<br>coconut<br>car<br>snap
+bip_39_word_new_br_7: confirm<br>glide<br>pause<br>coconut<br>car<br>snap<br>hover
+bip_39_word_new_br_8: confirm<br>glide<br>pause<br>coconut<br>car<br>snap<br>hover<br>home
+bip_39_word_new_br_9: confirm<br>glide<br>pause<br>coconut<br>car<br>snap<br>hover<br>home<br>amateur
+bip_39_word_new_line_1: confirm
+bip_39_word_new_line_10: 'confirm
 
   glide
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'confirm
   amateur
 
   edit'
-bip_39_word_new_line11: 'confirm
+bip_39_word_new_line_11: 'confirm
 
   glide
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'confirm
   edit
 
   device'
-bip_39_word_new_line12: 'confirm
+bip_39_word_new_line_12: 'confirm
 
   glide
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'confirm
   device
 
   afford'
-bip_39_word_new_line2: 'confirm
+bip_39_word_new_line_2: 'confirm
 
   glide'
-bip_39_word_new_line3: 'confirm
+bip_39_word_new_line_3: 'confirm
 
   glide
 
   pause'
-bip_39_word_new_line4: 'confirm
+bip_39_word_new_line_4: 'confirm
 
   glide
 
   pause
 
   coconut'
-bip_39_word_new_line5: 'confirm
+bip_39_word_new_line_5: 'confirm
 
   glide
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'confirm
   coconut
 
   car'
-bip_39_word_new_line6: 'confirm
+bip_39_word_new_line_6: 'confirm
 
   glide
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'confirm
   car
 
   snap'
-bip_39_word_new_line7: 'confirm
+bip_39_word_new_line_7: 'confirm
 
   glide
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'confirm
   snap
 
   hover'
-bip_39_word_new_line8: 'confirm
+bip_39_word_new_line_8: 'confirm
 
   glide
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'confirm
   hover
 
   home'
-bip_39_word_new_line9: 'confirm
+bip_39_word_new_line_9: 'confirm
 
   glide
 

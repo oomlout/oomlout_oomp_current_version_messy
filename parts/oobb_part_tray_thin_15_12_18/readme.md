@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | absorb |  
-| bip_39_word_new_br10 | absorb<br>trap<br>witness<br>layer<br>end<br>submit<br>lawn<br>original<br>orchard<br>gain |  
-| bip_39_word_new_br11 | absorb<br>trap<br>witness<br>layer<br>end<br>submit<br>lawn<br>original<br>orchard<br>gain<br>service |  
-| bip_39_word_new_br12 | absorb<br>trap<br>witness<br>layer<br>end<br>submit<br>lawn<br>original<br>orchard<br>gain<br>service<br>airport |  
-| bip_39_word_new_br2 | absorb<br>trap |  
-| bip_39_word_new_br3 | absorb<br>trap<br>witness |  
-| bip_39_word_new_br4 | absorb<br>trap<br>witness<br>layer |  
-| bip_39_word_new_br5 | absorb<br>trap<br>witness<br>layer<br>end |  
-| bip_39_word_new_br6 | absorb<br>trap<br>witness<br>layer<br>end<br>submit |  
-| bip_39_word_new_br7 | absorb<br>trap<br>witness<br>layer<br>end<br>submit<br>lawn |  
-| bip_39_word_new_br8 | absorb<br>trap<br>witness<br>layer<br>end<br>submit<br>lawn<br>original |  
-| bip_39_word_new_br9 | absorb<br>trap<br>witness<br>layer<br>end<br>submit<br>lawn<br>original<br>orchard |  
-| bip_39_word_new_line1 | absorb |  
-| bip_39_word_new_line10 | absorb
+| bip_39_word_new_br_1 | absorb |  
+| bip_39_word_new_br_10 | absorb<br>trap<br>witness<br>layer<br>end<br>submit<br>lawn<br>original<br>orchard<br>gain |  
+| bip_39_word_new_br_11 | absorb<br>trap<br>witness<br>layer<br>end<br>submit<br>lawn<br>original<br>orchard<br>gain<br>service |  
+| bip_39_word_new_br_12 | absorb<br>trap<br>witness<br>layer<br>end<br>submit<br>lawn<br>original<br>orchard<br>gain<br>service<br>airport |  
+| bip_39_word_new_br_2 | absorb<br>trap |  
+| bip_39_word_new_br_3 | absorb<br>trap<br>witness |  
+| bip_39_word_new_br_4 | absorb<br>trap<br>witness<br>layer |  
+| bip_39_word_new_br_5 | absorb<br>trap<br>witness<br>layer<br>end |  
+| bip_39_word_new_br_6 | absorb<br>trap<br>witness<br>layer<br>end<br>submit |  
+| bip_39_word_new_br_7 | absorb<br>trap<br>witness<br>layer<br>end<br>submit<br>lawn |  
+| bip_39_word_new_br_8 | absorb<br>trap<br>witness<br>layer<br>end<br>submit<br>lawn<br>original |  
+| bip_39_word_new_br_9 | absorb<br>trap<br>witness<br>layer<br>end<br>submit<br>lawn<br>original<br>orchard |  
+| bip_39_word_new_line_1 | absorb |  
+| bip_39_word_new_line_10 | absorb
 trap
 witness
 layer
@@ -55,7 +55,7 @@ lawn
 original
 orchard
 gain |  
-| bip_39_word_new_line11 | absorb
+| bip_39_word_new_line_11 | absorb
 trap
 witness
 layer
@@ -66,7 +66,7 @@ original
 orchard
 gain
 service |  
-| bip_39_word_new_line12 | absorb
+| bip_39_word_new_line_12 | absorb
 trap
 witness
 layer
@@ -78,34 +78,34 @@ orchard
 gain
 service
 airport |  
-| bip_39_word_new_line2 | absorb
+| bip_39_word_new_line_2 | absorb
 trap |  
-| bip_39_word_new_line3 | absorb
+| bip_39_word_new_line_3 | absorb
 trap
 witness |  
-| bip_39_word_new_line4 | absorb
+| bip_39_word_new_line_4 | absorb
 trap
 witness
 layer |  
-| bip_39_word_new_line5 | absorb
+| bip_39_word_new_line_5 | absorb
 trap
 witness
 layer
 end |  
-| bip_39_word_new_line6 | absorb
+| bip_39_word_new_line_6 | absorb
 trap
 witness
 layer
 end
 submit |  
-| bip_39_word_new_line7 | absorb
+| bip_39_word_new_line_7 | absorb
 trap
 witness
 layer
 end
 submit
 lawn |  
-| bip_39_word_new_line8 | absorb
+| bip_39_word_new_line_8 | absorb
 trap
 witness
 layer
@@ -113,7 +113,7 @@ end
 submit
 lawn
 original |  
-| bip_39_word_new_line9 | absorb
+| bip_39_word_new_line_9 | absorb
 trap
 witness
 layer

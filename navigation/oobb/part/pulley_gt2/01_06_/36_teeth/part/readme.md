@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | duty |  
-| bip_39_word_new_br10 | duty<br>sign<br>coast<br>ugly<br>around<br>risk<br>below<br>fashion<br>shoot<br>decline |  
-| bip_39_word_new_br11 | duty<br>sign<br>coast<br>ugly<br>around<br>risk<br>below<br>fashion<br>shoot<br>decline<br>crumble |  
-| bip_39_word_new_br12 | duty<br>sign<br>coast<br>ugly<br>around<br>risk<br>below<br>fashion<br>shoot<br>decline<br>crumble<br>apart |  
-| bip_39_word_new_br2 | duty<br>sign |  
-| bip_39_word_new_br3 | duty<br>sign<br>coast |  
-| bip_39_word_new_br4 | duty<br>sign<br>coast<br>ugly |  
-| bip_39_word_new_br5 | duty<br>sign<br>coast<br>ugly<br>around |  
-| bip_39_word_new_br6 | duty<br>sign<br>coast<br>ugly<br>around<br>risk |  
-| bip_39_word_new_br7 | duty<br>sign<br>coast<br>ugly<br>around<br>risk<br>below |  
-| bip_39_word_new_br8 | duty<br>sign<br>coast<br>ugly<br>around<br>risk<br>below<br>fashion |  
-| bip_39_word_new_br9 | duty<br>sign<br>coast<br>ugly<br>around<br>risk<br>below<br>fashion<br>shoot |  
-| bip_39_word_new_line1 | duty |  
-| bip_39_word_new_line10 | duty
+| bip_39_word_new_br_1 | duty |  
+| bip_39_word_new_br_10 | duty<br>sign<br>coast<br>ugly<br>around<br>risk<br>below<br>fashion<br>shoot<br>decline |  
+| bip_39_word_new_br_11 | duty<br>sign<br>coast<br>ugly<br>around<br>risk<br>below<br>fashion<br>shoot<br>decline<br>crumble |  
+| bip_39_word_new_br_12 | duty<br>sign<br>coast<br>ugly<br>around<br>risk<br>below<br>fashion<br>shoot<br>decline<br>crumble<br>apart |  
+| bip_39_word_new_br_2 | duty<br>sign |  
+| bip_39_word_new_br_3 | duty<br>sign<br>coast |  
+| bip_39_word_new_br_4 | duty<br>sign<br>coast<br>ugly |  
+| bip_39_word_new_br_5 | duty<br>sign<br>coast<br>ugly<br>around |  
+| bip_39_word_new_br_6 | duty<br>sign<br>coast<br>ugly<br>around<br>risk |  
+| bip_39_word_new_br_7 | duty<br>sign<br>coast<br>ugly<br>around<br>risk<br>below |  
+| bip_39_word_new_br_8 | duty<br>sign<br>coast<br>ugly<br>around<br>risk<br>below<br>fashion |  
+| bip_39_word_new_br_9 | duty<br>sign<br>coast<br>ugly<br>around<br>risk<br>below<br>fashion<br>shoot |  
+| bip_39_word_new_line_1 | duty |  
+| bip_39_word_new_line_10 | duty
 sign
 coast
 ugly
@@ -55,7 +55,7 @@ below
 fashion
 shoot
 decline |  
-| bip_39_word_new_line11 | duty
+| bip_39_word_new_line_11 | duty
 sign
 coast
 ugly
@@ -66,7 +66,7 @@ fashion
 shoot
 decline
 crumble |  
-| bip_39_word_new_line12 | duty
+| bip_39_word_new_line_12 | duty
 sign
 coast
 ugly
@@ -78,34 +78,34 @@ shoot
 decline
 crumble
 apart |  
-| bip_39_word_new_line2 | duty
+| bip_39_word_new_line_2 | duty
 sign |  
-| bip_39_word_new_line3 | duty
+| bip_39_word_new_line_3 | duty
 sign
 coast |  
-| bip_39_word_new_line4 | duty
+| bip_39_word_new_line_4 | duty
 sign
 coast
 ugly |  
-| bip_39_word_new_line5 | duty
+| bip_39_word_new_line_5 | duty
 sign
 coast
 ugly
 around |  
-| bip_39_word_new_line6 | duty
+| bip_39_word_new_line_6 | duty
 sign
 coast
 ugly
 around
 risk |  
-| bip_39_word_new_line7 | duty
+| bip_39_word_new_line_7 | duty
 sign
 coast
 ugly
 around
 risk
 below |  
-| bip_39_word_new_line8 | duty
+| bip_39_word_new_line_8 | duty
 sign
 coast
 ugly
@@ -113,7 +113,7 @@ around
 risk
 below
 fashion |  
-| bip_39_word_new_line9 | duty
+| bip_39_word_new_line_9 | duty
 sign
 coast
 ugly

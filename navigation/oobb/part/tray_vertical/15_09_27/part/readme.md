@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | explain |  
-| bip_39_word_new_br10 | explain<br>famous<br>flat<br>marine<br>voice<br>aware<br>valley<br>strong<br>virtual<br>budget |  
-| bip_39_word_new_br11 | explain<br>famous<br>flat<br>marine<br>voice<br>aware<br>valley<br>strong<br>virtual<br>budget<br>speed |  
-| bip_39_word_new_br12 | explain<br>famous<br>flat<br>marine<br>voice<br>aware<br>valley<br>strong<br>virtual<br>budget<br>speed<br>athlete |  
-| bip_39_word_new_br2 | explain<br>famous |  
-| bip_39_word_new_br3 | explain<br>famous<br>flat |  
-| bip_39_word_new_br4 | explain<br>famous<br>flat<br>marine |  
-| bip_39_word_new_br5 | explain<br>famous<br>flat<br>marine<br>voice |  
-| bip_39_word_new_br6 | explain<br>famous<br>flat<br>marine<br>voice<br>aware |  
-| bip_39_word_new_br7 | explain<br>famous<br>flat<br>marine<br>voice<br>aware<br>valley |  
-| bip_39_word_new_br8 | explain<br>famous<br>flat<br>marine<br>voice<br>aware<br>valley<br>strong |  
-| bip_39_word_new_br9 | explain<br>famous<br>flat<br>marine<br>voice<br>aware<br>valley<br>strong<br>virtual |  
-| bip_39_word_new_line1 | explain |  
-| bip_39_word_new_line10 | explain
+| bip_39_word_new_br_1 | explain |  
+| bip_39_word_new_br_10 | explain<br>famous<br>flat<br>marine<br>voice<br>aware<br>valley<br>strong<br>virtual<br>budget |  
+| bip_39_word_new_br_11 | explain<br>famous<br>flat<br>marine<br>voice<br>aware<br>valley<br>strong<br>virtual<br>budget<br>speed |  
+| bip_39_word_new_br_12 | explain<br>famous<br>flat<br>marine<br>voice<br>aware<br>valley<br>strong<br>virtual<br>budget<br>speed<br>athlete |  
+| bip_39_word_new_br_2 | explain<br>famous |  
+| bip_39_word_new_br_3 | explain<br>famous<br>flat |  
+| bip_39_word_new_br_4 | explain<br>famous<br>flat<br>marine |  
+| bip_39_word_new_br_5 | explain<br>famous<br>flat<br>marine<br>voice |  
+| bip_39_word_new_br_6 | explain<br>famous<br>flat<br>marine<br>voice<br>aware |  
+| bip_39_word_new_br_7 | explain<br>famous<br>flat<br>marine<br>voice<br>aware<br>valley |  
+| bip_39_word_new_br_8 | explain<br>famous<br>flat<br>marine<br>voice<br>aware<br>valley<br>strong |  
+| bip_39_word_new_br_9 | explain<br>famous<br>flat<br>marine<br>voice<br>aware<br>valley<br>strong<br>virtual |  
+| bip_39_word_new_line_1 | explain |  
+| bip_39_word_new_line_10 | explain
 famous
 flat
 marine
@@ -55,7 +55,7 @@ valley
 strong
 virtual
 budget |  
-| bip_39_word_new_line11 | explain
+| bip_39_word_new_line_11 | explain
 famous
 flat
 marine
@@ -66,7 +66,7 @@ strong
 virtual
 budget
 speed |  
-| bip_39_word_new_line12 | explain
+| bip_39_word_new_line_12 | explain
 famous
 flat
 marine
@@ -78,34 +78,34 @@ virtual
 budget
 speed
 athlete |  
-| bip_39_word_new_line2 | explain
+| bip_39_word_new_line_2 | explain
 famous |  
-| bip_39_word_new_line3 | explain
+| bip_39_word_new_line_3 | explain
 famous
 flat |  
-| bip_39_word_new_line4 | explain
+| bip_39_word_new_line_4 | explain
 famous
 flat
 marine |  
-| bip_39_word_new_line5 | explain
+| bip_39_word_new_line_5 | explain
 famous
 flat
 marine
 voice |  
-| bip_39_word_new_line6 | explain
+| bip_39_word_new_line_6 | explain
 famous
 flat
 marine
 voice
 aware |  
-| bip_39_word_new_line7 | explain
+| bip_39_word_new_line_7 | explain
 famous
 flat
 marine
 voice
 aware
 valley |  
-| bip_39_word_new_line8 | explain
+| bip_39_word_new_line_8 | explain
 famous
 flat
 marine
@@ -113,7 +113,7 @@ voice
 aware
 valley
 strong |  
-| bip_39_word_new_line9 | explain
+| bip_39_word_new_line_9 | explain
 famous
 flat
 marine

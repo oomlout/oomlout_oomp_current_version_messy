@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mandate |  
-| bip_39_word_new_br10 | mandate<br>sun<br>chuckle<br>decline<br>plug<br>glow<br>accuse<br>soldier<br>exclude<br>talk |  
-| bip_39_word_new_br11 | mandate<br>sun<br>chuckle<br>decline<br>plug<br>glow<br>accuse<br>soldier<br>exclude<br>talk<br>enjoy |  
-| bip_39_word_new_br12 | mandate<br>sun<br>chuckle<br>decline<br>plug<br>glow<br>accuse<br>soldier<br>exclude<br>talk<br>enjoy<br>agent |  
-| bip_39_word_new_br2 | mandate<br>sun |  
-| bip_39_word_new_br3 | mandate<br>sun<br>chuckle |  
-| bip_39_word_new_br4 | mandate<br>sun<br>chuckle<br>decline |  
-| bip_39_word_new_br5 | mandate<br>sun<br>chuckle<br>decline<br>plug |  
-| bip_39_word_new_br6 | mandate<br>sun<br>chuckle<br>decline<br>plug<br>glow |  
-| bip_39_word_new_br7 | mandate<br>sun<br>chuckle<br>decline<br>plug<br>glow<br>accuse |  
-| bip_39_word_new_br8 | mandate<br>sun<br>chuckle<br>decline<br>plug<br>glow<br>accuse<br>soldier |  
-| bip_39_word_new_br9 | mandate<br>sun<br>chuckle<br>decline<br>plug<br>glow<br>accuse<br>soldier<br>exclude |  
-| bip_39_word_new_line1 | mandate |  
-| bip_39_word_new_line10 | mandate
+| bip_39_word_new_br_1 | mandate |  
+| bip_39_word_new_br_10 | mandate<br>sun<br>chuckle<br>decline<br>plug<br>glow<br>accuse<br>soldier<br>exclude<br>talk |  
+| bip_39_word_new_br_11 | mandate<br>sun<br>chuckle<br>decline<br>plug<br>glow<br>accuse<br>soldier<br>exclude<br>talk<br>enjoy |  
+| bip_39_word_new_br_12 | mandate<br>sun<br>chuckle<br>decline<br>plug<br>glow<br>accuse<br>soldier<br>exclude<br>talk<br>enjoy<br>agent |  
+| bip_39_word_new_br_2 | mandate<br>sun |  
+| bip_39_word_new_br_3 | mandate<br>sun<br>chuckle |  
+| bip_39_word_new_br_4 | mandate<br>sun<br>chuckle<br>decline |  
+| bip_39_word_new_br_5 | mandate<br>sun<br>chuckle<br>decline<br>plug |  
+| bip_39_word_new_br_6 | mandate<br>sun<br>chuckle<br>decline<br>plug<br>glow |  
+| bip_39_word_new_br_7 | mandate<br>sun<br>chuckle<br>decline<br>plug<br>glow<br>accuse |  
+| bip_39_word_new_br_8 | mandate<br>sun<br>chuckle<br>decline<br>plug<br>glow<br>accuse<br>soldier |  
+| bip_39_word_new_br_9 | mandate<br>sun<br>chuckle<br>decline<br>plug<br>glow<br>accuse<br>soldier<br>exclude |  
+| bip_39_word_new_line_1 | mandate |  
+| bip_39_word_new_line_10 | mandate
 sun
 chuckle
 decline
@@ -55,7 +55,7 @@ accuse
 soldier
 exclude
 talk |  
-| bip_39_word_new_line11 | mandate
+| bip_39_word_new_line_11 | mandate
 sun
 chuckle
 decline
@@ -66,7 +66,7 @@ soldier
 exclude
 talk
 enjoy |  
-| bip_39_word_new_line12 | mandate
+| bip_39_word_new_line_12 | mandate
 sun
 chuckle
 decline
@@ -78,34 +78,34 @@ exclude
 talk
 enjoy
 agent |  
-| bip_39_word_new_line2 | mandate
+| bip_39_word_new_line_2 | mandate
 sun |  
-| bip_39_word_new_line3 | mandate
+| bip_39_word_new_line_3 | mandate
 sun
 chuckle |  
-| bip_39_word_new_line4 | mandate
+| bip_39_word_new_line_4 | mandate
 sun
 chuckle
 decline |  
-| bip_39_word_new_line5 | mandate
+| bip_39_word_new_line_5 | mandate
 sun
 chuckle
 decline
 plug |  
-| bip_39_word_new_line6 | mandate
+| bip_39_word_new_line_6 | mandate
 sun
 chuckle
 decline
 plug
 glow |  
-| bip_39_word_new_line7 | mandate
+| bip_39_word_new_line_7 | mandate
 sun
 chuckle
 decline
 plug
 glow
 accuse |  
-| bip_39_word_new_line8 | mandate
+| bip_39_word_new_line_8 | mandate
 sun
 chuckle
 decline
@@ -113,7 +113,7 @@ plug
 glow
 accuse
 soldier |  
-| bip_39_word_new_line9 | mandate
+| bip_39_word_new_line_9 | mandate
 sun
 chuckle
 decline

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | congress |  
-| bip_39_word_new_br10 | congress<br>glue<br>family<br>invite<br>purpose<br>salmon<br>subway<br>grief<br>festival<br>office |  
-| bip_39_word_new_br11 | congress<br>glue<br>family<br>invite<br>purpose<br>salmon<br>subway<br>grief<br>festival<br>office<br>adjust |  
-| bip_39_word_new_br12 | congress<br>glue<br>family<br>invite<br>purpose<br>salmon<br>subway<br>grief<br>festival<br>office<br>adjust<br>among |  
-| bip_39_word_new_br2 | congress<br>glue |  
-| bip_39_word_new_br3 | congress<br>glue<br>family |  
-| bip_39_word_new_br4 | congress<br>glue<br>family<br>invite |  
-| bip_39_word_new_br5 | congress<br>glue<br>family<br>invite<br>purpose |  
-| bip_39_word_new_br6 | congress<br>glue<br>family<br>invite<br>purpose<br>salmon |  
-| bip_39_word_new_br7 | congress<br>glue<br>family<br>invite<br>purpose<br>salmon<br>subway |  
-| bip_39_word_new_br8 | congress<br>glue<br>family<br>invite<br>purpose<br>salmon<br>subway<br>grief |  
-| bip_39_word_new_br9 | congress<br>glue<br>family<br>invite<br>purpose<br>salmon<br>subway<br>grief<br>festival |  
-| bip_39_word_new_line1 | congress |  
-| bip_39_word_new_line10 | congress
+| bip_39_word_new_br_1 | congress |  
+| bip_39_word_new_br_10 | congress<br>glue<br>family<br>invite<br>purpose<br>salmon<br>subway<br>grief<br>festival<br>office |  
+| bip_39_word_new_br_11 | congress<br>glue<br>family<br>invite<br>purpose<br>salmon<br>subway<br>grief<br>festival<br>office<br>adjust |  
+| bip_39_word_new_br_12 | congress<br>glue<br>family<br>invite<br>purpose<br>salmon<br>subway<br>grief<br>festival<br>office<br>adjust<br>among |  
+| bip_39_word_new_br_2 | congress<br>glue |  
+| bip_39_word_new_br_3 | congress<br>glue<br>family |  
+| bip_39_word_new_br_4 | congress<br>glue<br>family<br>invite |  
+| bip_39_word_new_br_5 | congress<br>glue<br>family<br>invite<br>purpose |  
+| bip_39_word_new_br_6 | congress<br>glue<br>family<br>invite<br>purpose<br>salmon |  
+| bip_39_word_new_br_7 | congress<br>glue<br>family<br>invite<br>purpose<br>salmon<br>subway |  
+| bip_39_word_new_br_8 | congress<br>glue<br>family<br>invite<br>purpose<br>salmon<br>subway<br>grief |  
+| bip_39_word_new_br_9 | congress<br>glue<br>family<br>invite<br>purpose<br>salmon<br>subway<br>grief<br>festival |  
+| bip_39_word_new_line_1 | congress |  
+| bip_39_word_new_line_10 | congress
 glue
 family
 invite
@@ -55,7 +55,7 @@ subway
 grief
 festival
 office |  
-| bip_39_word_new_line11 | congress
+| bip_39_word_new_line_11 | congress
 glue
 family
 invite
@@ -66,7 +66,7 @@ grief
 festival
 office
 adjust |  
-| bip_39_word_new_line12 | congress
+| bip_39_word_new_line_12 | congress
 glue
 family
 invite
@@ -78,34 +78,34 @@ festival
 office
 adjust
 among |  
-| bip_39_word_new_line2 | congress
+| bip_39_word_new_line_2 | congress
 glue |  
-| bip_39_word_new_line3 | congress
+| bip_39_word_new_line_3 | congress
 glue
 family |  
-| bip_39_word_new_line4 | congress
+| bip_39_word_new_line_4 | congress
 glue
 family
 invite |  
-| bip_39_word_new_line5 | congress
+| bip_39_word_new_line_5 | congress
 glue
 family
 invite
 purpose |  
-| bip_39_word_new_line6 | congress
+| bip_39_word_new_line_6 | congress
 glue
 family
 invite
 purpose
 salmon |  
-| bip_39_word_new_line7 | congress
+| bip_39_word_new_line_7 | congress
 glue
 family
 invite
 purpose
 salmon
 subway |  
-| bip_39_word_new_line8 | congress
+| bip_39_word_new_line_8 | congress
 glue
 family
 invite
@@ -113,7 +113,7 @@ purpose
 salmon
 subway
 grief |  
-| bip_39_word_new_line9 | congress
+| bip_39_word_new_line_9 | congress
 glue
 family
 invite

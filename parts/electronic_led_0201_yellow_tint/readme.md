@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | limit |  
-| bip_39_word_new_br10 | limit<br>pave<br>jaguar<br>lobster<br>prison<br>crouch<br>lucky<br>picnic<br>invest<br>lens |  
-| bip_39_word_new_br11 | limit<br>pave<br>jaguar<br>lobster<br>prison<br>crouch<br>lucky<br>picnic<br>invest<br>lens<br>cross |  
-| bip_39_word_new_br12 | limit<br>pave<br>jaguar<br>lobster<br>prison<br>crouch<br>lucky<br>picnic<br>invest<br>lens<br>cross<br>add |  
-| bip_39_word_new_br2 | limit<br>pave |  
-| bip_39_word_new_br3 | limit<br>pave<br>jaguar |  
-| bip_39_word_new_br4 | limit<br>pave<br>jaguar<br>lobster |  
-| bip_39_word_new_br5 | limit<br>pave<br>jaguar<br>lobster<br>prison |  
-| bip_39_word_new_br6 | limit<br>pave<br>jaguar<br>lobster<br>prison<br>crouch |  
-| bip_39_word_new_br7 | limit<br>pave<br>jaguar<br>lobster<br>prison<br>crouch<br>lucky |  
-| bip_39_word_new_br8 | limit<br>pave<br>jaguar<br>lobster<br>prison<br>crouch<br>lucky<br>picnic |  
-| bip_39_word_new_br9 | limit<br>pave<br>jaguar<br>lobster<br>prison<br>crouch<br>lucky<br>picnic<br>invest |  
-| bip_39_word_new_line1 | limit |  
-| bip_39_word_new_line10 | limit
+| bip_39_word_new_br_1 | limit |  
+| bip_39_word_new_br_10 | limit<br>pave<br>jaguar<br>lobster<br>prison<br>crouch<br>lucky<br>picnic<br>invest<br>lens |  
+| bip_39_word_new_br_11 | limit<br>pave<br>jaguar<br>lobster<br>prison<br>crouch<br>lucky<br>picnic<br>invest<br>lens<br>cross |  
+| bip_39_word_new_br_12 | limit<br>pave<br>jaguar<br>lobster<br>prison<br>crouch<br>lucky<br>picnic<br>invest<br>lens<br>cross<br>add |  
+| bip_39_word_new_br_2 | limit<br>pave |  
+| bip_39_word_new_br_3 | limit<br>pave<br>jaguar |  
+| bip_39_word_new_br_4 | limit<br>pave<br>jaguar<br>lobster |  
+| bip_39_word_new_br_5 | limit<br>pave<br>jaguar<br>lobster<br>prison |  
+| bip_39_word_new_br_6 | limit<br>pave<br>jaguar<br>lobster<br>prison<br>crouch |  
+| bip_39_word_new_br_7 | limit<br>pave<br>jaguar<br>lobster<br>prison<br>crouch<br>lucky |  
+| bip_39_word_new_br_8 | limit<br>pave<br>jaguar<br>lobster<br>prison<br>crouch<br>lucky<br>picnic |  
+| bip_39_word_new_br_9 | limit<br>pave<br>jaguar<br>lobster<br>prison<br>crouch<br>lucky<br>picnic<br>invest |  
+| bip_39_word_new_line_1 | limit |  
+| bip_39_word_new_line_10 | limit
 pave
 jaguar
 lobster
@@ -55,7 +55,7 @@ lucky
 picnic
 invest
 lens |  
-| bip_39_word_new_line11 | limit
+| bip_39_word_new_line_11 | limit
 pave
 jaguar
 lobster
@@ -66,7 +66,7 @@ picnic
 invest
 lens
 cross |  
-| bip_39_word_new_line12 | limit
+| bip_39_word_new_line_12 | limit
 pave
 jaguar
 lobster
@@ -78,34 +78,34 @@ invest
 lens
 cross
 add |  
-| bip_39_word_new_line2 | limit
+| bip_39_word_new_line_2 | limit
 pave |  
-| bip_39_word_new_line3 | limit
+| bip_39_word_new_line_3 | limit
 pave
 jaguar |  
-| bip_39_word_new_line4 | limit
+| bip_39_word_new_line_4 | limit
 pave
 jaguar
 lobster |  
-| bip_39_word_new_line5 | limit
+| bip_39_word_new_line_5 | limit
 pave
 jaguar
 lobster
 prison |  
-| bip_39_word_new_line6 | limit
+| bip_39_word_new_line_6 | limit
 pave
 jaguar
 lobster
 prison
 crouch |  
-| bip_39_word_new_line7 | limit
+| bip_39_word_new_line_7 | limit
 pave
 jaguar
 lobster
 prison
 crouch
 lucky |  
-| bip_39_word_new_line8 | limit
+| bip_39_word_new_line_8 | limit
 pave
 jaguar
 lobster
@@ -113,7 +113,7 @@ prison
 crouch
 lucky
 picnic |  
-| bip_39_word_new_line9 | limit
+| bip_39_word_new_line_9 | limit
 pave
 jaguar
 lobster

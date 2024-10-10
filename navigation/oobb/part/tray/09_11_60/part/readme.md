@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | add |  
-| bip_39_word_new_br10 | add<br>impose<br>december<br>orange<br>village<br>clever<br>agree<br>crucial<br>switch<br>today |  
-| bip_39_word_new_br11 | add<br>impose<br>december<br>orange<br>village<br>clever<br>agree<br>crucial<br>switch<br>today<br>special |  
-| bip_39_word_new_br12 | add<br>impose<br>december<br>orange<br>village<br>clever<br>agree<br>crucial<br>switch<br>today<br>special<br>accuse |  
-| bip_39_word_new_br2 | add<br>impose |  
-| bip_39_word_new_br3 | add<br>impose<br>december |  
-| bip_39_word_new_br4 | add<br>impose<br>december<br>orange |  
-| bip_39_word_new_br5 | add<br>impose<br>december<br>orange<br>village |  
-| bip_39_word_new_br6 | add<br>impose<br>december<br>orange<br>village<br>clever |  
-| bip_39_word_new_br7 | add<br>impose<br>december<br>orange<br>village<br>clever<br>agree |  
-| bip_39_word_new_br8 | add<br>impose<br>december<br>orange<br>village<br>clever<br>agree<br>crucial |  
-| bip_39_word_new_br9 | add<br>impose<br>december<br>orange<br>village<br>clever<br>agree<br>crucial<br>switch |  
-| bip_39_word_new_line1 | add |  
-| bip_39_word_new_line10 | add
+| bip_39_word_new_br_1 | add |  
+| bip_39_word_new_br_10 | add<br>impose<br>december<br>orange<br>village<br>clever<br>agree<br>crucial<br>switch<br>today |  
+| bip_39_word_new_br_11 | add<br>impose<br>december<br>orange<br>village<br>clever<br>agree<br>crucial<br>switch<br>today<br>special |  
+| bip_39_word_new_br_12 | add<br>impose<br>december<br>orange<br>village<br>clever<br>agree<br>crucial<br>switch<br>today<br>special<br>accuse |  
+| bip_39_word_new_br_2 | add<br>impose |  
+| bip_39_word_new_br_3 | add<br>impose<br>december |  
+| bip_39_word_new_br_4 | add<br>impose<br>december<br>orange |  
+| bip_39_word_new_br_5 | add<br>impose<br>december<br>orange<br>village |  
+| bip_39_word_new_br_6 | add<br>impose<br>december<br>orange<br>village<br>clever |  
+| bip_39_word_new_br_7 | add<br>impose<br>december<br>orange<br>village<br>clever<br>agree |  
+| bip_39_word_new_br_8 | add<br>impose<br>december<br>orange<br>village<br>clever<br>agree<br>crucial |  
+| bip_39_word_new_br_9 | add<br>impose<br>december<br>orange<br>village<br>clever<br>agree<br>crucial<br>switch |  
+| bip_39_word_new_line_1 | add |  
+| bip_39_word_new_line_10 | add
 impose
 december
 orange
@@ -55,7 +55,7 @@ agree
 crucial
 switch
 today |  
-| bip_39_word_new_line11 | add
+| bip_39_word_new_line_11 | add
 impose
 december
 orange
@@ -66,7 +66,7 @@ crucial
 switch
 today
 special |  
-| bip_39_word_new_line12 | add
+| bip_39_word_new_line_12 | add
 impose
 december
 orange
@@ -78,34 +78,34 @@ switch
 today
 special
 accuse |  
-| bip_39_word_new_line2 | add
+| bip_39_word_new_line_2 | add
 impose |  
-| bip_39_word_new_line3 | add
+| bip_39_word_new_line_3 | add
 impose
 december |  
-| bip_39_word_new_line4 | add
+| bip_39_word_new_line_4 | add
 impose
 december
 orange |  
-| bip_39_word_new_line5 | add
+| bip_39_word_new_line_5 | add
 impose
 december
 orange
 village |  
-| bip_39_word_new_line6 | add
+| bip_39_word_new_line_6 | add
 impose
 december
 orange
 village
 clever |  
-| bip_39_word_new_line7 | add
+| bip_39_word_new_line_7 | add
 impose
 december
 orange
 village
 clever
 agree |  
-| bip_39_word_new_line8 | add
+| bip_39_word_new_line_8 | add
 impose
 december
 orange
@@ -113,7 +113,7 @@ village
 clever
 agree
 crucial |  
-| bip_39_word_new_line9 | add
+| bip_39_word_new_line_9 | add
 impose
 december
 orange

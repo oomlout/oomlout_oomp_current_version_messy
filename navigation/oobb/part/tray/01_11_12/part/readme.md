@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ensure |  
-| bip_39_word_new_br10 | ensure<br>legend<br>jeans<br>clip<br>slow<br>potato<br>mechanic<br>slogan<br>remember<br>room |  
-| bip_39_word_new_br11 | ensure<br>legend<br>jeans<br>clip<br>slow<br>potato<br>mechanic<br>slogan<br>remember<br>room<br>snap |  
-| bip_39_word_new_br12 | ensure<br>legend<br>jeans<br>clip<br>slow<br>potato<br>mechanic<br>slogan<br>remember<br>room<br>snap<br>actor |  
-| bip_39_word_new_br2 | ensure<br>legend |  
-| bip_39_word_new_br3 | ensure<br>legend<br>jeans |  
-| bip_39_word_new_br4 | ensure<br>legend<br>jeans<br>clip |  
-| bip_39_word_new_br5 | ensure<br>legend<br>jeans<br>clip<br>slow |  
-| bip_39_word_new_br6 | ensure<br>legend<br>jeans<br>clip<br>slow<br>potato |  
-| bip_39_word_new_br7 | ensure<br>legend<br>jeans<br>clip<br>slow<br>potato<br>mechanic |  
-| bip_39_word_new_br8 | ensure<br>legend<br>jeans<br>clip<br>slow<br>potato<br>mechanic<br>slogan |  
-| bip_39_word_new_br9 | ensure<br>legend<br>jeans<br>clip<br>slow<br>potato<br>mechanic<br>slogan<br>remember |  
-| bip_39_word_new_line1 | ensure |  
-| bip_39_word_new_line10 | ensure
+| bip_39_word_new_br_1 | ensure |  
+| bip_39_word_new_br_10 | ensure<br>legend<br>jeans<br>clip<br>slow<br>potato<br>mechanic<br>slogan<br>remember<br>room |  
+| bip_39_word_new_br_11 | ensure<br>legend<br>jeans<br>clip<br>slow<br>potato<br>mechanic<br>slogan<br>remember<br>room<br>snap |  
+| bip_39_word_new_br_12 | ensure<br>legend<br>jeans<br>clip<br>slow<br>potato<br>mechanic<br>slogan<br>remember<br>room<br>snap<br>actor |  
+| bip_39_word_new_br_2 | ensure<br>legend |  
+| bip_39_word_new_br_3 | ensure<br>legend<br>jeans |  
+| bip_39_word_new_br_4 | ensure<br>legend<br>jeans<br>clip |  
+| bip_39_word_new_br_5 | ensure<br>legend<br>jeans<br>clip<br>slow |  
+| bip_39_word_new_br_6 | ensure<br>legend<br>jeans<br>clip<br>slow<br>potato |  
+| bip_39_word_new_br_7 | ensure<br>legend<br>jeans<br>clip<br>slow<br>potato<br>mechanic |  
+| bip_39_word_new_br_8 | ensure<br>legend<br>jeans<br>clip<br>slow<br>potato<br>mechanic<br>slogan |  
+| bip_39_word_new_br_9 | ensure<br>legend<br>jeans<br>clip<br>slow<br>potato<br>mechanic<br>slogan<br>remember |  
+| bip_39_word_new_line_1 | ensure |  
+| bip_39_word_new_line_10 | ensure
 legend
 jeans
 clip
@@ -55,7 +55,7 @@ mechanic
 slogan
 remember
 room |  
-| bip_39_word_new_line11 | ensure
+| bip_39_word_new_line_11 | ensure
 legend
 jeans
 clip
@@ -66,7 +66,7 @@ slogan
 remember
 room
 snap |  
-| bip_39_word_new_line12 | ensure
+| bip_39_word_new_line_12 | ensure
 legend
 jeans
 clip
@@ -78,34 +78,34 @@ remember
 room
 snap
 actor |  
-| bip_39_word_new_line2 | ensure
+| bip_39_word_new_line_2 | ensure
 legend |  
-| bip_39_word_new_line3 | ensure
+| bip_39_word_new_line_3 | ensure
 legend
 jeans |  
-| bip_39_word_new_line4 | ensure
+| bip_39_word_new_line_4 | ensure
 legend
 jeans
 clip |  
-| bip_39_word_new_line5 | ensure
+| bip_39_word_new_line_5 | ensure
 legend
 jeans
 clip
 slow |  
-| bip_39_word_new_line6 | ensure
+| bip_39_word_new_line_6 | ensure
 legend
 jeans
 clip
 slow
 potato |  
-| bip_39_word_new_line7 | ensure
+| bip_39_word_new_line_7 | ensure
 legend
 jeans
 clip
 slow
 potato
 mechanic |  
-| bip_39_word_new_line8 | ensure
+| bip_39_word_new_line_8 | ensure
 legend
 jeans
 clip
@@ -113,7 +113,7 @@ slow
 potato
 mechanic
 slogan |  
-| bip_39_word_new_line9 | ensure
+| bip_39_word_new_line_9 | ensure
 legend
 jeans
 clip

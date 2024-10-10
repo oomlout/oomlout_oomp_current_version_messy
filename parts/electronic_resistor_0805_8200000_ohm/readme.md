@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | virtual |  
-| bip_39_word_new_br10 | virtual<br>immune<br>price<br>skate<br>fortune<br>bomb<br>ten<br>wool<br>among<br>glass |  
-| bip_39_word_new_br11 | virtual<br>immune<br>price<br>skate<br>fortune<br>bomb<br>ten<br>wool<br>among<br>glass<br>camp |  
-| bip_39_word_new_br12 | virtual<br>immune<br>price<br>skate<br>fortune<br>bomb<br>ten<br>wool<br>among<br>glass<br>camp<br>auction |  
-| bip_39_word_new_br2 | virtual<br>immune |  
-| bip_39_word_new_br3 | virtual<br>immune<br>price |  
-| bip_39_word_new_br4 | virtual<br>immune<br>price<br>skate |  
-| bip_39_word_new_br5 | virtual<br>immune<br>price<br>skate<br>fortune |  
-| bip_39_word_new_br6 | virtual<br>immune<br>price<br>skate<br>fortune<br>bomb |  
-| bip_39_word_new_br7 | virtual<br>immune<br>price<br>skate<br>fortune<br>bomb<br>ten |  
-| bip_39_word_new_br8 | virtual<br>immune<br>price<br>skate<br>fortune<br>bomb<br>ten<br>wool |  
-| bip_39_word_new_br9 | virtual<br>immune<br>price<br>skate<br>fortune<br>bomb<br>ten<br>wool<br>among |  
-| bip_39_word_new_line1 | virtual |  
-| bip_39_word_new_line10 | virtual
+| bip_39_word_new_br_1 | virtual |  
+| bip_39_word_new_br_10 | virtual<br>immune<br>price<br>skate<br>fortune<br>bomb<br>ten<br>wool<br>among<br>glass |  
+| bip_39_word_new_br_11 | virtual<br>immune<br>price<br>skate<br>fortune<br>bomb<br>ten<br>wool<br>among<br>glass<br>camp |  
+| bip_39_word_new_br_12 | virtual<br>immune<br>price<br>skate<br>fortune<br>bomb<br>ten<br>wool<br>among<br>glass<br>camp<br>auction |  
+| bip_39_word_new_br_2 | virtual<br>immune |  
+| bip_39_word_new_br_3 | virtual<br>immune<br>price |  
+| bip_39_word_new_br_4 | virtual<br>immune<br>price<br>skate |  
+| bip_39_word_new_br_5 | virtual<br>immune<br>price<br>skate<br>fortune |  
+| bip_39_word_new_br_6 | virtual<br>immune<br>price<br>skate<br>fortune<br>bomb |  
+| bip_39_word_new_br_7 | virtual<br>immune<br>price<br>skate<br>fortune<br>bomb<br>ten |  
+| bip_39_word_new_br_8 | virtual<br>immune<br>price<br>skate<br>fortune<br>bomb<br>ten<br>wool |  
+| bip_39_word_new_br_9 | virtual<br>immune<br>price<br>skate<br>fortune<br>bomb<br>ten<br>wool<br>among |  
+| bip_39_word_new_line_1 | virtual |  
+| bip_39_word_new_line_10 | virtual
 immune
 price
 skate
@@ -55,7 +55,7 @@ ten
 wool
 among
 glass |  
-| bip_39_word_new_line11 | virtual
+| bip_39_word_new_line_11 | virtual
 immune
 price
 skate
@@ -66,7 +66,7 @@ wool
 among
 glass
 camp |  
-| bip_39_word_new_line12 | virtual
+| bip_39_word_new_line_12 | virtual
 immune
 price
 skate
@@ -78,34 +78,34 @@ among
 glass
 camp
 auction |  
-| bip_39_word_new_line2 | virtual
+| bip_39_word_new_line_2 | virtual
 immune |  
-| bip_39_word_new_line3 | virtual
+| bip_39_word_new_line_3 | virtual
 immune
 price |  
-| bip_39_word_new_line4 | virtual
+| bip_39_word_new_line_4 | virtual
 immune
 price
 skate |  
-| bip_39_word_new_line5 | virtual
+| bip_39_word_new_line_5 | virtual
 immune
 price
 skate
 fortune |  
-| bip_39_word_new_line6 | virtual
+| bip_39_word_new_line_6 | virtual
 immune
 price
 skate
 fortune
 bomb |  
-| bip_39_word_new_line7 | virtual
+| bip_39_word_new_line_7 | virtual
 immune
 price
 skate
 fortune
 bomb
 ten |  
-| bip_39_word_new_line8 | virtual
+| bip_39_word_new_line_8 | virtual
 immune
 price
 skate
@@ -113,7 +113,7 @@ fortune
 bomb
 ten
 wool |  
-| bip_39_word_new_line9 | virtual
+| bip_39_word_new_line_9 | virtual
 immune
 price
 skate

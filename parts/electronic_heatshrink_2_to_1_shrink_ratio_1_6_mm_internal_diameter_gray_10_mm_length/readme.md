@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | coast |  
-| bip_39_word_new_br10 | coast<br>ostrich<br>blade<br>hello<br>twice<br>chair<br>possible<br>column<br>eyebrow<br>erode |  
-| bip_39_word_new_br11 | coast<br>ostrich<br>blade<br>hello<br>twice<br>chair<br>possible<br>column<br>eyebrow<br>erode<br>owner |  
-| bip_39_word_new_br12 | coast<br>ostrich<br>blade<br>hello<br>twice<br>chair<br>possible<br>column<br>eyebrow<br>erode<br>owner<br>avocado |  
-| bip_39_word_new_br2 | coast<br>ostrich |  
-| bip_39_word_new_br3 | coast<br>ostrich<br>blade |  
-| bip_39_word_new_br4 | coast<br>ostrich<br>blade<br>hello |  
-| bip_39_word_new_br5 | coast<br>ostrich<br>blade<br>hello<br>twice |  
-| bip_39_word_new_br6 | coast<br>ostrich<br>blade<br>hello<br>twice<br>chair |  
-| bip_39_word_new_br7 | coast<br>ostrich<br>blade<br>hello<br>twice<br>chair<br>possible |  
-| bip_39_word_new_br8 | coast<br>ostrich<br>blade<br>hello<br>twice<br>chair<br>possible<br>column |  
-| bip_39_word_new_br9 | coast<br>ostrich<br>blade<br>hello<br>twice<br>chair<br>possible<br>column<br>eyebrow |  
-| bip_39_word_new_line1 | coast |  
-| bip_39_word_new_line10 | coast
+| bip_39_word_new_br_1 | coast |  
+| bip_39_word_new_br_10 | coast<br>ostrich<br>blade<br>hello<br>twice<br>chair<br>possible<br>column<br>eyebrow<br>erode |  
+| bip_39_word_new_br_11 | coast<br>ostrich<br>blade<br>hello<br>twice<br>chair<br>possible<br>column<br>eyebrow<br>erode<br>owner |  
+| bip_39_word_new_br_12 | coast<br>ostrich<br>blade<br>hello<br>twice<br>chair<br>possible<br>column<br>eyebrow<br>erode<br>owner<br>avocado |  
+| bip_39_word_new_br_2 | coast<br>ostrich |  
+| bip_39_word_new_br_3 | coast<br>ostrich<br>blade |  
+| bip_39_word_new_br_4 | coast<br>ostrich<br>blade<br>hello |  
+| bip_39_word_new_br_5 | coast<br>ostrich<br>blade<br>hello<br>twice |  
+| bip_39_word_new_br_6 | coast<br>ostrich<br>blade<br>hello<br>twice<br>chair |  
+| bip_39_word_new_br_7 | coast<br>ostrich<br>blade<br>hello<br>twice<br>chair<br>possible |  
+| bip_39_word_new_br_8 | coast<br>ostrich<br>blade<br>hello<br>twice<br>chair<br>possible<br>column |  
+| bip_39_word_new_br_9 | coast<br>ostrich<br>blade<br>hello<br>twice<br>chair<br>possible<br>column<br>eyebrow |  
+| bip_39_word_new_line_1 | coast |  
+| bip_39_word_new_line_10 | coast
 ostrich
 blade
 hello
@@ -55,7 +55,7 @@ possible
 column
 eyebrow
 erode |  
-| bip_39_word_new_line11 | coast
+| bip_39_word_new_line_11 | coast
 ostrich
 blade
 hello
@@ -66,7 +66,7 @@ column
 eyebrow
 erode
 owner |  
-| bip_39_word_new_line12 | coast
+| bip_39_word_new_line_12 | coast
 ostrich
 blade
 hello
@@ -78,34 +78,34 @@ eyebrow
 erode
 owner
 avocado |  
-| bip_39_word_new_line2 | coast
+| bip_39_word_new_line_2 | coast
 ostrich |  
-| bip_39_word_new_line3 | coast
+| bip_39_word_new_line_3 | coast
 ostrich
 blade |  
-| bip_39_word_new_line4 | coast
+| bip_39_word_new_line_4 | coast
 ostrich
 blade
 hello |  
-| bip_39_word_new_line5 | coast
+| bip_39_word_new_line_5 | coast
 ostrich
 blade
 hello
 twice |  
-| bip_39_word_new_line6 | coast
+| bip_39_word_new_line_6 | coast
 ostrich
 blade
 hello
 twice
 chair |  
-| bip_39_word_new_line7 | coast
+| bip_39_word_new_line_7 | coast
 ostrich
 blade
 hello
 twice
 chair
 possible |  
-| bip_39_word_new_line8 | coast
+| bip_39_word_new_line_8 | coast
 ostrich
 blade
 hello
@@ -113,7 +113,7 @@ twice
 chair
 possible
 column |  
-| bip_39_word_new_line9 | coast
+| bip_39_word_new_line_9 | coast
 ostrich
 blade
 hello

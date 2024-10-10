@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ability |  
-| bip_39_word_new_br10 | ability<br>switch<br>match<br>pepper<br>where<br>fiscal<br>horror<br>tourist<br>flight<br>spread |  
-| bip_39_word_new_br11 | ability<br>switch<br>match<br>pepper<br>where<br>fiscal<br>horror<br>tourist<br>flight<br>spread<br>ribbon |  
-| bip_39_word_new_br12 | ability<br>switch<br>match<br>pepper<br>where<br>fiscal<br>horror<br>tourist<br>flight<br>spread<br>ribbon<br>another |  
-| bip_39_word_new_br2 | ability<br>switch |  
-| bip_39_word_new_br3 | ability<br>switch<br>match |  
-| bip_39_word_new_br4 | ability<br>switch<br>match<br>pepper |  
-| bip_39_word_new_br5 | ability<br>switch<br>match<br>pepper<br>where |  
-| bip_39_word_new_br6 | ability<br>switch<br>match<br>pepper<br>where<br>fiscal |  
-| bip_39_word_new_br7 | ability<br>switch<br>match<br>pepper<br>where<br>fiscal<br>horror |  
-| bip_39_word_new_br8 | ability<br>switch<br>match<br>pepper<br>where<br>fiscal<br>horror<br>tourist |  
-| bip_39_word_new_br9 | ability<br>switch<br>match<br>pepper<br>where<br>fiscal<br>horror<br>tourist<br>flight |  
-| bip_39_word_new_line1 | ability |  
-| bip_39_word_new_line10 | ability
+| bip_39_word_new_br_1 | ability |  
+| bip_39_word_new_br_10 | ability<br>switch<br>match<br>pepper<br>where<br>fiscal<br>horror<br>tourist<br>flight<br>spread |  
+| bip_39_word_new_br_11 | ability<br>switch<br>match<br>pepper<br>where<br>fiscal<br>horror<br>tourist<br>flight<br>spread<br>ribbon |  
+| bip_39_word_new_br_12 | ability<br>switch<br>match<br>pepper<br>where<br>fiscal<br>horror<br>tourist<br>flight<br>spread<br>ribbon<br>another |  
+| bip_39_word_new_br_2 | ability<br>switch |  
+| bip_39_word_new_br_3 | ability<br>switch<br>match |  
+| bip_39_word_new_br_4 | ability<br>switch<br>match<br>pepper |  
+| bip_39_word_new_br_5 | ability<br>switch<br>match<br>pepper<br>where |  
+| bip_39_word_new_br_6 | ability<br>switch<br>match<br>pepper<br>where<br>fiscal |  
+| bip_39_word_new_br_7 | ability<br>switch<br>match<br>pepper<br>where<br>fiscal<br>horror |  
+| bip_39_word_new_br_8 | ability<br>switch<br>match<br>pepper<br>where<br>fiscal<br>horror<br>tourist |  
+| bip_39_word_new_br_9 | ability<br>switch<br>match<br>pepper<br>where<br>fiscal<br>horror<br>tourist<br>flight |  
+| bip_39_word_new_line_1 | ability |  
+| bip_39_word_new_line_10 | ability
 switch
 match
 pepper
@@ -55,7 +55,7 @@ horror
 tourist
 flight
 spread |  
-| bip_39_word_new_line11 | ability
+| bip_39_word_new_line_11 | ability
 switch
 match
 pepper
@@ -66,7 +66,7 @@ tourist
 flight
 spread
 ribbon |  
-| bip_39_word_new_line12 | ability
+| bip_39_word_new_line_12 | ability
 switch
 match
 pepper
@@ -78,34 +78,34 @@ flight
 spread
 ribbon
 another |  
-| bip_39_word_new_line2 | ability
+| bip_39_word_new_line_2 | ability
 switch |  
-| bip_39_word_new_line3 | ability
+| bip_39_word_new_line_3 | ability
 switch
 match |  
-| bip_39_word_new_line4 | ability
+| bip_39_word_new_line_4 | ability
 switch
 match
 pepper |  
-| bip_39_word_new_line5 | ability
+| bip_39_word_new_line_5 | ability
 switch
 match
 pepper
 where |  
-| bip_39_word_new_line6 | ability
+| bip_39_word_new_line_6 | ability
 switch
 match
 pepper
 where
 fiscal |  
-| bip_39_word_new_line7 | ability
+| bip_39_word_new_line_7 | ability
 switch
 match
 pepper
 where
 fiscal
 horror |  
-| bip_39_word_new_line8 | ability
+| bip_39_word_new_line_8 | ability
 switch
 match
 pepper
@@ -113,7 +113,7 @@ where
 fiscal
 horror
 tourist |  
-| bip_39_word_new_line9 | ability
+| bip_39_word_new_line_9 | ability
 switch
 match
 pepper

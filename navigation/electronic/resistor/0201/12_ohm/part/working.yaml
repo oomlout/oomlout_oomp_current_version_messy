@@ -1,17 +1,17 @@
-bip_39_word_new_br1: theme
-bip_39_word_new_br10: theme<br>hotel<br>toy<br>suggest<br>culture<br>immense<br>bid<br>slim<br>neutral<br>adjust
-bip_39_word_new_br11: theme<br>hotel<br>toy<br>suggest<br>culture<br>immense<br>bid<br>slim<br>neutral<br>adjust<br>surround
-bip_39_word_new_br12: theme<br>hotel<br>toy<br>suggest<br>culture<br>immense<br>bid<br>slim<br>neutral<br>adjust<br>surround<br>actual
-bip_39_word_new_br2: theme<br>hotel
-bip_39_word_new_br3: theme<br>hotel<br>toy
-bip_39_word_new_br4: theme<br>hotel<br>toy<br>suggest
-bip_39_word_new_br5: theme<br>hotel<br>toy<br>suggest<br>culture
-bip_39_word_new_br6: theme<br>hotel<br>toy<br>suggest<br>culture<br>immense
-bip_39_word_new_br7: theme<br>hotel<br>toy<br>suggest<br>culture<br>immense<br>bid
-bip_39_word_new_br8: theme<br>hotel<br>toy<br>suggest<br>culture<br>immense<br>bid<br>slim
-bip_39_word_new_br9: theme<br>hotel<br>toy<br>suggest<br>culture<br>immense<br>bid<br>slim<br>neutral
-bip_39_word_new_line1: theme
-bip_39_word_new_line10: 'theme
+bip_39_word_new_br_1: theme
+bip_39_word_new_br_10: theme<br>hotel<br>toy<br>suggest<br>culture<br>immense<br>bid<br>slim<br>neutral<br>adjust
+bip_39_word_new_br_11: theme<br>hotel<br>toy<br>suggest<br>culture<br>immense<br>bid<br>slim<br>neutral<br>adjust<br>surround
+bip_39_word_new_br_12: theme<br>hotel<br>toy<br>suggest<br>culture<br>immense<br>bid<br>slim<br>neutral<br>adjust<br>surround<br>actual
+bip_39_word_new_br_2: theme<br>hotel
+bip_39_word_new_br_3: theme<br>hotel<br>toy
+bip_39_word_new_br_4: theme<br>hotel<br>toy<br>suggest
+bip_39_word_new_br_5: theme<br>hotel<br>toy<br>suggest<br>culture
+bip_39_word_new_br_6: theme<br>hotel<br>toy<br>suggest<br>culture<br>immense
+bip_39_word_new_br_7: theme<br>hotel<br>toy<br>suggest<br>culture<br>immense<br>bid
+bip_39_word_new_br_8: theme<br>hotel<br>toy<br>suggest<br>culture<br>immense<br>bid<br>slim
+bip_39_word_new_br_9: theme<br>hotel<br>toy<br>suggest<br>culture<br>immense<br>bid<br>slim<br>neutral
+bip_39_word_new_line_1: theme
+bip_39_word_new_line_10: 'theme
 
   hotel
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'theme
   neutral
 
   adjust'
-bip_39_word_new_line11: 'theme
+bip_39_word_new_line_11: 'theme
 
   hotel
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'theme
   adjust
 
   surround'
-bip_39_word_new_line12: 'theme
+bip_39_word_new_line_12: 'theme
 
   hotel
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'theme
   surround
 
   actual'
-bip_39_word_new_line2: 'theme
+bip_39_word_new_line_2: 'theme
 
   hotel'
-bip_39_word_new_line3: 'theme
+bip_39_word_new_line_3: 'theme
 
   hotel
 
   toy'
-bip_39_word_new_line4: 'theme
+bip_39_word_new_line_4: 'theme
 
   hotel
 
   toy
 
   suggest'
-bip_39_word_new_line5: 'theme
+bip_39_word_new_line_5: 'theme
 
   hotel
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'theme
   suggest
 
   culture'
-bip_39_word_new_line6: 'theme
+bip_39_word_new_line_6: 'theme
 
   hotel
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'theme
   culture
 
   immense'
-bip_39_word_new_line7: 'theme
+bip_39_word_new_line_7: 'theme
 
   hotel
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'theme
   immense
 
   bid'
-bip_39_word_new_line8: 'theme
+bip_39_word_new_line_8: 'theme
 
   hotel
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'theme
   bid
 
   slim'
-bip_39_word_new_line9: 'theme
+bip_39_word_new_line_9: 'theme
 
   hotel
 

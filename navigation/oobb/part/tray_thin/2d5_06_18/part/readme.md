@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | whip |  
-| bip_39_word_new_br10 | whip<br>stone<br>grocery<br>tiny<br>course<br>boring<br>arm<br>desert<br>shoe<br>early |  
-| bip_39_word_new_br11 | whip<br>stone<br>grocery<br>tiny<br>course<br>boring<br>arm<br>desert<br>shoe<br>early<br>ridge |  
-| bip_39_word_new_br2 | whip<br>stone |  
-| bip_39_word_new_br3 | whip<br>stone<br>grocery |  
-| bip_39_word_new_br4 | whip<br>stone<br>grocery<br>tiny |  
-| bip_39_word_new_br5 | whip<br>stone<br>grocery<br>tiny<br>course |  
-| bip_39_word_new_br6 | whip<br>stone<br>grocery<br>tiny<br>course<br>boring |  
-| bip_39_word_new_br7 | whip<br>stone<br>grocery<br>tiny<br>course<br>boring<br>arm |  
-| bip_39_word_new_br8 | whip<br>stone<br>grocery<br>tiny<br>course<br>boring<br>arm<br>desert |  
-| bip_39_word_new_br9 | whip<br>stone<br>grocery<br>tiny<br>course<br>boring<br>arm<br>desert<br>shoe |  
-| bip_39_word_new_line1 | whip |  
-| bip_39_word_new_line10 | whip
+| bip_39_word_new_br_1 | whip |  
+| bip_39_word_new_br_10 | whip<br>stone<br>grocery<br>tiny<br>course<br>boring<br>arm<br>desert<br>shoe<br>early |  
+| bip_39_word_new_br_11 | whip<br>stone<br>grocery<br>tiny<br>course<br>boring<br>arm<br>desert<br>shoe<br>early<br>ridge |  
+| bip_39_word_new_br_2 | whip<br>stone |  
+| bip_39_word_new_br_3 | whip<br>stone<br>grocery |  
+| bip_39_word_new_br_4 | whip<br>stone<br>grocery<br>tiny |  
+| bip_39_word_new_br_5 | whip<br>stone<br>grocery<br>tiny<br>course |  
+| bip_39_word_new_br_6 | whip<br>stone<br>grocery<br>tiny<br>course<br>boring |  
+| bip_39_word_new_br_7 | whip<br>stone<br>grocery<br>tiny<br>course<br>boring<br>arm |  
+| bip_39_word_new_br_8 | whip<br>stone<br>grocery<br>tiny<br>course<br>boring<br>arm<br>desert |  
+| bip_39_word_new_br_9 | whip<br>stone<br>grocery<br>tiny<br>course<br>boring<br>arm<br>desert<br>shoe |  
+| bip_39_word_new_line_1 | whip |  
+| bip_39_word_new_line_10 | whip
 stone
 grocery
 tiny
@@ -54,7 +54,7 @@ arm
 desert
 shoe
 early |  
-| bip_39_word_new_line11 | whip
+| bip_39_word_new_line_11 | whip
 stone
 grocery
 tiny
@@ -65,34 +65,34 @@ desert
 shoe
 early
 ridge |  
-| bip_39_word_new_line2 | whip
+| bip_39_word_new_line_2 | whip
 stone |  
-| bip_39_word_new_line3 | whip
+| bip_39_word_new_line_3 | whip
 stone
 grocery |  
-| bip_39_word_new_line4 | whip
+| bip_39_word_new_line_4 | whip
 stone
 grocery
 tiny |  
-| bip_39_word_new_line5 | whip
+| bip_39_word_new_line_5 | whip
 stone
 grocery
 tiny
 course |  
-| bip_39_word_new_line6 | whip
+| bip_39_word_new_line_6 | whip
 stone
 grocery
 tiny
 course
 boring |  
-| bip_39_word_new_line7 | whip
+| bip_39_word_new_line_7 | whip
 stone
 grocery
 tiny
 course
 boring
 arm |  
-| bip_39_word_new_line8 | whip
+| bip_39_word_new_line_8 | whip
 stone
 grocery
 tiny
@@ -100,7 +100,7 @@ course
 boring
 arm
 desert |  
-| bip_39_word_new_line9 | whip
+| bip_39_word_new_line_9 | whip
 stone
 grocery
 tiny

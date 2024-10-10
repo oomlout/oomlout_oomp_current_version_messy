@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | open |  
-| bip_39_word_new_br10 | open<br>clock<br>steak<br>shoe<br>monitor<br>climb<br>fix<br>outdoor<br>winner<br>jazz |  
-| bip_39_word_new_br11 | open<br>clock<br>steak<br>shoe<br>monitor<br>climb<br>fix<br>outdoor<br>winner<br>jazz<br>display |  
-| bip_39_word_new_br12 | open<br>clock<br>steak<br>shoe<br>monitor<br>climb<br>fix<br>outdoor<br>winner<br>jazz<br>display<br>alpha |  
-| bip_39_word_new_br2 | open<br>clock |  
-| bip_39_word_new_br3 | open<br>clock<br>steak |  
-| bip_39_word_new_br4 | open<br>clock<br>steak<br>shoe |  
-| bip_39_word_new_br5 | open<br>clock<br>steak<br>shoe<br>monitor |  
-| bip_39_word_new_br6 | open<br>clock<br>steak<br>shoe<br>monitor<br>climb |  
-| bip_39_word_new_br7 | open<br>clock<br>steak<br>shoe<br>monitor<br>climb<br>fix |  
-| bip_39_word_new_br8 | open<br>clock<br>steak<br>shoe<br>monitor<br>climb<br>fix<br>outdoor |  
-| bip_39_word_new_br9 | open<br>clock<br>steak<br>shoe<br>monitor<br>climb<br>fix<br>outdoor<br>winner |  
-| bip_39_word_new_line1 | open |  
-| bip_39_word_new_line10 | open
+| bip_39_word_new_br_1 | open |  
+| bip_39_word_new_br_10 | open<br>clock<br>steak<br>shoe<br>monitor<br>climb<br>fix<br>outdoor<br>winner<br>jazz |  
+| bip_39_word_new_br_11 | open<br>clock<br>steak<br>shoe<br>monitor<br>climb<br>fix<br>outdoor<br>winner<br>jazz<br>display |  
+| bip_39_word_new_br_12 | open<br>clock<br>steak<br>shoe<br>monitor<br>climb<br>fix<br>outdoor<br>winner<br>jazz<br>display<br>alpha |  
+| bip_39_word_new_br_2 | open<br>clock |  
+| bip_39_word_new_br_3 | open<br>clock<br>steak |  
+| bip_39_word_new_br_4 | open<br>clock<br>steak<br>shoe |  
+| bip_39_word_new_br_5 | open<br>clock<br>steak<br>shoe<br>monitor |  
+| bip_39_word_new_br_6 | open<br>clock<br>steak<br>shoe<br>monitor<br>climb |  
+| bip_39_word_new_br_7 | open<br>clock<br>steak<br>shoe<br>monitor<br>climb<br>fix |  
+| bip_39_word_new_br_8 | open<br>clock<br>steak<br>shoe<br>monitor<br>climb<br>fix<br>outdoor |  
+| bip_39_word_new_br_9 | open<br>clock<br>steak<br>shoe<br>monitor<br>climb<br>fix<br>outdoor<br>winner |  
+| bip_39_word_new_line_1 | open |  
+| bip_39_word_new_line_10 | open
 clock
 steak
 shoe
@@ -55,7 +55,7 @@ fix
 outdoor
 winner
 jazz |  
-| bip_39_word_new_line11 | open
+| bip_39_word_new_line_11 | open
 clock
 steak
 shoe
@@ -66,7 +66,7 @@ outdoor
 winner
 jazz
 display |  
-| bip_39_word_new_line12 | open
+| bip_39_word_new_line_12 | open
 clock
 steak
 shoe
@@ -78,34 +78,34 @@ winner
 jazz
 display
 alpha |  
-| bip_39_word_new_line2 | open
+| bip_39_word_new_line_2 | open
 clock |  
-| bip_39_word_new_line3 | open
+| bip_39_word_new_line_3 | open
 clock
 steak |  
-| bip_39_word_new_line4 | open
+| bip_39_word_new_line_4 | open
 clock
 steak
 shoe |  
-| bip_39_word_new_line5 | open
+| bip_39_word_new_line_5 | open
 clock
 steak
 shoe
 monitor |  
-| bip_39_word_new_line6 | open
+| bip_39_word_new_line_6 | open
 clock
 steak
 shoe
 monitor
 climb |  
-| bip_39_word_new_line7 | open
+| bip_39_word_new_line_7 | open
 clock
 steak
 shoe
 monitor
 climb
 fix |  
-| bip_39_word_new_line8 | open
+| bip_39_word_new_line_8 | open
 clock
 steak
 shoe
@@ -113,7 +113,7 @@ monitor
 climb
 fix
 outdoor |  
-| bip_39_word_new_line9 | open
+| bip_39_word_new_line_9 | open
 clock
 steak
 shoe

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | derive |  
-| bip_39_word_new_br10 | derive<br>fold<br>solve<br>pink<br>appear<br>noble<br>balance<br>bright<br>crew<br>brush |  
-| bip_39_word_new_br11 | derive<br>fold<br>solve<br>pink<br>appear<br>noble<br>balance<br>bright<br>crew<br>brush<br>certain |  
-| bip_39_word_new_br12 | derive<br>fold<br>solve<br>pink<br>appear<br>noble<br>balance<br>bright<br>crew<br>brush<br>certain<br>air |  
-| bip_39_word_new_br2 | derive<br>fold |  
-| bip_39_word_new_br3 | derive<br>fold<br>solve |  
-| bip_39_word_new_br4 | derive<br>fold<br>solve<br>pink |  
-| bip_39_word_new_br5 | derive<br>fold<br>solve<br>pink<br>appear |  
-| bip_39_word_new_br6 | derive<br>fold<br>solve<br>pink<br>appear<br>noble |  
-| bip_39_word_new_br7 | derive<br>fold<br>solve<br>pink<br>appear<br>noble<br>balance |  
-| bip_39_word_new_br8 | derive<br>fold<br>solve<br>pink<br>appear<br>noble<br>balance<br>bright |  
-| bip_39_word_new_br9 | derive<br>fold<br>solve<br>pink<br>appear<br>noble<br>balance<br>bright<br>crew |  
-| bip_39_word_new_line1 | derive |  
-| bip_39_word_new_line10 | derive
+| bip_39_word_new_br_1 | derive |  
+| bip_39_word_new_br_10 | derive<br>fold<br>solve<br>pink<br>appear<br>noble<br>balance<br>bright<br>crew<br>brush |  
+| bip_39_word_new_br_11 | derive<br>fold<br>solve<br>pink<br>appear<br>noble<br>balance<br>bright<br>crew<br>brush<br>certain |  
+| bip_39_word_new_br_12 | derive<br>fold<br>solve<br>pink<br>appear<br>noble<br>balance<br>bright<br>crew<br>brush<br>certain<br>air |  
+| bip_39_word_new_br_2 | derive<br>fold |  
+| bip_39_word_new_br_3 | derive<br>fold<br>solve |  
+| bip_39_word_new_br_4 | derive<br>fold<br>solve<br>pink |  
+| bip_39_word_new_br_5 | derive<br>fold<br>solve<br>pink<br>appear |  
+| bip_39_word_new_br_6 | derive<br>fold<br>solve<br>pink<br>appear<br>noble |  
+| bip_39_word_new_br_7 | derive<br>fold<br>solve<br>pink<br>appear<br>noble<br>balance |  
+| bip_39_word_new_br_8 | derive<br>fold<br>solve<br>pink<br>appear<br>noble<br>balance<br>bright |  
+| bip_39_word_new_br_9 | derive<br>fold<br>solve<br>pink<br>appear<br>noble<br>balance<br>bright<br>crew |  
+| bip_39_word_new_line_1 | derive |  
+| bip_39_word_new_line_10 | derive
 fold
 solve
 pink
@@ -55,7 +55,7 @@ balance
 bright
 crew
 brush |  
-| bip_39_word_new_line11 | derive
+| bip_39_word_new_line_11 | derive
 fold
 solve
 pink
@@ -66,7 +66,7 @@ bright
 crew
 brush
 certain |  
-| bip_39_word_new_line12 | derive
+| bip_39_word_new_line_12 | derive
 fold
 solve
 pink
@@ -78,34 +78,34 @@ crew
 brush
 certain
 air |  
-| bip_39_word_new_line2 | derive
+| bip_39_word_new_line_2 | derive
 fold |  
-| bip_39_word_new_line3 | derive
+| bip_39_word_new_line_3 | derive
 fold
 solve |  
-| bip_39_word_new_line4 | derive
+| bip_39_word_new_line_4 | derive
 fold
 solve
 pink |  
-| bip_39_word_new_line5 | derive
+| bip_39_word_new_line_5 | derive
 fold
 solve
 pink
 appear |  
-| bip_39_word_new_line6 | derive
+| bip_39_word_new_line_6 | derive
 fold
 solve
 pink
 appear
 noble |  
-| bip_39_word_new_line7 | derive
+| bip_39_word_new_line_7 | derive
 fold
 solve
 pink
 appear
 noble
 balance |  
-| bip_39_word_new_line8 | derive
+| bip_39_word_new_line_8 | derive
 fold
 solve
 pink
@@ -113,7 +113,7 @@ appear
 noble
 balance
 bright |  
-| bip_39_word_new_line9 | derive
+| bip_39_word_new_line_9 | derive
 fold
 solve
 pink

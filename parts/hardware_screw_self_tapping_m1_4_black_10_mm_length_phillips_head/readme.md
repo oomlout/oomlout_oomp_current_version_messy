@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | imitate |  
-| bip_39_word_new_br10 | imitate<br>switch<br>balcony<br>route<br>cage<br>media<br>flower<br>banana<br>casino<br>hard |  
-| bip_39_word_new_br11 | imitate<br>switch<br>balcony<br>route<br>cage<br>media<br>flower<br>banana<br>casino<br>hard<br>indoor |  
-| bip_39_word_new_br12 | imitate<br>switch<br>balcony<br>route<br>cage<br>media<br>flower<br>banana<br>casino<br>hard<br>indoor<br>arm |  
-| bip_39_word_new_br2 | imitate<br>switch |  
-| bip_39_word_new_br3 | imitate<br>switch<br>balcony |  
-| bip_39_word_new_br4 | imitate<br>switch<br>balcony<br>route |  
-| bip_39_word_new_br5 | imitate<br>switch<br>balcony<br>route<br>cage |  
-| bip_39_word_new_br6 | imitate<br>switch<br>balcony<br>route<br>cage<br>media |  
-| bip_39_word_new_br7 | imitate<br>switch<br>balcony<br>route<br>cage<br>media<br>flower |  
-| bip_39_word_new_br8 | imitate<br>switch<br>balcony<br>route<br>cage<br>media<br>flower<br>banana |  
-| bip_39_word_new_br9 | imitate<br>switch<br>balcony<br>route<br>cage<br>media<br>flower<br>banana<br>casino |  
-| bip_39_word_new_line1 | imitate |  
-| bip_39_word_new_line10 | imitate
+| bip_39_word_new_br_1 | imitate |  
+| bip_39_word_new_br_10 | imitate<br>switch<br>balcony<br>route<br>cage<br>media<br>flower<br>banana<br>casino<br>hard |  
+| bip_39_word_new_br_11 | imitate<br>switch<br>balcony<br>route<br>cage<br>media<br>flower<br>banana<br>casino<br>hard<br>indoor |  
+| bip_39_word_new_br_12 | imitate<br>switch<br>balcony<br>route<br>cage<br>media<br>flower<br>banana<br>casino<br>hard<br>indoor<br>arm |  
+| bip_39_word_new_br_2 | imitate<br>switch |  
+| bip_39_word_new_br_3 | imitate<br>switch<br>balcony |  
+| bip_39_word_new_br_4 | imitate<br>switch<br>balcony<br>route |  
+| bip_39_word_new_br_5 | imitate<br>switch<br>balcony<br>route<br>cage |  
+| bip_39_word_new_br_6 | imitate<br>switch<br>balcony<br>route<br>cage<br>media |  
+| bip_39_word_new_br_7 | imitate<br>switch<br>balcony<br>route<br>cage<br>media<br>flower |  
+| bip_39_word_new_br_8 | imitate<br>switch<br>balcony<br>route<br>cage<br>media<br>flower<br>banana |  
+| bip_39_word_new_br_9 | imitate<br>switch<br>balcony<br>route<br>cage<br>media<br>flower<br>banana<br>casino |  
+| bip_39_word_new_line_1 | imitate |  
+| bip_39_word_new_line_10 | imitate
 switch
 balcony
 route
@@ -55,7 +55,7 @@ flower
 banana
 casino
 hard |  
-| bip_39_word_new_line11 | imitate
+| bip_39_word_new_line_11 | imitate
 switch
 balcony
 route
@@ -66,7 +66,7 @@ banana
 casino
 hard
 indoor |  
-| bip_39_word_new_line12 | imitate
+| bip_39_word_new_line_12 | imitate
 switch
 balcony
 route
@@ -78,34 +78,34 @@ casino
 hard
 indoor
 arm |  
-| bip_39_word_new_line2 | imitate
+| bip_39_word_new_line_2 | imitate
 switch |  
-| bip_39_word_new_line3 | imitate
+| bip_39_word_new_line_3 | imitate
 switch
 balcony |  
-| bip_39_word_new_line4 | imitate
+| bip_39_word_new_line_4 | imitate
 switch
 balcony
 route |  
-| bip_39_word_new_line5 | imitate
+| bip_39_word_new_line_5 | imitate
 switch
 balcony
 route
 cage |  
-| bip_39_word_new_line6 | imitate
+| bip_39_word_new_line_6 | imitate
 switch
 balcony
 route
 cage
 media |  
-| bip_39_word_new_line7 | imitate
+| bip_39_word_new_line_7 | imitate
 switch
 balcony
 route
 cage
 media
 flower |  
-| bip_39_word_new_line8 | imitate
+| bip_39_word_new_line_8 | imitate
 switch
 balcony
 route
@@ -113,7 +113,7 @@ cage
 media
 flower
 banana |  
-| bip_39_word_new_line9 | imitate
+| bip_39_word_new_line_9 | imitate
 switch
 balcony
 route

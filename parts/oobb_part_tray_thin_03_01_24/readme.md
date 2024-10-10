@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | omit |  
-| bip_39_word_new_br10 | omit<br>sport<br>chapter<br>dad<br>account<br>myself<br>chicken<br>unfair<br>avoid<br>frown |  
-| bip_39_word_new_br11 | omit<br>sport<br>chapter<br>dad<br>account<br>myself<br>chicken<br>unfair<br>avoid<br>frown<br>slab |  
-| bip_39_word_new_br12 | omit<br>sport<br>chapter<br>dad<br>account<br>myself<br>chicken<br>unfair<br>avoid<br>frown<br>slab<br>address |  
-| bip_39_word_new_br2 | omit<br>sport |  
-| bip_39_word_new_br3 | omit<br>sport<br>chapter |  
-| bip_39_word_new_br4 | omit<br>sport<br>chapter<br>dad |  
-| bip_39_word_new_br5 | omit<br>sport<br>chapter<br>dad<br>account |  
-| bip_39_word_new_br6 | omit<br>sport<br>chapter<br>dad<br>account<br>myself |  
-| bip_39_word_new_br7 | omit<br>sport<br>chapter<br>dad<br>account<br>myself<br>chicken |  
-| bip_39_word_new_br8 | omit<br>sport<br>chapter<br>dad<br>account<br>myself<br>chicken<br>unfair |  
-| bip_39_word_new_br9 | omit<br>sport<br>chapter<br>dad<br>account<br>myself<br>chicken<br>unfair<br>avoid |  
-| bip_39_word_new_line1 | omit |  
-| bip_39_word_new_line10 | omit
+| bip_39_word_new_br_1 | omit |  
+| bip_39_word_new_br_10 | omit<br>sport<br>chapter<br>dad<br>account<br>myself<br>chicken<br>unfair<br>avoid<br>frown |  
+| bip_39_word_new_br_11 | omit<br>sport<br>chapter<br>dad<br>account<br>myself<br>chicken<br>unfair<br>avoid<br>frown<br>slab |  
+| bip_39_word_new_br_12 | omit<br>sport<br>chapter<br>dad<br>account<br>myself<br>chicken<br>unfair<br>avoid<br>frown<br>slab<br>address |  
+| bip_39_word_new_br_2 | omit<br>sport |  
+| bip_39_word_new_br_3 | omit<br>sport<br>chapter |  
+| bip_39_word_new_br_4 | omit<br>sport<br>chapter<br>dad |  
+| bip_39_word_new_br_5 | omit<br>sport<br>chapter<br>dad<br>account |  
+| bip_39_word_new_br_6 | omit<br>sport<br>chapter<br>dad<br>account<br>myself |  
+| bip_39_word_new_br_7 | omit<br>sport<br>chapter<br>dad<br>account<br>myself<br>chicken |  
+| bip_39_word_new_br_8 | omit<br>sport<br>chapter<br>dad<br>account<br>myself<br>chicken<br>unfair |  
+| bip_39_word_new_br_9 | omit<br>sport<br>chapter<br>dad<br>account<br>myself<br>chicken<br>unfair<br>avoid |  
+| bip_39_word_new_line_1 | omit |  
+| bip_39_word_new_line_10 | omit
 sport
 chapter
 dad
@@ -55,7 +55,7 @@ chicken
 unfair
 avoid
 frown |  
-| bip_39_word_new_line11 | omit
+| bip_39_word_new_line_11 | omit
 sport
 chapter
 dad
@@ -66,7 +66,7 @@ unfair
 avoid
 frown
 slab |  
-| bip_39_word_new_line12 | omit
+| bip_39_word_new_line_12 | omit
 sport
 chapter
 dad
@@ -78,34 +78,34 @@ avoid
 frown
 slab
 address |  
-| bip_39_word_new_line2 | omit
+| bip_39_word_new_line_2 | omit
 sport |  
-| bip_39_word_new_line3 | omit
+| bip_39_word_new_line_3 | omit
 sport
 chapter |  
-| bip_39_word_new_line4 | omit
+| bip_39_word_new_line_4 | omit
 sport
 chapter
 dad |  
-| bip_39_word_new_line5 | omit
+| bip_39_word_new_line_5 | omit
 sport
 chapter
 dad
 account |  
-| bip_39_word_new_line6 | omit
+| bip_39_word_new_line_6 | omit
 sport
 chapter
 dad
 account
 myself |  
-| bip_39_word_new_line7 | omit
+| bip_39_word_new_line_7 | omit
 sport
 chapter
 dad
 account
 myself
 chicken |  
-| bip_39_word_new_line8 | omit
+| bip_39_word_new_line_8 | omit
 sport
 chapter
 dad
@@ -113,7 +113,7 @@ account
 myself
 chicken
 unfair |  
-| bip_39_word_new_line9 | omit
+| bip_39_word_new_line_9 | omit
 sport
 chapter
 dad

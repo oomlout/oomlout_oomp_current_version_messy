@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ticket |  
-| bip_39_word_new_br10 | ticket<br>business<br>you<br>drip<br>canal<br>gold<br>barrel<br>cube<br>shoot<br>model |  
-| bip_39_word_new_br11 | ticket<br>business<br>you<br>drip<br>canal<br>gold<br>barrel<br>cube<br>shoot<br>model<br>salt |  
-| bip_39_word_new_br12 | ticket<br>business<br>you<br>drip<br>canal<br>gold<br>barrel<br>cube<br>shoot<br>model<br>salt<br>ancient |  
-| bip_39_word_new_br2 | ticket<br>business |  
-| bip_39_word_new_br3 | ticket<br>business<br>you |  
-| bip_39_word_new_br4 | ticket<br>business<br>you<br>drip |  
-| bip_39_word_new_br5 | ticket<br>business<br>you<br>drip<br>canal |  
-| bip_39_word_new_br6 | ticket<br>business<br>you<br>drip<br>canal<br>gold |  
-| bip_39_word_new_br7 | ticket<br>business<br>you<br>drip<br>canal<br>gold<br>barrel |  
-| bip_39_word_new_br8 | ticket<br>business<br>you<br>drip<br>canal<br>gold<br>barrel<br>cube |  
-| bip_39_word_new_br9 | ticket<br>business<br>you<br>drip<br>canal<br>gold<br>barrel<br>cube<br>shoot |  
-| bip_39_word_new_line1 | ticket |  
-| bip_39_word_new_line10 | ticket
+| bip_39_word_new_br_1 | ticket |  
+| bip_39_word_new_br_10 | ticket<br>business<br>you<br>drip<br>canal<br>gold<br>barrel<br>cube<br>shoot<br>model |  
+| bip_39_word_new_br_11 | ticket<br>business<br>you<br>drip<br>canal<br>gold<br>barrel<br>cube<br>shoot<br>model<br>salt |  
+| bip_39_word_new_br_12 | ticket<br>business<br>you<br>drip<br>canal<br>gold<br>barrel<br>cube<br>shoot<br>model<br>salt<br>ancient |  
+| bip_39_word_new_br_2 | ticket<br>business |  
+| bip_39_word_new_br_3 | ticket<br>business<br>you |  
+| bip_39_word_new_br_4 | ticket<br>business<br>you<br>drip |  
+| bip_39_word_new_br_5 | ticket<br>business<br>you<br>drip<br>canal |  
+| bip_39_word_new_br_6 | ticket<br>business<br>you<br>drip<br>canal<br>gold |  
+| bip_39_word_new_br_7 | ticket<br>business<br>you<br>drip<br>canal<br>gold<br>barrel |  
+| bip_39_word_new_br_8 | ticket<br>business<br>you<br>drip<br>canal<br>gold<br>barrel<br>cube |  
+| bip_39_word_new_br_9 | ticket<br>business<br>you<br>drip<br>canal<br>gold<br>barrel<br>cube<br>shoot |  
+| bip_39_word_new_line_1 | ticket |  
+| bip_39_word_new_line_10 | ticket
 business
 you
 drip
@@ -55,7 +55,7 @@ barrel
 cube
 shoot
 model |  
-| bip_39_word_new_line11 | ticket
+| bip_39_word_new_line_11 | ticket
 business
 you
 drip
@@ -66,7 +66,7 @@ cube
 shoot
 model
 salt |  
-| bip_39_word_new_line12 | ticket
+| bip_39_word_new_line_12 | ticket
 business
 you
 drip
@@ -78,34 +78,34 @@ shoot
 model
 salt
 ancient |  
-| bip_39_word_new_line2 | ticket
+| bip_39_word_new_line_2 | ticket
 business |  
-| bip_39_word_new_line3 | ticket
+| bip_39_word_new_line_3 | ticket
 business
 you |  
-| bip_39_word_new_line4 | ticket
+| bip_39_word_new_line_4 | ticket
 business
 you
 drip |  
-| bip_39_word_new_line5 | ticket
+| bip_39_word_new_line_5 | ticket
 business
 you
 drip
 canal |  
-| bip_39_word_new_line6 | ticket
+| bip_39_word_new_line_6 | ticket
 business
 you
 drip
 canal
 gold |  
-| bip_39_word_new_line7 | ticket
+| bip_39_word_new_line_7 | ticket
 business
 you
 drip
 canal
 gold
 barrel |  
-| bip_39_word_new_line8 | ticket
+| bip_39_word_new_line_8 | ticket
 business
 you
 drip
@@ -113,7 +113,7 @@ canal
 gold
 barrel
 cube |  
-| bip_39_word_new_line9 | ticket
+| bip_39_word_new_line_9 | ticket
 business
 you
 drip

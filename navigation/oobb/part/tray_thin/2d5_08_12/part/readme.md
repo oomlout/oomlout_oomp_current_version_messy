@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | giraffe |  
-| bip_39_word_new_br10 | giraffe<br>palace<br>very<br>bird<br>shuffle<br>ketchup<br>tiger<br>fatigue<br>obey<br>march |  
-| bip_39_word_new_br11 | giraffe<br>palace<br>very<br>bird<br>shuffle<br>ketchup<br>tiger<br>fatigue<br>obey<br>march<br>flower |  
-| bip_39_word_new_br12 | giraffe<br>palace<br>very<br>bird<br>shuffle<br>ketchup<br>tiger<br>fatigue<br>obey<br>march<br>flower<br>advance |  
-| bip_39_word_new_br2 | giraffe<br>palace |  
-| bip_39_word_new_br3 | giraffe<br>palace<br>very |  
-| bip_39_word_new_br4 | giraffe<br>palace<br>very<br>bird |  
-| bip_39_word_new_br5 | giraffe<br>palace<br>very<br>bird<br>shuffle |  
-| bip_39_word_new_br6 | giraffe<br>palace<br>very<br>bird<br>shuffle<br>ketchup |  
-| bip_39_word_new_br7 | giraffe<br>palace<br>very<br>bird<br>shuffle<br>ketchup<br>tiger |  
-| bip_39_word_new_br8 | giraffe<br>palace<br>very<br>bird<br>shuffle<br>ketchup<br>tiger<br>fatigue |  
-| bip_39_word_new_br9 | giraffe<br>palace<br>very<br>bird<br>shuffle<br>ketchup<br>tiger<br>fatigue<br>obey |  
-| bip_39_word_new_line1 | giraffe |  
-| bip_39_word_new_line10 | giraffe
+| bip_39_word_new_br_1 | giraffe |  
+| bip_39_word_new_br_10 | giraffe<br>palace<br>very<br>bird<br>shuffle<br>ketchup<br>tiger<br>fatigue<br>obey<br>march |  
+| bip_39_word_new_br_11 | giraffe<br>palace<br>very<br>bird<br>shuffle<br>ketchup<br>tiger<br>fatigue<br>obey<br>march<br>flower |  
+| bip_39_word_new_br_12 | giraffe<br>palace<br>very<br>bird<br>shuffle<br>ketchup<br>tiger<br>fatigue<br>obey<br>march<br>flower<br>advance |  
+| bip_39_word_new_br_2 | giraffe<br>palace |  
+| bip_39_word_new_br_3 | giraffe<br>palace<br>very |  
+| bip_39_word_new_br_4 | giraffe<br>palace<br>very<br>bird |  
+| bip_39_word_new_br_5 | giraffe<br>palace<br>very<br>bird<br>shuffle |  
+| bip_39_word_new_br_6 | giraffe<br>palace<br>very<br>bird<br>shuffle<br>ketchup |  
+| bip_39_word_new_br_7 | giraffe<br>palace<br>very<br>bird<br>shuffle<br>ketchup<br>tiger |  
+| bip_39_word_new_br_8 | giraffe<br>palace<br>very<br>bird<br>shuffle<br>ketchup<br>tiger<br>fatigue |  
+| bip_39_word_new_br_9 | giraffe<br>palace<br>very<br>bird<br>shuffle<br>ketchup<br>tiger<br>fatigue<br>obey |  
+| bip_39_word_new_line_1 | giraffe |  
+| bip_39_word_new_line_10 | giraffe
 palace
 very
 bird
@@ -55,7 +55,7 @@ tiger
 fatigue
 obey
 march |  
-| bip_39_word_new_line11 | giraffe
+| bip_39_word_new_line_11 | giraffe
 palace
 very
 bird
@@ -66,7 +66,7 @@ fatigue
 obey
 march
 flower |  
-| bip_39_word_new_line12 | giraffe
+| bip_39_word_new_line_12 | giraffe
 palace
 very
 bird
@@ -78,34 +78,34 @@ obey
 march
 flower
 advance |  
-| bip_39_word_new_line2 | giraffe
+| bip_39_word_new_line_2 | giraffe
 palace |  
-| bip_39_word_new_line3 | giraffe
+| bip_39_word_new_line_3 | giraffe
 palace
 very |  
-| bip_39_word_new_line4 | giraffe
+| bip_39_word_new_line_4 | giraffe
 palace
 very
 bird |  
-| bip_39_word_new_line5 | giraffe
+| bip_39_word_new_line_5 | giraffe
 palace
 very
 bird
 shuffle |  
-| bip_39_word_new_line6 | giraffe
+| bip_39_word_new_line_6 | giraffe
 palace
 very
 bird
 shuffle
 ketchup |  
-| bip_39_word_new_line7 | giraffe
+| bip_39_word_new_line_7 | giraffe
 palace
 very
 bird
 shuffle
 ketchup
 tiger |  
-| bip_39_word_new_line8 | giraffe
+| bip_39_word_new_line_8 | giraffe
 palace
 very
 bird
@@ -113,7 +113,7 @@ shuffle
 ketchup
 tiger
 fatigue |  
-| bip_39_word_new_line9 | giraffe
+| bip_39_word_new_line_9 | giraffe
 palace
 very
 bird

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | oxygen |  
-| bip_39_word_new_br10 | oxygen<br>flame<br>jacket<br>junior<br>fence<br>tag<br>panic<br>ski<br>action<br>slim |  
-| bip_39_word_new_br11 | oxygen<br>flame<br>jacket<br>junior<br>fence<br>tag<br>panic<br>ski<br>action<br>slim<br>stage |  
-| bip_39_word_new_br12 | oxygen<br>flame<br>jacket<br>junior<br>fence<br>tag<br>panic<br>ski<br>action<br>slim<br>stage<br>army |  
-| bip_39_word_new_br2 | oxygen<br>flame |  
-| bip_39_word_new_br3 | oxygen<br>flame<br>jacket |  
-| bip_39_word_new_br4 | oxygen<br>flame<br>jacket<br>junior |  
-| bip_39_word_new_br5 | oxygen<br>flame<br>jacket<br>junior<br>fence |  
-| bip_39_word_new_br6 | oxygen<br>flame<br>jacket<br>junior<br>fence<br>tag |  
-| bip_39_word_new_br7 | oxygen<br>flame<br>jacket<br>junior<br>fence<br>tag<br>panic |  
-| bip_39_word_new_br8 | oxygen<br>flame<br>jacket<br>junior<br>fence<br>tag<br>panic<br>ski |  
-| bip_39_word_new_br9 | oxygen<br>flame<br>jacket<br>junior<br>fence<br>tag<br>panic<br>ski<br>action |  
-| bip_39_word_new_line1 | oxygen |  
-| bip_39_word_new_line10 | oxygen
+| bip_39_word_new_br_1 | oxygen |  
+| bip_39_word_new_br_10 | oxygen<br>flame<br>jacket<br>junior<br>fence<br>tag<br>panic<br>ski<br>action<br>slim |  
+| bip_39_word_new_br_11 | oxygen<br>flame<br>jacket<br>junior<br>fence<br>tag<br>panic<br>ski<br>action<br>slim<br>stage |  
+| bip_39_word_new_br_12 | oxygen<br>flame<br>jacket<br>junior<br>fence<br>tag<br>panic<br>ski<br>action<br>slim<br>stage<br>army |  
+| bip_39_word_new_br_2 | oxygen<br>flame |  
+| bip_39_word_new_br_3 | oxygen<br>flame<br>jacket |  
+| bip_39_word_new_br_4 | oxygen<br>flame<br>jacket<br>junior |  
+| bip_39_word_new_br_5 | oxygen<br>flame<br>jacket<br>junior<br>fence |  
+| bip_39_word_new_br_6 | oxygen<br>flame<br>jacket<br>junior<br>fence<br>tag |  
+| bip_39_word_new_br_7 | oxygen<br>flame<br>jacket<br>junior<br>fence<br>tag<br>panic |  
+| bip_39_word_new_br_8 | oxygen<br>flame<br>jacket<br>junior<br>fence<br>tag<br>panic<br>ski |  
+| bip_39_word_new_br_9 | oxygen<br>flame<br>jacket<br>junior<br>fence<br>tag<br>panic<br>ski<br>action |  
+| bip_39_word_new_line_1 | oxygen |  
+| bip_39_word_new_line_10 | oxygen
 flame
 jacket
 junior
@@ -55,7 +55,7 @@ panic
 ski
 action
 slim |  
-| bip_39_word_new_line11 | oxygen
+| bip_39_word_new_line_11 | oxygen
 flame
 jacket
 junior
@@ -66,7 +66,7 @@ ski
 action
 slim
 stage |  
-| bip_39_word_new_line12 | oxygen
+| bip_39_word_new_line_12 | oxygen
 flame
 jacket
 junior
@@ -78,34 +78,34 @@ action
 slim
 stage
 army |  
-| bip_39_word_new_line2 | oxygen
+| bip_39_word_new_line_2 | oxygen
 flame |  
-| bip_39_word_new_line3 | oxygen
+| bip_39_word_new_line_3 | oxygen
 flame
 jacket |  
-| bip_39_word_new_line4 | oxygen
+| bip_39_word_new_line_4 | oxygen
 flame
 jacket
 junior |  
-| bip_39_word_new_line5 | oxygen
+| bip_39_word_new_line_5 | oxygen
 flame
 jacket
 junior
 fence |  
-| bip_39_word_new_line6 | oxygen
+| bip_39_word_new_line_6 | oxygen
 flame
 jacket
 junior
 fence
 tag |  
-| bip_39_word_new_line7 | oxygen
+| bip_39_word_new_line_7 | oxygen
 flame
 jacket
 junior
 fence
 tag
 panic |  
-| bip_39_word_new_line8 | oxygen
+| bip_39_word_new_line_8 | oxygen
 flame
 jacket
 junior
@@ -113,7 +113,7 @@ fence
 tag
 panic
 ski |  
-| bip_39_word_new_line9 | oxygen
+| bip_39_word_new_line_9 | oxygen
 flame
 jacket
 junior

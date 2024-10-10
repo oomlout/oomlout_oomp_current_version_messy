@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | jump |  
-| bip_39_word_new_br10 | jump<br>antenna<br>hover<br>alpha<br>deal<br>furnace<br>ten<br>emotion<br>midnight<br>nest |  
-| bip_39_word_new_br11 | jump<br>antenna<br>hover<br>alpha<br>deal<br>furnace<br>ten<br>emotion<br>midnight<br>nest<br>excuse |  
-| bip_39_word_new_br12 | jump<br>antenna<br>hover<br>alpha<br>deal<br>furnace<br>ten<br>emotion<br>midnight<br>nest<br>excuse<br>advice |  
-| bip_39_word_new_br2 | jump<br>antenna |  
-| bip_39_word_new_br3 | jump<br>antenna<br>hover |  
-| bip_39_word_new_br4 | jump<br>antenna<br>hover<br>alpha |  
-| bip_39_word_new_br5 | jump<br>antenna<br>hover<br>alpha<br>deal |  
-| bip_39_word_new_br6 | jump<br>antenna<br>hover<br>alpha<br>deal<br>furnace |  
-| bip_39_word_new_br7 | jump<br>antenna<br>hover<br>alpha<br>deal<br>furnace<br>ten |  
-| bip_39_word_new_br8 | jump<br>antenna<br>hover<br>alpha<br>deal<br>furnace<br>ten<br>emotion |  
-| bip_39_word_new_br9 | jump<br>antenna<br>hover<br>alpha<br>deal<br>furnace<br>ten<br>emotion<br>midnight |  
-| bip_39_word_new_line1 | jump |  
-| bip_39_word_new_line10 | jump
+| bip_39_word_new_br_1 | jump |  
+| bip_39_word_new_br_10 | jump<br>antenna<br>hover<br>alpha<br>deal<br>furnace<br>ten<br>emotion<br>midnight<br>nest |  
+| bip_39_word_new_br_11 | jump<br>antenna<br>hover<br>alpha<br>deal<br>furnace<br>ten<br>emotion<br>midnight<br>nest<br>excuse |  
+| bip_39_word_new_br_12 | jump<br>antenna<br>hover<br>alpha<br>deal<br>furnace<br>ten<br>emotion<br>midnight<br>nest<br>excuse<br>advice |  
+| bip_39_word_new_br_2 | jump<br>antenna |  
+| bip_39_word_new_br_3 | jump<br>antenna<br>hover |  
+| bip_39_word_new_br_4 | jump<br>antenna<br>hover<br>alpha |  
+| bip_39_word_new_br_5 | jump<br>antenna<br>hover<br>alpha<br>deal |  
+| bip_39_word_new_br_6 | jump<br>antenna<br>hover<br>alpha<br>deal<br>furnace |  
+| bip_39_word_new_br_7 | jump<br>antenna<br>hover<br>alpha<br>deal<br>furnace<br>ten |  
+| bip_39_word_new_br_8 | jump<br>antenna<br>hover<br>alpha<br>deal<br>furnace<br>ten<br>emotion |  
+| bip_39_word_new_br_9 | jump<br>antenna<br>hover<br>alpha<br>deal<br>furnace<br>ten<br>emotion<br>midnight |  
+| bip_39_word_new_line_1 | jump |  
+| bip_39_word_new_line_10 | jump
 antenna
 hover
 alpha
@@ -55,7 +55,7 @@ ten
 emotion
 midnight
 nest |  
-| bip_39_word_new_line11 | jump
+| bip_39_word_new_line_11 | jump
 antenna
 hover
 alpha
@@ -66,7 +66,7 @@ emotion
 midnight
 nest
 excuse |  
-| bip_39_word_new_line12 | jump
+| bip_39_word_new_line_12 | jump
 antenna
 hover
 alpha
@@ -78,34 +78,34 @@ midnight
 nest
 excuse
 advice |  
-| bip_39_word_new_line2 | jump
+| bip_39_word_new_line_2 | jump
 antenna |  
-| bip_39_word_new_line3 | jump
+| bip_39_word_new_line_3 | jump
 antenna
 hover |  
-| bip_39_word_new_line4 | jump
+| bip_39_word_new_line_4 | jump
 antenna
 hover
 alpha |  
-| bip_39_word_new_line5 | jump
+| bip_39_word_new_line_5 | jump
 antenna
 hover
 alpha
 deal |  
-| bip_39_word_new_line6 | jump
+| bip_39_word_new_line_6 | jump
 antenna
 hover
 alpha
 deal
 furnace |  
-| bip_39_word_new_line7 | jump
+| bip_39_word_new_line_7 | jump
 antenna
 hover
 alpha
 deal
 furnace
 ten |  
-| bip_39_word_new_line8 | jump
+| bip_39_word_new_line_8 | jump
 antenna
 hover
 alpha
@@ -113,7 +113,7 @@ deal
 furnace
 ten
 emotion |  
-| bip_39_word_new_line9 | jump
+| bip_39_word_new_line_9 | jump
 antenna
 hover
 alpha

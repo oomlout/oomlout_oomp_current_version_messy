@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | toe |  
-| bip_39_word_new_br10 | toe<br>emerge<br>verify<br>present<br>accident<br>flee<br>actor<br>arrest<br>oblige<br>spoil |  
-| bip_39_word_new_br11 | toe<br>emerge<br>verify<br>present<br>accident<br>flee<br>actor<br>arrest<br>oblige<br>spoil<br>weapon |  
-| bip_39_word_new_br12 | toe<br>emerge<br>verify<br>present<br>accident<br>flee<br>actor<br>arrest<br>oblige<br>spoil<br>weapon<br>ahead |  
-| bip_39_word_new_br2 | toe<br>emerge |  
-| bip_39_word_new_br3 | toe<br>emerge<br>verify |  
-| bip_39_word_new_br4 | toe<br>emerge<br>verify<br>present |  
-| bip_39_word_new_br5 | toe<br>emerge<br>verify<br>present<br>accident |  
-| bip_39_word_new_br6 | toe<br>emerge<br>verify<br>present<br>accident<br>flee |  
-| bip_39_word_new_br7 | toe<br>emerge<br>verify<br>present<br>accident<br>flee<br>actor |  
-| bip_39_word_new_br8 | toe<br>emerge<br>verify<br>present<br>accident<br>flee<br>actor<br>arrest |  
-| bip_39_word_new_br9 | toe<br>emerge<br>verify<br>present<br>accident<br>flee<br>actor<br>arrest<br>oblige |  
-| bip_39_word_new_line1 | toe |  
-| bip_39_word_new_line10 | toe
+| bip_39_word_new_br_1 | toe |  
+| bip_39_word_new_br_10 | toe<br>emerge<br>verify<br>present<br>accident<br>flee<br>actor<br>arrest<br>oblige<br>spoil |  
+| bip_39_word_new_br_11 | toe<br>emerge<br>verify<br>present<br>accident<br>flee<br>actor<br>arrest<br>oblige<br>spoil<br>weapon |  
+| bip_39_word_new_br_12 | toe<br>emerge<br>verify<br>present<br>accident<br>flee<br>actor<br>arrest<br>oblige<br>spoil<br>weapon<br>ahead |  
+| bip_39_word_new_br_2 | toe<br>emerge |  
+| bip_39_word_new_br_3 | toe<br>emerge<br>verify |  
+| bip_39_word_new_br_4 | toe<br>emerge<br>verify<br>present |  
+| bip_39_word_new_br_5 | toe<br>emerge<br>verify<br>present<br>accident |  
+| bip_39_word_new_br_6 | toe<br>emerge<br>verify<br>present<br>accident<br>flee |  
+| bip_39_word_new_br_7 | toe<br>emerge<br>verify<br>present<br>accident<br>flee<br>actor |  
+| bip_39_word_new_br_8 | toe<br>emerge<br>verify<br>present<br>accident<br>flee<br>actor<br>arrest |  
+| bip_39_word_new_br_9 | toe<br>emerge<br>verify<br>present<br>accident<br>flee<br>actor<br>arrest<br>oblige |  
+| bip_39_word_new_line_1 | toe |  
+| bip_39_word_new_line_10 | toe
 emerge
 verify
 present
@@ -55,7 +55,7 @@ actor
 arrest
 oblige
 spoil |  
-| bip_39_word_new_line11 | toe
+| bip_39_word_new_line_11 | toe
 emerge
 verify
 present
@@ -66,7 +66,7 @@ arrest
 oblige
 spoil
 weapon |  
-| bip_39_word_new_line12 | toe
+| bip_39_word_new_line_12 | toe
 emerge
 verify
 present
@@ -78,34 +78,34 @@ oblige
 spoil
 weapon
 ahead |  
-| bip_39_word_new_line2 | toe
+| bip_39_word_new_line_2 | toe
 emerge |  
-| bip_39_word_new_line3 | toe
+| bip_39_word_new_line_3 | toe
 emerge
 verify |  
-| bip_39_word_new_line4 | toe
+| bip_39_word_new_line_4 | toe
 emerge
 verify
 present |  
-| bip_39_word_new_line5 | toe
+| bip_39_word_new_line_5 | toe
 emerge
 verify
 present
 accident |  
-| bip_39_word_new_line6 | toe
+| bip_39_word_new_line_6 | toe
 emerge
 verify
 present
 accident
 flee |  
-| bip_39_word_new_line7 | toe
+| bip_39_word_new_line_7 | toe
 emerge
 verify
 present
 accident
 flee
 actor |  
-| bip_39_word_new_line8 | toe
+| bip_39_word_new_line_8 | toe
 emerge
 verify
 present
@@ -113,7 +113,7 @@ accident
 flee
 actor
 arrest |  
-| bip_39_word_new_line9 | toe
+| bip_39_word_new_line_9 | toe
 emerge
 verify
 present

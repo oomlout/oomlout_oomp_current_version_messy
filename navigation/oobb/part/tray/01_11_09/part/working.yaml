@@ -1,17 +1,17 @@
-bip_39_word_new_br1: hurt
-bip_39_word_new_br10: hurt<br>woman<br>erase<br>consider<br>logic<br>barrel<br>bulb<br>flash<br>universe<br>purpose
-bip_39_word_new_br11: hurt<br>woman<br>erase<br>consider<br>logic<br>barrel<br>bulb<br>flash<br>universe<br>purpose<br>trophy
-bip_39_word_new_br12: hurt<br>woman<br>erase<br>consider<br>logic<br>barrel<br>bulb<br>flash<br>universe<br>purpose<br>trophy<br>angry
-bip_39_word_new_br2: hurt<br>woman
-bip_39_word_new_br3: hurt<br>woman<br>erase
-bip_39_word_new_br4: hurt<br>woman<br>erase<br>consider
-bip_39_word_new_br5: hurt<br>woman<br>erase<br>consider<br>logic
-bip_39_word_new_br6: hurt<br>woman<br>erase<br>consider<br>logic<br>barrel
-bip_39_word_new_br7: hurt<br>woman<br>erase<br>consider<br>logic<br>barrel<br>bulb
-bip_39_word_new_br8: hurt<br>woman<br>erase<br>consider<br>logic<br>barrel<br>bulb<br>flash
-bip_39_word_new_br9: hurt<br>woman<br>erase<br>consider<br>logic<br>barrel<br>bulb<br>flash<br>universe
-bip_39_word_new_line1: hurt
-bip_39_word_new_line10: 'hurt
+bip_39_word_new_br_1: hurt
+bip_39_word_new_br_10: hurt<br>woman<br>erase<br>consider<br>logic<br>barrel<br>bulb<br>flash<br>universe<br>purpose
+bip_39_word_new_br_11: hurt<br>woman<br>erase<br>consider<br>logic<br>barrel<br>bulb<br>flash<br>universe<br>purpose<br>trophy
+bip_39_word_new_br_12: hurt<br>woman<br>erase<br>consider<br>logic<br>barrel<br>bulb<br>flash<br>universe<br>purpose<br>trophy<br>angry
+bip_39_word_new_br_2: hurt<br>woman
+bip_39_word_new_br_3: hurt<br>woman<br>erase
+bip_39_word_new_br_4: hurt<br>woman<br>erase<br>consider
+bip_39_word_new_br_5: hurt<br>woman<br>erase<br>consider<br>logic
+bip_39_word_new_br_6: hurt<br>woman<br>erase<br>consider<br>logic<br>barrel
+bip_39_word_new_br_7: hurt<br>woman<br>erase<br>consider<br>logic<br>barrel<br>bulb
+bip_39_word_new_br_8: hurt<br>woman<br>erase<br>consider<br>logic<br>barrel<br>bulb<br>flash
+bip_39_word_new_br_9: hurt<br>woman<br>erase<br>consider<br>logic<br>barrel<br>bulb<br>flash<br>universe
+bip_39_word_new_line_1: hurt
+bip_39_word_new_line_10: 'hurt
 
   woman
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'hurt
   universe
 
   purpose'
-bip_39_word_new_line11: 'hurt
+bip_39_word_new_line_11: 'hurt
 
   woman
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'hurt
   purpose
 
   trophy'
-bip_39_word_new_line12: 'hurt
+bip_39_word_new_line_12: 'hurt
 
   woman
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'hurt
   trophy
 
   angry'
-bip_39_word_new_line2: 'hurt
+bip_39_word_new_line_2: 'hurt
 
   woman'
-bip_39_word_new_line3: 'hurt
+bip_39_word_new_line_3: 'hurt
 
   woman
 
   erase'
-bip_39_word_new_line4: 'hurt
+bip_39_word_new_line_4: 'hurt
 
   woman
 
   erase
 
   consider'
-bip_39_word_new_line5: 'hurt
+bip_39_word_new_line_5: 'hurt
 
   woman
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'hurt
   consider
 
   logic'
-bip_39_word_new_line6: 'hurt
+bip_39_word_new_line_6: 'hurt
 
   woman
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'hurt
   logic
 
   barrel'
-bip_39_word_new_line7: 'hurt
+bip_39_word_new_line_7: 'hurt
 
   woman
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'hurt
   barrel
 
   bulb'
-bip_39_word_new_line8: 'hurt
+bip_39_word_new_line_8: 'hurt
 
   woman
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'hurt
   bulb
 
   flash'
-bip_39_word_new_line9: 'hurt
+bip_39_word_new_line_9: 'hurt
 
   woman
 

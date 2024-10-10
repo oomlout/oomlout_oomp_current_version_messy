@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | because |  
-| bip_39_word_new_br10 | because<br>genuine<br>base<br>what<br>cabbage<br>magnet<br>ahead<br>ripple<br>bulb<br>best |  
-| bip_39_word_new_br11 | because<br>genuine<br>base<br>what<br>cabbage<br>magnet<br>ahead<br>ripple<br>bulb<br>best<br>property |  
-| bip_39_word_new_br12 | because<br>genuine<br>base<br>what<br>cabbage<br>magnet<br>ahead<br>ripple<br>bulb<br>best<br>property<br>avocado |  
-| bip_39_word_new_br2 | because<br>genuine |  
-| bip_39_word_new_br3 | because<br>genuine<br>base |  
-| bip_39_word_new_br4 | because<br>genuine<br>base<br>what |  
-| bip_39_word_new_br5 | because<br>genuine<br>base<br>what<br>cabbage |  
-| bip_39_word_new_br6 | because<br>genuine<br>base<br>what<br>cabbage<br>magnet |  
-| bip_39_word_new_br7 | because<br>genuine<br>base<br>what<br>cabbage<br>magnet<br>ahead |  
-| bip_39_word_new_br8 | because<br>genuine<br>base<br>what<br>cabbage<br>magnet<br>ahead<br>ripple |  
-| bip_39_word_new_br9 | because<br>genuine<br>base<br>what<br>cabbage<br>magnet<br>ahead<br>ripple<br>bulb |  
-| bip_39_word_new_line1 | because |  
-| bip_39_word_new_line10 | because
+| bip_39_word_new_br_1 | because |  
+| bip_39_word_new_br_10 | because<br>genuine<br>base<br>what<br>cabbage<br>magnet<br>ahead<br>ripple<br>bulb<br>best |  
+| bip_39_word_new_br_11 | because<br>genuine<br>base<br>what<br>cabbage<br>magnet<br>ahead<br>ripple<br>bulb<br>best<br>property |  
+| bip_39_word_new_br_12 | because<br>genuine<br>base<br>what<br>cabbage<br>magnet<br>ahead<br>ripple<br>bulb<br>best<br>property<br>avocado |  
+| bip_39_word_new_br_2 | because<br>genuine |  
+| bip_39_word_new_br_3 | because<br>genuine<br>base |  
+| bip_39_word_new_br_4 | because<br>genuine<br>base<br>what |  
+| bip_39_word_new_br_5 | because<br>genuine<br>base<br>what<br>cabbage |  
+| bip_39_word_new_br_6 | because<br>genuine<br>base<br>what<br>cabbage<br>magnet |  
+| bip_39_word_new_br_7 | because<br>genuine<br>base<br>what<br>cabbage<br>magnet<br>ahead |  
+| bip_39_word_new_br_8 | because<br>genuine<br>base<br>what<br>cabbage<br>magnet<br>ahead<br>ripple |  
+| bip_39_word_new_br_9 | because<br>genuine<br>base<br>what<br>cabbage<br>magnet<br>ahead<br>ripple<br>bulb |  
+| bip_39_word_new_line_1 | because |  
+| bip_39_word_new_line_10 | because
 genuine
 base
 what
@@ -55,7 +55,7 @@ ahead
 ripple
 bulb
 best |  
-| bip_39_word_new_line11 | because
+| bip_39_word_new_line_11 | because
 genuine
 base
 what
@@ -66,7 +66,7 @@ ripple
 bulb
 best
 property |  
-| bip_39_word_new_line12 | because
+| bip_39_word_new_line_12 | because
 genuine
 base
 what
@@ -78,34 +78,34 @@ bulb
 best
 property
 avocado |  
-| bip_39_word_new_line2 | because
+| bip_39_word_new_line_2 | because
 genuine |  
-| bip_39_word_new_line3 | because
+| bip_39_word_new_line_3 | because
 genuine
 base |  
-| bip_39_word_new_line4 | because
+| bip_39_word_new_line_4 | because
 genuine
 base
 what |  
-| bip_39_word_new_line5 | because
+| bip_39_word_new_line_5 | because
 genuine
 base
 what
 cabbage |  
-| bip_39_word_new_line6 | because
+| bip_39_word_new_line_6 | because
 genuine
 base
 what
 cabbage
 magnet |  
-| bip_39_word_new_line7 | because
+| bip_39_word_new_line_7 | because
 genuine
 base
 what
 cabbage
 magnet
 ahead |  
-| bip_39_word_new_line8 | because
+| bip_39_word_new_line_8 | because
 genuine
 base
 what
@@ -113,7 +113,7 @@ cabbage
 magnet
 ahead
 ripple |  
-| bip_39_word_new_line9 | because
+| bip_39_word_new_line_9 | because
 genuine
 base
 what

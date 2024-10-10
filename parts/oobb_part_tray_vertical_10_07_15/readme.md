@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | more |  
-| bip_39_word_new_br10 | more<br>scan<br>else<br>caution<br>spin<br>rich<br>roast<br>cycle<br>stomach<br>shuffle |  
-| bip_39_word_new_br11 | more<br>scan<br>else<br>caution<br>spin<br>rich<br>roast<br>cycle<br>stomach<br>shuffle<br>one |  
-| bip_39_word_new_br12 | more<br>scan<br>else<br>caution<br>spin<br>rich<br>roast<br>cycle<br>stomach<br>shuffle<br>one<br>anger |  
-| bip_39_word_new_br2 | more<br>scan |  
-| bip_39_word_new_br3 | more<br>scan<br>else |  
-| bip_39_word_new_br4 | more<br>scan<br>else<br>caution |  
-| bip_39_word_new_br5 | more<br>scan<br>else<br>caution<br>spin |  
-| bip_39_word_new_br6 | more<br>scan<br>else<br>caution<br>spin<br>rich |  
-| bip_39_word_new_br7 | more<br>scan<br>else<br>caution<br>spin<br>rich<br>roast |  
-| bip_39_word_new_br8 | more<br>scan<br>else<br>caution<br>spin<br>rich<br>roast<br>cycle |  
-| bip_39_word_new_br9 | more<br>scan<br>else<br>caution<br>spin<br>rich<br>roast<br>cycle<br>stomach |  
-| bip_39_word_new_line1 | more |  
-| bip_39_word_new_line10 | more
+| bip_39_word_new_br_1 | more |  
+| bip_39_word_new_br_10 | more<br>scan<br>else<br>caution<br>spin<br>rich<br>roast<br>cycle<br>stomach<br>shuffle |  
+| bip_39_word_new_br_11 | more<br>scan<br>else<br>caution<br>spin<br>rich<br>roast<br>cycle<br>stomach<br>shuffle<br>one |  
+| bip_39_word_new_br_12 | more<br>scan<br>else<br>caution<br>spin<br>rich<br>roast<br>cycle<br>stomach<br>shuffle<br>one<br>anger |  
+| bip_39_word_new_br_2 | more<br>scan |  
+| bip_39_word_new_br_3 | more<br>scan<br>else |  
+| bip_39_word_new_br_4 | more<br>scan<br>else<br>caution |  
+| bip_39_word_new_br_5 | more<br>scan<br>else<br>caution<br>spin |  
+| bip_39_word_new_br_6 | more<br>scan<br>else<br>caution<br>spin<br>rich |  
+| bip_39_word_new_br_7 | more<br>scan<br>else<br>caution<br>spin<br>rich<br>roast |  
+| bip_39_word_new_br_8 | more<br>scan<br>else<br>caution<br>spin<br>rich<br>roast<br>cycle |  
+| bip_39_word_new_br_9 | more<br>scan<br>else<br>caution<br>spin<br>rich<br>roast<br>cycle<br>stomach |  
+| bip_39_word_new_line_1 | more |  
+| bip_39_word_new_line_10 | more
 scan
 else
 caution
@@ -55,7 +55,7 @@ roast
 cycle
 stomach
 shuffle |  
-| bip_39_word_new_line11 | more
+| bip_39_word_new_line_11 | more
 scan
 else
 caution
@@ -66,7 +66,7 @@ cycle
 stomach
 shuffle
 one |  
-| bip_39_word_new_line12 | more
+| bip_39_word_new_line_12 | more
 scan
 else
 caution
@@ -78,34 +78,34 @@ stomach
 shuffle
 one
 anger |  
-| bip_39_word_new_line2 | more
+| bip_39_word_new_line_2 | more
 scan |  
-| bip_39_word_new_line3 | more
+| bip_39_word_new_line_3 | more
 scan
 else |  
-| bip_39_word_new_line4 | more
+| bip_39_word_new_line_4 | more
 scan
 else
 caution |  
-| bip_39_word_new_line5 | more
+| bip_39_word_new_line_5 | more
 scan
 else
 caution
 spin |  
-| bip_39_word_new_line6 | more
+| bip_39_word_new_line_6 | more
 scan
 else
 caution
 spin
 rich |  
-| bip_39_word_new_line7 | more
+| bip_39_word_new_line_7 | more
 scan
 else
 caution
 spin
 rich
 roast |  
-| bip_39_word_new_line8 | more
+| bip_39_word_new_line_8 | more
 scan
 else
 caution
@@ -113,7 +113,7 @@ spin
 rich
 roast
 cycle |  
-| bip_39_word_new_line9 | more
+| bip_39_word_new_line_9 | more
 scan
 else
 caution

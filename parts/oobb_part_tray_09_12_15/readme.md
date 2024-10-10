@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | strong |  
-| bip_39_word_new_br10 | strong<br>place<br>shop<br>oak<br>praise<br>consider<br>wall<br>click<br>gun<br>push |  
-| bip_39_word_new_br11 | strong<br>place<br>shop<br>oak<br>praise<br>consider<br>wall<br>click<br>gun<br>push<br>album |  
-| bip_39_word_new_br12 | strong<br>place<br>shop<br>oak<br>praise<br>consider<br>wall<br>click<br>gun<br>push<br>album<br>annual |  
-| bip_39_word_new_br2 | strong<br>place |  
-| bip_39_word_new_br3 | strong<br>place<br>shop |  
-| bip_39_word_new_br4 | strong<br>place<br>shop<br>oak |  
-| bip_39_word_new_br5 | strong<br>place<br>shop<br>oak<br>praise |  
-| bip_39_word_new_br6 | strong<br>place<br>shop<br>oak<br>praise<br>consider |  
-| bip_39_word_new_br7 | strong<br>place<br>shop<br>oak<br>praise<br>consider<br>wall |  
-| bip_39_word_new_br8 | strong<br>place<br>shop<br>oak<br>praise<br>consider<br>wall<br>click |  
-| bip_39_word_new_br9 | strong<br>place<br>shop<br>oak<br>praise<br>consider<br>wall<br>click<br>gun |  
-| bip_39_word_new_line1 | strong |  
-| bip_39_word_new_line10 | strong
+| bip_39_word_new_br_1 | strong |  
+| bip_39_word_new_br_10 | strong<br>place<br>shop<br>oak<br>praise<br>consider<br>wall<br>click<br>gun<br>push |  
+| bip_39_word_new_br_11 | strong<br>place<br>shop<br>oak<br>praise<br>consider<br>wall<br>click<br>gun<br>push<br>album |  
+| bip_39_word_new_br_12 | strong<br>place<br>shop<br>oak<br>praise<br>consider<br>wall<br>click<br>gun<br>push<br>album<br>annual |  
+| bip_39_word_new_br_2 | strong<br>place |  
+| bip_39_word_new_br_3 | strong<br>place<br>shop |  
+| bip_39_word_new_br_4 | strong<br>place<br>shop<br>oak |  
+| bip_39_word_new_br_5 | strong<br>place<br>shop<br>oak<br>praise |  
+| bip_39_word_new_br_6 | strong<br>place<br>shop<br>oak<br>praise<br>consider |  
+| bip_39_word_new_br_7 | strong<br>place<br>shop<br>oak<br>praise<br>consider<br>wall |  
+| bip_39_word_new_br_8 | strong<br>place<br>shop<br>oak<br>praise<br>consider<br>wall<br>click |  
+| bip_39_word_new_br_9 | strong<br>place<br>shop<br>oak<br>praise<br>consider<br>wall<br>click<br>gun |  
+| bip_39_word_new_line_1 | strong |  
+| bip_39_word_new_line_10 | strong
 place
 shop
 oak
@@ -55,7 +55,7 @@ wall
 click
 gun
 push |  
-| bip_39_word_new_line11 | strong
+| bip_39_word_new_line_11 | strong
 place
 shop
 oak
@@ -66,7 +66,7 @@ click
 gun
 push
 album |  
-| bip_39_word_new_line12 | strong
+| bip_39_word_new_line_12 | strong
 place
 shop
 oak
@@ -78,34 +78,34 @@ gun
 push
 album
 annual |  
-| bip_39_word_new_line2 | strong
+| bip_39_word_new_line_2 | strong
 place |  
-| bip_39_word_new_line3 | strong
+| bip_39_word_new_line_3 | strong
 place
 shop |  
-| bip_39_word_new_line4 | strong
+| bip_39_word_new_line_4 | strong
 place
 shop
 oak |  
-| bip_39_word_new_line5 | strong
+| bip_39_word_new_line_5 | strong
 place
 shop
 oak
 praise |  
-| bip_39_word_new_line6 | strong
+| bip_39_word_new_line_6 | strong
 place
 shop
 oak
 praise
 consider |  
-| bip_39_word_new_line7 | strong
+| bip_39_word_new_line_7 | strong
 place
 shop
 oak
 praise
 consider
 wall |  
-| bip_39_word_new_line8 | strong
+| bip_39_word_new_line_8 | strong
 place
 shop
 oak
@@ -113,7 +113,7 @@ praise
 consider
 wall
 click |  
-| bip_39_word_new_line9 | strong
+| bip_39_word_new_line_9 | strong
 place
 shop
 oak

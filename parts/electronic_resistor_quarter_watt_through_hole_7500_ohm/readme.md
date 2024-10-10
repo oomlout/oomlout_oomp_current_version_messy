@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ankle |  
-| bip_39_word_new_br10 | ankle<br>unfair<br>smart<br>empower<br>ticket<br>claw<br>similar<br>silent<br>dice<br>state |  
-| bip_39_word_new_br11 | ankle<br>unfair<br>smart<br>empower<br>ticket<br>claw<br>similar<br>silent<br>dice<br>state<br>husband |  
-| bip_39_word_new_br2 | ankle<br>unfair |  
-| bip_39_word_new_br3 | ankle<br>unfair<br>smart |  
-| bip_39_word_new_br4 | ankle<br>unfair<br>smart<br>empower |  
-| bip_39_word_new_br5 | ankle<br>unfair<br>smart<br>empower<br>ticket |  
-| bip_39_word_new_br6 | ankle<br>unfair<br>smart<br>empower<br>ticket<br>claw |  
-| bip_39_word_new_br7 | ankle<br>unfair<br>smart<br>empower<br>ticket<br>claw<br>similar |  
-| bip_39_word_new_br8 | ankle<br>unfair<br>smart<br>empower<br>ticket<br>claw<br>similar<br>silent |  
-| bip_39_word_new_br9 | ankle<br>unfair<br>smart<br>empower<br>ticket<br>claw<br>similar<br>silent<br>dice |  
-| bip_39_word_new_line1 | ankle |  
-| bip_39_word_new_line10 | ankle
+| bip_39_word_new_br_1 | ankle |  
+| bip_39_word_new_br_10 | ankle<br>unfair<br>smart<br>empower<br>ticket<br>claw<br>similar<br>silent<br>dice<br>state |  
+| bip_39_word_new_br_11 | ankle<br>unfair<br>smart<br>empower<br>ticket<br>claw<br>similar<br>silent<br>dice<br>state<br>husband |  
+| bip_39_word_new_br_2 | ankle<br>unfair |  
+| bip_39_word_new_br_3 | ankle<br>unfair<br>smart |  
+| bip_39_word_new_br_4 | ankle<br>unfair<br>smart<br>empower |  
+| bip_39_word_new_br_5 | ankle<br>unfair<br>smart<br>empower<br>ticket |  
+| bip_39_word_new_br_6 | ankle<br>unfair<br>smart<br>empower<br>ticket<br>claw |  
+| bip_39_word_new_br_7 | ankle<br>unfair<br>smart<br>empower<br>ticket<br>claw<br>similar |  
+| bip_39_word_new_br_8 | ankle<br>unfair<br>smart<br>empower<br>ticket<br>claw<br>similar<br>silent |  
+| bip_39_word_new_br_9 | ankle<br>unfair<br>smart<br>empower<br>ticket<br>claw<br>similar<br>silent<br>dice |  
+| bip_39_word_new_line_1 | ankle |  
+| bip_39_word_new_line_10 | ankle
 unfair
 smart
 empower
@@ -54,7 +54,7 @@ similar
 silent
 dice
 state |  
-| bip_39_word_new_line11 | ankle
+| bip_39_word_new_line_11 | ankle
 unfair
 smart
 empower
@@ -65,34 +65,34 @@ silent
 dice
 state
 husband |  
-| bip_39_word_new_line2 | ankle
+| bip_39_word_new_line_2 | ankle
 unfair |  
-| bip_39_word_new_line3 | ankle
+| bip_39_word_new_line_3 | ankle
 unfair
 smart |  
-| bip_39_word_new_line4 | ankle
+| bip_39_word_new_line_4 | ankle
 unfair
 smart
 empower |  
-| bip_39_word_new_line5 | ankle
+| bip_39_word_new_line_5 | ankle
 unfair
 smart
 empower
 ticket |  
-| bip_39_word_new_line6 | ankle
+| bip_39_word_new_line_6 | ankle
 unfair
 smart
 empower
 ticket
 claw |  
-| bip_39_word_new_line7 | ankle
+| bip_39_word_new_line_7 | ankle
 unfair
 smart
 empower
 ticket
 claw
 similar |  
-| bip_39_word_new_line8 | ankle
+| bip_39_word_new_line_8 | ankle
 unfair
 smart
 empower
@@ -100,7 +100,7 @@ ticket
 claw
 similar
 silent |  
-| bip_39_word_new_line9 | ankle
+| bip_39_word_new_line_9 | ankle
 unfair
 smart
 empower

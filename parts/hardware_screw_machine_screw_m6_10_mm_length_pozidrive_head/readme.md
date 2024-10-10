@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pause |  
-| bip_39_word_new_br10 | pause<br>romance<br>wasp<br>strategy<br>poet<br>narrow<br>wash<br>firm<br>cloth<br>surge |  
-| bip_39_word_new_br11 | pause<br>romance<br>wasp<br>strategy<br>poet<br>narrow<br>wash<br>firm<br>cloth<br>surge<br>rifle |  
-| bip_39_word_new_br2 | pause<br>romance |  
-| bip_39_word_new_br3 | pause<br>romance<br>wasp |  
-| bip_39_word_new_br4 | pause<br>romance<br>wasp<br>strategy |  
-| bip_39_word_new_br5 | pause<br>romance<br>wasp<br>strategy<br>poet |  
-| bip_39_word_new_br6 | pause<br>romance<br>wasp<br>strategy<br>poet<br>narrow |  
-| bip_39_word_new_br7 | pause<br>romance<br>wasp<br>strategy<br>poet<br>narrow<br>wash |  
-| bip_39_word_new_br8 | pause<br>romance<br>wasp<br>strategy<br>poet<br>narrow<br>wash<br>firm |  
-| bip_39_word_new_br9 | pause<br>romance<br>wasp<br>strategy<br>poet<br>narrow<br>wash<br>firm<br>cloth |  
-| bip_39_word_new_line1 | pause |  
-| bip_39_word_new_line10 | pause
+| bip_39_word_new_br_1 | pause |  
+| bip_39_word_new_br_10 | pause<br>romance<br>wasp<br>strategy<br>poet<br>narrow<br>wash<br>firm<br>cloth<br>surge |  
+| bip_39_word_new_br_11 | pause<br>romance<br>wasp<br>strategy<br>poet<br>narrow<br>wash<br>firm<br>cloth<br>surge<br>rifle |  
+| bip_39_word_new_br_2 | pause<br>romance |  
+| bip_39_word_new_br_3 | pause<br>romance<br>wasp |  
+| bip_39_word_new_br_4 | pause<br>romance<br>wasp<br>strategy |  
+| bip_39_word_new_br_5 | pause<br>romance<br>wasp<br>strategy<br>poet |  
+| bip_39_word_new_br_6 | pause<br>romance<br>wasp<br>strategy<br>poet<br>narrow |  
+| bip_39_word_new_br_7 | pause<br>romance<br>wasp<br>strategy<br>poet<br>narrow<br>wash |  
+| bip_39_word_new_br_8 | pause<br>romance<br>wasp<br>strategy<br>poet<br>narrow<br>wash<br>firm |  
+| bip_39_word_new_br_9 | pause<br>romance<br>wasp<br>strategy<br>poet<br>narrow<br>wash<br>firm<br>cloth |  
+| bip_39_word_new_line_1 | pause |  
+| bip_39_word_new_line_10 | pause
 romance
 wasp
 strategy
@@ -54,7 +54,7 @@ wash
 firm
 cloth
 surge |  
-| bip_39_word_new_line11 | pause
+| bip_39_word_new_line_11 | pause
 romance
 wasp
 strategy
@@ -65,34 +65,34 @@ firm
 cloth
 surge
 rifle |  
-| bip_39_word_new_line2 | pause
+| bip_39_word_new_line_2 | pause
 romance |  
-| bip_39_word_new_line3 | pause
+| bip_39_word_new_line_3 | pause
 romance
 wasp |  
-| bip_39_word_new_line4 | pause
+| bip_39_word_new_line_4 | pause
 romance
 wasp
 strategy |  
-| bip_39_word_new_line5 | pause
+| bip_39_word_new_line_5 | pause
 romance
 wasp
 strategy
 poet |  
-| bip_39_word_new_line6 | pause
+| bip_39_word_new_line_6 | pause
 romance
 wasp
 strategy
 poet
 narrow |  
-| bip_39_word_new_line7 | pause
+| bip_39_word_new_line_7 | pause
 romance
 wasp
 strategy
 poet
 narrow
 wash |  
-| bip_39_word_new_line8 | pause
+| bip_39_word_new_line_8 | pause
 romance
 wasp
 strategy
@@ -100,7 +100,7 @@ poet
 narrow
 wash
 firm |  
-| bip_39_word_new_line9 | pause
+| bip_39_word_new_line_9 | pause
 romance
 wasp
 strategy

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | novel |  
-| bip_39_word_new_br10 | novel<br>intact<br>gain<br>know<br>ring<br>reduce<br>cube<br>copy<br>claw<br>distance |  
-| bip_39_word_new_br11 | novel<br>intact<br>gain<br>know<br>ring<br>reduce<br>cube<br>copy<br>claw<br>distance<br>motion |  
-| bip_39_word_new_br12 | novel<br>intact<br>gain<br>know<br>ring<br>reduce<br>cube<br>copy<br>claw<br>distance<br>motion<br>afford |  
-| bip_39_word_new_br2 | novel<br>intact |  
-| bip_39_word_new_br3 | novel<br>intact<br>gain |  
-| bip_39_word_new_br4 | novel<br>intact<br>gain<br>know |  
-| bip_39_word_new_br5 | novel<br>intact<br>gain<br>know<br>ring |  
-| bip_39_word_new_br6 | novel<br>intact<br>gain<br>know<br>ring<br>reduce |  
-| bip_39_word_new_br7 | novel<br>intact<br>gain<br>know<br>ring<br>reduce<br>cube |  
-| bip_39_word_new_br8 | novel<br>intact<br>gain<br>know<br>ring<br>reduce<br>cube<br>copy |  
-| bip_39_word_new_br9 | novel<br>intact<br>gain<br>know<br>ring<br>reduce<br>cube<br>copy<br>claw |  
-| bip_39_word_new_line1 | novel |  
-| bip_39_word_new_line10 | novel
+| bip_39_word_new_br_1 | novel |  
+| bip_39_word_new_br_10 | novel<br>intact<br>gain<br>know<br>ring<br>reduce<br>cube<br>copy<br>claw<br>distance |  
+| bip_39_word_new_br_11 | novel<br>intact<br>gain<br>know<br>ring<br>reduce<br>cube<br>copy<br>claw<br>distance<br>motion |  
+| bip_39_word_new_br_12 | novel<br>intact<br>gain<br>know<br>ring<br>reduce<br>cube<br>copy<br>claw<br>distance<br>motion<br>afford |  
+| bip_39_word_new_br_2 | novel<br>intact |  
+| bip_39_word_new_br_3 | novel<br>intact<br>gain |  
+| bip_39_word_new_br_4 | novel<br>intact<br>gain<br>know |  
+| bip_39_word_new_br_5 | novel<br>intact<br>gain<br>know<br>ring |  
+| bip_39_word_new_br_6 | novel<br>intact<br>gain<br>know<br>ring<br>reduce |  
+| bip_39_word_new_br_7 | novel<br>intact<br>gain<br>know<br>ring<br>reduce<br>cube |  
+| bip_39_word_new_br_8 | novel<br>intact<br>gain<br>know<br>ring<br>reduce<br>cube<br>copy |  
+| bip_39_word_new_br_9 | novel<br>intact<br>gain<br>know<br>ring<br>reduce<br>cube<br>copy<br>claw |  
+| bip_39_word_new_line_1 | novel |  
+| bip_39_word_new_line_10 | novel
 intact
 gain
 know
@@ -55,7 +55,7 @@ cube
 copy
 claw
 distance |  
-| bip_39_word_new_line11 | novel
+| bip_39_word_new_line_11 | novel
 intact
 gain
 know
@@ -66,7 +66,7 @@ copy
 claw
 distance
 motion |  
-| bip_39_word_new_line12 | novel
+| bip_39_word_new_line_12 | novel
 intact
 gain
 know
@@ -78,34 +78,34 @@ claw
 distance
 motion
 afford |  
-| bip_39_word_new_line2 | novel
+| bip_39_word_new_line_2 | novel
 intact |  
-| bip_39_word_new_line3 | novel
+| bip_39_word_new_line_3 | novel
 intact
 gain |  
-| bip_39_word_new_line4 | novel
+| bip_39_word_new_line_4 | novel
 intact
 gain
 know |  
-| bip_39_word_new_line5 | novel
+| bip_39_word_new_line_5 | novel
 intact
 gain
 know
 ring |  
-| bip_39_word_new_line6 | novel
+| bip_39_word_new_line_6 | novel
 intact
 gain
 know
 ring
 reduce |  
-| bip_39_word_new_line7 | novel
+| bip_39_word_new_line_7 | novel
 intact
 gain
 know
 ring
 reduce
 cube |  
-| bip_39_word_new_line8 | novel
+| bip_39_word_new_line_8 | novel
 intact
 gain
 know
@@ -113,7 +113,7 @@ ring
 reduce
 cube
 copy |  
-| bip_39_word_new_line9 | novel
+| bip_39_word_new_line_9 | novel
 intact
 gain
 know

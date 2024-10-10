@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | shop |  
-| bip_39_word_new_br10 | shop<br>soon<br>mom<br>inquiry<br>fee<br>master<br>giant<br>scare<br>vague<br>eyebrow |  
-| bip_39_word_new_br11 | shop<br>soon<br>mom<br>inquiry<br>fee<br>master<br>giant<br>scare<br>vague<br>eyebrow<br>paddle |  
-| bip_39_word_new_br12 | shop<br>soon<br>mom<br>inquiry<br>fee<br>master<br>giant<br>scare<br>vague<br>eyebrow<br>paddle<br>address |  
-| bip_39_word_new_br2 | shop<br>soon |  
-| bip_39_word_new_br3 | shop<br>soon<br>mom |  
-| bip_39_word_new_br4 | shop<br>soon<br>mom<br>inquiry |  
-| bip_39_word_new_br5 | shop<br>soon<br>mom<br>inquiry<br>fee |  
-| bip_39_word_new_br6 | shop<br>soon<br>mom<br>inquiry<br>fee<br>master |  
-| bip_39_word_new_br7 | shop<br>soon<br>mom<br>inquiry<br>fee<br>master<br>giant |  
-| bip_39_word_new_br8 | shop<br>soon<br>mom<br>inquiry<br>fee<br>master<br>giant<br>scare |  
-| bip_39_word_new_br9 | shop<br>soon<br>mom<br>inquiry<br>fee<br>master<br>giant<br>scare<br>vague |  
-| bip_39_word_new_line1 | shop |  
-| bip_39_word_new_line10 | shop
+| bip_39_word_new_br_1 | shop |  
+| bip_39_word_new_br_10 | shop<br>soon<br>mom<br>inquiry<br>fee<br>master<br>giant<br>scare<br>vague<br>eyebrow |  
+| bip_39_word_new_br_11 | shop<br>soon<br>mom<br>inquiry<br>fee<br>master<br>giant<br>scare<br>vague<br>eyebrow<br>paddle |  
+| bip_39_word_new_br_12 | shop<br>soon<br>mom<br>inquiry<br>fee<br>master<br>giant<br>scare<br>vague<br>eyebrow<br>paddle<br>address |  
+| bip_39_word_new_br_2 | shop<br>soon |  
+| bip_39_word_new_br_3 | shop<br>soon<br>mom |  
+| bip_39_word_new_br_4 | shop<br>soon<br>mom<br>inquiry |  
+| bip_39_word_new_br_5 | shop<br>soon<br>mom<br>inquiry<br>fee |  
+| bip_39_word_new_br_6 | shop<br>soon<br>mom<br>inquiry<br>fee<br>master |  
+| bip_39_word_new_br_7 | shop<br>soon<br>mom<br>inquiry<br>fee<br>master<br>giant |  
+| bip_39_word_new_br_8 | shop<br>soon<br>mom<br>inquiry<br>fee<br>master<br>giant<br>scare |  
+| bip_39_word_new_br_9 | shop<br>soon<br>mom<br>inquiry<br>fee<br>master<br>giant<br>scare<br>vague |  
+| bip_39_word_new_line_1 | shop |  
+| bip_39_word_new_line_10 | shop
 soon
 mom
 inquiry
@@ -55,7 +55,7 @@ giant
 scare
 vague
 eyebrow |  
-| bip_39_word_new_line11 | shop
+| bip_39_word_new_line_11 | shop
 soon
 mom
 inquiry
@@ -66,7 +66,7 @@ scare
 vague
 eyebrow
 paddle |  
-| bip_39_word_new_line12 | shop
+| bip_39_word_new_line_12 | shop
 soon
 mom
 inquiry
@@ -78,34 +78,34 @@ vague
 eyebrow
 paddle
 address |  
-| bip_39_word_new_line2 | shop
+| bip_39_word_new_line_2 | shop
 soon |  
-| bip_39_word_new_line3 | shop
+| bip_39_word_new_line_3 | shop
 soon
 mom |  
-| bip_39_word_new_line4 | shop
+| bip_39_word_new_line_4 | shop
 soon
 mom
 inquiry |  
-| bip_39_word_new_line5 | shop
+| bip_39_word_new_line_5 | shop
 soon
 mom
 inquiry
 fee |  
-| bip_39_word_new_line6 | shop
+| bip_39_word_new_line_6 | shop
 soon
 mom
 inquiry
 fee
 master |  
-| bip_39_word_new_line7 | shop
+| bip_39_word_new_line_7 | shop
 soon
 mom
 inquiry
 fee
 master
 giant |  
-| bip_39_word_new_line8 | shop
+| bip_39_word_new_line_8 | shop
 soon
 mom
 inquiry
@@ -113,7 +113,7 @@ fee
 master
 giant
 scare |  
-| bip_39_word_new_line9 | shop
+| bip_39_word_new_line_9 | shop
 soon
 mom
 inquiry

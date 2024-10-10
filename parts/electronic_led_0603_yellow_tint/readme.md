@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | initial |  
-| bip_39_word_new_br10 | initial<br>valve<br>where<br>globe<br>trash<br>suggest<br>monitor<br>surround<br>cycle<br>detect |  
-| bip_39_word_new_br11 | initial<br>valve<br>where<br>globe<br>trash<br>suggest<br>monitor<br>surround<br>cycle<br>detect<br>plug |  
-| bip_39_word_new_br12 | initial<br>valve<br>where<br>globe<br>trash<br>suggest<br>monitor<br>surround<br>cycle<br>detect<br>plug<br>advice |  
-| bip_39_word_new_br2 | initial<br>valve |  
-| bip_39_word_new_br3 | initial<br>valve<br>where |  
-| bip_39_word_new_br4 | initial<br>valve<br>where<br>globe |  
-| bip_39_word_new_br5 | initial<br>valve<br>where<br>globe<br>trash |  
-| bip_39_word_new_br6 | initial<br>valve<br>where<br>globe<br>trash<br>suggest |  
-| bip_39_word_new_br7 | initial<br>valve<br>where<br>globe<br>trash<br>suggest<br>monitor |  
-| bip_39_word_new_br8 | initial<br>valve<br>where<br>globe<br>trash<br>suggest<br>monitor<br>surround |  
-| bip_39_word_new_br9 | initial<br>valve<br>where<br>globe<br>trash<br>suggest<br>monitor<br>surround<br>cycle |  
-| bip_39_word_new_line1 | initial |  
-| bip_39_word_new_line10 | initial
+| bip_39_word_new_br_1 | initial |  
+| bip_39_word_new_br_10 | initial<br>valve<br>where<br>globe<br>trash<br>suggest<br>monitor<br>surround<br>cycle<br>detect |  
+| bip_39_word_new_br_11 | initial<br>valve<br>where<br>globe<br>trash<br>suggest<br>monitor<br>surround<br>cycle<br>detect<br>plug |  
+| bip_39_word_new_br_12 | initial<br>valve<br>where<br>globe<br>trash<br>suggest<br>monitor<br>surround<br>cycle<br>detect<br>plug<br>advice |  
+| bip_39_word_new_br_2 | initial<br>valve |  
+| bip_39_word_new_br_3 | initial<br>valve<br>where |  
+| bip_39_word_new_br_4 | initial<br>valve<br>where<br>globe |  
+| bip_39_word_new_br_5 | initial<br>valve<br>where<br>globe<br>trash |  
+| bip_39_word_new_br_6 | initial<br>valve<br>where<br>globe<br>trash<br>suggest |  
+| bip_39_word_new_br_7 | initial<br>valve<br>where<br>globe<br>trash<br>suggest<br>monitor |  
+| bip_39_word_new_br_8 | initial<br>valve<br>where<br>globe<br>trash<br>suggest<br>monitor<br>surround |  
+| bip_39_word_new_br_9 | initial<br>valve<br>where<br>globe<br>trash<br>suggest<br>monitor<br>surround<br>cycle |  
+| bip_39_word_new_line_1 | initial |  
+| bip_39_word_new_line_10 | initial
 valve
 where
 globe
@@ -55,7 +55,7 @@ monitor
 surround
 cycle
 detect |  
-| bip_39_word_new_line11 | initial
+| bip_39_word_new_line_11 | initial
 valve
 where
 globe
@@ -66,7 +66,7 @@ surround
 cycle
 detect
 plug |  
-| bip_39_word_new_line12 | initial
+| bip_39_word_new_line_12 | initial
 valve
 where
 globe
@@ -78,34 +78,34 @@ cycle
 detect
 plug
 advice |  
-| bip_39_word_new_line2 | initial
+| bip_39_word_new_line_2 | initial
 valve |  
-| bip_39_word_new_line3 | initial
+| bip_39_word_new_line_3 | initial
 valve
 where |  
-| bip_39_word_new_line4 | initial
+| bip_39_word_new_line_4 | initial
 valve
 where
 globe |  
-| bip_39_word_new_line5 | initial
+| bip_39_word_new_line_5 | initial
 valve
 where
 globe
 trash |  
-| bip_39_word_new_line6 | initial
+| bip_39_word_new_line_6 | initial
 valve
 where
 globe
 trash
 suggest |  
-| bip_39_word_new_line7 | initial
+| bip_39_word_new_line_7 | initial
 valve
 where
 globe
 trash
 suggest
 monitor |  
-| bip_39_word_new_line8 | initial
+| bip_39_word_new_line_8 | initial
 valve
 where
 globe
@@ -113,7 +113,7 @@ trash
 suggest
 monitor
 surround |  
-| bip_39_word_new_line9 | initial
+| bip_39_word_new_line_9 | initial
 valve
 where
 globe

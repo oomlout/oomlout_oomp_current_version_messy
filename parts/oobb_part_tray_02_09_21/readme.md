@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | peace |  
-| bip_39_word_new_br10 | peace<br>mosquito<br>gallery<br>review<br>artefact<br>fame<br>salmon<br>alarm<br>tag<br>dutch |  
-| bip_39_word_new_br11 | peace<br>mosquito<br>gallery<br>review<br>artefact<br>fame<br>salmon<br>alarm<br>tag<br>dutch<br>roof |  
-| bip_39_word_new_br12 | peace<br>mosquito<br>gallery<br>review<br>artefact<br>fame<br>salmon<br>alarm<br>tag<br>dutch<br>roof<br>ankle |  
-| bip_39_word_new_br2 | peace<br>mosquito |  
-| bip_39_word_new_br3 | peace<br>mosquito<br>gallery |  
-| bip_39_word_new_br4 | peace<br>mosquito<br>gallery<br>review |  
-| bip_39_word_new_br5 | peace<br>mosquito<br>gallery<br>review<br>artefact |  
-| bip_39_word_new_br6 | peace<br>mosquito<br>gallery<br>review<br>artefact<br>fame |  
-| bip_39_word_new_br7 | peace<br>mosquito<br>gallery<br>review<br>artefact<br>fame<br>salmon |  
-| bip_39_word_new_br8 | peace<br>mosquito<br>gallery<br>review<br>artefact<br>fame<br>salmon<br>alarm |  
-| bip_39_word_new_br9 | peace<br>mosquito<br>gallery<br>review<br>artefact<br>fame<br>salmon<br>alarm<br>tag |  
-| bip_39_word_new_line1 | peace |  
-| bip_39_word_new_line10 | peace
+| bip_39_word_new_br_1 | peace |  
+| bip_39_word_new_br_10 | peace<br>mosquito<br>gallery<br>review<br>artefact<br>fame<br>salmon<br>alarm<br>tag<br>dutch |  
+| bip_39_word_new_br_11 | peace<br>mosquito<br>gallery<br>review<br>artefact<br>fame<br>salmon<br>alarm<br>tag<br>dutch<br>roof |  
+| bip_39_word_new_br_12 | peace<br>mosquito<br>gallery<br>review<br>artefact<br>fame<br>salmon<br>alarm<br>tag<br>dutch<br>roof<br>ankle |  
+| bip_39_word_new_br_2 | peace<br>mosquito |  
+| bip_39_word_new_br_3 | peace<br>mosquito<br>gallery |  
+| bip_39_word_new_br_4 | peace<br>mosquito<br>gallery<br>review |  
+| bip_39_word_new_br_5 | peace<br>mosquito<br>gallery<br>review<br>artefact |  
+| bip_39_word_new_br_6 | peace<br>mosquito<br>gallery<br>review<br>artefact<br>fame |  
+| bip_39_word_new_br_7 | peace<br>mosquito<br>gallery<br>review<br>artefact<br>fame<br>salmon |  
+| bip_39_word_new_br_8 | peace<br>mosquito<br>gallery<br>review<br>artefact<br>fame<br>salmon<br>alarm |  
+| bip_39_word_new_br_9 | peace<br>mosquito<br>gallery<br>review<br>artefact<br>fame<br>salmon<br>alarm<br>tag |  
+| bip_39_word_new_line_1 | peace |  
+| bip_39_word_new_line_10 | peace
 mosquito
 gallery
 review
@@ -55,7 +55,7 @@ salmon
 alarm
 tag
 dutch |  
-| bip_39_word_new_line11 | peace
+| bip_39_word_new_line_11 | peace
 mosquito
 gallery
 review
@@ -66,7 +66,7 @@ alarm
 tag
 dutch
 roof |  
-| bip_39_word_new_line12 | peace
+| bip_39_word_new_line_12 | peace
 mosquito
 gallery
 review
@@ -78,34 +78,34 @@ tag
 dutch
 roof
 ankle |  
-| bip_39_word_new_line2 | peace
+| bip_39_word_new_line_2 | peace
 mosquito |  
-| bip_39_word_new_line3 | peace
+| bip_39_word_new_line_3 | peace
 mosquito
 gallery |  
-| bip_39_word_new_line4 | peace
+| bip_39_word_new_line_4 | peace
 mosquito
 gallery
 review |  
-| bip_39_word_new_line5 | peace
+| bip_39_word_new_line_5 | peace
 mosquito
 gallery
 review
 artefact |  
-| bip_39_word_new_line6 | peace
+| bip_39_word_new_line_6 | peace
 mosquito
 gallery
 review
 artefact
 fame |  
-| bip_39_word_new_line7 | peace
+| bip_39_word_new_line_7 | peace
 mosquito
 gallery
 review
 artefact
 fame
 salmon |  
-| bip_39_word_new_line8 | peace
+| bip_39_word_new_line_8 | peace
 mosquito
 gallery
 review
@@ -113,7 +113,7 @@ artefact
 fame
 salmon
 alarm |  
-| bip_39_word_new_line9 | peace
+| bip_39_word_new_line_9 | peace
 mosquito
 gallery
 review

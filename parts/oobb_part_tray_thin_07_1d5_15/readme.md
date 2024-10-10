@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | throw |  
-| bip_39_word_new_br10 | throw<br>mind<br>horse<br>dinner<br>risk<br>agent<br>solar<br>state<br>tube<br>frame |  
-| bip_39_word_new_br11 | throw<br>mind<br>horse<br>dinner<br>risk<br>agent<br>solar<br>state<br>tube<br>frame<br>boil |  
-| bip_39_word_new_br12 | throw<br>mind<br>horse<br>dinner<br>risk<br>agent<br>solar<br>state<br>tube<br>frame<br>boil<br>attitude |  
-| bip_39_word_new_br2 | throw<br>mind |  
-| bip_39_word_new_br3 | throw<br>mind<br>horse |  
-| bip_39_word_new_br4 | throw<br>mind<br>horse<br>dinner |  
-| bip_39_word_new_br5 | throw<br>mind<br>horse<br>dinner<br>risk |  
-| bip_39_word_new_br6 | throw<br>mind<br>horse<br>dinner<br>risk<br>agent |  
-| bip_39_word_new_br7 | throw<br>mind<br>horse<br>dinner<br>risk<br>agent<br>solar |  
-| bip_39_word_new_br8 | throw<br>mind<br>horse<br>dinner<br>risk<br>agent<br>solar<br>state |  
-| bip_39_word_new_br9 | throw<br>mind<br>horse<br>dinner<br>risk<br>agent<br>solar<br>state<br>tube |  
-| bip_39_word_new_line1 | throw |  
-| bip_39_word_new_line10 | throw
+| bip_39_word_new_br_1 | throw |  
+| bip_39_word_new_br_10 | throw<br>mind<br>horse<br>dinner<br>risk<br>agent<br>solar<br>state<br>tube<br>frame |  
+| bip_39_word_new_br_11 | throw<br>mind<br>horse<br>dinner<br>risk<br>agent<br>solar<br>state<br>tube<br>frame<br>boil |  
+| bip_39_word_new_br_12 | throw<br>mind<br>horse<br>dinner<br>risk<br>agent<br>solar<br>state<br>tube<br>frame<br>boil<br>attitude |  
+| bip_39_word_new_br_2 | throw<br>mind |  
+| bip_39_word_new_br_3 | throw<br>mind<br>horse |  
+| bip_39_word_new_br_4 | throw<br>mind<br>horse<br>dinner |  
+| bip_39_word_new_br_5 | throw<br>mind<br>horse<br>dinner<br>risk |  
+| bip_39_word_new_br_6 | throw<br>mind<br>horse<br>dinner<br>risk<br>agent |  
+| bip_39_word_new_br_7 | throw<br>mind<br>horse<br>dinner<br>risk<br>agent<br>solar |  
+| bip_39_word_new_br_8 | throw<br>mind<br>horse<br>dinner<br>risk<br>agent<br>solar<br>state |  
+| bip_39_word_new_br_9 | throw<br>mind<br>horse<br>dinner<br>risk<br>agent<br>solar<br>state<br>tube |  
+| bip_39_word_new_line_1 | throw |  
+| bip_39_word_new_line_10 | throw
 mind
 horse
 dinner
@@ -55,7 +55,7 @@ solar
 state
 tube
 frame |  
-| bip_39_word_new_line11 | throw
+| bip_39_word_new_line_11 | throw
 mind
 horse
 dinner
@@ -66,7 +66,7 @@ state
 tube
 frame
 boil |  
-| bip_39_word_new_line12 | throw
+| bip_39_word_new_line_12 | throw
 mind
 horse
 dinner
@@ -78,34 +78,34 @@ tube
 frame
 boil
 attitude |  
-| bip_39_word_new_line2 | throw
+| bip_39_word_new_line_2 | throw
 mind |  
-| bip_39_word_new_line3 | throw
+| bip_39_word_new_line_3 | throw
 mind
 horse |  
-| bip_39_word_new_line4 | throw
+| bip_39_word_new_line_4 | throw
 mind
 horse
 dinner |  
-| bip_39_word_new_line5 | throw
+| bip_39_word_new_line_5 | throw
 mind
 horse
 dinner
 risk |  
-| bip_39_word_new_line6 | throw
+| bip_39_word_new_line_6 | throw
 mind
 horse
 dinner
 risk
 agent |  
-| bip_39_word_new_line7 | throw
+| bip_39_word_new_line_7 | throw
 mind
 horse
 dinner
 risk
 agent
 solar |  
-| bip_39_word_new_line8 | throw
+| bip_39_word_new_line_8 | throw
 mind
 horse
 dinner
@@ -113,7 +113,7 @@ risk
 agent
 solar
 state |  
-| bip_39_word_new_line9 | throw
+| bip_39_word_new_line_9 | throw
 mind
 horse
 dinner

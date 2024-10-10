@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | neglect |  
-| bip_39_word_new_br10 | neglect<br>hen<br>labor<br>alert<br>train<br>column<br>stay<br>glow<br>sting<br>stay |  
-| bip_39_word_new_br11 | neglect<br>hen<br>labor<br>alert<br>train<br>column<br>stay<br>glow<br>sting<br>stay<br>wish |  
-| bip_39_word_new_br12 | neglect<br>hen<br>labor<br>alert<br>train<br>column<br>stay<br>glow<br>sting<br>stay<br>wish<br>album |  
-| bip_39_word_new_br2 | neglect<br>hen |  
-| bip_39_word_new_br3 | neglect<br>hen<br>labor |  
-| bip_39_word_new_br4 | neglect<br>hen<br>labor<br>alert |  
-| bip_39_word_new_br5 | neglect<br>hen<br>labor<br>alert<br>train |  
-| bip_39_word_new_br6 | neglect<br>hen<br>labor<br>alert<br>train<br>column |  
-| bip_39_word_new_br7 | neglect<br>hen<br>labor<br>alert<br>train<br>column<br>stay |  
-| bip_39_word_new_br8 | neglect<br>hen<br>labor<br>alert<br>train<br>column<br>stay<br>glow |  
-| bip_39_word_new_br9 | neglect<br>hen<br>labor<br>alert<br>train<br>column<br>stay<br>glow<br>sting |  
-| bip_39_word_new_line1 | neglect |  
-| bip_39_word_new_line10 | neglect
+| bip_39_word_new_br_1 | neglect |  
+| bip_39_word_new_br_10 | neglect<br>hen<br>labor<br>alert<br>train<br>column<br>stay<br>glow<br>sting<br>stay |  
+| bip_39_word_new_br_11 | neglect<br>hen<br>labor<br>alert<br>train<br>column<br>stay<br>glow<br>sting<br>stay<br>wish |  
+| bip_39_word_new_br_12 | neglect<br>hen<br>labor<br>alert<br>train<br>column<br>stay<br>glow<br>sting<br>stay<br>wish<br>album |  
+| bip_39_word_new_br_2 | neglect<br>hen |  
+| bip_39_word_new_br_3 | neglect<br>hen<br>labor |  
+| bip_39_word_new_br_4 | neglect<br>hen<br>labor<br>alert |  
+| bip_39_word_new_br_5 | neglect<br>hen<br>labor<br>alert<br>train |  
+| bip_39_word_new_br_6 | neglect<br>hen<br>labor<br>alert<br>train<br>column |  
+| bip_39_word_new_br_7 | neglect<br>hen<br>labor<br>alert<br>train<br>column<br>stay |  
+| bip_39_word_new_br_8 | neglect<br>hen<br>labor<br>alert<br>train<br>column<br>stay<br>glow |  
+| bip_39_word_new_br_9 | neglect<br>hen<br>labor<br>alert<br>train<br>column<br>stay<br>glow<br>sting |  
+| bip_39_word_new_line_1 | neglect |  
+| bip_39_word_new_line_10 | neglect
 hen
 labor
 alert
@@ -55,7 +55,7 @@ stay
 glow
 sting
 stay |  
-| bip_39_word_new_line11 | neglect
+| bip_39_word_new_line_11 | neglect
 hen
 labor
 alert
@@ -66,7 +66,7 @@ glow
 sting
 stay
 wish |  
-| bip_39_word_new_line12 | neglect
+| bip_39_word_new_line_12 | neglect
 hen
 labor
 alert
@@ -78,34 +78,34 @@ sting
 stay
 wish
 album |  
-| bip_39_word_new_line2 | neglect
+| bip_39_word_new_line_2 | neglect
 hen |  
-| bip_39_word_new_line3 | neglect
+| bip_39_word_new_line_3 | neglect
 hen
 labor |  
-| bip_39_word_new_line4 | neglect
+| bip_39_word_new_line_4 | neglect
 hen
 labor
 alert |  
-| bip_39_word_new_line5 | neglect
+| bip_39_word_new_line_5 | neglect
 hen
 labor
 alert
 train |  
-| bip_39_word_new_line6 | neglect
+| bip_39_word_new_line_6 | neglect
 hen
 labor
 alert
 train
 column |  
-| bip_39_word_new_line7 | neglect
+| bip_39_word_new_line_7 | neglect
 hen
 labor
 alert
 train
 column
 stay |  
-| bip_39_word_new_line8 | neglect
+| bip_39_word_new_line_8 | neglect
 hen
 labor
 alert
@@ -113,7 +113,7 @@ train
 column
 stay
 glow |  
-| bip_39_word_new_line9 | neglect
+| bip_39_word_new_line_9 | neglect
 hen
 labor
 alert

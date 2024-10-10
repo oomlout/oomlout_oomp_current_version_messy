@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gospel |  
-| bip_39_word_new_br10 | gospel<br>grow<br>spell<br>behind<br>sun<br>poem<br>ethics<br>romance<br>south<br>recipe |  
-| bip_39_word_new_br11 | gospel<br>grow<br>spell<br>behind<br>sun<br>poem<br>ethics<br>romance<br>south<br>recipe<br>bleak |  
-| bip_39_word_new_br12 | gospel<br>grow<br>spell<br>behind<br>sun<br>poem<br>ethics<br>romance<br>south<br>recipe<br>bleak<br>annual |  
-| bip_39_word_new_br2 | gospel<br>grow |  
-| bip_39_word_new_br3 | gospel<br>grow<br>spell |  
-| bip_39_word_new_br4 | gospel<br>grow<br>spell<br>behind |  
-| bip_39_word_new_br5 | gospel<br>grow<br>spell<br>behind<br>sun |  
-| bip_39_word_new_br6 | gospel<br>grow<br>spell<br>behind<br>sun<br>poem |  
-| bip_39_word_new_br7 | gospel<br>grow<br>spell<br>behind<br>sun<br>poem<br>ethics |  
-| bip_39_word_new_br8 | gospel<br>grow<br>spell<br>behind<br>sun<br>poem<br>ethics<br>romance |  
-| bip_39_word_new_br9 | gospel<br>grow<br>spell<br>behind<br>sun<br>poem<br>ethics<br>romance<br>south |  
-| bip_39_word_new_line1 | gospel |  
-| bip_39_word_new_line10 | gospel
+| bip_39_word_new_br_1 | gospel |  
+| bip_39_word_new_br_10 | gospel<br>grow<br>spell<br>behind<br>sun<br>poem<br>ethics<br>romance<br>south<br>recipe |  
+| bip_39_word_new_br_11 | gospel<br>grow<br>spell<br>behind<br>sun<br>poem<br>ethics<br>romance<br>south<br>recipe<br>bleak |  
+| bip_39_word_new_br_12 | gospel<br>grow<br>spell<br>behind<br>sun<br>poem<br>ethics<br>romance<br>south<br>recipe<br>bleak<br>annual |  
+| bip_39_word_new_br_2 | gospel<br>grow |  
+| bip_39_word_new_br_3 | gospel<br>grow<br>spell |  
+| bip_39_word_new_br_4 | gospel<br>grow<br>spell<br>behind |  
+| bip_39_word_new_br_5 | gospel<br>grow<br>spell<br>behind<br>sun |  
+| bip_39_word_new_br_6 | gospel<br>grow<br>spell<br>behind<br>sun<br>poem |  
+| bip_39_word_new_br_7 | gospel<br>grow<br>spell<br>behind<br>sun<br>poem<br>ethics |  
+| bip_39_word_new_br_8 | gospel<br>grow<br>spell<br>behind<br>sun<br>poem<br>ethics<br>romance |  
+| bip_39_word_new_br_9 | gospel<br>grow<br>spell<br>behind<br>sun<br>poem<br>ethics<br>romance<br>south |  
+| bip_39_word_new_line_1 | gospel |  
+| bip_39_word_new_line_10 | gospel
 grow
 spell
 behind
@@ -55,7 +55,7 @@ ethics
 romance
 south
 recipe |  
-| bip_39_word_new_line11 | gospel
+| bip_39_word_new_line_11 | gospel
 grow
 spell
 behind
@@ -66,7 +66,7 @@ romance
 south
 recipe
 bleak |  
-| bip_39_word_new_line12 | gospel
+| bip_39_word_new_line_12 | gospel
 grow
 spell
 behind
@@ -78,34 +78,34 @@ south
 recipe
 bleak
 annual |  
-| bip_39_word_new_line2 | gospel
+| bip_39_word_new_line_2 | gospel
 grow |  
-| bip_39_word_new_line3 | gospel
+| bip_39_word_new_line_3 | gospel
 grow
 spell |  
-| bip_39_word_new_line4 | gospel
+| bip_39_word_new_line_4 | gospel
 grow
 spell
 behind |  
-| bip_39_word_new_line5 | gospel
+| bip_39_word_new_line_5 | gospel
 grow
 spell
 behind
 sun |  
-| bip_39_word_new_line6 | gospel
+| bip_39_word_new_line_6 | gospel
 grow
 spell
 behind
 sun
 poem |  
-| bip_39_word_new_line7 | gospel
+| bip_39_word_new_line_7 | gospel
 grow
 spell
 behind
 sun
 poem
 ethics |  
-| bip_39_word_new_line8 | gospel
+| bip_39_word_new_line_8 | gospel
 grow
 spell
 behind
@@ -113,7 +113,7 @@ sun
 poem
 ethics
 romance |  
-| bip_39_word_new_line9 | gospel
+| bip_39_word_new_line_9 | gospel
 grow
 spell
 behind

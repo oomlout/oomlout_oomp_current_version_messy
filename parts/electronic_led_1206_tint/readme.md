@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | decline |  
-| bip_39_word_new_br10 | decline<br>penalty<br>win<br>ask<br>zebra<br>feed<br>awesome<br>choice<br>hard<br>sudden |  
-| bip_39_word_new_br11 | decline<br>penalty<br>win<br>ask<br>zebra<br>feed<br>awesome<br>choice<br>hard<br>sudden<br>denial |  
-| bip_39_word_new_br12 | decline<br>penalty<br>win<br>ask<br>zebra<br>feed<br>awesome<br>choice<br>hard<br>sudden<br>denial<br>assist |  
-| bip_39_word_new_br2 | decline<br>penalty |  
-| bip_39_word_new_br3 | decline<br>penalty<br>win |  
-| bip_39_word_new_br4 | decline<br>penalty<br>win<br>ask |  
-| bip_39_word_new_br5 | decline<br>penalty<br>win<br>ask<br>zebra |  
-| bip_39_word_new_br6 | decline<br>penalty<br>win<br>ask<br>zebra<br>feed |  
-| bip_39_word_new_br7 | decline<br>penalty<br>win<br>ask<br>zebra<br>feed<br>awesome |  
-| bip_39_word_new_br8 | decline<br>penalty<br>win<br>ask<br>zebra<br>feed<br>awesome<br>choice |  
-| bip_39_word_new_br9 | decline<br>penalty<br>win<br>ask<br>zebra<br>feed<br>awesome<br>choice<br>hard |  
-| bip_39_word_new_line1 | decline |  
-| bip_39_word_new_line10 | decline
+| bip_39_word_new_br_1 | decline |  
+| bip_39_word_new_br_10 | decline<br>penalty<br>win<br>ask<br>zebra<br>feed<br>awesome<br>choice<br>hard<br>sudden |  
+| bip_39_word_new_br_11 | decline<br>penalty<br>win<br>ask<br>zebra<br>feed<br>awesome<br>choice<br>hard<br>sudden<br>denial |  
+| bip_39_word_new_br_12 | decline<br>penalty<br>win<br>ask<br>zebra<br>feed<br>awesome<br>choice<br>hard<br>sudden<br>denial<br>assist |  
+| bip_39_word_new_br_2 | decline<br>penalty |  
+| bip_39_word_new_br_3 | decline<br>penalty<br>win |  
+| bip_39_word_new_br_4 | decline<br>penalty<br>win<br>ask |  
+| bip_39_word_new_br_5 | decline<br>penalty<br>win<br>ask<br>zebra |  
+| bip_39_word_new_br_6 | decline<br>penalty<br>win<br>ask<br>zebra<br>feed |  
+| bip_39_word_new_br_7 | decline<br>penalty<br>win<br>ask<br>zebra<br>feed<br>awesome |  
+| bip_39_word_new_br_8 | decline<br>penalty<br>win<br>ask<br>zebra<br>feed<br>awesome<br>choice |  
+| bip_39_word_new_br_9 | decline<br>penalty<br>win<br>ask<br>zebra<br>feed<br>awesome<br>choice<br>hard |  
+| bip_39_word_new_line_1 | decline |  
+| bip_39_word_new_line_10 | decline
 penalty
 win
 ask
@@ -55,7 +55,7 @@ awesome
 choice
 hard
 sudden |  
-| bip_39_word_new_line11 | decline
+| bip_39_word_new_line_11 | decline
 penalty
 win
 ask
@@ -66,7 +66,7 @@ choice
 hard
 sudden
 denial |  
-| bip_39_word_new_line12 | decline
+| bip_39_word_new_line_12 | decline
 penalty
 win
 ask
@@ -78,34 +78,34 @@ hard
 sudden
 denial
 assist |  
-| bip_39_word_new_line2 | decline
+| bip_39_word_new_line_2 | decline
 penalty |  
-| bip_39_word_new_line3 | decline
+| bip_39_word_new_line_3 | decline
 penalty
 win |  
-| bip_39_word_new_line4 | decline
+| bip_39_word_new_line_4 | decline
 penalty
 win
 ask |  
-| bip_39_word_new_line5 | decline
+| bip_39_word_new_line_5 | decline
 penalty
 win
 ask
 zebra |  
-| bip_39_word_new_line6 | decline
+| bip_39_word_new_line_6 | decline
 penalty
 win
 ask
 zebra
 feed |  
-| bip_39_word_new_line7 | decline
+| bip_39_word_new_line_7 | decline
 penalty
 win
 ask
 zebra
 feed
 awesome |  
-| bip_39_word_new_line8 | decline
+| bip_39_word_new_line_8 | decline
 penalty
 win
 ask
@@ -113,7 +113,7 @@ zebra
 feed
 awesome
 choice |  
-| bip_39_word_new_line9 | decline
+| bip_39_word_new_line_9 | decline
 penalty
 win
 ask

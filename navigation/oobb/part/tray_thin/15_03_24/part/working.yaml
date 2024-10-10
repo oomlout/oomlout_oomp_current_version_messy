@@ -1,17 +1,17 @@
-bip_39_word_new_br1: rug
-bip_39_word_new_br10: rug<br>exotic<br>another<br>motor<br>kingdom<br>six<br>start<br>twelve<br>wise<br>demand
-bip_39_word_new_br11: rug<br>exotic<br>another<br>motor<br>kingdom<br>six<br>start<br>twelve<br>wise<br>demand<br>tomorrow
-bip_39_word_new_br12: rug<br>exotic<br>another<br>motor<br>kingdom<br>six<br>start<br>twelve<br>wise<br>demand<br>tomorrow<br>analyst
-bip_39_word_new_br2: rug<br>exotic
-bip_39_word_new_br3: rug<br>exotic<br>another
-bip_39_word_new_br4: rug<br>exotic<br>another<br>motor
-bip_39_word_new_br5: rug<br>exotic<br>another<br>motor<br>kingdom
-bip_39_word_new_br6: rug<br>exotic<br>another<br>motor<br>kingdom<br>six
-bip_39_word_new_br7: rug<br>exotic<br>another<br>motor<br>kingdom<br>six<br>start
-bip_39_word_new_br8: rug<br>exotic<br>another<br>motor<br>kingdom<br>six<br>start<br>twelve
-bip_39_word_new_br9: rug<br>exotic<br>another<br>motor<br>kingdom<br>six<br>start<br>twelve<br>wise
-bip_39_word_new_line1: rug
-bip_39_word_new_line10: 'rug
+bip_39_word_new_br_1: rug
+bip_39_word_new_br_10: rug<br>exotic<br>another<br>motor<br>kingdom<br>six<br>start<br>twelve<br>wise<br>demand
+bip_39_word_new_br_11: rug<br>exotic<br>another<br>motor<br>kingdom<br>six<br>start<br>twelve<br>wise<br>demand<br>tomorrow
+bip_39_word_new_br_12: rug<br>exotic<br>another<br>motor<br>kingdom<br>six<br>start<br>twelve<br>wise<br>demand<br>tomorrow<br>analyst
+bip_39_word_new_br_2: rug<br>exotic
+bip_39_word_new_br_3: rug<br>exotic<br>another
+bip_39_word_new_br_4: rug<br>exotic<br>another<br>motor
+bip_39_word_new_br_5: rug<br>exotic<br>another<br>motor<br>kingdom
+bip_39_word_new_br_6: rug<br>exotic<br>another<br>motor<br>kingdom<br>six
+bip_39_word_new_br_7: rug<br>exotic<br>another<br>motor<br>kingdom<br>six<br>start
+bip_39_word_new_br_8: rug<br>exotic<br>another<br>motor<br>kingdom<br>six<br>start<br>twelve
+bip_39_word_new_br_9: rug<br>exotic<br>another<br>motor<br>kingdom<br>six<br>start<br>twelve<br>wise
+bip_39_word_new_line_1: rug
+bip_39_word_new_line_10: 'rug
 
   exotic
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'rug
   wise
 
   demand'
-bip_39_word_new_line11: 'rug
+bip_39_word_new_line_11: 'rug
 
   exotic
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'rug
   demand
 
   tomorrow'
-bip_39_word_new_line12: 'rug
+bip_39_word_new_line_12: 'rug
 
   exotic
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'rug
   tomorrow
 
   analyst'
-bip_39_word_new_line2: 'rug
+bip_39_word_new_line_2: 'rug
 
   exotic'
-bip_39_word_new_line3: 'rug
+bip_39_word_new_line_3: 'rug
 
   exotic
 
   another'
-bip_39_word_new_line4: 'rug
+bip_39_word_new_line_4: 'rug
 
   exotic
 
   another
 
   motor'
-bip_39_word_new_line5: 'rug
+bip_39_word_new_line_5: 'rug
 
   exotic
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'rug
   motor
 
   kingdom'
-bip_39_word_new_line6: 'rug
+bip_39_word_new_line_6: 'rug
 
   exotic
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'rug
   kingdom
 
   six'
-bip_39_word_new_line7: 'rug
+bip_39_word_new_line_7: 'rug
 
   exotic
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'rug
   six
 
   start'
-bip_39_word_new_line8: 'rug
+bip_39_word_new_line_8: 'rug
 
   exotic
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'rug
   start
 
   twelve'
-bip_39_word_new_line9: 'rug
+bip_39_word_new_line_9: 'rug
 
   exotic
 

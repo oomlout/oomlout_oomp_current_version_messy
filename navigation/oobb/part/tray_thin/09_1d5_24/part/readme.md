@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | outdoor |  
-| bip_39_word_new_br10 | outdoor<br>employ<br>that<br>patient<br>miracle<br>depend<br>repeat<br>glove<br>wreck<br>smile |  
-| bip_39_word_new_br11 | outdoor<br>employ<br>that<br>patient<br>miracle<br>depend<br>repeat<br>glove<br>wreck<br>smile<br>repeat |  
-| bip_39_word_new_br12 | outdoor<br>employ<br>that<br>patient<br>miracle<br>depend<br>repeat<br>glove<br>wreck<br>smile<br>repeat<br>animal |  
-| bip_39_word_new_br2 | outdoor<br>employ |  
-| bip_39_word_new_br3 | outdoor<br>employ<br>that |  
-| bip_39_word_new_br4 | outdoor<br>employ<br>that<br>patient |  
-| bip_39_word_new_br5 | outdoor<br>employ<br>that<br>patient<br>miracle |  
-| bip_39_word_new_br6 | outdoor<br>employ<br>that<br>patient<br>miracle<br>depend |  
-| bip_39_word_new_br7 | outdoor<br>employ<br>that<br>patient<br>miracle<br>depend<br>repeat |  
-| bip_39_word_new_br8 | outdoor<br>employ<br>that<br>patient<br>miracle<br>depend<br>repeat<br>glove |  
-| bip_39_word_new_br9 | outdoor<br>employ<br>that<br>patient<br>miracle<br>depend<br>repeat<br>glove<br>wreck |  
-| bip_39_word_new_line1 | outdoor |  
-| bip_39_word_new_line10 | outdoor
+| bip_39_word_new_br_1 | outdoor |  
+| bip_39_word_new_br_10 | outdoor<br>employ<br>that<br>patient<br>miracle<br>depend<br>repeat<br>glove<br>wreck<br>smile |  
+| bip_39_word_new_br_11 | outdoor<br>employ<br>that<br>patient<br>miracle<br>depend<br>repeat<br>glove<br>wreck<br>smile<br>repeat |  
+| bip_39_word_new_br_12 | outdoor<br>employ<br>that<br>patient<br>miracle<br>depend<br>repeat<br>glove<br>wreck<br>smile<br>repeat<br>animal |  
+| bip_39_word_new_br_2 | outdoor<br>employ |  
+| bip_39_word_new_br_3 | outdoor<br>employ<br>that |  
+| bip_39_word_new_br_4 | outdoor<br>employ<br>that<br>patient |  
+| bip_39_word_new_br_5 | outdoor<br>employ<br>that<br>patient<br>miracle |  
+| bip_39_word_new_br_6 | outdoor<br>employ<br>that<br>patient<br>miracle<br>depend |  
+| bip_39_word_new_br_7 | outdoor<br>employ<br>that<br>patient<br>miracle<br>depend<br>repeat |  
+| bip_39_word_new_br_8 | outdoor<br>employ<br>that<br>patient<br>miracle<br>depend<br>repeat<br>glove |  
+| bip_39_word_new_br_9 | outdoor<br>employ<br>that<br>patient<br>miracle<br>depend<br>repeat<br>glove<br>wreck |  
+| bip_39_word_new_line_1 | outdoor |  
+| bip_39_word_new_line_10 | outdoor
 employ
 that
 patient
@@ -55,7 +55,7 @@ repeat
 glove
 wreck
 smile |  
-| bip_39_word_new_line11 | outdoor
+| bip_39_word_new_line_11 | outdoor
 employ
 that
 patient
@@ -66,7 +66,7 @@ glove
 wreck
 smile
 repeat |  
-| bip_39_word_new_line12 | outdoor
+| bip_39_word_new_line_12 | outdoor
 employ
 that
 patient
@@ -78,34 +78,34 @@ wreck
 smile
 repeat
 animal |  
-| bip_39_word_new_line2 | outdoor
+| bip_39_word_new_line_2 | outdoor
 employ |  
-| bip_39_word_new_line3 | outdoor
+| bip_39_word_new_line_3 | outdoor
 employ
 that |  
-| bip_39_word_new_line4 | outdoor
+| bip_39_word_new_line_4 | outdoor
 employ
 that
 patient |  
-| bip_39_word_new_line5 | outdoor
+| bip_39_word_new_line_5 | outdoor
 employ
 that
 patient
 miracle |  
-| bip_39_word_new_line6 | outdoor
+| bip_39_word_new_line_6 | outdoor
 employ
 that
 patient
 miracle
 depend |  
-| bip_39_word_new_line7 | outdoor
+| bip_39_word_new_line_7 | outdoor
 employ
 that
 patient
 miracle
 depend
 repeat |  
-| bip_39_word_new_line8 | outdoor
+| bip_39_word_new_line_8 | outdoor
 employ
 that
 patient
@@ -113,7 +113,7 @@ miracle
 depend
 repeat
 glove |  
-| bip_39_word_new_line9 | outdoor
+| bip_39_word_new_line_9 | outdoor
 employ
 that
 patient

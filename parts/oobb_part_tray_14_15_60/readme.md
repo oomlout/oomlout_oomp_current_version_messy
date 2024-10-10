@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | try |  
-| bip_39_word_new_br10 | try<br>miracle<br>attend<br>tide<br>profit<br>enroll<br>during<br>dial<br>master<br>circle |  
-| bip_39_word_new_br11 | try<br>miracle<br>attend<br>tide<br>profit<br>enroll<br>during<br>dial<br>master<br>circle<br>diagram |  
-| bip_39_word_new_br12 | try<br>miracle<br>attend<br>tide<br>profit<br>enroll<br>during<br>dial<br>master<br>circle<br>diagram<br>armor |  
-| bip_39_word_new_br2 | try<br>miracle |  
-| bip_39_word_new_br3 | try<br>miracle<br>attend |  
-| bip_39_word_new_br4 | try<br>miracle<br>attend<br>tide |  
-| bip_39_word_new_br5 | try<br>miracle<br>attend<br>tide<br>profit |  
-| bip_39_word_new_br6 | try<br>miracle<br>attend<br>tide<br>profit<br>enroll |  
-| bip_39_word_new_br7 | try<br>miracle<br>attend<br>tide<br>profit<br>enroll<br>during |  
-| bip_39_word_new_br8 | try<br>miracle<br>attend<br>tide<br>profit<br>enroll<br>during<br>dial |  
-| bip_39_word_new_br9 | try<br>miracle<br>attend<br>tide<br>profit<br>enroll<br>during<br>dial<br>master |  
-| bip_39_word_new_line1 | try |  
-| bip_39_word_new_line10 | try
+| bip_39_word_new_br_1 | try |  
+| bip_39_word_new_br_10 | try<br>miracle<br>attend<br>tide<br>profit<br>enroll<br>during<br>dial<br>master<br>circle |  
+| bip_39_word_new_br_11 | try<br>miracle<br>attend<br>tide<br>profit<br>enroll<br>during<br>dial<br>master<br>circle<br>diagram |  
+| bip_39_word_new_br_12 | try<br>miracle<br>attend<br>tide<br>profit<br>enroll<br>during<br>dial<br>master<br>circle<br>diagram<br>armor |  
+| bip_39_word_new_br_2 | try<br>miracle |  
+| bip_39_word_new_br_3 | try<br>miracle<br>attend |  
+| bip_39_word_new_br_4 | try<br>miracle<br>attend<br>tide |  
+| bip_39_word_new_br_5 | try<br>miracle<br>attend<br>tide<br>profit |  
+| bip_39_word_new_br_6 | try<br>miracle<br>attend<br>tide<br>profit<br>enroll |  
+| bip_39_word_new_br_7 | try<br>miracle<br>attend<br>tide<br>profit<br>enroll<br>during |  
+| bip_39_word_new_br_8 | try<br>miracle<br>attend<br>tide<br>profit<br>enroll<br>during<br>dial |  
+| bip_39_word_new_br_9 | try<br>miracle<br>attend<br>tide<br>profit<br>enroll<br>during<br>dial<br>master |  
+| bip_39_word_new_line_1 | try |  
+| bip_39_word_new_line_10 | try
 miracle
 attend
 tide
@@ -55,7 +55,7 @@ during
 dial
 master
 circle |  
-| bip_39_word_new_line11 | try
+| bip_39_word_new_line_11 | try
 miracle
 attend
 tide
@@ -66,7 +66,7 @@ dial
 master
 circle
 diagram |  
-| bip_39_word_new_line12 | try
+| bip_39_word_new_line_12 | try
 miracle
 attend
 tide
@@ -78,34 +78,34 @@ master
 circle
 diagram
 armor |  
-| bip_39_word_new_line2 | try
+| bip_39_word_new_line_2 | try
 miracle |  
-| bip_39_word_new_line3 | try
+| bip_39_word_new_line_3 | try
 miracle
 attend |  
-| bip_39_word_new_line4 | try
+| bip_39_word_new_line_4 | try
 miracle
 attend
 tide |  
-| bip_39_word_new_line5 | try
+| bip_39_word_new_line_5 | try
 miracle
 attend
 tide
 profit |  
-| bip_39_word_new_line6 | try
+| bip_39_word_new_line_6 | try
 miracle
 attend
 tide
 profit
 enroll |  
-| bip_39_word_new_line7 | try
+| bip_39_word_new_line_7 | try
 miracle
 attend
 tide
 profit
 enroll
 during |  
-| bip_39_word_new_line8 | try
+| bip_39_word_new_line_8 | try
 miracle
 attend
 tide
@@ -113,7 +113,7 @@ profit
 enroll
 during
 dial |  
-| bip_39_word_new_line9 | try
+| bip_39_word_new_line_9 | try
 miracle
 attend
 tide

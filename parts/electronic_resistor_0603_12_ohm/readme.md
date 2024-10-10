@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | trip |  
-| bip_39_word_new_br10 | trip<br>air<br>frame<br>setup<br>pumpkin<br>feed<br>gasp<br>enemy<br>butter<br>three |  
-| bip_39_word_new_br11 | trip<br>air<br>frame<br>setup<br>pumpkin<br>feed<br>gasp<br>enemy<br>butter<br>three<br>proud |  
-| bip_39_word_new_br12 | trip<br>air<br>frame<br>setup<br>pumpkin<br>feed<br>gasp<br>enemy<br>butter<br>three<br>proud<br>access |  
-| bip_39_word_new_br2 | trip<br>air |  
-| bip_39_word_new_br3 | trip<br>air<br>frame |  
-| bip_39_word_new_br4 | trip<br>air<br>frame<br>setup |  
-| bip_39_word_new_br5 | trip<br>air<br>frame<br>setup<br>pumpkin |  
-| bip_39_word_new_br6 | trip<br>air<br>frame<br>setup<br>pumpkin<br>feed |  
-| bip_39_word_new_br7 | trip<br>air<br>frame<br>setup<br>pumpkin<br>feed<br>gasp |  
-| bip_39_word_new_br8 | trip<br>air<br>frame<br>setup<br>pumpkin<br>feed<br>gasp<br>enemy |  
-| bip_39_word_new_br9 | trip<br>air<br>frame<br>setup<br>pumpkin<br>feed<br>gasp<br>enemy<br>butter |  
-| bip_39_word_new_line1 | trip |  
-| bip_39_word_new_line10 | trip
+| bip_39_word_new_br_1 | trip |  
+| bip_39_word_new_br_10 | trip<br>air<br>frame<br>setup<br>pumpkin<br>feed<br>gasp<br>enemy<br>butter<br>three |  
+| bip_39_word_new_br_11 | trip<br>air<br>frame<br>setup<br>pumpkin<br>feed<br>gasp<br>enemy<br>butter<br>three<br>proud |  
+| bip_39_word_new_br_12 | trip<br>air<br>frame<br>setup<br>pumpkin<br>feed<br>gasp<br>enemy<br>butter<br>three<br>proud<br>access |  
+| bip_39_word_new_br_2 | trip<br>air |  
+| bip_39_word_new_br_3 | trip<br>air<br>frame |  
+| bip_39_word_new_br_4 | trip<br>air<br>frame<br>setup |  
+| bip_39_word_new_br_5 | trip<br>air<br>frame<br>setup<br>pumpkin |  
+| bip_39_word_new_br_6 | trip<br>air<br>frame<br>setup<br>pumpkin<br>feed |  
+| bip_39_word_new_br_7 | trip<br>air<br>frame<br>setup<br>pumpkin<br>feed<br>gasp |  
+| bip_39_word_new_br_8 | trip<br>air<br>frame<br>setup<br>pumpkin<br>feed<br>gasp<br>enemy |  
+| bip_39_word_new_br_9 | trip<br>air<br>frame<br>setup<br>pumpkin<br>feed<br>gasp<br>enemy<br>butter |  
+| bip_39_word_new_line_1 | trip |  
+| bip_39_word_new_line_10 | trip
 air
 frame
 setup
@@ -55,7 +55,7 @@ gasp
 enemy
 butter
 three |  
-| bip_39_word_new_line11 | trip
+| bip_39_word_new_line_11 | trip
 air
 frame
 setup
@@ -66,7 +66,7 @@ enemy
 butter
 three
 proud |  
-| bip_39_word_new_line12 | trip
+| bip_39_word_new_line_12 | trip
 air
 frame
 setup
@@ -78,34 +78,34 @@ butter
 three
 proud
 access |  
-| bip_39_word_new_line2 | trip
+| bip_39_word_new_line_2 | trip
 air |  
-| bip_39_word_new_line3 | trip
+| bip_39_word_new_line_3 | trip
 air
 frame |  
-| bip_39_word_new_line4 | trip
+| bip_39_word_new_line_4 | trip
 air
 frame
 setup |  
-| bip_39_word_new_line5 | trip
+| bip_39_word_new_line_5 | trip
 air
 frame
 setup
 pumpkin |  
-| bip_39_word_new_line6 | trip
+| bip_39_word_new_line_6 | trip
 air
 frame
 setup
 pumpkin
 feed |  
-| bip_39_word_new_line7 | trip
+| bip_39_word_new_line_7 | trip
 air
 frame
 setup
 pumpkin
 feed
 gasp |  
-| bip_39_word_new_line8 | trip
+| bip_39_word_new_line_8 | trip
 air
 frame
 setup
@@ -113,7 +113,7 @@ pumpkin
 feed
 gasp
 enemy |  
-| bip_39_word_new_line9 | trip
+| bip_39_word_new_line_9 | trip
 air
 frame
 setup

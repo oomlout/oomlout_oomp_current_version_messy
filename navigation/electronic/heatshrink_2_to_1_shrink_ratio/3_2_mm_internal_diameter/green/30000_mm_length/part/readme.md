@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wear |  
-| bip_39_word_new_br10 | wear<br>holiday<br>very<br>puppy<br>license<br>zoo<br>crime<br>victory<br>wait<br>figure |  
-| bip_39_word_new_br11 | wear<br>holiday<br>very<br>puppy<br>license<br>zoo<br>crime<br>victory<br>wait<br>figure<br>shy |  
-| bip_39_word_new_br12 | wear<br>holiday<br>very<br>puppy<br>license<br>zoo<br>crime<br>victory<br>wait<br>figure<br>shy<br>ahead |  
-| bip_39_word_new_br2 | wear<br>holiday |  
-| bip_39_word_new_br3 | wear<br>holiday<br>very |  
-| bip_39_word_new_br4 | wear<br>holiday<br>very<br>puppy |  
-| bip_39_word_new_br5 | wear<br>holiday<br>very<br>puppy<br>license |  
-| bip_39_word_new_br6 | wear<br>holiday<br>very<br>puppy<br>license<br>zoo |  
-| bip_39_word_new_br7 | wear<br>holiday<br>very<br>puppy<br>license<br>zoo<br>crime |  
-| bip_39_word_new_br8 | wear<br>holiday<br>very<br>puppy<br>license<br>zoo<br>crime<br>victory |  
-| bip_39_word_new_br9 | wear<br>holiday<br>very<br>puppy<br>license<br>zoo<br>crime<br>victory<br>wait |  
-| bip_39_word_new_line1 | wear |  
-| bip_39_word_new_line10 | wear
+| bip_39_word_new_br_1 | wear |  
+| bip_39_word_new_br_10 | wear<br>holiday<br>very<br>puppy<br>license<br>zoo<br>crime<br>victory<br>wait<br>figure |  
+| bip_39_word_new_br_11 | wear<br>holiday<br>very<br>puppy<br>license<br>zoo<br>crime<br>victory<br>wait<br>figure<br>shy |  
+| bip_39_word_new_br_12 | wear<br>holiday<br>very<br>puppy<br>license<br>zoo<br>crime<br>victory<br>wait<br>figure<br>shy<br>ahead |  
+| bip_39_word_new_br_2 | wear<br>holiday |  
+| bip_39_word_new_br_3 | wear<br>holiday<br>very |  
+| bip_39_word_new_br_4 | wear<br>holiday<br>very<br>puppy |  
+| bip_39_word_new_br_5 | wear<br>holiday<br>very<br>puppy<br>license |  
+| bip_39_word_new_br_6 | wear<br>holiday<br>very<br>puppy<br>license<br>zoo |  
+| bip_39_word_new_br_7 | wear<br>holiday<br>very<br>puppy<br>license<br>zoo<br>crime |  
+| bip_39_word_new_br_8 | wear<br>holiday<br>very<br>puppy<br>license<br>zoo<br>crime<br>victory |  
+| bip_39_word_new_br_9 | wear<br>holiday<br>very<br>puppy<br>license<br>zoo<br>crime<br>victory<br>wait |  
+| bip_39_word_new_line_1 | wear |  
+| bip_39_word_new_line_10 | wear
 holiday
 very
 puppy
@@ -55,7 +55,7 @@ crime
 victory
 wait
 figure |  
-| bip_39_word_new_line11 | wear
+| bip_39_word_new_line_11 | wear
 holiday
 very
 puppy
@@ -66,7 +66,7 @@ victory
 wait
 figure
 shy |  
-| bip_39_word_new_line12 | wear
+| bip_39_word_new_line_12 | wear
 holiday
 very
 puppy
@@ -78,34 +78,34 @@ wait
 figure
 shy
 ahead |  
-| bip_39_word_new_line2 | wear
+| bip_39_word_new_line_2 | wear
 holiday |  
-| bip_39_word_new_line3 | wear
+| bip_39_word_new_line_3 | wear
 holiday
 very |  
-| bip_39_word_new_line4 | wear
+| bip_39_word_new_line_4 | wear
 holiday
 very
 puppy |  
-| bip_39_word_new_line5 | wear
+| bip_39_word_new_line_5 | wear
 holiday
 very
 puppy
 license |  
-| bip_39_word_new_line6 | wear
+| bip_39_word_new_line_6 | wear
 holiday
 very
 puppy
 license
 zoo |  
-| bip_39_word_new_line7 | wear
+| bip_39_word_new_line_7 | wear
 holiday
 very
 puppy
 license
 zoo
 crime |  
-| bip_39_word_new_line8 | wear
+| bip_39_word_new_line_8 | wear
 holiday
 very
 puppy
@@ -113,7 +113,7 @@ license
 zoo
 crime
 victory |  
-| bip_39_word_new_line9 | wear
+| bip_39_word_new_line_9 | wear
 holiday
 very
 puppy

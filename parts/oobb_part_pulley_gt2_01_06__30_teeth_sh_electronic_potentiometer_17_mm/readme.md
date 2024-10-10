@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | involve |  
-| bip_39_word_new_br10 | involve<br>until<br>double<br>charge<br>area<br>shadow<br>control<br>maximum<br>neither<br>various |  
-| bip_39_word_new_br11 | involve<br>until<br>double<br>charge<br>area<br>shadow<br>control<br>maximum<br>neither<br>various<br>exact |  
-| bip_39_word_new_br12 | involve<br>until<br>double<br>charge<br>area<br>shadow<br>control<br>maximum<br>neither<br>various<br>exact<br>advice |  
-| bip_39_word_new_br2 | involve<br>until |  
-| bip_39_word_new_br3 | involve<br>until<br>double |  
-| bip_39_word_new_br4 | involve<br>until<br>double<br>charge |  
-| bip_39_word_new_br5 | involve<br>until<br>double<br>charge<br>area |  
-| bip_39_word_new_br6 | involve<br>until<br>double<br>charge<br>area<br>shadow |  
-| bip_39_word_new_br7 | involve<br>until<br>double<br>charge<br>area<br>shadow<br>control |  
-| bip_39_word_new_br8 | involve<br>until<br>double<br>charge<br>area<br>shadow<br>control<br>maximum |  
-| bip_39_word_new_br9 | involve<br>until<br>double<br>charge<br>area<br>shadow<br>control<br>maximum<br>neither |  
-| bip_39_word_new_line1 | involve |  
-| bip_39_word_new_line10 | involve
+| bip_39_word_new_br_1 | involve |  
+| bip_39_word_new_br_10 | involve<br>until<br>double<br>charge<br>area<br>shadow<br>control<br>maximum<br>neither<br>various |  
+| bip_39_word_new_br_11 | involve<br>until<br>double<br>charge<br>area<br>shadow<br>control<br>maximum<br>neither<br>various<br>exact |  
+| bip_39_word_new_br_12 | involve<br>until<br>double<br>charge<br>area<br>shadow<br>control<br>maximum<br>neither<br>various<br>exact<br>advice |  
+| bip_39_word_new_br_2 | involve<br>until |  
+| bip_39_word_new_br_3 | involve<br>until<br>double |  
+| bip_39_word_new_br_4 | involve<br>until<br>double<br>charge |  
+| bip_39_word_new_br_5 | involve<br>until<br>double<br>charge<br>area |  
+| bip_39_word_new_br_6 | involve<br>until<br>double<br>charge<br>area<br>shadow |  
+| bip_39_word_new_br_7 | involve<br>until<br>double<br>charge<br>area<br>shadow<br>control |  
+| bip_39_word_new_br_8 | involve<br>until<br>double<br>charge<br>area<br>shadow<br>control<br>maximum |  
+| bip_39_word_new_br_9 | involve<br>until<br>double<br>charge<br>area<br>shadow<br>control<br>maximum<br>neither |  
+| bip_39_word_new_line_1 | involve |  
+| bip_39_word_new_line_10 | involve
 until
 double
 charge
@@ -55,7 +55,7 @@ control
 maximum
 neither
 various |  
-| bip_39_word_new_line11 | involve
+| bip_39_word_new_line_11 | involve
 until
 double
 charge
@@ -66,7 +66,7 @@ maximum
 neither
 various
 exact |  
-| bip_39_word_new_line12 | involve
+| bip_39_word_new_line_12 | involve
 until
 double
 charge
@@ -78,34 +78,34 @@ neither
 various
 exact
 advice |  
-| bip_39_word_new_line2 | involve
+| bip_39_word_new_line_2 | involve
 until |  
-| bip_39_word_new_line3 | involve
+| bip_39_word_new_line_3 | involve
 until
 double |  
-| bip_39_word_new_line4 | involve
+| bip_39_word_new_line_4 | involve
 until
 double
 charge |  
-| bip_39_word_new_line5 | involve
+| bip_39_word_new_line_5 | involve
 until
 double
 charge
 area |  
-| bip_39_word_new_line6 | involve
+| bip_39_word_new_line_6 | involve
 until
 double
 charge
 area
 shadow |  
-| bip_39_word_new_line7 | involve
+| bip_39_word_new_line_7 | involve
 until
 double
 charge
 area
 shadow
 control |  
-| bip_39_word_new_line8 | involve
+| bip_39_word_new_line_8 | involve
 until
 double
 charge
@@ -113,7 +113,7 @@ area
 shadow
 control
 maximum |  
-| bip_39_word_new_line9 | involve
+| bip_39_word_new_line_9 | involve
 until
 double
 charge

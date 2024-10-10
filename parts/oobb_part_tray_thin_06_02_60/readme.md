@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | lava |  
-| bip_39_word_new_br10 | lava<br>verb<br>dilemma<br>lift<br>gown<br>oven<br>escape<br>fire<br>resist<br>myth |  
-| bip_39_word_new_br11 | lava<br>verb<br>dilemma<br>lift<br>gown<br>oven<br>escape<br>fire<br>resist<br>myth<br>into |  
-| bip_39_word_new_br12 | lava<br>verb<br>dilemma<br>lift<br>gown<br>oven<br>escape<br>fire<br>resist<br>myth<br>into<br>always |  
-| bip_39_word_new_br2 | lava<br>verb |  
-| bip_39_word_new_br3 | lava<br>verb<br>dilemma |  
-| bip_39_word_new_br4 | lava<br>verb<br>dilemma<br>lift |  
-| bip_39_word_new_br5 | lava<br>verb<br>dilemma<br>lift<br>gown |  
-| bip_39_word_new_br6 | lava<br>verb<br>dilemma<br>lift<br>gown<br>oven |  
-| bip_39_word_new_br7 | lava<br>verb<br>dilemma<br>lift<br>gown<br>oven<br>escape |  
-| bip_39_word_new_br8 | lava<br>verb<br>dilemma<br>lift<br>gown<br>oven<br>escape<br>fire |  
-| bip_39_word_new_br9 | lava<br>verb<br>dilemma<br>lift<br>gown<br>oven<br>escape<br>fire<br>resist |  
-| bip_39_word_new_line1 | lava |  
-| bip_39_word_new_line10 | lava
+| bip_39_word_new_br_1 | lava |  
+| bip_39_word_new_br_10 | lava<br>verb<br>dilemma<br>lift<br>gown<br>oven<br>escape<br>fire<br>resist<br>myth |  
+| bip_39_word_new_br_11 | lava<br>verb<br>dilemma<br>lift<br>gown<br>oven<br>escape<br>fire<br>resist<br>myth<br>into |  
+| bip_39_word_new_br_12 | lava<br>verb<br>dilemma<br>lift<br>gown<br>oven<br>escape<br>fire<br>resist<br>myth<br>into<br>always |  
+| bip_39_word_new_br_2 | lava<br>verb |  
+| bip_39_word_new_br_3 | lava<br>verb<br>dilemma |  
+| bip_39_word_new_br_4 | lava<br>verb<br>dilemma<br>lift |  
+| bip_39_word_new_br_5 | lava<br>verb<br>dilemma<br>lift<br>gown |  
+| bip_39_word_new_br_6 | lava<br>verb<br>dilemma<br>lift<br>gown<br>oven |  
+| bip_39_word_new_br_7 | lava<br>verb<br>dilemma<br>lift<br>gown<br>oven<br>escape |  
+| bip_39_word_new_br_8 | lava<br>verb<br>dilemma<br>lift<br>gown<br>oven<br>escape<br>fire |  
+| bip_39_word_new_br_9 | lava<br>verb<br>dilemma<br>lift<br>gown<br>oven<br>escape<br>fire<br>resist |  
+| bip_39_word_new_line_1 | lava |  
+| bip_39_word_new_line_10 | lava
 verb
 dilemma
 lift
@@ -55,7 +55,7 @@ escape
 fire
 resist
 myth |  
-| bip_39_word_new_line11 | lava
+| bip_39_word_new_line_11 | lava
 verb
 dilemma
 lift
@@ -66,7 +66,7 @@ fire
 resist
 myth
 into |  
-| bip_39_word_new_line12 | lava
+| bip_39_word_new_line_12 | lava
 verb
 dilemma
 lift
@@ -78,34 +78,34 @@ resist
 myth
 into
 always |  
-| bip_39_word_new_line2 | lava
+| bip_39_word_new_line_2 | lava
 verb |  
-| bip_39_word_new_line3 | lava
+| bip_39_word_new_line_3 | lava
 verb
 dilemma |  
-| bip_39_word_new_line4 | lava
+| bip_39_word_new_line_4 | lava
 verb
 dilemma
 lift |  
-| bip_39_word_new_line5 | lava
+| bip_39_word_new_line_5 | lava
 verb
 dilemma
 lift
 gown |  
-| bip_39_word_new_line6 | lava
+| bip_39_word_new_line_6 | lava
 verb
 dilemma
 lift
 gown
 oven |  
-| bip_39_word_new_line7 | lava
+| bip_39_word_new_line_7 | lava
 verb
 dilemma
 lift
 gown
 oven
 escape |  
-| bip_39_word_new_line8 | lava
+| bip_39_word_new_line_8 | lava
 verb
 dilemma
 lift
@@ -113,7 +113,7 @@ gown
 oven
 escape
 fire |  
-| bip_39_word_new_line9 | lava
+| bip_39_word_new_line_9 | lava
 verb
 dilemma
 lift

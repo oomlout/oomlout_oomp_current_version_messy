@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bless |  
-| bip_39_word_new_br10 | bless<br>belt<br>exhibit<br>talent<br>home<br>night<br>bench<br>hair<br>scorpion<br>festival |  
-| bip_39_word_new_br11 | bless<br>belt<br>exhibit<br>talent<br>home<br>night<br>bench<br>hair<br>scorpion<br>festival<br>offer |  
-| bip_39_word_new_br12 | bless<br>belt<br>exhibit<br>talent<br>home<br>night<br>bench<br>hair<br>scorpion<br>festival<br>offer<br>attitude |  
-| bip_39_word_new_br2 | bless<br>belt |  
-| bip_39_word_new_br3 | bless<br>belt<br>exhibit |  
-| bip_39_word_new_br4 | bless<br>belt<br>exhibit<br>talent |  
-| bip_39_word_new_br5 | bless<br>belt<br>exhibit<br>talent<br>home |  
-| bip_39_word_new_br6 | bless<br>belt<br>exhibit<br>talent<br>home<br>night |  
-| bip_39_word_new_br7 | bless<br>belt<br>exhibit<br>talent<br>home<br>night<br>bench |  
-| bip_39_word_new_br8 | bless<br>belt<br>exhibit<br>talent<br>home<br>night<br>bench<br>hair |  
-| bip_39_word_new_br9 | bless<br>belt<br>exhibit<br>talent<br>home<br>night<br>bench<br>hair<br>scorpion |  
-| bip_39_word_new_line1 | bless |  
-| bip_39_word_new_line10 | bless
+| bip_39_word_new_br_1 | bless |  
+| bip_39_word_new_br_10 | bless<br>belt<br>exhibit<br>talent<br>home<br>night<br>bench<br>hair<br>scorpion<br>festival |  
+| bip_39_word_new_br_11 | bless<br>belt<br>exhibit<br>talent<br>home<br>night<br>bench<br>hair<br>scorpion<br>festival<br>offer |  
+| bip_39_word_new_br_12 | bless<br>belt<br>exhibit<br>talent<br>home<br>night<br>bench<br>hair<br>scorpion<br>festival<br>offer<br>attitude |  
+| bip_39_word_new_br_2 | bless<br>belt |  
+| bip_39_word_new_br_3 | bless<br>belt<br>exhibit |  
+| bip_39_word_new_br_4 | bless<br>belt<br>exhibit<br>talent |  
+| bip_39_word_new_br_5 | bless<br>belt<br>exhibit<br>talent<br>home |  
+| bip_39_word_new_br_6 | bless<br>belt<br>exhibit<br>talent<br>home<br>night |  
+| bip_39_word_new_br_7 | bless<br>belt<br>exhibit<br>talent<br>home<br>night<br>bench |  
+| bip_39_word_new_br_8 | bless<br>belt<br>exhibit<br>talent<br>home<br>night<br>bench<br>hair |  
+| bip_39_word_new_br_9 | bless<br>belt<br>exhibit<br>talent<br>home<br>night<br>bench<br>hair<br>scorpion |  
+| bip_39_word_new_line_1 | bless |  
+| bip_39_word_new_line_10 | bless
 belt
 exhibit
 talent
@@ -55,7 +55,7 @@ bench
 hair
 scorpion
 festival |  
-| bip_39_word_new_line11 | bless
+| bip_39_word_new_line_11 | bless
 belt
 exhibit
 talent
@@ -66,7 +66,7 @@ hair
 scorpion
 festival
 offer |  
-| bip_39_word_new_line12 | bless
+| bip_39_word_new_line_12 | bless
 belt
 exhibit
 talent
@@ -78,34 +78,34 @@ scorpion
 festival
 offer
 attitude |  
-| bip_39_word_new_line2 | bless
+| bip_39_word_new_line_2 | bless
 belt |  
-| bip_39_word_new_line3 | bless
+| bip_39_word_new_line_3 | bless
 belt
 exhibit |  
-| bip_39_word_new_line4 | bless
+| bip_39_word_new_line_4 | bless
 belt
 exhibit
 talent |  
-| bip_39_word_new_line5 | bless
+| bip_39_word_new_line_5 | bless
 belt
 exhibit
 talent
 home |  
-| bip_39_word_new_line6 | bless
+| bip_39_word_new_line_6 | bless
 belt
 exhibit
 talent
 home
 night |  
-| bip_39_word_new_line7 | bless
+| bip_39_word_new_line_7 | bless
 belt
 exhibit
 talent
 home
 night
 bench |  
-| bip_39_word_new_line8 | bless
+| bip_39_word_new_line_8 | bless
 belt
 exhibit
 talent
@@ -113,7 +113,7 @@ home
 night
 bench
 hair |  
-| bip_39_word_new_line9 | bless
+| bip_39_word_new_line_9 | bless
 belt
 exhibit
 talent

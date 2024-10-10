@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fame |  
-| bip_39_word_new_br10 | fame<br>achieve<br>rescue<br>nothing<br>they<br>cradle<br>father<br>unit<br>almost<br>immune |  
-| bip_39_word_new_br11 | fame<br>achieve<br>rescue<br>nothing<br>they<br>cradle<br>father<br>unit<br>almost<br>immune<br>quarter |  
-| bip_39_word_new_br12 | fame<br>achieve<br>rescue<br>nothing<br>they<br>cradle<br>father<br>unit<br>almost<br>immune<br>quarter<br>area |  
-| bip_39_word_new_br2 | fame<br>achieve |  
-| bip_39_word_new_br3 | fame<br>achieve<br>rescue |  
-| bip_39_word_new_br4 | fame<br>achieve<br>rescue<br>nothing |  
-| bip_39_word_new_br5 | fame<br>achieve<br>rescue<br>nothing<br>they |  
-| bip_39_word_new_br6 | fame<br>achieve<br>rescue<br>nothing<br>they<br>cradle |  
-| bip_39_word_new_br7 | fame<br>achieve<br>rescue<br>nothing<br>they<br>cradle<br>father |  
-| bip_39_word_new_br8 | fame<br>achieve<br>rescue<br>nothing<br>they<br>cradle<br>father<br>unit |  
-| bip_39_word_new_br9 | fame<br>achieve<br>rescue<br>nothing<br>they<br>cradle<br>father<br>unit<br>almost |  
-| bip_39_word_new_line1 | fame |  
-| bip_39_word_new_line10 | fame
+| bip_39_word_new_br_1 | fame |  
+| bip_39_word_new_br_10 | fame<br>achieve<br>rescue<br>nothing<br>they<br>cradle<br>father<br>unit<br>almost<br>immune |  
+| bip_39_word_new_br_11 | fame<br>achieve<br>rescue<br>nothing<br>they<br>cradle<br>father<br>unit<br>almost<br>immune<br>quarter |  
+| bip_39_word_new_br_12 | fame<br>achieve<br>rescue<br>nothing<br>they<br>cradle<br>father<br>unit<br>almost<br>immune<br>quarter<br>area |  
+| bip_39_word_new_br_2 | fame<br>achieve |  
+| bip_39_word_new_br_3 | fame<br>achieve<br>rescue |  
+| bip_39_word_new_br_4 | fame<br>achieve<br>rescue<br>nothing |  
+| bip_39_word_new_br_5 | fame<br>achieve<br>rescue<br>nothing<br>they |  
+| bip_39_word_new_br_6 | fame<br>achieve<br>rescue<br>nothing<br>they<br>cradle |  
+| bip_39_word_new_br_7 | fame<br>achieve<br>rescue<br>nothing<br>they<br>cradle<br>father |  
+| bip_39_word_new_br_8 | fame<br>achieve<br>rescue<br>nothing<br>they<br>cradle<br>father<br>unit |  
+| bip_39_word_new_br_9 | fame<br>achieve<br>rescue<br>nothing<br>they<br>cradle<br>father<br>unit<br>almost |  
+| bip_39_word_new_line_1 | fame |  
+| bip_39_word_new_line_10 | fame
 achieve
 rescue
 nothing
@@ -55,7 +55,7 @@ father
 unit
 almost
 immune |  
-| bip_39_word_new_line11 | fame
+| bip_39_word_new_line_11 | fame
 achieve
 rescue
 nothing
@@ -66,7 +66,7 @@ unit
 almost
 immune
 quarter |  
-| bip_39_word_new_line12 | fame
+| bip_39_word_new_line_12 | fame
 achieve
 rescue
 nothing
@@ -78,34 +78,34 @@ almost
 immune
 quarter
 area |  
-| bip_39_word_new_line2 | fame
+| bip_39_word_new_line_2 | fame
 achieve |  
-| bip_39_word_new_line3 | fame
+| bip_39_word_new_line_3 | fame
 achieve
 rescue |  
-| bip_39_word_new_line4 | fame
+| bip_39_word_new_line_4 | fame
 achieve
 rescue
 nothing |  
-| bip_39_word_new_line5 | fame
+| bip_39_word_new_line_5 | fame
 achieve
 rescue
 nothing
 they |  
-| bip_39_word_new_line6 | fame
+| bip_39_word_new_line_6 | fame
 achieve
 rescue
 nothing
 they
 cradle |  
-| bip_39_word_new_line7 | fame
+| bip_39_word_new_line_7 | fame
 achieve
 rescue
 nothing
 they
 cradle
 father |  
-| bip_39_word_new_line8 | fame
+| bip_39_word_new_line_8 | fame
 achieve
 rescue
 nothing
@@ -113,7 +113,7 @@ they
 cradle
 father
 unit |  
-| bip_39_word_new_line9 | fame
+| bip_39_word_new_line_9 | fame
 achieve
 rescue
 nothing

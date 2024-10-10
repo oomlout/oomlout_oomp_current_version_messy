@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gaze |  
-| bip_39_word_new_br10 | gaze<br>clip<br>double<br>local<br>media<br>suggest<br>yard<br>warm<br>escape<br>harbor |  
-| bip_39_word_new_br11 | gaze<br>clip<br>double<br>local<br>media<br>suggest<br>yard<br>warm<br>escape<br>harbor<br>catalog |  
-| bip_39_word_new_br12 | gaze<br>clip<br>double<br>local<br>media<br>suggest<br>yard<br>warm<br>escape<br>harbor<br>catalog<br>argue |  
-| bip_39_word_new_br2 | gaze<br>clip |  
-| bip_39_word_new_br3 | gaze<br>clip<br>double |  
-| bip_39_word_new_br4 | gaze<br>clip<br>double<br>local |  
-| bip_39_word_new_br5 | gaze<br>clip<br>double<br>local<br>media |  
-| bip_39_word_new_br6 | gaze<br>clip<br>double<br>local<br>media<br>suggest |  
-| bip_39_word_new_br7 | gaze<br>clip<br>double<br>local<br>media<br>suggest<br>yard |  
-| bip_39_word_new_br8 | gaze<br>clip<br>double<br>local<br>media<br>suggest<br>yard<br>warm |  
-| bip_39_word_new_br9 | gaze<br>clip<br>double<br>local<br>media<br>suggest<br>yard<br>warm<br>escape |  
-| bip_39_word_new_line1 | gaze |  
-| bip_39_word_new_line10 | gaze
+| bip_39_word_new_br_1 | gaze |  
+| bip_39_word_new_br_10 | gaze<br>clip<br>double<br>local<br>media<br>suggest<br>yard<br>warm<br>escape<br>harbor |  
+| bip_39_word_new_br_11 | gaze<br>clip<br>double<br>local<br>media<br>suggest<br>yard<br>warm<br>escape<br>harbor<br>catalog |  
+| bip_39_word_new_br_12 | gaze<br>clip<br>double<br>local<br>media<br>suggest<br>yard<br>warm<br>escape<br>harbor<br>catalog<br>argue |  
+| bip_39_word_new_br_2 | gaze<br>clip |  
+| bip_39_word_new_br_3 | gaze<br>clip<br>double |  
+| bip_39_word_new_br_4 | gaze<br>clip<br>double<br>local |  
+| bip_39_word_new_br_5 | gaze<br>clip<br>double<br>local<br>media |  
+| bip_39_word_new_br_6 | gaze<br>clip<br>double<br>local<br>media<br>suggest |  
+| bip_39_word_new_br_7 | gaze<br>clip<br>double<br>local<br>media<br>suggest<br>yard |  
+| bip_39_word_new_br_8 | gaze<br>clip<br>double<br>local<br>media<br>suggest<br>yard<br>warm |  
+| bip_39_word_new_br_9 | gaze<br>clip<br>double<br>local<br>media<br>suggest<br>yard<br>warm<br>escape |  
+| bip_39_word_new_line_1 | gaze |  
+| bip_39_word_new_line_10 | gaze
 clip
 double
 local
@@ -55,7 +55,7 @@ yard
 warm
 escape
 harbor |  
-| bip_39_word_new_line11 | gaze
+| bip_39_word_new_line_11 | gaze
 clip
 double
 local
@@ -66,7 +66,7 @@ warm
 escape
 harbor
 catalog |  
-| bip_39_word_new_line12 | gaze
+| bip_39_word_new_line_12 | gaze
 clip
 double
 local
@@ -78,34 +78,34 @@ escape
 harbor
 catalog
 argue |  
-| bip_39_word_new_line2 | gaze
+| bip_39_word_new_line_2 | gaze
 clip |  
-| bip_39_word_new_line3 | gaze
+| bip_39_word_new_line_3 | gaze
 clip
 double |  
-| bip_39_word_new_line4 | gaze
+| bip_39_word_new_line_4 | gaze
 clip
 double
 local |  
-| bip_39_word_new_line5 | gaze
+| bip_39_word_new_line_5 | gaze
 clip
 double
 local
 media |  
-| bip_39_word_new_line6 | gaze
+| bip_39_word_new_line_6 | gaze
 clip
 double
 local
 media
 suggest |  
-| bip_39_word_new_line7 | gaze
+| bip_39_word_new_line_7 | gaze
 clip
 double
 local
 media
 suggest
 yard |  
-| bip_39_word_new_line8 | gaze
+| bip_39_word_new_line_8 | gaze
 clip
 double
 local
@@ -113,7 +113,7 @@ media
 suggest
 yard
 warm |  
-| bip_39_word_new_line9 | gaze
+| bip_39_word_new_line_9 | gaze
 clip
 double
 local

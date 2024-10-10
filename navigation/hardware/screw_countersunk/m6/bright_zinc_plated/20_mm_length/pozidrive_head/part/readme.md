@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | arrive |  
-| bip_39_word_new_br10 | arrive<br>output<br>dial<br>best<br>maid<br>ride<br>lobster<br>claim<br>timber<br>blade |  
-| bip_39_word_new_br11 | arrive<br>output<br>dial<br>best<br>maid<br>ride<br>lobster<br>claim<br>timber<br>blade<br>detect |  
-| bip_39_word_new_br12 | arrive<br>output<br>dial<br>best<br>maid<br>ride<br>lobster<br>claim<br>timber<br>blade<br>detect<br>artist |  
-| bip_39_word_new_br2 | arrive<br>output |  
-| bip_39_word_new_br3 | arrive<br>output<br>dial |  
-| bip_39_word_new_br4 | arrive<br>output<br>dial<br>best |  
-| bip_39_word_new_br5 | arrive<br>output<br>dial<br>best<br>maid |  
-| bip_39_word_new_br6 | arrive<br>output<br>dial<br>best<br>maid<br>ride |  
-| bip_39_word_new_br7 | arrive<br>output<br>dial<br>best<br>maid<br>ride<br>lobster |  
-| bip_39_word_new_br8 | arrive<br>output<br>dial<br>best<br>maid<br>ride<br>lobster<br>claim |  
-| bip_39_word_new_br9 | arrive<br>output<br>dial<br>best<br>maid<br>ride<br>lobster<br>claim<br>timber |  
-| bip_39_word_new_line1 | arrive |  
-| bip_39_word_new_line10 | arrive
+| bip_39_word_new_br_1 | arrive |  
+| bip_39_word_new_br_10 | arrive<br>output<br>dial<br>best<br>maid<br>ride<br>lobster<br>claim<br>timber<br>blade |  
+| bip_39_word_new_br_11 | arrive<br>output<br>dial<br>best<br>maid<br>ride<br>lobster<br>claim<br>timber<br>blade<br>detect |  
+| bip_39_word_new_br_12 | arrive<br>output<br>dial<br>best<br>maid<br>ride<br>lobster<br>claim<br>timber<br>blade<br>detect<br>artist |  
+| bip_39_word_new_br_2 | arrive<br>output |  
+| bip_39_word_new_br_3 | arrive<br>output<br>dial |  
+| bip_39_word_new_br_4 | arrive<br>output<br>dial<br>best |  
+| bip_39_word_new_br_5 | arrive<br>output<br>dial<br>best<br>maid |  
+| bip_39_word_new_br_6 | arrive<br>output<br>dial<br>best<br>maid<br>ride |  
+| bip_39_word_new_br_7 | arrive<br>output<br>dial<br>best<br>maid<br>ride<br>lobster |  
+| bip_39_word_new_br_8 | arrive<br>output<br>dial<br>best<br>maid<br>ride<br>lobster<br>claim |  
+| bip_39_word_new_br_9 | arrive<br>output<br>dial<br>best<br>maid<br>ride<br>lobster<br>claim<br>timber |  
+| bip_39_word_new_line_1 | arrive |  
+| bip_39_word_new_line_10 | arrive
 output
 dial
 best
@@ -55,7 +55,7 @@ lobster
 claim
 timber
 blade |  
-| bip_39_word_new_line11 | arrive
+| bip_39_word_new_line_11 | arrive
 output
 dial
 best
@@ -66,7 +66,7 @@ claim
 timber
 blade
 detect |  
-| bip_39_word_new_line12 | arrive
+| bip_39_word_new_line_12 | arrive
 output
 dial
 best
@@ -78,34 +78,34 @@ timber
 blade
 detect
 artist |  
-| bip_39_word_new_line2 | arrive
+| bip_39_word_new_line_2 | arrive
 output |  
-| bip_39_word_new_line3 | arrive
+| bip_39_word_new_line_3 | arrive
 output
 dial |  
-| bip_39_word_new_line4 | arrive
+| bip_39_word_new_line_4 | arrive
 output
 dial
 best |  
-| bip_39_word_new_line5 | arrive
+| bip_39_word_new_line_5 | arrive
 output
 dial
 best
 maid |  
-| bip_39_word_new_line6 | arrive
+| bip_39_word_new_line_6 | arrive
 output
 dial
 best
 maid
 ride |  
-| bip_39_word_new_line7 | arrive
+| bip_39_word_new_line_7 | arrive
 output
 dial
 best
 maid
 ride
 lobster |  
-| bip_39_word_new_line8 | arrive
+| bip_39_word_new_line_8 | arrive
 output
 dial
 best
@@ -113,7 +113,7 @@ maid
 ride
 lobster
 claim |  
-| bip_39_word_new_line9 | arrive
+| bip_39_word_new_line_9 | arrive
 output
 dial
 best

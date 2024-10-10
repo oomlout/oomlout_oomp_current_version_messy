@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | chaos |  
-| bip_39_word_new_br10 | chaos<br>plastic<br>mind<br>cradle<br>pyramid<br>caught<br>false<br>duck<br>lion<br>say |  
-| bip_39_word_new_br11 | chaos<br>plastic<br>mind<br>cradle<br>pyramid<br>caught<br>false<br>duck<br>lion<br>say<br>curious |  
-| bip_39_word_new_br12 | chaos<br>plastic<br>mind<br>cradle<br>pyramid<br>caught<br>false<br>duck<br>lion<br>say<br>curious<br>average |  
-| bip_39_word_new_br2 | chaos<br>plastic |  
-| bip_39_word_new_br3 | chaos<br>plastic<br>mind |  
-| bip_39_word_new_br4 | chaos<br>plastic<br>mind<br>cradle |  
-| bip_39_word_new_br5 | chaos<br>plastic<br>mind<br>cradle<br>pyramid |  
-| bip_39_word_new_br6 | chaos<br>plastic<br>mind<br>cradle<br>pyramid<br>caught |  
-| bip_39_word_new_br7 | chaos<br>plastic<br>mind<br>cradle<br>pyramid<br>caught<br>false |  
-| bip_39_word_new_br8 | chaos<br>plastic<br>mind<br>cradle<br>pyramid<br>caught<br>false<br>duck |  
-| bip_39_word_new_br9 | chaos<br>plastic<br>mind<br>cradle<br>pyramid<br>caught<br>false<br>duck<br>lion |  
-| bip_39_word_new_line1 | chaos |  
-| bip_39_word_new_line10 | chaos
+| bip_39_word_new_br_1 | chaos |  
+| bip_39_word_new_br_10 | chaos<br>plastic<br>mind<br>cradle<br>pyramid<br>caught<br>false<br>duck<br>lion<br>say |  
+| bip_39_word_new_br_11 | chaos<br>plastic<br>mind<br>cradle<br>pyramid<br>caught<br>false<br>duck<br>lion<br>say<br>curious |  
+| bip_39_word_new_br_12 | chaos<br>plastic<br>mind<br>cradle<br>pyramid<br>caught<br>false<br>duck<br>lion<br>say<br>curious<br>average |  
+| bip_39_word_new_br_2 | chaos<br>plastic |  
+| bip_39_word_new_br_3 | chaos<br>plastic<br>mind |  
+| bip_39_word_new_br_4 | chaos<br>plastic<br>mind<br>cradle |  
+| bip_39_word_new_br_5 | chaos<br>plastic<br>mind<br>cradle<br>pyramid |  
+| bip_39_word_new_br_6 | chaos<br>plastic<br>mind<br>cradle<br>pyramid<br>caught |  
+| bip_39_word_new_br_7 | chaos<br>plastic<br>mind<br>cradle<br>pyramid<br>caught<br>false |  
+| bip_39_word_new_br_8 | chaos<br>plastic<br>mind<br>cradle<br>pyramid<br>caught<br>false<br>duck |  
+| bip_39_word_new_br_9 | chaos<br>plastic<br>mind<br>cradle<br>pyramid<br>caught<br>false<br>duck<br>lion |  
+| bip_39_word_new_line_1 | chaos |  
+| bip_39_word_new_line_10 | chaos
 plastic
 mind
 cradle
@@ -55,7 +55,7 @@ false
 duck
 lion
 say |  
-| bip_39_word_new_line11 | chaos
+| bip_39_word_new_line_11 | chaos
 plastic
 mind
 cradle
@@ -66,7 +66,7 @@ duck
 lion
 say
 curious |  
-| bip_39_word_new_line12 | chaos
+| bip_39_word_new_line_12 | chaos
 plastic
 mind
 cradle
@@ -78,34 +78,34 @@ lion
 say
 curious
 average |  
-| bip_39_word_new_line2 | chaos
+| bip_39_word_new_line_2 | chaos
 plastic |  
-| bip_39_word_new_line3 | chaos
+| bip_39_word_new_line_3 | chaos
 plastic
 mind |  
-| bip_39_word_new_line4 | chaos
+| bip_39_word_new_line_4 | chaos
 plastic
 mind
 cradle |  
-| bip_39_word_new_line5 | chaos
+| bip_39_word_new_line_5 | chaos
 plastic
 mind
 cradle
 pyramid |  
-| bip_39_word_new_line6 | chaos
+| bip_39_word_new_line_6 | chaos
 plastic
 mind
 cradle
 pyramid
 caught |  
-| bip_39_word_new_line7 | chaos
+| bip_39_word_new_line_7 | chaos
 plastic
 mind
 cradle
 pyramid
 caught
 false |  
-| bip_39_word_new_line8 | chaos
+| bip_39_word_new_line_8 | chaos
 plastic
 mind
 cradle
@@ -113,7 +113,7 @@ pyramid
 caught
 false
 duck |  
-| bip_39_word_new_line9 | chaos
+| bip_39_word_new_line_9 | chaos
 plastic
 mind
 cradle

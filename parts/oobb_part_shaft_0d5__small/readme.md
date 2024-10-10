@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | balance |  
-| bip_39_word_new_br10 | balance<br>palace<br>task<br>extra<br>armor<br>tube<br>mail<br>pelican<br>wink<br>cousin |  
-| bip_39_word_new_br11 | balance<br>palace<br>task<br>extra<br>armor<br>tube<br>mail<br>pelican<br>wink<br>cousin<br>fire |  
-| bip_39_word_new_br12 | balance<br>palace<br>task<br>extra<br>armor<br>tube<br>mail<br>pelican<br>wink<br>cousin<br>fire<br>album |  
-| bip_39_word_new_br2 | balance<br>palace |  
-| bip_39_word_new_br3 | balance<br>palace<br>task |  
-| bip_39_word_new_br4 | balance<br>palace<br>task<br>extra |  
-| bip_39_word_new_br5 | balance<br>palace<br>task<br>extra<br>armor |  
-| bip_39_word_new_br6 | balance<br>palace<br>task<br>extra<br>armor<br>tube |  
-| bip_39_word_new_br7 | balance<br>palace<br>task<br>extra<br>armor<br>tube<br>mail |  
-| bip_39_word_new_br8 | balance<br>palace<br>task<br>extra<br>armor<br>tube<br>mail<br>pelican |  
-| bip_39_word_new_br9 | balance<br>palace<br>task<br>extra<br>armor<br>tube<br>mail<br>pelican<br>wink |  
-| bip_39_word_new_line1 | balance |  
-| bip_39_word_new_line10 | balance
+| bip_39_word_new_br_1 | balance |  
+| bip_39_word_new_br_10 | balance<br>palace<br>task<br>extra<br>armor<br>tube<br>mail<br>pelican<br>wink<br>cousin |  
+| bip_39_word_new_br_11 | balance<br>palace<br>task<br>extra<br>armor<br>tube<br>mail<br>pelican<br>wink<br>cousin<br>fire |  
+| bip_39_word_new_br_12 | balance<br>palace<br>task<br>extra<br>armor<br>tube<br>mail<br>pelican<br>wink<br>cousin<br>fire<br>album |  
+| bip_39_word_new_br_2 | balance<br>palace |  
+| bip_39_word_new_br_3 | balance<br>palace<br>task |  
+| bip_39_word_new_br_4 | balance<br>palace<br>task<br>extra |  
+| bip_39_word_new_br_5 | balance<br>palace<br>task<br>extra<br>armor |  
+| bip_39_word_new_br_6 | balance<br>palace<br>task<br>extra<br>armor<br>tube |  
+| bip_39_word_new_br_7 | balance<br>palace<br>task<br>extra<br>armor<br>tube<br>mail |  
+| bip_39_word_new_br_8 | balance<br>palace<br>task<br>extra<br>armor<br>tube<br>mail<br>pelican |  
+| bip_39_word_new_br_9 | balance<br>palace<br>task<br>extra<br>armor<br>tube<br>mail<br>pelican<br>wink |  
+| bip_39_word_new_line_1 | balance |  
+| bip_39_word_new_line_10 | balance
 palace
 task
 extra
@@ -55,7 +55,7 @@ mail
 pelican
 wink
 cousin |  
-| bip_39_word_new_line11 | balance
+| bip_39_word_new_line_11 | balance
 palace
 task
 extra
@@ -66,7 +66,7 @@ pelican
 wink
 cousin
 fire |  
-| bip_39_word_new_line12 | balance
+| bip_39_word_new_line_12 | balance
 palace
 task
 extra
@@ -78,34 +78,34 @@ wink
 cousin
 fire
 album |  
-| bip_39_word_new_line2 | balance
+| bip_39_word_new_line_2 | balance
 palace |  
-| bip_39_word_new_line3 | balance
+| bip_39_word_new_line_3 | balance
 palace
 task |  
-| bip_39_word_new_line4 | balance
+| bip_39_word_new_line_4 | balance
 palace
 task
 extra |  
-| bip_39_word_new_line5 | balance
+| bip_39_word_new_line_5 | balance
 palace
 task
 extra
 armor |  
-| bip_39_word_new_line6 | balance
+| bip_39_word_new_line_6 | balance
 palace
 task
 extra
 armor
 tube |  
-| bip_39_word_new_line7 | balance
+| bip_39_word_new_line_7 | balance
 palace
 task
 extra
 armor
 tube
 mail |  
-| bip_39_word_new_line8 | balance
+| bip_39_word_new_line_8 | balance
 palace
 task
 extra
@@ -113,7 +113,7 @@ armor
 tube
 mail
 pelican |  
-| bip_39_word_new_line9 | balance
+| bip_39_word_new_line_9 | balance
 palace
 task
 extra

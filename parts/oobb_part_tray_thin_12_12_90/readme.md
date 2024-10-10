@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mammal |  
-| bip_39_word_new_br10 | mammal<br>autumn<br>key<br>burger<br>amateur<br>eyebrow<br>journey<br>human<br>hockey<br>forest |  
-| bip_39_word_new_br11 | mammal<br>autumn<br>key<br>burger<br>amateur<br>eyebrow<br>journey<br>human<br>hockey<br>forest<br>chaos |  
-| bip_39_word_new_br2 | mammal<br>autumn |  
-| bip_39_word_new_br3 | mammal<br>autumn<br>key |  
-| bip_39_word_new_br4 | mammal<br>autumn<br>key<br>burger |  
-| bip_39_word_new_br5 | mammal<br>autumn<br>key<br>burger<br>amateur |  
-| bip_39_word_new_br6 | mammal<br>autumn<br>key<br>burger<br>amateur<br>eyebrow |  
-| bip_39_word_new_br7 | mammal<br>autumn<br>key<br>burger<br>amateur<br>eyebrow<br>journey |  
-| bip_39_word_new_br8 | mammal<br>autumn<br>key<br>burger<br>amateur<br>eyebrow<br>journey<br>human |  
-| bip_39_word_new_br9 | mammal<br>autumn<br>key<br>burger<br>amateur<br>eyebrow<br>journey<br>human<br>hockey |  
-| bip_39_word_new_line1 | mammal |  
-| bip_39_word_new_line10 | mammal
+| bip_39_word_new_br_1 | mammal |  
+| bip_39_word_new_br_10 | mammal<br>autumn<br>key<br>burger<br>amateur<br>eyebrow<br>journey<br>human<br>hockey<br>forest |  
+| bip_39_word_new_br_11 | mammal<br>autumn<br>key<br>burger<br>amateur<br>eyebrow<br>journey<br>human<br>hockey<br>forest<br>chaos |  
+| bip_39_word_new_br_2 | mammal<br>autumn |  
+| bip_39_word_new_br_3 | mammal<br>autumn<br>key |  
+| bip_39_word_new_br_4 | mammal<br>autumn<br>key<br>burger |  
+| bip_39_word_new_br_5 | mammal<br>autumn<br>key<br>burger<br>amateur |  
+| bip_39_word_new_br_6 | mammal<br>autumn<br>key<br>burger<br>amateur<br>eyebrow |  
+| bip_39_word_new_br_7 | mammal<br>autumn<br>key<br>burger<br>amateur<br>eyebrow<br>journey |  
+| bip_39_word_new_br_8 | mammal<br>autumn<br>key<br>burger<br>amateur<br>eyebrow<br>journey<br>human |  
+| bip_39_word_new_br_9 | mammal<br>autumn<br>key<br>burger<br>amateur<br>eyebrow<br>journey<br>human<br>hockey |  
+| bip_39_word_new_line_1 | mammal |  
+| bip_39_word_new_line_10 | mammal
 autumn
 key
 burger
@@ -54,7 +54,7 @@ journey
 human
 hockey
 forest |  
-| bip_39_word_new_line11 | mammal
+| bip_39_word_new_line_11 | mammal
 autumn
 key
 burger
@@ -65,34 +65,34 @@ human
 hockey
 forest
 chaos |  
-| bip_39_word_new_line2 | mammal
+| bip_39_word_new_line_2 | mammal
 autumn |  
-| bip_39_word_new_line3 | mammal
+| bip_39_word_new_line_3 | mammal
 autumn
 key |  
-| bip_39_word_new_line4 | mammal
+| bip_39_word_new_line_4 | mammal
 autumn
 key
 burger |  
-| bip_39_word_new_line5 | mammal
+| bip_39_word_new_line_5 | mammal
 autumn
 key
 burger
 amateur |  
-| bip_39_word_new_line6 | mammal
+| bip_39_word_new_line_6 | mammal
 autumn
 key
 burger
 amateur
 eyebrow |  
-| bip_39_word_new_line7 | mammal
+| bip_39_word_new_line_7 | mammal
 autumn
 key
 burger
 amateur
 eyebrow
 journey |  
-| bip_39_word_new_line8 | mammal
+| bip_39_word_new_line_8 | mammal
 autumn
 key
 burger
@@ -100,7 +100,7 @@ amateur
 eyebrow
 journey
 human |  
-| bip_39_word_new_line9 | mammal
+| bip_39_word_new_line_9 | mammal
 autumn
 key
 burger

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | above |  
-| bip_39_word_new_br10 | above<br>code<br>alter<br>horn<br>swing<br>steel<br>toddler<br>prepare<br>pizza<br>blast |  
-| bip_39_word_new_br11 | above<br>code<br>alter<br>horn<br>swing<br>steel<br>toddler<br>prepare<br>pizza<br>blast<br>essence |  
-| bip_39_word_new_br12 | above<br>code<br>alter<br>horn<br>swing<br>steel<br>toddler<br>prepare<br>pizza<br>blast<br>essence<br>always |  
-| bip_39_word_new_br2 | above<br>code |  
-| bip_39_word_new_br3 | above<br>code<br>alter |  
-| bip_39_word_new_br4 | above<br>code<br>alter<br>horn |  
-| bip_39_word_new_br5 | above<br>code<br>alter<br>horn<br>swing |  
-| bip_39_word_new_br6 | above<br>code<br>alter<br>horn<br>swing<br>steel |  
-| bip_39_word_new_br7 | above<br>code<br>alter<br>horn<br>swing<br>steel<br>toddler |  
-| bip_39_word_new_br8 | above<br>code<br>alter<br>horn<br>swing<br>steel<br>toddler<br>prepare |  
-| bip_39_word_new_br9 | above<br>code<br>alter<br>horn<br>swing<br>steel<br>toddler<br>prepare<br>pizza |  
-| bip_39_word_new_line1 | above |  
-| bip_39_word_new_line10 | above
+| bip_39_word_new_br_1 | above |  
+| bip_39_word_new_br_10 | above<br>code<br>alter<br>horn<br>swing<br>steel<br>toddler<br>prepare<br>pizza<br>blast |  
+| bip_39_word_new_br_11 | above<br>code<br>alter<br>horn<br>swing<br>steel<br>toddler<br>prepare<br>pizza<br>blast<br>essence |  
+| bip_39_word_new_br_12 | above<br>code<br>alter<br>horn<br>swing<br>steel<br>toddler<br>prepare<br>pizza<br>blast<br>essence<br>always |  
+| bip_39_word_new_br_2 | above<br>code |  
+| bip_39_word_new_br_3 | above<br>code<br>alter |  
+| bip_39_word_new_br_4 | above<br>code<br>alter<br>horn |  
+| bip_39_word_new_br_5 | above<br>code<br>alter<br>horn<br>swing |  
+| bip_39_word_new_br_6 | above<br>code<br>alter<br>horn<br>swing<br>steel |  
+| bip_39_word_new_br_7 | above<br>code<br>alter<br>horn<br>swing<br>steel<br>toddler |  
+| bip_39_word_new_br_8 | above<br>code<br>alter<br>horn<br>swing<br>steel<br>toddler<br>prepare |  
+| bip_39_word_new_br_9 | above<br>code<br>alter<br>horn<br>swing<br>steel<br>toddler<br>prepare<br>pizza |  
+| bip_39_word_new_line_1 | above |  
+| bip_39_word_new_line_10 | above
 code
 alter
 horn
@@ -55,7 +55,7 @@ toddler
 prepare
 pizza
 blast |  
-| bip_39_word_new_line11 | above
+| bip_39_word_new_line_11 | above
 code
 alter
 horn
@@ -66,7 +66,7 @@ prepare
 pizza
 blast
 essence |  
-| bip_39_word_new_line12 | above
+| bip_39_word_new_line_12 | above
 code
 alter
 horn
@@ -78,34 +78,34 @@ pizza
 blast
 essence
 always |  
-| bip_39_word_new_line2 | above
+| bip_39_word_new_line_2 | above
 code |  
-| bip_39_word_new_line3 | above
+| bip_39_word_new_line_3 | above
 code
 alter |  
-| bip_39_word_new_line4 | above
+| bip_39_word_new_line_4 | above
 code
 alter
 horn |  
-| bip_39_word_new_line5 | above
+| bip_39_word_new_line_5 | above
 code
 alter
 horn
 swing |  
-| bip_39_word_new_line6 | above
+| bip_39_word_new_line_6 | above
 code
 alter
 horn
 swing
 steel |  
-| bip_39_word_new_line7 | above
+| bip_39_word_new_line_7 | above
 code
 alter
 horn
 swing
 steel
 toddler |  
-| bip_39_word_new_line8 | above
+| bip_39_word_new_line_8 | above
 code
 alter
 horn
@@ -113,7 +113,7 @@ swing
 steel
 toddler
 prepare |  
-| bip_39_word_new_line9 | above
+| bip_39_word_new_line_9 | above
 code
 alter
 horn

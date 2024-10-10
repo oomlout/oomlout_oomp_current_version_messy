@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | misery |  
-| bip_39_word_new_br10 | misery<br>anchor<br>start<br>exile<br>balance<br>kingdom<br>cricket<br>grass<br>mouse<br>element |  
-| bip_39_word_new_br11 | misery<br>anchor<br>start<br>exile<br>balance<br>kingdom<br>cricket<br>grass<br>mouse<br>element<br>prison |  
-| bip_39_word_new_br12 | misery<br>anchor<br>start<br>exile<br>balance<br>kingdom<br>cricket<br>grass<br>mouse<br>element<br>prison<br>across |  
-| bip_39_word_new_br2 | misery<br>anchor |  
-| bip_39_word_new_br3 | misery<br>anchor<br>start |  
-| bip_39_word_new_br4 | misery<br>anchor<br>start<br>exile |  
-| bip_39_word_new_br5 | misery<br>anchor<br>start<br>exile<br>balance |  
-| bip_39_word_new_br6 | misery<br>anchor<br>start<br>exile<br>balance<br>kingdom |  
-| bip_39_word_new_br7 | misery<br>anchor<br>start<br>exile<br>balance<br>kingdom<br>cricket |  
-| bip_39_word_new_br8 | misery<br>anchor<br>start<br>exile<br>balance<br>kingdom<br>cricket<br>grass |  
-| bip_39_word_new_br9 | misery<br>anchor<br>start<br>exile<br>balance<br>kingdom<br>cricket<br>grass<br>mouse |  
-| bip_39_word_new_line1 | misery |  
-| bip_39_word_new_line10 | misery
+| bip_39_word_new_br_1 | misery |  
+| bip_39_word_new_br_10 | misery<br>anchor<br>start<br>exile<br>balance<br>kingdom<br>cricket<br>grass<br>mouse<br>element |  
+| bip_39_word_new_br_11 | misery<br>anchor<br>start<br>exile<br>balance<br>kingdom<br>cricket<br>grass<br>mouse<br>element<br>prison |  
+| bip_39_word_new_br_12 | misery<br>anchor<br>start<br>exile<br>balance<br>kingdom<br>cricket<br>grass<br>mouse<br>element<br>prison<br>across |  
+| bip_39_word_new_br_2 | misery<br>anchor |  
+| bip_39_word_new_br_3 | misery<br>anchor<br>start |  
+| bip_39_word_new_br_4 | misery<br>anchor<br>start<br>exile |  
+| bip_39_word_new_br_5 | misery<br>anchor<br>start<br>exile<br>balance |  
+| bip_39_word_new_br_6 | misery<br>anchor<br>start<br>exile<br>balance<br>kingdom |  
+| bip_39_word_new_br_7 | misery<br>anchor<br>start<br>exile<br>balance<br>kingdom<br>cricket |  
+| bip_39_word_new_br_8 | misery<br>anchor<br>start<br>exile<br>balance<br>kingdom<br>cricket<br>grass |  
+| bip_39_word_new_br_9 | misery<br>anchor<br>start<br>exile<br>balance<br>kingdom<br>cricket<br>grass<br>mouse |  
+| bip_39_word_new_line_1 | misery |  
+| bip_39_word_new_line_10 | misery
 anchor
 start
 exile
@@ -55,7 +55,7 @@ cricket
 grass
 mouse
 element |  
-| bip_39_word_new_line11 | misery
+| bip_39_word_new_line_11 | misery
 anchor
 start
 exile
@@ -66,7 +66,7 @@ grass
 mouse
 element
 prison |  
-| bip_39_word_new_line12 | misery
+| bip_39_word_new_line_12 | misery
 anchor
 start
 exile
@@ -78,34 +78,34 @@ mouse
 element
 prison
 across |  
-| bip_39_word_new_line2 | misery
+| bip_39_word_new_line_2 | misery
 anchor |  
-| bip_39_word_new_line3 | misery
+| bip_39_word_new_line_3 | misery
 anchor
 start |  
-| bip_39_word_new_line4 | misery
+| bip_39_word_new_line_4 | misery
 anchor
 start
 exile |  
-| bip_39_word_new_line5 | misery
+| bip_39_word_new_line_5 | misery
 anchor
 start
 exile
 balance |  
-| bip_39_word_new_line6 | misery
+| bip_39_word_new_line_6 | misery
 anchor
 start
 exile
 balance
 kingdom |  
-| bip_39_word_new_line7 | misery
+| bip_39_word_new_line_7 | misery
 anchor
 start
 exile
 balance
 kingdom
 cricket |  
-| bip_39_word_new_line8 | misery
+| bip_39_word_new_line_8 | misery
 anchor
 start
 exile
@@ -113,7 +113,7 @@ balance
 kingdom
 cricket
 grass |  
-| bip_39_word_new_line9 | misery
+| bip_39_word_new_line_9 | misery
 anchor
 start
 exile

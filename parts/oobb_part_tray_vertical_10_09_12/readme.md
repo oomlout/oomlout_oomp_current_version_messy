@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | expose |  
-| bip_39_word_new_br10 | expose<br>educate<br>attract<br>tumble<br>autumn<br>eager<br>volume<br>planet<br>eight<br>claw |  
-| bip_39_word_new_br11 | expose<br>educate<br>attract<br>tumble<br>autumn<br>eager<br>volume<br>planet<br>eight<br>claw<br>develop |  
-| bip_39_word_new_br12 | expose<br>educate<br>attract<br>tumble<br>autumn<br>eager<br>volume<br>planet<br>eight<br>claw<br>develop<br>absurd |  
-| bip_39_word_new_br2 | expose<br>educate |  
-| bip_39_word_new_br3 | expose<br>educate<br>attract |  
-| bip_39_word_new_br4 | expose<br>educate<br>attract<br>tumble |  
-| bip_39_word_new_br5 | expose<br>educate<br>attract<br>tumble<br>autumn |  
-| bip_39_word_new_br6 | expose<br>educate<br>attract<br>tumble<br>autumn<br>eager |  
-| bip_39_word_new_br7 | expose<br>educate<br>attract<br>tumble<br>autumn<br>eager<br>volume |  
-| bip_39_word_new_br8 | expose<br>educate<br>attract<br>tumble<br>autumn<br>eager<br>volume<br>planet |  
-| bip_39_word_new_br9 | expose<br>educate<br>attract<br>tumble<br>autumn<br>eager<br>volume<br>planet<br>eight |  
-| bip_39_word_new_line1 | expose |  
-| bip_39_word_new_line10 | expose
+| bip_39_word_new_br_1 | expose |  
+| bip_39_word_new_br_10 | expose<br>educate<br>attract<br>tumble<br>autumn<br>eager<br>volume<br>planet<br>eight<br>claw |  
+| bip_39_word_new_br_11 | expose<br>educate<br>attract<br>tumble<br>autumn<br>eager<br>volume<br>planet<br>eight<br>claw<br>develop |  
+| bip_39_word_new_br_12 | expose<br>educate<br>attract<br>tumble<br>autumn<br>eager<br>volume<br>planet<br>eight<br>claw<br>develop<br>absurd |  
+| bip_39_word_new_br_2 | expose<br>educate |  
+| bip_39_word_new_br_3 | expose<br>educate<br>attract |  
+| bip_39_word_new_br_4 | expose<br>educate<br>attract<br>tumble |  
+| bip_39_word_new_br_5 | expose<br>educate<br>attract<br>tumble<br>autumn |  
+| bip_39_word_new_br_6 | expose<br>educate<br>attract<br>tumble<br>autumn<br>eager |  
+| bip_39_word_new_br_7 | expose<br>educate<br>attract<br>tumble<br>autumn<br>eager<br>volume |  
+| bip_39_word_new_br_8 | expose<br>educate<br>attract<br>tumble<br>autumn<br>eager<br>volume<br>planet |  
+| bip_39_word_new_br_9 | expose<br>educate<br>attract<br>tumble<br>autumn<br>eager<br>volume<br>planet<br>eight |  
+| bip_39_word_new_line_1 | expose |  
+| bip_39_word_new_line_10 | expose
 educate
 attract
 tumble
@@ -55,7 +55,7 @@ volume
 planet
 eight
 claw |  
-| bip_39_word_new_line11 | expose
+| bip_39_word_new_line_11 | expose
 educate
 attract
 tumble
@@ -66,7 +66,7 @@ planet
 eight
 claw
 develop |  
-| bip_39_word_new_line12 | expose
+| bip_39_word_new_line_12 | expose
 educate
 attract
 tumble
@@ -78,34 +78,34 @@ eight
 claw
 develop
 absurd |  
-| bip_39_word_new_line2 | expose
+| bip_39_word_new_line_2 | expose
 educate |  
-| bip_39_word_new_line3 | expose
+| bip_39_word_new_line_3 | expose
 educate
 attract |  
-| bip_39_word_new_line4 | expose
+| bip_39_word_new_line_4 | expose
 educate
 attract
 tumble |  
-| bip_39_word_new_line5 | expose
+| bip_39_word_new_line_5 | expose
 educate
 attract
 tumble
 autumn |  
-| bip_39_word_new_line6 | expose
+| bip_39_word_new_line_6 | expose
 educate
 attract
 tumble
 autumn
 eager |  
-| bip_39_word_new_line7 | expose
+| bip_39_word_new_line_7 | expose
 educate
 attract
 tumble
 autumn
 eager
 volume |  
-| bip_39_word_new_line8 | expose
+| bip_39_word_new_line_8 | expose
 educate
 attract
 tumble
@@ -113,7 +113,7 @@ autumn
 eager
 volume
 planet |  
-| bip_39_word_new_line9 | expose
+| bip_39_word_new_line_9 | expose
 educate
 attract
 tumble

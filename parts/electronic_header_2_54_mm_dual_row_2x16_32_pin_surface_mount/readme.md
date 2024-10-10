@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | two |  
-| bip_39_word_new_br10 | two<br>vendor<br>unveil<br>key<br>autumn<br>glad<br>monitor<br>panda<br>spoon<br>lizard |  
-| bip_39_word_new_br11 | two<br>vendor<br>unveil<br>key<br>autumn<br>glad<br>monitor<br>panda<br>spoon<br>lizard<br>indoor |  
-| bip_39_word_new_br12 | two<br>vendor<br>unveil<br>key<br>autumn<br>glad<br>monitor<br>panda<br>spoon<br>lizard<br>indoor<br>attack |  
-| bip_39_word_new_br2 | two<br>vendor |  
-| bip_39_word_new_br3 | two<br>vendor<br>unveil |  
-| bip_39_word_new_br4 | two<br>vendor<br>unveil<br>key |  
-| bip_39_word_new_br5 | two<br>vendor<br>unveil<br>key<br>autumn |  
-| bip_39_word_new_br6 | two<br>vendor<br>unveil<br>key<br>autumn<br>glad |  
-| bip_39_word_new_br7 | two<br>vendor<br>unveil<br>key<br>autumn<br>glad<br>monitor |  
-| bip_39_word_new_br8 | two<br>vendor<br>unveil<br>key<br>autumn<br>glad<br>monitor<br>panda |  
-| bip_39_word_new_br9 | two<br>vendor<br>unveil<br>key<br>autumn<br>glad<br>monitor<br>panda<br>spoon |  
-| bip_39_word_new_line1 | two |  
-| bip_39_word_new_line10 | two
+| bip_39_word_new_br_1 | two |  
+| bip_39_word_new_br_10 | two<br>vendor<br>unveil<br>key<br>autumn<br>glad<br>monitor<br>panda<br>spoon<br>lizard |  
+| bip_39_word_new_br_11 | two<br>vendor<br>unveil<br>key<br>autumn<br>glad<br>monitor<br>panda<br>spoon<br>lizard<br>indoor |  
+| bip_39_word_new_br_12 | two<br>vendor<br>unveil<br>key<br>autumn<br>glad<br>monitor<br>panda<br>spoon<br>lizard<br>indoor<br>attack |  
+| bip_39_word_new_br_2 | two<br>vendor |  
+| bip_39_word_new_br_3 | two<br>vendor<br>unveil |  
+| bip_39_word_new_br_4 | two<br>vendor<br>unveil<br>key |  
+| bip_39_word_new_br_5 | two<br>vendor<br>unveil<br>key<br>autumn |  
+| bip_39_word_new_br_6 | two<br>vendor<br>unveil<br>key<br>autumn<br>glad |  
+| bip_39_word_new_br_7 | two<br>vendor<br>unveil<br>key<br>autumn<br>glad<br>monitor |  
+| bip_39_word_new_br_8 | two<br>vendor<br>unveil<br>key<br>autumn<br>glad<br>monitor<br>panda |  
+| bip_39_word_new_br_9 | two<br>vendor<br>unveil<br>key<br>autumn<br>glad<br>monitor<br>panda<br>spoon |  
+| bip_39_word_new_line_1 | two |  
+| bip_39_word_new_line_10 | two
 vendor
 unveil
 key
@@ -55,7 +55,7 @@ monitor
 panda
 spoon
 lizard |  
-| bip_39_word_new_line11 | two
+| bip_39_word_new_line_11 | two
 vendor
 unveil
 key
@@ -66,7 +66,7 @@ panda
 spoon
 lizard
 indoor |  
-| bip_39_word_new_line12 | two
+| bip_39_word_new_line_12 | two
 vendor
 unveil
 key
@@ -78,34 +78,34 @@ spoon
 lizard
 indoor
 attack |  
-| bip_39_word_new_line2 | two
+| bip_39_word_new_line_2 | two
 vendor |  
-| bip_39_word_new_line3 | two
+| bip_39_word_new_line_3 | two
 vendor
 unveil |  
-| bip_39_word_new_line4 | two
+| bip_39_word_new_line_4 | two
 vendor
 unveil
 key |  
-| bip_39_word_new_line5 | two
+| bip_39_word_new_line_5 | two
 vendor
 unveil
 key
 autumn |  
-| bip_39_word_new_line6 | two
+| bip_39_word_new_line_6 | two
 vendor
 unveil
 key
 autumn
 glad |  
-| bip_39_word_new_line7 | two
+| bip_39_word_new_line_7 | two
 vendor
 unveil
 key
 autumn
 glad
 monitor |  
-| bip_39_word_new_line8 | two
+| bip_39_word_new_line_8 | two
 vendor
 unveil
 key
@@ -113,7 +113,7 @@ autumn
 glad
 monitor
 panda |  
-| bip_39_word_new_line9 | two
+| bip_39_word_new_line_9 | two
 vendor
 unveil
 key

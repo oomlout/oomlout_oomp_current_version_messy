@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | target |  
-| bip_39_word_new_br10 | target<br>right<br>sphere<br>street<br>sick<br>humor<br>sting<br>sunny<br>cruise<br>frame |  
-| bip_39_word_new_br11 | target<br>right<br>sphere<br>street<br>sick<br>humor<br>sting<br>sunny<br>cruise<br>frame<br>romance |  
-| bip_39_word_new_br12 | target<br>right<br>sphere<br>street<br>sick<br>humor<br>sting<br>sunny<br>cruise<br>frame<br>romance<br>anxiety |  
-| bip_39_word_new_br2 | target<br>right |  
-| bip_39_word_new_br3 | target<br>right<br>sphere |  
-| bip_39_word_new_br4 | target<br>right<br>sphere<br>street |  
-| bip_39_word_new_br5 | target<br>right<br>sphere<br>street<br>sick |  
-| bip_39_word_new_br6 | target<br>right<br>sphere<br>street<br>sick<br>humor |  
-| bip_39_word_new_br7 | target<br>right<br>sphere<br>street<br>sick<br>humor<br>sting |  
-| bip_39_word_new_br8 | target<br>right<br>sphere<br>street<br>sick<br>humor<br>sting<br>sunny |  
-| bip_39_word_new_br9 | target<br>right<br>sphere<br>street<br>sick<br>humor<br>sting<br>sunny<br>cruise |  
-| bip_39_word_new_line1 | target |  
-| bip_39_word_new_line10 | target
+| bip_39_word_new_br_1 | target |  
+| bip_39_word_new_br_10 | target<br>right<br>sphere<br>street<br>sick<br>humor<br>sting<br>sunny<br>cruise<br>frame |  
+| bip_39_word_new_br_11 | target<br>right<br>sphere<br>street<br>sick<br>humor<br>sting<br>sunny<br>cruise<br>frame<br>romance |  
+| bip_39_word_new_br_12 | target<br>right<br>sphere<br>street<br>sick<br>humor<br>sting<br>sunny<br>cruise<br>frame<br>romance<br>anxiety |  
+| bip_39_word_new_br_2 | target<br>right |  
+| bip_39_word_new_br_3 | target<br>right<br>sphere |  
+| bip_39_word_new_br_4 | target<br>right<br>sphere<br>street |  
+| bip_39_word_new_br_5 | target<br>right<br>sphere<br>street<br>sick |  
+| bip_39_word_new_br_6 | target<br>right<br>sphere<br>street<br>sick<br>humor |  
+| bip_39_word_new_br_7 | target<br>right<br>sphere<br>street<br>sick<br>humor<br>sting |  
+| bip_39_word_new_br_8 | target<br>right<br>sphere<br>street<br>sick<br>humor<br>sting<br>sunny |  
+| bip_39_word_new_br_9 | target<br>right<br>sphere<br>street<br>sick<br>humor<br>sting<br>sunny<br>cruise |  
+| bip_39_word_new_line_1 | target |  
+| bip_39_word_new_line_10 | target
 right
 sphere
 street
@@ -55,7 +55,7 @@ sting
 sunny
 cruise
 frame |  
-| bip_39_word_new_line11 | target
+| bip_39_word_new_line_11 | target
 right
 sphere
 street
@@ -66,7 +66,7 @@ sunny
 cruise
 frame
 romance |  
-| bip_39_word_new_line12 | target
+| bip_39_word_new_line_12 | target
 right
 sphere
 street
@@ -78,34 +78,34 @@ cruise
 frame
 romance
 anxiety |  
-| bip_39_word_new_line2 | target
+| bip_39_word_new_line_2 | target
 right |  
-| bip_39_word_new_line3 | target
+| bip_39_word_new_line_3 | target
 right
 sphere |  
-| bip_39_word_new_line4 | target
+| bip_39_word_new_line_4 | target
 right
 sphere
 street |  
-| bip_39_word_new_line5 | target
+| bip_39_word_new_line_5 | target
 right
 sphere
 street
 sick |  
-| bip_39_word_new_line6 | target
+| bip_39_word_new_line_6 | target
 right
 sphere
 street
 sick
 humor |  
-| bip_39_word_new_line7 | target
+| bip_39_word_new_line_7 | target
 right
 sphere
 street
 sick
 humor
 sting |  
-| bip_39_word_new_line8 | target
+| bip_39_word_new_line_8 | target
 right
 sphere
 street
@@ -113,7 +113,7 @@ sick
 humor
 sting
 sunny |  
-| bip_39_word_new_line9 | target
+| bip_39_word_new_line_9 | target
 right
 sphere
 street

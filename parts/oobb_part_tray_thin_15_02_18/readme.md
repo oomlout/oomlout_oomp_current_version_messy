@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fork |  
-| bip_39_word_new_br10 | fork<br>net<br>true<br>attack<br>ozone<br>device<br>conduct<br>true<br>keen<br>expand |  
-| bip_39_word_new_br11 | fork<br>net<br>true<br>attack<br>ozone<br>device<br>conduct<br>true<br>keen<br>expand<br>useless |  
-| bip_39_word_new_br12 | fork<br>net<br>true<br>attack<br>ozone<br>device<br>conduct<br>true<br>keen<br>expand<br>useless<br>approve |  
-| bip_39_word_new_br2 | fork<br>net |  
-| bip_39_word_new_br3 | fork<br>net<br>true |  
-| bip_39_word_new_br4 | fork<br>net<br>true<br>attack |  
-| bip_39_word_new_br5 | fork<br>net<br>true<br>attack<br>ozone |  
-| bip_39_word_new_br6 | fork<br>net<br>true<br>attack<br>ozone<br>device |  
-| bip_39_word_new_br7 | fork<br>net<br>true<br>attack<br>ozone<br>device<br>conduct |  
-| bip_39_word_new_br8 | fork<br>net<br>true<br>attack<br>ozone<br>device<br>conduct<br>true |  
-| bip_39_word_new_br9 | fork<br>net<br>true<br>attack<br>ozone<br>device<br>conduct<br>true<br>keen |  
-| bip_39_word_new_line1 | fork |  
-| bip_39_word_new_line10 | fork
+| bip_39_word_new_br_1 | fork |  
+| bip_39_word_new_br_10 | fork<br>net<br>true<br>attack<br>ozone<br>device<br>conduct<br>true<br>keen<br>expand |  
+| bip_39_word_new_br_11 | fork<br>net<br>true<br>attack<br>ozone<br>device<br>conduct<br>true<br>keen<br>expand<br>useless |  
+| bip_39_word_new_br_12 | fork<br>net<br>true<br>attack<br>ozone<br>device<br>conduct<br>true<br>keen<br>expand<br>useless<br>approve |  
+| bip_39_word_new_br_2 | fork<br>net |  
+| bip_39_word_new_br_3 | fork<br>net<br>true |  
+| bip_39_word_new_br_4 | fork<br>net<br>true<br>attack |  
+| bip_39_word_new_br_5 | fork<br>net<br>true<br>attack<br>ozone |  
+| bip_39_word_new_br_6 | fork<br>net<br>true<br>attack<br>ozone<br>device |  
+| bip_39_word_new_br_7 | fork<br>net<br>true<br>attack<br>ozone<br>device<br>conduct |  
+| bip_39_word_new_br_8 | fork<br>net<br>true<br>attack<br>ozone<br>device<br>conduct<br>true |  
+| bip_39_word_new_br_9 | fork<br>net<br>true<br>attack<br>ozone<br>device<br>conduct<br>true<br>keen |  
+| bip_39_word_new_line_1 | fork |  
+| bip_39_word_new_line_10 | fork
 net
 true
 attack
@@ -55,7 +55,7 @@ conduct
 true
 keen
 expand |  
-| bip_39_word_new_line11 | fork
+| bip_39_word_new_line_11 | fork
 net
 true
 attack
@@ -66,7 +66,7 @@ true
 keen
 expand
 useless |  
-| bip_39_word_new_line12 | fork
+| bip_39_word_new_line_12 | fork
 net
 true
 attack
@@ -78,34 +78,34 @@ keen
 expand
 useless
 approve |  
-| bip_39_word_new_line2 | fork
+| bip_39_word_new_line_2 | fork
 net |  
-| bip_39_word_new_line3 | fork
+| bip_39_word_new_line_3 | fork
 net
 true |  
-| bip_39_word_new_line4 | fork
+| bip_39_word_new_line_4 | fork
 net
 true
 attack |  
-| bip_39_word_new_line5 | fork
+| bip_39_word_new_line_5 | fork
 net
 true
 attack
 ozone |  
-| bip_39_word_new_line6 | fork
+| bip_39_word_new_line_6 | fork
 net
 true
 attack
 ozone
 device |  
-| bip_39_word_new_line7 | fork
+| bip_39_word_new_line_7 | fork
 net
 true
 attack
 ozone
 device
 conduct |  
-| bip_39_word_new_line8 | fork
+| bip_39_word_new_line_8 | fork
 net
 true
 attack
@@ -113,7 +113,7 @@ ozone
 device
 conduct
 true |  
-| bip_39_word_new_line9 | fork
+| bip_39_word_new_line_9 | fork
 net
 true
 attack

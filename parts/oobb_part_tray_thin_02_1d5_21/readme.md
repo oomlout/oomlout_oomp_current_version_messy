@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | quiz |  
-| bip_39_word_new_br10 | quiz<br>release<br>human<br>blur<br>grit<br>dentist<br>human<br>skin<br>attract<br>conduct |  
-| bip_39_word_new_br11 | quiz<br>release<br>human<br>blur<br>grit<br>dentist<br>human<br>skin<br>attract<br>conduct<br>keen |  
-| bip_39_word_new_br12 | quiz<br>release<br>human<br>blur<br>grit<br>dentist<br>human<br>skin<br>attract<br>conduct<br>keen<br>artist |  
-| bip_39_word_new_br2 | quiz<br>release |  
-| bip_39_word_new_br3 | quiz<br>release<br>human |  
-| bip_39_word_new_br4 | quiz<br>release<br>human<br>blur |  
-| bip_39_word_new_br5 | quiz<br>release<br>human<br>blur<br>grit |  
-| bip_39_word_new_br6 | quiz<br>release<br>human<br>blur<br>grit<br>dentist |  
-| bip_39_word_new_br7 | quiz<br>release<br>human<br>blur<br>grit<br>dentist<br>human |  
-| bip_39_word_new_br8 | quiz<br>release<br>human<br>blur<br>grit<br>dentist<br>human<br>skin |  
-| bip_39_word_new_br9 | quiz<br>release<br>human<br>blur<br>grit<br>dentist<br>human<br>skin<br>attract |  
-| bip_39_word_new_line1 | quiz |  
-| bip_39_word_new_line10 | quiz
+| bip_39_word_new_br_1 | quiz |  
+| bip_39_word_new_br_10 | quiz<br>release<br>human<br>blur<br>grit<br>dentist<br>human<br>skin<br>attract<br>conduct |  
+| bip_39_word_new_br_11 | quiz<br>release<br>human<br>blur<br>grit<br>dentist<br>human<br>skin<br>attract<br>conduct<br>keen |  
+| bip_39_word_new_br_12 | quiz<br>release<br>human<br>blur<br>grit<br>dentist<br>human<br>skin<br>attract<br>conduct<br>keen<br>artist |  
+| bip_39_word_new_br_2 | quiz<br>release |  
+| bip_39_word_new_br_3 | quiz<br>release<br>human |  
+| bip_39_word_new_br_4 | quiz<br>release<br>human<br>blur |  
+| bip_39_word_new_br_5 | quiz<br>release<br>human<br>blur<br>grit |  
+| bip_39_word_new_br_6 | quiz<br>release<br>human<br>blur<br>grit<br>dentist |  
+| bip_39_word_new_br_7 | quiz<br>release<br>human<br>blur<br>grit<br>dentist<br>human |  
+| bip_39_word_new_br_8 | quiz<br>release<br>human<br>blur<br>grit<br>dentist<br>human<br>skin |  
+| bip_39_word_new_br_9 | quiz<br>release<br>human<br>blur<br>grit<br>dentist<br>human<br>skin<br>attract |  
+| bip_39_word_new_line_1 | quiz |  
+| bip_39_word_new_line_10 | quiz
 release
 human
 blur
@@ -55,7 +55,7 @@ human
 skin
 attract
 conduct |  
-| bip_39_word_new_line11 | quiz
+| bip_39_word_new_line_11 | quiz
 release
 human
 blur
@@ -66,7 +66,7 @@ skin
 attract
 conduct
 keen |  
-| bip_39_word_new_line12 | quiz
+| bip_39_word_new_line_12 | quiz
 release
 human
 blur
@@ -78,34 +78,34 @@ attract
 conduct
 keen
 artist |  
-| bip_39_word_new_line2 | quiz
+| bip_39_word_new_line_2 | quiz
 release |  
-| bip_39_word_new_line3 | quiz
+| bip_39_word_new_line_3 | quiz
 release
 human |  
-| bip_39_word_new_line4 | quiz
+| bip_39_word_new_line_4 | quiz
 release
 human
 blur |  
-| bip_39_word_new_line5 | quiz
+| bip_39_word_new_line_5 | quiz
 release
 human
 blur
 grit |  
-| bip_39_word_new_line6 | quiz
+| bip_39_word_new_line_6 | quiz
 release
 human
 blur
 grit
 dentist |  
-| bip_39_word_new_line7 | quiz
+| bip_39_word_new_line_7 | quiz
 release
 human
 blur
 grit
 dentist
 human |  
-| bip_39_word_new_line8 | quiz
+| bip_39_word_new_line_8 | quiz
 release
 human
 blur
@@ -113,7 +113,7 @@ grit
 dentist
 human
 skin |  
-| bip_39_word_new_line9 | quiz
+| bip_39_word_new_line_9 | quiz
 release
 human
 blur

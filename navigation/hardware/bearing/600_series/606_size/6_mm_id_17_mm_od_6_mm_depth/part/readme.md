@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | question |  
-| bip_39_word_new_br10 | question<br>roof<br>coach<br>myth<br>strategy<br>donkey<br>width<br>bleak<br>bag<br>machine |  
-| bip_39_word_new_br11 | question<br>roof<br>coach<br>myth<br>strategy<br>donkey<br>width<br>bleak<br>bag<br>machine<br>skull |  
-| bip_39_word_new_br12 | question<br>roof<br>coach<br>myth<br>strategy<br>donkey<br>width<br>bleak<br>bag<br>machine<br>skull<br>apology |  
-| bip_39_word_new_br2 | question<br>roof |  
-| bip_39_word_new_br3 | question<br>roof<br>coach |  
-| bip_39_word_new_br4 | question<br>roof<br>coach<br>myth |  
-| bip_39_word_new_br5 | question<br>roof<br>coach<br>myth<br>strategy |  
-| bip_39_word_new_br6 | question<br>roof<br>coach<br>myth<br>strategy<br>donkey |  
-| bip_39_word_new_br7 | question<br>roof<br>coach<br>myth<br>strategy<br>donkey<br>width |  
-| bip_39_word_new_br8 | question<br>roof<br>coach<br>myth<br>strategy<br>donkey<br>width<br>bleak |  
-| bip_39_word_new_br9 | question<br>roof<br>coach<br>myth<br>strategy<br>donkey<br>width<br>bleak<br>bag |  
-| bip_39_word_new_line1 | question |  
-| bip_39_word_new_line10 | question
+| bip_39_word_new_br_1 | question |  
+| bip_39_word_new_br_10 | question<br>roof<br>coach<br>myth<br>strategy<br>donkey<br>width<br>bleak<br>bag<br>machine |  
+| bip_39_word_new_br_11 | question<br>roof<br>coach<br>myth<br>strategy<br>donkey<br>width<br>bleak<br>bag<br>machine<br>skull |  
+| bip_39_word_new_br_12 | question<br>roof<br>coach<br>myth<br>strategy<br>donkey<br>width<br>bleak<br>bag<br>machine<br>skull<br>apology |  
+| bip_39_word_new_br_2 | question<br>roof |  
+| bip_39_word_new_br_3 | question<br>roof<br>coach |  
+| bip_39_word_new_br_4 | question<br>roof<br>coach<br>myth |  
+| bip_39_word_new_br_5 | question<br>roof<br>coach<br>myth<br>strategy |  
+| bip_39_word_new_br_6 | question<br>roof<br>coach<br>myth<br>strategy<br>donkey |  
+| bip_39_word_new_br_7 | question<br>roof<br>coach<br>myth<br>strategy<br>donkey<br>width |  
+| bip_39_word_new_br_8 | question<br>roof<br>coach<br>myth<br>strategy<br>donkey<br>width<br>bleak |  
+| bip_39_word_new_br_9 | question<br>roof<br>coach<br>myth<br>strategy<br>donkey<br>width<br>bleak<br>bag |  
+| bip_39_word_new_line_1 | question |  
+| bip_39_word_new_line_10 | question
 roof
 coach
 myth
@@ -55,7 +55,7 @@ width
 bleak
 bag
 machine |  
-| bip_39_word_new_line11 | question
+| bip_39_word_new_line_11 | question
 roof
 coach
 myth
@@ -66,7 +66,7 @@ bleak
 bag
 machine
 skull |  
-| bip_39_word_new_line12 | question
+| bip_39_word_new_line_12 | question
 roof
 coach
 myth
@@ -78,34 +78,34 @@ bag
 machine
 skull
 apology |  
-| bip_39_word_new_line2 | question
+| bip_39_word_new_line_2 | question
 roof |  
-| bip_39_word_new_line3 | question
+| bip_39_word_new_line_3 | question
 roof
 coach |  
-| bip_39_word_new_line4 | question
+| bip_39_word_new_line_4 | question
 roof
 coach
 myth |  
-| bip_39_word_new_line5 | question
+| bip_39_word_new_line_5 | question
 roof
 coach
 myth
 strategy |  
-| bip_39_word_new_line6 | question
+| bip_39_word_new_line_6 | question
 roof
 coach
 myth
 strategy
 donkey |  
-| bip_39_word_new_line7 | question
+| bip_39_word_new_line_7 | question
 roof
 coach
 myth
 strategy
 donkey
 width |  
-| bip_39_word_new_line8 | question
+| bip_39_word_new_line_8 | question
 roof
 coach
 myth
@@ -113,7 +113,7 @@ strategy
 donkey
 width
 bleak |  
-| bip_39_word_new_line9 | question
+| bip_39_word_new_line_9 | question
 roof
 coach
 myth

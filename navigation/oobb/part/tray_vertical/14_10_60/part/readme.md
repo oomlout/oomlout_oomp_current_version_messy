@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | close |  
-| bip_39_word_new_br10 | close<br>lift<br>enroll<br>skull<br>crush<br>round<br>exhaust<br>basket<br>antenna<br>clerk |  
-| bip_39_word_new_br11 | close<br>lift<br>enroll<br>skull<br>crush<br>round<br>exhaust<br>basket<br>antenna<br>clerk<br>winner |  
-| bip_39_word_new_br12 | close<br>lift<br>enroll<br>skull<br>crush<br>round<br>exhaust<br>basket<br>antenna<br>clerk<br>winner<br>alert |  
-| bip_39_word_new_br2 | close<br>lift |  
-| bip_39_word_new_br3 | close<br>lift<br>enroll |  
-| bip_39_word_new_br4 | close<br>lift<br>enroll<br>skull |  
-| bip_39_word_new_br5 | close<br>lift<br>enroll<br>skull<br>crush |  
-| bip_39_word_new_br6 | close<br>lift<br>enroll<br>skull<br>crush<br>round |  
-| bip_39_word_new_br7 | close<br>lift<br>enroll<br>skull<br>crush<br>round<br>exhaust |  
-| bip_39_word_new_br8 | close<br>lift<br>enroll<br>skull<br>crush<br>round<br>exhaust<br>basket |  
-| bip_39_word_new_br9 | close<br>lift<br>enroll<br>skull<br>crush<br>round<br>exhaust<br>basket<br>antenna |  
-| bip_39_word_new_line1 | close |  
-| bip_39_word_new_line10 | close
+| bip_39_word_new_br_1 | close |  
+| bip_39_word_new_br_10 | close<br>lift<br>enroll<br>skull<br>crush<br>round<br>exhaust<br>basket<br>antenna<br>clerk |  
+| bip_39_word_new_br_11 | close<br>lift<br>enroll<br>skull<br>crush<br>round<br>exhaust<br>basket<br>antenna<br>clerk<br>winner |  
+| bip_39_word_new_br_12 | close<br>lift<br>enroll<br>skull<br>crush<br>round<br>exhaust<br>basket<br>antenna<br>clerk<br>winner<br>alert |  
+| bip_39_word_new_br_2 | close<br>lift |  
+| bip_39_word_new_br_3 | close<br>lift<br>enroll |  
+| bip_39_word_new_br_4 | close<br>lift<br>enroll<br>skull |  
+| bip_39_word_new_br_5 | close<br>lift<br>enroll<br>skull<br>crush |  
+| bip_39_word_new_br_6 | close<br>lift<br>enroll<br>skull<br>crush<br>round |  
+| bip_39_word_new_br_7 | close<br>lift<br>enroll<br>skull<br>crush<br>round<br>exhaust |  
+| bip_39_word_new_br_8 | close<br>lift<br>enroll<br>skull<br>crush<br>round<br>exhaust<br>basket |  
+| bip_39_word_new_br_9 | close<br>lift<br>enroll<br>skull<br>crush<br>round<br>exhaust<br>basket<br>antenna |  
+| bip_39_word_new_line_1 | close |  
+| bip_39_word_new_line_10 | close
 lift
 enroll
 skull
@@ -55,7 +55,7 @@ exhaust
 basket
 antenna
 clerk |  
-| bip_39_word_new_line11 | close
+| bip_39_word_new_line_11 | close
 lift
 enroll
 skull
@@ -66,7 +66,7 @@ basket
 antenna
 clerk
 winner |  
-| bip_39_word_new_line12 | close
+| bip_39_word_new_line_12 | close
 lift
 enroll
 skull
@@ -78,34 +78,34 @@ antenna
 clerk
 winner
 alert |  
-| bip_39_word_new_line2 | close
+| bip_39_word_new_line_2 | close
 lift |  
-| bip_39_word_new_line3 | close
+| bip_39_word_new_line_3 | close
 lift
 enroll |  
-| bip_39_word_new_line4 | close
+| bip_39_word_new_line_4 | close
 lift
 enroll
 skull |  
-| bip_39_word_new_line5 | close
+| bip_39_word_new_line_5 | close
 lift
 enroll
 skull
 crush |  
-| bip_39_word_new_line6 | close
+| bip_39_word_new_line_6 | close
 lift
 enroll
 skull
 crush
 round |  
-| bip_39_word_new_line7 | close
+| bip_39_word_new_line_7 | close
 lift
 enroll
 skull
 crush
 round
 exhaust |  
-| bip_39_word_new_line8 | close
+| bip_39_word_new_line_8 | close
 lift
 enroll
 skull
@@ -113,7 +113,7 @@ crush
 round
 exhaust
 basket |  
-| bip_39_word_new_line9 | close
+| bip_39_word_new_line_9 | close
 lift
 enroll
 skull

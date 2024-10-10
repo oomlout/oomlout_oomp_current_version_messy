@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | excite |  
-| bip_39_word_new_br10 | excite<br>trim<br>remove<br>device<br>case<br>fatigue<br>picnic<br>critic<br>snow<br>improve |  
-| bip_39_word_new_br11 | excite<br>trim<br>remove<br>device<br>case<br>fatigue<br>picnic<br>critic<br>snow<br>improve<br>recall |  
-| bip_39_word_new_br12 | excite<br>trim<br>remove<br>device<br>case<br>fatigue<br>picnic<br>critic<br>snow<br>improve<br>recall<br>actual |  
-| bip_39_word_new_br2 | excite<br>trim |  
-| bip_39_word_new_br3 | excite<br>trim<br>remove |  
-| bip_39_word_new_br4 | excite<br>trim<br>remove<br>device |  
-| bip_39_word_new_br5 | excite<br>trim<br>remove<br>device<br>case |  
-| bip_39_word_new_br6 | excite<br>trim<br>remove<br>device<br>case<br>fatigue |  
-| bip_39_word_new_br7 | excite<br>trim<br>remove<br>device<br>case<br>fatigue<br>picnic |  
-| bip_39_word_new_br8 | excite<br>trim<br>remove<br>device<br>case<br>fatigue<br>picnic<br>critic |  
-| bip_39_word_new_br9 | excite<br>trim<br>remove<br>device<br>case<br>fatigue<br>picnic<br>critic<br>snow |  
-| bip_39_word_new_line1 | excite |  
-| bip_39_word_new_line10 | excite
+| bip_39_word_new_br_1 | excite |  
+| bip_39_word_new_br_10 | excite<br>trim<br>remove<br>device<br>case<br>fatigue<br>picnic<br>critic<br>snow<br>improve |  
+| bip_39_word_new_br_11 | excite<br>trim<br>remove<br>device<br>case<br>fatigue<br>picnic<br>critic<br>snow<br>improve<br>recall |  
+| bip_39_word_new_br_12 | excite<br>trim<br>remove<br>device<br>case<br>fatigue<br>picnic<br>critic<br>snow<br>improve<br>recall<br>actual |  
+| bip_39_word_new_br_2 | excite<br>trim |  
+| bip_39_word_new_br_3 | excite<br>trim<br>remove |  
+| bip_39_word_new_br_4 | excite<br>trim<br>remove<br>device |  
+| bip_39_word_new_br_5 | excite<br>trim<br>remove<br>device<br>case |  
+| bip_39_word_new_br_6 | excite<br>trim<br>remove<br>device<br>case<br>fatigue |  
+| bip_39_word_new_br_7 | excite<br>trim<br>remove<br>device<br>case<br>fatigue<br>picnic |  
+| bip_39_word_new_br_8 | excite<br>trim<br>remove<br>device<br>case<br>fatigue<br>picnic<br>critic |  
+| bip_39_word_new_br_9 | excite<br>trim<br>remove<br>device<br>case<br>fatigue<br>picnic<br>critic<br>snow |  
+| bip_39_word_new_line_1 | excite |  
+| bip_39_word_new_line_10 | excite
 trim
 remove
 device
@@ -55,7 +55,7 @@ picnic
 critic
 snow
 improve |  
-| bip_39_word_new_line11 | excite
+| bip_39_word_new_line_11 | excite
 trim
 remove
 device
@@ -66,7 +66,7 @@ critic
 snow
 improve
 recall |  
-| bip_39_word_new_line12 | excite
+| bip_39_word_new_line_12 | excite
 trim
 remove
 device
@@ -78,34 +78,34 @@ snow
 improve
 recall
 actual |  
-| bip_39_word_new_line2 | excite
+| bip_39_word_new_line_2 | excite
 trim |  
-| bip_39_word_new_line3 | excite
+| bip_39_word_new_line_3 | excite
 trim
 remove |  
-| bip_39_word_new_line4 | excite
+| bip_39_word_new_line_4 | excite
 trim
 remove
 device |  
-| bip_39_word_new_line5 | excite
+| bip_39_word_new_line_5 | excite
 trim
 remove
 device
 case |  
-| bip_39_word_new_line6 | excite
+| bip_39_word_new_line_6 | excite
 trim
 remove
 device
 case
 fatigue |  
-| bip_39_word_new_line7 | excite
+| bip_39_word_new_line_7 | excite
 trim
 remove
 device
 case
 fatigue
 picnic |  
-| bip_39_word_new_line8 | excite
+| bip_39_word_new_line_8 | excite
 trim
 remove
 device
@@ -113,7 +113,7 @@ case
 fatigue
 picnic
 critic |  
-| bip_39_word_new_line9 | excite
+| bip_39_word_new_line_9 | excite
 trim
 remove
 device

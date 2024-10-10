@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | release |  
-| bip_39_word_new_br10 | release<br>evil<br>split<br>clog<br>lift<br>sight<br>earn<br>main<br>meat<br>uniform |  
-| bip_39_word_new_br11 | release<br>evil<br>split<br>clog<br>lift<br>sight<br>earn<br>main<br>meat<br>uniform<br>cricket |  
-| bip_39_word_new_br12 | release<br>evil<br>split<br>clog<br>lift<br>sight<br>earn<br>main<br>meat<br>uniform<br>cricket<br>adult |  
-| bip_39_word_new_br2 | release<br>evil |  
-| bip_39_word_new_br3 | release<br>evil<br>split |  
-| bip_39_word_new_br4 | release<br>evil<br>split<br>clog |  
-| bip_39_word_new_br5 | release<br>evil<br>split<br>clog<br>lift |  
-| bip_39_word_new_br6 | release<br>evil<br>split<br>clog<br>lift<br>sight |  
-| bip_39_word_new_br7 | release<br>evil<br>split<br>clog<br>lift<br>sight<br>earn |  
-| bip_39_word_new_br8 | release<br>evil<br>split<br>clog<br>lift<br>sight<br>earn<br>main |  
-| bip_39_word_new_br9 | release<br>evil<br>split<br>clog<br>lift<br>sight<br>earn<br>main<br>meat |  
-| bip_39_word_new_line1 | release |  
-| bip_39_word_new_line10 | release
+| bip_39_word_new_br_1 | release |  
+| bip_39_word_new_br_10 | release<br>evil<br>split<br>clog<br>lift<br>sight<br>earn<br>main<br>meat<br>uniform |  
+| bip_39_word_new_br_11 | release<br>evil<br>split<br>clog<br>lift<br>sight<br>earn<br>main<br>meat<br>uniform<br>cricket |  
+| bip_39_word_new_br_12 | release<br>evil<br>split<br>clog<br>lift<br>sight<br>earn<br>main<br>meat<br>uniform<br>cricket<br>adult |  
+| bip_39_word_new_br_2 | release<br>evil |  
+| bip_39_word_new_br_3 | release<br>evil<br>split |  
+| bip_39_word_new_br_4 | release<br>evil<br>split<br>clog |  
+| bip_39_word_new_br_5 | release<br>evil<br>split<br>clog<br>lift |  
+| bip_39_word_new_br_6 | release<br>evil<br>split<br>clog<br>lift<br>sight |  
+| bip_39_word_new_br_7 | release<br>evil<br>split<br>clog<br>lift<br>sight<br>earn |  
+| bip_39_word_new_br_8 | release<br>evil<br>split<br>clog<br>lift<br>sight<br>earn<br>main |  
+| bip_39_word_new_br_9 | release<br>evil<br>split<br>clog<br>lift<br>sight<br>earn<br>main<br>meat |  
+| bip_39_word_new_line_1 | release |  
+| bip_39_word_new_line_10 | release
 evil
 split
 clog
@@ -55,7 +55,7 @@ earn
 main
 meat
 uniform |  
-| bip_39_word_new_line11 | release
+| bip_39_word_new_line_11 | release
 evil
 split
 clog
@@ -66,7 +66,7 @@ main
 meat
 uniform
 cricket |  
-| bip_39_word_new_line12 | release
+| bip_39_word_new_line_12 | release
 evil
 split
 clog
@@ -78,34 +78,34 @@ meat
 uniform
 cricket
 adult |  
-| bip_39_word_new_line2 | release
+| bip_39_word_new_line_2 | release
 evil |  
-| bip_39_word_new_line3 | release
+| bip_39_word_new_line_3 | release
 evil
 split |  
-| bip_39_word_new_line4 | release
+| bip_39_word_new_line_4 | release
 evil
 split
 clog |  
-| bip_39_word_new_line5 | release
+| bip_39_word_new_line_5 | release
 evil
 split
 clog
 lift |  
-| bip_39_word_new_line6 | release
+| bip_39_word_new_line_6 | release
 evil
 split
 clog
 lift
 sight |  
-| bip_39_word_new_line7 | release
+| bip_39_word_new_line_7 | release
 evil
 split
 clog
 lift
 sight
 earn |  
-| bip_39_word_new_line8 | release
+| bip_39_word_new_line_8 | release
 evil
 split
 clog
@@ -113,7 +113,7 @@ lift
 sight
 earn
 main |  
-| bip_39_word_new_line9 | release
+| bip_39_word_new_line_9 | release
 evil
 split
 clog

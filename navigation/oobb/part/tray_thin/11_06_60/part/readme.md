@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cable |  
-| bip_39_word_new_br10 | cable<br>lawn<br>any<br>offer<br>pledge<br>memory<br>profit<br>example<br>essay<br>vital |  
-| bip_39_word_new_br11 | cable<br>lawn<br>any<br>offer<br>pledge<br>memory<br>profit<br>example<br>essay<br>vital<br>tray |  
-| bip_39_word_new_br12 | cable<br>lawn<br>any<br>offer<br>pledge<br>memory<br>profit<br>example<br>essay<br>vital<br>tray<br>attract |  
-| bip_39_word_new_br2 | cable<br>lawn |  
-| bip_39_word_new_br3 | cable<br>lawn<br>any |  
-| bip_39_word_new_br4 | cable<br>lawn<br>any<br>offer |  
-| bip_39_word_new_br5 | cable<br>lawn<br>any<br>offer<br>pledge |  
-| bip_39_word_new_br6 | cable<br>lawn<br>any<br>offer<br>pledge<br>memory |  
-| bip_39_word_new_br7 | cable<br>lawn<br>any<br>offer<br>pledge<br>memory<br>profit |  
-| bip_39_word_new_br8 | cable<br>lawn<br>any<br>offer<br>pledge<br>memory<br>profit<br>example |  
-| bip_39_word_new_br9 | cable<br>lawn<br>any<br>offer<br>pledge<br>memory<br>profit<br>example<br>essay |  
-| bip_39_word_new_line1 | cable |  
-| bip_39_word_new_line10 | cable
+| bip_39_word_new_br_1 | cable |  
+| bip_39_word_new_br_10 | cable<br>lawn<br>any<br>offer<br>pledge<br>memory<br>profit<br>example<br>essay<br>vital |  
+| bip_39_word_new_br_11 | cable<br>lawn<br>any<br>offer<br>pledge<br>memory<br>profit<br>example<br>essay<br>vital<br>tray |  
+| bip_39_word_new_br_12 | cable<br>lawn<br>any<br>offer<br>pledge<br>memory<br>profit<br>example<br>essay<br>vital<br>tray<br>attract |  
+| bip_39_word_new_br_2 | cable<br>lawn |  
+| bip_39_word_new_br_3 | cable<br>lawn<br>any |  
+| bip_39_word_new_br_4 | cable<br>lawn<br>any<br>offer |  
+| bip_39_word_new_br_5 | cable<br>lawn<br>any<br>offer<br>pledge |  
+| bip_39_word_new_br_6 | cable<br>lawn<br>any<br>offer<br>pledge<br>memory |  
+| bip_39_word_new_br_7 | cable<br>lawn<br>any<br>offer<br>pledge<br>memory<br>profit |  
+| bip_39_word_new_br_8 | cable<br>lawn<br>any<br>offer<br>pledge<br>memory<br>profit<br>example |  
+| bip_39_word_new_br_9 | cable<br>lawn<br>any<br>offer<br>pledge<br>memory<br>profit<br>example<br>essay |  
+| bip_39_word_new_line_1 | cable |  
+| bip_39_word_new_line_10 | cable
 lawn
 any
 offer
@@ -55,7 +55,7 @@ profit
 example
 essay
 vital |  
-| bip_39_word_new_line11 | cable
+| bip_39_word_new_line_11 | cable
 lawn
 any
 offer
@@ -66,7 +66,7 @@ example
 essay
 vital
 tray |  
-| bip_39_word_new_line12 | cable
+| bip_39_word_new_line_12 | cable
 lawn
 any
 offer
@@ -78,34 +78,34 @@ essay
 vital
 tray
 attract |  
-| bip_39_word_new_line2 | cable
+| bip_39_word_new_line_2 | cable
 lawn |  
-| bip_39_word_new_line3 | cable
+| bip_39_word_new_line_3 | cable
 lawn
 any |  
-| bip_39_word_new_line4 | cable
+| bip_39_word_new_line_4 | cable
 lawn
 any
 offer |  
-| bip_39_word_new_line5 | cable
+| bip_39_word_new_line_5 | cable
 lawn
 any
 offer
 pledge |  
-| bip_39_word_new_line6 | cable
+| bip_39_word_new_line_6 | cable
 lawn
 any
 offer
 pledge
 memory |  
-| bip_39_word_new_line7 | cable
+| bip_39_word_new_line_7 | cable
 lawn
 any
 offer
 pledge
 memory
 profit |  
-| bip_39_word_new_line8 | cable
+| bip_39_word_new_line_8 | cable
 lawn
 any
 offer
@@ -113,7 +113,7 @@ pledge
 memory
 profit
 example |  
-| bip_39_word_new_line9 | cable
+| bip_39_word_new_line_9 | cable
 lawn
 any
 offer

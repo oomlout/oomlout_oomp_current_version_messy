@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | split |  
-| bip_39_word_new_br10 | split<br>easy<br>laugh<br>nurse<br>bargain<br>future<br>sugar<br>injury<br>there<br>february |  
-| bip_39_word_new_br11 | split<br>easy<br>laugh<br>nurse<br>bargain<br>future<br>sugar<br>injury<br>there<br>february<br>priority |  
-| bip_39_word_new_br12 | split<br>easy<br>laugh<br>nurse<br>bargain<br>future<br>sugar<br>injury<br>there<br>february<br>priority<br>ask |  
-| bip_39_word_new_br2 | split<br>easy |  
-| bip_39_word_new_br3 | split<br>easy<br>laugh |  
-| bip_39_word_new_br4 | split<br>easy<br>laugh<br>nurse |  
-| bip_39_word_new_br5 | split<br>easy<br>laugh<br>nurse<br>bargain |  
-| bip_39_word_new_br6 | split<br>easy<br>laugh<br>nurse<br>bargain<br>future |  
-| bip_39_word_new_br7 | split<br>easy<br>laugh<br>nurse<br>bargain<br>future<br>sugar |  
-| bip_39_word_new_br8 | split<br>easy<br>laugh<br>nurse<br>bargain<br>future<br>sugar<br>injury |  
-| bip_39_word_new_br9 | split<br>easy<br>laugh<br>nurse<br>bargain<br>future<br>sugar<br>injury<br>there |  
-| bip_39_word_new_line1 | split |  
-| bip_39_word_new_line10 | split
+| bip_39_word_new_br_1 | split |  
+| bip_39_word_new_br_10 | split<br>easy<br>laugh<br>nurse<br>bargain<br>future<br>sugar<br>injury<br>there<br>february |  
+| bip_39_word_new_br_11 | split<br>easy<br>laugh<br>nurse<br>bargain<br>future<br>sugar<br>injury<br>there<br>february<br>priority |  
+| bip_39_word_new_br_12 | split<br>easy<br>laugh<br>nurse<br>bargain<br>future<br>sugar<br>injury<br>there<br>february<br>priority<br>ask |  
+| bip_39_word_new_br_2 | split<br>easy |  
+| bip_39_word_new_br_3 | split<br>easy<br>laugh |  
+| bip_39_word_new_br_4 | split<br>easy<br>laugh<br>nurse |  
+| bip_39_word_new_br_5 | split<br>easy<br>laugh<br>nurse<br>bargain |  
+| bip_39_word_new_br_6 | split<br>easy<br>laugh<br>nurse<br>bargain<br>future |  
+| bip_39_word_new_br_7 | split<br>easy<br>laugh<br>nurse<br>bargain<br>future<br>sugar |  
+| bip_39_word_new_br_8 | split<br>easy<br>laugh<br>nurse<br>bargain<br>future<br>sugar<br>injury |  
+| bip_39_word_new_br_9 | split<br>easy<br>laugh<br>nurse<br>bargain<br>future<br>sugar<br>injury<br>there |  
+| bip_39_word_new_line_1 | split |  
+| bip_39_word_new_line_10 | split
 easy
 laugh
 nurse
@@ -55,7 +55,7 @@ sugar
 injury
 there
 february |  
-| bip_39_word_new_line11 | split
+| bip_39_word_new_line_11 | split
 easy
 laugh
 nurse
@@ -66,7 +66,7 @@ injury
 there
 february
 priority |  
-| bip_39_word_new_line12 | split
+| bip_39_word_new_line_12 | split
 easy
 laugh
 nurse
@@ -78,34 +78,34 @@ there
 february
 priority
 ask |  
-| bip_39_word_new_line2 | split
+| bip_39_word_new_line_2 | split
 easy |  
-| bip_39_word_new_line3 | split
+| bip_39_word_new_line_3 | split
 easy
 laugh |  
-| bip_39_word_new_line4 | split
+| bip_39_word_new_line_4 | split
 easy
 laugh
 nurse |  
-| bip_39_word_new_line5 | split
+| bip_39_word_new_line_5 | split
 easy
 laugh
 nurse
 bargain |  
-| bip_39_word_new_line6 | split
+| bip_39_word_new_line_6 | split
 easy
 laugh
 nurse
 bargain
 future |  
-| bip_39_word_new_line7 | split
+| bip_39_word_new_line_7 | split
 easy
 laugh
 nurse
 bargain
 future
 sugar |  
-| bip_39_word_new_line8 | split
+| bip_39_word_new_line_8 | split
 easy
 laugh
 nurse
@@ -113,7 +113,7 @@ bargain
 future
 sugar
 injury |  
-| bip_39_word_new_line9 | split
+| bip_39_word_new_line_9 | split
 easy
 laugh
 nurse

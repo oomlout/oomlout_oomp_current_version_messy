@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sentence |  
-| bip_39_word_new_br10 | sentence<br>bamboo<br>staff<br>zero<br>length<br>economy<br>snake<br>neither<br>pause<br>table |  
-| bip_39_word_new_br11 | sentence<br>bamboo<br>staff<br>zero<br>length<br>economy<br>snake<br>neither<br>pause<br>table<br>result |  
-| bip_39_word_new_br12 | sentence<br>bamboo<br>staff<br>zero<br>length<br>economy<br>snake<br>neither<br>pause<br>table<br>result<br>analyst |  
-| bip_39_word_new_br2 | sentence<br>bamboo |  
-| bip_39_word_new_br3 | sentence<br>bamboo<br>staff |  
-| bip_39_word_new_br4 | sentence<br>bamboo<br>staff<br>zero |  
-| bip_39_word_new_br5 | sentence<br>bamboo<br>staff<br>zero<br>length |  
-| bip_39_word_new_br6 | sentence<br>bamboo<br>staff<br>zero<br>length<br>economy |  
-| bip_39_word_new_br7 | sentence<br>bamboo<br>staff<br>zero<br>length<br>economy<br>snake |  
-| bip_39_word_new_br8 | sentence<br>bamboo<br>staff<br>zero<br>length<br>economy<br>snake<br>neither |  
-| bip_39_word_new_br9 | sentence<br>bamboo<br>staff<br>zero<br>length<br>economy<br>snake<br>neither<br>pause |  
-| bip_39_word_new_line1 | sentence |  
-| bip_39_word_new_line10 | sentence
+| bip_39_word_new_br_1 | sentence |  
+| bip_39_word_new_br_10 | sentence<br>bamboo<br>staff<br>zero<br>length<br>economy<br>snake<br>neither<br>pause<br>table |  
+| bip_39_word_new_br_11 | sentence<br>bamboo<br>staff<br>zero<br>length<br>economy<br>snake<br>neither<br>pause<br>table<br>result |  
+| bip_39_word_new_br_12 | sentence<br>bamboo<br>staff<br>zero<br>length<br>economy<br>snake<br>neither<br>pause<br>table<br>result<br>analyst |  
+| bip_39_word_new_br_2 | sentence<br>bamboo |  
+| bip_39_word_new_br_3 | sentence<br>bamboo<br>staff |  
+| bip_39_word_new_br_4 | sentence<br>bamboo<br>staff<br>zero |  
+| bip_39_word_new_br_5 | sentence<br>bamboo<br>staff<br>zero<br>length |  
+| bip_39_word_new_br_6 | sentence<br>bamboo<br>staff<br>zero<br>length<br>economy |  
+| bip_39_word_new_br_7 | sentence<br>bamboo<br>staff<br>zero<br>length<br>economy<br>snake |  
+| bip_39_word_new_br_8 | sentence<br>bamboo<br>staff<br>zero<br>length<br>economy<br>snake<br>neither |  
+| bip_39_word_new_br_9 | sentence<br>bamboo<br>staff<br>zero<br>length<br>economy<br>snake<br>neither<br>pause |  
+| bip_39_word_new_line_1 | sentence |  
+| bip_39_word_new_line_10 | sentence
 bamboo
 staff
 zero
@@ -55,7 +55,7 @@ snake
 neither
 pause
 table |  
-| bip_39_word_new_line11 | sentence
+| bip_39_word_new_line_11 | sentence
 bamboo
 staff
 zero
@@ -66,7 +66,7 @@ neither
 pause
 table
 result |  
-| bip_39_word_new_line12 | sentence
+| bip_39_word_new_line_12 | sentence
 bamboo
 staff
 zero
@@ -78,34 +78,34 @@ pause
 table
 result
 analyst |  
-| bip_39_word_new_line2 | sentence
+| bip_39_word_new_line_2 | sentence
 bamboo |  
-| bip_39_word_new_line3 | sentence
+| bip_39_word_new_line_3 | sentence
 bamboo
 staff |  
-| bip_39_word_new_line4 | sentence
+| bip_39_word_new_line_4 | sentence
 bamboo
 staff
 zero |  
-| bip_39_word_new_line5 | sentence
+| bip_39_word_new_line_5 | sentence
 bamboo
 staff
 zero
 length |  
-| bip_39_word_new_line6 | sentence
+| bip_39_word_new_line_6 | sentence
 bamboo
 staff
 zero
 length
 economy |  
-| bip_39_word_new_line7 | sentence
+| bip_39_word_new_line_7 | sentence
 bamboo
 staff
 zero
 length
 economy
 snake |  
-| bip_39_word_new_line8 | sentence
+| bip_39_word_new_line_8 | sentence
 bamboo
 staff
 zero
@@ -113,7 +113,7 @@ length
 economy
 snake
 neither |  
-| bip_39_word_new_line9 | sentence
+| bip_39_word_new_line_9 | sentence
 bamboo
 staff
 zero

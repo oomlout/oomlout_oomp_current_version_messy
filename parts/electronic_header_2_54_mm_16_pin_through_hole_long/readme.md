@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ranch |  
-| bip_39_word_new_br10 | ranch<br>elbow<br>require<br>six<br>stairs<br>atom<br>disease<br>spawn<br>animal<br>reject |  
-| bip_39_word_new_br11 | ranch<br>elbow<br>require<br>six<br>stairs<br>atom<br>disease<br>spawn<br>animal<br>reject<br>upper |  
-| bip_39_word_new_br12 | ranch<br>elbow<br>require<br>six<br>stairs<br>atom<br>disease<br>spawn<br>animal<br>reject<br>upper<br>artwork |  
-| bip_39_word_new_br2 | ranch<br>elbow |  
-| bip_39_word_new_br3 | ranch<br>elbow<br>require |  
-| bip_39_word_new_br4 | ranch<br>elbow<br>require<br>six |  
-| bip_39_word_new_br5 | ranch<br>elbow<br>require<br>six<br>stairs |  
-| bip_39_word_new_br6 | ranch<br>elbow<br>require<br>six<br>stairs<br>atom |  
-| bip_39_word_new_br7 | ranch<br>elbow<br>require<br>six<br>stairs<br>atom<br>disease |  
-| bip_39_word_new_br8 | ranch<br>elbow<br>require<br>six<br>stairs<br>atom<br>disease<br>spawn |  
-| bip_39_word_new_br9 | ranch<br>elbow<br>require<br>six<br>stairs<br>atom<br>disease<br>spawn<br>animal |  
-| bip_39_word_new_line1 | ranch |  
-| bip_39_word_new_line10 | ranch
+| bip_39_word_new_br_1 | ranch |  
+| bip_39_word_new_br_10 | ranch<br>elbow<br>require<br>six<br>stairs<br>atom<br>disease<br>spawn<br>animal<br>reject |  
+| bip_39_word_new_br_11 | ranch<br>elbow<br>require<br>six<br>stairs<br>atom<br>disease<br>spawn<br>animal<br>reject<br>upper |  
+| bip_39_word_new_br_12 | ranch<br>elbow<br>require<br>six<br>stairs<br>atom<br>disease<br>spawn<br>animal<br>reject<br>upper<br>artwork |  
+| bip_39_word_new_br_2 | ranch<br>elbow |  
+| bip_39_word_new_br_3 | ranch<br>elbow<br>require |  
+| bip_39_word_new_br_4 | ranch<br>elbow<br>require<br>six |  
+| bip_39_word_new_br_5 | ranch<br>elbow<br>require<br>six<br>stairs |  
+| bip_39_word_new_br_6 | ranch<br>elbow<br>require<br>six<br>stairs<br>atom |  
+| bip_39_word_new_br_7 | ranch<br>elbow<br>require<br>six<br>stairs<br>atom<br>disease |  
+| bip_39_word_new_br_8 | ranch<br>elbow<br>require<br>six<br>stairs<br>atom<br>disease<br>spawn |  
+| bip_39_word_new_br_9 | ranch<br>elbow<br>require<br>six<br>stairs<br>atom<br>disease<br>spawn<br>animal |  
+| bip_39_word_new_line_1 | ranch |  
+| bip_39_word_new_line_10 | ranch
 elbow
 require
 six
@@ -55,7 +55,7 @@ disease
 spawn
 animal
 reject |  
-| bip_39_word_new_line11 | ranch
+| bip_39_word_new_line_11 | ranch
 elbow
 require
 six
@@ -66,7 +66,7 @@ spawn
 animal
 reject
 upper |  
-| bip_39_word_new_line12 | ranch
+| bip_39_word_new_line_12 | ranch
 elbow
 require
 six
@@ -78,34 +78,34 @@ animal
 reject
 upper
 artwork |  
-| bip_39_word_new_line2 | ranch
+| bip_39_word_new_line_2 | ranch
 elbow |  
-| bip_39_word_new_line3 | ranch
+| bip_39_word_new_line_3 | ranch
 elbow
 require |  
-| bip_39_word_new_line4 | ranch
+| bip_39_word_new_line_4 | ranch
 elbow
 require
 six |  
-| bip_39_word_new_line5 | ranch
+| bip_39_word_new_line_5 | ranch
 elbow
 require
 six
 stairs |  
-| bip_39_word_new_line6 | ranch
+| bip_39_word_new_line_6 | ranch
 elbow
 require
 six
 stairs
 atom |  
-| bip_39_word_new_line7 | ranch
+| bip_39_word_new_line_7 | ranch
 elbow
 require
 six
 stairs
 atom
 disease |  
-| bip_39_word_new_line8 | ranch
+| bip_39_word_new_line_8 | ranch
 elbow
 require
 six
@@ -113,7 +113,7 @@ stairs
 atom
 disease
 spawn |  
-| bip_39_word_new_line9 | ranch
+| bip_39_word_new_line_9 | ranch
 elbow
 require
 six

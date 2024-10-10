@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | stamp |  
-| bip_39_word_new_br10 | stamp<br>marble<br>energy<br>village<br>agent<br>tilt<br>same<br>grab<br>mutual<br>tag |  
-| bip_39_word_new_br11 | stamp<br>marble<br>energy<br>village<br>agent<br>tilt<br>same<br>grab<br>mutual<br>tag<br>daughter |  
-| bip_39_word_new_br12 | stamp<br>marble<br>energy<br>village<br>agent<br>tilt<br>same<br>grab<br>mutual<br>tag<br>daughter<br>armed |  
-| bip_39_word_new_br2 | stamp<br>marble |  
-| bip_39_word_new_br3 | stamp<br>marble<br>energy |  
-| bip_39_word_new_br4 | stamp<br>marble<br>energy<br>village |  
-| bip_39_word_new_br5 | stamp<br>marble<br>energy<br>village<br>agent |  
-| bip_39_word_new_br6 | stamp<br>marble<br>energy<br>village<br>agent<br>tilt |  
-| bip_39_word_new_br7 | stamp<br>marble<br>energy<br>village<br>agent<br>tilt<br>same |  
-| bip_39_word_new_br8 | stamp<br>marble<br>energy<br>village<br>agent<br>tilt<br>same<br>grab |  
-| bip_39_word_new_br9 | stamp<br>marble<br>energy<br>village<br>agent<br>tilt<br>same<br>grab<br>mutual |  
-| bip_39_word_new_line1 | stamp |  
-| bip_39_word_new_line10 | stamp
+| bip_39_word_new_br_1 | stamp |  
+| bip_39_word_new_br_10 | stamp<br>marble<br>energy<br>village<br>agent<br>tilt<br>same<br>grab<br>mutual<br>tag |  
+| bip_39_word_new_br_11 | stamp<br>marble<br>energy<br>village<br>agent<br>tilt<br>same<br>grab<br>mutual<br>tag<br>daughter |  
+| bip_39_word_new_br_12 | stamp<br>marble<br>energy<br>village<br>agent<br>tilt<br>same<br>grab<br>mutual<br>tag<br>daughter<br>armed |  
+| bip_39_word_new_br_2 | stamp<br>marble |  
+| bip_39_word_new_br_3 | stamp<br>marble<br>energy |  
+| bip_39_word_new_br_4 | stamp<br>marble<br>energy<br>village |  
+| bip_39_word_new_br_5 | stamp<br>marble<br>energy<br>village<br>agent |  
+| bip_39_word_new_br_6 | stamp<br>marble<br>energy<br>village<br>agent<br>tilt |  
+| bip_39_word_new_br_7 | stamp<br>marble<br>energy<br>village<br>agent<br>tilt<br>same |  
+| bip_39_word_new_br_8 | stamp<br>marble<br>energy<br>village<br>agent<br>tilt<br>same<br>grab |  
+| bip_39_word_new_br_9 | stamp<br>marble<br>energy<br>village<br>agent<br>tilt<br>same<br>grab<br>mutual |  
+| bip_39_word_new_line_1 | stamp |  
+| bip_39_word_new_line_10 | stamp
 marble
 energy
 village
@@ -55,7 +55,7 @@ same
 grab
 mutual
 tag |  
-| bip_39_word_new_line11 | stamp
+| bip_39_word_new_line_11 | stamp
 marble
 energy
 village
@@ -66,7 +66,7 @@ grab
 mutual
 tag
 daughter |  
-| bip_39_word_new_line12 | stamp
+| bip_39_word_new_line_12 | stamp
 marble
 energy
 village
@@ -78,34 +78,34 @@ mutual
 tag
 daughter
 armed |  
-| bip_39_word_new_line2 | stamp
+| bip_39_word_new_line_2 | stamp
 marble |  
-| bip_39_word_new_line3 | stamp
+| bip_39_word_new_line_3 | stamp
 marble
 energy |  
-| bip_39_word_new_line4 | stamp
+| bip_39_word_new_line_4 | stamp
 marble
 energy
 village |  
-| bip_39_word_new_line5 | stamp
+| bip_39_word_new_line_5 | stamp
 marble
 energy
 village
 agent |  
-| bip_39_word_new_line6 | stamp
+| bip_39_word_new_line_6 | stamp
 marble
 energy
 village
 agent
 tilt |  
-| bip_39_word_new_line7 | stamp
+| bip_39_word_new_line_7 | stamp
 marble
 energy
 village
 agent
 tilt
 same |  
-| bip_39_word_new_line8 | stamp
+| bip_39_word_new_line_8 | stamp
 marble
 energy
 village
@@ -113,7 +113,7 @@ agent
 tilt
 same
 grab |  
-| bip_39_word_new_line9 | stamp
+| bip_39_word_new_line_9 | stamp
 marble
 energy
 village

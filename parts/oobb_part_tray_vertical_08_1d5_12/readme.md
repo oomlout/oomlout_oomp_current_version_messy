@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ability |  
-| bip_39_word_new_br10 | ability<br>grocery<br>license<br>few<br>patrol<br>vessel<br>grace<br>dentist<br>pass<br>pride |  
-| bip_39_word_new_br11 | ability<br>grocery<br>license<br>few<br>patrol<br>vessel<br>grace<br>dentist<br>pass<br>pride<br>scrub |  
-| bip_39_word_new_br12 | ability<br>grocery<br>license<br>few<br>patrol<br>vessel<br>grace<br>dentist<br>pass<br>pride<br>scrub<br>achieve |  
-| bip_39_word_new_br2 | ability<br>grocery |  
-| bip_39_word_new_br3 | ability<br>grocery<br>license |  
-| bip_39_word_new_br4 | ability<br>grocery<br>license<br>few |  
-| bip_39_word_new_br5 | ability<br>grocery<br>license<br>few<br>patrol |  
-| bip_39_word_new_br6 | ability<br>grocery<br>license<br>few<br>patrol<br>vessel |  
-| bip_39_word_new_br7 | ability<br>grocery<br>license<br>few<br>patrol<br>vessel<br>grace |  
-| bip_39_word_new_br8 | ability<br>grocery<br>license<br>few<br>patrol<br>vessel<br>grace<br>dentist |  
-| bip_39_word_new_br9 | ability<br>grocery<br>license<br>few<br>patrol<br>vessel<br>grace<br>dentist<br>pass |  
-| bip_39_word_new_line1 | ability |  
-| bip_39_word_new_line10 | ability
+| bip_39_word_new_br_1 | ability |  
+| bip_39_word_new_br_10 | ability<br>grocery<br>license<br>few<br>patrol<br>vessel<br>grace<br>dentist<br>pass<br>pride |  
+| bip_39_word_new_br_11 | ability<br>grocery<br>license<br>few<br>patrol<br>vessel<br>grace<br>dentist<br>pass<br>pride<br>scrub |  
+| bip_39_word_new_br_12 | ability<br>grocery<br>license<br>few<br>patrol<br>vessel<br>grace<br>dentist<br>pass<br>pride<br>scrub<br>achieve |  
+| bip_39_word_new_br_2 | ability<br>grocery |  
+| bip_39_word_new_br_3 | ability<br>grocery<br>license |  
+| bip_39_word_new_br_4 | ability<br>grocery<br>license<br>few |  
+| bip_39_word_new_br_5 | ability<br>grocery<br>license<br>few<br>patrol |  
+| bip_39_word_new_br_6 | ability<br>grocery<br>license<br>few<br>patrol<br>vessel |  
+| bip_39_word_new_br_7 | ability<br>grocery<br>license<br>few<br>patrol<br>vessel<br>grace |  
+| bip_39_word_new_br_8 | ability<br>grocery<br>license<br>few<br>patrol<br>vessel<br>grace<br>dentist |  
+| bip_39_word_new_br_9 | ability<br>grocery<br>license<br>few<br>patrol<br>vessel<br>grace<br>dentist<br>pass |  
+| bip_39_word_new_line_1 | ability |  
+| bip_39_word_new_line_10 | ability
 grocery
 license
 few
@@ -55,7 +55,7 @@ grace
 dentist
 pass
 pride |  
-| bip_39_word_new_line11 | ability
+| bip_39_word_new_line_11 | ability
 grocery
 license
 few
@@ -66,7 +66,7 @@ dentist
 pass
 pride
 scrub |  
-| bip_39_word_new_line12 | ability
+| bip_39_word_new_line_12 | ability
 grocery
 license
 few
@@ -78,34 +78,34 @@ pass
 pride
 scrub
 achieve |  
-| bip_39_word_new_line2 | ability
+| bip_39_word_new_line_2 | ability
 grocery |  
-| bip_39_word_new_line3 | ability
+| bip_39_word_new_line_3 | ability
 grocery
 license |  
-| bip_39_word_new_line4 | ability
+| bip_39_word_new_line_4 | ability
 grocery
 license
 few |  
-| bip_39_word_new_line5 | ability
+| bip_39_word_new_line_5 | ability
 grocery
 license
 few
 patrol |  
-| bip_39_word_new_line6 | ability
+| bip_39_word_new_line_6 | ability
 grocery
 license
 few
 patrol
 vessel |  
-| bip_39_word_new_line7 | ability
+| bip_39_word_new_line_7 | ability
 grocery
 license
 few
 patrol
 vessel
 grace |  
-| bip_39_word_new_line8 | ability
+| bip_39_word_new_line_8 | ability
 grocery
 license
 few
@@ -113,7 +113,7 @@ patrol
 vessel
 grace
 dentist |  
-| bip_39_word_new_line9 | ability
+| bip_39_word_new_line_9 | ability
 grocery
 license
 few

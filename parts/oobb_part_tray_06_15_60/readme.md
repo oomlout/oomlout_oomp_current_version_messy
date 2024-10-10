@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gospel |  
-| bip_39_word_new_br10 | gospel<br>develop<br>genre<br>reflect<br>awkward<br>shiver<br>same<br>parade<br>vocal<br>social |  
-| bip_39_word_new_br11 | gospel<br>develop<br>genre<br>reflect<br>awkward<br>shiver<br>same<br>parade<br>vocal<br>social<br>emerge |  
-| bip_39_word_new_br12 | gospel<br>develop<br>genre<br>reflect<br>awkward<br>shiver<br>same<br>parade<br>vocal<br>social<br>emerge<br>armor |  
-| bip_39_word_new_br2 | gospel<br>develop |  
-| bip_39_word_new_br3 | gospel<br>develop<br>genre |  
-| bip_39_word_new_br4 | gospel<br>develop<br>genre<br>reflect |  
-| bip_39_word_new_br5 | gospel<br>develop<br>genre<br>reflect<br>awkward |  
-| bip_39_word_new_br6 | gospel<br>develop<br>genre<br>reflect<br>awkward<br>shiver |  
-| bip_39_word_new_br7 | gospel<br>develop<br>genre<br>reflect<br>awkward<br>shiver<br>same |  
-| bip_39_word_new_br8 | gospel<br>develop<br>genre<br>reflect<br>awkward<br>shiver<br>same<br>parade |  
-| bip_39_word_new_br9 | gospel<br>develop<br>genre<br>reflect<br>awkward<br>shiver<br>same<br>parade<br>vocal |  
-| bip_39_word_new_line1 | gospel |  
-| bip_39_word_new_line10 | gospel
+| bip_39_word_new_br_1 | gospel |  
+| bip_39_word_new_br_10 | gospel<br>develop<br>genre<br>reflect<br>awkward<br>shiver<br>same<br>parade<br>vocal<br>social |  
+| bip_39_word_new_br_11 | gospel<br>develop<br>genre<br>reflect<br>awkward<br>shiver<br>same<br>parade<br>vocal<br>social<br>emerge |  
+| bip_39_word_new_br_12 | gospel<br>develop<br>genre<br>reflect<br>awkward<br>shiver<br>same<br>parade<br>vocal<br>social<br>emerge<br>armor |  
+| bip_39_word_new_br_2 | gospel<br>develop |  
+| bip_39_word_new_br_3 | gospel<br>develop<br>genre |  
+| bip_39_word_new_br_4 | gospel<br>develop<br>genre<br>reflect |  
+| bip_39_word_new_br_5 | gospel<br>develop<br>genre<br>reflect<br>awkward |  
+| bip_39_word_new_br_6 | gospel<br>develop<br>genre<br>reflect<br>awkward<br>shiver |  
+| bip_39_word_new_br_7 | gospel<br>develop<br>genre<br>reflect<br>awkward<br>shiver<br>same |  
+| bip_39_word_new_br_8 | gospel<br>develop<br>genre<br>reflect<br>awkward<br>shiver<br>same<br>parade |  
+| bip_39_word_new_br_9 | gospel<br>develop<br>genre<br>reflect<br>awkward<br>shiver<br>same<br>parade<br>vocal |  
+| bip_39_word_new_line_1 | gospel |  
+| bip_39_word_new_line_10 | gospel
 develop
 genre
 reflect
@@ -55,7 +55,7 @@ same
 parade
 vocal
 social |  
-| bip_39_word_new_line11 | gospel
+| bip_39_word_new_line_11 | gospel
 develop
 genre
 reflect
@@ -66,7 +66,7 @@ parade
 vocal
 social
 emerge |  
-| bip_39_word_new_line12 | gospel
+| bip_39_word_new_line_12 | gospel
 develop
 genre
 reflect
@@ -78,34 +78,34 @@ vocal
 social
 emerge
 armor |  
-| bip_39_word_new_line2 | gospel
+| bip_39_word_new_line_2 | gospel
 develop |  
-| bip_39_word_new_line3 | gospel
+| bip_39_word_new_line_3 | gospel
 develop
 genre |  
-| bip_39_word_new_line4 | gospel
+| bip_39_word_new_line_4 | gospel
 develop
 genre
 reflect |  
-| bip_39_word_new_line5 | gospel
+| bip_39_word_new_line_5 | gospel
 develop
 genre
 reflect
 awkward |  
-| bip_39_word_new_line6 | gospel
+| bip_39_word_new_line_6 | gospel
 develop
 genre
 reflect
 awkward
 shiver |  
-| bip_39_word_new_line7 | gospel
+| bip_39_word_new_line_7 | gospel
 develop
 genre
 reflect
 awkward
 shiver
 same |  
-| bip_39_word_new_line8 | gospel
+| bip_39_word_new_line_8 | gospel
 develop
 genre
 reflect
@@ -113,7 +113,7 @@ awkward
 shiver
 same
 parade |  
-| bip_39_word_new_line9 | gospel
+| bip_39_word_new_line_9 | gospel
 develop
 genre
 reflect

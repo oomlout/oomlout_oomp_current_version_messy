@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sugar |  
-| bip_39_word_new_br10 | sugar<br>awkward<br>dentist<br>actual<br>brain<br>dolphin<br>entry<br>sample<br>fork<br>burst |  
-| bip_39_word_new_br11 | sugar<br>awkward<br>dentist<br>actual<br>brain<br>dolphin<br>entry<br>sample<br>fork<br>burst<br>remain |  
-| bip_39_word_new_br12 | sugar<br>awkward<br>dentist<br>actual<br>brain<br>dolphin<br>entry<br>sample<br>fork<br>burst<br>remain<br>adult |  
-| bip_39_word_new_br2 | sugar<br>awkward |  
-| bip_39_word_new_br3 | sugar<br>awkward<br>dentist |  
-| bip_39_word_new_br4 | sugar<br>awkward<br>dentist<br>actual |  
-| bip_39_word_new_br5 | sugar<br>awkward<br>dentist<br>actual<br>brain |  
-| bip_39_word_new_br6 | sugar<br>awkward<br>dentist<br>actual<br>brain<br>dolphin |  
-| bip_39_word_new_br7 | sugar<br>awkward<br>dentist<br>actual<br>brain<br>dolphin<br>entry |  
-| bip_39_word_new_br8 | sugar<br>awkward<br>dentist<br>actual<br>brain<br>dolphin<br>entry<br>sample |  
-| bip_39_word_new_br9 | sugar<br>awkward<br>dentist<br>actual<br>brain<br>dolphin<br>entry<br>sample<br>fork |  
-| bip_39_word_new_line1 | sugar |  
-| bip_39_word_new_line10 | sugar
+| bip_39_word_new_br_1 | sugar |  
+| bip_39_word_new_br_10 | sugar<br>awkward<br>dentist<br>actual<br>brain<br>dolphin<br>entry<br>sample<br>fork<br>burst |  
+| bip_39_word_new_br_11 | sugar<br>awkward<br>dentist<br>actual<br>brain<br>dolphin<br>entry<br>sample<br>fork<br>burst<br>remain |  
+| bip_39_word_new_br_12 | sugar<br>awkward<br>dentist<br>actual<br>brain<br>dolphin<br>entry<br>sample<br>fork<br>burst<br>remain<br>adult |  
+| bip_39_word_new_br_2 | sugar<br>awkward |  
+| bip_39_word_new_br_3 | sugar<br>awkward<br>dentist |  
+| bip_39_word_new_br_4 | sugar<br>awkward<br>dentist<br>actual |  
+| bip_39_word_new_br_5 | sugar<br>awkward<br>dentist<br>actual<br>brain |  
+| bip_39_word_new_br_6 | sugar<br>awkward<br>dentist<br>actual<br>brain<br>dolphin |  
+| bip_39_word_new_br_7 | sugar<br>awkward<br>dentist<br>actual<br>brain<br>dolphin<br>entry |  
+| bip_39_word_new_br_8 | sugar<br>awkward<br>dentist<br>actual<br>brain<br>dolphin<br>entry<br>sample |  
+| bip_39_word_new_br_9 | sugar<br>awkward<br>dentist<br>actual<br>brain<br>dolphin<br>entry<br>sample<br>fork |  
+| bip_39_word_new_line_1 | sugar |  
+| bip_39_word_new_line_10 | sugar
 awkward
 dentist
 actual
@@ -55,7 +55,7 @@ entry
 sample
 fork
 burst |  
-| bip_39_word_new_line11 | sugar
+| bip_39_word_new_line_11 | sugar
 awkward
 dentist
 actual
@@ -66,7 +66,7 @@ sample
 fork
 burst
 remain |  
-| bip_39_word_new_line12 | sugar
+| bip_39_word_new_line_12 | sugar
 awkward
 dentist
 actual
@@ -78,34 +78,34 @@ fork
 burst
 remain
 adult |  
-| bip_39_word_new_line2 | sugar
+| bip_39_word_new_line_2 | sugar
 awkward |  
-| bip_39_word_new_line3 | sugar
+| bip_39_word_new_line_3 | sugar
 awkward
 dentist |  
-| bip_39_word_new_line4 | sugar
+| bip_39_word_new_line_4 | sugar
 awkward
 dentist
 actual |  
-| bip_39_word_new_line5 | sugar
+| bip_39_word_new_line_5 | sugar
 awkward
 dentist
 actual
 brain |  
-| bip_39_word_new_line6 | sugar
+| bip_39_word_new_line_6 | sugar
 awkward
 dentist
 actual
 brain
 dolphin |  
-| bip_39_word_new_line7 | sugar
+| bip_39_word_new_line_7 | sugar
 awkward
 dentist
 actual
 brain
 dolphin
 entry |  
-| bip_39_word_new_line8 | sugar
+| bip_39_word_new_line_8 | sugar
 awkward
 dentist
 actual
@@ -113,7 +113,7 @@ brain
 dolphin
 entry
 sample |  
-| bip_39_word_new_line9 | sugar
+| bip_39_word_new_line_9 | sugar
 awkward
 dentist
 actual

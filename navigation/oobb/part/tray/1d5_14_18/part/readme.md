@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | soft |  
-| bip_39_word_new_br10 | soft<br>roast<br>crucial<br>embrace<br>valve<br>category<br>grab<br>cabin<br>shine<br>duty |  
-| bip_39_word_new_br11 | soft<br>roast<br>crucial<br>embrace<br>valve<br>category<br>grab<br>cabin<br>shine<br>duty<br>finger |  
-| bip_39_word_new_br12 | soft<br>roast<br>crucial<br>embrace<br>valve<br>category<br>grab<br>cabin<br>shine<br>duty<br>finger<br>actual |  
-| bip_39_word_new_br2 | soft<br>roast |  
-| bip_39_word_new_br3 | soft<br>roast<br>crucial |  
-| bip_39_word_new_br4 | soft<br>roast<br>crucial<br>embrace |  
-| bip_39_word_new_br5 | soft<br>roast<br>crucial<br>embrace<br>valve |  
-| bip_39_word_new_br6 | soft<br>roast<br>crucial<br>embrace<br>valve<br>category |  
-| bip_39_word_new_br7 | soft<br>roast<br>crucial<br>embrace<br>valve<br>category<br>grab |  
-| bip_39_word_new_br8 | soft<br>roast<br>crucial<br>embrace<br>valve<br>category<br>grab<br>cabin |  
-| bip_39_word_new_br9 | soft<br>roast<br>crucial<br>embrace<br>valve<br>category<br>grab<br>cabin<br>shine |  
-| bip_39_word_new_line1 | soft |  
-| bip_39_word_new_line10 | soft
+| bip_39_word_new_br_1 | soft |  
+| bip_39_word_new_br_10 | soft<br>roast<br>crucial<br>embrace<br>valve<br>category<br>grab<br>cabin<br>shine<br>duty |  
+| bip_39_word_new_br_11 | soft<br>roast<br>crucial<br>embrace<br>valve<br>category<br>grab<br>cabin<br>shine<br>duty<br>finger |  
+| bip_39_word_new_br_12 | soft<br>roast<br>crucial<br>embrace<br>valve<br>category<br>grab<br>cabin<br>shine<br>duty<br>finger<br>actual |  
+| bip_39_word_new_br_2 | soft<br>roast |  
+| bip_39_word_new_br_3 | soft<br>roast<br>crucial |  
+| bip_39_word_new_br_4 | soft<br>roast<br>crucial<br>embrace |  
+| bip_39_word_new_br_5 | soft<br>roast<br>crucial<br>embrace<br>valve |  
+| bip_39_word_new_br_6 | soft<br>roast<br>crucial<br>embrace<br>valve<br>category |  
+| bip_39_word_new_br_7 | soft<br>roast<br>crucial<br>embrace<br>valve<br>category<br>grab |  
+| bip_39_word_new_br_8 | soft<br>roast<br>crucial<br>embrace<br>valve<br>category<br>grab<br>cabin |  
+| bip_39_word_new_br_9 | soft<br>roast<br>crucial<br>embrace<br>valve<br>category<br>grab<br>cabin<br>shine |  
+| bip_39_word_new_line_1 | soft |  
+| bip_39_word_new_line_10 | soft
 roast
 crucial
 embrace
@@ -55,7 +55,7 @@ grab
 cabin
 shine
 duty |  
-| bip_39_word_new_line11 | soft
+| bip_39_word_new_line_11 | soft
 roast
 crucial
 embrace
@@ -66,7 +66,7 @@ cabin
 shine
 duty
 finger |  
-| bip_39_word_new_line12 | soft
+| bip_39_word_new_line_12 | soft
 roast
 crucial
 embrace
@@ -78,34 +78,34 @@ shine
 duty
 finger
 actual |  
-| bip_39_word_new_line2 | soft
+| bip_39_word_new_line_2 | soft
 roast |  
-| bip_39_word_new_line3 | soft
+| bip_39_word_new_line_3 | soft
 roast
 crucial |  
-| bip_39_word_new_line4 | soft
+| bip_39_word_new_line_4 | soft
 roast
 crucial
 embrace |  
-| bip_39_word_new_line5 | soft
+| bip_39_word_new_line_5 | soft
 roast
 crucial
 embrace
 valve |  
-| bip_39_word_new_line6 | soft
+| bip_39_word_new_line_6 | soft
 roast
 crucial
 embrace
 valve
 category |  
-| bip_39_word_new_line7 | soft
+| bip_39_word_new_line_7 | soft
 roast
 crucial
 embrace
 valve
 category
 grab |  
-| bip_39_word_new_line8 | soft
+| bip_39_word_new_line_8 | soft
 roast
 crucial
 embrace
@@ -113,7 +113,7 @@ valve
 category
 grab
 cabin |  
-| bip_39_word_new_line9 | soft
+| bip_39_word_new_line_9 | soft
 roast
 crucial
 embrace

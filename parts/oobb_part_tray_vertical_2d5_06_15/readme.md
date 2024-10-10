@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | live |  
-| bip_39_word_new_br10 | live<br>bonus<br>bring<br>limit<br>bus<br>tank<br>salon<br>grape<br>prevent<br>strike |  
-| bip_39_word_new_br11 | live<br>bonus<br>bring<br>limit<br>bus<br>tank<br>salon<br>grape<br>prevent<br>strike<br>afraid |  
-| bip_39_word_new_br12 | live<br>bonus<br>bring<br>limit<br>bus<br>tank<br>salon<br>grape<br>prevent<br>strike<br>afraid<br>artist |  
-| bip_39_word_new_br2 | live<br>bonus |  
-| bip_39_word_new_br3 | live<br>bonus<br>bring |  
-| bip_39_word_new_br4 | live<br>bonus<br>bring<br>limit |  
-| bip_39_word_new_br5 | live<br>bonus<br>bring<br>limit<br>bus |  
-| bip_39_word_new_br6 | live<br>bonus<br>bring<br>limit<br>bus<br>tank |  
-| bip_39_word_new_br7 | live<br>bonus<br>bring<br>limit<br>bus<br>tank<br>salon |  
-| bip_39_word_new_br8 | live<br>bonus<br>bring<br>limit<br>bus<br>tank<br>salon<br>grape |  
-| bip_39_word_new_br9 | live<br>bonus<br>bring<br>limit<br>bus<br>tank<br>salon<br>grape<br>prevent |  
-| bip_39_word_new_line1 | live |  
-| bip_39_word_new_line10 | live
+| bip_39_word_new_br_1 | live |  
+| bip_39_word_new_br_10 | live<br>bonus<br>bring<br>limit<br>bus<br>tank<br>salon<br>grape<br>prevent<br>strike |  
+| bip_39_word_new_br_11 | live<br>bonus<br>bring<br>limit<br>bus<br>tank<br>salon<br>grape<br>prevent<br>strike<br>afraid |  
+| bip_39_word_new_br_12 | live<br>bonus<br>bring<br>limit<br>bus<br>tank<br>salon<br>grape<br>prevent<br>strike<br>afraid<br>artist |  
+| bip_39_word_new_br_2 | live<br>bonus |  
+| bip_39_word_new_br_3 | live<br>bonus<br>bring |  
+| bip_39_word_new_br_4 | live<br>bonus<br>bring<br>limit |  
+| bip_39_word_new_br_5 | live<br>bonus<br>bring<br>limit<br>bus |  
+| bip_39_word_new_br_6 | live<br>bonus<br>bring<br>limit<br>bus<br>tank |  
+| bip_39_word_new_br_7 | live<br>bonus<br>bring<br>limit<br>bus<br>tank<br>salon |  
+| bip_39_word_new_br_8 | live<br>bonus<br>bring<br>limit<br>bus<br>tank<br>salon<br>grape |  
+| bip_39_word_new_br_9 | live<br>bonus<br>bring<br>limit<br>bus<br>tank<br>salon<br>grape<br>prevent |  
+| bip_39_word_new_line_1 | live |  
+| bip_39_word_new_line_10 | live
 bonus
 bring
 limit
@@ -55,7 +55,7 @@ salon
 grape
 prevent
 strike |  
-| bip_39_word_new_line11 | live
+| bip_39_word_new_line_11 | live
 bonus
 bring
 limit
@@ -66,7 +66,7 @@ grape
 prevent
 strike
 afraid |  
-| bip_39_word_new_line12 | live
+| bip_39_word_new_line_12 | live
 bonus
 bring
 limit
@@ -78,34 +78,34 @@ prevent
 strike
 afraid
 artist |  
-| bip_39_word_new_line2 | live
+| bip_39_word_new_line_2 | live
 bonus |  
-| bip_39_word_new_line3 | live
+| bip_39_word_new_line_3 | live
 bonus
 bring |  
-| bip_39_word_new_line4 | live
+| bip_39_word_new_line_4 | live
 bonus
 bring
 limit |  
-| bip_39_word_new_line5 | live
+| bip_39_word_new_line_5 | live
 bonus
 bring
 limit
 bus |  
-| bip_39_word_new_line6 | live
+| bip_39_word_new_line_6 | live
 bonus
 bring
 limit
 bus
 tank |  
-| bip_39_word_new_line7 | live
+| bip_39_word_new_line_7 | live
 bonus
 bring
 limit
 bus
 tank
 salon |  
-| bip_39_word_new_line8 | live
+| bip_39_word_new_line_8 | live
 bonus
 bring
 limit
@@ -113,7 +113,7 @@ bus
 tank
 salon
 grape |  
-| bip_39_word_new_line9 | live
+| bip_39_word_new_line_9 | live
 bonus
 bring
 limit

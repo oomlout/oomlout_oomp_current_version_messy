@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rule |  
-| bip_39_word_new_br10 | rule<br>uncover<br>phrase<br>smart<br>jacket<br>bachelor<br>evoke<br>vocal<br>clock<br>reopen |  
-| bip_39_word_new_br11 | rule<br>uncover<br>phrase<br>smart<br>jacket<br>bachelor<br>evoke<br>vocal<br>clock<br>reopen<br>reform |  
-| bip_39_word_new_br12 | rule<br>uncover<br>phrase<br>smart<br>jacket<br>bachelor<br>evoke<br>vocal<br>clock<br>reopen<br>reform<br>action |  
-| bip_39_word_new_br2 | rule<br>uncover |  
-| bip_39_word_new_br3 | rule<br>uncover<br>phrase |  
-| bip_39_word_new_br4 | rule<br>uncover<br>phrase<br>smart |  
-| bip_39_word_new_br5 | rule<br>uncover<br>phrase<br>smart<br>jacket |  
-| bip_39_word_new_br6 | rule<br>uncover<br>phrase<br>smart<br>jacket<br>bachelor |  
-| bip_39_word_new_br7 | rule<br>uncover<br>phrase<br>smart<br>jacket<br>bachelor<br>evoke |  
-| bip_39_word_new_br8 | rule<br>uncover<br>phrase<br>smart<br>jacket<br>bachelor<br>evoke<br>vocal |  
-| bip_39_word_new_br9 | rule<br>uncover<br>phrase<br>smart<br>jacket<br>bachelor<br>evoke<br>vocal<br>clock |  
-| bip_39_word_new_line1 | rule |  
-| bip_39_word_new_line10 | rule
+| bip_39_word_new_br_1 | rule |  
+| bip_39_word_new_br_10 | rule<br>uncover<br>phrase<br>smart<br>jacket<br>bachelor<br>evoke<br>vocal<br>clock<br>reopen |  
+| bip_39_word_new_br_11 | rule<br>uncover<br>phrase<br>smart<br>jacket<br>bachelor<br>evoke<br>vocal<br>clock<br>reopen<br>reform |  
+| bip_39_word_new_br_12 | rule<br>uncover<br>phrase<br>smart<br>jacket<br>bachelor<br>evoke<br>vocal<br>clock<br>reopen<br>reform<br>action |  
+| bip_39_word_new_br_2 | rule<br>uncover |  
+| bip_39_word_new_br_3 | rule<br>uncover<br>phrase |  
+| bip_39_word_new_br_4 | rule<br>uncover<br>phrase<br>smart |  
+| bip_39_word_new_br_5 | rule<br>uncover<br>phrase<br>smart<br>jacket |  
+| bip_39_word_new_br_6 | rule<br>uncover<br>phrase<br>smart<br>jacket<br>bachelor |  
+| bip_39_word_new_br_7 | rule<br>uncover<br>phrase<br>smart<br>jacket<br>bachelor<br>evoke |  
+| bip_39_word_new_br_8 | rule<br>uncover<br>phrase<br>smart<br>jacket<br>bachelor<br>evoke<br>vocal |  
+| bip_39_word_new_br_9 | rule<br>uncover<br>phrase<br>smart<br>jacket<br>bachelor<br>evoke<br>vocal<br>clock |  
+| bip_39_word_new_line_1 | rule |  
+| bip_39_word_new_line_10 | rule
 uncover
 phrase
 smart
@@ -55,7 +55,7 @@ evoke
 vocal
 clock
 reopen |  
-| bip_39_word_new_line11 | rule
+| bip_39_word_new_line_11 | rule
 uncover
 phrase
 smart
@@ -66,7 +66,7 @@ vocal
 clock
 reopen
 reform |  
-| bip_39_word_new_line12 | rule
+| bip_39_word_new_line_12 | rule
 uncover
 phrase
 smart
@@ -78,34 +78,34 @@ clock
 reopen
 reform
 action |  
-| bip_39_word_new_line2 | rule
+| bip_39_word_new_line_2 | rule
 uncover |  
-| bip_39_word_new_line3 | rule
+| bip_39_word_new_line_3 | rule
 uncover
 phrase |  
-| bip_39_word_new_line4 | rule
+| bip_39_word_new_line_4 | rule
 uncover
 phrase
 smart |  
-| bip_39_word_new_line5 | rule
+| bip_39_word_new_line_5 | rule
 uncover
 phrase
 smart
 jacket |  
-| bip_39_word_new_line6 | rule
+| bip_39_word_new_line_6 | rule
 uncover
 phrase
 smart
 jacket
 bachelor |  
-| bip_39_word_new_line7 | rule
+| bip_39_word_new_line_7 | rule
 uncover
 phrase
 smart
 jacket
 bachelor
 evoke |  
-| bip_39_word_new_line8 | rule
+| bip_39_word_new_line_8 | rule
 uncover
 phrase
 smart
@@ -113,7 +113,7 @@ jacket
 bachelor
 evoke
 vocal |  
-| bip_39_word_new_line9 | rule
+| bip_39_word_new_line_9 | rule
 uncover
 phrase
 smart

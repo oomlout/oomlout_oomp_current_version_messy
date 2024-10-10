@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | position |  
-| bip_39_word_new_br10 | position<br>soon<br>rude<br>above<br>catalog<br>apology<br>setup<br>sheriff<br>cost<br>river |  
-| bip_39_word_new_br11 | position<br>soon<br>rude<br>above<br>catalog<br>apology<br>setup<br>sheriff<br>cost<br>river<br>valve |  
-| bip_39_word_new_br12 | position<br>soon<br>rude<br>above<br>catalog<br>apology<br>setup<br>sheriff<br>cost<br>river<br>valve<br>absurd |  
-| bip_39_word_new_br2 | position<br>soon |  
-| bip_39_word_new_br3 | position<br>soon<br>rude |  
-| bip_39_word_new_br4 | position<br>soon<br>rude<br>above |  
-| bip_39_word_new_br5 | position<br>soon<br>rude<br>above<br>catalog |  
-| bip_39_word_new_br6 | position<br>soon<br>rude<br>above<br>catalog<br>apology |  
-| bip_39_word_new_br7 | position<br>soon<br>rude<br>above<br>catalog<br>apology<br>setup |  
-| bip_39_word_new_br8 | position<br>soon<br>rude<br>above<br>catalog<br>apology<br>setup<br>sheriff |  
-| bip_39_word_new_br9 | position<br>soon<br>rude<br>above<br>catalog<br>apology<br>setup<br>sheriff<br>cost |  
-| bip_39_word_new_line1 | position |  
-| bip_39_word_new_line10 | position
+| bip_39_word_new_br_1 | position |  
+| bip_39_word_new_br_10 | position<br>soon<br>rude<br>above<br>catalog<br>apology<br>setup<br>sheriff<br>cost<br>river |  
+| bip_39_word_new_br_11 | position<br>soon<br>rude<br>above<br>catalog<br>apology<br>setup<br>sheriff<br>cost<br>river<br>valve |  
+| bip_39_word_new_br_12 | position<br>soon<br>rude<br>above<br>catalog<br>apology<br>setup<br>sheriff<br>cost<br>river<br>valve<br>absurd |  
+| bip_39_word_new_br_2 | position<br>soon |  
+| bip_39_word_new_br_3 | position<br>soon<br>rude |  
+| bip_39_word_new_br_4 | position<br>soon<br>rude<br>above |  
+| bip_39_word_new_br_5 | position<br>soon<br>rude<br>above<br>catalog |  
+| bip_39_word_new_br_6 | position<br>soon<br>rude<br>above<br>catalog<br>apology |  
+| bip_39_word_new_br_7 | position<br>soon<br>rude<br>above<br>catalog<br>apology<br>setup |  
+| bip_39_word_new_br_8 | position<br>soon<br>rude<br>above<br>catalog<br>apology<br>setup<br>sheriff |  
+| bip_39_word_new_br_9 | position<br>soon<br>rude<br>above<br>catalog<br>apology<br>setup<br>sheriff<br>cost |  
+| bip_39_word_new_line_1 | position |  
+| bip_39_word_new_line_10 | position
 soon
 rude
 above
@@ -55,7 +55,7 @@ setup
 sheriff
 cost
 river |  
-| bip_39_word_new_line11 | position
+| bip_39_word_new_line_11 | position
 soon
 rude
 above
@@ -66,7 +66,7 @@ sheriff
 cost
 river
 valve |  
-| bip_39_word_new_line12 | position
+| bip_39_word_new_line_12 | position
 soon
 rude
 above
@@ -78,34 +78,34 @@ cost
 river
 valve
 absurd |  
-| bip_39_word_new_line2 | position
+| bip_39_word_new_line_2 | position
 soon |  
-| bip_39_word_new_line3 | position
+| bip_39_word_new_line_3 | position
 soon
 rude |  
-| bip_39_word_new_line4 | position
+| bip_39_word_new_line_4 | position
 soon
 rude
 above |  
-| bip_39_word_new_line5 | position
+| bip_39_word_new_line_5 | position
 soon
 rude
 above
 catalog |  
-| bip_39_word_new_line6 | position
+| bip_39_word_new_line_6 | position
 soon
 rude
 above
 catalog
 apology |  
-| bip_39_word_new_line7 | position
+| bip_39_word_new_line_7 | position
 soon
 rude
 above
 catalog
 apology
 setup |  
-| bip_39_word_new_line8 | position
+| bip_39_word_new_line_8 | position
 soon
 rude
 above
@@ -113,7 +113,7 @@ catalog
 apology
 setup
 sheriff |  
-| bip_39_word_new_line9 | position
+| bip_39_word_new_line_9 | position
 soon
 rude
 above

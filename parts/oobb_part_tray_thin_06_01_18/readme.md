@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | text |  
-| bip_39_word_new_br10 | text<br>pupil<br>switch<br>exclude<br>slogan<br>ready<br>laptop<br>auction<br>royal<br>crime |  
-| bip_39_word_new_br11 | text<br>pupil<br>switch<br>exclude<br>slogan<br>ready<br>laptop<br>auction<br>royal<br>crime<br>express |  
-| bip_39_word_new_br12 | text<br>pupil<br>switch<br>exclude<br>slogan<br>ready<br>laptop<br>auction<br>royal<br>crime<br>express<br>assume |  
-| bip_39_word_new_br2 | text<br>pupil |  
-| bip_39_word_new_br3 | text<br>pupil<br>switch |  
-| bip_39_word_new_br4 | text<br>pupil<br>switch<br>exclude |  
-| bip_39_word_new_br5 | text<br>pupil<br>switch<br>exclude<br>slogan |  
-| bip_39_word_new_br6 | text<br>pupil<br>switch<br>exclude<br>slogan<br>ready |  
-| bip_39_word_new_br7 | text<br>pupil<br>switch<br>exclude<br>slogan<br>ready<br>laptop |  
-| bip_39_word_new_br8 | text<br>pupil<br>switch<br>exclude<br>slogan<br>ready<br>laptop<br>auction |  
-| bip_39_word_new_br9 | text<br>pupil<br>switch<br>exclude<br>slogan<br>ready<br>laptop<br>auction<br>royal |  
-| bip_39_word_new_line1 | text |  
-| bip_39_word_new_line10 | text
+| bip_39_word_new_br_1 | text |  
+| bip_39_word_new_br_10 | text<br>pupil<br>switch<br>exclude<br>slogan<br>ready<br>laptop<br>auction<br>royal<br>crime |  
+| bip_39_word_new_br_11 | text<br>pupil<br>switch<br>exclude<br>slogan<br>ready<br>laptop<br>auction<br>royal<br>crime<br>express |  
+| bip_39_word_new_br_12 | text<br>pupil<br>switch<br>exclude<br>slogan<br>ready<br>laptop<br>auction<br>royal<br>crime<br>express<br>assume |  
+| bip_39_word_new_br_2 | text<br>pupil |  
+| bip_39_word_new_br_3 | text<br>pupil<br>switch |  
+| bip_39_word_new_br_4 | text<br>pupil<br>switch<br>exclude |  
+| bip_39_word_new_br_5 | text<br>pupil<br>switch<br>exclude<br>slogan |  
+| bip_39_word_new_br_6 | text<br>pupil<br>switch<br>exclude<br>slogan<br>ready |  
+| bip_39_word_new_br_7 | text<br>pupil<br>switch<br>exclude<br>slogan<br>ready<br>laptop |  
+| bip_39_word_new_br_8 | text<br>pupil<br>switch<br>exclude<br>slogan<br>ready<br>laptop<br>auction |  
+| bip_39_word_new_br_9 | text<br>pupil<br>switch<br>exclude<br>slogan<br>ready<br>laptop<br>auction<br>royal |  
+| bip_39_word_new_line_1 | text |  
+| bip_39_word_new_line_10 | text
 pupil
 switch
 exclude
@@ -55,7 +55,7 @@ laptop
 auction
 royal
 crime |  
-| bip_39_word_new_line11 | text
+| bip_39_word_new_line_11 | text
 pupil
 switch
 exclude
@@ -66,7 +66,7 @@ auction
 royal
 crime
 express |  
-| bip_39_word_new_line12 | text
+| bip_39_word_new_line_12 | text
 pupil
 switch
 exclude
@@ -78,34 +78,34 @@ royal
 crime
 express
 assume |  
-| bip_39_word_new_line2 | text
+| bip_39_word_new_line_2 | text
 pupil |  
-| bip_39_word_new_line3 | text
+| bip_39_word_new_line_3 | text
 pupil
 switch |  
-| bip_39_word_new_line4 | text
+| bip_39_word_new_line_4 | text
 pupil
 switch
 exclude |  
-| bip_39_word_new_line5 | text
+| bip_39_word_new_line_5 | text
 pupil
 switch
 exclude
 slogan |  
-| bip_39_word_new_line6 | text
+| bip_39_word_new_line_6 | text
 pupil
 switch
 exclude
 slogan
 ready |  
-| bip_39_word_new_line7 | text
+| bip_39_word_new_line_7 | text
 pupil
 switch
 exclude
 slogan
 ready
 laptop |  
-| bip_39_word_new_line8 | text
+| bip_39_word_new_line_8 | text
 pupil
 switch
 exclude
@@ -113,7 +113,7 @@ slogan
 ready
 laptop
 auction |  
-| bip_39_word_new_line9 | text
+| bip_39_word_new_line_9 | text
 pupil
 switch
 exclude

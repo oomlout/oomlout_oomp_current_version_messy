@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | shoot |  
-| bip_39_word_new_br10 | shoot<br>kiwi<br>blue<br>super<br>lesson<br>cloth<br>benefit<br>balcony<br>arm<br>wife |  
-| bip_39_word_new_br11 | shoot<br>kiwi<br>blue<br>super<br>lesson<br>cloth<br>benefit<br>balcony<br>arm<br>wife<br>bullet |  
-| bip_39_word_new_br12 | shoot<br>kiwi<br>blue<br>super<br>lesson<br>cloth<br>benefit<br>balcony<br>arm<br>wife<br>bullet<br>answer |  
-| bip_39_word_new_br2 | shoot<br>kiwi |  
-| bip_39_word_new_br3 | shoot<br>kiwi<br>blue |  
-| bip_39_word_new_br4 | shoot<br>kiwi<br>blue<br>super |  
-| bip_39_word_new_br5 | shoot<br>kiwi<br>blue<br>super<br>lesson |  
-| bip_39_word_new_br6 | shoot<br>kiwi<br>blue<br>super<br>lesson<br>cloth |  
-| bip_39_word_new_br7 | shoot<br>kiwi<br>blue<br>super<br>lesson<br>cloth<br>benefit |  
-| bip_39_word_new_br8 | shoot<br>kiwi<br>blue<br>super<br>lesson<br>cloth<br>benefit<br>balcony |  
-| bip_39_word_new_br9 | shoot<br>kiwi<br>blue<br>super<br>lesson<br>cloth<br>benefit<br>balcony<br>arm |  
-| bip_39_word_new_line1 | shoot |  
-| bip_39_word_new_line10 | shoot
+| bip_39_word_new_br_1 | shoot |  
+| bip_39_word_new_br_10 | shoot<br>kiwi<br>blue<br>super<br>lesson<br>cloth<br>benefit<br>balcony<br>arm<br>wife |  
+| bip_39_word_new_br_11 | shoot<br>kiwi<br>blue<br>super<br>lesson<br>cloth<br>benefit<br>balcony<br>arm<br>wife<br>bullet |  
+| bip_39_word_new_br_12 | shoot<br>kiwi<br>blue<br>super<br>lesson<br>cloth<br>benefit<br>balcony<br>arm<br>wife<br>bullet<br>answer |  
+| bip_39_word_new_br_2 | shoot<br>kiwi |  
+| bip_39_word_new_br_3 | shoot<br>kiwi<br>blue |  
+| bip_39_word_new_br_4 | shoot<br>kiwi<br>blue<br>super |  
+| bip_39_word_new_br_5 | shoot<br>kiwi<br>blue<br>super<br>lesson |  
+| bip_39_word_new_br_6 | shoot<br>kiwi<br>blue<br>super<br>lesson<br>cloth |  
+| bip_39_word_new_br_7 | shoot<br>kiwi<br>blue<br>super<br>lesson<br>cloth<br>benefit |  
+| bip_39_word_new_br_8 | shoot<br>kiwi<br>blue<br>super<br>lesson<br>cloth<br>benefit<br>balcony |  
+| bip_39_word_new_br_9 | shoot<br>kiwi<br>blue<br>super<br>lesson<br>cloth<br>benefit<br>balcony<br>arm |  
+| bip_39_word_new_line_1 | shoot |  
+| bip_39_word_new_line_10 | shoot
 kiwi
 blue
 super
@@ -55,7 +55,7 @@ benefit
 balcony
 arm
 wife |  
-| bip_39_word_new_line11 | shoot
+| bip_39_word_new_line_11 | shoot
 kiwi
 blue
 super
@@ -66,7 +66,7 @@ balcony
 arm
 wife
 bullet |  
-| bip_39_word_new_line12 | shoot
+| bip_39_word_new_line_12 | shoot
 kiwi
 blue
 super
@@ -78,34 +78,34 @@ arm
 wife
 bullet
 answer |  
-| bip_39_word_new_line2 | shoot
+| bip_39_word_new_line_2 | shoot
 kiwi |  
-| bip_39_word_new_line3 | shoot
+| bip_39_word_new_line_3 | shoot
 kiwi
 blue |  
-| bip_39_word_new_line4 | shoot
+| bip_39_word_new_line_4 | shoot
 kiwi
 blue
 super |  
-| bip_39_word_new_line5 | shoot
+| bip_39_word_new_line_5 | shoot
 kiwi
 blue
 super
 lesson |  
-| bip_39_word_new_line6 | shoot
+| bip_39_word_new_line_6 | shoot
 kiwi
 blue
 super
 lesson
 cloth |  
-| bip_39_word_new_line7 | shoot
+| bip_39_word_new_line_7 | shoot
 kiwi
 blue
 super
 lesson
 cloth
 benefit |  
-| bip_39_word_new_line8 | shoot
+| bip_39_word_new_line_8 | shoot
 kiwi
 blue
 super
@@ -113,7 +113,7 @@ lesson
 cloth
 benefit
 balcony |  
-| bip_39_word_new_line9 | shoot
+| bip_39_word_new_line_9 | shoot
 kiwi
 blue
 super

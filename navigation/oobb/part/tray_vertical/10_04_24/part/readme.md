@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | artefact |  
-| bip_39_word_new_br10 | artefact<br>female<br>voyage<br>easy<br>umbrella<br>zone<br>antenna<br>damp<br>diamond<br>siege |  
-| bip_39_word_new_br11 | artefact<br>female<br>voyage<br>easy<br>umbrella<br>zone<br>antenna<br>damp<br>diamond<br>siege<br>canal |  
-| bip_39_word_new_br12 | artefact<br>female<br>voyage<br>easy<br>umbrella<br>zone<br>antenna<br>damp<br>diamond<br>siege<br>canal<br>absorb |  
-| bip_39_word_new_br2 | artefact<br>female |  
-| bip_39_word_new_br3 | artefact<br>female<br>voyage |  
-| bip_39_word_new_br4 | artefact<br>female<br>voyage<br>easy |  
-| bip_39_word_new_br5 | artefact<br>female<br>voyage<br>easy<br>umbrella |  
-| bip_39_word_new_br6 | artefact<br>female<br>voyage<br>easy<br>umbrella<br>zone |  
-| bip_39_word_new_br7 | artefact<br>female<br>voyage<br>easy<br>umbrella<br>zone<br>antenna |  
-| bip_39_word_new_br8 | artefact<br>female<br>voyage<br>easy<br>umbrella<br>zone<br>antenna<br>damp |  
-| bip_39_word_new_br9 | artefact<br>female<br>voyage<br>easy<br>umbrella<br>zone<br>antenna<br>damp<br>diamond |  
-| bip_39_word_new_line1 | artefact |  
-| bip_39_word_new_line10 | artefact
+| bip_39_word_new_br_1 | artefact |  
+| bip_39_word_new_br_10 | artefact<br>female<br>voyage<br>easy<br>umbrella<br>zone<br>antenna<br>damp<br>diamond<br>siege |  
+| bip_39_word_new_br_11 | artefact<br>female<br>voyage<br>easy<br>umbrella<br>zone<br>antenna<br>damp<br>diamond<br>siege<br>canal |  
+| bip_39_word_new_br_12 | artefact<br>female<br>voyage<br>easy<br>umbrella<br>zone<br>antenna<br>damp<br>diamond<br>siege<br>canal<br>absorb |  
+| bip_39_word_new_br_2 | artefact<br>female |  
+| bip_39_word_new_br_3 | artefact<br>female<br>voyage |  
+| bip_39_word_new_br_4 | artefact<br>female<br>voyage<br>easy |  
+| bip_39_word_new_br_5 | artefact<br>female<br>voyage<br>easy<br>umbrella |  
+| bip_39_word_new_br_6 | artefact<br>female<br>voyage<br>easy<br>umbrella<br>zone |  
+| bip_39_word_new_br_7 | artefact<br>female<br>voyage<br>easy<br>umbrella<br>zone<br>antenna |  
+| bip_39_word_new_br_8 | artefact<br>female<br>voyage<br>easy<br>umbrella<br>zone<br>antenna<br>damp |  
+| bip_39_word_new_br_9 | artefact<br>female<br>voyage<br>easy<br>umbrella<br>zone<br>antenna<br>damp<br>diamond |  
+| bip_39_word_new_line_1 | artefact |  
+| bip_39_word_new_line_10 | artefact
 female
 voyage
 easy
@@ -55,7 +55,7 @@ antenna
 damp
 diamond
 siege |  
-| bip_39_word_new_line11 | artefact
+| bip_39_word_new_line_11 | artefact
 female
 voyage
 easy
@@ -66,7 +66,7 @@ damp
 diamond
 siege
 canal |  
-| bip_39_word_new_line12 | artefact
+| bip_39_word_new_line_12 | artefact
 female
 voyage
 easy
@@ -78,34 +78,34 @@ diamond
 siege
 canal
 absorb |  
-| bip_39_word_new_line2 | artefact
+| bip_39_word_new_line_2 | artefact
 female |  
-| bip_39_word_new_line3 | artefact
+| bip_39_word_new_line_3 | artefact
 female
 voyage |  
-| bip_39_word_new_line4 | artefact
+| bip_39_word_new_line_4 | artefact
 female
 voyage
 easy |  
-| bip_39_word_new_line5 | artefact
+| bip_39_word_new_line_5 | artefact
 female
 voyage
 easy
 umbrella |  
-| bip_39_word_new_line6 | artefact
+| bip_39_word_new_line_6 | artefact
 female
 voyage
 easy
 umbrella
 zone |  
-| bip_39_word_new_line7 | artefact
+| bip_39_word_new_line_7 | artefact
 female
 voyage
 easy
 umbrella
 zone
 antenna |  
-| bip_39_word_new_line8 | artefact
+| bip_39_word_new_line_8 | artefact
 female
 voyage
 easy
@@ -113,7 +113,7 @@ umbrella
 zone
 antenna
 damp |  
-| bip_39_word_new_line9 | artefact
+| bip_39_word_new_line_9 | artefact
 female
 voyage
 easy

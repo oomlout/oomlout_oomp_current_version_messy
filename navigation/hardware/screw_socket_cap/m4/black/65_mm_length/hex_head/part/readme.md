@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | snake |  
-| bip_39_word_new_br10 | snake<br>pyramid<br>extra<br>talk<br>hospital<br>fold<br>mule<br>stereo<br>crowd<br>service |  
-| bip_39_word_new_br11 | snake<br>pyramid<br>extra<br>talk<br>hospital<br>fold<br>mule<br>stereo<br>crowd<br>service<br>radar |  
-| bip_39_word_new_br12 | snake<br>pyramid<br>extra<br>talk<br>hospital<br>fold<br>mule<br>stereo<br>crowd<br>service<br>radar<br>alert |  
-| bip_39_word_new_br2 | snake<br>pyramid |  
-| bip_39_word_new_br3 | snake<br>pyramid<br>extra |  
-| bip_39_word_new_br4 | snake<br>pyramid<br>extra<br>talk |  
-| bip_39_word_new_br5 | snake<br>pyramid<br>extra<br>talk<br>hospital |  
-| bip_39_word_new_br6 | snake<br>pyramid<br>extra<br>talk<br>hospital<br>fold |  
-| bip_39_word_new_br7 | snake<br>pyramid<br>extra<br>talk<br>hospital<br>fold<br>mule |  
-| bip_39_word_new_br8 | snake<br>pyramid<br>extra<br>talk<br>hospital<br>fold<br>mule<br>stereo |  
-| bip_39_word_new_br9 | snake<br>pyramid<br>extra<br>talk<br>hospital<br>fold<br>mule<br>stereo<br>crowd |  
-| bip_39_word_new_line1 | snake |  
-| bip_39_word_new_line10 | snake
+| bip_39_word_new_br_1 | snake |  
+| bip_39_word_new_br_10 | snake<br>pyramid<br>extra<br>talk<br>hospital<br>fold<br>mule<br>stereo<br>crowd<br>service |  
+| bip_39_word_new_br_11 | snake<br>pyramid<br>extra<br>talk<br>hospital<br>fold<br>mule<br>stereo<br>crowd<br>service<br>radar |  
+| bip_39_word_new_br_12 | snake<br>pyramid<br>extra<br>talk<br>hospital<br>fold<br>mule<br>stereo<br>crowd<br>service<br>radar<br>alert |  
+| bip_39_word_new_br_2 | snake<br>pyramid |  
+| bip_39_word_new_br_3 | snake<br>pyramid<br>extra |  
+| bip_39_word_new_br_4 | snake<br>pyramid<br>extra<br>talk |  
+| bip_39_word_new_br_5 | snake<br>pyramid<br>extra<br>talk<br>hospital |  
+| bip_39_word_new_br_6 | snake<br>pyramid<br>extra<br>talk<br>hospital<br>fold |  
+| bip_39_word_new_br_7 | snake<br>pyramid<br>extra<br>talk<br>hospital<br>fold<br>mule |  
+| bip_39_word_new_br_8 | snake<br>pyramid<br>extra<br>talk<br>hospital<br>fold<br>mule<br>stereo |  
+| bip_39_word_new_br_9 | snake<br>pyramid<br>extra<br>talk<br>hospital<br>fold<br>mule<br>stereo<br>crowd |  
+| bip_39_word_new_line_1 | snake |  
+| bip_39_word_new_line_10 | snake
 pyramid
 extra
 talk
@@ -55,7 +55,7 @@ mule
 stereo
 crowd
 service |  
-| bip_39_word_new_line11 | snake
+| bip_39_word_new_line_11 | snake
 pyramid
 extra
 talk
@@ -66,7 +66,7 @@ stereo
 crowd
 service
 radar |  
-| bip_39_word_new_line12 | snake
+| bip_39_word_new_line_12 | snake
 pyramid
 extra
 talk
@@ -78,34 +78,34 @@ crowd
 service
 radar
 alert |  
-| bip_39_word_new_line2 | snake
+| bip_39_word_new_line_2 | snake
 pyramid |  
-| bip_39_word_new_line3 | snake
+| bip_39_word_new_line_3 | snake
 pyramid
 extra |  
-| bip_39_word_new_line4 | snake
+| bip_39_word_new_line_4 | snake
 pyramid
 extra
 talk |  
-| bip_39_word_new_line5 | snake
+| bip_39_word_new_line_5 | snake
 pyramid
 extra
 talk
 hospital |  
-| bip_39_word_new_line6 | snake
+| bip_39_word_new_line_6 | snake
 pyramid
 extra
 talk
 hospital
 fold |  
-| bip_39_word_new_line7 | snake
+| bip_39_word_new_line_7 | snake
 pyramid
 extra
 talk
 hospital
 fold
 mule |  
-| bip_39_word_new_line8 | snake
+| bip_39_word_new_line_8 | snake
 pyramid
 extra
 talk
@@ -113,7 +113,7 @@ hospital
 fold
 mule
 stereo |  
-| bip_39_word_new_line9 | snake
+| bip_39_word_new_line_9 | snake
 pyramid
 extra
 talk

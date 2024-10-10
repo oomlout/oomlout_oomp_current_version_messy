@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | number |  
-| bip_39_word_new_br10 | number<br>soon<br>board<br>effort<br>loud<br>illness<br>until<br>monkey<br>asthma<br>inspire |  
-| bip_39_word_new_br11 | number<br>soon<br>board<br>effort<br>loud<br>illness<br>until<br>monkey<br>asthma<br>inspire<br>apart |  
-| bip_39_word_new_br12 | number<br>soon<br>board<br>effort<br>loud<br>illness<br>until<br>monkey<br>asthma<br>inspire<br>apart<br>any |  
-| bip_39_word_new_br2 | number<br>soon |  
-| bip_39_word_new_br3 | number<br>soon<br>board |  
-| bip_39_word_new_br4 | number<br>soon<br>board<br>effort |  
-| bip_39_word_new_br5 | number<br>soon<br>board<br>effort<br>loud |  
-| bip_39_word_new_br6 | number<br>soon<br>board<br>effort<br>loud<br>illness |  
-| bip_39_word_new_br7 | number<br>soon<br>board<br>effort<br>loud<br>illness<br>until |  
-| bip_39_word_new_br8 | number<br>soon<br>board<br>effort<br>loud<br>illness<br>until<br>monkey |  
-| bip_39_word_new_br9 | number<br>soon<br>board<br>effort<br>loud<br>illness<br>until<br>monkey<br>asthma |  
-| bip_39_word_new_line1 | number |  
-| bip_39_word_new_line10 | number
+| bip_39_word_new_br_1 | number |  
+| bip_39_word_new_br_10 | number<br>soon<br>board<br>effort<br>loud<br>illness<br>until<br>monkey<br>asthma<br>inspire |  
+| bip_39_word_new_br_11 | number<br>soon<br>board<br>effort<br>loud<br>illness<br>until<br>monkey<br>asthma<br>inspire<br>apart |  
+| bip_39_word_new_br_12 | number<br>soon<br>board<br>effort<br>loud<br>illness<br>until<br>monkey<br>asthma<br>inspire<br>apart<br>any |  
+| bip_39_word_new_br_2 | number<br>soon |  
+| bip_39_word_new_br_3 | number<br>soon<br>board |  
+| bip_39_word_new_br_4 | number<br>soon<br>board<br>effort |  
+| bip_39_word_new_br_5 | number<br>soon<br>board<br>effort<br>loud |  
+| bip_39_word_new_br_6 | number<br>soon<br>board<br>effort<br>loud<br>illness |  
+| bip_39_word_new_br_7 | number<br>soon<br>board<br>effort<br>loud<br>illness<br>until |  
+| bip_39_word_new_br_8 | number<br>soon<br>board<br>effort<br>loud<br>illness<br>until<br>monkey |  
+| bip_39_word_new_br_9 | number<br>soon<br>board<br>effort<br>loud<br>illness<br>until<br>monkey<br>asthma |  
+| bip_39_word_new_line_1 | number |  
+| bip_39_word_new_line_10 | number
 soon
 board
 effort
@@ -55,7 +55,7 @@ until
 monkey
 asthma
 inspire |  
-| bip_39_word_new_line11 | number
+| bip_39_word_new_line_11 | number
 soon
 board
 effort
@@ -66,7 +66,7 @@ monkey
 asthma
 inspire
 apart |  
-| bip_39_word_new_line12 | number
+| bip_39_word_new_line_12 | number
 soon
 board
 effort
@@ -78,34 +78,34 @@ asthma
 inspire
 apart
 any |  
-| bip_39_word_new_line2 | number
+| bip_39_word_new_line_2 | number
 soon |  
-| bip_39_word_new_line3 | number
+| bip_39_word_new_line_3 | number
 soon
 board |  
-| bip_39_word_new_line4 | number
+| bip_39_word_new_line_4 | number
 soon
 board
 effort |  
-| bip_39_word_new_line5 | number
+| bip_39_word_new_line_5 | number
 soon
 board
 effort
 loud |  
-| bip_39_word_new_line6 | number
+| bip_39_word_new_line_6 | number
 soon
 board
 effort
 loud
 illness |  
-| bip_39_word_new_line7 | number
+| bip_39_word_new_line_7 | number
 soon
 board
 effort
 loud
 illness
 until |  
-| bip_39_word_new_line8 | number
+| bip_39_word_new_line_8 | number
 soon
 board
 effort
@@ -113,7 +113,7 @@ loud
 illness
 until
 monkey |  
-| bip_39_word_new_line9 | number
+| bip_39_word_new_line_9 | number
 soon
 board
 effort

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | north |  
-| bip_39_word_new_br10 | north<br>finish<br>during<br>auction<br>supply<br>cupboard<br>near<br>giraffe<br>tired<br>settle |  
-| bip_39_word_new_br11 | north<br>finish<br>during<br>auction<br>supply<br>cupboard<br>near<br>giraffe<br>tired<br>settle<br>stand |  
-| bip_39_word_new_br12 | north<br>finish<br>during<br>auction<br>supply<br>cupboard<br>near<br>giraffe<br>tired<br>settle<br>stand<br>anger |  
-| bip_39_word_new_br2 | north<br>finish |  
-| bip_39_word_new_br3 | north<br>finish<br>during |  
-| bip_39_word_new_br4 | north<br>finish<br>during<br>auction |  
-| bip_39_word_new_br5 | north<br>finish<br>during<br>auction<br>supply |  
-| bip_39_word_new_br6 | north<br>finish<br>during<br>auction<br>supply<br>cupboard |  
-| bip_39_word_new_br7 | north<br>finish<br>during<br>auction<br>supply<br>cupboard<br>near |  
-| bip_39_word_new_br8 | north<br>finish<br>during<br>auction<br>supply<br>cupboard<br>near<br>giraffe |  
-| bip_39_word_new_br9 | north<br>finish<br>during<br>auction<br>supply<br>cupboard<br>near<br>giraffe<br>tired |  
-| bip_39_word_new_line1 | north |  
-| bip_39_word_new_line10 | north
+| bip_39_word_new_br_1 | north |  
+| bip_39_word_new_br_10 | north<br>finish<br>during<br>auction<br>supply<br>cupboard<br>near<br>giraffe<br>tired<br>settle |  
+| bip_39_word_new_br_11 | north<br>finish<br>during<br>auction<br>supply<br>cupboard<br>near<br>giraffe<br>tired<br>settle<br>stand |  
+| bip_39_word_new_br_12 | north<br>finish<br>during<br>auction<br>supply<br>cupboard<br>near<br>giraffe<br>tired<br>settle<br>stand<br>anger |  
+| bip_39_word_new_br_2 | north<br>finish |  
+| bip_39_word_new_br_3 | north<br>finish<br>during |  
+| bip_39_word_new_br_4 | north<br>finish<br>during<br>auction |  
+| bip_39_word_new_br_5 | north<br>finish<br>during<br>auction<br>supply |  
+| bip_39_word_new_br_6 | north<br>finish<br>during<br>auction<br>supply<br>cupboard |  
+| bip_39_word_new_br_7 | north<br>finish<br>during<br>auction<br>supply<br>cupboard<br>near |  
+| bip_39_word_new_br_8 | north<br>finish<br>during<br>auction<br>supply<br>cupboard<br>near<br>giraffe |  
+| bip_39_word_new_br_9 | north<br>finish<br>during<br>auction<br>supply<br>cupboard<br>near<br>giraffe<br>tired |  
+| bip_39_word_new_line_1 | north |  
+| bip_39_word_new_line_10 | north
 finish
 during
 auction
@@ -55,7 +55,7 @@ near
 giraffe
 tired
 settle |  
-| bip_39_word_new_line11 | north
+| bip_39_word_new_line_11 | north
 finish
 during
 auction
@@ -66,7 +66,7 @@ giraffe
 tired
 settle
 stand |  
-| bip_39_word_new_line12 | north
+| bip_39_word_new_line_12 | north
 finish
 during
 auction
@@ -78,34 +78,34 @@ tired
 settle
 stand
 anger |  
-| bip_39_word_new_line2 | north
+| bip_39_word_new_line_2 | north
 finish |  
-| bip_39_word_new_line3 | north
+| bip_39_word_new_line_3 | north
 finish
 during |  
-| bip_39_word_new_line4 | north
+| bip_39_word_new_line_4 | north
 finish
 during
 auction |  
-| bip_39_word_new_line5 | north
+| bip_39_word_new_line_5 | north
 finish
 during
 auction
 supply |  
-| bip_39_word_new_line6 | north
+| bip_39_word_new_line_6 | north
 finish
 during
 auction
 supply
 cupboard |  
-| bip_39_word_new_line7 | north
+| bip_39_word_new_line_7 | north
 finish
 during
 auction
 supply
 cupboard
 near |  
-| bip_39_word_new_line8 | north
+| bip_39_word_new_line_8 | north
 finish
 during
 auction
@@ -113,7 +113,7 @@ supply
 cupboard
 near
 giraffe |  
-| bip_39_word_new_line9 | north
+| bip_39_word_new_line_9 | north
 finish
 during
 auction

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | balance |  
-| bip_39_word_new_br10 | balance<br>observe<br>consider<br>onion<br>stamp<br>figure<br>meat<br>soul<br>bunker<br>topple |  
-| bip_39_word_new_br11 | balance<br>observe<br>consider<br>onion<br>stamp<br>figure<br>meat<br>soul<br>bunker<br>topple<br>armor |  
-| bip_39_word_new_br12 | balance<br>observe<br>consider<br>onion<br>stamp<br>figure<br>meat<br>soul<br>bunker<br>topple<br>armor<br>amazing |  
-| bip_39_word_new_br2 | balance<br>observe |  
-| bip_39_word_new_br3 | balance<br>observe<br>consider |  
-| bip_39_word_new_br4 | balance<br>observe<br>consider<br>onion |  
-| bip_39_word_new_br5 | balance<br>observe<br>consider<br>onion<br>stamp |  
-| bip_39_word_new_br6 | balance<br>observe<br>consider<br>onion<br>stamp<br>figure |  
-| bip_39_word_new_br7 | balance<br>observe<br>consider<br>onion<br>stamp<br>figure<br>meat |  
-| bip_39_word_new_br8 | balance<br>observe<br>consider<br>onion<br>stamp<br>figure<br>meat<br>soul |  
-| bip_39_word_new_br9 | balance<br>observe<br>consider<br>onion<br>stamp<br>figure<br>meat<br>soul<br>bunker |  
-| bip_39_word_new_line1 | balance |  
-| bip_39_word_new_line10 | balance
+| bip_39_word_new_br_1 | balance |  
+| bip_39_word_new_br_10 | balance<br>observe<br>consider<br>onion<br>stamp<br>figure<br>meat<br>soul<br>bunker<br>topple |  
+| bip_39_word_new_br_11 | balance<br>observe<br>consider<br>onion<br>stamp<br>figure<br>meat<br>soul<br>bunker<br>topple<br>armor |  
+| bip_39_word_new_br_12 | balance<br>observe<br>consider<br>onion<br>stamp<br>figure<br>meat<br>soul<br>bunker<br>topple<br>armor<br>amazing |  
+| bip_39_word_new_br_2 | balance<br>observe |  
+| bip_39_word_new_br_3 | balance<br>observe<br>consider |  
+| bip_39_word_new_br_4 | balance<br>observe<br>consider<br>onion |  
+| bip_39_word_new_br_5 | balance<br>observe<br>consider<br>onion<br>stamp |  
+| bip_39_word_new_br_6 | balance<br>observe<br>consider<br>onion<br>stamp<br>figure |  
+| bip_39_word_new_br_7 | balance<br>observe<br>consider<br>onion<br>stamp<br>figure<br>meat |  
+| bip_39_word_new_br_8 | balance<br>observe<br>consider<br>onion<br>stamp<br>figure<br>meat<br>soul |  
+| bip_39_word_new_br_9 | balance<br>observe<br>consider<br>onion<br>stamp<br>figure<br>meat<br>soul<br>bunker |  
+| bip_39_word_new_line_1 | balance |  
+| bip_39_word_new_line_10 | balance
 observe
 consider
 onion
@@ -55,7 +55,7 @@ meat
 soul
 bunker
 topple |  
-| bip_39_word_new_line11 | balance
+| bip_39_word_new_line_11 | balance
 observe
 consider
 onion
@@ -66,7 +66,7 @@ soul
 bunker
 topple
 armor |  
-| bip_39_word_new_line12 | balance
+| bip_39_word_new_line_12 | balance
 observe
 consider
 onion
@@ -78,34 +78,34 @@ bunker
 topple
 armor
 amazing |  
-| bip_39_word_new_line2 | balance
+| bip_39_word_new_line_2 | balance
 observe |  
-| bip_39_word_new_line3 | balance
+| bip_39_word_new_line_3 | balance
 observe
 consider |  
-| bip_39_word_new_line4 | balance
+| bip_39_word_new_line_4 | balance
 observe
 consider
 onion |  
-| bip_39_word_new_line5 | balance
+| bip_39_word_new_line_5 | balance
 observe
 consider
 onion
 stamp |  
-| bip_39_word_new_line6 | balance
+| bip_39_word_new_line_6 | balance
 observe
 consider
 onion
 stamp
 figure |  
-| bip_39_word_new_line7 | balance
+| bip_39_word_new_line_7 | balance
 observe
 consider
 onion
 stamp
 figure
 meat |  
-| bip_39_word_new_line8 | balance
+| bip_39_word_new_line_8 | balance
 observe
 consider
 onion
@@ -113,7 +113,7 @@ stamp
 figure
 meat
 soul |  
-| bip_39_word_new_line9 | balance
+| bip_39_word_new_line_9 | balance
 observe
 consider
 onion

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | attitude |  
-| bip_39_word_new_br10 | attitude<br>dice<br>boat<br>moment<br>remind<br>mule<br>own<br>fine<br>box<br>elite |  
-| bip_39_word_new_br11 | attitude<br>dice<br>boat<br>moment<br>remind<br>mule<br>own<br>fine<br>box<br>elite<br>monitor |  
-| bip_39_word_new_br12 | attitude<br>dice<br>boat<br>moment<br>remind<br>mule<br>own<br>fine<br>box<br>elite<br>monitor<br>air |  
-| bip_39_word_new_br2 | attitude<br>dice |  
-| bip_39_word_new_br3 | attitude<br>dice<br>boat |  
-| bip_39_word_new_br4 | attitude<br>dice<br>boat<br>moment |  
-| bip_39_word_new_br5 | attitude<br>dice<br>boat<br>moment<br>remind |  
-| bip_39_word_new_br6 | attitude<br>dice<br>boat<br>moment<br>remind<br>mule |  
-| bip_39_word_new_br7 | attitude<br>dice<br>boat<br>moment<br>remind<br>mule<br>own |  
-| bip_39_word_new_br8 | attitude<br>dice<br>boat<br>moment<br>remind<br>mule<br>own<br>fine |  
-| bip_39_word_new_br9 | attitude<br>dice<br>boat<br>moment<br>remind<br>mule<br>own<br>fine<br>box |  
-| bip_39_word_new_line1 | attitude |  
-| bip_39_word_new_line10 | attitude
+| bip_39_word_new_br_1 | attitude |  
+| bip_39_word_new_br_10 | attitude<br>dice<br>boat<br>moment<br>remind<br>mule<br>own<br>fine<br>box<br>elite |  
+| bip_39_word_new_br_11 | attitude<br>dice<br>boat<br>moment<br>remind<br>mule<br>own<br>fine<br>box<br>elite<br>monitor |  
+| bip_39_word_new_br_12 | attitude<br>dice<br>boat<br>moment<br>remind<br>mule<br>own<br>fine<br>box<br>elite<br>monitor<br>air |  
+| bip_39_word_new_br_2 | attitude<br>dice |  
+| bip_39_word_new_br_3 | attitude<br>dice<br>boat |  
+| bip_39_word_new_br_4 | attitude<br>dice<br>boat<br>moment |  
+| bip_39_word_new_br_5 | attitude<br>dice<br>boat<br>moment<br>remind |  
+| bip_39_word_new_br_6 | attitude<br>dice<br>boat<br>moment<br>remind<br>mule |  
+| bip_39_word_new_br_7 | attitude<br>dice<br>boat<br>moment<br>remind<br>mule<br>own |  
+| bip_39_word_new_br_8 | attitude<br>dice<br>boat<br>moment<br>remind<br>mule<br>own<br>fine |  
+| bip_39_word_new_br_9 | attitude<br>dice<br>boat<br>moment<br>remind<br>mule<br>own<br>fine<br>box |  
+| bip_39_word_new_line_1 | attitude |  
+| bip_39_word_new_line_10 | attitude
 dice
 boat
 moment
@@ -55,7 +55,7 @@ own
 fine
 box
 elite |  
-| bip_39_word_new_line11 | attitude
+| bip_39_word_new_line_11 | attitude
 dice
 boat
 moment
@@ -66,7 +66,7 @@ fine
 box
 elite
 monitor |  
-| bip_39_word_new_line12 | attitude
+| bip_39_word_new_line_12 | attitude
 dice
 boat
 moment
@@ -78,34 +78,34 @@ box
 elite
 monitor
 air |  
-| bip_39_word_new_line2 | attitude
+| bip_39_word_new_line_2 | attitude
 dice |  
-| bip_39_word_new_line3 | attitude
+| bip_39_word_new_line_3 | attitude
 dice
 boat |  
-| bip_39_word_new_line4 | attitude
+| bip_39_word_new_line_4 | attitude
 dice
 boat
 moment |  
-| bip_39_word_new_line5 | attitude
+| bip_39_word_new_line_5 | attitude
 dice
 boat
 moment
 remind |  
-| bip_39_word_new_line6 | attitude
+| bip_39_word_new_line_6 | attitude
 dice
 boat
 moment
 remind
 mule |  
-| bip_39_word_new_line7 | attitude
+| bip_39_word_new_line_7 | attitude
 dice
 boat
 moment
 remind
 mule
 own |  
-| bip_39_word_new_line8 | attitude
+| bip_39_word_new_line_8 | attitude
 dice
 boat
 moment
@@ -113,7 +113,7 @@ remind
 mule
 own
 fine |  
-| bip_39_word_new_line9 | attitude
+| bip_39_word_new_line_9 | attitude
 dice
 boat
 moment

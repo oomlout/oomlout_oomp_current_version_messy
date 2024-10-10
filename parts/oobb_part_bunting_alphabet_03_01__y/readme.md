@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | random |  
-| bip_39_word_new_br10 | random<br>regret<br>spirit<br>fruit<br>weekend<br>adjust<br>appear<br>run<br>now<br>food |  
-| bip_39_word_new_br11 | random<br>regret<br>spirit<br>fruit<br>weekend<br>adjust<br>appear<br>run<br>now<br>food<br>meadow |  
-| bip_39_word_new_br12 | random<br>regret<br>spirit<br>fruit<br>weekend<br>adjust<br>appear<br>run<br>now<br>food<br>meadow<br>annual |  
-| bip_39_word_new_br2 | random<br>regret |  
-| bip_39_word_new_br3 | random<br>regret<br>spirit |  
-| bip_39_word_new_br4 | random<br>regret<br>spirit<br>fruit |  
-| bip_39_word_new_br5 | random<br>regret<br>spirit<br>fruit<br>weekend |  
-| bip_39_word_new_br6 | random<br>regret<br>spirit<br>fruit<br>weekend<br>adjust |  
-| bip_39_word_new_br7 | random<br>regret<br>spirit<br>fruit<br>weekend<br>adjust<br>appear |  
-| bip_39_word_new_br8 | random<br>regret<br>spirit<br>fruit<br>weekend<br>adjust<br>appear<br>run |  
-| bip_39_word_new_br9 | random<br>regret<br>spirit<br>fruit<br>weekend<br>adjust<br>appear<br>run<br>now |  
-| bip_39_word_new_line1 | random |  
-| bip_39_word_new_line10 | random
+| bip_39_word_new_br_1 | random |  
+| bip_39_word_new_br_10 | random<br>regret<br>spirit<br>fruit<br>weekend<br>adjust<br>appear<br>run<br>now<br>food |  
+| bip_39_word_new_br_11 | random<br>regret<br>spirit<br>fruit<br>weekend<br>adjust<br>appear<br>run<br>now<br>food<br>meadow |  
+| bip_39_word_new_br_12 | random<br>regret<br>spirit<br>fruit<br>weekend<br>adjust<br>appear<br>run<br>now<br>food<br>meadow<br>annual |  
+| bip_39_word_new_br_2 | random<br>regret |  
+| bip_39_word_new_br_3 | random<br>regret<br>spirit |  
+| bip_39_word_new_br_4 | random<br>regret<br>spirit<br>fruit |  
+| bip_39_word_new_br_5 | random<br>regret<br>spirit<br>fruit<br>weekend |  
+| bip_39_word_new_br_6 | random<br>regret<br>spirit<br>fruit<br>weekend<br>adjust |  
+| bip_39_word_new_br_7 | random<br>regret<br>spirit<br>fruit<br>weekend<br>adjust<br>appear |  
+| bip_39_word_new_br_8 | random<br>regret<br>spirit<br>fruit<br>weekend<br>adjust<br>appear<br>run |  
+| bip_39_word_new_br_9 | random<br>regret<br>spirit<br>fruit<br>weekend<br>adjust<br>appear<br>run<br>now |  
+| bip_39_word_new_line_1 | random |  
+| bip_39_word_new_line_10 | random
 regret
 spirit
 fruit
@@ -55,7 +55,7 @@ appear
 run
 now
 food |  
-| bip_39_word_new_line11 | random
+| bip_39_word_new_line_11 | random
 regret
 spirit
 fruit
@@ -66,7 +66,7 @@ run
 now
 food
 meadow |  
-| bip_39_word_new_line12 | random
+| bip_39_word_new_line_12 | random
 regret
 spirit
 fruit
@@ -78,34 +78,34 @@ now
 food
 meadow
 annual |  
-| bip_39_word_new_line2 | random
+| bip_39_word_new_line_2 | random
 regret |  
-| bip_39_word_new_line3 | random
+| bip_39_word_new_line_3 | random
 regret
 spirit |  
-| bip_39_word_new_line4 | random
+| bip_39_word_new_line_4 | random
 regret
 spirit
 fruit |  
-| bip_39_word_new_line5 | random
+| bip_39_word_new_line_5 | random
 regret
 spirit
 fruit
 weekend |  
-| bip_39_word_new_line6 | random
+| bip_39_word_new_line_6 | random
 regret
 spirit
 fruit
 weekend
 adjust |  
-| bip_39_word_new_line7 | random
+| bip_39_word_new_line_7 | random
 regret
 spirit
 fruit
 weekend
 adjust
 appear |  
-| bip_39_word_new_line8 | random
+| bip_39_word_new_line_8 | random
 regret
 spirit
 fruit
@@ -113,7 +113,7 @@ weekend
 adjust
 appear
 run |  
-| bip_39_word_new_line9 | random
+| bip_39_word_new_line_9 | random
 regret
 spirit
 fruit

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | slice |  
-| bip_39_word_new_br10 | slice<br>taxi<br>utility<br>runway<br>horror<br>render<br>leg<br>cup<br>soldier<br>hundred |  
-| bip_39_word_new_br11 | slice<br>taxi<br>utility<br>runway<br>horror<br>render<br>leg<br>cup<br>soldier<br>hundred<br>butter |  
-| bip_39_word_new_br12 | slice<br>taxi<br>utility<br>runway<br>horror<br>render<br>leg<br>cup<br>soldier<br>hundred<br>butter<br>alarm |  
-| bip_39_word_new_br2 | slice<br>taxi |  
-| bip_39_word_new_br3 | slice<br>taxi<br>utility |  
-| bip_39_word_new_br4 | slice<br>taxi<br>utility<br>runway |  
-| bip_39_word_new_br5 | slice<br>taxi<br>utility<br>runway<br>horror |  
-| bip_39_word_new_br6 | slice<br>taxi<br>utility<br>runway<br>horror<br>render |  
-| bip_39_word_new_br7 | slice<br>taxi<br>utility<br>runway<br>horror<br>render<br>leg |  
-| bip_39_word_new_br8 | slice<br>taxi<br>utility<br>runway<br>horror<br>render<br>leg<br>cup |  
-| bip_39_word_new_br9 | slice<br>taxi<br>utility<br>runway<br>horror<br>render<br>leg<br>cup<br>soldier |  
-| bip_39_word_new_line1 | slice |  
-| bip_39_word_new_line10 | slice
+| bip_39_word_new_br_1 | slice |  
+| bip_39_word_new_br_10 | slice<br>taxi<br>utility<br>runway<br>horror<br>render<br>leg<br>cup<br>soldier<br>hundred |  
+| bip_39_word_new_br_11 | slice<br>taxi<br>utility<br>runway<br>horror<br>render<br>leg<br>cup<br>soldier<br>hundred<br>butter |  
+| bip_39_word_new_br_12 | slice<br>taxi<br>utility<br>runway<br>horror<br>render<br>leg<br>cup<br>soldier<br>hundred<br>butter<br>alarm |  
+| bip_39_word_new_br_2 | slice<br>taxi |  
+| bip_39_word_new_br_3 | slice<br>taxi<br>utility |  
+| bip_39_word_new_br_4 | slice<br>taxi<br>utility<br>runway |  
+| bip_39_word_new_br_5 | slice<br>taxi<br>utility<br>runway<br>horror |  
+| bip_39_word_new_br_6 | slice<br>taxi<br>utility<br>runway<br>horror<br>render |  
+| bip_39_word_new_br_7 | slice<br>taxi<br>utility<br>runway<br>horror<br>render<br>leg |  
+| bip_39_word_new_br_8 | slice<br>taxi<br>utility<br>runway<br>horror<br>render<br>leg<br>cup |  
+| bip_39_word_new_br_9 | slice<br>taxi<br>utility<br>runway<br>horror<br>render<br>leg<br>cup<br>soldier |  
+| bip_39_word_new_line_1 | slice |  
+| bip_39_word_new_line_10 | slice
 taxi
 utility
 runway
@@ -55,7 +55,7 @@ leg
 cup
 soldier
 hundred |  
-| bip_39_word_new_line11 | slice
+| bip_39_word_new_line_11 | slice
 taxi
 utility
 runway
@@ -66,7 +66,7 @@ cup
 soldier
 hundred
 butter |  
-| bip_39_word_new_line12 | slice
+| bip_39_word_new_line_12 | slice
 taxi
 utility
 runway
@@ -78,34 +78,34 @@ soldier
 hundred
 butter
 alarm |  
-| bip_39_word_new_line2 | slice
+| bip_39_word_new_line_2 | slice
 taxi |  
-| bip_39_word_new_line3 | slice
+| bip_39_word_new_line_3 | slice
 taxi
 utility |  
-| bip_39_word_new_line4 | slice
+| bip_39_word_new_line_4 | slice
 taxi
 utility
 runway |  
-| bip_39_word_new_line5 | slice
+| bip_39_word_new_line_5 | slice
 taxi
 utility
 runway
 horror |  
-| bip_39_word_new_line6 | slice
+| bip_39_word_new_line_6 | slice
 taxi
 utility
 runway
 horror
 render |  
-| bip_39_word_new_line7 | slice
+| bip_39_word_new_line_7 | slice
 taxi
 utility
 runway
 horror
 render
 leg |  
-| bip_39_word_new_line8 | slice
+| bip_39_word_new_line_8 | slice
 taxi
 utility
 runway
@@ -113,7 +113,7 @@ horror
 render
 leg
 cup |  
-| bip_39_word_new_line9 | slice
+| bip_39_word_new_line_9 | slice
 taxi
 utility
 runway

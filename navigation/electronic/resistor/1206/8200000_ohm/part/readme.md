@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | goat |  
-| bip_39_word_new_br10 | goat<br>robot<br>ripple<br>diagram<br>cliff<br>pave<br>price<br>train<br>river<br>voice |  
-| bip_39_word_new_br11 | goat<br>robot<br>ripple<br>diagram<br>cliff<br>pave<br>price<br>train<br>river<br>voice<br>below |  
-| bip_39_word_new_br12 | goat<br>robot<br>ripple<br>diagram<br>cliff<br>pave<br>price<br>train<br>river<br>voice<br>below<br>arch |  
-| bip_39_word_new_br2 | goat<br>robot |  
-| bip_39_word_new_br3 | goat<br>robot<br>ripple |  
-| bip_39_word_new_br4 | goat<br>robot<br>ripple<br>diagram |  
-| bip_39_word_new_br5 | goat<br>robot<br>ripple<br>diagram<br>cliff |  
-| bip_39_word_new_br6 | goat<br>robot<br>ripple<br>diagram<br>cliff<br>pave |  
-| bip_39_word_new_br7 | goat<br>robot<br>ripple<br>diagram<br>cliff<br>pave<br>price |  
-| bip_39_word_new_br8 | goat<br>robot<br>ripple<br>diagram<br>cliff<br>pave<br>price<br>train |  
-| bip_39_word_new_br9 | goat<br>robot<br>ripple<br>diagram<br>cliff<br>pave<br>price<br>train<br>river |  
-| bip_39_word_new_line1 | goat |  
-| bip_39_word_new_line10 | goat
+| bip_39_word_new_br_1 | goat |  
+| bip_39_word_new_br_10 | goat<br>robot<br>ripple<br>diagram<br>cliff<br>pave<br>price<br>train<br>river<br>voice |  
+| bip_39_word_new_br_11 | goat<br>robot<br>ripple<br>diagram<br>cliff<br>pave<br>price<br>train<br>river<br>voice<br>below |  
+| bip_39_word_new_br_12 | goat<br>robot<br>ripple<br>diagram<br>cliff<br>pave<br>price<br>train<br>river<br>voice<br>below<br>arch |  
+| bip_39_word_new_br_2 | goat<br>robot |  
+| bip_39_word_new_br_3 | goat<br>robot<br>ripple |  
+| bip_39_word_new_br_4 | goat<br>robot<br>ripple<br>diagram |  
+| bip_39_word_new_br_5 | goat<br>robot<br>ripple<br>diagram<br>cliff |  
+| bip_39_word_new_br_6 | goat<br>robot<br>ripple<br>diagram<br>cliff<br>pave |  
+| bip_39_word_new_br_7 | goat<br>robot<br>ripple<br>diagram<br>cliff<br>pave<br>price |  
+| bip_39_word_new_br_8 | goat<br>robot<br>ripple<br>diagram<br>cliff<br>pave<br>price<br>train |  
+| bip_39_word_new_br_9 | goat<br>robot<br>ripple<br>diagram<br>cliff<br>pave<br>price<br>train<br>river |  
+| bip_39_word_new_line_1 | goat |  
+| bip_39_word_new_line_10 | goat
 robot
 ripple
 diagram
@@ -55,7 +55,7 @@ price
 train
 river
 voice |  
-| bip_39_word_new_line11 | goat
+| bip_39_word_new_line_11 | goat
 robot
 ripple
 diagram
@@ -66,7 +66,7 @@ train
 river
 voice
 below |  
-| bip_39_word_new_line12 | goat
+| bip_39_word_new_line_12 | goat
 robot
 ripple
 diagram
@@ -78,34 +78,34 @@ river
 voice
 below
 arch |  
-| bip_39_word_new_line2 | goat
+| bip_39_word_new_line_2 | goat
 robot |  
-| bip_39_word_new_line3 | goat
+| bip_39_word_new_line_3 | goat
 robot
 ripple |  
-| bip_39_word_new_line4 | goat
+| bip_39_word_new_line_4 | goat
 robot
 ripple
 diagram |  
-| bip_39_word_new_line5 | goat
+| bip_39_word_new_line_5 | goat
 robot
 ripple
 diagram
 cliff |  
-| bip_39_word_new_line6 | goat
+| bip_39_word_new_line_6 | goat
 robot
 ripple
 diagram
 cliff
 pave |  
-| bip_39_word_new_line7 | goat
+| bip_39_word_new_line_7 | goat
 robot
 ripple
 diagram
 cliff
 pave
 price |  
-| bip_39_word_new_line8 | goat
+| bip_39_word_new_line_8 | goat
 robot
 ripple
 diagram
@@ -113,7 +113,7 @@ cliff
 pave
 price
 train |  
-| bip_39_word_new_line9 | goat
+| bip_39_word_new_line_9 | goat
 robot
 ripple
 diagram

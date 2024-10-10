@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cigar |  
-| bip_39_word_new_br10 | cigar<br>kid<br>derive<br>before<br>outside<br>duck<br>paddle<br>pig<br>comfort<br>bean |  
-| bip_39_word_new_br11 | cigar<br>kid<br>derive<br>before<br>outside<br>duck<br>paddle<br>pig<br>comfort<br>bean<br>misery |  
-| bip_39_word_new_br12 | cigar<br>kid<br>derive<br>before<br>outside<br>duck<br>paddle<br>pig<br>comfort<br>bean<br>misery<br>above |  
-| bip_39_word_new_br2 | cigar<br>kid |  
-| bip_39_word_new_br3 | cigar<br>kid<br>derive |  
-| bip_39_word_new_br4 | cigar<br>kid<br>derive<br>before |  
-| bip_39_word_new_br5 | cigar<br>kid<br>derive<br>before<br>outside |  
-| bip_39_word_new_br6 | cigar<br>kid<br>derive<br>before<br>outside<br>duck |  
-| bip_39_word_new_br7 | cigar<br>kid<br>derive<br>before<br>outside<br>duck<br>paddle |  
-| bip_39_word_new_br8 | cigar<br>kid<br>derive<br>before<br>outside<br>duck<br>paddle<br>pig |  
-| bip_39_word_new_br9 | cigar<br>kid<br>derive<br>before<br>outside<br>duck<br>paddle<br>pig<br>comfort |  
-| bip_39_word_new_line1 | cigar |  
-| bip_39_word_new_line10 | cigar
+| bip_39_word_new_br_1 | cigar |  
+| bip_39_word_new_br_10 | cigar<br>kid<br>derive<br>before<br>outside<br>duck<br>paddle<br>pig<br>comfort<br>bean |  
+| bip_39_word_new_br_11 | cigar<br>kid<br>derive<br>before<br>outside<br>duck<br>paddle<br>pig<br>comfort<br>bean<br>misery |  
+| bip_39_word_new_br_12 | cigar<br>kid<br>derive<br>before<br>outside<br>duck<br>paddle<br>pig<br>comfort<br>bean<br>misery<br>above |  
+| bip_39_word_new_br_2 | cigar<br>kid |  
+| bip_39_word_new_br_3 | cigar<br>kid<br>derive |  
+| bip_39_word_new_br_4 | cigar<br>kid<br>derive<br>before |  
+| bip_39_word_new_br_5 | cigar<br>kid<br>derive<br>before<br>outside |  
+| bip_39_word_new_br_6 | cigar<br>kid<br>derive<br>before<br>outside<br>duck |  
+| bip_39_word_new_br_7 | cigar<br>kid<br>derive<br>before<br>outside<br>duck<br>paddle |  
+| bip_39_word_new_br_8 | cigar<br>kid<br>derive<br>before<br>outside<br>duck<br>paddle<br>pig |  
+| bip_39_word_new_br_9 | cigar<br>kid<br>derive<br>before<br>outside<br>duck<br>paddle<br>pig<br>comfort |  
+| bip_39_word_new_line_1 | cigar |  
+| bip_39_word_new_line_10 | cigar
 kid
 derive
 before
@@ -55,7 +55,7 @@ paddle
 pig
 comfort
 bean |  
-| bip_39_word_new_line11 | cigar
+| bip_39_word_new_line_11 | cigar
 kid
 derive
 before
@@ -66,7 +66,7 @@ pig
 comfort
 bean
 misery |  
-| bip_39_word_new_line12 | cigar
+| bip_39_word_new_line_12 | cigar
 kid
 derive
 before
@@ -78,34 +78,34 @@ comfort
 bean
 misery
 above |  
-| bip_39_word_new_line2 | cigar
+| bip_39_word_new_line_2 | cigar
 kid |  
-| bip_39_word_new_line3 | cigar
+| bip_39_word_new_line_3 | cigar
 kid
 derive |  
-| bip_39_word_new_line4 | cigar
+| bip_39_word_new_line_4 | cigar
 kid
 derive
 before |  
-| bip_39_word_new_line5 | cigar
+| bip_39_word_new_line_5 | cigar
 kid
 derive
 before
 outside |  
-| bip_39_word_new_line6 | cigar
+| bip_39_word_new_line_6 | cigar
 kid
 derive
 before
 outside
 duck |  
-| bip_39_word_new_line7 | cigar
+| bip_39_word_new_line_7 | cigar
 kid
 derive
 before
 outside
 duck
 paddle |  
-| bip_39_word_new_line8 | cigar
+| bip_39_word_new_line_8 | cigar
 kid
 derive
 before
@@ -113,7 +113,7 @@ outside
 duck
 paddle
 pig |  
-| bip_39_word_new_line9 | cigar
+| bip_39_word_new_line_9 | cigar
 kid
 derive
 before

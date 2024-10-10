@@ -1,17 +1,17 @@
-bip_39_word_new_br1: pyramid
-bip_39_word_new_br10: pyramid<br>urban<br>evidence<br>wrap<br>source<br>trust<br>broken<br>much<br>face<br>alone
-bip_39_word_new_br11: pyramid<br>urban<br>evidence<br>wrap<br>source<br>trust<br>broken<br>much<br>face<br>alone<br>dance
-bip_39_word_new_br12: pyramid<br>urban<br>evidence<br>wrap<br>source<br>trust<br>broken<br>much<br>face<br>alone<br>dance<br>abstract
-bip_39_word_new_br2: pyramid<br>urban
-bip_39_word_new_br3: pyramid<br>urban<br>evidence
-bip_39_word_new_br4: pyramid<br>urban<br>evidence<br>wrap
-bip_39_word_new_br5: pyramid<br>urban<br>evidence<br>wrap<br>source
-bip_39_word_new_br6: pyramid<br>urban<br>evidence<br>wrap<br>source<br>trust
-bip_39_word_new_br7: pyramid<br>urban<br>evidence<br>wrap<br>source<br>trust<br>broken
-bip_39_word_new_br8: pyramid<br>urban<br>evidence<br>wrap<br>source<br>trust<br>broken<br>much
-bip_39_word_new_br9: pyramid<br>urban<br>evidence<br>wrap<br>source<br>trust<br>broken<br>much<br>face
-bip_39_word_new_line1: pyramid
-bip_39_word_new_line10: 'pyramid
+bip_39_word_new_br_1: pyramid
+bip_39_word_new_br_10: pyramid<br>urban<br>evidence<br>wrap<br>source<br>trust<br>broken<br>much<br>face<br>alone
+bip_39_word_new_br_11: pyramid<br>urban<br>evidence<br>wrap<br>source<br>trust<br>broken<br>much<br>face<br>alone<br>dance
+bip_39_word_new_br_12: pyramid<br>urban<br>evidence<br>wrap<br>source<br>trust<br>broken<br>much<br>face<br>alone<br>dance<br>abstract
+bip_39_word_new_br_2: pyramid<br>urban
+bip_39_word_new_br_3: pyramid<br>urban<br>evidence
+bip_39_word_new_br_4: pyramid<br>urban<br>evidence<br>wrap
+bip_39_word_new_br_5: pyramid<br>urban<br>evidence<br>wrap<br>source
+bip_39_word_new_br_6: pyramid<br>urban<br>evidence<br>wrap<br>source<br>trust
+bip_39_word_new_br_7: pyramid<br>urban<br>evidence<br>wrap<br>source<br>trust<br>broken
+bip_39_word_new_br_8: pyramid<br>urban<br>evidence<br>wrap<br>source<br>trust<br>broken<br>much
+bip_39_word_new_br_9: pyramid<br>urban<br>evidence<br>wrap<br>source<br>trust<br>broken<br>much<br>face
+bip_39_word_new_line_1: pyramid
+bip_39_word_new_line_10: 'pyramid
 
   urban
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'pyramid
   face
 
   alone'
-bip_39_word_new_line11: 'pyramid
+bip_39_word_new_line_11: 'pyramid
 
   urban
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'pyramid
   alone
 
   dance'
-bip_39_word_new_line12: 'pyramid
+bip_39_word_new_line_12: 'pyramid
 
   urban
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'pyramid
   dance
 
   abstract'
-bip_39_word_new_line2: 'pyramid
+bip_39_word_new_line_2: 'pyramid
 
   urban'
-bip_39_word_new_line3: 'pyramid
+bip_39_word_new_line_3: 'pyramid
 
   urban
 
   evidence'
-bip_39_word_new_line4: 'pyramid
+bip_39_word_new_line_4: 'pyramid
 
   urban
 
   evidence
 
   wrap'
-bip_39_word_new_line5: 'pyramid
+bip_39_word_new_line_5: 'pyramid
 
   urban
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'pyramid
   wrap
 
   source'
-bip_39_word_new_line6: 'pyramid
+bip_39_word_new_line_6: 'pyramid
 
   urban
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'pyramid
   source
 
   trust'
-bip_39_word_new_line7: 'pyramid
+bip_39_word_new_line_7: 'pyramid
 
   urban
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'pyramid
   trust
 
   broken'
-bip_39_word_new_line8: 'pyramid
+bip_39_word_new_line_8: 'pyramid
 
   urban
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'pyramid
   broken
 
   much'
-bip_39_word_new_line9: 'pyramid
+bip_39_word_new_line_9: 'pyramid
 
   urban
 

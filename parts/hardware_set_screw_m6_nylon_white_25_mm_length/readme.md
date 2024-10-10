@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | expire |  
-| bip_39_word_new_br10 | expire<br>snap<br>trade<br>this<br>leaf<br>tunnel<br>canoe<br>stand<br>hope<br>diamond |  
-| bip_39_word_new_br11 | expire<br>snap<br>trade<br>this<br>leaf<br>tunnel<br>canoe<br>stand<br>hope<br>diamond<br>frost |  
-| bip_39_word_new_br12 | expire<br>snap<br>trade<br>this<br>leaf<br>tunnel<br>canoe<br>stand<br>hope<br>diamond<br>frost<br>allow |  
-| bip_39_word_new_br2 | expire<br>snap |  
-| bip_39_word_new_br3 | expire<br>snap<br>trade |  
-| bip_39_word_new_br4 | expire<br>snap<br>trade<br>this |  
-| bip_39_word_new_br5 | expire<br>snap<br>trade<br>this<br>leaf |  
-| bip_39_word_new_br6 | expire<br>snap<br>trade<br>this<br>leaf<br>tunnel |  
-| bip_39_word_new_br7 | expire<br>snap<br>trade<br>this<br>leaf<br>tunnel<br>canoe |  
-| bip_39_word_new_br8 | expire<br>snap<br>trade<br>this<br>leaf<br>tunnel<br>canoe<br>stand |  
-| bip_39_word_new_br9 | expire<br>snap<br>trade<br>this<br>leaf<br>tunnel<br>canoe<br>stand<br>hope |  
-| bip_39_word_new_line1 | expire |  
-| bip_39_word_new_line10 | expire
+| bip_39_word_new_br_1 | expire |  
+| bip_39_word_new_br_10 | expire<br>snap<br>trade<br>this<br>leaf<br>tunnel<br>canoe<br>stand<br>hope<br>diamond |  
+| bip_39_word_new_br_11 | expire<br>snap<br>trade<br>this<br>leaf<br>tunnel<br>canoe<br>stand<br>hope<br>diamond<br>frost |  
+| bip_39_word_new_br_12 | expire<br>snap<br>trade<br>this<br>leaf<br>tunnel<br>canoe<br>stand<br>hope<br>diamond<br>frost<br>allow |  
+| bip_39_word_new_br_2 | expire<br>snap |  
+| bip_39_word_new_br_3 | expire<br>snap<br>trade |  
+| bip_39_word_new_br_4 | expire<br>snap<br>trade<br>this |  
+| bip_39_word_new_br_5 | expire<br>snap<br>trade<br>this<br>leaf |  
+| bip_39_word_new_br_6 | expire<br>snap<br>trade<br>this<br>leaf<br>tunnel |  
+| bip_39_word_new_br_7 | expire<br>snap<br>trade<br>this<br>leaf<br>tunnel<br>canoe |  
+| bip_39_word_new_br_8 | expire<br>snap<br>trade<br>this<br>leaf<br>tunnel<br>canoe<br>stand |  
+| bip_39_word_new_br_9 | expire<br>snap<br>trade<br>this<br>leaf<br>tunnel<br>canoe<br>stand<br>hope |  
+| bip_39_word_new_line_1 | expire |  
+| bip_39_word_new_line_10 | expire
 snap
 trade
 this
@@ -55,7 +55,7 @@ canoe
 stand
 hope
 diamond |  
-| bip_39_word_new_line11 | expire
+| bip_39_word_new_line_11 | expire
 snap
 trade
 this
@@ -66,7 +66,7 @@ stand
 hope
 diamond
 frost |  
-| bip_39_word_new_line12 | expire
+| bip_39_word_new_line_12 | expire
 snap
 trade
 this
@@ -78,34 +78,34 @@ hope
 diamond
 frost
 allow |  
-| bip_39_word_new_line2 | expire
+| bip_39_word_new_line_2 | expire
 snap |  
-| bip_39_word_new_line3 | expire
+| bip_39_word_new_line_3 | expire
 snap
 trade |  
-| bip_39_word_new_line4 | expire
+| bip_39_word_new_line_4 | expire
 snap
 trade
 this |  
-| bip_39_word_new_line5 | expire
+| bip_39_word_new_line_5 | expire
 snap
 trade
 this
 leaf |  
-| bip_39_word_new_line6 | expire
+| bip_39_word_new_line_6 | expire
 snap
 trade
 this
 leaf
 tunnel |  
-| bip_39_word_new_line7 | expire
+| bip_39_word_new_line_7 | expire
 snap
 trade
 this
 leaf
 tunnel
 canoe |  
-| bip_39_word_new_line8 | expire
+| bip_39_word_new_line_8 | expire
 snap
 trade
 this
@@ -113,7 +113,7 @@ leaf
 tunnel
 canoe
 stand |  
-| bip_39_word_new_line9 | expire
+| bip_39_word_new_line_9 | expire
 snap
 trade
 this

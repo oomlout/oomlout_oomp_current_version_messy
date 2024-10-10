@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | shoot |  
-| bip_39_word_new_br10 | shoot<br>shuffle<br>effort<br>allow<br>until<br>pizza<br>illness<br>swim<br>better<br>cancel |  
-| bip_39_word_new_br11 | shoot<br>shuffle<br>effort<br>allow<br>until<br>pizza<br>illness<br>swim<br>better<br>cancel<br>grit |  
-| bip_39_word_new_br12 | shoot<br>shuffle<br>effort<br>allow<br>until<br>pizza<br>illness<br>swim<br>better<br>cancel<br>grit<br>affair |  
-| bip_39_word_new_br2 | shoot<br>shuffle |  
-| bip_39_word_new_br3 | shoot<br>shuffle<br>effort |  
-| bip_39_word_new_br4 | shoot<br>shuffle<br>effort<br>allow |  
-| bip_39_word_new_br5 | shoot<br>shuffle<br>effort<br>allow<br>until |  
-| bip_39_word_new_br6 | shoot<br>shuffle<br>effort<br>allow<br>until<br>pizza |  
-| bip_39_word_new_br7 | shoot<br>shuffle<br>effort<br>allow<br>until<br>pizza<br>illness |  
-| bip_39_word_new_br8 | shoot<br>shuffle<br>effort<br>allow<br>until<br>pizza<br>illness<br>swim |  
-| bip_39_word_new_br9 | shoot<br>shuffle<br>effort<br>allow<br>until<br>pizza<br>illness<br>swim<br>better |  
-| bip_39_word_new_line1 | shoot |  
-| bip_39_word_new_line10 | shoot
+| bip_39_word_new_br_1 | shoot |  
+| bip_39_word_new_br_10 | shoot<br>shuffle<br>effort<br>allow<br>until<br>pizza<br>illness<br>swim<br>better<br>cancel |  
+| bip_39_word_new_br_11 | shoot<br>shuffle<br>effort<br>allow<br>until<br>pizza<br>illness<br>swim<br>better<br>cancel<br>grit |  
+| bip_39_word_new_br_12 | shoot<br>shuffle<br>effort<br>allow<br>until<br>pizza<br>illness<br>swim<br>better<br>cancel<br>grit<br>affair |  
+| bip_39_word_new_br_2 | shoot<br>shuffle |  
+| bip_39_word_new_br_3 | shoot<br>shuffle<br>effort |  
+| bip_39_word_new_br_4 | shoot<br>shuffle<br>effort<br>allow |  
+| bip_39_word_new_br_5 | shoot<br>shuffle<br>effort<br>allow<br>until |  
+| bip_39_word_new_br_6 | shoot<br>shuffle<br>effort<br>allow<br>until<br>pizza |  
+| bip_39_word_new_br_7 | shoot<br>shuffle<br>effort<br>allow<br>until<br>pizza<br>illness |  
+| bip_39_word_new_br_8 | shoot<br>shuffle<br>effort<br>allow<br>until<br>pizza<br>illness<br>swim |  
+| bip_39_word_new_br_9 | shoot<br>shuffle<br>effort<br>allow<br>until<br>pizza<br>illness<br>swim<br>better |  
+| bip_39_word_new_line_1 | shoot |  
+| bip_39_word_new_line_10 | shoot
 shuffle
 effort
 allow
@@ -55,7 +55,7 @@ illness
 swim
 better
 cancel |  
-| bip_39_word_new_line11 | shoot
+| bip_39_word_new_line_11 | shoot
 shuffle
 effort
 allow
@@ -66,7 +66,7 @@ swim
 better
 cancel
 grit |  
-| bip_39_word_new_line12 | shoot
+| bip_39_word_new_line_12 | shoot
 shuffle
 effort
 allow
@@ -78,34 +78,34 @@ better
 cancel
 grit
 affair |  
-| bip_39_word_new_line2 | shoot
+| bip_39_word_new_line_2 | shoot
 shuffle |  
-| bip_39_word_new_line3 | shoot
+| bip_39_word_new_line_3 | shoot
 shuffle
 effort |  
-| bip_39_word_new_line4 | shoot
+| bip_39_word_new_line_4 | shoot
 shuffle
 effort
 allow |  
-| bip_39_word_new_line5 | shoot
+| bip_39_word_new_line_5 | shoot
 shuffle
 effort
 allow
 until |  
-| bip_39_word_new_line6 | shoot
+| bip_39_word_new_line_6 | shoot
 shuffle
 effort
 allow
 until
 pizza |  
-| bip_39_word_new_line7 | shoot
+| bip_39_word_new_line_7 | shoot
 shuffle
 effort
 allow
 until
 pizza
 illness |  
-| bip_39_word_new_line8 | shoot
+| bip_39_word_new_line_8 | shoot
 shuffle
 effort
 allow
@@ -113,7 +113,7 @@ until
 pizza
 illness
 swim |  
-| bip_39_word_new_line9 | shoot
+| bip_39_word_new_line_9 | shoot
 shuffle
 effort
 allow

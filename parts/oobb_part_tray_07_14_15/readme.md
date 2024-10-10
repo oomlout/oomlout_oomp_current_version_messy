@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | claw |  
-| bip_39_word_new_br10 | claw<br>arch<br>join<br>ocean<br>happy<br>spring<br>tragic<br>turkey<br>dash<br>cloth |  
-| bip_39_word_new_br11 | claw<br>arch<br>join<br>ocean<br>happy<br>spring<br>tragic<br>turkey<br>dash<br>cloth<br>party |  
-| bip_39_word_new_br12 | claw<br>arch<br>join<br>ocean<br>happy<br>spring<br>tragic<br>turkey<br>dash<br>cloth<br>party<br>arrow |  
-| bip_39_word_new_br2 | claw<br>arch |  
-| bip_39_word_new_br3 | claw<br>arch<br>join |  
-| bip_39_word_new_br4 | claw<br>arch<br>join<br>ocean |  
-| bip_39_word_new_br5 | claw<br>arch<br>join<br>ocean<br>happy |  
-| bip_39_word_new_br6 | claw<br>arch<br>join<br>ocean<br>happy<br>spring |  
-| bip_39_word_new_br7 | claw<br>arch<br>join<br>ocean<br>happy<br>spring<br>tragic |  
-| bip_39_word_new_br8 | claw<br>arch<br>join<br>ocean<br>happy<br>spring<br>tragic<br>turkey |  
-| bip_39_word_new_br9 | claw<br>arch<br>join<br>ocean<br>happy<br>spring<br>tragic<br>turkey<br>dash |  
-| bip_39_word_new_line1 | claw |  
-| bip_39_word_new_line10 | claw
+| bip_39_word_new_br_1 | claw |  
+| bip_39_word_new_br_10 | claw<br>arch<br>join<br>ocean<br>happy<br>spring<br>tragic<br>turkey<br>dash<br>cloth |  
+| bip_39_word_new_br_11 | claw<br>arch<br>join<br>ocean<br>happy<br>spring<br>tragic<br>turkey<br>dash<br>cloth<br>party |  
+| bip_39_word_new_br_12 | claw<br>arch<br>join<br>ocean<br>happy<br>spring<br>tragic<br>turkey<br>dash<br>cloth<br>party<br>arrow |  
+| bip_39_word_new_br_2 | claw<br>arch |  
+| bip_39_word_new_br_3 | claw<br>arch<br>join |  
+| bip_39_word_new_br_4 | claw<br>arch<br>join<br>ocean |  
+| bip_39_word_new_br_5 | claw<br>arch<br>join<br>ocean<br>happy |  
+| bip_39_word_new_br_6 | claw<br>arch<br>join<br>ocean<br>happy<br>spring |  
+| bip_39_word_new_br_7 | claw<br>arch<br>join<br>ocean<br>happy<br>spring<br>tragic |  
+| bip_39_word_new_br_8 | claw<br>arch<br>join<br>ocean<br>happy<br>spring<br>tragic<br>turkey |  
+| bip_39_word_new_br_9 | claw<br>arch<br>join<br>ocean<br>happy<br>spring<br>tragic<br>turkey<br>dash |  
+| bip_39_word_new_line_1 | claw |  
+| bip_39_word_new_line_10 | claw
 arch
 join
 ocean
@@ -55,7 +55,7 @@ tragic
 turkey
 dash
 cloth |  
-| bip_39_word_new_line11 | claw
+| bip_39_word_new_line_11 | claw
 arch
 join
 ocean
@@ -66,7 +66,7 @@ turkey
 dash
 cloth
 party |  
-| bip_39_word_new_line12 | claw
+| bip_39_word_new_line_12 | claw
 arch
 join
 ocean
@@ -78,34 +78,34 @@ dash
 cloth
 party
 arrow |  
-| bip_39_word_new_line2 | claw
+| bip_39_word_new_line_2 | claw
 arch |  
-| bip_39_word_new_line3 | claw
+| bip_39_word_new_line_3 | claw
 arch
 join |  
-| bip_39_word_new_line4 | claw
+| bip_39_word_new_line_4 | claw
 arch
 join
 ocean |  
-| bip_39_word_new_line5 | claw
+| bip_39_word_new_line_5 | claw
 arch
 join
 ocean
 happy |  
-| bip_39_word_new_line6 | claw
+| bip_39_word_new_line_6 | claw
 arch
 join
 ocean
 happy
 spring |  
-| bip_39_word_new_line7 | claw
+| bip_39_word_new_line_7 | claw
 arch
 join
 ocean
 happy
 spring
 tragic |  
-| bip_39_word_new_line8 | claw
+| bip_39_word_new_line_8 | claw
 arch
 join
 ocean
@@ -113,7 +113,7 @@ happy
 spring
 tragic
 turkey |  
-| bip_39_word_new_line9 | claw
+| bip_39_word_new_line_9 | claw
 arch
 join
 ocean

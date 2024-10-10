@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | auto |  
-| bip_39_word_new_br10 | auto<br>loop<br>material<br>very<br>tuition<br>lunch<br>eye<br>layer<br>disorder<br>hello |  
-| bip_39_word_new_br11 | auto<br>loop<br>material<br>very<br>tuition<br>lunch<br>eye<br>layer<br>disorder<br>hello<br>please |  
-| bip_39_word_new_br12 | auto<br>loop<br>material<br>very<br>tuition<br>lunch<br>eye<br>layer<br>disorder<br>hello<br>please<br>alien |  
-| bip_39_word_new_br2 | auto<br>loop |  
-| bip_39_word_new_br3 | auto<br>loop<br>material |  
-| bip_39_word_new_br4 | auto<br>loop<br>material<br>very |  
-| bip_39_word_new_br5 | auto<br>loop<br>material<br>very<br>tuition |  
-| bip_39_word_new_br6 | auto<br>loop<br>material<br>very<br>tuition<br>lunch |  
-| bip_39_word_new_br7 | auto<br>loop<br>material<br>very<br>tuition<br>lunch<br>eye |  
-| bip_39_word_new_br8 | auto<br>loop<br>material<br>very<br>tuition<br>lunch<br>eye<br>layer |  
-| bip_39_word_new_br9 | auto<br>loop<br>material<br>very<br>tuition<br>lunch<br>eye<br>layer<br>disorder |  
-| bip_39_word_new_line1 | auto |  
-| bip_39_word_new_line10 | auto
+| bip_39_word_new_br_1 | auto |  
+| bip_39_word_new_br_10 | auto<br>loop<br>material<br>very<br>tuition<br>lunch<br>eye<br>layer<br>disorder<br>hello |  
+| bip_39_word_new_br_11 | auto<br>loop<br>material<br>very<br>tuition<br>lunch<br>eye<br>layer<br>disorder<br>hello<br>please |  
+| bip_39_word_new_br_12 | auto<br>loop<br>material<br>very<br>tuition<br>lunch<br>eye<br>layer<br>disorder<br>hello<br>please<br>alien |  
+| bip_39_word_new_br_2 | auto<br>loop |  
+| bip_39_word_new_br_3 | auto<br>loop<br>material |  
+| bip_39_word_new_br_4 | auto<br>loop<br>material<br>very |  
+| bip_39_word_new_br_5 | auto<br>loop<br>material<br>very<br>tuition |  
+| bip_39_word_new_br_6 | auto<br>loop<br>material<br>very<br>tuition<br>lunch |  
+| bip_39_word_new_br_7 | auto<br>loop<br>material<br>very<br>tuition<br>lunch<br>eye |  
+| bip_39_word_new_br_8 | auto<br>loop<br>material<br>very<br>tuition<br>lunch<br>eye<br>layer |  
+| bip_39_word_new_br_9 | auto<br>loop<br>material<br>very<br>tuition<br>lunch<br>eye<br>layer<br>disorder |  
+| bip_39_word_new_line_1 | auto |  
+| bip_39_word_new_line_10 | auto
 loop
 material
 very
@@ -55,7 +55,7 @@ eye
 layer
 disorder
 hello |  
-| bip_39_word_new_line11 | auto
+| bip_39_word_new_line_11 | auto
 loop
 material
 very
@@ -66,7 +66,7 @@ layer
 disorder
 hello
 please |  
-| bip_39_word_new_line12 | auto
+| bip_39_word_new_line_12 | auto
 loop
 material
 very
@@ -78,34 +78,34 @@ disorder
 hello
 please
 alien |  
-| bip_39_word_new_line2 | auto
+| bip_39_word_new_line_2 | auto
 loop |  
-| bip_39_word_new_line3 | auto
+| bip_39_word_new_line_3 | auto
 loop
 material |  
-| bip_39_word_new_line4 | auto
+| bip_39_word_new_line_4 | auto
 loop
 material
 very |  
-| bip_39_word_new_line5 | auto
+| bip_39_word_new_line_5 | auto
 loop
 material
 very
 tuition |  
-| bip_39_word_new_line6 | auto
+| bip_39_word_new_line_6 | auto
 loop
 material
 very
 tuition
 lunch |  
-| bip_39_word_new_line7 | auto
+| bip_39_word_new_line_7 | auto
 loop
 material
 very
 tuition
 lunch
 eye |  
-| bip_39_word_new_line8 | auto
+| bip_39_word_new_line_8 | auto
 loop
 material
 very
@@ -113,7 +113,7 @@ tuition
 lunch
 eye
 layer |  
-| bip_39_word_new_line9 | auto
+| bip_39_word_new_line_9 | auto
 loop
 material
 very

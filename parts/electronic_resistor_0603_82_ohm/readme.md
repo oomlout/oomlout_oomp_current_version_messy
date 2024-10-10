@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | evolve |  
-| bip_39_word_new_br10 | evolve<br>stand<br>evolve<br>recall<br>evidence<br>lift<br>jump<br>snap<br>robust<br>stomach |  
-| bip_39_word_new_br11 | evolve<br>stand<br>evolve<br>recall<br>evidence<br>lift<br>jump<br>snap<br>robust<br>stomach<br>concert |  
-| bip_39_word_new_br12 | evolve<br>stand<br>evolve<br>recall<br>evidence<br>lift<br>jump<br>snap<br>robust<br>stomach<br>concert<br>amused |  
-| bip_39_word_new_br2 | evolve<br>stand |  
-| bip_39_word_new_br3 | evolve<br>stand<br>evolve |  
-| bip_39_word_new_br4 | evolve<br>stand<br>evolve<br>recall |  
-| bip_39_word_new_br5 | evolve<br>stand<br>evolve<br>recall<br>evidence |  
-| bip_39_word_new_br6 | evolve<br>stand<br>evolve<br>recall<br>evidence<br>lift |  
-| bip_39_word_new_br7 | evolve<br>stand<br>evolve<br>recall<br>evidence<br>lift<br>jump |  
-| bip_39_word_new_br8 | evolve<br>stand<br>evolve<br>recall<br>evidence<br>lift<br>jump<br>snap |  
-| bip_39_word_new_br9 | evolve<br>stand<br>evolve<br>recall<br>evidence<br>lift<br>jump<br>snap<br>robust |  
-| bip_39_word_new_line1 | evolve |  
-| bip_39_word_new_line10 | evolve
+| bip_39_word_new_br_1 | evolve |  
+| bip_39_word_new_br_10 | evolve<br>stand<br>evolve<br>recall<br>evidence<br>lift<br>jump<br>snap<br>robust<br>stomach |  
+| bip_39_word_new_br_11 | evolve<br>stand<br>evolve<br>recall<br>evidence<br>lift<br>jump<br>snap<br>robust<br>stomach<br>concert |  
+| bip_39_word_new_br_12 | evolve<br>stand<br>evolve<br>recall<br>evidence<br>lift<br>jump<br>snap<br>robust<br>stomach<br>concert<br>amused |  
+| bip_39_word_new_br_2 | evolve<br>stand |  
+| bip_39_word_new_br_3 | evolve<br>stand<br>evolve |  
+| bip_39_word_new_br_4 | evolve<br>stand<br>evolve<br>recall |  
+| bip_39_word_new_br_5 | evolve<br>stand<br>evolve<br>recall<br>evidence |  
+| bip_39_word_new_br_6 | evolve<br>stand<br>evolve<br>recall<br>evidence<br>lift |  
+| bip_39_word_new_br_7 | evolve<br>stand<br>evolve<br>recall<br>evidence<br>lift<br>jump |  
+| bip_39_word_new_br_8 | evolve<br>stand<br>evolve<br>recall<br>evidence<br>lift<br>jump<br>snap |  
+| bip_39_word_new_br_9 | evolve<br>stand<br>evolve<br>recall<br>evidence<br>lift<br>jump<br>snap<br>robust |  
+| bip_39_word_new_line_1 | evolve |  
+| bip_39_word_new_line_10 | evolve
 stand
 evolve
 recall
@@ -55,7 +55,7 @@ jump
 snap
 robust
 stomach |  
-| bip_39_word_new_line11 | evolve
+| bip_39_word_new_line_11 | evolve
 stand
 evolve
 recall
@@ -66,7 +66,7 @@ snap
 robust
 stomach
 concert |  
-| bip_39_word_new_line12 | evolve
+| bip_39_word_new_line_12 | evolve
 stand
 evolve
 recall
@@ -78,34 +78,34 @@ robust
 stomach
 concert
 amused |  
-| bip_39_word_new_line2 | evolve
+| bip_39_word_new_line_2 | evolve
 stand |  
-| bip_39_word_new_line3 | evolve
+| bip_39_word_new_line_3 | evolve
 stand
 evolve |  
-| bip_39_word_new_line4 | evolve
+| bip_39_word_new_line_4 | evolve
 stand
 evolve
 recall |  
-| bip_39_word_new_line5 | evolve
+| bip_39_word_new_line_5 | evolve
 stand
 evolve
 recall
 evidence |  
-| bip_39_word_new_line6 | evolve
+| bip_39_word_new_line_6 | evolve
 stand
 evolve
 recall
 evidence
 lift |  
-| bip_39_word_new_line7 | evolve
+| bip_39_word_new_line_7 | evolve
 stand
 evolve
 recall
 evidence
 lift
 jump |  
-| bip_39_word_new_line8 | evolve
+| bip_39_word_new_line_8 | evolve
 stand
 evolve
 recall
@@ -113,7 +113,7 @@ evidence
 lift
 jump
 snap |  
-| bip_39_word_new_line9 | evolve
+| bip_39_word_new_line_9 | evolve
 stand
 evolve
 recall

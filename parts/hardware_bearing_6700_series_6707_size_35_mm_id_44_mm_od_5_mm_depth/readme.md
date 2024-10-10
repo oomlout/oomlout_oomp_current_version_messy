@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | razor |  
-| bip_39_word_new_br10 | razor<br>model<br>spike<br>style<br>abstract<br>alien<br>render<br>media<br>scrap<br>ritual |  
-| bip_39_word_new_br11 | razor<br>model<br>spike<br>style<br>abstract<br>alien<br>render<br>media<br>scrap<br>ritual<br>abstract |  
-| bip_39_word_new_br12 | razor<br>model<br>spike<br>style<br>abstract<br>alien<br>render<br>media<br>scrap<br>ritual<br>abstract<br>also |  
-| bip_39_word_new_br2 | razor<br>model |  
-| bip_39_word_new_br3 | razor<br>model<br>spike |  
-| bip_39_word_new_br4 | razor<br>model<br>spike<br>style |  
-| bip_39_word_new_br5 | razor<br>model<br>spike<br>style<br>abstract |  
-| bip_39_word_new_br6 | razor<br>model<br>spike<br>style<br>abstract<br>alien |  
-| bip_39_word_new_br7 | razor<br>model<br>spike<br>style<br>abstract<br>alien<br>render |  
-| bip_39_word_new_br8 | razor<br>model<br>spike<br>style<br>abstract<br>alien<br>render<br>media |  
-| bip_39_word_new_br9 | razor<br>model<br>spike<br>style<br>abstract<br>alien<br>render<br>media<br>scrap |  
-| bip_39_word_new_line1 | razor |  
-| bip_39_word_new_line10 | razor
+| bip_39_word_new_br_1 | razor |  
+| bip_39_word_new_br_10 | razor<br>model<br>spike<br>style<br>abstract<br>alien<br>render<br>media<br>scrap<br>ritual |  
+| bip_39_word_new_br_11 | razor<br>model<br>spike<br>style<br>abstract<br>alien<br>render<br>media<br>scrap<br>ritual<br>abstract |  
+| bip_39_word_new_br_12 | razor<br>model<br>spike<br>style<br>abstract<br>alien<br>render<br>media<br>scrap<br>ritual<br>abstract<br>also |  
+| bip_39_word_new_br_2 | razor<br>model |  
+| bip_39_word_new_br_3 | razor<br>model<br>spike |  
+| bip_39_word_new_br_4 | razor<br>model<br>spike<br>style |  
+| bip_39_word_new_br_5 | razor<br>model<br>spike<br>style<br>abstract |  
+| bip_39_word_new_br_6 | razor<br>model<br>spike<br>style<br>abstract<br>alien |  
+| bip_39_word_new_br_7 | razor<br>model<br>spike<br>style<br>abstract<br>alien<br>render |  
+| bip_39_word_new_br_8 | razor<br>model<br>spike<br>style<br>abstract<br>alien<br>render<br>media |  
+| bip_39_word_new_br_9 | razor<br>model<br>spike<br>style<br>abstract<br>alien<br>render<br>media<br>scrap |  
+| bip_39_word_new_line_1 | razor |  
+| bip_39_word_new_line_10 | razor
 model
 spike
 style
@@ -55,7 +55,7 @@ render
 media
 scrap
 ritual |  
-| bip_39_word_new_line11 | razor
+| bip_39_word_new_line_11 | razor
 model
 spike
 style
@@ -66,7 +66,7 @@ media
 scrap
 ritual
 abstract |  
-| bip_39_word_new_line12 | razor
+| bip_39_word_new_line_12 | razor
 model
 spike
 style
@@ -78,34 +78,34 @@ scrap
 ritual
 abstract
 also |  
-| bip_39_word_new_line2 | razor
+| bip_39_word_new_line_2 | razor
 model |  
-| bip_39_word_new_line3 | razor
+| bip_39_word_new_line_3 | razor
 model
 spike |  
-| bip_39_word_new_line4 | razor
+| bip_39_word_new_line_4 | razor
 model
 spike
 style |  
-| bip_39_word_new_line5 | razor
+| bip_39_word_new_line_5 | razor
 model
 spike
 style
 abstract |  
-| bip_39_word_new_line6 | razor
+| bip_39_word_new_line_6 | razor
 model
 spike
 style
 abstract
 alien |  
-| bip_39_word_new_line7 | razor
+| bip_39_word_new_line_7 | razor
 model
 spike
 style
 abstract
 alien
 render |  
-| bip_39_word_new_line8 | razor
+| bip_39_word_new_line_8 | razor
 model
 spike
 style
@@ -113,7 +113,7 @@ abstract
 alien
 render
 media |  
-| bip_39_word_new_line9 | razor
+| bip_39_word_new_line_9 | razor
 model
 spike
 style

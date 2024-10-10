@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dwarf |  
-| bip_39_word_new_br10 | dwarf<br>fragile<br>brush<br>ketchup<br>shoulder<br>wall<br>employ<br>flag<br>patch<br>dove |  
-| bip_39_word_new_br11 | dwarf<br>fragile<br>brush<br>ketchup<br>shoulder<br>wall<br>employ<br>flag<br>patch<br>dove<br>street |  
-| bip_39_word_new_br12 | dwarf<br>fragile<br>brush<br>ketchup<br>shoulder<br>wall<br>employ<br>flag<br>patch<br>dove<br>street<br>artist |  
-| bip_39_word_new_br2 | dwarf<br>fragile |  
-| bip_39_word_new_br3 | dwarf<br>fragile<br>brush |  
-| bip_39_word_new_br4 | dwarf<br>fragile<br>brush<br>ketchup |  
-| bip_39_word_new_br5 | dwarf<br>fragile<br>brush<br>ketchup<br>shoulder |  
-| bip_39_word_new_br6 | dwarf<br>fragile<br>brush<br>ketchup<br>shoulder<br>wall |  
-| bip_39_word_new_br7 | dwarf<br>fragile<br>brush<br>ketchup<br>shoulder<br>wall<br>employ |  
-| bip_39_word_new_br8 | dwarf<br>fragile<br>brush<br>ketchup<br>shoulder<br>wall<br>employ<br>flag |  
-| bip_39_word_new_br9 | dwarf<br>fragile<br>brush<br>ketchup<br>shoulder<br>wall<br>employ<br>flag<br>patch |  
-| bip_39_word_new_line1 | dwarf |  
-| bip_39_word_new_line10 | dwarf
+| bip_39_word_new_br_1 | dwarf |  
+| bip_39_word_new_br_10 | dwarf<br>fragile<br>brush<br>ketchup<br>shoulder<br>wall<br>employ<br>flag<br>patch<br>dove |  
+| bip_39_word_new_br_11 | dwarf<br>fragile<br>brush<br>ketchup<br>shoulder<br>wall<br>employ<br>flag<br>patch<br>dove<br>street |  
+| bip_39_word_new_br_12 | dwarf<br>fragile<br>brush<br>ketchup<br>shoulder<br>wall<br>employ<br>flag<br>patch<br>dove<br>street<br>artist |  
+| bip_39_word_new_br_2 | dwarf<br>fragile |  
+| bip_39_word_new_br_3 | dwarf<br>fragile<br>brush |  
+| bip_39_word_new_br_4 | dwarf<br>fragile<br>brush<br>ketchup |  
+| bip_39_word_new_br_5 | dwarf<br>fragile<br>brush<br>ketchup<br>shoulder |  
+| bip_39_word_new_br_6 | dwarf<br>fragile<br>brush<br>ketchup<br>shoulder<br>wall |  
+| bip_39_word_new_br_7 | dwarf<br>fragile<br>brush<br>ketchup<br>shoulder<br>wall<br>employ |  
+| bip_39_word_new_br_8 | dwarf<br>fragile<br>brush<br>ketchup<br>shoulder<br>wall<br>employ<br>flag |  
+| bip_39_word_new_br_9 | dwarf<br>fragile<br>brush<br>ketchup<br>shoulder<br>wall<br>employ<br>flag<br>patch |  
+| bip_39_word_new_line_1 | dwarf |  
+| bip_39_word_new_line_10 | dwarf
 fragile
 brush
 ketchup
@@ -55,7 +55,7 @@ employ
 flag
 patch
 dove |  
-| bip_39_word_new_line11 | dwarf
+| bip_39_word_new_line_11 | dwarf
 fragile
 brush
 ketchup
@@ -66,7 +66,7 @@ flag
 patch
 dove
 street |  
-| bip_39_word_new_line12 | dwarf
+| bip_39_word_new_line_12 | dwarf
 fragile
 brush
 ketchup
@@ -78,34 +78,34 @@ patch
 dove
 street
 artist |  
-| bip_39_word_new_line2 | dwarf
+| bip_39_word_new_line_2 | dwarf
 fragile |  
-| bip_39_word_new_line3 | dwarf
+| bip_39_word_new_line_3 | dwarf
 fragile
 brush |  
-| bip_39_word_new_line4 | dwarf
+| bip_39_word_new_line_4 | dwarf
 fragile
 brush
 ketchup |  
-| bip_39_word_new_line5 | dwarf
+| bip_39_word_new_line_5 | dwarf
 fragile
 brush
 ketchup
 shoulder |  
-| bip_39_word_new_line6 | dwarf
+| bip_39_word_new_line_6 | dwarf
 fragile
 brush
 ketchup
 shoulder
 wall |  
-| bip_39_word_new_line7 | dwarf
+| bip_39_word_new_line_7 | dwarf
 fragile
 brush
 ketchup
 shoulder
 wall
 employ |  
-| bip_39_word_new_line8 | dwarf
+| bip_39_word_new_line_8 | dwarf
 fragile
 brush
 ketchup
@@ -113,7 +113,7 @@ shoulder
 wall
 employ
 flag |  
-| bip_39_word_new_line9 | dwarf
+| bip_39_word_new_line_9 | dwarf
 fragile
 brush
 ketchup

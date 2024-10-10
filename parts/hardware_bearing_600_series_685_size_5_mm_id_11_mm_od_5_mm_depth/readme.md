@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | saddle |  
-| bip_39_word_new_br10 | saddle<br>gym<br>giraffe<br>edge<br>captain<br>comfort<br>opinion<br>amount<br>ghost<br>club |  
-| bip_39_word_new_br11 | saddle<br>gym<br>giraffe<br>edge<br>captain<br>comfort<br>opinion<br>amount<br>ghost<br>club<br>salad |  
-| bip_39_word_new_br12 | saddle<br>gym<br>giraffe<br>edge<br>captain<br>comfort<br>opinion<br>amount<br>ghost<br>club<br>salad<br>aunt |  
-| bip_39_word_new_br2 | saddle<br>gym |  
-| bip_39_word_new_br3 | saddle<br>gym<br>giraffe |  
-| bip_39_word_new_br4 | saddle<br>gym<br>giraffe<br>edge |  
-| bip_39_word_new_br5 | saddle<br>gym<br>giraffe<br>edge<br>captain |  
-| bip_39_word_new_br6 | saddle<br>gym<br>giraffe<br>edge<br>captain<br>comfort |  
-| bip_39_word_new_br7 | saddle<br>gym<br>giraffe<br>edge<br>captain<br>comfort<br>opinion |  
-| bip_39_word_new_br8 | saddle<br>gym<br>giraffe<br>edge<br>captain<br>comfort<br>opinion<br>amount |  
-| bip_39_word_new_br9 | saddle<br>gym<br>giraffe<br>edge<br>captain<br>comfort<br>opinion<br>amount<br>ghost |  
-| bip_39_word_new_line1 | saddle |  
-| bip_39_word_new_line10 | saddle
+| bip_39_word_new_br_1 | saddle |  
+| bip_39_word_new_br_10 | saddle<br>gym<br>giraffe<br>edge<br>captain<br>comfort<br>opinion<br>amount<br>ghost<br>club |  
+| bip_39_word_new_br_11 | saddle<br>gym<br>giraffe<br>edge<br>captain<br>comfort<br>opinion<br>amount<br>ghost<br>club<br>salad |  
+| bip_39_word_new_br_12 | saddle<br>gym<br>giraffe<br>edge<br>captain<br>comfort<br>opinion<br>amount<br>ghost<br>club<br>salad<br>aunt |  
+| bip_39_word_new_br_2 | saddle<br>gym |  
+| bip_39_word_new_br_3 | saddle<br>gym<br>giraffe |  
+| bip_39_word_new_br_4 | saddle<br>gym<br>giraffe<br>edge |  
+| bip_39_word_new_br_5 | saddle<br>gym<br>giraffe<br>edge<br>captain |  
+| bip_39_word_new_br_6 | saddle<br>gym<br>giraffe<br>edge<br>captain<br>comfort |  
+| bip_39_word_new_br_7 | saddle<br>gym<br>giraffe<br>edge<br>captain<br>comfort<br>opinion |  
+| bip_39_word_new_br_8 | saddle<br>gym<br>giraffe<br>edge<br>captain<br>comfort<br>opinion<br>amount |  
+| bip_39_word_new_br_9 | saddle<br>gym<br>giraffe<br>edge<br>captain<br>comfort<br>opinion<br>amount<br>ghost |  
+| bip_39_word_new_line_1 | saddle |  
+| bip_39_word_new_line_10 | saddle
 gym
 giraffe
 edge
@@ -55,7 +55,7 @@ opinion
 amount
 ghost
 club |  
-| bip_39_word_new_line11 | saddle
+| bip_39_word_new_line_11 | saddle
 gym
 giraffe
 edge
@@ -66,7 +66,7 @@ amount
 ghost
 club
 salad |  
-| bip_39_word_new_line12 | saddle
+| bip_39_word_new_line_12 | saddle
 gym
 giraffe
 edge
@@ -78,34 +78,34 @@ ghost
 club
 salad
 aunt |  
-| bip_39_word_new_line2 | saddle
+| bip_39_word_new_line_2 | saddle
 gym |  
-| bip_39_word_new_line3 | saddle
+| bip_39_word_new_line_3 | saddle
 gym
 giraffe |  
-| bip_39_word_new_line4 | saddle
+| bip_39_word_new_line_4 | saddle
 gym
 giraffe
 edge |  
-| bip_39_word_new_line5 | saddle
+| bip_39_word_new_line_5 | saddle
 gym
 giraffe
 edge
 captain |  
-| bip_39_word_new_line6 | saddle
+| bip_39_word_new_line_6 | saddle
 gym
 giraffe
 edge
 captain
 comfort |  
-| bip_39_word_new_line7 | saddle
+| bip_39_word_new_line_7 | saddle
 gym
 giraffe
 edge
 captain
 comfort
 opinion |  
-| bip_39_word_new_line8 | saddle
+| bip_39_word_new_line_8 | saddle
 gym
 giraffe
 edge
@@ -113,7 +113,7 @@ captain
 comfort
 opinion
 amount |  
-| bip_39_word_new_line9 | saddle
+| bip_39_word_new_line_9 | saddle
 gym
 giraffe
 edge

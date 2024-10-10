@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | obtain |  
-| bip_39_word_new_br10 | obtain<br>donor<br>truck<br>change<br>choice<br>acoustic<br>correct<br>second<br>option<br>canyon |  
-| bip_39_word_new_br11 | obtain<br>donor<br>truck<br>change<br>choice<br>acoustic<br>correct<br>second<br>option<br>canyon<br>asthma |  
-| bip_39_word_new_br12 | obtain<br>donor<br>truck<br>change<br>choice<br>acoustic<br>correct<br>second<br>option<br>canyon<br>asthma<br>age |  
-| bip_39_word_new_br2 | obtain<br>donor |  
-| bip_39_word_new_br3 | obtain<br>donor<br>truck |  
-| bip_39_word_new_br4 | obtain<br>donor<br>truck<br>change |  
-| bip_39_word_new_br5 | obtain<br>donor<br>truck<br>change<br>choice |  
-| bip_39_word_new_br6 | obtain<br>donor<br>truck<br>change<br>choice<br>acoustic |  
-| bip_39_word_new_br7 | obtain<br>donor<br>truck<br>change<br>choice<br>acoustic<br>correct |  
-| bip_39_word_new_br8 | obtain<br>donor<br>truck<br>change<br>choice<br>acoustic<br>correct<br>second |  
-| bip_39_word_new_br9 | obtain<br>donor<br>truck<br>change<br>choice<br>acoustic<br>correct<br>second<br>option |  
-| bip_39_word_new_line1 | obtain |  
-| bip_39_word_new_line10 | obtain
+| bip_39_word_new_br_1 | obtain |  
+| bip_39_word_new_br_10 | obtain<br>donor<br>truck<br>change<br>choice<br>acoustic<br>correct<br>second<br>option<br>canyon |  
+| bip_39_word_new_br_11 | obtain<br>donor<br>truck<br>change<br>choice<br>acoustic<br>correct<br>second<br>option<br>canyon<br>asthma |  
+| bip_39_word_new_br_12 | obtain<br>donor<br>truck<br>change<br>choice<br>acoustic<br>correct<br>second<br>option<br>canyon<br>asthma<br>age |  
+| bip_39_word_new_br_2 | obtain<br>donor |  
+| bip_39_word_new_br_3 | obtain<br>donor<br>truck |  
+| bip_39_word_new_br_4 | obtain<br>donor<br>truck<br>change |  
+| bip_39_word_new_br_5 | obtain<br>donor<br>truck<br>change<br>choice |  
+| bip_39_word_new_br_6 | obtain<br>donor<br>truck<br>change<br>choice<br>acoustic |  
+| bip_39_word_new_br_7 | obtain<br>donor<br>truck<br>change<br>choice<br>acoustic<br>correct |  
+| bip_39_word_new_br_8 | obtain<br>donor<br>truck<br>change<br>choice<br>acoustic<br>correct<br>second |  
+| bip_39_word_new_br_9 | obtain<br>donor<br>truck<br>change<br>choice<br>acoustic<br>correct<br>second<br>option |  
+| bip_39_word_new_line_1 | obtain |  
+| bip_39_word_new_line_10 | obtain
 donor
 truck
 change
@@ -55,7 +55,7 @@ correct
 second
 option
 canyon |  
-| bip_39_word_new_line11 | obtain
+| bip_39_word_new_line_11 | obtain
 donor
 truck
 change
@@ -66,7 +66,7 @@ second
 option
 canyon
 asthma |  
-| bip_39_word_new_line12 | obtain
+| bip_39_word_new_line_12 | obtain
 donor
 truck
 change
@@ -78,34 +78,34 @@ option
 canyon
 asthma
 age |  
-| bip_39_word_new_line2 | obtain
+| bip_39_word_new_line_2 | obtain
 donor |  
-| bip_39_word_new_line3 | obtain
+| bip_39_word_new_line_3 | obtain
 donor
 truck |  
-| bip_39_word_new_line4 | obtain
+| bip_39_word_new_line_4 | obtain
 donor
 truck
 change |  
-| bip_39_word_new_line5 | obtain
+| bip_39_word_new_line_5 | obtain
 donor
 truck
 change
 choice |  
-| bip_39_word_new_line6 | obtain
+| bip_39_word_new_line_6 | obtain
 donor
 truck
 change
 choice
 acoustic |  
-| bip_39_word_new_line7 | obtain
+| bip_39_word_new_line_7 | obtain
 donor
 truck
 change
 choice
 acoustic
 correct |  
-| bip_39_word_new_line8 | obtain
+| bip_39_word_new_line_8 | obtain
 donor
 truck
 change
@@ -113,7 +113,7 @@ choice
 acoustic
 correct
 second |  
-| bip_39_word_new_line9 | obtain
+| bip_39_word_new_line_9 | obtain
 donor
 truck
 change

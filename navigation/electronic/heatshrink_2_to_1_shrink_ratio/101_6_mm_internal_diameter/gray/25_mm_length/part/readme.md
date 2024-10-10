@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | transfer |  
-| bip_39_word_new_br10 | transfer<br>name<br>bargain<br>pole<br>helmet<br>volume<br>pilot<br>arrow<br>twist<br>strategy |  
-| bip_39_word_new_br11 | transfer<br>name<br>bargain<br>pole<br>helmet<br>volume<br>pilot<br>arrow<br>twist<br>strategy<br>before |  
-| bip_39_word_new_br12 | transfer<br>name<br>bargain<br>pole<br>helmet<br>volume<br>pilot<br>arrow<br>twist<br>strategy<br>before<br>amateur |  
-| bip_39_word_new_br2 | transfer<br>name |  
-| bip_39_word_new_br3 | transfer<br>name<br>bargain |  
-| bip_39_word_new_br4 | transfer<br>name<br>bargain<br>pole |  
-| bip_39_word_new_br5 | transfer<br>name<br>bargain<br>pole<br>helmet |  
-| bip_39_word_new_br6 | transfer<br>name<br>bargain<br>pole<br>helmet<br>volume |  
-| bip_39_word_new_br7 | transfer<br>name<br>bargain<br>pole<br>helmet<br>volume<br>pilot |  
-| bip_39_word_new_br8 | transfer<br>name<br>bargain<br>pole<br>helmet<br>volume<br>pilot<br>arrow |  
-| bip_39_word_new_br9 | transfer<br>name<br>bargain<br>pole<br>helmet<br>volume<br>pilot<br>arrow<br>twist |  
-| bip_39_word_new_line1 | transfer |  
-| bip_39_word_new_line10 | transfer
+| bip_39_word_new_br_1 | transfer |  
+| bip_39_word_new_br_10 | transfer<br>name<br>bargain<br>pole<br>helmet<br>volume<br>pilot<br>arrow<br>twist<br>strategy |  
+| bip_39_word_new_br_11 | transfer<br>name<br>bargain<br>pole<br>helmet<br>volume<br>pilot<br>arrow<br>twist<br>strategy<br>before |  
+| bip_39_word_new_br_12 | transfer<br>name<br>bargain<br>pole<br>helmet<br>volume<br>pilot<br>arrow<br>twist<br>strategy<br>before<br>amateur |  
+| bip_39_word_new_br_2 | transfer<br>name |  
+| bip_39_word_new_br_3 | transfer<br>name<br>bargain |  
+| bip_39_word_new_br_4 | transfer<br>name<br>bargain<br>pole |  
+| bip_39_word_new_br_5 | transfer<br>name<br>bargain<br>pole<br>helmet |  
+| bip_39_word_new_br_6 | transfer<br>name<br>bargain<br>pole<br>helmet<br>volume |  
+| bip_39_word_new_br_7 | transfer<br>name<br>bargain<br>pole<br>helmet<br>volume<br>pilot |  
+| bip_39_word_new_br_8 | transfer<br>name<br>bargain<br>pole<br>helmet<br>volume<br>pilot<br>arrow |  
+| bip_39_word_new_br_9 | transfer<br>name<br>bargain<br>pole<br>helmet<br>volume<br>pilot<br>arrow<br>twist |  
+| bip_39_word_new_line_1 | transfer |  
+| bip_39_word_new_line_10 | transfer
 name
 bargain
 pole
@@ -55,7 +55,7 @@ pilot
 arrow
 twist
 strategy |  
-| bip_39_word_new_line11 | transfer
+| bip_39_word_new_line_11 | transfer
 name
 bargain
 pole
@@ -66,7 +66,7 @@ arrow
 twist
 strategy
 before |  
-| bip_39_word_new_line12 | transfer
+| bip_39_word_new_line_12 | transfer
 name
 bargain
 pole
@@ -78,34 +78,34 @@ twist
 strategy
 before
 amateur |  
-| bip_39_word_new_line2 | transfer
+| bip_39_word_new_line_2 | transfer
 name |  
-| bip_39_word_new_line3 | transfer
+| bip_39_word_new_line_3 | transfer
 name
 bargain |  
-| bip_39_word_new_line4 | transfer
+| bip_39_word_new_line_4 | transfer
 name
 bargain
 pole |  
-| bip_39_word_new_line5 | transfer
+| bip_39_word_new_line_5 | transfer
 name
 bargain
 pole
 helmet |  
-| bip_39_word_new_line6 | transfer
+| bip_39_word_new_line_6 | transfer
 name
 bargain
 pole
 helmet
 volume |  
-| bip_39_word_new_line7 | transfer
+| bip_39_word_new_line_7 | transfer
 name
 bargain
 pole
 helmet
 volume
 pilot |  
-| bip_39_word_new_line8 | transfer
+| bip_39_word_new_line_8 | transfer
 name
 bargain
 pole
@@ -113,7 +113,7 @@ helmet
 volume
 pilot
 arrow |  
-| bip_39_word_new_line9 | transfer
+| bip_39_word_new_line_9 | transfer
 name
 bargain
 pole

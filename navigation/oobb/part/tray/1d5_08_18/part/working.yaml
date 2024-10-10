@@ -1,17 +1,17 @@
-bip_39_word_new_br1: believe
-bip_39_word_new_br10: believe<br>flee<br>primary<br>return<br>impact<br>rescue<br>group<br>extend<br>early<br>soldier
-bip_39_word_new_br11: believe<br>flee<br>primary<br>return<br>impact<br>rescue<br>group<br>extend<br>early<br>soldier<br>hope
-bip_39_word_new_br12: believe<br>flee<br>primary<br>return<br>impact<br>rescue<br>group<br>extend<br>early<br>soldier<br>hope<br>alcohol
-bip_39_word_new_br2: believe<br>flee
-bip_39_word_new_br3: believe<br>flee<br>primary
-bip_39_word_new_br4: believe<br>flee<br>primary<br>return
-bip_39_word_new_br5: believe<br>flee<br>primary<br>return<br>impact
-bip_39_word_new_br6: believe<br>flee<br>primary<br>return<br>impact<br>rescue
-bip_39_word_new_br7: believe<br>flee<br>primary<br>return<br>impact<br>rescue<br>group
-bip_39_word_new_br8: believe<br>flee<br>primary<br>return<br>impact<br>rescue<br>group<br>extend
-bip_39_word_new_br9: believe<br>flee<br>primary<br>return<br>impact<br>rescue<br>group<br>extend<br>early
-bip_39_word_new_line1: believe
-bip_39_word_new_line10: 'believe
+bip_39_word_new_br_1: believe
+bip_39_word_new_br_10: believe<br>flee<br>primary<br>return<br>impact<br>rescue<br>group<br>extend<br>early<br>soldier
+bip_39_word_new_br_11: believe<br>flee<br>primary<br>return<br>impact<br>rescue<br>group<br>extend<br>early<br>soldier<br>hope
+bip_39_word_new_br_12: believe<br>flee<br>primary<br>return<br>impact<br>rescue<br>group<br>extend<br>early<br>soldier<br>hope<br>alcohol
+bip_39_word_new_br_2: believe<br>flee
+bip_39_word_new_br_3: believe<br>flee<br>primary
+bip_39_word_new_br_4: believe<br>flee<br>primary<br>return
+bip_39_word_new_br_5: believe<br>flee<br>primary<br>return<br>impact
+bip_39_word_new_br_6: believe<br>flee<br>primary<br>return<br>impact<br>rescue
+bip_39_word_new_br_7: believe<br>flee<br>primary<br>return<br>impact<br>rescue<br>group
+bip_39_word_new_br_8: believe<br>flee<br>primary<br>return<br>impact<br>rescue<br>group<br>extend
+bip_39_word_new_br_9: believe<br>flee<br>primary<br>return<br>impact<br>rescue<br>group<br>extend<br>early
+bip_39_word_new_line_1: believe
+bip_39_word_new_line_10: 'believe
 
   flee
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'believe
   early
 
   soldier'
-bip_39_word_new_line11: 'believe
+bip_39_word_new_line_11: 'believe
 
   flee
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'believe
   soldier
 
   hope'
-bip_39_word_new_line12: 'believe
+bip_39_word_new_line_12: 'believe
 
   flee
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'believe
   hope
 
   alcohol'
-bip_39_word_new_line2: 'believe
+bip_39_word_new_line_2: 'believe
 
   flee'
-bip_39_word_new_line3: 'believe
+bip_39_word_new_line_3: 'believe
 
   flee
 
   primary'
-bip_39_word_new_line4: 'believe
+bip_39_word_new_line_4: 'believe
 
   flee
 
   primary
 
   return'
-bip_39_word_new_line5: 'believe
+bip_39_word_new_line_5: 'believe
 
   flee
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'believe
   return
 
   impact'
-bip_39_word_new_line6: 'believe
+bip_39_word_new_line_6: 'believe
 
   flee
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'believe
   impact
 
   rescue'
-bip_39_word_new_line7: 'believe
+bip_39_word_new_line_7: 'believe
 
   flee
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'believe
   rescue
 
   group'
-bip_39_word_new_line8: 'believe
+bip_39_word_new_line_8: 'believe
 
   flee
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'believe
   group
 
   extend'
-bip_39_word_new_line9: 'believe
+bip_39_word_new_line_9: 'believe
 
   flee
 

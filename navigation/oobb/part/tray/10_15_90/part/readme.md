@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | age |  
-| bip_39_word_new_br10 | age<br>slender<br>muffin<br>roof<br>stay<br>blue<br>topple<br>opinion<br>fault<br>hunt |  
-| bip_39_word_new_br11 | age<br>slender<br>muffin<br>roof<br>stay<br>blue<br>topple<br>opinion<br>fault<br>hunt<br>athlete |  
-| bip_39_word_new_br12 | age<br>slender<br>muffin<br>roof<br>stay<br>blue<br>topple<br>opinion<br>fault<br>hunt<br>athlete<br>alpha |  
-| bip_39_word_new_br2 | age<br>slender |  
-| bip_39_word_new_br3 | age<br>slender<br>muffin |  
-| bip_39_word_new_br4 | age<br>slender<br>muffin<br>roof |  
-| bip_39_word_new_br5 | age<br>slender<br>muffin<br>roof<br>stay |  
-| bip_39_word_new_br6 | age<br>slender<br>muffin<br>roof<br>stay<br>blue |  
-| bip_39_word_new_br7 | age<br>slender<br>muffin<br>roof<br>stay<br>blue<br>topple |  
-| bip_39_word_new_br8 | age<br>slender<br>muffin<br>roof<br>stay<br>blue<br>topple<br>opinion |  
-| bip_39_word_new_br9 | age<br>slender<br>muffin<br>roof<br>stay<br>blue<br>topple<br>opinion<br>fault |  
-| bip_39_word_new_line1 | age |  
-| bip_39_word_new_line10 | age
+| bip_39_word_new_br_1 | age |  
+| bip_39_word_new_br_10 | age<br>slender<br>muffin<br>roof<br>stay<br>blue<br>topple<br>opinion<br>fault<br>hunt |  
+| bip_39_word_new_br_11 | age<br>slender<br>muffin<br>roof<br>stay<br>blue<br>topple<br>opinion<br>fault<br>hunt<br>athlete |  
+| bip_39_word_new_br_12 | age<br>slender<br>muffin<br>roof<br>stay<br>blue<br>topple<br>opinion<br>fault<br>hunt<br>athlete<br>alpha |  
+| bip_39_word_new_br_2 | age<br>slender |  
+| bip_39_word_new_br_3 | age<br>slender<br>muffin |  
+| bip_39_word_new_br_4 | age<br>slender<br>muffin<br>roof |  
+| bip_39_word_new_br_5 | age<br>slender<br>muffin<br>roof<br>stay |  
+| bip_39_word_new_br_6 | age<br>slender<br>muffin<br>roof<br>stay<br>blue |  
+| bip_39_word_new_br_7 | age<br>slender<br>muffin<br>roof<br>stay<br>blue<br>topple |  
+| bip_39_word_new_br_8 | age<br>slender<br>muffin<br>roof<br>stay<br>blue<br>topple<br>opinion |  
+| bip_39_word_new_br_9 | age<br>slender<br>muffin<br>roof<br>stay<br>blue<br>topple<br>opinion<br>fault |  
+| bip_39_word_new_line_1 | age |  
+| bip_39_word_new_line_10 | age
 slender
 muffin
 roof
@@ -55,7 +55,7 @@ topple
 opinion
 fault
 hunt |  
-| bip_39_word_new_line11 | age
+| bip_39_word_new_line_11 | age
 slender
 muffin
 roof
@@ -66,7 +66,7 @@ opinion
 fault
 hunt
 athlete |  
-| bip_39_word_new_line12 | age
+| bip_39_word_new_line_12 | age
 slender
 muffin
 roof
@@ -78,34 +78,34 @@ fault
 hunt
 athlete
 alpha |  
-| bip_39_word_new_line2 | age
+| bip_39_word_new_line_2 | age
 slender |  
-| bip_39_word_new_line3 | age
+| bip_39_word_new_line_3 | age
 slender
 muffin |  
-| bip_39_word_new_line4 | age
+| bip_39_word_new_line_4 | age
 slender
 muffin
 roof |  
-| bip_39_word_new_line5 | age
+| bip_39_word_new_line_5 | age
 slender
 muffin
 roof
 stay |  
-| bip_39_word_new_line6 | age
+| bip_39_word_new_line_6 | age
 slender
 muffin
 roof
 stay
 blue |  
-| bip_39_word_new_line7 | age
+| bip_39_word_new_line_7 | age
 slender
 muffin
 roof
 stay
 blue
 topple |  
-| bip_39_word_new_line8 | age
+| bip_39_word_new_line_8 | age
 slender
 muffin
 roof
@@ -113,7 +113,7 @@ stay
 blue
 topple
 opinion |  
-| bip_39_word_new_line9 | age
+| bip_39_word_new_line_9 | age
 slender
 muffin
 roof

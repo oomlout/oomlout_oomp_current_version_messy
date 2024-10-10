@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | duck |  
-| bip_39_word_new_br10 | duck<br>canoe<br>next<br>gorilla<br>hidden<br>move<br>nominee<br>piano<br>gaze<br>buffalo |  
-| bip_39_word_new_br11 | duck<br>canoe<br>next<br>gorilla<br>hidden<br>move<br>nominee<br>piano<br>gaze<br>buffalo<br>control |  
-| bip_39_word_new_br12 | duck<br>canoe<br>next<br>gorilla<br>hidden<br>move<br>nominee<br>piano<br>gaze<br>buffalo<br>control<br>army |  
-| bip_39_word_new_br2 | duck<br>canoe |  
-| bip_39_word_new_br3 | duck<br>canoe<br>next |  
-| bip_39_word_new_br4 | duck<br>canoe<br>next<br>gorilla |  
-| bip_39_word_new_br5 | duck<br>canoe<br>next<br>gorilla<br>hidden |  
-| bip_39_word_new_br6 | duck<br>canoe<br>next<br>gorilla<br>hidden<br>move |  
-| bip_39_word_new_br7 | duck<br>canoe<br>next<br>gorilla<br>hidden<br>move<br>nominee |  
-| bip_39_word_new_br8 | duck<br>canoe<br>next<br>gorilla<br>hidden<br>move<br>nominee<br>piano |  
-| bip_39_word_new_br9 | duck<br>canoe<br>next<br>gorilla<br>hidden<br>move<br>nominee<br>piano<br>gaze |  
-| bip_39_word_new_line1 | duck |  
-| bip_39_word_new_line10 | duck
+| bip_39_word_new_br_1 | duck |  
+| bip_39_word_new_br_10 | duck<br>canoe<br>next<br>gorilla<br>hidden<br>move<br>nominee<br>piano<br>gaze<br>buffalo |  
+| bip_39_word_new_br_11 | duck<br>canoe<br>next<br>gorilla<br>hidden<br>move<br>nominee<br>piano<br>gaze<br>buffalo<br>control |  
+| bip_39_word_new_br_12 | duck<br>canoe<br>next<br>gorilla<br>hidden<br>move<br>nominee<br>piano<br>gaze<br>buffalo<br>control<br>army |  
+| bip_39_word_new_br_2 | duck<br>canoe |  
+| bip_39_word_new_br_3 | duck<br>canoe<br>next |  
+| bip_39_word_new_br_4 | duck<br>canoe<br>next<br>gorilla |  
+| bip_39_word_new_br_5 | duck<br>canoe<br>next<br>gorilla<br>hidden |  
+| bip_39_word_new_br_6 | duck<br>canoe<br>next<br>gorilla<br>hidden<br>move |  
+| bip_39_word_new_br_7 | duck<br>canoe<br>next<br>gorilla<br>hidden<br>move<br>nominee |  
+| bip_39_word_new_br_8 | duck<br>canoe<br>next<br>gorilla<br>hidden<br>move<br>nominee<br>piano |  
+| bip_39_word_new_br_9 | duck<br>canoe<br>next<br>gorilla<br>hidden<br>move<br>nominee<br>piano<br>gaze |  
+| bip_39_word_new_line_1 | duck |  
+| bip_39_word_new_line_10 | duck
 canoe
 next
 gorilla
@@ -55,7 +55,7 @@ nominee
 piano
 gaze
 buffalo |  
-| bip_39_word_new_line11 | duck
+| bip_39_word_new_line_11 | duck
 canoe
 next
 gorilla
@@ -66,7 +66,7 @@ piano
 gaze
 buffalo
 control |  
-| bip_39_word_new_line12 | duck
+| bip_39_word_new_line_12 | duck
 canoe
 next
 gorilla
@@ -78,34 +78,34 @@ gaze
 buffalo
 control
 army |  
-| bip_39_word_new_line2 | duck
+| bip_39_word_new_line_2 | duck
 canoe |  
-| bip_39_word_new_line3 | duck
+| bip_39_word_new_line_3 | duck
 canoe
 next |  
-| bip_39_word_new_line4 | duck
+| bip_39_word_new_line_4 | duck
 canoe
 next
 gorilla |  
-| bip_39_word_new_line5 | duck
+| bip_39_word_new_line_5 | duck
 canoe
 next
 gorilla
 hidden |  
-| bip_39_word_new_line6 | duck
+| bip_39_word_new_line_6 | duck
 canoe
 next
 gorilla
 hidden
 move |  
-| bip_39_word_new_line7 | duck
+| bip_39_word_new_line_7 | duck
 canoe
 next
 gorilla
 hidden
 move
 nominee |  
-| bip_39_word_new_line8 | duck
+| bip_39_word_new_line_8 | duck
 canoe
 next
 gorilla
@@ -113,7 +113,7 @@ hidden
 move
 nominee
 piano |  
-| bip_39_word_new_line9 | duck
+| bip_39_word_new_line_9 | duck
 canoe
 next
 gorilla

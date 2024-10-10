@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | inch |  
-| bip_39_word_new_br10 | inch<br>replace<br>sample<br>enter<br>require<br>scare<br>special<br>fish<br>swear<br>kitchen |  
-| bip_39_word_new_br11 | inch<br>replace<br>sample<br>enter<br>require<br>scare<br>special<br>fish<br>swear<br>kitchen<br>manual |  
-| bip_39_word_new_br12 | inch<br>replace<br>sample<br>enter<br>require<br>scare<br>special<br>fish<br>swear<br>kitchen<br>manual<br>advance |  
-| bip_39_word_new_br2 | inch<br>replace |  
-| bip_39_word_new_br3 | inch<br>replace<br>sample |  
-| bip_39_word_new_br4 | inch<br>replace<br>sample<br>enter |  
-| bip_39_word_new_br5 | inch<br>replace<br>sample<br>enter<br>require |  
-| bip_39_word_new_br6 | inch<br>replace<br>sample<br>enter<br>require<br>scare |  
-| bip_39_word_new_br7 | inch<br>replace<br>sample<br>enter<br>require<br>scare<br>special |  
-| bip_39_word_new_br8 | inch<br>replace<br>sample<br>enter<br>require<br>scare<br>special<br>fish |  
-| bip_39_word_new_br9 | inch<br>replace<br>sample<br>enter<br>require<br>scare<br>special<br>fish<br>swear |  
-| bip_39_word_new_line1 | inch |  
-| bip_39_word_new_line10 | inch
+| bip_39_word_new_br_1 | inch |  
+| bip_39_word_new_br_10 | inch<br>replace<br>sample<br>enter<br>require<br>scare<br>special<br>fish<br>swear<br>kitchen |  
+| bip_39_word_new_br_11 | inch<br>replace<br>sample<br>enter<br>require<br>scare<br>special<br>fish<br>swear<br>kitchen<br>manual |  
+| bip_39_word_new_br_12 | inch<br>replace<br>sample<br>enter<br>require<br>scare<br>special<br>fish<br>swear<br>kitchen<br>manual<br>advance |  
+| bip_39_word_new_br_2 | inch<br>replace |  
+| bip_39_word_new_br_3 | inch<br>replace<br>sample |  
+| bip_39_word_new_br_4 | inch<br>replace<br>sample<br>enter |  
+| bip_39_word_new_br_5 | inch<br>replace<br>sample<br>enter<br>require |  
+| bip_39_word_new_br_6 | inch<br>replace<br>sample<br>enter<br>require<br>scare |  
+| bip_39_word_new_br_7 | inch<br>replace<br>sample<br>enter<br>require<br>scare<br>special |  
+| bip_39_word_new_br_8 | inch<br>replace<br>sample<br>enter<br>require<br>scare<br>special<br>fish |  
+| bip_39_word_new_br_9 | inch<br>replace<br>sample<br>enter<br>require<br>scare<br>special<br>fish<br>swear |  
+| bip_39_word_new_line_1 | inch |  
+| bip_39_word_new_line_10 | inch
 replace
 sample
 enter
@@ -55,7 +55,7 @@ special
 fish
 swear
 kitchen |  
-| bip_39_word_new_line11 | inch
+| bip_39_word_new_line_11 | inch
 replace
 sample
 enter
@@ -66,7 +66,7 @@ fish
 swear
 kitchen
 manual |  
-| bip_39_word_new_line12 | inch
+| bip_39_word_new_line_12 | inch
 replace
 sample
 enter
@@ -78,34 +78,34 @@ swear
 kitchen
 manual
 advance |  
-| bip_39_word_new_line2 | inch
+| bip_39_word_new_line_2 | inch
 replace |  
-| bip_39_word_new_line3 | inch
+| bip_39_word_new_line_3 | inch
 replace
 sample |  
-| bip_39_word_new_line4 | inch
+| bip_39_word_new_line_4 | inch
 replace
 sample
 enter |  
-| bip_39_word_new_line5 | inch
+| bip_39_word_new_line_5 | inch
 replace
 sample
 enter
 require |  
-| bip_39_word_new_line6 | inch
+| bip_39_word_new_line_6 | inch
 replace
 sample
 enter
 require
 scare |  
-| bip_39_word_new_line7 | inch
+| bip_39_word_new_line_7 | inch
 replace
 sample
 enter
 require
 scare
 special |  
-| bip_39_word_new_line8 | inch
+| bip_39_word_new_line_8 | inch
 replace
 sample
 enter
@@ -113,7 +113,7 @@ require
 scare
 special
 fish |  
-| bip_39_word_new_line9 | inch
+| bip_39_word_new_line_9 | inch
 replace
 sample
 enter

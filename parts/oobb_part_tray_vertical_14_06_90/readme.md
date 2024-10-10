@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fatal |  
-| bip_39_word_new_br10 | fatal<br>change<br>ugly<br>cricket<br>differ<br>major<br>flight<br>slogan<br>help<br>mom |  
-| bip_39_word_new_br11 | fatal<br>change<br>ugly<br>cricket<br>differ<br>major<br>flight<br>slogan<br>help<br>mom<br>language |  
-| bip_39_word_new_br12 | fatal<br>change<br>ugly<br>cricket<br>differ<br>major<br>flight<br>slogan<br>help<br>mom<br>language<br>also |  
-| bip_39_word_new_br2 | fatal<br>change |  
-| bip_39_word_new_br3 | fatal<br>change<br>ugly |  
-| bip_39_word_new_br4 | fatal<br>change<br>ugly<br>cricket |  
-| bip_39_word_new_br5 | fatal<br>change<br>ugly<br>cricket<br>differ |  
-| bip_39_word_new_br6 | fatal<br>change<br>ugly<br>cricket<br>differ<br>major |  
-| bip_39_word_new_br7 | fatal<br>change<br>ugly<br>cricket<br>differ<br>major<br>flight |  
-| bip_39_word_new_br8 | fatal<br>change<br>ugly<br>cricket<br>differ<br>major<br>flight<br>slogan |  
-| bip_39_word_new_br9 | fatal<br>change<br>ugly<br>cricket<br>differ<br>major<br>flight<br>slogan<br>help |  
-| bip_39_word_new_line1 | fatal |  
-| bip_39_word_new_line10 | fatal
+| bip_39_word_new_br_1 | fatal |  
+| bip_39_word_new_br_10 | fatal<br>change<br>ugly<br>cricket<br>differ<br>major<br>flight<br>slogan<br>help<br>mom |  
+| bip_39_word_new_br_11 | fatal<br>change<br>ugly<br>cricket<br>differ<br>major<br>flight<br>slogan<br>help<br>mom<br>language |  
+| bip_39_word_new_br_12 | fatal<br>change<br>ugly<br>cricket<br>differ<br>major<br>flight<br>slogan<br>help<br>mom<br>language<br>also |  
+| bip_39_word_new_br_2 | fatal<br>change |  
+| bip_39_word_new_br_3 | fatal<br>change<br>ugly |  
+| bip_39_word_new_br_4 | fatal<br>change<br>ugly<br>cricket |  
+| bip_39_word_new_br_5 | fatal<br>change<br>ugly<br>cricket<br>differ |  
+| bip_39_word_new_br_6 | fatal<br>change<br>ugly<br>cricket<br>differ<br>major |  
+| bip_39_word_new_br_7 | fatal<br>change<br>ugly<br>cricket<br>differ<br>major<br>flight |  
+| bip_39_word_new_br_8 | fatal<br>change<br>ugly<br>cricket<br>differ<br>major<br>flight<br>slogan |  
+| bip_39_word_new_br_9 | fatal<br>change<br>ugly<br>cricket<br>differ<br>major<br>flight<br>slogan<br>help |  
+| bip_39_word_new_line_1 | fatal |  
+| bip_39_word_new_line_10 | fatal
 change
 ugly
 cricket
@@ -55,7 +55,7 @@ flight
 slogan
 help
 mom |  
-| bip_39_word_new_line11 | fatal
+| bip_39_word_new_line_11 | fatal
 change
 ugly
 cricket
@@ -66,7 +66,7 @@ slogan
 help
 mom
 language |  
-| bip_39_word_new_line12 | fatal
+| bip_39_word_new_line_12 | fatal
 change
 ugly
 cricket
@@ -78,34 +78,34 @@ help
 mom
 language
 also |  
-| bip_39_word_new_line2 | fatal
+| bip_39_word_new_line_2 | fatal
 change |  
-| bip_39_word_new_line3 | fatal
+| bip_39_word_new_line_3 | fatal
 change
 ugly |  
-| bip_39_word_new_line4 | fatal
+| bip_39_word_new_line_4 | fatal
 change
 ugly
 cricket |  
-| bip_39_word_new_line5 | fatal
+| bip_39_word_new_line_5 | fatal
 change
 ugly
 cricket
 differ |  
-| bip_39_word_new_line6 | fatal
+| bip_39_word_new_line_6 | fatal
 change
 ugly
 cricket
 differ
 major |  
-| bip_39_word_new_line7 | fatal
+| bip_39_word_new_line_7 | fatal
 change
 ugly
 cricket
 differ
 major
 flight |  
-| bip_39_word_new_line8 | fatal
+| bip_39_word_new_line_8 | fatal
 change
 ugly
 cricket
@@ -113,7 +113,7 @@ differ
 major
 flight
 slogan |  
-| bip_39_word_new_line9 | fatal
+| bip_39_word_new_line_9 | fatal
 change
 ugly
 cricket

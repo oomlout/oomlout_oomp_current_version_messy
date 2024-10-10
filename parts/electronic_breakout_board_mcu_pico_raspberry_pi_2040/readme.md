@@ -32,20 +32,20 @@ The official Raspberry Pi breakout for the 2040
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | section |  
-| bip_39_word_new_br10 | section<br>together<br>slam<br>sniff<br>tooth<br>suit<br>charge<br>helmet<br>salmon<br>welcome |  
-| bip_39_word_new_br11 | section<br>together<br>slam<br>sniff<br>tooth<br>suit<br>charge<br>helmet<br>salmon<br>welcome<br>team |  
-| bip_39_word_new_br12 | section<br>together<br>slam<br>sniff<br>tooth<br>suit<br>charge<br>helmet<br>salmon<br>welcome<br>team<br>assault |  
-| bip_39_word_new_br2 | section<br>together |  
-| bip_39_word_new_br3 | section<br>together<br>slam |  
-| bip_39_word_new_br4 | section<br>together<br>slam<br>sniff |  
-| bip_39_word_new_br5 | section<br>together<br>slam<br>sniff<br>tooth |  
-| bip_39_word_new_br6 | section<br>together<br>slam<br>sniff<br>tooth<br>suit |  
-| bip_39_word_new_br7 | section<br>together<br>slam<br>sniff<br>tooth<br>suit<br>charge |  
-| bip_39_word_new_br8 | section<br>together<br>slam<br>sniff<br>tooth<br>suit<br>charge<br>helmet |  
-| bip_39_word_new_br9 | section<br>together<br>slam<br>sniff<br>tooth<br>suit<br>charge<br>helmet<br>salmon |  
-| bip_39_word_new_line1 | section |  
-| bip_39_word_new_line10 | section
+| bip_39_word_new_br_1 | section |  
+| bip_39_word_new_br_10 | section<br>together<br>slam<br>sniff<br>tooth<br>suit<br>charge<br>helmet<br>salmon<br>welcome |  
+| bip_39_word_new_br_11 | section<br>together<br>slam<br>sniff<br>tooth<br>suit<br>charge<br>helmet<br>salmon<br>welcome<br>team |  
+| bip_39_word_new_br_12 | section<br>together<br>slam<br>sniff<br>tooth<br>suit<br>charge<br>helmet<br>salmon<br>welcome<br>team<br>assault |  
+| bip_39_word_new_br_2 | section<br>together |  
+| bip_39_word_new_br_3 | section<br>together<br>slam |  
+| bip_39_word_new_br_4 | section<br>together<br>slam<br>sniff |  
+| bip_39_word_new_br_5 | section<br>together<br>slam<br>sniff<br>tooth |  
+| bip_39_word_new_br_6 | section<br>together<br>slam<br>sniff<br>tooth<br>suit |  
+| bip_39_word_new_br_7 | section<br>together<br>slam<br>sniff<br>tooth<br>suit<br>charge |  
+| bip_39_word_new_br_8 | section<br>together<br>slam<br>sniff<br>tooth<br>suit<br>charge<br>helmet |  
+| bip_39_word_new_br_9 | section<br>together<br>slam<br>sniff<br>tooth<br>suit<br>charge<br>helmet<br>salmon |  
+| bip_39_word_new_line_1 | section |  
+| bip_39_word_new_line_10 | section
 together
 slam
 sniff
@@ -55,7 +55,7 @@ charge
 helmet
 salmon
 welcome |  
-| bip_39_word_new_line11 | section
+| bip_39_word_new_line_11 | section
 together
 slam
 sniff
@@ -66,7 +66,7 @@ helmet
 salmon
 welcome
 team |  
-| bip_39_word_new_line12 | section
+| bip_39_word_new_line_12 | section
 together
 slam
 sniff
@@ -78,34 +78,34 @@ salmon
 welcome
 team
 assault |  
-| bip_39_word_new_line2 | section
+| bip_39_word_new_line_2 | section
 together |  
-| bip_39_word_new_line3 | section
+| bip_39_word_new_line_3 | section
 together
 slam |  
-| bip_39_word_new_line4 | section
+| bip_39_word_new_line_4 | section
 together
 slam
 sniff |  
-| bip_39_word_new_line5 | section
+| bip_39_word_new_line_5 | section
 together
 slam
 sniff
 tooth |  
-| bip_39_word_new_line6 | section
+| bip_39_word_new_line_6 | section
 together
 slam
 sniff
 tooth
 suit |  
-| bip_39_word_new_line7 | section
+| bip_39_word_new_line_7 | section
 together
 slam
 sniff
 tooth
 suit
 charge |  
-| bip_39_word_new_line8 | section
+| bip_39_word_new_line_8 | section
 together
 slam
 sniff
@@ -113,7 +113,7 @@ tooth
 suit
 charge
 helmet |  
-| bip_39_word_new_line9 | section
+| bip_39_word_new_line_9 | section
 together
 slam
 sniff

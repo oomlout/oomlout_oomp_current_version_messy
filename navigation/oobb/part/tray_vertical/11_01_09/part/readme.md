@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fault |  
-| bip_39_word_new_br10 | fault<br>return<br>hard<br>blade<br>green<br>frog<br>torch<br>decide<br>couple<br>call |  
-| bip_39_word_new_br11 | fault<br>return<br>hard<br>blade<br>green<br>frog<br>torch<br>decide<br>couple<br>call<br>never |  
-| bip_39_word_new_br12 | fault<br>return<br>hard<br>blade<br>green<br>frog<br>torch<br>decide<br>couple<br>call<br>never<br>another |  
-| bip_39_word_new_br2 | fault<br>return |  
-| bip_39_word_new_br3 | fault<br>return<br>hard |  
-| bip_39_word_new_br4 | fault<br>return<br>hard<br>blade |  
-| bip_39_word_new_br5 | fault<br>return<br>hard<br>blade<br>green |  
-| bip_39_word_new_br6 | fault<br>return<br>hard<br>blade<br>green<br>frog |  
-| bip_39_word_new_br7 | fault<br>return<br>hard<br>blade<br>green<br>frog<br>torch |  
-| bip_39_word_new_br8 | fault<br>return<br>hard<br>blade<br>green<br>frog<br>torch<br>decide |  
-| bip_39_word_new_br9 | fault<br>return<br>hard<br>blade<br>green<br>frog<br>torch<br>decide<br>couple |  
-| bip_39_word_new_line1 | fault |  
-| bip_39_word_new_line10 | fault
+| bip_39_word_new_br_1 | fault |  
+| bip_39_word_new_br_10 | fault<br>return<br>hard<br>blade<br>green<br>frog<br>torch<br>decide<br>couple<br>call |  
+| bip_39_word_new_br_11 | fault<br>return<br>hard<br>blade<br>green<br>frog<br>torch<br>decide<br>couple<br>call<br>never |  
+| bip_39_word_new_br_12 | fault<br>return<br>hard<br>blade<br>green<br>frog<br>torch<br>decide<br>couple<br>call<br>never<br>another |  
+| bip_39_word_new_br_2 | fault<br>return |  
+| bip_39_word_new_br_3 | fault<br>return<br>hard |  
+| bip_39_word_new_br_4 | fault<br>return<br>hard<br>blade |  
+| bip_39_word_new_br_5 | fault<br>return<br>hard<br>blade<br>green |  
+| bip_39_word_new_br_6 | fault<br>return<br>hard<br>blade<br>green<br>frog |  
+| bip_39_word_new_br_7 | fault<br>return<br>hard<br>blade<br>green<br>frog<br>torch |  
+| bip_39_word_new_br_8 | fault<br>return<br>hard<br>blade<br>green<br>frog<br>torch<br>decide |  
+| bip_39_word_new_br_9 | fault<br>return<br>hard<br>blade<br>green<br>frog<br>torch<br>decide<br>couple |  
+| bip_39_word_new_line_1 | fault |  
+| bip_39_word_new_line_10 | fault
 return
 hard
 blade
@@ -55,7 +55,7 @@ torch
 decide
 couple
 call |  
-| bip_39_word_new_line11 | fault
+| bip_39_word_new_line_11 | fault
 return
 hard
 blade
@@ -66,7 +66,7 @@ decide
 couple
 call
 never |  
-| bip_39_word_new_line12 | fault
+| bip_39_word_new_line_12 | fault
 return
 hard
 blade
@@ -78,34 +78,34 @@ couple
 call
 never
 another |  
-| bip_39_word_new_line2 | fault
+| bip_39_word_new_line_2 | fault
 return |  
-| bip_39_word_new_line3 | fault
+| bip_39_word_new_line_3 | fault
 return
 hard |  
-| bip_39_word_new_line4 | fault
+| bip_39_word_new_line_4 | fault
 return
 hard
 blade |  
-| bip_39_word_new_line5 | fault
+| bip_39_word_new_line_5 | fault
 return
 hard
 blade
 green |  
-| bip_39_word_new_line6 | fault
+| bip_39_word_new_line_6 | fault
 return
 hard
 blade
 green
 frog |  
-| bip_39_word_new_line7 | fault
+| bip_39_word_new_line_7 | fault
 return
 hard
 blade
 green
 frog
 torch |  
-| bip_39_word_new_line8 | fault
+| bip_39_word_new_line_8 | fault
 return
 hard
 blade
@@ -113,7 +113,7 @@ green
 frog
 torch
 decide |  
-| bip_39_word_new_line9 | fault
+| bip_39_word_new_line_9 | fault
 return
 hard
 blade

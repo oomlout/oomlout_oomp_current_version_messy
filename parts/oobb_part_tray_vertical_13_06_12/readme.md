@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | visa |  
-| bip_39_word_new_br10 | visa<br>paddle<br>explain<br>ski<br>twin<br>actual<br>sense<br>void<br>dizzy<br>vicious |  
-| bip_39_word_new_br11 | visa<br>paddle<br>explain<br>ski<br>twin<br>actual<br>sense<br>void<br>dizzy<br>vicious<br>spider |  
-| bip_39_word_new_br12 | visa<br>paddle<br>explain<br>ski<br>twin<br>actual<br>sense<br>void<br>dizzy<br>vicious<br>spider<br>address |  
-| bip_39_word_new_br2 | visa<br>paddle |  
-| bip_39_word_new_br3 | visa<br>paddle<br>explain |  
-| bip_39_word_new_br4 | visa<br>paddle<br>explain<br>ski |  
-| bip_39_word_new_br5 | visa<br>paddle<br>explain<br>ski<br>twin |  
-| bip_39_word_new_br6 | visa<br>paddle<br>explain<br>ski<br>twin<br>actual |  
-| bip_39_word_new_br7 | visa<br>paddle<br>explain<br>ski<br>twin<br>actual<br>sense |  
-| bip_39_word_new_br8 | visa<br>paddle<br>explain<br>ski<br>twin<br>actual<br>sense<br>void |  
-| bip_39_word_new_br9 | visa<br>paddle<br>explain<br>ski<br>twin<br>actual<br>sense<br>void<br>dizzy |  
-| bip_39_word_new_line1 | visa |  
-| bip_39_word_new_line10 | visa
+| bip_39_word_new_br_1 | visa |  
+| bip_39_word_new_br_10 | visa<br>paddle<br>explain<br>ski<br>twin<br>actual<br>sense<br>void<br>dizzy<br>vicious |  
+| bip_39_word_new_br_11 | visa<br>paddle<br>explain<br>ski<br>twin<br>actual<br>sense<br>void<br>dizzy<br>vicious<br>spider |  
+| bip_39_word_new_br_12 | visa<br>paddle<br>explain<br>ski<br>twin<br>actual<br>sense<br>void<br>dizzy<br>vicious<br>spider<br>address |  
+| bip_39_word_new_br_2 | visa<br>paddle |  
+| bip_39_word_new_br_3 | visa<br>paddle<br>explain |  
+| bip_39_word_new_br_4 | visa<br>paddle<br>explain<br>ski |  
+| bip_39_word_new_br_5 | visa<br>paddle<br>explain<br>ski<br>twin |  
+| bip_39_word_new_br_6 | visa<br>paddle<br>explain<br>ski<br>twin<br>actual |  
+| bip_39_word_new_br_7 | visa<br>paddle<br>explain<br>ski<br>twin<br>actual<br>sense |  
+| bip_39_word_new_br_8 | visa<br>paddle<br>explain<br>ski<br>twin<br>actual<br>sense<br>void |  
+| bip_39_word_new_br_9 | visa<br>paddle<br>explain<br>ski<br>twin<br>actual<br>sense<br>void<br>dizzy |  
+| bip_39_word_new_line_1 | visa |  
+| bip_39_word_new_line_10 | visa
 paddle
 explain
 ski
@@ -55,7 +55,7 @@ sense
 void
 dizzy
 vicious |  
-| bip_39_word_new_line11 | visa
+| bip_39_word_new_line_11 | visa
 paddle
 explain
 ski
@@ -66,7 +66,7 @@ void
 dizzy
 vicious
 spider |  
-| bip_39_word_new_line12 | visa
+| bip_39_word_new_line_12 | visa
 paddle
 explain
 ski
@@ -78,34 +78,34 @@ dizzy
 vicious
 spider
 address |  
-| bip_39_word_new_line2 | visa
+| bip_39_word_new_line_2 | visa
 paddle |  
-| bip_39_word_new_line3 | visa
+| bip_39_word_new_line_3 | visa
 paddle
 explain |  
-| bip_39_word_new_line4 | visa
+| bip_39_word_new_line_4 | visa
 paddle
 explain
 ski |  
-| bip_39_word_new_line5 | visa
+| bip_39_word_new_line_5 | visa
 paddle
 explain
 ski
 twin |  
-| bip_39_word_new_line6 | visa
+| bip_39_word_new_line_6 | visa
 paddle
 explain
 ski
 twin
 actual |  
-| bip_39_word_new_line7 | visa
+| bip_39_word_new_line_7 | visa
 paddle
 explain
 ski
 twin
 actual
 sense |  
-| bip_39_word_new_line8 | visa
+| bip_39_word_new_line_8 | visa
 paddle
 explain
 ski
@@ -113,7 +113,7 @@ twin
 actual
 sense
 void |  
-| bip_39_word_new_line9 | visa
+| bip_39_word_new_line_9 | visa
 paddle
 explain
 ski

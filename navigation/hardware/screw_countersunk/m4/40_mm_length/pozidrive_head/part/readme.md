@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | remove |  
-| bip_39_word_new_br10 | remove<br>verify<br>thunder<br>salute<br>desert<br>armor<br>cabin<br>shop<br>can<br>bird |  
-| bip_39_word_new_br11 | remove<br>verify<br>thunder<br>salute<br>desert<br>armor<br>cabin<br>shop<br>can<br>bird<br>tunnel |  
-| bip_39_word_new_br12 | remove<br>verify<br>thunder<br>salute<br>desert<br>armor<br>cabin<br>shop<br>can<br>bird<br>tunnel<br>add |  
-| bip_39_word_new_br2 | remove<br>verify |  
-| bip_39_word_new_br3 | remove<br>verify<br>thunder |  
-| bip_39_word_new_br4 | remove<br>verify<br>thunder<br>salute |  
-| bip_39_word_new_br5 | remove<br>verify<br>thunder<br>salute<br>desert |  
-| bip_39_word_new_br6 | remove<br>verify<br>thunder<br>salute<br>desert<br>armor |  
-| bip_39_word_new_br7 | remove<br>verify<br>thunder<br>salute<br>desert<br>armor<br>cabin |  
-| bip_39_word_new_br8 | remove<br>verify<br>thunder<br>salute<br>desert<br>armor<br>cabin<br>shop |  
-| bip_39_word_new_br9 | remove<br>verify<br>thunder<br>salute<br>desert<br>armor<br>cabin<br>shop<br>can |  
-| bip_39_word_new_line1 | remove |  
-| bip_39_word_new_line10 | remove
+| bip_39_word_new_br_1 | remove |  
+| bip_39_word_new_br_10 | remove<br>verify<br>thunder<br>salute<br>desert<br>armor<br>cabin<br>shop<br>can<br>bird |  
+| bip_39_word_new_br_11 | remove<br>verify<br>thunder<br>salute<br>desert<br>armor<br>cabin<br>shop<br>can<br>bird<br>tunnel |  
+| bip_39_word_new_br_12 | remove<br>verify<br>thunder<br>salute<br>desert<br>armor<br>cabin<br>shop<br>can<br>bird<br>tunnel<br>add |  
+| bip_39_word_new_br_2 | remove<br>verify |  
+| bip_39_word_new_br_3 | remove<br>verify<br>thunder |  
+| bip_39_word_new_br_4 | remove<br>verify<br>thunder<br>salute |  
+| bip_39_word_new_br_5 | remove<br>verify<br>thunder<br>salute<br>desert |  
+| bip_39_word_new_br_6 | remove<br>verify<br>thunder<br>salute<br>desert<br>armor |  
+| bip_39_word_new_br_7 | remove<br>verify<br>thunder<br>salute<br>desert<br>armor<br>cabin |  
+| bip_39_word_new_br_8 | remove<br>verify<br>thunder<br>salute<br>desert<br>armor<br>cabin<br>shop |  
+| bip_39_word_new_br_9 | remove<br>verify<br>thunder<br>salute<br>desert<br>armor<br>cabin<br>shop<br>can |  
+| bip_39_word_new_line_1 | remove |  
+| bip_39_word_new_line_10 | remove
 verify
 thunder
 salute
@@ -55,7 +55,7 @@ cabin
 shop
 can
 bird |  
-| bip_39_word_new_line11 | remove
+| bip_39_word_new_line_11 | remove
 verify
 thunder
 salute
@@ -66,7 +66,7 @@ shop
 can
 bird
 tunnel |  
-| bip_39_word_new_line12 | remove
+| bip_39_word_new_line_12 | remove
 verify
 thunder
 salute
@@ -78,34 +78,34 @@ can
 bird
 tunnel
 add |  
-| bip_39_word_new_line2 | remove
+| bip_39_word_new_line_2 | remove
 verify |  
-| bip_39_word_new_line3 | remove
+| bip_39_word_new_line_3 | remove
 verify
 thunder |  
-| bip_39_word_new_line4 | remove
+| bip_39_word_new_line_4 | remove
 verify
 thunder
 salute |  
-| bip_39_word_new_line5 | remove
+| bip_39_word_new_line_5 | remove
 verify
 thunder
 salute
 desert |  
-| bip_39_word_new_line6 | remove
+| bip_39_word_new_line_6 | remove
 verify
 thunder
 salute
 desert
 armor |  
-| bip_39_word_new_line7 | remove
+| bip_39_word_new_line_7 | remove
 verify
 thunder
 salute
 desert
 armor
 cabin |  
-| bip_39_word_new_line8 | remove
+| bip_39_word_new_line_8 | remove
 verify
 thunder
 salute
@@ -113,7 +113,7 @@ desert
 armor
 cabin
 shop |  
-| bip_39_word_new_line9 | remove
+| bip_39_word_new_line_9 | remove
 verify
 thunder
 salute

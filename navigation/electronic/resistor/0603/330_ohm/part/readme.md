@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | apart |  
-| bip_39_word_new_br10 | apart<br>ridge<br>melt<br>boost<br>pet<br>one<br>sing<br>faculty<br>clinic<br>exercise |  
-| bip_39_word_new_br11 | apart<br>ridge<br>melt<br>boost<br>pet<br>one<br>sing<br>faculty<br>clinic<br>exercise<br>fan |  
-| bip_39_word_new_br12 | apart<br>ridge<br>melt<br>boost<br>pet<br>one<br>sing<br>faculty<br>clinic<br>exercise<br>fan<br>alarm |  
-| bip_39_word_new_br2 | apart<br>ridge |  
-| bip_39_word_new_br3 | apart<br>ridge<br>melt |  
-| bip_39_word_new_br4 | apart<br>ridge<br>melt<br>boost |  
-| bip_39_word_new_br5 | apart<br>ridge<br>melt<br>boost<br>pet |  
-| bip_39_word_new_br6 | apart<br>ridge<br>melt<br>boost<br>pet<br>one |  
-| bip_39_word_new_br7 | apart<br>ridge<br>melt<br>boost<br>pet<br>one<br>sing |  
-| bip_39_word_new_br8 | apart<br>ridge<br>melt<br>boost<br>pet<br>one<br>sing<br>faculty |  
-| bip_39_word_new_br9 | apart<br>ridge<br>melt<br>boost<br>pet<br>one<br>sing<br>faculty<br>clinic |  
-| bip_39_word_new_line1 | apart |  
-| bip_39_word_new_line10 | apart
+| bip_39_word_new_br_1 | apart |  
+| bip_39_word_new_br_10 | apart<br>ridge<br>melt<br>boost<br>pet<br>one<br>sing<br>faculty<br>clinic<br>exercise |  
+| bip_39_word_new_br_11 | apart<br>ridge<br>melt<br>boost<br>pet<br>one<br>sing<br>faculty<br>clinic<br>exercise<br>fan |  
+| bip_39_word_new_br_12 | apart<br>ridge<br>melt<br>boost<br>pet<br>one<br>sing<br>faculty<br>clinic<br>exercise<br>fan<br>alarm |  
+| bip_39_word_new_br_2 | apart<br>ridge |  
+| bip_39_word_new_br_3 | apart<br>ridge<br>melt |  
+| bip_39_word_new_br_4 | apart<br>ridge<br>melt<br>boost |  
+| bip_39_word_new_br_5 | apart<br>ridge<br>melt<br>boost<br>pet |  
+| bip_39_word_new_br_6 | apart<br>ridge<br>melt<br>boost<br>pet<br>one |  
+| bip_39_word_new_br_7 | apart<br>ridge<br>melt<br>boost<br>pet<br>one<br>sing |  
+| bip_39_word_new_br_8 | apart<br>ridge<br>melt<br>boost<br>pet<br>one<br>sing<br>faculty |  
+| bip_39_word_new_br_9 | apart<br>ridge<br>melt<br>boost<br>pet<br>one<br>sing<br>faculty<br>clinic |  
+| bip_39_word_new_line_1 | apart |  
+| bip_39_word_new_line_10 | apart
 ridge
 melt
 boost
@@ -55,7 +55,7 @@ sing
 faculty
 clinic
 exercise |  
-| bip_39_word_new_line11 | apart
+| bip_39_word_new_line_11 | apart
 ridge
 melt
 boost
@@ -66,7 +66,7 @@ faculty
 clinic
 exercise
 fan |  
-| bip_39_word_new_line12 | apart
+| bip_39_word_new_line_12 | apart
 ridge
 melt
 boost
@@ -78,34 +78,34 @@ clinic
 exercise
 fan
 alarm |  
-| bip_39_word_new_line2 | apart
+| bip_39_word_new_line_2 | apart
 ridge |  
-| bip_39_word_new_line3 | apart
+| bip_39_word_new_line_3 | apart
 ridge
 melt |  
-| bip_39_word_new_line4 | apart
+| bip_39_word_new_line_4 | apart
 ridge
 melt
 boost |  
-| bip_39_word_new_line5 | apart
+| bip_39_word_new_line_5 | apart
 ridge
 melt
 boost
 pet |  
-| bip_39_word_new_line6 | apart
+| bip_39_word_new_line_6 | apart
 ridge
 melt
 boost
 pet
 one |  
-| bip_39_word_new_line7 | apart
+| bip_39_word_new_line_7 | apart
 ridge
 melt
 boost
 pet
 one
 sing |  
-| bip_39_word_new_line8 | apart
+| bip_39_word_new_line_8 | apart
 ridge
 melt
 boost
@@ -113,7 +113,7 @@ pet
 one
 sing
 faculty |  
-| bip_39_word_new_line9 | apart
+| bip_39_word_new_line_9 | apart
 ridge
 melt
 boost

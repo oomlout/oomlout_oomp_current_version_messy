@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | advice |  
-| bip_39_word_new_br10 | advice<br>capable<br>weapon<br>symptom<br>van<br>cat<br>nasty<br>tilt<br>federal<br>local |  
-| bip_39_word_new_br11 | advice<br>capable<br>weapon<br>symptom<br>van<br>cat<br>nasty<br>tilt<br>federal<br>local<br>fat |  
-| bip_39_word_new_br12 | advice<br>capable<br>weapon<br>symptom<br>van<br>cat<br>nasty<br>tilt<br>federal<br>local<br>fat<br>aim |  
-| bip_39_word_new_br2 | advice<br>capable |  
-| bip_39_word_new_br3 | advice<br>capable<br>weapon |  
-| bip_39_word_new_br4 | advice<br>capable<br>weapon<br>symptom |  
-| bip_39_word_new_br5 | advice<br>capable<br>weapon<br>symptom<br>van |  
-| bip_39_word_new_br6 | advice<br>capable<br>weapon<br>symptom<br>van<br>cat |  
-| bip_39_word_new_br7 | advice<br>capable<br>weapon<br>symptom<br>van<br>cat<br>nasty |  
-| bip_39_word_new_br8 | advice<br>capable<br>weapon<br>symptom<br>van<br>cat<br>nasty<br>tilt |  
-| bip_39_word_new_br9 | advice<br>capable<br>weapon<br>symptom<br>van<br>cat<br>nasty<br>tilt<br>federal |  
-| bip_39_word_new_line1 | advice |  
-| bip_39_word_new_line10 | advice
+| bip_39_word_new_br_1 | advice |  
+| bip_39_word_new_br_10 | advice<br>capable<br>weapon<br>symptom<br>van<br>cat<br>nasty<br>tilt<br>federal<br>local |  
+| bip_39_word_new_br_11 | advice<br>capable<br>weapon<br>symptom<br>van<br>cat<br>nasty<br>tilt<br>federal<br>local<br>fat |  
+| bip_39_word_new_br_12 | advice<br>capable<br>weapon<br>symptom<br>van<br>cat<br>nasty<br>tilt<br>federal<br>local<br>fat<br>aim |  
+| bip_39_word_new_br_2 | advice<br>capable |  
+| bip_39_word_new_br_3 | advice<br>capable<br>weapon |  
+| bip_39_word_new_br_4 | advice<br>capable<br>weapon<br>symptom |  
+| bip_39_word_new_br_5 | advice<br>capable<br>weapon<br>symptom<br>van |  
+| bip_39_word_new_br_6 | advice<br>capable<br>weapon<br>symptom<br>van<br>cat |  
+| bip_39_word_new_br_7 | advice<br>capable<br>weapon<br>symptom<br>van<br>cat<br>nasty |  
+| bip_39_word_new_br_8 | advice<br>capable<br>weapon<br>symptom<br>van<br>cat<br>nasty<br>tilt |  
+| bip_39_word_new_br_9 | advice<br>capable<br>weapon<br>symptom<br>van<br>cat<br>nasty<br>tilt<br>federal |  
+| bip_39_word_new_line_1 | advice |  
+| bip_39_word_new_line_10 | advice
 capable
 weapon
 symptom
@@ -55,7 +55,7 @@ nasty
 tilt
 federal
 local |  
-| bip_39_word_new_line11 | advice
+| bip_39_word_new_line_11 | advice
 capable
 weapon
 symptom
@@ -66,7 +66,7 @@ tilt
 federal
 local
 fat |  
-| bip_39_word_new_line12 | advice
+| bip_39_word_new_line_12 | advice
 capable
 weapon
 symptom
@@ -78,34 +78,34 @@ federal
 local
 fat
 aim |  
-| bip_39_word_new_line2 | advice
+| bip_39_word_new_line_2 | advice
 capable |  
-| bip_39_word_new_line3 | advice
+| bip_39_word_new_line_3 | advice
 capable
 weapon |  
-| bip_39_word_new_line4 | advice
+| bip_39_word_new_line_4 | advice
 capable
 weapon
 symptom |  
-| bip_39_word_new_line5 | advice
+| bip_39_word_new_line_5 | advice
 capable
 weapon
 symptom
 van |  
-| bip_39_word_new_line6 | advice
+| bip_39_word_new_line_6 | advice
 capable
 weapon
 symptom
 van
 cat |  
-| bip_39_word_new_line7 | advice
+| bip_39_word_new_line_7 | advice
 capable
 weapon
 symptom
 van
 cat
 nasty |  
-| bip_39_word_new_line8 | advice
+| bip_39_word_new_line_8 | advice
 capable
 weapon
 symptom
@@ -113,7 +113,7 @@ van
 cat
 nasty
 tilt |  
-| bip_39_word_new_line9 | advice
+| bip_39_word_new_line_9 | advice
 capable
 weapon
 symptom

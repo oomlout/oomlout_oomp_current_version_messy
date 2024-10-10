@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | boring |  
-| bip_39_word_new_br10 | boring<br>despair<br>road<br>nasty<br>broccoli<br>own<br>split<br>fall<br>inch<br>voice |  
-| bip_39_word_new_br11 | boring<br>despair<br>road<br>nasty<br>broccoli<br>own<br>split<br>fall<br>inch<br>voice<br>master |  
-| bip_39_word_new_br12 | boring<br>despair<br>road<br>nasty<br>broccoli<br>own<br>split<br>fall<br>inch<br>voice<br>master<br>anger |  
-| bip_39_word_new_br2 | boring<br>despair |  
-| bip_39_word_new_br3 | boring<br>despair<br>road |  
-| bip_39_word_new_br4 | boring<br>despair<br>road<br>nasty |  
-| bip_39_word_new_br5 | boring<br>despair<br>road<br>nasty<br>broccoli |  
-| bip_39_word_new_br6 | boring<br>despair<br>road<br>nasty<br>broccoli<br>own |  
-| bip_39_word_new_br7 | boring<br>despair<br>road<br>nasty<br>broccoli<br>own<br>split |  
-| bip_39_word_new_br8 | boring<br>despair<br>road<br>nasty<br>broccoli<br>own<br>split<br>fall |  
-| bip_39_word_new_br9 | boring<br>despair<br>road<br>nasty<br>broccoli<br>own<br>split<br>fall<br>inch |  
-| bip_39_word_new_line1 | boring |  
-| bip_39_word_new_line10 | boring
+| bip_39_word_new_br_1 | boring |  
+| bip_39_word_new_br_10 | boring<br>despair<br>road<br>nasty<br>broccoli<br>own<br>split<br>fall<br>inch<br>voice |  
+| bip_39_word_new_br_11 | boring<br>despair<br>road<br>nasty<br>broccoli<br>own<br>split<br>fall<br>inch<br>voice<br>master |  
+| bip_39_word_new_br_12 | boring<br>despair<br>road<br>nasty<br>broccoli<br>own<br>split<br>fall<br>inch<br>voice<br>master<br>anger |  
+| bip_39_word_new_br_2 | boring<br>despair |  
+| bip_39_word_new_br_3 | boring<br>despair<br>road |  
+| bip_39_word_new_br_4 | boring<br>despair<br>road<br>nasty |  
+| bip_39_word_new_br_5 | boring<br>despair<br>road<br>nasty<br>broccoli |  
+| bip_39_word_new_br_6 | boring<br>despair<br>road<br>nasty<br>broccoli<br>own |  
+| bip_39_word_new_br_7 | boring<br>despair<br>road<br>nasty<br>broccoli<br>own<br>split |  
+| bip_39_word_new_br_8 | boring<br>despair<br>road<br>nasty<br>broccoli<br>own<br>split<br>fall |  
+| bip_39_word_new_br_9 | boring<br>despair<br>road<br>nasty<br>broccoli<br>own<br>split<br>fall<br>inch |  
+| bip_39_word_new_line_1 | boring |  
+| bip_39_word_new_line_10 | boring
 despair
 road
 nasty
@@ -55,7 +55,7 @@ split
 fall
 inch
 voice |  
-| bip_39_word_new_line11 | boring
+| bip_39_word_new_line_11 | boring
 despair
 road
 nasty
@@ -66,7 +66,7 @@ fall
 inch
 voice
 master |  
-| bip_39_word_new_line12 | boring
+| bip_39_word_new_line_12 | boring
 despair
 road
 nasty
@@ -78,34 +78,34 @@ inch
 voice
 master
 anger |  
-| bip_39_word_new_line2 | boring
+| bip_39_word_new_line_2 | boring
 despair |  
-| bip_39_word_new_line3 | boring
+| bip_39_word_new_line_3 | boring
 despair
 road |  
-| bip_39_word_new_line4 | boring
+| bip_39_word_new_line_4 | boring
 despair
 road
 nasty |  
-| bip_39_word_new_line5 | boring
+| bip_39_word_new_line_5 | boring
 despair
 road
 nasty
 broccoli |  
-| bip_39_word_new_line6 | boring
+| bip_39_word_new_line_6 | boring
 despair
 road
 nasty
 broccoli
 own |  
-| bip_39_word_new_line7 | boring
+| bip_39_word_new_line_7 | boring
 despair
 road
 nasty
 broccoli
 own
 split |  
-| bip_39_word_new_line8 | boring
+| bip_39_word_new_line_8 | boring
 despair
 road
 nasty
@@ -113,7 +113,7 @@ broccoli
 own
 split
 fall |  
-| bip_39_word_new_line9 | boring
+| bip_39_word_new_line_9 | boring
 despair
 road
 nasty

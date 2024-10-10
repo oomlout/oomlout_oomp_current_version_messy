@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hole |  
-| bip_39_word_new_br10 | hole<br>crucial<br>wish<br>arrest<br>fever<br>innocent<br>world<br>volcano<br>orphan<br>term |  
-| bip_39_word_new_br11 | hole<br>crucial<br>wish<br>arrest<br>fever<br>innocent<br>world<br>volcano<br>orphan<br>term<br>demise |  
-| bip_39_word_new_br12 | hole<br>crucial<br>wish<br>arrest<br>fever<br>innocent<br>world<br>volcano<br>orphan<br>term<br>demise<br>armed |  
-| bip_39_word_new_br2 | hole<br>crucial |  
-| bip_39_word_new_br3 | hole<br>crucial<br>wish |  
-| bip_39_word_new_br4 | hole<br>crucial<br>wish<br>arrest |  
-| bip_39_word_new_br5 | hole<br>crucial<br>wish<br>arrest<br>fever |  
-| bip_39_word_new_br6 | hole<br>crucial<br>wish<br>arrest<br>fever<br>innocent |  
-| bip_39_word_new_br7 | hole<br>crucial<br>wish<br>arrest<br>fever<br>innocent<br>world |  
-| bip_39_word_new_br8 | hole<br>crucial<br>wish<br>arrest<br>fever<br>innocent<br>world<br>volcano |  
-| bip_39_word_new_br9 | hole<br>crucial<br>wish<br>arrest<br>fever<br>innocent<br>world<br>volcano<br>orphan |  
-| bip_39_word_new_line1 | hole |  
-| bip_39_word_new_line10 | hole
+| bip_39_word_new_br_1 | hole |  
+| bip_39_word_new_br_10 | hole<br>crucial<br>wish<br>arrest<br>fever<br>innocent<br>world<br>volcano<br>orphan<br>term |  
+| bip_39_word_new_br_11 | hole<br>crucial<br>wish<br>arrest<br>fever<br>innocent<br>world<br>volcano<br>orphan<br>term<br>demise |  
+| bip_39_word_new_br_12 | hole<br>crucial<br>wish<br>arrest<br>fever<br>innocent<br>world<br>volcano<br>orphan<br>term<br>demise<br>armed |  
+| bip_39_word_new_br_2 | hole<br>crucial |  
+| bip_39_word_new_br_3 | hole<br>crucial<br>wish |  
+| bip_39_word_new_br_4 | hole<br>crucial<br>wish<br>arrest |  
+| bip_39_word_new_br_5 | hole<br>crucial<br>wish<br>arrest<br>fever |  
+| bip_39_word_new_br_6 | hole<br>crucial<br>wish<br>arrest<br>fever<br>innocent |  
+| bip_39_word_new_br_7 | hole<br>crucial<br>wish<br>arrest<br>fever<br>innocent<br>world |  
+| bip_39_word_new_br_8 | hole<br>crucial<br>wish<br>arrest<br>fever<br>innocent<br>world<br>volcano |  
+| bip_39_word_new_br_9 | hole<br>crucial<br>wish<br>arrest<br>fever<br>innocent<br>world<br>volcano<br>orphan |  
+| bip_39_word_new_line_1 | hole |  
+| bip_39_word_new_line_10 | hole
 crucial
 wish
 arrest
@@ -55,7 +55,7 @@ world
 volcano
 orphan
 term |  
-| bip_39_word_new_line11 | hole
+| bip_39_word_new_line_11 | hole
 crucial
 wish
 arrest
@@ -66,7 +66,7 @@ volcano
 orphan
 term
 demise |  
-| bip_39_word_new_line12 | hole
+| bip_39_word_new_line_12 | hole
 crucial
 wish
 arrest
@@ -78,34 +78,34 @@ orphan
 term
 demise
 armed |  
-| bip_39_word_new_line2 | hole
+| bip_39_word_new_line_2 | hole
 crucial |  
-| bip_39_word_new_line3 | hole
+| bip_39_word_new_line_3 | hole
 crucial
 wish |  
-| bip_39_word_new_line4 | hole
+| bip_39_word_new_line_4 | hole
 crucial
 wish
 arrest |  
-| bip_39_word_new_line5 | hole
+| bip_39_word_new_line_5 | hole
 crucial
 wish
 arrest
 fever |  
-| bip_39_word_new_line6 | hole
+| bip_39_word_new_line_6 | hole
 crucial
 wish
 arrest
 fever
 innocent |  
-| bip_39_word_new_line7 | hole
+| bip_39_word_new_line_7 | hole
 crucial
 wish
 arrest
 fever
 innocent
 world |  
-| bip_39_word_new_line8 | hole
+| bip_39_word_new_line_8 | hole
 crucial
 wish
 arrest
@@ -113,7 +113,7 @@ fever
 innocent
 world
 volcano |  
-| bip_39_word_new_line9 | hole
+| bip_39_word_new_line_9 | hole
 crucial
 wish
 arrest

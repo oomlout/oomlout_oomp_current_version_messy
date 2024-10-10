@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | parrot |  
-| bip_39_word_new_br10 | parrot<br>scatter<br>penalty<br>develop<br>cruel<br>auction<br>flavor<br>thank<br>require<br>already |  
-| bip_39_word_new_br11 | parrot<br>scatter<br>penalty<br>develop<br>cruel<br>auction<br>flavor<br>thank<br>require<br>already<br>matter |  
-| bip_39_word_new_br12 | parrot<br>scatter<br>penalty<br>develop<br>cruel<br>auction<br>flavor<br>thank<br>require<br>already<br>matter<br>anxiety |  
-| bip_39_word_new_br2 | parrot<br>scatter |  
-| bip_39_word_new_br3 | parrot<br>scatter<br>penalty |  
-| bip_39_word_new_br4 | parrot<br>scatter<br>penalty<br>develop |  
-| bip_39_word_new_br5 | parrot<br>scatter<br>penalty<br>develop<br>cruel |  
-| bip_39_word_new_br6 | parrot<br>scatter<br>penalty<br>develop<br>cruel<br>auction |  
-| bip_39_word_new_br7 | parrot<br>scatter<br>penalty<br>develop<br>cruel<br>auction<br>flavor |  
-| bip_39_word_new_br8 | parrot<br>scatter<br>penalty<br>develop<br>cruel<br>auction<br>flavor<br>thank |  
-| bip_39_word_new_br9 | parrot<br>scatter<br>penalty<br>develop<br>cruel<br>auction<br>flavor<br>thank<br>require |  
-| bip_39_word_new_line1 | parrot |  
-| bip_39_word_new_line10 | parrot
+| bip_39_word_new_br_1 | parrot |  
+| bip_39_word_new_br_10 | parrot<br>scatter<br>penalty<br>develop<br>cruel<br>auction<br>flavor<br>thank<br>require<br>already |  
+| bip_39_word_new_br_11 | parrot<br>scatter<br>penalty<br>develop<br>cruel<br>auction<br>flavor<br>thank<br>require<br>already<br>matter |  
+| bip_39_word_new_br_12 | parrot<br>scatter<br>penalty<br>develop<br>cruel<br>auction<br>flavor<br>thank<br>require<br>already<br>matter<br>anxiety |  
+| bip_39_word_new_br_2 | parrot<br>scatter |  
+| bip_39_word_new_br_3 | parrot<br>scatter<br>penalty |  
+| bip_39_word_new_br_4 | parrot<br>scatter<br>penalty<br>develop |  
+| bip_39_word_new_br_5 | parrot<br>scatter<br>penalty<br>develop<br>cruel |  
+| bip_39_word_new_br_6 | parrot<br>scatter<br>penalty<br>develop<br>cruel<br>auction |  
+| bip_39_word_new_br_7 | parrot<br>scatter<br>penalty<br>develop<br>cruel<br>auction<br>flavor |  
+| bip_39_word_new_br_8 | parrot<br>scatter<br>penalty<br>develop<br>cruel<br>auction<br>flavor<br>thank |  
+| bip_39_word_new_br_9 | parrot<br>scatter<br>penalty<br>develop<br>cruel<br>auction<br>flavor<br>thank<br>require |  
+| bip_39_word_new_line_1 | parrot |  
+| bip_39_word_new_line_10 | parrot
 scatter
 penalty
 develop
@@ -55,7 +55,7 @@ flavor
 thank
 require
 already |  
-| bip_39_word_new_line11 | parrot
+| bip_39_word_new_line_11 | parrot
 scatter
 penalty
 develop
@@ -66,7 +66,7 @@ thank
 require
 already
 matter |  
-| bip_39_word_new_line12 | parrot
+| bip_39_word_new_line_12 | parrot
 scatter
 penalty
 develop
@@ -78,34 +78,34 @@ require
 already
 matter
 anxiety |  
-| bip_39_word_new_line2 | parrot
+| bip_39_word_new_line_2 | parrot
 scatter |  
-| bip_39_word_new_line3 | parrot
+| bip_39_word_new_line_3 | parrot
 scatter
 penalty |  
-| bip_39_word_new_line4 | parrot
+| bip_39_word_new_line_4 | parrot
 scatter
 penalty
 develop |  
-| bip_39_word_new_line5 | parrot
+| bip_39_word_new_line_5 | parrot
 scatter
 penalty
 develop
 cruel |  
-| bip_39_word_new_line6 | parrot
+| bip_39_word_new_line_6 | parrot
 scatter
 penalty
 develop
 cruel
 auction |  
-| bip_39_word_new_line7 | parrot
+| bip_39_word_new_line_7 | parrot
 scatter
 penalty
 develop
 cruel
 auction
 flavor |  
-| bip_39_word_new_line8 | parrot
+| bip_39_word_new_line_8 | parrot
 scatter
 penalty
 develop
@@ -113,7 +113,7 @@ cruel
 auction
 flavor
 thank |  
-| bip_39_word_new_line9 | parrot
+| bip_39_word_new_line_9 | parrot
 scatter
 penalty
 develop

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | choice |  
-| bip_39_word_new_br10 | choice<br>fragile<br>mass<br>friend<br>mail<br>august<br>girl<br>banana<br>churn<br>pause |  
-| bip_39_word_new_br11 | choice<br>fragile<br>mass<br>friend<br>mail<br>august<br>girl<br>banana<br>churn<br>pause<br>pause |  
-| bip_39_word_new_br12 | choice<br>fragile<br>mass<br>friend<br>mail<br>august<br>girl<br>banana<br>churn<br>pause<br>pause<br>arctic |  
-| bip_39_word_new_br2 | choice<br>fragile |  
-| bip_39_word_new_br3 | choice<br>fragile<br>mass |  
-| bip_39_word_new_br4 | choice<br>fragile<br>mass<br>friend |  
-| bip_39_word_new_br5 | choice<br>fragile<br>mass<br>friend<br>mail |  
-| bip_39_word_new_br6 | choice<br>fragile<br>mass<br>friend<br>mail<br>august |  
-| bip_39_word_new_br7 | choice<br>fragile<br>mass<br>friend<br>mail<br>august<br>girl |  
-| bip_39_word_new_br8 | choice<br>fragile<br>mass<br>friend<br>mail<br>august<br>girl<br>banana |  
-| bip_39_word_new_br9 | choice<br>fragile<br>mass<br>friend<br>mail<br>august<br>girl<br>banana<br>churn |  
-| bip_39_word_new_line1 | choice |  
-| bip_39_word_new_line10 | choice
+| bip_39_word_new_br_1 | choice |  
+| bip_39_word_new_br_10 | choice<br>fragile<br>mass<br>friend<br>mail<br>august<br>girl<br>banana<br>churn<br>pause |  
+| bip_39_word_new_br_11 | choice<br>fragile<br>mass<br>friend<br>mail<br>august<br>girl<br>banana<br>churn<br>pause<br>pause |  
+| bip_39_word_new_br_12 | choice<br>fragile<br>mass<br>friend<br>mail<br>august<br>girl<br>banana<br>churn<br>pause<br>pause<br>arctic |  
+| bip_39_word_new_br_2 | choice<br>fragile |  
+| bip_39_word_new_br_3 | choice<br>fragile<br>mass |  
+| bip_39_word_new_br_4 | choice<br>fragile<br>mass<br>friend |  
+| bip_39_word_new_br_5 | choice<br>fragile<br>mass<br>friend<br>mail |  
+| bip_39_word_new_br_6 | choice<br>fragile<br>mass<br>friend<br>mail<br>august |  
+| bip_39_word_new_br_7 | choice<br>fragile<br>mass<br>friend<br>mail<br>august<br>girl |  
+| bip_39_word_new_br_8 | choice<br>fragile<br>mass<br>friend<br>mail<br>august<br>girl<br>banana |  
+| bip_39_word_new_br_9 | choice<br>fragile<br>mass<br>friend<br>mail<br>august<br>girl<br>banana<br>churn |  
+| bip_39_word_new_line_1 | choice |  
+| bip_39_word_new_line_10 | choice
 fragile
 mass
 friend
@@ -55,7 +55,7 @@ girl
 banana
 churn
 pause |  
-| bip_39_word_new_line11 | choice
+| bip_39_word_new_line_11 | choice
 fragile
 mass
 friend
@@ -66,7 +66,7 @@ banana
 churn
 pause
 pause |  
-| bip_39_word_new_line12 | choice
+| bip_39_word_new_line_12 | choice
 fragile
 mass
 friend
@@ -78,34 +78,34 @@ churn
 pause
 pause
 arctic |  
-| bip_39_word_new_line2 | choice
+| bip_39_word_new_line_2 | choice
 fragile |  
-| bip_39_word_new_line3 | choice
+| bip_39_word_new_line_3 | choice
 fragile
 mass |  
-| bip_39_word_new_line4 | choice
+| bip_39_word_new_line_4 | choice
 fragile
 mass
 friend |  
-| bip_39_word_new_line5 | choice
+| bip_39_word_new_line_5 | choice
 fragile
 mass
 friend
 mail |  
-| bip_39_word_new_line6 | choice
+| bip_39_word_new_line_6 | choice
 fragile
 mass
 friend
 mail
 august |  
-| bip_39_word_new_line7 | choice
+| bip_39_word_new_line_7 | choice
 fragile
 mass
 friend
 mail
 august
 girl |  
-| bip_39_word_new_line8 | choice
+| bip_39_word_new_line_8 | choice
 fragile
 mass
 friend
@@ -113,7 +113,7 @@ mail
 august
 girl
 banana |  
-| bip_39_word_new_line9 | choice
+| bip_39_word_new_line_9 | choice
 fragile
 mass
 friend

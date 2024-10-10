@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | when |  
-| bip_39_word_new_br10 | when<br>gather<br>snack<br>play<br>enforce<br>thought<br>drum<br>exclude<br>hazard<br>lunar |  
-| bip_39_word_new_br11 | when<br>gather<br>snack<br>play<br>enforce<br>thought<br>drum<br>exclude<br>hazard<br>lunar<br>nature |  
-| bip_39_word_new_br12 | when<br>gather<br>snack<br>play<br>enforce<br>thought<br>drum<br>exclude<br>hazard<br>lunar<br>nature<br>add |  
-| bip_39_word_new_br2 | when<br>gather |  
-| bip_39_word_new_br3 | when<br>gather<br>snack |  
-| bip_39_word_new_br4 | when<br>gather<br>snack<br>play |  
-| bip_39_word_new_br5 | when<br>gather<br>snack<br>play<br>enforce |  
-| bip_39_word_new_br6 | when<br>gather<br>snack<br>play<br>enforce<br>thought |  
-| bip_39_word_new_br7 | when<br>gather<br>snack<br>play<br>enforce<br>thought<br>drum |  
-| bip_39_word_new_br8 | when<br>gather<br>snack<br>play<br>enforce<br>thought<br>drum<br>exclude |  
-| bip_39_word_new_br9 | when<br>gather<br>snack<br>play<br>enforce<br>thought<br>drum<br>exclude<br>hazard |  
-| bip_39_word_new_line1 | when |  
-| bip_39_word_new_line10 | when
+| bip_39_word_new_br_1 | when |  
+| bip_39_word_new_br_10 | when<br>gather<br>snack<br>play<br>enforce<br>thought<br>drum<br>exclude<br>hazard<br>lunar |  
+| bip_39_word_new_br_11 | when<br>gather<br>snack<br>play<br>enforce<br>thought<br>drum<br>exclude<br>hazard<br>lunar<br>nature |  
+| bip_39_word_new_br_12 | when<br>gather<br>snack<br>play<br>enforce<br>thought<br>drum<br>exclude<br>hazard<br>lunar<br>nature<br>add |  
+| bip_39_word_new_br_2 | when<br>gather |  
+| bip_39_word_new_br_3 | when<br>gather<br>snack |  
+| bip_39_word_new_br_4 | when<br>gather<br>snack<br>play |  
+| bip_39_word_new_br_5 | when<br>gather<br>snack<br>play<br>enforce |  
+| bip_39_word_new_br_6 | when<br>gather<br>snack<br>play<br>enforce<br>thought |  
+| bip_39_word_new_br_7 | when<br>gather<br>snack<br>play<br>enforce<br>thought<br>drum |  
+| bip_39_word_new_br_8 | when<br>gather<br>snack<br>play<br>enforce<br>thought<br>drum<br>exclude |  
+| bip_39_word_new_br_9 | when<br>gather<br>snack<br>play<br>enforce<br>thought<br>drum<br>exclude<br>hazard |  
+| bip_39_word_new_line_1 | when |  
+| bip_39_word_new_line_10 | when
 gather
 snack
 play
@@ -55,7 +55,7 @@ drum
 exclude
 hazard
 lunar |  
-| bip_39_word_new_line11 | when
+| bip_39_word_new_line_11 | when
 gather
 snack
 play
@@ -66,7 +66,7 @@ exclude
 hazard
 lunar
 nature |  
-| bip_39_word_new_line12 | when
+| bip_39_word_new_line_12 | when
 gather
 snack
 play
@@ -78,34 +78,34 @@ hazard
 lunar
 nature
 add |  
-| bip_39_word_new_line2 | when
+| bip_39_word_new_line_2 | when
 gather |  
-| bip_39_word_new_line3 | when
+| bip_39_word_new_line_3 | when
 gather
 snack |  
-| bip_39_word_new_line4 | when
+| bip_39_word_new_line_4 | when
 gather
 snack
 play |  
-| bip_39_word_new_line5 | when
+| bip_39_word_new_line_5 | when
 gather
 snack
 play
 enforce |  
-| bip_39_word_new_line6 | when
+| bip_39_word_new_line_6 | when
 gather
 snack
 play
 enforce
 thought |  
-| bip_39_word_new_line7 | when
+| bip_39_word_new_line_7 | when
 gather
 snack
 play
 enforce
 thought
 drum |  
-| bip_39_word_new_line8 | when
+| bip_39_word_new_line_8 | when
 gather
 snack
 play
@@ -113,7 +113,7 @@ enforce
 thought
 drum
 exclude |  
-| bip_39_word_new_line9 | when
+| bip_39_word_new_line_9 | when
 gather
 snack
 play

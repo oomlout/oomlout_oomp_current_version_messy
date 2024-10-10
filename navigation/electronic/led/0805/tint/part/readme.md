@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | daughter |  
-| bip_39_word_new_br10 | daughter<br>enhance<br>march<br>wasp<br>wheel<br>legal<br>text<br>keep<br>length<br>mobile |  
-| bip_39_word_new_br11 | daughter<br>enhance<br>march<br>wasp<br>wheel<br>legal<br>text<br>keep<br>length<br>mobile<br>empower |  
-| bip_39_word_new_br12 | daughter<br>enhance<br>march<br>wasp<br>wheel<br>legal<br>text<br>keep<br>length<br>mobile<br>empower<br>also |  
-| bip_39_word_new_br2 | daughter<br>enhance |  
-| bip_39_word_new_br3 | daughter<br>enhance<br>march |  
-| bip_39_word_new_br4 | daughter<br>enhance<br>march<br>wasp |  
-| bip_39_word_new_br5 | daughter<br>enhance<br>march<br>wasp<br>wheel |  
-| bip_39_word_new_br6 | daughter<br>enhance<br>march<br>wasp<br>wheel<br>legal |  
-| bip_39_word_new_br7 | daughter<br>enhance<br>march<br>wasp<br>wheel<br>legal<br>text |  
-| bip_39_word_new_br8 | daughter<br>enhance<br>march<br>wasp<br>wheel<br>legal<br>text<br>keep |  
-| bip_39_word_new_br9 | daughter<br>enhance<br>march<br>wasp<br>wheel<br>legal<br>text<br>keep<br>length |  
-| bip_39_word_new_line1 | daughter |  
-| bip_39_word_new_line10 | daughter
+| bip_39_word_new_br_1 | daughter |  
+| bip_39_word_new_br_10 | daughter<br>enhance<br>march<br>wasp<br>wheel<br>legal<br>text<br>keep<br>length<br>mobile |  
+| bip_39_word_new_br_11 | daughter<br>enhance<br>march<br>wasp<br>wheel<br>legal<br>text<br>keep<br>length<br>mobile<br>empower |  
+| bip_39_word_new_br_12 | daughter<br>enhance<br>march<br>wasp<br>wheel<br>legal<br>text<br>keep<br>length<br>mobile<br>empower<br>also |  
+| bip_39_word_new_br_2 | daughter<br>enhance |  
+| bip_39_word_new_br_3 | daughter<br>enhance<br>march |  
+| bip_39_word_new_br_4 | daughter<br>enhance<br>march<br>wasp |  
+| bip_39_word_new_br_5 | daughter<br>enhance<br>march<br>wasp<br>wheel |  
+| bip_39_word_new_br_6 | daughter<br>enhance<br>march<br>wasp<br>wheel<br>legal |  
+| bip_39_word_new_br_7 | daughter<br>enhance<br>march<br>wasp<br>wheel<br>legal<br>text |  
+| bip_39_word_new_br_8 | daughter<br>enhance<br>march<br>wasp<br>wheel<br>legal<br>text<br>keep |  
+| bip_39_word_new_br_9 | daughter<br>enhance<br>march<br>wasp<br>wheel<br>legal<br>text<br>keep<br>length |  
+| bip_39_word_new_line_1 | daughter |  
+| bip_39_word_new_line_10 | daughter
 enhance
 march
 wasp
@@ -55,7 +55,7 @@ text
 keep
 length
 mobile |  
-| bip_39_word_new_line11 | daughter
+| bip_39_word_new_line_11 | daughter
 enhance
 march
 wasp
@@ -66,7 +66,7 @@ keep
 length
 mobile
 empower |  
-| bip_39_word_new_line12 | daughter
+| bip_39_word_new_line_12 | daughter
 enhance
 march
 wasp
@@ -78,34 +78,34 @@ length
 mobile
 empower
 also |  
-| bip_39_word_new_line2 | daughter
+| bip_39_word_new_line_2 | daughter
 enhance |  
-| bip_39_word_new_line3 | daughter
+| bip_39_word_new_line_3 | daughter
 enhance
 march |  
-| bip_39_word_new_line4 | daughter
+| bip_39_word_new_line_4 | daughter
 enhance
 march
 wasp |  
-| bip_39_word_new_line5 | daughter
+| bip_39_word_new_line_5 | daughter
 enhance
 march
 wasp
 wheel |  
-| bip_39_word_new_line6 | daughter
+| bip_39_word_new_line_6 | daughter
 enhance
 march
 wasp
 wheel
 legal |  
-| bip_39_word_new_line7 | daughter
+| bip_39_word_new_line_7 | daughter
 enhance
 march
 wasp
 wheel
 legal
 text |  
-| bip_39_word_new_line8 | daughter
+| bip_39_word_new_line_8 | daughter
 enhance
 march
 wasp
@@ -113,7 +113,7 @@ wheel
 legal
 text
 keep |  
-| bip_39_word_new_line9 | daughter
+| bip_39_word_new_line_9 | daughter
 enhance
 march
 wasp

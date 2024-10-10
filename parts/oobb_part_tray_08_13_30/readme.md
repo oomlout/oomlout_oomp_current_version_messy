@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | final |  
-| bip_39_word_new_br10 | final<br>scan<br>depend<br>business<br>account<br>omit<br>silent<br>wealth<br>solve<br>transfer |  
-| bip_39_word_new_br11 | final<br>scan<br>depend<br>business<br>account<br>omit<br>silent<br>wealth<br>solve<br>transfer<br>carpet |  
-| bip_39_word_new_br12 | final<br>scan<br>depend<br>business<br>account<br>omit<br>silent<br>wealth<br>solve<br>transfer<br>carpet<br>among |  
-| bip_39_word_new_br2 | final<br>scan |  
-| bip_39_word_new_br3 | final<br>scan<br>depend |  
-| bip_39_word_new_br4 | final<br>scan<br>depend<br>business |  
-| bip_39_word_new_br5 | final<br>scan<br>depend<br>business<br>account |  
-| bip_39_word_new_br6 | final<br>scan<br>depend<br>business<br>account<br>omit |  
-| bip_39_word_new_br7 | final<br>scan<br>depend<br>business<br>account<br>omit<br>silent |  
-| bip_39_word_new_br8 | final<br>scan<br>depend<br>business<br>account<br>omit<br>silent<br>wealth |  
-| bip_39_word_new_br9 | final<br>scan<br>depend<br>business<br>account<br>omit<br>silent<br>wealth<br>solve |  
-| bip_39_word_new_line1 | final |  
-| bip_39_word_new_line10 | final
+| bip_39_word_new_br_1 | final |  
+| bip_39_word_new_br_10 | final<br>scan<br>depend<br>business<br>account<br>omit<br>silent<br>wealth<br>solve<br>transfer |  
+| bip_39_word_new_br_11 | final<br>scan<br>depend<br>business<br>account<br>omit<br>silent<br>wealth<br>solve<br>transfer<br>carpet |  
+| bip_39_word_new_br_12 | final<br>scan<br>depend<br>business<br>account<br>omit<br>silent<br>wealth<br>solve<br>transfer<br>carpet<br>among |  
+| bip_39_word_new_br_2 | final<br>scan |  
+| bip_39_word_new_br_3 | final<br>scan<br>depend |  
+| bip_39_word_new_br_4 | final<br>scan<br>depend<br>business |  
+| bip_39_word_new_br_5 | final<br>scan<br>depend<br>business<br>account |  
+| bip_39_word_new_br_6 | final<br>scan<br>depend<br>business<br>account<br>omit |  
+| bip_39_word_new_br_7 | final<br>scan<br>depend<br>business<br>account<br>omit<br>silent |  
+| bip_39_word_new_br_8 | final<br>scan<br>depend<br>business<br>account<br>omit<br>silent<br>wealth |  
+| bip_39_word_new_br_9 | final<br>scan<br>depend<br>business<br>account<br>omit<br>silent<br>wealth<br>solve |  
+| bip_39_word_new_line_1 | final |  
+| bip_39_word_new_line_10 | final
 scan
 depend
 business
@@ -55,7 +55,7 @@ silent
 wealth
 solve
 transfer |  
-| bip_39_word_new_line11 | final
+| bip_39_word_new_line_11 | final
 scan
 depend
 business
@@ -66,7 +66,7 @@ wealth
 solve
 transfer
 carpet |  
-| bip_39_word_new_line12 | final
+| bip_39_word_new_line_12 | final
 scan
 depend
 business
@@ -78,34 +78,34 @@ solve
 transfer
 carpet
 among |  
-| bip_39_word_new_line2 | final
+| bip_39_word_new_line_2 | final
 scan |  
-| bip_39_word_new_line3 | final
+| bip_39_word_new_line_3 | final
 scan
 depend |  
-| bip_39_word_new_line4 | final
+| bip_39_word_new_line_4 | final
 scan
 depend
 business |  
-| bip_39_word_new_line5 | final
+| bip_39_word_new_line_5 | final
 scan
 depend
 business
 account |  
-| bip_39_word_new_line6 | final
+| bip_39_word_new_line_6 | final
 scan
 depend
 business
 account
 omit |  
-| bip_39_word_new_line7 | final
+| bip_39_word_new_line_7 | final
 scan
 depend
 business
 account
 omit
 silent |  
-| bip_39_word_new_line8 | final
+| bip_39_word_new_line_8 | final
 scan
 depend
 business
@@ -113,7 +113,7 @@ account
 omit
 silent
 wealth |  
-| bip_39_word_new_line9 | final
+| bip_39_word_new_line_9 | final
 scan
 depend
 business

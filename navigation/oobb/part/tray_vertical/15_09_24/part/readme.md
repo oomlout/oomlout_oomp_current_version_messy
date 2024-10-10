@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ski |  
-| bip_39_word_new_br10 | ski<br>swim<br>license<br>lock<br>region<br>digital<br>very<br>riot<br>surround<br>unable |  
-| bip_39_word_new_br11 | ski<br>swim<br>license<br>lock<br>region<br>digital<br>very<br>riot<br>surround<br>unable<br>fly |  
-| bip_39_word_new_br12 | ski<br>swim<br>license<br>lock<br>region<br>digital<br>very<br>riot<br>surround<br>unable<br>fly<br>aunt |  
-| bip_39_word_new_br2 | ski<br>swim |  
-| bip_39_word_new_br3 | ski<br>swim<br>license |  
-| bip_39_word_new_br4 | ski<br>swim<br>license<br>lock |  
-| bip_39_word_new_br5 | ski<br>swim<br>license<br>lock<br>region |  
-| bip_39_word_new_br6 | ski<br>swim<br>license<br>lock<br>region<br>digital |  
-| bip_39_word_new_br7 | ski<br>swim<br>license<br>lock<br>region<br>digital<br>very |  
-| bip_39_word_new_br8 | ski<br>swim<br>license<br>lock<br>region<br>digital<br>very<br>riot |  
-| bip_39_word_new_br9 | ski<br>swim<br>license<br>lock<br>region<br>digital<br>very<br>riot<br>surround |  
-| bip_39_word_new_line1 | ski |  
-| bip_39_word_new_line10 | ski
+| bip_39_word_new_br_1 | ski |  
+| bip_39_word_new_br_10 | ski<br>swim<br>license<br>lock<br>region<br>digital<br>very<br>riot<br>surround<br>unable |  
+| bip_39_word_new_br_11 | ski<br>swim<br>license<br>lock<br>region<br>digital<br>very<br>riot<br>surround<br>unable<br>fly |  
+| bip_39_word_new_br_12 | ski<br>swim<br>license<br>lock<br>region<br>digital<br>very<br>riot<br>surround<br>unable<br>fly<br>aunt |  
+| bip_39_word_new_br_2 | ski<br>swim |  
+| bip_39_word_new_br_3 | ski<br>swim<br>license |  
+| bip_39_word_new_br_4 | ski<br>swim<br>license<br>lock |  
+| bip_39_word_new_br_5 | ski<br>swim<br>license<br>lock<br>region |  
+| bip_39_word_new_br_6 | ski<br>swim<br>license<br>lock<br>region<br>digital |  
+| bip_39_word_new_br_7 | ski<br>swim<br>license<br>lock<br>region<br>digital<br>very |  
+| bip_39_word_new_br_8 | ski<br>swim<br>license<br>lock<br>region<br>digital<br>very<br>riot |  
+| bip_39_word_new_br_9 | ski<br>swim<br>license<br>lock<br>region<br>digital<br>very<br>riot<br>surround |  
+| bip_39_word_new_line_1 | ski |  
+| bip_39_word_new_line_10 | ski
 swim
 license
 lock
@@ -55,7 +55,7 @@ very
 riot
 surround
 unable |  
-| bip_39_word_new_line11 | ski
+| bip_39_word_new_line_11 | ski
 swim
 license
 lock
@@ -66,7 +66,7 @@ riot
 surround
 unable
 fly |  
-| bip_39_word_new_line12 | ski
+| bip_39_word_new_line_12 | ski
 swim
 license
 lock
@@ -78,34 +78,34 @@ surround
 unable
 fly
 aunt |  
-| bip_39_word_new_line2 | ski
+| bip_39_word_new_line_2 | ski
 swim |  
-| bip_39_word_new_line3 | ski
+| bip_39_word_new_line_3 | ski
 swim
 license |  
-| bip_39_word_new_line4 | ski
+| bip_39_word_new_line_4 | ski
 swim
 license
 lock |  
-| bip_39_word_new_line5 | ski
+| bip_39_word_new_line_5 | ski
 swim
 license
 lock
 region |  
-| bip_39_word_new_line6 | ski
+| bip_39_word_new_line_6 | ski
 swim
 license
 lock
 region
 digital |  
-| bip_39_word_new_line7 | ski
+| bip_39_word_new_line_7 | ski
 swim
 license
 lock
 region
 digital
 very |  
-| bip_39_word_new_line8 | ski
+| bip_39_word_new_line_8 | ski
 swim
 license
 lock
@@ -113,7 +113,7 @@ region
 digital
 very
 riot |  
-| bip_39_word_new_line9 | ski
+| bip_39_word_new_line_9 | ski
 swim
 license
 lock

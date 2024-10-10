@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | doll |  
-| bip_39_word_new_br10 | doll<br>nephew<br>juice<br>rebuild<br>thank<br>search<br>leader<br>load<br>anger<br>very |  
-| bip_39_word_new_br11 | doll<br>nephew<br>juice<br>rebuild<br>thank<br>search<br>leader<br>load<br>anger<br>very<br>culture |  
-| bip_39_word_new_br12 | doll<br>nephew<br>juice<br>rebuild<br>thank<br>search<br>leader<br>load<br>anger<br>very<br>culture<br>agent |  
-| bip_39_word_new_br2 | doll<br>nephew |  
-| bip_39_word_new_br3 | doll<br>nephew<br>juice |  
-| bip_39_word_new_br4 | doll<br>nephew<br>juice<br>rebuild |  
-| bip_39_word_new_br5 | doll<br>nephew<br>juice<br>rebuild<br>thank |  
-| bip_39_word_new_br6 | doll<br>nephew<br>juice<br>rebuild<br>thank<br>search |  
-| bip_39_word_new_br7 | doll<br>nephew<br>juice<br>rebuild<br>thank<br>search<br>leader |  
-| bip_39_word_new_br8 | doll<br>nephew<br>juice<br>rebuild<br>thank<br>search<br>leader<br>load |  
-| bip_39_word_new_br9 | doll<br>nephew<br>juice<br>rebuild<br>thank<br>search<br>leader<br>load<br>anger |  
-| bip_39_word_new_line1 | doll |  
-| bip_39_word_new_line10 | doll
+| bip_39_word_new_br_1 | doll |  
+| bip_39_word_new_br_10 | doll<br>nephew<br>juice<br>rebuild<br>thank<br>search<br>leader<br>load<br>anger<br>very |  
+| bip_39_word_new_br_11 | doll<br>nephew<br>juice<br>rebuild<br>thank<br>search<br>leader<br>load<br>anger<br>very<br>culture |  
+| bip_39_word_new_br_12 | doll<br>nephew<br>juice<br>rebuild<br>thank<br>search<br>leader<br>load<br>anger<br>very<br>culture<br>agent |  
+| bip_39_word_new_br_2 | doll<br>nephew |  
+| bip_39_word_new_br_3 | doll<br>nephew<br>juice |  
+| bip_39_word_new_br_4 | doll<br>nephew<br>juice<br>rebuild |  
+| bip_39_word_new_br_5 | doll<br>nephew<br>juice<br>rebuild<br>thank |  
+| bip_39_word_new_br_6 | doll<br>nephew<br>juice<br>rebuild<br>thank<br>search |  
+| bip_39_word_new_br_7 | doll<br>nephew<br>juice<br>rebuild<br>thank<br>search<br>leader |  
+| bip_39_word_new_br_8 | doll<br>nephew<br>juice<br>rebuild<br>thank<br>search<br>leader<br>load |  
+| bip_39_word_new_br_9 | doll<br>nephew<br>juice<br>rebuild<br>thank<br>search<br>leader<br>load<br>anger |  
+| bip_39_word_new_line_1 | doll |  
+| bip_39_word_new_line_10 | doll
 nephew
 juice
 rebuild
@@ -55,7 +55,7 @@ leader
 load
 anger
 very |  
-| bip_39_word_new_line11 | doll
+| bip_39_word_new_line_11 | doll
 nephew
 juice
 rebuild
@@ -66,7 +66,7 @@ load
 anger
 very
 culture |  
-| bip_39_word_new_line12 | doll
+| bip_39_word_new_line_12 | doll
 nephew
 juice
 rebuild
@@ -78,34 +78,34 @@ anger
 very
 culture
 agent |  
-| bip_39_word_new_line2 | doll
+| bip_39_word_new_line_2 | doll
 nephew |  
-| bip_39_word_new_line3 | doll
+| bip_39_word_new_line_3 | doll
 nephew
 juice |  
-| bip_39_word_new_line4 | doll
+| bip_39_word_new_line_4 | doll
 nephew
 juice
 rebuild |  
-| bip_39_word_new_line5 | doll
+| bip_39_word_new_line_5 | doll
 nephew
 juice
 rebuild
 thank |  
-| bip_39_word_new_line6 | doll
+| bip_39_word_new_line_6 | doll
 nephew
 juice
 rebuild
 thank
 search |  
-| bip_39_word_new_line7 | doll
+| bip_39_word_new_line_7 | doll
 nephew
 juice
 rebuild
 thank
 search
 leader |  
-| bip_39_word_new_line8 | doll
+| bip_39_word_new_line_8 | doll
 nephew
 juice
 rebuild
@@ -113,7 +113,7 @@ thank
 search
 leader
 load |  
-| bip_39_word_new_line9 | doll
+| bip_39_word_new_line_9 | doll
 nephew
 juice
 rebuild

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | humor |  
-| bip_39_word_new_br10 | humor<br>list<br>blame<br>machine<br>drive<br>comfort<br>clerk<br>yellow<br>rally<br>amused |  
-| bip_39_word_new_br11 | humor<br>list<br>blame<br>machine<br>drive<br>comfort<br>clerk<br>yellow<br>rally<br>amused<br>canoe |  
-| bip_39_word_new_br12 | humor<br>list<br>blame<br>machine<br>drive<br>comfort<br>clerk<br>yellow<br>rally<br>amused<br>canoe<br>anger |  
-| bip_39_word_new_br2 | humor<br>list |  
-| bip_39_word_new_br3 | humor<br>list<br>blame |  
-| bip_39_word_new_br4 | humor<br>list<br>blame<br>machine |  
-| bip_39_word_new_br5 | humor<br>list<br>blame<br>machine<br>drive |  
-| bip_39_word_new_br6 | humor<br>list<br>blame<br>machine<br>drive<br>comfort |  
-| bip_39_word_new_br7 | humor<br>list<br>blame<br>machine<br>drive<br>comfort<br>clerk |  
-| bip_39_word_new_br8 | humor<br>list<br>blame<br>machine<br>drive<br>comfort<br>clerk<br>yellow |  
-| bip_39_word_new_br9 | humor<br>list<br>blame<br>machine<br>drive<br>comfort<br>clerk<br>yellow<br>rally |  
-| bip_39_word_new_line1 | humor |  
-| bip_39_word_new_line10 | humor
+| bip_39_word_new_br_1 | humor |  
+| bip_39_word_new_br_10 | humor<br>list<br>blame<br>machine<br>drive<br>comfort<br>clerk<br>yellow<br>rally<br>amused |  
+| bip_39_word_new_br_11 | humor<br>list<br>blame<br>machine<br>drive<br>comfort<br>clerk<br>yellow<br>rally<br>amused<br>canoe |  
+| bip_39_word_new_br_12 | humor<br>list<br>blame<br>machine<br>drive<br>comfort<br>clerk<br>yellow<br>rally<br>amused<br>canoe<br>anger |  
+| bip_39_word_new_br_2 | humor<br>list |  
+| bip_39_word_new_br_3 | humor<br>list<br>blame |  
+| bip_39_word_new_br_4 | humor<br>list<br>blame<br>machine |  
+| bip_39_word_new_br_5 | humor<br>list<br>blame<br>machine<br>drive |  
+| bip_39_word_new_br_6 | humor<br>list<br>blame<br>machine<br>drive<br>comfort |  
+| bip_39_word_new_br_7 | humor<br>list<br>blame<br>machine<br>drive<br>comfort<br>clerk |  
+| bip_39_word_new_br_8 | humor<br>list<br>blame<br>machine<br>drive<br>comfort<br>clerk<br>yellow |  
+| bip_39_word_new_br_9 | humor<br>list<br>blame<br>machine<br>drive<br>comfort<br>clerk<br>yellow<br>rally |  
+| bip_39_word_new_line_1 | humor |  
+| bip_39_word_new_line_10 | humor
 list
 blame
 machine
@@ -55,7 +55,7 @@ clerk
 yellow
 rally
 amused |  
-| bip_39_word_new_line11 | humor
+| bip_39_word_new_line_11 | humor
 list
 blame
 machine
@@ -66,7 +66,7 @@ yellow
 rally
 amused
 canoe |  
-| bip_39_word_new_line12 | humor
+| bip_39_word_new_line_12 | humor
 list
 blame
 machine
@@ -78,34 +78,34 @@ rally
 amused
 canoe
 anger |  
-| bip_39_word_new_line2 | humor
+| bip_39_word_new_line_2 | humor
 list |  
-| bip_39_word_new_line3 | humor
+| bip_39_word_new_line_3 | humor
 list
 blame |  
-| bip_39_word_new_line4 | humor
+| bip_39_word_new_line_4 | humor
 list
 blame
 machine |  
-| bip_39_word_new_line5 | humor
+| bip_39_word_new_line_5 | humor
 list
 blame
 machine
 drive |  
-| bip_39_word_new_line6 | humor
+| bip_39_word_new_line_6 | humor
 list
 blame
 machine
 drive
 comfort |  
-| bip_39_word_new_line7 | humor
+| bip_39_word_new_line_7 | humor
 list
 blame
 machine
 drive
 comfort
 clerk |  
-| bip_39_word_new_line8 | humor
+| bip_39_word_new_line_8 | humor
 list
 blame
 machine
@@ -113,7 +113,7 @@ drive
 comfort
 clerk
 yellow |  
-| bip_39_word_new_line9 | humor
+| bip_39_word_new_line_9 | humor
 list
 blame
 machine

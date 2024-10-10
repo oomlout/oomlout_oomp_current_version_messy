@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | adult |  
-| bip_39_word_new_br10 | adult<br>arch<br>arm<br>action<br>vacant<br>advance<br>equal<br>energy<br>tragic<br>crash |  
-| bip_39_word_new_br11 | adult<br>arch<br>arm<br>action<br>vacant<br>advance<br>equal<br>energy<br>tragic<br>crash<br>tent |  
-| bip_39_word_new_br12 | adult<br>arch<br>arm<br>action<br>vacant<br>advance<br>equal<br>energy<br>tragic<br>crash<br>tent<br>answer |  
-| bip_39_word_new_br2 | adult<br>arch |  
-| bip_39_word_new_br3 | adult<br>arch<br>arm |  
-| bip_39_word_new_br4 | adult<br>arch<br>arm<br>action |  
-| bip_39_word_new_br5 | adult<br>arch<br>arm<br>action<br>vacant |  
-| bip_39_word_new_br6 | adult<br>arch<br>arm<br>action<br>vacant<br>advance |  
-| bip_39_word_new_br7 | adult<br>arch<br>arm<br>action<br>vacant<br>advance<br>equal |  
-| bip_39_word_new_br8 | adult<br>arch<br>arm<br>action<br>vacant<br>advance<br>equal<br>energy |  
-| bip_39_word_new_br9 | adult<br>arch<br>arm<br>action<br>vacant<br>advance<br>equal<br>energy<br>tragic |  
-| bip_39_word_new_line1 | adult |  
-| bip_39_word_new_line10 | adult
+| bip_39_word_new_br_1 | adult |  
+| bip_39_word_new_br_10 | adult<br>arch<br>arm<br>action<br>vacant<br>advance<br>equal<br>energy<br>tragic<br>crash |  
+| bip_39_word_new_br_11 | adult<br>arch<br>arm<br>action<br>vacant<br>advance<br>equal<br>energy<br>tragic<br>crash<br>tent |  
+| bip_39_word_new_br_12 | adult<br>arch<br>arm<br>action<br>vacant<br>advance<br>equal<br>energy<br>tragic<br>crash<br>tent<br>answer |  
+| bip_39_word_new_br_2 | adult<br>arch |  
+| bip_39_word_new_br_3 | adult<br>arch<br>arm |  
+| bip_39_word_new_br_4 | adult<br>arch<br>arm<br>action |  
+| bip_39_word_new_br_5 | adult<br>arch<br>arm<br>action<br>vacant |  
+| bip_39_word_new_br_6 | adult<br>arch<br>arm<br>action<br>vacant<br>advance |  
+| bip_39_word_new_br_7 | adult<br>arch<br>arm<br>action<br>vacant<br>advance<br>equal |  
+| bip_39_word_new_br_8 | adult<br>arch<br>arm<br>action<br>vacant<br>advance<br>equal<br>energy |  
+| bip_39_word_new_br_9 | adult<br>arch<br>arm<br>action<br>vacant<br>advance<br>equal<br>energy<br>tragic |  
+| bip_39_word_new_line_1 | adult |  
+| bip_39_word_new_line_10 | adult
 arch
 arm
 action
@@ -55,7 +55,7 @@ equal
 energy
 tragic
 crash |  
-| bip_39_word_new_line11 | adult
+| bip_39_word_new_line_11 | adult
 arch
 arm
 action
@@ -66,7 +66,7 @@ energy
 tragic
 crash
 tent |  
-| bip_39_word_new_line12 | adult
+| bip_39_word_new_line_12 | adult
 arch
 arm
 action
@@ -78,34 +78,34 @@ tragic
 crash
 tent
 answer |  
-| bip_39_word_new_line2 | adult
+| bip_39_word_new_line_2 | adult
 arch |  
-| bip_39_word_new_line3 | adult
+| bip_39_word_new_line_3 | adult
 arch
 arm |  
-| bip_39_word_new_line4 | adult
+| bip_39_word_new_line_4 | adult
 arch
 arm
 action |  
-| bip_39_word_new_line5 | adult
+| bip_39_word_new_line_5 | adult
 arch
 arm
 action
 vacant |  
-| bip_39_word_new_line6 | adult
+| bip_39_word_new_line_6 | adult
 arch
 arm
 action
 vacant
 advance |  
-| bip_39_word_new_line7 | adult
+| bip_39_word_new_line_7 | adult
 arch
 arm
 action
 vacant
 advance
 equal |  
-| bip_39_word_new_line8 | adult
+| bip_39_word_new_line_8 | adult
 arch
 arm
 action
@@ -113,7 +113,7 @@ vacant
 advance
 equal
 energy |  
-| bip_39_word_new_line9 | adult
+| bip_39_word_new_line_9 | adult
 arch
 arm
 action

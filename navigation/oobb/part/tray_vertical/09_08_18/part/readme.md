@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | unaware |  
-| bip_39_word_new_br10 | unaware<br>sick<br>charge<br>steel<br>shaft<br>hundred<br>peace<br>invest<br>caught<br>inhale |  
-| bip_39_word_new_br11 | unaware<br>sick<br>charge<br>steel<br>shaft<br>hundred<br>peace<br>invest<br>caught<br>inhale<br>glue |  
-| bip_39_word_new_br12 | unaware<br>sick<br>charge<br>steel<br>shaft<br>hundred<br>peace<br>invest<br>caught<br>inhale<br>glue<br>annual |  
-| bip_39_word_new_br2 | unaware<br>sick |  
-| bip_39_word_new_br3 | unaware<br>sick<br>charge |  
-| bip_39_word_new_br4 | unaware<br>sick<br>charge<br>steel |  
-| bip_39_word_new_br5 | unaware<br>sick<br>charge<br>steel<br>shaft |  
-| bip_39_word_new_br6 | unaware<br>sick<br>charge<br>steel<br>shaft<br>hundred |  
-| bip_39_word_new_br7 | unaware<br>sick<br>charge<br>steel<br>shaft<br>hundred<br>peace |  
-| bip_39_word_new_br8 | unaware<br>sick<br>charge<br>steel<br>shaft<br>hundred<br>peace<br>invest |  
-| bip_39_word_new_br9 | unaware<br>sick<br>charge<br>steel<br>shaft<br>hundred<br>peace<br>invest<br>caught |  
-| bip_39_word_new_line1 | unaware |  
-| bip_39_word_new_line10 | unaware
+| bip_39_word_new_br_1 | unaware |  
+| bip_39_word_new_br_10 | unaware<br>sick<br>charge<br>steel<br>shaft<br>hundred<br>peace<br>invest<br>caught<br>inhale |  
+| bip_39_word_new_br_11 | unaware<br>sick<br>charge<br>steel<br>shaft<br>hundred<br>peace<br>invest<br>caught<br>inhale<br>glue |  
+| bip_39_word_new_br_12 | unaware<br>sick<br>charge<br>steel<br>shaft<br>hundred<br>peace<br>invest<br>caught<br>inhale<br>glue<br>annual |  
+| bip_39_word_new_br_2 | unaware<br>sick |  
+| bip_39_word_new_br_3 | unaware<br>sick<br>charge |  
+| bip_39_word_new_br_4 | unaware<br>sick<br>charge<br>steel |  
+| bip_39_word_new_br_5 | unaware<br>sick<br>charge<br>steel<br>shaft |  
+| bip_39_word_new_br_6 | unaware<br>sick<br>charge<br>steel<br>shaft<br>hundred |  
+| bip_39_word_new_br_7 | unaware<br>sick<br>charge<br>steel<br>shaft<br>hundred<br>peace |  
+| bip_39_word_new_br_8 | unaware<br>sick<br>charge<br>steel<br>shaft<br>hundred<br>peace<br>invest |  
+| bip_39_word_new_br_9 | unaware<br>sick<br>charge<br>steel<br>shaft<br>hundred<br>peace<br>invest<br>caught |  
+| bip_39_word_new_line_1 | unaware |  
+| bip_39_word_new_line_10 | unaware
 sick
 charge
 steel
@@ -55,7 +55,7 @@ peace
 invest
 caught
 inhale |  
-| bip_39_word_new_line11 | unaware
+| bip_39_word_new_line_11 | unaware
 sick
 charge
 steel
@@ -66,7 +66,7 @@ invest
 caught
 inhale
 glue |  
-| bip_39_word_new_line12 | unaware
+| bip_39_word_new_line_12 | unaware
 sick
 charge
 steel
@@ -78,34 +78,34 @@ caught
 inhale
 glue
 annual |  
-| bip_39_word_new_line2 | unaware
+| bip_39_word_new_line_2 | unaware
 sick |  
-| bip_39_word_new_line3 | unaware
+| bip_39_word_new_line_3 | unaware
 sick
 charge |  
-| bip_39_word_new_line4 | unaware
+| bip_39_word_new_line_4 | unaware
 sick
 charge
 steel |  
-| bip_39_word_new_line5 | unaware
+| bip_39_word_new_line_5 | unaware
 sick
 charge
 steel
 shaft |  
-| bip_39_word_new_line6 | unaware
+| bip_39_word_new_line_6 | unaware
 sick
 charge
 steel
 shaft
 hundred |  
-| bip_39_word_new_line7 | unaware
+| bip_39_word_new_line_7 | unaware
 sick
 charge
 steel
 shaft
 hundred
 peace |  
-| bip_39_word_new_line8 | unaware
+| bip_39_word_new_line_8 | unaware
 sick
 charge
 steel
@@ -113,7 +113,7 @@ shaft
 hundred
 peace
 invest |  
-| bip_39_word_new_line9 | unaware
+| bip_39_word_new_line_9 | unaware
 sick
 charge
 steel

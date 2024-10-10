@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | barely |  
-| bip_39_word_new_br10 | barely<br>pistol<br>empty<br>ticket<br>equal<br>crystal<br>wait<br>cash<br>shoot<br>member |  
-| bip_39_word_new_br11 | barely<br>pistol<br>empty<br>ticket<br>equal<br>crystal<br>wait<br>cash<br>shoot<br>member<br>rent |  
-| bip_39_word_new_br12 | barely<br>pistol<br>empty<br>ticket<br>equal<br>crystal<br>wait<br>cash<br>shoot<br>member<br>rent<br>arch |  
-| bip_39_word_new_br2 | barely<br>pistol |  
-| bip_39_word_new_br3 | barely<br>pistol<br>empty |  
-| bip_39_word_new_br4 | barely<br>pistol<br>empty<br>ticket |  
-| bip_39_word_new_br5 | barely<br>pistol<br>empty<br>ticket<br>equal |  
-| bip_39_word_new_br6 | barely<br>pistol<br>empty<br>ticket<br>equal<br>crystal |  
-| bip_39_word_new_br7 | barely<br>pistol<br>empty<br>ticket<br>equal<br>crystal<br>wait |  
-| bip_39_word_new_br8 | barely<br>pistol<br>empty<br>ticket<br>equal<br>crystal<br>wait<br>cash |  
-| bip_39_word_new_br9 | barely<br>pistol<br>empty<br>ticket<br>equal<br>crystal<br>wait<br>cash<br>shoot |  
-| bip_39_word_new_line1 | barely |  
-| bip_39_word_new_line10 | barely
+| bip_39_word_new_br_1 | barely |  
+| bip_39_word_new_br_10 | barely<br>pistol<br>empty<br>ticket<br>equal<br>crystal<br>wait<br>cash<br>shoot<br>member |  
+| bip_39_word_new_br_11 | barely<br>pistol<br>empty<br>ticket<br>equal<br>crystal<br>wait<br>cash<br>shoot<br>member<br>rent |  
+| bip_39_word_new_br_12 | barely<br>pistol<br>empty<br>ticket<br>equal<br>crystal<br>wait<br>cash<br>shoot<br>member<br>rent<br>arch |  
+| bip_39_word_new_br_2 | barely<br>pistol |  
+| bip_39_word_new_br_3 | barely<br>pistol<br>empty |  
+| bip_39_word_new_br_4 | barely<br>pistol<br>empty<br>ticket |  
+| bip_39_word_new_br_5 | barely<br>pistol<br>empty<br>ticket<br>equal |  
+| bip_39_word_new_br_6 | barely<br>pistol<br>empty<br>ticket<br>equal<br>crystal |  
+| bip_39_word_new_br_7 | barely<br>pistol<br>empty<br>ticket<br>equal<br>crystal<br>wait |  
+| bip_39_word_new_br_8 | barely<br>pistol<br>empty<br>ticket<br>equal<br>crystal<br>wait<br>cash |  
+| bip_39_word_new_br_9 | barely<br>pistol<br>empty<br>ticket<br>equal<br>crystal<br>wait<br>cash<br>shoot |  
+| bip_39_word_new_line_1 | barely |  
+| bip_39_word_new_line_10 | barely
 pistol
 empty
 ticket
@@ -55,7 +55,7 @@ wait
 cash
 shoot
 member |  
-| bip_39_word_new_line11 | barely
+| bip_39_word_new_line_11 | barely
 pistol
 empty
 ticket
@@ -66,7 +66,7 @@ cash
 shoot
 member
 rent |  
-| bip_39_word_new_line12 | barely
+| bip_39_word_new_line_12 | barely
 pistol
 empty
 ticket
@@ -78,34 +78,34 @@ shoot
 member
 rent
 arch |  
-| bip_39_word_new_line2 | barely
+| bip_39_word_new_line_2 | barely
 pistol |  
-| bip_39_word_new_line3 | barely
+| bip_39_word_new_line_3 | barely
 pistol
 empty |  
-| bip_39_word_new_line4 | barely
+| bip_39_word_new_line_4 | barely
 pistol
 empty
 ticket |  
-| bip_39_word_new_line5 | barely
+| bip_39_word_new_line_5 | barely
 pistol
 empty
 ticket
 equal |  
-| bip_39_word_new_line6 | barely
+| bip_39_word_new_line_6 | barely
 pistol
 empty
 ticket
 equal
 crystal |  
-| bip_39_word_new_line7 | barely
+| bip_39_word_new_line_7 | barely
 pistol
 empty
 ticket
 equal
 crystal
 wait |  
-| bip_39_word_new_line8 | barely
+| bip_39_word_new_line_8 | barely
 pistol
 empty
 ticket
@@ -113,7 +113,7 @@ equal
 crystal
 wait
 cash |  
-| bip_39_word_new_line9 | barely
+| bip_39_word_new_line_9 | barely
 pistol
 empty
 ticket

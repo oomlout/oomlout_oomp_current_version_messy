@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | junk |  
-| bip_39_word_new_br10 | junk<br>pupil<br>harbor<br>unknown<br>husband<br>maximum<br>way<br>flower<br>shift<br>edit |  
-| bip_39_word_new_br11 | junk<br>pupil<br>harbor<br>unknown<br>husband<br>maximum<br>way<br>flower<br>shift<br>edit<br>cup |  
-| bip_39_word_new_br12 | junk<br>pupil<br>harbor<br>unknown<br>husband<br>maximum<br>way<br>flower<br>shift<br>edit<br>cup<br>anger |  
-| bip_39_word_new_br2 | junk<br>pupil |  
-| bip_39_word_new_br3 | junk<br>pupil<br>harbor |  
-| bip_39_word_new_br4 | junk<br>pupil<br>harbor<br>unknown |  
-| bip_39_word_new_br5 | junk<br>pupil<br>harbor<br>unknown<br>husband |  
-| bip_39_word_new_br6 | junk<br>pupil<br>harbor<br>unknown<br>husband<br>maximum |  
-| bip_39_word_new_br7 | junk<br>pupil<br>harbor<br>unknown<br>husband<br>maximum<br>way |  
-| bip_39_word_new_br8 | junk<br>pupil<br>harbor<br>unknown<br>husband<br>maximum<br>way<br>flower |  
-| bip_39_word_new_br9 | junk<br>pupil<br>harbor<br>unknown<br>husband<br>maximum<br>way<br>flower<br>shift |  
-| bip_39_word_new_line1 | junk |  
-| bip_39_word_new_line10 | junk
+| bip_39_word_new_br_1 | junk |  
+| bip_39_word_new_br_10 | junk<br>pupil<br>harbor<br>unknown<br>husband<br>maximum<br>way<br>flower<br>shift<br>edit |  
+| bip_39_word_new_br_11 | junk<br>pupil<br>harbor<br>unknown<br>husband<br>maximum<br>way<br>flower<br>shift<br>edit<br>cup |  
+| bip_39_word_new_br_12 | junk<br>pupil<br>harbor<br>unknown<br>husband<br>maximum<br>way<br>flower<br>shift<br>edit<br>cup<br>anger |  
+| bip_39_word_new_br_2 | junk<br>pupil |  
+| bip_39_word_new_br_3 | junk<br>pupil<br>harbor |  
+| bip_39_word_new_br_4 | junk<br>pupil<br>harbor<br>unknown |  
+| bip_39_word_new_br_5 | junk<br>pupil<br>harbor<br>unknown<br>husband |  
+| bip_39_word_new_br_6 | junk<br>pupil<br>harbor<br>unknown<br>husband<br>maximum |  
+| bip_39_word_new_br_7 | junk<br>pupil<br>harbor<br>unknown<br>husband<br>maximum<br>way |  
+| bip_39_word_new_br_8 | junk<br>pupil<br>harbor<br>unknown<br>husband<br>maximum<br>way<br>flower |  
+| bip_39_word_new_br_9 | junk<br>pupil<br>harbor<br>unknown<br>husband<br>maximum<br>way<br>flower<br>shift |  
+| bip_39_word_new_line_1 | junk |  
+| bip_39_word_new_line_10 | junk
 pupil
 harbor
 unknown
@@ -55,7 +55,7 @@ way
 flower
 shift
 edit |  
-| bip_39_word_new_line11 | junk
+| bip_39_word_new_line_11 | junk
 pupil
 harbor
 unknown
@@ -66,7 +66,7 @@ flower
 shift
 edit
 cup |  
-| bip_39_word_new_line12 | junk
+| bip_39_word_new_line_12 | junk
 pupil
 harbor
 unknown
@@ -78,34 +78,34 @@ shift
 edit
 cup
 anger |  
-| bip_39_word_new_line2 | junk
+| bip_39_word_new_line_2 | junk
 pupil |  
-| bip_39_word_new_line3 | junk
+| bip_39_word_new_line_3 | junk
 pupil
 harbor |  
-| bip_39_word_new_line4 | junk
+| bip_39_word_new_line_4 | junk
 pupil
 harbor
 unknown |  
-| bip_39_word_new_line5 | junk
+| bip_39_word_new_line_5 | junk
 pupil
 harbor
 unknown
 husband |  
-| bip_39_word_new_line6 | junk
+| bip_39_word_new_line_6 | junk
 pupil
 harbor
 unknown
 husband
 maximum |  
-| bip_39_word_new_line7 | junk
+| bip_39_word_new_line_7 | junk
 pupil
 harbor
 unknown
 husband
 maximum
 way |  
-| bip_39_word_new_line8 | junk
+| bip_39_word_new_line_8 | junk
 pupil
 harbor
 unknown
@@ -113,7 +113,7 @@ husband
 maximum
 way
 flower |  
-| bip_39_word_new_line9 | junk
+| bip_39_word_new_line_9 | junk
 pupil
 harbor
 unknown

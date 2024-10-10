@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | talent |  
-| bip_39_word_new_br10 | talent<br>congress<br>avocado<br>lift<br>dad<br>popular<br>furnace<br>monkey<br>common<br>nest |  
-| bip_39_word_new_br11 | talent<br>congress<br>avocado<br>lift<br>dad<br>popular<br>furnace<br>monkey<br>common<br>nest<br>whale |  
-| bip_39_word_new_br12 | talent<br>congress<br>avocado<br>lift<br>dad<br>popular<br>furnace<br>monkey<br>common<br>nest<br>whale<br>amazing |  
-| bip_39_word_new_br2 | talent<br>congress |  
-| bip_39_word_new_br3 | talent<br>congress<br>avocado |  
-| bip_39_word_new_br4 | talent<br>congress<br>avocado<br>lift |  
-| bip_39_word_new_br5 | talent<br>congress<br>avocado<br>lift<br>dad |  
-| bip_39_word_new_br6 | talent<br>congress<br>avocado<br>lift<br>dad<br>popular |  
-| bip_39_word_new_br7 | talent<br>congress<br>avocado<br>lift<br>dad<br>popular<br>furnace |  
-| bip_39_word_new_br8 | talent<br>congress<br>avocado<br>lift<br>dad<br>popular<br>furnace<br>monkey |  
-| bip_39_word_new_br9 | talent<br>congress<br>avocado<br>lift<br>dad<br>popular<br>furnace<br>monkey<br>common |  
-| bip_39_word_new_line1 | talent |  
-| bip_39_word_new_line10 | talent
+| bip_39_word_new_br_1 | talent |  
+| bip_39_word_new_br_10 | talent<br>congress<br>avocado<br>lift<br>dad<br>popular<br>furnace<br>monkey<br>common<br>nest |  
+| bip_39_word_new_br_11 | talent<br>congress<br>avocado<br>lift<br>dad<br>popular<br>furnace<br>monkey<br>common<br>nest<br>whale |  
+| bip_39_word_new_br_12 | talent<br>congress<br>avocado<br>lift<br>dad<br>popular<br>furnace<br>monkey<br>common<br>nest<br>whale<br>amazing |  
+| bip_39_word_new_br_2 | talent<br>congress |  
+| bip_39_word_new_br_3 | talent<br>congress<br>avocado |  
+| bip_39_word_new_br_4 | talent<br>congress<br>avocado<br>lift |  
+| bip_39_word_new_br_5 | talent<br>congress<br>avocado<br>lift<br>dad |  
+| bip_39_word_new_br_6 | talent<br>congress<br>avocado<br>lift<br>dad<br>popular |  
+| bip_39_word_new_br_7 | talent<br>congress<br>avocado<br>lift<br>dad<br>popular<br>furnace |  
+| bip_39_word_new_br_8 | talent<br>congress<br>avocado<br>lift<br>dad<br>popular<br>furnace<br>monkey |  
+| bip_39_word_new_br_9 | talent<br>congress<br>avocado<br>lift<br>dad<br>popular<br>furnace<br>monkey<br>common |  
+| bip_39_word_new_line_1 | talent |  
+| bip_39_word_new_line_10 | talent
 congress
 avocado
 lift
@@ -55,7 +55,7 @@ furnace
 monkey
 common
 nest |  
-| bip_39_word_new_line11 | talent
+| bip_39_word_new_line_11 | talent
 congress
 avocado
 lift
@@ -66,7 +66,7 @@ monkey
 common
 nest
 whale |  
-| bip_39_word_new_line12 | talent
+| bip_39_word_new_line_12 | talent
 congress
 avocado
 lift
@@ -78,34 +78,34 @@ common
 nest
 whale
 amazing |  
-| bip_39_word_new_line2 | talent
+| bip_39_word_new_line_2 | talent
 congress |  
-| bip_39_word_new_line3 | talent
+| bip_39_word_new_line_3 | talent
 congress
 avocado |  
-| bip_39_word_new_line4 | talent
+| bip_39_word_new_line_4 | talent
 congress
 avocado
 lift |  
-| bip_39_word_new_line5 | talent
+| bip_39_word_new_line_5 | talent
 congress
 avocado
 lift
 dad |  
-| bip_39_word_new_line6 | talent
+| bip_39_word_new_line_6 | talent
 congress
 avocado
 lift
 dad
 popular |  
-| bip_39_word_new_line7 | talent
+| bip_39_word_new_line_7 | talent
 congress
 avocado
 lift
 dad
 popular
 furnace |  
-| bip_39_word_new_line8 | talent
+| bip_39_word_new_line_8 | talent
 congress
 avocado
 lift
@@ -113,7 +113,7 @@ dad
 popular
 furnace
 monkey |  
-| bip_39_word_new_line9 | talent
+| bip_39_word_new_line_9 | talent
 congress
 avocado
 lift

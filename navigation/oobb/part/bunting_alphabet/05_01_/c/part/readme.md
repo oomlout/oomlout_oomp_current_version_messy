@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | outer |  
-| bip_39_word_new_br10 | outer<br>spider<br>learn<br>fresh<br>practice<br>acquire<br>certain<br>bottom<br>squeeze<br>squeeze |  
-| bip_39_word_new_br11 | outer<br>spider<br>learn<br>fresh<br>practice<br>acquire<br>certain<br>bottom<br>squeeze<br>squeeze<br>bleak |  
-| bip_39_word_new_br12 | outer<br>spider<br>learn<br>fresh<br>practice<br>acquire<br>certain<br>bottom<br>squeeze<br>squeeze<br>bleak<br>alone |  
-| bip_39_word_new_br2 | outer<br>spider |  
-| bip_39_word_new_br3 | outer<br>spider<br>learn |  
-| bip_39_word_new_br4 | outer<br>spider<br>learn<br>fresh |  
-| bip_39_word_new_br5 | outer<br>spider<br>learn<br>fresh<br>practice |  
-| bip_39_word_new_br6 | outer<br>spider<br>learn<br>fresh<br>practice<br>acquire |  
-| bip_39_word_new_br7 | outer<br>spider<br>learn<br>fresh<br>practice<br>acquire<br>certain |  
-| bip_39_word_new_br8 | outer<br>spider<br>learn<br>fresh<br>practice<br>acquire<br>certain<br>bottom |  
-| bip_39_word_new_br9 | outer<br>spider<br>learn<br>fresh<br>practice<br>acquire<br>certain<br>bottom<br>squeeze |  
-| bip_39_word_new_line1 | outer |  
-| bip_39_word_new_line10 | outer
+| bip_39_word_new_br_1 | outer |  
+| bip_39_word_new_br_10 | outer<br>spider<br>learn<br>fresh<br>practice<br>acquire<br>certain<br>bottom<br>squeeze<br>squeeze |  
+| bip_39_word_new_br_11 | outer<br>spider<br>learn<br>fresh<br>practice<br>acquire<br>certain<br>bottom<br>squeeze<br>squeeze<br>bleak |  
+| bip_39_word_new_br_12 | outer<br>spider<br>learn<br>fresh<br>practice<br>acquire<br>certain<br>bottom<br>squeeze<br>squeeze<br>bleak<br>alone |  
+| bip_39_word_new_br_2 | outer<br>spider |  
+| bip_39_word_new_br_3 | outer<br>spider<br>learn |  
+| bip_39_word_new_br_4 | outer<br>spider<br>learn<br>fresh |  
+| bip_39_word_new_br_5 | outer<br>spider<br>learn<br>fresh<br>practice |  
+| bip_39_word_new_br_6 | outer<br>spider<br>learn<br>fresh<br>practice<br>acquire |  
+| bip_39_word_new_br_7 | outer<br>spider<br>learn<br>fresh<br>practice<br>acquire<br>certain |  
+| bip_39_word_new_br_8 | outer<br>spider<br>learn<br>fresh<br>practice<br>acquire<br>certain<br>bottom |  
+| bip_39_word_new_br_9 | outer<br>spider<br>learn<br>fresh<br>practice<br>acquire<br>certain<br>bottom<br>squeeze |  
+| bip_39_word_new_line_1 | outer |  
+| bip_39_word_new_line_10 | outer
 spider
 learn
 fresh
@@ -55,7 +55,7 @@ certain
 bottom
 squeeze
 squeeze |  
-| bip_39_word_new_line11 | outer
+| bip_39_word_new_line_11 | outer
 spider
 learn
 fresh
@@ -66,7 +66,7 @@ bottom
 squeeze
 squeeze
 bleak |  
-| bip_39_word_new_line12 | outer
+| bip_39_word_new_line_12 | outer
 spider
 learn
 fresh
@@ -78,34 +78,34 @@ squeeze
 squeeze
 bleak
 alone |  
-| bip_39_word_new_line2 | outer
+| bip_39_word_new_line_2 | outer
 spider |  
-| bip_39_word_new_line3 | outer
+| bip_39_word_new_line_3 | outer
 spider
 learn |  
-| bip_39_word_new_line4 | outer
+| bip_39_word_new_line_4 | outer
 spider
 learn
 fresh |  
-| bip_39_word_new_line5 | outer
+| bip_39_word_new_line_5 | outer
 spider
 learn
 fresh
 practice |  
-| bip_39_word_new_line6 | outer
+| bip_39_word_new_line_6 | outer
 spider
 learn
 fresh
 practice
 acquire |  
-| bip_39_word_new_line7 | outer
+| bip_39_word_new_line_7 | outer
 spider
 learn
 fresh
 practice
 acquire
 certain |  
-| bip_39_word_new_line8 | outer
+| bip_39_word_new_line_8 | outer
 spider
 learn
 fresh
@@ -113,7 +113,7 @@ practice
 acquire
 certain
 bottom |  
-| bip_39_word_new_line9 | outer
+| bip_39_word_new_line_9 | outer
 spider
 learn
 fresh

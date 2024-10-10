@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ancient |  
-| bip_39_word_new_br10 | ancient<br>toast<br>grape<br>flat<br>cheese<br>entry<br>exhaust<br>inflict<br>marriage<br>rain |  
-| bip_39_word_new_br11 | ancient<br>toast<br>grape<br>flat<br>cheese<br>entry<br>exhaust<br>inflict<br>marriage<br>rain<br>soup |  
-| bip_39_word_new_br2 | ancient<br>toast |  
-| bip_39_word_new_br3 | ancient<br>toast<br>grape |  
-| bip_39_word_new_br4 | ancient<br>toast<br>grape<br>flat |  
-| bip_39_word_new_br5 | ancient<br>toast<br>grape<br>flat<br>cheese |  
-| bip_39_word_new_br6 | ancient<br>toast<br>grape<br>flat<br>cheese<br>entry |  
-| bip_39_word_new_br7 | ancient<br>toast<br>grape<br>flat<br>cheese<br>entry<br>exhaust |  
-| bip_39_word_new_br8 | ancient<br>toast<br>grape<br>flat<br>cheese<br>entry<br>exhaust<br>inflict |  
-| bip_39_word_new_br9 | ancient<br>toast<br>grape<br>flat<br>cheese<br>entry<br>exhaust<br>inflict<br>marriage |  
-| bip_39_word_new_line1 | ancient |  
-| bip_39_word_new_line10 | ancient
+| bip_39_word_new_br_1 | ancient |  
+| bip_39_word_new_br_10 | ancient<br>toast<br>grape<br>flat<br>cheese<br>entry<br>exhaust<br>inflict<br>marriage<br>rain |  
+| bip_39_word_new_br_11 | ancient<br>toast<br>grape<br>flat<br>cheese<br>entry<br>exhaust<br>inflict<br>marriage<br>rain<br>soup |  
+| bip_39_word_new_br_2 | ancient<br>toast |  
+| bip_39_word_new_br_3 | ancient<br>toast<br>grape |  
+| bip_39_word_new_br_4 | ancient<br>toast<br>grape<br>flat |  
+| bip_39_word_new_br_5 | ancient<br>toast<br>grape<br>flat<br>cheese |  
+| bip_39_word_new_br_6 | ancient<br>toast<br>grape<br>flat<br>cheese<br>entry |  
+| bip_39_word_new_br_7 | ancient<br>toast<br>grape<br>flat<br>cheese<br>entry<br>exhaust |  
+| bip_39_word_new_br_8 | ancient<br>toast<br>grape<br>flat<br>cheese<br>entry<br>exhaust<br>inflict |  
+| bip_39_word_new_br_9 | ancient<br>toast<br>grape<br>flat<br>cheese<br>entry<br>exhaust<br>inflict<br>marriage |  
+| bip_39_word_new_line_1 | ancient |  
+| bip_39_word_new_line_10 | ancient
 toast
 grape
 flat
@@ -54,7 +54,7 @@ exhaust
 inflict
 marriage
 rain |  
-| bip_39_word_new_line11 | ancient
+| bip_39_word_new_line_11 | ancient
 toast
 grape
 flat
@@ -65,34 +65,34 @@ inflict
 marriage
 rain
 soup |  
-| bip_39_word_new_line2 | ancient
+| bip_39_word_new_line_2 | ancient
 toast |  
-| bip_39_word_new_line3 | ancient
+| bip_39_word_new_line_3 | ancient
 toast
 grape |  
-| bip_39_word_new_line4 | ancient
+| bip_39_word_new_line_4 | ancient
 toast
 grape
 flat |  
-| bip_39_word_new_line5 | ancient
+| bip_39_word_new_line_5 | ancient
 toast
 grape
 flat
 cheese |  
-| bip_39_word_new_line6 | ancient
+| bip_39_word_new_line_6 | ancient
 toast
 grape
 flat
 cheese
 entry |  
-| bip_39_word_new_line7 | ancient
+| bip_39_word_new_line_7 | ancient
 toast
 grape
 flat
 cheese
 entry
 exhaust |  
-| bip_39_word_new_line8 | ancient
+| bip_39_word_new_line_8 | ancient
 toast
 grape
 flat
@@ -100,7 +100,7 @@ cheese
 entry
 exhaust
 inflict |  
-| bip_39_word_new_line9 | ancient
+| bip_39_word_new_line_9 | ancient
 toast
 grape
 flat

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | frequent |  
-| bip_39_word_new_br10 | frequent<br>ticket<br>token<br>believe<br>answer<br>isolate<br>inflict<br>road<br>wolf<br>helmet |  
-| bip_39_word_new_br11 | frequent<br>ticket<br>token<br>believe<br>answer<br>isolate<br>inflict<br>road<br>wolf<br>helmet<br>aim |  
-| bip_39_word_new_br12 | frequent<br>ticket<br>token<br>believe<br>answer<br>isolate<br>inflict<br>road<br>wolf<br>helmet<br>aim<br>air |  
-| bip_39_word_new_br2 | frequent<br>ticket |  
-| bip_39_word_new_br3 | frequent<br>ticket<br>token |  
-| bip_39_word_new_br4 | frequent<br>ticket<br>token<br>believe |  
-| bip_39_word_new_br5 | frequent<br>ticket<br>token<br>believe<br>answer |  
-| bip_39_word_new_br6 | frequent<br>ticket<br>token<br>believe<br>answer<br>isolate |  
-| bip_39_word_new_br7 | frequent<br>ticket<br>token<br>believe<br>answer<br>isolate<br>inflict |  
-| bip_39_word_new_br8 | frequent<br>ticket<br>token<br>believe<br>answer<br>isolate<br>inflict<br>road |  
-| bip_39_word_new_br9 | frequent<br>ticket<br>token<br>believe<br>answer<br>isolate<br>inflict<br>road<br>wolf |  
-| bip_39_word_new_line1 | frequent |  
-| bip_39_word_new_line10 | frequent
+| bip_39_word_new_br_1 | frequent |  
+| bip_39_word_new_br_10 | frequent<br>ticket<br>token<br>believe<br>answer<br>isolate<br>inflict<br>road<br>wolf<br>helmet |  
+| bip_39_word_new_br_11 | frequent<br>ticket<br>token<br>believe<br>answer<br>isolate<br>inflict<br>road<br>wolf<br>helmet<br>aim |  
+| bip_39_word_new_br_12 | frequent<br>ticket<br>token<br>believe<br>answer<br>isolate<br>inflict<br>road<br>wolf<br>helmet<br>aim<br>air |  
+| bip_39_word_new_br_2 | frequent<br>ticket |  
+| bip_39_word_new_br_3 | frequent<br>ticket<br>token |  
+| bip_39_word_new_br_4 | frequent<br>ticket<br>token<br>believe |  
+| bip_39_word_new_br_5 | frequent<br>ticket<br>token<br>believe<br>answer |  
+| bip_39_word_new_br_6 | frequent<br>ticket<br>token<br>believe<br>answer<br>isolate |  
+| bip_39_word_new_br_7 | frequent<br>ticket<br>token<br>believe<br>answer<br>isolate<br>inflict |  
+| bip_39_word_new_br_8 | frequent<br>ticket<br>token<br>believe<br>answer<br>isolate<br>inflict<br>road |  
+| bip_39_word_new_br_9 | frequent<br>ticket<br>token<br>believe<br>answer<br>isolate<br>inflict<br>road<br>wolf |  
+| bip_39_word_new_line_1 | frequent |  
+| bip_39_word_new_line_10 | frequent
 ticket
 token
 believe
@@ -55,7 +55,7 @@ inflict
 road
 wolf
 helmet |  
-| bip_39_word_new_line11 | frequent
+| bip_39_word_new_line_11 | frequent
 ticket
 token
 believe
@@ -66,7 +66,7 @@ road
 wolf
 helmet
 aim |  
-| bip_39_word_new_line12 | frequent
+| bip_39_word_new_line_12 | frequent
 ticket
 token
 believe
@@ -78,34 +78,34 @@ wolf
 helmet
 aim
 air |  
-| bip_39_word_new_line2 | frequent
+| bip_39_word_new_line_2 | frequent
 ticket |  
-| bip_39_word_new_line3 | frequent
+| bip_39_word_new_line_3 | frequent
 ticket
 token |  
-| bip_39_word_new_line4 | frequent
+| bip_39_word_new_line_4 | frequent
 ticket
 token
 believe |  
-| bip_39_word_new_line5 | frequent
+| bip_39_word_new_line_5 | frequent
 ticket
 token
 believe
 answer |  
-| bip_39_word_new_line6 | frequent
+| bip_39_word_new_line_6 | frequent
 ticket
 token
 believe
 answer
 isolate |  
-| bip_39_word_new_line7 | frequent
+| bip_39_word_new_line_7 | frequent
 ticket
 token
 believe
 answer
 isolate
 inflict |  
-| bip_39_word_new_line8 | frequent
+| bip_39_word_new_line_8 | frequent
 ticket
 token
 believe
@@ -113,7 +113,7 @@ answer
 isolate
 inflict
 road |  
-| bip_39_word_new_line9 | frequent
+| bip_39_word_new_line_9 | frequent
 ticket
 token
 believe

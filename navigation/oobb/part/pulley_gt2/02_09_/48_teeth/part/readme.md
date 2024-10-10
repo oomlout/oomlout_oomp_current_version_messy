@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | air |  
-| bip_39_word_new_br10 | air<br>candy<br>great<br>rain<br>crucial<br>toward<br>peanut<br>bread<br>nasty<br>slender |  
-| bip_39_word_new_br11 | air<br>candy<br>great<br>rain<br>crucial<br>toward<br>peanut<br>bread<br>nasty<br>slender<br>case |  
-| bip_39_word_new_br12 | air<br>candy<br>great<br>rain<br>crucial<br>toward<br>peanut<br>bread<br>nasty<br>slender<br>case<br>admit |  
-| bip_39_word_new_br2 | air<br>candy |  
-| bip_39_word_new_br3 | air<br>candy<br>great |  
-| bip_39_word_new_br4 | air<br>candy<br>great<br>rain |  
-| bip_39_word_new_br5 | air<br>candy<br>great<br>rain<br>crucial |  
-| bip_39_word_new_br6 | air<br>candy<br>great<br>rain<br>crucial<br>toward |  
-| bip_39_word_new_br7 | air<br>candy<br>great<br>rain<br>crucial<br>toward<br>peanut |  
-| bip_39_word_new_br8 | air<br>candy<br>great<br>rain<br>crucial<br>toward<br>peanut<br>bread |  
-| bip_39_word_new_br9 | air<br>candy<br>great<br>rain<br>crucial<br>toward<br>peanut<br>bread<br>nasty |  
-| bip_39_word_new_line1 | air |  
-| bip_39_word_new_line10 | air
+| bip_39_word_new_br_1 | air |  
+| bip_39_word_new_br_10 | air<br>candy<br>great<br>rain<br>crucial<br>toward<br>peanut<br>bread<br>nasty<br>slender |  
+| bip_39_word_new_br_11 | air<br>candy<br>great<br>rain<br>crucial<br>toward<br>peanut<br>bread<br>nasty<br>slender<br>case |  
+| bip_39_word_new_br_12 | air<br>candy<br>great<br>rain<br>crucial<br>toward<br>peanut<br>bread<br>nasty<br>slender<br>case<br>admit |  
+| bip_39_word_new_br_2 | air<br>candy |  
+| bip_39_word_new_br_3 | air<br>candy<br>great |  
+| bip_39_word_new_br_4 | air<br>candy<br>great<br>rain |  
+| bip_39_word_new_br_5 | air<br>candy<br>great<br>rain<br>crucial |  
+| bip_39_word_new_br_6 | air<br>candy<br>great<br>rain<br>crucial<br>toward |  
+| bip_39_word_new_br_7 | air<br>candy<br>great<br>rain<br>crucial<br>toward<br>peanut |  
+| bip_39_word_new_br_8 | air<br>candy<br>great<br>rain<br>crucial<br>toward<br>peanut<br>bread |  
+| bip_39_word_new_br_9 | air<br>candy<br>great<br>rain<br>crucial<br>toward<br>peanut<br>bread<br>nasty |  
+| bip_39_word_new_line_1 | air |  
+| bip_39_word_new_line_10 | air
 candy
 great
 rain
@@ -55,7 +55,7 @@ peanut
 bread
 nasty
 slender |  
-| bip_39_word_new_line11 | air
+| bip_39_word_new_line_11 | air
 candy
 great
 rain
@@ -66,7 +66,7 @@ bread
 nasty
 slender
 case |  
-| bip_39_word_new_line12 | air
+| bip_39_word_new_line_12 | air
 candy
 great
 rain
@@ -78,34 +78,34 @@ nasty
 slender
 case
 admit |  
-| bip_39_word_new_line2 | air
+| bip_39_word_new_line_2 | air
 candy |  
-| bip_39_word_new_line3 | air
+| bip_39_word_new_line_3 | air
 candy
 great |  
-| bip_39_word_new_line4 | air
+| bip_39_word_new_line_4 | air
 candy
 great
 rain |  
-| bip_39_word_new_line5 | air
+| bip_39_word_new_line_5 | air
 candy
 great
 rain
 crucial |  
-| bip_39_word_new_line6 | air
+| bip_39_word_new_line_6 | air
 candy
 great
 rain
 crucial
 toward |  
-| bip_39_word_new_line7 | air
+| bip_39_word_new_line_7 | air
 candy
 great
 rain
 crucial
 toward
 peanut |  
-| bip_39_word_new_line8 | air
+| bip_39_word_new_line_8 | air
 candy
 great
 rain
@@ -113,7 +113,7 @@ crucial
 toward
 peanut
 bread |  
-| bip_39_word_new_line9 | air
+| bip_39_word_new_line_9 | air
 candy
 great
 rain

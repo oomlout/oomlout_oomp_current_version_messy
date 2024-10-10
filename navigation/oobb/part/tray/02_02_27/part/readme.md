@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bicycle |  
-| bip_39_word_new_br10 | bicycle<br>various<br>job<br>toast<br>congress<br>wait<br>radio<br>expose<br>truck<br>bird |  
-| bip_39_word_new_br11 | bicycle<br>various<br>job<br>toast<br>congress<br>wait<br>radio<br>expose<br>truck<br>bird<br>obvious |  
-| bip_39_word_new_br12 | bicycle<br>various<br>job<br>toast<br>congress<br>wait<br>radio<br>expose<br>truck<br>bird<br>obvious<br>almost |  
-| bip_39_word_new_br2 | bicycle<br>various |  
-| bip_39_word_new_br3 | bicycle<br>various<br>job |  
-| bip_39_word_new_br4 | bicycle<br>various<br>job<br>toast |  
-| bip_39_word_new_br5 | bicycle<br>various<br>job<br>toast<br>congress |  
-| bip_39_word_new_br6 | bicycle<br>various<br>job<br>toast<br>congress<br>wait |  
-| bip_39_word_new_br7 | bicycle<br>various<br>job<br>toast<br>congress<br>wait<br>radio |  
-| bip_39_word_new_br8 | bicycle<br>various<br>job<br>toast<br>congress<br>wait<br>radio<br>expose |  
-| bip_39_word_new_br9 | bicycle<br>various<br>job<br>toast<br>congress<br>wait<br>radio<br>expose<br>truck |  
-| bip_39_word_new_line1 | bicycle |  
-| bip_39_word_new_line10 | bicycle
+| bip_39_word_new_br_1 | bicycle |  
+| bip_39_word_new_br_10 | bicycle<br>various<br>job<br>toast<br>congress<br>wait<br>radio<br>expose<br>truck<br>bird |  
+| bip_39_word_new_br_11 | bicycle<br>various<br>job<br>toast<br>congress<br>wait<br>radio<br>expose<br>truck<br>bird<br>obvious |  
+| bip_39_word_new_br_12 | bicycle<br>various<br>job<br>toast<br>congress<br>wait<br>radio<br>expose<br>truck<br>bird<br>obvious<br>almost |  
+| bip_39_word_new_br_2 | bicycle<br>various |  
+| bip_39_word_new_br_3 | bicycle<br>various<br>job |  
+| bip_39_word_new_br_4 | bicycle<br>various<br>job<br>toast |  
+| bip_39_word_new_br_5 | bicycle<br>various<br>job<br>toast<br>congress |  
+| bip_39_word_new_br_6 | bicycle<br>various<br>job<br>toast<br>congress<br>wait |  
+| bip_39_word_new_br_7 | bicycle<br>various<br>job<br>toast<br>congress<br>wait<br>radio |  
+| bip_39_word_new_br_8 | bicycle<br>various<br>job<br>toast<br>congress<br>wait<br>radio<br>expose |  
+| bip_39_word_new_br_9 | bicycle<br>various<br>job<br>toast<br>congress<br>wait<br>radio<br>expose<br>truck |  
+| bip_39_word_new_line_1 | bicycle |  
+| bip_39_word_new_line_10 | bicycle
 various
 job
 toast
@@ -55,7 +55,7 @@ radio
 expose
 truck
 bird |  
-| bip_39_word_new_line11 | bicycle
+| bip_39_word_new_line_11 | bicycle
 various
 job
 toast
@@ -66,7 +66,7 @@ expose
 truck
 bird
 obvious |  
-| bip_39_word_new_line12 | bicycle
+| bip_39_word_new_line_12 | bicycle
 various
 job
 toast
@@ -78,34 +78,34 @@ truck
 bird
 obvious
 almost |  
-| bip_39_word_new_line2 | bicycle
+| bip_39_word_new_line_2 | bicycle
 various |  
-| bip_39_word_new_line3 | bicycle
+| bip_39_word_new_line_3 | bicycle
 various
 job |  
-| bip_39_word_new_line4 | bicycle
+| bip_39_word_new_line_4 | bicycle
 various
 job
 toast |  
-| bip_39_word_new_line5 | bicycle
+| bip_39_word_new_line_5 | bicycle
 various
 job
 toast
 congress |  
-| bip_39_word_new_line6 | bicycle
+| bip_39_word_new_line_6 | bicycle
 various
 job
 toast
 congress
 wait |  
-| bip_39_word_new_line7 | bicycle
+| bip_39_word_new_line_7 | bicycle
 various
 job
 toast
 congress
 wait
 radio |  
-| bip_39_word_new_line8 | bicycle
+| bip_39_word_new_line_8 | bicycle
 various
 job
 toast
@@ -113,7 +113,7 @@ congress
 wait
 radio
 expose |  
-| bip_39_word_new_line9 | bicycle
+| bip_39_word_new_line_9 | bicycle
 various
 job
 toast

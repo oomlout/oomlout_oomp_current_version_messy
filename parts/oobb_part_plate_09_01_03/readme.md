@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mirror |  
-| bip_39_word_new_br10 | mirror<br>window<br>bright<br>work<br>chest<br>friend<br>fold<br>stomach<br>palace<br>cloth |  
-| bip_39_word_new_br11 | mirror<br>window<br>bright<br>work<br>chest<br>friend<br>fold<br>stomach<br>palace<br>cloth<br>ethics |  
-| bip_39_word_new_br12 | mirror<br>window<br>bright<br>work<br>chest<br>friend<br>fold<br>stomach<br>palace<br>cloth<br>ethics<br>admit |  
-| bip_39_word_new_br2 | mirror<br>window |  
-| bip_39_word_new_br3 | mirror<br>window<br>bright |  
-| bip_39_word_new_br4 | mirror<br>window<br>bright<br>work |  
-| bip_39_word_new_br5 | mirror<br>window<br>bright<br>work<br>chest |  
-| bip_39_word_new_br6 | mirror<br>window<br>bright<br>work<br>chest<br>friend |  
-| bip_39_word_new_br7 | mirror<br>window<br>bright<br>work<br>chest<br>friend<br>fold |  
-| bip_39_word_new_br8 | mirror<br>window<br>bright<br>work<br>chest<br>friend<br>fold<br>stomach |  
-| bip_39_word_new_br9 | mirror<br>window<br>bright<br>work<br>chest<br>friend<br>fold<br>stomach<br>palace |  
-| bip_39_word_new_line1 | mirror |  
-| bip_39_word_new_line10 | mirror
+| bip_39_word_new_br_1 | mirror |  
+| bip_39_word_new_br_10 | mirror<br>window<br>bright<br>work<br>chest<br>friend<br>fold<br>stomach<br>palace<br>cloth |  
+| bip_39_word_new_br_11 | mirror<br>window<br>bright<br>work<br>chest<br>friend<br>fold<br>stomach<br>palace<br>cloth<br>ethics |  
+| bip_39_word_new_br_12 | mirror<br>window<br>bright<br>work<br>chest<br>friend<br>fold<br>stomach<br>palace<br>cloth<br>ethics<br>admit |  
+| bip_39_word_new_br_2 | mirror<br>window |  
+| bip_39_word_new_br_3 | mirror<br>window<br>bright |  
+| bip_39_word_new_br_4 | mirror<br>window<br>bright<br>work |  
+| bip_39_word_new_br_5 | mirror<br>window<br>bright<br>work<br>chest |  
+| bip_39_word_new_br_6 | mirror<br>window<br>bright<br>work<br>chest<br>friend |  
+| bip_39_word_new_br_7 | mirror<br>window<br>bright<br>work<br>chest<br>friend<br>fold |  
+| bip_39_word_new_br_8 | mirror<br>window<br>bright<br>work<br>chest<br>friend<br>fold<br>stomach |  
+| bip_39_word_new_br_9 | mirror<br>window<br>bright<br>work<br>chest<br>friend<br>fold<br>stomach<br>palace |  
+| bip_39_word_new_line_1 | mirror |  
+| bip_39_word_new_line_10 | mirror
 window
 bright
 work
@@ -55,7 +55,7 @@ fold
 stomach
 palace
 cloth |  
-| bip_39_word_new_line11 | mirror
+| bip_39_word_new_line_11 | mirror
 window
 bright
 work
@@ -66,7 +66,7 @@ stomach
 palace
 cloth
 ethics |  
-| bip_39_word_new_line12 | mirror
+| bip_39_word_new_line_12 | mirror
 window
 bright
 work
@@ -78,34 +78,34 @@ palace
 cloth
 ethics
 admit |  
-| bip_39_word_new_line2 | mirror
+| bip_39_word_new_line_2 | mirror
 window |  
-| bip_39_word_new_line3 | mirror
+| bip_39_word_new_line_3 | mirror
 window
 bright |  
-| bip_39_word_new_line4 | mirror
+| bip_39_word_new_line_4 | mirror
 window
 bright
 work |  
-| bip_39_word_new_line5 | mirror
+| bip_39_word_new_line_5 | mirror
 window
 bright
 work
 chest |  
-| bip_39_word_new_line6 | mirror
+| bip_39_word_new_line_6 | mirror
 window
 bright
 work
 chest
 friend |  
-| bip_39_word_new_line7 | mirror
+| bip_39_word_new_line_7 | mirror
 window
 bright
 work
 chest
 friend
 fold |  
-| bip_39_word_new_line8 | mirror
+| bip_39_word_new_line_8 | mirror
 window
 bright
 work
@@ -113,7 +113,7 @@ chest
 friend
 fold
 stomach |  
-| bip_39_word_new_line9 | mirror
+| bip_39_word_new_line_9 | mirror
 window
 bright
 work

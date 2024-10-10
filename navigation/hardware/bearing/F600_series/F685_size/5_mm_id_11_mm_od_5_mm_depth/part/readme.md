@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | soul |  
-| bip_39_word_new_br10 | soul<br>impulse<br>useless<br>one<br>organ<br>cluster<br>interest<br>harsh<br>divert<br>spray |  
-| bip_39_word_new_br11 | soul<br>impulse<br>useless<br>one<br>organ<br>cluster<br>interest<br>harsh<br>divert<br>spray<br>diagram |  
-| bip_39_word_new_br12 | soul<br>impulse<br>useless<br>one<br>organ<br>cluster<br>interest<br>harsh<br>divert<br>spray<br>diagram<br>adapt |  
-| bip_39_word_new_br2 | soul<br>impulse |  
-| bip_39_word_new_br3 | soul<br>impulse<br>useless |  
-| bip_39_word_new_br4 | soul<br>impulse<br>useless<br>one |  
-| bip_39_word_new_br5 | soul<br>impulse<br>useless<br>one<br>organ |  
-| bip_39_word_new_br6 | soul<br>impulse<br>useless<br>one<br>organ<br>cluster |  
-| bip_39_word_new_br7 | soul<br>impulse<br>useless<br>one<br>organ<br>cluster<br>interest |  
-| bip_39_word_new_br8 | soul<br>impulse<br>useless<br>one<br>organ<br>cluster<br>interest<br>harsh |  
-| bip_39_word_new_br9 | soul<br>impulse<br>useless<br>one<br>organ<br>cluster<br>interest<br>harsh<br>divert |  
-| bip_39_word_new_line1 | soul |  
-| bip_39_word_new_line10 | soul
+| bip_39_word_new_br_1 | soul |  
+| bip_39_word_new_br_10 | soul<br>impulse<br>useless<br>one<br>organ<br>cluster<br>interest<br>harsh<br>divert<br>spray |  
+| bip_39_word_new_br_11 | soul<br>impulse<br>useless<br>one<br>organ<br>cluster<br>interest<br>harsh<br>divert<br>spray<br>diagram |  
+| bip_39_word_new_br_12 | soul<br>impulse<br>useless<br>one<br>organ<br>cluster<br>interest<br>harsh<br>divert<br>spray<br>diagram<br>adapt |  
+| bip_39_word_new_br_2 | soul<br>impulse |  
+| bip_39_word_new_br_3 | soul<br>impulse<br>useless |  
+| bip_39_word_new_br_4 | soul<br>impulse<br>useless<br>one |  
+| bip_39_word_new_br_5 | soul<br>impulse<br>useless<br>one<br>organ |  
+| bip_39_word_new_br_6 | soul<br>impulse<br>useless<br>one<br>organ<br>cluster |  
+| bip_39_word_new_br_7 | soul<br>impulse<br>useless<br>one<br>organ<br>cluster<br>interest |  
+| bip_39_word_new_br_8 | soul<br>impulse<br>useless<br>one<br>organ<br>cluster<br>interest<br>harsh |  
+| bip_39_word_new_br_9 | soul<br>impulse<br>useless<br>one<br>organ<br>cluster<br>interest<br>harsh<br>divert |  
+| bip_39_word_new_line_1 | soul |  
+| bip_39_word_new_line_10 | soul
 impulse
 useless
 one
@@ -55,7 +55,7 @@ interest
 harsh
 divert
 spray |  
-| bip_39_word_new_line11 | soul
+| bip_39_word_new_line_11 | soul
 impulse
 useless
 one
@@ -66,7 +66,7 @@ harsh
 divert
 spray
 diagram |  
-| bip_39_word_new_line12 | soul
+| bip_39_word_new_line_12 | soul
 impulse
 useless
 one
@@ -78,34 +78,34 @@ divert
 spray
 diagram
 adapt |  
-| bip_39_word_new_line2 | soul
+| bip_39_word_new_line_2 | soul
 impulse |  
-| bip_39_word_new_line3 | soul
+| bip_39_word_new_line_3 | soul
 impulse
 useless |  
-| bip_39_word_new_line4 | soul
+| bip_39_word_new_line_4 | soul
 impulse
 useless
 one |  
-| bip_39_word_new_line5 | soul
+| bip_39_word_new_line_5 | soul
 impulse
 useless
 one
 organ |  
-| bip_39_word_new_line6 | soul
+| bip_39_word_new_line_6 | soul
 impulse
 useless
 one
 organ
 cluster |  
-| bip_39_word_new_line7 | soul
+| bip_39_word_new_line_7 | soul
 impulse
 useless
 one
 organ
 cluster
 interest |  
-| bip_39_word_new_line8 | soul
+| bip_39_word_new_line_8 | soul
 impulse
 useless
 one
@@ -113,7 +113,7 @@ organ
 cluster
 interest
 harsh |  
-| bip_39_word_new_line9 | soul
+| bip_39_word_new_line_9 | soul
 impulse
 useless
 one

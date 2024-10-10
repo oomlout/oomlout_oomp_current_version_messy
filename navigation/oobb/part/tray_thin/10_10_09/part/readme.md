@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | limit |  
-| bip_39_word_new_br10 | limit<br>buzz<br>depth<br>only<br>coffee<br>claim<br>wise<br>fork<br>van<br>tag |  
-| bip_39_word_new_br11 | limit<br>buzz<br>depth<br>only<br>coffee<br>claim<br>wise<br>fork<br>van<br>tag<br>nose |  
-| bip_39_word_new_br12 | limit<br>buzz<br>depth<br>only<br>coffee<br>claim<br>wise<br>fork<br>van<br>tag<br>nose<br>auction |  
-| bip_39_word_new_br2 | limit<br>buzz |  
-| bip_39_word_new_br3 | limit<br>buzz<br>depth |  
-| bip_39_word_new_br4 | limit<br>buzz<br>depth<br>only |  
-| bip_39_word_new_br5 | limit<br>buzz<br>depth<br>only<br>coffee |  
-| bip_39_word_new_br6 | limit<br>buzz<br>depth<br>only<br>coffee<br>claim |  
-| bip_39_word_new_br7 | limit<br>buzz<br>depth<br>only<br>coffee<br>claim<br>wise |  
-| bip_39_word_new_br8 | limit<br>buzz<br>depth<br>only<br>coffee<br>claim<br>wise<br>fork |  
-| bip_39_word_new_br9 | limit<br>buzz<br>depth<br>only<br>coffee<br>claim<br>wise<br>fork<br>van |  
-| bip_39_word_new_line1 | limit |  
-| bip_39_word_new_line10 | limit
+| bip_39_word_new_br_1 | limit |  
+| bip_39_word_new_br_10 | limit<br>buzz<br>depth<br>only<br>coffee<br>claim<br>wise<br>fork<br>van<br>tag |  
+| bip_39_word_new_br_11 | limit<br>buzz<br>depth<br>only<br>coffee<br>claim<br>wise<br>fork<br>van<br>tag<br>nose |  
+| bip_39_word_new_br_12 | limit<br>buzz<br>depth<br>only<br>coffee<br>claim<br>wise<br>fork<br>van<br>tag<br>nose<br>auction |  
+| bip_39_word_new_br_2 | limit<br>buzz |  
+| bip_39_word_new_br_3 | limit<br>buzz<br>depth |  
+| bip_39_word_new_br_4 | limit<br>buzz<br>depth<br>only |  
+| bip_39_word_new_br_5 | limit<br>buzz<br>depth<br>only<br>coffee |  
+| bip_39_word_new_br_6 | limit<br>buzz<br>depth<br>only<br>coffee<br>claim |  
+| bip_39_word_new_br_7 | limit<br>buzz<br>depth<br>only<br>coffee<br>claim<br>wise |  
+| bip_39_word_new_br_8 | limit<br>buzz<br>depth<br>only<br>coffee<br>claim<br>wise<br>fork |  
+| bip_39_word_new_br_9 | limit<br>buzz<br>depth<br>only<br>coffee<br>claim<br>wise<br>fork<br>van |  
+| bip_39_word_new_line_1 | limit |  
+| bip_39_word_new_line_10 | limit
 buzz
 depth
 only
@@ -55,7 +55,7 @@ wise
 fork
 van
 tag |  
-| bip_39_word_new_line11 | limit
+| bip_39_word_new_line_11 | limit
 buzz
 depth
 only
@@ -66,7 +66,7 @@ fork
 van
 tag
 nose |  
-| bip_39_word_new_line12 | limit
+| bip_39_word_new_line_12 | limit
 buzz
 depth
 only
@@ -78,34 +78,34 @@ van
 tag
 nose
 auction |  
-| bip_39_word_new_line2 | limit
+| bip_39_word_new_line_2 | limit
 buzz |  
-| bip_39_word_new_line3 | limit
+| bip_39_word_new_line_3 | limit
 buzz
 depth |  
-| bip_39_word_new_line4 | limit
+| bip_39_word_new_line_4 | limit
 buzz
 depth
 only |  
-| bip_39_word_new_line5 | limit
+| bip_39_word_new_line_5 | limit
 buzz
 depth
 only
 coffee |  
-| bip_39_word_new_line6 | limit
+| bip_39_word_new_line_6 | limit
 buzz
 depth
 only
 coffee
 claim |  
-| bip_39_word_new_line7 | limit
+| bip_39_word_new_line_7 | limit
 buzz
 depth
 only
 coffee
 claim
 wise |  
-| bip_39_word_new_line8 | limit
+| bip_39_word_new_line_8 | limit
 buzz
 depth
 only
@@ -113,7 +113,7 @@ coffee
 claim
 wise
 fork |  
-| bip_39_word_new_line9 | limit
+| bip_39_word_new_line_9 | limit
 buzz
 depth
 only

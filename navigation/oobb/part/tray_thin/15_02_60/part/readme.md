@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bracket |  
-| bip_39_word_new_br10 | bracket<br>barrel<br>vessel<br>time<br>tennis<br>auto<br>business<br>hammer<br>when<br>remove |  
-| bip_39_word_new_br11 | bracket<br>barrel<br>vessel<br>time<br>tennis<br>auto<br>business<br>hammer<br>when<br>remove<br>word |  
-| bip_39_word_new_br12 | bracket<br>barrel<br>vessel<br>time<br>tennis<br>auto<br>business<br>hammer<br>when<br>remove<br>word<br>asset |  
-| bip_39_word_new_br2 | bracket<br>barrel |  
-| bip_39_word_new_br3 | bracket<br>barrel<br>vessel |  
-| bip_39_word_new_br4 | bracket<br>barrel<br>vessel<br>time |  
-| bip_39_word_new_br5 | bracket<br>barrel<br>vessel<br>time<br>tennis |  
-| bip_39_word_new_br6 | bracket<br>barrel<br>vessel<br>time<br>tennis<br>auto |  
-| bip_39_word_new_br7 | bracket<br>barrel<br>vessel<br>time<br>tennis<br>auto<br>business |  
-| bip_39_word_new_br8 | bracket<br>barrel<br>vessel<br>time<br>tennis<br>auto<br>business<br>hammer |  
-| bip_39_word_new_br9 | bracket<br>barrel<br>vessel<br>time<br>tennis<br>auto<br>business<br>hammer<br>when |  
-| bip_39_word_new_line1 | bracket |  
-| bip_39_word_new_line10 | bracket
+| bip_39_word_new_br_1 | bracket |  
+| bip_39_word_new_br_10 | bracket<br>barrel<br>vessel<br>time<br>tennis<br>auto<br>business<br>hammer<br>when<br>remove |  
+| bip_39_word_new_br_11 | bracket<br>barrel<br>vessel<br>time<br>tennis<br>auto<br>business<br>hammer<br>when<br>remove<br>word |  
+| bip_39_word_new_br_12 | bracket<br>barrel<br>vessel<br>time<br>tennis<br>auto<br>business<br>hammer<br>when<br>remove<br>word<br>asset |  
+| bip_39_word_new_br_2 | bracket<br>barrel |  
+| bip_39_word_new_br_3 | bracket<br>barrel<br>vessel |  
+| bip_39_word_new_br_4 | bracket<br>barrel<br>vessel<br>time |  
+| bip_39_word_new_br_5 | bracket<br>barrel<br>vessel<br>time<br>tennis |  
+| bip_39_word_new_br_6 | bracket<br>barrel<br>vessel<br>time<br>tennis<br>auto |  
+| bip_39_word_new_br_7 | bracket<br>barrel<br>vessel<br>time<br>tennis<br>auto<br>business |  
+| bip_39_word_new_br_8 | bracket<br>barrel<br>vessel<br>time<br>tennis<br>auto<br>business<br>hammer |  
+| bip_39_word_new_br_9 | bracket<br>barrel<br>vessel<br>time<br>tennis<br>auto<br>business<br>hammer<br>when |  
+| bip_39_word_new_line_1 | bracket |  
+| bip_39_word_new_line_10 | bracket
 barrel
 vessel
 time
@@ -55,7 +55,7 @@ business
 hammer
 when
 remove |  
-| bip_39_word_new_line11 | bracket
+| bip_39_word_new_line_11 | bracket
 barrel
 vessel
 time
@@ -66,7 +66,7 @@ hammer
 when
 remove
 word |  
-| bip_39_word_new_line12 | bracket
+| bip_39_word_new_line_12 | bracket
 barrel
 vessel
 time
@@ -78,34 +78,34 @@ when
 remove
 word
 asset |  
-| bip_39_word_new_line2 | bracket
+| bip_39_word_new_line_2 | bracket
 barrel |  
-| bip_39_word_new_line3 | bracket
+| bip_39_word_new_line_3 | bracket
 barrel
 vessel |  
-| bip_39_word_new_line4 | bracket
+| bip_39_word_new_line_4 | bracket
 barrel
 vessel
 time |  
-| bip_39_word_new_line5 | bracket
+| bip_39_word_new_line_5 | bracket
 barrel
 vessel
 time
 tennis |  
-| bip_39_word_new_line6 | bracket
+| bip_39_word_new_line_6 | bracket
 barrel
 vessel
 time
 tennis
 auto |  
-| bip_39_word_new_line7 | bracket
+| bip_39_word_new_line_7 | bracket
 barrel
 vessel
 time
 tennis
 auto
 business |  
-| bip_39_word_new_line8 | bracket
+| bip_39_word_new_line_8 | bracket
 barrel
 vessel
 time
@@ -113,7 +113,7 @@ tennis
 auto
 business
 hammer |  
-| bip_39_word_new_line9 | bracket
+| bip_39_word_new_line_9 | bracket
 barrel
 vessel
 time

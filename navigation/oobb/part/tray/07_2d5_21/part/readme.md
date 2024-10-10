@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | glide |  
-| bip_39_word_new_br10 | glide<br>curve<br>promote<br>embody<br>armed<br>enable<br>clerk<br>purpose<br>fabric<br>illness |  
-| bip_39_word_new_br11 | glide<br>curve<br>promote<br>embody<br>armed<br>enable<br>clerk<br>purpose<br>fabric<br>illness<br>tool |  
-| bip_39_word_new_br12 | glide<br>curve<br>promote<br>embody<br>armed<br>enable<br>clerk<br>purpose<br>fabric<br>illness<br>tool<br>antenna |  
-| bip_39_word_new_br2 | glide<br>curve |  
-| bip_39_word_new_br3 | glide<br>curve<br>promote |  
-| bip_39_word_new_br4 | glide<br>curve<br>promote<br>embody |  
-| bip_39_word_new_br5 | glide<br>curve<br>promote<br>embody<br>armed |  
-| bip_39_word_new_br6 | glide<br>curve<br>promote<br>embody<br>armed<br>enable |  
-| bip_39_word_new_br7 | glide<br>curve<br>promote<br>embody<br>armed<br>enable<br>clerk |  
-| bip_39_word_new_br8 | glide<br>curve<br>promote<br>embody<br>armed<br>enable<br>clerk<br>purpose |  
-| bip_39_word_new_br9 | glide<br>curve<br>promote<br>embody<br>armed<br>enable<br>clerk<br>purpose<br>fabric |  
-| bip_39_word_new_line1 | glide |  
-| bip_39_word_new_line10 | glide
+| bip_39_word_new_br_1 | glide |  
+| bip_39_word_new_br_10 | glide<br>curve<br>promote<br>embody<br>armed<br>enable<br>clerk<br>purpose<br>fabric<br>illness |  
+| bip_39_word_new_br_11 | glide<br>curve<br>promote<br>embody<br>armed<br>enable<br>clerk<br>purpose<br>fabric<br>illness<br>tool |  
+| bip_39_word_new_br_12 | glide<br>curve<br>promote<br>embody<br>armed<br>enable<br>clerk<br>purpose<br>fabric<br>illness<br>tool<br>antenna |  
+| bip_39_word_new_br_2 | glide<br>curve |  
+| bip_39_word_new_br_3 | glide<br>curve<br>promote |  
+| bip_39_word_new_br_4 | glide<br>curve<br>promote<br>embody |  
+| bip_39_word_new_br_5 | glide<br>curve<br>promote<br>embody<br>armed |  
+| bip_39_word_new_br_6 | glide<br>curve<br>promote<br>embody<br>armed<br>enable |  
+| bip_39_word_new_br_7 | glide<br>curve<br>promote<br>embody<br>armed<br>enable<br>clerk |  
+| bip_39_word_new_br_8 | glide<br>curve<br>promote<br>embody<br>armed<br>enable<br>clerk<br>purpose |  
+| bip_39_word_new_br_9 | glide<br>curve<br>promote<br>embody<br>armed<br>enable<br>clerk<br>purpose<br>fabric |  
+| bip_39_word_new_line_1 | glide |  
+| bip_39_word_new_line_10 | glide
 curve
 promote
 embody
@@ -55,7 +55,7 @@ clerk
 purpose
 fabric
 illness |  
-| bip_39_word_new_line11 | glide
+| bip_39_word_new_line_11 | glide
 curve
 promote
 embody
@@ -66,7 +66,7 @@ purpose
 fabric
 illness
 tool |  
-| bip_39_word_new_line12 | glide
+| bip_39_word_new_line_12 | glide
 curve
 promote
 embody
@@ -78,34 +78,34 @@ fabric
 illness
 tool
 antenna |  
-| bip_39_word_new_line2 | glide
+| bip_39_word_new_line_2 | glide
 curve |  
-| bip_39_word_new_line3 | glide
+| bip_39_word_new_line_3 | glide
 curve
 promote |  
-| bip_39_word_new_line4 | glide
+| bip_39_word_new_line_4 | glide
 curve
 promote
 embody |  
-| bip_39_word_new_line5 | glide
+| bip_39_word_new_line_5 | glide
 curve
 promote
 embody
 armed |  
-| bip_39_word_new_line6 | glide
+| bip_39_word_new_line_6 | glide
 curve
 promote
 embody
 armed
 enable |  
-| bip_39_word_new_line7 | glide
+| bip_39_word_new_line_7 | glide
 curve
 promote
 embody
 armed
 enable
 clerk |  
-| bip_39_word_new_line8 | glide
+| bip_39_word_new_line_8 | glide
 curve
 promote
 embody
@@ -113,7 +113,7 @@ armed
 enable
 clerk
 purpose |  
-| bip_39_word_new_line9 | glide
+| bip_39_word_new_line_9 | glide
 curve
 promote
 embody

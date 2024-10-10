@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | you |  
-| bip_39_word_new_br10 | you<br>dwarf<br>mouse<br>bone<br>siren<br>raise<br>lab<br>artist<br>indoor<br>crop |  
-| bip_39_word_new_br11 | you<br>dwarf<br>mouse<br>bone<br>siren<br>raise<br>lab<br>artist<br>indoor<br>crop<br>hour |  
-| bip_39_word_new_br12 | you<br>dwarf<br>mouse<br>bone<br>siren<br>raise<br>lab<br>artist<br>indoor<br>crop<br>hour<br>actual |  
-| bip_39_word_new_br2 | you<br>dwarf |  
-| bip_39_word_new_br3 | you<br>dwarf<br>mouse |  
-| bip_39_word_new_br4 | you<br>dwarf<br>mouse<br>bone |  
-| bip_39_word_new_br5 | you<br>dwarf<br>mouse<br>bone<br>siren |  
-| bip_39_word_new_br6 | you<br>dwarf<br>mouse<br>bone<br>siren<br>raise |  
-| bip_39_word_new_br7 | you<br>dwarf<br>mouse<br>bone<br>siren<br>raise<br>lab |  
-| bip_39_word_new_br8 | you<br>dwarf<br>mouse<br>bone<br>siren<br>raise<br>lab<br>artist |  
-| bip_39_word_new_br9 | you<br>dwarf<br>mouse<br>bone<br>siren<br>raise<br>lab<br>artist<br>indoor |  
-| bip_39_word_new_line1 | you |  
-| bip_39_word_new_line10 | you
+| bip_39_word_new_br_1 | you |  
+| bip_39_word_new_br_10 | you<br>dwarf<br>mouse<br>bone<br>siren<br>raise<br>lab<br>artist<br>indoor<br>crop |  
+| bip_39_word_new_br_11 | you<br>dwarf<br>mouse<br>bone<br>siren<br>raise<br>lab<br>artist<br>indoor<br>crop<br>hour |  
+| bip_39_word_new_br_12 | you<br>dwarf<br>mouse<br>bone<br>siren<br>raise<br>lab<br>artist<br>indoor<br>crop<br>hour<br>actual |  
+| bip_39_word_new_br_2 | you<br>dwarf |  
+| bip_39_word_new_br_3 | you<br>dwarf<br>mouse |  
+| bip_39_word_new_br_4 | you<br>dwarf<br>mouse<br>bone |  
+| bip_39_word_new_br_5 | you<br>dwarf<br>mouse<br>bone<br>siren |  
+| bip_39_word_new_br_6 | you<br>dwarf<br>mouse<br>bone<br>siren<br>raise |  
+| bip_39_word_new_br_7 | you<br>dwarf<br>mouse<br>bone<br>siren<br>raise<br>lab |  
+| bip_39_word_new_br_8 | you<br>dwarf<br>mouse<br>bone<br>siren<br>raise<br>lab<br>artist |  
+| bip_39_word_new_br_9 | you<br>dwarf<br>mouse<br>bone<br>siren<br>raise<br>lab<br>artist<br>indoor |  
+| bip_39_word_new_line_1 | you |  
+| bip_39_word_new_line_10 | you
 dwarf
 mouse
 bone
@@ -55,7 +55,7 @@ lab
 artist
 indoor
 crop |  
-| bip_39_word_new_line11 | you
+| bip_39_word_new_line_11 | you
 dwarf
 mouse
 bone
@@ -66,7 +66,7 @@ artist
 indoor
 crop
 hour |  
-| bip_39_word_new_line12 | you
+| bip_39_word_new_line_12 | you
 dwarf
 mouse
 bone
@@ -78,34 +78,34 @@ indoor
 crop
 hour
 actual |  
-| bip_39_word_new_line2 | you
+| bip_39_word_new_line_2 | you
 dwarf |  
-| bip_39_word_new_line3 | you
+| bip_39_word_new_line_3 | you
 dwarf
 mouse |  
-| bip_39_word_new_line4 | you
+| bip_39_word_new_line_4 | you
 dwarf
 mouse
 bone |  
-| bip_39_word_new_line5 | you
+| bip_39_word_new_line_5 | you
 dwarf
 mouse
 bone
 siren |  
-| bip_39_word_new_line6 | you
+| bip_39_word_new_line_6 | you
 dwarf
 mouse
 bone
 siren
 raise |  
-| bip_39_word_new_line7 | you
+| bip_39_word_new_line_7 | you
 dwarf
 mouse
 bone
 siren
 raise
 lab |  
-| bip_39_word_new_line8 | you
+| bip_39_word_new_line_8 | you
 dwarf
 mouse
 bone
@@ -113,7 +113,7 @@ siren
 raise
 lab
 artist |  
-| bip_39_word_new_line9 | you
+| bip_39_word_new_line_9 | you
 dwarf
 mouse
 bone

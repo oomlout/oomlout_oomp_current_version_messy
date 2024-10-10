@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | earn |  
-| bip_39_word_new_br10 | earn<br>grass<br>dizzy<br>depend<br>two<br>cage<br>enjoy<br>govern<br>crazy<br>tumble |  
-| bip_39_word_new_br11 | earn<br>grass<br>dizzy<br>depend<br>two<br>cage<br>enjoy<br>govern<br>crazy<br>tumble<br>few |  
-| bip_39_word_new_br12 | earn<br>grass<br>dizzy<br>depend<br>two<br>cage<br>enjoy<br>govern<br>crazy<br>tumble<br>few<br>antenna |  
-| bip_39_word_new_br2 | earn<br>grass |  
-| bip_39_word_new_br3 | earn<br>grass<br>dizzy |  
-| bip_39_word_new_br4 | earn<br>grass<br>dizzy<br>depend |  
-| bip_39_word_new_br5 | earn<br>grass<br>dizzy<br>depend<br>two |  
-| bip_39_word_new_br6 | earn<br>grass<br>dizzy<br>depend<br>two<br>cage |  
-| bip_39_word_new_br7 | earn<br>grass<br>dizzy<br>depend<br>two<br>cage<br>enjoy |  
-| bip_39_word_new_br8 | earn<br>grass<br>dizzy<br>depend<br>two<br>cage<br>enjoy<br>govern |  
-| bip_39_word_new_br9 | earn<br>grass<br>dizzy<br>depend<br>two<br>cage<br>enjoy<br>govern<br>crazy |  
-| bip_39_word_new_line1 | earn |  
-| bip_39_word_new_line10 | earn
+| bip_39_word_new_br_1 | earn |  
+| bip_39_word_new_br_10 | earn<br>grass<br>dizzy<br>depend<br>two<br>cage<br>enjoy<br>govern<br>crazy<br>tumble |  
+| bip_39_word_new_br_11 | earn<br>grass<br>dizzy<br>depend<br>two<br>cage<br>enjoy<br>govern<br>crazy<br>tumble<br>few |  
+| bip_39_word_new_br_12 | earn<br>grass<br>dizzy<br>depend<br>two<br>cage<br>enjoy<br>govern<br>crazy<br>tumble<br>few<br>antenna |  
+| bip_39_word_new_br_2 | earn<br>grass |  
+| bip_39_word_new_br_3 | earn<br>grass<br>dizzy |  
+| bip_39_word_new_br_4 | earn<br>grass<br>dizzy<br>depend |  
+| bip_39_word_new_br_5 | earn<br>grass<br>dizzy<br>depend<br>two |  
+| bip_39_word_new_br_6 | earn<br>grass<br>dizzy<br>depend<br>two<br>cage |  
+| bip_39_word_new_br_7 | earn<br>grass<br>dizzy<br>depend<br>two<br>cage<br>enjoy |  
+| bip_39_word_new_br_8 | earn<br>grass<br>dizzy<br>depend<br>two<br>cage<br>enjoy<br>govern |  
+| bip_39_word_new_br_9 | earn<br>grass<br>dizzy<br>depend<br>two<br>cage<br>enjoy<br>govern<br>crazy |  
+| bip_39_word_new_line_1 | earn |  
+| bip_39_word_new_line_10 | earn
 grass
 dizzy
 depend
@@ -55,7 +55,7 @@ enjoy
 govern
 crazy
 tumble |  
-| bip_39_word_new_line11 | earn
+| bip_39_word_new_line_11 | earn
 grass
 dizzy
 depend
@@ -66,7 +66,7 @@ govern
 crazy
 tumble
 few |  
-| bip_39_word_new_line12 | earn
+| bip_39_word_new_line_12 | earn
 grass
 dizzy
 depend
@@ -78,34 +78,34 @@ crazy
 tumble
 few
 antenna |  
-| bip_39_word_new_line2 | earn
+| bip_39_word_new_line_2 | earn
 grass |  
-| bip_39_word_new_line3 | earn
+| bip_39_word_new_line_3 | earn
 grass
 dizzy |  
-| bip_39_word_new_line4 | earn
+| bip_39_word_new_line_4 | earn
 grass
 dizzy
 depend |  
-| bip_39_word_new_line5 | earn
+| bip_39_word_new_line_5 | earn
 grass
 dizzy
 depend
 two |  
-| bip_39_word_new_line6 | earn
+| bip_39_word_new_line_6 | earn
 grass
 dizzy
 depend
 two
 cage |  
-| bip_39_word_new_line7 | earn
+| bip_39_word_new_line_7 | earn
 grass
 dizzy
 depend
 two
 cage
 enjoy |  
-| bip_39_word_new_line8 | earn
+| bip_39_word_new_line_8 | earn
 grass
 dizzy
 depend
@@ -113,7 +113,7 @@ two
 cage
 enjoy
 govern |  
-| bip_39_word_new_line9 | earn
+| bip_39_word_new_line_9 | earn
 grass
 dizzy
 depend

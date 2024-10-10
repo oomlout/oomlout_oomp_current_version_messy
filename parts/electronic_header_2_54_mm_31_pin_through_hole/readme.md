@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | into |  
-| bip_39_word_new_br10 | into<br>brown<br>bronze<br>winter<br>degree<br>coil<br>limit<br>sell<br>drop<br>adult |  
-| bip_39_word_new_br11 | into<br>brown<br>bronze<br>winter<br>degree<br>coil<br>limit<br>sell<br>drop<br>adult<br>garage |  
-| bip_39_word_new_br12 | into<br>brown<br>bronze<br>winter<br>degree<br>coil<br>limit<br>sell<br>drop<br>adult<br>garage<br>adult |  
-| bip_39_word_new_br2 | into<br>brown |  
-| bip_39_word_new_br3 | into<br>brown<br>bronze |  
-| bip_39_word_new_br4 | into<br>brown<br>bronze<br>winter |  
-| bip_39_word_new_br5 | into<br>brown<br>bronze<br>winter<br>degree |  
-| bip_39_word_new_br6 | into<br>brown<br>bronze<br>winter<br>degree<br>coil |  
-| bip_39_word_new_br7 | into<br>brown<br>bronze<br>winter<br>degree<br>coil<br>limit |  
-| bip_39_word_new_br8 | into<br>brown<br>bronze<br>winter<br>degree<br>coil<br>limit<br>sell |  
-| bip_39_word_new_br9 | into<br>brown<br>bronze<br>winter<br>degree<br>coil<br>limit<br>sell<br>drop |  
-| bip_39_word_new_line1 | into |  
-| bip_39_word_new_line10 | into
+| bip_39_word_new_br_1 | into |  
+| bip_39_word_new_br_10 | into<br>brown<br>bronze<br>winter<br>degree<br>coil<br>limit<br>sell<br>drop<br>adult |  
+| bip_39_word_new_br_11 | into<br>brown<br>bronze<br>winter<br>degree<br>coil<br>limit<br>sell<br>drop<br>adult<br>garage |  
+| bip_39_word_new_br_12 | into<br>brown<br>bronze<br>winter<br>degree<br>coil<br>limit<br>sell<br>drop<br>adult<br>garage<br>adult |  
+| bip_39_word_new_br_2 | into<br>brown |  
+| bip_39_word_new_br_3 | into<br>brown<br>bronze |  
+| bip_39_word_new_br_4 | into<br>brown<br>bronze<br>winter |  
+| bip_39_word_new_br_5 | into<br>brown<br>bronze<br>winter<br>degree |  
+| bip_39_word_new_br_6 | into<br>brown<br>bronze<br>winter<br>degree<br>coil |  
+| bip_39_word_new_br_7 | into<br>brown<br>bronze<br>winter<br>degree<br>coil<br>limit |  
+| bip_39_word_new_br_8 | into<br>brown<br>bronze<br>winter<br>degree<br>coil<br>limit<br>sell |  
+| bip_39_word_new_br_9 | into<br>brown<br>bronze<br>winter<br>degree<br>coil<br>limit<br>sell<br>drop |  
+| bip_39_word_new_line_1 | into |  
+| bip_39_word_new_line_10 | into
 brown
 bronze
 winter
@@ -55,7 +55,7 @@ limit
 sell
 drop
 adult |  
-| bip_39_word_new_line11 | into
+| bip_39_word_new_line_11 | into
 brown
 bronze
 winter
@@ -66,7 +66,7 @@ sell
 drop
 adult
 garage |  
-| bip_39_word_new_line12 | into
+| bip_39_word_new_line_12 | into
 brown
 bronze
 winter
@@ -78,34 +78,34 @@ drop
 adult
 garage
 adult |  
-| bip_39_word_new_line2 | into
+| bip_39_word_new_line_2 | into
 brown |  
-| bip_39_word_new_line3 | into
+| bip_39_word_new_line_3 | into
 brown
 bronze |  
-| bip_39_word_new_line4 | into
+| bip_39_word_new_line_4 | into
 brown
 bronze
 winter |  
-| bip_39_word_new_line5 | into
+| bip_39_word_new_line_5 | into
 brown
 bronze
 winter
 degree |  
-| bip_39_word_new_line6 | into
+| bip_39_word_new_line_6 | into
 brown
 bronze
 winter
 degree
 coil |  
-| bip_39_word_new_line7 | into
+| bip_39_word_new_line_7 | into
 brown
 bronze
 winter
 degree
 coil
 limit |  
-| bip_39_word_new_line8 | into
+| bip_39_word_new_line_8 | into
 brown
 bronze
 winter
@@ -113,7 +113,7 @@ degree
 coil
 limit
 sell |  
-| bip_39_word_new_line9 | into
+| bip_39_word_new_line_9 | into
 brown
 bronze
 winter

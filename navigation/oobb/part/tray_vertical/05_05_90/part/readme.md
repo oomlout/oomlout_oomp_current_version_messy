@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | right |  
-| bip_39_word_new_br10 | right<br>sadness<br>select<br>fluid<br>donor<br>occur<br>number<br>rare<br>image<br>enemy |  
-| bip_39_word_new_br11 | right<br>sadness<br>select<br>fluid<br>donor<br>occur<br>number<br>rare<br>image<br>enemy<br>excess |  
-| bip_39_word_new_br12 | right<br>sadness<br>select<br>fluid<br>donor<br>occur<br>number<br>rare<br>image<br>enemy<br>excess<br>antique |  
-| bip_39_word_new_br2 | right<br>sadness |  
-| bip_39_word_new_br3 | right<br>sadness<br>select |  
-| bip_39_word_new_br4 | right<br>sadness<br>select<br>fluid |  
-| bip_39_word_new_br5 | right<br>sadness<br>select<br>fluid<br>donor |  
-| bip_39_word_new_br6 | right<br>sadness<br>select<br>fluid<br>donor<br>occur |  
-| bip_39_word_new_br7 | right<br>sadness<br>select<br>fluid<br>donor<br>occur<br>number |  
-| bip_39_word_new_br8 | right<br>sadness<br>select<br>fluid<br>donor<br>occur<br>number<br>rare |  
-| bip_39_word_new_br9 | right<br>sadness<br>select<br>fluid<br>donor<br>occur<br>number<br>rare<br>image |  
-| bip_39_word_new_line1 | right |  
-| bip_39_word_new_line10 | right
+| bip_39_word_new_br_1 | right |  
+| bip_39_word_new_br_10 | right<br>sadness<br>select<br>fluid<br>donor<br>occur<br>number<br>rare<br>image<br>enemy |  
+| bip_39_word_new_br_11 | right<br>sadness<br>select<br>fluid<br>donor<br>occur<br>number<br>rare<br>image<br>enemy<br>excess |  
+| bip_39_word_new_br_12 | right<br>sadness<br>select<br>fluid<br>donor<br>occur<br>number<br>rare<br>image<br>enemy<br>excess<br>antique |  
+| bip_39_word_new_br_2 | right<br>sadness |  
+| bip_39_word_new_br_3 | right<br>sadness<br>select |  
+| bip_39_word_new_br_4 | right<br>sadness<br>select<br>fluid |  
+| bip_39_word_new_br_5 | right<br>sadness<br>select<br>fluid<br>donor |  
+| bip_39_word_new_br_6 | right<br>sadness<br>select<br>fluid<br>donor<br>occur |  
+| bip_39_word_new_br_7 | right<br>sadness<br>select<br>fluid<br>donor<br>occur<br>number |  
+| bip_39_word_new_br_8 | right<br>sadness<br>select<br>fluid<br>donor<br>occur<br>number<br>rare |  
+| bip_39_word_new_br_9 | right<br>sadness<br>select<br>fluid<br>donor<br>occur<br>number<br>rare<br>image |  
+| bip_39_word_new_line_1 | right |  
+| bip_39_word_new_line_10 | right
 sadness
 select
 fluid
@@ -55,7 +55,7 @@ number
 rare
 image
 enemy |  
-| bip_39_word_new_line11 | right
+| bip_39_word_new_line_11 | right
 sadness
 select
 fluid
@@ -66,7 +66,7 @@ rare
 image
 enemy
 excess |  
-| bip_39_word_new_line12 | right
+| bip_39_word_new_line_12 | right
 sadness
 select
 fluid
@@ -78,34 +78,34 @@ image
 enemy
 excess
 antique |  
-| bip_39_word_new_line2 | right
+| bip_39_word_new_line_2 | right
 sadness |  
-| bip_39_word_new_line3 | right
+| bip_39_word_new_line_3 | right
 sadness
 select |  
-| bip_39_word_new_line4 | right
+| bip_39_word_new_line_4 | right
 sadness
 select
 fluid |  
-| bip_39_word_new_line5 | right
+| bip_39_word_new_line_5 | right
 sadness
 select
 fluid
 donor |  
-| bip_39_word_new_line6 | right
+| bip_39_word_new_line_6 | right
 sadness
 select
 fluid
 donor
 occur |  
-| bip_39_word_new_line7 | right
+| bip_39_word_new_line_7 | right
 sadness
 select
 fluid
 donor
 occur
 number |  
-| bip_39_word_new_line8 | right
+| bip_39_word_new_line_8 | right
 sadness
 select
 fluid
@@ -113,7 +113,7 @@ donor
 occur
 number
 rare |  
-| bip_39_word_new_line9 | right
+| bip_39_word_new_line_9 | right
 sadness
 select
 fluid

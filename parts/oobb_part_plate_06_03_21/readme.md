@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | machine |  
-| bip_39_word_new_br10 | machine<br>sort<br>episode<br>spot<br>decide<br>bridge<br>doctor<br>hip<br>join<br>choice |  
-| bip_39_word_new_br11 | machine<br>sort<br>episode<br>spot<br>decide<br>bridge<br>doctor<br>hip<br>join<br>choice<br>beach |  
-| bip_39_word_new_br12 | machine<br>sort<br>episode<br>spot<br>decide<br>bridge<br>doctor<br>hip<br>join<br>choice<br>beach<br>access |  
-| bip_39_word_new_br2 | machine<br>sort |  
-| bip_39_word_new_br3 | machine<br>sort<br>episode |  
-| bip_39_word_new_br4 | machine<br>sort<br>episode<br>spot |  
-| bip_39_word_new_br5 | machine<br>sort<br>episode<br>spot<br>decide |  
-| bip_39_word_new_br6 | machine<br>sort<br>episode<br>spot<br>decide<br>bridge |  
-| bip_39_word_new_br7 | machine<br>sort<br>episode<br>spot<br>decide<br>bridge<br>doctor |  
-| bip_39_word_new_br8 | machine<br>sort<br>episode<br>spot<br>decide<br>bridge<br>doctor<br>hip |  
-| bip_39_word_new_br9 | machine<br>sort<br>episode<br>spot<br>decide<br>bridge<br>doctor<br>hip<br>join |  
-| bip_39_word_new_line1 | machine |  
-| bip_39_word_new_line10 | machine
+| bip_39_word_new_br_1 | machine |  
+| bip_39_word_new_br_10 | machine<br>sort<br>episode<br>spot<br>decide<br>bridge<br>doctor<br>hip<br>join<br>choice |  
+| bip_39_word_new_br_11 | machine<br>sort<br>episode<br>spot<br>decide<br>bridge<br>doctor<br>hip<br>join<br>choice<br>beach |  
+| bip_39_word_new_br_12 | machine<br>sort<br>episode<br>spot<br>decide<br>bridge<br>doctor<br>hip<br>join<br>choice<br>beach<br>access |  
+| bip_39_word_new_br_2 | machine<br>sort |  
+| bip_39_word_new_br_3 | machine<br>sort<br>episode |  
+| bip_39_word_new_br_4 | machine<br>sort<br>episode<br>spot |  
+| bip_39_word_new_br_5 | machine<br>sort<br>episode<br>spot<br>decide |  
+| bip_39_word_new_br_6 | machine<br>sort<br>episode<br>spot<br>decide<br>bridge |  
+| bip_39_word_new_br_7 | machine<br>sort<br>episode<br>spot<br>decide<br>bridge<br>doctor |  
+| bip_39_word_new_br_8 | machine<br>sort<br>episode<br>spot<br>decide<br>bridge<br>doctor<br>hip |  
+| bip_39_word_new_br_9 | machine<br>sort<br>episode<br>spot<br>decide<br>bridge<br>doctor<br>hip<br>join |  
+| bip_39_word_new_line_1 | machine |  
+| bip_39_word_new_line_10 | machine
 sort
 episode
 spot
@@ -55,7 +55,7 @@ doctor
 hip
 join
 choice |  
-| bip_39_word_new_line11 | machine
+| bip_39_word_new_line_11 | machine
 sort
 episode
 spot
@@ -66,7 +66,7 @@ hip
 join
 choice
 beach |  
-| bip_39_word_new_line12 | machine
+| bip_39_word_new_line_12 | machine
 sort
 episode
 spot
@@ -78,34 +78,34 @@ join
 choice
 beach
 access |  
-| bip_39_word_new_line2 | machine
+| bip_39_word_new_line_2 | machine
 sort |  
-| bip_39_word_new_line3 | machine
+| bip_39_word_new_line_3 | machine
 sort
 episode |  
-| bip_39_word_new_line4 | machine
+| bip_39_word_new_line_4 | machine
 sort
 episode
 spot |  
-| bip_39_word_new_line5 | machine
+| bip_39_word_new_line_5 | machine
 sort
 episode
 spot
 decide |  
-| bip_39_word_new_line6 | machine
+| bip_39_word_new_line_6 | machine
 sort
 episode
 spot
 decide
 bridge |  
-| bip_39_word_new_line7 | machine
+| bip_39_word_new_line_7 | machine
 sort
 episode
 spot
 decide
 bridge
 doctor |  
-| bip_39_word_new_line8 | machine
+| bip_39_word_new_line_8 | machine
 sort
 episode
 spot
@@ -113,7 +113,7 @@ decide
 bridge
 doctor
 hip |  
-| bip_39_word_new_line9 | machine
+| bip_39_word_new_line_9 | machine
 sort
 episode
 spot

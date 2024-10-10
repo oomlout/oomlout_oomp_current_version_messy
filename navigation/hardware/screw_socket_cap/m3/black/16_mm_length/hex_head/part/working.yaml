@@ -1,17 +1,17 @@
-bip_39_word_new_br1: humor
-bip_39_word_new_br10: humor<br>kind<br>long<br>picnic<br>same<br>tiger<br>bargain<br>tortoise<br>relax<br>spatial
-bip_39_word_new_br11: humor<br>kind<br>long<br>picnic<br>same<br>tiger<br>bargain<br>tortoise<br>relax<br>spatial<br>knife
-bip_39_word_new_br12: humor<br>kind<br>long<br>picnic<br>same<br>tiger<br>bargain<br>tortoise<br>relax<br>spatial<br>knife<br>alpha
-bip_39_word_new_br2: humor<br>kind
-bip_39_word_new_br3: humor<br>kind<br>long
-bip_39_word_new_br4: humor<br>kind<br>long<br>picnic
-bip_39_word_new_br5: humor<br>kind<br>long<br>picnic<br>same
-bip_39_word_new_br6: humor<br>kind<br>long<br>picnic<br>same<br>tiger
-bip_39_word_new_br7: humor<br>kind<br>long<br>picnic<br>same<br>tiger<br>bargain
-bip_39_word_new_br8: humor<br>kind<br>long<br>picnic<br>same<br>tiger<br>bargain<br>tortoise
-bip_39_word_new_br9: humor<br>kind<br>long<br>picnic<br>same<br>tiger<br>bargain<br>tortoise<br>relax
-bip_39_word_new_line1: humor
-bip_39_word_new_line10: 'humor
+bip_39_word_new_br_1: humor
+bip_39_word_new_br_10: humor<br>kind<br>long<br>picnic<br>same<br>tiger<br>bargain<br>tortoise<br>relax<br>spatial
+bip_39_word_new_br_11: humor<br>kind<br>long<br>picnic<br>same<br>tiger<br>bargain<br>tortoise<br>relax<br>spatial<br>knife
+bip_39_word_new_br_12: humor<br>kind<br>long<br>picnic<br>same<br>tiger<br>bargain<br>tortoise<br>relax<br>spatial<br>knife<br>alpha
+bip_39_word_new_br_2: humor<br>kind
+bip_39_word_new_br_3: humor<br>kind<br>long
+bip_39_word_new_br_4: humor<br>kind<br>long<br>picnic
+bip_39_word_new_br_5: humor<br>kind<br>long<br>picnic<br>same
+bip_39_word_new_br_6: humor<br>kind<br>long<br>picnic<br>same<br>tiger
+bip_39_word_new_br_7: humor<br>kind<br>long<br>picnic<br>same<br>tiger<br>bargain
+bip_39_word_new_br_8: humor<br>kind<br>long<br>picnic<br>same<br>tiger<br>bargain<br>tortoise
+bip_39_word_new_br_9: humor<br>kind<br>long<br>picnic<br>same<br>tiger<br>bargain<br>tortoise<br>relax
+bip_39_word_new_line_1: humor
+bip_39_word_new_line_10: 'humor
 
   kind
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'humor
   relax
 
   spatial'
-bip_39_word_new_line11: 'humor
+bip_39_word_new_line_11: 'humor
 
   kind
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'humor
   spatial
 
   knife'
-bip_39_word_new_line12: 'humor
+bip_39_word_new_line_12: 'humor
 
   kind
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'humor
   knife
 
   alpha'
-bip_39_word_new_line2: 'humor
+bip_39_word_new_line_2: 'humor
 
   kind'
-bip_39_word_new_line3: 'humor
+bip_39_word_new_line_3: 'humor
 
   kind
 
   long'
-bip_39_word_new_line4: 'humor
+bip_39_word_new_line_4: 'humor
 
   kind
 
   long
 
   picnic'
-bip_39_word_new_line5: 'humor
+bip_39_word_new_line_5: 'humor
 
   kind
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'humor
   picnic
 
   same'
-bip_39_word_new_line6: 'humor
+bip_39_word_new_line_6: 'humor
 
   kind
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'humor
   same
 
   tiger'
-bip_39_word_new_line7: 'humor
+bip_39_word_new_line_7: 'humor
 
   kind
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'humor
   tiger
 
   bargain'
-bip_39_word_new_line8: 'humor
+bip_39_word_new_line_8: 'humor
 
   kind
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'humor
   bargain
 
   tortoise'
-bip_39_word_new_line9: 'humor
+bip_39_word_new_line_9: 'humor
 
   kind
 

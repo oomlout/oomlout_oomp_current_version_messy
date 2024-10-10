@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | visual |  
-| bip_39_word_new_br10 | visual<br>whale<br>moon<br>kiwi<br>west<br>gather<br>any<br>spoil<br>tip<br>celery |  
-| bip_39_word_new_br11 | visual<br>whale<br>moon<br>kiwi<br>west<br>gather<br>any<br>spoil<br>tip<br>celery<br>hair |  
-| bip_39_word_new_br12 | visual<br>whale<br>moon<br>kiwi<br>west<br>gather<br>any<br>spoil<br>tip<br>celery<br>hair<br>accuse |  
-| bip_39_word_new_br2 | visual<br>whale |  
-| bip_39_word_new_br3 | visual<br>whale<br>moon |  
-| bip_39_word_new_br4 | visual<br>whale<br>moon<br>kiwi |  
-| bip_39_word_new_br5 | visual<br>whale<br>moon<br>kiwi<br>west |  
-| bip_39_word_new_br6 | visual<br>whale<br>moon<br>kiwi<br>west<br>gather |  
-| bip_39_word_new_br7 | visual<br>whale<br>moon<br>kiwi<br>west<br>gather<br>any |  
-| bip_39_word_new_br8 | visual<br>whale<br>moon<br>kiwi<br>west<br>gather<br>any<br>spoil |  
-| bip_39_word_new_br9 | visual<br>whale<br>moon<br>kiwi<br>west<br>gather<br>any<br>spoil<br>tip |  
-| bip_39_word_new_line1 | visual |  
-| bip_39_word_new_line10 | visual
+| bip_39_word_new_br_1 | visual |  
+| bip_39_word_new_br_10 | visual<br>whale<br>moon<br>kiwi<br>west<br>gather<br>any<br>spoil<br>tip<br>celery |  
+| bip_39_word_new_br_11 | visual<br>whale<br>moon<br>kiwi<br>west<br>gather<br>any<br>spoil<br>tip<br>celery<br>hair |  
+| bip_39_word_new_br_12 | visual<br>whale<br>moon<br>kiwi<br>west<br>gather<br>any<br>spoil<br>tip<br>celery<br>hair<br>accuse |  
+| bip_39_word_new_br_2 | visual<br>whale |  
+| bip_39_word_new_br_3 | visual<br>whale<br>moon |  
+| bip_39_word_new_br_4 | visual<br>whale<br>moon<br>kiwi |  
+| bip_39_word_new_br_5 | visual<br>whale<br>moon<br>kiwi<br>west |  
+| bip_39_word_new_br_6 | visual<br>whale<br>moon<br>kiwi<br>west<br>gather |  
+| bip_39_word_new_br_7 | visual<br>whale<br>moon<br>kiwi<br>west<br>gather<br>any |  
+| bip_39_word_new_br_8 | visual<br>whale<br>moon<br>kiwi<br>west<br>gather<br>any<br>spoil |  
+| bip_39_word_new_br_9 | visual<br>whale<br>moon<br>kiwi<br>west<br>gather<br>any<br>spoil<br>tip |  
+| bip_39_word_new_line_1 | visual |  
+| bip_39_word_new_line_10 | visual
 whale
 moon
 kiwi
@@ -55,7 +55,7 @@ any
 spoil
 tip
 celery |  
-| bip_39_word_new_line11 | visual
+| bip_39_word_new_line_11 | visual
 whale
 moon
 kiwi
@@ -66,7 +66,7 @@ spoil
 tip
 celery
 hair |  
-| bip_39_word_new_line12 | visual
+| bip_39_word_new_line_12 | visual
 whale
 moon
 kiwi
@@ -78,34 +78,34 @@ tip
 celery
 hair
 accuse |  
-| bip_39_word_new_line2 | visual
+| bip_39_word_new_line_2 | visual
 whale |  
-| bip_39_word_new_line3 | visual
+| bip_39_word_new_line_3 | visual
 whale
 moon |  
-| bip_39_word_new_line4 | visual
+| bip_39_word_new_line_4 | visual
 whale
 moon
 kiwi |  
-| bip_39_word_new_line5 | visual
+| bip_39_word_new_line_5 | visual
 whale
 moon
 kiwi
 west |  
-| bip_39_word_new_line6 | visual
+| bip_39_word_new_line_6 | visual
 whale
 moon
 kiwi
 west
 gather |  
-| bip_39_word_new_line7 | visual
+| bip_39_word_new_line_7 | visual
 whale
 moon
 kiwi
 west
 gather
 any |  
-| bip_39_word_new_line8 | visual
+| bip_39_word_new_line_8 | visual
 whale
 moon
 kiwi
@@ -113,7 +113,7 @@ west
 gather
 any
 spoil |  
-| bip_39_word_new_line9 | visual
+| bip_39_word_new_line_9 | visual
 whale
 moon
 kiwi

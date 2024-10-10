@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hard |  
-| bip_39_word_new_br10 | hard<br>cactus<br>spin<br>siege<br>joke<br>renew<br>churn<br>balance<br>note<br>apart |  
-| bip_39_word_new_br11 | hard<br>cactus<br>spin<br>siege<br>joke<br>renew<br>churn<br>balance<br>note<br>apart<br>current |  
-| bip_39_word_new_br12 | hard<br>cactus<br>spin<br>siege<br>joke<br>renew<br>churn<br>balance<br>note<br>apart<br>current<br>artefact |  
-| bip_39_word_new_br2 | hard<br>cactus |  
-| bip_39_word_new_br3 | hard<br>cactus<br>spin |  
-| bip_39_word_new_br4 | hard<br>cactus<br>spin<br>siege |  
-| bip_39_word_new_br5 | hard<br>cactus<br>spin<br>siege<br>joke |  
-| bip_39_word_new_br6 | hard<br>cactus<br>spin<br>siege<br>joke<br>renew |  
-| bip_39_word_new_br7 | hard<br>cactus<br>spin<br>siege<br>joke<br>renew<br>churn |  
-| bip_39_word_new_br8 | hard<br>cactus<br>spin<br>siege<br>joke<br>renew<br>churn<br>balance |  
-| bip_39_word_new_br9 | hard<br>cactus<br>spin<br>siege<br>joke<br>renew<br>churn<br>balance<br>note |  
-| bip_39_word_new_line1 | hard |  
-| bip_39_word_new_line10 | hard
+| bip_39_word_new_br_1 | hard |  
+| bip_39_word_new_br_10 | hard<br>cactus<br>spin<br>siege<br>joke<br>renew<br>churn<br>balance<br>note<br>apart |  
+| bip_39_word_new_br_11 | hard<br>cactus<br>spin<br>siege<br>joke<br>renew<br>churn<br>balance<br>note<br>apart<br>current |  
+| bip_39_word_new_br_12 | hard<br>cactus<br>spin<br>siege<br>joke<br>renew<br>churn<br>balance<br>note<br>apart<br>current<br>artefact |  
+| bip_39_word_new_br_2 | hard<br>cactus |  
+| bip_39_word_new_br_3 | hard<br>cactus<br>spin |  
+| bip_39_word_new_br_4 | hard<br>cactus<br>spin<br>siege |  
+| bip_39_word_new_br_5 | hard<br>cactus<br>spin<br>siege<br>joke |  
+| bip_39_word_new_br_6 | hard<br>cactus<br>spin<br>siege<br>joke<br>renew |  
+| bip_39_word_new_br_7 | hard<br>cactus<br>spin<br>siege<br>joke<br>renew<br>churn |  
+| bip_39_word_new_br_8 | hard<br>cactus<br>spin<br>siege<br>joke<br>renew<br>churn<br>balance |  
+| bip_39_word_new_br_9 | hard<br>cactus<br>spin<br>siege<br>joke<br>renew<br>churn<br>balance<br>note |  
+| bip_39_word_new_line_1 | hard |  
+| bip_39_word_new_line_10 | hard
 cactus
 spin
 siege
@@ -55,7 +55,7 @@ churn
 balance
 note
 apart |  
-| bip_39_word_new_line11 | hard
+| bip_39_word_new_line_11 | hard
 cactus
 spin
 siege
@@ -66,7 +66,7 @@ balance
 note
 apart
 current |  
-| bip_39_word_new_line12 | hard
+| bip_39_word_new_line_12 | hard
 cactus
 spin
 siege
@@ -78,34 +78,34 @@ note
 apart
 current
 artefact |  
-| bip_39_word_new_line2 | hard
+| bip_39_word_new_line_2 | hard
 cactus |  
-| bip_39_word_new_line3 | hard
+| bip_39_word_new_line_3 | hard
 cactus
 spin |  
-| bip_39_word_new_line4 | hard
+| bip_39_word_new_line_4 | hard
 cactus
 spin
 siege |  
-| bip_39_word_new_line5 | hard
+| bip_39_word_new_line_5 | hard
 cactus
 spin
 siege
 joke |  
-| bip_39_word_new_line6 | hard
+| bip_39_word_new_line_6 | hard
 cactus
 spin
 siege
 joke
 renew |  
-| bip_39_word_new_line7 | hard
+| bip_39_word_new_line_7 | hard
 cactus
 spin
 siege
 joke
 renew
 churn |  
-| bip_39_word_new_line8 | hard
+| bip_39_word_new_line_8 | hard
 cactus
 spin
 siege
@@ -113,7 +113,7 @@ joke
 renew
 churn
 balance |  
-| bip_39_word_new_line9 | hard
+| bip_39_word_new_line_9 | hard
 cactus
 spin
 siege

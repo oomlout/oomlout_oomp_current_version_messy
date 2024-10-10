@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | turkey |  
-| bip_39_word_new_br10 | turkey<br>price<br>account<br>sell<br>grit<br>lady<br>observe<br>shallow<br>phone<br>maximum |  
-| bip_39_word_new_br11 | turkey<br>price<br>account<br>sell<br>grit<br>lady<br>observe<br>shallow<br>phone<br>maximum<br>jaguar |  
-| bip_39_word_new_br12 | turkey<br>price<br>account<br>sell<br>grit<br>lady<br>observe<br>shallow<br>phone<br>maximum<br>jaguar<br>avocado |  
-| bip_39_word_new_br2 | turkey<br>price |  
-| bip_39_word_new_br3 | turkey<br>price<br>account |  
-| bip_39_word_new_br4 | turkey<br>price<br>account<br>sell |  
-| bip_39_word_new_br5 | turkey<br>price<br>account<br>sell<br>grit |  
-| bip_39_word_new_br6 | turkey<br>price<br>account<br>sell<br>grit<br>lady |  
-| bip_39_word_new_br7 | turkey<br>price<br>account<br>sell<br>grit<br>lady<br>observe |  
-| bip_39_word_new_br8 | turkey<br>price<br>account<br>sell<br>grit<br>lady<br>observe<br>shallow |  
-| bip_39_word_new_br9 | turkey<br>price<br>account<br>sell<br>grit<br>lady<br>observe<br>shallow<br>phone |  
-| bip_39_word_new_line1 | turkey |  
-| bip_39_word_new_line10 | turkey
+| bip_39_word_new_br_1 | turkey |  
+| bip_39_word_new_br_10 | turkey<br>price<br>account<br>sell<br>grit<br>lady<br>observe<br>shallow<br>phone<br>maximum |  
+| bip_39_word_new_br_11 | turkey<br>price<br>account<br>sell<br>grit<br>lady<br>observe<br>shallow<br>phone<br>maximum<br>jaguar |  
+| bip_39_word_new_br_12 | turkey<br>price<br>account<br>sell<br>grit<br>lady<br>observe<br>shallow<br>phone<br>maximum<br>jaguar<br>avocado |  
+| bip_39_word_new_br_2 | turkey<br>price |  
+| bip_39_word_new_br_3 | turkey<br>price<br>account |  
+| bip_39_word_new_br_4 | turkey<br>price<br>account<br>sell |  
+| bip_39_word_new_br_5 | turkey<br>price<br>account<br>sell<br>grit |  
+| bip_39_word_new_br_6 | turkey<br>price<br>account<br>sell<br>grit<br>lady |  
+| bip_39_word_new_br_7 | turkey<br>price<br>account<br>sell<br>grit<br>lady<br>observe |  
+| bip_39_word_new_br_8 | turkey<br>price<br>account<br>sell<br>grit<br>lady<br>observe<br>shallow |  
+| bip_39_word_new_br_9 | turkey<br>price<br>account<br>sell<br>grit<br>lady<br>observe<br>shallow<br>phone |  
+| bip_39_word_new_line_1 | turkey |  
+| bip_39_word_new_line_10 | turkey
 price
 account
 sell
@@ -55,7 +55,7 @@ observe
 shallow
 phone
 maximum |  
-| bip_39_word_new_line11 | turkey
+| bip_39_word_new_line_11 | turkey
 price
 account
 sell
@@ -66,7 +66,7 @@ shallow
 phone
 maximum
 jaguar |  
-| bip_39_word_new_line12 | turkey
+| bip_39_word_new_line_12 | turkey
 price
 account
 sell
@@ -78,34 +78,34 @@ phone
 maximum
 jaguar
 avocado |  
-| bip_39_word_new_line2 | turkey
+| bip_39_word_new_line_2 | turkey
 price |  
-| bip_39_word_new_line3 | turkey
+| bip_39_word_new_line_3 | turkey
 price
 account |  
-| bip_39_word_new_line4 | turkey
+| bip_39_word_new_line_4 | turkey
 price
 account
 sell |  
-| bip_39_word_new_line5 | turkey
+| bip_39_word_new_line_5 | turkey
 price
 account
 sell
 grit |  
-| bip_39_word_new_line6 | turkey
+| bip_39_word_new_line_6 | turkey
 price
 account
 sell
 grit
 lady |  
-| bip_39_word_new_line7 | turkey
+| bip_39_word_new_line_7 | turkey
 price
 account
 sell
 grit
 lady
 observe |  
-| bip_39_word_new_line8 | turkey
+| bip_39_word_new_line_8 | turkey
 price
 account
 sell
@@ -113,7 +113,7 @@ grit
 lady
 observe
 shallow |  
-| bip_39_word_new_line9 | turkey
+| bip_39_word_new_line_9 | turkey
 price
 account
 sell

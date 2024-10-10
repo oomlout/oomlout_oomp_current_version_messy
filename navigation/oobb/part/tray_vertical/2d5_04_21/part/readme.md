@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | spatial |  
-| bip_39_word_new_br10 | spatial<br>two<br>coyote<br>motor<br>three<br>output<br>violin<br>real<br>advice<br>market |  
-| bip_39_word_new_br11 | spatial<br>two<br>coyote<br>motor<br>three<br>output<br>violin<br>real<br>advice<br>market<br>bike |  
-| bip_39_word_new_br12 | spatial<br>two<br>coyote<br>motor<br>three<br>output<br>violin<br>real<br>advice<br>market<br>bike<br>aisle |  
-| bip_39_word_new_br2 | spatial<br>two |  
-| bip_39_word_new_br3 | spatial<br>two<br>coyote |  
-| bip_39_word_new_br4 | spatial<br>two<br>coyote<br>motor |  
-| bip_39_word_new_br5 | spatial<br>two<br>coyote<br>motor<br>three |  
-| bip_39_word_new_br6 | spatial<br>two<br>coyote<br>motor<br>three<br>output |  
-| bip_39_word_new_br7 | spatial<br>two<br>coyote<br>motor<br>three<br>output<br>violin |  
-| bip_39_word_new_br8 | spatial<br>two<br>coyote<br>motor<br>three<br>output<br>violin<br>real |  
-| bip_39_word_new_br9 | spatial<br>two<br>coyote<br>motor<br>three<br>output<br>violin<br>real<br>advice |  
-| bip_39_word_new_line1 | spatial |  
-| bip_39_word_new_line10 | spatial
+| bip_39_word_new_br_1 | spatial |  
+| bip_39_word_new_br_10 | spatial<br>two<br>coyote<br>motor<br>three<br>output<br>violin<br>real<br>advice<br>market |  
+| bip_39_word_new_br_11 | spatial<br>two<br>coyote<br>motor<br>three<br>output<br>violin<br>real<br>advice<br>market<br>bike |  
+| bip_39_word_new_br_12 | spatial<br>two<br>coyote<br>motor<br>three<br>output<br>violin<br>real<br>advice<br>market<br>bike<br>aisle |  
+| bip_39_word_new_br_2 | spatial<br>two |  
+| bip_39_word_new_br_3 | spatial<br>two<br>coyote |  
+| bip_39_word_new_br_4 | spatial<br>two<br>coyote<br>motor |  
+| bip_39_word_new_br_5 | spatial<br>two<br>coyote<br>motor<br>three |  
+| bip_39_word_new_br_6 | spatial<br>two<br>coyote<br>motor<br>three<br>output |  
+| bip_39_word_new_br_7 | spatial<br>two<br>coyote<br>motor<br>three<br>output<br>violin |  
+| bip_39_word_new_br_8 | spatial<br>two<br>coyote<br>motor<br>three<br>output<br>violin<br>real |  
+| bip_39_word_new_br_9 | spatial<br>two<br>coyote<br>motor<br>three<br>output<br>violin<br>real<br>advice |  
+| bip_39_word_new_line_1 | spatial |  
+| bip_39_word_new_line_10 | spatial
 two
 coyote
 motor
@@ -55,7 +55,7 @@ violin
 real
 advice
 market |  
-| bip_39_word_new_line11 | spatial
+| bip_39_word_new_line_11 | spatial
 two
 coyote
 motor
@@ -66,7 +66,7 @@ real
 advice
 market
 bike |  
-| bip_39_word_new_line12 | spatial
+| bip_39_word_new_line_12 | spatial
 two
 coyote
 motor
@@ -78,34 +78,34 @@ advice
 market
 bike
 aisle |  
-| bip_39_word_new_line2 | spatial
+| bip_39_word_new_line_2 | spatial
 two |  
-| bip_39_word_new_line3 | spatial
+| bip_39_word_new_line_3 | spatial
 two
 coyote |  
-| bip_39_word_new_line4 | spatial
+| bip_39_word_new_line_4 | spatial
 two
 coyote
 motor |  
-| bip_39_word_new_line5 | spatial
+| bip_39_word_new_line_5 | spatial
 two
 coyote
 motor
 three |  
-| bip_39_word_new_line6 | spatial
+| bip_39_word_new_line_6 | spatial
 two
 coyote
 motor
 three
 output |  
-| bip_39_word_new_line7 | spatial
+| bip_39_word_new_line_7 | spatial
 two
 coyote
 motor
 three
 output
 violin |  
-| bip_39_word_new_line8 | spatial
+| bip_39_word_new_line_8 | spatial
 two
 coyote
 motor
@@ -113,7 +113,7 @@ three
 output
 violin
 real |  
-| bip_39_word_new_line9 | spatial
+| bip_39_word_new_line_9 | spatial
 two
 coyote
 motor

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ethics |  
-| bip_39_word_new_br10 | ethics<br>orient<br>pause<br>defense<br>crunch<br>illness<br>corn<br>oppose<br>all<br>extra |  
-| bip_39_word_new_br11 | ethics<br>orient<br>pause<br>defense<br>crunch<br>illness<br>corn<br>oppose<br>all<br>extra<br>giant |  
-| bip_39_word_new_br12 | ethics<br>orient<br>pause<br>defense<br>crunch<br>illness<br>corn<br>oppose<br>all<br>extra<br>giant<br>answer |  
-| bip_39_word_new_br2 | ethics<br>orient |  
-| bip_39_word_new_br3 | ethics<br>orient<br>pause |  
-| bip_39_word_new_br4 | ethics<br>orient<br>pause<br>defense |  
-| bip_39_word_new_br5 | ethics<br>orient<br>pause<br>defense<br>crunch |  
-| bip_39_word_new_br6 | ethics<br>orient<br>pause<br>defense<br>crunch<br>illness |  
-| bip_39_word_new_br7 | ethics<br>orient<br>pause<br>defense<br>crunch<br>illness<br>corn |  
-| bip_39_word_new_br8 | ethics<br>orient<br>pause<br>defense<br>crunch<br>illness<br>corn<br>oppose |  
-| bip_39_word_new_br9 | ethics<br>orient<br>pause<br>defense<br>crunch<br>illness<br>corn<br>oppose<br>all |  
-| bip_39_word_new_line1 | ethics |  
-| bip_39_word_new_line10 | ethics
+| bip_39_word_new_br_1 | ethics |  
+| bip_39_word_new_br_10 | ethics<br>orient<br>pause<br>defense<br>crunch<br>illness<br>corn<br>oppose<br>all<br>extra |  
+| bip_39_word_new_br_11 | ethics<br>orient<br>pause<br>defense<br>crunch<br>illness<br>corn<br>oppose<br>all<br>extra<br>giant |  
+| bip_39_word_new_br_12 | ethics<br>orient<br>pause<br>defense<br>crunch<br>illness<br>corn<br>oppose<br>all<br>extra<br>giant<br>answer |  
+| bip_39_word_new_br_2 | ethics<br>orient |  
+| bip_39_word_new_br_3 | ethics<br>orient<br>pause |  
+| bip_39_word_new_br_4 | ethics<br>orient<br>pause<br>defense |  
+| bip_39_word_new_br_5 | ethics<br>orient<br>pause<br>defense<br>crunch |  
+| bip_39_word_new_br_6 | ethics<br>orient<br>pause<br>defense<br>crunch<br>illness |  
+| bip_39_word_new_br_7 | ethics<br>orient<br>pause<br>defense<br>crunch<br>illness<br>corn |  
+| bip_39_word_new_br_8 | ethics<br>orient<br>pause<br>defense<br>crunch<br>illness<br>corn<br>oppose |  
+| bip_39_word_new_br_9 | ethics<br>orient<br>pause<br>defense<br>crunch<br>illness<br>corn<br>oppose<br>all |  
+| bip_39_word_new_line_1 | ethics |  
+| bip_39_word_new_line_10 | ethics
 orient
 pause
 defense
@@ -55,7 +55,7 @@ corn
 oppose
 all
 extra |  
-| bip_39_word_new_line11 | ethics
+| bip_39_word_new_line_11 | ethics
 orient
 pause
 defense
@@ -66,7 +66,7 @@ oppose
 all
 extra
 giant |  
-| bip_39_word_new_line12 | ethics
+| bip_39_word_new_line_12 | ethics
 orient
 pause
 defense
@@ -78,34 +78,34 @@ all
 extra
 giant
 answer |  
-| bip_39_word_new_line2 | ethics
+| bip_39_word_new_line_2 | ethics
 orient |  
-| bip_39_word_new_line3 | ethics
+| bip_39_word_new_line_3 | ethics
 orient
 pause |  
-| bip_39_word_new_line4 | ethics
+| bip_39_word_new_line_4 | ethics
 orient
 pause
 defense |  
-| bip_39_word_new_line5 | ethics
+| bip_39_word_new_line_5 | ethics
 orient
 pause
 defense
 crunch |  
-| bip_39_word_new_line6 | ethics
+| bip_39_word_new_line_6 | ethics
 orient
 pause
 defense
 crunch
 illness |  
-| bip_39_word_new_line7 | ethics
+| bip_39_word_new_line_7 | ethics
 orient
 pause
 defense
 crunch
 illness
 corn |  
-| bip_39_word_new_line8 | ethics
+| bip_39_word_new_line_8 | ethics
 orient
 pause
 defense
@@ -113,7 +113,7 @@ crunch
 illness
 corn
 oppose |  
-| bip_39_word_new_line9 | ethics
+| bip_39_word_new_line_9 | ethics
 orient
 pause
 defense

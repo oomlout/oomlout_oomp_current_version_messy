@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | lab |  
-| bip_39_word_new_br10 | lab<br>harsh<br>doll<br>nasty<br>guess<br>photo<br>light<br>frequent<br>trend<br>join |  
-| bip_39_word_new_br11 | lab<br>harsh<br>doll<br>nasty<br>guess<br>photo<br>light<br>frequent<br>trend<br>join<br>trick |  
-| bip_39_word_new_br12 | lab<br>harsh<br>doll<br>nasty<br>guess<br>photo<br>light<br>frequent<br>trend<br>join<br>trick<br>aunt |  
-| bip_39_word_new_br2 | lab<br>harsh |  
-| bip_39_word_new_br3 | lab<br>harsh<br>doll |  
-| bip_39_word_new_br4 | lab<br>harsh<br>doll<br>nasty |  
-| bip_39_word_new_br5 | lab<br>harsh<br>doll<br>nasty<br>guess |  
-| bip_39_word_new_br6 | lab<br>harsh<br>doll<br>nasty<br>guess<br>photo |  
-| bip_39_word_new_br7 | lab<br>harsh<br>doll<br>nasty<br>guess<br>photo<br>light |  
-| bip_39_word_new_br8 | lab<br>harsh<br>doll<br>nasty<br>guess<br>photo<br>light<br>frequent |  
-| bip_39_word_new_br9 | lab<br>harsh<br>doll<br>nasty<br>guess<br>photo<br>light<br>frequent<br>trend |  
-| bip_39_word_new_line1 | lab |  
-| bip_39_word_new_line10 | lab
+| bip_39_word_new_br_1 | lab |  
+| bip_39_word_new_br_10 | lab<br>harsh<br>doll<br>nasty<br>guess<br>photo<br>light<br>frequent<br>trend<br>join |  
+| bip_39_word_new_br_11 | lab<br>harsh<br>doll<br>nasty<br>guess<br>photo<br>light<br>frequent<br>trend<br>join<br>trick |  
+| bip_39_word_new_br_12 | lab<br>harsh<br>doll<br>nasty<br>guess<br>photo<br>light<br>frequent<br>trend<br>join<br>trick<br>aunt |  
+| bip_39_word_new_br_2 | lab<br>harsh |  
+| bip_39_word_new_br_3 | lab<br>harsh<br>doll |  
+| bip_39_word_new_br_4 | lab<br>harsh<br>doll<br>nasty |  
+| bip_39_word_new_br_5 | lab<br>harsh<br>doll<br>nasty<br>guess |  
+| bip_39_word_new_br_6 | lab<br>harsh<br>doll<br>nasty<br>guess<br>photo |  
+| bip_39_word_new_br_7 | lab<br>harsh<br>doll<br>nasty<br>guess<br>photo<br>light |  
+| bip_39_word_new_br_8 | lab<br>harsh<br>doll<br>nasty<br>guess<br>photo<br>light<br>frequent |  
+| bip_39_word_new_br_9 | lab<br>harsh<br>doll<br>nasty<br>guess<br>photo<br>light<br>frequent<br>trend |  
+| bip_39_word_new_line_1 | lab |  
+| bip_39_word_new_line_10 | lab
 harsh
 doll
 nasty
@@ -55,7 +55,7 @@ light
 frequent
 trend
 join |  
-| bip_39_word_new_line11 | lab
+| bip_39_word_new_line_11 | lab
 harsh
 doll
 nasty
@@ -66,7 +66,7 @@ frequent
 trend
 join
 trick |  
-| bip_39_word_new_line12 | lab
+| bip_39_word_new_line_12 | lab
 harsh
 doll
 nasty
@@ -78,34 +78,34 @@ trend
 join
 trick
 aunt |  
-| bip_39_word_new_line2 | lab
+| bip_39_word_new_line_2 | lab
 harsh |  
-| bip_39_word_new_line3 | lab
+| bip_39_word_new_line_3 | lab
 harsh
 doll |  
-| bip_39_word_new_line4 | lab
+| bip_39_word_new_line_4 | lab
 harsh
 doll
 nasty |  
-| bip_39_word_new_line5 | lab
+| bip_39_word_new_line_5 | lab
 harsh
 doll
 nasty
 guess |  
-| bip_39_word_new_line6 | lab
+| bip_39_word_new_line_6 | lab
 harsh
 doll
 nasty
 guess
 photo |  
-| bip_39_word_new_line7 | lab
+| bip_39_word_new_line_7 | lab
 harsh
 doll
 nasty
 guess
 photo
 light |  
-| bip_39_word_new_line8 | lab
+| bip_39_word_new_line_8 | lab
 harsh
 doll
 nasty
@@ -113,7 +113,7 @@ guess
 photo
 light
 frequent |  
-| bip_39_word_new_line9 | lab
+| bip_39_word_new_line_9 | lab
 harsh
 doll
 nasty

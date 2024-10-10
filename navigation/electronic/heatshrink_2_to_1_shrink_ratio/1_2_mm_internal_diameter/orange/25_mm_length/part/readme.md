@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | miss |  
-| bip_39_word_new_br10 | miss<br>champion<br>nurse<br>dumb<br>muscle<br>educate<br>cereal<br>blood<br>right<br>diesel |  
-| bip_39_word_new_br11 | miss<br>champion<br>nurse<br>dumb<br>muscle<br>educate<br>cereal<br>blood<br>right<br>diesel<br>rotate |  
-| bip_39_word_new_br12 | miss<br>champion<br>nurse<br>dumb<br>muscle<br>educate<br>cereal<br>blood<br>right<br>diesel<br>rotate<br>amused |  
-| bip_39_word_new_br2 | miss<br>champion |  
-| bip_39_word_new_br3 | miss<br>champion<br>nurse |  
-| bip_39_word_new_br4 | miss<br>champion<br>nurse<br>dumb |  
-| bip_39_word_new_br5 | miss<br>champion<br>nurse<br>dumb<br>muscle |  
-| bip_39_word_new_br6 | miss<br>champion<br>nurse<br>dumb<br>muscle<br>educate |  
-| bip_39_word_new_br7 | miss<br>champion<br>nurse<br>dumb<br>muscle<br>educate<br>cereal |  
-| bip_39_word_new_br8 | miss<br>champion<br>nurse<br>dumb<br>muscle<br>educate<br>cereal<br>blood |  
-| bip_39_word_new_br9 | miss<br>champion<br>nurse<br>dumb<br>muscle<br>educate<br>cereal<br>blood<br>right |  
-| bip_39_word_new_line1 | miss |  
-| bip_39_word_new_line10 | miss
+| bip_39_word_new_br_1 | miss |  
+| bip_39_word_new_br_10 | miss<br>champion<br>nurse<br>dumb<br>muscle<br>educate<br>cereal<br>blood<br>right<br>diesel |  
+| bip_39_word_new_br_11 | miss<br>champion<br>nurse<br>dumb<br>muscle<br>educate<br>cereal<br>blood<br>right<br>diesel<br>rotate |  
+| bip_39_word_new_br_12 | miss<br>champion<br>nurse<br>dumb<br>muscle<br>educate<br>cereal<br>blood<br>right<br>diesel<br>rotate<br>amused |  
+| bip_39_word_new_br_2 | miss<br>champion |  
+| bip_39_word_new_br_3 | miss<br>champion<br>nurse |  
+| bip_39_word_new_br_4 | miss<br>champion<br>nurse<br>dumb |  
+| bip_39_word_new_br_5 | miss<br>champion<br>nurse<br>dumb<br>muscle |  
+| bip_39_word_new_br_6 | miss<br>champion<br>nurse<br>dumb<br>muscle<br>educate |  
+| bip_39_word_new_br_7 | miss<br>champion<br>nurse<br>dumb<br>muscle<br>educate<br>cereal |  
+| bip_39_word_new_br_8 | miss<br>champion<br>nurse<br>dumb<br>muscle<br>educate<br>cereal<br>blood |  
+| bip_39_word_new_br_9 | miss<br>champion<br>nurse<br>dumb<br>muscle<br>educate<br>cereal<br>blood<br>right |  
+| bip_39_word_new_line_1 | miss |  
+| bip_39_word_new_line_10 | miss
 champion
 nurse
 dumb
@@ -55,7 +55,7 @@ cereal
 blood
 right
 diesel |  
-| bip_39_word_new_line11 | miss
+| bip_39_word_new_line_11 | miss
 champion
 nurse
 dumb
@@ -66,7 +66,7 @@ blood
 right
 diesel
 rotate |  
-| bip_39_word_new_line12 | miss
+| bip_39_word_new_line_12 | miss
 champion
 nurse
 dumb
@@ -78,34 +78,34 @@ right
 diesel
 rotate
 amused |  
-| bip_39_word_new_line2 | miss
+| bip_39_word_new_line_2 | miss
 champion |  
-| bip_39_word_new_line3 | miss
+| bip_39_word_new_line_3 | miss
 champion
 nurse |  
-| bip_39_word_new_line4 | miss
+| bip_39_word_new_line_4 | miss
 champion
 nurse
 dumb |  
-| bip_39_word_new_line5 | miss
+| bip_39_word_new_line_5 | miss
 champion
 nurse
 dumb
 muscle |  
-| bip_39_word_new_line6 | miss
+| bip_39_word_new_line_6 | miss
 champion
 nurse
 dumb
 muscle
 educate |  
-| bip_39_word_new_line7 | miss
+| bip_39_word_new_line_7 | miss
 champion
 nurse
 dumb
 muscle
 educate
 cereal |  
-| bip_39_word_new_line8 | miss
+| bip_39_word_new_line_8 | miss
 champion
 nurse
 dumb
@@ -113,7 +113,7 @@ muscle
 educate
 cereal
 blood |  
-| bip_39_word_new_line9 | miss
+| bip_39_word_new_line_9 | miss
 champion
 nurse
 dumb

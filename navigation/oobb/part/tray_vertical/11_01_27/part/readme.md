@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | allow |  
-| bip_39_word_new_br10 | allow<br>armor<br>stadium<br>mask<br>inflict<br>ranch<br>position<br>either<br>wrist<br>tilt |  
-| bip_39_word_new_br11 | allow<br>armor<br>stadium<br>mask<br>inflict<br>ranch<br>position<br>either<br>wrist<br>tilt<br>spot |  
-| bip_39_word_new_br12 | allow<br>armor<br>stadium<br>mask<br>inflict<br>ranch<br>position<br>either<br>wrist<br>tilt<br>spot<br>athlete |  
-| bip_39_word_new_br2 | allow<br>armor |  
-| bip_39_word_new_br3 | allow<br>armor<br>stadium |  
-| bip_39_word_new_br4 | allow<br>armor<br>stadium<br>mask |  
-| bip_39_word_new_br5 | allow<br>armor<br>stadium<br>mask<br>inflict |  
-| bip_39_word_new_br6 | allow<br>armor<br>stadium<br>mask<br>inflict<br>ranch |  
-| bip_39_word_new_br7 | allow<br>armor<br>stadium<br>mask<br>inflict<br>ranch<br>position |  
-| bip_39_word_new_br8 | allow<br>armor<br>stadium<br>mask<br>inflict<br>ranch<br>position<br>either |  
-| bip_39_word_new_br9 | allow<br>armor<br>stadium<br>mask<br>inflict<br>ranch<br>position<br>either<br>wrist |  
-| bip_39_word_new_line1 | allow |  
-| bip_39_word_new_line10 | allow
+| bip_39_word_new_br_1 | allow |  
+| bip_39_word_new_br_10 | allow<br>armor<br>stadium<br>mask<br>inflict<br>ranch<br>position<br>either<br>wrist<br>tilt |  
+| bip_39_word_new_br_11 | allow<br>armor<br>stadium<br>mask<br>inflict<br>ranch<br>position<br>either<br>wrist<br>tilt<br>spot |  
+| bip_39_word_new_br_12 | allow<br>armor<br>stadium<br>mask<br>inflict<br>ranch<br>position<br>either<br>wrist<br>tilt<br>spot<br>athlete |  
+| bip_39_word_new_br_2 | allow<br>armor |  
+| bip_39_word_new_br_3 | allow<br>armor<br>stadium |  
+| bip_39_word_new_br_4 | allow<br>armor<br>stadium<br>mask |  
+| bip_39_word_new_br_5 | allow<br>armor<br>stadium<br>mask<br>inflict |  
+| bip_39_word_new_br_6 | allow<br>armor<br>stadium<br>mask<br>inflict<br>ranch |  
+| bip_39_word_new_br_7 | allow<br>armor<br>stadium<br>mask<br>inflict<br>ranch<br>position |  
+| bip_39_word_new_br_8 | allow<br>armor<br>stadium<br>mask<br>inflict<br>ranch<br>position<br>either |  
+| bip_39_word_new_br_9 | allow<br>armor<br>stadium<br>mask<br>inflict<br>ranch<br>position<br>either<br>wrist |  
+| bip_39_word_new_line_1 | allow |  
+| bip_39_word_new_line_10 | allow
 armor
 stadium
 mask
@@ -55,7 +55,7 @@ position
 either
 wrist
 tilt |  
-| bip_39_word_new_line11 | allow
+| bip_39_word_new_line_11 | allow
 armor
 stadium
 mask
@@ -66,7 +66,7 @@ either
 wrist
 tilt
 spot |  
-| bip_39_word_new_line12 | allow
+| bip_39_word_new_line_12 | allow
 armor
 stadium
 mask
@@ -78,34 +78,34 @@ wrist
 tilt
 spot
 athlete |  
-| bip_39_word_new_line2 | allow
+| bip_39_word_new_line_2 | allow
 armor |  
-| bip_39_word_new_line3 | allow
+| bip_39_word_new_line_3 | allow
 armor
 stadium |  
-| bip_39_word_new_line4 | allow
+| bip_39_word_new_line_4 | allow
 armor
 stadium
 mask |  
-| bip_39_word_new_line5 | allow
+| bip_39_word_new_line_5 | allow
 armor
 stadium
 mask
 inflict |  
-| bip_39_word_new_line6 | allow
+| bip_39_word_new_line_6 | allow
 armor
 stadium
 mask
 inflict
 ranch |  
-| bip_39_word_new_line7 | allow
+| bip_39_word_new_line_7 | allow
 armor
 stadium
 mask
 inflict
 ranch
 position |  
-| bip_39_word_new_line8 | allow
+| bip_39_word_new_line_8 | allow
 armor
 stadium
 mask
@@ -113,7 +113,7 @@ inflict
 ranch
 position
 either |  
-| bip_39_word_new_line9 | allow
+| bip_39_word_new_line_9 | allow
 armor
 stadium
 mask

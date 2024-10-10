@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | resource |  
-| bip_39_word_new_br10 | resource<br>word<br>fox<br>pottery<br>august<br>nature<br>boat<br>coconut<br>afraid<br>tourist |  
-| bip_39_word_new_br11 | resource<br>word<br>fox<br>pottery<br>august<br>nature<br>boat<br>coconut<br>afraid<br>tourist<br>balcony |  
-| bip_39_word_new_br12 | resource<br>word<br>fox<br>pottery<br>august<br>nature<br>boat<br>coconut<br>afraid<br>tourist<br>balcony<br>another |  
-| bip_39_word_new_br2 | resource<br>word |  
-| bip_39_word_new_br3 | resource<br>word<br>fox |  
-| bip_39_word_new_br4 | resource<br>word<br>fox<br>pottery |  
-| bip_39_word_new_br5 | resource<br>word<br>fox<br>pottery<br>august |  
-| bip_39_word_new_br6 | resource<br>word<br>fox<br>pottery<br>august<br>nature |  
-| bip_39_word_new_br7 | resource<br>word<br>fox<br>pottery<br>august<br>nature<br>boat |  
-| bip_39_word_new_br8 | resource<br>word<br>fox<br>pottery<br>august<br>nature<br>boat<br>coconut |  
-| bip_39_word_new_br9 | resource<br>word<br>fox<br>pottery<br>august<br>nature<br>boat<br>coconut<br>afraid |  
-| bip_39_word_new_line1 | resource |  
-| bip_39_word_new_line10 | resource
+| bip_39_word_new_br_1 | resource |  
+| bip_39_word_new_br_10 | resource<br>word<br>fox<br>pottery<br>august<br>nature<br>boat<br>coconut<br>afraid<br>tourist |  
+| bip_39_word_new_br_11 | resource<br>word<br>fox<br>pottery<br>august<br>nature<br>boat<br>coconut<br>afraid<br>tourist<br>balcony |  
+| bip_39_word_new_br_12 | resource<br>word<br>fox<br>pottery<br>august<br>nature<br>boat<br>coconut<br>afraid<br>tourist<br>balcony<br>another |  
+| bip_39_word_new_br_2 | resource<br>word |  
+| bip_39_word_new_br_3 | resource<br>word<br>fox |  
+| bip_39_word_new_br_4 | resource<br>word<br>fox<br>pottery |  
+| bip_39_word_new_br_5 | resource<br>word<br>fox<br>pottery<br>august |  
+| bip_39_word_new_br_6 | resource<br>word<br>fox<br>pottery<br>august<br>nature |  
+| bip_39_word_new_br_7 | resource<br>word<br>fox<br>pottery<br>august<br>nature<br>boat |  
+| bip_39_word_new_br_8 | resource<br>word<br>fox<br>pottery<br>august<br>nature<br>boat<br>coconut |  
+| bip_39_word_new_br_9 | resource<br>word<br>fox<br>pottery<br>august<br>nature<br>boat<br>coconut<br>afraid |  
+| bip_39_word_new_line_1 | resource |  
+| bip_39_word_new_line_10 | resource
 word
 fox
 pottery
@@ -55,7 +55,7 @@ boat
 coconut
 afraid
 tourist |  
-| bip_39_word_new_line11 | resource
+| bip_39_word_new_line_11 | resource
 word
 fox
 pottery
@@ -66,7 +66,7 @@ coconut
 afraid
 tourist
 balcony |  
-| bip_39_word_new_line12 | resource
+| bip_39_word_new_line_12 | resource
 word
 fox
 pottery
@@ -78,34 +78,34 @@ afraid
 tourist
 balcony
 another |  
-| bip_39_word_new_line2 | resource
+| bip_39_word_new_line_2 | resource
 word |  
-| bip_39_word_new_line3 | resource
+| bip_39_word_new_line_3 | resource
 word
 fox |  
-| bip_39_word_new_line4 | resource
+| bip_39_word_new_line_4 | resource
 word
 fox
 pottery |  
-| bip_39_word_new_line5 | resource
+| bip_39_word_new_line_5 | resource
 word
 fox
 pottery
 august |  
-| bip_39_word_new_line6 | resource
+| bip_39_word_new_line_6 | resource
 word
 fox
 pottery
 august
 nature |  
-| bip_39_word_new_line7 | resource
+| bip_39_word_new_line_7 | resource
 word
 fox
 pottery
 august
 nature
 boat |  
-| bip_39_word_new_line8 | resource
+| bip_39_word_new_line_8 | resource
 word
 fox
 pottery
@@ -113,7 +113,7 @@ august
 nature
 boat
 coconut |  
-| bip_39_word_new_line9 | resource
+| bip_39_word_new_line_9 | resource
 word
 fox
 pottery

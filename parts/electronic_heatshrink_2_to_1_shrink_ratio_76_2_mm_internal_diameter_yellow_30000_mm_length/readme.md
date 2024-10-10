@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pull |  
-| bip_39_word_new_br10 | pull<br>pen<br>lady<br>grit<br>wrestle<br>zebra<br>parade<br>name<br>salt<br>turkey |  
-| bip_39_word_new_br11 | pull<br>pen<br>lady<br>grit<br>wrestle<br>zebra<br>parade<br>name<br>salt<br>turkey<br>saddle |  
-| bip_39_word_new_br12 | pull<br>pen<br>lady<br>grit<br>wrestle<br>zebra<br>parade<br>name<br>salt<br>turkey<br>saddle<br>aisle |  
-| bip_39_word_new_br2 | pull<br>pen |  
-| bip_39_word_new_br3 | pull<br>pen<br>lady |  
-| bip_39_word_new_br4 | pull<br>pen<br>lady<br>grit |  
-| bip_39_word_new_br5 | pull<br>pen<br>lady<br>grit<br>wrestle |  
-| bip_39_word_new_br6 | pull<br>pen<br>lady<br>grit<br>wrestle<br>zebra |  
-| bip_39_word_new_br7 | pull<br>pen<br>lady<br>grit<br>wrestle<br>zebra<br>parade |  
-| bip_39_word_new_br8 | pull<br>pen<br>lady<br>grit<br>wrestle<br>zebra<br>parade<br>name |  
-| bip_39_word_new_br9 | pull<br>pen<br>lady<br>grit<br>wrestle<br>zebra<br>parade<br>name<br>salt |  
-| bip_39_word_new_line1 | pull |  
-| bip_39_word_new_line10 | pull
+| bip_39_word_new_br_1 | pull |  
+| bip_39_word_new_br_10 | pull<br>pen<br>lady<br>grit<br>wrestle<br>zebra<br>parade<br>name<br>salt<br>turkey |  
+| bip_39_word_new_br_11 | pull<br>pen<br>lady<br>grit<br>wrestle<br>zebra<br>parade<br>name<br>salt<br>turkey<br>saddle |  
+| bip_39_word_new_br_12 | pull<br>pen<br>lady<br>grit<br>wrestle<br>zebra<br>parade<br>name<br>salt<br>turkey<br>saddle<br>aisle |  
+| bip_39_word_new_br_2 | pull<br>pen |  
+| bip_39_word_new_br_3 | pull<br>pen<br>lady |  
+| bip_39_word_new_br_4 | pull<br>pen<br>lady<br>grit |  
+| bip_39_word_new_br_5 | pull<br>pen<br>lady<br>grit<br>wrestle |  
+| bip_39_word_new_br_6 | pull<br>pen<br>lady<br>grit<br>wrestle<br>zebra |  
+| bip_39_word_new_br_7 | pull<br>pen<br>lady<br>grit<br>wrestle<br>zebra<br>parade |  
+| bip_39_word_new_br_8 | pull<br>pen<br>lady<br>grit<br>wrestle<br>zebra<br>parade<br>name |  
+| bip_39_word_new_br_9 | pull<br>pen<br>lady<br>grit<br>wrestle<br>zebra<br>parade<br>name<br>salt |  
+| bip_39_word_new_line_1 | pull |  
+| bip_39_word_new_line_10 | pull
 pen
 lady
 grit
@@ -55,7 +55,7 @@ parade
 name
 salt
 turkey |  
-| bip_39_word_new_line11 | pull
+| bip_39_word_new_line_11 | pull
 pen
 lady
 grit
@@ -66,7 +66,7 @@ name
 salt
 turkey
 saddle |  
-| bip_39_word_new_line12 | pull
+| bip_39_word_new_line_12 | pull
 pen
 lady
 grit
@@ -78,34 +78,34 @@ salt
 turkey
 saddle
 aisle |  
-| bip_39_word_new_line2 | pull
+| bip_39_word_new_line_2 | pull
 pen |  
-| bip_39_word_new_line3 | pull
+| bip_39_word_new_line_3 | pull
 pen
 lady |  
-| bip_39_word_new_line4 | pull
+| bip_39_word_new_line_4 | pull
 pen
 lady
 grit |  
-| bip_39_word_new_line5 | pull
+| bip_39_word_new_line_5 | pull
 pen
 lady
 grit
 wrestle |  
-| bip_39_word_new_line6 | pull
+| bip_39_word_new_line_6 | pull
 pen
 lady
 grit
 wrestle
 zebra |  
-| bip_39_word_new_line7 | pull
+| bip_39_word_new_line_7 | pull
 pen
 lady
 grit
 wrestle
 zebra
 parade |  
-| bip_39_word_new_line8 | pull
+| bip_39_word_new_line_8 | pull
 pen
 lady
 grit
@@ -113,7 +113,7 @@ wrestle
 zebra
 parade
 name |  
-| bip_39_word_new_line9 | pull
+| bip_39_word_new_line_9 | pull
 pen
 lady
 grit

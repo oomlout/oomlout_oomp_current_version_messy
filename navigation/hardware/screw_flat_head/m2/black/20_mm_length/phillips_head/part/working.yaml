@@ -1,17 +1,17 @@
-bip_39_word_new_br1: galaxy
-bip_39_word_new_br10: galaxy<br>theme<br>path<br>kidney<br>alley<br>rival<br>one<br>human<br>during<br>alley
-bip_39_word_new_br11: galaxy<br>theme<br>path<br>kidney<br>alley<br>rival<br>one<br>human<br>during<br>alley<br>glance
-bip_39_word_new_br12: galaxy<br>theme<br>path<br>kidney<br>alley<br>rival<br>one<br>human<br>during<br>alley<br>glance<br>assist
-bip_39_word_new_br2: galaxy<br>theme
-bip_39_word_new_br3: galaxy<br>theme<br>path
-bip_39_word_new_br4: galaxy<br>theme<br>path<br>kidney
-bip_39_word_new_br5: galaxy<br>theme<br>path<br>kidney<br>alley
-bip_39_word_new_br6: galaxy<br>theme<br>path<br>kidney<br>alley<br>rival
-bip_39_word_new_br7: galaxy<br>theme<br>path<br>kidney<br>alley<br>rival<br>one
-bip_39_word_new_br8: galaxy<br>theme<br>path<br>kidney<br>alley<br>rival<br>one<br>human
-bip_39_word_new_br9: galaxy<br>theme<br>path<br>kidney<br>alley<br>rival<br>one<br>human<br>during
-bip_39_word_new_line1: galaxy
-bip_39_word_new_line10: 'galaxy
+bip_39_word_new_br_1: galaxy
+bip_39_word_new_br_10: galaxy<br>theme<br>path<br>kidney<br>alley<br>rival<br>one<br>human<br>during<br>alley
+bip_39_word_new_br_11: galaxy<br>theme<br>path<br>kidney<br>alley<br>rival<br>one<br>human<br>during<br>alley<br>glance
+bip_39_word_new_br_12: galaxy<br>theme<br>path<br>kidney<br>alley<br>rival<br>one<br>human<br>during<br>alley<br>glance<br>assist
+bip_39_word_new_br_2: galaxy<br>theme
+bip_39_word_new_br_3: galaxy<br>theme<br>path
+bip_39_word_new_br_4: galaxy<br>theme<br>path<br>kidney
+bip_39_word_new_br_5: galaxy<br>theme<br>path<br>kidney<br>alley
+bip_39_word_new_br_6: galaxy<br>theme<br>path<br>kidney<br>alley<br>rival
+bip_39_word_new_br_7: galaxy<br>theme<br>path<br>kidney<br>alley<br>rival<br>one
+bip_39_word_new_br_8: galaxy<br>theme<br>path<br>kidney<br>alley<br>rival<br>one<br>human
+bip_39_word_new_br_9: galaxy<br>theme<br>path<br>kidney<br>alley<br>rival<br>one<br>human<br>during
+bip_39_word_new_line_1: galaxy
+bip_39_word_new_line_10: 'galaxy
 
   theme
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'galaxy
   during
 
   alley'
-bip_39_word_new_line11: 'galaxy
+bip_39_word_new_line_11: 'galaxy
 
   theme
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'galaxy
   alley
 
   glance'
-bip_39_word_new_line12: 'galaxy
+bip_39_word_new_line_12: 'galaxy
 
   theme
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'galaxy
   glance
 
   assist'
-bip_39_word_new_line2: 'galaxy
+bip_39_word_new_line_2: 'galaxy
 
   theme'
-bip_39_word_new_line3: 'galaxy
+bip_39_word_new_line_3: 'galaxy
 
   theme
 
   path'
-bip_39_word_new_line4: 'galaxy
+bip_39_word_new_line_4: 'galaxy
 
   theme
 
   path
 
   kidney'
-bip_39_word_new_line5: 'galaxy
+bip_39_word_new_line_5: 'galaxy
 
   theme
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'galaxy
   kidney
 
   alley'
-bip_39_word_new_line6: 'galaxy
+bip_39_word_new_line_6: 'galaxy
 
   theme
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'galaxy
   alley
 
   rival'
-bip_39_word_new_line7: 'galaxy
+bip_39_word_new_line_7: 'galaxy
 
   theme
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'galaxy
   rival
 
   one'
-bip_39_word_new_line8: 'galaxy
+bip_39_word_new_line_8: 'galaxy
 
   theme
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'galaxy
   one
 
   human'
-bip_39_word_new_line9: 'galaxy
+bip_39_word_new_line_9: 'galaxy
 
   theme
 

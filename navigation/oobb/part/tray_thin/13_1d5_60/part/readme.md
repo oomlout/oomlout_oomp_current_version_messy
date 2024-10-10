@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | jaguar |  
-| bip_39_word_new_br10 | jaguar<br>judge<br>slice<br>keep<br>web<br>nose<br>jump<br>lab<br>barrel<br>ethics |  
-| bip_39_word_new_br11 | jaguar<br>judge<br>slice<br>keep<br>web<br>nose<br>jump<br>lab<br>barrel<br>ethics<br>gather |  
-| bip_39_word_new_br12 | jaguar<br>judge<br>slice<br>keep<br>web<br>nose<br>jump<br>lab<br>barrel<br>ethics<br>gather<br>announce |  
-| bip_39_word_new_br2 | jaguar<br>judge |  
-| bip_39_word_new_br3 | jaguar<br>judge<br>slice |  
-| bip_39_word_new_br4 | jaguar<br>judge<br>slice<br>keep |  
-| bip_39_word_new_br5 | jaguar<br>judge<br>slice<br>keep<br>web |  
-| bip_39_word_new_br6 | jaguar<br>judge<br>slice<br>keep<br>web<br>nose |  
-| bip_39_word_new_br7 | jaguar<br>judge<br>slice<br>keep<br>web<br>nose<br>jump |  
-| bip_39_word_new_br8 | jaguar<br>judge<br>slice<br>keep<br>web<br>nose<br>jump<br>lab |  
-| bip_39_word_new_br9 | jaguar<br>judge<br>slice<br>keep<br>web<br>nose<br>jump<br>lab<br>barrel |  
-| bip_39_word_new_line1 | jaguar |  
-| bip_39_word_new_line10 | jaguar
+| bip_39_word_new_br_1 | jaguar |  
+| bip_39_word_new_br_10 | jaguar<br>judge<br>slice<br>keep<br>web<br>nose<br>jump<br>lab<br>barrel<br>ethics |  
+| bip_39_word_new_br_11 | jaguar<br>judge<br>slice<br>keep<br>web<br>nose<br>jump<br>lab<br>barrel<br>ethics<br>gather |  
+| bip_39_word_new_br_12 | jaguar<br>judge<br>slice<br>keep<br>web<br>nose<br>jump<br>lab<br>barrel<br>ethics<br>gather<br>announce |  
+| bip_39_word_new_br_2 | jaguar<br>judge |  
+| bip_39_word_new_br_3 | jaguar<br>judge<br>slice |  
+| bip_39_word_new_br_4 | jaguar<br>judge<br>slice<br>keep |  
+| bip_39_word_new_br_5 | jaguar<br>judge<br>slice<br>keep<br>web |  
+| bip_39_word_new_br_6 | jaguar<br>judge<br>slice<br>keep<br>web<br>nose |  
+| bip_39_word_new_br_7 | jaguar<br>judge<br>slice<br>keep<br>web<br>nose<br>jump |  
+| bip_39_word_new_br_8 | jaguar<br>judge<br>slice<br>keep<br>web<br>nose<br>jump<br>lab |  
+| bip_39_word_new_br_9 | jaguar<br>judge<br>slice<br>keep<br>web<br>nose<br>jump<br>lab<br>barrel |  
+| bip_39_word_new_line_1 | jaguar |  
+| bip_39_word_new_line_10 | jaguar
 judge
 slice
 keep
@@ -55,7 +55,7 @@ jump
 lab
 barrel
 ethics |  
-| bip_39_word_new_line11 | jaguar
+| bip_39_word_new_line_11 | jaguar
 judge
 slice
 keep
@@ -66,7 +66,7 @@ lab
 barrel
 ethics
 gather |  
-| bip_39_word_new_line12 | jaguar
+| bip_39_word_new_line_12 | jaguar
 judge
 slice
 keep
@@ -78,34 +78,34 @@ barrel
 ethics
 gather
 announce |  
-| bip_39_word_new_line2 | jaguar
+| bip_39_word_new_line_2 | jaguar
 judge |  
-| bip_39_word_new_line3 | jaguar
+| bip_39_word_new_line_3 | jaguar
 judge
 slice |  
-| bip_39_word_new_line4 | jaguar
+| bip_39_word_new_line_4 | jaguar
 judge
 slice
 keep |  
-| bip_39_word_new_line5 | jaguar
+| bip_39_word_new_line_5 | jaguar
 judge
 slice
 keep
 web |  
-| bip_39_word_new_line6 | jaguar
+| bip_39_word_new_line_6 | jaguar
 judge
 slice
 keep
 web
 nose |  
-| bip_39_word_new_line7 | jaguar
+| bip_39_word_new_line_7 | jaguar
 judge
 slice
 keep
 web
 nose
 jump |  
-| bip_39_word_new_line8 | jaguar
+| bip_39_word_new_line_8 | jaguar
 judge
 slice
 keep
@@ -113,7 +113,7 @@ web
 nose
 jump
 lab |  
-| bip_39_word_new_line9 | jaguar
+| bip_39_word_new_line_9 | jaguar
 judge
 slice
 keep

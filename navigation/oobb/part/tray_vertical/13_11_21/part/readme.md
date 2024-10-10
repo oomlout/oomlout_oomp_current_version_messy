@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | conduct |  
-| bip_39_word_new_br10 | conduct<br>pride<br>raise<br>member<br>swim<br>town<br>funny<br>eyebrow<br>inside<br>price |  
-| bip_39_word_new_br11 | conduct<br>pride<br>raise<br>member<br>swim<br>town<br>funny<br>eyebrow<br>inside<br>price<br>gentle |  
-| bip_39_word_new_br12 | conduct<br>pride<br>raise<br>member<br>swim<br>town<br>funny<br>eyebrow<br>inside<br>price<br>gentle<br>almost |  
-| bip_39_word_new_br2 | conduct<br>pride |  
-| bip_39_word_new_br3 | conduct<br>pride<br>raise |  
-| bip_39_word_new_br4 | conduct<br>pride<br>raise<br>member |  
-| bip_39_word_new_br5 | conduct<br>pride<br>raise<br>member<br>swim |  
-| bip_39_word_new_br6 | conduct<br>pride<br>raise<br>member<br>swim<br>town |  
-| bip_39_word_new_br7 | conduct<br>pride<br>raise<br>member<br>swim<br>town<br>funny |  
-| bip_39_word_new_br8 | conduct<br>pride<br>raise<br>member<br>swim<br>town<br>funny<br>eyebrow |  
-| bip_39_word_new_br9 | conduct<br>pride<br>raise<br>member<br>swim<br>town<br>funny<br>eyebrow<br>inside |  
-| bip_39_word_new_line1 | conduct |  
-| bip_39_word_new_line10 | conduct
+| bip_39_word_new_br_1 | conduct |  
+| bip_39_word_new_br_10 | conduct<br>pride<br>raise<br>member<br>swim<br>town<br>funny<br>eyebrow<br>inside<br>price |  
+| bip_39_word_new_br_11 | conduct<br>pride<br>raise<br>member<br>swim<br>town<br>funny<br>eyebrow<br>inside<br>price<br>gentle |  
+| bip_39_word_new_br_12 | conduct<br>pride<br>raise<br>member<br>swim<br>town<br>funny<br>eyebrow<br>inside<br>price<br>gentle<br>almost |  
+| bip_39_word_new_br_2 | conduct<br>pride |  
+| bip_39_word_new_br_3 | conduct<br>pride<br>raise |  
+| bip_39_word_new_br_4 | conduct<br>pride<br>raise<br>member |  
+| bip_39_word_new_br_5 | conduct<br>pride<br>raise<br>member<br>swim |  
+| bip_39_word_new_br_6 | conduct<br>pride<br>raise<br>member<br>swim<br>town |  
+| bip_39_word_new_br_7 | conduct<br>pride<br>raise<br>member<br>swim<br>town<br>funny |  
+| bip_39_word_new_br_8 | conduct<br>pride<br>raise<br>member<br>swim<br>town<br>funny<br>eyebrow |  
+| bip_39_word_new_br_9 | conduct<br>pride<br>raise<br>member<br>swim<br>town<br>funny<br>eyebrow<br>inside |  
+| bip_39_word_new_line_1 | conduct |  
+| bip_39_word_new_line_10 | conduct
 pride
 raise
 member
@@ -55,7 +55,7 @@ funny
 eyebrow
 inside
 price |  
-| bip_39_word_new_line11 | conduct
+| bip_39_word_new_line_11 | conduct
 pride
 raise
 member
@@ -66,7 +66,7 @@ eyebrow
 inside
 price
 gentle |  
-| bip_39_word_new_line12 | conduct
+| bip_39_word_new_line_12 | conduct
 pride
 raise
 member
@@ -78,34 +78,34 @@ inside
 price
 gentle
 almost |  
-| bip_39_word_new_line2 | conduct
+| bip_39_word_new_line_2 | conduct
 pride |  
-| bip_39_word_new_line3 | conduct
+| bip_39_word_new_line_3 | conduct
 pride
 raise |  
-| bip_39_word_new_line4 | conduct
+| bip_39_word_new_line_4 | conduct
 pride
 raise
 member |  
-| bip_39_word_new_line5 | conduct
+| bip_39_word_new_line_5 | conduct
 pride
 raise
 member
 swim |  
-| bip_39_word_new_line6 | conduct
+| bip_39_word_new_line_6 | conduct
 pride
 raise
 member
 swim
 town |  
-| bip_39_word_new_line7 | conduct
+| bip_39_word_new_line_7 | conduct
 pride
 raise
 member
 swim
 town
 funny |  
-| bip_39_word_new_line8 | conduct
+| bip_39_word_new_line_8 | conduct
 pride
 raise
 member
@@ -113,7 +113,7 @@ swim
 town
 funny
 eyebrow |  
-| bip_39_word_new_line9 | conduct
+| bip_39_word_new_line_9 | conduct
 pride
 raise
 member

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | thunder |  
-| bip_39_word_new_br10 | thunder<br>mouse<br>lava<br>fruit<br>oven<br>lunar<br>lunar<br>shove<br>penalty<br>torch |  
-| bip_39_word_new_br11 | thunder<br>mouse<br>lava<br>fruit<br>oven<br>lunar<br>lunar<br>shove<br>penalty<br>torch<br>ship |  
-| bip_39_word_new_br12 | thunder<br>mouse<br>lava<br>fruit<br>oven<br>lunar<br>lunar<br>shove<br>penalty<br>torch<br>ship<br>album |  
-| bip_39_word_new_br2 | thunder<br>mouse |  
-| bip_39_word_new_br3 | thunder<br>mouse<br>lava |  
-| bip_39_word_new_br4 | thunder<br>mouse<br>lava<br>fruit |  
-| bip_39_word_new_br5 | thunder<br>mouse<br>lava<br>fruit<br>oven |  
-| bip_39_word_new_br6 | thunder<br>mouse<br>lava<br>fruit<br>oven<br>lunar |  
-| bip_39_word_new_br7 | thunder<br>mouse<br>lava<br>fruit<br>oven<br>lunar<br>lunar |  
-| bip_39_word_new_br8 | thunder<br>mouse<br>lava<br>fruit<br>oven<br>lunar<br>lunar<br>shove |  
-| bip_39_word_new_br9 | thunder<br>mouse<br>lava<br>fruit<br>oven<br>lunar<br>lunar<br>shove<br>penalty |  
-| bip_39_word_new_line1 | thunder |  
-| bip_39_word_new_line10 | thunder
+| bip_39_word_new_br_1 | thunder |  
+| bip_39_word_new_br_10 | thunder<br>mouse<br>lava<br>fruit<br>oven<br>lunar<br>lunar<br>shove<br>penalty<br>torch |  
+| bip_39_word_new_br_11 | thunder<br>mouse<br>lava<br>fruit<br>oven<br>lunar<br>lunar<br>shove<br>penalty<br>torch<br>ship |  
+| bip_39_word_new_br_12 | thunder<br>mouse<br>lava<br>fruit<br>oven<br>lunar<br>lunar<br>shove<br>penalty<br>torch<br>ship<br>album |  
+| bip_39_word_new_br_2 | thunder<br>mouse |  
+| bip_39_word_new_br_3 | thunder<br>mouse<br>lava |  
+| bip_39_word_new_br_4 | thunder<br>mouse<br>lava<br>fruit |  
+| bip_39_word_new_br_5 | thunder<br>mouse<br>lava<br>fruit<br>oven |  
+| bip_39_word_new_br_6 | thunder<br>mouse<br>lava<br>fruit<br>oven<br>lunar |  
+| bip_39_word_new_br_7 | thunder<br>mouse<br>lava<br>fruit<br>oven<br>lunar<br>lunar |  
+| bip_39_word_new_br_8 | thunder<br>mouse<br>lava<br>fruit<br>oven<br>lunar<br>lunar<br>shove |  
+| bip_39_word_new_br_9 | thunder<br>mouse<br>lava<br>fruit<br>oven<br>lunar<br>lunar<br>shove<br>penalty |  
+| bip_39_word_new_line_1 | thunder |  
+| bip_39_word_new_line_10 | thunder
 mouse
 lava
 fruit
@@ -55,7 +55,7 @@ lunar
 shove
 penalty
 torch |  
-| bip_39_word_new_line11 | thunder
+| bip_39_word_new_line_11 | thunder
 mouse
 lava
 fruit
@@ -66,7 +66,7 @@ shove
 penalty
 torch
 ship |  
-| bip_39_word_new_line12 | thunder
+| bip_39_word_new_line_12 | thunder
 mouse
 lava
 fruit
@@ -78,34 +78,34 @@ penalty
 torch
 ship
 album |  
-| bip_39_word_new_line2 | thunder
+| bip_39_word_new_line_2 | thunder
 mouse |  
-| bip_39_word_new_line3 | thunder
+| bip_39_word_new_line_3 | thunder
 mouse
 lava |  
-| bip_39_word_new_line4 | thunder
+| bip_39_word_new_line_4 | thunder
 mouse
 lava
 fruit |  
-| bip_39_word_new_line5 | thunder
+| bip_39_word_new_line_5 | thunder
 mouse
 lava
 fruit
 oven |  
-| bip_39_word_new_line6 | thunder
+| bip_39_word_new_line_6 | thunder
 mouse
 lava
 fruit
 oven
 lunar |  
-| bip_39_word_new_line7 | thunder
+| bip_39_word_new_line_7 | thunder
 mouse
 lava
 fruit
 oven
 lunar
 lunar |  
-| bip_39_word_new_line8 | thunder
+| bip_39_word_new_line_8 | thunder
 mouse
 lava
 fruit
@@ -113,7 +113,7 @@ oven
 lunar
 lunar
 shove |  
-| bip_39_word_new_line9 | thunder
+| bip_39_word_new_line_9 | thunder
 mouse
 lava
 fruit

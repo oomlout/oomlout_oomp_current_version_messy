@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | put |  
-| bip_39_word_new_br10 | put<br>brick<br>during<br>ability<br>teach<br>swear<br>connect<br>surprise<br>mention<br>inhale |  
-| bip_39_word_new_br11 | put<br>brick<br>during<br>ability<br>teach<br>swear<br>connect<br>surprise<br>mention<br>inhale<br>earth |  
-| bip_39_word_new_br12 | put<br>brick<br>during<br>ability<br>teach<br>swear<br>connect<br>surprise<br>mention<br>inhale<br>earth<br>above |  
-| bip_39_word_new_br2 | put<br>brick |  
-| bip_39_word_new_br3 | put<br>brick<br>during |  
-| bip_39_word_new_br4 | put<br>brick<br>during<br>ability |  
-| bip_39_word_new_br5 | put<br>brick<br>during<br>ability<br>teach |  
-| bip_39_word_new_br6 | put<br>brick<br>during<br>ability<br>teach<br>swear |  
-| bip_39_word_new_br7 | put<br>brick<br>during<br>ability<br>teach<br>swear<br>connect |  
-| bip_39_word_new_br8 | put<br>brick<br>during<br>ability<br>teach<br>swear<br>connect<br>surprise |  
-| bip_39_word_new_br9 | put<br>brick<br>during<br>ability<br>teach<br>swear<br>connect<br>surprise<br>mention |  
-| bip_39_word_new_line1 | put |  
-| bip_39_word_new_line10 | put
+| bip_39_word_new_br_1 | put |  
+| bip_39_word_new_br_10 | put<br>brick<br>during<br>ability<br>teach<br>swear<br>connect<br>surprise<br>mention<br>inhale |  
+| bip_39_word_new_br_11 | put<br>brick<br>during<br>ability<br>teach<br>swear<br>connect<br>surprise<br>mention<br>inhale<br>earth |  
+| bip_39_word_new_br_12 | put<br>brick<br>during<br>ability<br>teach<br>swear<br>connect<br>surprise<br>mention<br>inhale<br>earth<br>above |  
+| bip_39_word_new_br_2 | put<br>brick |  
+| bip_39_word_new_br_3 | put<br>brick<br>during |  
+| bip_39_word_new_br_4 | put<br>brick<br>during<br>ability |  
+| bip_39_word_new_br_5 | put<br>brick<br>during<br>ability<br>teach |  
+| bip_39_word_new_br_6 | put<br>brick<br>during<br>ability<br>teach<br>swear |  
+| bip_39_word_new_br_7 | put<br>brick<br>during<br>ability<br>teach<br>swear<br>connect |  
+| bip_39_word_new_br_8 | put<br>brick<br>during<br>ability<br>teach<br>swear<br>connect<br>surprise |  
+| bip_39_word_new_br_9 | put<br>brick<br>during<br>ability<br>teach<br>swear<br>connect<br>surprise<br>mention |  
+| bip_39_word_new_line_1 | put |  
+| bip_39_word_new_line_10 | put
 brick
 during
 ability
@@ -55,7 +55,7 @@ connect
 surprise
 mention
 inhale |  
-| bip_39_word_new_line11 | put
+| bip_39_word_new_line_11 | put
 brick
 during
 ability
@@ -66,7 +66,7 @@ surprise
 mention
 inhale
 earth |  
-| bip_39_word_new_line12 | put
+| bip_39_word_new_line_12 | put
 brick
 during
 ability
@@ -78,34 +78,34 @@ mention
 inhale
 earth
 above |  
-| bip_39_word_new_line2 | put
+| bip_39_word_new_line_2 | put
 brick |  
-| bip_39_word_new_line3 | put
+| bip_39_word_new_line_3 | put
 brick
 during |  
-| bip_39_word_new_line4 | put
+| bip_39_word_new_line_4 | put
 brick
 during
 ability |  
-| bip_39_word_new_line5 | put
+| bip_39_word_new_line_5 | put
 brick
 during
 ability
 teach |  
-| bip_39_word_new_line6 | put
+| bip_39_word_new_line_6 | put
 brick
 during
 ability
 teach
 swear |  
-| bip_39_word_new_line7 | put
+| bip_39_word_new_line_7 | put
 brick
 during
 ability
 teach
 swear
 connect |  
-| bip_39_word_new_line8 | put
+| bip_39_word_new_line_8 | put
 brick
 during
 ability
@@ -113,7 +113,7 @@ teach
 swear
 connect
 surprise |  
-| bip_39_word_new_line9 | put
+| bip_39_word_new_line_9 | put
 brick
 during
 ability

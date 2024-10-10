@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pledge |  
-| bip_39_word_new_br10 | pledge<br>regular<br>episode<br>begin<br>gasp<br>derive<br>social<br>exotic<br>very<br>image |  
-| bip_39_word_new_br11 | pledge<br>regular<br>episode<br>begin<br>gasp<br>derive<br>social<br>exotic<br>very<br>image<br>direct |  
-| bip_39_word_new_br12 | pledge<br>regular<br>episode<br>begin<br>gasp<br>derive<br>social<br>exotic<br>very<br>image<br>direct<br>acid |  
-| bip_39_word_new_br2 | pledge<br>regular |  
-| bip_39_word_new_br3 | pledge<br>regular<br>episode |  
-| bip_39_word_new_br4 | pledge<br>regular<br>episode<br>begin |  
-| bip_39_word_new_br5 | pledge<br>regular<br>episode<br>begin<br>gasp |  
-| bip_39_word_new_br6 | pledge<br>regular<br>episode<br>begin<br>gasp<br>derive |  
-| bip_39_word_new_br7 | pledge<br>regular<br>episode<br>begin<br>gasp<br>derive<br>social |  
-| bip_39_word_new_br8 | pledge<br>regular<br>episode<br>begin<br>gasp<br>derive<br>social<br>exotic |  
-| bip_39_word_new_br9 | pledge<br>regular<br>episode<br>begin<br>gasp<br>derive<br>social<br>exotic<br>very |  
-| bip_39_word_new_line1 | pledge |  
-| bip_39_word_new_line10 | pledge
+| bip_39_word_new_br_1 | pledge |  
+| bip_39_word_new_br_10 | pledge<br>regular<br>episode<br>begin<br>gasp<br>derive<br>social<br>exotic<br>very<br>image |  
+| bip_39_word_new_br_11 | pledge<br>regular<br>episode<br>begin<br>gasp<br>derive<br>social<br>exotic<br>very<br>image<br>direct |  
+| bip_39_word_new_br_12 | pledge<br>regular<br>episode<br>begin<br>gasp<br>derive<br>social<br>exotic<br>very<br>image<br>direct<br>acid |  
+| bip_39_word_new_br_2 | pledge<br>regular |  
+| bip_39_word_new_br_3 | pledge<br>regular<br>episode |  
+| bip_39_word_new_br_4 | pledge<br>regular<br>episode<br>begin |  
+| bip_39_word_new_br_5 | pledge<br>regular<br>episode<br>begin<br>gasp |  
+| bip_39_word_new_br_6 | pledge<br>regular<br>episode<br>begin<br>gasp<br>derive |  
+| bip_39_word_new_br_7 | pledge<br>regular<br>episode<br>begin<br>gasp<br>derive<br>social |  
+| bip_39_word_new_br_8 | pledge<br>regular<br>episode<br>begin<br>gasp<br>derive<br>social<br>exotic |  
+| bip_39_word_new_br_9 | pledge<br>regular<br>episode<br>begin<br>gasp<br>derive<br>social<br>exotic<br>very |  
+| bip_39_word_new_line_1 | pledge |  
+| bip_39_word_new_line_10 | pledge
 regular
 episode
 begin
@@ -55,7 +55,7 @@ social
 exotic
 very
 image |  
-| bip_39_word_new_line11 | pledge
+| bip_39_word_new_line_11 | pledge
 regular
 episode
 begin
@@ -66,7 +66,7 @@ exotic
 very
 image
 direct |  
-| bip_39_word_new_line12 | pledge
+| bip_39_word_new_line_12 | pledge
 regular
 episode
 begin
@@ -78,34 +78,34 @@ very
 image
 direct
 acid |  
-| bip_39_word_new_line2 | pledge
+| bip_39_word_new_line_2 | pledge
 regular |  
-| bip_39_word_new_line3 | pledge
+| bip_39_word_new_line_3 | pledge
 regular
 episode |  
-| bip_39_word_new_line4 | pledge
+| bip_39_word_new_line_4 | pledge
 regular
 episode
 begin |  
-| bip_39_word_new_line5 | pledge
+| bip_39_word_new_line_5 | pledge
 regular
 episode
 begin
 gasp |  
-| bip_39_word_new_line6 | pledge
+| bip_39_word_new_line_6 | pledge
 regular
 episode
 begin
 gasp
 derive |  
-| bip_39_word_new_line7 | pledge
+| bip_39_word_new_line_7 | pledge
 regular
 episode
 begin
 gasp
 derive
 social |  
-| bip_39_word_new_line8 | pledge
+| bip_39_word_new_line_8 | pledge
 regular
 episode
 begin
@@ -113,7 +113,7 @@ gasp
 derive
 social
 exotic |  
-| bip_39_word_new_line9 | pledge
+| bip_39_word_new_line_9 | pledge
 regular
 episode
 begin

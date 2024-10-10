@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cloth |  
-| bip_39_word_new_br10 | cloth<br>wrap<br>will<br>awful<br>skull<br>person<br>output<br>upper<br>bird<br>split |  
-| bip_39_word_new_br11 | cloth<br>wrap<br>will<br>awful<br>skull<br>person<br>output<br>upper<br>bird<br>split<br>mercy |  
-| bip_39_word_new_br12 | cloth<br>wrap<br>will<br>awful<br>skull<br>person<br>output<br>upper<br>bird<br>split<br>mercy<br>aisle |  
-| bip_39_word_new_br2 | cloth<br>wrap |  
-| bip_39_word_new_br3 | cloth<br>wrap<br>will |  
-| bip_39_word_new_br4 | cloth<br>wrap<br>will<br>awful |  
-| bip_39_word_new_br5 | cloth<br>wrap<br>will<br>awful<br>skull |  
-| bip_39_word_new_br6 | cloth<br>wrap<br>will<br>awful<br>skull<br>person |  
-| bip_39_word_new_br7 | cloth<br>wrap<br>will<br>awful<br>skull<br>person<br>output |  
-| bip_39_word_new_br8 | cloth<br>wrap<br>will<br>awful<br>skull<br>person<br>output<br>upper |  
-| bip_39_word_new_br9 | cloth<br>wrap<br>will<br>awful<br>skull<br>person<br>output<br>upper<br>bird |  
-| bip_39_word_new_line1 | cloth |  
-| bip_39_word_new_line10 | cloth
+| bip_39_word_new_br_1 | cloth |  
+| bip_39_word_new_br_10 | cloth<br>wrap<br>will<br>awful<br>skull<br>person<br>output<br>upper<br>bird<br>split |  
+| bip_39_word_new_br_11 | cloth<br>wrap<br>will<br>awful<br>skull<br>person<br>output<br>upper<br>bird<br>split<br>mercy |  
+| bip_39_word_new_br_12 | cloth<br>wrap<br>will<br>awful<br>skull<br>person<br>output<br>upper<br>bird<br>split<br>mercy<br>aisle |  
+| bip_39_word_new_br_2 | cloth<br>wrap |  
+| bip_39_word_new_br_3 | cloth<br>wrap<br>will |  
+| bip_39_word_new_br_4 | cloth<br>wrap<br>will<br>awful |  
+| bip_39_word_new_br_5 | cloth<br>wrap<br>will<br>awful<br>skull |  
+| bip_39_word_new_br_6 | cloth<br>wrap<br>will<br>awful<br>skull<br>person |  
+| bip_39_word_new_br_7 | cloth<br>wrap<br>will<br>awful<br>skull<br>person<br>output |  
+| bip_39_word_new_br_8 | cloth<br>wrap<br>will<br>awful<br>skull<br>person<br>output<br>upper |  
+| bip_39_word_new_br_9 | cloth<br>wrap<br>will<br>awful<br>skull<br>person<br>output<br>upper<br>bird |  
+| bip_39_word_new_line_1 | cloth |  
+| bip_39_word_new_line_10 | cloth
 wrap
 will
 awful
@@ -55,7 +55,7 @@ output
 upper
 bird
 split |  
-| bip_39_word_new_line11 | cloth
+| bip_39_word_new_line_11 | cloth
 wrap
 will
 awful
@@ -66,7 +66,7 @@ upper
 bird
 split
 mercy |  
-| bip_39_word_new_line12 | cloth
+| bip_39_word_new_line_12 | cloth
 wrap
 will
 awful
@@ -78,34 +78,34 @@ bird
 split
 mercy
 aisle |  
-| bip_39_word_new_line2 | cloth
+| bip_39_word_new_line_2 | cloth
 wrap |  
-| bip_39_word_new_line3 | cloth
+| bip_39_word_new_line_3 | cloth
 wrap
 will |  
-| bip_39_word_new_line4 | cloth
+| bip_39_word_new_line_4 | cloth
 wrap
 will
 awful |  
-| bip_39_word_new_line5 | cloth
+| bip_39_word_new_line_5 | cloth
 wrap
 will
 awful
 skull |  
-| bip_39_word_new_line6 | cloth
+| bip_39_word_new_line_6 | cloth
 wrap
 will
 awful
 skull
 person |  
-| bip_39_word_new_line7 | cloth
+| bip_39_word_new_line_7 | cloth
 wrap
 will
 awful
 skull
 person
 output |  
-| bip_39_word_new_line8 | cloth
+| bip_39_word_new_line_8 | cloth
 wrap
 will
 awful
@@ -113,7 +113,7 @@ skull
 person
 output
 upper |  
-| bip_39_word_new_line9 | cloth
+| bip_39_word_new_line_9 | cloth
 wrap
 will
 awful

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | duty |  
-| bip_39_word_new_br10 | duty<br>dash<br>vacuum<br>submit<br>style<br>donkey<br>assist<br>morning<br>urban<br>cute |  
-| bip_39_word_new_br11 | duty<br>dash<br>vacuum<br>submit<br>style<br>donkey<br>assist<br>morning<br>urban<br>cute<br>witness |  
-| bip_39_word_new_br12 | duty<br>dash<br>vacuum<br>submit<br>style<br>donkey<br>assist<br>morning<br>urban<br>cute<br>witness<br>allow |  
-| bip_39_word_new_br2 | duty<br>dash |  
-| bip_39_word_new_br3 | duty<br>dash<br>vacuum |  
-| bip_39_word_new_br4 | duty<br>dash<br>vacuum<br>submit |  
-| bip_39_word_new_br5 | duty<br>dash<br>vacuum<br>submit<br>style |  
-| bip_39_word_new_br6 | duty<br>dash<br>vacuum<br>submit<br>style<br>donkey |  
-| bip_39_word_new_br7 | duty<br>dash<br>vacuum<br>submit<br>style<br>donkey<br>assist |  
-| bip_39_word_new_br8 | duty<br>dash<br>vacuum<br>submit<br>style<br>donkey<br>assist<br>morning |  
-| bip_39_word_new_br9 | duty<br>dash<br>vacuum<br>submit<br>style<br>donkey<br>assist<br>morning<br>urban |  
-| bip_39_word_new_line1 | duty |  
-| bip_39_word_new_line10 | duty
+| bip_39_word_new_br_1 | duty |  
+| bip_39_word_new_br_10 | duty<br>dash<br>vacuum<br>submit<br>style<br>donkey<br>assist<br>morning<br>urban<br>cute |  
+| bip_39_word_new_br_11 | duty<br>dash<br>vacuum<br>submit<br>style<br>donkey<br>assist<br>morning<br>urban<br>cute<br>witness |  
+| bip_39_word_new_br_12 | duty<br>dash<br>vacuum<br>submit<br>style<br>donkey<br>assist<br>morning<br>urban<br>cute<br>witness<br>allow |  
+| bip_39_word_new_br_2 | duty<br>dash |  
+| bip_39_word_new_br_3 | duty<br>dash<br>vacuum |  
+| bip_39_word_new_br_4 | duty<br>dash<br>vacuum<br>submit |  
+| bip_39_word_new_br_5 | duty<br>dash<br>vacuum<br>submit<br>style |  
+| bip_39_word_new_br_6 | duty<br>dash<br>vacuum<br>submit<br>style<br>donkey |  
+| bip_39_word_new_br_7 | duty<br>dash<br>vacuum<br>submit<br>style<br>donkey<br>assist |  
+| bip_39_word_new_br_8 | duty<br>dash<br>vacuum<br>submit<br>style<br>donkey<br>assist<br>morning |  
+| bip_39_word_new_br_9 | duty<br>dash<br>vacuum<br>submit<br>style<br>donkey<br>assist<br>morning<br>urban |  
+| bip_39_word_new_line_1 | duty |  
+| bip_39_word_new_line_10 | duty
 dash
 vacuum
 submit
@@ -55,7 +55,7 @@ assist
 morning
 urban
 cute |  
-| bip_39_word_new_line11 | duty
+| bip_39_word_new_line_11 | duty
 dash
 vacuum
 submit
@@ -66,7 +66,7 @@ morning
 urban
 cute
 witness |  
-| bip_39_word_new_line12 | duty
+| bip_39_word_new_line_12 | duty
 dash
 vacuum
 submit
@@ -78,34 +78,34 @@ urban
 cute
 witness
 allow |  
-| bip_39_word_new_line2 | duty
+| bip_39_word_new_line_2 | duty
 dash |  
-| bip_39_word_new_line3 | duty
+| bip_39_word_new_line_3 | duty
 dash
 vacuum |  
-| bip_39_word_new_line4 | duty
+| bip_39_word_new_line_4 | duty
 dash
 vacuum
 submit |  
-| bip_39_word_new_line5 | duty
+| bip_39_word_new_line_5 | duty
 dash
 vacuum
 submit
 style |  
-| bip_39_word_new_line6 | duty
+| bip_39_word_new_line_6 | duty
 dash
 vacuum
 submit
 style
 donkey |  
-| bip_39_word_new_line7 | duty
+| bip_39_word_new_line_7 | duty
 dash
 vacuum
 submit
 style
 donkey
 assist |  
-| bip_39_word_new_line8 | duty
+| bip_39_word_new_line_8 | duty
 dash
 vacuum
 submit
@@ -113,7 +113,7 @@ style
 donkey
 assist
 morning |  
-| bip_39_word_new_line9 | duty
+| bip_39_word_new_line_9 | duty
 dash
 vacuum
 submit

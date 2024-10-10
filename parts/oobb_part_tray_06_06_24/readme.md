@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | verify |  
-| bip_39_word_new_br10 | verify<br>head<br>tilt<br>ask<br>cook<br>way<br>noble<br>merry<br>cousin<br>rookie |  
-| bip_39_word_new_br11 | verify<br>head<br>tilt<br>ask<br>cook<br>way<br>noble<br>merry<br>cousin<br>rookie<br>submit |  
-| bip_39_word_new_br12 | verify<br>head<br>tilt<br>ask<br>cook<br>way<br>noble<br>merry<br>cousin<br>rookie<br>submit<br>april |  
-| bip_39_word_new_br2 | verify<br>head |  
-| bip_39_word_new_br3 | verify<br>head<br>tilt |  
-| bip_39_word_new_br4 | verify<br>head<br>tilt<br>ask |  
-| bip_39_word_new_br5 | verify<br>head<br>tilt<br>ask<br>cook |  
-| bip_39_word_new_br6 | verify<br>head<br>tilt<br>ask<br>cook<br>way |  
-| bip_39_word_new_br7 | verify<br>head<br>tilt<br>ask<br>cook<br>way<br>noble |  
-| bip_39_word_new_br8 | verify<br>head<br>tilt<br>ask<br>cook<br>way<br>noble<br>merry |  
-| bip_39_word_new_br9 | verify<br>head<br>tilt<br>ask<br>cook<br>way<br>noble<br>merry<br>cousin |  
-| bip_39_word_new_line1 | verify |  
-| bip_39_word_new_line10 | verify
+| bip_39_word_new_br_1 | verify |  
+| bip_39_word_new_br_10 | verify<br>head<br>tilt<br>ask<br>cook<br>way<br>noble<br>merry<br>cousin<br>rookie |  
+| bip_39_word_new_br_11 | verify<br>head<br>tilt<br>ask<br>cook<br>way<br>noble<br>merry<br>cousin<br>rookie<br>submit |  
+| bip_39_word_new_br_12 | verify<br>head<br>tilt<br>ask<br>cook<br>way<br>noble<br>merry<br>cousin<br>rookie<br>submit<br>april |  
+| bip_39_word_new_br_2 | verify<br>head |  
+| bip_39_word_new_br_3 | verify<br>head<br>tilt |  
+| bip_39_word_new_br_4 | verify<br>head<br>tilt<br>ask |  
+| bip_39_word_new_br_5 | verify<br>head<br>tilt<br>ask<br>cook |  
+| bip_39_word_new_br_6 | verify<br>head<br>tilt<br>ask<br>cook<br>way |  
+| bip_39_word_new_br_7 | verify<br>head<br>tilt<br>ask<br>cook<br>way<br>noble |  
+| bip_39_word_new_br_8 | verify<br>head<br>tilt<br>ask<br>cook<br>way<br>noble<br>merry |  
+| bip_39_word_new_br_9 | verify<br>head<br>tilt<br>ask<br>cook<br>way<br>noble<br>merry<br>cousin |  
+| bip_39_word_new_line_1 | verify |  
+| bip_39_word_new_line_10 | verify
 head
 tilt
 ask
@@ -55,7 +55,7 @@ noble
 merry
 cousin
 rookie |  
-| bip_39_word_new_line11 | verify
+| bip_39_word_new_line_11 | verify
 head
 tilt
 ask
@@ -66,7 +66,7 @@ merry
 cousin
 rookie
 submit |  
-| bip_39_word_new_line12 | verify
+| bip_39_word_new_line_12 | verify
 head
 tilt
 ask
@@ -78,34 +78,34 @@ cousin
 rookie
 submit
 april |  
-| bip_39_word_new_line2 | verify
+| bip_39_word_new_line_2 | verify
 head |  
-| bip_39_word_new_line3 | verify
+| bip_39_word_new_line_3 | verify
 head
 tilt |  
-| bip_39_word_new_line4 | verify
+| bip_39_word_new_line_4 | verify
 head
 tilt
 ask |  
-| bip_39_word_new_line5 | verify
+| bip_39_word_new_line_5 | verify
 head
 tilt
 ask
 cook |  
-| bip_39_word_new_line6 | verify
+| bip_39_word_new_line_6 | verify
 head
 tilt
 ask
 cook
 way |  
-| bip_39_word_new_line7 | verify
+| bip_39_word_new_line_7 | verify
 head
 tilt
 ask
 cook
 way
 noble |  
-| bip_39_word_new_line8 | verify
+| bip_39_word_new_line_8 | verify
 head
 tilt
 ask
@@ -113,7 +113,7 @@ cook
 way
 noble
 merry |  
-| bip_39_word_new_line9 | verify
+| bip_39_word_new_line_9 | verify
 head
 tilt
 ask

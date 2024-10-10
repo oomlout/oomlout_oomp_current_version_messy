@@ -1,17 +1,17 @@
-bip_39_word_new_br1: tape
-bip_39_word_new_br10: tape<br>physical<br>narrow<br>tape<br>bid<br>today<br>want<br>trophy<br>uncover<br>fury
-bip_39_word_new_br11: tape<br>physical<br>narrow<br>tape<br>bid<br>today<br>want<br>trophy<br>uncover<br>fury<br>bleak
-bip_39_word_new_br12: tape<br>physical<br>narrow<br>tape<br>bid<br>today<br>want<br>trophy<br>uncover<br>fury<br>bleak<br>apology
-bip_39_word_new_br2: tape<br>physical
-bip_39_word_new_br3: tape<br>physical<br>narrow
-bip_39_word_new_br4: tape<br>physical<br>narrow<br>tape
-bip_39_word_new_br5: tape<br>physical<br>narrow<br>tape<br>bid
-bip_39_word_new_br6: tape<br>physical<br>narrow<br>tape<br>bid<br>today
-bip_39_word_new_br7: tape<br>physical<br>narrow<br>tape<br>bid<br>today<br>want
-bip_39_word_new_br8: tape<br>physical<br>narrow<br>tape<br>bid<br>today<br>want<br>trophy
-bip_39_word_new_br9: tape<br>physical<br>narrow<br>tape<br>bid<br>today<br>want<br>trophy<br>uncover
-bip_39_word_new_line1: tape
-bip_39_word_new_line10: 'tape
+bip_39_word_new_br_1: tape
+bip_39_word_new_br_10: tape<br>physical<br>narrow<br>tape<br>bid<br>today<br>want<br>trophy<br>uncover<br>fury
+bip_39_word_new_br_11: tape<br>physical<br>narrow<br>tape<br>bid<br>today<br>want<br>trophy<br>uncover<br>fury<br>bleak
+bip_39_word_new_br_12: tape<br>physical<br>narrow<br>tape<br>bid<br>today<br>want<br>trophy<br>uncover<br>fury<br>bleak<br>apology
+bip_39_word_new_br_2: tape<br>physical
+bip_39_word_new_br_3: tape<br>physical<br>narrow
+bip_39_word_new_br_4: tape<br>physical<br>narrow<br>tape
+bip_39_word_new_br_5: tape<br>physical<br>narrow<br>tape<br>bid
+bip_39_word_new_br_6: tape<br>physical<br>narrow<br>tape<br>bid<br>today
+bip_39_word_new_br_7: tape<br>physical<br>narrow<br>tape<br>bid<br>today<br>want
+bip_39_word_new_br_8: tape<br>physical<br>narrow<br>tape<br>bid<br>today<br>want<br>trophy
+bip_39_word_new_br_9: tape<br>physical<br>narrow<br>tape<br>bid<br>today<br>want<br>trophy<br>uncover
+bip_39_word_new_line_1: tape
+bip_39_word_new_line_10: 'tape
 
   physical
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'tape
   uncover
 
   fury'
-bip_39_word_new_line11: 'tape
+bip_39_word_new_line_11: 'tape
 
   physical
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'tape
   fury
 
   bleak'
-bip_39_word_new_line12: 'tape
+bip_39_word_new_line_12: 'tape
 
   physical
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'tape
   bleak
 
   apology'
-bip_39_word_new_line2: 'tape
+bip_39_word_new_line_2: 'tape
 
   physical'
-bip_39_word_new_line3: 'tape
+bip_39_word_new_line_3: 'tape
 
   physical
 
   narrow'
-bip_39_word_new_line4: 'tape
+bip_39_word_new_line_4: 'tape
 
   physical
 
   narrow
 
   tape'
-bip_39_word_new_line5: 'tape
+bip_39_word_new_line_5: 'tape
 
   physical
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'tape
   tape
 
   bid'
-bip_39_word_new_line6: 'tape
+bip_39_word_new_line_6: 'tape
 
   physical
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'tape
   bid
 
   today'
-bip_39_word_new_line7: 'tape
+bip_39_word_new_line_7: 'tape
 
   physical
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'tape
   today
 
   want'
-bip_39_word_new_line8: 'tape
+bip_39_word_new_line_8: 'tape
 
   physical
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'tape
   want
 
   trophy'
-bip_39_word_new_line9: 'tape
+bip_39_word_new_line_9: 'tape
 
   physical
 

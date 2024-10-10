@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | teach |  
-| bip_39_word_new_br10 | teach<br>sudden<br>pet<br>squirrel<br>surge<br>early<br>bullet<br>remind<br>address<br>replace |  
-| bip_39_word_new_br11 | teach<br>sudden<br>pet<br>squirrel<br>surge<br>early<br>bullet<br>remind<br>address<br>replace<br>cargo |  
-| bip_39_word_new_br12 | teach<br>sudden<br>pet<br>squirrel<br>surge<br>early<br>bullet<br>remind<br>address<br>replace<br>cargo<br>amount |  
-| bip_39_word_new_br2 | teach<br>sudden |  
-| bip_39_word_new_br3 | teach<br>sudden<br>pet |  
-| bip_39_word_new_br4 | teach<br>sudden<br>pet<br>squirrel |  
-| bip_39_word_new_br5 | teach<br>sudden<br>pet<br>squirrel<br>surge |  
-| bip_39_word_new_br6 | teach<br>sudden<br>pet<br>squirrel<br>surge<br>early |  
-| bip_39_word_new_br7 | teach<br>sudden<br>pet<br>squirrel<br>surge<br>early<br>bullet |  
-| bip_39_word_new_br8 | teach<br>sudden<br>pet<br>squirrel<br>surge<br>early<br>bullet<br>remind |  
-| bip_39_word_new_br9 | teach<br>sudden<br>pet<br>squirrel<br>surge<br>early<br>bullet<br>remind<br>address |  
-| bip_39_word_new_line1 | teach |  
-| bip_39_word_new_line10 | teach
+| bip_39_word_new_br_1 | teach |  
+| bip_39_word_new_br_10 | teach<br>sudden<br>pet<br>squirrel<br>surge<br>early<br>bullet<br>remind<br>address<br>replace |  
+| bip_39_word_new_br_11 | teach<br>sudden<br>pet<br>squirrel<br>surge<br>early<br>bullet<br>remind<br>address<br>replace<br>cargo |  
+| bip_39_word_new_br_12 | teach<br>sudden<br>pet<br>squirrel<br>surge<br>early<br>bullet<br>remind<br>address<br>replace<br>cargo<br>amount |  
+| bip_39_word_new_br_2 | teach<br>sudden |  
+| bip_39_word_new_br_3 | teach<br>sudden<br>pet |  
+| bip_39_word_new_br_4 | teach<br>sudden<br>pet<br>squirrel |  
+| bip_39_word_new_br_5 | teach<br>sudden<br>pet<br>squirrel<br>surge |  
+| bip_39_word_new_br_6 | teach<br>sudden<br>pet<br>squirrel<br>surge<br>early |  
+| bip_39_word_new_br_7 | teach<br>sudden<br>pet<br>squirrel<br>surge<br>early<br>bullet |  
+| bip_39_word_new_br_8 | teach<br>sudden<br>pet<br>squirrel<br>surge<br>early<br>bullet<br>remind |  
+| bip_39_word_new_br_9 | teach<br>sudden<br>pet<br>squirrel<br>surge<br>early<br>bullet<br>remind<br>address |  
+| bip_39_word_new_line_1 | teach |  
+| bip_39_word_new_line_10 | teach
 sudden
 pet
 squirrel
@@ -55,7 +55,7 @@ bullet
 remind
 address
 replace |  
-| bip_39_word_new_line11 | teach
+| bip_39_word_new_line_11 | teach
 sudden
 pet
 squirrel
@@ -66,7 +66,7 @@ remind
 address
 replace
 cargo |  
-| bip_39_word_new_line12 | teach
+| bip_39_word_new_line_12 | teach
 sudden
 pet
 squirrel
@@ -78,34 +78,34 @@ address
 replace
 cargo
 amount |  
-| bip_39_word_new_line2 | teach
+| bip_39_word_new_line_2 | teach
 sudden |  
-| bip_39_word_new_line3 | teach
+| bip_39_word_new_line_3 | teach
 sudden
 pet |  
-| bip_39_word_new_line4 | teach
+| bip_39_word_new_line_4 | teach
 sudden
 pet
 squirrel |  
-| bip_39_word_new_line5 | teach
+| bip_39_word_new_line_5 | teach
 sudden
 pet
 squirrel
 surge |  
-| bip_39_word_new_line6 | teach
+| bip_39_word_new_line_6 | teach
 sudden
 pet
 squirrel
 surge
 early |  
-| bip_39_word_new_line7 | teach
+| bip_39_word_new_line_7 | teach
 sudden
 pet
 squirrel
 surge
 early
 bullet |  
-| bip_39_word_new_line8 | teach
+| bip_39_word_new_line_8 | teach
 sudden
 pet
 squirrel
@@ -113,7 +113,7 @@ surge
 early
 bullet
 remind |  
-| bip_39_word_new_line9 | teach
+| bip_39_word_new_line_9 | teach
 sudden
 pet
 squirrel

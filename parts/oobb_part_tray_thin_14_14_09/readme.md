@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | parent |  
-| bip_39_word_new_br10 | parent<br>beach<br>cancel<br>leisure<br>popular<br>egg<br>security<br>occur<br>image<br>lonely |  
-| bip_39_word_new_br11 | parent<br>beach<br>cancel<br>leisure<br>popular<br>egg<br>security<br>occur<br>image<br>lonely<br>card |  
-| bip_39_word_new_br12 | parent<br>beach<br>cancel<br>leisure<br>popular<br>egg<br>security<br>occur<br>image<br>lonely<br>card<br>amazing |  
-| bip_39_word_new_br2 | parent<br>beach |  
-| bip_39_word_new_br3 | parent<br>beach<br>cancel |  
-| bip_39_word_new_br4 | parent<br>beach<br>cancel<br>leisure |  
-| bip_39_word_new_br5 | parent<br>beach<br>cancel<br>leisure<br>popular |  
-| bip_39_word_new_br6 | parent<br>beach<br>cancel<br>leisure<br>popular<br>egg |  
-| bip_39_word_new_br7 | parent<br>beach<br>cancel<br>leisure<br>popular<br>egg<br>security |  
-| bip_39_word_new_br8 | parent<br>beach<br>cancel<br>leisure<br>popular<br>egg<br>security<br>occur |  
-| bip_39_word_new_br9 | parent<br>beach<br>cancel<br>leisure<br>popular<br>egg<br>security<br>occur<br>image |  
-| bip_39_word_new_line1 | parent |  
-| bip_39_word_new_line10 | parent
+| bip_39_word_new_br_1 | parent |  
+| bip_39_word_new_br_10 | parent<br>beach<br>cancel<br>leisure<br>popular<br>egg<br>security<br>occur<br>image<br>lonely |  
+| bip_39_word_new_br_11 | parent<br>beach<br>cancel<br>leisure<br>popular<br>egg<br>security<br>occur<br>image<br>lonely<br>card |  
+| bip_39_word_new_br_12 | parent<br>beach<br>cancel<br>leisure<br>popular<br>egg<br>security<br>occur<br>image<br>lonely<br>card<br>amazing |  
+| bip_39_word_new_br_2 | parent<br>beach |  
+| bip_39_word_new_br_3 | parent<br>beach<br>cancel |  
+| bip_39_word_new_br_4 | parent<br>beach<br>cancel<br>leisure |  
+| bip_39_word_new_br_5 | parent<br>beach<br>cancel<br>leisure<br>popular |  
+| bip_39_word_new_br_6 | parent<br>beach<br>cancel<br>leisure<br>popular<br>egg |  
+| bip_39_word_new_br_7 | parent<br>beach<br>cancel<br>leisure<br>popular<br>egg<br>security |  
+| bip_39_word_new_br_8 | parent<br>beach<br>cancel<br>leisure<br>popular<br>egg<br>security<br>occur |  
+| bip_39_word_new_br_9 | parent<br>beach<br>cancel<br>leisure<br>popular<br>egg<br>security<br>occur<br>image |  
+| bip_39_word_new_line_1 | parent |  
+| bip_39_word_new_line_10 | parent
 beach
 cancel
 leisure
@@ -55,7 +55,7 @@ security
 occur
 image
 lonely |  
-| bip_39_word_new_line11 | parent
+| bip_39_word_new_line_11 | parent
 beach
 cancel
 leisure
@@ -66,7 +66,7 @@ occur
 image
 lonely
 card |  
-| bip_39_word_new_line12 | parent
+| bip_39_word_new_line_12 | parent
 beach
 cancel
 leisure
@@ -78,34 +78,34 @@ image
 lonely
 card
 amazing |  
-| bip_39_word_new_line2 | parent
+| bip_39_word_new_line_2 | parent
 beach |  
-| bip_39_word_new_line3 | parent
+| bip_39_word_new_line_3 | parent
 beach
 cancel |  
-| bip_39_word_new_line4 | parent
+| bip_39_word_new_line_4 | parent
 beach
 cancel
 leisure |  
-| bip_39_word_new_line5 | parent
+| bip_39_word_new_line_5 | parent
 beach
 cancel
 leisure
 popular |  
-| bip_39_word_new_line6 | parent
+| bip_39_word_new_line_6 | parent
 beach
 cancel
 leisure
 popular
 egg |  
-| bip_39_word_new_line7 | parent
+| bip_39_word_new_line_7 | parent
 beach
 cancel
 leisure
 popular
 egg
 security |  
-| bip_39_word_new_line8 | parent
+| bip_39_word_new_line_8 | parent
 beach
 cancel
 leisure
@@ -113,7 +113,7 @@ popular
 egg
 security
 occur |  
-| bip_39_word_new_line9 | parent
+| bip_39_word_new_line_9 | parent
 beach
 cancel
 leisure

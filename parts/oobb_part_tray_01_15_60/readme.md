@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | build |  
-| bip_39_word_new_br10 | build<br>donkey<br>range<br>subject<br>lift<br>client<br>poverty<br>laptop<br>promote<br>lunar |  
-| bip_39_word_new_br11 | build<br>donkey<br>range<br>subject<br>lift<br>client<br>poverty<br>laptop<br>promote<br>lunar<br>option |  
-| bip_39_word_new_br12 | build<br>donkey<br>range<br>subject<br>lift<br>client<br>poverty<br>laptop<br>promote<br>lunar<br>option<br>aspect |  
-| bip_39_word_new_br2 | build<br>donkey |  
-| bip_39_word_new_br3 | build<br>donkey<br>range |  
-| bip_39_word_new_br4 | build<br>donkey<br>range<br>subject |  
-| bip_39_word_new_br5 | build<br>donkey<br>range<br>subject<br>lift |  
-| bip_39_word_new_br6 | build<br>donkey<br>range<br>subject<br>lift<br>client |  
-| bip_39_word_new_br7 | build<br>donkey<br>range<br>subject<br>lift<br>client<br>poverty |  
-| bip_39_word_new_br8 | build<br>donkey<br>range<br>subject<br>lift<br>client<br>poverty<br>laptop |  
-| bip_39_word_new_br9 | build<br>donkey<br>range<br>subject<br>lift<br>client<br>poverty<br>laptop<br>promote |  
-| bip_39_word_new_line1 | build |  
-| bip_39_word_new_line10 | build
+| bip_39_word_new_br_1 | build |  
+| bip_39_word_new_br_10 | build<br>donkey<br>range<br>subject<br>lift<br>client<br>poverty<br>laptop<br>promote<br>lunar |  
+| bip_39_word_new_br_11 | build<br>donkey<br>range<br>subject<br>lift<br>client<br>poverty<br>laptop<br>promote<br>lunar<br>option |  
+| bip_39_word_new_br_12 | build<br>donkey<br>range<br>subject<br>lift<br>client<br>poverty<br>laptop<br>promote<br>lunar<br>option<br>aspect |  
+| bip_39_word_new_br_2 | build<br>donkey |  
+| bip_39_word_new_br_3 | build<br>donkey<br>range |  
+| bip_39_word_new_br_4 | build<br>donkey<br>range<br>subject |  
+| bip_39_word_new_br_5 | build<br>donkey<br>range<br>subject<br>lift |  
+| bip_39_word_new_br_6 | build<br>donkey<br>range<br>subject<br>lift<br>client |  
+| bip_39_word_new_br_7 | build<br>donkey<br>range<br>subject<br>lift<br>client<br>poverty |  
+| bip_39_word_new_br_8 | build<br>donkey<br>range<br>subject<br>lift<br>client<br>poverty<br>laptop |  
+| bip_39_word_new_br_9 | build<br>donkey<br>range<br>subject<br>lift<br>client<br>poverty<br>laptop<br>promote |  
+| bip_39_word_new_line_1 | build |  
+| bip_39_word_new_line_10 | build
 donkey
 range
 subject
@@ -55,7 +55,7 @@ poverty
 laptop
 promote
 lunar |  
-| bip_39_word_new_line11 | build
+| bip_39_word_new_line_11 | build
 donkey
 range
 subject
@@ -66,7 +66,7 @@ laptop
 promote
 lunar
 option |  
-| bip_39_word_new_line12 | build
+| bip_39_word_new_line_12 | build
 donkey
 range
 subject
@@ -78,34 +78,34 @@ promote
 lunar
 option
 aspect |  
-| bip_39_word_new_line2 | build
+| bip_39_word_new_line_2 | build
 donkey |  
-| bip_39_word_new_line3 | build
+| bip_39_word_new_line_3 | build
 donkey
 range |  
-| bip_39_word_new_line4 | build
+| bip_39_word_new_line_4 | build
 donkey
 range
 subject |  
-| bip_39_word_new_line5 | build
+| bip_39_word_new_line_5 | build
 donkey
 range
 subject
 lift |  
-| bip_39_word_new_line6 | build
+| bip_39_word_new_line_6 | build
 donkey
 range
 subject
 lift
 client |  
-| bip_39_word_new_line7 | build
+| bip_39_word_new_line_7 | build
 donkey
 range
 subject
 lift
 client
 poverty |  
-| bip_39_word_new_line8 | build
+| bip_39_word_new_line_8 | build
 donkey
 range
 subject
@@ -113,7 +113,7 @@ lift
 client
 poverty
 laptop |  
-| bip_39_word_new_line9 | build
+| bip_39_word_new_line_9 | build
 donkey
 range
 subject

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | announce |  
-| bip_39_word_new_br10 | announce<br>pitch<br>road<br>pig<br>simple<br>differ<br>rare<br>lab<br>person<br>cabbage |  
-| bip_39_word_new_br11 | announce<br>pitch<br>road<br>pig<br>simple<br>differ<br>rare<br>lab<br>person<br>cabbage<br>grocery |  
-| bip_39_word_new_br12 | announce<br>pitch<br>road<br>pig<br>simple<br>differ<br>rare<br>lab<br>person<br>cabbage<br>grocery<br>ankle |  
-| bip_39_word_new_br2 | announce<br>pitch |  
-| bip_39_word_new_br3 | announce<br>pitch<br>road |  
-| bip_39_word_new_br4 | announce<br>pitch<br>road<br>pig |  
-| bip_39_word_new_br5 | announce<br>pitch<br>road<br>pig<br>simple |  
-| bip_39_word_new_br6 | announce<br>pitch<br>road<br>pig<br>simple<br>differ |  
-| bip_39_word_new_br7 | announce<br>pitch<br>road<br>pig<br>simple<br>differ<br>rare |  
-| bip_39_word_new_br8 | announce<br>pitch<br>road<br>pig<br>simple<br>differ<br>rare<br>lab |  
-| bip_39_word_new_br9 | announce<br>pitch<br>road<br>pig<br>simple<br>differ<br>rare<br>lab<br>person |  
-| bip_39_word_new_line1 | announce |  
-| bip_39_word_new_line10 | announce
+| bip_39_word_new_br_1 | announce |  
+| bip_39_word_new_br_10 | announce<br>pitch<br>road<br>pig<br>simple<br>differ<br>rare<br>lab<br>person<br>cabbage |  
+| bip_39_word_new_br_11 | announce<br>pitch<br>road<br>pig<br>simple<br>differ<br>rare<br>lab<br>person<br>cabbage<br>grocery |  
+| bip_39_word_new_br_12 | announce<br>pitch<br>road<br>pig<br>simple<br>differ<br>rare<br>lab<br>person<br>cabbage<br>grocery<br>ankle |  
+| bip_39_word_new_br_2 | announce<br>pitch |  
+| bip_39_word_new_br_3 | announce<br>pitch<br>road |  
+| bip_39_word_new_br_4 | announce<br>pitch<br>road<br>pig |  
+| bip_39_word_new_br_5 | announce<br>pitch<br>road<br>pig<br>simple |  
+| bip_39_word_new_br_6 | announce<br>pitch<br>road<br>pig<br>simple<br>differ |  
+| bip_39_word_new_br_7 | announce<br>pitch<br>road<br>pig<br>simple<br>differ<br>rare |  
+| bip_39_word_new_br_8 | announce<br>pitch<br>road<br>pig<br>simple<br>differ<br>rare<br>lab |  
+| bip_39_word_new_br_9 | announce<br>pitch<br>road<br>pig<br>simple<br>differ<br>rare<br>lab<br>person |  
+| bip_39_word_new_line_1 | announce |  
+| bip_39_word_new_line_10 | announce
 pitch
 road
 pig
@@ -55,7 +55,7 @@ rare
 lab
 person
 cabbage |  
-| bip_39_word_new_line11 | announce
+| bip_39_word_new_line_11 | announce
 pitch
 road
 pig
@@ -66,7 +66,7 @@ lab
 person
 cabbage
 grocery |  
-| bip_39_word_new_line12 | announce
+| bip_39_word_new_line_12 | announce
 pitch
 road
 pig
@@ -78,34 +78,34 @@ person
 cabbage
 grocery
 ankle |  
-| bip_39_word_new_line2 | announce
+| bip_39_word_new_line_2 | announce
 pitch |  
-| bip_39_word_new_line3 | announce
+| bip_39_word_new_line_3 | announce
 pitch
 road |  
-| bip_39_word_new_line4 | announce
+| bip_39_word_new_line_4 | announce
 pitch
 road
 pig |  
-| bip_39_word_new_line5 | announce
+| bip_39_word_new_line_5 | announce
 pitch
 road
 pig
 simple |  
-| bip_39_word_new_line6 | announce
+| bip_39_word_new_line_6 | announce
 pitch
 road
 pig
 simple
 differ |  
-| bip_39_word_new_line7 | announce
+| bip_39_word_new_line_7 | announce
 pitch
 road
 pig
 simple
 differ
 rare |  
-| bip_39_word_new_line8 | announce
+| bip_39_word_new_line_8 | announce
 pitch
 road
 pig
@@ -113,7 +113,7 @@ simple
 differ
 rare
 lab |  
-| bip_39_word_new_line9 | announce
+| bip_39_word_new_line_9 | announce
 pitch
 road
 pig

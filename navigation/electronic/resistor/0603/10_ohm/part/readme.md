@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fiscal |  
-| bip_39_word_new_br10 | fiscal<br>food<br>lazy<br>rule<br>just<br>boil<br>head<br>toast<br>stone<br>cheap |  
-| bip_39_word_new_br11 | fiscal<br>food<br>lazy<br>rule<br>just<br>boil<br>head<br>toast<br>stone<br>cheap<br>spoon |  
-| bip_39_word_new_br12 | fiscal<br>food<br>lazy<br>rule<br>just<br>boil<br>head<br>toast<br>stone<br>cheap<br>spoon<br>agree |  
-| bip_39_word_new_br2 | fiscal<br>food |  
-| bip_39_word_new_br3 | fiscal<br>food<br>lazy |  
-| bip_39_word_new_br4 | fiscal<br>food<br>lazy<br>rule |  
-| bip_39_word_new_br5 | fiscal<br>food<br>lazy<br>rule<br>just |  
-| bip_39_word_new_br6 | fiscal<br>food<br>lazy<br>rule<br>just<br>boil |  
-| bip_39_word_new_br7 | fiscal<br>food<br>lazy<br>rule<br>just<br>boil<br>head |  
-| bip_39_word_new_br8 | fiscal<br>food<br>lazy<br>rule<br>just<br>boil<br>head<br>toast |  
-| bip_39_word_new_br9 | fiscal<br>food<br>lazy<br>rule<br>just<br>boil<br>head<br>toast<br>stone |  
-| bip_39_word_new_line1 | fiscal |  
-| bip_39_word_new_line10 | fiscal
+| bip_39_word_new_br_1 | fiscal |  
+| bip_39_word_new_br_10 | fiscal<br>food<br>lazy<br>rule<br>just<br>boil<br>head<br>toast<br>stone<br>cheap |  
+| bip_39_word_new_br_11 | fiscal<br>food<br>lazy<br>rule<br>just<br>boil<br>head<br>toast<br>stone<br>cheap<br>spoon |  
+| bip_39_word_new_br_12 | fiscal<br>food<br>lazy<br>rule<br>just<br>boil<br>head<br>toast<br>stone<br>cheap<br>spoon<br>agree |  
+| bip_39_word_new_br_2 | fiscal<br>food |  
+| bip_39_word_new_br_3 | fiscal<br>food<br>lazy |  
+| bip_39_word_new_br_4 | fiscal<br>food<br>lazy<br>rule |  
+| bip_39_word_new_br_5 | fiscal<br>food<br>lazy<br>rule<br>just |  
+| bip_39_word_new_br_6 | fiscal<br>food<br>lazy<br>rule<br>just<br>boil |  
+| bip_39_word_new_br_7 | fiscal<br>food<br>lazy<br>rule<br>just<br>boil<br>head |  
+| bip_39_word_new_br_8 | fiscal<br>food<br>lazy<br>rule<br>just<br>boil<br>head<br>toast |  
+| bip_39_word_new_br_9 | fiscal<br>food<br>lazy<br>rule<br>just<br>boil<br>head<br>toast<br>stone |  
+| bip_39_word_new_line_1 | fiscal |  
+| bip_39_word_new_line_10 | fiscal
 food
 lazy
 rule
@@ -55,7 +55,7 @@ head
 toast
 stone
 cheap |  
-| bip_39_word_new_line11 | fiscal
+| bip_39_word_new_line_11 | fiscal
 food
 lazy
 rule
@@ -66,7 +66,7 @@ toast
 stone
 cheap
 spoon |  
-| bip_39_word_new_line12 | fiscal
+| bip_39_word_new_line_12 | fiscal
 food
 lazy
 rule
@@ -78,34 +78,34 @@ stone
 cheap
 spoon
 agree |  
-| bip_39_word_new_line2 | fiscal
+| bip_39_word_new_line_2 | fiscal
 food |  
-| bip_39_word_new_line3 | fiscal
+| bip_39_word_new_line_3 | fiscal
 food
 lazy |  
-| bip_39_word_new_line4 | fiscal
+| bip_39_word_new_line_4 | fiscal
 food
 lazy
 rule |  
-| bip_39_word_new_line5 | fiscal
+| bip_39_word_new_line_5 | fiscal
 food
 lazy
 rule
 just |  
-| bip_39_word_new_line6 | fiscal
+| bip_39_word_new_line_6 | fiscal
 food
 lazy
 rule
 just
 boil |  
-| bip_39_word_new_line7 | fiscal
+| bip_39_word_new_line_7 | fiscal
 food
 lazy
 rule
 just
 boil
 head |  
-| bip_39_word_new_line8 | fiscal
+| bip_39_word_new_line_8 | fiscal
 food
 lazy
 rule
@@ -113,7 +113,7 @@ just
 boil
 head
 toast |  
-| bip_39_word_new_line9 | fiscal
+| bip_39_word_new_line_9 | fiscal
 food
 lazy
 rule

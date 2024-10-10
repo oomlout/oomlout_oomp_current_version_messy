@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | embrace |  
-| bip_39_word_new_br10 | embrace<br>alien<br>gossip<br>pattern<br>infant<br>fitness<br>version<br>liar<br>sort<br>long |  
-| bip_39_word_new_br11 | embrace<br>alien<br>gossip<br>pattern<br>infant<br>fitness<br>version<br>liar<br>sort<br>long<br>accuse |  
-| bip_39_word_new_br12 | embrace<br>alien<br>gossip<br>pattern<br>infant<br>fitness<br>version<br>liar<br>sort<br>long<br>accuse<br>alarm |  
-| bip_39_word_new_br2 | embrace<br>alien |  
-| bip_39_word_new_br3 | embrace<br>alien<br>gossip |  
-| bip_39_word_new_br4 | embrace<br>alien<br>gossip<br>pattern |  
-| bip_39_word_new_br5 | embrace<br>alien<br>gossip<br>pattern<br>infant |  
-| bip_39_word_new_br6 | embrace<br>alien<br>gossip<br>pattern<br>infant<br>fitness |  
-| bip_39_word_new_br7 | embrace<br>alien<br>gossip<br>pattern<br>infant<br>fitness<br>version |  
-| bip_39_word_new_br8 | embrace<br>alien<br>gossip<br>pattern<br>infant<br>fitness<br>version<br>liar |  
-| bip_39_word_new_br9 | embrace<br>alien<br>gossip<br>pattern<br>infant<br>fitness<br>version<br>liar<br>sort |  
-| bip_39_word_new_line1 | embrace |  
-| bip_39_word_new_line10 | embrace
+| bip_39_word_new_br_1 | embrace |  
+| bip_39_word_new_br_10 | embrace<br>alien<br>gossip<br>pattern<br>infant<br>fitness<br>version<br>liar<br>sort<br>long |  
+| bip_39_word_new_br_11 | embrace<br>alien<br>gossip<br>pattern<br>infant<br>fitness<br>version<br>liar<br>sort<br>long<br>accuse |  
+| bip_39_word_new_br_12 | embrace<br>alien<br>gossip<br>pattern<br>infant<br>fitness<br>version<br>liar<br>sort<br>long<br>accuse<br>alarm |  
+| bip_39_word_new_br_2 | embrace<br>alien |  
+| bip_39_word_new_br_3 | embrace<br>alien<br>gossip |  
+| bip_39_word_new_br_4 | embrace<br>alien<br>gossip<br>pattern |  
+| bip_39_word_new_br_5 | embrace<br>alien<br>gossip<br>pattern<br>infant |  
+| bip_39_word_new_br_6 | embrace<br>alien<br>gossip<br>pattern<br>infant<br>fitness |  
+| bip_39_word_new_br_7 | embrace<br>alien<br>gossip<br>pattern<br>infant<br>fitness<br>version |  
+| bip_39_word_new_br_8 | embrace<br>alien<br>gossip<br>pattern<br>infant<br>fitness<br>version<br>liar |  
+| bip_39_word_new_br_9 | embrace<br>alien<br>gossip<br>pattern<br>infant<br>fitness<br>version<br>liar<br>sort |  
+| bip_39_word_new_line_1 | embrace |  
+| bip_39_word_new_line_10 | embrace
 alien
 gossip
 pattern
@@ -55,7 +55,7 @@ version
 liar
 sort
 long |  
-| bip_39_word_new_line11 | embrace
+| bip_39_word_new_line_11 | embrace
 alien
 gossip
 pattern
@@ -66,7 +66,7 @@ liar
 sort
 long
 accuse |  
-| bip_39_word_new_line12 | embrace
+| bip_39_word_new_line_12 | embrace
 alien
 gossip
 pattern
@@ -78,34 +78,34 @@ sort
 long
 accuse
 alarm |  
-| bip_39_word_new_line2 | embrace
+| bip_39_word_new_line_2 | embrace
 alien |  
-| bip_39_word_new_line3 | embrace
+| bip_39_word_new_line_3 | embrace
 alien
 gossip |  
-| bip_39_word_new_line4 | embrace
+| bip_39_word_new_line_4 | embrace
 alien
 gossip
 pattern |  
-| bip_39_word_new_line5 | embrace
+| bip_39_word_new_line_5 | embrace
 alien
 gossip
 pattern
 infant |  
-| bip_39_word_new_line6 | embrace
+| bip_39_word_new_line_6 | embrace
 alien
 gossip
 pattern
 infant
 fitness |  
-| bip_39_word_new_line7 | embrace
+| bip_39_word_new_line_7 | embrace
 alien
 gossip
 pattern
 infant
 fitness
 version |  
-| bip_39_word_new_line8 | embrace
+| bip_39_word_new_line_8 | embrace
 alien
 gossip
 pattern
@@ -113,7 +113,7 @@ infant
 fitness
 version
 liar |  
-| bip_39_word_new_line9 | embrace
+| bip_39_word_new_line_9 | embrace
 alien
 gossip
 pattern

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | zero |  
-| bip_39_word_new_br10 | zero<br>purity<br>clock<br>across<br>convince<br>mouse<br>tree<br>split<br>gather<br>refuse |  
-| bip_39_word_new_br11 | zero<br>purity<br>clock<br>across<br>convince<br>mouse<br>tree<br>split<br>gather<br>refuse<br>place |  
-| bip_39_word_new_br12 | zero<br>purity<br>clock<br>across<br>convince<br>mouse<br>tree<br>split<br>gather<br>refuse<br>place<br>audit |  
-| bip_39_word_new_br2 | zero<br>purity |  
-| bip_39_word_new_br3 | zero<br>purity<br>clock |  
-| bip_39_word_new_br4 | zero<br>purity<br>clock<br>across |  
-| bip_39_word_new_br5 | zero<br>purity<br>clock<br>across<br>convince |  
-| bip_39_word_new_br6 | zero<br>purity<br>clock<br>across<br>convince<br>mouse |  
-| bip_39_word_new_br7 | zero<br>purity<br>clock<br>across<br>convince<br>mouse<br>tree |  
-| bip_39_word_new_br8 | zero<br>purity<br>clock<br>across<br>convince<br>mouse<br>tree<br>split |  
-| bip_39_word_new_br9 | zero<br>purity<br>clock<br>across<br>convince<br>mouse<br>tree<br>split<br>gather |  
-| bip_39_word_new_line1 | zero |  
-| bip_39_word_new_line10 | zero
+| bip_39_word_new_br_1 | zero |  
+| bip_39_word_new_br_10 | zero<br>purity<br>clock<br>across<br>convince<br>mouse<br>tree<br>split<br>gather<br>refuse |  
+| bip_39_word_new_br_11 | zero<br>purity<br>clock<br>across<br>convince<br>mouse<br>tree<br>split<br>gather<br>refuse<br>place |  
+| bip_39_word_new_br_12 | zero<br>purity<br>clock<br>across<br>convince<br>mouse<br>tree<br>split<br>gather<br>refuse<br>place<br>audit |  
+| bip_39_word_new_br_2 | zero<br>purity |  
+| bip_39_word_new_br_3 | zero<br>purity<br>clock |  
+| bip_39_word_new_br_4 | zero<br>purity<br>clock<br>across |  
+| bip_39_word_new_br_5 | zero<br>purity<br>clock<br>across<br>convince |  
+| bip_39_word_new_br_6 | zero<br>purity<br>clock<br>across<br>convince<br>mouse |  
+| bip_39_word_new_br_7 | zero<br>purity<br>clock<br>across<br>convince<br>mouse<br>tree |  
+| bip_39_word_new_br_8 | zero<br>purity<br>clock<br>across<br>convince<br>mouse<br>tree<br>split |  
+| bip_39_word_new_br_9 | zero<br>purity<br>clock<br>across<br>convince<br>mouse<br>tree<br>split<br>gather |  
+| bip_39_word_new_line_1 | zero |  
+| bip_39_word_new_line_10 | zero
 purity
 clock
 across
@@ -55,7 +55,7 @@ tree
 split
 gather
 refuse |  
-| bip_39_word_new_line11 | zero
+| bip_39_word_new_line_11 | zero
 purity
 clock
 across
@@ -66,7 +66,7 @@ split
 gather
 refuse
 place |  
-| bip_39_word_new_line12 | zero
+| bip_39_word_new_line_12 | zero
 purity
 clock
 across
@@ -78,34 +78,34 @@ gather
 refuse
 place
 audit |  
-| bip_39_word_new_line2 | zero
+| bip_39_word_new_line_2 | zero
 purity |  
-| bip_39_word_new_line3 | zero
+| bip_39_word_new_line_3 | zero
 purity
 clock |  
-| bip_39_word_new_line4 | zero
+| bip_39_word_new_line_4 | zero
 purity
 clock
 across |  
-| bip_39_word_new_line5 | zero
+| bip_39_word_new_line_5 | zero
 purity
 clock
 across
 convince |  
-| bip_39_word_new_line6 | zero
+| bip_39_word_new_line_6 | zero
 purity
 clock
 across
 convince
 mouse |  
-| bip_39_word_new_line7 | zero
+| bip_39_word_new_line_7 | zero
 purity
 clock
 across
 convince
 mouse
 tree |  
-| bip_39_word_new_line8 | zero
+| bip_39_word_new_line_8 | zero
 purity
 clock
 across
@@ -113,7 +113,7 @@ convince
 mouse
 tree
 split |  
-| bip_39_word_new_line9 | zero
+| bip_39_word_new_line_9 | zero
 purity
 clock
 across

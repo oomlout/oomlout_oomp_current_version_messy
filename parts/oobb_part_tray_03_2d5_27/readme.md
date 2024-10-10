@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | obey |  
-| bip_39_word_new_br10 | obey<br>pen<br>enforce<br>useless<br>museum<br>arrange<br>suspect<br>put<br>first<br>payment |  
-| bip_39_word_new_br11 | obey<br>pen<br>enforce<br>useless<br>museum<br>arrange<br>suspect<br>put<br>first<br>payment<br>love |  
-| bip_39_word_new_br12 | obey<br>pen<br>enforce<br>useless<br>museum<br>arrange<br>suspect<br>put<br>first<br>payment<br>love<br>album |  
-| bip_39_word_new_br2 | obey<br>pen |  
-| bip_39_word_new_br3 | obey<br>pen<br>enforce |  
-| bip_39_word_new_br4 | obey<br>pen<br>enforce<br>useless |  
-| bip_39_word_new_br5 | obey<br>pen<br>enforce<br>useless<br>museum |  
-| bip_39_word_new_br6 | obey<br>pen<br>enforce<br>useless<br>museum<br>arrange |  
-| bip_39_word_new_br7 | obey<br>pen<br>enforce<br>useless<br>museum<br>arrange<br>suspect |  
-| bip_39_word_new_br8 | obey<br>pen<br>enforce<br>useless<br>museum<br>arrange<br>suspect<br>put |  
-| bip_39_word_new_br9 | obey<br>pen<br>enforce<br>useless<br>museum<br>arrange<br>suspect<br>put<br>first |  
-| bip_39_word_new_line1 | obey |  
-| bip_39_word_new_line10 | obey
+| bip_39_word_new_br_1 | obey |  
+| bip_39_word_new_br_10 | obey<br>pen<br>enforce<br>useless<br>museum<br>arrange<br>suspect<br>put<br>first<br>payment |  
+| bip_39_word_new_br_11 | obey<br>pen<br>enforce<br>useless<br>museum<br>arrange<br>suspect<br>put<br>first<br>payment<br>love |  
+| bip_39_word_new_br_12 | obey<br>pen<br>enforce<br>useless<br>museum<br>arrange<br>suspect<br>put<br>first<br>payment<br>love<br>album |  
+| bip_39_word_new_br_2 | obey<br>pen |  
+| bip_39_word_new_br_3 | obey<br>pen<br>enforce |  
+| bip_39_word_new_br_4 | obey<br>pen<br>enforce<br>useless |  
+| bip_39_word_new_br_5 | obey<br>pen<br>enforce<br>useless<br>museum |  
+| bip_39_word_new_br_6 | obey<br>pen<br>enforce<br>useless<br>museum<br>arrange |  
+| bip_39_word_new_br_7 | obey<br>pen<br>enforce<br>useless<br>museum<br>arrange<br>suspect |  
+| bip_39_word_new_br_8 | obey<br>pen<br>enforce<br>useless<br>museum<br>arrange<br>suspect<br>put |  
+| bip_39_word_new_br_9 | obey<br>pen<br>enforce<br>useless<br>museum<br>arrange<br>suspect<br>put<br>first |  
+| bip_39_word_new_line_1 | obey |  
+| bip_39_word_new_line_10 | obey
 pen
 enforce
 useless
@@ -55,7 +55,7 @@ suspect
 put
 first
 payment |  
-| bip_39_word_new_line11 | obey
+| bip_39_word_new_line_11 | obey
 pen
 enforce
 useless
@@ -66,7 +66,7 @@ put
 first
 payment
 love |  
-| bip_39_word_new_line12 | obey
+| bip_39_word_new_line_12 | obey
 pen
 enforce
 useless
@@ -78,34 +78,34 @@ first
 payment
 love
 album |  
-| bip_39_word_new_line2 | obey
+| bip_39_word_new_line_2 | obey
 pen |  
-| bip_39_word_new_line3 | obey
+| bip_39_word_new_line_3 | obey
 pen
 enforce |  
-| bip_39_word_new_line4 | obey
+| bip_39_word_new_line_4 | obey
 pen
 enforce
 useless |  
-| bip_39_word_new_line5 | obey
+| bip_39_word_new_line_5 | obey
 pen
 enforce
 useless
 museum |  
-| bip_39_word_new_line6 | obey
+| bip_39_word_new_line_6 | obey
 pen
 enforce
 useless
 museum
 arrange |  
-| bip_39_word_new_line7 | obey
+| bip_39_word_new_line_7 | obey
 pen
 enforce
 useless
 museum
 arrange
 suspect |  
-| bip_39_word_new_line8 | obey
+| bip_39_word_new_line_8 | obey
 pen
 enforce
 useless
@@ -113,7 +113,7 @@ museum
 arrange
 suspect
 put |  
-| bip_39_word_new_line9 | obey
+| bip_39_word_new_line_9 | obey
 pen
 enforce
 useless

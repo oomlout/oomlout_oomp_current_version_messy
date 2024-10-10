@@ -1,17 +1,17 @@
-bip_39_word_new_br1: spider
-bip_39_word_new_br10: spider<br>magnet<br>space<br>ozone<br>atom<br>what<br>metal<br>hold<br>dry<br>odor
-bip_39_word_new_br11: spider<br>magnet<br>space<br>ozone<br>atom<br>what<br>metal<br>hold<br>dry<br>odor<br>stick
-bip_39_word_new_br12: spider<br>magnet<br>space<br>ozone<br>atom<br>what<br>metal<br>hold<br>dry<br>odor<br>stick<br>act
-bip_39_word_new_br2: spider<br>magnet
-bip_39_word_new_br3: spider<br>magnet<br>space
-bip_39_word_new_br4: spider<br>magnet<br>space<br>ozone
-bip_39_word_new_br5: spider<br>magnet<br>space<br>ozone<br>atom
-bip_39_word_new_br6: spider<br>magnet<br>space<br>ozone<br>atom<br>what
-bip_39_word_new_br7: spider<br>magnet<br>space<br>ozone<br>atom<br>what<br>metal
-bip_39_word_new_br8: spider<br>magnet<br>space<br>ozone<br>atom<br>what<br>metal<br>hold
-bip_39_word_new_br9: spider<br>magnet<br>space<br>ozone<br>atom<br>what<br>metal<br>hold<br>dry
-bip_39_word_new_line1: spider
-bip_39_word_new_line10: 'spider
+bip_39_word_new_br_1: spider
+bip_39_word_new_br_10: spider<br>magnet<br>space<br>ozone<br>atom<br>what<br>metal<br>hold<br>dry<br>odor
+bip_39_word_new_br_11: spider<br>magnet<br>space<br>ozone<br>atom<br>what<br>metal<br>hold<br>dry<br>odor<br>stick
+bip_39_word_new_br_12: spider<br>magnet<br>space<br>ozone<br>atom<br>what<br>metal<br>hold<br>dry<br>odor<br>stick<br>act
+bip_39_word_new_br_2: spider<br>magnet
+bip_39_word_new_br_3: spider<br>magnet<br>space
+bip_39_word_new_br_4: spider<br>magnet<br>space<br>ozone
+bip_39_word_new_br_5: spider<br>magnet<br>space<br>ozone<br>atom
+bip_39_word_new_br_6: spider<br>magnet<br>space<br>ozone<br>atom<br>what
+bip_39_word_new_br_7: spider<br>magnet<br>space<br>ozone<br>atom<br>what<br>metal
+bip_39_word_new_br_8: spider<br>magnet<br>space<br>ozone<br>atom<br>what<br>metal<br>hold
+bip_39_word_new_br_9: spider<br>magnet<br>space<br>ozone<br>atom<br>what<br>metal<br>hold<br>dry
+bip_39_word_new_line_1: spider
+bip_39_word_new_line_10: 'spider
 
   magnet
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'spider
   dry
 
   odor'
-bip_39_word_new_line11: 'spider
+bip_39_word_new_line_11: 'spider
 
   magnet
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'spider
   odor
 
   stick'
-bip_39_word_new_line12: 'spider
+bip_39_word_new_line_12: 'spider
 
   magnet
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'spider
   stick
 
   act'
-bip_39_word_new_line2: 'spider
+bip_39_word_new_line_2: 'spider
 
   magnet'
-bip_39_word_new_line3: 'spider
+bip_39_word_new_line_3: 'spider
 
   magnet
 
   space'
-bip_39_word_new_line4: 'spider
+bip_39_word_new_line_4: 'spider
 
   magnet
 
   space
 
   ozone'
-bip_39_word_new_line5: 'spider
+bip_39_word_new_line_5: 'spider
 
   magnet
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'spider
   ozone
 
   atom'
-bip_39_word_new_line6: 'spider
+bip_39_word_new_line_6: 'spider
 
   magnet
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'spider
   atom
 
   what'
-bip_39_word_new_line7: 'spider
+bip_39_word_new_line_7: 'spider
 
   magnet
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'spider
   what
 
   metal'
-bip_39_word_new_line8: 'spider
+bip_39_word_new_line_8: 'spider
 
   magnet
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'spider
   metal
 
   hold'
-bip_39_word_new_line9: 'spider
+bip_39_word_new_line_9: 'spider
 
   magnet
 

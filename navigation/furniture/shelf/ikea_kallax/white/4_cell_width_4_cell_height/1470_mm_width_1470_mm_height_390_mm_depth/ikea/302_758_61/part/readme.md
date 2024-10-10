@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | about |  
-| bip_39_word_new_br10 | about<br>first<br>sunny<br>minimum<br>tone<br>lend<br>eager<br>leopard<br>club<br>ramp |  
-| bip_39_word_new_br11 | about<br>first<br>sunny<br>minimum<br>tone<br>lend<br>eager<br>leopard<br>club<br>ramp<br>vendor |  
-| bip_39_word_new_br12 | about<br>first<br>sunny<br>minimum<br>tone<br>lend<br>eager<br>leopard<br>club<br>ramp<br>vendor<br>antenna |  
-| bip_39_word_new_br2 | about<br>first |  
-| bip_39_word_new_br3 | about<br>first<br>sunny |  
-| bip_39_word_new_br4 | about<br>first<br>sunny<br>minimum |  
-| bip_39_word_new_br5 | about<br>first<br>sunny<br>minimum<br>tone |  
-| bip_39_word_new_br6 | about<br>first<br>sunny<br>minimum<br>tone<br>lend |  
-| bip_39_word_new_br7 | about<br>first<br>sunny<br>minimum<br>tone<br>lend<br>eager |  
-| bip_39_word_new_br8 | about<br>first<br>sunny<br>minimum<br>tone<br>lend<br>eager<br>leopard |  
-| bip_39_word_new_br9 | about<br>first<br>sunny<br>minimum<br>tone<br>lend<br>eager<br>leopard<br>club |  
-| bip_39_word_new_line1 | about |  
-| bip_39_word_new_line10 | about
+| bip_39_word_new_br_1 | about |  
+| bip_39_word_new_br_10 | about<br>first<br>sunny<br>minimum<br>tone<br>lend<br>eager<br>leopard<br>club<br>ramp |  
+| bip_39_word_new_br_11 | about<br>first<br>sunny<br>minimum<br>tone<br>lend<br>eager<br>leopard<br>club<br>ramp<br>vendor |  
+| bip_39_word_new_br_12 | about<br>first<br>sunny<br>minimum<br>tone<br>lend<br>eager<br>leopard<br>club<br>ramp<br>vendor<br>antenna |  
+| bip_39_word_new_br_2 | about<br>first |  
+| bip_39_word_new_br_3 | about<br>first<br>sunny |  
+| bip_39_word_new_br_4 | about<br>first<br>sunny<br>minimum |  
+| bip_39_word_new_br_5 | about<br>first<br>sunny<br>minimum<br>tone |  
+| bip_39_word_new_br_6 | about<br>first<br>sunny<br>minimum<br>tone<br>lend |  
+| bip_39_word_new_br_7 | about<br>first<br>sunny<br>minimum<br>tone<br>lend<br>eager |  
+| bip_39_word_new_br_8 | about<br>first<br>sunny<br>minimum<br>tone<br>lend<br>eager<br>leopard |  
+| bip_39_word_new_br_9 | about<br>first<br>sunny<br>minimum<br>tone<br>lend<br>eager<br>leopard<br>club |  
+| bip_39_word_new_line_1 | about |  
+| bip_39_word_new_line_10 | about
 first
 sunny
 minimum
@@ -55,7 +55,7 @@ eager
 leopard
 club
 ramp |  
-| bip_39_word_new_line11 | about
+| bip_39_word_new_line_11 | about
 first
 sunny
 minimum
@@ -66,7 +66,7 @@ leopard
 club
 ramp
 vendor |  
-| bip_39_word_new_line12 | about
+| bip_39_word_new_line_12 | about
 first
 sunny
 minimum
@@ -78,34 +78,34 @@ club
 ramp
 vendor
 antenna |  
-| bip_39_word_new_line2 | about
+| bip_39_word_new_line_2 | about
 first |  
-| bip_39_word_new_line3 | about
+| bip_39_word_new_line_3 | about
 first
 sunny |  
-| bip_39_word_new_line4 | about
+| bip_39_word_new_line_4 | about
 first
 sunny
 minimum |  
-| bip_39_word_new_line5 | about
+| bip_39_word_new_line_5 | about
 first
 sunny
 minimum
 tone |  
-| bip_39_word_new_line6 | about
+| bip_39_word_new_line_6 | about
 first
 sunny
 minimum
 tone
 lend |  
-| bip_39_word_new_line7 | about
+| bip_39_word_new_line_7 | about
 first
 sunny
 minimum
 tone
 lend
 eager |  
-| bip_39_word_new_line8 | about
+| bip_39_word_new_line_8 | about
 first
 sunny
 minimum
@@ -113,7 +113,7 @@ tone
 lend
 eager
 leopard |  
-| bip_39_word_new_line9 | about
+| bip_39_word_new_line_9 | about
 first
 sunny
 minimum

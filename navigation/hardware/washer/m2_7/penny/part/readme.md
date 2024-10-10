@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | remind |  
-| bip_39_word_new_br10 | remind<br>flip<br>distance<br>stool<br>useful<br>spare<br>lyrics<br>observe<br>erode<br>rare |  
-| bip_39_word_new_br11 | remind<br>flip<br>distance<br>stool<br>useful<br>spare<br>lyrics<br>observe<br>erode<br>rare<br>rice |  
-| bip_39_word_new_br12 | remind<br>flip<br>distance<br>stool<br>useful<br>spare<br>lyrics<br>observe<br>erode<br>rare<br>rice<br>absorb |  
-| bip_39_word_new_br2 | remind<br>flip |  
-| bip_39_word_new_br3 | remind<br>flip<br>distance |  
-| bip_39_word_new_br4 | remind<br>flip<br>distance<br>stool |  
-| bip_39_word_new_br5 | remind<br>flip<br>distance<br>stool<br>useful |  
-| bip_39_word_new_br6 | remind<br>flip<br>distance<br>stool<br>useful<br>spare |  
-| bip_39_word_new_br7 | remind<br>flip<br>distance<br>stool<br>useful<br>spare<br>lyrics |  
-| bip_39_word_new_br8 | remind<br>flip<br>distance<br>stool<br>useful<br>spare<br>lyrics<br>observe |  
-| bip_39_word_new_br9 | remind<br>flip<br>distance<br>stool<br>useful<br>spare<br>lyrics<br>observe<br>erode |  
-| bip_39_word_new_line1 | remind |  
-| bip_39_word_new_line10 | remind
+| bip_39_word_new_br_1 | remind |  
+| bip_39_word_new_br_10 | remind<br>flip<br>distance<br>stool<br>useful<br>spare<br>lyrics<br>observe<br>erode<br>rare |  
+| bip_39_word_new_br_11 | remind<br>flip<br>distance<br>stool<br>useful<br>spare<br>lyrics<br>observe<br>erode<br>rare<br>rice |  
+| bip_39_word_new_br_12 | remind<br>flip<br>distance<br>stool<br>useful<br>spare<br>lyrics<br>observe<br>erode<br>rare<br>rice<br>absorb |  
+| bip_39_word_new_br_2 | remind<br>flip |  
+| bip_39_word_new_br_3 | remind<br>flip<br>distance |  
+| bip_39_word_new_br_4 | remind<br>flip<br>distance<br>stool |  
+| bip_39_word_new_br_5 | remind<br>flip<br>distance<br>stool<br>useful |  
+| bip_39_word_new_br_6 | remind<br>flip<br>distance<br>stool<br>useful<br>spare |  
+| bip_39_word_new_br_7 | remind<br>flip<br>distance<br>stool<br>useful<br>spare<br>lyrics |  
+| bip_39_word_new_br_8 | remind<br>flip<br>distance<br>stool<br>useful<br>spare<br>lyrics<br>observe |  
+| bip_39_word_new_br_9 | remind<br>flip<br>distance<br>stool<br>useful<br>spare<br>lyrics<br>observe<br>erode |  
+| bip_39_word_new_line_1 | remind |  
+| bip_39_word_new_line_10 | remind
 flip
 distance
 stool
@@ -55,7 +55,7 @@ lyrics
 observe
 erode
 rare |  
-| bip_39_word_new_line11 | remind
+| bip_39_word_new_line_11 | remind
 flip
 distance
 stool
@@ -66,7 +66,7 @@ observe
 erode
 rare
 rice |  
-| bip_39_word_new_line12 | remind
+| bip_39_word_new_line_12 | remind
 flip
 distance
 stool
@@ -78,34 +78,34 @@ erode
 rare
 rice
 absorb |  
-| bip_39_word_new_line2 | remind
+| bip_39_word_new_line_2 | remind
 flip |  
-| bip_39_word_new_line3 | remind
+| bip_39_word_new_line_3 | remind
 flip
 distance |  
-| bip_39_word_new_line4 | remind
+| bip_39_word_new_line_4 | remind
 flip
 distance
 stool |  
-| bip_39_word_new_line5 | remind
+| bip_39_word_new_line_5 | remind
 flip
 distance
 stool
 useful |  
-| bip_39_word_new_line6 | remind
+| bip_39_word_new_line_6 | remind
 flip
 distance
 stool
 useful
 spare |  
-| bip_39_word_new_line7 | remind
+| bip_39_word_new_line_7 | remind
 flip
 distance
 stool
 useful
 spare
 lyrics |  
-| bip_39_word_new_line8 | remind
+| bip_39_word_new_line_8 | remind
 flip
 distance
 stool
@@ -113,7 +113,7 @@ useful
 spare
 lyrics
 observe |  
-| bip_39_word_new_line9 | remind
+| bip_39_word_new_line_9 | remind
 flip
 distance
 stool

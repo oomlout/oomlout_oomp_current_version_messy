@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | skill |  
-| bip_39_word_new_br10 | skill<br>rebel<br>nature<br>topic<br>middle<br>teach<br>chalk<br>breeze<br>pull<br>whale |  
-| bip_39_word_new_br11 | skill<br>rebel<br>nature<br>topic<br>middle<br>teach<br>chalk<br>breeze<br>pull<br>whale<br>cloth |  
-| bip_39_word_new_br12 | skill<br>rebel<br>nature<br>topic<br>middle<br>teach<br>chalk<br>breeze<br>pull<br>whale<br>cloth<br>argue |  
-| bip_39_word_new_br2 | skill<br>rebel |  
-| bip_39_word_new_br3 | skill<br>rebel<br>nature |  
-| bip_39_word_new_br4 | skill<br>rebel<br>nature<br>topic |  
-| bip_39_word_new_br5 | skill<br>rebel<br>nature<br>topic<br>middle |  
-| bip_39_word_new_br6 | skill<br>rebel<br>nature<br>topic<br>middle<br>teach |  
-| bip_39_word_new_br7 | skill<br>rebel<br>nature<br>topic<br>middle<br>teach<br>chalk |  
-| bip_39_word_new_br8 | skill<br>rebel<br>nature<br>topic<br>middle<br>teach<br>chalk<br>breeze |  
-| bip_39_word_new_br9 | skill<br>rebel<br>nature<br>topic<br>middle<br>teach<br>chalk<br>breeze<br>pull |  
-| bip_39_word_new_line1 | skill |  
-| bip_39_word_new_line10 | skill
+| bip_39_word_new_br_1 | skill |  
+| bip_39_word_new_br_10 | skill<br>rebel<br>nature<br>topic<br>middle<br>teach<br>chalk<br>breeze<br>pull<br>whale |  
+| bip_39_word_new_br_11 | skill<br>rebel<br>nature<br>topic<br>middle<br>teach<br>chalk<br>breeze<br>pull<br>whale<br>cloth |  
+| bip_39_word_new_br_12 | skill<br>rebel<br>nature<br>topic<br>middle<br>teach<br>chalk<br>breeze<br>pull<br>whale<br>cloth<br>argue |  
+| bip_39_word_new_br_2 | skill<br>rebel |  
+| bip_39_word_new_br_3 | skill<br>rebel<br>nature |  
+| bip_39_word_new_br_4 | skill<br>rebel<br>nature<br>topic |  
+| bip_39_word_new_br_5 | skill<br>rebel<br>nature<br>topic<br>middle |  
+| bip_39_word_new_br_6 | skill<br>rebel<br>nature<br>topic<br>middle<br>teach |  
+| bip_39_word_new_br_7 | skill<br>rebel<br>nature<br>topic<br>middle<br>teach<br>chalk |  
+| bip_39_word_new_br_8 | skill<br>rebel<br>nature<br>topic<br>middle<br>teach<br>chalk<br>breeze |  
+| bip_39_word_new_br_9 | skill<br>rebel<br>nature<br>topic<br>middle<br>teach<br>chalk<br>breeze<br>pull |  
+| bip_39_word_new_line_1 | skill |  
+| bip_39_word_new_line_10 | skill
 rebel
 nature
 topic
@@ -55,7 +55,7 @@ chalk
 breeze
 pull
 whale |  
-| bip_39_word_new_line11 | skill
+| bip_39_word_new_line_11 | skill
 rebel
 nature
 topic
@@ -66,7 +66,7 @@ breeze
 pull
 whale
 cloth |  
-| bip_39_word_new_line12 | skill
+| bip_39_word_new_line_12 | skill
 rebel
 nature
 topic
@@ -78,34 +78,34 @@ pull
 whale
 cloth
 argue |  
-| bip_39_word_new_line2 | skill
+| bip_39_word_new_line_2 | skill
 rebel |  
-| bip_39_word_new_line3 | skill
+| bip_39_word_new_line_3 | skill
 rebel
 nature |  
-| bip_39_word_new_line4 | skill
+| bip_39_word_new_line_4 | skill
 rebel
 nature
 topic |  
-| bip_39_word_new_line5 | skill
+| bip_39_word_new_line_5 | skill
 rebel
 nature
 topic
 middle |  
-| bip_39_word_new_line6 | skill
+| bip_39_word_new_line_6 | skill
 rebel
 nature
 topic
 middle
 teach |  
-| bip_39_word_new_line7 | skill
+| bip_39_word_new_line_7 | skill
 rebel
 nature
 topic
 middle
 teach
 chalk |  
-| bip_39_word_new_line8 | skill
+| bip_39_word_new_line_8 | skill
 rebel
 nature
 topic
@@ -113,7 +113,7 @@ middle
 teach
 chalk
 breeze |  
-| bip_39_word_new_line9 | skill
+| bip_39_word_new_line_9 | skill
 rebel
 nature
 topic

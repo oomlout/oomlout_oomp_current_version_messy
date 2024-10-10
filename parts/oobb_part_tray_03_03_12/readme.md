@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | proud |  
-| bip_39_word_new_br10 | proud<br>invite<br>axis<br>admit<br>supreme<br>chef<br>fence<br>fancy<br>strong<br>people |  
-| bip_39_word_new_br11 | proud<br>invite<br>axis<br>admit<br>supreme<br>chef<br>fence<br>fancy<br>strong<br>people<br>finish |  
-| bip_39_word_new_br12 | proud<br>invite<br>axis<br>admit<br>supreme<br>chef<br>fence<br>fancy<br>strong<br>people<br>finish<br>action |  
-| bip_39_word_new_br2 | proud<br>invite |  
-| bip_39_word_new_br3 | proud<br>invite<br>axis |  
-| bip_39_word_new_br4 | proud<br>invite<br>axis<br>admit |  
-| bip_39_word_new_br5 | proud<br>invite<br>axis<br>admit<br>supreme |  
-| bip_39_word_new_br6 | proud<br>invite<br>axis<br>admit<br>supreme<br>chef |  
-| bip_39_word_new_br7 | proud<br>invite<br>axis<br>admit<br>supreme<br>chef<br>fence |  
-| bip_39_word_new_br8 | proud<br>invite<br>axis<br>admit<br>supreme<br>chef<br>fence<br>fancy |  
-| bip_39_word_new_br9 | proud<br>invite<br>axis<br>admit<br>supreme<br>chef<br>fence<br>fancy<br>strong |  
-| bip_39_word_new_line1 | proud |  
-| bip_39_word_new_line10 | proud
+| bip_39_word_new_br_1 | proud |  
+| bip_39_word_new_br_10 | proud<br>invite<br>axis<br>admit<br>supreme<br>chef<br>fence<br>fancy<br>strong<br>people |  
+| bip_39_word_new_br_11 | proud<br>invite<br>axis<br>admit<br>supreme<br>chef<br>fence<br>fancy<br>strong<br>people<br>finish |  
+| bip_39_word_new_br_12 | proud<br>invite<br>axis<br>admit<br>supreme<br>chef<br>fence<br>fancy<br>strong<br>people<br>finish<br>action |  
+| bip_39_word_new_br_2 | proud<br>invite |  
+| bip_39_word_new_br_3 | proud<br>invite<br>axis |  
+| bip_39_word_new_br_4 | proud<br>invite<br>axis<br>admit |  
+| bip_39_word_new_br_5 | proud<br>invite<br>axis<br>admit<br>supreme |  
+| bip_39_word_new_br_6 | proud<br>invite<br>axis<br>admit<br>supreme<br>chef |  
+| bip_39_word_new_br_7 | proud<br>invite<br>axis<br>admit<br>supreme<br>chef<br>fence |  
+| bip_39_word_new_br_8 | proud<br>invite<br>axis<br>admit<br>supreme<br>chef<br>fence<br>fancy |  
+| bip_39_word_new_br_9 | proud<br>invite<br>axis<br>admit<br>supreme<br>chef<br>fence<br>fancy<br>strong |  
+| bip_39_word_new_line_1 | proud |  
+| bip_39_word_new_line_10 | proud
 invite
 axis
 admit
@@ -55,7 +55,7 @@ fence
 fancy
 strong
 people |  
-| bip_39_word_new_line11 | proud
+| bip_39_word_new_line_11 | proud
 invite
 axis
 admit
@@ -66,7 +66,7 @@ fancy
 strong
 people
 finish |  
-| bip_39_word_new_line12 | proud
+| bip_39_word_new_line_12 | proud
 invite
 axis
 admit
@@ -78,34 +78,34 @@ strong
 people
 finish
 action |  
-| bip_39_word_new_line2 | proud
+| bip_39_word_new_line_2 | proud
 invite |  
-| bip_39_word_new_line3 | proud
+| bip_39_word_new_line_3 | proud
 invite
 axis |  
-| bip_39_word_new_line4 | proud
+| bip_39_word_new_line_4 | proud
 invite
 axis
 admit |  
-| bip_39_word_new_line5 | proud
+| bip_39_word_new_line_5 | proud
 invite
 axis
 admit
 supreme |  
-| bip_39_word_new_line6 | proud
+| bip_39_word_new_line_6 | proud
 invite
 axis
 admit
 supreme
 chef |  
-| bip_39_word_new_line7 | proud
+| bip_39_word_new_line_7 | proud
 invite
 axis
 admit
 supreme
 chef
 fence |  
-| bip_39_word_new_line8 | proud
+| bip_39_word_new_line_8 | proud
 invite
 axis
 admit
@@ -113,7 +113,7 @@ supreme
 chef
 fence
 fancy |  
-| bip_39_word_new_line9 | proud
+| bip_39_word_new_line_9 | proud
 invite
 axis
 admit

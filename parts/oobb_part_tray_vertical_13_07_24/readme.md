@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ride |  
-| bip_39_word_new_br10 | ride<br>bright<br>axis<br>door<br>venture<br>cereal<br>vintage<br>switch<br>viable<br>onion |  
-| bip_39_word_new_br11 | ride<br>bright<br>axis<br>door<br>venture<br>cereal<br>vintage<br>switch<br>viable<br>onion<br>torch |  
-| bip_39_word_new_br12 | ride<br>bright<br>axis<br>door<br>venture<br>cereal<br>vintage<br>switch<br>viable<br>onion<br>torch<br>assist |  
-| bip_39_word_new_br2 | ride<br>bright |  
-| bip_39_word_new_br3 | ride<br>bright<br>axis |  
-| bip_39_word_new_br4 | ride<br>bright<br>axis<br>door |  
-| bip_39_word_new_br5 | ride<br>bright<br>axis<br>door<br>venture |  
-| bip_39_word_new_br6 | ride<br>bright<br>axis<br>door<br>venture<br>cereal |  
-| bip_39_word_new_br7 | ride<br>bright<br>axis<br>door<br>venture<br>cereal<br>vintage |  
-| bip_39_word_new_br8 | ride<br>bright<br>axis<br>door<br>venture<br>cereal<br>vintage<br>switch |  
-| bip_39_word_new_br9 | ride<br>bright<br>axis<br>door<br>venture<br>cereal<br>vintage<br>switch<br>viable |  
-| bip_39_word_new_line1 | ride |  
-| bip_39_word_new_line10 | ride
+| bip_39_word_new_br_1 | ride |  
+| bip_39_word_new_br_10 | ride<br>bright<br>axis<br>door<br>venture<br>cereal<br>vintage<br>switch<br>viable<br>onion |  
+| bip_39_word_new_br_11 | ride<br>bright<br>axis<br>door<br>venture<br>cereal<br>vintage<br>switch<br>viable<br>onion<br>torch |  
+| bip_39_word_new_br_12 | ride<br>bright<br>axis<br>door<br>venture<br>cereal<br>vintage<br>switch<br>viable<br>onion<br>torch<br>assist |  
+| bip_39_word_new_br_2 | ride<br>bright |  
+| bip_39_word_new_br_3 | ride<br>bright<br>axis |  
+| bip_39_word_new_br_4 | ride<br>bright<br>axis<br>door |  
+| bip_39_word_new_br_5 | ride<br>bright<br>axis<br>door<br>venture |  
+| bip_39_word_new_br_6 | ride<br>bright<br>axis<br>door<br>venture<br>cereal |  
+| bip_39_word_new_br_7 | ride<br>bright<br>axis<br>door<br>venture<br>cereal<br>vintage |  
+| bip_39_word_new_br_8 | ride<br>bright<br>axis<br>door<br>venture<br>cereal<br>vintage<br>switch |  
+| bip_39_word_new_br_9 | ride<br>bright<br>axis<br>door<br>venture<br>cereal<br>vintage<br>switch<br>viable |  
+| bip_39_word_new_line_1 | ride |  
+| bip_39_word_new_line_10 | ride
 bright
 axis
 door
@@ -55,7 +55,7 @@ vintage
 switch
 viable
 onion |  
-| bip_39_word_new_line11 | ride
+| bip_39_word_new_line_11 | ride
 bright
 axis
 door
@@ -66,7 +66,7 @@ switch
 viable
 onion
 torch |  
-| bip_39_word_new_line12 | ride
+| bip_39_word_new_line_12 | ride
 bright
 axis
 door
@@ -78,34 +78,34 @@ viable
 onion
 torch
 assist |  
-| bip_39_word_new_line2 | ride
+| bip_39_word_new_line_2 | ride
 bright |  
-| bip_39_word_new_line3 | ride
+| bip_39_word_new_line_3 | ride
 bright
 axis |  
-| bip_39_word_new_line4 | ride
+| bip_39_word_new_line_4 | ride
 bright
 axis
 door |  
-| bip_39_word_new_line5 | ride
+| bip_39_word_new_line_5 | ride
 bright
 axis
 door
 venture |  
-| bip_39_word_new_line6 | ride
+| bip_39_word_new_line_6 | ride
 bright
 axis
 door
 venture
 cereal |  
-| bip_39_word_new_line7 | ride
+| bip_39_word_new_line_7 | ride
 bright
 axis
 door
 venture
 cereal
 vintage |  
-| bip_39_word_new_line8 | ride
+| bip_39_word_new_line_8 | ride
 bright
 axis
 door
@@ -113,7 +113,7 @@ venture
 cereal
 vintage
 switch |  
-| bip_39_word_new_line9 | ride
+| bip_39_word_new_line_9 | ride
 bright
 axis
 door

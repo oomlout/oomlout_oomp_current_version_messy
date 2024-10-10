@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | away |  
-| bip_39_word_new_br10 | away<br>say<br>best<br>educate<br>trim<br>repair<br>chase<br>wear<br>space<br>universe |  
-| bip_39_word_new_br11 | away<br>say<br>best<br>educate<br>trim<br>repair<br>chase<br>wear<br>space<br>universe<br>obey |  
-| bip_39_word_new_br12 | away<br>say<br>best<br>educate<br>trim<br>repair<br>chase<br>wear<br>space<br>universe<br>obey<br>again |  
-| bip_39_word_new_br2 | away<br>say |  
-| bip_39_word_new_br3 | away<br>say<br>best |  
-| bip_39_word_new_br4 | away<br>say<br>best<br>educate |  
-| bip_39_word_new_br5 | away<br>say<br>best<br>educate<br>trim |  
-| bip_39_word_new_br6 | away<br>say<br>best<br>educate<br>trim<br>repair |  
-| bip_39_word_new_br7 | away<br>say<br>best<br>educate<br>trim<br>repair<br>chase |  
-| bip_39_word_new_br8 | away<br>say<br>best<br>educate<br>trim<br>repair<br>chase<br>wear |  
-| bip_39_word_new_br9 | away<br>say<br>best<br>educate<br>trim<br>repair<br>chase<br>wear<br>space |  
-| bip_39_word_new_line1 | away |  
-| bip_39_word_new_line10 | away
+| bip_39_word_new_br_1 | away |  
+| bip_39_word_new_br_10 | away<br>say<br>best<br>educate<br>trim<br>repair<br>chase<br>wear<br>space<br>universe |  
+| bip_39_word_new_br_11 | away<br>say<br>best<br>educate<br>trim<br>repair<br>chase<br>wear<br>space<br>universe<br>obey |  
+| bip_39_word_new_br_12 | away<br>say<br>best<br>educate<br>trim<br>repair<br>chase<br>wear<br>space<br>universe<br>obey<br>again |  
+| bip_39_word_new_br_2 | away<br>say |  
+| bip_39_word_new_br_3 | away<br>say<br>best |  
+| bip_39_word_new_br_4 | away<br>say<br>best<br>educate |  
+| bip_39_word_new_br_5 | away<br>say<br>best<br>educate<br>trim |  
+| bip_39_word_new_br_6 | away<br>say<br>best<br>educate<br>trim<br>repair |  
+| bip_39_word_new_br_7 | away<br>say<br>best<br>educate<br>trim<br>repair<br>chase |  
+| bip_39_word_new_br_8 | away<br>say<br>best<br>educate<br>trim<br>repair<br>chase<br>wear |  
+| bip_39_word_new_br_9 | away<br>say<br>best<br>educate<br>trim<br>repair<br>chase<br>wear<br>space |  
+| bip_39_word_new_line_1 | away |  
+| bip_39_word_new_line_10 | away
 say
 best
 educate
@@ -55,7 +55,7 @@ chase
 wear
 space
 universe |  
-| bip_39_word_new_line11 | away
+| bip_39_word_new_line_11 | away
 say
 best
 educate
@@ -66,7 +66,7 @@ wear
 space
 universe
 obey |  
-| bip_39_word_new_line12 | away
+| bip_39_word_new_line_12 | away
 say
 best
 educate
@@ -78,34 +78,34 @@ space
 universe
 obey
 again |  
-| bip_39_word_new_line2 | away
+| bip_39_word_new_line_2 | away
 say |  
-| bip_39_word_new_line3 | away
+| bip_39_word_new_line_3 | away
 say
 best |  
-| bip_39_word_new_line4 | away
+| bip_39_word_new_line_4 | away
 say
 best
 educate |  
-| bip_39_word_new_line5 | away
+| bip_39_word_new_line_5 | away
 say
 best
 educate
 trim |  
-| bip_39_word_new_line6 | away
+| bip_39_word_new_line_6 | away
 say
 best
 educate
 trim
 repair |  
-| bip_39_word_new_line7 | away
+| bip_39_word_new_line_7 | away
 say
 best
 educate
 trim
 repair
 chase |  
-| bip_39_word_new_line8 | away
+| bip_39_word_new_line_8 | away
 say
 best
 educate
@@ -113,7 +113,7 @@ trim
 repair
 chase
 wear |  
-| bip_39_word_new_line9 | away
+| bip_39_word_new_line_9 | away
 say
 best
 educate

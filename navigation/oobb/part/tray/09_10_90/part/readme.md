@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | speak |  
-| bip_39_word_new_br10 | speak<br>school<br>time<br>economy<br>punch<br>faculty<br>elephant<br>west<br>media<br>observe |  
-| bip_39_word_new_br11 | speak<br>school<br>time<br>economy<br>punch<br>faculty<br>elephant<br>west<br>media<br>observe<br>sample |  
-| bip_39_word_new_br12 | speak<br>school<br>time<br>economy<br>punch<br>faculty<br>elephant<br>west<br>media<br>observe<br>sample<br>advice |  
-| bip_39_word_new_br2 | speak<br>school |  
-| bip_39_word_new_br3 | speak<br>school<br>time |  
-| bip_39_word_new_br4 | speak<br>school<br>time<br>economy |  
-| bip_39_word_new_br5 | speak<br>school<br>time<br>economy<br>punch |  
-| bip_39_word_new_br6 | speak<br>school<br>time<br>economy<br>punch<br>faculty |  
-| bip_39_word_new_br7 | speak<br>school<br>time<br>economy<br>punch<br>faculty<br>elephant |  
-| bip_39_word_new_br8 | speak<br>school<br>time<br>economy<br>punch<br>faculty<br>elephant<br>west |  
-| bip_39_word_new_br9 | speak<br>school<br>time<br>economy<br>punch<br>faculty<br>elephant<br>west<br>media |  
-| bip_39_word_new_line1 | speak |  
-| bip_39_word_new_line10 | speak
+| bip_39_word_new_br_1 | speak |  
+| bip_39_word_new_br_10 | speak<br>school<br>time<br>economy<br>punch<br>faculty<br>elephant<br>west<br>media<br>observe |  
+| bip_39_word_new_br_11 | speak<br>school<br>time<br>economy<br>punch<br>faculty<br>elephant<br>west<br>media<br>observe<br>sample |  
+| bip_39_word_new_br_12 | speak<br>school<br>time<br>economy<br>punch<br>faculty<br>elephant<br>west<br>media<br>observe<br>sample<br>advice |  
+| bip_39_word_new_br_2 | speak<br>school |  
+| bip_39_word_new_br_3 | speak<br>school<br>time |  
+| bip_39_word_new_br_4 | speak<br>school<br>time<br>economy |  
+| bip_39_word_new_br_5 | speak<br>school<br>time<br>economy<br>punch |  
+| bip_39_word_new_br_6 | speak<br>school<br>time<br>economy<br>punch<br>faculty |  
+| bip_39_word_new_br_7 | speak<br>school<br>time<br>economy<br>punch<br>faculty<br>elephant |  
+| bip_39_word_new_br_8 | speak<br>school<br>time<br>economy<br>punch<br>faculty<br>elephant<br>west |  
+| bip_39_word_new_br_9 | speak<br>school<br>time<br>economy<br>punch<br>faculty<br>elephant<br>west<br>media |  
+| bip_39_word_new_line_1 | speak |  
+| bip_39_word_new_line_10 | speak
 school
 time
 economy
@@ -55,7 +55,7 @@ elephant
 west
 media
 observe |  
-| bip_39_word_new_line11 | speak
+| bip_39_word_new_line_11 | speak
 school
 time
 economy
@@ -66,7 +66,7 @@ west
 media
 observe
 sample |  
-| bip_39_word_new_line12 | speak
+| bip_39_word_new_line_12 | speak
 school
 time
 economy
@@ -78,34 +78,34 @@ media
 observe
 sample
 advice |  
-| bip_39_word_new_line2 | speak
+| bip_39_word_new_line_2 | speak
 school |  
-| bip_39_word_new_line3 | speak
+| bip_39_word_new_line_3 | speak
 school
 time |  
-| bip_39_word_new_line4 | speak
+| bip_39_word_new_line_4 | speak
 school
 time
 economy |  
-| bip_39_word_new_line5 | speak
+| bip_39_word_new_line_5 | speak
 school
 time
 economy
 punch |  
-| bip_39_word_new_line6 | speak
+| bip_39_word_new_line_6 | speak
 school
 time
 economy
 punch
 faculty |  
-| bip_39_word_new_line7 | speak
+| bip_39_word_new_line_7 | speak
 school
 time
 economy
 punch
 faculty
 elephant |  
-| bip_39_word_new_line8 | speak
+| bip_39_word_new_line_8 | speak
 school
 time
 economy
@@ -113,7 +113,7 @@ punch
 faculty
 elephant
 west |  
-| bip_39_word_new_line9 | speak
+| bip_39_word_new_line_9 | speak
 school
 time
 economy

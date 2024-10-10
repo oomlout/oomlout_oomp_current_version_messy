@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pull |  
-| bip_39_word_new_br10 | pull<br>knife<br>cruel<br>junior<br>deliver<br>weekend<br>biology<br>gap<br>donor<br>access |  
-| bip_39_word_new_br11 | pull<br>knife<br>cruel<br>junior<br>deliver<br>weekend<br>biology<br>gap<br>donor<br>access<br>protect |  
-| bip_39_word_new_br12 | pull<br>knife<br>cruel<br>junior<br>deliver<br>weekend<br>biology<br>gap<br>donor<br>access<br>protect<br>arrive |  
-| bip_39_word_new_br2 | pull<br>knife |  
-| bip_39_word_new_br3 | pull<br>knife<br>cruel |  
-| bip_39_word_new_br4 | pull<br>knife<br>cruel<br>junior |  
-| bip_39_word_new_br5 | pull<br>knife<br>cruel<br>junior<br>deliver |  
-| bip_39_word_new_br6 | pull<br>knife<br>cruel<br>junior<br>deliver<br>weekend |  
-| bip_39_word_new_br7 | pull<br>knife<br>cruel<br>junior<br>deliver<br>weekend<br>biology |  
-| bip_39_word_new_br8 | pull<br>knife<br>cruel<br>junior<br>deliver<br>weekend<br>biology<br>gap |  
-| bip_39_word_new_br9 | pull<br>knife<br>cruel<br>junior<br>deliver<br>weekend<br>biology<br>gap<br>donor |  
-| bip_39_word_new_line1 | pull |  
-| bip_39_word_new_line10 | pull
+| bip_39_word_new_br_1 | pull |  
+| bip_39_word_new_br_10 | pull<br>knife<br>cruel<br>junior<br>deliver<br>weekend<br>biology<br>gap<br>donor<br>access |  
+| bip_39_word_new_br_11 | pull<br>knife<br>cruel<br>junior<br>deliver<br>weekend<br>biology<br>gap<br>donor<br>access<br>protect |  
+| bip_39_word_new_br_12 | pull<br>knife<br>cruel<br>junior<br>deliver<br>weekend<br>biology<br>gap<br>donor<br>access<br>protect<br>arrive |  
+| bip_39_word_new_br_2 | pull<br>knife |  
+| bip_39_word_new_br_3 | pull<br>knife<br>cruel |  
+| bip_39_word_new_br_4 | pull<br>knife<br>cruel<br>junior |  
+| bip_39_word_new_br_5 | pull<br>knife<br>cruel<br>junior<br>deliver |  
+| bip_39_word_new_br_6 | pull<br>knife<br>cruel<br>junior<br>deliver<br>weekend |  
+| bip_39_word_new_br_7 | pull<br>knife<br>cruel<br>junior<br>deliver<br>weekend<br>biology |  
+| bip_39_word_new_br_8 | pull<br>knife<br>cruel<br>junior<br>deliver<br>weekend<br>biology<br>gap |  
+| bip_39_word_new_br_9 | pull<br>knife<br>cruel<br>junior<br>deliver<br>weekend<br>biology<br>gap<br>donor |  
+| bip_39_word_new_line_1 | pull |  
+| bip_39_word_new_line_10 | pull
 knife
 cruel
 junior
@@ -55,7 +55,7 @@ biology
 gap
 donor
 access |  
-| bip_39_word_new_line11 | pull
+| bip_39_word_new_line_11 | pull
 knife
 cruel
 junior
@@ -66,7 +66,7 @@ gap
 donor
 access
 protect |  
-| bip_39_word_new_line12 | pull
+| bip_39_word_new_line_12 | pull
 knife
 cruel
 junior
@@ -78,34 +78,34 @@ donor
 access
 protect
 arrive |  
-| bip_39_word_new_line2 | pull
+| bip_39_word_new_line_2 | pull
 knife |  
-| bip_39_word_new_line3 | pull
+| bip_39_word_new_line_3 | pull
 knife
 cruel |  
-| bip_39_word_new_line4 | pull
+| bip_39_word_new_line_4 | pull
 knife
 cruel
 junior |  
-| bip_39_word_new_line5 | pull
+| bip_39_word_new_line_5 | pull
 knife
 cruel
 junior
 deliver |  
-| bip_39_word_new_line6 | pull
+| bip_39_word_new_line_6 | pull
 knife
 cruel
 junior
 deliver
 weekend |  
-| bip_39_word_new_line7 | pull
+| bip_39_word_new_line_7 | pull
 knife
 cruel
 junior
 deliver
 weekend
 biology |  
-| bip_39_word_new_line8 | pull
+| bip_39_word_new_line_8 | pull
 knife
 cruel
 junior
@@ -113,7 +113,7 @@ deliver
 weekend
 biology
 gap |  
-| bip_39_word_new_line9 | pull
+| bip_39_word_new_line_9 | pull
 knife
 cruel
 junior

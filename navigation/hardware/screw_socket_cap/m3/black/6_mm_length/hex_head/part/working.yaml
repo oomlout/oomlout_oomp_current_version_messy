@@ -1,17 +1,17 @@
-bip_39_word_new_br1: orphan
-bip_39_word_new_br10: orphan<br>parrot<br>nasty<br>anger<br>trouble<br>sword<br>bullet<br>popular<br>picnic<br>correct
-bip_39_word_new_br11: orphan<br>parrot<br>nasty<br>anger<br>trouble<br>sword<br>bullet<br>popular<br>picnic<br>correct<br>interest
-bip_39_word_new_br12: orphan<br>parrot<br>nasty<br>anger<br>trouble<br>sword<br>bullet<br>popular<br>picnic<br>correct<br>interest<br>actress
-bip_39_word_new_br2: orphan<br>parrot
-bip_39_word_new_br3: orphan<br>parrot<br>nasty
-bip_39_word_new_br4: orphan<br>parrot<br>nasty<br>anger
-bip_39_word_new_br5: orphan<br>parrot<br>nasty<br>anger<br>trouble
-bip_39_word_new_br6: orphan<br>parrot<br>nasty<br>anger<br>trouble<br>sword
-bip_39_word_new_br7: orphan<br>parrot<br>nasty<br>anger<br>trouble<br>sword<br>bullet
-bip_39_word_new_br8: orphan<br>parrot<br>nasty<br>anger<br>trouble<br>sword<br>bullet<br>popular
-bip_39_word_new_br9: orphan<br>parrot<br>nasty<br>anger<br>trouble<br>sword<br>bullet<br>popular<br>picnic
-bip_39_word_new_line1: orphan
-bip_39_word_new_line10: 'orphan
+bip_39_word_new_br_1: orphan
+bip_39_word_new_br_10: orphan<br>parrot<br>nasty<br>anger<br>trouble<br>sword<br>bullet<br>popular<br>picnic<br>correct
+bip_39_word_new_br_11: orphan<br>parrot<br>nasty<br>anger<br>trouble<br>sword<br>bullet<br>popular<br>picnic<br>correct<br>interest
+bip_39_word_new_br_12: orphan<br>parrot<br>nasty<br>anger<br>trouble<br>sword<br>bullet<br>popular<br>picnic<br>correct<br>interest<br>actress
+bip_39_word_new_br_2: orphan<br>parrot
+bip_39_word_new_br_3: orphan<br>parrot<br>nasty
+bip_39_word_new_br_4: orphan<br>parrot<br>nasty<br>anger
+bip_39_word_new_br_5: orphan<br>parrot<br>nasty<br>anger<br>trouble
+bip_39_word_new_br_6: orphan<br>parrot<br>nasty<br>anger<br>trouble<br>sword
+bip_39_word_new_br_7: orphan<br>parrot<br>nasty<br>anger<br>trouble<br>sword<br>bullet
+bip_39_word_new_br_8: orphan<br>parrot<br>nasty<br>anger<br>trouble<br>sword<br>bullet<br>popular
+bip_39_word_new_br_9: orphan<br>parrot<br>nasty<br>anger<br>trouble<br>sword<br>bullet<br>popular<br>picnic
+bip_39_word_new_line_1: orphan
+bip_39_word_new_line_10: 'orphan
 
   parrot
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'orphan
   picnic
 
   correct'
-bip_39_word_new_line11: 'orphan
+bip_39_word_new_line_11: 'orphan
 
   parrot
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'orphan
   correct
 
   interest'
-bip_39_word_new_line12: 'orphan
+bip_39_word_new_line_12: 'orphan
 
   parrot
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'orphan
   interest
 
   actress'
-bip_39_word_new_line2: 'orphan
+bip_39_word_new_line_2: 'orphan
 
   parrot'
-bip_39_word_new_line3: 'orphan
+bip_39_word_new_line_3: 'orphan
 
   parrot
 
   nasty'
-bip_39_word_new_line4: 'orphan
+bip_39_word_new_line_4: 'orphan
 
   parrot
 
   nasty
 
   anger'
-bip_39_word_new_line5: 'orphan
+bip_39_word_new_line_5: 'orphan
 
   parrot
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'orphan
   anger
 
   trouble'
-bip_39_word_new_line6: 'orphan
+bip_39_word_new_line_6: 'orphan
 
   parrot
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'orphan
   trouble
 
   sword'
-bip_39_word_new_line7: 'orphan
+bip_39_word_new_line_7: 'orphan
 
   parrot
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'orphan
   sword
 
   bullet'
-bip_39_word_new_line8: 'orphan
+bip_39_word_new_line_8: 'orphan
 
   parrot
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'orphan
   bullet
 
   popular'
-bip_39_word_new_line9: 'orphan
+bip_39_word_new_line_9: 'orphan
 
   parrot
 

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | actor |  
-| bip_39_word_new_br10 | actor<br>best<br>dolphin<br>wear<br>melt<br>render<br>come<br>swift<br>pumpkin<br>banner |  
-| bip_39_word_new_br11 | actor<br>best<br>dolphin<br>wear<br>melt<br>render<br>come<br>swift<br>pumpkin<br>banner<br>multiply |  
-| bip_39_word_new_br12 | actor<br>best<br>dolphin<br>wear<br>melt<br>render<br>come<br>swift<br>pumpkin<br>banner<br>multiply<br>any |  
-| bip_39_word_new_br2 | actor<br>best |  
-| bip_39_word_new_br3 | actor<br>best<br>dolphin |  
-| bip_39_word_new_br4 | actor<br>best<br>dolphin<br>wear |  
-| bip_39_word_new_br5 | actor<br>best<br>dolphin<br>wear<br>melt |  
-| bip_39_word_new_br6 | actor<br>best<br>dolphin<br>wear<br>melt<br>render |  
-| bip_39_word_new_br7 | actor<br>best<br>dolphin<br>wear<br>melt<br>render<br>come |  
-| bip_39_word_new_br8 | actor<br>best<br>dolphin<br>wear<br>melt<br>render<br>come<br>swift |  
-| bip_39_word_new_br9 | actor<br>best<br>dolphin<br>wear<br>melt<br>render<br>come<br>swift<br>pumpkin |  
-| bip_39_word_new_line1 | actor |  
-| bip_39_word_new_line10 | actor
+| bip_39_word_new_br_1 | actor |  
+| bip_39_word_new_br_10 | actor<br>best<br>dolphin<br>wear<br>melt<br>render<br>come<br>swift<br>pumpkin<br>banner |  
+| bip_39_word_new_br_11 | actor<br>best<br>dolphin<br>wear<br>melt<br>render<br>come<br>swift<br>pumpkin<br>banner<br>multiply |  
+| bip_39_word_new_br_12 | actor<br>best<br>dolphin<br>wear<br>melt<br>render<br>come<br>swift<br>pumpkin<br>banner<br>multiply<br>any |  
+| bip_39_word_new_br_2 | actor<br>best |  
+| bip_39_word_new_br_3 | actor<br>best<br>dolphin |  
+| bip_39_word_new_br_4 | actor<br>best<br>dolphin<br>wear |  
+| bip_39_word_new_br_5 | actor<br>best<br>dolphin<br>wear<br>melt |  
+| bip_39_word_new_br_6 | actor<br>best<br>dolphin<br>wear<br>melt<br>render |  
+| bip_39_word_new_br_7 | actor<br>best<br>dolphin<br>wear<br>melt<br>render<br>come |  
+| bip_39_word_new_br_8 | actor<br>best<br>dolphin<br>wear<br>melt<br>render<br>come<br>swift |  
+| bip_39_word_new_br_9 | actor<br>best<br>dolphin<br>wear<br>melt<br>render<br>come<br>swift<br>pumpkin |  
+| bip_39_word_new_line_1 | actor |  
+| bip_39_word_new_line_10 | actor
 best
 dolphin
 wear
@@ -55,7 +55,7 @@ come
 swift
 pumpkin
 banner |  
-| bip_39_word_new_line11 | actor
+| bip_39_word_new_line_11 | actor
 best
 dolphin
 wear
@@ -66,7 +66,7 @@ swift
 pumpkin
 banner
 multiply |  
-| bip_39_word_new_line12 | actor
+| bip_39_word_new_line_12 | actor
 best
 dolphin
 wear
@@ -78,34 +78,34 @@ pumpkin
 banner
 multiply
 any |  
-| bip_39_word_new_line2 | actor
+| bip_39_word_new_line_2 | actor
 best |  
-| bip_39_word_new_line3 | actor
+| bip_39_word_new_line_3 | actor
 best
 dolphin |  
-| bip_39_word_new_line4 | actor
+| bip_39_word_new_line_4 | actor
 best
 dolphin
 wear |  
-| bip_39_word_new_line5 | actor
+| bip_39_word_new_line_5 | actor
 best
 dolphin
 wear
 melt |  
-| bip_39_word_new_line6 | actor
+| bip_39_word_new_line_6 | actor
 best
 dolphin
 wear
 melt
 render |  
-| bip_39_word_new_line7 | actor
+| bip_39_word_new_line_7 | actor
 best
 dolphin
 wear
 melt
 render
 come |  
-| bip_39_word_new_line8 | actor
+| bip_39_word_new_line_8 | actor
 best
 dolphin
 wear
@@ -113,7 +113,7 @@ melt
 render
 come
 swift |  
-| bip_39_word_new_line9 | actor
+| bip_39_word_new_line_9 | actor
 best
 dolphin
 wear

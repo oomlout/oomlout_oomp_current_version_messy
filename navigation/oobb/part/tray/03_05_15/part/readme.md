@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wire |  
-| bip_39_word_new_br10 | wire<br>dizzy<br>fruit<br>disease<br>total<br>liar<br>cluster<br>canvas<br>concert<br>find |  
-| bip_39_word_new_br11 | wire<br>dizzy<br>fruit<br>disease<br>total<br>liar<br>cluster<br>canvas<br>concert<br>find<br>resource |  
-| bip_39_word_new_br12 | wire<br>dizzy<br>fruit<br>disease<br>total<br>liar<br>cluster<br>canvas<br>concert<br>find<br>resource<br>alter |  
-| bip_39_word_new_br2 | wire<br>dizzy |  
-| bip_39_word_new_br3 | wire<br>dizzy<br>fruit |  
-| bip_39_word_new_br4 | wire<br>dizzy<br>fruit<br>disease |  
-| bip_39_word_new_br5 | wire<br>dizzy<br>fruit<br>disease<br>total |  
-| bip_39_word_new_br6 | wire<br>dizzy<br>fruit<br>disease<br>total<br>liar |  
-| bip_39_word_new_br7 | wire<br>dizzy<br>fruit<br>disease<br>total<br>liar<br>cluster |  
-| bip_39_word_new_br8 | wire<br>dizzy<br>fruit<br>disease<br>total<br>liar<br>cluster<br>canvas |  
-| bip_39_word_new_br9 | wire<br>dizzy<br>fruit<br>disease<br>total<br>liar<br>cluster<br>canvas<br>concert |  
-| bip_39_word_new_line1 | wire |  
-| bip_39_word_new_line10 | wire
+| bip_39_word_new_br_1 | wire |  
+| bip_39_word_new_br_10 | wire<br>dizzy<br>fruit<br>disease<br>total<br>liar<br>cluster<br>canvas<br>concert<br>find |  
+| bip_39_word_new_br_11 | wire<br>dizzy<br>fruit<br>disease<br>total<br>liar<br>cluster<br>canvas<br>concert<br>find<br>resource |  
+| bip_39_word_new_br_12 | wire<br>dizzy<br>fruit<br>disease<br>total<br>liar<br>cluster<br>canvas<br>concert<br>find<br>resource<br>alter |  
+| bip_39_word_new_br_2 | wire<br>dizzy |  
+| bip_39_word_new_br_3 | wire<br>dizzy<br>fruit |  
+| bip_39_word_new_br_4 | wire<br>dizzy<br>fruit<br>disease |  
+| bip_39_word_new_br_5 | wire<br>dizzy<br>fruit<br>disease<br>total |  
+| bip_39_word_new_br_6 | wire<br>dizzy<br>fruit<br>disease<br>total<br>liar |  
+| bip_39_word_new_br_7 | wire<br>dizzy<br>fruit<br>disease<br>total<br>liar<br>cluster |  
+| bip_39_word_new_br_8 | wire<br>dizzy<br>fruit<br>disease<br>total<br>liar<br>cluster<br>canvas |  
+| bip_39_word_new_br_9 | wire<br>dizzy<br>fruit<br>disease<br>total<br>liar<br>cluster<br>canvas<br>concert |  
+| bip_39_word_new_line_1 | wire |  
+| bip_39_word_new_line_10 | wire
 dizzy
 fruit
 disease
@@ -55,7 +55,7 @@ cluster
 canvas
 concert
 find |  
-| bip_39_word_new_line11 | wire
+| bip_39_word_new_line_11 | wire
 dizzy
 fruit
 disease
@@ -66,7 +66,7 @@ canvas
 concert
 find
 resource |  
-| bip_39_word_new_line12 | wire
+| bip_39_word_new_line_12 | wire
 dizzy
 fruit
 disease
@@ -78,34 +78,34 @@ concert
 find
 resource
 alter |  
-| bip_39_word_new_line2 | wire
+| bip_39_word_new_line_2 | wire
 dizzy |  
-| bip_39_word_new_line3 | wire
+| bip_39_word_new_line_3 | wire
 dizzy
 fruit |  
-| bip_39_word_new_line4 | wire
+| bip_39_word_new_line_4 | wire
 dizzy
 fruit
 disease |  
-| bip_39_word_new_line5 | wire
+| bip_39_word_new_line_5 | wire
 dizzy
 fruit
 disease
 total |  
-| bip_39_word_new_line6 | wire
+| bip_39_word_new_line_6 | wire
 dizzy
 fruit
 disease
 total
 liar |  
-| bip_39_word_new_line7 | wire
+| bip_39_word_new_line_7 | wire
 dizzy
 fruit
 disease
 total
 liar
 cluster |  
-| bip_39_word_new_line8 | wire
+| bip_39_word_new_line_8 | wire
 dizzy
 fruit
 disease
@@ -113,7 +113,7 @@ total
 liar
 cluster
 canvas |  
-| bip_39_word_new_line9 | wire
+| bip_39_word_new_line_9 | wire
 dizzy
 fruit
 disease

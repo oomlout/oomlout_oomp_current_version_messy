@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | forget |  
-| bip_39_word_new_br10 | forget<br>disease<br>tip<br>number<br>cross<br>atom<br>between<br>moon<br>trip<br>actual |  
-| bip_39_word_new_br11 | forget<br>disease<br>tip<br>number<br>cross<br>atom<br>between<br>moon<br>trip<br>actual<br>change |  
-| bip_39_word_new_br12 | forget<br>disease<br>tip<br>number<br>cross<br>atom<br>between<br>moon<br>trip<br>actual<br>change<br>auto |  
-| bip_39_word_new_br2 | forget<br>disease |  
-| bip_39_word_new_br3 | forget<br>disease<br>tip |  
-| bip_39_word_new_br4 | forget<br>disease<br>tip<br>number |  
-| bip_39_word_new_br5 | forget<br>disease<br>tip<br>number<br>cross |  
-| bip_39_word_new_br6 | forget<br>disease<br>tip<br>number<br>cross<br>atom |  
-| bip_39_word_new_br7 | forget<br>disease<br>tip<br>number<br>cross<br>atom<br>between |  
-| bip_39_word_new_br8 | forget<br>disease<br>tip<br>number<br>cross<br>atom<br>between<br>moon |  
-| bip_39_word_new_br9 | forget<br>disease<br>tip<br>number<br>cross<br>atom<br>between<br>moon<br>trip |  
-| bip_39_word_new_line1 | forget |  
-| bip_39_word_new_line10 | forget
+| bip_39_word_new_br_1 | forget |  
+| bip_39_word_new_br_10 | forget<br>disease<br>tip<br>number<br>cross<br>atom<br>between<br>moon<br>trip<br>actual |  
+| bip_39_word_new_br_11 | forget<br>disease<br>tip<br>number<br>cross<br>atom<br>between<br>moon<br>trip<br>actual<br>change |  
+| bip_39_word_new_br_12 | forget<br>disease<br>tip<br>number<br>cross<br>atom<br>between<br>moon<br>trip<br>actual<br>change<br>auto |  
+| bip_39_word_new_br_2 | forget<br>disease |  
+| bip_39_word_new_br_3 | forget<br>disease<br>tip |  
+| bip_39_word_new_br_4 | forget<br>disease<br>tip<br>number |  
+| bip_39_word_new_br_5 | forget<br>disease<br>tip<br>number<br>cross |  
+| bip_39_word_new_br_6 | forget<br>disease<br>tip<br>number<br>cross<br>atom |  
+| bip_39_word_new_br_7 | forget<br>disease<br>tip<br>number<br>cross<br>atom<br>between |  
+| bip_39_word_new_br_8 | forget<br>disease<br>tip<br>number<br>cross<br>atom<br>between<br>moon |  
+| bip_39_word_new_br_9 | forget<br>disease<br>tip<br>number<br>cross<br>atom<br>between<br>moon<br>trip |  
+| bip_39_word_new_line_1 | forget |  
+| bip_39_word_new_line_10 | forget
 disease
 tip
 number
@@ -55,7 +55,7 @@ between
 moon
 trip
 actual |  
-| bip_39_word_new_line11 | forget
+| bip_39_word_new_line_11 | forget
 disease
 tip
 number
@@ -66,7 +66,7 @@ moon
 trip
 actual
 change |  
-| bip_39_word_new_line12 | forget
+| bip_39_word_new_line_12 | forget
 disease
 tip
 number
@@ -78,34 +78,34 @@ trip
 actual
 change
 auto |  
-| bip_39_word_new_line2 | forget
+| bip_39_word_new_line_2 | forget
 disease |  
-| bip_39_word_new_line3 | forget
+| bip_39_word_new_line_3 | forget
 disease
 tip |  
-| bip_39_word_new_line4 | forget
+| bip_39_word_new_line_4 | forget
 disease
 tip
 number |  
-| bip_39_word_new_line5 | forget
+| bip_39_word_new_line_5 | forget
 disease
 tip
 number
 cross |  
-| bip_39_word_new_line6 | forget
+| bip_39_word_new_line_6 | forget
 disease
 tip
 number
 cross
 atom |  
-| bip_39_word_new_line7 | forget
+| bip_39_word_new_line_7 | forget
 disease
 tip
 number
 cross
 atom
 between |  
-| bip_39_word_new_line8 | forget
+| bip_39_word_new_line_8 | forget
 disease
 tip
 number
@@ -113,7 +113,7 @@ cross
 atom
 between
 moon |  
-| bip_39_word_new_line9 | forget
+| bip_39_word_new_line_9 | forget
 disease
 tip
 number

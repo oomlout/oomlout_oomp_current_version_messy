@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | decorate |  
-| bip_39_word_new_br10 | decorate<br>repair<br>goddess<br>rain<br>innocent<br>among<br>present<br>curve<br>quote<br>wolf |  
-| bip_39_word_new_br11 | decorate<br>repair<br>goddess<br>rain<br>innocent<br>among<br>present<br>curve<br>quote<br>wolf<br>kitchen |  
-| bip_39_word_new_br12 | decorate<br>repair<br>goddess<br>rain<br>innocent<br>among<br>present<br>curve<br>quote<br>wolf<br>kitchen<br>acoustic |  
-| bip_39_word_new_br2 | decorate<br>repair |  
-| bip_39_word_new_br3 | decorate<br>repair<br>goddess |  
-| bip_39_word_new_br4 | decorate<br>repair<br>goddess<br>rain |  
-| bip_39_word_new_br5 | decorate<br>repair<br>goddess<br>rain<br>innocent |  
-| bip_39_word_new_br6 | decorate<br>repair<br>goddess<br>rain<br>innocent<br>among |  
-| bip_39_word_new_br7 | decorate<br>repair<br>goddess<br>rain<br>innocent<br>among<br>present |  
-| bip_39_word_new_br8 | decorate<br>repair<br>goddess<br>rain<br>innocent<br>among<br>present<br>curve |  
-| bip_39_word_new_br9 | decorate<br>repair<br>goddess<br>rain<br>innocent<br>among<br>present<br>curve<br>quote |  
-| bip_39_word_new_line1 | decorate |  
-| bip_39_word_new_line10 | decorate
+| bip_39_word_new_br_1 | decorate |  
+| bip_39_word_new_br_10 | decorate<br>repair<br>goddess<br>rain<br>innocent<br>among<br>present<br>curve<br>quote<br>wolf |  
+| bip_39_word_new_br_11 | decorate<br>repair<br>goddess<br>rain<br>innocent<br>among<br>present<br>curve<br>quote<br>wolf<br>kitchen |  
+| bip_39_word_new_br_12 | decorate<br>repair<br>goddess<br>rain<br>innocent<br>among<br>present<br>curve<br>quote<br>wolf<br>kitchen<br>acoustic |  
+| bip_39_word_new_br_2 | decorate<br>repair |  
+| bip_39_word_new_br_3 | decorate<br>repair<br>goddess |  
+| bip_39_word_new_br_4 | decorate<br>repair<br>goddess<br>rain |  
+| bip_39_word_new_br_5 | decorate<br>repair<br>goddess<br>rain<br>innocent |  
+| bip_39_word_new_br_6 | decorate<br>repair<br>goddess<br>rain<br>innocent<br>among |  
+| bip_39_word_new_br_7 | decorate<br>repair<br>goddess<br>rain<br>innocent<br>among<br>present |  
+| bip_39_word_new_br_8 | decorate<br>repair<br>goddess<br>rain<br>innocent<br>among<br>present<br>curve |  
+| bip_39_word_new_br_9 | decorate<br>repair<br>goddess<br>rain<br>innocent<br>among<br>present<br>curve<br>quote |  
+| bip_39_word_new_line_1 | decorate |  
+| bip_39_word_new_line_10 | decorate
 repair
 goddess
 rain
@@ -55,7 +55,7 @@ present
 curve
 quote
 wolf |  
-| bip_39_word_new_line11 | decorate
+| bip_39_word_new_line_11 | decorate
 repair
 goddess
 rain
@@ -66,7 +66,7 @@ curve
 quote
 wolf
 kitchen |  
-| bip_39_word_new_line12 | decorate
+| bip_39_word_new_line_12 | decorate
 repair
 goddess
 rain
@@ -78,34 +78,34 @@ quote
 wolf
 kitchen
 acoustic |  
-| bip_39_word_new_line2 | decorate
+| bip_39_word_new_line_2 | decorate
 repair |  
-| bip_39_word_new_line3 | decorate
+| bip_39_word_new_line_3 | decorate
 repair
 goddess |  
-| bip_39_word_new_line4 | decorate
+| bip_39_word_new_line_4 | decorate
 repair
 goddess
 rain |  
-| bip_39_word_new_line5 | decorate
+| bip_39_word_new_line_5 | decorate
 repair
 goddess
 rain
 innocent |  
-| bip_39_word_new_line6 | decorate
+| bip_39_word_new_line_6 | decorate
 repair
 goddess
 rain
 innocent
 among |  
-| bip_39_word_new_line7 | decorate
+| bip_39_word_new_line_7 | decorate
 repair
 goddess
 rain
 innocent
 among
 present |  
-| bip_39_word_new_line8 | decorate
+| bip_39_word_new_line_8 | decorate
 repair
 goddess
 rain
@@ -113,7 +113,7 @@ innocent
 among
 present
 curve |  
-| bip_39_word_new_line9 | decorate
+| bip_39_word_new_line_9 | decorate
 repair
 goddess
 rain

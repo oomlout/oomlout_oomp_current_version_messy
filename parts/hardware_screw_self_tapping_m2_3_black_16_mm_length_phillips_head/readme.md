@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | brass |  
-| bip_39_word_new_br10 | brass<br>clap<br>bean<br>mule<br>ability<br>canal<br>demise<br>kitten<br>interest<br>mind |  
-| bip_39_word_new_br11 | brass<br>clap<br>bean<br>mule<br>ability<br>canal<br>demise<br>kitten<br>interest<br>mind<br>butter |  
-| bip_39_word_new_br12 | brass<br>clap<br>bean<br>mule<br>ability<br>canal<br>demise<br>kitten<br>interest<br>mind<br>butter<br>assist |  
-| bip_39_word_new_br2 | brass<br>clap |  
-| bip_39_word_new_br3 | brass<br>clap<br>bean |  
-| bip_39_word_new_br4 | brass<br>clap<br>bean<br>mule |  
-| bip_39_word_new_br5 | brass<br>clap<br>bean<br>mule<br>ability |  
-| bip_39_word_new_br6 | brass<br>clap<br>bean<br>mule<br>ability<br>canal |  
-| bip_39_word_new_br7 | brass<br>clap<br>bean<br>mule<br>ability<br>canal<br>demise |  
-| bip_39_word_new_br8 | brass<br>clap<br>bean<br>mule<br>ability<br>canal<br>demise<br>kitten |  
-| bip_39_word_new_br9 | brass<br>clap<br>bean<br>mule<br>ability<br>canal<br>demise<br>kitten<br>interest |  
-| bip_39_word_new_line1 | brass |  
-| bip_39_word_new_line10 | brass
+| bip_39_word_new_br_1 | brass |  
+| bip_39_word_new_br_10 | brass<br>clap<br>bean<br>mule<br>ability<br>canal<br>demise<br>kitten<br>interest<br>mind |  
+| bip_39_word_new_br_11 | brass<br>clap<br>bean<br>mule<br>ability<br>canal<br>demise<br>kitten<br>interest<br>mind<br>butter |  
+| bip_39_word_new_br_12 | brass<br>clap<br>bean<br>mule<br>ability<br>canal<br>demise<br>kitten<br>interest<br>mind<br>butter<br>assist |  
+| bip_39_word_new_br_2 | brass<br>clap |  
+| bip_39_word_new_br_3 | brass<br>clap<br>bean |  
+| bip_39_word_new_br_4 | brass<br>clap<br>bean<br>mule |  
+| bip_39_word_new_br_5 | brass<br>clap<br>bean<br>mule<br>ability |  
+| bip_39_word_new_br_6 | brass<br>clap<br>bean<br>mule<br>ability<br>canal |  
+| bip_39_word_new_br_7 | brass<br>clap<br>bean<br>mule<br>ability<br>canal<br>demise |  
+| bip_39_word_new_br_8 | brass<br>clap<br>bean<br>mule<br>ability<br>canal<br>demise<br>kitten |  
+| bip_39_word_new_br_9 | brass<br>clap<br>bean<br>mule<br>ability<br>canal<br>demise<br>kitten<br>interest |  
+| bip_39_word_new_line_1 | brass |  
+| bip_39_word_new_line_10 | brass
 clap
 bean
 mule
@@ -55,7 +55,7 @@ demise
 kitten
 interest
 mind |  
-| bip_39_word_new_line11 | brass
+| bip_39_word_new_line_11 | brass
 clap
 bean
 mule
@@ -66,7 +66,7 @@ kitten
 interest
 mind
 butter |  
-| bip_39_word_new_line12 | brass
+| bip_39_word_new_line_12 | brass
 clap
 bean
 mule
@@ -78,34 +78,34 @@ interest
 mind
 butter
 assist |  
-| bip_39_word_new_line2 | brass
+| bip_39_word_new_line_2 | brass
 clap |  
-| bip_39_word_new_line3 | brass
+| bip_39_word_new_line_3 | brass
 clap
 bean |  
-| bip_39_word_new_line4 | brass
+| bip_39_word_new_line_4 | brass
 clap
 bean
 mule |  
-| bip_39_word_new_line5 | brass
+| bip_39_word_new_line_5 | brass
 clap
 bean
 mule
 ability |  
-| bip_39_word_new_line6 | brass
+| bip_39_word_new_line_6 | brass
 clap
 bean
 mule
 ability
 canal |  
-| bip_39_word_new_line7 | brass
+| bip_39_word_new_line_7 | brass
 clap
 bean
 mule
 ability
 canal
 demise |  
-| bip_39_word_new_line8 | brass
+| bip_39_word_new_line_8 | brass
 clap
 bean
 mule
@@ -113,7 +113,7 @@ ability
 canal
 demise
 kitten |  
-| bip_39_word_new_line9 | brass
+| bip_39_word_new_line_9 | brass
 clap
 bean
 mule

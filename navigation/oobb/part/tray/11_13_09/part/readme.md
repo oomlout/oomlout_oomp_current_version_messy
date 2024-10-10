@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | inflict |  
-| bip_39_word_new_br10 | inflict<br>usual<br>victory<br>acoustic<br>spoil<br>cricket<br>sentence<br>leave<br>front<br>panther |  
-| bip_39_word_new_br11 | inflict<br>usual<br>victory<br>acoustic<br>spoil<br>cricket<br>sentence<br>leave<br>front<br>panther<br>around |  
-| bip_39_word_new_br12 | inflict<br>usual<br>victory<br>acoustic<br>spoil<br>cricket<br>sentence<br>leave<br>front<br>panther<br>around<br>antique |  
-| bip_39_word_new_br2 | inflict<br>usual |  
-| bip_39_word_new_br3 | inflict<br>usual<br>victory |  
-| bip_39_word_new_br4 | inflict<br>usual<br>victory<br>acoustic |  
-| bip_39_word_new_br5 | inflict<br>usual<br>victory<br>acoustic<br>spoil |  
-| bip_39_word_new_br6 | inflict<br>usual<br>victory<br>acoustic<br>spoil<br>cricket |  
-| bip_39_word_new_br7 | inflict<br>usual<br>victory<br>acoustic<br>spoil<br>cricket<br>sentence |  
-| bip_39_word_new_br8 | inflict<br>usual<br>victory<br>acoustic<br>spoil<br>cricket<br>sentence<br>leave |  
-| bip_39_word_new_br9 | inflict<br>usual<br>victory<br>acoustic<br>spoil<br>cricket<br>sentence<br>leave<br>front |  
-| bip_39_word_new_line1 | inflict |  
-| bip_39_word_new_line10 | inflict
+| bip_39_word_new_br_1 | inflict |  
+| bip_39_word_new_br_10 | inflict<br>usual<br>victory<br>acoustic<br>spoil<br>cricket<br>sentence<br>leave<br>front<br>panther |  
+| bip_39_word_new_br_11 | inflict<br>usual<br>victory<br>acoustic<br>spoil<br>cricket<br>sentence<br>leave<br>front<br>panther<br>around |  
+| bip_39_word_new_br_12 | inflict<br>usual<br>victory<br>acoustic<br>spoil<br>cricket<br>sentence<br>leave<br>front<br>panther<br>around<br>antique |  
+| bip_39_word_new_br_2 | inflict<br>usual |  
+| bip_39_word_new_br_3 | inflict<br>usual<br>victory |  
+| bip_39_word_new_br_4 | inflict<br>usual<br>victory<br>acoustic |  
+| bip_39_word_new_br_5 | inflict<br>usual<br>victory<br>acoustic<br>spoil |  
+| bip_39_word_new_br_6 | inflict<br>usual<br>victory<br>acoustic<br>spoil<br>cricket |  
+| bip_39_word_new_br_7 | inflict<br>usual<br>victory<br>acoustic<br>spoil<br>cricket<br>sentence |  
+| bip_39_word_new_br_8 | inflict<br>usual<br>victory<br>acoustic<br>spoil<br>cricket<br>sentence<br>leave |  
+| bip_39_word_new_br_9 | inflict<br>usual<br>victory<br>acoustic<br>spoil<br>cricket<br>sentence<br>leave<br>front |  
+| bip_39_word_new_line_1 | inflict |  
+| bip_39_word_new_line_10 | inflict
 usual
 victory
 acoustic
@@ -55,7 +55,7 @@ sentence
 leave
 front
 panther |  
-| bip_39_word_new_line11 | inflict
+| bip_39_word_new_line_11 | inflict
 usual
 victory
 acoustic
@@ -66,7 +66,7 @@ leave
 front
 panther
 around |  
-| bip_39_word_new_line12 | inflict
+| bip_39_word_new_line_12 | inflict
 usual
 victory
 acoustic
@@ -78,34 +78,34 @@ front
 panther
 around
 antique |  
-| bip_39_word_new_line2 | inflict
+| bip_39_word_new_line_2 | inflict
 usual |  
-| bip_39_word_new_line3 | inflict
+| bip_39_word_new_line_3 | inflict
 usual
 victory |  
-| bip_39_word_new_line4 | inflict
+| bip_39_word_new_line_4 | inflict
 usual
 victory
 acoustic |  
-| bip_39_word_new_line5 | inflict
+| bip_39_word_new_line_5 | inflict
 usual
 victory
 acoustic
 spoil |  
-| bip_39_word_new_line6 | inflict
+| bip_39_word_new_line_6 | inflict
 usual
 victory
 acoustic
 spoil
 cricket |  
-| bip_39_word_new_line7 | inflict
+| bip_39_word_new_line_7 | inflict
 usual
 victory
 acoustic
 spoil
 cricket
 sentence |  
-| bip_39_word_new_line8 | inflict
+| bip_39_word_new_line_8 | inflict
 usual
 victory
 acoustic
@@ -113,7 +113,7 @@ spoil
 cricket
 sentence
 leave |  
-| bip_39_word_new_line9 | inflict
+| bip_39_word_new_line_9 | inflict
 usual
 victory
 acoustic

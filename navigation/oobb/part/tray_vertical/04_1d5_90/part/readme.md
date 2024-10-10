@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | angle |  
-| bip_39_word_new_br10 | angle<br>frequent<br>divide<br>lava<br>six<br>fabric<br>kick<br>empower<br>duty<br>inhale |  
-| bip_39_word_new_br11 | angle<br>frequent<br>divide<br>lava<br>six<br>fabric<br>kick<br>empower<br>duty<br>inhale<br>lottery |  
-| bip_39_word_new_br12 | angle<br>frequent<br>divide<br>lava<br>six<br>fabric<br>kick<br>empower<br>duty<br>inhale<br>lottery<br>accident |  
-| bip_39_word_new_br2 | angle<br>frequent |  
-| bip_39_word_new_br3 | angle<br>frequent<br>divide |  
-| bip_39_word_new_br4 | angle<br>frequent<br>divide<br>lava |  
-| bip_39_word_new_br5 | angle<br>frequent<br>divide<br>lava<br>six |  
-| bip_39_word_new_br6 | angle<br>frequent<br>divide<br>lava<br>six<br>fabric |  
-| bip_39_word_new_br7 | angle<br>frequent<br>divide<br>lava<br>six<br>fabric<br>kick |  
-| bip_39_word_new_br8 | angle<br>frequent<br>divide<br>lava<br>six<br>fabric<br>kick<br>empower |  
-| bip_39_word_new_br9 | angle<br>frequent<br>divide<br>lava<br>six<br>fabric<br>kick<br>empower<br>duty |  
-| bip_39_word_new_line1 | angle |  
-| bip_39_word_new_line10 | angle
+| bip_39_word_new_br_1 | angle |  
+| bip_39_word_new_br_10 | angle<br>frequent<br>divide<br>lava<br>six<br>fabric<br>kick<br>empower<br>duty<br>inhale |  
+| bip_39_word_new_br_11 | angle<br>frequent<br>divide<br>lava<br>six<br>fabric<br>kick<br>empower<br>duty<br>inhale<br>lottery |  
+| bip_39_word_new_br_12 | angle<br>frequent<br>divide<br>lava<br>six<br>fabric<br>kick<br>empower<br>duty<br>inhale<br>lottery<br>accident |  
+| bip_39_word_new_br_2 | angle<br>frequent |  
+| bip_39_word_new_br_3 | angle<br>frequent<br>divide |  
+| bip_39_word_new_br_4 | angle<br>frequent<br>divide<br>lava |  
+| bip_39_word_new_br_5 | angle<br>frequent<br>divide<br>lava<br>six |  
+| bip_39_word_new_br_6 | angle<br>frequent<br>divide<br>lava<br>six<br>fabric |  
+| bip_39_word_new_br_7 | angle<br>frequent<br>divide<br>lava<br>six<br>fabric<br>kick |  
+| bip_39_word_new_br_8 | angle<br>frequent<br>divide<br>lava<br>six<br>fabric<br>kick<br>empower |  
+| bip_39_word_new_br_9 | angle<br>frequent<br>divide<br>lava<br>six<br>fabric<br>kick<br>empower<br>duty |  
+| bip_39_word_new_line_1 | angle |  
+| bip_39_word_new_line_10 | angle
 frequent
 divide
 lava
@@ -55,7 +55,7 @@ kick
 empower
 duty
 inhale |  
-| bip_39_word_new_line11 | angle
+| bip_39_word_new_line_11 | angle
 frequent
 divide
 lava
@@ -66,7 +66,7 @@ empower
 duty
 inhale
 lottery |  
-| bip_39_word_new_line12 | angle
+| bip_39_word_new_line_12 | angle
 frequent
 divide
 lava
@@ -78,34 +78,34 @@ duty
 inhale
 lottery
 accident |  
-| bip_39_word_new_line2 | angle
+| bip_39_word_new_line_2 | angle
 frequent |  
-| bip_39_word_new_line3 | angle
+| bip_39_word_new_line_3 | angle
 frequent
 divide |  
-| bip_39_word_new_line4 | angle
+| bip_39_word_new_line_4 | angle
 frequent
 divide
 lava |  
-| bip_39_word_new_line5 | angle
+| bip_39_word_new_line_5 | angle
 frequent
 divide
 lava
 six |  
-| bip_39_word_new_line6 | angle
+| bip_39_word_new_line_6 | angle
 frequent
 divide
 lava
 six
 fabric |  
-| bip_39_word_new_line7 | angle
+| bip_39_word_new_line_7 | angle
 frequent
 divide
 lava
 six
 fabric
 kick |  
-| bip_39_word_new_line8 | angle
+| bip_39_word_new_line_8 | angle
 frequent
 divide
 lava
@@ -113,7 +113,7 @@ six
 fabric
 kick
 empower |  
-| bip_39_word_new_line9 | angle
+| bip_39_word_new_line_9 | angle
 frequent
 divide
 lava

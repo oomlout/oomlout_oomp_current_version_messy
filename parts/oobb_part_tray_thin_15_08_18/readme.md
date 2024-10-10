@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sausage |  
-| bip_39_word_new_br10 | sausage<br>more<br>gravity<br>churn<br>rural<br>this<br>crunch<br>drama<br>fold<br>people |  
-| bip_39_word_new_br11 | sausage<br>more<br>gravity<br>churn<br>rural<br>this<br>crunch<br>drama<br>fold<br>people<br>oblige |  
-| bip_39_word_new_br12 | sausage<br>more<br>gravity<br>churn<br>rural<br>this<br>crunch<br>drama<br>fold<br>people<br>oblige<br>actual |  
-| bip_39_word_new_br2 | sausage<br>more |  
-| bip_39_word_new_br3 | sausage<br>more<br>gravity |  
-| bip_39_word_new_br4 | sausage<br>more<br>gravity<br>churn |  
-| bip_39_word_new_br5 | sausage<br>more<br>gravity<br>churn<br>rural |  
-| bip_39_word_new_br6 | sausage<br>more<br>gravity<br>churn<br>rural<br>this |  
-| bip_39_word_new_br7 | sausage<br>more<br>gravity<br>churn<br>rural<br>this<br>crunch |  
-| bip_39_word_new_br8 | sausage<br>more<br>gravity<br>churn<br>rural<br>this<br>crunch<br>drama |  
-| bip_39_word_new_br9 | sausage<br>more<br>gravity<br>churn<br>rural<br>this<br>crunch<br>drama<br>fold |  
-| bip_39_word_new_line1 | sausage |  
-| bip_39_word_new_line10 | sausage
+| bip_39_word_new_br_1 | sausage |  
+| bip_39_word_new_br_10 | sausage<br>more<br>gravity<br>churn<br>rural<br>this<br>crunch<br>drama<br>fold<br>people |  
+| bip_39_word_new_br_11 | sausage<br>more<br>gravity<br>churn<br>rural<br>this<br>crunch<br>drama<br>fold<br>people<br>oblige |  
+| bip_39_word_new_br_12 | sausage<br>more<br>gravity<br>churn<br>rural<br>this<br>crunch<br>drama<br>fold<br>people<br>oblige<br>actual |  
+| bip_39_word_new_br_2 | sausage<br>more |  
+| bip_39_word_new_br_3 | sausage<br>more<br>gravity |  
+| bip_39_word_new_br_4 | sausage<br>more<br>gravity<br>churn |  
+| bip_39_word_new_br_5 | sausage<br>more<br>gravity<br>churn<br>rural |  
+| bip_39_word_new_br_6 | sausage<br>more<br>gravity<br>churn<br>rural<br>this |  
+| bip_39_word_new_br_7 | sausage<br>more<br>gravity<br>churn<br>rural<br>this<br>crunch |  
+| bip_39_word_new_br_8 | sausage<br>more<br>gravity<br>churn<br>rural<br>this<br>crunch<br>drama |  
+| bip_39_word_new_br_9 | sausage<br>more<br>gravity<br>churn<br>rural<br>this<br>crunch<br>drama<br>fold |  
+| bip_39_word_new_line_1 | sausage |  
+| bip_39_word_new_line_10 | sausage
 more
 gravity
 churn
@@ -55,7 +55,7 @@ crunch
 drama
 fold
 people |  
-| bip_39_word_new_line11 | sausage
+| bip_39_word_new_line_11 | sausage
 more
 gravity
 churn
@@ -66,7 +66,7 @@ drama
 fold
 people
 oblige |  
-| bip_39_word_new_line12 | sausage
+| bip_39_word_new_line_12 | sausage
 more
 gravity
 churn
@@ -78,34 +78,34 @@ fold
 people
 oblige
 actual |  
-| bip_39_word_new_line2 | sausage
+| bip_39_word_new_line_2 | sausage
 more |  
-| bip_39_word_new_line3 | sausage
+| bip_39_word_new_line_3 | sausage
 more
 gravity |  
-| bip_39_word_new_line4 | sausage
+| bip_39_word_new_line_4 | sausage
 more
 gravity
 churn |  
-| bip_39_word_new_line5 | sausage
+| bip_39_word_new_line_5 | sausage
 more
 gravity
 churn
 rural |  
-| bip_39_word_new_line6 | sausage
+| bip_39_word_new_line_6 | sausage
 more
 gravity
 churn
 rural
 this |  
-| bip_39_word_new_line7 | sausage
+| bip_39_word_new_line_7 | sausage
 more
 gravity
 churn
 rural
 this
 crunch |  
-| bip_39_word_new_line8 | sausage
+| bip_39_word_new_line_8 | sausage
 more
 gravity
 churn
@@ -113,7 +113,7 @@ rural
 this
 crunch
 drama |  
-| bip_39_word_new_line9 | sausage
+| bip_39_word_new_line_9 | sausage
 more
 gravity
 churn

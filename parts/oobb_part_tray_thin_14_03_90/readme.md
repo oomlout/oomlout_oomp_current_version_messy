@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rare |  
-| bip_39_word_new_br10 | rare<br>story<br>valid<br>beach<br>movie<br>success<br>choose<br>final<br>bomb<br>quarter |  
-| bip_39_word_new_br11 | rare<br>story<br>valid<br>beach<br>movie<br>success<br>choose<br>final<br>bomb<br>quarter<br>glide |  
-| bip_39_word_new_br12 | rare<br>story<br>valid<br>beach<br>movie<br>success<br>choose<br>final<br>bomb<br>quarter<br>glide<br>agree |  
-| bip_39_word_new_br2 | rare<br>story |  
-| bip_39_word_new_br3 | rare<br>story<br>valid |  
-| bip_39_word_new_br4 | rare<br>story<br>valid<br>beach |  
-| bip_39_word_new_br5 | rare<br>story<br>valid<br>beach<br>movie |  
-| bip_39_word_new_br6 | rare<br>story<br>valid<br>beach<br>movie<br>success |  
-| bip_39_word_new_br7 | rare<br>story<br>valid<br>beach<br>movie<br>success<br>choose |  
-| bip_39_word_new_br8 | rare<br>story<br>valid<br>beach<br>movie<br>success<br>choose<br>final |  
-| bip_39_word_new_br9 | rare<br>story<br>valid<br>beach<br>movie<br>success<br>choose<br>final<br>bomb |  
-| bip_39_word_new_line1 | rare |  
-| bip_39_word_new_line10 | rare
+| bip_39_word_new_br_1 | rare |  
+| bip_39_word_new_br_10 | rare<br>story<br>valid<br>beach<br>movie<br>success<br>choose<br>final<br>bomb<br>quarter |  
+| bip_39_word_new_br_11 | rare<br>story<br>valid<br>beach<br>movie<br>success<br>choose<br>final<br>bomb<br>quarter<br>glide |  
+| bip_39_word_new_br_12 | rare<br>story<br>valid<br>beach<br>movie<br>success<br>choose<br>final<br>bomb<br>quarter<br>glide<br>agree |  
+| bip_39_word_new_br_2 | rare<br>story |  
+| bip_39_word_new_br_3 | rare<br>story<br>valid |  
+| bip_39_word_new_br_4 | rare<br>story<br>valid<br>beach |  
+| bip_39_word_new_br_5 | rare<br>story<br>valid<br>beach<br>movie |  
+| bip_39_word_new_br_6 | rare<br>story<br>valid<br>beach<br>movie<br>success |  
+| bip_39_word_new_br_7 | rare<br>story<br>valid<br>beach<br>movie<br>success<br>choose |  
+| bip_39_word_new_br_8 | rare<br>story<br>valid<br>beach<br>movie<br>success<br>choose<br>final |  
+| bip_39_word_new_br_9 | rare<br>story<br>valid<br>beach<br>movie<br>success<br>choose<br>final<br>bomb |  
+| bip_39_word_new_line_1 | rare |  
+| bip_39_word_new_line_10 | rare
 story
 valid
 beach
@@ -55,7 +55,7 @@ choose
 final
 bomb
 quarter |  
-| bip_39_word_new_line11 | rare
+| bip_39_word_new_line_11 | rare
 story
 valid
 beach
@@ -66,7 +66,7 @@ final
 bomb
 quarter
 glide |  
-| bip_39_word_new_line12 | rare
+| bip_39_word_new_line_12 | rare
 story
 valid
 beach
@@ -78,34 +78,34 @@ bomb
 quarter
 glide
 agree |  
-| bip_39_word_new_line2 | rare
+| bip_39_word_new_line_2 | rare
 story |  
-| bip_39_word_new_line3 | rare
+| bip_39_word_new_line_3 | rare
 story
 valid |  
-| bip_39_word_new_line4 | rare
+| bip_39_word_new_line_4 | rare
 story
 valid
 beach |  
-| bip_39_word_new_line5 | rare
+| bip_39_word_new_line_5 | rare
 story
 valid
 beach
 movie |  
-| bip_39_word_new_line6 | rare
+| bip_39_word_new_line_6 | rare
 story
 valid
 beach
 movie
 success |  
-| bip_39_word_new_line7 | rare
+| bip_39_word_new_line_7 | rare
 story
 valid
 beach
 movie
 success
 choose |  
-| bip_39_word_new_line8 | rare
+| bip_39_word_new_line_8 | rare
 story
 valid
 beach
@@ -113,7 +113,7 @@ movie
 success
 choose
 final |  
-| bip_39_word_new_line9 | rare
+| bip_39_word_new_line_9 | rare
 story
 valid
 beach

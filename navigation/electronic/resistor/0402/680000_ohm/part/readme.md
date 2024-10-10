@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | accuse |  
-| bip_39_word_new_br10 | accuse<br>border<br>noble<br>please<br>issue<br>tissue<br>oil<br>protect<br>found<br>account |  
-| bip_39_word_new_br11 | accuse<br>border<br>noble<br>please<br>issue<br>tissue<br>oil<br>protect<br>found<br>account<br>idea |  
-| bip_39_word_new_br12 | accuse<br>border<br>noble<br>please<br>issue<br>tissue<br>oil<br>protect<br>found<br>account<br>idea<br>alert |  
-| bip_39_word_new_br2 | accuse<br>border |  
-| bip_39_word_new_br3 | accuse<br>border<br>noble |  
-| bip_39_word_new_br4 | accuse<br>border<br>noble<br>please |  
-| bip_39_word_new_br5 | accuse<br>border<br>noble<br>please<br>issue |  
-| bip_39_word_new_br6 | accuse<br>border<br>noble<br>please<br>issue<br>tissue |  
-| bip_39_word_new_br7 | accuse<br>border<br>noble<br>please<br>issue<br>tissue<br>oil |  
-| bip_39_word_new_br8 | accuse<br>border<br>noble<br>please<br>issue<br>tissue<br>oil<br>protect |  
-| bip_39_word_new_br9 | accuse<br>border<br>noble<br>please<br>issue<br>tissue<br>oil<br>protect<br>found |  
-| bip_39_word_new_line1 | accuse |  
-| bip_39_word_new_line10 | accuse
+| bip_39_word_new_br_1 | accuse |  
+| bip_39_word_new_br_10 | accuse<br>border<br>noble<br>please<br>issue<br>tissue<br>oil<br>protect<br>found<br>account |  
+| bip_39_word_new_br_11 | accuse<br>border<br>noble<br>please<br>issue<br>tissue<br>oil<br>protect<br>found<br>account<br>idea |  
+| bip_39_word_new_br_12 | accuse<br>border<br>noble<br>please<br>issue<br>tissue<br>oil<br>protect<br>found<br>account<br>idea<br>alert |  
+| bip_39_word_new_br_2 | accuse<br>border |  
+| bip_39_word_new_br_3 | accuse<br>border<br>noble |  
+| bip_39_word_new_br_4 | accuse<br>border<br>noble<br>please |  
+| bip_39_word_new_br_5 | accuse<br>border<br>noble<br>please<br>issue |  
+| bip_39_word_new_br_6 | accuse<br>border<br>noble<br>please<br>issue<br>tissue |  
+| bip_39_word_new_br_7 | accuse<br>border<br>noble<br>please<br>issue<br>tissue<br>oil |  
+| bip_39_word_new_br_8 | accuse<br>border<br>noble<br>please<br>issue<br>tissue<br>oil<br>protect |  
+| bip_39_word_new_br_9 | accuse<br>border<br>noble<br>please<br>issue<br>tissue<br>oil<br>protect<br>found |  
+| bip_39_word_new_line_1 | accuse |  
+| bip_39_word_new_line_10 | accuse
 border
 noble
 please
@@ -55,7 +55,7 @@ oil
 protect
 found
 account |  
-| bip_39_word_new_line11 | accuse
+| bip_39_word_new_line_11 | accuse
 border
 noble
 please
@@ -66,7 +66,7 @@ protect
 found
 account
 idea |  
-| bip_39_word_new_line12 | accuse
+| bip_39_word_new_line_12 | accuse
 border
 noble
 please
@@ -78,34 +78,34 @@ found
 account
 idea
 alert |  
-| bip_39_word_new_line2 | accuse
+| bip_39_word_new_line_2 | accuse
 border |  
-| bip_39_word_new_line3 | accuse
+| bip_39_word_new_line_3 | accuse
 border
 noble |  
-| bip_39_word_new_line4 | accuse
+| bip_39_word_new_line_4 | accuse
 border
 noble
 please |  
-| bip_39_word_new_line5 | accuse
+| bip_39_word_new_line_5 | accuse
 border
 noble
 please
 issue |  
-| bip_39_word_new_line6 | accuse
+| bip_39_word_new_line_6 | accuse
 border
 noble
 please
 issue
 tissue |  
-| bip_39_word_new_line7 | accuse
+| bip_39_word_new_line_7 | accuse
 border
 noble
 please
 issue
 tissue
 oil |  
-| bip_39_word_new_line8 | accuse
+| bip_39_word_new_line_8 | accuse
 border
 noble
 please
@@ -113,7 +113,7 @@ issue
 tissue
 oil
 protect |  
-| bip_39_word_new_line9 | accuse
+| bip_39_word_new_line_9 | accuse
 border
 noble
 please

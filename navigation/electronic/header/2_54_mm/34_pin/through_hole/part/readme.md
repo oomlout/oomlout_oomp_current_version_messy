@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | submit |  
-| bip_39_word_new_br10 | submit<br>legal<br>casual<br>detail<br>dry<br>cave<br>fruit<br>student<br>cancel<br>mosquito |  
-| bip_39_word_new_br11 | submit<br>legal<br>casual<br>detail<br>dry<br>cave<br>fruit<br>student<br>cancel<br>mosquito<br>south |  
-| bip_39_word_new_br12 | submit<br>legal<br>casual<br>detail<br>dry<br>cave<br>fruit<br>student<br>cancel<br>mosquito<br>south<br>amount |  
-| bip_39_word_new_br2 | submit<br>legal |  
-| bip_39_word_new_br3 | submit<br>legal<br>casual |  
-| bip_39_word_new_br4 | submit<br>legal<br>casual<br>detail |  
-| bip_39_word_new_br5 | submit<br>legal<br>casual<br>detail<br>dry |  
-| bip_39_word_new_br6 | submit<br>legal<br>casual<br>detail<br>dry<br>cave |  
-| bip_39_word_new_br7 | submit<br>legal<br>casual<br>detail<br>dry<br>cave<br>fruit |  
-| bip_39_word_new_br8 | submit<br>legal<br>casual<br>detail<br>dry<br>cave<br>fruit<br>student |  
-| bip_39_word_new_br9 | submit<br>legal<br>casual<br>detail<br>dry<br>cave<br>fruit<br>student<br>cancel |  
-| bip_39_word_new_line1 | submit |  
-| bip_39_word_new_line10 | submit
+| bip_39_word_new_br_1 | submit |  
+| bip_39_word_new_br_10 | submit<br>legal<br>casual<br>detail<br>dry<br>cave<br>fruit<br>student<br>cancel<br>mosquito |  
+| bip_39_word_new_br_11 | submit<br>legal<br>casual<br>detail<br>dry<br>cave<br>fruit<br>student<br>cancel<br>mosquito<br>south |  
+| bip_39_word_new_br_12 | submit<br>legal<br>casual<br>detail<br>dry<br>cave<br>fruit<br>student<br>cancel<br>mosquito<br>south<br>amount |  
+| bip_39_word_new_br_2 | submit<br>legal |  
+| bip_39_word_new_br_3 | submit<br>legal<br>casual |  
+| bip_39_word_new_br_4 | submit<br>legal<br>casual<br>detail |  
+| bip_39_word_new_br_5 | submit<br>legal<br>casual<br>detail<br>dry |  
+| bip_39_word_new_br_6 | submit<br>legal<br>casual<br>detail<br>dry<br>cave |  
+| bip_39_word_new_br_7 | submit<br>legal<br>casual<br>detail<br>dry<br>cave<br>fruit |  
+| bip_39_word_new_br_8 | submit<br>legal<br>casual<br>detail<br>dry<br>cave<br>fruit<br>student |  
+| bip_39_word_new_br_9 | submit<br>legal<br>casual<br>detail<br>dry<br>cave<br>fruit<br>student<br>cancel |  
+| bip_39_word_new_line_1 | submit |  
+| bip_39_word_new_line_10 | submit
 legal
 casual
 detail
@@ -55,7 +55,7 @@ fruit
 student
 cancel
 mosquito |  
-| bip_39_word_new_line11 | submit
+| bip_39_word_new_line_11 | submit
 legal
 casual
 detail
@@ -66,7 +66,7 @@ student
 cancel
 mosquito
 south |  
-| bip_39_word_new_line12 | submit
+| bip_39_word_new_line_12 | submit
 legal
 casual
 detail
@@ -78,34 +78,34 @@ cancel
 mosquito
 south
 amount |  
-| bip_39_word_new_line2 | submit
+| bip_39_word_new_line_2 | submit
 legal |  
-| bip_39_word_new_line3 | submit
+| bip_39_word_new_line_3 | submit
 legal
 casual |  
-| bip_39_word_new_line4 | submit
+| bip_39_word_new_line_4 | submit
 legal
 casual
 detail |  
-| bip_39_word_new_line5 | submit
+| bip_39_word_new_line_5 | submit
 legal
 casual
 detail
 dry |  
-| bip_39_word_new_line6 | submit
+| bip_39_word_new_line_6 | submit
 legal
 casual
 detail
 dry
 cave |  
-| bip_39_word_new_line7 | submit
+| bip_39_word_new_line_7 | submit
 legal
 casual
 detail
 dry
 cave
 fruit |  
-| bip_39_word_new_line8 | submit
+| bip_39_word_new_line_8 | submit
 legal
 casual
 detail
@@ -113,7 +113,7 @@ dry
 cave
 fruit
 student |  
-| bip_39_word_new_line9 | submit
+| bip_39_word_new_line_9 | submit
 legal
 casual
 detail

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | renew |  
-| bip_39_word_new_br10 | renew<br>describe<br>submit<br>notice<br>inflict<br>pull<br>voice<br>forward<br>depend<br>badge |  
-| bip_39_word_new_br11 | renew<br>describe<br>submit<br>notice<br>inflict<br>pull<br>voice<br>forward<br>depend<br>badge<br>stage |  
-| bip_39_word_new_br12 | renew<br>describe<br>submit<br>notice<br>inflict<br>pull<br>voice<br>forward<br>depend<br>badge<br>stage<br>amount |  
-| bip_39_word_new_br2 | renew<br>describe |  
-| bip_39_word_new_br3 | renew<br>describe<br>submit |  
-| bip_39_word_new_br4 | renew<br>describe<br>submit<br>notice |  
-| bip_39_word_new_br5 | renew<br>describe<br>submit<br>notice<br>inflict |  
-| bip_39_word_new_br6 | renew<br>describe<br>submit<br>notice<br>inflict<br>pull |  
-| bip_39_word_new_br7 | renew<br>describe<br>submit<br>notice<br>inflict<br>pull<br>voice |  
-| bip_39_word_new_br8 | renew<br>describe<br>submit<br>notice<br>inflict<br>pull<br>voice<br>forward |  
-| bip_39_word_new_br9 | renew<br>describe<br>submit<br>notice<br>inflict<br>pull<br>voice<br>forward<br>depend |  
-| bip_39_word_new_line1 | renew |  
-| bip_39_word_new_line10 | renew
+| bip_39_word_new_br_1 | renew |  
+| bip_39_word_new_br_10 | renew<br>describe<br>submit<br>notice<br>inflict<br>pull<br>voice<br>forward<br>depend<br>badge |  
+| bip_39_word_new_br_11 | renew<br>describe<br>submit<br>notice<br>inflict<br>pull<br>voice<br>forward<br>depend<br>badge<br>stage |  
+| bip_39_word_new_br_12 | renew<br>describe<br>submit<br>notice<br>inflict<br>pull<br>voice<br>forward<br>depend<br>badge<br>stage<br>amount |  
+| bip_39_word_new_br_2 | renew<br>describe |  
+| bip_39_word_new_br_3 | renew<br>describe<br>submit |  
+| bip_39_word_new_br_4 | renew<br>describe<br>submit<br>notice |  
+| bip_39_word_new_br_5 | renew<br>describe<br>submit<br>notice<br>inflict |  
+| bip_39_word_new_br_6 | renew<br>describe<br>submit<br>notice<br>inflict<br>pull |  
+| bip_39_word_new_br_7 | renew<br>describe<br>submit<br>notice<br>inflict<br>pull<br>voice |  
+| bip_39_word_new_br_8 | renew<br>describe<br>submit<br>notice<br>inflict<br>pull<br>voice<br>forward |  
+| bip_39_word_new_br_9 | renew<br>describe<br>submit<br>notice<br>inflict<br>pull<br>voice<br>forward<br>depend |  
+| bip_39_word_new_line_1 | renew |  
+| bip_39_word_new_line_10 | renew
 describe
 submit
 notice
@@ -55,7 +55,7 @@ voice
 forward
 depend
 badge |  
-| bip_39_word_new_line11 | renew
+| bip_39_word_new_line_11 | renew
 describe
 submit
 notice
@@ -66,7 +66,7 @@ forward
 depend
 badge
 stage |  
-| bip_39_word_new_line12 | renew
+| bip_39_word_new_line_12 | renew
 describe
 submit
 notice
@@ -78,34 +78,34 @@ depend
 badge
 stage
 amount |  
-| bip_39_word_new_line2 | renew
+| bip_39_word_new_line_2 | renew
 describe |  
-| bip_39_word_new_line3 | renew
+| bip_39_word_new_line_3 | renew
 describe
 submit |  
-| bip_39_word_new_line4 | renew
+| bip_39_word_new_line_4 | renew
 describe
 submit
 notice |  
-| bip_39_word_new_line5 | renew
+| bip_39_word_new_line_5 | renew
 describe
 submit
 notice
 inflict |  
-| bip_39_word_new_line6 | renew
+| bip_39_word_new_line_6 | renew
 describe
 submit
 notice
 inflict
 pull |  
-| bip_39_word_new_line7 | renew
+| bip_39_word_new_line_7 | renew
 describe
 submit
 notice
 inflict
 pull
 voice |  
-| bip_39_word_new_line8 | renew
+| bip_39_word_new_line_8 | renew
 describe
 submit
 notice
@@ -113,7 +113,7 @@ inflict
 pull
 voice
 forward |  
-| bip_39_word_new_line9 | renew
+| bip_39_word_new_line_9 | renew
 describe
 submit
 notice

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | edit |  
-| bip_39_word_new_br10 | edit<br>tone<br>gap<br>fog<br>initial<br>fiction<br>cable<br>blind<br>rough<br>bike |  
-| bip_39_word_new_br11 | edit<br>tone<br>gap<br>fog<br>initial<br>fiction<br>cable<br>blind<br>rough<br>bike<br>inner |  
-| bip_39_word_new_br12 | edit<br>tone<br>gap<br>fog<br>initial<br>fiction<br>cable<br>blind<br>rough<br>bike<br>inner<br>armor |  
-| bip_39_word_new_br2 | edit<br>tone |  
-| bip_39_word_new_br3 | edit<br>tone<br>gap |  
-| bip_39_word_new_br4 | edit<br>tone<br>gap<br>fog |  
-| bip_39_word_new_br5 | edit<br>tone<br>gap<br>fog<br>initial |  
-| bip_39_word_new_br6 | edit<br>tone<br>gap<br>fog<br>initial<br>fiction |  
-| bip_39_word_new_br7 | edit<br>tone<br>gap<br>fog<br>initial<br>fiction<br>cable |  
-| bip_39_word_new_br8 | edit<br>tone<br>gap<br>fog<br>initial<br>fiction<br>cable<br>blind |  
-| bip_39_word_new_br9 | edit<br>tone<br>gap<br>fog<br>initial<br>fiction<br>cable<br>blind<br>rough |  
-| bip_39_word_new_line1 | edit |  
-| bip_39_word_new_line10 | edit
+| bip_39_word_new_br_1 | edit |  
+| bip_39_word_new_br_10 | edit<br>tone<br>gap<br>fog<br>initial<br>fiction<br>cable<br>blind<br>rough<br>bike |  
+| bip_39_word_new_br_11 | edit<br>tone<br>gap<br>fog<br>initial<br>fiction<br>cable<br>blind<br>rough<br>bike<br>inner |  
+| bip_39_word_new_br_12 | edit<br>tone<br>gap<br>fog<br>initial<br>fiction<br>cable<br>blind<br>rough<br>bike<br>inner<br>armor |  
+| bip_39_word_new_br_2 | edit<br>tone |  
+| bip_39_word_new_br_3 | edit<br>tone<br>gap |  
+| bip_39_word_new_br_4 | edit<br>tone<br>gap<br>fog |  
+| bip_39_word_new_br_5 | edit<br>tone<br>gap<br>fog<br>initial |  
+| bip_39_word_new_br_6 | edit<br>tone<br>gap<br>fog<br>initial<br>fiction |  
+| bip_39_word_new_br_7 | edit<br>tone<br>gap<br>fog<br>initial<br>fiction<br>cable |  
+| bip_39_word_new_br_8 | edit<br>tone<br>gap<br>fog<br>initial<br>fiction<br>cable<br>blind |  
+| bip_39_word_new_br_9 | edit<br>tone<br>gap<br>fog<br>initial<br>fiction<br>cable<br>blind<br>rough |  
+| bip_39_word_new_line_1 | edit |  
+| bip_39_word_new_line_10 | edit
 tone
 gap
 fog
@@ -55,7 +55,7 @@ cable
 blind
 rough
 bike |  
-| bip_39_word_new_line11 | edit
+| bip_39_word_new_line_11 | edit
 tone
 gap
 fog
@@ -66,7 +66,7 @@ blind
 rough
 bike
 inner |  
-| bip_39_word_new_line12 | edit
+| bip_39_word_new_line_12 | edit
 tone
 gap
 fog
@@ -78,34 +78,34 @@ rough
 bike
 inner
 armor |  
-| bip_39_word_new_line2 | edit
+| bip_39_word_new_line_2 | edit
 tone |  
-| bip_39_word_new_line3 | edit
+| bip_39_word_new_line_3 | edit
 tone
 gap |  
-| bip_39_word_new_line4 | edit
+| bip_39_word_new_line_4 | edit
 tone
 gap
 fog |  
-| bip_39_word_new_line5 | edit
+| bip_39_word_new_line_5 | edit
 tone
 gap
 fog
 initial |  
-| bip_39_word_new_line6 | edit
+| bip_39_word_new_line_6 | edit
 tone
 gap
 fog
 initial
 fiction |  
-| bip_39_word_new_line7 | edit
+| bip_39_word_new_line_7 | edit
 tone
 gap
 fog
 initial
 fiction
 cable |  
-| bip_39_word_new_line8 | edit
+| bip_39_word_new_line_8 | edit
 tone
 gap
 fog
@@ -113,7 +113,7 @@ initial
 fiction
 cable
 blind |  
-| bip_39_word_new_line9 | edit
+| bip_39_word_new_line_9 | edit
 tone
 gap
 fog

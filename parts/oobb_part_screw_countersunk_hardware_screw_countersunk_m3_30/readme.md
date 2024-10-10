@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | effort |  
-| bip_39_word_new_br10 | effort<br>police<br>good<br>country<br>degree<br>arrive<br>divide<br>knife<br>require<br>collect |  
-| bip_39_word_new_br11 | effort<br>police<br>good<br>country<br>degree<br>arrive<br>divide<br>knife<br>require<br>collect<br>uncover |  
-| bip_39_word_new_br12 | effort<br>police<br>good<br>country<br>degree<br>arrive<br>divide<br>knife<br>require<br>collect<br>uncover<br>absent |  
-| bip_39_word_new_br2 | effort<br>police |  
-| bip_39_word_new_br3 | effort<br>police<br>good |  
-| bip_39_word_new_br4 | effort<br>police<br>good<br>country |  
-| bip_39_word_new_br5 | effort<br>police<br>good<br>country<br>degree |  
-| bip_39_word_new_br6 | effort<br>police<br>good<br>country<br>degree<br>arrive |  
-| bip_39_word_new_br7 | effort<br>police<br>good<br>country<br>degree<br>arrive<br>divide |  
-| bip_39_word_new_br8 | effort<br>police<br>good<br>country<br>degree<br>arrive<br>divide<br>knife |  
-| bip_39_word_new_br9 | effort<br>police<br>good<br>country<br>degree<br>arrive<br>divide<br>knife<br>require |  
-| bip_39_word_new_line1 | effort |  
-| bip_39_word_new_line10 | effort
+| bip_39_word_new_br_1 | effort |  
+| bip_39_word_new_br_10 | effort<br>police<br>good<br>country<br>degree<br>arrive<br>divide<br>knife<br>require<br>collect |  
+| bip_39_word_new_br_11 | effort<br>police<br>good<br>country<br>degree<br>arrive<br>divide<br>knife<br>require<br>collect<br>uncover |  
+| bip_39_word_new_br_12 | effort<br>police<br>good<br>country<br>degree<br>arrive<br>divide<br>knife<br>require<br>collect<br>uncover<br>absent |  
+| bip_39_word_new_br_2 | effort<br>police |  
+| bip_39_word_new_br_3 | effort<br>police<br>good |  
+| bip_39_word_new_br_4 | effort<br>police<br>good<br>country |  
+| bip_39_word_new_br_5 | effort<br>police<br>good<br>country<br>degree |  
+| bip_39_word_new_br_6 | effort<br>police<br>good<br>country<br>degree<br>arrive |  
+| bip_39_word_new_br_7 | effort<br>police<br>good<br>country<br>degree<br>arrive<br>divide |  
+| bip_39_word_new_br_8 | effort<br>police<br>good<br>country<br>degree<br>arrive<br>divide<br>knife |  
+| bip_39_word_new_br_9 | effort<br>police<br>good<br>country<br>degree<br>arrive<br>divide<br>knife<br>require |  
+| bip_39_word_new_line_1 | effort |  
+| bip_39_word_new_line_10 | effort
 police
 good
 country
@@ -55,7 +55,7 @@ divide
 knife
 require
 collect |  
-| bip_39_word_new_line11 | effort
+| bip_39_word_new_line_11 | effort
 police
 good
 country
@@ -66,7 +66,7 @@ knife
 require
 collect
 uncover |  
-| bip_39_word_new_line12 | effort
+| bip_39_word_new_line_12 | effort
 police
 good
 country
@@ -78,34 +78,34 @@ require
 collect
 uncover
 absent |  
-| bip_39_word_new_line2 | effort
+| bip_39_word_new_line_2 | effort
 police |  
-| bip_39_word_new_line3 | effort
+| bip_39_word_new_line_3 | effort
 police
 good |  
-| bip_39_word_new_line4 | effort
+| bip_39_word_new_line_4 | effort
 police
 good
 country |  
-| bip_39_word_new_line5 | effort
+| bip_39_word_new_line_5 | effort
 police
 good
 country
 degree |  
-| bip_39_word_new_line6 | effort
+| bip_39_word_new_line_6 | effort
 police
 good
 country
 degree
 arrive |  
-| bip_39_word_new_line7 | effort
+| bip_39_word_new_line_7 | effort
 police
 good
 country
 degree
 arrive
 divide |  
-| bip_39_word_new_line8 | effort
+| bip_39_word_new_line_8 | effort
 police
 good
 country
@@ -113,7 +113,7 @@ degree
 arrive
 divide
 knife |  
-| bip_39_word_new_line9 | effort
+| bip_39_word_new_line_9 | effort
 police
 good
 country

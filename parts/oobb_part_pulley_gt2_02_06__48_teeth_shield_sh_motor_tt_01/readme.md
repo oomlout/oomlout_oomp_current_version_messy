@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | alone |  
-| bip_39_word_new_br10 | alone<br>gentle<br>before<br>net<br>upgrade<br>slim<br>wink<br>major<br>add<br>salmon |  
-| bip_39_word_new_br11 | alone<br>gentle<br>before<br>net<br>upgrade<br>slim<br>wink<br>major<br>add<br>salmon<br>satisfy |  
-| bip_39_word_new_br12 | alone<br>gentle<br>before<br>net<br>upgrade<br>slim<br>wink<br>major<br>add<br>salmon<br>satisfy<br>author |  
-| bip_39_word_new_br2 | alone<br>gentle |  
-| bip_39_word_new_br3 | alone<br>gentle<br>before |  
-| bip_39_word_new_br4 | alone<br>gentle<br>before<br>net |  
-| bip_39_word_new_br5 | alone<br>gentle<br>before<br>net<br>upgrade |  
-| bip_39_word_new_br6 | alone<br>gentle<br>before<br>net<br>upgrade<br>slim |  
-| bip_39_word_new_br7 | alone<br>gentle<br>before<br>net<br>upgrade<br>slim<br>wink |  
-| bip_39_word_new_br8 | alone<br>gentle<br>before<br>net<br>upgrade<br>slim<br>wink<br>major |  
-| bip_39_word_new_br9 | alone<br>gentle<br>before<br>net<br>upgrade<br>slim<br>wink<br>major<br>add |  
-| bip_39_word_new_line1 | alone |  
-| bip_39_word_new_line10 | alone
+| bip_39_word_new_br_1 | alone |  
+| bip_39_word_new_br_10 | alone<br>gentle<br>before<br>net<br>upgrade<br>slim<br>wink<br>major<br>add<br>salmon |  
+| bip_39_word_new_br_11 | alone<br>gentle<br>before<br>net<br>upgrade<br>slim<br>wink<br>major<br>add<br>salmon<br>satisfy |  
+| bip_39_word_new_br_12 | alone<br>gentle<br>before<br>net<br>upgrade<br>slim<br>wink<br>major<br>add<br>salmon<br>satisfy<br>author |  
+| bip_39_word_new_br_2 | alone<br>gentle |  
+| bip_39_word_new_br_3 | alone<br>gentle<br>before |  
+| bip_39_word_new_br_4 | alone<br>gentle<br>before<br>net |  
+| bip_39_word_new_br_5 | alone<br>gentle<br>before<br>net<br>upgrade |  
+| bip_39_word_new_br_6 | alone<br>gentle<br>before<br>net<br>upgrade<br>slim |  
+| bip_39_word_new_br_7 | alone<br>gentle<br>before<br>net<br>upgrade<br>slim<br>wink |  
+| bip_39_word_new_br_8 | alone<br>gentle<br>before<br>net<br>upgrade<br>slim<br>wink<br>major |  
+| bip_39_word_new_br_9 | alone<br>gentle<br>before<br>net<br>upgrade<br>slim<br>wink<br>major<br>add |  
+| bip_39_word_new_line_1 | alone |  
+| bip_39_word_new_line_10 | alone
 gentle
 before
 net
@@ -55,7 +55,7 @@ wink
 major
 add
 salmon |  
-| bip_39_word_new_line11 | alone
+| bip_39_word_new_line_11 | alone
 gentle
 before
 net
@@ -66,7 +66,7 @@ major
 add
 salmon
 satisfy |  
-| bip_39_word_new_line12 | alone
+| bip_39_word_new_line_12 | alone
 gentle
 before
 net
@@ -78,34 +78,34 @@ add
 salmon
 satisfy
 author |  
-| bip_39_word_new_line2 | alone
+| bip_39_word_new_line_2 | alone
 gentle |  
-| bip_39_word_new_line3 | alone
+| bip_39_word_new_line_3 | alone
 gentle
 before |  
-| bip_39_word_new_line4 | alone
+| bip_39_word_new_line_4 | alone
 gentle
 before
 net |  
-| bip_39_word_new_line5 | alone
+| bip_39_word_new_line_5 | alone
 gentle
 before
 net
 upgrade |  
-| bip_39_word_new_line6 | alone
+| bip_39_word_new_line_6 | alone
 gentle
 before
 net
 upgrade
 slim |  
-| bip_39_word_new_line7 | alone
+| bip_39_word_new_line_7 | alone
 gentle
 before
 net
 upgrade
 slim
 wink |  
-| bip_39_word_new_line8 | alone
+| bip_39_word_new_line_8 | alone
 gentle
 before
 net
@@ -113,7 +113,7 @@ upgrade
 slim
 wink
 major |  
-| bip_39_word_new_line9 | alone
+| bip_39_word_new_line_9 | alone
 gentle
 before
 net

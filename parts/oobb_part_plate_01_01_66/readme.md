@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | attack |  
-| bip_39_word_new_br10 | attack<br>little<br>bench<br>slow<br>produce<br>lion<br>chef<br>private<br>only<br>put |  
-| bip_39_word_new_br11 | attack<br>little<br>bench<br>slow<br>produce<br>lion<br>chef<br>private<br>only<br>put<br>hammer |  
-| bip_39_word_new_br12 | attack<br>little<br>bench<br>slow<br>produce<br>lion<br>chef<br>private<br>only<br>put<br>hammer<br>adjust |  
-| bip_39_word_new_br2 | attack<br>little |  
-| bip_39_word_new_br3 | attack<br>little<br>bench |  
-| bip_39_word_new_br4 | attack<br>little<br>bench<br>slow |  
-| bip_39_word_new_br5 | attack<br>little<br>bench<br>slow<br>produce |  
-| bip_39_word_new_br6 | attack<br>little<br>bench<br>slow<br>produce<br>lion |  
-| bip_39_word_new_br7 | attack<br>little<br>bench<br>slow<br>produce<br>lion<br>chef |  
-| bip_39_word_new_br8 | attack<br>little<br>bench<br>slow<br>produce<br>lion<br>chef<br>private |  
-| bip_39_word_new_br9 | attack<br>little<br>bench<br>slow<br>produce<br>lion<br>chef<br>private<br>only |  
-| bip_39_word_new_line1 | attack |  
-| bip_39_word_new_line10 | attack
+| bip_39_word_new_br_1 | attack |  
+| bip_39_word_new_br_10 | attack<br>little<br>bench<br>slow<br>produce<br>lion<br>chef<br>private<br>only<br>put |  
+| bip_39_word_new_br_11 | attack<br>little<br>bench<br>slow<br>produce<br>lion<br>chef<br>private<br>only<br>put<br>hammer |  
+| bip_39_word_new_br_12 | attack<br>little<br>bench<br>slow<br>produce<br>lion<br>chef<br>private<br>only<br>put<br>hammer<br>adjust |  
+| bip_39_word_new_br_2 | attack<br>little |  
+| bip_39_word_new_br_3 | attack<br>little<br>bench |  
+| bip_39_word_new_br_4 | attack<br>little<br>bench<br>slow |  
+| bip_39_word_new_br_5 | attack<br>little<br>bench<br>slow<br>produce |  
+| bip_39_word_new_br_6 | attack<br>little<br>bench<br>slow<br>produce<br>lion |  
+| bip_39_word_new_br_7 | attack<br>little<br>bench<br>slow<br>produce<br>lion<br>chef |  
+| bip_39_word_new_br_8 | attack<br>little<br>bench<br>slow<br>produce<br>lion<br>chef<br>private |  
+| bip_39_word_new_br_9 | attack<br>little<br>bench<br>slow<br>produce<br>lion<br>chef<br>private<br>only |  
+| bip_39_word_new_line_1 | attack |  
+| bip_39_word_new_line_10 | attack
 little
 bench
 slow
@@ -55,7 +55,7 @@ chef
 private
 only
 put |  
-| bip_39_word_new_line11 | attack
+| bip_39_word_new_line_11 | attack
 little
 bench
 slow
@@ -66,7 +66,7 @@ private
 only
 put
 hammer |  
-| bip_39_word_new_line12 | attack
+| bip_39_word_new_line_12 | attack
 little
 bench
 slow
@@ -78,34 +78,34 @@ only
 put
 hammer
 adjust |  
-| bip_39_word_new_line2 | attack
+| bip_39_word_new_line_2 | attack
 little |  
-| bip_39_word_new_line3 | attack
+| bip_39_word_new_line_3 | attack
 little
 bench |  
-| bip_39_word_new_line4 | attack
+| bip_39_word_new_line_4 | attack
 little
 bench
 slow |  
-| bip_39_word_new_line5 | attack
+| bip_39_word_new_line_5 | attack
 little
 bench
 slow
 produce |  
-| bip_39_word_new_line6 | attack
+| bip_39_word_new_line_6 | attack
 little
 bench
 slow
 produce
 lion |  
-| bip_39_word_new_line7 | attack
+| bip_39_word_new_line_7 | attack
 little
 bench
 slow
 produce
 lion
 chef |  
-| bip_39_word_new_line8 | attack
+| bip_39_word_new_line_8 | attack
 little
 bench
 slow
@@ -113,7 +113,7 @@ produce
 lion
 chef
 private |  
-| bip_39_word_new_line9 | attack
+| bip_39_word_new_line_9 | attack
 little
 bench
 slow

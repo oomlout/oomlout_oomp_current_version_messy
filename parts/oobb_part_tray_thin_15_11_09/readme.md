@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ordinary |  
-| bip_39_word_new_br10 | ordinary<br>pet<br>list<br>snake<br>hedgehog<br>nasty<br>shy<br>glass<br>print<br>unusual |  
-| bip_39_word_new_br11 | ordinary<br>pet<br>list<br>snake<br>hedgehog<br>nasty<br>shy<br>glass<br>print<br>unusual<br>hazard |  
-| bip_39_word_new_br12 | ordinary<br>pet<br>list<br>snake<br>hedgehog<br>nasty<br>shy<br>glass<br>print<br>unusual<br>hazard<br>attract |  
-| bip_39_word_new_br2 | ordinary<br>pet |  
-| bip_39_word_new_br3 | ordinary<br>pet<br>list |  
-| bip_39_word_new_br4 | ordinary<br>pet<br>list<br>snake |  
-| bip_39_word_new_br5 | ordinary<br>pet<br>list<br>snake<br>hedgehog |  
-| bip_39_word_new_br6 | ordinary<br>pet<br>list<br>snake<br>hedgehog<br>nasty |  
-| bip_39_word_new_br7 | ordinary<br>pet<br>list<br>snake<br>hedgehog<br>nasty<br>shy |  
-| bip_39_word_new_br8 | ordinary<br>pet<br>list<br>snake<br>hedgehog<br>nasty<br>shy<br>glass |  
-| bip_39_word_new_br9 | ordinary<br>pet<br>list<br>snake<br>hedgehog<br>nasty<br>shy<br>glass<br>print |  
-| bip_39_word_new_line1 | ordinary |  
-| bip_39_word_new_line10 | ordinary
+| bip_39_word_new_br_1 | ordinary |  
+| bip_39_word_new_br_10 | ordinary<br>pet<br>list<br>snake<br>hedgehog<br>nasty<br>shy<br>glass<br>print<br>unusual |  
+| bip_39_word_new_br_11 | ordinary<br>pet<br>list<br>snake<br>hedgehog<br>nasty<br>shy<br>glass<br>print<br>unusual<br>hazard |  
+| bip_39_word_new_br_12 | ordinary<br>pet<br>list<br>snake<br>hedgehog<br>nasty<br>shy<br>glass<br>print<br>unusual<br>hazard<br>attract |  
+| bip_39_word_new_br_2 | ordinary<br>pet |  
+| bip_39_word_new_br_3 | ordinary<br>pet<br>list |  
+| bip_39_word_new_br_4 | ordinary<br>pet<br>list<br>snake |  
+| bip_39_word_new_br_5 | ordinary<br>pet<br>list<br>snake<br>hedgehog |  
+| bip_39_word_new_br_6 | ordinary<br>pet<br>list<br>snake<br>hedgehog<br>nasty |  
+| bip_39_word_new_br_7 | ordinary<br>pet<br>list<br>snake<br>hedgehog<br>nasty<br>shy |  
+| bip_39_word_new_br_8 | ordinary<br>pet<br>list<br>snake<br>hedgehog<br>nasty<br>shy<br>glass |  
+| bip_39_word_new_br_9 | ordinary<br>pet<br>list<br>snake<br>hedgehog<br>nasty<br>shy<br>glass<br>print |  
+| bip_39_word_new_line_1 | ordinary |  
+| bip_39_word_new_line_10 | ordinary
 pet
 list
 snake
@@ -55,7 +55,7 @@ shy
 glass
 print
 unusual |  
-| bip_39_word_new_line11 | ordinary
+| bip_39_word_new_line_11 | ordinary
 pet
 list
 snake
@@ -66,7 +66,7 @@ glass
 print
 unusual
 hazard |  
-| bip_39_word_new_line12 | ordinary
+| bip_39_word_new_line_12 | ordinary
 pet
 list
 snake
@@ -78,34 +78,34 @@ print
 unusual
 hazard
 attract |  
-| bip_39_word_new_line2 | ordinary
+| bip_39_word_new_line_2 | ordinary
 pet |  
-| bip_39_word_new_line3 | ordinary
+| bip_39_word_new_line_3 | ordinary
 pet
 list |  
-| bip_39_word_new_line4 | ordinary
+| bip_39_word_new_line_4 | ordinary
 pet
 list
 snake |  
-| bip_39_word_new_line5 | ordinary
+| bip_39_word_new_line_5 | ordinary
 pet
 list
 snake
 hedgehog |  
-| bip_39_word_new_line6 | ordinary
+| bip_39_word_new_line_6 | ordinary
 pet
 list
 snake
 hedgehog
 nasty |  
-| bip_39_word_new_line7 | ordinary
+| bip_39_word_new_line_7 | ordinary
 pet
 list
 snake
 hedgehog
 nasty
 shy |  
-| bip_39_word_new_line8 | ordinary
+| bip_39_word_new_line_8 | ordinary
 pet
 list
 snake
@@ -113,7 +113,7 @@ hedgehog
 nasty
 shy
 glass |  
-| bip_39_word_new_line9 | ordinary
+| bip_39_word_new_line_9 | ordinary
 pet
 list
 snake

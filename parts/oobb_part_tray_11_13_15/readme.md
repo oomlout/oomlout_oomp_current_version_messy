@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mean |  
-| bip_39_word_new_br10 | mean<br>baby<br>man<br>wrap<br>flee<br>leave<br>rigid<br>inhale<br>skate<br>pipe |  
-| bip_39_word_new_br11 | mean<br>baby<br>man<br>wrap<br>flee<br>leave<br>rigid<br>inhale<br>skate<br>pipe<br>hour |  
-| bip_39_word_new_br12 | mean<br>baby<br>man<br>wrap<br>flee<br>leave<br>rigid<br>inhale<br>skate<br>pipe<br>hour<br>arena |  
-| bip_39_word_new_br2 | mean<br>baby |  
-| bip_39_word_new_br3 | mean<br>baby<br>man |  
-| bip_39_word_new_br4 | mean<br>baby<br>man<br>wrap |  
-| bip_39_word_new_br5 | mean<br>baby<br>man<br>wrap<br>flee |  
-| bip_39_word_new_br6 | mean<br>baby<br>man<br>wrap<br>flee<br>leave |  
-| bip_39_word_new_br7 | mean<br>baby<br>man<br>wrap<br>flee<br>leave<br>rigid |  
-| bip_39_word_new_br8 | mean<br>baby<br>man<br>wrap<br>flee<br>leave<br>rigid<br>inhale |  
-| bip_39_word_new_br9 | mean<br>baby<br>man<br>wrap<br>flee<br>leave<br>rigid<br>inhale<br>skate |  
-| bip_39_word_new_line1 | mean |  
-| bip_39_word_new_line10 | mean
+| bip_39_word_new_br_1 | mean |  
+| bip_39_word_new_br_10 | mean<br>baby<br>man<br>wrap<br>flee<br>leave<br>rigid<br>inhale<br>skate<br>pipe |  
+| bip_39_word_new_br_11 | mean<br>baby<br>man<br>wrap<br>flee<br>leave<br>rigid<br>inhale<br>skate<br>pipe<br>hour |  
+| bip_39_word_new_br_12 | mean<br>baby<br>man<br>wrap<br>flee<br>leave<br>rigid<br>inhale<br>skate<br>pipe<br>hour<br>arena |  
+| bip_39_word_new_br_2 | mean<br>baby |  
+| bip_39_word_new_br_3 | mean<br>baby<br>man |  
+| bip_39_word_new_br_4 | mean<br>baby<br>man<br>wrap |  
+| bip_39_word_new_br_5 | mean<br>baby<br>man<br>wrap<br>flee |  
+| bip_39_word_new_br_6 | mean<br>baby<br>man<br>wrap<br>flee<br>leave |  
+| bip_39_word_new_br_7 | mean<br>baby<br>man<br>wrap<br>flee<br>leave<br>rigid |  
+| bip_39_word_new_br_8 | mean<br>baby<br>man<br>wrap<br>flee<br>leave<br>rigid<br>inhale |  
+| bip_39_word_new_br_9 | mean<br>baby<br>man<br>wrap<br>flee<br>leave<br>rigid<br>inhale<br>skate |  
+| bip_39_word_new_line_1 | mean |  
+| bip_39_word_new_line_10 | mean
 baby
 man
 wrap
@@ -55,7 +55,7 @@ rigid
 inhale
 skate
 pipe |  
-| bip_39_word_new_line11 | mean
+| bip_39_word_new_line_11 | mean
 baby
 man
 wrap
@@ -66,7 +66,7 @@ inhale
 skate
 pipe
 hour |  
-| bip_39_word_new_line12 | mean
+| bip_39_word_new_line_12 | mean
 baby
 man
 wrap
@@ -78,34 +78,34 @@ skate
 pipe
 hour
 arena |  
-| bip_39_word_new_line2 | mean
+| bip_39_word_new_line_2 | mean
 baby |  
-| bip_39_word_new_line3 | mean
+| bip_39_word_new_line_3 | mean
 baby
 man |  
-| bip_39_word_new_line4 | mean
+| bip_39_word_new_line_4 | mean
 baby
 man
 wrap |  
-| bip_39_word_new_line5 | mean
+| bip_39_word_new_line_5 | mean
 baby
 man
 wrap
 flee |  
-| bip_39_word_new_line6 | mean
+| bip_39_word_new_line_6 | mean
 baby
 man
 wrap
 flee
 leave |  
-| bip_39_word_new_line7 | mean
+| bip_39_word_new_line_7 | mean
 baby
 man
 wrap
 flee
 leave
 rigid |  
-| bip_39_word_new_line8 | mean
+| bip_39_word_new_line_8 | mean
 baby
 man
 wrap
@@ -113,7 +113,7 @@ flee
 leave
 rigid
 inhale |  
-| bip_39_word_new_line9 | mean
+| bip_39_word_new_line_9 | mean
 baby
 man
 wrap

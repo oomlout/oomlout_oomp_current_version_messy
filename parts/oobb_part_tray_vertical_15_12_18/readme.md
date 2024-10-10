@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | stairs |  
-| bip_39_word_new_br10 | stairs<br>crucial<br>govern<br>key<br>reflect<br>hope<br>couple<br>taste<br>admit<br>shove |  
-| bip_39_word_new_br11 | stairs<br>crucial<br>govern<br>key<br>reflect<br>hope<br>couple<br>taste<br>admit<br>shove<br>aware |  
-| bip_39_word_new_br12 | stairs<br>crucial<br>govern<br>key<br>reflect<br>hope<br>couple<br>taste<br>admit<br>shove<br>aware<br>autumn |  
-| bip_39_word_new_br2 | stairs<br>crucial |  
-| bip_39_word_new_br3 | stairs<br>crucial<br>govern |  
-| bip_39_word_new_br4 | stairs<br>crucial<br>govern<br>key |  
-| bip_39_word_new_br5 | stairs<br>crucial<br>govern<br>key<br>reflect |  
-| bip_39_word_new_br6 | stairs<br>crucial<br>govern<br>key<br>reflect<br>hope |  
-| bip_39_word_new_br7 | stairs<br>crucial<br>govern<br>key<br>reflect<br>hope<br>couple |  
-| bip_39_word_new_br8 | stairs<br>crucial<br>govern<br>key<br>reflect<br>hope<br>couple<br>taste |  
-| bip_39_word_new_br9 | stairs<br>crucial<br>govern<br>key<br>reflect<br>hope<br>couple<br>taste<br>admit |  
-| bip_39_word_new_line1 | stairs |  
-| bip_39_word_new_line10 | stairs
+| bip_39_word_new_br_1 | stairs |  
+| bip_39_word_new_br_10 | stairs<br>crucial<br>govern<br>key<br>reflect<br>hope<br>couple<br>taste<br>admit<br>shove |  
+| bip_39_word_new_br_11 | stairs<br>crucial<br>govern<br>key<br>reflect<br>hope<br>couple<br>taste<br>admit<br>shove<br>aware |  
+| bip_39_word_new_br_12 | stairs<br>crucial<br>govern<br>key<br>reflect<br>hope<br>couple<br>taste<br>admit<br>shove<br>aware<br>autumn |  
+| bip_39_word_new_br_2 | stairs<br>crucial |  
+| bip_39_word_new_br_3 | stairs<br>crucial<br>govern |  
+| bip_39_word_new_br_4 | stairs<br>crucial<br>govern<br>key |  
+| bip_39_word_new_br_5 | stairs<br>crucial<br>govern<br>key<br>reflect |  
+| bip_39_word_new_br_6 | stairs<br>crucial<br>govern<br>key<br>reflect<br>hope |  
+| bip_39_word_new_br_7 | stairs<br>crucial<br>govern<br>key<br>reflect<br>hope<br>couple |  
+| bip_39_word_new_br_8 | stairs<br>crucial<br>govern<br>key<br>reflect<br>hope<br>couple<br>taste |  
+| bip_39_word_new_br_9 | stairs<br>crucial<br>govern<br>key<br>reflect<br>hope<br>couple<br>taste<br>admit |  
+| bip_39_word_new_line_1 | stairs |  
+| bip_39_word_new_line_10 | stairs
 crucial
 govern
 key
@@ -55,7 +55,7 @@ couple
 taste
 admit
 shove |  
-| bip_39_word_new_line11 | stairs
+| bip_39_word_new_line_11 | stairs
 crucial
 govern
 key
@@ -66,7 +66,7 @@ taste
 admit
 shove
 aware |  
-| bip_39_word_new_line12 | stairs
+| bip_39_word_new_line_12 | stairs
 crucial
 govern
 key
@@ -78,34 +78,34 @@ admit
 shove
 aware
 autumn |  
-| bip_39_word_new_line2 | stairs
+| bip_39_word_new_line_2 | stairs
 crucial |  
-| bip_39_word_new_line3 | stairs
+| bip_39_word_new_line_3 | stairs
 crucial
 govern |  
-| bip_39_word_new_line4 | stairs
+| bip_39_word_new_line_4 | stairs
 crucial
 govern
 key |  
-| bip_39_word_new_line5 | stairs
+| bip_39_word_new_line_5 | stairs
 crucial
 govern
 key
 reflect |  
-| bip_39_word_new_line6 | stairs
+| bip_39_word_new_line_6 | stairs
 crucial
 govern
 key
 reflect
 hope |  
-| bip_39_word_new_line7 | stairs
+| bip_39_word_new_line_7 | stairs
 crucial
 govern
 key
 reflect
 hope
 couple |  
-| bip_39_word_new_line8 | stairs
+| bip_39_word_new_line_8 | stairs
 crucial
 govern
 key
@@ -113,7 +113,7 @@ reflect
 hope
 couple
 taste |  
-| bip_39_word_new_line9 | stairs
+| bip_39_word_new_line_9 | stairs
 crucial
 govern
 key

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | extend |  
-| bip_39_word_new_br10 | extend<br>daring<br>program<br>fiction<br>skull<br>devote<br>leg<br>much<br>wear<br>grit |  
-| bip_39_word_new_br11 | extend<br>daring<br>program<br>fiction<br>skull<br>devote<br>leg<br>much<br>wear<br>grit<br>title |  
-| bip_39_word_new_br12 | extend<br>daring<br>program<br>fiction<br>skull<br>devote<br>leg<br>much<br>wear<br>grit<br>title<br>amazing |  
-| bip_39_word_new_br2 | extend<br>daring |  
-| bip_39_word_new_br3 | extend<br>daring<br>program |  
-| bip_39_word_new_br4 | extend<br>daring<br>program<br>fiction |  
-| bip_39_word_new_br5 | extend<br>daring<br>program<br>fiction<br>skull |  
-| bip_39_word_new_br6 | extend<br>daring<br>program<br>fiction<br>skull<br>devote |  
-| bip_39_word_new_br7 | extend<br>daring<br>program<br>fiction<br>skull<br>devote<br>leg |  
-| bip_39_word_new_br8 | extend<br>daring<br>program<br>fiction<br>skull<br>devote<br>leg<br>much |  
-| bip_39_word_new_br9 | extend<br>daring<br>program<br>fiction<br>skull<br>devote<br>leg<br>much<br>wear |  
-| bip_39_word_new_line1 | extend |  
-| bip_39_word_new_line10 | extend
+| bip_39_word_new_br_1 | extend |  
+| bip_39_word_new_br_10 | extend<br>daring<br>program<br>fiction<br>skull<br>devote<br>leg<br>much<br>wear<br>grit |  
+| bip_39_word_new_br_11 | extend<br>daring<br>program<br>fiction<br>skull<br>devote<br>leg<br>much<br>wear<br>grit<br>title |  
+| bip_39_word_new_br_12 | extend<br>daring<br>program<br>fiction<br>skull<br>devote<br>leg<br>much<br>wear<br>grit<br>title<br>amazing |  
+| bip_39_word_new_br_2 | extend<br>daring |  
+| bip_39_word_new_br_3 | extend<br>daring<br>program |  
+| bip_39_word_new_br_4 | extend<br>daring<br>program<br>fiction |  
+| bip_39_word_new_br_5 | extend<br>daring<br>program<br>fiction<br>skull |  
+| bip_39_word_new_br_6 | extend<br>daring<br>program<br>fiction<br>skull<br>devote |  
+| bip_39_word_new_br_7 | extend<br>daring<br>program<br>fiction<br>skull<br>devote<br>leg |  
+| bip_39_word_new_br_8 | extend<br>daring<br>program<br>fiction<br>skull<br>devote<br>leg<br>much |  
+| bip_39_word_new_br_9 | extend<br>daring<br>program<br>fiction<br>skull<br>devote<br>leg<br>much<br>wear |  
+| bip_39_word_new_line_1 | extend |  
+| bip_39_word_new_line_10 | extend
 daring
 program
 fiction
@@ -55,7 +55,7 @@ leg
 much
 wear
 grit |  
-| bip_39_word_new_line11 | extend
+| bip_39_word_new_line_11 | extend
 daring
 program
 fiction
@@ -66,7 +66,7 @@ much
 wear
 grit
 title |  
-| bip_39_word_new_line12 | extend
+| bip_39_word_new_line_12 | extend
 daring
 program
 fiction
@@ -78,34 +78,34 @@ wear
 grit
 title
 amazing |  
-| bip_39_word_new_line2 | extend
+| bip_39_word_new_line_2 | extend
 daring |  
-| bip_39_word_new_line3 | extend
+| bip_39_word_new_line_3 | extend
 daring
 program |  
-| bip_39_word_new_line4 | extend
+| bip_39_word_new_line_4 | extend
 daring
 program
 fiction |  
-| bip_39_word_new_line5 | extend
+| bip_39_word_new_line_5 | extend
 daring
 program
 fiction
 skull |  
-| bip_39_word_new_line6 | extend
+| bip_39_word_new_line_6 | extend
 daring
 program
 fiction
 skull
 devote |  
-| bip_39_word_new_line7 | extend
+| bip_39_word_new_line_7 | extend
 daring
 program
 fiction
 skull
 devote
 leg |  
-| bip_39_word_new_line8 | extend
+| bip_39_word_new_line_8 | extend
 daring
 program
 fiction
@@ -113,7 +113,7 @@ skull
 devote
 leg
 much |  
-| bip_39_word_new_line9 | extend
+| bip_39_word_new_line_9 | extend
 daring
 program
 fiction

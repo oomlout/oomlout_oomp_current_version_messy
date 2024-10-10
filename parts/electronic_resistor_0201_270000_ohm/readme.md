@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cash |  
-| bip_39_word_new_br10 | cash<br>click<br>army<br>couple<br>bind<br>accuse<br>unaware<br>cheap<br>celery<br>cannon |  
-| bip_39_word_new_br11 | cash<br>click<br>army<br>couple<br>bind<br>accuse<br>unaware<br>cheap<br>celery<br>cannon<br>pulse |  
-| bip_39_word_new_br12 | cash<br>click<br>army<br>couple<br>bind<br>accuse<br>unaware<br>cheap<br>celery<br>cannon<br>pulse<br>also |  
-| bip_39_word_new_br2 | cash<br>click |  
-| bip_39_word_new_br3 | cash<br>click<br>army |  
-| bip_39_word_new_br4 | cash<br>click<br>army<br>couple |  
-| bip_39_word_new_br5 | cash<br>click<br>army<br>couple<br>bind |  
-| bip_39_word_new_br6 | cash<br>click<br>army<br>couple<br>bind<br>accuse |  
-| bip_39_word_new_br7 | cash<br>click<br>army<br>couple<br>bind<br>accuse<br>unaware |  
-| bip_39_word_new_br8 | cash<br>click<br>army<br>couple<br>bind<br>accuse<br>unaware<br>cheap |  
-| bip_39_word_new_br9 | cash<br>click<br>army<br>couple<br>bind<br>accuse<br>unaware<br>cheap<br>celery |  
-| bip_39_word_new_line1 | cash |  
-| bip_39_word_new_line10 | cash
+| bip_39_word_new_br_1 | cash |  
+| bip_39_word_new_br_10 | cash<br>click<br>army<br>couple<br>bind<br>accuse<br>unaware<br>cheap<br>celery<br>cannon |  
+| bip_39_word_new_br_11 | cash<br>click<br>army<br>couple<br>bind<br>accuse<br>unaware<br>cheap<br>celery<br>cannon<br>pulse |  
+| bip_39_word_new_br_12 | cash<br>click<br>army<br>couple<br>bind<br>accuse<br>unaware<br>cheap<br>celery<br>cannon<br>pulse<br>also |  
+| bip_39_word_new_br_2 | cash<br>click |  
+| bip_39_word_new_br_3 | cash<br>click<br>army |  
+| bip_39_word_new_br_4 | cash<br>click<br>army<br>couple |  
+| bip_39_word_new_br_5 | cash<br>click<br>army<br>couple<br>bind |  
+| bip_39_word_new_br_6 | cash<br>click<br>army<br>couple<br>bind<br>accuse |  
+| bip_39_word_new_br_7 | cash<br>click<br>army<br>couple<br>bind<br>accuse<br>unaware |  
+| bip_39_word_new_br_8 | cash<br>click<br>army<br>couple<br>bind<br>accuse<br>unaware<br>cheap |  
+| bip_39_word_new_br_9 | cash<br>click<br>army<br>couple<br>bind<br>accuse<br>unaware<br>cheap<br>celery |  
+| bip_39_word_new_line_1 | cash |  
+| bip_39_word_new_line_10 | cash
 click
 army
 couple
@@ -55,7 +55,7 @@ unaware
 cheap
 celery
 cannon |  
-| bip_39_word_new_line11 | cash
+| bip_39_word_new_line_11 | cash
 click
 army
 couple
@@ -66,7 +66,7 @@ cheap
 celery
 cannon
 pulse |  
-| bip_39_word_new_line12 | cash
+| bip_39_word_new_line_12 | cash
 click
 army
 couple
@@ -78,34 +78,34 @@ celery
 cannon
 pulse
 also |  
-| bip_39_word_new_line2 | cash
+| bip_39_word_new_line_2 | cash
 click |  
-| bip_39_word_new_line3 | cash
+| bip_39_word_new_line_3 | cash
 click
 army |  
-| bip_39_word_new_line4 | cash
+| bip_39_word_new_line_4 | cash
 click
 army
 couple |  
-| bip_39_word_new_line5 | cash
+| bip_39_word_new_line_5 | cash
 click
 army
 couple
 bind |  
-| bip_39_word_new_line6 | cash
+| bip_39_word_new_line_6 | cash
 click
 army
 couple
 bind
 accuse |  
-| bip_39_word_new_line7 | cash
+| bip_39_word_new_line_7 | cash
 click
 army
 couple
 bind
 accuse
 unaware |  
-| bip_39_word_new_line8 | cash
+| bip_39_word_new_line_8 | cash
 click
 army
 couple
@@ -113,7 +113,7 @@ bind
 accuse
 unaware
 cheap |  
-| bip_39_word_new_line9 | cash
+| bip_39_word_new_line_9 | cash
 click
 army
 couple

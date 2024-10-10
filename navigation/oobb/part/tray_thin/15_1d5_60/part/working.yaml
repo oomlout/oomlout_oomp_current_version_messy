@@ -1,17 +1,17 @@
-bip_39_word_new_br1: kangaroo
-bip_39_word_new_br10: kangaroo<br>film<br>champion<br>debris<br>pet<br>ritual<br>ask<br>risk<br>jelly<br>relief
-bip_39_word_new_br11: kangaroo<br>film<br>champion<br>debris<br>pet<br>ritual<br>ask<br>risk<br>jelly<br>relief<br>more
-bip_39_word_new_br12: kangaroo<br>film<br>champion<br>debris<br>pet<br>ritual<br>ask<br>risk<br>jelly<br>relief<br>more<br>admit
-bip_39_word_new_br2: kangaroo<br>film
-bip_39_word_new_br3: kangaroo<br>film<br>champion
-bip_39_word_new_br4: kangaroo<br>film<br>champion<br>debris
-bip_39_word_new_br5: kangaroo<br>film<br>champion<br>debris<br>pet
-bip_39_word_new_br6: kangaroo<br>film<br>champion<br>debris<br>pet<br>ritual
-bip_39_word_new_br7: kangaroo<br>film<br>champion<br>debris<br>pet<br>ritual<br>ask
-bip_39_word_new_br8: kangaroo<br>film<br>champion<br>debris<br>pet<br>ritual<br>ask<br>risk
-bip_39_word_new_br9: kangaroo<br>film<br>champion<br>debris<br>pet<br>ritual<br>ask<br>risk<br>jelly
-bip_39_word_new_line1: kangaroo
-bip_39_word_new_line10: 'kangaroo
+bip_39_word_new_br_1: kangaroo
+bip_39_word_new_br_10: kangaroo<br>film<br>champion<br>debris<br>pet<br>ritual<br>ask<br>risk<br>jelly<br>relief
+bip_39_word_new_br_11: kangaroo<br>film<br>champion<br>debris<br>pet<br>ritual<br>ask<br>risk<br>jelly<br>relief<br>more
+bip_39_word_new_br_12: kangaroo<br>film<br>champion<br>debris<br>pet<br>ritual<br>ask<br>risk<br>jelly<br>relief<br>more<br>admit
+bip_39_word_new_br_2: kangaroo<br>film
+bip_39_word_new_br_3: kangaroo<br>film<br>champion
+bip_39_word_new_br_4: kangaroo<br>film<br>champion<br>debris
+bip_39_word_new_br_5: kangaroo<br>film<br>champion<br>debris<br>pet
+bip_39_word_new_br_6: kangaroo<br>film<br>champion<br>debris<br>pet<br>ritual
+bip_39_word_new_br_7: kangaroo<br>film<br>champion<br>debris<br>pet<br>ritual<br>ask
+bip_39_word_new_br_8: kangaroo<br>film<br>champion<br>debris<br>pet<br>ritual<br>ask<br>risk
+bip_39_word_new_br_9: kangaroo<br>film<br>champion<br>debris<br>pet<br>ritual<br>ask<br>risk<br>jelly
+bip_39_word_new_line_1: kangaroo
+bip_39_word_new_line_10: 'kangaroo
 
   film
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'kangaroo
   jelly
 
   relief'
-bip_39_word_new_line11: 'kangaroo
+bip_39_word_new_line_11: 'kangaroo
 
   film
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'kangaroo
   relief
 
   more'
-bip_39_word_new_line12: 'kangaroo
+bip_39_word_new_line_12: 'kangaroo
 
   film
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'kangaroo
   more
 
   admit'
-bip_39_word_new_line2: 'kangaroo
+bip_39_word_new_line_2: 'kangaroo
 
   film'
-bip_39_word_new_line3: 'kangaroo
+bip_39_word_new_line_3: 'kangaroo
 
   film
 
   champion'
-bip_39_word_new_line4: 'kangaroo
+bip_39_word_new_line_4: 'kangaroo
 
   film
 
   champion
 
   debris'
-bip_39_word_new_line5: 'kangaroo
+bip_39_word_new_line_5: 'kangaroo
 
   film
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'kangaroo
   debris
 
   pet'
-bip_39_word_new_line6: 'kangaroo
+bip_39_word_new_line_6: 'kangaroo
 
   film
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'kangaroo
   pet
 
   ritual'
-bip_39_word_new_line7: 'kangaroo
+bip_39_word_new_line_7: 'kangaroo
 
   film
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'kangaroo
   ritual
 
   ask'
-bip_39_word_new_line8: 'kangaroo
+bip_39_word_new_line_8: 'kangaroo
 
   film
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'kangaroo
   ask
 
   risk'
-bip_39_word_new_line9: 'kangaroo
+bip_39_word_new_line_9: 'kangaroo
 
   film
 

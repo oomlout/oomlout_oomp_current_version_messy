@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bind |  
-| bip_39_word_new_br10 | bind<br>enemy<br>ramp<br>pumpkin<br>under<br>black<br>picnic<br>oven<br>wine<br>law |  
-| bip_39_word_new_br11 | bind<br>enemy<br>ramp<br>pumpkin<br>under<br>black<br>picnic<br>oven<br>wine<br>law<br>program |  
-| bip_39_word_new_br12 | bind<br>enemy<br>ramp<br>pumpkin<br>under<br>black<br>picnic<br>oven<br>wine<br>law<br>program<br>ankle |  
-| bip_39_word_new_br2 | bind<br>enemy |  
-| bip_39_word_new_br3 | bind<br>enemy<br>ramp |  
-| bip_39_word_new_br4 | bind<br>enemy<br>ramp<br>pumpkin |  
-| bip_39_word_new_br5 | bind<br>enemy<br>ramp<br>pumpkin<br>under |  
-| bip_39_word_new_br6 | bind<br>enemy<br>ramp<br>pumpkin<br>under<br>black |  
-| bip_39_word_new_br7 | bind<br>enemy<br>ramp<br>pumpkin<br>under<br>black<br>picnic |  
-| bip_39_word_new_br8 | bind<br>enemy<br>ramp<br>pumpkin<br>under<br>black<br>picnic<br>oven |  
-| bip_39_word_new_br9 | bind<br>enemy<br>ramp<br>pumpkin<br>under<br>black<br>picnic<br>oven<br>wine |  
-| bip_39_word_new_line1 | bind |  
-| bip_39_word_new_line10 | bind
+| bip_39_word_new_br_1 | bind |  
+| bip_39_word_new_br_10 | bind<br>enemy<br>ramp<br>pumpkin<br>under<br>black<br>picnic<br>oven<br>wine<br>law |  
+| bip_39_word_new_br_11 | bind<br>enemy<br>ramp<br>pumpkin<br>under<br>black<br>picnic<br>oven<br>wine<br>law<br>program |  
+| bip_39_word_new_br_12 | bind<br>enemy<br>ramp<br>pumpkin<br>under<br>black<br>picnic<br>oven<br>wine<br>law<br>program<br>ankle |  
+| bip_39_word_new_br_2 | bind<br>enemy |  
+| bip_39_word_new_br_3 | bind<br>enemy<br>ramp |  
+| bip_39_word_new_br_4 | bind<br>enemy<br>ramp<br>pumpkin |  
+| bip_39_word_new_br_5 | bind<br>enemy<br>ramp<br>pumpkin<br>under |  
+| bip_39_word_new_br_6 | bind<br>enemy<br>ramp<br>pumpkin<br>under<br>black |  
+| bip_39_word_new_br_7 | bind<br>enemy<br>ramp<br>pumpkin<br>under<br>black<br>picnic |  
+| bip_39_word_new_br_8 | bind<br>enemy<br>ramp<br>pumpkin<br>under<br>black<br>picnic<br>oven |  
+| bip_39_word_new_br_9 | bind<br>enemy<br>ramp<br>pumpkin<br>under<br>black<br>picnic<br>oven<br>wine |  
+| bip_39_word_new_line_1 | bind |  
+| bip_39_word_new_line_10 | bind
 enemy
 ramp
 pumpkin
@@ -55,7 +55,7 @@ picnic
 oven
 wine
 law |  
-| bip_39_word_new_line11 | bind
+| bip_39_word_new_line_11 | bind
 enemy
 ramp
 pumpkin
@@ -66,7 +66,7 @@ oven
 wine
 law
 program |  
-| bip_39_word_new_line12 | bind
+| bip_39_word_new_line_12 | bind
 enemy
 ramp
 pumpkin
@@ -78,34 +78,34 @@ wine
 law
 program
 ankle |  
-| bip_39_word_new_line2 | bind
+| bip_39_word_new_line_2 | bind
 enemy |  
-| bip_39_word_new_line3 | bind
+| bip_39_word_new_line_3 | bind
 enemy
 ramp |  
-| bip_39_word_new_line4 | bind
+| bip_39_word_new_line_4 | bind
 enemy
 ramp
 pumpkin |  
-| bip_39_word_new_line5 | bind
+| bip_39_word_new_line_5 | bind
 enemy
 ramp
 pumpkin
 under |  
-| bip_39_word_new_line6 | bind
+| bip_39_word_new_line_6 | bind
 enemy
 ramp
 pumpkin
 under
 black |  
-| bip_39_word_new_line7 | bind
+| bip_39_word_new_line_7 | bind
 enemy
 ramp
 pumpkin
 under
 black
 picnic |  
-| bip_39_word_new_line8 | bind
+| bip_39_word_new_line_8 | bind
 enemy
 ramp
 pumpkin
@@ -113,7 +113,7 @@ under
 black
 picnic
 oven |  
-| bip_39_word_new_line9 | bind
+| bip_39_word_new_line_9 | bind
 enemy
 ramp
 pumpkin

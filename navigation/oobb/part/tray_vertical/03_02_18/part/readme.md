@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | burst |  
-| bip_39_word_new_br10 | burst<br>soul<br>stable<br>lumber<br>repair<br>few<br>street<br>ask<br>offer<br>winter |  
-| bip_39_word_new_br11 | burst<br>soul<br>stable<br>lumber<br>repair<br>few<br>street<br>ask<br>offer<br>winter<br>accident |  
-| bip_39_word_new_br12 | burst<br>soul<br>stable<br>lumber<br>repair<br>few<br>street<br>ask<br>offer<br>winter<br>accident<br>anxiety |  
-| bip_39_word_new_br2 | burst<br>soul |  
-| bip_39_word_new_br3 | burst<br>soul<br>stable |  
-| bip_39_word_new_br4 | burst<br>soul<br>stable<br>lumber |  
-| bip_39_word_new_br5 | burst<br>soul<br>stable<br>lumber<br>repair |  
-| bip_39_word_new_br6 | burst<br>soul<br>stable<br>lumber<br>repair<br>few |  
-| bip_39_word_new_br7 | burst<br>soul<br>stable<br>lumber<br>repair<br>few<br>street |  
-| bip_39_word_new_br8 | burst<br>soul<br>stable<br>lumber<br>repair<br>few<br>street<br>ask |  
-| bip_39_word_new_br9 | burst<br>soul<br>stable<br>lumber<br>repair<br>few<br>street<br>ask<br>offer |  
-| bip_39_word_new_line1 | burst |  
-| bip_39_word_new_line10 | burst
+| bip_39_word_new_br_1 | burst |  
+| bip_39_word_new_br_10 | burst<br>soul<br>stable<br>lumber<br>repair<br>few<br>street<br>ask<br>offer<br>winter |  
+| bip_39_word_new_br_11 | burst<br>soul<br>stable<br>lumber<br>repair<br>few<br>street<br>ask<br>offer<br>winter<br>accident |  
+| bip_39_word_new_br_12 | burst<br>soul<br>stable<br>lumber<br>repair<br>few<br>street<br>ask<br>offer<br>winter<br>accident<br>anxiety |  
+| bip_39_word_new_br_2 | burst<br>soul |  
+| bip_39_word_new_br_3 | burst<br>soul<br>stable |  
+| bip_39_word_new_br_4 | burst<br>soul<br>stable<br>lumber |  
+| bip_39_word_new_br_5 | burst<br>soul<br>stable<br>lumber<br>repair |  
+| bip_39_word_new_br_6 | burst<br>soul<br>stable<br>lumber<br>repair<br>few |  
+| bip_39_word_new_br_7 | burst<br>soul<br>stable<br>lumber<br>repair<br>few<br>street |  
+| bip_39_word_new_br_8 | burst<br>soul<br>stable<br>lumber<br>repair<br>few<br>street<br>ask |  
+| bip_39_word_new_br_9 | burst<br>soul<br>stable<br>lumber<br>repair<br>few<br>street<br>ask<br>offer |  
+| bip_39_word_new_line_1 | burst |  
+| bip_39_word_new_line_10 | burst
 soul
 stable
 lumber
@@ -55,7 +55,7 @@ street
 ask
 offer
 winter |  
-| bip_39_word_new_line11 | burst
+| bip_39_word_new_line_11 | burst
 soul
 stable
 lumber
@@ -66,7 +66,7 @@ ask
 offer
 winter
 accident |  
-| bip_39_word_new_line12 | burst
+| bip_39_word_new_line_12 | burst
 soul
 stable
 lumber
@@ -78,34 +78,34 @@ offer
 winter
 accident
 anxiety |  
-| bip_39_word_new_line2 | burst
+| bip_39_word_new_line_2 | burst
 soul |  
-| bip_39_word_new_line3 | burst
+| bip_39_word_new_line_3 | burst
 soul
 stable |  
-| bip_39_word_new_line4 | burst
+| bip_39_word_new_line_4 | burst
 soul
 stable
 lumber |  
-| bip_39_word_new_line5 | burst
+| bip_39_word_new_line_5 | burst
 soul
 stable
 lumber
 repair |  
-| bip_39_word_new_line6 | burst
+| bip_39_word_new_line_6 | burst
 soul
 stable
 lumber
 repair
 few |  
-| bip_39_word_new_line7 | burst
+| bip_39_word_new_line_7 | burst
 soul
 stable
 lumber
 repair
 few
 street |  
-| bip_39_word_new_line8 | burst
+| bip_39_word_new_line_8 | burst
 soul
 stable
 lumber
@@ -113,7 +113,7 @@ repair
 few
 street
 ask |  
-| bip_39_word_new_line9 | burst
+| bip_39_word_new_line_9 | burst
 soul
 stable
 lumber

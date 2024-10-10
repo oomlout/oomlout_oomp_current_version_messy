@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | depart |  
-| bip_39_word_new_br10 | depart<br>drum<br>cherry<br>pledge<br>ignore<br>design<br>weapon<br>document<br>minimum<br>trash |  
-| bip_39_word_new_br11 | depart<br>drum<br>cherry<br>pledge<br>ignore<br>design<br>weapon<br>document<br>minimum<br>trash<br>favorite |  
-| bip_39_word_new_br12 | depart<br>drum<br>cherry<br>pledge<br>ignore<br>design<br>weapon<br>document<br>minimum<br>trash<br>favorite<br>art |  
-| bip_39_word_new_br2 | depart<br>drum |  
-| bip_39_word_new_br3 | depart<br>drum<br>cherry |  
-| bip_39_word_new_br4 | depart<br>drum<br>cherry<br>pledge |  
-| bip_39_word_new_br5 | depart<br>drum<br>cherry<br>pledge<br>ignore |  
-| bip_39_word_new_br6 | depart<br>drum<br>cherry<br>pledge<br>ignore<br>design |  
-| bip_39_word_new_br7 | depart<br>drum<br>cherry<br>pledge<br>ignore<br>design<br>weapon |  
-| bip_39_word_new_br8 | depart<br>drum<br>cherry<br>pledge<br>ignore<br>design<br>weapon<br>document |  
-| bip_39_word_new_br9 | depart<br>drum<br>cherry<br>pledge<br>ignore<br>design<br>weapon<br>document<br>minimum |  
-| bip_39_word_new_line1 | depart |  
-| bip_39_word_new_line10 | depart
+| bip_39_word_new_br_1 | depart |  
+| bip_39_word_new_br_10 | depart<br>drum<br>cherry<br>pledge<br>ignore<br>design<br>weapon<br>document<br>minimum<br>trash |  
+| bip_39_word_new_br_11 | depart<br>drum<br>cherry<br>pledge<br>ignore<br>design<br>weapon<br>document<br>minimum<br>trash<br>favorite |  
+| bip_39_word_new_br_12 | depart<br>drum<br>cherry<br>pledge<br>ignore<br>design<br>weapon<br>document<br>minimum<br>trash<br>favorite<br>art |  
+| bip_39_word_new_br_2 | depart<br>drum |  
+| bip_39_word_new_br_3 | depart<br>drum<br>cherry |  
+| bip_39_word_new_br_4 | depart<br>drum<br>cherry<br>pledge |  
+| bip_39_word_new_br_5 | depart<br>drum<br>cherry<br>pledge<br>ignore |  
+| bip_39_word_new_br_6 | depart<br>drum<br>cherry<br>pledge<br>ignore<br>design |  
+| bip_39_word_new_br_7 | depart<br>drum<br>cherry<br>pledge<br>ignore<br>design<br>weapon |  
+| bip_39_word_new_br_8 | depart<br>drum<br>cherry<br>pledge<br>ignore<br>design<br>weapon<br>document |  
+| bip_39_word_new_br_9 | depart<br>drum<br>cherry<br>pledge<br>ignore<br>design<br>weapon<br>document<br>minimum |  
+| bip_39_word_new_line_1 | depart |  
+| bip_39_word_new_line_10 | depart
 drum
 cherry
 pledge
@@ -55,7 +55,7 @@ weapon
 document
 minimum
 trash |  
-| bip_39_word_new_line11 | depart
+| bip_39_word_new_line_11 | depart
 drum
 cherry
 pledge
@@ -66,7 +66,7 @@ document
 minimum
 trash
 favorite |  
-| bip_39_word_new_line12 | depart
+| bip_39_word_new_line_12 | depart
 drum
 cherry
 pledge
@@ -78,34 +78,34 @@ minimum
 trash
 favorite
 art |  
-| bip_39_word_new_line2 | depart
+| bip_39_word_new_line_2 | depart
 drum |  
-| bip_39_word_new_line3 | depart
+| bip_39_word_new_line_3 | depart
 drum
 cherry |  
-| bip_39_word_new_line4 | depart
+| bip_39_word_new_line_4 | depart
 drum
 cherry
 pledge |  
-| bip_39_word_new_line5 | depart
+| bip_39_word_new_line_5 | depart
 drum
 cherry
 pledge
 ignore |  
-| bip_39_word_new_line6 | depart
+| bip_39_word_new_line_6 | depart
 drum
 cherry
 pledge
 ignore
 design |  
-| bip_39_word_new_line7 | depart
+| bip_39_word_new_line_7 | depart
 drum
 cherry
 pledge
 ignore
 design
 weapon |  
-| bip_39_word_new_line8 | depart
+| bip_39_word_new_line_8 | depart
 drum
 cherry
 pledge
@@ -113,7 +113,7 @@ ignore
 design
 weapon
 document |  
-| bip_39_word_new_line9 | depart
+| bip_39_word_new_line_9 | depart
 drum
 cherry
 pledge

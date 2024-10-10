@@ -1,16 +1,16 @@
-bip_39_word_new_br1: weasel
-bip_39_word_new_br10: weasel<br>hair<br>notable<br>put<br>miss<br>giraffe<br>fold<br>lemon<br>nephew<br>remain
-bip_39_word_new_br11: weasel<br>hair<br>notable<br>put<br>miss<br>giraffe<br>fold<br>lemon<br>nephew<br>remain<br>flavor
-bip_39_word_new_br2: weasel<br>hair
-bip_39_word_new_br3: weasel<br>hair<br>notable
-bip_39_word_new_br4: weasel<br>hair<br>notable<br>put
-bip_39_word_new_br5: weasel<br>hair<br>notable<br>put<br>miss
-bip_39_word_new_br6: weasel<br>hair<br>notable<br>put<br>miss<br>giraffe
-bip_39_word_new_br7: weasel<br>hair<br>notable<br>put<br>miss<br>giraffe<br>fold
-bip_39_word_new_br8: weasel<br>hair<br>notable<br>put<br>miss<br>giraffe<br>fold<br>lemon
-bip_39_word_new_br9: weasel<br>hair<br>notable<br>put<br>miss<br>giraffe<br>fold<br>lemon<br>nephew
-bip_39_word_new_line1: weasel
-bip_39_word_new_line10: 'weasel
+bip_39_word_new_br_1: weasel
+bip_39_word_new_br_10: weasel<br>hair<br>notable<br>put<br>miss<br>giraffe<br>fold<br>lemon<br>nephew<br>remain
+bip_39_word_new_br_11: weasel<br>hair<br>notable<br>put<br>miss<br>giraffe<br>fold<br>lemon<br>nephew<br>remain<br>flavor
+bip_39_word_new_br_2: weasel<br>hair
+bip_39_word_new_br_3: weasel<br>hair<br>notable
+bip_39_word_new_br_4: weasel<br>hair<br>notable<br>put
+bip_39_word_new_br_5: weasel<br>hair<br>notable<br>put<br>miss
+bip_39_word_new_br_6: weasel<br>hair<br>notable<br>put<br>miss<br>giraffe
+bip_39_word_new_br_7: weasel<br>hair<br>notable<br>put<br>miss<br>giraffe<br>fold
+bip_39_word_new_br_8: weasel<br>hair<br>notable<br>put<br>miss<br>giraffe<br>fold<br>lemon
+bip_39_word_new_br_9: weasel<br>hair<br>notable<br>put<br>miss<br>giraffe<br>fold<br>lemon<br>nephew
+bip_39_word_new_line_1: weasel
+bip_39_word_new_line_10: 'weasel
 
   hair
 
@@ -29,7 +29,7 @@ bip_39_word_new_line10: 'weasel
   nephew
 
   remain'
-bip_39_word_new_line11: 'weasel
+bip_39_word_new_line_11: 'weasel
 
   hair
 
@@ -50,22 +50,22 @@ bip_39_word_new_line11: 'weasel
   remain
 
   flavor'
-bip_39_word_new_line2: 'weasel
+bip_39_word_new_line_2: 'weasel
 
   hair'
-bip_39_word_new_line3: 'weasel
+bip_39_word_new_line_3: 'weasel
 
   hair
 
   notable'
-bip_39_word_new_line4: 'weasel
+bip_39_word_new_line_4: 'weasel
 
   hair
 
   notable
 
   put'
-bip_39_word_new_line5: 'weasel
+bip_39_word_new_line_5: 'weasel
 
   hair
 
@@ -74,7 +74,7 @@ bip_39_word_new_line5: 'weasel
   put
 
   miss'
-bip_39_word_new_line6: 'weasel
+bip_39_word_new_line_6: 'weasel
 
   hair
 
@@ -85,7 +85,7 @@ bip_39_word_new_line6: 'weasel
   miss
 
   giraffe'
-bip_39_word_new_line7: 'weasel
+bip_39_word_new_line_7: 'weasel
 
   hair
 
@@ -98,7 +98,7 @@ bip_39_word_new_line7: 'weasel
   giraffe
 
   fold'
-bip_39_word_new_line8: 'weasel
+bip_39_word_new_line_8: 'weasel
 
   hair
 
@@ -113,7 +113,7 @@ bip_39_word_new_line8: 'weasel
   fold
 
   lemon'
-bip_39_word_new_line9: 'weasel
+bip_39_word_new_line_9: 'weasel
 
   hair
 

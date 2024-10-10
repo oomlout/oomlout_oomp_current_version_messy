@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | spin |  
-| bip_39_word_new_br10 | spin<br>dawn<br>staff<br>save<br>letter<br>scene<br>umbrella<br>siren<br>another<br>bunker |  
-| bip_39_word_new_br11 | spin<br>dawn<br>staff<br>save<br>letter<br>scene<br>umbrella<br>siren<br>another<br>bunker<br>health |  
-| bip_39_word_new_br12 | spin<br>dawn<br>staff<br>save<br>letter<br>scene<br>umbrella<br>siren<br>another<br>bunker<br>health<br>anchor |  
-| bip_39_word_new_br2 | spin<br>dawn |  
-| bip_39_word_new_br3 | spin<br>dawn<br>staff |  
-| bip_39_word_new_br4 | spin<br>dawn<br>staff<br>save |  
-| bip_39_word_new_br5 | spin<br>dawn<br>staff<br>save<br>letter |  
-| bip_39_word_new_br6 | spin<br>dawn<br>staff<br>save<br>letter<br>scene |  
-| bip_39_word_new_br7 | spin<br>dawn<br>staff<br>save<br>letter<br>scene<br>umbrella |  
-| bip_39_word_new_br8 | spin<br>dawn<br>staff<br>save<br>letter<br>scene<br>umbrella<br>siren |  
-| bip_39_word_new_br9 | spin<br>dawn<br>staff<br>save<br>letter<br>scene<br>umbrella<br>siren<br>another |  
-| bip_39_word_new_line1 | spin |  
-| bip_39_word_new_line10 | spin
+| bip_39_word_new_br_1 | spin |  
+| bip_39_word_new_br_10 | spin<br>dawn<br>staff<br>save<br>letter<br>scene<br>umbrella<br>siren<br>another<br>bunker |  
+| bip_39_word_new_br_11 | spin<br>dawn<br>staff<br>save<br>letter<br>scene<br>umbrella<br>siren<br>another<br>bunker<br>health |  
+| bip_39_word_new_br_12 | spin<br>dawn<br>staff<br>save<br>letter<br>scene<br>umbrella<br>siren<br>another<br>bunker<br>health<br>anchor |  
+| bip_39_word_new_br_2 | spin<br>dawn |  
+| bip_39_word_new_br_3 | spin<br>dawn<br>staff |  
+| bip_39_word_new_br_4 | spin<br>dawn<br>staff<br>save |  
+| bip_39_word_new_br_5 | spin<br>dawn<br>staff<br>save<br>letter |  
+| bip_39_word_new_br_6 | spin<br>dawn<br>staff<br>save<br>letter<br>scene |  
+| bip_39_word_new_br_7 | spin<br>dawn<br>staff<br>save<br>letter<br>scene<br>umbrella |  
+| bip_39_word_new_br_8 | spin<br>dawn<br>staff<br>save<br>letter<br>scene<br>umbrella<br>siren |  
+| bip_39_word_new_br_9 | spin<br>dawn<br>staff<br>save<br>letter<br>scene<br>umbrella<br>siren<br>another |  
+| bip_39_word_new_line_1 | spin |  
+| bip_39_word_new_line_10 | spin
 dawn
 staff
 save
@@ -55,7 +55,7 @@ umbrella
 siren
 another
 bunker |  
-| bip_39_word_new_line11 | spin
+| bip_39_word_new_line_11 | spin
 dawn
 staff
 save
@@ -66,7 +66,7 @@ siren
 another
 bunker
 health |  
-| bip_39_word_new_line12 | spin
+| bip_39_word_new_line_12 | spin
 dawn
 staff
 save
@@ -78,34 +78,34 @@ another
 bunker
 health
 anchor |  
-| bip_39_word_new_line2 | spin
+| bip_39_word_new_line_2 | spin
 dawn |  
-| bip_39_word_new_line3 | spin
+| bip_39_word_new_line_3 | spin
 dawn
 staff |  
-| bip_39_word_new_line4 | spin
+| bip_39_word_new_line_4 | spin
 dawn
 staff
 save |  
-| bip_39_word_new_line5 | spin
+| bip_39_word_new_line_5 | spin
 dawn
 staff
 save
 letter |  
-| bip_39_word_new_line6 | spin
+| bip_39_word_new_line_6 | spin
 dawn
 staff
 save
 letter
 scene |  
-| bip_39_word_new_line7 | spin
+| bip_39_word_new_line_7 | spin
 dawn
 staff
 save
 letter
 scene
 umbrella |  
-| bip_39_word_new_line8 | spin
+| bip_39_word_new_line_8 | spin
 dawn
 staff
 save
@@ -113,7 +113,7 @@ letter
 scene
 umbrella
 siren |  
-| bip_39_word_new_line9 | spin
+| bip_39_word_new_line_9 | spin
 dawn
 staff
 save

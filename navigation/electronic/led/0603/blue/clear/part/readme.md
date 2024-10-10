@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | great |  
-| bip_39_word_new_br10 | great<br>then<br>base<br>vessel<br>aware<br>brisk<br>fat<br>pass<br>despair<br>stick |  
-| bip_39_word_new_br11 | great<br>then<br>base<br>vessel<br>aware<br>brisk<br>fat<br>pass<br>despair<br>stick<br>apology |  
-| bip_39_word_new_br12 | great<br>then<br>base<br>vessel<br>aware<br>brisk<br>fat<br>pass<br>despair<br>stick<br>apology<br>able |  
-| bip_39_word_new_br2 | great<br>then |  
-| bip_39_word_new_br3 | great<br>then<br>base |  
-| bip_39_word_new_br4 | great<br>then<br>base<br>vessel |  
-| bip_39_word_new_br5 | great<br>then<br>base<br>vessel<br>aware |  
-| bip_39_word_new_br6 | great<br>then<br>base<br>vessel<br>aware<br>brisk |  
-| bip_39_word_new_br7 | great<br>then<br>base<br>vessel<br>aware<br>brisk<br>fat |  
-| bip_39_word_new_br8 | great<br>then<br>base<br>vessel<br>aware<br>brisk<br>fat<br>pass |  
-| bip_39_word_new_br9 | great<br>then<br>base<br>vessel<br>aware<br>brisk<br>fat<br>pass<br>despair |  
-| bip_39_word_new_line1 | great |  
-| bip_39_word_new_line10 | great
+| bip_39_word_new_br_1 | great |  
+| bip_39_word_new_br_10 | great<br>then<br>base<br>vessel<br>aware<br>brisk<br>fat<br>pass<br>despair<br>stick |  
+| bip_39_word_new_br_11 | great<br>then<br>base<br>vessel<br>aware<br>brisk<br>fat<br>pass<br>despair<br>stick<br>apology |  
+| bip_39_word_new_br_12 | great<br>then<br>base<br>vessel<br>aware<br>brisk<br>fat<br>pass<br>despair<br>stick<br>apology<br>able |  
+| bip_39_word_new_br_2 | great<br>then |  
+| bip_39_word_new_br_3 | great<br>then<br>base |  
+| bip_39_word_new_br_4 | great<br>then<br>base<br>vessel |  
+| bip_39_word_new_br_5 | great<br>then<br>base<br>vessel<br>aware |  
+| bip_39_word_new_br_6 | great<br>then<br>base<br>vessel<br>aware<br>brisk |  
+| bip_39_word_new_br_7 | great<br>then<br>base<br>vessel<br>aware<br>brisk<br>fat |  
+| bip_39_word_new_br_8 | great<br>then<br>base<br>vessel<br>aware<br>brisk<br>fat<br>pass |  
+| bip_39_word_new_br_9 | great<br>then<br>base<br>vessel<br>aware<br>brisk<br>fat<br>pass<br>despair |  
+| bip_39_word_new_line_1 | great |  
+| bip_39_word_new_line_10 | great
 then
 base
 vessel
@@ -55,7 +55,7 @@ fat
 pass
 despair
 stick |  
-| bip_39_word_new_line11 | great
+| bip_39_word_new_line_11 | great
 then
 base
 vessel
@@ -66,7 +66,7 @@ pass
 despair
 stick
 apology |  
-| bip_39_word_new_line12 | great
+| bip_39_word_new_line_12 | great
 then
 base
 vessel
@@ -78,34 +78,34 @@ despair
 stick
 apology
 able |  
-| bip_39_word_new_line2 | great
+| bip_39_word_new_line_2 | great
 then |  
-| bip_39_word_new_line3 | great
+| bip_39_word_new_line_3 | great
 then
 base |  
-| bip_39_word_new_line4 | great
+| bip_39_word_new_line_4 | great
 then
 base
 vessel |  
-| bip_39_word_new_line5 | great
+| bip_39_word_new_line_5 | great
 then
 base
 vessel
 aware |  
-| bip_39_word_new_line6 | great
+| bip_39_word_new_line_6 | great
 then
 base
 vessel
 aware
 brisk |  
-| bip_39_word_new_line7 | great
+| bip_39_word_new_line_7 | great
 then
 base
 vessel
 aware
 brisk
 fat |  
-| bip_39_word_new_line8 | great
+| bip_39_word_new_line_8 | great
 then
 base
 vessel
@@ -113,7 +113,7 @@ aware
 brisk
 fat
 pass |  
-| bip_39_word_new_line9 | great
+| bip_39_word_new_line_9 | great
 then
 base
 vessel

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | resemble |  
-| bip_39_word_new_br10 | resemble<br>purse<br>drastic<br>trap<br>neck<br>citizen<br>soft<br>own<br>stem<br>update |  
-| bip_39_word_new_br11 | resemble<br>purse<br>drastic<br>trap<br>neck<br>citizen<br>soft<br>own<br>stem<br>update<br>much |  
-| bip_39_word_new_br12 | resemble<br>purse<br>drastic<br>trap<br>neck<br>citizen<br>soft<br>own<br>stem<br>update<br>much<br>admit |  
-| bip_39_word_new_br2 | resemble<br>purse |  
-| bip_39_word_new_br3 | resemble<br>purse<br>drastic |  
-| bip_39_word_new_br4 | resemble<br>purse<br>drastic<br>trap |  
-| bip_39_word_new_br5 | resemble<br>purse<br>drastic<br>trap<br>neck |  
-| bip_39_word_new_br6 | resemble<br>purse<br>drastic<br>trap<br>neck<br>citizen |  
-| bip_39_word_new_br7 | resemble<br>purse<br>drastic<br>trap<br>neck<br>citizen<br>soft |  
-| bip_39_word_new_br8 | resemble<br>purse<br>drastic<br>trap<br>neck<br>citizen<br>soft<br>own |  
-| bip_39_word_new_br9 | resemble<br>purse<br>drastic<br>trap<br>neck<br>citizen<br>soft<br>own<br>stem |  
-| bip_39_word_new_line1 | resemble |  
-| bip_39_word_new_line10 | resemble
+| bip_39_word_new_br_1 | resemble |  
+| bip_39_word_new_br_10 | resemble<br>purse<br>drastic<br>trap<br>neck<br>citizen<br>soft<br>own<br>stem<br>update |  
+| bip_39_word_new_br_11 | resemble<br>purse<br>drastic<br>trap<br>neck<br>citizen<br>soft<br>own<br>stem<br>update<br>much |  
+| bip_39_word_new_br_12 | resemble<br>purse<br>drastic<br>trap<br>neck<br>citizen<br>soft<br>own<br>stem<br>update<br>much<br>admit |  
+| bip_39_word_new_br_2 | resemble<br>purse |  
+| bip_39_word_new_br_3 | resemble<br>purse<br>drastic |  
+| bip_39_word_new_br_4 | resemble<br>purse<br>drastic<br>trap |  
+| bip_39_word_new_br_5 | resemble<br>purse<br>drastic<br>trap<br>neck |  
+| bip_39_word_new_br_6 | resemble<br>purse<br>drastic<br>trap<br>neck<br>citizen |  
+| bip_39_word_new_br_7 | resemble<br>purse<br>drastic<br>trap<br>neck<br>citizen<br>soft |  
+| bip_39_word_new_br_8 | resemble<br>purse<br>drastic<br>trap<br>neck<br>citizen<br>soft<br>own |  
+| bip_39_word_new_br_9 | resemble<br>purse<br>drastic<br>trap<br>neck<br>citizen<br>soft<br>own<br>stem |  
+| bip_39_word_new_line_1 | resemble |  
+| bip_39_word_new_line_10 | resemble
 purse
 drastic
 trap
@@ -55,7 +55,7 @@ soft
 own
 stem
 update |  
-| bip_39_word_new_line11 | resemble
+| bip_39_word_new_line_11 | resemble
 purse
 drastic
 trap
@@ -66,7 +66,7 @@ own
 stem
 update
 much |  
-| bip_39_word_new_line12 | resemble
+| bip_39_word_new_line_12 | resemble
 purse
 drastic
 trap
@@ -78,34 +78,34 @@ stem
 update
 much
 admit |  
-| bip_39_word_new_line2 | resemble
+| bip_39_word_new_line_2 | resemble
 purse |  
-| bip_39_word_new_line3 | resemble
+| bip_39_word_new_line_3 | resemble
 purse
 drastic |  
-| bip_39_word_new_line4 | resemble
+| bip_39_word_new_line_4 | resemble
 purse
 drastic
 trap |  
-| bip_39_word_new_line5 | resemble
+| bip_39_word_new_line_5 | resemble
 purse
 drastic
 trap
 neck |  
-| bip_39_word_new_line6 | resemble
+| bip_39_word_new_line_6 | resemble
 purse
 drastic
 trap
 neck
 citizen |  
-| bip_39_word_new_line7 | resemble
+| bip_39_word_new_line_7 | resemble
 purse
 drastic
 trap
 neck
 citizen
 soft |  
-| bip_39_word_new_line8 | resemble
+| bip_39_word_new_line_8 | resemble
 purse
 drastic
 trap
@@ -113,7 +113,7 @@ neck
 citizen
 soft
 own |  
-| bip_39_word_new_line9 | resemble
+| bip_39_word_new_line_9 | resemble
 purse
 drastic
 trap

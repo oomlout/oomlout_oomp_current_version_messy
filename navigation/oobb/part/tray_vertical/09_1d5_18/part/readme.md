@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | author |  
-| bip_39_word_new_br10 | author<br>exotic<br>curtain<br>culture<br>mother<br>pledge<br>finger<br>settle<br>deputy<br>amazing |  
-| bip_39_word_new_br11 | author<br>exotic<br>curtain<br>culture<br>mother<br>pledge<br>finger<br>settle<br>deputy<br>amazing<br>dolphin |  
-| bip_39_word_new_br12 | author<br>exotic<br>curtain<br>culture<br>mother<br>pledge<br>finger<br>settle<br>deputy<br>amazing<br>dolphin<br>absurd |  
-| bip_39_word_new_br2 | author<br>exotic |  
-| bip_39_word_new_br3 | author<br>exotic<br>curtain |  
-| bip_39_word_new_br4 | author<br>exotic<br>curtain<br>culture |  
-| bip_39_word_new_br5 | author<br>exotic<br>curtain<br>culture<br>mother |  
-| bip_39_word_new_br6 | author<br>exotic<br>curtain<br>culture<br>mother<br>pledge |  
-| bip_39_word_new_br7 | author<br>exotic<br>curtain<br>culture<br>mother<br>pledge<br>finger |  
-| bip_39_word_new_br8 | author<br>exotic<br>curtain<br>culture<br>mother<br>pledge<br>finger<br>settle |  
-| bip_39_word_new_br9 | author<br>exotic<br>curtain<br>culture<br>mother<br>pledge<br>finger<br>settle<br>deputy |  
-| bip_39_word_new_line1 | author |  
-| bip_39_word_new_line10 | author
+| bip_39_word_new_br_1 | author |  
+| bip_39_word_new_br_10 | author<br>exotic<br>curtain<br>culture<br>mother<br>pledge<br>finger<br>settle<br>deputy<br>amazing |  
+| bip_39_word_new_br_11 | author<br>exotic<br>curtain<br>culture<br>mother<br>pledge<br>finger<br>settle<br>deputy<br>amazing<br>dolphin |  
+| bip_39_word_new_br_12 | author<br>exotic<br>curtain<br>culture<br>mother<br>pledge<br>finger<br>settle<br>deputy<br>amazing<br>dolphin<br>absurd |  
+| bip_39_word_new_br_2 | author<br>exotic |  
+| bip_39_word_new_br_3 | author<br>exotic<br>curtain |  
+| bip_39_word_new_br_4 | author<br>exotic<br>curtain<br>culture |  
+| bip_39_word_new_br_5 | author<br>exotic<br>curtain<br>culture<br>mother |  
+| bip_39_word_new_br_6 | author<br>exotic<br>curtain<br>culture<br>mother<br>pledge |  
+| bip_39_word_new_br_7 | author<br>exotic<br>curtain<br>culture<br>mother<br>pledge<br>finger |  
+| bip_39_word_new_br_8 | author<br>exotic<br>curtain<br>culture<br>mother<br>pledge<br>finger<br>settle |  
+| bip_39_word_new_br_9 | author<br>exotic<br>curtain<br>culture<br>mother<br>pledge<br>finger<br>settle<br>deputy |  
+| bip_39_word_new_line_1 | author |  
+| bip_39_word_new_line_10 | author
 exotic
 curtain
 culture
@@ -55,7 +55,7 @@ finger
 settle
 deputy
 amazing |  
-| bip_39_word_new_line11 | author
+| bip_39_word_new_line_11 | author
 exotic
 curtain
 culture
@@ -66,7 +66,7 @@ settle
 deputy
 amazing
 dolphin |  
-| bip_39_word_new_line12 | author
+| bip_39_word_new_line_12 | author
 exotic
 curtain
 culture
@@ -78,34 +78,34 @@ deputy
 amazing
 dolphin
 absurd |  
-| bip_39_word_new_line2 | author
+| bip_39_word_new_line_2 | author
 exotic |  
-| bip_39_word_new_line3 | author
+| bip_39_word_new_line_3 | author
 exotic
 curtain |  
-| bip_39_word_new_line4 | author
+| bip_39_word_new_line_4 | author
 exotic
 curtain
 culture |  
-| bip_39_word_new_line5 | author
+| bip_39_word_new_line_5 | author
 exotic
 curtain
 culture
 mother |  
-| bip_39_word_new_line6 | author
+| bip_39_word_new_line_6 | author
 exotic
 curtain
 culture
 mother
 pledge |  
-| bip_39_word_new_line7 | author
+| bip_39_word_new_line_7 | author
 exotic
 curtain
 culture
 mother
 pledge
 finger |  
-| bip_39_word_new_line8 | author
+| bip_39_word_new_line_8 | author
 exotic
 curtain
 culture
@@ -113,7 +113,7 @@ mother
 pledge
 finger
 settle |  
-| bip_39_word_new_line9 | author
+| bip_39_word_new_line_9 | author
 exotic
 curtain
 culture

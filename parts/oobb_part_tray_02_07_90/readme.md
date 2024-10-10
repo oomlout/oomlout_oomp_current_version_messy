@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | casual |  
-| bip_39_word_new_br10 | casual<br>chronic<br>anxiety<br>concert<br>capital<br>file<br>health<br>cream<br>pistol<br>front |  
-| bip_39_word_new_br11 | casual<br>chronic<br>anxiety<br>concert<br>capital<br>file<br>health<br>cream<br>pistol<br>front<br>salon |  
-| bip_39_word_new_br12 | casual<br>chronic<br>anxiety<br>concert<br>capital<br>file<br>health<br>cream<br>pistol<br>front<br>salon<br>alter |  
-| bip_39_word_new_br2 | casual<br>chronic |  
-| bip_39_word_new_br3 | casual<br>chronic<br>anxiety |  
-| bip_39_word_new_br4 | casual<br>chronic<br>anxiety<br>concert |  
-| bip_39_word_new_br5 | casual<br>chronic<br>anxiety<br>concert<br>capital |  
-| bip_39_word_new_br6 | casual<br>chronic<br>anxiety<br>concert<br>capital<br>file |  
-| bip_39_word_new_br7 | casual<br>chronic<br>anxiety<br>concert<br>capital<br>file<br>health |  
-| bip_39_word_new_br8 | casual<br>chronic<br>anxiety<br>concert<br>capital<br>file<br>health<br>cream |  
-| bip_39_word_new_br9 | casual<br>chronic<br>anxiety<br>concert<br>capital<br>file<br>health<br>cream<br>pistol |  
-| bip_39_word_new_line1 | casual |  
-| bip_39_word_new_line10 | casual
+| bip_39_word_new_br_1 | casual |  
+| bip_39_word_new_br_10 | casual<br>chronic<br>anxiety<br>concert<br>capital<br>file<br>health<br>cream<br>pistol<br>front |  
+| bip_39_word_new_br_11 | casual<br>chronic<br>anxiety<br>concert<br>capital<br>file<br>health<br>cream<br>pistol<br>front<br>salon |  
+| bip_39_word_new_br_12 | casual<br>chronic<br>anxiety<br>concert<br>capital<br>file<br>health<br>cream<br>pistol<br>front<br>salon<br>alter |  
+| bip_39_word_new_br_2 | casual<br>chronic |  
+| bip_39_word_new_br_3 | casual<br>chronic<br>anxiety |  
+| bip_39_word_new_br_4 | casual<br>chronic<br>anxiety<br>concert |  
+| bip_39_word_new_br_5 | casual<br>chronic<br>anxiety<br>concert<br>capital |  
+| bip_39_word_new_br_6 | casual<br>chronic<br>anxiety<br>concert<br>capital<br>file |  
+| bip_39_word_new_br_7 | casual<br>chronic<br>anxiety<br>concert<br>capital<br>file<br>health |  
+| bip_39_word_new_br_8 | casual<br>chronic<br>anxiety<br>concert<br>capital<br>file<br>health<br>cream |  
+| bip_39_word_new_br_9 | casual<br>chronic<br>anxiety<br>concert<br>capital<br>file<br>health<br>cream<br>pistol |  
+| bip_39_word_new_line_1 | casual |  
+| bip_39_word_new_line_10 | casual
 chronic
 anxiety
 concert
@@ -55,7 +55,7 @@ health
 cream
 pistol
 front |  
-| bip_39_word_new_line11 | casual
+| bip_39_word_new_line_11 | casual
 chronic
 anxiety
 concert
@@ -66,7 +66,7 @@ cream
 pistol
 front
 salon |  
-| bip_39_word_new_line12 | casual
+| bip_39_word_new_line_12 | casual
 chronic
 anxiety
 concert
@@ -78,34 +78,34 @@ pistol
 front
 salon
 alter |  
-| bip_39_word_new_line2 | casual
+| bip_39_word_new_line_2 | casual
 chronic |  
-| bip_39_word_new_line3 | casual
+| bip_39_word_new_line_3 | casual
 chronic
 anxiety |  
-| bip_39_word_new_line4 | casual
+| bip_39_word_new_line_4 | casual
 chronic
 anxiety
 concert |  
-| bip_39_word_new_line5 | casual
+| bip_39_word_new_line_5 | casual
 chronic
 anxiety
 concert
 capital |  
-| bip_39_word_new_line6 | casual
+| bip_39_word_new_line_6 | casual
 chronic
 anxiety
 concert
 capital
 file |  
-| bip_39_word_new_line7 | casual
+| bip_39_word_new_line_7 | casual
 chronic
 anxiety
 concert
 capital
 file
 health |  
-| bip_39_word_new_line8 | casual
+| bip_39_word_new_line_8 | casual
 chronic
 anxiety
 concert
@@ -113,7 +113,7 @@ capital
 file
 health
 cream |  
-| bip_39_word_new_line9 | casual
+| bip_39_word_new_line_9 | casual
 chronic
 anxiety
 concert

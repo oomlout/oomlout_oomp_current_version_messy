@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | clean |  
-| bip_39_word_new_br10 | clean<br>once<br>social<br>worry<br>wisdom<br>elbow<br>engage<br>clown<br>spend<br>polar |  
-| bip_39_word_new_br11 | clean<br>once<br>social<br>worry<br>wisdom<br>elbow<br>engage<br>clown<br>spend<br>polar<br>have |  
-| bip_39_word_new_br12 | clean<br>once<br>social<br>worry<br>wisdom<br>elbow<br>engage<br>clown<br>spend<br>polar<br>have<br>again |  
-| bip_39_word_new_br2 | clean<br>once |  
-| bip_39_word_new_br3 | clean<br>once<br>social |  
-| bip_39_word_new_br4 | clean<br>once<br>social<br>worry |  
-| bip_39_word_new_br5 | clean<br>once<br>social<br>worry<br>wisdom |  
-| bip_39_word_new_br6 | clean<br>once<br>social<br>worry<br>wisdom<br>elbow |  
-| bip_39_word_new_br7 | clean<br>once<br>social<br>worry<br>wisdom<br>elbow<br>engage |  
-| bip_39_word_new_br8 | clean<br>once<br>social<br>worry<br>wisdom<br>elbow<br>engage<br>clown |  
-| bip_39_word_new_br9 | clean<br>once<br>social<br>worry<br>wisdom<br>elbow<br>engage<br>clown<br>spend |  
-| bip_39_word_new_line1 | clean |  
-| bip_39_word_new_line10 | clean
+| bip_39_word_new_br_1 | clean |  
+| bip_39_word_new_br_10 | clean<br>once<br>social<br>worry<br>wisdom<br>elbow<br>engage<br>clown<br>spend<br>polar |  
+| bip_39_word_new_br_11 | clean<br>once<br>social<br>worry<br>wisdom<br>elbow<br>engage<br>clown<br>spend<br>polar<br>have |  
+| bip_39_word_new_br_12 | clean<br>once<br>social<br>worry<br>wisdom<br>elbow<br>engage<br>clown<br>spend<br>polar<br>have<br>again |  
+| bip_39_word_new_br_2 | clean<br>once |  
+| bip_39_word_new_br_3 | clean<br>once<br>social |  
+| bip_39_word_new_br_4 | clean<br>once<br>social<br>worry |  
+| bip_39_word_new_br_5 | clean<br>once<br>social<br>worry<br>wisdom |  
+| bip_39_word_new_br_6 | clean<br>once<br>social<br>worry<br>wisdom<br>elbow |  
+| bip_39_word_new_br_7 | clean<br>once<br>social<br>worry<br>wisdom<br>elbow<br>engage |  
+| bip_39_word_new_br_8 | clean<br>once<br>social<br>worry<br>wisdom<br>elbow<br>engage<br>clown |  
+| bip_39_word_new_br_9 | clean<br>once<br>social<br>worry<br>wisdom<br>elbow<br>engage<br>clown<br>spend |  
+| bip_39_word_new_line_1 | clean |  
+| bip_39_word_new_line_10 | clean
 once
 social
 worry
@@ -55,7 +55,7 @@ engage
 clown
 spend
 polar |  
-| bip_39_word_new_line11 | clean
+| bip_39_word_new_line_11 | clean
 once
 social
 worry
@@ -66,7 +66,7 @@ clown
 spend
 polar
 have |  
-| bip_39_word_new_line12 | clean
+| bip_39_word_new_line_12 | clean
 once
 social
 worry
@@ -78,34 +78,34 @@ spend
 polar
 have
 again |  
-| bip_39_word_new_line2 | clean
+| bip_39_word_new_line_2 | clean
 once |  
-| bip_39_word_new_line3 | clean
+| bip_39_word_new_line_3 | clean
 once
 social |  
-| bip_39_word_new_line4 | clean
+| bip_39_word_new_line_4 | clean
 once
 social
 worry |  
-| bip_39_word_new_line5 | clean
+| bip_39_word_new_line_5 | clean
 once
 social
 worry
 wisdom |  
-| bip_39_word_new_line6 | clean
+| bip_39_word_new_line_6 | clean
 once
 social
 worry
 wisdom
 elbow |  
-| bip_39_word_new_line7 | clean
+| bip_39_word_new_line_7 | clean
 once
 social
 worry
 wisdom
 elbow
 engage |  
-| bip_39_word_new_line8 | clean
+| bip_39_word_new_line_8 | clean
 once
 social
 worry
@@ -113,7 +113,7 @@ wisdom
 elbow
 engage
 clown |  
-| bip_39_word_new_line9 | clean
+| bip_39_word_new_line_9 | clean
 once
 social
 worry

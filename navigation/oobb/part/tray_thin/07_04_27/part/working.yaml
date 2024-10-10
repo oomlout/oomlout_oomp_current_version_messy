@@ -1,17 +1,17 @@
-bip_39_word_new_br1: swim
-bip_39_word_new_br10: swim<br>will<br>citizen<br>crouch<br>ramp<br>they<br>glue<br>harbor<br>egg<br>hazard
-bip_39_word_new_br11: swim<br>will<br>citizen<br>crouch<br>ramp<br>they<br>glue<br>harbor<br>egg<br>hazard<br>dizzy
-bip_39_word_new_br12: swim<br>will<br>citizen<br>crouch<br>ramp<br>they<br>glue<br>harbor<br>egg<br>hazard<br>dizzy<br>actor
-bip_39_word_new_br2: swim<br>will
-bip_39_word_new_br3: swim<br>will<br>citizen
-bip_39_word_new_br4: swim<br>will<br>citizen<br>crouch
-bip_39_word_new_br5: swim<br>will<br>citizen<br>crouch<br>ramp
-bip_39_word_new_br6: swim<br>will<br>citizen<br>crouch<br>ramp<br>they
-bip_39_word_new_br7: swim<br>will<br>citizen<br>crouch<br>ramp<br>they<br>glue
-bip_39_word_new_br8: swim<br>will<br>citizen<br>crouch<br>ramp<br>they<br>glue<br>harbor
-bip_39_word_new_br9: swim<br>will<br>citizen<br>crouch<br>ramp<br>they<br>glue<br>harbor<br>egg
-bip_39_word_new_line1: swim
-bip_39_word_new_line10: 'swim
+bip_39_word_new_br_1: swim
+bip_39_word_new_br_10: swim<br>will<br>citizen<br>crouch<br>ramp<br>they<br>glue<br>harbor<br>egg<br>hazard
+bip_39_word_new_br_11: swim<br>will<br>citizen<br>crouch<br>ramp<br>they<br>glue<br>harbor<br>egg<br>hazard<br>dizzy
+bip_39_word_new_br_12: swim<br>will<br>citizen<br>crouch<br>ramp<br>they<br>glue<br>harbor<br>egg<br>hazard<br>dizzy<br>actor
+bip_39_word_new_br_2: swim<br>will
+bip_39_word_new_br_3: swim<br>will<br>citizen
+bip_39_word_new_br_4: swim<br>will<br>citizen<br>crouch
+bip_39_word_new_br_5: swim<br>will<br>citizen<br>crouch<br>ramp
+bip_39_word_new_br_6: swim<br>will<br>citizen<br>crouch<br>ramp<br>they
+bip_39_word_new_br_7: swim<br>will<br>citizen<br>crouch<br>ramp<br>they<br>glue
+bip_39_word_new_br_8: swim<br>will<br>citizen<br>crouch<br>ramp<br>they<br>glue<br>harbor
+bip_39_word_new_br_9: swim<br>will<br>citizen<br>crouch<br>ramp<br>they<br>glue<br>harbor<br>egg
+bip_39_word_new_line_1: swim
+bip_39_word_new_line_10: 'swim
 
   will
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'swim
   egg
 
   hazard'
-bip_39_word_new_line11: 'swim
+bip_39_word_new_line_11: 'swim
 
   will
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'swim
   hazard
 
   dizzy'
-bip_39_word_new_line12: 'swim
+bip_39_word_new_line_12: 'swim
 
   will
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'swim
   dizzy
 
   actor'
-bip_39_word_new_line2: 'swim
+bip_39_word_new_line_2: 'swim
 
   will'
-bip_39_word_new_line3: 'swim
+bip_39_word_new_line_3: 'swim
 
   will
 
   citizen'
-bip_39_word_new_line4: 'swim
+bip_39_word_new_line_4: 'swim
 
   will
 
   citizen
 
   crouch'
-bip_39_word_new_line5: 'swim
+bip_39_word_new_line_5: 'swim
 
   will
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'swim
   crouch
 
   ramp'
-bip_39_word_new_line6: 'swim
+bip_39_word_new_line_6: 'swim
 
   will
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'swim
   ramp
 
   they'
-bip_39_word_new_line7: 'swim
+bip_39_word_new_line_7: 'swim
 
   will
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'swim
   they
 
   glue'
-bip_39_word_new_line8: 'swim
+bip_39_word_new_line_8: 'swim
 
   will
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'swim
   glue
 
   harbor'
-bip_39_word_new_line9: 'swim
+bip_39_word_new_line_9: 'swim
 
   will
 

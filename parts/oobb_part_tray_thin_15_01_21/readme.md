@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | click |  
-| bip_39_word_new_br10 | click<br>cruise<br>bring<br>fox<br>leader<br>hole<br>survey<br>genius<br>city<br>pair |  
-| bip_39_word_new_br11 | click<br>cruise<br>bring<br>fox<br>leader<br>hole<br>survey<br>genius<br>city<br>pair<br>human |  
-| bip_39_word_new_br12 | click<br>cruise<br>bring<br>fox<br>leader<br>hole<br>survey<br>genius<br>city<br>pair<br>human<br>already |  
-| bip_39_word_new_br2 | click<br>cruise |  
-| bip_39_word_new_br3 | click<br>cruise<br>bring |  
-| bip_39_word_new_br4 | click<br>cruise<br>bring<br>fox |  
-| bip_39_word_new_br5 | click<br>cruise<br>bring<br>fox<br>leader |  
-| bip_39_word_new_br6 | click<br>cruise<br>bring<br>fox<br>leader<br>hole |  
-| bip_39_word_new_br7 | click<br>cruise<br>bring<br>fox<br>leader<br>hole<br>survey |  
-| bip_39_word_new_br8 | click<br>cruise<br>bring<br>fox<br>leader<br>hole<br>survey<br>genius |  
-| bip_39_word_new_br9 | click<br>cruise<br>bring<br>fox<br>leader<br>hole<br>survey<br>genius<br>city |  
-| bip_39_word_new_line1 | click |  
-| bip_39_word_new_line10 | click
+| bip_39_word_new_br_1 | click |  
+| bip_39_word_new_br_10 | click<br>cruise<br>bring<br>fox<br>leader<br>hole<br>survey<br>genius<br>city<br>pair |  
+| bip_39_word_new_br_11 | click<br>cruise<br>bring<br>fox<br>leader<br>hole<br>survey<br>genius<br>city<br>pair<br>human |  
+| bip_39_word_new_br_12 | click<br>cruise<br>bring<br>fox<br>leader<br>hole<br>survey<br>genius<br>city<br>pair<br>human<br>already |  
+| bip_39_word_new_br_2 | click<br>cruise |  
+| bip_39_word_new_br_3 | click<br>cruise<br>bring |  
+| bip_39_word_new_br_4 | click<br>cruise<br>bring<br>fox |  
+| bip_39_word_new_br_5 | click<br>cruise<br>bring<br>fox<br>leader |  
+| bip_39_word_new_br_6 | click<br>cruise<br>bring<br>fox<br>leader<br>hole |  
+| bip_39_word_new_br_7 | click<br>cruise<br>bring<br>fox<br>leader<br>hole<br>survey |  
+| bip_39_word_new_br_8 | click<br>cruise<br>bring<br>fox<br>leader<br>hole<br>survey<br>genius |  
+| bip_39_word_new_br_9 | click<br>cruise<br>bring<br>fox<br>leader<br>hole<br>survey<br>genius<br>city |  
+| bip_39_word_new_line_1 | click |  
+| bip_39_word_new_line_10 | click
 cruise
 bring
 fox
@@ -55,7 +55,7 @@ survey
 genius
 city
 pair |  
-| bip_39_word_new_line11 | click
+| bip_39_word_new_line_11 | click
 cruise
 bring
 fox
@@ -66,7 +66,7 @@ genius
 city
 pair
 human |  
-| bip_39_word_new_line12 | click
+| bip_39_word_new_line_12 | click
 cruise
 bring
 fox
@@ -78,34 +78,34 @@ city
 pair
 human
 already |  
-| bip_39_word_new_line2 | click
+| bip_39_word_new_line_2 | click
 cruise |  
-| bip_39_word_new_line3 | click
+| bip_39_word_new_line_3 | click
 cruise
 bring |  
-| bip_39_word_new_line4 | click
+| bip_39_word_new_line_4 | click
 cruise
 bring
 fox |  
-| bip_39_word_new_line5 | click
+| bip_39_word_new_line_5 | click
 cruise
 bring
 fox
 leader |  
-| bip_39_word_new_line6 | click
+| bip_39_word_new_line_6 | click
 cruise
 bring
 fox
 leader
 hole |  
-| bip_39_word_new_line7 | click
+| bip_39_word_new_line_7 | click
 cruise
 bring
 fox
 leader
 hole
 survey |  
-| bip_39_word_new_line8 | click
+| bip_39_word_new_line_8 | click
 cruise
 bring
 fox
@@ -113,7 +113,7 @@ leader
 hole
 survey
 genius |  
-| bip_39_word_new_line9 | click
+| bip_39_word_new_line_9 | click
 cruise
 bring
 fox

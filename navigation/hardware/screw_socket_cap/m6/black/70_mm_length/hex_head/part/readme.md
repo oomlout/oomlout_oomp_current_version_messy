@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sign |  
-| bip_39_word_new_br10 | sign<br>grief<br>erupt<br>earn<br>awful<br>dentist<br>live<br>neck<br>magic<br>holiday |  
-| bip_39_word_new_br11 | sign<br>grief<br>erupt<br>earn<br>awful<br>dentist<br>live<br>neck<br>magic<br>holiday<br>logic |  
-| bip_39_word_new_br12 | sign<br>grief<br>erupt<br>earn<br>awful<br>dentist<br>live<br>neck<br>magic<br>holiday<br>logic<br>ancient |  
-| bip_39_word_new_br2 | sign<br>grief |  
-| bip_39_word_new_br3 | sign<br>grief<br>erupt |  
-| bip_39_word_new_br4 | sign<br>grief<br>erupt<br>earn |  
-| bip_39_word_new_br5 | sign<br>grief<br>erupt<br>earn<br>awful |  
-| bip_39_word_new_br6 | sign<br>grief<br>erupt<br>earn<br>awful<br>dentist |  
-| bip_39_word_new_br7 | sign<br>grief<br>erupt<br>earn<br>awful<br>dentist<br>live |  
-| bip_39_word_new_br8 | sign<br>grief<br>erupt<br>earn<br>awful<br>dentist<br>live<br>neck |  
-| bip_39_word_new_br9 | sign<br>grief<br>erupt<br>earn<br>awful<br>dentist<br>live<br>neck<br>magic |  
-| bip_39_word_new_line1 | sign |  
-| bip_39_word_new_line10 | sign
+| bip_39_word_new_br_1 | sign |  
+| bip_39_word_new_br_10 | sign<br>grief<br>erupt<br>earn<br>awful<br>dentist<br>live<br>neck<br>magic<br>holiday |  
+| bip_39_word_new_br_11 | sign<br>grief<br>erupt<br>earn<br>awful<br>dentist<br>live<br>neck<br>magic<br>holiday<br>logic |  
+| bip_39_word_new_br_12 | sign<br>grief<br>erupt<br>earn<br>awful<br>dentist<br>live<br>neck<br>magic<br>holiday<br>logic<br>ancient |  
+| bip_39_word_new_br_2 | sign<br>grief |  
+| bip_39_word_new_br_3 | sign<br>grief<br>erupt |  
+| bip_39_word_new_br_4 | sign<br>grief<br>erupt<br>earn |  
+| bip_39_word_new_br_5 | sign<br>grief<br>erupt<br>earn<br>awful |  
+| bip_39_word_new_br_6 | sign<br>grief<br>erupt<br>earn<br>awful<br>dentist |  
+| bip_39_word_new_br_7 | sign<br>grief<br>erupt<br>earn<br>awful<br>dentist<br>live |  
+| bip_39_word_new_br_8 | sign<br>grief<br>erupt<br>earn<br>awful<br>dentist<br>live<br>neck |  
+| bip_39_word_new_br_9 | sign<br>grief<br>erupt<br>earn<br>awful<br>dentist<br>live<br>neck<br>magic |  
+| bip_39_word_new_line_1 | sign |  
+| bip_39_word_new_line_10 | sign
 grief
 erupt
 earn
@@ -55,7 +55,7 @@ live
 neck
 magic
 holiday |  
-| bip_39_word_new_line11 | sign
+| bip_39_word_new_line_11 | sign
 grief
 erupt
 earn
@@ -66,7 +66,7 @@ neck
 magic
 holiday
 logic |  
-| bip_39_word_new_line12 | sign
+| bip_39_word_new_line_12 | sign
 grief
 erupt
 earn
@@ -78,34 +78,34 @@ magic
 holiday
 logic
 ancient |  
-| bip_39_word_new_line2 | sign
+| bip_39_word_new_line_2 | sign
 grief |  
-| bip_39_word_new_line3 | sign
+| bip_39_word_new_line_3 | sign
 grief
 erupt |  
-| bip_39_word_new_line4 | sign
+| bip_39_word_new_line_4 | sign
 grief
 erupt
 earn |  
-| bip_39_word_new_line5 | sign
+| bip_39_word_new_line_5 | sign
 grief
 erupt
 earn
 awful |  
-| bip_39_word_new_line6 | sign
+| bip_39_word_new_line_6 | sign
 grief
 erupt
 earn
 awful
 dentist |  
-| bip_39_word_new_line7 | sign
+| bip_39_word_new_line_7 | sign
 grief
 erupt
 earn
 awful
 dentist
 live |  
-| bip_39_word_new_line8 | sign
+| bip_39_word_new_line_8 | sign
 grief
 erupt
 earn
@@ -113,7 +113,7 @@ awful
 dentist
 live
 neck |  
-| bip_39_word_new_line9 | sign
+| bip_39_word_new_line_9 | sign
 grief
 erupt
 earn

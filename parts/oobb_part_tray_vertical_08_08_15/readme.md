@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rate |  
-| bip_39_word_new_br10 | rate<br>dwarf<br>fruit<br>lizard<br>dune<br>breeze<br>fatal<br>blush<br>reform<br>few |  
-| bip_39_word_new_br11 | rate<br>dwarf<br>fruit<br>lizard<br>dune<br>breeze<br>fatal<br>blush<br>reform<br>few<br>vivid |  
-| bip_39_word_new_br12 | rate<br>dwarf<br>fruit<br>lizard<br>dune<br>breeze<br>fatal<br>blush<br>reform<br>few<br>vivid<br>attract |  
-| bip_39_word_new_br2 | rate<br>dwarf |  
-| bip_39_word_new_br3 | rate<br>dwarf<br>fruit |  
-| bip_39_word_new_br4 | rate<br>dwarf<br>fruit<br>lizard |  
-| bip_39_word_new_br5 | rate<br>dwarf<br>fruit<br>lizard<br>dune |  
-| bip_39_word_new_br6 | rate<br>dwarf<br>fruit<br>lizard<br>dune<br>breeze |  
-| bip_39_word_new_br7 | rate<br>dwarf<br>fruit<br>lizard<br>dune<br>breeze<br>fatal |  
-| bip_39_word_new_br8 | rate<br>dwarf<br>fruit<br>lizard<br>dune<br>breeze<br>fatal<br>blush |  
-| bip_39_word_new_br9 | rate<br>dwarf<br>fruit<br>lizard<br>dune<br>breeze<br>fatal<br>blush<br>reform |  
-| bip_39_word_new_line1 | rate |  
-| bip_39_word_new_line10 | rate
+| bip_39_word_new_br_1 | rate |  
+| bip_39_word_new_br_10 | rate<br>dwarf<br>fruit<br>lizard<br>dune<br>breeze<br>fatal<br>blush<br>reform<br>few |  
+| bip_39_word_new_br_11 | rate<br>dwarf<br>fruit<br>lizard<br>dune<br>breeze<br>fatal<br>blush<br>reform<br>few<br>vivid |  
+| bip_39_word_new_br_12 | rate<br>dwarf<br>fruit<br>lizard<br>dune<br>breeze<br>fatal<br>blush<br>reform<br>few<br>vivid<br>attract |  
+| bip_39_word_new_br_2 | rate<br>dwarf |  
+| bip_39_word_new_br_3 | rate<br>dwarf<br>fruit |  
+| bip_39_word_new_br_4 | rate<br>dwarf<br>fruit<br>lizard |  
+| bip_39_word_new_br_5 | rate<br>dwarf<br>fruit<br>lizard<br>dune |  
+| bip_39_word_new_br_6 | rate<br>dwarf<br>fruit<br>lizard<br>dune<br>breeze |  
+| bip_39_word_new_br_7 | rate<br>dwarf<br>fruit<br>lizard<br>dune<br>breeze<br>fatal |  
+| bip_39_word_new_br_8 | rate<br>dwarf<br>fruit<br>lizard<br>dune<br>breeze<br>fatal<br>blush |  
+| bip_39_word_new_br_9 | rate<br>dwarf<br>fruit<br>lizard<br>dune<br>breeze<br>fatal<br>blush<br>reform |  
+| bip_39_word_new_line_1 | rate |  
+| bip_39_word_new_line_10 | rate
 dwarf
 fruit
 lizard
@@ -55,7 +55,7 @@ fatal
 blush
 reform
 few |  
-| bip_39_word_new_line11 | rate
+| bip_39_word_new_line_11 | rate
 dwarf
 fruit
 lizard
@@ -66,7 +66,7 @@ blush
 reform
 few
 vivid |  
-| bip_39_word_new_line12 | rate
+| bip_39_word_new_line_12 | rate
 dwarf
 fruit
 lizard
@@ -78,34 +78,34 @@ reform
 few
 vivid
 attract |  
-| bip_39_word_new_line2 | rate
+| bip_39_word_new_line_2 | rate
 dwarf |  
-| bip_39_word_new_line3 | rate
+| bip_39_word_new_line_3 | rate
 dwarf
 fruit |  
-| bip_39_word_new_line4 | rate
+| bip_39_word_new_line_4 | rate
 dwarf
 fruit
 lizard |  
-| bip_39_word_new_line5 | rate
+| bip_39_word_new_line_5 | rate
 dwarf
 fruit
 lizard
 dune |  
-| bip_39_word_new_line6 | rate
+| bip_39_word_new_line_6 | rate
 dwarf
 fruit
 lizard
 dune
 breeze |  
-| bip_39_word_new_line7 | rate
+| bip_39_word_new_line_7 | rate
 dwarf
 fruit
 lizard
 dune
 breeze
 fatal |  
-| bip_39_word_new_line8 | rate
+| bip_39_word_new_line_8 | rate
 dwarf
 fruit
 lizard
@@ -113,7 +113,7 @@ dune
 breeze
 fatal
 blush |  
-| bip_39_word_new_line9 | rate
+| bip_39_word_new_line_9 | rate
 dwarf
 fruit
 lizard

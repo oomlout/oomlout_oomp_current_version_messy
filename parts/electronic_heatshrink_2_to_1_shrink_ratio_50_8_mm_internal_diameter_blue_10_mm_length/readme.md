@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | submit |  
-| bip_39_word_new_br10 | submit<br>layer<br>same<br>brave<br>slim<br>fire<br>music<br>fury<br>guess<br>kick |  
-| bip_39_word_new_br11 | submit<br>layer<br>same<br>brave<br>slim<br>fire<br>music<br>fury<br>guess<br>kick<br>prepare |  
-| bip_39_word_new_br12 | submit<br>layer<br>same<br>brave<br>slim<br>fire<br>music<br>fury<br>guess<br>kick<br>prepare<br>airport |  
-| bip_39_word_new_br2 | submit<br>layer |  
-| bip_39_word_new_br3 | submit<br>layer<br>same |  
-| bip_39_word_new_br4 | submit<br>layer<br>same<br>brave |  
-| bip_39_word_new_br5 | submit<br>layer<br>same<br>brave<br>slim |  
-| bip_39_word_new_br6 | submit<br>layer<br>same<br>brave<br>slim<br>fire |  
-| bip_39_word_new_br7 | submit<br>layer<br>same<br>brave<br>slim<br>fire<br>music |  
-| bip_39_word_new_br8 | submit<br>layer<br>same<br>brave<br>slim<br>fire<br>music<br>fury |  
-| bip_39_word_new_br9 | submit<br>layer<br>same<br>brave<br>slim<br>fire<br>music<br>fury<br>guess |  
-| bip_39_word_new_line1 | submit |  
-| bip_39_word_new_line10 | submit
+| bip_39_word_new_br_1 | submit |  
+| bip_39_word_new_br_10 | submit<br>layer<br>same<br>brave<br>slim<br>fire<br>music<br>fury<br>guess<br>kick |  
+| bip_39_word_new_br_11 | submit<br>layer<br>same<br>brave<br>slim<br>fire<br>music<br>fury<br>guess<br>kick<br>prepare |  
+| bip_39_word_new_br_12 | submit<br>layer<br>same<br>brave<br>slim<br>fire<br>music<br>fury<br>guess<br>kick<br>prepare<br>airport |  
+| bip_39_word_new_br_2 | submit<br>layer |  
+| bip_39_word_new_br_3 | submit<br>layer<br>same |  
+| bip_39_word_new_br_4 | submit<br>layer<br>same<br>brave |  
+| bip_39_word_new_br_5 | submit<br>layer<br>same<br>brave<br>slim |  
+| bip_39_word_new_br_6 | submit<br>layer<br>same<br>brave<br>slim<br>fire |  
+| bip_39_word_new_br_7 | submit<br>layer<br>same<br>brave<br>slim<br>fire<br>music |  
+| bip_39_word_new_br_8 | submit<br>layer<br>same<br>brave<br>slim<br>fire<br>music<br>fury |  
+| bip_39_word_new_br_9 | submit<br>layer<br>same<br>brave<br>slim<br>fire<br>music<br>fury<br>guess |  
+| bip_39_word_new_line_1 | submit |  
+| bip_39_word_new_line_10 | submit
 layer
 same
 brave
@@ -55,7 +55,7 @@ music
 fury
 guess
 kick |  
-| bip_39_word_new_line11 | submit
+| bip_39_word_new_line_11 | submit
 layer
 same
 brave
@@ -66,7 +66,7 @@ fury
 guess
 kick
 prepare |  
-| bip_39_word_new_line12 | submit
+| bip_39_word_new_line_12 | submit
 layer
 same
 brave
@@ -78,34 +78,34 @@ guess
 kick
 prepare
 airport |  
-| bip_39_word_new_line2 | submit
+| bip_39_word_new_line_2 | submit
 layer |  
-| bip_39_word_new_line3 | submit
+| bip_39_word_new_line_3 | submit
 layer
 same |  
-| bip_39_word_new_line4 | submit
+| bip_39_word_new_line_4 | submit
 layer
 same
 brave |  
-| bip_39_word_new_line5 | submit
+| bip_39_word_new_line_5 | submit
 layer
 same
 brave
 slim |  
-| bip_39_word_new_line6 | submit
+| bip_39_word_new_line_6 | submit
 layer
 same
 brave
 slim
 fire |  
-| bip_39_word_new_line7 | submit
+| bip_39_word_new_line_7 | submit
 layer
 same
 brave
 slim
 fire
 music |  
-| bip_39_word_new_line8 | submit
+| bip_39_word_new_line_8 | submit
 layer
 same
 brave
@@ -113,7 +113,7 @@ slim
 fire
 music
 fury |  
-| bip_39_word_new_line9 | submit
+| bip_39_word_new_line_9 | submit
 layer
 same
 brave

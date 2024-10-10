@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | resemble |  
-| bip_39_word_new_br10 | resemble<br>success<br>define<br>liar<br>ostrich<br>drill<br>cup<br>put<br>exclude<br>material |  
-| bip_39_word_new_br11 | resemble<br>success<br>define<br>liar<br>ostrich<br>drill<br>cup<br>put<br>exclude<br>material<br>people |  
-| bip_39_word_new_br12 | resemble<br>success<br>define<br>liar<br>ostrich<br>drill<br>cup<br>put<br>exclude<br>material<br>people<br>auto |  
-| bip_39_word_new_br2 | resemble<br>success |  
-| bip_39_word_new_br3 | resemble<br>success<br>define |  
-| bip_39_word_new_br4 | resemble<br>success<br>define<br>liar |  
-| bip_39_word_new_br5 | resemble<br>success<br>define<br>liar<br>ostrich |  
-| bip_39_word_new_br6 | resemble<br>success<br>define<br>liar<br>ostrich<br>drill |  
-| bip_39_word_new_br7 | resemble<br>success<br>define<br>liar<br>ostrich<br>drill<br>cup |  
-| bip_39_word_new_br8 | resemble<br>success<br>define<br>liar<br>ostrich<br>drill<br>cup<br>put |  
-| bip_39_word_new_br9 | resemble<br>success<br>define<br>liar<br>ostrich<br>drill<br>cup<br>put<br>exclude |  
-| bip_39_word_new_line1 | resemble |  
-| bip_39_word_new_line10 | resemble
+| bip_39_word_new_br_1 | resemble |  
+| bip_39_word_new_br_10 | resemble<br>success<br>define<br>liar<br>ostrich<br>drill<br>cup<br>put<br>exclude<br>material |  
+| bip_39_word_new_br_11 | resemble<br>success<br>define<br>liar<br>ostrich<br>drill<br>cup<br>put<br>exclude<br>material<br>people |  
+| bip_39_word_new_br_12 | resemble<br>success<br>define<br>liar<br>ostrich<br>drill<br>cup<br>put<br>exclude<br>material<br>people<br>auto |  
+| bip_39_word_new_br_2 | resemble<br>success |  
+| bip_39_word_new_br_3 | resemble<br>success<br>define |  
+| bip_39_word_new_br_4 | resemble<br>success<br>define<br>liar |  
+| bip_39_word_new_br_5 | resemble<br>success<br>define<br>liar<br>ostrich |  
+| bip_39_word_new_br_6 | resemble<br>success<br>define<br>liar<br>ostrich<br>drill |  
+| bip_39_word_new_br_7 | resemble<br>success<br>define<br>liar<br>ostrich<br>drill<br>cup |  
+| bip_39_word_new_br_8 | resemble<br>success<br>define<br>liar<br>ostrich<br>drill<br>cup<br>put |  
+| bip_39_word_new_br_9 | resemble<br>success<br>define<br>liar<br>ostrich<br>drill<br>cup<br>put<br>exclude |  
+| bip_39_word_new_line_1 | resemble |  
+| bip_39_word_new_line_10 | resemble
 success
 define
 liar
@@ -55,7 +55,7 @@ cup
 put
 exclude
 material |  
-| bip_39_word_new_line11 | resemble
+| bip_39_word_new_line_11 | resemble
 success
 define
 liar
@@ -66,7 +66,7 @@ put
 exclude
 material
 people |  
-| bip_39_word_new_line12 | resemble
+| bip_39_word_new_line_12 | resemble
 success
 define
 liar
@@ -78,34 +78,34 @@ exclude
 material
 people
 auto |  
-| bip_39_word_new_line2 | resemble
+| bip_39_word_new_line_2 | resemble
 success |  
-| bip_39_word_new_line3 | resemble
+| bip_39_word_new_line_3 | resemble
 success
 define |  
-| bip_39_word_new_line4 | resemble
+| bip_39_word_new_line_4 | resemble
 success
 define
 liar |  
-| bip_39_word_new_line5 | resemble
+| bip_39_word_new_line_5 | resemble
 success
 define
 liar
 ostrich |  
-| bip_39_word_new_line6 | resemble
+| bip_39_word_new_line_6 | resemble
 success
 define
 liar
 ostrich
 drill |  
-| bip_39_word_new_line7 | resemble
+| bip_39_word_new_line_7 | resemble
 success
 define
 liar
 ostrich
 drill
 cup |  
-| bip_39_word_new_line8 | resemble
+| bip_39_word_new_line_8 | resemble
 success
 define
 liar
@@ -113,7 +113,7 @@ ostrich
 drill
 cup
 put |  
-| bip_39_word_new_line9 | resemble
+| bip_39_word_new_line_9 | resemble
 success
 define
 liar

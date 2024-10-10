@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rigid |  
-| bip_39_word_new_br10 | rigid<br>cupboard<br>illness<br>lion<br>snap<br>parade<br>private<br>craft<br>enemy<br>rely |  
-| bip_39_word_new_br11 | rigid<br>cupboard<br>illness<br>lion<br>snap<br>parade<br>private<br>craft<br>enemy<br>rely<br>duck |  
-| bip_39_word_new_br12 | rigid<br>cupboard<br>illness<br>lion<br>snap<br>parade<br>private<br>craft<br>enemy<br>rely<br>duck<br>alarm |  
-| bip_39_word_new_br2 | rigid<br>cupboard |  
-| bip_39_word_new_br3 | rigid<br>cupboard<br>illness |  
-| bip_39_word_new_br4 | rigid<br>cupboard<br>illness<br>lion |  
-| bip_39_word_new_br5 | rigid<br>cupboard<br>illness<br>lion<br>snap |  
-| bip_39_word_new_br6 | rigid<br>cupboard<br>illness<br>lion<br>snap<br>parade |  
-| bip_39_word_new_br7 | rigid<br>cupboard<br>illness<br>lion<br>snap<br>parade<br>private |  
-| bip_39_word_new_br8 | rigid<br>cupboard<br>illness<br>lion<br>snap<br>parade<br>private<br>craft |  
-| bip_39_word_new_br9 | rigid<br>cupboard<br>illness<br>lion<br>snap<br>parade<br>private<br>craft<br>enemy |  
-| bip_39_word_new_line1 | rigid |  
-| bip_39_word_new_line10 | rigid
+| bip_39_word_new_br_1 | rigid |  
+| bip_39_word_new_br_10 | rigid<br>cupboard<br>illness<br>lion<br>snap<br>parade<br>private<br>craft<br>enemy<br>rely |  
+| bip_39_word_new_br_11 | rigid<br>cupboard<br>illness<br>lion<br>snap<br>parade<br>private<br>craft<br>enemy<br>rely<br>duck |  
+| bip_39_word_new_br_12 | rigid<br>cupboard<br>illness<br>lion<br>snap<br>parade<br>private<br>craft<br>enemy<br>rely<br>duck<br>alarm |  
+| bip_39_word_new_br_2 | rigid<br>cupboard |  
+| bip_39_word_new_br_3 | rigid<br>cupboard<br>illness |  
+| bip_39_word_new_br_4 | rigid<br>cupboard<br>illness<br>lion |  
+| bip_39_word_new_br_5 | rigid<br>cupboard<br>illness<br>lion<br>snap |  
+| bip_39_word_new_br_6 | rigid<br>cupboard<br>illness<br>lion<br>snap<br>parade |  
+| bip_39_word_new_br_7 | rigid<br>cupboard<br>illness<br>lion<br>snap<br>parade<br>private |  
+| bip_39_word_new_br_8 | rigid<br>cupboard<br>illness<br>lion<br>snap<br>parade<br>private<br>craft |  
+| bip_39_word_new_br_9 | rigid<br>cupboard<br>illness<br>lion<br>snap<br>parade<br>private<br>craft<br>enemy |  
+| bip_39_word_new_line_1 | rigid |  
+| bip_39_word_new_line_10 | rigid
 cupboard
 illness
 lion
@@ -55,7 +55,7 @@ private
 craft
 enemy
 rely |  
-| bip_39_word_new_line11 | rigid
+| bip_39_word_new_line_11 | rigid
 cupboard
 illness
 lion
@@ -66,7 +66,7 @@ craft
 enemy
 rely
 duck |  
-| bip_39_word_new_line12 | rigid
+| bip_39_word_new_line_12 | rigid
 cupboard
 illness
 lion
@@ -78,34 +78,34 @@ enemy
 rely
 duck
 alarm |  
-| bip_39_word_new_line2 | rigid
+| bip_39_word_new_line_2 | rigid
 cupboard |  
-| bip_39_word_new_line3 | rigid
+| bip_39_word_new_line_3 | rigid
 cupboard
 illness |  
-| bip_39_word_new_line4 | rigid
+| bip_39_word_new_line_4 | rigid
 cupboard
 illness
 lion |  
-| bip_39_word_new_line5 | rigid
+| bip_39_word_new_line_5 | rigid
 cupboard
 illness
 lion
 snap |  
-| bip_39_word_new_line6 | rigid
+| bip_39_word_new_line_6 | rigid
 cupboard
 illness
 lion
 snap
 parade |  
-| bip_39_word_new_line7 | rigid
+| bip_39_word_new_line_7 | rigid
 cupboard
 illness
 lion
 snap
 parade
 private |  
-| bip_39_word_new_line8 | rigid
+| bip_39_word_new_line_8 | rigid
 cupboard
 illness
 lion
@@ -113,7 +113,7 @@ snap
 parade
 private
 craft |  
-| bip_39_word_new_line9 | rigid
+| bip_39_word_new_line_9 | rigid
 cupboard
 illness
 lion

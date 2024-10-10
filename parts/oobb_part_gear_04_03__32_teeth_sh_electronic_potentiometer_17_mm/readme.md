@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | region |  
-| bip_39_word_new_br10 | region<br>awake<br>fortune<br>script<br>resource<br>half<br>trouble<br>melody<br>warm<br>gather |  
-| bip_39_word_new_br11 | region<br>awake<br>fortune<br>script<br>resource<br>half<br>trouble<br>melody<br>warm<br>gather<br>romance |  
-| bip_39_word_new_br12 | region<br>awake<br>fortune<br>script<br>resource<br>half<br>trouble<br>melody<br>warm<br>gather<br>romance<br>asthma |  
-| bip_39_word_new_br2 | region<br>awake |  
-| bip_39_word_new_br3 | region<br>awake<br>fortune |  
-| bip_39_word_new_br4 | region<br>awake<br>fortune<br>script |  
-| bip_39_word_new_br5 | region<br>awake<br>fortune<br>script<br>resource |  
-| bip_39_word_new_br6 | region<br>awake<br>fortune<br>script<br>resource<br>half |  
-| bip_39_word_new_br7 | region<br>awake<br>fortune<br>script<br>resource<br>half<br>trouble |  
-| bip_39_word_new_br8 | region<br>awake<br>fortune<br>script<br>resource<br>half<br>trouble<br>melody |  
-| bip_39_word_new_br9 | region<br>awake<br>fortune<br>script<br>resource<br>half<br>trouble<br>melody<br>warm |  
-| bip_39_word_new_line1 | region |  
-| bip_39_word_new_line10 | region
+| bip_39_word_new_br_1 | region |  
+| bip_39_word_new_br_10 | region<br>awake<br>fortune<br>script<br>resource<br>half<br>trouble<br>melody<br>warm<br>gather |  
+| bip_39_word_new_br_11 | region<br>awake<br>fortune<br>script<br>resource<br>half<br>trouble<br>melody<br>warm<br>gather<br>romance |  
+| bip_39_word_new_br_12 | region<br>awake<br>fortune<br>script<br>resource<br>half<br>trouble<br>melody<br>warm<br>gather<br>romance<br>asthma |  
+| bip_39_word_new_br_2 | region<br>awake |  
+| bip_39_word_new_br_3 | region<br>awake<br>fortune |  
+| bip_39_word_new_br_4 | region<br>awake<br>fortune<br>script |  
+| bip_39_word_new_br_5 | region<br>awake<br>fortune<br>script<br>resource |  
+| bip_39_word_new_br_6 | region<br>awake<br>fortune<br>script<br>resource<br>half |  
+| bip_39_word_new_br_7 | region<br>awake<br>fortune<br>script<br>resource<br>half<br>trouble |  
+| bip_39_word_new_br_8 | region<br>awake<br>fortune<br>script<br>resource<br>half<br>trouble<br>melody |  
+| bip_39_word_new_br_9 | region<br>awake<br>fortune<br>script<br>resource<br>half<br>trouble<br>melody<br>warm |  
+| bip_39_word_new_line_1 | region |  
+| bip_39_word_new_line_10 | region
 awake
 fortune
 script
@@ -55,7 +55,7 @@ trouble
 melody
 warm
 gather |  
-| bip_39_word_new_line11 | region
+| bip_39_word_new_line_11 | region
 awake
 fortune
 script
@@ -66,7 +66,7 @@ melody
 warm
 gather
 romance |  
-| bip_39_word_new_line12 | region
+| bip_39_word_new_line_12 | region
 awake
 fortune
 script
@@ -78,34 +78,34 @@ warm
 gather
 romance
 asthma |  
-| bip_39_word_new_line2 | region
+| bip_39_word_new_line_2 | region
 awake |  
-| bip_39_word_new_line3 | region
+| bip_39_word_new_line_3 | region
 awake
 fortune |  
-| bip_39_word_new_line4 | region
+| bip_39_word_new_line_4 | region
 awake
 fortune
 script |  
-| bip_39_word_new_line5 | region
+| bip_39_word_new_line_5 | region
 awake
 fortune
 script
 resource |  
-| bip_39_word_new_line6 | region
+| bip_39_word_new_line_6 | region
 awake
 fortune
 script
 resource
 half |  
-| bip_39_word_new_line7 | region
+| bip_39_word_new_line_7 | region
 awake
 fortune
 script
 resource
 half
 trouble |  
-| bip_39_word_new_line8 | region
+| bip_39_word_new_line_8 | region
 awake
 fortune
 script
@@ -113,7 +113,7 @@ resource
 half
 trouble
 melody |  
-| bip_39_word_new_line9 | region
+| bip_39_word_new_line_9 | region
 awake
 fortune
 script

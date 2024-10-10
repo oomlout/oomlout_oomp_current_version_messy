@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | high |  
-| bip_39_word_new_br10 | high<br>cattle<br>follow<br>alter<br>order<br>gain<br>hazard<br>vote<br>safe<br>sheriff |  
-| bip_39_word_new_br11 | high<br>cattle<br>follow<br>alter<br>order<br>gain<br>hazard<br>vote<br>safe<br>sheriff<br>tuition |  
-| bip_39_word_new_br12 | high<br>cattle<br>follow<br>alter<br>order<br>gain<br>hazard<br>vote<br>safe<br>sheriff<br>tuition<br>abstract |  
-| bip_39_word_new_br2 | high<br>cattle |  
-| bip_39_word_new_br3 | high<br>cattle<br>follow |  
-| bip_39_word_new_br4 | high<br>cattle<br>follow<br>alter |  
-| bip_39_word_new_br5 | high<br>cattle<br>follow<br>alter<br>order |  
-| bip_39_word_new_br6 | high<br>cattle<br>follow<br>alter<br>order<br>gain |  
-| bip_39_word_new_br7 | high<br>cattle<br>follow<br>alter<br>order<br>gain<br>hazard |  
-| bip_39_word_new_br8 | high<br>cattle<br>follow<br>alter<br>order<br>gain<br>hazard<br>vote |  
-| bip_39_word_new_br9 | high<br>cattle<br>follow<br>alter<br>order<br>gain<br>hazard<br>vote<br>safe |  
-| bip_39_word_new_line1 | high |  
-| bip_39_word_new_line10 | high
+| bip_39_word_new_br_1 | high |  
+| bip_39_word_new_br_10 | high<br>cattle<br>follow<br>alter<br>order<br>gain<br>hazard<br>vote<br>safe<br>sheriff |  
+| bip_39_word_new_br_11 | high<br>cattle<br>follow<br>alter<br>order<br>gain<br>hazard<br>vote<br>safe<br>sheriff<br>tuition |  
+| bip_39_word_new_br_12 | high<br>cattle<br>follow<br>alter<br>order<br>gain<br>hazard<br>vote<br>safe<br>sheriff<br>tuition<br>abstract |  
+| bip_39_word_new_br_2 | high<br>cattle |  
+| bip_39_word_new_br_3 | high<br>cattle<br>follow |  
+| bip_39_word_new_br_4 | high<br>cattle<br>follow<br>alter |  
+| bip_39_word_new_br_5 | high<br>cattle<br>follow<br>alter<br>order |  
+| bip_39_word_new_br_6 | high<br>cattle<br>follow<br>alter<br>order<br>gain |  
+| bip_39_word_new_br_7 | high<br>cattle<br>follow<br>alter<br>order<br>gain<br>hazard |  
+| bip_39_word_new_br_8 | high<br>cattle<br>follow<br>alter<br>order<br>gain<br>hazard<br>vote |  
+| bip_39_word_new_br_9 | high<br>cattle<br>follow<br>alter<br>order<br>gain<br>hazard<br>vote<br>safe |  
+| bip_39_word_new_line_1 | high |  
+| bip_39_word_new_line_10 | high
 cattle
 follow
 alter
@@ -55,7 +55,7 @@ hazard
 vote
 safe
 sheriff |  
-| bip_39_word_new_line11 | high
+| bip_39_word_new_line_11 | high
 cattle
 follow
 alter
@@ -66,7 +66,7 @@ vote
 safe
 sheriff
 tuition |  
-| bip_39_word_new_line12 | high
+| bip_39_word_new_line_12 | high
 cattle
 follow
 alter
@@ -78,34 +78,34 @@ safe
 sheriff
 tuition
 abstract |  
-| bip_39_word_new_line2 | high
+| bip_39_word_new_line_2 | high
 cattle |  
-| bip_39_word_new_line3 | high
+| bip_39_word_new_line_3 | high
 cattle
 follow |  
-| bip_39_word_new_line4 | high
+| bip_39_word_new_line_4 | high
 cattle
 follow
 alter |  
-| bip_39_word_new_line5 | high
+| bip_39_word_new_line_5 | high
 cattle
 follow
 alter
 order |  
-| bip_39_word_new_line6 | high
+| bip_39_word_new_line_6 | high
 cattle
 follow
 alter
 order
 gain |  
-| bip_39_word_new_line7 | high
+| bip_39_word_new_line_7 | high
 cattle
 follow
 alter
 order
 gain
 hazard |  
-| bip_39_word_new_line8 | high
+| bip_39_word_new_line_8 | high
 cattle
 follow
 alter
@@ -113,7 +113,7 @@ order
 gain
 hazard
 vote |  
-| bip_39_word_new_line9 | high
+| bip_39_word_new_line_9 | high
 cattle
 follow
 alter

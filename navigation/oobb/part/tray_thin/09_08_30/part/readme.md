@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | kick |  
-| bip_39_word_new_br10 | kick<br>muffin<br>trip<br>govern<br>paper<br>puppy<br>strike<br>alcohol<br>nice<br>remember |  
-| bip_39_word_new_br11 | kick<br>muffin<br>trip<br>govern<br>paper<br>puppy<br>strike<br>alcohol<br>nice<br>remember<br>half |  
-| bip_39_word_new_br12 | kick<br>muffin<br>trip<br>govern<br>paper<br>puppy<br>strike<br>alcohol<br>nice<br>remember<br>half<br>acid |  
-| bip_39_word_new_br2 | kick<br>muffin |  
-| bip_39_word_new_br3 | kick<br>muffin<br>trip |  
-| bip_39_word_new_br4 | kick<br>muffin<br>trip<br>govern |  
-| bip_39_word_new_br5 | kick<br>muffin<br>trip<br>govern<br>paper |  
-| bip_39_word_new_br6 | kick<br>muffin<br>trip<br>govern<br>paper<br>puppy |  
-| bip_39_word_new_br7 | kick<br>muffin<br>trip<br>govern<br>paper<br>puppy<br>strike |  
-| bip_39_word_new_br8 | kick<br>muffin<br>trip<br>govern<br>paper<br>puppy<br>strike<br>alcohol |  
-| bip_39_word_new_br9 | kick<br>muffin<br>trip<br>govern<br>paper<br>puppy<br>strike<br>alcohol<br>nice |  
-| bip_39_word_new_line1 | kick |  
-| bip_39_word_new_line10 | kick
+| bip_39_word_new_br_1 | kick |  
+| bip_39_word_new_br_10 | kick<br>muffin<br>trip<br>govern<br>paper<br>puppy<br>strike<br>alcohol<br>nice<br>remember |  
+| bip_39_word_new_br_11 | kick<br>muffin<br>trip<br>govern<br>paper<br>puppy<br>strike<br>alcohol<br>nice<br>remember<br>half |  
+| bip_39_word_new_br_12 | kick<br>muffin<br>trip<br>govern<br>paper<br>puppy<br>strike<br>alcohol<br>nice<br>remember<br>half<br>acid |  
+| bip_39_word_new_br_2 | kick<br>muffin |  
+| bip_39_word_new_br_3 | kick<br>muffin<br>trip |  
+| bip_39_word_new_br_4 | kick<br>muffin<br>trip<br>govern |  
+| bip_39_word_new_br_5 | kick<br>muffin<br>trip<br>govern<br>paper |  
+| bip_39_word_new_br_6 | kick<br>muffin<br>trip<br>govern<br>paper<br>puppy |  
+| bip_39_word_new_br_7 | kick<br>muffin<br>trip<br>govern<br>paper<br>puppy<br>strike |  
+| bip_39_word_new_br_8 | kick<br>muffin<br>trip<br>govern<br>paper<br>puppy<br>strike<br>alcohol |  
+| bip_39_word_new_br_9 | kick<br>muffin<br>trip<br>govern<br>paper<br>puppy<br>strike<br>alcohol<br>nice |  
+| bip_39_word_new_line_1 | kick |  
+| bip_39_word_new_line_10 | kick
 muffin
 trip
 govern
@@ -55,7 +55,7 @@ strike
 alcohol
 nice
 remember |  
-| bip_39_word_new_line11 | kick
+| bip_39_word_new_line_11 | kick
 muffin
 trip
 govern
@@ -66,7 +66,7 @@ alcohol
 nice
 remember
 half |  
-| bip_39_word_new_line12 | kick
+| bip_39_word_new_line_12 | kick
 muffin
 trip
 govern
@@ -78,34 +78,34 @@ nice
 remember
 half
 acid |  
-| bip_39_word_new_line2 | kick
+| bip_39_word_new_line_2 | kick
 muffin |  
-| bip_39_word_new_line3 | kick
+| bip_39_word_new_line_3 | kick
 muffin
 trip |  
-| bip_39_word_new_line4 | kick
+| bip_39_word_new_line_4 | kick
 muffin
 trip
 govern |  
-| bip_39_word_new_line5 | kick
+| bip_39_word_new_line_5 | kick
 muffin
 trip
 govern
 paper |  
-| bip_39_word_new_line6 | kick
+| bip_39_word_new_line_6 | kick
 muffin
 trip
 govern
 paper
 puppy |  
-| bip_39_word_new_line7 | kick
+| bip_39_word_new_line_7 | kick
 muffin
 trip
 govern
 paper
 puppy
 strike |  
-| bip_39_word_new_line8 | kick
+| bip_39_word_new_line_8 | kick
 muffin
 trip
 govern
@@ -113,7 +113,7 @@ paper
 puppy
 strike
 alcohol |  
-| bip_39_word_new_line9 | kick
+| bip_39_word_new_line_9 | kick
 muffin
 trip
 govern

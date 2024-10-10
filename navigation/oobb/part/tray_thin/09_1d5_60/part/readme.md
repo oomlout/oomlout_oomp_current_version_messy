@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | emerge |  
-| bip_39_word_new_br10 | emerge<br>cotton<br>extra<br>rather<br>flock<br>hood<br>ridge<br>panther<br>praise<br>anxiety |  
-| bip_39_word_new_br11 | emerge<br>cotton<br>extra<br>rather<br>flock<br>hood<br>ridge<br>panther<br>praise<br>anxiety<br>female |  
-| bip_39_word_new_br12 | emerge<br>cotton<br>extra<br>rather<br>flock<br>hood<br>ridge<br>panther<br>praise<br>anxiety<br>female<br>actress |  
-| bip_39_word_new_br2 | emerge<br>cotton |  
-| bip_39_word_new_br3 | emerge<br>cotton<br>extra |  
-| bip_39_word_new_br4 | emerge<br>cotton<br>extra<br>rather |  
-| bip_39_word_new_br5 | emerge<br>cotton<br>extra<br>rather<br>flock |  
-| bip_39_word_new_br6 | emerge<br>cotton<br>extra<br>rather<br>flock<br>hood |  
-| bip_39_word_new_br7 | emerge<br>cotton<br>extra<br>rather<br>flock<br>hood<br>ridge |  
-| bip_39_word_new_br8 | emerge<br>cotton<br>extra<br>rather<br>flock<br>hood<br>ridge<br>panther |  
-| bip_39_word_new_br9 | emerge<br>cotton<br>extra<br>rather<br>flock<br>hood<br>ridge<br>panther<br>praise |  
-| bip_39_word_new_line1 | emerge |  
-| bip_39_word_new_line10 | emerge
+| bip_39_word_new_br_1 | emerge |  
+| bip_39_word_new_br_10 | emerge<br>cotton<br>extra<br>rather<br>flock<br>hood<br>ridge<br>panther<br>praise<br>anxiety |  
+| bip_39_word_new_br_11 | emerge<br>cotton<br>extra<br>rather<br>flock<br>hood<br>ridge<br>panther<br>praise<br>anxiety<br>female |  
+| bip_39_word_new_br_12 | emerge<br>cotton<br>extra<br>rather<br>flock<br>hood<br>ridge<br>panther<br>praise<br>anxiety<br>female<br>actress |  
+| bip_39_word_new_br_2 | emerge<br>cotton |  
+| bip_39_word_new_br_3 | emerge<br>cotton<br>extra |  
+| bip_39_word_new_br_4 | emerge<br>cotton<br>extra<br>rather |  
+| bip_39_word_new_br_5 | emerge<br>cotton<br>extra<br>rather<br>flock |  
+| bip_39_word_new_br_6 | emerge<br>cotton<br>extra<br>rather<br>flock<br>hood |  
+| bip_39_word_new_br_7 | emerge<br>cotton<br>extra<br>rather<br>flock<br>hood<br>ridge |  
+| bip_39_word_new_br_8 | emerge<br>cotton<br>extra<br>rather<br>flock<br>hood<br>ridge<br>panther |  
+| bip_39_word_new_br_9 | emerge<br>cotton<br>extra<br>rather<br>flock<br>hood<br>ridge<br>panther<br>praise |  
+| bip_39_word_new_line_1 | emerge |  
+| bip_39_word_new_line_10 | emerge
 cotton
 extra
 rather
@@ -55,7 +55,7 @@ ridge
 panther
 praise
 anxiety |  
-| bip_39_word_new_line11 | emerge
+| bip_39_word_new_line_11 | emerge
 cotton
 extra
 rather
@@ -66,7 +66,7 @@ panther
 praise
 anxiety
 female |  
-| bip_39_word_new_line12 | emerge
+| bip_39_word_new_line_12 | emerge
 cotton
 extra
 rather
@@ -78,34 +78,34 @@ praise
 anxiety
 female
 actress |  
-| bip_39_word_new_line2 | emerge
+| bip_39_word_new_line_2 | emerge
 cotton |  
-| bip_39_word_new_line3 | emerge
+| bip_39_word_new_line_3 | emerge
 cotton
 extra |  
-| bip_39_word_new_line4 | emerge
+| bip_39_word_new_line_4 | emerge
 cotton
 extra
 rather |  
-| bip_39_word_new_line5 | emerge
+| bip_39_word_new_line_5 | emerge
 cotton
 extra
 rather
 flock |  
-| bip_39_word_new_line6 | emerge
+| bip_39_word_new_line_6 | emerge
 cotton
 extra
 rather
 flock
 hood |  
-| bip_39_word_new_line7 | emerge
+| bip_39_word_new_line_7 | emerge
 cotton
 extra
 rather
 flock
 hood
 ridge |  
-| bip_39_word_new_line8 | emerge
+| bip_39_word_new_line_8 | emerge
 cotton
 extra
 rather
@@ -113,7 +113,7 @@ flock
 hood
 ridge
 panther |  
-| bip_39_word_new_line9 | emerge
+| bip_39_word_new_line_9 | emerge
 cotton
 extra
 rather

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | scorpion |  
-| bip_39_word_new_br10 | scorpion<br>snake<br>shine<br>dial<br>evidence<br>swim<br>coconut<br>very<br>blush<br>ask |  
-| bip_39_word_new_br11 | scorpion<br>snake<br>shine<br>dial<br>evidence<br>swim<br>coconut<br>very<br>blush<br>ask<br>surge |  
-| bip_39_word_new_br12 | scorpion<br>snake<br>shine<br>dial<br>evidence<br>swim<br>coconut<br>very<br>blush<br>ask<br>surge<br>arrow |  
-| bip_39_word_new_br2 | scorpion<br>snake |  
-| bip_39_word_new_br3 | scorpion<br>snake<br>shine |  
-| bip_39_word_new_br4 | scorpion<br>snake<br>shine<br>dial |  
-| bip_39_word_new_br5 | scorpion<br>snake<br>shine<br>dial<br>evidence |  
-| bip_39_word_new_br6 | scorpion<br>snake<br>shine<br>dial<br>evidence<br>swim |  
-| bip_39_word_new_br7 | scorpion<br>snake<br>shine<br>dial<br>evidence<br>swim<br>coconut |  
-| bip_39_word_new_br8 | scorpion<br>snake<br>shine<br>dial<br>evidence<br>swim<br>coconut<br>very |  
-| bip_39_word_new_br9 | scorpion<br>snake<br>shine<br>dial<br>evidence<br>swim<br>coconut<br>very<br>blush |  
-| bip_39_word_new_line1 | scorpion |  
-| bip_39_word_new_line10 | scorpion
+| bip_39_word_new_br_1 | scorpion |  
+| bip_39_word_new_br_10 | scorpion<br>snake<br>shine<br>dial<br>evidence<br>swim<br>coconut<br>very<br>blush<br>ask |  
+| bip_39_word_new_br_11 | scorpion<br>snake<br>shine<br>dial<br>evidence<br>swim<br>coconut<br>very<br>blush<br>ask<br>surge |  
+| bip_39_word_new_br_12 | scorpion<br>snake<br>shine<br>dial<br>evidence<br>swim<br>coconut<br>very<br>blush<br>ask<br>surge<br>arrow |  
+| bip_39_word_new_br_2 | scorpion<br>snake |  
+| bip_39_word_new_br_3 | scorpion<br>snake<br>shine |  
+| bip_39_word_new_br_4 | scorpion<br>snake<br>shine<br>dial |  
+| bip_39_word_new_br_5 | scorpion<br>snake<br>shine<br>dial<br>evidence |  
+| bip_39_word_new_br_6 | scorpion<br>snake<br>shine<br>dial<br>evidence<br>swim |  
+| bip_39_word_new_br_7 | scorpion<br>snake<br>shine<br>dial<br>evidence<br>swim<br>coconut |  
+| bip_39_word_new_br_8 | scorpion<br>snake<br>shine<br>dial<br>evidence<br>swim<br>coconut<br>very |  
+| bip_39_word_new_br_9 | scorpion<br>snake<br>shine<br>dial<br>evidence<br>swim<br>coconut<br>very<br>blush |  
+| bip_39_word_new_line_1 | scorpion |  
+| bip_39_word_new_line_10 | scorpion
 snake
 shine
 dial
@@ -55,7 +55,7 @@ coconut
 very
 blush
 ask |  
-| bip_39_word_new_line11 | scorpion
+| bip_39_word_new_line_11 | scorpion
 snake
 shine
 dial
@@ -66,7 +66,7 @@ very
 blush
 ask
 surge |  
-| bip_39_word_new_line12 | scorpion
+| bip_39_word_new_line_12 | scorpion
 snake
 shine
 dial
@@ -78,34 +78,34 @@ blush
 ask
 surge
 arrow |  
-| bip_39_word_new_line2 | scorpion
+| bip_39_word_new_line_2 | scorpion
 snake |  
-| bip_39_word_new_line3 | scorpion
+| bip_39_word_new_line_3 | scorpion
 snake
 shine |  
-| bip_39_word_new_line4 | scorpion
+| bip_39_word_new_line_4 | scorpion
 snake
 shine
 dial |  
-| bip_39_word_new_line5 | scorpion
+| bip_39_word_new_line_5 | scorpion
 snake
 shine
 dial
 evidence |  
-| bip_39_word_new_line6 | scorpion
+| bip_39_word_new_line_6 | scorpion
 snake
 shine
 dial
 evidence
 swim |  
-| bip_39_word_new_line7 | scorpion
+| bip_39_word_new_line_7 | scorpion
 snake
 shine
 dial
 evidence
 swim
 coconut |  
-| bip_39_word_new_line8 | scorpion
+| bip_39_word_new_line_8 | scorpion
 snake
 shine
 dial
@@ -113,7 +113,7 @@ evidence
 swim
 coconut
 very |  
-| bip_39_word_new_line9 | scorpion
+| bip_39_word_new_line_9 | scorpion
 snake
 shine
 dial

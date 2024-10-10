@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sibling |  
-| bip_39_word_new_br10 | sibling<br>obey<br>village<br>aware<br>absent<br>raise<br>tunnel<br>tell<br>finger<br>energy |  
-| bip_39_word_new_br11 | sibling<br>obey<br>village<br>aware<br>absent<br>raise<br>tunnel<br>tell<br>finger<br>energy<br>armor |  
-| bip_39_word_new_br12 | sibling<br>obey<br>village<br>aware<br>absent<br>raise<br>tunnel<br>tell<br>finger<br>energy<br>armor<br>air |  
-| bip_39_word_new_br2 | sibling<br>obey |  
-| bip_39_word_new_br3 | sibling<br>obey<br>village |  
-| bip_39_word_new_br4 | sibling<br>obey<br>village<br>aware |  
-| bip_39_word_new_br5 | sibling<br>obey<br>village<br>aware<br>absent |  
-| bip_39_word_new_br6 | sibling<br>obey<br>village<br>aware<br>absent<br>raise |  
-| bip_39_word_new_br7 | sibling<br>obey<br>village<br>aware<br>absent<br>raise<br>tunnel |  
-| bip_39_word_new_br8 | sibling<br>obey<br>village<br>aware<br>absent<br>raise<br>tunnel<br>tell |  
-| bip_39_word_new_br9 | sibling<br>obey<br>village<br>aware<br>absent<br>raise<br>tunnel<br>tell<br>finger |  
-| bip_39_word_new_line1 | sibling |  
-| bip_39_word_new_line10 | sibling
+| bip_39_word_new_br_1 | sibling |  
+| bip_39_word_new_br_10 | sibling<br>obey<br>village<br>aware<br>absent<br>raise<br>tunnel<br>tell<br>finger<br>energy |  
+| bip_39_word_new_br_11 | sibling<br>obey<br>village<br>aware<br>absent<br>raise<br>tunnel<br>tell<br>finger<br>energy<br>armor |  
+| bip_39_word_new_br_12 | sibling<br>obey<br>village<br>aware<br>absent<br>raise<br>tunnel<br>tell<br>finger<br>energy<br>armor<br>air |  
+| bip_39_word_new_br_2 | sibling<br>obey |  
+| bip_39_word_new_br_3 | sibling<br>obey<br>village |  
+| bip_39_word_new_br_4 | sibling<br>obey<br>village<br>aware |  
+| bip_39_word_new_br_5 | sibling<br>obey<br>village<br>aware<br>absent |  
+| bip_39_word_new_br_6 | sibling<br>obey<br>village<br>aware<br>absent<br>raise |  
+| bip_39_word_new_br_7 | sibling<br>obey<br>village<br>aware<br>absent<br>raise<br>tunnel |  
+| bip_39_word_new_br_8 | sibling<br>obey<br>village<br>aware<br>absent<br>raise<br>tunnel<br>tell |  
+| bip_39_word_new_br_9 | sibling<br>obey<br>village<br>aware<br>absent<br>raise<br>tunnel<br>tell<br>finger |  
+| bip_39_word_new_line_1 | sibling |  
+| bip_39_word_new_line_10 | sibling
 obey
 village
 aware
@@ -55,7 +55,7 @@ tunnel
 tell
 finger
 energy |  
-| bip_39_word_new_line11 | sibling
+| bip_39_word_new_line_11 | sibling
 obey
 village
 aware
@@ -66,7 +66,7 @@ tell
 finger
 energy
 armor |  
-| bip_39_word_new_line12 | sibling
+| bip_39_word_new_line_12 | sibling
 obey
 village
 aware
@@ -78,34 +78,34 @@ finger
 energy
 armor
 air |  
-| bip_39_word_new_line2 | sibling
+| bip_39_word_new_line_2 | sibling
 obey |  
-| bip_39_word_new_line3 | sibling
+| bip_39_word_new_line_3 | sibling
 obey
 village |  
-| bip_39_word_new_line4 | sibling
+| bip_39_word_new_line_4 | sibling
 obey
 village
 aware |  
-| bip_39_word_new_line5 | sibling
+| bip_39_word_new_line_5 | sibling
 obey
 village
 aware
 absent |  
-| bip_39_word_new_line6 | sibling
+| bip_39_word_new_line_6 | sibling
 obey
 village
 aware
 absent
 raise |  
-| bip_39_word_new_line7 | sibling
+| bip_39_word_new_line_7 | sibling
 obey
 village
 aware
 absent
 raise
 tunnel |  
-| bip_39_word_new_line8 | sibling
+| bip_39_word_new_line_8 | sibling
 obey
 village
 aware
@@ -113,7 +113,7 @@ absent
 raise
 tunnel
 tell |  
-| bip_39_word_new_line9 | sibling
+| bip_39_word_new_line_9 | sibling
 obey
 village
 aware

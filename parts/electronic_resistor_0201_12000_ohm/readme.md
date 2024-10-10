@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rapid |  
-| bip_39_word_new_br10 | rapid<br>volcano<br>royal<br>winner<br>enough<br>fragile<br>joy<br>open<br>myself<br>eyebrow |  
-| bip_39_word_new_br11 | rapid<br>volcano<br>royal<br>winner<br>enough<br>fragile<br>joy<br>open<br>myself<br>eyebrow<br>flame |  
-| bip_39_word_new_br12 | rapid<br>volcano<br>royal<br>winner<br>enough<br>fragile<br>joy<br>open<br>myself<br>eyebrow<br>flame<br>air |  
-| bip_39_word_new_br2 | rapid<br>volcano |  
-| bip_39_word_new_br3 | rapid<br>volcano<br>royal |  
-| bip_39_word_new_br4 | rapid<br>volcano<br>royal<br>winner |  
-| bip_39_word_new_br5 | rapid<br>volcano<br>royal<br>winner<br>enough |  
-| bip_39_word_new_br6 | rapid<br>volcano<br>royal<br>winner<br>enough<br>fragile |  
-| bip_39_word_new_br7 | rapid<br>volcano<br>royal<br>winner<br>enough<br>fragile<br>joy |  
-| bip_39_word_new_br8 | rapid<br>volcano<br>royal<br>winner<br>enough<br>fragile<br>joy<br>open |  
-| bip_39_word_new_br9 | rapid<br>volcano<br>royal<br>winner<br>enough<br>fragile<br>joy<br>open<br>myself |  
-| bip_39_word_new_line1 | rapid |  
-| bip_39_word_new_line10 | rapid
+| bip_39_word_new_br_1 | rapid |  
+| bip_39_word_new_br_10 | rapid<br>volcano<br>royal<br>winner<br>enough<br>fragile<br>joy<br>open<br>myself<br>eyebrow |  
+| bip_39_word_new_br_11 | rapid<br>volcano<br>royal<br>winner<br>enough<br>fragile<br>joy<br>open<br>myself<br>eyebrow<br>flame |  
+| bip_39_word_new_br_12 | rapid<br>volcano<br>royal<br>winner<br>enough<br>fragile<br>joy<br>open<br>myself<br>eyebrow<br>flame<br>air |  
+| bip_39_word_new_br_2 | rapid<br>volcano |  
+| bip_39_word_new_br_3 | rapid<br>volcano<br>royal |  
+| bip_39_word_new_br_4 | rapid<br>volcano<br>royal<br>winner |  
+| bip_39_word_new_br_5 | rapid<br>volcano<br>royal<br>winner<br>enough |  
+| bip_39_word_new_br_6 | rapid<br>volcano<br>royal<br>winner<br>enough<br>fragile |  
+| bip_39_word_new_br_7 | rapid<br>volcano<br>royal<br>winner<br>enough<br>fragile<br>joy |  
+| bip_39_word_new_br_8 | rapid<br>volcano<br>royal<br>winner<br>enough<br>fragile<br>joy<br>open |  
+| bip_39_word_new_br_9 | rapid<br>volcano<br>royal<br>winner<br>enough<br>fragile<br>joy<br>open<br>myself |  
+| bip_39_word_new_line_1 | rapid |  
+| bip_39_word_new_line_10 | rapid
 volcano
 royal
 winner
@@ -55,7 +55,7 @@ joy
 open
 myself
 eyebrow |  
-| bip_39_word_new_line11 | rapid
+| bip_39_word_new_line_11 | rapid
 volcano
 royal
 winner
@@ -66,7 +66,7 @@ open
 myself
 eyebrow
 flame |  
-| bip_39_word_new_line12 | rapid
+| bip_39_word_new_line_12 | rapid
 volcano
 royal
 winner
@@ -78,34 +78,34 @@ myself
 eyebrow
 flame
 air |  
-| bip_39_word_new_line2 | rapid
+| bip_39_word_new_line_2 | rapid
 volcano |  
-| bip_39_word_new_line3 | rapid
+| bip_39_word_new_line_3 | rapid
 volcano
 royal |  
-| bip_39_word_new_line4 | rapid
+| bip_39_word_new_line_4 | rapid
 volcano
 royal
 winner |  
-| bip_39_word_new_line5 | rapid
+| bip_39_word_new_line_5 | rapid
 volcano
 royal
 winner
 enough |  
-| bip_39_word_new_line6 | rapid
+| bip_39_word_new_line_6 | rapid
 volcano
 royal
 winner
 enough
 fragile |  
-| bip_39_word_new_line7 | rapid
+| bip_39_word_new_line_7 | rapid
 volcano
 royal
 winner
 enough
 fragile
 joy |  
-| bip_39_word_new_line8 | rapid
+| bip_39_word_new_line_8 | rapid
 volcano
 royal
 winner
@@ -113,7 +113,7 @@ enough
 fragile
 joy
 open |  
-| bip_39_word_new_line9 | rapid
+| bip_39_word_new_line_9 | rapid
 volcano
 royal
 winner

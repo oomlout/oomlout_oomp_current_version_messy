@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | decrease |  
-| bip_39_word_new_br10 | decrease<br>regular<br>excess<br>radio<br>lens<br>youth<br>dry<br>million<br>rhythm<br>cream |  
-| bip_39_word_new_br11 | decrease<br>regular<br>excess<br>radio<br>lens<br>youth<br>dry<br>million<br>rhythm<br>cream<br>carry |  
-| bip_39_word_new_br12 | decrease<br>regular<br>excess<br>radio<br>lens<br>youth<br>dry<br>million<br>rhythm<br>cream<br>carry<br>absent |  
-| bip_39_word_new_br2 | decrease<br>regular |  
-| bip_39_word_new_br3 | decrease<br>regular<br>excess |  
-| bip_39_word_new_br4 | decrease<br>regular<br>excess<br>radio |  
-| bip_39_word_new_br5 | decrease<br>regular<br>excess<br>radio<br>lens |  
-| bip_39_word_new_br6 | decrease<br>regular<br>excess<br>radio<br>lens<br>youth |  
-| bip_39_word_new_br7 | decrease<br>regular<br>excess<br>radio<br>lens<br>youth<br>dry |  
-| bip_39_word_new_br8 | decrease<br>regular<br>excess<br>radio<br>lens<br>youth<br>dry<br>million |  
-| bip_39_word_new_br9 | decrease<br>regular<br>excess<br>radio<br>lens<br>youth<br>dry<br>million<br>rhythm |  
-| bip_39_word_new_line1 | decrease |  
-| bip_39_word_new_line10 | decrease
+| bip_39_word_new_br_1 | decrease |  
+| bip_39_word_new_br_10 | decrease<br>regular<br>excess<br>radio<br>lens<br>youth<br>dry<br>million<br>rhythm<br>cream |  
+| bip_39_word_new_br_11 | decrease<br>regular<br>excess<br>radio<br>lens<br>youth<br>dry<br>million<br>rhythm<br>cream<br>carry |  
+| bip_39_word_new_br_12 | decrease<br>regular<br>excess<br>radio<br>lens<br>youth<br>dry<br>million<br>rhythm<br>cream<br>carry<br>absent |  
+| bip_39_word_new_br_2 | decrease<br>regular |  
+| bip_39_word_new_br_3 | decrease<br>regular<br>excess |  
+| bip_39_word_new_br_4 | decrease<br>regular<br>excess<br>radio |  
+| bip_39_word_new_br_5 | decrease<br>regular<br>excess<br>radio<br>lens |  
+| bip_39_word_new_br_6 | decrease<br>regular<br>excess<br>radio<br>lens<br>youth |  
+| bip_39_word_new_br_7 | decrease<br>regular<br>excess<br>radio<br>lens<br>youth<br>dry |  
+| bip_39_word_new_br_8 | decrease<br>regular<br>excess<br>radio<br>lens<br>youth<br>dry<br>million |  
+| bip_39_word_new_br_9 | decrease<br>regular<br>excess<br>radio<br>lens<br>youth<br>dry<br>million<br>rhythm |  
+| bip_39_word_new_line_1 | decrease |  
+| bip_39_word_new_line_10 | decrease
 regular
 excess
 radio
@@ -55,7 +55,7 @@ dry
 million
 rhythm
 cream |  
-| bip_39_word_new_line11 | decrease
+| bip_39_word_new_line_11 | decrease
 regular
 excess
 radio
@@ -66,7 +66,7 @@ million
 rhythm
 cream
 carry |  
-| bip_39_word_new_line12 | decrease
+| bip_39_word_new_line_12 | decrease
 regular
 excess
 radio
@@ -78,34 +78,34 @@ rhythm
 cream
 carry
 absent |  
-| bip_39_word_new_line2 | decrease
+| bip_39_word_new_line_2 | decrease
 regular |  
-| bip_39_word_new_line3 | decrease
+| bip_39_word_new_line_3 | decrease
 regular
 excess |  
-| bip_39_word_new_line4 | decrease
+| bip_39_word_new_line_4 | decrease
 regular
 excess
 radio |  
-| bip_39_word_new_line5 | decrease
+| bip_39_word_new_line_5 | decrease
 regular
 excess
 radio
 lens |  
-| bip_39_word_new_line6 | decrease
+| bip_39_word_new_line_6 | decrease
 regular
 excess
 radio
 lens
 youth |  
-| bip_39_word_new_line7 | decrease
+| bip_39_word_new_line_7 | decrease
 regular
 excess
 radio
 lens
 youth
 dry |  
-| bip_39_word_new_line8 | decrease
+| bip_39_word_new_line_8 | decrease
 regular
 excess
 radio
@@ -113,7 +113,7 @@ lens
 youth
 dry
 million |  
-| bip_39_word_new_line9 | decrease
+| bip_39_word_new_line_9 | decrease
 regular
 excess
 radio

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fatal |  
-| bip_39_word_new_br10 | fatal<br>envelope<br>satisfy<br>they<br>purpose<br>monitor<br>credit<br>news<br>amount<br>chronic |  
-| bip_39_word_new_br11 | fatal<br>envelope<br>satisfy<br>they<br>purpose<br>monitor<br>credit<br>news<br>amount<br>chronic<br>explain |  
-| bip_39_word_new_br12 | fatal<br>envelope<br>satisfy<br>they<br>purpose<br>monitor<br>credit<br>news<br>amount<br>chronic<br>explain<br>any |  
-| bip_39_word_new_br2 | fatal<br>envelope |  
-| bip_39_word_new_br3 | fatal<br>envelope<br>satisfy |  
-| bip_39_word_new_br4 | fatal<br>envelope<br>satisfy<br>they |  
-| bip_39_word_new_br5 | fatal<br>envelope<br>satisfy<br>they<br>purpose |  
-| bip_39_word_new_br6 | fatal<br>envelope<br>satisfy<br>they<br>purpose<br>monitor |  
-| bip_39_word_new_br7 | fatal<br>envelope<br>satisfy<br>they<br>purpose<br>monitor<br>credit |  
-| bip_39_word_new_br8 | fatal<br>envelope<br>satisfy<br>they<br>purpose<br>monitor<br>credit<br>news |  
-| bip_39_word_new_br9 | fatal<br>envelope<br>satisfy<br>they<br>purpose<br>monitor<br>credit<br>news<br>amount |  
-| bip_39_word_new_line1 | fatal |  
-| bip_39_word_new_line10 | fatal
+| bip_39_word_new_br_1 | fatal |  
+| bip_39_word_new_br_10 | fatal<br>envelope<br>satisfy<br>they<br>purpose<br>monitor<br>credit<br>news<br>amount<br>chronic |  
+| bip_39_word_new_br_11 | fatal<br>envelope<br>satisfy<br>they<br>purpose<br>monitor<br>credit<br>news<br>amount<br>chronic<br>explain |  
+| bip_39_word_new_br_12 | fatal<br>envelope<br>satisfy<br>they<br>purpose<br>monitor<br>credit<br>news<br>amount<br>chronic<br>explain<br>any |  
+| bip_39_word_new_br_2 | fatal<br>envelope |  
+| bip_39_word_new_br_3 | fatal<br>envelope<br>satisfy |  
+| bip_39_word_new_br_4 | fatal<br>envelope<br>satisfy<br>they |  
+| bip_39_word_new_br_5 | fatal<br>envelope<br>satisfy<br>they<br>purpose |  
+| bip_39_word_new_br_6 | fatal<br>envelope<br>satisfy<br>they<br>purpose<br>monitor |  
+| bip_39_word_new_br_7 | fatal<br>envelope<br>satisfy<br>they<br>purpose<br>monitor<br>credit |  
+| bip_39_word_new_br_8 | fatal<br>envelope<br>satisfy<br>they<br>purpose<br>monitor<br>credit<br>news |  
+| bip_39_word_new_br_9 | fatal<br>envelope<br>satisfy<br>they<br>purpose<br>monitor<br>credit<br>news<br>amount |  
+| bip_39_word_new_line_1 | fatal |  
+| bip_39_word_new_line_10 | fatal
 envelope
 satisfy
 they
@@ -55,7 +55,7 @@ credit
 news
 amount
 chronic |  
-| bip_39_word_new_line11 | fatal
+| bip_39_word_new_line_11 | fatal
 envelope
 satisfy
 they
@@ -66,7 +66,7 @@ news
 amount
 chronic
 explain |  
-| bip_39_word_new_line12 | fatal
+| bip_39_word_new_line_12 | fatal
 envelope
 satisfy
 they
@@ -78,34 +78,34 @@ amount
 chronic
 explain
 any |  
-| bip_39_word_new_line2 | fatal
+| bip_39_word_new_line_2 | fatal
 envelope |  
-| bip_39_word_new_line3 | fatal
+| bip_39_word_new_line_3 | fatal
 envelope
 satisfy |  
-| bip_39_word_new_line4 | fatal
+| bip_39_word_new_line_4 | fatal
 envelope
 satisfy
 they |  
-| bip_39_word_new_line5 | fatal
+| bip_39_word_new_line_5 | fatal
 envelope
 satisfy
 they
 purpose |  
-| bip_39_word_new_line6 | fatal
+| bip_39_word_new_line_6 | fatal
 envelope
 satisfy
 they
 purpose
 monitor |  
-| bip_39_word_new_line7 | fatal
+| bip_39_word_new_line_7 | fatal
 envelope
 satisfy
 they
 purpose
 monitor
 credit |  
-| bip_39_word_new_line8 | fatal
+| bip_39_word_new_line_8 | fatal
 envelope
 satisfy
 they
@@ -113,7 +113,7 @@ purpose
 monitor
 credit
 news |  
-| bip_39_word_new_line9 | fatal
+| bip_39_word_new_line_9 | fatal
 envelope
 satisfy
 they

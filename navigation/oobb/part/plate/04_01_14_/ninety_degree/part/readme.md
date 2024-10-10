@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | junk |  
-| bip_39_word_new_br10 | junk<br>hobby<br>crack<br>charge<br>master<br>island<br>hint<br>claw<br>term<br>very |  
-| bip_39_word_new_br11 | junk<br>hobby<br>crack<br>charge<br>master<br>island<br>hint<br>claw<br>term<br>very<br>swim |  
-| bip_39_word_new_br12 | junk<br>hobby<br>crack<br>charge<br>master<br>island<br>hint<br>claw<br>term<br>very<br>swim<br>analyst |  
-| bip_39_word_new_br2 | junk<br>hobby |  
-| bip_39_word_new_br3 | junk<br>hobby<br>crack |  
-| bip_39_word_new_br4 | junk<br>hobby<br>crack<br>charge |  
-| bip_39_word_new_br5 | junk<br>hobby<br>crack<br>charge<br>master |  
-| bip_39_word_new_br6 | junk<br>hobby<br>crack<br>charge<br>master<br>island |  
-| bip_39_word_new_br7 | junk<br>hobby<br>crack<br>charge<br>master<br>island<br>hint |  
-| bip_39_word_new_br8 | junk<br>hobby<br>crack<br>charge<br>master<br>island<br>hint<br>claw |  
-| bip_39_word_new_br9 | junk<br>hobby<br>crack<br>charge<br>master<br>island<br>hint<br>claw<br>term |  
-| bip_39_word_new_line1 | junk |  
-| bip_39_word_new_line10 | junk
+| bip_39_word_new_br_1 | junk |  
+| bip_39_word_new_br_10 | junk<br>hobby<br>crack<br>charge<br>master<br>island<br>hint<br>claw<br>term<br>very |  
+| bip_39_word_new_br_11 | junk<br>hobby<br>crack<br>charge<br>master<br>island<br>hint<br>claw<br>term<br>very<br>swim |  
+| bip_39_word_new_br_12 | junk<br>hobby<br>crack<br>charge<br>master<br>island<br>hint<br>claw<br>term<br>very<br>swim<br>analyst |  
+| bip_39_word_new_br_2 | junk<br>hobby |  
+| bip_39_word_new_br_3 | junk<br>hobby<br>crack |  
+| bip_39_word_new_br_4 | junk<br>hobby<br>crack<br>charge |  
+| bip_39_word_new_br_5 | junk<br>hobby<br>crack<br>charge<br>master |  
+| bip_39_word_new_br_6 | junk<br>hobby<br>crack<br>charge<br>master<br>island |  
+| bip_39_word_new_br_7 | junk<br>hobby<br>crack<br>charge<br>master<br>island<br>hint |  
+| bip_39_word_new_br_8 | junk<br>hobby<br>crack<br>charge<br>master<br>island<br>hint<br>claw |  
+| bip_39_word_new_br_9 | junk<br>hobby<br>crack<br>charge<br>master<br>island<br>hint<br>claw<br>term |  
+| bip_39_word_new_line_1 | junk |  
+| bip_39_word_new_line_10 | junk
 hobby
 crack
 charge
@@ -55,7 +55,7 @@ hint
 claw
 term
 very |  
-| bip_39_word_new_line11 | junk
+| bip_39_word_new_line_11 | junk
 hobby
 crack
 charge
@@ -66,7 +66,7 @@ claw
 term
 very
 swim |  
-| bip_39_word_new_line12 | junk
+| bip_39_word_new_line_12 | junk
 hobby
 crack
 charge
@@ -78,34 +78,34 @@ term
 very
 swim
 analyst |  
-| bip_39_word_new_line2 | junk
+| bip_39_word_new_line_2 | junk
 hobby |  
-| bip_39_word_new_line3 | junk
+| bip_39_word_new_line_3 | junk
 hobby
 crack |  
-| bip_39_word_new_line4 | junk
+| bip_39_word_new_line_4 | junk
 hobby
 crack
 charge |  
-| bip_39_word_new_line5 | junk
+| bip_39_word_new_line_5 | junk
 hobby
 crack
 charge
 master |  
-| bip_39_word_new_line6 | junk
+| bip_39_word_new_line_6 | junk
 hobby
 crack
 charge
 master
 island |  
-| bip_39_word_new_line7 | junk
+| bip_39_word_new_line_7 | junk
 hobby
 crack
 charge
 master
 island
 hint |  
-| bip_39_word_new_line8 | junk
+| bip_39_word_new_line_8 | junk
 hobby
 crack
 charge
@@ -113,7 +113,7 @@ master
 island
 hint
 claw |  
-| bip_39_word_new_line9 | junk
+| bip_39_word_new_line_9 | junk
 hobby
 crack
 charge

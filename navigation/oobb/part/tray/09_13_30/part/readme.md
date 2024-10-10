@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | language |  
-| bip_39_word_new_br10 | language<br>gloom<br>educate<br>pupil<br>useless<br>grab<br>trip<br>ankle<br>permit<br>shop |  
-| bip_39_word_new_br11 | language<br>gloom<br>educate<br>pupil<br>useless<br>grab<br>trip<br>ankle<br>permit<br>shop<br>ordinary |  
-| bip_39_word_new_br12 | language<br>gloom<br>educate<br>pupil<br>useless<br>grab<br>trip<br>ankle<br>permit<br>shop<br>ordinary<br>acid |  
-| bip_39_word_new_br2 | language<br>gloom |  
-| bip_39_word_new_br3 | language<br>gloom<br>educate |  
-| bip_39_word_new_br4 | language<br>gloom<br>educate<br>pupil |  
-| bip_39_word_new_br5 | language<br>gloom<br>educate<br>pupil<br>useless |  
-| bip_39_word_new_br6 | language<br>gloom<br>educate<br>pupil<br>useless<br>grab |  
-| bip_39_word_new_br7 | language<br>gloom<br>educate<br>pupil<br>useless<br>grab<br>trip |  
-| bip_39_word_new_br8 | language<br>gloom<br>educate<br>pupil<br>useless<br>grab<br>trip<br>ankle |  
-| bip_39_word_new_br9 | language<br>gloom<br>educate<br>pupil<br>useless<br>grab<br>trip<br>ankle<br>permit |  
-| bip_39_word_new_line1 | language |  
-| bip_39_word_new_line10 | language
+| bip_39_word_new_br_1 | language |  
+| bip_39_word_new_br_10 | language<br>gloom<br>educate<br>pupil<br>useless<br>grab<br>trip<br>ankle<br>permit<br>shop |  
+| bip_39_word_new_br_11 | language<br>gloom<br>educate<br>pupil<br>useless<br>grab<br>trip<br>ankle<br>permit<br>shop<br>ordinary |  
+| bip_39_word_new_br_12 | language<br>gloom<br>educate<br>pupil<br>useless<br>grab<br>trip<br>ankle<br>permit<br>shop<br>ordinary<br>acid |  
+| bip_39_word_new_br_2 | language<br>gloom |  
+| bip_39_word_new_br_3 | language<br>gloom<br>educate |  
+| bip_39_word_new_br_4 | language<br>gloom<br>educate<br>pupil |  
+| bip_39_word_new_br_5 | language<br>gloom<br>educate<br>pupil<br>useless |  
+| bip_39_word_new_br_6 | language<br>gloom<br>educate<br>pupil<br>useless<br>grab |  
+| bip_39_word_new_br_7 | language<br>gloom<br>educate<br>pupil<br>useless<br>grab<br>trip |  
+| bip_39_word_new_br_8 | language<br>gloom<br>educate<br>pupil<br>useless<br>grab<br>trip<br>ankle |  
+| bip_39_word_new_br_9 | language<br>gloom<br>educate<br>pupil<br>useless<br>grab<br>trip<br>ankle<br>permit |  
+| bip_39_word_new_line_1 | language |  
+| bip_39_word_new_line_10 | language
 gloom
 educate
 pupil
@@ -55,7 +55,7 @@ trip
 ankle
 permit
 shop |  
-| bip_39_word_new_line11 | language
+| bip_39_word_new_line_11 | language
 gloom
 educate
 pupil
@@ -66,7 +66,7 @@ ankle
 permit
 shop
 ordinary |  
-| bip_39_word_new_line12 | language
+| bip_39_word_new_line_12 | language
 gloom
 educate
 pupil
@@ -78,34 +78,34 @@ permit
 shop
 ordinary
 acid |  
-| bip_39_word_new_line2 | language
+| bip_39_word_new_line_2 | language
 gloom |  
-| bip_39_word_new_line3 | language
+| bip_39_word_new_line_3 | language
 gloom
 educate |  
-| bip_39_word_new_line4 | language
+| bip_39_word_new_line_4 | language
 gloom
 educate
 pupil |  
-| bip_39_word_new_line5 | language
+| bip_39_word_new_line_5 | language
 gloom
 educate
 pupil
 useless |  
-| bip_39_word_new_line6 | language
+| bip_39_word_new_line_6 | language
 gloom
 educate
 pupil
 useless
 grab |  
-| bip_39_word_new_line7 | language
+| bip_39_word_new_line_7 | language
 gloom
 educate
 pupil
 useless
 grab
 trip |  
-| bip_39_word_new_line8 | language
+| bip_39_word_new_line_8 | language
 gloom
 educate
 pupil
@@ -113,7 +113,7 @@ useless
 grab
 trip
 ankle |  
-| bip_39_word_new_line9 | language
+| bip_39_word_new_line_9 | language
 gloom
 educate
 pupil

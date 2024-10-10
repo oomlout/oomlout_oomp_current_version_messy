@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | alien |  
-| bip_39_word_new_br10 | alien<br>track<br>peace<br>asset<br>brave<br>start<br>copper<br>same<br>learn<br>gadget |  
-| bip_39_word_new_br11 | alien<br>track<br>peace<br>asset<br>brave<br>start<br>copper<br>same<br>learn<br>gadget<br>uncle |  
-| bip_39_word_new_br12 | alien<br>track<br>peace<br>asset<br>brave<br>start<br>copper<br>same<br>learn<br>gadget<br>uncle<br>among |  
-| bip_39_word_new_br2 | alien<br>track |  
-| bip_39_word_new_br3 | alien<br>track<br>peace |  
-| bip_39_word_new_br4 | alien<br>track<br>peace<br>asset |  
-| bip_39_word_new_br5 | alien<br>track<br>peace<br>asset<br>brave |  
-| bip_39_word_new_br6 | alien<br>track<br>peace<br>asset<br>brave<br>start |  
-| bip_39_word_new_br7 | alien<br>track<br>peace<br>asset<br>brave<br>start<br>copper |  
-| bip_39_word_new_br8 | alien<br>track<br>peace<br>asset<br>brave<br>start<br>copper<br>same |  
-| bip_39_word_new_br9 | alien<br>track<br>peace<br>asset<br>brave<br>start<br>copper<br>same<br>learn |  
-| bip_39_word_new_line1 | alien |  
-| bip_39_word_new_line10 | alien
+| bip_39_word_new_br_1 | alien |  
+| bip_39_word_new_br_10 | alien<br>track<br>peace<br>asset<br>brave<br>start<br>copper<br>same<br>learn<br>gadget |  
+| bip_39_word_new_br_11 | alien<br>track<br>peace<br>asset<br>brave<br>start<br>copper<br>same<br>learn<br>gadget<br>uncle |  
+| bip_39_word_new_br_12 | alien<br>track<br>peace<br>asset<br>brave<br>start<br>copper<br>same<br>learn<br>gadget<br>uncle<br>among |  
+| bip_39_word_new_br_2 | alien<br>track |  
+| bip_39_word_new_br_3 | alien<br>track<br>peace |  
+| bip_39_word_new_br_4 | alien<br>track<br>peace<br>asset |  
+| bip_39_word_new_br_5 | alien<br>track<br>peace<br>asset<br>brave |  
+| bip_39_word_new_br_6 | alien<br>track<br>peace<br>asset<br>brave<br>start |  
+| bip_39_word_new_br_7 | alien<br>track<br>peace<br>asset<br>brave<br>start<br>copper |  
+| bip_39_word_new_br_8 | alien<br>track<br>peace<br>asset<br>brave<br>start<br>copper<br>same |  
+| bip_39_word_new_br_9 | alien<br>track<br>peace<br>asset<br>brave<br>start<br>copper<br>same<br>learn |  
+| bip_39_word_new_line_1 | alien |  
+| bip_39_word_new_line_10 | alien
 track
 peace
 asset
@@ -55,7 +55,7 @@ copper
 same
 learn
 gadget |  
-| bip_39_word_new_line11 | alien
+| bip_39_word_new_line_11 | alien
 track
 peace
 asset
@@ -66,7 +66,7 @@ same
 learn
 gadget
 uncle |  
-| bip_39_word_new_line12 | alien
+| bip_39_word_new_line_12 | alien
 track
 peace
 asset
@@ -78,34 +78,34 @@ learn
 gadget
 uncle
 among |  
-| bip_39_word_new_line2 | alien
+| bip_39_word_new_line_2 | alien
 track |  
-| bip_39_word_new_line3 | alien
+| bip_39_word_new_line_3 | alien
 track
 peace |  
-| bip_39_word_new_line4 | alien
+| bip_39_word_new_line_4 | alien
 track
 peace
 asset |  
-| bip_39_word_new_line5 | alien
+| bip_39_word_new_line_5 | alien
 track
 peace
 asset
 brave |  
-| bip_39_word_new_line6 | alien
+| bip_39_word_new_line_6 | alien
 track
 peace
 asset
 brave
 start |  
-| bip_39_word_new_line7 | alien
+| bip_39_word_new_line_7 | alien
 track
 peace
 asset
 brave
 start
 copper |  
-| bip_39_word_new_line8 | alien
+| bip_39_word_new_line_8 | alien
 track
 peace
 asset
@@ -113,7 +113,7 @@ brave
 start
 copper
 same |  
-| bip_39_word_new_line9 | alien
+| bip_39_word_new_line_9 | alien
 track
 peace
 asset

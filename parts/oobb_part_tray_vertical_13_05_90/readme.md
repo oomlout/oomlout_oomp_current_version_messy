@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | carbon |  
-| bip_39_word_new_br10 | carbon<br>upper<br>equip<br>logic<br>start<br>magic<br>reflect<br>impulse<br>plug<br>october |  
-| bip_39_word_new_br11 | carbon<br>upper<br>equip<br>logic<br>start<br>magic<br>reflect<br>impulse<br>plug<br>october<br>shell |  
-| bip_39_word_new_br12 | carbon<br>upper<br>equip<br>logic<br>start<br>magic<br>reflect<br>impulse<br>plug<br>october<br>shell<br>amazing |  
-| bip_39_word_new_br2 | carbon<br>upper |  
-| bip_39_word_new_br3 | carbon<br>upper<br>equip |  
-| bip_39_word_new_br4 | carbon<br>upper<br>equip<br>logic |  
-| bip_39_word_new_br5 | carbon<br>upper<br>equip<br>logic<br>start |  
-| bip_39_word_new_br6 | carbon<br>upper<br>equip<br>logic<br>start<br>magic |  
-| bip_39_word_new_br7 | carbon<br>upper<br>equip<br>logic<br>start<br>magic<br>reflect |  
-| bip_39_word_new_br8 | carbon<br>upper<br>equip<br>logic<br>start<br>magic<br>reflect<br>impulse |  
-| bip_39_word_new_br9 | carbon<br>upper<br>equip<br>logic<br>start<br>magic<br>reflect<br>impulse<br>plug |  
-| bip_39_word_new_line1 | carbon |  
-| bip_39_word_new_line10 | carbon
+| bip_39_word_new_br_1 | carbon |  
+| bip_39_word_new_br_10 | carbon<br>upper<br>equip<br>logic<br>start<br>magic<br>reflect<br>impulse<br>plug<br>october |  
+| bip_39_word_new_br_11 | carbon<br>upper<br>equip<br>logic<br>start<br>magic<br>reflect<br>impulse<br>plug<br>october<br>shell |  
+| bip_39_word_new_br_12 | carbon<br>upper<br>equip<br>logic<br>start<br>magic<br>reflect<br>impulse<br>plug<br>october<br>shell<br>amazing |  
+| bip_39_word_new_br_2 | carbon<br>upper |  
+| bip_39_word_new_br_3 | carbon<br>upper<br>equip |  
+| bip_39_word_new_br_4 | carbon<br>upper<br>equip<br>logic |  
+| bip_39_word_new_br_5 | carbon<br>upper<br>equip<br>logic<br>start |  
+| bip_39_word_new_br_6 | carbon<br>upper<br>equip<br>logic<br>start<br>magic |  
+| bip_39_word_new_br_7 | carbon<br>upper<br>equip<br>logic<br>start<br>magic<br>reflect |  
+| bip_39_word_new_br_8 | carbon<br>upper<br>equip<br>logic<br>start<br>magic<br>reflect<br>impulse |  
+| bip_39_word_new_br_9 | carbon<br>upper<br>equip<br>logic<br>start<br>magic<br>reflect<br>impulse<br>plug |  
+| bip_39_word_new_line_1 | carbon |  
+| bip_39_word_new_line_10 | carbon
 upper
 equip
 logic
@@ -55,7 +55,7 @@ reflect
 impulse
 plug
 october |  
-| bip_39_word_new_line11 | carbon
+| bip_39_word_new_line_11 | carbon
 upper
 equip
 logic
@@ -66,7 +66,7 @@ impulse
 plug
 october
 shell |  
-| bip_39_word_new_line12 | carbon
+| bip_39_word_new_line_12 | carbon
 upper
 equip
 logic
@@ -78,34 +78,34 @@ plug
 october
 shell
 amazing |  
-| bip_39_word_new_line2 | carbon
+| bip_39_word_new_line_2 | carbon
 upper |  
-| bip_39_word_new_line3 | carbon
+| bip_39_word_new_line_3 | carbon
 upper
 equip |  
-| bip_39_word_new_line4 | carbon
+| bip_39_word_new_line_4 | carbon
 upper
 equip
 logic |  
-| bip_39_word_new_line5 | carbon
+| bip_39_word_new_line_5 | carbon
 upper
 equip
 logic
 start |  
-| bip_39_word_new_line6 | carbon
+| bip_39_word_new_line_6 | carbon
 upper
 equip
 logic
 start
 magic |  
-| bip_39_word_new_line7 | carbon
+| bip_39_word_new_line_7 | carbon
 upper
 equip
 logic
 start
 magic
 reflect |  
-| bip_39_word_new_line8 | carbon
+| bip_39_word_new_line_8 | carbon
 upper
 equip
 logic
@@ -113,7 +113,7 @@ start
 magic
 reflect
 impulse |  
-| bip_39_word_new_line9 | carbon
+| bip_39_word_new_line_9 | carbon
 upper
 equip
 logic

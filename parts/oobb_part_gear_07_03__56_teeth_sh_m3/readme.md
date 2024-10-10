@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | advice |  
-| bip_39_word_new_br10 | advice<br>range<br>conduct<br>fun<br>panel<br>label<br>pony<br>novel<br>artist<br>trust |  
-| bip_39_word_new_br11 | advice<br>range<br>conduct<br>fun<br>panel<br>label<br>pony<br>novel<br>artist<br>trust<br>border |  
-| bip_39_word_new_br12 | advice<br>range<br>conduct<br>fun<br>panel<br>label<br>pony<br>novel<br>artist<br>trust<br>border<br>abuse |  
-| bip_39_word_new_br2 | advice<br>range |  
-| bip_39_word_new_br3 | advice<br>range<br>conduct |  
-| bip_39_word_new_br4 | advice<br>range<br>conduct<br>fun |  
-| bip_39_word_new_br5 | advice<br>range<br>conduct<br>fun<br>panel |  
-| bip_39_word_new_br6 | advice<br>range<br>conduct<br>fun<br>panel<br>label |  
-| bip_39_word_new_br7 | advice<br>range<br>conduct<br>fun<br>panel<br>label<br>pony |  
-| bip_39_word_new_br8 | advice<br>range<br>conduct<br>fun<br>panel<br>label<br>pony<br>novel |  
-| bip_39_word_new_br9 | advice<br>range<br>conduct<br>fun<br>panel<br>label<br>pony<br>novel<br>artist |  
-| bip_39_word_new_line1 | advice |  
-| bip_39_word_new_line10 | advice
+| bip_39_word_new_br_1 | advice |  
+| bip_39_word_new_br_10 | advice<br>range<br>conduct<br>fun<br>panel<br>label<br>pony<br>novel<br>artist<br>trust |  
+| bip_39_word_new_br_11 | advice<br>range<br>conduct<br>fun<br>panel<br>label<br>pony<br>novel<br>artist<br>trust<br>border |  
+| bip_39_word_new_br_12 | advice<br>range<br>conduct<br>fun<br>panel<br>label<br>pony<br>novel<br>artist<br>trust<br>border<br>abuse |  
+| bip_39_word_new_br_2 | advice<br>range |  
+| bip_39_word_new_br_3 | advice<br>range<br>conduct |  
+| bip_39_word_new_br_4 | advice<br>range<br>conduct<br>fun |  
+| bip_39_word_new_br_5 | advice<br>range<br>conduct<br>fun<br>panel |  
+| bip_39_word_new_br_6 | advice<br>range<br>conduct<br>fun<br>panel<br>label |  
+| bip_39_word_new_br_7 | advice<br>range<br>conduct<br>fun<br>panel<br>label<br>pony |  
+| bip_39_word_new_br_8 | advice<br>range<br>conduct<br>fun<br>panel<br>label<br>pony<br>novel |  
+| bip_39_word_new_br_9 | advice<br>range<br>conduct<br>fun<br>panel<br>label<br>pony<br>novel<br>artist |  
+| bip_39_word_new_line_1 | advice |  
+| bip_39_word_new_line_10 | advice
 range
 conduct
 fun
@@ -55,7 +55,7 @@ pony
 novel
 artist
 trust |  
-| bip_39_word_new_line11 | advice
+| bip_39_word_new_line_11 | advice
 range
 conduct
 fun
@@ -66,7 +66,7 @@ novel
 artist
 trust
 border |  
-| bip_39_word_new_line12 | advice
+| bip_39_word_new_line_12 | advice
 range
 conduct
 fun
@@ -78,34 +78,34 @@ artist
 trust
 border
 abuse |  
-| bip_39_word_new_line2 | advice
+| bip_39_word_new_line_2 | advice
 range |  
-| bip_39_word_new_line3 | advice
+| bip_39_word_new_line_3 | advice
 range
 conduct |  
-| bip_39_word_new_line4 | advice
+| bip_39_word_new_line_4 | advice
 range
 conduct
 fun |  
-| bip_39_word_new_line5 | advice
+| bip_39_word_new_line_5 | advice
 range
 conduct
 fun
 panel |  
-| bip_39_word_new_line6 | advice
+| bip_39_word_new_line_6 | advice
 range
 conduct
 fun
 panel
 label |  
-| bip_39_word_new_line7 | advice
+| bip_39_word_new_line_7 | advice
 range
 conduct
 fun
 panel
 label
 pony |  
-| bip_39_word_new_line8 | advice
+| bip_39_word_new_line_8 | advice
 range
 conduct
 fun
@@ -113,7 +113,7 @@ panel
 label
 pony
 novel |  
-| bip_39_word_new_line9 | advice
+| bip_39_word_new_line_9 | advice
 range
 conduct
 fun

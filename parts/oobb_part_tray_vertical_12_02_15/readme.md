@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mom |  
-| bip_39_word_new_br10 | mom<br>uniform<br>acoustic<br>lawsuit<br>gate<br>flee<br>guide<br>find<br>real<br>laugh |  
-| bip_39_word_new_br11 | mom<br>uniform<br>acoustic<br>lawsuit<br>gate<br>flee<br>guide<br>find<br>real<br>laugh<br>asset |  
-| bip_39_word_new_br12 | mom<br>uniform<br>acoustic<br>lawsuit<br>gate<br>flee<br>guide<br>find<br>real<br>laugh<br>asset<br>album |  
-| bip_39_word_new_br2 | mom<br>uniform |  
-| bip_39_word_new_br3 | mom<br>uniform<br>acoustic |  
-| bip_39_word_new_br4 | mom<br>uniform<br>acoustic<br>lawsuit |  
-| bip_39_word_new_br5 | mom<br>uniform<br>acoustic<br>lawsuit<br>gate |  
-| bip_39_word_new_br6 | mom<br>uniform<br>acoustic<br>lawsuit<br>gate<br>flee |  
-| bip_39_word_new_br7 | mom<br>uniform<br>acoustic<br>lawsuit<br>gate<br>flee<br>guide |  
-| bip_39_word_new_br8 | mom<br>uniform<br>acoustic<br>lawsuit<br>gate<br>flee<br>guide<br>find |  
-| bip_39_word_new_br9 | mom<br>uniform<br>acoustic<br>lawsuit<br>gate<br>flee<br>guide<br>find<br>real |  
-| bip_39_word_new_line1 | mom |  
-| bip_39_word_new_line10 | mom
+| bip_39_word_new_br_1 | mom |  
+| bip_39_word_new_br_10 | mom<br>uniform<br>acoustic<br>lawsuit<br>gate<br>flee<br>guide<br>find<br>real<br>laugh |  
+| bip_39_word_new_br_11 | mom<br>uniform<br>acoustic<br>lawsuit<br>gate<br>flee<br>guide<br>find<br>real<br>laugh<br>asset |  
+| bip_39_word_new_br_12 | mom<br>uniform<br>acoustic<br>lawsuit<br>gate<br>flee<br>guide<br>find<br>real<br>laugh<br>asset<br>album |  
+| bip_39_word_new_br_2 | mom<br>uniform |  
+| bip_39_word_new_br_3 | mom<br>uniform<br>acoustic |  
+| bip_39_word_new_br_4 | mom<br>uniform<br>acoustic<br>lawsuit |  
+| bip_39_word_new_br_5 | mom<br>uniform<br>acoustic<br>lawsuit<br>gate |  
+| bip_39_word_new_br_6 | mom<br>uniform<br>acoustic<br>lawsuit<br>gate<br>flee |  
+| bip_39_word_new_br_7 | mom<br>uniform<br>acoustic<br>lawsuit<br>gate<br>flee<br>guide |  
+| bip_39_word_new_br_8 | mom<br>uniform<br>acoustic<br>lawsuit<br>gate<br>flee<br>guide<br>find |  
+| bip_39_word_new_br_9 | mom<br>uniform<br>acoustic<br>lawsuit<br>gate<br>flee<br>guide<br>find<br>real |  
+| bip_39_word_new_line_1 | mom |  
+| bip_39_word_new_line_10 | mom
 uniform
 acoustic
 lawsuit
@@ -55,7 +55,7 @@ guide
 find
 real
 laugh |  
-| bip_39_word_new_line11 | mom
+| bip_39_word_new_line_11 | mom
 uniform
 acoustic
 lawsuit
@@ -66,7 +66,7 @@ find
 real
 laugh
 asset |  
-| bip_39_word_new_line12 | mom
+| bip_39_word_new_line_12 | mom
 uniform
 acoustic
 lawsuit
@@ -78,34 +78,34 @@ real
 laugh
 asset
 album |  
-| bip_39_word_new_line2 | mom
+| bip_39_word_new_line_2 | mom
 uniform |  
-| bip_39_word_new_line3 | mom
+| bip_39_word_new_line_3 | mom
 uniform
 acoustic |  
-| bip_39_word_new_line4 | mom
+| bip_39_word_new_line_4 | mom
 uniform
 acoustic
 lawsuit |  
-| bip_39_word_new_line5 | mom
+| bip_39_word_new_line_5 | mom
 uniform
 acoustic
 lawsuit
 gate |  
-| bip_39_word_new_line6 | mom
+| bip_39_word_new_line_6 | mom
 uniform
 acoustic
 lawsuit
 gate
 flee |  
-| bip_39_word_new_line7 | mom
+| bip_39_word_new_line_7 | mom
 uniform
 acoustic
 lawsuit
 gate
 flee
 guide |  
-| bip_39_word_new_line8 | mom
+| bip_39_word_new_line_8 | mom
 uniform
 acoustic
 lawsuit
@@ -113,7 +113,7 @@ gate
 flee
 guide
 find |  
-| bip_39_word_new_line9 | mom
+| bip_39_word_new_line_9 | mom
 uniform
 acoustic
 lawsuit

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gain |  
-| bip_39_word_new_br10 | gain<br>learn<br>digital<br>venture<br>west<br>despair<br>fiscal<br>race<br>garden<br>tilt |  
-| bip_39_word_new_br11 | gain<br>learn<br>digital<br>venture<br>west<br>despair<br>fiscal<br>race<br>garden<br>tilt<br>inquiry |  
-| bip_39_word_new_br12 | gain<br>learn<br>digital<br>venture<br>west<br>despair<br>fiscal<br>race<br>garden<br>tilt<br>inquiry<br>army |  
-| bip_39_word_new_br2 | gain<br>learn |  
-| bip_39_word_new_br3 | gain<br>learn<br>digital |  
-| bip_39_word_new_br4 | gain<br>learn<br>digital<br>venture |  
-| bip_39_word_new_br5 | gain<br>learn<br>digital<br>venture<br>west |  
-| bip_39_word_new_br6 | gain<br>learn<br>digital<br>venture<br>west<br>despair |  
-| bip_39_word_new_br7 | gain<br>learn<br>digital<br>venture<br>west<br>despair<br>fiscal |  
-| bip_39_word_new_br8 | gain<br>learn<br>digital<br>venture<br>west<br>despair<br>fiscal<br>race |  
-| bip_39_word_new_br9 | gain<br>learn<br>digital<br>venture<br>west<br>despair<br>fiscal<br>race<br>garden |  
-| bip_39_word_new_line1 | gain |  
-| bip_39_word_new_line10 | gain
+| bip_39_word_new_br_1 | gain |  
+| bip_39_word_new_br_10 | gain<br>learn<br>digital<br>venture<br>west<br>despair<br>fiscal<br>race<br>garden<br>tilt |  
+| bip_39_word_new_br_11 | gain<br>learn<br>digital<br>venture<br>west<br>despair<br>fiscal<br>race<br>garden<br>tilt<br>inquiry |  
+| bip_39_word_new_br_12 | gain<br>learn<br>digital<br>venture<br>west<br>despair<br>fiscal<br>race<br>garden<br>tilt<br>inquiry<br>army |  
+| bip_39_word_new_br_2 | gain<br>learn |  
+| bip_39_word_new_br_3 | gain<br>learn<br>digital |  
+| bip_39_word_new_br_4 | gain<br>learn<br>digital<br>venture |  
+| bip_39_word_new_br_5 | gain<br>learn<br>digital<br>venture<br>west |  
+| bip_39_word_new_br_6 | gain<br>learn<br>digital<br>venture<br>west<br>despair |  
+| bip_39_word_new_br_7 | gain<br>learn<br>digital<br>venture<br>west<br>despair<br>fiscal |  
+| bip_39_word_new_br_8 | gain<br>learn<br>digital<br>venture<br>west<br>despair<br>fiscal<br>race |  
+| bip_39_word_new_br_9 | gain<br>learn<br>digital<br>venture<br>west<br>despair<br>fiscal<br>race<br>garden |  
+| bip_39_word_new_line_1 | gain |  
+| bip_39_word_new_line_10 | gain
 learn
 digital
 venture
@@ -55,7 +55,7 @@ fiscal
 race
 garden
 tilt |  
-| bip_39_word_new_line11 | gain
+| bip_39_word_new_line_11 | gain
 learn
 digital
 venture
@@ -66,7 +66,7 @@ race
 garden
 tilt
 inquiry |  
-| bip_39_word_new_line12 | gain
+| bip_39_word_new_line_12 | gain
 learn
 digital
 venture
@@ -78,34 +78,34 @@ garden
 tilt
 inquiry
 army |  
-| bip_39_word_new_line2 | gain
+| bip_39_word_new_line_2 | gain
 learn |  
-| bip_39_word_new_line3 | gain
+| bip_39_word_new_line_3 | gain
 learn
 digital |  
-| bip_39_word_new_line4 | gain
+| bip_39_word_new_line_4 | gain
 learn
 digital
 venture |  
-| bip_39_word_new_line5 | gain
+| bip_39_word_new_line_5 | gain
 learn
 digital
 venture
 west |  
-| bip_39_word_new_line6 | gain
+| bip_39_word_new_line_6 | gain
 learn
 digital
 venture
 west
 despair |  
-| bip_39_word_new_line7 | gain
+| bip_39_word_new_line_7 | gain
 learn
 digital
 venture
 west
 despair
 fiscal |  
-| bip_39_word_new_line8 | gain
+| bip_39_word_new_line_8 | gain
 learn
 digital
 venture
@@ -113,7 +113,7 @@ west
 despair
 fiscal
 race |  
-| bip_39_word_new_line9 | gain
+| bip_39_word_new_line_9 | gain
 learn
 digital
 venture

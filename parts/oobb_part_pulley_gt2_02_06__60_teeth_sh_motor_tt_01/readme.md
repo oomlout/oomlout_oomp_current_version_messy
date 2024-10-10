@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ensure |  
-| bip_39_word_new_br10 | ensure<br>ordinary<br>blind<br>armor<br>consider<br>captain<br>detect<br>helmet<br>session<br>shrug |  
-| bip_39_word_new_br11 | ensure<br>ordinary<br>blind<br>armor<br>consider<br>captain<br>detect<br>helmet<br>session<br>shrug<br>vehicle |  
-| bip_39_word_new_br12 | ensure<br>ordinary<br>blind<br>armor<br>consider<br>captain<br>detect<br>helmet<br>session<br>shrug<br>vehicle<br>absorb |  
-| bip_39_word_new_br2 | ensure<br>ordinary |  
-| bip_39_word_new_br3 | ensure<br>ordinary<br>blind |  
-| bip_39_word_new_br4 | ensure<br>ordinary<br>blind<br>armor |  
-| bip_39_word_new_br5 | ensure<br>ordinary<br>blind<br>armor<br>consider |  
-| bip_39_word_new_br6 | ensure<br>ordinary<br>blind<br>armor<br>consider<br>captain |  
-| bip_39_word_new_br7 | ensure<br>ordinary<br>blind<br>armor<br>consider<br>captain<br>detect |  
-| bip_39_word_new_br8 | ensure<br>ordinary<br>blind<br>armor<br>consider<br>captain<br>detect<br>helmet |  
-| bip_39_word_new_br9 | ensure<br>ordinary<br>blind<br>armor<br>consider<br>captain<br>detect<br>helmet<br>session |  
-| bip_39_word_new_line1 | ensure |  
-| bip_39_word_new_line10 | ensure
+| bip_39_word_new_br_1 | ensure |  
+| bip_39_word_new_br_10 | ensure<br>ordinary<br>blind<br>armor<br>consider<br>captain<br>detect<br>helmet<br>session<br>shrug |  
+| bip_39_word_new_br_11 | ensure<br>ordinary<br>blind<br>armor<br>consider<br>captain<br>detect<br>helmet<br>session<br>shrug<br>vehicle |  
+| bip_39_word_new_br_12 | ensure<br>ordinary<br>blind<br>armor<br>consider<br>captain<br>detect<br>helmet<br>session<br>shrug<br>vehicle<br>absorb |  
+| bip_39_word_new_br_2 | ensure<br>ordinary |  
+| bip_39_word_new_br_3 | ensure<br>ordinary<br>blind |  
+| bip_39_word_new_br_4 | ensure<br>ordinary<br>blind<br>armor |  
+| bip_39_word_new_br_5 | ensure<br>ordinary<br>blind<br>armor<br>consider |  
+| bip_39_word_new_br_6 | ensure<br>ordinary<br>blind<br>armor<br>consider<br>captain |  
+| bip_39_word_new_br_7 | ensure<br>ordinary<br>blind<br>armor<br>consider<br>captain<br>detect |  
+| bip_39_word_new_br_8 | ensure<br>ordinary<br>blind<br>armor<br>consider<br>captain<br>detect<br>helmet |  
+| bip_39_word_new_br_9 | ensure<br>ordinary<br>blind<br>armor<br>consider<br>captain<br>detect<br>helmet<br>session |  
+| bip_39_word_new_line_1 | ensure |  
+| bip_39_word_new_line_10 | ensure
 ordinary
 blind
 armor
@@ -55,7 +55,7 @@ detect
 helmet
 session
 shrug |  
-| bip_39_word_new_line11 | ensure
+| bip_39_word_new_line_11 | ensure
 ordinary
 blind
 armor
@@ -66,7 +66,7 @@ helmet
 session
 shrug
 vehicle |  
-| bip_39_word_new_line12 | ensure
+| bip_39_word_new_line_12 | ensure
 ordinary
 blind
 armor
@@ -78,34 +78,34 @@ session
 shrug
 vehicle
 absorb |  
-| bip_39_word_new_line2 | ensure
+| bip_39_word_new_line_2 | ensure
 ordinary |  
-| bip_39_word_new_line3 | ensure
+| bip_39_word_new_line_3 | ensure
 ordinary
 blind |  
-| bip_39_word_new_line4 | ensure
+| bip_39_word_new_line_4 | ensure
 ordinary
 blind
 armor |  
-| bip_39_word_new_line5 | ensure
+| bip_39_word_new_line_5 | ensure
 ordinary
 blind
 armor
 consider |  
-| bip_39_word_new_line6 | ensure
+| bip_39_word_new_line_6 | ensure
 ordinary
 blind
 armor
 consider
 captain |  
-| bip_39_word_new_line7 | ensure
+| bip_39_word_new_line_7 | ensure
 ordinary
 blind
 armor
 consider
 captain
 detect |  
-| bip_39_word_new_line8 | ensure
+| bip_39_word_new_line_8 | ensure
 ordinary
 blind
 armor
@@ -113,7 +113,7 @@ consider
 captain
 detect
 helmet |  
-| bip_39_word_new_line9 | ensure
+| bip_39_word_new_line_9 | ensure
 ordinary
 blind
 armor

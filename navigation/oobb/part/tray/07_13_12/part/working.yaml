@@ -1,17 +1,17 @@
-bip_39_word_new_br1: situate
-bip_39_word_new_br10: situate<br>urge<br>truck<br>during<br>link<br>decrease<br>decline<br>puppy<br>cream<br>agent
-bip_39_word_new_br11: situate<br>urge<br>truck<br>during<br>link<br>decrease<br>decline<br>puppy<br>cream<br>agent<br>april
-bip_39_word_new_br12: situate<br>urge<br>truck<br>during<br>link<br>decrease<br>decline<br>puppy<br>cream<br>agent<br>april<br>attack
-bip_39_word_new_br2: situate<br>urge
-bip_39_word_new_br3: situate<br>urge<br>truck
-bip_39_word_new_br4: situate<br>urge<br>truck<br>during
-bip_39_word_new_br5: situate<br>urge<br>truck<br>during<br>link
-bip_39_word_new_br6: situate<br>urge<br>truck<br>during<br>link<br>decrease
-bip_39_word_new_br7: situate<br>urge<br>truck<br>during<br>link<br>decrease<br>decline
-bip_39_word_new_br8: situate<br>urge<br>truck<br>during<br>link<br>decrease<br>decline<br>puppy
-bip_39_word_new_br9: situate<br>urge<br>truck<br>during<br>link<br>decrease<br>decline<br>puppy<br>cream
-bip_39_word_new_line1: situate
-bip_39_word_new_line10: 'situate
+bip_39_word_new_br_1: situate
+bip_39_word_new_br_10: situate<br>urge<br>truck<br>during<br>link<br>decrease<br>decline<br>puppy<br>cream<br>agent
+bip_39_word_new_br_11: situate<br>urge<br>truck<br>during<br>link<br>decrease<br>decline<br>puppy<br>cream<br>agent<br>april
+bip_39_word_new_br_12: situate<br>urge<br>truck<br>during<br>link<br>decrease<br>decline<br>puppy<br>cream<br>agent<br>april<br>attack
+bip_39_word_new_br_2: situate<br>urge
+bip_39_word_new_br_3: situate<br>urge<br>truck
+bip_39_word_new_br_4: situate<br>urge<br>truck<br>during
+bip_39_word_new_br_5: situate<br>urge<br>truck<br>during<br>link
+bip_39_word_new_br_6: situate<br>urge<br>truck<br>during<br>link<br>decrease
+bip_39_word_new_br_7: situate<br>urge<br>truck<br>during<br>link<br>decrease<br>decline
+bip_39_word_new_br_8: situate<br>urge<br>truck<br>during<br>link<br>decrease<br>decline<br>puppy
+bip_39_word_new_br_9: situate<br>urge<br>truck<br>during<br>link<br>decrease<br>decline<br>puppy<br>cream
+bip_39_word_new_line_1: situate
+bip_39_word_new_line_10: 'situate
 
   urge
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'situate
   cream
 
   agent'
-bip_39_word_new_line11: 'situate
+bip_39_word_new_line_11: 'situate
 
   urge
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'situate
   agent
 
   april'
-bip_39_word_new_line12: 'situate
+bip_39_word_new_line_12: 'situate
 
   urge
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'situate
   april
 
   attack'
-bip_39_word_new_line2: 'situate
+bip_39_word_new_line_2: 'situate
 
   urge'
-bip_39_word_new_line3: 'situate
+bip_39_word_new_line_3: 'situate
 
   urge
 
   truck'
-bip_39_word_new_line4: 'situate
+bip_39_word_new_line_4: 'situate
 
   urge
 
   truck
 
   during'
-bip_39_word_new_line5: 'situate
+bip_39_word_new_line_5: 'situate
 
   urge
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'situate
   during
 
   link'
-bip_39_word_new_line6: 'situate
+bip_39_word_new_line_6: 'situate
 
   urge
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'situate
   link
 
   decrease'
-bip_39_word_new_line7: 'situate
+bip_39_word_new_line_7: 'situate
 
   urge
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'situate
   decrease
 
   decline'
-bip_39_word_new_line8: 'situate
+bip_39_word_new_line_8: 'situate
 
   urge
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'situate
   decline
 
   puppy'
-bip_39_word_new_line9: 'situate
+bip_39_word_new_line_9: 'situate
 
   urge
 

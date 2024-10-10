@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | used |  
-| bip_39_word_new_br10 | used<br>finger<br>flavor<br>angle<br>devote<br>waste<br>figure<br>anger<br>vocal<br>age |  
-| bip_39_word_new_br11 | used<br>finger<br>flavor<br>angle<br>devote<br>waste<br>figure<br>anger<br>vocal<br>age<br>quantum |  
-| bip_39_word_new_br12 | used<br>finger<br>flavor<br>angle<br>devote<br>waste<br>figure<br>anger<br>vocal<br>age<br>quantum<br>actress |  
-| bip_39_word_new_br2 | used<br>finger |  
-| bip_39_word_new_br3 | used<br>finger<br>flavor |  
-| bip_39_word_new_br4 | used<br>finger<br>flavor<br>angle |  
-| bip_39_word_new_br5 | used<br>finger<br>flavor<br>angle<br>devote |  
-| bip_39_word_new_br6 | used<br>finger<br>flavor<br>angle<br>devote<br>waste |  
-| bip_39_word_new_br7 | used<br>finger<br>flavor<br>angle<br>devote<br>waste<br>figure |  
-| bip_39_word_new_br8 | used<br>finger<br>flavor<br>angle<br>devote<br>waste<br>figure<br>anger |  
-| bip_39_word_new_br9 | used<br>finger<br>flavor<br>angle<br>devote<br>waste<br>figure<br>anger<br>vocal |  
-| bip_39_word_new_line1 | used |  
-| bip_39_word_new_line10 | used
+| bip_39_word_new_br_1 | used |  
+| bip_39_word_new_br_10 | used<br>finger<br>flavor<br>angle<br>devote<br>waste<br>figure<br>anger<br>vocal<br>age |  
+| bip_39_word_new_br_11 | used<br>finger<br>flavor<br>angle<br>devote<br>waste<br>figure<br>anger<br>vocal<br>age<br>quantum |  
+| bip_39_word_new_br_12 | used<br>finger<br>flavor<br>angle<br>devote<br>waste<br>figure<br>anger<br>vocal<br>age<br>quantum<br>actress |  
+| bip_39_word_new_br_2 | used<br>finger |  
+| bip_39_word_new_br_3 | used<br>finger<br>flavor |  
+| bip_39_word_new_br_4 | used<br>finger<br>flavor<br>angle |  
+| bip_39_word_new_br_5 | used<br>finger<br>flavor<br>angle<br>devote |  
+| bip_39_word_new_br_6 | used<br>finger<br>flavor<br>angle<br>devote<br>waste |  
+| bip_39_word_new_br_7 | used<br>finger<br>flavor<br>angle<br>devote<br>waste<br>figure |  
+| bip_39_word_new_br_8 | used<br>finger<br>flavor<br>angle<br>devote<br>waste<br>figure<br>anger |  
+| bip_39_word_new_br_9 | used<br>finger<br>flavor<br>angle<br>devote<br>waste<br>figure<br>anger<br>vocal |  
+| bip_39_word_new_line_1 | used |  
+| bip_39_word_new_line_10 | used
 finger
 flavor
 angle
@@ -55,7 +55,7 @@ figure
 anger
 vocal
 age |  
-| bip_39_word_new_line11 | used
+| bip_39_word_new_line_11 | used
 finger
 flavor
 angle
@@ -66,7 +66,7 @@ anger
 vocal
 age
 quantum |  
-| bip_39_word_new_line12 | used
+| bip_39_word_new_line_12 | used
 finger
 flavor
 angle
@@ -78,34 +78,34 @@ vocal
 age
 quantum
 actress |  
-| bip_39_word_new_line2 | used
+| bip_39_word_new_line_2 | used
 finger |  
-| bip_39_word_new_line3 | used
+| bip_39_word_new_line_3 | used
 finger
 flavor |  
-| bip_39_word_new_line4 | used
+| bip_39_word_new_line_4 | used
 finger
 flavor
 angle |  
-| bip_39_word_new_line5 | used
+| bip_39_word_new_line_5 | used
 finger
 flavor
 angle
 devote |  
-| bip_39_word_new_line6 | used
+| bip_39_word_new_line_6 | used
 finger
 flavor
 angle
 devote
 waste |  
-| bip_39_word_new_line7 | used
+| bip_39_word_new_line_7 | used
 finger
 flavor
 angle
 devote
 waste
 figure |  
-| bip_39_word_new_line8 | used
+| bip_39_word_new_line_8 | used
 finger
 flavor
 angle
@@ -113,7 +113,7 @@ devote
 waste
 figure
 anger |  
-| bip_39_word_new_line9 | used
+| bip_39_word_new_line_9 | used
 finger
 flavor
 angle

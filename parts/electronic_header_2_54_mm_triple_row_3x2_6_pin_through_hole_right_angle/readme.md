@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | south |  
-| bip_39_word_new_br10 | south<br>derive<br>around<br>gym<br>glove<br>display<br>expire<br>quit<br>rich<br>option |  
-| bip_39_word_new_br11 | south<br>derive<br>around<br>gym<br>glove<br>display<br>expire<br>quit<br>rich<br>option<br>sunset |  
-| bip_39_word_new_br12 | south<br>derive<br>around<br>gym<br>glove<br>display<br>expire<br>quit<br>rich<br>option<br>sunset<br>album |  
-| bip_39_word_new_br2 | south<br>derive |  
-| bip_39_word_new_br3 | south<br>derive<br>around |  
-| bip_39_word_new_br4 | south<br>derive<br>around<br>gym |  
-| bip_39_word_new_br5 | south<br>derive<br>around<br>gym<br>glove |  
-| bip_39_word_new_br6 | south<br>derive<br>around<br>gym<br>glove<br>display |  
-| bip_39_word_new_br7 | south<br>derive<br>around<br>gym<br>glove<br>display<br>expire |  
-| bip_39_word_new_br8 | south<br>derive<br>around<br>gym<br>glove<br>display<br>expire<br>quit |  
-| bip_39_word_new_br9 | south<br>derive<br>around<br>gym<br>glove<br>display<br>expire<br>quit<br>rich |  
-| bip_39_word_new_line1 | south |  
-| bip_39_word_new_line10 | south
+| bip_39_word_new_br_1 | south |  
+| bip_39_word_new_br_10 | south<br>derive<br>around<br>gym<br>glove<br>display<br>expire<br>quit<br>rich<br>option |  
+| bip_39_word_new_br_11 | south<br>derive<br>around<br>gym<br>glove<br>display<br>expire<br>quit<br>rich<br>option<br>sunset |  
+| bip_39_word_new_br_12 | south<br>derive<br>around<br>gym<br>glove<br>display<br>expire<br>quit<br>rich<br>option<br>sunset<br>album |  
+| bip_39_word_new_br_2 | south<br>derive |  
+| bip_39_word_new_br_3 | south<br>derive<br>around |  
+| bip_39_word_new_br_4 | south<br>derive<br>around<br>gym |  
+| bip_39_word_new_br_5 | south<br>derive<br>around<br>gym<br>glove |  
+| bip_39_word_new_br_6 | south<br>derive<br>around<br>gym<br>glove<br>display |  
+| bip_39_word_new_br_7 | south<br>derive<br>around<br>gym<br>glove<br>display<br>expire |  
+| bip_39_word_new_br_8 | south<br>derive<br>around<br>gym<br>glove<br>display<br>expire<br>quit |  
+| bip_39_word_new_br_9 | south<br>derive<br>around<br>gym<br>glove<br>display<br>expire<br>quit<br>rich |  
+| bip_39_word_new_line_1 | south |  
+| bip_39_word_new_line_10 | south
 derive
 around
 gym
@@ -55,7 +55,7 @@ expire
 quit
 rich
 option |  
-| bip_39_word_new_line11 | south
+| bip_39_word_new_line_11 | south
 derive
 around
 gym
@@ -66,7 +66,7 @@ quit
 rich
 option
 sunset |  
-| bip_39_word_new_line12 | south
+| bip_39_word_new_line_12 | south
 derive
 around
 gym
@@ -78,34 +78,34 @@ rich
 option
 sunset
 album |  
-| bip_39_word_new_line2 | south
+| bip_39_word_new_line_2 | south
 derive |  
-| bip_39_word_new_line3 | south
+| bip_39_word_new_line_3 | south
 derive
 around |  
-| bip_39_word_new_line4 | south
+| bip_39_word_new_line_4 | south
 derive
 around
 gym |  
-| bip_39_word_new_line5 | south
+| bip_39_word_new_line_5 | south
 derive
 around
 gym
 glove |  
-| bip_39_word_new_line6 | south
+| bip_39_word_new_line_6 | south
 derive
 around
 gym
 glove
 display |  
-| bip_39_word_new_line7 | south
+| bip_39_word_new_line_7 | south
 derive
 around
 gym
 glove
 display
 expire |  
-| bip_39_word_new_line8 | south
+| bip_39_word_new_line_8 | south
 derive
 around
 gym
@@ -113,7 +113,7 @@ glove
 display
 expire
 quit |  
-| bip_39_word_new_line9 | south
+| bip_39_word_new_line_9 | south
 derive
 around
 gym

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dumb |  
-| bip_39_word_new_br10 | dumb<br>must<br>hard<br>uphold<br>match<br>submit<br>solar<br>pigeon<br>true<br>audit |  
-| bip_39_word_new_br11 | dumb<br>must<br>hard<br>uphold<br>match<br>submit<br>solar<br>pigeon<br>true<br>audit<br>envelope |  
-| bip_39_word_new_br12 | dumb<br>must<br>hard<br>uphold<br>match<br>submit<br>solar<br>pigeon<br>true<br>audit<br>envelope<br>approve |  
-| bip_39_word_new_br2 | dumb<br>must |  
-| bip_39_word_new_br3 | dumb<br>must<br>hard |  
-| bip_39_word_new_br4 | dumb<br>must<br>hard<br>uphold |  
-| bip_39_word_new_br5 | dumb<br>must<br>hard<br>uphold<br>match |  
-| bip_39_word_new_br6 | dumb<br>must<br>hard<br>uphold<br>match<br>submit |  
-| bip_39_word_new_br7 | dumb<br>must<br>hard<br>uphold<br>match<br>submit<br>solar |  
-| bip_39_word_new_br8 | dumb<br>must<br>hard<br>uphold<br>match<br>submit<br>solar<br>pigeon |  
-| bip_39_word_new_br9 | dumb<br>must<br>hard<br>uphold<br>match<br>submit<br>solar<br>pigeon<br>true |  
-| bip_39_word_new_line1 | dumb |  
-| bip_39_word_new_line10 | dumb
+| bip_39_word_new_br_1 | dumb |  
+| bip_39_word_new_br_10 | dumb<br>must<br>hard<br>uphold<br>match<br>submit<br>solar<br>pigeon<br>true<br>audit |  
+| bip_39_word_new_br_11 | dumb<br>must<br>hard<br>uphold<br>match<br>submit<br>solar<br>pigeon<br>true<br>audit<br>envelope |  
+| bip_39_word_new_br_12 | dumb<br>must<br>hard<br>uphold<br>match<br>submit<br>solar<br>pigeon<br>true<br>audit<br>envelope<br>approve |  
+| bip_39_word_new_br_2 | dumb<br>must |  
+| bip_39_word_new_br_3 | dumb<br>must<br>hard |  
+| bip_39_word_new_br_4 | dumb<br>must<br>hard<br>uphold |  
+| bip_39_word_new_br_5 | dumb<br>must<br>hard<br>uphold<br>match |  
+| bip_39_word_new_br_6 | dumb<br>must<br>hard<br>uphold<br>match<br>submit |  
+| bip_39_word_new_br_7 | dumb<br>must<br>hard<br>uphold<br>match<br>submit<br>solar |  
+| bip_39_word_new_br_8 | dumb<br>must<br>hard<br>uphold<br>match<br>submit<br>solar<br>pigeon |  
+| bip_39_word_new_br_9 | dumb<br>must<br>hard<br>uphold<br>match<br>submit<br>solar<br>pigeon<br>true |  
+| bip_39_word_new_line_1 | dumb |  
+| bip_39_word_new_line_10 | dumb
 must
 hard
 uphold
@@ -55,7 +55,7 @@ solar
 pigeon
 true
 audit |  
-| bip_39_word_new_line11 | dumb
+| bip_39_word_new_line_11 | dumb
 must
 hard
 uphold
@@ -66,7 +66,7 @@ pigeon
 true
 audit
 envelope |  
-| bip_39_word_new_line12 | dumb
+| bip_39_word_new_line_12 | dumb
 must
 hard
 uphold
@@ -78,34 +78,34 @@ true
 audit
 envelope
 approve |  
-| bip_39_word_new_line2 | dumb
+| bip_39_word_new_line_2 | dumb
 must |  
-| bip_39_word_new_line3 | dumb
+| bip_39_word_new_line_3 | dumb
 must
 hard |  
-| bip_39_word_new_line4 | dumb
+| bip_39_word_new_line_4 | dumb
 must
 hard
 uphold |  
-| bip_39_word_new_line5 | dumb
+| bip_39_word_new_line_5 | dumb
 must
 hard
 uphold
 match |  
-| bip_39_word_new_line6 | dumb
+| bip_39_word_new_line_6 | dumb
 must
 hard
 uphold
 match
 submit |  
-| bip_39_word_new_line7 | dumb
+| bip_39_word_new_line_7 | dumb
 must
 hard
 uphold
 match
 submit
 solar |  
-| bip_39_word_new_line8 | dumb
+| bip_39_word_new_line_8 | dumb
 must
 hard
 uphold
@@ -113,7 +113,7 @@ match
 submit
 solar
 pigeon |  
-| bip_39_word_new_line9 | dumb
+| bip_39_word_new_line_9 | dumb
 must
 hard
 uphold

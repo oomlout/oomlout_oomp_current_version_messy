@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | idea |  
-| bip_39_word_new_br10 | idea<br>clerk<br>rifle<br>grocery<br>describe<br>two<br>quality<br>denial<br>valid<br>elephant |  
-| bip_39_word_new_br11 | idea<br>clerk<br>rifle<br>grocery<br>describe<br>two<br>quality<br>denial<br>valid<br>elephant<br>try |  
-| bip_39_word_new_br12 | idea<br>clerk<br>rifle<br>grocery<br>describe<br>two<br>quality<br>denial<br>valid<br>elephant<br>try<br>answer |  
-| bip_39_word_new_br2 | idea<br>clerk |  
-| bip_39_word_new_br3 | idea<br>clerk<br>rifle |  
-| bip_39_word_new_br4 | idea<br>clerk<br>rifle<br>grocery |  
-| bip_39_word_new_br5 | idea<br>clerk<br>rifle<br>grocery<br>describe |  
-| bip_39_word_new_br6 | idea<br>clerk<br>rifle<br>grocery<br>describe<br>two |  
-| bip_39_word_new_br7 | idea<br>clerk<br>rifle<br>grocery<br>describe<br>two<br>quality |  
-| bip_39_word_new_br8 | idea<br>clerk<br>rifle<br>grocery<br>describe<br>two<br>quality<br>denial |  
-| bip_39_word_new_br9 | idea<br>clerk<br>rifle<br>grocery<br>describe<br>two<br>quality<br>denial<br>valid |  
-| bip_39_word_new_line1 | idea |  
-| bip_39_word_new_line10 | idea
+| bip_39_word_new_br_1 | idea |  
+| bip_39_word_new_br_10 | idea<br>clerk<br>rifle<br>grocery<br>describe<br>two<br>quality<br>denial<br>valid<br>elephant |  
+| bip_39_word_new_br_11 | idea<br>clerk<br>rifle<br>grocery<br>describe<br>two<br>quality<br>denial<br>valid<br>elephant<br>try |  
+| bip_39_word_new_br_12 | idea<br>clerk<br>rifle<br>grocery<br>describe<br>two<br>quality<br>denial<br>valid<br>elephant<br>try<br>answer |  
+| bip_39_word_new_br_2 | idea<br>clerk |  
+| bip_39_word_new_br_3 | idea<br>clerk<br>rifle |  
+| bip_39_word_new_br_4 | idea<br>clerk<br>rifle<br>grocery |  
+| bip_39_word_new_br_5 | idea<br>clerk<br>rifle<br>grocery<br>describe |  
+| bip_39_word_new_br_6 | idea<br>clerk<br>rifle<br>grocery<br>describe<br>two |  
+| bip_39_word_new_br_7 | idea<br>clerk<br>rifle<br>grocery<br>describe<br>two<br>quality |  
+| bip_39_word_new_br_8 | idea<br>clerk<br>rifle<br>grocery<br>describe<br>two<br>quality<br>denial |  
+| bip_39_word_new_br_9 | idea<br>clerk<br>rifle<br>grocery<br>describe<br>two<br>quality<br>denial<br>valid |  
+| bip_39_word_new_line_1 | idea |  
+| bip_39_word_new_line_10 | idea
 clerk
 rifle
 grocery
@@ -55,7 +55,7 @@ quality
 denial
 valid
 elephant |  
-| bip_39_word_new_line11 | idea
+| bip_39_word_new_line_11 | idea
 clerk
 rifle
 grocery
@@ -66,7 +66,7 @@ denial
 valid
 elephant
 try |  
-| bip_39_word_new_line12 | idea
+| bip_39_word_new_line_12 | idea
 clerk
 rifle
 grocery
@@ -78,34 +78,34 @@ valid
 elephant
 try
 answer |  
-| bip_39_word_new_line2 | idea
+| bip_39_word_new_line_2 | idea
 clerk |  
-| bip_39_word_new_line3 | idea
+| bip_39_word_new_line_3 | idea
 clerk
 rifle |  
-| bip_39_word_new_line4 | idea
+| bip_39_word_new_line_4 | idea
 clerk
 rifle
 grocery |  
-| bip_39_word_new_line5 | idea
+| bip_39_word_new_line_5 | idea
 clerk
 rifle
 grocery
 describe |  
-| bip_39_word_new_line6 | idea
+| bip_39_word_new_line_6 | idea
 clerk
 rifle
 grocery
 describe
 two |  
-| bip_39_word_new_line7 | idea
+| bip_39_word_new_line_7 | idea
 clerk
 rifle
 grocery
 describe
 two
 quality |  
-| bip_39_word_new_line8 | idea
+| bip_39_word_new_line_8 | idea
 clerk
 rifle
 grocery
@@ -113,7 +113,7 @@ describe
 two
 quality
 denial |  
-| bip_39_word_new_line9 | idea
+| bip_39_word_new_line_9 | idea
 clerk
 rifle
 grocery

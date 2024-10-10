@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | metal |  
-| bip_39_word_new_br10 | metal<br>snake<br>tag<br>armor<br>soft<br>pride<br>letter<br>profit<br>walk<br>decline |  
-| bip_39_word_new_br11 | metal<br>snake<br>tag<br>armor<br>soft<br>pride<br>letter<br>profit<br>walk<br>decline<br>seminar |  
-| bip_39_word_new_br12 | metal<br>snake<br>tag<br>armor<br>soft<br>pride<br>letter<br>profit<br>walk<br>decline<br>seminar<br>afraid |  
-| bip_39_word_new_br2 | metal<br>snake |  
-| bip_39_word_new_br3 | metal<br>snake<br>tag |  
-| bip_39_word_new_br4 | metal<br>snake<br>tag<br>armor |  
-| bip_39_word_new_br5 | metal<br>snake<br>tag<br>armor<br>soft |  
-| bip_39_word_new_br6 | metal<br>snake<br>tag<br>armor<br>soft<br>pride |  
-| bip_39_word_new_br7 | metal<br>snake<br>tag<br>armor<br>soft<br>pride<br>letter |  
-| bip_39_word_new_br8 | metal<br>snake<br>tag<br>armor<br>soft<br>pride<br>letter<br>profit |  
-| bip_39_word_new_br9 | metal<br>snake<br>tag<br>armor<br>soft<br>pride<br>letter<br>profit<br>walk |  
-| bip_39_word_new_line1 | metal |  
-| bip_39_word_new_line10 | metal
+| bip_39_word_new_br_1 | metal |  
+| bip_39_word_new_br_10 | metal<br>snake<br>tag<br>armor<br>soft<br>pride<br>letter<br>profit<br>walk<br>decline |  
+| bip_39_word_new_br_11 | metal<br>snake<br>tag<br>armor<br>soft<br>pride<br>letter<br>profit<br>walk<br>decline<br>seminar |  
+| bip_39_word_new_br_12 | metal<br>snake<br>tag<br>armor<br>soft<br>pride<br>letter<br>profit<br>walk<br>decline<br>seminar<br>afraid |  
+| bip_39_word_new_br_2 | metal<br>snake |  
+| bip_39_word_new_br_3 | metal<br>snake<br>tag |  
+| bip_39_word_new_br_4 | metal<br>snake<br>tag<br>armor |  
+| bip_39_word_new_br_5 | metal<br>snake<br>tag<br>armor<br>soft |  
+| bip_39_word_new_br_6 | metal<br>snake<br>tag<br>armor<br>soft<br>pride |  
+| bip_39_word_new_br_7 | metal<br>snake<br>tag<br>armor<br>soft<br>pride<br>letter |  
+| bip_39_word_new_br_8 | metal<br>snake<br>tag<br>armor<br>soft<br>pride<br>letter<br>profit |  
+| bip_39_word_new_br_9 | metal<br>snake<br>tag<br>armor<br>soft<br>pride<br>letter<br>profit<br>walk |  
+| bip_39_word_new_line_1 | metal |  
+| bip_39_word_new_line_10 | metal
 snake
 tag
 armor
@@ -55,7 +55,7 @@ letter
 profit
 walk
 decline |  
-| bip_39_word_new_line11 | metal
+| bip_39_word_new_line_11 | metal
 snake
 tag
 armor
@@ -66,7 +66,7 @@ profit
 walk
 decline
 seminar |  
-| bip_39_word_new_line12 | metal
+| bip_39_word_new_line_12 | metal
 snake
 tag
 armor
@@ -78,34 +78,34 @@ walk
 decline
 seminar
 afraid |  
-| bip_39_word_new_line2 | metal
+| bip_39_word_new_line_2 | metal
 snake |  
-| bip_39_word_new_line3 | metal
+| bip_39_word_new_line_3 | metal
 snake
 tag |  
-| bip_39_word_new_line4 | metal
+| bip_39_word_new_line_4 | metal
 snake
 tag
 armor |  
-| bip_39_word_new_line5 | metal
+| bip_39_word_new_line_5 | metal
 snake
 tag
 armor
 soft |  
-| bip_39_word_new_line6 | metal
+| bip_39_word_new_line_6 | metal
 snake
 tag
 armor
 soft
 pride |  
-| bip_39_word_new_line7 | metal
+| bip_39_word_new_line_7 | metal
 snake
 tag
 armor
 soft
 pride
 letter |  
-| bip_39_word_new_line8 | metal
+| bip_39_word_new_line_8 | metal
 snake
 tag
 armor
@@ -113,7 +113,7 @@ soft
 pride
 letter
 profit |  
-| bip_39_word_new_line9 | metal
+| bip_39_word_new_line_9 | metal
 snake
 tag
 armor

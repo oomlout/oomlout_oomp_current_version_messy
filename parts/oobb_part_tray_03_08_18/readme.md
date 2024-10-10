@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bone |  
-| bip_39_word_new_br10 | bone<br>grape<br>bless<br>fatal<br>tip<br>suit<br>slab<br>injury<br>one<br>caught |  
-| bip_39_word_new_br11 | bone<br>grape<br>bless<br>fatal<br>tip<br>suit<br>slab<br>injury<br>one<br>caught<br>name |  
-| bip_39_word_new_br12 | bone<br>grape<br>bless<br>fatal<br>tip<br>suit<br>slab<br>injury<br>one<br>caught<br>name<br>apple |  
-| bip_39_word_new_br2 | bone<br>grape |  
-| bip_39_word_new_br3 | bone<br>grape<br>bless |  
-| bip_39_word_new_br4 | bone<br>grape<br>bless<br>fatal |  
-| bip_39_word_new_br5 | bone<br>grape<br>bless<br>fatal<br>tip |  
-| bip_39_word_new_br6 | bone<br>grape<br>bless<br>fatal<br>tip<br>suit |  
-| bip_39_word_new_br7 | bone<br>grape<br>bless<br>fatal<br>tip<br>suit<br>slab |  
-| bip_39_word_new_br8 | bone<br>grape<br>bless<br>fatal<br>tip<br>suit<br>slab<br>injury |  
-| bip_39_word_new_br9 | bone<br>grape<br>bless<br>fatal<br>tip<br>suit<br>slab<br>injury<br>one |  
-| bip_39_word_new_line1 | bone |  
-| bip_39_word_new_line10 | bone
+| bip_39_word_new_br_1 | bone |  
+| bip_39_word_new_br_10 | bone<br>grape<br>bless<br>fatal<br>tip<br>suit<br>slab<br>injury<br>one<br>caught |  
+| bip_39_word_new_br_11 | bone<br>grape<br>bless<br>fatal<br>tip<br>suit<br>slab<br>injury<br>one<br>caught<br>name |  
+| bip_39_word_new_br_12 | bone<br>grape<br>bless<br>fatal<br>tip<br>suit<br>slab<br>injury<br>one<br>caught<br>name<br>apple |  
+| bip_39_word_new_br_2 | bone<br>grape |  
+| bip_39_word_new_br_3 | bone<br>grape<br>bless |  
+| bip_39_word_new_br_4 | bone<br>grape<br>bless<br>fatal |  
+| bip_39_word_new_br_5 | bone<br>grape<br>bless<br>fatal<br>tip |  
+| bip_39_word_new_br_6 | bone<br>grape<br>bless<br>fatal<br>tip<br>suit |  
+| bip_39_word_new_br_7 | bone<br>grape<br>bless<br>fatal<br>tip<br>suit<br>slab |  
+| bip_39_word_new_br_8 | bone<br>grape<br>bless<br>fatal<br>tip<br>suit<br>slab<br>injury |  
+| bip_39_word_new_br_9 | bone<br>grape<br>bless<br>fatal<br>tip<br>suit<br>slab<br>injury<br>one |  
+| bip_39_word_new_line_1 | bone |  
+| bip_39_word_new_line_10 | bone
 grape
 bless
 fatal
@@ -55,7 +55,7 @@ slab
 injury
 one
 caught |  
-| bip_39_word_new_line11 | bone
+| bip_39_word_new_line_11 | bone
 grape
 bless
 fatal
@@ -66,7 +66,7 @@ injury
 one
 caught
 name |  
-| bip_39_word_new_line12 | bone
+| bip_39_word_new_line_12 | bone
 grape
 bless
 fatal
@@ -78,34 +78,34 @@ one
 caught
 name
 apple |  
-| bip_39_word_new_line2 | bone
+| bip_39_word_new_line_2 | bone
 grape |  
-| bip_39_word_new_line3 | bone
+| bip_39_word_new_line_3 | bone
 grape
 bless |  
-| bip_39_word_new_line4 | bone
+| bip_39_word_new_line_4 | bone
 grape
 bless
 fatal |  
-| bip_39_word_new_line5 | bone
+| bip_39_word_new_line_5 | bone
 grape
 bless
 fatal
 tip |  
-| bip_39_word_new_line6 | bone
+| bip_39_word_new_line_6 | bone
 grape
 bless
 fatal
 tip
 suit |  
-| bip_39_word_new_line7 | bone
+| bip_39_word_new_line_7 | bone
 grape
 bless
 fatal
 tip
 suit
 slab |  
-| bip_39_word_new_line8 | bone
+| bip_39_word_new_line_8 | bone
 grape
 bless
 fatal
@@ -113,7 +113,7 @@ tip
 suit
 slab
 injury |  
-| bip_39_word_new_line9 | bone
+| bip_39_word_new_line_9 | bone
 grape
 bless
 fatal

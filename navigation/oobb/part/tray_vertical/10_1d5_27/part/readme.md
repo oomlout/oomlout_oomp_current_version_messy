@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | lottery |  
-| bip_39_word_new_br10 | lottery<br>receive<br>palm<br>hand<br>divorce<br>spot<br>concert<br>aisle<br>visa<br>unit |  
-| bip_39_word_new_br11 | lottery<br>receive<br>palm<br>hand<br>divorce<br>spot<br>concert<br>aisle<br>visa<br>unit<br>black |  
-| bip_39_word_new_br12 | lottery<br>receive<br>palm<br>hand<br>divorce<br>spot<br>concert<br>aisle<br>visa<br>unit<br>black<br>answer |  
-| bip_39_word_new_br2 | lottery<br>receive |  
-| bip_39_word_new_br3 | lottery<br>receive<br>palm |  
-| bip_39_word_new_br4 | lottery<br>receive<br>palm<br>hand |  
-| bip_39_word_new_br5 | lottery<br>receive<br>palm<br>hand<br>divorce |  
-| bip_39_word_new_br6 | lottery<br>receive<br>palm<br>hand<br>divorce<br>spot |  
-| bip_39_word_new_br7 | lottery<br>receive<br>palm<br>hand<br>divorce<br>spot<br>concert |  
-| bip_39_word_new_br8 | lottery<br>receive<br>palm<br>hand<br>divorce<br>spot<br>concert<br>aisle |  
-| bip_39_word_new_br9 | lottery<br>receive<br>palm<br>hand<br>divorce<br>spot<br>concert<br>aisle<br>visa |  
-| bip_39_word_new_line1 | lottery |  
-| bip_39_word_new_line10 | lottery
+| bip_39_word_new_br_1 | lottery |  
+| bip_39_word_new_br_10 | lottery<br>receive<br>palm<br>hand<br>divorce<br>spot<br>concert<br>aisle<br>visa<br>unit |  
+| bip_39_word_new_br_11 | lottery<br>receive<br>palm<br>hand<br>divorce<br>spot<br>concert<br>aisle<br>visa<br>unit<br>black |  
+| bip_39_word_new_br_12 | lottery<br>receive<br>palm<br>hand<br>divorce<br>spot<br>concert<br>aisle<br>visa<br>unit<br>black<br>answer |  
+| bip_39_word_new_br_2 | lottery<br>receive |  
+| bip_39_word_new_br_3 | lottery<br>receive<br>palm |  
+| bip_39_word_new_br_4 | lottery<br>receive<br>palm<br>hand |  
+| bip_39_word_new_br_5 | lottery<br>receive<br>palm<br>hand<br>divorce |  
+| bip_39_word_new_br_6 | lottery<br>receive<br>palm<br>hand<br>divorce<br>spot |  
+| bip_39_word_new_br_7 | lottery<br>receive<br>palm<br>hand<br>divorce<br>spot<br>concert |  
+| bip_39_word_new_br_8 | lottery<br>receive<br>palm<br>hand<br>divorce<br>spot<br>concert<br>aisle |  
+| bip_39_word_new_br_9 | lottery<br>receive<br>palm<br>hand<br>divorce<br>spot<br>concert<br>aisle<br>visa |  
+| bip_39_word_new_line_1 | lottery |  
+| bip_39_word_new_line_10 | lottery
 receive
 palm
 hand
@@ -55,7 +55,7 @@ concert
 aisle
 visa
 unit |  
-| bip_39_word_new_line11 | lottery
+| bip_39_word_new_line_11 | lottery
 receive
 palm
 hand
@@ -66,7 +66,7 @@ aisle
 visa
 unit
 black |  
-| bip_39_word_new_line12 | lottery
+| bip_39_word_new_line_12 | lottery
 receive
 palm
 hand
@@ -78,34 +78,34 @@ visa
 unit
 black
 answer |  
-| bip_39_word_new_line2 | lottery
+| bip_39_word_new_line_2 | lottery
 receive |  
-| bip_39_word_new_line3 | lottery
+| bip_39_word_new_line_3 | lottery
 receive
 palm |  
-| bip_39_word_new_line4 | lottery
+| bip_39_word_new_line_4 | lottery
 receive
 palm
 hand |  
-| bip_39_word_new_line5 | lottery
+| bip_39_word_new_line_5 | lottery
 receive
 palm
 hand
 divorce |  
-| bip_39_word_new_line6 | lottery
+| bip_39_word_new_line_6 | lottery
 receive
 palm
 hand
 divorce
 spot |  
-| bip_39_word_new_line7 | lottery
+| bip_39_word_new_line_7 | lottery
 receive
 palm
 hand
 divorce
 spot
 concert |  
-| bip_39_word_new_line8 | lottery
+| bip_39_word_new_line_8 | lottery
 receive
 palm
 hand
@@ -113,7 +113,7 @@ divorce
 spot
 concert
 aisle |  
-| bip_39_word_new_line9 | lottery
+| bip_39_word_new_line_9 | lottery
 receive
 palm
 hand

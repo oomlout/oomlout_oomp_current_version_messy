@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | lonely |  
-| bip_39_word_new_br10 | lonely<br>pledge<br>electric<br>clinic<br>silent<br>plate<br>drink<br>junior<br>girl<br>pistol |  
-| bip_39_word_new_br11 | lonely<br>pledge<br>electric<br>clinic<br>silent<br>plate<br>drink<br>junior<br>girl<br>pistol<br>warfare |  
-| bip_39_word_new_br12 | lonely<br>pledge<br>electric<br>clinic<br>silent<br>plate<br>drink<br>junior<br>girl<br>pistol<br>warfare<br>aim |  
-| bip_39_word_new_br2 | lonely<br>pledge |  
-| bip_39_word_new_br3 | lonely<br>pledge<br>electric |  
-| bip_39_word_new_br4 | lonely<br>pledge<br>electric<br>clinic |  
-| bip_39_word_new_br5 | lonely<br>pledge<br>electric<br>clinic<br>silent |  
-| bip_39_word_new_br6 | lonely<br>pledge<br>electric<br>clinic<br>silent<br>plate |  
-| bip_39_word_new_br7 | lonely<br>pledge<br>electric<br>clinic<br>silent<br>plate<br>drink |  
-| bip_39_word_new_br8 | lonely<br>pledge<br>electric<br>clinic<br>silent<br>plate<br>drink<br>junior |  
-| bip_39_word_new_br9 | lonely<br>pledge<br>electric<br>clinic<br>silent<br>plate<br>drink<br>junior<br>girl |  
-| bip_39_word_new_line1 | lonely |  
-| bip_39_word_new_line10 | lonely
+| bip_39_word_new_br_1 | lonely |  
+| bip_39_word_new_br_10 | lonely<br>pledge<br>electric<br>clinic<br>silent<br>plate<br>drink<br>junior<br>girl<br>pistol |  
+| bip_39_word_new_br_11 | lonely<br>pledge<br>electric<br>clinic<br>silent<br>plate<br>drink<br>junior<br>girl<br>pistol<br>warfare |  
+| bip_39_word_new_br_12 | lonely<br>pledge<br>electric<br>clinic<br>silent<br>plate<br>drink<br>junior<br>girl<br>pistol<br>warfare<br>aim |  
+| bip_39_word_new_br_2 | lonely<br>pledge |  
+| bip_39_word_new_br_3 | lonely<br>pledge<br>electric |  
+| bip_39_word_new_br_4 | lonely<br>pledge<br>electric<br>clinic |  
+| bip_39_word_new_br_5 | lonely<br>pledge<br>electric<br>clinic<br>silent |  
+| bip_39_word_new_br_6 | lonely<br>pledge<br>electric<br>clinic<br>silent<br>plate |  
+| bip_39_word_new_br_7 | lonely<br>pledge<br>electric<br>clinic<br>silent<br>plate<br>drink |  
+| bip_39_word_new_br_8 | lonely<br>pledge<br>electric<br>clinic<br>silent<br>plate<br>drink<br>junior |  
+| bip_39_word_new_br_9 | lonely<br>pledge<br>electric<br>clinic<br>silent<br>plate<br>drink<br>junior<br>girl |  
+| bip_39_word_new_line_1 | lonely |  
+| bip_39_word_new_line_10 | lonely
 pledge
 electric
 clinic
@@ -55,7 +55,7 @@ drink
 junior
 girl
 pistol |  
-| bip_39_word_new_line11 | lonely
+| bip_39_word_new_line_11 | lonely
 pledge
 electric
 clinic
@@ -66,7 +66,7 @@ junior
 girl
 pistol
 warfare |  
-| bip_39_word_new_line12 | lonely
+| bip_39_word_new_line_12 | lonely
 pledge
 electric
 clinic
@@ -78,34 +78,34 @@ girl
 pistol
 warfare
 aim |  
-| bip_39_word_new_line2 | lonely
+| bip_39_word_new_line_2 | lonely
 pledge |  
-| bip_39_word_new_line3 | lonely
+| bip_39_word_new_line_3 | lonely
 pledge
 electric |  
-| bip_39_word_new_line4 | lonely
+| bip_39_word_new_line_4 | lonely
 pledge
 electric
 clinic |  
-| bip_39_word_new_line5 | lonely
+| bip_39_word_new_line_5 | lonely
 pledge
 electric
 clinic
 silent |  
-| bip_39_word_new_line6 | lonely
+| bip_39_word_new_line_6 | lonely
 pledge
 electric
 clinic
 silent
 plate |  
-| bip_39_word_new_line7 | lonely
+| bip_39_word_new_line_7 | lonely
 pledge
 electric
 clinic
 silent
 plate
 drink |  
-| bip_39_word_new_line8 | lonely
+| bip_39_word_new_line_8 | lonely
 pledge
 electric
 clinic
@@ -113,7 +113,7 @@ silent
 plate
 drink
 junior |  
-| bip_39_word_new_line9 | lonely
+| bip_39_word_new_line_9 | lonely
 pledge
 electric
 clinic

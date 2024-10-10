@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | priority |  
-| bip_39_word_new_br10 | priority<br>pigeon<br>lesson<br>dust<br>sea<br>rhythm<br>analyst<br>warm<br>segment<br>opera |  
-| bip_39_word_new_br11 | priority<br>pigeon<br>lesson<br>dust<br>sea<br>rhythm<br>analyst<br>warm<br>segment<br>opera<br>unveil |  
-| bip_39_word_new_br12 | priority<br>pigeon<br>lesson<br>dust<br>sea<br>rhythm<br>analyst<br>warm<br>segment<br>opera<br>unveil<br>above |  
-| bip_39_word_new_br2 | priority<br>pigeon |  
-| bip_39_word_new_br3 | priority<br>pigeon<br>lesson |  
-| bip_39_word_new_br4 | priority<br>pigeon<br>lesson<br>dust |  
-| bip_39_word_new_br5 | priority<br>pigeon<br>lesson<br>dust<br>sea |  
-| bip_39_word_new_br6 | priority<br>pigeon<br>lesson<br>dust<br>sea<br>rhythm |  
-| bip_39_word_new_br7 | priority<br>pigeon<br>lesson<br>dust<br>sea<br>rhythm<br>analyst |  
-| bip_39_word_new_br8 | priority<br>pigeon<br>lesson<br>dust<br>sea<br>rhythm<br>analyst<br>warm |  
-| bip_39_word_new_br9 | priority<br>pigeon<br>lesson<br>dust<br>sea<br>rhythm<br>analyst<br>warm<br>segment |  
-| bip_39_word_new_line1 | priority |  
-| bip_39_word_new_line10 | priority
+| bip_39_word_new_br_1 | priority |  
+| bip_39_word_new_br_10 | priority<br>pigeon<br>lesson<br>dust<br>sea<br>rhythm<br>analyst<br>warm<br>segment<br>opera |  
+| bip_39_word_new_br_11 | priority<br>pigeon<br>lesson<br>dust<br>sea<br>rhythm<br>analyst<br>warm<br>segment<br>opera<br>unveil |  
+| bip_39_word_new_br_12 | priority<br>pigeon<br>lesson<br>dust<br>sea<br>rhythm<br>analyst<br>warm<br>segment<br>opera<br>unveil<br>above |  
+| bip_39_word_new_br_2 | priority<br>pigeon |  
+| bip_39_word_new_br_3 | priority<br>pigeon<br>lesson |  
+| bip_39_word_new_br_4 | priority<br>pigeon<br>lesson<br>dust |  
+| bip_39_word_new_br_5 | priority<br>pigeon<br>lesson<br>dust<br>sea |  
+| bip_39_word_new_br_6 | priority<br>pigeon<br>lesson<br>dust<br>sea<br>rhythm |  
+| bip_39_word_new_br_7 | priority<br>pigeon<br>lesson<br>dust<br>sea<br>rhythm<br>analyst |  
+| bip_39_word_new_br_8 | priority<br>pigeon<br>lesson<br>dust<br>sea<br>rhythm<br>analyst<br>warm |  
+| bip_39_word_new_br_9 | priority<br>pigeon<br>lesson<br>dust<br>sea<br>rhythm<br>analyst<br>warm<br>segment |  
+| bip_39_word_new_line_1 | priority |  
+| bip_39_word_new_line_10 | priority
 pigeon
 lesson
 dust
@@ -55,7 +55,7 @@ analyst
 warm
 segment
 opera |  
-| bip_39_word_new_line11 | priority
+| bip_39_word_new_line_11 | priority
 pigeon
 lesson
 dust
@@ -66,7 +66,7 @@ warm
 segment
 opera
 unveil |  
-| bip_39_word_new_line12 | priority
+| bip_39_word_new_line_12 | priority
 pigeon
 lesson
 dust
@@ -78,34 +78,34 @@ segment
 opera
 unveil
 above |  
-| bip_39_word_new_line2 | priority
+| bip_39_word_new_line_2 | priority
 pigeon |  
-| bip_39_word_new_line3 | priority
+| bip_39_word_new_line_3 | priority
 pigeon
 lesson |  
-| bip_39_word_new_line4 | priority
+| bip_39_word_new_line_4 | priority
 pigeon
 lesson
 dust |  
-| bip_39_word_new_line5 | priority
+| bip_39_word_new_line_5 | priority
 pigeon
 lesson
 dust
 sea |  
-| bip_39_word_new_line6 | priority
+| bip_39_word_new_line_6 | priority
 pigeon
 lesson
 dust
 sea
 rhythm |  
-| bip_39_word_new_line7 | priority
+| bip_39_word_new_line_7 | priority
 pigeon
 lesson
 dust
 sea
 rhythm
 analyst |  
-| bip_39_word_new_line8 | priority
+| bip_39_word_new_line_8 | priority
 pigeon
 lesson
 dust
@@ -113,7 +113,7 @@ sea
 rhythm
 analyst
 warm |  
-| bip_39_word_new_line9 | priority
+| bip_39_word_new_line_9 | priority
 pigeon
 lesson
 dust

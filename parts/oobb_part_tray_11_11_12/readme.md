@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | lonely |  
-| bip_39_word_new_br10 | lonely<br>kangaroo<br>farm<br>tackle<br>action<br>will<br>jelly<br>airport<br>lesson<br>miracle |  
-| bip_39_word_new_br11 | lonely<br>kangaroo<br>farm<br>tackle<br>action<br>will<br>jelly<br>airport<br>lesson<br>miracle<br>globe |  
-| bip_39_word_new_br12 | lonely<br>kangaroo<br>farm<br>tackle<br>action<br>will<br>jelly<br>airport<br>lesson<br>miracle<br>globe<br>allow |  
-| bip_39_word_new_br2 | lonely<br>kangaroo |  
-| bip_39_word_new_br3 | lonely<br>kangaroo<br>farm |  
-| bip_39_word_new_br4 | lonely<br>kangaroo<br>farm<br>tackle |  
-| bip_39_word_new_br5 | lonely<br>kangaroo<br>farm<br>tackle<br>action |  
-| bip_39_word_new_br6 | lonely<br>kangaroo<br>farm<br>tackle<br>action<br>will |  
-| bip_39_word_new_br7 | lonely<br>kangaroo<br>farm<br>tackle<br>action<br>will<br>jelly |  
-| bip_39_word_new_br8 | lonely<br>kangaroo<br>farm<br>tackle<br>action<br>will<br>jelly<br>airport |  
-| bip_39_word_new_br9 | lonely<br>kangaroo<br>farm<br>tackle<br>action<br>will<br>jelly<br>airport<br>lesson |  
-| bip_39_word_new_line1 | lonely |  
-| bip_39_word_new_line10 | lonely
+| bip_39_word_new_br_1 | lonely |  
+| bip_39_word_new_br_10 | lonely<br>kangaroo<br>farm<br>tackle<br>action<br>will<br>jelly<br>airport<br>lesson<br>miracle |  
+| bip_39_word_new_br_11 | lonely<br>kangaroo<br>farm<br>tackle<br>action<br>will<br>jelly<br>airport<br>lesson<br>miracle<br>globe |  
+| bip_39_word_new_br_12 | lonely<br>kangaroo<br>farm<br>tackle<br>action<br>will<br>jelly<br>airport<br>lesson<br>miracle<br>globe<br>allow |  
+| bip_39_word_new_br_2 | lonely<br>kangaroo |  
+| bip_39_word_new_br_3 | lonely<br>kangaroo<br>farm |  
+| bip_39_word_new_br_4 | lonely<br>kangaroo<br>farm<br>tackle |  
+| bip_39_word_new_br_5 | lonely<br>kangaroo<br>farm<br>tackle<br>action |  
+| bip_39_word_new_br_6 | lonely<br>kangaroo<br>farm<br>tackle<br>action<br>will |  
+| bip_39_word_new_br_7 | lonely<br>kangaroo<br>farm<br>tackle<br>action<br>will<br>jelly |  
+| bip_39_word_new_br_8 | lonely<br>kangaroo<br>farm<br>tackle<br>action<br>will<br>jelly<br>airport |  
+| bip_39_word_new_br_9 | lonely<br>kangaroo<br>farm<br>tackle<br>action<br>will<br>jelly<br>airport<br>lesson |  
+| bip_39_word_new_line_1 | lonely |  
+| bip_39_word_new_line_10 | lonely
 kangaroo
 farm
 tackle
@@ -55,7 +55,7 @@ jelly
 airport
 lesson
 miracle |  
-| bip_39_word_new_line11 | lonely
+| bip_39_word_new_line_11 | lonely
 kangaroo
 farm
 tackle
@@ -66,7 +66,7 @@ airport
 lesson
 miracle
 globe |  
-| bip_39_word_new_line12 | lonely
+| bip_39_word_new_line_12 | lonely
 kangaroo
 farm
 tackle
@@ -78,34 +78,34 @@ lesson
 miracle
 globe
 allow |  
-| bip_39_word_new_line2 | lonely
+| bip_39_word_new_line_2 | lonely
 kangaroo |  
-| bip_39_word_new_line3 | lonely
+| bip_39_word_new_line_3 | lonely
 kangaroo
 farm |  
-| bip_39_word_new_line4 | lonely
+| bip_39_word_new_line_4 | lonely
 kangaroo
 farm
 tackle |  
-| bip_39_word_new_line5 | lonely
+| bip_39_word_new_line_5 | lonely
 kangaroo
 farm
 tackle
 action |  
-| bip_39_word_new_line6 | lonely
+| bip_39_word_new_line_6 | lonely
 kangaroo
 farm
 tackle
 action
 will |  
-| bip_39_word_new_line7 | lonely
+| bip_39_word_new_line_7 | lonely
 kangaroo
 farm
 tackle
 action
 will
 jelly |  
-| bip_39_word_new_line8 | lonely
+| bip_39_word_new_line_8 | lonely
 kangaroo
 farm
 tackle
@@ -113,7 +113,7 @@ action
 will
 jelly
 airport |  
-| bip_39_word_new_line9 | lonely
+| bip_39_word_new_line_9 | lonely
 kangaroo
 farm
 tackle

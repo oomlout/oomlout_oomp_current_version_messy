@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | divide |  
-| bip_39_word_new_br10 | divide<br>simple<br>thumb<br>march<br>ensure<br>acquire<br>when<br>urban<br>word<br>spatial |  
-| bip_39_word_new_br11 | divide<br>simple<br>thumb<br>march<br>ensure<br>acquire<br>when<br>urban<br>word<br>spatial<br>describe |  
-| bip_39_word_new_br12 | divide<br>simple<br>thumb<br>march<br>ensure<br>acquire<br>when<br>urban<br>word<br>spatial<br>describe<br>audit |  
-| bip_39_word_new_br2 | divide<br>simple |  
-| bip_39_word_new_br3 | divide<br>simple<br>thumb |  
-| bip_39_word_new_br4 | divide<br>simple<br>thumb<br>march |  
-| bip_39_word_new_br5 | divide<br>simple<br>thumb<br>march<br>ensure |  
-| bip_39_word_new_br6 | divide<br>simple<br>thumb<br>march<br>ensure<br>acquire |  
-| bip_39_word_new_br7 | divide<br>simple<br>thumb<br>march<br>ensure<br>acquire<br>when |  
-| bip_39_word_new_br8 | divide<br>simple<br>thumb<br>march<br>ensure<br>acquire<br>when<br>urban |  
-| bip_39_word_new_br9 | divide<br>simple<br>thumb<br>march<br>ensure<br>acquire<br>when<br>urban<br>word |  
-| bip_39_word_new_line1 | divide |  
-| bip_39_word_new_line10 | divide
+| bip_39_word_new_br_1 | divide |  
+| bip_39_word_new_br_10 | divide<br>simple<br>thumb<br>march<br>ensure<br>acquire<br>when<br>urban<br>word<br>spatial |  
+| bip_39_word_new_br_11 | divide<br>simple<br>thumb<br>march<br>ensure<br>acquire<br>when<br>urban<br>word<br>spatial<br>describe |  
+| bip_39_word_new_br_12 | divide<br>simple<br>thumb<br>march<br>ensure<br>acquire<br>when<br>urban<br>word<br>spatial<br>describe<br>audit |  
+| bip_39_word_new_br_2 | divide<br>simple |  
+| bip_39_word_new_br_3 | divide<br>simple<br>thumb |  
+| bip_39_word_new_br_4 | divide<br>simple<br>thumb<br>march |  
+| bip_39_word_new_br_5 | divide<br>simple<br>thumb<br>march<br>ensure |  
+| bip_39_word_new_br_6 | divide<br>simple<br>thumb<br>march<br>ensure<br>acquire |  
+| bip_39_word_new_br_7 | divide<br>simple<br>thumb<br>march<br>ensure<br>acquire<br>when |  
+| bip_39_word_new_br_8 | divide<br>simple<br>thumb<br>march<br>ensure<br>acquire<br>when<br>urban |  
+| bip_39_word_new_br_9 | divide<br>simple<br>thumb<br>march<br>ensure<br>acquire<br>when<br>urban<br>word |  
+| bip_39_word_new_line_1 | divide |  
+| bip_39_word_new_line_10 | divide
 simple
 thumb
 march
@@ -55,7 +55,7 @@ when
 urban
 word
 spatial |  
-| bip_39_word_new_line11 | divide
+| bip_39_word_new_line_11 | divide
 simple
 thumb
 march
@@ -66,7 +66,7 @@ urban
 word
 spatial
 describe |  
-| bip_39_word_new_line12 | divide
+| bip_39_word_new_line_12 | divide
 simple
 thumb
 march
@@ -78,34 +78,34 @@ word
 spatial
 describe
 audit |  
-| bip_39_word_new_line2 | divide
+| bip_39_word_new_line_2 | divide
 simple |  
-| bip_39_word_new_line3 | divide
+| bip_39_word_new_line_3 | divide
 simple
 thumb |  
-| bip_39_word_new_line4 | divide
+| bip_39_word_new_line_4 | divide
 simple
 thumb
 march |  
-| bip_39_word_new_line5 | divide
+| bip_39_word_new_line_5 | divide
 simple
 thumb
 march
 ensure |  
-| bip_39_word_new_line6 | divide
+| bip_39_word_new_line_6 | divide
 simple
 thumb
 march
 ensure
 acquire |  
-| bip_39_word_new_line7 | divide
+| bip_39_word_new_line_7 | divide
 simple
 thumb
 march
 ensure
 acquire
 when |  
-| bip_39_word_new_line8 | divide
+| bip_39_word_new_line_8 | divide
 simple
 thumb
 march
@@ -113,7 +113,7 @@ ensure
 acquire
 when
 urban |  
-| bip_39_word_new_line9 | divide
+| bip_39_word_new_line_9 | divide
 simple
 thumb
 march

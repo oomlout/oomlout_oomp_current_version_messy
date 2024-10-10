@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | body |  
-| bip_39_word_new_br10 | body<br>deliver<br>devote<br>forget<br>door<br>double<br>proof<br>inject<br>trouble<br>skirt |  
-| bip_39_word_new_br11 | body<br>deliver<br>devote<br>forget<br>door<br>double<br>proof<br>inject<br>trouble<br>skirt<br>wire |  
-| bip_39_word_new_br12 | body<br>deliver<br>devote<br>forget<br>door<br>double<br>proof<br>inject<br>trouble<br>skirt<br>wire<br>again |  
-| bip_39_word_new_br2 | body<br>deliver |  
-| bip_39_word_new_br3 | body<br>deliver<br>devote |  
-| bip_39_word_new_br4 | body<br>deliver<br>devote<br>forget |  
-| bip_39_word_new_br5 | body<br>deliver<br>devote<br>forget<br>door |  
-| bip_39_word_new_br6 | body<br>deliver<br>devote<br>forget<br>door<br>double |  
-| bip_39_word_new_br7 | body<br>deliver<br>devote<br>forget<br>door<br>double<br>proof |  
-| bip_39_word_new_br8 | body<br>deliver<br>devote<br>forget<br>door<br>double<br>proof<br>inject |  
-| bip_39_word_new_br9 | body<br>deliver<br>devote<br>forget<br>door<br>double<br>proof<br>inject<br>trouble |  
-| bip_39_word_new_line1 | body |  
-| bip_39_word_new_line10 | body
+| bip_39_word_new_br_1 | body |  
+| bip_39_word_new_br_10 | body<br>deliver<br>devote<br>forget<br>door<br>double<br>proof<br>inject<br>trouble<br>skirt |  
+| bip_39_word_new_br_11 | body<br>deliver<br>devote<br>forget<br>door<br>double<br>proof<br>inject<br>trouble<br>skirt<br>wire |  
+| bip_39_word_new_br_12 | body<br>deliver<br>devote<br>forget<br>door<br>double<br>proof<br>inject<br>trouble<br>skirt<br>wire<br>again |  
+| bip_39_word_new_br_2 | body<br>deliver |  
+| bip_39_word_new_br_3 | body<br>deliver<br>devote |  
+| bip_39_word_new_br_4 | body<br>deliver<br>devote<br>forget |  
+| bip_39_word_new_br_5 | body<br>deliver<br>devote<br>forget<br>door |  
+| bip_39_word_new_br_6 | body<br>deliver<br>devote<br>forget<br>door<br>double |  
+| bip_39_word_new_br_7 | body<br>deliver<br>devote<br>forget<br>door<br>double<br>proof |  
+| bip_39_word_new_br_8 | body<br>deliver<br>devote<br>forget<br>door<br>double<br>proof<br>inject |  
+| bip_39_word_new_br_9 | body<br>deliver<br>devote<br>forget<br>door<br>double<br>proof<br>inject<br>trouble |  
+| bip_39_word_new_line_1 | body |  
+| bip_39_word_new_line_10 | body
 deliver
 devote
 forget
@@ -55,7 +55,7 @@ proof
 inject
 trouble
 skirt |  
-| bip_39_word_new_line11 | body
+| bip_39_word_new_line_11 | body
 deliver
 devote
 forget
@@ -66,7 +66,7 @@ inject
 trouble
 skirt
 wire |  
-| bip_39_word_new_line12 | body
+| bip_39_word_new_line_12 | body
 deliver
 devote
 forget
@@ -78,34 +78,34 @@ trouble
 skirt
 wire
 again |  
-| bip_39_word_new_line2 | body
+| bip_39_word_new_line_2 | body
 deliver |  
-| bip_39_word_new_line3 | body
+| bip_39_word_new_line_3 | body
 deliver
 devote |  
-| bip_39_word_new_line4 | body
+| bip_39_word_new_line_4 | body
 deliver
 devote
 forget |  
-| bip_39_word_new_line5 | body
+| bip_39_word_new_line_5 | body
 deliver
 devote
 forget
 door |  
-| bip_39_word_new_line6 | body
+| bip_39_word_new_line_6 | body
 deliver
 devote
 forget
 door
 double |  
-| bip_39_word_new_line7 | body
+| bip_39_word_new_line_7 | body
 deliver
 devote
 forget
 door
 double
 proof |  
-| bip_39_word_new_line8 | body
+| bip_39_word_new_line_8 | body
 deliver
 devote
 forget
@@ -113,7 +113,7 @@ door
 double
 proof
 inject |  
-| bip_39_word_new_line9 | body
+| bip_39_word_new_line_9 | body
 deliver
 devote
 forget

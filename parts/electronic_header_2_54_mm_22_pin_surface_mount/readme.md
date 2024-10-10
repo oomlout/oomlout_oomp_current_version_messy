@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | eager |  
-| bip_39_word_new_br10 | eager<br>repeat<br>palm<br>recycle<br>betray<br>ridge<br>front<br>column<br>pause<br>hundred |  
-| bip_39_word_new_br11 | eager<br>repeat<br>palm<br>recycle<br>betray<br>ridge<br>front<br>column<br>pause<br>hundred<br>edge |  
-| bip_39_word_new_br12 | eager<br>repeat<br>palm<br>recycle<br>betray<br>ridge<br>front<br>column<br>pause<br>hundred<br>edge<br>assist |  
-| bip_39_word_new_br2 | eager<br>repeat |  
-| bip_39_word_new_br3 | eager<br>repeat<br>palm |  
-| bip_39_word_new_br4 | eager<br>repeat<br>palm<br>recycle |  
-| bip_39_word_new_br5 | eager<br>repeat<br>palm<br>recycle<br>betray |  
-| bip_39_word_new_br6 | eager<br>repeat<br>palm<br>recycle<br>betray<br>ridge |  
-| bip_39_word_new_br7 | eager<br>repeat<br>palm<br>recycle<br>betray<br>ridge<br>front |  
-| bip_39_word_new_br8 | eager<br>repeat<br>palm<br>recycle<br>betray<br>ridge<br>front<br>column |  
-| bip_39_word_new_br9 | eager<br>repeat<br>palm<br>recycle<br>betray<br>ridge<br>front<br>column<br>pause |  
-| bip_39_word_new_line1 | eager |  
-| bip_39_word_new_line10 | eager
+| bip_39_word_new_br_1 | eager |  
+| bip_39_word_new_br_10 | eager<br>repeat<br>palm<br>recycle<br>betray<br>ridge<br>front<br>column<br>pause<br>hundred |  
+| bip_39_word_new_br_11 | eager<br>repeat<br>palm<br>recycle<br>betray<br>ridge<br>front<br>column<br>pause<br>hundred<br>edge |  
+| bip_39_word_new_br_12 | eager<br>repeat<br>palm<br>recycle<br>betray<br>ridge<br>front<br>column<br>pause<br>hundred<br>edge<br>assist |  
+| bip_39_word_new_br_2 | eager<br>repeat |  
+| bip_39_word_new_br_3 | eager<br>repeat<br>palm |  
+| bip_39_word_new_br_4 | eager<br>repeat<br>palm<br>recycle |  
+| bip_39_word_new_br_5 | eager<br>repeat<br>palm<br>recycle<br>betray |  
+| bip_39_word_new_br_6 | eager<br>repeat<br>palm<br>recycle<br>betray<br>ridge |  
+| bip_39_word_new_br_7 | eager<br>repeat<br>palm<br>recycle<br>betray<br>ridge<br>front |  
+| bip_39_word_new_br_8 | eager<br>repeat<br>palm<br>recycle<br>betray<br>ridge<br>front<br>column |  
+| bip_39_word_new_br_9 | eager<br>repeat<br>palm<br>recycle<br>betray<br>ridge<br>front<br>column<br>pause |  
+| bip_39_word_new_line_1 | eager |  
+| bip_39_word_new_line_10 | eager
 repeat
 palm
 recycle
@@ -55,7 +55,7 @@ front
 column
 pause
 hundred |  
-| bip_39_word_new_line11 | eager
+| bip_39_word_new_line_11 | eager
 repeat
 palm
 recycle
@@ -66,7 +66,7 @@ column
 pause
 hundred
 edge |  
-| bip_39_word_new_line12 | eager
+| bip_39_word_new_line_12 | eager
 repeat
 palm
 recycle
@@ -78,34 +78,34 @@ pause
 hundred
 edge
 assist |  
-| bip_39_word_new_line2 | eager
+| bip_39_word_new_line_2 | eager
 repeat |  
-| bip_39_word_new_line3 | eager
+| bip_39_word_new_line_3 | eager
 repeat
 palm |  
-| bip_39_word_new_line4 | eager
+| bip_39_word_new_line_4 | eager
 repeat
 palm
 recycle |  
-| bip_39_word_new_line5 | eager
+| bip_39_word_new_line_5 | eager
 repeat
 palm
 recycle
 betray |  
-| bip_39_word_new_line6 | eager
+| bip_39_word_new_line_6 | eager
 repeat
 palm
 recycle
 betray
 ridge |  
-| bip_39_word_new_line7 | eager
+| bip_39_word_new_line_7 | eager
 repeat
 palm
 recycle
 betray
 ridge
 front |  
-| bip_39_word_new_line8 | eager
+| bip_39_word_new_line_8 | eager
 repeat
 palm
 recycle
@@ -113,7 +113,7 @@ betray
 ridge
 front
 column |  
-| bip_39_word_new_line9 | eager
+| bip_39_word_new_line_9 | eager
 repeat
 palm
 recycle

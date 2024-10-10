@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | reward |  
-| bip_39_word_new_br10 | reward<br>false<br>zoo<br>update<br>ribbon<br>relief<br>nut<br>stone<br>sword<br>repeat |  
-| bip_39_word_new_br11 | reward<br>false<br>zoo<br>update<br>ribbon<br>relief<br>nut<br>stone<br>sword<br>repeat<br>bounce |  
-| bip_39_word_new_br12 | reward<br>false<br>zoo<br>update<br>ribbon<br>relief<br>nut<br>stone<br>sword<br>repeat<br>bounce<br>ask |  
-| bip_39_word_new_br2 | reward<br>false |  
-| bip_39_word_new_br3 | reward<br>false<br>zoo |  
-| bip_39_word_new_br4 | reward<br>false<br>zoo<br>update |  
-| bip_39_word_new_br5 | reward<br>false<br>zoo<br>update<br>ribbon |  
-| bip_39_word_new_br6 | reward<br>false<br>zoo<br>update<br>ribbon<br>relief |  
-| bip_39_word_new_br7 | reward<br>false<br>zoo<br>update<br>ribbon<br>relief<br>nut |  
-| bip_39_word_new_br8 | reward<br>false<br>zoo<br>update<br>ribbon<br>relief<br>nut<br>stone |  
-| bip_39_word_new_br9 | reward<br>false<br>zoo<br>update<br>ribbon<br>relief<br>nut<br>stone<br>sword |  
-| bip_39_word_new_line1 | reward |  
-| bip_39_word_new_line10 | reward
+| bip_39_word_new_br_1 | reward |  
+| bip_39_word_new_br_10 | reward<br>false<br>zoo<br>update<br>ribbon<br>relief<br>nut<br>stone<br>sword<br>repeat |  
+| bip_39_word_new_br_11 | reward<br>false<br>zoo<br>update<br>ribbon<br>relief<br>nut<br>stone<br>sword<br>repeat<br>bounce |  
+| bip_39_word_new_br_12 | reward<br>false<br>zoo<br>update<br>ribbon<br>relief<br>nut<br>stone<br>sword<br>repeat<br>bounce<br>ask |  
+| bip_39_word_new_br_2 | reward<br>false |  
+| bip_39_word_new_br_3 | reward<br>false<br>zoo |  
+| bip_39_word_new_br_4 | reward<br>false<br>zoo<br>update |  
+| bip_39_word_new_br_5 | reward<br>false<br>zoo<br>update<br>ribbon |  
+| bip_39_word_new_br_6 | reward<br>false<br>zoo<br>update<br>ribbon<br>relief |  
+| bip_39_word_new_br_7 | reward<br>false<br>zoo<br>update<br>ribbon<br>relief<br>nut |  
+| bip_39_word_new_br_8 | reward<br>false<br>zoo<br>update<br>ribbon<br>relief<br>nut<br>stone |  
+| bip_39_word_new_br_9 | reward<br>false<br>zoo<br>update<br>ribbon<br>relief<br>nut<br>stone<br>sword |  
+| bip_39_word_new_line_1 | reward |  
+| bip_39_word_new_line_10 | reward
 false
 zoo
 update
@@ -55,7 +55,7 @@ nut
 stone
 sword
 repeat |  
-| bip_39_word_new_line11 | reward
+| bip_39_word_new_line_11 | reward
 false
 zoo
 update
@@ -66,7 +66,7 @@ stone
 sword
 repeat
 bounce |  
-| bip_39_word_new_line12 | reward
+| bip_39_word_new_line_12 | reward
 false
 zoo
 update
@@ -78,34 +78,34 @@ sword
 repeat
 bounce
 ask |  
-| bip_39_word_new_line2 | reward
+| bip_39_word_new_line_2 | reward
 false |  
-| bip_39_word_new_line3 | reward
+| bip_39_word_new_line_3 | reward
 false
 zoo |  
-| bip_39_word_new_line4 | reward
+| bip_39_word_new_line_4 | reward
 false
 zoo
 update |  
-| bip_39_word_new_line5 | reward
+| bip_39_word_new_line_5 | reward
 false
 zoo
 update
 ribbon |  
-| bip_39_word_new_line6 | reward
+| bip_39_word_new_line_6 | reward
 false
 zoo
 update
 ribbon
 relief |  
-| bip_39_word_new_line7 | reward
+| bip_39_word_new_line_7 | reward
 false
 zoo
 update
 ribbon
 relief
 nut |  
-| bip_39_word_new_line8 | reward
+| bip_39_word_new_line_8 | reward
 false
 zoo
 update
@@ -113,7 +113,7 @@ ribbon
 relief
 nut
 stone |  
-| bip_39_word_new_line9 | reward
+| bip_39_word_new_line_9 | reward
 false
 zoo
 update

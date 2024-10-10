@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | border |  
-| bip_39_word_new_br10 | border<br>over<br>output<br>adjust<br>trick<br>law<br>twist<br>peanut<br>decade<br>inspire |  
-| bip_39_word_new_br11 | border<br>over<br>output<br>adjust<br>trick<br>law<br>twist<br>peanut<br>decade<br>inspire<br>nurse |  
-| bip_39_word_new_br12 | border<br>over<br>output<br>adjust<br>trick<br>law<br>twist<br>peanut<br>decade<br>inspire<br>nurse<br>admit |  
-| bip_39_word_new_br2 | border<br>over |  
-| bip_39_word_new_br3 | border<br>over<br>output |  
-| bip_39_word_new_br4 | border<br>over<br>output<br>adjust |  
-| bip_39_word_new_br5 | border<br>over<br>output<br>adjust<br>trick |  
-| bip_39_word_new_br6 | border<br>over<br>output<br>adjust<br>trick<br>law |  
-| bip_39_word_new_br7 | border<br>over<br>output<br>adjust<br>trick<br>law<br>twist |  
-| bip_39_word_new_br8 | border<br>over<br>output<br>adjust<br>trick<br>law<br>twist<br>peanut |  
-| bip_39_word_new_br9 | border<br>over<br>output<br>adjust<br>trick<br>law<br>twist<br>peanut<br>decade |  
-| bip_39_word_new_line1 | border |  
-| bip_39_word_new_line10 | border
+| bip_39_word_new_br_1 | border |  
+| bip_39_word_new_br_10 | border<br>over<br>output<br>adjust<br>trick<br>law<br>twist<br>peanut<br>decade<br>inspire |  
+| bip_39_word_new_br_11 | border<br>over<br>output<br>adjust<br>trick<br>law<br>twist<br>peanut<br>decade<br>inspire<br>nurse |  
+| bip_39_word_new_br_12 | border<br>over<br>output<br>adjust<br>trick<br>law<br>twist<br>peanut<br>decade<br>inspire<br>nurse<br>admit |  
+| bip_39_word_new_br_2 | border<br>over |  
+| bip_39_word_new_br_3 | border<br>over<br>output |  
+| bip_39_word_new_br_4 | border<br>over<br>output<br>adjust |  
+| bip_39_word_new_br_5 | border<br>over<br>output<br>adjust<br>trick |  
+| bip_39_word_new_br_6 | border<br>over<br>output<br>adjust<br>trick<br>law |  
+| bip_39_word_new_br_7 | border<br>over<br>output<br>adjust<br>trick<br>law<br>twist |  
+| bip_39_word_new_br_8 | border<br>over<br>output<br>adjust<br>trick<br>law<br>twist<br>peanut |  
+| bip_39_word_new_br_9 | border<br>over<br>output<br>adjust<br>trick<br>law<br>twist<br>peanut<br>decade |  
+| bip_39_word_new_line_1 | border |  
+| bip_39_word_new_line_10 | border
 over
 output
 adjust
@@ -55,7 +55,7 @@ twist
 peanut
 decade
 inspire |  
-| bip_39_word_new_line11 | border
+| bip_39_word_new_line_11 | border
 over
 output
 adjust
@@ -66,7 +66,7 @@ peanut
 decade
 inspire
 nurse |  
-| bip_39_word_new_line12 | border
+| bip_39_word_new_line_12 | border
 over
 output
 adjust
@@ -78,34 +78,34 @@ decade
 inspire
 nurse
 admit |  
-| bip_39_word_new_line2 | border
+| bip_39_word_new_line_2 | border
 over |  
-| bip_39_word_new_line3 | border
+| bip_39_word_new_line_3 | border
 over
 output |  
-| bip_39_word_new_line4 | border
+| bip_39_word_new_line_4 | border
 over
 output
 adjust |  
-| bip_39_word_new_line5 | border
+| bip_39_word_new_line_5 | border
 over
 output
 adjust
 trick |  
-| bip_39_word_new_line6 | border
+| bip_39_word_new_line_6 | border
 over
 output
 adjust
 trick
 law |  
-| bip_39_word_new_line7 | border
+| bip_39_word_new_line_7 | border
 over
 output
 adjust
 trick
 law
 twist |  
-| bip_39_word_new_line8 | border
+| bip_39_word_new_line_8 | border
 over
 output
 adjust
@@ -113,7 +113,7 @@ trick
 law
 twist
 peanut |  
-| bip_39_word_new_line9 | border
+| bip_39_word_new_line_9 | border
 over
 output
 adjust

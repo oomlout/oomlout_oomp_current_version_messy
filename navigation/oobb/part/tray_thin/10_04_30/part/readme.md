@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fall |  
-| bip_39_word_new_br10 | fall<br>detect<br>fly<br>tobacco<br>grab<br>person<br>climb<br>conduct<br>capable<br>flee |  
-| bip_39_word_new_br11 | fall<br>detect<br>fly<br>tobacco<br>grab<br>person<br>climb<br>conduct<br>capable<br>flee<br>pottery |  
-| bip_39_word_new_br12 | fall<br>detect<br>fly<br>tobacco<br>grab<br>person<br>climb<br>conduct<br>capable<br>flee<br>pottery<br>approve |  
-| bip_39_word_new_br2 | fall<br>detect |  
-| bip_39_word_new_br3 | fall<br>detect<br>fly |  
-| bip_39_word_new_br4 | fall<br>detect<br>fly<br>tobacco |  
-| bip_39_word_new_br5 | fall<br>detect<br>fly<br>tobacco<br>grab |  
-| bip_39_word_new_br6 | fall<br>detect<br>fly<br>tobacco<br>grab<br>person |  
-| bip_39_word_new_br7 | fall<br>detect<br>fly<br>tobacco<br>grab<br>person<br>climb |  
-| bip_39_word_new_br8 | fall<br>detect<br>fly<br>tobacco<br>grab<br>person<br>climb<br>conduct |  
-| bip_39_word_new_br9 | fall<br>detect<br>fly<br>tobacco<br>grab<br>person<br>climb<br>conduct<br>capable |  
-| bip_39_word_new_line1 | fall |  
-| bip_39_word_new_line10 | fall
+| bip_39_word_new_br_1 | fall |  
+| bip_39_word_new_br_10 | fall<br>detect<br>fly<br>tobacco<br>grab<br>person<br>climb<br>conduct<br>capable<br>flee |  
+| bip_39_word_new_br_11 | fall<br>detect<br>fly<br>tobacco<br>grab<br>person<br>climb<br>conduct<br>capable<br>flee<br>pottery |  
+| bip_39_word_new_br_12 | fall<br>detect<br>fly<br>tobacco<br>grab<br>person<br>climb<br>conduct<br>capable<br>flee<br>pottery<br>approve |  
+| bip_39_word_new_br_2 | fall<br>detect |  
+| bip_39_word_new_br_3 | fall<br>detect<br>fly |  
+| bip_39_word_new_br_4 | fall<br>detect<br>fly<br>tobacco |  
+| bip_39_word_new_br_5 | fall<br>detect<br>fly<br>tobacco<br>grab |  
+| bip_39_word_new_br_6 | fall<br>detect<br>fly<br>tobacco<br>grab<br>person |  
+| bip_39_word_new_br_7 | fall<br>detect<br>fly<br>tobacco<br>grab<br>person<br>climb |  
+| bip_39_word_new_br_8 | fall<br>detect<br>fly<br>tobacco<br>grab<br>person<br>climb<br>conduct |  
+| bip_39_word_new_br_9 | fall<br>detect<br>fly<br>tobacco<br>grab<br>person<br>climb<br>conduct<br>capable |  
+| bip_39_word_new_line_1 | fall |  
+| bip_39_word_new_line_10 | fall
 detect
 fly
 tobacco
@@ -55,7 +55,7 @@ climb
 conduct
 capable
 flee |  
-| bip_39_word_new_line11 | fall
+| bip_39_word_new_line_11 | fall
 detect
 fly
 tobacco
@@ -66,7 +66,7 @@ conduct
 capable
 flee
 pottery |  
-| bip_39_word_new_line12 | fall
+| bip_39_word_new_line_12 | fall
 detect
 fly
 tobacco
@@ -78,34 +78,34 @@ capable
 flee
 pottery
 approve |  
-| bip_39_word_new_line2 | fall
+| bip_39_word_new_line_2 | fall
 detect |  
-| bip_39_word_new_line3 | fall
+| bip_39_word_new_line_3 | fall
 detect
 fly |  
-| bip_39_word_new_line4 | fall
+| bip_39_word_new_line_4 | fall
 detect
 fly
 tobacco |  
-| bip_39_word_new_line5 | fall
+| bip_39_word_new_line_5 | fall
 detect
 fly
 tobacco
 grab |  
-| bip_39_word_new_line6 | fall
+| bip_39_word_new_line_6 | fall
 detect
 fly
 tobacco
 grab
 person |  
-| bip_39_word_new_line7 | fall
+| bip_39_word_new_line_7 | fall
 detect
 fly
 tobacco
 grab
 person
 climb |  
-| bip_39_word_new_line8 | fall
+| bip_39_word_new_line_8 | fall
 detect
 fly
 tobacco
@@ -113,7 +113,7 @@ grab
 person
 climb
 conduct |  
-| bip_39_word_new_line9 | fall
+| bip_39_word_new_line_9 | fall
 detect
 fly
 tobacco

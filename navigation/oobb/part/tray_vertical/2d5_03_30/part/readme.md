@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | trash |  
-| bip_39_word_new_br10 | trash<br>style<br>mandate<br>coconut<br>opinion<br>almost<br>daughter<br>spoon<br>hint<br>unfold |  
-| bip_39_word_new_br11 | trash<br>style<br>mandate<br>coconut<br>opinion<br>almost<br>daughter<br>spoon<br>hint<br>unfold<br>private |  
-| bip_39_word_new_br12 | trash<br>style<br>mandate<br>coconut<br>opinion<br>almost<br>daughter<br>spoon<br>hint<br>unfold<br>private<br>alone |  
-| bip_39_word_new_br2 | trash<br>style |  
-| bip_39_word_new_br3 | trash<br>style<br>mandate |  
-| bip_39_word_new_br4 | trash<br>style<br>mandate<br>coconut |  
-| bip_39_word_new_br5 | trash<br>style<br>mandate<br>coconut<br>opinion |  
-| bip_39_word_new_br6 | trash<br>style<br>mandate<br>coconut<br>opinion<br>almost |  
-| bip_39_word_new_br7 | trash<br>style<br>mandate<br>coconut<br>opinion<br>almost<br>daughter |  
-| bip_39_word_new_br8 | trash<br>style<br>mandate<br>coconut<br>opinion<br>almost<br>daughter<br>spoon |  
-| bip_39_word_new_br9 | trash<br>style<br>mandate<br>coconut<br>opinion<br>almost<br>daughter<br>spoon<br>hint |  
-| bip_39_word_new_line1 | trash |  
-| bip_39_word_new_line10 | trash
+| bip_39_word_new_br_1 | trash |  
+| bip_39_word_new_br_10 | trash<br>style<br>mandate<br>coconut<br>opinion<br>almost<br>daughter<br>spoon<br>hint<br>unfold |  
+| bip_39_word_new_br_11 | trash<br>style<br>mandate<br>coconut<br>opinion<br>almost<br>daughter<br>spoon<br>hint<br>unfold<br>private |  
+| bip_39_word_new_br_12 | trash<br>style<br>mandate<br>coconut<br>opinion<br>almost<br>daughter<br>spoon<br>hint<br>unfold<br>private<br>alone |  
+| bip_39_word_new_br_2 | trash<br>style |  
+| bip_39_word_new_br_3 | trash<br>style<br>mandate |  
+| bip_39_word_new_br_4 | trash<br>style<br>mandate<br>coconut |  
+| bip_39_word_new_br_5 | trash<br>style<br>mandate<br>coconut<br>opinion |  
+| bip_39_word_new_br_6 | trash<br>style<br>mandate<br>coconut<br>opinion<br>almost |  
+| bip_39_word_new_br_7 | trash<br>style<br>mandate<br>coconut<br>opinion<br>almost<br>daughter |  
+| bip_39_word_new_br_8 | trash<br>style<br>mandate<br>coconut<br>opinion<br>almost<br>daughter<br>spoon |  
+| bip_39_word_new_br_9 | trash<br>style<br>mandate<br>coconut<br>opinion<br>almost<br>daughter<br>spoon<br>hint |  
+| bip_39_word_new_line_1 | trash |  
+| bip_39_word_new_line_10 | trash
 style
 mandate
 coconut
@@ -55,7 +55,7 @@ daughter
 spoon
 hint
 unfold |  
-| bip_39_word_new_line11 | trash
+| bip_39_word_new_line_11 | trash
 style
 mandate
 coconut
@@ -66,7 +66,7 @@ spoon
 hint
 unfold
 private |  
-| bip_39_word_new_line12 | trash
+| bip_39_word_new_line_12 | trash
 style
 mandate
 coconut
@@ -78,34 +78,34 @@ hint
 unfold
 private
 alone |  
-| bip_39_word_new_line2 | trash
+| bip_39_word_new_line_2 | trash
 style |  
-| bip_39_word_new_line3 | trash
+| bip_39_word_new_line_3 | trash
 style
 mandate |  
-| bip_39_word_new_line4 | trash
+| bip_39_word_new_line_4 | trash
 style
 mandate
 coconut |  
-| bip_39_word_new_line5 | trash
+| bip_39_word_new_line_5 | trash
 style
 mandate
 coconut
 opinion |  
-| bip_39_word_new_line6 | trash
+| bip_39_word_new_line_6 | trash
 style
 mandate
 coconut
 opinion
 almost |  
-| bip_39_word_new_line7 | trash
+| bip_39_word_new_line_7 | trash
 style
 mandate
 coconut
 opinion
 almost
 daughter |  
-| bip_39_word_new_line8 | trash
+| bip_39_word_new_line_8 | trash
 style
 mandate
 coconut
@@ -113,7 +113,7 @@ opinion
 almost
 daughter
 spoon |  
-| bip_39_word_new_line9 | trash
+| bip_39_word_new_line_9 | trash
 style
 mandate
 coconut

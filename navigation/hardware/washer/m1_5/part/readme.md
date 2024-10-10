@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ski |  
-| bip_39_word_new_br10 | ski<br>north<br>error<br>usual<br>diesel<br>science<br>emerge<br>easily<br>vessel<br>champion |  
-| bip_39_word_new_br11 | ski<br>north<br>error<br>usual<br>diesel<br>science<br>emerge<br>easily<br>vessel<br>champion<br>smile |  
-| bip_39_word_new_br12 | ski<br>north<br>error<br>usual<br>diesel<br>science<br>emerge<br>easily<br>vessel<br>champion<br>smile<br>achieve |  
-| bip_39_word_new_br2 | ski<br>north |  
-| bip_39_word_new_br3 | ski<br>north<br>error |  
-| bip_39_word_new_br4 | ski<br>north<br>error<br>usual |  
-| bip_39_word_new_br5 | ski<br>north<br>error<br>usual<br>diesel |  
-| bip_39_word_new_br6 | ski<br>north<br>error<br>usual<br>diesel<br>science |  
-| bip_39_word_new_br7 | ski<br>north<br>error<br>usual<br>diesel<br>science<br>emerge |  
-| bip_39_word_new_br8 | ski<br>north<br>error<br>usual<br>diesel<br>science<br>emerge<br>easily |  
-| bip_39_word_new_br9 | ski<br>north<br>error<br>usual<br>diesel<br>science<br>emerge<br>easily<br>vessel |  
-| bip_39_word_new_line1 | ski |  
-| bip_39_word_new_line10 | ski
+| bip_39_word_new_br_1 | ski |  
+| bip_39_word_new_br_10 | ski<br>north<br>error<br>usual<br>diesel<br>science<br>emerge<br>easily<br>vessel<br>champion |  
+| bip_39_word_new_br_11 | ski<br>north<br>error<br>usual<br>diesel<br>science<br>emerge<br>easily<br>vessel<br>champion<br>smile |  
+| bip_39_word_new_br_12 | ski<br>north<br>error<br>usual<br>diesel<br>science<br>emerge<br>easily<br>vessel<br>champion<br>smile<br>achieve |  
+| bip_39_word_new_br_2 | ski<br>north |  
+| bip_39_word_new_br_3 | ski<br>north<br>error |  
+| bip_39_word_new_br_4 | ski<br>north<br>error<br>usual |  
+| bip_39_word_new_br_5 | ski<br>north<br>error<br>usual<br>diesel |  
+| bip_39_word_new_br_6 | ski<br>north<br>error<br>usual<br>diesel<br>science |  
+| bip_39_word_new_br_7 | ski<br>north<br>error<br>usual<br>diesel<br>science<br>emerge |  
+| bip_39_word_new_br_8 | ski<br>north<br>error<br>usual<br>diesel<br>science<br>emerge<br>easily |  
+| bip_39_word_new_br_9 | ski<br>north<br>error<br>usual<br>diesel<br>science<br>emerge<br>easily<br>vessel |  
+| bip_39_word_new_line_1 | ski |  
+| bip_39_word_new_line_10 | ski
 north
 error
 usual
@@ -55,7 +55,7 @@ emerge
 easily
 vessel
 champion |  
-| bip_39_word_new_line11 | ski
+| bip_39_word_new_line_11 | ski
 north
 error
 usual
@@ -66,7 +66,7 @@ easily
 vessel
 champion
 smile |  
-| bip_39_word_new_line12 | ski
+| bip_39_word_new_line_12 | ski
 north
 error
 usual
@@ -78,34 +78,34 @@ vessel
 champion
 smile
 achieve |  
-| bip_39_word_new_line2 | ski
+| bip_39_word_new_line_2 | ski
 north |  
-| bip_39_word_new_line3 | ski
+| bip_39_word_new_line_3 | ski
 north
 error |  
-| bip_39_word_new_line4 | ski
+| bip_39_word_new_line_4 | ski
 north
 error
 usual |  
-| bip_39_word_new_line5 | ski
+| bip_39_word_new_line_5 | ski
 north
 error
 usual
 diesel |  
-| bip_39_word_new_line6 | ski
+| bip_39_word_new_line_6 | ski
 north
 error
 usual
 diesel
 science |  
-| bip_39_word_new_line7 | ski
+| bip_39_word_new_line_7 | ski
 north
 error
 usual
 diesel
 science
 emerge |  
-| bip_39_word_new_line8 | ski
+| bip_39_word_new_line_8 | ski
 north
 error
 usual
@@ -113,7 +113,7 @@ diesel
 science
 emerge
 easily |  
-| bip_39_word_new_line9 | ski
+| bip_39_word_new_line_9 | ski
 north
 error
 usual

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | oil |  
-| bip_39_word_new_br10 | oil<br>setup<br>stuff<br>bread<br>wild<br>gold<br>panda<br>quarter<br>post<br>trophy |  
-| bip_39_word_new_br11 | oil<br>setup<br>stuff<br>bread<br>wild<br>gold<br>panda<br>quarter<br>post<br>trophy<br>this |  
-| bip_39_word_new_br12 | oil<br>setup<br>stuff<br>bread<br>wild<br>gold<br>panda<br>quarter<br>post<br>trophy<br>this<br>angle |  
-| bip_39_word_new_br2 | oil<br>setup |  
-| bip_39_word_new_br3 | oil<br>setup<br>stuff |  
-| bip_39_word_new_br4 | oil<br>setup<br>stuff<br>bread |  
-| bip_39_word_new_br5 | oil<br>setup<br>stuff<br>bread<br>wild |  
-| bip_39_word_new_br6 | oil<br>setup<br>stuff<br>bread<br>wild<br>gold |  
-| bip_39_word_new_br7 | oil<br>setup<br>stuff<br>bread<br>wild<br>gold<br>panda |  
-| bip_39_word_new_br8 | oil<br>setup<br>stuff<br>bread<br>wild<br>gold<br>panda<br>quarter |  
-| bip_39_word_new_br9 | oil<br>setup<br>stuff<br>bread<br>wild<br>gold<br>panda<br>quarter<br>post |  
-| bip_39_word_new_line1 | oil |  
-| bip_39_word_new_line10 | oil
+| bip_39_word_new_br_1 | oil |  
+| bip_39_word_new_br_10 | oil<br>setup<br>stuff<br>bread<br>wild<br>gold<br>panda<br>quarter<br>post<br>trophy |  
+| bip_39_word_new_br_11 | oil<br>setup<br>stuff<br>bread<br>wild<br>gold<br>panda<br>quarter<br>post<br>trophy<br>this |  
+| bip_39_word_new_br_12 | oil<br>setup<br>stuff<br>bread<br>wild<br>gold<br>panda<br>quarter<br>post<br>trophy<br>this<br>angle |  
+| bip_39_word_new_br_2 | oil<br>setup |  
+| bip_39_word_new_br_3 | oil<br>setup<br>stuff |  
+| bip_39_word_new_br_4 | oil<br>setup<br>stuff<br>bread |  
+| bip_39_word_new_br_5 | oil<br>setup<br>stuff<br>bread<br>wild |  
+| bip_39_word_new_br_6 | oil<br>setup<br>stuff<br>bread<br>wild<br>gold |  
+| bip_39_word_new_br_7 | oil<br>setup<br>stuff<br>bread<br>wild<br>gold<br>panda |  
+| bip_39_word_new_br_8 | oil<br>setup<br>stuff<br>bread<br>wild<br>gold<br>panda<br>quarter |  
+| bip_39_word_new_br_9 | oil<br>setup<br>stuff<br>bread<br>wild<br>gold<br>panda<br>quarter<br>post |  
+| bip_39_word_new_line_1 | oil |  
+| bip_39_word_new_line_10 | oil
 setup
 stuff
 bread
@@ -55,7 +55,7 @@ panda
 quarter
 post
 trophy |  
-| bip_39_word_new_line11 | oil
+| bip_39_word_new_line_11 | oil
 setup
 stuff
 bread
@@ -66,7 +66,7 @@ quarter
 post
 trophy
 this |  
-| bip_39_word_new_line12 | oil
+| bip_39_word_new_line_12 | oil
 setup
 stuff
 bread
@@ -78,34 +78,34 @@ post
 trophy
 this
 angle |  
-| bip_39_word_new_line2 | oil
+| bip_39_word_new_line_2 | oil
 setup |  
-| bip_39_word_new_line3 | oil
+| bip_39_word_new_line_3 | oil
 setup
 stuff |  
-| bip_39_word_new_line4 | oil
+| bip_39_word_new_line_4 | oil
 setup
 stuff
 bread |  
-| bip_39_word_new_line5 | oil
+| bip_39_word_new_line_5 | oil
 setup
 stuff
 bread
 wild |  
-| bip_39_word_new_line6 | oil
+| bip_39_word_new_line_6 | oil
 setup
 stuff
 bread
 wild
 gold |  
-| bip_39_word_new_line7 | oil
+| bip_39_word_new_line_7 | oil
 setup
 stuff
 bread
 wild
 gold
 panda |  
-| bip_39_word_new_line8 | oil
+| bip_39_word_new_line_8 | oil
 setup
 stuff
 bread
@@ -113,7 +113,7 @@ wild
 gold
 panda
 quarter |  
-| bip_39_word_new_line9 | oil
+| bip_39_word_new_line_9 | oil
 setup
 stuff
 bread

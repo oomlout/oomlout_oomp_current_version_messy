@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | report |  
-| bip_39_word_new_br10 | report<br>measure<br>banner<br>pause<br>junior<br>excuse<br>fee<br>luggage<br>flee<br>dice |  
-| bip_39_word_new_br11 | report<br>measure<br>banner<br>pause<br>junior<br>excuse<br>fee<br>luggage<br>flee<br>dice<br>oppose |  
-| bip_39_word_new_br12 | report<br>measure<br>banner<br>pause<br>junior<br>excuse<br>fee<br>luggage<br>flee<br>dice<br>oppose<br>absent |  
-| bip_39_word_new_br2 | report<br>measure |  
-| bip_39_word_new_br3 | report<br>measure<br>banner |  
-| bip_39_word_new_br4 | report<br>measure<br>banner<br>pause |  
-| bip_39_word_new_br5 | report<br>measure<br>banner<br>pause<br>junior |  
-| bip_39_word_new_br6 | report<br>measure<br>banner<br>pause<br>junior<br>excuse |  
-| bip_39_word_new_br7 | report<br>measure<br>banner<br>pause<br>junior<br>excuse<br>fee |  
-| bip_39_word_new_br8 | report<br>measure<br>banner<br>pause<br>junior<br>excuse<br>fee<br>luggage |  
-| bip_39_word_new_br9 | report<br>measure<br>banner<br>pause<br>junior<br>excuse<br>fee<br>luggage<br>flee |  
-| bip_39_word_new_line1 | report |  
-| bip_39_word_new_line10 | report
+| bip_39_word_new_br_1 | report |  
+| bip_39_word_new_br_10 | report<br>measure<br>banner<br>pause<br>junior<br>excuse<br>fee<br>luggage<br>flee<br>dice |  
+| bip_39_word_new_br_11 | report<br>measure<br>banner<br>pause<br>junior<br>excuse<br>fee<br>luggage<br>flee<br>dice<br>oppose |  
+| bip_39_word_new_br_12 | report<br>measure<br>banner<br>pause<br>junior<br>excuse<br>fee<br>luggage<br>flee<br>dice<br>oppose<br>absent |  
+| bip_39_word_new_br_2 | report<br>measure |  
+| bip_39_word_new_br_3 | report<br>measure<br>banner |  
+| bip_39_word_new_br_4 | report<br>measure<br>banner<br>pause |  
+| bip_39_word_new_br_5 | report<br>measure<br>banner<br>pause<br>junior |  
+| bip_39_word_new_br_6 | report<br>measure<br>banner<br>pause<br>junior<br>excuse |  
+| bip_39_word_new_br_7 | report<br>measure<br>banner<br>pause<br>junior<br>excuse<br>fee |  
+| bip_39_word_new_br_8 | report<br>measure<br>banner<br>pause<br>junior<br>excuse<br>fee<br>luggage |  
+| bip_39_word_new_br_9 | report<br>measure<br>banner<br>pause<br>junior<br>excuse<br>fee<br>luggage<br>flee |  
+| bip_39_word_new_line_1 | report |  
+| bip_39_word_new_line_10 | report
 measure
 banner
 pause
@@ -55,7 +55,7 @@ fee
 luggage
 flee
 dice |  
-| bip_39_word_new_line11 | report
+| bip_39_word_new_line_11 | report
 measure
 banner
 pause
@@ -66,7 +66,7 @@ luggage
 flee
 dice
 oppose |  
-| bip_39_word_new_line12 | report
+| bip_39_word_new_line_12 | report
 measure
 banner
 pause
@@ -78,34 +78,34 @@ flee
 dice
 oppose
 absent |  
-| bip_39_word_new_line2 | report
+| bip_39_word_new_line_2 | report
 measure |  
-| bip_39_word_new_line3 | report
+| bip_39_word_new_line_3 | report
 measure
 banner |  
-| bip_39_word_new_line4 | report
+| bip_39_word_new_line_4 | report
 measure
 banner
 pause |  
-| bip_39_word_new_line5 | report
+| bip_39_word_new_line_5 | report
 measure
 banner
 pause
 junior |  
-| bip_39_word_new_line6 | report
+| bip_39_word_new_line_6 | report
 measure
 banner
 pause
 junior
 excuse |  
-| bip_39_word_new_line7 | report
+| bip_39_word_new_line_7 | report
 measure
 banner
 pause
 junior
 excuse
 fee |  
-| bip_39_word_new_line8 | report
+| bip_39_word_new_line_8 | report
 measure
 banner
 pause
@@ -113,7 +113,7 @@ junior
 excuse
 fee
 luggage |  
-| bip_39_word_new_line9 | report
+| bip_39_word_new_line_9 | report
 measure
 banner
 pause

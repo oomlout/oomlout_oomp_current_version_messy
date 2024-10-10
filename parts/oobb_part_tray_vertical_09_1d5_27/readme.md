@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | joke |  
-| bip_39_word_new_br10 | joke<br>random<br>fatigue<br>hedgehog<br>shoulder<br>praise<br>patch<br>reform<br>inflict<br>alert |  
-| bip_39_word_new_br11 | joke<br>random<br>fatigue<br>hedgehog<br>shoulder<br>praise<br>patch<br>reform<br>inflict<br>alert<br>torch |  
-| bip_39_word_new_br12 | joke<br>random<br>fatigue<br>hedgehog<br>shoulder<br>praise<br>patch<br>reform<br>inflict<br>alert<br>torch<br>able |  
-| bip_39_word_new_br2 | joke<br>random |  
-| bip_39_word_new_br3 | joke<br>random<br>fatigue |  
-| bip_39_word_new_br4 | joke<br>random<br>fatigue<br>hedgehog |  
-| bip_39_word_new_br5 | joke<br>random<br>fatigue<br>hedgehog<br>shoulder |  
-| bip_39_word_new_br6 | joke<br>random<br>fatigue<br>hedgehog<br>shoulder<br>praise |  
-| bip_39_word_new_br7 | joke<br>random<br>fatigue<br>hedgehog<br>shoulder<br>praise<br>patch |  
-| bip_39_word_new_br8 | joke<br>random<br>fatigue<br>hedgehog<br>shoulder<br>praise<br>patch<br>reform |  
-| bip_39_word_new_br9 | joke<br>random<br>fatigue<br>hedgehog<br>shoulder<br>praise<br>patch<br>reform<br>inflict |  
-| bip_39_word_new_line1 | joke |  
-| bip_39_word_new_line10 | joke
+| bip_39_word_new_br_1 | joke |  
+| bip_39_word_new_br_10 | joke<br>random<br>fatigue<br>hedgehog<br>shoulder<br>praise<br>patch<br>reform<br>inflict<br>alert |  
+| bip_39_word_new_br_11 | joke<br>random<br>fatigue<br>hedgehog<br>shoulder<br>praise<br>patch<br>reform<br>inflict<br>alert<br>torch |  
+| bip_39_word_new_br_12 | joke<br>random<br>fatigue<br>hedgehog<br>shoulder<br>praise<br>patch<br>reform<br>inflict<br>alert<br>torch<br>able |  
+| bip_39_word_new_br_2 | joke<br>random |  
+| bip_39_word_new_br_3 | joke<br>random<br>fatigue |  
+| bip_39_word_new_br_4 | joke<br>random<br>fatigue<br>hedgehog |  
+| bip_39_word_new_br_5 | joke<br>random<br>fatigue<br>hedgehog<br>shoulder |  
+| bip_39_word_new_br_6 | joke<br>random<br>fatigue<br>hedgehog<br>shoulder<br>praise |  
+| bip_39_word_new_br_7 | joke<br>random<br>fatigue<br>hedgehog<br>shoulder<br>praise<br>patch |  
+| bip_39_word_new_br_8 | joke<br>random<br>fatigue<br>hedgehog<br>shoulder<br>praise<br>patch<br>reform |  
+| bip_39_word_new_br_9 | joke<br>random<br>fatigue<br>hedgehog<br>shoulder<br>praise<br>patch<br>reform<br>inflict |  
+| bip_39_word_new_line_1 | joke |  
+| bip_39_word_new_line_10 | joke
 random
 fatigue
 hedgehog
@@ -55,7 +55,7 @@ patch
 reform
 inflict
 alert |  
-| bip_39_word_new_line11 | joke
+| bip_39_word_new_line_11 | joke
 random
 fatigue
 hedgehog
@@ -66,7 +66,7 @@ reform
 inflict
 alert
 torch |  
-| bip_39_word_new_line12 | joke
+| bip_39_word_new_line_12 | joke
 random
 fatigue
 hedgehog
@@ -78,34 +78,34 @@ inflict
 alert
 torch
 able |  
-| bip_39_word_new_line2 | joke
+| bip_39_word_new_line_2 | joke
 random |  
-| bip_39_word_new_line3 | joke
+| bip_39_word_new_line_3 | joke
 random
 fatigue |  
-| bip_39_word_new_line4 | joke
+| bip_39_word_new_line_4 | joke
 random
 fatigue
 hedgehog |  
-| bip_39_word_new_line5 | joke
+| bip_39_word_new_line_5 | joke
 random
 fatigue
 hedgehog
 shoulder |  
-| bip_39_word_new_line6 | joke
+| bip_39_word_new_line_6 | joke
 random
 fatigue
 hedgehog
 shoulder
 praise |  
-| bip_39_word_new_line7 | joke
+| bip_39_word_new_line_7 | joke
 random
 fatigue
 hedgehog
 shoulder
 praise
 patch |  
-| bip_39_word_new_line8 | joke
+| bip_39_word_new_line_8 | joke
 random
 fatigue
 hedgehog
@@ -113,7 +113,7 @@ shoulder
 praise
 patch
 reform |  
-| bip_39_word_new_line9 | joke
+| bip_39_word_new_line_9 | joke
 random
 fatigue
 hedgehog

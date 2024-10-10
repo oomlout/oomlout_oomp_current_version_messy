@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | defense |  
-| bip_39_word_new_br10 | defense<br>orbit<br>offer<br>tail<br>science<br>kitten<br>indicate<br>season<br>cluster<br>group |  
-| bip_39_word_new_br11 | defense<br>orbit<br>offer<br>tail<br>science<br>kitten<br>indicate<br>season<br>cluster<br>group<br>palace |  
-| bip_39_word_new_br12 | defense<br>orbit<br>offer<br>tail<br>science<br>kitten<br>indicate<br>season<br>cluster<br>group<br>palace<br>autumn |  
-| bip_39_word_new_br2 | defense<br>orbit |  
-| bip_39_word_new_br3 | defense<br>orbit<br>offer |  
-| bip_39_word_new_br4 | defense<br>orbit<br>offer<br>tail |  
-| bip_39_word_new_br5 | defense<br>orbit<br>offer<br>tail<br>science |  
-| bip_39_word_new_br6 | defense<br>orbit<br>offer<br>tail<br>science<br>kitten |  
-| bip_39_word_new_br7 | defense<br>orbit<br>offer<br>tail<br>science<br>kitten<br>indicate |  
-| bip_39_word_new_br8 | defense<br>orbit<br>offer<br>tail<br>science<br>kitten<br>indicate<br>season |  
-| bip_39_word_new_br9 | defense<br>orbit<br>offer<br>tail<br>science<br>kitten<br>indicate<br>season<br>cluster |  
-| bip_39_word_new_line1 | defense |  
-| bip_39_word_new_line10 | defense
+| bip_39_word_new_br_1 | defense |  
+| bip_39_word_new_br_10 | defense<br>orbit<br>offer<br>tail<br>science<br>kitten<br>indicate<br>season<br>cluster<br>group |  
+| bip_39_word_new_br_11 | defense<br>orbit<br>offer<br>tail<br>science<br>kitten<br>indicate<br>season<br>cluster<br>group<br>palace |  
+| bip_39_word_new_br_12 | defense<br>orbit<br>offer<br>tail<br>science<br>kitten<br>indicate<br>season<br>cluster<br>group<br>palace<br>autumn |  
+| bip_39_word_new_br_2 | defense<br>orbit |  
+| bip_39_word_new_br_3 | defense<br>orbit<br>offer |  
+| bip_39_word_new_br_4 | defense<br>orbit<br>offer<br>tail |  
+| bip_39_word_new_br_5 | defense<br>orbit<br>offer<br>tail<br>science |  
+| bip_39_word_new_br_6 | defense<br>orbit<br>offer<br>tail<br>science<br>kitten |  
+| bip_39_word_new_br_7 | defense<br>orbit<br>offer<br>tail<br>science<br>kitten<br>indicate |  
+| bip_39_word_new_br_8 | defense<br>orbit<br>offer<br>tail<br>science<br>kitten<br>indicate<br>season |  
+| bip_39_word_new_br_9 | defense<br>orbit<br>offer<br>tail<br>science<br>kitten<br>indicate<br>season<br>cluster |  
+| bip_39_word_new_line_1 | defense |  
+| bip_39_word_new_line_10 | defense
 orbit
 offer
 tail
@@ -55,7 +55,7 @@ indicate
 season
 cluster
 group |  
-| bip_39_word_new_line11 | defense
+| bip_39_word_new_line_11 | defense
 orbit
 offer
 tail
@@ -66,7 +66,7 @@ season
 cluster
 group
 palace |  
-| bip_39_word_new_line12 | defense
+| bip_39_word_new_line_12 | defense
 orbit
 offer
 tail
@@ -78,34 +78,34 @@ cluster
 group
 palace
 autumn |  
-| bip_39_word_new_line2 | defense
+| bip_39_word_new_line_2 | defense
 orbit |  
-| bip_39_word_new_line3 | defense
+| bip_39_word_new_line_3 | defense
 orbit
 offer |  
-| bip_39_word_new_line4 | defense
+| bip_39_word_new_line_4 | defense
 orbit
 offer
 tail |  
-| bip_39_word_new_line5 | defense
+| bip_39_word_new_line_5 | defense
 orbit
 offer
 tail
 science |  
-| bip_39_word_new_line6 | defense
+| bip_39_word_new_line_6 | defense
 orbit
 offer
 tail
 science
 kitten |  
-| bip_39_word_new_line7 | defense
+| bip_39_word_new_line_7 | defense
 orbit
 offer
 tail
 science
 kitten
 indicate |  
-| bip_39_word_new_line8 | defense
+| bip_39_word_new_line_8 | defense
 orbit
 offer
 tail
@@ -113,7 +113,7 @@ science
 kitten
 indicate
 season |  
-| bip_39_word_new_line9 | defense
+| bip_39_word_new_line_9 | defense
 orbit
 offer
 tail

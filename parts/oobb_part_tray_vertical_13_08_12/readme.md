@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | often |  
-| bip_39_word_new_br10 | often<br>weapon<br>jewel<br>taste<br>essay<br>like<br>finger<br>load<br>buyer<br>faith |  
-| bip_39_word_new_br11 | often<br>weapon<br>jewel<br>taste<br>essay<br>like<br>finger<br>load<br>buyer<br>faith<br>anxiety |  
-| bip_39_word_new_br12 | often<br>weapon<br>jewel<br>taste<br>essay<br>like<br>finger<br>load<br>buyer<br>faith<br>anxiety<br>aisle |  
-| bip_39_word_new_br2 | often<br>weapon |  
-| bip_39_word_new_br3 | often<br>weapon<br>jewel |  
-| bip_39_word_new_br4 | often<br>weapon<br>jewel<br>taste |  
-| bip_39_word_new_br5 | often<br>weapon<br>jewel<br>taste<br>essay |  
-| bip_39_word_new_br6 | often<br>weapon<br>jewel<br>taste<br>essay<br>like |  
-| bip_39_word_new_br7 | often<br>weapon<br>jewel<br>taste<br>essay<br>like<br>finger |  
-| bip_39_word_new_br8 | often<br>weapon<br>jewel<br>taste<br>essay<br>like<br>finger<br>load |  
-| bip_39_word_new_br9 | often<br>weapon<br>jewel<br>taste<br>essay<br>like<br>finger<br>load<br>buyer |  
-| bip_39_word_new_line1 | often |  
-| bip_39_word_new_line10 | often
+| bip_39_word_new_br_1 | often |  
+| bip_39_word_new_br_10 | often<br>weapon<br>jewel<br>taste<br>essay<br>like<br>finger<br>load<br>buyer<br>faith |  
+| bip_39_word_new_br_11 | often<br>weapon<br>jewel<br>taste<br>essay<br>like<br>finger<br>load<br>buyer<br>faith<br>anxiety |  
+| bip_39_word_new_br_12 | often<br>weapon<br>jewel<br>taste<br>essay<br>like<br>finger<br>load<br>buyer<br>faith<br>anxiety<br>aisle |  
+| bip_39_word_new_br_2 | often<br>weapon |  
+| bip_39_word_new_br_3 | often<br>weapon<br>jewel |  
+| bip_39_word_new_br_4 | often<br>weapon<br>jewel<br>taste |  
+| bip_39_word_new_br_5 | often<br>weapon<br>jewel<br>taste<br>essay |  
+| bip_39_word_new_br_6 | often<br>weapon<br>jewel<br>taste<br>essay<br>like |  
+| bip_39_word_new_br_7 | often<br>weapon<br>jewel<br>taste<br>essay<br>like<br>finger |  
+| bip_39_word_new_br_8 | often<br>weapon<br>jewel<br>taste<br>essay<br>like<br>finger<br>load |  
+| bip_39_word_new_br_9 | often<br>weapon<br>jewel<br>taste<br>essay<br>like<br>finger<br>load<br>buyer |  
+| bip_39_word_new_line_1 | often |  
+| bip_39_word_new_line_10 | often
 weapon
 jewel
 taste
@@ -55,7 +55,7 @@ finger
 load
 buyer
 faith |  
-| bip_39_word_new_line11 | often
+| bip_39_word_new_line_11 | often
 weapon
 jewel
 taste
@@ -66,7 +66,7 @@ load
 buyer
 faith
 anxiety |  
-| bip_39_word_new_line12 | often
+| bip_39_word_new_line_12 | often
 weapon
 jewel
 taste
@@ -78,34 +78,34 @@ buyer
 faith
 anxiety
 aisle |  
-| bip_39_word_new_line2 | often
+| bip_39_word_new_line_2 | often
 weapon |  
-| bip_39_word_new_line3 | often
+| bip_39_word_new_line_3 | often
 weapon
 jewel |  
-| bip_39_word_new_line4 | often
+| bip_39_word_new_line_4 | often
 weapon
 jewel
 taste |  
-| bip_39_word_new_line5 | often
+| bip_39_word_new_line_5 | often
 weapon
 jewel
 taste
 essay |  
-| bip_39_word_new_line6 | often
+| bip_39_word_new_line_6 | often
 weapon
 jewel
 taste
 essay
 like |  
-| bip_39_word_new_line7 | often
+| bip_39_word_new_line_7 | often
 weapon
 jewel
 taste
 essay
 like
 finger |  
-| bip_39_word_new_line8 | often
+| bip_39_word_new_line_8 | often
 weapon
 jewel
 taste
@@ -113,7 +113,7 @@ essay
 like
 finger
 load |  
-| bip_39_word_new_line9 | often
+| bip_39_word_new_line_9 | often
 weapon
 jewel
 taste

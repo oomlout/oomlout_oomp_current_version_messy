@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | depend |  
-| bip_39_word_new_br10 | depend<br>glove<br>capable<br>embrace<br>material<br>obey<br>tiger<br>gesture<br>polar<br>blast |  
-| bip_39_word_new_br11 | depend<br>glove<br>capable<br>embrace<br>material<br>obey<br>tiger<br>gesture<br>polar<br>blast<br>brief |  
-| bip_39_word_new_br12 | depend<br>glove<br>capable<br>embrace<br>material<br>obey<br>tiger<br>gesture<br>polar<br>blast<br>brief<br>arch |  
-| bip_39_word_new_br2 | depend<br>glove |  
-| bip_39_word_new_br3 | depend<br>glove<br>capable |  
-| bip_39_word_new_br4 | depend<br>glove<br>capable<br>embrace |  
-| bip_39_word_new_br5 | depend<br>glove<br>capable<br>embrace<br>material |  
-| bip_39_word_new_br6 | depend<br>glove<br>capable<br>embrace<br>material<br>obey |  
-| bip_39_word_new_br7 | depend<br>glove<br>capable<br>embrace<br>material<br>obey<br>tiger |  
-| bip_39_word_new_br8 | depend<br>glove<br>capable<br>embrace<br>material<br>obey<br>tiger<br>gesture |  
-| bip_39_word_new_br9 | depend<br>glove<br>capable<br>embrace<br>material<br>obey<br>tiger<br>gesture<br>polar |  
-| bip_39_word_new_line1 | depend |  
-| bip_39_word_new_line10 | depend
+| bip_39_word_new_br_1 | depend |  
+| bip_39_word_new_br_10 | depend<br>glove<br>capable<br>embrace<br>material<br>obey<br>tiger<br>gesture<br>polar<br>blast |  
+| bip_39_word_new_br_11 | depend<br>glove<br>capable<br>embrace<br>material<br>obey<br>tiger<br>gesture<br>polar<br>blast<br>brief |  
+| bip_39_word_new_br_12 | depend<br>glove<br>capable<br>embrace<br>material<br>obey<br>tiger<br>gesture<br>polar<br>blast<br>brief<br>arch |  
+| bip_39_word_new_br_2 | depend<br>glove |  
+| bip_39_word_new_br_3 | depend<br>glove<br>capable |  
+| bip_39_word_new_br_4 | depend<br>glove<br>capable<br>embrace |  
+| bip_39_word_new_br_5 | depend<br>glove<br>capable<br>embrace<br>material |  
+| bip_39_word_new_br_6 | depend<br>glove<br>capable<br>embrace<br>material<br>obey |  
+| bip_39_word_new_br_7 | depend<br>glove<br>capable<br>embrace<br>material<br>obey<br>tiger |  
+| bip_39_word_new_br_8 | depend<br>glove<br>capable<br>embrace<br>material<br>obey<br>tiger<br>gesture |  
+| bip_39_word_new_br_9 | depend<br>glove<br>capable<br>embrace<br>material<br>obey<br>tiger<br>gesture<br>polar |  
+| bip_39_word_new_line_1 | depend |  
+| bip_39_word_new_line_10 | depend
 glove
 capable
 embrace
@@ -55,7 +55,7 @@ tiger
 gesture
 polar
 blast |  
-| bip_39_word_new_line11 | depend
+| bip_39_word_new_line_11 | depend
 glove
 capable
 embrace
@@ -66,7 +66,7 @@ gesture
 polar
 blast
 brief |  
-| bip_39_word_new_line12 | depend
+| bip_39_word_new_line_12 | depend
 glove
 capable
 embrace
@@ -78,34 +78,34 @@ polar
 blast
 brief
 arch |  
-| bip_39_word_new_line2 | depend
+| bip_39_word_new_line_2 | depend
 glove |  
-| bip_39_word_new_line3 | depend
+| bip_39_word_new_line_3 | depend
 glove
 capable |  
-| bip_39_word_new_line4 | depend
+| bip_39_word_new_line_4 | depend
 glove
 capable
 embrace |  
-| bip_39_word_new_line5 | depend
+| bip_39_word_new_line_5 | depend
 glove
 capable
 embrace
 material |  
-| bip_39_word_new_line6 | depend
+| bip_39_word_new_line_6 | depend
 glove
 capable
 embrace
 material
 obey |  
-| bip_39_word_new_line7 | depend
+| bip_39_word_new_line_7 | depend
 glove
 capable
 embrace
 material
 obey
 tiger |  
-| bip_39_word_new_line8 | depend
+| bip_39_word_new_line_8 | depend
 glove
 capable
 embrace
@@ -113,7 +113,7 @@ material
 obey
 tiger
 gesture |  
-| bip_39_word_new_line9 | depend
+| bip_39_word_new_line_9 | depend
 glove
 capable
 embrace

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | burger |  
-| bip_39_word_new_br10 | burger<br>rapid<br>oblige<br>diet<br>lunch<br>creek<br>fancy<br>double<br>minimum<br>scan |  
-| bip_39_word_new_br11 | burger<br>rapid<br>oblige<br>diet<br>lunch<br>creek<br>fancy<br>double<br>minimum<br>scan<br>nurse |  
-| bip_39_word_new_br12 | burger<br>rapid<br>oblige<br>diet<br>lunch<br>creek<br>fancy<br>double<br>minimum<br>scan<br>nurse<br>ask |  
-| bip_39_word_new_br2 | burger<br>rapid |  
-| bip_39_word_new_br3 | burger<br>rapid<br>oblige |  
-| bip_39_word_new_br4 | burger<br>rapid<br>oblige<br>diet |  
-| bip_39_word_new_br5 | burger<br>rapid<br>oblige<br>diet<br>lunch |  
-| bip_39_word_new_br6 | burger<br>rapid<br>oblige<br>diet<br>lunch<br>creek |  
-| bip_39_word_new_br7 | burger<br>rapid<br>oblige<br>diet<br>lunch<br>creek<br>fancy |  
-| bip_39_word_new_br8 | burger<br>rapid<br>oblige<br>diet<br>lunch<br>creek<br>fancy<br>double |  
-| bip_39_word_new_br9 | burger<br>rapid<br>oblige<br>diet<br>lunch<br>creek<br>fancy<br>double<br>minimum |  
-| bip_39_word_new_line1 | burger |  
-| bip_39_word_new_line10 | burger
+| bip_39_word_new_br_1 | burger |  
+| bip_39_word_new_br_10 | burger<br>rapid<br>oblige<br>diet<br>lunch<br>creek<br>fancy<br>double<br>minimum<br>scan |  
+| bip_39_word_new_br_11 | burger<br>rapid<br>oblige<br>diet<br>lunch<br>creek<br>fancy<br>double<br>minimum<br>scan<br>nurse |  
+| bip_39_word_new_br_12 | burger<br>rapid<br>oblige<br>diet<br>lunch<br>creek<br>fancy<br>double<br>minimum<br>scan<br>nurse<br>ask |  
+| bip_39_word_new_br_2 | burger<br>rapid |  
+| bip_39_word_new_br_3 | burger<br>rapid<br>oblige |  
+| bip_39_word_new_br_4 | burger<br>rapid<br>oblige<br>diet |  
+| bip_39_word_new_br_5 | burger<br>rapid<br>oblige<br>diet<br>lunch |  
+| bip_39_word_new_br_6 | burger<br>rapid<br>oblige<br>diet<br>lunch<br>creek |  
+| bip_39_word_new_br_7 | burger<br>rapid<br>oblige<br>diet<br>lunch<br>creek<br>fancy |  
+| bip_39_word_new_br_8 | burger<br>rapid<br>oblige<br>diet<br>lunch<br>creek<br>fancy<br>double |  
+| bip_39_word_new_br_9 | burger<br>rapid<br>oblige<br>diet<br>lunch<br>creek<br>fancy<br>double<br>minimum |  
+| bip_39_word_new_line_1 | burger |  
+| bip_39_word_new_line_10 | burger
 rapid
 oblige
 diet
@@ -55,7 +55,7 @@ fancy
 double
 minimum
 scan |  
-| bip_39_word_new_line11 | burger
+| bip_39_word_new_line_11 | burger
 rapid
 oblige
 diet
@@ -66,7 +66,7 @@ double
 minimum
 scan
 nurse |  
-| bip_39_word_new_line12 | burger
+| bip_39_word_new_line_12 | burger
 rapid
 oblige
 diet
@@ -78,34 +78,34 @@ minimum
 scan
 nurse
 ask |  
-| bip_39_word_new_line2 | burger
+| bip_39_word_new_line_2 | burger
 rapid |  
-| bip_39_word_new_line3 | burger
+| bip_39_word_new_line_3 | burger
 rapid
 oblige |  
-| bip_39_word_new_line4 | burger
+| bip_39_word_new_line_4 | burger
 rapid
 oblige
 diet |  
-| bip_39_word_new_line5 | burger
+| bip_39_word_new_line_5 | burger
 rapid
 oblige
 diet
 lunch |  
-| bip_39_word_new_line6 | burger
+| bip_39_word_new_line_6 | burger
 rapid
 oblige
 diet
 lunch
 creek |  
-| bip_39_word_new_line7 | burger
+| bip_39_word_new_line_7 | burger
 rapid
 oblige
 diet
 lunch
 creek
 fancy |  
-| bip_39_word_new_line8 | burger
+| bip_39_word_new_line_8 | burger
 rapid
 oblige
 diet
@@ -113,7 +113,7 @@ lunch
 creek
 fancy
 double |  
-| bip_39_word_new_line9 | burger
+| bip_39_word_new_line_9 | burger
 rapid
 oblige
 diet

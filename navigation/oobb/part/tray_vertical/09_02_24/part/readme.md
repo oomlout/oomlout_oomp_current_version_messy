@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | extend |  
-| bip_39_word_new_br10 | extend<br>roof<br>circle<br>novel<br>three<br>select<br>limit<br>noble<br>door<br>twin |  
-| bip_39_word_new_br11 | extend<br>roof<br>circle<br>novel<br>three<br>select<br>limit<br>noble<br>door<br>twin<br>rigid |  
-| bip_39_word_new_br12 | extend<br>roof<br>circle<br>novel<br>three<br>select<br>limit<br>noble<br>door<br>twin<br>rigid<br>another |  
-| bip_39_word_new_br2 | extend<br>roof |  
-| bip_39_word_new_br3 | extend<br>roof<br>circle |  
-| bip_39_word_new_br4 | extend<br>roof<br>circle<br>novel |  
-| bip_39_word_new_br5 | extend<br>roof<br>circle<br>novel<br>three |  
-| bip_39_word_new_br6 | extend<br>roof<br>circle<br>novel<br>three<br>select |  
-| bip_39_word_new_br7 | extend<br>roof<br>circle<br>novel<br>three<br>select<br>limit |  
-| bip_39_word_new_br8 | extend<br>roof<br>circle<br>novel<br>three<br>select<br>limit<br>noble |  
-| bip_39_word_new_br9 | extend<br>roof<br>circle<br>novel<br>three<br>select<br>limit<br>noble<br>door |  
-| bip_39_word_new_line1 | extend |  
-| bip_39_word_new_line10 | extend
+| bip_39_word_new_br_1 | extend |  
+| bip_39_word_new_br_10 | extend<br>roof<br>circle<br>novel<br>three<br>select<br>limit<br>noble<br>door<br>twin |  
+| bip_39_word_new_br_11 | extend<br>roof<br>circle<br>novel<br>three<br>select<br>limit<br>noble<br>door<br>twin<br>rigid |  
+| bip_39_word_new_br_12 | extend<br>roof<br>circle<br>novel<br>three<br>select<br>limit<br>noble<br>door<br>twin<br>rigid<br>another |  
+| bip_39_word_new_br_2 | extend<br>roof |  
+| bip_39_word_new_br_3 | extend<br>roof<br>circle |  
+| bip_39_word_new_br_4 | extend<br>roof<br>circle<br>novel |  
+| bip_39_word_new_br_5 | extend<br>roof<br>circle<br>novel<br>three |  
+| bip_39_word_new_br_6 | extend<br>roof<br>circle<br>novel<br>three<br>select |  
+| bip_39_word_new_br_7 | extend<br>roof<br>circle<br>novel<br>three<br>select<br>limit |  
+| bip_39_word_new_br_8 | extend<br>roof<br>circle<br>novel<br>three<br>select<br>limit<br>noble |  
+| bip_39_word_new_br_9 | extend<br>roof<br>circle<br>novel<br>three<br>select<br>limit<br>noble<br>door |  
+| bip_39_word_new_line_1 | extend |  
+| bip_39_word_new_line_10 | extend
 roof
 circle
 novel
@@ -55,7 +55,7 @@ limit
 noble
 door
 twin |  
-| bip_39_word_new_line11 | extend
+| bip_39_word_new_line_11 | extend
 roof
 circle
 novel
@@ -66,7 +66,7 @@ noble
 door
 twin
 rigid |  
-| bip_39_word_new_line12 | extend
+| bip_39_word_new_line_12 | extend
 roof
 circle
 novel
@@ -78,34 +78,34 @@ door
 twin
 rigid
 another |  
-| bip_39_word_new_line2 | extend
+| bip_39_word_new_line_2 | extend
 roof |  
-| bip_39_word_new_line3 | extend
+| bip_39_word_new_line_3 | extend
 roof
 circle |  
-| bip_39_word_new_line4 | extend
+| bip_39_word_new_line_4 | extend
 roof
 circle
 novel |  
-| bip_39_word_new_line5 | extend
+| bip_39_word_new_line_5 | extend
 roof
 circle
 novel
 three |  
-| bip_39_word_new_line6 | extend
+| bip_39_word_new_line_6 | extend
 roof
 circle
 novel
 three
 select |  
-| bip_39_word_new_line7 | extend
+| bip_39_word_new_line_7 | extend
 roof
 circle
 novel
 three
 select
 limit |  
-| bip_39_word_new_line8 | extend
+| bip_39_word_new_line_8 | extend
 roof
 circle
 novel
@@ -113,7 +113,7 @@ three
 select
 limit
 noble |  
-| bip_39_word_new_line9 | extend
+| bip_39_word_new_line_9 | extend
 roof
 circle
 novel

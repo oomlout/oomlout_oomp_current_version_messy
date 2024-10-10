@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | extra |  
-| bip_39_word_new_br10 | extra<br>letter<br>immense<br>drip<br>effort<br>disorder<br>galaxy<br>loop<br>reason<br>kiss |  
-| bip_39_word_new_br11 | extra<br>letter<br>immense<br>drip<br>effort<br>disorder<br>galaxy<br>loop<br>reason<br>kiss<br>clog |  
-| bip_39_word_new_br12 | extra<br>letter<br>immense<br>drip<br>effort<br>disorder<br>galaxy<br>loop<br>reason<br>kiss<br>clog<br>author |  
-| bip_39_word_new_br2 | extra<br>letter |  
-| bip_39_word_new_br3 | extra<br>letter<br>immense |  
-| bip_39_word_new_br4 | extra<br>letter<br>immense<br>drip |  
-| bip_39_word_new_br5 | extra<br>letter<br>immense<br>drip<br>effort |  
-| bip_39_word_new_br6 | extra<br>letter<br>immense<br>drip<br>effort<br>disorder |  
-| bip_39_word_new_br7 | extra<br>letter<br>immense<br>drip<br>effort<br>disorder<br>galaxy |  
-| bip_39_word_new_br8 | extra<br>letter<br>immense<br>drip<br>effort<br>disorder<br>galaxy<br>loop |  
-| bip_39_word_new_br9 | extra<br>letter<br>immense<br>drip<br>effort<br>disorder<br>galaxy<br>loop<br>reason |  
-| bip_39_word_new_line1 | extra |  
-| bip_39_word_new_line10 | extra
+| bip_39_word_new_br_1 | extra |  
+| bip_39_word_new_br_10 | extra<br>letter<br>immense<br>drip<br>effort<br>disorder<br>galaxy<br>loop<br>reason<br>kiss |  
+| bip_39_word_new_br_11 | extra<br>letter<br>immense<br>drip<br>effort<br>disorder<br>galaxy<br>loop<br>reason<br>kiss<br>clog |  
+| bip_39_word_new_br_12 | extra<br>letter<br>immense<br>drip<br>effort<br>disorder<br>galaxy<br>loop<br>reason<br>kiss<br>clog<br>author |  
+| bip_39_word_new_br_2 | extra<br>letter |  
+| bip_39_word_new_br_3 | extra<br>letter<br>immense |  
+| bip_39_word_new_br_4 | extra<br>letter<br>immense<br>drip |  
+| bip_39_word_new_br_5 | extra<br>letter<br>immense<br>drip<br>effort |  
+| bip_39_word_new_br_6 | extra<br>letter<br>immense<br>drip<br>effort<br>disorder |  
+| bip_39_word_new_br_7 | extra<br>letter<br>immense<br>drip<br>effort<br>disorder<br>galaxy |  
+| bip_39_word_new_br_8 | extra<br>letter<br>immense<br>drip<br>effort<br>disorder<br>galaxy<br>loop |  
+| bip_39_word_new_br_9 | extra<br>letter<br>immense<br>drip<br>effort<br>disorder<br>galaxy<br>loop<br>reason |  
+| bip_39_word_new_line_1 | extra |  
+| bip_39_word_new_line_10 | extra
 letter
 immense
 drip
@@ -55,7 +55,7 @@ galaxy
 loop
 reason
 kiss |  
-| bip_39_word_new_line11 | extra
+| bip_39_word_new_line_11 | extra
 letter
 immense
 drip
@@ -66,7 +66,7 @@ loop
 reason
 kiss
 clog |  
-| bip_39_word_new_line12 | extra
+| bip_39_word_new_line_12 | extra
 letter
 immense
 drip
@@ -78,34 +78,34 @@ reason
 kiss
 clog
 author |  
-| bip_39_word_new_line2 | extra
+| bip_39_word_new_line_2 | extra
 letter |  
-| bip_39_word_new_line3 | extra
+| bip_39_word_new_line_3 | extra
 letter
 immense |  
-| bip_39_word_new_line4 | extra
+| bip_39_word_new_line_4 | extra
 letter
 immense
 drip |  
-| bip_39_word_new_line5 | extra
+| bip_39_word_new_line_5 | extra
 letter
 immense
 drip
 effort |  
-| bip_39_word_new_line6 | extra
+| bip_39_word_new_line_6 | extra
 letter
 immense
 drip
 effort
 disorder |  
-| bip_39_word_new_line7 | extra
+| bip_39_word_new_line_7 | extra
 letter
 immense
 drip
 effort
 disorder
 galaxy |  
-| bip_39_word_new_line8 | extra
+| bip_39_word_new_line_8 | extra
 letter
 immense
 drip
@@ -113,7 +113,7 @@ effort
 disorder
 galaxy
 loop |  
-| bip_39_word_new_line9 | extra
+| bip_39_word_new_line_9 | extra
 letter
 immense
 drip

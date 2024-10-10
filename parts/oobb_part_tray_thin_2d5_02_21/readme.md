@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | swear |  
-| bip_39_word_new_br10 | swear<br>bitter<br>wild<br>message<br>level<br>patch<br>around<br>prison<br>bullet<br>scout |  
-| bip_39_word_new_br11 | swear<br>bitter<br>wild<br>message<br>level<br>patch<br>around<br>prison<br>bullet<br>scout<br>inch |  
-| bip_39_word_new_br12 | swear<br>bitter<br>wild<br>message<br>level<br>patch<br>around<br>prison<br>bullet<br>scout<br>inch<br>acquire |  
-| bip_39_word_new_br2 | swear<br>bitter |  
-| bip_39_word_new_br3 | swear<br>bitter<br>wild |  
-| bip_39_word_new_br4 | swear<br>bitter<br>wild<br>message |  
-| bip_39_word_new_br5 | swear<br>bitter<br>wild<br>message<br>level |  
-| bip_39_word_new_br6 | swear<br>bitter<br>wild<br>message<br>level<br>patch |  
-| bip_39_word_new_br7 | swear<br>bitter<br>wild<br>message<br>level<br>patch<br>around |  
-| bip_39_word_new_br8 | swear<br>bitter<br>wild<br>message<br>level<br>patch<br>around<br>prison |  
-| bip_39_word_new_br9 | swear<br>bitter<br>wild<br>message<br>level<br>patch<br>around<br>prison<br>bullet |  
-| bip_39_word_new_line1 | swear |  
-| bip_39_word_new_line10 | swear
+| bip_39_word_new_br_1 | swear |  
+| bip_39_word_new_br_10 | swear<br>bitter<br>wild<br>message<br>level<br>patch<br>around<br>prison<br>bullet<br>scout |  
+| bip_39_word_new_br_11 | swear<br>bitter<br>wild<br>message<br>level<br>patch<br>around<br>prison<br>bullet<br>scout<br>inch |  
+| bip_39_word_new_br_12 | swear<br>bitter<br>wild<br>message<br>level<br>patch<br>around<br>prison<br>bullet<br>scout<br>inch<br>acquire |  
+| bip_39_word_new_br_2 | swear<br>bitter |  
+| bip_39_word_new_br_3 | swear<br>bitter<br>wild |  
+| bip_39_word_new_br_4 | swear<br>bitter<br>wild<br>message |  
+| bip_39_word_new_br_5 | swear<br>bitter<br>wild<br>message<br>level |  
+| bip_39_word_new_br_6 | swear<br>bitter<br>wild<br>message<br>level<br>patch |  
+| bip_39_word_new_br_7 | swear<br>bitter<br>wild<br>message<br>level<br>patch<br>around |  
+| bip_39_word_new_br_8 | swear<br>bitter<br>wild<br>message<br>level<br>patch<br>around<br>prison |  
+| bip_39_word_new_br_9 | swear<br>bitter<br>wild<br>message<br>level<br>patch<br>around<br>prison<br>bullet |  
+| bip_39_word_new_line_1 | swear |  
+| bip_39_word_new_line_10 | swear
 bitter
 wild
 message
@@ -55,7 +55,7 @@ around
 prison
 bullet
 scout |  
-| bip_39_word_new_line11 | swear
+| bip_39_word_new_line_11 | swear
 bitter
 wild
 message
@@ -66,7 +66,7 @@ prison
 bullet
 scout
 inch |  
-| bip_39_word_new_line12 | swear
+| bip_39_word_new_line_12 | swear
 bitter
 wild
 message
@@ -78,34 +78,34 @@ bullet
 scout
 inch
 acquire |  
-| bip_39_word_new_line2 | swear
+| bip_39_word_new_line_2 | swear
 bitter |  
-| bip_39_word_new_line3 | swear
+| bip_39_word_new_line_3 | swear
 bitter
 wild |  
-| bip_39_word_new_line4 | swear
+| bip_39_word_new_line_4 | swear
 bitter
 wild
 message |  
-| bip_39_word_new_line5 | swear
+| bip_39_word_new_line_5 | swear
 bitter
 wild
 message
 level |  
-| bip_39_word_new_line6 | swear
+| bip_39_word_new_line_6 | swear
 bitter
 wild
 message
 level
 patch |  
-| bip_39_word_new_line7 | swear
+| bip_39_word_new_line_7 | swear
 bitter
 wild
 message
 level
 patch
 around |  
-| bip_39_word_new_line8 | swear
+| bip_39_word_new_line_8 | swear
 bitter
 wild
 message
@@ -113,7 +113,7 @@ level
 patch
 around
 prison |  
-| bip_39_word_new_line9 | swear
+| bip_39_word_new_line_9 | swear
 bitter
 wild
 message

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wrong |  
-| bip_39_word_new_br10 | wrong<br>innocent<br>fiscal<br>cigar<br>bomb<br>ball<br>limit<br>panel<br>panda<br>stock |  
-| bip_39_word_new_br11 | wrong<br>innocent<br>fiscal<br>cigar<br>bomb<br>ball<br>limit<br>panel<br>panda<br>stock<br>mushroom |  
-| bip_39_word_new_br12 | wrong<br>innocent<br>fiscal<br>cigar<br>bomb<br>ball<br>limit<br>panel<br>panda<br>stock<br>mushroom<br>acquire |  
-| bip_39_word_new_br2 | wrong<br>innocent |  
-| bip_39_word_new_br3 | wrong<br>innocent<br>fiscal |  
-| bip_39_word_new_br4 | wrong<br>innocent<br>fiscal<br>cigar |  
-| bip_39_word_new_br5 | wrong<br>innocent<br>fiscal<br>cigar<br>bomb |  
-| bip_39_word_new_br6 | wrong<br>innocent<br>fiscal<br>cigar<br>bomb<br>ball |  
-| bip_39_word_new_br7 | wrong<br>innocent<br>fiscal<br>cigar<br>bomb<br>ball<br>limit |  
-| bip_39_word_new_br8 | wrong<br>innocent<br>fiscal<br>cigar<br>bomb<br>ball<br>limit<br>panel |  
-| bip_39_word_new_br9 | wrong<br>innocent<br>fiscal<br>cigar<br>bomb<br>ball<br>limit<br>panel<br>panda |  
-| bip_39_word_new_line1 | wrong |  
-| bip_39_word_new_line10 | wrong
+| bip_39_word_new_br_1 | wrong |  
+| bip_39_word_new_br_10 | wrong<br>innocent<br>fiscal<br>cigar<br>bomb<br>ball<br>limit<br>panel<br>panda<br>stock |  
+| bip_39_word_new_br_11 | wrong<br>innocent<br>fiscal<br>cigar<br>bomb<br>ball<br>limit<br>panel<br>panda<br>stock<br>mushroom |  
+| bip_39_word_new_br_12 | wrong<br>innocent<br>fiscal<br>cigar<br>bomb<br>ball<br>limit<br>panel<br>panda<br>stock<br>mushroom<br>acquire |  
+| bip_39_word_new_br_2 | wrong<br>innocent |  
+| bip_39_word_new_br_3 | wrong<br>innocent<br>fiscal |  
+| bip_39_word_new_br_4 | wrong<br>innocent<br>fiscal<br>cigar |  
+| bip_39_word_new_br_5 | wrong<br>innocent<br>fiscal<br>cigar<br>bomb |  
+| bip_39_word_new_br_6 | wrong<br>innocent<br>fiscal<br>cigar<br>bomb<br>ball |  
+| bip_39_word_new_br_7 | wrong<br>innocent<br>fiscal<br>cigar<br>bomb<br>ball<br>limit |  
+| bip_39_word_new_br_8 | wrong<br>innocent<br>fiscal<br>cigar<br>bomb<br>ball<br>limit<br>panel |  
+| bip_39_word_new_br_9 | wrong<br>innocent<br>fiscal<br>cigar<br>bomb<br>ball<br>limit<br>panel<br>panda |  
+| bip_39_word_new_line_1 | wrong |  
+| bip_39_word_new_line_10 | wrong
 innocent
 fiscal
 cigar
@@ -55,7 +55,7 @@ limit
 panel
 panda
 stock |  
-| bip_39_word_new_line11 | wrong
+| bip_39_word_new_line_11 | wrong
 innocent
 fiscal
 cigar
@@ -66,7 +66,7 @@ panel
 panda
 stock
 mushroom |  
-| bip_39_word_new_line12 | wrong
+| bip_39_word_new_line_12 | wrong
 innocent
 fiscal
 cigar
@@ -78,34 +78,34 @@ panda
 stock
 mushroom
 acquire |  
-| bip_39_word_new_line2 | wrong
+| bip_39_word_new_line_2 | wrong
 innocent |  
-| bip_39_word_new_line3 | wrong
+| bip_39_word_new_line_3 | wrong
 innocent
 fiscal |  
-| bip_39_word_new_line4 | wrong
+| bip_39_word_new_line_4 | wrong
 innocent
 fiscal
 cigar |  
-| bip_39_word_new_line5 | wrong
+| bip_39_word_new_line_5 | wrong
 innocent
 fiscal
 cigar
 bomb |  
-| bip_39_word_new_line6 | wrong
+| bip_39_word_new_line_6 | wrong
 innocent
 fiscal
 cigar
 bomb
 ball |  
-| bip_39_word_new_line7 | wrong
+| bip_39_word_new_line_7 | wrong
 innocent
 fiscal
 cigar
 bomb
 ball
 limit |  
-| bip_39_word_new_line8 | wrong
+| bip_39_word_new_line_8 | wrong
 innocent
 fiscal
 cigar
@@ -113,7 +113,7 @@ bomb
 ball
 limit
 panel |  
-| bip_39_word_new_line9 | wrong
+| bip_39_word_new_line_9 | wrong
 innocent
 fiscal
 cigar

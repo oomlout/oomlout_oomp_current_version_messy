@@ -1,17 +1,17 @@
-bip_39_word_new_br1: topic
-bip_39_word_new_br10: topic<br>whip<br>denial<br>jeans<br>before<br>brain<br>jar<br>tragic<br>tiny<br>stereo
-bip_39_word_new_br11: topic<br>whip<br>denial<br>jeans<br>before<br>brain<br>jar<br>tragic<br>tiny<br>stereo<br>matter
-bip_39_word_new_br12: topic<br>whip<br>denial<br>jeans<br>before<br>brain<br>jar<br>tragic<br>tiny<br>stereo<br>matter<br>arrive
-bip_39_word_new_br2: topic<br>whip
-bip_39_word_new_br3: topic<br>whip<br>denial
-bip_39_word_new_br4: topic<br>whip<br>denial<br>jeans
-bip_39_word_new_br5: topic<br>whip<br>denial<br>jeans<br>before
-bip_39_word_new_br6: topic<br>whip<br>denial<br>jeans<br>before<br>brain
-bip_39_word_new_br7: topic<br>whip<br>denial<br>jeans<br>before<br>brain<br>jar
-bip_39_word_new_br8: topic<br>whip<br>denial<br>jeans<br>before<br>brain<br>jar<br>tragic
-bip_39_word_new_br9: topic<br>whip<br>denial<br>jeans<br>before<br>brain<br>jar<br>tragic<br>tiny
-bip_39_word_new_line1: topic
-bip_39_word_new_line10: 'topic
+bip_39_word_new_br_1: topic
+bip_39_word_new_br_10: topic<br>whip<br>denial<br>jeans<br>before<br>brain<br>jar<br>tragic<br>tiny<br>stereo
+bip_39_word_new_br_11: topic<br>whip<br>denial<br>jeans<br>before<br>brain<br>jar<br>tragic<br>tiny<br>stereo<br>matter
+bip_39_word_new_br_12: topic<br>whip<br>denial<br>jeans<br>before<br>brain<br>jar<br>tragic<br>tiny<br>stereo<br>matter<br>arrive
+bip_39_word_new_br_2: topic<br>whip
+bip_39_word_new_br_3: topic<br>whip<br>denial
+bip_39_word_new_br_4: topic<br>whip<br>denial<br>jeans
+bip_39_word_new_br_5: topic<br>whip<br>denial<br>jeans<br>before
+bip_39_word_new_br_6: topic<br>whip<br>denial<br>jeans<br>before<br>brain
+bip_39_word_new_br_7: topic<br>whip<br>denial<br>jeans<br>before<br>brain<br>jar
+bip_39_word_new_br_8: topic<br>whip<br>denial<br>jeans<br>before<br>brain<br>jar<br>tragic
+bip_39_word_new_br_9: topic<br>whip<br>denial<br>jeans<br>before<br>brain<br>jar<br>tragic<br>tiny
+bip_39_word_new_line_1: topic
+bip_39_word_new_line_10: 'topic
 
   whip
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'topic
   tiny
 
   stereo'
-bip_39_word_new_line11: 'topic
+bip_39_word_new_line_11: 'topic
 
   whip
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'topic
   stereo
 
   matter'
-bip_39_word_new_line12: 'topic
+bip_39_word_new_line_12: 'topic
 
   whip
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'topic
   matter
 
   arrive'
-bip_39_word_new_line2: 'topic
+bip_39_word_new_line_2: 'topic
 
   whip'
-bip_39_word_new_line3: 'topic
+bip_39_word_new_line_3: 'topic
 
   whip
 
   denial'
-bip_39_word_new_line4: 'topic
+bip_39_word_new_line_4: 'topic
 
   whip
 
   denial
 
   jeans'
-bip_39_word_new_line5: 'topic
+bip_39_word_new_line_5: 'topic
 
   whip
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'topic
   jeans
 
   before'
-bip_39_word_new_line6: 'topic
+bip_39_word_new_line_6: 'topic
 
   whip
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'topic
   before
 
   brain'
-bip_39_word_new_line7: 'topic
+bip_39_word_new_line_7: 'topic
 
   whip
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'topic
   brain
 
   jar'
-bip_39_word_new_line8: 'topic
+bip_39_word_new_line_8: 'topic
 
   whip
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'topic
   jar
 
   tragic'
-bip_39_word_new_line9: 'topic
+bip_39_word_new_line_9: 'topic
 
   whip
 

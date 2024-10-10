@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | artist |  
-| bip_39_word_new_br10 | artist<br>decade<br>wish<br>winner<br>stairs<br>please<br>awesome<br>verify<br>dance<br>throw |  
-| bip_39_word_new_br11 | artist<br>decade<br>wish<br>winner<br>stairs<br>please<br>awesome<br>verify<br>dance<br>throw<br>fragile |  
-| bip_39_word_new_br12 | artist<br>decade<br>wish<br>winner<br>stairs<br>please<br>awesome<br>verify<br>dance<br>throw<br>fragile<br>accident |  
-| bip_39_word_new_br2 | artist<br>decade |  
-| bip_39_word_new_br3 | artist<br>decade<br>wish |  
-| bip_39_word_new_br4 | artist<br>decade<br>wish<br>winner |  
-| bip_39_word_new_br5 | artist<br>decade<br>wish<br>winner<br>stairs |  
-| bip_39_word_new_br6 | artist<br>decade<br>wish<br>winner<br>stairs<br>please |  
-| bip_39_word_new_br7 | artist<br>decade<br>wish<br>winner<br>stairs<br>please<br>awesome |  
-| bip_39_word_new_br8 | artist<br>decade<br>wish<br>winner<br>stairs<br>please<br>awesome<br>verify |  
-| bip_39_word_new_br9 | artist<br>decade<br>wish<br>winner<br>stairs<br>please<br>awesome<br>verify<br>dance |  
-| bip_39_word_new_line1 | artist |  
-| bip_39_word_new_line10 | artist
+| bip_39_word_new_br_1 | artist |  
+| bip_39_word_new_br_10 | artist<br>decade<br>wish<br>winner<br>stairs<br>please<br>awesome<br>verify<br>dance<br>throw |  
+| bip_39_word_new_br_11 | artist<br>decade<br>wish<br>winner<br>stairs<br>please<br>awesome<br>verify<br>dance<br>throw<br>fragile |  
+| bip_39_word_new_br_12 | artist<br>decade<br>wish<br>winner<br>stairs<br>please<br>awesome<br>verify<br>dance<br>throw<br>fragile<br>accident |  
+| bip_39_word_new_br_2 | artist<br>decade |  
+| bip_39_word_new_br_3 | artist<br>decade<br>wish |  
+| bip_39_word_new_br_4 | artist<br>decade<br>wish<br>winner |  
+| bip_39_word_new_br_5 | artist<br>decade<br>wish<br>winner<br>stairs |  
+| bip_39_word_new_br_6 | artist<br>decade<br>wish<br>winner<br>stairs<br>please |  
+| bip_39_word_new_br_7 | artist<br>decade<br>wish<br>winner<br>stairs<br>please<br>awesome |  
+| bip_39_word_new_br_8 | artist<br>decade<br>wish<br>winner<br>stairs<br>please<br>awesome<br>verify |  
+| bip_39_word_new_br_9 | artist<br>decade<br>wish<br>winner<br>stairs<br>please<br>awesome<br>verify<br>dance |  
+| bip_39_word_new_line_1 | artist |  
+| bip_39_word_new_line_10 | artist
 decade
 wish
 winner
@@ -55,7 +55,7 @@ awesome
 verify
 dance
 throw |  
-| bip_39_word_new_line11 | artist
+| bip_39_word_new_line_11 | artist
 decade
 wish
 winner
@@ -66,7 +66,7 @@ verify
 dance
 throw
 fragile |  
-| bip_39_word_new_line12 | artist
+| bip_39_word_new_line_12 | artist
 decade
 wish
 winner
@@ -78,34 +78,34 @@ dance
 throw
 fragile
 accident |  
-| bip_39_word_new_line2 | artist
+| bip_39_word_new_line_2 | artist
 decade |  
-| bip_39_word_new_line3 | artist
+| bip_39_word_new_line_3 | artist
 decade
 wish |  
-| bip_39_word_new_line4 | artist
+| bip_39_word_new_line_4 | artist
 decade
 wish
 winner |  
-| bip_39_word_new_line5 | artist
+| bip_39_word_new_line_5 | artist
 decade
 wish
 winner
 stairs |  
-| bip_39_word_new_line6 | artist
+| bip_39_word_new_line_6 | artist
 decade
 wish
 winner
 stairs
 please |  
-| bip_39_word_new_line7 | artist
+| bip_39_word_new_line_7 | artist
 decade
 wish
 winner
 stairs
 please
 awesome |  
-| bip_39_word_new_line8 | artist
+| bip_39_word_new_line_8 | artist
 decade
 wish
 winner
@@ -113,7 +113,7 @@ stairs
 please
 awesome
 verify |  
-| bip_39_word_new_line9 | artist
+| bip_39_word_new_line_9 | artist
 decade
 wish
 winner

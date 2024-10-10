@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | thank |  
-| bip_39_word_new_br10 | thank<br>fat<br>local<br>exotic<br>melt<br>drive<br>trust<br>mystery<br>unknown<br>wall |  
-| bip_39_word_new_br11 | thank<br>fat<br>local<br>exotic<br>melt<br>drive<br>trust<br>mystery<br>unknown<br>wall<br>bind |  
-| bip_39_word_new_br12 | thank<br>fat<br>local<br>exotic<br>melt<br>drive<br>trust<br>mystery<br>unknown<br>wall<br>bind<br>amateur |  
-| bip_39_word_new_br2 | thank<br>fat |  
-| bip_39_word_new_br3 | thank<br>fat<br>local |  
-| bip_39_word_new_br4 | thank<br>fat<br>local<br>exotic |  
-| bip_39_word_new_br5 | thank<br>fat<br>local<br>exotic<br>melt |  
-| bip_39_word_new_br6 | thank<br>fat<br>local<br>exotic<br>melt<br>drive |  
-| bip_39_word_new_br7 | thank<br>fat<br>local<br>exotic<br>melt<br>drive<br>trust |  
-| bip_39_word_new_br8 | thank<br>fat<br>local<br>exotic<br>melt<br>drive<br>trust<br>mystery |  
-| bip_39_word_new_br9 | thank<br>fat<br>local<br>exotic<br>melt<br>drive<br>trust<br>mystery<br>unknown |  
-| bip_39_word_new_line1 | thank |  
-| bip_39_word_new_line10 | thank
+| bip_39_word_new_br_1 | thank |  
+| bip_39_word_new_br_10 | thank<br>fat<br>local<br>exotic<br>melt<br>drive<br>trust<br>mystery<br>unknown<br>wall |  
+| bip_39_word_new_br_11 | thank<br>fat<br>local<br>exotic<br>melt<br>drive<br>trust<br>mystery<br>unknown<br>wall<br>bind |  
+| bip_39_word_new_br_12 | thank<br>fat<br>local<br>exotic<br>melt<br>drive<br>trust<br>mystery<br>unknown<br>wall<br>bind<br>amateur |  
+| bip_39_word_new_br_2 | thank<br>fat |  
+| bip_39_word_new_br_3 | thank<br>fat<br>local |  
+| bip_39_word_new_br_4 | thank<br>fat<br>local<br>exotic |  
+| bip_39_word_new_br_5 | thank<br>fat<br>local<br>exotic<br>melt |  
+| bip_39_word_new_br_6 | thank<br>fat<br>local<br>exotic<br>melt<br>drive |  
+| bip_39_word_new_br_7 | thank<br>fat<br>local<br>exotic<br>melt<br>drive<br>trust |  
+| bip_39_word_new_br_8 | thank<br>fat<br>local<br>exotic<br>melt<br>drive<br>trust<br>mystery |  
+| bip_39_word_new_br_9 | thank<br>fat<br>local<br>exotic<br>melt<br>drive<br>trust<br>mystery<br>unknown |  
+| bip_39_word_new_line_1 | thank |  
+| bip_39_word_new_line_10 | thank
 fat
 local
 exotic
@@ -55,7 +55,7 @@ trust
 mystery
 unknown
 wall |  
-| bip_39_word_new_line11 | thank
+| bip_39_word_new_line_11 | thank
 fat
 local
 exotic
@@ -66,7 +66,7 @@ mystery
 unknown
 wall
 bind |  
-| bip_39_word_new_line12 | thank
+| bip_39_word_new_line_12 | thank
 fat
 local
 exotic
@@ -78,34 +78,34 @@ unknown
 wall
 bind
 amateur |  
-| bip_39_word_new_line2 | thank
+| bip_39_word_new_line_2 | thank
 fat |  
-| bip_39_word_new_line3 | thank
+| bip_39_word_new_line_3 | thank
 fat
 local |  
-| bip_39_word_new_line4 | thank
+| bip_39_word_new_line_4 | thank
 fat
 local
 exotic |  
-| bip_39_word_new_line5 | thank
+| bip_39_word_new_line_5 | thank
 fat
 local
 exotic
 melt |  
-| bip_39_word_new_line6 | thank
+| bip_39_word_new_line_6 | thank
 fat
 local
 exotic
 melt
 drive |  
-| bip_39_word_new_line7 | thank
+| bip_39_word_new_line_7 | thank
 fat
 local
 exotic
 melt
 drive
 trust |  
-| bip_39_word_new_line8 | thank
+| bip_39_word_new_line_8 | thank
 fat
 local
 exotic
@@ -113,7 +113,7 @@ melt
 drive
 trust
 mystery |  
-| bip_39_word_new_line9 | thank
+| bip_39_word_new_line_9 | thank
 fat
 local
 exotic

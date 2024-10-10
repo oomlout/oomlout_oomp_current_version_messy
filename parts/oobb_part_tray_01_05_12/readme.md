@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | story |  
-| bip_39_word_new_br10 | story<br>lucky<br>shadow<br>better<br>mirror<br>summer<br>decade<br>clerk<br>clerk<br>quit |  
-| bip_39_word_new_br11 | story<br>lucky<br>shadow<br>better<br>mirror<br>summer<br>decade<br>clerk<br>clerk<br>quit<br>kiwi |  
-| bip_39_word_new_br12 | story<br>lucky<br>shadow<br>better<br>mirror<br>summer<br>decade<br>clerk<br>clerk<br>quit<br>kiwi<br>asset |  
-| bip_39_word_new_br2 | story<br>lucky |  
-| bip_39_word_new_br3 | story<br>lucky<br>shadow |  
-| bip_39_word_new_br4 | story<br>lucky<br>shadow<br>better |  
-| bip_39_word_new_br5 | story<br>lucky<br>shadow<br>better<br>mirror |  
-| bip_39_word_new_br6 | story<br>lucky<br>shadow<br>better<br>mirror<br>summer |  
-| bip_39_word_new_br7 | story<br>lucky<br>shadow<br>better<br>mirror<br>summer<br>decade |  
-| bip_39_word_new_br8 | story<br>lucky<br>shadow<br>better<br>mirror<br>summer<br>decade<br>clerk |  
-| bip_39_word_new_br9 | story<br>lucky<br>shadow<br>better<br>mirror<br>summer<br>decade<br>clerk<br>clerk |  
-| bip_39_word_new_line1 | story |  
-| bip_39_word_new_line10 | story
+| bip_39_word_new_br_1 | story |  
+| bip_39_word_new_br_10 | story<br>lucky<br>shadow<br>better<br>mirror<br>summer<br>decade<br>clerk<br>clerk<br>quit |  
+| bip_39_word_new_br_11 | story<br>lucky<br>shadow<br>better<br>mirror<br>summer<br>decade<br>clerk<br>clerk<br>quit<br>kiwi |  
+| bip_39_word_new_br_12 | story<br>lucky<br>shadow<br>better<br>mirror<br>summer<br>decade<br>clerk<br>clerk<br>quit<br>kiwi<br>asset |  
+| bip_39_word_new_br_2 | story<br>lucky |  
+| bip_39_word_new_br_3 | story<br>lucky<br>shadow |  
+| bip_39_word_new_br_4 | story<br>lucky<br>shadow<br>better |  
+| bip_39_word_new_br_5 | story<br>lucky<br>shadow<br>better<br>mirror |  
+| bip_39_word_new_br_6 | story<br>lucky<br>shadow<br>better<br>mirror<br>summer |  
+| bip_39_word_new_br_7 | story<br>lucky<br>shadow<br>better<br>mirror<br>summer<br>decade |  
+| bip_39_word_new_br_8 | story<br>lucky<br>shadow<br>better<br>mirror<br>summer<br>decade<br>clerk |  
+| bip_39_word_new_br_9 | story<br>lucky<br>shadow<br>better<br>mirror<br>summer<br>decade<br>clerk<br>clerk |  
+| bip_39_word_new_line_1 | story |  
+| bip_39_word_new_line_10 | story
 lucky
 shadow
 better
@@ -55,7 +55,7 @@ decade
 clerk
 clerk
 quit |  
-| bip_39_word_new_line11 | story
+| bip_39_word_new_line_11 | story
 lucky
 shadow
 better
@@ -66,7 +66,7 @@ clerk
 clerk
 quit
 kiwi |  
-| bip_39_word_new_line12 | story
+| bip_39_word_new_line_12 | story
 lucky
 shadow
 better
@@ -78,34 +78,34 @@ clerk
 quit
 kiwi
 asset |  
-| bip_39_word_new_line2 | story
+| bip_39_word_new_line_2 | story
 lucky |  
-| bip_39_word_new_line3 | story
+| bip_39_word_new_line_3 | story
 lucky
 shadow |  
-| bip_39_word_new_line4 | story
+| bip_39_word_new_line_4 | story
 lucky
 shadow
 better |  
-| bip_39_word_new_line5 | story
+| bip_39_word_new_line_5 | story
 lucky
 shadow
 better
 mirror |  
-| bip_39_word_new_line6 | story
+| bip_39_word_new_line_6 | story
 lucky
 shadow
 better
 mirror
 summer |  
-| bip_39_word_new_line7 | story
+| bip_39_word_new_line_7 | story
 lucky
 shadow
 better
 mirror
 summer
 decade |  
-| bip_39_word_new_line8 | story
+| bip_39_word_new_line_8 | story
 lucky
 shadow
 better
@@ -113,7 +113,7 @@ mirror
 summer
 decade
 clerk |  
-| bip_39_word_new_line9 | story
+| bip_39_word_new_line_9 | story
 lucky
 shadow
 better

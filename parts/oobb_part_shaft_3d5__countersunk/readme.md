@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | close |  
-| bip_39_word_new_br10 | close<br>tone<br>rib<br>canoe<br>mother<br>boat<br>rather<br>hungry<br>celery<br>dress |  
-| bip_39_word_new_br11 | close<br>tone<br>rib<br>canoe<br>mother<br>boat<br>rather<br>hungry<br>celery<br>dress<br>cement |  
-| bip_39_word_new_br12 | close<br>tone<br>rib<br>canoe<br>mother<br>boat<br>rather<br>hungry<br>celery<br>dress<br>cement<br>ankle |  
-| bip_39_word_new_br2 | close<br>tone |  
-| bip_39_word_new_br3 | close<br>tone<br>rib |  
-| bip_39_word_new_br4 | close<br>tone<br>rib<br>canoe |  
-| bip_39_word_new_br5 | close<br>tone<br>rib<br>canoe<br>mother |  
-| bip_39_word_new_br6 | close<br>tone<br>rib<br>canoe<br>mother<br>boat |  
-| bip_39_word_new_br7 | close<br>tone<br>rib<br>canoe<br>mother<br>boat<br>rather |  
-| bip_39_word_new_br8 | close<br>tone<br>rib<br>canoe<br>mother<br>boat<br>rather<br>hungry |  
-| bip_39_word_new_br9 | close<br>tone<br>rib<br>canoe<br>mother<br>boat<br>rather<br>hungry<br>celery |  
-| bip_39_word_new_line1 | close |  
-| bip_39_word_new_line10 | close
+| bip_39_word_new_br_1 | close |  
+| bip_39_word_new_br_10 | close<br>tone<br>rib<br>canoe<br>mother<br>boat<br>rather<br>hungry<br>celery<br>dress |  
+| bip_39_word_new_br_11 | close<br>tone<br>rib<br>canoe<br>mother<br>boat<br>rather<br>hungry<br>celery<br>dress<br>cement |  
+| bip_39_word_new_br_12 | close<br>tone<br>rib<br>canoe<br>mother<br>boat<br>rather<br>hungry<br>celery<br>dress<br>cement<br>ankle |  
+| bip_39_word_new_br_2 | close<br>tone |  
+| bip_39_word_new_br_3 | close<br>tone<br>rib |  
+| bip_39_word_new_br_4 | close<br>tone<br>rib<br>canoe |  
+| bip_39_word_new_br_5 | close<br>tone<br>rib<br>canoe<br>mother |  
+| bip_39_word_new_br_6 | close<br>tone<br>rib<br>canoe<br>mother<br>boat |  
+| bip_39_word_new_br_7 | close<br>tone<br>rib<br>canoe<br>mother<br>boat<br>rather |  
+| bip_39_word_new_br_8 | close<br>tone<br>rib<br>canoe<br>mother<br>boat<br>rather<br>hungry |  
+| bip_39_word_new_br_9 | close<br>tone<br>rib<br>canoe<br>mother<br>boat<br>rather<br>hungry<br>celery |  
+| bip_39_word_new_line_1 | close |  
+| bip_39_word_new_line_10 | close
 tone
 rib
 canoe
@@ -55,7 +55,7 @@ rather
 hungry
 celery
 dress |  
-| bip_39_word_new_line11 | close
+| bip_39_word_new_line_11 | close
 tone
 rib
 canoe
@@ -66,7 +66,7 @@ hungry
 celery
 dress
 cement |  
-| bip_39_word_new_line12 | close
+| bip_39_word_new_line_12 | close
 tone
 rib
 canoe
@@ -78,34 +78,34 @@ celery
 dress
 cement
 ankle |  
-| bip_39_word_new_line2 | close
+| bip_39_word_new_line_2 | close
 tone |  
-| bip_39_word_new_line3 | close
+| bip_39_word_new_line_3 | close
 tone
 rib |  
-| bip_39_word_new_line4 | close
+| bip_39_word_new_line_4 | close
 tone
 rib
 canoe |  
-| bip_39_word_new_line5 | close
+| bip_39_word_new_line_5 | close
 tone
 rib
 canoe
 mother |  
-| bip_39_word_new_line6 | close
+| bip_39_word_new_line_6 | close
 tone
 rib
 canoe
 mother
 boat |  
-| bip_39_word_new_line7 | close
+| bip_39_word_new_line_7 | close
 tone
 rib
 canoe
 mother
 boat
 rather |  
-| bip_39_word_new_line8 | close
+| bip_39_word_new_line_8 | close
 tone
 rib
 canoe
@@ -113,7 +113,7 @@ mother
 boat
 rather
 hungry |  
-| bip_39_word_new_line9 | close
+| bip_39_word_new_line_9 | close
 tone
 rib
 canoe

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | buffalo |  
-| bip_39_word_new_br10 | buffalo<br>forward<br>input<br>vote<br>hen<br>mad<br>plug<br>advice<br>business<br>group |  
-| bip_39_word_new_br11 | buffalo<br>forward<br>input<br>vote<br>hen<br>mad<br>plug<br>advice<br>business<br>group<br>rough |  
-| bip_39_word_new_br12 | buffalo<br>forward<br>input<br>vote<br>hen<br>mad<br>plug<br>advice<br>business<br>group<br>rough<br>abstract |  
-| bip_39_word_new_br2 | buffalo<br>forward |  
-| bip_39_word_new_br3 | buffalo<br>forward<br>input |  
-| bip_39_word_new_br4 | buffalo<br>forward<br>input<br>vote |  
-| bip_39_word_new_br5 | buffalo<br>forward<br>input<br>vote<br>hen |  
-| bip_39_word_new_br6 | buffalo<br>forward<br>input<br>vote<br>hen<br>mad |  
-| bip_39_word_new_br7 | buffalo<br>forward<br>input<br>vote<br>hen<br>mad<br>plug |  
-| bip_39_word_new_br8 | buffalo<br>forward<br>input<br>vote<br>hen<br>mad<br>plug<br>advice |  
-| bip_39_word_new_br9 | buffalo<br>forward<br>input<br>vote<br>hen<br>mad<br>plug<br>advice<br>business |  
-| bip_39_word_new_line1 | buffalo |  
-| bip_39_word_new_line10 | buffalo
+| bip_39_word_new_br_1 | buffalo |  
+| bip_39_word_new_br_10 | buffalo<br>forward<br>input<br>vote<br>hen<br>mad<br>plug<br>advice<br>business<br>group |  
+| bip_39_word_new_br_11 | buffalo<br>forward<br>input<br>vote<br>hen<br>mad<br>plug<br>advice<br>business<br>group<br>rough |  
+| bip_39_word_new_br_12 | buffalo<br>forward<br>input<br>vote<br>hen<br>mad<br>plug<br>advice<br>business<br>group<br>rough<br>abstract |  
+| bip_39_word_new_br_2 | buffalo<br>forward |  
+| bip_39_word_new_br_3 | buffalo<br>forward<br>input |  
+| bip_39_word_new_br_4 | buffalo<br>forward<br>input<br>vote |  
+| bip_39_word_new_br_5 | buffalo<br>forward<br>input<br>vote<br>hen |  
+| bip_39_word_new_br_6 | buffalo<br>forward<br>input<br>vote<br>hen<br>mad |  
+| bip_39_word_new_br_7 | buffalo<br>forward<br>input<br>vote<br>hen<br>mad<br>plug |  
+| bip_39_word_new_br_8 | buffalo<br>forward<br>input<br>vote<br>hen<br>mad<br>plug<br>advice |  
+| bip_39_word_new_br_9 | buffalo<br>forward<br>input<br>vote<br>hen<br>mad<br>plug<br>advice<br>business |  
+| bip_39_word_new_line_1 | buffalo |  
+| bip_39_word_new_line_10 | buffalo
 forward
 input
 vote
@@ -55,7 +55,7 @@ plug
 advice
 business
 group |  
-| bip_39_word_new_line11 | buffalo
+| bip_39_word_new_line_11 | buffalo
 forward
 input
 vote
@@ -66,7 +66,7 @@ advice
 business
 group
 rough |  
-| bip_39_word_new_line12 | buffalo
+| bip_39_word_new_line_12 | buffalo
 forward
 input
 vote
@@ -78,34 +78,34 @@ business
 group
 rough
 abstract |  
-| bip_39_word_new_line2 | buffalo
+| bip_39_word_new_line_2 | buffalo
 forward |  
-| bip_39_word_new_line3 | buffalo
+| bip_39_word_new_line_3 | buffalo
 forward
 input |  
-| bip_39_word_new_line4 | buffalo
+| bip_39_word_new_line_4 | buffalo
 forward
 input
 vote |  
-| bip_39_word_new_line5 | buffalo
+| bip_39_word_new_line_5 | buffalo
 forward
 input
 vote
 hen |  
-| bip_39_word_new_line6 | buffalo
+| bip_39_word_new_line_6 | buffalo
 forward
 input
 vote
 hen
 mad |  
-| bip_39_word_new_line7 | buffalo
+| bip_39_word_new_line_7 | buffalo
 forward
 input
 vote
 hen
 mad
 plug |  
-| bip_39_word_new_line8 | buffalo
+| bip_39_word_new_line_8 | buffalo
 forward
 input
 vote
@@ -113,7 +113,7 @@ hen
 mad
 plug
 advice |  
-| bip_39_word_new_line9 | buffalo
+| bip_39_word_new_line_9 | buffalo
 forward
 input
 vote

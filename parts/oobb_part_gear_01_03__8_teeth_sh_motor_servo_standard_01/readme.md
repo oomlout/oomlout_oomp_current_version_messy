@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | size |  
-| bip_39_word_new_br10 | size<br>brisk<br>inject<br>volcano<br>grocery<br>pony<br>hawk<br>possible<br>tower<br>organ |  
-| bip_39_word_new_br11 | size<br>brisk<br>inject<br>volcano<br>grocery<br>pony<br>hawk<br>possible<br>tower<br>organ<br>swarm |  
-| bip_39_word_new_br12 | size<br>brisk<br>inject<br>volcano<br>grocery<br>pony<br>hawk<br>possible<br>tower<br>organ<br>swarm<br>always |  
-| bip_39_word_new_br2 | size<br>brisk |  
-| bip_39_word_new_br3 | size<br>brisk<br>inject |  
-| bip_39_word_new_br4 | size<br>brisk<br>inject<br>volcano |  
-| bip_39_word_new_br5 | size<br>brisk<br>inject<br>volcano<br>grocery |  
-| bip_39_word_new_br6 | size<br>brisk<br>inject<br>volcano<br>grocery<br>pony |  
-| bip_39_word_new_br7 | size<br>brisk<br>inject<br>volcano<br>grocery<br>pony<br>hawk |  
-| bip_39_word_new_br8 | size<br>brisk<br>inject<br>volcano<br>grocery<br>pony<br>hawk<br>possible |  
-| bip_39_word_new_br9 | size<br>brisk<br>inject<br>volcano<br>grocery<br>pony<br>hawk<br>possible<br>tower |  
-| bip_39_word_new_line1 | size |  
-| bip_39_word_new_line10 | size
+| bip_39_word_new_br_1 | size |  
+| bip_39_word_new_br_10 | size<br>brisk<br>inject<br>volcano<br>grocery<br>pony<br>hawk<br>possible<br>tower<br>organ |  
+| bip_39_word_new_br_11 | size<br>brisk<br>inject<br>volcano<br>grocery<br>pony<br>hawk<br>possible<br>tower<br>organ<br>swarm |  
+| bip_39_word_new_br_12 | size<br>brisk<br>inject<br>volcano<br>grocery<br>pony<br>hawk<br>possible<br>tower<br>organ<br>swarm<br>always |  
+| bip_39_word_new_br_2 | size<br>brisk |  
+| bip_39_word_new_br_3 | size<br>brisk<br>inject |  
+| bip_39_word_new_br_4 | size<br>brisk<br>inject<br>volcano |  
+| bip_39_word_new_br_5 | size<br>brisk<br>inject<br>volcano<br>grocery |  
+| bip_39_word_new_br_6 | size<br>brisk<br>inject<br>volcano<br>grocery<br>pony |  
+| bip_39_word_new_br_7 | size<br>brisk<br>inject<br>volcano<br>grocery<br>pony<br>hawk |  
+| bip_39_word_new_br_8 | size<br>brisk<br>inject<br>volcano<br>grocery<br>pony<br>hawk<br>possible |  
+| bip_39_word_new_br_9 | size<br>brisk<br>inject<br>volcano<br>grocery<br>pony<br>hawk<br>possible<br>tower |  
+| bip_39_word_new_line_1 | size |  
+| bip_39_word_new_line_10 | size
 brisk
 inject
 volcano
@@ -55,7 +55,7 @@ hawk
 possible
 tower
 organ |  
-| bip_39_word_new_line11 | size
+| bip_39_word_new_line_11 | size
 brisk
 inject
 volcano
@@ -66,7 +66,7 @@ possible
 tower
 organ
 swarm |  
-| bip_39_word_new_line12 | size
+| bip_39_word_new_line_12 | size
 brisk
 inject
 volcano
@@ -78,34 +78,34 @@ tower
 organ
 swarm
 always |  
-| bip_39_word_new_line2 | size
+| bip_39_word_new_line_2 | size
 brisk |  
-| bip_39_word_new_line3 | size
+| bip_39_word_new_line_3 | size
 brisk
 inject |  
-| bip_39_word_new_line4 | size
+| bip_39_word_new_line_4 | size
 brisk
 inject
 volcano |  
-| bip_39_word_new_line5 | size
+| bip_39_word_new_line_5 | size
 brisk
 inject
 volcano
 grocery |  
-| bip_39_word_new_line6 | size
+| bip_39_word_new_line_6 | size
 brisk
 inject
 volcano
 grocery
 pony |  
-| bip_39_word_new_line7 | size
+| bip_39_word_new_line_7 | size
 brisk
 inject
 volcano
 grocery
 pony
 hawk |  
-| bip_39_word_new_line8 | size
+| bip_39_word_new_line_8 | size
 brisk
 inject
 volcano
@@ -113,7 +113,7 @@ grocery
 pony
 hawk
 possible |  
-| bip_39_word_new_line9 | size
+| bip_39_word_new_line_9 | size
 brisk
 inject
 volcano

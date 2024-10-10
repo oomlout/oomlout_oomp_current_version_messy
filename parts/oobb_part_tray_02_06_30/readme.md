@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gap |  
-| bip_39_word_new_br10 | gap<br>foot<br>scatter<br>bounce<br>cash<br>decade<br>jaguar<br>travel<br>cage<br>cool |  
-| bip_39_word_new_br11 | gap<br>foot<br>scatter<br>bounce<br>cash<br>decade<br>jaguar<br>travel<br>cage<br>cool<br>despair |  
-| bip_39_word_new_br12 | gap<br>foot<br>scatter<br>bounce<br>cash<br>decade<br>jaguar<br>travel<br>cage<br>cool<br>despair<br>arctic |  
-| bip_39_word_new_br2 | gap<br>foot |  
-| bip_39_word_new_br3 | gap<br>foot<br>scatter |  
-| bip_39_word_new_br4 | gap<br>foot<br>scatter<br>bounce |  
-| bip_39_word_new_br5 | gap<br>foot<br>scatter<br>bounce<br>cash |  
-| bip_39_word_new_br6 | gap<br>foot<br>scatter<br>bounce<br>cash<br>decade |  
-| bip_39_word_new_br7 | gap<br>foot<br>scatter<br>bounce<br>cash<br>decade<br>jaguar |  
-| bip_39_word_new_br8 | gap<br>foot<br>scatter<br>bounce<br>cash<br>decade<br>jaguar<br>travel |  
-| bip_39_word_new_br9 | gap<br>foot<br>scatter<br>bounce<br>cash<br>decade<br>jaguar<br>travel<br>cage |  
-| bip_39_word_new_line1 | gap |  
-| bip_39_word_new_line10 | gap
+| bip_39_word_new_br_1 | gap |  
+| bip_39_word_new_br_10 | gap<br>foot<br>scatter<br>bounce<br>cash<br>decade<br>jaguar<br>travel<br>cage<br>cool |  
+| bip_39_word_new_br_11 | gap<br>foot<br>scatter<br>bounce<br>cash<br>decade<br>jaguar<br>travel<br>cage<br>cool<br>despair |  
+| bip_39_word_new_br_12 | gap<br>foot<br>scatter<br>bounce<br>cash<br>decade<br>jaguar<br>travel<br>cage<br>cool<br>despair<br>arctic |  
+| bip_39_word_new_br_2 | gap<br>foot |  
+| bip_39_word_new_br_3 | gap<br>foot<br>scatter |  
+| bip_39_word_new_br_4 | gap<br>foot<br>scatter<br>bounce |  
+| bip_39_word_new_br_5 | gap<br>foot<br>scatter<br>bounce<br>cash |  
+| bip_39_word_new_br_6 | gap<br>foot<br>scatter<br>bounce<br>cash<br>decade |  
+| bip_39_word_new_br_7 | gap<br>foot<br>scatter<br>bounce<br>cash<br>decade<br>jaguar |  
+| bip_39_word_new_br_8 | gap<br>foot<br>scatter<br>bounce<br>cash<br>decade<br>jaguar<br>travel |  
+| bip_39_word_new_br_9 | gap<br>foot<br>scatter<br>bounce<br>cash<br>decade<br>jaguar<br>travel<br>cage |  
+| bip_39_word_new_line_1 | gap |  
+| bip_39_word_new_line_10 | gap
 foot
 scatter
 bounce
@@ -55,7 +55,7 @@ jaguar
 travel
 cage
 cool |  
-| bip_39_word_new_line11 | gap
+| bip_39_word_new_line_11 | gap
 foot
 scatter
 bounce
@@ -66,7 +66,7 @@ travel
 cage
 cool
 despair |  
-| bip_39_word_new_line12 | gap
+| bip_39_word_new_line_12 | gap
 foot
 scatter
 bounce
@@ -78,34 +78,34 @@ cage
 cool
 despair
 arctic |  
-| bip_39_word_new_line2 | gap
+| bip_39_word_new_line_2 | gap
 foot |  
-| bip_39_word_new_line3 | gap
+| bip_39_word_new_line_3 | gap
 foot
 scatter |  
-| bip_39_word_new_line4 | gap
+| bip_39_word_new_line_4 | gap
 foot
 scatter
 bounce |  
-| bip_39_word_new_line5 | gap
+| bip_39_word_new_line_5 | gap
 foot
 scatter
 bounce
 cash |  
-| bip_39_word_new_line6 | gap
+| bip_39_word_new_line_6 | gap
 foot
 scatter
 bounce
 cash
 decade |  
-| bip_39_word_new_line7 | gap
+| bip_39_word_new_line_7 | gap
 foot
 scatter
 bounce
 cash
 decade
 jaguar |  
-| bip_39_word_new_line8 | gap
+| bip_39_word_new_line_8 | gap
 foot
 scatter
 bounce
@@ -113,7 +113,7 @@ cash
 decade
 jaguar
 travel |  
-| bip_39_word_new_line9 | gap
+| bip_39_word_new_line_9 | gap
 foot
 scatter
 bounce

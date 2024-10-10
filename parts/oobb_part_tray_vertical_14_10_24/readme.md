@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | staff |  
-| bip_39_word_new_br10 | staff<br>rent<br>celery<br>pioneer<br>either<br>bid<br>kite<br>supreme<br>broken<br>price |  
-| bip_39_word_new_br11 | staff<br>rent<br>celery<br>pioneer<br>either<br>bid<br>kite<br>supreme<br>broken<br>price<br>inner |  
-| bip_39_word_new_br12 | staff<br>rent<br>celery<br>pioneer<br>either<br>bid<br>kite<br>supreme<br>broken<br>price<br>inner<br>around |  
-| bip_39_word_new_br2 | staff<br>rent |  
-| bip_39_word_new_br3 | staff<br>rent<br>celery |  
-| bip_39_word_new_br4 | staff<br>rent<br>celery<br>pioneer |  
-| bip_39_word_new_br5 | staff<br>rent<br>celery<br>pioneer<br>either |  
-| bip_39_word_new_br6 | staff<br>rent<br>celery<br>pioneer<br>either<br>bid |  
-| bip_39_word_new_br7 | staff<br>rent<br>celery<br>pioneer<br>either<br>bid<br>kite |  
-| bip_39_word_new_br8 | staff<br>rent<br>celery<br>pioneer<br>either<br>bid<br>kite<br>supreme |  
-| bip_39_word_new_br9 | staff<br>rent<br>celery<br>pioneer<br>either<br>bid<br>kite<br>supreme<br>broken |  
-| bip_39_word_new_line1 | staff |  
-| bip_39_word_new_line10 | staff
+| bip_39_word_new_br_1 | staff |  
+| bip_39_word_new_br_10 | staff<br>rent<br>celery<br>pioneer<br>either<br>bid<br>kite<br>supreme<br>broken<br>price |  
+| bip_39_word_new_br_11 | staff<br>rent<br>celery<br>pioneer<br>either<br>bid<br>kite<br>supreme<br>broken<br>price<br>inner |  
+| bip_39_word_new_br_12 | staff<br>rent<br>celery<br>pioneer<br>either<br>bid<br>kite<br>supreme<br>broken<br>price<br>inner<br>around |  
+| bip_39_word_new_br_2 | staff<br>rent |  
+| bip_39_word_new_br_3 | staff<br>rent<br>celery |  
+| bip_39_word_new_br_4 | staff<br>rent<br>celery<br>pioneer |  
+| bip_39_word_new_br_5 | staff<br>rent<br>celery<br>pioneer<br>either |  
+| bip_39_word_new_br_6 | staff<br>rent<br>celery<br>pioneer<br>either<br>bid |  
+| bip_39_word_new_br_7 | staff<br>rent<br>celery<br>pioneer<br>either<br>bid<br>kite |  
+| bip_39_word_new_br_8 | staff<br>rent<br>celery<br>pioneer<br>either<br>bid<br>kite<br>supreme |  
+| bip_39_word_new_br_9 | staff<br>rent<br>celery<br>pioneer<br>either<br>bid<br>kite<br>supreme<br>broken |  
+| bip_39_word_new_line_1 | staff |  
+| bip_39_word_new_line_10 | staff
 rent
 celery
 pioneer
@@ -55,7 +55,7 @@ kite
 supreme
 broken
 price |  
-| bip_39_word_new_line11 | staff
+| bip_39_word_new_line_11 | staff
 rent
 celery
 pioneer
@@ -66,7 +66,7 @@ supreme
 broken
 price
 inner |  
-| bip_39_word_new_line12 | staff
+| bip_39_word_new_line_12 | staff
 rent
 celery
 pioneer
@@ -78,34 +78,34 @@ broken
 price
 inner
 around |  
-| bip_39_word_new_line2 | staff
+| bip_39_word_new_line_2 | staff
 rent |  
-| bip_39_word_new_line3 | staff
+| bip_39_word_new_line_3 | staff
 rent
 celery |  
-| bip_39_word_new_line4 | staff
+| bip_39_word_new_line_4 | staff
 rent
 celery
 pioneer |  
-| bip_39_word_new_line5 | staff
+| bip_39_word_new_line_5 | staff
 rent
 celery
 pioneer
 either |  
-| bip_39_word_new_line6 | staff
+| bip_39_word_new_line_6 | staff
 rent
 celery
 pioneer
 either
 bid |  
-| bip_39_word_new_line7 | staff
+| bip_39_word_new_line_7 | staff
 rent
 celery
 pioneer
 either
 bid
 kite |  
-| bip_39_word_new_line8 | staff
+| bip_39_word_new_line_8 | staff
 rent
 celery
 pioneer
@@ -113,7 +113,7 @@ either
 bid
 kite
 supreme |  
-| bip_39_word_new_line9 | staff
+| bip_39_word_new_line_9 | staff
 rent
 celery
 pioneer

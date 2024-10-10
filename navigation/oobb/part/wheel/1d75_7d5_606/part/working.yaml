@@ -1,17 +1,17 @@
-bip_39_word_new_br1: image
-bip_39_word_new_br10: image<br>any<br>apology<br>extend<br>smooth<br>mule<br>old<br>ice<br>weird<br>afford
-bip_39_word_new_br11: image<br>any<br>apology<br>extend<br>smooth<br>mule<br>old<br>ice<br>weird<br>afford<br>barely
-bip_39_word_new_br12: image<br>any<br>apology<br>extend<br>smooth<br>mule<br>old<br>ice<br>weird<br>afford<br>barely<br>able
-bip_39_word_new_br2: image<br>any
-bip_39_word_new_br3: image<br>any<br>apology
-bip_39_word_new_br4: image<br>any<br>apology<br>extend
-bip_39_word_new_br5: image<br>any<br>apology<br>extend<br>smooth
-bip_39_word_new_br6: image<br>any<br>apology<br>extend<br>smooth<br>mule
-bip_39_word_new_br7: image<br>any<br>apology<br>extend<br>smooth<br>mule<br>old
-bip_39_word_new_br8: image<br>any<br>apology<br>extend<br>smooth<br>mule<br>old<br>ice
-bip_39_word_new_br9: image<br>any<br>apology<br>extend<br>smooth<br>mule<br>old<br>ice<br>weird
-bip_39_word_new_line1: image
-bip_39_word_new_line10: 'image
+bip_39_word_new_br_1: image
+bip_39_word_new_br_10: image<br>any<br>apology<br>extend<br>smooth<br>mule<br>old<br>ice<br>weird<br>afford
+bip_39_word_new_br_11: image<br>any<br>apology<br>extend<br>smooth<br>mule<br>old<br>ice<br>weird<br>afford<br>barely
+bip_39_word_new_br_12: image<br>any<br>apology<br>extend<br>smooth<br>mule<br>old<br>ice<br>weird<br>afford<br>barely<br>able
+bip_39_word_new_br_2: image<br>any
+bip_39_word_new_br_3: image<br>any<br>apology
+bip_39_word_new_br_4: image<br>any<br>apology<br>extend
+bip_39_word_new_br_5: image<br>any<br>apology<br>extend<br>smooth
+bip_39_word_new_br_6: image<br>any<br>apology<br>extend<br>smooth<br>mule
+bip_39_word_new_br_7: image<br>any<br>apology<br>extend<br>smooth<br>mule<br>old
+bip_39_word_new_br_8: image<br>any<br>apology<br>extend<br>smooth<br>mule<br>old<br>ice
+bip_39_word_new_br_9: image<br>any<br>apology<br>extend<br>smooth<br>mule<br>old<br>ice<br>weird
+bip_39_word_new_line_1: image
+bip_39_word_new_line_10: 'image
 
   any
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'image
   weird
 
   afford'
-bip_39_word_new_line11: 'image
+bip_39_word_new_line_11: 'image
 
   any
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'image
   afford
 
   barely'
-bip_39_word_new_line12: 'image
+bip_39_word_new_line_12: 'image
 
   any
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'image
   barely
 
   able'
-bip_39_word_new_line2: 'image
+bip_39_word_new_line_2: 'image
 
   any'
-bip_39_word_new_line3: 'image
+bip_39_word_new_line_3: 'image
 
   any
 
   apology'
-bip_39_word_new_line4: 'image
+bip_39_word_new_line_4: 'image
 
   any
 
   apology
 
   extend'
-bip_39_word_new_line5: 'image
+bip_39_word_new_line_5: 'image
 
   any
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'image
   extend
 
   smooth'
-bip_39_word_new_line6: 'image
+bip_39_word_new_line_6: 'image
 
   any
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'image
   smooth
 
   mule'
-bip_39_word_new_line7: 'image
+bip_39_word_new_line_7: 'image
 
   any
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'image
   mule
 
   old'
-bip_39_word_new_line8: 'image
+bip_39_word_new_line_8: 'image
 
   any
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'image
   old
 
   ice'
-bip_39_word_new_line9: 'image
+bip_39_word_new_line_9: 'image
 
   any
 

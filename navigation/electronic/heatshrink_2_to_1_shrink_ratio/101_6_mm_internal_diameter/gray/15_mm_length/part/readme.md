@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ride |  
-| bip_39_word_new_br10 | ride<br>rocket<br>liquid<br>alone<br>merry<br>reason<br>permit<br>museum<br>purpose<br>office |  
-| bip_39_word_new_br11 | ride<br>rocket<br>liquid<br>alone<br>merry<br>reason<br>permit<br>museum<br>purpose<br>office<br>reject |  
-| bip_39_word_new_br12 | ride<br>rocket<br>liquid<br>alone<br>merry<br>reason<br>permit<br>museum<br>purpose<br>office<br>reject<br>address |  
-| bip_39_word_new_br2 | ride<br>rocket |  
-| bip_39_word_new_br3 | ride<br>rocket<br>liquid |  
-| bip_39_word_new_br4 | ride<br>rocket<br>liquid<br>alone |  
-| bip_39_word_new_br5 | ride<br>rocket<br>liquid<br>alone<br>merry |  
-| bip_39_word_new_br6 | ride<br>rocket<br>liquid<br>alone<br>merry<br>reason |  
-| bip_39_word_new_br7 | ride<br>rocket<br>liquid<br>alone<br>merry<br>reason<br>permit |  
-| bip_39_word_new_br8 | ride<br>rocket<br>liquid<br>alone<br>merry<br>reason<br>permit<br>museum |  
-| bip_39_word_new_br9 | ride<br>rocket<br>liquid<br>alone<br>merry<br>reason<br>permit<br>museum<br>purpose |  
-| bip_39_word_new_line1 | ride |  
-| bip_39_word_new_line10 | ride
+| bip_39_word_new_br_1 | ride |  
+| bip_39_word_new_br_10 | ride<br>rocket<br>liquid<br>alone<br>merry<br>reason<br>permit<br>museum<br>purpose<br>office |  
+| bip_39_word_new_br_11 | ride<br>rocket<br>liquid<br>alone<br>merry<br>reason<br>permit<br>museum<br>purpose<br>office<br>reject |  
+| bip_39_word_new_br_12 | ride<br>rocket<br>liquid<br>alone<br>merry<br>reason<br>permit<br>museum<br>purpose<br>office<br>reject<br>address |  
+| bip_39_word_new_br_2 | ride<br>rocket |  
+| bip_39_word_new_br_3 | ride<br>rocket<br>liquid |  
+| bip_39_word_new_br_4 | ride<br>rocket<br>liquid<br>alone |  
+| bip_39_word_new_br_5 | ride<br>rocket<br>liquid<br>alone<br>merry |  
+| bip_39_word_new_br_6 | ride<br>rocket<br>liquid<br>alone<br>merry<br>reason |  
+| bip_39_word_new_br_7 | ride<br>rocket<br>liquid<br>alone<br>merry<br>reason<br>permit |  
+| bip_39_word_new_br_8 | ride<br>rocket<br>liquid<br>alone<br>merry<br>reason<br>permit<br>museum |  
+| bip_39_word_new_br_9 | ride<br>rocket<br>liquid<br>alone<br>merry<br>reason<br>permit<br>museum<br>purpose |  
+| bip_39_word_new_line_1 | ride |  
+| bip_39_word_new_line_10 | ride
 rocket
 liquid
 alone
@@ -55,7 +55,7 @@ permit
 museum
 purpose
 office |  
-| bip_39_word_new_line11 | ride
+| bip_39_word_new_line_11 | ride
 rocket
 liquid
 alone
@@ -66,7 +66,7 @@ museum
 purpose
 office
 reject |  
-| bip_39_word_new_line12 | ride
+| bip_39_word_new_line_12 | ride
 rocket
 liquid
 alone
@@ -78,34 +78,34 @@ purpose
 office
 reject
 address |  
-| bip_39_word_new_line2 | ride
+| bip_39_word_new_line_2 | ride
 rocket |  
-| bip_39_word_new_line3 | ride
+| bip_39_word_new_line_3 | ride
 rocket
 liquid |  
-| bip_39_word_new_line4 | ride
+| bip_39_word_new_line_4 | ride
 rocket
 liquid
 alone |  
-| bip_39_word_new_line5 | ride
+| bip_39_word_new_line_5 | ride
 rocket
 liquid
 alone
 merry |  
-| bip_39_word_new_line6 | ride
+| bip_39_word_new_line_6 | ride
 rocket
 liquid
 alone
 merry
 reason |  
-| bip_39_word_new_line7 | ride
+| bip_39_word_new_line_7 | ride
 rocket
 liquid
 alone
 merry
 reason
 permit |  
-| bip_39_word_new_line8 | ride
+| bip_39_word_new_line_8 | ride
 rocket
 liquid
 alone
@@ -113,7 +113,7 @@ merry
 reason
 permit
 museum |  
-| bip_39_word_new_line9 | ride
+| bip_39_word_new_line_9 | ride
 rocket
 liquid
 alone

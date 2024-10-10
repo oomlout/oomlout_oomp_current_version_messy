@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | subway |  
-| bip_39_word_new_br10 | subway<br>beef<br>wage<br>client<br>pact<br>valid<br>midnight<br>deal<br>radar<br>angry |  
-| bip_39_word_new_br11 | subway<br>beef<br>wage<br>client<br>pact<br>valid<br>midnight<br>deal<br>radar<br>angry<br>north |  
-| bip_39_word_new_br12 | subway<br>beef<br>wage<br>client<br>pact<br>valid<br>midnight<br>deal<br>radar<br>angry<br>north<br>aisle |  
-| bip_39_word_new_br2 | subway<br>beef |  
-| bip_39_word_new_br3 | subway<br>beef<br>wage |  
-| bip_39_word_new_br4 | subway<br>beef<br>wage<br>client |  
-| bip_39_word_new_br5 | subway<br>beef<br>wage<br>client<br>pact |  
-| bip_39_word_new_br6 | subway<br>beef<br>wage<br>client<br>pact<br>valid |  
-| bip_39_word_new_br7 | subway<br>beef<br>wage<br>client<br>pact<br>valid<br>midnight |  
-| bip_39_word_new_br8 | subway<br>beef<br>wage<br>client<br>pact<br>valid<br>midnight<br>deal |  
-| bip_39_word_new_br9 | subway<br>beef<br>wage<br>client<br>pact<br>valid<br>midnight<br>deal<br>radar |  
-| bip_39_word_new_line1 | subway |  
-| bip_39_word_new_line10 | subway
+| bip_39_word_new_br_1 | subway |  
+| bip_39_word_new_br_10 | subway<br>beef<br>wage<br>client<br>pact<br>valid<br>midnight<br>deal<br>radar<br>angry |  
+| bip_39_word_new_br_11 | subway<br>beef<br>wage<br>client<br>pact<br>valid<br>midnight<br>deal<br>radar<br>angry<br>north |  
+| bip_39_word_new_br_12 | subway<br>beef<br>wage<br>client<br>pact<br>valid<br>midnight<br>deal<br>radar<br>angry<br>north<br>aisle |  
+| bip_39_word_new_br_2 | subway<br>beef |  
+| bip_39_word_new_br_3 | subway<br>beef<br>wage |  
+| bip_39_word_new_br_4 | subway<br>beef<br>wage<br>client |  
+| bip_39_word_new_br_5 | subway<br>beef<br>wage<br>client<br>pact |  
+| bip_39_word_new_br_6 | subway<br>beef<br>wage<br>client<br>pact<br>valid |  
+| bip_39_word_new_br_7 | subway<br>beef<br>wage<br>client<br>pact<br>valid<br>midnight |  
+| bip_39_word_new_br_8 | subway<br>beef<br>wage<br>client<br>pact<br>valid<br>midnight<br>deal |  
+| bip_39_word_new_br_9 | subway<br>beef<br>wage<br>client<br>pact<br>valid<br>midnight<br>deal<br>radar |  
+| bip_39_word_new_line_1 | subway |  
+| bip_39_word_new_line_10 | subway
 beef
 wage
 client
@@ -55,7 +55,7 @@ midnight
 deal
 radar
 angry |  
-| bip_39_word_new_line11 | subway
+| bip_39_word_new_line_11 | subway
 beef
 wage
 client
@@ -66,7 +66,7 @@ deal
 radar
 angry
 north |  
-| bip_39_word_new_line12 | subway
+| bip_39_word_new_line_12 | subway
 beef
 wage
 client
@@ -78,34 +78,34 @@ radar
 angry
 north
 aisle |  
-| bip_39_word_new_line2 | subway
+| bip_39_word_new_line_2 | subway
 beef |  
-| bip_39_word_new_line3 | subway
+| bip_39_word_new_line_3 | subway
 beef
 wage |  
-| bip_39_word_new_line4 | subway
+| bip_39_word_new_line_4 | subway
 beef
 wage
 client |  
-| bip_39_word_new_line5 | subway
+| bip_39_word_new_line_5 | subway
 beef
 wage
 client
 pact |  
-| bip_39_word_new_line6 | subway
+| bip_39_word_new_line_6 | subway
 beef
 wage
 client
 pact
 valid |  
-| bip_39_word_new_line7 | subway
+| bip_39_word_new_line_7 | subway
 beef
 wage
 client
 pact
 valid
 midnight |  
-| bip_39_word_new_line8 | subway
+| bip_39_word_new_line_8 | subway
 beef
 wage
 client
@@ -113,7 +113,7 @@ pact
 valid
 midnight
 deal |  
-| bip_39_word_new_line9 | subway
+| bip_39_word_new_line_9 | subway
 beef
 wage
 client

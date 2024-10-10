@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | kite |  
-| bip_39_word_new_br10 | kite<br>step<br>zoo<br>trend<br>protect<br>dose<br>size<br>window<br>unfold<br>charge |  
-| bip_39_word_new_br11 | kite<br>step<br>zoo<br>trend<br>protect<br>dose<br>size<br>window<br>unfold<br>charge<br>web |  
-| bip_39_word_new_br12 | kite<br>step<br>zoo<br>trend<br>protect<br>dose<br>size<br>window<br>unfold<br>charge<br>web<br>author |  
-| bip_39_word_new_br2 | kite<br>step |  
-| bip_39_word_new_br3 | kite<br>step<br>zoo |  
-| bip_39_word_new_br4 | kite<br>step<br>zoo<br>trend |  
-| bip_39_word_new_br5 | kite<br>step<br>zoo<br>trend<br>protect |  
-| bip_39_word_new_br6 | kite<br>step<br>zoo<br>trend<br>protect<br>dose |  
-| bip_39_word_new_br7 | kite<br>step<br>zoo<br>trend<br>protect<br>dose<br>size |  
-| bip_39_word_new_br8 | kite<br>step<br>zoo<br>trend<br>protect<br>dose<br>size<br>window |  
-| bip_39_word_new_br9 | kite<br>step<br>zoo<br>trend<br>protect<br>dose<br>size<br>window<br>unfold |  
-| bip_39_word_new_line1 | kite |  
-| bip_39_word_new_line10 | kite
+| bip_39_word_new_br_1 | kite |  
+| bip_39_word_new_br_10 | kite<br>step<br>zoo<br>trend<br>protect<br>dose<br>size<br>window<br>unfold<br>charge |  
+| bip_39_word_new_br_11 | kite<br>step<br>zoo<br>trend<br>protect<br>dose<br>size<br>window<br>unfold<br>charge<br>web |  
+| bip_39_word_new_br_12 | kite<br>step<br>zoo<br>trend<br>protect<br>dose<br>size<br>window<br>unfold<br>charge<br>web<br>author |  
+| bip_39_word_new_br_2 | kite<br>step |  
+| bip_39_word_new_br_3 | kite<br>step<br>zoo |  
+| bip_39_word_new_br_4 | kite<br>step<br>zoo<br>trend |  
+| bip_39_word_new_br_5 | kite<br>step<br>zoo<br>trend<br>protect |  
+| bip_39_word_new_br_6 | kite<br>step<br>zoo<br>trend<br>protect<br>dose |  
+| bip_39_word_new_br_7 | kite<br>step<br>zoo<br>trend<br>protect<br>dose<br>size |  
+| bip_39_word_new_br_8 | kite<br>step<br>zoo<br>trend<br>protect<br>dose<br>size<br>window |  
+| bip_39_word_new_br_9 | kite<br>step<br>zoo<br>trend<br>protect<br>dose<br>size<br>window<br>unfold |  
+| bip_39_word_new_line_1 | kite |  
+| bip_39_word_new_line_10 | kite
 step
 zoo
 trend
@@ -55,7 +55,7 @@ size
 window
 unfold
 charge |  
-| bip_39_word_new_line11 | kite
+| bip_39_word_new_line_11 | kite
 step
 zoo
 trend
@@ -66,7 +66,7 @@ window
 unfold
 charge
 web |  
-| bip_39_word_new_line12 | kite
+| bip_39_word_new_line_12 | kite
 step
 zoo
 trend
@@ -78,34 +78,34 @@ unfold
 charge
 web
 author |  
-| bip_39_word_new_line2 | kite
+| bip_39_word_new_line_2 | kite
 step |  
-| bip_39_word_new_line3 | kite
+| bip_39_word_new_line_3 | kite
 step
 zoo |  
-| bip_39_word_new_line4 | kite
+| bip_39_word_new_line_4 | kite
 step
 zoo
 trend |  
-| bip_39_word_new_line5 | kite
+| bip_39_word_new_line_5 | kite
 step
 zoo
 trend
 protect |  
-| bip_39_word_new_line6 | kite
+| bip_39_word_new_line_6 | kite
 step
 zoo
 trend
 protect
 dose |  
-| bip_39_word_new_line7 | kite
+| bip_39_word_new_line_7 | kite
 step
 zoo
 trend
 protect
 dose
 size |  
-| bip_39_word_new_line8 | kite
+| bip_39_word_new_line_8 | kite
 step
 zoo
 trend
@@ -113,7 +113,7 @@ protect
 dose
 size
 window |  
-| bip_39_word_new_line9 | kite
+| bip_39_word_new_line_9 | kite
 step
 zoo
 trend

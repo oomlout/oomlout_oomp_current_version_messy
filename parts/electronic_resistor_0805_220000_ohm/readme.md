@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | resist |  
-| bip_39_word_new_br10 | resist<br>frown<br>hold<br>hat<br>misery<br>diary<br>recipe<br>festival<br>thrive<br>worth |  
-| bip_39_word_new_br11 | resist<br>frown<br>hold<br>hat<br>misery<br>diary<br>recipe<br>festival<br>thrive<br>worth<br>cage |  
-| bip_39_word_new_br12 | resist<br>frown<br>hold<br>hat<br>misery<br>diary<br>recipe<br>festival<br>thrive<br>worth<br>cage<br>assault |  
-| bip_39_word_new_br2 | resist<br>frown |  
-| bip_39_word_new_br3 | resist<br>frown<br>hold |  
-| bip_39_word_new_br4 | resist<br>frown<br>hold<br>hat |  
-| bip_39_word_new_br5 | resist<br>frown<br>hold<br>hat<br>misery |  
-| bip_39_word_new_br6 | resist<br>frown<br>hold<br>hat<br>misery<br>diary |  
-| bip_39_word_new_br7 | resist<br>frown<br>hold<br>hat<br>misery<br>diary<br>recipe |  
-| bip_39_word_new_br8 | resist<br>frown<br>hold<br>hat<br>misery<br>diary<br>recipe<br>festival |  
-| bip_39_word_new_br9 | resist<br>frown<br>hold<br>hat<br>misery<br>diary<br>recipe<br>festival<br>thrive |  
-| bip_39_word_new_line1 | resist |  
-| bip_39_word_new_line10 | resist
+| bip_39_word_new_br_1 | resist |  
+| bip_39_word_new_br_10 | resist<br>frown<br>hold<br>hat<br>misery<br>diary<br>recipe<br>festival<br>thrive<br>worth |  
+| bip_39_word_new_br_11 | resist<br>frown<br>hold<br>hat<br>misery<br>diary<br>recipe<br>festival<br>thrive<br>worth<br>cage |  
+| bip_39_word_new_br_12 | resist<br>frown<br>hold<br>hat<br>misery<br>diary<br>recipe<br>festival<br>thrive<br>worth<br>cage<br>assault |  
+| bip_39_word_new_br_2 | resist<br>frown |  
+| bip_39_word_new_br_3 | resist<br>frown<br>hold |  
+| bip_39_word_new_br_4 | resist<br>frown<br>hold<br>hat |  
+| bip_39_word_new_br_5 | resist<br>frown<br>hold<br>hat<br>misery |  
+| bip_39_word_new_br_6 | resist<br>frown<br>hold<br>hat<br>misery<br>diary |  
+| bip_39_word_new_br_7 | resist<br>frown<br>hold<br>hat<br>misery<br>diary<br>recipe |  
+| bip_39_word_new_br_8 | resist<br>frown<br>hold<br>hat<br>misery<br>diary<br>recipe<br>festival |  
+| bip_39_word_new_br_9 | resist<br>frown<br>hold<br>hat<br>misery<br>diary<br>recipe<br>festival<br>thrive |  
+| bip_39_word_new_line_1 | resist |  
+| bip_39_word_new_line_10 | resist
 frown
 hold
 hat
@@ -55,7 +55,7 @@ recipe
 festival
 thrive
 worth |  
-| bip_39_word_new_line11 | resist
+| bip_39_word_new_line_11 | resist
 frown
 hold
 hat
@@ -66,7 +66,7 @@ festival
 thrive
 worth
 cage |  
-| bip_39_word_new_line12 | resist
+| bip_39_word_new_line_12 | resist
 frown
 hold
 hat
@@ -78,34 +78,34 @@ thrive
 worth
 cage
 assault |  
-| bip_39_word_new_line2 | resist
+| bip_39_word_new_line_2 | resist
 frown |  
-| bip_39_word_new_line3 | resist
+| bip_39_word_new_line_3 | resist
 frown
 hold |  
-| bip_39_word_new_line4 | resist
+| bip_39_word_new_line_4 | resist
 frown
 hold
 hat |  
-| bip_39_word_new_line5 | resist
+| bip_39_word_new_line_5 | resist
 frown
 hold
 hat
 misery |  
-| bip_39_word_new_line6 | resist
+| bip_39_word_new_line_6 | resist
 frown
 hold
 hat
 misery
 diary |  
-| bip_39_word_new_line7 | resist
+| bip_39_word_new_line_7 | resist
 frown
 hold
 hat
 misery
 diary
 recipe |  
-| bip_39_word_new_line8 | resist
+| bip_39_word_new_line_8 | resist
 frown
 hold
 hat
@@ -113,7 +113,7 @@ misery
 diary
 recipe
 festival |  
-| bip_39_word_new_line9 | resist
+| bip_39_word_new_line_9 | resist
 frown
 hold
 hat

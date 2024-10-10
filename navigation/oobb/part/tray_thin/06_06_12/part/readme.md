@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | unfair |  
-| bip_39_word_new_br10 | unfair<br>cluster<br>normal<br>agent<br>junk<br>patch<br>oblige<br>focus<br>lyrics<br>ancient |  
-| bip_39_word_new_br11 | unfair<br>cluster<br>normal<br>agent<br>junk<br>patch<br>oblige<br>focus<br>lyrics<br>ancient<br>left |  
-| bip_39_word_new_br12 | unfair<br>cluster<br>normal<br>agent<br>junk<br>patch<br>oblige<br>focus<br>lyrics<br>ancient<br>left<br>all |  
-| bip_39_word_new_br2 | unfair<br>cluster |  
-| bip_39_word_new_br3 | unfair<br>cluster<br>normal |  
-| bip_39_word_new_br4 | unfair<br>cluster<br>normal<br>agent |  
-| bip_39_word_new_br5 | unfair<br>cluster<br>normal<br>agent<br>junk |  
-| bip_39_word_new_br6 | unfair<br>cluster<br>normal<br>agent<br>junk<br>patch |  
-| bip_39_word_new_br7 | unfair<br>cluster<br>normal<br>agent<br>junk<br>patch<br>oblige |  
-| bip_39_word_new_br8 | unfair<br>cluster<br>normal<br>agent<br>junk<br>patch<br>oblige<br>focus |  
-| bip_39_word_new_br9 | unfair<br>cluster<br>normal<br>agent<br>junk<br>patch<br>oblige<br>focus<br>lyrics |  
-| bip_39_word_new_line1 | unfair |  
-| bip_39_word_new_line10 | unfair
+| bip_39_word_new_br_1 | unfair |  
+| bip_39_word_new_br_10 | unfair<br>cluster<br>normal<br>agent<br>junk<br>patch<br>oblige<br>focus<br>lyrics<br>ancient |  
+| bip_39_word_new_br_11 | unfair<br>cluster<br>normal<br>agent<br>junk<br>patch<br>oblige<br>focus<br>lyrics<br>ancient<br>left |  
+| bip_39_word_new_br_12 | unfair<br>cluster<br>normal<br>agent<br>junk<br>patch<br>oblige<br>focus<br>lyrics<br>ancient<br>left<br>all |  
+| bip_39_word_new_br_2 | unfair<br>cluster |  
+| bip_39_word_new_br_3 | unfair<br>cluster<br>normal |  
+| bip_39_word_new_br_4 | unfair<br>cluster<br>normal<br>agent |  
+| bip_39_word_new_br_5 | unfair<br>cluster<br>normal<br>agent<br>junk |  
+| bip_39_word_new_br_6 | unfair<br>cluster<br>normal<br>agent<br>junk<br>patch |  
+| bip_39_word_new_br_7 | unfair<br>cluster<br>normal<br>agent<br>junk<br>patch<br>oblige |  
+| bip_39_word_new_br_8 | unfair<br>cluster<br>normal<br>agent<br>junk<br>patch<br>oblige<br>focus |  
+| bip_39_word_new_br_9 | unfair<br>cluster<br>normal<br>agent<br>junk<br>patch<br>oblige<br>focus<br>lyrics |  
+| bip_39_word_new_line_1 | unfair |  
+| bip_39_word_new_line_10 | unfair
 cluster
 normal
 agent
@@ -55,7 +55,7 @@ oblige
 focus
 lyrics
 ancient |  
-| bip_39_word_new_line11 | unfair
+| bip_39_word_new_line_11 | unfair
 cluster
 normal
 agent
@@ -66,7 +66,7 @@ focus
 lyrics
 ancient
 left |  
-| bip_39_word_new_line12 | unfair
+| bip_39_word_new_line_12 | unfair
 cluster
 normal
 agent
@@ -78,34 +78,34 @@ lyrics
 ancient
 left
 all |  
-| bip_39_word_new_line2 | unfair
+| bip_39_word_new_line_2 | unfair
 cluster |  
-| bip_39_word_new_line3 | unfair
+| bip_39_word_new_line_3 | unfair
 cluster
 normal |  
-| bip_39_word_new_line4 | unfair
+| bip_39_word_new_line_4 | unfair
 cluster
 normal
 agent |  
-| bip_39_word_new_line5 | unfair
+| bip_39_word_new_line_5 | unfair
 cluster
 normal
 agent
 junk |  
-| bip_39_word_new_line6 | unfair
+| bip_39_word_new_line_6 | unfair
 cluster
 normal
 agent
 junk
 patch |  
-| bip_39_word_new_line7 | unfair
+| bip_39_word_new_line_7 | unfair
 cluster
 normal
 agent
 junk
 patch
 oblige |  
-| bip_39_word_new_line8 | unfair
+| bip_39_word_new_line_8 | unfair
 cluster
 normal
 agent
@@ -113,7 +113,7 @@ junk
 patch
 oblige
 focus |  
-| bip_39_word_new_line9 | unfair
+| bip_39_word_new_line_9 | unfair
 cluster
 normal
 agent

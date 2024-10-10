@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | enter |  
-| bip_39_word_new_br10 | enter<br>case<br>half<br>kidney<br>blanket<br>liberty<br>fall<br>pill<br>glove<br>spawn |  
-| bip_39_word_new_br11 | enter<br>case<br>half<br>kidney<br>blanket<br>liberty<br>fall<br>pill<br>glove<br>spawn<br>cinnamon |  
-| bip_39_word_new_br12 | enter<br>case<br>half<br>kidney<br>blanket<br>liberty<br>fall<br>pill<br>glove<br>spawn<br>cinnamon<br>arena |  
-| bip_39_word_new_br2 | enter<br>case |  
-| bip_39_word_new_br3 | enter<br>case<br>half |  
-| bip_39_word_new_br4 | enter<br>case<br>half<br>kidney |  
-| bip_39_word_new_br5 | enter<br>case<br>half<br>kidney<br>blanket |  
-| bip_39_word_new_br6 | enter<br>case<br>half<br>kidney<br>blanket<br>liberty |  
-| bip_39_word_new_br7 | enter<br>case<br>half<br>kidney<br>blanket<br>liberty<br>fall |  
-| bip_39_word_new_br8 | enter<br>case<br>half<br>kidney<br>blanket<br>liberty<br>fall<br>pill |  
-| bip_39_word_new_br9 | enter<br>case<br>half<br>kidney<br>blanket<br>liberty<br>fall<br>pill<br>glove |  
-| bip_39_word_new_line1 | enter |  
-| bip_39_word_new_line10 | enter
+| bip_39_word_new_br_1 | enter |  
+| bip_39_word_new_br_10 | enter<br>case<br>half<br>kidney<br>blanket<br>liberty<br>fall<br>pill<br>glove<br>spawn |  
+| bip_39_word_new_br_11 | enter<br>case<br>half<br>kidney<br>blanket<br>liberty<br>fall<br>pill<br>glove<br>spawn<br>cinnamon |  
+| bip_39_word_new_br_12 | enter<br>case<br>half<br>kidney<br>blanket<br>liberty<br>fall<br>pill<br>glove<br>spawn<br>cinnamon<br>arena |  
+| bip_39_word_new_br_2 | enter<br>case |  
+| bip_39_word_new_br_3 | enter<br>case<br>half |  
+| bip_39_word_new_br_4 | enter<br>case<br>half<br>kidney |  
+| bip_39_word_new_br_5 | enter<br>case<br>half<br>kidney<br>blanket |  
+| bip_39_word_new_br_6 | enter<br>case<br>half<br>kidney<br>blanket<br>liberty |  
+| bip_39_word_new_br_7 | enter<br>case<br>half<br>kidney<br>blanket<br>liberty<br>fall |  
+| bip_39_word_new_br_8 | enter<br>case<br>half<br>kidney<br>blanket<br>liberty<br>fall<br>pill |  
+| bip_39_word_new_br_9 | enter<br>case<br>half<br>kidney<br>blanket<br>liberty<br>fall<br>pill<br>glove |  
+| bip_39_word_new_line_1 | enter |  
+| bip_39_word_new_line_10 | enter
 case
 half
 kidney
@@ -55,7 +55,7 @@ fall
 pill
 glove
 spawn |  
-| bip_39_word_new_line11 | enter
+| bip_39_word_new_line_11 | enter
 case
 half
 kidney
@@ -66,7 +66,7 @@ pill
 glove
 spawn
 cinnamon |  
-| bip_39_word_new_line12 | enter
+| bip_39_word_new_line_12 | enter
 case
 half
 kidney
@@ -78,34 +78,34 @@ glove
 spawn
 cinnamon
 arena |  
-| bip_39_word_new_line2 | enter
+| bip_39_word_new_line_2 | enter
 case |  
-| bip_39_word_new_line3 | enter
+| bip_39_word_new_line_3 | enter
 case
 half |  
-| bip_39_word_new_line4 | enter
+| bip_39_word_new_line_4 | enter
 case
 half
 kidney |  
-| bip_39_word_new_line5 | enter
+| bip_39_word_new_line_5 | enter
 case
 half
 kidney
 blanket |  
-| bip_39_word_new_line6 | enter
+| bip_39_word_new_line_6 | enter
 case
 half
 kidney
 blanket
 liberty |  
-| bip_39_word_new_line7 | enter
+| bip_39_word_new_line_7 | enter
 case
 half
 kidney
 blanket
 liberty
 fall |  
-| bip_39_word_new_line8 | enter
+| bip_39_word_new_line_8 | enter
 case
 half
 kidney
@@ -113,7 +113,7 @@ blanket
 liberty
 fall
 pill |  
-| bip_39_word_new_line9 | enter
+| bip_39_word_new_line_9 | enter
 case
 half
 kidney

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ill |  
-| bip_39_word_new_br10 | ill<br>abuse<br>annual<br>erase<br>one<br>extend<br>citizen<br>tree<br>sweet<br>pumpkin |  
-| bip_39_word_new_br11 | ill<br>abuse<br>annual<br>erase<br>one<br>extend<br>citizen<br>tree<br>sweet<br>pumpkin<br>banana |  
-| bip_39_word_new_br12 | ill<br>abuse<br>annual<br>erase<br>one<br>extend<br>citizen<br>tree<br>sweet<br>pumpkin<br>banana<br>artefact |  
-| bip_39_word_new_br2 | ill<br>abuse |  
-| bip_39_word_new_br3 | ill<br>abuse<br>annual |  
-| bip_39_word_new_br4 | ill<br>abuse<br>annual<br>erase |  
-| bip_39_word_new_br5 | ill<br>abuse<br>annual<br>erase<br>one |  
-| bip_39_word_new_br6 | ill<br>abuse<br>annual<br>erase<br>one<br>extend |  
-| bip_39_word_new_br7 | ill<br>abuse<br>annual<br>erase<br>one<br>extend<br>citizen |  
-| bip_39_word_new_br8 | ill<br>abuse<br>annual<br>erase<br>one<br>extend<br>citizen<br>tree |  
-| bip_39_word_new_br9 | ill<br>abuse<br>annual<br>erase<br>one<br>extend<br>citizen<br>tree<br>sweet |  
-| bip_39_word_new_line1 | ill |  
-| bip_39_word_new_line10 | ill
+| bip_39_word_new_br_1 | ill |  
+| bip_39_word_new_br_10 | ill<br>abuse<br>annual<br>erase<br>one<br>extend<br>citizen<br>tree<br>sweet<br>pumpkin |  
+| bip_39_word_new_br_11 | ill<br>abuse<br>annual<br>erase<br>one<br>extend<br>citizen<br>tree<br>sweet<br>pumpkin<br>banana |  
+| bip_39_word_new_br_12 | ill<br>abuse<br>annual<br>erase<br>one<br>extend<br>citizen<br>tree<br>sweet<br>pumpkin<br>banana<br>artefact |  
+| bip_39_word_new_br_2 | ill<br>abuse |  
+| bip_39_word_new_br_3 | ill<br>abuse<br>annual |  
+| bip_39_word_new_br_4 | ill<br>abuse<br>annual<br>erase |  
+| bip_39_word_new_br_5 | ill<br>abuse<br>annual<br>erase<br>one |  
+| bip_39_word_new_br_6 | ill<br>abuse<br>annual<br>erase<br>one<br>extend |  
+| bip_39_word_new_br_7 | ill<br>abuse<br>annual<br>erase<br>one<br>extend<br>citizen |  
+| bip_39_word_new_br_8 | ill<br>abuse<br>annual<br>erase<br>one<br>extend<br>citizen<br>tree |  
+| bip_39_word_new_br_9 | ill<br>abuse<br>annual<br>erase<br>one<br>extend<br>citizen<br>tree<br>sweet |  
+| bip_39_word_new_line_1 | ill |  
+| bip_39_word_new_line_10 | ill
 abuse
 annual
 erase
@@ -55,7 +55,7 @@ citizen
 tree
 sweet
 pumpkin |  
-| bip_39_word_new_line11 | ill
+| bip_39_word_new_line_11 | ill
 abuse
 annual
 erase
@@ -66,7 +66,7 @@ tree
 sweet
 pumpkin
 banana |  
-| bip_39_word_new_line12 | ill
+| bip_39_word_new_line_12 | ill
 abuse
 annual
 erase
@@ -78,34 +78,34 @@ sweet
 pumpkin
 banana
 artefact |  
-| bip_39_word_new_line2 | ill
+| bip_39_word_new_line_2 | ill
 abuse |  
-| bip_39_word_new_line3 | ill
+| bip_39_word_new_line_3 | ill
 abuse
 annual |  
-| bip_39_word_new_line4 | ill
+| bip_39_word_new_line_4 | ill
 abuse
 annual
 erase |  
-| bip_39_word_new_line5 | ill
+| bip_39_word_new_line_5 | ill
 abuse
 annual
 erase
 one |  
-| bip_39_word_new_line6 | ill
+| bip_39_word_new_line_6 | ill
 abuse
 annual
 erase
 one
 extend |  
-| bip_39_word_new_line7 | ill
+| bip_39_word_new_line_7 | ill
 abuse
 annual
 erase
 one
 extend
 citizen |  
-| bip_39_word_new_line8 | ill
+| bip_39_word_new_line_8 | ill
 abuse
 annual
 erase
@@ -113,7 +113,7 @@ one
 extend
 citizen
 tree |  
-| bip_39_word_new_line9 | ill
+| bip_39_word_new_line_9 | ill
 abuse
 annual
 erase

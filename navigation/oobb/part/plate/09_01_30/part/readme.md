@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | inherit |  
-| bip_39_word_new_br10 | inherit<br>feed<br>soap<br>disorder<br>note<br>artwork<br>devote<br>mutual<br>stand<br>hammer |  
-| bip_39_word_new_br11 | inherit<br>feed<br>soap<br>disorder<br>note<br>artwork<br>devote<br>mutual<br>stand<br>hammer<br>craft |  
-| bip_39_word_new_br12 | inherit<br>feed<br>soap<br>disorder<br>note<br>artwork<br>devote<br>mutual<br>stand<br>hammer<br>craft<br>absorb |  
-| bip_39_word_new_br2 | inherit<br>feed |  
-| bip_39_word_new_br3 | inherit<br>feed<br>soap |  
-| bip_39_word_new_br4 | inherit<br>feed<br>soap<br>disorder |  
-| bip_39_word_new_br5 | inherit<br>feed<br>soap<br>disorder<br>note |  
-| bip_39_word_new_br6 | inherit<br>feed<br>soap<br>disorder<br>note<br>artwork |  
-| bip_39_word_new_br7 | inherit<br>feed<br>soap<br>disorder<br>note<br>artwork<br>devote |  
-| bip_39_word_new_br8 | inherit<br>feed<br>soap<br>disorder<br>note<br>artwork<br>devote<br>mutual |  
-| bip_39_word_new_br9 | inherit<br>feed<br>soap<br>disorder<br>note<br>artwork<br>devote<br>mutual<br>stand |  
-| bip_39_word_new_line1 | inherit |  
-| bip_39_word_new_line10 | inherit
+| bip_39_word_new_br_1 | inherit |  
+| bip_39_word_new_br_10 | inherit<br>feed<br>soap<br>disorder<br>note<br>artwork<br>devote<br>mutual<br>stand<br>hammer |  
+| bip_39_word_new_br_11 | inherit<br>feed<br>soap<br>disorder<br>note<br>artwork<br>devote<br>mutual<br>stand<br>hammer<br>craft |  
+| bip_39_word_new_br_12 | inherit<br>feed<br>soap<br>disorder<br>note<br>artwork<br>devote<br>mutual<br>stand<br>hammer<br>craft<br>absorb |  
+| bip_39_word_new_br_2 | inherit<br>feed |  
+| bip_39_word_new_br_3 | inherit<br>feed<br>soap |  
+| bip_39_word_new_br_4 | inherit<br>feed<br>soap<br>disorder |  
+| bip_39_word_new_br_5 | inherit<br>feed<br>soap<br>disorder<br>note |  
+| bip_39_word_new_br_6 | inherit<br>feed<br>soap<br>disorder<br>note<br>artwork |  
+| bip_39_word_new_br_7 | inherit<br>feed<br>soap<br>disorder<br>note<br>artwork<br>devote |  
+| bip_39_word_new_br_8 | inherit<br>feed<br>soap<br>disorder<br>note<br>artwork<br>devote<br>mutual |  
+| bip_39_word_new_br_9 | inherit<br>feed<br>soap<br>disorder<br>note<br>artwork<br>devote<br>mutual<br>stand |  
+| bip_39_word_new_line_1 | inherit |  
+| bip_39_word_new_line_10 | inherit
 feed
 soap
 disorder
@@ -55,7 +55,7 @@ devote
 mutual
 stand
 hammer |  
-| bip_39_word_new_line11 | inherit
+| bip_39_word_new_line_11 | inherit
 feed
 soap
 disorder
@@ -66,7 +66,7 @@ mutual
 stand
 hammer
 craft |  
-| bip_39_word_new_line12 | inherit
+| bip_39_word_new_line_12 | inherit
 feed
 soap
 disorder
@@ -78,34 +78,34 @@ stand
 hammer
 craft
 absorb |  
-| bip_39_word_new_line2 | inherit
+| bip_39_word_new_line_2 | inherit
 feed |  
-| bip_39_word_new_line3 | inherit
+| bip_39_word_new_line_3 | inherit
 feed
 soap |  
-| bip_39_word_new_line4 | inherit
+| bip_39_word_new_line_4 | inherit
 feed
 soap
 disorder |  
-| bip_39_word_new_line5 | inherit
+| bip_39_word_new_line_5 | inherit
 feed
 soap
 disorder
 note |  
-| bip_39_word_new_line6 | inherit
+| bip_39_word_new_line_6 | inherit
 feed
 soap
 disorder
 note
 artwork |  
-| bip_39_word_new_line7 | inherit
+| bip_39_word_new_line_7 | inherit
 feed
 soap
 disorder
 note
 artwork
 devote |  
-| bip_39_word_new_line8 | inherit
+| bip_39_word_new_line_8 | inherit
 feed
 soap
 disorder
@@ -113,7 +113,7 @@ note
 artwork
 devote
 mutual |  
-| bip_39_word_new_line9 | inherit
+| bip_39_word_new_line_9 | inherit
 feed
 soap
 disorder

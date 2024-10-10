@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | switch |  
-| bip_39_word_new_br10 | switch<br>often<br>science<br>pattern<br>dove<br>jelly<br>spot<br>little<br>gas<br>medal |  
-| bip_39_word_new_br11 | switch<br>often<br>science<br>pattern<br>dove<br>jelly<br>spot<br>little<br>gas<br>medal<br>exotic |  
-| bip_39_word_new_br12 | switch<br>often<br>science<br>pattern<br>dove<br>jelly<br>spot<br>little<br>gas<br>medal<br>exotic<br>arctic |  
-| bip_39_word_new_br2 | switch<br>often |  
-| bip_39_word_new_br3 | switch<br>often<br>science |  
-| bip_39_word_new_br4 | switch<br>often<br>science<br>pattern |  
-| bip_39_word_new_br5 | switch<br>often<br>science<br>pattern<br>dove |  
-| bip_39_word_new_br6 | switch<br>often<br>science<br>pattern<br>dove<br>jelly |  
-| bip_39_word_new_br7 | switch<br>often<br>science<br>pattern<br>dove<br>jelly<br>spot |  
-| bip_39_word_new_br8 | switch<br>often<br>science<br>pattern<br>dove<br>jelly<br>spot<br>little |  
-| bip_39_word_new_br9 | switch<br>often<br>science<br>pattern<br>dove<br>jelly<br>spot<br>little<br>gas |  
-| bip_39_word_new_line1 | switch |  
-| bip_39_word_new_line10 | switch
+| bip_39_word_new_br_1 | switch |  
+| bip_39_word_new_br_10 | switch<br>often<br>science<br>pattern<br>dove<br>jelly<br>spot<br>little<br>gas<br>medal |  
+| bip_39_word_new_br_11 | switch<br>often<br>science<br>pattern<br>dove<br>jelly<br>spot<br>little<br>gas<br>medal<br>exotic |  
+| bip_39_word_new_br_12 | switch<br>often<br>science<br>pattern<br>dove<br>jelly<br>spot<br>little<br>gas<br>medal<br>exotic<br>arctic |  
+| bip_39_word_new_br_2 | switch<br>often |  
+| bip_39_word_new_br_3 | switch<br>often<br>science |  
+| bip_39_word_new_br_4 | switch<br>often<br>science<br>pattern |  
+| bip_39_word_new_br_5 | switch<br>often<br>science<br>pattern<br>dove |  
+| bip_39_word_new_br_6 | switch<br>often<br>science<br>pattern<br>dove<br>jelly |  
+| bip_39_word_new_br_7 | switch<br>often<br>science<br>pattern<br>dove<br>jelly<br>spot |  
+| bip_39_word_new_br_8 | switch<br>often<br>science<br>pattern<br>dove<br>jelly<br>spot<br>little |  
+| bip_39_word_new_br_9 | switch<br>often<br>science<br>pattern<br>dove<br>jelly<br>spot<br>little<br>gas |  
+| bip_39_word_new_line_1 | switch |  
+| bip_39_word_new_line_10 | switch
 often
 science
 pattern
@@ -55,7 +55,7 @@ spot
 little
 gas
 medal |  
-| bip_39_word_new_line11 | switch
+| bip_39_word_new_line_11 | switch
 often
 science
 pattern
@@ -66,7 +66,7 @@ little
 gas
 medal
 exotic |  
-| bip_39_word_new_line12 | switch
+| bip_39_word_new_line_12 | switch
 often
 science
 pattern
@@ -78,34 +78,34 @@ gas
 medal
 exotic
 arctic |  
-| bip_39_word_new_line2 | switch
+| bip_39_word_new_line_2 | switch
 often |  
-| bip_39_word_new_line3 | switch
+| bip_39_word_new_line_3 | switch
 often
 science |  
-| bip_39_word_new_line4 | switch
+| bip_39_word_new_line_4 | switch
 often
 science
 pattern |  
-| bip_39_word_new_line5 | switch
+| bip_39_word_new_line_5 | switch
 often
 science
 pattern
 dove |  
-| bip_39_word_new_line6 | switch
+| bip_39_word_new_line_6 | switch
 often
 science
 pattern
 dove
 jelly |  
-| bip_39_word_new_line7 | switch
+| bip_39_word_new_line_7 | switch
 often
 science
 pattern
 dove
 jelly
 spot |  
-| bip_39_word_new_line8 | switch
+| bip_39_word_new_line_8 | switch
 often
 science
 pattern
@@ -113,7 +113,7 @@ dove
 jelly
 spot
 little |  
-| bip_39_word_new_line9 | switch
+| bip_39_word_new_line_9 | switch
 often
 science
 pattern

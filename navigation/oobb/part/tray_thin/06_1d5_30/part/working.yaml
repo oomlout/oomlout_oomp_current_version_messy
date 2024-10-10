@@ -1,17 +1,17 @@
-bip_39_word_new_br1: runway
-bip_39_word_new_br10: runway<br>catalog<br>exist<br>obey<br>enforce<br>energy<br>mistake<br>wage<br>frame<br>egg
-bip_39_word_new_br11: runway<br>catalog<br>exist<br>obey<br>enforce<br>energy<br>mistake<br>wage<br>frame<br>egg<br>awake
-bip_39_word_new_br12: runway<br>catalog<br>exist<br>obey<br>enforce<br>energy<br>mistake<br>wage<br>frame<br>egg<br>awake<br>actual
-bip_39_word_new_br2: runway<br>catalog
-bip_39_word_new_br3: runway<br>catalog<br>exist
-bip_39_word_new_br4: runway<br>catalog<br>exist<br>obey
-bip_39_word_new_br5: runway<br>catalog<br>exist<br>obey<br>enforce
-bip_39_word_new_br6: runway<br>catalog<br>exist<br>obey<br>enforce<br>energy
-bip_39_word_new_br7: runway<br>catalog<br>exist<br>obey<br>enforce<br>energy<br>mistake
-bip_39_word_new_br8: runway<br>catalog<br>exist<br>obey<br>enforce<br>energy<br>mistake<br>wage
-bip_39_word_new_br9: runway<br>catalog<br>exist<br>obey<br>enforce<br>energy<br>mistake<br>wage<br>frame
-bip_39_word_new_line1: runway
-bip_39_word_new_line10: 'runway
+bip_39_word_new_br_1: runway
+bip_39_word_new_br_10: runway<br>catalog<br>exist<br>obey<br>enforce<br>energy<br>mistake<br>wage<br>frame<br>egg
+bip_39_word_new_br_11: runway<br>catalog<br>exist<br>obey<br>enforce<br>energy<br>mistake<br>wage<br>frame<br>egg<br>awake
+bip_39_word_new_br_12: runway<br>catalog<br>exist<br>obey<br>enforce<br>energy<br>mistake<br>wage<br>frame<br>egg<br>awake<br>actual
+bip_39_word_new_br_2: runway<br>catalog
+bip_39_word_new_br_3: runway<br>catalog<br>exist
+bip_39_word_new_br_4: runway<br>catalog<br>exist<br>obey
+bip_39_word_new_br_5: runway<br>catalog<br>exist<br>obey<br>enforce
+bip_39_word_new_br_6: runway<br>catalog<br>exist<br>obey<br>enforce<br>energy
+bip_39_word_new_br_7: runway<br>catalog<br>exist<br>obey<br>enforce<br>energy<br>mistake
+bip_39_word_new_br_8: runway<br>catalog<br>exist<br>obey<br>enforce<br>energy<br>mistake<br>wage
+bip_39_word_new_br_9: runway<br>catalog<br>exist<br>obey<br>enforce<br>energy<br>mistake<br>wage<br>frame
+bip_39_word_new_line_1: runway
+bip_39_word_new_line_10: 'runway
 
   catalog
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'runway
   frame
 
   egg'
-bip_39_word_new_line11: 'runway
+bip_39_word_new_line_11: 'runway
 
   catalog
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'runway
   egg
 
   awake'
-bip_39_word_new_line12: 'runway
+bip_39_word_new_line_12: 'runway
 
   catalog
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'runway
   awake
 
   actual'
-bip_39_word_new_line2: 'runway
+bip_39_word_new_line_2: 'runway
 
   catalog'
-bip_39_word_new_line3: 'runway
+bip_39_word_new_line_3: 'runway
 
   catalog
 
   exist'
-bip_39_word_new_line4: 'runway
+bip_39_word_new_line_4: 'runway
 
   catalog
 
   exist
 
   obey'
-bip_39_word_new_line5: 'runway
+bip_39_word_new_line_5: 'runway
 
   catalog
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'runway
   obey
 
   enforce'
-bip_39_word_new_line6: 'runway
+bip_39_word_new_line_6: 'runway
 
   catalog
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'runway
   enforce
 
   energy'
-bip_39_word_new_line7: 'runway
+bip_39_word_new_line_7: 'runway
 
   catalog
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'runway
   energy
 
   mistake'
-bip_39_word_new_line8: 'runway
+bip_39_word_new_line_8: 'runway
 
   catalog
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'runway
   mistake
 
   wage'
-bip_39_word_new_line9: 'runway
+bip_39_word_new_line_9: 'runway
 
   catalog
 

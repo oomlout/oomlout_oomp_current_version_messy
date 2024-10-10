@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | deal |  
-| bip_39_word_new_br10 | deal<br>alarm<br>when<br>oppose<br>apart<br>melt<br>isolate<br>degree<br>snow<br>coffee |  
-| bip_39_word_new_br11 | deal<br>alarm<br>when<br>oppose<br>apart<br>melt<br>isolate<br>degree<br>snow<br>coffee<br>badge |  
-| bip_39_word_new_br12 | deal<br>alarm<br>when<br>oppose<br>apart<br>melt<br>isolate<br>degree<br>snow<br>coffee<br>badge<br>atom |  
-| bip_39_word_new_br2 | deal<br>alarm |  
-| bip_39_word_new_br3 | deal<br>alarm<br>when |  
-| bip_39_word_new_br4 | deal<br>alarm<br>when<br>oppose |  
-| bip_39_word_new_br5 | deal<br>alarm<br>when<br>oppose<br>apart |  
-| bip_39_word_new_br6 | deal<br>alarm<br>when<br>oppose<br>apart<br>melt |  
-| bip_39_word_new_br7 | deal<br>alarm<br>when<br>oppose<br>apart<br>melt<br>isolate |  
-| bip_39_word_new_br8 | deal<br>alarm<br>when<br>oppose<br>apart<br>melt<br>isolate<br>degree |  
-| bip_39_word_new_br9 | deal<br>alarm<br>when<br>oppose<br>apart<br>melt<br>isolate<br>degree<br>snow |  
-| bip_39_word_new_line1 | deal |  
-| bip_39_word_new_line10 | deal
+| bip_39_word_new_br_1 | deal |  
+| bip_39_word_new_br_10 | deal<br>alarm<br>when<br>oppose<br>apart<br>melt<br>isolate<br>degree<br>snow<br>coffee |  
+| bip_39_word_new_br_11 | deal<br>alarm<br>when<br>oppose<br>apart<br>melt<br>isolate<br>degree<br>snow<br>coffee<br>badge |  
+| bip_39_word_new_br_12 | deal<br>alarm<br>when<br>oppose<br>apart<br>melt<br>isolate<br>degree<br>snow<br>coffee<br>badge<br>atom |  
+| bip_39_word_new_br_2 | deal<br>alarm |  
+| bip_39_word_new_br_3 | deal<br>alarm<br>when |  
+| bip_39_word_new_br_4 | deal<br>alarm<br>when<br>oppose |  
+| bip_39_word_new_br_5 | deal<br>alarm<br>when<br>oppose<br>apart |  
+| bip_39_word_new_br_6 | deal<br>alarm<br>when<br>oppose<br>apart<br>melt |  
+| bip_39_word_new_br_7 | deal<br>alarm<br>when<br>oppose<br>apart<br>melt<br>isolate |  
+| bip_39_word_new_br_8 | deal<br>alarm<br>when<br>oppose<br>apart<br>melt<br>isolate<br>degree |  
+| bip_39_word_new_br_9 | deal<br>alarm<br>when<br>oppose<br>apart<br>melt<br>isolate<br>degree<br>snow |  
+| bip_39_word_new_line_1 | deal |  
+| bip_39_word_new_line_10 | deal
 alarm
 when
 oppose
@@ -55,7 +55,7 @@ isolate
 degree
 snow
 coffee |  
-| bip_39_word_new_line11 | deal
+| bip_39_word_new_line_11 | deal
 alarm
 when
 oppose
@@ -66,7 +66,7 @@ degree
 snow
 coffee
 badge |  
-| bip_39_word_new_line12 | deal
+| bip_39_word_new_line_12 | deal
 alarm
 when
 oppose
@@ -78,34 +78,34 @@ snow
 coffee
 badge
 atom |  
-| bip_39_word_new_line2 | deal
+| bip_39_word_new_line_2 | deal
 alarm |  
-| bip_39_word_new_line3 | deal
+| bip_39_word_new_line_3 | deal
 alarm
 when |  
-| bip_39_word_new_line4 | deal
+| bip_39_word_new_line_4 | deal
 alarm
 when
 oppose |  
-| bip_39_word_new_line5 | deal
+| bip_39_word_new_line_5 | deal
 alarm
 when
 oppose
 apart |  
-| bip_39_word_new_line6 | deal
+| bip_39_word_new_line_6 | deal
 alarm
 when
 oppose
 apart
 melt |  
-| bip_39_word_new_line7 | deal
+| bip_39_word_new_line_7 | deal
 alarm
 when
 oppose
 apart
 melt
 isolate |  
-| bip_39_word_new_line8 | deal
+| bip_39_word_new_line_8 | deal
 alarm
 when
 oppose
@@ -113,7 +113,7 @@ apart
 melt
 isolate
 degree |  
-| bip_39_word_new_line9 | deal
+| bip_39_word_new_line_9 | deal
 alarm
 when
 oppose

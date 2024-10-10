@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | flavor |  
-| bip_39_word_new_br10 | flavor<br>home<br>mixed<br>exact<br>luxury<br>need<br>say<br>acoustic<br>farm<br>concert |  
-| bip_39_word_new_br11 | flavor<br>home<br>mixed<br>exact<br>luxury<br>need<br>say<br>acoustic<br>farm<br>concert<br>title |  
-| bip_39_word_new_br12 | flavor<br>home<br>mixed<br>exact<br>luxury<br>need<br>say<br>acoustic<br>farm<br>concert<br>title<br>arctic |  
-| bip_39_word_new_br2 | flavor<br>home |  
-| bip_39_word_new_br3 | flavor<br>home<br>mixed |  
-| bip_39_word_new_br4 | flavor<br>home<br>mixed<br>exact |  
-| bip_39_word_new_br5 | flavor<br>home<br>mixed<br>exact<br>luxury |  
-| bip_39_word_new_br6 | flavor<br>home<br>mixed<br>exact<br>luxury<br>need |  
-| bip_39_word_new_br7 | flavor<br>home<br>mixed<br>exact<br>luxury<br>need<br>say |  
-| bip_39_word_new_br8 | flavor<br>home<br>mixed<br>exact<br>luxury<br>need<br>say<br>acoustic |  
-| bip_39_word_new_br9 | flavor<br>home<br>mixed<br>exact<br>luxury<br>need<br>say<br>acoustic<br>farm |  
-| bip_39_word_new_line1 | flavor |  
-| bip_39_word_new_line10 | flavor
+| bip_39_word_new_br_1 | flavor |  
+| bip_39_word_new_br_10 | flavor<br>home<br>mixed<br>exact<br>luxury<br>need<br>say<br>acoustic<br>farm<br>concert |  
+| bip_39_word_new_br_11 | flavor<br>home<br>mixed<br>exact<br>luxury<br>need<br>say<br>acoustic<br>farm<br>concert<br>title |  
+| bip_39_word_new_br_12 | flavor<br>home<br>mixed<br>exact<br>luxury<br>need<br>say<br>acoustic<br>farm<br>concert<br>title<br>arctic |  
+| bip_39_word_new_br_2 | flavor<br>home |  
+| bip_39_word_new_br_3 | flavor<br>home<br>mixed |  
+| bip_39_word_new_br_4 | flavor<br>home<br>mixed<br>exact |  
+| bip_39_word_new_br_5 | flavor<br>home<br>mixed<br>exact<br>luxury |  
+| bip_39_word_new_br_6 | flavor<br>home<br>mixed<br>exact<br>luxury<br>need |  
+| bip_39_word_new_br_7 | flavor<br>home<br>mixed<br>exact<br>luxury<br>need<br>say |  
+| bip_39_word_new_br_8 | flavor<br>home<br>mixed<br>exact<br>luxury<br>need<br>say<br>acoustic |  
+| bip_39_word_new_br_9 | flavor<br>home<br>mixed<br>exact<br>luxury<br>need<br>say<br>acoustic<br>farm |  
+| bip_39_word_new_line_1 | flavor |  
+| bip_39_word_new_line_10 | flavor
 home
 mixed
 exact
@@ -55,7 +55,7 @@ say
 acoustic
 farm
 concert |  
-| bip_39_word_new_line11 | flavor
+| bip_39_word_new_line_11 | flavor
 home
 mixed
 exact
@@ -66,7 +66,7 @@ acoustic
 farm
 concert
 title |  
-| bip_39_word_new_line12 | flavor
+| bip_39_word_new_line_12 | flavor
 home
 mixed
 exact
@@ -78,34 +78,34 @@ farm
 concert
 title
 arctic |  
-| bip_39_word_new_line2 | flavor
+| bip_39_word_new_line_2 | flavor
 home |  
-| bip_39_word_new_line3 | flavor
+| bip_39_word_new_line_3 | flavor
 home
 mixed |  
-| bip_39_word_new_line4 | flavor
+| bip_39_word_new_line_4 | flavor
 home
 mixed
 exact |  
-| bip_39_word_new_line5 | flavor
+| bip_39_word_new_line_5 | flavor
 home
 mixed
 exact
 luxury |  
-| bip_39_word_new_line6 | flavor
+| bip_39_word_new_line_6 | flavor
 home
 mixed
 exact
 luxury
 need |  
-| bip_39_word_new_line7 | flavor
+| bip_39_word_new_line_7 | flavor
 home
 mixed
 exact
 luxury
 need
 say |  
-| bip_39_word_new_line8 | flavor
+| bip_39_word_new_line_8 | flavor
 home
 mixed
 exact
@@ -113,7 +113,7 @@ luxury
 need
 say
 acoustic |  
-| bip_39_word_new_line9 | flavor
+| bip_39_word_new_line_9 | flavor
 home
 mixed
 exact

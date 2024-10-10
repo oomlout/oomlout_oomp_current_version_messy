@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | local |  
-| bip_39_word_new_br10 | local<br>bonus<br>problem<br>boss<br>dismiss<br>valley<br>armor<br>advance<br>bullet<br>certain |  
-| bip_39_word_new_br11 | local<br>bonus<br>problem<br>boss<br>dismiss<br>valley<br>armor<br>advance<br>bullet<br>certain<br>book |  
-| bip_39_word_new_br12 | local<br>bonus<br>problem<br>boss<br>dismiss<br>valley<br>armor<br>advance<br>bullet<br>certain<br>book<br>affair |  
-| bip_39_word_new_br2 | local<br>bonus |  
-| bip_39_word_new_br3 | local<br>bonus<br>problem |  
-| bip_39_word_new_br4 | local<br>bonus<br>problem<br>boss |  
-| bip_39_word_new_br5 | local<br>bonus<br>problem<br>boss<br>dismiss |  
-| bip_39_word_new_br6 | local<br>bonus<br>problem<br>boss<br>dismiss<br>valley |  
-| bip_39_word_new_br7 | local<br>bonus<br>problem<br>boss<br>dismiss<br>valley<br>armor |  
-| bip_39_word_new_br8 | local<br>bonus<br>problem<br>boss<br>dismiss<br>valley<br>armor<br>advance |  
-| bip_39_word_new_br9 | local<br>bonus<br>problem<br>boss<br>dismiss<br>valley<br>armor<br>advance<br>bullet |  
-| bip_39_word_new_line1 | local |  
-| bip_39_word_new_line10 | local
+| bip_39_word_new_br_1 | local |  
+| bip_39_word_new_br_10 | local<br>bonus<br>problem<br>boss<br>dismiss<br>valley<br>armor<br>advance<br>bullet<br>certain |  
+| bip_39_word_new_br_11 | local<br>bonus<br>problem<br>boss<br>dismiss<br>valley<br>armor<br>advance<br>bullet<br>certain<br>book |  
+| bip_39_word_new_br_12 | local<br>bonus<br>problem<br>boss<br>dismiss<br>valley<br>armor<br>advance<br>bullet<br>certain<br>book<br>affair |  
+| bip_39_word_new_br_2 | local<br>bonus |  
+| bip_39_word_new_br_3 | local<br>bonus<br>problem |  
+| bip_39_word_new_br_4 | local<br>bonus<br>problem<br>boss |  
+| bip_39_word_new_br_5 | local<br>bonus<br>problem<br>boss<br>dismiss |  
+| bip_39_word_new_br_6 | local<br>bonus<br>problem<br>boss<br>dismiss<br>valley |  
+| bip_39_word_new_br_7 | local<br>bonus<br>problem<br>boss<br>dismiss<br>valley<br>armor |  
+| bip_39_word_new_br_8 | local<br>bonus<br>problem<br>boss<br>dismiss<br>valley<br>armor<br>advance |  
+| bip_39_word_new_br_9 | local<br>bonus<br>problem<br>boss<br>dismiss<br>valley<br>armor<br>advance<br>bullet |  
+| bip_39_word_new_line_1 | local |  
+| bip_39_word_new_line_10 | local
 bonus
 problem
 boss
@@ -55,7 +55,7 @@ armor
 advance
 bullet
 certain |  
-| bip_39_word_new_line11 | local
+| bip_39_word_new_line_11 | local
 bonus
 problem
 boss
@@ -66,7 +66,7 @@ advance
 bullet
 certain
 book |  
-| bip_39_word_new_line12 | local
+| bip_39_word_new_line_12 | local
 bonus
 problem
 boss
@@ -78,34 +78,34 @@ bullet
 certain
 book
 affair |  
-| bip_39_word_new_line2 | local
+| bip_39_word_new_line_2 | local
 bonus |  
-| bip_39_word_new_line3 | local
+| bip_39_word_new_line_3 | local
 bonus
 problem |  
-| bip_39_word_new_line4 | local
+| bip_39_word_new_line_4 | local
 bonus
 problem
 boss |  
-| bip_39_word_new_line5 | local
+| bip_39_word_new_line_5 | local
 bonus
 problem
 boss
 dismiss |  
-| bip_39_word_new_line6 | local
+| bip_39_word_new_line_6 | local
 bonus
 problem
 boss
 dismiss
 valley |  
-| bip_39_word_new_line7 | local
+| bip_39_word_new_line_7 | local
 bonus
 problem
 boss
 dismiss
 valley
 armor |  
-| bip_39_word_new_line8 | local
+| bip_39_word_new_line_8 | local
 bonus
 problem
 boss
@@ -113,7 +113,7 @@ dismiss
 valley
 armor
 advance |  
-| bip_39_word_new_line9 | local
+| bip_39_word_new_line_9 | local
 bonus
 problem
 boss

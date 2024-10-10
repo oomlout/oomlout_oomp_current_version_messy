@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rally |  
-| bip_39_word_new_br10 | rally<br>adapt<br>author<br>tell<br>sweet<br>soap<br>access<br>sad<br>disorder<br>crystal |  
-| bip_39_word_new_br11 | rally<br>adapt<br>author<br>tell<br>sweet<br>soap<br>access<br>sad<br>disorder<br>crystal<br>repeat |  
-| bip_39_word_new_br12 | rally<br>adapt<br>author<br>tell<br>sweet<br>soap<br>access<br>sad<br>disorder<br>crystal<br>repeat<br>act |  
-| bip_39_word_new_br2 | rally<br>adapt |  
-| bip_39_word_new_br3 | rally<br>adapt<br>author |  
-| bip_39_word_new_br4 | rally<br>adapt<br>author<br>tell |  
-| bip_39_word_new_br5 | rally<br>adapt<br>author<br>tell<br>sweet |  
-| bip_39_word_new_br6 | rally<br>adapt<br>author<br>tell<br>sweet<br>soap |  
-| bip_39_word_new_br7 | rally<br>adapt<br>author<br>tell<br>sweet<br>soap<br>access |  
-| bip_39_word_new_br8 | rally<br>adapt<br>author<br>tell<br>sweet<br>soap<br>access<br>sad |  
-| bip_39_word_new_br9 | rally<br>adapt<br>author<br>tell<br>sweet<br>soap<br>access<br>sad<br>disorder |  
-| bip_39_word_new_line1 | rally |  
-| bip_39_word_new_line10 | rally
+| bip_39_word_new_br_1 | rally |  
+| bip_39_word_new_br_10 | rally<br>adapt<br>author<br>tell<br>sweet<br>soap<br>access<br>sad<br>disorder<br>crystal |  
+| bip_39_word_new_br_11 | rally<br>adapt<br>author<br>tell<br>sweet<br>soap<br>access<br>sad<br>disorder<br>crystal<br>repeat |  
+| bip_39_word_new_br_12 | rally<br>adapt<br>author<br>tell<br>sweet<br>soap<br>access<br>sad<br>disorder<br>crystal<br>repeat<br>act |  
+| bip_39_word_new_br_2 | rally<br>adapt |  
+| bip_39_word_new_br_3 | rally<br>adapt<br>author |  
+| bip_39_word_new_br_4 | rally<br>adapt<br>author<br>tell |  
+| bip_39_word_new_br_5 | rally<br>adapt<br>author<br>tell<br>sweet |  
+| bip_39_word_new_br_6 | rally<br>adapt<br>author<br>tell<br>sweet<br>soap |  
+| bip_39_word_new_br_7 | rally<br>adapt<br>author<br>tell<br>sweet<br>soap<br>access |  
+| bip_39_word_new_br_8 | rally<br>adapt<br>author<br>tell<br>sweet<br>soap<br>access<br>sad |  
+| bip_39_word_new_br_9 | rally<br>adapt<br>author<br>tell<br>sweet<br>soap<br>access<br>sad<br>disorder |  
+| bip_39_word_new_line_1 | rally |  
+| bip_39_word_new_line_10 | rally
 adapt
 author
 tell
@@ -55,7 +55,7 @@ access
 sad
 disorder
 crystal |  
-| bip_39_word_new_line11 | rally
+| bip_39_word_new_line_11 | rally
 adapt
 author
 tell
@@ -66,7 +66,7 @@ sad
 disorder
 crystal
 repeat |  
-| bip_39_word_new_line12 | rally
+| bip_39_word_new_line_12 | rally
 adapt
 author
 tell
@@ -78,34 +78,34 @@ disorder
 crystal
 repeat
 act |  
-| bip_39_word_new_line2 | rally
+| bip_39_word_new_line_2 | rally
 adapt |  
-| bip_39_word_new_line3 | rally
+| bip_39_word_new_line_3 | rally
 adapt
 author |  
-| bip_39_word_new_line4 | rally
+| bip_39_word_new_line_4 | rally
 adapt
 author
 tell |  
-| bip_39_word_new_line5 | rally
+| bip_39_word_new_line_5 | rally
 adapt
 author
 tell
 sweet |  
-| bip_39_word_new_line6 | rally
+| bip_39_word_new_line_6 | rally
 adapt
 author
 tell
 sweet
 soap |  
-| bip_39_word_new_line7 | rally
+| bip_39_word_new_line_7 | rally
 adapt
 author
 tell
 sweet
 soap
 access |  
-| bip_39_word_new_line8 | rally
+| bip_39_word_new_line_8 | rally
 adapt
 author
 tell
@@ -113,7 +113,7 @@ sweet
 soap
 access
 sad |  
-| bip_39_word_new_line9 | rally
+| bip_39_word_new_line_9 | rally
 adapt
 author
 tell

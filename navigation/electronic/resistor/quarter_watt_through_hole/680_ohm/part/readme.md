@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | protect |  
-| bip_39_word_new_br10 | protect<br>advance<br>flee<br>jaguar<br>valley<br>build<br>ramp<br>raccoon<br>invest<br>goddess |  
-| bip_39_word_new_br11 | protect<br>advance<br>flee<br>jaguar<br>valley<br>build<br>ramp<br>raccoon<br>invest<br>goddess<br>panic |  
-| bip_39_word_new_br12 | protect<br>advance<br>flee<br>jaguar<br>valley<br>build<br>ramp<br>raccoon<br>invest<br>goddess<br>panic<br>afraid |  
-| bip_39_word_new_br2 | protect<br>advance |  
-| bip_39_word_new_br3 | protect<br>advance<br>flee |  
-| bip_39_word_new_br4 | protect<br>advance<br>flee<br>jaguar |  
-| bip_39_word_new_br5 | protect<br>advance<br>flee<br>jaguar<br>valley |  
-| bip_39_word_new_br6 | protect<br>advance<br>flee<br>jaguar<br>valley<br>build |  
-| bip_39_word_new_br7 | protect<br>advance<br>flee<br>jaguar<br>valley<br>build<br>ramp |  
-| bip_39_word_new_br8 | protect<br>advance<br>flee<br>jaguar<br>valley<br>build<br>ramp<br>raccoon |  
-| bip_39_word_new_br9 | protect<br>advance<br>flee<br>jaguar<br>valley<br>build<br>ramp<br>raccoon<br>invest |  
-| bip_39_word_new_line1 | protect |  
-| bip_39_word_new_line10 | protect
+| bip_39_word_new_br_1 | protect |  
+| bip_39_word_new_br_10 | protect<br>advance<br>flee<br>jaguar<br>valley<br>build<br>ramp<br>raccoon<br>invest<br>goddess |  
+| bip_39_word_new_br_11 | protect<br>advance<br>flee<br>jaguar<br>valley<br>build<br>ramp<br>raccoon<br>invest<br>goddess<br>panic |  
+| bip_39_word_new_br_12 | protect<br>advance<br>flee<br>jaguar<br>valley<br>build<br>ramp<br>raccoon<br>invest<br>goddess<br>panic<br>afraid |  
+| bip_39_word_new_br_2 | protect<br>advance |  
+| bip_39_word_new_br_3 | protect<br>advance<br>flee |  
+| bip_39_word_new_br_4 | protect<br>advance<br>flee<br>jaguar |  
+| bip_39_word_new_br_5 | protect<br>advance<br>flee<br>jaguar<br>valley |  
+| bip_39_word_new_br_6 | protect<br>advance<br>flee<br>jaguar<br>valley<br>build |  
+| bip_39_word_new_br_7 | protect<br>advance<br>flee<br>jaguar<br>valley<br>build<br>ramp |  
+| bip_39_word_new_br_8 | protect<br>advance<br>flee<br>jaguar<br>valley<br>build<br>ramp<br>raccoon |  
+| bip_39_word_new_br_9 | protect<br>advance<br>flee<br>jaguar<br>valley<br>build<br>ramp<br>raccoon<br>invest |  
+| bip_39_word_new_line_1 | protect |  
+| bip_39_word_new_line_10 | protect
 advance
 flee
 jaguar
@@ -55,7 +55,7 @@ ramp
 raccoon
 invest
 goddess |  
-| bip_39_word_new_line11 | protect
+| bip_39_word_new_line_11 | protect
 advance
 flee
 jaguar
@@ -66,7 +66,7 @@ raccoon
 invest
 goddess
 panic |  
-| bip_39_word_new_line12 | protect
+| bip_39_word_new_line_12 | protect
 advance
 flee
 jaguar
@@ -78,34 +78,34 @@ invest
 goddess
 panic
 afraid |  
-| bip_39_word_new_line2 | protect
+| bip_39_word_new_line_2 | protect
 advance |  
-| bip_39_word_new_line3 | protect
+| bip_39_word_new_line_3 | protect
 advance
 flee |  
-| bip_39_word_new_line4 | protect
+| bip_39_word_new_line_4 | protect
 advance
 flee
 jaguar |  
-| bip_39_word_new_line5 | protect
+| bip_39_word_new_line_5 | protect
 advance
 flee
 jaguar
 valley |  
-| bip_39_word_new_line6 | protect
+| bip_39_word_new_line_6 | protect
 advance
 flee
 jaguar
 valley
 build |  
-| bip_39_word_new_line7 | protect
+| bip_39_word_new_line_7 | protect
 advance
 flee
 jaguar
 valley
 build
 ramp |  
-| bip_39_word_new_line8 | protect
+| bip_39_word_new_line_8 | protect
 advance
 flee
 jaguar
@@ -113,7 +113,7 @@ valley
 build
 ramp
 raccoon |  
-| bip_39_word_new_line9 | protect
+| bip_39_word_new_line_9 | protect
 advance
 flee
 jaguar

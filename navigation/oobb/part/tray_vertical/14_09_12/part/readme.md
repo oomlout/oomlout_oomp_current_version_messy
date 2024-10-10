@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | valve |  
-| bip_39_word_new_br10 | valve<br>gravity<br>toward<br>portion<br>fault<br>left<br>absent<br>wife<br>immense<br>planet |  
-| bip_39_word_new_br11 | valve<br>gravity<br>toward<br>portion<br>fault<br>left<br>absent<br>wife<br>immense<br>planet<br>pole |  
-| bip_39_word_new_br12 | valve<br>gravity<br>toward<br>portion<br>fault<br>left<br>absent<br>wife<br>immense<br>planet<br>pole<br>addict |  
-| bip_39_word_new_br2 | valve<br>gravity |  
-| bip_39_word_new_br3 | valve<br>gravity<br>toward |  
-| bip_39_word_new_br4 | valve<br>gravity<br>toward<br>portion |  
-| bip_39_word_new_br5 | valve<br>gravity<br>toward<br>portion<br>fault |  
-| bip_39_word_new_br6 | valve<br>gravity<br>toward<br>portion<br>fault<br>left |  
-| bip_39_word_new_br7 | valve<br>gravity<br>toward<br>portion<br>fault<br>left<br>absent |  
-| bip_39_word_new_br8 | valve<br>gravity<br>toward<br>portion<br>fault<br>left<br>absent<br>wife |  
-| bip_39_word_new_br9 | valve<br>gravity<br>toward<br>portion<br>fault<br>left<br>absent<br>wife<br>immense |  
-| bip_39_word_new_line1 | valve |  
-| bip_39_word_new_line10 | valve
+| bip_39_word_new_br_1 | valve |  
+| bip_39_word_new_br_10 | valve<br>gravity<br>toward<br>portion<br>fault<br>left<br>absent<br>wife<br>immense<br>planet |  
+| bip_39_word_new_br_11 | valve<br>gravity<br>toward<br>portion<br>fault<br>left<br>absent<br>wife<br>immense<br>planet<br>pole |  
+| bip_39_word_new_br_12 | valve<br>gravity<br>toward<br>portion<br>fault<br>left<br>absent<br>wife<br>immense<br>planet<br>pole<br>addict |  
+| bip_39_word_new_br_2 | valve<br>gravity |  
+| bip_39_word_new_br_3 | valve<br>gravity<br>toward |  
+| bip_39_word_new_br_4 | valve<br>gravity<br>toward<br>portion |  
+| bip_39_word_new_br_5 | valve<br>gravity<br>toward<br>portion<br>fault |  
+| bip_39_word_new_br_6 | valve<br>gravity<br>toward<br>portion<br>fault<br>left |  
+| bip_39_word_new_br_7 | valve<br>gravity<br>toward<br>portion<br>fault<br>left<br>absent |  
+| bip_39_word_new_br_8 | valve<br>gravity<br>toward<br>portion<br>fault<br>left<br>absent<br>wife |  
+| bip_39_word_new_br_9 | valve<br>gravity<br>toward<br>portion<br>fault<br>left<br>absent<br>wife<br>immense |  
+| bip_39_word_new_line_1 | valve |  
+| bip_39_word_new_line_10 | valve
 gravity
 toward
 portion
@@ -55,7 +55,7 @@ absent
 wife
 immense
 planet |  
-| bip_39_word_new_line11 | valve
+| bip_39_word_new_line_11 | valve
 gravity
 toward
 portion
@@ -66,7 +66,7 @@ wife
 immense
 planet
 pole |  
-| bip_39_word_new_line12 | valve
+| bip_39_word_new_line_12 | valve
 gravity
 toward
 portion
@@ -78,34 +78,34 @@ immense
 planet
 pole
 addict |  
-| bip_39_word_new_line2 | valve
+| bip_39_word_new_line_2 | valve
 gravity |  
-| bip_39_word_new_line3 | valve
+| bip_39_word_new_line_3 | valve
 gravity
 toward |  
-| bip_39_word_new_line4 | valve
+| bip_39_word_new_line_4 | valve
 gravity
 toward
 portion |  
-| bip_39_word_new_line5 | valve
+| bip_39_word_new_line_5 | valve
 gravity
 toward
 portion
 fault |  
-| bip_39_word_new_line6 | valve
+| bip_39_word_new_line_6 | valve
 gravity
 toward
 portion
 fault
 left |  
-| bip_39_word_new_line7 | valve
+| bip_39_word_new_line_7 | valve
 gravity
 toward
 portion
 fault
 left
 absent |  
-| bip_39_word_new_line8 | valve
+| bip_39_word_new_line_8 | valve
 gravity
 toward
 portion
@@ -113,7 +113,7 @@ fault
 left
 absent
 wife |  
-| bip_39_word_new_line9 | valve
+| bip_39_word_new_line_9 | valve
 gravity
 toward
 portion

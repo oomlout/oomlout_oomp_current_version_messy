@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sheriff |  
-| bip_39_word_new_br10 | sheriff<br>lesson<br>permit<br>gesture<br>fiscal<br>meat<br>edge<br>six<br>way<br>era |  
-| bip_39_word_new_br11 | sheriff<br>lesson<br>permit<br>gesture<br>fiscal<br>meat<br>edge<br>six<br>way<br>era<br>employ |  
-| bip_39_word_new_br12 | sheriff<br>lesson<br>permit<br>gesture<br>fiscal<br>meat<br>edge<br>six<br>way<br>era<br>employ<br>accuse |  
-| bip_39_word_new_br2 | sheriff<br>lesson |  
-| bip_39_word_new_br3 | sheriff<br>lesson<br>permit |  
-| bip_39_word_new_br4 | sheriff<br>lesson<br>permit<br>gesture |  
-| bip_39_word_new_br5 | sheriff<br>lesson<br>permit<br>gesture<br>fiscal |  
-| bip_39_word_new_br6 | sheriff<br>lesson<br>permit<br>gesture<br>fiscal<br>meat |  
-| bip_39_word_new_br7 | sheriff<br>lesson<br>permit<br>gesture<br>fiscal<br>meat<br>edge |  
-| bip_39_word_new_br8 | sheriff<br>lesson<br>permit<br>gesture<br>fiscal<br>meat<br>edge<br>six |  
-| bip_39_word_new_br9 | sheriff<br>lesson<br>permit<br>gesture<br>fiscal<br>meat<br>edge<br>six<br>way |  
-| bip_39_word_new_line1 | sheriff |  
-| bip_39_word_new_line10 | sheriff
+| bip_39_word_new_br_1 | sheriff |  
+| bip_39_word_new_br_10 | sheriff<br>lesson<br>permit<br>gesture<br>fiscal<br>meat<br>edge<br>six<br>way<br>era |  
+| bip_39_word_new_br_11 | sheriff<br>lesson<br>permit<br>gesture<br>fiscal<br>meat<br>edge<br>six<br>way<br>era<br>employ |  
+| bip_39_word_new_br_12 | sheriff<br>lesson<br>permit<br>gesture<br>fiscal<br>meat<br>edge<br>six<br>way<br>era<br>employ<br>accuse |  
+| bip_39_word_new_br_2 | sheriff<br>lesson |  
+| bip_39_word_new_br_3 | sheriff<br>lesson<br>permit |  
+| bip_39_word_new_br_4 | sheriff<br>lesson<br>permit<br>gesture |  
+| bip_39_word_new_br_5 | sheriff<br>lesson<br>permit<br>gesture<br>fiscal |  
+| bip_39_word_new_br_6 | sheriff<br>lesson<br>permit<br>gesture<br>fiscal<br>meat |  
+| bip_39_word_new_br_7 | sheriff<br>lesson<br>permit<br>gesture<br>fiscal<br>meat<br>edge |  
+| bip_39_word_new_br_8 | sheriff<br>lesson<br>permit<br>gesture<br>fiscal<br>meat<br>edge<br>six |  
+| bip_39_word_new_br_9 | sheriff<br>lesson<br>permit<br>gesture<br>fiscal<br>meat<br>edge<br>six<br>way |  
+| bip_39_word_new_line_1 | sheriff |  
+| bip_39_word_new_line_10 | sheriff
 lesson
 permit
 gesture
@@ -55,7 +55,7 @@ edge
 six
 way
 era |  
-| bip_39_word_new_line11 | sheriff
+| bip_39_word_new_line_11 | sheriff
 lesson
 permit
 gesture
@@ -66,7 +66,7 @@ six
 way
 era
 employ |  
-| bip_39_word_new_line12 | sheriff
+| bip_39_word_new_line_12 | sheriff
 lesson
 permit
 gesture
@@ -78,34 +78,34 @@ way
 era
 employ
 accuse |  
-| bip_39_word_new_line2 | sheriff
+| bip_39_word_new_line_2 | sheriff
 lesson |  
-| bip_39_word_new_line3 | sheriff
+| bip_39_word_new_line_3 | sheriff
 lesson
 permit |  
-| bip_39_word_new_line4 | sheriff
+| bip_39_word_new_line_4 | sheriff
 lesson
 permit
 gesture |  
-| bip_39_word_new_line5 | sheriff
+| bip_39_word_new_line_5 | sheriff
 lesson
 permit
 gesture
 fiscal |  
-| bip_39_word_new_line6 | sheriff
+| bip_39_word_new_line_6 | sheriff
 lesson
 permit
 gesture
 fiscal
 meat |  
-| bip_39_word_new_line7 | sheriff
+| bip_39_word_new_line_7 | sheriff
 lesson
 permit
 gesture
 fiscal
 meat
 edge |  
-| bip_39_word_new_line8 | sheriff
+| bip_39_word_new_line_8 | sheriff
 lesson
 permit
 gesture
@@ -113,7 +113,7 @@ fiscal
 meat
 edge
 six |  
-| bip_39_word_new_line9 | sheriff
+| bip_39_word_new_line_9 | sheriff
 lesson
 permit
 gesture

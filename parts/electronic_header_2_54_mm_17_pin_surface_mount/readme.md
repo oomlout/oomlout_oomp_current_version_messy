@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | front |  
-| bip_39_word_new_br10 | front<br>rail<br>alpha<br>kiwi<br>best<br>fish<br>penalty<br>talk<br>author<br>before |  
-| bip_39_word_new_br11 | front<br>rail<br>alpha<br>kiwi<br>best<br>fish<br>penalty<br>talk<br>author<br>before<br>secret |  
-| bip_39_word_new_br12 | front<br>rail<br>alpha<br>kiwi<br>best<br>fish<br>penalty<br>talk<br>author<br>before<br>secret<br>actual |  
-| bip_39_word_new_br2 | front<br>rail |  
-| bip_39_word_new_br3 | front<br>rail<br>alpha |  
-| bip_39_word_new_br4 | front<br>rail<br>alpha<br>kiwi |  
-| bip_39_word_new_br5 | front<br>rail<br>alpha<br>kiwi<br>best |  
-| bip_39_word_new_br6 | front<br>rail<br>alpha<br>kiwi<br>best<br>fish |  
-| bip_39_word_new_br7 | front<br>rail<br>alpha<br>kiwi<br>best<br>fish<br>penalty |  
-| bip_39_word_new_br8 | front<br>rail<br>alpha<br>kiwi<br>best<br>fish<br>penalty<br>talk |  
-| bip_39_word_new_br9 | front<br>rail<br>alpha<br>kiwi<br>best<br>fish<br>penalty<br>talk<br>author |  
-| bip_39_word_new_line1 | front |  
-| bip_39_word_new_line10 | front
+| bip_39_word_new_br_1 | front |  
+| bip_39_word_new_br_10 | front<br>rail<br>alpha<br>kiwi<br>best<br>fish<br>penalty<br>talk<br>author<br>before |  
+| bip_39_word_new_br_11 | front<br>rail<br>alpha<br>kiwi<br>best<br>fish<br>penalty<br>talk<br>author<br>before<br>secret |  
+| bip_39_word_new_br_12 | front<br>rail<br>alpha<br>kiwi<br>best<br>fish<br>penalty<br>talk<br>author<br>before<br>secret<br>actual |  
+| bip_39_word_new_br_2 | front<br>rail |  
+| bip_39_word_new_br_3 | front<br>rail<br>alpha |  
+| bip_39_word_new_br_4 | front<br>rail<br>alpha<br>kiwi |  
+| bip_39_word_new_br_5 | front<br>rail<br>alpha<br>kiwi<br>best |  
+| bip_39_word_new_br_6 | front<br>rail<br>alpha<br>kiwi<br>best<br>fish |  
+| bip_39_word_new_br_7 | front<br>rail<br>alpha<br>kiwi<br>best<br>fish<br>penalty |  
+| bip_39_word_new_br_8 | front<br>rail<br>alpha<br>kiwi<br>best<br>fish<br>penalty<br>talk |  
+| bip_39_word_new_br_9 | front<br>rail<br>alpha<br>kiwi<br>best<br>fish<br>penalty<br>talk<br>author |  
+| bip_39_word_new_line_1 | front |  
+| bip_39_word_new_line_10 | front
 rail
 alpha
 kiwi
@@ -55,7 +55,7 @@ penalty
 talk
 author
 before |  
-| bip_39_word_new_line11 | front
+| bip_39_word_new_line_11 | front
 rail
 alpha
 kiwi
@@ -66,7 +66,7 @@ talk
 author
 before
 secret |  
-| bip_39_word_new_line12 | front
+| bip_39_word_new_line_12 | front
 rail
 alpha
 kiwi
@@ -78,34 +78,34 @@ author
 before
 secret
 actual |  
-| bip_39_word_new_line2 | front
+| bip_39_word_new_line_2 | front
 rail |  
-| bip_39_word_new_line3 | front
+| bip_39_word_new_line_3 | front
 rail
 alpha |  
-| bip_39_word_new_line4 | front
+| bip_39_word_new_line_4 | front
 rail
 alpha
 kiwi |  
-| bip_39_word_new_line5 | front
+| bip_39_word_new_line_5 | front
 rail
 alpha
 kiwi
 best |  
-| bip_39_word_new_line6 | front
+| bip_39_word_new_line_6 | front
 rail
 alpha
 kiwi
 best
 fish |  
-| bip_39_word_new_line7 | front
+| bip_39_word_new_line_7 | front
 rail
 alpha
 kiwi
 best
 fish
 penalty |  
-| bip_39_word_new_line8 | front
+| bip_39_word_new_line_8 | front
 rail
 alpha
 kiwi
@@ -113,7 +113,7 @@ best
 fish
 penalty
 talk |  
-| bip_39_word_new_line9 | front
+| bip_39_word_new_line_9 | front
 rail
 alpha
 kiwi

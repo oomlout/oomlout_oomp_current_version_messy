@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | typical |  
-| bip_39_word_new_br10 | typical<br>quit<br>comfort<br>shiver<br>oak<br>misery<br>clarify<br>burger<br>ankle<br>snack |  
-| bip_39_word_new_br11 | typical<br>quit<br>comfort<br>shiver<br>oak<br>misery<br>clarify<br>burger<br>ankle<br>snack<br>badge |  
-| bip_39_word_new_br12 | typical<br>quit<br>comfort<br>shiver<br>oak<br>misery<br>clarify<br>burger<br>ankle<br>snack<br>badge<br>almost |  
-| bip_39_word_new_br2 | typical<br>quit |  
-| bip_39_word_new_br3 | typical<br>quit<br>comfort |  
-| bip_39_word_new_br4 | typical<br>quit<br>comfort<br>shiver |  
-| bip_39_word_new_br5 | typical<br>quit<br>comfort<br>shiver<br>oak |  
-| bip_39_word_new_br6 | typical<br>quit<br>comfort<br>shiver<br>oak<br>misery |  
-| bip_39_word_new_br7 | typical<br>quit<br>comfort<br>shiver<br>oak<br>misery<br>clarify |  
-| bip_39_word_new_br8 | typical<br>quit<br>comfort<br>shiver<br>oak<br>misery<br>clarify<br>burger |  
-| bip_39_word_new_br9 | typical<br>quit<br>comfort<br>shiver<br>oak<br>misery<br>clarify<br>burger<br>ankle |  
-| bip_39_word_new_line1 | typical |  
-| bip_39_word_new_line10 | typical
+| bip_39_word_new_br_1 | typical |  
+| bip_39_word_new_br_10 | typical<br>quit<br>comfort<br>shiver<br>oak<br>misery<br>clarify<br>burger<br>ankle<br>snack |  
+| bip_39_word_new_br_11 | typical<br>quit<br>comfort<br>shiver<br>oak<br>misery<br>clarify<br>burger<br>ankle<br>snack<br>badge |  
+| bip_39_word_new_br_12 | typical<br>quit<br>comfort<br>shiver<br>oak<br>misery<br>clarify<br>burger<br>ankle<br>snack<br>badge<br>almost |  
+| bip_39_word_new_br_2 | typical<br>quit |  
+| bip_39_word_new_br_3 | typical<br>quit<br>comfort |  
+| bip_39_word_new_br_4 | typical<br>quit<br>comfort<br>shiver |  
+| bip_39_word_new_br_5 | typical<br>quit<br>comfort<br>shiver<br>oak |  
+| bip_39_word_new_br_6 | typical<br>quit<br>comfort<br>shiver<br>oak<br>misery |  
+| bip_39_word_new_br_7 | typical<br>quit<br>comfort<br>shiver<br>oak<br>misery<br>clarify |  
+| bip_39_word_new_br_8 | typical<br>quit<br>comfort<br>shiver<br>oak<br>misery<br>clarify<br>burger |  
+| bip_39_word_new_br_9 | typical<br>quit<br>comfort<br>shiver<br>oak<br>misery<br>clarify<br>burger<br>ankle |  
+| bip_39_word_new_line_1 | typical |  
+| bip_39_word_new_line_10 | typical
 quit
 comfort
 shiver
@@ -55,7 +55,7 @@ clarify
 burger
 ankle
 snack |  
-| bip_39_word_new_line11 | typical
+| bip_39_word_new_line_11 | typical
 quit
 comfort
 shiver
@@ -66,7 +66,7 @@ burger
 ankle
 snack
 badge |  
-| bip_39_word_new_line12 | typical
+| bip_39_word_new_line_12 | typical
 quit
 comfort
 shiver
@@ -78,34 +78,34 @@ ankle
 snack
 badge
 almost |  
-| bip_39_word_new_line2 | typical
+| bip_39_word_new_line_2 | typical
 quit |  
-| bip_39_word_new_line3 | typical
+| bip_39_word_new_line_3 | typical
 quit
 comfort |  
-| bip_39_word_new_line4 | typical
+| bip_39_word_new_line_4 | typical
 quit
 comfort
 shiver |  
-| bip_39_word_new_line5 | typical
+| bip_39_word_new_line_5 | typical
 quit
 comfort
 shiver
 oak |  
-| bip_39_word_new_line6 | typical
+| bip_39_word_new_line_6 | typical
 quit
 comfort
 shiver
 oak
 misery |  
-| bip_39_word_new_line7 | typical
+| bip_39_word_new_line_7 | typical
 quit
 comfort
 shiver
 oak
 misery
 clarify |  
-| bip_39_word_new_line8 | typical
+| bip_39_word_new_line_8 | typical
 quit
 comfort
 shiver
@@ -113,7 +113,7 @@ oak
 misery
 clarify
 burger |  
-| bip_39_word_new_line9 | typical
+| bip_39_word_new_line_9 | typical
 quit
 comfort
 shiver

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | panther |  
-| bip_39_word_new_br10 | panther<br>across<br>priority<br>popular<br>inspire<br>original<br>pioneer<br>key<br>dry<br>lonely |  
-| bip_39_word_new_br11 | panther<br>across<br>priority<br>popular<br>inspire<br>original<br>pioneer<br>key<br>dry<br>lonely<br>ostrich |  
-| bip_39_word_new_br12 | panther<br>across<br>priority<br>popular<br>inspire<br>original<br>pioneer<br>key<br>dry<br>lonely<br>ostrich<br>asset |  
-| bip_39_word_new_br2 | panther<br>across |  
-| bip_39_word_new_br3 | panther<br>across<br>priority |  
-| bip_39_word_new_br4 | panther<br>across<br>priority<br>popular |  
-| bip_39_word_new_br5 | panther<br>across<br>priority<br>popular<br>inspire |  
-| bip_39_word_new_br6 | panther<br>across<br>priority<br>popular<br>inspire<br>original |  
-| bip_39_word_new_br7 | panther<br>across<br>priority<br>popular<br>inspire<br>original<br>pioneer |  
-| bip_39_word_new_br8 | panther<br>across<br>priority<br>popular<br>inspire<br>original<br>pioneer<br>key |  
-| bip_39_word_new_br9 | panther<br>across<br>priority<br>popular<br>inspire<br>original<br>pioneer<br>key<br>dry |  
-| bip_39_word_new_line1 | panther |  
-| bip_39_word_new_line10 | panther
+| bip_39_word_new_br_1 | panther |  
+| bip_39_word_new_br_10 | panther<br>across<br>priority<br>popular<br>inspire<br>original<br>pioneer<br>key<br>dry<br>lonely |  
+| bip_39_word_new_br_11 | panther<br>across<br>priority<br>popular<br>inspire<br>original<br>pioneer<br>key<br>dry<br>lonely<br>ostrich |  
+| bip_39_word_new_br_12 | panther<br>across<br>priority<br>popular<br>inspire<br>original<br>pioneer<br>key<br>dry<br>lonely<br>ostrich<br>asset |  
+| bip_39_word_new_br_2 | panther<br>across |  
+| bip_39_word_new_br_3 | panther<br>across<br>priority |  
+| bip_39_word_new_br_4 | panther<br>across<br>priority<br>popular |  
+| bip_39_word_new_br_5 | panther<br>across<br>priority<br>popular<br>inspire |  
+| bip_39_word_new_br_6 | panther<br>across<br>priority<br>popular<br>inspire<br>original |  
+| bip_39_word_new_br_7 | panther<br>across<br>priority<br>popular<br>inspire<br>original<br>pioneer |  
+| bip_39_word_new_br_8 | panther<br>across<br>priority<br>popular<br>inspire<br>original<br>pioneer<br>key |  
+| bip_39_word_new_br_9 | panther<br>across<br>priority<br>popular<br>inspire<br>original<br>pioneer<br>key<br>dry |  
+| bip_39_word_new_line_1 | panther |  
+| bip_39_word_new_line_10 | panther
 across
 priority
 popular
@@ -55,7 +55,7 @@ pioneer
 key
 dry
 lonely |  
-| bip_39_word_new_line11 | panther
+| bip_39_word_new_line_11 | panther
 across
 priority
 popular
@@ -66,7 +66,7 @@ key
 dry
 lonely
 ostrich |  
-| bip_39_word_new_line12 | panther
+| bip_39_word_new_line_12 | panther
 across
 priority
 popular
@@ -78,34 +78,34 @@ dry
 lonely
 ostrich
 asset |  
-| bip_39_word_new_line2 | panther
+| bip_39_word_new_line_2 | panther
 across |  
-| bip_39_word_new_line3 | panther
+| bip_39_word_new_line_3 | panther
 across
 priority |  
-| bip_39_word_new_line4 | panther
+| bip_39_word_new_line_4 | panther
 across
 priority
 popular |  
-| bip_39_word_new_line5 | panther
+| bip_39_word_new_line_5 | panther
 across
 priority
 popular
 inspire |  
-| bip_39_word_new_line6 | panther
+| bip_39_word_new_line_6 | panther
 across
 priority
 popular
 inspire
 original |  
-| bip_39_word_new_line7 | panther
+| bip_39_word_new_line_7 | panther
 across
 priority
 popular
 inspire
 original
 pioneer |  
-| bip_39_word_new_line8 | panther
+| bip_39_word_new_line_8 | panther
 across
 priority
 popular
@@ -113,7 +113,7 @@ inspire
 original
 pioneer
 key |  
-| bip_39_word_new_line9 | panther
+| bip_39_word_new_line_9 | panther
 across
 priority
 popular

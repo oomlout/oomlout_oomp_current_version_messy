@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | silent |  
-| bip_39_word_new_br10 | silent<br>reopen<br>quiz<br>state<br>torch<br>equal<br>owner<br>predict<br>turn<br>please |  
-| bip_39_word_new_br11 | silent<br>reopen<br>quiz<br>state<br>torch<br>equal<br>owner<br>predict<br>turn<br>please<br>special |  
-| bip_39_word_new_br12 | silent<br>reopen<br>quiz<br>state<br>torch<br>equal<br>owner<br>predict<br>turn<br>please<br>special<br>atom |  
-| bip_39_word_new_br2 | silent<br>reopen |  
-| bip_39_word_new_br3 | silent<br>reopen<br>quiz |  
-| bip_39_word_new_br4 | silent<br>reopen<br>quiz<br>state |  
-| bip_39_word_new_br5 | silent<br>reopen<br>quiz<br>state<br>torch |  
-| bip_39_word_new_br6 | silent<br>reopen<br>quiz<br>state<br>torch<br>equal |  
-| bip_39_word_new_br7 | silent<br>reopen<br>quiz<br>state<br>torch<br>equal<br>owner |  
-| bip_39_word_new_br8 | silent<br>reopen<br>quiz<br>state<br>torch<br>equal<br>owner<br>predict |  
-| bip_39_word_new_br9 | silent<br>reopen<br>quiz<br>state<br>torch<br>equal<br>owner<br>predict<br>turn |  
-| bip_39_word_new_line1 | silent |  
-| bip_39_word_new_line10 | silent
+| bip_39_word_new_br_1 | silent |  
+| bip_39_word_new_br_10 | silent<br>reopen<br>quiz<br>state<br>torch<br>equal<br>owner<br>predict<br>turn<br>please |  
+| bip_39_word_new_br_11 | silent<br>reopen<br>quiz<br>state<br>torch<br>equal<br>owner<br>predict<br>turn<br>please<br>special |  
+| bip_39_word_new_br_12 | silent<br>reopen<br>quiz<br>state<br>torch<br>equal<br>owner<br>predict<br>turn<br>please<br>special<br>atom |  
+| bip_39_word_new_br_2 | silent<br>reopen |  
+| bip_39_word_new_br_3 | silent<br>reopen<br>quiz |  
+| bip_39_word_new_br_4 | silent<br>reopen<br>quiz<br>state |  
+| bip_39_word_new_br_5 | silent<br>reopen<br>quiz<br>state<br>torch |  
+| bip_39_word_new_br_6 | silent<br>reopen<br>quiz<br>state<br>torch<br>equal |  
+| bip_39_word_new_br_7 | silent<br>reopen<br>quiz<br>state<br>torch<br>equal<br>owner |  
+| bip_39_word_new_br_8 | silent<br>reopen<br>quiz<br>state<br>torch<br>equal<br>owner<br>predict |  
+| bip_39_word_new_br_9 | silent<br>reopen<br>quiz<br>state<br>torch<br>equal<br>owner<br>predict<br>turn |  
+| bip_39_word_new_line_1 | silent |  
+| bip_39_word_new_line_10 | silent
 reopen
 quiz
 state
@@ -55,7 +55,7 @@ owner
 predict
 turn
 please |  
-| bip_39_word_new_line11 | silent
+| bip_39_word_new_line_11 | silent
 reopen
 quiz
 state
@@ -66,7 +66,7 @@ predict
 turn
 please
 special |  
-| bip_39_word_new_line12 | silent
+| bip_39_word_new_line_12 | silent
 reopen
 quiz
 state
@@ -78,34 +78,34 @@ turn
 please
 special
 atom |  
-| bip_39_word_new_line2 | silent
+| bip_39_word_new_line_2 | silent
 reopen |  
-| bip_39_word_new_line3 | silent
+| bip_39_word_new_line_3 | silent
 reopen
 quiz |  
-| bip_39_word_new_line4 | silent
+| bip_39_word_new_line_4 | silent
 reopen
 quiz
 state |  
-| bip_39_word_new_line5 | silent
+| bip_39_word_new_line_5 | silent
 reopen
 quiz
 state
 torch |  
-| bip_39_word_new_line6 | silent
+| bip_39_word_new_line_6 | silent
 reopen
 quiz
 state
 torch
 equal |  
-| bip_39_word_new_line7 | silent
+| bip_39_word_new_line_7 | silent
 reopen
 quiz
 state
 torch
 equal
 owner |  
-| bip_39_word_new_line8 | silent
+| bip_39_word_new_line_8 | silent
 reopen
 quiz
 state
@@ -113,7 +113,7 @@ torch
 equal
 owner
 predict |  
-| bip_39_word_new_line9 | silent
+| bip_39_word_new_line_9 | silent
 reopen
 quiz
 state

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pass |  
-| bip_39_word_new_br10 | pass<br>century<br>own<br>promote<br>wife<br>minimum<br>two<br>cute<br>know<br>audit |  
-| bip_39_word_new_br11 | pass<br>century<br>own<br>promote<br>wife<br>minimum<br>two<br>cute<br>know<br>audit<br>champion |  
-| bip_39_word_new_br12 | pass<br>century<br>own<br>promote<br>wife<br>minimum<br>two<br>cute<br>know<br>audit<br>champion<br>autumn |  
-| bip_39_word_new_br2 | pass<br>century |  
-| bip_39_word_new_br3 | pass<br>century<br>own |  
-| bip_39_word_new_br4 | pass<br>century<br>own<br>promote |  
-| bip_39_word_new_br5 | pass<br>century<br>own<br>promote<br>wife |  
-| bip_39_word_new_br6 | pass<br>century<br>own<br>promote<br>wife<br>minimum |  
-| bip_39_word_new_br7 | pass<br>century<br>own<br>promote<br>wife<br>minimum<br>two |  
-| bip_39_word_new_br8 | pass<br>century<br>own<br>promote<br>wife<br>minimum<br>two<br>cute |  
-| bip_39_word_new_br9 | pass<br>century<br>own<br>promote<br>wife<br>minimum<br>two<br>cute<br>know |  
-| bip_39_word_new_line1 | pass |  
-| bip_39_word_new_line10 | pass
+| bip_39_word_new_br_1 | pass |  
+| bip_39_word_new_br_10 | pass<br>century<br>own<br>promote<br>wife<br>minimum<br>two<br>cute<br>know<br>audit |  
+| bip_39_word_new_br_11 | pass<br>century<br>own<br>promote<br>wife<br>minimum<br>two<br>cute<br>know<br>audit<br>champion |  
+| bip_39_word_new_br_12 | pass<br>century<br>own<br>promote<br>wife<br>minimum<br>two<br>cute<br>know<br>audit<br>champion<br>autumn |  
+| bip_39_word_new_br_2 | pass<br>century |  
+| bip_39_word_new_br_3 | pass<br>century<br>own |  
+| bip_39_word_new_br_4 | pass<br>century<br>own<br>promote |  
+| bip_39_word_new_br_5 | pass<br>century<br>own<br>promote<br>wife |  
+| bip_39_word_new_br_6 | pass<br>century<br>own<br>promote<br>wife<br>minimum |  
+| bip_39_word_new_br_7 | pass<br>century<br>own<br>promote<br>wife<br>minimum<br>two |  
+| bip_39_word_new_br_8 | pass<br>century<br>own<br>promote<br>wife<br>minimum<br>two<br>cute |  
+| bip_39_word_new_br_9 | pass<br>century<br>own<br>promote<br>wife<br>minimum<br>two<br>cute<br>know |  
+| bip_39_word_new_line_1 | pass |  
+| bip_39_word_new_line_10 | pass
 century
 own
 promote
@@ -55,7 +55,7 @@ two
 cute
 know
 audit |  
-| bip_39_word_new_line11 | pass
+| bip_39_word_new_line_11 | pass
 century
 own
 promote
@@ -66,7 +66,7 @@ cute
 know
 audit
 champion |  
-| bip_39_word_new_line12 | pass
+| bip_39_word_new_line_12 | pass
 century
 own
 promote
@@ -78,34 +78,34 @@ know
 audit
 champion
 autumn |  
-| bip_39_word_new_line2 | pass
+| bip_39_word_new_line_2 | pass
 century |  
-| bip_39_word_new_line3 | pass
+| bip_39_word_new_line_3 | pass
 century
 own |  
-| bip_39_word_new_line4 | pass
+| bip_39_word_new_line_4 | pass
 century
 own
 promote |  
-| bip_39_word_new_line5 | pass
+| bip_39_word_new_line_5 | pass
 century
 own
 promote
 wife |  
-| bip_39_word_new_line6 | pass
+| bip_39_word_new_line_6 | pass
 century
 own
 promote
 wife
 minimum |  
-| bip_39_word_new_line7 | pass
+| bip_39_word_new_line_7 | pass
 century
 own
 promote
 wife
 minimum
 two |  
-| bip_39_word_new_line8 | pass
+| bip_39_word_new_line_8 | pass
 century
 own
 promote
@@ -113,7 +113,7 @@ wife
 minimum
 two
 cute |  
-| bip_39_word_new_line9 | pass
+| bip_39_word_new_line_9 | pass
 century
 own
 promote

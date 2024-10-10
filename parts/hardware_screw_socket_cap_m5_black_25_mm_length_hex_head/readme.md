@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | farm |  
-| bip_39_word_new_br10 | farm<br>else<br>parade<br>output<br>lend<br>bus<br>material<br>already<br>egg<br>spike |  
-| bip_39_word_new_br11 | farm<br>else<br>parade<br>output<br>lend<br>bus<br>material<br>already<br>egg<br>spike<br>gesture |  
-| bip_39_word_new_br12 | farm<br>else<br>parade<br>output<br>lend<br>bus<br>material<br>already<br>egg<br>spike<br>gesture<br>artist |  
-| bip_39_word_new_br2 | farm<br>else |  
-| bip_39_word_new_br3 | farm<br>else<br>parade |  
-| bip_39_word_new_br4 | farm<br>else<br>parade<br>output |  
-| bip_39_word_new_br5 | farm<br>else<br>parade<br>output<br>lend |  
-| bip_39_word_new_br6 | farm<br>else<br>parade<br>output<br>lend<br>bus |  
-| bip_39_word_new_br7 | farm<br>else<br>parade<br>output<br>lend<br>bus<br>material |  
-| bip_39_word_new_br8 | farm<br>else<br>parade<br>output<br>lend<br>bus<br>material<br>already |  
-| bip_39_word_new_br9 | farm<br>else<br>parade<br>output<br>lend<br>bus<br>material<br>already<br>egg |  
-| bip_39_word_new_line1 | farm |  
-| bip_39_word_new_line10 | farm
+| bip_39_word_new_br_1 | farm |  
+| bip_39_word_new_br_10 | farm<br>else<br>parade<br>output<br>lend<br>bus<br>material<br>already<br>egg<br>spike |  
+| bip_39_word_new_br_11 | farm<br>else<br>parade<br>output<br>lend<br>bus<br>material<br>already<br>egg<br>spike<br>gesture |  
+| bip_39_word_new_br_12 | farm<br>else<br>parade<br>output<br>lend<br>bus<br>material<br>already<br>egg<br>spike<br>gesture<br>artist |  
+| bip_39_word_new_br_2 | farm<br>else |  
+| bip_39_word_new_br_3 | farm<br>else<br>parade |  
+| bip_39_word_new_br_4 | farm<br>else<br>parade<br>output |  
+| bip_39_word_new_br_5 | farm<br>else<br>parade<br>output<br>lend |  
+| bip_39_word_new_br_6 | farm<br>else<br>parade<br>output<br>lend<br>bus |  
+| bip_39_word_new_br_7 | farm<br>else<br>parade<br>output<br>lend<br>bus<br>material |  
+| bip_39_word_new_br_8 | farm<br>else<br>parade<br>output<br>lend<br>bus<br>material<br>already |  
+| bip_39_word_new_br_9 | farm<br>else<br>parade<br>output<br>lend<br>bus<br>material<br>already<br>egg |  
+| bip_39_word_new_line_1 | farm |  
+| bip_39_word_new_line_10 | farm
 else
 parade
 output
@@ -55,7 +55,7 @@ material
 already
 egg
 spike |  
-| bip_39_word_new_line11 | farm
+| bip_39_word_new_line_11 | farm
 else
 parade
 output
@@ -66,7 +66,7 @@ already
 egg
 spike
 gesture |  
-| bip_39_word_new_line12 | farm
+| bip_39_word_new_line_12 | farm
 else
 parade
 output
@@ -78,34 +78,34 @@ egg
 spike
 gesture
 artist |  
-| bip_39_word_new_line2 | farm
+| bip_39_word_new_line_2 | farm
 else |  
-| bip_39_word_new_line3 | farm
+| bip_39_word_new_line_3 | farm
 else
 parade |  
-| bip_39_word_new_line4 | farm
+| bip_39_word_new_line_4 | farm
 else
 parade
 output |  
-| bip_39_word_new_line5 | farm
+| bip_39_word_new_line_5 | farm
 else
 parade
 output
 lend |  
-| bip_39_word_new_line6 | farm
+| bip_39_word_new_line_6 | farm
 else
 parade
 output
 lend
 bus |  
-| bip_39_word_new_line7 | farm
+| bip_39_word_new_line_7 | farm
 else
 parade
 output
 lend
 bus
 material |  
-| bip_39_word_new_line8 | farm
+| bip_39_word_new_line_8 | farm
 else
 parade
 output
@@ -113,7 +113,7 @@ lend
 bus
 material
 already |  
-| bip_39_word_new_line9 | farm
+| bip_39_word_new_line_9 | farm
 else
 parade
 output

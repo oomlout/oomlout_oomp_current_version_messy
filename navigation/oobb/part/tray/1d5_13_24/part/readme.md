@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | stamp |  
-| bip_39_word_new_br10 | stamp<br>call<br>lonely<br>bubble<br>ship<br>repeat<br>maze<br>answer<br>shallow<br>injury |  
-| bip_39_word_new_br11 | stamp<br>call<br>lonely<br>bubble<br>ship<br>repeat<br>maze<br>answer<br>shallow<br>injury<br>gossip |  
-| bip_39_word_new_br12 | stamp<br>call<br>lonely<br>bubble<br>ship<br>repeat<br>maze<br>answer<br>shallow<br>injury<br>gossip<br>artefact |  
-| bip_39_word_new_br2 | stamp<br>call |  
-| bip_39_word_new_br3 | stamp<br>call<br>lonely |  
-| bip_39_word_new_br4 | stamp<br>call<br>lonely<br>bubble |  
-| bip_39_word_new_br5 | stamp<br>call<br>lonely<br>bubble<br>ship |  
-| bip_39_word_new_br6 | stamp<br>call<br>lonely<br>bubble<br>ship<br>repeat |  
-| bip_39_word_new_br7 | stamp<br>call<br>lonely<br>bubble<br>ship<br>repeat<br>maze |  
-| bip_39_word_new_br8 | stamp<br>call<br>lonely<br>bubble<br>ship<br>repeat<br>maze<br>answer |  
-| bip_39_word_new_br9 | stamp<br>call<br>lonely<br>bubble<br>ship<br>repeat<br>maze<br>answer<br>shallow |  
-| bip_39_word_new_line1 | stamp |  
-| bip_39_word_new_line10 | stamp
+| bip_39_word_new_br_1 | stamp |  
+| bip_39_word_new_br_10 | stamp<br>call<br>lonely<br>bubble<br>ship<br>repeat<br>maze<br>answer<br>shallow<br>injury |  
+| bip_39_word_new_br_11 | stamp<br>call<br>lonely<br>bubble<br>ship<br>repeat<br>maze<br>answer<br>shallow<br>injury<br>gossip |  
+| bip_39_word_new_br_12 | stamp<br>call<br>lonely<br>bubble<br>ship<br>repeat<br>maze<br>answer<br>shallow<br>injury<br>gossip<br>artefact |  
+| bip_39_word_new_br_2 | stamp<br>call |  
+| bip_39_word_new_br_3 | stamp<br>call<br>lonely |  
+| bip_39_word_new_br_4 | stamp<br>call<br>lonely<br>bubble |  
+| bip_39_word_new_br_5 | stamp<br>call<br>lonely<br>bubble<br>ship |  
+| bip_39_word_new_br_6 | stamp<br>call<br>lonely<br>bubble<br>ship<br>repeat |  
+| bip_39_word_new_br_7 | stamp<br>call<br>lonely<br>bubble<br>ship<br>repeat<br>maze |  
+| bip_39_word_new_br_8 | stamp<br>call<br>lonely<br>bubble<br>ship<br>repeat<br>maze<br>answer |  
+| bip_39_word_new_br_9 | stamp<br>call<br>lonely<br>bubble<br>ship<br>repeat<br>maze<br>answer<br>shallow |  
+| bip_39_word_new_line_1 | stamp |  
+| bip_39_word_new_line_10 | stamp
 call
 lonely
 bubble
@@ -55,7 +55,7 @@ maze
 answer
 shallow
 injury |  
-| bip_39_word_new_line11 | stamp
+| bip_39_word_new_line_11 | stamp
 call
 lonely
 bubble
@@ -66,7 +66,7 @@ answer
 shallow
 injury
 gossip |  
-| bip_39_word_new_line12 | stamp
+| bip_39_word_new_line_12 | stamp
 call
 lonely
 bubble
@@ -78,34 +78,34 @@ shallow
 injury
 gossip
 artefact |  
-| bip_39_word_new_line2 | stamp
+| bip_39_word_new_line_2 | stamp
 call |  
-| bip_39_word_new_line3 | stamp
+| bip_39_word_new_line_3 | stamp
 call
 lonely |  
-| bip_39_word_new_line4 | stamp
+| bip_39_word_new_line_4 | stamp
 call
 lonely
 bubble |  
-| bip_39_word_new_line5 | stamp
+| bip_39_word_new_line_5 | stamp
 call
 lonely
 bubble
 ship |  
-| bip_39_word_new_line6 | stamp
+| bip_39_word_new_line_6 | stamp
 call
 lonely
 bubble
 ship
 repeat |  
-| bip_39_word_new_line7 | stamp
+| bip_39_word_new_line_7 | stamp
 call
 lonely
 bubble
 ship
 repeat
 maze |  
-| bip_39_word_new_line8 | stamp
+| bip_39_word_new_line_8 | stamp
 call
 lonely
 bubble
@@ -113,7 +113,7 @@ ship
 repeat
 maze
 answer |  
-| bip_39_word_new_line9 | stamp
+| bip_39_word_new_line_9 | stamp
 call
 lonely
 bubble

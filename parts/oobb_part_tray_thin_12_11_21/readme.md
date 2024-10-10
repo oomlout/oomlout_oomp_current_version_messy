@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | resemble |  
-| bip_39_word_new_br10 | resemble<br>fog<br>rather<br>cry<br>clarify<br>van<br>orphan<br>rail<br>old<br>hundred |  
-| bip_39_word_new_br11 | resemble<br>fog<br>rather<br>cry<br>clarify<br>van<br>orphan<br>rail<br>old<br>hundred<br>analyst |  
-| bip_39_word_new_br12 | resemble<br>fog<br>rather<br>cry<br>clarify<br>van<br>orphan<br>rail<br>old<br>hundred<br>analyst<br>animal |  
-| bip_39_word_new_br2 | resemble<br>fog |  
-| bip_39_word_new_br3 | resemble<br>fog<br>rather |  
-| bip_39_word_new_br4 | resemble<br>fog<br>rather<br>cry |  
-| bip_39_word_new_br5 | resemble<br>fog<br>rather<br>cry<br>clarify |  
-| bip_39_word_new_br6 | resemble<br>fog<br>rather<br>cry<br>clarify<br>van |  
-| bip_39_word_new_br7 | resemble<br>fog<br>rather<br>cry<br>clarify<br>van<br>orphan |  
-| bip_39_word_new_br8 | resemble<br>fog<br>rather<br>cry<br>clarify<br>van<br>orphan<br>rail |  
-| bip_39_word_new_br9 | resemble<br>fog<br>rather<br>cry<br>clarify<br>van<br>orphan<br>rail<br>old |  
-| bip_39_word_new_line1 | resemble |  
-| bip_39_word_new_line10 | resemble
+| bip_39_word_new_br_1 | resemble |  
+| bip_39_word_new_br_10 | resemble<br>fog<br>rather<br>cry<br>clarify<br>van<br>orphan<br>rail<br>old<br>hundred |  
+| bip_39_word_new_br_11 | resemble<br>fog<br>rather<br>cry<br>clarify<br>van<br>orphan<br>rail<br>old<br>hundred<br>analyst |  
+| bip_39_word_new_br_12 | resemble<br>fog<br>rather<br>cry<br>clarify<br>van<br>orphan<br>rail<br>old<br>hundred<br>analyst<br>animal |  
+| bip_39_word_new_br_2 | resemble<br>fog |  
+| bip_39_word_new_br_3 | resemble<br>fog<br>rather |  
+| bip_39_word_new_br_4 | resemble<br>fog<br>rather<br>cry |  
+| bip_39_word_new_br_5 | resemble<br>fog<br>rather<br>cry<br>clarify |  
+| bip_39_word_new_br_6 | resemble<br>fog<br>rather<br>cry<br>clarify<br>van |  
+| bip_39_word_new_br_7 | resemble<br>fog<br>rather<br>cry<br>clarify<br>van<br>orphan |  
+| bip_39_word_new_br_8 | resemble<br>fog<br>rather<br>cry<br>clarify<br>van<br>orphan<br>rail |  
+| bip_39_word_new_br_9 | resemble<br>fog<br>rather<br>cry<br>clarify<br>van<br>orphan<br>rail<br>old |  
+| bip_39_word_new_line_1 | resemble |  
+| bip_39_word_new_line_10 | resemble
 fog
 rather
 cry
@@ -55,7 +55,7 @@ orphan
 rail
 old
 hundred |  
-| bip_39_word_new_line11 | resemble
+| bip_39_word_new_line_11 | resemble
 fog
 rather
 cry
@@ -66,7 +66,7 @@ rail
 old
 hundred
 analyst |  
-| bip_39_word_new_line12 | resemble
+| bip_39_word_new_line_12 | resemble
 fog
 rather
 cry
@@ -78,34 +78,34 @@ old
 hundred
 analyst
 animal |  
-| bip_39_word_new_line2 | resemble
+| bip_39_word_new_line_2 | resemble
 fog |  
-| bip_39_word_new_line3 | resemble
+| bip_39_word_new_line_3 | resemble
 fog
 rather |  
-| bip_39_word_new_line4 | resemble
+| bip_39_word_new_line_4 | resemble
 fog
 rather
 cry |  
-| bip_39_word_new_line5 | resemble
+| bip_39_word_new_line_5 | resemble
 fog
 rather
 cry
 clarify |  
-| bip_39_word_new_line6 | resemble
+| bip_39_word_new_line_6 | resemble
 fog
 rather
 cry
 clarify
 van |  
-| bip_39_word_new_line7 | resemble
+| bip_39_word_new_line_7 | resemble
 fog
 rather
 cry
 clarify
 van
 orphan |  
-| bip_39_word_new_line8 | resemble
+| bip_39_word_new_line_8 | resemble
 fog
 rather
 cry
@@ -113,7 +113,7 @@ clarify
 van
 orphan
 rail |  
-| bip_39_word_new_line9 | resemble
+| bip_39_word_new_line_9 | resemble
 fog
 rather
 cry

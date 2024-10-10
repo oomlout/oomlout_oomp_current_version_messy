@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | amateur |  
-| bip_39_word_new_br10 | amateur<br>term<br>upon<br>card<br>kind<br>rice<br>business<br>fatigue<br>prepare<br>glove |  
-| bip_39_word_new_br11 | amateur<br>term<br>upon<br>card<br>kind<br>rice<br>business<br>fatigue<br>prepare<br>glove<br>good |  
-| bip_39_word_new_br12 | amateur<br>term<br>upon<br>card<br>kind<br>rice<br>business<br>fatigue<br>prepare<br>glove<br>good<br>army |  
-| bip_39_word_new_br2 | amateur<br>term |  
-| bip_39_word_new_br3 | amateur<br>term<br>upon |  
-| bip_39_word_new_br4 | amateur<br>term<br>upon<br>card |  
-| bip_39_word_new_br5 | amateur<br>term<br>upon<br>card<br>kind |  
-| bip_39_word_new_br6 | amateur<br>term<br>upon<br>card<br>kind<br>rice |  
-| bip_39_word_new_br7 | amateur<br>term<br>upon<br>card<br>kind<br>rice<br>business |  
-| bip_39_word_new_br8 | amateur<br>term<br>upon<br>card<br>kind<br>rice<br>business<br>fatigue |  
-| bip_39_word_new_br9 | amateur<br>term<br>upon<br>card<br>kind<br>rice<br>business<br>fatigue<br>prepare |  
-| bip_39_word_new_line1 | amateur |  
-| bip_39_word_new_line10 | amateur
+| bip_39_word_new_br_1 | amateur |  
+| bip_39_word_new_br_10 | amateur<br>term<br>upon<br>card<br>kind<br>rice<br>business<br>fatigue<br>prepare<br>glove |  
+| bip_39_word_new_br_11 | amateur<br>term<br>upon<br>card<br>kind<br>rice<br>business<br>fatigue<br>prepare<br>glove<br>good |  
+| bip_39_word_new_br_12 | amateur<br>term<br>upon<br>card<br>kind<br>rice<br>business<br>fatigue<br>prepare<br>glove<br>good<br>army |  
+| bip_39_word_new_br_2 | amateur<br>term |  
+| bip_39_word_new_br_3 | amateur<br>term<br>upon |  
+| bip_39_word_new_br_4 | amateur<br>term<br>upon<br>card |  
+| bip_39_word_new_br_5 | amateur<br>term<br>upon<br>card<br>kind |  
+| bip_39_word_new_br_6 | amateur<br>term<br>upon<br>card<br>kind<br>rice |  
+| bip_39_word_new_br_7 | amateur<br>term<br>upon<br>card<br>kind<br>rice<br>business |  
+| bip_39_word_new_br_8 | amateur<br>term<br>upon<br>card<br>kind<br>rice<br>business<br>fatigue |  
+| bip_39_word_new_br_9 | amateur<br>term<br>upon<br>card<br>kind<br>rice<br>business<br>fatigue<br>prepare |  
+| bip_39_word_new_line_1 | amateur |  
+| bip_39_word_new_line_10 | amateur
 term
 upon
 card
@@ -55,7 +55,7 @@ business
 fatigue
 prepare
 glove |  
-| bip_39_word_new_line11 | amateur
+| bip_39_word_new_line_11 | amateur
 term
 upon
 card
@@ -66,7 +66,7 @@ fatigue
 prepare
 glove
 good |  
-| bip_39_word_new_line12 | amateur
+| bip_39_word_new_line_12 | amateur
 term
 upon
 card
@@ -78,34 +78,34 @@ prepare
 glove
 good
 army |  
-| bip_39_word_new_line2 | amateur
+| bip_39_word_new_line_2 | amateur
 term |  
-| bip_39_word_new_line3 | amateur
+| bip_39_word_new_line_3 | amateur
 term
 upon |  
-| bip_39_word_new_line4 | amateur
+| bip_39_word_new_line_4 | amateur
 term
 upon
 card |  
-| bip_39_word_new_line5 | amateur
+| bip_39_word_new_line_5 | amateur
 term
 upon
 card
 kind |  
-| bip_39_word_new_line6 | amateur
+| bip_39_word_new_line_6 | amateur
 term
 upon
 card
 kind
 rice |  
-| bip_39_word_new_line7 | amateur
+| bip_39_word_new_line_7 | amateur
 term
 upon
 card
 kind
 rice
 business |  
-| bip_39_word_new_line8 | amateur
+| bip_39_word_new_line_8 | amateur
 term
 upon
 card
@@ -113,7 +113,7 @@ kind
 rice
 business
 fatigue |  
-| bip_39_word_new_line9 | amateur
+| bip_39_word_new_line_9 | amateur
 term
 upon
 card

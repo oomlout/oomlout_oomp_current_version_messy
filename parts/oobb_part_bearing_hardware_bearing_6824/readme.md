@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | portion |  
-| bip_39_word_new_br10 | portion<br>reject<br>divert<br>hint<br>letter<br>wrestle<br>reason<br>scatter<br>quiz<br>decorate |  
-| bip_39_word_new_br11 | portion<br>reject<br>divert<br>hint<br>letter<br>wrestle<br>reason<br>scatter<br>quiz<br>decorate<br>have |  
-| bip_39_word_new_br12 | portion<br>reject<br>divert<br>hint<br>letter<br>wrestle<br>reason<br>scatter<br>quiz<br>decorate<br>have<br>adapt |  
-| bip_39_word_new_br2 | portion<br>reject |  
-| bip_39_word_new_br3 | portion<br>reject<br>divert |  
-| bip_39_word_new_br4 | portion<br>reject<br>divert<br>hint |  
-| bip_39_word_new_br5 | portion<br>reject<br>divert<br>hint<br>letter |  
-| bip_39_word_new_br6 | portion<br>reject<br>divert<br>hint<br>letter<br>wrestle |  
-| bip_39_word_new_br7 | portion<br>reject<br>divert<br>hint<br>letter<br>wrestle<br>reason |  
-| bip_39_word_new_br8 | portion<br>reject<br>divert<br>hint<br>letter<br>wrestle<br>reason<br>scatter |  
-| bip_39_word_new_br9 | portion<br>reject<br>divert<br>hint<br>letter<br>wrestle<br>reason<br>scatter<br>quiz |  
-| bip_39_word_new_line1 | portion |  
-| bip_39_word_new_line10 | portion
+| bip_39_word_new_br_1 | portion |  
+| bip_39_word_new_br_10 | portion<br>reject<br>divert<br>hint<br>letter<br>wrestle<br>reason<br>scatter<br>quiz<br>decorate |  
+| bip_39_word_new_br_11 | portion<br>reject<br>divert<br>hint<br>letter<br>wrestle<br>reason<br>scatter<br>quiz<br>decorate<br>have |  
+| bip_39_word_new_br_12 | portion<br>reject<br>divert<br>hint<br>letter<br>wrestle<br>reason<br>scatter<br>quiz<br>decorate<br>have<br>adapt |  
+| bip_39_word_new_br_2 | portion<br>reject |  
+| bip_39_word_new_br_3 | portion<br>reject<br>divert |  
+| bip_39_word_new_br_4 | portion<br>reject<br>divert<br>hint |  
+| bip_39_word_new_br_5 | portion<br>reject<br>divert<br>hint<br>letter |  
+| bip_39_word_new_br_6 | portion<br>reject<br>divert<br>hint<br>letter<br>wrestle |  
+| bip_39_word_new_br_7 | portion<br>reject<br>divert<br>hint<br>letter<br>wrestle<br>reason |  
+| bip_39_word_new_br_8 | portion<br>reject<br>divert<br>hint<br>letter<br>wrestle<br>reason<br>scatter |  
+| bip_39_word_new_br_9 | portion<br>reject<br>divert<br>hint<br>letter<br>wrestle<br>reason<br>scatter<br>quiz |  
+| bip_39_word_new_line_1 | portion |  
+| bip_39_word_new_line_10 | portion
 reject
 divert
 hint
@@ -55,7 +55,7 @@ reason
 scatter
 quiz
 decorate |  
-| bip_39_word_new_line11 | portion
+| bip_39_word_new_line_11 | portion
 reject
 divert
 hint
@@ -66,7 +66,7 @@ scatter
 quiz
 decorate
 have |  
-| bip_39_word_new_line12 | portion
+| bip_39_word_new_line_12 | portion
 reject
 divert
 hint
@@ -78,34 +78,34 @@ quiz
 decorate
 have
 adapt |  
-| bip_39_word_new_line2 | portion
+| bip_39_word_new_line_2 | portion
 reject |  
-| bip_39_word_new_line3 | portion
+| bip_39_word_new_line_3 | portion
 reject
 divert |  
-| bip_39_word_new_line4 | portion
+| bip_39_word_new_line_4 | portion
 reject
 divert
 hint |  
-| bip_39_word_new_line5 | portion
+| bip_39_word_new_line_5 | portion
 reject
 divert
 hint
 letter |  
-| bip_39_word_new_line6 | portion
+| bip_39_word_new_line_6 | portion
 reject
 divert
 hint
 letter
 wrestle |  
-| bip_39_word_new_line7 | portion
+| bip_39_word_new_line_7 | portion
 reject
 divert
 hint
 letter
 wrestle
 reason |  
-| bip_39_word_new_line8 | portion
+| bip_39_word_new_line_8 | portion
 reject
 divert
 hint
@@ -113,7 +113,7 @@ letter
 wrestle
 reason
 scatter |  
-| bip_39_word_new_line9 | portion
+| bip_39_word_new_line_9 | portion
 reject
 divert
 hint

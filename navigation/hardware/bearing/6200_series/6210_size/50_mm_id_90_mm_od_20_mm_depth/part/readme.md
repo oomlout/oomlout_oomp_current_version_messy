@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | tip |  
-| bip_39_word_new_br10 | tip<br>voice<br>scatter<br>budget<br>border<br>blast<br>soul<br>toss<br>close<br>squeeze |  
-| bip_39_word_new_br11 | tip<br>voice<br>scatter<br>budget<br>border<br>blast<br>soul<br>toss<br>close<br>squeeze<br>tribe |  
-| bip_39_word_new_br12 | tip<br>voice<br>scatter<br>budget<br>border<br>blast<br>soul<br>toss<br>close<br>squeeze<br>tribe<br>assist |  
-| bip_39_word_new_br2 | tip<br>voice |  
-| bip_39_word_new_br3 | tip<br>voice<br>scatter |  
-| bip_39_word_new_br4 | tip<br>voice<br>scatter<br>budget |  
-| bip_39_word_new_br5 | tip<br>voice<br>scatter<br>budget<br>border |  
-| bip_39_word_new_br6 | tip<br>voice<br>scatter<br>budget<br>border<br>blast |  
-| bip_39_word_new_br7 | tip<br>voice<br>scatter<br>budget<br>border<br>blast<br>soul |  
-| bip_39_word_new_br8 | tip<br>voice<br>scatter<br>budget<br>border<br>blast<br>soul<br>toss |  
-| bip_39_word_new_br9 | tip<br>voice<br>scatter<br>budget<br>border<br>blast<br>soul<br>toss<br>close |  
-| bip_39_word_new_line1 | tip |  
-| bip_39_word_new_line10 | tip
+| bip_39_word_new_br_1 | tip |  
+| bip_39_word_new_br_10 | tip<br>voice<br>scatter<br>budget<br>border<br>blast<br>soul<br>toss<br>close<br>squeeze |  
+| bip_39_word_new_br_11 | tip<br>voice<br>scatter<br>budget<br>border<br>blast<br>soul<br>toss<br>close<br>squeeze<br>tribe |  
+| bip_39_word_new_br_12 | tip<br>voice<br>scatter<br>budget<br>border<br>blast<br>soul<br>toss<br>close<br>squeeze<br>tribe<br>assist |  
+| bip_39_word_new_br_2 | tip<br>voice |  
+| bip_39_word_new_br_3 | tip<br>voice<br>scatter |  
+| bip_39_word_new_br_4 | tip<br>voice<br>scatter<br>budget |  
+| bip_39_word_new_br_5 | tip<br>voice<br>scatter<br>budget<br>border |  
+| bip_39_word_new_br_6 | tip<br>voice<br>scatter<br>budget<br>border<br>blast |  
+| bip_39_word_new_br_7 | tip<br>voice<br>scatter<br>budget<br>border<br>blast<br>soul |  
+| bip_39_word_new_br_8 | tip<br>voice<br>scatter<br>budget<br>border<br>blast<br>soul<br>toss |  
+| bip_39_word_new_br_9 | tip<br>voice<br>scatter<br>budget<br>border<br>blast<br>soul<br>toss<br>close |  
+| bip_39_word_new_line_1 | tip |  
+| bip_39_word_new_line_10 | tip
 voice
 scatter
 budget
@@ -55,7 +55,7 @@ soul
 toss
 close
 squeeze |  
-| bip_39_word_new_line11 | tip
+| bip_39_word_new_line_11 | tip
 voice
 scatter
 budget
@@ -66,7 +66,7 @@ toss
 close
 squeeze
 tribe |  
-| bip_39_word_new_line12 | tip
+| bip_39_word_new_line_12 | tip
 voice
 scatter
 budget
@@ -78,34 +78,34 @@ close
 squeeze
 tribe
 assist |  
-| bip_39_word_new_line2 | tip
+| bip_39_word_new_line_2 | tip
 voice |  
-| bip_39_word_new_line3 | tip
+| bip_39_word_new_line_3 | tip
 voice
 scatter |  
-| bip_39_word_new_line4 | tip
+| bip_39_word_new_line_4 | tip
 voice
 scatter
 budget |  
-| bip_39_word_new_line5 | tip
+| bip_39_word_new_line_5 | tip
 voice
 scatter
 budget
 border |  
-| bip_39_word_new_line6 | tip
+| bip_39_word_new_line_6 | tip
 voice
 scatter
 budget
 border
 blast |  
-| bip_39_word_new_line7 | tip
+| bip_39_word_new_line_7 | tip
 voice
 scatter
 budget
 border
 blast
 soul |  
-| bip_39_word_new_line8 | tip
+| bip_39_word_new_line_8 | tip
 voice
 scatter
 budget
@@ -113,7 +113,7 @@ border
 blast
 soul
 toss |  
-| bip_39_word_new_line9 | tip
+| bip_39_word_new_line_9 | tip
 voice
 scatter
 budget

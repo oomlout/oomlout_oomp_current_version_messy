@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | nature |  
-| bip_39_word_new_br10 | nature<br>idle<br>ocean<br>first<br>cash<br>crop<br>history<br>smart<br>silk<br>ostrich |  
-| bip_39_word_new_br11 | nature<br>idle<br>ocean<br>first<br>cash<br>crop<br>history<br>smart<br>silk<br>ostrich<br>wolf |  
-| bip_39_word_new_br12 | nature<br>idle<br>ocean<br>first<br>cash<br>crop<br>history<br>smart<br>silk<br>ostrich<br>wolf<br>approve |  
-| bip_39_word_new_br2 | nature<br>idle |  
-| bip_39_word_new_br3 | nature<br>idle<br>ocean |  
-| bip_39_word_new_br4 | nature<br>idle<br>ocean<br>first |  
-| bip_39_word_new_br5 | nature<br>idle<br>ocean<br>first<br>cash |  
-| bip_39_word_new_br6 | nature<br>idle<br>ocean<br>first<br>cash<br>crop |  
-| bip_39_word_new_br7 | nature<br>idle<br>ocean<br>first<br>cash<br>crop<br>history |  
-| bip_39_word_new_br8 | nature<br>idle<br>ocean<br>first<br>cash<br>crop<br>history<br>smart |  
-| bip_39_word_new_br9 | nature<br>idle<br>ocean<br>first<br>cash<br>crop<br>history<br>smart<br>silk |  
-| bip_39_word_new_line1 | nature |  
-| bip_39_word_new_line10 | nature
+| bip_39_word_new_br_1 | nature |  
+| bip_39_word_new_br_10 | nature<br>idle<br>ocean<br>first<br>cash<br>crop<br>history<br>smart<br>silk<br>ostrich |  
+| bip_39_word_new_br_11 | nature<br>idle<br>ocean<br>first<br>cash<br>crop<br>history<br>smart<br>silk<br>ostrich<br>wolf |  
+| bip_39_word_new_br_12 | nature<br>idle<br>ocean<br>first<br>cash<br>crop<br>history<br>smart<br>silk<br>ostrich<br>wolf<br>approve |  
+| bip_39_word_new_br_2 | nature<br>idle |  
+| bip_39_word_new_br_3 | nature<br>idle<br>ocean |  
+| bip_39_word_new_br_4 | nature<br>idle<br>ocean<br>first |  
+| bip_39_word_new_br_5 | nature<br>idle<br>ocean<br>first<br>cash |  
+| bip_39_word_new_br_6 | nature<br>idle<br>ocean<br>first<br>cash<br>crop |  
+| bip_39_word_new_br_7 | nature<br>idle<br>ocean<br>first<br>cash<br>crop<br>history |  
+| bip_39_word_new_br_8 | nature<br>idle<br>ocean<br>first<br>cash<br>crop<br>history<br>smart |  
+| bip_39_word_new_br_9 | nature<br>idle<br>ocean<br>first<br>cash<br>crop<br>history<br>smart<br>silk |  
+| bip_39_word_new_line_1 | nature |  
+| bip_39_word_new_line_10 | nature
 idle
 ocean
 first
@@ -55,7 +55,7 @@ history
 smart
 silk
 ostrich |  
-| bip_39_word_new_line11 | nature
+| bip_39_word_new_line_11 | nature
 idle
 ocean
 first
@@ -66,7 +66,7 @@ smart
 silk
 ostrich
 wolf |  
-| bip_39_word_new_line12 | nature
+| bip_39_word_new_line_12 | nature
 idle
 ocean
 first
@@ -78,34 +78,34 @@ silk
 ostrich
 wolf
 approve |  
-| bip_39_word_new_line2 | nature
+| bip_39_word_new_line_2 | nature
 idle |  
-| bip_39_word_new_line3 | nature
+| bip_39_word_new_line_3 | nature
 idle
 ocean |  
-| bip_39_word_new_line4 | nature
+| bip_39_word_new_line_4 | nature
 idle
 ocean
 first |  
-| bip_39_word_new_line5 | nature
+| bip_39_word_new_line_5 | nature
 idle
 ocean
 first
 cash |  
-| bip_39_word_new_line6 | nature
+| bip_39_word_new_line_6 | nature
 idle
 ocean
 first
 cash
 crop |  
-| bip_39_word_new_line7 | nature
+| bip_39_word_new_line_7 | nature
 idle
 ocean
 first
 cash
 crop
 history |  
-| bip_39_word_new_line8 | nature
+| bip_39_word_new_line_8 | nature
 idle
 ocean
 first
@@ -113,7 +113,7 @@ cash
 crop
 history
 smart |  
-| bip_39_word_new_line9 | nature
+| bip_39_word_new_line_9 | nature
 idle
 ocean
 first

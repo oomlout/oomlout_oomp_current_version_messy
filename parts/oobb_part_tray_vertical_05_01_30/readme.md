@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ship |  
-| bip_39_word_new_br10 | ship<br>prepare<br>glance<br>below<br>aerobic<br>call<br>civil<br>prefer<br>genius<br>solution |  
-| bip_39_word_new_br11 | ship<br>prepare<br>glance<br>below<br>aerobic<br>call<br>civil<br>prefer<br>genius<br>solution<br>sniff |  
-| bip_39_word_new_br12 | ship<br>prepare<br>glance<br>below<br>aerobic<br>call<br>civil<br>prefer<br>genius<br>solution<br>sniff<br>atom |  
-| bip_39_word_new_br2 | ship<br>prepare |  
-| bip_39_word_new_br3 | ship<br>prepare<br>glance |  
-| bip_39_word_new_br4 | ship<br>prepare<br>glance<br>below |  
-| bip_39_word_new_br5 | ship<br>prepare<br>glance<br>below<br>aerobic |  
-| bip_39_word_new_br6 | ship<br>prepare<br>glance<br>below<br>aerobic<br>call |  
-| bip_39_word_new_br7 | ship<br>prepare<br>glance<br>below<br>aerobic<br>call<br>civil |  
-| bip_39_word_new_br8 | ship<br>prepare<br>glance<br>below<br>aerobic<br>call<br>civil<br>prefer |  
-| bip_39_word_new_br9 | ship<br>prepare<br>glance<br>below<br>aerobic<br>call<br>civil<br>prefer<br>genius |  
-| bip_39_word_new_line1 | ship |  
-| bip_39_word_new_line10 | ship
+| bip_39_word_new_br_1 | ship |  
+| bip_39_word_new_br_10 | ship<br>prepare<br>glance<br>below<br>aerobic<br>call<br>civil<br>prefer<br>genius<br>solution |  
+| bip_39_word_new_br_11 | ship<br>prepare<br>glance<br>below<br>aerobic<br>call<br>civil<br>prefer<br>genius<br>solution<br>sniff |  
+| bip_39_word_new_br_12 | ship<br>prepare<br>glance<br>below<br>aerobic<br>call<br>civil<br>prefer<br>genius<br>solution<br>sniff<br>atom |  
+| bip_39_word_new_br_2 | ship<br>prepare |  
+| bip_39_word_new_br_3 | ship<br>prepare<br>glance |  
+| bip_39_word_new_br_4 | ship<br>prepare<br>glance<br>below |  
+| bip_39_word_new_br_5 | ship<br>prepare<br>glance<br>below<br>aerobic |  
+| bip_39_word_new_br_6 | ship<br>prepare<br>glance<br>below<br>aerobic<br>call |  
+| bip_39_word_new_br_7 | ship<br>prepare<br>glance<br>below<br>aerobic<br>call<br>civil |  
+| bip_39_word_new_br_8 | ship<br>prepare<br>glance<br>below<br>aerobic<br>call<br>civil<br>prefer |  
+| bip_39_word_new_br_9 | ship<br>prepare<br>glance<br>below<br>aerobic<br>call<br>civil<br>prefer<br>genius |  
+| bip_39_word_new_line_1 | ship |  
+| bip_39_word_new_line_10 | ship
 prepare
 glance
 below
@@ -55,7 +55,7 @@ civil
 prefer
 genius
 solution |  
-| bip_39_word_new_line11 | ship
+| bip_39_word_new_line_11 | ship
 prepare
 glance
 below
@@ -66,7 +66,7 @@ prefer
 genius
 solution
 sniff |  
-| bip_39_word_new_line12 | ship
+| bip_39_word_new_line_12 | ship
 prepare
 glance
 below
@@ -78,34 +78,34 @@ genius
 solution
 sniff
 atom |  
-| bip_39_word_new_line2 | ship
+| bip_39_word_new_line_2 | ship
 prepare |  
-| bip_39_word_new_line3 | ship
+| bip_39_word_new_line_3 | ship
 prepare
 glance |  
-| bip_39_word_new_line4 | ship
+| bip_39_word_new_line_4 | ship
 prepare
 glance
 below |  
-| bip_39_word_new_line5 | ship
+| bip_39_word_new_line_5 | ship
 prepare
 glance
 below
 aerobic |  
-| bip_39_word_new_line6 | ship
+| bip_39_word_new_line_6 | ship
 prepare
 glance
 below
 aerobic
 call |  
-| bip_39_word_new_line7 | ship
+| bip_39_word_new_line_7 | ship
 prepare
 glance
 below
 aerobic
 call
 civil |  
-| bip_39_word_new_line8 | ship
+| bip_39_word_new_line_8 | ship
 prepare
 glance
 below
@@ -113,7 +113,7 @@ aerobic
 call
 civil
 prefer |  
-| bip_39_word_new_line9 | ship
+| bip_39_word_new_line_9 | ship
 prepare
 glance
 below

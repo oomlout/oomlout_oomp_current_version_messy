@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | recall |  
-| bip_39_word_new_br10 | recall<br>alcohol<br>kingdom<br>case<br>pottery<br>stereo<br>kiwi<br>drink<br>famous<br>ball |  
-| bip_39_word_new_br11 | recall<br>alcohol<br>kingdom<br>case<br>pottery<br>stereo<br>kiwi<br>drink<br>famous<br>ball<br>call |  
-| bip_39_word_new_br12 | recall<br>alcohol<br>kingdom<br>case<br>pottery<br>stereo<br>kiwi<br>drink<br>famous<br>ball<br>call<br>alcohol |  
-| bip_39_word_new_br2 | recall<br>alcohol |  
-| bip_39_word_new_br3 | recall<br>alcohol<br>kingdom |  
-| bip_39_word_new_br4 | recall<br>alcohol<br>kingdom<br>case |  
-| bip_39_word_new_br5 | recall<br>alcohol<br>kingdom<br>case<br>pottery |  
-| bip_39_word_new_br6 | recall<br>alcohol<br>kingdom<br>case<br>pottery<br>stereo |  
-| bip_39_word_new_br7 | recall<br>alcohol<br>kingdom<br>case<br>pottery<br>stereo<br>kiwi |  
-| bip_39_word_new_br8 | recall<br>alcohol<br>kingdom<br>case<br>pottery<br>stereo<br>kiwi<br>drink |  
-| bip_39_word_new_br9 | recall<br>alcohol<br>kingdom<br>case<br>pottery<br>stereo<br>kiwi<br>drink<br>famous |  
-| bip_39_word_new_line1 | recall |  
-| bip_39_word_new_line10 | recall
+| bip_39_word_new_br_1 | recall |  
+| bip_39_word_new_br_10 | recall<br>alcohol<br>kingdom<br>case<br>pottery<br>stereo<br>kiwi<br>drink<br>famous<br>ball |  
+| bip_39_word_new_br_11 | recall<br>alcohol<br>kingdom<br>case<br>pottery<br>stereo<br>kiwi<br>drink<br>famous<br>ball<br>call |  
+| bip_39_word_new_br_12 | recall<br>alcohol<br>kingdom<br>case<br>pottery<br>stereo<br>kiwi<br>drink<br>famous<br>ball<br>call<br>alcohol |  
+| bip_39_word_new_br_2 | recall<br>alcohol |  
+| bip_39_word_new_br_3 | recall<br>alcohol<br>kingdom |  
+| bip_39_word_new_br_4 | recall<br>alcohol<br>kingdom<br>case |  
+| bip_39_word_new_br_5 | recall<br>alcohol<br>kingdom<br>case<br>pottery |  
+| bip_39_word_new_br_6 | recall<br>alcohol<br>kingdom<br>case<br>pottery<br>stereo |  
+| bip_39_word_new_br_7 | recall<br>alcohol<br>kingdom<br>case<br>pottery<br>stereo<br>kiwi |  
+| bip_39_word_new_br_8 | recall<br>alcohol<br>kingdom<br>case<br>pottery<br>stereo<br>kiwi<br>drink |  
+| bip_39_word_new_br_9 | recall<br>alcohol<br>kingdom<br>case<br>pottery<br>stereo<br>kiwi<br>drink<br>famous |  
+| bip_39_word_new_line_1 | recall |  
+| bip_39_word_new_line_10 | recall
 alcohol
 kingdom
 case
@@ -55,7 +55,7 @@ kiwi
 drink
 famous
 ball |  
-| bip_39_word_new_line11 | recall
+| bip_39_word_new_line_11 | recall
 alcohol
 kingdom
 case
@@ -66,7 +66,7 @@ drink
 famous
 ball
 call |  
-| bip_39_word_new_line12 | recall
+| bip_39_word_new_line_12 | recall
 alcohol
 kingdom
 case
@@ -78,34 +78,34 @@ famous
 ball
 call
 alcohol |  
-| bip_39_word_new_line2 | recall
+| bip_39_word_new_line_2 | recall
 alcohol |  
-| bip_39_word_new_line3 | recall
+| bip_39_word_new_line_3 | recall
 alcohol
 kingdom |  
-| bip_39_word_new_line4 | recall
+| bip_39_word_new_line_4 | recall
 alcohol
 kingdom
 case |  
-| bip_39_word_new_line5 | recall
+| bip_39_word_new_line_5 | recall
 alcohol
 kingdom
 case
 pottery |  
-| bip_39_word_new_line6 | recall
+| bip_39_word_new_line_6 | recall
 alcohol
 kingdom
 case
 pottery
 stereo |  
-| bip_39_word_new_line7 | recall
+| bip_39_word_new_line_7 | recall
 alcohol
 kingdom
 case
 pottery
 stereo
 kiwi |  
-| bip_39_word_new_line8 | recall
+| bip_39_word_new_line_8 | recall
 alcohol
 kingdom
 case
@@ -113,7 +113,7 @@ pottery
 stereo
 kiwi
 drink |  
-| bip_39_word_new_line9 | recall
+| bip_39_word_new_line_9 | recall
 alcohol
 kingdom
 case

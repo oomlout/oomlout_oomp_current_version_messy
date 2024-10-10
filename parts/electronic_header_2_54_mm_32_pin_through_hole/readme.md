@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | device |  
-| bip_39_word_new_br10 | device<br>target<br>planet<br>youth<br>fluid<br>cube<br>furnace<br>suspect<br>spread<br>laundry |  
-| bip_39_word_new_br11 | device<br>target<br>planet<br>youth<br>fluid<br>cube<br>furnace<br>suspect<br>spread<br>laundry<br>divorce |  
-| bip_39_word_new_br12 | device<br>target<br>planet<br>youth<br>fluid<br>cube<br>furnace<br>suspect<br>spread<br>laundry<br>divorce<br>amateur |  
-| bip_39_word_new_br2 | device<br>target |  
-| bip_39_word_new_br3 | device<br>target<br>planet |  
-| bip_39_word_new_br4 | device<br>target<br>planet<br>youth |  
-| bip_39_word_new_br5 | device<br>target<br>planet<br>youth<br>fluid |  
-| bip_39_word_new_br6 | device<br>target<br>planet<br>youth<br>fluid<br>cube |  
-| bip_39_word_new_br7 | device<br>target<br>planet<br>youth<br>fluid<br>cube<br>furnace |  
-| bip_39_word_new_br8 | device<br>target<br>planet<br>youth<br>fluid<br>cube<br>furnace<br>suspect |  
-| bip_39_word_new_br9 | device<br>target<br>planet<br>youth<br>fluid<br>cube<br>furnace<br>suspect<br>spread |  
-| bip_39_word_new_line1 | device |  
-| bip_39_word_new_line10 | device
+| bip_39_word_new_br_1 | device |  
+| bip_39_word_new_br_10 | device<br>target<br>planet<br>youth<br>fluid<br>cube<br>furnace<br>suspect<br>spread<br>laundry |  
+| bip_39_word_new_br_11 | device<br>target<br>planet<br>youth<br>fluid<br>cube<br>furnace<br>suspect<br>spread<br>laundry<br>divorce |  
+| bip_39_word_new_br_12 | device<br>target<br>planet<br>youth<br>fluid<br>cube<br>furnace<br>suspect<br>spread<br>laundry<br>divorce<br>amateur |  
+| bip_39_word_new_br_2 | device<br>target |  
+| bip_39_word_new_br_3 | device<br>target<br>planet |  
+| bip_39_word_new_br_4 | device<br>target<br>planet<br>youth |  
+| bip_39_word_new_br_5 | device<br>target<br>planet<br>youth<br>fluid |  
+| bip_39_word_new_br_6 | device<br>target<br>planet<br>youth<br>fluid<br>cube |  
+| bip_39_word_new_br_7 | device<br>target<br>planet<br>youth<br>fluid<br>cube<br>furnace |  
+| bip_39_word_new_br_8 | device<br>target<br>planet<br>youth<br>fluid<br>cube<br>furnace<br>suspect |  
+| bip_39_word_new_br_9 | device<br>target<br>planet<br>youth<br>fluid<br>cube<br>furnace<br>suspect<br>spread |  
+| bip_39_word_new_line_1 | device |  
+| bip_39_word_new_line_10 | device
 target
 planet
 youth
@@ -55,7 +55,7 @@ furnace
 suspect
 spread
 laundry |  
-| bip_39_word_new_line11 | device
+| bip_39_word_new_line_11 | device
 target
 planet
 youth
@@ -66,7 +66,7 @@ suspect
 spread
 laundry
 divorce |  
-| bip_39_word_new_line12 | device
+| bip_39_word_new_line_12 | device
 target
 planet
 youth
@@ -78,34 +78,34 @@ spread
 laundry
 divorce
 amateur |  
-| bip_39_word_new_line2 | device
+| bip_39_word_new_line_2 | device
 target |  
-| bip_39_word_new_line3 | device
+| bip_39_word_new_line_3 | device
 target
 planet |  
-| bip_39_word_new_line4 | device
+| bip_39_word_new_line_4 | device
 target
 planet
 youth |  
-| bip_39_word_new_line5 | device
+| bip_39_word_new_line_5 | device
 target
 planet
 youth
 fluid |  
-| bip_39_word_new_line6 | device
+| bip_39_word_new_line_6 | device
 target
 planet
 youth
 fluid
 cube |  
-| bip_39_word_new_line7 | device
+| bip_39_word_new_line_7 | device
 target
 planet
 youth
 fluid
 cube
 furnace |  
-| bip_39_word_new_line8 | device
+| bip_39_word_new_line_8 | device
 target
 planet
 youth
@@ -113,7 +113,7 @@ fluid
 cube
 furnace
 suspect |  
-| bip_39_word_new_line9 | device
+| bip_39_word_new_line_9 | device
 target
 planet
 youth

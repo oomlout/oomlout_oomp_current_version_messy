@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dismiss |  
-| bip_39_word_new_br10 | dismiss<br>pulse<br>always<br>saddle<br>reopen<br>property<br>season<br>oxygen<br>whip<br>churn |  
-| bip_39_word_new_br11 | dismiss<br>pulse<br>always<br>saddle<br>reopen<br>property<br>season<br>oxygen<br>whip<br>churn<br>exchange |  
-| bip_39_word_new_br12 | dismiss<br>pulse<br>always<br>saddle<br>reopen<br>property<br>season<br>oxygen<br>whip<br>churn<br>exchange<br>arm |  
-| bip_39_word_new_br2 | dismiss<br>pulse |  
-| bip_39_word_new_br3 | dismiss<br>pulse<br>always |  
-| bip_39_word_new_br4 | dismiss<br>pulse<br>always<br>saddle |  
-| bip_39_word_new_br5 | dismiss<br>pulse<br>always<br>saddle<br>reopen |  
-| bip_39_word_new_br6 | dismiss<br>pulse<br>always<br>saddle<br>reopen<br>property |  
-| bip_39_word_new_br7 | dismiss<br>pulse<br>always<br>saddle<br>reopen<br>property<br>season |  
-| bip_39_word_new_br8 | dismiss<br>pulse<br>always<br>saddle<br>reopen<br>property<br>season<br>oxygen |  
-| bip_39_word_new_br9 | dismiss<br>pulse<br>always<br>saddle<br>reopen<br>property<br>season<br>oxygen<br>whip |  
-| bip_39_word_new_line1 | dismiss |  
-| bip_39_word_new_line10 | dismiss
+| bip_39_word_new_br_1 | dismiss |  
+| bip_39_word_new_br_10 | dismiss<br>pulse<br>always<br>saddle<br>reopen<br>property<br>season<br>oxygen<br>whip<br>churn |  
+| bip_39_word_new_br_11 | dismiss<br>pulse<br>always<br>saddle<br>reopen<br>property<br>season<br>oxygen<br>whip<br>churn<br>exchange |  
+| bip_39_word_new_br_12 | dismiss<br>pulse<br>always<br>saddle<br>reopen<br>property<br>season<br>oxygen<br>whip<br>churn<br>exchange<br>arm |  
+| bip_39_word_new_br_2 | dismiss<br>pulse |  
+| bip_39_word_new_br_3 | dismiss<br>pulse<br>always |  
+| bip_39_word_new_br_4 | dismiss<br>pulse<br>always<br>saddle |  
+| bip_39_word_new_br_5 | dismiss<br>pulse<br>always<br>saddle<br>reopen |  
+| bip_39_word_new_br_6 | dismiss<br>pulse<br>always<br>saddle<br>reopen<br>property |  
+| bip_39_word_new_br_7 | dismiss<br>pulse<br>always<br>saddle<br>reopen<br>property<br>season |  
+| bip_39_word_new_br_8 | dismiss<br>pulse<br>always<br>saddle<br>reopen<br>property<br>season<br>oxygen |  
+| bip_39_word_new_br_9 | dismiss<br>pulse<br>always<br>saddle<br>reopen<br>property<br>season<br>oxygen<br>whip |  
+| bip_39_word_new_line_1 | dismiss |  
+| bip_39_word_new_line_10 | dismiss
 pulse
 always
 saddle
@@ -55,7 +55,7 @@ season
 oxygen
 whip
 churn |  
-| bip_39_word_new_line11 | dismiss
+| bip_39_word_new_line_11 | dismiss
 pulse
 always
 saddle
@@ -66,7 +66,7 @@ oxygen
 whip
 churn
 exchange |  
-| bip_39_word_new_line12 | dismiss
+| bip_39_word_new_line_12 | dismiss
 pulse
 always
 saddle
@@ -78,34 +78,34 @@ whip
 churn
 exchange
 arm |  
-| bip_39_word_new_line2 | dismiss
+| bip_39_word_new_line_2 | dismiss
 pulse |  
-| bip_39_word_new_line3 | dismiss
+| bip_39_word_new_line_3 | dismiss
 pulse
 always |  
-| bip_39_word_new_line4 | dismiss
+| bip_39_word_new_line_4 | dismiss
 pulse
 always
 saddle |  
-| bip_39_word_new_line5 | dismiss
+| bip_39_word_new_line_5 | dismiss
 pulse
 always
 saddle
 reopen |  
-| bip_39_word_new_line6 | dismiss
+| bip_39_word_new_line_6 | dismiss
 pulse
 always
 saddle
 reopen
 property |  
-| bip_39_word_new_line7 | dismiss
+| bip_39_word_new_line_7 | dismiss
 pulse
 always
 saddle
 reopen
 property
 season |  
-| bip_39_word_new_line8 | dismiss
+| bip_39_word_new_line_8 | dismiss
 pulse
 always
 saddle
@@ -113,7 +113,7 @@ reopen
 property
 season
 oxygen |  
-| bip_39_word_new_line9 | dismiss
+| bip_39_word_new_line_9 | dismiss
 pulse
 always
 saddle

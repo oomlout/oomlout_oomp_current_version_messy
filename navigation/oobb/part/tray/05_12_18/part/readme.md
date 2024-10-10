@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | until |  
-| bip_39_word_new_br10 | until<br>such<br>belt<br>leaf<br>enact<br>curtain<br>must<br>cup<br>riot<br>tumble |  
-| bip_39_word_new_br11 | until<br>such<br>belt<br>leaf<br>enact<br>curtain<br>must<br>cup<br>riot<br>tumble<br>stem |  
-| bip_39_word_new_br12 | until<br>such<br>belt<br>leaf<br>enact<br>curtain<br>must<br>cup<br>riot<br>tumble<br>stem<br>animal |  
-| bip_39_word_new_br2 | until<br>such |  
-| bip_39_word_new_br3 | until<br>such<br>belt |  
-| bip_39_word_new_br4 | until<br>such<br>belt<br>leaf |  
-| bip_39_word_new_br5 | until<br>such<br>belt<br>leaf<br>enact |  
-| bip_39_word_new_br6 | until<br>such<br>belt<br>leaf<br>enact<br>curtain |  
-| bip_39_word_new_br7 | until<br>such<br>belt<br>leaf<br>enact<br>curtain<br>must |  
-| bip_39_word_new_br8 | until<br>such<br>belt<br>leaf<br>enact<br>curtain<br>must<br>cup |  
-| bip_39_word_new_br9 | until<br>such<br>belt<br>leaf<br>enact<br>curtain<br>must<br>cup<br>riot |  
-| bip_39_word_new_line1 | until |  
-| bip_39_word_new_line10 | until
+| bip_39_word_new_br_1 | until |  
+| bip_39_word_new_br_10 | until<br>such<br>belt<br>leaf<br>enact<br>curtain<br>must<br>cup<br>riot<br>tumble |  
+| bip_39_word_new_br_11 | until<br>such<br>belt<br>leaf<br>enact<br>curtain<br>must<br>cup<br>riot<br>tumble<br>stem |  
+| bip_39_word_new_br_12 | until<br>such<br>belt<br>leaf<br>enact<br>curtain<br>must<br>cup<br>riot<br>tumble<br>stem<br>animal |  
+| bip_39_word_new_br_2 | until<br>such |  
+| bip_39_word_new_br_3 | until<br>such<br>belt |  
+| bip_39_word_new_br_4 | until<br>such<br>belt<br>leaf |  
+| bip_39_word_new_br_5 | until<br>such<br>belt<br>leaf<br>enact |  
+| bip_39_word_new_br_6 | until<br>such<br>belt<br>leaf<br>enact<br>curtain |  
+| bip_39_word_new_br_7 | until<br>such<br>belt<br>leaf<br>enact<br>curtain<br>must |  
+| bip_39_word_new_br_8 | until<br>such<br>belt<br>leaf<br>enact<br>curtain<br>must<br>cup |  
+| bip_39_word_new_br_9 | until<br>such<br>belt<br>leaf<br>enact<br>curtain<br>must<br>cup<br>riot |  
+| bip_39_word_new_line_1 | until |  
+| bip_39_word_new_line_10 | until
 such
 belt
 leaf
@@ -55,7 +55,7 @@ must
 cup
 riot
 tumble |  
-| bip_39_word_new_line11 | until
+| bip_39_word_new_line_11 | until
 such
 belt
 leaf
@@ -66,7 +66,7 @@ cup
 riot
 tumble
 stem |  
-| bip_39_word_new_line12 | until
+| bip_39_word_new_line_12 | until
 such
 belt
 leaf
@@ -78,34 +78,34 @@ riot
 tumble
 stem
 animal |  
-| bip_39_word_new_line2 | until
+| bip_39_word_new_line_2 | until
 such |  
-| bip_39_word_new_line3 | until
+| bip_39_word_new_line_3 | until
 such
 belt |  
-| bip_39_word_new_line4 | until
+| bip_39_word_new_line_4 | until
 such
 belt
 leaf |  
-| bip_39_word_new_line5 | until
+| bip_39_word_new_line_5 | until
 such
 belt
 leaf
 enact |  
-| bip_39_word_new_line6 | until
+| bip_39_word_new_line_6 | until
 such
 belt
 leaf
 enact
 curtain |  
-| bip_39_word_new_line7 | until
+| bip_39_word_new_line_7 | until
 such
 belt
 leaf
 enact
 curtain
 must |  
-| bip_39_word_new_line8 | until
+| bip_39_word_new_line_8 | until
 such
 belt
 leaf
@@ -113,7 +113,7 @@ enact
 curtain
 must
 cup |  
-| bip_39_word_new_line9 | until
+| bip_39_word_new_line_9 | until
 such
 belt
 leaf

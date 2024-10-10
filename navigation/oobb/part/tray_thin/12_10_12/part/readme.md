@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | punch |  
-| bip_39_word_new_br10 | punch<br>survey<br>grace<br>whip<br>frost<br>success<br>peasant<br>prison<br>sign<br>predict |  
-| bip_39_word_new_br11 | punch<br>survey<br>grace<br>whip<br>frost<br>success<br>peasant<br>prison<br>sign<br>predict<br>scan |  
-| bip_39_word_new_br12 | punch<br>survey<br>grace<br>whip<br>frost<br>success<br>peasant<br>prison<br>sign<br>predict<br>scan<br>audit |  
-| bip_39_word_new_br2 | punch<br>survey |  
-| bip_39_word_new_br3 | punch<br>survey<br>grace |  
-| bip_39_word_new_br4 | punch<br>survey<br>grace<br>whip |  
-| bip_39_word_new_br5 | punch<br>survey<br>grace<br>whip<br>frost |  
-| bip_39_word_new_br6 | punch<br>survey<br>grace<br>whip<br>frost<br>success |  
-| bip_39_word_new_br7 | punch<br>survey<br>grace<br>whip<br>frost<br>success<br>peasant |  
-| bip_39_word_new_br8 | punch<br>survey<br>grace<br>whip<br>frost<br>success<br>peasant<br>prison |  
-| bip_39_word_new_br9 | punch<br>survey<br>grace<br>whip<br>frost<br>success<br>peasant<br>prison<br>sign |  
-| bip_39_word_new_line1 | punch |  
-| bip_39_word_new_line10 | punch
+| bip_39_word_new_br_1 | punch |  
+| bip_39_word_new_br_10 | punch<br>survey<br>grace<br>whip<br>frost<br>success<br>peasant<br>prison<br>sign<br>predict |  
+| bip_39_word_new_br_11 | punch<br>survey<br>grace<br>whip<br>frost<br>success<br>peasant<br>prison<br>sign<br>predict<br>scan |  
+| bip_39_word_new_br_12 | punch<br>survey<br>grace<br>whip<br>frost<br>success<br>peasant<br>prison<br>sign<br>predict<br>scan<br>audit |  
+| bip_39_word_new_br_2 | punch<br>survey |  
+| bip_39_word_new_br_3 | punch<br>survey<br>grace |  
+| bip_39_word_new_br_4 | punch<br>survey<br>grace<br>whip |  
+| bip_39_word_new_br_5 | punch<br>survey<br>grace<br>whip<br>frost |  
+| bip_39_word_new_br_6 | punch<br>survey<br>grace<br>whip<br>frost<br>success |  
+| bip_39_word_new_br_7 | punch<br>survey<br>grace<br>whip<br>frost<br>success<br>peasant |  
+| bip_39_word_new_br_8 | punch<br>survey<br>grace<br>whip<br>frost<br>success<br>peasant<br>prison |  
+| bip_39_word_new_br_9 | punch<br>survey<br>grace<br>whip<br>frost<br>success<br>peasant<br>prison<br>sign |  
+| bip_39_word_new_line_1 | punch |  
+| bip_39_word_new_line_10 | punch
 survey
 grace
 whip
@@ -55,7 +55,7 @@ peasant
 prison
 sign
 predict |  
-| bip_39_word_new_line11 | punch
+| bip_39_word_new_line_11 | punch
 survey
 grace
 whip
@@ -66,7 +66,7 @@ prison
 sign
 predict
 scan |  
-| bip_39_word_new_line12 | punch
+| bip_39_word_new_line_12 | punch
 survey
 grace
 whip
@@ -78,34 +78,34 @@ sign
 predict
 scan
 audit |  
-| bip_39_word_new_line2 | punch
+| bip_39_word_new_line_2 | punch
 survey |  
-| bip_39_word_new_line3 | punch
+| bip_39_word_new_line_3 | punch
 survey
 grace |  
-| bip_39_word_new_line4 | punch
+| bip_39_word_new_line_4 | punch
 survey
 grace
 whip |  
-| bip_39_word_new_line5 | punch
+| bip_39_word_new_line_5 | punch
 survey
 grace
 whip
 frost |  
-| bip_39_word_new_line6 | punch
+| bip_39_word_new_line_6 | punch
 survey
 grace
 whip
 frost
 success |  
-| bip_39_word_new_line7 | punch
+| bip_39_word_new_line_7 | punch
 survey
 grace
 whip
 frost
 success
 peasant |  
-| bip_39_word_new_line8 | punch
+| bip_39_word_new_line_8 | punch
 survey
 grace
 whip
@@ -113,7 +113,7 @@ frost
 success
 peasant
 prison |  
-| bip_39_word_new_line9 | punch
+| bip_39_word_new_line_9 | punch
 survey
 grace
 whip

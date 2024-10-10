@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | scheme |  
-| bip_39_word_new_br10 | scheme<br>then<br>become<br>girl<br>question<br>image<br>exile<br>shrug<br>bounce<br>lonely |  
-| bip_39_word_new_br11 | scheme<br>then<br>become<br>girl<br>question<br>image<br>exile<br>shrug<br>bounce<br>lonely<br>erase |  
-| bip_39_word_new_br12 | scheme<br>then<br>become<br>girl<br>question<br>image<br>exile<br>shrug<br>bounce<br>lonely<br>erase<br>arm |  
-| bip_39_word_new_br2 | scheme<br>then |  
-| bip_39_word_new_br3 | scheme<br>then<br>become |  
-| bip_39_word_new_br4 | scheme<br>then<br>become<br>girl |  
-| bip_39_word_new_br5 | scheme<br>then<br>become<br>girl<br>question |  
-| bip_39_word_new_br6 | scheme<br>then<br>become<br>girl<br>question<br>image |  
-| bip_39_word_new_br7 | scheme<br>then<br>become<br>girl<br>question<br>image<br>exile |  
-| bip_39_word_new_br8 | scheme<br>then<br>become<br>girl<br>question<br>image<br>exile<br>shrug |  
-| bip_39_word_new_br9 | scheme<br>then<br>become<br>girl<br>question<br>image<br>exile<br>shrug<br>bounce |  
-| bip_39_word_new_line1 | scheme |  
-| bip_39_word_new_line10 | scheme
+| bip_39_word_new_br_1 | scheme |  
+| bip_39_word_new_br_10 | scheme<br>then<br>become<br>girl<br>question<br>image<br>exile<br>shrug<br>bounce<br>lonely |  
+| bip_39_word_new_br_11 | scheme<br>then<br>become<br>girl<br>question<br>image<br>exile<br>shrug<br>bounce<br>lonely<br>erase |  
+| bip_39_word_new_br_12 | scheme<br>then<br>become<br>girl<br>question<br>image<br>exile<br>shrug<br>bounce<br>lonely<br>erase<br>arm |  
+| bip_39_word_new_br_2 | scheme<br>then |  
+| bip_39_word_new_br_3 | scheme<br>then<br>become |  
+| bip_39_word_new_br_4 | scheme<br>then<br>become<br>girl |  
+| bip_39_word_new_br_5 | scheme<br>then<br>become<br>girl<br>question |  
+| bip_39_word_new_br_6 | scheme<br>then<br>become<br>girl<br>question<br>image |  
+| bip_39_word_new_br_7 | scheme<br>then<br>become<br>girl<br>question<br>image<br>exile |  
+| bip_39_word_new_br_8 | scheme<br>then<br>become<br>girl<br>question<br>image<br>exile<br>shrug |  
+| bip_39_word_new_br_9 | scheme<br>then<br>become<br>girl<br>question<br>image<br>exile<br>shrug<br>bounce |  
+| bip_39_word_new_line_1 | scheme |  
+| bip_39_word_new_line_10 | scheme
 then
 become
 girl
@@ -55,7 +55,7 @@ exile
 shrug
 bounce
 lonely |  
-| bip_39_word_new_line11 | scheme
+| bip_39_word_new_line_11 | scheme
 then
 become
 girl
@@ -66,7 +66,7 @@ shrug
 bounce
 lonely
 erase |  
-| bip_39_word_new_line12 | scheme
+| bip_39_word_new_line_12 | scheme
 then
 become
 girl
@@ -78,34 +78,34 @@ bounce
 lonely
 erase
 arm |  
-| bip_39_word_new_line2 | scheme
+| bip_39_word_new_line_2 | scheme
 then |  
-| bip_39_word_new_line3 | scheme
+| bip_39_word_new_line_3 | scheme
 then
 become |  
-| bip_39_word_new_line4 | scheme
+| bip_39_word_new_line_4 | scheme
 then
 become
 girl |  
-| bip_39_word_new_line5 | scheme
+| bip_39_word_new_line_5 | scheme
 then
 become
 girl
 question |  
-| bip_39_word_new_line6 | scheme
+| bip_39_word_new_line_6 | scheme
 then
 become
 girl
 question
 image |  
-| bip_39_word_new_line7 | scheme
+| bip_39_word_new_line_7 | scheme
 then
 become
 girl
 question
 image
 exile |  
-| bip_39_word_new_line8 | scheme
+| bip_39_word_new_line_8 | scheme
 then
 become
 girl
@@ -113,7 +113,7 @@ question
 image
 exile
 shrug |  
-| bip_39_word_new_line9 | scheme
+| bip_39_word_new_line_9 | scheme
 then
 become
 girl

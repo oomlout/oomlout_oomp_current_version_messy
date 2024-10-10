@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | define |  
-| bip_39_word_new_br10 | define<br>flip<br>uphold<br>dove<br>minimum<br>possible<br>crater<br>double<br>save<br>off |  
-| bip_39_word_new_br11 | define<br>flip<br>uphold<br>dove<br>minimum<br>possible<br>crater<br>double<br>save<br>off<br>night |  
-| bip_39_word_new_br12 | define<br>flip<br>uphold<br>dove<br>minimum<br>possible<br>crater<br>double<br>save<br>off<br>night<br>aerobic |  
-| bip_39_word_new_br2 | define<br>flip |  
-| bip_39_word_new_br3 | define<br>flip<br>uphold |  
-| bip_39_word_new_br4 | define<br>flip<br>uphold<br>dove |  
-| bip_39_word_new_br5 | define<br>flip<br>uphold<br>dove<br>minimum |  
-| bip_39_word_new_br6 | define<br>flip<br>uphold<br>dove<br>minimum<br>possible |  
-| bip_39_word_new_br7 | define<br>flip<br>uphold<br>dove<br>minimum<br>possible<br>crater |  
-| bip_39_word_new_br8 | define<br>flip<br>uphold<br>dove<br>minimum<br>possible<br>crater<br>double |  
-| bip_39_word_new_br9 | define<br>flip<br>uphold<br>dove<br>minimum<br>possible<br>crater<br>double<br>save |  
-| bip_39_word_new_line1 | define |  
-| bip_39_word_new_line10 | define
+| bip_39_word_new_br_1 | define |  
+| bip_39_word_new_br_10 | define<br>flip<br>uphold<br>dove<br>minimum<br>possible<br>crater<br>double<br>save<br>off |  
+| bip_39_word_new_br_11 | define<br>flip<br>uphold<br>dove<br>minimum<br>possible<br>crater<br>double<br>save<br>off<br>night |  
+| bip_39_word_new_br_12 | define<br>flip<br>uphold<br>dove<br>minimum<br>possible<br>crater<br>double<br>save<br>off<br>night<br>aerobic |  
+| bip_39_word_new_br_2 | define<br>flip |  
+| bip_39_word_new_br_3 | define<br>flip<br>uphold |  
+| bip_39_word_new_br_4 | define<br>flip<br>uphold<br>dove |  
+| bip_39_word_new_br_5 | define<br>flip<br>uphold<br>dove<br>minimum |  
+| bip_39_word_new_br_6 | define<br>flip<br>uphold<br>dove<br>minimum<br>possible |  
+| bip_39_word_new_br_7 | define<br>flip<br>uphold<br>dove<br>minimum<br>possible<br>crater |  
+| bip_39_word_new_br_8 | define<br>flip<br>uphold<br>dove<br>minimum<br>possible<br>crater<br>double |  
+| bip_39_word_new_br_9 | define<br>flip<br>uphold<br>dove<br>minimum<br>possible<br>crater<br>double<br>save |  
+| bip_39_word_new_line_1 | define |  
+| bip_39_word_new_line_10 | define
 flip
 uphold
 dove
@@ -55,7 +55,7 @@ crater
 double
 save
 off |  
-| bip_39_word_new_line11 | define
+| bip_39_word_new_line_11 | define
 flip
 uphold
 dove
@@ -66,7 +66,7 @@ double
 save
 off
 night |  
-| bip_39_word_new_line12 | define
+| bip_39_word_new_line_12 | define
 flip
 uphold
 dove
@@ -78,34 +78,34 @@ save
 off
 night
 aerobic |  
-| bip_39_word_new_line2 | define
+| bip_39_word_new_line_2 | define
 flip |  
-| bip_39_word_new_line3 | define
+| bip_39_word_new_line_3 | define
 flip
 uphold |  
-| bip_39_word_new_line4 | define
+| bip_39_word_new_line_4 | define
 flip
 uphold
 dove |  
-| bip_39_word_new_line5 | define
+| bip_39_word_new_line_5 | define
 flip
 uphold
 dove
 minimum |  
-| bip_39_word_new_line6 | define
+| bip_39_word_new_line_6 | define
 flip
 uphold
 dove
 minimum
 possible |  
-| bip_39_word_new_line7 | define
+| bip_39_word_new_line_7 | define
 flip
 uphold
 dove
 minimum
 possible
 crater |  
-| bip_39_word_new_line8 | define
+| bip_39_word_new_line_8 | define
 flip
 uphold
 dove
@@ -113,7 +113,7 @@ minimum
 possible
 crater
 double |  
-| bip_39_word_new_line9 | define
+| bip_39_word_new_line_9 | define
 flip
 uphold
 dove

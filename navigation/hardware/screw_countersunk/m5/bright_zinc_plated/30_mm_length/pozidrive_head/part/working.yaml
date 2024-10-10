@@ -1,17 +1,17 @@
-bip_39_word_new_br1: around
-bip_39_word_new_br10: around<br>say<br>return<br>just<br>funny<br>knife<br>claw<br>unhappy<br>citizen<br>hotel
-bip_39_word_new_br11: around<br>say<br>return<br>just<br>funny<br>knife<br>claw<br>unhappy<br>citizen<br>hotel<br>slim
-bip_39_word_new_br12: around<br>say<br>return<br>just<br>funny<br>knife<br>claw<br>unhappy<br>citizen<br>hotel<br>slim<br>adapt
-bip_39_word_new_br2: around<br>say
-bip_39_word_new_br3: around<br>say<br>return
-bip_39_word_new_br4: around<br>say<br>return<br>just
-bip_39_word_new_br5: around<br>say<br>return<br>just<br>funny
-bip_39_word_new_br6: around<br>say<br>return<br>just<br>funny<br>knife
-bip_39_word_new_br7: around<br>say<br>return<br>just<br>funny<br>knife<br>claw
-bip_39_word_new_br8: around<br>say<br>return<br>just<br>funny<br>knife<br>claw<br>unhappy
-bip_39_word_new_br9: around<br>say<br>return<br>just<br>funny<br>knife<br>claw<br>unhappy<br>citizen
-bip_39_word_new_line1: around
-bip_39_word_new_line10: 'around
+bip_39_word_new_br_1: around
+bip_39_word_new_br_10: around<br>say<br>return<br>just<br>funny<br>knife<br>claw<br>unhappy<br>citizen<br>hotel
+bip_39_word_new_br_11: around<br>say<br>return<br>just<br>funny<br>knife<br>claw<br>unhappy<br>citizen<br>hotel<br>slim
+bip_39_word_new_br_12: around<br>say<br>return<br>just<br>funny<br>knife<br>claw<br>unhappy<br>citizen<br>hotel<br>slim<br>adapt
+bip_39_word_new_br_2: around<br>say
+bip_39_word_new_br_3: around<br>say<br>return
+bip_39_word_new_br_4: around<br>say<br>return<br>just
+bip_39_word_new_br_5: around<br>say<br>return<br>just<br>funny
+bip_39_word_new_br_6: around<br>say<br>return<br>just<br>funny<br>knife
+bip_39_word_new_br_7: around<br>say<br>return<br>just<br>funny<br>knife<br>claw
+bip_39_word_new_br_8: around<br>say<br>return<br>just<br>funny<br>knife<br>claw<br>unhappy
+bip_39_word_new_br_9: around<br>say<br>return<br>just<br>funny<br>knife<br>claw<br>unhappy<br>citizen
+bip_39_word_new_line_1: around
+bip_39_word_new_line_10: 'around
 
   say
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'around
   citizen
 
   hotel'
-bip_39_word_new_line11: 'around
+bip_39_word_new_line_11: 'around
 
   say
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'around
   hotel
 
   slim'
-bip_39_word_new_line12: 'around
+bip_39_word_new_line_12: 'around
 
   say
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'around
   slim
 
   adapt'
-bip_39_word_new_line2: 'around
+bip_39_word_new_line_2: 'around
 
   say'
-bip_39_word_new_line3: 'around
+bip_39_word_new_line_3: 'around
 
   say
 
   return'
-bip_39_word_new_line4: 'around
+bip_39_word_new_line_4: 'around
 
   say
 
   return
 
   just'
-bip_39_word_new_line5: 'around
+bip_39_word_new_line_5: 'around
 
   say
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'around
   just
 
   funny'
-bip_39_word_new_line6: 'around
+bip_39_word_new_line_6: 'around
 
   say
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'around
   funny
 
   knife'
-bip_39_word_new_line7: 'around
+bip_39_word_new_line_7: 'around
 
   say
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'around
   knife
 
   claw'
-bip_39_word_new_line8: 'around
+bip_39_word_new_line_8: 'around
 
   say
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'around
   claw
 
   unhappy'
-bip_39_word_new_line9: 'around
+bip_39_word_new_line_9: 'around
 
   say
 

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | crush |  
-| bip_39_word_new_br10 | crush<br>pony<br>hamster<br>bean<br>genius<br>subject<br>next<br>coil<br>sentence<br>steak |  
-| bip_39_word_new_br11 | crush<br>pony<br>hamster<br>bean<br>genius<br>subject<br>next<br>coil<br>sentence<br>steak<br>outdoor |  
-| bip_39_word_new_br12 | crush<br>pony<br>hamster<br>bean<br>genius<br>subject<br>next<br>coil<br>sentence<br>steak<br>outdoor<br>avocado |  
-| bip_39_word_new_br2 | crush<br>pony |  
-| bip_39_word_new_br3 | crush<br>pony<br>hamster |  
-| bip_39_word_new_br4 | crush<br>pony<br>hamster<br>bean |  
-| bip_39_word_new_br5 | crush<br>pony<br>hamster<br>bean<br>genius |  
-| bip_39_word_new_br6 | crush<br>pony<br>hamster<br>bean<br>genius<br>subject |  
-| bip_39_word_new_br7 | crush<br>pony<br>hamster<br>bean<br>genius<br>subject<br>next |  
-| bip_39_word_new_br8 | crush<br>pony<br>hamster<br>bean<br>genius<br>subject<br>next<br>coil |  
-| bip_39_word_new_br9 | crush<br>pony<br>hamster<br>bean<br>genius<br>subject<br>next<br>coil<br>sentence |  
-| bip_39_word_new_line1 | crush |  
-| bip_39_word_new_line10 | crush
+| bip_39_word_new_br_1 | crush |  
+| bip_39_word_new_br_10 | crush<br>pony<br>hamster<br>bean<br>genius<br>subject<br>next<br>coil<br>sentence<br>steak |  
+| bip_39_word_new_br_11 | crush<br>pony<br>hamster<br>bean<br>genius<br>subject<br>next<br>coil<br>sentence<br>steak<br>outdoor |  
+| bip_39_word_new_br_12 | crush<br>pony<br>hamster<br>bean<br>genius<br>subject<br>next<br>coil<br>sentence<br>steak<br>outdoor<br>avocado |  
+| bip_39_word_new_br_2 | crush<br>pony |  
+| bip_39_word_new_br_3 | crush<br>pony<br>hamster |  
+| bip_39_word_new_br_4 | crush<br>pony<br>hamster<br>bean |  
+| bip_39_word_new_br_5 | crush<br>pony<br>hamster<br>bean<br>genius |  
+| bip_39_word_new_br_6 | crush<br>pony<br>hamster<br>bean<br>genius<br>subject |  
+| bip_39_word_new_br_7 | crush<br>pony<br>hamster<br>bean<br>genius<br>subject<br>next |  
+| bip_39_word_new_br_8 | crush<br>pony<br>hamster<br>bean<br>genius<br>subject<br>next<br>coil |  
+| bip_39_word_new_br_9 | crush<br>pony<br>hamster<br>bean<br>genius<br>subject<br>next<br>coil<br>sentence |  
+| bip_39_word_new_line_1 | crush |  
+| bip_39_word_new_line_10 | crush
 pony
 hamster
 bean
@@ -55,7 +55,7 @@ next
 coil
 sentence
 steak |  
-| bip_39_word_new_line11 | crush
+| bip_39_word_new_line_11 | crush
 pony
 hamster
 bean
@@ -66,7 +66,7 @@ coil
 sentence
 steak
 outdoor |  
-| bip_39_word_new_line12 | crush
+| bip_39_word_new_line_12 | crush
 pony
 hamster
 bean
@@ -78,34 +78,34 @@ sentence
 steak
 outdoor
 avocado |  
-| bip_39_word_new_line2 | crush
+| bip_39_word_new_line_2 | crush
 pony |  
-| bip_39_word_new_line3 | crush
+| bip_39_word_new_line_3 | crush
 pony
 hamster |  
-| bip_39_word_new_line4 | crush
+| bip_39_word_new_line_4 | crush
 pony
 hamster
 bean |  
-| bip_39_word_new_line5 | crush
+| bip_39_word_new_line_5 | crush
 pony
 hamster
 bean
 genius |  
-| bip_39_word_new_line6 | crush
+| bip_39_word_new_line_6 | crush
 pony
 hamster
 bean
 genius
 subject |  
-| bip_39_word_new_line7 | crush
+| bip_39_word_new_line_7 | crush
 pony
 hamster
 bean
 genius
 subject
 next |  
-| bip_39_word_new_line8 | crush
+| bip_39_word_new_line_8 | crush
 pony
 hamster
 bean
@@ -113,7 +113,7 @@ genius
 subject
 next
 coil |  
-| bip_39_word_new_line9 | crush
+| bip_39_word_new_line_9 | crush
 pony
 hamster
 bean

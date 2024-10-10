@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wheel |  
-| bip_39_word_new_br10 | wheel<br>course<br>diary<br>quote<br>rug<br>debate<br>rescue<br>erase<br>praise<br>bridge |  
-| bip_39_word_new_br11 | wheel<br>course<br>diary<br>quote<br>rug<br>debate<br>rescue<br>erase<br>praise<br>bridge<br>reform |  
-| bip_39_word_new_br12 | wheel<br>course<br>diary<br>quote<br>rug<br>debate<br>rescue<br>erase<br>praise<br>bridge<br>reform<br>amused |  
-| bip_39_word_new_br2 | wheel<br>course |  
-| bip_39_word_new_br3 | wheel<br>course<br>diary |  
-| bip_39_word_new_br4 | wheel<br>course<br>diary<br>quote |  
-| bip_39_word_new_br5 | wheel<br>course<br>diary<br>quote<br>rug |  
-| bip_39_word_new_br6 | wheel<br>course<br>diary<br>quote<br>rug<br>debate |  
-| bip_39_word_new_br7 | wheel<br>course<br>diary<br>quote<br>rug<br>debate<br>rescue |  
-| bip_39_word_new_br8 | wheel<br>course<br>diary<br>quote<br>rug<br>debate<br>rescue<br>erase |  
-| bip_39_word_new_br9 | wheel<br>course<br>diary<br>quote<br>rug<br>debate<br>rescue<br>erase<br>praise |  
-| bip_39_word_new_line1 | wheel |  
-| bip_39_word_new_line10 | wheel
+| bip_39_word_new_br_1 | wheel |  
+| bip_39_word_new_br_10 | wheel<br>course<br>diary<br>quote<br>rug<br>debate<br>rescue<br>erase<br>praise<br>bridge |  
+| bip_39_word_new_br_11 | wheel<br>course<br>diary<br>quote<br>rug<br>debate<br>rescue<br>erase<br>praise<br>bridge<br>reform |  
+| bip_39_word_new_br_12 | wheel<br>course<br>diary<br>quote<br>rug<br>debate<br>rescue<br>erase<br>praise<br>bridge<br>reform<br>amused |  
+| bip_39_word_new_br_2 | wheel<br>course |  
+| bip_39_word_new_br_3 | wheel<br>course<br>diary |  
+| bip_39_word_new_br_4 | wheel<br>course<br>diary<br>quote |  
+| bip_39_word_new_br_5 | wheel<br>course<br>diary<br>quote<br>rug |  
+| bip_39_word_new_br_6 | wheel<br>course<br>diary<br>quote<br>rug<br>debate |  
+| bip_39_word_new_br_7 | wheel<br>course<br>diary<br>quote<br>rug<br>debate<br>rescue |  
+| bip_39_word_new_br_8 | wheel<br>course<br>diary<br>quote<br>rug<br>debate<br>rescue<br>erase |  
+| bip_39_word_new_br_9 | wheel<br>course<br>diary<br>quote<br>rug<br>debate<br>rescue<br>erase<br>praise |  
+| bip_39_word_new_line_1 | wheel |  
+| bip_39_word_new_line_10 | wheel
 course
 diary
 quote
@@ -55,7 +55,7 @@ rescue
 erase
 praise
 bridge |  
-| bip_39_word_new_line11 | wheel
+| bip_39_word_new_line_11 | wheel
 course
 diary
 quote
@@ -66,7 +66,7 @@ erase
 praise
 bridge
 reform |  
-| bip_39_word_new_line12 | wheel
+| bip_39_word_new_line_12 | wheel
 course
 diary
 quote
@@ -78,34 +78,34 @@ praise
 bridge
 reform
 amused |  
-| bip_39_word_new_line2 | wheel
+| bip_39_word_new_line_2 | wheel
 course |  
-| bip_39_word_new_line3 | wheel
+| bip_39_word_new_line_3 | wheel
 course
 diary |  
-| bip_39_word_new_line4 | wheel
+| bip_39_word_new_line_4 | wheel
 course
 diary
 quote |  
-| bip_39_word_new_line5 | wheel
+| bip_39_word_new_line_5 | wheel
 course
 diary
 quote
 rug |  
-| bip_39_word_new_line6 | wheel
+| bip_39_word_new_line_6 | wheel
 course
 diary
 quote
 rug
 debate |  
-| bip_39_word_new_line7 | wheel
+| bip_39_word_new_line_7 | wheel
 course
 diary
 quote
 rug
 debate
 rescue |  
-| bip_39_word_new_line8 | wheel
+| bip_39_word_new_line_8 | wheel
 course
 diary
 quote
@@ -113,7 +113,7 @@ rug
 debate
 rescue
 erase |  
-| bip_39_word_new_line9 | wheel
+| bip_39_word_new_line_9 | wheel
 course
 diary
 quote

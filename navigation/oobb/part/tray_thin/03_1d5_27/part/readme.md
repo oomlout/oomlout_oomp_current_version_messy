@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | speak |  
-| bip_39_word_new_br10 | speak<br>fix<br>fog<br>slight<br>visa<br>army<br>math<br>cube<br>cliff<br>whale |  
-| bip_39_word_new_br11 | speak<br>fix<br>fog<br>slight<br>visa<br>army<br>math<br>cube<br>cliff<br>whale<br>cradle |  
-| bip_39_word_new_br12 | speak<br>fix<br>fog<br>slight<br>visa<br>army<br>math<br>cube<br>cliff<br>whale<br>cradle<br>anger |  
-| bip_39_word_new_br2 | speak<br>fix |  
-| bip_39_word_new_br3 | speak<br>fix<br>fog |  
-| bip_39_word_new_br4 | speak<br>fix<br>fog<br>slight |  
-| bip_39_word_new_br5 | speak<br>fix<br>fog<br>slight<br>visa |  
-| bip_39_word_new_br6 | speak<br>fix<br>fog<br>slight<br>visa<br>army |  
-| bip_39_word_new_br7 | speak<br>fix<br>fog<br>slight<br>visa<br>army<br>math |  
-| bip_39_word_new_br8 | speak<br>fix<br>fog<br>slight<br>visa<br>army<br>math<br>cube |  
-| bip_39_word_new_br9 | speak<br>fix<br>fog<br>slight<br>visa<br>army<br>math<br>cube<br>cliff |  
-| bip_39_word_new_line1 | speak |  
-| bip_39_word_new_line10 | speak
+| bip_39_word_new_br_1 | speak |  
+| bip_39_word_new_br_10 | speak<br>fix<br>fog<br>slight<br>visa<br>army<br>math<br>cube<br>cliff<br>whale |  
+| bip_39_word_new_br_11 | speak<br>fix<br>fog<br>slight<br>visa<br>army<br>math<br>cube<br>cliff<br>whale<br>cradle |  
+| bip_39_word_new_br_12 | speak<br>fix<br>fog<br>slight<br>visa<br>army<br>math<br>cube<br>cliff<br>whale<br>cradle<br>anger |  
+| bip_39_word_new_br_2 | speak<br>fix |  
+| bip_39_word_new_br_3 | speak<br>fix<br>fog |  
+| bip_39_word_new_br_4 | speak<br>fix<br>fog<br>slight |  
+| bip_39_word_new_br_5 | speak<br>fix<br>fog<br>slight<br>visa |  
+| bip_39_word_new_br_6 | speak<br>fix<br>fog<br>slight<br>visa<br>army |  
+| bip_39_word_new_br_7 | speak<br>fix<br>fog<br>slight<br>visa<br>army<br>math |  
+| bip_39_word_new_br_8 | speak<br>fix<br>fog<br>slight<br>visa<br>army<br>math<br>cube |  
+| bip_39_word_new_br_9 | speak<br>fix<br>fog<br>slight<br>visa<br>army<br>math<br>cube<br>cliff |  
+| bip_39_word_new_line_1 | speak |  
+| bip_39_word_new_line_10 | speak
 fix
 fog
 slight
@@ -55,7 +55,7 @@ math
 cube
 cliff
 whale |  
-| bip_39_word_new_line11 | speak
+| bip_39_word_new_line_11 | speak
 fix
 fog
 slight
@@ -66,7 +66,7 @@ cube
 cliff
 whale
 cradle |  
-| bip_39_word_new_line12 | speak
+| bip_39_word_new_line_12 | speak
 fix
 fog
 slight
@@ -78,34 +78,34 @@ cliff
 whale
 cradle
 anger |  
-| bip_39_word_new_line2 | speak
+| bip_39_word_new_line_2 | speak
 fix |  
-| bip_39_word_new_line3 | speak
+| bip_39_word_new_line_3 | speak
 fix
 fog |  
-| bip_39_word_new_line4 | speak
+| bip_39_word_new_line_4 | speak
 fix
 fog
 slight |  
-| bip_39_word_new_line5 | speak
+| bip_39_word_new_line_5 | speak
 fix
 fog
 slight
 visa |  
-| bip_39_word_new_line6 | speak
+| bip_39_word_new_line_6 | speak
 fix
 fog
 slight
 visa
 army |  
-| bip_39_word_new_line7 | speak
+| bip_39_word_new_line_7 | speak
 fix
 fog
 slight
 visa
 army
 math |  
-| bip_39_word_new_line8 | speak
+| bip_39_word_new_line_8 | speak
 fix
 fog
 slight
@@ -113,7 +113,7 @@ visa
 army
 math
 cube |  
-| bip_39_word_new_line9 | speak
+| bip_39_word_new_line_9 | speak
 fix
 fog
 slight

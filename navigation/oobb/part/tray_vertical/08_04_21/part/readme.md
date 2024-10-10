@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | load |  
-| bip_39_word_new_br10 | load<br>hedgehog<br>bonus<br>slam<br>hurt<br>patch<br>prison<br>embrace<br>hand<br>hope |  
-| bip_39_word_new_br11 | load<br>hedgehog<br>bonus<br>slam<br>hurt<br>patch<br>prison<br>embrace<br>hand<br>hope<br>eyebrow |  
-| bip_39_word_new_br12 | load<br>hedgehog<br>bonus<br>slam<br>hurt<br>patch<br>prison<br>embrace<br>hand<br>hope<br>eyebrow<br>assume |  
-| bip_39_word_new_br2 | load<br>hedgehog |  
-| bip_39_word_new_br3 | load<br>hedgehog<br>bonus |  
-| bip_39_word_new_br4 | load<br>hedgehog<br>bonus<br>slam |  
-| bip_39_word_new_br5 | load<br>hedgehog<br>bonus<br>slam<br>hurt |  
-| bip_39_word_new_br6 | load<br>hedgehog<br>bonus<br>slam<br>hurt<br>patch |  
-| bip_39_word_new_br7 | load<br>hedgehog<br>bonus<br>slam<br>hurt<br>patch<br>prison |  
-| bip_39_word_new_br8 | load<br>hedgehog<br>bonus<br>slam<br>hurt<br>patch<br>prison<br>embrace |  
-| bip_39_word_new_br9 | load<br>hedgehog<br>bonus<br>slam<br>hurt<br>patch<br>prison<br>embrace<br>hand |  
-| bip_39_word_new_line1 | load |  
-| bip_39_word_new_line10 | load
+| bip_39_word_new_br_1 | load |  
+| bip_39_word_new_br_10 | load<br>hedgehog<br>bonus<br>slam<br>hurt<br>patch<br>prison<br>embrace<br>hand<br>hope |  
+| bip_39_word_new_br_11 | load<br>hedgehog<br>bonus<br>slam<br>hurt<br>patch<br>prison<br>embrace<br>hand<br>hope<br>eyebrow |  
+| bip_39_word_new_br_12 | load<br>hedgehog<br>bonus<br>slam<br>hurt<br>patch<br>prison<br>embrace<br>hand<br>hope<br>eyebrow<br>assume |  
+| bip_39_word_new_br_2 | load<br>hedgehog |  
+| bip_39_word_new_br_3 | load<br>hedgehog<br>bonus |  
+| bip_39_word_new_br_4 | load<br>hedgehog<br>bonus<br>slam |  
+| bip_39_word_new_br_5 | load<br>hedgehog<br>bonus<br>slam<br>hurt |  
+| bip_39_word_new_br_6 | load<br>hedgehog<br>bonus<br>slam<br>hurt<br>patch |  
+| bip_39_word_new_br_7 | load<br>hedgehog<br>bonus<br>slam<br>hurt<br>patch<br>prison |  
+| bip_39_word_new_br_8 | load<br>hedgehog<br>bonus<br>slam<br>hurt<br>patch<br>prison<br>embrace |  
+| bip_39_word_new_br_9 | load<br>hedgehog<br>bonus<br>slam<br>hurt<br>patch<br>prison<br>embrace<br>hand |  
+| bip_39_word_new_line_1 | load |  
+| bip_39_word_new_line_10 | load
 hedgehog
 bonus
 slam
@@ -55,7 +55,7 @@ prison
 embrace
 hand
 hope |  
-| bip_39_word_new_line11 | load
+| bip_39_word_new_line_11 | load
 hedgehog
 bonus
 slam
@@ -66,7 +66,7 @@ embrace
 hand
 hope
 eyebrow |  
-| bip_39_word_new_line12 | load
+| bip_39_word_new_line_12 | load
 hedgehog
 bonus
 slam
@@ -78,34 +78,34 @@ hand
 hope
 eyebrow
 assume |  
-| bip_39_word_new_line2 | load
+| bip_39_word_new_line_2 | load
 hedgehog |  
-| bip_39_word_new_line3 | load
+| bip_39_word_new_line_3 | load
 hedgehog
 bonus |  
-| bip_39_word_new_line4 | load
+| bip_39_word_new_line_4 | load
 hedgehog
 bonus
 slam |  
-| bip_39_word_new_line5 | load
+| bip_39_word_new_line_5 | load
 hedgehog
 bonus
 slam
 hurt |  
-| bip_39_word_new_line6 | load
+| bip_39_word_new_line_6 | load
 hedgehog
 bonus
 slam
 hurt
 patch |  
-| bip_39_word_new_line7 | load
+| bip_39_word_new_line_7 | load
 hedgehog
 bonus
 slam
 hurt
 patch
 prison |  
-| bip_39_word_new_line8 | load
+| bip_39_word_new_line_8 | load
 hedgehog
 bonus
 slam
@@ -113,7 +113,7 @@ hurt
 patch
 prison
 embrace |  
-| bip_39_word_new_line9 | load
+| bip_39_word_new_line_9 | load
 hedgehog
 bonus
 slam

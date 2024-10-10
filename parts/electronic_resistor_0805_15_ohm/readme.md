@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | play |  
-| bip_39_word_new_br10 | play<br>target<br>obvious<br>accuse<br>annual<br>draft<br>inmate<br>tortoise<br>buffalo<br>duty |  
-| bip_39_word_new_br11 | play<br>target<br>obvious<br>accuse<br>annual<br>draft<br>inmate<br>tortoise<br>buffalo<br>duty<br>kid |  
-| bip_39_word_new_br12 | play<br>target<br>obvious<br>accuse<br>annual<br>draft<br>inmate<br>tortoise<br>buffalo<br>duty<br>kid<br>always |  
-| bip_39_word_new_br2 | play<br>target |  
-| bip_39_word_new_br3 | play<br>target<br>obvious |  
-| bip_39_word_new_br4 | play<br>target<br>obvious<br>accuse |  
-| bip_39_word_new_br5 | play<br>target<br>obvious<br>accuse<br>annual |  
-| bip_39_word_new_br6 | play<br>target<br>obvious<br>accuse<br>annual<br>draft |  
-| bip_39_word_new_br7 | play<br>target<br>obvious<br>accuse<br>annual<br>draft<br>inmate |  
-| bip_39_word_new_br8 | play<br>target<br>obvious<br>accuse<br>annual<br>draft<br>inmate<br>tortoise |  
-| bip_39_word_new_br9 | play<br>target<br>obvious<br>accuse<br>annual<br>draft<br>inmate<br>tortoise<br>buffalo |  
-| bip_39_word_new_line1 | play |  
-| bip_39_word_new_line10 | play
+| bip_39_word_new_br_1 | play |  
+| bip_39_word_new_br_10 | play<br>target<br>obvious<br>accuse<br>annual<br>draft<br>inmate<br>tortoise<br>buffalo<br>duty |  
+| bip_39_word_new_br_11 | play<br>target<br>obvious<br>accuse<br>annual<br>draft<br>inmate<br>tortoise<br>buffalo<br>duty<br>kid |  
+| bip_39_word_new_br_12 | play<br>target<br>obvious<br>accuse<br>annual<br>draft<br>inmate<br>tortoise<br>buffalo<br>duty<br>kid<br>always |  
+| bip_39_word_new_br_2 | play<br>target |  
+| bip_39_word_new_br_3 | play<br>target<br>obvious |  
+| bip_39_word_new_br_4 | play<br>target<br>obvious<br>accuse |  
+| bip_39_word_new_br_5 | play<br>target<br>obvious<br>accuse<br>annual |  
+| bip_39_word_new_br_6 | play<br>target<br>obvious<br>accuse<br>annual<br>draft |  
+| bip_39_word_new_br_7 | play<br>target<br>obvious<br>accuse<br>annual<br>draft<br>inmate |  
+| bip_39_word_new_br_8 | play<br>target<br>obvious<br>accuse<br>annual<br>draft<br>inmate<br>tortoise |  
+| bip_39_word_new_br_9 | play<br>target<br>obvious<br>accuse<br>annual<br>draft<br>inmate<br>tortoise<br>buffalo |  
+| bip_39_word_new_line_1 | play |  
+| bip_39_word_new_line_10 | play
 target
 obvious
 accuse
@@ -55,7 +55,7 @@ inmate
 tortoise
 buffalo
 duty |  
-| bip_39_word_new_line11 | play
+| bip_39_word_new_line_11 | play
 target
 obvious
 accuse
@@ -66,7 +66,7 @@ tortoise
 buffalo
 duty
 kid |  
-| bip_39_word_new_line12 | play
+| bip_39_word_new_line_12 | play
 target
 obvious
 accuse
@@ -78,34 +78,34 @@ buffalo
 duty
 kid
 always |  
-| bip_39_word_new_line2 | play
+| bip_39_word_new_line_2 | play
 target |  
-| bip_39_word_new_line3 | play
+| bip_39_word_new_line_3 | play
 target
 obvious |  
-| bip_39_word_new_line4 | play
+| bip_39_word_new_line_4 | play
 target
 obvious
 accuse |  
-| bip_39_word_new_line5 | play
+| bip_39_word_new_line_5 | play
 target
 obvious
 accuse
 annual |  
-| bip_39_word_new_line6 | play
+| bip_39_word_new_line_6 | play
 target
 obvious
 accuse
 annual
 draft |  
-| bip_39_word_new_line7 | play
+| bip_39_word_new_line_7 | play
 target
 obvious
 accuse
 annual
 draft
 inmate |  
-| bip_39_word_new_line8 | play
+| bip_39_word_new_line_8 | play
 target
 obvious
 accuse
@@ -113,7 +113,7 @@ annual
 draft
 inmate
 tortoise |  
-| bip_39_word_new_line9 | play
+| bip_39_word_new_line_9 | play
 target
 obvious
 accuse

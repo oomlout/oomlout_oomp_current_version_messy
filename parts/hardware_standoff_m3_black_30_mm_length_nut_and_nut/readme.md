@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | middle |  
-| bip_39_word_new_br10 | middle<br>fan<br>obscure<br>talk<br>issue<br>topple<br>crash<br>town<br>spare<br>veteran |  
-| bip_39_word_new_br11 | middle<br>fan<br>obscure<br>talk<br>issue<br>topple<br>crash<br>town<br>spare<br>veteran<br>zebra |  
-| bip_39_word_new_br12 | middle<br>fan<br>obscure<br>talk<br>issue<br>topple<br>crash<br>town<br>spare<br>veteran<br>zebra<br>aisle |  
-| bip_39_word_new_br2 | middle<br>fan |  
-| bip_39_word_new_br3 | middle<br>fan<br>obscure |  
-| bip_39_word_new_br4 | middle<br>fan<br>obscure<br>talk |  
-| bip_39_word_new_br5 | middle<br>fan<br>obscure<br>talk<br>issue |  
-| bip_39_word_new_br6 | middle<br>fan<br>obscure<br>talk<br>issue<br>topple |  
-| bip_39_word_new_br7 | middle<br>fan<br>obscure<br>talk<br>issue<br>topple<br>crash |  
-| bip_39_word_new_br8 | middle<br>fan<br>obscure<br>talk<br>issue<br>topple<br>crash<br>town |  
-| bip_39_word_new_br9 | middle<br>fan<br>obscure<br>talk<br>issue<br>topple<br>crash<br>town<br>spare |  
-| bip_39_word_new_line1 | middle |  
-| bip_39_word_new_line10 | middle
+| bip_39_word_new_br_1 | middle |  
+| bip_39_word_new_br_10 | middle<br>fan<br>obscure<br>talk<br>issue<br>topple<br>crash<br>town<br>spare<br>veteran |  
+| bip_39_word_new_br_11 | middle<br>fan<br>obscure<br>talk<br>issue<br>topple<br>crash<br>town<br>spare<br>veteran<br>zebra |  
+| bip_39_word_new_br_12 | middle<br>fan<br>obscure<br>talk<br>issue<br>topple<br>crash<br>town<br>spare<br>veteran<br>zebra<br>aisle |  
+| bip_39_word_new_br_2 | middle<br>fan |  
+| bip_39_word_new_br_3 | middle<br>fan<br>obscure |  
+| bip_39_word_new_br_4 | middle<br>fan<br>obscure<br>talk |  
+| bip_39_word_new_br_5 | middle<br>fan<br>obscure<br>talk<br>issue |  
+| bip_39_word_new_br_6 | middle<br>fan<br>obscure<br>talk<br>issue<br>topple |  
+| bip_39_word_new_br_7 | middle<br>fan<br>obscure<br>talk<br>issue<br>topple<br>crash |  
+| bip_39_word_new_br_8 | middle<br>fan<br>obscure<br>talk<br>issue<br>topple<br>crash<br>town |  
+| bip_39_word_new_br_9 | middle<br>fan<br>obscure<br>talk<br>issue<br>topple<br>crash<br>town<br>spare |  
+| bip_39_word_new_line_1 | middle |  
+| bip_39_word_new_line_10 | middle
 fan
 obscure
 talk
@@ -55,7 +55,7 @@ crash
 town
 spare
 veteran |  
-| bip_39_word_new_line11 | middle
+| bip_39_word_new_line_11 | middle
 fan
 obscure
 talk
@@ -66,7 +66,7 @@ town
 spare
 veteran
 zebra |  
-| bip_39_word_new_line12 | middle
+| bip_39_word_new_line_12 | middle
 fan
 obscure
 talk
@@ -78,34 +78,34 @@ spare
 veteran
 zebra
 aisle |  
-| bip_39_word_new_line2 | middle
+| bip_39_word_new_line_2 | middle
 fan |  
-| bip_39_word_new_line3 | middle
+| bip_39_word_new_line_3 | middle
 fan
 obscure |  
-| bip_39_word_new_line4 | middle
+| bip_39_word_new_line_4 | middle
 fan
 obscure
 talk |  
-| bip_39_word_new_line5 | middle
+| bip_39_word_new_line_5 | middle
 fan
 obscure
 talk
 issue |  
-| bip_39_word_new_line6 | middle
+| bip_39_word_new_line_6 | middle
 fan
 obscure
 talk
 issue
 topple |  
-| bip_39_word_new_line7 | middle
+| bip_39_word_new_line_7 | middle
 fan
 obscure
 talk
 issue
 topple
 crash |  
-| bip_39_word_new_line8 | middle
+| bip_39_word_new_line_8 | middle
 fan
 obscure
 talk
@@ -113,7 +113,7 @@ issue
 topple
 crash
 town |  
-| bip_39_word_new_line9 | middle
+| bip_39_word_new_line_9 | middle
 fan
 obscure
 talk

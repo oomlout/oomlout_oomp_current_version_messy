@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | margin |  
-| bip_39_word_new_br10 | margin<br>bread<br>echo<br>task<br>armor<br>twist<br>raven<br>renew<br>symptom<br>mechanic |  
-| bip_39_word_new_br11 | margin<br>bread<br>echo<br>task<br>armor<br>twist<br>raven<br>renew<br>symptom<br>mechanic<br>gravity |  
-| bip_39_word_new_br12 | margin<br>bread<br>echo<br>task<br>armor<br>twist<br>raven<br>renew<br>symptom<br>mechanic<br>gravity<br>army |  
-| bip_39_word_new_br2 | margin<br>bread |  
-| bip_39_word_new_br3 | margin<br>bread<br>echo |  
-| bip_39_word_new_br4 | margin<br>bread<br>echo<br>task |  
-| bip_39_word_new_br5 | margin<br>bread<br>echo<br>task<br>armor |  
-| bip_39_word_new_br6 | margin<br>bread<br>echo<br>task<br>armor<br>twist |  
-| bip_39_word_new_br7 | margin<br>bread<br>echo<br>task<br>armor<br>twist<br>raven |  
-| bip_39_word_new_br8 | margin<br>bread<br>echo<br>task<br>armor<br>twist<br>raven<br>renew |  
-| bip_39_word_new_br9 | margin<br>bread<br>echo<br>task<br>armor<br>twist<br>raven<br>renew<br>symptom |  
-| bip_39_word_new_line1 | margin |  
-| bip_39_word_new_line10 | margin
+| bip_39_word_new_br_1 | margin |  
+| bip_39_word_new_br_10 | margin<br>bread<br>echo<br>task<br>armor<br>twist<br>raven<br>renew<br>symptom<br>mechanic |  
+| bip_39_word_new_br_11 | margin<br>bread<br>echo<br>task<br>armor<br>twist<br>raven<br>renew<br>symptom<br>mechanic<br>gravity |  
+| bip_39_word_new_br_12 | margin<br>bread<br>echo<br>task<br>armor<br>twist<br>raven<br>renew<br>symptom<br>mechanic<br>gravity<br>army |  
+| bip_39_word_new_br_2 | margin<br>bread |  
+| bip_39_word_new_br_3 | margin<br>bread<br>echo |  
+| bip_39_word_new_br_4 | margin<br>bread<br>echo<br>task |  
+| bip_39_word_new_br_5 | margin<br>bread<br>echo<br>task<br>armor |  
+| bip_39_word_new_br_6 | margin<br>bread<br>echo<br>task<br>armor<br>twist |  
+| bip_39_word_new_br_7 | margin<br>bread<br>echo<br>task<br>armor<br>twist<br>raven |  
+| bip_39_word_new_br_8 | margin<br>bread<br>echo<br>task<br>armor<br>twist<br>raven<br>renew |  
+| bip_39_word_new_br_9 | margin<br>bread<br>echo<br>task<br>armor<br>twist<br>raven<br>renew<br>symptom |  
+| bip_39_word_new_line_1 | margin |  
+| bip_39_word_new_line_10 | margin
 bread
 echo
 task
@@ -55,7 +55,7 @@ raven
 renew
 symptom
 mechanic |  
-| bip_39_word_new_line11 | margin
+| bip_39_word_new_line_11 | margin
 bread
 echo
 task
@@ -66,7 +66,7 @@ renew
 symptom
 mechanic
 gravity |  
-| bip_39_word_new_line12 | margin
+| bip_39_word_new_line_12 | margin
 bread
 echo
 task
@@ -78,34 +78,34 @@ symptom
 mechanic
 gravity
 army |  
-| bip_39_word_new_line2 | margin
+| bip_39_word_new_line_2 | margin
 bread |  
-| bip_39_word_new_line3 | margin
+| bip_39_word_new_line_3 | margin
 bread
 echo |  
-| bip_39_word_new_line4 | margin
+| bip_39_word_new_line_4 | margin
 bread
 echo
 task |  
-| bip_39_word_new_line5 | margin
+| bip_39_word_new_line_5 | margin
 bread
 echo
 task
 armor |  
-| bip_39_word_new_line6 | margin
+| bip_39_word_new_line_6 | margin
 bread
 echo
 task
 armor
 twist |  
-| bip_39_word_new_line7 | margin
+| bip_39_word_new_line_7 | margin
 bread
 echo
 task
 armor
 twist
 raven |  
-| bip_39_word_new_line8 | margin
+| bip_39_word_new_line_8 | margin
 bread
 echo
 task
@@ -113,7 +113,7 @@ armor
 twist
 raven
 renew |  
-| bip_39_word_new_line9 | margin
+| bip_39_word_new_line_9 | margin
 bread
 echo
 task

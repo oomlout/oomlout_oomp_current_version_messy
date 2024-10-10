@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | digital |  
-| bip_39_word_new_br10 | digital<br>reject<br>swim<br>little<br>kingdom<br>nest<br>fame<br>veteran<br>involve<br>river |  
-| bip_39_word_new_br11 | digital<br>reject<br>swim<br>little<br>kingdom<br>nest<br>fame<br>veteran<br>involve<br>river<br>emotion |  
-| bip_39_word_new_br12 | digital<br>reject<br>swim<br>little<br>kingdom<br>nest<br>fame<br>veteran<br>involve<br>river<br>emotion<br>alert |  
-| bip_39_word_new_br2 | digital<br>reject |  
-| bip_39_word_new_br3 | digital<br>reject<br>swim |  
-| bip_39_word_new_br4 | digital<br>reject<br>swim<br>little |  
-| bip_39_word_new_br5 | digital<br>reject<br>swim<br>little<br>kingdom |  
-| bip_39_word_new_br6 | digital<br>reject<br>swim<br>little<br>kingdom<br>nest |  
-| bip_39_word_new_br7 | digital<br>reject<br>swim<br>little<br>kingdom<br>nest<br>fame |  
-| bip_39_word_new_br8 | digital<br>reject<br>swim<br>little<br>kingdom<br>nest<br>fame<br>veteran |  
-| bip_39_word_new_br9 | digital<br>reject<br>swim<br>little<br>kingdom<br>nest<br>fame<br>veteran<br>involve |  
-| bip_39_word_new_line1 | digital |  
-| bip_39_word_new_line10 | digital
+| bip_39_word_new_br_1 | digital |  
+| bip_39_word_new_br_10 | digital<br>reject<br>swim<br>little<br>kingdom<br>nest<br>fame<br>veteran<br>involve<br>river |  
+| bip_39_word_new_br_11 | digital<br>reject<br>swim<br>little<br>kingdom<br>nest<br>fame<br>veteran<br>involve<br>river<br>emotion |  
+| bip_39_word_new_br_12 | digital<br>reject<br>swim<br>little<br>kingdom<br>nest<br>fame<br>veteran<br>involve<br>river<br>emotion<br>alert |  
+| bip_39_word_new_br_2 | digital<br>reject |  
+| bip_39_word_new_br_3 | digital<br>reject<br>swim |  
+| bip_39_word_new_br_4 | digital<br>reject<br>swim<br>little |  
+| bip_39_word_new_br_5 | digital<br>reject<br>swim<br>little<br>kingdom |  
+| bip_39_word_new_br_6 | digital<br>reject<br>swim<br>little<br>kingdom<br>nest |  
+| bip_39_word_new_br_7 | digital<br>reject<br>swim<br>little<br>kingdom<br>nest<br>fame |  
+| bip_39_word_new_br_8 | digital<br>reject<br>swim<br>little<br>kingdom<br>nest<br>fame<br>veteran |  
+| bip_39_word_new_br_9 | digital<br>reject<br>swim<br>little<br>kingdom<br>nest<br>fame<br>veteran<br>involve |  
+| bip_39_word_new_line_1 | digital |  
+| bip_39_word_new_line_10 | digital
 reject
 swim
 little
@@ -55,7 +55,7 @@ fame
 veteran
 involve
 river |  
-| bip_39_word_new_line11 | digital
+| bip_39_word_new_line_11 | digital
 reject
 swim
 little
@@ -66,7 +66,7 @@ veteran
 involve
 river
 emotion |  
-| bip_39_word_new_line12 | digital
+| bip_39_word_new_line_12 | digital
 reject
 swim
 little
@@ -78,34 +78,34 @@ involve
 river
 emotion
 alert |  
-| bip_39_word_new_line2 | digital
+| bip_39_word_new_line_2 | digital
 reject |  
-| bip_39_word_new_line3 | digital
+| bip_39_word_new_line_3 | digital
 reject
 swim |  
-| bip_39_word_new_line4 | digital
+| bip_39_word_new_line_4 | digital
 reject
 swim
 little |  
-| bip_39_word_new_line5 | digital
+| bip_39_word_new_line_5 | digital
 reject
 swim
 little
 kingdom |  
-| bip_39_word_new_line6 | digital
+| bip_39_word_new_line_6 | digital
 reject
 swim
 little
 kingdom
 nest |  
-| bip_39_word_new_line7 | digital
+| bip_39_word_new_line_7 | digital
 reject
 swim
 little
 kingdom
 nest
 fame |  
-| bip_39_word_new_line8 | digital
+| bip_39_word_new_line_8 | digital
 reject
 swim
 little
@@ -113,7 +113,7 @@ kingdom
 nest
 fame
 veteran |  
-| bip_39_word_new_line9 | digital
+| bip_39_word_new_line_9 | digital
 reject
 swim
 little

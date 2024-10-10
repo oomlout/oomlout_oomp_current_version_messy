@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | govern |  
-| bip_39_word_new_br10 | govern<br>stem<br>upgrade<br>tank<br>shiver<br>gentle<br>aerobic<br>agree<br>used<br>flush |  
-| bip_39_word_new_br11 | govern<br>stem<br>upgrade<br>tank<br>shiver<br>gentle<br>aerobic<br>agree<br>used<br>flush<br>blouse |  
-| bip_39_word_new_br12 | govern<br>stem<br>upgrade<br>tank<br>shiver<br>gentle<br>aerobic<br>agree<br>used<br>flush<br>blouse<br>arrow |  
-| bip_39_word_new_br2 | govern<br>stem |  
-| bip_39_word_new_br3 | govern<br>stem<br>upgrade |  
-| bip_39_word_new_br4 | govern<br>stem<br>upgrade<br>tank |  
-| bip_39_word_new_br5 | govern<br>stem<br>upgrade<br>tank<br>shiver |  
-| bip_39_word_new_br6 | govern<br>stem<br>upgrade<br>tank<br>shiver<br>gentle |  
-| bip_39_word_new_br7 | govern<br>stem<br>upgrade<br>tank<br>shiver<br>gentle<br>aerobic |  
-| bip_39_word_new_br8 | govern<br>stem<br>upgrade<br>tank<br>shiver<br>gentle<br>aerobic<br>agree |  
-| bip_39_word_new_br9 | govern<br>stem<br>upgrade<br>tank<br>shiver<br>gentle<br>aerobic<br>agree<br>used |  
-| bip_39_word_new_line1 | govern |  
-| bip_39_word_new_line10 | govern
+| bip_39_word_new_br_1 | govern |  
+| bip_39_word_new_br_10 | govern<br>stem<br>upgrade<br>tank<br>shiver<br>gentle<br>aerobic<br>agree<br>used<br>flush |  
+| bip_39_word_new_br_11 | govern<br>stem<br>upgrade<br>tank<br>shiver<br>gentle<br>aerobic<br>agree<br>used<br>flush<br>blouse |  
+| bip_39_word_new_br_12 | govern<br>stem<br>upgrade<br>tank<br>shiver<br>gentle<br>aerobic<br>agree<br>used<br>flush<br>blouse<br>arrow |  
+| bip_39_word_new_br_2 | govern<br>stem |  
+| bip_39_word_new_br_3 | govern<br>stem<br>upgrade |  
+| bip_39_word_new_br_4 | govern<br>stem<br>upgrade<br>tank |  
+| bip_39_word_new_br_5 | govern<br>stem<br>upgrade<br>tank<br>shiver |  
+| bip_39_word_new_br_6 | govern<br>stem<br>upgrade<br>tank<br>shiver<br>gentle |  
+| bip_39_word_new_br_7 | govern<br>stem<br>upgrade<br>tank<br>shiver<br>gentle<br>aerobic |  
+| bip_39_word_new_br_8 | govern<br>stem<br>upgrade<br>tank<br>shiver<br>gentle<br>aerobic<br>agree |  
+| bip_39_word_new_br_9 | govern<br>stem<br>upgrade<br>tank<br>shiver<br>gentle<br>aerobic<br>agree<br>used |  
+| bip_39_word_new_line_1 | govern |  
+| bip_39_word_new_line_10 | govern
 stem
 upgrade
 tank
@@ -55,7 +55,7 @@ aerobic
 agree
 used
 flush |  
-| bip_39_word_new_line11 | govern
+| bip_39_word_new_line_11 | govern
 stem
 upgrade
 tank
@@ -66,7 +66,7 @@ agree
 used
 flush
 blouse |  
-| bip_39_word_new_line12 | govern
+| bip_39_word_new_line_12 | govern
 stem
 upgrade
 tank
@@ -78,34 +78,34 @@ used
 flush
 blouse
 arrow |  
-| bip_39_word_new_line2 | govern
+| bip_39_word_new_line_2 | govern
 stem |  
-| bip_39_word_new_line3 | govern
+| bip_39_word_new_line_3 | govern
 stem
 upgrade |  
-| bip_39_word_new_line4 | govern
+| bip_39_word_new_line_4 | govern
 stem
 upgrade
 tank |  
-| bip_39_word_new_line5 | govern
+| bip_39_word_new_line_5 | govern
 stem
 upgrade
 tank
 shiver |  
-| bip_39_word_new_line6 | govern
+| bip_39_word_new_line_6 | govern
 stem
 upgrade
 tank
 shiver
 gentle |  
-| bip_39_word_new_line7 | govern
+| bip_39_word_new_line_7 | govern
 stem
 upgrade
 tank
 shiver
 gentle
 aerobic |  
-| bip_39_word_new_line8 | govern
+| bip_39_word_new_line_8 | govern
 stem
 upgrade
 tank
@@ -113,7 +113,7 @@ shiver
 gentle
 aerobic
 agree |  
-| bip_39_word_new_line9 | govern
+| bip_39_word_new_line_9 | govern
 stem
 upgrade
 tank

@@ -1,17 +1,17 @@
-bip_39_word_new_br1: lumber
-bip_39_word_new_br10: lumber<br>three<br>lecture<br>major<br>damage<br>coffee<br>fan<br>crime<br>service<br>corn
-bip_39_word_new_br11: lumber<br>three<br>lecture<br>major<br>damage<br>coffee<br>fan<br>crime<br>service<br>corn<br>robot
-bip_39_word_new_br12: lumber<br>three<br>lecture<br>major<br>damage<br>coffee<br>fan<br>crime<br>service<br>corn<br>robot<br>amused
-bip_39_word_new_br2: lumber<br>three
-bip_39_word_new_br3: lumber<br>three<br>lecture
-bip_39_word_new_br4: lumber<br>three<br>lecture<br>major
-bip_39_word_new_br5: lumber<br>three<br>lecture<br>major<br>damage
-bip_39_word_new_br6: lumber<br>three<br>lecture<br>major<br>damage<br>coffee
-bip_39_word_new_br7: lumber<br>three<br>lecture<br>major<br>damage<br>coffee<br>fan
-bip_39_word_new_br8: lumber<br>three<br>lecture<br>major<br>damage<br>coffee<br>fan<br>crime
-bip_39_word_new_br9: lumber<br>three<br>lecture<br>major<br>damage<br>coffee<br>fan<br>crime<br>service
-bip_39_word_new_line1: lumber
-bip_39_word_new_line10: 'lumber
+bip_39_word_new_br_1: lumber
+bip_39_word_new_br_10: lumber<br>three<br>lecture<br>major<br>damage<br>coffee<br>fan<br>crime<br>service<br>corn
+bip_39_word_new_br_11: lumber<br>three<br>lecture<br>major<br>damage<br>coffee<br>fan<br>crime<br>service<br>corn<br>robot
+bip_39_word_new_br_12: lumber<br>three<br>lecture<br>major<br>damage<br>coffee<br>fan<br>crime<br>service<br>corn<br>robot<br>amused
+bip_39_word_new_br_2: lumber<br>three
+bip_39_word_new_br_3: lumber<br>three<br>lecture
+bip_39_word_new_br_4: lumber<br>three<br>lecture<br>major
+bip_39_word_new_br_5: lumber<br>three<br>lecture<br>major<br>damage
+bip_39_word_new_br_6: lumber<br>three<br>lecture<br>major<br>damage<br>coffee
+bip_39_word_new_br_7: lumber<br>three<br>lecture<br>major<br>damage<br>coffee<br>fan
+bip_39_word_new_br_8: lumber<br>three<br>lecture<br>major<br>damage<br>coffee<br>fan<br>crime
+bip_39_word_new_br_9: lumber<br>three<br>lecture<br>major<br>damage<br>coffee<br>fan<br>crime<br>service
+bip_39_word_new_line_1: lumber
+bip_39_word_new_line_10: 'lumber
 
   three
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'lumber
   service
 
   corn'
-bip_39_word_new_line11: 'lumber
+bip_39_word_new_line_11: 'lumber
 
   three
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'lumber
   corn
 
   robot'
-bip_39_word_new_line12: 'lumber
+bip_39_word_new_line_12: 'lumber
 
   three
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'lumber
   robot
 
   amused'
-bip_39_word_new_line2: 'lumber
+bip_39_word_new_line_2: 'lumber
 
   three'
-bip_39_word_new_line3: 'lumber
+bip_39_word_new_line_3: 'lumber
 
   three
 
   lecture'
-bip_39_word_new_line4: 'lumber
+bip_39_word_new_line_4: 'lumber
 
   three
 
   lecture
 
   major'
-bip_39_word_new_line5: 'lumber
+bip_39_word_new_line_5: 'lumber
 
   three
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'lumber
   major
 
   damage'
-bip_39_word_new_line6: 'lumber
+bip_39_word_new_line_6: 'lumber
 
   three
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'lumber
   damage
 
   coffee'
-bip_39_word_new_line7: 'lumber
+bip_39_word_new_line_7: 'lumber
 
   three
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'lumber
   coffee
 
   fan'
-bip_39_word_new_line8: 'lumber
+bip_39_word_new_line_8: 'lumber
 
   three
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'lumber
   fan
 
   crime'
-bip_39_word_new_line9: 'lumber
+bip_39_word_new_line_9: 'lumber
 
   three
 

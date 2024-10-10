@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | glory |  
-| bip_39_word_new_br10 | glory<br>frost<br>dutch<br>rain<br>cable<br>tree<br>argue<br>rough<br>essay<br>skull |  
-| bip_39_word_new_br11 | glory<br>frost<br>dutch<br>rain<br>cable<br>tree<br>argue<br>rough<br>essay<br>skull<br>horn |  
-| bip_39_word_new_br12 | glory<br>frost<br>dutch<br>rain<br>cable<br>tree<br>argue<br>rough<br>essay<br>skull<br>horn<br>aerobic |  
-| bip_39_word_new_br2 | glory<br>frost |  
-| bip_39_word_new_br3 | glory<br>frost<br>dutch |  
-| bip_39_word_new_br4 | glory<br>frost<br>dutch<br>rain |  
-| bip_39_word_new_br5 | glory<br>frost<br>dutch<br>rain<br>cable |  
-| bip_39_word_new_br6 | glory<br>frost<br>dutch<br>rain<br>cable<br>tree |  
-| bip_39_word_new_br7 | glory<br>frost<br>dutch<br>rain<br>cable<br>tree<br>argue |  
-| bip_39_word_new_br8 | glory<br>frost<br>dutch<br>rain<br>cable<br>tree<br>argue<br>rough |  
-| bip_39_word_new_br9 | glory<br>frost<br>dutch<br>rain<br>cable<br>tree<br>argue<br>rough<br>essay |  
-| bip_39_word_new_line1 | glory |  
-| bip_39_word_new_line10 | glory
+| bip_39_word_new_br_1 | glory |  
+| bip_39_word_new_br_10 | glory<br>frost<br>dutch<br>rain<br>cable<br>tree<br>argue<br>rough<br>essay<br>skull |  
+| bip_39_word_new_br_11 | glory<br>frost<br>dutch<br>rain<br>cable<br>tree<br>argue<br>rough<br>essay<br>skull<br>horn |  
+| bip_39_word_new_br_12 | glory<br>frost<br>dutch<br>rain<br>cable<br>tree<br>argue<br>rough<br>essay<br>skull<br>horn<br>aerobic |  
+| bip_39_word_new_br_2 | glory<br>frost |  
+| bip_39_word_new_br_3 | glory<br>frost<br>dutch |  
+| bip_39_word_new_br_4 | glory<br>frost<br>dutch<br>rain |  
+| bip_39_word_new_br_5 | glory<br>frost<br>dutch<br>rain<br>cable |  
+| bip_39_word_new_br_6 | glory<br>frost<br>dutch<br>rain<br>cable<br>tree |  
+| bip_39_word_new_br_7 | glory<br>frost<br>dutch<br>rain<br>cable<br>tree<br>argue |  
+| bip_39_word_new_br_8 | glory<br>frost<br>dutch<br>rain<br>cable<br>tree<br>argue<br>rough |  
+| bip_39_word_new_br_9 | glory<br>frost<br>dutch<br>rain<br>cable<br>tree<br>argue<br>rough<br>essay |  
+| bip_39_word_new_line_1 | glory |  
+| bip_39_word_new_line_10 | glory
 frost
 dutch
 rain
@@ -55,7 +55,7 @@ argue
 rough
 essay
 skull |  
-| bip_39_word_new_line11 | glory
+| bip_39_word_new_line_11 | glory
 frost
 dutch
 rain
@@ -66,7 +66,7 @@ rough
 essay
 skull
 horn |  
-| bip_39_word_new_line12 | glory
+| bip_39_word_new_line_12 | glory
 frost
 dutch
 rain
@@ -78,34 +78,34 @@ essay
 skull
 horn
 aerobic |  
-| bip_39_word_new_line2 | glory
+| bip_39_word_new_line_2 | glory
 frost |  
-| bip_39_word_new_line3 | glory
+| bip_39_word_new_line_3 | glory
 frost
 dutch |  
-| bip_39_word_new_line4 | glory
+| bip_39_word_new_line_4 | glory
 frost
 dutch
 rain |  
-| bip_39_word_new_line5 | glory
+| bip_39_word_new_line_5 | glory
 frost
 dutch
 rain
 cable |  
-| bip_39_word_new_line6 | glory
+| bip_39_word_new_line_6 | glory
 frost
 dutch
 rain
 cable
 tree |  
-| bip_39_word_new_line7 | glory
+| bip_39_word_new_line_7 | glory
 frost
 dutch
 rain
 cable
 tree
 argue |  
-| bip_39_word_new_line8 | glory
+| bip_39_word_new_line_8 | glory
 frost
 dutch
 rain
@@ -113,7 +113,7 @@ cable
 tree
 argue
 rough |  
-| bip_39_word_new_line9 | glory
+| bip_39_word_new_line_9 | glory
 frost
 dutch
 rain

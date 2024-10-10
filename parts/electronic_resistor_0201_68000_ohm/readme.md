@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | upon |  
-| bip_39_word_new_br10 | upon<br>magic<br>front<br>hunt<br>advice<br>dad<br>hospital<br>fetch<br>bounce<br>exile |  
-| bip_39_word_new_br11 | upon<br>magic<br>front<br>hunt<br>advice<br>dad<br>hospital<br>fetch<br>bounce<br>exile<br>position |  
-| bip_39_word_new_br12 | upon<br>magic<br>front<br>hunt<br>advice<br>dad<br>hospital<br>fetch<br>bounce<br>exile<br>position<br>alien |  
-| bip_39_word_new_br2 | upon<br>magic |  
-| bip_39_word_new_br3 | upon<br>magic<br>front |  
-| bip_39_word_new_br4 | upon<br>magic<br>front<br>hunt |  
-| bip_39_word_new_br5 | upon<br>magic<br>front<br>hunt<br>advice |  
-| bip_39_word_new_br6 | upon<br>magic<br>front<br>hunt<br>advice<br>dad |  
-| bip_39_word_new_br7 | upon<br>magic<br>front<br>hunt<br>advice<br>dad<br>hospital |  
-| bip_39_word_new_br8 | upon<br>magic<br>front<br>hunt<br>advice<br>dad<br>hospital<br>fetch |  
-| bip_39_word_new_br9 | upon<br>magic<br>front<br>hunt<br>advice<br>dad<br>hospital<br>fetch<br>bounce |  
-| bip_39_word_new_line1 | upon |  
-| bip_39_word_new_line10 | upon
+| bip_39_word_new_br_1 | upon |  
+| bip_39_word_new_br_10 | upon<br>magic<br>front<br>hunt<br>advice<br>dad<br>hospital<br>fetch<br>bounce<br>exile |  
+| bip_39_word_new_br_11 | upon<br>magic<br>front<br>hunt<br>advice<br>dad<br>hospital<br>fetch<br>bounce<br>exile<br>position |  
+| bip_39_word_new_br_12 | upon<br>magic<br>front<br>hunt<br>advice<br>dad<br>hospital<br>fetch<br>bounce<br>exile<br>position<br>alien |  
+| bip_39_word_new_br_2 | upon<br>magic |  
+| bip_39_word_new_br_3 | upon<br>magic<br>front |  
+| bip_39_word_new_br_4 | upon<br>magic<br>front<br>hunt |  
+| bip_39_word_new_br_5 | upon<br>magic<br>front<br>hunt<br>advice |  
+| bip_39_word_new_br_6 | upon<br>magic<br>front<br>hunt<br>advice<br>dad |  
+| bip_39_word_new_br_7 | upon<br>magic<br>front<br>hunt<br>advice<br>dad<br>hospital |  
+| bip_39_word_new_br_8 | upon<br>magic<br>front<br>hunt<br>advice<br>dad<br>hospital<br>fetch |  
+| bip_39_word_new_br_9 | upon<br>magic<br>front<br>hunt<br>advice<br>dad<br>hospital<br>fetch<br>bounce |  
+| bip_39_word_new_line_1 | upon |  
+| bip_39_word_new_line_10 | upon
 magic
 front
 hunt
@@ -55,7 +55,7 @@ hospital
 fetch
 bounce
 exile |  
-| bip_39_word_new_line11 | upon
+| bip_39_word_new_line_11 | upon
 magic
 front
 hunt
@@ -66,7 +66,7 @@ fetch
 bounce
 exile
 position |  
-| bip_39_word_new_line12 | upon
+| bip_39_word_new_line_12 | upon
 magic
 front
 hunt
@@ -78,34 +78,34 @@ bounce
 exile
 position
 alien |  
-| bip_39_word_new_line2 | upon
+| bip_39_word_new_line_2 | upon
 magic |  
-| bip_39_word_new_line3 | upon
+| bip_39_word_new_line_3 | upon
 magic
 front |  
-| bip_39_word_new_line4 | upon
+| bip_39_word_new_line_4 | upon
 magic
 front
 hunt |  
-| bip_39_word_new_line5 | upon
+| bip_39_word_new_line_5 | upon
 magic
 front
 hunt
 advice |  
-| bip_39_word_new_line6 | upon
+| bip_39_word_new_line_6 | upon
 magic
 front
 hunt
 advice
 dad |  
-| bip_39_word_new_line7 | upon
+| bip_39_word_new_line_7 | upon
 magic
 front
 hunt
 advice
 dad
 hospital |  
-| bip_39_word_new_line8 | upon
+| bip_39_word_new_line_8 | upon
 magic
 front
 hunt
@@ -113,7 +113,7 @@ advice
 dad
 hospital
 fetch |  
-| bip_39_word_new_line9 | upon
+| bip_39_word_new_line_9 | upon
 magic
 front
 hunt

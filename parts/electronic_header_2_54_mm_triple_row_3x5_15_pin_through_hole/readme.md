@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | crouch |  
-| bip_39_word_new_br10 | crouch<br>pride<br>grief<br>walnut<br>again<br>increase<br>oyster<br>print<br>behave<br>perfect |  
-| bip_39_word_new_br11 | crouch<br>pride<br>grief<br>walnut<br>again<br>increase<br>oyster<br>print<br>behave<br>perfect<br>deny |  
-| bip_39_word_new_br12 | crouch<br>pride<br>grief<br>walnut<br>again<br>increase<br>oyster<br>print<br>behave<br>perfect<br>deny<br>asset |  
-| bip_39_word_new_br2 | crouch<br>pride |  
-| bip_39_word_new_br3 | crouch<br>pride<br>grief |  
-| bip_39_word_new_br4 | crouch<br>pride<br>grief<br>walnut |  
-| bip_39_word_new_br5 | crouch<br>pride<br>grief<br>walnut<br>again |  
-| bip_39_word_new_br6 | crouch<br>pride<br>grief<br>walnut<br>again<br>increase |  
-| bip_39_word_new_br7 | crouch<br>pride<br>grief<br>walnut<br>again<br>increase<br>oyster |  
-| bip_39_word_new_br8 | crouch<br>pride<br>grief<br>walnut<br>again<br>increase<br>oyster<br>print |  
-| bip_39_word_new_br9 | crouch<br>pride<br>grief<br>walnut<br>again<br>increase<br>oyster<br>print<br>behave |  
-| bip_39_word_new_line1 | crouch |  
-| bip_39_word_new_line10 | crouch
+| bip_39_word_new_br_1 | crouch |  
+| bip_39_word_new_br_10 | crouch<br>pride<br>grief<br>walnut<br>again<br>increase<br>oyster<br>print<br>behave<br>perfect |  
+| bip_39_word_new_br_11 | crouch<br>pride<br>grief<br>walnut<br>again<br>increase<br>oyster<br>print<br>behave<br>perfect<br>deny |  
+| bip_39_word_new_br_12 | crouch<br>pride<br>grief<br>walnut<br>again<br>increase<br>oyster<br>print<br>behave<br>perfect<br>deny<br>asset |  
+| bip_39_word_new_br_2 | crouch<br>pride |  
+| bip_39_word_new_br_3 | crouch<br>pride<br>grief |  
+| bip_39_word_new_br_4 | crouch<br>pride<br>grief<br>walnut |  
+| bip_39_word_new_br_5 | crouch<br>pride<br>grief<br>walnut<br>again |  
+| bip_39_word_new_br_6 | crouch<br>pride<br>grief<br>walnut<br>again<br>increase |  
+| bip_39_word_new_br_7 | crouch<br>pride<br>grief<br>walnut<br>again<br>increase<br>oyster |  
+| bip_39_word_new_br_8 | crouch<br>pride<br>grief<br>walnut<br>again<br>increase<br>oyster<br>print |  
+| bip_39_word_new_br_9 | crouch<br>pride<br>grief<br>walnut<br>again<br>increase<br>oyster<br>print<br>behave |  
+| bip_39_word_new_line_1 | crouch |  
+| bip_39_word_new_line_10 | crouch
 pride
 grief
 walnut
@@ -55,7 +55,7 @@ oyster
 print
 behave
 perfect |  
-| bip_39_word_new_line11 | crouch
+| bip_39_word_new_line_11 | crouch
 pride
 grief
 walnut
@@ -66,7 +66,7 @@ print
 behave
 perfect
 deny |  
-| bip_39_word_new_line12 | crouch
+| bip_39_word_new_line_12 | crouch
 pride
 grief
 walnut
@@ -78,34 +78,34 @@ behave
 perfect
 deny
 asset |  
-| bip_39_word_new_line2 | crouch
+| bip_39_word_new_line_2 | crouch
 pride |  
-| bip_39_word_new_line3 | crouch
+| bip_39_word_new_line_3 | crouch
 pride
 grief |  
-| bip_39_word_new_line4 | crouch
+| bip_39_word_new_line_4 | crouch
 pride
 grief
 walnut |  
-| bip_39_word_new_line5 | crouch
+| bip_39_word_new_line_5 | crouch
 pride
 grief
 walnut
 again |  
-| bip_39_word_new_line6 | crouch
+| bip_39_word_new_line_6 | crouch
 pride
 grief
 walnut
 again
 increase |  
-| bip_39_word_new_line7 | crouch
+| bip_39_word_new_line_7 | crouch
 pride
 grief
 walnut
 again
 increase
 oyster |  
-| bip_39_word_new_line8 | crouch
+| bip_39_word_new_line_8 | crouch
 pride
 grief
 walnut
@@ -113,7 +113,7 @@ again
 increase
 oyster
 print |  
-| bip_39_word_new_line9 | crouch
+| bip_39_word_new_line_9 | crouch
 pride
 grief
 walnut

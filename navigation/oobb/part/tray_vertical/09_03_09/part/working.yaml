@@ -1,17 +1,17 @@
-bip_39_word_new_br1: trust
-bip_39_word_new_br10: trust<br>cat<br>bracket<br>youth<br>faith<br>bubble<br>extend<br>level<br>fork<br>mouse
-bip_39_word_new_br11: trust<br>cat<br>bracket<br>youth<br>faith<br>bubble<br>extend<br>level<br>fork<br>mouse<br>essay
-bip_39_word_new_br12: trust<br>cat<br>bracket<br>youth<br>faith<br>bubble<br>extend<br>level<br>fork<br>mouse<br>essay<br>action
-bip_39_word_new_br2: trust<br>cat
-bip_39_word_new_br3: trust<br>cat<br>bracket
-bip_39_word_new_br4: trust<br>cat<br>bracket<br>youth
-bip_39_word_new_br5: trust<br>cat<br>bracket<br>youth<br>faith
-bip_39_word_new_br6: trust<br>cat<br>bracket<br>youth<br>faith<br>bubble
-bip_39_word_new_br7: trust<br>cat<br>bracket<br>youth<br>faith<br>bubble<br>extend
-bip_39_word_new_br8: trust<br>cat<br>bracket<br>youth<br>faith<br>bubble<br>extend<br>level
-bip_39_word_new_br9: trust<br>cat<br>bracket<br>youth<br>faith<br>bubble<br>extend<br>level<br>fork
-bip_39_word_new_line1: trust
-bip_39_word_new_line10: 'trust
+bip_39_word_new_br_1: trust
+bip_39_word_new_br_10: trust<br>cat<br>bracket<br>youth<br>faith<br>bubble<br>extend<br>level<br>fork<br>mouse
+bip_39_word_new_br_11: trust<br>cat<br>bracket<br>youth<br>faith<br>bubble<br>extend<br>level<br>fork<br>mouse<br>essay
+bip_39_word_new_br_12: trust<br>cat<br>bracket<br>youth<br>faith<br>bubble<br>extend<br>level<br>fork<br>mouse<br>essay<br>action
+bip_39_word_new_br_2: trust<br>cat
+bip_39_word_new_br_3: trust<br>cat<br>bracket
+bip_39_word_new_br_4: trust<br>cat<br>bracket<br>youth
+bip_39_word_new_br_5: trust<br>cat<br>bracket<br>youth<br>faith
+bip_39_word_new_br_6: trust<br>cat<br>bracket<br>youth<br>faith<br>bubble
+bip_39_word_new_br_7: trust<br>cat<br>bracket<br>youth<br>faith<br>bubble<br>extend
+bip_39_word_new_br_8: trust<br>cat<br>bracket<br>youth<br>faith<br>bubble<br>extend<br>level
+bip_39_word_new_br_9: trust<br>cat<br>bracket<br>youth<br>faith<br>bubble<br>extend<br>level<br>fork
+bip_39_word_new_line_1: trust
+bip_39_word_new_line_10: 'trust
 
   cat
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'trust
   fork
 
   mouse'
-bip_39_word_new_line11: 'trust
+bip_39_word_new_line_11: 'trust
 
   cat
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'trust
   mouse
 
   essay'
-bip_39_word_new_line12: 'trust
+bip_39_word_new_line_12: 'trust
 
   cat
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'trust
   essay
 
   action'
-bip_39_word_new_line2: 'trust
+bip_39_word_new_line_2: 'trust
 
   cat'
-bip_39_word_new_line3: 'trust
+bip_39_word_new_line_3: 'trust
 
   cat
 
   bracket'
-bip_39_word_new_line4: 'trust
+bip_39_word_new_line_4: 'trust
 
   cat
 
   bracket
 
   youth'
-bip_39_word_new_line5: 'trust
+bip_39_word_new_line_5: 'trust
 
   cat
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'trust
   youth
 
   faith'
-bip_39_word_new_line6: 'trust
+bip_39_word_new_line_6: 'trust
 
   cat
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'trust
   faith
 
   bubble'
-bip_39_word_new_line7: 'trust
+bip_39_word_new_line_7: 'trust
 
   cat
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'trust
   bubble
 
   extend'
-bip_39_word_new_line8: 'trust
+bip_39_word_new_line_8: 'trust
 
   cat
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'trust
   extend
 
   level'
-bip_39_word_new_line9: 'trust
+bip_39_word_new_line_9: 'trust
 
   cat
 

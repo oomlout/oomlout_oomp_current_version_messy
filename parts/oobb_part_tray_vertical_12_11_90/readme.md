@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | lyrics |  
-| bip_39_word_new_br10 | lyrics<br>bench<br>auction<br>fee<br>panic<br>record<br>act<br>risk<br>please<br>program |  
-| bip_39_word_new_br11 | lyrics<br>bench<br>auction<br>fee<br>panic<br>record<br>act<br>risk<br>please<br>program<br>sting |  
-| bip_39_word_new_br12 | lyrics<br>bench<br>auction<br>fee<br>panic<br>record<br>act<br>risk<br>please<br>program<br>sting<br>again |  
-| bip_39_word_new_br2 | lyrics<br>bench |  
-| bip_39_word_new_br3 | lyrics<br>bench<br>auction |  
-| bip_39_word_new_br4 | lyrics<br>bench<br>auction<br>fee |  
-| bip_39_word_new_br5 | lyrics<br>bench<br>auction<br>fee<br>panic |  
-| bip_39_word_new_br6 | lyrics<br>bench<br>auction<br>fee<br>panic<br>record |  
-| bip_39_word_new_br7 | lyrics<br>bench<br>auction<br>fee<br>panic<br>record<br>act |  
-| bip_39_word_new_br8 | lyrics<br>bench<br>auction<br>fee<br>panic<br>record<br>act<br>risk |  
-| bip_39_word_new_br9 | lyrics<br>bench<br>auction<br>fee<br>panic<br>record<br>act<br>risk<br>please |  
-| bip_39_word_new_line1 | lyrics |  
-| bip_39_word_new_line10 | lyrics
+| bip_39_word_new_br_1 | lyrics |  
+| bip_39_word_new_br_10 | lyrics<br>bench<br>auction<br>fee<br>panic<br>record<br>act<br>risk<br>please<br>program |  
+| bip_39_word_new_br_11 | lyrics<br>bench<br>auction<br>fee<br>panic<br>record<br>act<br>risk<br>please<br>program<br>sting |  
+| bip_39_word_new_br_12 | lyrics<br>bench<br>auction<br>fee<br>panic<br>record<br>act<br>risk<br>please<br>program<br>sting<br>again |  
+| bip_39_word_new_br_2 | lyrics<br>bench |  
+| bip_39_word_new_br_3 | lyrics<br>bench<br>auction |  
+| bip_39_word_new_br_4 | lyrics<br>bench<br>auction<br>fee |  
+| bip_39_word_new_br_5 | lyrics<br>bench<br>auction<br>fee<br>panic |  
+| bip_39_word_new_br_6 | lyrics<br>bench<br>auction<br>fee<br>panic<br>record |  
+| bip_39_word_new_br_7 | lyrics<br>bench<br>auction<br>fee<br>panic<br>record<br>act |  
+| bip_39_word_new_br_8 | lyrics<br>bench<br>auction<br>fee<br>panic<br>record<br>act<br>risk |  
+| bip_39_word_new_br_9 | lyrics<br>bench<br>auction<br>fee<br>panic<br>record<br>act<br>risk<br>please |  
+| bip_39_word_new_line_1 | lyrics |  
+| bip_39_word_new_line_10 | lyrics
 bench
 auction
 fee
@@ -55,7 +55,7 @@ act
 risk
 please
 program |  
-| bip_39_word_new_line11 | lyrics
+| bip_39_word_new_line_11 | lyrics
 bench
 auction
 fee
@@ -66,7 +66,7 @@ risk
 please
 program
 sting |  
-| bip_39_word_new_line12 | lyrics
+| bip_39_word_new_line_12 | lyrics
 bench
 auction
 fee
@@ -78,34 +78,34 @@ please
 program
 sting
 again |  
-| bip_39_word_new_line2 | lyrics
+| bip_39_word_new_line_2 | lyrics
 bench |  
-| bip_39_word_new_line3 | lyrics
+| bip_39_word_new_line_3 | lyrics
 bench
 auction |  
-| bip_39_word_new_line4 | lyrics
+| bip_39_word_new_line_4 | lyrics
 bench
 auction
 fee |  
-| bip_39_word_new_line5 | lyrics
+| bip_39_word_new_line_5 | lyrics
 bench
 auction
 fee
 panic |  
-| bip_39_word_new_line6 | lyrics
+| bip_39_word_new_line_6 | lyrics
 bench
 auction
 fee
 panic
 record |  
-| bip_39_word_new_line7 | lyrics
+| bip_39_word_new_line_7 | lyrics
 bench
 auction
 fee
 panic
 record
 act |  
-| bip_39_word_new_line8 | lyrics
+| bip_39_word_new_line_8 | lyrics
 bench
 auction
 fee
@@ -113,7 +113,7 @@ panic
 record
 act
 risk |  
-| bip_39_word_new_line9 | lyrics
+| bip_39_word_new_line_9 | lyrics
 bench
 auction
 fee

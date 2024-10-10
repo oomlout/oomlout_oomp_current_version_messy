@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | chunk |  
-| bip_39_word_new_br10 | chunk<br>raw<br>work<br>lens<br>clap<br>seed<br>spider<br>filter<br>evil<br>exhaust |  
-| bip_39_word_new_br11 | chunk<br>raw<br>work<br>lens<br>clap<br>seed<br>spider<br>filter<br>evil<br>exhaust<br>pass |  
-| bip_39_word_new_br12 | chunk<br>raw<br>work<br>lens<br>clap<br>seed<br>spider<br>filter<br>evil<br>exhaust<br>pass<br>alter |  
-| bip_39_word_new_br2 | chunk<br>raw |  
-| bip_39_word_new_br3 | chunk<br>raw<br>work |  
-| bip_39_word_new_br4 | chunk<br>raw<br>work<br>lens |  
-| bip_39_word_new_br5 | chunk<br>raw<br>work<br>lens<br>clap |  
-| bip_39_word_new_br6 | chunk<br>raw<br>work<br>lens<br>clap<br>seed |  
-| bip_39_word_new_br7 | chunk<br>raw<br>work<br>lens<br>clap<br>seed<br>spider |  
-| bip_39_word_new_br8 | chunk<br>raw<br>work<br>lens<br>clap<br>seed<br>spider<br>filter |  
-| bip_39_word_new_br9 | chunk<br>raw<br>work<br>lens<br>clap<br>seed<br>spider<br>filter<br>evil |  
-| bip_39_word_new_line1 | chunk |  
-| bip_39_word_new_line10 | chunk
+| bip_39_word_new_br_1 | chunk |  
+| bip_39_word_new_br_10 | chunk<br>raw<br>work<br>lens<br>clap<br>seed<br>spider<br>filter<br>evil<br>exhaust |  
+| bip_39_word_new_br_11 | chunk<br>raw<br>work<br>lens<br>clap<br>seed<br>spider<br>filter<br>evil<br>exhaust<br>pass |  
+| bip_39_word_new_br_12 | chunk<br>raw<br>work<br>lens<br>clap<br>seed<br>spider<br>filter<br>evil<br>exhaust<br>pass<br>alter |  
+| bip_39_word_new_br_2 | chunk<br>raw |  
+| bip_39_word_new_br_3 | chunk<br>raw<br>work |  
+| bip_39_word_new_br_4 | chunk<br>raw<br>work<br>lens |  
+| bip_39_word_new_br_5 | chunk<br>raw<br>work<br>lens<br>clap |  
+| bip_39_word_new_br_6 | chunk<br>raw<br>work<br>lens<br>clap<br>seed |  
+| bip_39_word_new_br_7 | chunk<br>raw<br>work<br>lens<br>clap<br>seed<br>spider |  
+| bip_39_word_new_br_8 | chunk<br>raw<br>work<br>lens<br>clap<br>seed<br>spider<br>filter |  
+| bip_39_word_new_br_9 | chunk<br>raw<br>work<br>lens<br>clap<br>seed<br>spider<br>filter<br>evil |  
+| bip_39_word_new_line_1 | chunk |  
+| bip_39_word_new_line_10 | chunk
 raw
 work
 lens
@@ -55,7 +55,7 @@ spider
 filter
 evil
 exhaust |  
-| bip_39_word_new_line11 | chunk
+| bip_39_word_new_line_11 | chunk
 raw
 work
 lens
@@ -66,7 +66,7 @@ filter
 evil
 exhaust
 pass |  
-| bip_39_word_new_line12 | chunk
+| bip_39_word_new_line_12 | chunk
 raw
 work
 lens
@@ -78,34 +78,34 @@ evil
 exhaust
 pass
 alter |  
-| bip_39_word_new_line2 | chunk
+| bip_39_word_new_line_2 | chunk
 raw |  
-| bip_39_word_new_line3 | chunk
+| bip_39_word_new_line_3 | chunk
 raw
 work |  
-| bip_39_word_new_line4 | chunk
+| bip_39_word_new_line_4 | chunk
 raw
 work
 lens |  
-| bip_39_word_new_line5 | chunk
+| bip_39_word_new_line_5 | chunk
 raw
 work
 lens
 clap |  
-| bip_39_word_new_line6 | chunk
+| bip_39_word_new_line_6 | chunk
 raw
 work
 lens
 clap
 seed |  
-| bip_39_word_new_line7 | chunk
+| bip_39_word_new_line_7 | chunk
 raw
 work
 lens
 clap
 seed
 spider |  
-| bip_39_word_new_line8 | chunk
+| bip_39_word_new_line_8 | chunk
 raw
 work
 lens
@@ -113,7 +113,7 @@ clap
 seed
 spider
 filter |  
-| bip_39_word_new_line9 | chunk
+| bip_39_word_new_line_9 | chunk
 raw
 work
 lens

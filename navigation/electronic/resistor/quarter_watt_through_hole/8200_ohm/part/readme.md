@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | glove |  
-| bip_39_word_new_br10 | glove<br>defy<br>stove<br>wedding<br>pudding<br>long<br>blossom<br>rhythm<br>glory<br>patch |  
-| bip_39_word_new_br11 | glove<br>defy<br>stove<br>wedding<br>pudding<br>long<br>blossom<br>rhythm<br>glory<br>patch<br>tissue |  
-| bip_39_word_new_br12 | glove<br>defy<br>stove<br>wedding<br>pudding<br>long<br>blossom<br>rhythm<br>glory<br>patch<br>tissue<br>average |  
-| bip_39_word_new_br2 | glove<br>defy |  
-| bip_39_word_new_br3 | glove<br>defy<br>stove |  
-| bip_39_word_new_br4 | glove<br>defy<br>stove<br>wedding |  
-| bip_39_word_new_br5 | glove<br>defy<br>stove<br>wedding<br>pudding |  
-| bip_39_word_new_br6 | glove<br>defy<br>stove<br>wedding<br>pudding<br>long |  
-| bip_39_word_new_br7 | glove<br>defy<br>stove<br>wedding<br>pudding<br>long<br>blossom |  
-| bip_39_word_new_br8 | glove<br>defy<br>stove<br>wedding<br>pudding<br>long<br>blossom<br>rhythm |  
-| bip_39_word_new_br9 | glove<br>defy<br>stove<br>wedding<br>pudding<br>long<br>blossom<br>rhythm<br>glory |  
-| bip_39_word_new_line1 | glove |  
-| bip_39_word_new_line10 | glove
+| bip_39_word_new_br_1 | glove |  
+| bip_39_word_new_br_10 | glove<br>defy<br>stove<br>wedding<br>pudding<br>long<br>blossom<br>rhythm<br>glory<br>patch |  
+| bip_39_word_new_br_11 | glove<br>defy<br>stove<br>wedding<br>pudding<br>long<br>blossom<br>rhythm<br>glory<br>patch<br>tissue |  
+| bip_39_word_new_br_12 | glove<br>defy<br>stove<br>wedding<br>pudding<br>long<br>blossom<br>rhythm<br>glory<br>patch<br>tissue<br>average |  
+| bip_39_word_new_br_2 | glove<br>defy |  
+| bip_39_word_new_br_3 | glove<br>defy<br>stove |  
+| bip_39_word_new_br_4 | glove<br>defy<br>stove<br>wedding |  
+| bip_39_word_new_br_5 | glove<br>defy<br>stove<br>wedding<br>pudding |  
+| bip_39_word_new_br_6 | glove<br>defy<br>stove<br>wedding<br>pudding<br>long |  
+| bip_39_word_new_br_7 | glove<br>defy<br>stove<br>wedding<br>pudding<br>long<br>blossom |  
+| bip_39_word_new_br_8 | glove<br>defy<br>stove<br>wedding<br>pudding<br>long<br>blossom<br>rhythm |  
+| bip_39_word_new_br_9 | glove<br>defy<br>stove<br>wedding<br>pudding<br>long<br>blossom<br>rhythm<br>glory |  
+| bip_39_word_new_line_1 | glove |  
+| bip_39_word_new_line_10 | glove
 defy
 stove
 wedding
@@ -55,7 +55,7 @@ blossom
 rhythm
 glory
 patch |  
-| bip_39_word_new_line11 | glove
+| bip_39_word_new_line_11 | glove
 defy
 stove
 wedding
@@ -66,7 +66,7 @@ rhythm
 glory
 patch
 tissue |  
-| bip_39_word_new_line12 | glove
+| bip_39_word_new_line_12 | glove
 defy
 stove
 wedding
@@ -78,34 +78,34 @@ glory
 patch
 tissue
 average |  
-| bip_39_word_new_line2 | glove
+| bip_39_word_new_line_2 | glove
 defy |  
-| bip_39_word_new_line3 | glove
+| bip_39_word_new_line_3 | glove
 defy
 stove |  
-| bip_39_word_new_line4 | glove
+| bip_39_word_new_line_4 | glove
 defy
 stove
 wedding |  
-| bip_39_word_new_line5 | glove
+| bip_39_word_new_line_5 | glove
 defy
 stove
 wedding
 pudding |  
-| bip_39_word_new_line6 | glove
+| bip_39_word_new_line_6 | glove
 defy
 stove
 wedding
 pudding
 long |  
-| bip_39_word_new_line7 | glove
+| bip_39_word_new_line_7 | glove
 defy
 stove
 wedding
 pudding
 long
 blossom |  
-| bip_39_word_new_line8 | glove
+| bip_39_word_new_line_8 | glove
 defy
 stove
 wedding
@@ -113,7 +113,7 @@ pudding
 long
 blossom
 rhythm |  
-| bip_39_word_new_line9 | glove
+| bip_39_word_new_line_9 | glove
 defy
 stove
 wedding

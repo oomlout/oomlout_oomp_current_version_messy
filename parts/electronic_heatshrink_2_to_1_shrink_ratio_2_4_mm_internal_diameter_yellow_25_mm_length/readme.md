@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | spike |  
-| bip_39_word_new_br10 | spike<br>teach<br>cupboard<br>hire<br>retire<br>hard<br>repair<br>frequent<br>scan<br>culture |  
-| bip_39_word_new_br11 | spike<br>teach<br>cupboard<br>hire<br>retire<br>hard<br>repair<br>frequent<br>scan<br>culture<br>fat |  
-| bip_39_word_new_br12 | spike<br>teach<br>cupboard<br>hire<br>retire<br>hard<br>repair<br>frequent<br>scan<br>culture<br>fat<br>ankle |  
-| bip_39_word_new_br2 | spike<br>teach |  
-| bip_39_word_new_br3 | spike<br>teach<br>cupboard |  
-| bip_39_word_new_br4 | spike<br>teach<br>cupboard<br>hire |  
-| bip_39_word_new_br5 | spike<br>teach<br>cupboard<br>hire<br>retire |  
-| bip_39_word_new_br6 | spike<br>teach<br>cupboard<br>hire<br>retire<br>hard |  
-| bip_39_word_new_br7 | spike<br>teach<br>cupboard<br>hire<br>retire<br>hard<br>repair |  
-| bip_39_word_new_br8 | spike<br>teach<br>cupboard<br>hire<br>retire<br>hard<br>repair<br>frequent |  
-| bip_39_word_new_br9 | spike<br>teach<br>cupboard<br>hire<br>retire<br>hard<br>repair<br>frequent<br>scan |  
-| bip_39_word_new_line1 | spike |  
-| bip_39_word_new_line10 | spike
+| bip_39_word_new_br_1 | spike |  
+| bip_39_word_new_br_10 | spike<br>teach<br>cupboard<br>hire<br>retire<br>hard<br>repair<br>frequent<br>scan<br>culture |  
+| bip_39_word_new_br_11 | spike<br>teach<br>cupboard<br>hire<br>retire<br>hard<br>repair<br>frequent<br>scan<br>culture<br>fat |  
+| bip_39_word_new_br_12 | spike<br>teach<br>cupboard<br>hire<br>retire<br>hard<br>repair<br>frequent<br>scan<br>culture<br>fat<br>ankle |  
+| bip_39_word_new_br_2 | spike<br>teach |  
+| bip_39_word_new_br_3 | spike<br>teach<br>cupboard |  
+| bip_39_word_new_br_4 | spike<br>teach<br>cupboard<br>hire |  
+| bip_39_word_new_br_5 | spike<br>teach<br>cupboard<br>hire<br>retire |  
+| bip_39_word_new_br_6 | spike<br>teach<br>cupboard<br>hire<br>retire<br>hard |  
+| bip_39_word_new_br_7 | spike<br>teach<br>cupboard<br>hire<br>retire<br>hard<br>repair |  
+| bip_39_word_new_br_8 | spike<br>teach<br>cupboard<br>hire<br>retire<br>hard<br>repair<br>frequent |  
+| bip_39_word_new_br_9 | spike<br>teach<br>cupboard<br>hire<br>retire<br>hard<br>repair<br>frequent<br>scan |  
+| bip_39_word_new_line_1 | spike |  
+| bip_39_word_new_line_10 | spike
 teach
 cupboard
 hire
@@ -55,7 +55,7 @@ repair
 frequent
 scan
 culture |  
-| bip_39_word_new_line11 | spike
+| bip_39_word_new_line_11 | spike
 teach
 cupboard
 hire
@@ -66,7 +66,7 @@ frequent
 scan
 culture
 fat |  
-| bip_39_word_new_line12 | spike
+| bip_39_word_new_line_12 | spike
 teach
 cupboard
 hire
@@ -78,34 +78,34 @@ scan
 culture
 fat
 ankle |  
-| bip_39_word_new_line2 | spike
+| bip_39_word_new_line_2 | spike
 teach |  
-| bip_39_word_new_line3 | spike
+| bip_39_word_new_line_3 | spike
 teach
 cupboard |  
-| bip_39_word_new_line4 | spike
+| bip_39_word_new_line_4 | spike
 teach
 cupboard
 hire |  
-| bip_39_word_new_line5 | spike
+| bip_39_word_new_line_5 | spike
 teach
 cupboard
 hire
 retire |  
-| bip_39_word_new_line6 | spike
+| bip_39_word_new_line_6 | spike
 teach
 cupboard
 hire
 retire
 hard |  
-| bip_39_word_new_line7 | spike
+| bip_39_word_new_line_7 | spike
 teach
 cupboard
 hire
 retire
 hard
 repair |  
-| bip_39_word_new_line8 | spike
+| bip_39_word_new_line_8 | spike
 teach
 cupboard
 hire
@@ -113,7 +113,7 @@ retire
 hard
 repair
 frequent |  
-| bip_39_word_new_line9 | spike
+| bip_39_word_new_line_9 | spike
 teach
 cupboard
 hire

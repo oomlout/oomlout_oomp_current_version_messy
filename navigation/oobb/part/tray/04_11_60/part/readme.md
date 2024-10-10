@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | margin |  
-| bip_39_word_new_br10 | margin<br>gym<br>erase<br>fossil<br>second<br>manual<br>warfare<br>gorilla<br>relief<br>column |  
-| bip_39_word_new_br11 | margin<br>gym<br>erase<br>fossil<br>second<br>manual<br>warfare<br>gorilla<br>relief<br>column<br>symptom |  
-| bip_39_word_new_br12 | margin<br>gym<br>erase<br>fossil<br>second<br>manual<br>warfare<br>gorilla<br>relief<br>column<br>symptom<br>asset |  
-| bip_39_word_new_br2 | margin<br>gym |  
-| bip_39_word_new_br3 | margin<br>gym<br>erase |  
-| bip_39_word_new_br4 | margin<br>gym<br>erase<br>fossil |  
-| bip_39_word_new_br5 | margin<br>gym<br>erase<br>fossil<br>second |  
-| bip_39_word_new_br6 | margin<br>gym<br>erase<br>fossil<br>second<br>manual |  
-| bip_39_word_new_br7 | margin<br>gym<br>erase<br>fossil<br>second<br>manual<br>warfare |  
-| bip_39_word_new_br8 | margin<br>gym<br>erase<br>fossil<br>second<br>manual<br>warfare<br>gorilla |  
-| bip_39_word_new_br9 | margin<br>gym<br>erase<br>fossil<br>second<br>manual<br>warfare<br>gorilla<br>relief |  
-| bip_39_word_new_line1 | margin |  
-| bip_39_word_new_line10 | margin
+| bip_39_word_new_br_1 | margin |  
+| bip_39_word_new_br_10 | margin<br>gym<br>erase<br>fossil<br>second<br>manual<br>warfare<br>gorilla<br>relief<br>column |  
+| bip_39_word_new_br_11 | margin<br>gym<br>erase<br>fossil<br>second<br>manual<br>warfare<br>gorilla<br>relief<br>column<br>symptom |  
+| bip_39_word_new_br_12 | margin<br>gym<br>erase<br>fossil<br>second<br>manual<br>warfare<br>gorilla<br>relief<br>column<br>symptom<br>asset |  
+| bip_39_word_new_br_2 | margin<br>gym |  
+| bip_39_word_new_br_3 | margin<br>gym<br>erase |  
+| bip_39_word_new_br_4 | margin<br>gym<br>erase<br>fossil |  
+| bip_39_word_new_br_5 | margin<br>gym<br>erase<br>fossil<br>second |  
+| bip_39_word_new_br_6 | margin<br>gym<br>erase<br>fossil<br>second<br>manual |  
+| bip_39_word_new_br_7 | margin<br>gym<br>erase<br>fossil<br>second<br>manual<br>warfare |  
+| bip_39_word_new_br_8 | margin<br>gym<br>erase<br>fossil<br>second<br>manual<br>warfare<br>gorilla |  
+| bip_39_word_new_br_9 | margin<br>gym<br>erase<br>fossil<br>second<br>manual<br>warfare<br>gorilla<br>relief |  
+| bip_39_word_new_line_1 | margin |  
+| bip_39_word_new_line_10 | margin
 gym
 erase
 fossil
@@ -55,7 +55,7 @@ warfare
 gorilla
 relief
 column |  
-| bip_39_word_new_line11 | margin
+| bip_39_word_new_line_11 | margin
 gym
 erase
 fossil
@@ -66,7 +66,7 @@ gorilla
 relief
 column
 symptom |  
-| bip_39_word_new_line12 | margin
+| bip_39_word_new_line_12 | margin
 gym
 erase
 fossil
@@ -78,34 +78,34 @@ relief
 column
 symptom
 asset |  
-| bip_39_word_new_line2 | margin
+| bip_39_word_new_line_2 | margin
 gym |  
-| bip_39_word_new_line3 | margin
+| bip_39_word_new_line_3 | margin
 gym
 erase |  
-| bip_39_word_new_line4 | margin
+| bip_39_word_new_line_4 | margin
 gym
 erase
 fossil |  
-| bip_39_word_new_line5 | margin
+| bip_39_word_new_line_5 | margin
 gym
 erase
 fossil
 second |  
-| bip_39_word_new_line6 | margin
+| bip_39_word_new_line_6 | margin
 gym
 erase
 fossil
 second
 manual |  
-| bip_39_word_new_line7 | margin
+| bip_39_word_new_line_7 | margin
 gym
 erase
 fossil
 second
 manual
 warfare |  
-| bip_39_word_new_line8 | margin
+| bip_39_word_new_line_8 | margin
 gym
 erase
 fossil
@@ -113,7 +113,7 @@ second
 manual
 warfare
 gorilla |  
-| bip_39_word_new_line9 | margin
+| bip_39_word_new_line_9 | margin
 gym
 erase
 fossil

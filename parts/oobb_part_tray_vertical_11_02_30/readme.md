@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | web |  
-| bip_39_word_new_br10 | web<br>manual<br>sing<br>comic<br>quality<br>canyon<br>boil<br>knock<br>prevent<br>elder |  
-| bip_39_word_new_br11 | web<br>manual<br>sing<br>comic<br>quality<br>canyon<br>boil<br>knock<br>prevent<br>elder<br>season |  
-| bip_39_word_new_br12 | web<br>manual<br>sing<br>comic<br>quality<br>canyon<br>boil<br>knock<br>prevent<br>elder<br>season<br>attract |  
-| bip_39_word_new_br2 | web<br>manual |  
-| bip_39_word_new_br3 | web<br>manual<br>sing |  
-| bip_39_word_new_br4 | web<br>manual<br>sing<br>comic |  
-| bip_39_word_new_br5 | web<br>manual<br>sing<br>comic<br>quality |  
-| bip_39_word_new_br6 | web<br>manual<br>sing<br>comic<br>quality<br>canyon |  
-| bip_39_word_new_br7 | web<br>manual<br>sing<br>comic<br>quality<br>canyon<br>boil |  
-| bip_39_word_new_br8 | web<br>manual<br>sing<br>comic<br>quality<br>canyon<br>boil<br>knock |  
-| bip_39_word_new_br9 | web<br>manual<br>sing<br>comic<br>quality<br>canyon<br>boil<br>knock<br>prevent |  
-| bip_39_word_new_line1 | web |  
-| bip_39_word_new_line10 | web
+| bip_39_word_new_br_1 | web |  
+| bip_39_word_new_br_10 | web<br>manual<br>sing<br>comic<br>quality<br>canyon<br>boil<br>knock<br>prevent<br>elder |  
+| bip_39_word_new_br_11 | web<br>manual<br>sing<br>comic<br>quality<br>canyon<br>boil<br>knock<br>prevent<br>elder<br>season |  
+| bip_39_word_new_br_12 | web<br>manual<br>sing<br>comic<br>quality<br>canyon<br>boil<br>knock<br>prevent<br>elder<br>season<br>attract |  
+| bip_39_word_new_br_2 | web<br>manual |  
+| bip_39_word_new_br_3 | web<br>manual<br>sing |  
+| bip_39_word_new_br_4 | web<br>manual<br>sing<br>comic |  
+| bip_39_word_new_br_5 | web<br>manual<br>sing<br>comic<br>quality |  
+| bip_39_word_new_br_6 | web<br>manual<br>sing<br>comic<br>quality<br>canyon |  
+| bip_39_word_new_br_7 | web<br>manual<br>sing<br>comic<br>quality<br>canyon<br>boil |  
+| bip_39_word_new_br_8 | web<br>manual<br>sing<br>comic<br>quality<br>canyon<br>boil<br>knock |  
+| bip_39_word_new_br_9 | web<br>manual<br>sing<br>comic<br>quality<br>canyon<br>boil<br>knock<br>prevent |  
+| bip_39_word_new_line_1 | web |  
+| bip_39_word_new_line_10 | web
 manual
 sing
 comic
@@ -55,7 +55,7 @@ boil
 knock
 prevent
 elder |  
-| bip_39_word_new_line11 | web
+| bip_39_word_new_line_11 | web
 manual
 sing
 comic
@@ -66,7 +66,7 @@ knock
 prevent
 elder
 season |  
-| bip_39_word_new_line12 | web
+| bip_39_word_new_line_12 | web
 manual
 sing
 comic
@@ -78,34 +78,34 @@ prevent
 elder
 season
 attract |  
-| bip_39_word_new_line2 | web
+| bip_39_word_new_line_2 | web
 manual |  
-| bip_39_word_new_line3 | web
+| bip_39_word_new_line_3 | web
 manual
 sing |  
-| bip_39_word_new_line4 | web
+| bip_39_word_new_line_4 | web
 manual
 sing
 comic |  
-| bip_39_word_new_line5 | web
+| bip_39_word_new_line_5 | web
 manual
 sing
 comic
 quality |  
-| bip_39_word_new_line6 | web
+| bip_39_word_new_line_6 | web
 manual
 sing
 comic
 quality
 canyon |  
-| bip_39_word_new_line7 | web
+| bip_39_word_new_line_7 | web
 manual
 sing
 comic
 quality
 canyon
 boil |  
-| bip_39_word_new_line8 | web
+| bip_39_word_new_line_8 | web
 manual
 sing
 comic
@@ -113,7 +113,7 @@ quality
 canyon
 boil
 knock |  
-| bip_39_word_new_line9 | web
+| bip_39_word_new_line_9 | web
 manual
 sing
 comic

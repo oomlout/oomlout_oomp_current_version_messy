@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | opera |  
-| bip_39_word_new_br10 | opera<br>final<br>bulk<br>gap<br>never<br>bargain<br>dinner<br>pig<br>style<br>medal |  
-| bip_39_word_new_br11 | opera<br>final<br>bulk<br>gap<br>never<br>bargain<br>dinner<br>pig<br>style<br>medal<br>depart |  
-| bip_39_word_new_br12 | opera<br>final<br>bulk<br>gap<br>never<br>bargain<br>dinner<br>pig<br>style<br>medal<br>depart<br>alien |  
-| bip_39_word_new_br2 | opera<br>final |  
-| bip_39_word_new_br3 | opera<br>final<br>bulk |  
-| bip_39_word_new_br4 | opera<br>final<br>bulk<br>gap |  
-| bip_39_word_new_br5 | opera<br>final<br>bulk<br>gap<br>never |  
-| bip_39_word_new_br6 | opera<br>final<br>bulk<br>gap<br>never<br>bargain |  
-| bip_39_word_new_br7 | opera<br>final<br>bulk<br>gap<br>never<br>bargain<br>dinner |  
-| bip_39_word_new_br8 | opera<br>final<br>bulk<br>gap<br>never<br>bargain<br>dinner<br>pig |  
-| bip_39_word_new_br9 | opera<br>final<br>bulk<br>gap<br>never<br>bargain<br>dinner<br>pig<br>style |  
-| bip_39_word_new_line1 | opera |  
-| bip_39_word_new_line10 | opera
+| bip_39_word_new_br_1 | opera |  
+| bip_39_word_new_br_10 | opera<br>final<br>bulk<br>gap<br>never<br>bargain<br>dinner<br>pig<br>style<br>medal |  
+| bip_39_word_new_br_11 | opera<br>final<br>bulk<br>gap<br>never<br>bargain<br>dinner<br>pig<br>style<br>medal<br>depart |  
+| bip_39_word_new_br_12 | opera<br>final<br>bulk<br>gap<br>never<br>bargain<br>dinner<br>pig<br>style<br>medal<br>depart<br>alien |  
+| bip_39_word_new_br_2 | opera<br>final |  
+| bip_39_word_new_br_3 | opera<br>final<br>bulk |  
+| bip_39_word_new_br_4 | opera<br>final<br>bulk<br>gap |  
+| bip_39_word_new_br_5 | opera<br>final<br>bulk<br>gap<br>never |  
+| bip_39_word_new_br_6 | opera<br>final<br>bulk<br>gap<br>never<br>bargain |  
+| bip_39_word_new_br_7 | opera<br>final<br>bulk<br>gap<br>never<br>bargain<br>dinner |  
+| bip_39_word_new_br_8 | opera<br>final<br>bulk<br>gap<br>never<br>bargain<br>dinner<br>pig |  
+| bip_39_word_new_br_9 | opera<br>final<br>bulk<br>gap<br>never<br>bargain<br>dinner<br>pig<br>style |  
+| bip_39_word_new_line_1 | opera |  
+| bip_39_word_new_line_10 | opera
 final
 bulk
 gap
@@ -55,7 +55,7 @@ dinner
 pig
 style
 medal |  
-| bip_39_word_new_line11 | opera
+| bip_39_word_new_line_11 | opera
 final
 bulk
 gap
@@ -66,7 +66,7 @@ pig
 style
 medal
 depart |  
-| bip_39_word_new_line12 | opera
+| bip_39_word_new_line_12 | opera
 final
 bulk
 gap
@@ -78,34 +78,34 @@ style
 medal
 depart
 alien |  
-| bip_39_word_new_line2 | opera
+| bip_39_word_new_line_2 | opera
 final |  
-| bip_39_word_new_line3 | opera
+| bip_39_word_new_line_3 | opera
 final
 bulk |  
-| bip_39_word_new_line4 | opera
+| bip_39_word_new_line_4 | opera
 final
 bulk
 gap |  
-| bip_39_word_new_line5 | opera
+| bip_39_word_new_line_5 | opera
 final
 bulk
 gap
 never |  
-| bip_39_word_new_line6 | opera
+| bip_39_word_new_line_6 | opera
 final
 bulk
 gap
 never
 bargain |  
-| bip_39_word_new_line7 | opera
+| bip_39_word_new_line_7 | opera
 final
 bulk
 gap
 never
 bargain
 dinner |  
-| bip_39_word_new_line8 | opera
+| bip_39_word_new_line_8 | opera
 final
 bulk
 gap
@@ -113,7 +113,7 @@ never
 bargain
 dinner
 pig |  
-| bip_39_word_new_line9 | opera
+| bip_39_word_new_line_9 | opera
 final
 bulk
 gap

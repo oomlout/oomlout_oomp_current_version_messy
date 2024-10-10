@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | govern |  
-| bip_39_word_new_br10 | govern<br>lecture<br>orbit<br>shock<br>come<br>wonder<br>sentence<br>expect<br>loop<br>napkin |  
-| bip_39_word_new_br11 | govern<br>lecture<br>orbit<br>shock<br>come<br>wonder<br>sentence<br>expect<br>loop<br>napkin<br>local |  
-| bip_39_word_new_br12 | govern<br>lecture<br>orbit<br>shock<br>come<br>wonder<br>sentence<br>expect<br>loop<br>napkin<br>local<br>adjust |  
-| bip_39_word_new_br2 | govern<br>lecture |  
-| bip_39_word_new_br3 | govern<br>lecture<br>orbit |  
-| bip_39_word_new_br4 | govern<br>lecture<br>orbit<br>shock |  
-| bip_39_word_new_br5 | govern<br>lecture<br>orbit<br>shock<br>come |  
-| bip_39_word_new_br6 | govern<br>lecture<br>orbit<br>shock<br>come<br>wonder |  
-| bip_39_word_new_br7 | govern<br>lecture<br>orbit<br>shock<br>come<br>wonder<br>sentence |  
-| bip_39_word_new_br8 | govern<br>lecture<br>orbit<br>shock<br>come<br>wonder<br>sentence<br>expect |  
-| bip_39_word_new_br9 | govern<br>lecture<br>orbit<br>shock<br>come<br>wonder<br>sentence<br>expect<br>loop |  
-| bip_39_word_new_line1 | govern |  
-| bip_39_word_new_line10 | govern
+| bip_39_word_new_br_1 | govern |  
+| bip_39_word_new_br_10 | govern<br>lecture<br>orbit<br>shock<br>come<br>wonder<br>sentence<br>expect<br>loop<br>napkin |  
+| bip_39_word_new_br_11 | govern<br>lecture<br>orbit<br>shock<br>come<br>wonder<br>sentence<br>expect<br>loop<br>napkin<br>local |  
+| bip_39_word_new_br_12 | govern<br>lecture<br>orbit<br>shock<br>come<br>wonder<br>sentence<br>expect<br>loop<br>napkin<br>local<br>adjust |  
+| bip_39_word_new_br_2 | govern<br>lecture |  
+| bip_39_word_new_br_3 | govern<br>lecture<br>orbit |  
+| bip_39_word_new_br_4 | govern<br>lecture<br>orbit<br>shock |  
+| bip_39_word_new_br_5 | govern<br>lecture<br>orbit<br>shock<br>come |  
+| bip_39_word_new_br_6 | govern<br>lecture<br>orbit<br>shock<br>come<br>wonder |  
+| bip_39_word_new_br_7 | govern<br>lecture<br>orbit<br>shock<br>come<br>wonder<br>sentence |  
+| bip_39_word_new_br_8 | govern<br>lecture<br>orbit<br>shock<br>come<br>wonder<br>sentence<br>expect |  
+| bip_39_word_new_br_9 | govern<br>lecture<br>orbit<br>shock<br>come<br>wonder<br>sentence<br>expect<br>loop |  
+| bip_39_word_new_line_1 | govern |  
+| bip_39_word_new_line_10 | govern
 lecture
 orbit
 shock
@@ -55,7 +55,7 @@ sentence
 expect
 loop
 napkin |  
-| bip_39_word_new_line11 | govern
+| bip_39_word_new_line_11 | govern
 lecture
 orbit
 shock
@@ -66,7 +66,7 @@ expect
 loop
 napkin
 local |  
-| bip_39_word_new_line12 | govern
+| bip_39_word_new_line_12 | govern
 lecture
 orbit
 shock
@@ -78,34 +78,34 @@ loop
 napkin
 local
 adjust |  
-| bip_39_word_new_line2 | govern
+| bip_39_word_new_line_2 | govern
 lecture |  
-| bip_39_word_new_line3 | govern
+| bip_39_word_new_line_3 | govern
 lecture
 orbit |  
-| bip_39_word_new_line4 | govern
+| bip_39_word_new_line_4 | govern
 lecture
 orbit
 shock |  
-| bip_39_word_new_line5 | govern
+| bip_39_word_new_line_5 | govern
 lecture
 orbit
 shock
 come |  
-| bip_39_word_new_line6 | govern
+| bip_39_word_new_line_6 | govern
 lecture
 orbit
 shock
 come
 wonder |  
-| bip_39_word_new_line7 | govern
+| bip_39_word_new_line_7 | govern
 lecture
 orbit
 shock
 come
 wonder
 sentence |  
-| bip_39_word_new_line8 | govern
+| bip_39_word_new_line_8 | govern
 lecture
 orbit
 shock
@@ -113,7 +113,7 @@ come
 wonder
 sentence
 expect |  
-| bip_39_word_new_line9 | govern
+| bip_39_word_new_line_9 | govern
 lecture
 orbit
 shock

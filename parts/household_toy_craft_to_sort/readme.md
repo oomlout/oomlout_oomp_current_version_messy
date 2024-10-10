@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | focus |  
-| bip_39_word_new_br10 | focus<br>reveal<br>combine<br>cruel<br>apple<br>announce<br>uncle<br>clarify<br>accident<br>ripple |  
-| bip_39_word_new_br11 | focus<br>reveal<br>combine<br>cruel<br>apple<br>announce<br>uncle<br>clarify<br>accident<br>ripple<br>old |  
-| bip_39_word_new_br12 | focus<br>reveal<br>combine<br>cruel<br>apple<br>announce<br>uncle<br>clarify<br>accident<br>ripple<br>old<br>adjust |  
-| bip_39_word_new_br2 | focus<br>reveal |  
-| bip_39_word_new_br3 | focus<br>reveal<br>combine |  
-| bip_39_word_new_br4 | focus<br>reveal<br>combine<br>cruel |  
-| bip_39_word_new_br5 | focus<br>reveal<br>combine<br>cruel<br>apple |  
-| bip_39_word_new_br6 | focus<br>reveal<br>combine<br>cruel<br>apple<br>announce |  
-| bip_39_word_new_br7 | focus<br>reveal<br>combine<br>cruel<br>apple<br>announce<br>uncle |  
-| bip_39_word_new_br8 | focus<br>reveal<br>combine<br>cruel<br>apple<br>announce<br>uncle<br>clarify |  
-| bip_39_word_new_br9 | focus<br>reveal<br>combine<br>cruel<br>apple<br>announce<br>uncle<br>clarify<br>accident |  
-| bip_39_word_new_line1 | focus |  
-| bip_39_word_new_line10 | focus
+| bip_39_word_new_br_1 | focus |  
+| bip_39_word_new_br_10 | focus<br>reveal<br>combine<br>cruel<br>apple<br>announce<br>uncle<br>clarify<br>accident<br>ripple |  
+| bip_39_word_new_br_11 | focus<br>reveal<br>combine<br>cruel<br>apple<br>announce<br>uncle<br>clarify<br>accident<br>ripple<br>old |  
+| bip_39_word_new_br_12 | focus<br>reveal<br>combine<br>cruel<br>apple<br>announce<br>uncle<br>clarify<br>accident<br>ripple<br>old<br>adjust |  
+| bip_39_word_new_br_2 | focus<br>reveal |  
+| bip_39_word_new_br_3 | focus<br>reveal<br>combine |  
+| bip_39_word_new_br_4 | focus<br>reveal<br>combine<br>cruel |  
+| bip_39_word_new_br_5 | focus<br>reveal<br>combine<br>cruel<br>apple |  
+| bip_39_word_new_br_6 | focus<br>reveal<br>combine<br>cruel<br>apple<br>announce |  
+| bip_39_word_new_br_7 | focus<br>reveal<br>combine<br>cruel<br>apple<br>announce<br>uncle |  
+| bip_39_word_new_br_8 | focus<br>reveal<br>combine<br>cruel<br>apple<br>announce<br>uncle<br>clarify |  
+| bip_39_word_new_br_9 | focus<br>reveal<br>combine<br>cruel<br>apple<br>announce<br>uncle<br>clarify<br>accident |  
+| bip_39_word_new_line_1 | focus |  
+| bip_39_word_new_line_10 | focus
 reveal
 combine
 cruel
@@ -55,7 +55,7 @@ uncle
 clarify
 accident
 ripple |  
-| bip_39_word_new_line11 | focus
+| bip_39_word_new_line_11 | focus
 reveal
 combine
 cruel
@@ -66,7 +66,7 @@ clarify
 accident
 ripple
 old |  
-| bip_39_word_new_line12 | focus
+| bip_39_word_new_line_12 | focus
 reveal
 combine
 cruel
@@ -78,34 +78,34 @@ accident
 ripple
 old
 adjust |  
-| bip_39_word_new_line2 | focus
+| bip_39_word_new_line_2 | focus
 reveal |  
-| bip_39_word_new_line3 | focus
+| bip_39_word_new_line_3 | focus
 reveal
 combine |  
-| bip_39_word_new_line4 | focus
+| bip_39_word_new_line_4 | focus
 reveal
 combine
 cruel |  
-| bip_39_word_new_line5 | focus
+| bip_39_word_new_line_5 | focus
 reveal
 combine
 cruel
 apple |  
-| bip_39_word_new_line6 | focus
+| bip_39_word_new_line_6 | focus
 reveal
 combine
 cruel
 apple
 announce |  
-| bip_39_word_new_line7 | focus
+| bip_39_word_new_line_7 | focus
 reveal
 combine
 cruel
 apple
 announce
 uncle |  
-| bip_39_word_new_line8 | focus
+| bip_39_word_new_line_8 | focus
 reveal
 combine
 cruel
@@ -113,7 +113,7 @@ apple
 announce
 uncle
 clarify |  
-| bip_39_word_new_line9 | focus
+| bip_39_word_new_line_9 | focus
 reveal
 combine
 cruel

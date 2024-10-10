@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rely |  
-| bip_39_word_new_br10 | rely<br>museum<br>broccoli<br>stable<br>various<br>doll<br>bargain<br>traffic<br>gown<br>document |  
-| bip_39_word_new_br11 | rely<br>museum<br>broccoli<br>stable<br>various<br>doll<br>bargain<br>traffic<br>gown<br>document<br>jacket |  
-| bip_39_word_new_br12 | rely<br>museum<br>broccoli<br>stable<br>various<br>doll<br>bargain<br>traffic<br>gown<br>document<br>jacket<br>arena |  
-| bip_39_word_new_br2 | rely<br>museum |  
-| bip_39_word_new_br3 | rely<br>museum<br>broccoli |  
-| bip_39_word_new_br4 | rely<br>museum<br>broccoli<br>stable |  
-| bip_39_word_new_br5 | rely<br>museum<br>broccoli<br>stable<br>various |  
-| bip_39_word_new_br6 | rely<br>museum<br>broccoli<br>stable<br>various<br>doll |  
-| bip_39_word_new_br7 | rely<br>museum<br>broccoli<br>stable<br>various<br>doll<br>bargain |  
-| bip_39_word_new_br8 | rely<br>museum<br>broccoli<br>stable<br>various<br>doll<br>bargain<br>traffic |  
-| bip_39_word_new_br9 | rely<br>museum<br>broccoli<br>stable<br>various<br>doll<br>bargain<br>traffic<br>gown |  
-| bip_39_word_new_line1 | rely |  
-| bip_39_word_new_line10 | rely
+| bip_39_word_new_br_1 | rely |  
+| bip_39_word_new_br_10 | rely<br>museum<br>broccoli<br>stable<br>various<br>doll<br>bargain<br>traffic<br>gown<br>document |  
+| bip_39_word_new_br_11 | rely<br>museum<br>broccoli<br>stable<br>various<br>doll<br>bargain<br>traffic<br>gown<br>document<br>jacket |  
+| bip_39_word_new_br_12 | rely<br>museum<br>broccoli<br>stable<br>various<br>doll<br>bargain<br>traffic<br>gown<br>document<br>jacket<br>arena |  
+| bip_39_word_new_br_2 | rely<br>museum |  
+| bip_39_word_new_br_3 | rely<br>museum<br>broccoli |  
+| bip_39_word_new_br_4 | rely<br>museum<br>broccoli<br>stable |  
+| bip_39_word_new_br_5 | rely<br>museum<br>broccoli<br>stable<br>various |  
+| bip_39_word_new_br_6 | rely<br>museum<br>broccoli<br>stable<br>various<br>doll |  
+| bip_39_word_new_br_7 | rely<br>museum<br>broccoli<br>stable<br>various<br>doll<br>bargain |  
+| bip_39_word_new_br_8 | rely<br>museum<br>broccoli<br>stable<br>various<br>doll<br>bargain<br>traffic |  
+| bip_39_word_new_br_9 | rely<br>museum<br>broccoli<br>stable<br>various<br>doll<br>bargain<br>traffic<br>gown |  
+| bip_39_word_new_line_1 | rely |  
+| bip_39_word_new_line_10 | rely
 museum
 broccoli
 stable
@@ -55,7 +55,7 @@ bargain
 traffic
 gown
 document |  
-| bip_39_word_new_line11 | rely
+| bip_39_word_new_line_11 | rely
 museum
 broccoli
 stable
@@ -66,7 +66,7 @@ traffic
 gown
 document
 jacket |  
-| bip_39_word_new_line12 | rely
+| bip_39_word_new_line_12 | rely
 museum
 broccoli
 stable
@@ -78,34 +78,34 @@ gown
 document
 jacket
 arena |  
-| bip_39_word_new_line2 | rely
+| bip_39_word_new_line_2 | rely
 museum |  
-| bip_39_word_new_line3 | rely
+| bip_39_word_new_line_3 | rely
 museum
 broccoli |  
-| bip_39_word_new_line4 | rely
+| bip_39_word_new_line_4 | rely
 museum
 broccoli
 stable |  
-| bip_39_word_new_line5 | rely
+| bip_39_word_new_line_5 | rely
 museum
 broccoli
 stable
 various |  
-| bip_39_word_new_line6 | rely
+| bip_39_word_new_line_6 | rely
 museum
 broccoli
 stable
 various
 doll |  
-| bip_39_word_new_line7 | rely
+| bip_39_word_new_line_7 | rely
 museum
 broccoli
 stable
 various
 doll
 bargain |  
-| bip_39_word_new_line8 | rely
+| bip_39_word_new_line_8 | rely
 museum
 broccoli
 stable
@@ -113,7 +113,7 @@ various
 doll
 bargain
 traffic |  
-| bip_39_word_new_line9 | rely
+| bip_39_word_new_line_9 | rely
 museum
 broccoli
 stable

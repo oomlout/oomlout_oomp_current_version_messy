@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | assist |  
-| bip_39_word_new_br10 | assist<br>pig<br>castle<br>adult<br>sick<br>upper<br>reject<br>wage<br>height<br>toilet |  
-| bip_39_word_new_br11 | assist<br>pig<br>castle<br>adult<br>sick<br>upper<br>reject<br>wage<br>height<br>toilet<br>tip |  
-| bip_39_word_new_br12 | assist<br>pig<br>castle<br>adult<br>sick<br>upper<br>reject<br>wage<br>height<br>toilet<br>tip<br>alarm |  
-| bip_39_word_new_br2 | assist<br>pig |  
-| bip_39_word_new_br3 | assist<br>pig<br>castle |  
-| bip_39_word_new_br4 | assist<br>pig<br>castle<br>adult |  
-| bip_39_word_new_br5 | assist<br>pig<br>castle<br>adult<br>sick |  
-| bip_39_word_new_br6 | assist<br>pig<br>castle<br>adult<br>sick<br>upper |  
-| bip_39_word_new_br7 | assist<br>pig<br>castle<br>adult<br>sick<br>upper<br>reject |  
-| bip_39_word_new_br8 | assist<br>pig<br>castle<br>adult<br>sick<br>upper<br>reject<br>wage |  
-| bip_39_word_new_br9 | assist<br>pig<br>castle<br>adult<br>sick<br>upper<br>reject<br>wage<br>height |  
-| bip_39_word_new_line1 | assist |  
-| bip_39_word_new_line10 | assist
+| bip_39_word_new_br_1 | assist |  
+| bip_39_word_new_br_10 | assist<br>pig<br>castle<br>adult<br>sick<br>upper<br>reject<br>wage<br>height<br>toilet |  
+| bip_39_word_new_br_11 | assist<br>pig<br>castle<br>adult<br>sick<br>upper<br>reject<br>wage<br>height<br>toilet<br>tip |  
+| bip_39_word_new_br_12 | assist<br>pig<br>castle<br>adult<br>sick<br>upper<br>reject<br>wage<br>height<br>toilet<br>tip<br>alarm |  
+| bip_39_word_new_br_2 | assist<br>pig |  
+| bip_39_word_new_br_3 | assist<br>pig<br>castle |  
+| bip_39_word_new_br_4 | assist<br>pig<br>castle<br>adult |  
+| bip_39_word_new_br_5 | assist<br>pig<br>castle<br>adult<br>sick |  
+| bip_39_word_new_br_6 | assist<br>pig<br>castle<br>adult<br>sick<br>upper |  
+| bip_39_word_new_br_7 | assist<br>pig<br>castle<br>adult<br>sick<br>upper<br>reject |  
+| bip_39_word_new_br_8 | assist<br>pig<br>castle<br>adult<br>sick<br>upper<br>reject<br>wage |  
+| bip_39_word_new_br_9 | assist<br>pig<br>castle<br>adult<br>sick<br>upper<br>reject<br>wage<br>height |  
+| bip_39_word_new_line_1 | assist |  
+| bip_39_word_new_line_10 | assist
 pig
 castle
 adult
@@ -55,7 +55,7 @@ reject
 wage
 height
 toilet |  
-| bip_39_word_new_line11 | assist
+| bip_39_word_new_line_11 | assist
 pig
 castle
 adult
@@ -66,7 +66,7 @@ wage
 height
 toilet
 tip |  
-| bip_39_word_new_line12 | assist
+| bip_39_word_new_line_12 | assist
 pig
 castle
 adult
@@ -78,34 +78,34 @@ height
 toilet
 tip
 alarm |  
-| bip_39_word_new_line2 | assist
+| bip_39_word_new_line_2 | assist
 pig |  
-| bip_39_word_new_line3 | assist
+| bip_39_word_new_line_3 | assist
 pig
 castle |  
-| bip_39_word_new_line4 | assist
+| bip_39_word_new_line_4 | assist
 pig
 castle
 adult |  
-| bip_39_word_new_line5 | assist
+| bip_39_word_new_line_5 | assist
 pig
 castle
 adult
 sick |  
-| bip_39_word_new_line6 | assist
+| bip_39_word_new_line_6 | assist
 pig
 castle
 adult
 sick
 upper |  
-| bip_39_word_new_line7 | assist
+| bip_39_word_new_line_7 | assist
 pig
 castle
 adult
 sick
 upper
 reject |  
-| bip_39_word_new_line8 | assist
+| bip_39_word_new_line_8 | assist
 pig
 castle
 adult
@@ -113,7 +113,7 @@ sick
 upper
 reject
 wage |  
-| bip_39_word_new_line9 | assist
+| bip_39_word_new_line_9 | assist
 pig
 castle
 adult

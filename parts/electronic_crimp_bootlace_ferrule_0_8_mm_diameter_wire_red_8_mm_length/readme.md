@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | target |  
-| bip_39_word_new_br10 | target<br>wine<br>taste<br>fabric<br>wish<br>vocal<br>achieve<br>hollow<br>cereal<br>dress |  
-| bip_39_word_new_br11 | target<br>wine<br>taste<br>fabric<br>wish<br>vocal<br>achieve<br>hollow<br>cereal<br>dress<br>decade |  
-| bip_39_word_new_br12 | target<br>wine<br>taste<br>fabric<br>wish<br>vocal<br>achieve<br>hollow<br>cereal<br>dress<br>decade<br>august |  
-| bip_39_word_new_br2 | target<br>wine |  
-| bip_39_word_new_br3 | target<br>wine<br>taste |  
-| bip_39_word_new_br4 | target<br>wine<br>taste<br>fabric |  
-| bip_39_word_new_br5 | target<br>wine<br>taste<br>fabric<br>wish |  
-| bip_39_word_new_br6 | target<br>wine<br>taste<br>fabric<br>wish<br>vocal |  
-| bip_39_word_new_br7 | target<br>wine<br>taste<br>fabric<br>wish<br>vocal<br>achieve |  
-| bip_39_word_new_br8 | target<br>wine<br>taste<br>fabric<br>wish<br>vocal<br>achieve<br>hollow |  
-| bip_39_word_new_br9 | target<br>wine<br>taste<br>fabric<br>wish<br>vocal<br>achieve<br>hollow<br>cereal |  
-| bip_39_word_new_line1 | target |  
-| bip_39_word_new_line10 | target
+| bip_39_word_new_br_1 | target |  
+| bip_39_word_new_br_10 | target<br>wine<br>taste<br>fabric<br>wish<br>vocal<br>achieve<br>hollow<br>cereal<br>dress |  
+| bip_39_word_new_br_11 | target<br>wine<br>taste<br>fabric<br>wish<br>vocal<br>achieve<br>hollow<br>cereal<br>dress<br>decade |  
+| bip_39_word_new_br_12 | target<br>wine<br>taste<br>fabric<br>wish<br>vocal<br>achieve<br>hollow<br>cereal<br>dress<br>decade<br>august |  
+| bip_39_word_new_br_2 | target<br>wine |  
+| bip_39_word_new_br_3 | target<br>wine<br>taste |  
+| bip_39_word_new_br_4 | target<br>wine<br>taste<br>fabric |  
+| bip_39_word_new_br_5 | target<br>wine<br>taste<br>fabric<br>wish |  
+| bip_39_word_new_br_6 | target<br>wine<br>taste<br>fabric<br>wish<br>vocal |  
+| bip_39_word_new_br_7 | target<br>wine<br>taste<br>fabric<br>wish<br>vocal<br>achieve |  
+| bip_39_word_new_br_8 | target<br>wine<br>taste<br>fabric<br>wish<br>vocal<br>achieve<br>hollow |  
+| bip_39_word_new_br_9 | target<br>wine<br>taste<br>fabric<br>wish<br>vocal<br>achieve<br>hollow<br>cereal |  
+| bip_39_word_new_line_1 | target |  
+| bip_39_word_new_line_10 | target
 wine
 taste
 fabric
@@ -55,7 +55,7 @@ achieve
 hollow
 cereal
 dress |  
-| bip_39_word_new_line11 | target
+| bip_39_word_new_line_11 | target
 wine
 taste
 fabric
@@ -66,7 +66,7 @@ hollow
 cereal
 dress
 decade |  
-| bip_39_word_new_line12 | target
+| bip_39_word_new_line_12 | target
 wine
 taste
 fabric
@@ -78,34 +78,34 @@ cereal
 dress
 decade
 august |  
-| bip_39_word_new_line2 | target
+| bip_39_word_new_line_2 | target
 wine |  
-| bip_39_word_new_line3 | target
+| bip_39_word_new_line_3 | target
 wine
 taste |  
-| bip_39_word_new_line4 | target
+| bip_39_word_new_line_4 | target
 wine
 taste
 fabric |  
-| bip_39_word_new_line5 | target
+| bip_39_word_new_line_5 | target
 wine
 taste
 fabric
 wish |  
-| bip_39_word_new_line6 | target
+| bip_39_word_new_line_6 | target
 wine
 taste
 fabric
 wish
 vocal |  
-| bip_39_word_new_line7 | target
+| bip_39_word_new_line_7 | target
 wine
 taste
 fabric
 wish
 vocal
 achieve |  
-| bip_39_word_new_line8 | target
+| bip_39_word_new_line_8 | target
 wine
 taste
 fabric
@@ -113,7 +113,7 @@ wish
 vocal
 achieve
 hollow |  
-| bip_39_word_new_line9 | target
+| bip_39_word_new_line_9 | target
 wine
 taste
 fabric

@@ -1,17 +1,17 @@
-bip_39_word_new_br1: juice
-bip_39_word_new_br10: juice<br>pioneer<br>knife<br>coast<br>time<br>stuff<br>flash<br>fault<br>bullet<br>erase
-bip_39_word_new_br11: juice<br>pioneer<br>knife<br>coast<br>time<br>stuff<br>flash<br>fault<br>bullet<br>erase<br>amateur
-bip_39_word_new_br12: juice<br>pioneer<br>knife<br>coast<br>time<br>stuff<br>flash<br>fault<br>bullet<br>erase<br>amateur<br>apart
-bip_39_word_new_br2: juice<br>pioneer
-bip_39_word_new_br3: juice<br>pioneer<br>knife
-bip_39_word_new_br4: juice<br>pioneer<br>knife<br>coast
-bip_39_word_new_br5: juice<br>pioneer<br>knife<br>coast<br>time
-bip_39_word_new_br6: juice<br>pioneer<br>knife<br>coast<br>time<br>stuff
-bip_39_word_new_br7: juice<br>pioneer<br>knife<br>coast<br>time<br>stuff<br>flash
-bip_39_word_new_br8: juice<br>pioneer<br>knife<br>coast<br>time<br>stuff<br>flash<br>fault
-bip_39_word_new_br9: juice<br>pioneer<br>knife<br>coast<br>time<br>stuff<br>flash<br>fault<br>bullet
-bip_39_word_new_line1: juice
-bip_39_word_new_line10: 'juice
+bip_39_word_new_br_1: juice
+bip_39_word_new_br_10: juice<br>pioneer<br>knife<br>coast<br>time<br>stuff<br>flash<br>fault<br>bullet<br>erase
+bip_39_word_new_br_11: juice<br>pioneer<br>knife<br>coast<br>time<br>stuff<br>flash<br>fault<br>bullet<br>erase<br>amateur
+bip_39_word_new_br_12: juice<br>pioneer<br>knife<br>coast<br>time<br>stuff<br>flash<br>fault<br>bullet<br>erase<br>amateur<br>apart
+bip_39_word_new_br_2: juice<br>pioneer
+bip_39_word_new_br_3: juice<br>pioneer<br>knife
+bip_39_word_new_br_4: juice<br>pioneer<br>knife<br>coast
+bip_39_word_new_br_5: juice<br>pioneer<br>knife<br>coast<br>time
+bip_39_word_new_br_6: juice<br>pioneer<br>knife<br>coast<br>time<br>stuff
+bip_39_word_new_br_7: juice<br>pioneer<br>knife<br>coast<br>time<br>stuff<br>flash
+bip_39_word_new_br_8: juice<br>pioneer<br>knife<br>coast<br>time<br>stuff<br>flash<br>fault
+bip_39_word_new_br_9: juice<br>pioneer<br>knife<br>coast<br>time<br>stuff<br>flash<br>fault<br>bullet
+bip_39_word_new_line_1: juice
+bip_39_word_new_line_10: 'juice
 
   pioneer
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'juice
   bullet
 
   erase'
-bip_39_word_new_line11: 'juice
+bip_39_word_new_line_11: 'juice
 
   pioneer
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'juice
   erase
 
   amateur'
-bip_39_word_new_line12: 'juice
+bip_39_word_new_line_12: 'juice
 
   pioneer
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'juice
   amateur
 
   apart'
-bip_39_word_new_line2: 'juice
+bip_39_word_new_line_2: 'juice
 
   pioneer'
-bip_39_word_new_line3: 'juice
+bip_39_word_new_line_3: 'juice
 
   pioneer
 
   knife'
-bip_39_word_new_line4: 'juice
+bip_39_word_new_line_4: 'juice
 
   pioneer
 
   knife
 
   coast'
-bip_39_word_new_line5: 'juice
+bip_39_word_new_line_5: 'juice
 
   pioneer
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'juice
   coast
 
   time'
-bip_39_word_new_line6: 'juice
+bip_39_word_new_line_6: 'juice
 
   pioneer
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'juice
   time
 
   stuff'
-bip_39_word_new_line7: 'juice
+bip_39_word_new_line_7: 'juice
 
   pioneer
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'juice
   stuff
 
   flash'
-bip_39_word_new_line8: 'juice
+bip_39_word_new_line_8: 'juice
 
   pioneer
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'juice
   flash
 
   fault'
-bip_39_word_new_line9: 'juice
+bip_39_word_new_line_9: 'juice
 
   pioneer
 

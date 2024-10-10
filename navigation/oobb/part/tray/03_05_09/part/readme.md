@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | supreme |  
-| bip_39_word_new_br10 | supreme<br>frown<br>barrel<br>magnet<br>page<br>cost<br>group<br>glad<br>surge<br>enrich |  
-| bip_39_word_new_br11 | supreme<br>frown<br>barrel<br>magnet<br>page<br>cost<br>group<br>glad<br>surge<br>enrich<br>impact |  
-| bip_39_word_new_br12 | supreme<br>frown<br>barrel<br>magnet<br>page<br>cost<br>group<br>glad<br>surge<br>enrich<br>impact<br>amused |  
-| bip_39_word_new_br2 | supreme<br>frown |  
-| bip_39_word_new_br3 | supreme<br>frown<br>barrel |  
-| bip_39_word_new_br4 | supreme<br>frown<br>barrel<br>magnet |  
-| bip_39_word_new_br5 | supreme<br>frown<br>barrel<br>magnet<br>page |  
-| bip_39_word_new_br6 | supreme<br>frown<br>barrel<br>magnet<br>page<br>cost |  
-| bip_39_word_new_br7 | supreme<br>frown<br>barrel<br>magnet<br>page<br>cost<br>group |  
-| bip_39_word_new_br8 | supreme<br>frown<br>barrel<br>magnet<br>page<br>cost<br>group<br>glad |  
-| bip_39_word_new_br9 | supreme<br>frown<br>barrel<br>magnet<br>page<br>cost<br>group<br>glad<br>surge |  
-| bip_39_word_new_line1 | supreme |  
-| bip_39_word_new_line10 | supreme
+| bip_39_word_new_br_1 | supreme |  
+| bip_39_word_new_br_10 | supreme<br>frown<br>barrel<br>magnet<br>page<br>cost<br>group<br>glad<br>surge<br>enrich |  
+| bip_39_word_new_br_11 | supreme<br>frown<br>barrel<br>magnet<br>page<br>cost<br>group<br>glad<br>surge<br>enrich<br>impact |  
+| bip_39_word_new_br_12 | supreme<br>frown<br>barrel<br>magnet<br>page<br>cost<br>group<br>glad<br>surge<br>enrich<br>impact<br>amused |  
+| bip_39_word_new_br_2 | supreme<br>frown |  
+| bip_39_word_new_br_3 | supreme<br>frown<br>barrel |  
+| bip_39_word_new_br_4 | supreme<br>frown<br>barrel<br>magnet |  
+| bip_39_word_new_br_5 | supreme<br>frown<br>barrel<br>magnet<br>page |  
+| bip_39_word_new_br_6 | supreme<br>frown<br>barrel<br>magnet<br>page<br>cost |  
+| bip_39_word_new_br_7 | supreme<br>frown<br>barrel<br>magnet<br>page<br>cost<br>group |  
+| bip_39_word_new_br_8 | supreme<br>frown<br>barrel<br>magnet<br>page<br>cost<br>group<br>glad |  
+| bip_39_word_new_br_9 | supreme<br>frown<br>barrel<br>magnet<br>page<br>cost<br>group<br>glad<br>surge |  
+| bip_39_word_new_line_1 | supreme |  
+| bip_39_word_new_line_10 | supreme
 frown
 barrel
 magnet
@@ -55,7 +55,7 @@ group
 glad
 surge
 enrich |  
-| bip_39_word_new_line11 | supreme
+| bip_39_word_new_line_11 | supreme
 frown
 barrel
 magnet
@@ -66,7 +66,7 @@ glad
 surge
 enrich
 impact |  
-| bip_39_word_new_line12 | supreme
+| bip_39_word_new_line_12 | supreme
 frown
 barrel
 magnet
@@ -78,34 +78,34 @@ surge
 enrich
 impact
 amused |  
-| bip_39_word_new_line2 | supreme
+| bip_39_word_new_line_2 | supreme
 frown |  
-| bip_39_word_new_line3 | supreme
+| bip_39_word_new_line_3 | supreme
 frown
 barrel |  
-| bip_39_word_new_line4 | supreme
+| bip_39_word_new_line_4 | supreme
 frown
 barrel
 magnet |  
-| bip_39_word_new_line5 | supreme
+| bip_39_word_new_line_5 | supreme
 frown
 barrel
 magnet
 page |  
-| bip_39_word_new_line6 | supreme
+| bip_39_word_new_line_6 | supreme
 frown
 barrel
 magnet
 page
 cost |  
-| bip_39_word_new_line7 | supreme
+| bip_39_word_new_line_7 | supreme
 frown
 barrel
 magnet
 page
 cost
 group |  
-| bip_39_word_new_line8 | supreme
+| bip_39_word_new_line_8 | supreme
 frown
 barrel
 magnet
@@ -113,7 +113,7 @@ page
 cost
 group
 glad |  
-| bip_39_word_new_line9 | supreme
+| bip_39_word_new_line_9 | supreme
 frown
 barrel
 magnet

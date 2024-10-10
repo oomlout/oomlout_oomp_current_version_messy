@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | end |  
-| bip_39_word_new_br10 | end<br>clock<br>pond<br>salon<br>birth<br>total<br>analyst<br>around<br>zebra<br>split |  
-| bip_39_word_new_br11 | end<br>clock<br>pond<br>salon<br>birth<br>total<br>analyst<br>around<br>zebra<br>split<br>cupboard |  
-| bip_39_word_new_br12 | end<br>clock<br>pond<br>salon<br>birth<br>total<br>analyst<br>around<br>zebra<br>split<br>cupboard<br>achieve |  
-| bip_39_word_new_br2 | end<br>clock |  
-| bip_39_word_new_br3 | end<br>clock<br>pond |  
-| bip_39_word_new_br4 | end<br>clock<br>pond<br>salon |  
-| bip_39_word_new_br5 | end<br>clock<br>pond<br>salon<br>birth |  
-| bip_39_word_new_br6 | end<br>clock<br>pond<br>salon<br>birth<br>total |  
-| bip_39_word_new_br7 | end<br>clock<br>pond<br>salon<br>birth<br>total<br>analyst |  
-| bip_39_word_new_br8 | end<br>clock<br>pond<br>salon<br>birth<br>total<br>analyst<br>around |  
-| bip_39_word_new_br9 | end<br>clock<br>pond<br>salon<br>birth<br>total<br>analyst<br>around<br>zebra |  
-| bip_39_word_new_line1 | end |  
-| bip_39_word_new_line10 | end
+| bip_39_word_new_br_1 | end |  
+| bip_39_word_new_br_10 | end<br>clock<br>pond<br>salon<br>birth<br>total<br>analyst<br>around<br>zebra<br>split |  
+| bip_39_word_new_br_11 | end<br>clock<br>pond<br>salon<br>birth<br>total<br>analyst<br>around<br>zebra<br>split<br>cupboard |  
+| bip_39_word_new_br_12 | end<br>clock<br>pond<br>salon<br>birth<br>total<br>analyst<br>around<br>zebra<br>split<br>cupboard<br>achieve |  
+| bip_39_word_new_br_2 | end<br>clock |  
+| bip_39_word_new_br_3 | end<br>clock<br>pond |  
+| bip_39_word_new_br_4 | end<br>clock<br>pond<br>salon |  
+| bip_39_word_new_br_5 | end<br>clock<br>pond<br>salon<br>birth |  
+| bip_39_word_new_br_6 | end<br>clock<br>pond<br>salon<br>birth<br>total |  
+| bip_39_word_new_br_7 | end<br>clock<br>pond<br>salon<br>birth<br>total<br>analyst |  
+| bip_39_word_new_br_8 | end<br>clock<br>pond<br>salon<br>birth<br>total<br>analyst<br>around |  
+| bip_39_word_new_br_9 | end<br>clock<br>pond<br>salon<br>birth<br>total<br>analyst<br>around<br>zebra |  
+| bip_39_word_new_line_1 | end |  
+| bip_39_word_new_line_10 | end
 clock
 pond
 salon
@@ -55,7 +55,7 @@ analyst
 around
 zebra
 split |  
-| bip_39_word_new_line11 | end
+| bip_39_word_new_line_11 | end
 clock
 pond
 salon
@@ -66,7 +66,7 @@ around
 zebra
 split
 cupboard |  
-| bip_39_word_new_line12 | end
+| bip_39_word_new_line_12 | end
 clock
 pond
 salon
@@ -78,34 +78,34 @@ zebra
 split
 cupboard
 achieve |  
-| bip_39_word_new_line2 | end
+| bip_39_word_new_line_2 | end
 clock |  
-| bip_39_word_new_line3 | end
+| bip_39_word_new_line_3 | end
 clock
 pond |  
-| bip_39_word_new_line4 | end
+| bip_39_word_new_line_4 | end
 clock
 pond
 salon |  
-| bip_39_word_new_line5 | end
+| bip_39_word_new_line_5 | end
 clock
 pond
 salon
 birth |  
-| bip_39_word_new_line6 | end
+| bip_39_word_new_line_6 | end
 clock
 pond
 salon
 birth
 total |  
-| bip_39_word_new_line7 | end
+| bip_39_word_new_line_7 | end
 clock
 pond
 salon
 birth
 total
 analyst |  
-| bip_39_word_new_line8 | end
+| bip_39_word_new_line_8 | end
 clock
 pond
 salon
@@ -113,7 +113,7 @@ birth
 total
 analyst
 around |  
-| bip_39_word_new_line9 | end
+| bip_39_word_new_line_9 | end
 clock
 pond
 salon

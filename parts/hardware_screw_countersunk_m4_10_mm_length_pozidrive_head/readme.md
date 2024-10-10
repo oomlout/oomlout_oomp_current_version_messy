@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | zone |  
-| bip_39_word_new_br10 | zone<br>silly<br>situate<br>myth<br>brain<br>empty<br>fortune<br>toe<br>remind<br>glance |  
-| bip_39_word_new_br11 | zone<br>silly<br>situate<br>myth<br>brain<br>empty<br>fortune<br>toe<br>remind<br>glance<br>crouch |  
-| bip_39_word_new_br12 | zone<br>silly<br>situate<br>myth<br>brain<br>empty<br>fortune<br>toe<br>remind<br>glance<br>crouch<br>absurd |  
-| bip_39_word_new_br2 | zone<br>silly |  
-| bip_39_word_new_br3 | zone<br>silly<br>situate |  
-| bip_39_word_new_br4 | zone<br>silly<br>situate<br>myth |  
-| bip_39_word_new_br5 | zone<br>silly<br>situate<br>myth<br>brain |  
-| bip_39_word_new_br6 | zone<br>silly<br>situate<br>myth<br>brain<br>empty |  
-| bip_39_word_new_br7 | zone<br>silly<br>situate<br>myth<br>brain<br>empty<br>fortune |  
-| bip_39_word_new_br8 | zone<br>silly<br>situate<br>myth<br>brain<br>empty<br>fortune<br>toe |  
-| bip_39_word_new_br9 | zone<br>silly<br>situate<br>myth<br>brain<br>empty<br>fortune<br>toe<br>remind |  
-| bip_39_word_new_line1 | zone |  
-| bip_39_word_new_line10 | zone
+| bip_39_word_new_br_1 | zone |  
+| bip_39_word_new_br_10 | zone<br>silly<br>situate<br>myth<br>brain<br>empty<br>fortune<br>toe<br>remind<br>glance |  
+| bip_39_word_new_br_11 | zone<br>silly<br>situate<br>myth<br>brain<br>empty<br>fortune<br>toe<br>remind<br>glance<br>crouch |  
+| bip_39_word_new_br_12 | zone<br>silly<br>situate<br>myth<br>brain<br>empty<br>fortune<br>toe<br>remind<br>glance<br>crouch<br>absurd |  
+| bip_39_word_new_br_2 | zone<br>silly |  
+| bip_39_word_new_br_3 | zone<br>silly<br>situate |  
+| bip_39_word_new_br_4 | zone<br>silly<br>situate<br>myth |  
+| bip_39_word_new_br_5 | zone<br>silly<br>situate<br>myth<br>brain |  
+| bip_39_word_new_br_6 | zone<br>silly<br>situate<br>myth<br>brain<br>empty |  
+| bip_39_word_new_br_7 | zone<br>silly<br>situate<br>myth<br>brain<br>empty<br>fortune |  
+| bip_39_word_new_br_8 | zone<br>silly<br>situate<br>myth<br>brain<br>empty<br>fortune<br>toe |  
+| bip_39_word_new_br_9 | zone<br>silly<br>situate<br>myth<br>brain<br>empty<br>fortune<br>toe<br>remind |  
+| bip_39_word_new_line_1 | zone |  
+| bip_39_word_new_line_10 | zone
 silly
 situate
 myth
@@ -55,7 +55,7 @@ fortune
 toe
 remind
 glance |  
-| bip_39_word_new_line11 | zone
+| bip_39_word_new_line_11 | zone
 silly
 situate
 myth
@@ -66,7 +66,7 @@ toe
 remind
 glance
 crouch |  
-| bip_39_word_new_line12 | zone
+| bip_39_word_new_line_12 | zone
 silly
 situate
 myth
@@ -78,34 +78,34 @@ remind
 glance
 crouch
 absurd |  
-| bip_39_word_new_line2 | zone
+| bip_39_word_new_line_2 | zone
 silly |  
-| bip_39_word_new_line3 | zone
+| bip_39_word_new_line_3 | zone
 silly
 situate |  
-| bip_39_word_new_line4 | zone
+| bip_39_word_new_line_4 | zone
 silly
 situate
 myth |  
-| bip_39_word_new_line5 | zone
+| bip_39_word_new_line_5 | zone
 silly
 situate
 myth
 brain |  
-| bip_39_word_new_line6 | zone
+| bip_39_word_new_line_6 | zone
 silly
 situate
 myth
 brain
 empty |  
-| bip_39_word_new_line7 | zone
+| bip_39_word_new_line_7 | zone
 silly
 situate
 myth
 brain
 empty
 fortune |  
-| bip_39_word_new_line8 | zone
+| bip_39_word_new_line_8 | zone
 silly
 situate
 myth
@@ -113,7 +113,7 @@ brain
 empty
 fortune
 toe |  
-| bip_39_word_new_line9 | zone
+| bip_39_word_new_line_9 | zone
 silly
 situate
 myth

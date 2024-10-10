@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ill |  
-| bip_39_word_new_br10 | ill<br>okay<br>come<br>flat<br>athlete<br>illegal<br>mistake<br>door<br>dad<br>east |  
-| bip_39_word_new_br11 | ill<br>okay<br>come<br>flat<br>athlete<br>illegal<br>mistake<br>door<br>dad<br>east<br>legend |  
-| bip_39_word_new_br12 | ill<br>okay<br>come<br>flat<br>athlete<br>illegal<br>mistake<br>door<br>dad<br>east<br>legend<br>anger |  
-| bip_39_word_new_br2 | ill<br>okay |  
-| bip_39_word_new_br3 | ill<br>okay<br>come |  
-| bip_39_word_new_br4 | ill<br>okay<br>come<br>flat |  
-| bip_39_word_new_br5 | ill<br>okay<br>come<br>flat<br>athlete |  
-| bip_39_word_new_br6 | ill<br>okay<br>come<br>flat<br>athlete<br>illegal |  
-| bip_39_word_new_br7 | ill<br>okay<br>come<br>flat<br>athlete<br>illegal<br>mistake |  
-| bip_39_word_new_br8 | ill<br>okay<br>come<br>flat<br>athlete<br>illegal<br>mistake<br>door |  
-| bip_39_word_new_br9 | ill<br>okay<br>come<br>flat<br>athlete<br>illegal<br>mistake<br>door<br>dad |  
-| bip_39_word_new_line1 | ill |  
-| bip_39_word_new_line10 | ill
+| bip_39_word_new_br_1 | ill |  
+| bip_39_word_new_br_10 | ill<br>okay<br>come<br>flat<br>athlete<br>illegal<br>mistake<br>door<br>dad<br>east |  
+| bip_39_word_new_br_11 | ill<br>okay<br>come<br>flat<br>athlete<br>illegal<br>mistake<br>door<br>dad<br>east<br>legend |  
+| bip_39_word_new_br_12 | ill<br>okay<br>come<br>flat<br>athlete<br>illegal<br>mistake<br>door<br>dad<br>east<br>legend<br>anger |  
+| bip_39_word_new_br_2 | ill<br>okay |  
+| bip_39_word_new_br_3 | ill<br>okay<br>come |  
+| bip_39_word_new_br_4 | ill<br>okay<br>come<br>flat |  
+| bip_39_word_new_br_5 | ill<br>okay<br>come<br>flat<br>athlete |  
+| bip_39_word_new_br_6 | ill<br>okay<br>come<br>flat<br>athlete<br>illegal |  
+| bip_39_word_new_br_7 | ill<br>okay<br>come<br>flat<br>athlete<br>illegal<br>mistake |  
+| bip_39_word_new_br_8 | ill<br>okay<br>come<br>flat<br>athlete<br>illegal<br>mistake<br>door |  
+| bip_39_word_new_br_9 | ill<br>okay<br>come<br>flat<br>athlete<br>illegal<br>mistake<br>door<br>dad |  
+| bip_39_word_new_line_1 | ill |  
+| bip_39_word_new_line_10 | ill
 okay
 come
 flat
@@ -55,7 +55,7 @@ mistake
 door
 dad
 east |  
-| bip_39_word_new_line11 | ill
+| bip_39_word_new_line_11 | ill
 okay
 come
 flat
@@ -66,7 +66,7 @@ door
 dad
 east
 legend |  
-| bip_39_word_new_line12 | ill
+| bip_39_word_new_line_12 | ill
 okay
 come
 flat
@@ -78,34 +78,34 @@ dad
 east
 legend
 anger |  
-| bip_39_word_new_line2 | ill
+| bip_39_word_new_line_2 | ill
 okay |  
-| bip_39_word_new_line3 | ill
+| bip_39_word_new_line_3 | ill
 okay
 come |  
-| bip_39_word_new_line4 | ill
+| bip_39_word_new_line_4 | ill
 okay
 come
 flat |  
-| bip_39_word_new_line5 | ill
+| bip_39_word_new_line_5 | ill
 okay
 come
 flat
 athlete |  
-| bip_39_word_new_line6 | ill
+| bip_39_word_new_line_6 | ill
 okay
 come
 flat
 athlete
 illegal |  
-| bip_39_word_new_line7 | ill
+| bip_39_word_new_line_7 | ill
 okay
 come
 flat
 athlete
 illegal
 mistake |  
-| bip_39_word_new_line8 | ill
+| bip_39_word_new_line_8 | ill
 okay
 come
 flat
@@ -113,7 +113,7 @@ athlete
 illegal
 mistake
 door |  
-| bip_39_word_new_line9 | ill
+| bip_39_word_new_line_9 | ill
 okay
 come
 flat

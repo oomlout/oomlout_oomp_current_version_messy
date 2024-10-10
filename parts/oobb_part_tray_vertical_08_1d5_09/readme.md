@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | spoil |  
-| bip_39_word_new_br10 | spoil<br>hurt<br>left<br>raccoon<br>flower<br>portion<br>employ<br>curve<br>safe<br>ticket |  
-| bip_39_word_new_br11 | spoil<br>hurt<br>left<br>raccoon<br>flower<br>portion<br>employ<br>curve<br>safe<br>ticket<br>reveal |  
-| bip_39_word_new_br12 | spoil<br>hurt<br>left<br>raccoon<br>flower<br>portion<br>employ<br>curve<br>safe<br>ticket<br>reveal<br>alley |  
-| bip_39_word_new_br2 | spoil<br>hurt |  
-| bip_39_word_new_br3 | spoil<br>hurt<br>left |  
-| bip_39_word_new_br4 | spoil<br>hurt<br>left<br>raccoon |  
-| bip_39_word_new_br5 | spoil<br>hurt<br>left<br>raccoon<br>flower |  
-| bip_39_word_new_br6 | spoil<br>hurt<br>left<br>raccoon<br>flower<br>portion |  
-| bip_39_word_new_br7 | spoil<br>hurt<br>left<br>raccoon<br>flower<br>portion<br>employ |  
-| bip_39_word_new_br8 | spoil<br>hurt<br>left<br>raccoon<br>flower<br>portion<br>employ<br>curve |  
-| bip_39_word_new_br9 | spoil<br>hurt<br>left<br>raccoon<br>flower<br>portion<br>employ<br>curve<br>safe |  
-| bip_39_word_new_line1 | spoil |  
-| bip_39_word_new_line10 | spoil
+| bip_39_word_new_br_1 | spoil |  
+| bip_39_word_new_br_10 | spoil<br>hurt<br>left<br>raccoon<br>flower<br>portion<br>employ<br>curve<br>safe<br>ticket |  
+| bip_39_word_new_br_11 | spoil<br>hurt<br>left<br>raccoon<br>flower<br>portion<br>employ<br>curve<br>safe<br>ticket<br>reveal |  
+| bip_39_word_new_br_12 | spoil<br>hurt<br>left<br>raccoon<br>flower<br>portion<br>employ<br>curve<br>safe<br>ticket<br>reveal<br>alley |  
+| bip_39_word_new_br_2 | spoil<br>hurt |  
+| bip_39_word_new_br_3 | spoil<br>hurt<br>left |  
+| bip_39_word_new_br_4 | spoil<br>hurt<br>left<br>raccoon |  
+| bip_39_word_new_br_5 | spoil<br>hurt<br>left<br>raccoon<br>flower |  
+| bip_39_word_new_br_6 | spoil<br>hurt<br>left<br>raccoon<br>flower<br>portion |  
+| bip_39_word_new_br_7 | spoil<br>hurt<br>left<br>raccoon<br>flower<br>portion<br>employ |  
+| bip_39_word_new_br_8 | spoil<br>hurt<br>left<br>raccoon<br>flower<br>portion<br>employ<br>curve |  
+| bip_39_word_new_br_9 | spoil<br>hurt<br>left<br>raccoon<br>flower<br>portion<br>employ<br>curve<br>safe |  
+| bip_39_word_new_line_1 | spoil |  
+| bip_39_word_new_line_10 | spoil
 hurt
 left
 raccoon
@@ -55,7 +55,7 @@ employ
 curve
 safe
 ticket |  
-| bip_39_word_new_line11 | spoil
+| bip_39_word_new_line_11 | spoil
 hurt
 left
 raccoon
@@ -66,7 +66,7 @@ curve
 safe
 ticket
 reveal |  
-| bip_39_word_new_line12 | spoil
+| bip_39_word_new_line_12 | spoil
 hurt
 left
 raccoon
@@ -78,34 +78,34 @@ safe
 ticket
 reveal
 alley |  
-| bip_39_word_new_line2 | spoil
+| bip_39_word_new_line_2 | spoil
 hurt |  
-| bip_39_word_new_line3 | spoil
+| bip_39_word_new_line_3 | spoil
 hurt
 left |  
-| bip_39_word_new_line4 | spoil
+| bip_39_word_new_line_4 | spoil
 hurt
 left
 raccoon |  
-| bip_39_word_new_line5 | spoil
+| bip_39_word_new_line_5 | spoil
 hurt
 left
 raccoon
 flower |  
-| bip_39_word_new_line6 | spoil
+| bip_39_word_new_line_6 | spoil
 hurt
 left
 raccoon
 flower
 portion |  
-| bip_39_word_new_line7 | spoil
+| bip_39_word_new_line_7 | spoil
 hurt
 left
 raccoon
 flower
 portion
 employ |  
-| bip_39_word_new_line8 | spoil
+| bip_39_word_new_line_8 | spoil
 hurt
 left
 raccoon
@@ -113,7 +113,7 @@ flower
 portion
 employ
 curve |  
-| bip_39_word_new_line9 | spoil
+| bip_39_word_new_line_9 | spoil
 hurt
 left
 raccoon

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ritual |  
-| bip_39_word_new_br10 | ritual<br>sponsor<br>three<br>metal<br>coral<br>youth<br>into<br>deny<br>rally<br>bunker |  
-| bip_39_word_new_br11 | ritual<br>sponsor<br>three<br>metal<br>coral<br>youth<br>into<br>deny<br>rally<br>bunker<br>exist |  
-| bip_39_word_new_br12 | ritual<br>sponsor<br>three<br>metal<br>coral<br>youth<br>into<br>deny<br>rally<br>bunker<br>exist<br>alpha |  
-| bip_39_word_new_br2 | ritual<br>sponsor |  
-| bip_39_word_new_br3 | ritual<br>sponsor<br>three |  
-| bip_39_word_new_br4 | ritual<br>sponsor<br>three<br>metal |  
-| bip_39_word_new_br5 | ritual<br>sponsor<br>three<br>metal<br>coral |  
-| bip_39_word_new_br6 | ritual<br>sponsor<br>three<br>metal<br>coral<br>youth |  
-| bip_39_word_new_br7 | ritual<br>sponsor<br>three<br>metal<br>coral<br>youth<br>into |  
-| bip_39_word_new_br8 | ritual<br>sponsor<br>three<br>metal<br>coral<br>youth<br>into<br>deny |  
-| bip_39_word_new_br9 | ritual<br>sponsor<br>three<br>metal<br>coral<br>youth<br>into<br>deny<br>rally |  
-| bip_39_word_new_line1 | ritual |  
-| bip_39_word_new_line10 | ritual
+| bip_39_word_new_br_1 | ritual |  
+| bip_39_word_new_br_10 | ritual<br>sponsor<br>three<br>metal<br>coral<br>youth<br>into<br>deny<br>rally<br>bunker |  
+| bip_39_word_new_br_11 | ritual<br>sponsor<br>three<br>metal<br>coral<br>youth<br>into<br>deny<br>rally<br>bunker<br>exist |  
+| bip_39_word_new_br_12 | ritual<br>sponsor<br>three<br>metal<br>coral<br>youth<br>into<br>deny<br>rally<br>bunker<br>exist<br>alpha |  
+| bip_39_word_new_br_2 | ritual<br>sponsor |  
+| bip_39_word_new_br_3 | ritual<br>sponsor<br>three |  
+| bip_39_word_new_br_4 | ritual<br>sponsor<br>three<br>metal |  
+| bip_39_word_new_br_5 | ritual<br>sponsor<br>three<br>metal<br>coral |  
+| bip_39_word_new_br_6 | ritual<br>sponsor<br>three<br>metal<br>coral<br>youth |  
+| bip_39_word_new_br_7 | ritual<br>sponsor<br>three<br>metal<br>coral<br>youth<br>into |  
+| bip_39_word_new_br_8 | ritual<br>sponsor<br>three<br>metal<br>coral<br>youth<br>into<br>deny |  
+| bip_39_word_new_br_9 | ritual<br>sponsor<br>three<br>metal<br>coral<br>youth<br>into<br>deny<br>rally |  
+| bip_39_word_new_line_1 | ritual |  
+| bip_39_word_new_line_10 | ritual
 sponsor
 three
 metal
@@ -55,7 +55,7 @@ into
 deny
 rally
 bunker |  
-| bip_39_word_new_line11 | ritual
+| bip_39_word_new_line_11 | ritual
 sponsor
 three
 metal
@@ -66,7 +66,7 @@ deny
 rally
 bunker
 exist |  
-| bip_39_word_new_line12 | ritual
+| bip_39_word_new_line_12 | ritual
 sponsor
 three
 metal
@@ -78,34 +78,34 @@ rally
 bunker
 exist
 alpha |  
-| bip_39_word_new_line2 | ritual
+| bip_39_word_new_line_2 | ritual
 sponsor |  
-| bip_39_word_new_line3 | ritual
+| bip_39_word_new_line_3 | ritual
 sponsor
 three |  
-| bip_39_word_new_line4 | ritual
+| bip_39_word_new_line_4 | ritual
 sponsor
 three
 metal |  
-| bip_39_word_new_line5 | ritual
+| bip_39_word_new_line_5 | ritual
 sponsor
 three
 metal
 coral |  
-| bip_39_word_new_line6 | ritual
+| bip_39_word_new_line_6 | ritual
 sponsor
 three
 metal
 coral
 youth |  
-| bip_39_word_new_line7 | ritual
+| bip_39_word_new_line_7 | ritual
 sponsor
 three
 metal
 coral
 youth
 into |  
-| bip_39_word_new_line8 | ritual
+| bip_39_word_new_line_8 | ritual
 sponsor
 three
 metal
@@ -113,7 +113,7 @@ coral
 youth
 into
 deny |  
-| bip_39_word_new_line9 | ritual
+| bip_39_word_new_line_9 | ritual
 sponsor
 three
 metal

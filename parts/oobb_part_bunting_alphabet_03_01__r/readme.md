@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | frequent |  
-| bip_39_word_new_br10 | frequent<br>defy<br>like<br>wealth<br>front<br>teach<br>art<br>lift<br>best<br>ranch |  
-| bip_39_word_new_br11 | frequent<br>defy<br>like<br>wealth<br>front<br>teach<br>art<br>lift<br>best<br>ranch<br>hen |  
-| bip_39_word_new_br12 | frequent<br>defy<br>like<br>wealth<br>front<br>teach<br>art<br>lift<br>best<br>ranch<br>hen<br>artefact |  
-| bip_39_word_new_br2 | frequent<br>defy |  
-| bip_39_word_new_br3 | frequent<br>defy<br>like |  
-| bip_39_word_new_br4 | frequent<br>defy<br>like<br>wealth |  
-| bip_39_word_new_br5 | frequent<br>defy<br>like<br>wealth<br>front |  
-| bip_39_word_new_br6 | frequent<br>defy<br>like<br>wealth<br>front<br>teach |  
-| bip_39_word_new_br7 | frequent<br>defy<br>like<br>wealth<br>front<br>teach<br>art |  
-| bip_39_word_new_br8 | frequent<br>defy<br>like<br>wealth<br>front<br>teach<br>art<br>lift |  
-| bip_39_word_new_br9 | frequent<br>defy<br>like<br>wealth<br>front<br>teach<br>art<br>lift<br>best |  
-| bip_39_word_new_line1 | frequent |  
-| bip_39_word_new_line10 | frequent
+| bip_39_word_new_br_1 | frequent |  
+| bip_39_word_new_br_10 | frequent<br>defy<br>like<br>wealth<br>front<br>teach<br>art<br>lift<br>best<br>ranch |  
+| bip_39_word_new_br_11 | frequent<br>defy<br>like<br>wealth<br>front<br>teach<br>art<br>lift<br>best<br>ranch<br>hen |  
+| bip_39_word_new_br_12 | frequent<br>defy<br>like<br>wealth<br>front<br>teach<br>art<br>lift<br>best<br>ranch<br>hen<br>artefact |  
+| bip_39_word_new_br_2 | frequent<br>defy |  
+| bip_39_word_new_br_3 | frequent<br>defy<br>like |  
+| bip_39_word_new_br_4 | frequent<br>defy<br>like<br>wealth |  
+| bip_39_word_new_br_5 | frequent<br>defy<br>like<br>wealth<br>front |  
+| bip_39_word_new_br_6 | frequent<br>defy<br>like<br>wealth<br>front<br>teach |  
+| bip_39_word_new_br_7 | frequent<br>defy<br>like<br>wealth<br>front<br>teach<br>art |  
+| bip_39_word_new_br_8 | frequent<br>defy<br>like<br>wealth<br>front<br>teach<br>art<br>lift |  
+| bip_39_word_new_br_9 | frequent<br>defy<br>like<br>wealth<br>front<br>teach<br>art<br>lift<br>best |  
+| bip_39_word_new_line_1 | frequent |  
+| bip_39_word_new_line_10 | frequent
 defy
 like
 wealth
@@ -55,7 +55,7 @@ art
 lift
 best
 ranch |  
-| bip_39_word_new_line11 | frequent
+| bip_39_word_new_line_11 | frequent
 defy
 like
 wealth
@@ -66,7 +66,7 @@ lift
 best
 ranch
 hen |  
-| bip_39_word_new_line12 | frequent
+| bip_39_word_new_line_12 | frequent
 defy
 like
 wealth
@@ -78,34 +78,34 @@ best
 ranch
 hen
 artefact |  
-| bip_39_word_new_line2 | frequent
+| bip_39_word_new_line_2 | frequent
 defy |  
-| bip_39_word_new_line3 | frequent
+| bip_39_word_new_line_3 | frequent
 defy
 like |  
-| bip_39_word_new_line4 | frequent
+| bip_39_word_new_line_4 | frequent
 defy
 like
 wealth |  
-| bip_39_word_new_line5 | frequent
+| bip_39_word_new_line_5 | frequent
 defy
 like
 wealth
 front |  
-| bip_39_word_new_line6 | frequent
+| bip_39_word_new_line_6 | frequent
 defy
 like
 wealth
 front
 teach |  
-| bip_39_word_new_line7 | frequent
+| bip_39_word_new_line_7 | frequent
 defy
 like
 wealth
 front
 teach
 art |  
-| bip_39_word_new_line8 | frequent
+| bip_39_word_new_line_8 | frequent
 defy
 like
 wealth
@@ -113,7 +113,7 @@ front
 teach
 art
 lift |  
-| bip_39_word_new_line9 | frequent
+| bip_39_word_new_line_9 | frequent
 defy
 like
 wealth

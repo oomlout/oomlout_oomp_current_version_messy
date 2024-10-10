@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | arrange |  
-| bip_39_word_new_br10 | arrange<br>divide<br>trigger<br>about<br>best<br>issue<br>dog<br>victory<br>awesome<br>animal |  
-| bip_39_word_new_br11 | arrange<br>divide<br>trigger<br>about<br>best<br>issue<br>dog<br>victory<br>awesome<br>animal<br>transfer |  
-| bip_39_word_new_br12 | arrange<br>divide<br>trigger<br>about<br>best<br>issue<br>dog<br>victory<br>awesome<br>animal<br>transfer<br>addict |  
-| bip_39_word_new_br2 | arrange<br>divide |  
-| bip_39_word_new_br3 | arrange<br>divide<br>trigger |  
-| bip_39_word_new_br4 | arrange<br>divide<br>trigger<br>about |  
-| bip_39_word_new_br5 | arrange<br>divide<br>trigger<br>about<br>best |  
-| bip_39_word_new_br6 | arrange<br>divide<br>trigger<br>about<br>best<br>issue |  
-| bip_39_word_new_br7 | arrange<br>divide<br>trigger<br>about<br>best<br>issue<br>dog |  
-| bip_39_word_new_br8 | arrange<br>divide<br>trigger<br>about<br>best<br>issue<br>dog<br>victory |  
-| bip_39_word_new_br9 | arrange<br>divide<br>trigger<br>about<br>best<br>issue<br>dog<br>victory<br>awesome |  
-| bip_39_word_new_line1 | arrange |  
-| bip_39_word_new_line10 | arrange
+| bip_39_word_new_br_1 | arrange |  
+| bip_39_word_new_br_10 | arrange<br>divide<br>trigger<br>about<br>best<br>issue<br>dog<br>victory<br>awesome<br>animal |  
+| bip_39_word_new_br_11 | arrange<br>divide<br>trigger<br>about<br>best<br>issue<br>dog<br>victory<br>awesome<br>animal<br>transfer |  
+| bip_39_word_new_br_12 | arrange<br>divide<br>trigger<br>about<br>best<br>issue<br>dog<br>victory<br>awesome<br>animal<br>transfer<br>addict |  
+| bip_39_word_new_br_2 | arrange<br>divide |  
+| bip_39_word_new_br_3 | arrange<br>divide<br>trigger |  
+| bip_39_word_new_br_4 | arrange<br>divide<br>trigger<br>about |  
+| bip_39_word_new_br_5 | arrange<br>divide<br>trigger<br>about<br>best |  
+| bip_39_word_new_br_6 | arrange<br>divide<br>trigger<br>about<br>best<br>issue |  
+| bip_39_word_new_br_7 | arrange<br>divide<br>trigger<br>about<br>best<br>issue<br>dog |  
+| bip_39_word_new_br_8 | arrange<br>divide<br>trigger<br>about<br>best<br>issue<br>dog<br>victory |  
+| bip_39_word_new_br_9 | arrange<br>divide<br>trigger<br>about<br>best<br>issue<br>dog<br>victory<br>awesome |  
+| bip_39_word_new_line_1 | arrange |  
+| bip_39_word_new_line_10 | arrange
 divide
 trigger
 about
@@ -55,7 +55,7 @@ dog
 victory
 awesome
 animal |  
-| bip_39_word_new_line11 | arrange
+| bip_39_word_new_line_11 | arrange
 divide
 trigger
 about
@@ -66,7 +66,7 @@ victory
 awesome
 animal
 transfer |  
-| bip_39_word_new_line12 | arrange
+| bip_39_word_new_line_12 | arrange
 divide
 trigger
 about
@@ -78,34 +78,34 @@ awesome
 animal
 transfer
 addict |  
-| bip_39_word_new_line2 | arrange
+| bip_39_word_new_line_2 | arrange
 divide |  
-| bip_39_word_new_line3 | arrange
+| bip_39_word_new_line_3 | arrange
 divide
 trigger |  
-| bip_39_word_new_line4 | arrange
+| bip_39_word_new_line_4 | arrange
 divide
 trigger
 about |  
-| bip_39_word_new_line5 | arrange
+| bip_39_word_new_line_5 | arrange
 divide
 trigger
 about
 best |  
-| bip_39_word_new_line6 | arrange
+| bip_39_word_new_line_6 | arrange
 divide
 trigger
 about
 best
 issue |  
-| bip_39_word_new_line7 | arrange
+| bip_39_word_new_line_7 | arrange
 divide
 trigger
 about
 best
 issue
 dog |  
-| bip_39_word_new_line8 | arrange
+| bip_39_word_new_line_8 | arrange
 divide
 trigger
 about
@@ -113,7 +113,7 @@ best
 issue
 dog
 victory |  
-| bip_39_word_new_line9 | arrange
+| bip_39_word_new_line_9 | arrange
 divide
 trigger
 about

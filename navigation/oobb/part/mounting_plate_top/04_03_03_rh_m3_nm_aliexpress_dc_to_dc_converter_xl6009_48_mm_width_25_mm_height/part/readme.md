@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | enact |  
-| bip_39_word_new_br10 | enact<br>worry<br>strategy<br>borrow<br>bike<br>wrist<br>search<br>fog<br>trigger<br>afraid |  
-| bip_39_word_new_br11 | enact<br>worry<br>strategy<br>borrow<br>bike<br>wrist<br>search<br>fog<br>trigger<br>afraid<br>letter |  
-| bip_39_word_new_br12 | enact<br>worry<br>strategy<br>borrow<br>bike<br>wrist<br>search<br>fog<br>trigger<br>afraid<br>letter<br>antique |  
-| bip_39_word_new_br2 | enact<br>worry |  
-| bip_39_word_new_br3 | enact<br>worry<br>strategy |  
-| bip_39_word_new_br4 | enact<br>worry<br>strategy<br>borrow |  
-| bip_39_word_new_br5 | enact<br>worry<br>strategy<br>borrow<br>bike |  
-| bip_39_word_new_br6 | enact<br>worry<br>strategy<br>borrow<br>bike<br>wrist |  
-| bip_39_word_new_br7 | enact<br>worry<br>strategy<br>borrow<br>bike<br>wrist<br>search |  
-| bip_39_word_new_br8 | enact<br>worry<br>strategy<br>borrow<br>bike<br>wrist<br>search<br>fog |  
-| bip_39_word_new_br9 | enact<br>worry<br>strategy<br>borrow<br>bike<br>wrist<br>search<br>fog<br>trigger |  
-| bip_39_word_new_line1 | enact |  
-| bip_39_word_new_line10 | enact
+| bip_39_word_new_br_1 | enact |  
+| bip_39_word_new_br_10 | enact<br>worry<br>strategy<br>borrow<br>bike<br>wrist<br>search<br>fog<br>trigger<br>afraid |  
+| bip_39_word_new_br_11 | enact<br>worry<br>strategy<br>borrow<br>bike<br>wrist<br>search<br>fog<br>trigger<br>afraid<br>letter |  
+| bip_39_word_new_br_12 | enact<br>worry<br>strategy<br>borrow<br>bike<br>wrist<br>search<br>fog<br>trigger<br>afraid<br>letter<br>antique |  
+| bip_39_word_new_br_2 | enact<br>worry |  
+| bip_39_word_new_br_3 | enact<br>worry<br>strategy |  
+| bip_39_word_new_br_4 | enact<br>worry<br>strategy<br>borrow |  
+| bip_39_word_new_br_5 | enact<br>worry<br>strategy<br>borrow<br>bike |  
+| bip_39_word_new_br_6 | enact<br>worry<br>strategy<br>borrow<br>bike<br>wrist |  
+| bip_39_word_new_br_7 | enact<br>worry<br>strategy<br>borrow<br>bike<br>wrist<br>search |  
+| bip_39_word_new_br_8 | enact<br>worry<br>strategy<br>borrow<br>bike<br>wrist<br>search<br>fog |  
+| bip_39_word_new_br_9 | enact<br>worry<br>strategy<br>borrow<br>bike<br>wrist<br>search<br>fog<br>trigger |  
+| bip_39_word_new_line_1 | enact |  
+| bip_39_word_new_line_10 | enact
 worry
 strategy
 borrow
@@ -55,7 +55,7 @@ search
 fog
 trigger
 afraid |  
-| bip_39_word_new_line11 | enact
+| bip_39_word_new_line_11 | enact
 worry
 strategy
 borrow
@@ -66,7 +66,7 @@ fog
 trigger
 afraid
 letter |  
-| bip_39_word_new_line12 | enact
+| bip_39_word_new_line_12 | enact
 worry
 strategy
 borrow
@@ -78,34 +78,34 @@ trigger
 afraid
 letter
 antique |  
-| bip_39_word_new_line2 | enact
+| bip_39_word_new_line_2 | enact
 worry |  
-| bip_39_word_new_line3 | enact
+| bip_39_word_new_line_3 | enact
 worry
 strategy |  
-| bip_39_word_new_line4 | enact
+| bip_39_word_new_line_4 | enact
 worry
 strategy
 borrow |  
-| bip_39_word_new_line5 | enact
+| bip_39_word_new_line_5 | enact
 worry
 strategy
 borrow
 bike |  
-| bip_39_word_new_line6 | enact
+| bip_39_word_new_line_6 | enact
 worry
 strategy
 borrow
 bike
 wrist |  
-| bip_39_word_new_line7 | enact
+| bip_39_word_new_line_7 | enact
 worry
 strategy
 borrow
 bike
 wrist
 search |  
-| bip_39_word_new_line8 | enact
+| bip_39_word_new_line_8 | enact
 worry
 strategy
 borrow
@@ -113,7 +113,7 @@ bike
 wrist
 search
 fog |  
-| bip_39_word_new_line9 | enact
+| bip_39_word_new_line_9 | enact
 worry
 strategy
 borrow

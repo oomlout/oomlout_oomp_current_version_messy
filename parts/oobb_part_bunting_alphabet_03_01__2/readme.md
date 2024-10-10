@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | exchange |  
-| bip_39_word_new_br10 | exchange<br>plug<br>patrol<br>jeans<br>name<br>shift<br>private<br>abandon<br>explain<br>media |  
-| bip_39_word_new_br11 | exchange<br>plug<br>patrol<br>jeans<br>name<br>shift<br>private<br>abandon<br>explain<br>media<br>monkey |  
-| bip_39_word_new_br12 | exchange<br>plug<br>patrol<br>jeans<br>name<br>shift<br>private<br>abandon<br>explain<br>media<br>monkey<br>alpha |  
-| bip_39_word_new_br2 | exchange<br>plug |  
-| bip_39_word_new_br3 | exchange<br>plug<br>patrol |  
-| bip_39_word_new_br4 | exchange<br>plug<br>patrol<br>jeans |  
-| bip_39_word_new_br5 | exchange<br>plug<br>patrol<br>jeans<br>name |  
-| bip_39_word_new_br6 | exchange<br>plug<br>patrol<br>jeans<br>name<br>shift |  
-| bip_39_word_new_br7 | exchange<br>plug<br>patrol<br>jeans<br>name<br>shift<br>private |  
-| bip_39_word_new_br8 | exchange<br>plug<br>patrol<br>jeans<br>name<br>shift<br>private<br>abandon |  
-| bip_39_word_new_br9 | exchange<br>plug<br>patrol<br>jeans<br>name<br>shift<br>private<br>abandon<br>explain |  
-| bip_39_word_new_line1 | exchange |  
-| bip_39_word_new_line10 | exchange
+| bip_39_word_new_br_1 | exchange |  
+| bip_39_word_new_br_10 | exchange<br>plug<br>patrol<br>jeans<br>name<br>shift<br>private<br>abandon<br>explain<br>media |  
+| bip_39_word_new_br_11 | exchange<br>plug<br>patrol<br>jeans<br>name<br>shift<br>private<br>abandon<br>explain<br>media<br>monkey |  
+| bip_39_word_new_br_12 | exchange<br>plug<br>patrol<br>jeans<br>name<br>shift<br>private<br>abandon<br>explain<br>media<br>monkey<br>alpha |  
+| bip_39_word_new_br_2 | exchange<br>plug |  
+| bip_39_word_new_br_3 | exchange<br>plug<br>patrol |  
+| bip_39_word_new_br_4 | exchange<br>plug<br>patrol<br>jeans |  
+| bip_39_word_new_br_5 | exchange<br>plug<br>patrol<br>jeans<br>name |  
+| bip_39_word_new_br_6 | exchange<br>plug<br>patrol<br>jeans<br>name<br>shift |  
+| bip_39_word_new_br_7 | exchange<br>plug<br>patrol<br>jeans<br>name<br>shift<br>private |  
+| bip_39_word_new_br_8 | exchange<br>plug<br>patrol<br>jeans<br>name<br>shift<br>private<br>abandon |  
+| bip_39_word_new_br_9 | exchange<br>plug<br>patrol<br>jeans<br>name<br>shift<br>private<br>abandon<br>explain |  
+| bip_39_word_new_line_1 | exchange |  
+| bip_39_word_new_line_10 | exchange
 plug
 patrol
 jeans
@@ -55,7 +55,7 @@ private
 abandon
 explain
 media |  
-| bip_39_word_new_line11 | exchange
+| bip_39_word_new_line_11 | exchange
 plug
 patrol
 jeans
@@ -66,7 +66,7 @@ abandon
 explain
 media
 monkey |  
-| bip_39_word_new_line12 | exchange
+| bip_39_word_new_line_12 | exchange
 plug
 patrol
 jeans
@@ -78,34 +78,34 @@ explain
 media
 monkey
 alpha |  
-| bip_39_word_new_line2 | exchange
+| bip_39_word_new_line_2 | exchange
 plug |  
-| bip_39_word_new_line3 | exchange
+| bip_39_word_new_line_3 | exchange
 plug
 patrol |  
-| bip_39_word_new_line4 | exchange
+| bip_39_word_new_line_4 | exchange
 plug
 patrol
 jeans |  
-| bip_39_word_new_line5 | exchange
+| bip_39_word_new_line_5 | exchange
 plug
 patrol
 jeans
 name |  
-| bip_39_word_new_line6 | exchange
+| bip_39_word_new_line_6 | exchange
 plug
 patrol
 jeans
 name
 shift |  
-| bip_39_word_new_line7 | exchange
+| bip_39_word_new_line_7 | exchange
 plug
 patrol
 jeans
 name
 shift
 private |  
-| bip_39_word_new_line8 | exchange
+| bip_39_word_new_line_8 | exchange
 plug
 patrol
 jeans
@@ -113,7 +113,7 @@ name
 shift
 private
 abandon |  
-| bip_39_word_new_line9 | exchange
+| bip_39_word_new_line_9 | exchange
 plug
 patrol
 jeans

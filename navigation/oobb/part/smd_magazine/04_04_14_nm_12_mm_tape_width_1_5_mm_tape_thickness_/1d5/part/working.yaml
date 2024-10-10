@@ -1,17 +1,17 @@
-bip_39_word_new_br1: mad
-bip_39_word_new_br10: mad<br>animal<br>poem<br>rug<br>lab<br>sponsor<br>inhale<br>wisdom<br>urge<br>obey
-bip_39_word_new_br11: mad<br>animal<br>poem<br>rug<br>lab<br>sponsor<br>inhale<br>wisdom<br>urge<br>obey<br>route
-bip_39_word_new_br12: mad<br>animal<br>poem<br>rug<br>lab<br>sponsor<br>inhale<br>wisdom<br>urge<br>obey<br>route<br>also
-bip_39_word_new_br2: mad<br>animal
-bip_39_word_new_br3: mad<br>animal<br>poem
-bip_39_word_new_br4: mad<br>animal<br>poem<br>rug
-bip_39_word_new_br5: mad<br>animal<br>poem<br>rug<br>lab
-bip_39_word_new_br6: mad<br>animal<br>poem<br>rug<br>lab<br>sponsor
-bip_39_word_new_br7: mad<br>animal<br>poem<br>rug<br>lab<br>sponsor<br>inhale
-bip_39_word_new_br8: mad<br>animal<br>poem<br>rug<br>lab<br>sponsor<br>inhale<br>wisdom
-bip_39_word_new_br9: mad<br>animal<br>poem<br>rug<br>lab<br>sponsor<br>inhale<br>wisdom<br>urge
-bip_39_word_new_line1: mad
-bip_39_word_new_line10: 'mad
+bip_39_word_new_br_1: mad
+bip_39_word_new_br_10: mad<br>animal<br>poem<br>rug<br>lab<br>sponsor<br>inhale<br>wisdom<br>urge<br>obey
+bip_39_word_new_br_11: mad<br>animal<br>poem<br>rug<br>lab<br>sponsor<br>inhale<br>wisdom<br>urge<br>obey<br>route
+bip_39_word_new_br_12: mad<br>animal<br>poem<br>rug<br>lab<br>sponsor<br>inhale<br>wisdom<br>urge<br>obey<br>route<br>also
+bip_39_word_new_br_2: mad<br>animal
+bip_39_word_new_br_3: mad<br>animal<br>poem
+bip_39_word_new_br_4: mad<br>animal<br>poem<br>rug
+bip_39_word_new_br_5: mad<br>animal<br>poem<br>rug<br>lab
+bip_39_word_new_br_6: mad<br>animal<br>poem<br>rug<br>lab<br>sponsor
+bip_39_word_new_br_7: mad<br>animal<br>poem<br>rug<br>lab<br>sponsor<br>inhale
+bip_39_word_new_br_8: mad<br>animal<br>poem<br>rug<br>lab<br>sponsor<br>inhale<br>wisdom
+bip_39_word_new_br_9: mad<br>animal<br>poem<br>rug<br>lab<br>sponsor<br>inhale<br>wisdom<br>urge
+bip_39_word_new_line_1: mad
+bip_39_word_new_line_10: 'mad
 
   animal
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'mad
   urge
 
   obey'
-bip_39_word_new_line11: 'mad
+bip_39_word_new_line_11: 'mad
 
   animal
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'mad
   obey
 
   route'
-bip_39_word_new_line12: 'mad
+bip_39_word_new_line_12: 'mad
 
   animal
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'mad
   route
 
   also'
-bip_39_word_new_line2: 'mad
+bip_39_word_new_line_2: 'mad
 
   animal'
-bip_39_word_new_line3: 'mad
+bip_39_word_new_line_3: 'mad
 
   animal
 
   poem'
-bip_39_word_new_line4: 'mad
+bip_39_word_new_line_4: 'mad
 
   animal
 
   poem
 
   rug'
-bip_39_word_new_line5: 'mad
+bip_39_word_new_line_5: 'mad
 
   animal
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'mad
   rug
 
   lab'
-bip_39_word_new_line6: 'mad
+bip_39_word_new_line_6: 'mad
 
   animal
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'mad
   lab
 
   sponsor'
-bip_39_word_new_line7: 'mad
+bip_39_word_new_line_7: 'mad
 
   animal
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'mad
   sponsor
 
   inhale'
-bip_39_word_new_line8: 'mad
+bip_39_word_new_line_8: 'mad
 
   animal
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'mad
   inhale
 
   wisdom'
-bip_39_word_new_line9: 'mad
+bip_39_word_new_line_9: 'mad
 
   animal
 

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | boss |  
-| bip_39_word_new_br10 | boss<br>lounge<br>cover<br>confirm<br>waste<br>glove<br>crop<br>share<br>maze<br>cry |  
-| bip_39_word_new_br11 | boss<br>lounge<br>cover<br>confirm<br>waste<br>glove<br>crop<br>share<br>maze<br>cry<br>milk |  
-| bip_39_word_new_br12 | boss<br>lounge<br>cover<br>confirm<br>waste<br>glove<br>crop<br>share<br>maze<br>cry<br>milk<br>alcohol |  
-| bip_39_word_new_br2 | boss<br>lounge |  
-| bip_39_word_new_br3 | boss<br>lounge<br>cover |  
-| bip_39_word_new_br4 | boss<br>lounge<br>cover<br>confirm |  
-| bip_39_word_new_br5 | boss<br>lounge<br>cover<br>confirm<br>waste |  
-| bip_39_word_new_br6 | boss<br>lounge<br>cover<br>confirm<br>waste<br>glove |  
-| bip_39_word_new_br7 | boss<br>lounge<br>cover<br>confirm<br>waste<br>glove<br>crop |  
-| bip_39_word_new_br8 | boss<br>lounge<br>cover<br>confirm<br>waste<br>glove<br>crop<br>share |  
-| bip_39_word_new_br9 | boss<br>lounge<br>cover<br>confirm<br>waste<br>glove<br>crop<br>share<br>maze |  
-| bip_39_word_new_line1 | boss |  
-| bip_39_word_new_line10 | boss
+| bip_39_word_new_br_1 | boss |  
+| bip_39_word_new_br_10 | boss<br>lounge<br>cover<br>confirm<br>waste<br>glove<br>crop<br>share<br>maze<br>cry |  
+| bip_39_word_new_br_11 | boss<br>lounge<br>cover<br>confirm<br>waste<br>glove<br>crop<br>share<br>maze<br>cry<br>milk |  
+| bip_39_word_new_br_12 | boss<br>lounge<br>cover<br>confirm<br>waste<br>glove<br>crop<br>share<br>maze<br>cry<br>milk<br>alcohol |  
+| bip_39_word_new_br_2 | boss<br>lounge |  
+| bip_39_word_new_br_3 | boss<br>lounge<br>cover |  
+| bip_39_word_new_br_4 | boss<br>lounge<br>cover<br>confirm |  
+| bip_39_word_new_br_5 | boss<br>lounge<br>cover<br>confirm<br>waste |  
+| bip_39_word_new_br_6 | boss<br>lounge<br>cover<br>confirm<br>waste<br>glove |  
+| bip_39_word_new_br_7 | boss<br>lounge<br>cover<br>confirm<br>waste<br>glove<br>crop |  
+| bip_39_word_new_br_8 | boss<br>lounge<br>cover<br>confirm<br>waste<br>glove<br>crop<br>share |  
+| bip_39_word_new_br_9 | boss<br>lounge<br>cover<br>confirm<br>waste<br>glove<br>crop<br>share<br>maze |  
+| bip_39_word_new_line_1 | boss |  
+| bip_39_word_new_line_10 | boss
 lounge
 cover
 confirm
@@ -55,7 +55,7 @@ crop
 share
 maze
 cry |  
-| bip_39_word_new_line11 | boss
+| bip_39_word_new_line_11 | boss
 lounge
 cover
 confirm
@@ -66,7 +66,7 @@ share
 maze
 cry
 milk |  
-| bip_39_word_new_line12 | boss
+| bip_39_word_new_line_12 | boss
 lounge
 cover
 confirm
@@ -78,34 +78,34 @@ maze
 cry
 milk
 alcohol |  
-| bip_39_word_new_line2 | boss
+| bip_39_word_new_line_2 | boss
 lounge |  
-| bip_39_word_new_line3 | boss
+| bip_39_word_new_line_3 | boss
 lounge
 cover |  
-| bip_39_word_new_line4 | boss
+| bip_39_word_new_line_4 | boss
 lounge
 cover
 confirm |  
-| bip_39_word_new_line5 | boss
+| bip_39_word_new_line_5 | boss
 lounge
 cover
 confirm
 waste |  
-| bip_39_word_new_line6 | boss
+| bip_39_word_new_line_6 | boss
 lounge
 cover
 confirm
 waste
 glove |  
-| bip_39_word_new_line7 | boss
+| bip_39_word_new_line_7 | boss
 lounge
 cover
 confirm
 waste
 glove
 crop |  
-| bip_39_word_new_line8 | boss
+| bip_39_word_new_line_8 | boss
 lounge
 cover
 confirm
@@ -113,7 +113,7 @@ waste
 glove
 crop
 share |  
-| bip_39_word_new_line9 | boss
+| bip_39_word_new_line_9 | boss
 lounge
 cover
 confirm

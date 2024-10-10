@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | since |  
-| bip_39_word_new_br10 | since<br>come<br>virus<br>wisdom<br>target<br>mutual<br>fancy<br>ramp<br>success<br>blue |  
-| bip_39_word_new_br11 | since<br>come<br>virus<br>wisdom<br>target<br>mutual<br>fancy<br>ramp<br>success<br>blue<br>ignore |  
-| bip_39_word_new_br12 | since<br>come<br>virus<br>wisdom<br>target<br>mutual<br>fancy<br>ramp<br>success<br>blue<br>ignore<br>anxiety |  
-| bip_39_word_new_br2 | since<br>come |  
-| bip_39_word_new_br3 | since<br>come<br>virus |  
-| bip_39_word_new_br4 | since<br>come<br>virus<br>wisdom |  
-| bip_39_word_new_br5 | since<br>come<br>virus<br>wisdom<br>target |  
-| bip_39_word_new_br6 | since<br>come<br>virus<br>wisdom<br>target<br>mutual |  
-| bip_39_word_new_br7 | since<br>come<br>virus<br>wisdom<br>target<br>mutual<br>fancy |  
-| bip_39_word_new_br8 | since<br>come<br>virus<br>wisdom<br>target<br>mutual<br>fancy<br>ramp |  
-| bip_39_word_new_br9 | since<br>come<br>virus<br>wisdom<br>target<br>mutual<br>fancy<br>ramp<br>success |  
-| bip_39_word_new_line1 | since |  
-| bip_39_word_new_line10 | since
+| bip_39_word_new_br_1 | since |  
+| bip_39_word_new_br_10 | since<br>come<br>virus<br>wisdom<br>target<br>mutual<br>fancy<br>ramp<br>success<br>blue |  
+| bip_39_word_new_br_11 | since<br>come<br>virus<br>wisdom<br>target<br>mutual<br>fancy<br>ramp<br>success<br>blue<br>ignore |  
+| bip_39_word_new_br_12 | since<br>come<br>virus<br>wisdom<br>target<br>mutual<br>fancy<br>ramp<br>success<br>blue<br>ignore<br>anxiety |  
+| bip_39_word_new_br_2 | since<br>come |  
+| bip_39_word_new_br_3 | since<br>come<br>virus |  
+| bip_39_word_new_br_4 | since<br>come<br>virus<br>wisdom |  
+| bip_39_word_new_br_5 | since<br>come<br>virus<br>wisdom<br>target |  
+| bip_39_word_new_br_6 | since<br>come<br>virus<br>wisdom<br>target<br>mutual |  
+| bip_39_word_new_br_7 | since<br>come<br>virus<br>wisdom<br>target<br>mutual<br>fancy |  
+| bip_39_word_new_br_8 | since<br>come<br>virus<br>wisdom<br>target<br>mutual<br>fancy<br>ramp |  
+| bip_39_word_new_br_9 | since<br>come<br>virus<br>wisdom<br>target<br>mutual<br>fancy<br>ramp<br>success |  
+| bip_39_word_new_line_1 | since |  
+| bip_39_word_new_line_10 | since
 come
 virus
 wisdom
@@ -55,7 +55,7 @@ fancy
 ramp
 success
 blue |  
-| bip_39_word_new_line11 | since
+| bip_39_word_new_line_11 | since
 come
 virus
 wisdom
@@ -66,7 +66,7 @@ ramp
 success
 blue
 ignore |  
-| bip_39_word_new_line12 | since
+| bip_39_word_new_line_12 | since
 come
 virus
 wisdom
@@ -78,34 +78,34 @@ success
 blue
 ignore
 anxiety |  
-| bip_39_word_new_line2 | since
+| bip_39_word_new_line_2 | since
 come |  
-| bip_39_word_new_line3 | since
+| bip_39_word_new_line_3 | since
 come
 virus |  
-| bip_39_word_new_line4 | since
+| bip_39_word_new_line_4 | since
 come
 virus
 wisdom |  
-| bip_39_word_new_line5 | since
+| bip_39_word_new_line_5 | since
 come
 virus
 wisdom
 target |  
-| bip_39_word_new_line6 | since
+| bip_39_word_new_line_6 | since
 come
 virus
 wisdom
 target
 mutual |  
-| bip_39_word_new_line7 | since
+| bip_39_word_new_line_7 | since
 come
 virus
 wisdom
 target
 mutual
 fancy |  
-| bip_39_word_new_line8 | since
+| bip_39_word_new_line_8 | since
 come
 virus
 wisdom
@@ -113,7 +113,7 @@ target
 mutual
 fancy
 ramp |  
-| bip_39_word_new_line9 | since
+| bip_39_word_new_line_9 | since
 come
 virus
 wisdom

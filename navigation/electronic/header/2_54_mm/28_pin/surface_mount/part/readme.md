@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cry |  
-| bip_39_word_new_br10 | cry<br>you<br>census<br>merge<br>enough<br>uphold<br>economy<br>yard<br>fence<br>try |  
-| bip_39_word_new_br11 | cry<br>you<br>census<br>merge<br>enough<br>uphold<br>economy<br>yard<br>fence<br>try<br>rug |  
-| bip_39_word_new_br12 | cry<br>you<br>census<br>merge<br>enough<br>uphold<br>economy<br>yard<br>fence<br>try<br>rug<br>accuse |  
-| bip_39_word_new_br2 | cry<br>you |  
-| bip_39_word_new_br3 | cry<br>you<br>census |  
-| bip_39_word_new_br4 | cry<br>you<br>census<br>merge |  
-| bip_39_word_new_br5 | cry<br>you<br>census<br>merge<br>enough |  
-| bip_39_word_new_br6 | cry<br>you<br>census<br>merge<br>enough<br>uphold |  
-| bip_39_word_new_br7 | cry<br>you<br>census<br>merge<br>enough<br>uphold<br>economy |  
-| bip_39_word_new_br8 | cry<br>you<br>census<br>merge<br>enough<br>uphold<br>economy<br>yard |  
-| bip_39_word_new_br9 | cry<br>you<br>census<br>merge<br>enough<br>uphold<br>economy<br>yard<br>fence |  
-| bip_39_word_new_line1 | cry |  
-| bip_39_word_new_line10 | cry
+| bip_39_word_new_br_1 | cry |  
+| bip_39_word_new_br_10 | cry<br>you<br>census<br>merge<br>enough<br>uphold<br>economy<br>yard<br>fence<br>try |  
+| bip_39_word_new_br_11 | cry<br>you<br>census<br>merge<br>enough<br>uphold<br>economy<br>yard<br>fence<br>try<br>rug |  
+| bip_39_word_new_br_12 | cry<br>you<br>census<br>merge<br>enough<br>uphold<br>economy<br>yard<br>fence<br>try<br>rug<br>accuse |  
+| bip_39_word_new_br_2 | cry<br>you |  
+| bip_39_word_new_br_3 | cry<br>you<br>census |  
+| bip_39_word_new_br_4 | cry<br>you<br>census<br>merge |  
+| bip_39_word_new_br_5 | cry<br>you<br>census<br>merge<br>enough |  
+| bip_39_word_new_br_6 | cry<br>you<br>census<br>merge<br>enough<br>uphold |  
+| bip_39_word_new_br_7 | cry<br>you<br>census<br>merge<br>enough<br>uphold<br>economy |  
+| bip_39_word_new_br_8 | cry<br>you<br>census<br>merge<br>enough<br>uphold<br>economy<br>yard |  
+| bip_39_word_new_br_9 | cry<br>you<br>census<br>merge<br>enough<br>uphold<br>economy<br>yard<br>fence |  
+| bip_39_word_new_line_1 | cry |  
+| bip_39_word_new_line_10 | cry
 you
 census
 merge
@@ -55,7 +55,7 @@ economy
 yard
 fence
 try |  
-| bip_39_word_new_line11 | cry
+| bip_39_word_new_line_11 | cry
 you
 census
 merge
@@ -66,7 +66,7 @@ yard
 fence
 try
 rug |  
-| bip_39_word_new_line12 | cry
+| bip_39_word_new_line_12 | cry
 you
 census
 merge
@@ -78,34 +78,34 @@ fence
 try
 rug
 accuse |  
-| bip_39_word_new_line2 | cry
+| bip_39_word_new_line_2 | cry
 you |  
-| bip_39_word_new_line3 | cry
+| bip_39_word_new_line_3 | cry
 you
 census |  
-| bip_39_word_new_line4 | cry
+| bip_39_word_new_line_4 | cry
 you
 census
 merge |  
-| bip_39_word_new_line5 | cry
+| bip_39_word_new_line_5 | cry
 you
 census
 merge
 enough |  
-| bip_39_word_new_line6 | cry
+| bip_39_word_new_line_6 | cry
 you
 census
 merge
 enough
 uphold |  
-| bip_39_word_new_line7 | cry
+| bip_39_word_new_line_7 | cry
 you
 census
 merge
 enough
 uphold
 economy |  
-| bip_39_word_new_line8 | cry
+| bip_39_word_new_line_8 | cry
 you
 census
 merge
@@ -113,7 +113,7 @@ enough
 uphold
 economy
 yard |  
-| bip_39_word_new_line9 | cry
+| bip_39_word_new_line_9 | cry
 you
 census
 merge

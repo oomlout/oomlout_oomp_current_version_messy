@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | purpose |  
-| bip_39_word_new_br10 | purpose<br>lamp<br>stage<br>normal<br>glad<br>advance<br>grow<br>lounge<br>access<br>carry |  
-| bip_39_word_new_br11 | purpose<br>lamp<br>stage<br>normal<br>glad<br>advance<br>grow<br>lounge<br>access<br>carry<br>faint |  
-| bip_39_word_new_br12 | purpose<br>lamp<br>stage<br>normal<br>glad<br>advance<br>grow<br>lounge<br>access<br>carry<br>faint<br>artefact |  
-| bip_39_word_new_br2 | purpose<br>lamp |  
-| bip_39_word_new_br3 | purpose<br>lamp<br>stage |  
-| bip_39_word_new_br4 | purpose<br>lamp<br>stage<br>normal |  
-| bip_39_word_new_br5 | purpose<br>lamp<br>stage<br>normal<br>glad |  
-| bip_39_word_new_br6 | purpose<br>lamp<br>stage<br>normal<br>glad<br>advance |  
-| bip_39_word_new_br7 | purpose<br>lamp<br>stage<br>normal<br>glad<br>advance<br>grow |  
-| bip_39_word_new_br8 | purpose<br>lamp<br>stage<br>normal<br>glad<br>advance<br>grow<br>lounge |  
-| bip_39_word_new_br9 | purpose<br>lamp<br>stage<br>normal<br>glad<br>advance<br>grow<br>lounge<br>access |  
-| bip_39_word_new_line1 | purpose |  
-| bip_39_word_new_line10 | purpose
+| bip_39_word_new_br_1 | purpose |  
+| bip_39_word_new_br_10 | purpose<br>lamp<br>stage<br>normal<br>glad<br>advance<br>grow<br>lounge<br>access<br>carry |  
+| bip_39_word_new_br_11 | purpose<br>lamp<br>stage<br>normal<br>glad<br>advance<br>grow<br>lounge<br>access<br>carry<br>faint |  
+| bip_39_word_new_br_12 | purpose<br>lamp<br>stage<br>normal<br>glad<br>advance<br>grow<br>lounge<br>access<br>carry<br>faint<br>artefact |  
+| bip_39_word_new_br_2 | purpose<br>lamp |  
+| bip_39_word_new_br_3 | purpose<br>lamp<br>stage |  
+| bip_39_word_new_br_4 | purpose<br>lamp<br>stage<br>normal |  
+| bip_39_word_new_br_5 | purpose<br>lamp<br>stage<br>normal<br>glad |  
+| bip_39_word_new_br_6 | purpose<br>lamp<br>stage<br>normal<br>glad<br>advance |  
+| bip_39_word_new_br_7 | purpose<br>lamp<br>stage<br>normal<br>glad<br>advance<br>grow |  
+| bip_39_word_new_br_8 | purpose<br>lamp<br>stage<br>normal<br>glad<br>advance<br>grow<br>lounge |  
+| bip_39_word_new_br_9 | purpose<br>lamp<br>stage<br>normal<br>glad<br>advance<br>grow<br>lounge<br>access |  
+| bip_39_word_new_line_1 | purpose |  
+| bip_39_word_new_line_10 | purpose
 lamp
 stage
 normal
@@ -55,7 +55,7 @@ grow
 lounge
 access
 carry |  
-| bip_39_word_new_line11 | purpose
+| bip_39_word_new_line_11 | purpose
 lamp
 stage
 normal
@@ -66,7 +66,7 @@ lounge
 access
 carry
 faint |  
-| bip_39_word_new_line12 | purpose
+| bip_39_word_new_line_12 | purpose
 lamp
 stage
 normal
@@ -78,34 +78,34 @@ access
 carry
 faint
 artefact |  
-| bip_39_word_new_line2 | purpose
+| bip_39_word_new_line_2 | purpose
 lamp |  
-| bip_39_word_new_line3 | purpose
+| bip_39_word_new_line_3 | purpose
 lamp
 stage |  
-| bip_39_word_new_line4 | purpose
+| bip_39_word_new_line_4 | purpose
 lamp
 stage
 normal |  
-| bip_39_word_new_line5 | purpose
+| bip_39_word_new_line_5 | purpose
 lamp
 stage
 normal
 glad |  
-| bip_39_word_new_line6 | purpose
+| bip_39_word_new_line_6 | purpose
 lamp
 stage
 normal
 glad
 advance |  
-| bip_39_word_new_line7 | purpose
+| bip_39_word_new_line_7 | purpose
 lamp
 stage
 normal
 glad
 advance
 grow |  
-| bip_39_word_new_line8 | purpose
+| bip_39_word_new_line_8 | purpose
 lamp
 stage
 normal
@@ -113,7 +113,7 @@ glad
 advance
 grow
 lounge |  
-| bip_39_word_new_line9 | purpose
+| bip_39_word_new_line_9 | purpose
 lamp
 stage
 normal

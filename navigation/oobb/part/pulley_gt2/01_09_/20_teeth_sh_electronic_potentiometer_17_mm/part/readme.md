@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | blanket |  
-| bip_39_word_new_br10 | blanket<br>lady<br>pill<br>actress<br>retire<br>lobster<br>adult<br>cushion<br>quick<br>rely |  
-| bip_39_word_new_br11 | blanket<br>lady<br>pill<br>actress<br>retire<br>lobster<br>adult<br>cushion<br>quick<br>rely<br>orbit |  
-| bip_39_word_new_br12 | blanket<br>lady<br>pill<br>actress<br>retire<br>lobster<br>adult<br>cushion<br>quick<br>rely<br>orbit<br>armor |  
-| bip_39_word_new_br2 | blanket<br>lady |  
-| bip_39_word_new_br3 | blanket<br>lady<br>pill |  
-| bip_39_word_new_br4 | blanket<br>lady<br>pill<br>actress |  
-| bip_39_word_new_br5 | blanket<br>lady<br>pill<br>actress<br>retire |  
-| bip_39_word_new_br6 | blanket<br>lady<br>pill<br>actress<br>retire<br>lobster |  
-| bip_39_word_new_br7 | blanket<br>lady<br>pill<br>actress<br>retire<br>lobster<br>adult |  
-| bip_39_word_new_br8 | blanket<br>lady<br>pill<br>actress<br>retire<br>lobster<br>adult<br>cushion |  
-| bip_39_word_new_br9 | blanket<br>lady<br>pill<br>actress<br>retire<br>lobster<br>adult<br>cushion<br>quick |  
-| bip_39_word_new_line1 | blanket |  
-| bip_39_word_new_line10 | blanket
+| bip_39_word_new_br_1 | blanket |  
+| bip_39_word_new_br_10 | blanket<br>lady<br>pill<br>actress<br>retire<br>lobster<br>adult<br>cushion<br>quick<br>rely |  
+| bip_39_word_new_br_11 | blanket<br>lady<br>pill<br>actress<br>retire<br>lobster<br>adult<br>cushion<br>quick<br>rely<br>orbit |  
+| bip_39_word_new_br_12 | blanket<br>lady<br>pill<br>actress<br>retire<br>lobster<br>adult<br>cushion<br>quick<br>rely<br>orbit<br>armor |  
+| bip_39_word_new_br_2 | blanket<br>lady |  
+| bip_39_word_new_br_3 | blanket<br>lady<br>pill |  
+| bip_39_word_new_br_4 | blanket<br>lady<br>pill<br>actress |  
+| bip_39_word_new_br_5 | blanket<br>lady<br>pill<br>actress<br>retire |  
+| bip_39_word_new_br_6 | blanket<br>lady<br>pill<br>actress<br>retire<br>lobster |  
+| bip_39_word_new_br_7 | blanket<br>lady<br>pill<br>actress<br>retire<br>lobster<br>adult |  
+| bip_39_word_new_br_8 | blanket<br>lady<br>pill<br>actress<br>retire<br>lobster<br>adult<br>cushion |  
+| bip_39_word_new_br_9 | blanket<br>lady<br>pill<br>actress<br>retire<br>lobster<br>adult<br>cushion<br>quick |  
+| bip_39_word_new_line_1 | blanket |  
+| bip_39_word_new_line_10 | blanket
 lady
 pill
 actress
@@ -55,7 +55,7 @@ adult
 cushion
 quick
 rely |  
-| bip_39_word_new_line11 | blanket
+| bip_39_word_new_line_11 | blanket
 lady
 pill
 actress
@@ -66,7 +66,7 @@ cushion
 quick
 rely
 orbit |  
-| bip_39_word_new_line12 | blanket
+| bip_39_word_new_line_12 | blanket
 lady
 pill
 actress
@@ -78,34 +78,34 @@ quick
 rely
 orbit
 armor |  
-| bip_39_word_new_line2 | blanket
+| bip_39_word_new_line_2 | blanket
 lady |  
-| bip_39_word_new_line3 | blanket
+| bip_39_word_new_line_3 | blanket
 lady
 pill |  
-| bip_39_word_new_line4 | blanket
+| bip_39_word_new_line_4 | blanket
 lady
 pill
 actress |  
-| bip_39_word_new_line5 | blanket
+| bip_39_word_new_line_5 | blanket
 lady
 pill
 actress
 retire |  
-| bip_39_word_new_line6 | blanket
+| bip_39_word_new_line_6 | blanket
 lady
 pill
 actress
 retire
 lobster |  
-| bip_39_word_new_line7 | blanket
+| bip_39_word_new_line_7 | blanket
 lady
 pill
 actress
 retire
 lobster
 adult |  
-| bip_39_word_new_line8 | blanket
+| bip_39_word_new_line_8 | blanket
 lady
 pill
 actress
@@ -113,7 +113,7 @@ retire
 lobster
 adult
 cushion |  
-| bip_39_word_new_line9 | blanket
+| bip_39_word_new_line_9 | blanket
 lady
 pill
 actress

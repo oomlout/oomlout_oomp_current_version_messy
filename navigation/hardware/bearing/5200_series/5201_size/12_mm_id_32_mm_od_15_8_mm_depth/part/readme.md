@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | decrease |  
-| bip_39_word_new_br10 | decrease<br>tragic<br>sauce<br>crush<br>juice<br>future<br>drive<br>skin<br>promote<br>monkey |  
-| bip_39_word_new_br11 | decrease<br>tragic<br>sauce<br>crush<br>juice<br>future<br>drive<br>skin<br>promote<br>monkey<br>main |  
-| bip_39_word_new_br12 | decrease<br>tragic<br>sauce<br>crush<br>juice<br>future<br>drive<br>skin<br>promote<br>monkey<br>main<br>analyst |  
-| bip_39_word_new_br2 | decrease<br>tragic |  
-| bip_39_word_new_br3 | decrease<br>tragic<br>sauce |  
-| bip_39_word_new_br4 | decrease<br>tragic<br>sauce<br>crush |  
-| bip_39_word_new_br5 | decrease<br>tragic<br>sauce<br>crush<br>juice |  
-| bip_39_word_new_br6 | decrease<br>tragic<br>sauce<br>crush<br>juice<br>future |  
-| bip_39_word_new_br7 | decrease<br>tragic<br>sauce<br>crush<br>juice<br>future<br>drive |  
-| bip_39_word_new_br8 | decrease<br>tragic<br>sauce<br>crush<br>juice<br>future<br>drive<br>skin |  
-| bip_39_word_new_br9 | decrease<br>tragic<br>sauce<br>crush<br>juice<br>future<br>drive<br>skin<br>promote |  
-| bip_39_word_new_line1 | decrease |  
-| bip_39_word_new_line10 | decrease
+| bip_39_word_new_br_1 | decrease |  
+| bip_39_word_new_br_10 | decrease<br>tragic<br>sauce<br>crush<br>juice<br>future<br>drive<br>skin<br>promote<br>monkey |  
+| bip_39_word_new_br_11 | decrease<br>tragic<br>sauce<br>crush<br>juice<br>future<br>drive<br>skin<br>promote<br>monkey<br>main |  
+| bip_39_word_new_br_12 | decrease<br>tragic<br>sauce<br>crush<br>juice<br>future<br>drive<br>skin<br>promote<br>monkey<br>main<br>analyst |  
+| bip_39_word_new_br_2 | decrease<br>tragic |  
+| bip_39_word_new_br_3 | decrease<br>tragic<br>sauce |  
+| bip_39_word_new_br_4 | decrease<br>tragic<br>sauce<br>crush |  
+| bip_39_word_new_br_5 | decrease<br>tragic<br>sauce<br>crush<br>juice |  
+| bip_39_word_new_br_6 | decrease<br>tragic<br>sauce<br>crush<br>juice<br>future |  
+| bip_39_word_new_br_7 | decrease<br>tragic<br>sauce<br>crush<br>juice<br>future<br>drive |  
+| bip_39_word_new_br_8 | decrease<br>tragic<br>sauce<br>crush<br>juice<br>future<br>drive<br>skin |  
+| bip_39_word_new_br_9 | decrease<br>tragic<br>sauce<br>crush<br>juice<br>future<br>drive<br>skin<br>promote |  
+| bip_39_word_new_line_1 | decrease |  
+| bip_39_word_new_line_10 | decrease
 tragic
 sauce
 crush
@@ -55,7 +55,7 @@ drive
 skin
 promote
 monkey |  
-| bip_39_word_new_line11 | decrease
+| bip_39_word_new_line_11 | decrease
 tragic
 sauce
 crush
@@ -66,7 +66,7 @@ skin
 promote
 monkey
 main |  
-| bip_39_word_new_line12 | decrease
+| bip_39_word_new_line_12 | decrease
 tragic
 sauce
 crush
@@ -78,34 +78,34 @@ promote
 monkey
 main
 analyst |  
-| bip_39_word_new_line2 | decrease
+| bip_39_word_new_line_2 | decrease
 tragic |  
-| bip_39_word_new_line3 | decrease
+| bip_39_word_new_line_3 | decrease
 tragic
 sauce |  
-| bip_39_word_new_line4 | decrease
+| bip_39_word_new_line_4 | decrease
 tragic
 sauce
 crush |  
-| bip_39_word_new_line5 | decrease
+| bip_39_word_new_line_5 | decrease
 tragic
 sauce
 crush
 juice |  
-| bip_39_word_new_line6 | decrease
+| bip_39_word_new_line_6 | decrease
 tragic
 sauce
 crush
 juice
 future |  
-| bip_39_word_new_line7 | decrease
+| bip_39_word_new_line_7 | decrease
 tragic
 sauce
 crush
 juice
 future
 drive |  
-| bip_39_word_new_line8 | decrease
+| bip_39_word_new_line_8 | decrease
 tragic
 sauce
 crush
@@ -113,7 +113,7 @@ juice
 future
 drive
 skin |  
-| bip_39_word_new_line9 | decrease
+| bip_39_word_new_line_9 | decrease
 tragic
 sauce
 crush

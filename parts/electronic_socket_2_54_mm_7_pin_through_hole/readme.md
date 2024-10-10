@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | civil |  
-| bip_39_word_new_br10 | civil<br>rapid<br>number<br>silk<br>coast<br>hope<br>news<br>corn<br>opera<br>best |  
-| bip_39_word_new_br11 | civil<br>rapid<br>number<br>silk<br>coast<br>hope<br>news<br>corn<br>opera<br>best<br>organ |  
-| bip_39_word_new_br12 | civil<br>rapid<br>number<br>silk<br>coast<br>hope<br>news<br>corn<br>opera<br>best<br>organ<br>alpha |  
-| bip_39_word_new_br2 | civil<br>rapid |  
-| bip_39_word_new_br3 | civil<br>rapid<br>number |  
-| bip_39_word_new_br4 | civil<br>rapid<br>number<br>silk |  
-| bip_39_word_new_br5 | civil<br>rapid<br>number<br>silk<br>coast |  
-| bip_39_word_new_br6 | civil<br>rapid<br>number<br>silk<br>coast<br>hope |  
-| bip_39_word_new_br7 | civil<br>rapid<br>number<br>silk<br>coast<br>hope<br>news |  
-| bip_39_word_new_br8 | civil<br>rapid<br>number<br>silk<br>coast<br>hope<br>news<br>corn |  
-| bip_39_word_new_br9 | civil<br>rapid<br>number<br>silk<br>coast<br>hope<br>news<br>corn<br>opera |  
-| bip_39_word_new_line1 | civil |  
-| bip_39_word_new_line10 | civil
+| bip_39_word_new_br_1 | civil |  
+| bip_39_word_new_br_10 | civil<br>rapid<br>number<br>silk<br>coast<br>hope<br>news<br>corn<br>opera<br>best |  
+| bip_39_word_new_br_11 | civil<br>rapid<br>number<br>silk<br>coast<br>hope<br>news<br>corn<br>opera<br>best<br>organ |  
+| bip_39_word_new_br_12 | civil<br>rapid<br>number<br>silk<br>coast<br>hope<br>news<br>corn<br>opera<br>best<br>organ<br>alpha |  
+| bip_39_word_new_br_2 | civil<br>rapid |  
+| bip_39_word_new_br_3 | civil<br>rapid<br>number |  
+| bip_39_word_new_br_4 | civil<br>rapid<br>number<br>silk |  
+| bip_39_word_new_br_5 | civil<br>rapid<br>number<br>silk<br>coast |  
+| bip_39_word_new_br_6 | civil<br>rapid<br>number<br>silk<br>coast<br>hope |  
+| bip_39_word_new_br_7 | civil<br>rapid<br>number<br>silk<br>coast<br>hope<br>news |  
+| bip_39_word_new_br_8 | civil<br>rapid<br>number<br>silk<br>coast<br>hope<br>news<br>corn |  
+| bip_39_word_new_br_9 | civil<br>rapid<br>number<br>silk<br>coast<br>hope<br>news<br>corn<br>opera |  
+| bip_39_word_new_line_1 | civil |  
+| bip_39_word_new_line_10 | civil
 rapid
 number
 silk
@@ -55,7 +55,7 @@ news
 corn
 opera
 best |  
-| bip_39_word_new_line11 | civil
+| bip_39_word_new_line_11 | civil
 rapid
 number
 silk
@@ -66,7 +66,7 @@ corn
 opera
 best
 organ |  
-| bip_39_word_new_line12 | civil
+| bip_39_word_new_line_12 | civil
 rapid
 number
 silk
@@ -78,34 +78,34 @@ opera
 best
 organ
 alpha |  
-| bip_39_word_new_line2 | civil
+| bip_39_word_new_line_2 | civil
 rapid |  
-| bip_39_word_new_line3 | civil
+| bip_39_word_new_line_3 | civil
 rapid
 number |  
-| bip_39_word_new_line4 | civil
+| bip_39_word_new_line_4 | civil
 rapid
 number
 silk |  
-| bip_39_word_new_line5 | civil
+| bip_39_word_new_line_5 | civil
 rapid
 number
 silk
 coast |  
-| bip_39_word_new_line6 | civil
+| bip_39_word_new_line_6 | civil
 rapid
 number
 silk
 coast
 hope |  
-| bip_39_word_new_line7 | civil
+| bip_39_word_new_line_7 | civil
 rapid
 number
 silk
 coast
 hope
 news |  
-| bip_39_word_new_line8 | civil
+| bip_39_word_new_line_8 | civil
 rapid
 number
 silk
@@ -113,7 +113,7 @@ coast
 hope
 news
 corn |  
-| bip_39_word_new_line9 | civil
+| bip_39_word_new_line_9 | civil
 rapid
 number
 silk

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | duty |  
-| bip_39_word_new_br10 | duty<br>all<br>torch<br>phrase<br>reflect<br>spend<br>outside<br>found<br>arrest<br>topic |  
-| bip_39_word_new_br11 | duty<br>all<br>torch<br>phrase<br>reflect<br>spend<br>outside<br>found<br>arrest<br>topic<br>execute |  
-| bip_39_word_new_br12 | duty<br>all<br>torch<br>phrase<br>reflect<br>spend<br>outside<br>found<br>arrest<br>topic<br>execute<br>afford |  
-| bip_39_word_new_br2 | duty<br>all |  
-| bip_39_word_new_br3 | duty<br>all<br>torch |  
-| bip_39_word_new_br4 | duty<br>all<br>torch<br>phrase |  
-| bip_39_word_new_br5 | duty<br>all<br>torch<br>phrase<br>reflect |  
-| bip_39_word_new_br6 | duty<br>all<br>torch<br>phrase<br>reflect<br>spend |  
-| bip_39_word_new_br7 | duty<br>all<br>torch<br>phrase<br>reflect<br>spend<br>outside |  
-| bip_39_word_new_br8 | duty<br>all<br>torch<br>phrase<br>reflect<br>spend<br>outside<br>found |  
-| bip_39_word_new_br9 | duty<br>all<br>torch<br>phrase<br>reflect<br>spend<br>outside<br>found<br>arrest |  
-| bip_39_word_new_line1 | duty |  
-| bip_39_word_new_line10 | duty
+| bip_39_word_new_br_1 | duty |  
+| bip_39_word_new_br_10 | duty<br>all<br>torch<br>phrase<br>reflect<br>spend<br>outside<br>found<br>arrest<br>topic |  
+| bip_39_word_new_br_11 | duty<br>all<br>torch<br>phrase<br>reflect<br>spend<br>outside<br>found<br>arrest<br>topic<br>execute |  
+| bip_39_word_new_br_12 | duty<br>all<br>torch<br>phrase<br>reflect<br>spend<br>outside<br>found<br>arrest<br>topic<br>execute<br>afford |  
+| bip_39_word_new_br_2 | duty<br>all |  
+| bip_39_word_new_br_3 | duty<br>all<br>torch |  
+| bip_39_word_new_br_4 | duty<br>all<br>torch<br>phrase |  
+| bip_39_word_new_br_5 | duty<br>all<br>torch<br>phrase<br>reflect |  
+| bip_39_word_new_br_6 | duty<br>all<br>torch<br>phrase<br>reflect<br>spend |  
+| bip_39_word_new_br_7 | duty<br>all<br>torch<br>phrase<br>reflect<br>spend<br>outside |  
+| bip_39_word_new_br_8 | duty<br>all<br>torch<br>phrase<br>reflect<br>spend<br>outside<br>found |  
+| bip_39_word_new_br_9 | duty<br>all<br>torch<br>phrase<br>reflect<br>spend<br>outside<br>found<br>arrest |  
+| bip_39_word_new_line_1 | duty |  
+| bip_39_word_new_line_10 | duty
 all
 torch
 phrase
@@ -55,7 +55,7 @@ outside
 found
 arrest
 topic |  
-| bip_39_word_new_line11 | duty
+| bip_39_word_new_line_11 | duty
 all
 torch
 phrase
@@ -66,7 +66,7 @@ found
 arrest
 topic
 execute |  
-| bip_39_word_new_line12 | duty
+| bip_39_word_new_line_12 | duty
 all
 torch
 phrase
@@ -78,34 +78,34 @@ arrest
 topic
 execute
 afford |  
-| bip_39_word_new_line2 | duty
+| bip_39_word_new_line_2 | duty
 all |  
-| bip_39_word_new_line3 | duty
+| bip_39_word_new_line_3 | duty
 all
 torch |  
-| bip_39_word_new_line4 | duty
+| bip_39_word_new_line_4 | duty
 all
 torch
 phrase |  
-| bip_39_word_new_line5 | duty
+| bip_39_word_new_line_5 | duty
 all
 torch
 phrase
 reflect |  
-| bip_39_word_new_line6 | duty
+| bip_39_word_new_line_6 | duty
 all
 torch
 phrase
 reflect
 spend |  
-| bip_39_word_new_line7 | duty
+| bip_39_word_new_line_7 | duty
 all
 torch
 phrase
 reflect
 spend
 outside |  
-| bip_39_word_new_line8 | duty
+| bip_39_word_new_line_8 | duty
 all
 torch
 phrase
@@ -113,7 +113,7 @@ reflect
 spend
 outside
 found |  
-| bip_39_word_new_line9 | duty
+| bip_39_word_new_line_9 | duty
 all
 torch
 phrase

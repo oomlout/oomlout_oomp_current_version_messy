@@ -1,17 +1,17 @@
-bip_39_word_new_br1: item
-bip_39_word_new_br10: item<br>mother<br>leisure<br>oak<br>account<br>suspect<br>ensure<br>shine<br>parent<br>warfare
-bip_39_word_new_br11: item<br>mother<br>leisure<br>oak<br>account<br>suspect<br>ensure<br>shine<br>parent<br>warfare<br>march
-bip_39_word_new_br12: item<br>mother<br>leisure<br>oak<br>account<br>suspect<br>ensure<br>shine<br>parent<br>warfare<br>march<br>aerobic
-bip_39_word_new_br2: item<br>mother
-bip_39_word_new_br3: item<br>mother<br>leisure
-bip_39_word_new_br4: item<br>mother<br>leisure<br>oak
-bip_39_word_new_br5: item<br>mother<br>leisure<br>oak<br>account
-bip_39_word_new_br6: item<br>mother<br>leisure<br>oak<br>account<br>suspect
-bip_39_word_new_br7: item<br>mother<br>leisure<br>oak<br>account<br>suspect<br>ensure
-bip_39_word_new_br8: item<br>mother<br>leisure<br>oak<br>account<br>suspect<br>ensure<br>shine
-bip_39_word_new_br9: item<br>mother<br>leisure<br>oak<br>account<br>suspect<br>ensure<br>shine<br>parent
-bip_39_word_new_line1: item
-bip_39_word_new_line10: 'item
+bip_39_word_new_br_1: item
+bip_39_word_new_br_10: item<br>mother<br>leisure<br>oak<br>account<br>suspect<br>ensure<br>shine<br>parent<br>warfare
+bip_39_word_new_br_11: item<br>mother<br>leisure<br>oak<br>account<br>suspect<br>ensure<br>shine<br>parent<br>warfare<br>march
+bip_39_word_new_br_12: item<br>mother<br>leisure<br>oak<br>account<br>suspect<br>ensure<br>shine<br>parent<br>warfare<br>march<br>aerobic
+bip_39_word_new_br_2: item<br>mother
+bip_39_word_new_br_3: item<br>mother<br>leisure
+bip_39_word_new_br_4: item<br>mother<br>leisure<br>oak
+bip_39_word_new_br_5: item<br>mother<br>leisure<br>oak<br>account
+bip_39_word_new_br_6: item<br>mother<br>leisure<br>oak<br>account<br>suspect
+bip_39_word_new_br_7: item<br>mother<br>leisure<br>oak<br>account<br>suspect<br>ensure
+bip_39_word_new_br_8: item<br>mother<br>leisure<br>oak<br>account<br>suspect<br>ensure<br>shine
+bip_39_word_new_br_9: item<br>mother<br>leisure<br>oak<br>account<br>suspect<br>ensure<br>shine<br>parent
+bip_39_word_new_line_1: item
+bip_39_word_new_line_10: 'item
 
   mother
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'item
   parent
 
   warfare'
-bip_39_word_new_line11: 'item
+bip_39_word_new_line_11: 'item
 
   mother
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'item
   warfare
 
   march'
-bip_39_word_new_line12: 'item
+bip_39_word_new_line_12: 'item
 
   mother
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'item
   march
 
   aerobic'
-bip_39_word_new_line2: 'item
+bip_39_word_new_line_2: 'item
 
   mother'
-bip_39_word_new_line3: 'item
+bip_39_word_new_line_3: 'item
 
   mother
 
   leisure'
-bip_39_word_new_line4: 'item
+bip_39_word_new_line_4: 'item
 
   mother
 
   leisure
 
   oak'
-bip_39_word_new_line5: 'item
+bip_39_word_new_line_5: 'item
 
   mother
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'item
   oak
 
   account'
-bip_39_word_new_line6: 'item
+bip_39_word_new_line_6: 'item
 
   mother
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'item
   account
 
   suspect'
-bip_39_word_new_line7: 'item
+bip_39_word_new_line_7: 'item
 
   mother
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'item
   suspect
 
   ensure'
-bip_39_word_new_line8: 'item
+bip_39_word_new_line_8: 'item
 
   mother
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'item
   ensure
 
   shine'
-bip_39_word_new_line9: 'item
+bip_39_word_new_line_9: 'item
 
   mother
 

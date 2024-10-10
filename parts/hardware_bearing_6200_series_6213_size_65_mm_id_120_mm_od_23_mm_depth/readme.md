@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | virus |  
-| bip_39_word_new_br10 | virus<br>swift<br>video<br>gym<br>goddess<br>satisfy<br>hazard<br>impact<br>radar<br>behind |  
-| bip_39_word_new_br11 | virus<br>swift<br>video<br>gym<br>goddess<br>satisfy<br>hazard<br>impact<br>radar<br>behind<br>thought |  
-| bip_39_word_new_br12 | virus<br>swift<br>video<br>gym<br>goddess<br>satisfy<br>hazard<br>impact<br>radar<br>behind<br>thought<br>arrive |  
-| bip_39_word_new_br2 | virus<br>swift |  
-| bip_39_word_new_br3 | virus<br>swift<br>video |  
-| bip_39_word_new_br4 | virus<br>swift<br>video<br>gym |  
-| bip_39_word_new_br5 | virus<br>swift<br>video<br>gym<br>goddess |  
-| bip_39_word_new_br6 | virus<br>swift<br>video<br>gym<br>goddess<br>satisfy |  
-| bip_39_word_new_br7 | virus<br>swift<br>video<br>gym<br>goddess<br>satisfy<br>hazard |  
-| bip_39_word_new_br8 | virus<br>swift<br>video<br>gym<br>goddess<br>satisfy<br>hazard<br>impact |  
-| bip_39_word_new_br9 | virus<br>swift<br>video<br>gym<br>goddess<br>satisfy<br>hazard<br>impact<br>radar |  
-| bip_39_word_new_line1 | virus |  
-| bip_39_word_new_line10 | virus
+| bip_39_word_new_br_1 | virus |  
+| bip_39_word_new_br_10 | virus<br>swift<br>video<br>gym<br>goddess<br>satisfy<br>hazard<br>impact<br>radar<br>behind |  
+| bip_39_word_new_br_11 | virus<br>swift<br>video<br>gym<br>goddess<br>satisfy<br>hazard<br>impact<br>radar<br>behind<br>thought |  
+| bip_39_word_new_br_12 | virus<br>swift<br>video<br>gym<br>goddess<br>satisfy<br>hazard<br>impact<br>radar<br>behind<br>thought<br>arrive |  
+| bip_39_word_new_br_2 | virus<br>swift |  
+| bip_39_word_new_br_3 | virus<br>swift<br>video |  
+| bip_39_word_new_br_4 | virus<br>swift<br>video<br>gym |  
+| bip_39_word_new_br_5 | virus<br>swift<br>video<br>gym<br>goddess |  
+| bip_39_word_new_br_6 | virus<br>swift<br>video<br>gym<br>goddess<br>satisfy |  
+| bip_39_word_new_br_7 | virus<br>swift<br>video<br>gym<br>goddess<br>satisfy<br>hazard |  
+| bip_39_word_new_br_8 | virus<br>swift<br>video<br>gym<br>goddess<br>satisfy<br>hazard<br>impact |  
+| bip_39_word_new_br_9 | virus<br>swift<br>video<br>gym<br>goddess<br>satisfy<br>hazard<br>impact<br>radar |  
+| bip_39_word_new_line_1 | virus |  
+| bip_39_word_new_line_10 | virus
 swift
 video
 gym
@@ -55,7 +55,7 @@ hazard
 impact
 radar
 behind |  
-| bip_39_word_new_line11 | virus
+| bip_39_word_new_line_11 | virus
 swift
 video
 gym
@@ -66,7 +66,7 @@ impact
 radar
 behind
 thought |  
-| bip_39_word_new_line12 | virus
+| bip_39_word_new_line_12 | virus
 swift
 video
 gym
@@ -78,34 +78,34 @@ radar
 behind
 thought
 arrive |  
-| bip_39_word_new_line2 | virus
+| bip_39_word_new_line_2 | virus
 swift |  
-| bip_39_word_new_line3 | virus
+| bip_39_word_new_line_3 | virus
 swift
 video |  
-| bip_39_word_new_line4 | virus
+| bip_39_word_new_line_4 | virus
 swift
 video
 gym |  
-| bip_39_word_new_line5 | virus
+| bip_39_word_new_line_5 | virus
 swift
 video
 gym
 goddess |  
-| bip_39_word_new_line6 | virus
+| bip_39_word_new_line_6 | virus
 swift
 video
 gym
 goddess
 satisfy |  
-| bip_39_word_new_line7 | virus
+| bip_39_word_new_line_7 | virus
 swift
 video
 gym
 goddess
 satisfy
 hazard |  
-| bip_39_word_new_line8 | virus
+| bip_39_word_new_line_8 | virus
 swift
 video
 gym
@@ -113,7 +113,7 @@ goddess
 satisfy
 hazard
 impact |  
-| bip_39_word_new_line9 | virus
+| bip_39_word_new_line_9 | virus
 swift
 video
 gym

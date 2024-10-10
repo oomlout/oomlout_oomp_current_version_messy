@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | detect |  
-| bip_39_word_new_br10 | detect<br>slight<br>coconut<br>clap<br>real<br>exclude<br>lucky<br>version<br>torch<br>banner |  
-| bip_39_word_new_br11 | detect<br>slight<br>coconut<br>clap<br>real<br>exclude<br>lucky<br>version<br>torch<br>banner<br>century |  
-| bip_39_word_new_br12 | detect<br>slight<br>coconut<br>clap<br>real<br>exclude<br>lucky<br>version<br>torch<br>banner<br>century<br>arena |  
-| bip_39_word_new_br2 | detect<br>slight |  
-| bip_39_word_new_br3 | detect<br>slight<br>coconut |  
-| bip_39_word_new_br4 | detect<br>slight<br>coconut<br>clap |  
-| bip_39_word_new_br5 | detect<br>slight<br>coconut<br>clap<br>real |  
-| bip_39_word_new_br6 | detect<br>slight<br>coconut<br>clap<br>real<br>exclude |  
-| bip_39_word_new_br7 | detect<br>slight<br>coconut<br>clap<br>real<br>exclude<br>lucky |  
-| bip_39_word_new_br8 | detect<br>slight<br>coconut<br>clap<br>real<br>exclude<br>lucky<br>version |  
-| bip_39_word_new_br9 | detect<br>slight<br>coconut<br>clap<br>real<br>exclude<br>lucky<br>version<br>torch |  
-| bip_39_word_new_line1 | detect |  
-| bip_39_word_new_line10 | detect
+| bip_39_word_new_br_1 | detect |  
+| bip_39_word_new_br_10 | detect<br>slight<br>coconut<br>clap<br>real<br>exclude<br>lucky<br>version<br>torch<br>banner |  
+| bip_39_word_new_br_11 | detect<br>slight<br>coconut<br>clap<br>real<br>exclude<br>lucky<br>version<br>torch<br>banner<br>century |  
+| bip_39_word_new_br_12 | detect<br>slight<br>coconut<br>clap<br>real<br>exclude<br>lucky<br>version<br>torch<br>banner<br>century<br>arena |  
+| bip_39_word_new_br_2 | detect<br>slight |  
+| bip_39_word_new_br_3 | detect<br>slight<br>coconut |  
+| bip_39_word_new_br_4 | detect<br>slight<br>coconut<br>clap |  
+| bip_39_word_new_br_5 | detect<br>slight<br>coconut<br>clap<br>real |  
+| bip_39_word_new_br_6 | detect<br>slight<br>coconut<br>clap<br>real<br>exclude |  
+| bip_39_word_new_br_7 | detect<br>slight<br>coconut<br>clap<br>real<br>exclude<br>lucky |  
+| bip_39_word_new_br_8 | detect<br>slight<br>coconut<br>clap<br>real<br>exclude<br>lucky<br>version |  
+| bip_39_word_new_br_9 | detect<br>slight<br>coconut<br>clap<br>real<br>exclude<br>lucky<br>version<br>torch |  
+| bip_39_word_new_line_1 | detect |  
+| bip_39_word_new_line_10 | detect
 slight
 coconut
 clap
@@ -55,7 +55,7 @@ lucky
 version
 torch
 banner |  
-| bip_39_word_new_line11 | detect
+| bip_39_word_new_line_11 | detect
 slight
 coconut
 clap
@@ -66,7 +66,7 @@ version
 torch
 banner
 century |  
-| bip_39_word_new_line12 | detect
+| bip_39_word_new_line_12 | detect
 slight
 coconut
 clap
@@ -78,34 +78,34 @@ torch
 banner
 century
 arena |  
-| bip_39_word_new_line2 | detect
+| bip_39_word_new_line_2 | detect
 slight |  
-| bip_39_word_new_line3 | detect
+| bip_39_word_new_line_3 | detect
 slight
 coconut |  
-| bip_39_word_new_line4 | detect
+| bip_39_word_new_line_4 | detect
 slight
 coconut
 clap |  
-| bip_39_word_new_line5 | detect
+| bip_39_word_new_line_5 | detect
 slight
 coconut
 clap
 real |  
-| bip_39_word_new_line6 | detect
+| bip_39_word_new_line_6 | detect
 slight
 coconut
 clap
 real
 exclude |  
-| bip_39_word_new_line7 | detect
+| bip_39_word_new_line_7 | detect
 slight
 coconut
 clap
 real
 exclude
 lucky |  
-| bip_39_word_new_line8 | detect
+| bip_39_word_new_line_8 | detect
 slight
 coconut
 clap
@@ -113,7 +113,7 @@ real
 exclude
 lucky
 version |  
-| bip_39_word_new_line9 | detect
+| bip_39_word_new_line_9 | detect
 slight
 coconut
 clap

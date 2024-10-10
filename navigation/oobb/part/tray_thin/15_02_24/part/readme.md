@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | accident |  
-| bip_39_word_new_br10 | accident<br>know<br>assault<br>dose<br>seek<br>liquid<br>derive<br>plug<br>popular<br>staff |  
-| bip_39_word_new_br11 | accident<br>know<br>assault<br>dose<br>seek<br>liquid<br>derive<br>plug<br>popular<br>staff<br>balance |  
-| bip_39_word_new_br12 | accident<br>know<br>assault<br>dose<br>seek<br>liquid<br>derive<br>plug<br>popular<br>staff<br>balance<br>angry |  
-| bip_39_word_new_br2 | accident<br>know |  
-| bip_39_word_new_br3 | accident<br>know<br>assault |  
-| bip_39_word_new_br4 | accident<br>know<br>assault<br>dose |  
-| bip_39_word_new_br5 | accident<br>know<br>assault<br>dose<br>seek |  
-| bip_39_word_new_br6 | accident<br>know<br>assault<br>dose<br>seek<br>liquid |  
-| bip_39_word_new_br7 | accident<br>know<br>assault<br>dose<br>seek<br>liquid<br>derive |  
-| bip_39_word_new_br8 | accident<br>know<br>assault<br>dose<br>seek<br>liquid<br>derive<br>plug |  
-| bip_39_word_new_br9 | accident<br>know<br>assault<br>dose<br>seek<br>liquid<br>derive<br>plug<br>popular |  
-| bip_39_word_new_line1 | accident |  
-| bip_39_word_new_line10 | accident
+| bip_39_word_new_br_1 | accident |  
+| bip_39_word_new_br_10 | accident<br>know<br>assault<br>dose<br>seek<br>liquid<br>derive<br>plug<br>popular<br>staff |  
+| bip_39_word_new_br_11 | accident<br>know<br>assault<br>dose<br>seek<br>liquid<br>derive<br>plug<br>popular<br>staff<br>balance |  
+| bip_39_word_new_br_12 | accident<br>know<br>assault<br>dose<br>seek<br>liquid<br>derive<br>plug<br>popular<br>staff<br>balance<br>angry |  
+| bip_39_word_new_br_2 | accident<br>know |  
+| bip_39_word_new_br_3 | accident<br>know<br>assault |  
+| bip_39_word_new_br_4 | accident<br>know<br>assault<br>dose |  
+| bip_39_word_new_br_5 | accident<br>know<br>assault<br>dose<br>seek |  
+| bip_39_word_new_br_6 | accident<br>know<br>assault<br>dose<br>seek<br>liquid |  
+| bip_39_word_new_br_7 | accident<br>know<br>assault<br>dose<br>seek<br>liquid<br>derive |  
+| bip_39_word_new_br_8 | accident<br>know<br>assault<br>dose<br>seek<br>liquid<br>derive<br>plug |  
+| bip_39_word_new_br_9 | accident<br>know<br>assault<br>dose<br>seek<br>liquid<br>derive<br>plug<br>popular |  
+| bip_39_word_new_line_1 | accident |  
+| bip_39_word_new_line_10 | accident
 know
 assault
 dose
@@ -55,7 +55,7 @@ derive
 plug
 popular
 staff |  
-| bip_39_word_new_line11 | accident
+| bip_39_word_new_line_11 | accident
 know
 assault
 dose
@@ -66,7 +66,7 @@ plug
 popular
 staff
 balance |  
-| bip_39_word_new_line12 | accident
+| bip_39_word_new_line_12 | accident
 know
 assault
 dose
@@ -78,34 +78,34 @@ popular
 staff
 balance
 angry |  
-| bip_39_word_new_line2 | accident
+| bip_39_word_new_line_2 | accident
 know |  
-| bip_39_word_new_line3 | accident
+| bip_39_word_new_line_3 | accident
 know
 assault |  
-| bip_39_word_new_line4 | accident
+| bip_39_word_new_line_4 | accident
 know
 assault
 dose |  
-| bip_39_word_new_line5 | accident
+| bip_39_word_new_line_5 | accident
 know
 assault
 dose
 seek |  
-| bip_39_word_new_line6 | accident
+| bip_39_word_new_line_6 | accident
 know
 assault
 dose
 seek
 liquid |  
-| bip_39_word_new_line7 | accident
+| bip_39_word_new_line_7 | accident
 know
 assault
 dose
 seek
 liquid
 derive |  
-| bip_39_word_new_line8 | accident
+| bip_39_word_new_line_8 | accident
 know
 assault
 dose
@@ -113,7 +113,7 @@ seek
 liquid
 derive
 plug |  
-| bip_39_word_new_line9 | accident
+| bip_39_word_new_line_9 | accident
 know
 assault
 dose

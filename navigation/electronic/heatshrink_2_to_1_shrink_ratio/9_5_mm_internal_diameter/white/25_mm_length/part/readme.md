@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | vanish |  
-| bip_39_word_new_br10 | vanish<br>diet<br>latin<br>clay<br>salmon<br>liquid<br>fancy<br>viable<br>brisk<br>boost |  
-| bip_39_word_new_br11 | vanish<br>diet<br>latin<br>clay<br>salmon<br>liquid<br>fancy<br>viable<br>brisk<br>boost<br>bind |  
-| bip_39_word_new_br12 | vanish<br>diet<br>latin<br>clay<br>salmon<br>liquid<br>fancy<br>viable<br>brisk<br>boost<br>bind<br>alcohol |  
-| bip_39_word_new_br2 | vanish<br>diet |  
-| bip_39_word_new_br3 | vanish<br>diet<br>latin |  
-| bip_39_word_new_br4 | vanish<br>diet<br>latin<br>clay |  
-| bip_39_word_new_br5 | vanish<br>diet<br>latin<br>clay<br>salmon |  
-| bip_39_word_new_br6 | vanish<br>diet<br>latin<br>clay<br>salmon<br>liquid |  
-| bip_39_word_new_br7 | vanish<br>diet<br>latin<br>clay<br>salmon<br>liquid<br>fancy |  
-| bip_39_word_new_br8 | vanish<br>diet<br>latin<br>clay<br>salmon<br>liquid<br>fancy<br>viable |  
-| bip_39_word_new_br9 | vanish<br>diet<br>latin<br>clay<br>salmon<br>liquid<br>fancy<br>viable<br>brisk |  
-| bip_39_word_new_line1 | vanish |  
-| bip_39_word_new_line10 | vanish
+| bip_39_word_new_br_1 | vanish |  
+| bip_39_word_new_br_10 | vanish<br>diet<br>latin<br>clay<br>salmon<br>liquid<br>fancy<br>viable<br>brisk<br>boost |  
+| bip_39_word_new_br_11 | vanish<br>diet<br>latin<br>clay<br>salmon<br>liquid<br>fancy<br>viable<br>brisk<br>boost<br>bind |  
+| bip_39_word_new_br_12 | vanish<br>diet<br>latin<br>clay<br>salmon<br>liquid<br>fancy<br>viable<br>brisk<br>boost<br>bind<br>alcohol |  
+| bip_39_word_new_br_2 | vanish<br>diet |  
+| bip_39_word_new_br_3 | vanish<br>diet<br>latin |  
+| bip_39_word_new_br_4 | vanish<br>diet<br>latin<br>clay |  
+| bip_39_word_new_br_5 | vanish<br>diet<br>latin<br>clay<br>salmon |  
+| bip_39_word_new_br_6 | vanish<br>diet<br>latin<br>clay<br>salmon<br>liquid |  
+| bip_39_word_new_br_7 | vanish<br>diet<br>latin<br>clay<br>salmon<br>liquid<br>fancy |  
+| bip_39_word_new_br_8 | vanish<br>diet<br>latin<br>clay<br>salmon<br>liquid<br>fancy<br>viable |  
+| bip_39_word_new_br_9 | vanish<br>diet<br>latin<br>clay<br>salmon<br>liquid<br>fancy<br>viable<br>brisk |  
+| bip_39_word_new_line_1 | vanish |  
+| bip_39_word_new_line_10 | vanish
 diet
 latin
 clay
@@ -55,7 +55,7 @@ fancy
 viable
 brisk
 boost |  
-| bip_39_word_new_line11 | vanish
+| bip_39_word_new_line_11 | vanish
 diet
 latin
 clay
@@ -66,7 +66,7 @@ viable
 brisk
 boost
 bind |  
-| bip_39_word_new_line12 | vanish
+| bip_39_word_new_line_12 | vanish
 diet
 latin
 clay
@@ -78,34 +78,34 @@ brisk
 boost
 bind
 alcohol |  
-| bip_39_word_new_line2 | vanish
+| bip_39_word_new_line_2 | vanish
 diet |  
-| bip_39_word_new_line3 | vanish
+| bip_39_word_new_line_3 | vanish
 diet
 latin |  
-| bip_39_word_new_line4 | vanish
+| bip_39_word_new_line_4 | vanish
 diet
 latin
 clay |  
-| bip_39_word_new_line5 | vanish
+| bip_39_word_new_line_5 | vanish
 diet
 latin
 clay
 salmon |  
-| bip_39_word_new_line6 | vanish
+| bip_39_word_new_line_6 | vanish
 diet
 latin
 clay
 salmon
 liquid |  
-| bip_39_word_new_line7 | vanish
+| bip_39_word_new_line_7 | vanish
 diet
 latin
 clay
 salmon
 liquid
 fancy |  
-| bip_39_word_new_line8 | vanish
+| bip_39_word_new_line_8 | vanish
 diet
 latin
 clay
@@ -113,7 +113,7 @@ salmon
 liquid
 fancy
 viable |  
-| bip_39_word_new_line9 | vanish
+| bip_39_word_new_line_9 | vanish
 diet
 latin
 clay

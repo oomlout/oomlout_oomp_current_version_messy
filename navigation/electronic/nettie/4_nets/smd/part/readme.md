@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | spring |  
-| bip_39_word_new_br10 | spring<br>there<br>reward<br>happy<br>route<br>vintage<br>slide<br>hurry<br>foot<br>broom |  
-| bip_39_word_new_br11 | spring<br>there<br>reward<br>happy<br>route<br>vintage<br>slide<br>hurry<br>foot<br>broom<br>ribbon |  
-| bip_39_word_new_br12 | spring<br>there<br>reward<br>happy<br>route<br>vintage<br>slide<br>hurry<br>foot<br>broom<br>ribbon<br>art |  
-| bip_39_word_new_br2 | spring<br>there |  
-| bip_39_word_new_br3 | spring<br>there<br>reward |  
-| bip_39_word_new_br4 | spring<br>there<br>reward<br>happy |  
-| bip_39_word_new_br5 | spring<br>there<br>reward<br>happy<br>route |  
-| bip_39_word_new_br6 | spring<br>there<br>reward<br>happy<br>route<br>vintage |  
-| bip_39_word_new_br7 | spring<br>there<br>reward<br>happy<br>route<br>vintage<br>slide |  
-| bip_39_word_new_br8 | spring<br>there<br>reward<br>happy<br>route<br>vintage<br>slide<br>hurry |  
-| bip_39_word_new_br9 | spring<br>there<br>reward<br>happy<br>route<br>vintage<br>slide<br>hurry<br>foot |  
-| bip_39_word_new_line1 | spring |  
-| bip_39_word_new_line10 | spring
+| bip_39_word_new_br_1 | spring |  
+| bip_39_word_new_br_10 | spring<br>there<br>reward<br>happy<br>route<br>vintage<br>slide<br>hurry<br>foot<br>broom |  
+| bip_39_word_new_br_11 | spring<br>there<br>reward<br>happy<br>route<br>vintage<br>slide<br>hurry<br>foot<br>broom<br>ribbon |  
+| bip_39_word_new_br_12 | spring<br>there<br>reward<br>happy<br>route<br>vintage<br>slide<br>hurry<br>foot<br>broom<br>ribbon<br>art |  
+| bip_39_word_new_br_2 | spring<br>there |  
+| bip_39_word_new_br_3 | spring<br>there<br>reward |  
+| bip_39_word_new_br_4 | spring<br>there<br>reward<br>happy |  
+| bip_39_word_new_br_5 | spring<br>there<br>reward<br>happy<br>route |  
+| bip_39_word_new_br_6 | spring<br>there<br>reward<br>happy<br>route<br>vintage |  
+| bip_39_word_new_br_7 | spring<br>there<br>reward<br>happy<br>route<br>vintage<br>slide |  
+| bip_39_word_new_br_8 | spring<br>there<br>reward<br>happy<br>route<br>vintage<br>slide<br>hurry |  
+| bip_39_word_new_br_9 | spring<br>there<br>reward<br>happy<br>route<br>vintage<br>slide<br>hurry<br>foot |  
+| bip_39_word_new_line_1 | spring |  
+| bip_39_word_new_line_10 | spring
 there
 reward
 happy
@@ -55,7 +55,7 @@ slide
 hurry
 foot
 broom |  
-| bip_39_word_new_line11 | spring
+| bip_39_word_new_line_11 | spring
 there
 reward
 happy
@@ -66,7 +66,7 @@ hurry
 foot
 broom
 ribbon |  
-| bip_39_word_new_line12 | spring
+| bip_39_word_new_line_12 | spring
 there
 reward
 happy
@@ -78,34 +78,34 @@ foot
 broom
 ribbon
 art |  
-| bip_39_word_new_line2 | spring
+| bip_39_word_new_line_2 | spring
 there |  
-| bip_39_word_new_line3 | spring
+| bip_39_word_new_line_3 | spring
 there
 reward |  
-| bip_39_word_new_line4 | spring
+| bip_39_word_new_line_4 | spring
 there
 reward
 happy |  
-| bip_39_word_new_line5 | spring
+| bip_39_word_new_line_5 | spring
 there
 reward
 happy
 route |  
-| bip_39_word_new_line6 | spring
+| bip_39_word_new_line_6 | spring
 there
 reward
 happy
 route
 vintage |  
-| bip_39_word_new_line7 | spring
+| bip_39_word_new_line_7 | spring
 there
 reward
 happy
 route
 vintage
 slide |  
-| bip_39_word_new_line8 | spring
+| bip_39_word_new_line_8 | spring
 there
 reward
 happy
@@ -113,7 +113,7 @@ route
 vintage
 slide
 hurry |  
-| bip_39_word_new_line9 | spring
+| bip_39_word_new_line_9 | spring
 there
 reward
 happy

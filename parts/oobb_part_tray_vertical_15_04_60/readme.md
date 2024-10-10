@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | blind |  
-| bip_39_word_new_br10 | blind<br>child<br>tiny<br>legend<br>decade<br>merge<br>sport<br>chunk<br>minute<br>exotic |  
-| bip_39_word_new_br11 | blind<br>child<br>tiny<br>legend<br>decade<br>merge<br>sport<br>chunk<br>minute<br>exotic<br>marble |  
-| bip_39_word_new_br12 | blind<br>child<br>tiny<br>legend<br>decade<br>merge<br>sport<br>chunk<br>minute<br>exotic<br>marble<br>anxiety |  
-| bip_39_word_new_br2 | blind<br>child |  
-| bip_39_word_new_br3 | blind<br>child<br>tiny |  
-| bip_39_word_new_br4 | blind<br>child<br>tiny<br>legend |  
-| bip_39_word_new_br5 | blind<br>child<br>tiny<br>legend<br>decade |  
-| bip_39_word_new_br6 | blind<br>child<br>tiny<br>legend<br>decade<br>merge |  
-| bip_39_word_new_br7 | blind<br>child<br>tiny<br>legend<br>decade<br>merge<br>sport |  
-| bip_39_word_new_br8 | blind<br>child<br>tiny<br>legend<br>decade<br>merge<br>sport<br>chunk |  
-| bip_39_word_new_br9 | blind<br>child<br>tiny<br>legend<br>decade<br>merge<br>sport<br>chunk<br>minute |  
-| bip_39_word_new_line1 | blind |  
-| bip_39_word_new_line10 | blind
+| bip_39_word_new_br_1 | blind |  
+| bip_39_word_new_br_10 | blind<br>child<br>tiny<br>legend<br>decade<br>merge<br>sport<br>chunk<br>minute<br>exotic |  
+| bip_39_word_new_br_11 | blind<br>child<br>tiny<br>legend<br>decade<br>merge<br>sport<br>chunk<br>minute<br>exotic<br>marble |  
+| bip_39_word_new_br_12 | blind<br>child<br>tiny<br>legend<br>decade<br>merge<br>sport<br>chunk<br>minute<br>exotic<br>marble<br>anxiety |  
+| bip_39_word_new_br_2 | blind<br>child |  
+| bip_39_word_new_br_3 | blind<br>child<br>tiny |  
+| bip_39_word_new_br_4 | blind<br>child<br>tiny<br>legend |  
+| bip_39_word_new_br_5 | blind<br>child<br>tiny<br>legend<br>decade |  
+| bip_39_word_new_br_6 | blind<br>child<br>tiny<br>legend<br>decade<br>merge |  
+| bip_39_word_new_br_7 | blind<br>child<br>tiny<br>legend<br>decade<br>merge<br>sport |  
+| bip_39_word_new_br_8 | blind<br>child<br>tiny<br>legend<br>decade<br>merge<br>sport<br>chunk |  
+| bip_39_word_new_br_9 | blind<br>child<br>tiny<br>legend<br>decade<br>merge<br>sport<br>chunk<br>minute |  
+| bip_39_word_new_line_1 | blind |  
+| bip_39_word_new_line_10 | blind
 child
 tiny
 legend
@@ -55,7 +55,7 @@ sport
 chunk
 minute
 exotic |  
-| bip_39_word_new_line11 | blind
+| bip_39_word_new_line_11 | blind
 child
 tiny
 legend
@@ -66,7 +66,7 @@ chunk
 minute
 exotic
 marble |  
-| bip_39_word_new_line12 | blind
+| bip_39_word_new_line_12 | blind
 child
 tiny
 legend
@@ -78,34 +78,34 @@ minute
 exotic
 marble
 anxiety |  
-| bip_39_word_new_line2 | blind
+| bip_39_word_new_line_2 | blind
 child |  
-| bip_39_word_new_line3 | blind
+| bip_39_word_new_line_3 | blind
 child
 tiny |  
-| bip_39_word_new_line4 | blind
+| bip_39_word_new_line_4 | blind
 child
 tiny
 legend |  
-| bip_39_word_new_line5 | blind
+| bip_39_word_new_line_5 | blind
 child
 tiny
 legend
 decade |  
-| bip_39_word_new_line6 | blind
+| bip_39_word_new_line_6 | blind
 child
 tiny
 legend
 decade
 merge |  
-| bip_39_word_new_line7 | blind
+| bip_39_word_new_line_7 | blind
 child
 tiny
 legend
 decade
 merge
 sport |  
-| bip_39_word_new_line8 | blind
+| bip_39_word_new_line_8 | blind
 child
 tiny
 legend
@@ -113,7 +113,7 @@ decade
 merge
 sport
 chunk |  
-| bip_39_word_new_line9 | blind
+| bip_39_word_new_line_9 | blind
 child
 tiny
 legend

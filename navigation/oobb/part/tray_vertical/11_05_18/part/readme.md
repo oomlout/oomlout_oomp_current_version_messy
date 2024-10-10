@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | desert |  
-| bip_39_word_new_br10 | desert<br>else<br>rookie<br>coral<br>traffic<br>stay<br>tennis<br>crack<br>crunch<br>glove |  
-| bip_39_word_new_br11 | desert<br>else<br>rookie<br>coral<br>traffic<br>stay<br>tennis<br>crack<br>crunch<br>glove<br>truck |  
-| bip_39_word_new_br12 | desert<br>else<br>rookie<br>coral<br>traffic<br>stay<br>tennis<br>crack<br>crunch<br>glove<br>truck<br>arrow |  
-| bip_39_word_new_br2 | desert<br>else |  
-| bip_39_word_new_br3 | desert<br>else<br>rookie |  
-| bip_39_word_new_br4 | desert<br>else<br>rookie<br>coral |  
-| bip_39_word_new_br5 | desert<br>else<br>rookie<br>coral<br>traffic |  
-| bip_39_word_new_br6 | desert<br>else<br>rookie<br>coral<br>traffic<br>stay |  
-| bip_39_word_new_br7 | desert<br>else<br>rookie<br>coral<br>traffic<br>stay<br>tennis |  
-| bip_39_word_new_br8 | desert<br>else<br>rookie<br>coral<br>traffic<br>stay<br>tennis<br>crack |  
-| bip_39_word_new_br9 | desert<br>else<br>rookie<br>coral<br>traffic<br>stay<br>tennis<br>crack<br>crunch |  
-| bip_39_word_new_line1 | desert |  
-| bip_39_word_new_line10 | desert
+| bip_39_word_new_br_1 | desert |  
+| bip_39_word_new_br_10 | desert<br>else<br>rookie<br>coral<br>traffic<br>stay<br>tennis<br>crack<br>crunch<br>glove |  
+| bip_39_word_new_br_11 | desert<br>else<br>rookie<br>coral<br>traffic<br>stay<br>tennis<br>crack<br>crunch<br>glove<br>truck |  
+| bip_39_word_new_br_12 | desert<br>else<br>rookie<br>coral<br>traffic<br>stay<br>tennis<br>crack<br>crunch<br>glove<br>truck<br>arrow |  
+| bip_39_word_new_br_2 | desert<br>else |  
+| bip_39_word_new_br_3 | desert<br>else<br>rookie |  
+| bip_39_word_new_br_4 | desert<br>else<br>rookie<br>coral |  
+| bip_39_word_new_br_5 | desert<br>else<br>rookie<br>coral<br>traffic |  
+| bip_39_word_new_br_6 | desert<br>else<br>rookie<br>coral<br>traffic<br>stay |  
+| bip_39_word_new_br_7 | desert<br>else<br>rookie<br>coral<br>traffic<br>stay<br>tennis |  
+| bip_39_word_new_br_8 | desert<br>else<br>rookie<br>coral<br>traffic<br>stay<br>tennis<br>crack |  
+| bip_39_word_new_br_9 | desert<br>else<br>rookie<br>coral<br>traffic<br>stay<br>tennis<br>crack<br>crunch |  
+| bip_39_word_new_line_1 | desert |  
+| bip_39_word_new_line_10 | desert
 else
 rookie
 coral
@@ -55,7 +55,7 @@ tennis
 crack
 crunch
 glove |  
-| bip_39_word_new_line11 | desert
+| bip_39_word_new_line_11 | desert
 else
 rookie
 coral
@@ -66,7 +66,7 @@ crack
 crunch
 glove
 truck |  
-| bip_39_word_new_line12 | desert
+| bip_39_word_new_line_12 | desert
 else
 rookie
 coral
@@ -78,34 +78,34 @@ crunch
 glove
 truck
 arrow |  
-| bip_39_word_new_line2 | desert
+| bip_39_word_new_line_2 | desert
 else |  
-| bip_39_word_new_line3 | desert
+| bip_39_word_new_line_3 | desert
 else
 rookie |  
-| bip_39_word_new_line4 | desert
+| bip_39_word_new_line_4 | desert
 else
 rookie
 coral |  
-| bip_39_word_new_line5 | desert
+| bip_39_word_new_line_5 | desert
 else
 rookie
 coral
 traffic |  
-| bip_39_word_new_line6 | desert
+| bip_39_word_new_line_6 | desert
 else
 rookie
 coral
 traffic
 stay |  
-| bip_39_word_new_line7 | desert
+| bip_39_word_new_line_7 | desert
 else
 rookie
 coral
 traffic
 stay
 tennis |  
-| bip_39_word_new_line8 | desert
+| bip_39_word_new_line_8 | desert
 else
 rookie
 coral
@@ -113,7 +113,7 @@ traffic
 stay
 tennis
 crack |  
-| bip_39_word_new_line9 | desert
+| bip_39_word_new_line_9 | desert
 else
 rookie
 coral

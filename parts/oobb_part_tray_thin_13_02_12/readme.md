@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gift |  
-| bip_39_word_new_br10 | gift<br>arch<br>victory<br>tip<br>trash<br>judge<br>ice<br>craft<br>burden<br>people |  
-| bip_39_word_new_br11 | gift<br>arch<br>victory<br>tip<br>trash<br>judge<br>ice<br>craft<br>burden<br>people<br>crowd |  
-| bip_39_word_new_br12 | gift<br>arch<br>victory<br>tip<br>trash<br>judge<br>ice<br>craft<br>burden<br>people<br>crowd<br>alcohol |  
-| bip_39_word_new_br2 | gift<br>arch |  
-| bip_39_word_new_br3 | gift<br>arch<br>victory |  
-| bip_39_word_new_br4 | gift<br>arch<br>victory<br>tip |  
-| bip_39_word_new_br5 | gift<br>arch<br>victory<br>tip<br>trash |  
-| bip_39_word_new_br6 | gift<br>arch<br>victory<br>tip<br>trash<br>judge |  
-| bip_39_word_new_br7 | gift<br>arch<br>victory<br>tip<br>trash<br>judge<br>ice |  
-| bip_39_word_new_br8 | gift<br>arch<br>victory<br>tip<br>trash<br>judge<br>ice<br>craft |  
-| bip_39_word_new_br9 | gift<br>arch<br>victory<br>tip<br>trash<br>judge<br>ice<br>craft<br>burden |  
-| bip_39_word_new_line1 | gift |  
-| bip_39_word_new_line10 | gift
+| bip_39_word_new_br_1 | gift |  
+| bip_39_word_new_br_10 | gift<br>arch<br>victory<br>tip<br>trash<br>judge<br>ice<br>craft<br>burden<br>people |  
+| bip_39_word_new_br_11 | gift<br>arch<br>victory<br>tip<br>trash<br>judge<br>ice<br>craft<br>burden<br>people<br>crowd |  
+| bip_39_word_new_br_12 | gift<br>arch<br>victory<br>tip<br>trash<br>judge<br>ice<br>craft<br>burden<br>people<br>crowd<br>alcohol |  
+| bip_39_word_new_br_2 | gift<br>arch |  
+| bip_39_word_new_br_3 | gift<br>arch<br>victory |  
+| bip_39_word_new_br_4 | gift<br>arch<br>victory<br>tip |  
+| bip_39_word_new_br_5 | gift<br>arch<br>victory<br>tip<br>trash |  
+| bip_39_word_new_br_6 | gift<br>arch<br>victory<br>tip<br>trash<br>judge |  
+| bip_39_word_new_br_7 | gift<br>arch<br>victory<br>tip<br>trash<br>judge<br>ice |  
+| bip_39_word_new_br_8 | gift<br>arch<br>victory<br>tip<br>trash<br>judge<br>ice<br>craft |  
+| bip_39_word_new_br_9 | gift<br>arch<br>victory<br>tip<br>trash<br>judge<br>ice<br>craft<br>burden |  
+| bip_39_word_new_line_1 | gift |  
+| bip_39_word_new_line_10 | gift
 arch
 victory
 tip
@@ -55,7 +55,7 @@ ice
 craft
 burden
 people |  
-| bip_39_word_new_line11 | gift
+| bip_39_word_new_line_11 | gift
 arch
 victory
 tip
@@ -66,7 +66,7 @@ craft
 burden
 people
 crowd |  
-| bip_39_word_new_line12 | gift
+| bip_39_word_new_line_12 | gift
 arch
 victory
 tip
@@ -78,34 +78,34 @@ burden
 people
 crowd
 alcohol |  
-| bip_39_word_new_line2 | gift
+| bip_39_word_new_line_2 | gift
 arch |  
-| bip_39_word_new_line3 | gift
+| bip_39_word_new_line_3 | gift
 arch
 victory |  
-| bip_39_word_new_line4 | gift
+| bip_39_word_new_line_4 | gift
 arch
 victory
 tip |  
-| bip_39_word_new_line5 | gift
+| bip_39_word_new_line_5 | gift
 arch
 victory
 tip
 trash |  
-| bip_39_word_new_line6 | gift
+| bip_39_word_new_line_6 | gift
 arch
 victory
 tip
 trash
 judge |  
-| bip_39_word_new_line7 | gift
+| bip_39_word_new_line_7 | gift
 arch
 victory
 tip
 trash
 judge
 ice |  
-| bip_39_word_new_line8 | gift
+| bip_39_word_new_line_8 | gift
 arch
 victory
 tip
@@ -113,7 +113,7 @@ trash
 judge
 ice
 craft |  
-| bip_39_word_new_line9 | gift
+| bip_39_word_new_line_9 | gift
 arch
 victory
 tip

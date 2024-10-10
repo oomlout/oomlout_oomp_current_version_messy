@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | setup |  
-| bip_39_word_new_br10 | setup<br>gospel<br>middle<br>image<br>young<br>duty<br>eight<br>mushroom<br>task<br>meadow |  
-| bip_39_word_new_br11 | setup<br>gospel<br>middle<br>image<br>young<br>duty<br>eight<br>mushroom<br>task<br>meadow<br>true |  
-| bip_39_word_new_br12 | setup<br>gospel<br>middle<br>image<br>young<br>duty<br>eight<br>mushroom<br>task<br>meadow<br>true<br>arrest |  
-| bip_39_word_new_br2 | setup<br>gospel |  
-| bip_39_word_new_br3 | setup<br>gospel<br>middle |  
-| bip_39_word_new_br4 | setup<br>gospel<br>middle<br>image |  
-| bip_39_word_new_br5 | setup<br>gospel<br>middle<br>image<br>young |  
-| bip_39_word_new_br6 | setup<br>gospel<br>middle<br>image<br>young<br>duty |  
-| bip_39_word_new_br7 | setup<br>gospel<br>middle<br>image<br>young<br>duty<br>eight |  
-| bip_39_word_new_br8 | setup<br>gospel<br>middle<br>image<br>young<br>duty<br>eight<br>mushroom |  
-| bip_39_word_new_br9 | setup<br>gospel<br>middle<br>image<br>young<br>duty<br>eight<br>mushroom<br>task |  
-| bip_39_word_new_line1 | setup |  
-| bip_39_word_new_line10 | setup
+| bip_39_word_new_br_1 | setup |  
+| bip_39_word_new_br_10 | setup<br>gospel<br>middle<br>image<br>young<br>duty<br>eight<br>mushroom<br>task<br>meadow |  
+| bip_39_word_new_br_11 | setup<br>gospel<br>middle<br>image<br>young<br>duty<br>eight<br>mushroom<br>task<br>meadow<br>true |  
+| bip_39_word_new_br_12 | setup<br>gospel<br>middle<br>image<br>young<br>duty<br>eight<br>mushroom<br>task<br>meadow<br>true<br>arrest |  
+| bip_39_word_new_br_2 | setup<br>gospel |  
+| bip_39_word_new_br_3 | setup<br>gospel<br>middle |  
+| bip_39_word_new_br_4 | setup<br>gospel<br>middle<br>image |  
+| bip_39_word_new_br_5 | setup<br>gospel<br>middle<br>image<br>young |  
+| bip_39_word_new_br_6 | setup<br>gospel<br>middle<br>image<br>young<br>duty |  
+| bip_39_word_new_br_7 | setup<br>gospel<br>middle<br>image<br>young<br>duty<br>eight |  
+| bip_39_word_new_br_8 | setup<br>gospel<br>middle<br>image<br>young<br>duty<br>eight<br>mushroom |  
+| bip_39_word_new_br_9 | setup<br>gospel<br>middle<br>image<br>young<br>duty<br>eight<br>mushroom<br>task |  
+| bip_39_word_new_line_1 | setup |  
+| bip_39_word_new_line_10 | setup
 gospel
 middle
 image
@@ -55,7 +55,7 @@ eight
 mushroom
 task
 meadow |  
-| bip_39_word_new_line11 | setup
+| bip_39_word_new_line_11 | setup
 gospel
 middle
 image
@@ -66,7 +66,7 @@ mushroom
 task
 meadow
 true |  
-| bip_39_word_new_line12 | setup
+| bip_39_word_new_line_12 | setup
 gospel
 middle
 image
@@ -78,34 +78,34 @@ task
 meadow
 true
 arrest |  
-| bip_39_word_new_line2 | setup
+| bip_39_word_new_line_2 | setup
 gospel |  
-| bip_39_word_new_line3 | setup
+| bip_39_word_new_line_3 | setup
 gospel
 middle |  
-| bip_39_word_new_line4 | setup
+| bip_39_word_new_line_4 | setup
 gospel
 middle
 image |  
-| bip_39_word_new_line5 | setup
+| bip_39_word_new_line_5 | setup
 gospel
 middle
 image
 young |  
-| bip_39_word_new_line6 | setup
+| bip_39_word_new_line_6 | setup
 gospel
 middle
 image
 young
 duty |  
-| bip_39_word_new_line7 | setup
+| bip_39_word_new_line_7 | setup
 gospel
 middle
 image
 young
 duty
 eight |  
-| bip_39_word_new_line8 | setup
+| bip_39_word_new_line_8 | setup
 gospel
 middle
 image
@@ -113,7 +113,7 @@ young
 duty
 eight
 mushroom |  
-| bip_39_word_new_line9 | setup
+| bip_39_word_new_line_9 | setup
 gospel
 middle
 image

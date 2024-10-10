@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | effort |  
-| bip_39_word_new_br10 | effort<br>deputy<br>casino<br>visa<br>device<br>symbol<br>census<br>bright<br>hotel<br>surge |  
-| bip_39_word_new_br11 | effort<br>deputy<br>casino<br>visa<br>device<br>symbol<br>census<br>bright<br>hotel<br>surge<br>nasty |  
-| bip_39_word_new_br12 | effort<br>deputy<br>casino<br>visa<br>device<br>symbol<br>census<br>bright<br>hotel<br>surge<br>nasty<br>artefact |  
-| bip_39_word_new_br2 | effort<br>deputy |  
-| bip_39_word_new_br3 | effort<br>deputy<br>casino |  
-| bip_39_word_new_br4 | effort<br>deputy<br>casino<br>visa |  
-| bip_39_word_new_br5 | effort<br>deputy<br>casino<br>visa<br>device |  
-| bip_39_word_new_br6 | effort<br>deputy<br>casino<br>visa<br>device<br>symbol |  
-| bip_39_word_new_br7 | effort<br>deputy<br>casino<br>visa<br>device<br>symbol<br>census |  
-| bip_39_word_new_br8 | effort<br>deputy<br>casino<br>visa<br>device<br>symbol<br>census<br>bright |  
-| bip_39_word_new_br9 | effort<br>deputy<br>casino<br>visa<br>device<br>symbol<br>census<br>bright<br>hotel |  
-| bip_39_word_new_line1 | effort |  
-| bip_39_word_new_line10 | effort
+| bip_39_word_new_br_1 | effort |  
+| bip_39_word_new_br_10 | effort<br>deputy<br>casino<br>visa<br>device<br>symbol<br>census<br>bright<br>hotel<br>surge |  
+| bip_39_word_new_br_11 | effort<br>deputy<br>casino<br>visa<br>device<br>symbol<br>census<br>bright<br>hotel<br>surge<br>nasty |  
+| bip_39_word_new_br_12 | effort<br>deputy<br>casino<br>visa<br>device<br>symbol<br>census<br>bright<br>hotel<br>surge<br>nasty<br>artefact |  
+| bip_39_word_new_br_2 | effort<br>deputy |  
+| bip_39_word_new_br_3 | effort<br>deputy<br>casino |  
+| bip_39_word_new_br_4 | effort<br>deputy<br>casino<br>visa |  
+| bip_39_word_new_br_5 | effort<br>deputy<br>casino<br>visa<br>device |  
+| bip_39_word_new_br_6 | effort<br>deputy<br>casino<br>visa<br>device<br>symbol |  
+| bip_39_word_new_br_7 | effort<br>deputy<br>casino<br>visa<br>device<br>symbol<br>census |  
+| bip_39_word_new_br_8 | effort<br>deputy<br>casino<br>visa<br>device<br>symbol<br>census<br>bright |  
+| bip_39_word_new_br_9 | effort<br>deputy<br>casino<br>visa<br>device<br>symbol<br>census<br>bright<br>hotel |  
+| bip_39_word_new_line_1 | effort |  
+| bip_39_word_new_line_10 | effort
 deputy
 casino
 visa
@@ -55,7 +55,7 @@ census
 bright
 hotel
 surge |  
-| bip_39_word_new_line11 | effort
+| bip_39_word_new_line_11 | effort
 deputy
 casino
 visa
@@ -66,7 +66,7 @@ bright
 hotel
 surge
 nasty |  
-| bip_39_word_new_line12 | effort
+| bip_39_word_new_line_12 | effort
 deputy
 casino
 visa
@@ -78,34 +78,34 @@ hotel
 surge
 nasty
 artefact |  
-| bip_39_word_new_line2 | effort
+| bip_39_word_new_line_2 | effort
 deputy |  
-| bip_39_word_new_line3 | effort
+| bip_39_word_new_line_3 | effort
 deputy
 casino |  
-| bip_39_word_new_line4 | effort
+| bip_39_word_new_line_4 | effort
 deputy
 casino
 visa |  
-| bip_39_word_new_line5 | effort
+| bip_39_word_new_line_5 | effort
 deputy
 casino
 visa
 device |  
-| bip_39_word_new_line6 | effort
+| bip_39_word_new_line_6 | effort
 deputy
 casino
 visa
 device
 symbol |  
-| bip_39_word_new_line7 | effort
+| bip_39_word_new_line_7 | effort
 deputy
 casino
 visa
 device
 symbol
 census |  
-| bip_39_word_new_line8 | effort
+| bip_39_word_new_line_8 | effort
 deputy
 casino
 visa
@@ -113,7 +113,7 @@ device
 symbol
 census
 bright |  
-| bip_39_word_new_line9 | effort
+| bip_39_word_new_line_9 | effort
 deputy
 casino
 visa

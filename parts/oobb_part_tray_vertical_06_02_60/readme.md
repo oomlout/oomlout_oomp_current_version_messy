@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wide |  
-| bip_39_word_new_br10 | wide<br>script<br>axis<br>reveal<br>portion<br>vacuum<br>leave<br>mail<br>exercise<br>provide |  
-| bip_39_word_new_br11 | wide<br>script<br>axis<br>reveal<br>portion<br>vacuum<br>leave<br>mail<br>exercise<br>provide<br>wrestle |  
-| bip_39_word_new_br12 | wide<br>script<br>axis<br>reveal<br>portion<br>vacuum<br>leave<br>mail<br>exercise<br>provide<br>wrestle<br>all |  
-| bip_39_word_new_br2 | wide<br>script |  
-| bip_39_word_new_br3 | wide<br>script<br>axis |  
-| bip_39_word_new_br4 | wide<br>script<br>axis<br>reveal |  
-| bip_39_word_new_br5 | wide<br>script<br>axis<br>reveal<br>portion |  
-| bip_39_word_new_br6 | wide<br>script<br>axis<br>reveal<br>portion<br>vacuum |  
-| bip_39_word_new_br7 | wide<br>script<br>axis<br>reveal<br>portion<br>vacuum<br>leave |  
-| bip_39_word_new_br8 | wide<br>script<br>axis<br>reveal<br>portion<br>vacuum<br>leave<br>mail |  
-| bip_39_word_new_br9 | wide<br>script<br>axis<br>reveal<br>portion<br>vacuum<br>leave<br>mail<br>exercise |  
-| bip_39_word_new_line1 | wide |  
-| bip_39_word_new_line10 | wide
+| bip_39_word_new_br_1 | wide |  
+| bip_39_word_new_br_10 | wide<br>script<br>axis<br>reveal<br>portion<br>vacuum<br>leave<br>mail<br>exercise<br>provide |  
+| bip_39_word_new_br_11 | wide<br>script<br>axis<br>reveal<br>portion<br>vacuum<br>leave<br>mail<br>exercise<br>provide<br>wrestle |  
+| bip_39_word_new_br_12 | wide<br>script<br>axis<br>reveal<br>portion<br>vacuum<br>leave<br>mail<br>exercise<br>provide<br>wrestle<br>all |  
+| bip_39_word_new_br_2 | wide<br>script |  
+| bip_39_word_new_br_3 | wide<br>script<br>axis |  
+| bip_39_word_new_br_4 | wide<br>script<br>axis<br>reveal |  
+| bip_39_word_new_br_5 | wide<br>script<br>axis<br>reveal<br>portion |  
+| bip_39_word_new_br_6 | wide<br>script<br>axis<br>reveal<br>portion<br>vacuum |  
+| bip_39_word_new_br_7 | wide<br>script<br>axis<br>reveal<br>portion<br>vacuum<br>leave |  
+| bip_39_word_new_br_8 | wide<br>script<br>axis<br>reveal<br>portion<br>vacuum<br>leave<br>mail |  
+| bip_39_word_new_br_9 | wide<br>script<br>axis<br>reveal<br>portion<br>vacuum<br>leave<br>mail<br>exercise |  
+| bip_39_word_new_line_1 | wide |  
+| bip_39_word_new_line_10 | wide
 script
 axis
 reveal
@@ -55,7 +55,7 @@ leave
 mail
 exercise
 provide |  
-| bip_39_word_new_line11 | wide
+| bip_39_word_new_line_11 | wide
 script
 axis
 reveal
@@ -66,7 +66,7 @@ mail
 exercise
 provide
 wrestle |  
-| bip_39_word_new_line12 | wide
+| bip_39_word_new_line_12 | wide
 script
 axis
 reveal
@@ -78,34 +78,34 @@ exercise
 provide
 wrestle
 all |  
-| bip_39_word_new_line2 | wide
+| bip_39_word_new_line_2 | wide
 script |  
-| bip_39_word_new_line3 | wide
+| bip_39_word_new_line_3 | wide
 script
 axis |  
-| bip_39_word_new_line4 | wide
+| bip_39_word_new_line_4 | wide
 script
 axis
 reveal |  
-| bip_39_word_new_line5 | wide
+| bip_39_word_new_line_5 | wide
 script
 axis
 reveal
 portion |  
-| bip_39_word_new_line6 | wide
+| bip_39_word_new_line_6 | wide
 script
 axis
 reveal
 portion
 vacuum |  
-| bip_39_word_new_line7 | wide
+| bip_39_word_new_line_7 | wide
 script
 axis
 reveal
 portion
 vacuum
 leave |  
-| bip_39_word_new_line8 | wide
+| bip_39_word_new_line_8 | wide
 script
 axis
 reveal
@@ -113,7 +113,7 @@ portion
 vacuum
 leave
 mail |  
-| bip_39_word_new_line9 | wide
+| bip_39_word_new_line_9 | wide
 script
 axis
 reveal

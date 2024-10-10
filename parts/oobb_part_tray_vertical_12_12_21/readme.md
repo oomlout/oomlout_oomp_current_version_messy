@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | owner |  
-| bip_39_word_new_br10 | owner<br>before<br>task<br>lucky<br>spot<br>gesture<br>deputy<br>text<br>park<br>vault |  
-| bip_39_word_new_br11 | owner<br>before<br>task<br>lucky<br>spot<br>gesture<br>deputy<br>text<br>park<br>vault<br>eagle |  
-| bip_39_word_new_br12 | owner<br>before<br>task<br>lucky<br>spot<br>gesture<br>deputy<br>text<br>park<br>vault<br>eagle<br>arch |  
-| bip_39_word_new_br2 | owner<br>before |  
-| bip_39_word_new_br3 | owner<br>before<br>task |  
-| bip_39_word_new_br4 | owner<br>before<br>task<br>lucky |  
-| bip_39_word_new_br5 | owner<br>before<br>task<br>lucky<br>spot |  
-| bip_39_word_new_br6 | owner<br>before<br>task<br>lucky<br>spot<br>gesture |  
-| bip_39_word_new_br7 | owner<br>before<br>task<br>lucky<br>spot<br>gesture<br>deputy |  
-| bip_39_word_new_br8 | owner<br>before<br>task<br>lucky<br>spot<br>gesture<br>deputy<br>text |  
-| bip_39_word_new_br9 | owner<br>before<br>task<br>lucky<br>spot<br>gesture<br>deputy<br>text<br>park |  
-| bip_39_word_new_line1 | owner |  
-| bip_39_word_new_line10 | owner
+| bip_39_word_new_br_1 | owner |  
+| bip_39_word_new_br_10 | owner<br>before<br>task<br>lucky<br>spot<br>gesture<br>deputy<br>text<br>park<br>vault |  
+| bip_39_word_new_br_11 | owner<br>before<br>task<br>lucky<br>spot<br>gesture<br>deputy<br>text<br>park<br>vault<br>eagle |  
+| bip_39_word_new_br_12 | owner<br>before<br>task<br>lucky<br>spot<br>gesture<br>deputy<br>text<br>park<br>vault<br>eagle<br>arch |  
+| bip_39_word_new_br_2 | owner<br>before |  
+| bip_39_word_new_br_3 | owner<br>before<br>task |  
+| bip_39_word_new_br_4 | owner<br>before<br>task<br>lucky |  
+| bip_39_word_new_br_5 | owner<br>before<br>task<br>lucky<br>spot |  
+| bip_39_word_new_br_6 | owner<br>before<br>task<br>lucky<br>spot<br>gesture |  
+| bip_39_word_new_br_7 | owner<br>before<br>task<br>lucky<br>spot<br>gesture<br>deputy |  
+| bip_39_word_new_br_8 | owner<br>before<br>task<br>lucky<br>spot<br>gesture<br>deputy<br>text |  
+| bip_39_word_new_br_9 | owner<br>before<br>task<br>lucky<br>spot<br>gesture<br>deputy<br>text<br>park |  
+| bip_39_word_new_line_1 | owner |  
+| bip_39_word_new_line_10 | owner
 before
 task
 lucky
@@ -55,7 +55,7 @@ deputy
 text
 park
 vault |  
-| bip_39_word_new_line11 | owner
+| bip_39_word_new_line_11 | owner
 before
 task
 lucky
@@ -66,7 +66,7 @@ text
 park
 vault
 eagle |  
-| bip_39_word_new_line12 | owner
+| bip_39_word_new_line_12 | owner
 before
 task
 lucky
@@ -78,34 +78,34 @@ park
 vault
 eagle
 arch |  
-| bip_39_word_new_line2 | owner
+| bip_39_word_new_line_2 | owner
 before |  
-| bip_39_word_new_line3 | owner
+| bip_39_word_new_line_3 | owner
 before
 task |  
-| bip_39_word_new_line4 | owner
+| bip_39_word_new_line_4 | owner
 before
 task
 lucky |  
-| bip_39_word_new_line5 | owner
+| bip_39_word_new_line_5 | owner
 before
 task
 lucky
 spot |  
-| bip_39_word_new_line6 | owner
+| bip_39_word_new_line_6 | owner
 before
 task
 lucky
 spot
 gesture |  
-| bip_39_word_new_line7 | owner
+| bip_39_word_new_line_7 | owner
 before
 task
 lucky
 spot
 gesture
 deputy |  
-| bip_39_word_new_line8 | owner
+| bip_39_word_new_line_8 | owner
 before
 task
 lucky
@@ -113,7 +113,7 @@ spot
 gesture
 deputy
 text |  
-| bip_39_word_new_line9 | owner
+| bip_39_word_new_line_9 | owner
 before
 task
 lucky

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | oppose |  
-| bip_39_word_new_br10 | oppose<br>own<br>mandate<br>night<br>beach<br>stay<br>deal<br>since<br>vacuum<br>bird |  
-| bip_39_word_new_br11 | oppose<br>own<br>mandate<br>night<br>beach<br>stay<br>deal<br>since<br>vacuum<br>bird<br>code |  
-| bip_39_word_new_br12 | oppose<br>own<br>mandate<br>night<br>beach<br>stay<br>deal<br>since<br>vacuum<br>bird<br>code<br>alarm |  
-| bip_39_word_new_br2 | oppose<br>own |  
-| bip_39_word_new_br3 | oppose<br>own<br>mandate |  
-| bip_39_word_new_br4 | oppose<br>own<br>mandate<br>night |  
-| bip_39_word_new_br5 | oppose<br>own<br>mandate<br>night<br>beach |  
-| bip_39_word_new_br6 | oppose<br>own<br>mandate<br>night<br>beach<br>stay |  
-| bip_39_word_new_br7 | oppose<br>own<br>mandate<br>night<br>beach<br>stay<br>deal |  
-| bip_39_word_new_br8 | oppose<br>own<br>mandate<br>night<br>beach<br>stay<br>deal<br>since |  
-| bip_39_word_new_br9 | oppose<br>own<br>mandate<br>night<br>beach<br>stay<br>deal<br>since<br>vacuum |  
-| bip_39_word_new_line1 | oppose |  
-| bip_39_word_new_line10 | oppose
+| bip_39_word_new_br_1 | oppose |  
+| bip_39_word_new_br_10 | oppose<br>own<br>mandate<br>night<br>beach<br>stay<br>deal<br>since<br>vacuum<br>bird |  
+| bip_39_word_new_br_11 | oppose<br>own<br>mandate<br>night<br>beach<br>stay<br>deal<br>since<br>vacuum<br>bird<br>code |  
+| bip_39_word_new_br_12 | oppose<br>own<br>mandate<br>night<br>beach<br>stay<br>deal<br>since<br>vacuum<br>bird<br>code<br>alarm |  
+| bip_39_word_new_br_2 | oppose<br>own |  
+| bip_39_word_new_br_3 | oppose<br>own<br>mandate |  
+| bip_39_word_new_br_4 | oppose<br>own<br>mandate<br>night |  
+| bip_39_word_new_br_5 | oppose<br>own<br>mandate<br>night<br>beach |  
+| bip_39_word_new_br_6 | oppose<br>own<br>mandate<br>night<br>beach<br>stay |  
+| bip_39_word_new_br_7 | oppose<br>own<br>mandate<br>night<br>beach<br>stay<br>deal |  
+| bip_39_word_new_br_8 | oppose<br>own<br>mandate<br>night<br>beach<br>stay<br>deal<br>since |  
+| bip_39_word_new_br_9 | oppose<br>own<br>mandate<br>night<br>beach<br>stay<br>deal<br>since<br>vacuum |  
+| bip_39_word_new_line_1 | oppose |  
+| bip_39_word_new_line_10 | oppose
 own
 mandate
 night
@@ -55,7 +55,7 @@ deal
 since
 vacuum
 bird |  
-| bip_39_word_new_line11 | oppose
+| bip_39_word_new_line_11 | oppose
 own
 mandate
 night
@@ -66,7 +66,7 @@ since
 vacuum
 bird
 code |  
-| bip_39_word_new_line12 | oppose
+| bip_39_word_new_line_12 | oppose
 own
 mandate
 night
@@ -78,34 +78,34 @@ vacuum
 bird
 code
 alarm |  
-| bip_39_word_new_line2 | oppose
+| bip_39_word_new_line_2 | oppose
 own |  
-| bip_39_word_new_line3 | oppose
+| bip_39_word_new_line_3 | oppose
 own
 mandate |  
-| bip_39_word_new_line4 | oppose
+| bip_39_word_new_line_4 | oppose
 own
 mandate
 night |  
-| bip_39_word_new_line5 | oppose
+| bip_39_word_new_line_5 | oppose
 own
 mandate
 night
 beach |  
-| bip_39_word_new_line6 | oppose
+| bip_39_word_new_line_6 | oppose
 own
 mandate
 night
 beach
 stay |  
-| bip_39_word_new_line7 | oppose
+| bip_39_word_new_line_7 | oppose
 own
 mandate
 night
 beach
 stay
 deal |  
-| bip_39_word_new_line8 | oppose
+| bip_39_word_new_line_8 | oppose
 own
 mandate
 night
@@ -113,7 +113,7 @@ beach
 stay
 deal
 since |  
-| bip_39_word_new_line9 | oppose
+| bip_39_word_new_line_9 | oppose
 own
 mandate
 night

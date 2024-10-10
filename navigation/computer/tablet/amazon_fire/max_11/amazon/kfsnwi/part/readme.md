@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | turkey |  
-| bip_39_word_new_br10 | turkey<br>endorse<br>myth<br>uncle<br>stadium<br>resist<br>sell<br>now<br>differ<br>antique |  
-| bip_39_word_new_br11 | turkey<br>endorse<br>myth<br>uncle<br>stadium<br>resist<br>sell<br>now<br>differ<br>antique<br>coach |  
-| bip_39_word_new_br12 | turkey<br>endorse<br>myth<br>uncle<br>stadium<br>resist<br>sell<br>now<br>differ<br>antique<br>coach<br>advice |  
-| bip_39_word_new_br2 | turkey<br>endorse |  
-| bip_39_word_new_br3 | turkey<br>endorse<br>myth |  
-| bip_39_word_new_br4 | turkey<br>endorse<br>myth<br>uncle |  
-| bip_39_word_new_br5 | turkey<br>endorse<br>myth<br>uncle<br>stadium |  
-| bip_39_word_new_br6 | turkey<br>endorse<br>myth<br>uncle<br>stadium<br>resist |  
-| bip_39_word_new_br7 | turkey<br>endorse<br>myth<br>uncle<br>stadium<br>resist<br>sell |  
-| bip_39_word_new_br8 | turkey<br>endorse<br>myth<br>uncle<br>stadium<br>resist<br>sell<br>now |  
-| bip_39_word_new_br9 | turkey<br>endorse<br>myth<br>uncle<br>stadium<br>resist<br>sell<br>now<br>differ |  
-| bip_39_word_new_line1 | turkey |  
-| bip_39_word_new_line10 | turkey
+| bip_39_word_new_br_1 | turkey |  
+| bip_39_word_new_br_10 | turkey<br>endorse<br>myth<br>uncle<br>stadium<br>resist<br>sell<br>now<br>differ<br>antique |  
+| bip_39_word_new_br_11 | turkey<br>endorse<br>myth<br>uncle<br>stadium<br>resist<br>sell<br>now<br>differ<br>antique<br>coach |  
+| bip_39_word_new_br_12 | turkey<br>endorse<br>myth<br>uncle<br>stadium<br>resist<br>sell<br>now<br>differ<br>antique<br>coach<br>advice |  
+| bip_39_word_new_br_2 | turkey<br>endorse |  
+| bip_39_word_new_br_3 | turkey<br>endorse<br>myth |  
+| bip_39_word_new_br_4 | turkey<br>endorse<br>myth<br>uncle |  
+| bip_39_word_new_br_5 | turkey<br>endorse<br>myth<br>uncle<br>stadium |  
+| bip_39_word_new_br_6 | turkey<br>endorse<br>myth<br>uncle<br>stadium<br>resist |  
+| bip_39_word_new_br_7 | turkey<br>endorse<br>myth<br>uncle<br>stadium<br>resist<br>sell |  
+| bip_39_word_new_br_8 | turkey<br>endorse<br>myth<br>uncle<br>stadium<br>resist<br>sell<br>now |  
+| bip_39_word_new_br_9 | turkey<br>endorse<br>myth<br>uncle<br>stadium<br>resist<br>sell<br>now<br>differ |  
+| bip_39_word_new_line_1 | turkey |  
+| bip_39_word_new_line_10 | turkey
 endorse
 myth
 uncle
@@ -55,7 +55,7 @@ sell
 now
 differ
 antique |  
-| bip_39_word_new_line11 | turkey
+| bip_39_word_new_line_11 | turkey
 endorse
 myth
 uncle
@@ -66,7 +66,7 @@ now
 differ
 antique
 coach |  
-| bip_39_word_new_line12 | turkey
+| bip_39_word_new_line_12 | turkey
 endorse
 myth
 uncle
@@ -78,34 +78,34 @@ differ
 antique
 coach
 advice |  
-| bip_39_word_new_line2 | turkey
+| bip_39_word_new_line_2 | turkey
 endorse |  
-| bip_39_word_new_line3 | turkey
+| bip_39_word_new_line_3 | turkey
 endorse
 myth |  
-| bip_39_word_new_line4 | turkey
+| bip_39_word_new_line_4 | turkey
 endorse
 myth
 uncle |  
-| bip_39_word_new_line5 | turkey
+| bip_39_word_new_line_5 | turkey
 endorse
 myth
 uncle
 stadium |  
-| bip_39_word_new_line6 | turkey
+| bip_39_word_new_line_6 | turkey
 endorse
 myth
 uncle
 stadium
 resist |  
-| bip_39_word_new_line7 | turkey
+| bip_39_word_new_line_7 | turkey
 endorse
 myth
 uncle
 stadium
 resist
 sell |  
-| bip_39_word_new_line8 | turkey
+| bip_39_word_new_line_8 | turkey
 endorse
 myth
 uncle
@@ -113,7 +113,7 @@ stadium
 resist
 sell
 now |  
-| bip_39_word_new_line9 | turkey
+| bip_39_word_new_line_9 | turkey
 endorse
 myth
 uncle

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | all |  
-| bip_39_word_new_br10 | all<br>never<br>quick<br>start<br>hard<br>orphan<br>dignity<br>label<br>fitness<br>purpose |  
-| bip_39_word_new_br11 | all<br>never<br>quick<br>start<br>hard<br>orphan<br>dignity<br>label<br>fitness<br>purpose<br>jewel |  
-| bip_39_word_new_br12 | all<br>never<br>quick<br>start<br>hard<br>orphan<br>dignity<br>label<br>fitness<br>purpose<br>jewel<br>amount |  
-| bip_39_word_new_br2 | all<br>never |  
-| bip_39_word_new_br3 | all<br>never<br>quick |  
-| bip_39_word_new_br4 | all<br>never<br>quick<br>start |  
-| bip_39_word_new_br5 | all<br>never<br>quick<br>start<br>hard |  
-| bip_39_word_new_br6 | all<br>never<br>quick<br>start<br>hard<br>orphan |  
-| bip_39_word_new_br7 | all<br>never<br>quick<br>start<br>hard<br>orphan<br>dignity |  
-| bip_39_word_new_br8 | all<br>never<br>quick<br>start<br>hard<br>orphan<br>dignity<br>label |  
-| bip_39_word_new_br9 | all<br>never<br>quick<br>start<br>hard<br>orphan<br>dignity<br>label<br>fitness |  
-| bip_39_word_new_line1 | all |  
-| bip_39_word_new_line10 | all
+| bip_39_word_new_br_1 | all |  
+| bip_39_word_new_br_10 | all<br>never<br>quick<br>start<br>hard<br>orphan<br>dignity<br>label<br>fitness<br>purpose |  
+| bip_39_word_new_br_11 | all<br>never<br>quick<br>start<br>hard<br>orphan<br>dignity<br>label<br>fitness<br>purpose<br>jewel |  
+| bip_39_word_new_br_12 | all<br>never<br>quick<br>start<br>hard<br>orphan<br>dignity<br>label<br>fitness<br>purpose<br>jewel<br>amount |  
+| bip_39_word_new_br_2 | all<br>never |  
+| bip_39_word_new_br_3 | all<br>never<br>quick |  
+| bip_39_word_new_br_4 | all<br>never<br>quick<br>start |  
+| bip_39_word_new_br_5 | all<br>never<br>quick<br>start<br>hard |  
+| bip_39_word_new_br_6 | all<br>never<br>quick<br>start<br>hard<br>orphan |  
+| bip_39_word_new_br_7 | all<br>never<br>quick<br>start<br>hard<br>orphan<br>dignity |  
+| bip_39_word_new_br_8 | all<br>never<br>quick<br>start<br>hard<br>orphan<br>dignity<br>label |  
+| bip_39_word_new_br_9 | all<br>never<br>quick<br>start<br>hard<br>orphan<br>dignity<br>label<br>fitness |  
+| bip_39_word_new_line_1 | all |  
+| bip_39_word_new_line_10 | all
 never
 quick
 start
@@ -55,7 +55,7 @@ dignity
 label
 fitness
 purpose |  
-| bip_39_word_new_line11 | all
+| bip_39_word_new_line_11 | all
 never
 quick
 start
@@ -66,7 +66,7 @@ label
 fitness
 purpose
 jewel |  
-| bip_39_word_new_line12 | all
+| bip_39_word_new_line_12 | all
 never
 quick
 start
@@ -78,34 +78,34 @@ fitness
 purpose
 jewel
 amount |  
-| bip_39_word_new_line2 | all
+| bip_39_word_new_line_2 | all
 never |  
-| bip_39_word_new_line3 | all
+| bip_39_word_new_line_3 | all
 never
 quick |  
-| bip_39_word_new_line4 | all
+| bip_39_word_new_line_4 | all
 never
 quick
 start |  
-| bip_39_word_new_line5 | all
+| bip_39_word_new_line_5 | all
 never
 quick
 start
 hard |  
-| bip_39_word_new_line6 | all
+| bip_39_word_new_line_6 | all
 never
 quick
 start
 hard
 orphan |  
-| bip_39_word_new_line7 | all
+| bip_39_word_new_line_7 | all
 never
 quick
 start
 hard
 orphan
 dignity |  
-| bip_39_word_new_line8 | all
+| bip_39_word_new_line_8 | all
 never
 quick
 start
@@ -113,7 +113,7 @@ hard
 orphan
 dignity
 label |  
-| bip_39_word_new_line9 | all
+| bip_39_word_new_line_9 | all
 never
 quick
 start

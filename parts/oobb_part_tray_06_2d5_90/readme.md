@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | amount |  
-| bip_39_word_new_br10 | amount<br>receive<br>fun<br>review<br>confirm<br>magic<br>soldier<br>text<br>note<br>melody |  
-| bip_39_word_new_br11 | amount<br>receive<br>fun<br>review<br>confirm<br>magic<br>soldier<br>text<br>note<br>melody<br>mansion |  
-| bip_39_word_new_br12 | amount<br>receive<br>fun<br>review<br>confirm<br>magic<br>soldier<br>text<br>note<br>melody<br>mansion<br>antique |  
-| bip_39_word_new_br2 | amount<br>receive |  
-| bip_39_word_new_br3 | amount<br>receive<br>fun |  
-| bip_39_word_new_br4 | amount<br>receive<br>fun<br>review |  
-| bip_39_word_new_br5 | amount<br>receive<br>fun<br>review<br>confirm |  
-| bip_39_word_new_br6 | amount<br>receive<br>fun<br>review<br>confirm<br>magic |  
-| bip_39_word_new_br7 | amount<br>receive<br>fun<br>review<br>confirm<br>magic<br>soldier |  
-| bip_39_word_new_br8 | amount<br>receive<br>fun<br>review<br>confirm<br>magic<br>soldier<br>text |  
-| bip_39_word_new_br9 | amount<br>receive<br>fun<br>review<br>confirm<br>magic<br>soldier<br>text<br>note |  
-| bip_39_word_new_line1 | amount |  
-| bip_39_word_new_line10 | amount
+| bip_39_word_new_br_1 | amount |  
+| bip_39_word_new_br_10 | amount<br>receive<br>fun<br>review<br>confirm<br>magic<br>soldier<br>text<br>note<br>melody |  
+| bip_39_word_new_br_11 | amount<br>receive<br>fun<br>review<br>confirm<br>magic<br>soldier<br>text<br>note<br>melody<br>mansion |  
+| bip_39_word_new_br_12 | amount<br>receive<br>fun<br>review<br>confirm<br>magic<br>soldier<br>text<br>note<br>melody<br>mansion<br>antique |  
+| bip_39_word_new_br_2 | amount<br>receive |  
+| bip_39_word_new_br_3 | amount<br>receive<br>fun |  
+| bip_39_word_new_br_4 | amount<br>receive<br>fun<br>review |  
+| bip_39_word_new_br_5 | amount<br>receive<br>fun<br>review<br>confirm |  
+| bip_39_word_new_br_6 | amount<br>receive<br>fun<br>review<br>confirm<br>magic |  
+| bip_39_word_new_br_7 | amount<br>receive<br>fun<br>review<br>confirm<br>magic<br>soldier |  
+| bip_39_word_new_br_8 | amount<br>receive<br>fun<br>review<br>confirm<br>magic<br>soldier<br>text |  
+| bip_39_word_new_br_9 | amount<br>receive<br>fun<br>review<br>confirm<br>magic<br>soldier<br>text<br>note |  
+| bip_39_word_new_line_1 | amount |  
+| bip_39_word_new_line_10 | amount
 receive
 fun
 review
@@ -55,7 +55,7 @@ soldier
 text
 note
 melody |  
-| bip_39_word_new_line11 | amount
+| bip_39_word_new_line_11 | amount
 receive
 fun
 review
@@ -66,7 +66,7 @@ text
 note
 melody
 mansion |  
-| bip_39_word_new_line12 | amount
+| bip_39_word_new_line_12 | amount
 receive
 fun
 review
@@ -78,34 +78,34 @@ note
 melody
 mansion
 antique |  
-| bip_39_word_new_line2 | amount
+| bip_39_word_new_line_2 | amount
 receive |  
-| bip_39_word_new_line3 | amount
+| bip_39_word_new_line_3 | amount
 receive
 fun |  
-| bip_39_word_new_line4 | amount
+| bip_39_word_new_line_4 | amount
 receive
 fun
 review |  
-| bip_39_word_new_line5 | amount
+| bip_39_word_new_line_5 | amount
 receive
 fun
 review
 confirm |  
-| bip_39_word_new_line6 | amount
+| bip_39_word_new_line_6 | amount
 receive
 fun
 review
 confirm
 magic |  
-| bip_39_word_new_line7 | amount
+| bip_39_word_new_line_7 | amount
 receive
 fun
 review
 confirm
 magic
 soldier |  
-| bip_39_word_new_line8 | amount
+| bip_39_word_new_line_8 | amount
 receive
 fun
 review
@@ -113,7 +113,7 @@ confirm
 magic
 soldier
 text |  
-| bip_39_word_new_line9 | amount
+| bip_39_word_new_line_9 | amount
 receive
 fun
 review

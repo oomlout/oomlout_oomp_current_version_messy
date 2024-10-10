@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | speed |  
-| bip_39_word_new_br10 | speed<br>intact<br>knock<br>blossom<br>actress<br>join<br>safe<br>endless<br>color<br>thumb |  
-| bip_39_word_new_br11 | speed<br>intact<br>knock<br>blossom<br>actress<br>join<br>safe<br>endless<br>color<br>thumb<br>lunch |  
-| bip_39_word_new_br12 | speed<br>intact<br>knock<br>blossom<br>actress<br>join<br>safe<br>endless<br>color<br>thumb<br>lunch<br>ankle |  
-| bip_39_word_new_br2 | speed<br>intact |  
-| bip_39_word_new_br3 | speed<br>intact<br>knock |  
-| bip_39_word_new_br4 | speed<br>intact<br>knock<br>blossom |  
-| bip_39_word_new_br5 | speed<br>intact<br>knock<br>blossom<br>actress |  
-| bip_39_word_new_br6 | speed<br>intact<br>knock<br>blossom<br>actress<br>join |  
-| bip_39_word_new_br7 | speed<br>intact<br>knock<br>blossom<br>actress<br>join<br>safe |  
-| bip_39_word_new_br8 | speed<br>intact<br>knock<br>blossom<br>actress<br>join<br>safe<br>endless |  
-| bip_39_word_new_br9 | speed<br>intact<br>knock<br>blossom<br>actress<br>join<br>safe<br>endless<br>color |  
-| bip_39_word_new_line1 | speed |  
-| bip_39_word_new_line10 | speed
+| bip_39_word_new_br_1 | speed |  
+| bip_39_word_new_br_10 | speed<br>intact<br>knock<br>blossom<br>actress<br>join<br>safe<br>endless<br>color<br>thumb |  
+| bip_39_word_new_br_11 | speed<br>intact<br>knock<br>blossom<br>actress<br>join<br>safe<br>endless<br>color<br>thumb<br>lunch |  
+| bip_39_word_new_br_12 | speed<br>intact<br>knock<br>blossom<br>actress<br>join<br>safe<br>endless<br>color<br>thumb<br>lunch<br>ankle |  
+| bip_39_word_new_br_2 | speed<br>intact |  
+| bip_39_word_new_br_3 | speed<br>intact<br>knock |  
+| bip_39_word_new_br_4 | speed<br>intact<br>knock<br>blossom |  
+| bip_39_word_new_br_5 | speed<br>intact<br>knock<br>blossom<br>actress |  
+| bip_39_word_new_br_6 | speed<br>intact<br>knock<br>blossom<br>actress<br>join |  
+| bip_39_word_new_br_7 | speed<br>intact<br>knock<br>blossom<br>actress<br>join<br>safe |  
+| bip_39_word_new_br_8 | speed<br>intact<br>knock<br>blossom<br>actress<br>join<br>safe<br>endless |  
+| bip_39_word_new_br_9 | speed<br>intact<br>knock<br>blossom<br>actress<br>join<br>safe<br>endless<br>color |  
+| bip_39_word_new_line_1 | speed |  
+| bip_39_word_new_line_10 | speed
 intact
 knock
 blossom
@@ -55,7 +55,7 @@ safe
 endless
 color
 thumb |  
-| bip_39_word_new_line11 | speed
+| bip_39_word_new_line_11 | speed
 intact
 knock
 blossom
@@ -66,7 +66,7 @@ endless
 color
 thumb
 lunch |  
-| bip_39_word_new_line12 | speed
+| bip_39_word_new_line_12 | speed
 intact
 knock
 blossom
@@ -78,34 +78,34 @@ color
 thumb
 lunch
 ankle |  
-| bip_39_word_new_line2 | speed
+| bip_39_word_new_line_2 | speed
 intact |  
-| bip_39_word_new_line3 | speed
+| bip_39_word_new_line_3 | speed
 intact
 knock |  
-| bip_39_word_new_line4 | speed
+| bip_39_word_new_line_4 | speed
 intact
 knock
 blossom |  
-| bip_39_word_new_line5 | speed
+| bip_39_word_new_line_5 | speed
 intact
 knock
 blossom
 actress |  
-| bip_39_word_new_line6 | speed
+| bip_39_word_new_line_6 | speed
 intact
 knock
 blossom
 actress
 join |  
-| bip_39_word_new_line7 | speed
+| bip_39_word_new_line_7 | speed
 intact
 knock
 blossom
 actress
 join
 safe |  
-| bip_39_word_new_line8 | speed
+| bip_39_word_new_line_8 | speed
 intact
 knock
 blossom
@@ -113,7 +113,7 @@ actress
 join
 safe
 endless |  
-| bip_39_word_new_line9 | speed
+| bip_39_word_new_line_9 | speed
 intact
 knock
 blossom

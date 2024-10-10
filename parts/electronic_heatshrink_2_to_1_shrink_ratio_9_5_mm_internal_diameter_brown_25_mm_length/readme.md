@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | intact |  
-| bip_39_word_new_br10 | intact<br>wife<br>useless<br>gaze<br>security<br>method<br>volcano<br>action<br>chat<br>mistake |  
-| bip_39_word_new_br11 | intact<br>wife<br>useless<br>gaze<br>security<br>method<br>volcano<br>action<br>chat<br>mistake<br>century |  
-| bip_39_word_new_br12 | intact<br>wife<br>useless<br>gaze<br>security<br>method<br>volcano<br>action<br>chat<br>mistake<br>century<br>airport |  
-| bip_39_word_new_br2 | intact<br>wife |  
-| bip_39_word_new_br3 | intact<br>wife<br>useless |  
-| bip_39_word_new_br4 | intact<br>wife<br>useless<br>gaze |  
-| bip_39_word_new_br5 | intact<br>wife<br>useless<br>gaze<br>security |  
-| bip_39_word_new_br6 | intact<br>wife<br>useless<br>gaze<br>security<br>method |  
-| bip_39_word_new_br7 | intact<br>wife<br>useless<br>gaze<br>security<br>method<br>volcano |  
-| bip_39_word_new_br8 | intact<br>wife<br>useless<br>gaze<br>security<br>method<br>volcano<br>action |  
-| bip_39_word_new_br9 | intact<br>wife<br>useless<br>gaze<br>security<br>method<br>volcano<br>action<br>chat |  
-| bip_39_word_new_line1 | intact |  
-| bip_39_word_new_line10 | intact
+| bip_39_word_new_br_1 | intact |  
+| bip_39_word_new_br_10 | intact<br>wife<br>useless<br>gaze<br>security<br>method<br>volcano<br>action<br>chat<br>mistake |  
+| bip_39_word_new_br_11 | intact<br>wife<br>useless<br>gaze<br>security<br>method<br>volcano<br>action<br>chat<br>mistake<br>century |  
+| bip_39_word_new_br_12 | intact<br>wife<br>useless<br>gaze<br>security<br>method<br>volcano<br>action<br>chat<br>mistake<br>century<br>airport |  
+| bip_39_word_new_br_2 | intact<br>wife |  
+| bip_39_word_new_br_3 | intact<br>wife<br>useless |  
+| bip_39_word_new_br_4 | intact<br>wife<br>useless<br>gaze |  
+| bip_39_word_new_br_5 | intact<br>wife<br>useless<br>gaze<br>security |  
+| bip_39_word_new_br_6 | intact<br>wife<br>useless<br>gaze<br>security<br>method |  
+| bip_39_word_new_br_7 | intact<br>wife<br>useless<br>gaze<br>security<br>method<br>volcano |  
+| bip_39_word_new_br_8 | intact<br>wife<br>useless<br>gaze<br>security<br>method<br>volcano<br>action |  
+| bip_39_word_new_br_9 | intact<br>wife<br>useless<br>gaze<br>security<br>method<br>volcano<br>action<br>chat |  
+| bip_39_word_new_line_1 | intact |  
+| bip_39_word_new_line_10 | intact
 wife
 useless
 gaze
@@ -55,7 +55,7 @@ volcano
 action
 chat
 mistake |  
-| bip_39_word_new_line11 | intact
+| bip_39_word_new_line_11 | intact
 wife
 useless
 gaze
@@ -66,7 +66,7 @@ action
 chat
 mistake
 century |  
-| bip_39_word_new_line12 | intact
+| bip_39_word_new_line_12 | intact
 wife
 useless
 gaze
@@ -78,34 +78,34 @@ chat
 mistake
 century
 airport |  
-| bip_39_word_new_line2 | intact
+| bip_39_word_new_line_2 | intact
 wife |  
-| bip_39_word_new_line3 | intact
+| bip_39_word_new_line_3 | intact
 wife
 useless |  
-| bip_39_word_new_line4 | intact
+| bip_39_word_new_line_4 | intact
 wife
 useless
 gaze |  
-| bip_39_word_new_line5 | intact
+| bip_39_word_new_line_5 | intact
 wife
 useless
 gaze
 security |  
-| bip_39_word_new_line6 | intact
+| bip_39_word_new_line_6 | intact
 wife
 useless
 gaze
 security
 method |  
-| bip_39_word_new_line7 | intact
+| bip_39_word_new_line_7 | intact
 wife
 useless
 gaze
 security
 method
 volcano |  
-| bip_39_word_new_line8 | intact
+| bip_39_word_new_line_8 | intact
 wife
 useless
 gaze
@@ -113,7 +113,7 @@ security
 method
 volcano
 action |  
-| bip_39_word_new_line9 | intact
+| bip_39_word_new_line_9 | intact
 wife
 useless
 gaze

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | edge |  
-| bip_39_word_new_br10 | edge<br>icon<br>monster<br>bargain<br>liberty<br>distance<br>crane<br>major<br>lava<br>sun |  
-| bip_39_word_new_br11 | edge<br>icon<br>monster<br>bargain<br>liberty<br>distance<br>crane<br>major<br>lava<br>sun<br>retreat |  
-| bip_39_word_new_br12 | edge<br>icon<br>monster<br>bargain<br>liberty<br>distance<br>crane<br>major<br>lava<br>sun<br>retreat<br>attack |  
-| bip_39_word_new_br2 | edge<br>icon |  
-| bip_39_word_new_br3 | edge<br>icon<br>monster |  
-| bip_39_word_new_br4 | edge<br>icon<br>monster<br>bargain |  
-| bip_39_word_new_br5 | edge<br>icon<br>monster<br>bargain<br>liberty |  
-| bip_39_word_new_br6 | edge<br>icon<br>monster<br>bargain<br>liberty<br>distance |  
-| bip_39_word_new_br7 | edge<br>icon<br>monster<br>bargain<br>liberty<br>distance<br>crane |  
-| bip_39_word_new_br8 | edge<br>icon<br>monster<br>bargain<br>liberty<br>distance<br>crane<br>major |  
-| bip_39_word_new_br9 | edge<br>icon<br>monster<br>bargain<br>liberty<br>distance<br>crane<br>major<br>lava |  
-| bip_39_word_new_line1 | edge |  
-| bip_39_word_new_line10 | edge
+| bip_39_word_new_br_1 | edge |  
+| bip_39_word_new_br_10 | edge<br>icon<br>monster<br>bargain<br>liberty<br>distance<br>crane<br>major<br>lava<br>sun |  
+| bip_39_word_new_br_11 | edge<br>icon<br>monster<br>bargain<br>liberty<br>distance<br>crane<br>major<br>lava<br>sun<br>retreat |  
+| bip_39_word_new_br_12 | edge<br>icon<br>monster<br>bargain<br>liberty<br>distance<br>crane<br>major<br>lava<br>sun<br>retreat<br>attack |  
+| bip_39_word_new_br_2 | edge<br>icon |  
+| bip_39_word_new_br_3 | edge<br>icon<br>monster |  
+| bip_39_word_new_br_4 | edge<br>icon<br>monster<br>bargain |  
+| bip_39_word_new_br_5 | edge<br>icon<br>monster<br>bargain<br>liberty |  
+| bip_39_word_new_br_6 | edge<br>icon<br>monster<br>bargain<br>liberty<br>distance |  
+| bip_39_word_new_br_7 | edge<br>icon<br>monster<br>bargain<br>liberty<br>distance<br>crane |  
+| bip_39_word_new_br_8 | edge<br>icon<br>monster<br>bargain<br>liberty<br>distance<br>crane<br>major |  
+| bip_39_word_new_br_9 | edge<br>icon<br>monster<br>bargain<br>liberty<br>distance<br>crane<br>major<br>lava |  
+| bip_39_word_new_line_1 | edge |  
+| bip_39_word_new_line_10 | edge
 icon
 monster
 bargain
@@ -55,7 +55,7 @@ crane
 major
 lava
 sun |  
-| bip_39_word_new_line11 | edge
+| bip_39_word_new_line_11 | edge
 icon
 monster
 bargain
@@ -66,7 +66,7 @@ major
 lava
 sun
 retreat |  
-| bip_39_word_new_line12 | edge
+| bip_39_word_new_line_12 | edge
 icon
 monster
 bargain
@@ -78,34 +78,34 @@ lava
 sun
 retreat
 attack |  
-| bip_39_word_new_line2 | edge
+| bip_39_word_new_line_2 | edge
 icon |  
-| bip_39_word_new_line3 | edge
+| bip_39_word_new_line_3 | edge
 icon
 monster |  
-| bip_39_word_new_line4 | edge
+| bip_39_word_new_line_4 | edge
 icon
 monster
 bargain |  
-| bip_39_word_new_line5 | edge
+| bip_39_word_new_line_5 | edge
 icon
 monster
 bargain
 liberty |  
-| bip_39_word_new_line6 | edge
+| bip_39_word_new_line_6 | edge
 icon
 monster
 bargain
 liberty
 distance |  
-| bip_39_word_new_line7 | edge
+| bip_39_word_new_line_7 | edge
 icon
 monster
 bargain
 liberty
 distance
 crane |  
-| bip_39_word_new_line8 | edge
+| bip_39_word_new_line_8 | edge
 icon
 monster
 bargain
@@ -113,7 +113,7 @@ liberty
 distance
 crane
 major |  
-| bip_39_word_new_line9 | edge
+| bip_39_word_new_line_9 | edge
 icon
 monster
 bargain

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | either |  
-| bip_39_word_new_br10 | either<br>sleep<br>mountain<br>train<br>sentence<br>approve<br>burst<br>husband<br>brain<br>sustain |  
-| bip_39_word_new_br11 | either<br>sleep<br>mountain<br>train<br>sentence<br>approve<br>burst<br>husband<br>brain<br>sustain<br>harbor |  
-| bip_39_word_new_br12 | either<br>sleep<br>mountain<br>train<br>sentence<br>approve<br>burst<br>husband<br>brain<br>sustain<br>harbor<br>aim |  
-| bip_39_word_new_br2 | either<br>sleep |  
-| bip_39_word_new_br3 | either<br>sleep<br>mountain |  
-| bip_39_word_new_br4 | either<br>sleep<br>mountain<br>train |  
-| bip_39_word_new_br5 | either<br>sleep<br>mountain<br>train<br>sentence |  
-| bip_39_word_new_br6 | either<br>sleep<br>mountain<br>train<br>sentence<br>approve |  
-| bip_39_word_new_br7 | either<br>sleep<br>mountain<br>train<br>sentence<br>approve<br>burst |  
-| bip_39_word_new_br8 | either<br>sleep<br>mountain<br>train<br>sentence<br>approve<br>burst<br>husband |  
-| bip_39_word_new_br9 | either<br>sleep<br>mountain<br>train<br>sentence<br>approve<br>burst<br>husband<br>brain |  
-| bip_39_word_new_line1 | either |  
-| bip_39_word_new_line10 | either
+| bip_39_word_new_br_1 | either |  
+| bip_39_word_new_br_10 | either<br>sleep<br>mountain<br>train<br>sentence<br>approve<br>burst<br>husband<br>brain<br>sustain |  
+| bip_39_word_new_br_11 | either<br>sleep<br>mountain<br>train<br>sentence<br>approve<br>burst<br>husband<br>brain<br>sustain<br>harbor |  
+| bip_39_word_new_br_12 | either<br>sleep<br>mountain<br>train<br>sentence<br>approve<br>burst<br>husband<br>brain<br>sustain<br>harbor<br>aim |  
+| bip_39_word_new_br_2 | either<br>sleep |  
+| bip_39_word_new_br_3 | either<br>sleep<br>mountain |  
+| bip_39_word_new_br_4 | either<br>sleep<br>mountain<br>train |  
+| bip_39_word_new_br_5 | either<br>sleep<br>mountain<br>train<br>sentence |  
+| bip_39_word_new_br_6 | either<br>sleep<br>mountain<br>train<br>sentence<br>approve |  
+| bip_39_word_new_br_7 | either<br>sleep<br>mountain<br>train<br>sentence<br>approve<br>burst |  
+| bip_39_word_new_br_8 | either<br>sleep<br>mountain<br>train<br>sentence<br>approve<br>burst<br>husband |  
+| bip_39_word_new_br_9 | either<br>sleep<br>mountain<br>train<br>sentence<br>approve<br>burst<br>husband<br>brain |  
+| bip_39_word_new_line_1 | either |  
+| bip_39_word_new_line_10 | either
 sleep
 mountain
 train
@@ -55,7 +55,7 @@ burst
 husband
 brain
 sustain |  
-| bip_39_word_new_line11 | either
+| bip_39_word_new_line_11 | either
 sleep
 mountain
 train
@@ -66,7 +66,7 @@ husband
 brain
 sustain
 harbor |  
-| bip_39_word_new_line12 | either
+| bip_39_word_new_line_12 | either
 sleep
 mountain
 train
@@ -78,34 +78,34 @@ brain
 sustain
 harbor
 aim |  
-| bip_39_word_new_line2 | either
+| bip_39_word_new_line_2 | either
 sleep |  
-| bip_39_word_new_line3 | either
+| bip_39_word_new_line_3 | either
 sleep
 mountain |  
-| bip_39_word_new_line4 | either
+| bip_39_word_new_line_4 | either
 sleep
 mountain
 train |  
-| bip_39_word_new_line5 | either
+| bip_39_word_new_line_5 | either
 sleep
 mountain
 train
 sentence |  
-| bip_39_word_new_line6 | either
+| bip_39_word_new_line_6 | either
 sleep
 mountain
 train
 sentence
 approve |  
-| bip_39_word_new_line7 | either
+| bip_39_word_new_line_7 | either
 sleep
 mountain
 train
 sentence
 approve
 burst |  
-| bip_39_word_new_line8 | either
+| bip_39_word_new_line_8 | either
 sleep
 mountain
 train
@@ -113,7 +113,7 @@ sentence
 approve
 burst
 husband |  
-| bip_39_word_new_line9 | either
+| bip_39_word_new_line_9 | either
 sleep
 mountain
 train

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pause |  
-| bip_39_word_new_br10 | pause<br>blood<br>smooth<br>practice<br>improve<br>cushion<br>old<br>notice<br>tourist<br>what |  
-| bip_39_word_new_br11 | pause<br>blood<br>smooth<br>practice<br>improve<br>cushion<br>old<br>notice<br>tourist<br>what<br>scout |  
-| bip_39_word_new_br12 | pause<br>blood<br>smooth<br>practice<br>improve<br>cushion<br>old<br>notice<br>tourist<br>what<br>scout<br>arrest |  
-| bip_39_word_new_br2 | pause<br>blood |  
-| bip_39_word_new_br3 | pause<br>blood<br>smooth |  
-| bip_39_word_new_br4 | pause<br>blood<br>smooth<br>practice |  
-| bip_39_word_new_br5 | pause<br>blood<br>smooth<br>practice<br>improve |  
-| bip_39_word_new_br6 | pause<br>blood<br>smooth<br>practice<br>improve<br>cushion |  
-| bip_39_word_new_br7 | pause<br>blood<br>smooth<br>practice<br>improve<br>cushion<br>old |  
-| bip_39_word_new_br8 | pause<br>blood<br>smooth<br>practice<br>improve<br>cushion<br>old<br>notice |  
-| bip_39_word_new_br9 | pause<br>blood<br>smooth<br>practice<br>improve<br>cushion<br>old<br>notice<br>tourist |  
-| bip_39_word_new_line1 | pause |  
-| bip_39_word_new_line10 | pause
+| bip_39_word_new_br_1 | pause |  
+| bip_39_word_new_br_10 | pause<br>blood<br>smooth<br>practice<br>improve<br>cushion<br>old<br>notice<br>tourist<br>what |  
+| bip_39_word_new_br_11 | pause<br>blood<br>smooth<br>practice<br>improve<br>cushion<br>old<br>notice<br>tourist<br>what<br>scout |  
+| bip_39_word_new_br_12 | pause<br>blood<br>smooth<br>practice<br>improve<br>cushion<br>old<br>notice<br>tourist<br>what<br>scout<br>arrest |  
+| bip_39_word_new_br_2 | pause<br>blood |  
+| bip_39_word_new_br_3 | pause<br>blood<br>smooth |  
+| bip_39_word_new_br_4 | pause<br>blood<br>smooth<br>practice |  
+| bip_39_word_new_br_5 | pause<br>blood<br>smooth<br>practice<br>improve |  
+| bip_39_word_new_br_6 | pause<br>blood<br>smooth<br>practice<br>improve<br>cushion |  
+| bip_39_word_new_br_7 | pause<br>blood<br>smooth<br>practice<br>improve<br>cushion<br>old |  
+| bip_39_word_new_br_8 | pause<br>blood<br>smooth<br>practice<br>improve<br>cushion<br>old<br>notice |  
+| bip_39_word_new_br_9 | pause<br>blood<br>smooth<br>practice<br>improve<br>cushion<br>old<br>notice<br>tourist |  
+| bip_39_word_new_line_1 | pause |  
+| bip_39_word_new_line_10 | pause
 blood
 smooth
 practice
@@ -55,7 +55,7 @@ old
 notice
 tourist
 what |  
-| bip_39_word_new_line11 | pause
+| bip_39_word_new_line_11 | pause
 blood
 smooth
 practice
@@ -66,7 +66,7 @@ notice
 tourist
 what
 scout |  
-| bip_39_word_new_line12 | pause
+| bip_39_word_new_line_12 | pause
 blood
 smooth
 practice
@@ -78,34 +78,34 @@ tourist
 what
 scout
 arrest |  
-| bip_39_word_new_line2 | pause
+| bip_39_word_new_line_2 | pause
 blood |  
-| bip_39_word_new_line3 | pause
+| bip_39_word_new_line_3 | pause
 blood
 smooth |  
-| bip_39_word_new_line4 | pause
+| bip_39_word_new_line_4 | pause
 blood
 smooth
 practice |  
-| bip_39_word_new_line5 | pause
+| bip_39_word_new_line_5 | pause
 blood
 smooth
 practice
 improve |  
-| bip_39_word_new_line6 | pause
+| bip_39_word_new_line_6 | pause
 blood
 smooth
 practice
 improve
 cushion |  
-| bip_39_word_new_line7 | pause
+| bip_39_word_new_line_7 | pause
 blood
 smooth
 practice
 improve
 cushion
 old |  
-| bip_39_word_new_line8 | pause
+| bip_39_word_new_line_8 | pause
 blood
 smooth
 practice
@@ -113,7 +113,7 @@ improve
 cushion
 old
 notice |  
-| bip_39_word_new_line9 | pause
+| bip_39_word_new_line_9 | pause
 blood
 smooth
 practice

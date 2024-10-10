@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | silent |  
-| bip_39_word_new_br10 | silent<br>desert<br>receive<br>reopen<br>embrace<br>item<br>alone<br>demand<br>swamp<br>any |  
-| bip_39_word_new_br11 | silent<br>desert<br>receive<br>reopen<br>embrace<br>item<br>alone<br>demand<br>swamp<br>any<br>couch |  
-| bip_39_word_new_br12 | silent<br>desert<br>receive<br>reopen<br>embrace<br>item<br>alone<br>demand<br>swamp<br>any<br>couch<br>affair |  
-| bip_39_word_new_br2 | silent<br>desert |  
-| bip_39_word_new_br3 | silent<br>desert<br>receive |  
-| bip_39_word_new_br4 | silent<br>desert<br>receive<br>reopen |  
-| bip_39_word_new_br5 | silent<br>desert<br>receive<br>reopen<br>embrace |  
-| bip_39_word_new_br6 | silent<br>desert<br>receive<br>reopen<br>embrace<br>item |  
-| bip_39_word_new_br7 | silent<br>desert<br>receive<br>reopen<br>embrace<br>item<br>alone |  
-| bip_39_word_new_br8 | silent<br>desert<br>receive<br>reopen<br>embrace<br>item<br>alone<br>demand |  
-| bip_39_word_new_br9 | silent<br>desert<br>receive<br>reopen<br>embrace<br>item<br>alone<br>demand<br>swamp |  
-| bip_39_word_new_line1 | silent |  
-| bip_39_word_new_line10 | silent
+| bip_39_word_new_br_1 | silent |  
+| bip_39_word_new_br_10 | silent<br>desert<br>receive<br>reopen<br>embrace<br>item<br>alone<br>demand<br>swamp<br>any |  
+| bip_39_word_new_br_11 | silent<br>desert<br>receive<br>reopen<br>embrace<br>item<br>alone<br>demand<br>swamp<br>any<br>couch |  
+| bip_39_word_new_br_12 | silent<br>desert<br>receive<br>reopen<br>embrace<br>item<br>alone<br>demand<br>swamp<br>any<br>couch<br>affair |  
+| bip_39_word_new_br_2 | silent<br>desert |  
+| bip_39_word_new_br_3 | silent<br>desert<br>receive |  
+| bip_39_word_new_br_4 | silent<br>desert<br>receive<br>reopen |  
+| bip_39_word_new_br_5 | silent<br>desert<br>receive<br>reopen<br>embrace |  
+| bip_39_word_new_br_6 | silent<br>desert<br>receive<br>reopen<br>embrace<br>item |  
+| bip_39_word_new_br_7 | silent<br>desert<br>receive<br>reopen<br>embrace<br>item<br>alone |  
+| bip_39_word_new_br_8 | silent<br>desert<br>receive<br>reopen<br>embrace<br>item<br>alone<br>demand |  
+| bip_39_word_new_br_9 | silent<br>desert<br>receive<br>reopen<br>embrace<br>item<br>alone<br>demand<br>swamp |  
+| bip_39_word_new_line_1 | silent |  
+| bip_39_word_new_line_10 | silent
 desert
 receive
 reopen
@@ -55,7 +55,7 @@ alone
 demand
 swamp
 any |  
-| bip_39_word_new_line11 | silent
+| bip_39_word_new_line_11 | silent
 desert
 receive
 reopen
@@ -66,7 +66,7 @@ demand
 swamp
 any
 couch |  
-| bip_39_word_new_line12 | silent
+| bip_39_word_new_line_12 | silent
 desert
 receive
 reopen
@@ -78,34 +78,34 @@ swamp
 any
 couch
 affair |  
-| bip_39_word_new_line2 | silent
+| bip_39_word_new_line_2 | silent
 desert |  
-| bip_39_word_new_line3 | silent
+| bip_39_word_new_line_3 | silent
 desert
 receive |  
-| bip_39_word_new_line4 | silent
+| bip_39_word_new_line_4 | silent
 desert
 receive
 reopen |  
-| bip_39_word_new_line5 | silent
+| bip_39_word_new_line_5 | silent
 desert
 receive
 reopen
 embrace |  
-| bip_39_word_new_line6 | silent
+| bip_39_word_new_line_6 | silent
 desert
 receive
 reopen
 embrace
 item |  
-| bip_39_word_new_line7 | silent
+| bip_39_word_new_line_7 | silent
 desert
 receive
 reopen
 embrace
 item
 alone |  
-| bip_39_word_new_line8 | silent
+| bip_39_word_new_line_8 | silent
 desert
 receive
 reopen
@@ -113,7 +113,7 @@ embrace
 item
 alone
 demand |  
-| bip_39_word_new_line9 | silent
+| bip_39_word_new_line_9 | silent
 desert
 receive
 reopen

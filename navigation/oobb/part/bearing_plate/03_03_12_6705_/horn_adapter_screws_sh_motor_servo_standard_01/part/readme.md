@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mammal |  
-| bip_39_word_new_br10 | mammal<br>idle<br>normal<br>brother<br>best<br>oblige<br>hope<br>already<br>blind<br>truly |  
-| bip_39_word_new_br11 | mammal<br>idle<br>normal<br>brother<br>best<br>oblige<br>hope<br>already<br>blind<br>truly<br>become |  
-| bip_39_word_new_br12 | mammal<br>idle<br>normal<br>brother<br>best<br>oblige<br>hope<br>already<br>blind<br>truly<br>become<br>assault |  
-| bip_39_word_new_br2 | mammal<br>idle |  
-| bip_39_word_new_br3 | mammal<br>idle<br>normal |  
-| bip_39_word_new_br4 | mammal<br>idle<br>normal<br>brother |  
-| bip_39_word_new_br5 | mammal<br>idle<br>normal<br>brother<br>best |  
-| bip_39_word_new_br6 | mammal<br>idle<br>normal<br>brother<br>best<br>oblige |  
-| bip_39_word_new_br7 | mammal<br>idle<br>normal<br>brother<br>best<br>oblige<br>hope |  
-| bip_39_word_new_br8 | mammal<br>idle<br>normal<br>brother<br>best<br>oblige<br>hope<br>already |  
-| bip_39_word_new_br9 | mammal<br>idle<br>normal<br>brother<br>best<br>oblige<br>hope<br>already<br>blind |  
-| bip_39_word_new_line1 | mammal |  
-| bip_39_word_new_line10 | mammal
+| bip_39_word_new_br_1 | mammal |  
+| bip_39_word_new_br_10 | mammal<br>idle<br>normal<br>brother<br>best<br>oblige<br>hope<br>already<br>blind<br>truly |  
+| bip_39_word_new_br_11 | mammal<br>idle<br>normal<br>brother<br>best<br>oblige<br>hope<br>already<br>blind<br>truly<br>become |  
+| bip_39_word_new_br_12 | mammal<br>idle<br>normal<br>brother<br>best<br>oblige<br>hope<br>already<br>blind<br>truly<br>become<br>assault |  
+| bip_39_word_new_br_2 | mammal<br>idle |  
+| bip_39_word_new_br_3 | mammal<br>idle<br>normal |  
+| bip_39_word_new_br_4 | mammal<br>idle<br>normal<br>brother |  
+| bip_39_word_new_br_5 | mammal<br>idle<br>normal<br>brother<br>best |  
+| bip_39_word_new_br_6 | mammal<br>idle<br>normal<br>brother<br>best<br>oblige |  
+| bip_39_word_new_br_7 | mammal<br>idle<br>normal<br>brother<br>best<br>oblige<br>hope |  
+| bip_39_word_new_br_8 | mammal<br>idle<br>normal<br>brother<br>best<br>oblige<br>hope<br>already |  
+| bip_39_word_new_br_9 | mammal<br>idle<br>normal<br>brother<br>best<br>oblige<br>hope<br>already<br>blind |  
+| bip_39_word_new_line_1 | mammal |  
+| bip_39_word_new_line_10 | mammal
 idle
 normal
 brother
@@ -55,7 +55,7 @@ hope
 already
 blind
 truly |  
-| bip_39_word_new_line11 | mammal
+| bip_39_word_new_line_11 | mammal
 idle
 normal
 brother
@@ -66,7 +66,7 @@ already
 blind
 truly
 become |  
-| bip_39_word_new_line12 | mammal
+| bip_39_word_new_line_12 | mammal
 idle
 normal
 brother
@@ -78,34 +78,34 @@ blind
 truly
 become
 assault |  
-| bip_39_word_new_line2 | mammal
+| bip_39_word_new_line_2 | mammal
 idle |  
-| bip_39_word_new_line3 | mammal
+| bip_39_word_new_line_3 | mammal
 idle
 normal |  
-| bip_39_word_new_line4 | mammal
+| bip_39_word_new_line_4 | mammal
 idle
 normal
 brother |  
-| bip_39_word_new_line5 | mammal
+| bip_39_word_new_line_5 | mammal
 idle
 normal
 brother
 best |  
-| bip_39_word_new_line6 | mammal
+| bip_39_word_new_line_6 | mammal
 idle
 normal
 brother
 best
 oblige |  
-| bip_39_word_new_line7 | mammal
+| bip_39_word_new_line_7 | mammal
 idle
 normal
 brother
 best
 oblige
 hope |  
-| bip_39_word_new_line8 | mammal
+| bip_39_word_new_line_8 | mammal
 idle
 normal
 brother
@@ -113,7 +113,7 @@ best
 oblige
 hope
 already |  
-| bip_39_word_new_line9 | mammal
+| bip_39_word_new_line_9 | mammal
 idle
 normal
 brother

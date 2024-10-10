@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ribbon |  
-| bip_39_word_new_br10 | ribbon<br>flash<br>custom<br>jacket<br>run<br>sustain<br>raw<br>lend<br>spread<br>idle |  
-| bip_39_word_new_br11 | ribbon<br>flash<br>custom<br>jacket<br>run<br>sustain<br>raw<br>lend<br>spread<br>idle<br>link |  
-| bip_39_word_new_br12 | ribbon<br>flash<br>custom<br>jacket<br>run<br>sustain<br>raw<br>lend<br>spread<br>idle<br>link<br>attract |  
-| bip_39_word_new_br2 | ribbon<br>flash |  
-| bip_39_word_new_br3 | ribbon<br>flash<br>custom |  
-| bip_39_word_new_br4 | ribbon<br>flash<br>custom<br>jacket |  
-| bip_39_word_new_br5 | ribbon<br>flash<br>custom<br>jacket<br>run |  
-| bip_39_word_new_br6 | ribbon<br>flash<br>custom<br>jacket<br>run<br>sustain |  
-| bip_39_word_new_br7 | ribbon<br>flash<br>custom<br>jacket<br>run<br>sustain<br>raw |  
-| bip_39_word_new_br8 | ribbon<br>flash<br>custom<br>jacket<br>run<br>sustain<br>raw<br>lend |  
-| bip_39_word_new_br9 | ribbon<br>flash<br>custom<br>jacket<br>run<br>sustain<br>raw<br>lend<br>spread |  
-| bip_39_word_new_line1 | ribbon |  
-| bip_39_word_new_line10 | ribbon
+| bip_39_word_new_br_1 | ribbon |  
+| bip_39_word_new_br_10 | ribbon<br>flash<br>custom<br>jacket<br>run<br>sustain<br>raw<br>lend<br>spread<br>idle |  
+| bip_39_word_new_br_11 | ribbon<br>flash<br>custom<br>jacket<br>run<br>sustain<br>raw<br>lend<br>spread<br>idle<br>link |  
+| bip_39_word_new_br_12 | ribbon<br>flash<br>custom<br>jacket<br>run<br>sustain<br>raw<br>lend<br>spread<br>idle<br>link<br>attract |  
+| bip_39_word_new_br_2 | ribbon<br>flash |  
+| bip_39_word_new_br_3 | ribbon<br>flash<br>custom |  
+| bip_39_word_new_br_4 | ribbon<br>flash<br>custom<br>jacket |  
+| bip_39_word_new_br_5 | ribbon<br>flash<br>custom<br>jacket<br>run |  
+| bip_39_word_new_br_6 | ribbon<br>flash<br>custom<br>jacket<br>run<br>sustain |  
+| bip_39_word_new_br_7 | ribbon<br>flash<br>custom<br>jacket<br>run<br>sustain<br>raw |  
+| bip_39_word_new_br_8 | ribbon<br>flash<br>custom<br>jacket<br>run<br>sustain<br>raw<br>lend |  
+| bip_39_word_new_br_9 | ribbon<br>flash<br>custom<br>jacket<br>run<br>sustain<br>raw<br>lend<br>spread |  
+| bip_39_word_new_line_1 | ribbon |  
+| bip_39_word_new_line_10 | ribbon
 flash
 custom
 jacket
@@ -55,7 +55,7 @@ raw
 lend
 spread
 idle |  
-| bip_39_word_new_line11 | ribbon
+| bip_39_word_new_line_11 | ribbon
 flash
 custom
 jacket
@@ -66,7 +66,7 @@ lend
 spread
 idle
 link |  
-| bip_39_word_new_line12 | ribbon
+| bip_39_word_new_line_12 | ribbon
 flash
 custom
 jacket
@@ -78,34 +78,34 @@ spread
 idle
 link
 attract |  
-| bip_39_word_new_line2 | ribbon
+| bip_39_word_new_line_2 | ribbon
 flash |  
-| bip_39_word_new_line3 | ribbon
+| bip_39_word_new_line_3 | ribbon
 flash
 custom |  
-| bip_39_word_new_line4 | ribbon
+| bip_39_word_new_line_4 | ribbon
 flash
 custom
 jacket |  
-| bip_39_word_new_line5 | ribbon
+| bip_39_word_new_line_5 | ribbon
 flash
 custom
 jacket
 run |  
-| bip_39_word_new_line6 | ribbon
+| bip_39_word_new_line_6 | ribbon
 flash
 custom
 jacket
 run
 sustain |  
-| bip_39_word_new_line7 | ribbon
+| bip_39_word_new_line_7 | ribbon
 flash
 custom
 jacket
 run
 sustain
 raw |  
-| bip_39_word_new_line8 | ribbon
+| bip_39_word_new_line_8 | ribbon
 flash
 custom
 jacket
@@ -113,7 +113,7 @@ run
 sustain
 raw
 lend |  
-| bip_39_word_new_line9 | ribbon
+| bip_39_word_new_line_9 | ribbon
 flash
 custom
 jacket

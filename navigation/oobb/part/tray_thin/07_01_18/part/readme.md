@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | damage |  
-| bip_39_word_new_br10 | damage<br>loop<br>side<br>onion<br>machine<br>today<br>shiver<br>offer<br>card<br>raw |  
-| bip_39_word_new_br11 | damage<br>loop<br>side<br>onion<br>machine<br>today<br>shiver<br>offer<br>card<br>raw<br>thing |  
-| bip_39_word_new_br12 | damage<br>loop<br>side<br>onion<br>machine<br>today<br>shiver<br>offer<br>card<br>raw<br>thing<br>attitude |  
-| bip_39_word_new_br2 | damage<br>loop |  
-| bip_39_word_new_br3 | damage<br>loop<br>side |  
-| bip_39_word_new_br4 | damage<br>loop<br>side<br>onion |  
-| bip_39_word_new_br5 | damage<br>loop<br>side<br>onion<br>machine |  
-| bip_39_word_new_br6 | damage<br>loop<br>side<br>onion<br>machine<br>today |  
-| bip_39_word_new_br7 | damage<br>loop<br>side<br>onion<br>machine<br>today<br>shiver |  
-| bip_39_word_new_br8 | damage<br>loop<br>side<br>onion<br>machine<br>today<br>shiver<br>offer |  
-| bip_39_word_new_br9 | damage<br>loop<br>side<br>onion<br>machine<br>today<br>shiver<br>offer<br>card |  
-| bip_39_word_new_line1 | damage |  
-| bip_39_word_new_line10 | damage
+| bip_39_word_new_br_1 | damage |  
+| bip_39_word_new_br_10 | damage<br>loop<br>side<br>onion<br>machine<br>today<br>shiver<br>offer<br>card<br>raw |  
+| bip_39_word_new_br_11 | damage<br>loop<br>side<br>onion<br>machine<br>today<br>shiver<br>offer<br>card<br>raw<br>thing |  
+| bip_39_word_new_br_12 | damage<br>loop<br>side<br>onion<br>machine<br>today<br>shiver<br>offer<br>card<br>raw<br>thing<br>attitude |  
+| bip_39_word_new_br_2 | damage<br>loop |  
+| bip_39_word_new_br_3 | damage<br>loop<br>side |  
+| bip_39_word_new_br_4 | damage<br>loop<br>side<br>onion |  
+| bip_39_word_new_br_5 | damage<br>loop<br>side<br>onion<br>machine |  
+| bip_39_word_new_br_6 | damage<br>loop<br>side<br>onion<br>machine<br>today |  
+| bip_39_word_new_br_7 | damage<br>loop<br>side<br>onion<br>machine<br>today<br>shiver |  
+| bip_39_word_new_br_8 | damage<br>loop<br>side<br>onion<br>machine<br>today<br>shiver<br>offer |  
+| bip_39_word_new_br_9 | damage<br>loop<br>side<br>onion<br>machine<br>today<br>shiver<br>offer<br>card |  
+| bip_39_word_new_line_1 | damage |  
+| bip_39_word_new_line_10 | damage
 loop
 side
 onion
@@ -55,7 +55,7 @@ shiver
 offer
 card
 raw |  
-| bip_39_word_new_line11 | damage
+| bip_39_word_new_line_11 | damage
 loop
 side
 onion
@@ -66,7 +66,7 @@ offer
 card
 raw
 thing |  
-| bip_39_word_new_line12 | damage
+| bip_39_word_new_line_12 | damage
 loop
 side
 onion
@@ -78,34 +78,34 @@ card
 raw
 thing
 attitude |  
-| bip_39_word_new_line2 | damage
+| bip_39_word_new_line_2 | damage
 loop |  
-| bip_39_word_new_line3 | damage
+| bip_39_word_new_line_3 | damage
 loop
 side |  
-| bip_39_word_new_line4 | damage
+| bip_39_word_new_line_4 | damage
 loop
 side
 onion |  
-| bip_39_word_new_line5 | damage
+| bip_39_word_new_line_5 | damage
 loop
 side
 onion
 machine |  
-| bip_39_word_new_line6 | damage
+| bip_39_word_new_line_6 | damage
 loop
 side
 onion
 machine
 today |  
-| bip_39_word_new_line7 | damage
+| bip_39_word_new_line_7 | damage
 loop
 side
 onion
 machine
 today
 shiver |  
-| bip_39_word_new_line8 | damage
+| bip_39_word_new_line_8 | damage
 loop
 side
 onion
@@ -113,7 +113,7 @@ machine
 today
 shiver
 offer |  
-| bip_39_word_new_line9 | damage
+| bip_39_word_new_line_9 | damage
 loop
 side
 onion

@@ -1,17 +1,17 @@
-bip_39_word_new_br1: scheme
-bip_39_word_new_br10: scheme<br>farm<br>fit<br>light<br>viable<br>way<br>jelly<br>grape<br>drive<br>shock
-bip_39_word_new_br11: scheme<br>farm<br>fit<br>light<br>viable<br>way<br>jelly<br>grape<br>drive<br>shock<br>crumble
-bip_39_word_new_br12: scheme<br>farm<br>fit<br>light<br>viable<br>way<br>jelly<br>grape<br>drive<br>shock<br>crumble<br>airport
-bip_39_word_new_br2: scheme<br>farm
-bip_39_word_new_br3: scheme<br>farm<br>fit
-bip_39_word_new_br4: scheme<br>farm<br>fit<br>light
-bip_39_word_new_br5: scheme<br>farm<br>fit<br>light<br>viable
-bip_39_word_new_br6: scheme<br>farm<br>fit<br>light<br>viable<br>way
-bip_39_word_new_br7: scheme<br>farm<br>fit<br>light<br>viable<br>way<br>jelly
-bip_39_word_new_br8: scheme<br>farm<br>fit<br>light<br>viable<br>way<br>jelly<br>grape
-bip_39_word_new_br9: scheme<br>farm<br>fit<br>light<br>viable<br>way<br>jelly<br>grape<br>drive
-bip_39_word_new_line1: scheme
-bip_39_word_new_line10: 'scheme
+bip_39_word_new_br_1: scheme
+bip_39_word_new_br_10: scheme<br>farm<br>fit<br>light<br>viable<br>way<br>jelly<br>grape<br>drive<br>shock
+bip_39_word_new_br_11: scheme<br>farm<br>fit<br>light<br>viable<br>way<br>jelly<br>grape<br>drive<br>shock<br>crumble
+bip_39_word_new_br_12: scheme<br>farm<br>fit<br>light<br>viable<br>way<br>jelly<br>grape<br>drive<br>shock<br>crumble<br>airport
+bip_39_word_new_br_2: scheme<br>farm
+bip_39_word_new_br_3: scheme<br>farm<br>fit
+bip_39_word_new_br_4: scheme<br>farm<br>fit<br>light
+bip_39_word_new_br_5: scheme<br>farm<br>fit<br>light<br>viable
+bip_39_word_new_br_6: scheme<br>farm<br>fit<br>light<br>viable<br>way
+bip_39_word_new_br_7: scheme<br>farm<br>fit<br>light<br>viable<br>way<br>jelly
+bip_39_word_new_br_8: scheme<br>farm<br>fit<br>light<br>viable<br>way<br>jelly<br>grape
+bip_39_word_new_br_9: scheme<br>farm<br>fit<br>light<br>viable<br>way<br>jelly<br>grape<br>drive
+bip_39_word_new_line_1: scheme
+bip_39_word_new_line_10: 'scheme
 
   farm
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'scheme
   drive
 
   shock'
-bip_39_word_new_line11: 'scheme
+bip_39_word_new_line_11: 'scheme
 
   farm
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'scheme
   shock
 
   crumble'
-bip_39_word_new_line12: 'scheme
+bip_39_word_new_line_12: 'scheme
 
   farm
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'scheme
   crumble
 
   airport'
-bip_39_word_new_line2: 'scheme
+bip_39_word_new_line_2: 'scheme
 
   farm'
-bip_39_word_new_line3: 'scheme
+bip_39_word_new_line_3: 'scheme
 
   farm
 
   fit'
-bip_39_word_new_line4: 'scheme
+bip_39_word_new_line_4: 'scheme
 
   farm
 
   fit
 
   light'
-bip_39_word_new_line5: 'scheme
+bip_39_word_new_line_5: 'scheme
 
   farm
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'scheme
   light
 
   viable'
-bip_39_word_new_line6: 'scheme
+bip_39_word_new_line_6: 'scheme
 
   farm
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'scheme
   viable
 
   way'
-bip_39_word_new_line7: 'scheme
+bip_39_word_new_line_7: 'scheme
 
   farm
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'scheme
   way
 
   jelly'
-bip_39_word_new_line8: 'scheme
+bip_39_word_new_line_8: 'scheme
 
   farm
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'scheme
   jelly
 
   grape'
-bip_39_word_new_line9: 'scheme
+bip_39_word_new_line_9: 'scheme
 
   farm
 

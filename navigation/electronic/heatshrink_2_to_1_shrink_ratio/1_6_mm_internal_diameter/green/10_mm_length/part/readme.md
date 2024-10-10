@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | before |  
-| bip_39_word_new_br10 | before<br>mom<br>neutral<br>snake<br>long<br>garage<br>vendor<br>fix<br>warrior<br>pyramid |  
-| bip_39_word_new_br11 | before<br>mom<br>neutral<br>snake<br>long<br>garage<br>vendor<br>fix<br>warrior<br>pyramid<br>vicious |  
-| bip_39_word_new_br12 | before<br>mom<br>neutral<br>snake<br>long<br>garage<br>vendor<br>fix<br>warrior<br>pyramid<br>vicious<br>advance |  
-| bip_39_word_new_br2 | before<br>mom |  
-| bip_39_word_new_br3 | before<br>mom<br>neutral |  
-| bip_39_word_new_br4 | before<br>mom<br>neutral<br>snake |  
-| bip_39_word_new_br5 | before<br>mom<br>neutral<br>snake<br>long |  
-| bip_39_word_new_br6 | before<br>mom<br>neutral<br>snake<br>long<br>garage |  
-| bip_39_word_new_br7 | before<br>mom<br>neutral<br>snake<br>long<br>garage<br>vendor |  
-| bip_39_word_new_br8 | before<br>mom<br>neutral<br>snake<br>long<br>garage<br>vendor<br>fix |  
-| bip_39_word_new_br9 | before<br>mom<br>neutral<br>snake<br>long<br>garage<br>vendor<br>fix<br>warrior |  
-| bip_39_word_new_line1 | before |  
-| bip_39_word_new_line10 | before
+| bip_39_word_new_br_1 | before |  
+| bip_39_word_new_br_10 | before<br>mom<br>neutral<br>snake<br>long<br>garage<br>vendor<br>fix<br>warrior<br>pyramid |  
+| bip_39_word_new_br_11 | before<br>mom<br>neutral<br>snake<br>long<br>garage<br>vendor<br>fix<br>warrior<br>pyramid<br>vicious |  
+| bip_39_word_new_br_12 | before<br>mom<br>neutral<br>snake<br>long<br>garage<br>vendor<br>fix<br>warrior<br>pyramid<br>vicious<br>advance |  
+| bip_39_word_new_br_2 | before<br>mom |  
+| bip_39_word_new_br_3 | before<br>mom<br>neutral |  
+| bip_39_word_new_br_4 | before<br>mom<br>neutral<br>snake |  
+| bip_39_word_new_br_5 | before<br>mom<br>neutral<br>snake<br>long |  
+| bip_39_word_new_br_6 | before<br>mom<br>neutral<br>snake<br>long<br>garage |  
+| bip_39_word_new_br_7 | before<br>mom<br>neutral<br>snake<br>long<br>garage<br>vendor |  
+| bip_39_word_new_br_8 | before<br>mom<br>neutral<br>snake<br>long<br>garage<br>vendor<br>fix |  
+| bip_39_word_new_br_9 | before<br>mom<br>neutral<br>snake<br>long<br>garage<br>vendor<br>fix<br>warrior |  
+| bip_39_word_new_line_1 | before |  
+| bip_39_word_new_line_10 | before
 mom
 neutral
 snake
@@ -55,7 +55,7 @@ vendor
 fix
 warrior
 pyramid |  
-| bip_39_word_new_line11 | before
+| bip_39_word_new_line_11 | before
 mom
 neutral
 snake
@@ -66,7 +66,7 @@ fix
 warrior
 pyramid
 vicious |  
-| bip_39_word_new_line12 | before
+| bip_39_word_new_line_12 | before
 mom
 neutral
 snake
@@ -78,34 +78,34 @@ warrior
 pyramid
 vicious
 advance |  
-| bip_39_word_new_line2 | before
+| bip_39_word_new_line_2 | before
 mom |  
-| bip_39_word_new_line3 | before
+| bip_39_word_new_line_3 | before
 mom
 neutral |  
-| bip_39_word_new_line4 | before
+| bip_39_word_new_line_4 | before
 mom
 neutral
 snake |  
-| bip_39_word_new_line5 | before
+| bip_39_word_new_line_5 | before
 mom
 neutral
 snake
 long |  
-| bip_39_word_new_line6 | before
+| bip_39_word_new_line_6 | before
 mom
 neutral
 snake
 long
 garage |  
-| bip_39_word_new_line7 | before
+| bip_39_word_new_line_7 | before
 mom
 neutral
 snake
 long
 garage
 vendor |  
-| bip_39_word_new_line8 | before
+| bip_39_word_new_line_8 | before
 mom
 neutral
 snake
@@ -113,7 +113,7 @@ long
 garage
 vendor
 fix |  
-| bip_39_word_new_line9 | before
+| bip_39_word_new_line_9 | before
 mom
 neutral
 snake

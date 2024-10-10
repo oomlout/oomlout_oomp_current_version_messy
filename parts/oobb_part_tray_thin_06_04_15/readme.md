@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pretty |  
-| bip_39_word_new_br10 | pretty<br>brass<br>fancy<br>thank<br>join<br>shoe<br>cannon<br>problem<br>cushion<br>slush |  
-| bip_39_word_new_br11 | pretty<br>brass<br>fancy<br>thank<br>join<br>shoe<br>cannon<br>problem<br>cushion<br>slush<br>search |  
-| bip_39_word_new_br12 | pretty<br>brass<br>fancy<br>thank<br>join<br>shoe<br>cannon<br>problem<br>cushion<br>slush<br>search<br>apart |  
-| bip_39_word_new_br2 | pretty<br>brass |  
-| bip_39_word_new_br3 | pretty<br>brass<br>fancy |  
-| bip_39_word_new_br4 | pretty<br>brass<br>fancy<br>thank |  
-| bip_39_word_new_br5 | pretty<br>brass<br>fancy<br>thank<br>join |  
-| bip_39_word_new_br6 | pretty<br>brass<br>fancy<br>thank<br>join<br>shoe |  
-| bip_39_word_new_br7 | pretty<br>brass<br>fancy<br>thank<br>join<br>shoe<br>cannon |  
-| bip_39_word_new_br8 | pretty<br>brass<br>fancy<br>thank<br>join<br>shoe<br>cannon<br>problem |  
-| bip_39_word_new_br9 | pretty<br>brass<br>fancy<br>thank<br>join<br>shoe<br>cannon<br>problem<br>cushion |  
-| bip_39_word_new_line1 | pretty |  
-| bip_39_word_new_line10 | pretty
+| bip_39_word_new_br_1 | pretty |  
+| bip_39_word_new_br_10 | pretty<br>brass<br>fancy<br>thank<br>join<br>shoe<br>cannon<br>problem<br>cushion<br>slush |  
+| bip_39_word_new_br_11 | pretty<br>brass<br>fancy<br>thank<br>join<br>shoe<br>cannon<br>problem<br>cushion<br>slush<br>search |  
+| bip_39_word_new_br_12 | pretty<br>brass<br>fancy<br>thank<br>join<br>shoe<br>cannon<br>problem<br>cushion<br>slush<br>search<br>apart |  
+| bip_39_word_new_br_2 | pretty<br>brass |  
+| bip_39_word_new_br_3 | pretty<br>brass<br>fancy |  
+| bip_39_word_new_br_4 | pretty<br>brass<br>fancy<br>thank |  
+| bip_39_word_new_br_5 | pretty<br>brass<br>fancy<br>thank<br>join |  
+| bip_39_word_new_br_6 | pretty<br>brass<br>fancy<br>thank<br>join<br>shoe |  
+| bip_39_word_new_br_7 | pretty<br>brass<br>fancy<br>thank<br>join<br>shoe<br>cannon |  
+| bip_39_word_new_br_8 | pretty<br>brass<br>fancy<br>thank<br>join<br>shoe<br>cannon<br>problem |  
+| bip_39_word_new_br_9 | pretty<br>brass<br>fancy<br>thank<br>join<br>shoe<br>cannon<br>problem<br>cushion |  
+| bip_39_word_new_line_1 | pretty |  
+| bip_39_word_new_line_10 | pretty
 brass
 fancy
 thank
@@ -55,7 +55,7 @@ cannon
 problem
 cushion
 slush |  
-| bip_39_word_new_line11 | pretty
+| bip_39_word_new_line_11 | pretty
 brass
 fancy
 thank
@@ -66,7 +66,7 @@ problem
 cushion
 slush
 search |  
-| bip_39_word_new_line12 | pretty
+| bip_39_word_new_line_12 | pretty
 brass
 fancy
 thank
@@ -78,34 +78,34 @@ cushion
 slush
 search
 apart |  
-| bip_39_word_new_line2 | pretty
+| bip_39_word_new_line_2 | pretty
 brass |  
-| bip_39_word_new_line3 | pretty
+| bip_39_word_new_line_3 | pretty
 brass
 fancy |  
-| bip_39_word_new_line4 | pretty
+| bip_39_word_new_line_4 | pretty
 brass
 fancy
 thank |  
-| bip_39_word_new_line5 | pretty
+| bip_39_word_new_line_5 | pretty
 brass
 fancy
 thank
 join |  
-| bip_39_word_new_line6 | pretty
+| bip_39_word_new_line_6 | pretty
 brass
 fancy
 thank
 join
 shoe |  
-| bip_39_word_new_line7 | pretty
+| bip_39_word_new_line_7 | pretty
 brass
 fancy
 thank
 join
 shoe
 cannon |  
-| bip_39_word_new_line8 | pretty
+| bip_39_word_new_line_8 | pretty
 brass
 fancy
 thank
@@ -113,7 +113,7 @@ join
 shoe
 cannon
 problem |  
-| bip_39_word_new_line9 | pretty
+| bip_39_word_new_line_9 | pretty
 brass
 fancy
 thank

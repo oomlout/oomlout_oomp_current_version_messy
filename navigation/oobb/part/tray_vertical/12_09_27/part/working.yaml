@@ -1,17 +1,17 @@
-bip_39_word_new_br1: across
-bip_39_word_new_br10: across<br>mushroom<br>taste<br>survey<br>input<br>creek<br>olympic<br>myself<br>slogan<br>pear
-bip_39_word_new_br11: across<br>mushroom<br>taste<br>survey<br>input<br>creek<br>olympic<br>myself<br>slogan<br>pear<br>clump
-bip_39_word_new_br12: across<br>mushroom<br>taste<br>survey<br>input<br>creek<br>olympic<br>myself<br>slogan<br>pear<br>clump<br>arctic
-bip_39_word_new_br2: across<br>mushroom
-bip_39_word_new_br3: across<br>mushroom<br>taste
-bip_39_word_new_br4: across<br>mushroom<br>taste<br>survey
-bip_39_word_new_br5: across<br>mushroom<br>taste<br>survey<br>input
-bip_39_word_new_br6: across<br>mushroom<br>taste<br>survey<br>input<br>creek
-bip_39_word_new_br7: across<br>mushroom<br>taste<br>survey<br>input<br>creek<br>olympic
-bip_39_word_new_br8: across<br>mushroom<br>taste<br>survey<br>input<br>creek<br>olympic<br>myself
-bip_39_word_new_br9: across<br>mushroom<br>taste<br>survey<br>input<br>creek<br>olympic<br>myself<br>slogan
-bip_39_word_new_line1: across
-bip_39_word_new_line10: 'across
+bip_39_word_new_br_1: across
+bip_39_word_new_br_10: across<br>mushroom<br>taste<br>survey<br>input<br>creek<br>olympic<br>myself<br>slogan<br>pear
+bip_39_word_new_br_11: across<br>mushroom<br>taste<br>survey<br>input<br>creek<br>olympic<br>myself<br>slogan<br>pear<br>clump
+bip_39_word_new_br_12: across<br>mushroom<br>taste<br>survey<br>input<br>creek<br>olympic<br>myself<br>slogan<br>pear<br>clump<br>arctic
+bip_39_word_new_br_2: across<br>mushroom
+bip_39_word_new_br_3: across<br>mushroom<br>taste
+bip_39_word_new_br_4: across<br>mushroom<br>taste<br>survey
+bip_39_word_new_br_5: across<br>mushroom<br>taste<br>survey<br>input
+bip_39_word_new_br_6: across<br>mushroom<br>taste<br>survey<br>input<br>creek
+bip_39_word_new_br_7: across<br>mushroom<br>taste<br>survey<br>input<br>creek<br>olympic
+bip_39_word_new_br_8: across<br>mushroom<br>taste<br>survey<br>input<br>creek<br>olympic<br>myself
+bip_39_word_new_br_9: across<br>mushroom<br>taste<br>survey<br>input<br>creek<br>olympic<br>myself<br>slogan
+bip_39_word_new_line_1: across
+bip_39_word_new_line_10: 'across
 
   mushroom
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'across
   slogan
 
   pear'
-bip_39_word_new_line11: 'across
+bip_39_word_new_line_11: 'across
 
   mushroom
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'across
   pear
 
   clump'
-bip_39_word_new_line12: 'across
+bip_39_word_new_line_12: 'across
 
   mushroom
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'across
   clump
 
   arctic'
-bip_39_word_new_line2: 'across
+bip_39_word_new_line_2: 'across
 
   mushroom'
-bip_39_word_new_line3: 'across
+bip_39_word_new_line_3: 'across
 
   mushroom
 
   taste'
-bip_39_word_new_line4: 'across
+bip_39_word_new_line_4: 'across
 
   mushroom
 
   taste
 
   survey'
-bip_39_word_new_line5: 'across
+bip_39_word_new_line_5: 'across
 
   mushroom
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'across
   survey
 
   input'
-bip_39_word_new_line6: 'across
+bip_39_word_new_line_6: 'across
 
   mushroom
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'across
   input
 
   creek'
-bip_39_word_new_line7: 'across
+bip_39_word_new_line_7: 'across
 
   mushroom
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'across
   creek
 
   olympic'
-bip_39_word_new_line8: 'across
+bip_39_word_new_line_8: 'across
 
   mushroom
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'across
   olympic
 
   myself'
-bip_39_word_new_line9: 'across
+bip_39_word_new_line_9: 'across
 
   mushroom
 

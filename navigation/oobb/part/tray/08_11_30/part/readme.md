@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | swing |  
-| bip_39_word_new_br10 | swing<br>capital<br>drastic<br>sentence<br>identify<br>saddle<br>absent<br>primary<br>flush<br>turtle |  
-| bip_39_word_new_br11 | swing<br>capital<br>drastic<br>sentence<br>identify<br>saddle<br>absent<br>primary<br>flush<br>turtle<br>belt |  
-| bip_39_word_new_br12 | swing<br>capital<br>drastic<br>sentence<br>identify<br>saddle<br>absent<br>primary<br>flush<br>turtle<br>belt<br>alley |  
-| bip_39_word_new_br2 | swing<br>capital |  
-| bip_39_word_new_br3 | swing<br>capital<br>drastic |  
-| bip_39_word_new_br4 | swing<br>capital<br>drastic<br>sentence |  
-| bip_39_word_new_br5 | swing<br>capital<br>drastic<br>sentence<br>identify |  
-| bip_39_word_new_br6 | swing<br>capital<br>drastic<br>sentence<br>identify<br>saddle |  
-| bip_39_word_new_br7 | swing<br>capital<br>drastic<br>sentence<br>identify<br>saddle<br>absent |  
-| bip_39_word_new_br8 | swing<br>capital<br>drastic<br>sentence<br>identify<br>saddle<br>absent<br>primary |  
-| bip_39_word_new_br9 | swing<br>capital<br>drastic<br>sentence<br>identify<br>saddle<br>absent<br>primary<br>flush |  
-| bip_39_word_new_line1 | swing |  
-| bip_39_word_new_line10 | swing
+| bip_39_word_new_br_1 | swing |  
+| bip_39_word_new_br_10 | swing<br>capital<br>drastic<br>sentence<br>identify<br>saddle<br>absent<br>primary<br>flush<br>turtle |  
+| bip_39_word_new_br_11 | swing<br>capital<br>drastic<br>sentence<br>identify<br>saddle<br>absent<br>primary<br>flush<br>turtle<br>belt |  
+| bip_39_word_new_br_12 | swing<br>capital<br>drastic<br>sentence<br>identify<br>saddle<br>absent<br>primary<br>flush<br>turtle<br>belt<br>alley |  
+| bip_39_word_new_br_2 | swing<br>capital |  
+| bip_39_word_new_br_3 | swing<br>capital<br>drastic |  
+| bip_39_word_new_br_4 | swing<br>capital<br>drastic<br>sentence |  
+| bip_39_word_new_br_5 | swing<br>capital<br>drastic<br>sentence<br>identify |  
+| bip_39_word_new_br_6 | swing<br>capital<br>drastic<br>sentence<br>identify<br>saddle |  
+| bip_39_word_new_br_7 | swing<br>capital<br>drastic<br>sentence<br>identify<br>saddle<br>absent |  
+| bip_39_word_new_br_8 | swing<br>capital<br>drastic<br>sentence<br>identify<br>saddle<br>absent<br>primary |  
+| bip_39_word_new_br_9 | swing<br>capital<br>drastic<br>sentence<br>identify<br>saddle<br>absent<br>primary<br>flush |  
+| bip_39_word_new_line_1 | swing |  
+| bip_39_word_new_line_10 | swing
 capital
 drastic
 sentence
@@ -55,7 +55,7 @@ absent
 primary
 flush
 turtle |  
-| bip_39_word_new_line11 | swing
+| bip_39_word_new_line_11 | swing
 capital
 drastic
 sentence
@@ -66,7 +66,7 @@ primary
 flush
 turtle
 belt |  
-| bip_39_word_new_line12 | swing
+| bip_39_word_new_line_12 | swing
 capital
 drastic
 sentence
@@ -78,34 +78,34 @@ flush
 turtle
 belt
 alley |  
-| bip_39_word_new_line2 | swing
+| bip_39_word_new_line_2 | swing
 capital |  
-| bip_39_word_new_line3 | swing
+| bip_39_word_new_line_3 | swing
 capital
 drastic |  
-| bip_39_word_new_line4 | swing
+| bip_39_word_new_line_4 | swing
 capital
 drastic
 sentence |  
-| bip_39_word_new_line5 | swing
+| bip_39_word_new_line_5 | swing
 capital
 drastic
 sentence
 identify |  
-| bip_39_word_new_line6 | swing
+| bip_39_word_new_line_6 | swing
 capital
 drastic
 sentence
 identify
 saddle |  
-| bip_39_word_new_line7 | swing
+| bip_39_word_new_line_7 | swing
 capital
 drastic
 sentence
 identify
 saddle
 absent |  
-| bip_39_word_new_line8 | swing
+| bip_39_word_new_line_8 | swing
 capital
 drastic
 sentence
@@ -113,7 +113,7 @@ identify
 saddle
 absent
 primary |  
-| bip_39_word_new_line9 | swing
+| bip_39_word_new_line_9 | swing
 capital
 drastic
 sentence

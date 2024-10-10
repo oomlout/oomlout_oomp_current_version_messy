@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | coin |  
-| bip_39_word_new_br10 | coin<br>chalk<br>clutch<br>way<br>alien<br>mercy<br>despair<br>duty<br>payment<br>dust |  
-| bip_39_word_new_br11 | coin<br>chalk<br>clutch<br>way<br>alien<br>mercy<br>despair<br>duty<br>payment<br>dust<br>scout |  
-| bip_39_word_new_br12 | coin<br>chalk<br>clutch<br>way<br>alien<br>mercy<br>despair<br>duty<br>payment<br>dust<br>scout<br>afford |  
-| bip_39_word_new_br2 | coin<br>chalk |  
-| bip_39_word_new_br3 | coin<br>chalk<br>clutch |  
-| bip_39_word_new_br4 | coin<br>chalk<br>clutch<br>way |  
-| bip_39_word_new_br5 | coin<br>chalk<br>clutch<br>way<br>alien |  
-| bip_39_word_new_br6 | coin<br>chalk<br>clutch<br>way<br>alien<br>mercy |  
-| bip_39_word_new_br7 | coin<br>chalk<br>clutch<br>way<br>alien<br>mercy<br>despair |  
-| bip_39_word_new_br8 | coin<br>chalk<br>clutch<br>way<br>alien<br>mercy<br>despair<br>duty |  
-| bip_39_word_new_br9 | coin<br>chalk<br>clutch<br>way<br>alien<br>mercy<br>despair<br>duty<br>payment |  
-| bip_39_word_new_line1 | coin |  
-| bip_39_word_new_line10 | coin
+| bip_39_word_new_br_1 | coin |  
+| bip_39_word_new_br_10 | coin<br>chalk<br>clutch<br>way<br>alien<br>mercy<br>despair<br>duty<br>payment<br>dust |  
+| bip_39_word_new_br_11 | coin<br>chalk<br>clutch<br>way<br>alien<br>mercy<br>despair<br>duty<br>payment<br>dust<br>scout |  
+| bip_39_word_new_br_12 | coin<br>chalk<br>clutch<br>way<br>alien<br>mercy<br>despair<br>duty<br>payment<br>dust<br>scout<br>afford |  
+| bip_39_word_new_br_2 | coin<br>chalk |  
+| bip_39_word_new_br_3 | coin<br>chalk<br>clutch |  
+| bip_39_word_new_br_4 | coin<br>chalk<br>clutch<br>way |  
+| bip_39_word_new_br_5 | coin<br>chalk<br>clutch<br>way<br>alien |  
+| bip_39_word_new_br_6 | coin<br>chalk<br>clutch<br>way<br>alien<br>mercy |  
+| bip_39_word_new_br_7 | coin<br>chalk<br>clutch<br>way<br>alien<br>mercy<br>despair |  
+| bip_39_word_new_br_8 | coin<br>chalk<br>clutch<br>way<br>alien<br>mercy<br>despair<br>duty |  
+| bip_39_word_new_br_9 | coin<br>chalk<br>clutch<br>way<br>alien<br>mercy<br>despair<br>duty<br>payment |  
+| bip_39_word_new_line_1 | coin |  
+| bip_39_word_new_line_10 | coin
 chalk
 clutch
 way
@@ -55,7 +55,7 @@ despair
 duty
 payment
 dust |  
-| bip_39_word_new_line11 | coin
+| bip_39_word_new_line_11 | coin
 chalk
 clutch
 way
@@ -66,7 +66,7 @@ duty
 payment
 dust
 scout |  
-| bip_39_word_new_line12 | coin
+| bip_39_word_new_line_12 | coin
 chalk
 clutch
 way
@@ -78,34 +78,34 @@ payment
 dust
 scout
 afford |  
-| bip_39_word_new_line2 | coin
+| bip_39_word_new_line_2 | coin
 chalk |  
-| bip_39_word_new_line3 | coin
+| bip_39_word_new_line_3 | coin
 chalk
 clutch |  
-| bip_39_word_new_line4 | coin
+| bip_39_word_new_line_4 | coin
 chalk
 clutch
 way |  
-| bip_39_word_new_line5 | coin
+| bip_39_word_new_line_5 | coin
 chalk
 clutch
 way
 alien |  
-| bip_39_word_new_line6 | coin
+| bip_39_word_new_line_6 | coin
 chalk
 clutch
 way
 alien
 mercy |  
-| bip_39_word_new_line7 | coin
+| bip_39_word_new_line_7 | coin
 chalk
 clutch
 way
 alien
 mercy
 despair |  
-| bip_39_word_new_line8 | coin
+| bip_39_word_new_line_8 | coin
 chalk
 clutch
 way
@@ -113,7 +113,7 @@ alien
 mercy
 despair
 duty |  
-| bip_39_word_new_line9 | coin
+| bip_39_word_new_line_9 | coin
 chalk
 clutch
 way

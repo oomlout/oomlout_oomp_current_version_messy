@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | purchase |  
-| bip_39_word_new_br10 | purchase<br>before<br>image<br>logic<br>rookie<br>alone<br>page<br>public<br>sand<br>uphold |  
-| bip_39_word_new_br11 | purchase<br>before<br>image<br>logic<br>rookie<br>alone<br>page<br>public<br>sand<br>uphold<br>monitor |  
-| bip_39_word_new_br12 | purchase<br>before<br>image<br>logic<br>rookie<br>alone<br>page<br>public<br>sand<br>uphold<br>monitor<br>acquire |  
-| bip_39_word_new_br2 | purchase<br>before |  
-| bip_39_word_new_br3 | purchase<br>before<br>image |  
-| bip_39_word_new_br4 | purchase<br>before<br>image<br>logic |  
-| bip_39_word_new_br5 | purchase<br>before<br>image<br>logic<br>rookie |  
-| bip_39_word_new_br6 | purchase<br>before<br>image<br>logic<br>rookie<br>alone |  
-| bip_39_word_new_br7 | purchase<br>before<br>image<br>logic<br>rookie<br>alone<br>page |  
-| bip_39_word_new_br8 | purchase<br>before<br>image<br>logic<br>rookie<br>alone<br>page<br>public |  
-| bip_39_word_new_br9 | purchase<br>before<br>image<br>logic<br>rookie<br>alone<br>page<br>public<br>sand |  
-| bip_39_word_new_line1 | purchase |  
-| bip_39_word_new_line10 | purchase
+| bip_39_word_new_br_1 | purchase |  
+| bip_39_word_new_br_10 | purchase<br>before<br>image<br>logic<br>rookie<br>alone<br>page<br>public<br>sand<br>uphold |  
+| bip_39_word_new_br_11 | purchase<br>before<br>image<br>logic<br>rookie<br>alone<br>page<br>public<br>sand<br>uphold<br>monitor |  
+| bip_39_word_new_br_12 | purchase<br>before<br>image<br>logic<br>rookie<br>alone<br>page<br>public<br>sand<br>uphold<br>monitor<br>acquire |  
+| bip_39_word_new_br_2 | purchase<br>before |  
+| bip_39_word_new_br_3 | purchase<br>before<br>image |  
+| bip_39_word_new_br_4 | purchase<br>before<br>image<br>logic |  
+| bip_39_word_new_br_5 | purchase<br>before<br>image<br>logic<br>rookie |  
+| bip_39_word_new_br_6 | purchase<br>before<br>image<br>logic<br>rookie<br>alone |  
+| bip_39_word_new_br_7 | purchase<br>before<br>image<br>logic<br>rookie<br>alone<br>page |  
+| bip_39_word_new_br_8 | purchase<br>before<br>image<br>logic<br>rookie<br>alone<br>page<br>public |  
+| bip_39_word_new_br_9 | purchase<br>before<br>image<br>logic<br>rookie<br>alone<br>page<br>public<br>sand |  
+| bip_39_word_new_line_1 | purchase |  
+| bip_39_word_new_line_10 | purchase
 before
 image
 logic
@@ -55,7 +55,7 @@ page
 public
 sand
 uphold |  
-| bip_39_word_new_line11 | purchase
+| bip_39_word_new_line_11 | purchase
 before
 image
 logic
@@ -66,7 +66,7 @@ public
 sand
 uphold
 monitor |  
-| bip_39_word_new_line12 | purchase
+| bip_39_word_new_line_12 | purchase
 before
 image
 logic
@@ -78,34 +78,34 @@ sand
 uphold
 monitor
 acquire |  
-| bip_39_word_new_line2 | purchase
+| bip_39_word_new_line_2 | purchase
 before |  
-| bip_39_word_new_line3 | purchase
+| bip_39_word_new_line_3 | purchase
 before
 image |  
-| bip_39_word_new_line4 | purchase
+| bip_39_word_new_line_4 | purchase
 before
 image
 logic |  
-| bip_39_word_new_line5 | purchase
+| bip_39_word_new_line_5 | purchase
 before
 image
 logic
 rookie |  
-| bip_39_word_new_line6 | purchase
+| bip_39_word_new_line_6 | purchase
 before
 image
 logic
 rookie
 alone |  
-| bip_39_word_new_line7 | purchase
+| bip_39_word_new_line_7 | purchase
 before
 image
 logic
 rookie
 alone
 page |  
-| bip_39_word_new_line8 | purchase
+| bip_39_word_new_line_8 | purchase
 before
 image
 logic
@@ -113,7 +113,7 @@ rookie
 alone
 page
 public |  
-| bip_39_word_new_line9 | purchase
+| bip_39_word_new_line_9 | purchase
 before
 image
 logic

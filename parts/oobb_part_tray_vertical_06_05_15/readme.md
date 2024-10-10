@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fetch |  
-| bip_39_word_new_br10 | fetch<br>hamster<br>process<br>arrow<br>spin<br>mercy<br>again<br>lizard<br>supreme<br>project |  
-| bip_39_word_new_br11 | fetch<br>hamster<br>process<br>arrow<br>spin<br>mercy<br>again<br>lizard<br>supreme<br>project<br>simple |  
-| bip_39_word_new_br12 | fetch<br>hamster<br>process<br>arrow<br>spin<br>mercy<br>again<br>lizard<br>supreme<br>project<br>simple<br>alert |  
-| bip_39_word_new_br2 | fetch<br>hamster |  
-| bip_39_word_new_br3 | fetch<br>hamster<br>process |  
-| bip_39_word_new_br4 | fetch<br>hamster<br>process<br>arrow |  
-| bip_39_word_new_br5 | fetch<br>hamster<br>process<br>arrow<br>spin |  
-| bip_39_word_new_br6 | fetch<br>hamster<br>process<br>arrow<br>spin<br>mercy |  
-| bip_39_word_new_br7 | fetch<br>hamster<br>process<br>arrow<br>spin<br>mercy<br>again |  
-| bip_39_word_new_br8 | fetch<br>hamster<br>process<br>arrow<br>spin<br>mercy<br>again<br>lizard |  
-| bip_39_word_new_br9 | fetch<br>hamster<br>process<br>arrow<br>spin<br>mercy<br>again<br>lizard<br>supreme |  
-| bip_39_word_new_line1 | fetch |  
-| bip_39_word_new_line10 | fetch
+| bip_39_word_new_br_1 | fetch |  
+| bip_39_word_new_br_10 | fetch<br>hamster<br>process<br>arrow<br>spin<br>mercy<br>again<br>lizard<br>supreme<br>project |  
+| bip_39_word_new_br_11 | fetch<br>hamster<br>process<br>arrow<br>spin<br>mercy<br>again<br>lizard<br>supreme<br>project<br>simple |  
+| bip_39_word_new_br_12 | fetch<br>hamster<br>process<br>arrow<br>spin<br>mercy<br>again<br>lizard<br>supreme<br>project<br>simple<br>alert |  
+| bip_39_word_new_br_2 | fetch<br>hamster |  
+| bip_39_word_new_br_3 | fetch<br>hamster<br>process |  
+| bip_39_word_new_br_4 | fetch<br>hamster<br>process<br>arrow |  
+| bip_39_word_new_br_5 | fetch<br>hamster<br>process<br>arrow<br>spin |  
+| bip_39_word_new_br_6 | fetch<br>hamster<br>process<br>arrow<br>spin<br>mercy |  
+| bip_39_word_new_br_7 | fetch<br>hamster<br>process<br>arrow<br>spin<br>mercy<br>again |  
+| bip_39_word_new_br_8 | fetch<br>hamster<br>process<br>arrow<br>spin<br>mercy<br>again<br>lizard |  
+| bip_39_word_new_br_9 | fetch<br>hamster<br>process<br>arrow<br>spin<br>mercy<br>again<br>lizard<br>supreme |  
+| bip_39_word_new_line_1 | fetch |  
+| bip_39_word_new_line_10 | fetch
 hamster
 process
 arrow
@@ -55,7 +55,7 @@ again
 lizard
 supreme
 project |  
-| bip_39_word_new_line11 | fetch
+| bip_39_word_new_line_11 | fetch
 hamster
 process
 arrow
@@ -66,7 +66,7 @@ lizard
 supreme
 project
 simple |  
-| bip_39_word_new_line12 | fetch
+| bip_39_word_new_line_12 | fetch
 hamster
 process
 arrow
@@ -78,34 +78,34 @@ supreme
 project
 simple
 alert |  
-| bip_39_word_new_line2 | fetch
+| bip_39_word_new_line_2 | fetch
 hamster |  
-| bip_39_word_new_line3 | fetch
+| bip_39_word_new_line_3 | fetch
 hamster
 process |  
-| bip_39_word_new_line4 | fetch
+| bip_39_word_new_line_4 | fetch
 hamster
 process
 arrow |  
-| bip_39_word_new_line5 | fetch
+| bip_39_word_new_line_5 | fetch
 hamster
 process
 arrow
 spin |  
-| bip_39_word_new_line6 | fetch
+| bip_39_word_new_line_6 | fetch
 hamster
 process
 arrow
 spin
 mercy |  
-| bip_39_word_new_line7 | fetch
+| bip_39_word_new_line_7 | fetch
 hamster
 process
 arrow
 spin
 mercy
 again |  
-| bip_39_word_new_line8 | fetch
+| bip_39_word_new_line_8 | fetch
 hamster
 process
 arrow
@@ -113,7 +113,7 @@ spin
 mercy
 again
 lizard |  
-| bip_39_word_new_line9 | fetch
+| bip_39_word_new_line_9 | fetch
 hamster
 process
 arrow

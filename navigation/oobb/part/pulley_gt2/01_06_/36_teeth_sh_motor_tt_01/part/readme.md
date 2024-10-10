@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | panic |  
-| bip_39_word_new_br10 | panic<br>mechanic<br>citizen<br>series<br>defy<br>enforce<br>core<br>unveil<br>family<br>friend |  
-| bip_39_word_new_br11 | panic<br>mechanic<br>citizen<br>series<br>defy<br>enforce<br>core<br>unveil<br>family<br>friend<br>month |  
-| bip_39_word_new_br12 | panic<br>mechanic<br>citizen<br>series<br>defy<br>enforce<br>core<br>unveil<br>family<br>friend<br>month<br>apology |  
-| bip_39_word_new_br2 | panic<br>mechanic |  
-| bip_39_word_new_br3 | panic<br>mechanic<br>citizen |  
-| bip_39_word_new_br4 | panic<br>mechanic<br>citizen<br>series |  
-| bip_39_word_new_br5 | panic<br>mechanic<br>citizen<br>series<br>defy |  
-| bip_39_word_new_br6 | panic<br>mechanic<br>citizen<br>series<br>defy<br>enforce |  
-| bip_39_word_new_br7 | panic<br>mechanic<br>citizen<br>series<br>defy<br>enforce<br>core |  
-| bip_39_word_new_br8 | panic<br>mechanic<br>citizen<br>series<br>defy<br>enforce<br>core<br>unveil |  
-| bip_39_word_new_br9 | panic<br>mechanic<br>citizen<br>series<br>defy<br>enforce<br>core<br>unveil<br>family |  
-| bip_39_word_new_line1 | panic |  
-| bip_39_word_new_line10 | panic
+| bip_39_word_new_br_1 | panic |  
+| bip_39_word_new_br_10 | panic<br>mechanic<br>citizen<br>series<br>defy<br>enforce<br>core<br>unveil<br>family<br>friend |  
+| bip_39_word_new_br_11 | panic<br>mechanic<br>citizen<br>series<br>defy<br>enforce<br>core<br>unveil<br>family<br>friend<br>month |  
+| bip_39_word_new_br_12 | panic<br>mechanic<br>citizen<br>series<br>defy<br>enforce<br>core<br>unveil<br>family<br>friend<br>month<br>apology |  
+| bip_39_word_new_br_2 | panic<br>mechanic |  
+| bip_39_word_new_br_3 | panic<br>mechanic<br>citizen |  
+| bip_39_word_new_br_4 | panic<br>mechanic<br>citizen<br>series |  
+| bip_39_word_new_br_5 | panic<br>mechanic<br>citizen<br>series<br>defy |  
+| bip_39_word_new_br_6 | panic<br>mechanic<br>citizen<br>series<br>defy<br>enforce |  
+| bip_39_word_new_br_7 | panic<br>mechanic<br>citizen<br>series<br>defy<br>enforce<br>core |  
+| bip_39_word_new_br_8 | panic<br>mechanic<br>citizen<br>series<br>defy<br>enforce<br>core<br>unveil |  
+| bip_39_word_new_br_9 | panic<br>mechanic<br>citizen<br>series<br>defy<br>enforce<br>core<br>unveil<br>family |  
+| bip_39_word_new_line_1 | panic |  
+| bip_39_word_new_line_10 | panic
 mechanic
 citizen
 series
@@ -55,7 +55,7 @@ core
 unveil
 family
 friend |  
-| bip_39_word_new_line11 | panic
+| bip_39_word_new_line_11 | panic
 mechanic
 citizen
 series
@@ -66,7 +66,7 @@ unveil
 family
 friend
 month |  
-| bip_39_word_new_line12 | panic
+| bip_39_word_new_line_12 | panic
 mechanic
 citizen
 series
@@ -78,34 +78,34 @@ family
 friend
 month
 apology |  
-| bip_39_word_new_line2 | panic
+| bip_39_word_new_line_2 | panic
 mechanic |  
-| bip_39_word_new_line3 | panic
+| bip_39_word_new_line_3 | panic
 mechanic
 citizen |  
-| bip_39_word_new_line4 | panic
+| bip_39_word_new_line_4 | panic
 mechanic
 citizen
 series |  
-| bip_39_word_new_line5 | panic
+| bip_39_word_new_line_5 | panic
 mechanic
 citizen
 series
 defy |  
-| bip_39_word_new_line6 | panic
+| bip_39_word_new_line_6 | panic
 mechanic
 citizen
 series
 defy
 enforce |  
-| bip_39_word_new_line7 | panic
+| bip_39_word_new_line_7 | panic
 mechanic
 citizen
 series
 defy
 enforce
 core |  
-| bip_39_word_new_line8 | panic
+| bip_39_word_new_line_8 | panic
 mechanic
 citizen
 series
@@ -113,7 +113,7 @@ defy
 enforce
 core
 unveil |  
-| bip_39_word_new_line9 | panic
+| bip_39_word_new_line_9 | panic
 mechanic
 citizen
 series

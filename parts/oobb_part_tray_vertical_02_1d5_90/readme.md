@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | edit |  
-| bip_39_word_new_br10 | edit<br>visual<br>hello<br>bronze<br>negative<br>clean<br>around<br>lawsuit<br>snow<br>awake |  
-| bip_39_word_new_br11 | edit<br>visual<br>hello<br>bronze<br>negative<br>clean<br>around<br>lawsuit<br>snow<br>awake<br>convince |  
-| bip_39_word_new_br12 | edit<br>visual<br>hello<br>bronze<br>negative<br>clean<br>around<br>lawsuit<br>snow<br>awake<br>convince<br>any |  
-| bip_39_word_new_br2 | edit<br>visual |  
-| bip_39_word_new_br3 | edit<br>visual<br>hello |  
-| bip_39_word_new_br4 | edit<br>visual<br>hello<br>bronze |  
-| bip_39_word_new_br5 | edit<br>visual<br>hello<br>bronze<br>negative |  
-| bip_39_word_new_br6 | edit<br>visual<br>hello<br>bronze<br>negative<br>clean |  
-| bip_39_word_new_br7 | edit<br>visual<br>hello<br>bronze<br>negative<br>clean<br>around |  
-| bip_39_word_new_br8 | edit<br>visual<br>hello<br>bronze<br>negative<br>clean<br>around<br>lawsuit |  
-| bip_39_word_new_br9 | edit<br>visual<br>hello<br>bronze<br>negative<br>clean<br>around<br>lawsuit<br>snow |  
-| bip_39_word_new_line1 | edit |  
-| bip_39_word_new_line10 | edit
+| bip_39_word_new_br_1 | edit |  
+| bip_39_word_new_br_10 | edit<br>visual<br>hello<br>bronze<br>negative<br>clean<br>around<br>lawsuit<br>snow<br>awake |  
+| bip_39_word_new_br_11 | edit<br>visual<br>hello<br>bronze<br>negative<br>clean<br>around<br>lawsuit<br>snow<br>awake<br>convince |  
+| bip_39_word_new_br_12 | edit<br>visual<br>hello<br>bronze<br>negative<br>clean<br>around<br>lawsuit<br>snow<br>awake<br>convince<br>any |  
+| bip_39_word_new_br_2 | edit<br>visual |  
+| bip_39_word_new_br_3 | edit<br>visual<br>hello |  
+| bip_39_word_new_br_4 | edit<br>visual<br>hello<br>bronze |  
+| bip_39_word_new_br_5 | edit<br>visual<br>hello<br>bronze<br>negative |  
+| bip_39_word_new_br_6 | edit<br>visual<br>hello<br>bronze<br>negative<br>clean |  
+| bip_39_word_new_br_7 | edit<br>visual<br>hello<br>bronze<br>negative<br>clean<br>around |  
+| bip_39_word_new_br_8 | edit<br>visual<br>hello<br>bronze<br>negative<br>clean<br>around<br>lawsuit |  
+| bip_39_word_new_br_9 | edit<br>visual<br>hello<br>bronze<br>negative<br>clean<br>around<br>lawsuit<br>snow |  
+| bip_39_word_new_line_1 | edit |  
+| bip_39_word_new_line_10 | edit
 visual
 hello
 bronze
@@ -55,7 +55,7 @@ around
 lawsuit
 snow
 awake |  
-| bip_39_word_new_line11 | edit
+| bip_39_word_new_line_11 | edit
 visual
 hello
 bronze
@@ -66,7 +66,7 @@ lawsuit
 snow
 awake
 convince |  
-| bip_39_word_new_line12 | edit
+| bip_39_word_new_line_12 | edit
 visual
 hello
 bronze
@@ -78,34 +78,34 @@ snow
 awake
 convince
 any |  
-| bip_39_word_new_line2 | edit
+| bip_39_word_new_line_2 | edit
 visual |  
-| bip_39_word_new_line3 | edit
+| bip_39_word_new_line_3 | edit
 visual
 hello |  
-| bip_39_word_new_line4 | edit
+| bip_39_word_new_line_4 | edit
 visual
 hello
 bronze |  
-| bip_39_word_new_line5 | edit
+| bip_39_word_new_line_5 | edit
 visual
 hello
 bronze
 negative |  
-| bip_39_word_new_line6 | edit
+| bip_39_word_new_line_6 | edit
 visual
 hello
 bronze
 negative
 clean |  
-| bip_39_word_new_line7 | edit
+| bip_39_word_new_line_7 | edit
 visual
 hello
 bronze
 negative
 clean
 around |  
-| bip_39_word_new_line8 | edit
+| bip_39_word_new_line_8 | edit
 visual
 hello
 bronze
@@ -113,7 +113,7 @@ negative
 clean
 around
 lawsuit |  
-| bip_39_word_new_line9 | edit
+| bip_39_word_new_line_9 | edit
 visual
 hello
 bronze

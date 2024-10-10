@@ -1,17 +1,17 @@
-bip_39_word_new_br1: water
-bip_39_word_new_br10: water<br>clump<br>soda<br>drama<br>wrong<br>negative<br>logic<br>burden<br>shed<br>mother
-bip_39_word_new_br11: water<br>clump<br>soda<br>drama<br>wrong<br>negative<br>logic<br>burden<br>shed<br>mother<br>despair
-bip_39_word_new_br12: water<br>clump<br>soda<br>drama<br>wrong<br>negative<br>logic<br>burden<br>shed<br>mother<br>despair<br>aspect
-bip_39_word_new_br2: water<br>clump
-bip_39_word_new_br3: water<br>clump<br>soda
-bip_39_word_new_br4: water<br>clump<br>soda<br>drama
-bip_39_word_new_br5: water<br>clump<br>soda<br>drama<br>wrong
-bip_39_word_new_br6: water<br>clump<br>soda<br>drama<br>wrong<br>negative
-bip_39_word_new_br7: water<br>clump<br>soda<br>drama<br>wrong<br>negative<br>logic
-bip_39_word_new_br8: water<br>clump<br>soda<br>drama<br>wrong<br>negative<br>logic<br>burden
-bip_39_word_new_br9: water<br>clump<br>soda<br>drama<br>wrong<br>negative<br>logic<br>burden<br>shed
-bip_39_word_new_line1: water
-bip_39_word_new_line10: 'water
+bip_39_word_new_br_1: water
+bip_39_word_new_br_10: water<br>clump<br>soda<br>drama<br>wrong<br>negative<br>logic<br>burden<br>shed<br>mother
+bip_39_word_new_br_11: water<br>clump<br>soda<br>drama<br>wrong<br>negative<br>logic<br>burden<br>shed<br>mother<br>despair
+bip_39_word_new_br_12: water<br>clump<br>soda<br>drama<br>wrong<br>negative<br>logic<br>burden<br>shed<br>mother<br>despair<br>aspect
+bip_39_word_new_br_2: water<br>clump
+bip_39_word_new_br_3: water<br>clump<br>soda
+bip_39_word_new_br_4: water<br>clump<br>soda<br>drama
+bip_39_word_new_br_5: water<br>clump<br>soda<br>drama<br>wrong
+bip_39_word_new_br_6: water<br>clump<br>soda<br>drama<br>wrong<br>negative
+bip_39_word_new_br_7: water<br>clump<br>soda<br>drama<br>wrong<br>negative<br>logic
+bip_39_word_new_br_8: water<br>clump<br>soda<br>drama<br>wrong<br>negative<br>logic<br>burden
+bip_39_word_new_br_9: water<br>clump<br>soda<br>drama<br>wrong<br>negative<br>logic<br>burden<br>shed
+bip_39_word_new_line_1: water
+bip_39_word_new_line_10: 'water
 
   clump
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'water
   shed
 
   mother'
-bip_39_word_new_line11: 'water
+bip_39_word_new_line_11: 'water
 
   clump
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'water
   mother
 
   despair'
-bip_39_word_new_line12: 'water
+bip_39_word_new_line_12: 'water
 
   clump
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'water
   despair
 
   aspect'
-bip_39_word_new_line2: 'water
+bip_39_word_new_line_2: 'water
 
   clump'
-bip_39_word_new_line3: 'water
+bip_39_word_new_line_3: 'water
 
   clump
 
   soda'
-bip_39_word_new_line4: 'water
+bip_39_word_new_line_4: 'water
 
   clump
 
   soda
 
   drama'
-bip_39_word_new_line5: 'water
+bip_39_word_new_line_5: 'water
 
   clump
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'water
   drama
 
   wrong'
-bip_39_word_new_line6: 'water
+bip_39_word_new_line_6: 'water
 
   clump
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'water
   wrong
 
   negative'
-bip_39_word_new_line7: 'water
+bip_39_word_new_line_7: 'water
 
   clump
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'water
   negative
 
   logic'
-bip_39_word_new_line8: 'water
+bip_39_word_new_line_8: 'water
 
   clump
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'water
   logic
 
   burden'
-bip_39_word_new_line9: 'water
+bip_39_word_new_line_9: 'water
 
   clump
 

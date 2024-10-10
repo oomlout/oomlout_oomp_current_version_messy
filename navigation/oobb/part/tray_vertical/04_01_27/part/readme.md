@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | combine |  
-| bip_39_word_new_br10 | combine<br>sugar<br>yellow<br>arch<br>love<br>scatter<br>sugar<br>defy<br>fabric<br>must |  
-| bip_39_word_new_br11 | combine<br>sugar<br>yellow<br>arch<br>love<br>scatter<br>sugar<br>defy<br>fabric<br>must<br>skirt |  
-| bip_39_word_new_br12 | combine<br>sugar<br>yellow<br>arch<br>love<br>scatter<br>sugar<br>defy<br>fabric<br>must<br>skirt<br>absurd |  
-| bip_39_word_new_br2 | combine<br>sugar |  
-| bip_39_word_new_br3 | combine<br>sugar<br>yellow |  
-| bip_39_word_new_br4 | combine<br>sugar<br>yellow<br>arch |  
-| bip_39_word_new_br5 | combine<br>sugar<br>yellow<br>arch<br>love |  
-| bip_39_word_new_br6 | combine<br>sugar<br>yellow<br>arch<br>love<br>scatter |  
-| bip_39_word_new_br7 | combine<br>sugar<br>yellow<br>arch<br>love<br>scatter<br>sugar |  
-| bip_39_word_new_br8 | combine<br>sugar<br>yellow<br>arch<br>love<br>scatter<br>sugar<br>defy |  
-| bip_39_word_new_br9 | combine<br>sugar<br>yellow<br>arch<br>love<br>scatter<br>sugar<br>defy<br>fabric |  
-| bip_39_word_new_line1 | combine |  
-| bip_39_word_new_line10 | combine
+| bip_39_word_new_br_1 | combine |  
+| bip_39_word_new_br_10 | combine<br>sugar<br>yellow<br>arch<br>love<br>scatter<br>sugar<br>defy<br>fabric<br>must |  
+| bip_39_word_new_br_11 | combine<br>sugar<br>yellow<br>arch<br>love<br>scatter<br>sugar<br>defy<br>fabric<br>must<br>skirt |  
+| bip_39_word_new_br_12 | combine<br>sugar<br>yellow<br>arch<br>love<br>scatter<br>sugar<br>defy<br>fabric<br>must<br>skirt<br>absurd |  
+| bip_39_word_new_br_2 | combine<br>sugar |  
+| bip_39_word_new_br_3 | combine<br>sugar<br>yellow |  
+| bip_39_word_new_br_4 | combine<br>sugar<br>yellow<br>arch |  
+| bip_39_word_new_br_5 | combine<br>sugar<br>yellow<br>arch<br>love |  
+| bip_39_word_new_br_6 | combine<br>sugar<br>yellow<br>arch<br>love<br>scatter |  
+| bip_39_word_new_br_7 | combine<br>sugar<br>yellow<br>arch<br>love<br>scatter<br>sugar |  
+| bip_39_word_new_br_8 | combine<br>sugar<br>yellow<br>arch<br>love<br>scatter<br>sugar<br>defy |  
+| bip_39_word_new_br_9 | combine<br>sugar<br>yellow<br>arch<br>love<br>scatter<br>sugar<br>defy<br>fabric |  
+| bip_39_word_new_line_1 | combine |  
+| bip_39_word_new_line_10 | combine
 sugar
 yellow
 arch
@@ -55,7 +55,7 @@ sugar
 defy
 fabric
 must |  
-| bip_39_word_new_line11 | combine
+| bip_39_word_new_line_11 | combine
 sugar
 yellow
 arch
@@ -66,7 +66,7 @@ defy
 fabric
 must
 skirt |  
-| bip_39_word_new_line12 | combine
+| bip_39_word_new_line_12 | combine
 sugar
 yellow
 arch
@@ -78,34 +78,34 @@ fabric
 must
 skirt
 absurd |  
-| bip_39_word_new_line2 | combine
+| bip_39_word_new_line_2 | combine
 sugar |  
-| bip_39_word_new_line3 | combine
+| bip_39_word_new_line_3 | combine
 sugar
 yellow |  
-| bip_39_word_new_line4 | combine
+| bip_39_word_new_line_4 | combine
 sugar
 yellow
 arch |  
-| bip_39_word_new_line5 | combine
+| bip_39_word_new_line_5 | combine
 sugar
 yellow
 arch
 love |  
-| bip_39_word_new_line6 | combine
+| bip_39_word_new_line_6 | combine
 sugar
 yellow
 arch
 love
 scatter |  
-| bip_39_word_new_line7 | combine
+| bip_39_word_new_line_7 | combine
 sugar
 yellow
 arch
 love
 scatter
 sugar |  
-| bip_39_word_new_line8 | combine
+| bip_39_word_new_line_8 | combine
 sugar
 yellow
 arch
@@ -113,7 +113,7 @@ love
 scatter
 sugar
 defy |  
-| bip_39_word_new_line9 | combine
+| bip_39_word_new_line_9 | combine
 sugar
 yellow
 arch

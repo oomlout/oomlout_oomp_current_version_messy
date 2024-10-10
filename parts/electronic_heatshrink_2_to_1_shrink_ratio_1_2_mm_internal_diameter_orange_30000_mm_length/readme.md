@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sign |  
-| bip_39_word_new_br10 | sign<br>satoshi<br>history<br>lion<br>victory<br>drama<br>eternal<br>toward<br>address<br>kitten |  
-| bip_39_word_new_br11 | sign<br>satoshi<br>history<br>lion<br>victory<br>drama<br>eternal<br>toward<br>address<br>kitten<br>emerge |  
-| bip_39_word_new_br12 | sign<br>satoshi<br>history<br>lion<br>victory<br>drama<br>eternal<br>toward<br>address<br>kitten<br>emerge<br>allow |  
-| bip_39_word_new_br2 | sign<br>satoshi |  
-| bip_39_word_new_br3 | sign<br>satoshi<br>history |  
-| bip_39_word_new_br4 | sign<br>satoshi<br>history<br>lion |  
-| bip_39_word_new_br5 | sign<br>satoshi<br>history<br>lion<br>victory |  
-| bip_39_word_new_br6 | sign<br>satoshi<br>history<br>lion<br>victory<br>drama |  
-| bip_39_word_new_br7 | sign<br>satoshi<br>history<br>lion<br>victory<br>drama<br>eternal |  
-| bip_39_word_new_br8 | sign<br>satoshi<br>history<br>lion<br>victory<br>drama<br>eternal<br>toward |  
-| bip_39_word_new_br9 | sign<br>satoshi<br>history<br>lion<br>victory<br>drama<br>eternal<br>toward<br>address |  
-| bip_39_word_new_line1 | sign |  
-| bip_39_word_new_line10 | sign
+| bip_39_word_new_br_1 | sign |  
+| bip_39_word_new_br_10 | sign<br>satoshi<br>history<br>lion<br>victory<br>drama<br>eternal<br>toward<br>address<br>kitten |  
+| bip_39_word_new_br_11 | sign<br>satoshi<br>history<br>lion<br>victory<br>drama<br>eternal<br>toward<br>address<br>kitten<br>emerge |  
+| bip_39_word_new_br_12 | sign<br>satoshi<br>history<br>lion<br>victory<br>drama<br>eternal<br>toward<br>address<br>kitten<br>emerge<br>allow |  
+| bip_39_word_new_br_2 | sign<br>satoshi |  
+| bip_39_word_new_br_3 | sign<br>satoshi<br>history |  
+| bip_39_word_new_br_4 | sign<br>satoshi<br>history<br>lion |  
+| bip_39_word_new_br_5 | sign<br>satoshi<br>history<br>lion<br>victory |  
+| bip_39_word_new_br_6 | sign<br>satoshi<br>history<br>lion<br>victory<br>drama |  
+| bip_39_word_new_br_7 | sign<br>satoshi<br>history<br>lion<br>victory<br>drama<br>eternal |  
+| bip_39_word_new_br_8 | sign<br>satoshi<br>history<br>lion<br>victory<br>drama<br>eternal<br>toward |  
+| bip_39_word_new_br_9 | sign<br>satoshi<br>history<br>lion<br>victory<br>drama<br>eternal<br>toward<br>address |  
+| bip_39_word_new_line_1 | sign |  
+| bip_39_word_new_line_10 | sign
 satoshi
 history
 lion
@@ -55,7 +55,7 @@ eternal
 toward
 address
 kitten |  
-| bip_39_word_new_line11 | sign
+| bip_39_word_new_line_11 | sign
 satoshi
 history
 lion
@@ -66,7 +66,7 @@ toward
 address
 kitten
 emerge |  
-| bip_39_word_new_line12 | sign
+| bip_39_word_new_line_12 | sign
 satoshi
 history
 lion
@@ -78,34 +78,34 @@ address
 kitten
 emerge
 allow |  
-| bip_39_word_new_line2 | sign
+| bip_39_word_new_line_2 | sign
 satoshi |  
-| bip_39_word_new_line3 | sign
+| bip_39_word_new_line_3 | sign
 satoshi
 history |  
-| bip_39_word_new_line4 | sign
+| bip_39_word_new_line_4 | sign
 satoshi
 history
 lion |  
-| bip_39_word_new_line5 | sign
+| bip_39_word_new_line_5 | sign
 satoshi
 history
 lion
 victory |  
-| bip_39_word_new_line6 | sign
+| bip_39_word_new_line_6 | sign
 satoshi
 history
 lion
 victory
 drama |  
-| bip_39_word_new_line7 | sign
+| bip_39_word_new_line_7 | sign
 satoshi
 history
 lion
 victory
 drama
 eternal |  
-| bip_39_word_new_line8 | sign
+| bip_39_word_new_line_8 | sign
 satoshi
 history
 lion
@@ -113,7 +113,7 @@ victory
 drama
 eternal
 toward |  
-| bip_39_word_new_line9 | sign
+| bip_39_word_new_line_9 | sign
 satoshi
 history
 lion

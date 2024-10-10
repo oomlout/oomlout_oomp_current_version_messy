@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | else |  
-| bip_39_word_new_br10 | else<br>age<br>pony<br>peace<br>light<br>supply<br>evidence<br>cool<br>moral<br>toward |  
-| bip_39_word_new_br11 | else<br>age<br>pony<br>peace<br>light<br>supply<br>evidence<br>cool<br>moral<br>toward<br>speak |  
-| bip_39_word_new_br12 | else<br>age<br>pony<br>peace<br>light<br>supply<br>evidence<br>cool<br>moral<br>toward<br>speak<br>afford |  
-| bip_39_word_new_br2 | else<br>age |  
-| bip_39_word_new_br3 | else<br>age<br>pony |  
-| bip_39_word_new_br4 | else<br>age<br>pony<br>peace |  
-| bip_39_word_new_br5 | else<br>age<br>pony<br>peace<br>light |  
-| bip_39_word_new_br6 | else<br>age<br>pony<br>peace<br>light<br>supply |  
-| bip_39_word_new_br7 | else<br>age<br>pony<br>peace<br>light<br>supply<br>evidence |  
-| bip_39_word_new_br8 | else<br>age<br>pony<br>peace<br>light<br>supply<br>evidence<br>cool |  
-| bip_39_word_new_br9 | else<br>age<br>pony<br>peace<br>light<br>supply<br>evidence<br>cool<br>moral |  
-| bip_39_word_new_line1 | else |  
-| bip_39_word_new_line10 | else
+| bip_39_word_new_br_1 | else |  
+| bip_39_word_new_br_10 | else<br>age<br>pony<br>peace<br>light<br>supply<br>evidence<br>cool<br>moral<br>toward |  
+| bip_39_word_new_br_11 | else<br>age<br>pony<br>peace<br>light<br>supply<br>evidence<br>cool<br>moral<br>toward<br>speak |  
+| bip_39_word_new_br_12 | else<br>age<br>pony<br>peace<br>light<br>supply<br>evidence<br>cool<br>moral<br>toward<br>speak<br>afford |  
+| bip_39_word_new_br_2 | else<br>age |  
+| bip_39_word_new_br_3 | else<br>age<br>pony |  
+| bip_39_word_new_br_4 | else<br>age<br>pony<br>peace |  
+| bip_39_word_new_br_5 | else<br>age<br>pony<br>peace<br>light |  
+| bip_39_word_new_br_6 | else<br>age<br>pony<br>peace<br>light<br>supply |  
+| bip_39_word_new_br_7 | else<br>age<br>pony<br>peace<br>light<br>supply<br>evidence |  
+| bip_39_word_new_br_8 | else<br>age<br>pony<br>peace<br>light<br>supply<br>evidence<br>cool |  
+| bip_39_word_new_br_9 | else<br>age<br>pony<br>peace<br>light<br>supply<br>evidence<br>cool<br>moral |  
+| bip_39_word_new_line_1 | else |  
+| bip_39_word_new_line_10 | else
 age
 pony
 peace
@@ -55,7 +55,7 @@ evidence
 cool
 moral
 toward |  
-| bip_39_word_new_line11 | else
+| bip_39_word_new_line_11 | else
 age
 pony
 peace
@@ -66,7 +66,7 @@ cool
 moral
 toward
 speak |  
-| bip_39_word_new_line12 | else
+| bip_39_word_new_line_12 | else
 age
 pony
 peace
@@ -78,34 +78,34 @@ moral
 toward
 speak
 afford |  
-| bip_39_word_new_line2 | else
+| bip_39_word_new_line_2 | else
 age |  
-| bip_39_word_new_line3 | else
+| bip_39_word_new_line_3 | else
 age
 pony |  
-| bip_39_word_new_line4 | else
+| bip_39_word_new_line_4 | else
 age
 pony
 peace |  
-| bip_39_word_new_line5 | else
+| bip_39_word_new_line_5 | else
 age
 pony
 peace
 light |  
-| bip_39_word_new_line6 | else
+| bip_39_word_new_line_6 | else
 age
 pony
 peace
 light
 supply |  
-| bip_39_word_new_line7 | else
+| bip_39_word_new_line_7 | else
 age
 pony
 peace
 light
 supply
 evidence |  
-| bip_39_word_new_line8 | else
+| bip_39_word_new_line_8 | else
 age
 pony
 peace
@@ -113,7 +113,7 @@ light
 supply
 evidence
 cool |  
-| bip_39_word_new_line9 | else
+| bip_39_word_new_line_9 | else
 age
 pony
 peace

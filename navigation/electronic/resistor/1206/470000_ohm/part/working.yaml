@@ -1,17 +1,17 @@
-bip_39_word_new_br1: melt
-bip_39_word_new_br10: melt<br>cannon<br>misery<br>erode<br>fog<br>walnut<br>style<br>write<br>sign<br>task
-bip_39_word_new_br11: melt<br>cannon<br>misery<br>erode<br>fog<br>walnut<br>style<br>write<br>sign<br>task<br>fade
-bip_39_word_new_br12: melt<br>cannon<br>misery<br>erode<br>fog<br>walnut<br>style<br>write<br>sign<br>task<br>fade<br>afford
-bip_39_word_new_br2: melt<br>cannon
-bip_39_word_new_br3: melt<br>cannon<br>misery
-bip_39_word_new_br4: melt<br>cannon<br>misery<br>erode
-bip_39_word_new_br5: melt<br>cannon<br>misery<br>erode<br>fog
-bip_39_word_new_br6: melt<br>cannon<br>misery<br>erode<br>fog<br>walnut
-bip_39_word_new_br7: melt<br>cannon<br>misery<br>erode<br>fog<br>walnut<br>style
-bip_39_word_new_br8: melt<br>cannon<br>misery<br>erode<br>fog<br>walnut<br>style<br>write
-bip_39_word_new_br9: melt<br>cannon<br>misery<br>erode<br>fog<br>walnut<br>style<br>write<br>sign
-bip_39_word_new_line1: melt
-bip_39_word_new_line10: 'melt
+bip_39_word_new_br_1: melt
+bip_39_word_new_br_10: melt<br>cannon<br>misery<br>erode<br>fog<br>walnut<br>style<br>write<br>sign<br>task
+bip_39_word_new_br_11: melt<br>cannon<br>misery<br>erode<br>fog<br>walnut<br>style<br>write<br>sign<br>task<br>fade
+bip_39_word_new_br_12: melt<br>cannon<br>misery<br>erode<br>fog<br>walnut<br>style<br>write<br>sign<br>task<br>fade<br>afford
+bip_39_word_new_br_2: melt<br>cannon
+bip_39_word_new_br_3: melt<br>cannon<br>misery
+bip_39_word_new_br_4: melt<br>cannon<br>misery<br>erode
+bip_39_word_new_br_5: melt<br>cannon<br>misery<br>erode<br>fog
+bip_39_word_new_br_6: melt<br>cannon<br>misery<br>erode<br>fog<br>walnut
+bip_39_word_new_br_7: melt<br>cannon<br>misery<br>erode<br>fog<br>walnut<br>style
+bip_39_word_new_br_8: melt<br>cannon<br>misery<br>erode<br>fog<br>walnut<br>style<br>write
+bip_39_word_new_br_9: melt<br>cannon<br>misery<br>erode<br>fog<br>walnut<br>style<br>write<br>sign
+bip_39_word_new_line_1: melt
+bip_39_word_new_line_10: 'melt
 
   cannon
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'melt
   sign
 
   task'
-bip_39_word_new_line11: 'melt
+bip_39_word_new_line_11: 'melt
 
   cannon
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'melt
   task
 
   fade'
-bip_39_word_new_line12: 'melt
+bip_39_word_new_line_12: 'melt
 
   cannon
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'melt
   fade
 
   afford'
-bip_39_word_new_line2: 'melt
+bip_39_word_new_line_2: 'melt
 
   cannon'
-bip_39_word_new_line3: 'melt
+bip_39_word_new_line_3: 'melt
 
   cannon
 
   misery'
-bip_39_word_new_line4: 'melt
+bip_39_word_new_line_4: 'melt
 
   cannon
 
   misery
 
   erode'
-bip_39_word_new_line5: 'melt
+bip_39_word_new_line_5: 'melt
 
   cannon
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'melt
   erode
 
   fog'
-bip_39_word_new_line6: 'melt
+bip_39_word_new_line_6: 'melt
 
   cannon
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'melt
   fog
 
   walnut'
-bip_39_word_new_line7: 'melt
+bip_39_word_new_line_7: 'melt
 
   cannon
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'melt
   walnut
 
   style'
-bip_39_word_new_line8: 'melt
+bip_39_word_new_line_8: 'melt
 
   cannon
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'melt
   style
 
   write'
-bip_39_word_new_line9: 'melt
+bip_39_word_new_line_9: 'melt
 
   cannon
 

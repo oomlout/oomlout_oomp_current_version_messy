@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | morning |  
-| bip_39_word_new_br10 | morning<br>negative<br>hen<br>vast<br>ranch<br>alley<br>chunk<br>april<br>aim<br>coach |  
-| bip_39_word_new_br11 | morning<br>negative<br>hen<br>vast<br>ranch<br>alley<br>chunk<br>april<br>aim<br>coach<br>fat |  
-| bip_39_word_new_br12 | morning<br>negative<br>hen<br>vast<br>ranch<br>alley<br>chunk<br>april<br>aim<br>coach<br>fat<br>athlete |  
-| bip_39_word_new_br2 | morning<br>negative |  
-| bip_39_word_new_br3 | morning<br>negative<br>hen |  
-| bip_39_word_new_br4 | morning<br>negative<br>hen<br>vast |  
-| bip_39_word_new_br5 | morning<br>negative<br>hen<br>vast<br>ranch |  
-| bip_39_word_new_br6 | morning<br>negative<br>hen<br>vast<br>ranch<br>alley |  
-| bip_39_word_new_br7 | morning<br>negative<br>hen<br>vast<br>ranch<br>alley<br>chunk |  
-| bip_39_word_new_br8 | morning<br>negative<br>hen<br>vast<br>ranch<br>alley<br>chunk<br>april |  
-| bip_39_word_new_br9 | morning<br>negative<br>hen<br>vast<br>ranch<br>alley<br>chunk<br>april<br>aim |  
-| bip_39_word_new_line1 | morning |  
-| bip_39_word_new_line10 | morning
+| bip_39_word_new_br_1 | morning |  
+| bip_39_word_new_br_10 | morning<br>negative<br>hen<br>vast<br>ranch<br>alley<br>chunk<br>april<br>aim<br>coach |  
+| bip_39_word_new_br_11 | morning<br>negative<br>hen<br>vast<br>ranch<br>alley<br>chunk<br>april<br>aim<br>coach<br>fat |  
+| bip_39_word_new_br_12 | morning<br>negative<br>hen<br>vast<br>ranch<br>alley<br>chunk<br>april<br>aim<br>coach<br>fat<br>athlete |  
+| bip_39_word_new_br_2 | morning<br>negative |  
+| bip_39_word_new_br_3 | morning<br>negative<br>hen |  
+| bip_39_word_new_br_4 | morning<br>negative<br>hen<br>vast |  
+| bip_39_word_new_br_5 | morning<br>negative<br>hen<br>vast<br>ranch |  
+| bip_39_word_new_br_6 | morning<br>negative<br>hen<br>vast<br>ranch<br>alley |  
+| bip_39_word_new_br_7 | morning<br>negative<br>hen<br>vast<br>ranch<br>alley<br>chunk |  
+| bip_39_word_new_br_8 | morning<br>negative<br>hen<br>vast<br>ranch<br>alley<br>chunk<br>april |  
+| bip_39_word_new_br_9 | morning<br>negative<br>hen<br>vast<br>ranch<br>alley<br>chunk<br>april<br>aim |  
+| bip_39_word_new_line_1 | morning |  
+| bip_39_word_new_line_10 | morning
 negative
 hen
 vast
@@ -55,7 +55,7 @@ chunk
 april
 aim
 coach |  
-| bip_39_word_new_line11 | morning
+| bip_39_word_new_line_11 | morning
 negative
 hen
 vast
@@ -66,7 +66,7 @@ april
 aim
 coach
 fat |  
-| bip_39_word_new_line12 | morning
+| bip_39_word_new_line_12 | morning
 negative
 hen
 vast
@@ -78,34 +78,34 @@ aim
 coach
 fat
 athlete |  
-| bip_39_word_new_line2 | morning
+| bip_39_word_new_line_2 | morning
 negative |  
-| bip_39_word_new_line3 | morning
+| bip_39_word_new_line_3 | morning
 negative
 hen |  
-| bip_39_word_new_line4 | morning
+| bip_39_word_new_line_4 | morning
 negative
 hen
 vast |  
-| bip_39_word_new_line5 | morning
+| bip_39_word_new_line_5 | morning
 negative
 hen
 vast
 ranch |  
-| bip_39_word_new_line6 | morning
+| bip_39_word_new_line_6 | morning
 negative
 hen
 vast
 ranch
 alley |  
-| bip_39_word_new_line7 | morning
+| bip_39_word_new_line_7 | morning
 negative
 hen
 vast
 ranch
 alley
 chunk |  
-| bip_39_word_new_line8 | morning
+| bip_39_word_new_line_8 | morning
 negative
 hen
 vast
@@ -113,7 +113,7 @@ ranch
 alley
 chunk
 april |  
-| bip_39_word_new_line9 | morning
+| bip_39_word_new_line_9 | morning
 negative
 hen
 vast

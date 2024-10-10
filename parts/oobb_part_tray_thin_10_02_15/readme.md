@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | because |  
-| bip_39_word_new_br10 | because<br>trim<br>lazy<br>double<br>door<br>begin<br>theory<br>install<br>border<br>survey |  
-| bip_39_word_new_br11 | because<br>trim<br>lazy<br>double<br>door<br>begin<br>theory<br>install<br>border<br>survey<br>soon |  
-| bip_39_word_new_br12 | because<br>trim<br>lazy<br>double<br>door<br>begin<br>theory<br>install<br>border<br>survey<br>soon<br>addict |  
-| bip_39_word_new_br2 | because<br>trim |  
-| bip_39_word_new_br3 | because<br>trim<br>lazy |  
-| bip_39_word_new_br4 | because<br>trim<br>lazy<br>double |  
-| bip_39_word_new_br5 | because<br>trim<br>lazy<br>double<br>door |  
-| bip_39_word_new_br6 | because<br>trim<br>lazy<br>double<br>door<br>begin |  
-| bip_39_word_new_br7 | because<br>trim<br>lazy<br>double<br>door<br>begin<br>theory |  
-| bip_39_word_new_br8 | because<br>trim<br>lazy<br>double<br>door<br>begin<br>theory<br>install |  
-| bip_39_word_new_br9 | because<br>trim<br>lazy<br>double<br>door<br>begin<br>theory<br>install<br>border |  
-| bip_39_word_new_line1 | because |  
-| bip_39_word_new_line10 | because
+| bip_39_word_new_br_1 | because |  
+| bip_39_word_new_br_10 | because<br>trim<br>lazy<br>double<br>door<br>begin<br>theory<br>install<br>border<br>survey |  
+| bip_39_word_new_br_11 | because<br>trim<br>lazy<br>double<br>door<br>begin<br>theory<br>install<br>border<br>survey<br>soon |  
+| bip_39_word_new_br_12 | because<br>trim<br>lazy<br>double<br>door<br>begin<br>theory<br>install<br>border<br>survey<br>soon<br>addict |  
+| bip_39_word_new_br_2 | because<br>trim |  
+| bip_39_word_new_br_3 | because<br>trim<br>lazy |  
+| bip_39_word_new_br_4 | because<br>trim<br>lazy<br>double |  
+| bip_39_word_new_br_5 | because<br>trim<br>lazy<br>double<br>door |  
+| bip_39_word_new_br_6 | because<br>trim<br>lazy<br>double<br>door<br>begin |  
+| bip_39_word_new_br_7 | because<br>trim<br>lazy<br>double<br>door<br>begin<br>theory |  
+| bip_39_word_new_br_8 | because<br>trim<br>lazy<br>double<br>door<br>begin<br>theory<br>install |  
+| bip_39_word_new_br_9 | because<br>trim<br>lazy<br>double<br>door<br>begin<br>theory<br>install<br>border |  
+| bip_39_word_new_line_1 | because |  
+| bip_39_word_new_line_10 | because
 trim
 lazy
 double
@@ -55,7 +55,7 @@ theory
 install
 border
 survey |  
-| bip_39_word_new_line11 | because
+| bip_39_word_new_line_11 | because
 trim
 lazy
 double
@@ -66,7 +66,7 @@ install
 border
 survey
 soon |  
-| bip_39_word_new_line12 | because
+| bip_39_word_new_line_12 | because
 trim
 lazy
 double
@@ -78,34 +78,34 @@ border
 survey
 soon
 addict |  
-| bip_39_word_new_line2 | because
+| bip_39_word_new_line_2 | because
 trim |  
-| bip_39_word_new_line3 | because
+| bip_39_word_new_line_3 | because
 trim
 lazy |  
-| bip_39_word_new_line4 | because
+| bip_39_word_new_line_4 | because
 trim
 lazy
 double |  
-| bip_39_word_new_line5 | because
+| bip_39_word_new_line_5 | because
 trim
 lazy
 double
 door |  
-| bip_39_word_new_line6 | because
+| bip_39_word_new_line_6 | because
 trim
 lazy
 double
 door
 begin |  
-| bip_39_word_new_line7 | because
+| bip_39_word_new_line_7 | because
 trim
 lazy
 double
 door
 begin
 theory |  
-| bip_39_word_new_line8 | because
+| bip_39_word_new_line_8 | because
 trim
 lazy
 double
@@ -113,7 +113,7 @@ door
 begin
 theory
 install |  
-| bip_39_word_new_line9 | because
+| bip_39_word_new_line_9 | because
 trim
 lazy
 double

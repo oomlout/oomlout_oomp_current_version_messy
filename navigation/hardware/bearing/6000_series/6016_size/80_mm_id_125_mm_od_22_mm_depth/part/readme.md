@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | genius |  
-| bip_39_word_new_br10 | genius<br>lottery<br>tent<br>comic<br>enable<br>valve<br>frequent<br>bird<br>artist<br>liberty |  
-| bip_39_word_new_br11 | genius<br>lottery<br>tent<br>comic<br>enable<br>valve<br>frequent<br>bird<br>artist<br>liberty<br>valid |  
-| bip_39_word_new_br12 | genius<br>lottery<br>tent<br>comic<br>enable<br>valve<br>frequent<br>bird<br>artist<br>liberty<br>valid<br>artwork |  
-| bip_39_word_new_br2 | genius<br>lottery |  
-| bip_39_word_new_br3 | genius<br>lottery<br>tent |  
-| bip_39_word_new_br4 | genius<br>lottery<br>tent<br>comic |  
-| bip_39_word_new_br5 | genius<br>lottery<br>tent<br>comic<br>enable |  
-| bip_39_word_new_br6 | genius<br>lottery<br>tent<br>comic<br>enable<br>valve |  
-| bip_39_word_new_br7 | genius<br>lottery<br>tent<br>comic<br>enable<br>valve<br>frequent |  
-| bip_39_word_new_br8 | genius<br>lottery<br>tent<br>comic<br>enable<br>valve<br>frequent<br>bird |  
-| bip_39_word_new_br9 | genius<br>lottery<br>tent<br>comic<br>enable<br>valve<br>frequent<br>bird<br>artist |  
-| bip_39_word_new_line1 | genius |  
-| bip_39_word_new_line10 | genius
+| bip_39_word_new_br_1 | genius |  
+| bip_39_word_new_br_10 | genius<br>lottery<br>tent<br>comic<br>enable<br>valve<br>frequent<br>bird<br>artist<br>liberty |  
+| bip_39_word_new_br_11 | genius<br>lottery<br>tent<br>comic<br>enable<br>valve<br>frequent<br>bird<br>artist<br>liberty<br>valid |  
+| bip_39_word_new_br_12 | genius<br>lottery<br>tent<br>comic<br>enable<br>valve<br>frequent<br>bird<br>artist<br>liberty<br>valid<br>artwork |  
+| bip_39_word_new_br_2 | genius<br>lottery |  
+| bip_39_word_new_br_3 | genius<br>lottery<br>tent |  
+| bip_39_word_new_br_4 | genius<br>lottery<br>tent<br>comic |  
+| bip_39_word_new_br_5 | genius<br>lottery<br>tent<br>comic<br>enable |  
+| bip_39_word_new_br_6 | genius<br>lottery<br>tent<br>comic<br>enable<br>valve |  
+| bip_39_word_new_br_7 | genius<br>lottery<br>tent<br>comic<br>enable<br>valve<br>frequent |  
+| bip_39_word_new_br_8 | genius<br>lottery<br>tent<br>comic<br>enable<br>valve<br>frequent<br>bird |  
+| bip_39_word_new_br_9 | genius<br>lottery<br>tent<br>comic<br>enable<br>valve<br>frequent<br>bird<br>artist |  
+| bip_39_word_new_line_1 | genius |  
+| bip_39_word_new_line_10 | genius
 lottery
 tent
 comic
@@ -55,7 +55,7 @@ frequent
 bird
 artist
 liberty |  
-| bip_39_word_new_line11 | genius
+| bip_39_word_new_line_11 | genius
 lottery
 tent
 comic
@@ -66,7 +66,7 @@ bird
 artist
 liberty
 valid |  
-| bip_39_word_new_line12 | genius
+| bip_39_word_new_line_12 | genius
 lottery
 tent
 comic
@@ -78,34 +78,34 @@ artist
 liberty
 valid
 artwork |  
-| bip_39_word_new_line2 | genius
+| bip_39_word_new_line_2 | genius
 lottery |  
-| bip_39_word_new_line3 | genius
+| bip_39_word_new_line_3 | genius
 lottery
 tent |  
-| bip_39_word_new_line4 | genius
+| bip_39_word_new_line_4 | genius
 lottery
 tent
 comic |  
-| bip_39_word_new_line5 | genius
+| bip_39_word_new_line_5 | genius
 lottery
 tent
 comic
 enable |  
-| bip_39_word_new_line6 | genius
+| bip_39_word_new_line_6 | genius
 lottery
 tent
 comic
 enable
 valve |  
-| bip_39_word_new_line7 | genius
+| bip_39_word_new_line_7 | genius
 lottery
 tent
 comic
 enable
 valve
 frequent |  
-| bip_39_word_new_line8 | genius
+| bip_39_word_new_line_8 | genius
 lottery
 tent
 comic
@@ -113,7 +113,7 @@ enable
 valve
 frequent
 bird |  
-| bip_39_word_new_line9 | genius
+| bip_39_word_new_line_9 | genius
 lottery
 tent
 comic

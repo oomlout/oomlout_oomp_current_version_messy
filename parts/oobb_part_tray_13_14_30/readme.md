@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | firm |  
-| bip_39_word_new_br10 | firm<br>right<br>crane<br>credit<br>rate<br>ugly<br>load<br>escape<br>until<br>rifle |  
-| bip_39_word_new_br11 | firm<br>right<br>crane<br>credit<br>rate<br>ugly<br>load<br>escape<br>until<br>rifle<br>cake |  
-| bip_39_word_new_br12 | firm<br>right<br>crane<br>credit<br>rate<br>ugly<br>load<br>escape<br>until<br>rifle<br>cake<br>access |  
-| bip_39_word_new_br2 | firm<br>right |  
-| bip_39_word_new_br3 | firm<br>right<br>crane |  
-| bip_39_word_new_br4 | firm<br>right<br>crane<br>credit |  
-| bip_39_word_new_br5 | firm<br>right<br>crane<br>credit<br>rate |  
-| bip_39_word_new_br6 | firm<br>right<br>crane<br>credit<br>rate<br>ugly |  
-| bip_39_word_new_br7 | firm<br>right<br>crane<br>credit<br>rate<br>ugly<br>load |  
-| bip_39_word_new_br8 | firm<br>right<br>crane<br>credit<br>rate<br>ugly<br>load<br>escape |  
-| bip_39_word_new_br9 | firm<br>right<br>crane<br>credit<br>rate<br>ugly<br>load<br>escape<br>until |  
-| bip_39_word_new_line1 | firm |  
-| bip_39_word_new_line10 | firm
+| bip_39_word_new_br_1 | firm |  
+| bip_39_word_new_br_10 | firm<br>right<br>crane<br>credit<br>rate<br>ugly<br>load<br>escape<br>until<br>rifle |  
+| bip_39_word_new_br_11 | firm<br>right<br>crane<br>credit<br>rate<br>ugly<br>load<br>escape<br>until<br>rifle<br>cake |  
+| bip_39_word_new_br_12 | firm<br>right<br>crane<br>credit<br>rate<br>ugly<br>load<br>escape<br>until<br>rifle<br>cake<br>access |  
+| bip_39_word_new_br_2 | firm<br>right |  
+| bip_39_word_new_br_3 | firm<br>right<br>crane |  
+| bip_39_word_new_br_4 | firm<br>right<br>crane<br>credit |  
+| bip_39_word_new_br_5 | firm<br>right<br>crane<br>credit<br>rate |  
+| bip_39_word_new_br_6 | firm<br>right<br>crane<br>credit<br>rate<br>ugly |  
+| bip_39_word_new_br_7 | firm<br>right<br>crane<br>credit<br>rate<br>ugly<br>load |  
+| bip_39_word_new_br_8 | firm<br>right<br>crane<br>credit<br>rate<br>ugly<br>load<br>escape |  
+| bip_39_word_new_br_9 | firm<br>right<br>crane<br>credit<br>rate<br>ugly<br>load<br>escape<br>until |  
+| bip_39_word_new_line_1 | firm |  
+| bip_39_word_new_line_10 | firm
 right
 crane
 credit
@@ -55,7 +55,7 @@ load
 escape
 until
 rifle |  
-| bip_39_word_new_line11 | firm
+| bip_39_word_new_line_11 | firm
 right
 crane
 credit
@@ -66,7 +66,7 @@ escape
 until
 rifle
 cake |  
-| bip_39_word_new_line12 | firm
+| bip_39_word_new_line_12 | firm
 right
 crane
 credit
@@ -78,34 +78,34 @@ until
 rifle
 cake
 access |  
-| bip_39_word_new_line2 | firm
+| bip_39_word_new_line_2 | firm
 right |  
-| bip_39_word_new_line3 | firm
+| bip_39_word_new_line_3 | firm
 right
 crane |  
-| bip_39_word_new_line4 | firm
+| bip_39_word_new_line_4 | firm
 right
 crane
 credit |  
-| bip_39_word_new_line5 | firm
+| bip_39_word_new_line_5 | firm
 right
 crane
 credit
 rate |  
-| bip_39_word_new_line6 | firm
+| bip_39_word_new_line_6 | firm
 right
 crane
 credit
 rate
 ugly |  
-| bip_39_word_new_line7 | firm
+| bip_39_word_new_line_7 | firm
 right
 crane
 credit
 rate
 ugly
 load |  
-| bip_39_word_new_line8 | firm
+| bip_39_word_new_line_8 | firm
 right
 crane
 credit
@@ -113,7 +113,7 @@ rate
 ugly
 load
 escape |  
-| bip_39_word_new_line9 | firm
+| bip_39_word_new_line_9 | firm
 right
 crane
 credit

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | brave |  
-| bip_39_word_new_br10 | brave<br>match<br>mail<br>exotic<br>door<br>issue<br>trend<br>ability<br>cool<br>maid |  
-| bip_39_word_new_br11 | brave<br>match<br>mail<br>exotic<br>door<br>issue<br>trend<br>ability<br>cool<br>maid<br>belt |  
-| bip_39_word_new_br12 | brave<br>match<br>mail<br>exotic<br>door<br>issue<br>trend<br>ability<br>cool<br>maid<br>belt<br>aunt |  
-| bip_39_word_new_br2 | brave<br>match |  
-| bip_39_word_new_br3 | brave<br>match<br>mail |  
-| bip_39_word_new_br4 | brave<br>match<br>mail<br>exotic |  
-| bip_39_word_new_br5 | brave<br>match<br>mail<br>exotic<br>door |  
-| bip_39_word_new_br6 | brave<br>match<br>mail<br>exotic<br>door<br>issue |  
-| bip_39_word_new_br7 | brave<br>match<br>mail<br>exotic<br>door<br>issue<br>trend |  
-| bip_39_word_new_br8 | brave<br>match<br>mail<br>exotic<br>door<br>issue<br>trend<br>ability |  
-| bip_39_word_new_br9 | brave<br>match<br>mail<br>exotic<br>door<br>issue<br>trend<br>ability<br>cool |  
-| bip_39_word_new_line1 | brave |  
-| bip_39_word_new_line10 | brave
+| bip_39_word_new_br_1 | brave |  
+| bip_39_word_new_br_10 | brave<br>match<br>mail<br>exotic<br>door<br>issue<br>trend<br>ability<br>cool<br>maid |  
+| bip_39_word_new_br_11 | brave<br>match<br>mail<br>exotic<br>door<br>issue<br>trend<br>ability<br>cool<br>maid<br>belt |  
+| bip_39_word_new_br_12 | brave<br>match<br>mail<br>exotic<br>door<br>issue<br>trend<br>ability<br>cool<br>maid<br>belt<br>aunt |  
+| bip_39_word_new_br_2 | brave<br>match |  
+| bip_39_word_new_br_3 | brave<br>match<br>mail |  
+| bip_39_word_new_br_4 | brave<br>match<br>mail<br>exotic |  
+| bip_39_word_new_br_5 | brave<br>match<br>mail<br>exotic<br>door |  
+| bip_39_word_new_br_6 | brave<br>match<br>mail<br>exotic<br>door<br>issue |  
+| bip_39_word_new_br_7 | brave<br>match<br>mail<br>exotic<br>door<br>issue<br>trend |  
+| bip_39_word_new_br_8 | brave<br>match<br>mail<br>exotic<br>door<br>issue<br>trend<br>ability |  
+| bip_39_word_new_br_9 | brave<br>match<br>mail<br>exotic<br>door<br>issue<br>trend<br>ability<br>cool |  
+| bip_39_word_new_line_1 | brave |  
+| bip_39_word_new_line_10 | brave
 match
 mail
 exotic
@@ -55,7 +55,7 @@ trend
 ability
 cool
 maid |  
-| bip_39_word_new_line11 | brave
+| bip_39_word_new_line_11 | brave
 match
 mail
 exotic
@@ -66,7 +66,7 @@ ability
 cool
 maid
 belt |  
-| bip_39_word_new_line12 | brave
+| bip_39_word_new_line_12 | brave
 match
 mail
 exotic
@@ -78,34 +78,34 @@ cool
 maid
 belt
 aunt |  
-| bip_39_word_new_line2 | brave
+| bip_39_word_new_line_2 | brave
 match |  
-| bip_39_word_new_line3 | brave
+| bip_39_word_new_line_3 | brave
 match
 mail |  
-| bip_39_word_new_line4 | brave
+| bip_39_word_new_line_4 | brave
 match
 mail
 exotic |  
-| bip_39_word_new_line5 | brave
+| bip_39_word_new_line_5 | brave
 match
 mail
 exotic
 door |  
-| bip_39_word_new_line6 | brave
+| bip_39_word_new_line_6 | brave
 match
 mail
 exotic
 door
 issue |  
-| bip_39_word_new_line7 | brave
+| bip_39_word_new_line_7 | brave
 match
 mail
 exotic
 door
 issue
 trend |  
-| bip_39_word_new_line8 | brave
+| bip_39_word_new_line_8 | brave
 match
 mail
 exotic
@@ -113,7 +113,7 @@ door
 issue
 trend
 ability |  
-| bip_39_word_new_line9 | brave
+| bip_39_word_new_line_9 | brave
 match
 mail
 exotic

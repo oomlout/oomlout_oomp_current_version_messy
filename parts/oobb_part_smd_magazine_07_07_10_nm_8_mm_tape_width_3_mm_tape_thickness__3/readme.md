@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | file |  
-| bip_39_word_new_br10 | file<br>fish<br>museum<br>gossip<br>bonus<br>possible<br>stove<br>indoor<br>shed<br>siren |  
-| bip_39_word_new_br11 | file<br>fish<br>museum<br>gossip<br>bonus<br>possible<br>stove<br>indoor<br>shed<br>siren<br>slot |  
-| bip_39_word_new_br12 | file<br>fish<br>museum<br>gossip<br>bonus<br>possible<br>stove<br>indoor<br>shed<br>siren<br>slot<br>amateur |  
-| bip_39_word_new_br2 | file<br>fish |  
-| bip_39_word_new_br3 | file<br>fish<br>museum |  
-| bip_39_word_new_br4 | file<br>fish<br>museum<br>gossip |  
-| bip_39_word_new_br5 | file<br>fish<br>museum<br>gossip<br>bonus |  
-| bip_39_word_new_br6 | file<br>fish<br>museum<br>gossip<br>bonus<br>possible |  
-| bip_39_word_new_br7 | file<br>fish<br>museum<br>gossip<br>bonus<br>possible<br>stove |  
-| bip_39_word_new_br8 | file<br>fish<br>museum<br>gossip<br>bonus<br>possible<br>stove<br>indoor |  
-| bip_39_word_new_br9 | file<br>fish<br>museum<br>gossip<br>bonus<br>possible<br>stove<br>indoor<br>shed |  
-| bip_39_word_new_line1 | file |  
-| bip_39_word_new_line10 | file
+| bip_39_word_new_br_1 | file |  
+| bip_39_word_new_br_10 | file<br>fish<br>museum<br>gossip<br>bonus<br>possible<br>stove<br>indoor<br>shed<br>siren |  
+| bip_39_word_new_br_11 | file<br>fish<br>museum<br>gossip<br>bonus<br>possible<br>stove<br>indoor<br>shed<br>siren<br>slot |  
+| bip_39_word_new_br_12 | file<br>fish<br>museum<br>gossip<br>bonus<br>possible<br>stove<br>indoor<br>shed<br>siren<br>slot<br>amateur |  
+| bip_39_word_new_br_2 | file<br>fish |  
+| bip_39_word_new_br_3 | file<br>fish<br>museum |  
+| bip_39_word_new_br_4 | file<br>fish<br>museum<br>gossip |  
+| bip_39_word_new_br_5 | file<br>fish<br>museum<br>gossip<br>bonus |  
+| bip_39_word_new_br_6 | file<br>fish<br>museum<br>gossip<br>bonus<br>possible |  
+| bip_39_word_new_br_7 | file<br>fish<br>museum<br>gossip<br>bonus<br>possible<br>stove |  
+| bip_39_word_new_br_8 | file<br>fish<br>museum<br>gossip<br>bonus<br>possible<br>stove<br>indoor |  
+| bip_39_word_new_br_9 | file<br>fish<br>museum<br>gossip<br>bonus<br>possible<br>stove<br>indoor<br>shed |  
+| bip_39_word_new_line_1 | file |  
+| bip_39_word_new_line_10 | file
 fish
 museum
 gossip
@@ -55,7 +55,7 @@ stove
 indoor
 shed
 siren |  
-| bip_39_word_new_line11 | file
+| bip_39_word_new_line_11 | file
 fish
 museum
 gossip
@@ -66,7 +66,7 @@ indoor
 shed
 siren
 slot |  
-| bip_39_word_new_line12 | file
+| bip_39_word_new_line_12 | file
 fish
 museum
 gossip
@@ -78,34 +78,34 @@ shed
 siren
 slot
 amateur |  
-| bip_39_word_new_line2 | file
+| bip_39_word_new_line_2 | file
 fish |  
-| bip_39_word_new_line3 | file
+| bip_39_word_new_line_3 | file
 fish
 museum |  
-| bip_39_word_new_line4 | file
+| bip_39_word_new_line_4 | file
 fish
 museum
 gossip |  
-| bip_39_word_new_line5 | file
+| bip_39_word_new_line_5 | file
 fish
 museum
 gossip
 bonus |  
-| bip_39_word_new_line6 | file
+| bip_39_word_new_line_6 | file
 fish
 museum
 gossip
 bonus
 possible |  
-| bip_39_word_new_line7 | file
+| bip_39_word_new_line_7 | file
 fish
 museum
 gossip
 bonus
 possible
 stove |  
-| bip_39_word_new_line8 | file
+| bip_39_word_new_line_8 | file
 fish
 museum
 gossip
@@ -113,7 +113,7 @@ bonus
 possible
 stove
 indoor |  
-| bip_39_word_new_line9 | file
+| bip_39_word_new_line_9 | file
 fish
 museum
 gossip

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | then |  
-| bip_39_word_new_br10 | then<br>taste<br>puppy<br>ahead<br>turkey<br>west<br>fall<br>riot<br>capital<br>pizza |  
-| bip_39_word_new_br11 | then<br>taste<br>puppy<br>ahead<br>turkey<br>west<br>fall<br>riot<br>capital<br>pizza<br>marble |  
-| bip_39_word_new_br12 | then<br>taste<br>puppy<br>ahead<br>turkey<br>west<br>fall<br>riot<br>capital<br>pizza<br>marble<br>advice |  
-| bip_39_word_new_br2 | then<br>taste |  
-| bip_39_word_new_br3 | then<br>taste<br>puppy |  
-| bip_39_word_new_br4 | then<br>taste<br>puppy<br>ahead |  
-| bip_39_word_new_br5 | then<br>taste<br>puppy<br>ahead<br>turkey |  
-| bip_39_word_new_br6 | then<br>taste<br>puppy<br>ahead<br>turkey<br>west |  
-| bip_39_word_new_br7 | then<br>taste<br>puppy<br>ahead<br>turkey<br>west<br>fall |  
-| bip_39_word_new_br8 | then<br>taste<br>puppy<br>ahead<br>turkey<br>west<br>fall<br>riot |  
-| bip_39_word_new_br9 | then<br>taste<br>puppy<br>ahead<br>turkey<br>west<br>fall<br>riot<br>capital |  
-| bip_39_word_new_line1 | then |  
-| bip_39_word_new_line10 | then
+| bip_39_word_new_br_1 | then |  
+| bip_39_word_new_br_10 | then<br>taste<br>puppy<br>ahead<br>turkey<br>west<br>fall<br>riot<br>capital<br>pizza |  
+| bip_39_word_new_br_11 | then<br>taste<br>puppy<br>ahead<br>turkey<br>west<br>fall<br>riot<br>capital<br>pizza<br>marble |  
+| bip_39_word_new_br_12 | then<br>taste<br>puppy<br>ahead<br>turkey<br>west<br>fall<br>riot<br>capital<br>pizza<br>marble<br>advice |  
+| bip_39_word_new_br_2 | then<br>taste |  
+| bip_39_word_new_br_3 | then<br>taste<br>puppy |  
+| bip_39_word_new_br_4 | then<br>taste<br>puppy<br>ahead |  
+| bip_39_word_new_br_5 | then<br>taste<br>puppy<br>ahead<br>turkey |  
+| bip_39_word_new_br_6 | then<br>taste<br>puppy<br>ahead<br>turkey<br>west |  
+| bip_39_word_new_br_7 | then<br>taste<br>puppy<br>ahead<br>turkey<br>west<br>fall |  
+| bip_39_word_new_br_8 | then<br>taste<br>puppy<br>ahead<br>turkey<br>west<br>fall<br>riot |  
+| bip_39_word_new_br_9 | then<br>taste<br>puppy<br>ahead<br>turkey<br>west<br>fall<br>riot<br>capital |  
+| bip_39_word_new_line_1 | then |  
+| bip_39_word_new_line_10 | then
 taste
 puppy
 ahead
@@ -55,7 +55,7 @@ fall
 riot
 capital
 pizza |  
-| bip_39_word_new_line11 | then
+| bip_39_word_new_line_11 | then
 taste
 puppy
 ahead
@@ -66,7 +66,7 @@ riot
 capital
 pizza
 marble |  
-| bip_39_word_new_line12 | then
+| bip_39_word_new_line_12 | then
 taste
 puppy
 ahead
@@ -78,34 +78,34 @@ capital
 pizza
 marble
 advice |  
-| bip_39_word_new_line2 | then
+| bip_39_word_new_line_2 | then
 taste |  
-| bip_39_word_new_line3 | then
+| bip_39_word_new_line_3 | then
 taste
 puppy |  
-| bip_39_word_new_line4 | then
+| bip_39_word_new_line_4 | then
 taste
 puppy
 ahead |  
-| bip_39_word_new_line5 | then
+| bip_39_word_new_line_5 | then
 taste
 puppy
 ahead
 turkey |  
-| bip_39_word_new_line6 | then
+| bip_39_word_new_line_6 | then
 taste
 puppy
 ahead
 turkey
 west |  
-| bip_39_word_new_line7 | then
+| bip_39_word_new_line_7 | then
 taste
 puppy
 ahead
 turkey
 west
 fall |  
-| bip_39_word_new_line8 | then
+| bip_39_word_new_line_8 | then
 taste
 puppy
 ahead
@@ -113,7 +113,7 @@ turkey
 west
 fall
 riot |  
-| bip_39_word_new_line9 | then
+| bip_39_word_new_line_9 | then
 taste
 puppy
 ahead

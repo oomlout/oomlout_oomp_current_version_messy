@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mosquito |  
-| bip_39_word_new_br10 | mosquito<br>spin<br>bunker<br>rice<br>good<br>duty<br>cake<br>bracket<br>occur<br>misery |  
-| bip_39_word_new_br11 | mosquito<br>spin<br>bunker<br>rice<br>good<br>duty<br>cake<br>bracket<br>occur<br>misery<br>globe |  
-| bip_39_word_new_br12 | mosquito<br>spin<br>bunker<br>rice<br>good<br>duty<br>cake<br>bracket<br>occur<br>misery<br>globe<br>arrange |  
-| bip_39_word_new_br2 | mosquito<br>spin |  
-| bip_39_word_new_br3 | mosquito<br>spin<br>bunker |  
-| bip_39_word_new_br4 | mosquito<br>spin<br>bunker<br>rice |  
-| bip_39_word_new_br5 | mosquito<br>spin<br>bunker<br>rice<br>good |  
-| bip_39_word_new_br6 | mosquito<br>spin<br>bunker<br>rice<br>good<br>duty |  
-| bip_39_word_new_br7 | mosquito<br>spin<br>bunker<br>rice<br>good<br>duty<br>cake |  
-| bip_39_word_new_br8 | mosquito<br>spin<br>bunker<br>rice<br>good<br>duty<br>cake<br>bracket |  
-| bip_39_word_new_br9 | mosquito<br>spin<br>bunker<br>rice<br>good<br>duty<br>cake<br>bracket<br>occur |  
-| bip_39_word_new_line1 | mosquito |  
-| bip_39_word_new_line10 | mosquito
+| bip_39_word_new_br_1 | mosquito |  
+| bip_39_word_new_br_10 | mosquito<br>spin<br>bunker<br>rice<br>good<br>duty<br>cake<br>bracket<br>occur<br>misery |  
+| bip_39_word_new_br_11 | mosquito<br>spin<br>bunker<br>rice<br>good<br>duty<br>cake<br>bracket<br>occur<br>misery<br>globe |  
+| bip_39_word_new_br_12 | mosquito<br>spin<br>bunker<br>rice<br>good<br>duty<br>cake<br>bracket<br>occur<br>misery<br>globe<br>arrange |  
+| bip_39_word_new_br_2 | mosquito<br>spin |  
+| bip_39_word_new_br_3 | mosquito<br>spin<br>bunker |  
+| bip_39_word_new_br_4 | mosquito<br>spin<br>bunker<br>rice |  
+| bip_39_word_new_br_5 | mosquito<br>spin<br>bunker<br>rice<br>good |  
+| bip_39_word_new_br_6 | mosquito<br>spin<br>bunker<br>rice<br>good<br>duty |  
+| bip_39_word_new_br_7 | mosquito<br>spin<br>bunker<br>rice<br>good<br>duty<br>cake |  
+| bip_39_word_new_br_8 | mosquito<br>spin<br>bunker<br>rice<br>good<br>duty<br>cake<br>bracket |  
+| bip_39_word_new_br_9 | mosquito<br>spin<br>bunker<br>rice<br>good<br>duty<br>cake<br>bracket<br>occur |  
+| bip_39_word_new_line_1 | mosquito |  
+| bip_39_word_new_line_10 | mosquito
 spin
 bunker
 rice
@@ -55,7 +55,7 @@ cake
 bracket
 occur
 misery |  
-| bip_39_word_new_line11 | mosquito
+| bip_39_word_new_line_11 | mosquito
 spin
 bunker
 rice
@@ -66,7 +66,7 @@ bracket
 occur
 misery
 globe |  
-| bip_39_word_new_line12 | mosquito
+| bip_39_word_new_line_12 | mosquito
 spin
 bunker
 rice
@@ -78,34 +78,34 @@ occur
 misery
 globe
 arrange |  
-| bip_39_word_new_line2 | mosquito
+| bip_39_word_new_line_2 | mosquito
 spin |  
-| bip_39_word_new_line3 | mosquito
+| bip_39_word_new_line_3 | mosquito
 spin
 bunker |  
-| bip_39_word_new_line4 | mosquito
+| bip_39_word_new_line_4 | mosquito
 spin
 bunker
 rice |  
-| bip_39_word_new_line5 | mosquito
+| bip_39_word_new_line_5 | mosquito
 spin
 bunker
 rice
 good |  
-| bip_39_word_new_line6 | mosquito
+| bip_39_word_new_line_6 | mosquito
 spin
 bunker
 rice
 good
 duty |  
-| bip_39_word_new_line7 | mosquito
+| bip_39_word_new_line_7 | mosquito
 spin
 bunker
 rice
 good
 duty
 cake |  
-| bip_39_word_new_line8 | mosquito
+| bip_39_word_new_line_8 | mosquito
 spin
 bunker
 rice
@@ -113,7 +113,7 @@ good
 duty
 cake
 bracket |  
-| bip_39_word_new_line9 | mosquito
+| bip_39_word_new_line_9 | mosquito
 spin
 bunker
 rice

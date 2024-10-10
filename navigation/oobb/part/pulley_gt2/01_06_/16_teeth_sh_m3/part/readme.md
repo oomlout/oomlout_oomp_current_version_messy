@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hint |  
-| bip_39_word_new_br10 | hint<br>wisdom<br>dinosaur<br>artist<br>treat<br>good<br>describe<br>valley<br>weasel<br>garlic |  
-| bip_39_word_new_br11 | hint<br>wisdom<br>dinosaur<br>artist<br>treat<br>good<br>describe<br>valley<br>weasel<br>garlic<br>canvas |  
-| bip_39_word_new_br12 | hint<br>wisdom<br>dinosaur<br>artist<br>treat<br>good<br>describe<br>valley<br>weasel<br>garlic<br>canvas<br>abuse |  
-| bip_39_word_new_br2 | hint<br>wisdom |  
-| bip_39_word_new_br3 | hint<br>wisdom<br>dinosaur |  
-| bip_39_word_new_br4 | hint<br>wisdom<br>dinosaur<br>artist |  
-| bip_39_word_new_br5 | hint<br>wisdom<br>dinosaur<br>artist<br>treat |  
-| bip_39_word_new_br6 | hint<br>wisdom<br>dinosaur<br>artist<br>treat<br>good |  
-| bip_39_word_new_br7 | hint<br>wisdom<br>dinosaur<br>artist<br>treat<br>good<br>describe |  
-| bip_39_word_new_br8 | hint<br>wisdom<br>dinosaur<br>artist<br>treat<br>good<br>describe<br>valley |  
-| bip_39_word_new_br9 | hint<br>wisdom<br>dinosaur<br>artist<br>treat<br>good<br>describe<br>valley<br>weasel |  
-| bip_39_word_new_line1 | hint |  
-| bip_39_word_new_line10 | hint
+| bip_39_word_new_br_1 | hint |  
+| bip_39_word_new_br_10 | hint<br>wisdom<br>dinosaur<br>artist<br>treat<br>good<br>describe<br>valley<br>weasel<br>garlic |  
+| bip_39_word_new_br_11 | hint<br>wisdom<br>dinosaur<br>artist<br>treat<br>good<br>describe<br>valley<br>weasel<br>garlic<br>canvas |  
+| bip_39_word_new_br_12 | hint<br>wisdom<br>dinosaur<br>artist<br>treat<br>good<br>describe<br>valley<br>weasel<br>garlic<br>canvas<br>abuse |  
+| bip_39_word_new_br_2 | hint<br>wisdom |  
+| bip_39_word_new_br_3 | hint<br>wisdom<br>dinosaur |  
+| bip_39_word_new_br_4 | hint<br>wisdom<br>dinosaur<br>artist |  
+| bip_39_word_new_br_5 | hint<br>wisdom<br>dinosaur<br>artist<br>treat |  
+| bip_39_word_new_br_6 | hint<br>wisdom<br>dinosaur<br>artist<br>treat<br>good |  
+| bip_39_word_new_br_7 | hint<br>wisdom<br>dinosaur<br>artist<br>treat<br>good<br>describe |  
+| bip_39_word_new_br_8 | hint<br>wisdom<br>dinosaur<br>artist<br>treat<br>good<br>describe<br>valley |  
+| bip_39_word_new_br_9 | hint<br>wisdom<br>dinosaur<br>artist<br>treat<br>good<br>describe<br>valley<br>weasel |  
+| bip_39_word_new_line_1 | hint |  
+| bip_39_word_new_line_10 | hint
 wisdom
 dinosaur
 artist
@@ -55,7 +55,7 @@ describe
 valley
 weasel
 garlic |  
-| bip_39_word_new_line11 | hint
+| bip_39_word_new_line_11 | hint
 wisdom
 dinosaur
 artist
@@ -66,7 +66,7 @@ valley
 weasel
 garlic
 canvas |  
-| bip_39_word_new_line12 | hint
+| bip_39_word_new_line_12 | hint
 wisdom
 dinosaur
 artist
@@ -78,34 +78,34 @@ weasel
 garlic
 canvas
 abuse |  
-| bip_39_word_new_line2 | hint
+| bip_39_word_new_line_2 | hint
 wisdom |  
-| bip_39_word_new_line3 | hint
+| bip_39_word_new_line_3 | hint
 wisdom
 dinosaur |  
-| bip_39_word_new_line4 | hint
+| bip_39_word_new_line_4 | hint
 wisdom
 dinosaur
 artist |  
-| bip_39_word_new_line5 | hint
+| bip_39_word_new_line_5 | hint
 wisdom
 dinosaur
 artist
 treat |  
-| bip_39_word_new_line6 | hint
+| bip_39_word_new_line_6 | hint
 wisdom
 dinosaur
 artist
 treat
 good |  
-| bip_39_word_new_line7 | hint
+| bip_39_word_new_line_7 | hint
 wisdom
 dinosaur
 artist
 treat
 good
 describe |  
-| bip_39_word_new_line8 | hint
+| bip_39_word_new_line_8 | hint
 wisdom
 dinosaur
 artist
@@ -113,7 +113,7 @@ treat
 good
 describe
 valley |  
-| bip_39_word_new_line9 | hint
+| bip_39_word_new_line_9 | hint
 wisdom
 dinosaur
 artist

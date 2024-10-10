@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | liberty |  
-| bip_39_word_new_br10 | liberty<br>stumble<br>enroll<br>glide<br>hold<br>anchor<br>nuclear<br>you<br>ugly<br>master |  
-| bip_39_word_new_br11 | liberty<br>stumble<br>enroll<br>glide<br>hold<br>anchor<br>nuclear<br>you<br>ugly<br>master<br>month |  
-| bip_39_word_new_br12 | liberty<br>stumble<br>enroll<br>glide<br>hold<br>anchor<br>nuclear<br>you<br>ugly<br>master<br>month<br>august |  
-| bip_39_word_new_br2 | liberty<br>stumble |  
-| bip_39_word_new_br3 | liberty<br>stumble<br>enroll |  
-| bip_39_word_new_br4 | liberty<br>stumble<br>enroll<br>glide |  
-| bip_39_word_new_br5 | liberty<br>stumble<br>enroll<br>glide<br>hold |  
-| bip_39_word_new_br6 | liberty<br>stumble<br>enroll<br>glide<br>hold<br>anchor |  
-| bip_39_word_new_br7 | liberty<br>stumble<br>enroll<br>glide<br>hold<br>anchor<br>nuclear |  
-| bip_39_word_new_br8 | liberty<br>stumble<br>enroll<br>glide<br>hold<br>anchor<br>nuclear<br>you |  
-| bip_39_word_new_br9 | liberty<br>stumble<br>enroll<br>glide<br>hold<br>anchor<br>nuclear<br>you<br>ugly |  
-| bip_39_word_new_line1 | liberty |  
-| bip_39_word_new_line10 | liberty
+| bip_39_word_new_br_1 | liberty |  
+| bip_39_word_new_br_10 | liberty<br>stumble<br>enroll<br>glide<br>hold<br>anchor<br>nuclear<br>you<br>ugly<br>master |  
+| bip_39_word_new_br_11 | liberty<br>stumble<br>enroll<br>glide<br>hold<br>anchor<br>nuclear<br>you<br>ugly<br>master<br>month |  
+| bip_39_word_new_br_12 | liberty<br>stumble<br>enroll<br>glide<br>hold<br>anchor<br>nuclear<br>you<br>ugly<br>master<br>month<br>august |  
+| bip_39_word_new_br_2 | liberty<br>stumble |  
+| bip_39_word_new_br_3 | liberty<br>stumble<br>enroll |  
+| bip_39_word_new_br_4 | liberty<br>stumble<br>enroll<br>glide |  
+| bip_39_word_new_br_5 | liberty<br>stumble<br>enroll<br>glide<br>hold |  
+| bip_39_word_new_br_6 | liberty<br>stumble<br>enroll<br>glide<br>hold<br>anchor |  
+| bip_39_word_new_br_7 | liberty<br>stumble<br>enroll<br>glide<br>hold<br>anchor<br>nuclear |  
+| bip_39_word_new_br_8 | liberty<br>stumble<br>enroll<br>glide<br>hold<br>anchor<br>nuclear<br>you |  
+| bip_39_word_new_br_9 | liberty<br>stumble<br>enroll<br>glide<br>hold<br>anchor<br>nuclear<br>you<br>ugly |  
+| bip_39_word_new_line_1 | liberty |  
+| bip_39_word_new_line_10 | liberty
 stumble
 enroll
 glide
@@ -55,7 +55,7 @@ nuclear
 you
 ugly
 master |  
-| bip_39_word_new_line11 | liberty
+| bip_39_word_new_line_11 | liberty
 stumble
 enroll
 glide
@@ -66,7 +66,7 @@ you
 ugly
 master
 month |  
-| bip_39_word_new_line12 | liberty
+| bip_39_word_new_line_12 | liberty
 stumble
 enroll
 glide
@@ -78,34 +78,34 @@ ugly
 master
 month
 august |  
-| bip_39_word_new_line2 | liberty
+| bip_39_word_new_line_2 | liberty
 stumble |  
-| bip_39_word_new_line3 | liberty
+| bip_39_word_new_line_3 | liberty
 stumble
 enroll |  
-| bip_39_word_new_line4 | liberty
+| bip_39_word_new_line_4 | liberty
 stumble
 enroll
 glide |  
-| bip_39_word_new_line5 | liberty
+| bip_39_word_new_line_5 | liberty
 stumble
 enroll
 glide
 hold |  
-| bip_39_word_new_line6 | liberty
+| bip_39_word_new_line_6 | liberty
 stumble
 enroll
 glide
 hold
 anchor |  
-| bip_39_word_new_line7 | liberty
+| bip_39_word_new_line_7 | liberty
 stumble
 enroll
 glide
 hold
 anchor
 nuclear |  
-| bip_39_word_new_line8 | liberty
+| bip_39_word_new_line_8 | liberty
 stumble
 enroll
 glide
@@ -113,7 +113,7 @@ hold
 anchor
 nuclear
 you |  
-| bip_39_word_new_line9 | liberty
+| bip_39_word_new_line_9 | liberty
 stumble
 enroll
 glide

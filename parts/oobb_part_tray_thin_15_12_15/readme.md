@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dignity |  
-| bip_39_word_new_br10 | dignity<br>anxiety<br>spider<br>door<br>pull<br>burst<br>clerk<br>ice<br>bring<br>mimic |  
-| bip_39_word_new_br11 | dignity<br>anxiety<br>spider<br>door<br>pull<br>burst<br>clerk<br>ice<br>bring<br>mimic<br>nephew |  
-| bip_39_word_new_br12 | dignity<br>anxiety<br>spider<br>door<br>pull<br>burst<br>clerk<br>ice<br>bring<br>mimic<br>nephew<br>agree |  
-| bip_39_word_new_br2 | dignity<br>anxiety |  
-| bip_39_word_new_br3 | dignity<br>anxiety<br>spider |  
-| bip_39_word_new_br4 | dignity<br>anxiety<br>spider<br>door |  
-| bip_39_word_new_br5 | dignity<br>anxiety<br>spider<br>door<br>pull |  
-| bip_39_word_new_br6 | dignity<br>anxiety<br>spider<br>door<br>pull<br>burst |  
-| bip_39_word_new_br7 | dignity<br>anxiety<br>spider<br>door<br>pull<br>burst<br>clerk |  
-| bip_39_word_new_br8 | dignity<br>anxiety<br>spider<br>door<br>pull<br>burst<br>clerk<br>ice |  
-| bip_39_word_new_br9 | dignity<br>anxiety<br>spider<br>door<br>pull<br>burst<br>clerk<br>ice<br>bring |  
-| bip_39_word_new_line1 | dignity |  
-| bip_39_word_new_line10 | dignity
+| bip_39_word_new_br_1 | dignity |  
+| bip_39_word_new_br_10 | dignity<br>anxiety<br>spider<br>door<br>pull<br>burst<br>clerk<br>ice<br>bring<br>mimic |  
+| bip_39_word_new_br_11 | dignity<br>anxiety<br>spider<br>door<br>pull<br>burst<br>clerk<br>ice<br>bring<br>mimic<br>nephew |  
+| bip_39_word_new_br_12 | dignity<br>anxiety<br>spider<br>door<br>pull<br>burst<br>clerk<br>ice<br>bring<br>mimic<br>nephew<br>agree |  
+| bip_39_word_new_br_2 | dignity<br>anxiety |  
+| bip_39_word_new_br_3 | dignity<br>anxiety<br>spider |  
+| bip_39_word_new_br_4 | dignity<br>anxiety<br>spider<br>door |  
+| bip_39_word_new_br_5 | dignity<br>anxiety<br>spider<br>door<br>pull |  
+| bip_39_word_new_br_6 | dignity<br>anxiety<br>spider<br>door<br>pull<br>burst |  
+| bip_39_word_new_br_7 | dignity<br>anxiety<br>spider<br>door<br>pull<br>burst<br>clerk |  
+| bip_39_word_new_br_8 | dignity<br>anxiety<br>spider<br>door<br>pull<br>burst<br>clerk<br>ice |  
+| bip_39_word_new_br_9 | dignity<br>anxiety<br>spider<br>door<br>pull<br>burst<br>clerk<br>ice<br>bring |  
+| bip_39_word_new_line_1 | dignity |  
+| bip_39_word_new_line_10 | dignity
 anxiety
 spider
 door
@@ -55,7 +55,7 @@ clerk
 ice
 bring
 mimic |  
-| bip_39_word_new_line11 | dignity
+| bip_39_word_new_line_11 | dignity
 anxiety
 spider
 door
@@ -66,7 +66,7 @@ ice
 bring
 mimic
 nephew |  
-| bip_39_word_new_line12 | dignity
+| bip_39_word_new_line_12 | dignity
 anxiety
 spider
 door
@@ -78,34 +78,34 @@ bring
 mimic
 nephew
 agree |  
-| bip_39_word_new_line2 | dignity
+| bip_39_word_new_line_2 | dignity
 anxiety |  
-| bip_39_word_new_line3 | dignity
+| bip_39_word_new_line_3 | dignity
 anxiety
 spider |  
-| bip_39_word_new_line4 | dignity
+| bip_39_word_new_line_4 | dignity
 anxiety
 spider
 door |  
-| bip_39_word_new_line5 | dignity
+| bip_39_word_new_line_5 | dignity
 anxiety
 spider
 door
 pull |  
-| bip_39_word_new_line6 | dignity
+| bip_39_word_new_line_6 | dignity
 anxiety
 spider
 door
 pull
 burst |  
-| bip_39_word_new_line7 | dignity
+| bip_39_word_new_line_7 | dignity
 anxiety
 spider
 door
 pull
 burst
 clerk |  
-| bip_39_word_new_line8 | dignity
+| bip_39_word_new_line_8 | dignity
 anxiety
 spider
 door
@@ -113,7 +113,7 @@ pull
 burst
 clerk
 ice |  
-| bip_39_word_new_line9 | dignity
+| bip_39_word_new_line_9 | dignity
 anxiety
 spider
 door

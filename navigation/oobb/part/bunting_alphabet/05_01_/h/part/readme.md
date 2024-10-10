@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | measure |  
-| bip_39_word_new_br10 | measure<br>wall<br>critic<br>harvest<br>polar<br>away<br>quote<br>sudden<br>abuse<br>demand |  
-| bip_39_word_new_br11 | measure<br>wall<br>critic<br>harvest<br>polar<br>away<br>quote<br>sudden<br>abuse<br>demand<br>ankle |  
-| bip_39_word_new_br12 | measure<br>wall<br>critic<br>harvest<br>polar<br>away<br>quote<br>sudden<br>abuse<br>demand<br>ankle<br>adapt |  
-| bip_39_word_new_br2 | measure<br>wall |  
-| bip_39_word_new_br3 | measure<br>wall<br>critic |  
-| bip_39_word_new_br4 | measure<br>wall<br>critic<br>harvest |  
-| bip_39_word_new_br5 | measure<br>wall<br>critic<br>harvest<br>polar |  
-| bip_39_word_new_br6 | measure<br>wall<br>critic<br>harvest<br>polar<br>away |  
-| bip_39_word_new_br7 | measure<br>wall<br>critic<br>harvest<br>polar<br>away<br>quote |  
-| bip_39_word_new_br8 | measure<br>wall<br>critic<br>harvest<br>polar<br>away<br>quote<br>sudden |  
-| bip_39_word_new_br9 | measure<br>wall<br>critic<br>harvest<br>polar<br>away<br>quote<br>sudden<br>abuse |  
-| bip_39_word_new_line1 | measure |  
-| bip_39_word_new_line10 | measure
+| bip_39_word_new_br_1 | measure |  
+| bip_39_word_new_br_10 | measure<br>wall<br>critic<br>harvest<br>polar<br>away<br>quote<br>sudden<br>abuse<br>demand |  
+| bip_39_word_new_br_11 | measure<br>wall<br>critic<br>harvest<br>polar<br>away<br>quote<br>sudden<br>abuse<br>demand<br>ankle |  
+| bip_39_word_new_br_12 | measure<br>wall<br>critic<br>harvest<br>polar<br>away<br>quote<br>sudden<br>abuse<br>demand<br>ankle<br>adapt |  
+| bip_39_word_new_br_2 | measure<br>wall |  
+| bip_39_word_new_br_3 | measure<br>wall<br>critic |  
+| bip_39_word_new_br_4 | measure<br>wall<br>critic<br>harvest |  
+| bip_39_word_new_br_5 | measure<br>wall<br>critic<br>harvest<br>polar |  
+| bip_39_word_new_br_6 | measure<br>wall<br>critic<br>harvest<br>polar<br>away |  
+| bip_39_word_new_br_7 | measure<br>wall<br>critic<br>harvest<br>polar<br>away<br>quote |  
+| bip_39_word_new_br_8 | measure<br>wall<br>critic<br>harvest<br>polar<br>away<br>quote<br>sudden |  
+| bip_39_word_new_br_9 | measure<br>wall<br>critic<br>harvest<br>polar<br>away<br>quote<br>sudden<br>abuse |  
+| bip_39_word_new_line_1 | measure |  
+| bip_39_word_new_line_10 | measure
 wall
 critic
 harvest
@@ -55,7 +55,7 @@ quote
 sudden
 abuse
 demand |  
-| bip_39_word_new_line11 | measure
+| bip_39_word_new_line_11 | measure
 wall
 critic
 harvest
@@ -66,7 +66,7 @@ sudden
 abuse
 demand
 ankle |  
-| bip_39_word_new_line12 | measure
+| bip_39_word_new_line_12 | measure
 wall
 critic
 harvest
@@ -78,34 +78,34 @@ abuse
 demand
 ankle
 adapt |  
-| bip_39_word_new_line2 | measure
+| bip_39_word_new_line_2 | measure
 wall |  
-| bip_39_word_new_line3 | measure
+| bip_39_word_new_line_3 | measure
 wall
 critic |  
-| bip_39_word_new_line4 | measure
+| bip_39_word_new_line_4 | measure
 wall
 critic
 harvest |  
-| bip_39_word_new_line5 | measure
+| bip_39_word_new_line_5 | measure
 wall
 critic
 harvest
 polar |  
-| bip_39_word_new_line6 | measure
+| bip_39_word_new_line_6 | measure
 wall
 critic
 harvest
 polar
 away |  
-| bip_39_word_new_line7 | measure
+| bip_39_word_new_line_7 | measure
 wall
 critic
 harvest
 polar
 away
 quote |  
-| bip_39_word_new_line8 | measure
+| bip_39_word_new_line_8 | measure
 wall
 critic
 harvest
@@ -113,7 +113,7 @@ polar
 away
 quote
 sudden |  
-| bip_39_word_new_line9 | measure
+| bip_39_word_new_line_9 | measure
 wall
 critic
 harvest

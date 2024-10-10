@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pilot |  
-| bip_39_word_new_br10 | pilot<br>swarm<br>conduct<br>patrol<br>mesh<br>business<br>help<br>sword<br>force<br>silly |  
-| bip_39_word_new_br11 | pilot<br>swarm<br>conduct<br>patrol<br>mesh<br>business<br>help<br>sword<br>force<br>silly<br>laugh |  
-| bip_39_word_new_br12 | pilot<br>swarm<br>conduct<br>patrol<br>mesh<br>business<br>help<br>sword<br>force<br>silly<br>laugh<br>average |  
-| bip_39_word_new_br2 | pilot<br>swarm |  
-| bip_39_word_new_br3 | pilot<br>swarm<br>conduct |  
-| bip_39_word_new_br4 | pilot<br>swarm<br>conduct<br>patrol |  
-| bip_39_word_new_br5 | pilot<br>swarm<br>conduct<br>patrol<br>mesh |  
-| bip_39_word_new_br6 | pilot<br>swarm<br>conduct<br>patrol<br>mesh<br>business |  
-| bip_39_word_new_br7 | pilot<br>swarm<br>conduct<br>patrol<br>mesh<br>business<br>help |  
-| bip_39_word_new_br8 | pilot<br>swarm<br>conduct<br>patrol<br>mesh<br>business<br>help<br>sword |  
-| bip_39_word_new_br9 | pilot<br>swarm<br>conduct<br>patrol<br>mesh<br>business<br>help<br>sword<br>force |  
-| bip_39_word_new_line1 | pilot |  
-| bip_39_word_new_line10 | pilot
+| bip_39_word_new_br_1 | pilot |  
+| bip_39_word_new_br_10 | pilot<br>swarm<br>conduct<br>patrol<br>mesh<br>business<br>help<br>sword<br>force<br>silly |  
+| bip_39_word_new_br_11 | pilot<br>swarm<br>conduct<br>patrol<br>mesh<br>business<br>help<br>sword<br>force<br>silly<br>laugh |  
+| bip_39_word_new_br_12 | pilot<br>swarm<br>conduct<br>patrol<br>mesh<br>business<br>help<br>sword<br>force<br>silly<br>laugh<br>average |  
+| bip_39_word_new_br_2 | pilot<br>swarm |  
+| bip_39_word_new_br_3 | pilot<br>swarm<br>conduct |  
+| bip_39_word_new_br_4 | pilot<br>swarm<br>conduct<br>patrol |  
+| bip_39_word_new_br_5 | pilot<br>swarm<br>conduct<br>patrol<br>mesh |  
+| bip_39_word_new_br_6 | pilot<br>swarm<br>conduct<br>patrol<br>mesh<br>business |  
+| bip_39_word_new_br_7 | pilot<br>swarm<br>conduct<br>patrol<br>mesh<br>business<br>help |  
+| bip_39_word_new_br_8 | pilot<br>swarm<br>conduct<br>patrol<br>mesh<br>business<br>help<br>sword |  
+| bip_39_word_new_br_9 | pilot<br>swarm<br>conduct<br>patrol<br>mesh<br>business<br>help<br>sword<br>force |  
+| bip_39_word_new_line_1 | pilot |  
+| bip_39_word_new_line_10 | pilot
 swarm
 conduct
 patrol
@@ -55,7 +55,7 @@ help
 sword
 force
 silly |  
-| bip_39_word_new_line11 | pilot
+| bip_39_word_new_line_11 | pilot
 swarm
 conduct
 patrol
@@ -66,7 +66,7 @@ sword
 force
 silly
 laugh |  
-| bip_39_word_new_line12 | pilot
+| bip_39_word_new_line_12 | pilot
 swarm
 conduct
 patrol
@@ -78,34 +78,34 @@ force
 silly
 laugh
 average |  
-| bip_39_word_new_line2 | pilot
+| bip_39_word_new_line_2 | pilot
 swarm |  
-| bip_39_word_new_line3 | pilot
+| bip_39_word_new_line_3 | pilot
 swarm
 conduct |  
-| bip_39_word_new_line4 | pilot
+| bip_39_word_new_line_4 | pilot
 swarm
 conduct
 patrol |  
-| bip_39_word_new_line5 | pilot
+| bip_39_word_new_line_5 | pilot
 swarm
 conduct
 patrol
 mesh |  
-| bip_39_word_new_line6 | pilot
+| bip_39_word_new_line_6 | pilot
 swarm
 conduct
 patrol
 mesh
 business |  
-| bip_39_word_new_line7 | pilot
+| bip_39_word_new_line_7 | pilot
 swarm
 conduct
 patrol
 mesh
 business
 help |  
-| bip_39_word_new_line8 | pilot
+| bip_39_word_new_line_8 | pilot
 swarm
 conduct
 patrol
@@ -113,7 +113,7 @@ mesh
 business
 help
 sword |  
-| bip_39_word_new_line9 | pilot
+| bip_39_word_new_line_9 | pilot
 swarm
 conduct
 patrol

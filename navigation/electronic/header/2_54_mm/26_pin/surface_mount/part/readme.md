@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | blame |  
-| bip_39_word_new_br10 | blame<br>pledge<br>clock<br>help<br>monster<br>swift<br>trophy<br>coyote<br>deliver<br>strike |  
-| bip_39_word_new_br11 | blame<br>pledge<br>clock<br>help<br>monster<br>swift<br>trophy<br>coyote<br>deliver<br>strike<br>limit |  
-| bip_39_word_new_br12 | blame<br>pledge<br>clock<br>help<br>monster<br>swift<br>trophy<br>coyote<br>deliver<br>strike<br>limit<br>april |  
-| bip_39_word_new_br2 | blame<br>pledge |  
-| bip_39_word_new_br3 | blame<br>pledge<br>clock |  
-| bip_39_word_new_br4 | blame<br>pledge<br>clock<br>help |  
-| bip_39_word_new_br5 | blame<br>pledge<br>clock<br>help<br>monster |  
-| bip_39_word_new_br6 | blame<br>pledge<br>clock<br>help<br>monster<br>swift |  
-| bip_39_word_new_br7 | blame<br>pledge<br>clock<br>help<br>monster<br>swift<br>trophy |  
-| bip_39_word_new_br8 | blame<br>pledge<br>clock<br>help<br>monster<br>swift<br>trophy<br>coyote |  
-| bip_39_word_new_br9 | blame<br>pledge<br>clock<br>help<br>monster<br>swift<br>trophy<br>coyote<br>deliver |  
-| bip_39_word_new_line1 | blame |  
-| bip_39_word_new_line10 | blame
+| bip_39_word_new_br_1 | blame |  
+| bip_39_word_new_br_10 | blame<br>pledge<br>clock<br>help<br>monster<br>swift<br>trophy<br>coyote<br>deliver<br>strike |  
+| bip_39_word_new_br_11 | blame<br>pledge<br>clock<br>help<br>monster<br>swift<br>trophy<br>coyote<br>deliver<br>strike<br>limit |  
+| bip_39_word_new_br_12 | blame<br>pledge<br>clock<br>help<br>monster<br>swift<br>trophy<br>coyote<br>deliver<br>strike<br>limit<br>april |  
+| bip_39_word_new_br_2 | blame<br>pledge |  
+| bip_39_word_new_br_3 | blame<br>pledge<br>clock |  
+| bip_39_word_new_br_4 | blame<br>pledge<br>clock<br>help |  
+| bip_39_word_new_br_5 | blame<br>pledge<br>clock<br>help<br>monster |  
+| bip_39_word_new_br_6 | blame<br>pledge<br>clock<br>help<br>monster<br>swift |  
+| bip_39_word_new_br_7 | blame<br>pledge<br>clock<br>help<br>monster<br>swift<br>trophy |  
+| bip_39_word_new_br_8 | blame<br>pledge<br>clock<br>help<br>monster<br>swift<br>trophy<br>coyote |  
+| bip_39_word_new_br_9 | blame<br>pledge<br>clock<br>help<br>monster<br>swift<br>trophy<br>coyote<br>deliver |  
+| bip_39_word_new_line_1 | blame |  
+| bip_39_word_new_line_10 | blame
 pledge
 clock
 help
@@ -55,7 +55,7 @@ trophy
 coyote
 deliver
 strike |  
-| bip_39_word_new_line11 | blame
+| bip_39_word_new_line_11 | blame
 pledge
 clock
 help
@@ -66,7 +66,7 @@ coyote
 deliver
 strike
 limit |  
-| bip_39_word_new_line12 | blame
+| bip_39_word_new_line_12 | blame
 pledge
 clock
 help
@@ -78,34 +78,34 @@ deliver
 strike
 limit
 april |  
-| bip_39_word_new_line2 | blame
+| bip_39_word_new_line_2 | blame
 pledge |  
-| bip_39_word_new_line3 | blame
+| bip_39_word_new_line_3 | blame
 pledge
 clock |  
-| bip_39_word_new_line4 | blame
+| bip_39_word_new_line_4 | blame
 pledge
 clock
 help |  
-| bip_39_word_new_line5 | blame
+| bip_39_word_new_line_5 | blame
 pledge
 clock
 help
 monster |  
-| bip_39_word_new_line6 | blame
+| bip_39_word_new_line_6 | blame
 pledge
 clock
 help
 monster
 swift |  
-| bip_39_word_new_line7 | blame
+| bip_39_word_new_line_7 | blame
 pledge
 clock
 help
 monster
 swift
 trophy |  
-| bip_39_word_new_line8 | blame
+| bip_39_word_new_line_8 | blame
 pledge
 clock
 help
@@ -113,7 +113,7 @@ monster
 swift
 trophy
 coyote |  
-| bip_39_word_new_line9 | blame
+| bip_39_word_new_line_9 | blame
 pledge
 clock
 help

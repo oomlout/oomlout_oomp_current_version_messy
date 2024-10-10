@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | approve |  
-| bip_39_word_new_br10 | approve<br>around<br>charge<br>agent<br>drama<br>educate<br>hollow<br>century<br>float<br>wife |  
-| bip_39_word_new_br11 | approve<br>around<br>charge<br>agent<br>drama<br>educate<br>hollow<br>century<br>float<br>wife<br>dirt |  
-| bip_39_word_new_br12 | approve<br>around<br>charge<br>agent<br>drama<br>educate<br>hollow<br>century<br>float<br>wife<br>dirt<br>artist |  
-| bip_39_word_new_br2 | approve<br>around |  
-| bip_39_word_new_br3 | approve<br>around<br>charge |  
-| bip_39_word_new_br4 | approve<br>around<br>charge<br>agent |  
-| bip_39_word_new_br5 | approve<br>around<br>charge<br>agent<br>drama |  
-| bip_39_word_new_br6 | approve<br>around<br>charge<br>agent<br>drama<br>educate |  
-| bip_39_word_new_br7 | approve<br>around<br>charge<br>agent<br>drama<br>educate<br>hollow |  
-| bip_39_word_new_br8 | approve<br>around<br>charge<br>agent<br>drama<br>educate<br>hollow<br>century |  
-| bip_39_word_new_br9 | approve<br>around<br>charge<br>agent<br>drama<br>educate<br>hollow<br>century<br>float |  
-| bip_39_word_new_line1 | approve |  
-| bip_39_word_new_line10 | approve
+| bip_39_word_new_br_1 | approve |  
+| bip_39_word_new_br_10 | approve<br>around<br>charge<br>agent<br>drama<br>educate<br>hollow<br>century<br>float<br>wife |  
+| bip_39_word_new_br_11 | approve<br>around<br>charge<br>agent<br>drama<br>educate<br>hollow<br>century<br>float<br>wife<br>dirt |  
+| bip_39_word_new_br_12 | approve<br>around<br>charge<br>agent<br>drama<br>educate<br>hollow<br>century<br>float<br>wife<br>dirt<br>artist |  
+| bip_39_word_new_br_2 | approve<br>around |  
+| bip_39_word_new_br_3 | approve<br>around<br>charge |  
+| bip_39_word_new_br_4 | approve<br>around<br>charge<br>agent |  
+| bip_39_word_new_br_5 | approve<br>around<br>charge<br>agent<br>drama |  
+| bip_39_word_new_br_6 | approve<br>around<br>charge<br>agent<br>drama<br>educate |  
+| bip_39_word_new_br_7 | approve<br>around<br>charge<br>agent<br>drama<br>educate<br>hollow |  
+| bip_39_word_new_br_8 | approve<br>around<br>charge<br>agent<br>drama<br>educate<br>hollow<br>century |  
+| bip_39_word_new_br_9 | approve<br>around<br>charge<br>agent<br>drama<br>educate<br>hollow<br>century<br>float |  
+| bip_39_word_new_line_1 | approve |  
+| bip_39_word_new_line_10 | approve
 around
 charge
 agent
@@ -55,7 +55,7 @@ hollow
 century
 float
 wife |  
-| bip_39_word_new_line11 | approve
+| bip_39_word_new_line_11 | approve
 around
 charge
 agent
@@ -66,7 +66,7 @@ century
 float
 wife
 dirt |  
-| bip_39_word_new_line12 | approve
+| bip_39_word_new_line_12 | approve
 around
 charge
 agent
@@ -78,34 +78,34 @@ float
 wife
 dirt
 artist |  
-| bip_39_word_new_line2 | approve
+| bip_39_word_new_line_2 | approve
 around |  
-| bip_39_word_new_line3 | approve
+| bip_39_word_new_line_3 | approve
 around
 charge |  
-| bip_39_word_new_line4 | approve
+| bip_39_word_new_line_4 | approve
 around
 charge
 agent |  
-| bip_39_word_new_line5 | approve
+| bip_39_word_new_line_5 | approve
 around
 charge
 agent
 drama |  
-| bip_39_word_new_line6 | approve
+| bip_39_word_new_line_6 | approve
 around
 charge
 agent
 drama
 educate |  
-| bip_39_word_new_line7 | approve
+| bip_39_word_new_line_7 | approve
 around
 charge
 agent
 drama
 educate
 hollow |  
-| bip_39_word_new_line8 | approve
+| bip_39_word_new_line_8 | approve
 around
 charge
 agent
@@ -113,7 +113,7 @@ drama
 educate
 hollow
 century |  
-| bip_39_word_new_line9 | approve
+| bip_39_word_new_line_9 | approve
 around
 charge
 agent

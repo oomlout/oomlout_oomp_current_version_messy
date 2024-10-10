@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rib |  
-| bip_39_word_new_br10 | rib<br>guilt<br>mesh<br>gallery<br>people<br>mixed<br>ritual<br>tip<br>usage<br>allow |  
-| bip_39_word_new_br11 | rib<br>guilt<br>mesh<br>gallery<br>people<br>mixed<br>ritual<br>tip<br>usage<br>allow<br>disorder |  
-| bip_39_word_new_br12 | rib<br>guilt<br>mesh<br>gallery<br>people<br>mixed<br>ritual<br>tip<br>usage<br>allow<br>disorder<br>arrive |  
-| bip_39_word_new_br2 | rib<br>guilt |  
-| bip_39_word_new_br3 | rib<br>guilt<br>mesh |  
-| bip_39_word_new_br4 | rib<br>guilt<br>mesh<br>gallery |  
-| bip_39_word_new_br5 | rib<br>guilt<br>mesh<br>gallery<br>people |  
-| bip_39_word_new_br6 | rib<br>guilt<br>mesh<br>gallery<br>people<br>mixed |  
-| bip_39_word_new_br7 | rib<br>guilt<br>mesh<br>gallery<br>people<br>mixed<br>ritual |  
-| bip_39_word_new_br8 | rib<br>guilt<br>mesh<br>gallery<br>people<br>mixed<br>ritual<br>tip |  
-| bip_39_word_new_br9 | rib<br>guilt<br>mesh<br>gallery<br>people<br>mixed<br>ritual<br>tip<br>usage |  
-| bip_39_word_new_line1 | rib |  
-| bip_39_word_new_line10 | rib
+| bip_39_word_new_br_1 | rib |  
+| bip_39_word_new_br_10 | rib<br>guilt<br>mesh<br>gallery<br>people<br>mixed<br>ritual<br>tip<br>usage<br>allow |  
+| bip_39_word_new_br_11 | rib<br>guilt<br>mesh<br>gallery<br>people<br>mixed<br>ritual<br>tip<br>usage<br>allow<br>disorder |  
+| bip_39_word_new_br_12 | rib<br>guilt<br>mesh<br>gallery<br>people<br>mixed<br>ritual<br>tip<br>usage<br>allow<br>disorder<br>arrive |  
+| bip_39_word_new_br_2 | rib<br>guilt |  
+| bip_39_word_new_br_3 | rib<br>guilt<br>mesh |  
+| bip_39_word_new_br_4 | rib<br>guilt<br>mesh<br>gallery |  
+| bip_39_word_new_br_5 | rib<br>guilt<br>mesh<br>gallery<br>people |  
+| bip_39_word_new_br_6 | rib<br>guilt<br>mesh<br>gallery<br>people<br>mixed |  
+| bip_39_word_new_br_7 | rib<br>guilt<br>mesh<br>gallery<br>people<br>mixed<br>ritual |  
+| bip_39_word_new_br_8 | rib<br>guilt<br>mesh<br>gallery<br>people<br>mixed<br>ritual<br>tip |  
+| bip_39_word_new_br_9 | rib<br>guilt<br>mesh<br>gallery<br>people<br>mixed<br>ritual<br>tip<br>usage |  
+| bip_39_word_new_line_1 | rib |  
+| bip_39_word_new_line_10 | rib
 guilt
 mesh
 gallery
@@ -55,7 +55,7 @@ ritual
 tip
 usage
 allow |  
-| bip_39_word_new_line11 | rib
+| bip_39_word_new_line_11 | rib
 guilt
 mesh
 gallery
@@ -66,7 +66,7 @@ tip
 usage
 allow
 disorder |  
-| bip_39_word_new_line12 | rib
+| bip_39_word_new_line_12 | rib
 guilt
 mesh
 gallery
@@ -78,34 +78,34 @@ usage
 allow
 disorder
 arrive |  
-| bip_39_word_new_line2 | rib
+| bip_39_word_new_line_2 | rib
 guilt |  
-| bip_39_word_new_line3 | rib
+| bip_39_word_new_line_3 | rib
 guilt
 mesh |  
-| bip_39_word_new_line4 | rib
+| bip_39_word_new_line_4 | rib
 guilt
 mesh
 gallery |  
-| bip_39_word_new_line5 | rib
+| bip_39_word_new_line_5 | rib
 guilt
 mesh
 gallery
 people |  
-| bip_39_word_new_line6 | rib
+| bip_39_word_new_line_6 | rib
 guilt
 mesh
 gallery
 people
 mixed |  
-| bip_39_word_new_line7 | rib
+| bip_39_word_new_line_7 | rib
 guilt
 mesh
 gallery
 people
 mixed
 ritual |  
-| bip_39_word_new_line8 | rib
+| bip_39_word_new_line_8 | rib
 guilt
 mesh
 gallery
@@ -113,7 +113,7 @@ people
 mixed
 ritual
 tip |  
-| bip_39_word_new_line9 | rib
+| bip_39_word_new_line_9 | rib
 guilt
 mesh
 gallery

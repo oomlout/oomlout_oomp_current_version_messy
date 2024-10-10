@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | observe |  
-| bip_39_word_new_br10 | observe<br>border<br>arctic<br>build<br>priority<br>addict<br>dizzy<br>giraffe<br>art<br>acoustic |  
-| bip_39_word_new_br11 | observe<br>border<br>arctic<br>build<br>priority<br>addict<br>dizzy<br>giraffe<br>art<br>acoustic<br>ride |  
-| bip_39_word_new_br12 | observe<br>border<br>arctic<br>build<br>priority<br>addict<br>dizzy<br>giraffe<br>art<br>acoustic<br>ride<br>average |  
-| bip_39_word_new_br2 | observe<br>border |  
-| bip_39_word_new_br3 | observe<br>border<br>arctic |  
-| bip_39_word_new_br4 | observe<br>border<br>arctic<br>build |  
-| bip_39_word_new_br5 | observe<br>border<br>arctic<br>build<br>priority |  
-| bip_39_word_new_br6 | observe<br>border<br>arctic<br>build<br>priority<br>addict |  
-| bip_39_word_new_br7 | observe<br>border<br>arctic<br>build<br>priority<br>addict<br>dizzy |  
-| bip_39_word_new_br8 | observe<br>border<br>arctic<br>build<br>priority<br>addict<br>dizzy<br>giraffe |  
-| bip_39_word_new_br9 | observe<br>border<br>arctic<br>build<br>priority<br>addict<br>dizzy<br>giraffe<br>art |  
-| bip_39_word_new_line1 | observe |  
-| bip_39_word_new_line10 | observe
+| bip_39_word_new_br_1 | observe |  
+| bip_39_word_new_br_10 | observe<br>border<br>arctic<br>build<br>priority<br>addict<br>dizzy<br>giraffe<br>art<br>acoustic |  
+| bip_39_word_new_br_11 | observe<br>border<br>arctic<br>build<br>priority<br>addict<br>dizzy<br>giraffe<br>art<br>acoustic<br>ride |  
+| bip_39_word_new_br_12 | observe<br>border<br>arctic<br>build<br>priority<br>addict<br>dizzy<br>giraffe<br>art<br>acoustic<br>ride<br>average |  
+| bip_39_word_new_br_2 | observe<br>border |  
+| bip_39_word_new_br_3 | observe<br>border<br>arctic |  
+| bip_39_word_new_br_4 | observe<br>border<br>arctic<br>build |  
+| bip_39_word_new_br_5 | observe<br>border<br>arctic<br>build<br>priority |  
+| bip_39_word_new_br_6 | observe<br>border<br>arctic<br>build<br>priority<br>addict |  
+| bip_39_word_new_br_7 | observe<br>border<br>arctic<br>build<br>priority<br>addict<br>dizzy |  
+| bip_39_word_new_br_8 | observe<br>border<br>arctic<br>build<br>priority<br>addict<br>dizzy<br>giraffe |  
+| bip_39_word_new_br_9 | observe<br>border<br>arctic<br>build<br>priority<br>addict<br>dizzy<br>giraffe<br>art |  
+| bip_39_word_new_line_1 | observe |  
+| bip_39_word_new_line_10 | observe
 border
 arctic
 build
@@ -55,7 +55,7 @@ dizzy
 giraffe
 art
 acoustic |  
-| bip_39_word_new_line11 | observe
+| bip_39_word_new_line_11 | observe
 border
 arctic
 build
@@ -66,7 +66,7 @@ giraffe
 art
 acoustic
 ride |  
-| bip_39_word_new_line12 | observe
+| bip_39_word_new_line_12 | observe
 border
 arctic
 build
@@ -78,34 +78,34 @@ art
 acoustic
 ride
 average |  
-| bip_39_word_new_line2 | observe
+| bip_39_word_new_line_2 | observe
 border |  
-| bip_39_word_new_line3 | observe
+| bip_39_word_new_line_3 | observe
 border
 arctic |  
-| bip_39_word_new_line4 | observe
+| bip_39_word_new_line_4 | observe
 border
 arctic
 build |  
-| bip_39_word_new_line5 | observe
+| bip_39_word_new_line_5 | observe
 border
 arctic
 build
 priority |  
-| bip_39_word_new_line6 | observe
+| bip_39_word_new_line_6 | observe
 border
 arctic
 build
 priority
 addict |  
-| bip_39_word_new_line7 | observe
+| bip_39_word_new_line_7 | observe
 border
 arctic
 build
 priority
 addict
 dizzy |  
-| bip_39_word_new_line8 | observe
+| bip_39_word_new_line_8 | observe
 border
 arctic
 build
@@ -113,7 +113,7 @@ priority
 addict
 dizzy
 giraffe |  
-| bip_39_word_new_line9 | observe
+| bip_39_word_new_line_9 | observe
 border
 arctic
 build

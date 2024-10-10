@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | power |  
-| bip_39_word_new_br10 | power<br>end<br>recipe<br>alert<br>boat<br>also<br>crop<br>friend<br>panic<br>spot |  
-| bip_39_word_new_br11 | power<br>end<br>recipe<br>alert<br>boat<br>also<br>crop<br>friend<br>panic<br>spot<br>ivory |  
-| bip_39_word_new_br12 | power<br>end<br>recipe<br>alert<br>boat<br>also<br>crop<br>friend<br>panic<br>spot<br>ivory<br>advice |  
-| bip_39_word_new_br2 | power<br>end |  
-| bip_39_word_new_br3 | power<br>end<br>recipe |  
-| bip_39_word_new_br4 | power<br>end<br>recipe<br>alert |  
-| bip_39_word_new_br5 | power<br>end<br>recipe<br>alert<br>boat |  
-| bip_39_word_new_br6 | power<br>end<br>recipe<br>alert<br>boat<br>also |  
-| bip_39_word_new_br7 | power<br>end<br>recipe<br>alert<br>boat<br>also<br>crop |  
-| bip_39_word_new_br8 | power<br>end<br>recipe<br>alert<br>boat<br>also<br>crop<br>friend |  
-| bip_39_word_new_br9 | power<br>end<br>recipe<br>alert<br>boat<br>also<br>crop<br>friend<br>panic |  
-| bip_39_word_new_line1 | power |  
-| bip_39_word_new_line10 | power
+| bip_39_word_new_br_1 | power |  
+| bip_39_word_new_br_10 | power<br>end<br>recipe<br>alert<br>boat<br>also<br>crop<br>friend<br>panic<br>spot |  
+| bip_39_word_new_br_11 | power<br>end<br>recipe<br>alert<br>boat<br>also<br>crop<br>friend<br>panic<br>spot<br>ivory |  
+| bip_39_word_new_br_12 | power<br>end<br>recipe<br>alert<br>boat<br>also<br>crop<br>friend<br>panic<br>spot<br>ivory<br>advice |  
+| bip_39_word_new_br_2 | power<br>end |  
+| bip_39_word_new_br_3 | power<br>end<br>recipe |  
+| bip_39_word_new_br_4 | power<br>end<br>recipe<br>alert |  
+| bip_39_word_new_br_5 | power<br>end<br>recipe<br>alert<br>boat |  
+| bip_39_word_new_br_6 | power<br>end<br>recipe<br>alert<br>boat<br>also |  
+| bip_39_word_new_br_7 | power<br>end<br>recipe<br>alert<br>boat<br>also<br>crop |  
+| bip_39_word_new_br_8 | power<br>end<br>recipe<br>alert<br>boat<br>also<br>crop<br>friend |  
+| bip_39_word_new_br_9 | power<br>end<br>recipe<br>alert<br>boat<br>also<br>crop<br>friend<br>panic |  
+| bip_39_word_new_line_1 | power |  
+| bip_39_word_new_line_10 | power
 end
 recipe
 alert
@@ -55,7 +55,7 @@ crop
 friend
 panic
 spot |  
-| bip_39_word_new_line11 | power
+| bip_39_word_new_line_11 | power
 end
 recipe
 alert
@@ -66,7 +66,7 @@ friend
 panic
 spot
 ivory |  
-| bip_39_word_new_line12 | power
+| bip_39_word_new_line_12 | power
 end
 recipe
 alert
@@ -78,34 +78,34 @@ panic
 spot
 ivory
 advice |  
-| bip_39_word_new_line2 | power
+| bip_39_word_new_line_2 | power
 end |  
-| bip_39_word_new_line3 | power
+| bip_39_word_new_line_3 | power
 end
 recipe |  
-| bip_39_word_new_line4 | power
+| bip_39_word_new_line_4 | power
 end
 recipe
 alert |  
-| bip_39_word_new_line5 | power
+| bip_39_word_new_line_5 | power
 end
 recipe
 alert
 boat |  
-| bip_39_word_new_line6 | power
+| bip_39_word_new_line_6 | power
 end
 recipe
 alert
 boat
 also |  
-| bip_39_word_new_line7 | power
+| bip_39_word_new_line_7 | power
 end
 recipe
 alert
 boat
 also
 crop |  
-| bip_39_word_new_line8 | power
+| bip_39_word_new_line_8 | power
 end
 recipe
 alert
@@ -113,7 +113,7 @@ boat
 also
 crop
 friend |  
-| bip_39_word_new_line9 | power
+| bip_39_word_new_line_9 | power
 end
 recipe
 alert

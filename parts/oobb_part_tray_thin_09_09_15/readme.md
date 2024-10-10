@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | connect |  
-| bip_39_word_new_br10 | connect<br>giant<br>immense<br>grass<br>museum<br>immune<br>cannon<br>math<br>portion<br>exile |  
-| bip_39_word_new_br11 | connect<br>giant<br>immense<br>grass<br>museum<br>immune<br>cannon<br>math<br>portion<br>exile<br>garden |  
-| bip_39_word_new_br12 | connect<br>giant<br>immense<br>grass<br>museum<br>immune<br>cannon<br>math<br>portion<br>exile<br>garden<br>animal |  
-| bip_39_word_new_br2 | connect<br>giant |  
-| bip_39_word_new_br3 | connect<br>giant<br>immense |  
-| bip_39_word_new_br4 | connect<br>giant<br>immense<br>grass |  
-| bip_39_word_new_br5 | connect<br>giant<br>immense<br>grass<br>museum |  
-| bip_39_word_new_br6 | connect<br>giant<br>immense<br>grass<br>museum<br>immune |  
-| bip_39_word_new_br7 | connect<br>giant<br>immense<br>grass<br>museum<br>immune<br>cannon |  
-| bip_39_word_new_br8 | connect<br>giant<br>immense<br>grass<br>museum<br>immune<br>cannon<br>math |  
-| bip_39_word_new_br9 | connect<br>giant<br>immense<br>grass<br>museum<br>immune<br>cannon<br>math<br>portion |  
-| bip_39_word_new_line1 | connect |  
-| bip_39_word_new_line10 | connect
+| bip_39_word_new_br_1 | connect |  
+| bip_39_word_new_br_10 | connect<br>giant<br>immense<br>grass<br>museum<br>immune<br>cannon<br>math<br>portion<br>exile |  
+| bip_39_word_new_br_11 | connect<br>giant<br>immense<br>grass<br>museum<br>immune<br>cannon<br>math<br>portion<br>exile<br>garden |  
+| bip_39_word_new_br_12 | connect<br>giant<br>immense<br>grass<br>museum<br>immune<br>cannon<br>math<br>portion<br>exile<br>garden<br>animal |  
+| bip_39_word_new_br_2 | connect<br>giant |  
+| bip_39_word_new_br_3 | connect<br>giant<br>immense |  
+| bip_39_word_new_br_4 | connect<br>giant<br>immense<br>grass |  
+| bip_39_word_new_br_5 | connect<br>giant<br>immense<br>grass<br>museum |  
+| bip_39_word_new_br_6 | connect<br>giant<br>immense<br>grass<br>museum<br>immune |  
+| bip_39_word_new_br_7 | connect<br>giant<br>immense<br>grass<br>museum<br>immune<br>cannon |  
+| bip_39_word_new_br_8 | connect<br>giant<br>immense<br>grass<br>museum<br>immune<br>cannon<br>math |  
+| bip_39_word_new_br_9 | connect<br>giant<br>immense<br>grass<br>museum<br>immune<br>cannon<br>math<br>portion |  
+| bip_39_word_new_line_1 | connect |  
+| bip_39_word_new_line_10 | connect
 giant
 immense
 grass
@@ -55,7 +55,7 @@ cannon
 math
 portion
 exile |  
-| bip_39_word_new_line11 | connect
+| bip_39_word_new_line_11 | connect
 giant
 immense
 grass
@@ -66,7 +66,7 @@ math
 portion
 exile
 garden |  
-| bip_39_word_new_line12 | connect
+| bip_39_word_new_line_12 | connect
 giant
 immense
 grass
@@ -78,34 +78,34 @@ portion
 exile
 garden
 animal |  
-| bip_39_word_new_line2 | connect
+| bip_39_word_new_line_2 | connect
 giant |  
-| bip_39_word_new_line3 | connect
+| bip_39_word_new_line_3 | connect
 giant
 immense |  
-| bip_39_word_new_line4 | connect
+| bip_39_word_new_line_4 | connect
 giant
 immense
 grass |  
-| bip_39_word_new_line5 | connect
+| bip_39_word_new_line_5 | connect
 giant
 immense
 grass
 museum |  
-| bip_39_word_new_line6 | connect
+| bip_39_word_new_line_6 | connect
 giant
 immense
 grass
 museum
 immune |  
-| bip_39_word_new_line7 | connect
+| bip_39_word_new_line_7 | connect
 giant
 immense
 grass
 museum
 immune
 cannon |  
-| bip_39_word_new_line8 | connect
+| bip_39_word_new_line_8 | connect
 giant
 immense
 grass
@@ -113,7 +113,7 @@ museum
 immune
 cannon
 math |  
-| bip_39_word_new_line9 | connect
+| bip_39_word_new_line_9 | connect
 giant
 immense
 grass

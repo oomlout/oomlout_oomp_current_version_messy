@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wide |  
-| bip_39_word_new_br10 | wide<br>glove<br>square<br>fiscal<br>drum<br>ski<br>narrow<br>mobile<br>dizzy<br>laundry |  
-| bip_39_word_new_br11 | wide<br>glove<br>square<br>fiscal<br>drum<br>ski<br>narrow<br>mobile<br>dizzy<br>laundry<br>toddler |  
-| bip_39_word_new_br12 | wide<br>glove<br>square<br>fiscal<br>drum<br>ski<br>narrow<br>mobile<br>dizzy<br>laundry<br>toddler<br>art |  
-| bip_39_word_new_br2 | wide<br>glove |  
-| bip_39_word_new_br3 | wide<br>glove<br>square |  
-| bip_39_word_new_br4 | wide<br>glove<br>square<br>fiscal |  
-| bip_39_word_new_br5 | wide<br>glove<br>square<br>fiscal<br>drum |  
-| bip_39_word_new_br6 | wide<br>glove<br>square<br>fiscal<br>drum<br>ski |  
-| bip_39_word_new_br7 | wide<br>glove<br>square<br>fiscal<br>drum<br>ski<br>narrow |  
-| bip_39_word_new_br8 | wide<br>glove<br>square<br>fiscal<br>drum<br>ski<br>narrow<br>mobile |  
-| bip_39_word_new_br9 | wide<br>glove<br>square<br>fiscal<br>drum<br>ski<br>narrow<br>mobile<br>dizzy |  
-| bip_39_word_new_line1 | wide |  
-| bip_39_word_new_line10 | wide
+| bip_39_word_new_br_1 | wide |  
+| bip_39_word_new_br_10 | wide<br>glove<br>square<br>fiscal<br>drum<br>ski<br>narrow<br>mobile<br>dizzy<br>laundry |  
+| bip_39_word_new_br_11 | wide<br>glove<br>square<br>fiscal<br>drum<br>ski<br>narrow<br>mobile<br>dizzy<br>laundry<br>toddler |  
+| bip_39_word_new_br_12 | wide<br>glove<br>square<br>fiscal<br>drum<br>ski<br>narrow<br>mobile<br>dizzy<br>laundry<br>toddler<br>art |  
+| bip_39_word_new_br_2 | wide<br>glove |  
+| bip_39_word_new_br_3 | wide<br>glove<br>square |  
+| bip_39_word_new_br_4 | wide<br>glove<br>square<br>fiscal |  
+| bip_39_word_new_br_5 | wide<br>glove<br>square<br>fiscal<br>drum |  
+| bip_39_word_new_br_6 | wide<br>glove<br>square<br>fiscal<br>drum<br>ski |  
+| bip_39_word_new_br_7 | wide<br>glove<br>square<br>fiscal<br>drum<br>ski<br>narrow |  
+| bip_39_word_new_br_8 | wide<br>glove<br>square<br>fiscal<br>drum<br>ski<br>narrow<br>mobile |  
+| bip_39_word_new_br_9 | wide<br>glove<br>square<br>fiscal<br>drum<br>ski<br>narrow<br>mobile<br>dizzy |  
+| bip_39_word_new_line_1 | wide |  
+| bip_39_word_new_line_10 | wide
 glove
 square
 fiscal
@@ -55,7 +55,7 @@ narrow
 mobile
 dizzy
 laundry |  
-| bip_39_word_new_line11 | wide
+| bip_39_word_new_line_11 | wide
 glove
 square
 fiscal
@@ -66,7 +66,7 @@ mobile
 dizzy
 laundry
 toddler |  
-| bip_39_word_new_line12 | wide
+| bip_39_word_new_line_12 | wide
 glove
 square
 fiscal
@@ -78,34 +78,34 @@ dizzy
 laundry
 toddler
 art |  
-| bip_39_word_new_line2 | wide
+| bip_39_word_new_line_2 | wide
 glove |  
-| bip_39_word_new_line3 | wide
+| bip_39_word_new_line_3 | wide
 glove
 square |  
-| bip_39_word_new_line4 | wide
+| bip_39_word_new_line_4 | wide
 glove
 square
 fiscal |  
-| bip_39_word_new_line5 | wide
+| bip_39_word_new_line_5 | wide
 glove
 square
 fiscal
 drum |  
-| bip_39_word_new_line6 | wide
+| bip_39_word_new_line_6 | wide
 glove
 square
 fiscal
 drum
 ski |  
-| bip_39_word_new_line7 | wide
+| bip_39_word_new_line_7 | wide
 glove
 square
 fiscal
 drum
 ski
 narrow |  
-| bip_39_word_new_line8 | wide
+| bip_39_word_new_line_8 | wide
 glove
 square
 fiscal
@@ -113,7 +113,7 @@ drum
 ski
 narrow
 mobile |  
-| bip_39_word_new_line9 | wide
+| bip_39_word_new_line_9 | wide
 glove
 square
 fiscal

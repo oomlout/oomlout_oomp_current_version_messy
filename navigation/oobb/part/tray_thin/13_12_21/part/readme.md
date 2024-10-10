@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | once |  
-| bip_39_word_new_br10 | once<br>exhibit<br>color<br>trend<br>actor<br>crash<br>evoke<br>shrug<br>prepare<br>exhaust |  
-| bip_39_word_new_br11 | once<br>exhibit<br>color<br>trend<br>actor<br>crash<br>evoke<br>shrug<br>prepare<br>exhaust<br>legal |  
-| bip_39_word_new_br12 | once<br>exhibit<br>color<br>trend<br>actor<br>crash<br>evoke<br>shrug<br>prepare<br>exhaust<br>legal<br>affair |  
-| bip_39_word_new_br2 | once<br>exhibit |  
-| bip_39_word_new_br3 | once<br>exhibit<br>color |  
-| bip_39_word_new_br4 | once<br>exhibit<br>color<br>trend |  
-| bip_39_word_new_br5 | once<br>exhibit<br>color<br>trend<br>actor |  
-| bip_39_word_new_br6 | once<br>exhibit<br>color<br>trend<br>actor<br>crash |  
-| bip_39_word_new_br7 | once<br>exhibit<br>color<br>trend<br>actor<br>crash<br>evoke |  
-| bip_39_word_new_br8 | once<br>exhibit<br>color<br>trend<br>actor<br>crash<br>evoke<br>shrug |  
-| bip_39_word_new_br9 | once<br>exhibit<br>color<br>trend<br>actor<br>crash<br>evoke<br>shrug<br>prepare |  
-| bip_39_word_new_line1 | once |  
-| bip_39_word_new_line10 | once
+| bip_39_word_new_br_1 | once |  
+| bip_39_word_new_br_10 | once<br>exhibit<br>color<br>trend<br>actor<br>crash<br>evoke<br>shrug<br>prepare<br>exhaust |  
+| bip_39_word_new_br_11 | once<br>exhibit<br>color<br>trend<br>actor<br>crash<br>evoke<br>shrug<br>prepare<br>exhaust<br>legal |  
+| bip_39_word_new_br_12 | once<br>exhibit<br>color<br>trend<br>actor<br>crash<br>evoke<br>shrug<br>prepare<br>exhaust<br>legal<br>affair |  
+| bip_39_word_new_br_2 | once<br>exhibit |  
+| bip_39_word_new_br_3 | once<br>exhibit<br>color |  
+| bip_39_word_new_br_4 | once<br>exhibit<br>color<br>trend |  
+| bip_39_word_new_br_5 | once<br>exhibit<br>color<br>trend<br>actor |  
+| bip_39_word_new_br_6 | once<br>exhibit<br>color<br>trend<br>actor<br>crash |  
+| bip_39_word_new_br_7 | once<br>exhibit<br>color<br>trend<br>actor<br>crash<br>evoke |  
+| bip_39_word_new_br_8 | once<br>exhibit<br>color<br>trend<br>actor<br>crash<br>evoke<br>shrug |  
+| bip_39_word_new_br_9 | once<br>exhibit<br>color<br>trend<br>actor<br>crash<br>evoke<br>shrug<br>prepare |  
+| bip_39_word_new_line_1 | once |  
+| bip_39_word_new_line_10 | once
 exhibit
 color
 trend
@@ -55,7 +55,7 @@ evoke
 shrug
 prepare
 exhaust |  
-| bip_39_word_new_line11 | once
+| bip_39_word_new_line_11 | once
 exhibit
 color
 trend
@@ -66,7 +66,7 @@ shrug
 prepare
 exhaust
 legal |  
-| bip_39_word_new_line12 | once
+| bip_39_word_new_line_12 | once
 exhibit
 color
 trend
@@ -78,34 +78,34 @@ prepare
 exhaust
 legal
 affair |  
-| bip_39_word_new_line2 | once
+| bip_39_word_new_line_2 | once
 exhibit |  
-| bip_39_word_new_line3 | once
+| bip_39_word_new_line_3 | once
 exhibit
 color |  
-| bip_39_word_new_line4 | once
+| bip_39_word_new_line_4 | once
 exhibit
 color
 trend |  
-| bip_39_word_new_line5 | once
+| bip_39_word_new_line_5 | once
 exhibit
 color
 trend
 actor |  
-| bip_39_word_new_line6 | once
+| bip_39_word_new_line_6 | once
 exhibit
 color
 trend
 actor
 crash |  
-| bip_39_word_new_line7 | once
+| bip_39_word_new_line_7 | once
 exhibit
 color
 trend
 actor
 crash
 evoke |  
-| bip_39_word_new_line8 | once
+| bip_39_word_new_line_8 | once
 exhibit
 color
 trend
@@ -113,7 +113,7 @@ actor
 crash
 evoke
 shrug |  
-| bip_39_word_new_line9 | once
+| bip_39_word_new_line_9 | once
 exhibit
 color
 trend

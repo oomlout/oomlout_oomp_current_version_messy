@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | decade |  
-| bip_39_word_new_br10 | decade<br>shoulder<br>arena<br>avoid<br>team<br>fiction<br>setup<br>panther<br>help<br>february |  
-| bip_39_word_new_br11 | decade<br>shoulder<br>arena<br>avoid<br>team<br>fiction<br>setup<br>panther<br>help<br>february<br>wire |  
-| bip_39_word_new_br12 | decade<br>shoulder<br>arena<br>avoid<br>team<br>fiction<br>setup<br>panther<br>help<br>february<br>wire<br>assist |  
-| bip_39_word_new_br2 | decade<br>shoulder |  
-| bip_39_word_new_br3 | decade<br>shoulder<br>arena |  
-| bip_39_word_new_br4 | decade<br>shoulder<br>arena<br>avoid |  
-| bip_39_word_new_br5 | decade<br>shoulder<br>arena<br>avoid<br>team |  
-| bip_39_word_new_br6 | decade<br>shoulder<br>arena<br>avoid<br>team<br>fiction |  
-| bip_39_word_new_br7 | decade<br>shoulder<br>arena<br>avoid<br>team<br>fiction<br>setup |  
-| bip_39_word_new_br8 | decade<br>shoulder<br>arena<br>avoid<br>team<br>fiction<br>setup<br>panther |  
-| bip_39_word_new_br9 | decade<br>shoulder<br>arena<br>avoid<br>team<br>fiction<br>setup<br>panther<br>help |  
-| bip_39_word_new_line1 | decade |  
-| bip_39_word_new_line10 | decade
+| bip_39_word_new_br_1 | decade |  
+| bip_39_word_new_br_10 | decade<br>shoulder<br>arena<br>avoid<br>team<br>fiction<br>setup<br>panther<br>help<br>february |  
+| bip_39_word_new_br_11 | decade<br>shoulder<br>arena<br>avoid<br>team<br>fiction<br>setup<br>panther<br>help<br>february<br>wire |  
+| bip_39_word_new_br_12 | decade<br>shoulder<br>arena<br>avoid<br>team<br>fiction<br>setup<br>panther<br>help<br>february<br>wire<br>assist |  
+| bip_39_word_new_br_2 | decade<br>shoulder |  
+| bip_39_word_new_br_3 | decade<br>shoulder<br>arena |  
+| bip_39_word_new_br_4 | decade<br>shoulder<br>arena<br>avoid |  
+| bip_39_word_new_br_5 | decade<br>shoulder<br>arena<br>avoid<br>team |  
+| bip_39_word_new_br_6 | decade<br>shoulder<br>arena<br>avoid<br>team<br>fiction |  
+| bip_39_word_new_br_7 | decade<br>shoulder<br>arena<br>avoid<br>team<br>fiction<br>setup |  
+| bip_39_word_new_br_8 | decade<br>shoulder<br>arena<br>avoid<br>team<br>fiction<br>setup<br>panther |  
+| bip_39_word_new_br_9 | decade<br>shoulder<br>arena<br>avoid<br>team<br>fiction<br>setup<br>panther<br>help |  
+| bip_39_word_new_line_1 | decade |  
+| bip_39_word_new_line_10 | decade
 shoulder
 arena
 avoid
@@ -55,7 +55,7 @@ setup
 panther
 help
 february |  
-| bip_39_word_new_line11 | decade
+| bip_39_word_new_line_11 | decade
 shoulder
 arena
 avoid
@@ -66,7 +66,7 @@ panther
 help
 february
 wire |  
-| bip_39_word_new_line12 | decade
+| bip_39_word_new_line_12 | decade
 shoulder
 arena
 avoid
@@ -78,34 +78,34 @@ help
 february
 wire
 assist |  
-| bip_39_word_new_line2 | decade
+| bip_39_word_new_line_2 | decade
 shoulder |  
-| bip_39_word_new_line3 | decade
+| bip_39_word_new_line_3 | decade
 shoulder
 arena |  
-| bip_39_word_new_line4 | decade
+| bip_39_word_new_line_4 | decade
 shoulder
 arena
 avoid |  
-| bip_39_word_new_line5 | decade
+| bip_39_word_new_line_5 | decade
 shoulder
 arena
 avoid
 team |  
-| bip_39_word_new_line6 | decade
+| bip_39_word_new_line_6 | decade
 shoulder
 arena
 avoid
 team
 fiction |  
-| bip_39_word_new_line7 | decade
+| bip_39_word_new_line_7 | decade
 shoulder
 arena
 avoid
 team
 fiction
 setup |  
-| bip_39_word_new_line8 | decade
+| bip_39_word_new_line_8 | decade
 shoulder
 arena
 avoid
@@ -113,7 +113,7 @@ team
 fiction
 setup
 panther |  
-| bip_39_word_new_line9 | decade
+| bip_39_word_new_line_9 | decade
 shoulder
 arena
 avoid

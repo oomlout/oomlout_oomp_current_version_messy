@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | audit |  
-| bip_39_word_new_br10 | audit<br>pole<br>soccer<br>broken<br>wet<br>era<br>blur<br>shift<br>sphere<br>dream |  
-| bip_39_word_new_br11 | audit<br>pole<br>soccer<br>broken<br>wet<br>era<br>blur<br>shift<br>sphere<br>dream<br>entire |  
-| bip_39_word_new_br12 | audit<br>pole<br>soccer<br>broken<br>wet<br>era<br>blur<br>shift<br>sphere<br>dream<br>entire<br>august |  
-| bip_39_word_new_br2 | audit<br>pole |  
-| bip_39_word_new_br3 | audit<br>pole<br>soccer |  
-| bip_39_word_new_br4 | audit<br>pole<br>soccer<br>broken |  
-| bip_39_word_new_br5 | audit<br>pole<br>soccer<br>broken<br>wet |  
-| bip_39_word_new_br6 | audit<br>pole<br>soccer<br>broken<br>wet<br>era |  
-| bip_39_word_new_br7 | audit<br>pole<br>soccer<br>broken<br>wet<br>era<br>blur |  
-| bip_39_word_new_br8 | audit<br>pole<br>soccer<br>broken<br>wet<br>era<br>blur<br>shift |  
-| bip_39_word_new_br9 | audit<br>pole<br>soccer<br>broken<br>wet<br>era<br>blur<br>shift<br>sphere |  
-| bip_39_word_new_line1 | audit |  
-| bip_39_word_new_line10 | audit
+| bip_39_word_new_br_1 | audit |  
+| bip_39_word_new_br_10 | audit<br>pole<br>soccer<br>broken<br>wet<br>era<br>blur<br>shift<br>sphere<br>dream |  
+| bip_39_word_new_br_11 | audit<br>pole<br>soccer<br>broken<br>wet<br>era<br>blur<br>shift<br>sphere<br>dream<br>entire |  
+| bip_39_word_new_br_12 | audit<br>pole<br>soccer<br>broken<br>wet<br>era<br>blur<br>shift<br>sphere<br>dream<br>entire<br>august |  
+| bip_39_word_new_br_2 | audit<br>pole |  
+| bip_39_word_new_br_3 | audit<br>pole<br>soccer |  
+| bip_39_word_new_br_4 | audit<br>pole<br>soccer<br>broken |  
+| bip_39_word_new_br_5 | audit<br>pole<br>soccer<br>broken<br>wet |  
+| bip_39_word_new_br_6 | audit<br>pole<br>soccer<br>broken<br>wet<br>era |  
+| bip_39_word_new_br_7 | audit<br>pole<br>soccer<br>broken<br>wet<br>era<br>blur |  
+| bip_39_word_new_br_8 | audit<br>pole<br>soccer<br>broken<br>wet<br>era<br>blur<br>shift |  
+| bip_39_word_new_br_9 | audit<br>pole<br>soccer<br>broken<br>wet<br>era<br>blur<br>shift<br>sphere |  
+| bip_39_word_new_line_1 | audit |  
+| bip_39_word_new_line_10 | audit
 pole
 soccer
 broken
@@ -55,7 +55,7 @@ blur
 shift
 sphere
 dream |  
-| bip_39_word_new_line11 | audit
+| bip_39_word_new_line_11 | audit
 pole
 soccer
 broken
@@ -66,7 +66,7 @@ shift
 sphere
 dream
 entire |  
-| bip_39_word_new_line12 | audit
+| bip_39_word_new_line_12 | audit
 pole
 soccer
 broken
@@ -78,34 +78,34 @@ sphere
 dream
 entire
 august |  
-| bip_39_word_new_line2 | audit
+| bip_39_word_new_line_2 | audit
 pole |  
-| bip_39_word_new_line3 | audit
+| bip_39_word_new_line_3 | audit
 pole
 soccer |  
-| bip_39_word_new_line4 | audit
+| bip_39_word_new_line_4 | audit
 pole
 soccer
 broken |  
-| bip_39_word_new_line5 | audit
+| bip_39_word_new_line_5 | audit
 pole
 soccer
 broken
 wet |  
-| bip_39_word_new_line6 | audit
+| bip_39_word_new_line_6 | audit
 pole
 soccer
 broken
 wet
 era |  
-| bip_39_word_new_line7 | audit
+| bip_39_word_new_line_7 | audit
 pole
 soccer
 broken
 wet
 era
 blur |  
-| bip_39_word_new_line8 | audit
+| bip_39_word_new_line_8 | audit
 pole
 soccer
 broken
@@ -113,7 +113,7 @@ wet
 era
 blur
 shift |  
-| bip_39_word_new_line9 | audit
+| bip_39_word_new_line_9 | audit
 pole
 soccer
 broken

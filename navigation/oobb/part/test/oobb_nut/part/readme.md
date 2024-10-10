@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | problem |  
-| bip_39_word_new_br10 | problem<br>clay<br>tired<br>always<br>stumble<br>stairs<br>satoshi<br>cinnamon<br>trade<br>act |  
-| bip_39_word_new_br11 | problem<br>clay<br>tired<br>always<br>stumble<br>stairs<br>satoshi<br>cinnamon<br>trade<br>act<br>cry |  
-| bip_39_word_new_br12 | problem<br>clay<br>tired<br>always<br>stumble<br>stairs<br>satoshi<br>cinnamon<br>trade<br>act<br>cry<br>arena |  
-| bip_39_word_new_br2 | problem<br>clay |  
-| bip_39_word_new_br3 | problem<br>clay<br>tired |  
-| bip_39_word_new_br4 | problem<br>clay<br>tired<br>always |  
-| bip_39_word_new_br5 | problem<br>clay<br>tired<br>always<br>stumble |  
-| bip_39_word_new_br6 | problem<br>clay<br>tired<br>always<br>stumble<br>stairs |  
-| bip_39_word_new_br7 | problem<br>clay<br>tired<br>always<br>stumble<br>stairs<br>satoshi |  
-| bip_39_word_new_br8 | problem<br>clay<br>tired<br>always<br>stumble<br>stairs<br>satoshi<br>cinnamon |  
-| bip_39_word_new_br9 | problem<br>clay<br>tired<br>always<br>stumble<br>stairs<br>satoshi<br>cinnamon<br>trade |  
-| bip_39_word_new_line1 | problem |  
-| bip_39_word_new_line10 | problem
+| bip_39_word_new_br_1 | problem |  
+| bip_39_word_new_br_10 | problem<br>clay<br>tired<br>always<br>stumble<br>stairs<br>satoshi<br>cinnamon<br>trade<br>act |  
+| bip_39_word_new_br_11 | problem<br>clay<br>tired<br>always<br>stumble<br>stairs<br>satoshi<br>cinnamon<br>trade<br>act<br>cry |  
+| bip_39_word_new_br_12 | problem<br>clay<br>tired<br>always<br>stumble<br>stairs<br>satoshi<br>cinnamon<br>trade<br>act<br>cry<br>arena |  
+| bip_39_word_new_br_2 | problem<br>clay |  
+| bip_39_word_new_br_3 | problem<br>clay<br>tired |  
+| bip_39_word_new_br_4 | problem<br>clay<br>tired<br>always |  
+| bip_39_word_new_br_5 | problem<br>clay<br>tired<br>always<br>stumble |  
+| bip_39_word_new_br_6 | problem<br>clay<br>tired<br>always<br>stumble<br>stairs |  
+| bip_39_word_new_br_7 | problem<br>clay<br>tired<br>always<br>stumble<br>stairs<br>satoshi |  
+| bip_39_word_new_br_8 | problem<br>clay<br>tired<br>always<br>stumble<br>stairs<br>satoshi<br>cinnamon |  
+| bip_39_word_new_br_9 | problem<br>clay<br>tired<br>always<br>stumble<br>stairs<br>satoshi<br>cinnamon<br>trade |  
+| bip_39_word_new_line_1 | problem |  
+| bip_39_word_new_line_10 | problem
 clay
 tired
 always
@@ -55,7 +55,7 @@ satoshi
 cinnamon
 trade
 act |  
-| bip_39_word_new_line11 | problem
+| bip_39_word_new_line_11 | problem
 clay
 tired
 always
@@ -66,7 +66,7 @@ cinnamon
 trade
 act
 cry |  
-| bip_39_word_new_line12 | problem
+| bip_39_word_new_line_12 | problem
 clay
 tired
 always
@@ -78,34 +78,34 @@ trade
 act
 cry
 arena |  
-| bip_39_word_new_line2 | problem
+| bip_39_word_new_line_2 | problem
 clay |  
-| bip_39_word_new_line3 | problem
+| bip_39_word_new_line_3 | problem
 clay
 tired |  
-| bip_39_word_new_line4 | problem
+| bip_39_word_new_line_4 | problem
 clay
 tired
 always |  
-| bip_39_word_new_line5 | problem
+| bip_39_word_new_line_5 | problem
 clay
 tired
 always
 stumble |  
-| bip_39_word_new_line6 | problem
+| bip_39_word_new_line_6 | problem
 clay
 tired
 always
 stumble
 stairs |  
-| bip_39_word_new_line7 | problem
+| bip_39_word_new_line_7 | problem
 clay
 tired
 always
 stumble
 stairs
 satoshi |  
-| bip_39_word_new_line8 | problem
+| bip_39_word_new_line_8 | problem
 clay
 tired
 always
@@ -113,7 +113,7 @@ stumble
 stairs
 satoshi
 cinnamon |  
-| bip_39_word_new_line9 | problem
+| bip_39_word_new_line_9 | problem
 clay
 tired
 always

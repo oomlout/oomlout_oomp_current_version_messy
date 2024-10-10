@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | anger |  
-| bip_39_word_new_br10 | anger<br>athlete<br>space<br>close<br>despair<br>symptom<br>educate<br>repair<br>happy<br>kingdom |  
-| bip_39_word_new_br11 | anger<br>athlete<br>space<br>close<br>despair<br>symptom<br>educate<br>repair<br>happy<br>kingdom<br>artwork |  
-| bip_39_word_new_br12 | anger<br>athlete<br>space<br>close<br>despair<br>symptom<br>educate<br>repair<br>happy<br>kingdom<br>artwork<br>age |  
-| bip_39_word_new_br2 | anger<br>athlete |  
-| bip_39_word_new_br3 | anger<br>athlete<br>space |  
-| bip_39_word_new_br4 | anger<br>athlete<br>space<br>close |  
-| bip_39_word_new_br5 | anger<br>athlete<br>space<br>close<br>despair |  
-| bip_39_word_new_br6 | anger<br>athlete<br>space<br>close<br>despair<br>symptom |  
-| bip_39_word_new_br7 | anger<br>athlete<br>space<br>close<br>despair<br>symptom<br>educate |  
-| bip_39_word_new_br8 | anger<br>athlete<br>space<br>close<br>despair<br>symptom<br>educate<br>repair |  
-| bip_39_word_new_br9 | anger<br>athlete<br>space<br>close<br>despair<br>symptom<br>educate<br>repair<br>happy |  
-| bip_39_word_new_line1 | anger |  
-| bip_39_word_new_line10 | anger
+| bip_39_word_new_br_1 | anger |  
+| bip_39_word_new_br_10 | anger<br>athlete<br>space<br>close<br>despair<br>symptom<br>educate<br>repair<br>happy<br>kingdom |  
+| bip_39_word_new_br_11 | anger<br>athlete<br>space<br>close<br>despair<br>symptom<br>educate<br>repair<br>happy<br>kingdom<br>artwork |  
+| bip_39_word_new_br_12 | anger<br>athlete<br>space<br>close<br>despair<br>symptom<br>educate<br>repair<br>happy<br>kingdom<br>artwork<br>age |  
+| bip_39_word_new_br_2 | anger<br>athlete |  
+| bip_39_word_new_br_3 | anger<br>athlete<br>space |  
+| bip_39_word_new_br_4 | anger<br>athlete<br>space<br>close |  
+| bip_39_word_new_br_5 | anger<br>athlete<br>space<br>close<br>despair |  
+| bip_39_word_new_br_6 | anger<br>athlete<br>space<br>close<br>despair<br>symptom |  
+| bip_39_word_new_br_7 | anger<br>athlete<br>space<br>close<br>despair<br>symptom<br>educate |  
+| bip_39_word_new_br_8 | anger<br>athlete<br>space<br>close<br>despair<br>symptom<br>educate<br>repair |  
+| bip_39_word_new_br_9 | anger<br>athlete<br>space<br>close<br>despair<br>symptom<br>educate<br>repair<br>happy |  
+| bip_39_word_new_line_1 | anger |  
+| bip_39_word_new_line_10 | anger
 athlete
 space
 close
@@ -55,7 +55,7 @@ educate
 repair
 happy
 kingdom |  
-| bip_39_word_new_line11 | anger
+| bip_39_word_new_line_11 | anger
 athlete
 space
 close
@@ -66,7 +66,7 @@ repair
 happy
 kingdom
 artwork |  
-| bip_39_word_new_line12 | anger
+| bip_39_word_new_line_12 | anger
 athlete
 space
 close
@@ -78,34 +78,34 @@ happy
 kingdom
 artwork
 age |  
-| bip_39_word_new_line2 | anger
+| bip_39_word_new_line_2 | anger
 athlete |  
-| bip_39_word_new_line3 | anger
+| bip_39_word_new_line_3 | anger
 athlete
 space |  
-| bip_39_word_new_line4 | anger
+| bip_39_word_new_line_4 | anger
 athlete
 space
 close |  
-| bip_39_word_new_line5 | anger
+| bip_39_word_new_line_5 | anger
 athlete
 space
 close
 despair |  
-| bip_39_word_new_line6 | anger
+| bip_39_word_new_line_6 | anger
 athlete
 space
 close
 despair
 symptom |  
-| bip_39_word_new_line7 | anger
+| bip_39_word_new_line_7 | anger
 athlete
 space
 close
 despair
 symptom
 educate |  
-| bip_39_word_new_line8 | anger
+| bip_39_word_new_line_8 | anger
 athlete
 space
 close
@@ -113,7 +113,7 @@ despair
 symptom
 educate
 repair |  
-| bip_39_word_new_line9 | anger
+| bip_39_word_new_line_9 | anger
 athlete
 space
 close

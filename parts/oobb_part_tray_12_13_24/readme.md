@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | begin |  
-| bip_39_word_new_br10 | begin<br>royal<br>summer<br>lady<br>zone<br>correct<br>sketch<br>drastic<br>impulse<br>guitar |  
-| bip_39_word_new_br11 | begin<br>royal<br>summer<br>lady<br>zone<br>correct<br>sketch<br>drastic<br>impulse<br>guitar<br>clump |  
-| bip_39_word_new_br12 | begin<br>royal<br>summer<br>lady<br>zone<br>correct<br>sketch<br>drastic<br>impulse<br>guitar<br>clump<br>advice |  
-| bip_39_word_new_br2 | begin<br>royal |  
-| bip_39_word_new_br3 | begin<br>royal<br>summer |  
-| bip_39_word_new_br4 | begin<br>royal<br>summer<br>lady |  
-| bip_39_word_new_br5 | begin<br>royal<br>summer<br>lady<br>zone |  
-| bip_39_word_new_br6 | begin<br>royal<br>summer<br>lady<br>zone<br>correct |  
-| bip_39_word_new_br7 | begin<br>royal<br>summer<br>lady<br>zone<br>correct<br>sketch |  
-| bip_39_word_new_br8 | begin<br>royal<br>summer<br>lady<br>zone<br>correct<br>sketch<br>drastic |  
-| bip_39_word_new_br9 | begin<br>royal<br>summer<br>lady<br>zone<br>correct<br>sketch<br>drastic<br>impulse |  
-| bip_39_word_new_line1 | begin |  
-| bip_39_word_new_line10 | begin
+| bip_39_word_new_br_1 | begin |  
+| bip_39_word_new_br_10 | begin<br>royal<br>summer<br>lady<br>zone<br>correct<br>sketch<br>drastic<br>impulse<br>guitar |  
+| bip_39_word_new_br_11 | begin<br>royal<br>summer<br>lady<br>zone<br>correct<br>sketch<br>drastic<br>impulse<br>guitar<br>clump |  
+| bip_39_word_new_br_12 | begin<br>royal<br>summer<br>lady<br>zone<br>correct<br>sketch<br>drastic<br>impulse<br>guitar<br>clump<br>advice |  
+| bip_39_word_new_br_2 | begin<br>royal |  
+| bip_39_word_new_br_3 | begin<br>royal<br>summer |  
+| bip_39_word_new_br_4 | begin<br>royal<br>summer<br>lady |  
+| bip_39_word_new_br_5 | begin<br>royal<br>summer<br>lady<br>zone |  
+| bip_39_word_new_br_6 | begin<br>royal<br>summer<br>lady<br>zone<br>correct |  
+| bip_39_word_new_br_7 | begin<br>royal<br>summer<br>lady<br>zone<br>correct<br>sketch |  
+| bip_39_word_new_br_8 | begin<br>royal<br>summer<br>lady<br>zone<br>correct<br>sketch<br>drastic |  
+| bip_39_word_new_br_9 | begin<br>royal<br>summer<br>lady<br>zone<br>correct<br>sketch<br>drastic<br>impulse |  
+| bip_39_word_new_line_1 | begin |  
+| bip_39_word_new_line_10 | begin
 royal
 summer
 lady
@@ -55,7 +55,7 @@ sketch
 drastic
 impulse
 guitar |  
-| bip_39_word_new_line11 | begin
+| bip_39_word_new_line_11 | begin
 royal
 summer
 lady
@@ -66,7 +66,7 @@ drastic
 impulse
 guitar
 clump |  
-| bip_39_word_new_line12 | begin
+| bip_39_word_new_line_12 | begin
 royal
 summer
 lady
@@ -78,34 +78,34 @@ impulse
 guitar
 clump
 advice |  
-| bip_39_word_new_line2 | begin
+| bip_39_word_new_line_2 | begin
 royal |  
-| bip_39_word_new_line3 | begin
+| bip_39_word_new_line_3 | begin
 royal
 summer |  
-| bip_39_word_new_line4 | begin
+| bip_39_word_new_line_4 | begin
 royal
 summer
 lady |  
-| bip_39_word_new_line5 | begin
+| bip_39_word_new_line_5 | begin
 royal
 summer
 lady
 zone |  
-| bip_39_word_new_line6 | begin
+| bip_39_word_new_line_6 | begin
 royal
 summer
 lady
 zone
 correct |  
-| bip_39_word_new_line7 | begin
+| bip_39_word_new_line_7 | begin
 royal
 summer
 lady
 zone
 correct
 sketch |  
-| bip_39_word_new_line8 | begin
+| bip_39_word_new_line_8 | begin
 royal
 summer
 lady
@@ -113,7 +113,7 @@ zone
 correct
 sketch
 drastic |  
-| bip_39_word_new_line9 | begin
+| bip_39_word_new_line_9 | begin
 royal
 summer
 lady

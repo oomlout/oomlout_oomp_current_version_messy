@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dish |  
-| bip_39_word_new_br10 | dish<br>install<br>can<br>kiwi<br>nothing<br>hint<br>clutch<br>essay<br>badge<br>blast |  
-| bip_39_word_new_br11 | dish<br>install<br>can<br>kiwi<br>nothing<br>hint<br>clutch<br>essay<br>badge<br>blast<br>energy |  
-| bip_39_word_new_br12 | dish<br>install<br>can<br>kiwi<br>nothing<br>hint<br>clutch<br>essay<br>badge<br>blast<br>energy<br>artist |  
-| bip_39_word_new_br2 | dish<br>install |  
-| bip_39_word_new_br3 | dish<br>install<br>can |  
-| bip_39_word_new_br4 | dish<br>install<br>can<br>kiwi |  
-| bip_39_word_new_br5 | dish<br>install<br>can<br>kiwi<br>nothing |  
-| bip_39_word_new_br6 | dish<br>install<br>can<br>kiwi<br>nothing<br>hint |  
-| bip_39_word_new_br7 | dish<br>install<br>can<br>kiwi<br>nothing<br>hint<br>clutch |  
-| bip_39_word_new_br8 | dish<br>install<br>can<br>kiwi<br>nothing<br>hint<br>clutch<br>essay |  
-| bip_39_word_new_br9 | dish<br>install<br>can<br>kiwi<br>nothing<br>hint<br>clutch<br>essay<br>badge |  
-| bip_39_word_new_line1 | dish |  
-| bip_39_word_new_line10 | dish
+| bip_39_word_new_br_1 | dish |  
+| bip_39_word_new_br_10 | dish<br>install<br>can<br>kiwi<br>nothing<br>hint<br>clutch<br>essay<br>badge<br>blast |  
+| bip_39_word_new_br_11 | dish<br>install<br>can<br>kiwi<br>nothing<br>hint<br>clutch<br>essay<br>badge<br>blast<br>energy |  
+| bip_39_word_new_br_12 | dish<br>install<br>can<br>kiwi<br>nothing<br>hint<br>clutch<br>essay<br>badge<br>blast<br>energy<br>artist |  
+| bip_39_word_new_br_2 | dish<br>install |  
+| bip_39_word_new_br_3 | dish<br>install<br>can |  
+| bip_39_word_new_br_4 | dish<br>install<br>can<br>kiwi |  
+| bip_39_word_new_br_5 | dish<br>install<br>can<br>kiwi<br>nothing |  
+| bip_39_word_new_br_6 | dish<br>install<br>can<br>kiwi<br>nothing<br>hint |  
+| bip_39_word_new_br_7 | dish<br>install<br>can<br>kiwi<br>nothing<br>hint<br>clutch |  
+| bip_39_word_new_br_8 | dish<br>install<br>can<br>kiwi<br>nothing<br>hint<br>clutch<br>essay |  
+| bip_39_word_new_br_9 | dish<br>install<br>can<br>kiwi<br>nothing<br>hint<br>clutch<br>essay<br>badge |  
+| bip_39_word_new_line_1 | dish |  
+| bip_39_word_new_line_10 | dish
 install
 can
 kiwi
@@ -55,7 +55,7 @@ clutch
 essay
 badge
 blast |  
-| bip_39_word_new_line11 | dish
+| bip_39_word_new_line_11 | dish
 install
 can
 kiwi
@@ -66,7 +66,7 @@ essay
 badge
 blast
 energy |  
-| bip_39_word_new_line12 | dish
+| bip_39_word_new_line_12 | dish
 install
 can
 kiwi
@@ -78,34 +78,34 @@ badge
 blast
 energy
 artist |  
-| bip_39_word_new_line2 | dish
+| bip_39_word_new_line_2 | dish
 install |  
-| bip_39_word_new_line3 | dish
+| bip_39_word_new_line_3 | dish
 install
 can |  
-| bip_39_word_new_line4 | dish
+| bip_39_word_new_line_4 | dish
 install
 can
 kiwi |  
-| bip_39_word_new_line5 | dish
+| bip_39_word_new_line_5 | dish
 install
 can
 kiwi
 nothing |  
-| bip_39_word_new_line6 | dish
+| bip_39_word_new_line_6 | dish
 install
 can
 kiwi
 nothing
 hint |  
-| bip_39_word_new_line7 | dish
+| bip_39_word_new_line_7 | dish
 install
 can
 kiwi
 nothing
 hint
 clutch |  
-| bip_39_word_new_line8 | dish
+| bip_39_word_new_line_8 | dish
 install
 can
 kiwi
@@ -113,7 +113,7 @@ nothing
 hint
 clutch
 essay |  
-| bip_39_word_new_line9 | dish
+| bip_39_word_new_line_9 | dish
 install
 can
 kiwi

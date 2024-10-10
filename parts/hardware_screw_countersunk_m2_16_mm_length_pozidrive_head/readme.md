@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | list |  
-| bip_39_word_new_br10 | list<br>match<br>squirrel<br>cannon<br>ocean<br>skin<br>expect<br>gossip<br>text<br>idle |  
-| bip_39_word_new_br11 | list<br>match<br>squirrel<br>cannon<br>ocean<br>skin<br>expect<br>gossip<br>text<br>idle<br>buzz |  
-| bip_39_word_new_br12 | list<br>match<br>squirrel<br>cannon<br>ocean<br>skin<br>expect<br>gossip<br>text<br>idle<br>buzz<br>absurd |  
-| bip_39_word_new_br2 | list<br>match |  
-| bip_39_word_new_br3 | list<br>match<br>squirrel |  
-| bip_39_word_new_br4 | list<br>match<br>squirrel<br>cannon |  
-| bip_39_word_new_br5 | list<br>match<br>squirrel<br>cannon<br>ocean |  
-| bip_39_word_new_br6 | list<br>match<br>squirrel<br>cannon<br>ocean<br>skin |  
-| bip_39_word_new_br7 | list<br>match<br>squirrel<br>cannon<br>ocean<br>skin<br>expect |  
-| bip_39_word_new_br8 | list<br>match<br>squirrel<br>cannon<br>ocean<br>skin<br>expect<br>gossip |  
-| bip_39_word_new_br9 | list<br>match<br>squirrel<br>cannon<br>ocean<br>skin<br>expect<br>gossip<br>text |  
-| bip_39_word_new_line1 | list |  
-| bip_39_word_new_line10 | list
+| bip_39_word_new_br_1 | list |  
+| bip_39_word_new_br_10 | list<br>match<br>squirrel<br>cannon<br>ocean<br>skin<br>expect<br>gossip<br>text<br>idle |  
+| bip_39_word_new_br_11 | list<br>match<br>squirrel<br>cannon<br>ocean<br>skin<br>expect<br>gossip<br>text<br>idle<br>buzz |  
+| bip_39_word_new_br_12 | list<br>match<br>squirrel<br>cannon<br>ocean<br>skin<br>expect<br>gossip<br>text<br>idle<br>buzz<br>absurd |  
+| bip_39_word_new_br_2 | list<br>match |  
+| bip_39_word_new_br_3 | list<br>match<br>squirrel |  
+| bip_39_word_new_br_4 | list<br>match<br>squirrel<br>cannon |  
+| bip_39_word_new_br_5 | list<br>match<br>squirrel<br>cannon<br>ocean |  
+| bip_39_word_new_br_6 | list<br>match<br>squirrel<br>cannon<br>ocean<br>skin |  
+| bip_39_word_new_br_7 | list<br>match<br>squirrel<br>cannon<br>ocean<br>skin<br>expect |  
+| bip_39_word_new_br_8 | list<br>match<br>squirrel<br>cannon<br>ocean<br>skin<br>expect<br>gossip |  
+| bip_39_word_new_br_9 | list<br>match<br>squirrel<br>cannon<br>ocean<br>skin<br>expect<br>gossip<br>text |  
+| bip_39_word_new_line_1 | list |  
+| bip_39_word_new_line_10 | list
 match
 squirrel
 cannon
@@ -55,7 +55,7 @@ expect
 gossip
 text
 idle |  
-| bip_39_word_new_line11 | list
+| bip_39_word_new_line_11 | list
 match
 squirrel
 cannon
@@ -66,7 +66,7 @@ gossip
 text
 idle
 buzz |  
-| bip_39_word_new_line12 | list
+| bip_39_word_new_line_12 | list
 match
 squirrel
 cannon
@@ -78,34 +78,34 @@ text
 idle
 buzz
 absurd |  
-| bip_39_word_new_line2 | list
+| bip_39_word_new_line_2 | list
 match |  
-| bip_39_word_new_line3 | list
+| bip_39_word_new_line_3 | list
 match
 squirrel |  
-| bip_39_word_new_line4 | list
+| bip_39_word_new_line_4 | list
 match
 squirrel
 cannon |  
-| bip_39_word_new_line5 | list
+| bip_39_word_new_line_5 | list
 match
 squirrel
 cannon
 ocean |  
-| bip_39_word_new_line6 | list
+| bip_39_word_new_line_6 | list
 match
 squirrel
 cannon
 ocean
 skin |  
-| bip_39_word_new_line7 | list
+| bip_39_word_new_line_7 | list
 match
 squirrel
 cannon
 ocean
 skin
 expect |  
-| bip_39_word_new_line8 | list
+| bip_39_word_new_line_8 | list
 match
 squirrel
 cannon
@@ -113,7 +113,7 @@ ocean
 skin
 expect
 gossip |  
-| bip_39_word_new_line9 | list
+| bip_39_word_new_line_9 | list
 match
 squirrel
 cannon

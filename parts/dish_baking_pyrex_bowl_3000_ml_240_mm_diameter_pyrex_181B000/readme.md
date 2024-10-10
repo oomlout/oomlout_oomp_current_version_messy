@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | enough |  
-| bip_39_word_new_br10 | enough<br>birth<br>myself<br>maid<br>rain<br>goddess<br>wood<br>board<br>team<br>scissors |  
-| bip_39_word_new_br11 | enough<br>birth<br>myself<br>maid<br>rain<br>goddess<br>wood<br>board<br>team<br>scissors<br>world |  
-| bip_39_word_new_br12 | enough<br>birth<br>myself<br>maid<br>rain<br>goddess<br>wood<br>board<br>team<br>scissors<br>world<br>actual |  
-| bip_39_word_new_br2 | enough<br>birth |  
-| bip_39_word_new_br3 | enough<br>birth<br>myself |  
-| bip_39_word_new_br4 | enough<br>birth<br>myself<br>maid |  
-| bip_39_word_new_br5 | enough<br>birth<br>myself<br>maid<br>rain |  
-| bip_39_word_new_br6 | enough<br>birth<br>myself<br>maid<br>rain<br>goddess |  
-| bip_39_word_new_br7 | enough<br>birth<br>myself<br>maid<br>rain<br>goddess<br>wood |  
-| bip_39_word_new_br8 | enough<br>birth<br>myself<br>maid<br>rain<br>goddess<br>wood<br>board |  
-| bip_39_word_new_br9 | enough<br>birth<br>myself<br>maid<br>rain<br>goddess<br>wood<br>board<br>team |  
-| bip_39_word_new_line1 | enough |  
-| bip_39_word_new_line10 | enough
+| bip_39_word_new_br_1 | enough |  
+| bip_39_word_new_br_10 | enough<br>birth<br>myself<br>maid<br>rain<br>goddess<br>wood<br>board<br>team<br>scissors |  
+| bip_39_word_new_br_11 | enough<br>birth<br>myself<br>maid<br>rain<br>goddess<br>wood<br>board<br>team<br>scissors<br>world |  
+| bip_39_word_new_br_12 | enough<br>birth<br>myself<br>maid<br>rain<br>goddess<br>wood<br>board<br>team<br>scissors<br>world<br>actual |  
+| bip_39_word_new_br_2 | enough<br>birth |  
+| bip_39_word_new_br_3 | enough<br>birth<br>myself |  
+| bip_39_word_new_br_4 | enough<br>birth<br>myself<br>maid |  
+| bip_39_word_new_br_5 | enough<br>birth<br>myself<br>maid<br>rain |  
+| bip_39_word_new_br_6 | enough<br>birth<br>myself<br>maid<br>rain<br>goddess |  
+| bip_39_word_new_br_7 | enough<br>birth<br>myself<br>maid<br>rain<br>goddess<br>wood |  
+| bip_39_word_new_br_8 | enough<br>birth<br>myself<br>maid<br>rain<br>goddess<br>wood<br>board |  
+| bip_39_word_new_br_9 | enough<br>birth<br>myself<br>maid<br>rain<br>goddess<br>wood<br>board<br>team |  
+| bip_39_word_new_line_1 | enough |  
+| bip_39_word_new_line_10 | enough
 birth
 myself
 maid
@@ -55,7 +55,7 @@ wood
 board
 team
 scissors |  
-| bip_39_word_new_line11 | enough
+| bip_39_word_new_line_11 | enough
 birth
 myself
 maid
@@ -66,7 +66,7 @@ board
 team
 scissors
 world |  
-| bip_39_word_new_line12 | enough
+| bip_39_word_new_line_12 | enough
 birth
 myself
 maid
@@ -78,34 +78,34 @@ team
 scissors
 world
 actual |  
-| bip_39_word_new_line2 | enough
+| bip_39_word_new_line_2 | enough
 birth |  
-| bip_39_word_new_line3 | enough
+| bip_39_word_new_line_3 | enough
 birth
 myself |  
-| bip_39_word_new_line4 | enough
+| bip_39_word_new_line_4 | enough
 birth
 myself
 maid |  
-| bip_39_word_new_line5 | enough
+| bip_39_word_new_line_5 | enough
 birth
 myself
 maid
 rain |  
-| bip_39_word_new_line6 | enough
+| bip_39_word_new_line_6 | enough
 birth
 myself
 maid
 rain
 goddess |  
-| bip_39_word_new_line7 | enough
+| bip_39_word_new_line_7 | enough
 birth
 myself
 maid
 rain
 goddess
 wood |  
-| bip_39_word_new_line8 | enough
+| bip_39_word_new_line_8 | enough
 birth
 myself
 maid
@@ -113,7 +113,7 @@ rain
 goddess
 wood
 board |  
-| bip_39_word_new_line9 | enough
+| bip_39_word_new_line_9 | enough
 birth
 myself
 maid

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | special |  
-| bip_39_word_new_br10 | special<br>jump<br>cattle<br>wisdom<br>hurry<br>tuna<br>vacant<br>fringe<br>alien<br>apology |  
-| bip_39_word_new_br11 | special<br>jump<br>cattle<br>wisdom<br>hurry<br>tuna<br>vacant<br>fringe<br>alien<br>apology<br>vague |  
-| bip_39_word_new_br12 | special<br>jump<br>cattle<br>wisdom<br>hurry<br>tuna<br>vacant<br>fringe<br>alien<br>apology<br>vague<br>arrow |  
-| bip_39_word_new_br2 | special<br>jump |  
-| bip_39_word_new_br3 | special<br>jump<br>cattle |  
-| bip_39_word_new_br4 | special<br>jump<br>cattle<br>wisdom |  
-| bip_39_word_new_br5 | special<br>jump<br>cattle<br>wisdom<br>hurry |  
-| bip_39_word_new_br6 | special<br>jump<br>cattle<br>wisdom<br>hurry<br>tuna |  
-| bip_39_word_new_br7 | special<br>jump<br>cattle<br>wisdom<br>hurry<br>tuna<br>vacant |  
-| bip_39_word_new_br8 | special<br>jump<br>cattle<br>wisdom<br>hurry<br>tuna<br>vacant<br>fringe |  
-| bip_39_word_new_br9 | special<br>jump<br>cattle<br>wisdom<br>hurry<br>tuna<br>vacant<br>fringe<br>alien |  
-| bip_39_word_new_line1 | special |  
-| bip_39_word_new_line10 | special
+| bip_39_word_new_br_1 | special |  
+| bip_39_word_new_br_10 | special<br>jump<br>cattle<br>wisdom<br>hurry<br>tuna<br>vacant<br>fringe<br>alien<br>apology |  
+| bip_39_word_new_br_11 | special<br>jump<br>cattle<br>wisdom<br>hurry<br>tuna<br>vacant<br>fringe<br>alien<br>apology<br>vague |  
+| bip_39_word_new_br_12 | special<br>jump<br>cattle<br>wisdom<br>hurry<br>tuna<br>vacant<br>fringe<br>alien<br>apology<br>vague<br>arrow |  
+| bip_39_word_new_br_2 | special<br>jump |  
+| bip_39_word_new_br_3 | special<br>jump<br>cattle |  
+| bip_39_word_new_br_4 | special<br>jump<br>cattle<br>wisdom |  
+| bip_39_word_new_br_5 | special<br>jump<br>cattle<br>wisdom<br>hurry |  
+| bip_39_word_new_br_6 | special<br>jump<br>cattle<br>wisdom<br>hurry<br>tuna |  
+| bip_39_word_new_br_7 | special<br>jump<br>cattle<br>wisdom<br>hurry<br>tuna<br>vacant |  
+| bip_39_word_new_br_8 | special<br>jump<br>cattle<br>wisdom<br>hurry<br>tuna<br>vacant<br>fringe |  
+| bip_39_word_new_br_9 | special<br>jump<br>cattle<br>wisdom<br>hurry<br>tuna<br>vacant<br>fringe<br>alien |  
+| bip_39_word_new_line_1 | special |  
+| bip_39_word_new_line_10 | special
 jump
 cattle
 wisdom
@@ -55,7 +55,7 @@ vacant
 fringe
 alien
 apology |  
-| bip_39_word_new_line11 | special
+| bip_39_word_new_line_11 | special
 jump
 cattle
 wisdom
@@ -66,7 +66,7 @@ fringe
 alien
 apology
 vague |  
-| bip_39_word_new_line12 | special
+| bip_39_word_new_line_12 | special
 jump
 cattle
 wisdom
@@ -78,34 +78,34 @@ alien
 apology
 vague
 arrow |  
-| bip_39_word_new_line2 | special
+| bip_39_word_new_line_2 | special
 jump |  
-| bip_39_word_new_line3 | special
+| bip_39_word_new_line_3 | special
 jump
 cattle |  
-| bip_39_word_new_line4 | special
+| bip_39_word_new_line_4 | special
 jump
 cattle
 wisdom |  
-| bip_39_word_new_line5 | special
+| bip_39_word_new_line_5 | special
 jump
 cattle
 wisdom
 hurry |  
-| bip_39_word_new_line6 | special
+| bip_39_word_new_line_6 | special
 jump
 cattle
 wisdom
 hurry
 tuna |  
-| bip_39_word_new_line7 | special
+| bip_39_word_new_line_7 | special
 jump
 cattle
 wisdom
 hurry
 tuna
 vacant |  
-| bip_39_word_new_line8 | special
+| bip_39_word_new_line_8 | special
 jump
 cattle
 wisdom
@@ -113,7 +113,7 @@ hurry
 tuna
 vacant
 fringe |  
-| bip_39_word_new_line9 | special
+| bip_39_word_new_line_9 | special
 jump
 cattle
 wisdom

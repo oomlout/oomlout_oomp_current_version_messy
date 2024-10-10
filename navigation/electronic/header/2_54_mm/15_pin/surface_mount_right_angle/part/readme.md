@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | below |  
-| bip_39_word_new_br10 | below<br>budget<br>cute<br>mail<br>pause<br>main<br>error<br>spoil<br>other<br>divert |  
-| bip_39_word_new_br11 | below<br>budget<br>cute<br>mail<br>pause<br>main<br>error<br>spoil<br>other<br>divert<br>section |  
-| bip_39_word_new_br12 | below<br>budget<br>cute<br>mail<br>pause<br>main<br>error<br>spoil<br>other<br>divert<br>section<br>allow |  
-| bip_39_word_new_br2 | below<br>budget |  
-| bip_39_word_new_br3 | below<br>budget<br>cute |  
-| bip_39_word_new_br4 | below<br>budget<br>cute<br>mail |  
-| bip_39_word_new_br5 | below<br>budget<br>cute<br>mail<br>pause |  
-| bip_39_word_new_br6 | below<br>budget<br>cute<br>mail<br>pause<br>main |  
-| bip_39_word_new_br7 | below<br>budget<br>cute<br>mail<br>pause<br>main<br>error |  
-| bip_39_word_new_br8 | below<br>budget<br>cute<br>mail<br>pause<br>main<br>error<br>spoil |  
-| bip_39_word_new_br9 | below<br>budget<br>cute<br>mail<br>pause<br>main<br>error<br>spoil<br>other |  
-| bip_39_word_new_line1 | below |  
-| bip_39_word_new_line10 | below
+| bip_39_word_new_br_1 | below |  
+| bip_39_word_new_br_10 | below<br>budget<br>cute<br>mail<br>pause<br>main<br>error<br>spoil<br>other<br>divert |  
+| bip_39_word_new_br_11 | below<br>budget<br>cute<br>mail<br>pause<br>main<br>error<br>spoil<br>other<br>divert<br>section |  
+| bip_39_word_new_br_12 | below<br>budget<br>cute<br>mail<br>pause<br>main<br>error<br>spoil<br>other<br>divert<br>section<br>allow |  
+| bip_39_word_new_br_2 | below<br>budget |  
+| bip_39_word_new_br_3 | below<br>budget<br>cute |  
+| bip_39_word_new_br_4 | below<br>budget<br>cute<br>mail |  
+| bip_39_word_new_br_5 | below<br>budget<br>cute<br>mail<br>pause |  
+| bip_39_word_new_br_6 | below<br>budget<br>cute<br>mail<br>pause<br>main |  
+| bip_39_word_new_br_7 | below<br>budget<br>cute<br>mail<br>pause<br>main<br>error |  
+| bip_39_word_new_br_8 | below<br>budget<br>cute<br>mail<br>pause<br>main<br>error<br>spoil |  
+| bip_39_word_new_br_9 | below<br>budget<br>cute<br>mail<br>pause<br>main<br>error<br>spoil<br>other |  
+| bip_39_word_new_line_1 | below |  
+| bip_39_word_new_line_10 | below
 budget
 cute
 mail
@@ -55,7 +55,7 @@ error
 spoil
 other
 divert |  
-| bip_39_word_new_line11 | below
+| bip_39_word_new_line_11 | below
 budget
 cute
 mail
@@ -66,7 +66,7 @@ spoil
 other
 divert
 section |  
-| bip_39_word_new_line12 | below
+| bip_39_word_new_line_12 | below
 budget
 cute
 mail
@@ -78,34 +78,34 @@ other
 divert
 section
 allow |  
-| bip_39_word_new_line2 | below
+| bip_39_word_new_line_2 | below
 budget |  
-| bip_39_word_new_line3 | below
+| bip_39_word_new_line_3 | below
 budget
 cute |  
-| bip_39_word_new_line4 | below
+| bip_39_word_new_line_4 | below
 budget
 cute
 mail |  
-| bip_39_word_new_line5 | below
+| bip_39_word_new_line_5 | below
 budget
 cute
 mail
 pause |  
-| bip_39_word_new_line6 | below
+| bip_39_word_new_line_6 | below
 budget
 cute
 mail
 pause
 main |  
-| bip_39_word_new_line7 | below
+| bip_39_word_new_line_7 | below
 budget
 cute
 mail
 pause
 main
 error |  
-| bip_39_word_new_line8 | below
+| bip_39_word_new_line_8 | below
 budget
 cute
 mail
@@ -113,7 +113,7 @@ pause
 main
 error
 spoil |  
-| bip_39_word_new_line9 | below
+| bip_39_word_new_line_9 | below
 budget
 cute
 mail

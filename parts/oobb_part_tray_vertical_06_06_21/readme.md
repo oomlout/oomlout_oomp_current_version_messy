@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | afford |  
-| bip_39_word_new_br10 | afford<br>piano<br>slight<br>man<br>yard<br>machine<br>ball<br>dance<br>vanish<br>target |  
-| bip_39_word_new_br11 | afford<br>piano<br>slight<br>man<br>yard<br>machine<br>ball<br>dance<br>vanish<br>target<br>fall |  
-| bip_39_word_new_br12 | afford<br>piano<br>slight<br>man<br>yard<br>machine<br>ball<br>dance<br>vanish<br>target<br>fall<br>attack |  
-| bip_39_word_new_br2 | afford<br>piano |  
-| bip_39_word_new_br3 | afford<br>piano<br>slight |  
-| bip_39_word_new_br4 | afford<br>piano<br>slight<br>man |  
-| bip_39_word_new_br5 | afford<br>piano<br>slight<br>man<br>yard |  
-| bip_39_word_new_br6 | afford<br>piano<br>slight<br>man<br>yard<br>machine |  
-| bip_39_word_new_br7 | afford<br>piano<br>slight<br>man<br>yard<br>machine<br>ball |  
-| bip_39_word_new_br8 | afford<br>piano<br>slight<br>man<br>yard<br>machine<br>ball<br>dance |  
-| bip_39_word_new_br9 | afford<br>piano<br>slight<br>man<br>yard<br>machine<br>ball<br>dance<br>vanish |  
-| bip_39_word_new_line1 | afford |  
-| bip_39_word_new_line10 | afford
+| bip_39_word_new_br_1 | afford |  
+| bip_39_word_new_br_10 | afford<br>piano<br>slight<br>man<br>yard<br>machine<br>ball<br>dance<br>vanish<br>target |  
+| bip_39_word_new_br_11 | afford<br>piano<br>slight<br>man<br>yard<br>machine<br>ball<br>dance<br>vanish<br>target<br>fall |  
+| bip_39_word_new_br_12 | afford<br>piano<br>slight<br>man<br>yard<br>machine<br>ball<br>dance<br>vanish<br>target<br>fall<br>attack |  
+| bip_39_word_new_br_2 | afford<br>piano |  
+| bip_39_word_new_br_3 | afford<br>piano<br>slight |  
+| bip_39_word_new_br_4 | afford<br>piano<br>slight<br>man |  
+| bip_39_word_new_br_5 | afford<br>piano<br>slight<br>man<br>yard |  
+| bip_39_word_new_br_6 | afford<br>piano<br>slight<br>man<br>yard<br>machine |  
+| bip_39_word_new_br_7 | afford<br>piano<br>slight<br>man<br>yard<br>machine<br>ball |  
+| bip_39_word_new_br_8 | afford<br>piano<br>slight<br>man<br>yard<br>machine<br>ball<br>dance |  
+| bip_39_word_new_br_9 | afford<br>piano<br>slight<br>man<br>yard<br>machine<br>ball<br>dance<br>vanish |  
+| bip_39_word_new_line_1 | afford |  
+| bip_39_word_new_line_10 | afford
 piano
 slight
 man
@@ -55,7 +55,7 @@ ball
 dance
 vanish
 target |  
-| bip_39_word_new_line11 | afford
+| bip_39_word_new_line_11 | afford
 piano
 slight
 man
@@ -66,7 +66,7 @@ dance
 vanish
 target
 fall |  
-| bip_39_word_new_line12 | afford
+| bip_39_word_new_line_12 | afford
 piano
 slight
 man
@@ -78,34 +78,34 @@ vanish
 target
 fall
 attack |  
-| bip_39_word_new_line2 | afford
+| bip_39_word_new_line_2 | afford
 piano |  
-| bip_39_word_new_line3 | afford
+| bip_39_word_new_line_3 | afford
 piano
 slight |  
-| bip_39_word_new_line4 | afford
+| bip_39_word_new_line_4 | afford
 piano
 slight
 man |  
-| bip_39_word_new_line5 | afford
+| bip_39_word_new_line_5 | afford
 piano
 slight
 man
 yard |  
-| bip_39_word_new_line6 | afford
+| bip_39_word_new_line_6 | afford
 piano
 slight
 man
 yard
 machine |  
-| bip_39_word_new_line7 | afford
+| bip_39_word_new_line_7 | afford
 piano
 slight
 man
 yard
 machine
 ball |  
-| bip_39_word_new_line8 | afford
+| bip_39_word_new_line_8 | afford
 piano
 slight
 man
@@ -113,7 +113,7 @@ yard
 machine
 ball
 dance |  
-| bip_39_word_new_line9 | afford
+| bip_39_word_new_line_9 | afford
 piano
 slight
 man

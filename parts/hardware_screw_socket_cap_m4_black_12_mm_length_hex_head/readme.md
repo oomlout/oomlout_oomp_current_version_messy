@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | select |  
-| bip_39_word_new_br10 | select<br>echo<br>super<br>discover<br>lizard<br>sea<br>barrel<br>topple<br>carry<br>truth |  
-| bip_39_word_new_br11 | select<br>echo<br>super<br>discover<br>lizard<br>sea<br>barrel<br>topple<br>carry<br>truth<br>under |  
-| bip_39_word_new_br12 | select<br>echo<br>super<br>discover<br>lizard<br>sea<br>barrel<br>topple<br>carry<br>truth<br>under<br>artist |  
-| bip_39_word_new_br2 | select<br>echo |  
-| bip_39_word_new_br3 | select<br>echo<br>super |  
-| bip_39_word_new_br4 | select<br>echo<br>super<br>discover |  
-| bip_39_word_new_br5 | select<br>echo<br>super<br>discover<br>lizard |  
-| bip_39_word_new_br6 | select<br>echo<br>super<br>discover<br>lizard<br>sea |  
-| bip_39_word_new_br7 | select<br>echo<br>super<br>discover<br>lizard<br>sea<br>barrel |  
-| bip_39_word_new_br8 | select<br>echo<br>super<br>discover<br>lizard<br>sea<br>barrel<br>topple |  
-| bip_39_word_new_br9 | select<br>echo<br>super<br>discover<br>lizard<br>sea<br>barrel<br>topple<br>carry |  
-| bip_39_word_new_line1 | select |  
-| bip_39_word_new_line10 | select
+| bip_39_word_new_br_1 | select |  
+| bip_39_word_new_br_10 | select<br>echo<br>super<br>discover<br>lizard<br>sea<br>barrel<br>topple<br>carry<br>truth |  
+| bip_39_word_new_br_11 | select<br>echo<br>super<br>discover<br>lizard<br>sea<br>barrel<br>topple<br>carry<br>truth<br>under |  
+| bip_39_word_new_br_12 | select<br>echo<br>super<br>discover<br>lizard<br>sea<br>barrel<br>topple<br>carry<br>truth<br>under<br>artist |  
+| bip_39_word_new_br_2 | select<br>echo |  
+| bip_39_word_new_br_3 | select<br>echo<br>super |  
+| bip_39_word_new_br_4 | select<br>echo<br>super<br>discover |  
+| bip_39_word_new_br_5 | select<br>echo<br>super<br>discover<br>lizard |  
+| bip_39_word_new_br_6 | select<br>echo<br>super<br>discover<br>lizard<br>sea |  
+| bip_39_word_new_br_7 | select<br>echo<br>super<br>discover<br>lizard<br>sea<br>barrel |  
+| bip_39_word_new_br_8 | select<br>echo<br>super<br>discover<br>lizard<br>sea<br>barrel<br>topple |  
+| bip_39_word_new_br_9 | select<br>echo<br>super<br>discover<br>lizard<br>sea<br>barrel<br>topple<br>carry |  
+| bip_39_word_new_line_1 | select |  
+| bip_39_word_new_line_10 | select
 echo
 super
 discover
@@ -55,7 +55,7 @@ barrel
 topple
 carry
 truth |  
-| bip_39_word_new_line11 | select
+| bip_39_word_new_line_11 | select
 echo
 super
 discover
@@ -66,7 +66,7 @@ topple
 carry
 truth
 under |  
-| bip_39_word_new_line12 | select
+| bip_39_word_new_line_12 | select
 echo
 super
 discover
@@ -78,34 +78,34 @@ carry
 truth
 under
 artist |  
-| bip_39_word_new_line2 | select
+| bip_39_word_new_line_2 | select
 echo |  
-| bip_39_word_new_line3 | select
+| bip_39_word_new_line_3 | select
 echo
 super |  
-| bip_39_word_new_line4 | select
+| bip_39_word_new_line_4 | select
 echo
 super
 discover |  
-| bip_39_word_new_line5 | select
+| bip_39_word_new_line_5 | select
 echo
 super
 discover
 lizard |  
-| bip_39_word_new_line6 | select
+| bip_39_word_new_line_6 | select
 echo
 super
 discover
 lizard
 sea |  
-| bip_39_word_new_line7 | select
+| bip_39_word_new_line_7 | select
 echo
 super
 discover
 lizard
 sea
 barrel |  
-| bip_39_word_new_line8 | select
+| bip_39_word_new_line_8 | select
 echo
 super
 discover
@@ -113,7 +113,7 @@ lizard
 sea
 barrel
 topple |  
-| bip_39_word_new_line9 | select
+| bip_39_word_new_line_9 | select
 echo
 super
 discover

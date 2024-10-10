@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | silent |  
-| bip_39_word_new_br10 | silent<br>waste<br>patrol<br>oxygen<br>eager<br>verify<br>retreat<br>february<br>badge<br>public |  
-| bip_39_word_new_br11 | silent<br>waste<br>patrol<br>oxygen<br>eager<br>verify<br>retreat<br>february<br>badge<br>public<br>volume |  
-| bip_39_word_new_br12 | silent<br>waste<br>patrol<br>oxygen<br>eager<br>verify<br>retreat<br>february<br>badge<br>public<br>volume<br>arch |  
-| bip_39_word_new_br2 | silent<br>waste |  
-| bip_39_word_new_br3 | silent<br>waste<br>patrol |  
-| bip_39_word_new_br4 | silent<br>waste<br>patrol<br>oxygen |  
-| bip_39_word_new_br5 | silent<br>waste<br>patrol<br>oxygen<br>eager |  
-| bip_39_word_new_br6 | silent<br>waste<br>patrol<br>oxygen<br>eager<br>verify |  
-| bip_39_word_new_br7 | silent<br>waste<br>patrol<br>oxygen<br>eager<br>verify<br>retreat |  
-| bip_39_word_new_br8 | silent<br>waste<br>patrol<br>oxygen<br>eager<br>verify<br>retreat<br>february |  
-| bip_39_word_new_br9 | silent<br>waste<br>patrol<br>oxygen<br>eager<br>verify<br>retreat<br>february<br>badge |  
-| bip_39_word_new_line1 | silent |  
-| bip_39_word_new_line10 | silent
+| bip_39_word_new_br_1 | silent |  
+| bip_39_word_new_br_10 | silent<br>waste<br>patrol<br>oxygen<br>eager<br>verify<br>retreat<br>february<br>badge<br>public |  
+| bip_39_word_new_br_11 | silent<br>waste<br>patrol<br>oxygen<br>eager<br>verify<br>retreat<br>february<br>badge<br>public<br>volume |  
+| bip_39_word_new_br_12 | silent<br>waste<br>patrol<br>oxygen<br>eager<br>verify<br>retreat<br>february<br>badge<br>public<br>volume<br>arch |  
+| bip_39_word_new_br_2 | silent<br>waste |  
+| bip_39_word_new_br_3 | silent<br>waste<br>patrol |  
+| bip_39_word_new_br_4 | silent<br>waste<br>patrol<br>oxygen |  
+| bip_39_word_new_br_5 | silent<br>waste<br>patrol<br>oxygen<br>eager |  
+| bip_39_word_new_br_6 | silent<br>waste<br>patrol<br>oxygen<br>eager<br>verify |  
+| bip_39_word_new_br_7 | silent<br>waste<br>patrol<br>oxygen<br>eager<br>verify<br>retreat |  
+| bip_39_word_new_br_8 | silent<br>waste<br>patrol<br>oxygen<br>eager<br>verify<br>retreat<br>february |  
+| bip_39_word_new_br_9 | silent<br>waste<br>patrol<br>oxygen<br>eager<br>verify<br>retreat<br>february<br>badge |  
+| bip_39_word_new_line_1 | silent |  
+| bip_39_word_new_line_10 | silent
 waste
 patrol
 oxygen
@@ -55,7 +55,7 @@ retreat
 february
 badge
 public |  
-| bip_39_word_new_line11 | silent
+| bip_39_word_new_line_11 | silent
 waste
 patrol
 oxygen
@@ -66,7 +66,7 @@ february
 badge
 public
 volume |  
-| bip_39_word_new_line12 | silent
+| bip_39_word_new_line_12 | silent
 waste
 patrol
 oxygen
@@ -78,34 +78,34 @@ badge
 public
 volume
 arch |  
-| bip_39_word_new_line2 | silent
+| bip_39_word_new_line_2 | silent
 waste |  
-| bip_39_word_new_line3 | silent
+| bip_39_word_new_line_3 | silent
 waste
 patrol |  
-| bip_39_word_new_line4 | silent
+| bip_39_word_new_line_4 | silent
 waste
 patrol
 oxygen |  
-| bip_39_word_new_line5 | silent
+| bip_39_word_new_line_5 | silent
 waste
 patrol
 oxygen
 eager |  
-| bip_39_word_new_line6 | silent
+| bip_39_word_new_line_6 | silent
 waste
 patrol
 oxygen
 eager
 verify |  
-| bip_39_word_new_line7 | silent
+| bip_39_word_new_line_7 | silent
 waste
 patrol
 oxygen
 eager
 verify
 retreat |  
-| bip_39_word_new_line8 | silent
+| bip_39_word_new_line_8 | silent
 waste
 patrol
 oxygen
@@ -113,7 +113,7 @@ eager
 verify
 retreat
 february |  
-| bip_39_word_new_line9 | silent
+| bip_39_word_new_line_9 | silent
 waste
 patrol
 oxygen

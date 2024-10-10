@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | lumber |  
-| bip_39_word_new_br10 | lumber<br>width<br>tuition<br>walk<br>nurse<br>scissors<br>crater<br>call<br>debate<br>drama |  
-| bip_39_word_new_br11 | lumber<br>width<br>tuition<br>walk<br>nurse<br>scissors<br>crater<br>call<br>debate<br>drama<br>dial |  
-| bip_39_word_new_br12 | lumber<br>width<br>tuition<br>walk<br>nurse<br>scissors<br>crater<br>call<br>debate<br>drama<br>dial<br>ask |  
-| bip_39_word_new_br2 | lumber<br>width |  
-| bip_39_word_new_br3 | lumber<br>width<br>tuition |  
-| bip_39_word_new_br4 | lumber<br>width<br>tuition<br>walk |  
-| bip_39_word_new_br5 | lumber<br>width<br>tuition<br>walk<br>nurse |  
-| bip_39_word_new_br6 | lumber<br>width<br>tuition<br>walk<br>nurse<br>scissors |  
-| bip_39_word_new_br7 | lumber<br>width<br>tuition<br>walk<br>nurse<br>scissors<br>crater |  
-| bip_39_word_new_br8 | lumber<br>width<br>tuition<br>walk<br>nurse<br>scissors<br>crater<br>call |  
-| bip_39_word_new_br9 | lumber<br>width<br>tuition<br>walk<br>nurse<br>scissors<br>crater<br>call<br>debate |  
-| bip_39_word_new_line1 | lumber |  
-| bip_39_word_new_line10 | lumber
+| bip_39_word_new_br_1 | lumber |  
+| bip_39_word_new_br_10 | lumber<br>width<br>tuition<br>walk<br>nurse<br>scissors<br>crater<br>call<br>debate<br>drama |  
+| bip_39_word_new_br_11 | lumber<br>width<br>tuition<br>walk<br>nurse<br>scissors<br>crater<br>call<br>debate<br>drama<br>dial |  
+| bip_39_word_new_br_12 | lumber<br>width<br>tuition<br>walk<br>nurse<br>scissors<br>crater<br>call<br>debate<br>drama<br>dial<br>ask |  
+| bip_39_word_new_br_2 | lumber<br>width |  
+| bip_39_word_new_br_3 | lumber<br>width<br>tuition |  
+| bip_39_word_new_br_4 | lumber<br>width<br>tuition<br>walk |  
+| bip_39_word_new_br_5 | lumber<br>width<br>tuition<br>walk<br>nurse |  
+| bip_39_word_new_br_6 | lumber<br>width<br>tuition<br>walk<br>nurse<br>scissors |  
+| bip_39_word_new_br_7 | lumber<br>width<br>tuition<br>walk<br>nurse<br>scissors<br>crater |  
+| bip_39_word_new_br_8 | lumber<br>width<br>tuition<br>walk<br>nurse<br>scissors<br>crater<br>call |  
+| bip_39_word_new_br_9 | lumber<br>width<br>tuition<br>walk<br>nurse<br>scissors<br>crater<br>call<br>debate |  
+| bip_39_word_new_line_1 | lumber |  
+| bip_39_word_new_line_10 | lumber
 width
 tuition
 walk
@@ -55,7 +55,7 @@ crater
 call
 debate
 drama |  
-| bip_39_word_new_line11 | lumber
+| bip_39_word_new_line_11 | lumber
 width
 tuition
 walk
@@ -66,7 +66,7 @@ call
 debate
 drama
 dial |  
-| bip_39_word_new_line12 | lumber
+| bip_39_word_new_line_12 | lumber
 width
 tuition
 walk
@@ -78,34 +78,34 @@ debate
 drama
 dial
 ask |  
-| bip_39_word_new_line2 | lumber
+| bip_39_word_new_line_2 | lumber
 width |  
-| bip_39_word_new_line3 | lumber
+| bip_39_word_new_line_3 | lumber
 width
 tuition |  
-| bip_39_word_new_line4 | lumber
+| bip_39_word_new_line_4 | lumber
 width
 tuition
 walk |  
-| bip_39_word_new_line5 | lumber
+| bip_39_word_new_line_5 | lumber
 width
 tuition
 walk
 nurse |  
-| bip_39_word_new_line6 | lumber
+| bip_39_word_new_line_6 | lumber
 width
 tuition
 walk
 nurse
 scissors |  
-| bip_39_word_new_line7 | lumber
+| bip_39_word_new_line_7 | lumber
 width
 tuition
 walk
 nurse
 scissors
 crater |  
-| bip_39_word_new_line8 | lumber
+| bip_39_word_new_line_8 | lumber
 width
 tuition
 walk
@@ -113,7 +113,7 @@ nurse
 scissors
 crater
 call |  
-| bip_39_word_new_line9 | lumber
+| bip_39_word_new_line_9 | lumber
 width
 tuition
 walk

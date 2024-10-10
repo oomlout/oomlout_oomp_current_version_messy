@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sustain |  
-| bip_39_word_new_br10 | sustain<br>bind<br>loud<br>truck<br>diamond<br>raven<br>guitar<br>scissors<br>parrot<br>size |  
-| bip_39_word_new_br11 | sustain<br>bind<br>loud<br>truck<br>diamond<br>raven<br>guitar<br>scissors<br>parrot<br>size<br>senior |  
-| bip_39_word_new_br12 | sustain<br>bind<br>loud<br>truck<br>diamond<br>raven<br>guitar<br>scissors<br>parrot<br>size<br>senior<br>artwork |  
-| bip_39_word_new_br2 | sustain<br>bind |  
-| bip_39_word_new_br3 | sustain<br>bind<br>loud |  
-| bip_39_word_new_br4 | sustain<br>bind<br>loud<br>truck |  
-| bip_39_word_new_br5 | sustain<br>bind<br>loud<br>truck<br>diamond |  
-| bip_39_word_new_br6 | sustain<br>bind<br>loud<br>truck<br>diamond<br>raven |  
-| bip_39_word_new_br7 | sustain<br>bind<br>loud<br>truck<br>diamond<br>raven<br>guitar |  
-| bip_39_word_new_br8 | sustain<br>bind<br>loud<br>truck<br>diamond<br>raven<br>guitar<br>scissors |  
-| bip_39_word_new_br9 | sustain<br>bind<br>loud<br>truck<br>diamond<br>raven<br>guitar<br>scissors<br>parrot |  
-| bip_39_word_new_line1 | sustain |  
-| bip_39_word_new_line10 | sustain
+| bip_39_word_new_br_1 | sustain |  
+| bip_39_word_new_br_10 | sustain<br>bind<br>loud<br>truck<br>diamond<br>raven<br>guitar<br>scissors<br>parrot<br>size |  
+| bip_39_word_new_br_11 | sustain<br>bind<br>loud<br>truck<br>diamond<br>raven<br>guitar<br>scissors<br>parrot<br>size<br>senior |  
+| bip_39_word_new_br_12 | sustain<br>bind<br>loud<br>truck<br>diamond<br>raven<br>guitar<br>scissors<br>parrot<br>size<br>senior<br>artwork |  
+| bip_39_word_new_br_2 | sustain<br>bind |  
+| bip_39_word_new_br_3 | sustain<br>bind<br>loud |  
+| bip_39_word_new_br_4 | sustain<br>bind<br>loud<br>truck |  
+| bip_39_word_new_br_5 | sustain<br>bind<br>loud<br>truck<br>diamond |  
+| bip_39_word_new_br_6 | sustain<br>bind<br>loud<br>truck<br>diamond<br>raven |  
+| bip_39_word_new_br_7 | sustain<br>bind<br>loud<br>truck<br>diamond<br>raven<br>guitar |  
+| bip_39_word_new_br_8 | sustain<br>bind<br>loud<br>truck<br>diamond<br>raven<br>guitar<br>scissors |  
+| bip_39_word_new_br_9 | sustain<br>bind<br>loud<br>truck<br>diamond<br>raven<br>guitar<br>scissors<br>parrot |  
+| bip_39_word_new_line_1 | sustain |  
+| bip_39_word_new_line_10 | sustain
 bind
 loud
 truck
@@ -55,7 +55,7 @@ guitar
 scissors
 parrot
 size |  
-| bip_39_word_new_line11 | sustain
+| bip_39_word_new_line_11 | sustain
 bind
 loud
 truck
@@ -66,7 +66,7 @@ scissors
 parrot
 size
 senior |  
-| bip_39_word_new_line12 | sustain
+| bip_39_word_new_line_12 | sustain
 bind
 loud
 truck
@@ -78,34 +78,34 @@ parrot
 size
 senior
 artwork |  
-| bip_39_word_new_line2 | sustain
+| bip_39_word_new_line_2 | sustain
 bind |  
-| bip_39_word_new_line3 | sustain
+| bip_39_word_new_line_3 | sustain
 bind
 loud |  
-| bip_39_word_new_line4 | sustain
+| bip_39_word_new_line_4 | sustain
 bind
 loud
 truck |  
-| bip_39_word_new_line5 | sustain
+| bip_39_word_new_line_5 | sustain
 bind
 loud
 truck
 diamond |  
-| bip_39_word_new_line6 | sustain
+| bip_39_word_new_line_6 | sustain
 bind
 loud
 truck
 diamond
 raven |  
-| bip_39_word_new_line7 | sustain
+| bip_39_word_new_line_7 | sustain
 bind
 loud
 truck
 diamond
 raven
 guitar |  
-| bip_39_word_new_line8 | sustain
+| bip_39_word_new_line_8 | sustain
 bind
 loud
 truck
@@ -113,7 +113,7 @@ diamond
 raven
 guitar
 scissors |  
-| bip_39_word_new_line9 | sustain
+| bip_39_word_new_line_9 | sustain
 bind
 loud
 truck

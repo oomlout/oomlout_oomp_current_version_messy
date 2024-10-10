@@ -1,17 +1,17 @@
-bip_39_word_new_br1: charge
-bip_39_word_new_br10: charge<br>list<br>economy<br>cement<br>weapon<br>duck<br>pudding<br>repeat<br>erupt<br>father
-bip_39_word_new_br11: charge<br>list<br>economy<br>cement<br>weapon<br>duck<br>pudding<br>repeat<br>erupt<br>father<br>naive
-bip_39_word_new_br12: charge<br>list<br>economy<br>cement<br>weapon<br>duck<br>pudding<br>repeat<br>erupt<br>father<br>naive<br>arrow
-bip_39_word_new_br2: charge<br>list
-bip_39_word_new_br3: charge<br>list<br>economy
-bip_39_word_new_br4: charge<br>list<br>economy<br>cement
-bip_39_word_new_br5: charge<br>list<br>economy<br>cement<br>weapon
-bip_39_word_new_br6: charge<br>list<br>economy<br>cement<br>weapon<br>duck
-bip_39_word_new_br7: charge<br>list<br>economy<br>cement<br>weapon<br>duck<br>pudding
-bip_39_word_new_br8: charge<br>list<br>economy<br>cement<br>weapon<br>duck<br>pudding<br>repeat
-bip_39_word_new_br9: charge<br>list<br>economy<br>cement<br>weapon<br>duck<br>pudding<br>repeat<br>erupt
-bip_39_word_new_line1: charge
-bip_39_word_new_line10: 'charge
+bip_39_word_new_br_1: charge
+bip_39_word_new_br_10: charge<br>list<br>economy<br>cement<br>weapon<br>duck<br>pudding<br>repeat<br>erupt<br>father
+bip_39_word_new_br_11: charge<br>list<br>economy<br>cement<br>weapon<br>duck<br>pudding<br>repeat<br>erupt<br>father<br>naive
+bip_39_word_new_br_12: charge<br>list<br>economy<br>cement<br>weapon<br>duck<br>pudding<br>repeat<br>erupt<br>father<br>naive<br>arrow
+bip_39_word_new_br_2: charge<br>list
+bip_39_word_new_br_3: charge<br>list<br>economy
+bip_39_word_new_br_4: charge<br>list<br>economy<br>cement
+bip_39_word_new_br_5: charge<br>list<br>economy<br>cement<br>weapon
+bip_39_word_new_br_6: charge<br>list<br>economy<br>cement<br>weapon<br>duck
+bip_39_word_new_br_7: charge<br>list<br>economy<br>cement<br>weapon<br>duck<br>pudding
+bip_39_word_new_br_8: charge<br>list<br>economy<br>cement<br>weapon<br>duck<br>pudding<br>repeat
+bip_39_word_new_br_9: charge<br>list<br>economy<br>cement<br>weapon<br>duck<br>pudding<br>repeat<br>erupt
+bip_39_word_new_line_1: charge
+bip_39_word_new_line_10: 'charge
 
   list
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'charge
   erupt
 
   father'
-bip_39_word_new_line11: 'charge
+bip_39_word_new_line_11: 'charge
 
   list
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'charge
   father
 
   naive'
-bip_39_word_new_line12: 'charge
+bip_39_word_new_line_12: 'charge
 
   list
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'charge
   naive
 
   arrow'
-bip_39_word_new_line2: 'charge
+bip_39_word_new_line_2: 'charge
 
   list'
-bip_39_word_new_line3: 'charge
+bip_39_word_new_line_3: 'charge
 
   list
 
   economy'
-bip_39_word_new_line4: 'charge
+bip_39_word_new_line_4: 'charge
 
   list
 
   economy
 
   cement'
-bip_39_word_new_line5: 'charge
+bip_39_word_new_line_5: 'charge
 
   list
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'charge
   cement
 
   weapon'
-bip_39_word_new_line6: 'charge
+bip_39_word_new_line_6: 'charge
 
   list
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'charge
   weapon
 
   duck'
-bip_39_word_new_line7: 'charge
+bip_39_word_new_line_7: 'charge
 
   list
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'charge
   duck
 
   pudding'
-bip_39_word_new_line8: 'charge
+bip_39_word_new_line_8: 'charge
 
   list
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'charge
   pudding
 
   repeat'
-bip_39_word_new_line9: 'charge
+bip_39_word_new_line_9: 'charge
 
   list
 

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | provide |  
-| bip_39_word_new_br10 | provide<br>cruel<br>ancient<br>rocket<br>become<br>van<br>culture<br>column<br>dust<br>sleep |  
-| bip_39_word_new_br11 | provide<br>cruel<br>ancient<br>rocket<br>become<br>van<br>culture<br>column<br>dust<br>sleep<br>own |  
-| bip_39_word_new_br12 | provide<br>cruel<br>ancient<br>rocket<br>become<br>van<br>culture<br>column<br>dust<br>sleep<br>own<br>ask |  
-| bip_39_word_new_br2 | provide<br>cruel |  
-| bip_39_word_new_br3 | provide<br>cruel<br>ancient |  
-| bip_39_word_new_br4 | provide<br>cruel<br>ancient<br>rocket |  
-| bip_39_word_new_br5 | provide<br>cruel<br>ancient<br>rocket<br>become |  
-| bip_39_word_new_br6 | provide<br>cruel<br>ancient<br>rocket<br>become<br>van |  
-| bip_39_word_new_br7 | provide<br>cruel<br>ancient<br>rocket<br>become<br>van<br>culture |  
-| bip_39_word_new_br8 | provide<br>cruel<br>ancient<br>rocket<br>become<br>van<br>culture<br>column |  
-| bip_39_word_new_br9 | provide<br>cruel<br>ancient<br>rocket<br>become<br>van<br>culture<br>column<br>dust |  
-| bip_39_word_new_line1 | provide |  
-| bip_39_word_new_line10 | provide
+| bip_39_word_new_br_1 | provide |  
+| bip_39_word_new_br_10 | provide<br>cruel<br>ancient<br>rocket<br>become<br>van<br>culture<br>column<br>dust<br>sleep |  
+| bip_39_word_new_br_11 | provide<br>cruel<br>ancient<br>rocket<br>become<br>van<br>culture<br>column<br>dust<br>sleep<br>own |  
+| bip_39_word_new_br_12 | provide<br>cruel<br>ancient<br>rocket<br>become<br>van<br>culture<br>column<br>dust<br>sleep<br>own<br>ask |  
+| bip_39_word_new_br_2 | provide<br>cruel |  
+| bip_39_word_new_br_3 | provide<br>cruel<br>ancient |  
+| bip_39_word_new_br_4 | provide<br>cruel<br>ancient<br>rocket |  
+| bip_39_word_new_br_5 | provide<br>cruel<br>ancient<br>rocket<br>become |  
+| bip_39_word_new_br_6 | provide<br>cruel<br>ancient<br>rocket<br>become<br>van |  
+| bip_39_word_new_br_7 | provide<br>cruel<br>ancient<br>rocket<br>become<br>van<br>culture |  
+| bip_39_word_new_br_8 | provide<br>cruel<br>ancient<br>rocket<br>become<br>van<br>culture<br>column |  
+| bip_39_word_new_br_9 | provide<br>cruel<br>ancient<br>rocket<br>become<br>van<br>culture<br>column<br>dust |  
+| bip_39_word_new_line_1 | provide |  
+| bip_39_word_new_line_10 | provide
 cruel
 ancient
 rocket
@@ -55,7 +55,7 @@ culture
 column
 dust
 sleep |  
-| bip_39_word_new_line11 | provide
+| bip_39_word_new_line_11 | provide
 cruel
 ancient
 rocket
@@ -66,7 +66,7 @@ column
 dust
 sleep
 own |  
-| bip_39_word_new_line12 | provide
+| bip_39_word_new_line_12 | provide
 cruel
 ancient
 rocket
@@ -78,34 +78,34 @@ dust
 sleep
 own
 ask |  
-| bip_39_word_new_line2 | provide
+| bip_39_word_new_line_2 | provide
 cruel |  
-| bip_39_word_new_line3 | provide
+| bip_39_word_new_line_3 | provide
 cruel
 ancient |  
-| bip_39_word_new_line4 | provide
+| bip_39_word_new_line_4 | provide
 cruel
 ancient
 rocket |  
-| bip_39_word_new_line5 | provide
+| bip_39_word_new_line_5 | provide
 cruel
 ancient
 rocket
 become |  
-| bip_39_word_new_line6 | provide
+| bip_39_word_new_line_6 | provide
 cruel
 ancient
 rocket
 become
 van |  
-| bip_39_word_new_line7 | provide
+| bip_39_word_new_line_7 | provide
 cruel
 ancient
 rocket
 become
 van
 culture |  
-| bip_39_word_new_line8 | provide
+| bip_39_word_new_line_8 | provide
 cruel
 ancient
 rocket
@@ -113,7 +113,7 @@ become
 van
 culture
 column |  
-| bip_39_word_new_line9 | provide
+| bip_39_word_new_line_9 | provide
 cruel
 ancient
 rocket

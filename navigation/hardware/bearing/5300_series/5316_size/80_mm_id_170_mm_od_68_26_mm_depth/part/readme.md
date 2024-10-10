@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mean |  
-| bip_39_word_new_br10 | mean<br>elevator<br>sunny<br>predict<br>smooth<br>thumb<br>destroy<br>romance<br>polar<br>device |  
-| bip_39_word_new_br11 | mean<br>elevator<br>sunny<br>predict<br>smooth<br>thumb<br>destroy<br>romance<br>polar<br>device<br>path |  
-| bip_39_word_new_br12 | mean<br>elevator<br>sunny<br>predict<br>smooth<br>thumb<br>destroy<br>romance<br>polar<br>device<br>path<br>agent |  
-| bip_39_word_new_br2 | mean<br>elevator |  
-| bip_39_word_new_br3 | mean<br>elevator<br>sunny |  
-| bip_39_word_new_br4 | mean<br>elevator<br>sunny<br>predict |  
-| bip_39_word_new_br5 | mean<br>elevator<br>sunny<br>predict<br>smooth |  
-| bip_39_word_new_br6 | mean<br>elevator<br>sunny<br>predict<br>smooth<br>thumb |  
-| bip_39_word_new_br7 | mean<br>elevator<br>sunny<br>predict<br>smooth<br>thumb<br>destroy |  
-| bip_39_word_new_br8 | mean<br>elevator<br>sunny<br>predict<br>smooth<br>thumb<br>destroy<br>romance |  
-| bip_39_word_new_br9 | mean<br>elevator<br>sunny<br>predict<br>smooth<br>thumb<br>destroy<br>romance<br>polar |  
-| bip_39_word_new_line1 | mean |  
-| bip_39_word_new_line10 | mean
+| bip_39_word_new_br_1 | mean |  
+| bip_39_word_new_br_10 | mean<br>elevator<br>sunny<br>predict<br>smooth<br>thumb<br>destroy<br>romance<br>polar<br>device |  
+| bip_39_word_new_br_11 | mean<br>elevator<br>sunny<br>predict<br>smooth<br>thumb<br>destroy<br>romance<br>polar<br>device<br>path |  
+| bip_39_word_new_br_12 | mean<br>elevator<br>sunny<br>predict<br>smooth<br>thumb<br>destroy<br>romance<br>polar<br>device<br>path<br>agent |  
+| bip_39_word_new_br_2 | mean<br>elevator |  
+| bip_39_word_new_br_3 | mean<br>elevator<br>sunny |  
+| bip_39_word_new_br_4 | mean<br>elevator<br>sunny<br>predict |  
+| bip_39_word_new_br_5 | mean<br>elevator<br>sunny<br>predict<br>smooth |  
+| bip_39_word_new_br_6 | mean<br>elevator<br>sunny<br>predict<br>smooth<br>thumb |  
+| bip_39_word_new_br_7 | mean<br>elevator<br>sunny<br>predict<br>smooth<br>thumb<br>destroy |  
+| bip_39_word_new_br_8 | mean<br>elevator<br>sunny<br>predict<br>smooth<br>thumb<br>destroy<br>romance |  
+| bip_39_word_new_br_9 | mean<br>elevator<br>sunny<br>predict<br>smooth<br>thumb<br>destroy<br>romance<br>polar |  
+| bip_39_word_new_line_1 | mean |  
+| bip_39_word_new_line_10 | mean
 elevator
 sunny
 predict
@@ -55,7 +55,7 @@ destroy
 romance
 polar
 device |  
-| bip_39_word_new_line11 | mean
+| bip_39_word_new_line_11 | mean
 elevator
 sunny
 predict
@@ -66,7 +66,7 @@ romance
 polar
 device
 path |  
-| bip_39_word_new_line12 | mean
+| bip_39_word_new_line_12 | mean
 elevator
 sunny
 predict
@@ -78,34 +78,34 @@ polar
 device
 path
 agent |  
-| bip_39_word_new_line2 | mean
+| bip_39_word_new_line_2 | mean
 elevator |  
-| bip_39_word_new_line3 | mean
+| bip_39_word_new_line_3 | mean
 elevator
 sunny |  
-| bip_39_word_new_line4 | mean
+| bip_39_word_new_line_4 | mean
 elevator
 sunny
 predict |  
-| bip_39_word_new_line5 | mean
+| bip_39_word_new_line_5 | mean
 elevator
 sunny
 predict
 smooth |  
-| bip_39_word_new_line6 | mean
+| bip_39_word_new_line_6 | mean
 elevator
 sunny
 predict
 smooth
 thumb |  
-| bip_39_word_new_line7 | mean
+| bip_39_word_new_line_7 | mean
 elevator
 sunny
 predict
 smooth
 thumb
 destroy |  
-| bip_39_word_new_line8 | mean
+| bip_39_word_new_line_8 | mean
 elevator
 sunny
 predict
@@ -113,7 +113,7 @@ smooth
 thumb
 destroy
 romance |  
-| bip_39_word_new_line9 | mean
+| bip_39_word_new_line_9 | mean
 elevator
 sunny
 predict

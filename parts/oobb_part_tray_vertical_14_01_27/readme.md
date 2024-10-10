@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | return |  
-| bip_39_word_new_br10 | return<br>name<br>drive<br>cook<br>decline<br>before<br>boring<br>stuff<br>laugh<br>check |  
-| bip_39_word_new_br11 | return<br>name<br>drive<br>cook<br>decline<br>before<br>boring<br>stuff<br>laugh<br>check<br>tone |  
-| bip_39_word_new_br12 | return<br>name<br>drive<br>cook<br>decline<br>before<br>boring<br>stuff<br>laugh<br>check<br>tone<br>attract |  
-| bip_39_word_new_br2 | return<br>name |  
-| bip_39_word_new_br3 | return<br>name<br>drive |  
-| bip_39_word_new_br4 | return<br>name<br>drive<br>cook |  
-| bip_39_word_new_br5 | return<br>name<br>drive<br>cook<br>decline |  
-| bip_39_word_new_br6 | return<br>name<br>drive<br>cook<br>decline<br>before |  
-| bip_39_word_new_br7 | return<br>name<br>drive<br>cook<br>decline<br>before<br>boring |  
-| bip_39_word_new_br8 | return<br>name<br>drive<br>cook<br>decline<br>before<br>boring<br>stuff |  
-| bip_39_word_new_br9 | return<br>name<br>drive<br>cook<br>decline<br>before<br>boring<br>stuff<br>laugh |  
-| bip_39_word_new_line1 | return |  
-| bip_39_word_new_line10 | return
+| bip_39_word_new_br_1 | return |  
+| bip_39_word_new_br_10 | return<br>name<br>drive<br>cook<br>decline<br>before<br>boring<br>stuff<br>laugh<br>check |  
+| bip_39_word_new_br_11 | return<br>name<br>drive<br>cook<br>decline<br>before<br>boring<br>stuff<br>laugh<br>check<br>tone |  
+| bip_39_word_new_br_12 | return<br>name<br>drive<br>cook<br>decline<br>before<br>boring<br>stuff<br>laugh<br>check<br>tone<br>attract |  
+| bip_39_word_new_br_2 | return<br>name |  
+| bip_39_word_new_br_3 | return<br>name<br>drive |  
+| bip_39_word_new_br_4 | return<br>name<br>drive<br>cook |  
+| bip_39_word_new_br_5 | return<br>name<br>drive<br>cook<br>decline |  
+| bip_39_word_new_br_6 | return<br>name<br>drive<br>cook<br>decline<br>before |  
+| bip_39_word_new_br_7 | return<br>name<br>drive<br>cook<br>decline<br>before<br>boring |  
+| bip_39_word_new_br_8 | return<br>name<br>drive<br>cook<br>decline<br>before<br>boring<br>stuff |  
+| bip_39_word_new_br_9 | return<br>name<br>drive<br>cook<br>decline<br>before<br>boring<br>stuff<br>laugh |  
+| bip_39_word_new_line_1 | return |  
+| bip_39_word_new_line_10 | return
 name
 drive
 cook
@@ -55,7 +55,7 @@ boring
 stuff
 laugh
 check |  
-| bip_39_word_new_line11 | return
+| bip_39_word_new_line_11 | return
 name
 drive
 cook
@@ -66,7 +66,7 @@ stuff
 laugh
 check
 tone |  
-| bip_39_word_new_line12 | return
+| bip_39_word_new_line_12 | return
 name
 drive
 cook
@@ -78,34 +78,34 @@ laugh
 check
 tone
 attract |  
-| bip_39_word_new_line2 | return
+| bip_39_word_new_line_2 | return
 name |  
-| bip_39_word_new_line3 | return
+| bip_39_word_new_line_3 | return
 name
 drive |  
-| bip_39_word_new_line4 | return
+| bip_39_word_new_line_4 | return
 name
 drive
 cook |  
-| bip_39_word_new_line5 | return
+| bip_39_word_new_line_5 | return
 name
 drive
 cook
 decline |  
-| bip_39_word_new_line6 | return
+| bip_39_word_new_line_6 | return
 name
 drive
 cook
 decline
 before |  
-| bip_39_word_new_line7 | return
+| bip_39_word_new_line_7 | return
 name
 drive
 cook
 decline
 before
 boring |  
-| bip_39_word_new_line8 | return
+| bip_39_word_new_line_8 | return
 name
 drive
 cook
@@ -113,7 +113,7 @@ decline
 before
 boring
 stuff |  
-| bip_39_word_new_line9 | return
+| bip_39_word_new_line_9 | return
 name
 drive
 cook

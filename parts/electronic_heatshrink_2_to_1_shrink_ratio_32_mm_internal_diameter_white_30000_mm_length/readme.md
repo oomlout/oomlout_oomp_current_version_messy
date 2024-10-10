@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mix |  
-| bip_39_word_new_br10 | mix<br>treat<br>total<br>expose<br>square<br>number<br>crew<br>mystery<br>success<br>level |  
-| bip_39_word_new_br11 | mix<br>treat<br>total<br>expose<br>square<br>number<br>crew<br>mystery<br>success<br>level<br>menu |  
-| bip_39_word_new_br12 | mix<br>treat<br>total<br>expose<br>square<br>number<br>crew<br>mystery<br>success<br>level<br>menu<br>alarm |  
-| bip_39_word_new_br2 | mix<br>treat |  
-| bip_39_word_new_br3 | mix<br>treat<br>total |  
-| bip_39_word_new_br4 | mix<br>treat<br>total<br>expose |  
-| bip_39_word_new_br5 | mix<br>treat<br>total<br>expose<br>square |  
-| bip_39_word_new_br6 | mix<br>treat<br>total<br>expose<br>square<br>number |  
-| bip_39_word_new_br7 | mix<br>treat<br>total<br>expose<br>square<br>number<br>crew |  
-| bip_39_word_new_br8 | mix<br>treat<br>total<br>expose<br>square<br>number<br>crew<br>mystery |  
-| bip_39_word_new_br9 | mix<br>treat<br>total<br>expose<br>square<br>number<br>crew<br>mystery<br>success |  
-| bip_39_word_new_line1 | mix |  
-| bip_39_word_new_line10 | mix
+| bip_39_word_new_br_1 | mix |  
+| bip_39_word_new_br_10 | mix<br>treat<br>total<br>expose<br>square<br>number<br>crew<br>mystery<br>success<br>level |  
+| bip_39_word_new_br_11 | mix<br>treat<br>total<br>expose<br>square<br>number<br>crew<br>mystery<br>success<br>level<br>menu |  
+| bip_39_word_new_br_12 | mix<br>treat<br>total<br>expose<br>square<br>number<br>crew<br>mystery<br>success<br>level<br>menu<br>alarm |  
+| bip_39_word_new_br_2 | mix<br>treat |  
+| bip_39_word_new_br_3 | mix<br>treat<br>total |  
+| bip_39_word_new_br_4 | mix<br>treat<br>total<br>expose |  
+| bip_39_word_new_br_5 | mix<br>treat<br>total<br>expose<br>square |  
+| bip_39_word_new_br_6 | mix<br>treat<br>total<br>expose<br>square<br>number |  
+| bip_39_word_new_br_7 | mix<br>treat<br>total<br>expose<br>square<br>number<br>crew |  
+| bip_39_word_new_br_8 | mix<br>treat<br>total<br>expose<br>square<br>number<br>crew<br>mystery |  
+| bip_39_word_new_br_9 | mix<br>treat<br>total<br>expose<br>square<br>number<br>crew<br>mystery<br>success |  
+| bip_39_word_new_line_1 | mix |  
+| bip_39_word_new_line_10 | mix
 treat
 total
 expose
@@ -55,7 +55,7 @@ crew
 mystery
 success
 level |  
-| bip_39_word_new_line11 | mix
+| bip_39_word_new_line_11 | mix
 treat
 total
 expose
@@ -66,7 +66,7 @@ mystery
 success
 level
 menu |  
-| bip_39_word_new_line12 | mix
+| bip_39_word_new_line_12 | mix
 treat
 total
 expose
@@ -78,34 +78,34 @@ success
 level
 menu
 alarm |  
-| bip_39_word_new_line2 | mix
+| bip_39_word_new_line_2 | mix
 treat |  
-| bip_39_word_new_line3 | mix
+| bip_39_word_new_line_3 | mix
 treat
 total |  
-| bip_39_word_new_line4 | mix
+| bip_39_word_new_line_4 | mix
 treat
 total
 expose |  
-| bip_39_word_new_line5 | mix
+| bip_39_word_new_line_5 | mix
 treat
 total
 expose
 square |  
-| bip_39_word_new_line6 | mix
+| bip_39_word_new_line_6 | mix
 treat
 total
 expose
 square
 number |  
-| bip_39_word_new_line7 | mix
+| bip_39_word_new_line_7 | mix
 treat
 total
 expose
 square
 number
 crew |  
-| bip_39_word_new_line8 | mix
+| bip_39_word_new_line_8 | mix
 treat
 total
 expose
@@ -113,7 +113,7 @@ square
 number
 crew
 mystery |  
-| bip_39_word_new_line9 | mix
+| bip_39_word_new_line_9 | mix
 treat
 total
 expose

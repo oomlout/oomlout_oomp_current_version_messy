@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fluid |  
-| bip_39_word_new_br10 | fluid<br>tribe<br>prize<br>joke<br>soft<br>mosquito<br>solar<br>install<br>kitchen<br>upgrade |  
-| bip_39_word_new_br11 | fluid<br>tribe<br>prize<br>joke<br>soft<br>mosquito<br>solar<br>install<br>kitchen<br>upgrade<br>fetch |  
-| bip_39_word_new_br12 | fluid<br>tribe<br>prize<br>joke<br>soft<br>mosquito<br>solar<br>install<br>kitchen<br>upgrade<br>fetch<br>apple |  
-| bip_39_word_new_br2 | fluid<br>tribe |  
-| bip_39_word_new_br3 | fluid<br>tribe<br>prize |  
-| bip_39_word_new_br4 | fluid<br>tribe<br>prize<br>joke |  
-| bip_39_word_new_br5 | fluid<br>tribe<br>prize<br>joke<br>soft |  
-| bip_39_word_new_br6 | fluid<br>tribe<br>prize<br>joke<br>soft<br>mosquito |  
-| bip_39_word_new_br7 | fluid<br>tribe<br>prize<br>joke<br>soft<br>mosquito<br>solar |  
-| bip_39_word_new_br8 | fluid<br>tribe<br>prize<br>joke<br>soft<br>mosquito<br>solar<br>install |  
-| bip_39_word_new_br9 | fluid<br>tribe<br>prize<br>joke<br>soft<br>mosquito<br>solar<br>install<br>kitchen |  
-| bip_39_word_new_line1 | fluid |  
-| bip_39_word_new_line10 | fluid
+| bip_39_word_new_br_1 | fluid |  
+| bip_39_word_new_br_10 | fluid<br>tribe<br>prize<br>joke<br>soft<br>mosquito<br>solar<br>install<br>kitchen<br>upgrade |  
+| bip_39_word_new_br_11 | fluid<br>tribe<br>prize<br>joke<br>soft<br>mosquito<br>solar<br>install<br>kitchen<br>upgrade<br>fetch |  
+| bip_39_word_new_br_12 | fluid<br>tribe<br>prize<br>joke<br>soft<br>mosquito<br>solar<br>install<br>kitchen<br>upgrade<br>fetch<br>apple |  
+| bip_39_word_new_br_2 | fluid<br>tribe |  
+| bip_39_word_new_br_3 | fluid<br>tribe<br>prize |  
+| bip_39_word_new_br_4 | fluid<br>tribe<br>prize<br>joke |  
+| bip_39_word_new_br_5 | fluid<br>tribe<br>prize<br>joke<br>soft |  
+| bip_39_word_new_br_6 | fluid<br>tribe<br>prize<br>joke<br>soft<br>mosquito |  
+| bip_39_word_new_br_7 | fluid<br>tribe<br>prize<br>joke<br>soft<br>mosquito<br>solar |  
+| bip_39_word_new_br_8 | fluid<br>tribe<br>prize<br>joke<br>soft<br>mosquito<br>solar<br>install |  
+| bip_39_word_new_br_9 | fluid<br>tribe<br>prize<br>joke<br>soft<br>mosquito<br>solar<br>install<br>kitchen |  
+| bip_39_word_new_line_1 | fluid |  
+| bip_39_word_new_line_10 | fluid
 tribe
 prize
 joke
@@ -55,7 +55,7 @@ solar
 install
 kitchen
 upgrade |  
-| bip_39_word_new_line11 | fluid
+| bip_39_word_new_line_11 | fluid
 tribe
 prize
 joke
@@ -66,7 +66,7 @@ install
 kitchen
 upgrade
 fetch |  
-| bip_39_word_new_line12 | fluid
+| bip_39_word_new_line_12 | fluid
 tribe
 prize
 joke
@@ -78,34 +78,34 @@ kitchen
 upgrade
 fetch
 apple |  
-| bip_39_word_new_line2 | fluid
+| bip_39_word_new_line_2 | fluid
 tribe |  
-| bip_39_word_new_line3 | fluid
+| bip_39_word_new_line_3 | fluid
 tribe
 prize |  
-| bip_39_word_new_line4 | fluid
+| bip_39_word_new_line_4 | fluid
 tribe
 prize
 joke |  
-| bip_39_word_new_line5 | fluid
+| bip_39_word_new_line_5 | fluid
 tribe
 prize
 joke
 soft |  
-| bip_39_word_new_line6 | fluid
+| bip_39_word_new_line_6 | fluid
 tribe
 prize
 joke
 soft
 mosquito |  
-| bip_39_word_new_line7 | fluid
+| bip_39_word_new_line_7 | fluid
 tribe
 prize
 joke
 soft
 mosquito
 solar |  
-| bip_39_word_new_line8 | fluid
+| bip_39_word_new_line_8 | fluid
 tribe
 prize
 joke
@@ -113,7 +113,7 @@ soft
 mosquito
 solar
 install |  
-| bip_39_word_new_line9 | fluid
+| bip_39_word_new_line_9 | fluid
 tribe
 prize
 joke

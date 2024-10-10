@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | void |  
-| bip_39_word_new_br10 | void<br>planet<br>saddle<br>correct<br>eyebrow<br>tourist<br>crane<br>left<br>green<br>hint |  
-| bip_39_word_new_br11 | void<br>planet<br>saddle<br>correct<br>eyebrow<br>tourist<br>crane<br>left<br>green<br>hint<br>copper |  
-| bip_39_word_new_br12 | void<br>planet<br>saddle<br>correct<br>eyebrow<br>tourist<br>crane<br>left<br>green<br>hint<br>copper<br>advance |  
-| bip_39_word_new_br2 | void<br>planet |  
-| bip_39_word_new_br3 | void<br>planet<br>saddle |  
-| bip_39_word_new_br4 | void<br>planet<br>saddle<br>correct |  
-| bip_39_word_new_br5 | void<br>planet<br>saddle<br>correct<br>eyebrow |  
-| bip_39_word_new_br6 | void<br>planet<br>saddle<br>correct<br>eyebrow<br>tourist |  
-| bip_39_word_new_br7 | void<br>planet<br>saddle<br>correct<br>eyebrow<br>tourist<br>crane |  
-| bip_39_word_new_br8 | void<br>planet<br>saddle<br>correct<br>eyebrow<br>tourist<br>crane<br>left |  
-| bip_39_word_new_br9 | void<br>planet<br>saddle<br>correct<br>eyebrow<br>tourist<br>crane<br>left<br>green |  
-| bip_39_word_new_line1 | void |  
-| bip_39_word_new_line10 | void
+| bip_39_word_new_br_1 | void |  
+| bip_39_word_new_br_10 | void<br>planet<br>saddle<br>correct<br>eyebrow<br>tourist<br>crane<br>left<br>green<br>hint |  
+| bip_39_word_new_br_11 | void<br>planet<br>saddle<br>correct<br>eyebrow<br>tourist<br>crane<br>left<br>green<br>hint<br>copper |  
+| bip_39_word_new_br_12 | void<br>planet<br>saddle<br>correct<br>eyebrow<br>tourist<br>crane<br>left<br>green<br>hint<br>copper<br>advance |  
+| bip_39_word_new_br_2 | void<br>planet |  
+| bip_39_word_new_br_3 | void<br>planet<br>saddle |  
+| bip_39_word_new_br_4 | void<br>planet<br>saddle<br>correct |  
+| bip_39_word_new_br_5 | void<br>planet<br>saddle<br>correct<br>eyebrow |  
+| bip_39_word_new_br_6 | void<br>planet<br>saddle<br>correct<br>eyebrow<br>tourist |  
+| bip_39_word_new_br_7 | void<br>planet<br>saddle<br>correct<br>eyebrow<br>tourist<br>crane |  
+| bip_39_word_new_br_8 | void<br>planet<br>saddle<br>correct<br>eyebrow<br>tourist<br>crane<br>left |  
+| bip_39_word_new_br_9 | void<br>planet<br>saddle<br>correct<br>eyebrow<br>tourist<br>crane<br>left<br>green |  
+| bip_39_word_new_line_1 | void |  
+| bip_39_word_new_line_10 | void
 planet
 saddle
 correct
@@ -55,7 +55,7 @@ crane
 left
 green
 hint |  
-| bip_39_word_new_line11 | void
+| bip_39_word_new_line_11 | void
 planet
 saddle
 correct
@@ -66,7 +66,7 @@ left
 green
 hint
 copper |  
-| bip_39_word_new_line12 | void
+| bip_39_word_new_line_12 | void
 planet
 saddle
 correct
@@ -78,34 +78,34 @@ green
 hint
 copper
 advance |  
-| bip_39_word_new_line2 | void
+| bip_39_word_new_line_2 | void
 planet |  
-| bip_39_word_new_line3 | void
+| bip_39_word_new_line_3 | void
 planet
 saddle |  
-| bip_39_word_new_line4 | void
+| bip_39_word_new_line_4 | void
 planet
 saddle
 correct |  
-| bip_39_word_new_line5 | void
+| bip_39_word_new_line_5 | void
 planet
 saddle
 correct
 eyebrow |  
-| bip_39_word_new_line6 | void
+| bip_39_word_new_line_6 | void
 planet
 saddle
 correct
 eyebrow
 tourist |  
-| bip_39_word_new_line7 | void
+| bip_39_word_new_line_7 | void
 planet
 saddle
 correct
 eyebrow
 tourist
 crane |  
-| bip_39_word_new_line8 | void
+| bip_39_word_new_line_8 | void
 planet
 saddle
 correct
@@ -113,7 +113,7 @@ eyebrow
 tourist
 crane
 left |  
-| bip_39_word_new_line9 | void
+| bip_39_word_new_line_9 | void
 planet
 saddle
 correct

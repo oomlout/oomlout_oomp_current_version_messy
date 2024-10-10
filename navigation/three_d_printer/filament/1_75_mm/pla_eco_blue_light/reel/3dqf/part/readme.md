@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | aisle |  
-| bip_39_word_new_br10 | aisle<br>treat<br>potato<br>enter<br>this<br>key<br>three<br>shed<br>question<br>duty |  
-| bip_39_word_new_br11 | aisle<br>treat<br>potato<br>enter<br>this<br>key<br>three<br>shed<br>question<br>duty<br>safe |  
-| bip_39_word_new_br12 | aisle<br>treat<br>potato<br>enter<br>this<br>key<br>three<br>shed<br>question<br>duty<br>safe<br>alley |  
-| bip_39_word_new_br2 | aisle<br>treat |  
-| bip_39_word_new_br3 | aisle<br>treat<br>potato |  
-| bip_39_word_new_br4 | aisle<br>treat<br>potato<br>enter |  
-| bip_39_word_new_br5 | aisle<br>treat<br>potato<br>enter<br>this |  
-| bip_39_word_new_br6 | aisle<br>treat<br>potato<br>enter<br>this<br>key |  
-| bip_39_word_new_br7 | aisle<br>treat<br>potato<br>enter<br>this<br>key<br>three |  
-| bip_39_word_new_br8 | aisle<br>treat<br>potato<br>enter<br>this<br>key<br>three<br>shed |  
-| bip_39_word_new_br9 | aisle<br>treat<br>potato<br>enter<br>this<br>key<br>three<br>shed<br>question |  
-| bip_39_word_new_line1 | aisle |  
-| bip_39_word_new_line10 | aisle
+| bip_39_word_new_br_1 | aisle |  
+| bip_39_word_new_br_10 | aisle<br>treat<br>potato<br>enter<br>this<br>key<br>three<br>shed<br>question<br>duty |  
+| bip_39_word_new_br_11 | aisle<br>treat<br>potato<br>enter<br>this<br>key<br>three<br>shed<br>question<br>duty<br>safe |  
+| bip_39_word_new_br_12 | aisle<br>treat<br>potato<br>enter<br>this<br>key<br>three<br>shed<br>question<br>duty<br>safe<br>alley |  
+| bip_39_word_new_br_2 | aisle<br>treat |  
+| bip_39_word_new_br_3 | aisle<br>treat<br>potato |  
+| bip_39_word_new_br_4 | aisle<br>treat<br>potato<br>enter |  
+| bip_39_word_new_br_5 | aisle<br>treat<br>potato<br>enter<br>this |  
+| bip_39_word_new_br_6 | aisle<br>treat<br>potato<br>enter<br>this<br>key |  
+| bip_39_word_new_br_7 | aisle<br>treat<br>potato<br>enter<br>this<br>key<br>three |  
+| bip_39_word_new_br_8 | aisle<br>treat<br>potato<br>enter<br>this<br>key<br>three<br>shed |  
+| bip_39_word_new_br_9 | aisle<br>treat<br>potato<br>enter<br>this<br>key<br>three<br>shed<br>question |  
+| bip_39_word_new_line_1 | aisle |  
+| bip_39_word_new_line_10 | aisle
 treat
 potato
 enter
@@ -55,7 +55,7 @@ three
 shed
 question
 duty |  
-| bip_39_word_new_line11 | aisle
+| bip_39_word_new_line_11 | aisle
 treat
 potato
 enter
@@ -66,7 +66,7 @@ shed
 question
 duty
 safe |  
-| bip_39_word_new_line12 | aisle
+| bip_39_word_new_line_12 | aisle
 treat
 potato
 enter
@@ -78,34 +78,34 @@ question
 duty
 safe
 alley |  
-| bip_39_word_new_line2 | aisle
+| bip_39_word_new_line_2 | aisle
 treat |  
-| bip_39_word_new_line3 | aisle
+| bip_39_word_new_line_3 | aisle
 treat
 potato |  
-| bip_39_word_new_line4 | aisle
+| bip_39_word_new_line_4 | aisle
 treat
 potato
 enter |  
-| bip_39_word_new_line5 | aisle
+| bip_39_word_new_line_5 | aisle
 treat
 potato
 enter
 this |  
-| bip_39_word_new_line6 | aisle
+| bip_39_word_new_line_6 | aisle
 treat
 potato
 enter
 this
 key |  
-| bip_39_word_new_line7 | aisle
+| bip_39_word_new_line_7 | aisle
 treat
 potato
 enter
 this
 key
 three |  
-| bip_39_word_new_line8 | aisle
+| bip_39_word_new_line_8 | aisle
 treat
 potato
 enter
@@ -113,7 +113,7 @@ this
 key
 three
 shed |  
-| bip_39_word_new_line9 | aisle
+| bip_39_word_new_line_9 | aisle
 treat
 potato
 enter

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | alien |  
-| bip_39_word_new_br10 | alien<br>maid<br>crunch<br>logic<br>crop<br>ivory<br>merge<br>ancient<br>attend<br>dice |  
-| bip_39_word_new_br11 | alien<br>maid<br>crunch<br>logic<br>crop<br>ivory<br>merge<br>ancient<br>attend<br>dice<br>gasp |  
-| bip_39_word_new_br12 | alien<br>maid<br>crunch<br>logic<br>crop<br>ivory<br>merge<br>ancient<br>attend<br>dice<br>gasp<br>attack |  
-| bip_39_word_new_br2 | alien<br>maid |  
-| bip_39_word_new_br3 | alien<br>maid<br>crunch |  
-| bip_39_word_new_br4 | alien<br>maid<br>crunch<br>logic |  
-| bip_39_word_new_br5 | alien<br>maid<br>crunch<br>logic<br>crop |  
-| bip_39_word_new_br6 | alien<br>maid<br>crunch<br>logic<br>crop<br>ivory |  
-| bip_39_word_new_br7 | alien<br>maid<br>crunch<br>logic<br>crop<br>ivory<br>merge |  
-| bip_39_word_new_br8 | alien<br>maid<br>crunch<br>logic<br>crop<br>ivory<br>merge<br>ancient |  
-| bip_39_word_new_br9 | alien<br>maid<br>crunch<br>logic<br>crop<br>ivory<br>merge<br>ancient<br>attend |  
-| bip_39_word_new_line1 | alien |  
-| bip_39_word_new_line10 | alien
+| bip_39_word_new_br_1 | alien |  
+| bip_39_word_new_br_10 | alien<br>maid<br>crunch<br>logic<br>crop<br>ivory<br>merge<br>ancient<br>attend<br>dice |  
+| bip_39_word_new_br_11 | alien<br>maid<br>crunch<br>logic<br>crop<br>ivory<br>merge<br>ancient<br>attend<br>dice<br>gasp |  
+| bip_39_word_new_br_12 | alien<br>maid<br>crunch<br>logic<br>crop<br>ivory<br>merge<br>ancient<br>attend<br>dice<br>gasp<br>attack |  
+| bip_39_word_new_br_2 | alien<br>maid |  
+| bip_39_word_new_br_3 | alien<br>maid<br>crunch |  
+| bip_39_word_new_br_4 | alien<br>maid<br>crunch<br>logic |  
+| bip_39_word_new_br_5 | alien<br>maid<br>crunch<br>logic<br>crop |  
+| bip_39_word_new_br_6 | alien<br>maid<br>crunch<br>logic<br>crop<br>ivory |  
+| bip_39_word_new_br_7 | alien<br>maid<br>crunch<br>logic<br>crop<br>ivory<br>merge |  
+| bip_39_word_new_br_8 | alien<br>maid<br>crunch<br>logic<br>crop<br>ivory<br>merge<br>ancient |  
+| bip_39_word_new_br_9 | alien<br>maid<br>crunch<br>logic<br>crop<br>ivory<br>merge<br>ancient<br>attend |  
+| bip_39_word_new_line_1 | alien |  
+| bip_39_word_new_line_10 | alien
 maid
 crunch
 logic
@@ -55,7 +55,7 @@ merge
 ancient
 attend
 dice |  
-| bip_39_word_new_line11 | alien
+| bip_39_word_new_line_11 | alien
 maid
 crunch
 logic
@@ -66,7 +66,7 @@ ancient
 attend
 dice
 gasp |  
-| bip_39_word_new_line12 | alien
+| bip_39_word_new_line_12 | alien
 maid
 crunch
 logic
@@ -78,34 +78,34 @@ attend
 dice
 gasp
 attack |  
-| bip_39_word_new_line2 | alien
+| bip_39_word_new_line_2 | alien
 maid |  
-| bip_39_word_new_line3 | alien
+| bip_39_word_new_line_3 | alien
 maid
 crunch |  
-| bip_39_word_new_line4 | alien
+| bip_39_word_new_line_4 | alien
 maid
 crunch
 logic |  
-| bip_39_word_new_line5 | alien
+| bip_39_word_new_line_5 | alien
 maid
 crunch
 logic
 crop |  
-| bip_39_word_new_line6 | alien
+| bip_39_word_new_line_6 | alien
 maid
 crunch
 logic
 crop
 ivory |  
-| bip_39_word_new_line7 | alien
+| bip_39_word_new_line_7 | alien
 maid
 crunch
 logic
 crop
 ivory
 merge |  
-| bip_39_word_new_line8 | alien
+| bip_39_word_new_line_8 | alien
 maid
 crunch
 logic
@@ -113,7 +113,7 @@ crop
 ivory
 merge
 ancient |  
-| bip_39_word_new_line9 | alien
+| bip_39_word_new_line_9 | alien
 maid
 crunch
 logic

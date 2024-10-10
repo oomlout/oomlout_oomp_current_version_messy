@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sand |  
-| bip_39_word_new_br10 | sand<br>uniform<br>foster<br>vault<br>loan<br>churn<br>axis<br>latin<br>mountain<br>possible |  
-| bip_39_word_new_br11 | sand<br>uniform<br>foster<br>vault<br>loan<br>churn<br>axis<br>latin<br>mountain<br>possible<br>radio |  
-| bip_39_word_new_br12 | sand<br>uniform<br>foster<br>vault<br>loan<br>churn<br>axis<br>latin<br>mountain<br>possible<br>radio<br>ask |  
-| bip_39_word_new_br2 | sand<br>uniform |  
-| bip_39_word_new_br3 | sand<br>uniform<br>foster |  
-| bip_39_word_new_br4 | sand<br>uniform<br>foster<br>vault |  
-| bip_39_word_new_br5 | sand<br>uniform<br>foster<br>vault<br>loan |  
-| bip_39_word_new_br6 | sand<br>uniform<br>foster<br>vault<br>loan<br>churn |  
-| bip_39_word_new_br7 | sand<br>uniform<br>foster<br>vault<br>loan<br>churn<br>axis |  
-| bip_39_word_new_br8 | sand<br>uniform<br>foster<br>vault<br>loan<br>churn<br>axis<br>latin |  
-| bip_39_word_new_br9 | sand<br>uniform<br>foster<br>vault<br>loan<br>churn<br>axis<br>latin<br>mountain |  
-| bip_39_word_new_line1 | sand |  
-| bip_39_word_new_line10 | sand
+| bip_39_word_new_br_1 | sand |  
+| bip_39_word_new_br_10 | sand<br>uniform<br>foster<br>vault<br>loan<br>churn<br>axis<br>latin<br>mountain<br>possible |  
+| bip_39_word_new_br_11 | sand<br>uniform<br>foster<br>vault<br>loan<br>churn<br>axis<br>latin<br>mountain<br>possible<br>radio |  
+| bip_39_word_new_br_12 | sand<br>uniform<br>foster<br>vault<br>loan<br>churn<br>axis<br>latin<br>mountain<br>possible<br>radio<br>ask |  
+| bip_39_word_new_br_2 | sand<br>uniform |  
+| bip_39_word_new_br_3 | sand<br>uniform<br>foster |  
+| bip_39_word_new_br_4 | sand<br>uniform<br>foster<br>vault |  
+| bip_39_word_new_br_5 | sand<br>uniform<br>foster<br>vault<br>loan |  
+| bip_39_word_new_br_6 | sand<br>uniform<br>foster<br>vault<br>loan<br>churn |  
+| bip_39_word_new_br_7 | sand<br>uniform<br>foster<br>vault<br>loan<br>churn<br>axis |  
+| bip_39_word_new_br_8 | sand<br>uniform<br>foster<br>vault<br>loan<br>churn<br>axis<br>latin |  
+| bip_39_word_new_br_9 | sand<br>uniform<br>foster<br>vault<br>loan<br>churn<br>axis<br>latin<br>mountain |  
+| bip_39_word_new_line_1 | sand |  
+| bip_39_word_new_line_10 | sand
 uniform
 foster
 vault
@@ -55,7 +55,7 @@ axis
 latin
 mountain
 possible |  
-| bip_39_word_new_line11 | sand
+| bip_39_word_new_line_11 | sand
 uniform
 foster
 vault
@@ -66,7 +66,7 @@ latin
 mountain
 possible
 radio |  
-| bip_39_word_new_line12 | sand
+| bip_39_word_new_line_12 | sand
 uniform
 foster
 vault
@@ -78,34 +78,34 @@ mountain
 possible
 radio
 ask |  
-| bip_39_word_new_line2 | sand
+| bip_39_word_new_line_2 | sand
 uniform |  
-| bip_39_word_new_line3 | sand
+| bip_39_word_new_line_3 | sand
 uniform
 foster |  
-| bip_39_word_new_line4 | sand
+| bip_39_word_new_line_4 | sand
 uniform
 foster
 vault |  
-| bip_39_word_new_line5 | sand
+| bip_39_word_new_line_5 | sand
 uniform
 foster
 vault
 loan |  
-| bip_39_word_new_line6 | sand
+| bip_39_word_new_line_6 | sand
 uniform
 foster
 vault
 loan
 churn |  
-| bip_39_word_new_line7 | sand
+| bip_39_word_new_line_7 | sand
 uniform
 foster
 vault
 loan
 churn
 axis |  
-| bip_39_word_new_line8 | sand
+| bip_39_word_new_line_8 | sand
 uniform
 foster
 vault
@@ -113,7 +113,7 @@ loan
 churn
 axis
 latin |  
-| bip_39_word_new_line9 | sand
+| bip_39_word_new_line_9 | sand
 uniform
 foster
 vault

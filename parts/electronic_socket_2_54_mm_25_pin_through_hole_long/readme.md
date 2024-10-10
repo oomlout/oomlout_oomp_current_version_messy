@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | only |  
-| bip_39_word_new_br10 | only<br>foil<br>safe<br>tobacco<br>walk<br>invest<br>pupil<br>filter<br>skill<br>glove |  
-| bip_39_word_new_br11 | only<br>foil<br>safe<br>tobacco<br>walk<br>invest<br>pupil<br>filter<br>skill<br>glove<br>census |  
-| bip_39_word_new_br12 | only<br>foil<br>safe<br>tobacco<br>walk<br>invest<br>pupil<br>filter<br>skill<br>glove<br>census<br>album |  
-| bip_39_word_new_br2 | only<br>foil |  
-| bip_39_word_new_br3 | only<br>foil<br>safe |  
-| bip_39_word_new_br4 | only<br>foil<br>safe<br>tobacco |  
-| bip_39_word_new_br5 | only<br>foil<br>safe<br>tobacco<br>walk |  
-| bip_39_word_new_br6 | only<br>foil<br>safe<br>tobacco<br>walk<br>invest |  
-| bip_39_word_new_br7 | only<br>foil<br>safe<br>tobacco<br>walk<br>invest<br>pupil |  
-| bip_39_word_new_br8 | only<br>foil<br>safe<br>tobacco<br>walk<br>invest<br>pupil<br>filter |  
-| bip_39_word_new_br9 | only<br>foil<br>safe<br>tobacco<br>walk<br>invest<br>pupil<br>filter<br>skill |  
-| bip_39_word_new_line1 | only |  
-| bip_39_word_new_line10 | only
+| bip_39_word_new_br_1 | only |  
+| bip_39_word_new_br_10 | only<br>foil<br>safe<br>tobacco<br>walk<br>invest<br>pupil<br>filter<br>skill<br>glove |  
+| bip_39_word_new_br_11 | only<br>foil<br>safe<br>tobacco<br>walk<br>invest<br>pupil<br>filter<br>skill<br>glove<br>census |  
+| bip_39_word_new_br_12 | only<br>foil<br>safe<br>tobacco<br>walk<br>invest<br>pupil<br>filter<br>skill<br>glove<br>census<br>album |  
+| bip_39_word_new_br_2 | only<br>foil |  
+| bip_39_word_new_br_3 | only<br>foil<br>safe |  
+| bip_39_word_new_br_4 | only<br>foil<br>safe<br>tobacco |  
+| bip_39_word_new_br_5 | only<br>foil<br>safe<br>tobacco<br>walk |  
+| bip_39_word_new_br_6 | only<br>foil<br>safe<br>tobacco<br>walk<br>invest |  
+| bip_39_word_new_br_7 | only<br>foil<br>safe<br>tobacco<br>walk<br>invest<br>pupil |  
+| bip_39_word_new_br_8 | only<br>foil<br>safe<br>tobacco<br>walk<br>invest<br>pupil<br>filter |  
+| bip_39_word_new_br_9 | only<br>foil<br>safe<br>tobacco<br>walk<br>invest<br>pupil<br>filter<br>skill |  
+| bip_39_word_new_line_1 | only |  
+| bip_39_word_new_line_10 | only
 foil
 safe
 tobacco
@@ -55,7 +55,7 @@ pupil
 filter
 skill
 glove |  
-| bip_39_word_new_line11 | only
+| bip_39_word_new_line_11 | only
 foil
 safe
 tobacco
@@ -66,7 +66,7 @@ filter
 skill
 glove
 census |  
-| bip_39_word_new_line12 | only
+| bip_39_word_new_line_12 | only
 foil
 safe
 tobacco
@@ -78,34 +78,34 @@ skill
 glove
 census
 album |  
-| bip_39_word_new_line2 | only
+| bip_39_word_new_line_2 | only
 foil |  
-| bip_39_word_new_line3 | only
+| bip_39_word_new_line_3 | only
 foil
 safe |  
-| bip_39_word_new_line4 | only
+| bip_39_word_new_line_4 | only
 foil
 safe
 tobacco |  
-| bip_39_word_new_line5 | only
+| bip_39_word_new_line_5 | only
 foil
 safe
 tobacco
 walk |  
-| bip_39_word_new_line6 | only
+| bip_39_word_new_line_6 | only
 foil
 safe
 tobacco
 walk
 invest |  
-| bip_39_word_new_line7 | only
+| bip_39_word_new_line_7 | only
 foil
 safe
 tobacco
 walk
 invest
 pupil |  
-| bip_39_word_new_line8 | only
+| bip_39_word_new_line_8 | only
 foil
 safe
 tobacco
@@ -113,7 +113,7 @@ walk
 invest
 pupil
 filter |  
-| bip_39_word_new_line9 | only
+| bip_39_word_new_line_9 | only
 foil
 safe
 tobacco

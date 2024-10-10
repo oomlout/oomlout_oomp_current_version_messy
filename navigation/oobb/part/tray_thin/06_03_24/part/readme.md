@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | soccer |  
-| bip_39_word_new_br10 | soccer<br>laptop<br>tennis<br>cream<br>gaze<br>pattern<br>because<br>enact<br>foster<br>cool |  
-| bip_39_word_new_br11 | soccer<br>laptop<br>tennis<br>cream<br>gaze<br>pattern<br>because<br>enact<br>foster<br>cool<br>burden |  
-| bip_39_word_new_br12 | soccer<br>laptop<br>tennis<br>cream<br>gaze<br>pattern<br>because<br>enact<br>foster<br>cool<br>burden<br>angle |  
-| bip_39_word_new_br2 | soccer<br>laptop |  
-| bip_39_word_new_br3 | soccer<br>laptop<br>tennis |  
-| bip_39_word_new_br4 | soccer<br>laptop<br>tennis<br>cream |  
-| bip_39_word_new_br5 | soccer<br>laptop<br>tennis<br>cream<br>gaze |  
-| bip_39_word_new_br6 | soccer<br>laptop<br>tennis<br>cream<br>gaze<br>pattern |  
-| bip_39_word_new_br7 | soccer<br>laptop<br>tennis<br>cream<br>gaze<br>pattern<br>because |  
-| bip_39_word_new_br8 | soccer<br>laptop<br>tennis<br>cream<br>gaze<br>pattern<br>because<br>enact |  
-| bip_39_word_new_br9 | soccer<br>laptop<br>tennis<br>cream<br>gaze<br>pattern<br>because<br>enact<br>foster |  
-| bip_39_word_new_line1 | soccer |  
-| bip_39_word_new_line10 | soccer
+| bip_39_word_new_br_1 | soccer |  
+| bip_39_word_new_br_10 | soccer<br>laptop<br>tennis<br>cream<br>gaze<br>pattern<br>because<br>enact<br>foster<br>cool |  
+| bip_39_word_new_br_11 | soccer<br>laptop<br>tennis<br>cream<br>gaze<br>pattern<br>because<br>enact<br>foster<br>cool<br>burden |  
+| bip_39_word_new_br_12 | soccer<br>laptop<br>tennis<br>cream<br>gaze<br>pattern<br>because<br>enact<br>foster<br>cool<br>burden<br>angle |  
+| bip_39_word_new_br_2 | soccer<br>laptop |  
+| bip_39_word_new_br_3 | soccer<br>laptop<br>tennis |  
+| bip_39_word_new_br_4 | soccer<br>laptop<br>tennis<br>cream |  
+| bip_39_word_new_br_5 | soccer<br>laptop<br>tennis<br>cream<br>gaze |  
+| bip_39_word_new_br_6 | soccer<br>laptop<br>tennis<br>cream<br>gaze<br>pattern |  
+| bip_39_word_new_br_7 | soccer<br>laptop<br>tennis<br>cream<br>gaze<br>pattern<br>because |  
+| bip_39_word_new_br_8 | soccer<br>laptop<br>tennis<br>cream<br>gaze<br>pattern<br>because<br>enact |  
+| bip_39_word_new_br_9 | soccer<br>laptop<br>tennis<br>cream<br>gaze<br>pattern<br>because<br>enact<br>foster |  
+| bip_39_word_new_line_1 | soccer |  
+| bip_39_word_new_line_10 | soccer
 laptop
 tennis
 cream
@@ -55,7 +55,7 @@ because
 enact
 foster
 cool |  
-| bip_39_word_new_line11 | soccer
+| bip_39_word_new_line_11 | soccer
 laptop
 tennis
 cream
@@ -66,7 +66,7 @@ enact
 foster
 cool
 burden |  
-| bip_39_word_new_line12 | soccer
+| bip_39_word_new_line_12 | soccer
 laptop
 tennis
 cream
@@ -78,34 +78,34 @@ foster
 cool
 burden
 angle |  
-| bip_39_word_new_line2 | soccer
+| bip_39_word_new_line_2 | soccer
 laptop |  
-| bip_39_word_new_line3 | soccer
+| bip_39_word_new_line_3 | soccer
 laptop
 tennis |  
-| bip_39_word_new_line4 | soccer
+| bip_39_word_new_line_4 | soccer
 laptop
 tennis
 cream |  
-| bip_39_word_new_line5 | soccer
+| bip_39_word_new_line_5 | soccer
 laptop
 tennis
 cream
 gaze |  
-| bip_39_word_new_line6 | soccer
+| bip_39_word_new_line_6 | soccer
 laptop
 tennis
 cream
 gaze
 pattern |  
-| bip_39_word_new_line7 | soccer
+| bip_39_word_new_line_7 | soccer
 laptop
 tennis
 cream
 gaze
 pattern
 because |  
-| bip_39_word_new_line8 | soccer
+| bip_39_word_new_line_8 | soccer
 laptop
 tennis
 cream
@@ -113,7 +113,7 @@ gaze
 pattern
 because
 enact |  
-| bip_39_word_new_line9 | soccer
+| bip_39_word_new_line_9 | soccer
 laptop
 tennis
 cream

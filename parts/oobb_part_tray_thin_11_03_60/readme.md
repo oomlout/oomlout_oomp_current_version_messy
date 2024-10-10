@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | width |  
-| bip_39_word_new_br10 | width<br>squeeze<br>lock<br>duty<br>slice<br>girl<br>share<br>repeat<br>century<br>kidney |  
-| bip_39_word_new_br11 | width<br>squeeze<br>lock<br>duty<br>slice<br>girl<br>share<br>repeat<br>century<br>kidney<br>voice |  
-| bip_39_word_new_br12 | width<br>squeeze<br>lock<br>duty<br>slice<br>girl<br>share<br>repeat<br>century<br>kidney<br>voice<br>alley |  
-| bip_39_word_new_br2 | width<br>squeeze |  
-| bip_39_word_new_br3 | width<br>squeeze<br>lock |  
-| bip_39_word_new_br4 | width<br>squeeze<br>lock<br>duty |  
-| bip_39_word_new_br5 | width<br>squeeze<br>lock<br>duty<br>slice |  
-| bip_39_word_new_br6 | width<br>squeeze<br>lock<br>duty<br>slice<br>girl |  
-| bip_39_word_new_br7 | width<br>squeeze<br>lock<br>duty<br>slice<br>girl<br>share |  
-| bip_39_word_new_br8 | width<br>squeeze<br>lock<br>duty<br>slice<br>girl<br>share<br>repeat |  
-| bip_39_word_new_br9 | width<br>squeeze<br>lock<br>duty<br>slice<br>girl<br>share<br>repeat<br>century |  
-| bip_39_word_new_line1 | width |  
-| bip_39_word_new_line10 | width
+| bip_39_word_new_br_1 | width |  
+| bip_39_word_new_br_10 | width<br>squeeze<br>lock<br>duty<br>slice<br>girl<br>share<br>repeat<br>century<br>kidney |  
+| bip_39_word_new_br_11 | width<br>squeeze<br>lock<br>duty<br>slice<br>girl<br>share<br>repeat<br>century<br>kidney<br>voice |  
+| bip_39_word_new_br_12 | width<br>squeeze<br>lock<br>duty<br>slice<br>girl<br>share<br>repeat<br>century<br>kidney<br>voice<br>alley |  
+| bip_39_word_new_br_2 | width<br>squeeze |  
+| bip_39_word_new_br_3 | width<br>squeeze<br>lock |  
+| bip_39_word_new_br_4 | width<br>squeeze<br>lock<br>duty |  
+| bip_39_word_new_br_5 | width<br>squeeze<br>lock<br>duty<br>slice |  
+| bip_39_word_new_br_6 | width<br>squeeze<br>lock<br>duty<br>slice<br>girl |  
+| bip_39_word_new_br_7 | width<br>squeeze<br>lock<br>duty<br>slice<br>girl<br>share |  
+| bip_39_word_new_br_8 | width<br>squeeze<br>lock<br>duty<br>slice<br>girl<br>share<br>repeat |  
+| bip_39_word_new_br_9 | width<br>squeeze<br>lock<br>duty<br>slice<br>girl<br>share<br>repeat<br>century |  
+| bip_39_word_new_line_1 | width |  
+| bip_39_word_new_line_10 | width
 squeeze
 lock
 duty
@@ -55,7 +55,7 @@ share
 repeat
 century
 kidney |  
-| bip_39_word_new_line11 | width
+| bip_39_word_new_line_11 | width
 squeeze
 lock
 duty
@@ -66,7 +66,7 @@ repeat
 century
 kidney
 voice |  
-| bip_39_word_new_line12 | width
+| bip_39_word_new_line_12 | width
 squeeze
 lock
 duty
@@ -78,34 +78,34 @@ century
 kidney
 voice
 alley |  
-| bip_39_word_new_line2 | width
+| bip_39_word_new_line_2 | width
 squeeze |  
-| bip_39_word_new_line3 | width
+| bip_39_word_new_line_3 | width
 squeeze
 lock |  
-| bip_39_word_new_line4 | width
+| bip_39_word_new_line_4 | width
 squeeze
 lock
 duty |  
-| bip_39_word_new_line5 | width
+| bip_39_word_new_line_5 | width
 squeeze
 lock
 duty
 slice |  
-| bip_39_word_new_line6 | width
+| bip_39_word_new_line_6 | width
 squeeze
 lock
 duty
 slice
 girl |  
-| bip_39_word_new_line7 | width
+| bip_39_word_new_line_7 | width
 squeeze
 lock
 duty
 slice
 girl
 share |  
-| bip_39_word_new_line8 | width
+| bip_39_word_new_line_8 | width
 squeeze
 lock
 duty
@@ -113,7 +113,7 @@ slice
 girl
 share
 repeat |  
-| bip_39_word_new_line9 | width
+| bip_39_word_new_line_9 | width
 squeeze
 lock
 duty

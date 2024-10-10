@@ -1,17 +1,17 @@
-bip_39_word_new_br1: once
-bip_39_word_new_br10: once<br>purity<br>frown<br>celery<br>connect<br>finish<br>gravity<br>finish<br>leave<br>head
-bip_39_word_new_br11: once<br>purity<br>frown<br>celery<br>connect<br>finish<br>gravity<br>finish<br>leave<br>head<br>direct
-bip_39_word_new_br12: once<br>purity<br>frown<br>celery<br>connect<br>finish<br>gravity<br>finish<br>leave<br>head<br>direct<br>about
-bip_39_word_new_br2: once<br>purity
-bip_39_word_new_br3: once<br>purity<br>frown
-bip_39_word_new_br4: once<br>purity<br>frown<br>celery
-bip_39_word_new_br5: once<br>purity<br>frown<br>celery<br>connect
-bip_39_word_new_br6: once<br>purity<br>frown<br>celery<br>connect<br>finish
-bip_39_word_new_br7: once<br>purity<br>frown<br>celery<br>connect<br>finish<br>gravity
-bip_39_word_new_br8: once<br>purity<br>frown<br>celery<br>connect<br>finish<br>gravity<br>finish
-bip_39_word_new_br9: once<br>purity<br>frown<br>celery<br>connect<br>finish<br>gravity<br>finish<br>leave
-bip_39_word_new_line1: once
-bip_39_word_new_line10: 'once
+bip_39_word_new_br_1: once
+bip_39_word_new_br_10: once<br>purity<br>frown<br>celery<br>connect<br>finish<br>gravity<br>finish<br>leave<br>head
+bip_39_word_new_br_11: once<br>purity<br>frown<br>celery<br>connect<br>finish<br>gravity<br>finish<br>leave<br>head<br>direct
+bip_39_word_new_br_12: once<br>purity<br>frown<br>celery<br>connect<br>finish<br>gravity<br>finish<br>leave<br>head<br>direct<br>about
+bip_39_word_new_br_2: once<br>purity
+bip_39_word_new_br_3: once<br>purity<br>frown
+bip_39_word_new_br_4: once<br>purity<br>frown<br>celery
+bip_39_word_new_br_5: once<br>purity<br>frown<br>celery<br>connect
+bip_39_word_new_br_6: once<br>purity<br>frown<br>celery<br>connect<br>finish
+bip_39_word_new_br_7: once<br>purity<br>frown<br>celery<br>connect<br>finish<br>gravity
+bip_39_word_new_br_8: once<br>purity<br>frown<br>celery<br>connect<br>finish<br>gravity<br>finish
+bip_39_word_new_br_9: once<br>purity<br>frown<br>celery<br>connect<br>finish<br>gravity<br>finish<br>leave
+bip_39_word_new_line_1: once
+bip_39_word_new_line_10: 'once
 
   purity
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'once
   leave
 
   head'
-bip_39_word_new_line11: 'once
+bip_39_word_new_line_11: 'once
 
   purity
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'once
   head
 
   direct'
-bip_39_word_new_line12: 'once
+bip_39_word_new_line_12: 'once
 
   purity
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'once
   direct
 
   about'
-bip_39_word_new_line2: 'once
+bip_39_word_new_line_2: 'once
 
   purity'
-bip_39_word_new_line3: 'once
+bip_39_word_new_line_3: 'once
 
   purity
 
   frown'
-bip_39_word_new_line4: 'once
+bip_39_word_new_line_4: 'once
 
   purity
 
   frown
 
   celery'
-bip_39_word_new_line5: 'once
+bip_39_word_new_line_5: 'once
 
   purity
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'once
   celery
 
   connect'
-bip_39_word_new_line6: 'once
+bip_39_word_new_line_6: 'once
 
   purity
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'once
   connect
 
   finish'
-bip_39_word_new_line7: 'once
+bip_39_word_new_line_7: 'once
 
   purity
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'once
   finish
 
   gravity'
-bip_39_word_new_line8: 'once
+bip_39_word_new_line_8: 'once
 
   purity
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'once
   gravity
 
   finish'
-bip_39_word_new_line9: 'once
+bip_39_word_new_line_9: 'once
 
   purity
 

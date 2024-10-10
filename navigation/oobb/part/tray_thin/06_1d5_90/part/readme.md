@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | omit |  
-| bip_39_word_new_br10 | omit<br>gentle<br>between<br>guess<br>tank<br>floor<br>country<br>dust<br>great<br>bonus |  
-| bip_39_word_new_br11 | omit<br>gentle<br>between<br>guess<br>tank<br>floor<br>country<br>dust<br>great<br>bonus<br>zone |  
-| bip_39_word_new_br12 | omit<br>gentle<br>between<br>guess<br>tank<br>floor<br>country<br>dust<br>great<br>bonus<br>zone<br>absent |  
-| bip_39_word_new_br2 | omit<br>gentle |  
-| bip_39_word_new_br3 | omit<br>gentle<br>between |  
-| bip_39_word_new_br4 | omit<br>gentle<br>between<br>guess |  
-| bip_39_word_new_br5 | omit<br>gentle<br>between<br>guess<br>tank |  
-| bip_39_word_new_br6 | omit<br>gentle<br>between<br>guess<br>tank<br>floor |  
-| bip_39_word_new_br7 | omit<br>gentle<br>between<br>guess<br>tank<br>floor<br>country |  
-| bip_39_word_new_br8 | omit<br>gentle<br>between<br>guess<br>tank<br>floor<br>country<br>dust |  
-| bip_39_word_new_br9 | omit<br>gentle<br>between<br>guess<br>tank<br>floor<br>country<br>dust<br>great |  
-| bip_39_word_new_line1 | omit |  
-| bip_39_word_new_line10 | omit
+| bip_39_word_new_br_1 | omit |  
+| bip_39_word_new_br_10 | omit<br>gentle<br>between<br>guess<br>tank<br>floor<br>country<br>dust<br>great<br>bonus |  
+| bip_39_word_new_br_11 | omit<br>gentle<br>between<br>guess<br>tank<br>floor<br>country<br>dust<br>great<br>bonus<br>zone |  
+| bip_39_word_new_br_12 | omit<br>gentle<br>between<br>guess<br>tank<br>floor<br>country<br>dust<br>great<br>bonus<br>zone<br>absent |  
+| bip_39_word_new_br_2 | omit<br>gentle |  
+| bip_39_word_new_br_3 | omit<br>gentle<br>between |  
+| bip_39_word_new_br_4 | omit<br>gentle<br>between<br>guess |  
+| bip_39_word_new_br_5 | omit<br>gentle<br>between<br>guess<br>tank |  
+| bip_39_word_new_br_6 | omit<br>gentle<br>between<br>guess<br>tank<br>floor |  
+| bip_39_word_new_br_7 | omit<br>gentle<br>between<br>guess<br>tank<br>floor<br>country |  
+| bip_39_word_new_br_8 | omit<br>gentle<br>between<br>guess<br>tank<br>floor<br>country<br>dust |  
+| bip_39_word_new_br_9 | omit<br>gentle<br>between<br>guess<br>tank<br>floor<br>country<br>dust<br>great |  
+| bip_39_word_new_line_1 | omit |  
+| bip_39_word_new_line_10 | omit
 gentle
 between
 guess
@@ -55,7 +55,7 @@ country
 dust
 great
 bonus |  
-| bip_39_word_new_line11 | omit
+| bip_39_word_new_line_11 | omit
 gentle
 between
 guess
@@ -66,7 +66,7 @@ dust
 great
 bonus
 zone |  
-| bip_39_word_new_line12 | omit
+| bip_39_word_new_line_12 | omit
 gentle
 between
 guess
@@ -78,34 +78,34 @@ great
 bonus
 zone
 absent |  
-| bip_39_word_new_line2 | omit
+| bip_39_word_new_line_2 | omit
 gentle |  
-| bip_39_word_new_line3 | omit
+| bip_39_word_new_line_3 | omit
 gentle
 between |  
-| bip_39_word_new_line4 | omit
+| bip_39_word_new_line_4 | omit
 gentle
 between
 guess |  
-| bip_39_word_new_line5 | omit
+| bip_39_word_new_line_5 | omit
 gentle
 between
 guess
 tank |  
-| bip_39_word_new_line6 | omit
+| bip_39_word_new_line_6 | omit
 gentle
 between
 guess
 tank
 floor |  
-| bip_39_word_new_line7 | omit
+| bip_39_word_new_line_7 | omit
 gentle
 between
 guess
 tank
 floor
 country |  
-| bip_39_word_new_line8 | omit
+| bip_39_word_new_line_8 | omit
 gentle
 between
 guess
@@ -113,7 +113,7 @@ tank
 floor
 country
 dust |  
-| bip_39_word_new_line9 | omit
+| bip_39_word_new_line_9 | omit
 gentle
 between
 guess

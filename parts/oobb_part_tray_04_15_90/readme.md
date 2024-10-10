@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sick |  
-| bip_39_word_new_br10 | sick<br>defense<br>daring<br>web<br>access<br>reopen<br>dice<br>buyer<br>action<br>impulse |  
-| bip_39_word_new_br11 | sick<br>defense<br>daring<br>web<br>access<br>reopen<br>dice<br>buyer<br>action<br>impulse<br>story |  
-| bip_39_word_new_br12 | sick<br>defense<br>daring<br>web<br>access<br>reopen<br>dice<br>buyer<br>action<br>impulse<br>story<br>alone |  
-| bip_39_word_new_br2 | sick<br>defense |  
-| bip_39_word_new_br3 | sick<br>defense<br>daring |  
-| bip_39_word_new_br4 | sick<br>defense<br>daring<br>web |  
-| bip_39_word_new_br5 | sick<br>defense<br>daring<br>web<br>access |  
-| bip_39_word_new_br6 | sick<br>defense<br>daring<br>web<br>access<br>reopen |  
-| bip_39_word_new_br7 | sick<br>defense<br>daring<br>web<br>access<br>reopen<br>dice |  
-| bip_39_word_new_br8 | sick<br>defense<br>daring<br>web<br>access<br>reopen<br>dice<br>buyer |  
-| bip_39_word_new_br9 | sick<br>defense<br>daring<br>web<br>access<br>reopen<br>dice<br>buyer<br>action |  
-| bip_39_word_new_line1 | sick |  
-| bip_39_word_new_line10 | sick
+| bip_39_word_new_br_1 | sick |  
+| bip_39_word_new_br_10 | sick<br>defense<br>daring<br>web<br>access<br>reopen<br>dice<br>buyer<br>action<br>impulse |  
+| bip_39_word_new_br_11 | sick<br>defense<br>daring<br>web<br>access<br>reopen<br>dice<br>buyer<br>action<br>impulse<br>story |  
+| bip_39_word_new_br_12 | sick<br>defense<br>daring<br>web<br>access<br>reopen<br>dice<br>buyer<br>action<br>impulse<br>story<br>alone |  
+| bip_39_word_new_br_2 | sick<br>defense |  
+| bip_39_word_new_br_3 | sick<br>defense<br>daring |  
+| bip_39_word_new_br_4 | sick<br>defense<br>daring<br>web |  
+| bip_39_word_new_br_5 | sick<br>defense<br>daring<br>web<br>access |  
+| bip_39_word_new_br_6 | sick<br>defense<br>daring<br>web<br>access<br>reopen |  
+| bip_39_word_new_br_7 | sick<br>defense<br>daring<br>web<br>access<br>reopen<br>dice |  
+| bip_39_word_new_br_8 | sick<br>defense<br>daring<br>web<br>access<br>reopen<br>dice<br>buyer |  
+| bip_39_word_new_br_9 | sick<br>defense<br>daring<br>web<br>access<br>reopen<br>dice<br>buyer<br>action |  
+| bip_39_word_new_line_1 | sick |  
+| bip_39_word_new_line_10 | sick
 defense
 daring
 web
@@ -55,7 +55,7 @@ dice
 buyer
 action
 impulse |  
-| bip_39_word_new_line11 | sick
+| bip_39_word_new_line_11 | sick
 defense
 daring
 web
@@ -66,7 +66,7 @@ buyer
 action
 impulse
 story |  
-| bip_39_word_new_line12 | sick
+| bip_39_word_new_line_12 | sick
 defense
 daring
 web
@@ -78,34 +78,34 @@ action
 impulse
 story
 alone |  
-| bip_39_word_new_line2 | sick
+| bip_39_word_new_line_2 | sick
 defense |  
-| bip_39_word_new_line3 | sick
+| bip_39_word_new_line_3 | sick
 defense
 daring |  
-| bip_39_word_new_line4 | sick
+| bip_39_word_new_line_4 | sick
 defense
 daring
 web |  
-| bip_39_word_new_line5 | sick
+| bip_39_word_new_line_5 | sick
 defense
 daring
 web
 access |  
-| bip_39_word_new_line6 | sick
+| bip_39_word_new_line_6 | sick
 defense
 daring
 web
 access
 reopen |  
-| bip_39_word_new_line7 | sick
+| bip_39_word_new_line_7 | sick
 defense
 daring
 web
 access
 reopen
 dice |  
-| bip_39_word_new_line8 | sick
+| bip_39_word_new_line_8 | sick
 defense
 daring
 web
@@ -113,7 +113,7 @@ access
 reopen
 dice
 buyer |  
-| bip_39_word_new_line9 | sick
+| bip_39_word_new_line_9 | sick
 defense
 daring
 web

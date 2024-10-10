@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | axis |  
-| bip_39_word_new_br10 | axis<br>soldier<br>sword<br>morning<br>toast<br>actor<br>wolf<br>stairs<br>text<br>access |  
-| bip_39_word_new_br11 | axis<br>soldier<br>sword<br>morning<br>toast<br>actor<br>wolf<br>stairs<br>text<br>access<br>rude |  
-| bip_39_word_new_br12 | axis<br>soldier<br>sword<br>morning<br>toast<br>actor<br>wolf<br>stairs<br>text<br>access<br>rude<br>any |  
-| bip_39_word_new_br2 | axis<br>soldier |  
-| bip_39_word_new_br3 | axis<br>soldier<br>sword |  
-| bip_39_word_new_br4 | axis<br>soldier<br>sword<br>morning |  
-| bip_39_word_new_br5 | axis<br>soldier<br>sword<br>morning<br>toast |  
-| bip_39_word_new_br6 | axis<br>soldier<br>sword<br>morning<br>toast<br>actor |  
-| bip_39_word_new_br7 | axis<br>soldier<br>sword<br>morning<br>toast<br>actor<br>wolf |  
-| bip_39_word_new_br8 | axis<br>soldier<br>sword<br>morning<br>toast<br>actor<br>wolf<br>stairs |  
-| bip_39_word_new_br9 | axis<br>soldier<br>sword<br>morning<br>toast<br>actor<br>wolf<br>stairs<br>text |  
-| bip_39_word_new_line1 | axis |  
-| bip_39_word_new_line10 | axis
+| bip_39_word_new_br_1 | axis |  
+| bip_39_word_new_br_10 | axis<br>soldier<br>sword<br>morning<br>toast<br>actor<br>wolf<br>stairs<br>text<br>access |  
+| bip_39_word_new_br_11 | axis<br>soldier<br>sword<br>morning<br>toast<br>actor<br>wolf<br>stairs<br>text<br>access<br>rude |  
+| bip_39_word_new_br_12 | axis<br>soldier<br>sword<br>morning<br>toast<br>actor<br>wolf<br>stairs<br>text<br>access<br>rude<br>any |  
+| bip_39_word_new_br_2 | axis<br>soldier |  
+| bip_39_word_new_br_3 | axis<br>soldier<br>sword |  
+| bip_39_word_new_br_4 | axis<br>soldier<br>sword<br>morning |  
+| bip_39_word_new_br_5 | axis<br>soldier<br>sword<br>morning<br>toast |  
+| bip_39_word_new_br_6 | axis<br>soldier<br>sword<br>morning<br>toast<br>actor |  
+| bip_39_word_new_br_7 | axis<br>soldier<br>sword<br>morning<br>toast<br>actor<br>wolf |  
+| bip_39_word_new_br_8 | axis<br>soldier<br>sword<br>morning<br>toast<br>actor<br>wolf<br>stairs |  
+| bip_39_word_new_br_9 | axis<br>soldier<br>sword<br>morning<br>toast<br>actor<br>wolf<br>stairs<br>text |  
+| bip_39_word_new_line_1 | axis |  
+| bip_39_word_new_line_10 | axis
 soldier
 sword
 morning
@@ -55,7 +55,7 @@ wolf
 stairs
 text
 access |  
-| bip_39_word_new_line11 | axis
+| bip_39_word_new_line_11 | axis
 soldier
 sword
 morning
@@ -66,7 +66,7 @@ stairs
 text
 access
 rude |  
-| bip_39_word_new_line12 | axis
+| bip_39_word_new_line_12 | axis
 soldier
 sword
 morning
@@ -78,34 +78,34 @@ text
 access
 rude
 any |  
-| bip_39_word_new_line2 | axis
+| bip_39_word_new_line_2 | axis
 soldier |  
-| bip_39_word_new_line3 | axis
+| bip_39_word_new_line_3 | axis
 soldier
 sword |  
-| bip_39_word_new_line4 | axis
+| bip_39_word_new_line_4 | axis
 soldier
 sword
 morning |  
-| bip_39_word_new_line5 | axis
+| bip_39_word_new_line_5 | axis
 soldier
 sword
 morning
 toast |  
-| bip_39_word_new_line6 | axis
+| bip_39_word_new_line_6 | axis
 soldier
 sword
 morning
 toast
 actor |  
-| bip_39_word_new_line7 | axis
+| bip_39_word_new_line_7 | axis
 soldier
 sword
 morning
 toast
 actor
 wolf |  
-| bip_39_word_new_line8 | axis
+| bip_39_word_new_line_8 | axis
 soldier
 sword
 morning
@@ -113,7 +113,7 @@ toast
 actor
 wolf
 stairs |  
-| bip_39_word_new_line9 | axis
+| bip_39_word_new_line_9 | axis
 soldier
 sword
 morning

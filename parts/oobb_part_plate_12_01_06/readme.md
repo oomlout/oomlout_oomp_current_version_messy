@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | afford |  
-| bip_39_word_new_br10 | afford<br>lion<br>risk<br>bitter<br>rally<br>evoke<br>pig<br>leader<br>staff<br>ship |  
-| bip_39_word_new_br11 | afford<br>lion<br>risk<br>bitter<br>rally<br>evoke<br>pig<br>leader<br>staff<br>ship<br>suit |  
-| bip_39_word_new_br12 | afford<br>lion<br>risk<br>bitter<br>rally<br>evoke<br>pig<br>leader<br>staff<br>ship<br>suit<br>amused |  
-| bip_39_word_new_br2 | afford<br>lion |  
-| bip_39_word_new_br3 | afford<br>lion<br>risk |  
-| bip_39_word_new_br4 | afford<br>lion<br>risk<br>bitter |  
-| bip_39_word_new_br5 | afford<br>lion<br>risk<br>bitter<br>rally |  
-| bip_39_word_new_br6 | afford<br>lion<br>risk<br>bitter<br>rally<br>evoke |  
-| bip_39_word_new_br7 | afford<br>lion<br>risk<br>bitter<br>rally<br>evoke<br>pig |  
-| bip_39_word_new_br8 | afford<br>lion<br>risk<br>bitter<br>rally<br>evoke<br>pig<br>leader |  
-| bip_39_word_new_br9 | afford<br>lion<br>risk<br>bitter<br>rally<br>evoke<br>pig<br>leader<br>staff |  
-| bip_39_word_new_line1 | afford |  
-| bip_39_word_new_line10 | afford
+| bip_39_word_new_br_1 | afford |  
+| bip_39_word_new_br_10 | afford<br>lion<br>risk<br>bitter<br>rally<br>evoke<br>pig<br>leader<br>staff<br>ship |  
+| bip_39_word_new_br_11 | afford<br>lion<br>risk<br>bitter<br>rally<br>evoke<br>pig<br>leader<br>staff<br>ship<br>suit |  
+| bip_39_word_new_br_12 | afford<br>lion<br>risk<br>bitter<br>rally<br>evoke<br>pig<br>leader<br>staff<br>ship<br>suit<br>amused |  
+| bip_39_word_new_br_2 | afford<br>lion |  
+| bip_39_word_new_br_3 | afford<br>lion<br>risk |  
+| bip_39_word_new_br_4 | afford<br>lion<br>risk<br>bitter |  
+| bip_39_word_new_br_5 | afford<br>lion<br>risk<br>bitter<br>rally |  
+| bip_39_word_new_br_6 | afford<br>lion<br>risk<br>bitter<br>rally<br>evoke |  
+| bip_39_word_new_br_7 | afford<br>lion<br>risk<br>bitter<br>rally<br>evoke<br>pig |  
+| bip_39_word_new_br_8 | afford<br>lion<br>risk<br>bitter<br>rally<br>evoke<br>pig<br>leader |  
+| bip_39_word_new_br_9 | afford<br>lion<br>risk<br>bitter<br>rally<br>evoke<br>pig<br>leader<br>staff |  
+| bip_39_word_new_line_1 | afford |  
+| bip_39_word_new_line_10 | afford
 lion
 risk
 bitter
@@ -55,7 +55,7 @@ pig
 leader
 staff
 ship |  
-| bip_39_word_new_line11 | afford
+| bip_39_word_new_line_11 | afford
 lion
 risk
 bitter
@@ -66,7 +66,7 @@ leader
 staff
 ship
 suit |  
-| bip_39_word_new_line12 | afford
+| bip_39_word_new_line_12 | afford
 lion
 risk
 bitter
@@ -78,34 +78,34 @@ staff
 ship
 suit
 amused |  
-| bip_39_word_new_line2 | afford
+| bip_39_word_new_line_2 | afford
 lion |  
-| bip_39_word_new_line3 | afford
+| bip_39_word_new_line_3 | afford
 lion
 risk |  
-| bip_39_word_new_line4 | afford
+| bip_39_word_new_line_4 | afford
 lion
 risk
 bitter |  
-| bip_39_word_new_line5 | afford
+| bip_39_word_new_line_5 | afford
 lion
 risk
 bitter
 rally |  
-| bip_39_word_new_line6 | afford
+| bip_39_word_new_line_6 | afford
 lion
 risk
 bitter
 rally
 evoke |  
-| bip_39_word_new_line7 | afford
+| bip_39_word_new_line_7 | afford
 lion
 risk
 bitter
 rally
 evoke
 pig |  
-| bip_39_word_new_line8 | afford
+| bip_39_word_new_line_8 | afford
 lion
 risk
 bitter
@@ -113,7 +113,7 @@ rally
 evoke
 pig
 leader |  
-| bip_39_word_new_line9 | afford
+| bip_39_word_new_line_9 | afford
 lion
 risk
 bitter

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fan |  
-| bip_39_word_new_br10 | fan<br>armor<br>success<br>man<br>fame<br>know<br>gather<br>ten<br>horror<br>mind |  
-| bip_39_word_new_br11 | fan<br>armor<br>success<br>man<br>fame<br>know<br>gather<br>ten<br>horror<br>mind<br>bind |  
-| bip_39_word_new_br12 | fan<br>armor<br>success<br>man<br>fame<br>know<br>gather<br>ten<br>horror<br>mind<br>bind<br>alpha |  
-| bip_39_word_new_br2 | fan<br>armor |  
-| bip_39_word_new_br3 | fan<br>armor<br>success |  
-| bip_39_word_new_br4 | fan<br>armor<br>success<br>man |  
-| bip_39_word_new_br5 | fan<br>armor<br>success<br>man<br>fame |  
-| bip_39_word_new_br6 | fan<br>armor<br>success<br>man<br>fame<br>know |  
-| bip_39_word_new_br7 | fan<br>armor<br>success<br>man<br>fame<br>know<br>gather |  
-| bip_39_word_new_br8 | fan<br>armor<br>success<br>man<br>fame<br>know<br>gather<br>ten |  
-| bip_39_word_new_br9 | fan<br>armor<br>success<br>man<br>fame<br>know<br>gather<br>ten<br>horror |  
-| bip_39_word_new_line1 | fan |  
-| bip_39_word_new_line10 | fan
+| bip_39_word_new_br_1 | fan |  
+| bip_39_word_new_br_10 | fan<br>armor<br>success<br>man<br>fame<br>know<br>gather<br>ten<br>horror<br>mind |  
+| bip_39_word_new_br_11 | fan<br>armor<br>success<br>man<br>fame<br>know<br>gather<br>ten<br>horror<br>mind<br>bind |  
+| bip_39_word_new_br_12 | fan<br>armor<br>success<br>man<br>fame<br>know<br>gather<br>ten<br>horror<br>mind<br>bind<br>alpha |  
+| bip_39_word_new_br_2 | fan<br>armor |  
+| bip_39_word_new_br_3 | fan<br>armor<br>success |  
+| bip_39_word_new_br_4 | fan<br>armor<br>success<br>man |  
+| bip_39_word_new_br_5 | fan<br>armor<br>success<br>man<br>fame |  
+| bip_39_word_new_br_6 | fan<br>armor<br>success<br>man<br>fame<br>know |  
+| bip_39_word_new_br_7 | fan<br>armor<br>success<br>man<br>fame<br>know<br>gather |  
+| bip_39_word_new_br_8 | fan<br>armor<br>success<br>man<br>fame<br>know<br>gather<br>ten |  
+| bip_39_word_new_br_9 | fan<br>armor<br>success<br>man<br>fame<br>know<br>gather<br>ten<br>horror |  
+| bip_39_word_new_line_1 | fan |  
+| bip_39_word_new_line_10 | fan
 armor
 success
 man
@@ -55,7 +55,7 @@ gather
 ten
 horror
 mind |  
-| bip_39_word_new_line11 | fan
+| bip_39_word_new_line_11 | fan
 armor
 success
 man
@@ -66,7 +66,7 @@ ten
 horror
 mind
 bind |  
-| bip_39_word_new_line12 | fan
+| bip_39_word_new_line_12 | fan
 armor
 success
 man
@@ -78,34 +78,34 @@ horror
 mind
 bind
 alpha |  
-| bip_39_word_new_line2 | fan
+| bip_39_word_new_line_2 | fan
 armor |  
-| bip_39_word_new_line3 | fan
+| bip_39_word_new_line_3 | fan
 armor
 success |  
-| bip_39_word_new_line4 | fan
+| bip_39_word_new_line_4 | fan
 armor
 success
 man |  
-| bip_39_word_new_line5 | fan
+| bip_39_word_new_line_5 | fan
 armor
 success
 man
 fame |  
-| bip_39_word_new_line6 | fan
+| bip_39_word_new_line_6 | fan
 armor
 success
 man
 fame
 know |  
-| bip_39_word_new_line7 | fan
+| bip_39_word_new_line_7 | fan
 armor
 success
 man
 fame
 know
 gather |  
-| bip_39_word_new_line8 | fan
+| bip_39_word_new_line_8 | fan
 armor
 success
 man
@@ -113,7 +113,7 @@ fame
 know
 gather
 ten |  
-| bip_39_word_new_line9 | fan
+| bip_39_word_new_line_9 | fan
 armor
 success
 man

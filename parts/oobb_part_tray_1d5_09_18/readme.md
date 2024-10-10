@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gap |  
-| bip_39_word_new_br10 | gap<br>aim<br>thumb<br>denial<br>hold<br>fresh<br>vacuum<br>wrong<br>chaos<br>magnet |  
-| bip_39_word_new_br11 | gap<br>aim<br>thumb<br>denial<br>hold<br>fresh<br>vacuum<br>wrong<br>chaos<br>magnet<br>police |  
-| bip_39_word_new_br2 | gap<br>aim |  
-| bip_39_word_new_br3 | gap<br>aim<br>thumb |  
-| bip_39_word_new_br4 | gap<br>aim<br>thumb<br>denial |  
-| bip_39_word_new_br5 | gap<br>aim<br>thumb<br>denial<br>hold |  
-| bip_39_word_new_br6 | gap<br>aim<br>thumb<br>denial<br>hold<br>fresh |  
-| bip_39_word_new_br7 | gap<br>aim<br>thumb<br>denial<br>hold<br>fresh<br>vacuum |  
-| bip_39_word_new_br8 | gap<br>aim<br>thumb<br>denial<br>hold<br>fresh<br>vacuum<br>wrong |  
-| bip_39_word_new_br9 | gap<br>aim<br>thumb<br>denial<br>hold<br>fresh<br>vacuum<br>wrong<br>chaos |  
-| bip_39_word_new_line1 | gap |  
-| bip_39_word_new_line10 | gap
+| bip_39_word_new_br_1 | gap |  
+| bip_39_word_new_br_10 | gap<br>aim<br>thumb<br>denial<br>hold<br>fresh<br>vacuum<br>wrong<br>chaos<br>magnet |  
+| bip_39_word_new_br_11 | gap<br>aim<br>thumb<br>denial<br>hold<br>fresh<br>vacuum<br>wrong<br>chaos<br>magnet<br>police |  
+| bip_39_word_new_br_2 | gap<br>aim |  
+| bip_39_word_new_br_3 | gap<br>aim<br>thumb |  
+| bip_39_word_new_br_4 | gap<br>aim<br>thumb<br>denial |  
+| bip_39_word_new_br_5 | gap<br>aim<br>thumb<br>denial<br>hold |  
+| bip_39_word_new_br_6 | gap<br>aim<br>thumb<br>denial<br>hold<br>fresh |  
+| bip_39_word_new_br_7 | gap<br>aim<br>thumb<br>denial<br>hold<br>fresh<br>vacuum |  
+| bip_39_word_new_br_8 | gap<br>aim<br>thumb<br>denial<br>hold<br>fresh<br>vacuum<br>wrong |  
+| bip_39_word_new_br_9 | gap<br>aim<br>thumb<br>denial<br>hold<br>fresh<br>vacuum<br>wrong<br>chaos |  
+| bip_39_word_new_line_1 | gap |  
+| bip_39_word_new_line_10 | gap
 aim
 thumb
 denial
@@ -54,7 +54,7 @@ vacuum
 wrong
 chaos
 magnet |  
-| bip_39_word_new_line11 | gap
+| bip_39_word_new_line_11 | gap
 aim
 thumb
 denial
@@ -65,34 +65,34 @@ wrong
 chaos
 magnet
 police |  
-| bip_39_word_new_line2 | gap
+| bip_39_word_new_line_2 | gap
 aim |  
-| bip_39_word_new_line3 | gap
+| bip_39_word_new_line_3 | gap
 aim
 thumb |  
-| bip_39_word_new_line4 | gap
+| bip_39_word_new_line_4 | gap
 aim
 thumb
 denial |  
-| bip_39_word_new_line5 | gap
+| bip_39_word_new_line_5 | gap
 aim
 thumb
 denial
 hold |  
-| bip_39_word_new_line6 | gap
+| bip_39_word_new_line_6 | gap
 aim
 thumb
 denial
 hold
 fresh |  
-| bip_39_word_new_line7 | gap
+| bip_39_word_new_line_7 | gap
 aim
 thumb
 denial
 hold
 fresh
 vacuum |  
-| bip_39_word_new_line8 | gap
+| bip_39_word_new_line_8 | gap
 aim
 thumb
 denial
@@ -100,7 +100,7 @@ hold
 fresh
 vacuum
 wrong |  
-| bip_39_word_new_line9 | gap
+| bip_39_word_new_line_9 | gap
 aim
 thumb
 denial

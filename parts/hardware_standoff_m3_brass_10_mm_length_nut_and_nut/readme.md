@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | measure |  
-| bip_39_word_new_br10 | measure<br>hedgehog<br>drum<br>weather<br>hover<br>farm<br>help<br>brain<br>guess<br>divide |  
-| bip_39_word_new_br11 | measure<br>hedgehog<br>drum<br>weather<br>hover<br>farm<br>help<br>brain<br>guess<br>divide<br>employ |  
-| bip_39_word_new_br12 | measure<br>hedgehog<br>drum<br>weather<br>hover<br>farm<br>help<br>brain<br>guess<br>divide<br>employ<br>adapt |  
-| bip_39_word_new_br2 | measure<br>hedgehog |  
-| bip_39_word_new_br3 | measure<br>hedgehog<br>drum |  
-| bip_39_word_new_br4 | measure<br>hedgehog<br>drum<br>weather |  
-| bip_39_word_new_br5 | measure<br>hedgehog<br>drum<br>weather<br>hover |  
-| bip_39_word_new_br6 | measure<br>hedgehog<br>drum<br>weather<br>hover<br>farm |  
-| bip_39_word_new_br7 | measure<br>hedgehog<br>drum<br>weather<br>hover<br>farm<br>help |  
-| bip_39_word_new_br8 | measure<br>hedgehog<br>drum<br>weather<br>hover<br>farm<br>help<br>brain |  
-| bip_39_word_new_br9 | measure<br>hedgehog<br>drum<br>weather<br>hover<br>farm<br>help<br>brain<br>guess |  
-| bip_39_word_new_line1 | measure |  
-| bip_39_word_new_line10 | measure
+| bip_39_word_new_br_1 | measure |  
+| bip_39_word_new_br_10 | measure<br>hedgehog<br>drum<br>weather<br>hover<br>farm<br>help<br>brain<br>guess<br>divide |  
+| bip_39_word_new_br_11 | measure<br>hedgehog<br>drum<br>weather<br>hover<br>farm<br>help<br>brain<br>guess<br>divide<br>employ |  
+| bip_39_word_new_br_12 | measure<br>hedgehog<br>drum<br>weather<br>hover<br>farm<br>help<br>brain<br>guess<br>divide<br>employ<br>adapt |  
+| bip_39_word_new_br_2 | measure<br>hedgehog |  
+| bip_39_word_new_br_3 | measure<br>hedgehog<br>drum |  
+| bip_39_word_new_br_4 | measure<br>hedgehog<br>drum<br>weather |  
+| bip_39_word_new_br_5 | measure<br>hedgehog<br>drum<br>weather<br>hover |  
+| bip_39_word_new_br_6 | measure<br>hedgehog<br>drum<br>weather<br>hover<br>farm |  
+| bip_39_word_new_br_7 | measure<br>hedgehog<br>drum<br>weather<br>hover<br>farm<br>help |  
+| bip_39_word_new_br_8 | measure<br>hedgehog<br>drum<br>weather<br>hover<br>farm<br>help<br>brain |  
+| bip_39_word_new_br_9 | measure<br>hedgehog<br>drum<br>weather<br>hover<br>farm<br>help<br>brain<br>guess |  
+| bip_39_word_new_line_1 | measure |  
+| bip_39_word_new_line_10 | measure
 hedgehog
 drum
 weather
@@ -55,7 +55,7 @@ help
 brain
 guess
 divide |  
-| bip_39_word_new_line11 | measure
+| bip_39_word_new_line_11 | measure
 hedgehog
 drum
 weather
@@ -66,7 +66,7 @@ brain
 guess
 divide
 employ |  
-| bip_39_word_new_line12 | measure
+| bip_39_word_new_line_12 | measure
 hedgehog
 drum
 weather
@@ -78,34 +78,34 @@ guess
 divide
 employ
 adapt |  
-| bip_39_word_new_line2 | measure
+| bip_39_word_new_line_2 | measure
 hedgehog |  
-| bip_39_word_new_line3 | measure
+| bip_39_word_new_line_3 | measure
 hedgehog
 drum |  
-| bip_39_word_new_line4 | measure
+| bip_39_word_new_line_4 | measure
 hedgehog
 drum
 weather |  
-| bip_39_word_new_line5 | measure
+| bip_39_word_new_line_5 | measure
 hedgehog
 drum
 weather
 hover |  
-| bip_39_word_new_line6 | measure
+| bip_39_word_new_line_6 | measure
 hedgehog
 drum
 weather
 hover
 farm |  
-| bip_39_word_new_line7 | measure
+| bip_39_word_new_line_7 | measure
 hedgehog
 drum
 weather
 hover
 farm
 help |  
-| bip_39_word_new_line8 | measure
+| bip_39_word_new_line_8 | measure
 hedgehog
 drum
 weather
@@ -113,7 +113,7 @@ hover
 farm
 help
 brain |  
-| bip_39_word_new_line9 | measure
+| bip_39_word_new_line_9 | measure
 hedgehog
 drum
 weather

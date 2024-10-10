@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | entire |  
-| bip_39_word_new_br10 | entire<br>reason<br>tree<br>reform<br>fabric<br>funny<br>fatigue<br>position<br>elbow<br>panda |  
-| bip_39_word_new_br11 | entire<br>reason<br>tree<br>reform<br>fabric<br>funny<br>fatigue<br>position<br>elbow<br>panda<br>liquid |  
-| bip_39_word_new_br12 | entire<br>reason<br>tree<br>reform<br>fabric<br>funny<br>fatigue<br>position<br>elbow<br>panda<br>liquid<br>any |  
-| bip_39_word_new_br2 | entire<br>reason |  
-| bip_39_word_new_br3 | entire<br>reason<br>tree |  
-| bip_39_word_new_br4 | entire<br>reason<br>tree<br>reform |  
-| bip_39_word_new_br5 | entire<br>reason<br>tree<br>reform<br>fabric |  
-| bip_39_word_new_br6 | entire<br>reason<br>tree<br>reform<br>fabric<br>funny |  
-| bip_39_word_new_br7 | entire<br>reason<br>tree<br>reform<br>fabric<br>funny<br>fatigue |  
-| bip_39_word_new_br8 | entire<br>reason<br>tree<br>reform<br>fabric<br>funny<br>fatigue<br>position |  
-| bip_39_word_new_br9 | entire<br>reason<br>tree<br>reform<br>fabric<br>funny<br>fatigue<br>position<br>elbow |  
-| bip_39_word_new_line1 | entire |  
-| bip_39_word_new_line10 | entire
+| bip_39_word_new_br_1 | entire |  
+| bip_39_word_new_br_10 | entire<br>reason<br>tree<br>reform<br>fabric<br>funny<br>fatigue<br>position<br>elbow<br>panda |  
+| bip_39_word_new_br_11 | entire<br>reason<br>tree<br>reform<br>fabric<br>funny<br>fatigue<br>position<br>elbow<br>panda<br>liquid |  
+| bip_39_word_new_br_12 | entire<br>reason<br>tree<br>reform<br>fabric<br>funny<br>fatigue<br>position<br>elbow<br>panda<br>liquid<br>any |  
+| bip_39_word_new_br_2 | entire<br>reason |  
+| bip_39_word_new_br_3 | entire<br>reason<br>tree |  
+| bip_39_word_new_br_4 | entire<br>reason<br>tree<br>reform |  
+| bip_39_word_new_br_5 | entire<br>reason<br>tree<br>reform<br>fabric |  
+| bip_39_word_new_br_6 | entire<br>reason<br>tree<br>reform<br>fabric<br>funny |  
+| bip_39_word_new_br_7 | entire<br>reason<br>tree<br>reform<br>fabric<br>funny<br>fatigue |  
+| bip_39_word_new_br_8 | entire<br>reason<br>tree<br>reform<br>fabric<br>funny<br>fatigue<br>position |  
+| bip_39_word_new_br_9 | entire<br>reason<br>tree<br>reform<br>fabric<br>funny<br>fatigue<br>position<br>elbow |  
+| bip_39_word_new_line_1 | entire |  
+| bip_39_word_new_line_10 | entire
 reason
 tree
 reform
@@ -55,7 +55,7 @@ fatigue
 position
 elbow
 panda |  
-| bip_39_word_new_line11 | entire
+| bip_39_word_new_line_11 | entire
 reason
 tree
 reform
@@ -66,7 +66,7 @@ position
 elbow
 panda
 liquid |  
-| bip_39_word_new_line12 | entire
+| bip_39_word_new_line_12 | entire
 reason
 tree
 reform
@@ -78,34 +78,34 @@ elbow
 panda
 liquid
 any |  
-| bip_39_word_new_line2 | entire
+| bip_39_word_new_line_2 | entire
 reason |  
-| bip_39_word_new_line3 | entire
+| bip_39_word_new_line_3 | entire
 reason
 tree |  
-| bip_39_word_new_line4 | entire
+| bip_39_word_new_line_4 | entire
 reason
 tree
 reform |  
-| bip_39_word_new_line5 | entire
+| bip_39_word_new_line_5 | entire
 reason
 tree
 reform
 fabric |  
-| bip_39_word_new_line6 | entire
+| bip_39_word_new_line_6 | entire
 reason
 tree
 reform
 fabric
 funny |  
-| bip_39_word_new_line7 | entire
+| bip_39_word_new_line_7 | entire
 reason
 tree
 reform
 fabric
 funny
 fatigue |  
-| bip_39_word_new_line8 | entire
+| bip_39_word_new_line_8 | entire
 reason
 tree
 reform
@@ -113,7 +113,7 @@ fabric
 funny
 fatigue
 position |  
-| bip_39_word_new_line9 | entire
+| bip_39_word_new_line_9 | entire
 reason
 tree
 reform

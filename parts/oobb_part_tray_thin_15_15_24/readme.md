@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | minimum |  
-| bip_39_word_new_br10 | minimum<br>antique<br>screen<br>payment<br>urban<br>twin<br>spend<br>detail<br>dance<br>gospel |  
-| bip_39_word_new_br11 | minimum<br>antique<br>screen<br>payment<br>urban<br>twin<br>spend<br>detail<br>dance<br>gospel<br>exercise |  
-| bip_39_word_new_br12 | minimum<br>antique<br>screen<br>payment<br>urban<br>twin<br>spend<br>detail<br>dance<br>gospel<br>exercise<br>alley |  
-| bip_39_word_new_br2 | minimum<br>antique |  
-| bip_39_word_new_br3 | minimum<br>antique<br>screen |  
-| bip_39_word_new_br4 | minimum<br>antique<br>screen<br>payment |  
-| bip_39_word_new_br5 | minimum<br>antique<br>screen<br>payment<br>urban |  
-| bip_39_word_new_br6 | minimum<br>antique<br>screen<br>payment<br>urban<br>twin |  
-| bip_39_word_new_br7 | minimum<br>antique<br>screen<br>payment<br>urban<br>twin<br>spend |  
-| bip_39_word_new_br8 | minimum<br>antique<br>screen<br>payment<br>urban<br>twin<br>spend<br>detail |  
-| bip_39_word_new_br9 | minimum<br>antique<br>screen<br>payment<br>urban<br>twin<br>spend<br>detail<br>dance |  
-| bip_39_word_new_line1 | minimum |  
-| bip_39_word_new_line10 | minimum
+| bip_39_word_new_br_1 | minimum |  
+| bip_39_word_new_br_10 | minimum<br>antique<br>screen<br>payment<br>urban<br>twin<br>spend<br>detail<br>dance<br>gospel |  
+| bip_39_word_new_br_11 | minimum<br>antique<br>screen<br>payment<br>urban<br>twin<br>spend<br>detail<br>dance<br>gospel<br>exercise |  
+| bip_39_word_new_br_12 | minimum<br>antique<br>screen<br>payment<br>urban<br>twin<br>spend<br>detail<br>dance<br>gospel<br>exercise<br>alley |  
+| bip_39_word_new_br_2 | minimum<br>antique |  
+| bip_39_word_new_br_3 | minimum<br>antique<br>screen |  
+| bip_39_word_new_br_4 | minimum<br>antique<br>screen<br>payment |  
+| bip_39_word_new_br_5 | minimum<br>antique<br>screen<br>payment<br>urban |  
+| bip_39_word_new_br_6 | minimum<br>antique<br>screen<br>payment<br>urban<br>twin |  
+| bip_39_word_new_br_7 | minimum<br>antique<br>screen<br>payment<br>urban<br>twin<br>spend |  
+| bip_39_word_new_br_8 | minimum<br>antique<br>screen<br>payment<br>urban<br>twin<br>spend<br>detail |  
+| bip_39_word_new_br_9 | minimum<br>antique<br>screen<br>payment<br>urban<br>twin<br>spend<br>detail<br>dance |  
+| bip_39_word_new_line_1 | minimum |  
+| bip_39_word_new_line_10 | minimum
 antique
 screen
 payment
@@ -55,7 +55,7 @@ spend
 detail
 dance
 gospel |  
-| bip_39_word_new_line11 | minimum
+| bip_39_word_new_line_11 | minimum
 antique
 screen
 payment
@@ -66,7 +66,7 @@ detail
 dance
 gospel
 exercise |  
-| bip_39_word_new_line12 | minimum
+| bip_39_word_new_line_12 | minimum
 antique
 screen
 payment
@@ -78,34 +78,34 @@ dance
 gospel
 exercise
 alley |  
-| bip_39_word_new_line2 | minimum
+| bip_39_word_new_line_2 | minimum
 antique |  
-| bip_39_word_new_line3 | minimum
+| bip_39_word_new_line_3 | minimum
 antique
 screen |  
-| bip_39_word_new_line4 | minimum
+| bip_39_word_new_line_4 | minimum
 antique
 screen
 payment |  
-| bip_39_word_new_line5 | minimum
+| bip_39_word_new_line_5 | minimum
 antique
 screen
 payment
 urban |  
-| bip_39_word_new_line6 | minimum
+| bip_39_word_new_line_6 | minimum
 antique
 screen
 payment
 urban
 twin |  
-| bip_39_word_new_line7 | minimum
+| bip_39_word_new_line_7 | minimum
 antique
 screen
 payment
 urban
 twin
 spend |  
-| bip_39_word_new_line8 | minimum
+| bip_39_word_new_line_8 | minimum
 antique
 screen
 payment
@@ -113,7 +113,7 @@ urban
 twin
 spend
 detail |  
-| bip_39_word_new_line9 | minimum
+| bip_39_word_new_line_9 | minimum
 antique
 screen
 payment

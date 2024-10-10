@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dutch |  
-| bip_39_word_new_br10 | dutch<br>diet<br>grief<br>control<br>monkey<br>music<br>harbor<br>soldier<br>engine<br>expose |  
-| bip_39_word_new_br11 | dutch<br>diet<br>grief<br>control<br>monkey<br>music<br>harbor<br>soldier<br>engine<br>expose<br>urban |  
-| bip_39_word_new_br12 | dutch<br>diet<br>grief<br>control<br>monkey<br>music<br>harbor<br>soldier<br>engine<br>expose<br>urban<br>actress |  
-| bip_39_word_new_br2 | dutch<br>diet |  
-| bip_39_word_new_br3 | dutch<br>diet<br>grief |  
-| bip_39_word_new_br4 | dutch<br>diet<br>grief<br>control |  
-| bip_39_word_new_br5 | dutch<br>diet<br>grief<br>control<br>monkey |  
-| bip_39_word_new_br6 | dutch<br>diet<br>grief<br>control<br>monkey<br>music |  
-| bip_39_word_new_br7 | dutch<br>diet<br>grief<br>control<br>monkey<br>music<br>harbor |  
-| bip_39_word_new_br8 | dutch<br>diet<br>grief<br>control<br>monkey<br>music<br>harbor<br>soldier |  
-| bip_39_word_new_br9 | dutch<br>diet<br>grief<br>control<br>monkey<br>music<br>harbor<br>soldier<br>engine |  
-| bip_39_word_new_line1 | dutch |  
-| bip_39_word_new_line10 | dutch
+| bip_39_word_new_br_1 | dutch |  
+| bip_39_word_new_br_10 | dutch<br>diet<br>grief<br>control<br>monkey<br>music<br>harbor<br>soldier<br>engine<br>expose |  
+| bip_39_word_new_br_11 | dutch<br>diet<br>grief<br>control<br>monkey<br>music<br>harbor<br>soldier<br>engine<br>expose<br>urban |  
+| bip_39_word_new_br_12 | dutch<br>diet<br>grief<br>control<br>monkey<br>music<br>harbor<br>soldier<br>engine<br>expose<br>urban<br>actress |  
+| bip_39_word_new_br_2 | dutch<br>diet |  
+| bip_39_word_new_br_3 | dutch<br>diet<br>grief |  
+| bip_39_word_new_br_4 | dutch<br>diet<br>grief<br>control |  
+| bip_39_word_new_br_5 | dutch<br>diet<br>grief<br>control<br>monkey |  
+| bip_39_word_new_br_6 | dutch<br>diet<br>grief<br>control<br>monkey<br>music |  
+| bip_39_word_new_br_7 | dutch<br>diet<br>grief<br>control<br>monkey<br>music<br>harbor |  
+| bip_39_word_new_br_8 | dutch<br>diet<br>grief<br>control<br>monkey<br>music<br>harbor<br>soldier |  
+| bip_39_word_new_br_9 | dutch<br>diet<br>grief<br>control<br>monkey<br>music<br>harbor<br>soldier<br>engine |  
+| bip_39_word_new_line_1 | dutch |  
+| bip_39_word_new_line_10 | dutch
 diet
 grief
 control
@@ -55,7 +55,7 @@ harbor
 soldier
 engine
 expose |  
-| bip_39_word_new_line11 | dutch
+| bip_39_word_new_line_11 | dutch
 diet
 grief
 control
@@ -66,7 +66,7 @@ soldier
 engine
 expose
 urban |  
-| bip_39_word_new_line12 | dutch
+| bip_39_word_new_line_12 | dutch
 diet
 grief
 control
@@ -78,34 +78,34 @@ engine
 expose
 urban
 actress |  
-| bip_39_word_new_line2 | dutch
+| bip_39_word_new_line_2 | dutch
 diet |  
-| bip_39_word_new_line3 | dutch
+| bip_39_word_new_line_3 | dutch
 diet
 grief |  
-| bip_39_word_new_line4 | dutch
+| bip_39_word_new_line_4 | dutch
 diet
 grief
 control |  
-| bip_39_word_new_line5 | dutch
+| bip_39_word_new_line_5 | dutch
 diet
 grief
 control
 monkey |  
-| bip_39_word_new_line6 | dutch
+| bip_39_word_new_line_6 | dutch
 diet
 grief
 control
 monkey
 music |  
-| bip_39_word_new_line7 | dutch
+| bip_39_word_new_line_7 | dutch
 diet
 grief
 control
 monkey
 music
 harbor |  
-| bip_39_word_new_line8 | dutch
+| bip_39_word_new_line_8 | dutch
 diet
 grief
 control
@@ -113,7 +113,7 @@ monkey
 music
 harbor
 soldier |  
-| bip_39_word_new_line9 | dutch
+| bip_39_word_new_line_9 | dutch
 diet
 grief
 control

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | service |  
-| bip_39_word_new_br10 | service<br>mixed<br>glimpse<br>chunk<br>ice<br>purity<br>link<br>memory<br>enlist<br>faint |  
-| bip_39_word_new_br11 | service<br>mixed<br>glimpse<br>chunk<br>ice<br>purity<br>link<br>memory<br>enlist<br>faint<br>bring |  
-| bip_39_word_new_br12 | service<br>mixed<br>glimpse<br>chunk<br>ice<br>purity<br>link<br>memory<br>enlist<br>faint<br>bring<br>area |  
-| bip_39_word_new_br2 | service<br>mixed |  
-| bip_39_word_new_br3 | service<br>mixed<br>glimpse |  
-| bip_39_word_new_br4 | service<br>mixed<br>glimpse<br>chunk |  
-| bip_39_word_new_br5 | service<br>mixed<br>glimpse<br>chunk<br>ice |  
-| bip_39_word_new_br6 | service<br>mixed<br>glimpse<br>chunk<br>ice<br>purity |  
-| bip_39_word_new_br7 | service<br>mixed<br>glimpse<br>chunk<br>ice<br>purity<br>link |  
-| bip_39_word_new_br8 | service<br>mixed<br>glimpse<br>chunk<br>ice<br>purity<br>link<br>memory |  
-| bip_39_word_new_br9 | service<br>mixed<br>glimpse<br>chunk<br>ice<br>purity<br>link<br>memory<br>enlist |  
-| bip_39_word_new_line1 | service |  
-| bip_39_word_new_line10 | service
+| bip_39_word_new_br_1 | service |  
+| bip_39_word_new_br_10 | service<br>mixed<br>glimpse<br>chunk<br>ice<br>purity<br>link<br>memory<br>enlist<br>faint |  
+| bip_39_word_new_br_11 | service<br>mixed<br>glimpse<br>chunk<br>ice<br>purity<br>link<br>memory<br>enlist<br>faint<br>bring |  
+| bip_39_word_new_br_12 | service<br>mixed<br>glimpse<br>chunk<br>ice<br>purity<br>link<br>memory<br>enlist<br>faint<br>bring<br>area |  
+| bip_39_word_new_br_2 | service<br>mixed |  
+| bip_39_word_new_br_3 | service<br>mixed<br>glimpse |  
+| bip_39_word_new_br_4 | service<br>mixed<br>glimpse<br>chunk |  
+| bip_39_word_new_br_5 | service<br>mixed<br>glimpse<br>chunk<br>ice |  
+| bip_39_word_new_br_6 | service<br>mixed<br>glimpse<br>chunk<br>ice<br>purity |  
+| bip_39_word_new_br_7 | service<br>mixed<br>glimpse<br>chunk<br>ice<br>purity<br>link |  
+| bip_39_word_new_br_8 | service<br>mixed<br>glimpse<br>chunk<br>ice<br>purity<br>link<br>memory |  
+| bip_39_word_new_br_9 | service<br>mixed<br>glimpse<br>chunk<br>ice<br>purity<br>link<br>memory<br>enlist |  
+| bip_39_word_new_line_1 | service |  
+| bip_39_word_new_line_10 | service
 mixed
 glimpse
 chunk
@@ -55,7 +55,7 @@ link
 memory
 enlist
 faint |  
-| bip_39_word_new_line11 | service
+| bip_39_word_new_line_11 | service
 mixed
 glimpse
 chunk
@@ -66,7 +66,7 @@ memory
 enlist
 faint
 bring |  
-| bip_39_word_new_line12 | service
+| bip_39_word_new_line_12 | service
 mixed
 glimpse
 chunk
@@ -78,34 +78,34 @@ enlist
 faint
 bring
 area |  
-| bip_39_word_new_line2 | service
+| bip_39_word_new_line_2 | service
 mixed |  
-| bip_39_word_new_line3 | service
+| bip_39_word_new_line_3 | service
 mixed
 glimpse |  
-| bip_39_word_new_line4 | service
+| bip_39_word_new_line_4 | service
 mixed
 glimpse
 chunk |  
-| bip_39_word_new_line5 | service
+| bip_39_word_new_line_5 | service
 mixed
 glimpse
 chunk
 ice |  
-| bip_39_word_new_line6 | service
+| bip_39_word_new_line_6 | service
 mixed
 glimpse
 chunk
 ice
 purity |  
-| bip_39_word_new_line7 | service
+| bip_39_word_new_line_7 | service
 mixed
 glimpse
 chunk
 ice
 purity
 link |  
-| bip_39_word_new_line8 | service
+| bip_39_word_new_line_8 | service
 mixed
 glimpse
 chunk
@@ -113,7 +113,7 @@ ice
 purity
 link
 memory |  
-| bip_39_word_new_line9 | service
+| bip_39_word_new_line_9 | service
 mixed
 glimpse
 chunk

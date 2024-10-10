@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | already |  
-| bip_39_word_new_br10 | already<br>drift<br>left<br>pencil<br>federal<br>perfect<br>crew<br>olympic<br>excuse<br>verify |  
-| bip_39_word_new_br11 | already<br>drift<br>left<br>pencil<br>federal<br>perfect<br>crew<br>olympic<br>excuse<br>verify<br>mail |  
-| bip_39_word_new_br12 | already<br>drift<br>left<br>pencil<br>federal<br>perfect<br>crew<br>olympic<br>excuse<br>verify<br>mail<br>actor |  
-| bip_39_word_new_br2 | already<br>drift |  
-| bip_39_word_new_br3 | already<br>drift<br>left |  
-| bip_39_word_new_br4 | already<br>drift<br>left<br>pencil |  
-| bip_39_word_new_br5 | already<br>drift<br>left<br>pencil<br>federal |  
-| bip_39_word_new_br6 | already<br>drift<br>left<br>pencil<br>federal<br>perfect |  
-| bip_39_word_new_br7 | already<br>drift<br>left<br>pencil<br>federal<br>perfect<br>crew |  
-| bip_39_word_new_br8 | already<br>drift<br>left<br>pencil<br>federal<br>perfect<br>crew<br>olympic |  
-| bip_39_word_new_br9 | already<br>drift<br>left<br>pencil<br>federal<br>perfect<br>crew<br>olympic<br>excuse |  
-| bip_39_word_new_line1 | already |  
-| bip_39_word_new_line10 | already
+| bip_39_word_new_br_1 | already |  
+| bip_39_word_new_br_10 | already<br>drift<br>left<br>pencil<br>federal<br>perfect<br>crew<br>olympic<br>excuse<br>verify |  
+| bip_39_word_new_br_11 | already<br>drift<br>left<br>pencil<br>federal<br>perfect<br>crew<br>olympic<br>excuse<br>verify<br>mail |  
+| bip_39_word_new_br_12 | already<br>drift<br>left<br>pencil<br>federal<br>perfect<br>crew<br>olympic<br>excuse<br>verify<br>mail<br>actor |  
+| bip_39_word_new_br_2 | already<br>drift |  
+| bip_39_word_new_br_3 | already<br>drift<br>left |  
+| bip_39_word_new_br_4 | already<br>drift<br>left<br>pencil |  
+| bip_39_word_new_br_5 | already<br>drift<br>left<br>pencil<br>federal |  
+| bip_39_word_new_br_6 | already<br>drift<br>left<br>pencil<br>federal<br>perfect |  
+| bip_39_word_new_br_7 | already<br>drift<br>left<br>pencil<br>federal<br>perfect<br>crew |  
+| bip_39_word_new_br_8 | already<br>drift<br>left<br>pencil<br>federal<br>perfect<br>crew<br>olympic |  
+| bip_39_word_new_br_9 | already<br>drift<br>left<br>pencil<br>federal<br>perfect<br>crew<br>olympic<br>excuse |  
+| bip_39_word_new_line_1 | already |  
+| bip_39_word_new_line_10 | already
 drift
 left
 pencil
@@ -55,7 +55,7 @@ crew
 olympic
 excuse
 verify |  
-| bip_39_word_new_line11 | already
+| bip_39_word_new_line_11 | already
 drift
 left
 pencil
@@ -66,7 +66,7 @@ olympic
 excuse
 verify
 mail |  
-| bip_39_word_new_line12 | already
+| bip_39_word_new_line_12 | already
 drift
 left
 pencil
@@ -78,34 +78,34 @@ excuse
 verify
 mail
 actor |  
-| bip_39_word_new_line2 | already
+| bip_39_word_new_line_2 | already
 drift |  
-| bip_39_word_new_line3 | already
+| bip_39_word_new_line_3 | already
 drift
 left |  
-| bip_39_word_new_line4 | already
+| bip_39_word_new_line_4 | already
 drift
 left
 pencil |  
-| bip_39_word_new_line5 | already
+| bip_39_word_new_line_5 | already
 drift
 left
 pencil
 federal |  
-| bip_39_word_new_line6 | already
+| bip_39_word_new_line_6 | already
 drift
 left
 pencil
 federal
 perfect |  
-| bip_39_word_new_line7 | already
+| bip_39_word_new_line_7 | already
 drift
 left
 pencil
 federal
 perfect
 crew |  
-| bip_39_word_new_line8 | already
+| bip_39_word_new_line_8 | already
 drift
 left
 pencil
@@ -113,7 +113,7 @@ federal
 perfect
 crew
 olympic |  
-| bip_39_word_new_line9 | already
+| bip_39_word_new_line_9 | already
 drift
 left
 pencil

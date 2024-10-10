@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | blast |  
-| bip_39_word_new_br10 | blast<br>garment<br>present<br>because<br>mention<br>link<br>valid<br>chronic<br>throw<br>utility |  
-| bip_39_word_new_br11 | blast<br>garment<br>present<br>because<br>mention<br>link<br>valid<br>chronic<br>throw<br>utility<br>million |  
-| bip_39_word_new_br12 | blast<br>garment<br>present<br>because<br>mention<br>link<br>valid<br>chronic<br>throw<br>utility<br>million<br>acoustic |  
-| bip_39_word_new_br2 | blast<br>garment |  
-| bip_39_word_new_br3 | blast<br>garment<br>present |  
-| bip_39_word_new_br4 | blast<br>garment<br>present<br>because |  
-| bip_39_word_new_br5 | blast<br>garment<br>present<br>because<br>mention |  
-| bip_39_word_new_br6 | blast<br>garment<br>present<br>because<br>mention<br>link |  
-| bip_39_word_new_br7 | blast<br>garment<br>present<br>because<br>mention<br>link<br>valid |  
-| bip_39_word_new_br8 | blast<br>garment<br>present<br>because<br>mention<br>link<br>valid<br>chronic |  
-| bip_39_word_new_br9 | blast<br>garment<br>present<br>because<br>mention<br>link<br>valid<br>chronic<br>throw |  
-| bip_39_word_new_line1 | blast |  
-| bip_39_word_new_line10 | blast
+| bip_39_word_new_br_1 | blast |  
+| bip_39_word_new_br_10 | blast<br>garment<br>present<br>because<br>mention<br>link<br>valid<br>chronic<br>throw<br>utility |  
+| bip_39_word_new_br_11 | blast<br>garment<br>present<br>because<br>mention<br>link<br>valid<br>chronic<br>throw<br>utility<br>million |  
+| bip_39_word_new_br_12 | blast<br>garment<br>present<br>because<br>mention<br>link<br>valid<br>chronic<br>throw<br>utility<br>million<br>acoustic |  
+| bip_39_word_new_br_2 | blast<br>garment |  
+| bip_39_word_new_br_3 | blast<br>garment<br>present |  
+| bip_39_word_new_br_4 | blast<br>garment<br>present<br>because |  
+| bip_39_word_new_br_5 | blast<br>garment<br>present<br>because<br>mention |  
+| bip_39_word_new_br_6 | blast<br>garment<br>present<br>because<br>mention<br>link |  
+| bip_39_word_new_br_7 | blast<br>garment<br>present<br>because<br>mention<br>link<br>valid |  
+| bip_39_word_new_br_8 | blast<br>garment<br>present<br>because<br>mention<br>link<br>valid<br>chronic |  
+| bip_39_word_new_br_9 | blast<br>garment<br>present<br>because<br>mention<br>link<br>valid<br>chronic<br>throw |  
+| bip_39_word_new_line_1 | blast |  
+| bip_39_word_new_line_10 | blast
 garment
 present
 because
@@ -55,7 +55,7 @@ valid
 chronic
 throw
 utility |  
-| bip_39_word_new_line11 | blast
+| bip_39_word_new_line_11 | blast
 garment
 present
 because
@@ -66,7 +66,7 @@ chronic
 throw
 utility
 million |  
-| bip_39_word_new_line12 | blast
+| bip_39_word_new_line_12 | blast
 garment
 present
 because
@@ -78,34 +78,34 @@ throw
 utility
 million
 acoustic |  
-| bip_39_word_new_line2 | blast
+| bip_39_word_new_line_2 | blast
 garment |  
-| bip_39_word_new_line3 | blast
+| bip_39_word_new_line_3 | blast
 garment
 present |  
-| bip_39_word_new_line4 | blast
+| bip_39_word_new_line_4 | blast
 garment
 present
 because |  
-| bip_39_word_new_line5 | blast
+| bip_39_word_new_line_5 | blast
 garment
 present
 because
 mention |  
-| bip_39_word_new_line6 | blast
+| bip_39_word_new_line_6 | blast
 garment
 present
 because
 mention
 link |  
-| bip_39_word_new_line7 | blast
+| bip_39_word_new_line_7 | blast
 garment
 present
 because
 mention
 link
 valid |  
-| bip_39_word_new_line8 | blast
+| bip_39_word_new_line_8 | blast
 garment
 present
 because
@@ -113,7 +113,7 @@ mention
 link
 valid
 chronic |  
-| bip_39_word_new_line9 | blast
+| bip_39_word_new_line_9 | blast
 garment
 present
 because

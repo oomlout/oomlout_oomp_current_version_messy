@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rich |  
-| bip_39_word_new_br10 | rich<br>arrange<br>feature<br>luxury<br>brown<br>planet<br>great<br>april<br>say<br>lecture |  
-| bip_39_word_new_br11 | rich<br>arrange<br>feature<br>luxury<br>brown<br>planet<br>great<br>april<br>say<br>lecture<br>install |  
-| bip_39_word_new_br12 | rich<br>arrange<br>feature<br>luxury<br>brown<br>planet<br>great<br>april<br>say<br>lecture<br>install<br>alpha |  
-| bip_39_word_new_br2 | rich<br>arrange |  
-| bip_39_word_new_br3 | rich<br>arrange<br>feature |  
-| bip_39_word_new_br4 | rich<br>arrange<br>feature<br>luxury |  
-| bip_39_word_new_br5 | rich<br>arrange<br>feature<br>luxury<br>brown |  
-| bip_39_word_new_br6 | rich<br>arrange<br>feature<br>luxury<br>brown<br>planet |  
-| bip_39_word_new_br7 | rich<br>arrange<br>feature<br>luxury<br>brown<br>planet<br>great |  
-| bip_39_word_new_br8 | rich<br>arrange<br>feature<br>luxury<br>brown<br>planet<br>great<br>april |  
-| bip_39_word_new_br9 | rich<br>arrange<br>feature<br>luxury<br>brown<br>planet<br>great<br>april<br>say |  
-| bip_39_word_new_line1 | rich |  
-| bip_39_word_new_line10 | rich
+| bip_39_word_new_br_1 | rich |  
+| bip_39_word_new_br_10 | rich<br>arrange<br>feature<br>luxury<br>brown<br>planet<br>great<br>april<br>say<br>lecture |  
+| bip_39_word_new_br_11 | rich<br>arrange<br>feature<br>luxury<br>brown<br>planet<br>great<br>april<br>say<br>lecture<br>install |  
+| bip_39_word_new_br_12 | rich<br>arrange<br>feature<br>luxury<br>brown<br>planet<br>great<br>april<br>say<br>lecture<br>install<br>alpha |  
+| bip_39_word_new_br_2 | rich<br>arrange |  
+| bip_39_word_new_br_3 | rich<br>arrange<br>feature |  
+| bip_39_word_new_br_4 | rich<br>arrange<br>feature<br>luxury |  
+| bip_39_word_new_br_5 | rich<br>arrange<br>feature<br>luxury<br>brown |  
+| bip_39_word_new_br_6 | rich<br>arrange<br>feature<br>luxury<br>brown<br>planet |  
+| bip_39_word_new_br_7 | rich<br>arrange<br>feature<br>luxury<br>brown<br>planet<br>great |  
+| bip_39_word_new_br_8 | rich<br>arrange<br>feature<br>luxury<br>brown<br>planet<br>great<br>april |  
+| bip_39_word_new_br_9 | rich<br>arrange<br>feature<br>luxury<br>brown<br>planet<br>great<br>april<br>say |  
+| bip_39_word_new_line_1 | rich |  
+| bip_39_word_new_line_10 | rich
 arrange
 feature
 luxury
@@ -55,7 +55,7 @@ great
 april
 say
 lecture |  
-| bip_39_word_new_line11 | rich
+| bip_39_word_new_line_11 | rich
 arrange
 feature
 luxury
@@ -66,7 +66,7 @@ april
 say
 lecture
 install |  
-| bip_39_word_new_line12 | rich
+| bip_39_word_new_line_12 | rich
 arrange
 feature
 luxury
@@ -78,34 +78,34 @@ say
 lecture
 install
 alpha |  
-| bip_39_word_new_line2 | rich
+| bip_39_word_new_line_2 | rich
 arrange |  
-| bip_39_word_new_line3 | rich
+| bip_39_word_new_line_3 | rich
 arrange
 feature |  
-| bip_39_word_new_line4 | rich
+| bip_39_word_new_line_4 | rich
 arrange
 feature
 luxury |  
-| bip_39_word_new_line5 | rich
+| bip_39_word_new_line_5 | rich
 arrange
 feature
 luxury
 brown |  
-| bip_39_word_new_line6 | rich
+| bip_39_word_new_line_6 | rich
 arrange
 feature
 luxury
 brown
 planet |  
-| bip_39_word_new_line7 | rich
+| bip_39_word_new_line_7 | rich
 arrange
 feature
 luxury
 brown
 planet
 great |  
-| bip_39_word_new_line8 | rich
+| bip_39_word_new_line_8 | rich
 arrange
 feature
 luxury
@@ -113,7 +113,7 @@ brown
 planet
 great
 april |  
-| bip_39_word_new_line9 | rich
+| bip_39_word_new_line_9 | rich
 arrange
 feature
 luxury

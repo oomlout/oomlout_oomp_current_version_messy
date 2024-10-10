@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | broken |  
-| bip_39_word_new_br10 | broken<br>despair<br>smooth<br>pattern<br>flip<br>usual<br>sleep<br>observe<br>punch<br>seed |  
-| bip_39_word_new_br11 | broken<br>despair<br>smooth<br>pattern<br>flip<br>usual<br>sleep<br>observe<br>punch<br>seed<br>electric |  
-| bip_39_word_new_br12 | broken<br>despair<br>smooth<br>pattern<br>flip<br>usual<br>sleep<br>observe<br>punch<br>seed<br>electric<br>avocado |  
-| bip_39_word_new_br2 | broken<br>despair |  
-| bip_39_word_new_br3 | broken<br>despair<br>smooth |  
-| bip_39_word_new_br4 | broken<br>despair<br>smooth<br>pattern |  
-| bip_39_word_new_br5 | broken<br>despair<br>smooth<br>pattern<br>flip |  
-| bip_39_word_new_br6 | broken<br>despair<br>smooth<br>pattern<br>flip<br>usual |  
-| bip_39_word_new_br7 | broken<br>despair<br>smooth<br>pattern<br>flip<br>usual<br>sleep |  
-| bip_39_word_new_br8 | broken<br>despair<br>smooth<br>pattern<br>flip<br>usual<br>sleep<br>observe |  
-| bip_39_word_new_br9 | broken<br>despair<br>smooth<br>pattern<br>flip<br>usual<br>sleep<br>observe<br>punch |  
-| bip_39_word_new_line1 | broken |  
-| bip_39_word_new_line10 | broken
+| bip_39_word_new_br_1 | broken |  
+| bip_39_word_new_br_10 | broken<br>despair<br>smooth<br>pattern<br>flip<br>usual<br>sleep<br>observe<br>punch<br>seed |  
+| bip_39_word_new_br_11 | broken<br>despair<br>smooth<br>pattern<br>flip<br>usual<br>sleep<br>observe<br>punch<br>seed<br>electric |  
+| bip_39_word_new_br_12 | broken<br>despair<br>smooth<br>pattern<br>flip<br>usual<br>sleep<br>observe<br>punch<br>seed<br>electric<br>avocado |  
+| bip_39_word_new_br_2 | broken<br>despair |  
+| bip_39_word_new_br_3 | broken<br>despair<br>smooth |  
+| bip_39_word_new_br_4 | broken<br>despair<br>smooth<br>pattern |  
+| bip_39_word_new_br_5 | broken<br>despair<br>smooth<br>pattern<br>flip |  
+| bip_39_word_new_br_6 | broken<br>despair<br>smooth<br>pattern<br>flip<br>usual |  
+| bip_39_word_new_br_7 | broken<br>despair<br>smooth<br>pattern<br>flip<br>usual<br>sleep |  
+| bip_39_word_new_br_8 | broken<br>despair<br>smooth<br>pattern<br>flip<br>usual<br>sleep<br>observe |  
+| bip_39_word_new_br_9 | broken<br>despair<br>smooth<br>pattern<br>flip<br>usual<br>sleep<br>observe<br>punch |  
+| bip_39_word_new_line_1 | broken |  
+| bip_39_word_new_line_10 | broken
 despair
 smooth
 pattern
@@ -55,7 +55,7 @@ sleep
 observe
 punch
 seed |  
-| bip_39_word_new_line11 | broken
+| bip_39_word_new_line_11 | broken
 despair
 smooth
 pattern
@@ -66,7 +66,7 @@ observe
 punch
 seed
 electric |  
-| bip_39_word_new_line12 | broken
+| bip_39_word_new_line_12 | broken
 despair
 smooth
 pattern
@@ -78,34 +78,34 @@ punch
 seed
 electric
 avocado |  
-| bip_39_word_new_line2 | broken
+| bip_39_word_new_line_2 | broken
 despair |  
-| bip_39_word_new_line3 | broken
+| bip_39_word_new_line_3 | broken
 despair
 smooth |  
-| bip_39_word_new_line4 | broken
+| bip_39_word_new_line_4 | broken
 despair
 smooth
 pattern |  
-| bip_39_word_new_line5 | broken
+| bip_39_word_new_line_5 | broken
 despair
 smooth
 pattern
 flip |  
-| bip_39_word_new_line6 | broken
+| bip_39_word_new_line_6 | broken
 despair
 smooth
 pattern
 flip
 usual |  
-| bip_39_word_new_line7 | broken
+| bip_39_word_new_line_7 | broken
 despair
 smooth
 pattern
 flip
 usual
 sleep |  
-| bip_39_word_new_line8 | broken
+| bip_39_word_new_line_8 | broken
 despair
 smooth
 pattern
@@ -113,7 +113,7 @@ flip
 usual
 sleep
 observe |  
-| bip_39_word_new_line9 | broken
+| bip_39_word_new_line_9 | broken
 despair
 smooth
 pattern

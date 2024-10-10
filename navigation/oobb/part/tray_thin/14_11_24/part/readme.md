@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | swift |  
-| bip_39_word_new_br10 | swift<br>bus<br>car<br>grape<br>name<br>awesome<br>salmon<br>analyst<br>wise<br>afford |  
-| bip_39_word_new_br11 | swift<br>bus<br>car<br>grape<br>name<br>awesome<br>salmon<br>analyst<br>wise<br>afford<br>coil |  
-| bip_39_word_new_br12 | swift<br>bus<br>car<br>grape<br>name<br>awesome<br>salmon<br>analyst<br>wise<br>afford<br>coil<br>author |  
-| bip_39_word_new_br2 | swift<br>bus |  
-| bip_39_word_new_br3 | swift<br>bus<br>car |  
-| bip_39_word_new_br4 | swift<br>bus<br>car<br>grape |  
-| bip_39_word_new_br5 | swift<br>bus<br>car<br>grape<br>name |  
-| bip_39_word_new_br6 | swift<br>bus<br>car<br>grape<br>name<br>awesome |  
-| bip_39_word_new_br7 | swift<br>bus<br>car<br>grape<br>name<br>awesome<br>salmon |  
-| bip_39_word_new_br8 | swift<br>bus<br>car<br>grape<br>name<br>awesome<br>salmon<br>analyst |  
-| bip_39_word_new_br9 | swift<br>bus<br>car<br>grape<br>name<br>awesome<br>salmon<br>analyst<br>wise |  
-| bip_39_word_new_line1 | swift |  
-| bip_39_word_new_line10 | swift
+| bip_39_word_new_br_1 | swift |  
+| bip_39_word_new_br_10 | swift<br>bus<br>car<br>grape<br>name<br>awesome<br>salmon<br>analyst<br>wise<br>afford |  
+| bip_39_word_new_br_11 | swift<br>bus<br>car<br>grape<br>name<br>awesome<br>salmon<br>analyst<br>wise<br>afford<br>coil |  
+| bip_39_word_new_br_12 | swift<br>bus<br>car<br>grape<br>name<br>awesome<br>salmon<br>analyst<br>wise<br>afford<br>coil<br>author |  
+| bip_39_word_new_br_2 | swift<br>bus |  
+| bip_39_word_new_br_3 | swift<br>bus<br>car |  
+| bip_39_word_new_br_4 | swift<br>bus<br>car<br>grape |  
+| bip_39_word_new_br_5 | swift<br>bus<br>car<br>grape<br>name |  
+| bip_39_word_new_br_6 | swift<br>bus<br>car<br>grape<br>name<br>awesome |  
+| bip_39_word_new_br_7 | swift<br>bus<br>car<br>grape<br>name<br>awesome<br>salmon |  
+| bip_39_word_new_br_8 | swift<br>bus<br>car<br>grape<br>name<br>awesome<br>salmon<br>analyst |  
+| bip_39_word_new_br_9 | swift<br>bus<br>car<br>grape<br>name<br>awesome<br>salmon<br>analyst<br>wise |  
+| bip_39_word_new_line_1 | swift |  
+| bip_39_word_new_line_10 | swift
 bus
 car
 grape
@@ -55,7 +55,7 @@ salmon
 analyst
 wise
 afford |  
-| bip_39_word_new_line11 | swift
+| bip_39_word_new_line_11 | swift
 bus
 car
 grape
@@ -66,7 +66,7 @@ analyst
 wise
 afford
 coil |  
-| bip_39_word_new_line12 | swift
+| bip_39_word_new_line_12 | swift
 bus
 car
 grape
@@ -78,34 +78,34 @@ wise
 afford
 coil
 author |  
-| bip_39_word_new_line2 | swift
+| bip_39_word_new_line_2 | swift
 bus |  
-| bip_39_word_new_line3 | swift
+| bip_39_word_new_line_3 | swift
 bus
 car |  
-| bip_39_word_new_line4 | swift
+| bip_39_word_new_line_4 | swift
 bus
 car
 grape |  
-| bip_39_word_new_line5 | swift
+| bip_39_word_new_line_5 | swift
 bus
 car
 grape
 name |  
-| bip_39_word_new_line6 | swift
+| bip_39_word_new_line_6 | swift
 bus
 car
 grape
 name
 awesome |  
-| bip_39_word_new_line7 | swift
+| bip_39_word_new_line_7 | swift
 bus
 car
 grape
 name
 awesome
 salmon |  
-| bip_39_word_new_line8 | swift
+| bip_39_word_new_line_8 | swift
 bus
 car
 grape
@@ -113,7 +113,7 @@ name
 awesome
 salmon
 analyst |  
-| bip_39_word_new_line9 | swift
+| bip_39_word_new_line_9 | swift
 bus
 car
 grape

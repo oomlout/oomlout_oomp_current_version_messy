@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | olympic |  
-| bip_39_word_new_br10 | olympic<br>marriage<br>visa<br>snack<br>farm<br>wage<br>crucial<br>rabbit<br>valve<br>bulb |  
-| bip_39_word_new_br11 | olympic<br>marriage<br>visa<br>snack<br>farm<br>wage<br>crucial<br>rabbit<br>valve<br>bulb<br>excess |  
-| bip_39_word_new_br12 | olympic<br>marriage<br>visa<br>snack<br>farm<br>wage<br>crucial<br>rabbit<br>valve<br>bulb<br>excess<br>anchor |  
-| bip_39_word_new_br2 | olympic<br>marriage |  
-| bip_39_word_new_br3 | olympic<br>marriage<br>visa |  
-| bip_39_word_new_br4 | olympic<br>marriage<br>visa<br>snack |  
-| bip_39_word_new_br5 | olympic<br>marriage<br>visa<br>snack<br>farm |  
-| bip_39_word_new_br6 | olympic<br>marriage<br>visa<br>snack<br>farm<br>wage |  
-| bip_39_word_new_br7 | olympic<br>marriage<br>visa<br>snack<br>farm<br>wage<br>crucial |  
-| bip_39_word_new_br8 | olympic<br>marriage<br>visa<br>snack<br>farm<br>wage<br>crucial<br>rabbit |  
-| bip_39_word_new_br9 | olympic<br>marriage<br>visa<br>snack<br>farm<br>wage<br>crucial<br>rabbit<br>valve |  
-| bip_39_word_new_line1 | olympic |  
-| bip_39_word_new_line10 | olympic
+| bip_39_word_new_br_1 | olympic |  
+| bip_39_word_new_br_10 | olympic<br>marriage<br>visa<br>snack<br>farm<br>wage<br>crucial<br>rabbit<br>valve<br>bulb |  
+| bip_39_word_new_br_11 | olympic<br>marriage<br>visa<br>snack<br>farm<br>wage<br>crucial<br>rabbit<br>valve<br>bulb<br>excess |  
+| bip_39_word_new_br_12 | olympic<br>marriage<br>visa<br>snack<br>farm<br>wage<br>crucial<br>rabbit<br>valve<br>bulb<br>excess<br>anchor |  
+| bip_39_word_new_br_2 | olympic<br>marriage |  
+| bip_39_word_new_br_3 | olympic<br>marriage<br>visa |  
+| bip_39_word_new_br_4 | olympic<br>marriage<br>visa<br>snack |  
+| bip_39_word_new_br_5 | olympic<br>marriage<br>visa<br>snack<br>farm |  
+| bip_39_word_new_br_6 | olympic<br>marriage<br>visa<br>snack<br>farm<br>wage |  
+| bip_39_word_new_br_7 | olympic<br>marriage<br>visa<br>snack<br>farm<br>wage<br>crucial |  
+| bip_39_word_new_br_8 | olympic<br>marriage<br>visa<br>snack<br>farm<br>wage<br>crucial<br>rabbit |  
+| bip_39_word_new_br_9 | olympic<br>marriage<br>visa<br>snack<br>farm<br>wage<br>crucial<br>rabbit<br>valve |  
+| bip_39_word_new_line_1 | olympic |  
+| bip_39_word_new_line_10 | olympic
 marriage
 visa
 snack
@@ -55,7 +55,7 @@ crucial
 rabbit
 valve
 bulb |  
-| bip_39_word_new_line11 | olympic
+| bip_39_word_new_line_11 | olympic
 marriage
 visa
 snack
@@ -66,7 +66,7 @@ rabbit
 valve
 bulb
 excess |  
-| bip_39_word_new_line12 | olympic
+| bip_39_word_new_line_12 | olympic
 marriage
 visa
 snack
@@ -78,34 +78,34 @@ valve
 bulb
 excess
 anchor |  
-| bip_39_word_new_line2 | olympic
+| bip_39_word_new_line_2 | olympic
 marriage |  
-| bip_39_word_new_line3 | olympic
+| bip_39_word_new_line_3 | olympic
 marriage
 visa |  
-| bip_39_word_new_line4 | olympic
+| bip_39_word_new_line_4 | olympic
 marriage
 visa
 snack |  
-| bip_39_word_new_line5 | olympic
+| bip_39_word_new_line_5 | olympic
 marriage
 visa
 snack
 farm |  
-| bip_39_word_new_line6 | olympic
+| bip_39_word_new_line_6 | olympic
 marriage
 visa
 snack
 farm
 wage |  
-| bip_39_word_new_line7 | olympic
+| bip_39_word_new_line_7 | olympic
 marriage
 visa
 snack
 farm
 wage
 crucial |  
-| bip_39_word_new_line8 | olympic
+| bip_39_word_new_line_8 | olympic
 marriage
 visa
 snack
@@ -113,7 +113,7 @@ farm
 wage
 crucial
 rabbit |  
-| bip_39_word_new_line9 | olympic
+| bip_39_word_new_line_9 | olympic
 marriage
 visa
 snack

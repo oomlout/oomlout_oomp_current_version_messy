@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | clown |  
-| bip_39_word_new_br10 | clown<br>ketchup<br>garbage<br>hill<br>wish<br>shiver<br>spawn<br>acquire<br>dust<br>pipe |  
-| bip_39_word_new_br11 | clown<br>ketchup<br>garbage<br>hill<br>wish<br>shiver<br>spawn<br>acquire<br>dust<br>pipe<br>infant |  
-| bip_39_word_new_br12 | clown<br>ketchup<br>garbage<br>hill<br>wish<br>shiver<br>spawn<br>acquire<br>dust<br>pipe<br>infant<br>actual |  
-| bip_39_word_new_br2 | clown<br>ketchup |  
-| bip_39_word_new_br3 | clown<br>ketchup<br>garbage |  
-| bip_39_word_new_br4 | clown<br>ketchup<br>garbage<br>hill |  
-| bip_39_word_new_br5 | clown<br>ketchup<br>garbage<br>hill<br>wish |  
-| bip_39_word_new_br6 | clown<br>ketchup<br>garbage<br>hill<br>wish<br>shiver |  
-| bip_39_word_new_br7 | clown<br>ketchup<br>garbage<br>hill<br>wish<br>shiver<br>spawn |  
-| bip_39_word_new_br8 | clown<br>ketchup<br>garbage<br>hill<br>wish<br>shiver<br>spawn<br>acquire |  
-| bip_39_word_new_br9 | clown<br>ketchup<br>garbage<br>hill<br>wish<br>shiver<br>spawn<br>acquire<br>dust |  
-| bip_39_word_new_line1 | clown |  
-| bip_39_word_new_line10 | clown
+| bip_39_word_new_br_1 | clown |  
+| bip_39_word_new_br_10 | clown<br>ketchup<br>garbage<br>hill<br>wish<br>shiver<br>spawn<br>acquire<br>dust<br>pipe |  
+| bip_39_word_new_br_11 | clown<br>ketchup<br>garbage<br>hill<br>wish<br>shiver<br>spawn<br>acquire<br>dust<br>pipe<br>infant |  
+| bip_39_word_new_br_12 | clown<br>ketchup<br>garbage<br>hill<br>wish<br>shiver<br>spawn<br>acquire<br>dust<br>pipe<br>infant<br>actual |  
+| bip_39_word_new_br_2 | clown<br>ketchup |  
+| bip_39_word_new_br_3 | clown<br>ketchup<br>garbage |  
+| bip_39_word_new_br_4 | clown<br>ketchup<br>garbage<br>hill |  
+| bip_39_word_new_br_5 | clown<br>ketchup<br>garbage<br>hill<br>wish |  
+| bip_39_word_new_br_6 | clown<br>ketchup<br>garbage<br>hill<br>wish<br>shiver |  
+| bip_39_word_new_br_7 | clown<br>ketchup<br>garbage<br>hill<br>wish<br>shiver<br>spawn |  
+| bip_39_word_new_br_8 | clown<br>ketchup<br>garbage<br>hill<br>wish<br>shiver<br>spawn<br>acquire |  
+| bip_39_word_new_br_9 | clown<br>ketchup<br>garbage<br>hill<br>wish<br>shiver<br>spawn<br>acquire<br>dust |  
+| bip_39_word_new_line_1 | clown |  
+| bip_39_word_new_line_10 | clown
 ketchup
 garbage
 hill
@@ -55,7 +55,7 @@ spawn
 acquire
 dust
 pipe |  
-| bip_39_word_new_line11 | clown
+| bip_39_word_new_line_11 | clown
 ketchup
 garbage
 hill
@@ -66,7 +66,7 @@ acquire
 dust
 pipe
 infant |  
-| bip_39_word_new_line12 | clown
+| bip_39_word_new_line_12 | clown
 ketchup
 garbage
 hill
@@ -78,34 +78,34 @@ dust
 pipe
 infant
 actual |  
-| bip_39_word_new_line2 | clown
+| bip_39_word_new_line_2 | clown
 ketchup |  
-| bip_39_word_new_line3 | clown
+| bip_39_word_new_line_3 | clown
 ketchup
 garbage |  
-| bip_39_word_new_line4 | clown
+| bip_39_word_new_line_4 | clown
 ketchup
 garbage
 hill |  
-| bip_39_word_new_line5 | clown
+| bip_39_word_new_line_5 | clown
 ketchup
 garbage
 hill
 wish |  
-| bip_39_word_new_line6 | clown
+| bip_39_word_new_line_6 | clown
 ketchup
 garbage
 hill
 wish
 shiver |  
-| bip_39_word_new_line7 | clown
+| bip_39_word_new_line_7 | clown
 ketchup
 garbage
 hill
 wish
 shiver
 spawn |  
-| bip_39_word_new_line8 | clown
+| bip_39_word_new_line_8 | clown
 ketchup
 garbage
 hill
@@ -113,7 +113,7 @@ wish
 shiver
 spawn
 acquire |  
-| bip_39_word_new_line9 | clown
+| bip_39_word_new_line_9 | clown
 ketchup
 garbage
 hill

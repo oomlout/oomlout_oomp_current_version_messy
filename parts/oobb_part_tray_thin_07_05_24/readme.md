@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | tragic |  
-| bip_39_word_new_br10 | tragic<br>dial<br>reflect<br>crop<br>visit<br>cash<br>helmet<br>autumn<br>fix<br>dawn |  
-| bip_39_word_new_br11 | tragic<br>dial<br>reflect<br>crop<br>visit<br>cash<br>helmet<br>autumn<br>fix<br>dawn<br>throw |  
-| bip_39_word_new_br12 | tragic<br>dial<br>reflect<br>crop<br>visit<br>cash<br>helmet<br>autumn<br>fix<br>dawn<br>throw<br>adapt |  
-| bip_39_word_new_br2 | tragic<br>dial |  
-| bip_39_word_new_br3 | tragic<br>dial<br>reflect |  
-| bip_39_word_new_br4 | tragic<br>dial<br>reflect<br>crop |  
-| bip_39_word_new_br5 | tragic<br>dial<br>reflect<br>crop<br>visit |  
-| bip_39_word_new_br6 | tragic<br>dial<br>reflect<br>crop<br>visit<br>cash |  
-| bip_39_word_new_br7 | tragic<br>dial<br>reflect<br>crop<br>visit<br>cash<br>helmet |  
-| bip_39_word_new_br8 | tragic<br>dial<br>reflect<br>crop<br>visit<br>cash<br>helmet<br>autumn |  
-| bip_39_word_new_br9 | tragic<br>dial<br>reflect<br>crop<br>visit<br>cash<br>helmet<br>autumn<br>fix |  
-| bip_39_word_new_line1 | tragic |  
-| bip_39_word_new_line10 | tragic
+| bip_39_word_new_br_1 | tragic |  
+| bip_39_word_new_br_10 | tragic<br>dial<br>reflect<br>crop<br>visit<br>cash<br>helmet<br>autumn<br>fix<br>dawn |  
+| bip_39_word_new_br_11 | tragic<br>dial<br>reflect<br>crop<br>visit<br>cash<br>helmet<br>autumn<br>fix<br>dawn<br>throw |  
+| bip_39_word_new_br_12 | tragic<br>dial<br>reflect<br>crop<br>visit<br>cash<br>helmet<br>autumn<br>fix<br>dawn<br>throw<br>adapt |  
+| bip_39_word_new_br_2 | tragic<br>dial |  
+| bip_39_word_new_br_3 | tragic<br>dial<br>reflect |  
+| bip_39_word_new_br_4 | tragic<br>dial<br>reflect<br>crop |  
+| bip_39_word_new_br_5 | tragic<br>dial<br>reflect<br>crop<br>visit |  
+| bip_39_word_new_br_6 | tragic<br>dial<br>reflect<br>crop<br>visit<br>cash |  
+| bip_39_word_new_br_7 | tragic<br>dial<br>reflect<br>crop<br>visit<br>cash<br>helmet |  
+| bip_39_word_new_br_8 | tragic<br>dial<br>reflect<br>crop<br>visit<br>cash<br>helmet<br>autumn |  
+| bip_39_word_new_br_9 | tragic<br>dial<br>reflect<br>crop<br>visit<br>cash<br>helmet<br>autumn<br>fix |  
+| bip_39_word_new_line_1 | tragic |  
+| bip_39_word_new_line_10 | tragic
 dial
 reflect
 crop
@@ -55,7 +55,7 @@ helmet
 autumn
 fix
 dawn |  
-| bip_39_word_new_line11 | tragic
+| bip_39_word_new_line_11 | tragic
 dial
 reflect
 crop
@@ -66,7 +66,7 @@ autumn
 fix
 dawn
 throw |  
-| bip_39_word_new_line12 | tragic
+| bip_39_word_new_line_12 | tragic
 dial
 reflect
 crop
@@ -78,34 +78,34 @@ fix
 dawn
 throw
 adapt |  
-| bip_39_word_new_line2 | tragic
+| bip_39_word_new_line_2 | tragic
 dial |  
-| bip_39_word_new_line3 | tragic
+| bip_39_word_new_line_3 | tragic
 dial
 reflect |  
-| bip_39_word_new_line4 | tragic
+| bip_39_word_new_line_4 | tragic
 dial
 reflect
 crop |  
-| bip_39_word_new_line5 | tragic
+| bip_39_word_new_line_5 | tragic
 dial
 reflect
 crop
 visit |  
-| bip_39_word_new_line6 | tragic
+| bip_39_word_new_line_6 | tragic
 dial
 reflect
 crop
 visit
 cash |  
-| bip_39_word_new_line7 | tragic
+| bip_39_word_new_line_7 | tragic
 dial
 reflect
 crop
 visit
 cash
 helmet |  
-| bip_39_word_new_line8 | tragic
+| bip_39_word_new_line_8 | tragic
 dial
 reflect
 crop
@@ -113,7 +113,7 @@ visit
 cash
 helmet
 autumn |  
-| bip_39_word_new_line9 | tragic
+| bip_39_word_new_line_9 | tragic
 dial
 reflect
 crop

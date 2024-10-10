@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sight |  
-| bip_39_word_new_br10 | sight<br>any<br>boss<br>travel<br>install<br>hurt<br>render<br>area<br>another<br>twelve |  
-| bip_39_word_new_br11 | sight<br>any<br>boss<br>travel<br>install<br>hurt<br>render<br>area<br>another<br>twelve<br>arrive |  
-| bip_39_word_new_br12 | sight<br>any<br>boss<br>travel<br>install<br>hurt<br>render<br>area<br>another<br>twelve<br>arrive<br>announce |  
-| bip_39_word_new_br2 | sight<br>any |  
-| bip_39_word_new_br3 | sight<br>any<br>boss |  
-| bip_39_word_new_br4 | sight<br>any<br>boss<br>travel |  
-| bip_39_word_new_br5 | sight<br>any<br>boss<br>travel<br>install |  
-| bip_39_word_new_br6 | sight<br>any<br>boss<br>travel<br>install<br>hurt |  
-| bip_39_word_new_br7 | sight<br>any<br>boss<br>travel<br>install<br>hurt<br>render |  
-| bip_39_word_new_br8 | sight<br>any<br>boss<br>travel<br>install<br>hurt<br>render<br>area |  
-| bip_39_word_new_br9 | sight<br>any<br>boss<br>travel<br>install<br>hurt<br>render<br>area<br>another |  
-| bip_39_word_new_line1 | sight |  
-| bip_39_word_new_line10 | sight
+| bip_39_word_new_br_1 | sight |  
+| bip_39_word_new_br_10 | sight<br>any<br>boss<br>travel<br>install<br>hurt<br>render<br>area<br>another<br>twelve |  
+| bip_39_word_new_br_11 | sight<br>any<br>boss<br>travel<br>install<br>hurt<br>render<br>area<br>another<br>twelve<br>arrive |  
+| bip_39_word_new_br_12 | sight<br>any<br>boss<br>travel<br>install<br>hurt<br>render<br>area<br>another<br>twelve<br>arrive<br>announce |  
+| bip_39_word_new_br_2 | sight<br>any |  
+| bip_39_word_new_br_3 | sight<br>any<br>boss |  
+| bip_39_word_new_br_4 | sight<br>any<br>boss<br>travel |  
+| bip_39_word_new_br_5 | sight<br>any<br>boss<br>travel<br>install |  
+| bip_39_word_new_br_6 | sight<br>any<br>boss<br>travel<br>install<br>hurt |  
+| bip_39_word_new_br_7 | sight<br>any<br>boss<br>travel<br>install<br>hurt<br>render |  
+| bip_39_word_new_br_8 | sight<br>any<br>boss<br>travel<br>install<br>hurt<br>render<br>area |  
+| bip_39_word_new_br_9 | sight<br>any<br>boss<br>travel<br>install<br>hurt<br>render<br>area<br>another |  
+| bip_39_word_new_line_1 | sight |  
+| bip_39_word_new_line_10 | sight
 any
 boss
 travel
@@ -55,7 +55,7 @@ render
 area
 another
 twelve |  
-| bip_39_word_new_line11 | sight
+| bip_39_word_new_line_11 | sight
 any
 boss
 travel
@@ -66,7 +66,7 @@ area
 another
 twelve
 arrive |  
-| bip_39_word_new_line12 | sight
+| bip_39_word_new_line_12 | sight
 any
 boss
 travel
@@ -78,34 +78,34 @@ another
 twelve
 arrive
 announce |  
-| bip_39_word_new_line2 | sight
+| bip_39_word_new_line_2 | sight
 any |  
-| bip_39_word_new_line3 | sight
+| bip_39_word_new_line_3 | sight
 any
 boss |  
-| bip_39_word_new_line4 | sight
+| bip_39_word_new_line_4 | sight
 any
 boss
 travel |  
-| bip_39_word_new_line5 | sight
+| bip_39_word_new_line_5 | sight
 any
 boss
 travel
 install |  
-| bip_39_word_new_line6 | sight
+| bip_39_word_new_line_6 | sight
 any
 boss
 travel
 install
 hurt |  
-| bip_39_word_new_line7 | sight
+| bip_39_word_new_line_7 | sight
 any
 boss
 travel
 install
 hurt
 render |  
-| bip_39_word_new_line8 | sight
+| bip_39_word_new_line_8 | sight
 any
 boss
 travel
@@ -113,7 +113,7 @@ install
 hurt
 render
 area |  
-| bip_39_word_new_line9 | sight
+| bip_39_word_new_line_9 | sight
 any
 boss
 travel

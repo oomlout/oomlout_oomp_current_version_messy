@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fitness |  
-| bip_39_word_new_br10 | fitness<br>subway<br>ridge<br>seed<br>outdoor<br>shift<br>furnace<br>ladder<br>rival<br>rail |  
-| bip_39_word_new_br11 | fitness<br>subway<br>ridge<br>seed<br>outdoor<br>shift<br>furnace<br>ladder<br>rival<br>rail<br>glass |  
-| bip_39_word_new_br12 | fitness<br>subway<br>ridge<br>seed<br>outdoor<br>shift<br>furnace<br>ladder<br>rival<br>rail<br>glass<br>account |  
-| bip_39_word_new_br2 | fitness<br>subway |  
-| bip_39_word_new_br3 | fitness<br>subway<br>ridge |  
-| bip_39_word_new_br4 | fitness<br>subway<br>ridge<br>seed |  
-| bip_39_word_new_br5 | fitness<br>subway<br>ridge<br>seed<br>outdoor |  
-| bip_39_word_new_br6 | fitness<br>subway<br>ridge<br>seed<br>outdoor<br>shift |  
-| bip_39_word_new_br7 | fitness<br>subway<br>ridge<br>seed<br>outdoor<br>shift<br>furnace |  
-| bip_39_word_new_br8 | fitness<br>subway<br>ridge<br>seed<br>outdoor<br>shift<br>furnace<br>ladder |  
-| bip_39_word_new_br9 | fitness<br>subway<br>ridge<br>seed<br>outdoor<br>shift<br>furnace<br>ladder<br>rival |  
-| bip_39_word_new_line1 | fitness |  
-| bip_39_word_new_line10 | fitness
+| bip_39_word_new_br_1 | fitness |  
+| bip_39_word_new_br_10 | fitness<br>subway<br>ridge<br>seed<br>outdoor<br>shift<br>furnace<br>ladder<br>rival<br>rail |  
+| bip_39_word_new_br_11 | fitness<br>subway<br>ridge<br>seed<br>outdoor<br>shift<br>furnace<br>ladder<br>rival<br>rail<br>glass |  
+| bip_39_word_new_br_12 | fitness<br>subway<br>ridge<br>seed<br>outdoor<br>shift<br>furnace<br>ladder<br>rival<br>rail<br>glass<br>account |  
+| bip_39_word_new_br_2 | fitness<br>subway |  
+| bip_39_word_new_br_3 | fitness<br>subway<br>ridge |  
+| bip_39_word_new_br_4 | fitness<br>subway<br>ridge<br>seed |  
+| bip_39_word_new_br_5 | fitness<br>subway<br>ridge<br>seed<br>outdoor |  
+| bip_39_word_new_br_6 | fitness<br>subway<br>ridge<br>seed<br>outdoor<br>shift |  
+| bip_39_word_new_br_7 | fitness<br>subway<br>ridge<br>seed<br>outdoor<br>shift<br>furnace |  
+| bip_39_word_new_br_8 | fitness<br>subway<br>ridge<br>seed<br>outdoor<br>shift<br>furnace<br>ladder |  
+| bip_39_word_new_br_9 | fitness<br>subway<br>ridge<br>seed<br>outdoor<br>shift<br>furnace<br>ladder<br>rival |  
+| bip_39_word_new_line_1 | fitness |  
+| bip_39_word_new_line_10 | fitness
 subway
 ridge
 seed
@@ -55,7 +55,7 @@ furnace
 ladder
 rival
 rail |  
-| bip_39_word_new_line11 | fitness
+| bip_39_word_new_line_11 | fitness
 subway
 ridge
 seed
@@ -66,7 +66,7 @@ ladder
 rival
 rail
 glass |  
-| bip_39_word_new_line12 | fitness
+| bip_39_word_new_line_12 | fitness
 subway
 ridge
 seed
@@ -78,34 +78,34 @@ rival
 rail
 glass
 account |  
-| bip_39_word_new_line2 | fitness
+| bip_39_word_new_line_2 | fitness
 subway |  
-| bip_39_word_new_line3 | fitness
+| bip_39_word_new_line_3 | fitness
 subway
 ridge |  
-| bip_39_word_new_line4 | fitness
+| bip_39_word_new_line_4 | fitness
 subway
 ridge
 seed |  
-| bip_39_word_new_line5 | fitness
+| bip_39_word_new_line_5 | fitness
 subway
 ridge
 seed
 outdoor |  
-| bip_39_word_new_line6 | fitness
+| bip_39_word_new_line_6 | fitness
 subway
 ridge
 seed
 outdoor
 shift |  
-| bip_39_word_new_line7 | fitness
+| bip_39_word_new_line_7 | fitness
 subway
 ridge
 seed
 outdoor
 shift
 furnace |  
-| bip_39_word_new_line8 | fitness
+| bip_39_word_new_line_8 | fitness
 subway
 ridge
 seed
@@ -113,7 +113,7 @@ outdoor
 shift
 furnace
 ladder |  
-| bip_39_word_new_line9 | fitness
+| bip_39_word_new_line_9 | fitness
 subway
 ridge
 seed

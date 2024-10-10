@@ -1,17 +1,17 @@
-bip_39_word_new_br1: sorry
-bip_39_word_new_br10: sorry<br>vague<br>start<br>trash<br>clutch<br>camp<br>bounce<br>super<br>type<br>strike
-bip_39_word_new_br11: sorry<br>vague<br>start<br>trash<br>clutch<br>camp<br>bounce<br>super<br>type<br>strike<br>survey
-bip_39_word_new_br12: sorry<br>vague<br>start<br>trash<br>clutch<br>camp<br>bounce<br>super<br>type<br>strike<br>survey<br>absurd
-bip_39_word_new_br2: sorry<br>vague
-bip_39_word_new_br3: sorry<br>vague<br>start
-bip_39_word_new_br4: sorry<br>vague<br>start<br>trash
-bip_39_word_new_br5: sorry<br>vague<br>start<br>trash<br>clutch
-bip_39_word_new_br6: sorry<br>vague<br>start<br>trash<br>clutch<br>camp
-bip_39_word_new_br7: sorry<br>vague<br>start<br>trash<br>clutch<br>camp<br>bounce
-bip_39_word_new_br8: sorry<br>vague<br>start<br>trash<br>clutch<br>camp<br>bounce<br>super
-bip_39_word_new_br9: sorry<br>vague<br>start<br>trash<br>clutch<br>camp<br>bounce<br>super<br>type
-bip_39_word_new_line1: sorry
-bip_39_word_new_line10: 'sorry
+bip_39_word_new_br_1: sorry
+bip_39_word_new_br_10: sorry<br>vague<br>start<br>trash<br>clutch<br>camp<br>bounce<br>super<br>type<br>strike
+bip_39_word_new_br_11: sorry<br>vague<br>start<br>trash<br>clutch<br>camp<br>bounce<br>super<br>type<br>strike<br>survey
+bip_39_word_new_br_12: sorry<br>vague<br>start<br>trash<br>clutch<br>camp<br>bounce<br>super<br>type<br>strike<br>survey<br>absurd
+bip_39_word_new_br_2: sorry<br>vague
+bip_39_word_new_br_3: sorry<br>vague<br>start
+bip_39_word_new_br_4: sorry<br>vague<br>start<br>trash
+bip_39_word_new_br_5: sorry<br>vague<br>start<br>trash<br>clutch
+bip_39_word_new_br_6: sorry<br>vague<br>start<br>trash<br>clutch<br>camp
+bip_39_word_new_br_7: sorry<br>vague<br>start<br>trash<br>clutch<br>camp<br>bounce
+bip_39_word_new_br_8: sorry<br>vague<br>start<br>trash<br>clutch<br>camp<br>bounce<br>super
+bip_39_word_new_br_9: sorry<br>vague<br>start<br>trash<br>clutch<br>camp<br>bounce<br>super<br>type
+bip_39_word_new_line_1: sorry
+bip_39_word_new_line_10: 'sorry
 
   vague
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'sorry
   type
 
   strike'
-bip_39_word_new_line11: 'sorry
+bip_39_word_new_line_11: 'sorry
 
   vague
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'sorry
   strike
 
   survey'
-bip_39_word_new_line12: 'sorry
+bip_39_word_new_line_12: 'sorry
 
   vague
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'sorry
   survey
 
   absurd'
-bip_39_word_new_line2: 'sorry
+bip_39_word_new_line_2: 'sorry
 
   vague'
-bip_39_word_new_line3: 'sorry
+bip_39_word_new_line_3: 'sorry
 
   vague
 
   start'
-bip_39_word_new_line4: 'sorry
+bip_39_word_new_line_4: 'sorry
 
   vague
 
   start
 
   trash'
-bip_39_word_new_line5: 'sorry
+bip_39_word_new_line_5: 'sorry
 
   vague
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'sorry
   trash
 
   clutch'
-bip_39_word_new_line6: 'sorry
+bip_39_word_new_line_6: 'sorry
 
   vague
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'sorry
   clutch
 
   camp'
-bip_39_word_new_line7: 'sorry
+bip_39_word_new_line_7: 'sorry
 
   vague
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'sorry
   camp
 
   bounce'
-bip_39_word_new_line8: 'sorry
+bip_39_word_new_line_8: 'sorry
 
   vague
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'sorry
   bounce
 
   super'
-bip_39_word_new_line9: 'sorry
+bip_39_word_new_line_9: 'sorry
 
   vague
 

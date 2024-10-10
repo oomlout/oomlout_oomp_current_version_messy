@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | foot |  
-| bip_39_word_new_br10 | foot<br>other<br>gather<br>south<br>number<br>eyebrow<br>outer<br>riot<br>pride<br>dose |  
-| bip_39_word_new_br11 | foot<br>other<br>gather<br>south<br>number<br>eyebrow<br>outer<br>riot<br>pride<br>dose<br>morning |  
-| bip_39_word_new_br12 | foot<br>other<br>gather<br>south<br>number<br>eyebrow<br>outer<br>riot<br>pride<br>dose<br>morning<br>arrow |  
-| bip_39_word_new_br2 | foot<br>other |  
-| bip_39_word_new_br3 | foot<br>other<br>gather |  
-| bip_39_word_new_br4 | foot<br>other<br>gather<br>south |  
-| bip_39_word_new_br5 | foot<br>other<br>gather<br>south<br>number |  
-| bip_39_word_new_br6 | foot<br>other<br>gather<br>south<br>number<br>eyebrow |  
-| bip_39_word_new_br7 | foot<br>other<br>gather<br>south<br>number<br>eyebrow<br>outer |  
-| bip_39_word_new_br8 | foot<br>other<br>gather<br>south<br>number<br>eyebrow<br>outer<br>riot |  
-| bip_39_word_new_br9 | foot<br>other<br>gather<br>south<br>number<br>eyebrow<br>outer<br>riot<br>pride |  
-| bip_39_word_new_line1 | foot |  
-| bip_39_word_new_line10 | foot
+| bip_39_word_new_br_1 | foot |  
+| bip_39_word_new_br_10 | foot<br>other<br>gather<br>south<br>number<br>eyebrow<br>outer<br>riot<br>pride<br>dose |  
+| bip_39_word_new_br_11 | foot<br>other<br>gather<br>south<br>number<br>eyebrow<br>outer<br>riot<br>pride<br>dose<br>morning |  
+| bip_39_word_new_br_12 | foot<br>other<br>gather<br>south<br>number<br>eyebrow<br>outer<br>riot<br>pride<br>dose<br>morning<br>arrow |  
+| bip_39_word_new_br_2 | foot<br>other |  
+| bip_39_word_new_br_3 | foot<br>other<br>gather |  
+| bip_39_word_new_br_4 | foot<br>other<br>gather<br>south |  
+| bip_39_word_new_br_5 | foot<br>other<br>gather<br>south<br>number |  
+| bip_39_word_new_br_6 | foot<br>other<br>gather<br>south<br>number<br>eyebrow |  
+| bip_39_word_new_br_7 | foot<br>other<br>gather<br>south<br>number<br>eyebrow<br>outer |  
+| bip_39_word_new_br_8 | foot<br>other<br>gather<br>south<br>number<br>eyebrow<br>outer<br>riot |  
+| bip_39_word_new_br_9 | foot<br>other<br>gather<br>south<br>number<br>eyebrow<br>outer<br>riot<br>pride |  
+| bip_39_word_new_line_1 | foot |  
+| bip_39_word_new_line_10 | foot
 other
 gather
 south
@@ -55,7 +55,7 @@ outer
 riot
 pride
 dose |  
-| bip_39_word_new_line11 | foot
+| bip_39_word_new_line_11 | foot
 other
 gather
 south
@@ -66,7 +66,7 @@ riot
 pride
 dose
 morning |  
-| bip_39_word_new_line12 | foot
+| bip_39_word_new_line_12 | foot
 other
 gather
 south
@@ -78,34 +78,34 @@ pride
 dose
 morning
 arrow |  
-| bip_39_word_new_line2 | foot
+| bip_39_word_new_line_2 | foot
 other |  
-| bip_39_word_new_line3 | foot
+| bip_39_word_new_line_3 | foot
 other
 gather |  
-| bip_39_word_new_line4 | foot
+| bip_39_word_new_line_4 | foot
 other
 gather
 south |  
-| bip_39_word_new_line5 | foot
+| bip_39_word_new_line_5 | foot
 other
 gather
 south
 number |  
-| bip_39_word_new_line6 | foot
+| bip_39_word_new_line_6 | foot
 other
 gather
 south
 number
 eyebrow |  
-| bip_39_word_new_line7 | foot
+| bip_39_word_new_line_7 | foot
 other
 gather
 south
 number
 eyebrow
 outer |  
-| bip_39_word_new_line8 | foot
+| bip_39_word_new_line_8 | foot
 other
 gather
 south
@@ -113,7 +113,7 @@ number
 eyebrow
 outer
 riot |  
-| bip_39_word_new_line9 | foot
+| bip_39_word_new_line_9 | foot
 other
 gather
 south

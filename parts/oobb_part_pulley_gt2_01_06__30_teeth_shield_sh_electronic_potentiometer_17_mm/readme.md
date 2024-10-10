@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | scout |  
-| bip_39_word_new_br10 | scout<br>citizen<br>sauce<br>pool<br>hawk<br>annual<br>prefer<br>alcohol<br>skin<br>fortune |  
-| bip_39_word_new_br11 | scout<br>citizen<br>sauce<br>pool<br>hawk<br>annual<br>prefer<br>alcohol<br>skin<br>fortune<br>combine |  
-| bip_39_word_new_br12 | scout<br>citizen<br>sauce<br>pool<br>hawk<br>annual<br>prefer<br>alcohol<br>skin<br>fortune<br>combine<br>abuse |  
-| bip_39_word_new_br2 | scout<br>citizen |  
-| bip_39_word_new_br3 | scout<br>citizen<br>sauce |  
-| bip_39_word_new_br4 | scout<br>citizen<br>sauce<br>pool |  
-| bip_39_word_new_br5 | scout<br>citizen<br>sauce<br>pool<br>hawk |  
-| bip_39_word_new_br6 | scout<br>citizen<br>sauce<br>pool<br>hawk<br>annual |  
-| bip_39_word_new_br7 | scout<br>citizen<br>sauce<br>pool<br>hawk<br>annual<br>prefer |  
-| bip_39_word_new_br8 | scout<br>citizen<br>sauce<br>pool<br>hawk<br>annual<br>prefer<br>alcohol |  
-| bip_39_word_new_br9 | scout<br>citizen<br>sauce<br>pool<br>hawk<br>annual<br>prefer<br>alcohol<br>skin |  
-| bip_39_word_new_line1 | scout |  
-| bip_39_word_new_line10 | scout
+| bip_39_word_new_br_1 | scout |  
+| bip_39_word_new_br_10 | scout<br>citizen<br>sauce<br>pool<br>hawk<br>annual<br>prefer<br>alcohol<br>skin<br>fortune |  
+| bip_39_word_new_br_11 | scout<br>citizen<br>sauce<br>pool<br>hawk<br>annual<br>prefer<br>alcohol<br>skin<br>fortune<br>combine |  
+| bip_39_word_new_br_12 | scout<br>citizen<br>sauce<br>pool<br>hawk<br>annual<br>prefer<br>alcohol<br>skin<br>fortune<br>combine<br>abuse |  
+| bip_39_word_new_br_2 | scout<br>citizen |  
+| bip_39_word_new_br_3 | scout<br>citizen<br>sauce |  
+| bip_39_word_new_br_4 | scout<br>citizen<br>sauce<br>pool |  
+| bip_39_word_new_br_5 | scout<br>citizen<br>sauce<br>pool<br>hawk |  
+| bip_39_word_new_br_6 | scout<br>citizen<br>sauce<br>pool<br>hawk<br>annual |  
+| bip_39_word_new_br_7 | scout<br>citizen<br>sauce<br>pool<br>hawk<br>annual<br>prefer |  
+| bip_39_word_new_br_8 | scout<br>citizen<br>sauce<br>pool<br>hawk<br>annual<br>prefer<br>alcohol |  
+| bip_39_word_new_br_9 | scout<br>citizen<br>sauce<br>pool<br>hawk<br>annual<br>prefer<br>alcohol<br>skin |  
+| bip_39_word_new_line_1 | scout |  
+| bip_39_word_new_line_10 | scout
 citizen
 sauce
 pool
@@ -55,7 +55,7 @@ prefer
 alcohol
 skin
 fortune |  
-| bip_39_word_new_line11 | scout
+| bip_39_word_new_line_11 | scout
 citizen
 sauce
 pool
@@ -66,7 +66,7 @@ alcohol
 skin
 fortune
 combine |  
-| bip_39_word_new_line12 | scout
+| bip_39_word_new_line_12 | scout
 citizen
 sauce
 pool
@@ -78,34 +78,34 @@ skin
 fortune
 combine
 abuse |  
-| bip_39_word_new_line2 | scout
+| bip_39_word_new_line_2 | scout
 citizen |  
-| bip_39_word_new_line3 | scout
+| bip_39_word_new_line_3 | scout
 citizen
 sauce |  
-| bip_39_word_new_line4 | scout
+| bip_39_word_new_line_4 | scout
 citizen
 sauce
 pool |  
-| bip_39_word_new_line5 | scout
+| bip_39_word_new_line_5 | scout
 citizen
 sauce
 pool
 hawk |  
-| bip_39_word_new_line6 | scout
+| bip_39_word_new_line_6 | scout
 citizen
 sauce
 pool
 hawk
 annual |  
-| bip_39_word_new_line7 | scout
+| bip_39_word_new_line_7 | scout
 citizen
 sauce
 pool
 hawk
 annual
 prefer |  
-| bip_39_word_new_line8 | scout
+| bip_39_word_new_line_8 | scout
 citizen
 sauce
 pool
@@ -113,7 +113,7 @@ hawk
 annual
 prefer
 alcohol |  
-| bip_39_word_new_line9 | scout
+| bip_39_word_new_line_9 | scout
 citizen
 sauce
 pool

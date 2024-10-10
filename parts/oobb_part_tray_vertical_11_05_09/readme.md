@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | price |  
-| bip_39_word_new_br10 | price<br>purity<br>wrestle<br>supreme<br>myth<br>ramp<br>guitar<br>hedgehog<br>upper<br>enjoy |  
-| bip_39_word_new_br11 | price<br>purity<br>wrestle<br>supreme<br>myth<br>ramp<br>guitar<br>hedgehog<br>upper<br>enjoy<br>crack |  
-| bip_39_word_new_br12 | price<br>purity<br>wrestle<br>supreme<br>myth<br>ramp<br>guitar<br>hedgehog<br>upper<br>enjoy<br>crack<br>annual |  
-| bip_39_word_new_br2 | price<br>purity |  
-| bip_39_word_new_br3 | price<br>purity<br>wrestle |  
-| bip_39_word_new_br4 | price<br>purity<br>wrestle<br>supreme |  
-| bip_39_word_new_br5 | price<br>purity<br>wrestle<br>supreme<br>myth |  
-| bip_39_word_new_br6 | price<br>purity<br>wrestle<br>supreme<br>myth<br>ramp |  
-| bip_39_word_new_br7 | price<br>purity<br>wrestle<br>supreme<br>myth<br>ramp<br>guitar |  
-| bip_39_word_new_br8 | price<br>purity<br>wrestle<br>supreme<br>myth<br>ramp<br>guitar<br>hedgehog |  
-| bip_39_word_new_br9 | price<br>purity<br>wrestle<br>supreme<br>myth<br>ramp<br>guitar<br>hedgehog<br>upper |  
-| bip_39_word_new_line1 | price |  
-| bip_39_word_new_line10 | price
+| bip_39_word_new_br_1 | price |  
+| bip_39_word_new_br_10 | price<br>purity<br>wrestle<br>supreme<br>myth<br>ramp<br>guitar<br>hedgehog<br>upper<br>enjoy |  
+| bip_39_word_new_br_11 | price<br>purity<br>wrestle<br>supreme<br>myth<br>ramp<br>guitar<br>hedgehog<br>upper<br>enjoy<br>crack |  
+| bip_39_word_new_br_12 | price<br>purity<br>wrestle<br>supreme<br>myth<br>ramp<br>guitar<br>hedgehog<br>upper<br>enjoy<br>crack<br>annual |  
+| bip_39_word_new_br_2 | price<br>purity |  
+| bip_39_word_new_br_3 | price<br>purity<br>wrestle |  
+| bip_39_word_new_br_4 | price<br>purity<br>wrestle<br>supreme |  
+| bip_39_word_new_br_5 | price<br>purity<br>wrestle<br>supreme<br>myth |  
+| bip_39_word_new_br_6 | price<br>purity<br>wrestle<br>supreme<br>myth<br>ramp |  
+| bip_39_word_new_br_7 | price<br>purity<br>wrestle<br>supreme<br>myth<br>ramp<br>guitar |  
+| bip_39_word_new_br_8 | price<br>purity<br>wrestle<br>supreme<br>myth<br>ramp<br>guitar<br>hedgehog |  
+| bip_39_word_new_br_9 | price<br>purity<br>wrestle<br>supreme<br>myth<br>ramp<br>guitar<br>hedgehog<br>upper |  
+| bip_39_word_new_line_1 | price |  
+| bip_39_word_new_line_10 | price
 purity
 wrestle
 supreme
@@ -55,7 +55,7 @@ guitar
 hedgehog
 upper
 enjoy |  
-| bip_39_word_new_line11 | price
+| bip_39_word_new_line_11 | price
 purity
 wrestle
 supreme
@@ -66,7 +66,7 @@ hedgehog
 upper
 enjoy
 crack |  
-| bip_39_word_new_line12 | price
+| bip_39_word_new_line_12 | price
 purity
 wrestle
 supreme
@@ -78,34 +78,34 @@ upper
 enjoy
 crack
 annual |  
-| bip_39_word_new_line2 | price
+| bip_39_word_new_line_2 | price
 purity |  
-| bip_39_word_new_line3 | price
+| bip_39_word_new_line_3 | price
 purity
 wrestle |  
-| bip_39_word_new_line4 | price
+| bip_39_word_new_line_4 | price
 purity
 wrestle
 supreme |  
-| bip_39_word_new_line5 | price
+| bip_39_word_new_line_5 | price
 purity
 wrestle
 supreme
 myth |  
-| bip_39_word_new_line6 | price
+| bip_39_word_new_line_6 | price
 purity
 wrestle
 supreme
 myth
 ramp |  
-| bip_39_word_new_line7 | price
+| bip_39_word_new_line_7 | price
 purity
 wrestle
 supreme
 myth
 ramp
 guitar |  
-| bip_39_word_new_line8 | price
+| bip_39_word_new_line_8 | price
 purity
 wrestle
 supreme
@@ -113,7 +113,7 @@ myth
 ramp
 guitar
 hedgehog |  
-| bip_39_word_new_line9 | price
+| bip_39_word_new_line_9 | price
 purity
 wrestle
 supreme

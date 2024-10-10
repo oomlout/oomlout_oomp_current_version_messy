@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | select |  
-| bip_39_word_new_br10 | select<br>want<br>bone<br>six<br>awake<br>close<br>where<br>merry<br>reason<br>purpose |  
-| bip_39_word_new_br11 | select<br>want<br>bone<br>six<br>awake<br>close<br>where<br>merry<br>reason<br>purpose<br>deer |  
-| bip_39_word_new_br12 | select<br>want<br>bone<br>six<br>awake<br>close<br>where<br>merry<br>reason<br>purpose<br>deer<br>antique |  
-| bip_39_word_new_br2 | select<br>want |  
-| bip_39_word_new_br3 | select<br>want<br>bone |  
-| bip_39_word_new_br4 | select<br>want<br>bone<br>six |  
-| bip_39_word_new_br5 | select<br>want<br>bone<br>six<br>awake |  
-| bip_39_word_new_br6 | select<br>want<br>bone<br>six<br>awake<br>close |  
-| bip_39_word_new_br7 | select<br>want<br>bone<br>six<br>awake<br>close<br>where |  
-| bip_39_word_new_br8 | select<br>want<br>bone<br>six<br>awake<br>close<br>where<br>merry |  
-| bip_39_word_new_br9 | select<br>want<br>bone<br>six<br>awake<br>close<br>where<br>merry<br>reason |  
-| bip_39_word_new_line1 | select |  
-| bip_39_word_new_line10 | select
+| bip_39_word_new_br_1 | select |  
+| bip_39_word_new_br_10 | select<br>want<br>bone<br>six<br>awake<br>close<br>where<br>merry<br>reason<br>purpose |  
+| bip_39_word_new_br_11 | select<br>want<br>bone<br>six<br>awake<br>close<br>where<br>merry<br>reason<br>purpose<br>deer |  
+| bip_39_word_new_br_12 | select<br>want<br>bone<br>six<br>awake<br>close<br>where<br>merry<br>reason<br>purpose<br>deer<br>antique |  
+| bip_39_word_new_br_2 | select<br>want |  
+| bip_39_word_new_br_3 | select<br>want<br>bone |  
+| bip_39_word_new_br_4 | select<br>want<br>bone<br>six |  
+| bip_39_word_new_br_5 | select<br>want<br>bone<br>six<br>awake |  
+| bip_39_word_new_br_6 | select<br>want<br>bone<br>six<br>awake<br>close |  
+| bip_39_word_new_br_7 | select<br>want<br>bone<br>six<br>awake<br>close<br>where |  
+| bip_39_word_new_br_8 | select<br>want<br>bone<br>six<br>awake<br>close<br>where<br>merry |  
+| bip_39_word_new_br_9 | select<br>want<br>bone<br>six<br>awake<br>close<br>where<br>merry<br>reason |  
+| bip_39_word_new_line_1 | select |  
+| bip_39_word_new_line_10 | select
 want
 bone
 six
@@ -55,7 +55,7 @@ where
 merry
 reason
 purpose |  
-| bip_39_word_new_line11 | select
+| bip_39_word_new_line_11 | select
 want
 bone
 six
@@ -66,7 +66,7 @@ merry
 reason
 purpose
 deer |  
-| bip_39_word_new_line12 | select
+| bip_39_word_new_line_12 | select
 want
 bone
 six
@@ -78,34 +78,34 @@ reason
 purpose
 deer
 antique |  
-| bip_39_word_new_line2 | select
+| bip_39_word_new_line_2 | select
 want |  
-| bip_39_word_new_line3 | select
+| bip_39_word_new_line_3 | select
 want
 bone |  
-| bip_39_word_new_line4 | select
+| bip_39_word_new_line_4 | select
 want
 bone
 six |  
-| bip_39_word_new_line5 | select
+| bip_39_word_new_line_5 | select
 want
 bone
 six
 awake |  
-| bip_39_word_new_line6 | select
+| bip_39_word_new_line_6 | select
 want
 bone
 six
 awake
 close |  
-| bip_39_word_new_line7 | select
+| bip_39_word_new_line_7 | select
 want
 bone
 six
 awake
 close
 where |  
-| bip_39_word_new_line8 | select
+| bip_39_word_new_line_8 | select
 want
 bone
 six
@@ -113,7 +113,7 @@ awake
 close
 where
 merry |  
-| bip_39_word_new_line9 | select
+| bip_39_word_new_line_9 | select
 want
 bone
 six

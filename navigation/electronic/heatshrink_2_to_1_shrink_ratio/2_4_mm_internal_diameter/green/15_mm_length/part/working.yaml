@@ -1,17 +1,17 @@
-bip_39_word_new_br1: track
-bip_39_word_new_br10: track<br>garbage<br>blade<br>keen<br>lock<br>chalk<br>concert<br>moral<br>shrimp<br>involve
-bip_39_word_new_br11: track<br>garbage<br>blade<br>keen<br>lock<br>chalk<br>concert<br>moral<br>shrimp<br>involve<br>emerge
-bip_39_word_new_br12: track<br>garbage<br>blade<br>keen<br>lock<br>chalk<br>concert<br>moral<br>shrimp<br>involve<br>emerge<br>about
-bip_39_word_new_br2: track<br>garbage
-bip_39_word_new_br3: track<br>garbage<br>blade
-bip_39_word_new_br4: track<br>garbage<br>blade<br>keen
-bip_39_word_new_br5: track<br>garbage<br>blade<br>keen<br>lock
-bip_39_word_new_br6: track<br>garbage<br>blade<br>keen<br>lock<br>chalk
-bip_39_word_new_br7: track<br>garbage<br>blade<br>keen<br>lock<br>chalk<br>concert
-bip_39_word_new_br8: track<br>garbage<br>blade<br>keen<br>lock<br>chalk<br>concert<br>moral
-bip_39_word_new_br9: track<br>garbage<br>blade<br>keen<br>lock<br>chalk<br>concert<br>moral<br>shrimp
-bip_39_word_new_line1: track
-bip_39_word_new_line10: 'track
+bip_39_word_new_br_1: track
+bip_39_word_new_br_10: track<br>garbage<br>blade<br>keen<br>lock<br>chalk<br>concert<br>moral<br>shrimp<br>involve
+bip_39_word_new_br_11: track<br>garbage<br>blade<br>keen<br>lock<br>chalk<br>concert<br>moral<br>shrimp<br>involve<br>emerge
+bip_39_word_new_br_12: track<br>garbage<br>blade<br>keen<br>lock<br>chalk<br>concert<br>moral<br>shrimp<br>involve<br>emerge<br>about
+bip_39_word_new_br_2: track<br>garbage
+bip_39_word_new_br_3: track<br>garbage<br>blade
+bip_39_word_new_br_4: track<br>garbage<br>blade<br>keen
+bip_39_word_new_br_5: track<br>garbage<br>blade<br>keen<br>lock
+bip_39_word_new_br_6: track<br>garbage<br>blade<br>keen<br>lock<br>chalk
+bip_39_word_new_br_7: track<br>garbage<br>blade<br>keen<br>lock<br>chalk<br>concert
+bip_39_word_new_br_8: track<br>garbage<br>blade<br>keen<br>lock<br>chalk<br>concert<br>moral
+bip_39_word_new_br_9: track<br>garbage<br>blade<br>keen<br>lock<br>chalk<br>concert<br>moral<br>shrimp
+bip_39_word_new_line_1: track
+bip_39_word_new_line_10: 'track
 
   garbage
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'track
   shrimp
 
   involve'
-bip_39_word_new_line11: 'track
+bip_39_word_new_line_11: 'track
 
   garbage
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'track
   involve
 
   emerge'
-bip_39_word_new_line12: 'track
+bip_39_word_new_line_12: 'track
 
   garbage
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'track
   emerge
 
   about'
-bip_39_word_new_line2: 'track
+bip_39_word_new_line_2: 'track
 
   garbage'
-bip_39_word_new_line3: 'track
+bip_39_word_new_line_3: 'track
 
   garbage
 
   blade'
-bip_39_word_new_line4: 'track
+bip_39_word_new_line_4: 'track
 
   garbage
 
   blade
 
   keen'
-bip_39_word_new_line5: 'track
+bip_39_word_new_line_5: 'track
 
   garbage
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'track
   keen
 
   lock'
-bip_39_word_new_line6: 'track
+bip_39_word_new_line_6: 'track
 
   garbage
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'track
   lock
 
   chalk'
-bip_39_word_new_line7: 'track
+bip_39_word_new_line_7: 'track
 
   garbage
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'track
   chalk
 
   concert'
-bip_39_word_new_line8: 'track
+bip_39_word_new_line_8: 'track
 
   garbage
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'track
   concert
 
   moral'
-bip_39_word_new_line9: 'track
+bip_39_word_new_line_9: 'track
 
   garbage
 

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | make |  
-| bip_39_word_new_br10 | make<br>inquiry<br>divorce<br>often<br>palm<br>talk<br>field<br>frame<br>ocean<br>ostrich |  
-| bip_39_word_new_br11 | make<br>inquiry<br>divorce<br>often<br>palm<br>talk<br>field<br>frame<br>ocean<br>ostrich<br>deal |  
-| bip_39_word_new_br12 | make<br>inquiry<br>divorce<br>often<br>palm<br>talk<br>field<br>frame<br>ocean<br>ostrich<br>deal<br>among |  
-| bip_39_word_new_br2 | make<br>inquiry |  
-| bip_39_word_new_br3 | make<br>inquiry<br>divorce |  
-| bip_39_word_new_br4 | make<br>inquiry<br>divorce<br>often |  
-| bip_39_word_new_br5 | make<br>inquiry<br>divorce<br>often<br>palm |  
-| bip_39_word_new_br6 | make<br>inquiry<br>divorce<br>often<br>palm<br>talk |  
-| bip_39_word_new_br7 | make<br>inquiry<br>divorce<br>often<br>palm<br>talk<br>field |  
-| bip_39_word_new_br8 | make<br>inquiry<br>divorce<br>often<br>palm<br>talk<br>field<br>frame |  
-| bip_39_word_new_br9 | make<br>inquiry<br>divorce<br>often<br>palm<br>talk<br>field<br>frame<br>ocean |  
-| bip_39_word_new_line1 | make |  
-| bip_39_word_new_line10 | make
+| bip_39_word_new_br_1 | make |  
+| bip_39_word_new_br_10 | make<br>inquiry<br>divorce<br>often<br>palm<br>talk<br>field<br>frame<br>ocean<br>ostrich |  
+| bip_39_word_new_br_11 | make<br>inquiry<br>divorce<br>often<br>palm<br>talk<br>field<br>frame<br>ocean<br>ostrich<br>deal |  
+| bip_39_word_new_br_12 | make<br>inquiry<br>divorce<br>often<br>palm<br>talk<br>field<br>frame<br>ocean<br>ostrich<br>deal<br>among |  
+| bip_39_word_new_br_2 | make<br>inquiry |  
+| bip_39_word_new_br_3 | make<br>inquiry<br>divorce |  
+| bip_39_word_new_br_4 | make<br>inquiry<br>divorce<br>often |  
+| bip_39_word_new_br_5 | make<br>inquiry<br>divorce<br>often<br>palm |  
+| bip_39_word_new_br_6 | make<br>inquiry<br>divorce<br>often<br>palm<br>talk |  
+| bip_39_word_new_br_7 | make<br>inquiry<br>divorce<br>often<br>palm<br>talk<br>field |  
+| bip_39_word_new_br_8 | make<br>inquiry<br>divorce<br>often<br>palm<br>talk<br>field<br>frame |  
+| bip_39_word_new_br_9 | make<br>inquiry<br>divorce<br>often<br>palm<br>talk<br>field<br>frame<br>ocean |  
+| bip_39_word_new_line_1 | make |  
+| bip_39_word_new_line_10 | make
 inquiry
 divorce
 often
@@ -55,7 +55,7 @@ field
 frame
 ocean
 ostrich |  
-| bip_39_word_new_line11 | make
+| bip_39_word_new_line_11 | make
 inquiry
 divorce
 often
@@ -66,7 +66,7 @@ frame
 ocean
 ostrich
 deal |  
-| bip_39_word_new_line12 | make
+| bip_39_word_new_line_12 | make
 inquiry
 divorce
 often
@@ -78,34 +78,34 @@ ocean
 ostrich
 deal
 among |  
-| bip_39_word_new_line2 | make
+| bip_39_word_new_line_2 | make
 inquiry |  
-| bip_39_word_new_line3 | make
+| bip_39_word_new_line_3 | make
 inquiry
 divorce |  
-| bip_39_word_new_line4 | make
+| bip_39_word_new_line_4 | make
 inquiry
 divorce
 often |  
-| bip_39_word_new_line5 | make
+| bip_39_word_new_line_5 | make
 inquiry
 divorce
 often
 palm |  
-| bip_39_word_new_line6 | make
+| bip_39_word_new_line_6 | make
 inquiry
 divorce
 often
 palm
 talk |  
-| bip_39_word_new_line7 | make
+| bip_39_word_new_line_7 | make
 inquiry
 divorce
 often
 palm
 talk
 field |  
-| bip_39_word_new_line8 | make
+| bip_39_word_new_line_8 | make
 inquiry
 divorce
 often
@@ -113,7 +113,7 @@ palm
 talk
 field
 frame |  
-| bip_39_word_new_line9 | make
+| bip_39_word_new_line_9 | make
 inquiry
 divorce
 often

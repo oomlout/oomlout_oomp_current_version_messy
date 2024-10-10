@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | august |  
-| bip_39_word_new_br10 | august<br>romance<br>acquire<br>master<br>usual<br>bid<br>pistol<br>industry<br>young<br>nerve |  
-| bip_39_word_new_br11 | august<br>romance<br>acquire<br>master<br>usual<br>bid<br>pistol<br>industry<br>young<br>nerve<br>clerk |  
-| bip_39_word_new_br12 | august<br>romance<br>acquire<br>master<br>usual<br>bid<br>pistol<br>industry<br>young<br>nerve<br>clerk<br>auction |  
-| bip_39_word_new_br2 | august<br>romance |  
-| bip_39_word_new_br3 | august<br>romance<br>acquire |  
-| bip_39_word_new_br4 | august<br>romance<br>acquire<br>master |  
-| bip_39_word_new_br5 | august<br>romance<br>acquire<br>master<br>usual |  
-| bip_39_word_new_br6 | august<br>romance<br>acquire<br>master<br>usual<br>bid |  
-| bip_39_word_new_br7 | august<br>romance<br>acquire<br>master<br>usual<br>bid<br>pistol |  
-| bip_39_word_new_br8 | august<br>romance<br>acquire<br>master<br>usual<br>bid<br>pistol<br>industry |  
-| bip_39_word_new_br9 | august<br>romance<br>acquire<br>master<br>usual<br>bid<br>pistol<br>industry<br>young |  
-| bip_39_word_new_line1 | august |  
-| bip_39_word_new_line10 | august
+| bip_39_word_new_br_1 | august |  
+| bip_39_word_new_br_10 | august<br>romance<br>acquire<br>master<br>usual<br>bid<br>pistol<br>industry<br>young<br>nerve |  
+| bip_39_word_new_br_11 | august<br>romance<br>acquire<br>master<br>usual<br>bid<br>pistol<br>industry<br>young<br>nerve<br>clerk |  
+| bip_39_word_new_br_12 | august<br>romance<br>acquire<br>master<br>usual<br>bid<br>pistol<br>industry<br>young<br>nerve<br>clerk<br>auction |  
+| bip_39_word_new_br_2 | august<br>romance |  
+| bip_39_word_new_br_3 | august<br>romance<br>acquire |  
+| bip_39_word_new_br_4 | august<br>romance<br>acquire<br>master |  
+| bip_39_word_new_br_5 | august<br>romance<br>acquire<br>master<br>usual |  
+| bip_39_word_new_br_6 | august<br>romance<br>acquire<br>master<br>usual<br>bid |  
+| bip_39_word_new_br_7 | august<br>romance<br>acquire<br>master<br>usual<br>bid<br>pistol |  
+| bip_39_word_new_br_8 | august<br>romance<br>acquire<br>master<br>usual<br>bid<br>pistol<br>industry |  
+| bip_39_word_new_br_9 | august<br>romance<br>acquire<br>master<br>usual<br>bid<br>pistol<br>industry<br>young |  
+| bip_39_word_new_line_1 | august |  
+| bip_39_word_new_line_10 | august
 romance
 acquire
 master
@@ -55,7 +55,7 @@ pistol
 industry
 young
 nerve |  
-| bip_39_word_new_line11 | august
+| bip_39_word_new_line_11 | august
 romance
 acquire
 master
@@ -66,7 +66,7 @@ industry
 young
 nerve
 clerk |  
-| bip_39_word_new_line12 | august
+| bip_39_word_new_line_12 | august
 romance
 acquire
 master
@@ -78,34 +78,34 @@ young
 nerve
 clerk
 auction |  
-| bip_39_word_new_line2 | august
+| bip_39_word_new_line_2 | august
 romance |  
-| bip_39_word_new_line3 | august
+| bip_39_word_new_line_3 | august
 romance
 acquire |  
-| bip_39_word_new_line4 | august
+| bip_39_word_new_line_4 | august
 romance
 acquire
 master |  
-| bip_39_word_new_line5 | august
+| bip_39_word_new_line_5 | august
 romance
 acquire
 master
 usual |  
-| bip_39_word_new_line6 | august
+| bip_39_word_new_line_6 | august
 romance
 acquire
 master
 usual
 bid |  
-| bip_39_word_new_line7 | august
+| bip_39_word_new_line_7 | august
 romance
 acquire
 master
 usual
 bid
 pistol |  
-| bip_39_word_new_line8 | august
+| bip_39_word_new_line_8 | august
 romance
 acquire
 master
@@ -113,7 +113,7 @@ usual
 bid
 pistol
 industry |  
-| bip_39_word_new_line9 | august
+| bip_39_word_new_line_9 | august
 romance
 acquire
 master

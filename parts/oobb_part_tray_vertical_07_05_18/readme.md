@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | local |  
-| bip_39_word_new_br10 | local<br>diagram<br>anger<br>nature<br>journey<br>suffer<br>result<br>tomorrow<br>oven<br>language |  
-| bip_39_word_new_br11 | local<br>diagram<br>anger<br>nature<br>journey<br>suffer<br>result<br>tomorrow<br>oven<br>language<br>sail |  
-| bip_39_word_new_br12 | local<br>diagram<br>anger<br>nature<br>journey<br>suffer<br>result<br>tomorrow<br>oven<br>language<br>sail<br>adult |  
-| bip_39_word_new_br2 | local<br>diagram |  
-| bip_39_word_new_br3 | local<br>diagram<br>anger |  
-| bip_39_word_new_br4 | local<br>diagram<br>anger<br>nature |  
-| bip_39_word_new_br5 | local<br>diagram<br>anger<br>nature<br>journey |  
-| bip_39_word_new_br6 | local<br>diagram<br>anger<br>nature<br>journey<br>suffer |  
-| bip_39_word_new_br7 | local<br>diagram<br>anger<br>nature<br>journey<br>suffer<br>result |  
-| bip_39_word_new_br8 | local<br>diagram<br>anger<br>nature<br>journey<br>suffer<br>result<br>tomorrow |  
-| bip_39_word_new_br9 | local<br>diagram<br>anger<br>nature<br>journey<br>suffer<br>result<br>tomorrow<br>oven |  
-| bip_39_word_new_line1 | local |  
-| bip_39_word_new_line10 | local
+| bip_39_word_new_br_1 | local |  
+| bip_39_word_new_br_10 | local<br>diagram<br>anger<br>nature<br>journey<br>suffer<br>result<br>tomorrow<br>oven<br>language |  
+| bip_39_word_new_br_11 | local<br>diagram<br>anger<br>nature<br>journey<br>suffer<br>result<br>tomorrow<br>oven<br>language<br>sail |  
+| bip_39_word_new_br_12 | local<br>diagram<br>anger<br>nature<br>journey<br>suffer<br>result<br>tomorrow<br>oven<br>language<br>sail<br>adult |  
+| bip_39_word_new_br_2 | local<br>diagram |  
+| bip_39_word_new_br_3 | local<br>diagram<br>anger |  
+| bip_39_word_new_br_4 | local<br>diagram<br>anger<br>nature |  
+| bip_39_word_new_br_5 | local<br>diagram<br>anger<br>nature<br>journey |  
+| bip_39_word_new_br_6 | local<br>diagram<br>anger<br>nature<br>journey<br>suffer |  
+| bip_39_word_new_br_7 | local<br>diagram<br>anger<br>nature<br>journey<br>suffer<br>result |  
+| bip_39_word_new_br_8 | local<br>diagram<br>anger<br>nature<br>journey<br>suffer<br>result<br>tomorrow |  
+| bip_39_word_new_br_9 | local<br>diagram<br>anger<br>nature<br>journey<br>suffer<br>result<br>tomorrow<br>oven |  
+| bip_39_word_new_line_1 | local |  
+| bip_39_word_new_line_10 | local
 diagram
 anger
 nature
@@ -55,7 +55,7 @@ result
 tomorrow
 oven
 language |  
-| bip_39_word_new_line11 | local
+| bip_39_word_new_line_11 | local
 diagram
 anger
 nature
@@ -66,7 +66,7 @@ tomorrow
 oven
 language
 sail |  
-| bip_39_word_new_line12 | local
+| bip_39_word_new_line_12 | local
 diagram
 anger
 nature
@@ -78,34 +78,34 @@ oven
 language
 sail
 adult |  
-| bip_39_word_new_line2 | local
+| bip_39_word_new_line_2 | local
 diagram |  
-| bip_39_word_new_line3 | local
+| bip_39_word_new_line_3 | local
 diagram
 anger |  
-| bip_39_word_new_line4 | local
+| bip_39_word_new_line_4 | local
 diagram
 anger
 nature |  
-| bip_39_word_new_line5 | local
+| bip_39_word_new_line_5 | local
 diagram
 anger
 nature
 journey |  
-| bip_39_word_new_line6 | local
+| bip_39_word_new_line_6 | local
 diagram
 anger
 nature
 journey
 suffer |  
-| bip_39_word_new_line7 | local
+| bip_39_word_new_line_7 | local
 diagram
 anger
 nature
 journey
 suffer
 result |  
-| bip_39_word_new_line8 | local
+| bip_39_word_new_line_8 | local
 diagram
 anger
 nature
@@ -113,7 +113,7 @@ journey
 suffer
 result
 tomorrow |  
-| bip_39_word_new_line9 | local
+| bip_39_word_new_line_9 | local
 diagram
 anger
 nature

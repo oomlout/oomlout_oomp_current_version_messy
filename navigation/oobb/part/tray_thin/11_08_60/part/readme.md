@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | misery |  
-| bip_39_word_new_br10 | misery<br>receive<br>sell<br>lion<br>physical<br>ocean<br>lift<br>wife<br>right<br>moral |  
-| bip_39_word_new_br11 | misery<br>receive<br>sell<br>lion<br>physical<br>ocean<br>lift<br>wife<br>right<br>moral<br>where |  
-| bip_39_word_new_br12 | misery<br>receive<br>sell<br>lion<br>physical<br>ocean<br>lift<br>wife<br>right<br>moral<br>where<br>attend |  
-| bip_39_word_new_br2 | misery<br>receive |  
-| bip_39_word_new_br3 | misery<br>receive<br>sell |  
-| bip_39_word_new_br4 | misery<br>receive<br>sell<br>lion |  
-| bip_39_word_new_br5 | misery<br>receive<br>sell<br>lion<br>physical |  
-| bip_39_word_new_br6 | misery<br>receive<br>sell<br>lion<br>physical<br>ocean |  
-| bip_39_word_new_br7 | misery<br>receive<br>sell<br>lion<br>physical<br>ocean<br>lift |  
-| bip_39_word_new_br8 | misery<br>receive<br>sell<br>lion<br>physical<br>ocean<br>lift<br>wife |  
-| bip_39_word_new_br9 | misery<br>receive<br>sell<br>lion<br>physical<br>ocean<br>lift<br>wife<br>right |  
-| bip_39_word_new_line1 | misery |  
-| bip_39_word_new_line10 | misery
+| bip_39_word_new_br_1 | misery |  
+| bip_39_word_new_br_10 | misery<br>receive<br>sell<br>lion<br>physical<br>ocean<br>lift<br>wife<br>right<br>moral |  
+| bip_39_word_new_br_11 | misery<br>receive<br>sell<br>lion<br>physical<br>ocean<br>lift<br>wife<br>right<br>moral<br>where |  
+| bip_39_word_new_br_12 | misery<br>receive<br>sell<br>lion<br>physical<br>ocean<br>lift<br>wife<br>right<br>moral<br>where<br>attend |  
+| bip_39_word_new_br_2 | misery<br>receive |  
+| bip_39_word_new_br_3 | misery<br>receive<br>sell |  
+| bip_39_word_new_br_4 | misery<br>receive<br>sell<br>lion |  
+| bip_39_word_new_br_5 | misery<br>receive<br>sell<br>lion<br>physical |  
+| bip_39_word_new_br_6 | misery<br>receive<br>sell<br>lion<br>physical<br>ocean |  
+| bip_39_word_new_br_7 | misery<br>receive<br>sell<br>lion<br>physical<br>ocean<br>lift |  
+| bip_39_word_new_br_8 | misery<br>receive<br>sell<br>lion<br>physical<br>ocean<br>lift<br>wife |  
+| bip_39_word_new_br_9 | misery<br>receive<br>sell<br>lion<br>physical<br>ocean<br>lift<br>wife<br>right |  
+| bip_39_word_new_line_1 | misery |  
+| bip_39_word_new_line_10 | misery
 receive
 sell
 lion
@@ -55,7 +55,7 @@ lift
 wife
 right
 moral |  
-| bip_39_word_new_line11 | misery
+| bip_39_word_new_line_11 | misery
 receive
 sell
 lion
@@ -66,7 +66,7 @@ wife
 right
 moral
 where |  
-| bip_39_word_new_line12 | misery
+| bip_39_word_new_line_12 | misery
 receive
 sell
 lion
@@ -78,34 +78,34 @@ right
 moral
 where
 attend |  
-| bip_39_word_new_line2 | misery
+| bip_39_word_new_line_2 | misery
 receive |  
-| bip_39_word_new_line3 | misery
+| bip_39_word_new_line_3 | misery
 receive
 sell |  
-| bip_39_word_new_line4 | misery
+| bip_39_word_new_line_4 | misery
 receive
 sell
 lion |  
-| bip_39_word_new_line5 | misery
+| bip_39_word_new_line_5 | misery
 receive
 sell
 lion
 physical |  
-| bip_39_word_new_line6 | misery
+| bip_39_word_new_line_6 | misery
 receive
 sell
 lion
 physical
 ocean |  
-| bip_39_word_new_line7 | misery
+| bip_39_word_new_line_7 | misery
 receive
 sell
 lion
 physical
 ocean
 lift |  
-| bip_39_word_new_line8 | misery
+| bip_39_word_new_line_8 | misery
 receive
 sell
 lion
@@ -113,7 +113,7 @@ physical
 ocean
 lift
 wife |  
-| bip_39_word_new_line9 | misery
+| bip_39_word_new_line_9 | misery
 receive
 sell
 lion

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | advice |  
-| bip_39_word_new_br10 | advice<br>tail<br>enforce<br>gospel<br>cost<br>noble<br>car<br>arrange<br>gossip<br>uncle |  
-| bip_39_word_new_br11 | advice<br>tail<br>enforce<br>gospel<br>cost<br>noble<br>car<br>arrange<br>gossip<br>uncle<br>dish |  
-| bip_39_word_new_br12 | advice<br>tail<br>enforce<br>gospel<br>cost<br>noble<br>car<br>arrange<br>gossip<br>uncle<br>dish<br>avocado |  
-| bip_39_word_new_br2 | advice<br>tail |  
-| bip_39_word_new_br3 | advice<br>tail<br>enforce |  
-| bip_39_word_new_br4 | advice<br>tail<br>enforce<br>gospel |  
-| bip_39_word_new_br5 | advice<br>tail<br>enforce<br>gospel<br>cost |  
-| bip_39_word_new_br6 | advice<br>tail<br>enforce<br>gospel<br>cost<br>noble |  
-| bip_39_word_new_br7 | advice<br>tail<br>enforce<br>gospel<br>cost<br>noble<br>car |  
-| bip_39_word_new_br8 | advice<br>tail<br>enforce<br>gospel<br>cost<br>noble<br>car<br>arrange |  
-| bip_39_word_new_br9 | advice<br>tail<br>enforce<br>gospel<br>cost<br>noble<br>car<br>arrange<br>gossip |  
-| bip_39_word_new_line1 | advice |  
-| bip_39_word_new_line10 | advice
+| bip_39_word_new_br_1 | advice |  
+| bip_39_word_new_br_10 | advice<br>tail<br>enforce<br>gospel<br>cost<br>noble<br>car<br>arrange<br>gossip<br>uncle |  
+| bip_39_word_new_br_11 | advice<br>tail<br>enforce<br>gospel<br>cost<br>noble<br>car<br>arrange<br>gossip<br>uncle<br>dish |  
+| bip_39_word_new_br_12 | advice<br>tail<br>enforce<br>gospel<br>cost<br>noble<br>car<br>arrange<br>gossip<br>uncle<br>dish<br>avocado |  
+| bip_39_word_new_br_2 | advice<br>tail |  
+| bip_39_word_new_br_3 | advice<br>tail<br>enforce |  
+| bip_39_word_new_br_4 | advice<br>tail<br>enforce<br>gospel |  
+| bip_39_word_new_br_5 | advice<br>tail<br>enforce<br>gospel<br>cost |  
+| bip_39_word_new_br_6 | advice<br>tail<br>enforce<br>gospel<br>cost<br>noble |  
+| bip_39_word_new_br_7 | advice<br>tail<br>enforce<br>gospel<br>cost<br>noble<br>car |  
+| bip_39_word_new_br_8 | advice<br>tail<br>enforce<br>gospel<br>cost<br>noble<br>car<br>arrange |  
+| bip_39_word_new_br_9 | advice<br>tail<br>enforce<br>gospel<br>cost<br>noble<br>car<br>arrange<br>gossip |  
+| bip_39_word_new_line_1 | advice |  
+| bip_39_word_new_line_10 | advice
 tail
 enforce
 gospel
@@ -55,7 +55,7 @@ car
 arrange
 gossip
 uncle |  
-| bip_39_word_new_line11 | advice
+| bip_39_word_new_line_11 | advice
 tail
 enforce
 gospel
@@ -66,7 +66,7 @@ arrange
 gossip
 uncle
 dish |  
-| bip_39_word_new_line12 | advice
+| bip_39_word_new_line_12 | advice
 tail
 enforce
 gospel
@@ -78,34 +78,34 @@ gossip
 uncle
 dish
 avocado |  
-| bip_39_word_new_line2 | advice
+| bip_39_word_new_line_2 | advice
 tail |  
-| bip_39_word_new_line3 | advice
+| bip_39_word_new_line_3 | advice
 tail
 enforce |  
-| bip_39_word_new_line4 | advice
+| bip_39_word_new_line_4 | advice
 tail
 enforce
 gospel |  
-| bip_39_word_new_line5 | advice
+| bip_39_word_new_line_5 | advice
 tail
 enforce
 gospel
 cost |  
-| bip_39_word_new_line6 | advice
+| bip_39_word_new_line_6 | advice
 tail
 enforce
 gospel
 cost
 noble |  
-| bip_39_word_new_line7 | advice
+| bip_39_word_new_line_7 | advice
 tail
 enforce
 gospel
 cost
 noble
 car |  
-| bip_39_word_new_line8 | advice
+| bip_39_word_new_line_8 | advice
 tail
 enforce
 gospel
@@ -113,7 +113,7 @@ cost
 noble
 car
 arrange |  
-| bip_39_word_new_line9 | advice
+| bip_39_word_new_line_9 | advice
 tail
 enforce
 gospel

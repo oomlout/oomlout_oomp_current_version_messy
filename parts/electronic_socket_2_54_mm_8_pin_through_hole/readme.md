@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | admit |  
-| bip_39_word_new_br10 | admit<br>account<br>pluck<br>history<br>disorder<br>poverty<br>jeans<br>lyrics<br>swing<br>arctic |  
-| bip_39_word_new_br11 | admit<br>account<br>pluck<br>history<br>disorder<br>poverty<br>jeans<br>lyrics<br>swing<br>arctic<br>volume |  
-| bip_39_word_new_br12 | admit<br>account<br>pluck<br>history<br>disorder<br>poverty<br>jeans<br>lyrics<br>swing<br>arctic<br>volume<br>accident |  
-| bip_39_word_new_br2 | admit<br>account |  
-| bip_39_word_new_br3 | admit<br>account<br>pluck |  
-| bip_39_word_new_br4 | admit<br>account<br>pluck<br>history |  
-| bip_39_word_new_br5 | admit<br>account<br>pluck<br>history<br>disorder |  
-| bip_39_word_new_br6 | admit<br>account<br>pluck<br>history<br>disorder<br>poverty |  
-| bip_39_word_new_br7 | admit<br>account<br>pluck<br>history<br>disorder<br>poverty<br>jeans |  
-| bip_39_word_new_br8 | admit<br>account<br>pluck<br>history<br>disorder<br>poverty<br>jeans<br>lyrics |  
-| bip_39_word_new_br9 | admit<br>account<br>pluck<br>history<br>disorder<br>poverty<br>jeans<br>lyrics<br>swing |  
-| bip_39_word_new_line1 | admit |  
-| bip_39_word_new_line10 | admit
+| bip_39_word_new_br_1 | admit |  
+| bip_39_word_new_br_10 | admit<br>account<br>pluck<br>history<br>disorder<br>poverty<br>jeans<br>lyrics<br>swing<br>arctic |  
+| bip_39_word_new_br_11 | admit<br>account<br>pluck<br>history<br>disorder<br>poverty<br>jeans<br>lyrics<br>swing<br>arctic<br>volume |  
+| bip_39_word_new_br_12 | admit<br>account<br>pluck<br>history<br>disorder<br>poverty<br>jeans<br>lyrics<br>swing<br>arctic<br>volume<br>accident |  
+| bip_39_word_new_br_2 | admit<br>account |  
+| bip_39_word_new_br_3 | admit<br>account<br>pluck |  
+| bip_39_word_new_br_4 | admit<br>account<br>pluck<br>history |  
+| bip_39_word_new_br_5 | admit<br>account<br>pluck<br>history<br>disorder |  
+| bip_39_word_new_br_6 | admit<br>account<br>pluck<br>history<br>disorder<br>poverty |  
+| bip_39_word_new_br_7 | admit<br>account<br>pluck<br>history<br>disorder<br>poverty<br>jeans |  
+| bip_39_word_new_br_8 | admit<br>account<br>pluck<br>history<br>disorder<br>poverty<br>jeans<br>lyrics |  
+| bip_39_word_new_br_9 | admit<br>account<br>pluck<br>history<br>disorder<br>poverty<br>jeans<br>lyrics<br>swing |  
+| bip_39_word_new_line_1 | admit |  
+| bip_39_word_new_line_10 | admit
 account
 pluck
 history
@@ -55,7 +55,7 @@ jeans
 lyrics
 swing
 arctic |  
-| bip_39_word_new_line11 | admit
+| bip_39_word_new_line_11 | admit
 account
 pluck
 history
@@ -66,7 +66,7 @@ lyrics
 swing
 arctic
 volume |  
-| bip_39_word_new_line12 | admit
+| bip_39_word_new_line_12 | admit
 account
 pluck
 history
@@ -78,34 +78,34 @@ swing
 arctic
 volume
 accident |  
-| bip_39_word_new_line2 | admit
+| bip_39_word_new_line_2 | admit
 account |  
-| bip_39_word_new_line3 | admit
+| bip_39_word_new_line_3 | admit
 account
 pluck |  
-| bip_39_word_new_line4 | admit
+| bip_39_word_new_line_4 | admit
 account
 pluck
 history |  
-| bip_39_word_new_line5 | admit
+| bip_39_word_new_line_5 | admit
 account
 pluck
 history
 disorder |  
-| bip_39_word_new_line6 | admit
+| bip_39_word_new_line_6 | admit
 account
 pluck
 history
 disorder
 poverty |  
-| bip_39_word_new_line7 | admit
+| bip_39_word_new_line_7 | admit
 account
 pluck
 history
 disorder
 poverty
 jeans |  
-| bip_39_word_new_line8 | admit
+| bip_39_word_new_line_8 | admit
 account
 pluck
 history
@@ -113,7 +113,7 @@ disorder
 poverty
 jeans
 lyrics |  
-| bip_39_word_new_line9 | admit
+| bip_39_word_new_line_9 | admit
 account
 pluck
 history

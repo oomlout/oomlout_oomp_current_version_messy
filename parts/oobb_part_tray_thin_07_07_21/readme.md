@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | baby |  
-| bip_39_word_new_br10 | baby<br>pass<br>feature<br>recall<br>shed<br>ill<br>target<br>repair<br>keen<br>suit |  
-| bip_39_word_new_br11 | baby<br>pass<br>feature<br>recall<br>shed<br>ill<br>target<br>repair<br>keen<br>suit<br>seven |  
-| bip_39_word_new_br12 | baby<br>pass<br>feature<br>recall<br>shed<br>ill<br>target<br>repair<br>keen<br>suit<br>seven<br>able |  
-| bip_39_word_new_br2 | baby<br>pass |  
-| bip_39_word_new_br3 | baby<br>pass<br>feature |  
-| bip_39_word_new_br4 | baby<br>pass<br>feature<br>recall |  
-| bip_39_word_new_br5 | baby<br>pass<br>feature<br>recall<br>shed |  
-| bip_39_word_new_br6 | baby<br>pass<br>feature<br>recall<br>shed<br>ill |  
-| bip_39_word_new_br7 | baby<br>pass<br>feature<br>recall<br>shed<br>ill<br>target |  
-| bip_39_word_new_br8 | baby<br>pass<br>feature<br>recall<br>shed<br>ill<br>target<br>repair |  
-| bip_39_word_new_br9 | baby<br>pass<br>feature<br>recall<br>shed<br>ill<br>target<br>repair<br>keen |  
-| bip_39_word_new_line1 | baby |  
-| bip_39_word_new_line10 | baby
+| bip_39_word_new_br_1 | baby |  
+| bip_39_word_new_br_10 | baby<br>pass<br>feature<br>recall<br>shed<br>ill<br>target<br>repair<br>keen<br>suit |  
+| bip_39_word_new_br_11 | baby<br>pass<br>feature<br>recall<br>shed<br>ill<br>target<br>repair<br>keen<br>suit<br>seven |  
+| bip_39_word_new_br_12 | baby<br>pass<br>feature<br>recall<br>shed<br>ill<br>target<br>repair<br>keen<br>suit<br>seven<br>able |  
+| bip_39_word_new_br_2 | baby<br>pass |  
+| bip_39_word_new_br_3 | baby<br>pass<br>feature |  
+| bip_39_word_new_br_4 | baby<br>pass<br>feature<br>recall |  
+| bip_39_word_new_br_5 | baby<br>pass<br>feature<br>recall<br>shed |  
+| bip_39_word_new_br_6 | baby<br>pass<br>feature<br>recall<br>shed<br>ill |  
+| bip_39_word_new_br_7 | baby<br>pass<br>feature<br>recall<br>shed<br>ill<br>target |  
+| bip_39_word_new_br_8 | baby<br>pass<br>feature<br>recall<br>shed<br>ill<br>target<br>repair |  
+| bip_39_word_new_br_9 | baby<br>pass<br>feature<br>recall<br>shed<br>ill<br>target<br>repair<br>keen |  
+| bip_39_word_new_line_1 | baby |  
+| bip_39_word_new_line_10 | baby
 pass
 feature
 recall
@@ -55,7 +55,7 @@ target
 repair
 keen
 suit |  
-| bip_39_word_new_line11 | baby
+| bip_39_word_new_line_11 | baby
 pass
 feature
 recall
@@ -66,7 +66,7 @@ repair
 keen
 suit
 seven |  
-| bip_39_word_new_line12 | baby
+| bip_39_word_new_line_12 | baby
 pass
 feature
 recall
@@ -78,34 +78,34 @@ keen
 suit
 seven
 able |  
-| bip_39_word_new_line2 | baby
+| bip_39_word_new_line_2 | baby
 pass |  
-| bip_39_word_new_line3 | baby
+| bip_39_word_new_line_3 | baby
 pass
 feature |  
-| bip_39_word_new_line4 | baby
+| bip_39_word_new_line_4 | baby
 pass
 feature
 recall |  
-| bip_39_word_new_line5 | baby
+| bip_39_word_new_line_5 | baby
 pass
 feature
 recall
 shed |  
-| bip_39_word_new_line6 | baby
+| bip_39_word_new_line_6 | baby
 pass
 feature
 recall
 shed
 ill |  
-| bip_39_word_new_line7 | baby
+| bip_39_word_new_line_7 | baby
 pass
 feature
 recall
 shed
 ill
 target |  
-| bip_39_word_new_line8 | baby
+| bip_39_word_new_line_8 | baby
 pass
 feature
 recall
@@ -113,7 +113,7 @@ shed
 ill
 target
 repair |  
-| bip_39_word_new_line9 | baby
+| bip_39_word_new_line_9 | baby
 pass
 feature
 recall

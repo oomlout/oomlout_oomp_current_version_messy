@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | boat |  
-| bip_39_word_new_br10 | boat<br>conduct<br>dignity<br>acid<br>hammer<br>then<br>lava<br>focus<br>rice<br>panel |  
-| bip_39_word_new_br11 | boat<br>conduct<br>dignity<br>acid<br>hammer<br>then<br>lava<br>focus<br>rice<br>panel<br>travel |  
-| bip_39_word_new_br12 | boat<br>conduct<br>dignity<br>acid<br>hammer<br>then<br>lava<br>focus<br>rice<br>panel<br>travel<br>across |  
-| bip_39_word_new_br2 | boat<br>conduct |  
-| bip_39_word_new_br3 | boat<br>conduct<br>dignity |  
-| bip_39_word_new_br4 | boat<br>conduct<br>dignity<br>acid |  
-| bip_39_word_new_br5 | boat<br>conduct<br>dignity<br>acid<br>hammer |  
-| bip_39_word_new_br6 | boat<br>conduct<br>dignity<br>acid<br>hammer<br>then |  
-| bip_39_word_new_br7 | boat<br>conduct<br>dignity<br>acid<br>hammer<br>then<br>lava |  
-| bip_39_word_new_br8 | boat<br>conduct<br>dignity<br>acid<br>hammer<br>then<br>lava<br>focus |  
-| bip_39_word_new_br9 | boat<br>conduct<br>dignity<br>acid<br>hammer<br>then<br>lava<br>focus<br>rice |  
-| bip_39_word_new_line1 | boat |  
-| bip_39_word_new_line10 | boat
+| bip_39_word_new_br_1 | boat |  
+| bip_39_word_new_br_10 | boat<br>conduct<br>dignity<br>acid<br>hammer<br>then<br>lava<br>focus<br>rice<br>panel |  
+| bip_39_word_new_br_11 | boat<br>conduct<br>dignity<br>acid<br>hammer<br>then<br>lava<br>focus<br>rice<br>panel<br>travel |  
+| bip_39_word_new_br_12 | boat<br>conduct<br>dignity<br>acid<br>hammer<br>then<br>lava<br>focus<br>rice<br>panel<br>travel<br>across |  
+| bip_39_word_new_br_2 | boat<br>conduct |  
+| bip_39_word_new_br_3 | boat<br>conduct<br>dignity |  
+| bip_39_word_new_br_4 | boat<br>conduct<br>dignity<br>acid |  
+| bip_39_word_new_br_5 | boat<br>conduct<br>dignity<br>acid<br>hammer |  
+| bip_39_word_new_br_6 | boat<br>conduct<br>dignity<br>acid<br>hammer<br>then |  
+| bip_39_word_new_br_7 | boat<br>conduct<br>dignity<br>acid<br>hammer<br>then<br>lava |  
+| bip_39_word_new_br_8 | boat<br>conduct<br>dignity<br>acid<br>hammer<br>then<br>lava<br>focus |  
+| bip_39_word_new_br_9 | boat<br>conduct<br>dignity<br>acid<br>hammer<br>then<br>lava<br>focus<br>rice |  
+| bip_39_word_new_line_1 | boat |  
+| bip_39_word_new_line_10 | boat
 conduct
 dignity
 acid
@@ -55,7 +55,7 @@ lava
 focus
 rice
 panel |  
-| bip_39_word_new_line11 | boat
+| bip_39_word_new_line_11 | boat
 conduct
 dignity
 acid
@@ -66,7 +66,7 @@ focus
 rice
 panel
 travel |  
-| bip_39_word_new_line12 | boat
+| bip_39_word_new_line_12 | boat
 conduct
 dignity
 acid
@@ -78,34 +78,34 @@ rice
 panel
 travel
 across |  
-| bip_39_word_new_line2 | boat
+| bip_39_word_new_line_2 | boat
 conduct |  
-| bip_39_word_new_line3 | boat
+| bip_39_word_new_line_3 | boat
 conduct
 dignity |  
-| bip_39_word_new_line4 | boat
+| bip_39_word_new_line_4 | boat
 conduct
 dignity
 acid |  
-| bip_39_word_new_line5 | boat
+| bip_39_word_new_line_5 | boat
 conduct
 dignity
 acid
 hammer |  
-| bip_39_word_new_line6 | boat
+| bip_39_word_new_line_6 | boat
 conduct
 dignity
 acid
 hammer
 then |  
-| bip_39_word_new_line7 | boat
+| bip_39_word_new_line_7 | boat
 conduct
 dignity
 acid
 hammer
 then
 lava |  
-| bip_39_word_new_line8 | boat
+| bip_39_word_new_line_8 | boat
 conduct
 dignity
 acid
@@ -113,7 +113,7 @@ hammer
 then
 lava
 focus |  
-| bip_39_word_new_line9 | boat
+| bip_39_word_new_line_9 | boat
 conduct
 dignity
 acid

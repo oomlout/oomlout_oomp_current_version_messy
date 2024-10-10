@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | flip |  
-| bip_39_word_new_br10 | flip<br>connect<br>only<br>cute<br>shrug<br>bring<br>melody<br>field<br>purity<br>prefer |  
-| bip_39_word_new_br11 | flip<br>connect<br>only<br>cute<br>shrug<br>bring<br>melody<br>field<br>purity<br>prefer<br>consider |  
-| bip_39_word_new_br12 | flip<br>connect<br>only<br>cute<br>shrug<br>bring<br>melody<br>field<br>purity<br>prefer<br>consider<br>ahead |  
-| bip_39_word_new_br2 | flip<br>connect |  
-| bip_39_word_new_br3 | flip<br>connect<br>only |  
-| bip_39_word_new_br4 | flip<br>connect<br>only<br>cute |  
-| bip_39_word_new_br5 | flip<br>connect<br>only<br>cute<br>shrug |  
-| bip_39_word_new_br6 | flip<br>connect<br>only<br>cute<br>shrug<br>bring |  
-| bip_39_word_new_br7 | flip<br>connect<br>only<br>cute<br>shrug<br>bring<br>melody |  
-| bip_39_word_new_br8 | flip<br>connect<br>only<br>cute<br>shrug<br>bring<br>melody<br>field |  
-| bip_39_word_new_br9 | flip<br>connect<br>only<br>cute<br>shrug<br>bring<br>melody<br>field<br>purity |  
-| bip_39_word_new_line1 | flip |  
-| bip_39_word_new_line10 | flip
+| bip_39_word_new_br_1 | flip |  
+| bip_39_word_new_br_10 | flip<br>connect<br>only<br>cute<br>shrug<br>bring<br>melody<br>field<br>purity<br>prefer |  
+| bip_39_word_new_br_11 | flip<br>connect<br>only<br>cute<br>shrug<br>bring<br>melody<br>field<br>purity<br>prefer<br>consider |  
+| bip_39_word_new_br_12 | flip<br>connect<br>only<br>cute<br>shrug<br>bring<br>melody<br>field<br>purity<br>prefer<br>consider<br>ahead |  
+| bip_39_word_new_br_2 | flip<br>connect |  
+| bip_39_word_new_br_3 | flip<br>connect<br>only |  
+| bip_39_word_new_br_4 | flip<br>connect<br>only<br>cute |  
+| bip_39_word_new_br_5 | flip<br>connect<br>only<br>cute<br>shrug |  
+| bip_39_word_new_br_6 | flip<br>connect<br>only<br>cute<br>shrug<br>bring |  
+| bip_39_word_new_br_7 | flip<br>connect<br>only<br>cute<br>shrug<br>bring<br>melody |  
+| bip_39_word_new_br_8 | flip<br>connect<br>only<br>cute<br>shrug<br>bring<br>melody<br>field |  
+| bip_39_word_new_br_9 | flip<br>connect<br>only<br>cute<br>shrug<br>bring<br>melody<br>field<br>purity |  
+| bip_39_word_new_line_1 | flip |  
+| bip_39_word_new_line_10 | flip
 connect
 only
 cute
@@ -55,7 +55,7 @@ melody
 field
 purity
 prefer |  
-| bip_39_word_new_line11 | flip
+| bip_39_word_new_line_11 | flip
 connect
 only
 cute
@@ -66,7 +66,7 @@ field
 purity
 prefer
 consider |  
-| bip_39_word_new_line12 | flip
+| bip_39_word_new_line_12 | flip
 connect
 only
 cute
@@ -78,34 +78,34 @@ purity
 prefer
 consider
 ahead |  
-| bip_39_word_new_line2 | flip
+| bip_39_word_new_line_2 | flip
 connect |  
-| bip_39_word_new_line3 | flip
+| bip_39_word_new_line_3 | flip
 connect
 only |  
-| bip_39_word_new_line4 | flip
+| bip_39_word_new_line_4 | flip
 connect
 only
 cute |  
-| bip_39_word_new_line5 | flip
+| bip_39_word_new_line_5 | flip
 connect
 only
 cute
 shrug |  
-| bip_39_word_new_line6 | flip
+| bip_39_word_new_line_6 | flip
 connect
 only
 cute
 shrug
 bring |  
-| bip_39_word_new_line7 | flip
+| bip_39_word_new_line_7 | flip
 connect
 only
 cute
 shrug
 bring
 melody |  
-| bip_39_word_new_line8 | flip
+| bip_39_word_new_line_8 | flip
 connect
 only
 cute
@@ -113,7 +113,7 @@ shrug
 bring
 melody
 field |  
-| bip_39_word_new_line9 | flip
+| bip_39_word_new_line_9 | flip
 connect
 only
 cute

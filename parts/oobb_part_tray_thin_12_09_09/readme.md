@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | stool |  
-| bip_39_word_new_br10 | stool<br>shy<br>outside<br>goat<br>permit<br>glance<br>labor<br>elder<br>fade<br>bus |  
-| bip_39_word_new_br11 | stool<br>shy<br>outside<br>goat<br>permit<br>glance<br>labor<br>elder<br>fade<br>bus<br>evolve |  
-| bip_39_word_new_br12 | stool<br>shy<br>outside<br>goat<br>permit<br>glance<br>labor<br>elder<br>fade<br>bus<br>evolve<br>annual |  
-| bip_39_word_new_br2 | stool<br>shy |  
-| bip_39_word_new_br3 | stool<br>shy<br>outside |  
-| bip_39_word_new_br4 | stool<br>shy<br>outside<br>goat |  
-| bip_39_word_new_br5 | stool<br>shy<br>outside<br>goat<br>permit |  
-| bip_39_word_new_br6 | stool<br>shy<br>outside<br>goat<br>permit<br>glance |  
-| bip_39_word_new_br7 | stool<br>shy<br>outside<br>goat<br>permit<br>glance<br>labor |  
-| bip_39_word_new_br8 | stool<br>shy<br>outside<br>goat<br>permit<br>glance<br>labor<br>elder |  
-| bip_39_word_new_br9 | stool<br>shy<br>outside<br>goat<br>permit<br>glance<br>labor<br>elder<br>fade |  
-| bip_39_word_new_line1 | stool |  
-| bip_39_word_new_line10 | stool
+| bip_39_word_new_br_1 | stool |  
+| bip_39_word_new_br_10 | stool<br>shy<br>outside<br>goat<br>permit<br>glance<br>labor<br>elder<br>fade<br>bus |  
+| bip_39_word_new_br_11 | stool<br>shy<br>outside<br>goat<br>permit<br>glance<br>labor<br>elder<br>fade<br>bus<br>evolve |  
+| bip_39_word_new_br_12 | stool<br>shy<br>outside<br>goat<br>permit<br>glance<br>labor<br>elder<br>fade<br>bus<br>evolve<br>annual |  
+| bip_39_word_new_br_2 | stool<br>shy |  
+| bip_39_word_new_br_3 | stool<br>shy<br>outside |  
+| bip_39_word_new_br_4 | stool<br>shy<br>outside<br>goat |  
+| bip_39_word_new_br_5 | stool<br>shy<br>outside<br>goat<br>permit |  
+| bip_39_word_new_br_6 | stool<br>shy<br>outside<br>goat<br>permit<br>glance |  
+| bip_39_word_new_br_7 | stool<br>shy<br>outside<br>goat<br>permit<br>glance<br>labor |  
+| bip_39_word_new_br_8 | stool<br>shy<br>outside<br>goat<br>permit<br>glance<br>labor<br>elder |  
+| bip_39_word_new_br_9 | stool<br>shy<br>outside<br>goat<br>permit<br>glance<br>labor<br>elder<br>fade |  
+| bip_39_word_new_line_1 | stool |  
+| bip_39_word_new_line_10 | stool
 shy
 outside
 goat
@@ -55,7 +55,7 @@ labor
 elder
 fade
 bus |  
-| bip_39_word_new_line11 | stool
+| bip_39_word_new_line_11 | stool
 shy
 outside
 goat
@@ -66,7 +66,7 @@ elder
 fade
 bus
 evolve |  
-| bip_39_word_new_line12 | stool
+| bip_39_word_new_line_12 | stool
 shy
 outside
 goat
@@ -78,34 +78,34 @@ fade
 bus
 evolve
 annual |  
-| bip_39_word_new_line2 | stool
+| bip_39_word_new_line_2 | stool
 shy |  
-| bip_39_word_new_line3 | stool
+| bip_39_word_new_line_3 | stool
 shy
 outside |  
-| bip_39_word_new_line4 | stool
+| bip_39_word_new_line_4 | stool
 shy
 outside
 goat |  
-| bip_39_word_new_line5 | stool
+| bip_39_word_new_line_5 | stool
 shy
 outside
 goat
 permit |  
-| bip_39_word_new_line6 | stool
+| bip_39_word_new_line_6 | stool
 shy
 outside
 goat
 permit
 glance |  
-| bip_39_word_new_line7 | stool
+| bip_39_word_new_line_7 | stool
 shy
 outside
 goat
 permit
 glance
 labor |  
-| bip_39_word_new_line8 | stool
+| bip_39_word_new_line_8 | stool
 shy
 outside
 goat
@@ -113,7 +113,7 @@ permit
 glance
 labor
 elder |  
-| bip_39_word_new_line9 | stool
+| bip_39_word_new_line_9 | stool
 shy
 outside
 goat

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | long |  
-| bip_39_word_new_br10 | long<br>elite<br>october<br>seven<br>aisle<br>elder<br>flag<br>recycle<br>tide<br>else |  
-| bip_39_word_new_br11 | long<br>elite<br>october<br>seven<br>aisle<br>elder<br>flag<br>recycle<br>tide<br>else<br>section |  
-| bip_39_word_new_br12 | long<br>elite<br>october<br>seven<br>aisle<br>elder<br>flag<br>recycle<br>tide<br>else<br>section<br>able |  
-| bip_39_word_new_br2 | long<br>elite |  
-| bip_39_word_new_br3 | long<br>elite<br>october |  
-| bip_39_word_new_br4 | long<br>elite<br>october<br>seven |  
-| bip_39_word_new_br5 | long<br>elite<br>october<br>seven<br>aisle |  
-| bip_39_word_new_br6 | long<br>elite<br>october<br>seven<br>aisle<br>elder |  
-| bip_39_word_new_br7 | long<br>elite<br>october<br>seven<br>aisle<br>elder<br>flag |  
-| bip_39_word_new_br8 | long<br>elite<br>october<br>seven<br>aisle<br>elder<br>flag<br>recycle |  
-| bip_39_word_new_br9 | long<br>elite<br>october<br>seven<br>aisle<br>elder<br>flag<br>recycle<br>tide |  
-| bip_39_word_new_line1 | long |  
-| bip_39_word_new_line10 | long
+| bip_39_word_new_br_1 | long |  
+| bip_39_word_new_br_10 | long<br>elite<br>october<br>seven<br>aisle<br>elder<br>flag<br>recycle<br>tide<br>else |  
+| bip_39_word_new_br_11 | long<br>elite<br>october<br>seven<br>aisle<br>elder<br>flag<br>recycle<br>tide<br>else<br>section |  
+| bip_39_word_new_br_12 | long<br>elite<br>october<br>seven<br>aisle<br>elder<br>flag<br>recycle<br>tide<br>else<br>section<br>able |  
+| bip_39_word_new_br_2 | long<br>elite |  
+| bip_39_word_new_br_3 | long<br>elite<br>october |  
+| bip_39_word_new_br_4 | long<br>elite<br>october<br>seven |  
+| bip_39_word_new_br_5 | long<br>elite<br>october<br>seven<br>aisle |  
+| bip_39_word_new_br_6 | long<br>elite<br>october<br>seven<br>aisle<br>elder |  
+| bip_39_word_new_br_7 | long<br>elite<br>october<br>seven<br>aisle<br>elder<br>flag |  
+| bip_39_word_new_br_8 | long<br>elite<br>october<br>seven<br>aisle<br>elder<br>flag<br>recycle |  
+| bip_39_word_new_br_9 | long<br>elite<br>october<br>seven<br>aisle<br>elder<br>flag<br>recycle<br>tide |  
+| bip_39_word_new_line_1 | long |  
+| bip_39_word_new_line_10 | long
 elite
 october
 seven
@@ -55,7 +55,7 @@ flag
 recycle
 tide
 else |  
-| bip_39_word_new_line11 | long
+| bip_39_word_new_line_11 | long
 elite
 october
 seven
@@ -66,7 +66,7 @@ recycle
 tide
 else
 section |  
-| bip_39_word_new_line12 | long
+| bip_39_word_new_line_12 | long
 elite
 october
 seven
@@ -78,34 +78,34 @@ tide
 else
 section
 able |  
-| bip_39_word_new_line2 | long
+| bip_39_word_new_line_2 | long
 elite |  
-| bip_39_word_new_line3 | long
+| bip_39_word_new_line_3 | long
 elite
 october |  
-| bip_39_word_new_line4 | long
+| bip_39_word_new_line_4 | long
 elite
 october
 seven |  
-| bip_39_word_new_line5 | long
+| bip_39_word_new_line_5 | long
 elite
 october
 seven
 aisle |  
-| bip_39_word_new_line6 | long
+| bip_39_word_new_line_6 | long
 elite
 october
 seven
 aisle
 elder |  
-| bip_39_word_new_line7 | long
+| bip_39_word_new_line_7 | long
 elite
 october
 seven
 aisle
 elder
 flag |  
-| bip_39_word_new_line8 | long
+| bip_39_word_new_line_8 | long
 elite
 october
 seven
@@ -113,7 +113,7 @@ aisle
 elder
 flag
 recycle |  
-| bip_39_word_new_line9 | long
+| bip_39_word_new_line_9 | long
 elite
 october
 seven

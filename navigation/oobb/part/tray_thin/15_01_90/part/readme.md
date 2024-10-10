@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | assume |  
-| bip_39_word_new_br10 | assume<br>alcohol<br>innocent<br>great<br>globe<br>connect<br>joke<br>abuse<br>measure<br>check |  
-| bip_39_word_new_br11 | assume<br>alcohol<br>innocent<br>great<br>globe<br>connect<br>joke<br>abuse<br>measure<br>check<br>theory |  
-| bip_39_word_new_br12 | assume<br>alcohol<br>innocent<br>great<br>globe<br>connect<br>joke<br>abuse<br>measure<br>check<br>theory<br>actress |  
-| bip_39_word_new_br2 | assume<br>alcohol |  
-| bip_39_word_new_br3 | assume<br>alcohol<br>innocent |  
-| bip_39_word_new_br4 | assume<br>alcohol<br>innocent<br>great |  
-| bip_39_word_new_br5 | assume<br>alcohol<br>innocent<br>great<br>globe |  
-| bip_39_word_new_br6 | assume<br>alcohol<br>innocent<br>great<br>globe<br>connect |  
-| bip_39_word_new_br7 | assume<br>alcohol<br>innocent<br>great<br>globe<br>connect<br>joke |  
-| bip_39_word_new_br8 | assume<br>alcohol<br>innocent<br>great<br>globe<br>connect<br>joke<br>abuse |  
-| bip_39_word_new_br9 | assume<br>alcohol<br>innocent<br>great<br>globe<br>connect<br>joke<br>abuse<br>measure |  
-| bip_39_word_new_line1 | assume |  
-| bip_39_word_new_line10 | assume
+| bip_39_word_new_br_1 | assume |  
+| bip_39_word_new_br_10 | assume<br>alcohol<br>innocent<br>great<br>globe<br>connect<br>joke<br>abuse<br>measure<br>check |  
+| bip_39_word_new_br_11 | assume<br>alcohol<br>innocent<br>great<br>globe<br>connect<br>joke<br>abuse<br>measure<br>check<br>theory |  
+| bip_39_word_new_br_12 | assume<br>alcohol<br>innocent<br>great<br>globe<br>connect<br>joke<br>abuse<br>measure<br>check<br>theory<br>actress |  
+| bip_39_word_new_br_2 | assume<br>alcohol |  
+| bip_39_word_new_br_3 | assume<br>alcohol<br>innocent |  
+| bip_39_word_new_br_4 | assume<br>alcohol<br>innocent<br>great |  
+| bip_39_word_new_br_5 | assume<br>alcohol<br>innocent<br>great<br>globe |  
+| bip_39_word_new_br_6 | assume<br>alcohol<br>innocent<br>great<br>globe<br>connect |  
+| bip_39_word_new_br_7 | assume<br>alcohol<br>innocent<br>great<br>globe<br>connect<br>joke |  
+| bip_39_word_new_br_8 | assume<br>alcohol<br>innocent<br>great<br>globe<br>connect<br>joke<br>abuse |  
+| bip_39_word_new_br_9 | assume<br>alcohol<br>innocent<br>great<br>globe<br>connect<br>joke<br>abuse<br>measure |  
+| bip_39_word_new_line_1 | assume |  
+| bip_39_word_new_line_10 | assume
 alcohol
 innocent
 great
@@ -55,7 +55,7 @@ joke
 abuse
 measure
 check |  
-| bip_39_word_new_line11 | assume
+| bip_39_word_new_line_11 | assume
 alcohol
 innocent
 great
@@ -66,7 +66,7 @@ abuse
 measure
 check
 theory |  
-| bip_39_word_new_line12 | assume
+| bip_39_word_new_line_12 | assume
 alcohol
 innocent
 great
@@ -78,34 +78,34 @@ measure
 check
 theory
 actress |  
-| bip_39_word_new_line2 | assume
+| bip_39_word_new_line_2 | assume
 alcohol |  
-| bip_39_word_new_line3 | assume
+| bip_39_word_new_line_3 | assume
 alcohol
 innocent |  
-| bip_39_word_new_line4 | assume
+| bip_39_word_new_line_4 | assume
 alcohol
 innocent
 great |  
-| bip_39_word_new_line5 | assume
+| bip_39_word_new_line_5 | assume
 alcohol
 innocent
 great
 globe |  
-| bip_39_word_new_line6 | assume
+| bip_39_word_new_line_6 | assume
 alcohol
 innocent
 great
 globe
 connect |  
-| bip_39_word_new_line7 | assume
+| bip_39_word_new_line_7 | assume
 alcohol
 innocent
 great
 globe
 connect
 joke |  
-| bip_39_word_new_line8 | assume
+| bip_39_word_new_line_8 | assume
 alcohol
 innocent
 great
@@ -113,7 +113,7 @@ globe
 connect
 joke
 abuse |  
-| bip_39_word_new_line9 | assume
+| bip_39_word_new_line_9 | assume
 alcohol
 innocent
 great

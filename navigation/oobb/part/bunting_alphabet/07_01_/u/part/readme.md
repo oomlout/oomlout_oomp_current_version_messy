@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | true |  
-| bip_39_word_new_br10 | true<br>menu<br>junk<br>napkin<br>whale<br>cycle<br>quarter<br>kidney<br>choice<br>injury |  
-| bip_39_word_new_br11 | true<br>menu<br>junk<br>napkin<br>whale<br>cycle<br>quarter<br>kidney<br>choice<br>injury<br>oil |  
-| bip_39_word_new_br12 | true<br>menu<br>junk<br>napkin<br>whale<br>cycle<br>quarter<br>kidney<br>choice<br>injury<br>oil<br>aim |  
-| bip_39_word_new_br2 | true<br>menu |  
-| bip_39_word_new_br3 | true<br>menu<br>junk |  
-| bip_39_word_new_br4 | true<br>menu<br>junk<br>napkin |  
-| bip_39_word_new_br5 | true<br>menu<br>junk<br>napkin<br>whale |  
-| bip_39_word_new_br6 | true<br>menu<br>junk<br>napkin<br>whale<br>cycle |  
-| bip_39_word_new_br7 | true<br>menu<br>junk<br>napkin<br>whale<br>cycle<br>quarter |  
-| bip_39_word_new_br8 | true<br>menu<br>junk<br>napkin<br>whale<br>cycle<br>quarter<br>kidney |  
-| bip_39_word_new_br9 | true<br>menu<br>junk<br>napkin<br>whale<br>cycle<br>quarter<br>kidney<br>choice |  
-| bip_39_word_new_line1 | true |  
-| bip_39_word_new_line10 | true
+| bip_39_word_new_br_1 | true |  
+| bip_39_word_new_br_10 | true<br>menu<br>junk<br>napkin<br>whale<br>cycle<br>quarter<br>kidney<br>choice<br>injury |  
+| bip_39_word_new_br_11 | true<br>menu<br>junk<br>napkin<br>whale<br>cycle<br>quarter<br>kidney<br>choice<br>injury<br>oil |  
+| bip_39_word_new_br_12 | true<br>menu<br>junk<br>napkin<br>whale<br>cycle<br>quarter<br>kidney<br>choice<br>injury<br>oil<br>aim |  
+| bip_39_word_new_br_2 | true<br>menu |  
+| bip_39_word_new_br_3 | true<br>menu<br>junk |  
+| bip_39_word_new_br_4 | true<br>menu<br>junk<br>napkin |  
+| bip_39_word_new_br_5 | true<br>menu<br>junk<br>napkin<br>whale |  
+| bip_39_word_new_br_6 | true<br>menu<br>junk<br>napkin<br>whale<br>cycle |  
+| bip_39_word_new_br_7 | true<br>menu<br>junk<br>napkin<br>whale<br>cycle<br>quarter |  
+| bip_39_word_new_br_8 | true<br>menu<br>junk<br>napkin<br>whale<br>cycle<br>quarter<br>kidney |  
+| bip_39_word_new_br_9 | true<br>menu<br>junk<br>napkin<br>whale<br>cycle<br>quarter<br>kidney<br>choice |  
+| bip_39_word_new_line_1 | true |  
+| bip_39_word_new_line_10 | true
 menu
 junk
 napkin
@@ -55,7 +55,7 @@ quarter
 kidney
 choice
 injury |  
-| bip_39_word_new_line11 | true
+| bip_39_word_new_line_11 | true
 menu
 junk
 napkin
@@ -66,7 +66,7 @@ kidney
 choice
 injury
 oil |  
-| bip_39_word_new_line12 | true
+| bip_39_word_new_line_12 | true
 menu
 junk
 napkin
@@ -78,34 +78,34 @@ choice
 injury
 oil
 aim |  
-| bip_39_word_new_line2 | true
+| bip_39_word_new_line_2 | true
 menu |  
-| bip_39_word_new_line3 | true
+| bip_39_word_new_line_3 | true
 menu
 junk |  
-| bip_39_word_new_line4 | true
+| bip_39_word_new_line_4 | true
 menu
 junk
 napkin |  
-| bip_39_word_new_line5 | true
+| bip_39_word_new_line_5 | true
 menu
 junk
 napkin
 whale |  
-| bip_39_word_new_line6 | true
+| bip_39_word_new_line_6 | true
 menu
 junk
 napkin
 whale
 cycle |  
-| bip_39_word_new_line7 | true
+| bip_39_word_new_line_7 | true
 menu
 junk
 napkin
 whale
 cycle
 quarter |  
-| bip_39_word_new_line8 | true
+| bip_39_word_new_line_8 | true
 menu
 junk
 napkin
@@ -113,7 +113,7 @@ whale
 cycle
 quarter
 kidney |  
-| bip_39_word_new_line9 | true
+| bip_39_word_new_line_9 | true
 menu
 junk
 napkin

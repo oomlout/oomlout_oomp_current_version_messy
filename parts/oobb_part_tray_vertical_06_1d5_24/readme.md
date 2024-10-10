@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | flock |  
-| bip_39_word_new_br10 | flock<br>butter<br>math<br>pepper<br>gain<br>car<br>refuse<br>legal<br>vendor<br>climb |  
-| bip_39_word_new_br11 | flock<br>butter<br>math<br>pepper<br>gain<br>car<br>refuse<br>legal<br>vendor<br>climb<br>ball |  
-| bip_39_word_new_br12 | flock<br>butter<br>math<br>pepper<br>gain<br>car<br>refuse<br>legal<br>vendor<br>climb<br>ball<br>alley |  
-| bip_39_word_new_br2 | flock<br>butter |  
-| bip_39_word_new_br3 | flock<br>butter<br>math |  
-| bip_39_word_new_br4 | flock<br>butter<br>math<br>pepper |  
-| bip_39_word_new_br5 | flock<br>butter<br>math<br>pepper<br>gain |  
-| bip_39_word_new_br6 | flock<br>butter<br>math<br>pepper<br>gain<br>car |  
-| bip_39_word_new_br7 | flock<br>butter<br>math<br>pepper<br>gain<br>car<br>refuse |  
-| bip_39_word_new_br8 | flock<br>butter<br>math<br>pepper<br>gain<br>car<br>refuse<br>legal |  
-| bip_39_word_new_br9 | flock<br>butter<br>math<br>pepper<br>gain<br>car<br>refuse<br>legal<br>vendor |  
-| bip_39_word_new_line1 | flock |  
-| bip_39_word_new_line10 | flock
+| bip_39_word_new_br_1 | flock |  
+| bip_39_word_new_br_10 | flock<br>butter<br>math<br>pepper<br>gain<br>car<br>refuse<br>legal<br>vendor<br>climb |  
+| bip_39_word_new_br_11 | flock<br>butter<br>math<br>pepper<br>gain<br>car<br>refuse<br>legal<br>vendor<br>climb<br>ball |  
+| bip_39_word_new_br_12 | flock<br>butter<br>math<br>pepper<br>gain<br>car<br>refuse<br>legal<br>vendor<br>climb<br>ball<br>alley |  
+| bip_39_word_new_br_2 | flock<br>butter |  
+| bip_39_word_new_br_3 | flock<br>butter<br>math |  
+| bip_39_word_new_br_4 | flock<br>butter<br>math<br>pepper |  
+| bip_39_word_new_br_5 | flock<br>butter<br>math<br>pepper<br>gain |  
+| bip_39_word_new_br_6 | flock<br>butter<br>math<br>pepper<br>gain<br>car |  
+| bip_39_word_new_br_7 | flock<br>butter<br>math<br>pepper<br>gain<br>car<br>refuse |  
+| bip_39_word_new_br_8 | flock<br>butter<br>math<br>pepper<br>gain<br>car<br>refuse<br>legal |  
+| bip_39_word_new_br_9 | flock<br>butter<br>math<br>pepper<br>gain<br>car<br>refuse<br>legal<br>vendor |  
+| bip_39_word_new_line_1 | flock |  
+| bip_39_word_new_line_10 | flock
 butter
 math
 pepper
@@ -55,7 +55,7 @@ refuse
 legal
 vendor
 climb |  
-| bip_39_word_new_line11 | flock
+| bip_39_word_new_line_11 | flock
 butter
 math
 pepper
@@ -66,7 +66,7 @@ legal
 vendor
 climb
 ball |  
-| bip_39_word_new_line12 | flock
+| bip_39_word_new_line_12 | flock
 butter
 math
 pepper
@@ -78,34 +78,34 @@ vendor
 climb
 ball
 alley |  
-| bip_39_word_new_line2 | flock
+| bip_39_word_new_line_2 | flock
 butter |  
-| bip_39_word_new_line3 | flock
+| bip_39_word_new_line_3 | flock
 butter
 math |  
-| bip_39_word_new_line4 | flock
+| bip_39_word_new_line_4 | flock
 butter
 math
 pepper |  
-| bip_39_word_new_line5 | flock
+| bip_39_word_new_line_5 | flock
 butter
 math
 pepper
 gain |  
-| bip_39_word_new_line6 | flock
+| bip_39_word_new_line_6 | flock
 butter
 math
 pepper
 gain
 car |  
-| bip_39_word_new_line7 | flock
+| bip_39_word_new_line_7 | flock
 butter
 math
 pepper
 gain
 car
 refuse |  
-| bip_39_word_new_line8 | flock
+| bip_39_word_new_line_8 | flock
 butter
 math
 pepper
@@ -113,7 +113,7 @@ gain
 car
 refuse
 legal |  
-| bip_39_word_new_line9 | flock
+| bip_39_word_new_line_9 | flock
 butter
 math
 pepper

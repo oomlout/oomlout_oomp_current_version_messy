@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | vote |  
-| bip_39_word_new_br10 | vote<br>fortune<br>alert<br>sick<br>radar<br>search<br>ask<br>orient<br>usual<br>unhappy |  
-| bip_39_word_new_br11 | vote<br>fortune<br>alert<br>sick<br>radar<br>search<br>ask<br>orient<br>usual<br>unhappy<br>update |  
-| bip_39_word_new_br12 | vote<br>fortune<br>alert<br>sick<br>radar<br>search<br>ask<br>orient<br>usual<br>unhappy<br>update<br>area |  
-| bip_39_word_new_br2 | vote<br>fortune |  
-| bip_39_word_new_br3 | vote<br>fortune<br>alert |  
-| bip_39_word_new_br4 | vote<br>fortune<br>alert<br>sick |  
-| bip_39_word_new_br5 | vote<br>fortune<br>alert<br>sick<br>radar |  
-| bip_39_word_new_br6 | vote<br>fortune<br>alert<br>sick<br>radar<br>search |  
-| bip_39_word_new_br7 | vote<br>fortune<br>alert<br>sick<br>radar<br>search<br>ask |  
-| bip_39_word_new_br8 | vote<br>fortune<br>alert<br>sick<br>radar<br>search<br>ask<br>orient |  
-| bip_39_word_new_br9 | vote<br>fortune<br>alert<br>sick<br>radar<br>search<br>ask<br>orient<br>usual |  
-| bip_39_word_new_line1 | vote |  
-| bip_39_word_new_line10 | vote
+| bip_39_word_new_br_1 | vote |  
+| bip_39_word_new_br_10 | vote<br>fortune<br>alert<br>sick<br>radar<br>search<br>ask<br>orient<br>usual<br>unhappy |  
+| bip_39_word_new_br_11 | vote<br>fortune<br>alert<br>sick<br>radar<br>search<br>ask<br>orient<br>usual<br>unhappy<br>update |  
+| bip_39_word_new_br_12 | vote<br>fortune<br>alert<br>sick<br>radar<br>search<br>ask<br>orient<br>usual<br>unhappy<br>update<br>area |  
+| bip_39_word_new_br_2 | vote<br>fortune |  
+| bip_39_word_new_br_3 | vote<br>fortune<br>alert |  
+| bip_39_word_new_br_4 | vote<br>fortune<br>alert<br>sick |  
+| bip_39_word_new_br_5 | vote<br>fortune<br>alert<br>sick<br>radar |  
+| bip_39_word_new_br_6 | vote<br>fortune<br>alert<br>sick<br>radar<br>search |  
+| bip_39_word_new_br_7 | vote<br>fortune<br>alert<br>sick<br>radar<br>search<br>ask |  
+| bip_39_word_new_br_8 | vote<br>fortune<br>alert<br>sick<br>radar<br>search<br>ask<br>orient |  
+| bip_39_word_new_br_9 | vote<br>fortune<br>alert<br>sick<br>radar<br>search<br>ask<br>orient<br>usual |  
+| bip_39_word_new_line_1 | vote |  
+| bip_39_word_new_line_10 | vote
 fortune
 alert
 sick
@@ -55,7 +55,7 @@ ask
 orient
 usual
 unhappy |  
-| bip_39_word_new_line11 | vote
+| bip_39_word_new_line_11 | vote
 fortune
 alert
 sick
@@ -66,7 +66,7 @@ orient
 usual
 unhappy
 update |  
-| bip_39_word_new_line12 | vote
+| bip_39_word_new_line_12 | vote
 fortune
 alert
 sick
@@ -78,34 +78,34 @@ usual
 unhappy
 update
 area |  
-| bip_39_word_new_line2 | vote
+| bip_39_word_new_line_2 | vote
 fortune |  
-| bip_39_word_new_line3 | vote
+| bip_39_word_new_line_3 | vote
 fortune
 alert |  
-| bip_39_word_new_line4 | vote
+| bip_39_word_new_line_4 | vote
 fortune
 alert
 sick |  
-| bip_39_word_new_line5 | vote
+| bip_39_word_new_line_5 | vote
 fortune
 alert
 sick
 radar |  
-| bip_39_word_new_line6 | vote
+| bip_39_word_new_line_6 | vote
 fortune
 alert
 sick
 radar
 search |  
-| bip_39_word_new_line7 | vote
+| bip_39_word_new_line_7 | vote
 fortune
 alert
 sick
 radar
 search
 ask |  
-| bip_39_word_new_line8 | vote
+| bip_39_word_new_line_8 | vote
 fortune
 alert
 sick
@@ -113,7 +113,7 @@ radar
 search
 ask
 orient |  
-| bip_39_word_new_line9 | vote
+| bip_39_word_new_line_9 | vote
 fortune
 alert
 sick

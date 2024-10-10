@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | exotic |  
-| bip_39_word_new_br10 | exotic<br>tent<br>stone<br>heavy<br>tired<br>brother<br>photo<br>syrup<br>raise<br>offer |  
-| bip_39_word_new_br11 | exotic<br>tent<br>stone<br>heavy<br>tired<br>brother<br>photo<br>syrup<br>raise<br>offer<br>nice |  
-| bip_39_word_new_br12 | exotic<br>tent<br>stone<br>heavy<br>tired<br>brother<br>photo<br>syrup<br>raise<br>offer<br>nice<br>able |  
-| bip_39_word_new_br2 | exotic<br>tent |  
-| bip_39_word_new_br3 | exotic<br>tent<br>stone |  
-| bip_39_word_new_br4 | exotic<br>tent<br>stone<br>heavy |  
-| bip_39_word_new_br5 | exotic<br>tent<br>stone<br>heavy<br>tired |  
-| bip_39_word_new_br6 | exotic<br>tent<br>stone<br>heavy<br>tired<br>brother |  
-| bip_39_word_new_br7 | exotic<br>tent<br>stone<br>heavy<br>tired<br>brother<br>photo |  
-| bip_39_word_new_br8 | exotic<br>tent<br>stone<br>heavy<br>tired<br>brother<br>photo<br>syrup |  
-| bip_39_word_new_br9 | exotic<br>tent<br>stone<br>heavy<br>tired<br>brother<br>photo<br>syrup<br>raise |  
-| bip_39_word_new_line1 | exotic |  
-| bip_39_word_new_line10 | exotic
+| bip_39_word_new_br_1 | exotic |  
+| bip_39_word_new_br_10 | exotic<br>tent<br>stone<br>heavy<br>tired<br>brother<br>photo<br>syrup<br>raise<br>offer |  
+| bip_39_word_new_br_11 | exotic<br>tent<br>stone<br>heavy<br>tired<br>brother<br>photo<br>syrup<br>raise<br>offer<br>nice |  
+| bip_39_word_new_br_12 | exotic<br>tent<br>stone<br>heavy<br>tired<br>brother<br>photo<br>syrup<br>raise<br>offer<br>nice<br>able |  
+| bip_39_word_new_br_2 | exotic<br>tent |  
+| bip_39_word_new_br_3 | exotic<br>tent<br>stone |  
+| bip_39_word_new_br_4 | exotic<br>tent<br>stone<br>heavy |  
+| bip_39_word_new_br_5 | exotic<br>tent<br>stone<br>heavy<br>tired |  
+| bip_39_word_new_br_6 | exotic<br>tent<br>stone<br>heavy<br>tired<br>brother |  
+| bip_39_word_new_br_7 | exotic<br>tent<br>stone<br>heavy<br>tired<br>brother<br>photo |  
+| bip_39_word_new_br_8 | exotic<br>tent<br>stone<br>heavy<br>tired<br>brother<br>photo<br>syrup |  
+| bip_39_word_new_br_9 | exotic<br>tent<br>stone<br>heavy<br>tired<br>brother<br>photo<br>syrup<br>raise |  
+| bip_39_word_new_line_1 | exotic |  
+| bip_39_word_new_line_10 | exotic
 tent
 stone
 heavy
@@ -55,7 +55,7 @@ photo
 syrup
 raise
 offer |  
-| bip_39_word_new_line11 | exotic
+| bip_39_word_new_line_11 | exotic
 tent
 stone
 heavy
@@ -66,7 +66,7 @@ syrup
 raise
 offer
 nice |  
-| bip_39_word_new_line12 | exotic
+| bip_39_word_new_line_12 | exotic
 tent
 stone
 heavy
@@ -78,34 +78,34 @@ raise
 offer
 nice
 able |  
-| bip_39_word_new_line2 | exotic
+| bip_39_word_new_line_2 | exotic
 tent |  
-| bip_39_word_new_line3 | exotic
+| bip_39_word_new_line_3 | exotic
 tent
 stone |  
-| bip_39_word_new_line4 | exotic
+| bip_39_word_new_line_4 | exotic
 tent
 stone
 heavy |  
-| bip_39_word_new_line5 | exotic
+| bip_39_word_new_line_5 | exotic
 tent
 stone
 heavy
 tired |  
-| bip_39_word_new_line6 | exotic
+| bip_39_word_new_line_6 | exotic
 tent
 stone
 heavy
 tired
 brother |  
-| bip_39_word_new_line7 | exotic
+| bip_39_word_new_line_7 | exotic
 tent
 stone
 heavy
 tired
 brother
 photo |  
-| bip_39_word_new_line8 | exotic
+| bip_39_word_new_line_8 | exotic
 tent
 stone
 heavy
@@ -113,7 +113,7 @@ tired
 brother
 photo
 syrup |  
-| bip_39_word_new_line9 | exotic
+| bip_39_word_new_line_9 | exotic
 tent
 stone
 heavy

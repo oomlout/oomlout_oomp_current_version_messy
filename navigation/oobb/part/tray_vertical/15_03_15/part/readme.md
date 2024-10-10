@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | lizard |  
-| bip_39_word_new_br10 | lizard<br>yard<br>off<br>coconut<br>correct<br>apart<br>hollow<br>midnight<br>cattle<br>reopen |  
-| bip_39_word_new_br11 | lizard<br>yard<br>off<br>coconut<br>correct<br>apart<br>hollow<br>midnight<br>cattle<br>reopen<br>student |  
-| bip_39_word_new_br12 | lizard<br>yard<br>off<br>coconut<br>correct<br>apart<br>hollow<br>midnight<br>cattle<br>reopen<br>student<br>affair |  
-| bip_39_word_new_br2 | lizard<br>yard |  
-| bip_39_word_new_br3 | lizard<br>yard<br>off |  
-| bip_39_word_new_br4 | lizard<br>yard<br>off<br>coconut |  
-| bip_39_word_new_br5 | lizard<br>yard<br>off<br>coconut<br>correct |  
-| bip_39_word_new_br6 | lizard<br>yard<br>off<br>coconut<br>correct<br>apart |  
-| bip_39_word_new_br7 | lizard<br>yard<br>off<br>coconut<br>correct<br>apart<br>hollow |  
-| bip_39_word_new_br8 | lizard<br>yard<br>off<br>coconut<br>correct<br>apart<br>hollow<br>midnight |  
-| bip_39_word_new_br9 | lizard<br>yard<br>off<br>coconut<br>correct<br>apart<br>hollow<br>midnight<br>cattle |  
-| bip_39_word_new_line1 | lizard |  
-| bip_39_word_new_line10 | lizard
+| bip_39_word_new_br_1 | lizard |  
+| bip_39_word_new_br_10 | lizard<br>yard<br>off<br>coconut<br>correct<br>apart<br>hollow<br>midnight<br>cattle<br>reopen |  
+| bip_39_word_new_br_11 | lizard<br>yard<br>off<br>coconut<br>correct<br>apart<br>hollow<br>midnight<br>cattle<br>reopen<br>student |  
+| bip_39_word_new_br_12 | lizard<br>yard<br>off<br>coconut<br>correct<br>apart<br>hollow<br>midnight<br>cattle<br>reopen<br>student<br>affair |  
+| bip_39_word_new_br_2 | lizard<br>yard |  
+| bip_39_word_new_br_3 | lizard<br>yard<br>off |  
+| bip_39_word_new_br_4 | lizard<br>yard<br>off<br>coconut |  
+| bip_39_word_new_br_5 | lizard<br>yard<br>off<br>coconut<br>correct |  
+| bip_39_word_new_br_6 | lizard<br>yard<br>off<br>coconut<br>correct<br>apart |  
+| bip_39_word_new_br_7 | lizard<br>yard<br>off<br>coconut<br>correct<br>apart<br>hollow |  
+| bip_39_word_new_br_8 | lizard<br>yard<br>off<br>coconut<br>correct<br>apart<br>hollow<br>midnight |  
+| bip_39_word_new_br_9 | lizard<br>yard<br>off<br>coconut<br>correct<br>apart<br>hollow<br>midnight<br>cattle |  
+| bip_39_word_new_line_1 | lizard |  
+| bip_39_word_new_line_10 | lizard
 yard
 off
 coconut
@@ -55,7 +55,7 @@ hollow
 midnight
 cattle
 reopen |  
-| bip_39_word_new_line11 | lizard
+| bip_39_word_new_line_11 | lizard
 yard
 off
 coconut
@@ -66,7 +66,7 @@ midnight
 cattle
 reopen
 student |  
-| bip_39_word_new_line12 | lizard
+| bip_39_word_new_line_12 | lizard
 yard
 off
 coconut
@@ -78,34 +78,34 @@ cattle
 reopen
 student
 affair |  
-| bip_39_word_new_line2 | lizard
+| bip_39_word_new_line_2 | lizard
 yard |  
-| bip_39_word_new_line3 | lizard
+| bip_39_word_new_line_3 | lizard
 yard
 off |  
-| bip_39_word_new_line4 | lizard
+| bip_39_word_new_line_4 | lizard
 yard
 off
 coconut |  
-| bip_39_word_new_line5 | lizard
+| bip_39_word_new_line_5 | lizard
 yard
 off
 coconut
 correct |  
-| bip_39_word_new_line6 | lizard
+| bip_39_word_new_line_6 | lizard
 yard
 off
 coconut
 correct
 apart |  
-| bip_39_word_new_line7 | lizard
+| bip_39_word_new_line_7 | lizard
 yard
 off
 coconut
 correct
 apart
 hollow |  
-| bip_39_word_new_line8 | lizard
+| bip_39_word_new_line_8 | lizard
 yard
 off
 coconut
@@ -113,7 +113,7 @@ correct
 apart
 hollow
 midnight |  
-| bip_39_word_new_line9 | lizard
+| bip_39_word_new_line_9 | lizard
 yard
 off
 coconut

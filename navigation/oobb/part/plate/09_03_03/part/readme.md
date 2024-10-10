@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | clinic |  
-| bip_39_word_new_br10 | clinic<br>dial<br>rule<br>common<br>lift<br>struggle<br>scorpion<br>elephant<br>maximum<br>wish |  
-| bip_39_word_new_br11 | clinic<br>dial<br>rule<br>common<br>lift<br>struggle<br>scorpion<br>elephant<br>maximum<br>wish<br>quality |  
-| bip_39_word_new_br12 | clinic<br>dial<br>rule<br>common<br>lift<br>struggle<br>scorpion<br>elephant<br>maximum<br>wish<br>quality<br>amused |  
-| bip_39_word_new_br2 | clinic<br>dial |  
-| bip_39_word_new_br3 | clinic<br>dial<br>rule |  
-| bip_39_word_new_br4 | clinic<br>dial<br>rule<br>common |  
-| bip_39_word_new_br5 | clinic<br>dial<br>rule<br>common<br>lift |  
-| bip_39_word_new_br6 | clinic<br>dial<br>rule<br>common<br>lift<br>struggle |  
-| bip_39_word_new_br7 | clinic<br>dial<br>rule<br>common<br>lift<br>struggle<br>scorpion |  
-| bip_39_word_new_br8 | clinic<br>dial<br>rule<br>common<br>lift<br>struggle<br>scorpion<br>elephant |  
-| bip_39_word_new_br9 | clinic<br>dial<br>rule<br>common<br>lift<br>struggle<br>scorpion<br>elephant<br>maximum |  
-| bip_39_word_new_line1 | clinic |  
-| bip_39_word_new_line10 | clinic
+| bip_39_word_new_br_1 | clinic |  
+| bip_39_word_new_br_10 | clinic<br>dial<br>rule<br>common<br>lift<br>struggle<br>scorpion<br>elephant<br>maximum<br>wish |  
+| bip_39_word_new_br_11 | clinic<br>dial<br>rule<br>common<br>lift<br>struggle<br>scorpion<br>elephant<br>maximum<br>wish<br>quality |  
+| bip_39_word_new_br_12 | clinic<br>dial<br>rule<br>common<br>lift<br>struggle<br>scorpion<br>elephant<br>maximum<br>wish<br>quality<br>amused |  
+| bip_39_word_new_br_2 | clinic<br>dial |  
+| bip_39_word_new_br_3 | clinic<br>dial<br>rule |  
+| bip_39_word_new_br_4 | clinic<br>dial<br>rule<br>common |  
+| bip_39_word_new_br_5 | clinic<br>dial<br>rule<br>common<br>lift |  
+| bip_39_word_new_br_6 | clinic<br>dial<br>rule<br>common<br>lift<br>struggle |  
+| bip_39_word_new_br_7 | clinic<br>dial<br>rule<br>common<br>lift<br>struggle<br>scorpion |  
+| bip_39_word_new_br_8 | clinic<br>dial<br>rule<br>common<br>lift<br>struggle<br>scorpion<br>elephant |  
+| bip_39_word_new_br_9 | clinic<br>dial<br>rule<br>common<br>lift<br>struggle<br>scorpion<br>elephant<br>maximum |  
+| bip_39_word_new_line_1 | clinic |  
+| bip_39_word_new_line_10 | clinic
 dial
 rule
 common
@@ -55,7 +55,7 @@ scorpion
 elephant
 maximum
 wish |  
-| bip_39_word_new_line11 | clinic
+| bip_39_word_new_line_11 | clinic
 dial
 rule
 common
@@ -66,7 +66,7 @@ elephant
 maximum
 wish
 quality |  
-| bip_39_word_new_line12 | clinic
+| bip_39_word_new_line_12 | clinic
 dial
 rule
 common
@@ -78,34 +78,34 @@ maximum
 wish
 quality
 amused |  
-| bip_39_word_new_line2 | clinic
+| bip_39_word_new_line_2 | clinic
 dial |  
-| bip_39_word_new_line3 | clinic
+| bip_39_word_new_line_3 | clinic
 dial
 rule |  
-| bip_39_word_new_line4 | clinic
+| bip_39_word_new_line_4 | clinic
 dial
 rule
 common |  
-| bip_39_word_new_line5 | clinic
+| bip_39_word_new_line_5 | clinic
 dial
 rule
 common
 lift |  
-| bip_39_word_new_line6 | clinic
+| bip_39_word_new_line_6 | clinic
 dial
 rule
 common
 lift
 struggle |  
-| bip_39_word_new_line7 | clinic
+| bip_39_word_new_line_7 | clinic
 dial
 rule
 common
 lift
 struggle
 scorpion |  
-| bip_39_word_new_line8 | clinic
+| bip_39_word_new_line_8 | clinic
 dial
 rule
 common
@@ -113,7 +113,7 @@ lift
 struggle
 scorpion
 elephant |  
-| bip_39_word_new_line9 | clinic
+| bip_39_word_new_line_9 | clinic
 dial
 rule
 common

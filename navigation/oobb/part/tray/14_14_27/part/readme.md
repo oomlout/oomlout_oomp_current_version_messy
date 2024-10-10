@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | regret |  
-| bip_39_word_new_br10 | regret<br>loud<br>away<br>already<br>update<br>what<br>sport<br>flame<br>ball<br>much |  
-| bip_39_word_new_br11 | regret<br>loud<br>away<br>already<br>update<br>what<br>sport<br>flame<br>ball<br>much<br>cute |  
-| bip_39_word_new_br12 | regret<br>loud<br>away<br>already<br>update<br>what<br>sport<br>flame<br>ball<br>much<br>cute<br>arch |  
-| bip_39_word_new_br2 | regret<br>loud |  
-| bip_39_word_new_br3 | regret<br>loud<br>away |  
-| bip_39_word_new_br4 | regret<br>loud<br>away<br>already |  
-| bip_39_word_new_br5 | regret<br>loud<br>away<br>already<br>update |  
-| bip_39_word_new_br6 | regret<br>loud<br>away<br>already<br>update<br>what |  
-| bip_39_word_new_br7 | regret<br>loud<br>away<br>already<br>update<br>what<br>sport |  
-| bip_39_word_new_br8 | regret<br>loud<br>away<br>already<br>update<br>what<br>sport<br>flame |  
-| bip_39_word_new_br9 | regret<br>loud<br>away<br>already<br>update<br>what<br>sport<br>flame<br>ball |  
-| bip_39_word_new_line1 | regret |  
-| bip_39_word_new_line10 | regret
+| bip_39_word_new_br_1 | regret |  
+| bip_39_word_new_br_10 | regret<br>loud<br>away<br>already<br>update<br>what<br>sport<br>flame<br>ball<br>much |  
+| bip_39_word_new_br_11 | regret<br>loud<br>away<br>already<br>update<br>what<br>sport<br>flame<br>ball<br>much<br>cute |  
+| bip_39_word_new_br_12 | regret<br>loud<br>away<br>already<br>update<br>what<br>sport<br>flame<br>ball<br>much<br>cute<br>arch |  
+| bip_39_word_new_br_2 | regret<br>loud |  
+| bip_39_word_new_br_3 | regret<br>loud<br>away |  
+| bip_39_word_new_br_4 | regret<br>loud<br>away<br>already |  
+| bip_39_word_new_br_5 | regret<br>loud<br>away<br>already<br>update |  
+| bip_39_word_new_br_6 | regret<br>loud<br>away<br>already<br>update<br>what |  
+| bip_39_word_new_br_7 | regret<br>loud<br>away<br>already<br>update<br>what<br>sport |  
+| bip_39_word_new_br_8 | regret<br>loud<br>away<br>already<br>update<br>what<br>sport<br>flame |  
+| bip_39_word_new_br_9 | regret<br>loud<br>away<br>already<br>update<br>what<br>sport<br>flame<br>ball |  
+| bip_39_word_new_line_1 | regret |  
+| bip_39_word_new_line_10 | regret
 loud
 away
 already
@@ -55,7 +55,7 @@ sport
 flame
 ball
 much |  
-| bip_39_word_new_line11 | regret
+| bip_39_word_new_line_11 | regret
 loud
 away
 already
@@ -66,7 +66,7 @@ flame
 ball
 much
 cute |  
-| bip_39_word_new_line12 | regret
+| bip_39_word_new_line_12 | regret
 loud
 away
 already
@@ -78,34 +78,34 @@ ball
 much
 cute
 arch |  
-| bip_39_word_new_line2 | regret
+| bip_39_word_new_line_2 | regret
 loud |  
-| bip_39_word_new_line3 | regret
+| bip_39_word_new_line_3 | regret
 loud
 away |  
-| bip_39_word_new_line4 | regret
+| bip_39_word_new_line_4 | regret
 loud
 away
 already |  
-| bip_39_word_new_line5 | regret
+| bip_39_word_new_line_5 | regret
 loud
 away
 already
 update |  
-| bip_39_word_new_line6 | regret
+| bip_39_word_new_line_6 | regret
 loud
 away
 already
 update
 what |  
-| bip_39_word_new_line7 | regret
+| bip_39_word_new_line_7 | regret
 loud
 away
 already
 update
 what
 sport |  
-| bip_39_word_new_line8 | regret
+| bip_39_word_new_line_8 | regret
 loud
 away
 already
@@ -113,7 +113,7 @@ update
 what
 sport
 flame |  
-| bip_39_word_new_line9 | regret
+| bip_39_word_new_line_9 | regret
 loud
 away
 already

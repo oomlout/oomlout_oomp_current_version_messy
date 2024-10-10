@@ -1,17 +1,17 @@
-bip_39_word_new_br1: swamp
-bip_39_word_new_br10: swamp<br>inspire<br>hour<br>actual<br>plunge<br>stand<br>into<br>point<br>region<br>ladder
-bip_39_word_new_br11: swamp<br>inspire<br>hour<br>actual<br>plunge<br>stand<br>into<br>point<br>region<br>ladder<br>bulk
-bip_39_word_new_br12: swamp<br>inspire<br>hour<br>actual<br>plunge<br>stand<br>into<br>point<br>region<br>ladder<br>bulk<br>above
-bip_39_word_new_br2: swamp<br>inspire
-bip_39_word_new_br3: swamp<br>inspire<br>hour
-bip_39_word_new_br4: swamp<br>inspire<br>hour<br>actual
-bip_39_word_new_br5: swamp<br>inspire<br>hour<br>actual<br>plunge
-bip_39_word_new_br6: swamp<br>inspire<br>hour<br>actual<br>plunge<br>stand
-bip_39_word_new_br7: swamp<br>inspire<br>hour<br>actual<br>plunge<br>stand<br>into
-bip_39_word_new_br8: swamp<br>inspire<br>hour<br>actual<br>plunge<br>stand<br>into<br>point
-bip_39_word_new_br9: swamp<br>inspire<br>hour<br>actual<br>plunge<br>stand<br>into<br>point<br>region
-bip_39_word_new_line1: swamp
-bip_39_word_new_line10: 'swamp
+bip_39_word_new_br_1: swamp
+bip_39_word_new_br_10: swamp<br>inspire<br>hour<br>actual<br>plunge<br>stand<br>into<br>point<br>region<br>ladder
+bip_39_word_new_br_11: swamp<br>inspire<br>hour<br>actual<br>plunge<br>stand<br>into<br>point<br>region<br>ladder<br>bulk
+bip_39_word_new_br_12: swamp<br>inspire<br>hour<br>actual<br>plunge<br>stand<br>into<br>point<br>region<br>ladder<br>bulk<br>above
+bip_39_word_new_br_2: swamp<br>inspire
+bip_39_word_new_br_3: swamp<br>inspire<br>hour
+bip_39_word_new_br_4: swamp<br>inspire<br>hour<br>actual
+bip_39_word_new_br_5: swamp<br>inspire<br>hour<br>actual<br>plunge
+bip_39_word_new_br_6: swamp<br>inspire<br>hour<br>actual<br>plunge<br>stand
+bip_39_word_new_br_7: swamp<br>inspire<br>hour<br>actual<br>plunge<br>stand<br>into
+bip_39_word_new_br_8: swamp<br>inspire<br>hour<br>actual<br>plunge<br>stand<br>into<br>point
+bip_39_word_new_br_9: swamp<br>inspire<br>hour<br>actual<br>plunge<br>stand<br>into<br>point<br>region
+bip_39_word_new_line_1: swamp
+bip_39_word_new_line_10: 'swamp
 
   inspire
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'swamp
   region
 
   ladder'
-bip_39_word_new_line11: 'swamp
+bip_39_word_new_line_11: 'swamp
 
   inspire
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'swamp
   ladder
 
   bulk'
-bip_39_word_new_line12: 'swamp
+bip_39_word_new_line_12: 'swamp
 
   inspire
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'swamp
   bulk
 
   above'
-bip_39_word_new_line2: 'swamp
+bip_39_word_new_line_2: 'swamp
 
   inspire'
-bip_39_word_new_line3: 'swamp
+bip_39_word_new_line_3: 'swamp
 
   inspire
 
   hour'
-bip_39_word_new_line4: 'swamp
+bip_39_word_new_line_4: 'swamp
 
   inspire
 
   hour
 
   actual'
-bip_39_word_new_line5: 'swamp
+bip_39_word_new_line_5: 'swamp
 
   inspire
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'swamp
   actual
 
   plunge'
-bip_39_word_new_line6: 'swamp
+bip_39_word_new_line_6: 'swamp
 
   inspire
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'swamp
   plunge
 
   stand'
-bip_39_word_new_line7: 'swamp
+bip_39_word_new_line_7: 'swamp
 
   inspire
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'swamp
   stand
 
   into'
-bip_39_word_new_line8: 'swamp
+bip_39_word_new_line_8: 'swamp
 
   inspire
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'swamp
   into
 
   point'
-bip_39_word_new_line9: 'swamp
+bip_39_word_new_line_9: 'swamp
 
   inspire
 

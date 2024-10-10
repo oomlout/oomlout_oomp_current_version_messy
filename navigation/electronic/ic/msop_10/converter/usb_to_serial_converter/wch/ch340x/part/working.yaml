@@ -1,17 +1,17 @@
-bip_39_word_new_br1: process
-bip_39_word_new_br10: process<br>remind<br>fix<br>return<br>oven<br>loop<br>museum<br>bacon<br>junk<br>arrive
-bip_39_word_new_br11: process<br>remind<br>fix<br>return<br>oven<br>loop<br>museum<br>bacon<br>junk<br>arrive<br>mountain
-bip_39_word_new_br12: process<br>remind<br>fix<br>return<br>oven<br>loop<br>museum<br>bacon<br>junk<br>arrive<br>mountain<br>abstract
-bip_39_word_new_br2: process<br>remind
-bip_39_word_new_br3: process<br>remind<br>fix
-bip_39_word_new_br4: process<br>remind<br>fix<br>return
-bip_39_word_new_br5: process<br>remind<br>fix<br>return<br>oven
-bip_39_word_new_br6: process<br>remind<br>fix<br>return<br>oven<br>loop
-bip_39_word_new_br7: process<br>remind<br>fix<br>return<br>oven<br>loop<br>museum
-bip_39_word_new_br8: process<br>remind<br>fix<br>return<br>oven<br>loop<br>museum<br>bacon
-bip_39_word_new_br9: process<br>remind<br>fix<br>return<br>oven<br>loop<br>museum<br>bacon<br>junk
-bip_39_word_new_line1: process
-bip_39_word_new_line10: 'process
+bip_39_word_new_br_1: process
+bip_39_word_new_br_10: process<br>remind<br>fix<br>return<br>oven<br>loop<br>museum<br>bacon<br>junk<br>arrive
+bip_39_word_new_br_11: process<br>remind<br>fix<br>return<br>oven<br>loop<br>museum<br>bacon<br>junk<br>arrive<br>mountain
+bip_39_word_new_br_12: process<br>remind<br>fix<br>return<br>oven<br>loop<br>museum<br>bacon<br>junk<br>arrive<br>mountain<br>abstract
+bip_39_word_new_br_2: process<br>remind
+bip_39_word_new_br_3: process<br>remind<br>fix
+bip_39_word_new_br_4: process<br>remind<br>fix<br>return
+bip_39_word_new_br_5: process<br>remind<br>fix<br>return<br>oven
+bip_39_word_new_br_6: process<br>remind<br>fix<br>return<br>oven<br>loop
+bip_39_word_new_br_7: process<br>remind<br>fix<br>return<br>oven<br>loop<br>museum
+bip_39_word_new_br_8: process<br>remind<br>fix<br>return<br>oven<br>loop<br>museum<br>bacon
+bip_39_word_new_br_9: process<br>remind<br>fix<br>return<br>oven<br>loop<br>museum<br>bacon<br>junk
+bip_39_word_new_line_1: process
+bip_39_word_new_line_10: 'process
 
   remind
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'process
   junk
 
   arrive'
-bip_39_word_new_line11: 'process
+bip_39_word_new_line_11: 'process
 
   remind
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'process
   arrive
 
   mountain'
-bip_39_word_new_line12: 'process
+bip_39_word_new_line_12: 'process
 
   remind
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'process
   mountain
 
   abstract'
-bip_39_word_new_line2: 'process
+bip_39_word_new_line_2: 'process
 
   remind'
-bip_39_word_new_line3: 'process
+bip_39_word_new_line_3: 'process
 
   remind
 
   fix'
-bip_39_word_new_line4: 'process
+bip_39_word_new_line_4: 'process
 
   remind
 
   fix
 
   return'
-bip_39_word_new_line5: 'process
+bip_39_word_new_line_5: 'process
 
   remind
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'process
   return
 
   oven'
-bip_39_word_new_line6: 'process
+bip_39_word_new_line_6: 'process
 
   remind
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'process
   oven
 
   loop'
-bip_39_word_new_line7: 'process
+bip_39_word_new_line_7: 'process
 
   remind
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'process
   loop
 
   museum'
-bip_39_word_new_line8: 'process
+bip_39_word_new_line_8: 'process
 
   remind
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'process
   museum
 
   bacon'
-bip_39_word_new_line9: 'process
+bip_39_word_new_line_9: 'process
 
   remind
 

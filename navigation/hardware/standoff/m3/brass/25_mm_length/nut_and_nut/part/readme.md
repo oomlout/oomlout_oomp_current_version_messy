@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | second |  
-| bip_39_word_new_br10 | second<br>expand<br>fork<br>sugar<br>sport<br>chest<br>tape<br>solid<br>embark<br>boss |  
-| bip_39_word_new_br11 | second<br>expand<br>fork<br>sugar<br>sport<br>chest<br>tape<br>solid<br>embark<br>boss<br>village |  
-| bip_39_word_new_br12 | second<br>expand<br>fork<br>sugar<br>sport<br>chest<br>tape<br>solid<br>embark<br>boss<br>village<br>absent |  
-| bip_39_word_new_br2 | second<br>expand |  
-| bip_39_word_new_br3 | second<br>expand<br>fork |  
-| bip_39_word_new_br4 | second<br>expand<br>fork<br>sugar |  
-| bip_39_word_new_br5 | second<br>expand<br>fork<br>sugar<br>sport |  
-| bip_39_word_new_br6 | second<br>expand<br>fork<br>sugar<br>sport<br>chest |  
-| bip_39_word_new_br7 | second<br>expand<br>fork<br>sugar<br>sport<br>chest<br>tape |  
-| bip_39_word_new_br8 | second<br>expand<br>fork<br>sugar<br>sport<br>chest<br>tape<br>solid |  
-| bip_39_word_new_br9 | second<br>expand<br>fork<br>sugar<br>sport<br>chest<br>tape<br>solid<br>embark |  
-| bip_39_word_new_line1 | second |  
-| bip_39_word_new_line10 | second
+| bip_39_word_new_br_1 | second |  
+| bip_39_word_new_br_10 | second<br>expand<br>fork<br>sugar<br>sport<br>chest<br>tape<br>solid<br>embark<br>boss |  
+| bip_39_word_new_br_11 | second<br>expand<br>fork<br>sugar<br>sport<br>chest<br>tape<br>solid<br>embark<br>boss<br>village |  
+| bip_39_word_new_br_12 | second<br>expand<br>fork<br>sugar<br>sport<br>chest<br>tape<br>solid<br>embark<br>boss<br>village<br>absent |  
+| bip_39_word_new_br_2 | second<br>expand |  
+| bip_39_word_new_br_3 | second<br>expand<br>fork |  
+| bip_39_word_new_br_4 | second<br>expand<br>fork<br>sugar |  
+| bip_39_word_new_br_5 | second<br>expand<br>fork<br>sugar<br>sport |  
+| bip_39_word_new_br_6 | second<br>expand<br>fork<br>sugar<br>sport<br>chest |  
+| bip_39_word_new_br_7 | second<br>expand<br>fork<br>sugar<br>sport<br>chest<br>tape |  
+| bip_39_word_new_br_8 | second<br>expand<br>fork<br>sugar<br>sport<br>chest<br>tape<br>solid |  
+| bip_39_word_new_br_9 | second<br>expand<br>fork<br>sugar<br>sport<br>chest<br>tape<br>solid<br>embark |  
+| bip_39_word_new_line_1 | second |  
+| bip_39_word_new_line_10 | second
 expand
 fork
 sugar
@@ -55,7 +55,7 @@ tape
 solid
 embark
 boss |  
-| bip_39_word_new_line11 | second
+| bip_39_word_new_line_11 | second
 expand
 fork
 sugar
@@ -66,7 +66,7 @@ solid
 embark
 boss
 village |  
-| bip_39_word_new_line12 | second
+| bip_39_word_new_line_12 | second
 expand
 fork
 sugar
@@ -78,34 +78,34 @@ embark
 boss
 village
 absent |  
-| bip_39_word_new_line2 | second
+| bip_39_word_new_line_2 | second
 expand |  
-| bip_39_word_new_line3 | second
+| bip_39_word_new_line_3 | second
 expand
 fork |  
-| bip_39_word_new_line4 | second
+| bip_39_word_new_line_4 | second
 expand
 fork
 sugar |  
-| bip_39_word_new_line5 | second
+| bip_39_word_new_line_5 | second
 expand
 fork
 sugar
 sport |  
-| bip_39_word_new_line6 | second
+| bip_39_word_new_line_6 | second
 expand
 fork
 sugar
 sport
 chest |  
-| bip_39_word_new_line7 | second
+| bip_39_word_new_line_7 | second
 expand
 fork
 sugar
 sport
 chest
 tape |  
-| bip_39_word_new_line8 | second
+| bip_39_word_new_line_8 | second
 expand
 fork
 sugar
@@ -113,7 +113,7 @@ sport
 chest
 tape
 solid |  
-| bip_39_word_new_line9 | second
+| bip_39_word_new_line_9 | second
 expand
 fork
 sugar

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | symptom |  
-| bip_39_word_new_br10 | symptom<br>liquid<br>random<br>sound<br>loyal<br>balcony<br>quantum<br>mercy<br>cruel<br>reform |  
-| bip_39_word_new_br11 | symptom<br>liquid<br>random<br>sound<br>loyal<br>balcony<br>quantum<br>mercy<br>cruel<br>reform<br>outdoor |  
-| bip_39_word_new_br12 | symptom<br>liquid<br>random<br>sound<br>loyal<br>balcony<br>quantum<br>mercy<br>cruel<br>reform<br>outdoor<br>anxiety |  
-| bip_39_word_new_br2 | symptom<br>liquid |  
-| bip_39_word_new_br3 | symptom<br>liquid<br>random |  
-| bip_39_word_new_br4 | symptom<br>liquid<br>random<br>sound |  
-| bip_39_word_new_br5 | symptom<br>liquid<br>random<br>sound<br>loyal |  
-| bip_39_word_new_br6 | symptom<br>liquid<br>random<br>sound<br>loyal<br>balcony |  
-| bip_39_word_new_br7 | symptom<br>liquid<br>random<br>sound<br>loyal<br>balcony<br>quantum |  
-| bip_39_word_new_br8 | symptom<br>liquid<br>random<br>sound<br>loyal<br>balcony<br>quantum<br>mercy |  
-| bip_39_word_new_br9 | symptom<br>liquid<br>random<br>sound<br>loyal<br>balcony<br>quantum<br>mercy<br>cruel |  
-| bip_39_word_new_line1 | symptom |  
-| bip_39_word_new_line10 | symptom
+| bip_39_word_new_br_1 | symptom |  
+| bip_39_word_new_br_10 | symptom<br>liquid<br>random<br>sound<br>loyal<br>balcony<br>quantum<br>mercy<br>cruel<br>reform |  
+| bip_39_word_new_br_11 | symptom<br>liquid<br>random<br>sound<br>loyal<br>balcony<br>quantum<br>mercy<br>cruel<br>reform<br>outdoor |  
+| bip_39_word_new_br_12 | symptom<br>liquid<br>random<br>sound<br>loyal<br>balcony<br>quantum<br>mercy<br>cruel<br>reform<br>outdoor<br>anxiety |  
+| bip_39_word_new_br_2 | symptom<br>liquid |  
+| bip_39_word_new_br_3 | symptom<br>liquid<br>random |  
+| bip_39_word_new_br_4 | symptom<br>liquid<br>random<br>sound |  
+| bip_39_word_new_br_5 | symptom<br>liquid<br>random<br>sound<br>loyal |  
+| bip_39_word_new_br_6 | symptom<br>liquid<br>random<br>sound<br>loyal<br>balcony |  
+| bip_39_word_new_br_7 | symptom<br>liquid<br>random<br>sound<br>loyal<br>balcony<br>quantum |  
+| bip_39_word_new_br_8 | symptom<br>liquid<br>random<br>sound<br>loyal<br>balcony<br>quantum<br>mercy |  
+| bip_39_word_new_br_9 | symptom<br>liquid<br>random<br>sound<br>loyal<br>balcony<br>quantum<br>mercy<br>cruel |  
+| bip_39_word_new_line_1 | symptom |  
+| bip_39_word_new_line_10 | symptom
 liquid
 random
 sound
@@ -55,7 +55,7 @@ quantum
 mercy
 cruel
 reform |  
-| bip_39_word_new_line11 | symptom
+| bip_39_word_new_line_11 | symptom
 liquid
 random
 sound
@@ -66,7 +66,7 @@ mercy
 cruel
 reform
 outdoor |  
-| bip_39_word_new_line12 | symptom
+| bip_39_word_new_line_12 | symptom
 liquid
 random
 sound
@@ -78,34 +78,34 @@ cruel
 reform
 outdoor
 anxiety |  
-| bip_39_word_new_line2 | symptom
+| bip_39_word_new_line_2 | symptom
 liquid |  
-| bip_39_word_new_line3 | symptom
+| bip_39_word_new_line_3 | symptom
 liquid
 random |  
-| bip_39_word_new_line4 | symptom
+| bip_39_word_new_line_4 | symptom
 liquid
 random
 sound |  
-| bip_39_word_new_line5 | symptom
+| bip_39_word_new_line_5 | symptom
 liquid
 random
 sound
 loyal |  
-| bip_39_word_new_line6 | symptom
+| bip_39_word_new_line_6 | symptom
 liquid
 random
 sound
 loyal
 balcony |  
-| bip_39_word_new_line7 | symptom
+| bip_39_word_new_line_7 | symptom
 liquid
 random
 sound
 loyal
 balcony
 quantum |  
-| bip_39_word_new_line8 | symptom
+| bip_39_word_new_line_8 | symptom
 liquid
 random
 sound
@@ -113,7 +113,7 @@ loyal
 balcony
 quantum
 mercy |  
-| bip_39_word_new_line9 | symptom
+| bip_39_word_new_line_9 | symptom
 liquid
 random
 sound

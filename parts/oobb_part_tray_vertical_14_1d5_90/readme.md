@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | step |  
-| bip_39_word_new_br10 | step<br>foil<br>correct<br>where<br>roof<br>text<br>marble<br>similar<br>zero<br>guide |  
-| bip_39_word_new_br11 | step<br>foil<br>correct<br>where<br>roof<br>text<br>marble<br>similar<br>zero<br>guide<br>early |  
-| bip_39_word_new_br12 | step<br>foil<br>correct<br>where<br>roof<br>text<br>marble<br>similar<br>zero<br>guide<br>early<br>auction |  
-| bip_39_word_new_br2 | step<br>foil |  
-| bip_39_word_new_br3 | step<br>foil<br>correct |  
-| bip_39_word_new_br4 | step<br>foil<br>correct<br>where |  
-| bip_39_word_new_br5 | step<br>foil<br>correct<br>where<br>roof |  
-| bip_39_word_new_br6 | step<br>foil<br>correct<br>where<br>roof<br>text |  
-| bip_39_word_new_br7 | step<br>foil<br>correct<br>where<br>roof<br>text<br>marble |  
-| bip_39_word_new_br8 | step<br>foil<br>correct<br>where<br>roof<br>text<br>marble<br>similar |  
-| bip_39_word_new_br9 | step<br>foil<br>correct<br>where<br>roof<br>text<br>marble<br>similar<br>zero |  
-| bip_39_word_new_line1 | step |  
-| bip_39_word_new_line10 | step
+| bip_39_word_new_br_1 | step |  
+| bip_39_word_new_br_10 | step<br>foil<br>correct<br>where<br>roof<br>text<br>marble<br>similar<br>zero<br>guide |  
+| bip_39_word_new_br_11 | step<br>foil<br>correct<br>where<br>roof<br>text<br>marble<br>similar<br>zero<br>guide<br>early |  
+| bip_39_word_new_br_12 | step<br>foil<br>correct<br>where<br>roof<br>text<br>marble<br>similar<br>zero<br>guide<br>early<br>auction |  
+| bip_39_word_new_br_2 | step<br>foil |  
+| bip_39_word_new_br_3 | step<br>foil<br>correct |  
+| bip_39_word_new_br_4 | step<br>foil<br>correct<br>where |  
+| bip_39_word_new_br_5 | step<br>foil<br>correct<br>where<br>roof |  
+| bip_39_word_new_br_6 | step<br>foil<br>correct<br>where<br>roof<br>text |  
+| bip_39_word_new_br_7 | step<br>foil<br>correct<br>where<br>roof<br>text<br>marble |  
+| bip_39_word_new_br_8 | step<br>foil<br>correct<br>where<br>roof<br>text<br>marble<br>similar |  
+| bip_39_word_new_br_9 | step<br>foil<br>correct<br>where<br>roof<br>text<br>marble<br>similar<br>zero |  
+| bip_39_word_new_line_1 | step |  
+| bip_39_word_new_line_10 | step
 foil
 correct
 where
@@ -55,7 +55,7 @@ marble
 similar
 zero
 guide |  
-| bip_39_word_new_line11 | step
+| bip_39_word_new_line_11 | step
 foil
 correct
 where
@@ -66,7 +66,7 @@ similar
 zero
 guide
 early |  
-| bip_39_word_new_line12 | step
+| bip_39_word_new_line_12 | step
 foil
 correct
 where
@@ -78,34 +78,34 @@ zero
 guide
 early
 auction |  
-| bip_39_word_new_line2 | step
+| bip_39_word_new_line_2 | step
 foil |  
-| bip_39_word_new_line3 | step
+| bip_39_word_new_line_3 | step
 foil
 correct |  
-| bip_39_word_new_line4 | step
+| bip_39_word_new_line_4 | step
 foil
 correct
 where |  
-| bip_39_word_new_line5 | step
+| bip_39_word_new_line_5 | step
 foil
 correct
 where
 roof |  
-| bip_39_word_new_line6 | step
+| bip_39_word_new_line_6 | step
 foil
 correct
 where
 roof
 text |  
-| bip_39_word_new_line7 | step
+| bip_39_word_new_line_7 | step
 foil
 correct
 where
 roof
 text
 marble |  
-| bip_39_word_new_line8 | step
+| bip_39_word_new_line_8 | step
 foil
 correct
 where
@@ -113,7 +113,7 @@ roof
 text
 marble
 similar |  
-| bip_39_word_new_line9 | step
+| bip_39_word_new_line_9 | step
 foil
 correct
 where

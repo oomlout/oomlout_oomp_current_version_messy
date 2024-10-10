@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | visit |  
-| bip_39_word_new_br10 | visit<br>suit<br>wrist<br>talent<br>ability<br>tail<br>wedding<br>favorite<br>escape<br>trigger |  
-| bip_39_word_new_br11 | visit<br>suit<br>wrist<br>talent<br>ability<br>tail<br>wedding<br>favorite<br>escape<br>trigger<br>pride |  
-| bip_39_word_new_br12 | visit<br>suit<br>wrist<br>talent<br>ability<br>tail<br>wedding<br>favorite<br>escape<br>trigger<br>pride<br>around |  
-| bip_39_word_new_br2 | visit<br>suit |  
-| bip_39_word_new_br3 | visit<br>suit<br>wrist |  
-| bip_39_word_new_br4 | visit<br>suit<br>wrist<br>talent |  
-| bip_39_word_new_br5 | visit<br>suit<br>wrist<br>talent<br>ability |  
-| bip_39_word_new_br6 | visit<br>suit<br>wrist<br>talent<br>ability<br>tail |  
-| bip_39_word_new_br7 | visit<br>suit<br>wrist<br>talent<br>ability<br>tail<br>wedding |  
-| bip_39_word_new_br8 | visit<br>suit<br>wrist<br>talent<br>ability<br>tail<br>wedding<br>favorite |  
-| bip_39_word_new_br9 | visit<br>suit<br>wrist<br>talent<br>ability<br>tail<br>wedding<br>favorite<br>escape |  
-| bip_39_word_new_line1 | visit |  
-| bip_39_word_new_line10 | visit
+| bip_39_word_new_br_1 | visit |  
+| bip_39_word_new_br_10 | visit<br>suit<br>wrist<br>talent<br>ability<br>tail<br>wedding<br>favorite<br>escape<br>trigger |  
+| bip_39_word_new_br_11 | visit<br>suit<br>wrist<br>talent<br>ability<br>tail<br>wedding<br>favorite<br>escape<br>trigger<br>pride |  
+| bip_39_word_new_br_12 | visit<br>suit<br>wrist<br>talent<br>ability<br>tail<br>wedding<br>favorite<br>escape<br>trigger<br>pride<br>around |  
+| bip_39_word_new_br_2 | visit<br>suit |  
+| bip_39_word_new_br_3 | visit<br>suit<br>wrist |  
+| bip_39_word_new_br_4 | visit<br>suit<br>wrist<br>talent |  
+| bip_39_word_new_br_5 | visit<br>suit<br>wrist<br>talent<br>ability |  
+| bip_39_word_new_br_6 | visit<br>suit<br>wrist<br>talent<br>ability<br>tail |  
+| bip_39_word_new_br_7 | visit<br>suit<br>wrist<br>talent<br>ability<br>tail<br>wedding |  
+| bip_39_word_new_br_8 | visit<br>suit<br>wrist<br>talent<br>ability<br>tail<br>wedding<br>favorite |  
+| bip_39_word_new_br_9 | visit<br>suit<br>wrist<br>talent<br>ability<br>tail<br>wedding<br>favorite<br>escape |  
+| bip_39_word_new_line_1 | visit |  
+| bip_39_word_new_line_10 | visit
 suit
 wrist
 talent
@@ -55,7 +55,7 @@ wedding
 favorite
 escape
 trigger |  
-| bip_39_word_new_line11 | visit
+| bip_39_word_new_line_11 | visit
 suit
 wrist
 talent
@@ -66,7 +66,7 @@ favorite
 escape
 trigger
 pride |  
-| bip_39_word_new_line12 | visit
+| bip_39_word_new_line_12 | visit
 suit
 wrist
 talent
@@ -78,34 +78,34 @@ escape
 trigger
 pride
 around |  
-| bip_39_word_new_line2 | visit
+| bip_39_word_new_line_2 | visit
 suit |  
-| bip_39_word_new_line3 | visit
+| bip_39_word_new_line_3 | visit
 suit
 wrist |  
-| bip_39_word_new_line4 | visit
+| bip_39_word_new_line_4 | visit
 suit
 wrist
 talent |  
-| bip_39_word_new_line5 | visit
+| bip_39_word_new_line_5 | visit
 suit
 wrist
 talent
 ability |  
-| bip_39_word_new_line6 | visit
+| bip_39_word_new_line_6 | visit
 suit
 wrist
 talent
 ability
 tail |  
-| bip_39_word_new_line7 | visit
+| bip_39_word_new_line_7 | visit
 suit
 wrist
 talent
 ability
 tail
 wedding |  
-| bip_39_word_new_line8 | visit
+| bip_39_word_new_line_8 | visit
 suit
 wrist
 talent
@@ -113,7 +113,7 @@ ability
 tail
 wedding
 favorite |  
-| bip_39_word_new_line9 | visit
+| bip_39_word_new_line_9 | visit
 suit
 wrist
 talent

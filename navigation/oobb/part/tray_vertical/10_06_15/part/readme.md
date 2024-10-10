@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | true |  
-| bip_39_word_new_br10 | true<br>sing<br>pass<br>category<br>ocean<br>matter<br>luxury<br>nothing<br>ribbon<br>random |  
-| bip_39_word_new_br11 | true<br>sing<br>pass<br>category<br>ocean<br>matter<br>luxury<br>nothing<br>ribbon<br>random<br>visa |  
-| bip_39_word_new_br12 | true<br>sing<br>pass<br>category<br>ocean<br>matter<br>luxury<br>nothing<br>ribbon<br>random<br>visa<br>announce |  
-| bip_39_word_new_br2 | true<br>sing |  
-| bip_39_word_new_br3 | true<br>sing<br>pass |  
-| bip_39_word_new_br4 | true<br>sing<br>pass<br>category |  
-| bip_39_word_new_br5 | true<br>sing<br>pass<br>category<br>ocean |  
-| bip_39_word_new_br6 | true<br>sing<br>pass<br>category<br>ocean<br>matter |  
-| bip_39_word_new_br7 | true<br>sing<br>pass<br>category<br>ocean<br>matter<br>luxury |  
-| bip_39_word_new_br8 | true<br>sing<br>pass<br>category<br>ocean<br>matter<br>luxury<br>nothing |  
-| bip_39_word_new_br9 | true<br>sing<br>pass<br>category<br>ocean<br>matter<br>luxury<br>nothing<br>ribbon |  
-| bip_39_word_new_line1 | true |  
-| bip_39_word_new_line10 | true
+| bip_39_word_new_br_1 | true |  
+| bip_39_word_new_br_10 | true<br>sing<br>pass<br>category<br>ocean<br>matter<br>luxury<br>nothing<br>ribbon<br>random |  
+| bip_39_word_new_br_11 | true<br>sing<br>pass<br>category<br>ocean<br>matter<br>luxury<br>nothing<br>ribbon<br>random<br>visa |  
+| bip_39_word_new_br_12 | true<br>sing<br>pass<br>category<br>ocean<br>matter<br>luxury<br>nothing<br>ribbon<br>random<br>visa<br>announce |  
+| bip_39_word_new_br_2 | true<br>sing |  
+| bip_39_word_new_br_3 | true<br>sing<br>pass |  
+| bip_39_word_new_br_4 | true<br>sing<br>pass<br>category |  
+| bip_39_word_new_br_5 | true<br>sing<br>pass<br>category<br>ocean |  
+| bip_39_word_new_br_6 | true<br>sing<br>pass<br>category<br>ocean<br>matter |  
+| bip_39_word_new_br_7 | true<br>sing<br>pass<br>category<br>ocean<br>matter<br>luxury |  
+| bip_39_word_new_br_8 | true<br>sing<br>pass<br>category<br>ocean<br>matter<br>luxury<br>nothing |  
+| bip_39_word_new_br_9 | true<br>sing<br>pass<br>category<br>ocean<br>matter<br>luxury<br>nothing<br>ribbon |  
+| bip_39_word_new_line_1 | true |  
+| bip_39_word_new_line_10 | true
 sing
 pass
 category
@@ -55,7 +55,7 @@ luxury
 nothing
 ribbon
 random |  
-| bip_39_word_new_line11 | true
+| bip_39_word_new_line_11 | true
 sing
 pass
 category
@@ -66,7 +66,7 @@ nothing
 ribbon
 random
 visa |  
-| bip_39_word_new_line12 | true
+| bip_39_word_new_line_12 | true
 sing
 pass
 category
@@ -78,34 +78,34 @@ ribbon
 random
 visa
 announce |  
-| bip_39_word_new_line2 | true
+| bip_39_word_new_line_2 | true
 sing |  
-| bip_39_word_new_line3 | true
+| bip_39_word_new_line_3 | true
 sing
 pass |  
-| bip_39_word_new_line4 | true
+| bip_39_word_new_line_4 | true
 sing
 pass
 category |  
-| bip_39_word_new_line5 | true
+| bip_39_word_new_line_5 | true
 sing
 pass
 category
 ocean |  
-| bip_39_word_new_line6 | true
+| bip_39_word_new_line_6 | true
 sing
 pass
 category
 ocean
 matter |  
-| bip_39_word_new_line7 | true
+| bip_39_word_new_line_7 | true
 sing
 pass
 category
 ocean
 matter
 luxury |  
-| bip_39_word_new_line8 | true
+| bip_39_word_new_line_8 | true
 sing
 pass
 category
@@ -113,7 +113,7 @@ ocean
 matter
 luxury
 nothing |  
-| bip_39_word_new_line9 | true
+| bip_39_word_new_line_9 | true
 sing
 pass
 category

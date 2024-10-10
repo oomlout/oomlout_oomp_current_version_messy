@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | code |  
-| bip_39_word_new_br10 | code<br>upset<br>pass<br>guide<br>sign<br>wide<br>moral<br>afraid<br>forest<br>bubble |  
-| bip_39_word_new_br11 | code<br>upset<br>pass<br>guide<br>sign<br>wide<br>moral<br>afraid<br>forest<br>bubble<br>find |  
-| bip_39_word_new_br12 | code<br>upset<br>pass<br>guide<br>sign<br>wide<br>moral<br>afraid<br>forest<br>bubble<br>find<br>acquire |  
-| bip_39_word_new_br2 | code<br>upset |  
-| bip_39_word_new_br3 | code<br>upset<br>pass |  
-| bip_39_word_new_br4 | code<br>upset<br>pass<br>guide |  
-| bip_39_word_new_br5 | code<br>upset<br>pass<br>guide<br>sign |  
-| bip_39_word_new_br6 | code<br>upset<br>pass<br>guide<br>sign<br>wide |  
-| bip_39_word_new_br7 | code<br>upset<br>pass<br>guide<br>sign<br>wide<br>moral |  
-| bip_39_word_new_br8 | code<br>upset<br>pass<br>guide<br>sign<br>wide<br>moral<br>afraid |  
-| bip_39_word_new_br9 | code<br>upset<br>pass<br>guide<br>sign<br>wide<br>moral<br>afraid<br>forest |  
-| bip_39_word_new_line1 | code |  
-| bip_39_word_new_line10 | code
+| bip_39_word_new_br_1 | code |  
+| bip_39_word_new_br_10 | code<br>upset<br>pass<br>guide<br>sign<br>wide<br>moral<br>afraid<br>forest<br>bubble |  
+| bip_39_word_new_br_11 | code<br>upset<br>pass<br>guide<br>sign<br>wide<br>moral<br>afraid<br>forest<br>bubble<br>find |  
+| bip_39_word_new_br_12 | code<br>upset<br>pass<br>guide<br>sign<br>wide<br>moral<br>afraid<br>forest<br>bubble<br>find<br>acquire |  
+| bip_39_word_new_br_2 | code<br>upset |  
+| bip_39_word_new_br_3 | code<br>upset<br>pass |  
+| bip_39_word_new_br_4 | code<br>upset<br>pass<br>guide |  
+| bip_39_word_new_br_5 | code<br>upset<br>pass<br>guide<br>sign |  
+| bip_39_word_new_br_6 | code<br>upset<br>pass<br>guide<br>sign<br>wide |  
+| bip_39_word_new_br_7 | code<br>upset<br>pass<br>guide<br>sign<br>wide<br>moral |  
+| bip_39_word_new_br_8 | code<br>upset<br>pass<br>guide<br>sign<br>wide<br>moral<br>afraid |  
+| bip_39_word_new_br_9 | code<br>upset<br>pass<br>guide<br>sign<br>wide<br>moral<br>afraid<br>forest |  
+| bip_39_word_new_line_1 | code |  
+| bip_39_word_new_line_10 | code
 upset
 pass
 guide
@@ -55,7 +55,7 @@ moral
 afraid
 forest
 bubble |  
-| bip_39_word_new_line11 | code
+| bip_39_word_new_line_11 | code
 upset
 pass
 guide
@@ -66,7 +66,7 @@ afraid
 forest
 bubble
 find |  
-| bip_39_word_new_line12 | code
+| bip_39_word_new_line_12 | code
 upset
 pass
 guide
@@ -78,34 +78,34 @@ forest
 bubble
 find
 acquire |  
-| bip_39_word_new_line2 | code
+| bip_39_word_new_line_2 | code
 upset |  
-| bip_39_word_new_line3 | code
+| bip_39_word_new_line_3 | code
 upset
 pass |  
-| bip_39_word_new_line4 | code
+| bip_39_word_new_line_4 | code
 upset
 pass
 guide |  
-| bip_39_word_new_line5 | code
+| bip_39_word_new_line_5 | code
 upset
 pass
 guide
 sign |  
-| bip_39_word_new_line6 | code
+| bip_39_word_new_line_6 | code
 upset
 pass
 guide
 sign
 wide |  
-| bip_39_word_new_line7 | code
+| bip_39_word_new_line_7 | code
 upset
 pass
 guide
 sign
 wide
 moral |  
-| bip_39_word_new_line8 | code
+| bip_39_word_new_line_8 | code
 upset
 pass
 guide
@@ -113,7 +113,7 @@ sign
 wide
 moral
 afraid |  
-| bip_39_word_new_line9 | code
+| bip_39_word_new_line_9 | code
 upset
 pass
 guide

@@ -1,17 +1,17 @@
-bip_39_word_new_br1: exit
-bip_39_word_new_br10: exit<br>call<br>palace<br>expose<br>faint<br>huge<br>misery<br>lock<br>forest<br>true
-bip_39_word_new_br11: exit<br>call<br>palace<br>expose<br>faint<br>huge<br>misery<br>lock<br>forest<br>true<br>ghost
-bip_39_word_new_br12: exit<br>call<br>palace<br>expose<br>faint<br>huge<br>misery<br>lock<br>forest<br>true<br>ghost<br>auto
-bip_39_word_new_br2: exit<br>call
-bip_39_word_new_br3: exit<br>call<br>palace
-bip_39_word_new_br4: exit<br>call<br>palace<br>expose
-bip_39_word_new_br5: exit<br>call<br>palace<br>expose<br>faint
-bip_39_word_new_br6: exit<br>call<br>palace<br>expose<br>faint<br>huge
-bip_39_word_new_br7: exit<br>call<br>palace<br>expose<br>faint<br>huge<br>misery
-bip_39_word_new_br8: exit<br>call<br>palace<br>expose<br>faint<br>huge<br>misery<br>lock
-bip_39_word_new_br9: exit<br>call<br>palace<br>expose<br>faint<br>huge<br>misery<br>lock<br>forest
-bip_39_word_new_line1: exit
-bip_39_word_new_line10: 'exit
+bip_39_word_new_br_1: exit
+bip_39_word_new_br_10: exit<br>call<br>palace<br>expose<br>faint<br>huge<br>misery<br>lock<br>forest<br>true
+bip_39_word_new_br_11: exit<br>call<br>palace<br>expose<br>faint<br>huge<br>misery<br>lock<br>forest<br>true<br>ghost
+bip_39_word_new_br_12: exit<br>call<br>palace<br>expose<br>faint<br>huge<br>misery<br>lock<br>forest<br>true<br>ghost<br>auto
+bip_39_word_new_br_2: exit<br>call
+bip_39_word_new_br_3: exit<br>call<br>palace
+bip_39_word_new_br_4: exit<br>call<br>palace<br>expose
+bip_39_word_new_br_5: exit<br>call<br>palace<br>expose<br>faint
+bip_39_word_new_br_6: exit<br>call<br>palace<br>expose<br>faint<br>huge
+bip_39_word_new_br_7: exit<br>call<br>palace<br>expose<br>faint<br>huge<br>misery
+bip_39_word_new_br_8: exit<br>call<br>palace<br>expose<br>faint<br>huge<br>misery<br>lock
+bip_39_word_new_br_9: exit<br>call<br>palace<br>expose<br>faint<br>huge<br>misery<br>lock<br>forest
+bip_39_word_new_line_1: exit
+bip_39_word_new_line_10: 'exit
 
   call
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'exit
   forest
 
   true'
-bip_39_word_new_line11: 'exit
+bip_39_word_new_line_11: 'exit
 
   call
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'exit
   true
 
   ghost'
-bip_39_word_new_line12: 'exit
+bip_39_word_new_line_12: 'exit
 
   call
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'exit
   ghost
 
   auto'
-bip_39_word_new_line2: 'exit
+bip_39_word_new_line_2: 'exit
 
   call'
-bip_39_word_new_line3: 'exit
+bip_39_word_new_line_3: 'exit
 
   call
 
   palace'
-bip_39_word_new_line4: 'exit
+bip_39_word_new_line_4: 'exit
 
   call
 
   palace
 
   expose'
-bip_39_word_new_line5: 'exit
+bip_39_word_new_line_5: 'exit
 
   call
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'exit
   expose
 
   faint'
-bip_39_word_new_line6: 'exit
+bip_39_word_new_line_6: 'exit
 
   call
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'exit
   faint
 
   huge'
-bip_39_word_new_line7: 'exit
+bip_39_word_new_line_7: 'exit
 
   call
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'exit
   huge
 
   misery'
-bip_39_word_new_line8: 'exit
+bip_39_word_new_line_8: 'exit
 
   call
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'exit
   misery
 
   lock'
-bip_39_word_new_line9: 'exit
+bip_39_word_new_line_9: 'exit
 
   call
 

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fun |  
-| bip_39_word_new_br10 | fun<br>oblige<br>crack<br>illness<br>day<br>riot<br>boost<br>tent<br>laptop<br>kitchen |  
-| bip_39_word_new_br11 | fun<br>oblige<br>crack<br>illness<br>day<br>riot<br>boost<br>tent<br>laptop<br>kitchen<br>unfold |  
-| bip_39_word_new_br12 | fun<br>oblige<br>crack<br>illness<br>day<br>riot<br>boost<br>tent<br>laptop<br>kitchen<br>unfold<br>almost |  
-| bip_39_word_new_br2 | fun<br>oblige |  
-| bip_39_word_new_br3 | fun<br>oblige<br>crack |  
-| bip_39_word_new_br4 | fun<br>oblige<br>crack<br>illness |  
-| bip_39_word_new_br5 | fun<br>oblige<br>crack<br>illness<br>day |  
-| bip_39_word_new_br6 | fun<br>oblige<br>crack<br>illness<br>day<br>riot |  
-| bip_39_word_new_br7 | fun<br>oblige<br>crack<br>illness<br>day<br>riot<br>boost |  
-| bip_39_word_new_br8 | fun<br>oblige<br>crack<br>illness<br>day<br>riot<br>boost<br>tent |  
-| bip_39_word_new_br9 | fun<br>oblige<br>crack<br>illness<br>day<br>riot<br>boost<br>tent<br>laptop |  
-| bip_39_word_new_line1 | fun |  
-| bip_39_word_new_line10 | fun
+| bip_39_word_new_br_1 | fun |  
+| bip_39_word_new_br_10 | fun<br>oblige<br>crack<br>illness<br>day<br>riot<br>boost<br>tent<br>laptop<br>kitchen |  
+| bip_39_word_new_br_11 | fun<br>oblige<br>crack<br>illness<br>day<br>riot<br>boost<br>tent<br>laptop<br>kitchen<br>unfold |  
+| bip_39_word_new_br_12 | fun<br>oblige<br>crack<br>illness<br>day<br>riot<br>boost<br>tent<br>laptop<br>kitchen<br>unfold<br>almost |  
+| bip_39_word_new_br_2 | fun<br>oblige |  
+| bip_39_word_new_br_3 | fun<br>oblige<br>crack |  
+| bip_39_word_new_br_4 | fun<br>oblige<br>crack<br>illness |  
+| bip_39_word_new_br_5 | fun<br>oblige<br>crack<br>illness<br>day |  
+| bip_39_word_new_br_6 | fun<br>oblige<br>crack<br>illness<br>day<br>riot |  
+| bip_39_word_new_br_7 | fun<br>oblige<br>crack<br>illness<br>day<br>riot<br>boost |  
+| bip_39_word_new_br_8 | fun<br>oblige<br>crack<br>illness<br>day<br>riot<br>boost<br>tent |  
+| bip_39_word_new_br_9 | fun<br>oblige<br>crack<br>illness<br>day<br>riot<br>boost<br>tent<br>laptop |  
+| bip_39_word_new_line_1 | fun |  
+| bip_39_word_new_line_10 | fun
 oblige
 crack
 illness
@@ -55,7 +55,7 @@ boost
 tent
 laptop
 kitchen |  
-| bip_39_word_new_line11 | fun
+| bip_39_word_new_line_11 | fun
 oblige
 crack
 illness
@@ -66,7 +66,7 @@ tent
 laptop
 kitchen
 unfold |  
-| bip_39_word_new_line12 | fun
+| bip_39_word_new_line_12 | fun
 oblige
 crack
 illness
@@ -78,34 +78,34 @@ laptop
 kitchen
 unfold
 almost |  
-| bip_39_word_new_line2 | fun
+| bip_39_word_new_line_2 | fun
 oblige |  
-| bip_39_word_new_line3 | fun
+| bip_39_word_new_line_3 | fun
 oblige
 crack |  
-| bip_39_word_new_line4 | fun
+| bip_39_word_new_line_4 | fun
 oblige
 crack
 illness |  
-| bip_39_word_new_line5 | fun
+| bip_39_word_new_line_5 | fun
 oblige
 crack
 illness
 day |  
-| bip_39_word_new_line6 | fun
+| bip_39_word_new_line_6 | fun
 oblige
 crack
 illness
 day
 riot |  
-| bip_39_word_new_line7 | fun
+| bip_39_word_new_line_7 | fun
 oblige
 crack
 illness
 day
 riot
 boost |  
-| bip_39_word_new_line8 | fun
+| bip_39_word_new_line_8 | fun
 oblige
 crack
 illness
@@ -113,7 +113,7 @@ day
 riot
 boost
 tent |  
-| bip_39_word_new_line9 | fun
+| bip_39_word_new_line_9 | fun
 oblige
 crack
 illness

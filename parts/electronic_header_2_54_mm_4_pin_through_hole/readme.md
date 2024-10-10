@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | void |  
-| bip_39_word_new_br10 | void<br>myth<br>first<br>wash<br>crime<br>exit<br>pride<br>tomorrow<br>ozone<br>comic |  
-| bip_39_word_new_br11 | void<br>myth<br>first<br>wash<br>crime<br>exit<br>pride<br>tomorrow<br>ozone<br>comic<br>body |  
-| bip_39_word_new_br12 | void<br>myth<br>first<br>wash<br>crime<br>exit<br>pride<br>tomorrow<br>ozone<br>comic<br>body<br>ability |  
-| bip_39_word_new_br2 | void<br>myth |  
-| bip_39_word_new_br3 | void<br>myth<br>first |  
-| bip_39_word_new_br4 | void<br>myth<br>first<br>wash |  
-| bip_39_word_new_br5 | void<br>myth<br>first<br>wash<br>crime |  
-| bip_39_word_new_br6 | void<br>myth<br>first<br>wash<br>crime<br>exit |  
-| bip_39_word_new_br7 | void<br>myth<br>first<br>wash<br>crime<br>exit<br>pride |  
-| bip_39_word_new_br8 | void<br>myth<br>first<br>wash<br>crime<br>exit<br>pride<br>tomorrow |  
-| bip_39_word_new_br9 | void<br>myth<br>first<br>wash<br>crime<br>exit<br>pride<br>tomorrow<br>ozone |  
-| bip_39_word_new_line1 | void |  
-| bip_39_word_new_line10 | void
+| bip_39_word_new_br_1 | void |  
+| bip_39_word_new_br_10 | void<br>myth<br>first<br>wash<br>crime<br>exit<br>pride<br>tomorrow<br>ozone<br>comic |  
+| bip_39_word_new_br_11 | void<br>myth<br>first<br>wash<br>crime<br>exit<br>pride<br>tomorrow<br>ozone<br>comic<br>body |  
+| bip_39_word_new_br_12 | void<br>myth<br>first<br>wash<br>crime<br>exit<br>pride<br>tomorrow<br>ozone<br>comic<br>body<br>ability |  
+| bip_39_word_new_br_2 | void<br>myth |  
+| bip_39_word_new_br_3 | void<br>myth<br>first |  
+| bip_39_word_new_br_4 | void<br>myth<br>first<br>wash |  
+| bip_39_word_new_br_5 | void<br>myth<br>first<br>wash<br>crime |  
+| bip_39_word_new_br_6 | void<br>myth<br>first<br>wash<br>crime<br>exit |  
+| bip_39_word_new_br_7 | void<br>myth<br>first<br>wash<br>crime<br>exit<br>pride |  
+| bip_39_word_new_br_8 | void<br>myth<br>first<br>wash<br>crime<br>exit<br>pride<br>tomorrow |  
+| bip_39_word_new_br_9 | void<br>myth<br>first<br>wash<br>crime<br>exit<br>pride<br>tomorrow<br>ozone |  
+| bip_39_word_new_line_1 | void |  
+| bip_39_word_new_line_10 | void
 myth
 first
 wash
@@ -55,7 +55,7 @@ pride
 tomorrow
 ozone
 comic |  
-| bip_39_word_new_line11 | void
+| bip_39_word_new_line_11 | void
 myth
 first
 wash
@@ -66,7 +66,7 @@ tomorrow
 ozone
 comic
 body |  
-| bip_39_word_new_line12 | void
+| bip_39_word_new_line_12 | void
 myth
 first
 wash
@@ -78,34 +78,34 @@ ozone
 comic
 body
 ability |  
-| bip_39_word_new_line2 | void
+| bip_39_word_new_line_2 | void
 myth |  
-| bip_39_word_new_line3 | void
+| bip_39_word_new_line_3 | void
 myth
 first |  
-| bip_39_word_new_line4 | void
+| bip_39_word_new_line_4 | void
 myth
 first
 wash |  
-| bip_39_word_new_line5 | void
+| bip_39_word_new_line_5 | void
 myth
 first
 wash
 crime |  
-| bip_39_word_new_line6 | void
+| bip_39_word_new_line_6 | void
 myth
 first
 wash
 crime
 exit |  
-| bip_39_word_new_line7 | void
+| bip_39_word_new_line_7 | void
 myth
 first
 wash
 crime
 exit
 pride |  
-| bip_39_word_new_line8 | void
+| bip_39_word_new_line_8 | void
 myth
 first
 wash
@@ -113,7 +113,7 @@ crime
 exit
 pride
 tomorrow |  
-| bip_39_word_new_line9 | void
+| bip_39_word_new_line_9 | void
 myth
 first
 wash

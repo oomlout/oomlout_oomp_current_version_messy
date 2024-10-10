@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | tourist |  
-| bip_39_word_new_br10 | tourist<br>race<br>smile<br>physical<br>clutch<br>avoid<br>carpet<br>update<br>choice<br>tube |  
-| bip_39_word_new_br11 | tourist<br>race<br>smile<br>physical<br>clutch<br>avoid<br>carpet<br>update<br>choice<br>tube<br>filter |  
-| bip_39_word_new_br12 | tourist<br>race<br>smile<br>physical<br>clutch<br>avoid<br>carpet<br>update<br>choice<br>tube<br>filter<br>access |  
-| bip_39_word_new_br2 | tourist<br>race |  
-| bip_39_word_new_br3 | tourist<br>race<br>smile |  
-| bip_39_word_new_br4 | tourist<br>race<br>smile<br>physical |  
-| bip_39_word_new_br5 | tourist<br>race<br>smile<br>physical<br>clutch |  
-| bip_39_word_new_br6 | tourist<br>race<br>smile<br>physical<br>clutch<br>avoid |  
-| bip_39_word_new_br7 | tourist<br>race<br>smile<br>physical<br>clutch<br>avoid<br>carpet |  
-| bip_39_word_new_br8 | tourist<br>race<br>smile<br>physical<br>clutch<br>avoid<br>carpet<br>update |  
-| bip_39_word_new_br9 | tourist<br>race<br>smile<br>physical<br>clutch<br>avoid<br>carpet<br>update<br>choice |  
-| bip_39_word_new_line1 | tourist |  
-| bip_39_word_new_line10 | tourist
+| bip_39_word_new_br_1 | tourist |  
+| bip_39_word_new_br_10 | tourist<br>race<br>smile<br>physical<br>clutch<br>avoid<br>carpet<br>update<br>choice<br>tube |  
+| bip_39_word_new_br_11 | tourist<br>race<br>smile<br>physical<br>clutch<br>avoid<br>carpet<br>update<br>choice<br>tube<br>filter |  
+| bip_39_word_new_br_12 | tourist<br>race<br>smile<br>physical<br>clutch<br>avoid<br>carpet<br>update<br>choice<br>tube<br>filter<br>access |  
+| bip_39_word_new_br_2 | tourist<br>race |  
+| bip_39_word_new_br_3 | tourist<br>race<br>smile |  
+| bip_39_word_new_br_4 | tourist<br>race<br>smile<br>physical |  
+| bip_39_word_new_br_5 | tourist<br>race<br>smile<br>physical<br>clutch |  
+| bip_39_word_new_br_6 | tourist<br>race<br>smile<br>physical<br>clutch<br>avoid |  
+| bip_39_word_new_br_7 | tourist<br>race<br>smile<br>physical<br>clutch<br>avoid<br>carpet |  
+| bip_39_word_new_br_8 | tourist<br>race<br>smile<br>physical<br>clutch<br>avoid<br>carpet<br>update |  
+| bip_39_word_new_br_9 | tourist<br>race<br>smile<br>physical<br>clutch<br>avoid<br>carpet<br>update<br>choice |  
+| bip_39_word_new_line_1 | tourist |  
+| bip_39_word_new_line_10 | tourist
 race
 smile
 physical
@@ -55,7 +55,7 @@ carpet
 update
 choice
 tube |  
-| bip_39_word_new_line11 | tourist
+| bip_39_word_new_line_11 | tourist
 race
 smile
 physical
@@ -66,7 +66,7 @@ update
 choice
 tube
 filter |  
-| bip_39_word_new_line12 | tourist
+| bip_39_word_new_line_12 | tourist
 race
 smile
 physical
@@ -78,34 +78,34 @@ choice
 tube
 filter
 access |  
-| bip_39_word_new_line2 | tourist
+| bip_39_word_new_line_2 | tourist
 race |  
-| bip_39_word_new_line3 | tourist
+| bip_39_word_new_line_3 | tourist
 race
 smile |  
-| bip_39_word_new_line4 | tourist
+| bip_39_word_new_line_4 | tourist
 race
 smile
 physical |  
-| bip_39_word_new_line5 | tourist
+| bip_39_word_new_line_5 | tourist
 race
 smile
 physical
 clutch |  
-| bip_39_word_new_line6 | tourist
+| bip_39_word_new_line_6 | tourist
 race
 smile
 physical
 clutch
 avoid |  
-| bip_39_word_new_line7 | tourist
+| bip_39_word_new_line_7 | tourist
 race
 smile
 physical
 clutch
 avoid
 carpet |  
-| bip_39_word_new_line8 | tourist
+| bip_39_word_new_line_8 | tourist
 race
 smile
 physical
@@ -113,7 +113,7 @@ clutch
 avoid
 carpet
 update |  
-| bip_39_word_new_line9 | tourist
+| bip_39_word_new_line_9 | tourist
 race
 smile
 physical

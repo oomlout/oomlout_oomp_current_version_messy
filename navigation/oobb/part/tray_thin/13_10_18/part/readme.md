@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fresh |  
-| bip_39_word_new_br10 | fresh<br>frame<br>choice<br>father<br>artefact<br>enable<br>final<br>give<br>quiz<br>minor |  
-| bip_39_word_new_br11 | fresh<br>frame<br>choice<br>father<br>artefact<br>enable<br>final<br>give<br>quiz<br>minor<br>inject |  
-| bip_39_word_new_br12 | fresh<br>frame<br>choice<br>father<br>artefact<br>enable<br>final<br>give<br>quiz<br>minor<br>inject<br>ankle |  
-| bip_39_word_new_br2 | fresh<br>frame |  
-| bip_39_word_new_br3 | fresh<br>frame<br>choice |  
-| bip_39_word_new_br4 | fresh<br>frame<br>choice<br>father |  
-| bip_39_word_new_br5 | fresh<br>frame<br>choice<br>father<br>artefact |  
-| bip_39_word_new_br6 | fresh<br>frame<br>choice<br>father<br>artefact<br>enable |  
-| bip_39_word_new_br7 | fresh<br>frame<br>choice<br>father<br>artefact<br>enable<br>final |  
-| bip_39_word_new_br8 | fresh<br>frame<br>choice<br>father<br>artefact<br>enable<br>final<br>give |  
-| bip_39_word_new_br9 | fresh<br>frame<br>choice<br>father<br>artefact<br>enable<br>final<br>give<br>quiz |  
-| bip_39_word_new_line1 | fresh |  
-| bip_39_word_new_line10 | fresh
+| bip_39_word_new_br_1 | fresh |  
+| bip_39_word_new_br_10 | fresh<br>frame<br>choice<br>father<br>artefact<br>enable<br>final<br>give<br>quiz<br>minor |  
+| bip_39_word_new_br_11 | fresh<br>frame<br>choice<br>father<br>artefact<br>enable<br>final<br>give<br>quiz<br>minor<br>inject |  
+| bip_39_word_new_br_12 | fresh<br>frame<br>choice<br>father<br>artefact<br>enable<br>final<br>give<br>quiz<br>minor<br>inject<br>ankle |  
+| bip_39_word_new_br_2 | fresh<br>frame |  
+| bip_39_word_new_br_3 | fresh<br>frame<br>choice |  
+| bip_39_word_new_br_4 | fresh<br>frame<br>choice<br>father |  
+| bip_39_word_new_br_5 | fresh<br>frame<br>choice<br>father<br>artefact |  
+| bip_39_word_new_br_6 | fresh<br>frame<br>choice<br>father<br>artefact<br>enable |  
+| bip_39_word_new_br_7 | fresh<br>frame<br>choice<br>father<br>artefact<br>enable<br>final |  
+| bip_39_word_new_br_8 | fresh<br>frame<br>choice<br>father<br>artefact<br>enable<br>final<br>give |  
+| bip_39_word_new_br_9 | fresh<br>frame<br>choice<br>father<br>artefact<br>enable<br>final<br>give<br>quiz |  
+| bip_39_word_new_line_1 | fresh |  
+| bip_39_word_new_line_10 | fresh
 frame
 choice
 father
@@ -55,7 +55,7 @@ final
 give
 quiz
 minor |  
-| bip_39_word_new_line11 | fresh
+| bip_39_word_new_line_11 | fresh
 frame
 choice
 father
@@ -66,7 +66,7 @@ give
 quiz
 minor
 inject |  
-| bip_39_word_new_line12 | fresh
+| bip_39_word_new_line_12 | fresh
 frame
 choice
 father
@@ -78,34 +78,34 @@ quiz
 minor
 inject
 ankle |  
-| bip_39_word_new_line2 | fresh
+| bip_39_word_new_line_2 | fresh
 frame |  
-| bip_39_word_new_line3 | fresh
+| bip_39_word_new_line_3 | fresh
 frame
 choice |  
-| bip_39_word_new_line4 | fresh
+| bip_39_word_new_line_4 | fresh
 frame
 choice
 father |  
-| bip_39_word_new_line5 | fresh
+| bip_39_word_new_line_5 | fresh
 frame
 choice
 father
 artefact |  
-| bip_39_word_new_line6 | fresh
+| bip_39_word_new_line_6 | fresh
 frame
 choice
 father
 artefact
 enable |  
-| bip_39_word_new_line7 | fresh
+| bip_39_word_new_line_7 | fresh
 frame
 choice
 father
 artefact
 enable
 final |  
-| bip_39_word_new_line8 | fresh
+| bip_39_word_new_line_8 | fresh
 frame
 choice
 father
@@ -113,7 +113,7 @@ artefact
 enable
 final
 give |  
-| bip_39_word_new_line9 | fresh
+| bip_39_word_new_line_9 | fresh
 frame
 choice
 father

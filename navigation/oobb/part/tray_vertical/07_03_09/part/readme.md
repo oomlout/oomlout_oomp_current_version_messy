@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gun |  
-| bip_39_word_new_br10 | gun<br>neutral<br>around<br>trap<br>skill<br>bright<br>icon<br>inform<br>afraid<br>wedding |  
-| bip_39_word_new_br11 | gun<br>neutral<br>around<br>trap<br>skill<br>bright<br>icon<br>inform<br>afraid<br>wedding<br>intact |  
-| bip_39_word_new_br12 | gun<br>neutral<br>around<br>trap<br>skill<br>bright<br>icon<br>inform<br>afraid<br>wedding<br>intact<br>achieve |  
-| bip_39_word_new_br2 | gun<br>neutral |  
-| bip_39_word_new_br3 | gun<br>neutral<br>around |  
-| bip_39_word_new_br4 | gun<br>neutral<br>around<br>trap |  
-| bip_39_word_new_br5 | gun<br>neutral<br>around<br>trap<br>skill |  
-| bip_39_word_new_br6 | gun<br>neutral<br>around<br>trap<br>skill<br>bright |  
-| bip_39_word_new_br7 | gun<br>neutral<br>around<br>trap<br>skill<br>bright<br>icon |  
-| bip_39_word_new_br8 | gun<br>neutral<br>around<br>trap<br>skill<br>bright<br>icon<br>inform |  
-| bip_39_word_new_br9 | gun<br>neutral<br>around<br>trap<br>skill<br>bright<br>icon<br>inform<br>afraid |  
-| bip_39_word_new_line1 | gun |  
-| bip_39_word_new_line10 | gun
+| bip_39_word_new_br_1 | gun |  
+| bip_39_word_new_br_10 | gun<br>neutral<br>around<br>trap<br>skill<br>bright<br>icon<br>inform<br>afraid<br>wedding |  
+| bip_39_word_new_br_11 | gun<br>neutral<br>around<br>trap<br>skill<br>bright<br>icon<br>inform<br>afraid<br>wedding<br>intact |  
+| bip_39_word_new_br_12 | gun<br>neutral<br>around<br>trap<br>skill<br>bright<br>icon<br>inform<br>afraid<br>wedding<br>intact<br>achieve |  
+| bip_39_word_new_br_2 | gun<br>neutral |  
+| bip_39_word_new_br_3 | gun<br>neutral<br>around |  
+| bip_39_word_new_br_4 | gun<br>neutral<br>around<br>trap |  
+| bip_39_word_new_br_5 | gun<br>neutral<br>around<br>trap<br>skill |  
+| bip_39_word_new_br_6 | gun<br>neutral<br>around<br>trap<br>skill<br>bright |  
+| bip_39_word_new_br_7 | gun<br>neutral<br>around<br>trap<br>skill<br>bright<br>icon |  
+| bip_39_word_new_br_8 | gun<br>neutral<br>around<br>trap<br>skill<br>bright<br>icon<br>inform |  
+| bip_39_word_new_br_9 | gun<br>neutral<br>around<br>trap<br>skill<br>bright<br>icon<br>inform<br>afraid |  
+| bip_39_word_new_line_1 | gun |  
+| bip_39_word_new_line_10 | gun
 neutral
 around
 trap
@@ -55,7 +55,7 @@ icon
 inform
 afraid
 wedding |  
-| bip_39_word_new_line11 | gun
+| bip_39_word_new_line_11 | gun
 neutral
 around
 trap
@@ -66,7 +66,7 @@ inform
 afraid
 wedding
 intact |  
-| bip_39_word_new_line12 | gun
+| bip_39_word_new_line_12 | gun
 neutral
 around
 trap
@@ -78,34 +78,34 @@ afraid
 wedding
 intact
 achieve |  
-| bip_39_word_new_line2 | gun
+| bip_39_word_new_line_2 | gun
 neutral |  
-| bip_39_word_new_line3 | gun
+| bip_39_word_new_line_3 | gun
 neutral
 around |  
-| bip_39_word_new_line4 | gun
+| bip_39_word_new_line_4 | gun
 neutral
 around
 trap |  
-| bip_39_word_new_line5 | gun
+| bip_39_word_new_line_5 | gun
 neutral
 around
 trap
 skill |  
-| bip_39_word_new_line6 | gun
+| bip_39_word_new_line_6 | gun
 neutral
 around
 trap
 skill
 bright |  
-| bip_39_word_new_line7 | gun
+| bip_39_word_new_line_7 | gun
 neutral
 around
 trap
 skill
 bright
 icon |  
-| bip_39_word_new_line8 | gun
+| bip_39_word_new_line_8 | gun
 neutral
 around
 trap
@@ -113,7 +113,7 @@ skill
 bright
 icon
 inform |  
-| bip_39_word_new_line9 | gun
+| bip_39_word_new_line_9 | gun
 neutral
 around
 trap

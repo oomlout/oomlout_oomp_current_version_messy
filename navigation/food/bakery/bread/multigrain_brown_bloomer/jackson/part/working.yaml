@@ -1,17 +1,17 @@
-bip_39_word_new_br1: write
-bip_39_word_new_br10: write<br>pink<br>speak<br>common<br>office<br>step<br>supreme<br>maximum<br>range<br>clown
-bip_39_word_new_br11: write<br>pink<br>speak<br>common<br>office<br>step<br>supreme<br>maximum<br>range<br>clown<br>exist
-bip_39_word_new_br12: write<br>pink<br>speak<br>common<br>office<br>step<br>supreme<br>maximum<br>range<br>clown<br>exist<br>all
-bip_39_word_new_br2: write<br>pink
-bip_39_word_new_br3: write<br>pink<br>speak
-bip_39_word_new_br4: write<br>pink<br>speak<br>common
-bip_39_word_new_br5: write<br>pink<br>speak<br>common<br>office
-bip_39_word_new_br6: write<br>pink<br>speak<br>common<br>office<br>step
-bip_39_word_new_br7: write<br>pink<br>speak<br>common<br>office<br>step<br>supreme
-bip_39_word_new_br8: write<br>pink<br>speak<br>common<br>office<br>step<br>supreme<br>maximum
-bip_39_word_new_br9: write<br>pink<br>speak<br>common<br>office<br>step<br>supreme<br>maximum<br>range
-bip_39_word_new_line1: write
-bip_39_word_new_line10: 'write
+bip_39_word_new_br_1: write
+bip_39_word_new_br_10: write<br>pink<br>speak<br>common<br>office<br>step<br>supreme<br>maximum<br>range<br>clown
+bip_39_word_new_br_11: write<br>pink<br>speak<br>common<br>office<br>step<br>supreme<br>maximum<br>range<br>clown<br>exist
+bip_39_word_new_br_12: write<br>pink<br>speak<br>common<br>office<br>step<br>supreme<br>maximum<br>range<br>clown<br>exist<br>all
+bip_39_word_new_br_2: write<br>pink
+bip_39_word_new_br_3: write<br>pink<br>speak
+bip_39_word_new_br_4: write<br>pink<br>speak<br>common
+bip_39_word_new_br_5: write<br>pink<br>speak<br>common<br>office
+bip_39_word_new_br_6: write<br>pink<br>speak<br>common<br>office<br>step
+bip_39_word_new_br_7: write<br>pink<br>speak<br>common<br>office<br>step<br>supreme
+bip_39_word_new_br_8: write<br>pink<br>speak<br>common<br>office<br>step<br>supreme<br>maximum
+bip_39_word_new_br_9: write<br>pink<br>speak<br>common<br>office<br>step<br>supreme<br>maximum<br>range
+bip_39_word_new_line_1: write
+bip_39_word_new_line_10: 'write
 
   pink
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'write
   range
 
   clown'
-bip_39_word_new_line11: 'write
+bip_39_word_new_line_11: 'write
 
   pink
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'write
   clown
 
   exist'
-bip_39_word_new_line12: 'write
+bip_39_word_new_line_12: 'write
 
   pink
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'write
   exist
 
   all'
-bip_39_word_new_line2: 'write
+bip_39_word_new_line_2: 'write
 
   pink'
-bip_39_word_new_line3: 'write
+bip_39_word_new_line_3: 'write
 
   pink
 
   speak'
-bip_39_word_new_line4: 'write
+bip_39_word_new_line_4: 'write
 
   pink
 
   speak
 
   common'
-bip_39_word_new_line5: 'write
+bip_39_word_new_line_5: 'write
 
   pink
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'write
   common
 
   office'
-bip_39_word_new_line6: 'write
+bip_39_word_new_line_6: 'write
 
   pink
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'write
   office
 
   step'
-bip_39_word_new_line7: 'write
+bip_39_word_new_line_7: 'write
 
   pink
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'write
   step
 
   supreme'
-bip_39_word_new_line8: 'write
+bip_39_word_new_line_8: 'write
 
   pink
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'write
   supreme
 
   maximum'
-bip_39_word_new_line9: 'write
+bip_39_word_new_line_9: 'write
 
   pink
 

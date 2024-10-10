@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hold |  
-| bip_39_word_new_br10 | hold<br>dice<br>ugly<br>accuse<br>awake<br>all<br>huge<br>toward<br>coach<br>split |  
-| bip_39_word_new_br11 | hold<br>dice<br>ugly<br>accuse<br>awake<br>all<br>huge<br>toward<br>coach<br>split<br>order |  
-| bip_39_word_new_br12 | hold<br>dice<br>ugly<br>accuse<br>awake<br>all<br>huge<br>toward<br>coach<br>split<br>order<br>alpha |  
-| bip_39_word_new_br2 | hold<br>dice |  
-| bip_39_word_new_br3 | hold<br>dice<br>ugly |  
-| bip_39_word_new_br4 | hold<br>dice<br>ugly<br>accuse |  
-| bip_39_word_new_br5 | hold<br>dice<br>ugly<br>accuse<br>awake |  
-| bip_39_word_new_br6 | hold<br>dice<br>ugly<br>accuse<br>awake<br>all |  
-| bip_39_word_new_br7 | hold<br>dice<br>ugly<br>accuse<br>awake<br>all<br>huge |  
-| bip_39_word_new_br8 | hold<br>dice<br>ugly<br>accuse<br>awake<br>all<br>huge<br>toward |  
-| bip_39_word_new_br9 | hold<br>dice<br>ugly<br>accuse<br>awake<br>all<br>huge<br>toward<br>coach |  
-| bip_39_word_new_line1 | hold |  
-| bip_39_word_new_line10 | hold
+| bip_39_word_new_br_1 | hold |  
+| bip_39_word_new_br_10 | hold<br>dice<br>ugly<br>accuse<br>awake<br>all<br>huge<br>toward<br>coach<br>split |  
+| bip_39_word_new_br_11 | hold<br>dice<br>ugly<br>accuse<br>awake<br>all<br>huge<br>toward<br>coach<br>split<br>order |  
+| bip_39_word_new_br_12 | hold<br>dice<br>ugly<br>accuse<br>awake<br>all<br>huge<br>toward<br>coach<br>split<br>order<br>alpha |  
+| bip_39_word_new_br_2 | hold<br>dice |  
+| bip_39_word_new_br_3 | hold<br>dice<br>ugly |  
+| bip_39_word_new_br_4 | hold<br>dice<br>ugly<br>accuse |  
+| bip_39_word_new_br_5 | hold<br>dice<br>ugly<br>accuse<br>awake |  
+| bip_39_word_new_br_6 | hold<br>dice<br>ugly<br>accuse<br>awake<br>all |  
+| bip_39_word_new_br_7 | hold<br>dice<br>ugly<br>accuse<br>awake<br>all<br>huge |  
+| bip_39_word_new_br_8 | hold<br>dice<br>ugly<br>accuse<br>awake<br>all<br>huge<br>toward |  
+| bip_39_word_new_br_9 | hold<br>dice<br>ugly<br>accuse<br>awake<br>all<br>huge<br>toward<br>coach |  
+| bip_39_word_new_line_1 | hold |  
+| bip_39_word_new_line_10 | hold
 dice
 ugly
 accuse
@@ -55,7 +55,7 @@ huge
 toward
 coach
 split |  
-| bip_39_word_new_line11 | hold
+| bip_39_word_new_line_11 | hold
 dice
 ugly
 accuse
@@ -66,7 +66,7 @@ toward
 coach
 split
 order |  
-| bip_39_word_new_line12 | hold
+| bip_39_word_new_line_12 | hold
 dice
 ugly
 accuse
@@ -78,34 +78,34 @@ coach
 split
 order
 alpha |  
-| bip_39_word_new_line2 | hold
+| bip_39_word_new_line_2 | hold
 dice |  
-| bip_39_word_new_line3 | hold
+| bip_39_word_new_line_3 | hold
 dice
 ugly |  
-| bip_39_word_new_line4 | hold
+| bip_39_word_new_line_4 | hold
 dice
 ugly
 accuse |  
-| bip_39_word_new_line5 | hold
+| bip_39_word_new_line_5 | hold
 dice
 ugly
 accuse
 awake |  
-| bip_39_word_new_line6 | hold
+| bip_39_word_new_line_6 | hold
 dice
 ugly
 accuse
 awake
 all |  
-| bip_39_word_new_line7 | hold
+| bip_39_word_new_line_7 | hold
 dice
 ugly
 accuse
 awake
 all
 huge |  
-| bip_39_word_new_line8 | hold
+| bip_39_word_new_line_8 | hold
 dice
 ugly
 accuse
@@ -113,7 +113,7 @@ awake
 all
 huge
 toward |  
-| bip_39_word_new_line9 | hold
+| bip_39_word_new_line_9 | hold
 dice
 ugly
 accuse

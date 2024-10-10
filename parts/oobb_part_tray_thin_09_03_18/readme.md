@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | enable |  
-| bip_39_word_new_br10 | enable<br>warrior<br>confirm<br>law<br>tool<br>ceiling<br>spread<br>chief<br>reflect<br>cement |  
-| bip_39_word_new_br11 | enable<br>warrior<br>confirm<br>law<br>tool<br>ceiling<br>spread<br>chief<br>reflect<br>cement<br>notable |  
-| bip_39_word_new_br12 | enable<br>warrior<br>confirm<br>law<br>tool<br>ceiling<br>spread<br>chief<br>reflect<br>cement<br>notable<br>addict |  
-| bip_39_word_new_br2 | enable<br>warrior |  
-| bip_39_word_new_br3 | enable<br>warrior<br>confirm |  
-| bip_39_word_new_br4 | enable<br>warrior<br>confirm<br>law |  
-| bip_39_word_new_br5 | enable<br>warrior<br>confirm<br>law<br>tool |  
-| bip_39_word_new_br6 | enable<br>warrior<br>confirm<br>law<br>tool<br>ceiling |  
-| bip_39_word_new_br7 | enable<br>warrior<br>confirm<br>law<br>tool<br>ceiling<br>spread |  
-| bip_39_word_new_br8 | enable<br>warrior<br>confirm<br>law<br>tool<br>ceiling<br>spread<br>chief |  
-| bip_39_word_new_br9 | enable<br>warrior<br>confirm<br>law<br>tool<br>ceiling<br>spread<br>chief<br>reflect |  
-| bip_39_word_new_line1 | enable |  
-| bip_39_word_new_line10 | enable
+| bip_39_word_new_br_1 | enable |  
+| bip_39_word_new_br_10 | enable<br>warrior<br>confirm<br>law<br>tool<br>ceiling<br>spread<br>chief<br>reflect<br>cement |  
+| bip_39_word_new_br_11 | enable<br>warrior<br>confirm<br>law<br>tool<br>ceiling<br>spread<br>chief<br>reflect<br>cement<br>notable |  
+| bip_39_word_new_br_12 | enable<br>warrior<br>confirm<br>law<br>tool<br>ceiling<br>spread<br>chief<br>reflect<br>cement<br>notable<br>addict |  
+| bip_39_word_new_br_2 | enable<br>warrior |  
+| bip_39_word_new_br_3 | enable<br>warrior<br>confirm |  
+| bip_39_word_new_br_4 | enable<br>warrior<br>confirm<br>law |  
+| bip_39_word_new_br_5 | enable<br>warrior<br>confirm<br>law<br>tool |  
+| bip_39_word_new_br_6 | enable<br>warrior<br>confirm<br>law<br>tool<br>ceiling |  
+| bip_39_word_new_br_7 | enable<br>warrior<br>confirm<br>law<br>tool<br>ceiling<br>spread |  
+| bip_39_word_new_br_8 | enable<br>warrior<br>confirm<br>law<br>tool<br>ceiling<br>spread<br>chief |  
+| bip_39_word_new_br_9 | enable<br>warrior<br>confirm<br>law<br>tool<br>ceiling<br>spread<br>chief<br>reflect |  
+| bip_39_word_new_line_1 | enable |  
+| bip_39_word_new_line_10 | enable
 warrior
 confirm
 law
@@ -55,7 +55,7 @@ spread
 chief
 reflect
 cement |  
-| bip_39_word_new_line11 | enable
+| bip_39_word_new_line_11 | enable
 warrior
 confirm
 law
@@ -66,7 +66,7 @@ chief
 reflect
 cement
 notable |  
-| bip_39_word_new_line12 | enable
+| bip_39_word_new_line_12 | enable
 warrior
 confirm
 law
@@ -78,34 +78,34 @@ reflect
 cement
 notable
 addict |  
-| bip_39_word_new_line2 | enable
+| bip_39_word_new_line_2 | enable
 warrior |  
-| bip_39_word_new_line3 | enable
+| bip_39_word_new_line_3 | enable
 warrior
 confirm |  
-| bip_39_word_new_line4 | enable
+| bip_39_word_new_line_4 | enable
 warrior
 confirm
 law |  
-| bip_39_word_new_line5 | enable
+| bip_39_word_new_line_5 | enable
 warrior
 confirm
 law
 tool |  
-| bip_39_word_new_line6 | enable
+| bip_39_word_new_line_6 | enable
 warrior
 confirm
 law
 tool
 ceiling |  
-| bip_39_word_new_line7 | enable
+| bip_39_word_new_line_7 | enable
 warrior
 confirm
 law
 tool
 ceiling
 spread |  
-| bip_39_word_new_line8 | enable
+| bip_39_word_new_line_8 | enable
 warrior
 confirm
 law
@@ -113,7 +113,7 @@ tool
 ceiling
 spread
 chief |  
-| bip_39_word_new_line9 | enable
+| bip_39_word_new_line_9 | enable
 warrior
 confirm
 law

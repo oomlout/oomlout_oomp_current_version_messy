@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | invest |  
-| bip_39_word_new_br10 | invest<br>welcome<br>skill<br>trash<br>bunker<br>give<br>property<br>festival<br>inside<br>defy |  
-| bip_39_word_new_br11 | invest<br>welcome<br>skill<br>trash<br>bunker<br>give<br>property<br>festival<br>inside<br>defy<br>open |  
-| bip_39_word_new_br12 | invest<br>welcome<br>skill<br>trash<br>bunker<br>give<br>property<br>festival<br>inside<br>defy<br>open<br>asthma |  
-| bip_39_word_new_br2 | invest<br>welcome |  
-| bip_39_word_new_br3 | invest<br>welcome<br>skill |  
-| bip_39_word_new_br4 | invest<br>welcome<br>skill<br>trash |  
-| bip_39_word_new_br5 | invest<br>welcome<br>skill<br>trash<br>bunker |  
-| bip_39_word_new_br6 | invest<br>welcome<br>skill<br>trash<br>bunker<br>give |  
-| bip_39_word_new_br7 | invest<br>welcome<br>skill<br>trash<br>bunker<br>give<br>property |  
-| bip_39_word_new_br8 | invest<br>welcome<br>skill<br>trash<br>bunker<br>give<br>property<br>festival |  
-| bip_39_word_new_br9 | invest<br>welcome<br>skill<br>trash<br>bunker<br>give<br>property<br>festival<br>inside |  
-| bip_39_word_new_line1 | invest |  
-| bip_39_word_new_line10 | invest
+| bip_39_word_new_br_1 | invest |  
+| bip_39_word_new_br_10 | invest<br>welcome<br>skill<br>trash<br>bunker<br>give<br>property<br>festival<br>inside<br>defy |  
+| bip_39_word_new_br_11 | invest<br>welcome<br>skill<br>trash<br>bunker<br>give<br>property<br>festival<br>inside<br>defy<br>open |  
+| bip_39_word_new_br_12 | invest<br>welcome<br>skill<br>trash<br>bunker<br>give<br>property<br>festival<br>inside<br>defy<br>open<br>asthma |  
+| bip_39_word_new_br_2 | invest<br>welcome |  
+| bip_39_word_new_br_3 | invest<br>welcome<br>skill |  
+| bip_39_word_new_br_4 | invest<br>welcome<br>skill<br>trash |  
+| bip_39_word_new_br_5 | invest<br>welcome<br>skill<br>trash<br>bunker |  
+| bip_39_word_new_br_6 | invest<br>welcome<br>skill<br>trash<br>bunker<br>give |  
+| bip_39_word_new_br_7 | invest<br>welcome<br>skill<br>trash<br>bunker<br>give<br>property |  
+| bip_39_word_new_br_8 | invest<br>welcome<br>skill<br>trash<br>bunker<br>give<br>property<br>festival |  
+| bip_39_word_new_br_9 | invest<br>welcome<br>skill<br>trash<br>bunker<br>give<br>property<br>festival<br>inside |  
+| bip_39_word_new_line_1 | invest |  
+| bip_39_word_new_line_10 | invest
 welcome
 skill
 trash
@@ -55,7 +55,7 @@ property
 festival
 inside
 defy |  
-| bip_39_word_new_line11 | invest
+| bip_39_word_new_line_11 | invest
 welcome
 skill
 trash
@@ -66,7 +66,7 @@ festival
 inside
 defy
 open |  
-| bip_39_word_new_line12 | invest
+| bip_39_word_new_line_12 | invest
 welcome
 skill
 trash
@@ -78,34 +78,34 @@ inside
 defy
 open
 asthma |  
-| bip_39_word_new_line2 | invest
+| bip_39_word_new_line_2 | invest
 welcome |  
-| bip_39_word_new_line3 | invest
+| bip_39_word_new_line_3 | invest
 welcome
 skill |  
-| bip_39_word_new_line4 | invest
+| bip_39_word_new_line_4 | invest
 welcome
 skill
 trash |  
-| bip_39_word_new_line5 | invest
+| bip_39_word_new_line_5 | invest
 welcome
 skill
 trash
 bunker |  
-| bip_39_word_new_line6 | invest
+| bip_39_word_new_line_6 | invest
 welcome
 skill
 trash
 bunker
 give |  
-| bip_39_word_new_line7 | invest
+| bip_39_word_new_line_7 | invest
 welcome
 skill
 trash
 bunker
 give
 property |  
-| bip_39_word_new_line8 | invest
+| bip_39_word_new_line_8 | invest
 welcome
 skill
 trash
@@ -113,7 +113,7 @@ bunker
 give
 property
 festival |  
-| bip_39_word_new_line9 | invest
+| bip_39_word_new_line_9 | invest
 welcome
 skill
 trash

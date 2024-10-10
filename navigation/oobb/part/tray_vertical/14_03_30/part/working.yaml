@@ -1,17 +1,17 @@
-bip_39_word_new_br1: essence
-bip_39_word_new_br10: essence<br>client<br>ranch<br>sure<br>region<br>robot<br>agent<br>clever<br>thumb<br>globe
-bip_39_word_new_br11: essence<br>client<br>ranch<br>sure<br>region<br>robot<br>agent<br>clever<br>thumb<br>globe<br>guide
-bip_39_word_new_br12: essence<br>client<br>ranch<br>sure<br>region<br>robot<br>agent<br>clever<br>thumb<br>globe<br>guide<br>alone
-bip_39_word_new_br2: essence<br>client
-bip_39_word_new_br3: essence<br>client<br>ranch
-bip_39_word_new_br4: essence<br>client<br>ranch<br>sure
-bip_39_word_new_br5: essence<br>client<br>ranch<br>sure<br>region
-bip_39_word_new_br6: essence<br>client<br>ranch<br>sure<br>region<br>robot
-bip_39_word_new_br7: essence<br>client<br>ranch<br>sure<br>region<br>robot<br>agent
-bip_39_word_new_br8: essence<br>client<br>ranch<br>sure<br>region<br>robot<br>agent<br>clever
-bip_39_word_new_br9: essence<br>client<br>ranch<br>sure<br>region<br>robot<br>agent<br>clever<br>thumb
-bip_39_word_new_line1: essence
-bip_39_word_new_line10: 'essence
+bip_39_word_new_br_1: essence
+bip_39_word_new_br_10: essence<br>client<br>ranch<br>sure<br>region<br>robot<br>agent<br>clever<br>thumb<br>globe
+bip_39_word_new_br_11: essence<br>client<br>ranch<br>sure<br>region<br>robot<br>agent<br>clever<br>thumb<br>globe<br>guide
+bip_39_word_new_br_12: essence<br>client<br>ranch<br>sure<br>region<br>robot<br>agent<br>clever<br>thumb<br>globe<br>guide<br>alone
+bip_39_word_new_br_2: essence<br>client
+bip_39_word_new_br_3: essence<br>client<br>ranch
+bip_39_word_new_br_4: essence<br>client<br>ranch<br>sure
+bip_39_word_new_br_5: essence<br>client<br>ranch<br>sure<br>region
+bip_39_word_new_br_6: essence<br>client<br>ranch<br>sure<br>region<br>robot
+bip_39_word_new_br_7: essence<br>client<br>ranch<br>sure<br>region<br>robot<br>agent
+bip_39_word_new_br_8: essence<br>client<br>ranch<br>sure<br>region<br>robot<br>agent<br>clever
+bip_39_word_new_br_9: essence<br>client<br>ranch<br>sure<br>region<br>robot<br>agent<br>clever<br>thumb
+bip_39_word_new_line_1: essence
+bip_39_word_new_line_10: 'essence
 
   client
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'essence
   thumb
 
   globe'
-bip_39_word_new_line11: 'essence
+bip_39_word_new_line_11: 'essence
 
   client
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'essence
   globe
 
   guide'
-bip_39_word_new_line12: 'essence
+bip_39_word_new_line_12: 'essence
 
   client
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'essence
   guide
 
   alone'
-bip_39_word_new_line2: 'essence
+bip_39_word_new_line_2: 'essence
 
   client'
-bip_39_word_new_line3: 'essence
+bip_39_word_new_line_3: 'essence
 
   client
 
   ranch'
-bip_39_word_new_line4: 'essence
+bip_39_word_new_line_4: 'essence
 
   client
 
   ranch
 
   sure'
-bip_39_word_new_line5: 'essence
+bip_39_word_new_line_5: 'essence
 
   client
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'essence
   sure
 
   region'
-bip_39_word_new_line6: 'essence
+bip_39_word_new_line_6: 'essence
 
   client
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'essence
   region
 
   robot'
-bip_39_word_new_line7: 'essence
+bip_39_word_new_line_7: 'essence
 
   client
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'essence
   robot
 
   agent'
-bip_39_word_new_line8: 'essence
+bip_39_word_new_line_8: 'essence
 
   client
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'essence
   agent
 
   clever'
-bip_39_word_new_line9: 'essence
+bip_39_word_new_line_9: 'essence
 
   client
 

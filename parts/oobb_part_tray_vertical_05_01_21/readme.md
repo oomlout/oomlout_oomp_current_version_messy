@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sick |  
-| bip_39_word_new_br10 | sick<br>relief<br>betray<br>labor<br>aunt<br>hockey<br>pepper<br>list<br>theme<br>journey |  
-| bip_39_word_new_br11 | sick<br>relief<br>betray<br>labor<br>aunt<br>hockey<br>pepper<br>list<br>theme<br>journey<br>unusual |  
-| bip_39_word_new_br12 | sick<br>relief<br>betray<br>labor<br>aunt<br>hockey<br>pepper<br>list<br>theme<br>journey<br>unusual<br>already |  
-| bip_39_word_new_br2 | sick<br>relief |  
-| bip_39_word_new_br3 | sick<br>relief<br>betray |  
-| bip_39_word_new_br4 | sick<br>relief<br>betray<br>labor |  
-| bip_39_word_new_br5 | sick<br>relief<br>betray<br>labor<br>aunt |  
-| bip_39_word_new_br6 | sick<br>relief<br>betray<br>labor<br>aunt<br>hockey |  
-| bip_39_word_new_br7 | sick<br>relief<br>betray<br>labor<br>aunt<br>hockey<br>pepper |  
-| bip_39_word_new_br8 | sick<br>relief<br>betray<br>labor<br>aunt<br>hockey<br>pepper<br>list |  
-| bip_39_word_new_br9 | sick<br>relief<br>betray<br>labor<br>aunt<br>hockey<br>pepper<br>list<br>theme |  
-| bip_39_word_new_line1 | sick |  
-| bip_39_word_new_line10 | sick
+| bip_39_word_new_br_1 | sick |  
+| bip_39_word_new_br_10 | sick<br>relief<br>betray<br>labor<br>aunt<br>hockey<br>pepper<br>list<br>theme<br>journey |  
+| bip_39_word_new_br_11 | sick<br>relief<br>betray<br>labor<br>aunt<br>hockey<br>pepper<br>list<br>theme<br>journey<br>unusual |  
+| bip_39_word_new_br_12 | sick<br>relief<br>betray<br>labor<br>aunt<br>hockey<br>pepper<br>list<br>theme<br>journey<br>unusual<br>already |  
+| bip_39_word_new_br_2 | sick<br>relief |  
+| bip_39_word_new_br_3 | sick<br>relief<br>betray |  
+| bip_39_word_new_br_4 | sick<br>relief<br>betray<br>labor |  
+| bip_39_word_new_br_5 | sick<br>relief<br>betray<br>labor<br>aunt |  
+| bip_39_word_new_br_6 | sick<br>relief<br>betray<br>labor<br>aunt<br>hockey |  
+| bip_39_word_new_br_7 | sick<br>relief<br>betray<br>labor<br>aunt<br>hockey<br>pepper |  
+| bip_39_word_new_br_8 | sick<br>relief<br>betray<br>labor<br>aunt<br>hockey<br>pepper<br>list |  
+| bip_39_word_new_br_9 | sick<br>relief<br>betray<br>labor<br>aunt<br>hockey<br>pepper<br>list<br>theme |  
+| bip_39_word_new_line_1 | sick |  
+| bip_39_word_new_line_10 | sick
 relief
 betray
 labor
@@ -55,7 +55,7 @@ pepper
 list
 theme
 journey |  
-| bip_39_word_new_line11 | sick
+| bip_39_word_new_line_11 | sick
 relief
 betray
 labor
@@ -66,7 +66,7 @@ list
 theme
 journey
 unusual |  
-| bip_39_word_new_line12 | sick
+| bip_39_word_new_line_12 | sick
 relief
 betray
 labor
@@ -78,34 +78,34 @@ theme
 journey
 unusual
 already |  
-| bip_39_word_new_line2 | sick
+| bip_39_word_new_line_2 | sick
 relief |  
-| bip_39_word_new_line3 | sick
+| bip_39_word_new_line_3 | sick
 relief
 betray |  
-| bip_39_word_new_line4 | sick
+| bip_39_word_new_line_4 | sick
 relief
 betray
 labor |  
-| bip_39_word_new_line5 | sick
+| bip_39_word_new_line_5 | sick
 relief
 betray
 labor
 aunt |  
-| bip_39_word_new_line6 | sick
+| bip_39_word_new_line_6 | sick
 relief
 betray
 labor
 aunt
 hockey |  
-| bip_39_word_new_line7 | sick
+| bip_39_word_new_line_7 | sick
 relief
 betray
 labor
 aunt
 hockey
 pepper |  
-| bip_39_word_new_line8 | sick
+| bip_39_word_new_line_8 | sick
 relief
 betray
 labor
@@ -113,7 +113,7 @@ aunt
 hockey
 pepper
 list |  
-| bip_39_word_new_line9 | sick
+| bip_39_word_new_line_9 | sick
 relief
 betray
 labor

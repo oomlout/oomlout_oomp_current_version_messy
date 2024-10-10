@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | man |  
-| bip_39_word_new_br10 | man<br>else<br>display<br>tiger<br>topic<br>rather<br>protect<br>promote<br>inquiry<br>gather |  
-| bip_39_word_new_br11 | man<br>else<br>display<br>tiger<br>topic<br>rather<br>protect<br>promote<br>inquiry<br>gather<br>ripple |  
-| bip_39_word_new_br12 | man<br>else<br>display<br>tiger<br>topic<br>rather<br>protect<br>promote<br>inquiry<br>gather<br>ripple<br>anxiety |  
-| bip_39_word_new_br2 | man<br>else |  
-| bip_39_word_new_br3 | man<br>else<br>display |  
-| bip_39_word_new_br4 | man<br>else<br>display<br>tiger |  
-| bip_39_word_new_br5 | man<br>else<br>display<br>tiger<br>topic |  
-| bip_39_word_new_br6 | man<br>else<br>display<br>tiger<br>topic<br>rather |  
-| bip_39_word_new_br7 | man<br>else<br>display<br>tiger<br>topic<br>rather<br>protect |  
-| bip_39_word_new_br8 | man<br>else<br>display<br>tiger<br>topic<br>rather<br>protect<br>promote |  
-| bip_39_word_new_br9 | man<br>else<br>display<br>tiger<br>topic<br>rather<br>protect<br>promote<br>inquiry |  
-| bip_39_word_new_line1 | man |  
-| bip_39_word_new_line10 | man
+| bip_39_word_new_br_1 | man |  
+| bip_39_word_new_br_10 | man<br>else<br>display<br>tiger<br>topic<br>rather<br>protect<br>promote<br>inquiry<br>gather |  
+| bip_39_word_new_br_11 | man<br>else<br>display<br>tiger<br>topic<br>rather<br>protect<br>promote<br>inquiry<br>gather<br>ripple |  
+| bip_39_word_new_br_12 | man<br>else<br>display<br>tiger<br>topic<br>rather<br>protect<br>promote<br>inquiry<br>gather<br>ripple<br>anxiety |  
+| bip_39_word_new_br_2 | man<br>else |  
+| bip_39_word_new_br_3 | man<br>else<br>display |  
+| bip_39_word_new_br_4 | man<br>else<br>display<br>tiger |  
+| bip_39_word_new_br_5 | man<br>else<br>display<br>tiger<br>topic |  
+| bip_39_word_new_br_6 | man<br>else<br>display<br>tiger<br>topic<br>rather |  
+| bip_39_word_new_br_7 | man<br>else<br>display<br>tiger<br>topic<br>rather<br>protect |  
+| bip_39_word_new_br_8 | man<br>else<br>display<br>tiger<br>topic<br>rather<br>protect<br>promote |  
+| bip_39_word_new_br_9 | man<br>else<br>display<br>tiger<br>topic<br>rather<br>protect<br>promote<br>inquiry |  
+| bip_39_word_new_line_1 | man |  
+| bip_39_word_new_line_10 | man
 else
 display
 tiger
@@ -55,7 +55,7 @@ protect
 promote
 inquiry
 gather |  
-| bip_39_word_new_line11 | man
+| bip_39_word_new_line_11 | man
 else
 display
 tiger
@@ -66,7 +66,7 @@ promote
 inquiry
 gather
 ripple |  
-| bip_39_word_new_line12 | man
+| bip_39_word_new_line_12 | man
 else
 display
 tiger
@@ -78,34 +78,34 @@ inquiry
 gather
 ripple
 anxiety |  
-| bip_39_word_new_line2 | man
+| bip_39_word_new_line_2 | man
 else |  
-| bip_39_word_new_line3 | man
+| bip_39_word_new_line_3 | man
 else
 display |  
-| bip_39_word_new_line4 | man
+| bip_39_word_new_line_4 | man
 else
 display
 tiger |  
-| bip_39_word_new_line5 | man
+| bip_39_word_new_line_5 | man
 else
 display
 tiger
 topic |  
-| bip_39_word_new_line6 | man
+| bip_39_word_new_line_6 | man
 else
 display
 tiger
 topic
 rather |  
-| bip_39_word_new_line7 | man
+| bip_39_word_new_line_7 | man
 else
 display
 tiger
 topic
 rather
 protect |  
-| bip_39_word_new_line8 | man
+| bip_39_word_new_line_8 | man
 else
 display
 tiger
@@ -113,7 +113,7 @@ topic
 rather
 protect
 promote |  
-| bip_39_word_new_line9 | man
+| bip_39_word_new_line_9 | man
 else
 display
 tiger

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | claim |  
-| bip_39_word_new_br10 | claim<br>motor<br>bike<br>anger<br>much<br>fiber<br>grocery<br>turn<br>carbon<br>zone |  
-| bip_39_word_new_br11 | claim<br>motor<br>bike<br>anger<br>much<br>fiber<br>grocery<br>turn<br>carbon<br>zone<br>business |  
-| bip_39_word_new_br12 | claim<br>motor<br>bike<br>anger<br>much<br>fiber<br>grocery<br>turn<br>carbon<br>zone<br>business<br>argue |  
-| bip_39_word_new_br2 | claim<br>motor |  
-| bip_39_word_new_br3 | claim<br>motor<br>bike |  
-| bip_39_word_new_br4 | claim<br>motor<br>bike<br>anger |  
-| bip_39_word_new_br5 | claim<br>motor<br>bike<br>anger<br>much |  
-| bip_39_word_new_br6 | claim<br>motor<br>bike<br>anger<br>much<br>fiber |  
-| bip_39_word_new_br7 | claim<br>motor<br>bike<br>anger<br>much<br>fiber<br>grocery |  
-| bip_39_word_new_br8 | claim<br>motor<br>bike<br>anger<br>much<br>fiber<br>grocery<br>turn |  
-| bip_39_word_new_br9 | claim<br>motor<br>bike<br>anger<br>much<br>fiber<br>grocery<br>turn<br>carbon |  
-| bip_39_word_new_line1 | claim |  
-| bip_39_word_new_line10 | claim
+| bip_39_word_new_br_1 | claim |  
+| bip_39_word_new_br_10 | claim<br>motor<br>bike<br>anger<br>much<br>fiber<br>grocery<br>turn<br>carbon<br>zone |  
+| bip_39_word_new_br_11 | claim<br>motor<br>bike<br>anger<br>much<br>fiber<br>grocery<br>turn<br>carbon<br>zone<br>business |  
+| bip_39_word_new_br_12 | claim<br>motor<br>bike<br>anger<br>much<br>fiber<br>grocery<br>turn<br>carbon<br>zone<br>business<br>argue |  
+| bip_39_word_new_br_2 | claim<br>motor |  
+| bip_39_word_new_br_3 | claim<br>motor<br>bike |  
+| bip_39_word_new_br_4 | claim<br>motor<br>bike<br>anger |  
+| bip_39_word_new_br_5 | claim<br>motor<br>bike<br>anger<br>much |  
+| bip_39_word_new_br_6 | claim<br>motor<br>bike<br>anger<br>much<br>fiber |  
+| bip_39_word_new_br_7 | claim<br>motor<br>bike<br>anger<br>much<br>fiber<br>grocery |  
+| bip_39_word_new_br_8 | claim<br>motor<br>bike<br>anger<br>much<br>fiber<br>grocery<br>turn |  
+| bip_39_word_new_br_9 | claim<br>motor<br>bike<br>anger<br>much<br>fiber<br>grocery<br>turn<br>carbon |  
+| bip_39_word_new_line_1 | claim |  
+| bip_39_word_new_line_10 | claim
 motor
 bike
 anger
@@ -55,7 +55,7 @@ grocery
 turn
 carbon
 zone |  
-| bip_39_word_new_line11 | claim
+| bip_39_word_new_line_11 | claim
 motor
 bike
 anger
@@ -66,7 +66,7 @@ turn
 carbon
 zone
 business |  
-| bip_39_word_new_line12 | claim
+| bip_39_word_new_line_12 | claim
 motor
 bike
 anger
@@ -78,34 +78,34 @@ carbon
 zone
 business
 argue |  
-| bip_39_word_new_line2 | claim
+| bip_39_word_new_line_2 | claim
 motor |  
-| bip_39_word_new_line3 | claim
+| bip_39_word_new_line_3 | claim
 motor
 bike |  
-| bip_39_word_new_line4 | claim
+| bip_39_word_new_line_4 | claim
 motor
 bike
 anger |  
-| bip_39_word_new_line5 | claim
+| bip_39_word_new_line_5 | claim
 motor
 bike
 anger
 much |  
-| bip_39_word_new_line6 | claim
+| bip_39_word_new_line_6 | claim
 motor
 bike
 anger
 much
 fiber |  
-| bip_39_word_new_line7 | claim
+| bip_39_word_new_line_7 | claim
 motor
 bike
 anger
 much
 fiber
 grocery |  
-| bip_39_word_new_line8 | claim
+| bip_39_word_new_line_8 | claim
 motor
 bike
 anger
@@ -113,7 +113,7 @@ much
 fiber
 grocery
 turn |  
-| bip_39_word_new_line9 | claim
+| bip_39_word_new_line_9 | claim
 motor
 bike
 anger

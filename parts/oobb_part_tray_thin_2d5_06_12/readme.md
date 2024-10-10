@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sure |  
-| bip_39_word_new_br10 | sure<br>execute<br>usage<br>payment<br>disorder<br>undo<br>price<br>leg<br>deer<br>leopard |  
-| bip_39_word_new_br11 | sure<br>execute<br>usage<br>payment<br>disorder<br>undo<br>price<br>leg<br>deer<br>leopard<br>diamond |  
-| bip_39_word_new_br12 | sure<br>execute<br>usage<br>payment<br>disorder<br>undo<br>price<br>leg<br>deer<br>leopard<br>diamond<br>alert |  
-| bip_39_word_new_br2 | sure<br>execute |  
-| bip_39_word_new_br3 | sure<br>execute<br>usage |  
-| bip_39_word_new_br4 | sure<br>execute<br>usage<br>payment |  
-| bip_39_word_new_br5 | sure<br>execute<br>usage<br>payment<br>disorder |  
-| bip_39_word_new_br6 | sure<br>execute<br>usage<br>payment<br>disorder<br>undo |  
-| bip_39_word_new_br7 | sure<br>execute<br>usage<br>payment<br>disorder<br>undo<br>price |  
-| bip_39_word_new_br8 | sure<br>execute<br>usage<br>payment<br>disorder<br>undo<br>price<br>leg |  
-| bip_39_word_new_br9 | sure<br>execute<br>usage<br>payment<br>disorder<br>undo<br>price<br>leg<br>deer |  
-| bip_39_word_new_line1 | sure |  
-| bip_39_word_new_line10 | sure
+| bip_39_word_new_br_1 | sure |  
+| bip_39_word_new_br_10 | sure<br>execute<br>usage<br>payment<br>disorder<br>undo<br>price<br>leg<br>deer<br>leopard |  
+| bip_39_word_new_br_11 | sure<br>execute<br>usage<br>payment<br>disorder<br>undo<br>price<br>leg<br>deer<br>leopard<br>diamond |  
+| bip_39_word_new_br_12 | sure<br>execute<br>usage<br>payment<br>disorder<br>undo<br>price<br>leg<br>deer<br>leopard<br>diamond<br>alert |  
+| bip_39_word_new_br_2 | sure<br>execute |  
+| bip_39_word_new_br_3 | sure<br>execute<br>usage |  
+| bip_39_word_new_br_4 | sure<br>execute<br>usage<br>payment |  
+| bip_39_word_new_br_5 | sure<br>execute<br>usage<br>payment<br>disorder |  
+| bip_39_word_new_br_6 | sure<br>execute<br>usage<br>payment<br>disorder<br>undo |  
+| bip_39_word_new_br_7 | sure<br>execute<br>usage<br>payment<br>disorder<br>undo<br>price |  
+| bip_39_word_new_br_8 | sure<br>execute<br>usage<br>payment<br>disorder<br>undo<br>price<br>leg |  
+| bip_39_word_new_br_9 | sure<br>execute<br>usage<br>payment<br>disorder<br>undo<br>price<br>leg<br>deer |  
+| bip_39_word_new_line_1 | sure |  
+| bip_39_word_new_line_10 | sure
 execute
 usage
 payment
@@ -55,7 +55,7 @@ price
 leg
 deer
 leopard |  
-| bip_39_word_new_line11 | sure
+| bip_39_word_new_line_11 | sure
 execute
 usage
 payment
@@ -66,7 +66,7 @@ leg
 deer
 leopard
 diamond |  
-| bip_39_word_new_line12 | sure
+| bip_39_word_new_line_12 | sure
 execute
 usage
 payment
@@ -78,34 +78,34 @@ deer
 leopard
 diamond
 alert |  
-| bip_39_word_new_line2 | sure
+| bip_39_word_new_line_2 | sure
 execute |  
-| bip_39_word_new_line3 | sure
+| bip_39_word_new_line_3 | sure
 execute
 usage |  
-| bip_39_word_new_line4 | sure
+| bip_39_word_new_line_4 | sure
 execute
 usage
 payment |  
-| bip_39_word_new_line5 | sure
+| bip_39_word_new_line_5 | sure
 execute
 usage
 payment
 disorder |  
-| bip_39_word_new_line6 | sure
+| bip_39_word_new_line_6 | sure
 execute
 usage
 payment
 disorder
 undo |  
-| bip_39_word_new_line7 | sure
+| bip_39_word_new_line_7 | sure
 execute
 usage
 payment
 disorder
 undo
 price |  
-| bip_39_word_new_line8 | sure
+| bip_39_word_new_line_8 | sure
 execute
 usage
 payment
@@ -113,7 +113,7 @@ disorder
 undo
 price
 leg |  
-| bip_39_word_new_line9 | sure
+| bip_39_word_new_line_9 | sure
 execute
 usage
 payment

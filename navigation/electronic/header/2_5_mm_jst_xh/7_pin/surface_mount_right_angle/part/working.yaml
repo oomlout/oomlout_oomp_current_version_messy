@@ -1,17 +1,17 @@
-bip_39_word_new_br1: warrior
-bip_39_word_new_br10: warrior<br>strategy<br>enemy<br>view<br>online<br>pistol<br>small<br>barely<br>general<br>decline
-bip_39_word_new_br11: warrior<br>strategy<br>enemy<br>view<br>online<br>pistol<br>small<br>barely<br>general<br>decline<br>garlic
-bip_39_word_new_br12: warrior<br>strategy<br>enemy<br>view<br>online<br>pistol<br>small<br>barely<br>general<br>decline<br>garlic<br>attitude
-bip_39_word_new_br2: warrior<br>strategy
-bip_39_word_new_br3: warrior<br>strategy<br>enemy
-bip_39_word_new_br4: warrior<br>strategy<br>enemy<br>view
-bip_39_word_new_br5: warrior<br>strategy<br>enemy<br>view<br>online
-bip_39_word_new_br6: warrior<br>strategy<br>enemy<br>view<br>online<br>pistol
-bip_39_word_new_br7: warrior<br>strategy<br>enemy<br>view<br>online<br>pistol<br>small
-bip_39_word_new_br8: warrior<br>strategy<br>enemy<br>view<br>online<br>pistol<br>small<br>barely
-bip_39_word_new_br9: warrior<br>strategy<br>enemy<br>view<br>online<br>pistol<br>small<br>barely<br>general
-bip_39_word_new_line1: warrior
-bip_39_word_new_line10: 'warrior
+bip_39_word_new_br_1: warrior
+bip_39_word_new_br_10: warrior<br>strategy<br>enemy<br>view<br>online<br>pistol<br>small<br>barely<br>general<br>decline
+bip_39_word_new_br_11: warrior<br>strategy<br>enemy<br>view<br>online<br>pistol<br>small<br>barely<br>general<br>decline<br>garlic
+bip_39_word_new_br_12: warrior<br>strategy<br>enemy<br>view<br>online<br>pistol<br>small<br>barely<br>general<br>decline<br>garlic<br>attitude
+bip_39_word_new_br_2: warrior<br>strategy
+bip_39_word_new_br_3: warrior<br>strategy<br>enemy
+bip_39_word_new_br_4: warrior<br>strategy<br>enemy<br>view
+bip_39_word_new_br_5: warrior<br>strategy<br>enemy<br>view<br>online
+bip_39_word_new_br_6: warrior<br>strategy<br>enemy<br>view<br>online<br>pistol
+bip_39_word_new_br_7: warrior<br>strategy<br>enemy<br>view<br>online<br>pistol<br>small
+bip_39_word_new_br_8: warrior<br>strategy<br>enemy<br>view<br>online<br>pistol<br>small<br>barely
+bip_39_word_new_br_9: warrior<br>strategy<br>enemy<br>view<br>online<br>pistol<br>small<br>barely<br>general
+bip_39_word_new_line_1: warrior
+bip_39_word_new_line_10: 'warrior
 
   strategy
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'warrior
   general
 
   decline'
-bip_39_word_new_line11: 'warrior
+bip_39_word_new_line_11: 'warrior
 
   strategy
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'warrior
   decline
 
   garlic'
-bip_39_word_new_line12: 'warrior
+bip_39_word_new_line_12: 'warrior
 
   strategy
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'warrior
   garlic
 
   attitude'
-bip_39_word_new_line2: 'warrior
+bip_39_word_new_line_2: 'warrior
 
   strategy'
-bip_39_word_new_line3: 'warrior
+bip_39_word_new_line_3: 'warrior
 
   strategy
 
   enemy'
-bip_39_word_new_line4: 'warrior
+bip_39_word_new_line_4: 'warrior
 
   strategy
 
   enemy
 
   view'
-bip_39_word_new_line5: 'warrior
+bip_39_word_new_line_5: 'warrior
 
   strategy
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'warrior
   view
 
   online'
-bip_39_word_new_line6: 'warrior
+bip_39_word_new_line_6: 'warrior
 
   strategy
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'warrior
   online
 
   pistol'
-bip_39_word_new_line7: 'warrior
+bip_39_word_new_line_7: 'warrior
 
   strategy
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'warrior
   pistol
 
   small'
-bip_39_word_new_line8: 'warrior
+bip_39_word_new_line_8: 'warrior
 
   strategy
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'warrior
   small
 
   barely'
-bip_39_word_new_line9: 'warrior
+bip_39_word_new_line_9: 'warrior
 
   strategy
 

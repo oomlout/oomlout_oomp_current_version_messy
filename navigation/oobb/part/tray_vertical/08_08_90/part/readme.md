@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | satoshi |  
-| bip_39_word_new_br10 | satoshi<br>gorilla<br>eight<br>melt<br>parrot<br>rapid<br>train<br>round<br>major<br>twelve |  
-| bip_39_word_new_br11 | satoshi<br>gorilla<br>eight<br>melt<br>parrot<br>rapid<br>train<br>round<br>major<br>twelve<br>shoe |  
-| bip_39_word_new_br12 | satoshi<br>gorilla<br>eight<br>melt<br>parrot<br>rapid<br>train<br>round<br>major<br>twelve<br>shoe<br>arrest |  
-| bip_39_word_new_br2 | satoshi<br>gorilla |  
-| bip_39_word_new_br3 | satoshi<br>gorilla<br>eight |  
-| bip_39_word_new_br4 | satoshi<br>gorilla<br>eight<br>melt |  
-| bip_39_word_new_br5 | satoshi<br>gorilla<br>eight<br>melt<br>parrot |  
-| bip_39_word_new_br6 | satoshi<br>gorilla<br>eight<br>melt<br>parrot<br>rapid |  
-| bip_39_word_new_br7 | satoshi<br>gorilla<br>eight<br>melt<br>parrot<br>rapid<br>train |  
-| bip_39_word_new_br8 | satoshi<br>gorilla<br>eight<br>melt<br>parrot<br>rapid<br>train<br>round |  
-| bip_39_word_new_br9 | satoshi<br>gorilla<br>eight<br>melt<br>parrot<br>rapid<br>train<br>round<br>major |  
-| bip_39_word_new_line1 | satoshi |  
-| bip_39_word_new_line10 | satoshi
+| bip_39_word_new_br_1 | satoshi |  
+| bip_39_word_new_br_10 | satoshi<br>gorilla<br>eight<br>melt<br>parrot<br>rapid<br>train<br>round<br>major<br>twelve |  
+| bip_39_word_new_br_11 | satoshi<br>gorilla<br>eight<br>melt<br>parrot<br>rapid<br>train<br>round<br>major<br>twelve<br>shoe |  
+| bip_39_word_new_br_12 | satoshi<br>gorilla<br>eight<br>melt<br>parrot<br>rapid<br>train<br>round<br>major<br>twelve<br>shoe<br>arrest |  
+| bip_39_word_new_br_2 | satoshi<br>gorilla |  
+| bip_39_word_new_br_3 | satoshi<br>gorilla<br>eight |  
+| bip_39_word_new_br_4 | satoshi<br>gorilla<br>eight<br>melt |  
+| bip_39_word_new_br_5 | satoshi<br>gorilla<br>eight<br>melt<br>parrot |  
+| bip_39_word_new_br_6 | satoshi<br>gorilla<br>eight<br>melt<br>parrot<br>rapid |  
+| bip_39_word_new_br_7 | satoshi<br>gorilla<br>eight<br>melt<br>parrot<br>rapid<br>train |  
+| bip_39_word_new_br_8 | satoshi<br>gorilla<br>eight<br>melt<br>parrot<br>rapid<br>train<br>round |  
+| bip_39_word_new_br_9 | satoshi<br>gorilla<br>eight<br>melt<br>parrot<br>rapid<br>train<br>round<br>major |  
+| bip_39_word_new_line_1 | satoshi |  
+| bip_39_word_new_line_10 | satoshi
 gorilla
 eight
 melt
@@ -55,7 +55,7 @@ train
 round
 major
 twelve |  
-| bip_39_word_new_line11 | satoshi
+| bip_39_word_new_line_11 | satoshi
 gorilla
 eight
 melt
@@ -66,7 +66,7 @@ round
 major
 twelve
 shoe |  
-| bip_39_word_new_line12 | satoshi
+| bip_39_word_new_line_12 | satoshi
 gorilla
 eight
 melt
@@ -78,34 +78,34 @@ major
 twelve
 shoe
 arrest |  
-| bip_39_word_new_line2 | satoshi
+| bip_39_word_new_line_2 | satoshi
 gorilla |  
-| bip_39_word_new_line3 | satoshi
+| bip_39_word_new_line_3 | satoshi
 gorilla
 eight |  
-| bip_39_word_new_line4 | satoshi
+| bip_39_word_new_line_4 | satoshi
 gorilla
 eight
 melt |  
-| bip_39_word_new_line5 | satoshi
+| bip_39_word_new_line_5 | satoshi
 gorilla
 eight
 melt
 parrot |  
-| bip_39_word_new_line6 | satoshi
+| bip_39_word_new_line_6 | satoshi
 gorilla
 eight
 melt
 parrot
 rapid |  
-| bip_39_word_new_line7 | satoshi
+| bip_39_word_new_line_7 | satoshi
 gorilla
 eight
 melt
 parrot
 rapid
 train |  
-| bip_39_word_new_line8 | satoshi
+| bip_39_word_new_line_8 | satoshi
 gorilla
 eight
 melt
@@ -113,7 +113,7 @@ parrot
 rapid
 train
 round |  
-| bip_39_word_new_line9 | satoshi
+| bip_39_word_new_line_9 | satoshi
 gorilla
 eight
 melt

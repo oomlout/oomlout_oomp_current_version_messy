@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | problem |  
-| bip_39_word_new_br10 | problem<br>start<br>place<br>rib<br>super<br>target<br>lake<br>father<br>visit<br>chaos |  
-| bip_39_word_new_br11 | problem<br>start<br>place<br>rib<br>super<br>target<br>lake<br>father<br>visit<br>chaos<br>find |  
-| bip_39_word_new_br12 | problem<br>start<br>place<br>rib<br>super<br>target<br>lake<br>father<br>visit<br>chaos<br>find<br>army |  
-| bip_39_word_new_br2 | problem<br>start |  
-| bip_39_word_new_br3 | problem<br>start<br>place |  
-| bip_39_word_new_br4 | problem<br>start<br>place<br>rib |  
-| bip_39_word_new_br5 | problem<br>start<br>place<br>rib<br>super |  
-| bip_39_word_new_br6 | problem<br>start<br>place<br>rib<br>super<br>target |  
-| bip_39_word_new_br7 | problem<br>start<br>place<br>rib<br>super<br>target<br>lake |  
-| bip_39_word_new_br8 | problem<br>start<br>place<br>rib<br>super<br>target<br>lake<br>father |  
-| bip_39_word_new_br9 | problem<br>start<br>place<br>rib<br>super<br>target<br>lake<br>father<br>visit |  
-| bip_39_word_new_line1 | problem |  
-| bip_39_word_new_line10 | problem
+| bip_39_word_new_br_1 | problem |  
+| bip_39_word_new_br_10 | problem<br>start<br>place<br>rib<br>super<br>target<br>lake<br>father<br>visit<br>chaos |  
+| bip_39_word_new_br_11 | problem<br>start<br>place<br>rib<br>super<br>target<br>lake<br>father<br>visit<br>chaos<br>find |  
+| bip_39_word_new_br_12 | problem<br>start<br>place<br>rib<br>super<br>target<br>lake<br>father<br>visit<br>chaos<br>find<br>army |  
+| bip_39_word_new_br_2 | problem<br>start |  
+| bip_39_word_new_br_3 | problem<br>start<br>place |  
+| bip_39_word_new_br_4 | problem<br>start<br>place<br>rib |  
+| bip_39_word_new_br_5 | problem<br>start<br>place<br>rib<br>super |  
+| bip_39_word_new_br_6 | problem<br>start<br>place<br>rib<br>super<br>target |  
+| bip_39_word_new_br_7 | problem<br>start<br>place<br>rib<br>super<br>target<br>lake |  
+| bip_39_word_new_br_8 | problem<br>start<br>place<br>rib<br>super<br>target<br>lake<br>father |  
+| bip_39_word_new_br_9 | problem<br>start<br>place<br>rib<br>super<br>target<br>lake<br>father<br>visit |  
+| bip_39_word_new_line_1 | problem |  
+| bip_39_word_new_line_10 | problem
 start
 place
 rib
@@ -55,7 +55,7 @@ lake
 father
 visit
 chaos |  
-| bip_39_word_new_line11 | problem
+| bip_39_word_new_line_11 | problem
 start
 place
 rib
@@ -66,7 +66,7 @@ father
 visit
 chaos
 find |  
-| bip_39_word_new_line12 | problem
+| bip_39_word_new_line_12 | problem
 start
 place
 rib
@@ -78,34 +78,34 @@ visit
 chaos
 find
 army |  
-| bip_39_word_new_line2 | problem
+| bip_39_word_new_line_2 | problem
 start |  
-| bip_39_word_new_line3 | problem
+| bip_39_word_new_line_3 | problem
 start
 place |  
-| bip_39_word_new_line4 | problem
+| bip_39_word_new_line_4 | problem
 start
 place
 rib |  
-| bip_39_word_new_line5 | problem
+| bip_39_word_new_line_5 | problem
 start
 place
 rib
 super |  
-| bip_39_word_new_line6 | problem
+| bip_39_word_new_line_6 | problem
 start
 place
 rib
 super
 target |  
-| bip_39_word_new_line7 | problem
+| bip_39_word_new_line_7 | problem
 start
 place
 rib
 super
 target
 lake |  
-| bip_39_word_new_line8 | problem
+| bip_39_word_new_line_8 | problem
 start
 place
 rib
@@ -113,7 +113,7 @@ super
 target
 lake
 father |  
-| bip_39_word_new_line9 | problem
+| bip_39_word_new_line_9 | problem
 start
 place
 rib

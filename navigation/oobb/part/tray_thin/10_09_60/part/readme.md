@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | moral |  
-| bip_39_word_new_br10 | moral<br>hill<br>gospel<br>symptom<br>glue<br>misery<br>element<br>pony<br>leopard<br>lottery |  
-| bip_39_word_new_br11 | moral<br>hill<br>gospel<br>symptom<br>glue<br>misery<br>element<br>pony<br>leopard<br>lottery<br>angry |  
-| bip_39_word_new_br12 | moral<br>hill<br>gospel<br>symptom<br>glue<br>misery<br>element<br>pony<br>leopard<br>lottery<br>angry<br>about |  
-| bip_39_word_new_br2 | moral<br>hill |  
-| bip_39_word_new_br3 | moral<br>hill<br>gospel |  
-| bip_39_word_new_br4 | moral<br>hill<br>gospel<br>symptom |  
-| bip_39_word_new_br5 | moral<br>hill<br>gospel<br>symptom<br>glue |  
-| bip_39_word_new_br6 | moral<br>hill<br>gospel<br>symptom<br>glue<br>misery |  
-| bip_39_word_new_br7 | moral<br>hill<br>gospel<br>symptom<br>glue<br>misery<br>element |  
-| bip_39_word_new_br8 | moral<br>hill<br>gospel<br>symptom<br>glue<br>misery<br>element<br>pony |  
-| bip_39_word_new_br9 | moral<br>hill<br>gospel<br>symptom<br>glue<br>misery<br>element<br>pony<br>leopard |  
-| bip_39_word_new_line1 | moral |  
-| bip_39_word_new_line10 | moral
+| bip_39_word_new_br_1 | moral |  
+| bip_39_word_new_br_10 | moral<br>hill<br>gospel<br>symptom<br>glue<br>misery<br>element<br>pony<br>leopard<br>lottery |  
+| bip_39_word_new_br_11 | moral<br>hill<br>gospel<br>symptom<br>glue<br>misery<br>element<br>pony<br>leopard<br>lottery<br>angry |  
+| bip_39_word_new_br_12 | moral<br>hill<br>gospel<br>symptom<br>glue<br>misery<br>element<br>pony<br>leopard<br>lottery<br>angry<br>about |  
+| bip_39_word_new_br_2 | moral<br>hill |  
+| bip_39_word_new_br_3 | moral<br>hill<br>gospel |  
+| bip_39_word_new_br_4 | moral<br>hill<br>gospel<br>symptom |  
+| bip_39_word_new_br_5 | moral<br>hill<br>gospel<br>symptom<br>glue |  
+| bip_39_word_new_br_6 | moral<br>hill<br>gospel<br>symptom<br>glue<br>misery |  
+| bip_39_word_new_br_7 | moral<br>hill<br>gospel<br>symptom<br>glue<br>misery<br>element |  
+| bip_39_word_new_br_8 | moral<br>hill<br>gospel<br>symptom<br>glue<br>misery<br>element<br>pony |  
+| bip_39_word_new_br_9 | moral<br>hill<br>gospel<br>symptom<br>glue<br>misery<br>element<br>pony<br>leopard |  
+| bip_39_word_new_line_1 | moral |  
+| bip_39_word_new_line_10 | moral
 hill
 gospel
 symptom
@@ -55,7 +55,7 @@ element
 pony
 leopard
 lottery |  
-| bip_39_word_new_line11 | moral
+| bip_39_word_new_line_11 | moral
 hill
 gospel
 symptom
@@ -66,7 +66,7 @@ pony
 leopard
 lottery
 angry |  
-| bip_39_word_new_line12 | moral
+| bip_39_word_new_line_12 | moral
 hill
 gospel
 symptom
@@ -78,34 +78,34 @@ leopard
 lottery
 angry
 about |  
-| bip_39_word_new_line2 | moral
+| bip_39_word_new_line_2 | moral
 hill |  
-| bip_39_word_new_line3 | moral
+| bip_39_word_new_line_3 | moral
 hill
 gospel |  
-| bip_39_word_new_line4 | moral
+| bip_39_word_new_line_4 | moral
 hill
 gospel
 symptom |  
-| bip_39_word_new_line5 | moral
+| bip_39_word_new_line_5 | moral
 hill
 gospel
 symptom
 glue |  
-| bip_39_word_new_line6 | moral
+| bip_39_word_new_line_6 | moral
 hill
 gospel
 symptom
 glue
 misery |  
-| bip_39_word_new_line7 | moral
+| bip_39_word_new_line_7 | moral
 hill
 gospel
 symptom
 glue
 misery
 element |  
-| bip_39_word_new_line8 | moral
+| bip_39_word_new_line_8 | moral
 hill
 gospel
 symptom
@@ -113,7 +113,7 @@ glue
 misery
 element
 pony |  
-| bip_39_word_new_line9 | moral
+| bip_39_word_new_line_9 | moral
 hill
 gospel
 symptom

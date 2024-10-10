@@ -1,17 +1,17 @@
-bip_39_word_new_br1: accuse
-bip_39_word_new_br10: accuse<br>shy<br>tenant<br>waste<br>subject<br>rural<br>kitten<br>release<br>before<br>again
-bip_39_word_new_br11: accuse<br>shy<br>tenant<br>waste<br>subject<br>rural<br>kitten<br>release<br>before<br>again<br>faint
-bip_39_word_new_br12: accuse<br>shy<br>tenant<br>waste<br>subject<br>rural<br>kitten<br>release<br>before<br>again<br>faint<br>arrest
-bip_39_word_new_br2: accuse<br>shy
-bip_39_word_new_br3: accuse<br>shy<br>tenant
-bip_39_word_new_br4: accuse<br>shy<br>tenant<br>waste
-bip_39_word_new_br5: accuse<br>shy<br>tenant<br>waste<br>subject
-bip_39_word_new_br6: accuse<br>shy<br>tenant<br>waste<br>subject<br>rural
-bip_39_word_new_br7: accuse<br>shy<br>tenant<br>waste<br>subject<br>rural<br>kitten
-bip_39_word_new_br8: accuse<br>shy<br>tenant<br>waste<br>subject<br>rural<br>kitten<br>release
-bip_39_word_new_br9: accuse<br>shy<br>tenant<br>waste<br>subject<br>rural<br>kitten<br>release<br>before
-bip_39_word_new_line1: accuse
-bip_39_word_new_line10: 'accuse
+bip_39_word_new_br_1: accuse
+bip_39_word_new_br_10: accuse<br>shy<br>tenant<br>waste<br>subject<br>rural<br>kitten<br>release<br>before<br>again
+bip_39_word_new_br_11: accuse<br>shy<br>tenant<br>waste<br>subject<br>rural<br>kitten<br>release<br>before<br>again<br>faint
+bip_39_word_new_br_12: accuse<br>shy<br>tenant<br>waste<br>subject<br>rural<br>kitten<br>release<br>before<br>again<br>faint<br>arrest
+bip_39_word_new_br_2: accuse<br>shy
+bip_39_word_new_br_3: accuse<br>shy<br>tenant
+bip_39_word_new_br_4: accuse<br>shy<br>tenant<br>waste
+bip_39_word_new_br_5: accuse<br>shy<br>tenant<br>waste<br>subject
+bip_39_word_new_br_6: accuse<br>shy<br>tenant<br>waste<br>subject<br>rural
+bip_39_word_new_br_7: accuse<br>shy<br>tenant<br>waste<br>subject<br>rural<br>kitten
+bip_39_word_new_br_8: accuse<br>shy<br>tenant<br>waste<br>subject<br>rural<br>kitten<br>release
+bip_39_word_new_br_9: accuse<br>shy<br>tenant<br>waste<br>subject<br>rural<br>kitten<br>release<br>before
+bip_39_word_new_line_1: accuse
+bip_39_word_new_line_10: 'accuse
 
   shy
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'accuse
   before
 
   again'
-bip_39_word_new_line11: 'accuse
+bip_39_word_new_line_11: 'accuse
 
   shy
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'accuse
   again
 
   faint'
-bip_39_word_new_line12: 'accuse
+bip_39_word_new_line_12: 'accuse
 
   shy
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'accuse
   faint
 
   arrest'
-bip_39_word_new_line2: 'accuse
+bip_39_word_new_line_2: 'accuse
 
   shy'
-bip_39_word_new_line3: 'accuse
+bip_39_word_new_line_3: 'accuse
 
   shy
 
   tenant'
-bip_39_word_new_line4: 'accuse
+bip_39_word_new_line_4: 'accuse
 
   shy
 
   tenant
 
   waste'
-bip_39_word_new_line5: 'accuse
+bip_39_word_new_line_5: 'accuse
 
   shy
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'accuse
   waste
 
   subject'
-bip_39_word_new_line6: 'accuse
+bip_39_word_new_line_6: 'accuse
 
   shy
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'accuse
   subject
 
   rural'
-bip_39_word_new_line7: 'accuse
+bip_39_word_new_line_7: 'accuse
 
   shy
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'accuse
   rural
 
   kitten'
-bip_39_word_new_line8: 'accuse
+bip_39_word_new_line_8: 'accuse
 
   shy
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'accuse
   kitten
 
   release'
-bip_39_word_new_line9: 'accuse
+bip_39_word_new_line_9: 'accuse
 
   shy
 

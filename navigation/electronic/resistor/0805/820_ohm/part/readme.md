@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sentence |  
-| bip_39_word_new_br10 | sentence<br>sure<br>hire<br>sentence<br>maid<br>fiber<br>divide<br>cliff<br>olympic<br>pet |  
-| bip_39_word_new_br11 | sentence<br>sure<br>hire<br>sentence<br>maid<br>fiber<br>divide<br>cliff<br>olympic<br>pet<br>gallery |  
-| bip_39_word_new_br12 | sentence<br>sure<br>hire<br>sentence<br>maid<br>fiber<br>divide<br>cliff<br>olympic<br>pet<br>gallery<br>absurd |  
-| bip_39_word_new_br2 | sentence<br>sure |  
-| bip_39_word_new_br3 | sentence<br>sure<br>hire |  
-| bip_39_word_new_br4 | sentence<br>sure<br>hire<br>sentence |  
-| bip_39_word_new_br5 | sentence<br>sure<br>hire<br>sentence<br>maid |  
-| bip_39_word_new_br6 | sentence<br>sure<br>hire<br>sentence<br>maid<br>fiber |  
-| bip_39_word_new_br7 | sentence<br>sure<br>hire<br>sentence<br>maid<br>fiber<br>divide |  
-| bip_39_word_new_br8 | sentence<br>sure<br>hire<br>sentence<br>maid<br>fiber<br>divide<br>cliff |  
-| bip_39_word_new_br9 | sentence<br>sure<br>hire<br>sentence<br>maid<br>fiber<br>divide<br>cliff<br>olympic |  
-| bip_39_word_new_line1 | sentence |  
-| bip_39_word_new_line10 | sentence
+| bip_39_word_new_br_1 | sentence |  
+| bip_39_word_new_br_10 | sentence<br>sure<br>hire<br>sentence<br>maid<br>fiber<br>divide<br>cliff<br>olympic<br>pet |  
+| bip_39_word_new_br_11 | sentence<br>sure<br>hire<br>sentence<br>maid<br>fiber<br>divide<br>cliff<br>olympic<br>pet<br>gallery |  
+| bip_39_word_new_br_12 | sentence<br>sure<br>hire<br>sentence<br>maid<br>fiber<br>divide<br>cliff<br>olympic<br>pet<br>gallery<br>absurd |  
+| bip_39_word_new_br_2 | sentence<br>sure |  
+| bip_39_word_new_br_3 | sentence<br>sure<br>hire |  
+| bip_39_word_new_br_4 | sentence<br>sure<br>hire<br>sentence |  
+| bip_39_word_new_br_5 | sentence<br>sure<br>hire<br>sentence<br>maid |  
+| bip_39_word_new_br_6 | sentence<br>sure<br>hire<br>sentence<br>maid<br>fiber |  
+| bip_39_word_new_br_7 | sentence<br>sure<br>hire<br>sentence<br>maid<br>fiber<br>divide |  
+| bip_39_word_new_br_8 | sentence<br>sure<br>hire<br>sentence<br>maid<br>fiber<br>divide<br>cliff |  
+| bip_39_word_new_br_9 | sentence<br>sure<br>hire<br>sentence<br>maid<br>fiber<br>divide<br>cliff<br>olympic |  
+| bip_39_word_new_line_1 | sentence |  
+| bip_39_word_new_line_10 | sentence
 sure
 hire
 sentence
@@ -55,7 +55,7 @@ divide
 cliff
 olympic
 pet |  
-| bip_39_word_new_line11 | sentence
+| bip_39_word_new_line_11 | sentence
 sure
 hire
 sentence
@@ -66,7 +66,7 @@ cliff
 olympic
 pet
 gallery |  
-| bip_39_word_new_line12 | sentence
+| bip_39_word_new_line_12 | sentence
 sure
 hire
 sentence
@@ -78,34 +78,34 @@ olympic
 pet
 gallery
 absurd |  
-| bip_39_word_new_line2 | sentence
+| bip_39_word_new_line_2 | sentence
 sure |  
-| bip_39_word_new_line3 | sentence
+| bip_39_word_new_line_3 | sentence
 sure
 hire |  
-| bip_39_word_new_line4 | sentence
+| bip_39_word_new_line_4 | sentence
 sure
 hire
 sentence |  
-| bip_39_word_new_line5 | sentence
+| bip_39_word_new_line_5 | sentence
 sure
 hire
 sentence
 maid |  
-| bip_39_word_new_line6 | sentence
+| bip_39_word_new_line_6 | sentence
 sure
 hire
 sentence
 maid
 fiber |  
-| bip_39_word_new_line7 | sentence
+| bip_39_word_new_line_7 | sentence
 sure
 hire
 sentence
 maid
 fiber
 divide |  
-| bip_39_word_new_line8 | sentence
+| bip_39_word_new_line_8 | sentence
 sure
 hire
 sentence
@@ -113,7 +113,7 @@ maid
 fiber
 divide
 cliff |  
-| bip_39_word_new_line9 | sentence
+| bip_39_word_new_line_9 | sentence
 sure
 hire
 sentence

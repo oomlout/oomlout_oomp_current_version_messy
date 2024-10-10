@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | divorce |  
-| bip_39_word_new_br10 | divorce<br>left<br>truck<br>ignore<br>sausage<br>dry<br>fan<br>hobby<br>flavor<br>nasty |  
-| bip_39_word_new_br11 | divorce<br>left<br>truck<br>ignore<br>sausage<br>dry<br>fan<br>hobby<br>flavor<br>nasty<br>increase |  
-| bip_39_word_new_br12 | divorce<br>left<br>truck<br>ignore<br>sausage<br>dry<br>fan<br>hobby<br>flavor<br>nasty<br>increase<br>advice |  
-| bip_39_word_new_br2 | divorce<br>left |  
-| bip_39_word_new_br3 | divorce<br>left<br>truck |  
-| bip_39_word_new_br4 | divorce<br>left<br>truck<br>ignore |  
-| bip_39_word_new_br5 | divorce<br>left<br>truck<br>ignore<br>sausage |  
-| bip_39_word_new_br6 | divorce<br>left<br>truck<br>ignore<br>sausage<br>dry |  
-| bip_39_word_new_br7 | divorce<br>left<br>truck<br>ignore<br>sausage<br>dry<br>fan |  
-| bip_39_word_new_br8 | divorce<br>left<br>truck<br>ignore<br>sausage<br>dry<br>fan<br>hobby |  
-| bip_39_word_new_br9 | divorce<br>left<br>truck<br>ignore<br>sausage<br>dry<br>fan<br>hobby<br>flavor |  
-| bip_39_word_new_line1 | divorce |  
-| bip_39_word_new_line10 | divorce
+| bip_39_word_new_br_1 | divorce |  
+| bip_39_word_new_br_10 | divorce<br>left<br>truck<br>ignore<br>sausage<br>dry<br>fan<br>hobby<br>flavor<br>nasty |  
+| bip_39_word_new_br_11 | divorce<br>left<br>truck<br>ignore<br>sausage<br>dry<br>fan<br>hobby<br>flavor<br>nasty<br>increase |  
+| bip_39_word_new_br_12 | divorce<br>left<br>truck<br>ignore<br>sausage<br>dry<br>fan<br>hobby<br>flavor<br>nasty<br>increase<br>advice |  
+| bip_39_word_new_br_2 | divorce<br>left |  
+| bip_39_word_new_br_3 | divorce<br>left<br>truck |  
+| bip_39_word_new_br_4 | divorce<br>left<br>truck<br>ignore |  
+| bip_39_word_new_br_5 | divorce<br>left<br>truck<br>ignore<br>sausage |  
+| bip_39_word_new_br_6 | divorce<br>left<br>truck<br>ignore<br>sausage<br>dry |  
+| bip_39_word_new_br_7 | divorce<br>left<br>truck<br>ignore<br>sausage<br>dry<br>fan |  
+| bip_39_word_new_br_8 | divorce<br>left<br>truck<br>ignore<br>sausage<br>dry<br>fan<br>hobby |  
+| bip_39_word_new_br_9 | divorce<br>left<br>truck<br>ignore<br>sausage<br>dry<br>fan<br>hobby<br>flavor |  
+| bip_39_word_new_line_1 | divorce |  
+| bip_39_word_new_line_10 | divorce
 left
 truck
 ignore
@@ -55,7 +55,7 @@ fan
 hobby
 flavor
 nasty |  
-| bip_39_word_new_line11 | divorce
+| bip_39_word_new_line_11 | divorce
 left
 truck
 ignore
@@ -66,7 +66,7 @@ hobby
 flavor
 nasty
 increase |  
-| bip_39_word_new_line12 | divorce
+| bip_39_word_new_line_12 | divorce
 left
 truck
 ignore
@@ -78,34 +78,34 @@ flavor
 nasty
 increase
 advice |  
-| bip_39_word_new_line2 | divorce
+| bip_39_word_new_line_2 | divorce
 left |  
-| bip_39_word_new_line3 | divorce
+| bip_39_word_new_line_3 | divorce
 left
 truck |  
-| bip_39_word_new_line4 | divorce
+| bip_39_word_new_line_4 | divorce
 left
 truck
 ignore |  
-| bip_39_word_new_line5 | divorce
+| bip_39_word_new_line_5 | divorce
 left
 truck
 ignore
 sausage |  
-| bip_39_word_new_line6 | divorce
+| bip_39_word_new_line_6 | divorce
 left
 truck
 ignore
 sausage
 dry |  
-| bip_39_word_new_line7 | divorce
+| bip_39_word_new_line_7 | divorce
 left
 truck
 ignore
 sausage
 dry
 fan |  
-| bip_39_word_new_line8 | divorce
+| bip_39_word_new_line_8 | divorce
 left
 truck
 ignore
@@ -113,7 +113,7 @@ sausage
 dry
 fan
 hobby |  
-| bip_39_word_new_line9 | divorce
+| bip_39_word_new_line_9 | divorce
 left
 truck
 ignore

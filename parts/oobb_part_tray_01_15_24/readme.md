@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | view |  
-| bip_39_word_new_br10 | view<br>fitness<br>swear<br>exclude<br>coconut<br>junior<br>infant<br>glue<br>else<br>paper |  
-| bip_39_word_new_br11 | view<br>fitness<br>swear<br>exclude<br>coconut<br>junior<br>infant<br>glue<br>else<br>paper<br>north |  
-| bip_39_word_new_br12 | view<br>fitness<br>swear<br>exclude<br>coconut<br>junior<br>infant<br>glue<br>else<br>paper<br>north<br>amazing |  
-| bip_39_word_new_br2 | view<br>fitness |  
-| bip_39_word_new_br3 | view<br>fitness<br>swear |  
-| bip_39_word_new_br4 | view<br>fitness<br>swear<br>exclude |  
-| bip_39_word_new_br5 | view<br>fitness<br>swear<br>exclude<br>coconut |  
-| bip_39_word_new_br6 | view<br>fitness<br>swear<br>exclude<br>coconut<br>junior |  
-| bip_39_word_new_br7 | view<br>fitness<br>swear<br>exclude<br>coconut<br>junior<br>infant |  
-| bip_39_word_new_br8 | view<br>fitness<br>swear<br>exclude<br>coconut<br>junior<br>infant<br>glue |  
-| bip_39_word_new_br9 | view<br>fitness<br>swear<br>exclude<br>coconut<br>junior<br>infant<br>glue<br>else |  
-| bip_39_word_new_line1 | view |  
-| bip_39_word_new_line10 | view
+| bip_39_word_new_br_1 | view |  
+| bip_39_word_new_br_10 | view<br>fitness<br>swear<br>exclude<br>coconut<br>junior<br>infant<br>glue<br>else<br>paper |  
+| bip_39_word_new_br_11 | view<br>fitness<br>swear<br>exclude<br>coconut<br>junior<br>infant<br>glue<br>else<br>paper<br>north |  
+| bip_39_word_new_br_12 | view<br>fitness<br>swear<br>exclude<br>coconut<br>junior<br>infant<br>glue<br>else<br>paper<br>north<br>amazing |  
+| bip_39_word_new_br_2 | view<br>fitness |  
+| bip_39_word_new_br_3 | view<br>fitness<br>swear |  
+| bip_39_word_new_br_4 | view<br>fitness<br>swear<br>exclude |  
+| bip_39_word_new_br_5 | view<br>fitness<br>swear<br>exclude<br>coconut |  
+| bip_39_word_new_br_6 | view<br>fitness<br>swear<br>exclude<br>coconut<br>junior |  
+| bip_39_word_new_br_7 | view<br>fitness<br>swear<br>exclude<br>coconut<br>junior<br>infant |  
+| bip_39_word_new_br_8 | view<br>fitness<br>swear<br>exclude<br>coconut<br>junior<br>infant<br>glue |  
+| bip_39_word_new_br_9 | view<br>fitness<br>swear<br>exclude<br>coconut<br>junior<br>infant<br>glue<br>else |  
+| bip_39_word_new_line_1 | view |  
+| bip_39_word_new_line_10 | view
 fitness
 swear
 exclude
@@ -55,7 +55,7 @@ infant
 glue
 else
 paper |  
-| bip_39_word_new_line11 | view
+| bip_39_word_new_line_11 | view
 fitness
 swear
 exclude
@@ -66,7 +66,7 @@ glue
 else
 paper
 north |  
-| bip_39_word_new_line12 | view
+| bip_39_word_new_line_12 | view
 fitness
 swear
 exclude
@@ -78,34 +78,34 @@ else
 paper
 north
 amazing |  
-| bip_39_word_new_line2 | view
+| bip_39_word_new_line_2 | view
 fitness |  
-| bip_39_word_new_line3 | view
+| bip_39_word_new_line_3 | view
 fitness
 swear |  
-| bip_39_word_new_line4 | view
+| bip_39_word_new_line_4 | view
 fitness
 swear
 exclude |  
-| bip_39_word_new_line5 | view
+| bip_39_word_new_line_5 | view
 fitness
 swear
 exclude
 coconut |  
-| bip_39_word_new_line6 | view
+| bip_39_word_new_line_6 | view
 fitness
 swear
 exclude
 coconut
 junior |  
-| bip_39_word_new_line7 | view
+| bip_39_word_new_line_7 | view
 fitness
 swear
 exclude
 coconut
 junior
 infant |  
-| bip_39_word_new_line8 | view
+| bip_39_word_new_line_8 | view
 fitness
 swear
 exclude
@@ -113,7 +113,7 @@ coconut
 junior
 infant
 glue |  
-| bip_39_word_new_line9 | view
+| bip_39_word_new_line_9 | view
 fitness
 swear
 exclude

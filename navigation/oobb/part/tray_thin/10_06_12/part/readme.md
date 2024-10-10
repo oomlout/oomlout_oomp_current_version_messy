@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | vanish |  
-| bip_39_word_new_br10 | vanish<br>congress<br>moment<br>round<br>south<br>april<br>inquiry<br>cage<br>animal<br>above |  
-| bip_39_word_new_br11 | vanish<br>congress<br>moment<br>round<br>south<br>april<br>inquiry<br>cage<br>animal<br>above<br>scrub |  
-| bip_39_word_new_br12 | vanish<br>congress<br>moment<br>round<br>south<br>april<br>inquiry<br>cage<br>animal<br>above<br>scrub<br>again |  
-| bip_39_word_new_br2 | vanish<br>congress |  
-| bip_39_word_new_br3 | vanish<br>congress<br>moment |  
-| bip_39_word_new_br4 | vanish<br>congress<br>moment<br>round |  
-| bip_39_word_new_br5 | vanish<br>congress<br>moment<br>round<br>south |  
-| bip_39_word_new_br6 | vanish<br>congress<br>moment<br>round<br>south<br>april |  
-| bip_39_word_new_br7 | vanish<br>congress<br>moment<br>round<br>south<br>april<br>inquiry |  
-| bip_39_word_new_br8 | vanish<br>congress<br>moment<br>round<br>south<br>april<br>inquiry<br>cage |  
-| bip_39_word_new_br9 | vanish<br>congress<br>moment<br>round<br>south<br>april<br>inquiry<br>cage<br>animal |  
-| bip_39_word_new_line1 | vanish |  
-| bip_39_word_new_line10 | vanish
+| bip_39_word_new_br_1 | vanish |  
+| bip_39_word_new_br_10 | vanish<br>congress<br>moment<br>round<br>south<br>april<br>inquiry<br>cage<br>animal<br>above |  
+| bip_39_word_new_br_11 | vanish<br>congress<br>moment<br>round<br>south<br>april<br>inquiry<br>cage<br>animal<br>above<br>scrub |  
+| bip_39_word_new_br_12 | vanish<br>congress<br>moment<br>round<br>south<br>april<br>inquiry<br>cage<br>animal<br>above<br>scrub<br>again |  
+| bip_39_word_new_br_2 | vanish<br>congress |  
+| bip_39_word_new_br_3 | vanish<br>congress<br>moment |  
+| bip_39_word_new_br_4 | vanish<br>congress<br>moment<br>round |  
+| bip_39_word_new_br_5 | vanish<br>congress<br>moment<br>round<br>south |  
+| bip_39_word_new_br_6 | vanish<br>congress<br>moment<br>round<br>south<br>april |  
+| bip_39_word_new_br_7 | vanish<br>congress<br>moment<br>round<br>south<br>april<br>inquiry |  
+| bip_39_word_new_br_8 | vanish<br>congress<br>moment<br>round<br>south<br>april<br>inquiry<br>cage |  
+| bip_39_word_new_br_9 | vanish<br>congress<br>moment<br>round<br>south<br>april<br>inquiry<br>cage<br>animal |  
+| bip_39_word_new_line_1 | vanish |  
+| bip_39_word_new_line_10 | vanish
 congress
 moment
 round
@@ -55,7 +55,7 @@ inquiry
 cage
 animal
 above |  
-| bip_39_word_new_line11 | vanish
+| bip_39_word_new_line_11 | vanish
 congress
 moment
 round
@@ -66,7 +66,7 @@ cage
 animal
 above
 scrub |  
-| bip_39_word_new_line12 | vanish
+| bip_39_word_new_line_12 | vanish
 congress
 moment
 round
@@ -78,34 +78,34 @@ animal
 above
 scrub
 again |  
-| bip_39_word_new_line2 | vanish
+| bip_39_word_new_line_2 | vanish
 congress |  
-| bip_39_word_new_line3 | vanish
+| bip_39_word_new_line_3 | vanish
 congress
 moment |  
-| bip_39_word_new_line4 | vanish
+| bip_39_word_new_line_4 | vanish
 congress
 moment
 round |  
-| bip_39_word_new_line5 | vanish
+| bip_39_word_new_line_5 | vanish
 congress
 moment
 round
 south |  
-| bip_39_word_new_line6 | vanish
+| bip_39_word_new_line_6 | vanish
 congress
 moment
 round
 south
 april |  
-| bip_39_word_new_line7 | vanish
+| bip_39_word_new_line_7 | vanish
 congress
 moment
 round
 south
 april
 inquiry |  
-| bip_39_word_new_line8 | vanish
+| bip_39_word_new_line_8 | vanish
 congress
 moment
 round
@@ -113,7 +113,7 @@ south
 april
 inquiry
 cage |  
-| bip_39_word_new_line9 | vanish
+| bip_39_word_new_line_9 | vanish
 congress
 moment
 round

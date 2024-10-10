@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | possible |  
-| bip_39_word_new_br10 | possible<br>subject<br>zone<br>seat<br>resist<br>universe<br>bird<br>amazing<br>proud<br>grocery |  
-| bip_39_word_new_br11 | possible<br>subject<br>zone<br>seat<br>resist<br>universe<br>bird<br>amazing<br>proud<br>grocery<br>panda |  
-| bip_39_word_new_br12 | possible<br>subject<br>zone<br>seat<br>resist<br>universe<br>bird<br>amazing<br>proud<br>grocery<br>panda<br>achieve |  
-| bip_39_word_new_br2 | possible<br>subject |  
-| bip_39_word_new_br3 | possible<br>subject<br>zone |  
-| bip_39_word_new_br4 | possible<br>subject<br>zone<br>seat |  
-| bip_39_word_new_br5 | possible<br>subject<br>zone<br>seat<br>resist |  
-| bip_39_word_new_br6 | possible<br>subject<br>zone<br>seat<br>resist<br>universe |  
-| bip_39_word_new_br7 | possible<br>subject<br>zone<br>seat<br>resist<br>universe<br>bird |  
-| bip_39_word_new_br8 | possible<br>subject<br>zone<br>seat<br>resist<br>universe<br>bird<br>amazing |  
-| bip_39_word_new_br9 | possible<br>subject<br>zone<br>seat<br>resist<br>universe<br>bird<br>amazing<br>proud |  
-| bip_39_word_new_line1 | possible |  
-| bip_39_word_new_line10 | possible
+| bip_39_word_new_br_1 | possible |  
+| bip_39_word_new_br_10 | possible<br>subject<br>zone<br>seat<br>resist<br>universe<br>bird<br>amazing<br>proud<br>grocery |  
+| bip_39_word_new_br_11 | possible<br>subject<br>zone<br>seat<br>resist<br>universe<br>bird<br>amazing<br>proud<br>grocery<br>panda |  
+| bip_39_word_new_br_12 | possible<br>subject<br>zone<br>seat<br>resist<br>universe<br>bird<br>amazing<br>proud<br>grocery<br>panda<br>achieve |  
+| bip_39_word_new_br_2 | possible<br>subject |  
+| bip_39_word_new_br_3 | possible<br>subject<br>zone |  
+| bip_39_word_new_br_4 | possible<br>subject<br>zone<br>seat |  
+| bip_39_word_new_br_5 | possible<br>subject<br>zone<br>seat<br>resist |  
+| bip_39_word_new_br_6 | possible<br>subject<br>zone<br>seat<br>resist<br>universe |  
+| bip_39_word_new_br_7 | possible<br>subject<br>zone<br>seat<br>resist<br>universe<br>bird |  
+| bip_39_word_new_br_8 | possible<br>subject<br>zone<br>seat<br>resist<br>universe<br>bird<br>amazing |  
+| bip_39_word_new_br_9 | possible<br>subject<br>zone<br>seat<br>resist<br>universe<br>bird<br>amazing<br>proud |  
+| bip_39_word_new_line_1 | possible |  
+| bip_39_word_new_line_10 | possible
 subject
 zone
 seat
@@ -55,7 +55,7 @@ bird
 amazing
 proud
 grocery |  
-| bip_39_word_new_line11 | possible
+| bip_39_word_new_line_11 | possible
 subject
 zone
 seat
@@ -66,7 +66,7 @@ amazing
 proud
 grocery
 panda |  
-| bip_39_word_new_line12 | possible
+| bip_39_word_new_line_12 | possible
 subject
 zone
 seat
@@ -78,34 +78,34 @@ proud
 grocery
 panda
 achieve |  
-| bip_39_word_new_line2 | possible
+| bip_39_word_new_line_2 | possible
 subject |  
-| bip_39_word_new_line3 | possible
+| bip_39_word_new_line_3 | possible
 subject
 zone |  
-| bip_39_word_new_line4 | possible
+| bip_39_word_new_line_4 | possible
 subject
 zone
 seat |  
-| bip_39_word_new_line5 | possible
+| bip_39_word_new_line_5 | possible
 subject
 zone
 seat
 resist |  
-| bip_39_word_new_line6 | possible
+| bip_39_word_new_line_6 | possible
 subject
 zone
 seat
 resist
 universe |  
-| bip_39_word_new_line7 | possible
+| bip_39_word_new_line_7 | possible
 subject
 zone
 seat
 resist
 universe
 bird |  
-| bip_39_word_new_line8 | possible
+| bip_39_word_new_line_8 | possible
 subject
 zone
 seat
@@ -113,7 +113,7 @@ resist
 universe
 bird
 amazing |  
-| bip_39_word_new_line9 | possible
+| bip_39_word_new_line_9 | possible
 subject
 zone
 seat

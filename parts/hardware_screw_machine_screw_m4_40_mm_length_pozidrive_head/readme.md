@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | slender |  
-| bip_39_word_new_br10 | slender<br>smart<br>reflect<br>lizard<br>bless<br>effort<br>fall<br>addict<br>mean<br>flee |  
-| bip_39_word_new_br11 | slender<br>smart<br>reflect<br>lizard<br>bless<br>effort<br>fall<br>addict<br>mean<br>flee<br>runway |  
-| bip_39_word_new_br2 | slender<br>smart |  
-| bip_39_word_new_br3 | slender<br>smart<br>reflect |  
-| bip_39_word_new_br4 | slender<br>smart<br>reflect<br>lizard |  
-| bip_39_word_new_br5 | slender<br>smart<br>reflect<br>lizard<br>bless |  
-| bip_39_word_new_br6 | slender<br>smart<br>reflect<br>lizard<br>bless<br>effort |  
-| bip_39_word_new_br7 | slender<br>smart<br>reflect<br>lizard<br>bless<br>effort<br>fall |  
-| bip_39_word_new_br8 | slender<br>smart<br>reflect<br>lizard<br>bless<br>effort<br>fall<br>addict |  
-| bip_39_word_new_br9 | slender<br>smart<br>reflect<br>lizard<br>bless<br>effort<br>fall<br>addict<br>mean |  
-| bip_39_word_new_line1 | slender |  
-| bip_39_word_new_line10 | slender
+| bip_39_word_new_br_1 | slender |  
+| bip_39_word_new_br_10 | slender<br>smart<br>reflect<br>lizard<br>bless<br>effort<br>fall<br>addict<br>mean<br>flee |  
+| bip_39_word_new_br_11 | slender<br>smart<br>reflect<br>lizard<br>bless<br>effort<br>fall<br>addict<br>mean<br>flee<br>runway |  
+| bip_39_word_new_br_2 | slender<br>smart |  
+| bip_39_word_new_br_3 | slender<br>smart<br>reflect |  
+| bip_39_word_new_br_4 | slender<br>smart<br>reflect<br>lizard |  
+| bip_39_word_new_br_5 | slender<br>smart<br>reflect<br>lizard<br>bless |  
+| bip_39_word_new_br_6 | slender<br>smart<br>reflect<br>lizard<br>bless<br>effort |  
+| bip_39_word_new_br_7 | slender<br>smart<br>reflect<br>lizard<br>bless<br>effort<br>fall |  
+| bip_39_word_new_br_8 | slender<br>smart<br>reflect<br>lizard<br>bless<br>effort<br>fall<br>addict |  
+| bip_39_word_new_br_9 | slender<br>smart<br>reflect<br>lizard<br>bless<br>effort<br>fall<br>addict<br>mean |  
+| bip_39_word_new_line_1 | slender |  
+| bip_39_word_new_line_10 | slender
 smart
 reflect
 lizard
@@ -54,7 +54,7 @@ fall
 addict
 mean
 flee |  
-| bip_39_word_new_line11 | slender
+| bip_39_word_new_line_11 | slender
 smart
 reflect
 lizard
@@ -65,34 +65,34 @@ addict
 mean
 flee
 runway |  
-| bip_39_word_new_line2 | slender
+| bip_39_word_new_line_2 | slender
 smart |  
-| bip_39_word_new_line3 | slender
+| bip_39_word_new_line_3 | slender
 smart
 reflect |  
-| bip_39_word_new_line4 | slender
+| bip_39_word_new_line_4 | slender
 smart
 reflect
 lizard |  
-| bip_39_word_new_line5 | slender
+| bip_39_word_new_line_5 | slender
 smart
 reflect
 lizard
 bless |  
-| bip_39_word_new_line6 | slender
+| bip_39_word_new_line_6 | slender
 smart
 reflect
 lizard
 bless
 effort |  
-| bip_39_word_new_line7 | slender
+| bip_39_word_new_line_7 | slender
 smart
 reflect
 lizard
 bless
 effort
 fall |  
-| bip_39_word_new_line8 | slender
+| bip_39_word_new_line_8 | slender
 smart
 reflect
 lizard
@@ -100,7 +100,7 @@ bless
 effort
 fall
 addict |  
-| bip_39_word_new_line9 | slender
+| bip_39_word_new_line_9 | slender
 smart
 reflect
 lizard

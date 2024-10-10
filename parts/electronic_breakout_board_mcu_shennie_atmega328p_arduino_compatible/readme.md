@@ -32,20 +32,20 @@ A popular arduino compatible atmega328 board from aliexpress
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dream |  
-| bip_39_word_new_br10 | dream<br>craft<br>coyote<br>taste<br>clinic<br>theory<br>history<br>upon<br>stem<br>nature |  
-| bip_39_word_new_br11 | dream<br>craft<br>coyote<br>taste<br>clinic<br>theory<br>history<br>upon<br>stem<br>nature<br>damp |  
-| bip_39_word_new_br12 | dream<br>craft<br>coyote<br>taste<br>clinic<br>theory<br>history<br>upon<br>stem<br>nature<br>damp<br>attract |  
-| bip_39_word_new_br2 | dream<br>craft |  
-| bip_39_word_new_br3 | dream<br>craft<br>coyote |  
-| bip_39_word_new_br4 | dream<br>craft<br>coyote<br>taste |  
-| bip_39_word_new_br5 | dream<br>craft<br>coyote<br>taste<br>clinic |  
-| bip_39_word_new_br6 | dream<br>craft<br>coyote<br>taste<br>clinic<br>theory |  
-| bip_39_word_new_br7 | dream<br>craft<br>coyote<br>taste<br>clinic<br>theory<br>history |  
-| bip_39_word_new_br8 | dream<br>craft<br>coyote<br>taste<br>clinic<br>theory<br>history<br>upon |  
-| bip_39_word_new_br9 | dream<br>craft<br>coyote<br>taste<br>clinic<br>theory<br>history<br>upon<br>stem |  
-| bip_39_word_new_line1 | dream |  
-| bip_39_word_new_line10 | dream
+| bip_39_word_new_br_1 | dream |  
+| bip_39_word_new_br_10 | dream<br>craft<br>coyote<br>taste<br>clinic<br>theory<br>history<br>upon<br>stem<br>nature |  
+| bip_39_word_new_br_11 | dream<br>craft<br>coyote<br>taste<br>clinic<br>theory<br>history<br>upon<br>stem<br>nature<br>damp |  
+| bip_39_word_new_br_12 | dream<br>craft<br>coyote<br>taste<br>clinic<br>theory<br>history<br>upon<br>stem<br>nature<br>damp<br>attract |  
+| bip_39_word_new_br_2 | dream<br>craft |  
+| bip_39_word_new_br_3 | dream<br>craft<br>coyote |  
+| bip_39_word_new_br_4 | dream<br>craft<br>coyote<br>taste |  
+| bip_39_word_new_br_5 | dream<br>craft<br>coyote<br>taste<br>clinic |  
+| bip_39_word_new_br_6 | dream<br>craft<br>coyote<br>taste<br>clinic<br>theory |  
+| bip_39_word_new_br_7 | dream<br>craft<br>coyote<br>taste<br>clinic<br>theory<br>history |  
+| bip_39_word_new_br_8 | dream<br>craft<br>coyote<br>taste<br>clinic<br>theory<br>history<br>upon |  
+| bip_39_word_new_br_9 | dream<br>craft<br>coyote<br>taste<br>clinic<br>theory<br>history<br>upon<br>stem |  
+| bip_39_word_new_line_1 | dream |  
+| bip_39_word_new_line_10 | dream
 craft
 coyote
 taste
@@ -55,7 +55,7 @@ history
 upon
 stem
 nature |  
-| bip_39_word_new_line11 | dream
+| bip_39_word_new_line_11 | dream
 craft
 coyote
 taste
@@ -66,7 +66,7 @@ upon
 stem
 nature
 damp |  
-| bip_39_word_new_line12 | dream
+| bip_39_word_new_line_12 | dream
 craft
 coyote
 taste
@@ -78,34 +78,34 @@ stem
 nature
 damp
 attract |  
-| bip_39_word_new_line2 | dream
+| bip_39_word_new_line_2 | dream
 craft |  
-| bip_39_word_new_line3 | dream
+| bip_39_word_new_line_3 | dream
 craft
 coyote |  
-| bip_39_word_new_line4 | dream
+| bip_39_word_new_line_4 | dream
 craft
 coyote
 taste |  
-| bip_39_word_new_line5 | dream
+| bip_39_word_new_line_5 | dream
 craft
 coyote
 taste
 clinic |  
-| bip_39_word_new_line6 | dream
+| bip_39_word_new_line_6 | dream
 craft
 coyote
 taste
 clinic
 theory |  
-| bip_39_word_new_line7 | dream
+| bip_39_word_new_line_7 | dream
 craft
 coyote
 taste
 clinic
 theory
 history |  
-| bip_39_word_new_line8 | dream
+| bip_39_word_new_line_8 | dream
 craft
 coyote
 taste
@@ -113,7 +113,7 @@ clinic
 theory
 history
 upon |  
-| bip_39_word_new_line9 | dream
+| bip_39_word_new_line_9 | dream
 craft
 coyote
 taste

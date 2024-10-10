@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | soon |  
-| bip_39_word_new_br10 | soon<br>travel<br>boost<br>afford<br>artist<br>ski<br>peace<br>jacket<br>slab<br>lend |  
-| bip_39_word_new_br11 | soon<br>travel<br>boost<br>afford<br>artist<br>ski<br>peace<br>jacket<br>slab<br>lend<br>ivory |  
-| bip_39_word_new_br12 | soon<br>travel<br>boost<br>afford<br>artist<br>ski<br>peace<br>jacket<br>slab<br>lend<br>ivory<br>assist |  
-| bip_39_word_new_br2 | soon<br>travel |  
-| bip_39_word_new_br3 | soon<br>travel<br>boost |  
-| bip_39_word_new_br4 | soon<br>travel<br>boost<br>afford |  
-| bip_39_word_new_br5 | soon<br>travel<br>boost<br>afford<br>artist |  
-| bip_39_word_new_br6 | soon<br>travel<br>boost<br>afford<br>artist<br>ski |  
-| bip_39_word_new_br7 | soon<br>travel<br>boost<br>afford<br>artist<br>ski<br>peace |  
-| bip_39_word_new_br8 | soon<br>travel<br>boost<br>afford<br>artist<br>ski<br>peace<br>jacket |  
-| bip_39_word_new_br9 | soon<br>travel<br>boost<br>afford<br>artist<br>ski<br>peace<br>jacket<br>slab |  
-| bip_39_word_new_line1 | soon |  
-| bip_39_word_new_line10 | soon
+| bip_39_word_new_br_1 | soon |  
+| bip_39_word_new_br_10 | soon<br>travel<br>boost<br>afford<br>artist<br>ski<br>peace<br>jacket<br>slab<br>lend |  
+| bip_39_word_new_br_11 | soon<br>travel<br>boost<br>afford<br>artist<br>ski<br>peace<br>jacket<br>slab<br>lend<br>ivory |  
+| bip_39_word_new_br_12 | soon<br>travel<br>boost<br>afford<br>artist<br>ski<br>peace<br>jacket<br>slab<br>lend<br>ivory<br>assist |  
+| bip_39_word_new_br_2 | soon<br>travel |  
+| bip_39_word_new_br_3 | soon<br>travel<br>boost |  
+| bip_39_word_new_br_4 | soon<br>travel<br>boost<br>afford |  
+| bip_39_word_new_br_5 | soon<br>travel<br>boost<br>afford<br>artist |  
+| bip_39_word_new_br_6 | soon<br>travel<br>boost<br>afford<br>artist<br>ski |  
+| bip_39_word_new_br_7 | soon<br>travel<br>boost<br>afford<br>artist<br>ski<br>peace |  
+| bip_39_word_new_br_8 | soon<br>travel<br>boost<br>afford<br>artist<br>ski<br>peace<br>jacket |  
+| bip_39_word_new_br_9 | soon<br>travel<br>boost<br>afford<br>artist<br>ski<br>peace<br>jacket<br>slab |  
+| bip_39_word_new_line_1 | soon |  
+| bip_39_word_new_line_10 | soon
 travel
 boost
 afford
@@ -55,7 +55,7 @@ peace
 jacket
 slab
 lend |  
-| bip_39_word_new_line11 | soon
+| bip_39_word_new_line_11 | soon
 travel
 boost
 afford
@@ -66,7 +66,7 @@ jacket
 slab
 lend
 ivory |  
-| bip_39_word_new_line12 | soon
+| bip_39_word_new_line_12 | soon
 travel
 boost
 afford
@@ -78,34 +78,34 @@ slab
 lend
 ivory
 assist |  
-| bip_39_word_new_line2 | soon
+| bip_39_word_new_line_2 | soon
 travel |  
-| bip_39_word_new_line3 | soon
+| bip_39_word_new_line_3 | soon
 travel
 boost |  
-| bip_39_word_new_line4 | soon
+| bip_39_word_new_line_4 | soon
 travel
 boost
 afford |  
-| bip_39_word_new_line5 | soon
+| bip_39_word_new_line_5 | soon
 travel
 boost
 afford
 artist |  
-| bip_39_word_new_line6 | soon
+| bip_39_word_new_line_6 | soon
 travel
 boost
 afford
 artist
 ski |  
-| bip_39_word_new_line7 | soon
+| bip_39_word_new_line_7 | soon
 travel
 boost
 afford
 artist
 ski
 peace |  
-| bip_39_word_new_line8 | soon
+| bip_39_word_new_line_8 | soon
 travel
 boost
 afford
@@ -113,7 +113,7 @@ artist
 ski
 peace
 jacket |  
-| bip_39_word_new_line9 | soon
+| bip_39_word_new_line_9 | soon
 travel
 boost
 afford

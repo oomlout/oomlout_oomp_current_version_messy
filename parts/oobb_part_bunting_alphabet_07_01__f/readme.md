@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | erosion |  
-| bip_39_word_new_br10 | erosion<br>naive<br>crush<br>health<br>since<br>earth<br>interest<br>list<br>later<br>reduce |  
-| bip_39_word_new_br11 | erosion<br>naive<br>crush<br>health<br>since<br>earth<br>interest<br>list<br>later<br>reduce<br>voyage |  
-| bip_39_word_new_br12 | erosion<br>naive<br>crush<br>health<br>since<br>earth<br>interest<br>list<br>later<br>reduce<br>voyage<br>alpha |  
-| bip_39_word_new_br2 | erosion<br>naive |  
-| bip_39_word_new_br3 | erosion<br>naive<br>crush |  
-| bip_39_word_new_br4 | erosion<br>naive<br>crush<br>health |  
-| bip_39_word_new_br5 | erosion<br>naive<br>crush<br>health<br>since |  
-| bip_39_word_new_br6 | erosion<br>naive<br>crush<br>health<br>since<br>earth |  
-| bip_39_word_new_br7 | erosion<br>naive<br>crush<br>health<br>since<br>earth<br>interest |  
-| bip_39_word_new_br8 | erosion<br>naive<br>crush<br>health<br>since<br>earth<br>interest<br>list |  
-| bip_39_word_new_br9 | erosion<br>naive<br>crush<br>health<br>since<br>earth<br>interest<br>list<br>later |  
-| bip_39_word_new_line1 | erosion |  
-| bip_39_word_new_line10 | erosion
+| bip_39_word_new_br_1 | erosion |  
+| bip_39_word_new_br_10 | erosion<br>naive<br>crush<br>health<br>since<br>earth<br>interest<br>list<br>later<br>reduce |  
+| bip_39_word_new_br_11 | erosion<br>naive<br>crush<br>health<br>since<br>earth<br>interest<br>list<br>later<br>reduce<br>voyage |  
+| bip_39_word_new_br_12 | erosion<br>naive<br>crush<br>health<br>since<br>earth<br>interest<br>list<br>later<br>reduce<br>voyage<br>alpha |  
+| bip_39_word_new_br_2 | erosion<br>naive |  
+| bip_39_word_new_br_3 | erosion<br>naive<br>crush |  
+| bip_39_word_new_br_4 | erosion<br>naive<br>crush<br>health |  
+| bip_39_word_new_br_5 | erosion<br>naive<br>crush<br>health<br>since |  
+| bip_39_word_new_br_6 | erosion<br>naive<br>crush<br>health<br>since<br>earth |  
+| bip_39_word_new_br_7 | erosion<br>naive<br>crush<br>health<br>since<br>earth<br>interest |  
+| bip_39_word_new_br_8 | erosion<br>naive<br>crush<br>health<br>since<br>earth<br>interest<br>list |  
+| bip_39_word_new_br_9 | erosion<br>naive<br>crush<br>health<br>since<br>earth<br>interest<br>list<br>later |  
+| bip_39_word_new_line_1 | erosion |  
+| bip_39_word_new_line_10 | erosion
 naive
 crush
 health
@@ -55,7 +55,7 @@ interest
 list
 later
 reduce |  
-| bip_39_word_new_line11 | erosion
+| bip_39_word_new_line_11 | erosion
 naive
 crush
 health
@@ -66,7 +66,7 @@ list
 later
 reduce
 voyage |  
-| bip_39_word_new_line12 | erosion
+| bip_39_word_new_line_12 | erosion
 naive
 crush
 health
@@ -78,34 +78,34 @@ later
 reduce
 voyage
 alpha |  
-| bip_39_word_new_line2 | erosion
+| bip_39_word_new_line_2 | erosion
 naive |  
-| bip_39_word_new_line3 | erosion
+| bip_39_word_new_line_3 | erosion
 naive
 crush |  
-| bip_39_word_new_line4 | erosion
+| bip_39_word_new_line_4 | erosion
 naive
 crush
 health |  
-| bip_39_word_new_line5 | erosion
+| bip_39_word_new_line_5 | erosion
 naive
 crush
 health
 since |  
-| bip_39_word_new_line6 | erosion
+| bip_39_word_new_line_6 | erosion
 naive
 crush
 health
 since
 earth |  
-| bip_39_word_new_line7 | erosion
+| bip_39_word_new_line_7 | erosion
 naive
 crush
 health
 since
 earth
 interest |  
-| bip_39_word_new_line8 | erosion
+| bip_39_word_new_line_8 | erosion
 naive
 crush
 health
@@ -113,7 +113,7 @@ since
 earth
 interest
 list |  
-| bip_39_word_new_line9 | erosion
+| bip_39_word_new_line_9 | erosion
 naive
 crush
 health

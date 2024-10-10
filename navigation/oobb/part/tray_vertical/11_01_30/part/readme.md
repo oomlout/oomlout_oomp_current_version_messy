@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | draw |  
-| bip_39_word_new_br10 | draw<br>endorse<br>chapter<br>van<br>giraffe<br>rebel<br>space<br>ecology<br>neglect<br>captain |  
-| bip_39_word_new_br11 | draw<br>endorse<br>chapter<br>van<br>giraffe<br>rebel<br>space<br>ecology<br>neglect<br>captain<br>world |  
-| bip_39_word_new_br12 | draw<br>endorse<br>chapter<br>van<br>giraffe<br>rebel<br>space<br>ecology<br>neglect<br>captain<br>world<br>avocado |  
-| bip_39_word_new_br2 | draw<br>endorse |  
-| bip_39_word_new_br3 | draw<br>endorse<br>chapter |  
-| bip_39_word_new_br4 | draw<br>endorse<br>chapter<br>van |  
-| bip_39_word_new_br5 | draw<br>endorse<br>chapter<br>van<br>giraffe |  
-| bip_39_word_new_br6 | draw<br>endorse<br>chapter<br>van<br>giraffe<br>rebel |  
-| bip_39_word_new_br7 | draw<br>endorse<br>chapter<br>van<br>giraffe<br>rebel<br>space |  
-| bip_39_word_new_br8 | draw<br>endorse<br>chapter<br>van<br>giraffe<br>rebel<br>space<br>ecology |  
-| bip_39_word_new_br9 | draw<br>endorse<br>chapter<br>van<br>giraffe<br>rebel<br>space<br>ecology<br>neglect |  
-| bip_39_word_new_line1 | draw |  
-| bip_39_word_new_line10 | draw
+| bip_39_word_new_br_1 | draw |  
+| bip_39_word_new_br_10 | draw<br>endorse<br>chapter<br>van<br>giraffe<br>rebel<br>space<br>ecology<br>neglect<br>captain |  
+| bip_39_word_new_br_11 | draw<br>endorse<br>chapter<br>van<br>giraffe<br>rebel<br>space<br>ecology<br>neglect<br>captain<br>world |  
+| bip_39_word_new_br_12 | draw<br>endorse<br>chapter<br>van<br>giraffe<br>rebel<br>space<br>ecology<br>neglect<br>captain<br>world<br>avocado |  
+| bip_39_word_new_br_2 | draw<br>endorse |  
+| bip_39_word_new_br_3 | draw<br>endorse<br>chapter |  
+| bip_39_word_new_br_4 | draw<br>endorse<br>chapter<br>van |  
+| bip_39_word_new_br_5 | draw<br>endorse<br>chapter<br>van<br>giraffe |  
+| bip_39_word_new_br_6 | draw<br>endorse<br>chapter<br>van<br>giraffe<br>rebel |  
+| bip_39_word_new_br_7 | draw<br>endorse<br>chapter<br>van<br>giraffe<br>rebel<br>space |  
+| bip_39_word_new_br_8 | draw<br>endorse<br>chapter<br>van<br>giraffe<br>rebel<br>space<br>ecology |  
+| bip_39_word_new_br_9 | draw<br>endorse<br>chapter<br>van<br>giraffe<br>rebel<br>space<br>ecology<br>neglect |  
+| bip_39_word_new_line_1 | draw |  
+| bip_39_word_new_line_10 | draw
 endorse
 chapter
 van
@@ -55,7 +55,7 @@ space
 ecology
 neglect
 captain |  
-| bip_39_word_new_line11 | draw
+| bip_39_word_new_line_11 | draw
 endorse
 chapter
 van
@@ -66,7 +66,7 @@ ecology
 neglect
 captain
 world |  
-| bip_39_word_new_line12 | draw
+| bip_39_word_new_line_12 | draw
 endorse
 chapter
 van
@@ -78,34 +78,34 @@ neglect
 captain
 world
 avocado |  
-| bip_39_word_new_line2 | draw
+| bip_39_word_new_line_2 | draw
 endorse |  
-| bip_39_word_new_line3 | draw
+| bip_39_word_new_line_3 | draw
 endorse
 chapter |  
-| bip_39_word_new_line4 | draw
+| bip_39_word_new_line_4 | draw
 endorse
 chapter
 van |  
-| bip_39_word_new_line5 | draw
+| bip_39_word_new_line_5 | draw
 endorse
 chapter
 van
 giraffe |  
-| bip_39_word_new_line6 | draw
+| bip_39_word_new_line_6 | draw
 endorse
 chapter
 van
 giraffe
 rebel |  
-| bip_39_word_new_line7 | draw
+| bip_39_word_new_line_7 | draw
 endorse
 chapter
 van
 giraffe
 rebel
 space |  
-| bip_39_word_new_line8 | draw
+| bip_39_word_new_line_8 | draw
 endorse
 chapter
 van
@@ -113,7 +113,7 @@ giraffe
 rebel
 space
 ecology |  
-| bip_39_word_new_line9 | draw
+| bip_39_word_new_line_9 | draw
 endorse
 chapter
 van

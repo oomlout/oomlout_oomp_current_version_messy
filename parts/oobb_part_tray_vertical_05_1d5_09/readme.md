@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | clown |  
-| bip_39_word_new_br10 | clown<br>secret<br>royal<br>face<br>repair<br>habit<br>spot<br>radar<br>hand<br>divide |  
-| bip_39_word_new_br11 | clown<br>secret<br>royal<br>face<br>repair<br>habit<br>spot<br>radar<br>hand<br>divide<br>poverty |  
-| bip_39_word_new_br12 | clown<br>secret<br>royal<br>face<br>repair<br>habit<br>spot<br>radar<br>hand<br>divide<br>poverty<br>amazing |  
-| bip_39_word_new_br2 | clown<br>secret |  
-| bip_39_word_new_br3 | clown<br>secret<br>royal |  
-| bip_39_word_new_br4 | clown<br>secret<br>royal<br>face |  
-| bip_39_word_new_br5 | clown<br>secret<br>royal<br>face<br>repair |  
-| bip_39_word_new_br6 | clown<br>secret<br>royal<br>face<br>repair<br>habit |  
-| bip_39_word_new_br7 | clown<br>secret<br>royal<br>face<br>repair<br>habit<br>spot |  
-| bip_39_word_new_br8 | clown<br>secret<br>royal<br>face<br>repair<br>habit<br>spot<br>radar |  
-| bip_39_word_new_br9 | clown<br>secret<br>royal<br>face<br>repair<br>habit<br>spot<br>radar<br>hand |  
-| bip_39_word_new_line1 | clown |  
-| bip_39_word_new_line10 | clown
+| bip_39_word_new_br_1 | clown |  
+| bip_39_word_new_br_10 | clown<br>secret<br>royal<br>face<br>repair<br>habit<br>spot<br>radar<br>hand<br>divide |  
+| bip_39_word_new_br_11 | clown<br>secret<br>royal<br>face<br>repair<br>habit<br>spot<br>radar<br>hand<br>divide<br>poverty |  
+| bip_39_word_new_br_12 | clown<br>secret<br>royal<br>face<br>repair<br>habit<br>spot<br>radar<br>hand<br>divide<br>poverty<br>amazing |  
+| bip_39_word_new_br_2 | clown<br>secret |  
+| bip_39_word_new_br_3 | clown<br>secret<br>royal |  
+| bip_39_word_new_br_4 | clown<br>secret<br>royal<br>face |  
+| bip_39_word_new_br_5 | clown<br>secret<br>royal<br>face<br>repair |  
+| bip_39_word_new_br_6 | clown<br>secret<br>royal<br>face<br>repair<br>habit |  
+| bip_39_word_new_br_7 | clown<br>secret<br>royal<br>face<br>repair<br>habit<br>spot |  
+| bip_39_word_new_br_8 | clown<br>secret<br>royal<br>face<br>repair<br>habit<br>spot<br>radar |  
+| bip_39_word_new_br_9 | clown<br>secret<br>royal<br>face<br>repair<br>habit<br>spot<br>radar<br>hand |  
+| bip_39_word_new_line_1 | clown |  
+| bip_39_word_new_line_10 | clown
 secret
 royal
 face
@@ -55,7 +55,7 @@ spot
 radar
 hand
 divide |  
-| bip_39_word_new_line11 | clown
+| bip_39_word_new_line_11 | clown
 secret
 royal
 face
@@ -66,7 +66,7 @@ radar
 hand
 divide
 poverty |  
-| bip_39_word_new_line12 | clown
+| bip_39_word_new_line_12 | clown
 secret
 royal
 face
@@ -78,34 +78,34 @@ hand
 divide
 poverty
 amazing |  
-| bip_39_word_new_line2 | clown
+| bip_39_word_new_line_2 | clown
 secret |  
-| bip_39_word_new_line3 | clown
+| bip_39_word_new_line_3 | clown
 secret
 royal |  
-| bip_39_word_new_line4 | clown
+| bip_39_word_new_line_4 | clown
 secret
 royal
 face |  
-| bip_39_word_new_line5 | clown
+| bip_39_word_new_line_5 | clown
 secret
 royal
 face
 repair |  
-| bip_39_word_new_line6 | clown
+| bip_39_word_new_line_6 | clown
 secret
 royal
 face
 repair
 habit |  
-| bip_39_word_new_line7 | clown
+| bip_39_word_new_line_7 | clown
 secret
 royal
 face
 repair
 habit
 spot |  
-| bip_39_word_new_line8 | clown
+| bip_39_word_new_line_8 | clown
 secret
 royal
 face
@@ -113,7 +113,7 @@ repair
 habit
 spot
 radar |  
-| bip_39_word_new_line9 | clown
+| bip_39_word_new_line_9 | clown
 secret
 royal
 face

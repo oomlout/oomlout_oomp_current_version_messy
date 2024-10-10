@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | repeat |  
-| bip_39_word_new_br10 | repeat<br>news<br>habit<br>awkward<br>digital<br>cook<br>clock<br>rifle<br>subject<br>duck |  
-| bip_39_word_new_br11 | repeat<br>news<br>habit<br>awkward<br>digital<br>cook<br>clock<br>rifle<br>subject<br>duck<br>kitchen |  
-| bip_39_word_new_br12 | repeat<br>news<br>habit<br>awkward<br>digital<br>cook<br>clock<br>rifle<br>subject<br>duck<br>kitchen<br>always |  
-| bip_39_word_new_br2 | repeat<br>news |  
-| bip_39_word_new_br3 | repeat<br>news<br>habit |  
-| bip_39_word_new_br4 | repeat<br>news<br>habit<br>awkward |  
-| bip_39_word_new_br5 | repeat<br>news<br>habit<br>awkward<br>digital |  
-| bip_39_word_new_br6 | repeat<br>news<br>habit<br>awkward<br>digital<br>cook |  
-| bip_39_word_new_br7 | repeat<br>news<br>habit<br>awkward<br>digital<br>cook<br>clock |  
-| bip_39_word_new_br8 | repeat<br>news<br>habit<br>awkward<br>digital<br>cook<br>clock<br>rifle |  
-| bip_39_word_new_br9 | repeat<br>news<br>habit<br>awkward<br>digital<br>cook<br>clock<br>rifle<br>subject |  
-| bip_39_word_new_line1 | repeat |  
-| bip_39_word_new_line10 | repeat
+| bip_39_word_new_br_1 | repeat |  
+| bip_39_word_new_br_10 | repeat<br>news<br>habit<br>awkward<br>digital<br>cook<br>clock<br>rifle<br>subject<br>duck |  
+| bip_39_word_new_br_11 | repeat<br>news<br>habit<br>awkward<br>digital<br>cook<br>clock<br>rifle<br>subject<br>duck<br>kitchen |  
+| bip_39_word_new_br_12 | repeat<br>news<br>habit<br>awkward<br>digital<br>cook<br>clock<br>rifle<br>subject<br>duck<br>kitchen<br>always |  
+| bip_39_word_new_br_2 | repeat<br>news |  
+| bip_39_word_new_br_3 | repeat<br>news<br>habit |  
+| bip_39_word_new_br_4 | repeat<br>news<br>habit<br>awkward |  
+| bip_39_word_new_br_5 | repeat<br>news<br>habit<br>awkward<br>digital |  
+| bip_39_word_new_br_6 | repeat<br>news<br>habit<br>awkward<br>digital<br>cook |  
+| bip_39_word_new_br_7 | repeat<br>news<br>habit<br>awkward<br>digital<br>cook<br>clock |  
+| bip_39_word_new_br_8 | repeat<br>news<br>habit<br>awkward<br>digital<br>cook<br>clock<br>rifle |  
+| bip_39_word_new_br_9 | repeat<br>news<br>habit<br>awkward<br>digital<br>cook<br>clock<br>rifle<br>subject |  
+| bip_39_word_new_line_1 | repeat |  
+| bip_39_word_new_line_10 | repeat
 news
 habit
 awkward
@@ -55,7 +55,7 @@ clock
 rifle
 subject
 duck |  
-| bip_39_word_new_line11 | repeat
+| bip_39_word_new_line_11 | repeat
 news
 habit
 awkward
@@ -66,7 +66,7 @@ rifle
 subject
 duck
 kitchen |  
-| bip_39_word_new_line12 | repeat
+| bip_39_word_new_line_12 | repeat
 news
 habit
 awkward
@@ -78,34 +78,34 @@ subject
 duck
 kitchen
 always |  
-| bip_39_word_new_line2 | repeat
+| bip_39_word_new_line_2 | repeat
 news |  
-| bip_39_word_new_line3 | repeat
+| bip_39_word_new_line_3 | repeat
 news
 habit |  
-| bip_39_word_new_line4 | repeat
+| bip_39_word_new_line_4 | repeat
 news
 habit
 awkward |  
-| bip_39_word_new_line5 | repeat
+| bip_39_word_new_line_5 | repeat
 news
 habit
 awkward
 digital |  
-| bip_39_word_new_line6 | repeat
+| bip_39_word_new_line_6 | repeat
 news
 habit
 awkward
 digital
 cook |  
-| bip_39_word_new_line7 | repeat
+| bip_39_word_new_line_7 | repeat
 news
 habit
 awkward
 digital
 cook
 clock |  
-| bip_39_word_new_line8 | repeat
+| bip_39_word_new_line_8 | repeat
 news
 habit
 awkward
@@ -113,7 +113,7 @@ digital
 cook
 clock
 rifle |  
-| bip_39_word_new_line9 | repeat
+| bip_39_word_new_line_9 | repeat
 news
 habit
 awkward

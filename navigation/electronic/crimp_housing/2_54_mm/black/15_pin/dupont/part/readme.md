@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wink |  
-| bip_39_word_new_br10 | wink<br>panic<br>chat<br>long<br>truly<br>gate<br>where<br>fault<br>rain<br>reject |  
-| bip_39_word_new_br11 | wink<br>panic<br>chat<br>long<br>truly<br>gate<br>where<br>fault<br>rain<br>reject<br>advice |  
-| bip_39_word_new_br12 | wink<br>panic<br>chat<br>long<br>truly<br>gate<br>where<br>fault<br>rain<br>reject<br>advice<br>assume |  
-| bip_39_word_new_br2 | wink<br>panic |  
-| bip_39_word_new_br3 | wink<br>panic<br>chat |  
-| bip_39_word_new_br4 | wink<br>panic<br>chat<br>long |  
-| bip_39_word_new_br5 | wink<br>panic<br>chat<br>long<br>truly |  
-| bip_39_word_new_br6 | wink<br>panic<br>chat<br>long<br>truly<br>gate |  
-| bip_39_word_new_br7 | wink<br>panic<br>chat<br>long<br>truly<br>gate<br>where |  
-| bip_39_word_new_br8 | wink<br>panic<br>chat<br>long<br>truly<br>gate<br>where<br>fault |  
-| bip_39_word_new_br9 | wink<br>panic<br>chat<br>long<br>truly<br>gate<br>where<br>fault<br>rain |  
-| bip_39_word_new_line1 | wink |  
-| bip_39_word_new_line10 | wink
+| bip_39_word_new_br_1 | wink |  
+| bip_39_word_new_br_10 | wink<br>panic<br>chat<br>long<br>truly<br>gate<br>where<br>fault<br>rain<br>reject |  
+| bip_39_word_new_br_11 | wink<br>panic<br>chat<br>long<br>truly<br>gate<br>where<br>fault<br>rain<br>reject<br>advice |  
+| bip_39_word_new_br_12 | wink<br>panic<br>chat<br>long<br>truly<br>gate<br>where<br>fault<br>rain<br>reject<br>advice<br>assume |  
+| bip_39_word_new_br_2 | wink<br>panic |  
+| bip_39_word_new_br_3 | wink<br>panic<br>chat |  
+| bip_39_word_new_br_4 | wink<br>panic<br>chat<br>long |  
+| bip_39_word_new_br_5 | wink<br>panic<br>chat<br>long<br>truly |  
+| bip_39_word_new_br_6 | wink<br>panic<br>chat<br>long<br>truly<br>gate |  
+| bip_39_word_new_br_7 | wink<br>panic<br>chat<br>long<br>truly<br>gate<br>where |  
+| bip_39_word_new_br_8 | wink<br>panic<br>chat<br>long<br>truly<br>gate<br>where<br>fault |  
+| bip_39_word_new_br_9 | wink<br>panic<br>chat<br>long<br>truly<br>gate<br>where<br>fault<br>rain |  
+| bip_39_word_new_line_1 | wink |  
+| bip_39_word_new_line_10 | wink
 panic
 chat
 long
@@ -55,7 +55,7 @@ where
 fault
 rain
 reject |  
-| bip_39_word_new_line11 | wink
+| bip_39_word_new_line_11 | wink
 panic
 chat
 long
@@ -66,7 +66,7 @@ fault
 rain
 reject
 advice |  
-| bip_39_word_new_line12 | wink
+| bip_39_word_new_line_12 | wink
 panic
 chat
 long
@@ -78,34 +78,34 @@ rain
 reject
 advice
 assume |  
-| bip_39_word_new_line2 | wink
+| bip_39_word_new_line_2 | wink
 panic |  
-| bip_39_word_new_line3 | wink
+| bip_39_word_new_line_3 | wink
 panic
 chat |  
-| bip_39_word_new_line4 | wink
+| bip_39_word_new_line_4 | wink
 panic
 chat
 long |  
-| bip_39_word_new_line5 | wink
+| bip_39_word_new_line_5 | wink
 panic
 chat
 long
 truly |  
-| bip_39_word_new_line6 | wink
+| bip_39_word_new_line_6 | wink
 panic
 chat
 long
 truly
 gate |  
-| bip_39_word_new_line7 | wink
+| bip_39_word_new_line_7 | wink
 panic
 chat
 long
 truly
 gate
 where |  
-| bip_39_word_new_line8 | wink
+| bip_39_word_new_line_8 | wink
 panic
 chat
 long
@@ -113,7 +113,7 @@ truly
 gate
 where
 fault |  
-| bip_39_word_new_line9 | wink
+| bip_39_word_new_line_9 | wink
 panic
 chat
 long

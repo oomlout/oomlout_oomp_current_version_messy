@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | crawl |  
-| bip_39_word_new_br10 | crawl<br>indoor<br>mutual<br>board<br>clever<br>common<br>mutual<br>phone<br>silly<br>until |  
-| bip_39_word_new_br11 | crawl<br>indoor<br>mutual<br>board<br>clever<br>common<br>mutual<br>phone<br>silly<br>until<br>behave |  
-| bip_39_word_new_br12 | crawl<br>indoor<br>mutual<br>board<br>clever<br>common<br>mutual<br>phone<br>silly<br>until<br>behave<br>airport |  
-| bip_39_word_new_br2 | crawl<br>indoor |  
-| bip_39_word_new_br3 | crawl<br>indoor<br>mutual |  
-| bip_39_word_new_br4 | crawl<br>indoor<br>mutual<br>board |  
-| bip_39_word_new_br5 | crawl<br>indoor<br>mutual<br>board<br>clever |  
-| bip_39_word_new_br6 | crawl<br>indoor<br>mutual<br>board<br>clever<br>common |  
-| bip_39_word_new_br7 | crawl<br>indoor<br>mutual<br>board<br>clever<br>common<br>mutual |  
-| bip_39_word_new_br8 | crawl<br>indoor<br>mutual<br>board<br>clever<br>common<br>mutual<br>phone |  
-| bip_39_word_new_br9 | crawl<br>indoor<br>mutual<br>board<br>clever<br>common<br>mutual<br>phone<br>silly |  
-| bip_39_word_new_line1 | crawl |  
-| bip_39_word_new_line10 | crawl
+| bip_39_word_new_br_1 | crawl |  
+| bip_39_word_new_br_10 | crawl<br>indoor<br>mutual<br>board<br>clever<br>common<br>mutual<br>phone<br>silly<br>until |  
+| bip_39_word_new_br_11 | crawl<br>indoor<br>mutual<br>board<br>clever<br>common<br>mutual<br>phone<br>silly<br>until<br>behave |  
+| bip_39_word_new_br_12 | crawl<br>indoor<br>mutual<br>board<br>clever<br>common<br>mutual<br>phone<br>silly<br>until<br>behave<br>airport |  
+| bip_39_word_new_br_2 | crawl<br>indoor |  
+| bip_39_word_new_br_3 | crawl<br>indoor<br>mutual |  
+| bip_39_word_new_br_4 | crawl<br>indoor<br>mutual<br>board |  
+| bip_39_word_new_br_5 | crawl<br>indoor<br>mutual<br>board<br>clever |  
+| bip_39_word_new_br_6 | crawl<br>indoor<br>mutual<br>board<br>clever<br>common |  
+| bip_39_word_new_br_7 | crawl<br>indoor<br>mutual<br>board<br>clever<br>common<br>mutual |  
+| bip_39_word_new_br_8 | crawl<br>indoor<br>mutual<br>board<br>clever<br>common<br>mutual<br>phone |  
+| bip_39_word_new_br_9 | crawl<br>indoor<br>mutual<br>board<br>clever<br>common<br>mutual<br>phone<br>silly |  
+| bip_39_word_new_line_1 | crawl |  
+| bip_39_word_new_line_10 | crawl
 indoor
 mutual
 board
@@ -55,7 +55,7 @@ mutual
 phone
 silly
 until |  
-| bip_39_word_new_line11 | crawl
+| bip_39_word_new_line_11 | crawl
 indoor
 mutual
 board
@@ -66,7 +66,7 @@ phone
 silly
 until
 behave |  
-| bip_39_word_new_line12 | crawl
+| bip_39_word_new_line_12 | crawl
 indoor
 mutual
 board
@@ -78,34 +78,34 @@ silly
 until
 behave
 airport |  
-| bip_39_word_new_line2 | crawl
+| bip_39_word_new_line_2 | crawl
 indoor |  
-| bip_39_word_new_line3 | crawl
+| bip_39_word_new_line_3 | crawl
 indoor
 mutual |  
-| bip_39_word_new_line4 | crawl
+| bip_39_word_new_line_4 | crawl
 indoor
 mutual
 board |  
-| bip_39_word_new_line5 | crawl
+| bip_39_word_new_line_5 | crawl
 indoor
 mutual
 board
 clever |  
-| bip_39_word_new_line6 | crawl
+| bip_39_word_new_line_6 | crawl
 indoor
 mutual
 board
 clever
 common |  
-| bip_39_word_new_line7 | crawl
+| bip_39_word_new_line_7 | crawl
 indoor
 mutual
 board
 clever
 common
 mutual |  
-| bip_39_word_new_line8 | crawl
+| bip_39_word_new_line_8 | crawl
 indoor
 mutual
 board
@@ -113,7 +113,7 @@ clever
 common
 mutual
 phone |  
-| bip_39_word_new_line9 | crawl
+| bip_39_word_new_line_9 | crawl
 indoor
 mutual
 board

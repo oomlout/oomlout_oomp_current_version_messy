@@ -1,17 +1,17 @@
-bip_39_word_new_br1: kind
-bip_39_word_new_br10: kind<br>circle<br>seven<br>found<br>junk<br>supreme<br>wish<br>buyer<br>budget<br>axis
-bip_39_word_new_br11: kind<br>circle<br>seven<br>found<br>junk<br>supreme<br>wish<br>buyer<br>budget<br>axis<br>vanish
-bip_39_word_new_br12: kind<br>circle<br>seven<br>found<br>junk<br>supreme<br>wish<br>buyer<br>budget<br>axis<br>vanish<br>always
-bip_39_word_new_br2: kind<br>circle
-bip_39_word_new_br3: kind<br>circle<br>seven
-bip_39_word_new_br4: kind<br>circle<br>seven<br>found
-bip_39_word_new_br5: kind<br>circle<br>seven<br>found<br>junk
-bip_39_word_new_br6: kind<br>circle<br>seven<br>found<br>junk<br>supreme
-bip_39_word_new_br7: kind<br>circle<br>seven<br>found<br>junk<br>supreme<br>wish
-bip_39_word_new_br8: kind<br>circle<br>seven<br>found<br>junk<br>supreme<br>wish<br>buyer
-bip_39_word_new_br9: kind<br>circle<br>seven<br>found<br>junk<br>supreme<br>wish<br>buyer<br>budget
-bip_39_word_new_line1: kind
-bip_39_word_new_line10: 'kind
+bip_39_word_new_br_1: kind
+bip_39_word_new_br_10: kind<br>circle<br>seven<br>found<br>junk<br>supreme<br>wish<br>buyer<br>budget<br>axis
+bip_39_word_new_br_11: kind<br>circle<br>seven<br>found<br>junk<br>supreme<br>wish<br>buyer<br>budget<br>axis<br>vanish
+bip_39_word_new_br_12: kind<br>circle<br>seven<br>found<br>junk<br>supreme<br>wish<br>buyer<br>budget<br>axis<br>vanish<br>always
+bip_39_word_new_br_2: kind<br>circle
+bip_39_word_new_br_3: kind<br>circle<br>seven
+bip_39_word_new_br_4: kind<br>circle<br>seven<br>found
+bip_39_word_new_br_5: kind<br>circle<br>seven<br>found<br>junk
+bip_39_word_new_br_6: kind<br>circle<br>seven<br>found<br>junk<br>supreme
+bip_39_word_new_br_7: kind<br>circle<br>seven<br>found<br>junk<br>supreme<br>wish
+bip_39_word_new_br_8: kind<br>circle<br>seven<br>found<br>junk<br>supreme<br>wish<br>buyer
+bip_39_word_new_br_9: kind<br>circle<br>seven<br>found<br>junk<br>supreme<br>wish<br>buyer<br>budget
+bip_39_word_new_line_1: kind
+bip_39_word_new_line_10: 'kind
 
   circle
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'kind
   budget
 
   axis'
-bip_39_word_new_line11: 'kind
+bip_39_word_new_line_11: 'kind
 
   circle
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'kind
   axis
 
   vanish'
-bip_39_word_new_line12: 'kind
+bip_39_word_new_line_12: 'kind
 
   circle
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'kind
   vanish
 
   always'
-bip_39_word_new_line2: 'kind
+bip_39_word_new_line_2: 'kind
 
   circle'
-bip_39_word_new_line3: 'kind
+bip_39_word_new_line_3: 'kind
 
   circle
 
   seven'
-bip_39_word_new_line4: 'kind
+bip_39_word_new_line_4: 'kind
 
   circle
 
   seven
 
   found'
-bip_39_word_new_line5: 'kind
+bip_39_word_new_line_5: 'kind
 
   circle
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'kind
   found
 
   junk'
-bip_39_word_new_line6: 'kind
+bip_39_word_new_line_6: 'kind
 
   circle
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'kind
   junk
 
   supreme'
-bip_39_word_new_line7: 'kind
+bip_39_word_new_line_7: 'kind
 
   circle
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'kind
   supreme
 
   wish'
-bip_39_word_new_line8: 'kind
+bip_39_word_new_line_8: 'kind
 
   circle
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'kind
   wish
 
   buyer'
-bip_39_word_new_line9: 'kind
+bip_39_word_new_line_9: 'kind
 
   circle
 

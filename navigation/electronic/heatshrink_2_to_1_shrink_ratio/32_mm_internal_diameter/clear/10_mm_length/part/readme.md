@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hover |  
-| bip_39_word_new_br10 | hover<br>pencil<br>roast<br>merry<br>long<br>neck<br>ride<br>stumble<br>fiction<br>curious |  
-| bip_39_word_new_br11 | hover<br>pencil<br>roast<br>merry<br>long<br>neck<br>ride<br>stumble<br>fiction<br>curious<br>close |  
-| bip_39_word_new_br12 | hover<br>pencil<br>roast<br>merry<br>long<br>neck<br>ride<br>stumble<br>fiction<br>curious<br>close<br>author |  
-| bip_39_word_new_br2 | hover<br>pencil |  
-| bip_39_word_new_br3 | hover<br>pencil<br>roast |  
-| bip_39_word_new_br4 | hover<br>pencil<br>roast<br>merry |  
-| bip_39_word_new_br5 | hover<br>pencil<br>roast<br>merry<br>long |  
-| bip_39_word_new_br6 | hover<br>pencil<br>roast<br>merry<br>long<br>neck |  
-| bip_39_word_new_br7 | hover<br>pencil<br>roast<br>merry<br>long<br>neck<br>ride |  
-| bip_39_word_new_br8 | hover<br>pencil<br>roast<br>merry<br>long<br>neck<br>ride<br>stumble |  
-| bip_39_word_new_br9 | hover<br>pencil<br>roast<br>merry<br>long<br>neck<br>ride<br>stumble<br>fiction |  
-| bip_39_word_new_line1 | hover |  
-| bip_39_word_new_line10 | hover
+| bip_39_word_new_br_1 | hover |  
+| bip_39_word_new_br_10 | hover<br>pencil<br>roast<br>merry<br>long<br>neck<br>ride<br>stumble<br>fiction<br>curious |  
+| bip_39_word_new_br_11 | hover<br>pencil<br>roast<br>merry<br>long<br>neck<br>ride<br>stumble<br>fiction<br>curious<br>close |  
+| bip_39_word_new_br_12 | hover<br>pencil<br>roast<br>merry<br>long<br>neck<br>ride<br>stumble<br>fiction<br>curious<br>close<br>author |  
+| bip_39_word_new_br_2 | hover<br>pencil |  
+| bip_39_word_new_br_3 | hover<br>pencil<br>roast |  
+| bip_39_word_new_br_4 | hover<br>pencil<br>roast<br>merry |  
+| bip_39_word_new_br_5 | hover<br>pencil<br>roast<br>merry<br>long |  
+| bip_39_word_new_br_6 | hover<br>pencil<br>roast<br>merry<br>long<br>neck |  
+| bip_39_word_new_br_7 | hover<br>pencil<br>roast<br>merry<br>long<br>neck<br>ride |  
+| bip_39_word_new_br_8 | hover<br>pencil<br>roast<br>merry<br>long<br>neck<br>ride<br>stumble |  
+| bip_39_word_new_br_9 | hover<br>pencil<br>roast<br>merry<br>long<br>neck<br>ride<br>stumble<br>fiction |  
+| bip_39_word_new_line_1 | hover |  
+| bip_39_word_new_line_10 | hover
 pencil
 roast
 merry
@@ -55,7 +55,7 @@ ride
 stumble
 fiction
 curious |  
-| bip_39_word_new_line11 | hover
+| bip_39_word_new_line_11 | hover
 pencil
 roast
 merry
@@ -66,7 +66,7 @@ stumble
 fiction
 curious
 close |  
-| bip_39_word_new_line12 | hover
+| bip_39_word_new_line_12 | hover
 pencil
 roast
 merry
@@ -78,34 +78,34 @@ fiction
 curious
 close
 author |  
-| bip_39_word_new_line2 | hover
+| bip_39_word_new_line_2 | hover
 pencil |  
-| bip_39_word_new_line3 | hover
+| bip_39_word_new_line_3 | hover
 pencil
 roast |  
-| bip_39_word_new_line4 | hover
+| bip_39_word_new_line_4 | hover
 pencil
 roast
 merry |  
-| bip_39_word_new_line5 | hover
+| bip_39_word_new_line_5 | hover
 pencil
 roast
 merry
 long |  
-| bip_39_word_new_line6 | hover
+| bip_39_word_new_line_6 | hover
 pencil
 roast
 merry
 long
 neck |  
-| bip_39_word_new_line7 | hover
+| bip_39_word_new_line_7 | hover
 pencil
 roast
 merry
 long
 neck
 ride |  
-| bip_39_word_new_line8 | hover
+| bip_39_word_new_line_8 | hover
 pencil
 roast
 merry
@@ -113,7 +113,7 @@ long
 neck
 ride
 stumble |  
-| bip_39_word_new_line9 | hover
+| bip_39_word_new_line_9 | hover
 pencil
 roast
 merry

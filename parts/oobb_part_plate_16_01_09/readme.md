@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | seed |  
-| bip_39_word_new_br10 | seed<br>slender<br>ticket<br>alcohol<br>day<br>kidney<br>spend<br>inform<br>glimpse<br>artwork |  
-| bip_39_word_new_br11 | seed<br>slender<br>ticket<br>alcohol<br>day<br>kidney<br>spend<br>inform<br>glimpse<br>artwork<br>result |  
-| bip_39_word_new_br12 | seed<br>slender<br>ticket<br>alcohol<br>day<br>kidney<br>spend<br>inform<br>glimpse<br>artwork<br>result<br>attend |  
-| bip_39_word_new_br2 | seed<br>slender |  
-| bip_39_word_new_br3 | seed<br>slender<br>ticket |  
-| bip_39_word_new_br4 | seed<br>slender<br>ticket<br>alcohol |  
-| bip_39_word_new_br5 | seed<br>slender<br>ticket<br>alcohol<br>day |  
-| bip_39_word_new_br6 | seed<br>slender<br>ticket<br>alcohol<br>day<br>kidney |  
-| bip_39_word_new_br7 | seed<br>slender<br>ticket<br>alcohol<br>day<br>kidney<br>spend |  
-| bip_39_word_new_br8 | seed<br>slender<br>ticket<br>alcohol<br>day<br>kidney<br>spend<br>inform |  
-| bip_39_word_new_br9 | seed<br>slender<br>ticket<br>alcohol<br>day<br>kidney<br>spend<br>inform<br>glimpse |  
-| bip_39_word_new_line1 | seed |  
-| bip_39_word_new_line10 | seed
+| bip_39_word_new_br_1 | seed |  
+| bip_39_word_new_br_10 | seed<br>slender<br>ticket<br>alcohol<br>day<br>kidney<br>spend<br>inform<br>glimpse<br>artwork |  
+| bip_39_word_new_br_11 | seed<br>slender<br>ticket<br>alcohol<br>day<br>kidney<br>spend<br>inform<br>glimpse<br>artwork<br>result |  
+| bip_39_word_new_br_12 | seed<br>slender<br>ticket<br>alcohol<br>day<br>kidney<br>spend<br>inform<br>glimpse<br>artwork<br>result<br>attend |  
+| bip_39_word_new_br_2 | seed<br>slender |  
+| bip_39_word_new_br_3 | seed<br>slender<br>ticket |  
+| bip_39_word_new_br_4 | seed<br>slender<br>ticket<br>alcohol |  
+| bip_39_word_new_br_5 | seed<br>slender<br>ticket<br>alcohol<br>day |  
+| bip_39_word_new_br_6 | seed<br>slender<br>ticket<br>alcohol<br>day<br>kidney |  
+| bip_39_word_new_br_7 | seed<br>slender<br>ticket<br>alcohol<br>day<br>kidney<br>spend |  
+| bip_39_word_new_br_8 | seed<br>slender<br>ticket<br>alcohol<br>day<br>kidney<br>spend<br>inform |  
+| bip_39_word_new_br_9 | seed<br>slender<br>ticket<br>alcohol<br>day<br>kidney<br>spend<br>inform<br>glimpse |  
+| bip_39_word_new_line_1 | seed |  
+| bip_39_word_new_line_10 | seed
 slender
 ticket
 alcohol
@@ -55,7 +55,7 @@ spend
 inform
 glimpse
 artwork |  
-| bip_39_word_new_line11 | seed
+| bip_39_word_new_line_11 | seed
 slender
 ticket
 alcohol
@@ -66,7 +66,7 @@ inform
 glimpse
 artwork
 result |  
-| bip_39_word_new_line12 | seed
+| bip_39_word_new_line_12 | seed
 slender
 ticket
 alcohol
@@ -78,34 +78,34 @@ glimpse
 artwork
 result
 attend |  
-| bip_39_word_new_line2 | seed
+| bip_39_word_new_line_2 | seed
 slender |  
-| bip_39_word_new_line3 | seed
+| bip_39_word_new_line_3 | seed
 slender
 ticket |  
-| bip_39_word_new_line4 | seed
+| bip_39_word_new_line_4 | seed
 slender
 ticket
 alcohol |  
-| bip_39_word_new_line5 | seed
+| bip_39_word_new_line_5 | seed
 slender
 ticket
 alcohol
 day |  
-| bip_39_word_new_line6 | seed
+| bip_39_word_new_line_6 | seed
 slender
 ticket
 alcohol
 day
 kidney |  
-| bip_39_word_new_line7 | seed
+| bip_39_word_new_line_7 | seed
 slender
 ticket
 alcohol
 day
 kidney
 spend |  
-| bip_39_word_new_line8 | seed
+| bip_39_word_new_line_8 | seed
 slender
 ticket
 alcohol
@@ -113,7 +113,7 @@ day
 kidney
 spend
 inform |  
-| bip_39_word_new_line9 | seed
+| bip_39_word_new_line_9 | seed
 slender
 ticket
 alcohol

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | uphold |  
-| bip_39_word_new_br10 | uphold<br>industry<br>imitate<br>movie<br>twenty<br>captain<br>humble<br>lounge<br>access<br>market |  
-| bip_39_word_new_br11 | uphold<br>industry<br>imitate<br>movie<br>twenty<br>captain<br>humble<br>lounge<br>access<br>market<br>hundred |  
-| bip_39_word_new_br12 | uphold<br>industry<br>imitate<br>movie<br>twenty<br>captain<br>humble<br>lounge<br>access<br>market<br>hundred<br>action |  
-| bip_39_word_new_br2 | uphold<br>industry |  
-| bip_39_word_new_br3 | uphold<br>industry<br>imitate |  
-| bip_39_word_new_br4 | uphold<br>industry<br>imitate<br>movie |  
-| bip_39_word_new_br5 | uphold<br>industry<br>imitate<br>movie<br>twenty |  
-| bip_39_word_new_br6 | uphold<br>industry<br>imitate<br>movie<br>twenty<br>captain |  
-| bip_39_word_new_br7 | uphold<br>industry<br>imitate<br>movie<br>twenty<br>captain<br>humble |  
-| bip_39_word_new_br8 | uphold<br>industry<br>imitate<br>movie<br>twenty<br>captain<br>humble<br>lounge |  
-| bip_39_word_new_br9 | uphold<br>industry<br>imitate<br>movie<br>twenty<br>captain<br>humble<br>lounge<br>access |  
-| bip_39_word_new_line1 | uphold |  
-| bip_39_word_new_line10 | uphold
+| bip_39_word_new_br_1 | uphold |  
+| bip_39_word_new_br_10 | uphold<br>industry<br>imitate<br>movie<br>twenty<br>captain<br>humble<br>lounge<br>access<br>market |  
+| bip_39_word_new_br_11 | uphold<br>industry<br>imitate<br>movie<br>twenty<br>captain<br>humble<br>lounge<br>access<br>market<br>hundred |  
+| bip_39_word_new_br_12 | uphold<br>industry<br>imitate<br>movie<br>twenty<br>captain<br>humble<br>lounge<br>access<br>market<br>hundred<br>action |  
+| bip_39_word_new_br_2 | uphold<br>industry |  
+| bip_39_word_new_br_3 | uphold<br>industry<br>imitate |  
+| bip_39_word_new_br_4 | uphold<br>industry<br>imitate<br>movie |  
+| bip_39_word_new_br_5 | uphold<br>industry<br>imitate<br>movie<br>twenty |  
+| bip_39_word_new_br_6 | uphold<br>industry<br>imitate<br>movie<br>twenty<br>captain |  
+| bip_39_word_new_br_7 | uphold<br>industry<br>imitate<br>movie<br>twenty<br>captain<br>humble |  
+| bip_39_word_new_br_8 | uphold<br>industry<br>imitate<br>movie<br>twenty<br>captain<br>humble<br>lounge |  
+| bip_39_word_new_br_9 | uphold<br>industry<br>imitate<br>movie<br>twenty<br>captain<br>humble<br>lounge<br>access |  
+| bip_39_word_new_line_1 | uphold |  
+| bip_39_word_new_line_10 | uphold
 industry
 imitate
 movie
@@ -55,7 +55,7 @@ humble
 lounge
 access
 market |  
-| bip_39_word_new_line11 | uphold
+| bip_39_word_new_line_11 | uphold
 industry
 imitate
 movie
@@ -66,7 +66,7 @@ lounge
 access
 market
 hundred |  
-| bip_39_word_new_line12 | uphold
+| bip_39_word_new_line_12 | uphold
 industry
 imitate
 movie
@@ -78,34 +78,34 @@ access
 market
 hundred
 action |  
-| bip_39_word_new_line2 | uphold
+| bip_39_word_new_line_2 | uphold
 industry |  
-| bip_39_word_new_line3 | uphold
+| bip_39_word_new_line_3 | uphold
 industry
 imitate |  
-| bip_39_word_new_line4 | uphold
+| bip_39_word_new_line_4 | uphold
 industry
 imitate
 movie |  
-| bip_39_word_new_line5 | uphold
+| bip_39_word_new_line_5 | uphold
 industry
 imitate
 movie
 twenty |  
-| bip_39_word_new_line6 | uphold
+| bip_39_word_new_line_6 | uphold
 industry
 imitate
 movie
 twenty
 captain |  
-| bip_39_word_new_line7 | uphold
+| bip_39_word_new_line_7 | uphold
 industry
 imitate
 movie
 twenty
 captain
 humble |  
-| bip_39_word_new_line8 | uphold
+| bip_39_word_new_line_8 | uphold
 industry
 imitate
 movie
@@ -113,7 +113,7 @@ twenty
 captain
 humble
 lounge |  
-| bip_39_word_new_line9 | uphold
+| bip_39_word_new_line_9 | uphold
 industry
 imitate
 movie

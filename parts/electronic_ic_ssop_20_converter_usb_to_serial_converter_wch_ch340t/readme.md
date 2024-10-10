@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ill |  
-| bip_39_word_new_br10 | ill<br>spell<br>perfect<br>swap<br>proof<br>police<br>viable<br>hurdle<br>hammer<br>more |  
-| bip_39_word_new_br11 | ill<br>spell<br>perfect<br>swap<br>proof<br>police<br>viable<br>hurdle<br>hammer<br>more<br>decorate |  
-| bip_39_word_new_br12 | ill<br>spell<br>perfect<br>swap<br>proof<br>police<br>viable<br>hurdle<br>hammer<br>more<br>decorate<br>asthma |  
-| bip_39_word_new_br2 | ill<br>spell |  
-| bip_39_word_new_br3 | ill<br>spell<br>perfect |  
-| bip_39_word_new_br4 | ill<br>spell<br>perfect<br>swap |  
-| bip_39_word_new_br5 | ill<br>spell<br>perfect<br>swap<br>proof |  
-| bip_39_word_new_br6 | ill<br>spell<br>perfect<br>swap<br>proof<br>police |  
-| bip_39_word_new_br7 | ill<br>spell<br>perfect<br>swap<br>proof<br>police<br>viable |  
-| bip_39_word_new_br8 | ill<br>spell<br>perfect<br>swap<br>proof<br>police<br>viable<br>hurdle |  
-| bip_39_word_new_br9 | ill<br>spell<br>perfect<br>swap<br>proof<br>police<br>viable<br>hurdle<br>hammer |  
-| bip_39_word_new_line1 | ill |  
-| bip_39_word_new_line10 | ill
+| bip_39_word_new_br_1 | ill |  
+| bip_39_word_new_br_10 | ill<br>spell<br>perfect<br>swap<br>proof<br>police<br>viable<br>hurdle<br>hammer<br>more |  
+| bip_39_word_new_br_11 | ill<br>spell<br>perfect<br>swap<br>proof<br>police<br>viable<br>hurdle<br>hammer<br>more<br>decorate |  
+| bip_39_word_new_br_12 | ill<br>spell<br>perfect<br>swap<br>proof<br>police<br>viable<br>hurdle<br>hammer<br>more<br>decorate<br>asthma |  
+| bip_39_word_new_br_2 | ill<br>spell |  
+| bip_39_word_new_br_3 | ill<br>spell<br>perfect |  
+| bip_39_word_new_br_4 | ill<br>spell<br>perfect<br>swap |  
+| bip_39_word_new_br_5 | ill<br>spell<br>perfect<br>swap<br>proof |  
+| bip_39_word_new_br_6 | ill<br>spell<br>perfect<br>swap<br>proof<br>police |  
+| bip_39_word_new_br_7 | ill<br>spell<br>perfect<br>swap<br>proof<br>police<br>viable |  
+| bip_39_word_new_br_8 | ill<br>spell<br>perfect<br>swap<br>proof<br>police<br>viable<br>hurdle |  
+| bip_39_word_new_br_9 | ill<br>spell<br>perfect<br>swap<br>proof<br>police<br>viable<br>hurdle<br>hammer |  
+| bip_39_word_new_line_1 | ill |  
+| bip_39_word_new_line_10 | ill
 spell
 perfect
 swap
@@ -55,7 +55,7 @@ viable
 hurdle
 hammer
 more |  
-| bip_39_word_new_line11 | ill
+| bip_39_word_new_line_11 | ill
 spell
 perfect
 swap
@@ -66,7 +66,7 @@ hurdle
 hammer
 more
 decorate |  
-| bip_39_word_new_line12 | ill
+| bip_39_word_new_line_12 | ill
 spell
 perfect
 swap
@@ -78,34 +78,34 @@ hammer
 more
 decorate
 asthma |  
-| bip_39_word_new_line2 | ill
+| bip_39_word_new_line_2 | ill
 spell |  
-| bip_39_word_new_line3 | ill
+| bip_39_word_new_line_3 | ill
 spell
 perfect |  
-| bip_39_word_new_line4 | ill
+| bip_39_word_new_line_4 | ill
 spell
 perfect
 swap |  
-| bip_39_word_new_line5 | ill
+| bip_39_word_new_line_5 | ill
 spell
 perfect
 swap
 proof |  
-| bip_39_word_new_line6 | ill
+| bip_39_word_new_line_6 | ill
 spell
 perfect
 swap
 proof
 police |  
-| bip_39_word_new_line7 | ill
+| bip_39_word_new_line_7 | ill
 spell
 perfect
 swap
 proof
 police
 viable |  
-| bip_39_word_new_line8 | ill
+| bip_39_word_new_line_8 | ill
 spell
 perfect
 swap
@@ -113,7 +113,7 @@ proof
 police
 viable
 hurdle |  
-| bip_39_word_new_line9 | ill
+| bip_39_word_new_line_9 | ill
 spell
 perfect
 swap

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wish |  
-| bip_39_word_new_br10 | wish<br>north<br>share<br>code<br>demand<br>wrestle<br>gauge<br>crunch<br>usual<br>awake |  
-| bip_39_word_new_br11 | wish<br>north<br>share<br>code<br>demand<br>wrestle<br>gauge<br>crunch<br>usual<br>awake<br>way |  
-| bip_39_word_new_br12 | wish<br>north<br>share<br>code<br>demand<br>wrestle<br>gauge<br>crunch<br>usual<br>awake<br>way<br>argue |  
-| bip_39_word_new_br2 | wish<br>north |  
-| bip_39_word_new_br3 | wish<br>north<br>share |  
-| bip_39_word_new_br4 | wish<br>north<br>share<br>code |  
-| bip_39_word_new_br5 | wish<br>north<br>share<br>code<br>demand |  
-| bip_39_word_new_br6 | wish<br>north<br>share<br>code<br>demand<br>wrestle |  
-| bip_39_word_new_br7 | wish<br>north<br>share<br>code<br>demand<br>wrestle<br>gauge |  
-| bip_39_word_new_br8 | wish<br>north<br>share<br>code<br>demand<br>wrestle<br>gauge<br>crunch |  
-| bip_39_word_new_br9 | wish<br>north<br>share<br>code<br>demand<br>wrestle<br>gauge<br>crunch<br>usual |  
-| bip_39_word_new_line1 | wish |  
-| bip_39_word_new_line10 | wish
+| bip_39_word_new_br_1 | wish |  
+| bip_39_word_new_br_10 | wish<br>north<br>share<br>code<br>demand<br>wrestle<br>gauge<br>crunch<br>usual<br>awake |  
+| bip_39_word_new_br_11 | wish<br>north<br>share<br>code<br>demand<br>wrestle<br>gauge<br>crunch<br>usual<br>awake<br>way |  
+| bip_39_word_new_br_12 | wish<br>north<br>share<br>code<br>demand<br>wrestle<br>gauge<br>crunch<br>usual<br>awake<br>way<br>argue |  
+| bip_39_word_new_br_2 | wish<br>north |  
+| bip_39_word_new_br_3 | wish<br>north<br>share |  
+| bip_39_word_new_br_4 | wish<br>north<br>share<br>code |  
+| bip_39_word_new_br_5 | wish<br>north<br>share<br>code<br>demand |  
+| bip_39_word_new_br_6 | wish<br>north<br>share<br>code<br>demand<br>wrestle |  
+| bip_39_word_new_br_7 | wish<br>north<br>share<br>code<br>demand<br>wrestle<br>gauge |  
+| bip_39_word_new_br_8 | wish<br>north<br>share<br>code<br>demand<br>wrestle<br>gauge<br>crunch |  
+| bip_39_word_new_br_9 | wish<br>north<br>share<br>code<br>demand<br>wrestle<br>gauge<br>crunch<br>usual |  
+| bip_39_word_new_line_1 | wish |  
+| bip_39_word_new_line_10 | wish
 north
 share
 code
@@ -55,7 +55,7 @@ gauge
 crunch
 usual
 awake |  
-| bip_39_word_new_line11 | wish
+| bip_39_word_new_line_11 | wish
 north
 share
 code
@@ -66,7 +66,7 @@ crunch
 usual
 awake
 way |  
-| bip_39_word_new_line12 | wish
+| bip_39_word_new_line_12 | wish
 north
 share
 code
@@ -78,34 +78,34 @@ usual
 awake
 way
 argue |  
-| bip_39_word_new_line2 | wish
+| bip_39_word_new_line_2 | wish
 north |  
-| bip_39_word_new_line3 | wish
+| bip_39_word_new_line_3 | wish
 north
 share |  
-| bip_39_word_new_line4 | wish
+| bip_39_word_new_line_4 | wish
 north
 share
 code |  
-| bip_39_word_new_line5 | wish
+| bip_39_word_new_line_5 | wish
 north
 share
 code
 demand |  
-| bip_39_word_new_line6 | wish
+| bip_39_word_new_line_6 | wish
 north
 share
 code
 demand
 wrestle |  
-| bip_39_word_new_line7 | wish
+| bip_39_word_new_line_7 | wish
 north
 share
 code
 demand
 wrestle
 gauge |  
-| bip_39_word_new_line8 | wish
+| bip_39_word_new_line_8 | wish
 north
 share
 code
@@ -113,7 +113,7 @@ demand
 wrestle
 gauge
 crunch |  
-| bip_39_word_new_line9 | wish
+| bip_39_word_new_line_9 | wish
 north
 share
 code

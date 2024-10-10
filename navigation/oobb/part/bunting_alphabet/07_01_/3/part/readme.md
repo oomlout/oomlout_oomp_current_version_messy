@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | reduce |  
-| bip_39_word_new_br10 | reduce<br>goose<br>cool<br>palm<br>affair<br>breeze<br>tank<br>thing<br>trim<br>door |  
-| bip_39_word_new_br11 | reduce<br>goose<br>cool<br>palm<br>affair<br>breeze<br>tank<br>thing<br>trim<br>door<br>lucky |  
-| bip_39_word_new_br12 | reduce<br>goose<br>cool<br>palm<br>affair<br>breeze<br>tank<br>thing<br>trim<br>door<br>lucky<br>already |  
-| bip_39_word_new_br2 | reduce<br>goose |  
-| bip_39_word_new_br3 | reduce<br>goose<br>cool |  
-| bip_39_word_new_br4 | reduce<br>goose<br>cool<br>palm |  
-| bip_39_word_new_br5 | reduce<br>goose<br>cool<br>palm<br>affair |  
-| bip_39_word_new_br6 | reduce<br>goose<br>cool<br>palm<br>affair<br>breeze |  
-| bip_39_word_new_br7 | reduce<br>goose<br>cool<br>palm<br>affair<br>breeze<br>tank |  
-| bip_39_word_new_br8 | reduce<br>goose<br>cool<br>palm<br>affair<br>breeze<br>tank<br>thing |  
-| bip_39_word_new_br9 | reduce<br>goose<br>cool<br>palm<br>affair<br>breeze<br>tank<br>thing<br>trim |  
-| bip_39_word_new_line1 | reduce |  
-| bip_39_word_new_line10 | reduce
+| bip_39_word_new_br_1 | reduce |  
+| bip_39_word_new_br_10 | reduce<br>goose<br>cool<br>palm<br>affair<br>breeze<br>tank<br>thing<br>trim<br>door |  
+| bip_39_word_new_br_11 | reduce<br>goose<br>cool<br>palm<br>affair<br>breeze<br>tank<br>thing<br>trim<br>door<br>lucky |  
+| bip_39_word_new_br_12 | reduce<br>goose<br>cool<br>palm<br>affair<br>breeze<br>tank<br>thing<br>trim<br>door<br>lucky<br>already |  
+| bip_39_word_new_br_2 | reduce<br>goose |  
+| bip_39_word_new_br_3 | reduce<br>goose<br>cool |  
+| bip_39_word_new_br_4 | reduce<br>goose<br>cool<br>palm |  
+| bip_39_word_new_br_5 | reduce<br>goose<br>cool<br>palm<br>affair |  
+| bip_39_word_new_br_6 | reduce<br>goose<br>cool<br>palm<br>affair<br>breeze |  
+| bip_39_word_new_br_7 | reduce<br>goose<br>cool<br>palm<br>affair<br>breeze<br>tank |  
+| bip_39_word_new_br_8 | reduce<br>goose<br>cool<br>palm<br>affair<br>breeze<br>tank<br>thing |  
+| bip_39_word_new_br_9 | reduce<br>goose<br>cool<br>palm<br>affair<br>breeze<br>tank<br>thing<br>trim |  
+| bip_39_word_new_line_1 | reduce |  
+| bip_39_word_new_line_10 | reduce
 goose
 cool
 palm
@@ -55,7 +55,7 @@ tank
 thing
 trim
 door |  
-| bip_39_word_new_line11 | reduce
+| bip_39_word_new_line_11 | reduce
 goose
 cool
 palm
@@ -66,7 +66,7 @@ thing
 trim
 door
 lucky |  
-| bip_39_word_new_line12 | reduce
+| bip_39_word_new_line_12 | reduce
 goose
 cool
 palm
@@ -78,34 +78,34 @@ trim
 door
 lucky
 already |  
-| bip_39_word_new_line2 | reduce
+| bip_39_word_new_line_2 | reduce
 goose |  
-| bip_39_word_new_line3 | reduce
+| bip_39_word_new_line_3 | reduce
 goose
 cool |  
-| bip_39_word_new_line4 | reduce
+| bip_39_word_new_line_4 | reduce
 goose
 cool
 palm |  
-| bip_39_word_new_line5 | reduce
+| bip_39_word_new_line_5 | reduce
 goose
 cool
 palm
 affair |  
-| bip_39_word_new_line6 | reduce
+| bip_39_word_new_line_6 | reduce
 goose
 cool
 palm
 affair
 breeze |  
-| bip_39_word_new_line7 | reduce
+| bip_39_word_new_line_7 | reduce
 goose
 cool
 palm
 affair
 breeze
 tank |  
-| bip_39_word_new_line8 | reduce
+| bip_39_word_new_line_8 | reduce
 goose
 cool
 palm
@@ -113,7 +113,7 @@ affair
 breeze
 tank
 thing |  
-| bip_39_word_new_line9 | reduce
+| bip_39_word_new_line_9 | reduce
 goose
 cool
 palm

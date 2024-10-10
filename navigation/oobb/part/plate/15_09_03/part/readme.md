@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sell |  
-| bip_39_word_new_br10 | sell<br>script<br>hollow<br>elevator<br>lucky<br>man<br>report<br>thumb<br>wait<br>catch |  
-| bip_39_word_new_br11 | sell<br>script<br>hollow<br>elevator<br>lucky<br>man<br>report<br>thumb<br>wait<br>catch<br>tourist |  
-| bip_39_word_new_br12 | sell<br>script<br>hollow<br>elevator<br>lucky<br>man<br>report<br>thumb<br>wait<br>catch<br>tourist<br>apology |  
-| bip_39_word_new_br2 | sell<br>script |  
-| bip_39_word_new_br3 | sell<br>script<br>hollow |  
-| bip_39_word_new_br4 | sell<br>script<br>hollow<br>elevator |  
-| bip_39_word_new_br5 | sell<br>script<br>hollow<br>elevator<br>lucky |  
-| bip_39_word_new_br6 | sell<br>script<br>hollow<br>elevator<br>lucky<br>man |  
-| bip_39_word_new_br7 | sell<br>script<br>hollow<br>elevator<br>lucky<br>man<br>report |  
-| bip_39_word_new_br8 | sell<br>script<br>hollow<br>elevator<br>lucky<br>man<br>report<br>thumb |  
-| bip_39_word_new_br9 | sell<br>script<br>hollow<br>elevator<br>lucky<br>man<br>report<br>thumb<br>wait |  
-| bip_39_word_new_line1 | sell |  
-| bip_39_word_new_line10 | sell
+| bip_39_word_new_br_1 | sell |  
+| bip_39_word_new_br_10 | sell<br>script<br>hollow<br>elevator<br>lucky<br>man<br>report<br>thumb<br>wait<br>catch |  
+| bip_39_word_new_br_11 | sell<br>script<br>hollow<br>elevator<br>lucky<br>man<br>report<br>thumb<br>wait<br>catch<br>tourist |  
+| bip_39_word_new_br_12 | sell<br>script<br>hollow<br>elevator<br>lucky<br>man<br>report<br>thumb<br>wait<br>catch<br>tourist<br>apology |  
+| bip_39_word_new_br_2 | sell<br>script |  
+| bip_39_word_new_br_3 | sell<br>script<br>hollow |  
+| bip_39_word_new_br_4 | sell<br>script<br>hollow<br>elevator |  
+| bip_39_word_new_br_5 | sell<br>script<br>hollow<br>elevator<br>lucky |  
+| bip_39_word_new_br_6 | sell<br>script<br>hollow<br>elevator<br>lucky<br>man |  
+| bip_39_word_new_br_7 | sell<br>script<br>hollow<br>elevator<br>lucky<br>man<br>report |  
+| bip_39_word_new_br_8 | sell<br>script<br>hollow<br>elevator<br>lucky<br>man<br>report<br>thumb |  
+| bip_39_word_new_br_9 | sell<br>script<br>hollow<br>elevator<br>lucky<br>man<br>report<br>thumb<br>wait |  
+| bip_39_word_new_line_1 | sell |  
+| bip_39_word_new_line_10 | sell
 script
 hollow
 elevator
@@ -55,7 +55,7 @@ report
 thumb
 wait
 catch |  
-| bip_39_word_new_line11 | sell
+| bip_39_word_new_line_11 | sell
 script
 hollow
 elevator
@@ -66,7 +66,7 @@ thumb
 wait
 catch
 tourist |  
-| bip_39_word_new_line12 | sell
+| bip_39_word_new_line_12 | sell
 script
 hollow
 elevator
@@ -78,34 +78,34 @@ wait
 catch
 tourist
 apology |  
-| bip_39_word_new_line2 | sell
+| bip_39_word_new_line_2 | sell
 script |  
-| bip_39_word_new_line3 | sell
+| bip_39_word_new_line_3 | sell
 script
 hollow |  
-| bip_39_word_new_line4 | sell
+| bip_39_word_new_line_4 | sell
 script
 hollow
 elevator |  
-| bip_39_word_new_line5 | sell
+| bip_39_word_new_line_5 | sell
 script
 hollow
 elevator
 lucky |  
-| bip_39_word_new_line6 | sell
+| bip_39_word_new_line_6 | sell
 script
 hollow
 elevator
 lucky
 man |  
-| bip_39_word_new_line7 | sell
+| bip_39_word_new_line_7 | sell
 script
 hollow
 elevator
 lucky
 man
 report |  
-| bip_39_word_new_line8 | sell
+| bip_39_word_new_line_8 | sell
 script
 hollow
 elevator
@@ -113,7 +113,7 @@ lucky
 man
 report
 thumb |  
-| bip_39_word_new_line9 | sell
+| bip_39_word_new_line_9 | sell
 script
 hollow
 elevator

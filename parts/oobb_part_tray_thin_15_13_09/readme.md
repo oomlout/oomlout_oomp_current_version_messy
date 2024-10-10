@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | blame |  
-| bip_39_word_new_br10 | blame<br>pond<br>remember<br>grain<br>domain<br>beauty<br>describe<br>goddess<br>pistol<br>solve |  
-| bip_39_word_new_br11 | blame<br>pond<br>remember<br>grain<br>domain<br>beauty<br>describe<br>goddess<br>pistol<br>solve<br>egg |  
-| bip_39_word_new_br12 | blame<br>pond<br>remember<br>grain<br>domain<br>beauty<br>describe<br>goddess<br>pistol<br>solve<br>egg<br>actress |  
-| bip_39_word_new_br2 | blame<br>pond |  
-| bip_39_word_new_br3 | blame<br>pond<br>remember |  
-| bip_39_word_new_br4 | blame<br>pond<br>remember<br>grain |  
-| bip_39_word_new_br5 | blame<br>pond<br>remember<br>grain<br>domain |  
-| bip_39_word_new_br6 | blame<br>pond<br>remember<br>grain<br>domain<br>beauty |  
-| bip_39_word_new_br7 | blame<br>pond<br>remember<br>grain<br>domain<br>beauty<br>describe |  
-| bip_39_word_new_br8 | blame<br>pond<br>remember<br>grain<br>domain<br>beauty<br>describe<br>goddess |  
-| bip_39_word_new_br9 | blame<br>pond<br>remember<br>grain<br>domain<br>beauty<br>describe<br>goddess<br>pistol |  
-| bip_39_word_new_line1 | blame |  
-| bip_39_word_new_line10 | blame
+| bip_39_word_new_br_1 | blame |  
+| bip_39_word_new_br_10 | blame<br>pond<br>remember<br>grain<br>domain<br>beauty<br>describe<br>goddess<br>pistol<br>solve |  
+| bip_39_word_new_br_11 | blame<br>pond<br>remember<br>grain<br>domain<br>beauty<br>describe<br>goddess<br>pistol<br>solve<br>egg |  
+| bip_39_word_new_br_12 | blame<br>pond<br>remember<br>grain<br>domain<br>beauty<br>describe<br>goddess<br>pistol<br>solve<br>egg<br>actress |  
+| bip_39_word_new_br_2 | blame<br>pond |  
+| bip_39_word_new_br_3 | blame<br>pond<br>remember |  
+| bip_39_word_new_br_4 | blame<br>pond<br>remember<br>grain |  
+| bip_39_word_new_br_5 | blame<br>pond<br>remember<br>grain<br>domain |  
+| bip_39_word_new_br_6 | blame<br>pond<br>remember<br>grain<br>domain<br>beauty |  
+| bip_39_word_new_br_7 | blame<br>pond<br>remember<br>grain<br>domain<br>beauty<br>describe |  
+| bip_39_word_new_br_8 | blame<br>pond<br>remember<br>grain<br>domain<br>beauty<br>describe<br>goddess |  
+| bip_39_word_new_br_9 | blame<br>pond<br>remember<br>grain<br>domain<br>beauty<br>describe<br>goddess<br>pistol |  
+| bip_39_word_new_line_1 | blame |  
+| bip_39_word_new_line_10 | blame
 pond
 remember
 grain
@@ -55,7 +55,7 @@ describe
 goddess
 pistol
 solve |  
-| bip_39_word_new_line11 | blame
+| bip_39_word_new_line_11 | blame
 pond
 remember
 grain
@@ -66,7 +66,7 @@ goddess
 pistol
 solve
 egg |  
-| bip_39_word_new_line12 | blame
+| bip_39_word_new_line_12 | blame
 pond
 remember
 grain
@@ -78,34 +78,34 @@ pistol
 solve
 egg
 actress |  
-| bip_39_word_new_line2 | blame
+| bip_39_word_new_line_2 | blame
 pond |  
-| bip_39_word_new_line3 | blame
+| bip_39_word_new_line_3 | blame
 pond
 remember |  
-| bip_39_word_new_line4 | blame
+| bip_39_word_new_line_4 | blame
 pond
 remember
 grain |  
-| bip_39_word_new_line5 | blame
+| bip_39_word_new_line_5 | blame
 pond
 remember
 grain
 domain |  
-| bip_39_word_new_line6 | blame
+| bip_39_word_new_line_6 | blame
 pond
 remember
 grain
 domain
 beauty |  
-| bip_39_word_new_line7 | blame
+| bip_39_word_new_line_7 | blame
 pond
 remember
 grain
 domain
 beauty
 describe |  
-| bip_39_word_new_line8 | blame
+| bip_39_word_new_line_8 | blame
 pond
 remember
 grain
@@ -113,7 +113,7 @@ domain
 beauty
 describe
 goddess |  
-| bip_39_word_new_line9 | blame
+| bip_39_word_new_line_9 | blame
 pond
 remember
 grain

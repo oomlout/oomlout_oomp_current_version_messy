@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | arena |  
-| bip_39_word_new_br10 | arena<br>tape<br>manage<br>lesson<br>dumb<br>west<br>glide<br>rice<br>talk<br>cook |  
-| bip_39_word_new_br11 | arena<br>tape<br>manage<br>lesson<br>dumb<br>west<br>glide<br>rice<br>talk<br>cook<br>pet |  
-| bip_39_word_new_br12 | arena<br>tape<br>manage<br>lesson<br>dumb<br>west<br>glide<br>rice<br>talk<br>cook<br>pet<br>add |  
-| bip_39_word_new_br2 | arena<br>tape |  
-| bip_39_word_new_br3 | arena<br>tape<br>manage |  
-| bip_39_word_new_br4 | arena<br>tape<br>manage<br>lesson |  
-| bip_39_word_new_br5 | arena<br>tape<br>manage<br>lesson<br>dumb |  
-| bip_39_word_new_br6 | arena<br>tape<br>manage<br>lesson<br>dumb<br>west |  
-| bip_39_word_new_br7 | arena<br>tape<br>manage<br>lesson<br>dumb<br>west<br>glide |  
-| bip_39_word_new_br8 | arena<br>tape<br>manage<br>lesson<br>dumb<br>west<br>glide<br>rice |  
-| bip_39_word_new_br9 | arena<br>tape<br>manage<br>lesson<br>dumb<br>west<br>glide<br>rice<br>talk |  
-| bip_39_word_new_line1 | arena |  
-| bip_39_word_new_line10 | arena
+| bip_39_word_new_br_1 | arena |  
+| bip_39_word_new_br_10 | arena<br>tape<br>manage<br>lesson<br>dumb<br>west<br>glide<br>rice<br>talk<br>cook |  
+| bip_39_word_new_br_11 | arena<br>tape<br>manage<br>lesson<br>dumb<br>west<br>glide<br>rice<br>talk<br>cook<br>pet |  
+| bip_39_word_new_br_12 | arena<br>tape<br>manage<br>lesson<br>dumb<br>west<br>glide<br>rice<br>talk<br>cook<br>pet<br>add |  
+| bip_39_word_new_br_2 | arena<br>tape |  
+| bip_39_word_new_br_3 | arena<br>tape<br>manage |  
+| bip_39_word_new_br_4 | arena<br>tape<br>manage<br>lesson |  
+| bip_39_word_new_br_5 | arena<br>tape<br>manage<br>lesson<br>dumb |  
+| bip_39_word_new_br_6 | arena<br>tape<br>manage<br>lesson<br>dumb<br>west |  
+| bip_39_word_new_br_7 | arena<br>tape<br>manage<br>lesson<br>dumb<br>west<br>glide |  
+| bip_39_word_new_br_8 | arena<br>tape<br>manage<br>lesson<br>dumb<br>west<br>glide<br>rice |  
+| bip_39_word_new_br_9 | arena<br>tape<br>manage<br>lesson<br>dumb<br>west<br>glide<br>rice<br>talk |  
+| bip_39_word_new_line_1 | arena |  
+| bip_39_word_new_line_10 | arena
 tape
 manage
 lesson
@@ -55,7 +55,7 @@ glide
 rice
 talk
 cook |  
-| bip_39_word_new_line11 | arena
+| bip_39_word_new_line_11 | arena
 tape
 manage
 lesson
@@ -66,7 +66,7 @@ rice
 talk
 cook
 pet |  
-| bip_39_word_new_line12 | arena
+| bip_39_word_new_line_12 | arena
 tape
 manage
 lesson
@@ -78,34 +78,34 @@ talk
 cook
 pet
 add |  
-| bip_39_word_new_line2 | arena
+| bip_39_word_new_line_2 | arena
 tape |  
-| bip_39_word_new_line3 | arena
+| bip_39_word_new_line_3 | arena
 tape
 manage |  
-| bip_39_word_new_line4 | arena
+| bip_39_word_new_line_4 | arena
 tape
 manage
 lesson |  
-| bip_39_word_new_line5 | arena
+| bip_39_word_new_line_5 | arena
 tape
 manage
 lesson
 dumb |  
-| bip_39_word_new_line6 | arena
+| bip_39_word_new_line_6 | arena
 tape
 manage
 lesson
 dumb
 west |  
-| bip_39_word_new_line7 | arena
+| bip_39_word_new_line_7 | arena
 tape
 manage
 lesson
 dumb
 west
 glide |  
-| bip_39_word_new_line8 | arena
+| bip_39_word_new_line_8 | arena
 tape
 manage
 lesson
@@ -113,7 +113,7 @@ dumb
 west
 glide
 rice |  
-| bip_39_word_new_line9 | arena
+| bip_39_word_new_line_9 | arena
 tape
 manage
 lesson

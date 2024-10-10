@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hat |  
-| bip_39_word_new_br10 | hat<br>race<br>version<br>tackle<br>drama<br>canyon<br>lady<br>banana<br>earth<br>maple |  
-| bip_39_word_new_br11 | hat<br>race<br>version<br>tackle<br>drama<br>canyon<br>lady<br>banana<br>earth<br>maple<br>lobster |  
-| bip_39_word_new_br12 | hat<br>race<br>version<br>tackle<br>drama<br>canyon<br>lady<br>banana<br>earth<br>maple<br>lobster<br>aerobic |  
-| bip_39_word_new_br2 | hat<br>race |  
-| bip_39_word_new_br3 | hat<br>race<br>version |  
-| bip_39_word_new_br4 | hat<br>race<br>version<br>tackle |  
-| bip_39_word_new_br5 | hat<br>race<br>version<br>tackle<br>drama |  
-| bip_39_word_new_br6 | hat<br>race<br>version<br>tackle<br>drama<br>canyon |  
-| bip_39_word_new_br7 | hat<br>race<br>version<br>tackle<br>drama<br>canyon<br>lady |  
-| bip_39_word_new_br8 | hat<br>race<br>version<br>tackle<br>drama<br>canyon<br>lady<br>banana |  
-| bip_39_word_new_br9 | hat<br>race<br>version<br>tackle<br>drama<br>canyon<br>lady<br>banana<br>earth |  
-| bip_39_word_new_line1 | hat |  
-| bip_39_word_new_line10 | hat
+| bip_39_word_new_br_1 | hat |  
+| bip_39_word_new_br_10 | hat<br>race<br>version<br>tackle<br>drama<br>canyon<br>lady<br>banana<br>earth<br>maple |  
+| bip_39_word_new_br_11 | hat<br>race<br>version<br>tackle<br>drama<br>canyon<br>lady<br>banana<br>earth<br>maple<br>lobster |  
+| bip_39_word_new_br_12 | hat<br>race<br>version<br>tackle<br>drama<br>canyon<br>lady<br>banana<br>earth<br>maple<br>lobster<br>aerobic |  
+| bip_39_word_new_br_2 | hat<br>race |  
+| bip_39_word_new_br_3 | hat<br>race<br>version |  
+| bip_39_word_new_br_4 | hat<br>race<br>version<br>tackle |  
+| bip_39_word_new_br_5 | hat<br>race<br>version<br>tackle<br>drama |  
+| bip_39_word_new_br_6 | hat<br>race<br>version<br>tackle<br>drama<br>canyon |  
+| bip_39_word_new_br_7 | hat<br>race<br>version<br>tackle<br>drama<br>canyon<br>lady |  
+| bip_39_word_new_br_8 | hat<br>race<br>version<br>tackle<br>drama<br>canyon<br>lady<br>banana |  
+| bip_39_word_new_br_9 | hat<br>race<br>version<br>tackle<br>drama<br>canyon<br>lady<br>banana<br>earth |  
+| bip_39_word_new_line_1 | hat |  
+| bip_39_word_new_line_10 | hat
 race
 version
 tackle
@@ -55,7 +55,7 @@ lady
 banana
 earth
 maple |  
-| bip_39_word_new_line11 | hat
+| bip_39_word_new_line_11 | hat
 race
 version
 tackle
@@ -66,7 +66,7 @@ banana
 earth
 maple
 lobster |  
-| bip_39_word_new_line12 | hat
+| bip_39_word_new_line_12 | hat
 race
 version
 tackle
@@ -78,34 +78,34 @@ earth
 maple
 lobster
 aerobic |  
-| bip_39_word_new_line2 | hat
+| bip_39_word_new_line_2 | hat
 race |  
-| bip_39_word_new_line3 | hat
+| bip_39_word_new_line_3 | hat
 race
 version |  
-| bip_39_word_new_line4 | hat
+| bip_39_word_new_line_4 | hat
 race
 version
 tackle |  
-| bip_39_word_new_line5 | hat
+| bip_39_word_new_line_5 | hat
 race
 version
 tackle
 drama |  
-| bip_39_word_new_line6 | hat
+| bip_39_word_new_line_6 | hat
 race
 version
 tackle
 drama
 canyon |  
-| bip_39_word_new_line7 | hat
+| bip_39_word_new_line_7 | hat
 race
 version
 tackle
 drama
 canyon
 lady |  
-| bip_39_word_new_line8 | hat
+| bip_39_word_new_line_8 | hat
 race
 version
 tackle
@@ -113,7 +113,7 @@ drama
 canyon
 lady
 banana |  
-| bip_39_word_new_line9 | hat
+| bip_39_word_new_line_9 | hat
 race
 version
 tackle

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mountain |  
-| bip_39_word_new_br10 | mountain<br>bomb<br>twenty<br>visa<br>winner<br>discover<br>scale<br>drastic<br>happy<br>cheese |  
-| bip_39_word_new_br11 | mountain<br>bomb<br>twenty<br>visa<br>winner<br>discover<br>scale<br>drastic<br>happy<br>cheese<br>inhale |  
-| bip_39_word_new_br12 | mountain<br>bomb<br>twenty<br>visa<br>winner<br>discover<br>scale<br>drastic<br>happy<br>cheese<br>inhale<br>action |  
-| bip_39_word_new_br2 | mountain<br>bomb |  
-| bip_39_word_new_br3 | mountain<br>bomb<br>twenty |  
-| bip_39_word_new_br4 | mountain<br>bomb<br>twenty<br>visa |  
-| bip_39_word_new_br5 | mountain<br>bomb<br>twenty<br>visa<br>winner |  
-| bip_39_word_new_br6 | mountain<br>bomb<br>twenty<br>visa<br>winner<br>discover |  
-| bip_39_word_new_br7 | mountain<br>bomb<br>twenty<br>visa<br>winner<br>discover<br>scale |  
-| bip_39_word_new_br8 | mountain<br>bomb<br>twenty<br>visa<br>winner<br>discover<br>scale<br>drastic |  
-| bip_39_word_new_br9 | mountain<br>bomb<br>twenty<br>visa<br>winner<br>discover<br>scale<br>drastic<br>happy |  
-| bip_39_word_new_line1 | mountain |  
-| bip_39_word_new_line10 | mountain
+| bip_39_word_new_br_1 | mountain |  
+| bip_39_word_new_br_10 | mountain<br>bomb<br>twenty<br>visa<br>winner<br>discover<br>scale<br>drastic<br>happy<br>cheese |  
+| bip_39_word_new_br_11 | mountain<br>bomb<br>twenty<br>visa<br>winner<br>discover<br>scale<br>drastic<br>happy<br>cheese<br>inhale |  
+| bip_39_word_new_br_12 | mountain<br>bomb<br>twenty<br>visa<br>winner<br>discover<br>scale<br>drastic<br>happy<br>cheese<br>inhale<br>action |  
+| bip_39_word_new_br_2 | mountain<br>bomb |  
+| bip_39_word_new_br_3 | mountain<br>bomb<br>twenty |  
+| bip_39_word_new_br_4 | mountain<br>bomb<br>twenty<br>visa |  
+| bip_39_word_new_br_5 | mountain<br>bomb<br>twenty<br>visa<br>winner |  
+| bip_39_word_new_br_6 | mountain<br>bomb<br>twenty<br>visa<br>winner<br>discover |  
+| bip_39_word_new_br_7 | mountain<br>bomb<br>twenty<br>visa<br>winner<br>discover<br>scale |  
+| bip_39_word_new_br_8 | mountain<br>bomb<br>twenty<br>visa<br>winner<br>discover<br>scale<br>drastic |  
+| bip_39_word_new_br_9 | mountain<br>bomb<br>twenty<br>visa<br>winner<br>discover<br>scale<br>drastic<br>happy |  
+| bip_39_word_new_line_1 | mountain |  
+| bip_39_word_new_line_10 | mountain
 bomb
 twenty
 visa
@@ -55,7 +55,7 @@ scale
 drastic
 happy
 cheese |  
-| bip_39_word_new_line11 | mountain
+| bip_39_word_new_line_11 | mountain
 bomb
 twenty
 visa
@@ -66,7 +66,7 @@ drastic
 happy
 cheese
 inhale |  
-| bip_39_word_new_line12 | mountain
+| bip_39_word_new_line_12 | mountain
 bomb
 twenty
 visa
@@ -78,34 +78,34 @@ happy
 cheese
 inhale
 action |  
-| bip_39_word_new_line2 | mountain
+| bip_39_word_new_line_2 | mountain
 bomb |  
-| bip_39_word_new_line3 | mountain
+| bip_39_word_new_line_3 | mountain
 bomb
 twenty |  
-| bip_39_word_new_line4 | mountain
+| bip_39_word_new_line_4 | mountain
 bomb
 twenty
 visa |  
-| bip_39_word_new_line5 | mountain
+| bip_39_word_new_line_5 | mountain
 bomb
 twenty
 visa
 winner |  
-| bip_39_word_new_line6 | mountain
+| bip_39_word_new_line_6 | mountain
 bomb
 twenty
 visa
 winner
 discover |  
-| bip_39_word_new_line7 | mountain
+| bip_39_word_new_line_7 | mountain
 bomb
 twenty
 visa
 winner
 discover
 scale |  
-| bip_39_word_new_line8 | mountain
+| bip_39_word_new_line_8 | mountain
 bomb
 twenty
 visa
@@ -113,7 +113,7 @@ winner
 discover
 scale
 drastic |  
-| bip_39_word_new_line9 | mountain
+| bip_39_word_new_line_9 | mountain
 bomb
 twenty
 visa

@@ -1,16 +1,16 @@
-bip_39_word_new_br1: 'false'
-bip_39_word_new_br10: false<br>wise<br>cattle<br>over<br>industry<br>item<br>throw<br>scout<br>banner<br>true
-bip_39_word_new_br11: false<br>wise<br>cattle<br>over<br>industry<br>item<br>throw<br>scout<br>banner<br>true<br>purpose
-bip_39_word_new_br2: false<br>wise
-bip_39_word_new_br3: false<br>wise<br>cattle
-bip_39_word_new_br4: false<br>wise<br>cattle<br>over
-bip_39_word_new_br5: false<br>wise<br>cattle<br>over<br>industry
-bip_39_word_new_br6: false<br>wise<br>cattle<br>over<br>industry<br>item
-bip_39_word_new_br7: false<br>wise<br>cattle<br>over<br>industry<br>item<br>throw
-bip_39_word_new_br8: false<br>wise<br>cattle<br>over<br>industry<br>item<br>throw<br>scout
-bip_39_word_new_br9: false<br>wise<br>cattle<br>over<br>industry<br>item<br>throw<br>scout<br>banner
-bip_39_word_new_line1: 'false'
-bip_39_word_new_line10: 'false
+bip_39_word_new_br_1: 'false'
+bip_39_word_new_br_10: false<br>wise<br>cattle<br>over<br>industry<br>item<br>throw<br>scout<br>banner<br>true
+bip_39_word_new_br_11: false<br>wise<br>cattle<br>over<br>industry<br>item<br>throw<br>scout<br>banner<br>true<br>purpose
+bip_39_word_new_br_2: false<br>wise
+bip_39_word_new_br_3: false<br>wise<br>cattle
+bip_39_word_new_br_4: false<br>wise<br>cattle<br>over
+bip_39_word_new_br_5: false<br>wise<br>cattle<br>over<br>industry
+bip_39_word_new_br_6: false<br>wise<br>cattle<br>over<br>industry<br>item
+bip_39_word_new_br_7: false<br>wise<br>cattle<br>over<br>industry<br>item<br>throw
+bip_39_word_new_br_8: false<br>wise<br>cattle<br>over<br>industry<br>item<br>throw<br>scout
+bip_39_word_new_br_9: false<br>wise<br>cattle<br>over<br>industry<br>item<br>throw<br>scout<br>banner
+bip_39_word_new_line_1: 'false'
+bip_39_word_new_line_10: 'false
 
   wise
 
@@ -29,7 +29,7 @@ bip_39_word_new_line10: 'false
   banner
 
   true'
-bip_39_word_new_line11: 'false
+bip_39_word_new_line_11: 'false
 
   wise
 
@@ -50,22 +50,22 @@ bip_39_word_new_line11: 'false
   true
 
   purpose'
-bip_39_word_new_line2: 'false
+bip_39_word_new_line_2: 'false
 
   wise'
-bip_39_word_new_line3: 'false
+bip_39_word_new_line_3: 'false
 
   wise
 
   cattle'
-bip_39_word_new_line4: 'false
+bip_39_word_new_line_4: 'false
 
   wise
 
   cattle
 
   over'
-bip_39_word_new_line5: 'false
+bip_39_word_new_line_5: 'false
 
   wise
 
@@ -74,7 +74,7 @@ bip_39_word_new_line5: 'false
   over
 
   industry'
-bip_39_word_new_line6: 'false
+bip_39_word_new_line_6: 'false
 
   wise
 
@@ -85,7 +85,7 @@ bip_39_word_new_line6: 'false
   industry
 
   item'
-bip_39_word_new_line7: 'false
+bip_39_word_new_line_7: 'false
 
   wise
 
@@ -98,7 +98,7 @@ bip_39_word_new_line7: 'false
   item
 
   throw'
-bip_39_word_new_line8: 'false
+bip_39_word_new_line_8: 'false
 
   wise
 
@@ -113,7 +113,7 @@ bip_39_word_new_line8: 'false
   throw
 
   scout'
-bip_39_word_new_line9: 'false
+bip_39_word_new_line_9: 'false
 
   wise
 

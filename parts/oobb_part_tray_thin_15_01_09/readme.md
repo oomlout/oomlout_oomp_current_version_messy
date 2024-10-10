@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | worry |  
-| bip_39_word_new_br10 | worry<br>stem<br>cushion<br>forward<br>omit<br>grocery<br>seat<br>voyage<br>cost<br>old |  
-| bip_39_word_new_br11 | worry<br>stem<br>cushion<br>forward<br>omit<br>grocery<br>seat<br>voyage<br>cost<br>old<br>december |  
-| bip_39_word_new_br12 | worry<br>stem<br>cushion<br>forward<br>omit<br>grocery<br>seat<br>voyage<br>cost<br>old<br>december<br>average |  
-| bip_39_word_new_br2 | worry<br>stem |  
-| bip_39_word_new_br3 | worry<br>stem<br>cushion |  
-| bip_39_word_new_br4 | worry<br>stem<br>cushion<br>forward |  
-| bip_39_word_new_br5 | worry<br>stem<br>cushion<br>forward<br>omit |  
-| bip_39_word_new_br6 | worry<br>stem<br>cushion<br>forward<br>omit<br>grocery |  
-| bip_39_word_new_br7 | worry<br>stem<br>cushion<br>forward<br>omit<br>grocery<br>seat |  
-| bip_39_word_new_br8 | worry<br>stem<br>cushion<br>forward<br>omit<br>grocery<br>seat<br>voyage |  
-| bip_39_word_new_br9 | worry<br>stem<br>cushion<br>forward<br>omit<br>grocery<br>seat<br>voyage<br>cost |  
-| bip_39_word_new_line1 | worry |  
-| bip_39_word_new_line10 | worry
+| bip_39_word_new_br_1 | worry |  
+| bip_39_word_new_br_10 | worry<br>stem<br>cushion<br>forward<br>omit<br>grocery<br>seat<br>voyage<br>cost<br>old |  
+| bip_39_word_new_br_11 | worry<br>stem<br>cushion<br>forward<br>omit<br>grocery<br>seat<br>voyage<br>cost<br>old<br>december |  
+| bip_39_word_new_br_12 | worry<br>stem<br>cushion<br>forward<br>omit<br>grocery<br>seat<br>voyage<br>cost<br>old<br>december<br>average |  
+| bip_39_word_new_br_2 | worry<br>stem |  
+| bip_39_word_new_br_3 | worry<br>stem<br>cushion |  
+| bip_39_word_new_br_4 | worry<br>stem<br>cushion<br>forward |  
+| bip_39_word_new_br_5 | worry<br>stem<br>cushion<br>forward<br>omit |  
+| bip_39_word_new_br_6 | worry<br>stem<br>cushion<br>forward<br>omit<br>grocery |  
+| bip_39_word_new_br_7 | worry<br>stem<br>cushion<br>forward<br>omit<br>grocery<br>seat |  
+| bip_39_word_new_br_8 | worry<br>stem<br>cushion<br>forward<br>omit<br>grocery<br>seat<br>voyage |  
+| bip_39_word_new_br_9 | worry<br>stem<br>cushion<br>forward<br>omit<br>grocery<br>seat<br>voyage<br>cost |  
+| bip_39_word_new_line_1 | worry |  
+| bip_39_word_new_line_10 | worry
 stem
 cushion
 forward
@@ -55,7 +55,7 @@ seat
 voyage
 cost
 old |  
-| bip_39_word_new_line11 | worry
+| bip_39_word_new_line_11 | worry
 stem
 cushion
 forward
@@ -66,7 +66,7 @@ voyage
 cost
 old
 december |  
-| bip_39_word_new_line12 | worry
+| bip_39_word_new_line_12 | worry
 stem
 cushion
 forward
@@ -78,34 +78,34 @@ cost
 old
 december
 average |  
-| bip_39_word_new_line2 | worry
+| bip_39_word_new_line_2 | worry
 stem |  
-| bip_39_word_new_line3 | worry
+| bip_39_word_new_line_3 | worry
 stem
 cushion |  
-| bip_39_word_new_line4 | worry
+| bip_39_word_new_line_4 | worry
 stem
 cushion
 forward |  
-| bip_39_word_new_line5 | worry
+| bip_39_word_new_line_5 | worry
 stem
 cushion
 forward
 omit |  
-| bip_39_word_new_line6 | worry
+| bip_39_word_new_line_6 | worry
 stem
 cushion
 forward
 omit
 grocery |  
-| bip_39_word_new_line7 | worry
+| bip_39_word_new_line_7 | worry
 stem
 cushion
 forward
 omit
 grocery
 seat |  
-| bip_39_word_new_line8 | worry
+| bip_39_word_new_line_8 | worry
 stem
 cushion
 forward
@@ -113,7 +113,7 @@ omit
 grocery
 seat
 voyage |  
-| bip_39_word_new_line9 | worry
+| bip_39_word_new_line_9 | worry
 stem
 cushion
 forward

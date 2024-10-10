@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wolf |  
-| bip_39_word_new_br10 | wolf<br>animal<br>slam<br>recycle<br>economy<br>slam<br>diet<br>lunch<br>excite<br>trumpet |  
-| bip_39_word_new_br11 | wolf<br>animal<br>slam<br>recycle<br>economy<br>slam<br>diet<br>lunch<br>excite<br>trumpet<br>ivory |  
-| bip_39_word_new_br12 | wolf<br>animal<br>slam<br>recycle<br>economy<br>slam<br>diet<br>lunch<br>excite<br>trumpet<br>ivory<br>asset |  
-| bip_39_word_new_br2 | wolf<br>animal |  
-| bip_39_word_new_br3 | wolf<br>animal<br>slam |  
-| bip_39_word_new_br4 | wolf<br>animal<br>slam<br>recycle |  
-| bip_39_word_new_br5 | wolf<br>animal<br>slam<br>recycle<br>economy |  
-| bip_39_word_new_br6 | wolf<br>animal<br>slam<br>recycle<br>economy<br>slam |  
-| bip_39_word_new_br7 | wolf<br>animal<br>slam<br>recycle<br>economy<br>slam<br>diet |  
-| bip_39_word_new_br8 | wolf<br>animal<br>slam<br>recycle<br>economy<br>slam<br>diet<br>lunch |  
-| bip_39_word_new_br9 | wolf<br>animal<br>slam<br>recycle<br>economy<br>slam<br>diet<br>lunch<br>excite |  
-| bip_39_word_new_line1 | wolf |  
-| bip_39_word_new_line10 | wolf
+| bip_39_word_new_br_1 | wolf |  
+| bip_39_word_new_br_10 | wolf<br>animal<br>slam<br>recycle<br>economy<br>slam<br>diet<br>lunch<br>excite<br>trumpet |  
+| bip_39_word_new_br_11 | wolf<br>animal<br>slam<br>recycle<br>economy<br>slam<br>diet<br>lunch<br>excite<br>trumpet<br>ivory |  
+| bip_39_word_new_br_12 | wolf<br>animal<br>slam<br>recycle<br>economy<br>slam<br>diet<br>lunch<br>excite<br>trumpet<br>ivory<br>asset |  
+| bip_39_word_new_br_2 | wolf<br>animal |  
+| bip_39_word_new_br_3 | wolf<br>animal<br>slam |  
+| bip_39_word_new_br_4 | wolf<br>animal<br>slam<br>recycle |  
+| bip_39_word_new_br_5 | wolf<br>animal<br>slam<br>recycle<br>economy |  
+| bip_39_word_new_br_6 | wolf<br>animal<br>slam<br>recycle<br>economy<br>slam |  
+| bip_39_word_new_br_7 | wolf<br>animal<br>slam<br>recycle<br>economy<br>slam<br>diet |  
+| bip_39_word_new_br_8 | wolf<br>animal<br>slam<br>recycle<br>economy<br>slam<br>diet<br>lunch |  
+| bip_39_word_new_br_9 | wolf<br>animal<br>slam<br>recycle<br>economy<br>slam<br>diet<br>lunch<br>excite |  
+| bip_39_word_new_line_1 | wolf |  
+| bip_39_word_new_line_10 | wolf
 animal
 slam
 recycle
@@ -55,7 +55,7 @@ diet
 lunch
 excite
 trumpet |  
-| bip_39_word_new_line11 | wolf
+| bip_39_word_new_line_11 | wolf
 animal
 slam
 recycle
@@ -66,7 +66,7 @@ lunch
 excite
 trumpet
 ivory |  
-| bip_39_word_new_line12 | wolf
+| bip_39_word_new_line_12 | wolf
 animal
 slam
 recycle
@@ -78,34 +78,34 @@ excite
 trumpet
 ivory
 asset |  
-| bip_39_word_new_line2 | wolf
+| bip_39_word_new_line_2 | wolf
 animal |  
-| bip_39_word_new_line3 | wolf
+| bip_39_word_new_line_3 | wolf
 animal
 slam |  
-| bip_39_word_new_line4 | wolf
+| bip_39_word_new_line_4 | wolf
 animal
 slam
 recycle |  
-| bip_39_word_new_line5 | wolf
+| bip_39_word_new_line_5 | wolf
 animal
 slam
 recycle
 economy |  
-| bip_39_word_new_line6 | wolf
+| bip_39_word_new_line_6 | wolf
 animal
 slam
 recycle
 economy
 slam |  
-| bip_39_word_new_line7 | wolf
+| bip_39_word_new_line_7 | wolf
 animal
 slam
 recycle
 economy
 slam
 diet |  
-| bip_39_word_new_line8 | wolf
+| bip_39_word_new_line_8 | wolf
 animal
 slam
 recycle
@@ -113,7 +113,7 @@ economy
 slam
 diet
 lunch |  
-| bip_39_word_new_line9 | wolf
+| bip_39_word_new_line_9 | wolf
 animal
 slam
 recycle

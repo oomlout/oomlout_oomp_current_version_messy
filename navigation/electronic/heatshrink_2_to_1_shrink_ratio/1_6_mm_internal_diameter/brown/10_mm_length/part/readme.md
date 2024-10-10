@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wife |  
-| bip_39_word_new_br10 | wife<br>beauty<br>innocent<br>joke<br>coil<br>seminar<br>run<br>come<br>coconut<br>wealth |  
-| bip_39_word_new_br11 | wife<br>beauty<br>innocent<br>joke<br>coil<br>seminar<br>run<br>come<br>coconut<br>wealth<br>build |  
-| bip_39_word_new_br12 | wife<br>beauty<br>innocent<br>joke<br>coil<br>seminar<br>run<br>come<br>coconut<br>wealth<br>build<br>affair |  
-| bip_39_word_new_br2 | wife<br>beauty |  
-| bip_39_word_new_br3 | wife<br>beauty<br>innocent |  
-| bip_39_word_new_br4 | wife<br>beauty<br>innocent<br>joke |  
-| bip_39_word_new_br5 | wife<br>beauty<br>innocent<br>joke<br>coil |  
-| bip_39_word_new_br6 | wife<br>beauty<br>innocent<br>joke<br>coil<br>seminar |  
-| bip_39_word_new_br7 | wife<br>beauty<br>innocent<br>joke<br>coil<br>seminar<br>run |  
-| bip_39_word_new_br8 | wife<br>beauty<br>innocent<br>joke<br>coil<br>seminar<br>run<br>come |  
-| bip_39_word_new_br9 | wife<br>beauty<br>innocent<br>joke<br>coil<br>seminar<br>run<br>come<br>coconut |  
-| bip_39_word_new_line1 | wife |  
-| bip_39_word_new_line10 | wife
+| bip_39_word_new_br_1 | wife |  
+| bip_39_word_new_br_10 | wife<br>beauty<br>innocent<br>joke<br>coil<br>seminar<br>run<br>come<br>coconut<br>wealth |  
+| bip_39_word_new_br_11 | wife<br>beauty<br>innocent<br>joke<br>coil<br>seminar<br>run<br>come<br>coconut<br>wealth<br>build |  
+| bip_39_word_new_br_12 | wife<br>beauty<br>innocent<br>joke<br>coil<br>seminar<br>run<br>come<br>coconut<br>wealth<br>build<br>affair |  
+| bip_39_word_new_br_2 | wife<br>beauty |  
+| bip_39_word_new_br_3 | wife<br>beauty<br>innocent |  
+| bip_39_word_new_br_4 | wife<br>beauty<br>innocent<br>joke |  
+| bip_39_word_new_br_5 | wife<br>beauty<br>innocent<br>joke<br>coil |  
+| bip_39_word_new_br_6 | wife<br>beauty<br>innocent<br>joke<br>coil<br>seminar |  
+| bip_39_word_new_br_7 | wife<br>beauty<br>innocent<br>joke<br>coil<br>seminar<br>run |  
+| bip_39_word_new_br_8 | wife<br>beauty<br>innocent<br>joke<br>coil<br>seminar<br>run<br>come |  
+| bip_39_word_new_br_9 | wife<br>beauty<br>innocent<br>joke<br>coil<br>seminar<br>run<br>come<br>coconut |  
+| bip_39_word_new_line_1 | wife |  
+| bip_39_word_new_line_10 | wife
 beauty
 innocent
 joke
@@ -55,7 +55,7 @@ run
 come
 coconut
 wealth |  
-| bip_39_word_new_line11 | wife
+| bip_39_word_new_line_11 | wife
 beauty
 innocent
 joke
@@ -66,7 +66,7 @@ come
 coconut
 wealth
 build |  
-| bip_39_word_new_line12 | wife
+| bip_39_word_new_line_12 | wife
 beauty
 innocent
 joke
@@ -78,34 +78,34 @@ coconut
 wealth
 build
 affair |  
-| bip_39_word_new_line2 | wife
+| bip_39_word_new_line_2 | wife
 beauty |  
-| bip_39_word_new_line3 | wife
+| bip_39_word_new_line_3 | wife
 beauty
 innocent |  
-| bip_39_word_new_line4 | wife
+| bip_39_word_new_line_4 | wife
 beauty
 innocent
 joke |  
-| bip_39_word_new_line5 | wife
+| bip_39_word_new_line_5 | wife
 beauty
 innocent
 joke
 coil |  
-| bip_39_word_new_line6 | wife
+| bip_39_word_new_line_6 | wife
 beauty
 innocent
 joke
 coil
 seminar |  
-| bip_39_word_new_line7 | wife
+| bip_39_word_new_line_7 | wife
 beauty
 innocent
 joke
 coil
 seminar
 run |  
-| bip_39_word_new_line8 | wife
+| bip_39_word_new_line_8 | wife
 beauty
 innocent
 joke
@@ -113,7 +113,7 @@ coil
 seminar
 run
 come |  
-| bip_39_word_new_line9 | wife
+| bip_39_word_new_line_9 | wife
 beauty
 innocent
 joke

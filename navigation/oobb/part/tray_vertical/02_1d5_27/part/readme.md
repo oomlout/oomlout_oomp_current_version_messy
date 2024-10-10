@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fortune |  
-| bip_39_word_new_br10 | fortune<br>flower<br>hub<br>car<br>duty<br>park<br>tiger<br>embrace<br>slice<br>choose |  
-| bip_39_word_new_br11 | fortune<br>flower<br>hub<br>car<br>duty<br>park<br>tiger<br>embrace<br>slice<br>choose<br>subject |  
-| bip_39_word_new_br12 | fortune<br>flower<br>hub<br>car<br>duty<br>park<br>tiger<br>embrace<br>slice<br>choose<br>subject<br>amount |  
-| bip_39_word_new_br2 | fortune<br>flower |  
-| bip_39_word_new_br3 | fortune<br>flower<br>hub |  
-| bip_39_word_new_br4 | fortune<br>flower<br>hub<br>car |  
-| bip_39_word_new_br5 | fortune<br>flower<br>hub<br>car<br>duty |  
-| bip_39_word_new_br6 | fortune<br>flower<br>hub<br>car<br>duty<br>park |  
-| bip_39_word_new_br7 | fortune<br>flower<br>hub<br>car<br>duty<br>park<br>tiger |  
-| bip_39_word_new_br8 | fortune<br>flower<br>hub<br>car<br>duty<br>park<br>tiger<br>embrace |  
-| bip_39_word_new_br9 | fortune<br>flower<br>hub<br>car<br>duty<br>park<br>tiger<br>embrace<br>slice |  
-| bip_39_word_new_line1 | fortune |  
-| bip_39_word_new_line10 | fortune
+| bip_39_word_new_br_1 | fortune |  
+| bip_39_word_new_br_10 | fortune<br>flower<br>hub<br>car<br>duty<br>park<br>tiger<br>embrace<br>slice<br>choose |  
+| bip_39_word_new_br_11 | fortune<br>flower<br>hub<br>car<br>duty<br>park<br>tiger<br>embrace<br>slice<br>choose<br>subject |  
+| bip_39_word_new_br_12 | fortune<br>flower<br>hub<br>car<br>duty<br>park<br>tiger<br>embrace<br>slice<br>choose<br>subject<br>amount |  
+| bip_39_word_new_br_2 | fortune<br>flower |  
+| bip_39_word_new_br_3 | fortune<br>flower<br>hub |  
+| bip_39_word_new_br_4 | fortune<br>flower<br>hub<br>car |  
+| bip_39_word_new_br_5 | fortune<br>flower<br>hub<br>car<br>duty |  
+| bip_39_word_new_br_6 | fortune<br>flower<br>hub<br>car<br>duty<br>park |  
+| bip_39_word_new_br_7 | fortune<br>flower<br>hub<br>car<br>duty<br>park<br>tiger |  
+| bip_39_word_new_br_8 | fortune<br>flower<br>hub<br>car<br>duty<br>park<br>tiger<br>embrace |  
+| bip_39_word_new_br_9 | fortune<br>flower<br>hub<br>car<br>duty<br>park<br>tiger<br>embrace<br>slice |  
+| bip_39_word_new_line_1 | fortune |  
+| bip_39_word_new_line_10 | fortune
 flower
 hub
 car
@@ -55,7 +55,7 @@ tiger
 embrace
 slice
 choose |  
-| bip_39_word_new_line11 | fortune
+| bip_39_word_new_line_11 | fortune
 flower
 hub
 car
@@ -66,7 +66,7 @@ embrace
 slice
 choose
 subject |  
-| bip_39_word_new_line12 | fortune
+| bip_39_word_new_line_12 | fortune
 flower
 hub
 car
@@ -78,34 +78,34 @@ slice
 choose
 subject
 amount |  
-| bip_39_word_new_line2 | fortune
+| bip_39_word_new_line_2 | fortune
 flower |  
-| bip_39_word_new_line3 | fortune
+| bip_39_word_new_line_3 | fortune
 flower
 hub |  
-| bip_39_word_new_line4 | fortune
+| bip_39_word_new_line_4 | fortune
 flower
 hub
 car |  
-| bip_39_word_new_line5 | fortune
+| bip_39_word_new_line_5 | fortune
 flower
 hub
 car
 duty |  
-| bip_39_word_new_line6 | fortune
+| bip_39_word_new_line_6 | fortune
 flower
 hub
 car
 duty
 park |  
-| bip_39_word_new_line7 | fortune
+| bip_39_word_new_line_7 | fortune
 flower
 hub
 car
 duty
 park
 tiger |  
-| bip_39_word_new_line8 | fortune
+| bip_39_word_new_line_8 | fortune
 flower
 hub
 car
@@ -113,7 +113,7 @@ duty
 park
 tiger
 embrace |  
-| bip_39_word_new_line9 | fortune
+| bip_39_word_new_line_9 | fortune
 flower
 hub
 car

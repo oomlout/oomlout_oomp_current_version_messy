@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sniff |  
-| bip_39_word_new_br10 | sniff<br>maple<br>solar<br>helmet<br>good<br>note<br>lucky<br>umbrella<br>boss<br>jar |  
-| bip_39_word_new_br11 | sniff<br>maple<br>solar<br>helmet<br>good<br>note<br>lucky<br>umbrella<br>boss<br>jar<br>update |  
-| bip_39_word_new_br12 | sniff<br>maple<br>solar<br>helmet<br>good<br>note<br>lucky<br>umbrella<br>boss<br>jar<br>update<br>action |  
-| bip_39_word_new_br2 | sniff<br>maple |  
-| bip_39_word_new_br3 | sniff<br>maple<br>solar |  
-| bip_39_word_new_br4 | sniff<br>maple<br>solar<br>helmet |  
-| bip_39_word_new_br5 | sniff<br>maple<br>solar<br>helmet<br>good |  
-| bip_39_word_new_br6 | sniff<br>maple<br>solar<br>helmet<br>good<br>note |  
-| bip_39_word_new_br7 | sniff<br>maple<br>solar<br>helmet<br>good<br>note<br>lucky |  
-| bip_39_word_new_br8 | sniff<br>maple<br>solar<br>helmet<br>good<br>note<br>lucky<br>umbrella |  
-| bip_39_word_new_br9 | sniff<br>maple<br>solar<br>helmet<br>good<br>note<br>lucky<br>umbrella<br>boss |  
-| bip_39_word_new_line1 | sniff |  
-| bip_39_word_new_line10 | sniff
+| bip_39_word_new_br_1 | sniff |  
+| bip_39_word_new_br_10 | sniff<br>maple<br>solar<br>helmet<br>good<br>note<br>lucky<br>umbrella<br>boss<br>jar |  
+| bip_39_word_new_br_11 | sniff<br>maple<br>solar<br>helmet<br>good<br>note<br>lucky<br>umbrella<br>boss<br>jar<br>update |  
+| bip_39_word_new_br_12 | sniff<br>maple<br>solar<br>helmet<br>good<br>note<br>lucky<br>umbrella<br>boss<br>jar<br>update<br>action |  
+| bip_39_word_new_br_2 | sniff<br>maple |  
+| bip_39_word_new_br_3 | sniff<br>maple<br>solar |  
+| bip_39_word_new_br_4 | sniff<br>maple<br>solar<br>helmet |  
+| bip_39_word_new_br_5 | sniff<br>maple<br>solar<br>helmet<br>good |  
+| bip_39_word_new_br_6 | sniff<br>maple<br>solar<br>helmet<br>good<br>note |  
+| bip_39_word_new_br_7 | sniff<br>maple<br>solar<br>helmet<br>good<br>note<br>lucky |  
+| bip_39_word_new_br_8 | sniff<br>maple<br>solar<br>helmet<br>good<br>note<br>lucky<br>umbrella |  
+| bip_39_word_new_br_9 | sniff<br>maple<br>solar<br>helmet<br>good<br>note<br>lucky<br>umbrella<br>boss |  
+| bip_39_word_new_line_1 | sniff |  
+| bip_39_word_new_line_10 | sniff
 maple
 solar
 helmet
@@ -55,7 +55,7 @@ lucky
 umbrella
 boss
 jar |  
-| bip_39_word_new_line11 | sniff
+| bip_39_word_new_line_11 | sniff
 maple
 solar
 helmet
@@ -66,7 +66,7 @@ umbrella
 boss
 jar
 update |  
-| bip_39_word_new_line12 | sniff
+| bip_39_word_new_line_12 | sniff
 maple
 solar
 helmet
@@ -78,34 +78,34 @@ boss
 jar
 update
 action |  
-| bip_39_word_new_line2 | sniff
+| bip_39_word_new_line_2 | sniff
 maple |  
-| bip_39_word_new_line3 | sniff
+| bip_39_word_new_line_3 | sniff
 maple
 solar |  
-| bip_39_word_new_line4 | sniff
+| bip_39_word_new_line_4 | sniff
 maple
 solar
 helmet |  
-| bip_39_word_new_line5 | sniff
+| bip_39_word_new_line_5 | sniff
 maple
 solar
 helmet
 good |  
-| bip_39_word_new_line6 | sniff
+| bip_39_word_new_line_6 | sniff
 maple
 solar
 helmet
 good
 note |  
-| bip_39_word_new_line7 | sniff
+| bip_39_word_new_line_7 | sniff
 maple
 solar
 helmet
 good
 note
 lucky |  
-| bip_39_word_new_line8 | sniff
+| bip_39_word_new_line_8 | sniff
 maple
 solar
 helmet
@@ -113,7 +113,7 @@ good
 note
 lucky
 umbrella |  
-| bip_39_word_new_line9 | sniff
+| bip_39_word_new_line_9 | sniff
 maple
 solar
 helmet

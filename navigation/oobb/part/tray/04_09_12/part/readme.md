@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cigar |  
-| bip_39_word_new_br10 | cigar<br>fox<br>wall<br>quit<br>zebra<br>humble<br>extend<br>mansion<br>mystery<br>evoke |  
-| bip_39_word_new_br11 | cigar<br>fox<br>wall<br>quit<br>zebra<br>humble<br>extend<br>mansion<br>mystery<br>evoke<br>segment |  
-| bip_39_word_new_br12 | cigar<br>fox<br>wall<br>quit<br>zebra<br>humble<br>extend<br>mansion<br>mystery<br>evoke<br>segment<br>atom |  
-| bip_39_word_new_br2 | cigar<br>fox |  
-| bip_39_word_new_br3 | cigar<br>fox<br>wall |  
-| bip_39_word_new_br4 | cigar<br>fox<br>wall<br>quit |  
-| bip_39_word_new_br5 | cigar<br>fox<br>wall<br>quit<br>zebra |  
-| bip_39_word_new_br6 | cigar<br>fox<br>wall<br>quit<br>zebra<br>humble |  
-| bip_39_word_new_br7 | cigar<br>fox<br>wall<br>quit<br>zebra<br>humble<br>extend |  
-| bip_39_word_new_br8 | cigar<br>fox<br>wall<br>quit<br>zebra<br>humble<br>extend<br>mansion |  
-| bip_39_word_new_br9 | cigar<br>fox<br>wall<br>quit<br>zebra<br>humble<br>extend<br>mansion<br>mystery |  
-| bip_39_word_new_line1 | cigar |  
-| bip_39_word_new_line10 | cigar
+| bip_39_word_new_br_1 | cigar |  
+| bip_39_word_new_br_10 | cigar<br>fox<br>wall<br>quit<br>zebra<br>humble<br>extend<br>mansion<br>mystery<br>evoke |  
+| bip_39_word_new_br_11 | cigar<br>fox<br>wall<br>quit<br>zebra<br>humble<br>extend<br>mansion<br>mystery<br>evoke<br>segment |  
+| bip_39_word_new_br_12 | cigar<br>fox<br>wall<br>quit<br>zebra<br>humble<br>extend<br>mansion<br>mystery<br>evoke<br>segment<br>atom |  
+| bip_39_word_new_br_2 | cigar<br>fox |  
+| bip_39_word_new_br_3 | cigar<br>fox<br>wall |  
+| bip_39_word_new_br_4 | cigar<br>fox<br>wall<br>quit |  
+| bip_39_word_new_br_5 | cigar<br>fox<br>wall<br>quit<br>zebra |  
+| bip_39_word_new_br_6 | cigar<br>fox<br>wall<br>quit<br>zebra<br>humble |  
+| bip_39_word_new_br_7 | cigar<br>fox<br>wall<br>quit<br>zebra<br>humble<br>extend |  
+| bip_39_word_new_br_8 | cigar<br>fox<br>wall<br>quit<br>zebra<br>humble<br>extend<br>mansion |  
+| bip_39_word_new_br_9 | cigar<br>fox<br>wall<br>quit<br>zebra<br>humble<br>extend<br>mansion<br>mystery |  
+| bip_39_word_new_line_1 | cigar |  
+| bip_39_word_new_line_10 | cigar
 fox
 wall
 quit
@@ -55,7 +55,7 @@ extend
 mansion
 mystery
 evoke |  
-| bip_39_word_new_line11 | cigar
+| bip_39_word_new_line_11 | cigar
 fox
 wall
 quit
@@ -66,7 +66,7 @@ mansion
 mystery
 evoke
 segment |  
-| bip_39_word_new_line12 | cigar
+| bip_39_word_new_line_12 | cigar
 fox
 wall
 quit
@@ -78,34 +78,34 @@ mystery
 evoke
 segment
 atom |  
-| bip_39_word_new_line2 | cigar
+| bip_39_word_new_line_2 | cigar
 fox |  
-| bip_39_word_new_line3 | cigar
+| bip_39_word_new_line_3 | cigar
 fox
 wall |  
-| bip_39_word_new_line4 | cigar
+| bip_39_word_new_line_4 | cigar
 fox
 wall
 quit |  
-| bip_39_word_new_line5 | cigar
+| bip_39_word_new_line_5 | cigar
 fox
 wall
 quit
 zebra |  
-| bip_39_word_new_line6 | cigar
+| bip_39_word_new_line_6 | cigar
 fox
 wall
 quit
 zebra
 humble |  
-| bip_39_word_new_line7 | cigar
+| bip_39_word_new_line_7 | cigar
 fox
 wall
 quit
 zebra
 humble
 extend |  
-| bip_39_word_new_line8 | cigar
+| bip_39_word_new_line_8 | cigar
 fox
 wall
 quit
@@ -113,7 +113,7 @@ zebra
 humble
 extend
 mansion |  
-| bip_39_word_new_line9 | cigar
+| bip_39_word_new_line_9 | cigar
 fox
 wall
 quit

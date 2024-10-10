@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | knife |  
-| bip_39_word_new_br10 | knife<br>cost<br>monster<br>wreck<br>purse<br>fetch<br>green<br>question<br>orange<br>settle |  
-| bip_39_word_new_br11 | knife<br>cost<br>monster<br>wreck<br>purse<br>fetch<br>green<br>question<br>orange<br>settle<br>meat |  
-| bip_39_word_new_br12 | knife<br>cost<br>monster<br>wreck<br>purse<br>fetch<br>green<br>question<br>orange<br>settle<br>meat<br>above |  
-| bip_39_word_new_br2 | knife<br>cost |  
-| bip_39_word_new_br3 | knife<br>cost<br>monster |  
-| bip_39_word_new_br4 | knife<br>cost<br>monster<br>wreck |  
-| bip_39_word_new_br5 | knife<br>cost<br>monster<br>wreck<br>purse |  
-| bip_39_word_new_br6 | knife<br>cost<br>monster<br>wreck<br>purse<br>fetch |  
-| bip_39_word_new_br7 | knife<br>cost<br>monster<br>wreck<br>purse<br>fetch<br>green |  
-| bip_39_word_new_br8 | knife<br>cost<br>monster<br>wreck<br>purse<br>fetch<br>green<br>question |  
-| bip_39_word_new_br9 | knife<br>cost<br>monster<br>wreck<br>purse<br>fetch<br>green<br>question<br>orange |  
-| bip_39_word_new_line1 | knife |  
-| bip_39_word_new_line10 | knife
+| bip_39_word_new_br_1 | knife |  
+| bip_39_word_new_br_10 | knife<br>cost<br>monster<br>wreck<br>purse<br>fetch<br>green<br>question<br>orange<br>settle |  
+| bip_39_word_new_br_11 | knife<br>cost<br>monster<br>wreck<br>purse<br>fetch<br>green<br>question<br>orange<br>settle<br>meat |  
+| bip_39_word_new_br_12 | knife<br>cost<br>monster<br>wreck<br>purse<br>fetch<br>green<br>question<br>orange<br>settle<br>meat<br>above |  
+| bip_39_word_new_br_2 | knife<br>cost |  
+| bip_39_word_new_br_3 | knife<br>cost<br>monster |  
+| bip_39_word_new_br_4 | knife<br>cost<br>monster<br>wreck |  
+| bip_39_word_new_br_5 | knife<br>cost<br>monster<br>wreck<br>purse |  
+| bip_39_word_new_br_6 | knife<br>cost<br>monster<br>wreck<br>purse<br>fetch |  
+| bip_39_word_new_br_7 | knife<br>cost<br>monster<br>wreck<br>purse<br>fetch<br>green |  
+| bip_39_word_new_br_8 | knife<br>cost<br>monster<br>wreck<br>purse<br>fetch<br>green<br>question |  
+| bip_39_word_new_br_9 | knife<br>cost<br>monster<br>wreck<br>purse<br>fetch<br>green<br>question<br>orange |  
+| bip_39_word_new_line_1 | knife |  
+| bip_39_word_new_line_10 | knife
 cost
 monster
 wreck
@@ -55,7 +55,7 @@ green
 question
 orange
 settle |  
-| bip_39_word_new_line11 | knife
+| bip_39_word_new_line_11 | knife
 cost
 monster
 wreck
@@ -66,7 +66,7 @@ question
 orange
 settle
 meat |  
-| bip_39_word_new_line12 | knife
+| bip_39_word_new_line_12 | knife
 cost
 monster
 wreck
@@ -78,34 +78,34 @@ orange
 settle
 meat
 above |  
-| bip_39_word_new_line2 | knife
+| bip_39_word_new_line_2 | knife
 cost |  
-| bip_39_word_new_line3 | knife
+| bip_39_word_new_line_3 | knife
 cost
 monster |  
-| bip_39_word_new_line4 | knife
+| bip_39_word_new_line_4 | knife
 cost
 monster
 wreck |  
-| bip_39_word_new_line5 | knife
+| bip_39_word_new_line_5 | knife
 cost
 monster
 wreck
 purse |  
-| bip_39_word_new_line6 | knife
+| bip_39_word_new_line_6 | knife
 cost
 monster
 wreck
 purse
 fetch |  
-| bip_39_word_new_line7 | knife
+| bip_39_word_new_line_7 | knife
 cost
 monster
 wreck
 purse
 fetch
 green |  
-| bip_39_word_new_line8 | knife
+| bip_39_word_new_line_8 | knife
 cost
 monster
 wreck
@@ -113,7 +113,7 @@ purse
 fetch
 green
 question |  
-| bip_39_word_new_line9 | knife
+| bip_39_word_new_line_9 | knife
 cost
 monster
 wreck

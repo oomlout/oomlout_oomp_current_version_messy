@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | burst |  
-| bip_39_word_new_br10 | burst<br>goddess<br>junk<br>fee<br>spike<br>nuclear<br>behave<br>jungle<br>panel<br>fuel |  
-| bip_39_word_new_br11 | burst<br>goddess<br>junk<br>fee<br>spike<br>nuclear<br>behave<br>jungle<br>panel<br>fuel<br>depart |  
-| bip_39_word_new_br12 | burst<br>goddess<br>junk<br>fee<br>spike<br>nuclear<br>behave<br>jungle<br>panel<br>fuel<br>depart<br>admit |  
-| bip_39_word_new_br2 | burst<br>goddess |  
-| bip_39_word_new_br3 | burst<br>goddess<br>junk |  
-| bip_39_word_new_br4 | burst<br>goddess<br>junk<br>fee |  
-| bip_39_word_new_br5 | burst<br>goddess<br>junk<br>fee<br>spike |  
-| bip_39_word_new_br6 | burst<br>goddess<br>junk<br>fee<br>spike<br>nuclear |  
-| bip_39_word_new_br7 | burst<br>goddess<br>junk<br>fee<br>spike<br>nuclear<br>behave |  
-| bip_39_word_new_br8 | burst<br>goddess<br>junk<br>fee<br>spike<br>nuclear<br>behave<br>jungle |  
-| bip_39_word_new_br9 | burst<br>goddess<br>junk<br>fee<br>spike<br>nuclear<br>behave<br>jungle<br>panel |  
-| bip_39_word_new_line1 | burst |  
-| bip_39_word_new_line10 | burst
+| bip_39_word_new_br_1 | burst |  
+| bip_39_word_new_br_10 | burst<br>goddess<br>junk<br>fee<br>spike<br>nuclear<br>behave<br>jungle<br>panel<br>fuel |  
+| bip_39_word_new_br_11 | burst<br>goddess<br>junk<br>fee<br>spike<br>nuclear<br>behave<br>jungle<br>panel<br>fuel<br>depart |  
+| bip_39_word_new_br_12 | burst<br>goddess<br>junk<br>fee<br>spike<br>nuclear<br>behave<br>jungle<br>panel<br>fuel<br>depart<br>admit |  
+| bip_39_word_new_br_2 | burst<br>goddess |  
+| bip_39_word_new_br_3 | burst<br>goddess<br>junk |  
+| bip_39_word_new_br_4 | burst<br>goddess<br>junk<br>fee |  
+| bip_39_word_new_br_5 | burst<br>goddess<br>junk<br>fee<br>spike |  
+| bip_39_word_new_br_6 | burst<br>goddess<br>junk<br>fee<br>spike<br>nuclear |  
+| bip_39_word_new_br_7 | burst<br>goddess<br>junk<br>fee<br>spike<br>nuclear<br>behave |  
+| bip_39_word_new_br_8 | burst<br>goddess<br>junk<br>fee<br>spike<br>nuclear<br>behave<br>jungle |  
+| bip_39_word_new_br_9 | burst<br>goddess<br>junk<br>fee<br>spike<br>nuclear<br>behave<br>jungle<br>panel |  
+| bip_39_word_new_line_1 | burst |  
+| bip_39_word_new_line_10 | burst
 goddess
 junk
 fee
@@ -55,7 +55,7 @@ behave
 jungle
 panel
 fuel |  
-| bip_39_word_new_line11 | burst
+| bip_39_word_new_line_11 | burst
 goddess
 junk
 fee
@@ -66,7 +66,7 @@ jungle
 panel
 fuel
 depart |  
-| bip_39_word_new_line12 | burst
+| bip_39_word_new_line_12 | burst
 goddess
 junk
 fee
@@ -78,34 +78,34 @@ panel
 fuel
 depart
 admit |  
-| bip_39_word_new_line2 | burst
+| bip_39_word_new_line_2 | burst
 goddess |  
-| bip_39_word_new_line3 | burst
+| bip_39_word_new_line_3 | burst
 goddess
 junk |  
-| bip_39_word_new_line4 | burst
+| bip_39_word_new_line_4 | burst
 goddess
 junk
 fee |  
-| bip_39_word_new_line5 | burst
+| bip_39_word_new_line_5 | burst
 goddess
 junk
 fee
 spike |  
-| bip_39_word_new_line6 | burst
+| bip_39_word_new_line_6 | burst
 goddess
 junk
 fee
 spike
 nuclear |  
-| bip_39_word_new_line7 | burst
+| bip_39_word_new_line_7 | burst
 goddess
 junk
 fee
 spike
 nuclear
 behave |  
-| bip_39_word_new_line8 | burst
+| bip_39_word_new_line_8 | burst
 goddess
 junk
 fee
@@ -113,7 +113,7 @@ spike
 nuclear
 behave
 jungle |  
-| bip_39_word_new_line9 | burst
+| bip_39_word_new_line_9 | burst
 goddess
 junk
 fee

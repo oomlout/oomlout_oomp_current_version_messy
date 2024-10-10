@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mouse |  
-| bip_39_word_new_br10 | mouse<br>staff<br>split<br>pole<br>loop<br>culture<br>oak<br>old<br>vicious<br>rigid |  
-| bip_39_word_new_br11 | mouse<br>staff<br>split<br>pole<br>loop<br>culture<br>oak<br>old<br>vicious<br>rigid<br>lunar |  
-| bip_39_word_new_br12 | mouse<br>staff<br>split<br>pole<br>loop<br>culture<br>oak<br>old<br>vicious<br>rigid<br>lunar<br>addict |  
-| bip_39_word_new_br2 | mouse<br>staff |  
-| bip_39_word_new_br3 | mouse<br>staff<br>split |  
-| bip_39_word_new_br4 | mouse<br>staff<br>split<br>pole |  
-| bip_39_word_new_br5 | mouse<br>staff<br>split<br>pole<br>loop |  
-| bip_39_word_new_br6 | mouse<br>staff<br>split<br>pole<br>loop<br>culture |  
-| bip_39_word_new_br7 | mouse<br>staff<br>split<br>pole<br>loop<br>culture<br>oak |  
-| bip_39_word_new_br8 | mouse<br>staff<br>split<br>pole<br>loop<br>culture<br>oak<br>old |  
-| bip_39_word_new_br9 | mouse<br>staff<br>split<br>pole<br>loop<br>culture<br>oak<br>old<br>vicious |  
-| bip_39_word_new_line1 | mouse |  
-| bip_39_word_new_line10 | mouse
+| bip_39_word_new_br_1 | mouse |  
+| bip_39_word_new_br_10 | mouse<br>staff<br>split<br>pole<br>loop<br>culture<br>oak<br>old<br>vicious<br>rigid |  
+| bip_39_word_new_br_11 | mouse<br>staff<br>split<br>pole<br>loop<br>culture<br>oak<br>old<br>vicious<br>rigid<br>lunar |  
+| bip_39_word_new_br_12 | mouse<br>staff<br>split<br>pole<br>loop<br>culture<br>oak<br>old<br>vicious<br>rigid<br>lunar<br>addict |  
+| bip_39_word_new_br_2 | mouse<br>staff |  
+| bip_39_word_new_br_3 | mouse<br>staff<br>split |  
+| bip_39_word_new_br_4 | mouse<br>staff<br>split<br>pole |  
+| bip_39_word_new_br_5 | mouse<br>staff<br>split<br>pole<br>loop |  
+| bip_39_word_new_br_6 | mouse<br>staff<br>split<br>pole<br>loop<br>culture |  
+| bip_39_word_new_br_7 | mouse<br>staff<br>split<br>pole<br>loop<br>culture<br>oak |  
+| bip_39_word_new_br_8 | mouse<br>staff<br>split<br>pole<br>loop<br>culture<br>oak<br>old |  
+| bip_39_word_new_br_9 | mouse<br>staff<br>split<br>pole<br>loop<br>culture<br>oak<br>old<br>vicious |  
+| bip_39_word_new_line_1 | mouse |  
+| bip_39_word_new_line_10 | mouse
 staff
 split
 pole
@@ -55,7 +55,7 @@ oak
 old
 vicious
 rigid |  
-| bip_39_word_new_line11 | mouse
+| bip_39_word_new_line_11 | mouse
 staff
 split
 pole
@@ -66,7 +66,7 @@ old
 vicious
 rigid
 lunar |  
-| bip_39_word_new_line12 | mouse
+| bip_39_word_new_line_12 | mouse
 staff
 split
 pole
@@ -78,34 +78,34 @@ vicious
 rigid
 lunar
 addict |  
-| bip_39_word_new_line2 | mouse
+| bip_39_word_new_line_2 | mouse
 staff |  
-| bip_39_word_new_line3 | mouse
+| bip_39_word_new_line_3 | mouse
 staff
 split |  
-| bip_39_word_new_line4 | mouse
+| bip_39_word_new_line_4 | mouse
 staff
 split
 pole |  
-| bip_39_word_new_line5 | mouse
+| bip_39_word_new_line_5 | mouse
 staff
 split
 pole
 loop |  
-| bip_39_word_new_line6 | mouse
+| bip_39_word_new_line_6 | mouse
 staff
 split
 pole
 loop
 culture |  
-| bip_39_word_new_line7 | mouse
+| bip_39_word_new_line_7 | mouse
 staff
 split
 pole
 loop
 culture
 oak |  
-| bip_39_word_new_line8 | mouse
+| bip_39_word_new_line_8 | mouse
 staff
 split
 pole
@@ -113,7 +113,7 @@ loop
 culture
 oak
 old |  
-| bip_39_word_new_line9 | mouse
+| bip_39_word_new_line_9 | mouse
 staff
 split
 pole

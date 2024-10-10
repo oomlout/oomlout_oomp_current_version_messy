@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sport |  
-| bip_39_word_new_br10 | sport<br>father<br>merge<br>annual<br>alter<br>spider<br>reason<br>almost<br>payment<br>easily |  
-| bip_39_word_new_br11 | sport<br>father<br>merge<br>annual<br>alter<br>spider<br>reason<br>almost<br>payment<br>easily<br>absurd |  
-| bip_39_word_new_br12 | sport<br>father<br>merge<br>annual<br>alter<br>spider<br>reason<br>almost<br>payment<br>easily<br>absurd<br>again |  
-| bip_39_word_new_br2 | sport<br>father |  
-| bip_39_word_new_br3 | sport<br>father<br>merge |  
-| bip_39_word_new_br4 | sport<br>father<br>merge<br>annual |  
-| bip_39_word_new_br5 | sport<br>father<br>merge<br>annual<br>alter |  
-| bip_39_word_new_br6 | sport<br>father<br>merge<br>annual<br>alter<br>spider |  
-| bip_39_word_new_br7 | sport<br>father<br>merge<br>annual<br>alter<br>spider<br>reason |  
-| bip_39_word_new_br8 | sport<br>father<br>merge<br>annual<br>alter<br>spider<br>reason<br>almost |  
-| bip_39_word_new_br9 | sport<br>father<br>merge<br>annual<br>alter<br>spider<br>reason<br>almost<br>payment |  
-| bip_39_word_new_line1 | sport |  
-| bip_39_word_new_line10 | sport
+| bip_39_word_new_br_1 | sport |  
+| bip_39_word_new_br_10 | sport<br>father<br>merge<br>annual<br>alter<br>spider<br>reason<br>almost<br>payment<br>easily |  
+| bip_39_word_new_br_11 | sport<br>father<br>merge<br>annual<br>alter<br>spider<br>reason<br>almost<br>payment<br>easily<br>absurd |  
+| bip_39_word_new_br_12 | sport<br>father<br>merge<br>annual<br>alter<br>spider<br>reason<br>almost<br>payment<br>easily<br>absurd<br>again |  
+| bip_39_word_new_br_2 | sport<br>father |  
+| bip_39_word_new_br_3 | sport<br>father<br>merge |  
+| bip_39_word_new_br_4 | sport<br>father<br>merge<br>annual |  
+| bip_39_word_new_br_5 | sport<br>father<br>merge<br>annual<br>alter |  
+| bip_39_word_new_br_6 | sport<br>father<br>merge<br>annual<br>alter<br>spider |  
+| bip_39_word_new_br_7 | sport<br>father<br>merge<br>annual<br>alter<br>spider<br>reason |  
+| bip_39_word_new_br_8 | sport<br>father<br>merge<br>annual<br>alter<br>spider<br>reason<br>almost |  
+| bip_39_word_new_br_9 | sport<br>father<br>merge<br>annual<br>alter<br>spider<br>reason<br>almost<br>payment |  
+| bip_39_word_new_line_1 | sport |  
+| bip_39_word_new_line_10 | sport
 father
 merge
 annual
@@ -55,7 +55,7 @@ reason
 almost
 payment
 easily |  
-| bip_39_word_new_line11 | sport
+| bip_39_word_new_line_11 | sport
 father
 merge
 annual
@@ -66,7 +66,7 @@ almost
 payment
 easily
 absurd |  
-| bip_39_word_new_line12 | sport
+| bip_39_word_new_line_12 | sport
 father
 merge
 annual
@@ -78,34 +78,34 @@ payment
 easily
 absurd
 again |  
-| bip_39_word_new_line2 | sport
+| bip_39_word_new_line_2 | sport
 father |  
-| bip_39_word_new_line3 | sport
+| bip_39_word_new_line_3 | sport
 father
 merge |  
-| bip_39_word_new_line4 | sport
+| bip_39_word_new_line_4 | sport
 father
 merge
 annual |  
-| bip_39_word_new_line5 | sport
+| bip_39_word_new_line_5 | sport
 father
 merge
 annual
 alter |  
-| bip_39_word_new_line6 | sport
+| bip_39_word_new_line_6 | sport
 father
 merge
 annual
 alter
 spider |  
-| bip_39_word_new_line7 | sport
+| bip_39_word_new_line_7 | sport
 father
 merge
 annual
 alter
 spider
 reason |  
-| bip_39_word_new_line8 | sport
+| bip_39_word_new_line_8 | sport
 father
 merge
 annual
@@ -113,7 +113,7 @@ alter
 spider
 reason
 almost |  
-| bip_39_word_new_line9 | sport
+| bip_39_word_new_line_9 | sport
 father
 merge
 annual

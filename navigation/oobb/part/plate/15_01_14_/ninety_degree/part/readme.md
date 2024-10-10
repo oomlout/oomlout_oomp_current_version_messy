@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | female |  
-| bip_39_word_new_br10 | female<br>install<br>apart<br>sunset<br>foam<br>brown<br>pudding<br>pause<br>home<br>first |  
-| bip_39_word_new_br11 | female<br>install<br>apart<br>sunset<br>foam<br>brown<br>pudding<br>pause<br>home<br>first<br>obey |  
-| bip_39_word_new_br12 | female<br>install<br>apart<br>sunset<br>foam<br>brown<br>pudding<br>pause<br>home<br>first<br>obey<br>arch |  
-| bip_39_word_new_br2 | female<br>install |  
-| bip_39_word_new_br3 | female<br>install<br>apart |  
-| bip_39_word_new_br4 | female<br>install<br>apart<br>sunset |  
-| bip_39_word_new_br5 | female<br>install<br>apart<br>sunset<br>foam |  
-| bip_39_word_new_br6 | female<br>install<br>apart<br>sunset<br>foam<br>brown |  
-| bip_39_word_new_br7 | female<br>install<br>apart<br>sunset<br>foam<br>brown<br>pudding |  
-| bip_39_word_new_br8 | female<br>install<br>apart<br>sunset<br>foam<br>brown<br>pudding<br>pause |  
-| bip_39_word_new_br9 | female<br>install<br>apart<br>sunset<br>foam<br>brown<br>pudding<br>pause<br>home |  
-| bip_39_word_new_line1 | female |  
-| bip_39_word_new_line10 | female
+| bip_39_word_new_br_1 | female |  
+| bip_39_word_new_br_10 | female<br>install<br>apart<br>sunset<br>foam<br>brown<br>pudding<br>pause<br>home<br>first |  
+| bip_39_word_new_br_11 | female<br>install<br>apart<br>sunset<br>foam<br>brown<br>pudding<br>pause<br>home<br>first<br>obey |  
+| bip_39_word_new_br_12 | female<br>install<br>apart<br>sunset<br>foam<br>brown<br>pudding<br>pause<br>home<br>first<br>obey<br>arch |  
+| bip_39_word_new_br_2 | female<br>install |  
+| bip_39_word_new_br_3 | female<br>install<br>apart |  
+| bip_39_word_new_br_4 | female<br>install<br>apart<br>sunset |  
+| bip_39_word_new_br_5 | female<br>install<br>apart<br>sunset<br>foam |  
+| bip_39_word_new_br_6 | female<br>install<br>apart<br>sunset<br>foam<br>brown |  
+| bip_39_word_new_br_7 | female<br>install<br>apart<br>sunset<br>foam<br>brown<br>pudding |  
+| bip_39_word_new_br_8 | female<br>install<br>apart<br>sunset<br>foam<br>brown<br>pudding<br>pause |  
+| bip_39_word_new_br_9 | female<br>install<br>apart<br>sunset<br>foam<br>brown<br>pudding<br>pause<br>home |  
+| bip_39_word_new_line_1 | female |  
+| bip_39_word_new_line_10 | female
 install
 apart
 sunset
@@ -55,7 +55,7 @@ pudding
 pause
 home
 first |  
-| bip_39_word_new_line11 | female
+| bip_39_word_new_line_11 | female
 install
 apart
 sunset
@@ -66,7 +66,7 @@ pause
 home
 first
 obey |  
-| bip_39_word_new_line12 | female
+| bip_39_word_new_line_12 | female
 install
 apart
 sunset
@@ -78,34 +78,34 @@ home
 first
 obey
 arch |  
-| bip_39_word_new_line2 | female
+| bip_39_word_new_line_2 | female
 install |  
-| bip_39_word_new_line3 | female
+| bip_39_word_new_line_3 | female
 install
 apart |  
-| bip_39_word_new_line4 | female
+| bip_39_word_new_line_4 | female
 install
 apart
 sunset |  
-| bip_39_word_new_line5 | female
+| bip_39_word_new_line_5 | female
 install
 apart
 sunset
 foam |  
-| bip_39_word_new_line6 | female
+| bip_39_word_new_line_6 | female
 install
 apart
 sunset
 foam
 brown |  
-| bip_39_word_new_line7 | female
+| bip_39_word_new_line_7 | female
 install
 apart
 sunset
 foam
 brown
 pudding |  
-| bip_39_word_new_line8 | female
+| bip_39_word_new_line_8 | female
 install
 apart
 sunset
@@ -113,7 +113,7 @@ foam
 brown
 pudding
 pause |  
-| bip_39_word_new_line9 | female
+| bip_39_word_new_line_9 | female
 install
 apart
 sunset

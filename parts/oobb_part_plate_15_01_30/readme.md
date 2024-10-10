@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | simple |  
-| bip_39_word_new_br10 | simple<br>success<br>vanish<br>tell<br>work<br>retire<br>man<br>path<br>skill<br>verify |  
-| bip_39_word_new_br11 | simple<br>success<br>vanish<br>tell<br>work<br>retire<br>man<br>path<br>skill<br>verify<br>eagle |  
-| bip_39_word_new_br12 | simple<br>success<br>vanish<br>tell<br>work<br>retire<br>man<br>path<br>skill<br>verify<br>eagle<br>aim |  
-| bip_39_word_new_br2 | simple<br>success |  
-| bip_39_word_new_br3 | simple<br>success<br>vanish |  
-| bip_39_word_new_br4 | simple<br>success<br>vanish<br>tell |  
-| bip_39_word_new_br5 | simple<br>success<br>vanish<br>tell<br>work |  
-| bip_39_word_new_br6 | simple<br>success<br>vanish<br>tell<br>work<br>retire |  
-| bip_39_word_new_br7 | simple<br>success<br>vanish<br>tell<br>work<br>retire<br>man |  
-| bip_39_word_new_br8 | simple<br>success<br>vanish<br>tell<br>work<br>retire<br>man<br>path |  
-| bip_39_word_new_br9 | simple<br>success<br>vanish<br>tell<br>work<br>retire<br>man<br>path<br>skill |  
-| bip_39_word_new_line1 | simple |  
-| bip_39_word_new_line10 | simple
+| bip_39_word_new_br_1 | simple |  
+| bip_39_word_new_br_10 | simple<br>success<br>vanish<br>tell<br>work<br>retire<br>man<br>path<br>skill<br>verify |  
+| bip_39_word_new_br_11 | simple<br>success<br>vanish<br>tell<br>work<br>retire<br>man<br>path<br>skill<br>verify<br>eagle |  
+| bip_39_word_new_br_12 | simple<br>success<br>vanish<br>tell<br>work<br>retire<br>man<br>path<br>skill<br>verify<br>eagle<br>aim |  
+| bip_39_word_new_br_2 | simple<br>success |  
+| bip_39_word_new_br_3 | simple<br>success<br>vanish |  
+| bip_39_word_new_br_4 | simple<br>success<br>vanish<br>tell |  
+| bip_39_word_new_br_5 | simple<br>success<br>vanish<br>tell<br>work |  
+| bip_39_word_new_br_6 | simple<br>success<br>vanish<br>tell<br>work<br>retire |  
+| bip_39_word_new_br_7 | simple<br>success<br>vanish<br>tell<br>work<br>retire<br>man |  
+| bip_39_word_new_br_8 | simple<br>success<br>vanish<br>tell<br>work<br>retire<br>man<br>path |  
+| bip_39_word_new_br_9 | simple<br>success<br>vanish<br>tell<br>work<br>retire<br>man<br>path<br>skill |  
+| bip_39_word_new_line_1 | simple |  
+| bip_39_word_new_line_10 | simple
 success
 vanish
 tell
@@ -55,7 +55,7 @@ man
 path
 skill
 verify |  
-| bip_39_word_new_line11 | simple
+| bip_39_word_new_line_11 | simple
 success
 vanish
 tell
@@ -66,7 +66,7 @@ path
 skill
 verify
 eagle |  
-| bip_39_word_new_line12 | simple
+| bip_39_word_new_line_12 | simple
 success
 vanish
 tell
@@ -78,34 +78,34 @@ skill
 verify
 eagle
 aim |  
-| bip_39_word_new_line2 | simple
+| bip_39_word_new_line_2 | simple
 success |  
-| bip_39_word_new_line3 | simple
+| bip_39_word_new_line_3 | simple
 success
 vanish |  
-| bip_39_word_new_line4 | simple
+| bip_39_word_new_line_4 | simple
 success
 vanish
 tell |  
-| bip_39_word_new_line5 | simple
+| bip_39_word_new_line_5 | simple
 success
 vanish
 tell
 work |  
-| bip_39_word_new_line6 | simple
+| bip_39_word_new_line_6 | simple
 success
 vanish
 tell
 work
 retire |  
-| bip_39_word_new_line7 | simple
+| bip_39_word_new_line_7 | simple
 success
 vanish
 tell
 work
 retire
 man |  
-| bip_39_word_new_line8 | simple
+| bip_39_word_new_line_8 | simple
 success
 vanish
 tell
@@ -113,7 +113,7 @@ work
 retire
 man
 path |  
-| bip_39_word_new_line9 | simple
+| bip_39_word_new_line_9 | simple
 success
 vanish
 tell

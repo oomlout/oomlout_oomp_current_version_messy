@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | plate |  
-| bip_39_word_new_br10 | plate<br>ritual<br>organ<br>base<br>congress<br>ship<br>fee<br>they<br>sugar<br>away |  
-| bip_39_word_new_br11 | plate<br>ritual<br>organ<br>base<br>congress<br>ship<br>fee<br>they<br>sugar<br>away<br>nut |  
-| bip_39_word_new_br12 | plate<br>ritual<br>organ<br>base<br>congress<br>ship<br>fee<br>they<br>sugar<br>away<br>nut<br>arena |  
-| bip_39_word_new_br2 | plate<br>ritual |  
-| bip_39_word_new_br3 | plate<br>ritual<br>organ |  
-| bip_39_word_new_br4 | plate<br>ritual<br>organ<br>base |  
-| bip_39_word_new_br5 | plate<br>ritual<br>organ<br>base<br>congress |  
-| bip_39_word_new_br6 | plate<br>ritual<br>organ<br>base<br>congress<br>ship |  
-| bip_39_word_new_br7 | plate<br>ritual<br>organ<br>base<br>congress<br>ship<br>fee |  
-| bip_39_word_new_br8 | plate<br>ritual<br>organ<br>base<br>congress<br>ship<br>fee<br>they |  
-| bip_39_word_new_br9 | plate<br>ritual<br>organ<br>base<br>congress<br>ship<br>fee<br>they<br>sugar |  
-| bip_39_word_new_line1 | plate |  
-| bip_39_word_new_line10 | plate
+| bip_39_word_new_br_1 | plate |  
+| bip_39_word_new_br_10 | plate<br>ritual<br>organ<br>base<br>congress<br>ship<br>fee<br>they<br>sugar<br>away |  
+| bip_39_word_new_br_11 | plate<br>ritual<br>organ<br>base<br>congress<br>ship<br>fee<br>they<br>sugar<br>away<br>nut |  
+| bip_39_word_new_br_12 | plate<br>ritual<br>organ<br>base<br>congress<br>ship<br>fee<br>they<br>sugar<br>away<br>nut<br>arena |  
+| bip_39_word_new_br_2 | plate<br>ritual |  
+| bip_39_word_new_br_3 | plate<br>ritual<br>organ |  
+| bip_39_word_new_br_4 | plate<br>ritual<br>organ<br>base |  
+| bip_39_word_new_br_5 | plate<br>ritual<br>organ<br>base<br>congress |  
+| bip_39_word_new_br_6 | plate<br>ritual<br>organ<br>base<br>congress<br>ship |  
+| bip_39_word_new_br_7 | plate<br>ritual<br>organ<br>base<br>congress<br>ship<br>fee |  
+| bip_39_word_new_br_8 | plate<br>ritual<br>organ<br>base<br>congress<br>ship<br>fee<br>they |  
+| bip_39_word_new_br_9 | plate<br>ritual<br>organ<br>base<br>congress<br>ship<br>fee<br>they<br>sugar |  
+| bip_39_word_new_line_1 | plate |  
+| bip_39_word_new_line_10 | plate
 ritual
 organ
 base
@@ -55,7 +55,7 @@ fee
 they
 sugar
 away |  
-| bip_39_word_new_line11 | plate
+| bip_39_word_new_line_11 | plate
 ritual
 organ
 base
@@ -66,7 +66,7 @@ they
 sugar
 away
 nut |  
-| bip_39_word_new_line12 | plate
+| bip_39_word_new_line_12 | plate
 ritual
 organ
 base
@@ -78,34 +78,34 @@ sugar
 away
 nut
 arena |  
-| bip_39_word_new_line2 | plate
+| bip_39_word_new_line_2 | plate
 ritual |  
-| bip_39_word_new_line3 | plate
+| bip_39_word_new_line_3 | plate
 ritual
 organ |  
-| bip_39_word_new_line4 | plate
+| bip_39_word_new_line_4 | plate
 ritual
 organ
 base |  
-| bip_39_word_new_line5 | plate
+| bip_39_word_new_line_5 | plate
 ritual
 organ
 base
 congress |  
-| bip_39_word_new_line6 | plate
+| bip_39_word_new_line_6 | plate
 ritual
 organ
 base
 congress
 ship |  
-| bip_39_word_new_line7 | plate
+| bip_39_word_new_line_7 | plate
 ritual
 organ
 base
 congress
 ship
 fee |  
-| bip_39_word_new_line8 | plate
+| bip_39_word_new_line_8 | plate
 ritual
 organ
 base
@@ -113,7 +113,7 @@ congress
 ship
 fee
 they |  
-| bip_39_word_new_line9 | plate
+| bip_39_word_new_line_9 | plate
 ritual
 organ
 base

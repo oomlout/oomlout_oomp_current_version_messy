@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | script |  
-| bip_39_word_new_br10 | script<br>mesh<br>address<br>admit<br>cradle<br>box<br>junior<br>cup<br>demand<br>check |  
-| bip_39_word_new_br11 | script<br>mesh<br>address<br>admit<br>cradle<br>box<br>junior<br>cup<br>demand<br>check<br>caution |  
-| bip_39_word_new_br12 | script<br>mesh<br>address<br>admit<br>cradle<br>box<br>junior<br>cup<br>demand<br>check<br>caution<br>admit |  
-| bip_39_word_new_br2 | script<br>mesh |  
-| bip_39_word_new_br3 | script<br>mesh<br>address |  
-| bip_39_word_new_br4 | script<br>mesh<br>address<br>admit |  
-| bip_39_word_new_br5 | script<br>mesh<br>address<br>admit<br>cradle |  
-| bip_39_word_new_br6 | script<br>mesh<br>address<br>admit<br>cradle<br>box |  
-| bip_39_word_new_br7 | script<br>mesh<br>address<br>admit<br>cradle<br>box<br>junior |  
-| bip_39_word_new_br8 | script<br>mesh<br>address<br>admit<br>cradle<br>box<br>junior<br>cup |  
-| bip_39_word_new_br9 | script<br>mesh<br>address<br>admit<br>cradle<br>box<br>junior<br>cup<br>demand |  
-| bip_39_word_new_line1 | script |  
-| bip_39_word_new_line10 | script
+| bip_39_word_new_br_1 | script |  
+| bip_39_word_new_br_10 | script<br>mesh<br>address<br>admit<br>cradle<br>box<br>junior<br>cup<br>demand<br>check |  
+| bip_39_word_new_br_11 | script<br>mesh<br>address<br>admit<br>cradle<br>box<br>junior<br>cup<br>demand<br>check<br>caution |  
+| bip_39_word_new_br_12 | script<br>mesh<br>address<br>admit<br>cradle<br>box<br>junior<br>cup<br>demand<br>check<br>caution<br>admit |  
+| bip_39_word_new_br_2 | script<br>mesh |  
+| bip_39_word_new_br_3 | script<br>mesh<br>address |  
+| bip_39_word_new_br_4 | script<br>mesh<br>address<br>admit |  
+| bip_39_word_new_br_5 | script<br>mesh<br>address<br>admit<br>cradle |  
+| bip_39_word_new_br_6 | script<br>mesh<br>address<br>admit<br>cradle<br>box |  
+| bip_39_word_new_br_7 | script<br>mesh<br>address<br>admit<br>cradle<br>box<br>junior |  
+| bip_39_word_new_br_8 | script<br>mesh<br>address<br>admit<br>cradle<br>box<br>junior<br>cup |  
+| bip_39_word_new_br_9 | script<br>mesh<br>address<br>admit<br>cradle<br>box<br>junior<br>cup<br>demand |  
+| bip_39_word_new_line_1 | script |  
+| bip_39_word_new_line_10 | script
 mesh
 address
 admit
@@ -55,7 +55,7 @@ junior
 cup
 demand
 check |  
-| bip_39_word_new_line11 | script
+| bip_39_word_new_line_11 | script
 mesh
 address
 admit
@@ -66,7 +66,7 @@ cup
 demand
 check
 caution |  
-| bip_39_word_new_line12 | script
+| bip_39_word_new_line_12 | script
 mesh
 address
 admit
@@ -78,34 +78,34 @@ demand
 check
 caution
 admit |  
-| bip_39_word_new_line2 | script
+| bip_39_word_new_line_2 | script
 mesh |  
-| bip_39_word_new_line3 | script
+| bip_39_word_new_line_3 | script
 mesh
 address |  
-| bip_39_word_new_line4 | script
+| bip_39_word_new_line_4 | script
 mesh
 address
 admit |  
-| bip_39_word_new_line5 | script
+| bip_39_word_new_line_5 | script
 mesh
 address
 admit
 cradle |  
-| bip_39_word_new_line6 | script
+| bip_39_word_new_line_6 | script
 mesh
 address
 admit
 cradle
 box |  
-| bip_39_word_new_line7 | script
+| bip_39_word_new_line_7 | script
 mesh
 address
 admit
 cradle
 box
 junior |  
-| bip_39_word_new_line8 | script
+| bip_39_word_new_line_8 | script
 mesh
 address
 admit
@@ -113,7 +113,7 @@ cradle
 box
 junior
 cup |  
-| bip_39_word_new_line9 | script
+| bip_39_word_new_line_9 | script
 mesh
 address
 admit

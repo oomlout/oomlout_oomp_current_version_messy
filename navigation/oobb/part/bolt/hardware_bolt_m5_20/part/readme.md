@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gasp |  
-| bip_39_word_new_br10 | gasp<br>bulk<br>phrase<br>leader<br>broccoli<br>math<br>cheap<br>movie<br>soda<br>edge |  
-| bip_39_word_new_br11 | gasp<br>bulk<br>phrase<br>leader<br>broccoli<br>math<br>cheap<br>movie<br>soda<br>edge<br>cram |  
-| bip_39_word_new_br12 | gasp<br>bulk<br>phrase<br>leader<br>broccoli<br>math<br>cheap<br>movie<br>soda<br>edge<br>cram<br>almost |  
-| bip_39_word_new_br2 | gasp<br>bulk |  
-| bip_39_word_new_br3 | gasp<br>bulk<br>phrase |  
-| bip_39_word_new_br4 | gasp<br>bulk<br>phrase<br>leader |  
-| bip_39_word_new_br5 | gasp<br>bulk<br>phrase<br>leader<br>broccoli |  
-| bip_39_word_new_br6 | gasp<br>bulk<br>phrase<br>leader<br>broccoli<br>math |  
-| bip_39_word_new_br7 | gasp<br>bulk<br>phrase<br>leader<br>broccoli<br>math<br>cheap |  
-| bip_39_word_new_br8 | gasp<br>bulk<br>phrase<br>leader<br>broccoli<br>math<br>cheap<br>movie |  
-| bip_39_word_new_br9 | gasp<br>bulk<br>phrase<br>leader<br>broccoli<br>math<br>cheap<br>movie<br>soda |  
-| bip_39_word_new_line1 | gasp |  
-| bip_39_word_new_line10 | gasp
+| bip_39_word_new_br_1 | gasp |  
+| bip_39_word_new_br_10 | gasp<br>bulk<br>phrase<br>leader<br>broccoli<br>math<br>cheap<br>movie<br>soda<br>edge |  
+| bip_39_word_new_br_11 | gasp<br>bulk<br>phrase<br>leader<br>broccoli<br>math<br>cheap<br>movie<br>soda<br>edge<br>cram |  
+| bip_39_word_new_br_12 | gasp<br>bulk<br>phrase<br>leader<br>broccoli<br>math<br>cheap<br>movie<br>soda<br>edge<br>cram<br>almost |  
+| bip_39_word_new_br_2 | gasp<br>bulk |  
+| bip_39_word_new_br_3 | gasp<br>bulk<br>phrase |  
+| bip_39_word_new_br_4 | gasp<br>bulk<br>phrase<br>leader |  
+| bip_39_word_new_br_5 | gasp<br>bulk<br>phrase<br>leader<br>broccoli |  
+| bip_39_word_new_br_6 | gasp<br>bulk<br>phrase<br>leader<br>broccoli<br>math |  
+| bip_39_word_new_br_7 | gasp<br>bulk<br>phrase<br>leader<br>broccoli<br>math<br>cheap |  
+| bip_39_word_new_br_8 | gasp<br>bulk<br>phrase<br>leader<br>broccoli<br>math<br>cheap<br>movie |  
+| bip_39_word_new_br_9 | gasp<br>bulk<br>phrase<br>leader<br>broccoli<br>math<br>cheap<br>movie<br>soda |  
+| bip_39_word_new_line_1 | gasp |  
+| bip_39_word_new_line_10 | gasp
 bulk
 phrase
 leader
@@ -55,7 +55,7 @@ cheap
 movie
 soda
 edge |  
-| bip_39_word_new_line11 | gasp
+| bip_39_word_new_line_11 | gasp
 bulk
 phrase
 leader
@@ -66,7 +66,7 @@ movie
 soda
 edge
 cram |  
-| bip_39_word_new_line12 | gasp
+| bip_39_word_new_line_12 | gasp
 bulk
 phrase
 leader
@@ -78,34 +78,34 @@ soda
 edge
 cram
 almost |  
-| bip_39_word_new_line2 | gasp
+| bip_39_word_new_line_2 | gasp
 bulk |  
-| bip_39_word_new_line3 | gasp
+| bip_39_word_new_line_3 | gasp
 bulk
 phrase |  
-| bip_39_word_new_line4 | gasp
+| bip_39_word_new_line_4 | gasp
 bulk
 phrase
 leader |  
-| bip_39_word_new_line5 | gasp
+| bip_39_word_new_line_5 | gasp
 bulk
 phrase
 leader
 broccoli |  
-| bip_39_word_new_line6 | gasp
+| bip_39_word_new_line_6 | gasp
 bulk
 phrase
 leader
 broccoli
 math |  
-| bip_39_word_new_line7 | gasp
+| bip_39_word_new_line_7 | gasp
 bulk
 phrase
 leader
 broccoli
 math
 cheap |  
-| bip_39_word_new_line8 | gasp
+| bip_39_word_new_line_8 | gasp
 bulk
 phrase
 leader
@@ -113,7 +113,7 @@ broccoli
 math
 cheap
 movie |  
-| bip_39_word_new_line9 | gasp
+| bip_39_word_new_line_9 | gasp
 bulk
 phrase
 leader

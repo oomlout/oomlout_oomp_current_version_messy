@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | peasant |  
-| bip_39_word_new_br10 | peasant<br>delay<br>brother<br>voyage<br>venture<br>eight<br>accident<br>fix<br>century<br>tomorrow |  
-| bip_39_word_new_br11 | peasant<br>delay<br>brother<br>voyage<br>venture<br>eight<br>accident<br>fix<br>century<br>tomorrow<br>virtual |  
-| bip_39_word_new_br12 | peasant<br>delay<br>brother<br>voyage<br>venture<br>eight<br>accident<br>fix<br>century<br>tomorrow<br>virtual<br>alter |  
-| bip_39_word_new_br2 | peasant<br>delay |  
-| bip_39_word_new_br3 | peasant<br>delay<br>brother |  
-| bip_39_word_new_br4 | peasant<br>delay<br>brother<br>voyage |  
-| bip_39_word_new_br5 | peasant<br>delay<br>brother<br>voyage<br>venture |  
-| bip_39_word_new_br6 | peasant<br>delay<br>brother<br>voyage<br>venture<br>eight |  
-| bip_39_word_new_br7 | peasant<br>delay<br>brother<br>voyage<br>venture<br>eight<br>accident |  
-| bip_39_word_new_br8 | peasant<br>delay<br>brother<br>voyage<br>venture<br>eight<br>accident<br>fix |  
-| bip_39_word_new_br9 | peasant<br>delay<br>brother<br>voyage<br>venture<br>eight<br>accident<br>fix<br>century |  
-| bip_39_word_new_line1 | peasant |  
-| bip_39_word_new_line10 | peasant
+| bip_39_word_new_br_1 | peasant |  
+| bip_39_word_new_br_10 | peasant<br>delay<br>brother<br>voyage<br>venture<br>eight<br>accident<br>fix<br>century<br>tomorrow |  
+| bip_39_word_new_br_11 | peasant<br>delay<br>brother<br>voyage<br>venture<br>eight<br>accident<br>fix<br>century<br>tomorrow<br>virtual |  
+| bip_39_word_new_br_12 | peasant<br>delay<br>brother<br>voyage<br>venture<br>eight<br>accident<br>fix<br>century<br>tomorrow<br>virtual<br>alter |  
+| bip_39_word_new_br_2 | peasant<br>delay |  
+| bip_39_word_new_br_3 | peasant<br>delay<br>brother |  
+| bip_39_word_new_br_4 | peasant<br>delay<br>brother<br>voyage |  
+| bip_39_word_new_br_5 | peasant<br>delay<br>brother<br>voyage<br>venture |  
+| bip_39_word_new_br_6 | peasant<br>delay<br>brother<br>voyage<br>venture<br>eight |  
+| bip_39_word_new_br_7 | peasant<br>delay<br>brother<br>voyage<br>venture<br>eight<br>accident |  
+| bip_39_word_new_br_8 | peasant<br>delay<br>brother<br>voyage<br>venture<br>eight<br>accident<br>fix |  
+| bip_39_word_new_br_9 | peasant<br>delay<br>brother<br>voyage<br>venture<br>eight<br>accident<br>fix<br>century |  
+| bip_39_word_new_line_1 | peasant |  
+| bip_39_word_new_line_10 | peasant
 delay
 brother
 voyage
@@ -55,7 +55,7 @@ accident
 fix
 century
 tomorrow |  
-| bip_39_word_new_line11 | peasant
+| bip_39_word_new_line_11 | peasant
 delay
 brother
 voyage
@@ -66,7 +66,7 @@ fix
 century
 tomorrow
 virtual |  
-| bip_39_word_new_line12 | peasant
+| bip_39_word_new_line_12 | peasant
 delay
 brother
 voyage
@@ -78,34 +78,34 @@ century
 tomorrow
 virtual
 alter |  
-| bip_39_word_new_line2 | peasant
+| bip_39_word_new_line_2 | peasant
 delay |  
-| bip_39_word_new_line3 | peasant
+| bip_39_word_new_line_3 | peasant
 delay
 brother |  
-| bip_39_word_new_line4 | peasant
+| bip_39_word_new_line_4 | peasant
 delay
 brother
 voyage |  
-| bip_39_word_new_line5 | peasant
+| bip_39_word_new_line_5 | peasant
 delay
 brother
 voyage
 venture |  
-| bip_39_word_new_line6 | peasant
+| bip_39_word_new_line_6 | peasant
 delay
 brother
 voyage
 venture
 eight |  
-| bip_39_word_new_line7 | peasant
+| bip_39_word_new_line_7 | peasant
 delay
 brother
 voyage
 venture
 eight
 accident |  
-| bip_39_word_new_line8 | peasant
+| bip_39_word_new_line_8 | peasant
 delay
 brother
 voyage
@@ -113,7 +113,7 @@ venture
 eight
 accident
 fix |  
-| bip_39_word_new_line9 | peasant
+| bip_39_word_new_line_9 | peasant
 delay
 brother
 voyage

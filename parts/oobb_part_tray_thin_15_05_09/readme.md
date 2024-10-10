@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rotate |  
-| bip_39_word_new_br10 | rotate<br>match<br>base<br>loyal<br>hire<br>kiwi<br>toy<br>orchard<br>long<br>elephant |  
-| bip_39_word_new_br11 | rotate<br>match<br>base<br>loyal<br>hire<br>kiwi<br>toy<br>orchard<br>long<br>elephant<br>mom |  
-| bip_39_word_new_br12 | rotate<br>match<br>base<br>loyal<br>hire<br>kiwi<br>toy<br>orchard<br>long<br>elephant<br>mom<br>alien |  
-| bip_39_word_new_br2 | rotate<br>match |  
-| bip_39_word_new_br3 | rotate<br>match<br>base |  
-| bip_39_word_new_br4 | rotate<br>match<br>base<br>loyal |  
-| bip_39_word_new_br5 | rotate<br>match<br>base<br>loyal<br>hire |  
-| bip_39_word_new_br6 | rotate<br>match<br>base<br>loyal<br>hire<br>kiwi |  
-| bip_39_word_new_br7 | rotate<br>match<br>base<br>loyal<br>hire<br>kiwi<br>toy |  
-| bip_39_word_new_br8 | rotate<br>match<br>base<br>loyal<br>hire<br>kiwi<br>toy<br>orchard |  
-| bip_39_word_new_br9 | rotate<br>match<br>base<br>loyal<br>hire<br>kiwi<br>toy<br>orchard<br>long |  
-| bip_39_word_new_line1 | rotate |  
-| bip_39_word_new_line10 | rotate
+| bip_39_word_new_br_1 | rotate |  
+| bip_39_word_new_br_10 | rotate<br>match<br>base<br>loyal<br>hire<br>kiwi<br>toy<br>orchard<br>long<br>elephant |  
+| bip_39_word_new_br_11 | rotate<br>match<br>base<br>loyal<br>hire<br>kiwi<br>toy<br>orchard<br>long<br>elephant<br>mom |  
+| bip_39_word_new_br_12 | rotate<br>match<br>base<br>loyal<br>hire<br>kiwi<br>toy<br>orchard<br>long<br>elephant<br>mom<br>alien |  
+| bip_39_word_new_br_2 | rotate<br>match |  
+| bip_39_word_new_br_3 | rotate<br>match<br>base |  
+| bip_39_word_new_br_4 | rotate<br>match<br>base<br>loyal |  
+| bip_39_word_new_br_5 | rotate<br>match<br>base<br>loyal<br>hire |  
+| bip_39_word_new_br_6 | rotate<br>match<br>base<br>loyal<br>hire<br>kiwi |  
+| bip_39_word_new_br_7 | rotate<br>match<br>base<br>loyal<br>hire<br>kiwi<br>toy |  
+| bip_39_word_new_br_8 | rotate<br>match<br>base<br>loyal<br>hire<br>kiwi<br>toy<br>orchard |  
+| bip_39_word_new_br_9 | rotate<br>match<br>base<br>loyal<br>hire<br>kiwi<br>toy<br>orchard<br>long |  
+| bip_39_word_new_line_1 | rotate |  
+| bip_39_word_new_line_10 | rotate
 match
 base
 loyal
@@ -55,7 +55,7 @@ toy
 orchard
 long
 elephant |  
-| bip_39_word_new_line11 | rotate
+| bip_39_word_new_line_11 | rotate
 match
 base
 loyal
@@ -66,7 +66,7 @@ orchard
 long
 elephant
 mom |  
-| bip_39_word_new_line12 | rotate
+| bip_39_word_new_line_12 | rotate
 match
 base
 loyal
@@ -78,34 +78,34 @@ long
 elephant
 mom
 alien |  
-| bip_39_word_new_line2 | rotate
+| bip_39_word_new_line_2 | rotate
 match |  
-| bip_39_word_new_line3 | rotate
+| bip_39_word_new_line_3 | rotate
 match
 base |  
-| bip_39_word_new_line4 | rotate
+| bip_39_word_new_line_4 | rotate
 match
 base
 loyal |  
-| bip_39_word_new_line5 | rotate
+| bip_39_word_new_line_5 | rotate
 match
 base
 loyal
 hire |  
-| bip_39_word_new_line6 | rotate
+| bip_39_word_new_line_6 | rotate
 match
 base
 loyal
 hire
 kiwi |  
-| bip_39_word_new_line7 | rotate
+| bip_39_word_new_line_7 | rotate
 match
 base
 loyal
 hire
 kiwi
 toy |  
-| bip_39_word_new_line8 | rotate
+| bip_39_word_new_line_8 | rotate
 match
 base
 loyal
@@ -113,7 +113,7 @@ hire
 kiwi
 toy
 orchard |  
-| bip_39_word_new_line9 | rotate
+| bip_39_word_new_line_9 | rotate
 match
 base
 loyal

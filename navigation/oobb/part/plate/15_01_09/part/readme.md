@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ostrich |  
-| bip_39_word_new_br10 | ostrich<br>deer<br>elegant<br>broken<br>transfer<br>dutch<br>vapor<br>wait<br>deputy<br>occur |  
-| bip_39_word_new_br11 | ostrich<br>deer<br>elegant<br>broken<br>transfer<br>dutch<br>vapor<br>wait<br>deputy<br>occur<br>inmate |  
-| bip_39_word_new_br12 | ostrich<br>deer<br>elegant<br>broken<br>transfer<br>dutch<br>vapor<br>wait<br>deputy<br>occur<br>inmate<br>advice |  
-| bip_39_word_new_br2 | ostrich<br>deer |  
-| bip_39_word_new_br3 | ostrich<br>deer<br>elegant |  
-| bip_39_word_new_br4 | ostrich<br>deer<br>elegant<br>broken |  
-| bip_39_word_new_br5 | ostrich<br>deer<br>elegant<br>broken<br>transfer |  
-| bip_39_word_new_br6 | ostrich<br>deer<br>elegant<br>broken<br>transfer<br>dutch |  
-| bip_39_word_new_br7 | ostrich<br>deer<br>elegant<br>broken<br>transfer<br>dutch<br>vapor |  
-| bip_39_word_new_br8 | ostrich<br>deer<br>elegant<br>broken<br>transfer<br>dutch<br>vapor<br>wait |  
-| bip_39_word_new_br9 | ostrich<br>deer<br>elegant<br>broken<br>transfer<br>dutch<br>vapor<br>wait<br>deputy |  
-| bip_39_word_new_line1 | ostrich |  
-| bip_39_word_new_line10 | ostrich
+| bip_39_word_new_br_1 | ostrich |  
+| bip_39_word_new_br_10 | ostrich<br>deer<br>elegant<br>broken<br>transfer<br>dutch<br>vapor<br>wait<br>deputy<br>occur |  
+| bip_39_word_new_br_11 | ostrich<br>deer<br>elegant<br>broken<br>transfer<br>dutch<br>vapor<br>wait<br>deputy<br>occur<br>inmate |  
+| bip_39_word_new_br_12 | ostrich<br>deer<br>elegant<br>broken<br>transfer<br>dutch<br>vapor<br>wait<br>deputy<br>occur<br>inmate<br>advice |  
+| bip_39_word_new_br_2 | ostrich<br>deer |  
+| bip_39_word_new_br_3 | ostrich<br>deer<br>elegant |  
+| bip_39_word_new_br_4 | ostrich<br>deer<br>elegant<br>broken |  
+| bip_39_word_new_br_5 | ostrich<br>deer<br>elegant<br>broken<br>transfer |  
+| bip_39_word_new_br_6 | ostrich<br>deer<br>elegant<br>broken<br>transfer<br>dutch |  
+| bip_39_word_new_br_7 | ostrich<br>deer<br>elegant<br>broken<br>transfer<br>dutch<br>vapor |  
+| bip_39_word_new_br_8 | ostrich<br>deer<br>elegant<br>broken<br>transfer<br>dutch<br>vapor<br>wait |  
+| bip_39_word_new_br_9 | ostrich<br>deer<br>elegant<br>broken<br>transfer<br>dutch<br>vapor<br>wait<br>deputy |  
+| bip_39_word_new_line_1 | ostrich |  
+| bip_39_word_new_line_10 | ostrich
 deer
 elegant
 broken
@@ -55,7 +55,7 @@ vapor
 wait
 deputy
 occur |  
-| bip_39_word_new_line11 | ostrich
+| bip_39_word_new_line_11 | ostrich
 deer
 elegant
 broken
@@ -66,7 +66,7 @@ wait
 deputy
 occur
 inmate |  
-| bip_39_word_new_line12 | ostrich
+| bip_39_word_new_line_12 | ostrich
 deer
 elegant
 broken
@@ -78,34 +78,34 @@ deputy
 occur
 inmate
 advice |  
-| bip_39_word_new_line2 | ostrich
+| bip_39_word_new_line_2 | ostrich
 deer |  
-| bip_39_word_new_line3 | ostrich
+| bip_39_word_new_line_3 | ostrich
 deer
 elegant |  
-| bip_39_word_new_line4 | ostrich
+| bip_39_word_new_line_4 | ostrich
 deer
 elegant
 broken |  
-| bip_39_word_new_line5 | ostrich
+| bip_39_word_new_line_5 | ostrich
 deer
 elegant
 broken
 transfer |  
-| bip_39_word_new_line6 | ostrich
+| bip_39_word_new_line_6 | ostrich
 deer
 elegant
 broken
 transfer
 dutch |  
-| bip_39_word_new_line7 | ostrich
+| bip_39_word_new_line_7 | ostrich
 deer
 elegant
 broken
 transfer
 dutch
 vapor |  
-| bip_39_word_new_line8 | ostrich
+| bip_39_word_new_line_8 | ostrich
 deer
 elegant
 broken
@@ -113,7 +113,7 @@ transfer
 dutch
 vapor
 wait |  
-| bip_39_word_new_line9 | ostrich
+| bip_39_word_new_line_9 | ostrich
 deer
 elegant
 broken

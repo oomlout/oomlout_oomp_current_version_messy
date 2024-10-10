@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | then |  
-| bip_39_word_new_br10 | then<br>betray<br>dune<br>hire<br>disorder<br>inflict<br>element<br>pulp<br>fat<br>shield |  
-| bip_39_word_new_br11 | then<br>betray<br>dune<br>hire<br>disorder<br>inflict<br>element<br>pulp<br>fat<br>shield<br>gasp |  
-| bip_39_word_new_br12 | then<br>betray<br>dune<br>hire<br>disorder<br>inflict<br>element<br>pulp<br>fat<br>shield<br>gasp<br>army |  
-| bip_39_word_new_br2 | then<br>betray |  
-| bip_39_word_new_br3 | then<br>betray<br>dune |  
-| bip_39_word_new_br4 | then<br>betray<br>dune<br>hire |  
-| bip_39_word_new_br5 | then<br>betray<br>dune<br>hire<br>disorder |  
-| bip_39_word_new_br6 | then<br>betray<br>dune<br>hire<br>disorder<br>inflict |  
-| bip_39_word_new_br7 | then<br>betray<br>dune<br>hire<br>disorder<br>inflict<br>element |  
-| bip_39_word_new_br8 | then<br>betray<br>dune<br>hire<br>disorder<br>inflict<br>element<br>pulp |  
-| bip_39_word_new_br9 | then<br>betray<br>dune<br>hire<br>disorder<br>inflict<br>element<br>pulp<br>fat |  
-| bip_39_word_new_line1 | then |  
-| bip_39_word_new_line10 | then
+| bip_39_word_new_br_1 | then |  
+| bip_39_word_new_br_10 | then<br>betray<br>dune<br>hire<br>disorder<br>inflict<br>element<br>pulp<br>fat<br>shield |  
+| bip_39_word_new_br_11 | then<br>betray<br>dune<br>hire<br>disorder<br>inflict<br>element<br>pulp<br>fat<br>shield<br>gasp |  
+| bip_39_word_new_br_12 | then<br>betray<br>dune<br>hire<br>disorder<br>inflict<br>element<br>pulp<br>fat<br>shield<br>gasp<br>army |  
+| bip_39_word_new_br_2 | then<br>betray |  
+| bip_39_word_new_br_3 | then<br>betray<br>dune |  
+| bip_39_word_new_br_4 | then<br>betray<br>dune<br>hire |  
+| bip_39_word_new_br_5 | then<br>betray<br>dune<br>hire<br>disorder |  
+| bip_39_word_new_br_6 | then<br>betray<br>dune<br>hire<br>disorder<br>inflict |  
+| bip_39_word_new_br_7 | then<br>betray<br>dune<br>hire<br>disorder<br>inflict<br>element |  
+| bip_39_word_new_br_8 | then<br>betray<br>dune<br>hire<br>disorder<br>inflict<br>element<br>pulp |  
+| bip_39_word_new_br_9 | then<br>betray<br>dune<br>hire<br>disorder<br>inflict<br>element<br>pulp<br>fat |  
+| bip_39_word_new_line_1 | then |  
+| bip_39_word_new_line_10 | then
 betray
 dune
 hire
@@ -55,7 +55,7 @@ element
 pulp
 fat
 shield |  
-| bip_39_word_new_line11 | then
+| bip_39_word_new_line_11 | then
 betray
 dune
 hire
@@ -66,7 +66,7 @@ pulp
 fat
 shield
 gasp |  
-| bip_39_word_new_line12 | then
+| bip_39_word_new_line_12 | then
 betray
 dune
 hire
@@ -78,34 +78,34 @@ fat
 shield
 gasp
 army |  
-| bip_39_word_new_line2 | then
+| bip_39_word_new_line_2 | then
 betray |  
-| bip_39_word_new_line3 | then
+| bip_39_word_new_line_3 | then
 betray
 dune |  
-| bip_39_word_new_line4 | then
+| bip_39_word_new_line_4 | then
 betray
 dune
 hire |  
-| bip_39_word_new_line5 | then
+| bip_39_word_new_line_5 | then
 betray
 dune
 hire
 disorder |  
-| bip_39_word_new_line6 | then
+| bip_39_word_new_line_6 | then
 betray
 dune
 hire
 disorder
 inflict |  
-| bip_39_word_new_line7 | then
+| bip_39_word_new_line_7 | then
 betray
 dune
 hire
 disorder
 inflict
 element |  
-| bip_39_word_new_line8 | then
+| bip_39_word_new_line_8 | then
 betray
 dune
 hire
@@ -113,7 +113,7 @@ disorder
 inflict
 element
 pulp |  
-| bip_39_word_new_line9 | then
+| bip_39_word_new_line_9 | then
 betray
 dune
 hire

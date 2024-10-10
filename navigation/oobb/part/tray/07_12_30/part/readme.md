@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | spy |  
-| bip_39_word_new_br10 | spy<br>reduce<br>reunion<br>laptop<br>aware<br>artist<br>desert<br>try<br>genius<br>target |  
-| bip_39_word_new_br11 | spy<br>reduce<br>reunion<br>laptop<br>aware<br>artist<br>desert<br>try<br>genius<br>target<br>member |  
-| bip_39_word_new_br12 | spy<br>reduce<br>reunion<br>laptop<br>aware<br>artist<br>desert<br>try<br>genius<br>target<br>member<br>abuse |  
-| bip_39_word_new_br2 | spy<br>reduce |  
-| bip_39_word_new_br3 | spy<br>reduce<br>reunion |  
-| bip_39_word_new_br4 | spy<br>reduce<br>reunion<br>laptop |  
-| bip_39_word_new_br5 | spy<br>reduce<br>reunion<br>laptop<br>aware |  
-| bip_39_word_new_br6 | spy<br>reduce<br>reunion<br>laptop<br>aware<br>artist |  
-| bip_39_word_new_br7 | spy<br>reduce<br>reunion<br>laptop<br>aware<br>artist<br>desert |  
-| bip_39_word_new_br8 | spy<br>reduce<br>reunion<br>laptop<br>aware<br>artist<br>desert<br>try |  
-| bip_39_word_new_br9 | spy<br>reduce<br>reunion<br>laptop<br>aware<br>artist<br>desert<br>try<br>genius |  
-| bip_39_word_new_line1 | spy |  
-| bip_39_word_new_line10 | spy
+| bip_39_word_new_br_1 | spy |  
+| bip_39_word_new_br_10 | spy<br>reduce<br>reunion<br>laptop<br>aware<br>artist<br>desert<br>try<br>genius<br>target |  
+| bip_39_word_new_br_11 | spy<br>reduce<br>reunion<br>laptop<br>aware<br>artist<br>desert<br>try<br>genius<br>target<br>member |  
+| bip_39_word_new_br_12 | spy<br>reduce<br>reunion<br>laptop<br>aware<br>artist<br>desert<br>try<br>genius<br>target<br>member<br>abuse |  
+| bip_39_word_new_br_2 | spy<br>reduce |  
+| bip_39_word_new_br_3 | spy<br>reduce<br>reunion |  
+| bip_39_word_new_br_4 | spy<br>reduce<br>reunion<br>laptop |  
+| bip_39_word_new_br_5 | spy<br>reduce<br>reunion<br>laptop<br>aware |  
+| bip_39_word_new_br_6 | spy<br>reduce<br>reunion<br>laptop<br>aware<br>artist |  
+| bip_39_word_new_br_7 | spy<br>reduce<br>reunion<br>laptop<br>aware<br>artist<br>desert |  
+| bip_39_word_new_br_8 | spy<br>reduce<br>reunion<br>laptop<br>aware<br>artist<br>desert<br>try |  
+| bip_39_word_new_br_9 | spy<br>reduce<br>reunion<br>laptop<br>aware<br>artist<br>desert<br>try<br>genius |  
+| bip_39_word_new_line_1 | spy |  
+| bip_39_word_new_line_10 | spy
 reduce
 reunion
 laptop
@@ -55,7 +55,7 @@ desert
 try
 genius
 target |  
-| bip_39_word_new_line11 | spy
+| bip_39_word_new_line_11 | spy
 reduce
 reunion
 laptop
@@ -66,7 +66,7 @@ try
 genius
 target
 member |  
-| bip_39_word_new_line12 | spy
+| bip_39_word_new_line_12 | spy
 reduce
 reunion
 laptop
@@ -78,34 +78,34 @@ genius
 target
 member
 abuse |  
-| bip_39_word_new_line2 | spy
+| bip_39_word_new_line_2 | spy
 reduce |  
-| bip_39_word_new_line3 | spy
+| bip_39_word_new_line_3 | spy
 reduce
 reunion |  
-| bip_39_word_new_line4 | spy
+| bip_39_word_new_line_4 | spy
 reduce
 reunion
 laptop |  
-| bip_39_word_new_line5 | spy
+| bip_39_word_new_line_5 | spy
 reduce
 reunion
 laptop
 aware |  
-| bip_39_word_new_line6 | spy
+| bip_39_word_new_line_6 | spy
 reduce
 reunion
 laptop
 aware
 artist |  
-| bip_39_word_new_line7 | spy
+| bip_39_word_new_line_7 | spy
 reduce
 reunion
 laptop
 aware
 artist
 desert |  
-| bip_39_word_new_line8 | spy
+| bip_39_word_new_line_8 | spy
 reduce
 reunion
 laptop
@@ -113,7 +113,7 @@ aware
 artist
 desert
 try |  
-| bip_39_word_new_line9 | spy
+| bip_39_word_new_line_9 | spy
 reduce
 reunion
 laptop

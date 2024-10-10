@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | empower |  
-| bip_39_word_new_br10 | empower<br>action<br>cry<br>fashion<br>stadium<br>glimpse<br>control<br>first<br>media<br>rifle |  
-| bip_39_word_new_br11 | empower<br>action<br>cry<br>fashion<br>stadium<br>glimpse<br>control<br>first<br>media<br>rifle<br>indoor |  
-| bip_39_word_new_br12 | empower<br>action<br>cry<br>fashion<br>stadium<br>glimpse<br>control<br>first<br>media<br>rifle<br>indoor<br>act |  
-| bip_39_word_new_br2 | empower<br>action |  
-| bip_39_word_new_br3 | empower<br>action<br>cry |  
-| bip_39_word_new_br4 | empower<br>action<br>cry<br>fashion |  
-| bip_39_word_new_br5 | empower<br>action<br>cry<br>fashion<br>stadium |  
-| bip_39_word_new_br6 | empower<br>action<br>cry<br>fashion<br>stadium<br>glimpse |  
-| bip_39_word_new_br7 | empower<br>action<br>cry<br>fashion<br>stadium<br>glimpse<br>control |  
-| bip_39_word_new_br8 | empower<br>action<br>cry<br>fashion<br>stadium<br>glimpse<br>control<br>first |  
-| bip_39_word_new_br9 | empower<br>action<br>cry<br>fashion<br>stadium<br>glimpse<br>control<br>first<br>media |  
-| bip_39_word_new_line1 | empower |  
-| bip_39_word_new_line10 | empower
+| bip_39_word_new_br_1 | empower |  
+| bip_39_word_new_br_10 | empower<br>action<br>cry<br>fashion<br>stadium<br>glimpse<br>control<br>first<br>media<br>rifle |  
+| bip_39_word_new_br_11 | empower<br>action<br>cry<br>fashion<br>stadium<br>glimpse<br>control<br>first<br>media<br>rifle<br>indoor |  
+| bip_39_word_new_br_12 | empower<br>action<br>cry<br>fashion<br>stadium<br>glimpse<br>control<br>first<br>media<br>rifle<br>indoor<br>act |  
+| bip_39_word_new_br_2 | empower<br>action |  
+| bip_39_word_new_br_3 | empower<br>action<br>cry |  
+| bip_39_word_new_br_4 | empower<br>action<br>cry<br>fashion |  
+| bip_39_word_new_br_5 | empower<br>action<br>cry<br>fashion<br>stadium |  
+| bip_39_word_new_br_6 | empower<br>action<br>cry<br>fashion<br>stadium<br>glimpse |  
+| bip_39_word_new_br_7 | empower<br>action<br>cry<br>fashion<br>stadium<br>glimpse<br>control |  
+| bip_39_word_new_br_8 | empower<br>action<br>cry<br>fashion<br>stadium<br>glimpse<br>control<br>first |  
+| bip_39_word_new_br_9 | empower<br>action<br>cry<br>fashion<br>stadium<br>glimpse<br>control<br>first<br>media |  
+| bip_39_word_new_line_1 | empower |  
+| bip_39_word_new_line_10 | empower
 action
 cry
 fashion
@@ -55,7 +55,7 @@ control
 first
 media
 rifle |  
-| bip_39_word_new_line11 | empower
+| bip_39_word_new_line_11 | empower
 action
 cry
 fashion
@@ -66,7 +66,7 @@ first
 media
 rifle
 indoor |  
-| bip_39_word_new_line12 | empower
+| bip_39_word_new_line_12 | empower
 action
 cry
 fashion
@@ -78,34 +78,34 @@ media
 rifle
 indoor
 act |  
-| bip_39_word_new_line2 | empower
+| bip_39_word_new_line_2 | empower
 action |  
-| bip_39_word_new_line3 | empower
+| bip_39_word_new_line_3 | empower
 action
 cry |  
-| bip_39_word_new_line4 | empower
+| bip_39_word_new_line_4 | empower
 action
 cry
 fashion |  
-| bip_39_word_new_line5 | empower
+| bip_39_word_new_line_5 | empower
 action
 cry
 fashion
 stadium |  
-| bip_39_word_new_line6 | empower
+| bip_39_word_new_line_6 | empower
 action
 cry
 fashion
 stadium
 glimpse |  
-| bip_39_word_new_line7 | empower
+| bip_39_word_new_line_7 | empower
 action
 cry
 fashion
 stadium
 glimpse
 control |  
-| bip_39_word_new_line8 | empower
+| bip_39_word_new_line_8 | empower
 action
 cry
 fashion
@@ -113,7 +113,7 @@ stadium
 glimpse
 control
 first |  
-| bip_39_word_new_line9 | empower
+| bip_39_word_new_line_9 | empower
 action
 cry
 fashion

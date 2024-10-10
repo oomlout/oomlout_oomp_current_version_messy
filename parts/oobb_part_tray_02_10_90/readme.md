@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | luxury |  
-| bip_39_word_new_br10 | luxury<br>disagree<br>reform<br>ripple<br>price<br>claim<br>disease<br>cloud<br>brief<br>neglect |  
-| bip_39_word_new_br11 | luxury<br>disagree<br>reform<br>ripple<br>price<br>claim<br>disease<br>cloud<br>brief<br>neglect<br>shrug |  
-| bip_39_word_new_br12 | luxury<br>disagree<br>reform<br>ripple<br>price<br>claim<br>disease<br>cloud<br>brief<br>neglect<br>shrug<br>arrest |  
-| bip_39_word_new_br2 | luxury<br>disagree |  
-| bip_39_word_new_br3 | luxury<br>disagree<br>reform |  
-| bip_39_word_new_br4 | luxury<br>disagree<br>reform<br>ripple |  
-| bip_39_word_new_br5 | luxury<br>disagree<br>reform<br>ripple<br>price |  
-| bip_39_word_new_br6 | luxury<br>disagree<br>reform<br>ripple<br>price<br>claim |  
-| bip_39_word_new_br7 | luxury<br>disagree<br>reform<br>ripple<br>price<br>claim<br>disease |  
-| bip_39_word_new_br8 | luxury<br>disagree<br>reform<br>ripple<br>price<br>claim<br>disease<br>cloud |  
-| bip_39_word_new_br9 | luxury<br>disagree<br>reform<br>ripple<br>price<br>claim<br>disease<br>cloud<br>brief |  
-| bip_39_word_new_line1 | luxury |  
-| bip_39_word_new_line10 | luxury
+| bip_39_word_new_br_1 | luxury |  
+| bip_39_word_new_br_10 | luxury<br>disagree<br>reform<br>ripple<br>price<br>claim<br>disease<br>cloud<br>brief<br>neglect |  
+| bip_39_word_new_br_11 | luxury<br>disagree<br>reform<br>ripple<br>price<br>claim<br>disease<br>cloud<br>brief<br>neglect<br>shrug |  
+| bip_39_word_new_br_12 | luxury<br>disagree<br>reform<br>ripple<br>price<br>claim<br>disease<br>cloud<br>brief<br>neglect<br>shrug<br>arrest |  
+| bip_39_word_new_br_2 | luxury<br>disagree |  
+| bip_39_word_new_br_3 | luxury<br>disagree<br>reform |  
+| bip_39_word_new_br_4 | luxury<br>disagree<br>reform<br>ripple |  
+| bip_39_word_new_br_5 | luxury<br>disagree<br>reform<br>ripple<br>price |  
+| bip_39_word_new_br_6 | luxury<br>disagree<br>reform<br>ripple<br>price<br>claim |  
+| bip_39_word_new_br_7 | luxury<br>disagree<br>reform<br>ripple<br>price<br>claim<br>disease |  
+| bip_39_word_new_br_8 | luxury<br>disagree<br>reform<br>ripple<br>price<br>claim<br>disease<br>cloud |  
+| bip_39_word_new_br_9 | luxury<br>disagree<br>reform<br>ripple<br>price<br>claim<br>disease<br>cloud<br>brief |  
+| bip_39_word_new_line_1 | luxury |  
+| bip_39_word_new_line_10 | luxury
 disagree
 reform
 ripple
@@ -55,7 +55,7 @@ disease
 cloud
 brief
 neglect |  
-| bip_39_word_new_line11 | luxury
+| bip_39_word_new_line_11 | luxury
 disagree
 reform
 ripple
@@ -66,7 +66,7 @@ cloud
 brief
 neglect
 shrug |  
-| bip_39_word_new_line12 | luxury
+| bip_39_word_new_line_12 | luxury
 disagree
 reform
 ripple
@@ -78,34 +78,34 @@ brief
 neglect
 shrug
 arrest |  
-| bip_39_word_new_line2 | luxury
+| bip_39_word_new_line_2 | luxury
 disagree |  
-| bip_39_word_new_line3 | luxury
+| bip_39_word_new_line_3 | luxury
 disagree
 reform |  
-| bip_39_word_new_line4 | luxury
+| bip_39_word_new_line_4 | luxury
 disagree
 reform
 ripple |  
-| bip_39_word_new_line5 | luxury
+| bip_39_word_new_line_5 | luxury
 disagree
 reform
 ripple
 price |  
-| bip_39_word_new_line6 | luxury
+| bip_39_word_new_line_6 | luxury
 disagree
 reform
 ripple
 price
 claim |  
-| bip_39_word_new_line7 | luxury
+| bip_39_word_new_line_7 | luxury
 disagree
 reform
 ripple
 price
 claim
 disease |  
-| bip_39_word_new_line8 | luxury
+| bip_39_word_new_line_8 | luxury
 disagree
 reform
 ripple
@@ -113,7 +113,7 @@ price
 claim
 disease
 cloud |  
-| bip_39_word_new_line9 | luxury
+| bip_39_word_new_line_9 | luxury
 disagree
 reform
 ripple

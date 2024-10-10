@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | kiss |  
-| bip_39_word_new_br10 | kiss<br>settle<br>truly<br>case<br>topic<br>inner<br>forget<br>prison<br>skill<br>planet |  
-| bip_39_word_new_br11 | kiss<br>settle<br>truly<br>case<br>topic<br>inner<br>forget<br>prison<br>skill<br>planet<br>wool |  
-| bip_39_word_new_br12 | kiss<br>settle<br>truly<br>case<br>topic<br>inner<br>forget<br>prison<br>skill<br>planet<br>wool<br>atom |  
-| bip_39_word_new_br2 | kiss<br>settle |  
-| bip_39_word_new_br3 | kiss<br>settle<br>truly |  
-| bip_39_word_new_br4 | kiss<br>settle<br>truly<br>case |  
-| bip_39_word_new_br5 | kiss<br>settle<br>truly<br>case<br>topic |  
-| bip_39_word_new_br6 | kiss<br>settle<br>truly<br>case<br>topic<br>inner |  
-| bip_39_word_new_br7 | kiss<br>settle<br>truly<br>case<br>topic<br>inner<br>forget |  
-| bip_39_word_new_br8 | kiss<br>settle<br>truly<br>case<br>topic<br>inner<br>forget<br>prison |  
-| bip_39_word_new_br9 | kiss<br>settle<br>truly<br>case<br>topic<br>inner<br>forget<br>prison<br>skill |  
-| bip_39_word_new_line1 | kiss |  
-| bip_39_word_new_line10 | kiss
+| bip_39_word_new_br_1 | kiss |  
+| bip_39_word_new_br_10 | kiss<br>settle<br>truly<br>case<br>topic<br>inner<br>forget<br>prison<br>skill<br>planet |  
+| bip_39_word_new_br_11 | kiss<br>settle<br>truly<br>case<br>topic<br>inner<br>forget<br>prison<br>skill<br>planet<br>wool |  
+| bip_39_word_new_br_12 | kiss<br>settle<br>truly<br>case<br>topic<br>inner<br>forget<br>prison<br>skill<br>planet<br>wool<br>atom |  
+| bip_39_word_new_br_2 | kiss<br>settle |  
+| bip_39_word_new_br_3 | kiss<br>settle<br>truly |  
+| bip_39_word_new_br_4 | kiss<br>settle<br>truly<br>case |  
+| bip_39_word_new_br_5 | kiss<br>settle<br>truly<br>case<br>topic |  
+| bip_39_word_new_br_6 | kiss<br>settle<br>truly<br>case<br>topic<br>inner |  
+| bip_39_word_new_br_7 | kiss<br>settle<br>truly<br>case<br>topic<br>inner<br>forget |  
+| bip_39_word_new_br_8 | kiss<br>settle<br>truly<br>case<br>topic<br>inner<br>forget<br>prison |  
+| bip_39_word_new_br_9 | kiss<br>settle<br>truly<br>case<br>topic<br>inner<br>forget<br>prison<br>skill |  
+| bip_39_word_new_line_1 | kiss |  
+| bip_39_word_new_line_10 | kiss
 settle
 truly
 case
@@ -55,7 +55,7 @@ forget
 prison
 skill
 planet |  
-| bip_39_word_new_line11 | kiss
+| bip_39_word_new_line_11 | kiss
 settle
 truly
 case
@@ -66,7 +66,7 @@ prison
 skill
 planet
 wool |  
-| bip_39_word_new_line12 | kiss
+| bip_39_word_new_line_12 | kiss
 settle
 truly
 case
@@ -78,34 +78,34 @@ skill
 planet
 wool
 atom |  
-| bip_39_word_new_line2 | kiss
+| bip_39_word_new_line_2 | kiss
 settle |  
-| bip_39_word_new_line3 | kiss
+| bip_39_word_new_line_3 | kiss
 settle
 truly |  
-| bip_39_word_new_line4 | kiss
+| bip_39_word_new_line_4 | kiss
 settle
 truly
 case |  
-| bip_39_word_new_line5 | kiss
+| bip_39_word_new_line_5 | kiss
 settle
 truly
 case
 topic |  
-| bip_39_word_new_line6 | kiss
+| bip_39_word_new_line_6 | kiss
 settle
 truly
 case
 topic
 inner |  
-| bip_39_word_new_line7 | kiss
+| bip_39_word_new_line_7 | kiss
 settle
 truly
 case
 topic
 inner
 forget |  
-| bip_39_word_new_line8 | kiss
+| bip_39_word_new_line_8 | kiss
 settle
 truly
 case
@@ -113,7 +113,7 @@ topic
 inner
 forget
 prison |  
-| bip_39_word_new_line9 | kiss
+| bip_39_word_new_line_9 | kiss
 settle
 truly
 case

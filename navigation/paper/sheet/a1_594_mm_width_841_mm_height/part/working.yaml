@@ -1,17 +1,17 @@
-bip_39_word_new_br1: mixture
-bip_39_word_new_br10: mixture<br>doll<br>life<br>rival<br>route<br>axis<br>tag<br>lucky<br>way<br>panda
-bip_39_word_new_br11: mixture<br>doll<br>life<br>rival<br>route<br>axis<br>tag<br>lucky<br>way<br>panda<br>rally
-bip_39_word_new_br12: mixture<br>doll<br>life<br>rival<br>route<br>axis<br>tag<br>lucky<br>way<br>panda<br>rally<br>again
-bip_39_word_new_br2: mixture<br>doll
-bip_39_word_new_br3: mixture<br>doll<br>life
-bip_39_word_new_br4: mixture<br>doll<br>life<br>rival
-bip_39_word_new_br5: mixture<br>doll<br>life<br>rival<br>route
-bip_39_word_new_br6: mixture<br>doll<br>life<br>rival<br>route<br>axis
-bip_39_word_new_br7: mixture<br>doll<br>life<br>rival<br>route<br>axis<br>tag
-bip_39_word_new_br8: mixture<br>doll<br>life<br>rival<br>route<br>axis<br>tag<br>lucky
-bip_39_word_new_br9: mixture<br>doll<br>life<br>rival<br>route<br>axis<br>tag<br>lucky<br>way
-bip_39_word_new_line1: mixture
-bip_39_word_new_line10: 'mixture
+bip_39_word_new_br_1: mixture
+bip_39_word_new_br_10: mixture<br>doll<br>life<br>rival<br>route<br>axis<br>tag<br>lucky<br>way<br>panda
+bip_39_word_new_br_11: mixture<br>doll<br>life<br>rival<br>route<br>axis<br>tag<br>lucky<br>way<br>panda<br>rally
+bip_39_word_new_br_12: mixture<br>doll<br>life<br>rival<br>route<br>axis<br>tag<br>lucky<br>way<br>panda<br>rally<br>again
+bip_39_word_new_br_2: mixture<br>doll
+bip_39_word_new_br_3: mixture<br>doll<br>life
+bip_39_word_new_br_4: mixture<br>doll<br>life<br>rival
+bip_39_word_new_br_5: mixture<br>doll<br>life<br>rival<br>route
+bip_39_word_new_br_6: mixture<br>doll<br>life<br>rival<br>route<br>axis
+bip_39_word_new_br_7: mixture<br>doll<br>life<br>rival<br>route<br>axis<br>tag
+bip_39_word_new_br_8: mixture<br>doll<br>life<br>rival<br>route<br>axis<br>tag<br>lucky
+bip_39_word_new_br_9: mixture<br>doll<br>life<br>rival<br>route<br>axis<br>tag<br>lucky<br>way
+bip_39_word_new_line_1: mixture
+bip_39_word_new_line_10: 'mixture
 
   doll
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'mixture
   way
 
   panda'
-bip_39_word_new_line11: 'mixture
+bip_39_word_new_line_11: 'mixture
 
   doll
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'mixture
   panda
 
   rally'
-bip_39_word_new_line12: 'mixture
+bip_39_word_new_line_12: 'mixture
 
   doll
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'mixture
   rally
 
   again'
-bip_39_word_new_line2: 'mixture
+bip_39_word_new_line_2: 'mixture
 
   doll'
-bip_39_word_new_line3: 'mixture
+bip_39_word_new_line_3: 'mixture
 
   doll
 
   life'
-bip_39_word_new_line4: 'mixture
+bip_39_word_new_line_4: 'mixture
 
   doll
 
   life
 
   rival'
-bip_39_word_new_line5: 'mixture
+bip_39_word_new_line_5: 'mixture
 
   doll
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'mixture
   rival
 
   route'
-bip_39_word_new_line6: 'mixture
+bip_39_word_new_line_6: 'mixture
 
   doll
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'mixture
   route
 
   axis'
-bip_39_word_new_line7: 'mixture
+bip_39_word_new_line_7: 'mixture
 
   doll
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'mixture
   axis
 
   tag'
-bip_39_word_new_line8: 'mixture
+bip_39_word_new_line_8: 'mixture
 
   doll
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'mixture
   tag
 
   lucky'
-bip_39_word_new_line9: 'mixture
+bip_39_word_new_line_9: 'mixture
 
   doll
 

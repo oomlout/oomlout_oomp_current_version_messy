@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | infant |  
-| bip_39_word_new_br10 | infant<br>update<br>faint<br>soft<br>illness<br>antique<br>napkin<br>physical<br>trick<br>sausage |  
-| bip_39_word_new_br11 | infant<br>update<br>faint<br>soft<br>illness<br>antique<br>napkin<br>physical<br>trick<br>sausage<br>audit |  
-| bip_39_word_new_br12 | infant<br>update<br>faint<br>soft<br>illness<br>antique<br>napkin<br>physical<br>trick<br>sausage<br>audit<br>apology |  
-| bip_39_word_new_br2 | infant<br>update |  
-| bip_39_word_new_br3 | infant<br>update<br>faint |  
-| bip_39_word_new_br4 | infant<br>update<br>faint<br>soft |  
-| bip_39_word_new_br5 | infant<br>update<br>faint<br>soft<br>illness |  
-| bip_39_word_new_br6 | infant<br>update<br>faint<br>soft<br>illness<br>antique |  
-| bip_39_word_new_br7 | infant<br>update<br>faint<br>soft<br>illness<br>antique<br>napkin |  
-| bip_39_word_new_br8 | infant<br>update<br>faint<br>soft<br>illness<br>antique<br>napkin<br>physical |  
-| bip_39_word_new_br9 | infant<br>update<br>faint<br>soft<br>illness<br>antique<br>napkin<br>physical<br>trick |  
-| bip_39_word_new_line1 | infant |  
-| bip_39_word_new_line10 | infant
+| bip_39_word_new_br_1 | infant |  
+| bip_39_word_new_br_10 | infant<br>update<br>faint<br>soft<br>illness<br>antique<br>napkin<br>physical<br>trick<br>sausage |  
+| bip_39_word_new_br_11 | infant<br>update<br>faint<br>soft<br>illness<br>antique<br>napkin<br>physical<br>trick<br>sausage<br>audit |  
+| bip_39_word_new_br_12 | infant<br>update<br>faint<br>soft<br>illness<br>antique<br>napkin<br>physical<br>trick<br>sausage<br>audit<br>apology |  
+| bip_39_word_new_br_2 | infant<br>update |  
+| bip_39_word_new_br_3 | infant<br>update<br>faint |  
+| bip_39_word_new_br_4 | infant<br>update<br>faint<br>soft |  
+| bip_39_word_new_br_5 | infant<br>update<br>faint<br>soft<br>illness |  
+| bip_39_word_new_br_6 | infant<br>update<br>faint<br>soft<br>illness<br>antique |  
+| bip_39_word_new_br_7 | infant<br>update<br>faint<br>soft<br>illness<br>antique<br>napkin |  
+| bip_39_word_new_br_8 | infant<br>update<br>faint<br>soft<br>illness<br>antique<br>napkin<br>physical |  
+| bip_39_word_new_br_9 | infant<br>update<br>faint<br>soft<br>illness<br>antique<br>napkin<br>physical<br>trick |  
+| bip_39_word_new_line_1 | infant |  
+| bip_39_word_new_line_10 | infant
 update
 faint
 soft
@@ -55,7 +55,7 @@ napkin
 physical
 trick
 sausage |  
-| bip_39_word_new_line11 | infant
+| bip_39_word_new_line_11 | infant
 update
 faint
 soft
@@ -66,7 +66,7 @@ physical
 trick
 sausage
 audit |  
-| bip_39_word_new_line12 | infant
+| bip_39_word_new_line_12 | infant
 update
 faint
 soft
@@ -78,34 +78,34 @@ trick
 sausage
 audit
 apology |  
-| bip_39_word_new_line2 | infant
+| bip_39_word_new_line_2 | infant
 update |  
-| bip_39_word_new_line3 | infant
+| bip_39_word_new_line_3 | infant
 update
 faint |  
-| bip_39_word_new_line4 | infant
+| bip_39_word_new_line_4 | infant
 update
 faint
 soft |  
-| bip_39_word_new_line5 | infant
+| bip_39_word_new_line_5 | infant
 update
 faint
 soft
 illness |  
-| bip_39_word_new_line6 | infant
+| bip_39_word_new_line_6 | infant
 update
 faint
 soft
 illness
 antique |  
-| bip_39_word_new_line7 | infant
+| bip_39_word_new_line_7 | infant
 update
 faint
 soft
 illness
 antique
 napkin |  
-| bip_39_word_new_line8 | infant
+| bip_39_word_new_line_8 | infant
 update
 faint
 soft
@@ -113,7 +113,7 @@ illness
 antique
 napkin
 physical |  
-| bip_39_word_new_line9 | infant
+| bip_39_word_new_line_9 | infant
 update
 faint
 soft

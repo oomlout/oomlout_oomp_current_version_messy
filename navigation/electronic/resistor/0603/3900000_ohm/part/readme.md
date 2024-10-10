@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | vintage |  
-| bip_39_word_new_br10 | vintage<br>sword<br>dash<br>session<br>sauce<br>helmet<br>shoulder<br>sort<br>pistol<br>hat |  
-| bip_39_word_new_br11 | vintage<br>sword<br>dash<br>session<br>sauce<br>helmet<br>shoulder<br>sort<br>pistol<br>hat<br>range |  
-| bip_39_word_new_br12 | vintage<br>sword<br>dash<br>session<br>sauce<br>helmet<br>shoulder<br>sort<br>pistol<br>hat<br>range<br>any |  
-| bip_39_word_new_br2 | vintage<br>sword |  
-| bip_39_word_new_br3 | vintage<br>sword<br>dash |  
-| bip_39_word_new_br4 | vintage<br>sword<br>dash<br>session |  
-| bip_39_word_new_br5 | vintage<br>sword<br>dash<br>session<br>sauce |  
-| bip_39_word_new_br6 | vintage<br>sword<br>dash<br>session<br>sauce<br>helmet |  
-| bip_39_word_new_br7 | vintage<br>sword<br>dash<br>session<br>sauce<br>helmet<br>shoulder |  
-| bip_39_word_new_br8 | vintage<br>sword<br>dash<br>session<br>sauce<br>helmet<br>shoulder<br>sort |  
-| bip_39_word_new_br9 | vintage<br>sword<br>dash<br>session<br>sauce<br>helmet<br>shoulder<br>sort<br>pistol |  
-| bip_39_word_new_line1 | vintage |  
-| bip_39_word_new_line10 | vintage
+| bip_39_word_new_br_1 | vintage |  
+| bip_39_word_new_br_10 | vintage<br>sword<br>dash<br>session<br>sauce<br>helmet<br>shoulder<br>sort<br>pistol<br>hat |  
+| bip_39_word_new_br_11 | vintage<br>sword<br>dash<br>session<br>sauce<br>helmet<br>shoulder<br>sort<br>pistol<br>hat<br>range |  
+| bip_39_word_new_br_12 | vintage<br>sword<br>dash<br>session<br>sauce<br>helmet<br>shoulder<br>sort<br>pistol<br>hat<br>range<br>any |  
+| bip_39_word_new_br_2 | vintage<br>sword |  
+| bip_39_word_new_br_3 | vintage<br>sword<br>dash |  
+| bip_39_word_new_br_4 | vintage<br>sword<br>dash<br>session |  
+| bip_39_word_new_br_5 | vintage<br>sword<br>dash<br>session<br>sauce |  
+| bip_39_word_new_br_6 | vintage<br>sword<br>dash<br>session<br>sauce<br>helmet |  
+| bip_39_word_new_br_7 | vintage<br>sword<br>dash<br>session<br>sauce<br>helmet<br>shoulder |  
+| bip_39_word_new_br_8 | vintage<br>sword<br>dash<br>session<br>sauce<br>helmet<br>shoulder<br>sort |  
+| bip_39_word_new_br_9 | vintage<br>sword<br>dash<br>session<br>sauce<br>helmet<br>shoulder<br>sort<br>pistol |  
+| bip_39_word_new_line_1 | vintage |  
+| bip_39_word_new_line_10 | vintage
 sword
 dash
 session
@@ -55,7 +55,7 @@ shoulder
 sort
 pistol
 hat |  
-| bip_39_word_new_line11 | vintage
+| bip_39_word_new_line_11 | vintage
 sword
 dash
 session
@@ -66,7 +66,7 @@ sort
 pistol
 hat
 range |  
-| bip_39_word_new_line12 | vintage
+| bip_39_word_new_line_12 | vintage
 sword
 dash
 session
@@ -78,34 +78,34 @@ pistol
 hat
 range
 any |  
-| bip_39_word_new_line2 | vintage
+| bip_39_word_new_line_2 | vintage
 sword |  
-| bip_39_word_new_line3 | vintage
+| bip_39_word_new_line_3 | vintage
 sword
 dash |  
-| bip_39_word_new_line4 | vintage
+| bip_39_word_new_line_4 | vintage
 sword
 dash
 session |  
-| bip_39_word_new_line5 | vintage
+| bip_39_word_new_line_5 | vintage
 sword
 dash
 session
 sauce |  
-| bip_39_word_new_line6 | vintage
+| bip_39_word_new_line_6 | vintage
 sword
 dash
 session
 sauce
 helmet |  
-| bip_39_word_new_line7 | vintage
+| bip_39_word_new_line_7 | vintage
 sword
 dash
 session
 sauce
 helmet
 shoulder |  
-| bip_39_word_new_line8 | vintage
+| bip_39_word_new_line_8 | vintage
 sword
 dash
 session
@@ -113,7 +113,7 @@ sauce
 helmet
 shoulder
 sort |  
-| bip_39_word_new_line9 | vintage
+| bip_39_word_new_line_9 | vintage
 sword
 dash
 session

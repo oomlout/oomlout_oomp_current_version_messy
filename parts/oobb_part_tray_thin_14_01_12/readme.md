@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | talk |  
-| bip_39_word_new_br10 | talk<br>ivory<br>harvest<br>lend<br>velvet<br>clog<br>news<br>act<br>swamp<br>differ |  
-| bip_39_word_new_br11 | talk<br>ivory<br>harvest<br>lend<br>velvet<br>clog<br>news<br>act<br>swamp<br>differ<br>road |  
-| bip_39_word_new_br12 | talk<br>ivory<br>harvest<br>lend<br>velvet<br>clog<br>news<br>act<br>swamp<br>differ<br>road<br>amount |  
-| bip_39_word_new_br2 | talk<br>ivory |  
-| bip_39_word_new_br3 | talk<br>ivory<br>harvest |  
-| bip_39_word_new_br4 | talk<br>ivory<br>harvest<br>lend |  
-| bip_39_word_new_br5 | talk<br>ivory<br>harvest<br>lend<br>velvet |  
-| bip_39_word_new_br6 | talk<br>ivory<br>harvest<br>lend<br>velvet<br>clog |  
-| bip_39_word_new_br7 | talk<br>ivory<br>harvest<br>lend<br>velvet<br>clog<br>news |  
-| bip_39_word_new_br8 | talk<br>ivory<br>harvest<br>lend<br>velvet<br>clog<br>news<br>act |  
-| bip_39_word_new_br9 | talk<br>ivory<br>harvest<br>lend<br>velvet<br>clog<br>news<br>act<br>swamp |  
-| bip_39_word_new_line1 | talk |  
-| bip_39_word_new_line10 | talk
+| bip_39_word_new_br_1 | talk |  
+| bip_39_word_new_br_10 | talk<br>ivory<br>harvest<br>lend<br>velvet<br>clog<br>news<br>act<br>swamp<br>differ |  
+| bip_39_word_new_br_11 | talk<br>ivory<br>harvest<br>lend<br>velvet<br>clog<br>news<br>act<br>swamp<br>differ<br>road |  
+| bip_39_word_new_br_12 | talk<br>ivory<br>harvest<br>lend<br>velvet<br>clog<br>news<br>act<br>swamp<br>differ<br>road<br>amount |  
+| bip_39_word_new_br_2 | talk<br>ivory |  
+| bip_39_word_new_br_3 | talk<br>ivory<br>harvest |  
+| bip_39_word_new_br_4 | talk<br>ivory<br>harvest<br>lend |  
+| bip_39_word_new_br_5 | talk<br>ivory<br>harvest<br>lend<br>velvet |  
+| bip_39_word_new_br_6 | talk<br>ivory<br>harvest<br>lend<br>velvet<br>clog |  
+| bip_39_word_new_br_7 | talk<br>ivory<br>harvest<br>lend<br>velvet<br>clog<br>news |  
+| bip_39_word_new_br_8 | talk<br>ivory<br>harvest<br>lend<br>velvet<br>clog<br>news<br>act |  
+| bip_39_word_new_br_9 | talk<br>ivory<br>harvest<br>lend<br>velvet<br>clog<br>news<br>act<br>swamp |  
+| bip_39_word_new_line_1 | talk |  
+| bip_39_word_new_line_10 | talk
 ivory
 harvest
 lend
@@ -55,7 +55,7 @@ news
 act
 swamp
 differ |  
-| bip_39_word_new_line11 | talk
+| bip_39_word_new_line_11 | talk
 ivory
 harvest
 lend
@@ -66,7 +66,7 @@ act
 swamp
 differ
 road |  
-| bip_39_word_new_line12 | talk
+| bip_39_word_new_line_12 | talk
 ivory
 harvest
 lend
@@ -78,34 +78,34 @@ swamp
 differ
 road
 amount |  
-| bip_39_word_new_line2 | talk
+| bip_39_word_new_line_2 | talk
 ivory |  
-| bip_39_word_new_line3 | talk
+| bip_39_word_new_line_3 | talk
 ivory
 harvest |  
-| bip_39_word_new_line4 | talk
+| bip_39_word_new_line_4 | talk
 ivory
 harvest
 lend |  
-| bip_39_word_new_line5 | talk
+| bip_39_word_new_line_5 | talk
 ivory
 harvest
 lend
 velvet |  
-| bip_39_word_new_line6 | talk
+| bip_39_word_new_line_6 | talk
 ivory
 harvest
 lend
 velvet
 clog |  
-| bip_39_word_new_line7 | talk
+| bip_39_word_new_line_7 | talk
 ivory
 harvest
 lend
 velvet
 clog
 news |  
-| bip_39_word_new_line8 | talk
+| bip_39_word_new_line_8 | talk
 ivory
 harvest
 lend
@@ -113,7 +113,7 @@ velvet
 clog
 news
 act |  
-| bip_39_word_new_line9 | talk
+| bip_39_word_new_line_9 | talk
 ivory
 harvest
 lend

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | idle |  
-| bip_39_word_new_br10 | idle<br>digital<br>tomato<br>major<br>canvas<br>avocado<br>voyage<br>mimic<br>drift<br>sun |  
-| bip_39_word_new_br11 | idle<br>digital<br>tomato<br>major<br>canvas<br>avocado<br>voyage<br>mimic<br>drift<br>sun<br>fashion |  
-| bip_39_word_new_br12 | idle<br>digital<br>tomato<br>major<br>canvas<br>avocado<br>voyage<br>mimic<br>drift<br>sun<br>fashion<br>anxiety |  
-| bip_39_word_new_br2 | idle<br>digital |  
-| bip_39_word_new_br3 | idle<br>digital<br>tomato |  
-| bip_39_word_new_br4 | idle<br>digital<br>tomato<br>major |  
-| bip_39_word_new_br5 | idle<br>digital<br>tomato<br>major<br>canvas |  
-| bip_39_word_new_br6 | idle<br>digital<br>tomato<br>major<br>canvas<br>avocado |  
-| bip_39_word_new_br7 | idle<br>digital<br>tomato<br>major<br>canvas<br>avocado<br>voyage |  
-| bip_39_word_new_br8 | idle<br>digital<br>tomato<br>major<br>canvas<br>avocado<br>voyage<br>mimic |  
-| bip_39_word_new_br9 | idle<br>digital<br>tomato<br>major<br>canvas<br>avocado<br>voyage<br>mimic<br>drift |  
-| bip_39_word_new_line1 | idle |  
-| bip_39_word_new_line10 | idle
+| bip_39_word_new_br_1 | idle |  
+| bip_39_word_new_br_10 | idle<br>digital<br>tomato<br>major<br>canvas<br>avocado<br>voyage<br>mimic<br>drift<br>sun |  
+| bip_39_word_new_br_11 | idle<br>digital<br>tomato<br>major<br>canvas<br>avocado<br>voyage<br>mimic<br>drift<br>sun<br>fashion |  
+| bip_39_word_new_br_12 | idle<br>digital<br>tomato<br>major<br>canvas<br>avocado<br>voyage<br>mimic<br>drift<br>sun<br>fashion<br>anxiety |  
+| bip_39_word_new_br_2 | idle<br>digital |  
+| bip_39_word_new_br_3 | idle<br>digital<br>tomato |  
+| bip_39_word_new_br_4 | idle<br>digital<br>tomato<br>major |  
+| bip_39_word_new_br_5 | idle<br>digital<br>tomato<br>major<br>canvas |  
+| bip_39_word_new_br_6 | idle<br>digital<br>tomato<br>major<br>canvas<br>avocado |  
+| bip_39_word_new_br_7 | idle<br>digital<br>tomato<br>major<br>canvas<br>avocado<br>voyage |  
+| bip_39_word_new_br_8 | idle<br>digital<br>tomato<br>major<br>canvas<br>avocado<br>voyage<br>mimic |  
+| bip_39_word_new_br_9 | idle<br>digital<br>tomato<br>major<br>canvas<br>avocado<br>voyage<br>mimic<br>drift |  
+| bip_39_word_new_line_1 | idle |  
+| bip_39_word_new_line_10 | idle
 digital
 tomato
 major
@@ -55,7 +55,7 @@ voyage
 mimic
 drift
 sun |  
-| bip_39_word_new_line11 | idle
+| bip_39_word_new_line_11 | idle
 digital
 tomato
 major
@@ -66,7 +66,7 @@ mimic
 drift
 sun
 fashion |  
-| bip_39_word_new_line12 | idle
+| bip_39_word_new_line_12 | idle
 digital
 tomato
 major
@@ -78,34 +78,34 @@ drift
 sun
 fashion
 anxiety |  
-| bip_39_word_new_line2 | idle
+| bip_39_word_new_line_2 | idle
 digital |  
-| bip_39_word_new_line3 | idle
+| bip_39_word_new_line_3 | idle
 digital
 tomato |  
-| bip_39_word_new_line4 | idle
+| bip_39_word_new_line_4 | idle
 digital
 tomato
 major |  
-| bip_39_word_new_line5 | idle
+| bip_39_word_new_line_5 | idle
 digital
 tomato
 major
 canvas |  
-| bip_39_word_new_line6 | idle
+| bip_39_word_new_line_6 | idle
 digital
 tomato
 major
 canvas
 avocado |  
-| bip_39_word_new_line7 | idle
+| bip_39_word_new_line_7 | idle
 digital
 tomato
 major
 canvas
 avocado
 voyage |  
-| bip_39_word_new_line8 | idle
+| bip_39_word_new_line_8 | idle
 digital
 tomato
 major
@@ -113,7 +113,7 @@ canvas
 avocado
 voyage
 mimic |  
-| bip_39_word_new_line9 | idle
+| bip_39_word_new_line_9 | idle
 digital
 tomato
 major

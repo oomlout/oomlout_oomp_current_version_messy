@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | grunt |  
-| bip_39_word_new_br10 | grunt<br>cave<br>write<br>stuff<br>hawk<br>cost<br>soup<br>hair<br>fashion<br>shrug |  
-| bip_39_word_new_br11 | grunt<br>cave<br>write<br>stuff<br>hawk<br>cost<br>soup<br>hair<br>fashion<br>shrug<br>survey |  
-| bip_39_word_new_br12 | grunt<br>cave<br>write<br>stuff<br>hawk<br>cost<br>soup<br>hair<br>fashion<br>shrug<br>survey<br>any |  
-| bip_39_word_new_br2 | grunt<br>cave |  
-| bip_39_word_new_br3 | grunt<br>cave<br>write |  
-| bip_39_word_new_br4 | grunt<br>cave<br>write<br>stuff |  
-| bip_39_word_new_br5 | grunt<br>cave<br>write<br>stuff<br>hawk |  
-| bip_39_word_new_br6 | grunt<br>cave<br>write<br>stuff<br>hawk<br>cost |  
-| bip_39_word_new_br7 | grunt<br>cave<br>write<br>stuff<br>hawk<br>cost<br>soup |  
-| bip_39_word_new_br8 | grunt<br>cave<br>write<br>stuff<br>hawk<br>cost<br>soup<br>hair |  
-| bip_39_word_new_br9 | grunt<br>cave<br>write<br>stuff<br>hawk<br>cost<br>soup<br>hair<br>fashion |  
-| bip_39_word_new_line1 | grunt |  
-| bip_39_word_new_line10 | grunt
+| bip_39_word_new_br_1 | grunt |  
+| bip_39_word_new_br_10 | grunt<br>cave<br>write<br>stuff<br>hawk<br>cost<br>soup<br>hair<br>fashion<br>shrug |  
+| bip_39_word_new_br_11 | grunt<br>cave<br>write<br>stuff<br>hawk<br>cost<br>soup<br>hair<br>fashion<br>shrug<br>survey |  
+| bip_39_word_new_br_12 | grunt<br>cave<br>write<br>stuff<br>hawk<br>cost<br>soup<br>hair<br>fashion<br>shrug<br>survey<br>any |  
+| bip_39_word_new_br_2 | grunt<br>cave |  
+| bip_39_word_new_br_3 | grunt<br>cave<br>write |  
+| bip_39_word_new_br_4 | grunt<br>cave<br>write<br>stuff |  
+| bip_39_word_new_br_5 | grunt<br>cave<br>write<br>stuff<br>hawk |  
+| bip_39_word_new_br_6 | grunt<br>cave<br>write<br>stuff<br>hawk<br>cost |  
+| bip_39_word_new_br_7 | grunt<br>cave<br>write<br>stuff<br>hawk<br>cost<br>soup |  
+| bip_39_word_new_br_8 | grunt<br>cave<br>write<br>stuff<br>hawk<br>cost<br>soup<br>hair |  
+| bip_39_word_new_br_9 | grunt<br>cave<br>write<br>stuff<br>hawk<br>cost<br>soup<br>hair<br>fashion |  
+| bip_39_word_new_line_1 | grunt |  
+| bip_39_word_new_line_10 | grunt
 cave
 write
 stuff
@@ -55,7 +55,7 @@ soup
 hair
 fashion
 shrug |  
-| bip_39_word_new_line11 | grunt
+| bip_39_word_new_line_11 | grunt
 cave
 write
 stuff
@@ -66,7 +66,7 @@ hair
 fashion
 shrug
 survey |  
-| bip_39_word_new_line12 | grunt
+| bip_39_word_new_line_12 | grunt
 cave
 write
 stuff
@@ -78,34 +78,34 @@ fashion
 shrug
 survey
 any |  
-| bip_39_word_new_line2 | grunt
+| bip_39_word_new_line_2 | grunt
 cave |  
-| bip_39_word_new_line3 | grunt
+| bip_39_word_new_line_3 | grunt
 cave
 write |  
-| bip_39_word_new_line4 | grunt
+| bip_39_word_new_line_4 | grunt
 cave
 write
 stuff |  
-| bip_39_word_new_line5 | grunt
+| bip_39_word_new_line_5 | grunt
 cave
 write
 stuff
 hawk |  
-| bip_39_word_new_line6 | grunt
+| bip_39_word_new_line_6 | grunt
 cave
 write
 stuff
 hawk
 cost |  
-| bip_39_word_new_line7 | grunt
+| bip_39_word_new_line_7 | grunt
 cave
 write
 stuff
 hawk
 cost
 soup |  
-| bip_39_word_new_line8 | grunt
+| bip_39_word_new_line_8 | grunt
 cave
 write
 stuff
@@ -113,7 +113,7 @@ hawk
 cost
 soup
 hair |  
-| bip_39_word_new_line9 | grunt
+| bip_39_word_new_line_9 | grunt
 cave
 write
 stuff

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bottom |  
-| bip_39_word_new_br10 | bottom<br>toss<br>bless<br>gorilla<br>try<br>bargain<br>old<br>club<br>salute<br>bullet |  
-| bip_39_word_new_br11 | bottom<br>toss<br>bless<br>gorilla<br>try<br>bargain<br>old<br>club<br>salute<br>bullet<br>pave |  
-| bip_39_word_new_br12 | bottom<br>toss<br>bless<br>gorilla<br>try<br>bargain<br>old<br>club<br>salute<br>bullet<br>pave<br>across |  
-| bip_39_word_new_br2 | bottom<br>toss |  
-| bip_39_word_new_br3 | bottom<br>toss<br>bless |  
-| bip_39_word_new_br4 | bottom<br>toss<br>bless<br>gorilla |  
-| bip_39_word_new_br5 | bottom<br>toss<br>bless<br>gorilla<br>try |  
-| bip_39_word_new_br6 | bottom<br>toss<br>bless<br>gorilla<br>try<br>bargain |  
-| bip_39_word_new_br7 | bottom<br>toss<br>bless<br>gorilla<br>try<br>bargain<br>old |  
-| bip_39_word_new_br8 | bottom<br>toss<br>bless<br>gorilla<br>try<br>bargain<br>old<br>club |  
-| bip_39_word_new_br9 | bottom<br>toss<br>bless<br>gorilla<br>try<br>bargain<br>old<br>club<br>salute |  
-| bip_39_word_new_line1 | bottom |  
-| bip_39_word_new_line10 | bottom
+| bip_39_word_new_br_1 | bottom |  
+| bip_39_word_new_br_10 | bottom<br>toss<br>bless<br>gorilla<br>try<br>bargain<br>old<br>club<br>salute<br>bullet |  
+| bip_39_word_new_br_11 | bottom<br>toss<br>bless<br>gorilla<br>try<br>bargain<br>old<br>club<br>salute<br>bullet<br>pave |  
+| bip_39_word_new_br_12 | bottom<br>toss<br>bless<br>gorilla<br>try<br>bargain<br>old<br>club<br>salute<br>bullet<br>pave<br>across |  
+| bip_39_word_new_br_2 | bottom<br>toss |  
+| bip_39_word_new_br_3 | bottom<br>toss<br>bless |  
+| bip_39_word_new_br_4 | bottom<br>toss<br>bless<br>gorilla |  
+| bip_39_word_new_br_5 | bottom<br>toss<br>bless<br>gorilla<br>try |  
+| bip_39_word_new_br_6 | bottom<br>toss<br>bless<br>gorilla<br>try<br>bargain |  
+| bip_39_word_new_br_7 | bottom<br>toss<br>bless<br>gorilla<br>try<br>bargain<br>old |  
+| bip_39_word_new_br_8 | bottom<br>toss<br>bless<br>gorilla<br>try<br>bargain<br>old<br>club |  
+| bip_39_word_new_br_9 | bottom<br>toss<br>bless<br>gorilla<br>try<br>bargain<br>old<br>club<br>salute |  
+| bip_39_word_new_line_1 | bottom |  
+| bip_39_word_new_line_10 | bottom
 toss
 bless
 gorilla
@@ -55,7 +55,7 @@ old
 club
 salute
 bullet |  
-| bip_39_word_new_line11 | bottom
+| bip_39_word_new_line_11 | bottom
 toss
 bless
 gorilla
@@ -66,7 +66,7 @@ club
 salute
 bullet
 pave |  
-| bip_39_word_new_line12 | bottom
+| bip_39_word_new_line_12 | bottom
 toss
 bless
 gorilla
@@ -78,34 +78,34 @@ salute
 bullet
 pave
 across |  
-| bip_39_word_new_line2 | bottom
+| bip_39_word_new_line_2 | bottom
 toss |  
-| bip_39_word_new_line3 | bottom
+| bip_39_word_new_line_3 | bottom
 toss
 bless |  
-| bip_39_word_new_line4 | bottom
+| bip_39_word_new_line_4 | bottom
 toss
 bless
 gorilla |  
-| bip_39_word_new_line5 | bottom
+| bip_39_word_new_line_5 | bottom
 toss
 bless
 gorilla
 try |  
-| bip_39_word_new_line6 | bottom
+| bip_39_word_new_line_6 | bottom
 toss
 bless
 gorilla
 try
 bargain |  
-| bip_39_word_new_line7 | bottom
+| bip_39_word_new_line_7 | bottom
 toss
 bless
 gorilla
 try
 bargain
 old |  
-| bip_39_word_new_line8 | bottom
+| bip_39_word_new_line_8 | bottom
 toss
 bless
 gorilla
@@ -113,7 +113,7 @@ try
 bargain
 old
 club |  
-| bip_39_word_new_line9 | bottom
+| bip_39_word_new_line_9 | bottom
 toss
 bless
 gorilla

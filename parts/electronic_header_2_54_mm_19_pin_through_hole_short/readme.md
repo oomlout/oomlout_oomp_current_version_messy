@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | enforce |  
-| bip_39_word_new_br10 | enforce<br>truly<br>sure<br>flash<br>tortoise<br>pipe<br>order<br>absent<br>ride<br>decrease |  
-| bip_39_word_new_br11 | enforce<br>truly<br>sure<br>flash<br>tortoise<br>pipe<br>order<br>absent<br>ride<br>decrease<br>tornado |  
-| bip_39_word_new_br12 | enforce<br>truly<br>sure<br>flash<br>tortoise<br>pipe<br>order<br>absent<br>ride<br>decrease<br>tornado<br>antenna |  
-| bip_39_word_new_br2 | enforce<br>truly |  
-| bip_39_word_new_br3 | enforce<br>truly<br>sure |  
-| bip_39_word_new_br4 | enforce<br>truly<br>sure<br>flash |  
-| bip_39_word_new_br5 | enforce<br>truly<br>sure<br>flash<br>tortoise |  
-| bip_39_word_new_br6 | enforce<br>truly<br>sure<br>flash<br>tortoise<br>pipe |  
-| bip_39_word_new_br7 | enforce<br>truly<br>sure<br>flash<br>tortoise<br>pipe<br>order |  
-| bip_39_word_new_br8 | enforce<br>truly<br>sure<br>flash<br>tortoise<br>pipe<br>order<br>absent |  
-| bip_39_word_new_br9 | enforce<br>truly<br>sure<br>flash<br>tortoise<br>pipe<br>order<br>absent<br>ride |  
-| bip_39_word_new_line1 | enforce |  
-| bip_39_word_new_line10 | enforce
+| bip_39_word_new_br_1 | enforce |  
+| bip_39_word_new_br_10 | enforce<br>truly<br>sure<br>flash<br>tortoise<br>pipe<br>order<br>absent<br>ride<br>decrease |  
+| bip_39_word_new_br_11 | enforce<br>truly<br>sure<br>flash<br>tortoise<br>pipe<br>order<br>absent<br>ride<br>decrease<br>tornado |  
+| bip_39_word_new_br_12 | enforce<br>truly<br>sure<br>flash<br>tortoise<br>pipe<br>order<br>absent<br>ride<br>decrease<br>tornado<br>antenna |  
+| bip_39_word_new_br_2 | enforce<br>truly |  
+| bip_39_word_new_br_3 | enforce<br>truly<br>sure |  
+| bip_39_word_new_br_4 | enforce<br>truly<br>sure<br>flash |  
+| bip_39_word_new_br_5 | enforce<br>truly<br>sure<br>flash<br>tortoise |  
+| bip_39_word_new_br_6 | enforce<br>truly<br>sure<br>flash<br>tortoise<br>pipe |  
+| bip_39_word_new_br_7 | enforce<br>truly<br>sure<br>flash<br>tortoise<br>pipe<br>order |  
+| bip_39_word_new_br_8 | enforce<br>truly<br>sure<br>flash<br>tortoise<br>pipe<br>order<br>absent |  
+| bip_39_word_new_br_9 | enforce<br>truly<br>sure<br>flash<br>tortoise<br>pipe<br>order<br>absent<br>ride |  
+| bip_39_word_new_line_1 | enforce |  
+| bip_39_word_new_line_10 | enforce
 truly
 sure
 flash
@@ -55,7 +55,7 @@ order
 absent
 ride
 decrease |  
-| bip_39_word_new_line11 | enforce
+| bip_39_word_new_line_11 | enforce
 truly
 sure
 flash
@@ -66,7 +66,7 @@ absent
 ride
 decrease
 tornado |  
-| bip_39_word_new_line12 | enforce
+| bip_39_word_new_line_12 | enforce
 truly
 sure
 flash
@@ -78,34 +78,34 @@ ride
 decrease
 tornado
 antenna |  
-| bip_39_word_new_line2 | enforce
+| bip_39_word_new_line_2 | enforce
 truly |  
-| bip_39_word_new_line3 | enforce
+| bip_39_word_new_line_3 | enforce
 truly
 sure |  
-| bip_39_word_new_line4 | enforce
+| bip_39_word_new_line_4 | enforce
 truly
 sure
 flash |  
-| bip_39_word_new_line5 | enforce
+| bip_39_word_new_line_5 | enforce
 truly
 sure
 flash
 tortoise |  
-| bip_39_word_new_line6 | enforce
+| bip_39_word_new_line_6 | enforce
 truly
 sure
 flash
 tortoise
 pipe |  
-| bip_39_word_new_line7 | enforce
+| bip_39_word_new_line_7 | enforce
 truly
 sure
 flash
 tortoise
 pipe
 order |  
-| bip_39_word_new_line8 | enforce
+| bip_39_word_new_line_8 | enforce
 truly
 sure
 flash
@@ -113,7 +113,7 @@ tortoise
 pipe
 order
 absent |  
-| bip_39_word_new_line9 | enforce
+| bip_39_word_new_line_9 | enforce
 truly
 sure
 flash

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | end |  
-| bip_39_word_new_br10 | end<br>odor<br>glory<br>tumble<br>program<br>garage<br>stem<br>swamp<br>valve<br>abandon |  
-| bip_39_word_new_br11 | end<br>odor<br>glory<br>tumble<br>program<br>garage<br>stem<br>swamp<br>valve<br>abandon<br>buyer |  
-| bip_39_word_new_br12 | end<br>odor<br>glory<br>tumble<br>program<br>garage<br>stem<br>swamp<br>valve<br>abandon<br>buyer<br>admit |  
-| bip_39_word_new_br2 | end<br>odor |  
-| bip_39_word_new_br3 | end<br>odor<br>glory |  
-| bip_39_word_new_br4 | end<br>odor<br>glory<br>tumble |  
-| bip_39_word_new_br5 | end<br>odor<br>glory<br>tumble<br>program |  
-| bip_39_word_new_br6 | end<br>odor<br>glory<br>tumble<br>program<br>garage |  
-| bip_39_word_new_br7 | end<br>odor<br>glory<br>tumble<br>program<br>garage<br>stem |  
-| bip_39_word_new_br8 | end<br>odor<br>glory<br>tumble<br>program<br>garage<br>stem<br>swamp |  
-| bip_39_word_new_br9 | end<br>odor<br>glory<br>tumble<br>program<br>garage<br>stem<br>swamp<br>valve |  
-| bip_39_word_new_line1 | end |  
-| bip_39_word_new_line10 | end
+| bip_39_word_new_br_1 | end |  
+| bip_39_word_new_br_10 | end<br>odor<br>glory<br>tumble<br>program<br>garage<br>stem<br>swamp<br>valve<br>abandon |  
+| bip_39_word_new_br_11 | end<br>odor<br>glory<br>tumble<br>program<br>garage<br>stem<br>swamp<br>valve<br>abandon<br>buyer |  
+| bip_39_word_new_br_12 | end<br>odor<br>glory<br>tumble<br>program<br>garage<br>stem<br>swamp<br>valve<br>abandon<br>buyer<br>admit |  
+| bip_39_word_new_br_2 | end<br>odor |  
+| bip_39_word_new_br_3 | end<br>odor<br>glory |  
+| bip_39_word_new_br_4 | end<br>odor<br>glory<br>tumble |  
+| bip_39_word_new_br_5 | end<br>odor<br>glory<br>tumble<br>program |  
+| bip_39_word_new_br_6 | end<br>odor<br>glory<br>tumble<br>program<br>garage |  
+| bip_39_word_new_br_7 | end<br>odor<br>glory<br>tumble<br>program<br>garage<br>stem |  
+| bip_39_word_new_br_8 | end<br>odor<br>glory<br>tumble<br>program<br>garage<br>stem<br>swamp |  
+| bip_39_word_new_br_9 | end<br>odor<br>glory<br>tumble<br>program<br>garage<br>stem<br>swamp<br>valve |  
+| bip_39_word_new_line_1 | end |  
+| bip_39_word_new_line_10 | end
 odor
 glory
 tumble
@@ -55,7 +55,7 @@ stem
 swamp
 valve
 abandon |  
-| bip_39_word_new_line11 | end
+| bip_39_word_new_line_11 | end
 odor
 glory
 tumble
@@ -66,7 +66,7 @@ swamp
 valve
 abandon
 buyer |  
-| bip_39_word_new_line12 | end
+| bip_39_word_new_line_12 | end
 odor
 glory
 tumble
@@ -78,34 +78,34 @@ valve
 abandon
 buyer
 admit |  
-| bip_39_word_new_line2 | end
+| bip_39_word_new_line_2 | end
 odor |  
-| bip_39_word_new_line3 | end
+| bip_39_word_new_line_3 | end
 odor
 glory |  
-| bip_39_word_new_line4 | end
+| bip_39_word_new_line_4 | end
 odor
 glory
 tumble |  
-| bip_39_word_new_line5 | end
+| bip_39_word_new_line_5 | end
 odor
 glory
 tumble
 program |  
-| bip_39_word_new_line6 | end
+| bip_39_word_new_line_6 | end
 odor
 glory
 tumble
 program
 garage |  
-| bip_39_word_new_line7 | end
+| bip_39_word_new_line_7 | end
 odor
 glory
 tumble
 program
 garage
 stem |  
-| bip_39_word_new_line8 | end
+| bip_39_word_new_line_8 | end
 odor
 glory
 tumble
@@ -113,7 +113,7 @@ program
 garage
 stem
 swamp |  
-| bip_39_word_new_line9 | end
+| bip_39_word_new_line_9 | end
 odor
 glory
 tumble

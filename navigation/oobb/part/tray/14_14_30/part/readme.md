@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | raise |  
-| bip_39_word_new_br10 | raise<br>swift<br>milk<br>fetch<br>spatial<br>minor<br>demise<br>grab<br>dune<br>history |  
-| bip_39_word_new_br11 | raise<br>swift<br>milk<br>fetch<br>spatial<br>minor<br>demise<br>grab<br>dune<br>history<br>ball |  
-| bip_39_word_new_br12 | raise<br>swift<br>milk<br>fetch<br>spatial<br>minor<br>demise<br>grab<br>dune<br>history<br>ball<br>army |  
-| bip_39_word_new_br2 | raise<br>swift |  
-| bip_39_word_new_br3 | raise<br>swift<br>milk |  
-| bip_39_word_new_br4 | raise<br>swift<br>milk<br>fetch |  
-| bip_39_word_new_br5 | raise<br>swift<br>milk<br>fetch<br>spatial |  
-| bip_39_word_new_br6 | raise<br>swift<br>milk<br>fetch<br>spatial<br>minor |  
-| bip_39_word_new_br7 | raise<br>swift<br>milk<br>fetch<br>spatial<br>minor<br>demise |  
-| bip_39_word_new_br8 | raise<br>swift<br>milk<br>fetch<br>spatial<br>minor<br>demise<br>grab |  
-| bip_39_word_new_br9 | raise<br>swift<br>milk<br>fetch<br>spatial<br>minor<br>demise<br>grab<br>dune |  
-| bip_39_word_new_line1 | raise |  
-| bip_39_word_new_line10 | raise
+| bip_39_word_new_br_1 | raise |  
+| bip_39_word_new_br_10 | raise<br>swift<br>milk<br>fetch<br>spatial<br>minor<br>demise<br>grab<br>dune<br>history |  
+| bip_39_word_new_br_11 | raise<br>swift<br>milk<br>fetch<br>spatial<br>minor<br>demise<br>grab<br>dune<br>history<br>ball |  
+| bip_39_word_new_br_12 | raise<br>swift<br>milk<br>fetch<br>spatial<br>minor<br>demise<br>grab<br>dune<br>history<br>ball<br>army |  
+| bip_39_word_new_br_2 | raise<br>swift |  
+| bip_39_word_new_br_3 | raise<br>swift<br>milk |  
+| bip_39_word_new_br_4 | raise<br>swift<br>milk<br>fetch |  
+| bip_39_word_new_br_5 | raise<br>swift<br>milk<br>fetch<br>spatial |  
+| bip_39_word_new_br_6 | raise<br>swift<br>milk<br>fetch<br>spatial<br>minor |  
+| bip_39_word_new_br_7 | raise<br>swift<br>milk<br>fetch<br>spatial<br>minor<br>demise |  
+| bip_39_word_new_br_8 | raise<br>swift<br>milk<br>fetch<br>spatial<br>minor<br>demise<br>grab |  
+| bip_39_word_new_br_9 | raise<br>swift<br>milk<br>fetch<br>spatial<br>minor<br>demise<br>grab<br>dune |  
+| bip_39_word_new_line_1 | raise |  
+| bip_39_word_new_line_10 | raise
 swift
 milk
 fetch
@@ -55,7 +55,7 @@ demise
 grab
 dune
 history |  
-| bip_39_word_new_line11 | raise
+| bip_39_word_new_line_11 | raise
 swift
 milk
 fetch
@@ -66,7 +66,7 @@ grab
 dune
 history
 ball |  
-| bip_39_word_new_line12 | raise
+| bip_39_word_new_line_12 | raise
 swift
 milk
 fetch
@@ -78,34 +78,34 @@ dune
 history
 ball
 army |  
-| bip_39_word_new_line2 | raise
+| bip_39_word_new_line_2 | raise
 swift |  
-| bip_39_word_new_line3 | raise
+| bip_39_word_new_line_3 | raise
 swift
 milk |  
-| bip_39_word_new_line4 | raise
+| bip_39_word_new_line_4 | raise
 swift
 milk
 fetch |  
-| bip_39_word_new_line5 | raise
+| bip_39_word_new_line_5 | raise
 swift
 milk
 fetch
 spatial |  
-| bip_39_word_new_line6 | raise
+| bip_39_word_new_line_6 | raise
 swift
 milk
 fetch
 spatial
 minor |  
-| bip_39_word_new_line7 | raise
+| bip_39_word_new_line_7 | raise
 swift
 milk
 fetch
 spatial
 minor
 demise |  
-| bip_39_word_new_line8 | raise
+| bip_39_word_new_line_8 | raise
 swift
 milk
 fetch
@@ -113,7 +113,7 @@ spatial
 minor
 demise
 grab |  
-| bip_39_word_new_line9 | raise
+| bip_39_word_new_line_9 | raise
 swift
 milk
 fetch

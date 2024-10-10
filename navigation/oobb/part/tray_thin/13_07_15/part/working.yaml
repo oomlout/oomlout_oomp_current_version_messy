@@ -1,17 +1,17 @@
-bip_39_word_new_br1: quote
-bip_39_word_new_br10: quote<br>foster<br>vibrant<br>sleep<br>cute<br>decorate<br>enjoy<br>seven<br>enough<br>opera
-bip_39_word_new_br11: quote<br>foster<br>vibrant<br>sleep<br>cute<br>decorate<br>enjoy<br>seven<br>enough<br>opera<br>scatter
-bip_39_word_new_br12: quote<br>foster<br>vibrant<br>sleep<br>cute<br>decorate<br>enjoy<br>seven<br>enough<br>opera<br>scatter<br>already
-bip_39_word_new_br2: quote<br>foster
-bip_39_word_new_br3: quote<br>foster<br>vibrant
-bip_39_word_new_br4: quote<br>foster<br>vibrant<br>sleep
-bip_39_word_new_br5: quote<br>foster<br>vibrant<br>sleep<br>cute
-bip_39_word_new_br6: quote<br>foster<br>vibrant<br>sleep<br>cute<br>decorate
-bip_39_word_new_br7: quote<br>foster<br>vibrant<br>sleep<br>cute<br>decorate<br>enjoy
-bip_39_word_new_br8: quote<br>foster<br>vibrant<br>sleep<br>cute<br>decorate<br>enjoy<br>seven
-bip_39_word_new_br9: quote<br>foster<br>vibrant<br>sleep<br>cute<br>decorate<br>enjoy<br>seven<br>enough
-bip_39_word_new_line1: quote
-bip_39_word_new_line10: 'quote
+bip_39_word_new_br_1: quote
+bip_39_word_new_br_10: quote<br>foster<br>vibrant<br>sleep<br>cute<br>decorate<br>enjoy<br>seven<br>enough<br>opera
+bip_39_word_new_br_11: quote<br>foster<br>vibrant<br>sleep<br>cute<br>decorate<br>enjoy<br>seven<br>enough<br>opera<br>scatter
+bip_39_word_new_br_12: quote<br>foster<br>vibrant<br>sleep<br>cute<br>decorate<br>enjoy<br>seven<br>enough<br>opera<br>scatter<br>already
+bip_39_word_new_br_2: quote<br>foster
+bip_39_word_new_br_3: quote<br>foster<br>vibrant
+bip_39_word_new_br_4: quote<br>foster<br>vibrant<br>sleep
+bip_39_word_new_br_5: quote<br>foster<br>vibrant<br>sleep<br>cute
+bip_39_word_new_br_6: quote<br>foster<br>vibrant<br>sleep<br>cute<br>decorate
+bip_39_word_new_br_7: quote<br>foster<br>vibrant<br>sleep<br>cute<br>decorate<br>enjoy
+bip_39_word_new_br_8: quote<br>foster<br>vibrant<br>sleep<br>cute<br>decorate<br>enjoy<br>seven
+bip_39_word_new_br_9: quote<br>foster<br>vibrant<br>sleep<br>cute<br>decorate<br>enjoy<br>seven<br>enough
+bip_39_word_new_line_1: quote
+bip_39_word_new_line_10: 'quote
 
   foster
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'quote
   enough
 
   opera'
-bip_39_word_new_line11: 'quote
+bip_39_word_new_line_11: 'quote
 
   foster
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'quote
   opera
 
   scatter'
-bip_39_word_new_line12: 'quote
+bip_39_word_new_line_12: 'quote
 
   foster
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'quote
   scatter
 
   already'
-bip_39_word_new_line2: 'quote
+bip_39_word_new_line_2: 'quote
 
   foster'
-bip_39_word_new_line3: 'quote
+bip_39_word_new_line_3: 'quote
 
   foster
 
   vibrant'
-bip_39_word_new_line4: 'quote
+bip_39_word_new_line_4: 'quote
 
   foster
 
   vibrant
 
   sleep'
-bip_39_word_new_line5: 'quote
+bip_39_word_new_line_5: 'quote
 
   foster
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'quote
   sleep
 
   cute'
-bip_39_word_new_line6: 'quote
+bip_39_word_new_line_6: 'quote
 
   foster
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'quote
   cute
 
   decorate'
-bip_39_word_new_line7: 'quote
+bip_39_word_new_line_7: 'quote
 
   foster
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'quote
   decorate
 
   enjoy'
-bip_39_word_new_line8: 'quote
+bip_39_word_new_line_8: 'quote
 
   foster
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'quote
   enjoy
 
   seven'
-bip_39_word_new_line9: 'quote
+bip_39_word_new_line_9: 'quote
 
   foster
 

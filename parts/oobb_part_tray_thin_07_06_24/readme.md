@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fury |  
-| bip_39_word_new_br10 | fury<br>general<br>possible<br>canvas<br>text<br>island<br>false<br>rapid<br>nuclear<br>scatter |  
-| bip_39_word_new_br11 | fury<br>general<br>possible<br>canvas<br>text<br>island<br>false<br>rapid<br>nuclear<br>scatter<br>maid |  
-| bip_39_word_new_br12 | fury<br>general<br>possible<br>canvas<br>text<br>island<br>false<br>rapid<br>nuclear<br>scatter<br>maid<br>aspect |  
-| bip_39_word_new_br2 | fury<br>general |  
-| bip_39_word_new_br3 | fury<br>general<br>possible |  
-| bip_39_word_new_br4 | fury<br>general<br>possible<br>canvas |  
-| bip_39_word_new_br5 | fury<br>general<br>possible<br>canvas<br>text |  
-| bip_39_word_new_br6 | fury<br>general<br>possible<br>canvas<br>text<br>island |  
-| bip_39_word_new_br7 | fury<br>general<br>possible<br>canvas<br>text<br>island<br>false |  
-| bip_39_word_new_br8 | fury<br>general<br>possible<br>canvas<br>text<br>island<br>false<br>rapid |  
-| bip_39_word_new_br9 | fury<br>general<br>possible<br>canvas<br>text<br>island<br>false<br>rapid<br>nuclear |  
-| bip_39_word_new_line1 | fury |  
-| bip_39_word_new_line10 | fury
+| bip_39_word_new_br_1 | fury |  
+| bip_39_word_new_br_10 | fury<br>general<br>possible<br>canvas<br>text<br>island<br>false<br>rapid<br>nuclear<br>scatter |  
+| bip_39_word_new_br_11 | fury<br>general<br>possible<br>canvas<br>text<br>island<br>false<br>rapid<br>nuclear<br>scatter<br>maid |  
+| bip_39_word_new_br_12 | fury<br>general<br>possible<br>canvas<br>text<br>island<br>false<br>rapid<br>nuclear<br>scatter<br>maid<br>aspect |  
+| bip_39_word_new_br_2 | fury<br>general |  
+| bip_39_word_new_br_3 | fury<br>general<br>possible |  
+| bip_39_word_new_br_4 | fury<br>general<br>possible<br>canvas |  
+| bip_39_word_new_br_5 | fury<br>general<br>possible<br>canvas<br>text |  
+| bip_39_word_new_br_6 | fury<br>general<br>possible<br>canvas<br>text<br>island |  
+| bip_39_word_new_br_7 | fury<br>general<br>possible<br>canvas<br>text<br>island<br>false |  
+| bip_39_word_new_br_8 | fury<br>general<br>possible<br>canvas<br>text<br>island<br>false<br>rapid |  
+| bip_39_word_new_br_9 | fury<br>general<br>possible<br>canvas<br>text<br>island<br>false<br>rapid<br>nuclear |  
+| bip_39_word_new_line_1 | fury |  
+| bip_39_word_new_line_10 | fury
 general
 possible
 canvas
@@ -55,7 +55,7 @@ false
 rapid
 nuclear
 scatter |  
-| bip_39_word_new_line11 | fury
+| bip_39_word_new_line_11 | fury
 general
 possible
 canvas
@@ -66,7 +66,7 @@ rapid
 nuclear
 scatter
 maid |  
-| bip_39_word_new_line12 | fury
+| bip_39_word_new_line_12 | fury
 general
 possible
 canvas
@@ -78,34 +78,34 @@ nuclear
 scatter
 maid
 aspect |  
-| bip_39_word_new_line2 | fury
+| bip_39_word_new_line_2 | fury
 general |  
-| bip_39_word_new_line3 | fury
+| bip_39_word_new_line_3 | fury
 general
 possible |  
-| bip_39_word_new_line4 | fury
+| bip_39_word_new_line_4 | fury
 general
 possible
 canvas |  
-| bip_39_word_new_line5 | fury
+| bip_39_word_new_line_5 | fury
 general
 possible
 canvas
 text |  
-| bip_39_word_new_line6 | fury
+| bip_39_word_new_line_6 | fury
 general
 possible
 canvas
 text
 island |  
-| bip_39_word_new_line7 | fury
+| bip_39_word_new_line_7 | fury
 general
 possible
 canvas
 text
 island
 false |  
-| bip_39_word_new_line8 | fury
+| bip_39_word_new_line_8 | fury
 general
 possible
 canvas
@@ -113,7 +113,7 @@ text
 island
 false
 rapid |  
-| bip_39_word_new_line9 | fury
+| bip_39_word_new_line_9 | fury
 general
 possible
 canvas

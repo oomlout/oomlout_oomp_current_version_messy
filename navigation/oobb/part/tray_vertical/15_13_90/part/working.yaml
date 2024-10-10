@@ -1,17 +1,17 @@
-bip_39_word_new_br1: swift
-bip_39_word_new_br10: swift<br>uniform<br>outer<br>exotic<br>key<br>group<br>river<br>advance<br>print<br>crime
-bip_39_word_new_br11: swift<br>uniform<br>outer<br>exotic<br>key<br>group<br>river<br>advance<br>print<br>crime<br>wear
-bip_39_word_new_br12: swift<br>uniform<br>outer<br>exotic<br>key<br>group<br>river<br>advance<br>print<br>crime<br>wear<br>actor
-bip_39_word_new_br2: swift<br>uniform
-bip_39_word_new_br3: swift<br>uniform<br>outer
-bip_39_word_new_br4: swift<br>uniform<br>outer<br>exotic
-bip_39_word_new_br5: swift<br>uniform<br>outer<br>exotic<br>key
-bip_39_word_new_br6: swift<br>uniform<br>outer<br>exotic<br>key<br>group
-bip_39_word_new_br7: swift<br>uniform<br>outer<br>exotic<br>key<br>group<br>river
-bip_39_word_new_br8: swift<br>uniform<br>outer<br>exotic<br>key<br>group<br>river<br>advance
-bip_39_word_new_br9: swift<br>uniform<br>outer<br>exotic<br>key<br>group<br>river<br>advance<br>print
-bip_39_word_new_line1: swift
-bip_39_word_new_line10: 'swift
+bip_39_word_new_br_1: swift
+bip_39_word_new_br_10: swift<br>uniform<br>outer<br>exotic<br>key<br>group<br>river<br>advance<br>print<br>crime
+bip_39_word_new_br_11: swift<br>uniform<br>outer<br>exotic<br>key<br>group<br>river<br>advance<br>print<br>crime<br>wear
+bip_39_word_new_br_12: swift<br>uniform<br>outer<br>exotic<br>key<br>group<br>river<br>advance<br>print<br>crime<br>wear<br>actor
+bip_39_word_new_br_2: swift<br>uniform
+bip_39_word_new_br_3: swift<br>uniform<br>outer
+bip_39_word_new_br_4: swift<br>uniform<br>outer<br>exotic
+bip_39_word_new_br_5: swift<br>uniform<br>outer<br>exotic<br>key
+bip_39_word_new_br_6: swift<br>uniform<br>outer<br>exotic<br>key<br>group
+bip_39_word_new_br_7: swift<br>uniform<br>outer<br>exotic<br>key<br>group<br>river
+bip_39_word_new_br_8: swift<br>uniform<br>outer<br>exotic<br>key<br>group<br>river<br>advance
+bip_39_word_new_br_9: swift<br>uniform<br>outer<br>exotic<br>key<br>group<br>river<br>advance<br>print
+bip_39_word_new_line_1: swift
+bip_39_word_new_line_10: 'swift
 
   uniform
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'swift
   print
 
   crime'
-bip_39_word_new_line11: 'swift
+bip_39_word_new_line_11: 'swift
 
   uniform
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'swift
   crime
 
   wear'
-bip_39_word_new_line12: 'swift
+bip_39_word_new_line_12: 'swift
 
   uniform
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'swift
   wear
 
   actor'
-bip_39_word_new_line2: 'swift
+bip_39_word_new_line_2: 'swift
 
   uniform'
-bip_39_word_new_line3: 'swift
+bip_39_word_new_line_3: 'swift
 
   uniform
 
   outer'
-bip_39_word_new_line4: 'swift
+bip_39_word_new_line_4: 'swift
 
   uniform
 
   outer
 
   exotic'
-bip_39_word_new_line5: 'swift
+bip_39_word_new_line_5: 'swift
 
   uniform
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'swift
   exotic
 
   key'
-bip_39_word_new_line6: 'swift
+bip_39_word_new_line_6: 'swift
 
   uniform
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'swift
   key
 
   group'
-bip_39_word_new_line7: 'swift
+bip_39_word_new_line_7: 'swift
 
   uniform
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'swift
   group
 
   river'
-bip_39_word_new_line8: 'swift
+bip_39_word_new_line_8: 'swift
 
   uniform
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'swift
   river
 
   advance'
-bip_39_word_new_line9: 'swift
+bip_39_word_new_line_9: 'swift
 
   uniform
 

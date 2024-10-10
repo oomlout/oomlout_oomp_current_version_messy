@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gloom |  
-| bip_39_word_new_br10 | gloom<br>erupt<br>boss<br>input<br>mansion<br>eternal<br>walk<br>siege<br>ready<br>project |  
-| bip_39_word_new_br11 | gloom<br>erupt<br>boss<br>input<br>mansion<br>eternal<br>walk<br>siege<br>ready<br>project<br>attract |  
-| bip_39_word_new_br12 | gloom<br>erupt<br>boss<br>input<br>mansion<br>eternal<br>walk<br>siege<br>ready<br>project<br>attract<br>armor |  
-| bip_39_word_new_br2 | gloom<br>erupt |  
-| bip_39_word_new_br3 | gloom<br>erupt<br>boss |  
-| bip_39_word_new_br4 | gloom<br>erupt<br>boss<br>input |  
-| bip_39_word_new_br5 | gloom<br>erupt<br>boss<br>input<br>mansion |  
-| bip_39_word_new_br6 | gloom<br>erupt<br>boss<br>input<br>mansion<br>eternal |  
-| bip_39_word_new_br7 | gloom<br>erupt<br>boss<br>input<br>mansion<br>eternal<br>walk |  
-| bip_39_word_new_br8 | gloom<br>erupt<br>boss<br>input<br>mansion<br>eternal<br>walk<br>siege |  
-| bip_39_word_new_br9 | gloom<br>erupt<br>boss<br>input<br>mansion<br>eternal<br>walk<br>siege<br>ready |  
-| bip_39_word_new_line1 | gloom |  
-| bip_39_word_new_line10 | gloom
+| bip_39_word_new_br_1 | gloom |  
+| bip_39_word_new_br_10 | gloom<br>erupt<br>boss<br>input<br>mansion<br>eternal<br>walk<br>siege<br>ready<br>project |  
+| bip_39_word_new_br_11 | gloom<br>erupt<br>boss<br>input<br>mansion<br>eternal<br>walk<br>siege<br>ready<br>project<br>attract |  
+| bip_39_word_new_br_12 | gloom<br>erupt<br>boss<br>input<br>mansion<br>eternal<br>walk<br>siege<br>ready<br>project<br>attract<br>armor |  
+| bip_39_word_new_br_2 | gloom<br>erupt |  
+| bip_39_word_new_br_3 | gloom<br>erupt<br>boss |  
+| bip_39_word_new_br_4 | gloom<br>erupt<br>boss<br>input |  
+| bip_39_word_new_br_5 | gloom<br>erupt<br>boss<br>input<br>mansion |  
+| bip_39_word_new_br_6 | gloom<br>erupt<br>boss<br>input<br>mansion<br>eternal |  
+| bip_39_word_new_br_7 | gloom<br>erupt<br>boss<br>input<br>mansion<br>eternal<br>walk |  
+| bip_39_word_new_br_8 | gloom<br>erupt<br>boss<br>input<br>mansion<br>eternal<br>walk<br>siege |  
+| bip_39_word_new_br_9 | gloom<br>erupt<br>boss<br>input<br>mansion<br>eternal<br>walk<br>siege<br>ready |  
+| bip_39_word_new_line_1 | gloom |  
+| bip_39_word_new_line_10 | gloom
 erupt
 boss
 input
@@ -55,7 +55,7 @@ walk
 siege
 ready
 project |  
-| bip_39_word_new_line11 | gloom
+| bip_39_word_new_line_11 | gloom
 erupt
 boss
 input
@@ -66,7 +66,7 @@ siege
 ready
 project
 attract |  
-| bip_39_word_new_line12 | gloom
+| bip_39_word_new_line_12 | gloom
 erupt
 boss
 input
@@ -78,34 +78,34 @@ ready
 project
 attract
 armor |  
-| bip_39_word_new_line2 | gloom
+| bip_39_word_new_line_2 | gloom
 erupt |  
-| bip_39_word_new_line3 | gloom
+| bip_39_word_new_line_3 | gloom
 erupt
 boss |  
-| bip_39_word_new_line4 | gloom
+| bip_39_word_new_line_4 | gloom
 erupt
 boss
 input |  
-| bip_39_word_new_line5 | gloom
+| bip_39_word_new_line_5 | gloom
 erupt
 boss
 input
 mansion |  
-| bip_39_word_new_line6 | gloom
+| bip_39_word_new_line_6 | gloom
 erupt
 boss
 input
 mansion
 eternal |  
-| bip_39_word_new_line7 | gloom
+| bip_39_word_new_line_7 | gloom
 erupt
 boss
 input
 mansion
 eternal
 walk |  
-| bip_39_word_new_line8 | gloom
+| bip_39_word_new_line_8 | gloom
 erupt
 boss
 input
@@ -113,7 +113,7 @@ mansion
 eternal
 walk
 siege |  
-| bip_39_word_new_line9 | gloom
+| bip_39_word_new_line_9 | gloom
 erupt
 boss
 input

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | appear |  
-| bip_39_word_new_br10 | appear<br>answer<br>repeat<br>harbor<br>fall<br>emerge<br>derive<br>evil<br>squeeze<br>improve |  
-| bip_39_word_new_br11 | appear<br>answer<br>repeat<br>harbor<br>fall<br>emerge<br>derive<br>evil<br>squeeze<br>improve<br>friend |  
-| bip_39_word_new_br12 | appear<br>answer<br>repeat<br>harbor<br>fall<br>emerge<br>derive<br>evil<br>squeeze<br>improve<br>friend<br>assist |  
-| bip_39_word_new_br2 | appear<br>answer |  
-| bip_39_word_new_br3 | appear<br>answer<br>repeat |  
-| bip_39_word_new_br4 | appear<br>answer<br>repeat<br>harbor |  
-| bip_39_word_new_br5 | appear<br>answer<br>repeat<br>harbor<br>fall |  
-| bip_39_word_new_br6 | appear<br>answer<br>repeat<br>harbor<br>fall<br>emerge |  
-| bip_39_word_new_br7 | appear<br>answer<br>repeat<br>harbor<br>fall<br>emerge<br>derive |  
-| bip_39_word_new_br8 | appear<br>answer<br>repeat<br>harbor<br>fall<br>emerge<br>derive<br>evil |  
-| bip_39_word_new_br9 | appear<br>answer<br>repeat<br>harbor<br>fall<br>emerge<br>derive<br>evil<br>squeeze |  
-| bip_39_word_new_line1 | appear |  
-| bip_39_word_new_line10 | appear
+| bip_39_word_new_br_1 | appear |  
+| bip_39_word_new_br_10 | appear<br>answer<br>repeat<br>harbor<br>fall<br>emerge<br>derive<br>evil<br>squeeze<br>improve |  
+| bip_39_word_new_br_11 | appear<br>answer<br>repeat<br>harbor<br>fall<br>emerge<br>derive<br>evil<br>squeeze<br>improve<br>friend |  
+| bip_39_word_new_br_12 | appear<br>answer<br>repeat<br>harbor<br>fall<br>emerge<br>derive<br>evil<br>squeeze<br>improve<br>friend<br>assist |  
+| bip_39_word_new_br_2 | appear<br>answer |  
+| bip_39_word_new_br_3 | appear<br>answer<br>repeat |  
+| bip_39_word_new_br_4 | appear<br>answer<br>repeat<br>harbor |  
+| bip_39_word_new_br_5 | appear<br>answer<br>repeat<br>harbor<br>fall |  
+| bip_39_word_new_br_6 | appear<br>answer<br>repeat<br>harbor<br>fall<br>emerge |  
+| bip_39_word_new_br_7 | appear<br>answer<br>repeat<br>harbor<br>fall<br>emerge<br>derive |  
+| bip_39_word_new_br_8 | appear<br>answer<br>repeat<br>harbor<br>fall<br>emerge<br>derive<br>evil |  
+| bip_39_word_new_br_9 | appear<br>answer<br>repeat<br>harbor<br>fall<br>emerge<br>derive<br>evil<br>squeeze |  
+| bip_39_word_new_line_1 | appear |  
+| bip_39_word_new_line_10 | appear
 answer
 repeat
 harbor
@@ -55,7 +55,7 @@ derive
 evil
 squeeze
 improve |  
-| bip_39_word_new_line11 | appear
+| bip_39_word_new_line_11 | appear
 answer
 repeat
 harbor
@@ -66,7 +66,7 @@ evil
 squeeze
 improve
 friend |  
-| bip_39_word_new_line12 | appear
+| bip_39_word_new_line_12 | appear
 answer
 repeat
 harbor
@@ -78,34 +78,34 @@ squeeze
 improve
 friend
 assist |  
-| bip_39_word_new_line2 | appear
+| bip_39_word_new_line_2 | appear
 answer |  
-| bip_39_word_new_line3 | appear
+| bip_39_word_new_line_3 | appear
 answer
 repeat |  
-| bip_39_word_new_line4 | appear
+| bip_39_word_new_line_4 | appear
 answer
 repeat
 harbor |  
-| bip_39_word_new_line5 | appear
+| bip_39_word_new_line_5 | appear
 answer
 repeat
 harbor
 fall |  
-| bip_39_word_new_line6 | appear
+| bip_39_word_new_line_6 | appear
 answer
 repeat
 harbor
 fall
 emerge |  
-| bip_39_word_new_line7 | appear
+| bip_39_word_new_line_7 | appear
 answer
 repeat
 harbor
 fall
 emerge
 derive |  
-| bip_39_word_new_line8 | appear
+| bip_39_word_new_line_8 | appear
 answer
 repeat
 harbor
@@ -113,7 +113,7 @@ fall
 emerge
 derive
 evil |  
-| bip_39_word_new_line9 | appear
+| bip_39_word_new_line_9 | appear
 answer
 repeat
 harbor

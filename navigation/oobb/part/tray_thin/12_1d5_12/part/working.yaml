@@ -1,17 +1,17 @@
-bip_39_word_new_br1: flat
-bip_39_word_new_br10: flat<br>doctor<br>ability<br>regret<br>time<br>card<br>napkin<br>frequent<br>target<br>unveil
-bip_39_word_new_br11: flat<br>doctor<br>ability<br>regret<br>time<br>card<br>napkin<br>frequent<br>target<br>unveil<br>garbage
-bip_39_word_new_br12: flat<br>doctor<br>ability<br>regret<br>time<br>card<br>napkin<br>frequent<br>target<br>unveil<br>garbage<br>around
-bip_39_word_new_br2: flat<br>doctor
-bip_39_word_new_br3: flat<br>doctor<br>ability
-bip_39_word_new_br4: flat<br>doctor<br>ability<br>regret
-bip_39_word_new_br5: flat<br>doctor<br>ability<br>regret<br>time
-bip_39_word_new_br6: flat<br>doctor<br>ability<br>regret<br>time<br>card
-bip_39_word_new_br7: flat<br>doctor<br>ability<br>regret<br>time<br>card<br>napkin
-bip_39_word_new_br8: flat<br>doctor<br>ability<br>regret<br>time<br>card<br>napkin<br>frequent
-bip_39_word_new_br9: flat<br>doctor<br>ability<br>regret<br>time<br>card<br>napkin<br>frequent<br>target
-bip_39_word_new_line1: flat
-bip_39_word_new_line10: 'flat
+bip_39_word_new_br_1: flat
+bip_39_word_new_br_10: flat<br>doctor<br>ability<br>regret<br>time<br>card<br>napkin<br>frequent<br>target<br>unveil
+bip_39_word_new_br_11: flat<br>doctor<br>ability<br>regret<br>time<br>card<br>napkin<br>frequent<br>target<br>unveil<br>garbage
+bip_39_word_new_br_12: flat<br>doctor<br>ability<br>regret<br>time<br>card<br>napkin<br>frequent<br>target<br>unveil<br>garbage<br>around
+bip_39_word_new_br_2: flat<br>doctor
+bip_39_word_new_br_3: flat<br>doctor<br>ability
+bip_39_word_new_br_4: flat<br>doctor<br>ability<br>regret
+bip_39_word_new_br_5: flat<br>doctor<br>ability<br>regret<br>time
+bip_39_word_new_br_6: flat<br>doctor<br>ability<br>regret<br>time<br>card
+bip_39_word_new_br_7: flat<br>doctor<br>ability<br>regret<br>time<br>card<br>napkin
+bip_39_word_new_br_8: flat<br>doctor<br>ability<br>regret<br>time<br>card<br>napkin<br>frequent
+bip_39_word_new_br_9: flat<br>doctor<br>ability<br>regret<br>time<br>card<br>napkin<br>frequent<br>target
+bip_39_word_new_line_1: flat
+bip_39_word_new_line_10: 'flat
 
   doctor
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'flat
   target
 
   unveil'
-bip_39_word_new_line11: 'flat
+bip_39_word_new_line_11: 'flat
 
   doctor
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'flat
   unveil
 
   garbage'
-bip_39_word_new_line12: 'flat
+bip_39_word_new_line_12: 'flat
 
   doctor
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'flat
   garbage
 
   around'
-bip_39_word_new_line2: 'flat
+bip_39_word_new_line_2: 'flat
 
   doctor'
-bip_39_word_new_line3: 'flat
+bip_39_word_new_line_3: 'flat
 
   doctor
 
   ability'
-bip_39_word_new_line4: 'flat
+bip_39_word_new_line_4: 'flat
 
   doctor
 
   ability
 
   regret'
-bip_39_word_new_line5: 'flat
+bip_39_word_new_line_5: 'flat
 
   doctor
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'flat
   regret
 
   time'
-bip_39_word_new_line6: 'flat
+bip_39_word_new_line_6: 'flat
 
   doctor
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'flat
   time
 
   card'
-bip_39_word_new_line7: 'flat
+bip_39_word_new_line_7: 'flat
 
   doctor
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'flat
   card
 
   napkin'
-bip_39_word_new_line8: 'flat
+bip_39_word_new_line_8: 'flat
 
   doctor
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'flat
   napkin
 
   frequent'
-bip_39_word_new_line9: 'flat
+bip_39_word_new_line_9: 'flat
 
   doctor
 

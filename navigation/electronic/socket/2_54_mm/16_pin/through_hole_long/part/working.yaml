@@ -1,17 +1,17 @@
-bip_39_word_new_br1: across
-bip_39_word_new_br10: across<br>lottery<br>essay<br>deliver<br>scrap<br>avocado<br>tell<br>slogan<br>dutch<br>quote
-bip_39_word_new_br11: across<br>lottery<br>essay<br>deliver<br>scrap<br>avocado<br>tell<br>slogan<br>dutch<br>quote<br>release
-bip_39_word_new_br12: across<br>lottery<br>essay<br>deliver<br>scrap<br>avocado<br>tell<br>slogan<br>dutch<br>quote<br>release<br>atom
-bip_39_word_new_br2: across<br>lottery
-bip_39_word_new_br3: across<br>lottery<br>essay
-bip_39_word_new_br4: across<br>lottery<br>essay<br>deliver
-bip_39_word_new_br5: across<br>lottery<br>essay<br>deliver<br>scrap
-bip_39_word_new_br6: across<br>lottery<br>essay<br>deliver<br>scrap<br>avocado
-bip_39_word_new_br7: across<br>lottery<br>essay<br>deliver<br>scrap<br>avocado<br>tell
-bip_39_word_new_br8: across<br>lottery<br>essay<br>deliver<br>scrap<br>avocado<br>tell<br>slogan
-bip_39_word_new_br9: across<br>lottery<br>essay<br>deliver<br>scrap<br>avocado<br>tell<br>slogan<br>dutch
-bip_39_word_new_line1: across
-bip_39_word_new_line10: 'across
+bip_39_word_new_br_1: across
+bip_39_word_new_br_10: across<br>lottery<br>essay<br>deliver<br>scrap<br>avocado<br>tell<br>slogan<br>dutch<br>quote
+bip_39_word_new_br_11: across<br>lottery<br>essay<br>deliver<br>scrap<br>avocado<br>tell<br>slogan<br>dutch<br>quote<br>release
+bip_39_word_new_br_12: across<br>lottery<br>essay<br>deliver<br>scrap<br>avocado<br>tell<br>slogan<br>dutch<br>quote<br>release<br>atom
+bip_39_word_new_br_2: across<br>lottery
+bip_39_word_new_br_3: across<br>lottery<br>essay
+bip_39_word_new_br_4: across<br>lottery<br>essay<br>deliver
+bip_39_word_new_br_5: across<br>lottery<br>essay<br>deliver<br>scrap
+bip_39_word_new_br_6: across<br>lottery<br>essay<br>deliver<br>scrap<br>avocado
+bip_39_word_new_br_7: across<br>lottery<br>essay<br>deliver<br>scrap<br>avocado<br>tell
+bip_39_word_new_br_8: across<br>lottery<br>essay<br>deliver<br>scrap<br>avocado<br>tell<br>slogan
+bip_39_word_new_br_9: across<br>lottery<br>essay<br>deliver<br>scrap<br>avocado<br>tell<br>slogan<br>dutch
+bip_39_word_new_line_1: across
+bip_39_word_new_line_10: 'across
 
   lottery
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'across
   dutch
 
   quote'
-bip_39_word_new_line11: 'across
+bip_39_word_new_line_11: 'across
 
   lottery
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'across
   quote
 
   release'
-bip_39_word_new_line12: 'across
+bip_39_word_new_line_12: 'across
 
   lottery
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'across
   release
 
   atom'
-bip_39_word_new_line2: 'across
+bip_39_word_new_line_2: 'across
 
   lottery'
-bip_39_word_new_line3: 'across
+bip_39_word_new_line_3: 'across
 
   lottery
 
   essay'
-bip_39_word_new_line4: 'across
+bip_39_word_new_line_4: 'across
 
   lottery
 
   essay
 
   deliver'
-bip_39_word_new_line5: 'across
+bip_39_word_new_line_5: 'across
 
   lottery
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'across
   deliver
 
   scrap'
-bip_39_word_new_line6: 'across
+bip_39_word_new_line_6: 'across
 
   lottery
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'across
   scrap
 
   avocado'
-bip_39_word_new_line7: 'across
+bip_39_word_new_line_7: 'across
 
   lottery
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'across
   avocado
 
   tell'
-bip_39_word_new_line8: 'across
+bip_39_word_new_line_8: 'across
 
   lottery
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'across
   tell
 
   slogan'
-bip_39_word_new_line9: 'across
+bip_39_word_new_line_9: 'across
 
   lottery
 

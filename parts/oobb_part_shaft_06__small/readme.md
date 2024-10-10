@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | circle |  
-| bip_39_word_new_br10 | circle<br>grass<br>display<br>board<br>gain<br>idle<br>inspire<br>document<br>people<br>live |  
-| bip_39_word_new_br11 | circle<br>grass<br>display<br>board<br>gain<br>idle<br>inspire<br>document<br>people<br>live<br>resemble |  
-| bip_39_word_new_br12 | circle<br>grass<br>display<br>board<br>gain<br>idle<br>inspire<br>document<br>people<br>live<br>resemble<br>atom |  
-| bip_39_word_new_br2 | circle<br>grass |  
-| bip_39_word_new_br3 | circle<br>grass<br>display |  
-| bip_39_word_new_br4 | circle<br>grass<br>display<br>board |  
-| bip_39_word_new_br5 | circle<br>grass<br>display<br>board<br>gain |  
-| bip_39_word_new_br6 | circle<br>grass<br>display<br>board<br>gain<br>idle |  
-| bip_39_word_new_br7 | circle<br>grass<br>display<br>board<br>gain<br>idle<br>inspire |  
-| bip_39_word_new_br8 | circle<br>grass<br>display<br>board<br>gain<br>idle<br>inspire<br>document |  
-| bip_39_word_new_br9 | circle<br>grass<br>display<br>board<br>gain<br>idle<br>inspire<br>document<br>people |  
-| bip_39_word_new_line1 | circle |  
-| bip_39_word_new_line10 | circle
+| bip_39_word_new_br_1 | circle |  
+| bip_39_word_new_br_10 | circle<br>grass<br>display<br>board<br>gain<br>idle<br>inspire<br>document<br>people<br>live |  
+| bip_39_word_new_br_11 | circle<br>grass<br>display<br>board<br>gain<br>idle<br>inspire<br>document<br>people<br>live<br>resemble |  
+| bip_39_word_new_br_12 | circle<br>grass<br>display<br>board<br>gain<br>idle<br>inspire<br>document<br>people<br>live<br>resemble<br>atom |  
+| bip_39_word_new_br_2 | circle<br>grass |  
+| bip_39_word_new_br_3 | circle<br>grass<br>display |  
+| bip_39_word_new_br_4 | circle<br>grass<br>display<br>board |  
+| bip_39_word_new_br_5 | circle<br>grass<br>display<br>board<br>gain |  
+| bip_39_word_new_br_6 | circle<br>grass<br>display<br>board<br>gain<br>idle |  
+| bip_39_word_new_br_7 | circle<br>grass<br>display<br>board<br>gain<br>idle<br>inspire |  
+| bip_39_word_new_br_8 | circle<br>grass<br>display<br>board<br>gain<br>idle<br>inspire<br>document |  
+| bip_39_word_new_br_9 | circle<br>grass<br>display<br>board<br>gain<br>idle<br>inspire<br>document<br>people |  
+| bip_39_word_new_line_1 | circle |  
+| bip_39_word_new_line_10 | circle
 grass
 display
 board
@@ -55,7 +55,7 @@ inspire
 document
 people
 live |  
-| bip_39_word_new_line11 | circle
+| bip_39_word_new_line_11 | circle
 grass
 display
 board
@@ -66,7 +66,7 @@ document
 people
 live
 resemble |  
-| bip_39_word_new_line12 | circle
+| bip_39_word_new_line_12 | circle
 grass
 display
 board
@@ -78,34 +78,34 @@ people
 live
 resemble
 atom |  
-| bip_39_word_new_line2 | circle
+| bip_39_word_new_line_2 | circle
 grass |  
-| bip_39_word_new_line3 | circle
+| bip_39_word_new_line_3 | circle
 grass
 display |  
-| bip_39_word_new_line4 | circle
+| bip_39_word_new_line_4 | circle
 grass
 display
 board |  
-| bip_39_word_new_line5 | circle
+| bip_39_word_new_line_5 | circle
 grass
 display
 board
 gain |  
-| bip_39_word_new_line6 | circle
+| bip_39_word_new_line_6 | circle
 grass
 display
 board
 gain
 idle |  
-| bip_39_word_new_line7 | circle
+| bip_39_word_new_line_7 | circle
 grass
 display
 board
 gain
 idle
 inspire |  
-| bip_39_word_new_line8 | circle
+| bip_39_word_new_line_8 | circle
 grass
 display
 board
@@ -113,7 +113,7 @@ gain
 idle
 inspire
 document |  
-| bip_39_word_new_line9 | circle
+| bip_39_word_new_line_9 | circle
 grass
 display
 board

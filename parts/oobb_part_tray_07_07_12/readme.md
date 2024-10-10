@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | truth |  
-| bip_39_word_new_br10 | truth<br>hotel<br>frog<br>box<br>soon<br>umbrella<br>swift<br>wonder<br>shadow<br>claim |  
-| bip_39_word_new_br11 | truth<br>hotel<br>frog<br>box<br>soon<br>umbrella<br>swift<br>wonder<br>shadow<br>claim<br>peace |  
-| bip_39_word_new_br12 | truth<br>hotel<br>frog<br>box<br>soon<br>umbrella<br>swift<br>wonder<br>shadow<br>claim<br>peace<br>admit |  
-| bip_39_word_new_br2 | truth<br>hotel |  
-| bip_39_word_new_br3 | truth<br>hotel<br>frog |  
-| bip_39_word_new_br4 | truth<br>hotel<br>frog<br>box |  
-| bip_39_word_new_br5 | truth<br>hotel<br>frog<br>box<br>soon |  
-| bip_39_word_new_br6 | truth<br>hotel<br>frog<br>box<br>soon<br>umbrella |  
-| bip_39_word_new_br7 | truth<br>hotel<br>frog<br>box<br>soon<br>umbrella<br>swift |  
-| bip_39_word_new_br8 | truth<br>hotel<br>frog<br>box<br>soon<br>umbrella<br>swift<br>wonder |  
-| bip_39_word_new_br9 | truth<br>hotel<br>frog<br>box<br>soon<br>umbrella<br>swift<br>wonder<br>shadow |  
-| bip_39_word_new_line1 | truth |  
-| bip_39_word_new_line10 | truth
+| bip_39_word_new_br_1 | truth |  
+| bip_39_word_new_br_10 | truth<br>hotel<br>frog<br>box<br>soon<br>umbrella<br>swift<br>wonder<br>shadow<br>claim |  
+| bip_39_word_new_br_11 | truth<br>hotel<br>frog<br>box<br>soon<br>umbrella<br>swift<br>wonder<br>shadow<br>claim<br>peace |  
+| bip_39_word_new_br_12 | truth<br>hotel<br>frog<br>box<br>soon<br>umbrella<br>swift<br>wonder<br>shadow<br>claim<br>peace<br>admit |  
+| bip_39_word_new_br_2 | truth<br>hotel |  
+| bip_39_word_new_br_3 | truth<br>hotel<br>frog |  
+| bip_39_word_new_br_4 | truth<br>hotel<br>frog<br>box |  
+| bip_39_word_new_br_5 | truth<br>hotel<br>frog<br>box<br>soon |  
+| bip_39_word_new_br_6 | truth<br>hotel<br>frog<br>box<br>soon<br>umbrella |  
+| bip_39_word_new_br_7 | truth<br>hotel<br>frog<br>box<br>soon<br>umbrella<br>swift |  
+| bip_39_word_new_br_8 | truth<br>hotel<br>frog<br>box<br>soon<br>umbrella<br>swift<br>wonder |  
+| bip_39_word_new_br_9 | truth<br>hotel<br>frog<br>box<br>soon<br>umbrella<br>swift<br>wonder<br>shadow |  
+| bip_39_word_new_line_1 | truth |  
+| bip_39_word_new_line_10 | truth
 hotel
 frog
 box
@@ -55,7 +55,7 @@ swift
 wonder
 shadow
 claim |  
-| bip_39_word_new_line11 | truth
+| bip_39_word_new_line_11 | truth
 hotel
 frog
 box
@@ -66,7 +66,7 @@ wonder
 shadow
 claim
 peace |  
-| bip_39_word_new_line12 | truth
+| bip_39_word_new_line_12 | truth
 hotel
 frog
 box
@@ -78,34 +78,34 @@ shadow
 claim
 peace
 admit |  
-| bip_39_word_new_line2 | truth
+| bip_39_word_new_line_2 | truth
 hotel |  
-| bip_39_word_new_line3 | truth
+| bip_39_word_new_line_3 | truth
 hotel
 frog |  
-| bip_39_word_new_line4 | truth
+| bip_39_word_new_line_4 | truth
 hotel
 frog
 box |  
-| bip_39_word_new_line5 | truth
+| bip_39_word_new_line_5 | truth
 hotel
 frog
 box
 soon |  
-| bip_39_word_new_line6 | truth
+| bip_39_word_new_line_6 | truth
 hotel
 frog
 box
 soon
 umbrella |  
-| bip_39_word_new_line7 | truth
+| bip_39_word_new_line_7 | truth
 hotel
 frog
 box
 soon
 umbrella
 swift |  
-| bip_39_word_new_line8 | truth
+| bip_39_word_new_line_8 | truth
 hotel
 frog
 box
@@ -113,7 +113,7 @@ soon
 umbrella
 swift
 wonder |  
-| bip_39_word_new_line9 | truth
+| bip_39_word_new_line_9 | truth
 hotel
 frog
 box

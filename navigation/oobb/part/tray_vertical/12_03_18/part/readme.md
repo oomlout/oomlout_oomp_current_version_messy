@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | right |  
-| bip_39_word_new_br10 | right<br>enlist<br>outdoor<br>refuse<br>frown<br>real<br>power<br>amount<br>mule<br>that |  
-| bip_39_word_new_br11 | right<br>enlist<br>outdoor<br>refuse<br>frown<br>real<br>power<br>amount<br>mule<br>that<br>real |  
-| bip_39_word_new_br12 | right<br>enlist<br>outdoor<br>refuse<br>frown<br>real<br>power<br>amount<br>mule<br>that<br>real<br>account |  
-| bip_39_word_new_br2 | right<br>enlist |  
-| bip_39_word_new_br3 | right<br>enlist<br>outdoor |  
-| bip_39_word_new_br4 | right<br>enlist<br>outdoor<br>refuse |  
-| bip_39_word_new_br5 | right<br>enlist<br>outdoor<br>refuse<br>frown |  
-| bip_39_word_new_br6 | right<br>enlist<br>outdoor<br>refuse<br>frown<br>real |  
-| bip_39_word_new_br7 | right<br>enlist<br>outdoor<br>refuse<br>frown<br>real<br>power |  
-| bip_39_word_new_br8 | right<br>enlist<br>outdoor<br>refuse<br>frown<br>real<br>power<br>amount |  
-| bip_39_word_new_br9 | right<br>enlist<br>outdoor<br>refuse<br>frown<br>real<br>power<br>amount<br>mule |  
-| bip_39_word_new_line1 | right |  
-| bip_39_word_new_line10 | right
+| bip_39_word_new_br_1 | right |  
+| bip_39_word_new_br_10 | right<br>enlist<br>outdoor<br>refuse<br>frown<br>real<br>power<br>amount<br>mule<br>that |  
+| bip_39_word_new_br_11 | right<br>enlist<br>outdoor<br>refuse<br>frown<br>real<br>power<br>amount<br>mule<br>that<br>real |  
+| bip_39_word_new_br_12 | right<br>enlist<br>outdoor<br>refuse<br>frown<br>real<br>power<br>amount<br>mule<br>that<br>real<br>account |  
+| bip_39_word_new_br_2 | right<br>enlist |  
+| bip_39_word_new_br_3 | right<br>enlist<br>outdoor |  
+| bip_39_word_new_br_4 | right<br>enlist<br>outdoor<br>refuse |  
+| bip_39_word_new_br_5 | right<br>enlist<br>outdoor<br>refuse<br>frown |  
+| bip_39_word_new_br_6 | right<br>enlist<br>outdoor<br>refuse<br>frown<br>real |  
+| bip_39_word_new_br_7 | right<br>enlist<br>outdoor<br>refuse<br>frown<br>real<br>power |  
+| bip_39_word_new_br_8 | right<br>enlist<br>outdoor<br>refuse<br>frown<br>real<br>power<br>amount |  
+| bip_39_word_new_br_9 | right<br>enlist<br>outdoor<br>refuse<br>frown<br>real<br>power<br>amount<br>mule |  
+| bip_39_word_new_line_1 | right |  
+| bip_39_word_new_line_10 | right
 enlist
 outdoor
 refuse
@@ -55,7 +55,7 @@ power
 amount
 mule
 that |  
-| bip_39_word_new_line11 | right
+| bip_39_word_new_line_11 | right
 enlist
 outdoor
 refuse
@@ -66,7 +66,7 @@ amount
 mule
 that
 real |  
-| bip_39_word_new_line12 | right
+| bip_39_word_new_line_12 | right
 enlist
 outdoor
 refuse
@@ -78,34 +78,34 @@ mule
 that
 real
 account |  
-| bip_39_word_new_line2 | right
+| bip_39_word_new_line_2 | right
 enlist |  
-| bip_39_word_new_line3 | right
+| bip_39_word_new_line_3 | right
 enlist
 outdoor |  
-| bip_39_word_new_line4 | right
+| bip_39_word_new_line_4 | right
 enlist
 outdoor
 refuse |  
-| bip_39_word_new_line5 | right
+| bip_39_word_new_line_5 | right
 enlist
 outdoor
 refuse
 frown |  
-| bip_39_word_new_line6 | right
+| bip_39_word_new_line_6 | right
 enlist
 outdoor
 refuse
 frown
 real |  
-| bip_39_word_new_line7 | right
+| bip_39_word_new_line_7 | right
 enlist
 outdoor
 refuse
 frown
 real
 power |  
-| bip_39_word_new_line8 | right
+| bip_39_word_new_line_8 | right
 enlist
 outdoor
 refuse
@@ -113,7 +113,7 @@ frown
 real
 power
 amount |  
-| bip_39_word_new_line9 | right
+| bip_39_word_new_line_9 | right
 enlist
 outdoor
 refuse

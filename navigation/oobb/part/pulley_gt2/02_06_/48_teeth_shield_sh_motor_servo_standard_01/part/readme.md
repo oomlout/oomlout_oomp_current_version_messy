@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | iron |  
-| bip_39_word_new_br10 | iron<br>build<br>lock<br>number<br>heart<br>swamp<br>nerve<br>move<br>much<br>fiber |  
-| bip_39_word_new_br11 | iron<br>build<br>lock<br>number<br>heart<br>swamp<br>nerve<br>move<br>much<br>fiber<br>space |  
-| bip_39_word_new_br12 | iron<br>build<br>lock<br>number<br>heart<br>swamp<br>nerve<br>move<br>much<br>fiber<br>space<br>alone |  
-| bip_39_word_new_br2 | iron<br>build |  
-| bip_39_word_new_br3 | iron<br>build<br>lock |  
-| bip_39_word_new_br4 | iron<br>build<br>lock<br>number |  
-| bip_39_word_new_br5 | iron<br>build<br>lock<br>number<br>heart |  
-| bip_39_word_new_br6 | iron<br>build<br>lock<br>number<br>heart<br>swamp |  
-| bip_39_word_new_br7 | iron<br>build<br>lock<br>number<br>heart<br>swamp<br>nerve |  
-| bip_39_word_new_br8 | iron<br>build<br>lock<br>number<br>heart<br>swamp<br>nerve<br>move |  
-| bip_39_word_new_br9 | iron<br>build<br>lock<br>number<br>heart<br>swamp<br>nerve<br>move<br>much |  
-| bip_39_word_new_line1 | iron |  
-| bip_39_word_new_line10 | iron
+| bip_39_word_new_br_1 | iron |  
+| bip_39_word_new_br_10 | iron<br>build<br>lock<br>number<br>heart<br>swamp<br>nerve<br>move<br>much<br>fiber |  
+| bip_39_word_new_br_11 | iron<br>build<br>lock<br>number<br>heart<br>swamp<br>nerve<br>move<br>much<br>fiber<br>space |  
+| bip_39_word_new_br_12 | iron<br>build<br>lock<br>number<br>heart<br>swamp<br>nerve<br>move<br>much<br>fiber<br>space<br>alone |  
+| bip_39_word_new_br_2 | iron<br>build |  
+| bip_39_word_new_br_3 | iron<br>build<br>lock |  
+| bip_39_word_new_br_4 | iron<br>build<br>lock<br>number |  
+| bip_39_word_new_br_5 | iron<br>build<br>lock<br>number<br>heart |  
+| bip_39_word_new_br_6 | iron<br>build<br>lock<br>number<br>heart<br>swamp |  
+| bip_39_word_new_br_7 | iron<br>build<br>lock<br>number<br>heart<br>swamp<br>nerve |  
+| bip_39_word_new_br_8 | iron<br>build<br>lock<br>number<br>heart<br>swamp<br>nerve<br>move |  
+| bip_39_word_new_br_9 | iron<br>build<br>lock<br>number<br>heart<br>swamp<br>nerve<br>move<br>much |  
+| bip_39_word_new_line_1 | iron |  
+| bip_39_word_new_line_10 | iron
 build
 lock
 number
@@ -55,7 +55,7 @@ nerve
 move
 much
 fiber |  
-| bip_39_word_new_line11 | iron
+| bip_39_word_new_line_11 | iron
 build
 lock
 number
@@ -66,7 +66,7 @@ move
 much
 fiber
 space |  
-| bip_39_word_new_line12 | iron
+| bip_39_word_new_line_12 | iron
 build
 lock
 number
@@ -78,34 +78,34 @@ much
 fiber
 space
 alone |  
-| bip_39_word_new_line2 | iron
+| bip_39_word_new_line_2 | iron
 build |  
-| bip_39_word_new_line3 | iron
+| bip_39_word_new_line_3 | iron
 build
 lock |  
-| bip_39_word_new_line4 | iron
+| bip_39_word_new_line_4 | iron
 build
 lock
 number |  
-| bip_39_word_new_line5 | iron
+| bip_39_word_new_line_5 | iron
 build
 lock
 number
 heart |  
-| bip_39_word_new_line6 | iron
+| bip_39_word_new_line_6 | iron
 build
 lock
 number
 heart
 swamp |  
-| bip_39_word_new_line7 | iron
+| bip_39_word_new_line_7 | iron
 build
 lock
 number
 heart
 swamp
 nerve |  
-| bip_39_word_new_line8 | iron
+| bip_39_word_new_line_8 | iron
 build
 lock
 number
@@ -113,7 +113,7 @@ heart
 swamp
 nerve
 move |  
-| bip_39_word_new_line9 | iron
+| bip_39_word_new_line_9 | iron
 build
 lock
 number

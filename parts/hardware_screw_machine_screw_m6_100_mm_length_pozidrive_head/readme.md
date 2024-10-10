@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | attitude |  
-| bip_39_word_new_br10 | attitude<br>admit<br>opera<br>design<br>middle<br>pass<br>degree<br>junk<br>anxiety<br>brick |  
-| bip_39_word_new_br11 | attitude<br>admit<br>opera<br>design<br>middle<br>pass<br>degree<br>junk<br>anxiety<br>brick<br>february |  
-| bip_39_word_new_br12 | attitude<br>admit<br>opera<br>design<br>middle<br>pass<br>degree<br>junk<br>anxiety<br>brick<br>february<br>antenna |  
-| bip_39_word_new_br2 | attitude<br>admit |  
-| bip_39_word_new_br3 | attitude<br>admit<br>opera |  
-| bip_39_word_new_br4 | attitude<br>admit<br>opera<br>design |  
-| bip_39_word_new_br5 | attitude<br>admit<br>opera<br>design<br>middle |  
-| bip_39_word_new_br6 | attitude<br>admit<br>opera<br>design<br>middle<br>pass |  
-| bip_39_word_new_br7 | attitude<br>admit<br>opera<br>design<br>middle<br>pass<br>degree |  
-| bip_39_word_new_br8 | attitude<br>admit<br>opera<br>design<br>middle<br>pass<br>degree<br>junk |  
-| bip_39_word_new_br9 | attitude<br>admit<br>opera<br>design<br>middle<br>pass<br>degree<br>junk<br>anxiety |  
-| bip_39_word_new_line1 | attitude |  
-| bip_39_word_new_line10 | attitude
+| bip_39_word_new_br_1 | attitude |  
+| bip_39_word_new_br_10 | attitude<br>admit<br>opera<br>design<br>middle<br>pass<br>degree<br>junk<br>anxiety<br>brick |  
+| bip_39_word_new_br_11 | attitude<br>admit<br>opera<br>design<br>middle<br>pass<br>degree<br>junk<br>anxiety<br>brick<br>february |  
+| bip_39_word_new_br_12 | attitude<br>admit<br>opera<br>design<br>middle<br>pass<br>degree<br>junk<br>anxiety<br>brick<br>february<br>antenna |  
+| bip_39_word_new_br_2 | attitude<br>admit |  
+| bip_39_word_new_br_3 | attitude<br>admit<br>opera |  
+| bip_39_word_new_br_4 | attitude<br>admit<br>opera<br>design |  
+| bip_39_word_new_br_5 | attitude<br>admit<br>opera<br>design<br>middle |  
+| bip_39_word_new_br_6 | attitude<br>admit<br>opera<br>design<br>middle<br>pass |  
+| bip_39_word_new_br_7 | attitude<br>admit<br>opera<br>design<br>middle<br>pass<br>degree |  
+| bip_39_word_new_br_8 | attitude<br>admit<br>opera<br>design<br>middle<br>pass<br>degree<br>junk |  
+| bip_39_word_new_br_9 | attitude<br>admit<br>opera<br>design<br>middle<br>pass<br>degree<br>junk<br>anxiety |  
+| bip_39_word_new_line_1 | attitude |  
+| bip_39_word_new_line_10 | attitude
 admit
 opera
 design
@@ -55,7 +55,7 @@ degree
 junk
 anxiety
 brick |  
-| bip_39_word_new_line11 | attitude
+| bip_39_word_new_line_11 | attitude
 admit
 opera
 design
@@ -66,7 +66,7 @@ junk
 anxiety
 brick
 february |  
-| bip_39_word_new_line12 | attitude
+| bip_39_word_new_line_12 | attitude
 admit
 opera
 design
@@ -78,34 +78,34 @@ anxiety
 brick
 february
 antenna |  
-| bip_39_word_new_line2 | attitude
+| bip_39_word_new_line_2 | attitude
 admit |  
-| bip_39_word_new_line3 | attitude
+| bip_39_word_new_line_3 | attitude
 admit
 opera |  
-| bip_39_word_new_line4 | attitude
+| bip_39_word_new_line_4 | attitude
 admit
 opera
 design |  
-| bip_39_word_new_line5 | attitude
+| bip_39_word_new_line_5 | attitude
 admit
 opera
 design
 middle |  
-| bip_39_word_new_line6 | attitude
+| bip_39_word_new_line_6 | attitude
 admit
 opera
 design
 middle
 pass |  
-| bip_39_word_new_line7 | attitude
+| bip_39_word_new_line_7 | attitude
 admit
 opera
 design
 middle
 pass
 degree |  
-| bip_39_word_new_line8 | attitude
+| bip_39_word_new_line_8 | attitude
 admit
 opera
 design
@@ -113,7 +113,7 @@ middle
 pass
 degree
 junk |  
-| bip_39_word_new_line9 | attitude
+| bip_39_word_new_line_9 | attitude
 admit
 opera
 design

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cram |  
-| bip_39_word_new_br10 | cram<br>reopen<br>pitch<br>enjoy<br>quote<br>luggage<br>flower<br>bargain<br>method<br>elephant |  
-| bip_39_word_new_br11 | cram<br>reopen<br>pitch<br>enjoy<br>quote<br>luggage<br>flower<br>bargain<br>method<br>elephant<br>bundle |  
-| bip_39_word_new_br12 | cram<br>reopen<br>pitch<br>enjoy<br>quote<br>luggage<br>flower<br>bargain<br>method<br>elephant<br>bundle<br>act |  
-| bip_39_word_new_br2 | cram<br>reopen |  
-| bip_39_word_new_br3 | cram<br>reopen<br>pitch |  
-| bip_39_word_new_br4 | cram<br>reopen<br>pitch<br>enjoy |  
-| bip_39_word_new_br5 | cram<br>reopen<br>pitch<br>enjoy<br>quote |  
-| bip_39_word_new_br6 | cram<br>reopen<br>pitch<br>enjoy<br>quote<br>luggage |  
-| bip_39_word_new_br7 | cram<br>reopen<br>pitch<br>enjoy<br>quote<br>luggage<br>flower |  
-| bip_39_word_new_br8 | cram<br>reopen<br>pitch<br>enjoy<br>quote<br>luggage<br>flower<br>bargain |  
-| bip_39_word_new_br9 | cram<br>reopen<br>pitch<br>enjoy<br>quote<br>luggage<br>flower<br>bargain<br>method |  
-| bip_39_word_new_line1 | cram |  
-| bip_39_word_new_line10 | cram
+| bip_39_word_new_br_1 | cram |  
+| bip_39_word_new_br_10 | cram<br>reopen<br>pitch<br>enjoy<br>quote<br>luggage<br>flower<br>bargain<br>method<br>elephant |  
+| bip_39_word_new_br_11 | cram<br>reopen<br>pitch<br>enjoy<br>quote<br>luggage<br>flower<br>bargain<br>method<br>elephant<br>bundle |  
+| bip_39_word_new_br_12 | cram<br>reopen<br>pitch<br>enjoy<br>quote<br>luggage<br>flower<br>bargain<br>method<br>elephant<br>bundle<br>act |  
+| bip_39_word_new_br_2 | cram<br>reopen |  
+| bip_39_word_new_br_3 | cram<br>reopen<br>pitch |  
+| bip_39_word_new_br_4 | cram<br>reopen<br>pitch<br>enjoy |  
+| bip_39_word_new_br_5 | cram<br>reopen<br>pitch<br>enjoy<br>quote |  
+| bip_39_word_new_br_6 | cram<br>reopen<br>pitch<br>enjoy<br>quote<br>luggage |  
+| bip_39_word_new_br_7 | cram<br>reopen<br>pitch<br>enjoy<br>quote<br>luggage<br>flower |  
+| bip_39_word_new_br_8 | cram<br>reopen<br>pitch<br>enjoy<br>quote<br>luggage<br>flower<br>bargain |  
+| bip_39_word_new_br_9 | cram<br>reopen<br>pitch<br>enjoy<br>quote<br>luggage<br>flower<br>bargain<br>method |  
+| bip_39_word_new_line_1 | cram |  
+| bip_39_word_new_line_10 | cram
 reopen
 pitch
 enjoy
@@ -55,7 +55,7 @@ flower
 bargain
 method
 elephant |  
-| bip_39_word_new_line11 | cram
+| bip_39_word_new_line_11 | cram
 reopen
 pitch
 enjoy
@@ -66,7 +66,7 @@ bargain
 method
 elephant
 bundle |  
-| bip_39_word_new_line12 | cram
+| bip_39_word_new_line_12 | cram
 reopen
 pitch
 enjoy
@@ -78,34 +78,34 @@ method
 elephant
 bundle
 act |  
-| bip_39_word_new_line2 | cram
+| bip_39_word_new_line_2 | cram
 reopen |  
-| bip_39_word_new_line3 | cram
+| bip_39_word_new_line_3 | cram
 reopen
 pitch |  
-| bip_39_word_new_line4 | cram
+| bip_39_word_new_line_4 | cram
 reopen
 pitch
 enjoy |  
-| bip_39_word_new_line5 | cram
+| bip_39_word_new_line_5 | cram
 reopen
 pitch
 enjoy
 quote |  
-| bip_39_word_new_line6 | cram
+| bip_39_word_new_line_6 | cram
 reopen
 pitch
 enjoy
 quote
 luggage |  
-| bip_39_word_new_line7 | cram
+| bip_39_word_new_line_7 | cram
 reopen
 pitch
 enjoy
 quote
 luggage
 flower |  
-| bip_39_word_new_line8 | cram
+| bip_39_word_new_line_8 | cram
 reopen
 pitch
 enjoy
@@ -113,7 +113,7 @@ quote
 luggage
 flower
 bargain |  
-| bip_39_word_new_line9 | cram
+| bip_39_word_new_line_9 | cram
 reopen
 pitch
 enjoy

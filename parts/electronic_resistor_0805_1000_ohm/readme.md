@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | round |  
-| bip_39_word_new_br10 | round<br>point<br>business<br>income<br>loop<br>dinner<br>cheese<br>victory<br>black<br>reunion |  
-| bip_39_word_new_br11 | round<br>point<br>business<br>income<br>loop<br>dinner<br>cheese<br>victory<br>black<br>reunion<br>duty |  
-| bip_39_word_new_br12 | round<br>point<br>business<br>income<br>loop<br>dinner<br>cheese<br>victory<br>black<br>reunion<br>duty<br>attitude |  
-| bip_39_word_new_br2 | round<br>point |  
-| bip_39_word_new_br3 | round<br>point<br>business |  
-| bip_39_word_new_br4 | round<br>point<br>business<br>income |  
-| bip_39_word_new_br5 | round<br>point<br>business<br>income<br>loop |  
-| bip_39_word_new_br6 | round<br>point<br>business<br>income<br>loop<br>dinner |  
-| bip_39_word_new_br7 | round<br>point<br>business<br>income<br>loop<br>dinner<br>cheese |  
-| bip_39_word_new_br8 | round<br>point<br>business<br>income<br>loop<br>dinner<br>cheese<br>victory |  
-| bip_39_word_new_br9 | round<br>point<br>business<br>income<br>loop<br>dinner<br>cheese<br>victory<br>black |  
-| bip_39_word_new_line1 | round |  
-| bip_39_word_new_line10 | round
+| bip_39_word_new_br_1 | round |  
+| bip_39_word_new_br_10 | round<br>point<br>business<br>income<br>loop<br>dinner<br>cheese<br>victory<br>black<br>reunion |  
+| bip_39_word_new_br_11 | round<br>point<br>business<br>income<br>loop<br>dinner<br>cheese<br>victory<br>black<br>reunion<br>duty |  
+| bip_39_word_new_br_12 | round<br>point<br>business<br>income<br>loop<br>dinner<br>cheese<br>victory<br>black<br>reunion<br>duty<br>attitude |  
+| bip_39_word_new_br_2 | round<br>point |  
+| bip_39_word_new_br_3 | round<br>point<br>business |  
+| bip_39_word_new_br_4 | round<br>point<br>business<br>income |  
+| bip_39_word_new_br_5 | round<br>point<br>business<br>income<br>loop |  
+| bip_39_word_new_br_6 | round<br>point<br>business<br>income<br>loop<br>dinner |  
+| bip_39_word_new_br_7 | round<br>point<br>business<br>income<br>loop<br>dinner<br>cheese |  
+| bip_39_word_new_br_8 | round<br>point<br>business<br>income<br>loop<br>dinner<br>cheese<br>victory |  
+| bip_39_word_new_br_9 | round<br>point<br>business<br>income<br>loop<br>dinner<br>cheese<br>victory<br>black |  
+| bip_39_word_new_line_1 | round |  
+| bip_39_word_new_line_10 | round
 point
 business
 income
@@ -55,7 +55,7 @@ cheese
 victory
 black
 reunion |  
-| bip_39_word_new_line11 | round
+| bip_39_word_new_line_11 | round
 point
 business
 income
@@ -66,7 +66,7 @@ victory
 black
 reunion
 duty |  
-| bip_39_word_new_line12 | round
+| bip_39_word_new_line_12 | round
 point
 business
 income
@@ -78,34 +78,34 @@ black
 reunion
 duty
 attitude |  
-| bip_39_word_new_line2 | round
+| bip_39_word_new_line_2 | round
 point |  
-| bip_39_word_new_line3 | round
+| bip_39_word_new_line_3 | round
 point
 business |  
-| bip_39_word_new_line4 | round
+| bip_39_word_new_line_4 | round
 point
 business
 income |  
-| bip_39_word_new_line5 | round
+| bip_39_word_new_line_5 | round
 point
 business
 income
 loop |  
-| bip_39_word_new_line6 | round
+| bip_39_word_new_line_6 | round
 point
 business
 income
 loop
 dinner |  
-| bip_39_word_new_line7 | round
+| bip_39_word_new_line_7 | round
 point
 business
 income
 loop
 dinner
 cheese |  
-| bip_39_word_new_line8 | round
+| bip_39_word_new_line_8 | round
 point
 business
 income
@@ -113,7 +113,7 @@ loop
 dinner
 cheese
 victory |  
-| bip_39_word_new_line9 | round
+| bip_39_word_new_line_9 | round
 point
 business
 income

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dignity |  
-| bip_39_word_new_br10 | dignity<br>foam<br>moral<br>debate<br>lucky<br>steak<br>invite<br>slide<br>supreme<br>raise |  
-| bip_39_word_new_br11 | dignity<br>foam<br>moral<br>debate<br>lucky<br>steak<br>invite<br>slide<br>supreme<br>raise<br>annual |  
-| bip_39_word_new_br12 | dignity<br>foam<br>moral<br>debate<br>lucky<br>steak<br>invite<br>slide<br>supreme<br>raise<br>annual<br>amateur |  
-| bip_39_word_new_br2 | dignity<br>foam |  
-| bip_39_word_new_br3 | dignity<br>foam<br>moral |  
-| bip_39_word_new_br4 | dignity<br>foam<br>moral<br>debate |  
-| bip_39_word_new_br5 | dignity<br>foam<br>moral<br>debate<br>lucky |  
-| bip_39_word_new_br6 | dignity<br>foam<br>moral<br>debate<br>lucky<br>steak |  
-| bip_39_word_new_br7 | dignity<br>foam<br>moral<br>debate<br>lucky<br>steak<br>invite |  
-| bip_39_word_new_br8 | dignity<br>foam<br>moral<br>debate<br>lucky<br>steak<br>invite<br>slide |  
-| bip_39_word_new_br9 | dignity<br>foam<br>moral<br>debate<br>lucky<br>steak<br>invite<br>slide<br>supreme |  
-| bip_39_word_new_line1 | dignity |  
-| bip_39_word_new_line10 | dignity
+| bip_39_word_new_br_1 | dignity |  
+| bip_39_word_new_br_10 | dignity<br>foam<br>moral<br>debate<br>lucky<br>steak<br>invite<br>slide<br>supreme<br>raise |  
+| bip_39_word_new_br_11 | dignity<br>foam<br>moral<br>debate<br>lucky<br>steak<br>invite<br>slide<br>supreme<br>raise<br>annual |  
+| bip_39_word_new_br_12 | dignity<br>foam<br>moral<br>debate<br>lucky<br>steak<br>invite<br>slide<br>supreme<br>raise<br>annual<br>amateur |  
+| bip_39_word_new_br_2 | dignity<br>foam |  
+| bip_39_word_new_br_3 | dignity<br>foam<br>moral |  
+| bip_39_word_new_br_4 | dignity<br>foam<br>moral<br>debate |  
+| bip_39_word_new_br_5 | dignity<br>foam<br>moral<br>debate<br>lucky |  
+| bip_39_word_new_br_6 | dignity<br>foam<br>moral<br>debate<br>lucky<br>steak |  
+| bip_39_word_new_br_7 | dignity<br>foam<br>moral<br>debate<br>lucky<br>steak<br>invite |  
+| bip_39_word_new_br_8 | dignity<br>foam<br>moral<br>debate<br>lucky<br>steak<br>invite<br>slide |  
+| bip_39_word_new_br_9 | dignity<br>foam<br>moral<br>debate<br>lucky<br>steak<br>invite<br>slide<br>supreme |  
+| bip_39_word_new_line_1 | dignity |  
+| bip_39_word_new_line_10 | dignity
 foam
 moral
 debate
@@ -55,7 +55,7 @@ invite
 slide
 supreme
 raise |  
-| bip_39_word_new_line11 | dignity
+| bip_39_word_new_line_11 | dignity
 foam
 moral
 debate
@@ -66,7 +66,7 @@ slide
 supreme
 raise
 annual |  
-| bip_39_word_new_line12 | dignity
+| bip_39_word_new_line_12 | dignity
 foam
 moral
 debate
@@ -78,34 +78,34 @@ supreme
 raise
 annual
 amateur |  
-| bip_39_word_new_line2 | dignity
+| bip_39_word_new_line_2 | dignity
 foam |  
-| bip_39_word_new_line3 | dignity
+| bip_39_word_new_line_3 | dignity
 foam
 moral |  
-| bip_39_word_new_line4 | dignity
+| bip_39_word_new_line_4 | dignity
 foam
 moral
 debate |  
-| bip_39_word_new_line5 | dignity
+| bip_39_word_new_line_5 | dignity
 foam
 moral
 debate
 lucky |  
-| bip_39_word_new_line6 | dignity
+| bip_39_word_new_line_6 | dignity
 foam
 moral
 debate
 lucky
 steak |  
-| bip_39_word_new_line7 | dignity
+| bip_39_word_new_line_7 | dignity
 foam
 moral
 debate
 lucky
 steak
 invite |  
-| bip_39_word_new_line8 | dignity
+| bip_39_word_new_line_8 | dignity
 foam
 moral
 debate
@@ -113,7 +113,7 @@ lucky
 steak
 invite
 slide |  
-| bip_39_word_new_line9 | dignity
+| bip_39_word_new_line_9 | dignity
 foam
 moral
 debate

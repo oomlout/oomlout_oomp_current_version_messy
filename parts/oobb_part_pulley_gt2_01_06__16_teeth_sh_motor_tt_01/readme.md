@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | energy |  
-| bip_39_word_new_br10 | energy<br>life<br>myself<br>disease<br>become<br>divide<br>piano<br>mosquito<br>memory<br>rain |  
-| bip_39_word_new_br11 | energy<br>life<br>myself<br>disease<br>become<br>divide<br>piano<br>mosquito<br>memory<br>rain<br>throw |  
-| bip_39_word_new_br12 | energy<br>life<br>myself<br>disease<br>become<br>divide<br>piano<br>mosquito<br>memory<br>rain<br>throw<br>apology |  
-| bip_39_word_new_br2 | energy<br>life |  
-| bip_39_word_new_br3 | energy<br>life<br>myself |  
-| bip_39_word_new_br4 | energy<br>life<br>myself<br>disease |  
-| bip_39_word_new_br5 | energy<br>life<br>myself<br>disease<br>become |  
-| bip_39_word_new_br6 | energy<br>life<br>myself<br>disease<br>become<br>divide |  
-| bip_39_word_new_br7 | energy<br>life<br>myself<br>disease<br>become<br>divide<br>piano |  
-| bip_39_word_new_br8 | energy<br>life<br>myself<br>disease<br>become<br>divide<br>piano<br>mosquito |  
-| bip_39_word_new_br9 | energy<br>life<br>myself<br>disease<br>become<br>divide<br>piano<br>mosquito<br>memory |  
-| bip_39_word_new_line1 | energy |  
-| bip_39_word_new_line10 | energy
+| bip_39_word_new_br_1 | energy |  
+| bip_39_word_new_br_10 | energy<br>life<br>myself<br>disease<br>become<br>divide<br>piano<br>mosquito<br>memory<br>rain |  
+| bip_39_word_new_br_11 | energy<br>life<br>myself<br>disease<br>become<br>divide<br>piano<br>mosquito<br>memory<br>rain<br>throw |  
+| bip_39_word_new_br_12 | energy<br>life<br>myself<br>disease<br>become<br>divide<br>piano<br>mosquito<br>memory<br>rain<br>throw<br>apology |  
+| bip_39_word_new_br_2 | energy<br>life |  
+| bip_39_word_new_br_3 | energy<br>life<br>myself |  
+| bip_39_word_new_br_4 | energy<br>life<br>myself<br>disease |  
+| bip_39_word_new_br_5 | energy<br>life<br>myself<br>disease<br>become |  
+| bip_39_word_new_br_6 | energy<br>life<br>myself<br>disease<br>become<br>divide |  
+| bip_39_word_new_br_7 | energy<br>life<br>myself<br>disease<br>become<br>divide<br>piano |  
+| bip_39_word_new_br_8 | energy<br>life<br>myself<br>disease<br>become<br>divide<br>piano<br>mosquito |  
+| bip_39_word_new_br_9 | energy<br>life<br>myself<br>disease<br>become<br>divide<br>piano<br>mosquito<br>memory |  
+| bip_39_word_new_line_1 | energy |  
+| bip_39_word_new_line_10 | energy
 life
 myself
 disease
@@ -55,7 +55,7 @@ piano
 mosquito
 memory
 rain |  
-| bip_39_word_new_line11 | energy
+| bip_39_word_new_line_11 | energy
 life
 myself
 disease
@@ -66,7 +66,7 @@ mosquito
 memory
 rain
 throw |  
-| bip_39_word_new_line12 | energy
+| bip_39_word_new_line_12 | energy
 life
 myself
 disease
@@ -78,34 +78,34 @@ memory
 rain
 throw
 apology |  
-| bip_39_word_new_line2 | energy
+| bip_39_word_new_line_2 | energy
 life |  
-| bip_39_word_new_line3 | energy
+| bip_39_word_new_line_3 | energy
 life
 myself |  
-| bip_39_word_new_line4 | energy
+| bip_39_word_new_line_4 | energy
 life
 myself
 disease |  
-| bip_39_word_new_line5 | energy
+| bip_39_word_new_line_5 | energy
 life
 myself
 disease
 become |  
-| bip_39_word_new_line6 | energy
+| bip_39_word_new_line_6 | energy
 life
 myself
 disease
 become
 divide |  
-| bip_39_word_new_line7 | energy
+| bip_39_word_new_line_7 | energy
 life
 myself
 disease
 become
 divide
 piano |  
-| bip_39_word_new_line8 | energy
+| bip_39_word_new_line_8 | energy
 life
 myself
 disease
@@ -113,7 +113,7 @@ become
 divide
 piano
 mosquito |  
-| bip_39_word_new_line9 | energy
+| bip_39_word_new_line_9 | energy
 life
 myself
 disease

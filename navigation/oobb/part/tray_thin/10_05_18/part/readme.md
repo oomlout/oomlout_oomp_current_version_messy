@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | refuse |  
-| bip_39_word_new_br10 | refuse<br>artwork<br>coin<br>can<br>raise<br>reward<br>spend<br>region<br>vital<br>siege |  
-| bip_39_word_new_br11 | refuse<br>artwork<br>coin<br>can<br>raise<br>reward<br>spend<br>region<br>vital<br>siege<br>target |  
-| bip_39_word_new_br12 | refuse<br>artwork<br>coin<br>can<br>raise<br>reward<br>spend<br>region<br>vital<br>siege<br>target<br>addict |  
-| bip_39_word_new_br2 | refuse<br>artwork |  
-| bip_39_word_new_br3 | refuse<br>artwork<br>coin |  
-| bip_39_word_new_br4 | refuse<br>artwork<br>coin<br>can |  
-| bip_39_word_new_br5 | refuse<br>artwork<br>coin<br>can<br>raise |  
-| bip_39_word_new_br6 | refuse<br>artwork<br>coin<br>can<br>raise<br>reward |  
-| bip_39_word_new_br7 | refuse<br>artwork<br>coin<br>can<br>raise<br>reward<br>spend |  
-| bip_39_word_new_br8 | refuse<br>artwork<br>coin<br>can<br>raise<br>reward<br>spend<br>region |  
-| bip_39_word_new_br9 | refuse<br>artwork<br>coin<br>can<br>raise<br>reward<br>spend<br>region<br>vital |  
-| bip_39_word_new_line1 | refuse |  
-| bip_39_word_new_line10 | refuse
+| bip_39_word_new_br_1 | refuse |  
+| bip_39_word_new_br_10 | refuse<br>artwork<br>coin<br>can<br>raise<br>reward<br>spend<br>region<br>vital<br>siege |  
+| bip_39_word_new_br_11 | refuse<br>artwork<br>coin<br>can<br>raise<br>reward<br>spend<br>region<br>vital<br>siege<br>target |  
+| bip_39_word_new_br_12 | refuse<br>artwork<br>coin<br>can<br>raise<br>reward<br>spend<br>region<br>vital<br>siege<br>target<br>addict |  
+| bip_39_word_new_br_2 | refuse<br>artwork |  
+| bip_39_word_new_br_3 | refuse<br>artwork<br>coin |  
+| bip_39_word_new_br_4 | refuse<br>artwork<br>coin<br>can |  
+| bip_39_word_new_br_5 | refuse<br>artwork<br>coin<br>can<br>raise |  
+| bip_39_word_new_br_6 | refuse<br>artwork<br>coin<br>can<br>raise<br>reward |  
+| bip_39_word_new_br_7 | refuse<br>artwork<br>coin<br>can<br>raise<br>reward<br>spend |  
+| bip_39_word_new_br_8 | refuse<br>artwork<br>coin<br>can<br>raise<br>reward<br>spend<br>region |  
+| bip_39_word_new_br_9 | refuse<br>artwork<br>coin<br>can<br>raise<br>reward<br>spend<br>region<br>vital |  
+| bip_39_word_new_line_1 | refuse |  
+| bip_39_word_new_line_10 | refuse
 artwork
 coin
 can
@@ -55,7 +55,7 @@ spend
 region
 vital
 siege |  
-| bip_39_word_new_line11 | refuse
+| bip_39_word_new_line_11 | refuse
 artwork
 coin
 can
@@ -66,7 +66,7 @@ region
 vital
 siege
 target |  
-| bip_39_word_new_line12 | refuse
+| bip_39_word_new_line_12 | refuse
 artwork
 coin
 can
@@ -78,34 +78,34 @@ vital
 siege
 target
 addict |  
-| bip_39_word_new_line2 | refuse
+| bip_39_word_new_line_2 | refuse
 artwork |  
-| bip_39_word_new_line3 | refuse
+| bip_39_word_new_line_3 | refuse
 artwork
 coin |  
-| bip_39_word_new_line4 | refuse
+| bip_39_word_new_line_4 | refuse
 artwork
 coin
 can |  
-| bip_39_word_new_line5 | refuse
+| bip_39_word_new_line_5 | refuse
 artwork
 coin
 can
 raise |  
-| bip_39_word_new_line6 | refuse
+| bip_39_word_new_line_6 | refuse
 artwork
 coin
 can
 raise
 reward |  
-| bip_39_word_new_line7 | refuse
+| bip_39_word_new_line_7 | refuse
 artwork
 coin
 can
 raise
 reward
 spend |  
-| bip_39_word_new_line8 | refuse
+| bip_39_word_new_line_8 | refuse
 artwork
 coin
 can
@@ -113,7 +113,7 @@ raise
 reward
 spend
 region |  
-| bip_39_word_new_line9 | refuse
+| bip_39_word_new_line_9 | refuse
 artwork
 coin
 can

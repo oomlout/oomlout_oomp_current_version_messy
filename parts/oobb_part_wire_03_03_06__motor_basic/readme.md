@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | patch |  
-| bip_39_word_new_br10 | patch<br>price<br>aware<br>game<br>aware<br>puppy<br>obvious<br>garden<br>disagree<br>mean |  
-| bip_39_word_new_br11 | patch<br>price<br>aware<br>game<br>aware<br>puppy<br>obvious<br>garden<br>disagree<br>mean<br>purity |  
-| bip_39_word_new_br12 | patch<br>price<br>aware<br>game<br>aware<br>puppy<br>obvious<br>garden<br>disagree<br>mean<br>purity<br>assault |  
-| bip_39_word_new_br2 | patch<br>price |  
-| bip_39_word_new_br3 | patch<br>price<br>aware |  
-| bip_39_word_new_br4 | patch<br>price<br>aware<br>game |  
-| bip_39_word_new_br5 | patch<br>price<br>aware<br>game<br>aware |  
-| bip_39_word_new_br6 | patch<br>price<br>aware<br>game<br>aware<br>puppy |  
-| bip_39_word_new_br7 | patch<br>price<br>aware<br>game<br>aware<br>puppy<br>obvious |  
-| bip_39_word_new_br8 | patch<br>price<br>aware<br>game<br>aware<br>puppy<br>obvious<br>garden |  
-| bip_39_word_new_br9 | patch<br>price<br>aware<br>game<br>aware<br>puppy<br>obvious<br>garden<br>disagree |  
-| bip_39_word_new_line1 | patch |  
-| bip_39_word_new_line10 | patch
+| bip_39_word_new_br_1 | patch |  
+| bip_39_word_new_br_10 | patch<br>price<br>aware<br>game<br>aware<br>puppy<br>obvious<br>garden<br>disagree<br>mean |  
+| bip_39_word_new_br_11 | patch<br>price<br>aware<br>game<br>aware<br>puppy<br>obvious<br>garden<br>disagree<br>mean<br>purity |  
+| bip_39_word_new_br_12 | patch<br>price<br>aware<br>game<br>aware<br>puppy<br>obvious<br>garden<br>disagree<br>mean<br>purity<br>assault |  
+| bip_39_word_new_br_2 | patch<br>price |  
+| bip_39_word_new_br_3 | patch<br>price<br>aware |  
+| bip_39_word_new_br_4 | patch<br>price<br>aware<br>game |  
+| bip_39_word_new_br_5 | patch<br>price<br>aware<br>game<br>aware |  
+| bip_39_word_new_br_6 | patch<br>price<br>aware<br>game<br>aware<br>puppy |  
+| bip_39_word_new_br_7 | patch<br>price<br>aware<br>game<br>aware<br>puppy<br>obvious |  
+| bip_39_word_new_br_8 | patch<br>price<br>aware<br>game<br>aware<br>puppy<br>obvious<br>garden |  
+| bip_39_word_new_br_9 | patch<br>price<br>aware<br>game<br>aware<br>puppy<br>obvious<br>garden<br>disagree |  
+| bip_39_word_new_line_1 | patch |  
+| bip_39_word_new_line_10 | patch
 price
 aware
 game
@@ -55,7 +55,7 @@ obvious
 garden
 disagree
 mean |  
-| bip_39_word_new_line11 | patch
+| bip_39_word_new_line_11 | patch
 price
 aware
 game
@@ -66,7 +66,7 @@ garden
 disagree
 mean
 purity |  
-| bip_39_word_new_line12 | patch
+| bip_39_word_new_line_12 | patch
 price
 aware
 game
@@ -78,34 +78,34 @@ disagree
 mean
 purity
 assault |  
-| bip_39_word_new_line2 | patch
+| bip_39_word_new_line_2 | patch
 price |  
-| bip_39_word_new_line3 | patch
+| bip_39_word_new_line_3 | patch
 price
 aware |  
-| bip_39_word_new_line4 | patch
+| bip_39_word_new_line_4 | patch
 price
 aware
 game |  
-| bip_39_word_new_line5 | patch
+| bip_39_word_new_line_5 | patch
 price
 aware
 game
 aware |  
-| bip_39_word_new_line6 | patch
+| bip_39_word_new_line_6 | patch
 price
 aware
 game
 aware
 puppy |  
-| bip_39_word_new_line7 | patch
+| bip_39_word_new_line_7 | patch
 price
 aware
 game
 aware
 puppy
 obvious |  
-| bip_39_word_new_line8 | patch
+| bip_39_word_new_line_8 | patch
 price
 aware
 game
@@ -113,7 +113,7 @@ aware
 puppy
 obvious
 garden |  
-| bip_39_word_new_line9 | patch
+| bip_39_word_new_line_9 | patch
 price
 aware
 game

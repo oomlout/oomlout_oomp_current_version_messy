@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | faint |  
-| bip_39_word_new_br10 | faint<br>detail<br>silver<br>post<br>visit<br>cactus<br>pledge<br>prevent<br>tonight<br>endorse |  
-| bip_39_word_new_br11 | faint<br>detail<br>silver<br>post<br>visit<br>cactus<br>pledge<br>prevent<br>tonight<br>endorse<br>area |  
-| bip_39_word_new_br12 | faint<br>detail<br>silver<br>post<br>visit<br>cactus<br>pledge<br>prevent<br>tonight<br>endorse<br>area<br>alert |  
-| bip_39_word_new_br2 | faint<br>detail |  
-| bip_39_word_new_br3 | faint<br>detail<br>silver |  
-| bip_39_word_new_br4 | faint<br>detail<br>silver<br>post |  
-| bip_39_word_new_br5 | faint<br>detail<br>silver<br>post<br>visit |  
-| bip_39_word_new_br6 | faint<br>detail<br>silver<br>post<br>visit<br>cactus |  
-| bip_39_word_new_br7 | faint<br>detail<br>silver<br>post<br>visit<br>cactus<br>pledge |  
-| bip_39_word_new_br8 | faint<br>detail<br>silver<br>post<br>visit<br>cactus<br>pledge<br>prevent |  
-| bip_39_word_new_br9 | faint<br>detail<br>silver<br>post<br>visit<br>cactus<br>pledge<br>prevent<br>tonight |  
-| bip_39_word_new_line1 | faint |  
-| bip_39_word_new_line10 | faint
+| bip_39_word_new_br_1 | faint |  
+| bip_39_word_new_br_10 | faint<br>detail<br>silver<br>post<br>visit<br>cactus<br>pledge<br>prevent<br>tonight<br>endorse |  
+| bip_39_word_new_br_11 | faint<br>detail<br>silver<br>post<br>visit<br>cactus<br>pledge<br>prevent<br>tonight<br>endorse<br>area |  
+| bip_39_word_new_br_12 | faint<br>detail<br>silver<br>post<br>visit<br>cactus<br>pledge<br>prevent<br>tonight<br>endorse<br>area<br>alert |  
+| bip_39_word_new_br_2 | faint<br>detail |  
+| bip_39_word_new_br_3 | faint<br>detail<br>silver |  
+| bip_39_word_new_br_4 | faint<br>detail<br>silver<br>post |  
+| bip_39_word_new_br_5 | faint<br>detail<br>silver<br>post<br>visit |  
+| bip_39_word_new_br_6 | faint<br>detail<br>silver<br>post<br>visit<br>cactus |  
+| bip_39_word_new_br_7 | faint<br>detail<br>silver<br>post<br>visit<br>cactus<br>pledge |  
+| bip_39_word_new_br_8 | faint<br>detail<br>silver<br>post<br>visit<br>cactus<br>pledge<br>prevent |  
+| bip_39_word_new_br_9 | faint<br>detail<br>silver<br>post<br>visit<br>cactus<br>pledge<br>prevent<br>tonight |  
+| bip_39_word_new_line_1 | faint |  
+| bip_39_word_new_line_10 | faint
 detail
 silver
 post
@@ -55,7 +55,7 @@ pledge
 prevent
 tonight
 endorse |  
-| bip_39_word_new_line11 | faint
+| bip_39_word_new_line_11 | faint
 detail
 silver
 post
@@ -66,7 +66,7 @@ prevent
 tonight
 endorse
 area |  
-| bip_39_word_new_line12 | faint
+| bip_39_word_new_line_12 | faint
 detail
 silver
 post
@@ -78,34 +78,34 @@ tonight
 endorse
 area
 alert |  
-| bip_39_word_new_line2 | faint
+| bip_39_word_new_line_2 | faint
 detail |  
-| bip_39_word_new_line3 | faint
+| bip_39_word_new_line_3 | faint
 detail
 silver |  
-| bip_39_word_new_line4 | faint
+| bip_39_word_new_line_4 | faint
 detail
 silver
 post |  
-| bip_39_word_new_line5 | faint
+| bip_39_word_new_line_5 | faint
 detail
 silver
 post
 visit |  
-| bip_39_word_new_line6 | faint
+| bip_39_word_new_line_6 | faint
 detail
 silver
 post
 visit
 cactus |  
-| bip_39_word_new_line7 | faint
+| bip_39_word_new_line_7 | faint
 detail
 silver
 post
 visit
 cactus
 pledge |  
-| bip_39_word_new_line8 | faint
+| bip_39_word_new_line_8 | faint
 detail
 silver
 post
@@ -113,7 +113,7 @@ visit
 cactus
 pledge
 prevent |  
-| bip_39_word_new_line9 | faint
+| bip_39_word_new_line_9 | faint
 detail
 silver
 post

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | vital |  
-| bip_39_word_new_br10 | vital<br>pass<br>thank<br>faint<br>retire<br>vessel<br>drastic<br>catch<br>witness<br>burden |  
-| bip_39_word_new_br11 | vital<br>pass<br>thank<br>faint<br>retire<br>vessel<br>drastic<br>catch<br>witness<br>burden<br>cheese |  
-| bip_39_word_new_br12 | vital<br>pass<br>thank<br>faint<br>retire<br>vessel<br>drastic<br>catch<br>witness<br>burden<br>cheese<br>alter |  
-| bip_39_word_new_br2 | vital<br>pass |  
-| bip_39_word_new_br3 | vital<br>pass<br>thank |  
-| bip_39_word_new_br4 | vital<br>pass<br>thank<br>faint |  
-| bip_39_word_new_br5 | vital<br>pass<br>thank<br>faint<br>retire |  
-| bip_39_word_new_br6 | vital<br>pass<br>thank<br>faint<br>retire<br>vessel |  
-| bip_39_word_new_br7 | vital<br>pass<br>thank<br>faint<br>retire<br>vessel<br>drastic |  
-| bip_39_word_new_br8 | vital<br>pass<br>thank<br>faint<br>retire<br>vessel<br>drastic<br>catch |  
-| bip_39_word_new_br9 | vital<br>pass<br>thank<br>faint<br>retire<br>vessel<br>drastic<br>catch<br>witness |  
-| bip_39_word_new_line1 | vital |  
-| bip_39_word_new_line10 | vital
+| bip_39_word_new_br_1 | vital |  
+| bip_39_word_new_br_10 | vital<br>pass<br>thank<br>faint<br>retire<br>vessel<br>drastic<br>catch<br>witness<br>burden |  
+| bip_39_word_new_br_11 | vital<br>pass<br>thank<br>faint<br>retire<br>vessel<br>drastic<br>catch<br>witness<br>burden<br>cheese |  
+| bip_39_word_new_br_12 | vital<br>pass<br>thank<br>faint<br>retire<br>vessel<br>drastic<br>catch<br>witness<br>burden<br>cheese<br>alter |  
+| bip_39_word_new_br_2 | vital<br>pass |  
+| bip_39_word_new_br_3 | vital<br>pass<br>thank |  
+| bip_39_word_new_br_4 | vital<br>pass<br>thank<br>faint |  
+| bip_39_word_new_br_5 | vital<br>pass<br>thank<br>faint<br>retire |  
+| bip_39_word_new_br_6 | vital<br>pass<br>thank<br>faint<br>retire<br>vessel |  
+| bip_39_word_new_br_7 | vital<br>pass<br>thank<br>faint<br>retire<br>vessel<br>drastic |  
+| bip_39_word_new_br_8 | vital<br>pass<br>thank<br>faint<br>retire<br>vessel<br>drastic<br>catch |  
+| bip_39_word_new_br_9 | vital<br>pass<br>thank<br>faint<br>retire<br>vessel<br>drastic<br>catch<br>witness |  
+| bip_39_word_new_line_1 | vital |  
+| bip_39_word_new_line_10 | vital
 pass
 thank
 faint
@@ -55,7 +55,7 @@ drastic
 catch
 witness
 burden |  
-| bip_39_word_new_line11 | vital
+| bip_39_word_new_line_11 | vital
 pass
 thank
 faint
@@ -66,7 +66,7 @@ catch
 witness
 burden
 cheese |  
-| bip_39_word_new_line12 | vital
+| bip_39_word_new_line_12 | vital
 pass
 thank
 faint
@@ -78,34 +78,34 @@ witness
 burden
 cheese
 alter |  
-| bip_39_word_new_line2 | vital
+| bip_39_word_new_line_2 | vital
 pass |  
-| bip_39_word_new_line3 | vital
+| bip_39_word_new_line_3 | vital
 pass
 thank |  
-| bip_39_word_new_line4 | vital
+| bip_39_word_new_line_4 | vital
 pass
 thank
 faint |  
-| bip_39_word_new_line5 | vital
+| bip_39_word_new_line_5 | vital
 pass
 thank
 faint
 retire |  
-| bip_39_word_new_line6 | vital
+| bip_39_word_new_line_6 | vital
 pass
 thank
 faint
 retire
 vessel |  
-| bip_39_word_new_line7 | vital
+| bip_39_word_new_line_7 | vital
 pass
 thank
 faint
 retire
 vessel
 drastic |  
-| bip_39_word_new_line8 | vital
+| bip_39_word_new_line_8 | vital
 pass
 thank
 faint
@@ -113,7 +113,7 @@ retire
 vessel
 drastic
 catch |  
-| bip_39_word_new_line9 | vital
+| bip_39_word_new_line_9 | vital
 pass
 thank
 faint

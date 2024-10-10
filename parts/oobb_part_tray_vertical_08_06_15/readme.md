@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | smile |  
-| bip_39_word_new_br10 | smile<br>measure<br>adult<br>ripple<br>close<br>peace<br>trust<br>fluid<br>holiday<br>habit |  
-| bip_39_word_new_br11 | smile<br>measure<br>adult<br>ripple<br>close<br>peace<br>trust<br>fluid<br>holiday<br>habit<br>laugh |  
-| bip_39_word_new_br12 | smile<br>measure<br>adult<br>ripple<br>close<br>peace<br>trust<br>fluid<br>holiday<br>habit<br>laugh<br>amateur |  
-| bip_39_word_new_br2 | smile<br>measure |  
-| bip_39_word_new_br3 | smile<br>measure<br>adult |  
-| bip_39_word_new_br4 | smile<br>measure<br>adult<br>ripple |  
-| bip_39_word_new_br5 | smile<br>measure<br>adult<br>ripple<br>close |  
-| bip_39_word_new_br6 | smile<br>measure<br>adult<br>ripple<br>close<br>peace |  
-| bip_39_word_new_br7 | smile<br>measure<br>adult<br>ripple<br>close<br>peace<br>trust |  
-| bip_39_word_new_br8 | smile<br>measure<br>adult<br>ripple<br>close<br>peace<br>trust<br>fluid |  
-| bip_39_word_new_br9 | smile<br>measure<br>adult<br>ripple<br>close<br>peace<br>trust<br>fluid<br>holiday |  
-| bip_39_word_new_line1 | smile |  
-| bip_39_word_new_line10 | smile
+| bip_39_word_new_br_1 | smile |  
+| bip_39_word_new_br_10 | smile<br>measure<br>adult<br>ripple<br>close<br>peace<br>trust<br>fluid<br>holiday<br>habit |  
+| bip_39_word_new_br_11 | smile<br>measure<br>adult<br>ripple<br>close<br>peace<br>trust<br>fluid<br>holiday<br>habit<br>laugh |  
+| bip_39_word_new_br_12 | smile<br>measure<br>adult<br>ripple<br>close<br>peace<br>trust<br>fluid<br>holiday<br>habit<br>laugh<br>amateur |  
+| bip_39_word_new_br_2 | smile<br>measure |  
+| bip_39_word_new_br_3 | smile<br>measure<br>adult |  
+| bip_39_word_new_br_4 | smile<br>measure<br>adult<br>ripple |  
+| bip_39_word_new_br_5 | smile<br>measure<br>adult<br>ripple<br>close |  
+| bip_39_word_new_br_6 | smile<br>measure<br>adult<br>ripple<br>close<br>peace |  
+| bip_39_word_new_br_7 | smile<br>measure<br>adult<br>ripple<br>close<br>peace<br>trust |  
+| bip_39_word_new_br_8 | smile<br>measure<br>adult<br>ripple<br>close<br>peace<br>trust<br>fluid |  
+| bip_39_word_new_br_9 | smile<br>measure<br>adult<br>ripple<br>close<br>peace<br>trust<br>fluid<br>holiday |  
+| bip_39_word_new_line_1 | smile |  
+| bip_39_word_new_line_10 | smile
 measure
 adult
 ripple
@@ -55,7 +55,7 @@ trust
 fluid
 holiday
 habit |  
-| bip_39_word_new_line11 | smile
+| bip_39_word_new_line_11 | smile
 measure
 adult
 ripple
@@ -66,7 +66,7 @@ fluid
 holiday
 habit
 laugh |  
-| bip_39_word_new_line12 | smile
+| bip_39_word_new_line_12 | smile
 measure
 adult
 ripple
@@ -78,34 +78,34 @@ holiday
 habit
 laugh
 amateur |  
-| bip_39_word_new_line2 | smile
+| bip_39_word_new_line_2 | smile
 measure |  
-| bip_39_word_new_line3 | smile
+| bip_39_word_new_line_3 | smile
 measure
 adult |  
-| bip_39_word_new_line4 | smile
+| bip_39_word_new_line_4 | smile
 measure
 adult
 ripple |  
-| bip_39_word_new_line5 | smile
+| bip_39_word_new_line_5 | smile
 measure
 adult
 ripple
 close |  
-| bip_39_word_new_line6 | smile
+| bip_39_word_new_line_6 | smile
 measure
 adult
 ripple
 close
 peace |  
-| bip_39_word_new_line7 | smile
+| bip_39_word_new_line_7 | smile
 measure
 adult
 ripple
 close
 peace
 trust |  
-| bip_39_word_new_line8 | smile
+| bip_39_word_new_line_8 | smile
 measure
 adult
 ripple
@@ -113,7 +113,7 @@ close
 peace
 trust
 fluid |  
-| bip_39_word_new_line9 | smile
+| bip_39_word_new_line_9 | smile
 measure
 adult
 ripple

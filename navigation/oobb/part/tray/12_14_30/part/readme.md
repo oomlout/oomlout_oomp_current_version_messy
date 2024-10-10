@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | popular |  
-| bip_39_word_new_br10 | popular<br>kidney<br>omit<br>pole<br>office<br>cabbage<br>top<br>athlete<br>shallow<br>anchor |  
-| bip_39_word_new_br11 | popular<br>kidney<br>omit<br>pole<br>office<br>cabbage<br>top<br>athlete<br>shallow<br>anchor<br>cloth |  
-| bip_39_word_new_br12 | popular<br>kidney<br>omit<br>pole<br>office<br>cabbage<br>top<br>athlete<br>shallow<br>anchor<br>cloth<br>angry |  
-| bip_39_word_new_br2 | popular<br>kidney |  
-| bip_39_word_new_br3 | popular<br>kidney<br>omit |  
-| bip_39_word_new_br4 | popular<br>kidney<br>omit<br>pole |  
-| bip_39_word_new_br5 | popular<br>kidney<br>omit<br>pole<br>office |  
-| bip_39_word_new_br6 | popular<br>kidney<br>omit<br>pole<br>office<br>cabbage |  
-| bip_39_word_new_br7 | popular<br>kidney<br>omit<br>pole<br>office<br>cabbage<br>top |  
-| bip_39_word_new_br8 | popular<br>kidney<br>omit<br>pole<br>office<br>cabbage<br>top<br>athlete |  
-| bip_39_word_new_br9 | popular<br>kidney<br>omit<br>pole<br>office<br>cabbage<br>top<br>athlete<br>shallow |  
-| bip_39_word_new_line1 | popular |  
-| bip_39_word_new_line10 | popular
+| bip_39_word_new_br_1 | popular |  
+| bip_39_word_new_br_10 | popular<br>kidney<br>omit<br>pole<br>office<br>cabbage<br>top<br>athlete<br>shallow<br>anchor |  
+| bip_39_word_new_br_11 | popular<br>kidney<br>omit<br>pole<br>office<br>cabbage<br>top<br>athlete<br>shallow<br>anchor<br>cloth |  
+| bip_39_word_new_br_12 | popular<br>kidney<br>omit<br>pole<br>office<br>cabbage<br>top<br>athlete<br>shallow<br>anchor<br>cloth<br>angry |  
+| bip_39_word_new_br_2 | popular<br>kidney |  
+| bip_39_word_new_br_3 | popular<br>kidney<br>omit |  
+| bip_39_word_new_br_4 | popular<br>kidney<br>omit<br>pole |  
+| bip_39_word_new_br_5 | popular<br>kidney<br>omit<br>pole<br>office |  
+| bip_39_word_new_br_6 | popular<br>kidney<br>omit<br>pole<br>office<br>cabbage |  
+| bip_39_word_new_br_7 | popular<br>kidney<br>omit<br>pole<br>office<br>cabbage<br>top |  
+| bip_39_word_new_br_8 | popular<br>kidney<br>omit<br>pole<br>office<br>cabbage<br>top<br>athlete |  
+| bip_39_word_new_br_9 | popular<br>kidney<br>omit<br>pole<br>office<br>cabbage<br>top<br>athlete<br>shallow |  
+| bip_39_word_new_line_1 | popular |  
+| bip_39_word_new_line_10 | popular
 kidney
 omit
 pole
@@ -55,7 +55,7 @@ top
 athlete
 shallow
 anchor |  
-| bip_39_word_new_line11 | popular
+| bip_39_word_new_line_11 | popular
 kidney
 omit
 pole
@@ -66,7 +66,7 @@ athlete
 shallow
 anchor
 cloth |  
-| bip_39_word_new_line12 | popular
+| bip_39_word_new_line_12 | popular
 kidney
 omit
 pole
@@ -78,34 +78,34 @@ shallow
 anchor
 cloth
 angry |  
-| bip_39_word_new_line2 | popular
+| bip_39_word_new_line_2 | popular
 kidney |  
-| bip_39_word_new_line3 | popular
+| bip_39_word_new_line_3 | popular
 kidney
 omit |  
-| bip_39_word_new_line4 | popular
+| bip_39_word_new_line_4 | popular
 kidney
 omit
 pole |  
-| bip_39_word_new_line5 | popular
+| bip_39_word_new_line_5 | popular
 kidney
 omit
 pole
 office |  
-| bip_39_word_new_line6 | popular
+| bip_39_word_new_line_6 | popular
 kidney
 omit
 pole
 office
 cabbage |  
-| bip_39_word_new_line7 | popular
+| bip_39_word_new_line_7 | popular
 kidney
 omit
 pole
 office
 cabbage
 top |  
-| bip_39_word_new_line8 | popular
+| bip_39_word_new_line_8 | popular
 kidney
 omit
 pole
@@ -113,7 +113,7 @@ office
 cabbage
 top
 athlete |  
-| bip_39_word_new_line9 | popular
+| bip_39_word_new_line_9 | popular
 kidney
 omit
 pole

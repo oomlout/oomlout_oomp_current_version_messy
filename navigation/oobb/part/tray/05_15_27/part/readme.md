@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fruit |  
-| bip_39_word_new_br10 | fruit<br>hawk<br>tomato<br>there<br>solid<br>wool<br>clutch<br>bar<br>bind<br>mushroom |  
-| bip_39_word_new_br11 | fruit<br>hawk<br>tomato<br>there<br>solid<br>wool<br>clutch<br>bar<br>bind<br>mushroom<br>say |  
-| bip_39_word_new_br12 | fruit<br>hawk<br>tomato<br>there<br>solid<br>wool<br>clutch<br>bar<br>bind<br>mushroom<br>say<br>agree |  
-| bip_39_word_new_br2 | fruit<br>hawk |  
-| bip_39_word_new_br3 | fruit<br>hawk<br>tomato |  
-| bip_39_word_new_br4 | fruit<br>hawk<br>tomato<br>there |  
-| bip_39_word_new_br5 | fruit<br>hawk<br>tomato<br>there<br>solid |  
-| bip_39_word_new_br6 | fruit<br>hawk<br>tomato<br>there<br>solid<br>wool |  
-| bip_39_word_new_br7 | fruit<br>hawk<br>tomato<br>there<br>solid<br>wool<br>clutch |  
-| bip_39_word_new_br8 | fruit<br>hawk<br>tomato<br>there<br>solid<br>wool<br>clutch<br>bar |  
-| bip_39_word_new_br9 | fruit<br>hawk<br>tomato<br>there<br>solid<br>wool<br>clutch<br>bar<br>bind |  
-| bip_39_word_new_line1 | fruit |  
-| bip_39_word_new_line10 | fruit
+| bip_39_word_new_br_1 | fruit |  
+| bip_39_word_new_br_10 | fruit<br>hawk<br>tomato<br>there<br>solid<br>wool<br>clutch<br>bar<br>bind<br>mushroom |  
+| bip_39_word_new_br_11 | fruit<br>hawk<br>tomato<br>there<br>solid<br>wool<br>clutch<br>bar<br>bind<br>mushroom<br>say |  
+| bip_39_word_new_br_12 | fruit<br>hawk<br>tomato<br>there<br>solid<br>wool<br>clutch<br>bar<br>bind<br>mushroom<br>say<br>agree |  
+| bip_39_word_new_br_2 | fruit<br>hawk |  
+| bip_39_word_new_br_3 | fruit<br>hawk<br>tomato |  
+| bip_39_word_new_br_4 | fruit<br>hawk<br>tomato<br>there |  
+| bip_39_word_new_br_5 | fruit<br>hawk<br>tomato<br>there<br>solid |  
+| bip_39_word_new_br_6 | fruit<br>hawk<br>tomato<br>there<br>solid<br>wool |  
+| bip_39_word_new_br_7 | fruit<br>hawk<br>tomato<br>there<br>solid<br>wool<br>clutch |  
+| bip_39_word_new_br_8 | fruit<br>hawk<br>tomato<br>there<br>solid<br>wool<br>clutch<br>bar |  
+| bip_39_word_new_br_9 | fruit<br>hawk<br>tomato<br>there<br>solid<br>wool<br>clutch<br>bar<br>bind |  
+| bip_39_word_new_line_1 | fruit |  
+| bip_39_word_new_line_10 | fruit
 hawk
 tomato
 there
@@ -55,7 +55,7 @@ clutch
 bar
 bind
 mushroom |  
-| bip_39_word_new_line11 | fruit
+| bip_39_word_new_line_11 | fruit
 hawk
 tomato
 there
@@ -66,7 +66,7 @@ bar
 bind
 mushroom
 say |  
-| bip_39_word_new_line12 | fruit
+| bip_39_word_new_line_12 | fruit
 hawk
 tomato
 there
@@ -78,34 +78,34 @@ bind
 mushroom
 say
 agree |  
-| bip_39_word_new_line2 | fruit
+| bip_39_word_new_line_2 | fruit
 hawk |  
-| bip_39_word_new_line3 | fruit
+| bip_39_word_new_line_3 | fruit
 hawk
 tomato |  
-| bip_39_word_new_line4 | fruit
+| bip_39_word_new_line_4 | fruit
 hawk
 tomato
 there |  
-| bip_39_word_new_line5 | fruit
+| bip_39_word_new_line_5 | fruit
 hawk
 tomato
 there
 solid |  
-| bip_39_word_new_line6 | fruit
+| bip_39_word_new_line_6 | fruit
 hawk
 tomato
 there
 solid
 wool |  
-| bip_39_word_new_line7 | fruit
+| bip_39_word_new_line_7 | fruit
 hawk
 tomato
 there
 solid
 wool
 clutch |  
-| bip_39_word_new_line8 | fruit
+| bip_39_word_new_line_8 | fruit
 hawk
 tomato
 there
@@ -113,7 +113,7 @@ solid
 wool
 clutch
 bar |  
-| bip_39_word_new_line9 | fruit
+| bip_39_word_new_line_9 | fruit
 hawk
 tomato
 there

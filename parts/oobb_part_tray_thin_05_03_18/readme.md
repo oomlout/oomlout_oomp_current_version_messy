@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | regular |  
-| bip_39_word_new_br10 | regular<br>census<br>feel<br>stadium<br>spawn<br>error<br>judge<br>turkey<br>sport<br>night |  
-| bip_39_word_new_br11 | regular<br>census<br>feel<br>stadium<br>spawn<br>error<br>judge<br>turkey<br>sport<br>night<br>swarm |  
-| bip_39_word_new_br12 | regular<br>census<br>feel<br>stadium<br>spawn<br>error<br>judge<br>turkey<br>sport<br>night<br>swarm<br>amused |  
-| bip_39_word_new_br2 | regular<br>census |  
-| bip_39_word_new_br3 | regular<br>census<br>feel |  
-| bip_39_word_new_br4 | regular<br>census<br>feel<br>stadium |  
-| bip_39_word_new_br5 | regular<br>census<br>feel<br>stadium<br>spawn |  
-| bip_39_word_new_br6 | regular<br>census<br>feel<br>stadium<br>spawn<br>error |  
-| bip_39_word_new_br7 | regular<br>census<br>feel<br>stadium<br>spawn<br>error<br>judge |  
-| bip_39_word_new_br8 | regular<br>census<br>feel<br>stadium<br>spawn<br>error<br>judge<br>turkey |  
-| bip_39_word_new_br9 | regular<br>census<br>feel<br>stadium<br>spawn<br>error<br>judge<br>turkey<br>sport |  
-| bip_39_word_new_line1 | regular |  
-| bip_39_word_new_line10 | regular
+| bip_39_word_new_br_1 | regular |  
+| bip_39_word_new_br_10 | regular<br>census<br>feel<br>stadium<br>spawn<br>error<br>judge<br>turkey<br>sport<br>night |  
+| bip_39_word_new_br_11 | regular<br>census<br>feel<br>stadium<br>spawn<br>error<br>judge<br>turkey<br>sport<br>night<br>swarm |  
+| bip_39_word_new_br_12 | regular<br>census<br>feel<br>stadium<br>spawn<br>error<br>judge<br>turkey<br>sport<br>night<br>swarm<br>amused |  
+| bip_39_word_new_br_2 | regular<br>census |  
+| bip_39_word_new_br_3 | regular<br>census<br>feel |  
+| bip_39_word_new_br_4 | regular<br>census<br>feel<br>stadium |  
+| bip_39_word_new_br_5 | regular<br>census<br>feel<br>stadium<br>spawn |  
+| bip_39_word_new_br_6 | regular<br>census<br>feel<br>stadium<br>spawn<br>error |  
+| bip_39_word_new_br_7 | regular<br>census<br>feel<br>stadium<br>spawn<br>error<br>judge |  
+| bip_39_word_new_br_8 | regular<br>census<br>feel<br>stadium<br>spawn<br>error<br>judge<br>turkey |  
+| bip_39_word_new_br_9 | regular<br>census<br>feel<br>stadium<br>spawn<br>error<br>judge<br>turkey<br>sport |  
+| bip_39_word_new_line_1 | regular |  
+| bip_39_word_new_line_10 | regular
 census
 feel
 stadium
@@ -55,7 +55,7 @@ judge
 turkey
 sport
 night |  
-| bip_39_word_new_line11 | regular
+| bip_39_word_new_line_11 | regular
 census
 feel
 stadium
@@ -66,7 +66,7 @@ turkey
 sport
 night
 swarm |  
-| bip_39_word_new_line12 | regular
+| bip_39_word_new_line_12 | regular
 census
 feel
 stadium
@@ -78,34 +78,34 @@ sport
 night
 swarm
 amused |  
-| bip_39_word_new_line2 | regular
+| bip_39_word_new_line_2 | regular
 census |  
-| bip_39_word_new_line3 | regular
+| bip_39_word_new_line_3 | regular
 census
 feel |  
-| bip_39_word_new_line4 | regular
+| bip_39_word_new_line_4 | regular
 census
 feel
 stadium |  
-| bip_39_word_new_line5 | regular
+| bip_39_word_new_line_5 | regular
 census
 feel
 stadium
 spawn |  
-| bip_39_word_new_line6 | regular
+| bip_39_word_new_line_6 | regular
 census
 feel
 stadium
 spawn
 error |  
-| bip_39_word_new_line7 | regular
+| bip_39_word_new_line_7 | regular
 census
 feel
 stadium
 spawn
 error
 judge |  
-| bip_39_word_new_line8 | regular
+| bip_39_word_new_line_8 | regular
 census
 feel
 stadium
@@ -113,7 +113,7 @@ spawn
 error
 judge
 turkey |  
-| bip_39_word_new_line9 | regular
+| bip_39_word_new_line_9 | regular
 census
 feel
 stadium

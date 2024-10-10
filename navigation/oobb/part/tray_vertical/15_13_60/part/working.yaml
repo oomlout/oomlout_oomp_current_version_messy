@@ -1,17 +1,17 @@
-bip_39_word_new_br1: fatal
-bip_39_word_new_br10: fatal<br>mystery<br>speak<br>thumb<br>matrix<br>situate<br>dose<br>exchange<br>parrot<br>harbor
-bip_39_word_new_br11: fatal<br>mystery<br>speak<br>thumb<br>matrix<br>situate<br>dose<br>exchange<br>parrot<br>harbor<br>globe
-bip_39_word_new_br12: fatal<br>mystery<br>speak<br>thumb<br>matrix<br>situate<br>dose<br>exchange<br>parrot<br>harbor<br>globe<br>auction
-bip_39_word_new_br2: fatal<br>mystery
-bip_39_word_new_br3: fatal<br>mystery<br>speak
-bip_39_word_new_br4: fatal<br>mystery<br>speak<br>thumb
-bip_39_word_new_br5: fatal<br>mystery<br>speak<br>thumb<br>matrix
-bip_39_word_new_br6: fatal<br>mystery<br>speak<br>thumb<br>matrix<br>situate
-bip_39_word_new_br7: fatal<br>mystery<br>speak<br>thumb<br>matrix<br>situate<br>dose
-bip_39_word_new_br8: fatal<br>mystery<br>speak<br>thumb<br>matrix<br>situate<br>dose<br>exchange
-bip_39_word_new_br9: fatal<br>mystery<br>speak<br>thumb<br>matrix<br>situate<br>dose<br>exchange<br>parrot
-bip_39_word_new_line1: fatal
-bip_39_word_new_line10: 'fatal
+bip_39_word_new_br_1: fatal
+bip_39_word_new_br_10: fatal<br>mystery<br>speak<br>thumb<br>matrix<br>situate<br>dose<br>exchange<br>parrot<br>harbor
+bip_39_word_new_br_11: fatal<br>mystery<br>speak<br>thumb<br>matrix<br>situate<br>dose<br>exchange<br>parrot<br>harbor<br>globe
+bip_39_word_new_br_12: fatal<br>mystery<br>speak<br>thumb<br>matrix<br>situate<br>dose<br>exchange<br>parrot<br>harbor<br>globe<br>auction
+bip_39_word_new_br_2: fatal<br>mystery
+bip_39_word_new_br_3: fatal<br>mystery<br>speak
+bip_39_word_new_br_4: fatal<br>mystery<br>speak<br>thumb
+bip_39_word_new_br_5: fatal<br>mystery<br>speak<br>thumb<br>matrix
+bip_39_word_new_br_6: fatal<br>mystery<br>speak<br>thumb<br>matrix<br>situate
+bip_39_word_new_br_7: fatal<br>mystery<br>speak<br>thumb<br>matrix<br>situate<br>dose
+bip_39_word_new_br_8: fatal<br>mystery<br>speak<br>thumb<br>matrix<br>situate<br>dose<br>exchange
+bip_39_word_new_br_9: fatal<br>mystery<br>speak<br>thumb<br>matrix<br>situate<br>dose<br>exchange<br>parrot
+bip_39_word_new_line_1: fatal
+bip_39_word_new_line_10: 'fatal
 
   mystery
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'fatal
   parrot
 
   harbor'
-bip_39_word_new_line11: 'fatal
+bip_39_word_new_line_11: 'fatal
 
   mystery
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'fatal
   harbor
 
   globe'
-bip_39_word_new_line12: 'fatal
+bip_39_word_new_line_12: 'fatal
 
   mystery
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'fatal
   globe
 
   auction'
-bip_39_word_new_line2: 'fatal
+bip_39_word_new_line_2: 'fatal
 
   mystery'
-bip_39_word_new_line3: 'fatal
+bip_39_word_new_line_3: 'fatal
 
   mystery
 
   speak'
-bip_39_word_new_line4: 'fatal
+bip_39_word_new_line_4: 'fatal
 
   mystery
 
   speak
 
   thumb'
-bip_39_word_new_line5: 'fatal
+bip_39_word_new_line_5: 'fatal
 
   mystery
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'fatal
   thumb
 
   matrix'
-bip_39_word_new_line6: 'fatal
+bip_39_word_new_line_6: 'fatal
 
   mystery
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'fatal
   matrix
 
   situate'
-bip_39_word_new_line7: 'fatal
+bip_39_word_new_line_7: 'fatal
 
   mystery
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'fatal
   situate
 
   dose'
-bip_39_word_new_line8: 'fatal
+bip_39_word_new_line_8: 'fatal
 
   mystery
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'fatal
   dose
 
   exchange'
-bip_39_word_new_line9: 'fatal
+bip_39_word_new_line_9: 'fatal
 
   mystery
 

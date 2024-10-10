@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mistake |  
-| bip_39_word_new_br10 | mistake<br>tool<br>puzzle<br>impact<br>public<br>video<br>exhaust<br>offer<br>network<br>tree |  
-| bip_39_word_new_br11 | mistake<br>tool<br>puzzle<br>impact<br>public<br>video<br>exhaust<br>offer<br>network<br>tree<br>school |  
-| bip_39_word_new_br12 | mistake<br>tool<br>puzzle<br>impact<br>public<br>video<br>exhaust<br>offer<br>network<br>tree<br>school<br>assume |  
-| bip_39_word_new_br2 | mistake<br>tool |  
-| bip_39_word_new_br3 | mistake<br>tool<br>puzzle |  
-| bip_39_word_new_br4 | mistake<br>tool<br>puzzle<br>impact |  
-| bip_39_word_new_br5 | mistake<br>tool<br>puzzle<br>impact<br>public |  
-| bip_39_word_new_br6 | mistake<br>tool<br>puzzle<br>impact<br>public<br>video |  
-| bip_39_word_new_br7 | mistake<br>tool<br>puzzle<br>impact<br>public<br>video<br>exhaust |  
-| bip_39_word_new_br8 | mistake<br>tool<br>puzzle<br>impact<br>public<br>video<br>exhaust<br>offer |  
-| bip_39_word_new_br9 | mistake<br>tool<br>puzzle<br>impact<br>public<br>video<br>exhaust<br>offer<br>network |  
-| bip_39_word_new_line1 | mistake |  
-| bip_39_word_new_line10 | mistake
+| bip_39_word_new_br_1 | mistake |  
+| bip_39_word_new_br_10 | mistake<br>tool<br>puzzle<br>impact<br>public<br>video<br>exhaust<br>offer<br>network<br>tree |  
+| bip_39_word_new_br_11 | mistake<br>tool<br>puzzle<br>impact<br>public<br>video<br>exhaust<br>offer<br>network<br>tree<br>school |  
+| bip_39_word_new_br_12 | mistake<br>tool<br>puzzle<br>impact<br>public<br>video<br>exhaust<br>offer<br>network<br>tree<br>school<br>assume |  
+| bip_39_word_new_br_2 | mistake<br>tool |  
+| bip_39_word_new_br_3 | mistake<br>tool<br>puzzle |  
+| bip_39_word_new_br_4 | mistake<br>tool<br>puzzle<br>impact |  
+| bip_39_word_new_br_5 | mistake<br>tool<br>puzzle<br>impact<br>public |  
+| bip_39_word_new_br_6 | mistake<br>tool<br>puzzle<br>impact<br>public<br>video |  
+| bip_39_word_new_br_7 | mistake<br>tool<br>puzzle<br>impact<br>public<br>video<br>exhaust |  
+| bip_39_word_new_br_8 | mistake<br>tool<br>puzzle<br>impact<br>public<br>video<br>exhaust<br>offer |  
+| bip_39_word_new_br_9 | mistake<br>tool<br>puzzle<br>impact<br>public<br>video<br>exhaust<br>offer<br>network |  
+| bip_39_word_new_line_1 | mistake |  
+| bip_39_word_new_line_10 | mistake
 tool
 puzzle
 impact
@@ -55,7 +55,7 @@ exhaust
 offer
 network
 tree |  
-| bip_39_word_new_line11 | mistake
+| bip_39_word_new_line_11 | mistake
 tool
 puzzle
 impact
@@ -66,7 +66,7 @@ offer
 network
 tree
 school |  
-| bip_39_word_new_line12 | mistake
+| bip_39_word_new_line_12 | mistake
 tool
 puzzle
 impact
@@ -78,34 +78,34 @@ network
 tree
 school
 assume |  
-| bip_39_word_new_line2 | mistake
+| bip_39_word_new_line_2 | mistake
 tool |  
-| bip_39_word_new_line3 | mistake
+| bip_39_word_new_line_3 | mistake
 tool
 puzzle |  
-| bip_39_word_new_line4 | mistake
+| bip_39_word_new_line_4 | mistake
 tool
 puzzle
 impact |  
-| bip_39_word_new_line5 | mistake
+| bip_39_word_new_line_5 | mistake
 tool
 puzzle
 impact
 public |  
-| bip_39_word_new_line6 | mistake
+| bip_39_word_new_line_6 | mistake
 tool
 puzzle
 impact
 public
 video |  
-| bip_39_word_new_line7 | mistake
+| bip_39_word_new_line_7 | mistake
 tool
 puzzle
 impact
 public
 video
 exhaust |  
-| bip_39_word_new_line8 | mistake
+| bip_39_word_new_line_8 | mistake
 tool
 puzzle
 impact
@@ -113,7 +113,7 @@ public
 video
 exhaust
 offer |  
-| bip_39_word_new_line9 | mistake
+| bip_39_word_new_line_9 | mistake
 tool
 puzzle
 impact

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | twist |  
-| bip_39_word_new_br10 | twist<br>outdoor<br>pill<br>siege<br>forum<br>island<br>grass<br>debris<br>act<br>loud |  
-| bip_39_word_new_br11 | twist<br>outdoor<br>pill<br>siege<br>forum<br>island<br>grass<br>debris<br>act<br>loud<br>donor |  
-| bip_39_word_new_br12 | twist<br>outdoor<br>pill<br>siege<br>forum<br>island<br>grass<br>debris<br>act<br>loud<br>donor<br>afraid |  
-| bip_39_word_new_br2 | twist<br>outdoor |  
-| bip_39_word_new_br3 | twist<br>outdoor<br>pill |  
-| bip_39_word_new_br4 | twist<br>outdoor<br>pill<br>siege |  
-| bip_39_word_new_br5 | twist<br>outdoor<br>pill<br>siege<br>forum |  
-| bip_39_word_new_br6 | twist<br>outdoor<br>pill<br>siege<br>forum<br>island |  
-| bip_39_word_new_br7 | twist<br>outdoor<br>pill<br>siege<br>forum<br>island<br>grass |  
-| bip_39_word_new_br8 | twist<br>outdoor<br>pill<br>siege<br>forum<br>island<br>grass<br>debris |  
-| bip_39_word_new_br9 | twist<br>outdoor<br>pill<br>siege<br>forum<br>island<br>grass<br>debris<br>act |  
-| bip_39_word_new_line1 | twist |  
-| bip_39_word_new_line10 | twist
+| bip_39_word_new_br_1 | twist |  
+| bip_39_word_new_br_10 | twist<br>outdoor<br>pill<br>siege<br>forum<br>island<br>grass<br>debris<br>act<br>loud |  
+| bip_39_word_new_br_11 | twist<br>outdoor<br>pill<br>siege<br>forum<br>island<br>grass<br>debris<br>act<br>loud<br>donor |  
+| bip_39_word_new_br_12 | twist<br>outdoor<br>pill<br>siege<br>forum<br>island<br>grass<br>debris<br>act<br>loud<br>donor<br>afraid |  
+| bip_39_word_new_br_2 | twist<br>outdoor |  
+| bip_39_word_new_br_3 | twist<br>outdoor<br>pill |  
+| bip_39_word_new_br_4 | twist<br>outdoor<br>pill<br>siege |  
+| bip_39_word_new_br_5 | twist<br>outdoor<br>pill<br>siege<br>forum |  
+| bip_39_word_new_br_6 | twist<br>outdoor<br>pill<br>siege<br>forum<br>island |  
+| bip_39_word_new_br_7 | twist<br>outdoor<br>pill<br>siege<br>forum<br>island<br>grass |  
+| bip_39_word_new_br_8 | twist<br>outdoor<br>pill<br>siege<br>forum<br>island<br>grass<br>debris |  
+| bip_39_word_new_br_9 | twist<br>outdoor<br>pill<br>siege<br>forum<br>island<br>grass<br>debris<br>act |  
+| bip_39_word_new_line_1 | twist |  
+| bip_39_word_new_line_10 | twist
 outdoor
 pill
 siege
@@ -55,7 +55,7 @@ grass
 debris
 act
 loud |  
-| bip_39_word_new_line11 | twist
+| bip_39_word_new_line_11 | twist
 outdoor
 pill
 siege
@@ -66,7 +66,7 @@ debris
 act
 loud
 donor |  
-| bip_39_word_new_line12 | twist
+| bip_39_word_new_line_12 | twist
 outdoor
 pill
 siege
@@ -78,34 +78,34 @@ act
 loud
 donor
 afraid |  
-| bip_39_word_new_line2 | twist
+| bip_39_word_new_line_2 | twist
 outdoor |  
-| bip_39_word_new_line3 | twist
+| bip_39_word_new_line_3 | twist
 outdoor
 pill |  
-| bip_39_word_new_line4 | twist
+| bip_39_word_new_line_4 | twist
 outdoor
 pill
 siege |  
-| bip_39_word_new_line5 | twist
+| bip_39_word_new_line_5 | twist
 outdoor
 pill
 siege
 forum |  
-| bip_39_word_new_line6 | twist
+| bip_39_word_new_line_6 | twist
 outdoor
 pill
 siege
 forum
 island |  
-| bip_39_word_new_line7 | twist
+| bip_39_word_new_line_7 | twist
 outdoor
 pill
 siege
 forum
 island
 grass |  
-| bip_39_word_new_line8 | twist
+| bip_39_word_new_line_8 | twist
 outdoor
 pill
 siege
@@ -113,7 +113,7 @@ forum
 island
 grass
 debris |  
-| bip_39_word_new_line9 | twist
+| bip_39_word_new_line_9 | twist
 outdoor
 pill
 siege

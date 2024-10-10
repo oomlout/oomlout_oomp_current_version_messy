@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | buyer |  
-| bip_39_word_new_br10 | buyer<br>solid<br>loyal<br>average<br>seek<br>anger<br>dutch<br>math<br>accident<br>stuff |  
-| bip_39_word_new_br11 | buyer<br>solid<br>loyal<br>average<br>seek<br>anger<br>dutch<br>math<br>accident<br>stuff<br>diet |  
-| bip_39_word_new_br12 | buyer<br>solid<br>loyal<br>average<br>seek<br>anger<br>dutch<br>math<br>accident<br>stuff<br>diet<br>aerobic |  
-| bip_39_word_new_br2 | buyer<br>solid |  
-| bip_39_word_new_br3 | buyer<br>solid<br>loyal |  
-| bip_39_word_new_br4 | buyer<br>solid<br>loyal<br>average |  
-| bip_39_word_new_br5 | buyer<br>solid<br>loyal<br>average<br>seek |  
-| bip_39_word_new_br6 | buyer<br>solid<br>loyal<br>average<br>seek<br>anger |  
-| bip_39_word_new_br7 | buyer<br>solid<br>loyal<br>average<br>seek<br>anger<br>dutch |  
-| bip_39_word_new_br8 | buyer<br>solid<br>loyal<br>average<br>seek<br>anger<br>dutch<br>math |  
-| bip_39_word_new_br9 | buyer<br>solid<br>loyal<br>average<br>seek<br>anger<br>dutch<br>math<br>accident |  
-| bip_39_word_new_line1 | buyer |  
-| bip_39_word_new_line10 | buyer
+| bip_39_word_new_br_1 | buyer |  
+| bip_39_word_new_br_10 | buyer<br>solid<br>loyal<br>average<br>seek<br>anger<br>dutch<br>math<br>accident<br>stuff |  
+| bip_39_word_new_br_11 | buyer<br>solid<br>loyal<br>average<br>seek<br>anger<br>dutch<br>math<br>accident<br>stuff<br>diet |  
+| bip_39_word_new_br_12 | buyer<br>solid<br>loyal<br>average<br>seek<br>anger<br>dutch<br>math<br>accident<br>stuff<br>diet<br>aerobic |  
+| bip_39_word_new_br_2 | buyer<br>solid |  
+| bip_39_word_new_br_3 | buyer<br>solid<br>loyal |  
+| bip_39_word_new_br_4 | buyer<br>solid<br>loyal<br>average |  
+| bip_39_word_new_br_5 | buyer<br>solid<br>loyal<br>average<br>seek |  
+| bip_39_word_new_br_6 | buyer<br>solid<br>loyal<br>average<br>seek<br>anger |  
+| bip_39_word_new_br_7 | buyer<br>solid<br>loyal<br>average<br>seek<br>anger<br>dutch |  
+| bip_39_word_new_br_8 | buyer<br>solid<br>loyal<br>average<br>seek<br>anger<br>dutch<br>math |  
+| bip_39_word_new_br_9 | buyer<br>solid<br>loyal<br>average<br>seek<br>anger<br>dutch<br>math<br>accident |  
+| bip_39_word_new_line_1 | buyer |  
+| bip_39_word_new_line_10 | buyer
 solid
 loyal
 average
@@ -55,7 +55,7 @@ dutch
 math
 accident
 stuff |  
-| bip_39_word_new_line11 | buyer
+| bip_39_word_new_line_11 | buyer
 solid
 loyal
 average
@@ -66,7 +66,7 @@ math
 accident
 stuff
 diet |  
-| bip_39_word_new_line12 | buyer
+| bip_39_word_new_line_12 | buyer
 solid
 loyal
 average
@@ -78,34 +78,34 @@ accident
 stuff
 diet
 aerobic |  
-| bip_39_word_new_line2 | buyer
+| bip_39_word_new_line_2 | buyer
 solid |  
-| bip_39_word_new_line3 | buyer
+| bip_39_word_new_line_3 | buyer
 solid
 loyal |  
-| bip_39_word_new_line4 | buyer
+| bip_39_word_new_line_4 | buyer
 solid
 loyal
 average |  
-| bip_39_word_new_line5 | buyer
+| bip_39_word_new_line_5 | buyer
 solid
 loyal
 average
 seek |  
-| bip_39_word_new_line6 | buyer
+| bip_39_word_new_line_6 | buyer
 solid
 loyal
 average
 seek
 anger |  
-| bip_39_word_new_line7 | buyer
+| bip_39_word_new_line_7 | buyer
 solid
 loyal
 average
 seek
 anger
 dutch |  
-| bip_39_word_new_line8 | buyer
+| bip_39_word_new_line_8 | buyer
 solid
 loyal
 average
@@ -113,7 +113,7 @@ seek
 anger
 dutch
 math |  
-| bip_39_word_new_line9 | buyer
+| bip_39_word_new_line_9 | buyer
 solid
 loyal
 average

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | artefact |  
-| bip_39_word_new_br10 | artefact<br>disease<br>question<br>cigar<br>hero<br>project<br>cause<br>grain<br>draft<br>ugly |  
-| bip_39_word_new_br11 | artefact<br>disease<br>question<br>cigar<br>hero<br>project<br>cause<br>grain<br>draft<br>ugly<br>apart |  
-| bip_39_word_new_br12 | artefact<br>disease<br>question<br>cigar<br>hero<br>project<br>cause<br>grain<br>draft<br>ugly<br>apart<br>advance |  
-| bip_39_word_new_br2 | artefact<br>disease |  
-| bip_39_word_new_br3 | artefact<br>disease<br>question |  
-| bip_39_word_new_br4 | artefact<br>disease<br>question<br>cigar |  
-| bip_39_word_new_br5 | artefact<br>disease<br>question<br>cigar<br>hero |  
-| bip_39_word_new_br6 | artefact<br>disease<br>question<br>cigar<br>hero<br>project |  
-| bip_39_word_new_br7 | artefact<br>disease<br>question<br>cigar<br>hero<br>project<br>cause |  
-| bip_39_word_new_br8 | artefact<br>disease<br>question<br>cigar<br>hero<br>project<br>cause<br>grain |  
-| bip_39_word_new_br9 | artefact<br>disease<br>question<br>cigar<br>hero<br>project<br>cause<br>grain<br>draft |  
-| bip_39_word_new_line1 | artefact |  
-| bip_39_word_new_line10 | artefact
+| bip_39_word_new_br_1 | artefact |  
+| bip_39_word_new_br_10 | artefact<br>disease<br>question<br>cigar<br>hero<br>project<br>cause<br>grain<br>draft<br>ugly |  
+| bip_39_word_new_br_11 | artefact<br>disease<br>question<br>cigar<br>hero<br>project<br>cause<br>grain<br>draft<br>ugly<br>apart |  
+| bip_39_word_new_br_12 | artefact<br>disease<br>question<br>cigar<br>hero<br>project<br>cause<br>grain<br>draft<br>ugly<br>apart<br>advance |  
+| bip_39_word_new_br_2 | artefact<br>disease |  
+| bip_39_word_new_br_3 | artefact<br>disease<br>question |  
+| bip_39_word_new_br_4 | artefact<br>disease<br>question<br>cigar |  
+| bip_39_word_new_br_5 | artefact<br>disease<br>question<br>cigar<br>hero |  
+| bip_39_word_new_br_6 | artefact<br>disease<br>question<br>cigar<br>hero<br>project |  
+| bip_39_word_new_br_7 | artefact<br>disease<br>question<br>cigar<br>hero<br>project<br>cause |  
+| bip_39_word_new_br_8 | artefact<br>disease<br>question<br>cigar<br>hero<br>project<br>cause<br>grain |  
+| bip_39_word_new_br_9 | artefact<br>disease<br>question<br>cigar<br>hero<br>project<br>cause<br>grain<br>draft |  
+| bip_39_word_new_line_1 | artefact |  
+| bip_39_word_new_line_10 | artefact
 disease
 question
 cigar
@@ -55,7 +55,7 @@ cause
 grain
 draft
 ugly |  
-| bip_39_word_new_line11 | artefact
+| bip_39_word_new_line_11 | artefact
 disease
 question
 cigar
@@ -66,7 +66,7 @@ grain
 draft
 ugly
 apart |  
-| bip_39_word_new_line12 | artefact
+| bip_39_word_new_line_12 | artefact
 disease
 question
 cigar
@@ -78,34 +78,34 @@ draft
 ugly
 apart
 advance |  
-| bip_39_word_new_line2 | artefact
+| bip_39_word_new_line_2 | artefact
 disease |  
-| bip_39_word_new_line3 | artefact
+| bip_39_word_new_line_3 | artefact
 disease
 question |  
-| bip_39_word_new_line4 | artefact
+| bip_39_word_new_line_4 | artefact
 disease
 question
 cigar |  
-| bip_39_word_new_line5 | artefact
+| bip_39_word_new_line_5 | artefact
 disease
 question
 cigar
 hero |  
-| bip_39_word_new_line6 | artefact
+| bip_39_word_new_line_6 | artefact
 disease
 question
 cigar
 hero
 project |  
-| bip_39_word_new_line7 | artefact
+| bip_39_word_new_line_7 | artefact
 disease
 question
 cigar
 hero
 project
 cause |  
-| bip_39_word_new_line8 | artefact
+| bip_39_word_new_line_8 | artefact
 disease
 question
 cigar
@@ -113,7 +113,7 @@ hero
 project
 cause
 grain |  
-| bip_39_word_new_line9 | artefact
+| bip_39_word_new_line_9 | artefact
 disease
 question
 cigar

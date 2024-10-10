@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | satoshi |  
-| bip_39_word_new_br10 | satoshi<br>method<br>outdoor<br>sting<br>viable<br>simple<br>measure<br>music<br>increase<br>cushion |  
-| bip_39_word_new_br11 | satoshi<br>method<br>outdoor<br>sting<br>viable<br>simple<br>measure<br>music<br>increase<br>cushion<br>scout |  
-| bip_39_word_new_br12 | satoshi<br>method<br>outdoor<br>sting<br>viable<br>simple<br>measure<br>music<br>increase<br>cushion<br>scout<br>affair |  
-| bip_39_word_new_br2 | satoshi<br>method |  
-| bip_39_word_new_br3 | satoshi<br>method<br>outdoor |  
-| bip_39_word_new_br4 | satoshi<br>method<br>outdoor<br>sting |  
-| bip_39_word_new_br5 | satoshi<br>method<br>outdoor<br>sting<br>viable |  
-| bip_39_word_new_br6 | satoshi<br>method<br>outdoor<br>sting<br>viable<br>simple |  
-| bip_39_word_new_br7 | satoshi<br>method<br>outdoor<br>sting<br>viable<br>simple<br>measure |  
-| bip_39_word_new_br8 | satoshi<br>method<br>outdoor<br>sting<br>viable<br>simple<br>measure<br>music |  
-| bip_39_word_new_br9 | satoshi<br>method<br>outdoor<br>sting<br>viable<br>simple<br>measure<br>music<br>increase |  
-| bip_39_word_new_line1 | satoshi |  
-| bip_39_word_new_line10 | satoshi
+| bip_39_word_new_br_1 | satoshi |  
+| bip_39_word_new_br_10 | satoshi<br>method<br>outdoor<br>sting<br>viable<br>simple<br>measure<br>music<br>increase<br>cushion |  
+| bip_39_word_new_br_11 | satoshi<br>method<br>outdoor<br>sting<br>viable<br>simple<br>measure<br>music<br>increase<br>cushion<br>scout |  
+| bip_39_word_new_br_12 | satoshi<br>method<br>outdoor<br>sting<br>viable<br>simple<br>measure<br>music<br>increase<br>cushion<br>scout<br>affair |  
+| bip_39_word_new_br_2 | satoshi<br>method |  
+| bip_39_word_new_br_3 | satoshi<br>method<br>outdoor |  
+| bip_39_word_new_br_4 | satoshi<br>method<br>outdoor<br>sting |  
+| bip_39_word_new_br_5 | satoshi<br>method<br>outdoor<br>sting<br>viable |  
+| bip_39_word_new_br_6 | satoshi<br>method<br>outdoor<br>sting<br>viable<br>simple |  
+| bip_39_word_new_br_7 | satoshi<br>method<br>outdoor<br>sting<br>viable<br>simple<br>measure |  
+| bip_39_word_new_br_8 | satoshi<br>method<br>outdoor<br>sting<br>viable<br>simple<br>measure<br>music |  
+| bip_39_word_new_br_9 | satoshi<br>method<br>outdoor<br>sting<br>viable<br>simple<br>measure<br>music<br>increase |  
+| bip_39_word_new_line_1 | satoshi |  
+| bip_39_word_new_line_10 | satoshi
 method
 outdoor
 sting
@@ -55,7 +55,7 @@ measure
 music
 increase
 cushion |  
-| bip_39_word_new_line11 | satoshi
+| bip_39_word_new_line_11 | satoshi
 method
 outdoor
 sting
@@ -66,7 +66,7 @@ music
 increase
 cushion
 scout |  
-| bip_39_word_new_line12 | satoshi
+| bip_39_word_new_line_12 | satoshi
 method
 outdoor
 sting
@@ -78,34 +78,34 @@ increase
 cushion
 scout
 affair |  
-| bip_39_word_new_line2 | satoshi
+| bip_39_word_new_line_2 | satoshi
 method |  
-| bip_39_word_new_line3 | satoshi
+| bip_39_word_new_line_3 | satoshi
 method
 outdoor |  
-| bip_39_word_new_line4 | satoshi
+| bip_39_word_new_line_4 | satoshi
 method
 outdoor
 sting |  
-| bip_39_word_new_line5 | satoshi
+| bip_39_word_new_line_5 | satoshi
 method
 outdoor
 sting
 viable |  
-| bip_39_word_new_line6 | satoshi
+| bip_39_word_new_line_6 | satoshi
 method
 outdoor
 sting
 viable
 simple |  
-| bip_39_word_new_line7 | satoshi
+| bip_39_word_new_line_7 | satoshi
 method
 outdoor
 sting
 viable
 simple
 measure |  
-| bip_39_word_new_line8 | satoshi
+| bip_39_word_new_line_8 | satoshi
 method
 outdoor
 sting
@@ -113,7 +113,7 @@ viable
 simple
 measure
 music |  
-| bip_39_word_new_line9 | satoshi
+| bip_39_word_new_line_9 | satoshi
 method
 outdoor
 sting

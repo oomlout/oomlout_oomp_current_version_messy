@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | effort |  
-| bip_39_word_new_br10 | effort<br>venture<br>cliff<br>castle<br>edge<br>betray<br>ice<br>example<br>twin<br>day |  
-| bip_39_word_new_br11 | effort<br>venture<br>cliff<br>castle<br>edge<br>betray<br>ice<br>example<br>twin<br>day<br>rude |  
-| bip_39_word_new_br12 | effort<br>venture<br>cliff<br>castle<br>edge<br>betray<br>ice<br>example<br>twin<br>day<br>rude<br>arctic |  
-| bip_39_word_new_br2 | effort<br>venture |  
-| bip_39_word_new_br3 | effort<br>venture<br>cliff |  
-| bip_39_word_new_br4 | effort<br>venture<br>cliff<br>castle |  
-| bip_39_word_new_br5 | effort<br>venture<br>cliff<br>castle<br>edge |  
-| bip_39_word_new_br6 | effort<br>venture<br>cliff<br>castle<br>edge<br>betray |  
-| bip_39_word_new_br7 | effort<br>venture<br>cliff<br>castle<br>edge<br>betray<br>ice |  
-| bip_39_word_new_br8 | effort<br>venture<br>cliff<br>castle<br>edge<br>betray<br>ice<br>example |  
-| bip_39_word_new_br9 | effort<br>venture<br>cliff<br>castle<br>edge<br>betray<br>ice<br>example<br>twin |  
-| bip_39_word_new_line1 | effort |  
-| bip_39_word_new_line10 | effort
+| bip_39_word_new_br_1 | effort |  
+| bip_39_word_new_br_10 | effort<br>venture<br>cliff<br>castle<br>edge<br>betray<br>ice<br>example<br>twin<br>day |  
+| bip_39_word_new_br_11 | effort<br>venture<br>cliff<br>castle<br>edge<br>betray<br>ice<br>example<br>twin<br>day<br>rude |  
+| bip_39_word_new_br_12 | effort<br>venture<br>cliff<br>castle<br>edge<br>betray<br>ice<br>example<br>twin<br>day<br>rude<br>arctic |  
+| bip_39_word_new_br_2 | effort<br>venture |  
+| bip_39_word_new_br_3 | effort<br>venture<br>cliff |  
+| bip_39_word_new_br_4 | effort<br>venture<br>cliff<br>castle |  
+| bip_39_word_new_br_5 | effort<br>venture<br>cliff<br>castle<br>edge |  
+| bip_39_word_new_br_6 | effort<br>venture<br>cliff<br>castle<br>edge<br>betray |  
+| bip_39_word_new_br_7 | effort<br>venture<br>cliff<br>castle<br>edge<br>betray<br>ice |  
+| bip_39_word_new_br_8 | effort<br>venture<br>cliff<br>castle<br>edge<br>betray<br>ice<br>example |  
+| bip_39_word_new_br_9 | effort<br>venture<br>cliff<br>castle<br>edge<br>betray<br>ice<br>example<br>twin |  
+| bip_39_word_new_line_1 | effort |  
+| bip_39_word_new_line_10 | effort
 venture
 cliff
 castle
@@ -55,7 +55,7 @@ ice
 example
 twin
 day |  
-| bip_39_word_new_line11 | effort
+| bip_39_word_new_line_11 | effort
 venture
 cliff
 castle
@@ -66,7 +66,7 @@ example
 twin
 day
 rude |  
-| bip_39_word_new_line12 | effort
+| bip_39_word_new_line_12 | effort
 venture
 cliff
 castle
@@ -78,34 +78,34 @@ twin
 day
 rude
 arctic |  
-| bip_39_word_new_line2 | effort
+| bip_39_word_new_line_2 | effort
 venture |  
-| bip_39_word_new_line3 | effort
+| bip_39_word_new_line_3 | effort
 venture
 cliff |  
-| bip_39_word_new_line4 | effort
+| bip_39_word_new_line_4 | effort
 venture
 cliff
 castle |  
-| bip_39_word_new_line5 | effort
+| bip_39_word_new_line_5 | effort
 venture
 cliff
 castle
 edge |  
-| bip_39_word_new_line6 | effort
+| bip_39_word_new_line_6 | effort
 venture
 cliff
 castle
 edge
 betray |  
-| bip_39_word_new_line7 | effort
+| bip_39_word_new_line_7 | effort
 venture
 cliff
 castle
 edge
 betray
 ice |  
-| bip_39_word_new_line8 | effort
+| bip_39_word_new_line_8 | effort
 venture
 cliff
 castle
@@ -113,7 +113,7 @@ edge
 betray
 ice
 example |  
-| bip_39_word_new_line9 | effort
+| bip_39_word_new_line_9 | effort
 venture
 cliff
 castle

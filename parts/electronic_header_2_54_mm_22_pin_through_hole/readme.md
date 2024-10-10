@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gift |  
-| bip_39_word_new_br10 | gift<br>witness<br>fine<br>canal<br>hidden<br>enrich<br>brief<br>agent<br>dynamic<br>concert |  
-| bip_39_word_new_br11 | gift<br>witness<br>fine<br>canal<br>hidden<br>enrich<br>brief<br>agent<br>dynamic<br>concert<br>staff |  
-| bip_39_word_new_br12 | gift<br>witness<br>fine<br>canal<br>hidden<br>enrich<br>brief<br>agent<br>dynamic<br>concert<br>staff<br>alley |  
-| bip_39_word_new_br2 | gift<br>witness |  
-| bip_39_word_new_br3 | gift<br>witness<br>fine |  
-| bip_39_word_new_br4 | gift<br>witness<br>fine<br>canal |  
-| bip_39_word_new_br5 | gift<br>witness<br>fine<br>canal<br>hidden |  
-| bip_39_word_new_br6 | gift<br>witness<br>fine<br>canal<br>hidden<br>enrich |  
-| bip_39_word_new_br7 | gift<br>witness<br>fine<br>canal<br>hidden<br>enrich<br>brief |  
-| bip_39_word_new_br8 | gift<br>witness<br>fine<br>canal<br>hidden<br>enrich<br>brief<br>agent |  
-| bip_39_word_new_br9 | gift<br>witness<br>fine<br>canal<br>hidden<br>enrich<br>brief<br>agent<br>dynamic |  
-| bip_39_word_new_line1 | gift |  
-| bip_39_word_new_line10 | gift
+| bip_39_word_new_br_1 | gift |  
+| bip_39_word_new_br_10 | gift<br>witness<br>fine<br>canal<br>hidden<br>enrich<br>brief<br>agent<br>dynamic<br>concert |  
+| bip_39_word_new_br_11 | gift<br>witness<br>fine<br>canal<br>hidden<br>enrich<br>brief<br>agent<br>dynamic<br>concert<br>staff |  
+| bip_39_word_new_br_12 | gift<br>witness<br>fine<br>canal<br>hidden<br>enrich<br>brief<br>agent<br>dynamic<br>concert<br>staff<br>alley |  
+| bip_39_word_new_br_2 | gift<br>witness |  
+| bip_39_word_new_br_3 | gift<br>witness<br>fine |  
+| bip_39_word_new_br_4 | gift<br>witness<br>fine<br>canal |  
+| bip_39_word_new_br_5 | gift<br>witness<br>fine<br>canal<br>hidden |  
+| bip_39_word_new_br_6 | gift<br>witness<br>fine<br>canal<br>hidden<br>enrich |  
+| bip_39_word_new_br_7 | gift<br>witness<br>fine<br>canal<br>hidden<br>enrich<br>brief |  
+| bip_39_word_new_br_8 | gift<br>witness<br>fine<br>canal<br>hidden<br>enrich<br>brief<br>agent |  
+| bip_39_word_new_br_9 | gift<br>witness<br>fine<br>canal<br>hidden<br>enrich<br>brief<br>agent<br>dynamic |  
+| bip_39_word_new_line_1 | gift |  
+| bip_39_word_new_line_10 | gift
 witness
 fine
 canal
@@ -55,7 +55,7 @@ brief
 agent
 dynamic
 concert |  
-| bip_39_word_new_line11 | gift
+| bip_39_word_new_line_11 | gift
 witness
 fine
 canal
@@ -66,7 +66,7 @@ agent
 dynamic
 concert
 staff |  
-| bip_39_word_new_line12 | gift
+| bip_39_word_new_line_12 | gift
 witness
 fine
 canal
@@ -78,34 +78,34 @@ dynamic
 concert
 staff
 alley |  
-| bip_39_word_new_line2 | gift
+| bip_39_word_new_line_2 | gift
 witness |  
-| bip_39_word_new_line3 | gift
+| bip_39_word_new_line_3 | gift
 witness
 fine |  
-| bip_39_word_new_line4 | gift
+| bip_39_word_new_line_4 | gift
 witness
 fine
 canal |  
-| bip_39_word_new_line5 | gift
+| bip_39_word_new_line_5 | gift
 witness
 fine
 canal
 hidden |  
-| bip_39_word_new_line6 | gift
+| bip_39_word_new_line_6 | gift
 witness
 fine
 canal
 hidden
 enrich |  
-| bip_39_word_new_line7 | gift
+| bip_39_word_new_line_7 | gift
 witness
 fine
 canal
 hidden
 enrich
 brief |  
-| bip_39_word_new_line8 | gift
+| bip_39_word_new_line_8 | gift
 witness
 fine
 canal
@@ -113,7 +113,7 @@ hidden
 enrich
 brief
 agent |  
-| bip_39_word_new_line9 | gift
+| bip_39_word_new_line_9 | gift
 witness
 fine
 canal

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | enough |  
-| bip_39_word_new_br10 | enough<br>turn<br>sting<br>noble<br>rally<br>spirit<br>brief<br>pizza<br>hen<br>ghost |  
-| bip_39_word_new_br11 | enough<br>turn<br>sting<br>noble<br>rally<br>spirit<br>brief<br>pizza<br>hen<br>ghost<br>unlock |  
-| bip_39_word_new_br12 | enough<br>turn<br>sting<br>noble<br>rally<br>spirit<br>brief<br>pizza<br>hen<br>ghost<br>unlock<br>always |  
-| bip_39_word_new_br2 | enough<br>turn |  
-| bip_39_word_new_br3 | enough<br>turn<br>sting |  
-| bip_39_word_new_br4 | enough<br>turn<br>sting<br>noble |  
-| bip_39_word_new_br5 | enough<br>turn<br>sting<br>noble<br>rally |  
-| bip_39_word_new_br6 | enough<br>turn<br>sting<br>noble<br>rally<br>spirit |  
-| bip_39_word_new_br7 | enough<br>turn<br>sting<br>noble<br>rally<br>spirit<br>brief |  
-| bip_39_word_new_br8 | enough<br>turn<br>sting<br>noble<br>rally<br>spirit<br>brief<br>pizza |  
-| bip_39_word_new_br9 | enough<br>turn<br>sting<br>noble<br>rally<br>spirit<br>brief<br>pizza<br>hen |  
-| bip_39_word_new_line1 | enough |  
-| bip_39_word_new_line10 | enough
+| bip_39_word_new_br_1 | enough |  
+| bip_39_word_new_br_10 | enough<br>turn<br>sting<br>noble<br>rally<br>spirit<br>brief<br>pizza<br>hen<br>ghost |  
+| bip_39_word_new_br_11 | enough<br>turn<br>sting<br>noble<br>rally<br>spirit<br>brief<br>pizza<br>hen<br>ghost<br>unlock |  
+| bip_39_word_new_br_12 | enough<br>turn<br>sting<br>noble<br>rally<br>spirit<br>brief<br>pizza<br>hen<br>ghost<br>unlock<br>always |  
+| bip_39_word_new_br_2 | enough<br>turn |  
+| bip_39_word_new_br_3 | enough<br>turn<br>sting |  
+| bip_39_word_new_br_4 | enough<br>turn<br>sting<br>noble |  
+| bip_39_word_new_br_5 | enough<br>turn<br>sting<br>noble<br>rally |  
+| bip_39_word_new_br_6 | enough<br>turn<br>sting<br>noble<br>rally<br>spirit |  
+| bip_39_word_new_br_7 | enough<br>turn<br>sting<br>noble<br>rally<br>spirit<br>brief |  
+| bip_39_word_new_br_8 | enough<br>turn<br>sting<br>noble<br>rally<br>spirit<br>brief<br>pizza |  
+| bip_39_word_new_br_9 | enough<br>turn<br>sting<br>noble<br>rally<br>spirit<br>brief<br>pizza<br>hen |  
+| bip_39_word_new_line_1 | enough |  
+| bip_39_word_new_line_10 | enough
 turn
 sting
 noble
@@ -55,7 +55,7 @@ brief
 pizza
 hen
 ghost |  
-| bip_39_word_new_line11 | enough
+| bip_39_word_new_line_11 | enough
 turn
 sting
 noble
@@ -66,7 +66,7 @@ pizza
 hen
 ghost
 unlock |  
-| bip_39_word_new_line12 | enough
+| bip_39_word_new_line_12 | enough
 turn
 sting
 noble
@@ -78,34 +78,34 @@ hen
 ghost
 unlock
 always |  
-| bip_39_word_new_line2 | enough
+| bip_39_word_new_line_2 | enough
 turn |  
-| bip_39_word_new_line3 | enough
+| bip_39_word_new_line_3 | enough
 turn
 sting |  
-| bip_39_word_new_line4 | enough
+| bip_39_word_new_line_4 | enough
 turn
 sting
 noble |  
-| bip_39_word_new_line5 | enough
+| bip_39_word_new_line_5 | enough
 turn
 sting
 noble
 rally |  
-| bip_39_word_new_line6 | enough
+| bip_39_word_new_line_6 | enough
 turn
 sting
 noble
 rally
 spirit |  
-| bip_39_word_new_line7 | enough
+| bip_39_word_new_line_7 | enough
 turn
 sting
 noble
 rally
 spirit
 brief |  
-| bip_39_word_new_line8 | enough
+| bip_39_word_new_line_8 | enough
 turn
 sting
 noble
@@ -113,7 +113,7 @@ rally
 spirit
 brief
 pizza |  
-| bip_39_word_new_line9 | enough
+| bip_39_word_new_line_9 | enough
 turn
 sting
 noble

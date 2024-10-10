@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | degree |  
-| bip_39_word_new_br10 | degree<br>silent<br>level<br>narrow<br>gloom<br>announce<br>vacuum<br>elite<br>endorse<br>special |  
-| bip_39_word_new_br11 | degree<br>silent<br>level<br>narrow<br>gloom<br>announce<br>vacuum<br>elite<br>endorse<br>special<br>van |  
-| bip_39_word_new_br12 | degree<br>silent<br>level<br>narrow<br>gloom<br>announce<br>vacuum<br>elite<br>endorse<br>special<br>van<br>ahead |  
-| bip_39_word_new_br2 | degree<br>silent |  
-| bip_39_word_new_br3 | degree<br>silent<br>level |  
-| bip_39_word_new_br4 | degree<br>silent<br>level<br>narrow |  
-| bip_39_word_new_br5 | degree<br>silent<br>level<br>narrow<br>gloom |  
-| bip_39_word_new_br6 | degree<br>silent<br>level<br>narrow<br>gloom<br>announce |  
-| bip_39_word_new_br7 | degree<br>silent<br>level<br>narrow<br>gloom<br>announce<br>vacuum |  
-| bip_39_word_new_br8 | degree<br>silent<br>level<br>narrow<br>gloom<br>announce<br>vacuum<br>elite |  
-| bip_39_word_new_br9 | degree<br>silent<br>level<br>narrow<br>gloom<br>announce<br>vacuum<br>elite<br>endorse |  
-| bip_39_word_new_line1 | degree |  
-| bip_39_word_new_line10 | degree
+| bip_39_word_new_br_1 | degree |  
+| bip_39_word_new_br_10 | degree<br>silent<br>level<br>narrow<br>gloom<br>announce<br>vacuum<br>elite<br>endorse<br>special |  
+| bip_39_word_new_br_11 | degree<br>silent<br>level<br>narrow<br>gloom<br>announce<br>vacuum<br>elite<br>endorse<br>special<br>van |  
+| bip_39_word_new_br_12 | degree<br>silent<br>level<br>narrow<br>gloom<br>announce<br>vacuum<br>elite<br>endorse<br>special<br>van<br>ahead |  
+| bip_39_word_new_br_2 | degree<br>silent |  
+| bip_39_word_new_br_3 | degree<br>silent<br>level |  
+| bip_39_word_new_br_4 | degree<br>silent<br>level<br>narrow |  
+| bip_39_word_new_br_5 | degree<br>silent<br>level<br>narrow<br>gloom |  
+| bip_39_word_new_br_6 | degree<br>silent<br>level<br>narrow<br>gloom<br>announce |  
+| bip_39_word_new_br_7 | degree<br>silent<br>level<br>narrow<br>gloom<br>announce<br>vacuum |  
+| bip_39_word_new_br_8 | degree<br>silent<br>level<br>narrow<br>gloom<br>announce<br>vacuum<br>elite |  
+| bip_39_word_new_br_9 | degree<br>silent<br>level<br>narrow<br>gloom<br>announce<br>vacuum<br>elite<br>endorse |  
+| bip_39_word_new_line_1 | degree |  
+| bip_39_word_new_line_10 | degree
 silent
 level
 narrow
@@ -55,7 +55,7 @@ vacuum
 elite
 endorse
 special |  
-| bip_39_word_new_line11 | degree
+| bip_39_word_new_line_11 | degree
 silent
 level
 narrow
@@ -66,7 +66,7 @@ elite
 endorse
 special
 van |  
-| bip_39_word_new_line12 | degree
+| bip_39_word_new_line_12 | degree
 silent
 level
 narrow
@@ -78,34 +78,34 @@ endorse
 special
 van
 ahead |  
-| bip_39_word_new_line2 | degree
+| bip_39_word_new_line_2 | degree
 silent |  
-| bip_39_word_new_line3 | degree
+| bip_39_word_new_line_3 | degree
 silent
 level |  
-| bip_39_word_new_line4 | degree
+| bip_39_word_new_line_4 | degree
 silent
 level
 narrow |  
-| bip_39_word_new_line5 | degree
+| bip_39_word_new_line_5 | degree
 silent
 level
 narrow
 gloom |  
-| bip_39_word_new_line6 | degree
+| bip_39_word_new_line_6 | degree
 silent
 level
 narrow
 gloom
 announce |  
-| bip_39_word_new_line7 | degree
+| bip_39_word_new_line_7 | degree
 silent
 level
 narrow
 gloom
 announce
 vacuum |  
-| bip_39_word_new_line8 | degree
+| bip_39_word_new_line_8 | degree
 silent
 level
 narrow
@@ -113,7 +113,7 @@ gloom
 announce
 vacuum
 elite |  
-| bip_39_word_new_line9 | degree
+| bip_39_word_new_line_9 | degree
 silent
 level
 narrow

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | powder |  
-| bip_39_word_new_br10 | powder<br>foam<br>bless<br>then<br>swift<br>slush<br>amused<br>circle<br>first<br>sphere |  
-| bip_39_word_new_br11 | powder<br>foam<br>bless<br>then<br>swift<br>slush<br>amused<br>circle<br>first<br>sphere<br>ignore |  
-| bip_39_word_new_br12 | powder<br>foam<br>bless<br>then<br>swift<br>slush<br>amused<br>circle<br>first<br>sphere<br>ignore<br>approve |  
-| bip_39_word_new_br2 | powder<br>foam |  
-| bip_39_word_new_br3 | powder<br>foam<br>bless |  
-| bip_39_word_new_br4 | powder<br>foam<br>bless<br>then |  
-| bip_39_word_new_br5 | powder<br>foam<br>bless<br>then<br>swift |  
-| bip_39_word_new_br6 | powder<br>foam<br>bless<br>then<br>swift<br>slush |  
-| bip_39_word_new_br7 | powder<br>foam<br>bless<br>then<br>swift<br>slush<br>amused |  
-| bip_39_word_new_br8 | powder<br>foam<br>bless<br>then<br>swift<br>slush<br>amused<br>circle |  
-| bip_39_word_new_br9 | powder<br>foam<br>bless<br>then<br>swift<br>slush<br>amused<br>circle<br>first |  
-| bip_39_word_new_line1 | powder |  
-| bip_39_word_new_line10 | powder
+| bip_39_word_new_br_1 | powder |  
+| bip_39_word_new_br_10 | powder<br>foam<br>bless<br>then<br>swift<br>slush<br>amused<br>circle<br>first<br>sphere |  
+| bip_39_word_new_br_11 | powder<br>foam<br>bless<br>then<br>swift<br>slush<br>amused<br>circle<br>first<br>sphere<br>ignore |  
+| bip_39_word_new_br_12 | powder<br>foam<br>bless<br>then<br>swift<br>slush<br>amused<br>circle<br>first<br>sphere<br>ignore<br>approve |  
+| bip_39_word_new_br_2 | powder<br>foam |  
+| bip_39_word_new_br_3 | powder<br>foam<br>bless |  
+| bip_39_word_new_br_4 | powder<br>foam<br>bless<br>then |  
+| bip_39_word_new_br_5 | powder<br>foam<br>bless<br>then<br>swift |  
+| bip_39_word_new_br_6 | powder<br>foam<br>bless<br>then<br>swift<br>slush |  
+| bip_39_word_new_br_7 | powder<br>foam<br>bless<br>then<br>swift<br>slush<br>amused |  
+| bip_39_word_new_br_8 | powder<br>foam<br>bless<br>then<br>swift<br>slush<br>amused<br>circle |  
+| bip_39_word_new_br_9 | powder<br>foam<br>bless<br>then<br>swift<br>slush<br>amused<br>circle<br>first |  
+| bip_39_word_new_line_1 | powder |  
+| bip_39_word_new_line_10 | powder
 foam
 bless
 then
@@ -55,7 +55,7 @@ amused
 circle
 first
 sphere |  
-| bip_39_word_new_line11 | powder
+| bip_39_word_new_line_11 | powder
 foam
 bless
 then
@@ -66,7 +66,7 @@ circle
 first
 sphere
 ignore |  
-| bip_39_word_new_line12 | powder
+| bip_39_word_new_line_12 | powder
 foam
 bless
 then
@@ -78,34 +78,34 @@ first
 sphere
 ignore
 approve |  
-| bip_39_word_new_line2 | powder
+| bip_39_word_new_line_2 | powder
 foam |  
-| bip_39_word_new_line3 | powder
+| bip_39_word_new_line_3 | powder
 foam
 bless |  
-| bip_39_word_new_line4 | powder
+| bip_39_word_new_line_4 | powder
 foam
 bless
 then |  
-| bip_39_word_new_line5 | powder
+| bip_39_word_new_line_5 | powder
 foam
 bless
 then
 swift |  
-| bip_39_word_new_line6 | powder
+| bip_39_word_new_line_6 | powder
 foam
 bless
 then
 swift
 slush |  
-| bip_39_word_new_line7 | powder
+| bip_39_word_new_line_7 | powder
 foam
 bless
 then
 swift
 slush
 amused |  
-| bip_39_word_new_line8 | powder
+| bip_39_word_new_line_8 | powder
 foam
 bless
 then
@@ -113,7 +113,7 @@ swift
 slush
 amused
 circle |  
-| bip_39_word_new_line9 | powder
+| bip_39_word_new_line_9 | powder
 foam
 bless
 then

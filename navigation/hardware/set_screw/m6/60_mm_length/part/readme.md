@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | during |  
-| bip_39_word_new_br10 | during<br>law<br>champion<br>oblige<br>topic<br>faculty<br>seat<br>gossip<br>crumble<br>chest |  
-| bip_39_word_new_br11 | during<br>law<br>champion<br>oblige<br>topic<br>faculty<br>seat<br>gossip<br>crumble<br>chest<br>still |  
-| bip_39_word_new_br12 | during<br>law<br>champion<br>oblige<br>topic<br>faculty<br>seat<br>gossip<br>crumble<br>chest<br>still<br>achieve |  
-| bip_39_word_new_br2 | during<br>law |  
-| bip_39_word_new_br3 | during<br>law<br>champion |  
-| bip_39_word_new_br4 | during<br>law<br>champion<br>oblige |  
-| bip_39_word_new_br5 | during<br>law<br>champion<br>oblige<br>topic |  
-| bip_39_word_new_br6 | during<br>law<br>champion<br>oblige<br>topic<br>faculty |  
-| bip_39_word_new_br7 | during<br>law<br>champion<br>oblige<br>topic<br>faculty<br>seat |  
-| bip_39_word_new_br8 | during<br>law<br>champion<br>oblige<br>topic<br>faculty<br>seat<br>gossip |  
-| bip_39_word_new_br9 | during<br>law<br>champion<br>oblige<br>topic<br>faculty<br>seat<br>gossip<br>crumble |  
-| bip_39_word_new_line1 | during |  
-| bip_39_word_new_line10 | during
+| bip_39_word_new_br_1 | during |  
+| bip_39_word_new_br_10 | during<br>law<br>champion<br>oblige<br>topic<br>faculty<br>seat<br>gossip<br>crumble<br>chest |  
+| bip_39_word_new_br_11 | during<br>law<br>champion<br>oblige<br>topic<br>faculty<br>seat<br>gossip<br>crumble<br>chest<br>still |  
+| bip_39_word_new_br_12 | during<br>law<br>champion<br>oblige<br>topic<br>faculty<br>seat<br>gossip<br>crumble<br>chest<br>still<br>achieve |  
+| bip_39_word_new_br_2 | during<br>law |  
+| bip_39_word_new_br_3 | during<br>law<br>champion |  
+| bip_39_word_new_br_4 | during<br>law<br>champion<br>oblige |  
+| bip_39_word_new_br_5 | during<br>law<br>champion<br>oblige<br>topic |  
+| bip_39_word_new_br_6 | during<br>law<br>champion<br>oblige<br>topic<br>faculty |  
+| bip_39_word_new_br_7 | during<br>law<br>champion<br>oblige<br>topic<br>faculty<br>seat |  
+| bip_39_word_new_br_8 | during<br>law<br>champion<br>oblige<br>topic<br>faculty<br>seat<br>gossip |  
+| bip_39_word_new_br_9 | during<br>law<br>champion<br>oblige<br>topic<br>faculty<br>seat<br>gossip<br>crumble |  
+| bip_39_word_new_line_1 | during |  
+| bip_39_word_new_line_10 | during
 law
 champion
 oblige
@@ -55,7 +55,7 @@ seat
 gossip
 crumble
 chest |  
-| bip_39_word_new_line11 | during
+| bip_39_word_new_line_11 | during
 law
 champion
 oblige
@@ -66,7 +66,7 @@ gossip
 crumble
 chest
 still |  
-| bip_39_word_new_line12 | during
+| bip_39_word_new_line_12 | during
 law
 champion
 oblige
@@ -78,34 +78,34 @@ crumble
 chest
 still
 achieve |  
-| bip_39_word_new_line2 | during
+| bip_39_word_new_line_2 | during
 law |  
-| bip_39_word_new_line3 | during
+| bip_39_word_new_line_3 | during
 law
 champion |  
-| bip_39_word_new_line4 | during
+| bip_39_word_new_line_4 | during
 law
 champion
 oblige |  
-| bip_39_word_new_line5 | during
+| bip_39_word_new_line_5 | during
 law
 champion
 oblige
 topic |  
-| bip_39_word_new_line6 | during
+| bip_39_word_new_line_6 | during
 law
 champion
 oblige
 topic
 faculty |  
-| bip_39_word_new_line7 | during
+| bip_39_word_new_line_7 | during
 law
 champion
 oblige
 topic
 faculty
 seat |  
-| bip_39_word_new_line8 | during
+| bip_39_word_new_line_8 | during
 law
 champion
 oblige
@@ -113,7 +113,7 @@ topic
 faculty
 seat
 gossip |  
-| bip_39_word_new_line9 | during
+| bip_39_word_new_line_9 | during
 law
 champion
 oblige

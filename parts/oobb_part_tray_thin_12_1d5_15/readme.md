@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | language |  
-| bip_39_word_new_br10 | language<br>maple<br>rubber<br>pipe<br>cruel<br>few<br>make<br>review<br>capital<br>vacuum |  
-| bip_39_word_new_br11 | language<br>maple<br>rubber<br>pipe<br>cruel<br>few<br>make<br>review<br>capital<br>vacuum<br>share |  
-| bip_39_word_new_br12 | language<br>maple<br>rubber<br>pipe<br>cruel<br>few<br>make<br>review<br>capital<br>vacuum<br>share<br>acid |  
-| bip_39_word_new_br2 | language<br>maple |  
-| bip_39_word_new_br3 | language<br>maple<br>rubber |  
-| bip_39_word_new_br4 | language<br>maple<br>rubber<br>pipe |  
-| bip_39_word_new_br5 | language<br>maple<br>rubber<br>pipe<br>cruel |  
-| bip_39_word_new_br6 | language<br>maple<br>rubber<br>pipe<br>cruel<br>few |  
-| bip_39_word_new_br7 | language<br>maple<br>rubber<br>pipe<br>cruel<br>few<br>make |  
-| bip_39_word_new_br8 | language<br>maple<br>rubber<br>pipe<br>cruel<br>few<br>make<br>review |  
-| bip_39_word_new_br9 | language<br>maple<br>rubber<br>pipe<br>cruel<br>few<br>make<br>review<br>capital |  
-| bip_39_word_new_line1 | language |  
-| bip_39_word_new_line10 | language
+| bip_39_word_new_br_1 | language |  
+| bip_39_word_new_br_10 | language<br>maple<br>rubber<br>pipe<br>cruel<br>few<br>make<br>review<br>capital<br>vacuum |  
+| bip_39_word_new_br_11 | language<br>maple<br>rubber<br>pipe<br>cruel<br>few<br>make<br>review<br>capital<br>vacuum<br>share |  
+| bip_39_word_new_br_12 | language<br>maple<br>rubber<br>pipe<br>cruel<br>few<br>make<br>review<br>capital<br>vacuum<br>share<br>acid |  
+| bip_39_word_new_br_2 | language<br>maple |  
+| bip_39_word_new_br_3 | language<br>maple<br>rubber |  
+| bip_39_word_new_br_4 | language<br>maple<br>rubber<br>pipe |  
+| bip_39_word_new_br_5 | language<br>maple<br>rubber<br>pipe<br>cruel |  
+| bip_39_word_new_br_6 | language<br>maple<br>rubber<br>pipe<br>cruel<br>few |  
+| bip_39_word_new_br_7 | language<br>maple<br>rubber<br>pipe<br>cruel<br>few<br>make |  
+| bip_39_word_new_br_8 | language<br>maple<br>rubber<br>pipe<br>cruel<br>few<br>make<br>review |  
+| bip_39_word_new_br_9 | language<br>maple<br>rubber<br>pipe<br>cruel<br>few<br>make<br>review<br>capital |  
+| bip_39_word_new_line_1 | language |  
+| bip_39_word_new_line_10 | language
 maple
 rubber
 pipe
@@ -55,7 +55,7 @@ make
 review
 capital
 vacuum |  
-| bip_39_word_new_line11 | language
+| bip_39_word_new_line_11 | language
 maple
 rubber
 pipe
@@ -66,7 +66,7 @@ review
 capital
 vacuum
 share |  
-| bip_39_word_new_line12 | language
+| bip_39_word_new_line_12 | language
 maple
 rubber
 pipe
@@ -78,34 +78,34 @@ capital
 vacuum
 share
 acid |  
-| bip_39_word_new_line2 | language
+| bip_39_word_new_line_2 | language
 maple |  
-| bip_39_word_new_line3 | language
+| bip_39_word_new_line_3 | language
 maple
 rubber |  
-| bip_39_word_new_line4 | language
+| bip_39_word_new_line_4 | language
 maple
 rubber
 pipe |  
-| bip_39_word_new_line5 | language
+| bip_39_word_new_line_5 | language
 maple
 rubber
 pipe
 cruel |  
-| bip_39_word_new_line6 | language
+| bip_39_word_new_line_6 | language
 maple
 rubber
 pipe
 cruel
 few |  
-| bip_39_word_new_line7 | language
+| bip_39_word_new_line_7 | language
 maple
 rubber
 pipe
 cruel
 few
 make |  
-| bip_39_word_new_line8 | language
+| bip_39_word_new_line_8 | language
 maple
 rubber
 pipe
@@ -113,7 +113,7 @@ cruel
 few
 make
 review |  
-| bip_39_word_new_line9 | language
+| bip_39_word_new_line_9 | language
 maple
 rubber
 pipe

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | buddy |  
-| bip_39_word_new_br10 | buddy<br>pizza<br>damp<br>hole<br>length<br>island<br>aim<br>inquiry<br>stomach<br>cushion |  
-| bip_39_word_new_br11 | buddy<br>pizza<br>damp<br>hole<br>length<br>island<br>aim<br>inquiry<br>stomach<br>cushion<br>town |  
-| bip_39_word_new_br12 | buddy<br>pizza<br>damp<br>hole<br>length<br>island<br>aim<br>inquiry<br>stomach<br>cushion<br>town<br>agent |  
-| bip_39_word_new_br2 | buddy<br>pizza |  
-| bip_39_word_new_br3 | buddy<br>pizza<br>damp |  
-| bip_39_word_new_br4 | buddy<br>pizza<br>damp<br>hole |  
-| bip_39_word_new_br5 | buddy<br>pizza<br>damp<br>hole<br>length |  
-| bip_39_word_new_br6 | buddy<br>pizza<br>damp<br>hole<br>length<br>island |  
-| bip_39_word_new_br7 | buddy<br>pizza<br>damp<br>hole<br>length<br>island<br>aim |  
-| bip_39_word_new_br8 | buddy<br>pizza<br>damp<br>hole<br>length<br>island<br>aim<br>inquiry |  
-| bip_39_word_new_br9 | buddy<br>pizza<br>damp<br>hole<br>length<br>island<br>aim<br>inquiry<br>stomach |  
-| bip_39_word_new_line1 | buddy |  
-| bip_39_word_new_line10 | buddy
+| bip_39_word_new_br_1 | buddy |  
+| bip_39_word_new_br_10 | buddy<br>pizza<br>damp<br>hole<br>length<br>island<br>aim<br>inquiry<br>stomach<br>cushion |  
+| bip_39_word_new_br_11 | buddy<br>pizza<br>damp<br>hole<br>length<br>island<br>aim<br>inquiry<br>stomach<br>cushion<br>town |  
+| bip_39_word_new_br_12 | buddy<br>pizza<br>damp<br>hole<br>length<br>island<br>aim<br>inquiry<br>stomach<br>cushion<br>town<br>agent |  
+| bip_39_word_new_br_2 | buddy<br>pizza |  
+| bip_39_word_new_br_3 | buddy<br>pizza<br>damp |  
+| bip_39_word_new_br_4 | buddy<br>pizza<br>damp<br>hole |  
+| bip_39_word_new_br_5 | buddy<br>pizza<br>damp<br>hole<br>length |  
+| bip_39_word_new_br_6 | buddy<br>pizza<br>damp<br>hole<br>length<br>island |  
+| bip_39_word_new_br_7 | buddy<br>pizza<br>damp<br>hole<br>length<br>island<br>aim |  
+| bip_39_word_new_br_8 | buddy<br>pizza<br>damp<br>hole<br>length<br>island<br>aim<br>inquiry |  
+| bip_39_word_new_br_9 | buddy<br>pizza<br>damp<br>hole<br>length<br>island<br>aim<br>inquiry<br>stomach |  
+| bip_39_word_new_line_1 | buddy |  
+| bip_39_word_new_line_10 | buddy
 pizza
 damp
 hole
@@ -55,7 +55,7 @@ aim
 inquiry
 stomach
 cushion |  
-| bip_39_word_new_line11 | buddy
+| bip_39_word_new_line_11 | buddy
 pizza
 damp
 hole
@@ -66,7 +66,7 @@ inquiry
 stomach
 cushion
 town |  
-| bip_39_word_new_line12 | buddy
+| bip_39_word_new_line_12 | buddy
 pizza
 damp
 hole
@@ -78,34 +78,34 @@ stomach
 cushion
 town
 agent |  
-| bip_39_word_new_line2 | buddy
+| bip_39_word_new_line_2 | buddy
 pizza |  
-| bip_39_word_new_line3 | buddy
+| bip_39_word_new_line_3 | buddy
 pizza
 damp |  
-| bip_39_word_new_line4 | buddy
+| bip_39_word_new_line_4 | buddy
 pizza
 damp
 hole |  
-| bip_39_word_new_line5 | buddy
+| bip_39_word_new_line_5 | buddy
 pizza
 damp
 hole
 length |  
-| bip_39_word_new_line6 | buddy
+| bip_39_word_new_line_6 | buddy
 pizza
 damp
 hole
 length
 island |  
-| bip_39_word_new_line7 | buddy
+| bip_39_word_new_line_7 | buddy
 pizza
 damp
 hole
 length
 island
 aim |  
-| bip_39_word_new_line8 | buddy
+| bip_39_word_new_line_8 | buddy
 pizza
 damp
 hole
@@ -113,7 +113,7 @@ length
 island
 aim
 inquiry |  
-| bip_39_word_new_line9 | buddy
+| bip_39_word_new_line_9 | buddy
 pizza
 damp
 hole

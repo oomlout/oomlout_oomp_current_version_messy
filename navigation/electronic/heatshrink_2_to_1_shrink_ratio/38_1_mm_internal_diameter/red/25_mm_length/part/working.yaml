@@ -1,17 +1,17 @@
-bip_39_word_new_br1: cloth
-bip_39_word_new_br10: cloth<br>tunnel<br>lion<br>plastic<br>pen<br>champion<br>laundry<br>dune<br>subway<br>degree
-bip_39_word_new_br11: cloth<br>tunnel<br>lion<br>plastic<br>pen<br>champion<br>laundry<br>dune<br>subway<br>degree<br>kid
-bip_39_word_new_br12: cloth<br>tunnel<br>lion<br>plastic<br>pen<br>champion<br>laundry<br>dune<br>subway<br>degree<br>kid<br>among
-bip_39_word_new_br2: cloth<br>tunnel
-bip_39_word_new_br3: cloth<br>tunnel<br>lion
-bip_39_word_new_br4: cloth<br>tunnel<br>lion<br>plastic
-bip_39_word_new_br5: cloth<br>tunnel<br>lion<br>plastic<br>pen
-bip_39_word_new_br6: cloth<br>tunnel<br>lion<br>plastic<br>pen<br>champion
-bip_39_word_new_br7: cloth<br>tunnel<br>lion<br>plastic<br>pen<br>champion<br>laundry
-bip_39_word_new_br8: cloth<br>tunnel<br>lion<br>plastic<br>pen<br>champion<br>laundry<br>dune
-bip_39_word_new_br9: cloth<br>tunnel<br>lion<br>plastic<br>pen<br>champion<br>laundry<br>dune<br>subway
-bip_39_word_new_line1: cloth
-bip_39_word_new_line10: 'cloth
+bip_39_word_new_br_1: cloth
+bip_39_word_new_br_10: cloth<br>tunnel<br>lion<br>plastic<br>pen<br>champion<br>laundry<br>dune<br>subway<br>degree
+bip_39_word_new_br_11: cloth<br>tunnel<br>lion<br>plastic<br>pen<br>champion<br>laundry<br>dune<br>subway<br>degree<br>kid
+bip_39_word_new_br_12: cloth<br>tunnel<br>lion<br>plastic<br>pen<br>champion<br>laundry<br>dune<br>subway<br>degree<br>kid<br>among
+bip_39_word_new_br_2: cloth<br>tunnel
+bip_39_word_new_br_3: cloth<br>tunnel<br>lion
+bip_39_word_new_br_4: cloth<br>tunnel<br>lion<br>plastic
+bip_39_word_new_br_5: cloth<br>tunnel<br>lion<br>plastic<br>pen
+bip_39_word_new_br_6: cloth<br>tunnel<br>lion<br>plastic<br>pen<br>champion
+bip_39_word_new_br_7: cloth<br>tunnel<br>lion<br>plastic<br>pen<br>champion<br>laundry
+bip_39_word_new_br_8: cloth<br>tunnel<br>lion<br>plastic<br>pen<br>champion<br>laundry<br>dune
+bip_39_word_new_br_9: cloth<br>tunnel<br>lion<br>plastic<br>pen<br>champion<br>laundry<br>dune<br>subway
+bip_39_word_new_line_1: cloth
+bip_39_word_new_line_10: 'cloth
 
   tunnel
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'cloth
   subway
 
   degree'
-bip_39_word_new_line11: 'cloth
+bip_39_word_new_line_11: 'cloth
 
   tunnel
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'cloth
   degree
 
   kid'
-bip_39_word_new_line12: 'cloth
+bip_39_word_new_line_12: 'cloth
 
   tunnel
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'cloth
   kid
 
   among'
-bip_39_word_new_line2: 'cloth
+bip_39_word_new_line_2: 'cloth
 
   tunnel'
-bip_39_word_new_line3: 'cloth
+bip_39_word_new_line_3: 'cloth
 
   tunnel
 
   lion'
-bip_39_word_new_line4: 'cloth
+bip_39_word_new_line_4: 'cloth
 
   tunnel
 
   lion
 
   plastic'
-bip_39_word_new_line5: 'cloth
+bip_39_word_new_line_5: 'cloth
 
   tunnel
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'cloth
   plastic
 
   pen'
-bip_39_word_new_line6: 'cloth
+bip_39_word_new_line_6: 'cloth
 
   tunnel
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'cloth
   pen
 
   champion'
-bip_39_word_new_line7: 'cloth
+bip_39_word_new_line_7: 'cloth
 
   tunnel
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'cloth
   champion
 
   laundry'
-bip_39_word_new_line8: 'cloth
+bip_39_word_new_line_8: 'cloth
 
   tunnel
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'cloth
   laundry
 
   dune'
-bip_39_word_new_line9: 'cloth
+bip_39_word_new_line_9: 'cloth
 
   tunnel
 

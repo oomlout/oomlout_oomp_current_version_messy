@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dose |  
-| bip_39_word_new_br10 | dose<br>animal<br>cheap<br>marine<br>lava<br>pull<br>artist<br>easy<br>layer<br>cup |  
-| bip_39_word_new_br11 | dose<br>animal<br>cheap<br>marine<br>lava<br>pull<br>artist<br>easy<br>layer<br>cup<br>tongue |  
-| bip_39_word_new_br12 | dose<br>animal<br>cheap<br>marine<br>lava<br>pull<br>artist<br>easy<br>layer<br>cup<br>tongue<br>arrange |  
-| bip_39_word_new_br2 | dose<br>animal |  
-| bip_39_word_new_br3 | dose<br>animal<br>cheap |  
-| bip_39_word_new_br4 | dose<br>animal<br>cheap<br>marine |  
-| bip_39_word_new_br5 | dose<br>animal<br>cheap<br>marine<br>lava |  
-| bip_39_word_new_br6 | dose<br>animal<br>cheap<br>marine<br>lava<br>pull |  
-| bip_39_word_new_br7 | dose<br>animal<br>cheap<br>marine<br>lava<br>pull<br>artist |  
-| bip_39_word_new_br8 | dose<br>animal<br>cheap<br>marine<br>lava<br>pull<br>artist<br>easy |  
-| bip_39_word_new_br9 | dose<br>animal<br>cheap<br>marine<br>lava<br>pull<br>artist<br>easy<br>layer |  
-| bip_39_word_new_line1 | dose |  
-| bip_39_word_new_line10 | dose
+| bip_39_word_new_br_1 | dose |  
+| bip_39_word_new_br_10 | dose<br>animal<br>cheap<br>marine<br>lava<br>pull<br>artist<br>easy<br>layer<br>cup |  
+| bip_39_word_new_br_11 | dose<br>animal<br>cheap<br>marine<br>lava<br>pull<br>artist<br>easy<br>layer<br>cup<br>tongue |  
+| bip_39_word_new_br_12 | dose<br>animal<br>cheap<br>marine<br>lava<br>pull<br>artist<br>easy<br>layer<br>cup<br>tongue<br>arrange |  
+| bip_39_word_new_br_2 | dose<br>animal |  
+| bip_39_word_new_br_3 | dose<br>animal<br>cheap |  
+| bip_39_word_new_br_4 | dose<br>animal<br>cheap<br>marine |  
+| bip_39_word_new_br_5 | dose<br>animal<br>cheap<br>marine<br>lava |  
+| bip_39_word_new_br_6 | dose<br>animal<br>cheap<br>marine<br>lava<br>pull |  
+| bip_39_word_new_br_7 | dose<br>animal<br>cheap<br>marine<br>lava<br>pull<br>artist |  
+| bip_39_word_new_br_8 | dose<br>animal<br>cheap<br>marine<br>lava<br>pull<br>artist<br>easy |  
+| bip_39_word_new_br_9 | dose<br>animal<br>cheap<br>marine<br>lava<br>pull<br>artist<br>easy<br>layer |  
+| bip_39_word_new_line_1 | dose |  
+| bip_39_word_new_line_10 | dose
 animal
 cheap
 marine
@@ -55,7 +55,7 @@ artist
 easy
 layer
 cup |  
-| bip_39_word_new_line11 | dose
+| bip_39_word_new_line_11 | dose
 animal
 cheap
 marine
@@ -66,7 +66,7 @@ easy
 layer
 cup
 tongue |  
-| bip_39_word_new_line12 | dose
+| bip_39_word_new_line_12 | dose
 animal
 cheap
 marine
@@ -78,34 +78,34 @@ layer
 cup
 tongue
 arrange |  
-| bip_39_word_new_line2 | dose
+| bip_39_word_new_line_2 | dose
 animal |  
-| bip_39_word_new_line3 | dose
+| bip_39_word_new_line_3 | dose
 animal
 cheap |  
-| bip_39_word_new_line4 | dose
+| bip_39_word_new_line_4 | dose
 animal
 cheap
 marine |  
-| bip_39_word_new_line5 | dose
+| bip_39_word_new_line_5 | dose
 animal
 cheap
 marine
 lava |  
-| bip_39_word_new_line6 | dose
+| bip_39_word_new_line_6 | dose
 animal
 cheap
 marine
 lava
 pull |  
-| bip_39_word_new_line7 | dose
+| bip_39_word_new_line_7 | dose
 animal
 cheap
 marine
 lava
 pull
 artist |  
-| bip_39_word_new_line8 | dose
+| bip_39_word_new_line_8 | dose
 animal
 cheap
 marine
@@ -113,7 +113,7 @@ lava
 pull
 artist
 easy |  
-| bip_39_word_new_line9 | dose
+| bip_39_word_new_line_9 | dose
 animal
 cheap
 marine

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dilemma |  
-| bip_39_word_new_br10 | dilemma<br>hurry<br>olive<br>salon<br>remain<br>myself<br>amount<br>mule<br>enemy<br>spy |  
-| bip_39_word_new_br11 | dilemma<br>hurry<br>olive<br>salon<br>remain<br>myself<br>amount<br>mule<br>enemy<br>spy<br>odor |  
-| bip_39_word_new_br12 | dilemma<br>hurry<br>olive<br>salon<br>remain<br>myself<br>amount<br>mule<br>enemy<br>spy<br>odor<br>already |  
-| bip_39_word_new_br2 | dilemma<br>hurry |  
-| bip_39_word_new_br3 | dilemma<br>hurry<br>olive |  
-| bip_39_word_new_br4 | dilemma<br>hurry<br>olive<br>salon |  
-| bip_39_word_new_br5 | dilemma<br>hurry<br>olive<br>salon<br>remain |  
-| bip_39_word_new_br6 | dilemma<br>hurry<br>olive<br>salon<br>remain<br>myself |  
-| bip_39_word_new_br7 | dilemma<br>hurry<br>olive<br>salon<br>remain<br>myself<br>amount |  
-| bip_39_word_new_br8 | dilemma<br>hurry<br>olive<br>salon<br>remain<br>myself<br>amount<br>mule |  
-| bip_39_word_new_br9 | dilemma<br>hurry<br>olive<br>salon<br>remain<br>myself<br>amount<br>mule<br>enemy |  
-| bip_39_word_new_line1 | dilemma |  
-| bip_39_word_new_line10 | dilemma
+| bip_39_word_new_br_1 | dilemma |  
+| bip_39_word_new_br_10 | dilemma<br>hurry<br>olive<br>salon<br>remain<br>myself<br>amount<br>mule<br>enemy<br>spy |  
+| bip_39_word_new_br_11 | dilemma<br>hurry<br>olive<br>salon<br>remain<br>myself<br>amount<br>mule<br>enemy<br>spy<br>odor |  
+| bip_39_word_new_br_12 | dilemma<br>hurry<br>olive<br>salon<br>remain<br>myself<br>amount<br>mule<br>enemy<br>spy<br>odor<br>already |  
+| bip_39_word_new_br_2 | dilemma<br>hurry |  
+| bip_39_word_new_br_3 | dilemma<br>hurry<br>olive |  
+| bip_39_word_new_br_4 | dilemma<br>hurry<br>olive<br>salon |  
+| bip_39_word_new_br_5 | dilemma<br>hurry<br>olive<br>salon<br>remain |  
+| bip_39_word_new_br_6 | dilemma<br>hurry<br>olive<br>salon<br>remain<br>myself |  
+| bip_39_word_new_br_7 | dilemma<br>hurry<br>olive<br>salon<br>remain<br>myself<br>amount |  
+| bip_39_word_new_br_8 | dilemma<br>hurry<br>olive<br>salon<br>remain<br>myself<br>amount<br>mule |  
+| bip_39_word_new_br_9 | dilemma<br>hurry<br>olive<br>salon<br>remain<br>myself<br>amount<br>mule<br>enemy |  
+| bip_39_word_new_line_1 | dilemma |  
+| bip_39_word_new_line_10 | dilemma
 hurry
 olive
 salon
@@ -55,7 +55,7 @@ amount
 mule
 enemy
 spy |  
-| bip_39_word_new_line11 | dilemma
+| bip_39_word_new_line_11 | dilemma
 hurry
 olive
 salon
@@ -66,7 +66,7 @@ mule
 enemy
 spy
 odor |  
-| bip_39_word_new_line12 | dilemma
+| bip_39_word_new_line_12 | dilemma
 hurry
 olive
 salon
@@ -78,34 +78,34 @@ enemy
 spy
 odor
 already |  
-| bip_39_word_new_line2 | dilemma
+| bip_39_word_new_line_2 | dilemma
 hurry |  
-| bip_39_word_new_line3 | dilemma
+| bip_39_word_new_line_3 | dilemma
 hurry
 olive |  
-| bip_39_word_new_line4 | dilemma
+| bip_39_word_new_line_4 | dilemma
 hurry
 olive
 salon |  
-| bip_39_word_new_line5 | dilemma
+| bip_39_word_new_line_5 | dilemma
 hurry
 olive
 salon
 remain |  
-| bip_39_word_new_line6 | dilemma
+| bip_39_word_new_line_6 | dilemma
 hurry
 olive
 salon
 remain
 myself |  
-| bip_39_word_new_line7 | dilemma
+| bip_39_word_new_line_7 | dilemma
 hurry
 olive
 salon
 remain
 myself
 amount |  
-| bip_39_word_new_line8 | dilemma
+| bip_39_word_new_line_8 | dilemma
 hurry
 olive
 salon
@@ -113,7 +113,7 @@ remain
 myself
 amount
 mule |  
-| bip_39_word_new_line9 | dilemma
+| bip_39_word_new_line_9 | dilemma
 hurry
 olive
 salon

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | judge |  
-| bip_39_word_new_br10 | judge<br>bomb<br>tennis<br>lobster<br>grape<br>history<br>segment<br>aware<br>island<br>client |  
-| bip_39_word_new_br11 | judge<br>bomb<br>tennis<br>lobster<br>grape<br>history<br>segment<br>aware<br>island<br>client<br>luxury |  
-| bip_39_word_new_br12 | judge<br>bomb<br>tennis<br>lobster<br>grape<br>history<br>segment<br>aware<br>island<br>client<br>luxury<br>artefact |  
-| bip_39_word_new_br2 | judge<br>bomb |  
-| bip_39_word_new_br3 | judge<br>bomb<br>tennis |  
-| bip_39_word_new_br4 | judge<br>bomb<br>tennis<br>lobster |  
-| bip_39_word_new_br5 | judge<br>bomb<br>tennis<br>lobster<br>grape |  
-| bip_39_word_new_br6 | judge<br>bomb<br>tennis<br>lobster<br>grape<br>history |  
-| bip_39_word_new_br7 | judge<br>bomb<br>tennis<br>lobster<br>grape<br>history<br>segment |  
-| bip_39_word_new_br8 | judge<br>bomb<br>tennis<br>lobster<br>grape<br>history<br>segment<br>aware |  
-| bip_39_word_new_br9 | judge<br>bomb<br>tennis<br>lobster<br>grape<br>history<br>segment<br>aware<br>island |  
-| bip_39_word_new_line1 | judge |  
-| bip_39_word_new_line10 | judge
+| bip_39_word_new_br_1 | judge |  
+| bip_39_word_new_br_10 | judge<br>bomb<br>tennis<br>lobster<br>grape<br>history<br>segment<br>aware<br>island<br>client |  
+| bip_39_word_new_br_11 | judge<br>bomb<br>tennis<br>lobster<br>grape<br>history<br>segment<br>aware<br>island<br>client<br>luxury |  
+| bip_39_word_new_br_12 | judge<br>bomb<br>tennis<br>lobster<br>grape<br>history<br>segment<br>aware<br>island<br>client<br>luxury<br>artefact |  
+| bip_39_word_new_br_2 | judge<br>bomb |  
+| bip_39_word_new_br_3 | judge<br>bomb<br>tennis |  
+| bip_39_word_new_br_4 | judge<br>bomb<br>tennis<br>lobster |  
+| bip_39_word_new_br_5 | judge<br>bomb<br>tennis<br>lobster<br>grape |  
+| bip_39_word_new_br_6 | judge<br>bomb<br>tennis<br>lobster<br>grape<br>history |  
+| bip_39_word_new_br_7 | judge<br>bomb<br>tennis<br>lobster<br>grape<br>history<br>segment |  
+| bip_39_word_new_br_8 | judge<br>bomb<br>tennis<br>lobster<br>grape<br>history<br>segment<br>aware |  
+| bip_39_word_new_br_9 | judge<br>bomb<br>tennis<br>lobster<br>grape<br>history<br>segment<br>aware<br>island |  
+| bip_39_word_new_line_1 | judge |  
+| bip_39_word_new_line_10 | judge
 bomb
 tennis
 lobster
@@ -55,7 +55,7 @@ segment
 aware
 island
 client |  
-| bip_39_word_new_line11 | judge
+| bip_39_word_new_line_11 | judge
 bomb
 tennis
 lobster
@@ -66,7 +66,7 @@ aware
 island
 client
 luxury |  
-| bip_39_word_new_line12 | judge
+| bip_39_word_new_line_12 | judge
 bomb
 tennis
 lobster
@@ -78,34 +78,34 @@ island
 client
 luxury
 artefact |  
-| bip_39_word_new_line2 | judge
+| bip_39_word_new_line_2 | judge
 bomb |  
-| bip_39_word_new_line3 | judge
+| bip_39_word_new_line_3 | judge
 bomb
 tennis |  
-| bip_39_word_new_line4 | judge
+| bip_39_word_new_line_4 | judge
 bomb
 tennis
 lobster |  
-| bip_39_word_new_line5 | judge
+| bip_39_word_new_line_5 | judge
 bomb
 tennis
 lobster
 grape |  
-| bip_39_word_new_line6 | judge
+| bip_39_word_new_line_6 | judge
 bomb
 tennis
 lobster
 grape
 history |  
-| bip_39_word_new_line7 | judge
+| bip_39_word_new_line_7 | judge
 bomb
 tennis
 lobster
 grape
 history
 segment |  
-| bip_39_word_new_line8 | judge
+| bip_39_word_new_line_8 | judge
 bomb
 tennis
 lobster
@@ -113,7 +113,7 @@ grape
 history
 segment
 aware |  
-| bip_39_word_new_line9 | judge
+| bip_39_word_new_line_9 | judge
 bomb
 tennis
 lobster

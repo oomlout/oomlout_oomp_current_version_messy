@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | grow |  
-| bip_39_word_new_br10 | grow<br>law<br>indicate<br>much<br>weird<br>develop<br>advance<br>ethics<br>worry<br>pilot |  
-| bip_39_word_new_br11 | grow<br>law<br>indicate<br>much<br>weird<br>develop<br>advance<br>ethics<br>worry<br>pilot<br>danger |  
-| bip_39_word_new_br12 | grow<br>law<br>indicate<br>much<br>weird<br>develop<br>advance<br>ethics<br>worry<br>pilot<br>danger<br>approve |  
-| bip_39_word_new_br2 | grow<br>law |  
-| bip_39_word_new_br3 | grow<br>law<br>indicate |  
-| bip_39_word_new_br4 | grow<br>law<br>indicate<br>much |  
-| bip_39_word_new_br5 | grow<br>law<br>indicate<br>much<br>weird |  
-| bip_39_word_new_br6 | grow<br>law<br>indicate<br>much<br>weird<br>develop |  
-| bip_39_word_new_br7 | grow<br>law<br>indicate<br>much<br>weird<br>develop<br>advance |  
-| bip_39_word_new_br8 | grow<br>law<br>indicate<br>much<br>weird<br>develop<br>advance<br>ethics |  
-| bip_39_word_new_br9 | grow<br>law<br>indicate<br>much<br>weird<br>develop<br>advance<br>ethics<br>worry |  
-| bip_39_word_new_line1 | grow |  
-| bip_39_word_new_line10 | grow
+| bip_39_word_new_br_1 | grow |  
+| bip_39_word_new_br_10 | grow<br>law<br>indicate<br>much<br>weird<br>develop<br>advance<br>ethics<br>worry<br>pilot |  
+| bip_39_word_new_br_11 | grow<br>law<br>indicate<br>much<br>weird<br>develop<br>advance<br>ethics<br>worry<br>pilot<br>danger |  
+| bip_39_word_new_br_12 | grow<br>law<br>indicate<br>much<br>weird<br>develop<br>advance<br>ethics<br>worry<br>pilot<br>danger<br>approve |  
+| bip_39_word_new_br_2 | grow<br>law |  
+| bip_39_word_new_br_3 | grow<br>law<br>indicate |  
+| bip_39_word_new_br_4 | grow<br>law<br>indicate<br>much |  
+| bip_39_word_new_br_5 | grow<br>law<br>indicate<br>much<br>weird |  
+| bip_39_word_new_br_6 | grow<br>law<br>indicate<br>much<br>weird<br>develop |  
+| bip_39_word_new_br_7 | grow<br>law<br>indicate<br>much<br>weird<br>develop<br>advance |  
+| bip_39_word_new_br_8 | grow<br>law<br>indicate<br>much<br>weird<br>develop<br>advance<br>ethics |  
+| bip_39_word_new_br_9 | grow<br>law<br>indicate<br>much<br>weird<br>develop<br>advance<br>ethics<br>worry |  
+| bip_39_word_new_line_1 | grow |  
+| bip_39_word_new_line_10 | grow
 law
 indicate
 much
@@ -55,7 +55,7 @@ advance
 ethics
 worry
 pilot |  
-| bip_39_word_new_line11 | grow
+| bip_39_word_new_line_11 | grow
 law
 indicate
 much
@@ -66,7 +66,7 @@ ethics
 worry
 pilot
 danger |  
-| bip_39_word_new_line12 | grow
+| bip_39_word_new_line_12 | grow
 law
 indicate
 much
@@ -78,34 +78,34 @@ worry
 pilot
 danger
 approve |  
-| bip_39_word_new_line2 | grow
+| bip_39_word_new_line_2 | grow
 law |  
-| bip_39_word_new_line3 | grow
+| bip_39_word_new_line_3 | grow
 law
 indicate |  
-| bip_39_word_new_line4 | grow
+| bip_39_word_new_line_4 | grow
 law
 indicate
 much |  
-| bip_39_word_new_line5 | grow
+| bip_39_word_new_line_5 | grow
 law
 indicate
 much
 weird |  
-| bip_39_word_new_line6 | grow
+| bip_39_word_new_line_6 | grow
 law
 indicate
 much
 weird
 develop |  
-| bip_39_word_new_line7 | grow
+| bip_39_word_new_line_7 | grow
 law
 indicate
 much
 weird
 develop
 advance |  
-| bip_39_word_new_line8 | grow
+| bip_39_word_new_line_8 | grow
 law
 indicate
 much
@@ -113,7 +113,7 @@ weird
 develop
 advance
 ethics |  
-| bip_39_word_new_line9 | grow
+| bip_39_word_new_line_9 | grow
 law
 indicate
 much

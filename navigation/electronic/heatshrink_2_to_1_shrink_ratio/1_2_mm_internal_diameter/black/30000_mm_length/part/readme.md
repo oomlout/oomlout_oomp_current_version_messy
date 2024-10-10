@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | put |  
-| bip_39_word_new_br10 | put<br>mule<br>myth<br>plunge<br>rib<br>opera<br>collect<br>valley<br>switch<br>invest |  
-| bip_39_word_new_br11 | put<br>mule<br>myth<br>plunge<br>rib<br>opera<br>collect<br>valley<br>switch<br>invest<br>blur |  
-| bip_39_word_new_br12 | put<br>mule<br>myth<br>plunge<br>rib<br>opera<br>collect<br>valley<br>switch<br>invest<br>blur<br>above |  
-| bip_39_word_new_br2 | put<br>mule |  
-| bip_39_word_new_br3 | put<br>mule<br>myth |  
-| bip_39_word_new_br4 | put<br>mule<br>myth<br>plunge |  
-| bip_39_word_new_br5 | put<br>mule<br>myth<br>plunge<br>rib |  
-| bip_39_word_new_br6 | put<br>mule<br>myth<br>plunge<br>rib<br>opera |  
-| bip_39_word_new_br7 | put<br>mule<br>myth<br>plunge<br>rib<br>opera<br>collect |  
-| bip_39_word_new_br8 | put<br>mule<br>myth<br>plunge<br>rib<br>opera<br>collect<br>valley |  
-| bip_39_word_new_br9 | put<br>mule<br>myth<br>plunge<br>rib<br>opera<br>collect<br>valley<br>switch |  
-| bip_39_word_new_line1 | put |  
-| bip_39_word_new_line10 | put
+| bip_39_word_new_br_1 | put |  
+| bip_39_word_new_br_10 | put<br>mule<br>myth<br>plunge<br>rib<br>opera<br>collect<br>valley<br>switch<br>invest |  
+| bip_39_word_new_br_11 | put<br>mule<br>myth<br>plunge<br>rib<br>opera<br>collect<br>valley<br>switch<br>invest<br>blur |  
+| bip_39_word_new_br_12 | put<br>mule<br>myth<br>plunge<br>rib<br>opera<br>collect<br>valley<br>switch<br>invest<br>blur<br>above |  
+| bip_39_word_new_br_2 | put<br>mule |  
+| bip_39_word_new_br_3 | put<br>mule<br>myth |  
+| bip_39_word_new_br_4 | put<br>mule<br>myth<br>plunge |  
+| bip_39_word_new_br_5 | put<br>mule<br>myth<br>plunge<br>rib |  
+| bip_39_word_new_br_6 | put<br>mule<br>myth<br>plunge<br>rib<br>opera |  
+| bip_39_word_new_br_7 | put<br>mule<br>myth<br>plunge<br>rib<br>opera<br>collect |  
+| bip_39_word_new_br_8 | put<br>mule<br>myth<br>plunge<br>rib<br>opera<br>collect<br>valley |  
+| bip_39_word_new_br_9 | put<br>mule<br>myth<br>plunge<br>rib<br>opera<br>collect<br>valley<br>switch |  
+| bip_39_word_new_line_1 | put |  
+| bip_39_word_new_line_10 | put
 mule
 myth
 plunge
@@ -55,7 +55,7 @@ collect
 valley
 switch
 invest |  
-| bip_39_word_new_line11 | put
+| bip_39_word_new_line_11 | put
 mule
 myth
 plunge
@@ -66,7 +66,7 @@ valley
 switch
 invest
 blur |  
-| bip_39_word_new_line12 | put
+| bip_39_word_new_line_12 | put
 mule
 myth
 plunge
@@ -78,34 +78,34 @@ switch
 invest
 blur
 above |  
-| bip_39_word_new_line2 | put
+| bip_39_word_new_line_2 | put
 mule |  
-| bip_39_word_new_line3 | put
+| bip_39_word_new_line_3 | put
 mule
 myth |  
-| bip_39_word_new_line4 | put
+| bip_39_word_new_line_4 | put
 mule
 myth
 plunge |  
-| bip_39_word_new_line5 | put
+| bip_39_word_new_line_5 | put
 mule
 myth
 plunge
 rib |  
-| bip_39_word_new_line6 | put
+| bip_39_word_new_line_6 | put
 mule
 myth
 plunge
 rib
 opera |  
-| bip_39_word_new_line7 | put
+| bip_39_word_new_line_7 | put
 mule
 myth
 plunge
 rib
 opera
 collect |  
-| bip_39_word_new_line8 | put
+| bip_39_word_new_line_8 | put
 mule
 myth
 plunge
@@ -113,7 +113,7 @@ rib
 opera
 collect
 valley |  
-| bip_39_word_new_line9 | put
+| bip_39_word_new_line_9 | put
 mule
 myth
 plunge

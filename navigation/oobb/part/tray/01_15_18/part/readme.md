@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | obtain |  
-| bip_39_word_new_br10 | obtain<br>foil<br>jewel<br>try<br>predict<br>vendor<br>dumb<br>seek<br>upon<br>cycle |  
-| bip_39_word_new_br11 | obtain<br>foil<br>jewel<br>try<br>predict<br>vendor<br>dumb<br>seek<br>upon<br>cycle<br>audit |  
-| bip_39_word_new_br12 | obtain<br>foil<br>jewel<br>try<br>predict<br>vendor<br>dumb<br>seek<br>upon<br>cycle<br>audit<br>answer |  
-| bip_39_word_new_br2 | obtain<br>foil |  
-| bip_39_word_new_br3 | obtain<br>foil<br>jewel |  
-| bip_39_word_new_br4 | obtain<br>foil<br>jewel<br>try |  
-| bip_39_word_new_br5 | obtain<br>foil<br>jewel<br>try<br>predict |  
-| bip_39_word_new_br6 | obtain<br>foil<br>jewel<br>try<br>predict<br>vendor |  
-| bip_39_word_new_br7 | obtain<br>foil<br>jewel<br>try<br>predict<br>vendor<br>dumb |  
-| bip_39_word_new_br8 | obtain<br>foil<br>jewel<br>try<br>predict<br>vendor<br>dumb<br>seek |  
-| bip_39_word_new_br9 | obtain<br>foil<br>jewel<br>try<br>predict<br>vendor<br>dumb<br>seek<br>upon |  
-| bip_39_word_new_line1 | obtain |  
-| bip_39_word_new_line10 | obtain
+| bip_39_word_new_br_1 | obtain |  
+| bip_39_word_new_br_10 | obtain<br>foil<br>jewel<br>try<br>predict<br>vendor<br>dumb<br>seek<br>upon<br>cycle |  
+| bip_39_word_new_br_11 | obtain<br>foil<br>jewel<br>try<br>predict<br>vendor<br>dumb<br>seek<br>upon<br>cycle<br>audit |  
+| bip_39_word_new_br_12 | obtain<br>foil<br>jewel<br>try<br>predict<br>vendor<br>dumb<br>seek<br>upon<br>cycle<br>audit<br>answer |  
+| bip_39_word_new_br_2 | obtain<br>foil |  
+| bip_39_word_new_br_3 | obtain<br>foil<br>jewel |  
+| bip_39_word_new_br_4 | obtain<br>foil<br>jewel<br>try |  
+| bip_39_word_new_br_5 | obtain<br>foil<br>jewel<br>try<br>predict |  
+| bip_39_word_new_br_6 | obtain<br>foil<br>jewel<br>try<br>predict<br>vendor |  
+| bip_39_word_new_br_7 | obtain<br>foil<br>jewel<br>try<br>predict<br>vendor<br>dumb |  
+| bip_39_word_new_br_8 | obtain<br>foil<br>jewel<br>try<br>predict<br>vendor<br>dumb<br>seek |  
+| bip_39_word_new_br_9 | obtain<br>foil<br>jewel<br>try<br>predict<br>vendor<br>dumb<br>seek<br>upon |  
+| bip_39_word_new_line_1 | obtain |  
+| bip_39_word_new_line_10 | obtain
 foil
 jewel
 try
@@ -55,7 +55,7 @@ dumb
 seek
 upon
 cycle |  
-| bip_39_word_new_line11 | obtain
+| bip_39_word_new_line_11 | obtain
 foil
 jewel
 try
@@ -66,7 +66,7 @@ seek
 upon
 cycle
 audit |  
-| bip_39_word_new_line12 | obtain
+| bip_39_word_new_line_12 | obtain
 foil
 jewel
 try
@@ -78,34 +78,34 @@ upon
 cycle
 audit
 answer |  
-| bip_39_word_new_line2 | obtain
+| bip_39_word_new_line_2 | obtain
 foil |  
-| bip_39_word_new_line3 | obtain
+| bip_39_word_new_line_3 | obtain
 foil
 jewel |  
-| bip_39_word_new_line4 | obtain
+| bip_39_word_new_line_4 | obtain
 foil
 jewel
 try |  
-| bip_39_word_new_line5 | obtain
+| bip_39_word_new_line_5 | obtain
 foil
 jewel
 try
 predict |  
-| bip_39_word_new_line6 | obtain
+| bip_39_word_new_line_6 | obtain
 foil
 jewel
 try
 predict
 vendor |  
-| bip_39_word_new_line7 | obtain
+| bip_39_word_new_line_7 | obtain
 foil
 jewel
 try
 predict
 vendor
 dumb |  
-| bip_39_word_new_line8 | obtain
+| bip_39_word_new_line_8 | obtain
 foil
 jewel
 try
@@ -113,7 +113,7 @@ predict
 vendor
 dumb
 seek |  
-| bip_39_word_new_line9 | obtain
+| bip_39_word_new_line_9 | obtain
 foil
 jewel
 try

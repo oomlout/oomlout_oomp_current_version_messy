@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fun |  
-| bip_39_word_new_br10 | fun<br>empty<br>spider<br>annual<br>accuse<br>crazy<br>extra<br>live<br>art<br>bid |  
-| bip_39_word_new_br11 | fun<br>empty<br>spider<br>annual<br>accuse<br>crazy<br>extra<br>live<br>art<br>bid<br>adapt |  
-| bip_39_word_new_br12 | fun<br>empty<br>spider<br>annual<br>accuse<br>crazy<br>extra<br>live<br>art<br>bid<br>adapt<br>already |  
-| bip_39_word_new_br2 | fun<br>empty |  
-| bip_39_word_new_br3 | fun<br>empty<br>spider |  
-| bip_39_word_new_br4 | fun<br>empty<br>spider<br>annual |  
-| bip_39_word_new_br5 | fun<br>empty<br>spider<br>annual<br>accuse |  
-| bip_39_word_new_br6 | fun<br>empty<br>spider<br>annual<br>accuse<br>crazy |  
-| bip_39_word_new_br7 | fun<br>empty<br>spider<br>annual<br>accuse<br>crazy<br>extra |  
-| bip_39_word_new_br8 | fun<br>empty<br>spider<br>annual<br>accuse<br>crazy<br>extra<br>live |  
-| bip_39_word_new_br9 | fun<br>empty<br>spider<br>annual<br>accuse<br>crazy<br>extra<br>live<br>art |  
-| bip_39_word_new_line1 | fun |  
-| bip_39_word_new_line10 | fun
+| bip_39_word_new_br_1 | fun |  
+| bip_39_word_new_br_10 | fun<br>empty<br>spider<br>annual<br>accuse<br>crazy<br>extra<br>live<br>art<br>bid |  
+| bip_39_word_new_br_11 | fun<br>empty<br>spider<br>annual<br>accuse<br>crazy<br>extra<br>live<br>art<br>bid<br>adapt |  
+| bip_39_word_new_br_12 | fun<br>empty<br>spider<br>annual<br>accuse<br>crazy<br>extra<br>live<br>art<br>bid<br>adapt<br>already |  
+| bip_39_word_new_br_2 | fun<br>empty |  
+| bip_39_word_new_br_3 | fun<br>empty<br>spider |  
+| bip_39_word_new_br_4 | fun<br>empty<br>spider<br>annual |  
+| bip_39_word_new_br_5 | fun<br>empty<br>spider<br>annual<br>accuse |  
+| bip_39_word_new_br_6 | fun<br>empty<br>spider<br>annual<br>accuse<br>crazy |  
+| bip_39_word_new_br_7 | fun<br>empty<br>spider<br>annual<br>accuse<br>crazy<br>extra |  
+| bip_39_word_new_br_8 | fun<br>empty<br>spider<br>annual<br>accuse<br>crazy<br>extra<br>live |  
+| bip_39_word_new_br_9 | fun<br>empty<br>spider<br>annual<br>accuse<br>crazy<br>extra<br>live<br>art |  
+| bip_39_word_new_line_1 | fun |  
+| bip_39_word_new_line_10 | fun
 empty
 spider
 annual
@@ -55,7 +55,7 @@ extra
 live
 art
 bid |  
-| bip_39_word_new_line11 | fun
+| bip_39_word_new_line_11 | fun
 empty
 spider
 annual
@@ -66,7 +66,7 @@ live
 art
 bid
 adapt |  
-| bip_39_word_new_line12 | fun
+| bip_39_word_new_line_12 | fun
 empty
 spider
 annual
@@ -78,34 +78,34 @@ art
 bid
 adapt
 already |  
-| bip_39_word_new_line2 | fun
+| bip_39_word_new_line_2 | fun
 empty |  
-| bip_39_word_new_line3 | fun
+| bip_39_word_new_line_3 | fun
 empty
 spider |  
-| bip_39_word_new_line4 | fun
+| bip_39_word_new_line_4 | fun
 empty
 spider
 annual |  
-| bip_39_word_new_line5 | fun
+| bip_39_word_new_line_5 | fun
 empty
 spider
 annual
 accuse |  
-| bip_39_word_new_line6 | fun
+| bip_39_word_new_line_6 | fun
 empty
 spider
 annual
 accuse
 crazy |  
-| bip_39_word_new_line7 | fun
+| bip_39_word_new_line_7 | fun
 empty
 spider
 annual
 accuse
 crazy
 extra |  
-| bip_39_word_new_line8 | fun
+| bip_39_word_new_line_8 | fun
 empty
 spider
 annual
@@ -113,7 +113,7 @@ accuse
 crazy
 extra
 live |  
-| bip_39_word_new_line9 | fun
+| bip_39_word_new_line_9 | fun
 empty
 spider
 annual

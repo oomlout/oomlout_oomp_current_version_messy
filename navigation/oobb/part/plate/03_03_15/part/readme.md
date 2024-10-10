@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | error |  
-| bip_39_word_new_br10 | error<br>business<br>gorilla<br>antenna<br>mushroom<br>vault<br>seminar<br>infant<br>wash<br>seminar |  
-| bip_39_word_new_br11 | error<br>business<br>gorilla<br>antenna<br>mushroom<br>vault<br>seminar<br>infant<br>wash<br>seminar<br>wash |  
-| bip_39_word_new_br12 | error<br>business<br>gorilla<br>antenna<br>mushroom<br>vault<br>seminar<br>infant<br>wash<br>seminar<br>wash<br>art |  
-| bip_39_word_new_br2 | error<br>business |  
-| bip_39_word_new_br3 | error<br>business<br>gorilla |  
-| bip_39_word_new_br4 | error<br>business<br>gorilla<br>antenna |  
-| bip_39_word_new_br5 | error<br>business<br>gorilla<br>antenna<br>mushroom |  
-| bip_39_word_new_br6 | error<br>business<br>gorilla<br>antenna<br>mushroom<br>vault |  
-| bip_39_word_new_br7 | error<br>business<br>gorilla<br>antenna<br>mushroom<br>vault<br>seminar |  
-| bip_39_word_new_br8 | error<br>business<br>gorilla<br>antenna<br>mushroom<br>vault<br>seminar<br>infant |  
-| bip_39_word_new_br9 | error<br>business<br>gorilla<br>antenna<br>mushroom<br>vault<br>seminar<br>infant<br>wash |  
-| bip_39_word_new_line1 | error |  
-| bip_39_word_new_line10 | error
+| bip_39_word_new_br_1 | error |  
+| bip_39_word_new_br_10 | error<br>business<br>gorilla<br>antenna<br>mushroom<br>vault<br>seminar<br>infant<br>wash<br>seminar |  
+| bip_39_word_new_br_11 | error<br>business<br>gorilla<br>antenna<br>mushroom<br>vault<br>seminar<br>infant<br>wash<br>seminar<br>wash |  
+| bip_39_word_new_br_12 | error<br>business<br>gorilla<br>antenna<br>mushroom<br>vault<br>seminar<br>infant<br>wash<br>seminar<br>wash<br>art |  
+| bip_39_word_new_br_2 | error<br>business |  
+| bip_39_word_new_br_3 | error<br>business<br>gorilla |  
+| bip_39_word_new_br_4 | error<br>business<br>gorilla<br>antenna |  
+| bip_39_word_new_br_5 | error<br>business<br>gorilla<br>antenna<br>mushroom |  
+| bip_39_word_new_br_6 | error<br>business<br>gorilla<br>antenna<br>mushroom<br>vault |  
+| bip_39_word_new_br_7 | error<br>business<br>gorilla<br>antenna<br>mushroom<br>vault<br>seminar |  
+| bip_39_word_new_br_8 | error<br>business<br>gorilla<br>antenna<br>mushroom<br>vault<br>seminar<br>infant |  
+| bip_39_word_new_br_9 | error<br>business<br>gorilla<br>antenna<br>mushroom<br>vault<br>seminar<br>infant<br>wash |  
+| bip_39_word_new_line_1 | error |  
+| bip_39_word_new_line_10 | error
 business
 gorilla
 antenna
@@ -55,7 +55,7 @@ seminar
 infant
 wash
 seminar |  
-| bip_39_word_new_line11 | error
+| bip_39_word_new_line_11 | error
 business
 gorilla
 antenna
@@ -66,7 +66,7 @@ infant
 wash
 seminar
 wash |  
-| bip_39_word_new_line12 | error
+| bip_39_word_new_line_12 | error
 business
 gorilla
 antenna
@@ -78,34 +78,34 @@ wash
 seminar
 wash
 art |  
-| bip_39_word_new_line2 | error
+| bip_39_word_new_line_2 | error
 business |  
-| bip_39_word_new_line3 | error
+| bip_39_word_new_line_3 | error
 business
 gorilla |  
-| bip_39_word_new_line4 | error
+| bip_39_word_new_line_4 | error
 business
 gorilla
 antenna |  
-| bip_39_word_new_line5 | error
+| bip_39_word_new_line_5 | error
 business
 gorilla
 antenna
 mushroom |  
-| bip_39_word_new_line6 | error
+| bip_39_word_new_line_6 | error
 business
 gorilla
 antenna
 mushroom
 vault |  
-| bip_39_word_new_line7 | error
+| bip_39_word_new_line_7 | error
 business
 gorilla
 antenna
 mushroom
 vault
 seminar |  
-| bip_39_word_new_line8 | error
+| bip_39_word_new_line_8 | error
 business
 gorilla
 antenna
@@ -113,7 +113,7 @@ mushroom
 vault
 seminar
 infant |  
-| bip_39_word_new_line9 | error
+| bip_39_word_new_line_9 | error
 business
 gorilla
 antenna

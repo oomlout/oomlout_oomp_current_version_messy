@@ -32,20 +32,20 @@ Devkitc pinout version of espresif esp32 breakout.
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | avoid |  
-| bip_39_word_new_br10 | avoid<br>custom<br>weekend<br>claw<br>pair<br>analyst<br>garden<br>action<br>garage<br>follow |  
-| bip_39_word_new_br11 | avoid<br>custom<br>weekend<br>claw<br>pair<br>analyst<br>garden<br>action<br>garage<br>follow<br>such |  
-| bip_39_word_new_br12 | avoid<br>custom<br>weekend<br>claw<br>pair<br>analyst<br>garden<br>action<br>garage<br>follow<br>such<br>aunt |  
-| bip_39_word_new_br2 | avoid<br>custom |  
-| bip_39_word_new_br3 | avoid<br>custom<br>weekend |  
-| bip_39_word_new_br4 | avoid<br>custom<br>weekend<br>claw |  
-| bip_39_word_new_br5 | avoid<br>custom<br>weekend<br>claw<br>pair |  
-| bip_39_word_new_br6 | avoid<br>custom<br>weekend<br>claw<br>pair<br>analyst |  
-| bip_39_word_new_br7 | avoid<br>custom<br>weekend<br>claw<br>pair<br>analyst<br>garden |  
-| bip_39_word_new_br8 | avoid<br>custom<br>weekend<br>claw<br>pair<br>analyst<br>garden<br>action |  
-| bip_39_word_new_br9 | avoid<br>custom<br>weekend<br>claw<br>pair<br>analyst<br>garden<br>action<br>garage |  
-| bip_39_word_new_line1 | avoid |  
-| bip_39_word_new_line10 | avoid
+| bip_39_word_new_br_1 | avoid |  
+| bip_39_word_new_br_10 | avoid<br>custom<br>weekend<br>claw<br>pair<br>analyst<br>garden<br>action<br>garage<br>follow |  
+| bip_39_word_new_br_11 | avoid<br>custom<br>weekend<br>claw<br>pair<br>analyst<br>garden<br>action<br>garage<br>follow<br>such |  
+| bip_39_word_new_br_12 | avoid<br>custom<br>weekend<br>claw<br>pair<br>analyst<br>garden<br>action<br>garage<br>follow<br>such<br>aunt |  
+| bip_39_word_new_br_2 | avoid<br>custom |  
+| bip_39_word_new_br_3 | avoid<br>custom<br>weekend |  
+| bip_39_word_new_br_4 | avoid<br>custom<br>weekend<br>claw |  
+| bip_39_word_new_br_5 | avoid<br>custom<br>weekend<br>claw<br>pair |  
+| bip_39_word_new_br_6 | avoid<br>custom<br>weekend<br>claw<br>pair<br>analyst |  
+| bip_39_word_new_br_7 | avoid<br>custom<br>weekend<br>claw<br>pair<br>analyst<br>garden |  
+| bip_39_word_new_br_8 | avoid<br>custom<br>weekend<br>claw<br>pair<br>analyst<br>garden<br>action |  
+| bip_39_word_new_br_9 | avoid<br>custom<br>weekend<br>claw<br>pair<br>analyst<br>garden<br>action<br>garage |  
+| bip_39_word_new_line_1 | avoid |  
+| bip_39_word_new_line_10 | avoid
 custom
 weekend
 claw
@@ -55,7 +55,7 @@ garden
 action
 garage
 follow |  
-| bip_39_word_new_line11 | avoid
+| bip_39_word_new_line_11 | avoid
 custom
 weekend
 claw
@@ -66,7 +66,7 @@ action
 garage
 follow
 such |  
-| bip_39_word_new_line12 | avoid
+| bip_39_word_new_line_12 | avoid
 custom
 weekend
 claw
@@ -78,34 +78,34 @@ garage
 follow
 such
 aunt |  
-| bip_39_word_new_line2 | avoid
+| bip_39_word_new_line_2 | avoid
 custom |  
-| bip_39_word_new_line3 | avoid
+| bip_39_word_new_line_3 | avoid
 custom
 weekend |  
-| bip_39_word_new_line4 | avoid
+| bip_39_word_new_line_4 | avoid
 custom
 weekend
 claw |  
-| bip_39_word_new_line5 | avoid
+| bip_39_word_new_line_5 | avoid
 custom
 weekend
 claw
 pair |  
-| bip_39_word_new_line6 | avoid
+| bip_39_word_new_line_6 | avoid
 custom
 weekend
 claw
 pair
 analyst |  
-| bip_39_word_new_line7 | avoid
+| bip_39_word_new_line_7 | avoid
 custom
 weekend
 claw
 pair
 analyst
 garden |  
-| bip_39_word_new_line8 | avoid
+| bip_39_word_new_line_8 | avoid
 custom
 weekend
 claw
@@ -113,7 +113,7 @@ pair
 analyst
 garden
 action |  
-| bip_39_word_new_line9 | avoid
+| bip_39_word_new_line_9 | avoid
 custom
 weekend
 claw

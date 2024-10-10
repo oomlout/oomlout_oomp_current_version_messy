@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | super |  
-| bip_39_word_new_br10 | super<br>regret<br>strike<br>kite<br>atom<br>apart<br>eyebrow<br>spring<br>used<br>wagon |  
-| bip_39_word_new_br11 | super<br>regret<br>strike<br>kite<br>atom<br>apart<br>eyebrow<br>spring<br>used<br>wagon<br>panic |  
-| bip_39_word_new_br12 | super<br>regret<br>strike<br>kite<br>atom<br>apart<br>eyebrow<br>spring<br>used<br>wagon<br>panic<br>adapt |  
-| bip_39_word_new_br2 | super<br>regret |  
-| bip_39_word_new_br3 | super<br>regret<br>strike |  
-| bip_39_word_new_br4 | super<br>regret<br>strike<br>kite |  
-| bip_39_word_new_br5 | super<br>regret<br>strike<br>kite<br>atom |  
-| bip_39_word_new_br6 | super<br>regret<br>strike<br>kite<br>atom<br>apart |  
-| bip_39_word_new_br7 | super<br>regret<br>strike<br>kite<br>atom<br>apart<br>eyebrow |  
-| bip_39_word_new_br8 | super<br>regret<br>strike<br>kite<br>atom<br>apart<br>eyebrow<br>spring |  
-| bip_39_word_new_br9 | super<br>regret<br>strike<br>kite<br>atom<br>apart<br>eyebrow<br>spring<br>used |  
-| bip_39_word_new_line1 | super |  
-| bip_39_word_new_line10 | super
+| bip_39_word_new_br_1 | super |  
+| bip_39_word_new_br_10 | super<br>regret<br>strike<br>kite<br>atom<br>apart<br>eyebrow<br>spring<br>used<br>wagon |  
+| bip_39_word_new_br_11 | super<br>regret<br>strike<br>kite<br>atom<br>apart<br>eyebrow<br>spring<br>used<br>wagon<br>panic |  
+| bip_39_word_new_br_12 | super<br>regret<br>strike<br>kite<br>atom<br>apart<br>eyebrow<br>spring<br>used<br>wagon<br>panic<br>adapt |  
+| bip_39_word_new_br_2 | super<br>regret |  
+| bip_39_word_new_br_3 | super<br>regret<br>strike |  
+| bip_39_word_new_br_4 | super<br>regret<br>strike<br>kite |  
+| bip_39_word_new_br_5 | super<br>regret<br>strike<br>kite<br>atom |  
+| bip_39_word_new_br_6 | super<br>regret<br>strike<br>kite<br>atom<br>apart |  
+| bip_39_word_new_br_7 | super<br>regret<br>strike<br>kite<br>atom<br>apart<br>eyebrow |  
+| bip_39_word_new_br_8 | super<br>regret<br>strike<br>kite<br>atom<br>apart<br>eyebrow<br>spring |  
+| bip_39_word_new_br_9 | super<br>regret<br>strike<br>kite<br>atom<br>apart<br>eyebrow<br>spring<br>used |  
+| bip_39_word_new_line_1 | super |  
+| bip_39_word_new_line_10 | super
 regret
 strike
 kite
@@ -55,7 +55,7 @@ eyebrow
 spring
 used
 wagon |  
-| bip_39_word_new_line11 | super
+| bip_39_word_new_line_11 | super
 regret
 strike
 kite
@@ -66,7 +66,7 @@ spring
 used
 wagon
 panic |  
-| bip_39_word_new_line12 | super
+| bip_39_word_new_line_12 | super
 regret
 strike
 kite
@@ -78,34 +78,34 @@ used
 wagon
 panic
 adapt |  
-| bip_39_word_new_line2 | super
+| bip_39_word_new_line_2 | super
 regret |  
-| bip_39_word_new_line3 | super
+| bip_39_word_new_line_3 | super
 regret
 strike |  
-| bip_39_word_new_line4 | super
+| bip_39_word_new_line_4 | super
 regret
 strike
 kite |  
-| bip_39_word_new_line5 | super
+| bip_39_word_new_line_5 | super
 regret
 strike
 kite
 atom |  
-| bip_39_word_new_line6 | super
+| bip_39_word_new_line_6 | super
 regret
 strike
 kite
 atom
 apart |  
-| bip_39_word_new_line7 | super
+| bip_39_word_new_line_7 | super
 regret
 strike
 kite
 atom
 apart
 eyebrow |  
-| bip_39_word_new_line8 | super
+| bip_39_word_new_line_8 | super
 regret
 strike
 kite
@@ -113,7 +113,7 @@ atom
 apart
 eyebrow
 spring |  
-| bip_39_word_new_line9 | super
+| bip_39_word_new_line_9 | super
 regret
 strike
 kite

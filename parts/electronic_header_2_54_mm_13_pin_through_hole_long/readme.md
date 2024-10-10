@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | inner |  
-| bip_39_word_new_br10 | inner<br>salad<br>best<br>ranch<br>outer<br>excite<br>eager<br>leave<br>glimpse<br>organ |  
-| bip_39_word_new_br11 | inner<br>salad<br>best<br>ranch<br>outer<br>excite<br>eager<br>leave<br>glimpse<br>organ<br>diagram |  
-| bip_39_word_new_br12 | inner<br>salad<br>best<br>ranch<br>outer<br>excite<br>eager<br>leave<br>glimpse<br>organ<br>diagram<br>audit |  
-| bip_39_word_new_br2 | inner<br>salad |  
-| bip_39_word_new_br3 | inner<br>salad<br>best |  
-| bip_39_word_new_br4 | inner<br>salad<br>best<br>ranch |  
-| bip_39_word_new_br5 | inner<br>salad<br>best<br>ranch<br>outer |  
-| bip_39_word_new_br6 | inner<br>salad<br>best<br>ranch<br>outer<br>excite |  
-| bip_39_word_new_br7 | inner<br>salad<br>best<br>ranch<br>outer<br>excite<br>eager |  
-| bip_39_word_new_br8 | inner<br>salad<br>best<br>ranch<br>outer<br>excite<br>eager<br>leave |  
-| bip_39_word_new_br9 | inner<br>salad<br>best<br>ranch<br>outer<br>excite<br>eager<br>leave<br>glimpse |  
-| bip_39_word_new_line1 | inner |  
-| bip_39_word_new_line10 | inner
+| bip_39_word_new_br_1 | inner |  
+| bip_39_word_new_br_10 | inner<br>salad<br>best<br>ranch<br>outer<br>excite<br>eager<br>leave<br>glimpse<br>organ |  
+| bip_39_word_new_br_11 | inner<br>salad<br>best<br>ranch<br>outer<br>excite<br>eager<br>leave<br>glimpse<br>organ<br>diagram |  
+| bip_39_word_new_br_12 | inner<br>salad<br>best<br>ranch<br>outer<br>excite<br>eager<br>leave<br>glimpse<br>organ<br>diagram<br>audit |  
+| bip_39_word_new_br_2 | inner<br>salad |  
+| bip_39_word_new_br_3 | inner<br>salad<br>best |  
+| bip_39_word_new_br_4 | inner<br>salad<br>best<br>ranch |  
+| bip_39_word_new_br_5 | inner<br>salad<br>best<br>ranch<br>outer |  
+| bip_39_word_new_br_6 | inner<br>salad<br>best<br>ranch<br>outer<br>excite |  
+| bip_39_word_new_br_7 | inner<br>salad<br>best<br>ranch<br>outer<br>excite<br>eager |  
+| bip_39_word_new_br_8 | inner<br>salad<br>best<br>ranch<br>outer<br>excite<br>eager<br>leave |  
+| bip_39_word_new_br_9 | inner<br>salad<br>best<br>ranch<br>outer<br>excite<br>eager<br>leave<br>glimpse |  
+| bip_39_word_new_line_1 | inner |  
+| bip_39_word_new_line_10 | inner
 salad
 best
 ranch
@@ -55,7 +55,7 @@ eager
 leave
 glimpse
 organ |  
-| bip_39_word_new_line11 | inner
+| bip_39_word_new_line_11 | inner
 salad
 best
 ranch
@@ -66,7 +66,7 @@ leave
 glimpse
 organ
 diagram |  
-| bip_39_word_new_line12 | inner
+| bip_39_word_new_line_12 | inner
 salad
 best
 ranch
@@ -78,34 +78,34 @@ glimpse
 organ
 diagram
 audit |  
-| bip_39_word_new_line2 | inner
+| bip_39_word_new_line_2 | inner
 salad |  
-| bip_39_word_new_line3 | inner
+| bip_39_word_new_line_3 | inner
 salad
 best |  
-| bip_39_word_new_line4 | inner
+| bip_39_word_new_line_4 | inner
 salad
 best
 ranch |  
-| bip_39_word_new_line5 | inner
+| bip_39_word_new_line_5 | inner
 salad
 best
 ranch
 outer |  
-| bip_39_word_new_line6 | inner
+| bip_39_word_new_line_6 | inner
 salad
 best
 ranch
 outer
 excite |  
-| bip_39_word_new_line7 | inner
+| bip_39_word_new_line_7 | inner
 salad
 best
 ranch
 outer
 excite
 eager |  
-| bip_39_word_new_line8 | inner
+| bip_39_word_new_line_8 | inner
 salad
 best
 ranch
@@ -113,7 +113,7 @@ outer
 excite
 eager
 leave |  
-| bip_39_word_new_line9 | inner
+| bip_39_word_new_line_9 | inner
 salad
 best
 ranch

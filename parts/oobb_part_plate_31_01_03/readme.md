@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | margin |  
-| bip_39_word_new_br10 | margin<br>alien<br>pass<br>insane<br>goose<br>awful<br>talk<br>foil<br>meat<br>clinic |  
-| bip_39_word_new_br11 | margin<br>alien<br>pass<br>insane<br>goose<br>awful<br>talk<br>foil<br>meat<br>clinic<br>drum |  
-| bip_39_word_new_br12 | margin<br>alien<br>pass<br>insane<br>goose<br>awful<br>talk<br>foil<br>meat<br>clinic<br>drum<br>announce |  
-| bip_39_word_new_br2 | margin<br>alien |  
-| bip_39_word_new_br3 | margin<br>alien<br>pass |  
-| bip_39_word_new_br4 | margin<br>alien<br>pass<br>insane |  
-| bip_39_word_new_br5 | margin<br>alien<br>pass<br>insane<br>goose |  
-| bip_39_word_new_br6 | margin<br>alien<br>pass<br>insane<br>goose<br>awful |  
-| bip_39_word_new_br7 | margin<br>alien<br>pass<br>insane<br>goose<br>awful<br>talk |  
-| bip_39_word_new_br8 | margin<br>alien<br>pass<br>insane<br>goose<br>awful<br>talk<br>foil |  
-| bip_39_word_new_br9 | margin<br>alien<br>pass<br>insane<br>goose<br>awful<br>talk<br>foil<br>meat |  
-| bip_39_word_new_line1 | margin |  
-| bip_39_word_new_line10 | margin
+| bip_39_word_new_br_1 | margin |  
+| bip_39_word_new_br_10 | margin<br>alien<br>pass<br>insane<br>goose<br>awful<br>talk<br>foil<br>meat<br>clinic |  
+| bip_39_word_new_br_11 | margin<br>alien<br>pass<br>insane<br>goose<br>awful<br>talk<br>foil<br>meat<br>clinic<br>drum |  
+| bip_39_word_new_br_12 | margin<br>alien<br>pass<br>insane<br>goose<br>awful<br>talk<br>foil<br>meat<br>clinic<br>drum<br>announce |  
+| bip_39_word_new_br_2 | margin<br>alien |  
+| bip_39_word_new_br_3 | margin<br>alien<br>pass |  
+| bip_39_word_new_br_4 | margin<br>alien<br>pass<br>insane |  
+| bip_39_word_new_br_5 | margin<br>alien<br>pass<br>insane<br>goose |  
+| bip_39_word_new_br_6 | margin<br>alien<br>pass<br>insane<br>goose<br>awful |  
+| bip_39_word_new_br_7 | margin<br>alien<br>pass<br>insane<br>goose<br>awful<br>talk |  
+| bip_39_word_new_br_8 | margin<br>alien<br>pass<br>insane<br>goose<br>awful<br>talk<br>foil |  
+| bip_39_word_new_br_9 | margin<br>alien<br>pass<br>insane<br>goose<br>awful<br>talk<br>foil<br>meat |  
+| bip_39_word_new_line_1 | margin |  
+| bip_39_word_new_line_10 | margin
 alien
 pass
 insane
@@ -55,7 +55,7 @@ talk
 foil
 meat
 clinic |  
-| bip_39_word_new_line11 | margin
+| bip_39_word_new_line_11 | margin
 alien
 pass
 insane
@@ -66,7 +66,7 @@ foil
 meat
 clinic
 drum |  
-| bip_39_word_new_line12 | margin
+| bip_39_word_new_line_12 | margin
 alien
 pass
 insane
@@ -78,34 +78,34 @@ meat
 clinic
 drum
 announce |  
-| bip_39_word_new_line2 | margin
+| bip_39_word_new_line_2 | margin
 alien |  
-| bip_39_word_new_line3 | margin
+| bip_39_word_new_line_3 | margin
 alien
 pass |  
-| bip_39_word_new_line4 | margin
+| bip_39_word_new_line_4 | margin
 alien
 pass
 insane |  
-| bip_39_word_new_line5 | margin
+| bip_39_word_new_line_5 | margin
 alien
 pass
 insane
 goose |  
-| bip_39_word_new_line6 | margin
+| bip_39_word_new_line_6 | margin
 alien
 pass
 insane
 goose
 awful |  
-| bip_39_word_new_line7 | margin
+| bip_39_word_new_line_7 | margin
 alien
 pass
 insane
 goose
 awful
 talk |  
-| bip_39_word_new_line8 | margin
+| bip_39_word_new_line_8 | margin
 alien
 pass
 insane
@@ -113,7 +113,7 @@ goose
 awful
 talk
 foil |  
-| bip_39_word_new_line9 | margin
+| bip_39_word_new_line_9 | margin
 alien
 pass
 insane

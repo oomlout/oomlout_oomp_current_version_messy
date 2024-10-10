@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | anchor |  
-| bip_39_word_new_br10 | anchor<br>pepper<br>matrix<br>regular<br>divorce<br>weird<br>island<br>entry<br>romance<br>average |  
-| bip_39_word_new_br11 | anchor<br>pepper<br>matrix<br>regular<br>divorce<br>weird<br>island<br>entry<br>romance<br>average<br>flip |  
-| bip_39_word_new_br12 | anchor<br>pepper<br>matrix<br>regular<br>divorce<br>weird<br>island<br>entry<br>romance<br>average<br>flip<br>access |  
-| bip_39_word_new_br2 | anchor<br>pepper |  
-| bip_39_word_new_br3 | anchor<br>pepper<br>matrix |  
-| bip_39_word_new_br4 | anchor<br>pepper<br>matrix<br>regular |  
-| bip_39_word_new_br5 | anchor<br>pepper<br>matrix<br>regular<br>divorce |  
-| bip_39_word_new_br6 | anchor<br>pepper<br>matrix<br>regular<br>divorce<br>weird |  
-| bip_39_word_new_br7 | anchor<br>pepper<br>matrix<br>regular<br>divorce<br>weird<br>island |  
-| bip_39_word_new_br8 | anchor<br>pepper<br>matrix<br>regular<br>divorce<br>weird<br>island<br>entry |  
-| bip_39_word_new_br9 | anchor<br>pepper<br>matrix<br>regular<br>divorce<br>weird<br>island<br>entry<br>romance |  
-| bip_39_word_new_line1 | anchor |  
-| bip_39_word_new_line10 | anchor
+| bip_39_word_new_br_1 | anchor |  
+| bip_39_word_new_br_10 | anchor<br>pepper<br>matrix<br>regular<br>divorce<br>weird<br>island<br>entry<br>romance<br>average |  
+| bip_39_word_new_br_11 | anchor<br>pepper<br>matrix<br>regular<br>divorce<br>weird<br>island<br>entry<br>romance<br>average<br>flip |  
+| bip_39_word_new_br_12 | anchor<br>pepper<br>matrix<br>regular<br>divorce<br>weird<br>island<br>entry<br>romance<br>average<br>flip<br>access |  
+| bip_39_word_new_br_2 | anchor<br>pepper |  
+| bip_39_word_new_br_3 | anchor<br>pepper<br>matrix |  
+| bip_39_word_new_br_4 | anchor<br>pepper<br>matrix<br>regular |  
+| bip_39_word_new_br_5 | anchor<br>pepper<br>matrix<br>regular<br>divorce |  
+| bip_39_word_new_br_6 | anchor<br>pepper<br>matrix<br>regular<br>divorce<br>weird |  
+| bip_39_word_new_br_7 | anchor<br>pepper<br>matrix<br>regular<br>divorce<br>weird<br>island |  
+| bip_39_word_new_br_8 | anchor<br>pepper<br>matrix<br>regular<br>divorce<br>weird<br>island<br>entry |  
+| bip_39_word_new_br_9 | anchor<br>pepper<br>matrix<br>regular<br>divorce<br>weird<br>island<br>entry<br>romance |  
+| bip_39_word_new_line_1 | anchor |  
+| bip_39_word_new_line_10 | anchor
 pepper
 matrix
 regular
@@ -55,7 +55,7 @@ island
 entry
 romance
 average |  
-| bip_39_word_new_line11 | anchor
+| bip_39_word_new_line_11 | anchor
 pepper
 matrix
 regular
@@ -66,7 +66,7 @@ entry
 romance
 average
 flip |  
-| bip_39_word_new_line12 | anchor
+| bip_39_word_new_line_12 | anchor
 pepper
 matrix
 regular
@@ -78,34 +78,34 @@ romance
 average
 flip
 access |  
-| bip_39_word_new_line2 | anchor
+| bip_39_word_new_line_2 | anchor
 pepper |  
-| bip_39_word_new_line3 | anchor
+| bip_39_word_new_line_3 | anchor
 pepper
 matrix |  
-| bip_39_word_new_line4 | anchor
+| bip_39_word_new_line_4 | anchor
 pepper
 matrix
 regular |  
-| bip_39_word_new_line5 | anchor
+| bip_39_word_new_line_5 | anchor
 pepper
 matrix
 regular
 divorce |  
-| bip_39_word_new_line6 | anchor
+| bip_39_word_new_line_6 | anchor
 pepper
 matrix
 regular
 divorce
 weird |  
-| bip_39_word_new_line7 | anchor
+| bip_39_word_new_line_7 | anchor
 pepper
 matrix
 regular
 divorce
 weird
 island |  
-| bip_39_word_new_line8 | anchor
+| bip_39_word_new_line_8 | anchor
 pepper
 matrix
 regular
@@ -113,7 +113,7 @@ divorce
 weird
 island
 entry |  
-| bip_39_word_new_line9 | anchor
+| bip_39_word_new_line_9 | anchor
 pepper
 matrix
 regular

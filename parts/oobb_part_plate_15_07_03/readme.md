@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | arm |  
-| bip_39_word_new_br10 | arm<br>remind<br>tuition<br>false<br>certain<br>birth<br>purse<br>flush<br>brain<br>lift |  
-| bip_39_word_new_br11 | arm<br>remind<br>tuition<br>false<br>certain<br>birth<br>purse<br>flush<br>brain<br>lift<br>pluck |  
-| bip_39_word_new_br12 | arm<br>remind<br>tuition<br>false<br>certain<br>birth<br>purse<br>flush<br>brain<br>lift<br>pluck<br>approve |  
-| bip_39_word_new_br2 | arm<br>remind |  
-| bip_39_word_new_br3 | arm<br>remind<br>tuition |  
-| bip_39_word_new_br4 | arm<br>remind<br>tuition<br>false |  
-| bip_39_word_new_br5 | arm<br>remind<br>tuition<br>false<br>certain |  
-| bip_39_word_new_br6 | arm<br>remind<br>tuition<br>false<br>certain<br>birth |  
-| bip_39_word_new_br7 | arm<br>remind<br>tuition<br>false<br>certain<br>birth<br>purse |  
-| bip_39_word_new_br8 | arm<br>remind<br>tuition<br>false<br>certain<br>birth<br>purse<br>flush |  
-| bip_39_word_new_br9 | arm<br>remind<br>tuition<br>false<br>certain<br>birth<br>purse<br>flush<br>brain |  
-| bip_39_word_new_line1 | arm |  
-| bip_39_word_new_line10 | arm
+| bip_39_word_new_br_1 | arm |  
+| bip_39_word_new_br_10 | arm<br>remind<br>tuition<br>false<br>certain<br>birth<br>purse<br>flush<br>brain<br>lift |  
+| bip_39_word_new_br_11 | arm<br>remind<br>tuition<br>false<br>certain<br>birth<br>purse<br>flush<br>brain<br>lift<br>pluck |  
+| bip_39_word_new_br_12 | arm<br>remind<br>tuition<br>false<br>certain<br>birth<br>purse<br>flush<br>brain<br>lift<br>pluck<br>approve |  
+| bip_39_word_new_br_2 | arm<br>remind |  
+| bip_39_word_new_br_3 | arm<br>remind<br>tuition |  
+| bip_39_word_new_br_4 | arm<br>remind<br>tuition<br>false |  
+| bip_39_word_new_br_5 | arm<br>remind<br>tuition<br>false<br>certain |  
+| bip_39_word_new_br_6 | arm<br>remind<br>tuition<br>false<br>certain<br>birth |  
+| bip_39_word_new_br_7 | arm<br>remind<br>tuition<br>false<br>certain<br>birth<br>purse |  
+| bip_39_word_new_br_8 | arm<br>remind<br>tuition<br>false<br>certain<br>birth<br>purse<br>flush |  
+| bip_39_word_new_br_9 | arm<br>remind<br>tuition<br>false<br>certain<br>birth<br>purse<br>flush<br>brain |  
+| bip_39_word_new_line_1 | arm |  
+| bip_39_word_new_line_10 | arm
 remind
 tuition
 false
@@ -55,7 +55,7 @@ purse
 flush
 brain
 lift |  
-| bip_39_word_new_line11 | arm
+| bip_39_word_new_line_11 | arm
 remind
 tuition
 false
@@ -66,7 +66,7 @@ flush
 brain
 lift
 pluck |  
-| bip_39_word_new_line12 | arm
+| bip_39_word_new_line_12 | arm
 remind
 tuition
 false
@@ -78,34 +78,34 @@ brain
 lift
 pluck
 approve |  
-| bip_39_word_new_line2 | arm
+| bip_39_word_new_line_2 | arm
 remind |  
-| bip_39_word_new_line3 | arm
+| bip_39_word_new_line_3 | arm
 remind
 tuition |  
-| bip_39_word_new_line4 | arm
+| bip_39_word_new_line_4 | arm
 remind
 tuition
 false |  
-| bip_39_word_new_line5 | arm
+| bip_39_word_new_line_5 | arm
 remind
 tuition
 false
 certain |  
-| bip_39_word_new_line6 | arm
+| bip_39_word_new_line_6 | arm
 remind
 tuition
 false
 certain
 birth |  
-| bip_39_word_new_line7 | arm
+| bip_39_word_new_line_7 | arm
 remind
 tuition
 false
 certain
 birth
 purse |  
-| bip_39_word_new_line8 | arm
+| bip_39_word_new_line_8 | arm
 remind
 tuition
 false
@@ -113,7 +113,7 @@ certain
 birth
 purse
 flush |  
-| bip_39_word_new_line9 | arm
+| bip_39_word_new_line_9 | arm
 remind
 tuition
 false

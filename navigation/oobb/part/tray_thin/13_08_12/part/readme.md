@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | prosper |  
-| bip_39_word_new_br10 | prosper<br>bean<br>humble<br>rain<br>trigger<br>creek<br>arctic<br>domain<br>clown<br>spare |  
-| bip_39_word_new_br11 | prosper<br>bean<br>humble<br>rain<br>trigger<br>creek<br>arctic<br>domain<br>clown<br>spare<br>dumb |  
-| bip_39_word_new_br12 | prosper<br>bean<br>humble<br>rain<br>trigger<br>creek<br>arctic<br>domain<br>clown<br>spare<br>dumb<br>agent |  
-| bip_39_word_new_br2 | prosper<br>bean |  
-| bip_39_word_new_br3 | prosper<br>bean<br>humble |  
-| bip_39_word_new_br4 | prosper<br>bean<br>humble<br>rain |  
-| bip_39_word_new_br5 | prosper<br>bean<br>humble<br>rain<br>trigger |  
-| bip_39_word_new_br6 | prosper<br>bean<br>humble<br>rain<br>trigger<br>creek |  
-| bip_39_word_new_br7 | prosper<br>bean<br>humble<br>rain<br>trigger<br>creek<br>arctic |  
-| bip_39_word_new_br8 | prosper<br>bean<br>humble<br>rain<br>trigger<br>creek<br>arctic<br>domain |  
-| bip_39_word_new_br9 | prosper<br>bean<br>humble<br>rain<br>trigger<br>creek<br>arctic<br>domain<br>clown |  
-| bip_39_word_new_line1 | prosper |  
-| bip_39_word_new_line10 | prosper
+| bip_39_word_new_br_1 | prosper |  
+| bip_39_word_new_br_10 | prosper<br>bean<br>humble<br>rain<br>trigger<br>creek<br>arctic<br>domain<br>clown<br>spare |  
+| bip_39_word_new_br_11 | prosper<br>bean<br>humble<br>rain<br>trigger<br>creek<br>arctic<br>domain<br>clown<br>spare<br>dumb |  
+| bip_39_word_new_br_12 | prosper<br>bean<br>humble<br>rain<br>trigger<br>creek<br>arctic<br>domain<br>clown<br>spare<br>dumb<br>agent |  
+| bip_39_word_new_br_2 | prosper<br>bean |  
+| bip_39_word_new_br_3 | prosper<br>bean<br>humble |  
+| bip_39_word_new_br_4 | prosper<br>bean<br>humble<br>rain |  
+| bip_39_word_new_br_5 | prosper<br>bean<br>humble<br>rain<br>trigger |  
+| bip_39_word_new_br_6 | prosper<br>bean<br>humble<br>rain<br>trigger<br>creek |  
+| bip_39_word_new_br_7 | prosper<br>bean<br>humble<br>rain<br>trigger<br>creek<br>arctic |  
+| bip_39_word_new_br_8 | prosper<br>bean<br>humble<br>rain<br>trigger<br>creek<br>arctic<br>domain |  
+| bip_39_word_new_br_9 | prosper<br>bean<br>humble<br>rain<br>trigger<br>creek<br>arctic<br>domain<br>clown |  
+| bip_39_word_new_line_1 | prosper |  
+| bip_39_word_new_line_10 | prosper
 bean
 humble
 rain
@@ -55,7 +55,7 @@ arctic
 domain
 clown
 spare |  
-| bip_39_word_new_line11 | prosper
+| bip_39_word_new_line_11 | prosper
 bean
 humble
 rain
@@ -66,7 +66,7 @@ domain
 clown
 spare
 dumb |  
-| bip_39_word_new_line12 | prosper
+| bip_39_word_new_line_12 | prosper
 bean
 humble
 rain
@@ -78,34 +78,34 @@ clown
 spare
 dumb
 agent |  
-| bip_39_word_new_line2 | prosper
+| bip_39_word_new_line_2 | prosper
 bean |  
-| bip_39_word_new_line3 | prosper
+| bip_39_word_new_line_3 | prosper
 bean
 humble |  
-| bip_39_word_new_line4 | prosper
+| bip_39_word_new_line_4 | prosper
 bean
 humble
 rain |  
-| bip_39_word_new_line5 | prosper
+| bip_39_word_new_line_5 | prosper
 bean
 humble
 rain
 trigger |  
-| bip_39_word_new_line6 | prosper
+| bip_39_word_new_line_6 | prosper
 bean
 humble
 rain
 trigger
 creek |  
-| bip_39_word_new_line7 | prosper
+| bip_39_word_new_line_7 | prosper
 bean
 humble
 rain
 trigger
 creek
 arctic |  
-| bip_39_word_new_line8 | prosper
+| bip_39_word_new_line_8 | prosper
 bean
 humble
 rain
@@ -113,7 +113,7 @@ trigger
 creek
 arctic
 domain |  
-| bip_39_word_new_line9 | prosper
+| bip_39_word_new_line_9 | prosper
 bean
 humble
 rain

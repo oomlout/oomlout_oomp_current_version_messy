@@ -1,17 +1,17 @@
-bip_39_word_new_br1: moon
-bip_39_word_new_br10: moon<br>dress<br>friend<br>end<br>whale<br>post<br>fun<br>seek<br>have<br>kangaroo
-bip_39_word_new_br11: moon<br>dress<br>friend<br>end<br>whale<br>post<br>fun<br>seek<br>have<br>kangaroo<br>ankle
-bip_39_word_new_br12: moon<br>dress<br>friend<br>end<br>whale<br>post<br>fun<br>seek<br>have<br>kangaroo<br>ankle<br>accident
-bip_39_word_new_br2: moon<br>dress
-bip_39_word_new_br3: moon<br>dress<br>friend
-bip_39_word_new_br4: moon<br>dress<br>friend<br>end
-bip_39_word_new_br5: moon<br>dress<br>friend<br>end<br>whale
-bip_39_word_new_br6: moon<br>dress<br>friend<br>end<br>whale<br>post
-bip_39_word_new_br7: moon<br>dress<br>friend<br>end<br>whale<br>post<br>fun
-bip_39_word_new_br8: moon<br>dress<br>friend<br>end<br>whale<br>post<br>fun<br>seek
-bip_39_word_new_br9: moon<br>dress<br>friend<br>end<br>whale<br>post<br>fun<br>seek<br>have
-bip_39_word_new_line1: moon
-bip_39_word_new_line10: 'moon
+bip_39_word_new_br_1: moon
+bip_39_word_new_br_10: moon<br>dress<br>friend<br>end<br>whale<br>post<br>fun<br>seek<br>have<br>kangaroo
+bip_39_word_new_br_11: moon<br>dress<br>friend<br>end<br>whale<br>post<br>fun<br>seek<br>have<br>kangaroo<br>ankle
+bip_39_word_new_br_12: moon<br>dress<br>friend<br>end<br>whale<br>post<br>fun<br>seek<br>have<br>kangaroo<br>ankle<br>accident
+bip_39_word_new_br_2: moon<br>dress
+bip_39_word_new_br_3: moon<br>dress<br>friend
+bip_39_word_new_br_4: moon<br>dress<br>friend<br>end
+bip_39_word_new_br_5: moon<br>dress<br>friend<br>end<br>whale
+bip_39_word_new_br_6: moon<br>dress<br>friend<br>end<br>whale<br>post
+bip_39_word_new_br_7: moon<br>dress<br>friend<br>end<br>whale<br>post<br>fun
+bip_39_word_new_br_8: moon<br>dress<br>friend<br>end<br>whale<br>post<br>fun<br>seek
+bip_39_word_new_br_9: moon<br>dress<br>friend<br>end<br>whale<br>post<br>fun<br>seek<br>have
+bip_39_word_new_line_1: moon
+bip_39_word_new_line_10: 'moon
 
   dress
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'moon
   have
 
   kangaroo'
-bip_39_word_new_line11: 'moon
+bip_39_word_new_line_11: 'moon
 
   dress
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'moon
   kangaroo
 
   ankle'
-bip_39_word_new_line12: 'moon
+bip_39_word_new_line_12: 'moon
 
   dress
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'moon
   ankle
 
   accident'
-bip_39_word_new_line2: 'moon
+bip_39_word_new_line_2: 'moon
 
   dress'
-bip_39_word_new_line3: 'moon
+bip_39_word_new_line_3: 'moon
 
   dress
 
   friend'
-bip_39_word_new_line4: 'moon
+bip_39_word_new_line_4: 'moon
 
   dress
 
   friend
 
   end'
-bip_39_word_new_line5: 'moon
+bip_39_word_new_line_5: 'moon
 
   dress
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'moon
   end
 
   whale'
-bip_39_word_new_line6: 'moon
+bip_39_word_new_line_6: 'moon
 
   dress
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'moon
   whale
 
   post'
-bip_39_word_new_line7: 'moon
+bip_39_word_new_line_7: 'moon
 
   dress
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'moon
   post
 
   fun'
-bip_39_word_new_line8: 'moon
+bip_39_word_new_line_8: 'moon
 
   dress
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'moon
   fun
 
   seek'
-bip_39_word_new_line9: 'moon
+bip_39_word_new_line_9: 'moon
 
   dress
 

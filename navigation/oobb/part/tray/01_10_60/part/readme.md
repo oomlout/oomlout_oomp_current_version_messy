@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | blast |  
-| bip_39_word_new_br10 | blast<br>chase<br>pear<br>obey<br>try<br>amused<br>erase<br>canoe<br>wasp<br>warfare |  
-| bip_39_word_new_br11 | blast<br>chase<br>pear<br>obey<br>try<br>amused<br>erase<br>canoe<br>wasp<br>warfare<br>census |  
-| bip_39_word_new_br12 | blast<br>chase<br>pear<br>obey<br>try<br>amused<br>erase<br>canoe<br>wasp<br>warfare<br>census<br>adapt |  
-| bip_39_word_new_br2 | blast<br>chase |  
-| bip_39_word_new_br3 | blast<br>chase<br>pear |  
-| bip_39_word_new_br4 | blast<br>chase<br>pear<br>obey |  
-| bip_39_word_new_br5 | blast<br>chase<br>pear<br>obey<br>try |  
-| bip_39_word_new_br6 | blast<br>chase<br>pear<br>obey<br>try<br>amused |  
-| bip_39_word_new_br7 | blast<br>chase<br>pear<br>obey<br>try<br>amused<br>erase |  
-| bip_39_word_new_br8 | blast<br>chase<br>pear<br>obey<br>try<br>amused<br>erase<br>canoe |  
-| bip_39_word_new_br9 | blast<br>chase<br>pear<br>obey<br>try<br>amused<br>erase<br>canoe<br>wasp |  
-| bip_39_word_new_line1 | blast |  
-| bip_39_word_new_line10 | blast
+| bip_39_word_new_br_1 | blast |  
+| bip_39_word_new_br_10 | blast<br>chase<br>pear<br>obey<br>try<br>amused<br>erase<br>canoe<br>wasp<br>warfare |  
+| bip_39_word_new_br_11 | blast<br>chase<br>pear<br>obey<br>try<br>amused<br>erase<br>canoe<br>wasp<br>warfare<br>census |  
+| bip_39_word_new_br_12 | blast<br>chase<br>pear<br>obey<br>try<br>amused<br>erase<br>canoe<br>wasp<br>warfare<br>census<br>adapt |  
+| bip_39_word_new_br_2 | blast<br>chase |  
+| bip_39_word_new_br_3 | blast<br>chase<br>pear |  
+| bip_39_word_new_br_4 | blast<br>chase<br>pear<br>obey |  
+| bip_39_word_new_br_5 | blast<br>chase<br>pear<br>obey<br>try |  
+| bip_39_word_new_br_6 | blast<br>chase<br>pear<br>obey<br>try<br>amused |  
+| bip_39_word_new_br_7 | blast<br>chase<br>pear<br>obey<br>try<br>amused<br>erase |  
+| bip_39_word_new_br_8 | blast<br>chase<br>pear<br>obey<br>try<br>amused<br>erase<br>canoe |  
+| bip_39_word_new_br_9 | blast<br>chase<br>pear<br>obey<br>try<br>amused<br>erase<br>canoe<br>wasp |  
+| bip_39_word_new_line_1 | blast |  
+| bip_39_word_new_line_10 | blast
 chase
 pear
 obey
@@ -55,7 +55,7 @@ erase
 canoe
 wasp
 warfare |  
-| bip_39_word_new_line11 | blast
+| bip_39_word_new_line_11 | blast
 chase
 pear
 obey
@@ -66,7 +66,7 @@ canoe
 wasp
 warfare
 census |  
-| bip_39_word_new_line12 | blast
+| bip_39_word_new_line_12 | blast
 chase
 pear
 obey
@@ -78,34 +78,34 @@ wasp
 warfare
 census
 adapt |  
-| bip_39_word_new_line2 | blast
+| bip_39_word_new_line_2 | blast
 chase |  
-| bip_39_word_new_line3 | blast
+| bip_39_word_new_line_3 | blast
 chase
 pear |  
-| bip_39_word_new_line4 | blast
+| bip_39_word_new_line_4 | blast
 chase
 pear
 obey |  
-| bip_39_word_new_line5 | blast
+| bip_39_word_new_line_5 | blast
 chase
 pear
 obey
 try |  
-| bip_39_word_new_line6 | blast
+| bip_39_word_new_line_6 | blast
 chase
 pear
 obey
 try
 amused |  
-| bip_39_word_new_line7 | blast
+| bip_39_word_new_line_7 | blast
 chase
 pear
 obey
 try
 amused
 erase |  
-| bip_39_word_new_line8 | blast
+| bip_39_word_new_line_8 | blast
 chase
 pear
 obey
@@ -113,7 +113,7 @@ try
 amused
 erase
 canoe |  
-| bip_39_word_new_line9 | blast
+| bip_39_word_new_line_9 | blast
 chase
 pear
 obey

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | venue |  
-| bip_39_word_new_br10 | venue<br>corn<br>exhaust<br>direct<br>detail<br>economy<br>owner<br>valid<br>flower<br>high |  
-| bip_39_word_new_br11 | venue<br>corn<br>exhaust<br>direct<br>detail<br>economy<br>owner<br>valid<br>flower<br>high<br>vital |  
-| bip_39_word_new_br12 | venue<br>corn<br>exhaust<br>direct<br>detail<br>economy<br>owner<br>valid<br>flower<br>high<br>vital<br>amused |  
-| bip_39_word_new_br2 | venue<br>corn |  
-| bip_39_word_new_br3 | venue<br>corn<br>exhaust |  
-| bip_39_word_new_br4 | venue<br>corn<br>exhaust<br>direct |  
-| bip_39_word_new_br5 | venue<br>corn<br>exhaust<br>direct<br>detail |  
-| bip_39_word_new_br6 | venue<br>corn<br>exhaust<br>direct<br>detail<br>economy |  
-| bip_39_word_new_br7 | venue<br>corn<br>exhaust<br>direct<br>detail<br>economy<br>owner |  
-| bip_39_word_new_br8 | venue<br>corn<br>exhaust<br>direct<br>detail<br>economy<br>owner<br>valid |  
-| bip_39_word_new_br9 | venue<br>corn<br>exhaust<br>direct<br>detail<br>economy<br>owner<br>valid<br>flower |  
-| bip_39_word_new_line1 | venue |  
-| bip_39_word_new_line10 | venue
+| bip_39_word_new_br_1 | venue |  
+| bip_39_word_new_br_10 | venue<br>corn<br>exhaust<br>direct<br>detail<br>economy<br>owner<br>valid<br>flower<br>high |  
+| bip_39_word_new_br_11 | venue<br>corn<br>exhaust<br>direct<br>detail<br>economy<br>owner<br>valid<br>flower<br>high<br>vital |  
+| bip_39_word_new_br_12 | venue<br>corn<br>exhaust<br>direct<br>detail<br>economy<br>owner<br>valid<br>flower<br>high<br>vital<br>amused |  
+| bip_39_word_new_br_2 | venue<br>corn |  
+| bip_39_word_new_br_3 | venue<br>corn<br>exhaust |  
+| bip_39_word_new_br_4 | venue<br>corn<br>exhaust<br>direct |  
+| bip_39_word_new_br_5 | venue<br>corn<br>exhaust<br>direct<br>detail |  
+| bip_39_word_new_br_6 | venue<br>corn<br>exhaust<br>direct<br>detail<br>economy |  
+| bip_39_word_new_br_7 | venue<br>corn<br>exhaust<br>direct<br>detail<br>economy<br>owner |  
+| bip_39_word_new_br_8 | venue<br>corn<br>exhaust<br>direct<br>detail<br>economy<br>owner<br>valid |  
+| bip_39_word_new_br_9 | venue<br>corn<br>exhaust<br>direct<br>detail<br>economy<br>owner<br>valid<br>flower |  
+| bip_39_word_new_line_1 | venue |  
+| bip_39_word_new_line_10 | venue
 corn
 exhaust
 direct
@@ -55,7 +55,7 @@ owner
 valid
 flower
 high |  
-| bip_39_word_new_line11 | venue
+| bip_39_word_new_line_11 | venue
 corn
 exhaust
 direct
@@ -66,7 +66,7 @@ valid
 flower
 high
 vital |  
-| bip_39_word_new_line12 | venue
+| bip_39_word_new_line_12 | venue
 corn
 exhaust
 direct
@@ -78,34 +78,34 @@ flower
 high
 vital
 amused |  
-| bip_39_word_new_line2 | venue
+| bip_39_word_new_line_2 | venue
 corn |  
-| bip_39_word_new_line3 | venue
+| bip_39_word_new_line_3 | venue
 corn
 exhaust |  
-| bip_39_word_new_line4 | venue
+| bip_39_word_new_line_4 | venue
 corn
 exhaust
 direct |  
-| bip_39_word_new_line5 | venue
+| bip_39_word_new_line_5 | venue
 corn
 exhaust
 direct
 detail |  
-| bip_39_word_new_line6 | venue
+| bip_39_word_new_line_6 | venue
 corn
 exhaust
 direct
 detail
 economy |  
-| bip_39_word_new_line7 | venue
+| bip_39_word_new_line_7 | venue
 corn
 exhaust
 direct
 detail
 economy
 owner |  
-| bip_39_word_new_line8 | venue
+| bip_39_word_new_line_8 | venue
 corn
 exhaust
 direct
@@ -113,7 +113,7 @@ detail
 economy
 owner
 valid |  
-| bip_39_word_new_line9 | venue
+| bip_39_word_new_line_9 | venue
 corn
 exhaust
 direct

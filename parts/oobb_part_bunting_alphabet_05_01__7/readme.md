@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | similar |  
-| bip_39_word_new_br10 | similar<br>kiss<br>agent<br>coil<br>effort<br>repeat<br>like<br>wonder<br>essay<br>about |  
-| bip_39_word_new_br11 | similar<br>kiss<br>agent<br>coil<br>effort<br>repeat<br>like<br>wonder<br>essay<br>about<br>beef |  
-| bip_39_word_new_br12 | similar<br>kiss<br>agent<br>coil<br>effort<br>repeat<br>like<br>wonder<br>essay<br>about<br>beef<br>anchor |  
-| bip_39_word_new_br2 | similar<br>kiss |  
-| bip_39_word_new_br3 | similar<br>kiss<br>agent |  
-| bip_39_word_new_br4 | similar<br>kiss<br>agent<br>coil |  
-| bip_39_word_new_br5 | similar<br>kiss<br>agent<br>coil<br>effort |  
-| bip_39_word_new_br6 | similar<br>kiss<br>agent<br>coil<br>effort<br>repeat |  
-| bip_39_word_new_br7 | similar<br>kiss<br>agent<br>coil<br>effort<br>repeat<br>like |  
-| bip_39_word_new_br8 | similar<br>kiss<br>agent<br>coil<br>effort<br>repeat<br>like<br>wonder |  
-| bip_39_word_new_br9 | similar<br>kiss<br>agent<br>coil<br>effort<br>repeat<br>like<br>wonder<br>essay |  
-| bip_39_word_new_line1 | similar |  
-| bip_39_word_new_line10 | similar
+| bip_39_word_new_br_1 | similar |  
+| bip_39_word_new_br_10 | similar<br>kiss<br>agent<br>coil<br>effort<br>repeat<br>like<br>wonder<br>essay<br>about |  
+| bip_39_word_new_br_11 | similar<br>kiss<br>agent<br>coil<br>effort<br>repeat<br>like<br>wonder<br>essay<br>about<br>beef |  
+| bip_39_word_new_br_12 | similar<br>kiss<br>agent<br>coil<br>effort<br>repeat<br>like<br>wonder<br>essay<br>about<br>beef<br>anchor |  
+| bip_39_word_new_br_2 | similar<br>kiss |  
+| bip_39_word_new_br_3 | similar<br>kiss<br>agent |  
+| bip_39_word_new_br_4 | similar<br>kiss<br>agent<br>coil |  
+| bip_39_word_new_br_5 | similar<br>kiss<br>agent<br>coil<br>effort |  
+| bip_39_word_new_br_6 | similar<br>kiss<br>agent<br>coil<br>effort<br>repeat |  
+| bip_39_word_new_br_7 | similar<br>kiss<br>agent<br>coil<br>effort<br>repeat<br>like |  
+| bip_39_word_new_br_8 | similar<br>kiss<br>agent<br>coil<br>effort<br>repeat<br>like<br>wonder |  
+| bip_39_word_new_br_9 | similar<br>kiss<br>agent<br>coil<br>effort<br>repeat<br>like<br>wonder<br>essay |  
+| bip_39_word_new_line_1 | similar |  
+| bip_39_word_new_line_10 | similar
 kiss
 agent
 coil
@@ -55,7 +55,7 @@ like
 wonder
 essay
 about |  
-| bip_39_word_new_line11 | similar
+| bip_39_word_new_line_11 | similar
 kiss
 agent
 coil
@@ -66,7 +66,7 @@ wonder
 essay
 about
 beef |  
-| bip_39_word_new_line12 | similar
+| bip_39_word_new_line_12 | similar
 kiss
 agent
 coil
@@ -78,34 +78,34 @@ essay
 about
 beef
 anchor |  
-| bip_39_word_new_line2 | similar
+| bip_39_word_new_line_2 | similar
 kiss |  
-| bip_39_word_new_line3 | similar
+| bip_39_word_new_line_3 | similar
 kiss
 agent |  
-| bip_39_word_new_line4 | similar
+| bip_39_word_new_line_4 | similar
 kiss
 agent
 coil |  
-| bip_39_word_new_line5 | similar
+| bip_39_word_new_line_5 | similar
 kiss
 agent
 coil
 effort |  
-| bip_39_word_new_line6 | similar
+| bip_39_word_new_line_6 | similar
 kiss
 agent
 coil
 effort
 repeat |  
-| bip_39_word_new_line7 | similar
+| bip_39_word_new_line_7 | similar
 kiss
 agent
 coil
 effort
 repeat
 like |  
-| bip_39_word_new_line8 | similar
+| bip_39_word_new_line_8 | similar
 kiss
 agent
 coil
@@ -113,7 +113,7 @@ effort
 repeat
 like
 wonder |  
-| bip_39_word_new_line9 | similar
+| bip_39_word_new_line_9 | similar
 kiss
 agent
 coil

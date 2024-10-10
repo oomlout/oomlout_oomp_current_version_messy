@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fault |  
-| bip_39_word_new_br10 | fault<br>burst<br>hotel<br>agent<br>winter<br>audit<br>shoe<br>host<br>skate<br>electric |  
-| bip_39_word_new_br11 | fault<br>burst<br>hotel<br>agent<br>winter<br>audit<br>shoe<br>host<br>skate<br>electric<br>advance |  
-| bip_39_word_new_br12 | fault<br>burst<br>hotel<br>agent<br>winter<br>audit<br>shoe<br>host<br>skate<br>electric<br>advance<br>age |  
-| bip_39_word_new_br2 | fault<br>burst |  
-| bip_39_word_new_br3 | fault<br>burst<br>hotel |  
-| bip_39_word_new_br4 | fault<br>burst<br>hotel<br>agent |  
-| bip_39_word_new_br5 | fault<br>burst<br>hotel<br>agent<br>winter |  
-| bip_39_word_new_br6 | fault<br>burst<br>hotel<br>agent<br>winter<br>audit |  
-| bip_39_word_new_br7 | fault<br>burst<br>hotel<br>agent<br>winter<br>audit<br>shoe |  
-| bip_39_word_new_br8 | fault<br>burst<br>hotel<br>agent<br>winter<br>audit<br>shoe<br>host |  
-| bip_39_word_new_br9 | fault<br>burst<br>hotel<br>agent<br>winter<br>audit<br>shoe<br>host<br>skate |  
-| bip_39_word_new_line1 | fault |  
-| bip_39_word_new_line10 | fault
+| bip_39_word_new_br_1 | fault |  
+| bip_39_word_new_br_10 | fault<br>burst<br>hotel<br>agent<br>winter<br>audit<br>shoe<br>host<br>skate<br>electric |  
+| bip_39_word_new_br_11 | fault<br>burst<br>hotel<br>agent<br>winter<br>audit<br>shoe<br>host<br>skate<br>electric<br>advance |  
+| bip_39_word_new_br_12 | fault<br>burst<br>hotel<br>agent<br>winter<br>audit<br>shoe<br>host<br>skate<br>electric<br>advance<br>age |  
+| bip_39_word_new_br_2 | fault<br>burst |  
+| bip_39_word_new_br_3 | fault<br>burst<br>hotel |  
+| bip_39_word_new_br_4 | fault<br>burst<br>hotel<br>agent |  
+| bip_39_word_new_br_5 | fault<br>burst<br>hotel<br>agent<br>winter |  
+| bip_39_word_new_br_6 | fault<br>burst<br>hotel<br>agent<br>winter<br>audit |  
+| bip_39_word_new_br_7 | fault<br>burst<br>hotel<br>agent<br>winter<br>audit<br>shoe |  
+| bip_39_word_new_br_8 | fault<br>burst<br>hotel<br>agent<br>winter<br>audit<br>shoe<br>host |  
+| bip_39_word_new_br_9 | fault<br>burst<br>hotel<br>agent<br>winter<br>audit<br>shoe<br>host<br>skate |  
+| bip_39_word_new_line_1 | fault |  
+| bip_39_word_new_line_10 | fault
 burst
 hotel
 agent
@@ -55,7 +55,7 @@ shoe
 host
 skate
 electric |  
-| bip_39_word_new_line11 | fault
+| bip_39_word_new_line_11 | fault
 burst
 hotel
 agent
@@ -66,7 +66,7 @@ host
 skate
 electric
 advance |  
-| bip_39_word_new_line12 | fault
+| bip_39_word_new_line_12 | fault
 burst
 hotel
 agent
@@ -78,34 +78,34 @@ skate
 electric
 advance
 age |  
-| bip_39_word_new_line2 | fault
+| bip_39_word_new_line_2 | fault
 burst |  
-| bip_39_word_new_line3 | fault
+| bip_39_word_new_line_3 | fault
 burst
 hotel |  
-| bip_39_word_new_line4 | fault
+| bip_39_word_new_line_4 | fault
 burst
 hotel
 agent |  
-| bip_39_word_new_line5 | fault
+| bip_39_word_new_line_5 | fault
 burst
 hotel
 agent
 winter |  
-| bip_39_word_new_line6 | fault
+| bip_39_word_new_line_6 | fault
 burst
 hotel
 agent
 winter
 audit |  
-| bip_39_word_new_line7 | fault
+| bip_39_word_new_line_7 | fault
 burst
 hotel
 agent
 winter
 audit
 shoe |  
-| bip_39_word_new_line8 | fault
+| bip_39_word_new_line_8 | fault
 burst
 hotel
 agent
@@ -113,7 +113,7 @@ winter
 audit
 shoe
 host |  
-| bip_39_word_new_line9 | fault
+| bip_39_word_new_line_9 | fault
 burst
 hotel
 agent

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pink |  
-| bip_39_word_new_br10 | pink<br>satoshi<br>they<br>spring<br>acoustic<br>patrol<br>work<br>march<br>just<br>aerobic |  
-| bip_39_word_new_br11 | pink<br>satoshi<br>they<br>spring<br>acoustic<br>patrol<br>work<br>march<br>just<br>aerobic<br>apology |  
-| bip_39_word_new_br12 | pink<br>satoshi<br>they<br>spring<br>acoustic<br>patrol<br>work<br>march<br>just<br>aerobic<br>apology<br>alien |  
-| bip_39_word_new_br2 | pink<br>satoshi |  
-| bip_39_word_new_br3 | pink<br>satoshi<br>they |  
-| bip_39_word_new_br4 | pink<br>satoshi<br>they<br>spring |  
-| bip_39_word_new_br5 | pink<br>satoshi<br>they<br>spring<br>acoustic |  
-| bip_39_word_new_br6 | pink<br>satoshi<br>they<br>spring<br>acoustic<br>patrol |  
-| bip_39_word_new_br7 | pink<br>satoshi<br>they<br>spring<br>acoustic<br>patrol<br>work |  
-| bip_39_word_new_br8 | pink<br>satoshi<br>they<br>spring<br>acoustic<br>patrol<br>work<br>march |  
-| bip_39_word_new_br9 | pink<br>satoshi<br>they<br>spring<br>acoustic<br>patrol<br>work<br>march<br>just |  
-| bip_39_word_new_line1 | pink |  
-| bip_39_word_new_line10 | pink
+| bip_39_word_new_br_1 | pink |  
+| bip_39_word_new_br_10 | pink<br>satoshi<br>they<br>spring<br>acoustic<br>patrol<br>work<br>march<br>just<br>aerobic |  
+| bip_39_word_new_br_11 | pink<br>satoshi<br>they<br>spring<br>acoustic<br>patrol<br>work<br>march<br>just<br>aerobic<br>apology |  
+| bip_39_word_new_br_12 | pink<br>satoshi<br>they<br>spring<br>acoustic<br>patrol<br>work<br>march<br>just<br>aerobic<br>apology<br>alien |  
+| bip_39_word_new_br_2 | pink<br>satoshi |  
+| bip_39_word_new_br_3 | pink<br>satoshi<br>they |  
+| bip_39_word_new_br_4 | pink<br>satoshi<br>they<br>spring |  
+| bip_39_word_new_br_5 | pink<br>satoshi<br>they<br>spring<br>acoustic |  
+| bip_39_word_new_br_6 | pink<br>satoshi<br>they<br>spring<br>acoustic<br>patrol |  
+| bip_39_word_new_br_7 | pink<br>satoshi<br>they<br>spring<br>acoustic<br>patrol<br>work |  
+| bip_39_word_new_br_8 | pink<br>satoshi<br>they<br>spring<br>acoustic<br>patrol<br>work<br>march |  
+| bip_39_word_new_br_9 | pink<br>satoshi<br>they<br>spring<br>acoustic<br>patrol<br>work<br>march<br>just |  
+| bip_39_word_new_line_1 | pink |  
+| bip_39_word_new_line_10 | pink
 satoshi
 they
 spring
@@ -55,7 +55,7 @@ work
 march
 just
 aerobic |  
-| bip_39_word_new_line11 | pink
+| bip_39_word_new_line_11 | pink
 satoshi
 they
 spring
@@ -66,7 +66,7 @@ march
 just
 aerobic
 apology |  
-| bip_39_word_new_line12 | pink
+| bip_39_word_new_line_12 | pink
 satoshi
 they
 spring
@@ -78,34 +78,34 @@ just
 aerobic
 apology
 alien |  
-| bip_39_word_new_line2 | pink
+| bip_39_word_new_line_2 | pink
 satoshi |  
-| bip_39_word_new_line3 | pink
+| bip_39_word_new_line_3 | pink
 satoshi
 they |  
-| bip_39_word_new_line4 | pink
+| bip_39_word_new_line_4 | pink
 satoshi
 they
 spring |  
-| bip_39_word_new_line5 | pink
+| bip_39_word_new_line_5 | pink
 satoshi
 they
 spring
 acoustic |  
-| bip_39_word_new_line6 | pink
+| bip_39_word_new_line_6 | pink
 satoshi
 they
 spring
 acoustic
 patrol |  
-| bip_39_word_new_line7 | pink
+| bip_39_word_new_line_7 | pink
 satoshi
 they
 spring
 acoustic
 patrol
 work |  
-| bip_39_word_new_line8 | pink
+| bip_39_word_new_line_8 | pink
 satoshi
 they
 spring
@@ -113,7 +113,7 @@ acoustic
 patrol
 work
 march |  
-| bip_39_word_new_line9 | pink
+| bip_39_word_new_line_9 | pink
 satoshi
 they
 spring

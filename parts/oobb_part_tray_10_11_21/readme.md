@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | vocal |  
-| bip_39_word_new_br10 | vocal<br>report<br>joy<br>chat<br>canal<br>path<br>aunt<br>repair<br>topple<br>wedding |  
-| bip_39_word_new_br11 | vocal<br>report<br>joy<br>chat<br>canal<br>path<br>aunt<br>repair<br>topple<br>wedding<br>own |  
-| bip_39_word_new_br12 | vocal<br>report<br>joy<br>chat<br>canal<br>path<br>aunt<br>repair<br>topple<br>wedding<br>own<br>august |  
-| bip_39_word_new_br2 | vocal<br>report |  
-| bip_39_word_new_br3 | vocal<br>report<br>joy |  
-| bip_39_word_new_br4 | vocal<br>report<br>joy<br>chat |  
-| bip_39_word_new_br5 | vocal<br>report<br>joy<br>chat<br>canal |  
-| bip_39_word_new_br6 | vocal<br>report<br>joy<br>chat<br>canal<br>path |  
-| bip_39_word_new_br7 | vocal<br>report<br>joy<br>chat<br>canal<br>path<br>aunt |  
-| bip_39_word_new_br8 | vocal<br>report<br>joy<br>chat<br>canal<br>path<br>aunt<br>repair |  
-| bip_39_word_new_br9 | vocal<br>report<br>joy<br>chat<br>canal<br>path<br>aunt<br>repair<br>topple |  
-| bip_39_word_new_line1 | vocal |  
-| bip_39_word_new_line10 | vocal
+| bip_39_word_new_br_1 | vocal |  
+| bip_39_word_new_br_10 | vocal<br>report<br>joy<br>chat<br>canal<br>path<br>aunt<br>repair<br>topple<br>wedding |  
+| bip_39_word_new_br_11 | vocal<br>report<br>joy<br>chat<br>canal<br>path<br>aunt<br>repair<br>topple<br>wedding<br>own |  
+| bip_39_word_new_br_12 | vocal<br>report<br>joy<br>chat<br>canal<br>path<br>aunt<br>repair<br>topple<br>wedding<br>own<br>august |  
+| bip_39_word_new_br_2 | vocal<br>report |  
+| bip_39_word_new_br_3 | vocal<br>report<br>joy |  
+| bip_39_word_new_br_4 | vocal<br>report<br>joy<br>chat |  
+| bip_39_word_new_br_5 | vocal<br>report<br>joy<br>chat<br>canal |  
+| bip_39_word_new_br_6 | vocal<br>report<br>joy<br>chat<br>canal<br>path |  
+| bip_39_word_new_br_7 | vocal<br>report<br>joy<br>chat<br>canal<br>path<br>aunt |  
+| bip_39_word_new_br_8 | vocal<br>report<br>joy<br>chat<br>canal<br>path<br>aunt<br>repair |  
+| bip_39_word_new_br_9 | vocal<br>report<br>joy<br>chat<br>canal<br>path<br>aunt<br>repair<br>topple |  
+| bip_39_word_new_line_1 | vocal |  
+| bip_39_word_new_line_10 | vocal
 report
 joy
 chat
@@ -55,7 +55,7 @@ aunt
 repair
 topple
 wedding |  
-| bip_39_word_new_line11 | vocal
+| bip_39_word_new_line_11 | vocal
 report
 joy
 chat
@@ -66,7 +66,7 @@ repair
 topple
 wedding
 own |  
-| bip_39_word_new_line12 | vocal
+| bip_39_word_new_line_12 | vocal
 report
 joy
 chat
@@ -78,34 +78,34 @@ topple
 wedding
 own
 august |  
-| bip_39_word_new_line2 | vocal
+| bip_39_word_new_line_2 | vocal
 report |  
-| bip_39_word_new_line3 | vocal
+| bip_39_word_new_line_3 | vocal
 report
 joy |  
-| bip_39_word_new_line4 | vocal
+| bip_39_word_new_line_4 | vocal
 report
 joy
 chat |  
-| bip_39_word_new_line5 | vocal
+| bip_39_word_new_line_5 | vocal
 report
 joy
 chat
 canal |  
-| bip_39_word_new_line6 | vocal
+| bip_39_word_new_line_6 | vocal
 report
 joy
 chat
 canal
 path |  
-| bip_39_word_new_line7 | vocal
+| bip_39_word_new_line_7 | vocal
 report
 joy
 chat
 canal
 path
 aunt |  
-| bip_39_word_new_line8 | vocal
+| bip_39_word_new_line_8 | vocal
 report
 joy
 chat
@@ -113,7 +113,7 @@ canal
 path
 aunt
 repair |  
-| bip_39_word_new_line9 | vocal
+| bip_39_word_new_line_9 | vocal
 report
 joy
 chat

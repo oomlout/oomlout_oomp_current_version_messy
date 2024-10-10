@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ignore |  
-| bip_39_word_new_br10 | ignore<br>slogan<br>soup<br>cattle<br>damage<br>flip<br>clog<br>jacket<br>divorce<br>gorilla |  
-| bip_39_word_new_br11 | ignore<br>slogan<br>soup<br>cattle<br>damage<br>flip<br>clog<br>jacket<br>divorce<br>gorilla<br>inject |  
-| bip_39_word_new_br12 | ignore<br>slogan<br>soup<br>cattle<br>damage<br>flip<br>clog<br>jacket<br>divorce<br>gorilla<br>inject<br>angry |  
-| bip_39_word_new_br2 | ignore<br>slogan |  
-| bip_39_word_new_br3 | ignore<br>slogan<br>soup |  
-| bip_39_word_new_br4 | ignore<br>slogan<br>soup<br>cattle |  
-| bip_39_word_new_br5 | ignore<br>slogan<br>soup<br>cattle<br>damage |  
-| bip_39_word_new_br6 | ignore<br>slogan<br>soup<br>cattle<br>damage<br>flip |  
-| bip_39_word_new_br7 | ignore<br>slogan<br>soup<br>cattle<br>damage<br>flip<br>clog |  
-| bip_39_word_new_br8 | ignore<br>slogan<br>soup<br>cattle<br>damage<br>flip<br>clog<br>jacket |  
-| bip_39_word_new_br9 | ignore<br>slogan<br>soup<br>cattle<br>damage<br>flip<br>clog<br>jacket<br>divorce |  
-| bip_39_word_new_line1 | ignore |  
-| bip_39_word_new_line10 | ignore
+| bip_39_word_new_br_1 | ignore |  
+| bip_39_word_new_br_10 | ignore<br>slogan<br>soup<br>cattle<br>damage<br>flip<br>clog<br>jacket<br>divorce<br>gorilla |  
+| bip_39_word_new_br_11 | ignore<br>slogan<br>soup<br>cattle<br>damage<br>flip<br>clog<br>jacket<br>divorce<br>gorilla<br>inject |  
+| bip_39_word_new_br_12 | ignore<br>slogan<br>soup<br>cattle<br>damage<br>flip<br>clog<br>jacket<br>divorce<br>gorilla<br>inject<br>angry |  
+| bip_39_word_new_br_2 | ignore<br>slogan |  
+| bip_39_word_new_br_3 | ignore<br>slogan<br>soup |  
+| bip_39_word_new_br_4 | ignore<br>slogan<br>soup<br>cattle |  
+| bip_39_word_new_br_5 | ignore<br>slogan<br>soup<br>cattle<br>damage |  
+| bip_39_word_new_br_6 | ignore<br>slogan<br>soup<br>cattle<br>damage<br>flip |  
+| bip_39_word_new_br_7 | ignore<br>slogan<br>soup<br>cattle<br>damage<br>flip<br>clog |  
+| bip_39_word_new_br_8 | ignore<br>slogan<br>soup<br>cattle<br>damage<br>flip<br>clog<br>jacket |  
+| bip_39_word_new_br_9 | ignore<br>slogan<br>soup<br>cattle<br>damage<br>flip<br>clog<br>jacket<br>divorce |  
+| bip_39_word_new_line_1 | ignore |  
+| bip_39_word_new_line_10 | ignore
 slogan
 soup
 cattle
@@ -55,7 +55,7 @@ clog
 jacket
 divorce
 gorilla |  
-| bip_39_word_new_line11 | ignore
+| bip_39_word_new_line_11 | ignore
 slogan
 soup
 cattle
@@ -66,7 +66,7 @@ jacket
 divorce
 gorilla
 inject |  
-| bip_39_word_new_line12 | ignore
+| bip_39_word_new_line_12 | ignore
 slogan
 soup
 cattle
@@ -78,34 +78,34 @@ divorce
 gorilla
 inject
 angry |  
-| bip_39_word_new_line2 | ignore
+| bip_39_word_new_line_2 | ignore
 slogan |  
-| bip_39_word_new_line3 | ignore
+| bip_39_word_new_line_3 | ignore
 slogan
 soup |  
-| bip_39_word_new_line4 | ignore
+| bip_39_word_new_line_4 | ignore
 slogan
 soup
 cattle |  
-| bip_39_word_new_line5 | ignore
+| bip_39_word_new_line_5 | ignore
 slogan
 soup
 cattle
 damage |  
-| bip_39_word_new_line6 | ignore
+| bip_39_word_new_line_6 | ignore
 slogan
 soup
 cattle
 damage
 flip |  
-| bip_39_word_new_line7 | ignore
+| bip_39_word_new_line_7 | ignore
 slogan
 soup
 cattle
 damage
 flip
 clog |  
-| bip_39_word_new_line8 | ignore
+| bip_39_word_new_line_8 | ignore
 slogan
 soup
 cattle
@@ -113,7 +113,7 @@ damage
 flip
 clog
 jacket |  
-| bip_39_word_new_line9 | ignore
+| bip_39_word_new_line_9 | ignore
 slogan
 soup
 cattle

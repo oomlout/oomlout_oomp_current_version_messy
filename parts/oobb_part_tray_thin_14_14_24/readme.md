@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | travel |  
-| bip_39_word_new_br10 | travel<br>speed<br>flush<br>type<br>indoor<br>dismiss<br>want<br>awkward<br>cage<br>congress |  
-| bip_39_word_new_br11 | travel<br>speed<br>flush<br>type<br>indoor<br>dismiss<br>want<br>awkward<br>cage<br>congress<br>manage |  
-| bip_39_word_new_br12 | travel<br>speed<br>flush<br>type<br>indoor<br>dismiss<br>want<br>awkward<br>cage<br>congress<br>manage<br>air |  
-| bip_39_word_new_br2 | travel<br>speed |  
-| bip_39_word_new_br3 | travel<br>speed<br>flush |  
-| bip_39_word_new_br4 | travel<br>speed<br>flush<br>type |  
-| bip_39_word_new_br5 | travel<br>speed<br>flush<br>type<br>indoor |  
-| bip_39_word_new_br6 | travel<br>speed<br>flush<br>type<br>indoor<br>dismiss |  
-| bip_39_word_new_br7 | travel<br>speed<br>flush<br>type<br>indoor<br>dismiss<br>want |  
-| bip_39_word_new_br8 | travel<br>speed<br>flush<br>type<br>indoor<br>dismiss<br>want<br>awkward |  
-| bip_39_word_new_br9 | travel<br>speed<br>flush<br>type<br>indoor<br>dismiss<br>want<br>awkward<br>cage |  
-| bip_39_word_new_line1 | travel |  
-| bip_39_word_new_line10 | travel
+| bip_39_word_new_br_1 | travel |  
+| bip_39_word_new_br_10 | travel<br>speed<br>flush<br>type<br>indoor<br>dismiss<br>want<br>awkward<br>cage<br>congress |  
+| bip_39_word_new_br_11 | travel<br>speed<br>flush<br>type<br>indoor<br>dismiss<br>want<br>awkward<br>cage<br>congress<br>manage |  
+| bip_39_word_new_br_12 | travel<br>speed<br>flush<br>type<br>indoor<br>dismiss<br>want<br>awkward<br>cage<br>congress<br>manage<br>air |  
+| bip_39_word_new_br_2 | travel<br>speed |  
+| bip_39_word_new_br_3 | travel<br>speed<br>flush |  
+| bip_39_word_new_br_4 | travel<br>speed<br>flush<br>type |  
+| bip_39_word_new_br_5 | travel<br>speed<br>flush<br>type<br>indoor |  
+| bip_39_word_new_br_6 | travel<br>speed<br>flush<br>type<br>indoor<br>dismiss |  
+| bip_39_word_new_br_7 | travel<br>speed<br>flush<br>type<br>indoor<br>dismiss<br>want |  
+| bip_39_word_new_br_8 | travel<br>speed<br>flush<br>type<br>indoor<br>dismiss<br>want<br>awkward |  
+| bip_39_word_new_br_9 | travel<br>speed<br>flush<br>type<br>indoor<br>dismiss<br>want<br>awkward<br>cage |  
+| bip_39_word_new_line_1 | travel |  
+| bip_39_word_new_line_10 | travel
 speed
 flush
 type
@@ -55,7 +55,7 @@ want
 awkward
 cage
 congress |  
-| bip_39_word_new_line11 | travel
+| bip_39_word_new_line_11 | travel
 speed
 flush
 type
@@ -66,7 +66,7 @@ awkward
 cage
 congress
 manage |  
-| bip_39_word_new_line12 | travel
+| bip_39_word_new_line_12 | travel
 speed
 flush
 type
@@ -78,34 +78,34 @@ cage
 congress
 manage
 air |  
-| bip_39_word_new_line2 | travel
+| bip_39_word_new_line_2 | travel
 speed |  
-| bip_39_word_new_line3 | travel
+| bip_39_word_new_line_3 | travel
 speed
 flush |  
-| bip_39_word_new_line4 | travel
+| bip_39_word_new_line_4 | travel
 speed
 flush
 type |  
-| bip_39_word_new_line5 | travel
+| bip_39_word_new_line_5 | travel
 speed
 flush
 type
 indoor |  
-| bip_39_word_new_line6 | travel
+| bip_39_word_new_line_6 | travel
 speed
 flush
 type
 indoor
 dismiss |  
-| bip_39_word_new_line7 | travel
+| bip_39_word_new_line_7 | travel
 speed
 flush
 type
 indoor
 dismiss
 want |  
-| bip_39_word_new_line8 | travel
+| bip_39_word_new_line_8 | travel
 speed
 flush
 type
@@ -113,7 +113,7 @@ indoor
 dismiss
 want
 awkward |  
-| bip_39_word_new_line9 | travel
+| bip_39_word_new_line_9 | travel
 speed
 flush
 type

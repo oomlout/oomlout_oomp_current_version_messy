@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | around |  
-| bip_39_word_new_br10 | around<br>lumber<br>wink<br>labor<br>payment<br>panther<br>degree<br>civil<br>once<br>credit |  
-| bip_39_word_new_br11 | around<br>lumber<br>wink<br>labor<br>payment<br>panther<br>degree<br>civil<br>once<br>credit<br>grocery |  
-| bip_39_word_new_br12 | around<br>lumber<br>wink<br>labor<br>payment<br>panther<br>degree<br>civil<br>once<br>credit<br>grocery<br>armor |  
-| bip_39_word_new_br2 | around<br>lumber |  
-| bip_39_word_new_br3 | around<br>lumber<br>wink |  
-| bip_39_word_new_br4 | around<br>lumber<br>wink<br>labor |  
-| bip_39_word_new_br5 | around<br>lumber<br>wink<br>labor<br>payment |  
-| bip_39_word_new_br6 | around<br>lumber<br>wink<br>labor<br>payment<br>panther |  
-| bip_39_word_new_br7 | around<br>lumber<br>wink<br>labor<br>payment<br>panther<br>degree |  
-| bip_39_word_new_br8 | around<br>lumber<br>wink<br>labor<br>payment<br>panther<br>degree<br>civil |  
-| bip_39_word_new_br9 | around<br>lumber<br>wink<br>labor<br>payment<br>panther<br>degree<br>civil<br>once |  
-| bip_39_word_new_line1 | around |  
-| bip_39_word_new_line10 | around
+| bip_39_word_new_br_1 | around |  
+| bip_39_word_new_br_10 | around<br>lumber<br>wink<br>labor<br>payment<br>panther<br>degree<br>civil<br>once<br>credit |  
+| bip_39_word_new_br_11 | around<br>lumber<br>wink<br>labor<br>payment<br>panther<br>degree<br>civil<br>once<br>credit<br>grocery |  
+| bip_39_word_new_br_12 | around<br>lumber<br>wink<br>labor<br>payment<br>panther<br>degree<br>civil<br>once<br>credit<br>grocery<br>armor |  
+| bip_39_word_new_br_2 | around<br>lumber |  
+| bip_39_word_new_br_3 | around<br>lumber<br>wink |  
+| bip_39_word_new_br_4 | around<br>lumber<br>wink<br>labor |  
+| bip_39_word_new_br_5 | around<br>lumber<br>wink<br>labor<br>payment |  
+| bip_39_word_new_br_6 | around<br>lumber<br>wink<br>labor<br>payment<br>panther |  
+| bip_39_word_new_br_7 | around<br>lumber<br>wink<br>labor<br>payment<br>panther<br>degree |  
+| bip_39_word_new_br_8 | around<br>lumber<br>wink<br>labor<br>payment<br>panther<br>degree<br>civil |  
+| bip_39_word_new_br_9 | around<br>lumber<br>wink<br>labor<br>payment<br>panther<br>degree<br>civil<br>once |  
+| bip_39_word_new_line_1 | around |  
+| bip_39_word_new_line_10 | around
 lumber
 wink
 labor
@@ -55,7 +55,7 @@ degree
 civil
 once
 credit |  
-| bip_39_word_new_line11 | around
+| bip_39_word_new_line_11 | around
 lumber
 wink
 labor
@@ -66,7 +66,7 @@ civil
 once
 credit
 grocery |  
-| bip_39_word_new_line12 | around
+| bip_39_word_new_line_12 | around
 lumber
 wink
 labor
@@ -78,34 +78,34 @@ once
 credit
 grocery
 armor |  
-| bip_39_word_new_line2 | around
+| bip_39_word_new_line_2 | around
 lumber |  
-| bip_39_word_new_line3 | around
+| bip_39_word_new_line_3 | around
 lumber
 wink |  
-| bip_39_word_new_line4 | around
+| bip_39_word_new_line_4 | around
 lumber
 wink
 labor |  
-| bip_39_word_new_line5 | around
+| bip_39_word_new_line_5 | around
 lumber
 wink
 labor
 payment |  
-| bip_39_word_new_line6 | around
+| bip_39_word_new_line_6 | around
 lumber
 wink
 labor
 payment
 panther |  
-| bip_39_word_new_line7 | around
+| bip_39_word_new_line_7 | around
 lumber
 wink
 labor
 payment
 panther
 degree |  
-| bip_39_word_new_line8 | around
+| bip_39_word_new_line_8 | around
 lumber
 wink
 labor
@@ -113,7 +113,7 @@ payment
 panther
 degree
 civil |  
-| bip_39_word_new_line9 | around
+| bip_39_word_new_line_9 | around
 lumber
 wink
 labor

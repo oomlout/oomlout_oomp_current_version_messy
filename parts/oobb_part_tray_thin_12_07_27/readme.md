@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | great |  
-| bip_39_word_new_br10 | great<br>kiss<br>between<br>pretty<br>change<br>glory<br>off<br>demise<br>emotion<br>eye |  
-| bip_39_word_new_br11 | great<br>kiss<br>between<br>pretty<br>change<br>glory<br>off<br>demise<br>emotion<br>eye<br>summer |  
-| bip_39_word_new_br12 | great<br>kiss<br>between<br>pretty<br>change<br>glory<br>off<br>demise<br>emotion<br>eye<br>summer<br>animal |  
-| bip_39_word_new_br2 | great<br>kiss |  
-| bip_39_word_new_br3 | great<br>kiss<br>between |  
-| bip_39_word_new_br4 | great<br>kiss<br>between<br>pretty |  
-| bip_39_word_new_br5 | great<br>kiss<br>between<br>pretty<br>change |  
-| bip_39_word_new_br6 | great<br>kiss<br>between<br>pretty<br>change<br>glory |  
-| bip_39_word_new_br7 | great<br>kiss<br>between<br>pretty<br>change<br>glory<br>off |  
-| bip_39_word_new_br8 | great<br>kiss<br>between<br>pretty<br>change<br>glory<br>off<br>demise |  
-| bip_39_word_new_br9 | great<br>kiss<br>between<br>pretty<br>change<br>glory<br>off<br>demise<br>emotion |  
-| bip_39_word_new_line1 | great |  
-| bip_39_word_new_line10 | great
+| bip_39_word_new_br_1 | great |  
+| bip_39_word_new_br_10 | great<br>kiss<br>between<br>pretty<br>change<br>glory<br>off<br>demise<br>emotion<br>eye |  
+| bip_39_word_new_br_11 | great<br>kiss<br>between<br>pretty<br>change<br>glory<br>off<br>demise<br>emotion<br>eye<br>summer |  
+| bip_39_word_new_br_12 | great<br>kiss<br>between<br>pretty<br>change<br>glory<br>off<br>demise<br>emotion<br>eye<br>summer<br>animal |  
+| bip_39_word_new_br_2 | great<br>kiss |  
+| bip_39_word_new_br_3 | great<br>kiss<br>between |  
+| bip_39_word_new_br_4 | great<br>kiss<br>between<br>pretty |  
+| bip_39_word_new_br_5 | great<br>kiss<br>between<br>pretty<br>change |  
+| bip_39_word_new_br_6 | great<br>kiss<br>between<br>pretty<br>change<br>glory |  
+| bip_39_word_new_br_7 | great<br>kiss<br>between<br>pretty<br>change<br>glory<br>off |  
+| bip_39_word_new_br_8 | great<br>kiss<br>between<br>pretty<br>change<br>glory<br>off<br>demise |  
+| bip_39_word_new_br_9 | great<br>kiss<br>between<br>pretty<br>change<br>glory<br>off<br>demise<br>emotion |  
+| bip_39_word_new_line_1 | great |  
+| bip_39_word_new_line_10 | great
 kiss
 between
 pretty
@@ -55,7 +55,7 @@ off
 demise
 emotion
 eye |  
-| bip_39_word_new_line11 | great
+| bip_39_word_new_line_11 | great
 kiss
 between
 pretty
@@ -66,7 +66,7 @@ demise
 emotion
 eye
 summer |  
-| bip_39_word_new_line12 | great
+| bip_39_word_new_line_12 | great
 kiss
 between
 pretty
@@ -78,34 +78,34 @@ emotion
 eye
 summer
 animal |  
-| bip_39_word_new_line2 | great
+| bip_39_word_new_line_2 | great
 kiss |  
-| bip_39_word_new_line3 | great
+| bip_39_word_new_line_3 | great
 kiss
 between |  
-| bip_39_word_new_line4 | great
+| bip_39_word_new_line_4 | great
 kiss
 between
 pretty |  
-| bip_39_word_new_line5 | great
+| bip_39_word_new_line_5 | great
 kiss
 between
 pretty
 change |  
-| bip_39_word_new_line6 | great
+| bip_39_word_new_line_6 | great
 kiss
 between
 pretty
 change
 glory |  
-| bip_39_word_new_line7 | great
+| bip_39_word_new_line_7 | great
 kiss
 between
 pretty
 change
 glory
 off |  
-| bip_39_word_new_line8 | great
+| bip_39_word_new_line_8 | great
 kiss
 between
 pretty
@@ -113,7 +113,7 @@ change
 glory
 off
 demise |  
-| bip_39_word_new_line9 | great
+| bip_39_word_new_line_9 | great
 kiss
 between
 pretty

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | double |  
-| bip_39_word_new_br10 | double<br>gospel<br>select<br>damp<br>once<br>wasp<br>erupt<br>now<br>duty<br>reward |  
-| bip_39_word_new_br11 | double<br>gospel<br>select<br>damp<br>once<br>wasp<br>erupt<br>now<br>duty<br>reward<br>attack |  
-| bip_39_word_new_br12 | double<br>gospel<br>select<br>damp<br>once<br>wasp<br>erupt<br>now<br>duty<br>reward<br>attack<br>actual |  
-| bip_39_word_new_br2 | double<br>gospel |  
-| bip_39_word_new_br3 | double<br>gospel<br>select |  
-| bip_39_word_new_br4 | double<br>gospel<br>select<br>damp |  
-| bip_39_word_new_br5 | double<br>gospel<br>select<br>damp<br>once |  
-| bip_39_word_new_br6 | double<br>gospel<br>select<br>damp<br>once<br>wasp |  
-| bip_39_word_new_br7 | double<br>gospel<br>select<br>damp<br>once<br>wasp<br>erupt |  
-| bip_39_word_new_br8 | double<br>gospel<br>select<br>damp<br>once<br>wasp<br>erupt<br>now |  
-| bip_39_word_new_br9 | double<br>gospel<br>select<br>damp<br>once<br>wasp<br>erupt<br>now<br>duty |  
-| bip_39_word_new_line1 | double |  
-| bip_39_word_new_line10 | double
+| bip_39_word_new_br_1 | double |  
+| bip_39_word_new_br_10 | double<br>gospel<br>select<br>damp<br>once<br>wasp<br>erupt<br>now<br>duty<br>reward |  
+| bip_39_word_new_br_11 | double<br>gospel<br>select<br>damp<br>once<br>wasp<br>erupt<br>now<br>duty<br>reward<br>attack |  
+| bip_39_word_new_br_12 | double<br>gospel<br>select<br>damp<br>once<br>wasp<br>erupt<br>now<br>duty<br>reward<br>attack<br>actual |  
+| bip_39_word_new_br_2 | double<br>gospel |  
+| bip_39_word_new_br_3 | double<br>gospel<br>select |  
+| bip_39_word_new_br_4 | double<br>gospel<br>select<br>damp |  
+| bip_39_word_new_br_5 | double<br>gospel<br>select<br>damp<br>once |  
+| bip_39_word_new_br_6 | double<br>gospel<br>select<br>damp<br>once<br>wasp |  
+| bip_39_word_new_br_7 | double<br>gospel<br>select<br>damp<br>once<br>wasp<br>erupt |  
+| bip_39_word_new_br_8 | double<br>gospel<br>select<br>damp<br>once<br>wasp<br>erupt<br>now |  
+| bip_39_word_new_br_9 | double<br>gospel<br>select<br>damp<br>once<br>wasp<br>erupt<br>now<br>duty |  
+| bip_39_word_new_line_1 | double |  
+| bip_39_word_new_line_10 | double
 gospel
 select
 damp
@@ -55,7 +55,7 @@ erupt
 now
 duty
 reward |  
-| bip_39_word_new_line11 | double
+| bip_39_word_new_line_11 | double
 gospel
 select
 damp
@@ -66,7 +66,7 @@ now
 duty
 reward
 attack |  
-| bip_39_word_new_line12 | double
+| bip_39_word_new_line_12 | double
 gospel
 select
 damp
@@ -78,34 +78,34 @@ duty
 reward
 attack
 actual |  
-| bip_39_word_new_line2 | double
+| bip_39_word_new_line_2 | double
 gospel |  
-| bip_39_word_new_line3 | double
+| bip_39_word_new_line_3 | double
 gospel
 select |  
-| bip_39_word_new_line4 | double
+| bip_39_word_new_line_4 | double
 gospel
 select
 damp |  
-| bip_39_word_new_line5 | double
+| bip_39_word_new_line_5 | double
 gospel
 select
 damp
 once |  
-| bip_39_word_new_line6 | double
+| bip_39_word_new_line_6 | double
 gospel
 select
 damp
 once
 wasp |  
-| bip_39_word_new_line7 | double
+| bip_39_word_new_line_7 | double
 gospel
 select
 damp
 once
 wasp
 erupt |  
-| bip_39_word_new_line8 | double
+| bip_39_word_new_line_8 | double
 gospel
 select
 damp
@@ -113,7 +113,7 @@ once
 wasp
 erupt
 now |  
-| bip_39_word_new_line9 | double
+| bip_39_word_new_line_9 | double
 gospel
 select
 damp

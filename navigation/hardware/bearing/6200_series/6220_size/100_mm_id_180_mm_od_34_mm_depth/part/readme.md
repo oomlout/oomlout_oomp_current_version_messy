@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | truly |  
-| bip_39_word_new_br10 | truly<br>claw<br>boy<br>search<br>domain<br>amazing<br>spirit<br>claim<br>receive<br>hub |  
-| bip_39_word_new_br11 | truly<br>claw<br>boy<br>search<br>domain<br>amazing<br>spirit<br>claim<br>receive<br>hub<br>field |  
-| bip_39_word_new_br12 | truly<br>claw<br>boy<br>search<br>domain<br>amazing<br>spirit<br>claim<br>receive<br>hub<br>field<br>assault |  
-| bip_39_word_new_br2 | truly<br>claw |  
-| bip_39_word_new_br3 | truly<br>claw<br>boy |  
-| bip_39_word_new_br4 | truly<br>claw<br>boy<br>search |  
-| bip_39_word_new_br5 | truly<br>claw<br>boy<br>search<br>domain |  
-| bip_39_word_new_br6 | truly<br>claw<br>boy<br>search<br>domain<br>amazing |  
-| bip_39_word_new_br7 | truly<br>claw<br>boy<br>search<br>domain<br>amazing<br>spirit |  
-| bip_39_word_new_br8 | truly<br>claw<br>boy<br>search<br>domain<br>amazing<br>spirit<br>claim |  
-| bip_39_word_new_br9 | truly<br>claw<br>boy<br>search<br>domain<br>amazing<br>spirit<br>claim<br>receive |  
-| bip_39_word_new_line1 | truly |  
-| bip_39_word_new_line10 | truly
+| bip_39_word_new_br_1 | truly |  
+| bip_39_word_new_br_10 | truly<br>claw<br>boy<br>search<br>domain<br>amazing<br>spirit<br>claim<br>receive<br>hub |  
+| bip_39_word_new_br_11 | truly<br>claw<br>boy<br>search<br>domain<br>amazing<br>spirit<br>claim<br>receive<br>hub<br>field |  
+| bip_39_word_new_br_12 | truly<br>claw<br>boy<br>search<br>domain<br>amazing<br>spirit<br>claim<br>receive<br>hub<br>field<br>assault |  
+| bip_39_word_new_br_2 | truly<br>claw |  
+| bip_39_word_new_br_3 | truly<br>claw<br>boy |  
+| bip_39_word_new_br_4 | truly<br>claw<br>boy<br>search |  
+| bip_39_word_new_br_5 | truly<br>claw<br>boy<br>search<br>domain |  
+| bip_39_word_new_br_6 | truly<br>claw<br>boy<br>search<br>domain<br>amazing |  
+| bip_39_word_new_br_7 | truly<br>claw<br>boy<br>search<br>domain<br>amazing<br>spirit |  
+| bip_39_word_new_br_8 | truly<br>claw<br>boy<br>search<br>domain<br>amazing<br>spirit<br>claim |  
+| bip_39_word_new_br_9 | truly<br>claw<br>boy<br>search<br>domain<br>amazing<br>spirit<br>claim<br>receive |  
+| bip_39_word_new_line_1 | truly |  
+| bip_39_word_new_line_10 | truly
 claw
 boy
 search
@@ -55,7 +55,7 @@ spirit
 claim
 receive
 hub |  
-| bip_39_word_new_line11 | truly
+| bip_39_word_new_line_11 | truly
 claw
 boy
 search
@@ -66,7 +66,7 @@ claim
 receive
 hub
 field |  
-| bip_39_word_new_line12 | truly
+| bip_39_word_new_line_12 | truly
 claw
 boy
 search
@@ -78,34 +78,34 @@ receive
 hub
 field
 assault |  
-| bip_39_word_new_line2 | truly
+| bip_39_word_new_line_2 | truly
 claw |  
-| bip_39_word_new_line3 | truly
+| bip_39_word_new_line_3 | truly
 claw
 boy |  
-| bip_39_word_new_line4 | truly
+| bip_39_word_new_line_4 | truly
 claw
 boy
 search |  
-| bip_39_word_new_line5 | truly
+| bip_39_word_new_line_5 | truly
 claw
 boy
 search
 domain |  
-| bip_39_word_new_line6 | truly
+| bip_39_word_new_line_6 | truly
 claw
 boy
 search
 domain
 amazing |  
-| bip_39_word_new_line7 | truly
+| bip_39_word_new_line_7 | truly
 claw
 boy
 search
 domain
 amazing
 spirit |  
-| bip_39_word_new_line8 | truly
+| bip_39_word_new_line_8 | truly
 claw
 boy
 search
@@ -113,7 +113,7 @@ domain
 amazing
 spirit
 claim |  
-| bip_39_word_new_line9 | truly
+| bip_39_word_new_line_9 | truly
 claw
 boy
 search

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | farm |  
-| bip_39_word_new_br10 | farm<br>abuse<br>coral<br>else<br>race<br>pact<br>observe<br>wire<br>jealous<br>flash |  
-| bip_39_word_new_br11 | farm<br>abuse<br>coral<br>else<br>race<br>pact<br>observe<br>wire<br>jealous<br>flash<br>reason |  
-| bip_39_word_new_br12 | farm<br>abuse<br>coral<br>else<br>race<br>pact<br>observe<br>wire<br>jealous<br>flash<br>reason<br>always |  
-| bip_39_word_new_br2 | farm<br>abuse |  
-| bip_39_word_new_br3 | farm<br>abuse<br>coral |  
-| bip_39_word_new_br4 | farm<br>abuse<br>coral<br>else |  
-| bip_39_word_new_br5 | farm<br>abuse<br>coral<br>else<br>race |  
-| bip_39_word_new_br6 | farm<br>abuse<br>coral<br>else<br>race<br>pact |  
-| bip_39_word_new_br7 | farm<br>abuse<br>coral<br>else<br>race<br>pact<br>observe |  
-| bip_39_word_new_br8 | farm<br>abuse<br>coral<br>else<br>race<br>pact<br>observe<br>wire |  
-| bip_39_word_new_br9 | farm<br>abuse<br>coral<br>else<br>race<br>pact<br>observe<br>wire<br>jealous |  
-| bip_39_word_new_line1 | farm |  
-| bip_39_word_new_line10 | farm
+| bip_39_word_new_br_1 | farm |  
+| bip_39_word_new_br_10 | farm<br>abuse<br>coral<br>else<br>race<br>pact<br>observe<br>wire<br>jealous<br>flash |  
+| bip_39_word_new_br_11 | farm<br>abuse<br>coral<br>else<br>race<br>pact<br>observe<br>wire<br>jealous<br>flash<br>reason |  
+| bip_39_word_new_br_12 | farm<br>abuse<br>coral<br>else<br>race<br>pact<br>observe<br>wire<br>jealous<br>flash<br>reason<br>always |  
+| bip_39_word_new_br_2 | farm<br>abuse |  
+| bip_39_word_new_br_3 | farm<br>abuse<br>coral |  
+| bip_39_word_new_br_4 | farm<br>abuse<br>coral<br>else |  
+| bip_39_word_new_br_5 | farm<br>abuse<br>coral<br>else<br>race |  
+| bip_39_word_new_br_6 | farm<br>abuse<br>coral<br>else<br>race<br>pact |  
+| bip_39_word_new_br_7 | farm<br>abuse<br>coral<br>else<br>race<br>pact<br>observe |  
+| bip_39_word_new_br_8 | farm<br>abuse<br>coral<br>else<br>race<br>pact<br>observe<br>wire |  
+| bip_39_word_new_br_9 | farm<br>abuse<br>coral<br>else<br>race<br>pact<br>observe<br>wire<br>jealous |  
+| bip_39_word_new_line_1 | farm |  
+| bip_39_word_new_line_10 | farm
 abuse
 coral
 else
@@ -55,7 +55,7 @@ observe
 wire
 jealous
 flash |  
-| bip_39_word_new_line11 | farm
+| bip_39_word_new_line_11 | farm
 abuse
 coral
 else
@@ -66,7 +66,7 @@ wire
 jealous
 flash
 reason |  
-| bip_39_word_new_line12 | farm
+| bip_39_word_new_line_12 | farm
 abuse
 coral
 else
@@ -78,34 +78,34 @@ jealous
 flash
 reason
 always |  
-| bip_39_word_new_line2 | farm
+| bip_39_word_new_line_2 | farm
 abuse |  
-| bip_39_word_new_line3 | farm
+| bip_39_word_new_line_3 | farm
 abuse
 coral |  
-| bip_39_word_new_line4 | farm
+| bip_39_word_new_line_4 | farm
 abuse
 coral
 else |  
-| bip_39_word_new_line5 | farm
+| bip_39_word_new_line_5 | farm
 abuse
 coral
 else
 race |  
-| bip_39_word_new_line6 | farm
+| bip_39_word_new_line_6 | farm
 abuse
 coral
 else
 race
 pact |  
-| bip_39_word_new_line7 | farm
+| bip_39_word_new_line_7 | farm
 abuse
 coral
 else
 race
 pact
 observe |  
-| bip_39_word_new_line8 | farm
+| bip_39_word_new_line_8 | farm
 abuse
 coral
 else
@@ -113,7 +113,7 @@ race
 pact
 observe
 wire |  
-| bip_39_word_new_line9 | farm
+| bip_39_word_new_line_9 | farm
 abuse
 coral
 else

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | entire |  
-| bip_39_word_new_br10 | entire<br>dizzy<br>best<br>error<br>horn<br>mistake<br>umbrella<br>long<br>switch<br>jelly |  
-| bip_39_word_new_br11 | entire<br>dizzy<br>best<br>error<br>horn<br>mistake<br>umbrella<br>long<br>switch<br>jelly<br>smooth |  
-| bip_39_word_new_br12 | entire<br>dizzy<br>best<br>error<br>horn<br>mistake<br>umbrella<br>long<br>switch<br>jelly<br>smooth<br>argue |  
-| bip_39_word_new_br2 | entire<br>dizzy |  
-| bip_39_word_new_br3 | entire<br>dizzy<br>best |  
-| bip_39_word_new_br4 | entire<br>dizzy<br>best<br>error |  
-| bip_39_word_new_br5 | entire<br>dizzy<br>best<br>error<br>horn |  
-| bip_39_word_new_br6 | entire<br>dizzy<br>best<br>error<br>horn<br>mistake |  
-| bip_39_word_new_br7 | entire<br>dizzy<br>best<br>error<br>horn<br>mistake<br>umbrella |  
-| bip_39_word_new_br8 | entire<br>dizzy<br>best<br>error<br>horn<br>mistake<br>umbrella<br>long |  
-| bip_39_word_new_br9 | entire<br>dizzy<br>best<br>error<br>horn<br>mistake<br>umbrella<br>long<br>switch |  
-| bip_39_word_new_line1 | entire |  
-| bip_39_word_new_line10 | entire
+| bip_39_word_new_br_1 | entire |  
+| bip_39_word_new_br_10 | entire<br>dizzy<br>best<br>error<br>horn<br>mistake<br>umbrella<br>long<br>switch<br>jelly |  
+| bip_39_word_new_br_11 | entire<br>dizzy<br>best<br>error<br>horn<br>mistake<br>umbrella<br>long<br>switch<br>jelly<br>smooth |  
+| bip_39_word_new_br_12 | entire<br>dizzy<br>best<br>error<br>horn<br>mistake<br>umbrella<br>long<br>switch<br>jelly<br>smooth<br>argue |  
+| bip_39_word_new_br_2 | entire<br>dizzy |  
+| bip_39_word_new_br_3 | entire<br>dizzy<br>best |  
+| bip_39_word_new_br_4 | entire<br>dizzy<br>best<br>error |  
+| bip_39_word_new_br_5 | entire<br>dizzy<br>best<br>error<br>horn |  
+| bip_39_word_new_br_6 | entire<br>dizzy<br>best<br>error<br>horn<br>mistake |  
+| bip_39_word_new_br_7 | entire<br>dizzy<br>best<br>error<br>horn<br>mistake<br>umbrella |  
+| bip_39_word_new_br_8 | entire<br>dizzy<br>best<br>error<br>horn<br>mistake<br>umbrella<br>long |  
+| bip_39_word_new_br_9 | entire<br>dizzy<br>best<br>error<br>horn<br>mistake<br>umbrella<br>long<br>switch |  
+| bip_39_word_new_line_1 | entire |  
+| bip_39_word_new_line_10 | entire
 dizzy
 best
 error
@@ -55,7 +55,7 @@ umbrella
 long
 switch
 jelly |  
-| bip_39_word_new_line11 | entire
+| bip_39_word_new_line_11 | entire
 dizzy
 best
 error
@@ -66,7 +66,7 @@ long
 switch
 jelly
 smooth |  
-| bip_39_word_new_line12 | entire
+| bip_39_word_new_line_12 | entire
 dizzy
 best
 error
@@ -78,34 +78,34 @@ switch
 jelly
 smooth
 argue |  
-| bip_39_word_new_line2 | entire
+| bip_39_word_new_line_2 | entire
 dizzy |  
-| bip_39_word_new_line3 | entire
+| bip_39_word_new_line_3 | entire
 dizzy
 best |  
-| bip_39_word_new_line4 | entire
+| bip_39_word_new_line_4 | entire
 dizzy
 best
 error |  
-| bip_39_word_new_line5 | entire
+| bip_39_word_new_line_5 | entire
 dizzy
 best
 error
 horn |  
-| bip_39_word_new_line6 | entire
+| bip_39_word_new_line_6 | entire
 dizzy
 best
 error
 horn
 mistake |  
-| bip_39_word_new_line7 | entire
+| bip_39_word_new_line_7 | entire
 dizzy
 best
 error
 horn
 mistake
 umbrella |  
-| bip_39_word_new_line8 | entire
+| bip_39_word_new_line_8 | entire
 dizzy
 best
 error
@@ -113,7 +113,7 @@ horn
 mistake
 umbrella
 long |  
-| bip_39_word_new_line9 | entire
+| bip_39_word_new_line_9 | entire
 dizzy
 best
 error

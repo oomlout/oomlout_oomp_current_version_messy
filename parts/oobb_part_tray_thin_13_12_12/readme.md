@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | capital |  
-| bip_39_word_new_br10 | capital<br>tomorrow<br>inmate<br>another<br>crawl<br>real<br>hospital<br>primary<br>fatigue<br>simple |  
-| bip_39_word_new_br11 | capital<br>tomorrow<br>inmate<br>another<br>crawl<br>real<br>hospital<br>primary<br>fatigue<br>simple<br>sword |  
-| bip_39_word_new_br12 | capital<br>tomorrow<br>inmate<br>another<br>crawl<br>real<br>hospital<br>primary<br>fatigue<br>simple<br>sword<br>army |  
-| bip_39_word_new_br2 | capital<br>tomorrow |  
-| bip_39_word_new_br3 | capital<br>tomorrow<br>inmate |  
-| bip_39_word_new_br4 | capital<br>tomorrow<br>inmate<br>another |  
-| bip_39_word_new_br5 | capital<br>tomorrow<br>inmate<br>another<br>crawl |  
-| bip_39_word_new_br6 | capital<br>tomorrow<br>inmate<br>another<br>crawl<br>real |  
-| bip_39_word_new_br7 | capital<br>tomorrow<br>inmate<br>another<br>crawl<br>real<br>hospital |  
-| bip_39_word_new_br8 | capital<br>tomorrow<br>inmate<br>another<br>crawl<br>real<br>hospital<br>primary |  
-| bip_39_word_new_br9 | capital<br>tomorrow<br>inmate<br>another<br>crawl<br>real<br>hospital<br>primary<br>fatigue |  
-| bip_39_word_new_line1 | capital |  
-| bip_39_word_new_line10 | capital
+| bip_39_word_new_br_1 | capital |  
+| bip_39_word_new_br_10 | capital<br>tomorrow<br>inmate<br>another<br>crawl<br>real<br>hospital<br>primary<br>fatigue<br>simple |  
+| bip_39_word_new_br_11 | capital<br>tomorrow<br>inmate<br>another<br>crawl<br>real<br>hospital<br>primary<br>fatigue<br>simple<br>sword |  
+| bip_39_word_new_br_12 | capital<br>tomorrow<br>inmate<br>another<br>crawl<br>real<br>hospital<br>primary<br>fatigue<br>simple<br>sword<br>army |  
+| bip_39_word_new_br_2 | capital<br>tomorrow |  
+| bip_39_word_new_br_3 | capital<br>tomorrow<br>inmate |  
+| bip_39_word_new_br_4 | capital<br>tomorrow<br>inmate<br>another |  
+| bip_39_word_new_br_5 | capital<br>tomorrow<br>inmate<br>another<br>crawl |  
+| bip_39_word_new_br_6 | capital<br>tomorrow<br>inmate<br>another<br>crawl<br>real |  
+| bip_39_word_new_br_7 | capital<br>tomorrow<br>inmate<br>another<br>crawl<br>real<br>hospital |  
+| bip_39_word_new_br_8 | capital<br>tomorrow<br>inmate<br>another<br>crawl<br>real<br>hospital<br>primary |  
+| bip_39_word_new_br_9 | capital<br>tomorrow<br>inmate<br>another<br>crawl<br>real<br>hospital<br>primary<br>fatigue |  
+| bip_39_word_new_line_1 | capital |  
+| bip_39_word_new_line_10 | capital
 tomorrow
 inmate
 another
@@ -55,7 +55,7 @@ hospital
 primary
 fatigue
 simple |  
-| bip_39_word_new_line11 | capital
+| bip_39_word_new_line_11 | capital
 tomorrow
 inmate
 another
@@ -66,7 +66,7 @@ primary
 fatigue
 simple
 sword |  
-| bip_39_word_new_line12 | capital
+| bip_39_word_new_line_12 | capital
 tomorrow
 inmate
 another
@@ -78,34 +78,34 @@ fatigue
 simple
 sword
 army |  
-| bip_39_word_new_line2 | capital
+| bip_39_word_new_line_2 | capital
 tomorrow |  
-| bip_39_word_new_line3 | capital
+| bip_39_word_new_line_3 | capital
 tomorrow
 inmate |  
-| bip_39_word_new_line4 | capital
+| bip_39_word_new_line_4 | capital
 tomorrow
 inmate
 another |  
-| bip_39_word_new_line5 | capital
+| bip_39_word_new_line_5 | capital
 tomorrow
 inmate
 another
 crawl |  
-| bip_39_word_new_line6 | capital
+| bip_39_word_new_line_6 | capital
 tomorrow
 inmate
 another
 crawl
 real |  
-| bip_39_word_new_line7 | capital
+| bip_39_word_new_line_7 | capital
 tomorrow
 inmate
 another
 crawl
 real
 hospital |  
-| bip_39_word_new_line8 | capital
+| bip_39_word_new_line_8 | capital
 tomorrow
 inmate
 another
@@ -113,7 +113,7 @@ crawl
 real
 hospital
 primary |  
-| bip_39_word_new_line9 | capital
+| bip_39_word_new_line_9 | capital
 tomorrow
 inmate
 another

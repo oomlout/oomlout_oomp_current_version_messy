@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | civil |  
-| bip_39_word_new_br10 | civil<br>shoot<br>urban<br>future<br>divert<br>sister<br>stomach<br>symbol<br>small<br>pen |  
-| bip_39_word_new_br11 | civil<br>shoot<br>urban<br>future<br>divert<br>sister<br>stomach<br>symbol<br>small<br>pen<br>detect |  
-| bip_39_word_new_br12 | civil<br>shoot<br>urban<br>future<br>divert<br>sister<br>stomach<br>symbol<br>small<br>pen<br>detect<br>artwork |  
-| bip_39_word_new_br2 | civil<br>shoot |  
-| bip_39_word_new_br3 | civil<br>shoot<br>urban |  
-| bip_39_word_new_br4 | civil<br>shoot<br>urban<br>future |  
-| bip_39_word_new_br5 | civil<br>shoot<br>urban<br>future<br>divert |  
-| bip_39_word_new_br6 | civil<br>shoot<br>urban<br>future<br>divert<br>sister |  
-| bip_39_word_new_br7 | civil<br>shoot<br>urban<br>future<br>divert<br>sister<br>stomach |  
-| bip_39_word_new_br8 | civil<br>shoot<br>urban<br>future<br>divert<br>sister<br>stomach<br>symbol |  
-| bip_39_word_new_br9 | civil<br>shoot<br>urban<br>future<br>divert<br>sister<br>stomach<br>symbol<br>small |  
-| bip_39_word_new_line1 | civil |  
-| bip_39_word_new_line10 | civil
+| bip_39_word_new_br_1 | civil |  
+| bip_39_word_new_br_10 | civil<br>shoot<br>urban<br>future<br>divert<br>sister<br>stomach<br>symbol<br>small<br>pen |  
+| bip_39_word_new_br_11 | civil<br>shoot<br>urban<br>future<br>divert<br>sister<br>stomach<br>symbol<br>small<br>pen<br>detect |  
+| bip_39_word_new_br_12 | civil<br>shoot<br>urban<br>future<br>divert<br>sister<br>stomach<br>symbol<br>small<br>pen<br>detect<br>artwork |  
+| bip_39_word_new_br_2 | civil<br>shoot |  
+| bip_39_word_new_br_3 | civil<br>shoot<br>urban |  
+| bip_39_word_new_br_4 | civil<br>shoot<br>urban<br>future |  
+| bip_39_word_new_br_5 | civil<br>shoot<br>urban<br>future<br>divert |  
+| bip_39_word_new_br_6 | civil<br>shoot<br>urban<br>future<br>divert<br>sister |  
+| bip_39_word_new_br_7 | civil<br>shoot<br>urban<br>future<br>divert<br>sister<br>stomach |  
+| bip_39_word_new_br_8 | civil<br>shoot<br>urban<br>future<br>divert<br>sister<br>stomach<br>symbol |  
+| bip_39_word_new_br_9 | civil<br>shoot<br>urban<br>future<br>divert<br>sister<br>stomach<br>symbol<br>small |  
+| bip_39_word_new_line_1 | civil |  
+| bip_39_word_new_line_10 | civil
 shoot
 urban
 future
@@ -55,7 +55,7 @@ stomach
 symbol
 small
 pen |  
-| bip_39_word_new_line11 | civil
+| bip_39_word_new_line_11 | civil
 shoot
 urban
 future
@@ -66,7 +66,7 @@ symbol
 small
 pen
 detect |  
-| bip_39_word_new_line12 | civil
+| bip_39_word_new_line_12 | civil
 shoot
 urban
 future
@@ -78,34 +78,34 @@ small
 pen
 detect
 artwork |  
-| bip_39_word_new_line2 | civil
+| bip_39_word_new_line_2 | civil
 shoot |  
-| bip_39_word_new_line3 | civil
+| bip_39_word_new_line_3 | civil
 shoot
 urban |  
-| bip_39_word_new_line4 | civil
+| bip_39_word_new_line_4 | civil
 shoot
 urban
 future |  
-| bip_39_word_new_line5 | civil
+| bip_39_word_new_line_5 | civil
 shoot
 urban
 future
 divert |  
-| bip_39_word_new_line6 | civil
+| bip_39_word_new_line_6 | civil
 shoot
 urban
 future
 divert
 sister |  
-| bip_39_word_new_line7 | civil
+| bip_39_word_new_line_7 | civil
 shoot
 urban
 future
 divert
 sister
 stomach |  
-| bip_39_word_new_line8 | civil
+| bip_39_word_new_line_8 | civil
 shoot
 urban
 future
@@ -113,7 +113,7 @@ divert
 sister
 stomach
 symbol |  
-| bip_39_word_new_line9 | civil
+| bip_39_word_new_line_9 | civil
 shoot
 urban
 future

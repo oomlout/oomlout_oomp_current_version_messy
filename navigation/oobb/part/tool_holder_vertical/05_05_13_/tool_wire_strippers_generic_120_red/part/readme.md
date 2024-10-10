@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | lamp |  
-| bip_39_word_new_br10 | lamp<br>shield<br>reduce<br>option<br>tenant<br>artefact<br>mercy<br>demise<br>clever<br>hedgehog |  
-| bip_39_word_new_br11 | lamp<br>shield<br>reduce<br>option<br>tenant<br>artefact<br>mercy<br>demise<br>clever<br>hedgehog<br>bronze |  
-| bip_39_word_new_br12 | lamp<br>shield<br>reduce<br>option<br>tenant<br>artefact<br>mercy<br>demise<br>clever<br>hedgehog<br>bronze<br>adjust |  
-| bip_39_word_new_br2 | lamp<br>shield |  
-| bip_39_word_new_br3 | lamp<br>shield<br>reduce |  
-| bip_39_word_new_br4 | lamp<br>shield<br>reduce<br>option |  
-| bip_39_word_new_br5 | lamp<br>shield<br>reduce<br>option<br>tenant |  
-| bip_39_word_new_br6 | lamp<br>shield<br>reduce<br>option<br>tenant<br>artefact |  
-| bip_39_word_new_br7 | lamp<br>shield<br>reduce<br>option<br>tenant<br>artefact<br>mercy |  
-| bip_39_word_new_br8 | lamp<br>shield<br>reduce<br>option<br>tenant<br>artefact<br>mercy<br>demise |  
-| bip_39_word_new_br9 | lamp<br>shield<br>reduce<br>option<br>tenant<br>artefact<br>mercy<br>demise<br>clever |  
-| bip_39_word_new_line1 | lamp |  
-| bip_39_word_new_line10 | lamp
+| bip_39_word_new_br_1 | lamp |  
+| bip_39_word_new_br_10 | lamp<br>shield<br>reduce<br>option<br>tenant<br>artefact<br>mercy<br>demise<br>clever<br>hedgehog |  
+| bip_39_word_new_br_11 | lamp<br>shield<br>reduce<br>option<br>tenant<br>artefact<br>mercy<br>demise<br>clever<br>hedgehog<br>bronze |  
+| bip_39_word_new_br_12 | lamp<br>shield<br>reduce<br>option<br>tenant<br>artefact<br>mercy<br>demise<br>clever<br>hedgehog<br>bronze<br>adjust |  
+| bip_39_word_new_br_2 | lamp<br>shield |  
+| bip_39_word_new_br_3 | lamp<br>shield<br>reduce |  
+| bip_39_word_new_br_4 | lamp<br>shield<br>reduce<br>option |  
+| bip_39_word_new_br_5 | lamp<br>shield<br>reduce<br>option<br>tenant |  
+| bip_39_word_new_br_6 | lamp<br>shield<br>reduce<br>option<br>tenant<br>artefact |  
+| bip_39_word_new_br_7 | lamp<br>shield<br>reduce<br>option<br>tenant<br>artefact<br>mercy |  
+| bip_39_word_new_br_8 | lamp<br>shield<br>reduce<br>option<br>tenant<br>artefact<br>mercy<br>demise |  
+| bip_39_word_new_br_9 | lamp<br>shield<br>reduce<br>option<br>tenant<br>artefact<br>mercy<br>demise<br>clever |  
+| bip_39_word_new_line_1 | lamp |  
+| bip_39_word_new_line_10 | lamp
 shield
 reduce
 option
@@ -55,7 +55,7 @@ mercy
 demise
 clever
 hedgehog |  
-| bip_39_word_new_line11 | lamp
+| bip_39_word_new_line_11 | lamp
 shield
 reduce
 option
@@ -66,7 +66,7 @@ demise
 clever
 hedgehog
 bronze |  
-| bip_39_word_new_line12 | lamp
+| bip_39_word_new_line_12 | lamp
 shield
 reduce
 option
@@ -78,34 +78,34 @@ clever
 hedgehog
 bronze
 adjust |  
-| bip_39_word_new_line2 | lamp
+| bip_39_word_new_line_2 | lamp
 shield |  
-| bip_39_word_new_line3 | lamp
+| bip_39_word_new_line_3 | lamp
 shield
 reduce |  
-| bip_39_word_new_line4 | lamp
+| bip_39_word_new_line_4 | lamp
 shield
 reduce
 option |  
-| bip_39_word_new_line5 | lamp
+| bip_39_word_new_line_5 | lamp
 shield
 reduce
 option
 tenant |  
-| bip_39_word_new_line6 | lamp
+| bip_39_word_new_line_6 | lamp
 shield
 reduce
 option
 tenant
 artefact |  
-| bip_39_word_new_line7 | lamp
+| bip_39_word_new_line_7 | lamp
 shield
 reduce
 option
 tenant
 artefact
 mercy |  
-| bip_39_word_new_line8 | lamp
+| bip_39_word_new_line_8 | lamp
 shield
 reduce
 option
@@ -113,7 +113,7 @@ tenant
 artefact
 mercy
 demise |  
-| bip_39_word_new_line9 | lamp
+| bip_39_word_new_line_9 | lamp
 shield
 reduce
 option

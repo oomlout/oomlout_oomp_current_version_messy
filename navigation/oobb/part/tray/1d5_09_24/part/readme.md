@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | oppose |  
-| bip_39_word_new_br10 | oppose<br>execute<br>happy<br>sketch<br>ethics<br>place<br>athlete<br>pistol<br>screen<br>chef |  
-| bip_39_word_new_br11 | oppose<br>execute<br>happy<br>sketch<br>ethics<br>place<br>athlete<br>pistol<br>screen<br>chef<br>badge |  
-| bip_39_word_new_br12 | oppose<br>execute<br>happy<br>sketch<br>ethics<br>place<br>athlete<br>pistol<br>screen<br>chef<br>badge<br>atom |  
-| bip_39_word_new_br2 | oppose<br>execute |  
-| bip_39_word_new_br3 | oppose<br>execute<br>happy |  
-| bip_39_word_new_br4 | oppose<br>execute<br>happy<br>sketch |  
-| bip_39_word_new_br5 | oppose<br>execute<br>happy<br>sketch<br>ethics |  
-| bip_39_word_new_br6 | oppose<br>execute<br>happy<br>sketch<br>ethics<br>place |  
-| bip_39_word_new_br7 | oppose<br>execute<br>happy<br>sketch<br>ethics<br>place<br>athlete |  
-| bip_39_word_new_br8 | oppose<br>execute<br>happy<br>sketch<br>ethics<br>place<br>athlete<br>pistol |  
-| bip_39_word_new_br9 | oppose<br>execute<br>happy<br>sketch<br>ethics<br>place<br>athlete<br>pistol<br>screen |  
-| bip_39_word_new_line1 | oppose |  
-| bip_39_word_new_line10 | oppose
+| bip_39_word_new_br_1 | oppose |  
+| bip_39_word_new_br_10 | oppose<br>execute<br>happy<br>sketch<br>ethics<br>place<br>athlete<br>pistol<br>screen<br>chef |  
+| bip_39_word_new_br_11 | oppose<br>execute<br>happy<br>sketch<br>ethics<br>place<br>athlete<br>pistol<br>screen<br>chef<br>badge |  
+| bip_39_word_new_br_12 | oppose<br>execute<br>happy<br>sketch<br>ethics<br>place<br>athlete<br>pistol<br>screen<br>chef<br>badge<br>atom |  
+| bip_39_word_new_br_2 | oppose<br>execute |  
+| bip_39_word_new_br_3 | oppose<br>execute<br>happy |  
+| bip_39_word_new_br_4 | oppose<br>execute<br>happy<br>sketch |  
+| bip_39_word_new_br_5 | oppose<br>execute<br>happy<br>sketch<br>ethics |  
+| bip_39_word_new_br_6 | oppose<br>execute<br>happy<br>sketch<br>ethics<br>place |  
+| bip_39_word_new_br_7 | oppose<br>execute<br>happy<br>sketch<br>ethics<br>place<br>athlete |  
+| bip_39_word_new_br_8 | oppose<br>execute<br>happy<br>sketch<br>ethics<br>place<br>athlete<br>pistol |  
+| bip_39_word_new_br_9 | oppose<br>execute<br>happy<br>sketch<br>ethics<br>place<br>athlete<br>pistol<br>screen |  
+| bip_39_word_new_line_1 | oppose |  
+| bip_39_word_new_line_10 | oppose
 execute
 happy
 sketch
@@ -55,7 +55,7 @@ athlete
 pistol
 screen
 chef |  
-| bip_39_word_new_line11 | oppose
+| bip_39_word_new_line_11 | oppose
 execute
 happy
 sketch
@@ -66,7 +66,7 @@ pistol
 screen
 chef
 badge |  
-| bip_39_word_new_line12 | oppose
+| bip_39_word_new_line_12 | oppose
 execute
 happy
 sketch
@@ -78,34 +78,34 @@ screen
 chef
 badge
 atom |  
-| bip_39_word_new_line2 | oppose
+| bip_39_word_new_line_2 | oppose
 execute |  
-| bip_39_word_new_line3 | oppose
+| bip_39_word_new_line_3 | oppose
 execute
 happy |  
-| bip_39_word_new_line4 | oppose
+| bip_39_word_new_line_4 | oppose
 execute
 happy
 sketch |  
-| bip_39_word_new_line5 | oppose
+| bip_39_word_new_line_5 | oppose
 execute
 happy
 sketch
 ethics |  
-| bip_39_word_new_line6 | oppose
+| bip_39_word_new_line_6 | oppose
 execute
 happy
 sketch
 ethics
 place |  
-| bip_39_word_new_line7 | oppose
+| bip_39_word_new_line_7 | oppose
 execute
 happy
 sketch
 ethics
 place
 athlete |  
-| bip_39_word_new_line8 | oppose
+| bip_39_word_new_line_8 | oppose
 execute
 happy
 sketch
@@ -113,7 +113,7 @@ ethics
 place
 athlete
 pistol |  
-| bip_39_word_new_line9 | oppose
+| bip_39_word_new_line_9 | oppose
 execute
 happy
 sketch

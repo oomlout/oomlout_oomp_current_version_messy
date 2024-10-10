@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | guitar |  
-| bip_39_word_new_br10 | guitar<br>badge<br>table<br>undo<br>bring<br>small<br>rebel<br>bone<br>actual<br>plastic |  
-| bip_39_word_new_br11 | guitar<br>badge<br>table<br>undo<br>bring<br>small<br>rebel<br>bone<br>actual<br>plastic<br>virtual |  
-| bip_39_word_new_br12 | guitar<br>badge<br>table<br>undo<br>bring<br>small<br>rebel<br>bone<br>actual<br>plastic<br>virtual<br>apart |  
-| bip_39_word_new_br2 | guitar<br>badge |  
-| bip_39_word_new_br3 | guitar<br>badge<br>table |  
-| bip_39_word_new_br4 | guitar<br>badge<br>table<br>undo |  
-| bip_39_word_new_br5 | guitar<br>badge<br>table<br>undo<br>bring |  
-| bip_39_word_new_br6 | guitar<br>badge<br>table<br>undo<br>bring<br>small |  
-| bip_39_word_new_br7 | guitar<br>badge<br>table<br>undo<br>bring<br>small<br>rebel |  
-| bip_39_word_new_br8 | guitar<br>badge<br>table<br>undo<br>bring<br>small<br>rebel<br>bone |  
-| bip_39_word_new_br9 | guitar<br>badge<br>table<br>undo<br>bring<br>small<br>rebel<br>bone<br>actual |  
-| bip_39_word_new_line1 | guitar |  
-| bip_39_word_new_line10 | guitar
+| bip_39_word_new_br_1 | guitar |  
+| bip_39_word_new_br_10 | guitar<br>badge<br>table<br>undo<br>bring<br>small<br>rebel<br>bone<br>actual<br>plastic |  
+| bip_39_word_new_br_11 | guitar<br>badge<br>table<br>undo<br>bring<br>small<br>rebel<br>bone<br>actual<br>plastic<br>virtual |  
+| bip_39_word_new_br_12 | guitar<br>badge<br>table<br>undo<br>bring<br>small<br>rebel<br>bone<br>actual<br>plastic<br>virtual<br>apart |  
+| bip_39_word_new_br_2 | guitar<br>badge |  
+| bip_39_word_new_br_3 | guitar<br>badge<br>table |  
+| bip_39_word_new_br_4 | guitar<br>badge<br>table<br>undo |  
+| bip_39_word_new_br_5 | guitar<br>badge<br>table<br>undo<br>bring |  
+| bip_39_word_new_br_6 | guitar<br>badge<br>table<br>undo<br>bring<br>small |  
+| bip_39_word_new_br_7 | guitar<br>badge<br>table<br>undo<br>bring<br>small<br>rebel |  
+| bip_39_word_new_br_8 | guitar<br>badge<br>table<br>undo<br>bring<br>small<br>rebel<br>bone |  
+| bip_39_word_new_br_9 | guitar<br>badge<br>table<br>undo<br>bring<br>small<br>rebel<br>bone<br>actual |  
+| bip_39_word_new_line_1 | guitar |  
+| bip_39_word_new_line_10 | guitar
 badge
 table
 undo
@@ -55,7 +55,7 @@ rebel
 bone
 actual
 plastic |  
-| bip_39_word_new_line11 | guitar
+| bip_39_word_new_line_11 | guitar
 badge
 table
 undo
@@ -66,7 +66,7 @@ bone
 actual
 plastic
 virtual |  
-| bip_39_word_new_line12 | guitar
+| bip_39_word_new_line_12 | guitar
 badge
 table
 undo
@@ -78,34 +78,34 @@ actual
 plastic
 virtual
 apart |  
-| bip_39_word_new_line2 | guitar
+| bip_39_word_new_line_2 | guitar
 badge |  
-| bip_39_word_new_line3 | guitar
+| bip_39_word_new_line_3 | guitar
 badge
 table |  
-| bip_39_word_new_line4 | guitar
+| bip_39_word_new_line_4 | guitar
 badge
 table
 undo |  
-| bip_39_word_new_line5 | guitar
+| bip_39_word_new_line_5 | guitar
 badge
 table
 undo
 bring |  
-| bip_39_word_new_line6 | guitar
+| bip_39_word_new_line_6 | guitar
 badge
 table
 undo
 bring
 small |  
-| bip_39_word_new_line7 | guitar
+| bip_39_word_new_line_7 | guitar
 badge
 table
 undo
 bring
 small
 rebel |  
-| bip_39_word_new_line8 | guitar
+| bip_39_word_new_line_8 | guitar
 badge
 table
 undo
@@ -113,7 +113,7 @@ bring
 small
 rebel
 bone |  
-| bip_39_word_new_line9 | guitar
+| bip_39_word_new_line_9 | guitar
 badge
 table
 undo

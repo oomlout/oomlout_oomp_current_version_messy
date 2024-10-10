@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fault |  
-| bip_39_word_new_br10 | fault<br>lady<br>twist<br>shallow<br>employ<br>afraid<br>build<br>island<br>combine<br>grocery |  
-| bip_39_word_new_br11 | fault<br>lady<br>twist<br>shallow<br>employ<br>afraid<br>build<br>island<br>combine<br>grocery<br>alone |  
-| bip_39_word_new_br12 | fault<br>lady<br>twist<br>shallow<br>employ<br>afraid<br>build<br>island<br>combine<br>grocery<br>alone<br>address |  
-| bip_39_word_new_br2 | fault<br>lady |  
-| bip_39_word_new_br3 | fault<br>lady<br>twist |  
-| bip_39_word_new_br4 | fault<br>lady<br>twist<br>shallow |  
-| bip_39_word_new_br5 | fault<br>lady<br>twist<br>shallow<br>employ |  
-| bip_39_word_new_br6 | fault<br>lady<br>twist<br>shallow<br>employ<br>afraid |  
-| bip_39_word_new_br7 | fault<br>lady<br>twist<br>shallow<br>employ<br>afraid<br>build |  
-| bip_39_word_new_br8 | fault<br>lady<br>twist<br>shallow<br>employ<br>afraid<br>build<br>island |  
-| bip_39_word_new_br9 | fault<br>lady<br>twist<br>shallow<br>employ<br>afraid<br>build<br>island<br>combine |  
-| bip_39_word_new_line1 | fault |  
-| bip_39_word_new_line10 | fault
+| bip_39_word_new_br_1 | fault |  
+| bip_39_word_new_br_10 | fault<br>lady<br>twist<br>shallow<br>employ<br>afraid<br>build<br>island<br>combine<br>grocery |  
+| bip_39_word_new_br_11 | fault<br>lady<br>twist<br>shallow<br>employ<br>afraid<br>build<br>island<br>combine<br>grocery<br>alone |  
+| bip_39_word_new_br_12 | fault<br>lady<br>twist<br>shallow<br>employ<br>afraid<br>build<br>island<br>combine<br>grocery<br>alone<br>address |  
+| bip_39_word_new_br_2 | fault<br>lady |  
+| bip_39_word_new_br_3 | fault<br>lady<br>twist |  
+| bip_39_word_new_br_4 | fault<br>lady<br>twist<br>shallow |  
+| bip_39_word_new_br_5 | fault<br>lady<br>twist<br>shallow<br>employ |  
+| bip_39_word_new_br_6 | fault<br>lady<br>twist<br>shallow<br>employ<br>afraid |  
+| bip_39_word_new_br_7 | fault<br>lady<br>twist<br>shallow<br>employ<br>afraid<br>build |  
+| bip_39_word_new_br_8 | fault<br>lady<br>twist<br>shallow<br>employ<br>afraid<br>build<br>island |  
+| bip_39_word_new_br_9 | fault<br>lady<br>twist<br>shallow<br>employ<br>afraid<br>build<br>island<br>combine |  
+| bip_39_word_new_line_1 | fault |  
+| bip_39_word_new_line_10 | fault
 lady
 twist
 shallow
@@ -55,7 +55,7 @@ build
 island
 combine
 grocery |  
-| bip_39_word_new_line11 | fault
+| bip_39_word_new_line_11 | fault
 lady
 twist
 shallow
@@ -66,7 +66,7 @@ island
 combine
 grocery
 alone |  
-| bip_39_word_new_line12 | fault
+| bip_39_word_new_line_12 | fault
 lady
 twist
 shallow
@@ -78,34 +78,34 @@ combine
 grocery
 alone
 address |  
-| bip_39_word_new_line2 | fault
+| bip_39_word_new_line_2 | fault
 lady |  
-| bip_39_word_new_line3 | fault
+| bip_39_word_new_line_3 | fault
 lady
 twist |  
-| bip_39_word_new_line4 | fault
+| bip_39_word_new_line_4 | fault
 lady
 twist
 shallow |  
-| bip_39_word_new_line5 | fault
+| bip_39_word_new_line_5 | fault
 lady
 twist
 shallow
 employ |  
-| bip_39_word_new_line6 | fault
+| bip_39_word_new_line_6 | fault
 lady
 twist
 shallow
 employ
 afraid |  
-| bip_39_word_new_line7 | fault
+| bip_39_word_new_line_7 | fault
 lady
 twist
 shallow
 employ
 afraid
 build |  
-| bip_39_word_new_line8 | fault
+| bip_39_word_new_line_8 | fault
 lady
 twist
 shallow
@@ -113,7 +113,7 @@ employ
 afraid
 build
 island |  
-| bip_39_word_new_line9 | fault
+| bip_39_word_new_line_9 | fault
 lady
 twist
 shallow

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | stamp |  
-| bip_39_word_new_br10 | stamp<br>collect<br>auction<br>attract<br>fiscal<br>jacket<br>gentle<br>innocent<br>merit<br>shoot |  
-| bip_39_word_new_br11 | stamp<br>collect<br>auction<br>attract<br>fiscal<br>jacket<br>gentle<br>innocent<br>merit<br>shoot<br>below |  
-| bip_39_word_new_br12 | stamp<br>collect<br>auction<br>attract<br>fiscal<br>jacket<br>gentle<br>innocent<br>merit<br>shoot<br>below<br>angry |  
-| bip_39_word_new_br2 | stamp<br>collect |  
-| bip_39_word_new_br3 | stamp<br>collect<br>auction |  
-| bip_39_word_new_br4 | stamp<br>collect<br>auction<br>attract |  
-| bip_39_word_new_br5 | stamp<br>collect<br>auction<br>attract<br>fiscal |  
-| bip_39_word_new_br6 | stamp<br>collect<br>auction<br>attract<br>fiscal<br>jacket |  
-| bip_39_word_new_br7 | stamp<br>collect<br>auction<br>attract<br>fiscal<br>jacket<br>gentle |  
-| bip_39_word_new_br8 | stamp<br>collect<br>auction<br>attract<br>fiscal<br>jacket<br>gentle<br>innocent |  
-| bip_39_word_new_br9 | stamp<br>collect<br>auction<br>attract<br>fiscal<br>jacket<br>gentle<br>innocent<br>merit |  
-| bip_39_word_new_line1 | stamp |  
-| bip_39_word_new_line10 | stamp
+| bip_39_word_new_br_1 | stamp |  
+| bip_39_word_new_br_10 | stamp<br>collect<br>auction<br>attract<br>fiscal<br>jacket<br>gentle<br>innocent<br>merit<br>shoot |  
+| bip_39_word_new_br_11 | stamp<br>collect<br>auction<br>attract<br>fiscal<br>jacket<br>gentle<br>innocent<br>merit<br>shoot<br>below |  
+| bip_39_word_new_br_12 | stamp<br>collect<br>auction<br>attract<br>fiscal<br>jacket<br>gentle<br>innocent<br>merit<br>shoot<br>below<br>angry |  
+| bip_39_word_new_br_2 | stamp<br>collect |  
+| bip_39_word_new_br_3 | stamp<br>collect<br>auction |  
+| bip_39_word_new_br_4 | stamp<br>collect<br>auction<br>attract |  
+| bip_39_word_new_br_5 | stamp<br>collect<br>auction<br>attract<br>fiscal |  
+| bip_39_word_new_br_6 | stamp<br>collect<br>auction<br>attract<br>fiscal<br>jacket |  
+| bip_39_word_new_br_7 | stamp<br>collect<br>auction<br>attract<br>fiscal<br>jacket<br>gentle |  
+| bip_39_word_new_br_8 | stamp<br>collect<br>auction<br>attract<br>fiscal<br>jacket<br>gentle<br>innocent |  
+| bip_39_word_new_br_9 | stamp<br>collect<br>auction<br>attract<br>fiscal<br>jacket<br>gentle<br>innocent<br>merit |  
+| bip_39_word_new_line_1 | stamp |  
+| bip_39_word_new_line_10 | stamp
 collect
 auction
 attract
@@ -55,7 +55,7 @@ gentle
 innocent
 merit
 shoot |  
-| bip_39_word_new_line11 | stamp
+| bip_39_word_new_line_11 | stamp
 collect
 auction
 attract
@@ -66,7 +66,7 @@ innocent
 merit
 shoot
 below |  
-| bip_39_word_new_line12 | stamp
+| bip_39_word_new_line_12 | stamp
 collect
 auction
 attract
@@ -78,34 +78,34 @@ merit
 shoot
 below
 angry |  
-| bip_39_word_new_line2 | stamp
+| bip_39_word_new_line_2 | stamp
 collect |  
-| bip_39_word_new_line3 | stamp
+| bip_39_word_new_line_3 | stamp
 collect
 auction |  
-| bip_39_word_new_line4 | stamp
+| bip_39_word_new_line_4 | stamp
 collect
 auction
 attract |  
-| bip_39_word_new_line5 | stamp
+| bip_39_word_new_line_5 | stamp
 collect
 auction
 attract
 fiscal |  
-| bip_39_word_new_line6 | stamp
+| bip_39_word_new_line_6 | stamp
 collect
 auction
 attract
 fiscal
 jacket |  
-| bip_39_word_new_line7 | stamp
+| bip_39_word_new_line_7 | stamp
 collect
 auction
 attract
 fiscal
 jacket
 gentle |  
-| bip_39_word_new_line8 | stamp
+| bip_39_word_new_line_8 | stamp
 collect
 auction
 attract
@@ -113,7 +113,7 @@ fiscal
 jacket
 gentle
 innocent |  
-| bip_39_word_new_line9 | stamp
+| bip_39_word_new_line_9 | stamp
 collect
 auction
 attract

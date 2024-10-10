@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | drip |  
-| bip_39_word_new_br10 | drip<br>fuel<br>useless<br>vital<br>endless<br>insect<br>mouse<br>tuition<br>subject<br>solid |  
-| bip_39_word_new_br11 | drip<br>fuel<br>useless<br>vital<br>endless<br>insect<br>mouse<br>tuition<br>subject<br>solid<br>cool |  
-| bip_39_word_new_br12 | drip<br>fuel<br>useless<br>vital<br>endless<br>insect<br>mouse<br>tuition<br>subject<br>solid<br>cool<br>absent |  
-| bip_39_word_new_br2 | drip<br>fuel |  
-| bip_39_word_new_br3 | drip<br>fuel<br>useless |  
-| bip_39_word_new_br4 | drip<br>fuel<br>useless<br>vital |  
-| bip_39_word_new_br5 | drip<br>fuel<br>useless<br>vital<br>endless |  
-| bip_39_word_new_br6 | drip<br>fuel<br>useless<br>vital<br>endless<br>insect |  
-| bip_39_word_new_br7 | drip<br>fuel<br>useless<br>vital<br>endless<br>insect<br>mouse |  
-| bip_39_word_new_br8 | drip<br>fuel<br>useless<br>vital<br>endless<br>insect<br>mouse<br>tuition |  
-| bip_39_word_new_br9 | drip<br>fuel<br>useless<br>vital<br>endless<br>insect<br>mouse<br>tuition<br>subject |  
-| bip_39_word_new_line1 | drip |  
-| bip_39_word_new_line10 | drip
+| bip_39_word_new_br_1 | drip |  
+| bip_39_word_new_br_10 | drip<br>fuel<br>useless<br>vital<br>endless<br>insect<br>mouse<br>tuition<br>subject<br>solid |  
+| bip_39_word_new_br_11 | drip<br>fuel<br>useless<br>vital<br>endless<br>insect<br>mouse<br>tuition<br>subject<br>solid<br>cool |  
+| bip_39_word_new_br_12 | drip<br>fuel<br>useless<br>vital<br>endless<br>insect<br>mouse<br>tuition<br>subject<br>solid<br>cool<br>absent |  
+| bip_39_word_new_br_2 | drip<br>fuel |  
+| bip_39_word_new_br_3 | drip<br>fuel<br>useless |  
+| bip_39_word_new_br_4 | drip<br>fuel<br>useless<br>vital |  
+| bip_39_word_new_br_5 | drip<br>fuel<br>useless<br>vital<br>endless |  
+| bip_39_word_new_br_6 | drip<br>fuel<br>useless<br>vital<br>endless<br>insect |  
+| bip_39_word_new_br_7 | drip<br>fuel<br>useless<br>vital<br>endless<br>insect<br>mouse |  
+| bip_39_word_new_br_8 | drip<br>fuel<br>useless<br>vital<br>endless<br>insect<br>mouse<br>tuition |  
+| bip_39_word_new_br_9 | drip<br>fuel<br>useless<br>vital<br>endless<br>insect<br>mouse<br>tuition<br>subject |  
+| bip_39_word_new_line_1 | drip |  
+| bip_39_word_new_line_10 | drip
 fuel
 useless
 vital
@@ -55,7 +55,7 @@ mouse
 tuition
 subject
 solid |  
-| bip_39_word_new_line11 | drip
+| bip_39_word_new_line_11 | drip
 fuel
 useless
 vital
@@ -66,7 +66,7 @@ tuition
 subject
 solid
 cool |  
-| bip_39_word_new_line12 | drip
+| bip_39_word_new_line_12 | drip
 fuel
 useless
 vital
@@ -78,34 +78,34 @@ subject
 solid
 cool
 absent |  
-| bip_39_word_new_line2 | drip
+| bip_39_word_new_line_2 | drip
 fuel |  
-| bip_39_word_new_line3 | drip
+| bip_39_word_new_line_3 | drip
 fuel
 useless |  
-| bip_39_word_new_line4 | drip
+| bip_39_word_new_line_4 | drip
 fuel
 useless
 vital |  
-| bip_39_word_new_line5 | drip
+| bip_39_word_new_line_5 | drip
 fuel
 useless
 vital
 endless |  
-| bip_39_word_new_line6 | drip
+| bip_39_word_new_line_6 | drip
 fuel
 useless
 vital
 endless
 insect |  
-| bip_39_word_new_line7 | drip
+| bip_39_word_new_line_7 | drip
 fuel
 useless
 vital
 endless
 insect
 mouse |  
-| bip_39_word_new_line8 | drip
+| bip_39_word_new_line_8 | drip
 fuel
 useless
 vital
@@ -113,7 +113,7 @@ endless
 insect
 mouse
 tuition |  
-| bip_39_word_new_line9 | drip
+| bip_39_word_new_line_9 | drip
 fuel
 useless
 vital

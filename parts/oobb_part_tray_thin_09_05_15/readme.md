@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rebuild |  
-| bip_39_word_new_br10 | rebuild<br>sketch<br>such<br>enemy<br>cake<br>grow<br>yard<br>barely<br>usual<br>spider |  
-| bip_39_word_new_br11 | rebuild<br>sketch<br>such<br>enemy<br>cake<br>grow<br>yard<br>barely<br>usual<br>spider<br>either |  
-| bip_39_word_new_br2 | rebuild<br>sketch |  
-| bip_39_word_new_br3 | rebuild<br>sketch<br>such |  
-| bip_39_word_new_br4 | rebuild<br>sketch<br>such<br>enemy |  
-| bip_39_word_new_br5 | rebuild<br>sketch<br>such<br>enemy<br>cake |  
-| bip_39_word_new_br6 | rebuild<br>sketch<br>such<br>enemy<br>cake<br>grow |  
-| bip_39_word_new_br7 | rebuild<br>sketch<br>such<br>enemy<br>cake<br>grow<br>yard |  
-| bip_39_word_new_br8 | rebuild<br>sketch<br>such<br>enemy<br>cake<br>grow<br>yard<br>barely |  
-| bip_39_word_new_br9 | rebuild<br>sketch<br>such<br>enemy<br>cake<br>grow<br>yard<br>barely<br>usual |  
-| bip_39_word_new_line1 | rebuild |  
-| bip_39_word_new_line10 | rebuild
+| bip_39_word_new_br_1 | rebuild |  
+| bip_39_word_new_br_10 | rebuild<br>sketch<br>such<br>enemy<br>cake<br>grow<br>yard<br>barely<br>usual<br>spider |  
+| bip_39_word_new_br_11 | rebuild<br>sketch<br>such<br>enemy<br>cake<br>grow<br>yard<br>barely<br>usual<br>spider<br>either |  
+| bip_39_word_new_br_2 | rebuild<br>sketch |  
+| bip_39_word_new_br_3 | rebuild<br>sketch<br>such |  
+| bip_39_word_new_br_4 | rebuild<br>sketch<br>such<br>enemy |  
+| bip_39_word_new_br_5 | rebuild<br>sketch<br>such<br>enemy<br>cake |  
+| bip_39_word_new_br_6 | rebuild<br>sketch<br>such<br>enemy<br>cake<br>grow |  
+| bip_39_word_new_br_7 | rebuild<br>sketch<br>such<br>enemy<br>cake<br>grow<br>yard |  
+| bip_39_word_new_br_8 | rebuild<br>sketch<br>such<br>enemy<br>cake<br>grow<br>yard<br>barely |  
+| bip_39_word_new_br_9 | rebuild<br>sketch<br>such<br>enemy<br>cake<br>grow<br>yard<br>barely<br>usual |  
+| bip_39_word_new_line_1 | rebuild |  
+| bip_39_word_new_line_10 | rebuild
 sketch
 such
 enemy
@@ -54,7 +54,7 @@ yard
 barely
 usual
 spider |  
-| bip_39_word_new_line11 | rebuild
+| bip_39_word_new_line_11 | rebuild
 sketch
 such
 enemy
@@ -65,34 +65,34 @@ barely
 usual
 spider
 either |  
-| bip_39_word_new_line2 | rebuild
+| bip_39_word_new_line_2 | rebuild
 sketch |  
-| bip_39_word_new_line3 | rebuild
+| bip_39_word_new_line_3 | rebuild
 sketch
 such |  
-| bip_39_word_new_line4 | rebuild
+| bip_39_word_new_line_4 | rebuild
 sketch
 such
 enemy |  
-| bip_39_word_new_line5 | rebuild
+| bip_39_word_new_line_5 | rebuild
 sketch
 such
 enemy
 cake |  
-| bip_39_word_new_line6 | rebuild
+| bip_39_word_new_line_6 | rebuild
 sketch
 such
 enemy
 cake
 grow |  
-| bip_39_word_new_line7 | rebuild
+| bip_39_word_new_line_7 | rebuild
 sketch
 such
 enemy
 cake
 grow
 yard |  
-| bip_39_word_new_line8 | rebuild
+| bip_39_word_new_line_8 | rebuild
 sketch
 such
 enemy
@@ -100,7 +100,7 @@ cake
 grow
 yard
 barely |  
-| bip_39_word_new_line9 | rebuild
+| bip_39_word_new_line_9 | rebuild
 sketch
 such
 enemy

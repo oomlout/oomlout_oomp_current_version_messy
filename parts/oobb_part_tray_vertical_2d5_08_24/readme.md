@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | yellow |  
-| bip_39_word_new_br10 | yellow<br>parent<br>isolate<br>diary<br>sauce<br>wing<br>dumb<br>step<br>radio<br>ice |  
-| bip_39_word_new_br11 | yellow<br>parent<br>isolate<br>diary<br>sauce<br>wing<br>dumb<br>step<br>radio<br>ice<br>balance |  
-| bip_39_word_new_br12 | yellow<br>parent<br>isolate<br>diary<br>sauce<br>wing<br>dumb<br>step<br>radio<br>ice<br>balance<br>another |  
-| bip_39_word_new_br2 | yellow<br>parent |  
-| bip_39_word_new_br3 | yellow<br>parent<br>isolate |  
-| bip_39_word_new_br4 | yellow<br>parent<br>isolate<br>diary |  
-| bip_39_word_new_br5 | yellow<br>parent<br>isolate<br>diary<br>sauce |  
-| bip_39_word_new_br6 | yellow<br>parent<br>isolate<br>diary<br>sauce<br>wing |  
-| bip_39_word_new_br7 | yellow<br>parent<br>isolate<br>diary<br>sauce<br>wing<br>dumb |  
-| bip_39_word_new_br8 | yellow<br>parent<br>isolate<br>diary<br>sauce<br>wing<br>dumb<br>step |  
-| bip_39_word_new_br9 | yellow<br>parent<br>isolate<br>diary<br>sauce<br>wing<br>dumb<br>step<br>radio |  
-| bip_39_word_new_line1 | yellow |  
-| bip_39_word_new_line10 | yellow
+| bip_39_word_new_br_1 | yellow |  
+| bip_39_word_new_br_10 | yellow<br>parent<br>isolate<br>diary<br>sauce<br>wing<br>dumb<br>step<br>radio<br>ice |  
+| bip_39_word_new_br_11 | yellow<br>parent<br>isolate<br>diary<br>sauce<br>wing<br>dumb<br>step<br>radio<br>ice<br>balance |  
+| bip_39_word_new_br_12 | yellow<br>parent<br>isolate<br>diary<br>sauce<br>wing<br>dumb<br>step<br>radio<br>ice<br>balance<br>another |  
+| bip_39_word_new_br_2 | yellow<br>parent |  
+| bip_39_word_new_br_3 | yellow<br>parent<br>isolate |  
+| bip_39_word_new_br_4 | yellow<br>parent<br>isolate<br>diary |  
+| bip_39_word_new_br_5 | yellow<br>parent<br>isolate<br>diary<br>sauce |  
+| bip_39_word_new_br_6 | yellow<br>parent<br>isolate<br>diary<br>sauce<br>wing |  
+| bip_39_word_new_br_7 | yellow<br>parent<br>isolate<br>diary<br>sauce<br>wing<br>dumb |  
+| bip_39_word_new_br_8 | yellow<br>parent<br>isolate<br>diary<br>sauce<br>wing<br>dumb<br>step |  
+| bip_39_word_new_br_9 | yellow<br>parent<br>isolate<br>diary<br>sauce<br>wing<br>dumb<br>step<br>radio |  
+| bip_39_word_new_line_1 | yellow |  
+| bip_39_word_new_line_10 | yellow
 parent
 isolate
 diary
@@ -55,7 +55,7 @@ dumb
 step
 radio
 ice |  
-| bip_39_word_new_line11 | yellow
+| bip_39_word_new_line_11 | yellow
 parent
 isolate
 diary
@@ -66,7 +66,7 @@ step
 radio
 ice
 balance |  
-| bip_39_word_new_line12 | yellow
+| bip_39_word_new_line_12 | yellow
 parent
 isolate
 diary
@@ -78,34 +78,34 @@ radio
 ice
 balance
 another |  
-| bip_39_word_new_line2 | yellow
+| bip_39_word_new_line_2 | yellow
 parent |  
-| bip_39_word_new_line3 | yellow
+| bip_39_word_new_line_3 | yellow
 parent
 isolate |  
-| bip_39_word_new_line4 | yellow
+| bip_39_word_new_line_4 | yellow
 parent
 isolate
 diary |  
-| bip_39_word_new_line5 | yellow
+| bip_39_word_new_line_5 | yellow
 parent
 isolate
 diary
 sauce |  
-| bip_39_word_new_line6 | yellow
+| bip_39_word_new_line_6 | yellow
 parent
 isolate
 diary
 sauce
 wing |  
-| bip_39_word_new_line7 | yellow
+| bip_39_word_new_line_7 | yellow
 parent
 isolate
 diary
 sauce
 wing
 dumb |  
-| bip_39_word_new_line8 | yellow
+| bip_39_word_new_line_8 | yellow
 parent
 isolate
 diary
@@ -113,7 +113,7 @@ sauce
 wing
 dumb
 step |  
-| bip_39_word_new_line9 | yellow
+| bip_39_word_new_line_9 | yellow
 parent
 isolate
 diary

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | donor |  
-| bip_39_word_new_br10 | donor<br>apology<br>general<br>bread<br>giggle<br>theme<br>man<br>slight<br>inherit<br>place |  
-| bip_39_word_new_br11 | donor<br>apology<br>general<br>bread<br>giggle<br>theme<br>man<br>slight<br>inherit<br>place<br>cement |  
-| bip_39_word_new_br12 | donor<br>apology<br>general<br>bread<br>giggle<br>theme<br>man<br>slight<br>inherit<br>place<br>cement<br>asthma |  
-| bip_39_word_new_br2 | donor<br>apology |  
-| bip_39_word_new_br3 | donor<br>apology<br>general |  
-| bip_39_word_new_br4 | donor<br>apology<br>general<br>bread |  
-| bip_39_word_new_br5 | donor<br>apology<br>general<br>bread<br>giggle |  
-| bip_39_word_new_br6 | donor<br>apology<br>general<br>bread<br>giggle<br>theme |  
-| bip_39_word_new_br7 | donor<br>apology<br>general<br>bread<br>giggle<br>theme<br>man |  
-| bip_39_word_new_br8 | donor<br>apology<br>general<br>bread<br>giggle<br>theme<br>man<br>slight |  
-| bip_39_word_new_br9 | donor<br>apology<br>general<br>bread<br>giggle<br>theme<br>man<br>slight<br>inherit |  
-| bip_39_word_new_line1 | donor |  
-| bip_39_word_new_line10 | donor
+| bip_39_word_new_br_1 | donor |  
+| bip_39_word_new_br_10 | donor<br>apology<br>general<br>bread<br>giggle<br>theme<br>man<br>slight<br>inherit<br>place |  
+| bip_39_word_new_br_11 | donor<br>apology<br>general<br>bread<br>giggle<br>theme<br>man<br>slight<br>inherit<br>place<br>cement |  
+| bip_39_word_new_br_12 | donor<br>apology<br>general<br>bread<br>giggle<br>theme<br>man<br>slight<br>inherit<br>place<br>cement<br>asthma |  
+| bip_39_word_new_br_2 | donor<br>apology |  
+| bip_39_word_new_br_3 | donor<br>apology<br>general |  
+| bip_39_word_new_br_4 | donor<br>apology<br>general<br>bread |  
+| bip_39_word_new_br_5 | donor<br>apology<br>general<br>bread<br>giggle |  
+| bip_39_word_new_br_6 | donor<br>apology<br>general<br>bread<br>giggle<br>theme |  
+| bip_39_word_new_br_7 | donor<br>apology<br>general<br>bread<br>giggle<br>theme<br>man |  
+| bip_39_word_new_br_8 | donor<br>apology<br>general<br>bread<br>giggle<br>theme<br>man<br>slight |  
+| bip_39_word_new_br_9 | donor<br>apology<br>general<br>bread<br>giggle<br>theme<br>man<br>slight<br>inherit |  
+| bip_39_word_new_line_1 | donor |  
+| bip_39_word_new_line_10 | donor
 apology
 general
 bread
@@ -55,7 +55,7 @@ man
 slight
 inherit
 place |  
-| bip_39_word_new_line11 | donor
+| bip_39_word_new_line_11 | donor
 apology
 general
 bread
@@ -66,7 +66,7 @@ slight
 inherit
 place
 cement |  
-| bip_39_word_new_line12 | donor
+| bip_39_word_new_line_12 | donor
 apology
 general
 bread
@@ -78,34 +78,34 @@ inherit
 place
 cement
 asthma |  
-| bip_39_word_new_line2 | donor
+| bip_39_word_new_line_2 | donor
 apology |  
-| bip_39_word_new_line3 | donor
+| bip_39_word_new_line_3 | donor
 apology
 general |  
-| bip_39_word_new_line4 | donor
+| bip_39_word_new_line_4 | donor
 apology
 general
 bread |  
-| bip_39_word_new_line5 | donor
+| bip_39_word_new_line_5 | donor
 apology
 general
 bread
 giggle |  
-| bip_39_word_new_line6 | donor
+| bip_39_word_new_line_6 | donor
 apology
 general
 bread
 giggle
 theme |  
-| bip_39_word_new_line7 | donor
+| bip_39_word_new_line_7 | donor
 apology
 general
 bread
 giggle
 theme
 man |  
-| bip_39_word_new_line8 | donor
+| bip_39_word_new_line_8 | donor
 apology
 general
 bread
@@ -113,7 +113,7 @@ giggle
 theme
 man
 slight |  
-| bip_39_word_new_line9 | donor
+| bip_39_word_new_line_9 | donor
 apology
 general
 bread

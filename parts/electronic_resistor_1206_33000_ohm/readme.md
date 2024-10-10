@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | firm |  
-| bip_39_word_new_br10 | firm<br>client<br>slow<br>rally<br>remind<br>ribbon<br>celery<br>minute<br>stairs<br>item |  
-| bip_39_word_new_br11 | firm<br>client<br>slow<br>rally<br>remind<br>ribbon<br>celery<br>minute<br>stairs<br>item<br>meadow |  
-| bip_39_word_new_br12 | firm<br>client<br>slow<br>rally<br>remind<br>ribbon<br>celery<br>minute<br>stairs<br>item<br>meadow<br>actress |  
-| bip_39_word_new_br2 | firm<br>client |  
-| bip_39_word_new_br3 | firm<br>client<br>slow |  
-| bip_39_word_new_br4 | firm<br>client<br>slow<br>rally |  
-| bip_39_word_new_br5 | firm<br>client<br>slow<br>rally<br>remind |  
-| bip_39_word_new_br6 | firm<br>client<br>slow<br>rally<br>remind<br>ribbon |  
-| bip_39_word_new_br7 | firm<br>client<br>slow<br>rally<br>remind<br>ribbon<br>celery |  
-| bip_39_word_new_br8 | firm<br>client<br>slow<br>rally<br>remind<br>ribbon<br>celery<br>minute |  
-| bip_39_word_new_br9 | firm<br>client<br>slow<br>rally<br>remind<br>ribbon<br>celery<br>minute<br>stairs |  
-| bip_39_word_new_line1 | firm |  
-| bip_39_word_new_line10 | firm
+| bip_39_word_new_br_1 | firm |  
+| bip_39_word_new_br_10 | firm<br>client<br>slow<br>rally<br>remind<br>ribbon<br>celery<br>minute<br>stairs<br>item |  
+| bip_39_word_new_br_11 | firm<br>client<br>slow<br>rally<br>remind<br>ribbon<br>celery<br>minute<br>stairs<br>item<br>meadow |  
+| bip_39_word_new_br_12 | firm<br>client<br>slow<br>rally<br>remind<br>ribbon<br>celery<br>minute<br>stairs<br>item<br>meadow<br>actress |  
+| bip_39_word_new_br_2 | firm<br>client |  
+| bip_39_word_new_br_3 | firm<br>client<br>slow |  
+| bip_39_word_new_br_4 | firm<br>client<br>slow<br>rally |  
+| bip_39_word_new_br_5 | firm<br>client<br>slow<br>rally<br>remind |  
+| bip_39_word_new_br_6 | firm<br>client<br>slow<br>rally<br>remind<br>ribbon |  
+| bip_39_word_new_br_7 | firm<br>client<br>slow<br>rally<br>remind<br>ribbon<br>celery |  
+| bip_39_word_new_br_8 | firm<br>client<br>slow<br>rally<br>remind<br>ribbon<br>celery<br>minute |  
+| bip_39_word_new_br_9 | firm<br>client<br>slow<br>rally<br>remind<br>ribbon<br>celery<br>minute<br>stairs |  
+| bip_39_word_new_line_1 | firm |  
+| bip_39_word_new_line_10 | firm
 client
 slow
 rally
@@ -55,7 +55,7 @@ celery
 minute
 stairs
 item |  
-| bip_39_word_new_line11 | firm
+| bip_39_word_new_line_11 | firm
 client
 slow
 rally
@@ -66,7 +66,7 @@ minute
 stairs
 item
 meadow |  
-| bip_39_word_new_line12 | firm
+| bip_39_word_new_line_12 | firm
 client
 slow
 rally
@@ -78,34 +78,34 @@ stairs
 item
 meadow
 actress |  
-| bip_39_word_new_line2 | firm
+| bip_39_word_new_line_2 | firm
 client |  
-| bip_39_word_new_line3 | firm
+| bip_39_word_new_line_3 | firm
 client
 slow |  
-| bip_39_word_new_line4 | firm
+| bip_39_word_new_line_4 | firm
 client
 slow
 rally |  
-| bip_39_word_new_line5 | firm
+| bip_39_word_new_line_5 | firm
 client
 slow
 rally
 remind |  
-| bip_39_word_new_line6 | firm
+| bip_39_word_new_line_6 | firm
 client
 slow
 rally
 remind
 ribbon |  
-| bip_39_word_new_line7 | firm
+| bip_39_word_new_line_7 | firm
 client
 slow
 rally
 remind
 ribbon
 celery |  
-| bip_39_word_new_line8 | firm
+| bip_39_word_new_line_8 | firm
 client
 slow
 rally
@@ -113,7 +113,7 @@ remind
 ribbon
 celery
 minute |  
-| bip_39_word_new_line9 | firm
+| bip_39_word_new_line_9 | firm
 client
 slow
 rally

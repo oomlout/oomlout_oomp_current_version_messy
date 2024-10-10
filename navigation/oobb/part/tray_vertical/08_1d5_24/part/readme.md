@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | glad |  
-| bip_39_word_new_br10 | glad<br>argue<br>ankle<br>credit<br>rapid<br>mandate<br>tennis<br>novel<br>syrup<br>uncover |  
-| bip_39_word_new_br11 | glad<br>argue<br>ankle<br>credit<br>rapid<br>mandate<br>tennis<br>novel<br>syrup<br>uncover<br>prison |  
-| bip_39_word_new_br12 | glad<br>argue<br>ankle<br>credit<br>rapid<br>mandate<br>tennis<br>novel<br>syrup<br>uncover<br>prison<br>appear |  
-| bip_39_word_new_br2 | glad<br>argue |  
-| bip_39_word_new_br3 | glad<br>argue<br>ankle |  
-| bip_39_word_new_br4 | glad<br>argue<br>ankle<br>credit |  
-| bip_39_word_new_br5 | glad<br>argue<br>ankle<br>credit<br>rapid |  
-| bip_39_word_new_br6 | glad<br>argue<br>ankle<br>credit<br>rapid<br>mandate |  
-| bip_39_word_new_br7 | glad<br>argue<br>ankle<br>credit<br>rapid<br>mandate<br>tennis |  
-| bip_39_word_new_br8 | glad<br>argue<br>ankle<br>credit<br>rapid<br>mandate<br>tennis<br>novel |  
-| bip_39_word_new_br9 | glad<br>argue<br>ankle<br>credit<br>rapid<br>mandate<br>tennis<br>novel<br>syrup |  
-| bip_39_word_new_line1 | glad |  
-| bip_39_word_new_line10 | glad
+| bip_39_word_new_br_1 | glad |  
+| bip_39_word_new_br_10 | glad<br>argue<br>ankle<br>credit<br>rapid<br>mandate<br>tennis<br>novel<br>syrup<br>uncover |  
+| bip_39_word_new_br_11 | glad<br>argue<br>ankle<br>credit<br>rapid<br>mandate<br>tennis<br>novel<br>syrup<br>uncover<br>prison |  
+| bip_39_word_new_br_12 | glad<br>argue<br>ankle<br>credit<br>rapid<br>mandate<br>tennis<br>novel<br>syrup<br>uncover<br>prison<br>appear |  
+| bip_39_word_new_br_2 | glad<br>argue |  
+| bip_39_word_new_br_3 | glad<br>argue<br>ankle |  
+| bip_39_word_new_br_4 | glad<br>argue<br>ankle<br>credit |  
+| bip_39_word_new_br_5 | glad<br>argue<br>ankle<br>credit<br>rapid |  
+| bip_39_word_new_br_6 | glad<br>argue<br>ankle<br>credit<br>rapid<br>mandate |  
+| bip_39_word_new_br_7 | glad<br>argue<br>ankle<br>credit<br>rapid<br>mandate<br>tennis |  
+| bip_39_word_new_br_8 | glad<br>argue<br>ankle<br>credit<br>rapid<br>mandate<br>tennis<br>novel |  
+| bip_39_word_new_br_9 | glad<br>argue<br>ankle<br>credit<br>rapid<br>mandate<br>tennis<br>novel<br>syrup |  
+| bip_39_word_new_line_1 | glad |  
+| bip_39_word_new_line_10 | glad
 argue
 ankle
 credit
@@ -55,7 +55,7 @@ tennis
 novel
 syrup
 uncover |  
-| bip_39_word_new_line11 | glad
+| bip_39_word_new_line_11 | glad
 argue
 ankle
 credit
@@ -66,7 +66,7 @@ novel
 syrup
 uncover
 prison |  
-| bip_39_word_new_line12 | glad
+| bip_39_word_new_line_12 | glad
 argue
 ankle
 credit
@@ -78,34 +78,34 @@ syrup
 uncover
 prison
 appear |  
-| bip_39_word_new_line2 | glad
+| bip_39_word_new_line_2 | glad
 argue |  
-| bip_39_word_new_line3 | glad
+| bip_39_word_new_line_3 | glad
 argue
 ankle |  
-| bip_39_word_new_line4 | glad
+| bip_39_word_new_line_4 | glad
 argue
 ankle
 credit |  
-| bip_39_word_new_line5 | glad
+| bip_39_word_new_line_5 | glad
 argue
 ankle
 credit
 rapid |  
-| bip_39_word_new_line6 | glad
+| bip_39_word_new_line_6 | glad
 argue
 ankle
 credit
 rapid
 mandate |  
-| bip_39_word_new_line7 | glad
+| bip_39_word_new_line_7 | glad
 argue
 ankle
 credit
 rapid
 mandate
 tennis |  
-| bip_39_word_new_line8 | glad
+| bip_39_word_new_line_8 | glad
 argue
 ankle
 credit
@@ -113,7 +113,7 @@ rapid
 mandate
 tennis
 novel |  
-| bip_39_word_new_line9 | glad
+| bip_39_word_new_line_9 | glad
 argue
 ankle
 credit

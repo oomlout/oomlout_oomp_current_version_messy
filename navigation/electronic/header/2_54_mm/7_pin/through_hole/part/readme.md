@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | panther |  
-| bip_39_word_new_br10 | panther<br>boil<br>punch<br>leg<br>pistol<br>diagram<br>record<br>brush<br>swamp<br>moment |  
-| bip_39_word_new_br11 | panther<br>boil<br>punch<br>leg<br>pistol<br>diagram<br>record<br>brush<br>swamp<br>moment<br>base |  
-| bip_39_word_new_br12 | panther<br>boil<br>punch<br>leg<br>pistol<br>diagram<br>record<br>brush<br>swamp<br>moment<br>base<br>absurd |  
-| bip_39_word_new_br2 | panther<br>boil |  
-| bip_39_word_new_br3 | panther<br>boil<br>punch |  
-| bip_39_word_new_br4 | panther<br>boil<br>punch<br>leg |  
-| bip_39_word_new_br5 | panther<br>boil<br>punch<br>leg<br>pistol |  
-| bip_39_word_new_br6 | panther<br>boil<br>punch<br>leg<br>pistol<br>diagram |  
-| bip_39_word_new_br7 | panther<br>boil<br>punch<br>leg<br>pistol<br>diagram<br>record |  
-| bip_39_word_new_br8 | panther<br>boil<br>punch<br>leg<br>pistol<br>diagram<br>record<br>brush |  
-| bip_39_word_new_br9 | panther<br>boil<br>punch<br>leg<br>pistol<br>diagram<br>record<br>brush<br>swamp |  
-| bip_39_word_new_line1 | panther |  
-| bip_39_word_new_line10 | panther
+| bip_39_word_new_br_1 | panther |  
+| bip_39_word_new_br_10 | panther<br>boil<br>punch<br>leg<br>pistol<br>diagram<br>record<br>brush<br>swamp<br>moment |  
+| bip_39_word_new_br_11 | panther<br>boil<br>punch<br>leg<br>pistol<br>diagram<br>record<br>brush<br>swamp<br>moment<br>base |  
+| bip_39_word_new_br_12 | panther<br>boil<br>punch<br>leg<br>pistol<br>diagram<br>record<br>brush<br>swamp<br>moment<br>base<br>absurd |  
+| bip_39_word_new_br_2 | panther<br>boil |  
+| bip_39_word_new_br_3 | panther<br>boil<br>punch |  
+| bip_39_word_new_br_4 | panther<br>boil<br>punch<br>leg |  
+| bip_39_word_new_br_5 | panther<br>boil<br>punch<br>leg<br>pistol |  
+| bip_39_word_new_br_6 | panther<br>boil<br>punch<br>leg<br>pistol<br>diagram |  
+| bip_39_word_new_br_7 | panther<br>boil<br>punch<br>leg<br>pistol<br>diagram<br>record |  
+| bip_39_word_new_br_8 | panther<br>boil<br>punch<br>leg<br>pistol<br>diagram<br>record<br>brush |  
+| bip_39_word_new_br_9 | panther<br>boil<br>punch<br>leg<br>pistol<br>diagram<br>record<br>brush<br>swamp |  
+| bip_39_word_new_line_1 | panther |  
+| bip_39_word_new_line_10 | panther
 boil
 punch
 leg
@@ -55,7 +55,7 @@ record
 brush
 swamp
 moment |  
-| bip_39_word_new_line11 | panther
+| bip_39_word_new_line_11 | panther
 boil
 punch
 leg
@@ -66,7 +66,7 @@ brush
 swamp
 moment
 base |  
-| bip_39_word_new_line12 | panther
+| bip_39_word_new_line_12 | panther
 boil
 punch
 leg
@@ -78,34 +78,34 @@ swamp
 moment
 base
 absurd |  
-| bip_39_word_new_line2 | panther
+| bip_39_word_new_line_2 | panther
 boil |  
-| bip_39_word_new_line3 | panther
+| bip_39_word_new_line_3 | panther
 boil
 punch |  
-| bip_39_word_new_line4 | panther
+| bip_39_word_new_line_4 | panther
 boil
 punch
 leg |  
-| bip_39_word_new_line5 | panther
+| bip_39_word_new_line_5 | panther
 boil
 punch
 leg
 pistol |  
-| bip_39_word_new_line6 | panther
+| bip_39_word_new_line_6 | panther
 boil
 punch
 leg
 pistol
 diagram |  
-| bip_39_word_new_line7 | panther
+| bip_39_word_new_line_7 | panther
 boil
 punch
 leg
 pistol
 diagram
 record |  
-| bip_39_word_new_line8 | panther
+| bip_39_word_new_line_8 | panther
 boil
 punch
 leg
@@ -113,7 +113,7 @@ pistol
 diagram
 record
 brush |  
-| bip_39_word_new_line9 | panther
+| bip_39_word_new_line_9 | panther
 boil
 punch
 leg

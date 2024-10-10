@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bracket |  
-| bip_39_word_new_br10 | bracket<br>joke<br>elite<br>aim<br>ostrich<br>top<br>reform<br>spot<br>border<br>comfort |  
-| bip_39_word_new_br11 | bracket<br>joke<br>elite<br>aim<br>ostrich<br>top<br>reform<br>spot<br>border<br>comfort<br>deal |  
-| bip_39_word_new_br12 | bracket<br>joke<br>elite<br>aim<br>ostrich<br>top<br>reform<br>spot<br>border<br>comfort<br>deal<br>aerobic |  
-| bip_39_word_new_br2 | bracket<br>joke |  
-| bip_39_word_new_br3 | bracket<br>joke<br>elite |  
-| bip_39_word_new_br4 | bracket<br>joke<br>elite<br>aim |  
-| bip_39_word_new_br5 | bracket<br>joke<br>elite<br>aim<br>ostrich |  
-| bip_39_word_new_br6 | bracket<br>joke<br>elite<br>aim<br>ostrich<br>top |  
-| bip_39_word_new_br7 | bracket<br>joke<br>elite<br>aim<br>ostrich<br>top<br>reform |  
-| bip_39_word_new_br8 | bracket<br>joke<br>elite<br>aim<br>ostrich<br>top<br>reform<br>spot |  
-| bip_39_word_new_br9 | bracket<br>joke<br>elite<br>aim<br>ostrich<br>top<br>reform<br>spot<br>border |  
-| bip_39_word_new_line1 | bracket |  
-| bip_39_word_new_line10 | bracket
+| bip_39_word_new_br_1 | bracket |  
+| bip_39_word_new_br_10 | bracket<br>joke<br>elite<br>aim<br>ostrich<br>top<br>reform<br>spot<br>border<br>comfort |  
+| bip_39_word_new_br_11 | bracket<br>joke<br>elite<br>aim<br>ostrich<br>top<br>reform<br>spot<br>border<br>comfort<br>deal |  
+| bip_39_word_new_br_12 | bracket<br>joke<br>elite<br>aim<br>ostrich<br>top<br>reform<br>spot<br>border<br>comfort<br>deal<br>aerobic |  
+| bip_39_word_new_br_2 | bracket<br>joke |  
+| bip_39_word_new_br_3 | bracket<br>joke<br>elite |  
+| bip_39_word_new_br_4 | bracket<br>joke<br>elite<br>aim |  
+| bip_39_word_new_br_5 | bracket<br>joke<br>elite<br>aim<br>ostrich |  
+| bip_39_word_new_br_6 | bracket<br>joke<br>elite<br>aim<br>ostrich<br>top |  
+| bip_39_word_new_br_7 | bracket<br>joke<br>elite<br>aim<br>ostrich<br>top<br>reform |  
+| bip_39_word_new_br_8 | bracket<br>joke<br>elite<br>aim<br>ostrich<br>top<br>reform<br>spot |  
+| bip_39_word_new_br_9 | bracket<br>joke<br>elite<br>aim<br>ostrich<br>top<br>reform<br>spot<br>border |  
+| bip_39_word_new_line_1 | bracket |  
+| bip_39_word_new_line_10 | bracket
 joke
 elite
 aim
@@ -55,7 +55,7 @@ reform
 spot
 border
 comfort |  
-| bip_39_word_new_line11 | bracket
+| bip_39_word_new_line_11 | bracket
 joke
 elite
 aim
@@ -66,7 +66,7 @@ spot
 border
 comfort
 deal |  
-| bip_39_word_new_line12 | bracket
+| bip_39_word_new_line_12 | bracket
 joke
 elite
 aim
@@ -78,34 +78,34 @@ border
 comfort
 deal
 aerobic |  
-| bip_39_word_new_line2 | bracket
+| bip_39_word_new_line_2 | bracket
 joke |  
-| bip_39_word_new_line3 | bracket
+| bip_39_word_new_line_3 | bracket
 joke
 elite |  
-| bip_39_word_new_line4 | bracket
+| bip_39_word_new_line_4 | bracket
 joke
 elite
 aim |  
-| bip_39_word_new_line5 | bracket
+| bip_39_word_new_line_5 | bracket
 joke
 elite
 aim
 ostrich |  
-| bip_39_word_new_line6 | bracket
+| bip_39_word_new_line_6 | bracket
 joke
 elite
 aim
 ostrich
 top |  
-| bip_39_word_new_line7 | bracket
+| bip_39_word_new_line_7 | bracket
 joke
 elite
 aim
 ostrich
 top
 reform |  
-| bip_39_word_new_line8 | bracket
+| bip_39_word_new_line_8 | bracket
 joke
 elite
 aim
@@ -113,7 +113,7 @@ ostrich
 top
 reform
 spot |  
-| bip_39_word_new_line9 | bracket
+| bip_39_word_new_line_9 | bracket
 joke
 elite
 aim

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | open |  
-| bip_39_word_new_br10 | open<br>install<br>now<br>fat<br>liberty<br>royal<br>odor<br>habit<br>spend<br>ripple |  
-| bip_39_word_new_br11 | open<br>install<br>now<br>fat<br>liberty<br>royal<br>odor<br>habit<br>spend<br>ripple<br>primary |  
-| bip_39_word_new_br12 | open<br>install<br>now<br>fat<br>liberty<br>royal<br>odor<br>habit<br>spend<br>ripple<br>primary<br>ability |  
-| bip_39_word_new_br2 | open<br>install |  
-| bip_39_word_new_br3 | open<br>install<br>now |  
-| bip_39_word_new_br4 | open<br>install<br>now<br>fat |  
-| bip_39_word_new_br5 | open<br>install<br>now<br>fat<br>liberty |  
-| bip_39_word_new_br6 | open<br>install<br>now<br>fat<br>liberty<br>royal |  
-| bip_39_word_new_br7 | open<br>install<br>now<br>fat<br>liberty<br>royal<br>odor |  
-| bip_39_word_new_br8 | open<br>install<br>now<br>fat<br>liberty<br>royal<br>odor<br>habit |  
-| bip_39_word_new_br9 | open<br>install<br>now<br>fat<br>liberty<br>royal<br>odor<br>habit<br>spend |  
-| bip_39_word_new_line1 | open |  
-| bip_39_word_new_line10 | open
+| bip_39_word_new_br_1 | open |  
+| bip_39_word_new_br_10 | open<br>install<br>now<br>fat<br>liberty<br>royal<br>odor<br>habit<br>spend<br>ripple |  
+| bip_39_word_new_br_11 | open<br>install<br>now<br>fat<br>liberty<br>royal<br>odor<br>habit<br>spend<br>ripple<br>primary |  
+| bip_39_word_new_br_12 | open<br>install<br>now<br>fat<br>liberty<br>royal<br>odor<br>habit<br>spend<br>ripple<br>primary<br>ability |  
+| bip_39_word_new_br_2 | open<br>install |  
+| bip_39_word_new_br_3 | open<br>install<br>now |  
+| bip_39_word_new_br_4 | open<br>install<br>now<br>fat |  
+| bip_39_word_new_br_5 | open<br>install<br>now<br>fat<br>liberty |  
+| bip_39_word_new_br_6 | open<br>install<br>now<br>fat<br>liberty<br>royal |  
+| bip_39_word_new_br_7 | open<br>install<br>now<br>fat<br>liberty<br>royal<br>odor |  
+| bip_39_word_new_br_8 | open<br>install<br>now<br>fat<br>liberty<br>royal<br>odor<br>habit |  
+| bip_39_word_new_br_9 | open<br>install<br>now<br>fat<br>liberty<br>royal<br>odor<br>habit<br>spend |  
+| bip_39_word_new_line_1 | open |  
+| bip_39_word_new_line_10 | open
 install
 now
 fat
@@ -55,7 +55,7 @@ odor
 habit
 spend
 ripple |  
-| bip_39_word_new_line11 | open
+| bip_39_word_new_line_11 | open
 install
 now
 fat
@@ -66,7 +66,7 @@ habit
 spend
 ripple
 primary |  
-| bip_39_word_new_line12 | open
+| bip_39_word_new_line_12 | open
 install
 now
 fat
@@ -78,34 +78,34 @@ spend
 ripple
 primary
 ability |  
-| bip_39_word_new_line2 | open
+| bip_39_word_new_line_2 | open
 install |  
-| bip_39_word_new_line3 | open
+| bip_39_word_new_line_3 | open
 install
 now |  
-| bip_39_word_new_line4 | open
+| bip_39_word_new_line_4 | open
 install
 now
 fat |  
-| bip_39_word_new_line5 | open
+| bip_39_word_new_line_5 | open
 install
 now
 fat
 liberty |  
-| bip_39_word_new_line6 | open
+| bip_39_word_new_line_6 | open
 install
 now
 fat
 liberty
 royal |  
-| bip_39_word_new_line7 | open
+| bip_39_word_new_line_7 | open
 install
 now
 fat
 liberty
 royal
 odor |  
-| bip_39_word_new_line8 | open
+| bip_39_word_new_line_8 | open
 install
 now
 fat
@@ -113,7 +113,7 @@ liberty
 royal
 odor
 habit |  
-| bip_39_word_new_line9 | open
+| bip_39_word_new_line_9 | open
 install
 now
 fat

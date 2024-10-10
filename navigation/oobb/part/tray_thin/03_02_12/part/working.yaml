@@ -1,17 +1,17 @@
-bip_39_word_new_br1: portion
-bip_39_word_new_br10: portion<br>plug<br>since<br>wool<br>pitch<br>exit<br>dust<br>gospel<br>harsh<br>crystal
-bip_39_word_new_br11: portion<br>plug<br>since<br>wool<br>pitch<br>exit<br>dust<br>gospel<br>harsh<br>crystal<br>soup
-bip_39_word_new_br12: portion<br>plug<br>since<br>wool<br>pitch<br>exit<br>dust<br>gospel<br>harsh<br>crystal<br>soup<br>amateur
-bip_39_word_new_br2: portion<br>plug
-bip_39_word_new_br3: portion<br>plug<br>since
-bip_39_word_new_br4: portion<br>plug<br>since<br>wool
-bip_39_word_new_br5: portion<br>plug<br>since<br>wool<br>pitch
-bip_39_word_new_br6: portion<br>plug<br>since<br>wool<br>pitch<br>exit
-bip_39_word_new_br7: portion<br>plug<br>since<br>wool<br>pitch<br>exit<br>dust
-bip_39_word_new_br8: portion<br>plug<br>since<br>wool<br>pitch<br>exit<br>dust<br>gospel
-bip_39_word_new_br9: portion<br>plug<br>since<br>wool<br>pitch<br>exit<br>dust<br>gospel<br>harsh
-bip_39_word_new_line1: portion
-bip_39_word_new_line10: 'portion
+bip_39_word_new_br_1: portion
+bip_39_word_new_br_10: portion<br>plug<br>since<br>wool<br>pitch<br>exit<br>dust<br>gospel<br>harsh<br>crystal
+bip_39_word_new_br_11: portion<br>plug<br>since<br>wool<br>pitch<br>exit<br>dust<br>gospel<br>harsh<br>crystal<br>soup
+bip_39_word_new_br_12: portion<br>plug<br>since<br>wool<br>pitch<br>exit<br>dust<br>gospel<br>harsh<br>crystal<br>soup<br>amateur
+bip_39_word_new_br_2: portion<br>plug
+bip_39_word_new_br_3: portion<br>plug<br>since
+bip_39_word_new_br_4: portion<br>plug<br>since<br>wool
+bip_39_word_new_br_5: portion<br>plug<br>since<br>wool<br>pitch
+bip_39_word_new_br_6: portion<br>plug<br>since<br>wool<br>pitch<br>exit
+bip_39_word_new_br_7: portion<br>plug<br>since<br>wool<br>pitch<br>exit<br>dust
+bip_39_word_new_br_8: portion<br>plug<br>since<br>wool<br>pitch<br>exit<br>dust<br>gospel
+bip_39_word_new_br_9: portion<br>plug<br>since<br>wool<br>pitch<br>exit<br>dust<br>gospel<br>harsh
+bip_39_word_new_line_1: portion
+bip_39_word_new_line_10: 'portion
 
   plug
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'portion
   harsh
 
   crystal'
-bip_39_word_new_line11: 'portion
+bip_39_word_new_line_11: 'portion
 
   plug
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'portion
   crystal
 
   soup'
-bip_39_word_new_line12: 'portion
+bip_39_word_new_line_12: 'portion
 
   plug
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'portion
   soup
 
   amateur'
-bip_39_word_new_line2: 'portion
+bip_39_word_new_line_2: 'portion
 
   plug'
-bip_39_word_new_line3: 'portion
+bip_39_word_new_line_3: 'portion
 
   plug
 
   since'
-bip_39_word_new_line4: 'portion
+bip_39_word_new_line_4: 'portion
 
   plug
 
   since
 
   wool'
-bip_39_word_new_line5: 'portion
+bip_39_word_new_line_5: 'portion
 
   plug
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'portion
   wool
 
   pitch'
-bip_39_word_new_line6: 'portion
+bip_39_word_new_line_6: 'portion
 
   plug
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'portion
   pitch
 
   exit'
-bip_39_word_new_line7: 'portion
+bip_39_word_new_line_7: 'portion
 
   plug
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'portion
   exit
 
   dust'
-bip_39_word_new_line8: 'portion
+bip_39_word_new_line_8: 'portion
 
   plug
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'portion
   dust
 
   gospel'
-bip_39_word_new_line9: 'portion
+bip_39_word_new_line_9: 'portion
 
   plug
 

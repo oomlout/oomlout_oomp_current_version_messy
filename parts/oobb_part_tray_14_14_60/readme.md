@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | capital |  
-| bip_39_word_new_br10 | capital<br>rain<br>bounce<br>audit<br>assist<br>poet<br>find<br>poverty<br>soul<br>multiply |  
-| bip_39_word_new_br11 | capital<br>rain<br>bounce<br>audit<br>assist<br>poet<br>find<br>poverty<br>soul<br>multiply<br>swarm |  
-| bip_39_word_new_br12 | capital<br>rain<br>bounce<br>audit<br>assist<br>poet<br>find<br>poverty<br>soul<br>multiply<br>swarm<br>announce |  
-| bip_39_word_new_br2 | capital<br>rain |  
-| bip_39_word_new_br3 | capital<br>rain<br>bounce |  
-| bip_39_word_new_br4 | capital<br>rain<br>bounce<br>audit |  
-| bip_39_word_new_br5 | capital<br>rain<br>bounce<br>audit<br>assist |  
-| bip_39_word_new_br6 | capital<br>rain<br>bounce<br>audit<br>assist<br>poet |  
-| bip_39_word_new_br7 | capital<br>rain<br>bounce<br>audit<br>assist<br>poet<br>find |  
-| bip_39_word_new_br8 | capital<br>rain<br>bounce<br>audit<br>assist<br>poet<br>find<br>poverty |  
-| bip_39_word_new_br9 | capital<br>rain<br>bounce<br>audit<br>assist<br>poet<br>find<br>poverty<br>soul |  
-| bip_39_word_new_line1 | capital |  
-| bip_39_word_new_line10 | capital
+| bip_39_word_new_br_1 | capital |  
+| bip_39_word_new_br_10 | capital<br>rain<br>bounce<br>audit<br>assist<br>poet<br>find<br>poverty<br>soul<br>multiply |  
+| bip_39_word_new_br_11 | capital<br>rain<br>bounce<br>audit<br>assist<br>poet<br>find<br>poverty<br>soul<br>multiply<br>swarm |  
+| bip_39_word_new_br_12 | capital<br>rain<br>bounce<br>audit<br>assist<br>poet<br>find<br>poverty<br>soul<br>multiply<br>swarm<br>announce |  
+| bip_39_word_new_br_2 | capital<br>rain |  
+| bip_39_word_new_br_3 | capital<br>rain<br>bounce |  
+| bip_39_word_new_br_4 | capital<br>rain<br>bounce<br>audit |  
+| bip_39_word_new_br_5 | capital<br>rain<br>bounce<br>audit<br>assist |  
+| bip_39_word_new_br_6 | capital<br>rain<br>bounce<br>audit<br>assist<br>poet |  
+| bip_39_word_new_br_7 | capital<br>rain<br>bounce<br>audit<br>assist<br>poet<br>find |  
+| bip_39_word_new_br_8 | capital<br>rain<br>bounce<br>audit<br>assist<br>poet<br>find<br>poverty |  
+| bip_39_word_new_br_9 | capital<br>rain<br>bounce<br>audit<br>assist<br>poet<br>find<br>poverty<br>soul |  
+| bip_39_word_new_line_1 | capital |  
+| bip_39_word_new_line_10 | capital
 rain
 bounce
 audit
@@ -55,7 +55,7 @@ find
 poverty
 soul
 multiply |  
-| bip_39_word_new_line11 | capital
+| bip_39_word_new_line_11 | capital
 rain
 bounce
 audit
@@ -66,7 +66,7 @@ poverty
 soul
 multiply
 swarm |  
-| bip_39_word_new_line12 | capital
+| bip_39_word_new_line_12 | capital
 rain
 bounce
 audit
@@ -78,34 +78,34 @@ soul
 multiply
 swarm
 announce |  
-| bip_39_word_new_line2 | capital
+| bip_39_word_new_line_2 | capital
 rain |  
-| bip_39_word_new_line3 | capital
+| bip_39_word_new_line_3 | capital
 rain
 bounce |  
-| bip_39_word_new_line4 | capital
+| bip_39_word_new_line_4 | capital
 rain
 bounce
 audit |  
-| bip_39_word_new_line5 | capital
+| bip_39_word_new_line_5 | capital
 rain
 bounce
 audit
 assist |  
-| bip_39_word_new_line6 | capital
+| bip_39_word_new_line_6 | capital
 rain
 bounce
 audit
 assist
 poet |  
-| bip_39_word_new_line7 | capital
+| bip_39_word_new_line_7 | capital
 rain
 bounce
 audit
 assist
 poet
 find |  
-| bip_39_word_new_line8 | capital
+| bip_39_word_new_line_8 | capital
 rain
 bounce
 audit
@@ -113,7 +113,7 @@ assist
 poet
 find
 poverty |  
-| bip_39_word_new_line9 | capital
+| bip_39_word_new_line_9 | capital
 rain
 bounce
 audit

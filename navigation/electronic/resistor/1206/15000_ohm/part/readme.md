@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | boss |  
-| bip_39_word_new_br10 | boss<br>laundry<br>vibrant<br>gossip<br>odor<br>spread<br>rookie<br>judge<br>render<br>reward |  
-| bip_39_word_new_br11 | boss<br>laundry<br>vibrant<br>gossip<br>odor<br>spread<br>rookie<br>judge<br>render<br>reward<br>east |  
-| bip_39_word_new_br12 | boss<br>laundry<br>vibrant<br>gossip<br>odor<br>spread<br>rookie<br>judge<br>render<br>reward<br>east<br>another |  
-| bip_39_word_new_br2 | boss<br>laundry |  
-| bip_39_word_new_br3 | boss<br>laundry<br>vibrant |  
-| bip_39_word_new_br4 | boss<br>laundry<br>vibrant<br>gossip |  
-| bip_39_word_new_br5 | boss<br>laundry<br>vibrant<br>gossip<br>odor |  
-| bip_39_word_new_br6 | boss<br>laundry<br>vibrant<br>gossip<br>odor<br>spread |  
-| bip_39_word_new_br7 | boss<br>laundry<br>vibrant<br>gossip<br>odor<br>spread<br>rookie |  
-| bip_39_word_new_br8 | boss<br>laundry<br>vibrant<br>gossip<br>odor<br>spread<br>rookie<br>judge |  
-| bip_39_word_new_br9 | boss<br>laundry<br>vibrant<br>gossip<br>odor<br>spread<br>rookie<br>judge<br>render |  
-| bip_39_word_new_line1 | boss |  
-| bip_39_word_new_line10 | boss
+| bip_39_word_new_br_1 | boss |  
+| bip_39_word_new_br_10 | boss<br>laundry<br>vibrant<br>gossip<br>odor<br>spread<br>rookie<br>judge<br>render<br>reward |  
+| bip_39_word_new_br_11 | boss<br>laundry<br>vibrant<br>gossip<br>odor<br>spread<br>rookie<br>judge<br>render<br>reward<br>east |  
+| bip_39_word_new_br_12 | boss<br>laundry<br>vibrant<br>gossip<br>odor<br>spread<br>rookie<br>judge<br>render<br>reward<br>east<br>another |  
+| bip_39_word_new_br_2 | boss<br>laundry |  
+| bip_39_word_new_br_3 | boss<br>laundry<br>vibrant |  
+| bip_39_word_new_br_4 | boss<br>laundry<br>vibrant<br>gossip |  
+| bip_39_word_new_br_5 | boss<br>laundry<br>vibrant<br>gossip<br>odor |  
+| bip_39_word_new_br_6 | boss<br>laundry<br>vibrant<br>gossip<br>odor<br>spread |  
+| bip_39_word_new_br_7 | boss<br>laundry<br>vibrant<br>gossip<br>odor<br>spread<br>rookie |  
+| bip_39_word_new_br_8 | boss<br>laundry<br>vibrant<br>gossip<br>odor<br>spread<br>rookie<br>judge |  
+| bip_39_word_new_br_9 | boss<br>laundry<br>vibrant<br>gossip<br>odor<br>spread<br>rookie<br>judge<br>render |  
+| bip_39_word_new_line_1 | boss |  
+| bip_39_word_new_line_10 | boss
 laundry
 vibrant
 gossip
@@ -55,7 +55,7 @@ rookie
 judge
 render
 reward |  
-| bip_39_word_new_line11 | boss
+| bip_39_word_new_line_11 | boss
 laundry
 vibrant
 gossip
@@ -66,7 +66,7 @@ judge
 render
 reward
 east |  
-| bip_39_word_new_line12 | boss
+| bip_39_word_new_line_12 | boss
 laundry
 vibrant
 gossip
@@ -78,34 +78,34 @@ render
 reward
 east
 another |  
-| bip_39_word_new_line2 | boss
+| bip_39_word_new_line_2 | boss
 laundry |  
-| bip_39_word_new_line3 | boss
+| bip_39_word_new_line_3 | boss
 laundry
 vibrant |  
-| bip_39_word_new_line4 | boss
+| bip_39_word_new_line_4 | boss
 laundry
 vibrant
 gossip |  
-| bip_39_word_new_line5 | boss
+| bip_39_word_new_line_5 | boss
 laundry
 vibrant
 gossip
 odor |  
-| bip_39_word_new_line6 | boss
+| bip_39_word_new_line_6 | boss
 laundry
 vibrant
 gossip
 odor
 spread |  
-| bip_39_word_new_line7 | boss
+| bip_39_word_new_line_7 | boss
 laundry
 vibrant
 gossip
 odor
 spread
 rookie |  
-| bip_39_word_new_line8 | boss
+| bip_39_word_new_line_8 | boss
 laundry
 vibrant
 gossip
@@ -113,7 +113,7 @@ odor
 spread
 rookie
 judge |  
-| bip_39_word_new_line9 | boss
+| bip_39_word_new_line_9 | boss
 laundry
 vibrant
 gossip

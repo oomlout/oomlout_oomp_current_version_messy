@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rate |  
-| bip_39_word_new_br10 | rate<br>fun<br>text<br>rose<br>unable<br>only<br>nurse<br>spoil<br>coral<br>alert |  
-| bip_39_word_new_br11 | rate<br>fun<br>text<br>rose<br>unable<br>only<br>nurse<br>spoil<br>coral<br>alert<br>simple |  
-| bip_39_word_new_br12 | rate<br>fun<br>text<br>rose<br>unable<br>only<br>nurse<br>spoil<br>coral<br>alert<br>simple<br>ankle |  
-| bip_39_word_new_br2 | rate<br>fun |  
-| bip_39_word_new_br3 | rate<br>fun<br>text |  
-| bip_39_word_new_br4 | rate<br>fun<br>text<br>rose |  
-| bip_39_word_new_br5 | rate<br>fun<br>text<br>rose<br>unable |  
-| bip_39_word_new_br6 | rate<br>fun<br>text<br>rose<br>unable<br>only |  
-| bip_39_word_new_br7 | rate<br>fun<br>text<br>rose<br>unable<br>only<br>nurse |  
-| bip_39_word_new_br8 | rate<br>fun<br>text<br>rose<br>unable<br>only<br>nurse<br>spoil |  
-| bip_39_word_new_br9 | rate<br>fun<br>text<br>rose<br>unable<br>only<br>nurse<br>spoil<br>coral |  
-| bip_39_word_new_line1 | rate |  
-| bip_39_word_new_line10 | rate
+| bip_39_word_new_br_1 | rate |  
+| bip_39_word_new_br_10 | rate<br>fun<br>text<br>rose<br>unable<br>only<br>nurse<br>spoil<br>coral<br>alert |  
+| bip_39_word_new_br_11 | rate<br>fun<br>text<br>rose<br>unable<br>only<br>nurse<br>spoil<br>coral<br>alert<br>simple |  
+| bip_39_word_new_br_12 | rate<br>fun<br>text<br>rose<br>unable<br>only<br>nurse<br>spoil<br>coral<br>alert<br>simple<br>ankle |  
+| bip_39_word_new_br_2 | rate<br>fun |  
+| bip_39_word_new_br_3 | rate<br>fun<br>text |  
+| bip_39_word_new_br_4 | rate<br>fun<br>text<br>rose |  
+| bip_39_word_new_br_5 | rate<br>fun<br>text<br>rose<br>unable |  
+| bip_39_word_new_br_6 | rate<br>fun<br>text<br>rose<br>unable<br>only |  
+| bip_39_word_new_br_7 | rate<br>fun<br>text<br>rose<br>unable<br>only<br>nurse |  
+| bip_39_word_new_br_8 | rate<br>fun<br>text<br>rose<br>unable<br>only<br>nurse<br>spoil |  
+| bip_39_word_new_br_9 | rate<br>fun<br>text<br>rose<br>unable<br>only<br>nurse<br>spoil<br>coral |  
+| bip_39_word_new_line_1 | rate |  
+| bip_39_word_new_line_10 | rate
 fun
 text
 rose
@@ -55,7 +55,7 @@ nurse
 spoil
 coral
 alert |  
-| bip_39_word_new_line11 | rate
+| bip_39_word_new_line_11 | rate
 fun
 text
 rose
@@ -66,7 +66,7 @@ spoil
 coral
 alert
 simple |  
-| bip_39_word_new_line12 | rate
+| bip_39_word_new_line_12 | rate
 fun
 text
 rose
@@ -78,34 +78,34 @@ coral
 alert
 simple
 ankle |  
-| bip_39_word_new_line2 | rate
+| bip_39_word_new_line_2 | rate
 fun |  
-| bip_39_word_new_line3 | rate
+| bip_39_word_new_line_3 | rate
 fun
 text |  
-| bip_39_word_new_line4 | rate
+| bip_39_word_new_line_4 | rate
 fun
 text
 rose |  
-| bip_39_word_new_line5 | rate
+| bip_39_word_new_line_5 | rate
 fun
 text
 rose
 unable |  
-| bip_39_word_new_line6 | rate
+| bip_39_word_new_line_6 | rate
 fun
 text
 rose
 unable
 only |  
-| bip_39_word_new_line7 | rate
+| bip_39_word_new_line_7 | rate
 fun
 text
 rose
 unable
 only
 nurse |  
-| bip_39_word_new_line8 | rate
+| bip_39_word_new_line_8 | rate
 fun
 text
 rose
@@ -113,7 +113,7 @@ unable
 only
 nurse
 spoil |  
-| bip_39_word_new_line9 | rate
+| bip_39_word_new_line_9 | rate
 fun
 text
 rose

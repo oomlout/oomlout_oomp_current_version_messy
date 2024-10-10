@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | edit |  
-| bip_39_word_new_br10 | edit<br>appear<br>trumpet<br>acquire<br>capital<br>skate<br>foil<br>catalog<br>solid<br>gather |  
-| bip_39_word_new_br11 | edit<br>appear<br>trumpet<br>acquire<br>capital<br>skate<br>foil<br>catalog<br>solid<br>gather<br>day |  
-| bip_39_word_new_br12 | edit<br>appear<br>trumpet<br>acquire<br>capital<br>skate<br>foil<br>catalog<br>solid<br>gather<br>day<br>asthma |  
-| bip_39_word_new_br2 | edit<br>appear |  
-| bip_39_word_new_br3 | edit<br>appear<br>trumpet |  
-| bip_39_word_new_br4 | edit<br>appear<br>trumpet<br>acquire |  
-| bip_39_word_new_br5 | edit<br>appear<br>trumpet<br>acquire<br>capital |  
-| bip_39_word_new_br6 | edit<br>appear<br>trumpet<br>acquire<br>capital<br>skate |  
-| bip_39_word_new_br7 | edit<br>appear<br>trumpet<br>acquire<br>capital<br>skate<br>foil |  
-| bip_39_word_new_br8 | edit<br>appear<br>trumpet<br>acquire<br>capital<br>skate<br>foil<br>catalog |  
-| bip_39_word_new_br9 | edit<br>appear<br>trumpet<br>acquire<br>capital<br>skate<br>foil<br>catalog<br>solid |  
-| bip_39_word_new_line1 | edit |  
-| bip_39_word_new_line10 | edit
+| bip_39_word_new_br_1 | edit |  
+| bip_39_word_new_br_10 | edit<br>appear<br>trumpet<br>acquire<br>capital<br>skate<br>foil<br>catalog<br>solid<br>gather |  
+| bip_39_word_new_br_11 | edit<br>appear<br>trumpet<br>acquire<br>capital<br>skate<br>foil<br>catalog<br>solid<br>gather<br>day |  
+| bip_39_word_new_br_12 | edit<br>appear<br>trumpet<br>acquire<br>capital<br>skate<br>foil<br>catalog<br>solid<br>gather<br>day<br>asthma |  
+| bip_39_word_new_br_2 | edit<br>appear |  
+| bip_39_word_new_br_3 | edit<br>appear<br>trumpet |  
+| bip_39_word_new_br_4 | edit<br>appear<br>trumpet<br>acquire |  
+| bip_39_word_new_br_5 | edit<br>appear<br>trumpet<br>acquire<br>capital |  
+| bip_39_word_new_br_6 | edit<br>appear<br>trumpet<br>acquire<br>capital<br>skate |  
+| bip_39_word_new_br_7 | edit<br>appear<br>trumpet<br>acquire<br>capital<br>skate<br>foil |  
+| bip_39_word_new_br_8 | edit<br>appear<br>trumpet<br>acquire<br>capital<br>skate<br>foil<br>catalog |  
+| bip_39_word_new_br_9 | edit<br>appear<br>trumpet<br>acquire<br>capital<br>skate<br>foil<br>catalog<br>solid |  
+| bip_39_word_new_line_1 | edit |  
+| bip_39_word_new_line_10 | edit
 appear
 trumpet
 acquire
@@ -55,7 +55,7 @@ foil
 catalog
 solid
 gather |  
-| bip_39_word_new_line11 | edit
+| bip_39_word_new_line_11 | edit
 appear
 trumpet
 acquire
@@ -66,7 +66,7 @@ catalog
 solid
 gather
 day |  
-| bip_39_word_new_line12 | edit
+| bip_39_word_new_line_12 | edit
 appear
 trumpet
 acquire
@@ -78,34 +78,34 @@ solid
 gather
 day
 asthma |  
-| bip_39_word_new_line2 | edit
+| bip_39_word_new_line_2 | edit
 appear |  
-| bip_39_word_new_line3 | edit
+| bip_39_word_new_line_3 | edit
 appear
 trumpet |  
-| bip_39_word_new_line4 | edit
+| bip_39_word_new_line_4 | edit
 appear
 trumpet
 acquire |  
-| bip_39_word_new_line5 | edit
+| bip_39_word_new_line_5 | edit
 appear
 trumpet
 acquire
 capital |  
-| bip_39_word_new_line6 | edit
+| bip_39_word_new_line_6 | edit
 appear
 trumpet
 acquire
 capital
 skate |  
-| bip_39_word_new_line7 | edit
+| bip_39_word_new_line_7 | edit
 appear
 trumpet
 acquire
 capital
 skate
 foil |  
-| bip_39_word_new_line8 | edit
+| bip_39_word_new_line_8 | edit
 appear
 trumpet
 acquire
@@ -113,7 +113,7 @@ capital
 skate
 foil
 catalog |  
-| bip_39_word_new_line9 | edit
+| bip_39_word_new_line_9 | edit
 appear
 trumpet
 acquire

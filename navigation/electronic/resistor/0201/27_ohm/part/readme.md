@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | whale |  
-| bip_39_word_new_br10 | whale<br>warm<br>employ<br>skill<br>barrel<br>clip<br>private<br>crowd<br>bike<br>earth |  
-| bip_39_word_new_br11 | whale<br>warm<br>employ<br>skill<br>barrel<br>clip<br>private<br>crowd<br>bike<br>earth<br>announce |  
-| bip_39_word_new_br12 | whale<br>warm<br>employ<br>skill<br>barrel<br>clip<br>private<br>crowd<br>bike<br>earth<br>announce<br>attitude |  
-| bip_39_word_new_br2 | whale<br>warm |  
-| bip_39_word_new_br3 | whale<br>warm<br>employ |  
-| bip_39_word_new_br4 | whale<br>warm<br>employ<br>skill |  
-| bip_39_word_new_br5 | whale<br>warm<br>employ<br>skill<br>barrel |  
-| bip_39_word_new_br6 | whale<br>warm<br>employ<br>skill<br>barrel<br>clip |  
-| bip_39_word_new_br7 | whale<br>warm<br>employ<br>skill<br>barrel<br>clip<br>private |  
-| bip_39_word_new_br8 | whale<br>warm<br>employ<br>skill<br>barrel<br>clip<br>private<br>crowd |  
-| bip_39_word_new_br9 | whale<br>warm<br>employ<br>skill<br>barrel<br>clip<br>private<br>crowd<br>bike |  
-| bip_39_word_new_line1 | whale |  
-| bip_39_word_new_line10 | whale
+| bip_39_word_new_br_1 | whale |  
+| bip_39_word_new_br_10 | whale<br>warm<br>employ<br>skill<br>barrel<br>clip<br>private<br>crowd<br>bike<br>earth |  
+| bip_39_word_new_br_11 | whale<br>warm<br>employ<br>skill<br>barrel<br>clip<br>private<br>crowd<br>bike<br>earth<br>announce |  
+| bip_39_word_new_br_12 | whale<br>warm<br>employ<br>skill<br>barrel<br>clip<br>private<br>crowd<br>bike<br>earth<br>announce<br>attitude |  
+| bip_39_word_new_br_2 | whale<br>warm |  
+| bip_39_word_new_br_3 | whale<br>warm<br>employ |  
+| bip_39_word_new_br_4 | whale<br>warm<br>employ<br>skill |  
+| bip_39_word_new_br_5 | whale<br>warm<br>employ<br>skill<br>barrel |  
+| bip_39_word_new_br_6 | whale<br>warm<br>employ<br>skill<br>barrel<br>clip |  
+| bip_39_word_new_br_7 | whale<br>warm<br>employ<br>skill<br>barrel<br>clip<br>private |  
+| bip_39_word_new_br_8 | whale<br>warm<br>employ<br>skill<br>barrel<br>clip<br>private<br>crowd |  
+| bip_39_word_new_br_9 | whale<br>warm<br>employ<br>skill<br>barrel<br>clip<br>private<br>crowd<br>bike |  
+| bip_39_word_new_line_1 | whale |  
+| bip_39_word_new_line_10 | whale
 warm
 employ
 skill
@@ -55,7 +55,7 @@ private
 crowd
 bike
 earth |  
-| bip_39_word_new_line11 | whale
+| bip_39_word_new_line_11 | whale
 warm
 employ
 skill
@@ -66,7 +66,7 @@ crowd
 bike
 earth
 announce |  
-| bip_39_word_new_line12 | whale
+| bip_39_word_new_line_12 | whale
 warm
 employ
 skill
@@ -78,34 +78,34 @@ bike
 earth
 announce
 attitude |  
-| bip_39_word_new_line2 | whale
+| bip_39_word_new_line_2 | whale
 warm |  
-| bip_39_word_new_line3 | whale
+| bip_39_word_new_line_3 | whale
 warm
 employ |  
-| bip_39_word_new_line4 | whale
+| bip_39_word_new_line_4 | whale
 warm
 employ
 skill |  
-| bip_39_word_new_line5 | whale
+| bip_39_word_new_line_5 | whale
 warm
 employ
 skill
 barrel |  
-| bip_39_word_new_line6 | whale
+| bip_39_word_new_line_6 | whale
 warm
 employ
 skill
 barrel
 clip |  
-| bip_39_word_new_line7 | whale
+| bip_39_word_new_line_7 | whale
 warm
 employ
 skill
 barrel
 clip
 private |  
-| bip_39_word_new_line8 | whale
+| bip_39_word_new_line_8 | whale
 warm
 employ
 skill
@@ -113,7 +113,7 @@ barrel
 clip
 private
 crowd |  
-| bip_39_word_new_line9 | whale
+| bip_39_word_new_line_9 | whale
 warm
 employ
 skill

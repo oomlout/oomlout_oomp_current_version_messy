@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | annual |  
-| bip_39_word_new_br10 | annual<br>flavor<br>dove<br>burst<br>erosion<br>ordinary<br>card<br>check<br>zoo<br>train |  
-| bip_39_word_new_br11 | annual<br>flavor<br>dove<br>burst<br>erosion<br>ordinary<br>card<br>check<br>zoo<br>train<br>skirt |  
-| bip_39_word_new_br12 | annual<br>flavor<br>dove<br>burst<br>erosion<br>ordinary<br>card<br>check<br>zoo<br>train<br>skirt<br>angry |  
-| bip_39_word_new_br2 | annual<br>flavor |  
-| bip_39_word_new_br3 | annual<br>flavor<br>dove |  
-| bip_39_word_new_br4 | annual<br>flavor<br>dove<br>burst |  
-| bip_39_word_new_br5 | annual<br>flavor<br>dove<br>burst<br>erosion |  
-| bip_39_word_new_br6 | annual<br>flavor<br>dove<br>burst<br>erosion<br>ordinary |  
-| bip_39_word_new_br7 | annual<br>flavor<br>dove<br>burst<br>erosion<br>ordinary<br>card |  
-| bip_39_word_new_br8 | annual<br>flavor<br>dove<br>burst<br>erosion<br>ordinary<br>card<br>check |  
-| bip_39_word_new_br9 | annual<br>flavor<br>dove<br>burst<br>erosion<br>ordinary<br>card<br>check<br>zoo |  
-| bip_39_word_new_line1 | annual |  
-| bip_39_word_new_line10 | annual
+| bip_39_word_new_br_1 | annual |  
+| bip_39_word_new_br_10 | annual<br>flavor<br>dove<br>burst<br>erosion<br>ordinary<br>card<br>check<br>zoo<br>train |  
+| bip_39_word_new_br_11 | annual<br>flavor<br>dove<br>burst<br>erosion<br>ordinary<br>card<br>check<br>zoo<br>train<br>skirt |  
+| bip_39_word_new_br_12 | annual<br>flavor<br>dove<br>burst<br>erosion<br>ordinary<br>card<br>check<br>zoo<br>train<br>skirt<br>angry |  
+| bip_39_word_new_br_2 | annual<br>flavor |  
+| bip_39_word_new_br_3 | annual<br>flavor<br>dove |  
+| bip_39_word_new_br_4 | annual<br>flavor<br>dove<br>burst |  
+| bip_39_word_new_br_5 | annual<br>flavor<br>dove<br>burst<br>erosion |  
+| bip_39_word_new_br_6 | annual<br>flavor<br>dove<br>burst<br>erosion<br>ordinary |  
+| bip_39_word_new_br_7 | annual<br>flavor<br>dove<br>burst<br>erosion<br>ordinary<br>card |  
+| bip_39_word_new_br_8 | annual<br>flavor<br>dove<br>burst<br>erosion<br>ordinary<br>card<br>check |  
+| bip_39_word_new_br_9 | annual<br>flavor<br>dove<br>burst<br>erosion<br>ordinary<br>card<br>check<br>zoo |  
+| bip_39_word_new_line_1 | annual |  
+| bip_39_word_new_line_10 | annual
 flavor
 dove
 burst
@@ -55,7 +55,7 @@ card
 check
 zoo
 train |  
-| bip_39_word_new_line11 | annual
+| bip_39_word_new_line_11 | annual
 flavor
 dove
 burst
@@ -66,7 +66,7 @@ check
 zoo
 train
 skirt |  
-| bip_39_word_new_line12 | annual
+| bip_39_word_new_line_12 | annual
 flavor
 dove
 burst
@@ -78,34 +78,34 @@ zoo
 train
 skirt
 angry |  
-| bip_39_word_new_line2 | annual
+| bip_39_word_new_line_2 | annual
 flavor |  
-| bip_39_word_new_line3 | annual
+| bip_39_word_new_line_3 | annual
 flavor
 dove |  
-| bip_39_word_new_line4 | annual
+| bip_39_word_new_line_4 | annual
 flavor
 dove
 burst |  
-| bip_39_word_new_line5 | annual
+| bip_39_word_new_line_5 | annual
 flavor
 dove
 burst
 erosion |  
-| bip_39_word_new_line6 | annual
+| bip_39_word_new_line_6 | annual
 flavor
 dove
 burst
 erosion
 ordinary |  
-| bip_39_word_new_line7 | annual
+| bip_39_word_new_line_7 | annual
 flavor
 dove
 burst
 erosion
 ordinary
 card |  
-| bip_39_word_new_line8 | annual
+| bip_39_word_new_line_8 | annual
 flavor
 dove
 burst
@@ -113,7 +113,7 @@ erosion
 ordinary
 card
 check |  
-| bip_39_word_new_line9 | annual
+| bip_39_word_new_line_9 | annual
 flavor
 dove
 burst

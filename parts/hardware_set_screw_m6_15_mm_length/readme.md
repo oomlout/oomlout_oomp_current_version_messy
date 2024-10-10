@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | excess |  
-| bip_39_word_new_br10 | excess<br>depart<br>maximum<br>grant<br>rain<br>orient<br>assume<br>joke<br>toward<br>exile |  
-| bip_39_word_new_br11 | excess<br>depart<br>maximum<br>grant<br>rain<br>orient<br>assume<br>joke<br>toward<br>exile<br>soccer |  
-| bip_39_word_new_br12 | excess<br>depart<br>maximum<br>grant<br>rain<br>orient<br>assume<br>joke<br>toward<br>exile<br>soccer<br>around |  
-| bip_39_word_new_br2 | excess<br>depart |  
-| bip_39_word_new_br3 | excess<br>depart<br>maximum |  
-| bip_39_word_new_br4 | excess<br>depart<br>maximum<br>grant |  
-| bip_39_word_new_br5 | excess<br>depart<br>maximum<br>grant<br>rain |  
-| bip_39_word_new_br6 | excess<br>depart<br>maximum<br>grant<br>rain<br>orient |  
-| bip_39_word_new_br7 | excess<br>depart<br>maximum<br>grant<br>rain<br>orient<br>assume |  
-| bip_39_word_new_br8 | excess<br>depart<br>maximum<br>grant<br>rain<br>orient<br>assume<br>joke |  
-| bip_39_word_new_br9 | excess<br>depart<br>maximum<br>grant<br>rain<br>orient<br>assume<br>joke<br>toward |  
-| bip_39_word_new_line1 | excess |  
-| bip_39_word_new_line10 | excess
+| bip_39_word_new_br_1 | excess |  
+| bip_39_word_new_br_10 | excess<br>depart<br>maximum<br>grant<br>rain<br>orient<br>assume<br>joke<br>toward<br>exile |  
+| bip_39_word_new_br_11 | excess<br>depart<br>maximum<br>grant<br>rain<br>orient<br>assume<br>joke<br>toward<br>exile<br>soccer |  
+| bip_39_word_new_br_12 | excess<br>depart<br>maximum<br>grant<br>rain<br>orient<br>assume<br>joke<br>toward<br>exile<br>soccer<br>around |  
+| bip_39_word_new_br_2 | excess<br>depart |  
+| bip_39_word_new_br_3 | excess<br>depart<br>maximum |  
+| bip_39_word_new_br_4 | excess<br>depart<br>maximum<br>grant |  
+| bip_39_word_new_br_5 | excess<br>depart<br>maximum<br>grant<br>rain |  
+| bip_39_word_new_br_6 | excess<br>depart<br>maximum<br>grant<br>rain<br>orient |  
+| bip_39_word_new_br_7 | excess<br>depart<br>maximum<br>grant<br>rain<br>orient<br>assume |  
+| bip_39_word_new_br_8 | excess<br>depart<br>maximum<br>grant<br>rain<br>orient<br>assume<br>joke |  
+| bip_39_word_new_br_9 | excess<br>depart<br>maximum<br>grant<br>rain<br>orient<br>assume<br>joke<br>toward |  
+| bip_39_word_new_line_1 | excess |  
+| bip_39_word_new_line_10 | excess
 depart
 maximum
 grant
@@ -55,7 +55,7 @@ assume
 joke
 toward
 exile |  
-| bip_39_word_new_line11 | excess
+| bip_39_word_new_line_11 | excess
 depart
 maximum
 grant
@@ -66,7 +66,7 @@ joke
 toward
 exile
 soccer |  
-| bip_39_word_new_line12 | excess
+| bip_39_word_new_line_12 | excess
 depart
 maximum
 grant
@@ -78,34 +78,34 @@ toward
 exile
 soccer
 around |  
-| bip_39_word_new_line2 | excess
+| bip_39_word_new_line_2 | excess
 depart |  
-| bip_39_word_new_line3 | excess
+| bip_39_word_new_line_3 | excess
 depart
 maximum |  
-| bip_39_word_new_line4 | excess
+| bip_39_word_new_line_4 | excess
 depart
 maximum
 grant |  
-| bip_39_word_new_line5 | excess
+| bip_39_word_new_line_5 | excess
 depart
 maximum
 grant
 rain |  
-| bip_39_word_new_line6 | excess
+| bip_39_word_new_line_6 | excess
 depart
 maximum
 grant
 rain
 orient |  
-| bip_39_word_new_line7 | excess
+| bip_39_word_new_line_7 | excess
 depart
 maximum
 grant
 rain
 orient
 assume |  
-| bip_39_word_new_line8 | excess
+| bip_39_word_new_line_8 | excess
 depart
 maximum
 grant
@@ -113,7 +113,7 @@ rain
 orient
 assume
 joke |  
-| bip_39_word_new_line9 | excess
+| bip_39_word_new_line_9 | excess
 depart
 maximum
 grant

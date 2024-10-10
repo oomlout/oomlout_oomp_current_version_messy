@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | prize |  
-| bip_39_word_new_br10 | prize<br>monitor<br>trip<br>drastic<br>mimic<br>wine<br>coral<br>train<br>snow<br>chalk |  
-| bip_39_word_new_br11 | prize<br>monitor<br>trip<br>drastic<br>mimic<br>wine<br>coral<br>train<br>snow<br>chalk<br>isolate |  
-| bip_39_word_new_br12 | prize<br>monitor<br>trip<br>drastic<br>mimic<br>wine<br>coral<br>train<br>snow<br>chalk<br>isolate<br>address |  
-| bip_39_word_new_br2 | prize<br>monitor |  
-| bip_39_word_new_br3 | prize<br>monitor<br>trip |  
-| bip_39_word_new_br4 | prize<br>monitor<br>trip<br>drastic |  
-| bip_39_word_new_br5 | prize<br>monitor<br>trip<br>drastic<br>mimic |  
-| bip_39_word_new_br6 | prize<br>monitor<br>trip<br>drastic<br>mimic<br>wine |  
-| bip_39_word_new_br7 | prize<br>monitor<br>trip<br>drastic<br>mimic<br>wine<br>coral |  
-| bip_39_word_new_br8 | prize<br>monitor<br>trip<br>drastic<br>mimic<br>wine<br>coral<br>train |  
-| bip_39_word_new_br9 | prize<br>monitor<br>trip<br>drastic<br>mimic<br>wine<br>coral<br>train<br>snow |  
-| bip_39_word_new_line1 | prize |  
-| bip_39_word_new_line10 | prize
+| bip_39_word_new_br_1 | prize |  
+| bip_39_word_new_br_10 | prize<br>monitor<br>trip<br>drastic<br>mimic<br>wine<br>coral<br>train<br>snow<br>chalk |  
+| bip_39_word_new_br_11 | prize<br>monitor<br>trip<br>drastic<br>mimic<br>wine<br>coral<br>train<br>snow<br>chalk<br>isolate |  
+| bip_39_word_new_br_12 | prize<br>monitor<br>trip<br>drastic<br>mimic<br>wine<br>coral<br>train<br>snow<br>chalk<br>isolate<br>address |  
+| bip_39_word_new_br_2 | prize<br>monitor |  
+| bip_39_word_new_br_3 | prize<br>monitor<br>trip |  
+| bip_39_word_new_br_4 | prize<br>monitor<br>trip<br>drastic |  
+| bip_39_word_new_br_5 | prize<br>monitor<br>trip<br>drastic<br>mimic |  
+| bip_39_word_new_br_6 | prize<br>monitor<br>trip<br>drastic<br>mimic<br>wine |  
+| bip_39_word_new_br_7 | prize<br>monitor<br>trip<br>drastic<br>mimic<br>wine<br>coral |  
+| bip_39_word_new_br_8 | prize<br>monitor<br>trip<br>drastic<br>mimic<br>wine<br>coral<br>train |  
+| bip_39_word_new_br_9 | prize<br>monitor<br>trip<br>drastic<br>mimic<br>wine<br>coral<br>train<br>snow |  
+| bip_39_word_new_line_1 | prize |  
+| bip_39_word_new_line_10 | prize
 monitor
 trip
 drastic
@@ -55,7 +55,7 @@ coral
 train
 snow
 chalk |  
-| bip_39_word_new_line11 | prize
+| bip_39_word_new_line_11 | prize
 monitor
 trip
 drastic
@@ -66,7 +66,7 @@ train
 snow
 chalk
 isolate |  
-| bip_39_word_new_line12 | prize
+| bip_39_word_new_line_12 | prize
 monitor
 trip
 drastic
@@ -78,34 +78,34 @@ snow
 chalk
 isolate
 address |  
-| bip_39_word_new_line2 | prize
+| bip_39_word_new_line_2 | prize
 monitor |  
-| bip_39_word_new_line3 | prize
+| bip_39_word_new_line_3 | prize
 monitor
 trip |  
-| bip_39_word_new_line4 | prize
+| bip_39_word_new_line_4 | prize
 monitor
 trip
 drastic |  
-| bip_39_word_new_line5 | prize
+| bip_39_word_new_line_5 | prize
 monitor
 trip
 drastic
 mimic |  
-| bip_39_word_new_line6 | prize
+| bip_39_word_new_line_6 | prize
 monitor
 trip
 drastic
 mimic
 wine |  
-| bip_39_word_new_line7 | prize
+| bip_39_word_new_line_7 | prize
 monitor
 trip
 drastic
 mimic
 wine
 coral |  
-| bip_39_word_new_line8 | prize
+| bip_39_word_new_line_8 | prize
 monitor
 trip
 drastic
@@ -113,7 +113,7 @@ mimic
 wine
 coral
 train |  
-| bip_39_word_new_line9 | prize
+| bip_39_word_new_line_9 | prize
 monitor
 trip
 drastic

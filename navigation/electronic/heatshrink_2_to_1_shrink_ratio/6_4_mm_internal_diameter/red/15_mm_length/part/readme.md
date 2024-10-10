@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | credit |  
-| bip_39_word_new_br10 | credit<br>husband<br>nut<br>polar<br>wall<br>medal<br>bamboo<br>carbon<br>assault<br>survey |  
-| bip_39_word_new_br11 | credit<br>husband<br>nut<br>polar<br>wall<br>medal<br>bamboo<br>carbon<br>assault<br>survey<br>goose |  
-| bip_39_word_new_br12 | credit<br>husband<br>nut<br>polar<br>wall<br>medal<br>bamboo<br>carbon<br>assault<br>survey<br>goose<br>attack |  
-| bip_39_word_new_br2 | credit<br>husband |  
-| bip_39_word_new_br3 | credit<br>husband<br>nut |  
-| bip_39_word_new_br4 | credit<br>husband<br>nut<br>polar |  
-| bip_39_word_new_br5 | credit<br>husband<br>nut<br>polar<br>wall |  
-| bip_39_word_new_br6 | credit<br>husband<br>nut<br>polar<br>wall<br>medal |  
-| bip_39_word_new_br7 | credit<br>husband<br>nut<br>polar<br>wall<br>medal<br>bamboo |  
-| bip_39_word_new_br8 | credit<br>husband<br>nut<br>polar<br>wall<br>medal<br>bamboo<br>carbon |  
-| bip_39_word_new_br9 | credit<br>husband<br>nut<br>polar<br>wall<br>medal<br>bamboo<br>carbon<br>assault |  
-| bip_39_word_new_line1 | credit |  
-| bip_39_word_new_line10 | credit
+| bip_39_word_new_br_1 | credit |  
+| bip_39_word_new_br_10 | credit<br>husband<br>nut<br>polar<br>wall<br>medal<br>bamboo<br>carbon<br>assault<br>survey |  
+| bip_39_word_new_br_11 | credit<br>husband<br>nut<br>polar<br>wall<br>medal<br>bamboo<br>carbon<br>assault<br>survey<br>goose |  
+| bip_39_word_new_br_12 | credit<br>husband<br>nut<br>polar<br>wall<br>medal<br>bamboo<br>carbon<br>assault<br>survey<br>goose<br>attack |  
+| bip_39_word_new_br_2 | credit<br>husband |  
+| bip_39_word_new_br_3 | credit<br>husband<br>nut |  
+| bip_39_word_new_br_4 | credit<br>husband<br>nut<br>polar |  
+| bip_39_word_new_br_5 | credit<br>husband<br>nut<br>polar<br>wall |  
+| bip_39_word_new_br_6 | credit<br>husband<br>nut<br>polar<br>wall<br>medal |  
+| bip_39_word_new_br_7 | credit<br>husband<br>nut<br>polar<br>wall<br>medal<br>bamboo |  
+| bip_39_word_new_br_8 | credit<br>husband<br>nut<br>polar<br>wall<br>medal<br>bamboo<br>carbon |  
+| bip_39_word_new_br_9 | credit<br>husband<br>nut<br>polar<br>wall<br>medal<br>bamboo<br>carbon<br>assault |  
+| bip_39_word_new_line_1 | credit |  
+| bip_39_word_new_line_10 | credit
 husband
 nut
 polar
@@ -55,7 +55,7 @@ bamboo
 carbon
 assault
 survey |  
-| bip_39_word_new_line11 | credit
+| bip_39_word_new_line_11 | credit
 husband
 nut
 polar
@@ -66,7 +66,7 @@ carbon
 assault
 survey
 goose |  
-| bip_39_word_new_line12 | credit
+| bip_39_word_new_line_12 | credit
 husband
 nut
 polar
@@ -78,34 +78,34 @@ assault
 survey
 goose
 attack |  
-| bip_39_word_new_line2 | credit
+| bip_39_word_new_line_2 | credit
 husband |  
-| bip_39_word_new_line3 | credit
+| bip_39_word_new_line_3 | credit
 husband
 nut |  
-| bip_39_word_new_line4 | credit
+| bip_39_word_new_line_4 | credit
 husband
 nut
 polar |  
-| bip_39_word_new_line5 | credit
+| bip_39_word_new_line_5 | credit
 husband
 nut
 polar
 wall |  
-| bip_39_word_new_line6 | credit
+| bip_39_word_new_line_6 | credit
 husband
 nut
 polar
 wall
 medal |  
-| bip_39_word_new_line7 | credit
+| bip_39_word_new_line_7 | credit
 husband
 nut
 polar
 wall
 medal
 bamboo |  
-| bip_39_word_new_line8 | credit
+| bip_39_word_new_line_8 | credit
 husband
 nut
 polar
@@ -113,7 +113,7 @@ wall
 medal
 bamboo
 carbon |  
-| bip_39_word_new_line9 | credit
+| bip_39_word_new_line_9 | credit
 husband
 nut
 polar

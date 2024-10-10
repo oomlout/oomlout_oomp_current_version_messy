@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | satoshi |  
-| bip_39_word_new_br10 | satoshi<br>blind<br>sniff<br>snake<br>current<br>thunder<br>robust<br>village<br>net<br>polar |  
-| bip_39_word_new_br11 | satoshi<br>blind<br>sniff<br>snake<br>current<br>thunder<br>robust<br>village<br>net<br>polar<br>valve |  
-| bip_39_word_new_br12 | satoshi<br>blind<br>sniff<br>snake<br>current<br>thunder<br>robust<br>village<br>net<br>polar<br>valve<br>alpha |  
-| bip_39_word_new_br2 | satoshi<br>blind |  
-| bip_39_word_new_br3 | satoshi<br>blind<br>sniff |  
-| bip_39_word_new_br4 | satoshi<br>blind<br>sniff<br>snake |  
-| bip_39_word_new_br5 | satoshi<br>blind<br>sniff<br>snake<br>current |  
-| bip_39_word_new_br6 | satoshi<br>blind<br>sniff<br>snake<br>current<br>thunder |  
-| bip_39_word_new_br7 | satoshi<br>blind<br>sniff<br>snake<br>current<br>thunder<br>robust |  
-| bip_39_word_new_br8 | satoshi<br>blind<br>sniff<br>snake<br>current<br>thunder<br>robust<br>village |  
-| bip_39_word_new_br9 | satoshi<br>blind<br>sniff<br>snake<br>current<br>thunder<br>robust<br>village<br>net |  
-| bip_39_word_new_line1 | satoshi |  
-| bip_39_word_new_line10 | satoshi
+| bip_39_word_new_br_1 | satoshi |  
+| bip_39_word_new_br_10 | satoshi<br>blind<br>sniff<br>snake<br>current<br>thunder<br>robust<br>village<br>net<br>polar |  
+| bip_39_word_new_br_11 | satoshi<br>blind<br>sniff<br>snake<br>current<br>thunder<br>robust<br>village<br>net<br>polar<br>valve |  
+| bip_39_word_new_br_12 | satoshi<br>blind<br>sniff<br>snake<br>current<br>thunder<br>robust<br>village<br>net<br>polar<br>valve<br>alpha |  
+| bip_39_word_new_br_2 | satoshi<br>blind |  
+| bip_39_word_new_br_3 | satoshi<br>blind<br>sniff |  
+| bip_39_word_new_br_4 | satoshi<br>blind<br>sniff<br>snake |  
+| bip_39_word_new_br_5 | satoshi<br>blind<br>sniff<br>snake<br>current |  
+| bip_39_word_new_br_6 | satoshi<br>blind<br>sniff<br>snake<br>current<br>thunder |  
+| bip_39_word_new_br_7 | satoshi<br>blind<br>sniff<br>snake<br>current<br>thunder<br>robust |  
+| bip_39_word_new_br_8 | satoshi<br>blind<br>sniff<br>snake<br>current<br>thunder<br>robust<br>village |  
+| bip_39_word_new_br_9 | satoshi<br>blind<br>sniff<br>snake<br>current<br>thunder<br>robust<br>village<br>net |  
+| bip_39_word_new_line_1 | satoshi |  
+| bip_39_word_new_line_10 | satoshi
 blind
 sniff
 snake
@@ -55,7 +55,7 @@ robust
 village
 net
 polar |  
-| bip_39_word_new_line11 | satoshi
+| bip_39_word_new_line_11 | satoshi
 blind
 sniff
 snake
@@ -66,7 +66,7 @@ village
 net
 polar
 valve |  
-| bip_39_word_new_line12 | satoshi
+| bip_39_word_new_line_12 | satoshi
 blind
 sniff
 snake
@@ -78,34 +78,34 @@ net
 polar
 valve
 alpha |  
-| bip_39_word_new_line2 | satoshi
+| bip_39_word_new_line_2 | satoshi
 blind |  
-| bip_39_word_new_line3 | satoshi
+| bip_39_word_new_line_3 | satoshi
 blind
 sniff |  
-| bip_39_word_new_line4 | satoshi
+| bip_39_word_new_line_4 | satoshi
 blind
 sniff
 snake |  
-| bip_39_word_new_line5 | satoshi
+| bip_39_word_new_line_5 | satoshi
 blind
 sniff
 snake
 current |  
-| bip_39_word_new_line6 | satoshi
+| bip_39_word_new_line_6 | satoshi
 blind
 sniff
 snake
 current
 thunder |  
-| bip_39_word_new_line7 | satoshi
+| bip_39_word_new_line_7 | satoshi
 blind
 sniff
 snake
 current
 thunder
 robust |  
-| bip_39_word_new_line8 | satoshi
+| bip_39_word_new_line_8 | satoshi
 blind
 sniff
 snake
@@ -113,7 +113,7 @@ current
 thunder
 robust
 village |  
-| bip_39_word_new_line9 | satoshi
+| bip_39_word_new_line_9 | satoshi
 blind
 sniff
 snake

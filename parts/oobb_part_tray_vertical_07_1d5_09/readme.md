@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cost |  
-| bip_39_word_new_br10 | cost<br>vague<br>update<br>simple<br>hurry<br>name<br>poet<br>strong<br>steel<br>surround |  
-| bip_39_word_new_br11 | cost<br>vague<br>update<br>simple<br>hurry<br>name<br>poet<br>strong<br>steel<br>surround<br>nest |  
-| bip_39_word_new_br12 | cost<br>vague<br>update<br>simple<br>hurry<br>name<br>poet<br>strong<br>steel<br>surround<br>nest<br>art |  
-| bip_39_word_new_br2 | cost<br>vague |  
-| bip_39_word_new_br3 | cost<br>vague<br>update |  
-| bip_39_word_new_br4 | cost<br>vague<br>update<br>simple |  
-| bip_39_word_new_br5 | cost<br>vague<br>update<br>simple<br>hurry |  
-| bip_39_word_new_br6 | cost<br>vague<br>update<br>simple<br>hurry<br>name |  
-| bip_39_word_new_br7 | cost<br>vague<br>update<br>simple<br>hurry<br>name<br>poet |  
-| bip_39_word_new_br8 | cost<br>vague<br>update<br>simple<br>hurry<br>name<br>poet<br>strong |  
-| bip_39_word_new_br9 | cost<br>vague<br>update<br>simple<br>hurry<br>name<br>poet<br>strong<br>steel |  
-| bip_39_word_new_line1 | cost |  
-| bip_39_word_new_line10 | cost
+| bip_39_word_new_br_1 | cost |  
+| bip_39_word_new_br_10 | cost<br>vague<br>update<br>simple<br>hurry<br>name<br>poet<br>strong<br>steel<br>surround |  
+| bip_39_word_new_br_11 | cost<br>vague<br>update<br>simple<br>hurry<br>name<br>poet<br>strong<br>steel<br>surround<br>nest |  
+| bip_39_word_new_br_12 | cost<br>vague<br>update<br>simple<br>hurry<br>name<br>poet<br>strong<br>steel<br>surround<br>nest<br>art |  
+| bip_39_word_new_br_2 | cost<br>vague |  
+| bip_39_word_new_br_3 | cost<br>vague<br>update |  
+| bip_39_word_new_br_4 | cost<br>vague<br>update<br>simple |  
+| bip_39_word_new_br_5 | cost<br>vague<br>update<br>simple<br>hurry |  
+| bip_39_word_new_br_6 | cost<br>vague<br>update<br>simple<br>hurry<br>name |  
+| bip_39_word_new_br_7 | cost<br>vague<br>update<br>simple<br>hurry<br>name<br>poet |  
+| bip_39_word_new_br_8 | cost<br>vague<br>update<br>simple<br>hurry<br>name<br>poet<br>strong |  
+| bip_39_word_new_br_9 | cost<br>vague<br>update<br>simple<br>hurry<br>name<br>poet<br>strong<br>steel |  
+| bip_39_word_new_line_1 | cost |  
+| bip_39_word_new_line_10 | cost
 vague
 update
 simple
@@ -55,7 +55,7 @@ poet
 strong
 steel
 surround |  
-| bip_39_word_new_line11 | cost
+| bip_39_word_new_line_11 | cost
 vague
 update
 simple
@@ -66,7 +66,7 @@ strong
 steel
 surround
 nest |  
-| bip_39_word_new_line12 | cost
+| bip_39_word_new_line_12 | cost
 vague
 update
 simple
@@ -78,34 +78,34 @@ steel
 surround
 nest
 art |  
-| bip_39_word_new_line2 | cost
+| bip_39_word_new_line_2 | cost
 vague |  
-| bip_39_word_new_line3 | cost
+| bip_39_word_new_line_3 | cost
 vague
 update |  
-| bip_39_word_new_line4 | cost
+| bip_39_word_new_line_4 | cost
 vague
 update
 simple |  
-| bip_39_word_new_line5 | cost
+| bip_39_word_new_line_5 | cost
 vague
 update
 simple
 hurry |  
-| bip_39_word_new_line6 | cost
+| bip_39_word_new_line_6 | cost
 vague
 update
 simple
 hurry
 name |  
-| bip_39_word_new_line7 | cost
+| bip_39_word_new_line_7 | cost
 vague
 update
 simple
 hurry
 name
 poet |  
-| bip_39_word_new_line8 | cost
+| bip_39_word_new_line_8 | cost
 vague
 update
 simple
@@ -113,7 +113,7 @@ hurry
 name
 poet
 strong |  
-| bip_39_word_new_line9 | cost
+| bip_39_word_new_line_9 | cost
 vague
 update
 simple

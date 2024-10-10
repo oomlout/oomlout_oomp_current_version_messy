@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | match |  
-| bip_39_word_new_br10 | match<br>trigger<br>pass<br>opera<br>slice<br>eight<br>reform<br>expect<br>blood<br>nasty |  
-| bip_39_word_new_br11 | match<br>trigger<br>pass<br>opera<br>slice<br>eight<br>reform<br>expect<br>blood<br>nasty<br>kingdom |  
-| bip_39_word_new_br12 | match<br>trigger<br>pass<br>opera<br>slice<br>eight<br>reform<br>expect<br>blood<br>nasty<br>kingdom<br>alien |  
-| bip_39_word_new_br2 | match<br>trigger |  
-| bip_39_word_new_br3 | match<br>trigger<br>pass |  
-| bip_39_word_new_br4 | match<br>trigger<br>pass<br>opera |  
-| bip_39_word_new_br5 | match<br>trigger<br>pass<br>opera<br>slice |  
-| bip_39_word_new_br6 | match<br>trigger<br>pass<br>opera<br>slice<br>eight |  
-| bip_39_word_new_br7 | match<br>trigger<br>pass<br>opera<br>slice<br>eight<br>reform |  
-| bip_39_word_new_br8 | match<br>trigger<br>pass<br>opera<br>slice<br>eight<br>reform<br>expect |  
-| bip_39_word_new_br9 | match<br>trigger<br>pass<br>opera<br>slice<br>eight<br>reform<br>expect<br>blood |  
-| bip_39_word_new_line1 | match |  
-| bip_39_word_new_line10 | match
+| bip_39_word_new_br_1 | match |  
+| bip_39_word_new_br_10 | match<br>trigger<br>pass<br>opera<br>slice<br>eight<br>reform<br>expect<br>blood<br>nasty |  
+| bip_39_word_new_br_11 | match<br>trigger<br>pass<br>opera<br>slice<br>eight<br>reform<br>expect<br>blood<br>nasty<br>kingdom |  
+| bip_39_word_new_br_12 | match<br>trigger<br>pass<br>opera<br>slice<br>eight<br>reform<br>expect<br>blood<br>nasty<br>kingdom<br>alien |  
+| bip_39_word_new_br_2 | match<br>trigger |  
+| bip_39_word_new_br_3 | match<br>trigger<br>pass |  
+| bip_39_word_new_br_4 | match<br>trigger<br>pass<br>opera |  
+| bip_39_word_new_br_5 | match<br>trigger<br>pass<br>opera<br>slice |  
+| bip_39_word_new_br_6 | match<br>trigger<br>pass<br>opera<br>slice<br>eight |  
+| bip_39_word_new_br_7 | match<br>trigger<br>pass<br>opera<br>slice<br>eight<br>reform |  
+| bip_39_word_new_br_8 | match<br>trigger<br>pass<br>opera<br>slice<br>eight<br>reform<br>expect |  
+| bip_39_word_new_br_9 | match<br>trigger<br>pass<br>opera<br>slice<br>eight<br>reform<br>expect<br>blood |  
+| bip_39_word_new_line_1 | match |  
+| bip_39_word_new_line_10 | match
 trigger
 pass
 opera
@@ -55,7 +55,7 @@ reform
 expect
 blood
 nasty |  
-| bip_39_word_new_line11 | match
+| bip_39_word_new_line_11 | match
 trigger
 pass
 opera
@@ -66,7 +66,7 @@ expect
 blood
 nasty
 kingdom |  
-| bip_39_word_new_line12 | match
+| bip_39_word_new_line_12 | match
 trigger
 pass
 opera
@@ -78,34 +78,34 @@ blood
 nasty
 kingdom
 alien |  
-| bip_39_word_new_line2 | match
+| bip_39_word_new_line_2 | match
 trigger |  
-| bip_39_word_new_line3 | match
+| bip_39_word_new_line_3 | match
 trigger
 pass |  
-| bip_39_word_new_line4 | match
+| bip_39_word_new_line_4 | match
 trigger
 pass
 opera |  
-| bip_39_word_new_line5 | match
+| bip_39_word_new_line_5 | match
 trigger
 pass
 opera
 slice |  
-| bip_39_word_new_line6 | match
+| bip_39_word_new_line_6 | match
 trigger
 pass
 opera
 slice
 eight |  
-| bip_39_word_new_line7 | match
+| bip_39_word_new_line_7 | match
 trigger
 pass
 opera
 slice
 eight
 reform |  
-| bip_39_word_new_line8 | match
+| bip_39_word_new_line_8 | match
 trigger
 pass
 opera
@@ -113,7 +113,7 @@ slice
 eight
 reform
 expect |  
-| bip_39_word_new_line9 | match
+| bip_39_word_new_line_9 | match
 trigger
 pass
 opera

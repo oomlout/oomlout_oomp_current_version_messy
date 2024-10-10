@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | push |  
-| bip_39_word_new_br10 | push<br>endorse<br>legend<br>open<br>sleep<br>begin<br>still<br>oak<br>surface<br>oil |  
-| bip_39_word_new_br11 | push<br>endorse<br>legend<br>open<br>sleep<br>begin<br>still<br>oak<br>surface<br>oil<br>crumble |  
-| bip_39_word_new_br12 | push<br>endorse<br>legend<br>open<br>sleep<br>begin<br>still<br>oak<br>surface<br>oil<br>crumble<br>absent |  
-| bip_39_word_new_br2 | push<br>endorse |  
-| bip_39_word_new_br3 | push<br>endorse<br>legend |  
-| bip_39_word_new_br4 | push<br>endorse<br>legend<br>open |  
-| bip_39_word_new_br5 | push<br>endorse<br>legend<br>open<br>sleep |  
-| bip_39_word_new_br6 | push<br>endorse<br>legend<br>open<br>sleep<br>begin |  
-| bip_39_word_new_br7 | push<br>endorse<br>legend<br>open<br>sleep<br>begin<br>still |  
-| bip_39_word_new_br8 | push<br>endorse<br>legend<br>open<br>sleep<br>begin<br>still<br>oak |  
-| bip_39_word_new_br9 | push<br>endorse<br>legend<br>open<br>sleep<br>begin<br>still<br>oak<br>surface |  
-| bip_39_word_new_line1 | push |  
-| bip_39_word_new_line10 | push
+| bip_39_word_new_br_1 | push |  
+| bip_39_word_new_br_10 | push<br>endorse<br>legend<br>open<br>sleep<br>begin<br>still<br>oak<br>surface<br>oil |  
+| bip_39_word_new_br_11 | push<br>endorse<br>legend<br>open<br>sleep<br>begin<br>still<br>oak<br>surface<br>oil<br>crumble |  
+| bip_39_word_new_br_12 | push<br>endorse<br>legend<br>open<br>sleep<br>begin<br>still<br>oak<br>surface<br>oil<br>crumble<br>absent |  
+| bip_39_word_new_br_2 | push<br>endorse |  
+| bip_39_word_new_br_3 | push<br>endorse<br>legend |  
+| bip_39_word_new_br_4 | push<br>endorse<br>legend<br>open |  
+| bip_39_word_new_br_5 | push<br>endorse<br>legend<br>open<br>sleep |  
+| bip_39_word_new_br_6 | push<br>endorse<br>legend<br>open<br>sleep<br>begin |  
+| bip_39_word_new_br_7 | push<br>endorse<br>legend<br>open<br>sleep<br>begin<br>still |  
+| bip_39_word_new_br_8 | push<br>endorse<br>legend<br>open<br>sleep<br>begin<br>still<br>oak |  
+| bip_39_word_new_br_9 | push<br>endorse<br>legend<br>open<br>sleep<br>begin<br>still<br>oak<br>surface |  
+| bip_39_word_new_line_1 | push |  
+| bip_39_word_new_line_10 | push
 endorse
 legend
 open
@@ -55,7 +55,7 @@ still
 oak
 surface
 oil |  
-| bip_39_word_new_line11 | push
+| bip_39_word_new_line_11 | push
 endorse
 legend
 open
@@ -66,7 +66,7 @@ oak
 surface
 oil
 crumble |  
-| bip_39_word_new_line12 | push
+| bip_39_word_new_line_12 | push
 endorse
 legend
 open
@@ -78,34 +78,34 @@ surface
 oil
 crumble
 absent |  
-| bip_39_word_new_line2 | push
+| bip_39_word_new_line_2 | push
 endorse |  
-| bip_39_word_new_line3 | push
+| bip_39_word_new_line_3 | push
 endorse
 legend |  
-| bip_39_word_new_line4 | push
+| bip_39_word_new_line_4 | push
 endorse
 legend
 open |  
-| bip_39_word_new_line5 | push
+| bip_39_word_new_line_5 | push
 endorse
 legend
 open
 sleep |  
-| bip_39_word_new_line6 | push
+| bip_39_word_new_line_6 | push
 endorse
 legend
 open
 sleep
 begin |  
-| bip_39_word_new_line7 | push
+| bip_39_word_new_line_7 | push
 endorse
 legend
 open
 sleep
 begin
 still |  
-| bip_39_word_new_line8 | push
+| bip_39_word_new_line_8 | push
 endorse
 legend
 open
@@ -113,7 +113,7 @@ sleep
 begin
 still
 oak |  
-| bip_39_word_new_line9 | push
+| bip_39_word_new_line_9 | push
 endorse
 legend
 open

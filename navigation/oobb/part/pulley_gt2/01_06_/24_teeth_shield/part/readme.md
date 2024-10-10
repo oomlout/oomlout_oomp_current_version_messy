@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | anxiety |  
-| bip_39_word_new_br10 | anxiety<br>run<br>pepper<br>strong<br>tooth<br>sadness<br>another<br>margin<br>upon<br>dismiss |  
-| bip_39_word_new_br11 | anxiety<br>run<br>pepper<br>strong<br>tooth<br>sadness<br>another<br>margin<br>upon<br>dismiss<br>wing |  
-| bip_39_word_new_br12 | anxiety<br>run<br>pepper<br>strong<br>tooth<br>sadness<br>another<br>margin<br>upon<br>dismiss<br>wing<br>address |  
-| bip_39_word_new_br2 | anxiety<br>run |  
-| bip_39_word_new_br3 | anxiety<br>run<br>pepper |  
-| bip_39_word_new_br4 | anxiety<br>run<br>pepper<br>strong |  
-| bip_39_word_new_br5 | anxiety<br>run<br>pepper<br>strong<br>tooth |  
-| bip_39_word_new_br6 | anxiety<br>run<br>pepper<br>strong<br>tooth<br>sadness |  
-| bip_39_word_new_br7 | anxiety<br>run<br>pepper<br>strong<br>tooth<br>sadness<br>another |  
-| bip_39_word_new_br8 | anxiety<br>run<br>pepper<br>strong<br>tooth<br>sadness<br>another<br>margin |  
-| bip_39_word_new_br9 | anxiety<br>run<br>pepper<br>strong<br>tooth<br>sadness<br>another<br>margin<br>upon |  
-| bip_39_word_new_line1 | anxiety |  
-| bip_39_word_new_line10 | anxiety
+| bip_39_word_new_br_1 | anxiety |  
+| bip_39_word_new_br_10 | anxiety<br>run<br>pepper<br>strong<br>tooth<br>sadness<br>another<br>margin<br>upon<br>dismiss |  
+| bip_39_word_new_br_11 | anxiety<br>run<br>pepper<br>strong<br>tooth<br>sadness<br>another<br>margin<br>upon<br>dismiss<br>wing |  
+| bip_39_word_new_br_12 | anxiety<br>run<br>pepper<br>strong<br>tooth<br>sadness<br>another<br>margin<br>upon<br>dismiss<br>wing<br>address |  
+| bip_39_word_new_br_2 | anxiety<br>run |  
+| bip_39_word_new_br_3 | anxiety<br>run<br>pepper |  
+| bip_39_word_new_br_4 | anxiety<br>run<br>pepper<br>strong |  
+| bip_39_word_new_br_5 | anxiety<br>run<br>pepper<br>strong<br>tooth |  
+| bip_39_word_new_br_6 | anxiety<br>run<br>pepper<br>strong<br>tooth<br>sadness |  
+| bip_39_word_new_br_7 | anxiety<br>run<br>pepper<br>strong<br>tooth<br>sadness<br>another |  
+| bip_39_word_new_br_8 | anxiety<br>run<br>pepper<br>strong<br>tooth<br>sadness<br>another<br>margin |  
+| bip_39_word_new_br_9 | anxiety<br>run<br>pepper<br>strong<br>tooth<br>sadness<br>another<br>margin<br>upon |  
+| bip_39_word_new_line_1 | anxiety |  
+| bip_39_word_new_line_10 | anxiety
 run
 pepper
 strong
@@ -55,7 +55,7 @@ another
 margin
 upon
 dismiss |  
-| bip_39_word_new_line11 | anxiety
+| bip_39_word_new_line_11 | anxiety
 run
 pepper
 strong
@@ -66,7 +66,7 @@ margin
 upon
 dismiss
 wing |  
-| bip_39_word_new_line12 | anxiety
+| bip_39_word_new_line_12 | anxiety
 run
 pepper
 strong
@@ -78,34 +78,34 @@ upon
 dismiss
 wing
 address |  
-| bip_39_word_new_line2 | anxiety
+| bip_39_word_new_line_2 | anxiety
 run |  
-| bip_39_word_new_line3 | anxiety
+| bip_39_word_new_line_3 | anxiety
 run
 pepper |  
-| bip_39_word_new_line4 | anxiety
+| bip_39_word_new_line_4 | anxiety
 run
 pepper
 strong |  
-| bip_39_word_new_line5 | anxiety
+| bip_39_word_new_line_5 | anxiety
 run
 pepper
 strong
 tooth |  
-| bip_39_word_new_line6 | anxiety
+| bip_39_word_new_line_6 | anxiety
 run
 pepper
 strong
 tooth
 sadness |  
-| bip_39_word_new_line7 | anxiety
+| bip_39_word_new_line_7 | anxiety
 run
 pepper
 strong
 tooth
 sadness
 another |  
-| bip_39_word_new_line8 | anxiety
+| bip_39_word_new_line_8 | anxiety
 run
 pepper
 strong
@@ -113,7 +113,7 @@ tooth
 sadness
 another
 margin |  
-| bip_39_word_new_line9 | anxiety
+| bip_39_word_new_line_9 | anxiety
 run
 pepper
 strong

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | humor |  
-| bip_39_word_new_br10 | humor<br>exhibit<br>gravity<br>rich<br>august<br>waste<br>client<br>coast<br>hungry<br>keen |  
-| bip_39_word_new_br11 | humor<br>exhibit<br>gravity<br>rich<br>august<br>waste<br>client<br>coast<br>hungry<br>keen<br>require |  
-| bip_39_word_new_br12 | humor<br>exhibit<br>gravity<br>rich<br>august<br>waste<br>client<br>coast<br>hungry<br>keen<br>require<br>attract |  
-| bip_39_word_new_br2 | humor<br>exhibit |  
-| bip_39_word_new_br3 | humor<br>exhibit<br>gravity |  
-| bip_39_word_new_br4 | humor<br>exhibit<br>gravity<br>rich |  
-| bip_39_word_new_br5 | humor<br>exhibit<br>gravity<br>rich<br>august |  
-| bip_39_word_new_br6 | humor<br>exhibit<br>gravity<br>rich<br>august<br>waste |  
-| bip_39_word_new_br7 | humor<br>exhibit<br>gravity<br>rich<br>august<br>waste<br>client |  
-| bip_39_word_new_br8 | humor<br>exhibit<br>gravity<br>rich<br>august<br>waste<br>client<br>coast |  
-| bip_39_word_new_br9 | humor<br>exhibit<br>gravity<br>rich<br>august<br>waste<br>client<br>coast<br>hungry |  
-| bip_39_word_new_line1 | humor |  
-| bip_39_word_new_line10 | humor
+| bip_39_word_new_br_1 | humor |  
+| bip_39_word_new_br_10 | humor<br>exhibit<br>gravity<br>rich<br>august<br>waste<br>client<br>coast<br>hungry<br>keen |  
+| bip_39_word_new_br_11 | humor<br>exhibit<br>gravity<br>rich<br>august<br>waste<br>client<br>coast<br>hungry<br>keen<br>require |  
+| bip_39_word_new_br_12 | humor<br>exhibit<br>gravity<br>rich<br>august<br>waste<br>client<br>coast<br>hungry<br>keen<br>require<br>attract |  
+| bip_39_word_new_br_2 | humor<br>exhibit |  
+| bip_39_word_new_br_3 | humor<br>exhibit<br>gravity |  
+| bip_39_word_new_br_4 | humor<br>exhibit<br>gravity<br>rich |  
+| bip_39_word_new_br_5 | humor<br>exhibit<br>gravity<br>rich<br>august |  
+| bip_39_word_new_br_6 | humor<br>exhibit<br>gravity<br>rich<br>august<br>waste |  
+| bip_39_word_new_br_7 | humor<br>exhibit<br>gravity<br>rich<br>august<br>waste<br>client |  
+| bip_39_word_new_br_8 | humor<br>exhibit<br>gravity<br>rich<br>august<br>waste<br>client<br>coast |  
+| bip_39_word_new_br_9 | humor<br>exhibit<br>gravity<br>rich<br>august<br>waste<br>client<br>coast<br>hungry |  
+| bip_39_word_new_line_1 | humor |  
+| bip_39_word_new_line_10 | humor
 exhibit
 gravity
 rich
@@ -55,7 +55,7 @@ client
 coast
 hungry
 keen |  
-| bip_39_word_new_line11 | humor
+| bip_39_word_new_line_11 | humor
 exhibit
 gravity
 rich
@@ -66,7 +66,7 @@ coast
 hungry
 keen
 require |  
-| bip_39_word_new_line12 | humor
+| bip_39_word_new_line_12 | humor
 exhibit
 gravity
 rich
@@ -78,34 +78,34 @@ hungry
 keen
 require
 attract |  
-| bip_39_word_new_line2 | humor
+| bip_39_word_new_line_2 | humor
 exhibit |  
-| bip_39_word_new_line3 | humor
+| bip_39_word_new_line_3 | humor
 exhibit
 gravity |  
-| bip_39_word_new_line4 | humor
+| bip_39_word_new_line_4 | humor
 exhibit
 gravity
 rich |  
-| bip_39_word_new_line5 | humor
+| bip_39_word_new_line_5 | humor
 exhibit
 gravity
 rich
 august |  
-| bip_39_word_new_line6 | humor
+| bip_39_word_new_line_6 | humor
 exhibit
 gravity
 rich
 august
 waste |  
-| bip_39_word_new_line7 | humor
+| bip_39_word_new_line_7 | humor
 exhibit
 gravity
 rich
 august
 waste
 client |  
-| bip_39_word_new_line8 | humor
+| bip_39_word_new_line_8 | humor
 exhibit
 gravity
 rich
@@ -113,7 +113,7 @@ august
 waste
 client
 coast |  
-| bip_39_word_new_line9 | humor
+| bip_39_word_new_line_9 | humor
 exhibit
 gravity
 rich

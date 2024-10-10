@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pole |  
-| bip_39_word_new_br10 | pole<br>purpose<br>cycle<br>initial<br>humor<br>success<br>define<br>harsh<br>call<br>either |  
-| bip_39_word_new_br11 | pole<br>purpose<br>cycle<br>initial<br>humor<br>success<br>define<br>harsh<br>call<br>either<br>merry |  
-| bip_39_word_new_br12 | pole<br>purpose<br>cycle<br>initial<br>humor<br>success<br>define<br>harsh<br>call<br>either<br>merry<br>action |  
-| bip_39_word_new_br2 | pole<br>purpose |  
-| bip_39_word_new_br3 | pole<br>purpose<br>cycle |  
-| bip_39_word_new_br4 | pole<br>purpose<br>cycle<br>initial |  
-| bip_39_word_new_br5 | pole<br>purpose<br>cycle<br>initial<br>humor |  
-| bip_39_word_new_br6 | pole<br>purpose<br>cycle<br>initial<br>humor<br>success |  
-| bip_39_word_new_br7 | pole<br>purpose<br>cycle<br>initial<br>humor<br>success<br>define |  
-| bip_39_word_new_br8 | pole<br>purpose<br>cycle<br>initial<br>humor<br>success<br>define<br>harsh |  
-| bip_39_word_new_br9 | pole<br>purpose<br>cycle<br>initial<br>humor<br>success<br>define<br>harsh<br>call |  
-| bip_39_word_new_line1 | pole |  
-| bip_39_word_new_line10 | pole
+| bip_39_word_new_br_1 | pole |  
+| bip_39_word_new_br_10 | pole<br>purpose<br>cycle<br>initial<br>humor<br>success<br>define<br>harsh<br>call<br>either |  
+| bip_39_word_new_br_11 | pole<br>purpose<br>cycle<br>initial<br>humor<br>success<br>define<br>harsh<br>call<br>either<br>merry |  
+| bip_39_word_new_br_12 | pole<br>purpose<br>cycle<br>initial<br>humor<br>success<br>define<br>harsh<br>call<br>either<br>merry<br>action |  
+| bip_39_word_new_br_2 | pole<br>purpose |  
+| bip_39_word_new_br_3 | pole<br>purpose<br>cycle |  
+| bip_39_word_new_br_4 | pole<br>purpose<br>cycle<br>initial |  
+| bip_39_word_new_br_5 | pole<br>purpose<br>cycle<br>initial<br>humor |  
+| bip_39_word_new_br_6 | pole<br>purpose<br>cycle<br>initial<br>humor<br>success |  
+| bip_39_word_new_br_7 | pole<br>purpose<br>cycle<br>initial<br>humor<br>success<br>define |  
+| bip_39_word_new_br_8 | pole<br>purpose<br>cycle<br>initial<br>humor<br>success<br>define<br>harsh |  
+| bip_39_word_new_br_9 | pole<br>purpose<br>cycle<br>initial<br>humor<br>success<br>define<br>harsh<br>call |  
+| bip_39_word_new_line_1 | pole |  
+| bip_39_word_new_line_10 | pole
 purpose
 cycle
 initial
@@ -55,7 +55,7 @@ define
 harsh
 call
 either |  
-| bip_39_word_new_line11 | pole
+| bip_39_word_new_line_11 | pole
 purpose
 cycle
 initial
@@ -66,7 +66,7 @@ harsh
 call
 either
 merry |  
-| bip_39_word_new_line12 | pole
+| bip_39_word_new_line_12 | pole
 purpose
 cycle
 initial
@@ -78,34 +78,34 @@ call
 either
 merry
 action |  
-| bip_39_word_new_line2 | pole
+| bip_39_word_new_line_2 | pole
 purpose |  
-| bip_39_word_new_line3 | pole
+| bip_39_word_new_line_3 | pole
 purpose
 cycle |  
-| bip_39_word_new_line4 | pole
+| bip_39_word_new_line_4 | pole
 purpose
 cycle
 initial |  
-| bip_39_word_new_line5 | pole
+| bip_39_word_new_line_5 | pole
 purpose
 cycle
 initial
 humor |  
-| bip_39_word_new_line6 | pole
+| bip_39_word_new_line_6 | pole
 purpose
 cycle
 initial
 humor
 success |  
-| bip_39_word_new_line7 | pole
+| bip_39_word_new_line_7 | pole
 purpose
 cycle
 initial
 humor
 success
 define |  
-| bip_39_word_new_line8 | pole
+| bip_39_word_new_line_8 | pole
 purpose
 cycle
 initial
@@ -113,7 +113,7 @@ humor
 success
 define
 harsh |  
-| bip_39_word_new_line9 | pole
+| bip_39_word_new_line_9 | pole
 purpose
 cycle
 initial

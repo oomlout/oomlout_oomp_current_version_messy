@@ -1,17 +1,17 @@
-bip_39_word_new_br1: unlock
-bip_39_word_new_br10: unlock<br>exist<br>eternal<br>galaxy<br>expand<br>manual<br>notice<br>injury<br>rubber<br>novel
-bip_39_word_new_br11: unlock<br>exist<br>eternal<br>galaxy<br>expand<br>manual<br>notice<br>injury<br>rubber<br>novel<br>acquire
-bip_39_word_new_br12: unlock<br>exist<br>eternal<br>galaxy<br>expand<br>manual<br>notice<br>injury<br>rubber<br>novel<br>acquire<br>april
-bip_39_word_new_br2: unlock<br>exist
-bip_39_word_new_br3: unlock<br>exist<br>eternal
-bip_39_word_new_br4: unlock<br>exist<br>eternal<br>galaxy
-bip_39_word_new_br5: unlock<br>exist<br>eternal<br>galaxy<br>expand
-bip_39_word_new_br6: unlock<br>exist<br>eternal<br>galaxy<br>expand<br>manual
-bip_39_word_new_br7: unlock<br>exist<br>eternal<br>galaxy<br>expand<br>manual<br>notice
-bip_39_word_new_br8: unlock<br>exist<br>eternal<br>galaxy<br>expand<br>manual<br>notice<br>injury
-bip_39_word_new_br9: unlock<br>exist<br>eternal<br>galaxy<br>expand<br>manual<br>notice<br>injury<br>rubber
-bip_39_word_new_line1: unlock
-bip_39_word_new_line10: 'unlock
+bip_39_word_new_br_1: unlock
+bip_39_word_new_br_10: unlock<br>exist<br>eternal<br>galaxy<br>expand<br>manual<br>notice<br>injury<br>rubber<br>novel
+bip_39_word_new_br_11: unlock<br>exist<br>eternal<br>galaxy<br>expand<br>manual<br>notice<br>injury<br>rubber<br>novel<br>acquire
+bip_39_word_new_br_12: unlock<br>exist<br>eternal<br>galaxy<br>expand<br>manual<br>notice<br>injury<br>rubber<br>novel<br>acquire<br>april
+bip_39_word_new_br_2: unlock<br>exist
+bip_39_word_new_br_3: unlock<br>exist<br>eternal
+bip_39_word_new_br_4: unlock<br>exist<br>eternal<br>galaxy
+bip_39_word_new_br_5: unlock<br>exist<br>eternal<br>galaxy<br>expand
+bip_39_word_new_br_6: unlock<br>exist<br>eternal<br>galaxy<br>expand<br>manual
+bip_39_word_new_br_7: unlock<br>exist<br>eternal<br>galaxy<br>expand<br>manual<br>notice
+bip_39_word_new_br_8: unlock<br>exist<br>eternal<br>galaxy<br>expand<br>manual<br>notice<br>injury
+bip_39_word_new_br_9: unlock<br>exist<br>eternal<br>galaxy<br>expand<br>manual<br>notice<br>injury<br>rubber
+bip_39_word_new_line_1: unlock
+bip_39_word_new_line_10: 'unlock
 
   exist
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'unlock
   rubber
 
   novel'
-bip_39_word_new_line11: 'unlock
+bip_39_word_new_line_11: 'unlock
 
   exist
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'unlock
   novel
 
   acquire'
-bip_39_word_new_line12: 'unlock
+bip_39_word_new_line_12: 'unlock
 
   exist
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'unlock
   acquire
 
   april'
-bip_39_word_new_line2: 'unlock
+bip_39_word_new_line_2: 'unlock
 
   exist'
-bip_39_word_new_line3: 'unlock
+bip_39_word_new_line_3: 'unlock
 
   exist
 
   eternal'
-bip_39_word_new_line4: 'unlock
+bip_39_word_new_line_4: 'unlock
 
   exist
 
   eternal
 
   galaxy'
-bip_39_word_new_line5: 'unlock
+bip_39_word_new_line_5: 'unlock
 
   exist
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'unlock
   galaxy
 
   expand'
-bip_39_word_new_line6: 'unlock
+bip_39_word_new_line_6: 'unlock
 
   exist
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'unlock
   expand
 
   manual'
-bip_39_word_new_line7: 'unlock
+bip_39_word_new_line_7: 'unlock
 
   exist
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'unlock
   manual
 
   notice'
-bip_39_word_new_line8: 'unlock
+bip_39_word_new_line_8: 'unlock
 
   exist
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'unlock
   notice
 
   injury'
-bip_39_word_new_line9: 'unlock
+bip_39_word_new_line_9: 'unlock
 
   exist
 

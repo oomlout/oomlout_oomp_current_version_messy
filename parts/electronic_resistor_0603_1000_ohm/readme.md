@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | away |  
-| bip_39_word_new_br10 | away<br>fog<br>uncover<br>total<br>process<br>legal<br>canyon<br>guide<br>crouch<br>quit |  
-| bip_39_word_new_br11 | away<br>fog<br>uncover<br>total<br>process<br>legal<br>canyon<br>guide<br>crouch<br>quit<br>style |  
-| bip_39_word_new_br2 | away<br>fog |  
-| bip_39_word_new_br3 | away<br>fog<br>uncover |  
-| bip_39_word_new_br4 | away<br>fog<br>uncover<br>total |  
-| bip_39_word_new_br5 | away<br>fog<br>uncover<br>total<br>process |  
-| bip_39_word_new_br6 | away<br>fog<br>uncover<br>total<br>process<br>legal |  
-| bip_39_word_new_br7 | away<br>fog<br>uncover<br>total<br>process<br>legal<br>canyon |  
-| bip_39_word_new_br8 | away<br>fog<br>uncover<br>total<br>process<br>legal<br>canyon<br>guide |  
-| bip_39_word_new_br9 | away<br>fog<br>uncover<br>total<br>process<br>legal<br>canyon<br>guide<br>crouch |  
-| bip_39_word_new_line1 | away |  
-| bip_39_word_new_line10 | away
+| bip_39_word_new_br_1 | away |  
+| bip_39_word_new_br_10 | away<br>fog<br>uncover<br>total<br>process<br>legal<br>canyon<br>guide<br>crouch<br>quit |  
+| bip_39_word_new_br_11 | away<br>fog<br>uncover<br>total<br>process<br>legal<br>canyon<br>guide<br>crouch<br>quit<br>style |  
+| bip_39_word_new_br_2 | away<br>fog |  
+| bip_39_word_new_br_3 | away<br>fog<br>uncover |  
+| bip_39_word_new_br_4 | away<br>fog<br>uncover<br>total |  
+| bip_39_word_new_br_5 | away<br>fog<br>uncover<br>total<br>process |  
+| bip_39_word_new_br_6 | away<br>fog<br>uncover<br>total<br>process<br>legal |  
+| bip_39_word_new_br_7 | away<br>fog<br>uncover<br>total<br>process<br>legal<br>canyon |  
+| bip_39_word_new_br_8 | away<br>fog<br>uncover<br>total<br>process<br>legal<br>canyon<br>guide |  
+| bip_39_word_new_br_9 | away<br>fog<br>uncover<br>total<br>process<br>legal<br>canyon<br>guide<br>crouch |  
+| bip_39_word_new_line_1 | away |  
+| bip_39_word_new_line_10 | away
 fog
 uncover
 total
@@ -54,7 +54,7 @@ canyon
 guide
 crouch
 quit |  
-| bip_39_word_new_line11 | away
+| bip_39_word_new_line_11 | away
 fog
 uncover
 total
@@ -65,34 +65,34 @@ guide
 crouch
 quit
 style |  
-| bip_39_word_new_line2 | away
+| bip_39_word_new_line_2 | away
 fog |  
-| bip_39_word_new_line3 | away
+| bip_39_word_new_line_3 | away
 fog
 uncover |  
-| bip_39_word_new_line4 | away
+| bip_39_word_new_line_4 | away
 fog
 uncover
 total |  
-| bip_39_word_new_line5 | away
+| bip_39_word_new_line_5 | away
 fog
 uncover
 total
 process |  
-| bip_39_word_new_line6 | away
+| bip_39_word_new_line_6 | away
 fog
 uncover
 total
 process
 legal |  
-| bip_39_word_new_line7 | away
+| bip_39_word_new_line_7 | away
 fog
 uncover
 total
 process
 legal
 canyon |  
-| bip_39_word_new_line8 | away
+| bip_39_word_new_line_8 | away
 fog
 uncover
 total
@@ -100,7 +100,7 @@ process
 legal
 canyon
 guide |  
-| bip_39_word_new_line9 | away
+| bip_39_word_new_line_9 | away
 fog
 uncover
 total

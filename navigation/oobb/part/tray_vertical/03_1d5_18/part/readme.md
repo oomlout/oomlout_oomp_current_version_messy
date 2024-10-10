@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | high |  
-| bip_39_word_new_br10 | high<br>judge<br>curve<br>warrior<br>gorilla<br>help<br>guess<br>demand<br>demand<br>rack |  
-| bip_39_word_new_br11 | high<br>judge<br>curve<br>warrior<br>gorilla<br>help<br>guess<br>demand<br>demand<br>rack<br>hurdle |  
-| bip_39_word_new_br12 | high<br>judge<br>curve<br>warrior<br>gorilla<br>help<br>guess<br>demand<br>demand<br>rack<br>hurdle<br>achieve |  
-| bip_39_word_new_br2 | high<br>judge |  
-| bip_39_word_new_br3 | high<br>judge<br>curve |  
-| bip_39_word_new_br4 | high<br>judge<br>curve<br>warrior |  
-| bip_39_word_new_br5 | high<br>judge<br>curve<br>warrior<br>gorilla |  
-| bip_39_word_new_br6 | high<br>judge<br>curve<br>warrior<br>gorilla<br>help |  
-| bip_39_word_new_br7 | high<br>judge<br>curve<br>warrior<br>gorilla<br>help<br>guess |  
-| bip_39_word_new_br8 | high<br>judge<br>curve<br>warrior<br>gorilla<br>help<br>guess<br>demand |  
-| bip_39_word_new_br9 | high<br>judge<br>curve<br>warrior<br>gorilla<br>help<br>guess<br>demand<br>demand |  
-| bip_39_word_new_line1 | high |  
-| bip_39_word_new_line10 | high
+| bip_39_word_new_br_1 | high |  
+| bip_39_word_new_br_10 | high<br>judge<br>curve<br>warrior<br>gorilla<br>help<br>guess<br>demand<br>demand<br>rack |  
+| bip_39_word_new_br_11 | high<br>judge<br>curve<br>warrior<br>gorilla<br>help<br>guess<br>demand<br>demand<br>rack<br>hurdle |  
+| bip_39_word_new_br_12 | high<br>judge<br>curve<br>warrior<br>gorilla<br>help<br>guess<br>demand<br>demand<br>rack<br>hurdle<br>achieve |  
+| bip_39_word_new_br_2 | high<br>judge |  
+| bip_39_word_new_br_3 | high<br>judge<br>curve |  
+| bip_39_word_new_br_4 | high<br>judge<br>curve<br>warrior |  
+| bip_39_word_new_br_5 | high<br>judge<br>curve<br>warrior<br>gorilla |  
+| bip_39_word_new_br_6 | high<br>judge<br>curve<br>warrior<br>gorilla<br>help |  
+| bip_39_word_new_br_7 | high<br>judge<br>curve<br>warrior<br>gorilla<br>help<br>guess |  
+| bip_39_word_new_br_8 | high<br>judge<br>curve<br>warrior<br>gorilla<br>help<br>guess<br>demand |  
+| bip_39_word_new_br_9 | high<br>judge<br>curve<br>warrior<br>gorilla<br>help<br>guess<br>demand<br>demand |  
+| bip_39_word_new_line_1 | high |  
+| bip_39_word_new_line_10 | high
 judge
 curve
 warrior
@@ -55,7 +55,7 @@ guess
 demand
 demand
 rack |  
-| bip_39_word_new_line11 | high
+| bip_39_word_new_line_11 | high
 judge
 curve
 warrior
@@ -66,7 +66,7 @@ demand
 demand
 rack
 hurdle |  
-| bip_39_word_new_line12 | high
+| bip_39_word_new_line_12 | high
 judge
 curve
 warrior
@@ -78,34 +78,34 @@ demand
 rack
 hurdle
 achieve |  
-| bip_39_word_new_line2 | high
+| bip_39_word_new_line_2 | high
 judge |  
-| bip_39_word_new_line3 | high
+| bip_39_word_new_line_3 | high
 judge
 curve |  
-| bip_39_word_new_line4 | high
+| bip_39_word_new_line_4 | high
 judge
 curve
 warrior |  
-| bip_39_word_new_line5 | high
+| bip_39_word_new_line_5 | high
 judge
 curve
 warrior
 gorilla |  
-| bip_39_word_new_line6 | high
+| bip_39_word_new_line_6 | high
 judge
 curve
 warrior
 gorilla
 help |  
-| bip_39_word_new_line7 | high
+| bip_39_word_new_line_7 | high
 judge
 curve
 warrior
 gorilla
 help
 guess |  
-| bip_39_word_new_line8 | high
+| bip_39_word_new_line_8 | high
 judge
 curve
 warrior
@@ -113,7 +113,7 @@ gorilla
 help
 guess
 demand |  
-| bip_39_word_new_line9 | high
+| bip_39_word_new_line_9 | high
 judge
 curve
 warrior

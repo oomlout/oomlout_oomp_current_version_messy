@@ -1,17 +1,17 @@
-bip_39_word_new_br1: action
-bip_39_word_new_br10: action<br>laugh<br>panic<br>side<br>text<br>bread<br>doll<br>flag<br>upset<br>dismiss
-bip_39_word_new_br11: action<br>laugh<br>panic<br>side<br>text<br>bread<br>doll<br>flag<br>upset<br>dismiss<br>phone
-bip_39_word_new_br12: action<br>laugh<br>panic<br>side<br>text<br>bread<br>doll<br>flag<br>upset<br>dismiss<br>phone<br>amazing
-bip_39_word_new_br2: action<br>laugh
-bip_39_word_new_br3: action<br>laugh<br>panic
-bip_39_word_new_br4: action<br>laugh<br>panic<br>side
-bip_39_word_new_br5: action<br>laugh<br>panic<br>side<br>text
-bip_39_word_new_br6: action<br>laugh<br>panic<br>side<br>text<br>bread
-bip_39_word_new_br7: action<br>laugh<br>panic<br>side<br>text<br>bread<br>doll
-bip_39_word_new_br8: action<br>laugh<br>panic<br>side<br>text<br>bread<br>doll<br>flag
-bip_39_word_new_br9: action<br>laugh<br>panic<br>side<br>text<br>bread<br>doll<br>flag<br>upset
-bip_39_word_new_line1: action
-bip_39_word_new_line10: 'action
+bip_39_word_new_br_1: action
+bip_39_word_new_br_10: action<br>laugh<br>panic<br>side<br>text<br>bread<br>doll<br>flag<br>upset<br>dismiss
+bip_39_word_new_br_11: action<br>laugh<br>panic<br>side<br>text<br>bread<br>doll<br>flag<br>upset<br>dismiss<br>phone
+bip_39_word_new_br_12: action<br>laugh<br>panic<br>side<br>text<br>bread<br>doll<br>flag<br>upset<br>dismiss<br>phone<br>amazing
+bip_39_word_new_br_2: action<br>laugh
+bip_39_word_new_br_3: action<br>laugh<br>panic
+bip_39_word_new_br_4: action<br>laugh<br>panic<br>side
+bip_39_word_new_br_5: action<br>laugh<br>panic<br>side<br>text
+bip_39_word_new_br_6: action<br>laugh<br>panic<br>side<br>text<br>bread
+bip_39_word_new_br_7: action<br>laugh<br>panic<br>side<br>text<br>bread<br>doll
+bip_39_word_new_br_8: action<br>laugh<br>panic<br>side<br>text<br>bread<br>doll<br>flag
+bip_39_word_new_br_9: action<br>laugh<br>panic<br>side<br>text<br>bread<br>doll<br>flag<br>upset
+bip_39_word_new_line_1: action
+bip_39_word_new_line_10: 'action
 
   laugh
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'action
   upset
 
   dismiss'
-bip_39_word_new_line11: 'action
+bip_39_word_new_line_11: 'action
 
   laugh
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'action
   dismiss
 
   phone'
-bip_39_word_new_line12: 'action
+bip_39_word_new_line_12: 'action
 
   laugh
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'action
   phone
 
   amazing'
-bip_39_word_new_line2: 'action
+bip_39_word_new_line_2: 'action
 
   laugh'
-bip_39_word_new_line3: 'action
+bip_39_word_new_line_3: 'action
 
   laugh
 
   panic'
-bip_39_word_new_line4: 'action
+bip_39_word_new_line_4: 'action
 
   laugh
 
   panic
 
   side'
-bip_39_word_new_line5: 'action
+bip_39_word_new_line_5: 'action
 
   laugh
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'action
   side
 
   text'
-bip_39_word_new_line6: 'action
+bip_39_word_new_line_6: 'action
 
   laugh
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'action
   text
 
   bread'
-bip_39_word_new_line7: 'action
+bip_39_word_new_line_7: 'action
 
   laugh
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'action
   bread
 
   doll'
-bip_39_word_new_line8: 'action
+bip_39_word_new_line_8: 'action
 
   laugh
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'action
   doll
 
   flag'
-bip_39_word_new_line9: 'action
+bip_39_word_new_line_9: 'action
 
   laugh
 

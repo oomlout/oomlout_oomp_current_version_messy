@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | seat |  
-| bip_39_word_new_br10 | seat<br>doll<br>smart<br>dream<br>venture<br>snap<br>myself<br>lawsuit<br>hundred<br>aunt |  
-| bip_39_word_new_br11 | seat<br>doll<br>smart<br>dream<br>venture<br>snap<br>myself<br>lawsuit<br>hundred<br>aunt<br>south |  
-| bip_39_word_new_br12 | seat<br>doll<br>smart<br>dream<br>venture<br>snap<br>myself<br>lawsuit<br>hundred<br>aunt<br>south<br>art |  
-| bip_39_word_new_br2 | seat<br>doll |  
-| bip_39_word_new_br3 | seat<br>doll<br>smart |  
-| bip_39_word_new_br4 | seat<br>doll<br>smart<br>dream |  
-| bip_39_word_new_br5 | seat<br>doll<br>smart<br>dream<br>venture |  
-| bip_39_word_new_br6 | seat<br>doll<br>smart<br>dream<br>venture<br>snap |  
-| bip_39_word_new_br7 | seat<br>doll<br>smart<br>dream<br>venture<br>snap<br>myself |  
-| bip_39_word_new_br8 | seat<br>doll<br>smart<br>dream<br>venture<br>snap<br>myself<br>lawsuit |  
-| bip_39_word_new_br9 | seat<br>doll<br>smart<br>dream<br>venture<br>snap<br>myself<br>lawsuit<br>hundred |  
-| bip_39_word_new_line1 | seat |  
-| bip_39_word_new_line10 | seat
+| bip_39_word_new_br_1 | seat |  
+| bip_39_word_new_br_10 | seat<br>doll<br>smart<br>dream<br>venture<br>snap<br>myself<br>lawsuit<br>hundred<br>aunt |  
+| bip_39_word_new_br_11 | seat<br>doll<br>smart<br>dream<br>venture<br>snap<br>myself<br>lawsuit<br>hundred<br>aunt<br>south |  
+| bip_39_word_new_br_12 | seat<br>doll<br>smart<br>dream<br>venture<br>snap<br>myself<br>lawsuit<br>hundred<br>aunt<br>south<br>art |  
+| bip_39_word_new_br_2 | seat<br>doll |  
+| bip_39_word_new_br_3 | seat<br>doll<br>smart |  
+| bip_39_word_new_br_4 | seat<br>doll<br>smart<br>dream |  
+| bip_39_word_new_br_5 | seat<br>doll<br>smart<br>dream<br>venture |  
+| bip_39_word_new_br_6 | seat<br>doll<br>smart<br>dream<br>venture<br>snap |  
+| bip_39_word_new_br_7 | seat<br>doll<br>smart<br>dream<br>venture<br>snap<br>myself |  
+| bip_39_word_new_br_8 | seat<br>doll<br>smart<br>dream<br>venture<br>snap<br>myself<br>lawsuit |  
+| bip_39_word_new_br_9 | seat<br>doll<br>smart<br>dream<br>venture<br>snap<br>myself<br>lawsuit<br>hundred |  
+| bip_39_word_new_line_1 | seat |  
+| bip_39_word_new_line_10 | seat
 doll
 smart
 dream
@@ -55,7 +55,7 @@ myself
 lawsuit
 hundred
 aunt |  
-| bip_39_word_new_line11 | seat
+| bip_39_word_new_line_11 | seat
 doll
 smart
 dream
@@ -66,7 +66,7 @@ lawsuit
 hundred
 aunt
 south |  
-| bip_39_word_new_line12 | seat
+| bip_39_word_new_line_12 | seat
 doll
 smart
 dream
@@ -78,34 +78,34 @@ hundred
 aunt
 south
 art |  
-| bip_39_word_new_line2 | seat
+| bip_39_word_new_line_2 | seat
 doll |  
-| bip_39_word_new_line3 | seat
+| bip_39_word_new_line_3 | seat
 doll
 smart |  
-| bip_39_word_new_line4 | seat
+| bip_39_word_new_line_4 | seat
 doll
 smart
 dream |  
-| bip_39_word_new_line5 | seat
+| bip_39_word_new_line_5 | seat
 doll
 smart
 dream
 venture |  
-| bip_39_word_new_line6 | seat
+| bip_39_word_new_line_6 | seat
 doll
 smart
 dream
 venture
 snap |  
-| bip_39_word_new_line7 | seat
+| bip_39_word_new_line_7 | seat
 doll
 smart
 dream
 venture
 snap
 myself |  
-| bip_39_word_new_line8 | seat
+| bip_39_word_new_line_8 | seat
 doll
 smart
 dream
@@ -113,7 +113,7 @@ venture
 snap
 myself
 lawsuit |  
-| bip_39_word_new_line9 | seat
+| bip_39_word_new_line_9 | seat
 doll
 smart
 dream

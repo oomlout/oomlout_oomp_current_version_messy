@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | feature |  
-| bip_39_word_new_br10 | feature<br>picture<br>roof<br>live<br>sand<br>patient<br>lizard<br>derive<br>decline<br>bulk |  
-| bip_39_word_new_br11 | feature<br>picture<br>roof<br>live<br>sand<br>patient<br>lizard<br>derive<br>decline<br>bulk<br>nation |  
-| bip_39_word_new_br12 | feature<br>picture<br>roof<br>live<br>sand<br>patient<br>lizard<br>derive<br>decline<br>bulk<br>nation<br>arctic |  
-| bip_39_word_new_br2 | feature<br>picture |  
-| bip_39_word_new_br3 | feature<br>picture<br>roof |  
-| bip_39_word_new_br4 | feature<br>picture<br>roof<br>live |  
-| bip_39_word_new_br5 | feature<br>picture<br>roof<br>live<br>sand |  
-| bip_39_word_new_br6 | feature<br>picture<br>roof<br>live<br>sand<br>patient |  
-| bip_39_word_new_br7 | feature<br>picture<br>roof<br>live<br>sand<br>patient<br>lizard |  
-| bip_39_word_new_br8 | feature<br>picture<br>roof<br>live<br>sand<br>patient<br>lizard<br>derive |  
-| bip_39_word_new_br9 | feature<br>picture<br>roof<br>live<br>sand<br>patient<br>lizard<br>derive<br>decline |  
-| bip_39_word_new_line1 | feature |  
-| bip_39_word_new_line10 | feature
+| bip_39_word_new_br_1 | feature |  
+| bip_39_word_new_br_10 | feature<br>picture<br>roof<br>live<br>sand<br>patient<br>lizard<br>derive<br>decline<br>bulk |  
+| bip_39_word_new_br_11 | feature<br>picture<br>roof<br>live<br>sand<br>patient<br>lizard<br>derive<br>decline<br>bulk<br>nation |  
+| bip_39_word_new_br_12 | feature<br>picture<br>roof<br>live<br>sand<br>patient<br>lizard<br>derive<br>decline<br>bulk<br>nation<br>arctic |  
+| bip_39_word_new_br_2 | feature<br>picture |  
+| bip_39_word_new_br_3 | feature<br>picture<br>roof |  
+| bip_39_word_new_br_4 | feature<br>picture<br>roof<br>live |  
+| bip_39_word_new_br_5 | feature<br>picture<br>roof<br>live<br>sand |  
+| bip_39_word_new_br_6 | feature<br>picture<br>roof<br>live<br>sand<br>patient |  
+| bip_39_word_new_br_7 | feature<br>picture<br>roof<br>live<br>sand<br>patient<br>lizard |  
+| bip_39_word_new_br_8 | feature<br>picture<br>roof<br>live<br>sand<br>patient<br>lizard<br>derive |  
+| bip_39_word_new_br_9 | feature<br>picture<br>roof<br>live<br>sand<br>patient<br>lizard<br>derive<br>decline |  
+| bip_39_word_new_line_1 | feature |  
+| bip_39_word_new_line_10 | feature
 picture
 roof
 live
@@ -55,7 +55,7 @@ lizard
 derive
 decline
 bulk |  
-| bip_39_word_new_line11 | feature
+| bip_39_word_new_line_11 | feature
 picture
 roof
 live
@@ -66,7 +66,7 @@ derive
 decline
 bulk
 nation |  
-| bip_39_word_new_line12 | feature
+| bip_39_word_new_line_12 | feature
 picture
 roof
 live
@@ -78,34 +78,34 @@ decline
 bulk
 nation
 arctic |  
-| bip_39_word_new_line2 | feature
+| bip_39_word_new_line_2 | feature
 picture |  
-| bip_39_word_new_line3 | feature
+| bip_39_word_new_line_3 | feature
 picture
 roof |  
-| bip_39_word_new_line4 | feature
+| bip_39_word_new_line_4 | feature
 picture
 roof
 live |  
-| bip_39_word_new_line5 | feature
+| bip_39_word_new_line_5 | feature
 picture
 roof
 live
 sand |  
-| bip_39_word_new_line6 | feature
+| bip_39_word_new_line_6 | feature
 picture
 roof
 live
 sand
 patient |  
-| bip_39_word_new_line7 | feature
+| bip_39_word_new_line_7 | feature
 picture
 roof
 live
 sand
 patient
 lizard |  
-| bip_39_word_new_line8 | feature
+| bip_39_word_new_line_8 | feature
 picture
 roof
 live
@@ -113,7 +113,7 @@ sand
 patient
 lizard
 derive |  
-| bip_39_word_new_line9 | feature
+| bip_39_word_new_line_9 | feature
 picture
 roof
 live

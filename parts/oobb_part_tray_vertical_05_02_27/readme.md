@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | protect |  
-| bip_39_word_new_br10 | protect<br>more<br>subject<br>point<br>genuine<br>review<br>public<br>urban<br>panther<br>goddess |  
-| bip_39_word_new_br11 | protect<br>more<br>subject<br>point<br>genuine<br>review<br>public<br>urban<br>panther<br>goddess<br>unaware |  
-| bip_39_word_new_br12 | protect<br>more<br>subject<br>point<br>genuine<br>review<br>public<br>urban<br>panther<br>goddess<br>unaware<br>attend |  
-| bip_39_word_new_br2 | protect<br>more |  
-| bip_39_word_new_br3 | protect<br>more<br>subject |  
-| bip_39_word_new_br4 | protect<br>more<br>subject<br>point |  
-| bip_39_word_new_br5 | protect<br>more<br>subject<br>point<br>genuine |  
-| bip_39_word_new_br6 | protect<br>more<br>subject<br>point<br>genuine<br>review |  
-| bip_39_word_new_br7 | protect<br>more<br>subject<br>point<br>genuine<br>review<br>public |  
-| bip_39_word_new_br8 | protect<br>more<br>subject<br>point<br>genuine<br>review<br>public<br>urban |  
-| bip_39_word_new_br9 | protect<br>more<br>subject<br>point<br>genuine<br>review<br>public<br>urban<br>panther |  
-| bip_39_word_new_line1 | protect |  
-| bip_39_word_new_line10 | protect
+| bip_39_word_new_br_1 | protect |  
+| bip_39_word_new_br_10 | protect<br>more<br>subject<br>point<br>genuine<br>review<br>public<br>urban<br>panther<br>goddess |  
+| bip_39_word_new_br_11 | protect<br>more<br>subject<br>point<br>genuine<br>review<br>public<br>urban<br>panther<br>goddess<br>unaware |  
+| bip_39_word_new_br_12 | protect<br>more<br>subject<br>point<br>genuine<br>review<br>public<br>urban<br>panther<br>goddess<br>unaware<br>attend |  
+| bip_39_word_new_br_2 | protect<br>more |  
+| bip_39_word_new_br_3 | protect<br>more<br>subject |  
+| bip_39_word_new_br_4 | protect<br>more<br>subject<br>point |  
+| bip_39_word_new_br_5 | protect<br>more<br>subject<br>point<br>genuine |  
+| bip_39_word_new_br_6 | protect<br>more<br>subject<br>point<br>genuine<br>review |  
+| bip_39_word_new_br_7 | protect<br>more<br>subject<br>point<br>genuine<br>review<br>public |  
+| bip_39_word_new_br_8 | protect<br>more<br>subject<br>point<br>genuine<br>review<br>public<br>urban |  
+| bip_39_word_new_br_9 | protect<br>more<br>subject<br>point<br>genuine<br>review<br>public<br>urban<br>panther |  
+| bip_39_word_new_line_1 | protect |  
+| bip_39_word_new_line_10 | protect
 more
 subject
 point
@@ -55,7 +55,7 @@ public
 urban
 panther
 goddess |  
-| bip_39_word_new_line11 | protect
+| bip_39_word_new_line_11 | protect
 more
 subject
 point
@@ -66,7 +66,7 @@ urban
 panther
 goddess
 unaware |  
-| bip_39_word_new_line12 | protect
+| bip_39_word_new_line_12 | protect
 more
 subject
 point
@@ -78,34 +78,34 @@ panther
 goddess
 unaware
 attend |  
-| bip_39_word_new_line2 | protect
+| bip_39_word_new_line_2 | protect
 more |  
-| bip_39_word_new_line3 | protect
+| bip_39_word_new_line_3 | protect
 more
 subject |  
-| bip_39_word_new_line4 | protect
+| bip_39_word_new_line_4 | protect
 more
 subject
 point |  
-| bip_39_word_new_line5 | protect
+| bip_39_word_new_line_5 | protect
 more
 subject
 point
 genuine |  
-| bip_39_word_new_line6 | protect
+| bip_39_word_new_line_6 | protect
 more
 subject
 point
 genuine
 review |  
-| bip_39_word_new_line7 | protect
+| bip_39_word_new_line_7 | protect
 more
 subject
 point
 genuine
 review
 public |  
-| bip_39_word_new_line8 | protect
+| bip_39_word_new_line_8 | protect
 more
 subject
 point
@@ -113,7 +113,7 @@ genuine
 review
 public
 urban |  
-| bip_39_word_new_line9 | protect
+| bip_39_word_new_line_9 | protect
 more
 subject
 point

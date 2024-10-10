@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | skull |  
-| bip_39_word_new_br10 | skull<br>gasp<br>anger<br>ignore<br>wing<br>poem<br>shaft<br>twice<br>gold<br>road |  
-| bip_39_word_new_br11 | skull<br>gasp<br>anger<br>ignore<br>wing<br>poem<br>shaft<br>twice<br>gold<br>road<br>stool |  
-| bip_39_word_new_br12 | skull<br>gasp<br>anger<br>ignore<br>wing<br>poem<br>shaft<br>twice<br>gold<br>road<br>stool<br>attitude |  
-| bip_39_word_new_br2 | skull<br>gasp |  
-| bip_39_word_new_br3 | skull<br>gasp<br>anger |  
-| bip_39_word_new_br4 | skull<br>gasp<br>anger<br>ignore |  
-| bip_39_word_new_br5 | skull<br>gasp<br>anger<br>ignore<br>wing |  
-| bip_39_word_new_br6 | skull<br>gasp<br>anger<br>ignore<br>wing<br>poem |  
-| bip_39_word_new_br7 | skull<br>gasp<br>anger<br>ignore<br>wing<br>poem<br>shaft |  
-| bip_39_word_new_br8 | skull<br>gasp<br>anger<br>ignore<br>wing<br>poem<br>shaft<br>twice |  
-| bip_39_word_new_br9 | skull<br>gasp<br>anger<br>ignore<br>wing<br>poem<br>shaft<br>twice<br>gold |  
-| bip_39_word_new_line1 | skull |  
-| bip_39_word_new_line10 | skull
+| bip_39_word_new_br_1 | skull |  
+| bip_39_word_new_br_10 | skull<br>gasp<br>anger<br>ignore<br>wing<br>poem<br>shaft<br>twice<br>gold<br>road |  
+| bip_39_word_new_br_11 | skull<br>gasp<br>anger<br>ignore<br>wing<br>poem<br>shaft<br>twice<br>gold<br>road<br>stool |  
+| bip_39_word_new_br_12 | skull<br>gasp<br>anger<br>ignore<br>wing<br>poem<br>shaft<br>twice<br>gold<br>road<br>stool<br>attitude |  
+| bip_39_word_new_br_2 | skull<br>gasp |  
+| bip_39_word_new_br_3 | skull<br>gasp<br>anger |  
+| bip_39_word_new_br_4 | skull<br>gasp<br>anger<br>ignore |  
+| bip_39_word_new_br_5 | skull<br>gasp<br>anger<br>ignore<br>wing |  
+| bip_39_word_new_br_6 | skull<br>gasp<br>anger<br>ignore<br>wing<br>poem |  
+| bip_39_word_new_br_7 | skull<br>gasp<br>anger<br>ignore<br>wing<br>poem<br>shaft |  
+| bip_39_word_new_br_8 | skull<br>gasp<br>anger<br>ignore<br>wing<br>poem<br>shaft<br>twice |  
+| bip_39_word_new_br_9 | skull<br>gasp<br>anger<br>ignore<br>wing<br>poem<br>shaft<br>twice<br>gold |  
+| bip_39_word_new_line_1 | skull |  
+| bip_39_word_new_line_10 | skull
 gasp
 anger
 ignore
@@ -55,7 +55,7 @@ shaft
 twice
 gold
 road |  
-| bip_39_word_new_line11 | skull
+| bip_39_word_new_line_11 | skull
 gasp
 anger
 ignore
@@ -66,7 +66,7 @@ twice
 gold
 road
 stool |  
-| bip_39_word_new_line12 | skull
+| bip_39_word_new_line_12 | skull
 gasp
 anger
 ignore
@@ -78,34 +78,34 @@ gold
 road
 stool
 attitude |  
-| bip_39_word_new_line2 | skull
+| bip_39_word_new_line_2 | skull
 gasp |  
-| bip_39_word_new_line3 | skull
+| bip_39_word_new_line_3 | skull
 gasp
 anger |  
-| bip_39_word_new_line4 | skull
+| bip_39_word_new_line_4 | skull
 gasp
 anger
 ignore |  
-| bip_39_word_new_line5 | skull
+| bip_39_word_new_line_5 | skull
 gasp
 anger
 ignore
 wing |  
-| bip_39_word_new_line6 | skull
+| bip_39_word_new_line_6 | skull
 gasp
 anger
 ignore
 wing
 poem |  
-| bip_39_word_new_line7 | skull
+| bip_39_word_new_line_7 | skull
 gasp
 anger
 ignore
 wing
 poem
 shaft |  
-| bip_39_word_new_line8 | skull
+| bip_39_word_new_line_8 | skull
 gasp
 anger
 ignore
@@ -113,7 +113,7 @@ wing
 poem
 shaft
 twice |  
-| bip_39_word_new_line9 | skull
+| bip_39_word_new_line_9 | skull
 gasp
 anger
 ignore

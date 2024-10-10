@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | evil |  
-| bip_39_word_new_br10 | evil<br>since<br>perfect<br>warm<br>deposit<br>electric<br>actor<br>photo<br>rather<br>gorilla |  
-| bip_39_word_new_br11 | evil<br>since<br>perfect<br>warm<br>deposit<br>electric<br>actor<br>photo<br>rather<br>gorilla<br>lyrics |  
-| bip_39_word_new_br12 | evil<br>since<br>perfect<br>warm<br>deposit<br>electric<br>actor<br>photo<br>rather<br>gorilla<br>lyrics<br>avocado |  
-| bip_39_word_new_br2 | evil<br>since |  
-| bip_39_word_new_br3 | evil<br>since<br>perfect |  
-| bip_39_word_new_br4 | evil<br>since<br>perfect<br>warm |  
-| bip_39_word_new_br5 | evil<br>since<br>perfect<br>warm<br>deposit |  
-| bip_39_word_new_br6 | evil<br>since<br>perfect<br>warm<br>deposit<br>electric |  
-| bip_39_word_new_br7 | evil<br>since<br>perfect<br>warm<br>deposit<br>electric<br>actor |  
-| bip_39_word_new_br8 | evil<br>since<br>perfect<br>warm<br>deposit<br>electric<br>actor<br>photo |  
-| bip_39_word_new_br9 | evil<br>since<br>perfect<br>warm<br>deposit<br>electric<br>actor<br>photo<br>rather |  
-| bip_39_word_new_line1 | evil |  
-| bip_39_word_new_line10 | evil
+| bip_39_word_new_br_1 | evil |  
+| bip_39_word_new_br_10 | evil<br>since<br>perfect<br>warm<br>deposit<br>electric<br>actor<br>photo<br>rather<br>gorilla |  
+| bip_39_word_new_br_11 | evil<br>since<br>perfect<br>warm<br>deposit<br>electric<br>actor<br>photo<br>rather<br>gorilla<br>lyrics |  
+| bip_39_word_new_br_12 | evil<br>since<br>perfect<br>warm<br>deposit<br>electric<br>actor<br>photo<br>rather<br>gorilla<br>lyrics<br>avocado |  
+| bip_39_word_new_br_2 | evil<br>since |  
+| bip_39_word_new_br_3 | evil<br>since<br>perfect |  
+| bip_39_word_new_br_4 | evil<br>since<br>perfect<br>warm |  
+| bip_39_word_new_br_5 | evil<br>since<br>perfect<br>warm<br>deposit |  
+| bip_39_word_new_br_6 | evil<br>since<br>perfect<br>warm<br>deposit<br>electric |  
+| bip_39_word_new_br_7 | evil<br>since<br>perfect<br>warm<br>deposit<br>electric<br>actor |  
+| bip_39_word_new_br_8 | evil<br>since<br>perfect<br>warm<br>deposit<br>electric<br>actor<br>photo |  
+| bip_39_word_new_br_9 | evil<br>since<br>perfect<br>warm<br>deposit<br>electric<br>actor<br>photo<br>rather |  
+| bip_39_word_new_line_1 | evil |  
+| bip_39_word_new_line_10 | evil
 since
 perfect
 warm
@@ -55,7 +55,7 @@ actor
 photo
 rather
 gorilla |  
-| bip_39_word_new_line11 | evil
+| bip_39_word_new_line_11 | evil
 since
 perfect
 warm
@@ -66,7 +66,7 @@ photo
 rather
 gorilla
 lyrics |  
-| bip_39_word_new_line12 | evil
+| bip_39_word_new_line_12 | evil
 since
 perfect
 warm
@@ -78,34 +78,34 @@ rather
 gorilla
 lyrics
 avocado |  
-| bip_39_word_new_line2 | evil
+| bip_39_word_new_line_2 | evil
 since |  
-| bip_39_word_new_line3 | evil
+| bip_39_word_new_line_3 | evil
 since
 perfect |  
-| bip_39_word_new_line4 | evil
+| bip_39_word_new_line_4 | evil
 since
 perfect
 warm |  
-| bip_39_word_new_line5 | evil
+| bip_39_word_new_line_5 | evil
 since
 perfect
 warm
 deposit |  
-| bip_39_word_new_line6 | evil
+| bip_39_word_new_line_6 | evil
 since
 perfect
 warm
 deposit
 electric |  
-| bip_39_word_new_line7 | evil
+| bip_39_word_new_line_7 | evil
 since
 perfect
 warm
 deposit
 electric
 actor |  
-| bip_39_word_new_line8 | evil
+| bip_39_word_new_line_8 | evil
 since
 perfect
 warm
@@ -113,7 +113,7 @@ deposit
 electric
 actor
 photo |  
-| bip_39_word_new_line9 | evil
+| bip_39_word_new_line_9 | evil
 since
 perfect
 warm

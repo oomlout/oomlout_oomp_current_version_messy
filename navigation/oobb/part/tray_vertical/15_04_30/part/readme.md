@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | smooth |  
-| bip_39_word_new_br10 | smooth<br>inherit<br>capable<br>pupil<br>alert<br>buddy<br>indicate<br>human<br>rate<br>kiwi |  
-| bip_39_word_new_br11 | smooth<br>inherit<br>capable<br>pupil<br>alert<br>buddy<br>indicate<br>human<br>rate<br>kiwi<br>range |  
-| bip_39_word_new_br12 | smooth<br>inherit<br>capable<br>pupil<br>alert<br>buddy<br>indicate<br>human<br>rate<br>kiwi<br>range<br>annual |  
-| bip_39_word_new_br2 | smooth<br>inherit |  
-| bip_39_word_new_br3 | smooth<br>inherit<br>capable |  
-| bip_39_word_new_br4 | smooth<br>inherit<br>capable<br>pupil |  
-| bip_39_word_new_br5 | smooth<br>inherit<br>capable<br>pupil<br>alert |  
-| bip_39_word_new_br6 | smooth<br>inherit<br>capable<br>pupil<br>alert<br>buddy |  
-| bip_39_word_new_br7 | smooth<br>inherit<br>capable<br>pupil<br>alert<br>buddy<br>indicate |  
-| bip_39_word_new_br8 | smooth<br>inherit<br>capable<br>pupil<br>alert<br>buddy<br>indicate<br>human |  
-| bip_39_word_new_br9 | smooth<br>inherit<br>capable<br>pupil<br>alert<br>buddy<br>indicate<br>human<br>rate |  
-| bip_39_word_new_line1 | smooth |  
-| bip_39_word_new_line10 | smooth
+| bip_39_word_new_br_1 | smooth |  
+| bip_39_word_new_br_10 | smooth<br>inherit<br>capable<br>pupil<br>alert<br>buddy<br>indicate<br>human<br>rate<br>kiwi |  
+| bip_39_word_new_br_11 | smooth<br>inherit<br>capable<br>pupil<br>alert<br>buddy<br>indicate<br>human<br>rate<br>kiwi<br>range |  
+| bip_39_word_new_br_12 | smooth<br>inherit<br>capable<br>pupil<br>alert<br>buddy<br>indicate<br>human<br>rate<br>kiwi<br>range<br>annual |  
+| bip_39_word_new_br_2 | smooth<br>inherit |  
+| bip_39_word_new_br_3 | smooth<br>inherit<br>capable |  
+| bip_39_word_new_br_4 | smooth<br>inherit<br>capable<br>pupil |  
+| bip_39_word_new_br_5 | smooth<br>inherit<br>capable<br>pupil<br>alert |  
+| bip_39_word_new_br_6 | smooth<br>inherit<br>capable<br>pupil<br>alert<br>buddy |  
+| bip_39_word_new_br_7 | smooth<br>inherit<br>capable<br>pupil<br>alert<br>buddy<br>indicate |  
+| bip_39_word_new_br_8 | smooth<br>inherit<br>capable<br>pupil<br>alert<br>buddy<br>indicate<br>human |  
+| bip_39_word_new_br_9 | smooth<br>inherit<br>capable<br>pupil<br>alert<br>buddy<br>indicate<br>human<br>rate |  
+| bip_39_word_new_line_1 | smooth |  
+| bip_39_word_new_line_10 | smooth
 inherit
 capable
 pupil
@@ -55,7 +55,7 @@ indicate
 human
 rate
 kiwi |  
-| bip_39_word_new_line11 | smooth
+| bip_39_word_new_line_11 | smooth
 inherit
 capable
 pupil
@@ -66,7 +66,7 @@ human
 rate
 kiwi
 range |  
-| bip_39_word_new_line12 | smooth
+| bip_39_word_new_line_12 | smooth
 inherit
 capable
 pupil
@@ -78,34 +78,34 @@ rate
 kiwi
 range
 annual |  
-| bip_39_word_new_line2 | smooth
+| bip_39_word_new_line_2 | smooth
 inherit |  
-| bip_39_word_new_line3 | smooth
+| bip_39_word_new_line_3 | smooth
 inherit
 capable |  
-| bip_39_word_new_line4 | smooth
+| bip_39_word_new_line_4 | smooth
 inherit
 capable
 pupil |  
-| bip_39_word_new_line5 | smooth
+| bip_39_word_new_line_5 | smooth
 inherit
 capable
 pupil
 alert |  
-| bip_39_word_new_line6 | smooth
+| bip_39_word_new_line_6 | smooth
 inherit
 capable
 pupil
 alert
 buddy |  
-| bip_39_word_new_line7 | smooth
+| bip_39_word_new_line_7 | smooth
 inherit
 capable
 pupil
 alert
 buddy
 indicate |  
-| bip_39_word_new_line8 | smooth
+| bip_39_word_new_line_8 | smooth
 inherit
 capable
 pupil
@@ -113,7 +113,7 @@ alert
 buddy
 indicate
 human |  
-| bip_39_word_new_line9 | smooth
+| bip_39_word_new_line_9 | smooth
 inherit
 capable
 pupil

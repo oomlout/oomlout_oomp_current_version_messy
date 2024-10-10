@@ -1,17 +1,17 @@
-bip_39_word_new_br1: orient
-bip_39_word_new_br10: orient<br>wish<br>join<br>include<br>harsh<br>better<br>inspire<br>mimic<br>fatal<br>message
-bip_39_word_new_br11: orient<br>wish<br>join<br>include<br>harsh<br>better<br>inspire<br>mimic<br>fatal<br>message<br>quality
-bip_39_word_new_br12: orient<br>wish<br>join<br>include<br>harsh<br>better<br>inspire<br>mimic<br>fatal<br>message<br>quality<br>adapt
-bip_39_word_new_br2: orient<br>wish
-bip_39_word_new_br3: orient<br>wish<br>join
-bip_39_word_new_br4: orient<br>wish<br>join<br>include
-bip_39_word_new_br5: orient<br>wish<br>join<br>include<br>harsh
-bip_39_word_new_br6: orient<br>wish<br>join<br>include<br>harsh<br>better
-bip_39_word_new_br7: orient<br>wish<br>join<br>include<br>harsh<br>better<br>inspire
-bip_39_word_new_br8: orient<br>wish<br>join<br>include<br>harsh<br>better<br>inspire<br>mimic
-bip_39_word_new_br9: orient<br>wish<br>join<br>include<br>harsh<br>better<br>inspire<br>mimic<br>fatal
-bip_39_word_new_line1: orient
-bip_39_word_new_line10: 'orient
+bip_39_word_new_br_1: orient
+bip_39_word_new_br_10: orient<br>wish<br>join<br>include<br>harsh<br>better<br>inspire<br>mimic<br>fatal<br>message
+bip_39_word_new_br_11: orient<br>wish<br>join<br>include<br>harsh<br>better<br>inspire<br>mimic<br>fatal<br>message<br>quality
+bip_39_word_new_br_12: orient<br>wish<br>join<br>include<br>harsh<br>better<br>inspire<br>mimic<br>fatal<br>message<br>quality<br>adapt
+bip_39_word_new_br_2: orient<br>wish
+bip_39_word_new_br_3: orient<br>wish<br>join
+bip_39_word_new_br_4: orient<br>wish<br>join<br>include
+bip_39_word_new_br_5: orient<br>wish<br>join<br>include<br>harsh
+bip_39_word_new_br_6: orient<br>wish<br>join<br>include<br>harsh<br>better
+bip_39_word_new_br_7: orient<br>wish<br>join<br>include<br>harsh<br>better<br>inspire
+bip_39_word_new_br_8: orient<br>wish<br>join<br>include<br>harsh<br>better<br>inspire<br>mimic
+bip_39_word_new_br_9: orient<br>wish<br>join<br>include<br>harsh<br>better<br>inspire<br>mimic<br>fatal
+bip_39_word_new_line_1: orient
+bip_39_word_new_line_10: 'orient
 
   wish
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'orient
   fatal
 
   message'
-bip_39_word_new_line11: 'orient
+bip_39_word_new_line_11: 'orient
 
   wish
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'orient
   message
 
   quality'
-bip_39_word_new_line12: 'orient
+bip_39_word_new_line_12: 'orient
 
   wish
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'orient
   quality
 
   adapt'
-bip_39_word_new_line2: 'orient
+bip_39_word_new_line_2: 'orient
 
   wish'
-bip_39_word_new_line3: 'orient
+bip_39_word_new_line_3: 'orient
 
   wish
 
   join'
-bip_39_word_new_line4: 'orient
+bip_39_word_new_line_4: 'orient
 
   wish
 
   join
 
   include'
-bip_39_word_new_line5: 'orient
+bip_39_word_new_line_5: 'orient
 
   wish
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'orient
   include
 
   harsh'
-bip_39_word_new_line6: 'orient
+bip_39_word_new_line_6: 'orient
 
   wish
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'orient
   harsh
 
   better'
-bip_39_word_new_line7: 'orient
+bip_39_word_new_line_7: 'orient
 
   wish
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'orient
   better
 
   inspire'
-bip_39_word_new_line8: 'orient
+bip_39_word_new_line_8: 'orient
 
   wish
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'orient
   inspire
 
   mimic'
-bip_39_word_new_line9: 'orient
+bip_39_word_new_line_9: 'orient
 
   wish
 

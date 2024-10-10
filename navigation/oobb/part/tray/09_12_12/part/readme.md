@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wire |  
-| bip_39_word_new_br10 | wire<br>sniff<br>audit<br>abstract<br>jungle<br>situate<br>cupboard<br>strategy<br>reduce<br>quick |  
-| bip_39_word_new_br11 | wire<br>sniff<br>audit<br>abstract<br>jungle<br>situate<br>cupboard<br>strategy<br>reduce<br>quick<br>bullet |  
-| bip_39_word_new_br12 | wire<br>sniff<br>audit<br>abstract<br>jungle<br>situate<br>cupboard<br>strategy<br>reduce<br>quick<br>bullet<br>amount |  
-| bip_39_word_new_br2 | wire<br>sniff |  
-| bip_39_word_new_br3 | wire<br>sniff<br>audit |  
-| bip_39_word_new_br4 | wire<br>sniff<br>audit<br>abstract |  
-| bip_39_word_new_br5 | wire<br>sniff<br>audit<br>abstract<br>jungle |  
-| bip_39_word_new_br6 | wire<br>sniff<br>audit<br>abstract<br>jungle<br>situate |  
-| bip_39_word_new_br7 | wire<br>sniff<br>audit<br>abstract<br>jungle<br>situate<br>cupboard |  
-| bip_39_word_new_br8 | wire<br>sniff<br>audit<br>abstract<br>jungle<br>situate<br>cupboard<br>strategy |  
-| bip_39_word_new_br9 | wire<br>sniff<br>audit<br>abstract<br>jungle<br>situate<br>cupboard<br>strategy<br>reduce |  
-| bip_39_word_new_line1 | wire |  
-| bip_39_word_new_line10 | wire
+| bip_39_word_new_br_1 | wire |  
+| bip_39_word_new_br_10 | wire<br>sniff<br>audit<br>abstract<br>jungle<br>situate<br>cupboard<br>strategy<br>reduce<br>quick |  
+| bip_39_word_new_br_11 | wire<br>sniff<br>audit<br>abstract<br>jungle<br>situate<br>cupboard<br>strategy<br>reduce<br>quick<br>bullet |  
+| bip_39_word_new_br_12 | wire<br>sniff<br>audit<br>abstract<br>jungle<br>situate<br>cupboard<br>strategy<br>reduce<br>quick<br>bullet<br>amount |  
+| bip_39_word_new_br_2 | wire<br>sniff |  
+| bip_39_word_new_br_3 | wire<br>sniff<br>audit |  
+| bip_39_word_new_br_4 | wire<br>sniff<br>audit<br>abstract |  
+| bip_39_word_new_br_5 | wire<br>sniff<br>audit<br>abstract<br>jungle |  
+| bip_39_word_new_br_6 | wire<br>sniff<br>audit<br>abstract<br>jungle<br>situate |  
+| bip_39_word_new_br_7 | wire<br>sniff<br>audit<br>abstract<br>jungle<br>situate<br>cupboard |  
+| bip_39_word_new_br_8 | wire<br>sniff<br>audit<br>abstract<br>jungle<br>situate<br>cupboard<br>strategy |  
+| bip_39_word_new_br_9 | wire<br>sniff<br>audit<br>abstract<br>jungle<br>situate<br>cupboard<br>strategy<br>reduce |  
+| bip_39_word_new_line_1 | wire |  
+| bip_39_word_new_line_10 | wire
 sniff
 audit
 abstract
@@ -55,7 +55,7 @@ cupboard
 strategy
 reduce
 quick |  
-| bip_39_word_new_line11 | wire
+| bip_39_word_new_line_11 | wire
 sniff
 audit
 abstract
@@ -66,7 +66,7 @@ strategy
 reduce
 quick
 bullet |  
-| bip_39_word_new_line12 | wire
+| bip_39_word_new_line_12 | wire
 sniff
 audit
 abstract
@@ -78,34 +78,34 @@ reduce
 quick
 bullet
 amount |  
-| bip_39_word_new_line2 | wire
+| bip_39_word_new_line_2 | wire
 sniff |  
-| bip_39_word_new_line3 | wire
+| bip_39_word_new_line_3 | wire
 sniff
 audit |  
-| bip_39_word_new_line4 | wire
+| bip_39_word_new_line_4 | wire
 sniff
 audit
 abstract |  
-| bip_39_word_new_line5 | wire
+| bip_39_word_new_line_5 | wire
 sniff
 audit
 abstract
 jungle |  
-| bip_39_word_new_line6 | wire
+| bip_39_word_new_line_6 | wire
 sniff
 audit
 abstract
 jungle
 situate |  
-| bip_39_word_new_line7 | wire
+| bip_39_word_new_line_7 | wire
 sniff
 audit
 abstract
 jungle
 situate
 cupboard |  
-| bip_39_word_new_line8 | wire
+| bip_39_word_new_line_8 | wire
 sniff
 audit
 abstract
@@ -113,7 +113,7 @@ jungle
 situate
 cupboard
 strategy |  
-| bip_39_word_new_line9 | wire
+| bip_39_word_new_line_9 | wire
 sniff
 audit
 abstract

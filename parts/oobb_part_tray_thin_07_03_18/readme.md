@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pill |  
-| bip_39_word_new_br10 | pill<br>hamster<br>skirt<br>napkin<br>pig<br>start<br>knee<br>depend<br>arrest<br>clerk |  
-| bip_39_word_new_br11 | pill<br>hamster<br>skirt<br>napkin<br>pig<br>start<br>knee<br>depend<br>arrest<br>clerk<br>layer |  
-| bip_39_word_new_br12 | pill<br>hamster<br>skirt<br>napkin<br>pig<br>start<br>knee<br>depend<br>arrest<br>clerk<br>layer<br>ask |  
-| bip_39_word_new_br2 | pill<br>hamster |  
-| bip_39_word_new_br3 | pill<br>hamster<br>skirt |  
-| bip_39_word_new_br4 | pill<br>hamster<br>skirt<br>napkin |  
-| bip_39_word_new_br5 | pill<br>hamster<br>skirt<br>napkin<br>pig |  
-| bip_39_word_new_br6 | pill<br>hamster<br>skirt<br>napkin<br>pig<br>start |  
-| bip_39_word_new_br7 | pill<br>hamster<br>skirt<br>napkin<br>pig<br>start<br>knee |  
-| bip_39_word_new_br8 | pill<br>hamster<br>skirt<br>napkin<br>pig<br>start<br>knee<br>depend |  
-| bip_39_word_new_br9 | pill<br>hamster<br>skirt<br>napkin<br>pig<br>start<br>knee<br>depend<br>arrest |  
-| bip_39_word_new_line1 | pill |  
-| bip_39_word_new_line10 | pill
+| bip_39_word_new_br_1 | pill |  
+| bip_39_word_new_br_10 | pill<br>hamster<br>skirt<br>napkin<br>pig<br>start<br>knee<br>depend<br>arrest<br>clerk |  
+| bip_39_word_new_br_11 | pill<br>hamster<br>skirt<br>napkin<br>pig<br>start<br>knee<br>depend<br>arrest<br>clerk<br>layer |  
+| bip_39_word_new_br_12 | pill<br>hamster<br>skirt<br>napkin<br>pig<br>start<br>knee<br>depend<br>arrest<br>clerk<br>layer<br>ask |  
+| bip_39_word_new_br_2 | pill<br>hamster |  
+| bip_39_word_new_br_3 | pill<br>hamster<br>skirt |  
+| bip_39_word_new_br_4 | pill<br>hamster<br>skirt<br>napkin |  
+| bip_39_word_new_br_5 | pill<br>hamster<br>skirt<br>napkin<br>pig |  
+| bip_39_word_new_br_6 | pill<br>hamster<br>skirt<br>napkin<br>pig<br>start |  
+| bip_39_word_new_br_7 | pill<br>hamster<br>skirt<br>napkin<br>pig<br>start<br>knee |  
+| bip_39_word_new_br_8 | pill<br>hamster<br>skirt<br>napkin<br>pig<br>start<br>knee<br>depend |  
+| bip_39_word_new_br_9 | pill<br>hamster<br>skirt<br>napkin<br>pig<br>start<br>knee<br>depend<br>arrest |  
+| bip_39_word_new_line_1 | pill |  
+| bip_39_word_new_line_10 | pill
 hamster
 skirt
 napkin
@@ -55,7 +55,7 @@ knee
 depend
 arrest
 clerk |  
-| bip_39_word_new_line11 | pill
+| bip_39_word_new_line_11 | pill
 hamster
 skirt
 napkin
@@ -66,7 +66,7 @@ depend
 arrest
 clerk
 layer |  
-| bip_39_word_new_line12 | pill
+| bip_39_word_new_line_12 | pill
 hamster
 skirt
 napkin
@@ -78,34 +78,34 @@ arrest
 clerk
 layer
 ask |  
-| bip_39_word_new_line2 | pill
+| bip_39_word_new_line_2 | pill
 hamster |  
-| bip_39_word_new_line3 | pill
+| bip_39_word_new_line_3 | pill
 hamster
 skirt |  
-| bip_39_word_new_line4 | pill
+| bip_39_word_new_line_4 | pill
 hamster
 skirt
 napkin |  
-| bip_39_word_new_line5 | pill
+| bip_39_word_new_line_5 | pill
 hamster
 skirt
 napkin
 pig |  
-| bip_39_word_new_line6 | pill
+| bip_39_word_new_line_6 | pill
 hamster
 skirt
 napkin
 pig
 start |  
-| bip_39_word_new_line7 | pill
+| bip_39_word_new_line_7 | pill
 hamster
 skirt
 napkin
 pig
 start
 knee |  
-| bip_39_word_new_line8 | pill
+| bip_39_word_new_line_8 | pill
 hamster
 skirt
 napkin
@@ -113,7 +113,7 @@ pig
 start
 knee
 depend |  
-| bip_39_word_new_line9 | pill
+| bip_39_word_new_line_9 | pill
 hamster
 skirt
 napkin

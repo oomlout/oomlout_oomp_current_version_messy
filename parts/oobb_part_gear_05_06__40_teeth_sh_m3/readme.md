@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gallery |  
-| bip_39_word_new_br10 | gallery<br>argue<br>raven<br>dwarf<br>ethics<br>volcano<br>tone<br>grow<br>talk<br>play |  
-| bip_39_word_new_br11 | gallery<br>argue<br>raven<br>dwarf<br>ethics<br>volcano<br>tone<br>grow<br>talk<br>play<br>toddler |  
-| bip_39_word_new_br12 | gallery<br>argue<br>raven<br>dwarf<br>ethics<br>volcano<br>tone<br>grow<br>talk<br>play<br>toddler<br>artwork |  
-| bip_39_word_new_br2 | gallery<br>argue |  
-| bip_39_word_new_br3 | gallery<br>argue<br>raven |  
-| bip_39_word_new_br4 | gallery<br>argue<br>raven<br>dwarf |  
-| bip_39_word_new_br5 | gallery<br>argue<br>raven<br>dwarf<br>ethics |  
-| bip_39_word_new_br6 | gallery<br>argue<br>raven<br>dwarf<br>ethics<br>volcano |  
-| bip_39_word_new_br7 | gallery<br>argue<br>raven<br>dwarf<br>ethics<br>volcano<br>tone |  
-| bip_39_word_new_br8 | gallery<br>argue<br>raven<br>dwarf<br>ethics<br>volcano<br>tone<br>grow |  
-| bip_39_word_new_br9 | gallery<br>argue<br>raven<br>dwarf<br>ethics<br>volcano<br>tone<br>grow<br>talk |  
-| bip_39_word_new_line1 | gallery |  
-| bip_39_word_new_line10 | gallery
+| bip_39_word_new_br_1 | gallery |  
+| bip_39_word_new_br_10 | gallery<br>argue<br>raven<br>dwarf<br>ethics<br>volcano<br>tone<br>grow<br>talk<br>play |  
+| bip_39_word_new_br_11 | gallery<br>argue<br>raven<br>dwarf<br>ethics<br>volcano<br>tone<br>grow<br>talk<br>play<br>toddler |  
+| bip_39_word_new_br_12 | gallery<br>argue<br>raven<br>dwarf<br>ethics<br>volcano<br>tone<br>grow<br>talk<br>play<br>toddler<br>artwork |  
+| bip_39_word_new_br_2 | gallery<br>argue |  
+| bip_39_word_new_br_3 | gallery<br>argue<br>raven |  
+| bip_39_word_new_br_4 | gallery<br>argue<br>raven<br>dwarf |  
+| bip_39_word_new_br_5 | gallery<br>argue<br>raven<br>dwarf<br>ethics |  
+| bip_39_word_new_br_6 | gallery<br>argue<br>raven<br>dwarf<br>ethics<br>volcano |  
+| bip_39_word_new_br_7 | gallery<br>argue<br>raven<br>dwarf<br>ethics<br>volcano<br>tone |  
+| bip_39_word_new_br_8 | gallery<br>argue<br>raven<br>dwarf<br>ethics<br>volcano<br>tone<br>grow |  
+| bip_39_word_new_br_9 | gallery<br>argue<br>raven<br>dwarf<br>ethics<br>volcano<br>tone<br>grow<br>talk |  
+| bip_39_word_new_line_1 | gallery |  
+| bip_39_word_new_line_10 | gallery
 argue
 raven
 dwarf
@@ -55,7 +55,7 @@ tone
 grow
 talk
 play |  
-| bip_39_word_new_line11 | gallery
+| bip_39_word_new_line_11 | gallery
 argue
 raven
 dwarf
@@ -66,7 +66,7 @@ grow
 talk
 play
 toddler |  
-| bip_39_word_new_line12 | gallery
+| bip_39_word_new_line_12 | gallery
 argue
 raven
 dwarf
@@ -78,34 +78,34 @@ talk
 play
 toddler
 artwork |  
-| bip_39_word_new_line2 | gallery
+| bip_39_word_new_line_2 | gallery
 argue |  
-| bip_39_word_new_line3 | gallery
+| bip_39_word_new_line_3 | gallery
 argue
 raven |  
-| bip_39_word_new_line4 | gallery
+| bip_39_word_new_line_4 | gallery
 argue
 raven
 dwarf |  
-| bip_39_word_new_line5 | gallery
+| bip_39_word_new_line_5 | gallery
 argue
 raven
 dwarf
 ethics |  
-| bip_39_word_new_line6 | gallery
+| bip_39_word_new_line_6 | gallery
 argue
 raven
 dwarf
 ethics
 volcano |  
-| bip_39_word_new_line7 | gallery
+| bip_39_word_new_line_7 | gallery
 argue
 raven
 dwarf
 ethics
 volcano
 tone |  
-| bip_39_word_new_line8 | gallery
+| bip_39_word_new_line_8 | gallery
 argue
 raven
 dwarf
@@ -113,7 +113,7 @@ ethics
 volcano
 tone
 grow |  
-| bip_39_word_new_line9 | gallery
+| bip_39_word_new_line_9 | gallery
 argue
 raven
 dwarf

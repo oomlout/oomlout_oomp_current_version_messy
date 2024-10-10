@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | demise |  
-| bip_39_word_new_br10 | demise<br>team<br>grape<br>toilet<br>final<br>frog<br>comfort<br>spring<br>tonight<br>develop |  
-| bip_39_word_new_br11 | demise<br>team<br>grape<br>toilet<br>final<br>frog<br>comfort<br>spring<br>tonight<br>develop<br>once |  
-| bip_39_word_new_br12 | demise<br>team<br>grape<br>toilet<br>final<br>frog<br>comfort<br>spring<br>tonight<br>develop<br>once<br>action |  
-| bip_39_word_new_br2 | demise<br>team |  
-| bip_39_word_new_br3 | demise<br>team<br>grape |  
-| bip_39_word_new_br4 | demise<br>team<br>grape<br>toilet |  
-| bip_39_word_new_br5 | demise<br>team<br>grape<br>toilet<br>final |  
-| bip_39_word_new_br6 | demise<br>team<br>grape<br>toilet<br>final<br>frog |  
-| bip_39_word_new_br7 | demise<br>team<br>grape<br>toilet<br>final<br>frog<br>comfort |  
-| bip_39_word_new_br8 | demise<br>team<br>grape<br>toilet<br>final<br>frog<br>comfort<br>spring |  
-| bip_39_word_new_br9 | demise<br>team<br>grape<br>toilet<br>final<br>frog<br>comfort<br>spring<br>tonight |  
-| bip_39_word_new_line1 | demise |  
-| bip_39_word_new_line10 | demise
+| bip_39_word_new_br_1 | demise |  
+| bip_39_word_new_br_10 | demise<br>team<br>grape<br>toilet<br>final<br>frog<br>comfort<br>spring<br>tonight<br>develop |  
+| bip_39_word_new_br_11 | demise<br>team<br>grape<br>toilet<br>final<br>frog<br>comfort<br>spring<br>tonight<br>develop<br>once |  
+| bip_39_word_new_br_12 | demise<br>team<br>grape<br>toilet<br>final<br>frog<br>comfort<br>spring<br>tonight<br>develop<br>once<br>action |  
+| bip_39_word_new_br_2 | demise<br>team |  
+| bip_39_word_new_br_3 | demise<br>team<br>grape |  
+| bip_39_word_new_br_4 | demise<br>team<br>grape<br>toilet |  
+| bip_39_word_new_br_5 | demise<br>team<br>grape<br>toilet<br>final |  
+| bip_39_word_new_br_6 | demise<br>team<br>grape<br>toilet<br>final<br>frog |  
+| bip_39_word_new_br_7 | demise<br>team<br>grape<br>toilet<br>final<br>frog<br>comfort |  
+| bip_39_word_new_br_8 | demise<br>team<br>grape<br>toilet<br>final<br>frog<br>comfort<br>spring |  
+| bip_39_word_new_br_9 | demise<br>team<br>grape<br>toilet<br>final<br>frog<br>comfort<br>spring<br>tonight |  
+| bip_39_word_new_line_1 | demise |  
+| bip_39_word_new_line_10 | demise
 team
 grape
 toilet
@@ -55,7 +55,7 @@ comfort
 spring
 tonight
 develop |  
-| bip_39_word_new_line11 | demise
+| bip_39_word_new_line_11 | demise
 team
 grape
 toilet
@@ -66,7 +66,7 @@ spring
 tonight
 develop
 once |  
-| bip_39_word_new_line12 | demise
+| bip_39_word_new_line_12 | demise
 team
 grape
 toilet
@@ -78,34 +78,34 @@ tonight
 develop
 once
 action |  
-| bip_39_word_new_line2 | demise
+| bip_39_word_new_line_2 | demise
 team |  
-| bip_39_word_new_line3 | demise
+| bip_39_word_new_line_3 | demise
 team
 grape |  
-| bip_39_word_new_line4 | demise
+| bip_39_word_new_line_4 | demise
 team
 grape
 toilet |  
-| bip_39_word_new_line5 | demise
+| bip_39_word_new_line_5 | demise
 team
 grape
 toilet
 final |  
-| bip_39_word_new_line6 | demise
+| bip_39_word_new_line_6 | demise
 team
 grape
 toilet
 final
 frog |  
-| bip_39_word_new_line7 | demise
+| bip_39_word_new_line_7 | demise
 team
 grape
 toilet
 final
 frog
 comfort |  
-| bip_39_word_new_line8 | demise
+| bip_39_word_new_line_8 | demise
 team
 grape
 toilet
@@ -113,7 +113,7 @@ final
 frog
 comfort
 spring |  
-| bip_39_word_new_line9 | demise
+| bip_39_word_new_line_9 | demise
 team
 grape
 toilet

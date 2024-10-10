@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | diary |  
-| bip_39_word_new_br10 | diary<br>example<br>artefact<br>prevent<br>denial<br>resource<br>victory<br>cupboard<br>mirror<br>access |  
-| bip_39_word_new_br11 | diary<br>example<br>artefact<br>prevent<br>denial<br>resource<br>victory<br>cupboard<br>mirror<br>access<br>bench |  
-| bip_39_word_new_br12 | diary<br>example<br>artefact<br>prevent<br>denial<br>resource<br>victory<br>cupboard<br>mirror<br>access<br>bench<br>alter |  
-| bip_39_word_new_br2 | diary<br>example |  
-| bip_39_word_new_br3 | diary<br>example<br>artefact |  
-| bip_39_word_new_br4 | diary<br>example<br>artefact<br>prevent |  
-| bip_39_word_new_br5 | diary<br>example<br>artefact<br>prevent<br>denial |  
-| bip_39_word_new_br6 | diary<br>example<br>artefact<br>prevent<br>denial<br>resource |  
-| bip_39_word_new_br7 | diary<br>example<br>artefact<br>prevent<br>denial<br>resource<br>victory |  
-| bip_39_word_new_br8 | diary<br>example<br>artefact<br>prevent<br>denial<br>resource<br>victory<br>cupboard |  
-| bip_39_word_new_br9 | diary<br>example<br>artefact<br>prevent<br>denial<br>resource<br>victory<br>cupboard<br>mirror |  
-| bip_39_word_new_line1 | diary |  
-| bip_39_word_new_line10 | diary
+| bip_39_word_new_br_1 | diary |  
+| bip_39_word_new_br_10 | diary<br>example<br>artefact<br>prevent<br>denial<br>resource<br>victory<br>cupboard<br>mirror<br>access |  
+| bip_39_word_new_br_11 | diary<br>example<br>artefact<br>prevent<br>denial<br>resource<br>victory<br>cupboard<br>mirror<br>access<br>bench |  
+| bip_39_word_new_br_12 | diary<br>example<br>artefact<br>prevent<br>denial<br>resource<br>victory<br>cupboard<br>mirror<br>access<br>bench<br>alter |  
+| bip_39_word_new_br_2 | diary<br>example |  
+| bip_39_word_new_br_3 | diary<br>example<br>artefact |  
+| bip_39_word_new_br_4 | diary<br>example<br>artefact<br>prevent |  
+| bip_39_word_new_br_5 | diary<br>example<br>artefact<br>prevent<br>denial |  
+| bip_39_word_new_br_6 | diary<br>example<br>artefact<br>prevent<br>denial<br>resource |  
+| bip_39_word_new_br_7 | diary<br>example<br>artefact<br>prevent<br>denial<br>resource<br>victory |  
+| bip_39_word_new_br_8 | diary<br>example<br>artefact<br>prevent<br>denial<br>resource<br>victory<br>cupboard |  
+| bip_39_word_new_br_9 | diary<br>example<br>artefact<br>prevent<br>denial<br>resource<br>victory<br>cupboard<br>mirror |  
+| bip_39_word_new_line_1 | diary |  
+| bip_39_word_new_line_10 | diary
 example
 artefact
 prevent
@@ -55,7 +55,7 @@ victory
 cupboard
 mirror
 access |  
-| bip_39_word_new_line11 | diary
+| bip_39_word_new_line_11 | diary
 example
 artefact
 prevent
@@ -66,7 +66,7 @@ cupboard
 mirror
 access
 bench |  
-| bip_39_word_new_line12 | diary
+| bip_39_word_new_line_12 | diary
 example
 artefact
 prevent
@@ -78,34 +78,34 @@ mirror
 access
 bench
 alter |  
-| bip_39_word_new_line2 | diary
+| bip_39_word_new_line_2 | diary
 example |  
-| bip_39_word_new_line3 | diary
+| bip_39_word_new_line_3 | diary
 example
 artefact |  
-| bip_39_word_new_line4 | diary
+| bip_39_word_new_line_4 | diary
 example
 artefact
 prevent |  
-| bip_39_word_new_line5 | diary
+| bip_39_word_new_line_5 | diary
 example
 artefact
 prevent
 denial |  
-| bip_39_word_new_line6 | diary
+| bip_39_word_new_line_6 | diary
 example
 artefact
 prevent
 denial
 resource |  
-| bip_39_word_new_line7 | diary
+| bip_39_word_new_line_7 | diary
 example
 artefact
 prevent
 denial
 resource
 victory |  
-| bip_39_word_new_line8 | diary
+| bip_39_word_new_line_8 | diary
 example
 artefact
 prevent
@@ -113,7 +113,7 @@ denial
 resource
 victory
 cupboard |  
-| bip_39_word_new_line9 | diary
+| bip_39_word_new_line_9 | diary
 example
 artefact
 prevent

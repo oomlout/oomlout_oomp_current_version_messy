@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | teach |  
-| bip_39_word_new_br10 | teach<br>pony<br>change<br>mystery<br>rally<br>warfare<br>auction<br>engage<br>cover<br>piece |  
-| bip_39_word_new_br11 | teach<br>pony<br>change<br>mystery<br>rally<br>warfare<br>auction<br>engage<br>cover<br>piece<br>public |  
-| bip_39_word_new_br12 | teach<br>pony<br>change<br>mystery<br>rally<br>warfare<br>auction<br>engage<br>cover<br>piece<br>public<br>amount |  
-| bip_39_word_new_br2 | teach<br>pony |  
-| bip_39_word_new_br3 | teach<br>pony<br>change |  
-| bip_39_word_new_br4 | teach<br>pony<br>change<br>mystery |  
-| bip_39_word_new_br5 | teach<br>pony<br>change<br>mystery<br>rally |  
-| bip_39_word_new_br6 | teach<br>pony<br>change<br>mystery<br>rally<br>warfare |  
-| bip_39_word_new_br7 | teach<br>pony<br>change<br>mystery<br>rally<br>warfare<br>auction |  
-| bip_39_word_new_br8 | teach<br>pony<br>change<br>mystery<br>rally<br>warfare<br>auction<br>engage |  
-| bip_39_word_new_br9 | teach<br>pony<br>change<br>mystery<br>rally<br>warfare<br>auction<br>engage<br>cover |  
-| bip_39_word_new_line1 | teach |  
-| bip_39_word_new_line10 | teach
+| bip_39_word_new_br_1 | teach |  
+| bip_39_word_new_br_10 | teach<br>pony<br>change<br>mystery<br>rally<br>warfare<br>auction<br>engage<br>cover<br>piece |  
+| bip_39_word_new_br_11 | teach<br>pony<br>change<br>mystery<br>rally<br>warfare<br>auction<br>engage<br>cover<br>piece<br>public |  
+| bip_39_word_new_br_12 | teach<br>pony<br>change<br>mystery<br>rally<br>warfare<br>auction<br>engage<br>cover<br>piece<br>public<br>amount |  
+| bip_39_word_new_br_2 | teach<br>pony |  
+| bip_39_word_new_br_3 | teach<br>pony<br>change |  
+| bip_39_word_new_br_4 | teach<br>pony<br>change<br>mystery |  
+| bip_39_word_new_br_5 | teach<br>pony<br>change<br>mystery<br>rally |  
+| bip_39_word_new_br_6 | teach<br>pony<br>change<br>mystery<br>rally<br>warfare |  
+| bip_39_word_new_br_7 | teach<br>pony<br>change<br>mystery<br>rally<br>warfare<br>auction |  
+| bip_39_word_new_br_8 | teach<br>pony<br>change<br>mystery<br>rally<br>warfare<br>auction<br>engage |  
+| bip_39_word_new_br_9 | teach<br>pony<br>change<br>mystery<br>rally<br>warfare<br>auction<br>engage<br>cover |  
+| bip_39_word_new_line_1 | teach |  
+| bip_39_word_new_line_10 | teach
 pony
 change
 mystery
@@ -55,7 +55,7 @@ auction
 engage
 cover
 piece |  
-| bip_39_word_new_line11 | teach
+| bip_39_word_new_line_11 | teach
 pony
 change
 mystery
@@ -66,7 +66,7 @@ engage
 cover
 piece
 public |  
-| bip_39_word_new_line12 | teach
+| bip_39_word_new_line_12 | teach
 pony
 change
 mystery
@@ -78,34 +78,34 @@ cover
 piece
 public
 amount |  
-| bip_39_word_new_line2 | teach
+| bip_39_word_new_line_2 | teach
 pony |  
-| bip_39_word_new_line3 | teach
+| bip_39_word_new_line_3 | teach
 pony
 change |  
-| bip_39_word_new_line4 | teach
+| bip_39_word_new_line_4 | teach
 pony
 change
 mystery |  
-| bip_39_word_new_line5 | teach
+| bip_39_word_new_line_5 | teach
 pony
 change
 mystery
 rally |  
-| bip_39_word_new_line6 | teach
+| bip_39_word_new_line_6 | teach
 pony
 change
 mystery
 rally
 warfare |  
-| bip_39_word_new_line7 | teach
+| bip_39_word_new_line_7 | teach
 pony
 change
 mystery
 rally
 warfare
 auction |  
-| bip_39_word_new_line8 | teach
+| bip_39_word_new_line_8 | teach
 pony
 change
 mystery
@@ -113,7 +113,7 @@ rally
 warfare
 auction
 engage |  
-| bip_39_word_new_line9 | teach
+| bip_39_word_new_line_9 | teach
 pony
 change
 mystery

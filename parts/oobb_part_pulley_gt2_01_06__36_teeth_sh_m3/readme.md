@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pipe |  
-| bip_39_word_new_br10 | pipe<br>always<br>witness<br>choice<br>dismiss<br>decline<br>erase<br>drink<br>buyer<br>wild |  
-| bip_39_word_new_br11 | pipe<br>always<br>witness<br>choice<br>dismiss<br>decline<br>erase<br>drink<br>buyer<br>wild<br>action |  
-| bip_39_word_new_br12 | pipe<br>always<br>witness<br>choice<br>dismiss<br>decline<br>erase<br>drink<br>buyer<br>wild<br>action<br>ahead |  
-| bip_39_word_new_br2 | pipe<br>always |  
-| bip_39_word_new_br3 | pipe<br>always<br>witness |  
-| bip_39_word_new_br4 | pipe<br>always<br>witness<br>choice |  
-| bip_39_word_new_br5 | pipe<br>always<br>witness<br>choice<br>dismiss |  
-| bip_39_word_new_br6 | pipe<br>always<br>witness<br>choice<br>dismiss<br>decline |  
-| bip_39_word_new_br7 | pipe<br>always<br>witness<br>choice<br>dismiss<br>decline<br>erase |  
-| bip_39_word_new_br8 | pipe<br>always<br>witness<br>choice<br>dismiss<br>decline<br>erase<br>drink |  
-| bip_39_word_new_br9 | pipe<br>always<br>witness<br>choice<br>dismiss<br>decline<br>erase<br>drink<br>buyer |  
-| bip_39_word_new_line1 | pipe |  
-| bip_39_word_new_line10 | pipe
+| bip_39_word_new_br_1 | pipe |  
+| bip_39_word_new_br_10 | pipe<br>always<br>witness<br>choice<br>dismiss<br>decline<br>erase<br>drink<br>buyer<br>wild |  
+| bip_39_word_new_br_11 | pipe<br>always<br>witness<br>choice<br>dismiss<br>decline<br>erase<br>drink<br>buyer<br>wild<br>action |  
+| bip_39_word_new_br_12 | pipe<br>always<br>witness<br>choice<br>dismiss<br>decline<br>erase<br>drink<br>buyer<br>wild<br>action<br>ahead |  
+| bip_39_word_new_br_2 | pipe<br>always |  
+| bip_39_word_new_br_3 | pipe<br>always<br>witness |  
+| bip_39_word_new_br_4 | pipe<br>always<br>witness<br>choice |  
+| bip_39_word_new_br_5 | pipe<br>always<br>witness<br>choice<br>dismiss |  
+| bip_39_word_new_br_6 | pipe<br>always<br>witness<br>choice<br>dismiss<br>decline |  
+| bip_39_word_new_br_7 | pipe<br>always<br>witness<br>choice<br>dismiss<br>decline<br>erase |  
+| bip_39_word_new_br_8 | pipe<br>always<br>witness<br>choice<br>dismiss<br>decline<br>erase<br>drink |  
+| bip_39_word_new_br_9 | pipe<br>always<br>witness<br>choice<br>dismiss<br>decline<br>erase<br>drink<br>buyer |  
+| bip_39_word_new_line_1 | pipe |  
+| bip_39_word_new_line_10 | pipe
 always
 witness
 choice
@@ -55,7 +55,7 @@ erase
 drink
 buyer
 wild |  
-| bip_39_word_new_line11 | pipe
+| bip_39_word_new_line_11 | pipe
 always
 witness
 choice
@@ -66,7 +66,7 @@ drink
 buyer
 wild
 action |  
-| bip_39_word_new_line12 | pipe
+| bip_39_word_new_line_12 | pipe
 always
 witness
 choice
@@ -78,34 +78,34 @@ buyer
 wild
 action
 ahead |  
-| bip_39_word_new_line2 | pipe
+| bip_39_word_new_line_2 | pipe
 always |  
-| bip_39_word_new_line3 | pipe
+| bip_39_word_new_line_3 | pipe
 always
 witness |  
-| bip_39_word_new_line4 | pipe
+| bip_39_word_new_line_4 | pipe
 always
 witness
 choice |  
-| bip_39_word_new_line5 | pipe
+| bip_39_word_new_line_5 | pipe
 always
 witness
 choice
 dismiss |  
-| bip_39_word_new_line6 | pipe
+| bip_39_word_new_line_6 | pipe
 always
 witness
 choice
 dismiss
 decline |  
-| bip_39_word_new_line7 | pipe
+| bip_39_word_new_line_7 | pipe
 always
 witness
 choice
 dismiss
 decline
 erase |  
-| bip_39_word_new_line8 | pipe
+| bip_39_word_new_line_8 | pipe
 always
 witness
 choice
@@ -113,7 +113,7 @@ dismiss
 decline
 erase
 drink |  
-| bip_39_word_new_line9 | pipe
+| bip_39_word_new_line_9 | pipe
 always
 witness
 choice

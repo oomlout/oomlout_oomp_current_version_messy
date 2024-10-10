@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | armed |  
-| bip_39_word_new_br10 | armed<br>office<br>special<br>torch<br>razor<br>guitar<br>broken<br>scatter<br>sentence<br>amused |  
-| bip_39_word_new_br11 | armed<br>office<br>special<br>torch<br>razor<br>guitar<br>broken<br>scatter<br>sentence<br>amused<br>uncle |  
-| bip_39_word_new_br12 | armed<br>office<br>special<br>torch<br>razor<br>guitar<br>broken<br>scatter<br>sentence<br>amused<br>uncle<br>already |  
-| bip_39_word_new_br2 | armed<br>office |  
-| bip_39_word_new_br3 | armed<br>office<br>special |  
-| bip_39_word_new_br4 | armed<br>office<br>special<br>torch |  
-| bip_39_word_new_br5 | armed<br>office<br>special<br>torch<br>razor |  
-| bip_39_word_new_br6 | armed<br>office<br>special<br>torch<br>razor<br>guitar |  
-| bip_39_word_new_br7 | armed<br>office<br>special<br>torch<br>razor<br>guitar<br>broken |  
-| bip_39_word_new_br8 | armed<br>office<br>special<br>torch<br>razor<br>guitar<br>broken<br>scatter |  
-| bip_39_word_new_br9 | armed<br>office<br>special<br>torch<br>razor<br>guitar<br>broken<br>scatter<br>sentence |  
-| bip_39_word_new_line1 | armed |  
-| bip_39_word_new_line10 | armed
+| bip_39_word_new_br_1 | armed |  
+| bip_39_word_new_br_10 | armed<br>office<br>special<br>torch<br>razor<br>guitar<br>broken<br>scatter<br>sentence<br>amused |  
+| bip_39_word_new_br_11 | armed<br>office<br>special<br>torch<br>razor<br>guitar<br>broken<br>scatter<br>sentence<br>amused<br>uncle |  
+| bip_39_word_new_br_12 | armed<br>office<br>special<br>torch<br>razor<br>guitar<br>broken<br>scatter<br>sentence<br>amused<br>uncle<br>already |  
+| bip_39_word_new_br_2 | armed<br>office |  
+| bip_39_word_new_br_3 | armed<br>office<br>special |  
+| bip_39_word_new_br_4 | armed<br>office<br>special<br>torch |  
+| bip_39_word_new_br_5 | armed<br>office<br>special<br>torch<br>razor |  
+| bip_39_word_new_br_6 | armed<br>office<br>special<br>torch<br>razor<br>guitar |  
+| bip_39_word_new_br_7 | armed<br>office<br>special<br>torch<br>razor<br>guitar<br>broken |  
+| bip_39_word_new_br_8 | armed<br>office<br>special<br>torch<br>razor<br>guitar<br>broken<br>scatter |  
+| bip_39_word_new_br_9 | armed<br>office<br>special<br>torch<br>razor<br>guitar<br>broken<br>scatter<br>sentence |  
+| bip_39_word_new_line_1 | armed |  
+| bip_39_word_new_line_10 | armed
 office
 special
 torch
@@ -55,7 +55,7 @@ broken
 scatter
 sentence
 amused |  
-| bip_39_word_new_line11 | armed
+| bip_39_word_new_line_11 | armed
 office
 special
 torch
@@ -66,7 +66,7 @@ scatter
 sentence
 amused
 uncle |  
-| bip_39_word_new_line12 | armed
+| bip_39_word_new_line_12 | armed
 office
 special
 torch
@@ -78,34 +78,34 @@ sentence
 amused
 uncle
 already |  
-| bip_39_word_new_line2 | armed
+| bip_39_word_new_line_2 | armed
 office |  
-| bip_39_word_new_line3 | armed
+| bip_39_word_new_line_3 | armed
 office
 special |  
-| bip_39_word_new_line4 | armed
+| bip_39_word_new_line_4 | armed
 office
 special
 torch |  
-| bip_39_word_new_line5 | armed
+| bip_39_word_new_line_5 | armed
 office
 special
 torch
 razor |  
-| bip_39_word_new_line6 | armed
+| bip_39_word_new_line_6 | armed
 office
 special
 torch
 razor
 guitar |  
-| bip_39_word_new_line7 | armed
+| bip_39_word_new_line_7 | armed
 office
 special
 torch
 razor
 guitar
 broken |  
-| bip_39_word_new_line8 | armed
+| bip_39_word_new_line_8 | armed
 office
 special
 torch
@@ -113,7 +113,7 @@ razor
 guitar
 broken
 scatter |  
-| bip_39_word_new_line9 | armed
+| bip_39_word_new_line_9 | armed
 office
 special
 torch

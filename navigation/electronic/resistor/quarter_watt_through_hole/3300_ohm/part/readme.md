@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | answer |  
-| bip_39_word_new_br10 | answer<br>load<br>verify<br>immune<br>giant<br>voyage<br>popular<br>smoke<br>bike<br>mushroom |  
-| bip_39_word_new_br11 | answer<br>load<br>verify<br>immune<br>giant<br>voyage<br>popular<br>smoke<br>bike<br>mushroom<br>replace |  
-| bip_39_word_new_br12 | answer<br>load<br>verify<br>immune<br>giant<br>voyage<br>popular<br>smoke<br>bike<br>mushroom<br>replace<br>arm |  
-| bip_39_word_new_br2 | answer<br>load |  
-| bip_39_word_new_br3 | answer<br>load<br>verify |  
-| bip_39_word_new_br4 | answer<br>load<br>verify<br>immune |  
-| bip_39_word_new_br5 | answer<br>load<br>verify<br>immune<br>giant |  
-| bip_39_word_new_br6 | answer<br>load<br>verify<br>immune<br>giant<br>voyage |  
-| bip_39_word_new_br7 | answer<br>load<br>verify<br>immune<br>giant<br>voyage<br>popular |  
-| bip_39_word_new_br8 | answer<br>load<br>verify<br>immune<br>giant<br>voyage<br>popular<br>smoke |  
-| bip_39_word_new_br9 | answer<br>load<br>verify<br>immune<br>giant<br>voyage<br>popular<br>smoke<br>bike |  
-| bip_39_word_new_line1 | answer |  
-| bip_39_word_new_line10 | answer
+| bip_39_word_new_br_1 | answer |  
+| bip_39_word_new_br_10 | answer<br>load<br>verify<br>immune<br>giant<br>voyage<br>popular<br>smoke<br>bike<br>mushroom |  
+| bip_39_word_new_br_11 | answer<br>load<br>verify<br>immune<br>giant<br>voyage<br>popular<br>smoke<br>bike<br>mushroom<br>replace |  
+| bip_39_word_new_br_12 | answer<br>load<br>verify<br>immune<br>giant<br>voyage<br>popular<br>smoke<br>bike<br>mushroom<br>replace<br>arm |  
+| bip_39_word_new_br_2 | answer<br>load |  
+| bip_39_word_new_br_3 | answer<br>load<br>verify |  
+| bip_39_word_new_br_4 | answer<br>load<br>verify<br>immune |  
+| bip_39_word_new_br_5 | answer<br>load<br>verify<br>immune<br>giant |  
+| bip_39_word_new_br_6 | answer<br>load<br>verify<br>immune<br>giant<br>voyage |  
+| bip_39_word_new_br_7 | answer<br>load<br>verify<br>immune<br>giant<br>voyage<br>popular |  
+| bip_39_word_new_br_8 | answer<br>load<br>verify<br>immune<br>giant<br>voyage<br>popular<br>smoke |  
+| bip_39_word_new_br_9 | answer<br>load<br>verify<br>immune<br>giant<br>voyage<br>popular<br>smoke<br>bike |  
+| bip_39_word_new_line_1 | answer |  
+| bip_39_word_new_line_10 | answer
 load
 verify
 immune
@@ -55,7 +55,7 @@ popular
 smoke
 bike
 mushroom |  
-| bip_39_word_new_line11 | answer
+| bip_39_word_new_line_11 | answer
 load
 verify
 immune
@@ -66,7 +66,7 @@ smoke
 bike
 mushroom
 replace |  
-| bip_39_word_new_line12 | answer
+| bip_39_word_new_line_12 | answer
 load
 verify
 immune
@@ -78,34 +78,34 @@ bike
 mushroom
 replace
 arm |  
-| bip_39_word_new_line2 | answer
+| bip_39_word_new_line_2 | answer
 load |  
-| bip_39_word_new_line3 | answer
+| bip_39_word_new_line_3 | answer
 load
 verify |  
-| bip_39_word_new_line4 | answer
+| bip_39_word_new_line_4 | answer
 load
 verify
 immune |  
-| bip_39_word_new_line5 | answer
+| bip_39_word_new_line_5 | answer
 load
 verify
 immune
 giant |  
-| bip_39_word_new_line6 | answer
+| bip_39_word_new_line_6 | answer
 load
 verify
 immune
 giant
 voyage |  
-| bip_39_word_new_line7 | answer
+| bip_39_word_new_line_7 | answer
 load
 verify
 immune
 giant
 voyage
 popular |  
-| bip_39_word_new_line8 | answer
+| bip_39_word_new_line_8 | answer
 load
 verify
 immune
@@ -113,7 +113,7 @@ giant
 voyage
 popular
 smoke |  
-| bip_39_word_new_line9 | answer
+| bip_39_word_new_line_9 | answer
 load
 verify
 immune

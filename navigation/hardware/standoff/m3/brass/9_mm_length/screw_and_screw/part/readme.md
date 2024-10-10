@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | infant |  
-| bip_39_word_new_br10 | infant<br>spike<br>survey<br>mixture<br>stock<br>sugar<br>truck<br>skin<br>banana<br>able |  
-| bip_39_word_new_br11 | infant<br>spike<br>survey<br>mixture<br>stock<br>sugar<br>truck<br>skin<br>banana<br>able<br>damage |  
-| bip_39_word_new_br12 | infant<br>spike<br>survey<br>mixture<br>stock<br>sugar<br>truck<br>skin<br>banana<br>able<br>damage<br>alter |  
-| bip_39_word_new_br2 | infant<br>spike |  
-| bip_39_word_new_br3 | infant<br>spike<br>survey |  
-| bip_39_word_new_br4 | infant<br>spike<br>survey<br>mixture |  
-| bip_39_word_new_br5 | infant<br>spike<br>survey<br>mixture<br>stock |  
-| bip_39_word_new_br6 | infant<br>spike<br>survey<br>mixture<br>stock<br>sugar |  
-| bip_39_word_new_br7 | infant<br>spike<br>survey<br>mixture<br>stock<br>sugar<br>truck |  
-| bip_39_word_new_br8 | infant<br>spike<br>survey<br>mixture<br>stock<br>sugar<br>truck<br>skin |  
-| bip_39_word_new_br9 | infant<br>spike<br>survey<br>mixture<br>stock<br>sugar<br>truck<br>skin<br>banana |  
-| bip_39_word_new_line1 | infant |  
-| bip_39_word_new_line10 | infant
+| bip_39_word_new_br_1 | infant |  
+| bip_39_word_new_br_10 | infant<br>spike<br>survey<br>mixture<br>stock<br>sugar<br>truck<br>skin<br>banana<br>able |  
+| bip_39_word_new_br_11 | infant<br>spike<br>survey<br>mixture<br>stock<br>sugar<br>truck<br>skin<br>banana<br>able<br>damage |  
+| bip_39_word_new_br_12 | infant<br>spike<br>survey<br>mixture<br>stock<br>sugar<br>truck<br>skin<br>banana<br>able<br>damage<br>alter |  
+| bip_39_word_new_br_2 | infant<br>spike |  
+| bip_39_word_new_br_3 | infant<br>spike<br>survey |  
+| bip_39_word_new_br_4 | infant<br>spike<br>survey<br>mixture |  
+| bip_39_word_new_br_5 | infant<br>spike<br>survey<br>mixture<br>stock |  
+| bip_39_word_new_br_6 | infant<br>spike<br>survey<br>mixture<br>stock<br>sugar |  
+| bip_39_word_new_br_7 | infant<br>spike<br>survey<br>mixture<br>stock<br>sugar<br>truck |  
+| bip_39_word_new_br_8 | infant<br>spike<br>survey<br>mixture<br>stock<br>sugar<br>truck<br>skin |  
+| bip_39_word_new_br_9 | infant<br>spike<br>survey<br>mixture<br>stock<br>sugar<br>truck<br>skin<br>banana |  
+| bip_39_word_new_line_1 | infant |  
+| bip_39_word_new_line_10 | infant
 spike
 survey
 mixture
@@ -55,7 +55,7 @@ truck
 skin
 banana
 able |  
-| bip_39_word_new_line11 | infant
+| bip_39_word_new_line_11 | infant
 spike
 survey
 mixture
@@ -66,7 +66,7 @@ skin
 banana
 able
 damage |  
-| bip_39_word_new_line12 | infant
+| bip_39_word_new_line_12 | infant
 spike
 survey
 mixture
@@ -78,34 +78,34 @@ banana
 able
 damage
 alter |  
-| bip_39_word_new_line2 | infant
+| bip_39_word_new_line_2 | infant
 spike |  
-| bip_39_word_new_line3 | infant
+| bip_39_word_new_line_3 | infant
 spike
 survey |  
-| bip_39_word_new_line4 | infant
+| bip_39_word_new_line_4 | infant
 spike
 survey
 mixture |  
-| bip_39_word_new_line5 | infant
+| bip_39_word_new_line_5 | infant
 spike
 survey
 mixture
 stock |  
-| bip_39_word_new_line6 | infant
+| bip_39_word_new_line_6 | infant
 spike
 survey
 mixture
 stock
 sugar |  
-| bip_39_word_new_line7 | infant
+| bip_39_word_new_line_7 | infant
 spike
 survey
 mixture
 stock
 sugar
 truck |  
-| bip_39_word_new_line8 | infant
+| bip_39_word_new_line_8 | infant
 spike
 survey
 mixture
@@ -113,7 +113,7 @@ stock
 sugar
 truck
 skin |  
-| bip_39_word_new_line9 | infant
+| bip_39_word_new_line_9 | infant
 spike
 survey
 mixture

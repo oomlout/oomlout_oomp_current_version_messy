@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | extra |  
-| bip_39_word_new_br10 | extra<br>easy<br>acoustic<br>grace<br>enable<br>candy<br>garment<br>perfect<br>ball<br>alien |  
-| bip_39_word_new_br11 | extra<br>easy<br>acoustic<br>grace<br>enable<br>candy<br>garment<br>perfect<br>ball<br>alien<br>cannon |  
-| bip_39_word_new_br12 | extra<br>easy<br>acoustic<br>grace<br>enable<br>candy<br>garment<br>perfect<br>ball<br>alien<br>cannon<br>assist |  
-| bip_39_word_new_br2 | extra<br>easy |  
-| bip_39_word_new_br3 | extra<br>easy<br>acoustic |  
-| bip_39_word_new_br4 | extra<br>easy<br>acoustic<br>grace |  
-| bip_39_word_new_br5 | extra<br>easy<br>acoustic<br>grace<br>enable |  
-| bip_39_word_new_br6 | extra<br>easy<br>acoustic<br>grace<br>enable<br>candy |  
-| bip_39_word_new_br7 | extra<br>easy<br>acoustic<br>grace<br>enable<br>candy<br>garment |  
-| bip_39_word_new_br8 | extra<br>easy<br>acoustic<br>grace<br>enable<br>candy<br>garment<br>perfect |  
-| bip_39_word_new_br9 | extra<br>easy<br>acoustic<br>grace<br>enable<br>candy<br>garment<br>perfect<br>ball |  
-| bip_39_word_new_line1 | extra |  
-| bip_39_word_new_line10 | extra
+| bip_39_word_new_br_1 | extra |  
+| bip_39_word_new_br_10 | extra<br>easy<br>acoustic<br>grace<br>enable<br>candy<br>garment<br>perfect<br>ball<br>alien |  
+| bip_39_word_new_br_11 | extra<br>easy<br>acoustic<br>grace<br>enable<br>candy<br>garment<br>perfect<br>ball<br>alien<br>cannon |  
+| bip_39_word_new_br_12 | extra<br>easy<br>acoustic<br>grace<br>enable<br>candy<br>garment<br>perfect<br>ball<br>alien<br>cannon<br>assist |  
+| bip_39_word_new_br_2 | extra<br>easy |  
+| bip_39_word_new_br_3 | extra<br>easy<br>acoustic |  
+| bip_39_word_new_br_4 | extra<br>easy<br>acoustic<br>grace |  
+| bip_39_word_new_br_5 | extra<br>easy<br>acoustic<br>grace<br>enable |  
+| bip_39_word_new_br_6 | extra<br>easy<br>acoustic<br>grace<br>enable<br>candy |  
+| bip_39_word_new_br_7 | extra<br>easy<br>acoustic<br>grace<br>enable<br>candy<br>garment |  
+| bip_39_word_new_br_8 | extra<br>easy<br>acoustic<br>grace<br>enable<br>candy<br>garment<br>perfect |  
+| bip_39_word_new_br_9 | extra<br>easy<br>acoustic<br>grace<br>enable<br>candy<br>garment<br>perfect<br>ball |  
+| bip_39_word_new_line_1 | extra |  
+| bip_39_word_new_line_10 | extra
 easy
 acoustic
 grace
@@ -55,7 +55,7 @@ garment
 perfect
 ball
 alien |  
-| bip_39_word_new_line11 | extra
+| bip_39_word_new_line_11 | extra
 easy
 acoustic
 grace
@@ -66,7 +66,7 @@ perfect
 ball
 alien
 cannon |  
-| bip_39_word_new_line12 | extra
+| bip_39_word_new_line_12 | extra
 easy
 acoustic
 grace
@@ -78,34 +78,34 @@ ball
 alien
 cannon
 assist |  
-| bip_39_word_new_line2 | extra
+| bip_39_word_new_line_2 | extra
 easy |  
-| bip_39_word_new_line3 | extra
+| bip_39_word_new_line_3 | extra
 easy
 acoustic |  
-| bip_39_word_new_line4 | extra
+| bip_39_word_new_line_4 | extra
 easy
 acoustic
 grace |  
-| bip_39_word_new_line5 | extra
+| bip_39_word_new_line_5 | extra
 easy
 acoustic
 grace
 enable |  
-| bip_39_word_new_line6 | extra
+| bip_39_word_new_line_6 | extra
 easy
 acoustic
 grace
 enable
 candy |  
-| bip_39_word_new_line7 | extra
+| bip_39_word_new_line_7 | extra
 easy
 acoustic
 grace
 enable
 candy
 garment |  
-| bip_39_word_new_line8 | extra
+| bip_39_word_new_line_8 | extra
 easy
 acoustic
 grace
@@ -113,7 +113,7 @@ enable
 candy
 garment
 perfect |  
-| bip_39_word_new_line9 | extra
+| bip_39_word_new_line_9 | extra
 easy
 acoustic
 grace

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | enable |  
-| bip_39_word_new_br10 | enable<br>impulse<br>lounge<br>vote<br>motor<br>start<br>anchor<br>leave<br>shine<br>swap |  
-| bip_39_word_new_br11 | enable<br>impulse<br>lounge<br>vote<br>motor<br>start<br>anchor<br>leave<br>shine<br>swap<br>today |  
-| bip_39_word_new_br12 | enable<br>impulse<br>lounge<br>vote<br>motor<br>start<br>anchor<br>leave<br>shine<br>swap<br>today<br>ahead |  
-| bip_39_word_new_br2 | enable<br>impulse |  
-| bip_39_word_new_br3 | enable<br>impulse<br>lounge |  
-| bip_39_word_new_br4 | enable<br>impulse<br>lounge<br>vote |  
-| bip_39_word_new_br5 | enable<br>impulse<br>lounge<br>vote<br>motor |  
-| bip_39_word_new_br6 | enable<br>impulse<br>lounge<br>vote<br>motor<br>start |  
-| bip_39_word_new_br7 | enable<br>impulse<br>lounge<br>vote<br>motor<br>start<br>anchor |  
-| bip_39_word_new_br8 | enable<br>impulse<br>lounge<br>vote<br>motor<br>start<br>anchor<br>leave |  
-| bip_39_word_new_br9 | enable<br>impulse<br>lounge<br>vote<br>motor<br>start<br>anchor<br>leave<br>shine |  
-| bip_39_word_new_line1 | enable |  
-| bip_39_word_new_line10 | enable
+| bip_39_word_new_br_1 | enable |  
+| bip_39_word_new_br_10 | enable<br>impulse<br>lounge<br>vote<br>motor<br>start<br>anchor<br>leave<br>shine<br>swap |  
+| bip_39_word_new_br_11 | enable<br>impulse<br>lounge<br>vote<br>motor<br>start<br>anchor<br>leave<br>shine<br>swap<br>today |  
+| bip_39_word_new_br_12 | enable<br>impulse<br>lounge<br>vote<br>motor<br>start<br>anchor<br>leave<br>shine<br>swap<br>today<br>ahead |  
+| bip_39_word_new_br_2 | enable<br>impulse |  
+| bip_39_word_new_br_3 | enable<br>impulse<br>lounge |  
+| bip_39_word_new_br_4 | enable<br>impulse<br>lounge<br>vote |  
+| bip_39_word_new_br_5 | enable<br>impulse<br>lounge<br>vote<br>motor |  
+| bip_39_word_new_br_6 | enable<br>impulse<br>lounge<br>vote<br>motor<br>start |  
+| bip_39_word_new_br_7 | enable<br>impulse<br>lounge<br>vote<br>motor<br>start<br>anchor |  
+| bip_39_word_new_br_8 | enable<br>impulse<br>lounge<br>vote<br>motor<br>start<br>anchor<br>leave |  
+| bip_39_word_new_br_9 | enable<br>impulse<br>lounge<br>vote<br>motor<br>start<br>anchor<br>leave<br>shine |  
+| bip_39_word_new_line_1 | enable |  
+| bip_39_word_new_line_10 | enable
 impulse
 lounge
 vote
@@ -55,7 +55,7 @@ anchor
 leave
 shine
 swap |  
-| bip_39_word_new_line11 | enable
+| bip_39_word_new_line_11 | enable
 impulse
 lounge
 vote
@@ -66,7 +66,7 @@ leave
 shine
 swap
 today |  
-| bip_39_word_new_line12 | enable
+| bip_39_word_new_line_12 | enable
 impulse
 lounge
 vote
@@ -78,34 +78,34 @@ shine
 swap
 today
 ahead |  
-| bip_39_word_new_line2 | enable
+| bip_39_word_new_line_2 | enable
 impulse |  
-| bip_39_word_new_line3 | enable
+| bip_39_word_new_line_3 | enable
 impulse
 lounge |  
-| bip_39_word_new_line4 | enable
+| bip_39_word_new_line_4 | enable
 impulse
 lounge
 vote |  
-| bip_39_word_new_line5 | enable
+| bip_39_word_new_line_5 | enable
 impulse
 lounge
 vote
 motor |  
-| bip_39_word_new_line6 | enable
+| bip_39_word_new_line_6 | enable
 impulse
 lounge
 vote
 motor
 start |  
-| bip_39_word_new_line7 | enable
+| bip_39_word_new_line_7 | enable
 impulse
 lounge
 vote
 motor
 start
 anchor |  
-| bip_39_word_new_line8 | enable
+| bip_39_word_new_line_8 | enable
 impulse
 lounge
 vote
@@ -113,7 +113,7 @@ motor
 start
 anchor
 leave |  
-| bip_39_word_new_line9 | enable
+| bip_39_word_new_line_9 | enable
 impulse
 lounge
 vote

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | risk |  
-| bip_39_word_new_br10 | risk<br>debate<br>embody<br>dad<br>harvest<br>bag<br>paddle<br>wheat<br>feature<br>hero |  
-| bip_39_word_new_br11 | risk<br>debate<br>embody<br>dad<br>harvest<br>bag<br>paddle<br>wheat<br>feature<br>hero<br>summer |  
-| bip_39_word_new_br12 | risk<br>debate<br>embody<br>dad<br>harvest<br>bag<br>paddle<br>wheat<br>feature<br>hero<br>summer<br>account |  
-| bip_39_word_new_br2 | risk<br>debate |  
-| bip_39_word_new_br3 | risk<br>debate<br>embody |  
-| bip_39_word_new_br4 | risk<br>debate<br>embody<br>dad |  
-| bip_39_word_new_br5 | risk<br>debate<br>embody<br>dad<br>harvest |  
-| bip_39_word_new_br6 | risk<br>debate<br>embody<br>dad<br>harvest<br>bag |  
-| bip_39_word_new_br7 | risk<br>debate<br>embody<br>dad<br>harvest<br>bag<br>paddle |  
-| bip_39_word_new_br8 | risk<br>debate<br>embody<br>dad<br>harvest<br>bag<br>paddle<br>wheat |  
-| bip_39_word_new_br9 | risk<br>debate<br>embody<br>dad<br>harvest<br>bag<br>paddle<br>wheat<br>feature |  
-| bip_39_word_new_line1 | risk |  
-| bip_39_word_new_line10 | risk
+| bip_39_word_new_br_1 | risk |  
+| bip_39_word_new_br_10 | risk<br>debate<br>embody<br>dad<br>harvest<br>bag<br>paddle<br>wheat<br>feature<br>hero |  
+| bip_39_word_new_br_11 | risk<br>debate<br>embody<br>dad<br>harvest<br>bag<br>paddle<br>wheat<br>feature<br>hero<br>summer |  
+| bip_39_word_new_br_12 | risk<br>debate<br>embody<br>dad<br>harvest<br>bag<br>paddle<br>wheat<br>feature<br>hero<br>summer<br>account |  
+| bip_39_word_new_br_2 | risk<br>debate |  
+| bip_39_word_new_br_3 | risk<br>debate<br>embody |  
+| bip_39_word_new_br_4 | risk<br>debate<br>embody<br>dad |  
+| bip_39_word_new_br_5 | risk<br>debate<br>embody<br>dad<br>harvest |  
+| bip_39_word_new_br_6 | risk<br>debate<br>embody<br>dad<br>harvest<br>bag |  
+| bip_39_word_new_br_7 | risk<br>debate<br>embody<br>dad<br>harvest<br>bag<br>paddle |  
+| bip_39_word_new_br_8 | risk<br>debate<br>embody<br>dad<br>harvest<br>bag<br>paddle<br>wheat |  
+| bip_39_word_new_br_9 | risk<br>debate<br>embody<br>dad<br>harvest<br>bag<br>paddle<br>wheat<br>feature |  
+| bip_39_word_new_line_1 | risk |  
+| bip_39_word_new_line_10 | risk
 debate
 embody
 dad
@@ -55,7 +55,7 @@ paddle
 wheat
 feature
 hero |  
-| bip_39_word_new_line11 | risk
+| bip_39_word_new_line_11 | risk
 debate
 embody
 dad
@@ -66,7 +66,7 @@ wheat
 feature
 hero
 summer |  
-| bip_39_word_new_line12 | risk
+| bip_39_word_new_line_12 | risk
 debate
 embody
 dad
@@ -78,34 +78,34 @@ feature
 hero
 summer
 account |  
-| bip_39_word_new_line2 | risk
+| bip_39_word_new_line_2 | risk
 debate |  
-| bip_39_word_new_line3 | risk
+| bip_39_word_new_line_3 | risk
 debate
 embody |  
-| bip_39_word_new_line4 | risk
+| bip_39_word_new_line_4 | risk
 debate
 embody
 dad |  
-| bip_39_word_new_line5 | risk
+| bip_39_word_new_line_5 | risk
 debate
 embody
 dad
 harvest |  
-| bip_39_word_new_line6 | risk
+| bip_39_word_new_line_6 | risk
 debate
 embody
 dad
 harvest
 bag |  
-| bip_39_word_new_line7 | risk
+| bip_39_word_new_line_7 | risk
 debate
 embody
 dad
 harvest
 bag
 paddle |  
-| bip_39_word_new_line8 | risk
+| bip_39_word_new_line_8 | risk
 debate
 embody
 dad
@@ -113,7 +113,7 @@ harvest
 bag
 paddle
 wheat |  
-| bip_39_word_new_line9 | risk
+| bip_39_word_new_line_9 | risk
 debate
 embody
 dad

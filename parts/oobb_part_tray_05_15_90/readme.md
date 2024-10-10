@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | vintage |  
-| bip_39_word_new_br10 | vintage<br>mother<br>friend<br>advance<br>idle<br>leg<br>grocery<br>drift<br>elephant<br>climb |  
-| bip_39_word_new_br11 | vintage<br>mother<br>friend<br>advance<br>idle<br>leg<br>grocery<br>drift<br>elephant<br>climb<br>unaware |  
-| bip_39_word_new_br12 | vintage<br>mother<br>friend<br>advance<br>idle<br>leg<br>grocery<br>drift<br>elephant<br>climb<br>unaware<br>arctic |  
-| bip_39_word_new_br2 | vintage<br>mother |  
-| bip_39_word_new_br3 | vintage<br>mother<br>friend |  
-| bip_39_word_new_br4 | vintage<br>mother<br>friend<br>advance |  
-| bip_39_word_new_br5 | vintage<br>mother<br>friend<br>advance<br>idle |  
-| bip_39_word_new_br6 | vintage<br>mother<br>friend<br>advance<br>idle<br>leg |  
-| bip_39_word_new_br7 | vintage<br>mother<br>friend<br>advance<br>idle<br>leg<br>grocery |  
-| bip_39_word_new_br8 | vintage<br>mother<br>friend<br>advance<br>idle<br>leg<br>grocery<br>drift |  
-| bip_39_word_new_br9 | vintage<br>mother<br>friend<br>advance<br>idle<br>leg<br>grocery<br>drift<br>elephant |  
-| bip_39_word_new_line1 | vintage |  
-| bip_39_word_new_line10 | vintage
+| bip_39_word_new_br_1 | vintage |  
+| bip_39_word_new_br_10 | vintage<br>mother<br>friend<br>advance<br>idle<br>leg<br>grocery<br>drift<br>elephant<br>climb |  
+| bip_39_word_new_br_11 | vintage<br>mother<br>friend<br>advance<br>idle<br>leg<br>grocery<br>drift<br>elephant<br>climb<br>unaware |  
+| bip_39_word_new_br_12 | vintage<br>mother<br>friend<br>advance<br>idle<br>leg<br>grocery<br>drift<br>elephant<br>climb<br>unaware<br>arctic |  
+| bip_39_word_new_br_2 | vintage<br>mother |  
+| bip_39_word_new_br_3 | vintage<br>mother<br>friend |  
+| bip_39_word_new_br_4 | vintage<br>mother<br>friend<br>advance |  
+| bip_39_word_new_br_5 | vintage<br>mother<br>friend<br>advance<br>idle |  
+| bip_39_word_new_br_6 | vintage<br>mother<br>friend<br>advance<br>idle<br>leg |  
+| bip_39_word_new_br_7 | vintage<br>mother<br>friend<br>advance<br>idle<br>leg<br>grocery |  
+| bip_39_word_new_br_8 | vintage<br>mother<br>friend<br>advance<br>idle<br>leg<br>grocery<br>drift |  
+| bip_39_word_new_br_9 | vintage<br>mother<br>friend<br>advance<br>idle<br>leg<br>grocery<br>drift<br>elephant |  
+| bip_39_word_new_line_1 | vintage |  
+| bip_39_word_new_line_10 | vintage
 mother
 friend
 advance
@@ -55,7 +55,7 @@ grocery
 drift
 elephant
 climb |  
-| bip_39_word_new_line11 | vintage
+| bip_39_word_new_line_11 | vintage
 mother
 friend
 advance
@@ -66,7 +66,7 @@ drift
 elephant
 climb
 unaware |  
-| bip_39_word_new_line12 | vintage
+| bip_39_word_new_line_12 | vintage
 mother
 friend
 advance
@@ -78,34 +78,34 @@ elephant
 climb
 unaware
 arctic |  
-| bip_39_word_new_line2 | vintage
+| bip_39_word_new_line_2 | vintage
 mother |  
-| bip_39_word_new_line3 | vintage
+| bip_39_word_new_line_3 | vintage
 mother
 friend |  
-| bip_39_word_new_line4 | vintage
+| bip_39_word_new_line_4 | vintage
 mother
 friend
 advance |  
-| bip_39_word_new_line5 | vintage
+| bip_39_word_new_line_5 | vintage
 mother
 friend
 advance
 idle |  
-| bip_39_word_new_line6 | vintage
+| bip_39_word_new_line_6 | vintage
 mother
 friend
 advance
 idle
 leg |  
-| bip_39_word_new_line7 | vintage
+| bip_39_word_new_line_7 | vintage
 mother
 friend
 advance
 idle
 leg
 grocery |  
-| bip_39_word_new_line8 | vintage
+| bip_39_word_new_line_8 | vintage
 mother
 friend
 advance
@@ -113,7 +113,7 @@ idle
 leg
 grocery
 drift |  
-| bip_39_word_new_line9 | vintage
+| bip_39_word_new_line_9 | vintage
 mother
 friend
 advance

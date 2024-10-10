@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ordinary |  
-| bip_39_word_new_br10 | ordinary<br>section<br>evidence<br>deputy<br>section<br>east<br>initial<br>glad<br>ginger<br>short |  
-| bip_39_word_new_br11 | ordinary<br>section<br>evidence<br>deputy<br>section<br>east<br>initial<br>glad<br>ginger<br>short<br>bleak |  
-| bip_39_word_new_br12 | ordinary<br>section<br>evidence<br>deputy<br>section<br>east<br>initial<br>glad<br>ginger<br>short<br>bleak<br>attack |  
-| bip_39_word_new_br2 | ordinary<br>section |  
-| bip_39_word_new_br3 | ordinary<br>section<br>evidence |  
-| bip_39_word_new_br4 | ordinary<br>section<br>evidence<br>deputy |  
-| bip_39_word_new_br5 | ordinary<br>section<br>evidence<br>deputy<br>section |  
-| bip_39_word_new_br6 | ordinary<br>section<br>evidence<br>deputy<br>section<br>east |  
-| bip_39_word_new_br7 | ordinary<br>section<br>evidence<br>deputy<br>section<br>east<br>initial |  
-| bip_39_word_new_br8 | ordinary<br>section<br>evidence<br>deputy<br>section<br>east<br>initial<br>glad |  
-| bip_39_word_new_br9 | ordinary<br>section<br>evidence<br>deputy<br>section<br>east<br>initial<br>glad<br>ginger |  
-| bip_39_word_new_line1 | ordinary |  
-| bip_39_word_new_line10 | ordinary
+| bip_39_word_new_br_1 | ordinary |  
+| bip_39_word_new_br_10 | ordinary<br>section<br>evidence<br>deputy<br>section<br>east<br>initial<br>glad<br>ginger<br>short |  
+| bip_39_word_new_br_11 | ordinary<br>section<br>evidence<br>deputy<br>section<br>east<br>initial<br>glad<br>ginger<br>short<br>bleak |  
+| bip_39_word_new_br_12 | ordinary<br>section<br>evidence<br>deputy<br>section<br>east<br>initial<br>glad<br>ginger<br>short<br>bleak<br>attack |  
+| bip_39_word_new_br_2 | ordinary<br>section |  
+| bip_39_word_new_br_3 | ordinary<br>section<br>evidence |  
+| bip_39_word_new_br_4 | ordinary<br>section<br>evidence<br>deputy |  
+| bip_39_word_new_br_5 | ordinary<br>section<br>evidence<br>deputy<br>section |  
+| bip_39_word_new_br_6 | ordinary<br>section<br>evidence<br>deputy<br>section<br>east |  
+| bip_39_word_new_br_7 | ordinary<br>section<br>evidence<br>deputy<br>section<br>east<br>initial |  
+| bip_39_word_new_br_8 | ordinary<br>section<br>evidence<br>deputy<br>section<br>east<br>initial<br>glad |  
+| bip_39_word_new_br_9 | ordinary<br>section<br>evidence<br>deputy<br>section<br>east<br>initial<br>glad<br>ginger |  
+| bip_39_word_new_line_1 | ordinary |  
+| bip_39_word_new_line_10 | ordinary
 section
 evidence
 deputy
@@ -55,7 +55,7 @@ initial
 glad
 ginger
 short |  
-| bip_39_word_new_line11 | ordinary
+| bip_39_word_new_line_11 | ordinary
 section
 evidence
 deputy
@@ -66,7 +66,7 @@ glad
 ginger
 short
 bleak |  
-| bip_39_word_new_line12 | ordinary
+| bip_39_word_new_line_12 | ordinary
 section
 evidence
 deputy
@@ -78,34 +78,34 @@ ginger
 short
 bleak
 attack |  
-| bip_39_word_new_line2 | ordinary
+| bip_39_word_new_line_2 | ordinary
 section |  
-| bip_39_word_new_line3 | ordinary
+| bip_39_word_new_line_3 | ordinary
 section
 evidence |  
-| bip_39_word_new_line4 | ordinary
+| bip_39_word_new_line_4 | ordinary
 section
 evidence
 deputy |  
-| bip_39_word_new_line5 | ordinary
+| bip_39_word_new_line_5 | ordinary
 section
 evidence
 deputy
 section |  
-| bip_39_word_new_line6 | ordinary
+| bip_39_word_new_line_6 | ordinary
 section
 evidence
 deputy
 section
 east |  
-| bip_39_word_new_line7 | ordinary
+| bip_39_word_new_line_7 | ordinary
 section
 evidence
 deputy
 section
 east
 initial |  
-| bip_39_word_new_line8 | ordinary
+| bip_39_word_new_line_8 | ordinary
 section
 evidence
 deputy
@@ -113,7 +113,7 @@ section
 east
 initial
 glad |  
-| bip_39_word_new_line9 | ordinary
+| bip_39_word_new_line_9 | ordinary
 section
 evidence
 deputy

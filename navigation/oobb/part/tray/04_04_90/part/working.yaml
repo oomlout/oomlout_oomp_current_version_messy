@@ -1,17 +1,17 @@
-bip_39_word_new_br1: gaze
-bip_39_word_new_br10: gaze<br>exercise<br>bench<br>decade<br>oak<br>economy<br>disagree<br>snow<br>tower<br>element
-bip_39_word_new_br11: gaze<br>exercise<br>bench<br>decade<br>oak<br>economy<br>disagree<br>snow<br>tower<br>element<br>fancy
-bip_39_word_new_br12: gaze<br>exercise<br>bench<br>decade<br>oak<br>economy<br>disagree<br>snow<br>tower<br>element<br>fancy<br>arena
-bip_39_word_new_br2: gaze<br>exercise
-bip_39_word_new_br3: gaze<br>exercise<br>bench
-bip_39_word_new_br4: gaze<br>exercise<br>bench<br>decade
-bip_39_word_new_br5: gaze<br>exercise<br>bench<br>decade<br>oak
-bip_39_word_new_br6: gaze<br>exercise<br>bench<br>decade<br>oak<br>economy
-bip_39_word_new_br7: gaze<br>exercise<br>bench<br>decade<br>oak<br>economy<br>disagree
-bip_39_word_new_br8: gaze<br>exercise<br>bench<br>decade<br>oak<br>economy<br>disagree<br>snow
-bip_39_word_new_br9: gaze<br>exercise<br>bench<br>decade<br>oak<br>economy<br>disagree<br>snow<br>tower
-bip_39_word_new_line1: gaze
-bip_39_word_new_line10: 'gaze
+bip_39_word_new_br_1: gaze
+bip_39_word_new_br_10: gaze<br>exercise<br>bench<br>decade<br>oak<br>economy<br>disagree<br>snow<br>tower<br>element
+bip_39_word_new_br_11: gaze<br>exercise<br>bench<br>decade<br>oak<br>economy<br>disagree<br>snow<br>tower<br>element<br>fancy
+bip_39_word_new_br_12: gaze<br>exercise<br>bench<br>decade<br>oak<br>economy<br>disagree<br>snow<br>tower<br>element<br>fancy<br>arena
+bip_39_word_new_br_2: gaze<br>exercise
+bip_39_word_new_br_3: gaze<br>exercise<br>bench
+bip_39_word_new_br_4: gaze<br>exercise<br>bench<br>decade
+bip_39_word_new_br_5: gaze<br>exercise<br>bench<br>decade<br>oak
+bip_39_word_new_br_6: gaze<br>exercise<br>bench<br>decade<br>oak<br>economy
+bip_39_word_new_br_7: gaze<br>exercise<br>bench<br>decade<br>oak<br>economy<br>disagree
+bip_39_word_new_br_8: gaze<br>exercise<br>bench<br>decade<br>oak<br>economy<br>disagree<br>snow
+bip_39_word_new_br_9: gaze<br>exercise<br>bench<br>decade<br>oak<br>economy<br>disagree<br>snow<br>tower
+bip_39_word_new_line_1: gaze
+bip_39_word_new_line_10: 'gaze
 
   exercise
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'gaze
   tower
 
   element'
-bip_39_word_new_line11: 'gaze
+bip_39_word_new_line_11: 'gaze
 
   exercise
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'gaze
   element
 
   fancy'
-bip_39_word_new_line12: 'gaze
+bip_39_word_new_line_12: 'gaze
 
   exercise
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'gaze
   fancy
 
   arena'
-bip_39_word_new_line2: 'gaze
+bip_39_word_new_line_2: 'gaze
 
   exercise'
-bip_39_word_new_line3: 'gaze
+bip_39_word_new_line_3: 'gaze
 
   exercise
 
   bench'
-bip_39_word_new_line4: 'gaze
+bip_39_word_new_line_4: 'gaze
 
   exercise
 
   bench
 
   decade'
-bip_39_word_new_line5: 'gaze
+bip_39_word_new_line_5: 'gaze
 
   exercise
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'gaze
   decade
 
   oak'
-bip_39_word_new_line6: 'gaze
+bip_39_word_new_line_6: 'gaze
 
   exercise
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'gaze
   oak
 
   economy'
-bip_39_word_new_line7: 'gaze
+bip_39_word_new_line_7: 'gaze
 
   exercise
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'gaze
   economy
 
   disagree'
-bip_39_word_new_line8: 'gaze
+bip_39_word_new_line_8: 'gaze
 
   exercise
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'gaze
   disagree
 
   snow'
-bip_39_word_new_line9: 'gaze
+bip_39_word_new_line_9: 'gaze
 
   exercise
 

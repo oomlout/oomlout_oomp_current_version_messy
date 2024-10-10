@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mail |  
-| bip_39_word_new_br10 | mail<br>super<br>usual<br>comfort<br>truly<br>draw<br>video<br>degree<br>sample<br>gospel |  
-| bip_39_word_new_br11 | mail<br>super<br>usual<br>comfort<br>truly<br>draw<br>video<br>degree<br>sample<br>gospel<br>broom |  
-| bip_39_word_new_br12 | mail<br>super<br>usual<br>comfort<br>truly<br>draw<br>video<br>degree<br>sample<br>gospel<br>broom<br>account |  
-| bip_39_word_new_br2 | mail<br>super |  
-| bip_39_word_new_br3 | mail<br>super<br>usual |  
-| bip_39_word_new_br4 | mail<br>super<br>usual<br>comfort |  
-| bip_39_word_new_br5 | mail<br>super<br>usual<br>comfort<br>truly |  
-| bip_39_word_new_br6 | mail<br>super<br>usual<br>comfort<br>truly<br>draw |  
-| bip_39_word_new_br7 | mail<br>super<br>usual<br>comfort<br>truly<br>draw<br>video |  
-| bip_39_word_new_br8 | mail<br>super<br>usual<br>comfort<br>truly<br>draw<br>video<br>degree |  
-| bip_39_word_new_br9 | mail<br>super<br>usual<br>comfort<br>truly<br>draw<br>video<br>degree<br>sample |  
-| bip_39_word_new_line1 | mail |  
-| bip_39_word_new_line10 | mail
+| bip_39_word_new_br_1 | mail |  
+| bip_39_word_new_br_10 | mail<br>super<br>usual<br>comfort<br>truly<br>draw<br>video<br>degree<br>sample<br>gospel |  
+| bip_39_word_new_br_11 | mail<br>super<br>usual<br>comfort<br>truly<br>draw<br>video<br>degree<br>sample<br>gospel<br>broom |  
+| bip_39_word_new_br_12 | mail<br>super<br>usual<br>comfort<br>truly<br>draw<br>video<br>degree<br>sample<br>gospel<br>broom<br>account |  
+| bip_39_word_new_br_2 | mail<br>super |  
+| bip_39_word_new_br_3 | mail<br>super<br>usual |  
+| bip_39_word_new_br_4 | mail<br>super<br>usual<br>comfort |  
+| bip_39_word_new_br_5 | mail<br>super<br>usual<br>comfort<br>truly |  
+| bip_39_word_new_br_6 | mail<br>super<br>usual<br>comfort<br>truly<br>draw |  
+| bip_39_word_new_br_7 | mail<br>super<br>usual<br>comfort<br>truly<br>draw<br>video |  
+| bip_39_word_new_br_8 | mail<br>super<br>usual<br>comfort<br>truly<br>draw<br>video<br>degree |  
+| bip_39_word_new_br_9 | mail<br>super<br>usual<br>comfort<br>truly<br>draw<br>video<br>degree<br>sample |  
+| bip_39_word_new_line_1 | mail |  
+| bip_39_word_new_line_10 | mail
 super
 usual
 comfort
@@ -55,7 +55,7 @@ video
 degree
 sample
 gospel |  
-| bip_39_word_new_line11 | mail
+| bip_39_word_new_line_11 | mail
 super
 usual
 comfort
@@ -66,7 +66,7 @@ degree
 sample
 gospel
 broom |  
-| bip_39_word_new_line12 | mail
+| bip_39_word_new_line_12 | mail
 super
 usual
 comfort
@@ -78,34 +78,34 @@ sample
 gospel
 broom
 account |  
-| bip_39_word_new_line2 | mail
+| bip_39_word_new_line_2 | mail
 super |  
-| bip_39_word_new_line3 | mail
+| bip_39_word_new_line_3 | mail
 super
 usual |  
-| bip_39_word_new_line4 | mail
+| bip_39_word_new_line_4 | mail
 super
 usual
 comfort |  
-| bip_39_word_new_line5 | mail
+| bip_39_word_new_line_5 | mail
 super
 usual
 comfort
 truly |  
-| bip_39_word_new_line6 | mail
+| bip_39_word_new_line_6 | mail
 super
 usual
 comfort
 truly
 draw |  
-| bip_39_word_new_line7 | mail
+| bip_39_word_new_line_7 | mail
 super
 usual
 comfort
 truly
 draw
 video |  
-| bip_39_word_new_line8 | mail
+| bip_39_word_new_line_8 | mail
 super
 usual
 comfort
@@ -113,7 +113,7 @@ truly
 draw
 video
 degree |  
-| bip_39_word_new_line9 | mail
+| bip_39_word_new_line_9 | mail
 super
 usual
 comfort

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | end |  
-| bip_39_word_new_br10 | end<br>tonight<br>day<br>scene<br>canal<br>inform<br>balcony<br>catalog<br>remind<br>grab |  
-| bip_39_word_new_br11 | end<br>tonight<br>day<br>scene<br>canal<br>inform<br>balcony<br>catalog<br>remind<br>grab<br>poverty |  
-| bip_39_word_new_br12 | end<br>tonight<br>day<br>scene<br>canal<br>inform<br>balcony<br>catalog<br>remind<br>grab<br>poverty<br>assault |  
-| bip_39_word_new_br2 | end<br>tonight |  
-| bip_39_word_new_br3 | end<br>tonight<br>day |  
-| bip_39_word_new_br4 | end<br>tonight<br>day<br>scene |  
-| bip_39_word_new_br5 | end<br>tonight<br>day<br>scene<br>canal |  
-| bip_39_word_new_br6 | end<br>tonight<br>day<br>scene<br>canal<br>inform |  
-| bip_39_word_new_br7 | end<br>tonight<br>day<br>scene<br>canal<br>inform<br>balcony |  
-| bip_39_word_new_br8 | end<br>tonight<br>day<br>scene<br>canal<br>inform<br>balcony<br>catalog |  
-| bip_39_word_new_br9 | end<br>tonight<br>day<br>scene<br>canal<br>inform<br>balcony<br>catalog<br>remind |  
-| bip_39_word_new_line1 | end |  
-| bip_39_word_new_line10 | end
+| bip_39_word_new_br_1 | end |  
+| bip_39_word_new_br_10 | end<br>tonight<br>day<br>scene<br>canal<br>inform<br>balcony<br>catalog<br>remind<br>grab |  
+| bip_39_word_new_br_11 | end<br>tonight<br>day<br>scene<br>canal<br>inform<br>balcony<br>catalog<br>remind<br>grab<br>poverty |  
+| bip_39_word_new_br_12 | end<br>tonight<br>day<br>scene<br>canal<br>inform<br>balcony<br>catalog<br>remind<br>grab<br>poverty<br>assault |  
+| bip_39_word_new_br_2 | end<br>tonight |  
+| bip_39_word_new_br_3 | end<br>tonight<br>day |  
+| bip_39_word_new_br_4 | end<br>tonight<br>day<br>scene |  
+| bip_39_word_new_br_5 | end<br>tonight<br>day<br>scene<br>canal |  
+| bip_39_word_new_br_6 | end<br>tonight<br>day<br>scene<br>canal<br>inform |  
+| bip_39_word_new_br_7 | end<br>tonight<br>day<br>scene<br>canal<br>inform<br>balcony |  
+| bip_39_word_new_br_8 | end<br>tonight<br>day<br>scene<br>canal<br>inform<br>balcony<br>catalog |  
+| bip_39_word_new_br_9 | end<br>tonight<br>day<br>scene<br>canal<br>inform<br>balcony<br>catalog<br>remind |  
+| bip_39_word_new_line_1 | end |  
+| bip_39_word_new_line_10 | end
 tonight
 day
 scene
@@ -55,7 +55,7 @@ balcony
 catalog
 remind
 grab |  
-| bip_39_word_new_line11 | end
+| bip_39_word_new_line_11 | end
 tonight
 day
 scene
@@ -66,7 +66,7 @@ catalog
 remind
 grab
 poverty |  
-| bip_39_word_new_line12 | end
+| bip_39_word_new_line_12 | end
 tonight
 day
 scene
@@ -78,34 +78,34 @@ remind
 grab
 poverty
 assault |  
-| bip_39_word_new_line2 | end
+| bip_39_word_new_line_2 | end
 tonight |  
-| bip_39_word_new_line3 | end
+| bip_39_word_new_line_3 | end
 tonight
 day |  
-| bip_39_word_new_line4 | end
+| bip_39_word_new_line_4 | end
 tonight
 day
 scene |  
-| bip_39_word_new_line5 | end
+| bip_39_word_new_line_5 | end
 tonight
 day
 scene
 canal |  
-| bip_39_word_new_line6 | end
+| bip_39_word_new_line_6 | end
 tonight
 day
 scene
 canal
 inform |  
-| bip_39_word_new_line7 | end
+| bip_39_word_new_line_7 | end
 tonight
 day
 scene
 canal
 inform
 balcony |  
-| bip_39_word_new_line8 | end
+| bip_39_word_new_line_8 | end
 tonight
 day
 scene
@@ -113,7 +113,7 @@ canal
 inform
 balcony
 catalog |  
-| bip_39_word_new_line9 | end
+| bip_39_word_new_line_9 | end
 tonight
 day
 scene

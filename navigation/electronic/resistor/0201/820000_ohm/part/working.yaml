@@ -1,17 +1,17 @@
-bip_39_word_new_br1: scatter
-bip_39_word_new_br10: scatter<br>vicious<br>soul<br>once<br>velvet<br>wrap<br>genius<br>crane<br>resist<br>spare
-bip_39_word_new_br11: scatter<br>vicious<br>soul<br>once<br>velvet<br>wrap<br>genius<br>crane<br>resist<br>spare<br>grain
-bip_39_word_new_br12: scatter<br>vicious<br>soul<br>once<br>velvet<br>wrap<br>genius<br>crane<br>resist<br>spare<br>grain<br>abstract
-bip_39_word_new_br2: scatter<br>vicious
-bip_39_word_new_br3: scatter<br>vicious<br>soul
-bip_39_word_new_br4: scatter<br>vicious<br>soul<br>once
-bip_39_word_new_br5: scatter<br>vicious<br>soul<br>once<br>velvet
-bip_39_word_new_br6: scatter<br>vicious<br>soul<br>once<br>velvet<br>wrap
-bip_39_word_new_br7: scatter<br>vicious<br>soul<br>once<br>velvet<br>wrap<br>genius
-bip_39_word_new_br8: scatter<br>vicious<br>soul<br>once<br>velvet<br>wrap<br>genius<br>crane
-bip_39_word_new_br9: scatter<br>vicious<br>soul<br>once<br>velvet<br>wrap<br>genius<br>crane<br>resist
-bip_39_word_new_line1: scatter
-bip_39_word_new_line10: 'scatter
+bip_39_word_new_br_1: scatter
+bip_39_word_new_br_10: scatter<br>vicious<br>soul<br>once<br>velvet<br>wrap<br>genius<br>crane<br>resist<br>spare
+bip_39_word_new_br_11: scatter<br>vicious<br>soul<br>once<br>velvet<br>wrap<br>genius<br>crane<br>resist<br>spare<br>grain
+bip_39_word_new_br_12: scatter<br>vicious<br>soul<br>once<br>velvet<br>wrap<br>genius<br>crane<br>resist<br>spare<br>grain<br>abstract
+bip_39_word_new_br_2: scatter<br>vicious
+bip_39_word_new_br_3: scatter<br>vicious<br>soul
+bip_39_word_new_br_4: scatter<br>vicious<br>soul<br>once
+bip_39_word_new_br_5: scatter<br>vicious<br>soul<br>once<br>velvet
+bip_39_word_new_br_6: scatter<br>vicious<br>soul<br>once<br>velvet<br>wrap
+bip_39_word_new_br_7: scatter<br>vicious<br>soul<br>once<br>velvet<br>wrap<br>genius
+bip_39_word_new_br_8: scatter<br>vicious<br>soul<br>once<br>velvet<br>wrap<br>genius<br>crane
+bip_39_word_new_br_9: scatter<br>vicious<br>soul<br>once<br>velvet<br>wrap<br>genius<br>crane<br>resist
+bip_39_word_new_line_1: scatter
+bip_39_word_new_line_10: 'scatter
 
   vicious
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'scatter
   resist
 
   spare'
-bip_39_word_new_line11: 'scatter
+bip_39_word_new_line_11: 'scatter
 
   vicious
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'scatter
   spare
 
   grain'
-bip_39_word_new_line12: 'scatter
+bip_39_word_new_line_12: 'scatter
 
   vicious
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'scatter
   grain
 
   abstract'
-bip_39_word_new_line2: 'scatter
+bip_39_word_new_line_2: 'scatter
 
   vicious'
-bip_39_word_new_line3: 'scatter
+bip_39_word_new_line_3: 'scatter
 
   vicious
 
   soul'
-bip_39_word_new_line4: 'scatter
+bip_39_word_new_line_4: 'scatter
 
   vicious
 
   soul
 
   once'
-bip_39_word_new_line5: 'scatter
+bip_39_word_new_line_5: 'scatter
 
   vicious
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'scatter
   once
 
   velvet'
-bip_39_word_new_line6: 'scatter
+bip_39_word_new_line_6: 'scatter
 
   vicious
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'scatter
   velvet
 
   wrap'
-bip_39_word_new_line7: 'scatter
+bip_39_word_new_line_7: 'scatter
 
   vicious
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'scatter
   wrap
 
   genius'
-bip_39_word_new_line8: 'scatter
+bip_39_word_new_line_8: 'scatter
 
   vicious
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'scatter
   genius
 
   crane'
-bip_39_word_new_line9: 'scatter
+bip_39_word_new_line_9: 'scatter
 
   vicious
 

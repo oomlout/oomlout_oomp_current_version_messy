@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | intact |  
-| bip_39_word_new_br10 | intact<br>transfer<br>local<br>wrestle<br>stand<br>appear<br>safe<br>erosion<br>cotton<br>hip |  
-| bip_39_word_new_br11 | intact<br>transfer<br>local<br>wrestle<br>stand<br>appear<br>safe<br>erosion<br>cotton<br>hip<br>unfair |  
-| bip_39_word_new_br12 | intact<br>transfer<br>local<br>wrestle<br>stand<br>appear<br>safe<br>erosion<br>cotton<br>hip<br>unfair<br>auction |  
-| bip_39_word_new_br2 | intact<br>transfer |  
-| bip_39_word_new_br3 | intact<br>transfer<br>local |  
-| bip_39_word_new_br4 | intact<br>transfer<br>local<br>wrestle |  
-| bip_39_word_new_br5 | intact<br>transfer<br>local<br>wrestle<br>stand |  
-| bip_39_word_new_br6 | intact<br>transfer<br>local<br>wrestle<br>stand<br>appear |  
-| bip_39_word_new_br7 | intact<br>transfer<br>local<br>wrestle<br>stand<br>appear<br>safe |  
-| bip_39_word_new_br8 | intact<br>transfer<br>local<br>wrestle<br>stand<br>appear<br>safe<br>erosion |  
-| bip_39_word_new_br9 | intact<br>transfer<br>local<br>wrestle<br>stand<br>appear<br>safe<br>erosion<br>cotton |  
-| bip_39_word_new_line1 | intact |  
-| bip_39_word_new_line10 | intact
+| bip_39_word_new_br_1 | intact |  
+| bip_39_word_new_br_10 | intact<br>transfer<br>local<br>wrestle<br>stand<br>appear<br>safe<br>erosion<br>cotton<br>hip |  
+| bip_39_word_new_br_11 | intact<br>transfer<br>local<br>wrestle<br>stand<br>appear<br>safe<br>erosion<br>cotton<br>hip<br>unfair |  
+| bip_39_word_new_br_12 | intact<br>transfer<br>local<br>wrestle<br>stand<br>appear<br>safe<br>erosion<br>cotton<br>hip<br>unfair<br>auction |  
+| bip_39_word_new_br_2 | intact<br>transfer |  
+| bip_39_word_new_br_3 | intact<br>transfer<br>local |  
+| bip_39_word_new_br_4 | intact<br>transfer<br>local<br>wrestle |  
+| bip_39_word_new_br_5 | intact<br>transfer<br>local<br>wrestle<br>stand |  
+| bip_39_word_new_br_6 | intact<br>transfer<br>local<br>wrestle<br>stand<br>appear |  
+| bip_39_word_new_br_7 | intact<br>transfer<br>local<br>wrestle<br>stand<br>appear<br>safe |  
+| bip_39_word_new_br_8 | intact<br>transfer<br>local<br>wrestle<br>stand<br>appear<br>safe<br>erosion |  
+| bip_39_word_new_br_9 | intact<br>transfer<br>local<br>wrestle<br>stand<br>appear<br>safe<br>erosion<br>cotton |  
+| bip_39_word_new_line_1 | intact |  
+| bip_39_word_new_line_10 | intact
 transfer
 local
 wrestle
@@ -55,7 +55,7 @@ safe
 erosion
 cotton
 hip |  
-| bip_39_word_new_line11 | intact
+| bip_39_word_new_line_11 | intact
 transfer
 local
 wrestle
@@ -66,7 +66,7 @@ erosion
 cotton
 hip
 unfair |  
-| bip_39_word_new_line12 | intact
+| bip_39_word_new_line_12 | intact
 transfer
 local
 wrestle
@@ -78,34 +78,34 @@ cotton
 hip
 unfair
 auction |  
-| bip_39_word_new_line2 | intact
+| bip_39_word_new_line_2 | intact
 transfer |  
-| bip_39_word_new_line3 | intact
+| bip_39_word_new_line_3 | intact
 transfer
 local |  
-| bip_39_word_new_line4 | intact
+| bip_39_word_new_line_4 | intact
 transfer
 local
 wrestle |  
-| bip_39_word_new_line5 | intact
+| bip_39_word_new_line_5 | intact
 transfer
 local
 wrestle
 stand |  
-| bip_39_word_new_line6 | intact
+| bip_39_word_new_line_6 | intact
 transfer
 local
 wrestle
 stand
 appear |  
-| bip_39_word_new_line7 | intact
+| bip_39_word_new_line_7 | intact
 transfer
 local
 wrestle
 stand
 appear
 safe |  
-| bip_39_word_new_line8 | intact
+| bip_39_word_new_line_8 | intact
 transfer
 local
 wrestle
@@ -113,7 +113,7 @@ stand
 appear
 safe
 erosion |  
-| bip_39_word_new_line9 | intact
+| bip_39_word_new_line_9 | intact
 transfer
 local
 wrestle

@@ -1,17 +1,17 @@
-bip_39_word_new_br1: there
-bip_39_word_new_br10: there<br>utility<br>pig<br>profit<br>crystal<br>recipe<br>path<br>aim<br>goose<br>lock
-bip_39_word_new_br11: there<br>utility<br>pig<br>profit<br>crystal<br>recipe<br>path<br>aim<br>goose<br>lock<br>burger
-bip_39_word_new_br12: there<br>utility<br>pig<br>profit<br>crystal<br>recipe<br>path<br>aim<br>goose<br>lock<br>burger<br>afford
-bip_39_word_new_br2: there<br>utility
-bip_39_word_new_br3: there<br>utility<br>pig
-bip_39_word_new_br4: there<br>utility<br>pig<br>profit
-bip_39_word_new_br5: there<br>utility<br>pig<br>profit<br>crystal
-bip_39_word_new_br6: there<br>utility<br>pig<br>profit<br>crystal<br>recipe
-bip_39_word_new_br7: there<br>utility<br>pig<br>profit<br>crystal<br>recipe<br>path
-bip_39_word_new_br8: there<br>utility<br>pig<br>profit<br>crystal<br>recipe<br>path<br>aim
-bip_39_word_new_br9: there<br>utility<br>pig<br>profit<br>crystal<br>recipe<br>path<br>aim<br>goose
-bip_39_word_new_line1: there
-bip_39_word_new_line10: 'there
+bip_39_word_new_br_1: there
+bip_39_word_new_br_10: there<br>utility<br>pig<br>profit<br>crystal<br>recipe<br>path<br>aim<br>goose<br>lock
+bip_39_word_new_br_11: there<br>utility<br>pig<br>profit<br>crystal<br>recipe<br>path<br>aim<br>goose<br>lock<br>burger
+bip_39_word_new_br_12: there<br>utility<br>pig<br>profit<br>crystal<br>recipe<br>path<br>aim<br>goose<br>lock<br>burger<br>afford
+bip_39_word_new_br_2: there<br>utility
+bip_39_word_new_br_3: there<br>utility<br>pig
+bip_39_word_new_br_4: there<br>utility<br>pig<br>profit
+bip_39_word_new_br_5: there<br>utility<br>pig<br>profit<br>crystal
+bip_39_word_new_br_6: there<br>utility<br>pig<br>profit<br>crystal<br>recipe
+bip_39_word_new_br_7: there<br>utility<br>pig<br>profit<br>crystal<br>recipe<br>path
+bip_39_word_new_br_8: there<br>utility<br>pig<br>profit<br>crystal<br>recipe<br>path<br>aim
+bip_39_word_new_br_9: there<br>utility<br>pig<br>profit<br>crystal<br>recipe<br>path<br>aim<br>goose
+bip_39_word_new_line_1: there
+bip_39_word_new_line_10: 'there
 
   utility
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'there
   goose
 
   lock'
-bip_39_word_new_line11: 'there
+bip_39_word_new_line_11: 'there
 
   utility
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'there
   lock
 
   burger'
-bip_39_word_new_line12: 'there
+bip_39_word_new_line_12: 'there
 
   utility
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'there
   burger
 
   afford'
-bip_39_word_new_line2: 'there
+bip_39_word_new_line_2: 'there
 
   utility'
-bip_39_word_new_line3: 'there
+bip_39_word_new_line_3: 'there
 
   utility
 
   pig'
-bip_39_word_new_line4: 'there
+bip_39_word_new_line_4: 'there
 
   utility
 
   pig
 
   profit'
-bip_39_word_new_line5: 'there
+bip_39_word_new_line_5: 'there
 
   utility
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'there
   profit
 
   crystal'
-bip_39_word_new_line6: 'there
+bip_39_word_new_line_6: 'there
 
   utility
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'there
   crystal
 
   recipe'
-bip_39_word_new_line7: 'there
+bip_39_word_new_line_7: 'there
 
   utility
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'there
   recipe
 
   path'
-bip_39_word_new_line8: 'there
+bip_39_word_new_line_8: 'there
 
   utility
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'there
   path
 
   aim'
-bip_39_word_new_line9: 'there
+bip_39_word_new_line_9: 'there
 
   utility
 

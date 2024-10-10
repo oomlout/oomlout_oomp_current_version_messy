@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | response |  
-| bip_39_word_new_br10 | response<br>build<br>logic<br>erase<br>dismiss<br>match<br>wet<br>lawn<br>lecture<br>admit |  
-| bip_39_word_new_br11 | response<br>build<br>logic<br>erase<br>dismiss<br>match<br>wet<br>lawn<br>lecture<br>admit<br>oval |  
-| bip_39_word_new_br12 | response<br>build<br>logic<br>erase<br>dismiss<br>match<br>wet<br>lawn<br>lecture<br>admit<br>oval<br>add |  
-| bip_39_word_new_br2 | response<br>build |  
-| bip_39_word_new_br3 | response<br>build<br>logic |  
-| bip_39_word_new_br4 | response<br>build<br>logic<br>erase |  
-| bip_39_word_new_br5 | response<br>build<br>logic<br>erase<br>dismiss |  
-| bip_39_word_new_br6 | response<br>build<br>logic<br>erase<br>dismiss<br>match |  
-| bip_39_word_new_br7 | response<br>build<br>logic<br>erase<br>dismiss<br>match<br>wet |  
-| bip_39_word_new_br8 | response<br>build<br>logic<br>erase<br>dismiss<br>match<br>wet<br>lawn |  
-| bip_39_word_new_br9 | response<br>build<br>logic<br>erase<br>dismiss<br>match<br>wet<br>lawn<br>lecture |  
-| bip_39_word_new_line1 | response |  
-| bip_39_word_new_line10 | response
+| bip_39_word_new_br_1 | response |  
+| bip_39_word_new_br_10 | response<br>build<br>logic<br>erase<br>dismiss<br>match<br>wet<br>lawn<br>lecture<br>admit |  
+| bip_39_word_new_br_11 | response<br>build<br>logic<br>erase<br>dismiss<br>match<br>wet<br>lawn<br>lecture<br>admit<br>oval |  
+| bip_39_word_new_br_12 | response<br>build<br>logic<br>erase<br>dismiss<br>match<br>wet<br>lawn<br>lecture<br>admit<br>oval<br>add |  
+| bip_39_word_new_br_2 | response<br>build |  
+| bip_39_word_new_br_3 | response<br>build<br>logic |  
+| bip_39_word_new_br_4 | response<br>build<br>logic<br>erase |  
+| bip_39_word_new_br_5 | response<br>build<br>logic<br>erase<br>dismiss |  
+| bip_39_word_new_br_6 | response<br>build<br>logic<br>erase<br>dismiss<br>match |  
+| bip_39_word_new_br_7 | response<br>build<br>logic<br>erase<br>dismiss<br>match<br>wet |  
+| bip_39_word_new_br_8 | response<br>build<br>logic<br>erase<br>dismiss<br>match<br>wet<br>lawn |  
+| bip_39_word_new_br_9 | response<br>build<br>logic<br>erase<br>dismiss<br>match<br>wet<br>lawn<br>lecture |  
+| bip_39_word_new_line_1 | response |  
+| bip_39_word_new_line_10 | response
 build
 logic
 erase
@@ -55,7 +55,7 @@ wet
 lawn
 lecture
 admit |  
-| bip_39_word_new_line11 | response
+| bip_39_word_new_line_11 | response
 build
 logic
 erase
@@ -66,7 +66,7 @@ lawn
 lecture
 admit
 oval |  
-| bip_39_word_new_line12 | response
+| bip_39_word_new_line_12 | response
 build
 logic
 erase
@@ -78,34 +78,34 @@ lecture
 admit
 oval
 add |  
-| bip_39_word_new_line2 | response
+| bip_39_word_new_line_2 | response
 build |  
-| bip_39_word_new_line3 | response
+| bip_39_word_new_line_3 | response
 build
 logic |  
-| bip_39_word_new_line4 | response
+| bip_39_word_new_line_4 | response
 build
 logic
 erase |  
-| bip_39_word_new_line5 | response
+| bip_39_word_new_line_5 | response
 build
 logic
 erase
 dismiss |  
-| bip_39_word_new_line6 | response
+| bip_39_word_new_line_6 | response
 build
 logic
 erase
 dismiss
 match |  
-| bip_39_word_new_line7 | response
+| bip_39_word_new_line_7 | response
 build
 logic
 erase
 dismiss
 match
 wet |  
-| bip_39_word_new_line8 | response
+| bip_39_word_new_line_8 | response
 build
 logic
 erase
@@ -113,7 +113,7 @@ dismiss
 match
 wet
 lawn |  
-| bip_39_word_new_line9 | response
+| bip_39_word_new_line_9 | response
 build
 logic
 erase

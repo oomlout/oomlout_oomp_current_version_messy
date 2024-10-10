@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pelican |  
-| bip_39_word_new_br10 | pelican<br>foot<br>verify<br>glow<br>magic<br>shove<br>candy<br>farm<br>common<br>private |  
-| bip_39_word_new_br11 | pelican<br>foot<br>verify<br>glow<br>magic<br>shove<br>candy<br>farm<br>common<br>private<br>equal |  
-| bip_39_word_new_br12 | pelican<br>foot<br>verify<br>glow<br>magic<br>shove<br>candy<br>farm<br>common<br>private<br>equal<br>about |  
-| bip_39_word_new_br2 | pelican<br>foot |  
-| bip_39_word_new_br3 | pelican<br>foot<br>verify |  
-| bip_39_word_new_br4 | pelican<br>foot<br>verify<br>glow |  
-| bip_39_word_new_br5 | pelican<br>foot<br>verify<br>glow<br>magic |  
-| bip_39_word_new_br6 | pelican<br>foot<br>verify<br>glow<br>magic<br>shove |  
-| bip_39_word_new_br7 | pelican<br>foot<br>verify<br>glow<br>magic<br>shove<br>candy |  
-| bip_39_word_new_br8 | pelican<br>foot<br>verify<br>glow<br>magic<br>shove<br>candy<br>farm |  
-| bip_39_word_new_br9 | pelican<br>foot<br>verify<br>glow<br>magic<br>shove<br>candy<br>farm<br>common |  
-| bip_39_word_new_line1 | pelican |  
-| bip_39_word_new_line10 | pelican
+| bip_39_word_new_br_1 | pelican |  
+| bip_39_word_new_br_10 | pelican<br>foot<br>verify<br>glow<br>magic<br>shove<br>candy<br>farm<br>common<br>private |  
+| bip_39_word_new_br_11 | pelican<br>foot<br>verify<br>glow<br>magic<br>shove<br>candy<br>farm<br>common<br>private<br>equal |  
+| bip_39_word_new_br_12 | pelican<br>foot<br>verify<br>glow<br>magic<br>shove<br>candy<br>farm<br>common<br>private<br>equal<br>about |  
+| bip_39_word_new_br_2 | pelican<br>foot |  
+| bip_39_word_new_br_3 | pelican<br>foot<br>verify |  
+| bip_39_word_new_br_4 | pelican<br>foot<br>verify<br>glow |  
+| bip_39_word_new_br_5 | pelican<br>foot<br>verify<br>glow<br>magic |  
+| bip_39_word_new_br_6 | pelican<br>foot<br>verify<br>glow<br>magic<br>shove |  
+| bip_39_word_new_br_7 | pelican<br>foot<br>verify<br>glow<br>magic<br>shove<br>candy |  
+| bip_39_word_new_br_8 | pelican<br>foot<br>verify<br>glow<br>magic<br>shove<br>candy<br>farm |  
+| bip_39_word_new_br_9 | pelican<br>foot<br>verify<br>glow<br>magic<br>shove<br>candy<br>farm<br>common |  
+| bip_39_word_new_line_1 | pelican |  
+| bip_39_word_new_line_10 | pelican
 foot
 verify
 glow
@@ -55,7 +55,7 @@ candy
 farm
 common
 private |  
-| bip_39_word_new_line11 | pelican
+| bip_39_word_new_line_11 | pelican
 foot
 verify
 glow
@@ -66,7 +66,7 @@ farm
 common
 private
 equal |  
-| bip_39_word_new_line12 | pelican
+| bip_39_word_new_line_12 | pelican
 foot
 verify
 glow
@@ -78,34 +78,34 @@ common
 private
 equal
 about |  
-| bip_39_word_new_line2 | pelican
+| bip_39_word_new_line_2 | pelican
 foot |  
-| bip_39_word_new_line3 | pelican
+| bip_39_word_new_line_3 | pelican
 foot
 verify |  
-| bip_39_word_new_line4 | pelican
+| bip_39_word_new_line_4 | pelican
 foot
 verify
 glow |  
-| bip_39_word_new_line5 | pelican
+| bip_39_word_new_line_5 | pelican
 foot
 verify
 glow
 magic |  
-| bip_39_word_new_line6 | pelican
+| bip_39_word_new_line_6 | pelican
 foot
 verify
 glow
 magic
 shove |  
-| bip_39_word_new_line7 | pelican
+| bip_39_word_new_line_7 | pelican
 foot
 verify
 glow
 magic
 shove
 candy |  
-| bip_39_word_new_line8 | pelican
+| bip_39_word_new_line_8 | pelican
 foot
 verify
 glow
@@ -113,7 +113,7 @@ magic
 shove
 candy
 farm |  
-| bip_39_word_new_line9 | pelican
+| bip_39_word_new_line_9 | pelican
 foot
 verify
 glow

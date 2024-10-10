@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | skill |  
-| bip_39_word_new_br10 | skill<br>pool<br>angry<br>come<br>flame<br>off<br>crater<br>forum<br>duty<br>amused |  
-| bip_39_word_new_br11 | skill<br>pool<br>angry<br>come<br>flame<br>off<br>crater<br>forum<br>duty<br>amused<br>awkward |  
-| bip_39_word_new_br12 | skill<br>pool<br>angry<br>come<br>flame<br>off<br>crater<br>forum<br>duty<br>amused<br>awkward<br>alley |  
-| bip_39_word_new_br2 | skill<br>pool |  
-| bip_39_word_new_br3 | skill<br>pool<br>angry |  
-| bip_39_word_new_br4 | skill<br>pool<br>angry<br>come |  
-| bip_39_word_new_br5 | skill<br>pool<br>angry<br>come<br>flame |  
-| bip_39_word_new_br6 | skill<br>pool<br>angry<br>come<br>flame<br>off |  
-| bip_39_word_new_br7 | skill<br>pool<br>angry<br>come<br>flame<br>off<br>crater |  
-| bip_39_word_new_br8 | skill<br>pool<br>angry<br>come<br>flame<br>off<br>crater<br>forum |  
-| bip_39_word_new_br9 | skill<br>pool<br>angry<br>come<br>flame<br>off<br>crater<br>forum<br>duty |  
-| bip_39_word_new_line1 | skill |  
-| bip_39_word_new_line10 | skill
+| bip_39_word_new_br_1 | skill |  
+| bip_39_word_new_br_10 | skill<br>pool<br>angry<br>come<br>flame<br>off<br>crater<br>forum<br>duty<br>amused |  
+| bip_39_word_new_br_11 | skill<br>pool<br>angry<br>come<br>flame<br>off<br>crater<br>forum<br>duty<br>amused<br>awkward |  
+| bip_39_word_new_br_12 | skill<br>pool<br>angry<br>come<br>flame<br>off<br>crater<br>forum<br>duty<br>amused<br>awkward<br>alley |  
+| bip_39_word_new_br_2 | skill<br>pool |  
+| bip_39_word_new_br_3 | skill<br>pool<br>angry |  
+| bip_39_word_new_br_4 | skill<br>pool<br>angry<br>come |  
+| bip_39_word_new_br_5 | skill<br>pool<br>angry<br>come<br>flame |  
+| bip_39_word_new_br_6 | skill<br>pool<br>angry<br>come<br>flame<br>off |  
+| bip_39_word_new_br_7 | skill<br>pool<br>angry<br>come<br>flame<br>off<br>crater |  
+| bip_39_word_new_br_8 | skill<br>pool<br>angry<br>come<br>flame<br>off<br>crater<br>forum |  
+| bip_39_word_new_br_9 | skill<br>pool<br>angry<br>come<br>flame<br>off<br>crater<br>forum<br>duty |  
+| bip_39_word_new_line_1 | skill |  
+| bip_39_word_new_line_10 | skill
 pool
 angry
 come
@@ -55,7 +55,7 @@ crater
 forum
 duty
 amused |  
-| bip_39_word_new_line11 | skill
+| bip_39_word_new_line_11 | skill
 pool
 angry
 come
@@ -66,7 +66,7 @@ forum
 duty
 amused
 awkward |  
-| bip_39_word_new_line12 | skill
+| bip_39_word_new_line_12 | skill
 pool
 angry
 come
@@ -78,34 +78,34 @@ duty
 amused
 awkward
 alley |  
-| bip_39_word_new_line2 | skill
+| bip_39_word_new_line_2 | skill
 pool |  
-| bip_39_word_new_line3 | skill
+| bip_39_word_new_line_3 | skill
 pool
 angry |  
-| bip_39_word_new_line4 | skill
+| bip_39_word_new_line_4 | skill
 pool
 angry
 come |  
-| bip_39_word_new_line5 | skill
+| bip_39_word_new_line_5 | skill
 pool
 angry
 come
 flame |  
-| bip_39_word_new_line6 | skill
+| bip_39_word_new_line_6 | skill
 pool
 angry
 come
 flame
 off |  
-| bip_39_word_new_line7 | skill
+| bip_39_word_new_line_7 | skill
 pool
 angry
 come
 flame
 off
 crater |  
-| bip_39_word_new_line8 | skill
+| bip_39_word_new_line_8 | skill
 pool
 angry
 come
@@ -113,7 +113,7 @@ flame
 off
 crater
 forum |  
-| bip_39_word_new_line9 | skill
+| bip_39_word_new_line_9 | skill
 pool
 angry
 come

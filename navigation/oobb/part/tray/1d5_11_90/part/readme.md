@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rotate |  
-| bip_39_word_new_br10 | rotate<br>cake<br>nurse<br>help<br>youth<br>frost<br>wrap<br>illness<br>hospital<br>leaf |  
-| bip_39_word_new_br11 | rotate<br>cake<br>nurse<br>help<br>youth<br>frost<br>wrap<br>illness<br>hospital<br>leaf<br>priority |  
-| bip_39_word_new_br12 | rotate<br>cake<br>nurse<br>help<br>youth<br>frost<br>wrap<br>illness<br>hospital<br>leaf<br>priority<br>again |  
-| bip_39_word_new_br2 | rotate<br>cake |  
-| bip_39_word_new_br3 | rotate<br>cake<br>nurse |  
-| bip_39_word_new_br4 | rotate<br>cake<br>nurse<br>help |  
-| bip_39_word_new_br5 | rotate<br>cake<br>nurse<br>help<br>youth |  
-| bip_39_word_new_br6 | rotate<br>cake<br>nurse<br>help<br>youth<br>frost |  
-| bip_39_word_new_br7 | rotate<br>cake<br>nurse<br>help<br>youth<br>frost<br>wrap |  
-| bip_39_word_new_br8 | rotate<br>cake<br>nurse<br>help<br>youth<br>frost<br>wrap<br>illness |  
-| bip_39_word_new_br9 | rotate<br>cake<br>nurse<br>help<br>youth<br>frost<br>wrap<br>illness<br>hospital |  
-| bip_39_word_new_line1 | rotate |  
-| bip_39_word_new_line10 | rotate
+| bip_39_word_new_br_1 | rotate |  
+| bip_39_word_new_br_10 | rotate<br>cake<br>nurse<br>help<br>youth<br>frost<br>wrap<br>illness<br>hospital<br>leaf |  
+| bip_39_word_new_br_11 | rotate<br>cake<br>nurse<br>help<br>youth<br>frost<br>wrap<br>illness<br>hospital<br>leaf<br>priority |  
+| bip_39_word_new_br_12 | rotate<br>cake<br>nurse<br>help<br>youth<br>frost<br>wrap<br>illness<br>hospital<br>leaf<br>priority<br>again |  
+| bip_39_word_new_br_2 | rotate<br>cake |  
+| bip_39_word_new_br_3 | rotate<br>cake<br>nurse |  
+| bip_39_word_new_br_4 | rotate<br>cake<br>nurse<br>help |  
+| bip_39_word_new_br_5 | rotate<br>cake<br>nurse<br>help<br>youth |  
+| bip_39_word_new_br_6 | rotate<br>cake<br>nurse<br>help<br>youth<br>frost |  
+| bip_39_word_new_br_7 | rotate<br>cake<br>nurse<br>help<br>youth<br>frost<br>wrap |  
+| bip_39_word_new_br_8 | rotate<br>cake<br>nurse<br>help<br>youth<br>frost<br>wrap<br>illness |  
+| bip_39_word_new_br_9 | rotate<br>cake<br>nurse<br>help<br>youth<br>frost<br>wrap<br>illness<br>hospital |  
+| bip_39_word_new_line_1 | rotate |  
+| bip_39_word_new_line_10 | rotate
 cake
 nurse
 help
@@ -55,7 +55,7 @@ wrap
 illness
 hospital
 leaf |  
-| bip_39_word_new_line11 | rotate
+| bip_39_word_new_line_11 | rotate
 cake
 nurse
 help
@@ -66,7 +66,7 @@ illness
 hospital
 leaf
 priority |  
-| bip_39_word_new_line12 | rotate
+| bip_39_word_new_line_12 | rotate
 cake
 nurse
 help
@@ -78,34 +78,34 @@ hospital
 leaf
 priority
 again |  
-| bip_39_word_new_line2 | rotate
+| bip_39_word_new_line_2 | rotate
 cake |  
-| bip_39_word_new_line3 | rotate
+| bip_39_word_new_line_3 | rotate
 cake
 nurse |  
-| bip_39_word_new_line4 | rotate
+| bip_39_word_new_line_4 | rotate
 cake
 nurse
 help |  
-| bip_39_word_new_line5 | rotate
+| bip_39_word_new_line_5 | rotate
 cake
 nurse
 help
 youth |  
-| bip_39_word_new_line6 | rotate
+| bip_39_word_new_line_6 | rotate
 cake
 nurse
 help
 youth
 frost |  
-| bip_39_word_new_line7 | rotate
+| bip_39_word_new_line_7 | rotate
 cake
 nurse
 help
 youth
 frost
 wrap |  
-| bip_39_word_new_line8 | rotate
+| bip_39_word_new_line_8 | rotate
 cake
 nurse
 help
@@ -113,7 +113,7 @@ youth
 frost
 wrap
 illness |  
-| bip_39_word_new_line9 | rotate
+| bip_39_word_new_line_9 | rotate
 cake
 nurse
 help

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | size |  
-| bip_39_word_new_br10 | size<br>short<br>step<br>hover<br>banner<br>zoo<br>welcome<br>fork<br>stand<br>color |  
-| bip_39_word_new_br11 | size<br>short<br>step<br>hover<br>banner<br>zoo<br>welcome<br>fork<br>stand<br>color<br>special |  
-| bip_39_word_new_br12 | size<br>short<br>step<br>hover<br>banner<br>zoo<br>welcome<br>fork<br>stand<br>color<br>special<br>arctic |  
-| bip_39_word_new_br2 | size<br>short |  
-| bip_39_word_new_br3 | size<br>short<br>step |  
-| bip_39_word_new_br4 | size<br>short<br>step<br>hover |  
-| bip_39_word_new_br5 | size<br>short<br>step<br>hover<br>banner |  
-| bip_39_word_new_br6 | size<br>short<br>step<br>hover<br>banner<br>zoo |  
-| bip_39_word_new_br7 | size<br>short<br>step<br>hover<br>banner<br>zoo<br>welcome |  
-| bip_39_word_new_br8 | size<br>short<br>step<br>hover<br>banner<br>zoo<br>welcome<br>fork |  
-| bip_39_word_new_br9 | size<br>short<br>step<br>hover<br>banner<br>zoo<br>welcome<br>fork<br>stand |  
-| bip_39_word_new_line1 | size |  
-| bip_39_word_new_line10 | size
+| bip_39_word_new_br_1 | size |  
+| bip_39_word_new_br_10 | size<br>short<br>step<br>hover<br>banner<br>zoo<br>welcome<br>fork<br>stand<br>color |  
+| bip_39_word_new_br_11 | size<br>short<br>step<br>hover<br>banner<br>zoo<br>welcome<br>fork<br>stand<br>color<br>special |  
+| bip_39_word_new_br_12 | size<br>short<br>step<br>hover<br>banner<br>zoo<br>welcome<br>fork<br>stand<br>color<br>special<br>arctic |  
+| bip_39_word_new_br_2 | size<br>short |  
+| bip_39_word_new_br_3 | size<br>short<br>step |  
+| bip_39_word_new_br_4 | size<br>short<br>step<br>hover |  
+| bip_39_word_new_br_5 | size<br>short<br>step<br>hover<br>banner |  
+| bip_39_word_new_br_6 | size<br>short<br>step<br>hover<br>banner<br>zoo |  
+| bip_39_word_new_br_7 | size<br>short<br>step<br>hover<br>banner<br>zoo<br>welcome |  
+| bip_39_word_new_br_8 | size<br>short<br>step<br>hover<br>banner<br>zoo<br>welcome<br>fork |  
+| bip_39_word_new_br_9 | size<br>short<br>step<br>hover<br>banner<br>zoo<br>welcome<br>fork<br>stand |  
+| bip_39_word_new_line_1 | size |  
+| bip_39_word_new_line_10 | size
 short
 step
 hover
@@ -55,7 +55,7 @@ welcome
 fork
 stand
 color |  
-| bip_39_word_new_line11 | size
+| bip_39_word_new_line_11 | size
 short
 step
 hover
@@ -66,7 +66,7 @@ fork
 stand
 color
 special |  
-| bip_39_word_new_line12 | size
+| bip_39_word_new_line_12 | size
 short
 step
 hover
@@ -78,34 +78,34 @@ stand
 color
 special
 arctic |  
-| bip_39_word_new_line2 | size
+| bip_39_word_new_line_2 | size
 short |  
-| bip_39_word_new_line3 | size
+| bip_39_word_new_line_3 | size
 short
 step |  
-| bip_39_word_new_line4 | size
+| bip_39_word_new_line_4 | size
 short
 step
 hover |  
-| bip_39_word_new_line5 | size
+| bip_39_word_new_line_5 | size
 short
 step
 hover
 banner |  
-| bip_39_word_new_line6 | size
+| bip_39_word_new_line_6 | size
 short
 step
 hover
 banner
 zoo |  
-| bip_39_word_new_line7 | size
+| bip_39_word_new_line_7 | size
 short
 step
 hover
 banner
 zoo
 welcome |  
-| bip_39_word_new_line8 | size
+| bip_39_word_new_line_8 | size
 short
 step
 hover
@@ -113,7 +113,7 @@ banner
 zoo
 welcome
 fork |  
-| bip_39_word_new_line9 | size
+| bip_39_word_new_line_9 | size
 short
 step
 hover

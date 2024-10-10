@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | smooth |  
-| bip_39_word_new_br10 | smooth<br>rely<br>artefact<br>tiger<br>network<br>alien<br>siege<br>garlic<br>feed<br>flash |  
-| bip_39_word_new_br11 | smooth<br>rely<br>artefact<br>tiger<br>network<br>alien<br>siege<br>garlic<br>feed<br>flash<br>assist |  
-| bip_39_word_new_br12 | smooth<br>rely<br>artefact<br>tiger<br>network<br>alien<br>siege<br>garlic<br>feed<br>flash<br>assist<br>author |  
-| bip_39_word_new_br2 | smooth<br>rely |  
-| bip_39_word_new_br3 | smooth<br>rely<br>artefact |  
-| bip_39_word_new_br4 | smooth<br>rely<br>artefact<br>tiger |  
-| bip_39_word_new_br5 | smooth<br>rely<br>artefact<br>tiger<br>network |  
-| bip_39_word_new_br6 | smooth<br>rely<br>artefact<br>tiger<br>network<br>alien |  
-| bip_39_word_new_br7 | smooth<br>rely<br>artefact<br>tiger<br>network<br>alien<br>siege |  
-| bip_39_word_new_br8 | smooth<br>rely<br>artefact<br>tiger<br>network<br>alien<br>siege<br>garlic |  
-| bip_39_word_new_br9 | smooth<br>rely<br>artefact<br>tiger<br>network<br>alien<br>siege<br>garlic<br>feed |  
-| bip_39_word_new_line1 | smooth |  
-| bip_39_word_new_line10 | smooth
+| bip_39_word_new_br_1 | smooth |  
+| bip_39_word_new_br_10 | smooth<br>rely<br>artefact<br>tiger<br>network<br>alien<br>siege<br>garlic<br>feed<br>flash |  
+| bip_39_word_new_br_11 | smooth<br>rely<br>artefact<br>tiger<br>network<br>alien<br>siege<br>garlic<br>feed<br>flash<br>assist |  
+| bip_39_word_new_br_12 | smooth<br>rely<br>artefact<br>tiger<br>network<br>alien<br>siege<br>garlic<br>feed<br>flash<br>assist<br>author |  
+| bip_39_word_new_br_2 | smooth<br>rely |  
+| bip_39_word_new_br_3 | smooth<br>rely<br>artefact |  
+| bip_39_word_new_br_4 | smooth<br>rely<br>artefact<br>tiger |  
+| bip_39_word_new_br_5 | smooth<br>rely<br>artefact<br>tiger<br>network |  
+| bip_39_word_new_br_6 | smooth<br>rely<br>artefact<br>tiger<br>network<br>alien |  
+| bip_39_word_new_br_7 | smooth<br>rely<br>artefact<br>tiger<br>network<br>alien<br>siege |  
+| bip_39_word_new_br_8 | smooth<br>rely<br>artefact<br>tiger<br>network<br>alien<br>siege<br>garlic |  
+| bip_39_word_new_br_9 | smooth<br>rely<br>artefact<br>tiger<br>network<br>alien<br>siege<br>garlic<br>feed |  
+| bip_39_word_new_line_1 | smooth |  
+| bip_39_word_new_line_10 | smooth
 rely
 artefact
 tiger
@@ -55,7 +55,7 @@ siege
 garlic
 feed
 flash |  
-| bip_39_word_new_line11 | smooth
+| bip_39_word_new_line_11 | smooth
 rely
 artefact
 tiger
@@ -66,7 +66,7 @@ garlic
 feed
 flash
 assist |  
-| bip_39_word_new_line12 | smooth
+| bip_39_word_new_line_12 | smooth
 rely
 artefact
 tiger
@@ -78,34 +78,34 @@ feed
 flash
 assist
 author |  
-| bip_39_word_new_line2 | smooth
+| bip_39_word_new_line_2 | smooth
 rely |  
-| bip_39_word_new_line3 | smooth
+| bip_39_word_new_line_3 | smooth
 rely
 artefact |  
-| bip_39_word_new_line4 | smooth
+| bip_39_word_new_line_4 | smooth
 rely
 artefact
 tiger |  
-| bip_39_word_new_line5 | smooth
+| bip_39_word_new_line_5 | smooth
 rely
 artefact
 tiger
 network |  
-| bip_39_word_new_line6 | smooth
+| bip_39_word_new_line_6 | smooth
 rely
 artefact
 tiger
 network
 alien |  
-| bip_39_word_new_line7 | smooth
+| bip_39_word_new_line_7 | smooth
 rely
 artefact
 tiger
 network
 alien
 siege |  
-| bip_39_word_new_line8 | smooth
+| bip_39_word_new_line_8 | smooth
 rely
 artefact
 tiger
@@ -113,7 +113,7 @@ network
 alien
 siege
 garlic |  
-| bip_39_word_new_line9 | smooth
+| bip_39_word_new_line_9 | smooth
 rely
 artefact
 tiger

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | echo |  
-| bip_39_word_new_br10 | echo<br>edge<br>velvet<br>domain<br>royal<br>toy<br>rib<br>cage<br>brain<br>school |  
-| bip_39_word_new_br11 | echo<br>edge<br>velvet<br>domain<br>royal<br>toy<br>rib<br>cage<br>brain<br>school<br>subway |  
-| bip_39_word_new_br12 | echo<br>edge<br>velvet<br>domain<br>royal<br>toy<br>rib<br>cage<br>brain<br>school<br>subway<br>anger |  
-| bip_39_word_new_br2 | echo<br>edge |  
-| bip_39_word_new_br3 | echo<br>edge<br>velvet |  
-| bip_39_word_new_br4 | echo<br>edge<br>velvet<br>domain |  
-| bip_39_word_new_br5 | echo<br>edge<br>velvet<br>domain<br>royal |  
-| bip_39_word_new_br6 | echo<br>edge<br>velvet<br>domain<br>royal<br>toy |  
-| bip_39_word_new_br7 | echo<br>edge<br>velvet<br>domain<br>royal<br>toy<br>rib |  
-| bip_39_word_new_br8 | echo<br>edge<br>velvet<br>domain<br>royal<br>toy<br>rib<br>cage |  
-| bip_39_word_new_br9 | echo<br>edge<br>velvet<br>domain<br>royal<br>toy<br>rib<br>cage<br>brain |  
-| bip_39_word_new_line1 | echo |  
-| bip_39_word_new_line10 | echo
+| bip_39_word_new_br_1 | echo |  
+| bip_39_word_new_br_10 | echo<br>edge<br>velvet<br>domain<br>royal<br>toy<br>rib<br>cage<br>brain<br>school |  
+| bip_39_word_new_br_11 | echo<br>edge<br>velvet<br>domain<br>royal<br>toy<br>rib<br>cage<br>brain<br>school<br>subway |  
+| bip_39_word_new_br_12 | echo<br>edge<br>velvet<br>domain<br>royal<br>toy<br>rib<br>cage<br>brain<br>school<br>subway<br>anger |  
+| bip_39_word_new_br_2 | echo<br>edge |  
+| bip_39_word_new_br_3 | echo<br>edge<br>velvet |  
+| bip_39_word_new_br_4 | echo<br>edge<br>velvet<br>domain |  
+| bip_39_word_new_br_5 | echo<br>edge<br>velvet<br>domain<br>royal |  
+| bip_39_word_new_br_6 | echo<br>edge<br>velvet<br>domain<br>royal<br>toy |  
+| bip_39_word_new_br_7 | echo<br>edge<br>velvet<br>domain<br>royal<br>toy<br>rib |  
+| bip_39_word_new_br_8 | echo<br>edge<br>velvet<br>domain<br>royal<br>toy<br>rib<br>cage |  
+| bip_39_word_new_br_9 | echo<br>edge<br>velvet<br>domain<br>royal<br>toy<br>rib<br>cage<br>brain |  
+| bip_39_word_new_line_1 | echo |  
+| bip_39_word_new_line_10 | echo
 edge
 velvet
 domain
@@ -55,7 +55,7 @@ rib
 cage
 brain
 school |  
-| bip_39_word_new_line11 | echo
+| bip_39_word_new_line_11 | echo
 edge
 velvet
 domain
@@ -66,7 +66,7 @@ cage
 brain
 school
 subway |  
-| bip_39_word_new_line12 | echo
+| bip_39_word_new_line_12 | echo
 edge
 velvet
 domain
@@ -78,34 +78,34 @@ brain
 school
 subway
 anger |  
-| bip_39_word_new_line2 | echo
+| bip_39_word_new_line_2 | echo
 edge |  
-| bip_39_word_new_line3 | echo
+| bip_39_word_new_line_3 | echo
 edge
 velvet |  
-| bip_39_word_new_line4 | echo
+| bip_39_word_new_line_4 | echo
 edge
 velvet
 domain |  
-| bip_39_word_new_line5 | echo
+| bip_39_word_new_line_5 | echo
 edge
 velvet
 domain
 royal |  
-| bip_39_word_new_line6 | echo
+| bip_39_word_new_line_6 | echo
 edge
 velvet
 domain
 royal
 toy |  
-| bip_39_word_new_line7 | echo
+| bip_39_word_new_line_7 | echo
 edge
 velvet
 domain
 royal
 toy
 rib |  
-| bip_39_word_new_line8 | echo
+| bip_39_word_new_line_8 | echo
 edge
 velvet
 domain
@@ -113,7 +113,7 @@ royal
 toy
 rib
 cage |  
-| bip_39_word_new_line9 | echo
+| bip_39_word_new_line_9 | echo
 edge
 velvet
 domain

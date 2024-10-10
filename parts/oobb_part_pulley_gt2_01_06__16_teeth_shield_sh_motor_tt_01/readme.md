@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mind |  
-| bip_39_word_new_br10 | mind<br>insane<br>scene<br>captain<br>chicken<br>unable<br>now<br>aspect<br>voice<br>planet |  
-| bip_39_word_new_br11 | mind<br>insane<br>scene<br>captain<br>chicken<br>unable<br>now<br>aspect<br>voice<br>planet<br>hat |  
-| bip_39_word_new_br12 | mind<br>insane<br>scene<br>captain<br>chicken<br>unable<br>now<br>aspect<br>voice<br>planet<br>hat<br>act |  
-| bip_39_word_new_br2 | mind<br>insane |  
-| bip_39_word_new_br3 | mind<br>insane<br>scene |  
-| bip_39_word_new_br4 | mind<br>insane<br>scene<br>captain |  
-| bip_39_word_new_br5 | mind<br>insane<br>scene<br>captain<br>chicken |  
-| bip_39_word_new_br6 | mind<br>insane<br>scene<br>captain<br>chicken<br>unable |  
-| bip_39_word_new_br7 | mind<br>insane<br>scene<br>captain<br>chicken<br>unable<br>now |  
-| bip_39_word_new_br8 | mind<br>insane<br>scene<br>captain<br>chicken<br>unable<br>now<br>aspect |  
-| bip_39_word_new_br9 | mind<br>insane<br>scene<br>captain<br>chicken<br>unable<br>now<br>aspect<br>voice |  
-| bip_39_word_new_line1 | mind |  
-| bip_39_word_new_line10 | mind
+| bip_39_word_new_br_1 | mind |  
+| bip_39_word_new_br_10 | mind<br>insane<br>scene<br>captain<br>chicken<br>unable<br>now<br>aspect<br>voice<br>planet |  
+| bip_39_word_new_br_11 | mind<br>insane<br>scene<br>captain<br>chicken<br>unable<br>now<br>aspect<br>voice<br>planet<br>hat |  
+| bip_39_word_new_br_12 | mind<br>insane<br>scene<br>captain<br>chicken<br>unable<br>now<br>aspect<br>voice<br>planet<br>hat<br>act |  
+| bip_39_word_new_br_2 | mind<br>insane |  
+| bip_39_word_new_br_3 | mind<br>insane<br>scene |  
+| bip_39_word_new_br_4 | mind<br>insane<br>scene<br>captain |  
+| bip_39_word_new_br_5 | mind<br>insane<br>scene<br>captain<br>chicken |  
+| bip_39_word_new_br_6 | mind<br>insane<br>scene<br>captain<br>chicken<br>unable |  
+| bip_39_word_new_br_7 | mind<br>insane<br>scene<br>captain<br>chicken<br>unable<br>now |  
+| bip_39_word_new_br_8 | mind<br>insane<br>scene<br>captain<br>chicken<br>unable<br>now<br>aspect |  
+| bip_39_word_new_br_9 | mind<br>insane<br>scene<br>captain<br>chicken<br>unable<br>now<br>aspect<br>voice |  
+| bip_39_word_new_line_1 | mind |  
+| bip_39_word_new_line_10 | mind
 insane
 scene
 captain
@@ -55,7 +55,7 @@ now
 aspect
 voice
 planet |  
-| bip_39_word_new_line11 | mind
+| bip_39_word_new_line_11 | mind
 insane
 scene
 captain
@@ -66,7 +66,7 @@ aspect
 voice
 planet
 hat |  
-| bip_39_word_new_line12 | mind
+| bip_39_word_new_line_12 | mind
 insane
 scene
 captain
@@ -78,34 +78,34 @@ voice
 planet
 hat
 act |  
-| bip_39_word_new_line2 | mind
+| bip_39_word_new_line_2 | mind
 insane |  
-| bip_39_word_new_line3 | mind
+| bip_39_word_new_line_3 | mind
 insane
 scene |  
-| bip_39_word_new_line4 | mind
+| bip_39_word_new_line_4 | mind
 insane
 scene
 captain |  
-| bip_39_word_new_line5 | mind
+| bip_39_word_new_line_5 | mind
 insane
 scene
 captain
 chicken |  
-| bip_39_word_new_line6 | mind
+| bip_39_word_new_line_6 | mind
 insane
 scene
 captain
 chicken
 unable |  
-| bip_39_word_new_line7 | mind
+| bip_39_word_new_line_7 | mind
 insane
 scene
 captain
 chicken
 unable
 now |  
-| bip_39_word_new_line8 | mind
+| bip_39_word_new_line_8 | mind
 insane
 scene
 captain
@@ -113,7 +113,7 @@ chicken
 unable
 now
 aspect |  
-| bip_39_word_new_line9 | mind
+| bip_39_word_new_line_9 | mind
 insane
 scene
 captain

@@ -1,17 +1,17 @@
-bip_39_word_new_br1: praise
-bip_39_word_new_br10: praise<br>insect<br>lady<br>invest<br>vacuum<br>armed<br>truly<br>story<br>balance<br>hybrid
-bip_39_word_new_br11: praise<br>insect<br>lady<br>invest<br>vacuum<br>armed<br>truly<br>story<br>balance<br>hybrid<br>spice
-bip_39_word_new_br12: praise<br>insect<br>lady<br>invest<br>vacuum<br>armed<br>truly<br>story<br>balance<br>hybrid<br>spice<br>accident
-bip_39_word_new_br2: praise<br>insect
-bip_39_word_new_br3: praise<br>insect<br>lady
-bip_39_word_new_br4: praise<br>insect<br>lady<br>invest
-bip_39_word_new_br5: praise<br>insect<br>lady<br>invest<br>vacuum
-bip_39_word_new_br6: praise<br>insect<br>lady<br>invest<br>vacuum<br>armed
-bip_39_word_new_br7: praise<br>insect<br>lady<br>invest<br>vacuum<br>armed<br>truly
-bip_39_word_new_br8: praise<br>insect<br>lady<br>invest<br>vacuum<br>armed<br>truly<br>story
-bip_39_word_new_br9: praise<br>insect<br>lady<br>invest<br>vacuum<br>armed<br>truly<br>story<br>balance
-bip_39_word_new_line1: praise
-bip_39_word_new_line10: 'praise
+bip_39_word_new_br_1: praise
+bip_39_word_new_br_10: praise<br>insect<br>lady<br>invest<br>vacuum<br>armed<br>truly<br>story<br>balance<br>hybrid
+bip_39_word_new_br_11: praise<br>insect<br>lady<br>invest<br>vacuum<br>armed<br>truly<br>story<br>balance<br>hybrid<br>spice
+bip_39_word_new_br_12: praise<br>insect<br>lady<br>invest<br>vacuum<br>armed<br>truly<br>story<br>balance<br>hybrid<br>spice<br>accident
+bip_39_word_new_br_2: praise<br>insect
+bip_39_word_new_br_3: praise<br>insect<br>lady
+bip_39_word_new_br_4: praise<br>insect<br>lady<br>invest
+bip_39_word_new_br_5: praise<br>insect<br>lady<br>invest<br>vacuum
+bip_39_word_new_br_6: praise<br>insect<br>lady<br>invest<br>vacuum<br>armed
+bip_39_word_new_br_7: praise<br>insect<br>lady<br>invest<br>vacuum<br>armed<br>truly
+bip_39_word_new_br_8: praise<br>insect<br>lady<br>invest<br>vacuum<br>armed<br>truly<br>story
+bip_39_word_new_br_9: praise<br>insect<br>lady<br>invest<br>vacuum<br>armed<br>truly<br>story<br>balance
+bip_39_word_new_line_1: praise
+bip_39_word_new_line_10: 'praise
 
   insect
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'praise
   balance
 
   hybrid'
-bip_39_word_new_line11: 'praise
+bip_39_word_new_line_11: 'praise
 
   insect
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'praise
   hybrid
 
   spice'
-bip_39_word_new_line12: 'praise
+bip_39_word_new_line_12: 'praise
 
   insect
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'praise
   spice
 
   accident'
-bip_39_word_new_line2: 'praise
+bip_39_word_new_line_2: 'praise
 
   insect'
-bip_39_word_new_line3: 'praise
+bip_39_word_new_line_3: 'praise
 
   insect
 
   lady'
-bip_39_word_new_line4: 'praise
+bip_39_word_new_line_4: 'praise
 
   insect
 
   lady
 
   invest'
-bip_39_word_new_line5: 'praise
+bip_39_word_new_line_5: 'praise
 
   insect
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'praise
   invest
 
   vacuum'
-bip_39_word_new_line6: 'praise
+bip_39_word_new_line_6: 'praise
 
   insect
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'praise
   vacuum
 
   armed'
-bip_39_word_new_line7: 'praise
+bip_39_word_new_line_7: 'praise
 
   insect
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'praise
   armed
 
   truly'
-bip_39_word_new_line8: 'praise
+bip_39_word_new_line_8: 'praise
 
   insect
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'praise
   truly
 
   story'
-bip_39_word_new_line9: 'praise
+bip_39_word_new_line_9: 'praise
 
   insect
 

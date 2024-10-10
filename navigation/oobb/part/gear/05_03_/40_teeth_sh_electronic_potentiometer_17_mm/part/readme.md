@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gather |  
-| bip_39_word_new_br10 | gather<br>reduce<br>equip<br>gather<br>wait<br>august<br>arrow<br>table<br>avocado<br>valid |  
-| bip_39_word_new_br11 | gather<br>reduce<br>equip<br>gather<br>wait<br>august<br>arrow<br>table<br>avocado<br>valid<br>stick |  
-| bip_39_word_new_br12 | gather<br>reduce<br>equip<br>gather<br>wait<br>august<br>arrow<br>table<br>avocado<br>valid<br>stick<br>amused |  
-| bip_39_word_new_br2 | gather<br>reduce |  
-| bip_39_word_new_br3 | gather<br>reduce<br>equip |  
-| bip_39_word_new_br4 | gather<br>reduce<br>equip<br>gather |  
-| bip_39_word_new_br5 | gather<br>reduce<br>equip<br>gather<br>wait |  
-| bip_39_word_new_br6 | gather<br>reduce<br>equip<br>gather<br>wait<br>august |  
-| bip_39_word_new_br7 | gather<br>reduce<br>equip<br>gather<br>wait<br>august<br>arrow |  
-| bip_39_word_new_br8 | gather<br>reduce<br>equip<br>gather<br>wait<br>august<br>arrow<br>table |  
-| bip_39_word_new_br9 | gather<br>reduce<br>equip<br>gather<br>wait<br>august<br>arrow<br>table<br>avocado |  
-| bip_39_word_new_line1 | gather |  
-| bip_39_word_new_line10 | gather
+| bip_39_word_new_br_1 | gather |  
+| bip_39_word_new_br_10 | gather<br>reduce<br>equip<br>gather<br>wait<br>august<br>arrow<br>table<br>avocado<br>valid |  
+| bip_39_word_new_br_11 | gather<br>reduce<br>equip<br>gather<br>wait<br>august<br>arrow<br>table<br>avocado<br>valid<br>stick |  
+| bip_39_word_new_br_12 | gather<br>reduce<br>equip<br>gather<br>wait<br>august<br>arrow<br>table<br>avocado<br>valid<br>stick<br>amused |  
+| bip_39_word_new_br_2 | gather<br>reduce |  
+| bip_39_word_new_br_3 | gather<br>reduce<br>equip |  
+| bip_39_word_new_br_4 | gather<br>reduce<br>equip<br>gather |  
+| bip_39_word_new_br_5 | gather<br>reduce<br>equip<br>gather<br>wait |  
+| bip_39_word_new_br_6 | gather<br>reduce<br>equip<br>gather<br>wait<br>august |  
+| bip_39_word_new_br_7 | gather<br>reduce<br>equip<br>gather<br>wait<br>august<br>arrow |  
+| bip_39_word_new_br_8 | gather<br>reduce<br>equip<br>gather<br>wait<br>august<br>arrow<br>table |  
+| bip_39_word_new_br_9 | gather<br>reduce<br>equip<br>gather<br>wait<br>august<br>arrow<br>table<br>avocado |  
+| bip_39_word_new_line_1 | gather |  
+| bip_39_word_new_line_10 | gather
 reduce
 equip
 gather
@@ -55,7 +55,7 @@ arrow
 table
 avocado
 valid |  
-| bip_39_word_new_line11 | gather
+| bip_39_word_new_line_11 | gather
 reduce
 equip
 gather
@@ -66,7 +66,7 @@ table
 avocado
 valid
 stick |  
-| bip_39_word_new_line12 | gather
+| bip_39_word_new_line_12 | gather
 reduce
 equip
 gather
@@ -78,34 +78,34 @@ avocado
 valid
 stick
 amused |  
-| bip_39_word_new_line2 | gather
+| bip_39_word_new_line_2 | gather
 reduce |  
-| bip_39_word_new_line3 | gather
+| bip_39_word_new_line_3 | gather
 reduce
 equip |  
-| bip_39_word_new_line4 | gather
+| bip_39_word_new_line_4 | gather
 reduce
 equip
 gather |  
-| bip_39_word_new_line5 | gather
+| bip_39_word_new_line_5 | gather
 reduce
 equip
 gather
 wait |  
-| bip_39_word_new_line6 | gather
+| bip_39_word_new_line_6 | gather
 reduce
 equip
 gather
 wait
 august |  
-| bip_39_word_new_line7 | gather
+| bip_39_word_new_line_7 | gather
 reduce
 equip
 gather
 wait
 august
 arrow |  
-| bip_39_word_new_line8 | gather
+| bip_39_word_new_line_8 | gather
 reduce
 equip
 gather
@@ -113,7 +113,7 @@ wait
 august
 arrow
 table |  
-| bip_39_word_new_line9 | gather
+| bip_39_word_new_line_9 | gather
 reduce
 equip
 gather

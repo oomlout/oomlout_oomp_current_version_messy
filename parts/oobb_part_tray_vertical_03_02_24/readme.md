@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gas |  
-| bip_39_word_new_br10 | gas<br>walk<br>train<br>relief<br>situate<br>dragon<br>lizard<br>hundred<br>knock<br>owner |  
-| bip_39_word_new_br11 | gas<br>walk<br>train<br>relief<br>situate<br>dragon<br>lizard<br>hundred<br>knock<br>owner<br>dinner |  
-| bip_39_word_new_br12 | gas<br>walk<br>train<br>relief<br>situate<br>dragon<br>lizard<br>hundred<br>knock<br>owner<br>dinner<br>answer |  
-| bip_39_word_new_br2 | gas<br>walk |  
-| bip_39_word_new_br3 | gas<br>walk<br>train |  
-| bip_39_word_new_br4 | gas<br>walk<br>train<br>relief |  
-| bip_39_word_new_br5 | gas<br>walk<br>train<br>relief<br>situate |  
-| bip_39_word_new_br6 | gas<br>walk<br>train<br>relief<br>situate<br>dragon |  
-| bip_39_word_new_br7 | gas<br>walk<br>train<br>relief<br>situate<br>dragon<br>lizard |  
-| bip_39_word_new_br8 | gas<br>walk<br>train<br>relief<br>situate<br>dragon<br>lizard<br>hundred |  
-| bip_39_word_new_br9 | gas<br>walk<br>train<br>relief<br>situate<br>dragon<br>lizard<br>hundred<br>knock |  
-| bip_39_word_new_line1 | gas |  
-| bip_39_word_new_line10 | gas
+| bip_39_word_new_br_1 | gas |  
+| bip_39_word_new_br_10 | gas<br>walk<br>train<br>relief<br>situate<br>dragon<br>lizard<br>hundred<br>knock<br>owner |  
+| bip_39_word_new_br_11 | gas<br>walk<br>train<br>relief<br>situate<br>dragon<br>lizard<br>hundred<br>knock<br>owner<br>dinner |  
+| bip_39_word_new_br_12 | gas<br>walk<br>train<br>relief<br>situate<br>dragon<br>lizard<br>hundred<br>knock<br>owner<br>dinner<br>answer |  
+| bip_39_word_new_br_2 | gas<br>walk |  
+| bip_39_word_new_br_3 | gas<br>walk<br>train |  
+| bip_39_word_new_br_4 | gas<br>walk<br>train<br>relief |  
+| bip_39_word_new_br_5 | gas<br>walk<br>train<br>relief<br>situate |  
+| bip_39_word_new_br_6 | gas<br>walk<br>train<br>relief<br>situate<br>dragon |  
+| bip_39_word_new_br_7 | gas<br>walk<br>train<br>relief<br>situate<br>dragon<br>lizard |  
+| bip_39_word_new_br_8 | gas<br>walk<br>train<br>relief<br>situate<br>dragon<br>lizard<br>hundred |  
+| bip_39_word_new_br_9 | gas<br>walk<br>train<br>relief<br>situate<br>dragon<br>lizard<br>hundred<br>knock |  
+| bip_39_word_new_line_1 | gas |  
+| bip_39_word_new_line_10 | gas
 walk
 train
 relief
@@ -55,7 +55,7 @@ lizard
 hundred
 knock
 owner |  
-| bip_39_word_new_line11 | gas
+| bip_39_word_new_line_11 | gas
 walk
 train
 relief
@@ -66,7 +66,7 @@ hundred
 knock
 owner
 dinner |  
-| bip_39_word_new_line12 | gas
+| bip_39_word_new_line_12 | gas
 walk
 train
 relief
@@ -78,34 +78,34 @@ knock
 owner
 dinner
 answer |  
-| bip_39_word_new_line2 | gas
+| bip_39_word_new_line_2 | gas
 walk |  
-| bip_39_word_new_line3 | gas
+| bip_39_word_new_line_3 | gas
 walk
 train |  
-| bip_39_word_new_line4 | gas
+| bip_39_word_new_line_4 | gas
 walk
 train
 relief |  
-| bip_39_word_new_line5 | gas
+| bip_39_word_new_line_5 | gas
 walk
 train
 relief
 situate |  
-| bip_39_word_new_line6 | gas
+| bip_39_word_new_line_6 | gas
 walk
 train
 relief
 situate
 dragon |  
-| bip_39_word_new_line7 | gas
+| bip_39_word_new_line_7 | gas
 walk
 train
 relief
 situate
 dragon
 lizard |  
-| bip_39_word_new_line8 | gas
+| bip_39_word_new_line_8 | gas
 walk
 train
 relief
@@ -113,7 +113,7 @@ situate
 dragon
 lizard
 hundred |  
-| bip_39_word_new_line9 | gas
+| bip_39_word_new_line_9 | gas
 walk
 train
 relief

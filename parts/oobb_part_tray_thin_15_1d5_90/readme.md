@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | jump |  
-| bip_39_word_new_br10 | jump<br>ceiling<br>rookie<br>weather<br>thank<br>possible<br>ritual<br>merry<br>panther<br>beef |  
-| bip_39_word_new_br11 | jump<br>ceiling<br>rookie<br>weather<br>thank<br>possible<br>ritual<br>merry<br>panther<br>beef<br>unlock |  
-| bip_39_word_new_br12 | jump<br>ceiling<br>rookie<br>weather<br>thank<br>possible<br>ritual<br>merry<br>panther<br>beef<br>unlock<br>animal |  
-| bip_39_word_new_br2 | jump<br>ceiling |  
-| bip_39_word_new_br3 | jump<br>ceiling<br>rookie |  
-| bip_39_word_new_br4 | jump<br>ceiling<br>rookie<br>weather |  
-| bip_39_word_new_br5 | jump<br>ceiling<br>rookie<br>weather<br>thank |  
-| bip_39_word_new_br6 | jump<br>ceiling<br>rookie<br>weather<br>thank<br>possible |  
-| bip_39_word_new_br7 | jump<br>ceiling<br>rookie<br>weather<br>thank<br>possible<br>ritual |  
-| bip_39_word_new_br8 | jump<br>ceiling<br>rookie<br>weather<br>thank<br>possible<br>ritual<br>merry |  
-| bip_39_word_new_br9 | jump<br>ceiling<br>rookie<br>weather<br>thank<br>possible<br>ritual<br>merry<br>panther |  
-| bip_39_word_new_line1 | jump |  
-| bip_39_word_new_line10 | jump
+| bip_39_word_new_br_1 | jump |  
+| bip_39_word_new_br_10 | jump<br>ceiling<br>rookie<br>weather<br>thank<br>possible<br>ritual<br>merry<br>panther<br>beef |  
+| bip_39_word_new_br_11 | jump<br>ceiling<br>rookie<br>weather<br>thank<br>possible<br>ritual<br>merry<br>panther<br>beef<br>unlock |  
+| bip_39_word_new_br_12 | jump<br>ceiling<br>rookie<br>weather<br>thank<br>possible<br>ritual<br>merry<br>panther<br>beef<br>unlock<br>animal |  
+| bip_39_word_new_br_2 | jump<br>ceiling |  
+| bip_39_word_new_br_3 | jump<br>ceiling<br>rookie |  
+| bip_39_word_new_br_4 | jump<br>ceiling<br>rookie<br>weather |  
+| bip_39_word_new_br_5 | jump<br>ceiling<br>rookie<br>weather<br>thank |  
+| bip_39_word_new_br_6 | jump<br>ceiling<br>rookie<br>weather<br>thank<br>possible |  
+| bip_39_word_new_br_7 | jump<br>ceiling<br>rookie<br>weather<br>thank<br>possible<br>ritual |  
+| bip_39_word_new_br_8 | jump<br>ceiling<br>rookie<br>weather<br>thank<br>possible<br>ritual<br>merry |  
+| bip_39_word_new_br_9 | jump<br>ceiling<br>rookie<br>weather<br>thank<br>possible<br>ritual<br>merry<br>panther |  
+| bip_39_word_new_line_1 | jump |  
+| bip_39_word_new_line_10 | jump
 ceiling
 rookie
 weather
@@ -55,7 +55,7 @@ ritual
 merry
 panther
 beef |  
-| bip_39_word_new_line11 | jump
+| bip_39_word_new_line_11 | jump
 ceiling
 rookie
 weather
@@ -66,7 +66,7 @@ merry
 panther
 beef
 unlock |  
-| bip_39_word_new_line12 | jump
+| bip_39_word_new_line_12 | jump
 ceiling
 rookie
 weather
@@ -78,34 +78,34 @@ panther
 beef
 unlock
 animal |  
-| bip_39_word_new_line2 | jump
+| bip_39_word_new_line_2 | jump
 ceiling |  
-| bip_39_word_new_line3 | jump
+| bip_39_word_new_line_3 | jump
 ceiling
 rookie |  
-| bip_39_word_new_line4 | jump
+| bip_39_word_new_line_4 | jump
 ceiling
 rookie
 weather |  
-| bip_39_word_new_line5 | jump
+| bip_39_word_new_line_5 | jump
 ceiling
 rookie
 weather
 thank |  
-| bip_39_word_new_line6 | jump
+| bip_39_word_new_line_6 | jump
 ceiling
 rookie
 weather
 thank
 possible |  
-| bip_39_word_new_line7 | jump
+| bip_39_word_new_line_7 | jump
 ceiling
 rookie
 weather
 thank
 possible
 ritual |  
-| bip_39_word_new_line8 | jump
+| bip_39_word_new_line_8 | jump
 ceiling
 rookie
 weather
@@ -113,7 +113,7 @@ thank
 possible
 ritual
 merry |  
-| bip_39_word_new_line9 | jump
+| bip_39_word_new_line_9 | jump
 ceiling
 rookie
 weather

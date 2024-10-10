@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pair |  
-| bip_39_word_new_br10 | pair<br>budget<br>clarify<br>swap<br>execute<br>dolphin<br>conduct<br>element<br>cloth<br>maze |  
-| bip_39_word_new_br11 | pair<br>budget<br>clarify<br>swap<br>execute<br>dolphin<br>conduct<br>element<br>cloth<br>maze<br>pill |  
-| bip_39_word_new_br12 | pair<br>budget<br>clarify<br>swap<br>execute<br>dolphin<br>conduct<br>element<br>cloth<br>maze<br>pill<br>arm |  
-| bip_39_word_new_br2 | pair<br>budget |  
-| bip_39_word_new_br3 | pair<br>budget<br>clarify |  
-| bip_39_word_new_br4 | pair<br>budget<br>clarify<br>swap |  
-| bip_39_word_new_br5 | pair<br>budget<br>clarify<br>swap<br>execute |  
-| bip_39_word_new_br6 | pair<br>budget<br>clarify<br>swap<br>execute<br>dolphin |  
-| bip_39_word_new_br7 | pair<br>budget<br>clarify<br>swap<br>execute<br>dolphin<br>conduct |  
-| bip_39_word_new_br8 | pair<br>budget<br>clarify<br>swap<br>execute<br>dolphin<br>conduct<br>element |  
-| bip_39_word_new_br9 | pair<br>budget<br>clarify<br>swap<br>execute<br>dolphin<br>conduct<br>element<br>cloth |  
-| bip_39_word_new_line1 | pair |  
-| bip_39_word_new_line10 | pair
+| bip_39_word_new_br_1 | pair |  
+| bip_39_word_new_br_10 | pair<br>budget<br>clarify<br>swap<br>execute<br>dolphin<br>conduct<br>element<br>cloth<br>maze |  
+| bip_39_word_new_br_11 | pair<br>budget<br>clarify<br>swap<br>execute<br>dolphin<br>conduct<br>element<br>cloth<br>maze<br>pill |  
+| bip_39_word_new_br_12 | pair<br>budget<br>clarify<br>swap<br>execute<br>dolphin<br>conduct<br>element<br>cloth<br>maze<br>pill<br>arm |  
+| bip_39_word_new_br_2 | pair<br>budget |  
+| bip_39_word_new_br_3 | pair<br>budget<br>clarify |  
+| bip_39_word_new_br_4 | pair<br>budget<br>clarify<br>swap |  
+| bip_39_word_new_br_5 | pair<br>budget<br>clarify<br>swap<br>execute |  
+| bip_39_word_new_br_6 | pair<br>budget<br>clarify<br>swap<br>execute<br>dolphin |  
+| bip_39_word_new_br_7 | pair<br>budget<br>clarify<br>swap<br>execute<br>dolphin<br>conduct |  
+| bip_39_word_new_br_8 | pair<br>budget<br>clarify<br>swap<br>execute<br>dolphin<br>conduct<br>element |  
+| bip_39_word_new_br_9 | pair<br>budget<br>clarify<br>swap<br>execute<br>dolphin<br>conduct<br>element<br>cloth |  
+| bip_39_word_new_line_1 | pair |  
+| bip_39_word_new_line_10 | pair
 budget
 clarify
 swap
@@ -55,7 +55,7 @@ conduct
 element
 cloth
 maze |  
-| bip_39_word_new_line11 | pair
+| bip_39_word_new_line_11 | pair
 budget
 clarify
 swap
@@ -66,7 +66,7 @@ element
 cloth
 maze
 pill |  
-| bip_39_word_new_line12 | pair
+| bip_39_word_new_line_12 | pair
 budget
 clarify
 swap
@@ -78,34 +78,34 @@ cloth
 maze
 pill
 arm |  
-| bip_39_word_new_line2 | pair
+| bip_39_word_new_line_2 | pair
 budget |  
-| bip_39_word_new_line3 | pair
+| bip_39_word_new_line_3 | pair
 budget
 clarify |  
-| bip_39_word_new_line4 | pair
+| bip_39_word_new_line_4 | pair
 budget
 clarify
 swap |  
-| bip_39_word_new_line5 | pair
+| bip_39_word_new_line_5 | pair
 budget
 clarify
 swap
 execute |  
-| bip_39_word_new_line6 | pair
+| bip_39_word_new_line_6 | pair
 budget
 clarify
 swap
 execute
 dolphin |  
-| bip_39_word_new_line7 | pair
+| bip_39_word_new_line_7 | pair
 budget
 clarify
 swap
 execute
 dolphin
 conduct |  
-| bip_39_word_new_line8 | pair
+| bip_39_word_new_line_8 | pair
 budget
 clarify
 swap
@@ -113,7 +113,7 @@ execute
 dolphin
 conduct
 element |  
-| bip_39_word_new_line9 | pair
+| bip_39_word_new_line_9 | pair
 budget
 clarify
 swap

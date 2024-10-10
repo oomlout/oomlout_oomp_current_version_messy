@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pizza |  
-| bip_39_word_new_br10 | pizza<br>tobacco<br>easily<br>chest<br>armed<br>else<br>auction<br>pottery<br>laugh<br>frost |  
-| bip_39_word_new_br11 | pizza<br>tobacco<br>easily<br>chest<br>armed<br>else<br>auction<br>pottery<br>laugh<br>frost<br>power |  
-| bip_39_word_new_br12 | pizza<br>tobacco<br>easily<br>chest<br>armed<br>else<br>auction<br>pottery<br>laugh<br>frost<br>power<br>album |  
-| bip_39_word_new_br2 | pizza<br>tobacco |  
-| bip_39_word_new_br3 | pizza<br>tobacco<br>easily |  
-| bip_39_word_new_br4 | pizza<br>tobacco<br>easily<br>chest |  
-| bip_39_word_new_br5 | pizza<br>tobacco<br>easily<br>chest<br>armed |  
-| bip_39_word_new_br6 | pizza<br>tobacco<br>easily<br>chest<br>armed<br>else |  
-| bip_39_word_new_br7 | pizza<br>tobacco<br>easily<br>chest<br>armed<br>else<br>auction |  
-| bip_39_word_new_br8 | pizza<br>tobacco<br>easily<br>chest<br>armed<br>else<br>auction<br>pottery |  
-| bip_39_word_new_br9 | pizza<br>tobacco<br>easily<br>chest<br>armed<br>else<br>auction<br>pottery<br>laugh |  
-| bip_39_word_new_line1 | pizza |  
-| bip_39_word_new_line10 | pizza
+| bip_39_word_new_br_1 | pizza |  
+| bip_39_word_new_br_10 | pizza<br>tobacco<br>easily<br>chest<br>armed<br>else<br>auction<br>pottery<br>laugh<br>frost |  
+| bip_39_word_new_br_11 | pizza<br>tobacco<br>easily<br>chest<br>armed<br>else<br>auction<br>pottery<br>laugh<br>frost<br>power |  
+| bip_39_word_new_br_12 | pizza<br>tobacco<br>easily<br>chest<br>armed<br>else<br>auction<br>pottery<br>laugh<br>frost<br>power<br>album |  
+| bip_39_word_new_br_2 | pizza<br>tobacco |  
+| bip_39_word_new_br_3 | pizza<br>tobacco<br>easily |  
+| bip_39_word_new_br_4 | pizza<br>tobacco<br>easily<br>chest |  
+| bip_39_word_new_br_5 | pizza<br>tobacco<br>easily<br>chest<br>armed |  
+| bip_39_word_new_br_6 | pizza<br>tobacco<br>easily<br>chest<br>armed<br>else |  
+| bip_39_word_new_br_7 | pizza<br>tobacco<br>easily<br>chest<br>armed<br>else<br>auction |  
+| bip_39_word_new_br_8 | pizza<br>tobacco<br>easily<br>chest<br>armed<br>else<br>auction<br>pottery |  
+| bip_39_word_new_br_9 | pizza<br>tobacco<br>easily<br>chest<br>armed<br>else<br>auction<br>pottery<br>laugh |  
+| bip_39_word_new_line_1 | pizza |  
+| bip_39_word_new_line_10 | pizza
 tobacco
 easily
 chest
@@ -55,7 +55,7 @@ auction
 pottery
 laugh
 frost |  
-| bip_39_word_new_line11 | pizza
+| bip_39_word_new_line_11 | pizza
 tobacco
 easily
 chest
@@ -66,7 +66,7 @@ pottery
 laugh
 frost
 power |  
-| bip_39_word_new_line12 | pizza
+| bip_39_word_new_line_12 | pizza
 tobacco
 easily
 chest
@@ -78,34 +78,34 @@ laugh
 frost
 power
 album |  
-| bip_39_word_new_line2 | pizza
+| bip_39_word_new_line_2 | pizza
 tobacco |  
-| bip_39_word_new_line3 | pizza
+| bip_39_word_new_line_3 | pizza
 tobacco
 easily |  
-| bip_39_word_new_line4 | pizza
+| bip_39_word_new_line_4 | pizza
 tobacco
 easily
 chest |  
-| bip_39_word_new_line5 | pizza
+| bip_39_word_new_line_5 | pizza
 tobacco
 easily
 chest
 armed |  
-| bip_39_word_new_line6 | pizza
+| bip_39_word_new_line_6 | pizza
 tobacco
 easily
 chest
 armed
 else |  
-| bip_39_word_new_line7 | pizza
+| bip_39_word_new_line_7 | pizza
 tobacco
 easily
 chest
 armed
 else
 auction |  
-| bip_39_word_new_line8 | pizza
+| bip_39_word_new_line_8 | pizza
 tobacco
 easily
 chest
@@ -113,7 +113,7 @@ armed
 else
 auction
 pottery |  
-| bip_39_word_new_line9 | pizza
+| bip_39_word_new_line_9 | pizza
 tobacco
 easily
 chest

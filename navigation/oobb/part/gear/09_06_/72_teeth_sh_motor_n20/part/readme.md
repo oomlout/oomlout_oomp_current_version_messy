@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | receive |  
-| bip_39_word_new_br10 | receive<br>bunker<br>moon<br>gentle<br>throw<br>false<br>tuition<br>century<br>recipe<br>salt |  
-| bip_39_word_new_br11 | receive<br>bunker<br>moon<br>gentle<br>throw<br>false<br>tuition<br>century<br>recipe<br>salt<br>cool |  
-| bip_39_word_new_br12 | receive<br>bunker<br>moon<br>gentle<br>throw<br>false<br>tuition<br>century<br>recipe<br>salt<br>cool<br>album |  
-| bip_39_word_new_br2 | receive<br>bunker |  
-| bip_39_word_new_br3 | receive<br>bunker<br>moon |  
-| bip_39_word_new_br4 | receive<br>bunker<br>moon<br>gentle |  
-| bip_39_word_new_br5 | receive<br>bunker<br>moon<br>gentle<br>throw |  
-| bip_39_word_new_br6 | receive<br>bunker<br>moon<br>gentle<br>throw<br>false |  
-| bip_39_word_new_br7 | receive<br>bunker<br>moon<br>gentle<br>throw<br>false<br>tuition |  
-| bip_39_word_new_br8 | receive<br>bunker<br>moon<br>gentle<br>throw<br>false<br>tuition<br>century |  
-| bip_39_word_new_br9 | receive<br>bunker<br>moon<br>gentle<br>throw<br>false<br>tuition<br>century<br>recipe |  
-| bip_39_word_new_line1 | receive |  
-| bip_39_word_new_line10 | receive
+| bip_39_word_new_br_1 | receive |  
+| bip_39_word_new_br_10 | receive<br>bunker<br>moon<br>gentle<br>throw<br>false<br>tuition<br>century<br>recipe<br>salt |  
+| bip_39_word_new_br_11 | receive<br>bunker<br>moon<br>gentle<br>throw<br>false<br>tuition<br>century<br>recipe<br>salt<br>cool |  
+| bip_39_word_new_br_12 | receive<br>bunker<br>moon<br>gentle<br>throw<br>false<br>tuition<br>century<br>recipe<br>salt<br>cool<br>album |  
+| bip_39_word_new_br_2 | receive<br>bunker |  
+| bip_39_word_new_br_3 | receive<br>bunker<br>moon |  
+| bip_39_word_new_br_4 | receive<br>bunker<br>moon<br>gentle |  
+| bip_39_word_new_br_5 | receive<br>bunker<br>moon<br>gentle<br>throw |  
+| bip_39_word_new_br_6 | receive<br>bunker<br>moon<br>gentle<br>throw<br>false |  
+| bip_39_word_new_br_7 | receive<br>bunker<br>moon<br>gentle<br>throw<br>false<br>tuition |  
+| bip_39_word_new_br_8 | receive<br>bunker<br>moon<br>gentle<br>throw<br>false<br>tuition<br>century |  
+| bip_39_word_new_br_9 | receive<br>bunker<br>moon<br>gentle<br>throw<br>false<br>tuition<br>century<br>recipe |  
+| bip_39_word_new_line_1 | receive |  
+| bip_39_word_new_line_10 | receive
 bunker
 moon
 gentle
@@ -55,7 +55,7 @@ tuition
 century
 recipe
 salt |  
-| bip_39_word_new_line11 | receive
+| bip_39_word_new_line_11 | receive
 bunker
 moon
 gentle
@@ -66,7 +66,7 @@ century
 recipe
 salt
 cool |  
-| bip_39_word_new_line12 | receive
+| bip_39_word_new_line_12 | receive
 bunker
 moon
 gentle
@@ -78,34 +78,34 @@ recipe
 salt
 cool
 album |  
-| bip_39_word_new_line2 | receive
+| bip_39_word_new_line_2 | receive
 bunker |  
-| bip_39_word_new_line3 | receive
+| bip_39_word_new_line_3 | receive
 bunker
 moon |  
-| bip_39_word_new_line4 | receive
+| bip_39_word_new_line_4 | receive
 bunker
 moon
 gentle |  
-| bip_39_word_new_line5 | receive
+| bip_39_word_new_line_5 | receive
 bunker
 moon
 gentle
 throw |  
-| bip_39_word_new_line6 | receive
+| bip_39_word_new_line_6 | receive
 bunker
 moon
 gentle
 throw
 false |  
-| bip_39_word_new_line7 | receive
+| bip_39_word_new_line_7 | receive
 bunker
 moon
 gentle
 throw
 false
 tuition |  
-| bip_39_word_new_line8 | receive
+| bip_39_word_new_line_8 | receive
 bunker
 moon
 gentle
@@ -113,7 +113,7 @@ throw
 false
 tuition
 century |  
-| bip_39_word_new_line9 | receive
+| bip_39_word_new_line_9 | receive
 bunker
 moon
 gentle

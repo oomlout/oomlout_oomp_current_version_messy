@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | negative |  
-| bip_39_word_new_br10 | negative<br>artefact<br>history<br>ramp<br>evoke<br>manual<br>system<br>knife<br>poet<br>gallery |  
-| bip_39_word_new_br11 | negative<br>artefact<br>history<br>ramp<br>evoke<br>manual<br>system<br>knife<br>poet<br>gallery<br>direct |  
-| bip_39_word_new_br12 | negative<br>artefact<br>history<br>ramp<br>evoke<br>manual<br>system<br>knife<br>poet<br>gallery<br>direct<br>amateur |  
-| bip_39_word_new_br2 | negative<br>artefact |  
-| bip_39_word_new_br3 | negative<br>artefact<br>history |  
-| bip_39_word_new_br4 | negative<br>artefact<br>history<br>ramp |  
-| bip_39_word_new_br5 | negative<br>artefact<br>history<br>ramp<br>evoke |  
-| bip_39_word_new_br6 | negative<br>artefact<br>history<br>ramp<br>evoke<br>manual |  
-| bip_39_word_new_br7 | negative<br>artefact<br>history<br>ramp<br>evoke<br>manual<br>system |  
-| bip_39_word_new_br8 | negative<br>artefact<br>history<br>ramp<br>evoke<br>manual<br>system<br>knife |  
-| bip_39_word_new_br9 | negative<br>artefact<br>history<br>ramp<br>evoke<br>manual<br>system<br>knife<br>poet |  
-| bip_39_word_new_line1 | negative |  
-| bip_39_word_new_line10 | negative
+| bip_39_word_new_br_1 | negative |  
+| bip_39_word_new_br_10 | negative<br>artefact<br>history<br>ramp<br>evoke<br>manual<br>system<br>knife<br>poet<br>gallery |  
+| bip_39_word_new_br_11 | negative<br>artefact<br>history<br>ramp<br>evoke<br>manual<br>system<br>knife<br>poet<br>gallery<br>direct |  
+| bip_39_word_new_br_12 | negative<br>artefact<br>history<br>ramp<br>evoke<br>manual<br>system<br>knife<br>poet<br>gallery<br>direct<br>amateur |  
+| bip_39_word_new_br_2 | negative<br>artefact |  
+| bip_39_word_new_br_3 | negative<br>artefact<br>history |  
+| bip_39_word_new_br_4 | negative<br>artefact<br>history<br>ramp |  
+| bip_39_word_new_br_5 | negative<br>artefact<br>history<br>ramp<br>evoke |  
+| bip_39_word_new_br_6 | negative<br>artefact<br>history<br>ramp<br>evoke<br>manual |  
+| bip_39_word_new_br_7 | negative<br>artefact<br>history<br>ramp<br>evoke<br>manual<br>system |  
+| bip_39_word_new_br_8 | negative<br>artefact<br>history<br>ramp<br>evoke<br>manual<br>system<br>knife |  
+| bip_39_word_new_br_9 | negative<br>artefact<br>history<br>ramp<br>evoke<br>manual<br>system<br>knife<br>poet |  
+| bip_39_word_new_line_1 | negative |  
+| bip_39_word_new_line_10 | negative
 artefact
 history
 ramp
@@ -55,7 +55,7 @@ system
 knife
 poet
 gallery |  
-| bip_39_word_new_line11 | negative
+| bip_39_word_new_line_11 | negative
 artefact
 history
 ramp
@@ -66,7 +66,7 @@ knife
 poet
 gallery
 direct |  
-| bip_39_word_new_line12 | negative
+| bip_39_word_new_line_12 | negative
 artefact
 history
 ramp
@@ -78,34 +78,34 @@ poet
 gallery
 direct
 amateur |  
-| bip_39_word_new_line2 | negative
+| bip_39_word_new_line_2 | negative
 artefact |  
-| bip_39_word_new_line3 | negative
+| bip_39_word_new_line_3 | negative
 artefact
 history |  
-| bip_39_word_new_line4 | negative
+| bip_39_word_new_line_4 | negative
 artefact
 history
 ramp |  
-| bip_39_word_new_line5 | negative
+| bip_39_word_new_line_5 | negative
 artefact
 history
 ramp
 evoke |  
-| bip_39_word_new_line6 | negative
+| bip_39_word_new_line_6 | negative
 artefact
 history
 ramp
 evoke
 manual |  
-| bip_39_word_new_line7 | negative
+| bip_39_word_new_line_7 | negative
 artefact
 history
 ramp
 evoke
 manual
 system |  
-| bip_39_word_new_line8 | negative
+| bip_39_word_new_line_8 | negative
 artefact
 history
 ramp
@@ -113,7 +113,7 @@ evoke
 manual
 system
 knife |  
-| bip_39_word_new_line9 | negative
+| bip_39_word_new_line_9 | negative
 artefact
 history
 ramp

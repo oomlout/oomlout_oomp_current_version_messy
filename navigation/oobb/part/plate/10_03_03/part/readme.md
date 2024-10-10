@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | birth |  
-| bip_39_word_new_br10 | birth<br>element<br>ahead<br>laptop<br>modify<br>palace<br>thunder<br>intact<br>remain<br>nerve |  
-| bip_39_word_new_br11 | birth<br>element<br>ahead<br>laptop<br>modify<br>palace<br>thunder<br>intact<br>remain<br>nerve<br>lunch |  
-| bip_39_word_new_br12 | birth<br>element<br>ahead<br>laptop<br>modify<br>palace<br>thunder<br>intact<br>remain<br>nerve<br>lunch<br>ability |  
-| bip_39_word_new_br2 | birth<br>element |  
-| bip_39_word_new_br3 | birth<br>element<br>ahead |  
-| bip_39_word_new_br4 | birth<br>element<br>ahead<br>laptop |  
-| bip_39_word_new_br5 | birth<br>element<br>ahead<br>laptop<br>modify |  
-| bip_39_word_new_br6 | birth<br>element<br>ahead<br>laptop<br>modify<br>palace |  
-| bip_39_word_new_br7 | birth<br>element<br>ahead<br>laptop<br>modify<br>palace<br>thunder |  
-| bip_39_word_new_br8 | birth<br>element<br>ahead<br>laptop<br>modify<br>palace<br>thunder<br>intact |  
-| bip_39_word_new_br9 | birth<br>element<br>ahead<br>laptop<br>modify<br>palace<br>thunder<br>intact<br>remain |  
-| bip_39_word_new_line1 | birth |  
-| bip_39_word_new_line10 | birth
+| bip_39_word_new_br_1 | birth |  
+| bip_39_word_new_br_10 | birth<br>element<br>ahead<br>laptop<br>modify<br>palace<br>thunder<br>intact<br>remain<br>nerve |  
+| bip_39_word_new_br_11 | birth<br>element<br>ahead<br>laptop<br>modify<br>palace<br>thunder<br>intact<br>remain<br>nerve<br>lunch |  
+| bip_39_word_new_br_12 | birth<br>element<br>ahead<br>laptop<br>modify<br>palace<br>thunder<br>intact<br>remain<br>nerve<br>lunch<br>ability |  
+| bip_39_word_new_br_2 | birth<br>element |  
+| bip_39_word_new_br_3 | birth<br>element<br>ahead |  
+| bip_39_word_new_br_4 | birth<br>element<br>ahead<br>laptop |  
+| bip_39_word_new_br_5 | birth<br>element<br>ahead<br>laptop<br>modify |  
+| bip_39_word_new_br_6 | birth<br>element<br>ahead<br>laptop<br>modify<br>palace |  
+| bip_39_word_new_br_7 | birth<br>element<br>ahead<br>laptop<br>modify<br>palace<br>thunder |  
+| bip_39_word_new_br_8 | birth<br>element<br>ahead<br>laptop<br>modify<br>palace<br>thunder<br>intact |  
+| bip_39_word_new_br_9 | birth<br>element<br>ahead<br>laptop<br>modify<br>palace<br>thunder<br>intact<br>remain |  
+| bip_39_word_new_line_1 | birth |  
+| bip_39_word_new_line_10 | birth
 element
 ahead
 laptop
@@ -55,7 +55,7 @@ thunder
 intact
 remain
 nerve |  
-| bip_39_word_new_line11 | birth
+| bip_39_word_new_line_11 | birth
 element
 ahead
 laptop
@@ -66,7 +66,7 @@ intact
 remain
 nerve
 lunch |  
-| bip_39_word_new_line12 | birth
+| bip_39_word_new_line_12 | birth
 element
 ahead
 laptop
@@ -78,34 +78,34 @@ remain
 nerve
 lunch
 ability |  
-| bip_39_word_new_line2 | birth
+| bip_39_word_new_line_2 | birth
 element |  
-| bip_39_word_new_line3 | birth
+| bip_39_word_new_line_3 | birth
 element
 ahead |  
-| bip_39_word_new_line4 | birth
+| bip_39_word_new_line_4 | birth
 element
 ahead
 laptop |  
-| bip_39_word_new_line5 | birth
+| bip_39_word_new_line_5 | birth
 element
 ahead
 laptop
 modify |  
-| bip_39_word_new_line6 | birth
+| bip_39_word_new_line_6 | birth
 element
 ahead
 laptop
 modify
 palace |  
-| bip_39_word_new_line7 | birth
+| bip_39_word_new_line_7 | birth
 element
 ahead
 laptop
 modify
 palace
 thunder |  
-| bip_39_word_new_line8 | birth
+| bip_39_word_new_line_8 | birth
 element
 ahead
 laptop
@@ -113,7 +113,7 @@ modify
 palace
 thunder
 intact |  
-| bip_39_word_new_line9 | birth
+| bip_39_word_new_line_9 | birth
 element
 ahead
 laptop

@@ -1,17 +1,17 @@
-bip_39_word_new_br1: 'off'
-bip_39_word_new_br10: off<br>auto<br>sad<br>bleak<br>inspire<br>leg<br>cheese<br>cave<br>roof<br>charge
-bip_39_word_new_br11: off<br>auto<br>sad<br>bleak<br>inspire<br>leg<br>cheese<br>cave<br>roof<br>charge<br>embark
-bip_39_word_new_br12: off<br>auto<br>sad<br>bleak<br>inspire<br>leg<br>cheese<br>cave<br>roof<br>charge<br>embark<br>apart
-bip_39_word_new_br2: off<br>auto
-bip_39_word_new_br3: off<br>auto<br>sad
-bip_39_word_new_br4: off<br>auto<br>sad<br>bleak
-bip_39_word_new_br5: off<br>auto<br>sad<br>bleak<br>inspire
-bip_39_word_new_br6: off<br>auto<br>sad<br>bleak<br>inspire<br>leg
-bip_39_word_new_br7: off<br>auto<br>sad<br>bleak<br>inspire<br>leg<br>cheese
-bip_39_word_new_br8: off<br>auto<br>sad<br>bleak<br>inspire<br>leg<br>cheese<br>cave
-bip_39_word_new_br9: off<br>auto<br>sad<br>bleak<br>inspire<br>leg<br>cheese<br>cave<br>roof
-bip_39_word_new_line1: 'off'
-bip_39_word_new_line10: 'off
+bip_39_word_new_br_1: 'off'
+bip_39_word_new_br_10: off<br>auto<br>sad<br>bleak<br>inspire<br>leg<br>cheese<br>cave<br>roof<br>charge
+bip_39_word_new_br_11: off<br>auto<br>sad<br>bleak<br>inspire<br>leg<br>cheese<br>cave<br>roof<br>charge<br>embark
+bip_39_word_new_br_12: off<br>auto<br>sad<br>bleak<br>inspire<br>leg<br>cheese<br>cave<br>roof<br>charge<br>embark<br>apart
+bip_39_word_new_br_2: off<br>auto
+bip_39_word_new_br_3: off<br>auto<br>sad
+bip_39_word_new_br_4: off<br>auto<br>sad<br>bleak
+bip_39_word_new_br_5: off<br>auto<br>sad<br>bleak<br>inspire
+bip_39_word_new_br_6: off<br>auto<br>sad<br>bleak<br>inspire<br>leg
+bip_39_word_new_br_7: off<br>auto<br>sad<br>bleak<br>inspire<br>leg<br>cheese
+bip_39_word_new_br_8: off<br>auto<br>sad<br>bleak<br>inspire<br>leg<br>cheese<br>cave
+bip_39_word_new_br_9: off<br>auto<br>sad<br>bleak<br>inspire<br>leg<br>cheese<br>cave<br>roof
+bip_39_word_new_line_1: 'off'
+bip_39_word_new_line_10: 'off
 
   auto
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'off
   roof
 
   charge'
-bip_39_word_new_line11: 'off
+bip_39_word_new_line_11: 'off
 
   auto
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'off
   charge
 
   embark'
-bip_39_word_new_line12: 'off
+bip_39_word_new_line_12: 'off
 
   auto
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'off
   embark
 
   apart'
-bip_39_word_new_line2: 'off
+bip_39_word_new_line_2: 'off
 
   auto'
-bip_39_word_new_line3: 'off
+bip_39_word_new_line_3: 'off
 
   auto
 
   sad'
-bip_39_word_new_line4: 'off
+bip_39_word_new_line_4: 'off
 
   auto
 
   sad
 
   bleak'
-bip_39_word_new_line5: 'off
+bip_39_word_new_line_5: 'off
 
   auto
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'off
   bleak
 
   inspire'
-bip_39_word_new_line6: 'off
+bip_39_word_new_line_6: 'off
 
   auto
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'off
   inspire
 
   leg'
-bip_39_word_new_line7: 'off
+bip_39_word_new_line_7: 'off
 
   auto
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'off
   leg
 
   cheese'
-bip_39_word_new_line8: 'off
+bip_39_word_new_line_8: 'off
 
   auto
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'off
   cheese
 
   cave'
-bip_39_word_new_line9: 'off
+bip_39_word_new_line_9: 'off
 
   auto
 

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cruel |  
-| bip_39_word_new_br10 | cruel<br>essence<br>educate<br>gossip<br>trick<br>paddle<br>double<br>phone<br>south<br>consider |  
-| bip_39_word_new_br11 | cruel<br>essence<br>educate<br>gossip<br>trick<br>paddle<br>double<br>phone<br>south<br>consider<br>awful |  
-| bip_39_word_new_br12 | cruel<br>essence<br>educate<br>gossip<br>trick<br>paddle<br>double<br>phone<br>south<br>consider<br>awful<br>acquire |  
-| bip_39_word_new_br2 | cruel<br>essence |  
-| bip_39_word_new_br3 | cruel<br>essence<br>educate |  
-| bip_39_word_new_br4 | cruel<br>essence<br>educate<br>gossip |  
-| bip_39_word_new_br5 | cruel<br>essence<br>educate<br>gossip<br>trick |  
-| bip_39_word_new_br6 | cruel<br>essence<br>educate<br>gossip<br>trick<br>paddle |  
-| bip_39_word_new_br7 | cruel<br>essence<br>educate<br>gossip<br>trick<br>paddle<br>double |  
-| bip_39_word_new_br8 | cruel<br>essence<br>educate<br>gossip<br>trick<br>paddle<br>double<br>phone |  
-| bip_39_word_new_br9 | cruel<br>essence<br>educate<br>gossip<br>trick<br>paddle<br>double<br>phone<br>south |  
-| bip_39_word_new_line1 | cruel |  
-| bip_39_word_new_line10 | cruel
+| bip_39_word_new_br_1 | cruel |  
+| bip_39_word_new_br_10 | cruel<br>essence<br>educate<br>gossip<br>trick<br>paddle<br>double<br>phone<br>south<br>consider |  
+| bip_39_word_new_br_11 | cruel<br>essence<br>educate<br>gossip<br>trick<br>paddle<br>double<br>phone<br>south<br>consider<br>awful |  
+| bip_39_word_new_br_12 | cruel<br>essence<br>educate<br>gossip<br>trick<br>paddle<br>double<br>phone<br>south<br>consider<br>awful<br>acquire |  
+| bip_39_word_new_br_2 | cruel<br>essence |  
+| bip_39_word_new_br_3 | cruel<br>essence<br>educate |  
+| bip_39_word_new_br_4 | cruel<br>essence<br>educate<br>gossip |  
+| bip_39_word_new_br_5 | cruel<br>essence<br>educate<br>gossip<br>trick |  
+| bip_39_word_new_br_6 | cruel<br>essence<br>educate<br>gossip<br>trick<br>paddle |  
+| bip_39_word_new_br_7 | cruel<br>essence<br>educate<br>gossip<br>trick<br>paddle<br>double |  
+| bip_39_word_new_br_8 | cruel<br>essence<br>educate<br>gossip<br>trick<br>paddle<br>double<br>phone |  
+| bip_39_word_new_br_9 | cruel<br>essence<br>educate<br>gossip<br>trick<br>paddle<br>double<br>phone<br>south |  
+| bip_39_word_new_line_1 | cruel |  
+| bip_39_word_new_line_10 | cruel
 essence
 educate
 gossip
@@ -55,7 +55,7 @@ double
 phone
 south
 consider |  
-| bip_39_word_new_line11 | cruel
+| bip_39_word_new_line_11 | cruel
 essence
 educate
 gossip
@@ -66,7 +66,7 @@ phone
 south
 consider
 awful |  
-| bip_39_word_new_line12 | cruel
+| bip_39_word_new_line_12 | cruel
 essence
 educate
 gossip
@@ -78,34 +78,34 @@ south
 consider
 awful
 acquire |  
-| bip_39_word_new_line2 | cruel
+| bip_39_word_new_line_2 | cruel
 essence |  
-| bip_39_word_new_line3 | cruel
+| bip_39_word_new_line_3 | cruel
 essence
 educate |  
-| bip_39_word_new_line4 | cruel
+| bip_39_word_new_line_4 | cruel
 essence
 educate
 gossip |  
-| bip_39_word_new_line5 | cruel
+| bip_39_word_new_line_5 | cruel
 essence
 educate
 gossip
 trick |  
-| bip_39_word_new_line6 | cruel
+| bip_39_word_new_line_6 | cruel
 essence
 educate
 gossip
 trick
 paddle |  
-| bip_39_word_new_line7 | cruel
+| bip_39_word_new_line_7 | cruel
 essence
 educate
 gossip
 trick
 paddle
 double |  
-| bip_39_word_new_line8 | cruel
+| bip_39_word_new_line_8 | cruel
 essence
 educate
 gossip
@@ -113,7 +113,7 @@ trick
 paddle
 double
 phone |  
-| bip_39_word_new_line9 | cruel
+| bip_39_word_new_line_9 | cruel
 essence
 educate
 gossip

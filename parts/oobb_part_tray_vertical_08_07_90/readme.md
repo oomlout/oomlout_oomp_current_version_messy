@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | safe |  
-| bip_39_word_new_br10 | safe<br>elephant<br>fall<br>flight<br>cheese<br>heavy<br>century<br>exile<br>make<br>stove |  
-| bip_39_word_new_br11 | safe<br>elephant<br>fall<br>flight<br>cheese<br>heavy<br>century<br>exile<br>make<br>stove<br>devote |  
-| bip_39_word_new_br12 | safe<br>elephant<br>fall<br>flight<br>cheese<br>heavy<br>century<br>exile<br>make<br>stove<br>devote<br>absorb |  
-| bip_39_word_new_br2 | safe<br>elephant |  
-| bip_39_word_new_br3 | safe<br>elephant<br>fall |  
-| bip_39_word_new_br4 | safe<br>elephant<br>fall<br>flight |  
-| bip_39_word_new_br5 | safe<br>elephant<br>fall<br>flight<br>cheese |  
-| bip_39_word_new_br6 | safe<br>elephant<br>fall<br>flight<br>cheese<br>heavy |  
-| bip_39_word_new_br7 | safe<br>elephant<br>fall<br>flight<br>cheese<br>heavy<br>century |  
-| bip_39_word_new_br8 | safe<br>elephant<br>fall<br>flight<br>cheese<br>heavy<br>century<br>exile |  
-| bip_39_word_new_br9 | safe<br>elephant<br>fall<br>flight<br>cheese<br>heavy<br>century<br>exile<br>make |  
-| bip_39_word_new_line1 | safe |  
-| bip_39_word_new_line10 | safe
+| bip_39_word_new_br_1 | safe |  
+| bip_39_word_new_br_10 | safe<br>elephant<br>fall<br>flight<br>cheese<br>heavy<br>century<br>exile<br>make<br>stove |  
+| bip_39_word_new_br_11 | safe<br>elephant<br>fall<br>flight<br>cheese<br>heavy<br>century<br>exile<br>make<br>stove<br>devote |  
+| bip_39_word_new_br_12 | safe<br>elephant<br>fall<br>flight<br>cheese<br>heavy<br>century<br>exile<br>make<br>stove<br>devote<br>absorb |  
+| bip_39_word_new_br_2 | safe<br>elephant |  
+| bip_39_word_new_br_3 | safe<br>elephant<br>fall |  
+| bip_39_word_new_br_4 | safe<br>elephant<br>fall<br>flight |  
+| bip_39_word_new_br_5 | safe<br>elephant<br>fall<br>flight<br>cheese |  
+| bip_39_word_new_br_6 | safe<br>elephant<br>fall<br>flight<br>cheese<br>heavy |  
+| bip_39_word_new_br_7 | safe<br>elephant<br>fall<br>flight<br>cheese<br>heavy<br>century |  
+| bip_39_word_new_br_8 | safe<br>elephant<br>fall<br>flight<br>cheese<br>heavy<br>century<br>exile |  
+| bip_39_word_new_br_9 | safe<br>elephant<br>fall<br>flight<br>cheese<br>heavy<br>century<br>exile<br>make |  
+| bip_39_word_new_line_1 | safe |  
+| bip_39_word_new_line_10 | safe
 elephant
 fall
 flight
@@ -55,7 +55,7 @@ century
 exile
 make
 stove |  
-| bip_39_word_new_line11 | safe
+| bip_39_word_new_line_11 | safe
 elephant
 fall
 flight
@@ -66,7 +66,7 @@ exile
 make
 stove
 devote |  
-| bip_39_word_new_line12 | safe
+| bip_39_word_new_line_12 | safe
 elephant
 fall
 flight
@@ -78,34 +78,34 @@ make
 stove
 devote
 absorb |  
-| bip_39_word_new_line2 | safe
+| bip_39_word_new_line_2 | safe
 elephant |  
-| bip_39_word_new_line3 | safe
+| bip_39_word_new_line_3 | safe
 elephant
 fall |  
-| bip_39_word_new_line4 | safe
+| bip_39_word_new_line_4 | safe
 elephant
 fall
 flight |  
-| bip_39_word_new_line5 | safe
+| bip_39_word_new_line_5 | safe
 elephant
 fall
 flight
 cheese |  
-| bip_39_word_new_line6 | safe
+| bip_39_word_new_line_6 | safe
 elephant
 fall
 flight
 cheese
 heavy |  
-| bip_39_word_new_line7 | safe
+| bip_39_word_new_line_7 | safe
 elephant
 fall
 flight
 cheese
 heavy
 century |  
-| bip_39_word_new_line8 | safe
+| bip_39_word_new_line_8 | safe
 elephant
 fall
 flight
@@ -113,7 +113,7 @@ cheese
 heavy
 century
 exile |  
-| bip_39_word_new_line9 | safe
+| bip_39_word_new_line_9 | safe
 elephant
 fall
 flight

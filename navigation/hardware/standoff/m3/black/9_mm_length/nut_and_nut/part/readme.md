@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | give |  
-| bip_39_word_new_br10 | give<br>student<br>glad<br>page<br>leg<br>eight<br>note<br>vault<br>host<br>domain |  
-| bip_39_word_new_br11 | give<br>student<br>glad<br>page<br>leg<br>eight<br>note<br>vault<br>host<br>domain<br>fashion |  
-| bip_39_word_new_br12 | give<br>student<br>glad<br>page<br>leg<br>eight<br>note<br>vault<br>host<br>domain<br>fashion<br>assist |  
-| bip_39_word_new_br2 | give<br>student |  
-| bip_39_word_new_br3 | give<br>student<br>glad |  
-| bip_39_word_new_br4 | give<br>student<br>glad<br>page |  
-| bip_39_word_new_br5 | give<br>student<br>glad<br>page<br>leg |  
-| bip_39_word_new_br6 | give<br>student<br>glad<br>page<br>leg<br>eight |  
-| bip_39_word_new_br7 | give<br>student<br>glad<br>page<br>leg<br>eight<br>note |  
-| bip_39_word_new_br8 | give<br>student<br>glad<br>page<br>leg<br>eight<br>note<br>vault |  
-| bip_39_word_new_br9 | give<br>student<br>glad<br>page<br>leg<br>eight<br>note<br>vault<br>host |  
-| bip_39_word_new_line1 | give |  
-| bip_39_word_new_line10 | give
+| bip_39_word_new_br_1 | give |  
+| bip_39_word_new_br_10 | give<br>student<br>glad<br>page<br>leg<br>eight<br>note<br>vault<br>host<br>domain |  
+| bip_39_word_new_br_11 | give<br>student<br>glad<br>page<br>leg<br>eight<br>note<br>vault<br>host<br>domain<br>fashion |  
+| bip_39_word_new_br_12 | give<br>student<br>glad<br>page<br>leg<br>eight<br>note<br>vault<br>host<br>domain<br>fashion<br>assist |  
+| bip_39_word_new_br_2 | give<br>student |  
+| bip_39_word_new_br_3 | give<br>student<br>glad |  
+| bip_39_word_new_br_4 | give<br>student<br>glad<br>page |  
+| bip_39_word_new_br_5 | give<br>student<br>glad<br>page<br>leg |  
+| bip_39_word_new_br_6 | give<br>student<br>glad<br>page<br>leg<br>eight |  
+| bip_39_word_new_br_7 | give<br>student<br>glad<br>page<br>leg<br>eight<br>note |  
+| bip_39_word_new_br_8 | give<br>student<br>glad<br>page<br>leg<br>eight<br>note<br>vault |  
+| bip_39_word_new_br_9 | give<br>student<br>glad<br>page<br>leg<br>eight<br>note<br>vault<br>host |  
+| bip_39_word_new_line_1 | give |  
+| bip_39_word_new_line_10 | give
 student
 glad
 page
@@ -55,7 +55,7 @@ note
 vault
 host
 domain |  
-| bip_39_word_new_line11 | give
+| bip_39_word_new_line_11 | give
 student
 glad
 page
@@ -66,7 +66,7 @@ vault
 host
 domain
 fashion |  
-| bip_39_word_new_line12 | give
+| bip_39_word_new_line_12 | give
 student
 glad
 page
@@ -78,34 +78,34 @@ host
 domain
 fashion
 assist |  
-| bip_39_word_new_line2 | give
+| bip_39_word_new_line_2 | give
 student |  
-| bip_39_word_new_line3 | give
+| bip_39_word_new_line_3 | give
 student
 glad |  
-| bip_39_word_new_line4 | give
+| bip_39_word_new_line_4 | give
 student
 glad
 page |  
-| bip_39_word_new_line5 | give
+| bip_39_word_new_line_5 | give
 student
 glad
 page
 leg |  
-| bip_39_word_new_line6 | give
+| bip_39_word_new_line_6 | give
 student
 glad
 page
 leg
 eight |  
-| bip_39_word_new_line7 | give
+| bip_39_word_new_line_7 | give
 student
 glad
 page
 leg
 eight
 note |  
-| bip_39_word_new_line8 | give
+| bip_39_word_new_line_8 | give
 student
 glad
 page
@@ -113,7 +113,7 @@ leg
 eight
 note
 vault |  
-| bip_39_word_new_line9 | give
+| bip_39_word_new_line_9 | give
 student
 glad
 page

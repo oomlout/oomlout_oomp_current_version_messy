@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | error |  
-| bip_39_word_new_br10 | error<br>junk<br>scene<br>subway<br>connect<br>lonely<br>burger<br>sentence<br>copper<br>drama |  
-| bip_39_word_new_br11 | error<br>junk<br>scene<br>subway<br>connect<br>lonely<br>burger<br>sentence<br>copper<br>drama<br>grit |  
-| bip_39_word_new_br12 | error<br>junk<br>scene<br>subway<br>connect<br>lonely<br>burger<br>sentence<br>copper<br>drama<br>grit<br>animal |  
-| bip_39_word_new_br2 | error<br>junk |  
-| bip_39_word_new_br3 | error<br>junk<br>scene |  
-| bip_39_word_new_br4 | error<br>junk<br>scene<br>subway |  
-| bip_39_word_new_br5 | error<br>junk<br>scene<br>subway<br>connect |  
-| bip_39_word_new_br6 | error<br>junk<br>scene<br>subway<br>connect<br>lonely |  
-| bip_39_word_new_br7 | error<br>junk<br>scene<br>subway<br>connect<br>lonely<br>burger |  
-| bip_39_word_new_br8 | error<br>junk<br>scene<br>subway<br>connect<br>lonely<br>burger<br>sentence |  
-| bip_39_word_new_br9 | error<br>junk<br>scene<br>subway<br>connect<br>lonely<br>burger<br>sentence<br>copper |  
-| bip_39_word_new_line1 | error |  
-| bip_39_word_new_line10 | error
+| bip_39_word_new_br_1 | error |  
+| bip_39_word_new_br_10 | error<br>junk<br>scene<br>subway<br>connect<br>lonely<br>burger<br>sentence<br>copper<br>drama |  
+| bip_39_word_new_br_11 | error<br>junk<br>scene<br>subway<br>connect<br>lonely<br>burger<br>sentence<br>copper<br>drama<br>grit |  
+| bip_39_word_new_br_12 | error<br>junk<br>scene<br>subway<br>connect<br>lonely<br>burger<br>sentence<br>copper<br>drama<br>grit<br>animal |  
+| bip_39_word_new_br_2 | error<br>junk |  
+| bip_39_word_new_br_3 | error<br>junk<br>scene |  
+| bip_39_word_new_br_4 | error<br>junk<br>scene<br>subway |  
+| bip_39_word_new_br_5 | error<br>junk<br>scene<br>subway<br>connect |  
+| bip_39_word_new_br_6 | error<br>junk<br>scene<br>subway<br>connect<br>lonely |  
+| bip_39_word_new_br_7 | error<br>junk<br>scene<br>subway<br>connect<br>lonely<br>burger |  
+| bip_39_word_new_br_8 | error<br>junk<br>scene<br>subway<br>connect<br>lonely<br>burger<br>sentence |  
+| bip_39_word_new_br_9 | error<br>junk<br>scene<br>subway<br>connect<br>lonely<br>burger<br>sentence<br>copper |  
+| bip_39_word_new_line_1 | error |  
+| bip_39_word_new_line_10 | error
 junk
 scene
 subway
@@ -55,7 +55,7 @@ burger
 sentence
 copper
 drama |  
-| bip_39_word_new_line11 | error
+| bip_39_word_new_line_11 | error
 junk
 scene
 subway
@@ -66,7 +66,7 @@ sentence
 copper
 drama
 grit |  
-| bip_39_word_new_line12 | error
+| bip_39_word_new_line_12 | error
 junk
 scene
 subway
@@ -78,34 +78,34 @@ copper
 drama
 grit
 animal |  
-| bip_39_word_new_line2 | error
+| bip_39_word_new_line_2 | error
 junk |  
-| bip_39_word_new_line3 | error
+| bip_39_word_new_line_3 | error
 junk
 scene |  
-| bip_39_word_new_line4 | error
+| bip_39_word_new_line_4 | error
 junk
 scene
 subway |  
-| bip_39_word_new_line5 | error
+| bip_39_word_new_line_5 | error
 junk
 scene
 subway
 connect |  
-| bip_39_word_new_line6 | error
+| bip_39_word_new_line_6 | error
 junk
 scene
 subway
 connect
 lonely |  
-| bip_39_word_new_line7 | error
+| bip_39_word_new_line_7 | error
 junk
 scene
 subway
 connect
 lonely
 burger |  
-| bip_39_word_new_line8 | error
+| bip_39_word_new_line_8 | error
 junk
 scene
 subway
@@ -113,7 +113,7 @@ connect
 lonely
 burger
 sentence |  
-| bip_39_word_new_line9 | error
+| bip_39_word_new_line_9 | error
 junk
 scene
 subway

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | enlist |  
-| bip_39_word_new_br10 | enlist<br>borrow<br>yard<br>glide<br>click<br>once<br>dwarf<br>donor<br>size<br>abandon |  
-| bip_39_word_new_br11 | enlist<br>borrow<br>yard<br>glide<br>click<br>once<br>dwarf<br>donor<br>size<br>abandon<br>shed |  
-| bip_39_word_new_br12 | enlist<br>borrow<br>yard<br>glide<br>click<br>once<br>dwarf<br>donor<br>size<br>abandon<br>shed<br>avocado |  
-| bip_39_word_new_br2 | enlist<br>borrow |  
-| bip_39_word_new_br3 | enlist<br>borrow<br>yard |  
-| bip_39_word_new_br4 | enlist<br>borrow<br>yard<br>glide |  
-| bip_39_word_new_br5 | enlist<br>borrow<br>yard<br>glide<br>click |  
-| bip_39_word_new_br6 | enlist<br>borrow<br>yard<br>glide<br>click<br>once |  
-| bip_39_word_new_br7 | enlist<br>borrow<br>yard<br>glide<br>click<br>once<br>dwarf |  
-| bip_39_word_new_br8 | enlist<br>borrow<br>yard<br>glide<br>click<br>once<br>dwarf<br>donor |  
-| bip_39_word_new_br9 | enlist<br>borrow<br>yard<br>glide<br>click<br>once<br>dwarf<br>donor<br>size |  
-| bip_39_word_new_line1 | enlist |  
-| bip_39_word_new_line10 | enlist
+| bip_39_word_new_br_1 | enlist |  
+| bip_39_word_new_br_10 | enlist<br>borrow<br>yard<br>glide<br>click<br>once<br>dwarf<br>donor<br>size<br>abandon |  
+| bip_39_word_new_br_11 | enlist<br>borrow<br>yard<br>glide<br>click<br>once<br>dwarf<br>donor<br>size<br>abandon<br>shed |  
+| bip_39_word_new_br_12 | enlist<br>borrow<br>yard<br>glide<br>click<br>once<br>dwarf<br>donor<br>size<br>abandon<br>shed<br>avocado |  
+| bip_39_word_new_br_2 | enlist<br>borrow |  
+| bip_39_word_new_br_3 | enlist<br>borrow<br>yard |  
+| bip_39_word_new_br_4 | enlist<br>borrow<br>yard<br>glide |  
+| bip_39_word_new_br_5 | enlist<br>borrow<br>yard<br>glide<br>click |  
+| bip_39_word_new_br_6 | enlist<br>borrow<br>yard<br>glide<br>click<br>once |  
+| bip_39_word_new_br_7 | enlist<br>borrow<br>yard<br>glide<br>click<br>once<br>dwarf |  
+| bip_39_word_new_br_8 | enlist<br>borrow<br>yard<br>glide<br>click<br>once<br>dwarf<br>donor |  
+| bip_39_word_new_br_9 | enlist<br>borrow<br>yard<br>glide<br>click<br>once<br>dwarf<br>donor<br>size |  
+| bip_39_word_new_line_1 | enlist |  
+| bip_39_word_new_line_10 | enlist
 borrow
 yard
 glide
@@ -55,7 +55,7 @@ dwarf
 donor
 size
 abandon |  
-| bip_39_word_new_line11 | enlist
+| bip_39_word_new_line_11 | enlist
 borrow
 yard
 glide
@@ -66,7 +66,7 @@ donor
 size
 abandon
 shed |  
-| bip_39_word_new_line12 | enlist
+| bip_39_word_new_line_12 | enlist
 borrow
 yard
 glide
@@ -78,34 +78,34 @@ size
 abandon
 shed
 avocado |  
-| bip_39_word_new_line2 | enlist
+| bip_39_word_new_line_2 | enlist
 borrow |  
-| bip_39_word_new_line3 | enlist
+| bip_39_word_new_line_3 | enlist
 borrow
 yard |  
-| bip_39_word_new_line4 | enlist
+| bip_39_word_new_line_4 | enlist
 borrow
 yard
 glide |  
-| bip_39_word_new_line5 | enlist
+| bip_39_word_new_line_5 | enlist
 borrow
 yard
 glide
 click |  
-| bip_39_word_new_line6 | enlist
+| bip_39_word_new_line_6 | enlist
 borrow
 yard
 glide
 click
 once |  
-| bip_39_word_new_line7 | enlist
+| bip_39_word_new_line_7 | enlist
 borrow
 yard
 glide
 click
 once
 dwarf |  
-| bip_39_word_new_line8 | enlist
+| bip_39_word_new_line_8 | enlist
 borrow
 yard
 glide
@@ -113,7 +113,7 @@ click
 once
 dwarf
 donor |  
-| bip_39_word_new_line9 | enlist
+| bip_39_word_new_line_9 | enlist
 borrow
 yard
 glide

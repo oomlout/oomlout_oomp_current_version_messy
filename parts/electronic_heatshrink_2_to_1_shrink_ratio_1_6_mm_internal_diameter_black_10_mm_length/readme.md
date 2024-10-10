@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | leave |  
-| bip_39_word_new_br10 | leave<br>wisdom<br>first<br>dry<br>trash<br>genre<br>lumber<br>ball<br>vote<br>tiger |  
-| bip_39_word_new_br11 | leave<br>wisdom<br>first<br>dry<br>trash<br>genre<br>lumber<br>ball<br>vote<br>tiger<br>negative |  
-| bip_39_word_new_br12 | leave<br>wisdom<br>first<br>dry<br>trash<br>genre<br>lumber<br>ball<br>vote<br>tiger<br>negative<br>afraid |  
-| bip_39_word_new_br2 | leave<br>wisdom |  
-| bip_39_word_new_br3 | leave<br>wisdom<br>first |  
-| bip_39_word_new_br4 | leave<br>wisdom<br>first<br>dry |  
-| bip_39_word_new_br5 | leave<br>wisdom<br>first<br>dry<br>trash |  
-| bip_39_word_new_br6 | leave<br>wisdom<br>first<br>dry<br>trash<br>genre |  
-| bip_39_word_new_br7 | leave<br>wisdom<br>first<br>dry<br>trash<br>genre<br>lumber |  
-| bip_39_word_new_br8 | leave<br>wisdom<br>first<br>dry<br>trash<br>genre<br>lumber<br>ball |  
-| bip_39_word_new_br9 | leave<br>wisdom<br>first<br>dry<br>trash<br>genre<br>lumber<br>ball<br>vote |  
-| bip_39_word_new_line1 | leave |  
-| bip_39_word_new_line10 | leave
+| bip_39_word_new_br_1 | leave |  
+| bip_39_word_new_br_10 | leave<br>wisdom<br>first<br>dry<br>trash<br>genre<br>lumber<br>ball<br>vote<br>tiger |  
+| bip_39_word_new_br_11 | leave<br>wisdom<br>first<br>dry<br>trash<br>genre<br>lumber<br>ball<br>vote<br>tiger<br>negative |  
+| bip_39_word_new_br_12 | leave<br>wisdom<br>first<br>dry<br>trash<br>genre<br>lumber<br>ball<br>vote<br>tiger<br>negative<br>afraid |  
+| bip_39_word_new_br_2 | leave<br>wisdom |  
+| bip_39_word_new_br_3 | leave<br>wisdom<br>first |  
+| bip_39_word_new_br_4 | leave<br>wisdom<br>first<br>dry |  
+| bip_39_word_new_br_5 | leave<br>wisdom<br>first<br>dry<br>trash |  
+| bip_39_word_new_br_6 | leave<br>wisdom<br>first<br>dry<br>trash<br>genre |  
+| bip_39_word_new_br_7 | leave<br>wisdom<br>first<br>dry<br>trash<br>genre<br>lumber |  
+| bip_39_word_new_br_8 | leave<br>wisdom<br>first<br>dry<br>trash<br>genre<br>lumber<br>ball |  
+| bip_39_word_new_br_9 | leave<br>wisdom<br>first<br>dry<br>trash<br>genre<br>lumber<br>ball<br>vote |  
+| bip_39_word_new_line_1 | leave |  
+| bip_39_word_new_line_10 | leave
 wisdom
 first
 dry
@@ -55,7 +55,7 @@ lumber
 ball
 vote
 tiger |  
-| bip_39_word_new_line11 | leave
+| bip_39_word_new_line_11 | leave
 wisdom
 first
 dry
@@ -66,7 +66,7 @@ ball
 vote
 tiger
 negative |  
-| bip_39_word_new_line12 | leave
+| bip_39_word_new_line_12 | leave
 wisdom
 first
 dry
@@ -78,34 +78,34 @@ vote
 tiger
 negative
 afraid |  
-| bip_39_word_new_line2 | leave
+| bip_39_word_new_line_2 | leave
 wisdom |  
-| bip_39_word_new_line3 | leave
+| bip_39_word_new_line_3 | leave
 wisdom
 first |  
-| bip_39_word_new_line4 | leave
+| bip_39_word_new_line_4 | leave
 wisdom
 first
 dry |  
-| bip_39_word_new_line5 | leave
+| bip_39_word_new_line_5 | leave
 wisdom
 first
 dry
 trash |  
-| bip_39_word_new_line6 | leave
+| bip_39_word_new_line_6 | leave
 wisdom
 first
 dry
 trash
 genre |  
-| bip_39_word_new_line7 | leave
+| bip_39_word_new_line_7 | leave
 wisdom
 first
 dry
 trash
 genre
 lumber |  
-| bip_39_word_new_line8 | leave
+| bip_39_word_new_line_8 | leave
 wisdom
 first
 dry
@@ -113,7 +113,7 @@ trash
 genre
 lumber
 ball |  
-| bip_39_word_new_line9 | leave
+| bip_39_word_new_line_9 | leave
 wisdom
 first
 dry

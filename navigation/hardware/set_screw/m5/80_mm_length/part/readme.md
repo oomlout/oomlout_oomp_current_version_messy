@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pill |  
-| bip_39_word_new_br10 | pill<br>crack<br>practice<br>emerge<br>equip<br>skate<br>empty<br>dinosaur<br>joy<br>pride |  
-| bip_39_word_new_br11 | pill<br>crack<br>practice<br>emerge<br>equip<br>skate<br>empty<br>dinosaur<br>joy<br>pride<br>rare |  
-| bip_39_word_new_br12 | pill<br>crack<br>practice<br>emerge<br>equip<br>skate<br>empty<br>dinosaur<br>joy<br>pride<br>rare<br>annual |  
-| bip_39_word_new_br2 | pill<br>crack |  
-| bip_39_word_new_br3 | pill<br>crack<br>practice |  
-| bip_39_word_new_br4 | pill<br>crack<br>practice<br>emerge |  
-| bip_39_word_new_br5 | pill<br>crack<br>practice<br>emerge<br>equip |  
-| bip_39_word_new_br6 | pill<br>crack<br>practice<br>emerge<br>equip<br>skate |  
-| bip_39_word_new_br7 | pill<br>crack<br>practice<br>emerge<br>equip<br>skate<br>empty |  
-| bip_39_word_new_br8 | pill<br>crack<br>practice<br>emerge<br>equip<br>skate<br>empty<br>dinosaur |  
-| bip_39_word_new_br9 | pill<br>crack<br>practice<br>emerge<br>equip<br>skate<br>empty<br>dinosaur<br>joy |  
-| bip_39_word_new_line1 | pill |  
-| bip_39_word_new_line10 | pill
+| bip_39_word_new_br_1 | pill |  
+| bip_39_word_new_br_10 | pill<br>crack<br>practice<br>emerge<br>equip<br>skate<br>empty<br>dinosaur<br>joy<br>pride |  
+| bip_39_word_new_br_11 | pill<br>crack<br>practice<br>emerge<br>equip<br>skate<br>empty<br>dinosaur<br>joy<br>pride<br>rare |  
+| bip_39_word_new_br_12 | pill<br>crack<br>practice<br>emerge<br>equip<br>skate<br>empty<br>dinosaur<br>joy<br>pride<br>rare<br>annual |  
+| bip_39_word_new_br_2 | pill<br>crack |  
+| bip_39_word_new_br_3 | pill<br>crack<br>practice |  
+| bip_39_word_new_br_4 | pill<br>crack<br>practice<br>emerge |  
+| bip_39_word_new_br_5 | pill<br>crack<br>practice<br>emerge<br>equip |  
+| bip_39_word_new_br_6 | pill<br>crack<br>practice<br>emerge<br>equip<br>skate |  
+| bip_39_word_new_br_7 | pill<br>crack<br>practice<br>emerge<br>equip<br>skate<br>empty |  
+| bip_39_word_new_br_8 | pill<br>crack<br>practice<br>emerge<br>equip<br>skate<br>empty<br>dinosaur |  
+| bip_39_word_new_br_9 | pill<br>crack<br>practice<br>emerge<br>equip<br>skate<br>empty<br>dinosaur<br>joy |  
+| bip_39_word_new_line_1 | pill |  
+| bip_39_word_new_line_10 | pill
 crack
 practice
 emerge
@@ -55,7 +55,7 @@ empty
 dinosaur
 joy
 pride |  
-| bip_39_word_new_line11 | pill
+| bip_39_word_new_line_11 | pill
 crack
 practice
 emerge
@@ -66,7 +66,7 @@ dinosaur
 joy
 pride
 rare |  
-| bip_39_word_new_line12 | pill
+| bip_39_word_new_line_12 | pill
 crack
 practice
 emerge
@@ -78,34 +78,34 @@ joy
 pride
 rare
 annual |  
-| bip_39_word_new_line2 | pill
+| bip_39_word_new_line_2 | pill
 crack |  
-| bip_39_word_new_line3 | pill
+| bip_39_word_new_line_3 | pill
 crack
 practice |  
-| bip_39_word_new_line4 | pill
+| bip_39_word_new_line_4 | pill
 crack
 practice
 emerge |  
-| bip_39_word_new_line5 | pill
+| bip_39_word_new_line_5 | pill
 crack
 practice
 emerge
 equip |  
-| bip_39_word_new_line6 | pill
+| bip_39_word_new_line_6 | pill
 crack
 practice
 emerge
 equip
 skate |  
-| bip_39_word_new_line7 | pill
+| bip_39_word_new_line_7 | pill
 crack
 practice
 emerge
 equip
 skate
 empty |  
-| bip_39_word_new_line8 | pill
+| bip_39_word_new_line_8 | pill
 crack
 practice
 emerge
@@ -113,7 +113,7 @@ equip
 skate
 empty
 dinosaur |  
-| bip_39_word_new_line9 | pill
+| bip_39_word_new_line_9 | pill
 crack
 practice
 emerge

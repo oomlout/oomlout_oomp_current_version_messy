@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | armor |  
-| bip_39_word_new_br10 | armor<br>fine<br>trust<br>drop<br>human<br>fashion<br>scorpion<br>daughter<br>essence<br>aspect |  
-| bip_39_word_new_br11 | armor<br>fine<br>trust<br>drop<br>human<br>fashion<br>scorpion<br>daughter<br>essence<br>aspect<br>theme |  
-| bip_39_word_new_br12 | armor<br>fine<br>trust<br>drop<br>human<br>fashion<br>scorpion<br>daughter<br>essence<br>aspect<br>theme<br>accuse |  
-| bip_39_word_new_br2 | armor<br>fine |  
-| bip_39_word_new_br3 | armor<br>fine<br>trust |  
-| bip_39_word_new_br4 | armor<br>fine<br>trust<br>drop |  
-| bip_39_word_new_br5 | armor<br>fine<br>trust<br>drop<br>human |  
-| bip_39_word_new_br6 | armor<br>fine<br>trust<br>drop<br>human<br>fashion |  
-| bip_39_word_new_br7 | armor<br>fine<br>trust<br>drop<br>human<br>fashion<br>scorpion |  
-| bip_39_word_new_br8 | armor<br>fine<br>trust<br>drop<br>human<br>fashion<br>scorpion<br>daughter |  
-| bip_39_word_new_br9 | armor<br>fine<br>trust<br>drop<br>human<br>fashion<br>scorpion<br>daughter<br>essence |  
-| bip_39_word_new_line1 | armor |  
-| bip_39_word_new_line10 | armor
+| bip_39_word_new_br_1 | armor |  
+| bip_39_word_new_br_10 | armor<br>fine<br>trust<br>drop<br>human<br>fashion<br>scorpion<br>daughter<br>essence<br>aspect |  
+| bip_39_word_new_br_11 | armor<br>fine<br>trust<br>drop<br>human<br>fashion<br>scorpion<br>daughter<br>essence<br>aspect<br>theme |  
+| bip_39_word_new_br_12 | armor<br>fine<br>trust<br>drop<br>human<br>fashion<br>scorpion<br>daughter<br>essence<br>aspect<br>theme<br>accuse |  
+| bip_39_word_new_br_2 | armor<br>fine |  
+| bip_39_word_new_br_3 | armor<br>fine<br>trust |  
+| bip_39_word_new_br_4 | armor<br>fine<br>trust<br>drop |  
+| bip_39_word_new_br_5 | armor<br>fine<br>trust<br>drop<br>human |  
+| bip_39_word_new_br_6 | armor<br>fine<br>trust<br>drop<br>human<br>fashion |  
+| bip_39_word_new_br_7 | armor<br>fine<br>trust<br>drop<br>human<br>fashion<br>scorpion |  
+| bip_39_word_new_br_8 | armor<br>fine<br>trust<br>drop<br>human<br>fashion<br>scorpion<br>daughter |  
+| bip_39_word_new_br_9 | armor<br>fine<br>trust<br>drop<br>human<br>fashion<br>scorpion<br>daughter<br>essence |  
+| bip_39_word_new_line_1 | armor |  
+| bip_39_word_new_line_10 | armor
 fine
 trust
 drop
@@ -55,7 +55,7 @@ scorpion
 daughter
 essence
 aspect |  
-| bip_39_word_new_line11 | armor
+| bip_39_word_new_line_11 | armor
 fine
 trust
 drop
@@ -66,7 +66,7 @@ daughter
 essence
 aspect
 theme |  
-| bip_39_word_new_line12 | armor
+| bip_39_word_new_line_12 | armor
 fine
 trust
 drop
@@ -78,34 +78,34 @@ essence
 aspect
 theme
 accuse |  
-| bip_39_word_new_line2 | armor
+| bip_39_word_new_line_2 | armor
 fine |  
-| bip_39_word_new_line3 | armor
+| bip_39_word_new_line_3 | armor
 fine
 trust |  
-| bip_39_word_new_line4 | armor
+| bip_39_word_new_line_4 | armor
 fine
 trust
 drop |  
-| bip_39_word_new_line5 | armor
+| bip_39_word_new_line_5 | armor
 fine
 trust
 drop
 human |  
-| bip_39_word_new_line6 | armor
+| bip_39_word_new_line_6 | armor
 fine
 trust
 drop
 human
 fashion |  
-| bip_39_word_new_line7 | armor
+| bip_39_word_new_line_7 | armor
 fine
 trust
 drop
 human
 fashion
 scorpion |  
-| bip_39_word_new_line8 | armor
+| bip_39_word_new_line_8 | armor
 fine
 trust
 drop
@@ -113,7 +113,7 @@ human
 fashion
 scorpion
 daughter |  
-| bip_39_word_new_line9 | armor
+| bip_39_word_new_line_9 | armor
 fine
 trust
 drop

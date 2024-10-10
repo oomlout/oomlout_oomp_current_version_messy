@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | endorse |  
-| bip_39_word_new_br10 | endorse<br>wear<br>doctor<br>solution<br>rigid<br>rifle<br>apology<br>shadow<br>real<br>fall |  
-| bip_39_word_new_br11 | endorse<br>wear<br>doctor<br>solution<br>rigid<br>rifle<br>apology<br>shadow<br>real<br>fall<br>tongue |  
-| bip_39_word_new_br12 | endorse<br>wear<br>doctor<br>solution<br>rigid<br>rifle<br>apology<br>shadow<br>real<br>fall<br>tongue<br>avocado |  
-| bip_39_word_new_br2 | endorse<br>wear |  
-| bip_39_word_new_br3 | endorse<br>wear<br>doctor |  
-| bip_39_word_new_br4 | endorse<br>wear<br>doctor<br>solution |  
-| bip_39_word_new_br5 | endorse<br>wear<br>doctor<br>solution<br>rigid |  
-| bip_39_word_new_br6 | endorse<br>wear<br>doctor<br>solution<br>rigid<br>rifle |  
-| bip_39_word_new_br7 | endorse<br>wear<br>doctor<br>solution<br>rigid<br>rifle<br>apology |  
-| bip_39_word_new_br8 | endorse<br>wear<br>doctor<br>solution<br>rigid<br>rifle<br>apology<br>shadow |  
-| bip_39_word_new_br9 | endorse<br>wear<br>doctor<br>solution<br>rigid<br>rifle<br>apology<br>shadow<br>real |  
-| bip_39_word_new_line1 | endorse |  
-| bip_39_word_new_line10 | endorse
+| bip_39_word_new_br_1 | endorse |  
+| bip_39_word_new_br_10 | endorse<br>wear<br>doctor<br>solution<br>rigid<br>rifle<br>apology<br>shadow<br>real<br>fall |  
+| bip_39_word_new_br_11 | endorse<br>wear<br>doctor<br>solution<br>rigid<br>rifle<br>apology<br>shadow<br>real<br>fall<br>tongue |  
+| bip_39_word_new_br_12 | endorse<br>wear<br>doctor<br>solution<br>rigid<br>rifle<br>apology<br>shadow<br>real<br>fall<br>tongue<br>avocado |  
+| bip_39_word_new_br_2 | endorse<br>wear |  
+| bip_39_word_new_br_3 | endorse<br>wear<br>doctor |  
+| bip_39_word_new_br_4 | endorse<br>wear<br>doctor<br>solution |  
+| bip_39_word_new_br_5 | endorse<br>wear<br>doctor<br>solution<br>rigid |  
+| bip_39_word_new_br_6 | endorse<br>wear<br>doctor<br>solution<br>rigid<br>rifle |  
+| bip_39_word_new_br_7 | endorse<br>wear<br>doctor<br>solution<br>rigid<br>rifle<br>apology |  
+| bip_39_word_new_br_8 | endorse<br>wear<br>doctor<br>solution<br>rigid<br>rifle<br>apology<br>shadow |  
+| bip_39_word_new_br_9 | endorse<br>wear<br>doctor<br>solution<br>rigid<br>rifle<br>apology<br>shadow<br>real |  
+| bip_39_word_new_line_1 | endorse |  
+| bip_39_word_new_line_10 | endorse
 wear
 doctor
 solution
@@ -55,7 +55,7 @@ apology
 shadow
 real
 fall |  
-| bip_39_word_new_line11 | endorse
+| bip_39_word_new_line_11 | endorse
 wear
 doctor
 solution
@@ -66,7 +66,7 @@ shadow
 real
 fall
 tongue |  
-| bip_39_word_new_line12 | endorse
+| bip_39_word_new_line_12 | endorse
 wear
 doctor
 solution
@@ -78,34 +78,34 @@ real
 fall
 tongue
 avocado |  
-| bip_39_word_new_line2 | endorse
+| bip_39_word_new_line_2 | endorse
 wear |  
-| bip_39_word_new_line3 | endorse
+| bip_39_word_new_line_3 | endorse
 wear
 doctor |  
-| bip_39_word_new_line4 | endorse
+| bip_39_word_new_line_4 | endorse
 wear
 doctor
 solution |  
-| bip_39_word_new_line5 | endorse
+| bip_39_word_new_line_5 | endorse
 wear
 doctor
 solution
 rigid |  
-| bip_39_word_new_line6 | endorse
+| bip_39_word_new_line_6 | endorse
 wear
 doctor
 solution
 rigid
 rifle |  
-| bip_39_word_new_line7 | endorse
+| bip_39_word_new_line_7 | endorse
 wear
 doctor
 solution
 rigid
 rifle
 apology |  
-| bip_39_word_new_line8 | endorse
+| bip_39_word_new_line_8 | endorse
 wear
 doctor
 solution
@@ -113,7 +113,7 @@ rigid
 rifle
 apology
 shadow |  
-| bip_39_word_new_line9 | endorse
+| bip_39_word_new_line_9 | endorse
 wear
 doctor
 solution

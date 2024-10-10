@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | phrase |  
-| bip_39_word_new_br10 | phrase<br>course<br>crouch<br>wheel<br>scorpion<br>survey<br>public<br>sword<br>permit<br>sea |  
-| bip_39_word_new_br11 | phrase<br>course<br>crouch<br>wheel<br>scorpion<br>survey<br>public<br>sword<br>permit<br>sea<br>duty |  
-| bip_39_word_new_br12 | phrase<br>course<br>crouch<br>wheel<br>scorpion<br>survey<br>public<br>sword<br>permit<br>sea<br>duty<br>alcohol |  
-| bip_39_word_new_br2 | phrase<br>course |  
-| bip_39_word_new_br3 | phrase<br>course<br>crouch |  
-| bip_39_word_new_br4 | phrase<br>course<br>crouch<br>wheel |  
-| bip_39_word_new_br5 | phrase<br>course<br>crouch<br>wheel<br>scorpion |  
-| bip_39_word_new_br6 | phrase<br>course<br>crouch<br>wheel<br>scorpion<br>survey |  
-| bip_39_word_new_br7 | phrase<br>course<br>crouch<br>wheel<br>scorpion<br>survey<br>public |  
-| bip_39_word_new_br8 | phrase<br>course<br>crouch<br>wheel<br>scorpion<br>survey<br>public<br>sword |  
-| bip_39_word_new_br9 | phrase<br>course<br>crouch<br>wheel<br>scorpion<br>survey<br>public<br>sword<br>permit |  
-| bip_39_word_new_line1 | phrase |  
-| bip_39_word_new_line10 | phrase
+| bip_39_word_new_br_1 | phrase |  
+| bip_39_word_new_br_10 | phrase<br>course<br>crouch<br>wheel<br>scorpion<br>survey<br>public<br>sword<br>permit<br>sea |  
+| bip_39_word_new_br_11 | phrase<br>course<br>crouch<br>wheel<br>scorpion<br>survey<br>public<br>sword<br>permit<br>sea<br>duty |  
+| bip_39_word_new_br_12 | phrase<br>course<br>crouch<br>wheel<br>scorpion<br>survey<br>public<br>sword<br>permit<br>sea<br>duty<br>alcohol |  
+| bip_39_word_new_br_2 | phrase<br>course |  
+| bip_39_word_new_br_3 | phrase<br>course<br>crouch |  
+| bip_39_word_new_br_4 | phrase<br>course<br>crouch<br>wheel |  
+| bip_39_word_new_br_5 | phrase<br>course<br>crouch<br>wheel<br>scorpion |  
+| bip_39_word_new_br_6 | phrase<br>course<br>crouch<br>wheel<br>scorpion<br>survey |  
+| bip_39_word_new_br_7 | phrase<br>course<br>crouch<br>wheel<br>scorpion<br>survey<br>public |  
+| bip_39_word_new_br_8 | phrase<br>course<br>crouch<br>wheel<br>scorpion<br>survey<br>public<br>sword |  
+| bip_39_word_new_br_9 | phrase<br>course<br>crouch<br>wheel<br>scorpion<br>survey<br>public<br>sword<br>permit |  
+| bip_39_word_new_line_1 | phrase |  
+| bip_39_word_new_line_10 | phrase
 course
 crouch
 wheel
@@ -55,7 +55,7 @@ public
 sword
 permit
 sea |  
-| bip_39_word_new_line11 | phrase
+| bip_39_word_new_line_11 | phrase
 course
 crouch
 wheel
@@ -66,7 +66,7 @@ sword
 permit
 sea
 duty |  
-| bip_39_word_new_line12 | phrase
+| bip_39_word_new_line_12 | phrase
 course
 crouch
 wheel
@@ -78,34 +78,34 @@ permit
 sea
 duty
 alcohol |  
-| bip_39_word_new_line2 | phrase
+| bip_39_word_new_line_2 | phrase
 course |  
-| bip_39_word_new_line3 | phrase
+| bip_39_word_new_line_3 | phrase
 course
 crouch |  
-| bip_39_word_new_line4 | phrase
+| bip_39_word_new_line_4 | phrase
 course
 crouch
 wheel |  
-| bip_39_word_new_line5 | phrase
+| bip_39_word_new_line_5 | phrase
 course
 crouch
 wheel
 scorpion |  
-| bip_39_word_new_line6 | phrase
+| bip_39_word_new_line_6 | phrase
 course
 crouch
 wheel
 scorpion
 survey |  
-| bip_39_word_new_line7 | phrase
+| bip_39_word_new_line_7 | phrase
 course
 crouch
 wheel
 scorpion
 survey
 public |  
-| bip_39_word_new_line8 | phrase
+| bip_39_word_new_line_8 | phrase
 course
 crouch
 wheel
@@ -113,7 +113,7 @@ scorpion
 survey
 public
 sword |  
-| bip_39_word_new_line9 | phrase
+| bip_39_word_new_line_9 | phrase
 course
 crouch
 wheel

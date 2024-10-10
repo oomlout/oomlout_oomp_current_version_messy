@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fortune |  
-| bip_39_word_new_br10 | fortune<br>insect<br>language<br>avocado<br>prepare<br>cloth<br>satoshi<br>file<br>fault<br>brass |  
-| bip_39_word_new_br11 | fortune<br>insect<br>language<br>avocado<br>prepare<br>cloth<br>satoshi<br>file<br>fault<br>brass<br>accident |  
-| bip_39_word_new_br12 | fortune<br>insect<br>language<br>avocado<br>prepare<br>cloth<br>satoshi<br>file<br>fault<br>brass<br>accident<br>agent |  
-| bip_39_word_new_br2 | fortune<br>insect |  
-| bip_39_word_new_br3 | fortune<br>insect<br>language |  
-| bip_39_word_new_br4 | fortune<br>insect<br>language<br>avocado |  
-| bip_39_word_new_br5 | fortune<br>insect<br>language<br>avocado<br>prepare |  
-| bip_39_word_new_br6 | fortune<br>insect<br>language<br>avocado<br>prepare<br>cloth |  
-| bip_39_word_new_br7 | fortune<br>insect<br>language<br>avocado<br>prepare<br>cloth<br>satoshi |  
-| bip_39_word_new_br8 | fortune<br>insect<br>language<br>avocado<br>prepare<br>cloth<br>satoshi<br>file |  
-| bip_39_word_new_br9 | fortune<br>insect<br>language<br>avocado<br>prepare<br>cloth<br>satoshi<br>file<br>fault |  
-| bip_39_word_new_line1 | fortune |  
-| bip_39_word_new_line10 | fortune
+| bip_39_word_new_br_1 | fortune |  
+| bip_39_word_new_br_10 | fortune<br>insect<br>language<br>avocado<br>prepare<br>cloth<br>satoshi<br>file<br>fault<br>brass |  
+| bip_39_word_new_br_11 | fortune<br>insect<br>language<br>avocado<br>prepare<br>cloth<br>satoshi<br>file<br>fault<br>brass<br>accident |  
+| bip_39_word_new_br_12 | fortune<br>insect<br>language<br>avocado<br>prepare<br>cloth<br>satoshi<br>file<br>fault<br>brass<br>accident<br>agent |  
+| bip_39_word_new_br_2 | fortune<br>insect |  
+| bip_39_word_new_br_3 | fortune<br>insect<br>language |  
+| bip_39_word_new_br_4 | fortune<br>insect<br>language<br>avocado |  
+| bip_39_word_new_br_5 | fortune<br>insect<br>language<br>avocado<br>prepare |  
+| bip_39_word_new_br_6 | fortune<br>insect<br>language<br>avocado<br>prepare<br>cloth |  
+| bip_39_word_new_br_7 | fortune<br>insect<br>language<br>avocado<br>prepare<br>cloth<br>satoshi |  
+| bip_39_word_new_br_8 | fortune<br>insect<br>language<br>avocado<br>prepare<br>cloth<br>satoshi<br>file |  
+| bip_39_word_new_br_9 | fortune<br>insect<br>language<br>avocado<br>prepare<br>cloth<br>satoshi<br>file<br>fault |  
+| bip_39_word_new_line_1 | fortune |  
+| bip_39_word_new_line_10 | fortune
 insect
 language
 avocado
@@ -55,7 +55,7 @@ satoshi
 file
 fault
 brass |  
-| bip_39_word_new_line11 | fortune
+| bip_39_word_new_line_11 | fortune
 insect
 language
 avocado
@@ -66,7 +66,7 @@ file
 fault
 brass
 accident |  
-| bip_39_word_new_line12 | fortune
+| bip_39_word_new_line_12 | fortune
 insect
 language
 avocado
@@ -78,34 +78,34 @@ fault
 brass
 accident
 agent |  
-| bip_39_word_new_line2 | fortune
+| bip_39_word_new_line_2 | fortune
 insect |  
-| bip_39_word_new_line3 | fortune
+| bip_39_word_new_line_3 | fortune
 insect
 language |  
-| bip_39_word_new_line4 | fortune
+| bip_39_word_new_line_4 | fortune
 insect
 language
 avocado |  
-| bip_39_word_new_line5 | fortune
+| bip_39_word_new_line_5 | fortune
 insect
 language
 avocado
 prepare |  
-| bip_39_word_new_line6 | fortune
+| bip_39_word_new_line_6 | fortune
 insect
 language
 avocado
 prepare
 cloth |  
-| bip_39_word_new_line7 | fortune
+| bip_39_word_new_line_7 | fortune
 insect
 language
 avocado
 prepare
 cloth
 satoshi |  
-| bip_39_word_new_line8 | fortune
+| bip_39_word_new_line_8 | fortune
 insect
 language
 avocado
@@ -113,7 +113,7 @@ prepare
 cloth
 satoshi
 file |  
-| bip_39_word_new_line9 | fortune
+| bip_39_word_new_line_9 | fortune
 insect
 language
 avocado

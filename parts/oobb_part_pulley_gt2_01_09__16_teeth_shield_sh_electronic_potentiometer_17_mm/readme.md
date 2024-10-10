@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | deposit |  
-| bip_39_word_new_br10 | deposit<br>fiscal<br>ten<br>pupil<br>you<br>garage<br>tomorrow<br>stable<br>shaft<br>limb |  
-| bip_39_word_new_br11 | deposit<br>fiscal<br>ten<br>pupil<br>you<br>garage<br>tomorrow<br>stable<br>shaft<br>limb<br>immense |  
-| bip_39_word_new_br12 | deposit<br>fiscal<br>ten<br>pupil<br>you<br>garage<br>tomorrow<br>stable<br>shaft<br>limb<br>immense<br>anxiety |  
-| bip_39_word_new_br2 | deposit<br>fiscal |  
-| bip_39_word_new_br3 | deposit<br>fiscal<br>ten |  
-| bip_39_word_new_br4 | deposit<br>fiscal<br>ten<br>pupil |  
-| bip_39_word_new_br5 | deposit<br>fiscal<br>ten<br>pupil<br>you |  
-| bip_39_word_new_br6 | deposit<br>fiscal<br>ten<br>pupil<br>you<br>garage |  
-| bip_39_word_new_br7 | deposit<br>fiscal<br>ten<br>pupil<br>you<br>garage<br>tomorrow |  
-| bip_39_word_new_br8 | deposit<br>fiscal<br>ten<br>pupil<br>you<br>garage<br>tomorrow<br>stable |  
-| bip_39_word_new_br9 | deposit<br>fiscal<br>ten<br>pupil<br>you<br>garage<br>tomorrow<br>stable<br>shaft |  
-| bip_39_word_new_line1 | deposit |  
-| bip_39_word_new_line10 | deposit
+| bip_39_word_new_br_1 | deposit |  
+| bip_39_word_new_br_10 | deposit<br>fiscal<br>ten<br>pupil<br>you<br>garage<br>tomorrow<br>stable<br>shaft<br>limb |  
+| bip_39_word_new_br_11 | deposit<br>fiscal<br>ten<br>pupil<br>you<br>garage<br>tomorrow<br>stable<br>shaft<br>limb<br>immense |  
+| bip_39_word_new_br_12 | deposit<br>fiscal<br>ten<br>pupil<br>you<br>garage<br>tomorrow<br>stable<br>shaft<br>limb<br>immense<br>anxiety |  
+| bip_39_word_new_br_2 | deposit<br>fiscal |  
+| bip_39_word_new_br_3 | deposit<br>fiscal<br>ten |  
+| bip_39_word_new_br_4 | deposit<br>fiscal<br>ten<br>pupil |  
+| bip_39_word_new_br_5 | deposit<br>fiscal<br>ten<br>pupil<br>you |  
+| bip_39_word_new_br_6 | deposit<br>fiscal<br>ten<br>pupil<br>you<br>garage |  
+| bip_39_word_new_br_7 | deposit<br>fiscal<br>ten<br>pupil<br>you<br>garage<br>tomorrow |  
+| bip_39_word_new_br_8 | deposit<br>fiscal<br>ten<br>pupil<br>you<br>garage<br>tomorrow<br>stable |  
+| bip_39_word_new_br_9 | deposit<br>fiscal<br>ten<br>pupil<br>you<br>garage<br>tomorrow<br>stable<br>shaft |  
+| bip_39_word_new_line_1 | deposit |  
+| bip_39_word_new_line_10 | deposit
 fiscal
 ten
 pupil
@@ -55,7 +55,7 @@ tomorrow
 stable
 shaft
 limb |  
-| bip_39_word_new_line11 | deposit
+| bip_39_word_new_line_11 | deposit
 fiscal
 ten
 pupil
@@ -66,7 +66,7 @@ stable
 shaft
 limb
 immense |  
-| bip_39_word_new_line12 | deposit
+| bip_39_word_new_line_12 | deposit
 fiscal
 ten
 pupil
@@ -78,34 +78,34 @@ shaft
 limb
 immense
 anxiety |  
-| bip_39_word_new_line2 | deposit
+| bip_39_word_new_line_2 | deposit
 fiscal |  
-| bip_39_word_new_line3 | deposit
+| bip_39_word_new_line_3 | deposit
 fiscal
 ten |  
-| bip_39_word_new_line4 | deposit
+| bip_39_word_new_line_4 | deposit
 fiscal
 ten
 pupil |  
-| bip_39_word_new_line5 | deposit
+| bip_39_word_new_line_5 | deposit
 fiscal
 ten
 pupil
 you |  
-| bip_39_word_new_line6 | deposit
+| bip_39_word_new_line_6 | deposit
 fiscal
 ten
 pupil
 you
 garage |  
-| bip_39_word_new_line7 | deposit
+| bip_39_word_new_line_7 | deposit
 fiscal
 ten
 pupil
 you
 garage
 tomorrow |  
-| bip_39_word_new_line8 | deposit
+| bip_39_word_new_line_8 | deposit
 fiscal
 ten
 pupil
@@ -113,7 +113,7 @@ you
 garage
 tomorrow
 stable |  
-| bip_39_word_new_line9 | deposit
+| bip_39_word_new_line_9 | deposit
 fiscal
 ten
 pupil

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | urge |  
-| bip_39_word_new_br10 | urge<br>zone<br>twice<br>gauge<br>minimum<br>neck<br>assume<br>junk<br>program<br>direct |  
-| bip_39_word_new_br11 | urge<br>zone<br>twice<br>gauge<br>minimum<br>neck<br>assume<br>junk<br>program<br>direct<br>honey |  
-| bip_39_word_new_br12 | urge<br>zone<br>twice<br>gauge<br>minimum<br>neck<br>assume<br>junk<br>program<br>direct<br>honey<br>arena |  
-| bip_39_word_new_br2 | urge<br>zone |  
-| bip_39_word_new_br3 | urge<br>zone<br>twice |  
-| bip_39_word_new_br4 | urge<br>zone<br>twice<br>gauge |  
-| bip_39_word_new_br5 | urge<br>zone<br>twice<br>gauge<br>minimum |  
-| bip_39_word_new_br6 | urge<br>zone<br>twice<br>gauge<br>minimum<br>neck |  
-| bip_39_word_new_br7 | urge<br>zone<br>twice<br>gauge<br>minimum<br>neck<br>assume |  
-| bip_39_word_new_br8 | urge<br>zone<br>twice<br>gauge<br>minimum<br>neck<br>assume<br>junk |  
-| bip_39_word_new_br9 | urge<br>zone<br>twice<br>gauge<br>minimum<br>neck<br>assume<br>junk<br>program |  
-| bip_39_word_new_line1 | urge |  
-| bip_39_word_new_line10 | urge
+| bip_39_word_new_br_1 | urge |  
+| bip_39_word_new_br_10 | urge<br>zone<br>twice<br>gauge<br>minimum<br>neck<br>assume<br>junk<br>program<br>direct |  
+| bip_39_word_new_br_11 | urge<br>zone<br>twice<br>gauge<br>minimum<br>neck<br>assume<br>junk<br>program<br>direct<br>honey |  
+| bip_39_word_new_br_12 | urge<br>zone<br>twice<br>gauge<br>minimum<br>neck<br>assume<br>junk<br>program<br>direct<br>honey<br>arena |  
+| bip_39_word_new_br_2 | urge<br>zone |  
+| bip_39_word_new_br_3 | urge<br>zone<br>twice |  
+| bip_39_word_new_br_4 | urge<br>zone<br>twice<br>gauge |  
+| bip_39_word_new_br_5 | urge<br>zone<br>twice<br>gauge<br>minimum |  
+| bip_39_word_new_br_6 | urge<br>zone<br>twice<br>gauge<br>minimum<br>neck |  
+| bip_39_word_new_br_7 | urge<br>zone<br>twice<br>gauge<br>minimum<br>neck<br>assume |  
+| bip_39_word_new_br_8 | urge<br>zone<br>twice<br>gauge<br>minimum<br>neck<br>assume<br>junk |  
+| bip_39_word_new_br_9 | urge<br>zone<br>twice<br>gauge<br>minimum<br>neck<br>assume<br>junk<br>program |  
+| bip_39_word_new_line_1 | urge |  
+| bip_39_word_new_line_10 | urge
 zone
 twice
 gauge
@@ -55,7 +55,7 @@ assume
 junk
 program
 direct |  
-| bip_39_word_new_line11 | urge
+| bip_39_word_new_line_11 | urge
 zone
 twice
 gauge
@@ -66,7 +66,7 @@ junk
 program
 direct
 honey |  
-| bip_39_word_new_line12 | urge
+| bip_39_word_new_line_12 | urge
 zone
 twice
 gauge
@@ -78,34 +78,34 @@ program
 direct
 honey
 arena |  
-| bip_39_word_new_line2 | urge
+| bip_39_word_new_line_2 | urge
 zone |  
-| bip_39_word_new_line3 | urge
+| bip_39_word_new_line_3 | urge
 zone
 twice |  
-| bip_39_word_new_line4 | urge
+| bip_39_word_new_line_4 | urge
 zone
 twice
 gauge |  
-| bip_39_word_new_line5 | urge
+| bip_39_word_new_line_5 | urge
 zone
 twice
 gauge
 minimum |  
-| bip_39_word_new_line6 | urge
+| bip_39_word_new_line_6 | urge
 zone
 twice
 gauge
 minimum
 neck |  
-| bip_39_word_new_line7 | urge
+| bip_39_word_new_line_7 | urge
 zone
 twice
 gauge
 minimum
 neck
 assume |  
-| bip_39_word_new_line8 | urge
+| bip_39_word_new_line_8 | urge
 zone
 twice
 gauge
@@ -113,7 +113,7 @@ minimum
 neck
 assume
 junk |  
-| bip_39_word_new_line9 | urge
+| bip_39_word_new_line_9 | urge
 zone
 twice
 gauge

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ripple |  
-| bip_39_word_new_br10 | ripple<br>april<br>hidden<br>tunnel<br>range<br>retire<br>female<br>three<br>claw<br>advance |  
-| bip_39_word_new_br11 | ripple<br>april<br>hidden<br>tunnel<br>range<br>retire<br>female<br>three<br>claw<br>advance<br>drastic |  
-| bip_39_word_new_br12 | ripple<br>april<br>hidden<br>tunnel<br>range<br>retire<br>female<br>three<br>claw<br>advance<br>drastic<br>auction |  
-| bip_39_word_new_br2 | ripple<br>april |  
-| bip_39_word_new_br3 | ripple<br>april<br>hidden |  
-| bip_39_word_new_br4 | ripple<br>april<br>hidden<br>tunnel |  
-| bip_39_word_new_br5 | ripple<br>april<br>hidden<br>tunnel<br>range |  
-| bip_39_word_new_br6 | ripple<br>april<br>hidden<br>tunnel<br>range<br>retire |  
-| bip_39_word_new_br7 | ripple<br>april<br>hidden<br>tunnel<br>range<br>retire<br>female |  
-| bip_39_word_new_br8 | ripple<br>april<br>hidden<br>tunnel<br>range<br>retire<br>female<br>three |  
-| bip_39_word_new_br9 | ripple<br>april<br>hidden<br>tunnel<br>range<br>retire<br>female<br>three<br>claw |  
-| bip_39_word_new_line1 | ripple |  
-| bip_39_word_new_line10 | ripple
+| bip_39_word_new_br_1 | ripple |  
+| bip_39_word_new_br_10 | ripple<br>april<br>hidden<br>tunnel<br>range<br>retire<br>female<br>three<br>claw<br>advance |  
+| bip_39_word_new_br_11 | ripple<br>april<br>hidden<br>tunnel<br>range<br>retire<br>female<br>three<br>claw<br>advance<br>drastic |  
+| bip_39_word_new_br_12 | ripple<br>april<br>hidden<br>tunnel<br>range<br>retire<br>female<br>three<br>claw<br>advance<br>drastic<br>auction |  
+| bip_39_word_new_br_2 | ripple<br>april |  
+| bip_39_word_new_br_3 | ripple<br>april<br>hidden |  
+| bip_39_word_new_br_4 | ripple<br>april<br>hidden<br>tunnel |  
+| bip_39_word_new_br_5 | ripple<br>april<br>hidden<br>tunnel<br>range |  
+| bip_39_word_new_br_6 | ripple<br>april<br>hidden<br>tunnel<br>range<br>retire |  
+| bip_39_word_new_br_7 | ripple<br>april<br>hidden<br>tunnel<br>range<br>retire<br>female |  
+| bip_39_word_new_br_8 | ripple<br>april<br>hidden<br>tunnel<br>range<br>retire<br>female<br>three |  
+| bip_39_word_new_br_9 | ripple<br>april<br>hidden<br>tunnel<br>range<br>retire<br>female<br>three<br>claw |  
+| bip_39_word_new_line_1 | ripple |  
+| bip_39_word_new_line_10 | ripple
 april
 hidden
 tunnel
@@ -55,7 +55,7 @@ female
 three
 claw
 advance |  
-| bip_39_word_new_line11 | ripple
+| bip_39_word_new_line_11 | ripple
 april
 hidden
 tunnel
@@ -66,7 +66,7 @@ three
 claw
 advance
 drastic |  
-| bip_39_word_new_line12 | ripple
+| bip_39_word_new_line_12 | ripple
 april
 hidden
 tunnel
@@ -78,34 +78,34 @@ claw
 advance
 drastic
 auction |  
-| bip_39_word_new_line2 | ripple
+| bip_39_word_new_line_2 | ripple
 april |  
-| bip_39_word_new_line3 | ripple
+| bip_39_word_new_line_3 | ripple
 april
 hidden |  
-| bip_39_word_new_line4 | ripple
+| bip_39_word_new_line_4 | ripple
 april
 hidden
 tunnel |  
-| bip_39_word_new_line5 | ripple
+| bip_39_word_new_line_5 | ripple
 april
 hidden
 tunnel
 range |  
-| bip_39_word_new_line6 | ripple
+| bip_39_word_new_line_6 | ripple
 april
 hidden
 tunnel
 range
 retire |  
-| bip_39_word_new_line7 | ripple
+| bip_39_word_new_line_7 | ripple
 april
 hidden
 tunnel
 range
 retire
 female |  
-| bip_39_word_new_line8 | ripple
+| bip_39_word_new_line_8 | ripple
 april
 hidden
 tunnel
@@ -113,7 +113,7 @@ range
 retire
 female
 three |  
-| bip_39_word_new_line9 | ripple
+| bip_39_word_new_line_9 | ripple
 april
 hidden
 tunnel

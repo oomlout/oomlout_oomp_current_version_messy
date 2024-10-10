@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | entry |  
-| bip_39_word_new_br10 | entry<br>donkey<br>illness<br>venture<br>link<br>brand<br>leisure<br>celery<br>grow<br>main |  
-| bip_39_word_new_br11 | entry<br>donkey<br>illness<br>venture<br>link<br>brand<br>leisure<br>celery<br>grow<br>main<br>shield |  
-| bip_39_word_new_br12 | entry<br>donkey<br>illness<br>venture<br>link<br>brand<br>leisure<br>celery<br>grow<br>main<br>shield<br>annual |  
-| bip_39_word_new_br2 | entry<br>donkey |  
-| bip_39_word_new_br3 | entry<br>donkey<br>illness |  
-| bip_39_word_new_br4 | entry<br>donkey<br>illness<br>venture |  
-| bip_39_word_new_br5 | entry<br>donkey<br>illness<br>venture<br>link |  
-| bip_39_word_new_br6 | entry<br>donkey<br>illness<br>venture<br>link<br>brand |  
-| bip_39_word_new_br7 | entry<br>donkey<br>illness<br>venture<br>link<br>brand<br>leisure |  
-| bip_39_word_new_br8 | entry<br>donkey<br>illness<br>venture<br>link<br>brand<br>leisure<br>celery |  
-| bip_39_word_new_br9 | entry<br>donkey<br>illness<br>venture<br>link<br>brand<br>leisure<br>celery<br>grow |  
-| bip_39_word_new_line1 | entry |  
-| bip_39_word_new_line10 | entry
+| bip_39_word_new_br_1 | entry |  
+| bip_39_word_new_br_10 | entry<br>donkey<br>illness<br>venture<br>link<br>brand<br>leisure<br>celery<br>grow<br>main |  
+| bip_39_word_new_br_11 | entry<br>donkey<br>illness<br>venture<br>link<br>brand<br>leisure<br>celery<br>grow<br>main<br>shield |  
+| bip_39_word_new_br_12 | entry<br>donkey<br>illness<br>venture<br>link<br>brand<br>leisure<br>celery<br>grow<br>main<br>shield<br>annual |  
+| bip_39_word_new_br_2 | entry<br>donkey |  
+| bip_39_word_new_br_3 | entry<br>donkey<br>illness |  
+| bip_39_word_new_br_4 | entry<br>donkey<br>illness<br>venture |  
+| bip_39_word_new_br_5 | entry<br>donkey<br>illness<br>venture<br>link |  
+| bip_39_word_new_br_6 | entry<br>donkey<br>illness<br>venture<br>link<br>brand |  
+| bip_39_word_new_br_7 | entry<br>donkey<br>illness<br>venture<br>link<br>brand<br>leisure |  
+| bip_39_word_new_br_8 | entry<br>donkey<br>illness<br>venture<br>link<br>brand<br>leisure<br>celery |  
+| bip_39_word_new_br_9 | entry<br>donkey<br>illness<br>venture<br>link<br>brand<br>leisure<br>celery<br>grow |  
+| bip_39_word_new_line_1 | entry |  
+| bip_39_word_new_line_10 | entry
 donkey
 illness
 venture
@@ -55,7 +55,7 @@ leisure
 celery
 grow
 main |  
-| bip_39_word_new_line11 | entry
+| bip_39_word_new_line_11 | entry
 donkey
 illness
 venture
@@ -66,7 +66,7 @@ celery
 grow
 main
 shield |  
-| bip_39_word_new_line12 | entry
+| bip_39_word_new_line_12 | entry
 donkey
 illness
 venture
@@ -78,34 +78,34 @@ grow
 main
 shield
 annual |  
-| bip_39_word_new_line2 | entry
+| bip_39_word_new_line_2 | entry
 donkey |  
-| bip_39_word_new_line3 | entry
+| bip_39_word_new_line_3 | entry
 donkey
 illness |  
-| bip_39_word_new_line4 | entry
+| bip_39_word_new_line_4 | entry
 donkey
 illness
 venture |  
-| bip_39_word_new_line5 | entry
+| bip_39_word_new_line_5 | entry
 donkey
 illness
 venture
 link |  
-| bip_39_word_new_line6 | entry
+| bip_39_word_new_line_6 | entry
 donkey
 illness
 venture
 link
 brand |  
-| bip_39_word_new_line7 | entry
+| bip_39_word_new_line_7 | entry
 donkey
 illness
 venture
 link
 brand
 leisure |  
-| bip_39_word_new_line8 | entry
+| bip_39_word_new_line_8 | entry
 donkey
 illness
 venture
@@ -113,7 +113,7 @@ link
 brand
 leisure
 celery |  
-| bip_39_word_new_line9 | entry
+| bip_39_word_new_line_9 | entry
 donkey
 illness
 venture

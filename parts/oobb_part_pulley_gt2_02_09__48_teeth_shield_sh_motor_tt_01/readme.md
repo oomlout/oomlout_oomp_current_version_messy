@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | define |  
-| bip_39_word_new_br10 | define<br>snack<br>cactus<br>elbow<br>page<br>illness<br>divert<br>praise<br>cable<br>property |  
-| bip_39_word_new_br11 | define<br>snack<br>cactus<br>elbow<br>page<br>illness<br>divert<br>praise<br>cable<br>property<br>stereo |  
-| bip_39_word_new_br12 | define<br>snack<br>cactus<br>elbow<br>page<br>illness<br>divert<br>praise<br>cable<br>property<br>stereo<br>almost |  
-| bip_39_word_new_br2 | define<br>snack |  
-| bip_39_word_new_br3 | define<br>snack<br>cactus |  
-| bip_39_word_new_br4 | define<br>snack<br>cactus<br>elbow |  
-| bip_39_word_new_br5 | define<br>snack<br>cactus<br>elbow<br>page |  
-| bip_39_word_new_br6 | define<br>snack<br>cactus<br>elbow<br>page<br>illness |  
-| bip_39_word_new_br7 | define<br>snack<br>cactus<br>elbow<br>page<br>illness<br>divert |  
-| bip_39_word_new_br8 | define<br>snack<br>cactus<br>elbow<br>page<br>illness<br>divert<br>praise |  
-| bip_39_word_new_br9 | define<br>snack<br>cactus<br>elbow<br>page<br>illness<br>divert<br>praise<br>cable |  
-| bip_39_word_new_line1 | define |  
-| bip_39_word_new_line10 | define
+| bip_39_word_new_br_1 | define |  
+| bip_39_word_new_br_10 | define<br>snack<br>cactus<br>elbow<br>page<br>illness<br>divert<br>praise<br>cable<br>property |  
+| bip_39_word_new_br_11 | define<br>snack<br>cactus<br>elbow<br>page<br>illness<br>divert<br>praise<br>cable<br>property<br>stereo |  
+| bip_39_word_new_br_12 | define<br>snack<br>cactus<br>elbow<br>page<br>illness<br>divert<br>praise<br>cable<br>property<br>stereo<br>almost |  
+| bip_39_word_new_br_2 | define<br>snack |  
+| bip_39_word_new_br_3 | define<br>snack<br>cactus |  
+| bip_39_word_new_br_4 | define<br>snack<br>cactus<br>elbow |  
+| bip_39_word_new_br_5 | define<br>snack<br>cactus<br>elbow<br>page |  
+| bip_39_word_new_br_6 | define<br>snack<br>cactus<br>elbow<br>page<br>illness |  
+| bip_39_word_new_br_7 | define<br>snack<br>cactus<br>elbow<br>page<br>illness<br>divert |  
+| bip_39_word_new_br_8 | define<br>snack<br>cactus<br>elbow<br>page<br>illness<br>divert<br>praise |  
+| bip_39_word_new_br_9 | define<br>snack<br>cactus<br>elbow<br>page<br>illness<br>divert<br>praise<br>cable |  
+| bip_39_word_new_line_1 | define |  
+| bip_39_word_new_line_10 | define
 snack
 cactus
 elbow
@@ -55,7 +55,7 @@ divert
 praise
 cable
 property |  
-| bip_39_word_new_line11 | define
+| bip_39_word_new_line_11 | define
 snack
 cactus
 elbow
@@ -66,7 +66,7 @@ praise
 cable
 property
 stereo |  
-| bip_39_word_new_line12 | define
+| bip_39_word_new_line_12 | define
 snack
 cactus
 elbow
@@ -78,34 +78,34 @@ cable
 property
 stereo
 almost |  
-| bip_39_word_new_line2 | define
+| bip_39_word_new_line_2 | define
 snack |  
-| bip_39_word_new_line3 | define
+| bip_39_word_new_line_3 | define
 snack
 cactus |  
-| bip_39_word_new_line4 | define
+| bip_39_word_new_line_4 | define
 snack
 cactus
 elbow |  
-| bip_39_word_new_line5 | define
+| bip_39_word_new_line_5 | define
 snack
 cactus
 elbow
 page |  
-| bip_39_word_new_line6 | define
+| bip_39_word_new_line_6 | define
 snack
 cactus
 elbow
 page
 illness |  
-| bip_39_word_new_line7 | define
+| bip_39_word_new_line_7 | define
 snack
 cactus
 elbow
 page
 illness
 divert |  
-| bip_39_word_new_line8 | define
+| bip_39_word_new_line_8 | define
 snack
 cactus
 elbow
@@ -113,7 +113,7 @@ page
 illness
 divert
 praise |  
-| bip_39_word_new_line9 | define
+| bip_39_word_new_line_9 | define
 snack
 cactus
 elbow

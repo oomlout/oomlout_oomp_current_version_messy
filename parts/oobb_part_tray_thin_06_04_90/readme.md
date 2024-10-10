@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mail |  
-| bip_39_word_new_br10 | mail<br>away<br>select<br>shop<br>next<br>kid<br>absent<br>helmet<br>true<br>lend |  
-| bip_39_word_new_br11 | mail<br>away<br>select<br>shop<br>next<br>kid<br>absent<br>helmet<br>true<br>lend<br>sauce |  
-| bip_39_word_new_br12 | mail<br>away<br>select<br>shop<br>next<br>kid<br>absent<br>helmet<br>true<br>lend<br>sauce<br>aisle |  
-| bip_39_word_new_br2 | mail<br>away |  
-| bip_39_word_new_br3 | mail<br>away<br>select |  
-| bip_39_word_new_br4 | mail<br>away<br>select<br>shop |  
-| bip_39_word_new_br5 | mail<br>away<br>select<br>shop<br>next |  
-| bip_39_word_new_br6 | mail<br>away<br>select<br>shop<br>next<br>kid |  
-| bip_39_word_new_br7 | mail<br>away<br>select<br>shop<br>next<br>kid<br>absent |  
-| bip_39_word_new_br8 | mail<br>away<br>select<br>shop<br>next<br>kid<br>absent<br>helmet |  
-| bip_39_word_new_br9 | mail<br>away<br>select<br>shop<br>next<br>kid<br>absent<br>helmet<br>true |  
-| bip_39_word_new_line1 | mail |  
-| bip_39_word_new_line10 | mail
+| bip_39_word_new_br_1 | mail |  
+| bip_39_word_new_br_10 | mail<br>away<br>select<br>shop<br>next<br>kid<br>absent<br>helmet<br>true<br>lend |  
+| bip_39_word_new_br_11 | mail<br>away<br>select<br>shop<br>next<br>kid<br>absent<br>helmet<br>true<br>lend<br>sauce |  
+| bip_39_word_new_br_12 | mail<br>away<br>select<br>shop<br>next<br>kid<br>absent<br>helmet<br>true<br>lend<br>sauce<br>aisle |  
+| bip_39_word_new_br_2 | mail<br>away |  
+| bip_39_word_new_br_3 | mail<br>away<br>select |  
+| bip_39_word_new_br_4 | mail<br>away<br>select<br>shop |  
+| bip_39_word_new_br_5 | mail<br>away<br>select<br>shop<br>next |  
+| bip_39_word_new_br_6 | mail<br>away<br>select<br>shop<br>next<br>kid |  
+| bip_39_word_new_br_7 | mail<br>away<br>select<br>shop<br>next<br>kid<br>absent |  
+| bip_39_word_new_br_8 | mail<br>away<br>select<br>shop<br>next<br>kid<br>absent<br>helmet |  
+| bip_39_word_new_br_9 | mail<br>away<br>select<br>shop<br>next<br>kid<br>absent<br>helmet<br>true |  
+| bip_39_word_new_line_1 | mail |  
+| bip_39_word_new_line_10 | mail
 away
 select
 shop
@@ -55,7 +55,7 @@ absent
 helmet
 true
 lend |  
-| bip_39_word_new_line11 | mail
+| bip_39_word_new_line_11 | mail
 away
 select
 shop
@@ -66,7 +66,7 @@ helmet
 true
 lend
 sauce |  
-| bip_39_word_new_line12 | mail
+| bip_39_word_new_line_12 | mail
 away
 select
 shop
@@ -78,34 +78,34 @@ true
 lend
 sauce
 aisle |  
-| bip_39_word_new_line2 | mail
+| bip_39_word_new_line_2 | mail
 away |  
-| bip_39_word_new_line3 | mail
+| bip_39_word_new_line_3 | mail
 away
 select |  
-| bip_39_word_new_line4 | mail
+| bip_39_word_new_line_4 | mail
 away
 select
 shop |  
-| bip_39_word_new_line5 | mail
+| bip_39_word_new_line_5 | mail
 away
 select
 shop
 next |  
-| bip_39_word_new_line6 | mail
+| bip_39_word_new_line_6 | mail
 away
 select
 shop
 next
 kid |  
-| bip_39_word_new_line7 | mail
+| bip_39_word_new_line_7 | mail
 away
 select
 shop
 next
 kid
 absent |  
-| bip_39_word_new_line8 | mail
+| bip_39_word_new_line_8 | mail
 away
 select
 shop
@@ -113,7 +113,7 @@ next
 kid
 absent
 helmet |  
-| bip_39_word_new_line9 | mail
+| bip_39_word_new_line_9 | mail
 away
 select
 shop

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | social |  
-| bip_39_word_new_br10 | social<br>seminar<br>sing<br>still<br>napkin<br>canoe<br>sea<br>exercise<br>swim<br>goose |  
-| bip_39_word_new_br11 | social<br>seminar<br>sing<br>still<br>napkin<br>canoe<br>sea<br>exercise<br>swim<br>goose<br>pencil |  
-| bip_39_word_new_br12 | social<br>seminar<br>sing<br>still<br>napkin<br>canoe<br>sea<br>exercise<br>swim<br>goose<br>pencil<br>another |  
-| bip_39_word_new_br2 | social<br>seminar |  
-| bip_39_word_new_br3 | social<br>seminar<br>sing |  
-| bip_39_word_new_br4 | social<br>seminar<br>sing<br>still |  
-| bip_39_word_new_br5 | social<br>seminar<br>sing<br>still<br>napkin |  
-| bip_39_word_new_br6 | social<br>seminar<br>sing<br>still<br>napkin<br>canoe |  
-| bip_39_word_new_br7 | social<br>seminar<br>sing<br>still<br>napkin<br>canoe<br>sea |  
-| bip_39_word_new_br8 | social<br>seminar<br>sing<br>still<br>napkin<br>canoe<br>sea<br>exercise |  
-| bip_39_word_new_br9 | social<br>seminar<br>sing<br>still<br>napkin<br>canoe<br>sea<br>exercise<br>swim |  
-| bip_39_word_new_line1 | social |  
-| bip_39_word_new_line10 | social
+| bip_39_word_new_br_1 | social |  
+| bip_39_word_new_br_10 | social<br>seminar<br>sing<br>still<br>napkin<br>canoe<br>sea<br>exercise<br>swim<br>goose |  
+| bip_39_word_new_br_11 | social<br>seminar<br>sing<br>still<br>napkin<br>canoe<br>sea<br>exercise<br>swim<br>goose<br>pencil |  
+| bip_39_word_new_br_12 | social<br>seminar<br>sing<br>still<br>napkin<br>canoe<br>sea<br>exercise<br>swim<br>goose<br>pencil<br>another |  
+| bip_39_word_new_br_2 | social<br>seminar |  
+| bip_39_word_new_br_3 | social<br>seminar<br>sing |  
+| bip_39_word_new_br_4 | social<br>seminar<br>sing<br>still |  
+| bip_39_word_new_br_5 | social<br>seminar<br>sing<br>still<br>napkin |  
+| bip_39_word_new_br_6 | social<br>seminar<br>sing<br>still<br>napkin<br>canoe |  
+| bip_39_word_new_br_7 | social<br>seminar<br>sing<br>still<br>napkin<br>canoe<br>sea |  
+| bip_39_word_new_br_8 | social<br>seminar<br>sing<br>still<br>napkin<br>canoe<br>sea<br>exercise |  
+| bip_39_word_new_br_9 | social<br>seminar<br>sing<br>still<br>napkin<br>canoe<br>sea<br>exercise<br>swim |  
+| bip_39_word_new_line_1 | social |  
+| bip_39_word_new_line_10 | social
 seminar
 sing
 still
@@ -55,7 +55,7 @@ sea
 exercise
 swim
 goose |  
-| bip_39_word_new_line11 | social
+| bip_39_word_new_line_11 | social
 seminar
 sing
 still
@@ -66,7 +66,7 @@ exercise
 swim
 goose
 pencil |  
-| bip_39_word_new_line12 | social
+| bip_39_word_new_line_12 | social
 seminar
 sing
 still
@@ -78,34 +78,34 @@ swim
 goose
 pencil
 another |  
-| bip_39_word_new_line2 | social
+| bip_39_word_new_line_2 | social
 seminar |  
-| bip_39_word_new_line3 | social
+| bip_39_word_new_line_3 | social
 seminar
 sing |  
-| bip_39_word_new_line4 | social
+| bip_39_word_new_line_4 | social
 seminar
 sing
 still |  
-| bip_39_word_new_line5 | social
+| bip_39_word_new_line_5 | social
 seminar
 sing
 still
 napkin |  
-| bip_39_word_new_line6 | social
+| bip_39_word_new_line_6 | social
 seminar
 sing
 still
 napkin
 canoe |  
-| bip_39_word_new_line7 | social
+| bip_39_word_new_line_7 | social
 seminar
 sing
 still
 napkin
 canoe
 sea |  
-| bip_39_word_new_line8 | social
+| bip_39_word_new_line_8 | social
 seminar
 sing
 still
@@ -113,7 +113,7 @@ napkin
 canoe
 sea
 exercise |  
-| bip_39_word_new_line9 | social
+| bip_39_word_new_line_9 | social
 seminar
 sing
 still

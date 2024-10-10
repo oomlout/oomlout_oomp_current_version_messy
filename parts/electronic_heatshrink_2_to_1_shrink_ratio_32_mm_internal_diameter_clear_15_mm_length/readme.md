@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | prefer |  
-| bip_39_word_new_br10 | prefer<br>tree<br>brain<br>country<br>local<br>radar<br>truth<br>paper<br>edge<br>blossom |  
-| bip_39_word_new_br11 | prefer<br>tree<br>brain<br>country<br>local<br>radar<br>truth<br>paper<br>edge<br>blossom<br>subway |  
-| bip_39_word_new_br12 | prefer<br>tree<br>brain<br>country<br>local<br>radar<br>truth<br>paper<br>edge<br>blossom<br>subway<br>account |  
-| bip_39_word_new_br2 | prefer<br>tree |  
-| bip_39_word_new_br3 | prefer<br>tree<br>brain |  
-| bip_39_word_new_br4 | prefer<br>tree<br>brain<br>country |  
-| bip_39_word_new_br5 | prefer<br>tree<br>brain<br>country<br>local |  
-| bip_39_word_new_br6 | prefer<br>tree<br>brain<br>country<br>local<br>radar |  
-| bip_39_word_new_br7 | prefer<br>tree<br>brain<br>country<br>local<br>radar<br>truth |  
-| bip_39_word_new_br8 | prefer<br>tree<br>brain<br>country<br>local<br>radar<br>truth<br>paper |  
-| bip_39_word_new_br9 | prefer<br>tree<br>brain<br>country<br>local<br>radar<br>truth<br>paper<br>edge |  
-| bip_39_word_new_line1 | prefer |  
-| bip_39_word_new_line10 | prefer
+| bip_39_word_new_br_1 | prefer |  
+| bip_39_word_new_br_10 | prefer<br>tree<br>brain<br>country<br>local<br>radar<br>truth<br>paper<br>edge<br>blossom |  
+| bip_39_word_new_br_11 | prefer<br>tree<br>brain<br>country<br>local<br>radar<br>truth<br>paper<br>edge<br>blossom<br>subway |  
+| bip_39_word_new_br_12 | prefer<br>tree<br>brain<br>country<br>local<br>radar<br>truth<br>paper<br>edge<br>blossom<br>subway<br>account |  
+| bip_39_word_new_br_2 | prefer<br>tree |  
+| bip_39_word_new_br_3 | prefer<br>tree<br>brain |  
+| bip_39_word_new_br_4 | prefer<br>tree<br>brain<br>country |  
+| bip_39_word_new_br_5 | prefer<br>tree<br>brain<br>country<br>local |  
+| bip_39_word_new_br_6 | prefer<br>tree<br>brain<br>country<br>local<br>radar |  
+| bip_39_word_new_br_7 | prefer<br>tree<br>brain<br>country<br>local<br>radar<br>truth |  
+| bip_39_word_new_br_8 | prefer<br>tree<br>brain<br>country<br>local<br>radar<br>truth<br>paper |  
+| bip_39_word_new_br_9 | prefer<br>tree<br>brain<br>country<br>local<br>radar<br>truth<br>paper<br>edge |  
+| bip_39_word_new_line_1 | prefer |  
+| bip_39_word_new_line_10 | prefer
 tree
 brain
 country
@@ -55,7 +55,7 @@ truth
 paper
 edge
 blossom |  
-| bip_39_word_new_line11 | prefer
+| bip_39_word_new_line_11 | prefer
 tree
 brain
 country
@@ -66,7 +66,7 @@ paper
 edge
 blossom
 subway |  
-| bip_39_word_new_line12 | prefer
+| bip_39_word_new_line_12 | prefer
 tree
 brain
 country
@@ -78,34 +78,34 @@ edge
 blossom
 subway
 account |  
-| bip_39_word_new_line2 | prefer
+| bip_39_word_new_line_2 | prefer
 tree |  
-| bip_39_word_new_line3 | prefer
+| bip_39_word_new_line_3 | prefer
 tree
 brain |  
-| bip_39_word_new_line4 | prefer
+| bip_39_word_new_line_4 | prefer
 tree
 brain
 country |  
-| bip_39_word_new_line5 | prefer
+| bip_39_word_new_line_5 | prefer
 tree
 brain
 country
 local |  
-| bip_39_word_new_line6 | prefer
+| bip_39_word_new_line_6 | prefer
 tree
 brain
 country
 local
 radar |  
-| bip_39_word_new_line7 | prefer
+| bip_39_word_new_line_7 | prefer
 tree
 brain
 country
 local
 radar
 truth |  
-| bip_39_word_new_line8 | prefer
+| bip_39_word_new_line_8 | prefer
 tree
 brain
 country
@@ -113,7 +113,7 @@ local
 radar
 truth
 paper |  
-| bip_39_word_new_line9 | prefer
+| bip_39_word_new_line_9 | prefer
 tree
 brain
 country

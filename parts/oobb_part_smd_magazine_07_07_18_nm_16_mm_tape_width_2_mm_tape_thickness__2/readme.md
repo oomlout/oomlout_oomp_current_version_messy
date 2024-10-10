@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mammal |  
-| bip_39_word_new_br10 | mammal<br>struggle<br>donkey<br>turn<br>raw<br>bike<br>frost<br>business<br>wear<br>consider |  
-| bip_39_word_new_br11 | mammal<br>struggle<br>donkey<br>turn<br>raw<br>bike<br>frost<br>business<br>wear<br>consider<br>behind |  
-| bip_39_word_new_br12 | mammal<br>struggle<br>donkey<br>turn<br>raw<br>bike<br>frost<br>business<br>wear<br>consider<br>behind<br>april |  
-| bip_39_word_new_br2 | mammal<br>struggle |  
-| bip_39_word_new_br3 | mammal<br>struggle<br>donkey |  
-| bip_39_word_new_br4 | mammal<br>struggle<br>donkey<br>turn |  
-| bip_39_word_new_br5 | mammal<br>struggle<br>donkey<br>turn<br>raw |  
-| bip_39_word_new_br6 | mammal<br>struggle<br>donkey<br>turn<br>raw<br>bike |  
-| bip_39_word_new_br7 | mammal<br>struggle<br>donkey<br>turn<br>raw<br>bike<br>frost |  
-| bip_39_word_new_br8 | mammal<br>struggle<br>donkey<br>turn<br>raw<br>bike<br>frost<br>business |  
-| bip_39_word_new_br9 | mammal<br>struggle<br>donkey<br>turn<br>raw<br>bike<br>frost<br>business<br>wear |  
-| bip_39_word_new_line1 | mammal |  
-| bip_39_word_new_line10 | mammal
+| bip_39_word_new_br_1 | mammal |  
+| bip_39_word_new_br_10 | mammal<br>struggle<br>donkey<br>turn<br>raw<br>bike<br>frost<br>business<br>wear<br>consider |  
+| bip_39_word_new_br_11 | mammal<br>struggle<br>donkey<br>turn<br>raw<br>bike<br>frost<br>business<br>wear<br>consider<br>behind |  
+| bip_39_word_new_br_12 | mammal<br>struggle<br>donkey<br>turn<br>raw<br>bike<br>frost<br>business<br>wear<br>consider<br>behind<br>april |  
+| bip_39_word_new_br_2 | mammal<br>struggle |  
+| bip_39_word_new_br_3 | mammal<br>struggle<br>donkey |  
+| bip_39_word_new_br_4 | mammal<br>struggle<br>donkey<br>turn |  
+| bip_39_word_new_br_5 | mammal<br>struggle<br>donkey<br>turn<br>raw |  
+| bip_39_word_new_br_6 | mammal<br>struggle<br>donkey<br>turn<br>raw<br>bike |  
+| bip_39_word_new_br_7 | mammal<br>struggle<br>donkey<br>turn<br>raw<br>bike<br>frost |  
+| bip_39_word_new_br_8 | mammal<br>struggle<br>donkey<br>turn<br>raw<br>bike<br>frost<br>business |  
+| bip_39_word_new_br_9 | mammal<br>struggle<br>donkey<br>turn<br>raw<br>bike<br>frost<br>business<br>wear |  
+| bip_39_word_new_line_1 | mammal |  
+| bip_39_word_new_line_10 | mammal
 struggle
 donkey
 turn
@@ -55,7 +55,7 @@ frost
 business
 wear
 consider |  
-| bip_39_word_new_line11 | mammal
+| bip_39_word_new_line_11 | mammal
 struggle
 donkey
 turn
@@ -66,7 +66,7 @@ business
 wear
 consider
 behind |  
-| bip_39_word_new_line12 | mammal
+| bip_39_word_new_line_12 | mammal
 struggle
 donkey
 turn
@@ -78,34 +78,34 @@ wear
 consider
 behind
 april |  
-| bip_39_word_new_line2 | mammal
+| bip_39_word_new_line_2 | mammal
 struggle |  
-| bip_39_word_new_line3 | mammal
+| bip_39_word_new_line_3 | mammal
 struggle
 donkey |  
-| bip_39_word_new_line4 | mammal
+| bip_39_word_new_line_4 | mammal
 struggle
 donkey
 turn |  
-| bip_39_word_new_line5 | mammal
+| bip_39_word_new_line_5 | mammal
 struggle
 donkey
 turn
 raw |  
-| bip_39_word_new_line6 | mammal
+| bip_39_word_new_line_6 | mammal
 struggle
 donkey
 turn
 raw
 bike |  
-| bip_39_word_new_line7 | mammal
+| bip_39_word_new_line_7 | mammal
 struggle
 donkey
 turn
 raw
 bike
 frost |  
-| bip_39_word_new_line8 | mammal
+| bip_39_word_new_line_8 | mammal
 struggle
 donkey
 turn
@@ -113,7 +113,7 @@ raw
 bike
 frost
 business |  
-| bip_39_word_new_line9 | mammal
+| bip_39_word_new_line_9 | mammal
 struggle
 donkey
 turn

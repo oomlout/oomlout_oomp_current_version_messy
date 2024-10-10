@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | other |  
-| bip_39_word_new_br10 | other<br>job<br>liar<br>kiwi<br>ozone<br>idea<br>tiger<br>fine<br>hover<br>thumb |  
-| bip_39_word_new_br11 | other<br>job<br>liar<br>kiwi<br>ozone<br>idea<br>tiger<br>fine<br>hover<br>thumb<br>mail |  
-| bip_39_word_new_br12 | other<br>job<br>liar<br>kiwi<br>ozone<br>idea<br>tiger<br>fine<br>hover<br>thumb<br>mail<br>ability |  
-| bip_39_word_new_br2 | other<br>job |  
-| bip_39_word_new_br3 | other<br>job<br>liar |  
-| bip_39_word_new_br4 | other<br>job<br>liar<br>kiwi |  
-| bip_39_word_new_br5 | other<br>job<br>liar<br>kiwi<br>ozone |  
-| bip_39_word_new_br6 | other<br>job<br>liar<br>kiwi<br>ozone<br>idea |  
-| bip_39_word_new_br7 | other<br>job<br>liar<br>kiwi<br>ozone<br>idea<br>tiger |  
-| bip_39_word_new_br8 | other<br>job<br>liar<br>kiwi<br>ozone<br>idea<br>tiger<br>fine |  
-| bip_39_word_new_br9 | other<br>job<br>liar<br>kiwi<br>ozone<br>idea<br>tiger<br>fine<br>hover |  
-| bip_39_word_new_line1 | other |  
-| bip_39_word_new_line10 | other
+| bip_39_word_new_br_1 | other |  
+| bip_39_word_new_br_10 | other<br>job<br>liar<br>kiwi<br>ozone<br>idea<br>tiger<br>fine<br>hover<br>thumb |  
+| bip_39_word_new_br_11 | other<br>job<br>liar<br>kiwi<br>ozone<br>idea<br>tiger<br>fine<br>hover<br>thumb<br>mail |  
+| bip_39_word_new_br_12 | other<br>job<br>liar<br>kiwi<br>ozone<br>idea<br>tiger<br>fine<br>hover<br>thumb<br>mail<br>ability |  
+| bip_39_word_new_br_2 | other<br>job |  
+| bip_39_word_new_br_3 | other<br>job<br>liar |  
+| bip_39_word_new_br_4 | other<br>job<br>liar<br>kiwi |  
+| bip_39_word_new_br_5 | other<br>job<br>liar<br>kiwi<br>ozone |  
+| bip_39_word_new_br_6 | other<br>job<br>liar<br>kiwi<br>ozone<br>idea |  
+| bip_39_word_new_br_7 | other<br>job<br>liar<br>kiwi<br>ozone<br>idea<br>tiger |  
+| bip_39_word_new_br_8 | other<br>job<br>liar<br>kiwi<br>ozone<br>idea<br>tiger<br>fine |  
+| bip_39_word_new_br_9 | other<br>job<br>liar<br>kiwi<br>ozone<br>idea<br>tiger<br>fine<br>hover |  
+| bip_39_word_new_line_1 | other |  
+| bip_39_word_new_line_10 | other
 job
 liar
 kiwi
@@ -55,7 +55,7 @@ tiger
 fine
 hover
 thumb |  
-| bip_39_word_new_line11 | other
+| bip_39_word_new_line_11 | other
 job
 liar
 kiwi
@@ -66,7 +66,7 @@ fine
 hover
 thumb
 mail |  
-| bip_39_word_new_line12 | other
+| bip_39_word_new_line_12 | other
 job
 liar
 kiwi
@@ -78,34 +78,34 @@ hover
 thumb
 mail
 ability |  
-| bip_39_word_new_line2 | other
+| bip_39_word_new_line_2 | other
 job |  
-| bip_39_word_new_line3 | other
+| bip_39_word_new_line_3 | other
 job
 liar |  
-| bip_39_word_new_line4 | other
+| bip_39_word_new_line_4 | other
 job
 liar
 kiwi |  
-| bip_39_word_new_line5 | other
+| bip_39_word_new_line_5 | other
 job
 liar
 kiwi
 ozone |  
-| bip_39_word_new_line6 | other
+| bip_39_word_new_line_6 | other
 job
 liar
 kiwi
 ozone
 idea |  
-| bip_39_word_new_line7 | other
+| bip_39_word_new_line_7 | other
 job
 liar
 kiwi
 ozone
 idea
 tiger |  
-| bip_39_word_new_line8 | other
+| bip_39_word_new_line_8 | other
 job
 liar
 kiwi
@@ -113,7 +113,7 @@ ozone
 idea
 tiger
 fine |  
-| bip_39_word_new_line9 | other
+| bip_39_word_new_line_9 | other
 job
 liar
 kiwi

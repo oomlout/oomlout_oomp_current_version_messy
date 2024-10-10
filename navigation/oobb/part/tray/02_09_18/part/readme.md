@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fragile |  
-| bip_39_word_new_br10 | fragile<br>ostrich<br>identify<br>universe<br>soon<br>glow<br>since<br>abandon<br>flock<br>include |  
-| bip_39_word_new_br11 | fragile<br>ostrich<br>identify<br>universe<br>soon<br>glow<br>since<br>abandon<br>flock<br>include<br>bonus |  
-| bip_39_word_new_br12 | fragile<br>ostrich<br>identify<br>universe<br>soon<br>glow<br>since<br>abandon<br>flock<br>include<br>bonus<br>already |  
-| bip_39_word_new_br2 | fragile<br>ostrich |  
-| bip_39_word_new_br3 | fragile<br>ostrich<br>identify |  
-| bip_39_word_new_br4 | fragile<br>ostrich<br>identify<br>universe |  
-| bip_39_word_new_br5 | fragile<br>ostrich<br>identify<br>universe<br>soon |  
-| bip_39_word_new_br6 | fragile<br>ostrich<br>identify<br>universe<br>soon<br>glow |  
-| bip_39_word_new_br7 | fragile<br>ostrich<br>identify<br>universe<br>soon<br>glow<br>since |  
-| bip_39_word_new_br8 | fragile<br>ostrich<br>identify<br>universe<br>soon<br>glow<br>since<br>abandon |  
-| bip_39_word_new_br9 | fragile<br>ostrich<br>identify<br>universe<br>soon<br>glow<br>since<br>abandon<br>flock |  
-| bip_39_word_new_line1 | fragile |  
-| bip_39_word_new_line10 | fragile
+| bip_39_word_new_br_1 | fragile |  
+| bip_39_word_new_br_10 | fragile<br>ostrich<br>identify<br>universe<br>soon<br>glow<br>since<br>abandon<br>flock<br>include |  
+| bip_39_word_new_br_11 | fragile<br>ostrich<br>identify<br>universe<br>soon<br>glow<br>since<br>abandon<br>flock<br>include<br>bonus |  
+| bip_39_word_new_br_12 | fragile<br>ostrich<br>identify<br>universe<br>soon<br>glow<br>since<br>abandon<br>flock<br>include<br>bonus<br>already |  
+| bip_39_word_new_br_2 | fragile<br>ostrich |  
+| bip_39_word_new_br_3 | fragile<br>ostrich<br>identify |  
+| bip_39_word_new_br_4 | fragile<br>ostrich<br>identify<br>universe |  
+| bip_39_word_new_br_5 | fragile<br>ostrich<br>identify<br>universe<br>soon |  
+| bip_39_word_new_br_6 | fragile<br>ostrich<br>identify<br>universe<br>soon<br>glow |  
+| bip_39_word_new_br_7 | fragile<br>ostrich<br>identify<br>universe<br>soon<br>glow<br>since |  
+| bip_39_word_new_br_8 | fragile<br>ostrich<br>identify<br>universe<br>soon<br>glow<br>since<br>abandon |  
+| bip_39_word_new_br_9 | fragile<br>ostrich<br>identify<br>universe<br>soon<br>glow<br>since<br>abandon<br>flock |  
+| bip_39_word_new_line_1 | fragile |  
+| bip_39_word_new_line_10 | fragile
 ostrich
 identify
 universe
@@ -55,7 +55,7 @@ since
 abandon
 flock
 include |  
-| bip_39_word_new_line11 | fragile
+| bip_39_word_new_line_11 | fragile
 ostrich
 identify
 universe
@@ -66,7 +66,7 @@ abandon
 flock
 include
 bonus |  
-| bip_39_word_new_line12 | fragile
+| bip_39_word_new_line_12 | fragile
 ostrich
 identify
 universe
@@ -78,34 +78,34 @@ flock
 include
 bonus
 already |  
-| bip_39_word_new_line2 | fragile
+| bip_39_word_new_line_2 | fragile
 ostrich |  
-| bip_39_word_new_line3 | fragile
+| bip_39_word_new_line_3 | fragile
 ostrich
 identify |  
-| bip_39_word_new_line4 | fragile
+| bip_39_word_new_line_4 | fragile
 ostrich
 identify
 universe |  
-| bip_39_word_new_line5 | fragile
+| bip_39_word_new_line_5 | fragile
 ostrich
 identify
 universe
 soon |  
-| bip_39_word_new_line6 | fragile
+| bip_39_word_new_line_6 | fragile
 ostrich
 identify
 universe
 soon
 glow |  
-| bip_39_word_new_line7 | fragile
+| bip_39_word_new_line_7 | fragile
 ostrich
 identify
 universe
 soon
 glow
 since |  
-| bip_39_word_new_line8 | fragile
+| bip_39_word_new_line_8 | fragile
 ostrich
 identify
 universe
@@ -113,7 +113,7 @@ soon
 glow
 since
 abandon |  
-| bip_39_word_new_line9 | fragile
+| bip_39_word_new_line_9 | fragile
 ostrich
 identify
 universe

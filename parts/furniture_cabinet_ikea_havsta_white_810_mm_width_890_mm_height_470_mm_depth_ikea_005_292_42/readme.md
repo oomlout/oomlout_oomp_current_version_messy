@@ -33,20 +33,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | virus |  
-| bip_39_word_new_br10 | virus<br>victory<br>fruit<br>off<br>boring<br>rebuild<br>wisdom<br>extend<br>report<br>physical |  
-| bip_39_word_new_br11 | virus<br>victory<br>fruit<br>off<br>boring<br>rebuild<br>wisdom<br>extend<br>report<br>physical<br>street |  
-| bip_39_word_new_br12 | virus<br>victory<br>fruit<br>off<br>boring<br>rebuild<br>wisdom<br>extend<br>report<br>physical<br>street<br>asset |  
-| bip_39_word_new_br2 | virus<br>victory |  
-| bip_39_word_new_br3 | virus<br>victory<br>fruit |  
-| bip_39_word_new_br4 | virus<br>victory<br>fruit<br>off |  
-| bip_39_word_new_br5 | virus<br>victory<br>fruit<br>off<br>boring |  
-| bip_39_word_new_br6 | virus<br>victory<br>fruit<br>off<br>boring<br>rebuild |  
-| bip_39_word_new_br7 | virus<br>victory<br>fruit<br>off<br>boring<br>rebuild<br>wisdom |  
-| bip_39_word_new_br8 | virus<br>victory<br>fruit<br>off<br>boring<br>rebuild<br>wisdom<br>extend |  
-| bip_39_word_new_br9 | virus<br>victory<br>fruit<br>off<br>boring<br>rebuild<br>wisdom<br>extend<br>report |  
-| bip_39_word_new_line1 | virus |  
-| bip_39_word_new_line10 | virus
+| bip_39_word_new_br_1 | virus |  
+| bip_39_word_new_br_10 | virus<br>victory<br>fruit<br>off<br>boring<br>rebuild<br>wisdom<br>extend<br>report<br>physical |  
+| bip_39_word_new_br_11 | virus<br>victory<br>fruit<br>off<br>boring<br>rebuild<br>wisdom<br>extend<br>report<br>physical<br>street |  
+| bip_39_word_new_br_12 | virus<br>victory<br>fruit<br>off<br>boring<br>rebuild<br>wisdom<br>extend<br>report<br>physical<br>street<br>asset |  
+| bip_39_word_new_br_2 | virus<br>victory |  
+| bip_39_word_new_br_3 | virus<br>victory<br>fruit |  
+| bip_39_word_new_br_4 | virus<br>victory<br>fruit<br>off |  
+| bip_39_word_new_br_5 | virus<br>victory<br>fruit<br>off<br>boring |  
+| bip_39_word_new_br_6 | virus<br>victory<br>fruit<br>off<br>boring<br>rebuild |  
+| bip_39_word_new_br_7 | virus<br>victory<br>fruit<br>off<br>boring<br>rebuild<br>wisdom |  
+| bip_39_word_new_br_8 | virus<br>victory<br>fruit<br>off<br>boring<br>rebuild<br>wisdom<br>extend |  
+| bip_39_word_new_br_9 | virus<br>victory<br>fruit<br>off<br>boring<br>rebuild<br>wisdom<br>extend<br>report |  
+| bip_39_word_new_line_1 | virus |  
+| bip_39_word_new_line_10 | virus
 victory
 fruit
 off
@@ -56,7 +56,7 @@ wisdom
 extend
 report
 physical |  
-| bip_39_word_new_line11 | virus
+| bip_39_word_new_line_11 | virus
 victory
 fruit
 off
@@ -67,7 +67,7 @@ extend
 report
 physical
 street |  
-| bip_39_word_new_line12 | virus
+| bip_39_word_new_line_12 | virus
 victory
 fruit
 off
@@ -79,34 +79,34 @@ report
 physical
 street
 asset |  
-| bip_39_word_new_line2 | virus
+| bip_39_word_new_line_2 | virus
 victory |  
-| bip_39_word_new_line3 | virus
+| bip_39_word_new_line_3 | virus
 victory
 fruit |  
-| bip_39_word_new_line4 | virus
+| bip_39_word_new_line_4 | virus
 victory
 fruit
 off |  
-| bip_39_word_new_line5 | virus
+| bip_39_word_new_line_5 | virus
 victory
 fruit
 off
 boring |  
-| bip_39_word_new_line6 | virus
+| bip_39_word_new_line_6 | virus
 victory
 fruit
 off
 boring
 rebuild |  
-| bip_39_word_new_line7 | virus
+| bip_39_word_new_line_7 | virus
 victory
 fruit
 off
 boring
 rebuild
 wisdom |  
-| bip_39_word_new_line8 | virus
+| bip_39_word_new_line_8 | virus
 victory
 fruit
 off
@@ -114,7 +114,7 @@ boring
 rebuild
 wisdom
 extend |  
-| bip_39_word_new_line9 | virus
+| bip_39_word_new_line_9 | virus
 victory
 fruit
 off

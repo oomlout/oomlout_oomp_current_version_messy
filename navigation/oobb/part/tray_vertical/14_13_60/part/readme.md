@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hospital |  
-| bip_39_word_new_br10 | hospital<br>grief<br>basic<br>night<br>pattern<br>primary<br>square<br>dumb<br>dune<br>biology |  
-| bip_39_word_new_br11 | hospital<br>grief<br>basic<br>night<br>pattern<br>primary<br>square<br>dumb<br>dune<br>biology<br>drum |  
-| bip_39_word_new_br12 | hospital<br>grief<br>basic<br>night<br>pattern<br>primary<br>square<br>dumb<br>dune<br>biology<br>drum<br>annual |  
-| bip_39_word_new_br2 | hospital<br>grief |  
-| bip_39_word_new_br3 | hospital<br>grief<br>basic |  
-| bip_39_word_new_br4 | hospital<br>grief<br>basic<br>night |  
-| bip_39_word_new_br5 | hospital<br>grief<br>basic<br>night<br>pattern |  
-| bip_39_word_new_br6 | hospital<br>grief<br>basic<br>night<br>pattern<br>primary |  
-| bip_39_word_new_br7 | hospital<br>grief<br>basic<br>night<br>pattern<br>primary<br>square |  
-| bip_39_word_new_br8 | hospital<br>grief<br>basic<br>night<br>pattern<br>primary<br>square<br>dumb |  
-| bip_39_word_new_br9 | hospital<br>grief<br>basic<br>night<br>pattern<br>primary<br>square<br>dumb<br>dune |  
-| bip_39_word_new_line1 | hospital |  
-| bip_39_word_new_line10 | hospital
+| bip_39_word_new_br_1 | hospital |  
+| bip_39_word_new_br_10 | hospital<br>grief<br>basic<br>night<br>pattern<br>primary<br>square<br>dumb<br>dune<br>biology |  
+| bip_39_word_new_br_11 | hospital<br>grief<br>basic<br>night<br>pattern<br>primary<br>square<br>dumb<br>dune<br>biology<br>drum |  
+| bip_39_word_new_br_12 | hospital<br>grief<br>basic<br>night<br>pattern<br>primary<br>square<br>dumb<br>dune<br>biology<br>drum<br>annual |  
+| bip_39_word_new_br_2 | hospital<br>grief |  
+| bip_39_word_new_br_3 | hospital<br>grief<br>basic |  
+| bip_39_word_new_br_4 | hospital<br>grief<br>basic<br>night |  
+| bip_39_word_new_br_5 | hospital<br>grief<br>basic<br>night<br>pattern |  
+| bip_39_word_new_br_6 | hospital<br>grief<br>basic<br>night<br>pattern<br>primary |  
+| bip_39_word_new_br_7 | hospital<br>grief<br>basic<br>night<br>pattern<br>primary<br>square |  
+| bip_39_word_new_br_8 | hospital<br>grief<br>basic<br>night<br>pattern<br>primary<br>square<br>dumb |  
+| bip_39_word_new_br_9 | hospital<br>grief<br>basic<br>night<br>pattern<br>primary<br>square<br>dumb<br>dune |  
+| bip_39_word_new_line_1 | hospital |  
+| bip_39_word_new_line_10 | hospital
 grief
 basic
 night
@@ -55,7 +55,7 @@ square
 dumb
 dune
 biology |  
-| bip_39_word_new_line11 | hospital
+| bip_39_word_new_line_11 | hospital
 grief
 basic
 night
@@ -66,7 +66,7 @@ dumb
 dune
 biology
 drum |  
-| bip_39_word_new_line12 | hospital
+| bip_39_word_new_line_12 | hospital
 grief
 basic
 night
@@ -78,34 +78,34 @@ dune
 biology
 drum
 annual |  
-| bip_39_word_new_line2 | hospital
+| bip_39_word_new_line_2 | hospital
 grief |  
-| bip_39_word_new_line3 | hospital
+| bip_39_word_new_line_3 | hospital
 grief
 basic |  
-| bip_39_word_new_line4 | hospital
+| bip_39_word_new_line_4 | hospital
 grief
 basic
 night |  
-| bip_39_word_new_line5 | hospital
+| bip_39_word_new_line_5 | hospital
 grief
 basic
 night
 pattern |  
-| bip_39_word_new_line6 | hospital
+| bip_39_word_new_line_6 | hospital
 grief
 basic
 night
 pattern
 primary |  
-| bip_39_word_new_line7 | hospital
+| bip_39_word_new_line_7 | hospital
 grief
 basic
 night
 pattern
 primary
 square |  
-| bip_39_word_new_line8 | hospital
+| bip_39_word_new_line_8 | hospital
 grief
 basic
 night
@@ -113,7 +113,7 @@ pattern
 primary
 square
 dumb |  
-| bip_39_word_new_line9 | hospital
+| bip_39_word_new_line_9 | hospital
 grief
 basic
 night

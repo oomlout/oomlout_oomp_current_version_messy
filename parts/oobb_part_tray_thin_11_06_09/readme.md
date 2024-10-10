@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | busy |  
-| bip_39_word_new_br10 | busy<br>reason<br>seek<br>jeans<br>either<br>boring<br>skull<br>light<br>then<br>museum |  
-| bip_39_word_new_br11 | busy<br>reason<br>seek<br>jeans<br>either<br>boring<br>skull<br>light<br>then<br>museum<br>help |  
-| bip_39_word_new_br12 | busy<br>reason<br>seek<br>jeans<br>either<br>boring<br>skull<br>light<br>then<br>museum<br>help<br>amateur |  
-| bip_39_word_new_br2 | busy<br>reason |  
-| bip_39_word_new_br3 | busy<br>reason<br>seek |  
-| bip_39_word_new_br4 | busy<br>reason<br>seek<br>jeans |  
-| bip_39_word_new_br5 | busy<br>reason<br>seek<br>jeans<br>either |  
-| bip_39_word_new_br6 | busy<br>reason<br>seek<br>jeans<br>either<br>boring |  
-| bip_39_word_new_br7 | busy<br>reason<br>seek<br>jeans<br>either<br>boring<br>skull |  
-| bip_39_word_new_br8 | busy<br>reason<br>seek<br>jeans<br>either<br>boring<br>skull<br>light |  
-| bip_39_word_new_br9 | busy<br>reason<br>seek<br>jeans<br>either<br>boring<br>skull<br>light<br>then |  
-| bip_39_word_new_line1 | busy |  
-| bip_39_word_new_line10 | busy
+| bip_39_word_new_br_1 | busy |  
+| bip_39_word_new_br_10 | busy<br>reason<br>seek<br>jeans<br>either<br>boring<br>skull<br>light<br>then<br>museum |  
+| bip_39_word_new_br_11 | busy<br>reason<br>seek<br>jeans<br>either<br>boring<br>skull<br>light<br>then<br>museum<br>help |  
+| bip_39_word_new_br_12 | busy<br>reason<br>seek<br>jeans<br>either<br>boring<br>skull<br>light<br>then<br>museum<br>help<br>amateur |  
+| bip_39_word_new_br_2 | busy<br>reason |  
+| bip_39_word_new_br_3 | busy<br>reason<br>seek |  
+| bip_39_word_new_br_4 | busy<br>reason<br>seek<br>jeans |  
+| bip_39_word_new_br_5 | busy<br>reason<br>seek<br>jeans<br>either |  
+| bip_39_word_new_br_6 | busy<br>reason<br>seek<br>jeans<br>either<br>boring |  
+| bip_39_word_new_br_7 | busy<br>reason<br>seek<br>jeans<br>either<br>boring<br>skull |  
+| bip_39_word_new_br_8 | busy<br>reason<br>seek<br>jeans<br>either<br>boring<br>skull<br>light |  
+| bip_39_word_new_br_9 | busy<br>reason<br>seek<br>jeans<br>either<br>boring<br>skull<br>light<br>then |  
+| bip_39_word_new_line_1 | busy |  
+| bip_39_word_new_line_10 | busy
 reason
 seek
 jeans
@@ -55,7 +55,7 @@ skull
 light
 then
 museum |  
-| bip_39_word_new_line11 | busy
+| bip_39_word_new_line_11 | busy
 reason
 seek
 jeans
@@ -66,7 +66,7 @@ light
 then
 museum
 help |  
-| bip_39_word_new_line12 | busy
+| bip_39_word_new_line_12 | busy
 reason
 seek
 jeans
@@ -78,34 +78,34 @@ then
 museum
 help
 amateur |  
-| bip_39_word_new_line2 | busy
+| bip_39_word_new_line_2 | busy
 reason |  
-| bip_39_word_new_line3 | busy
+| bip_39_word_new_line_3 | busy
 reason
 seek |  
-| bip_39_word_new_line4 | busy
+| bip_39_word_new_line_4 | busy
 reason
 seek
 jeans |  
-| bip_39_word_new_line5 | busy
+| bip_39_word_new_line_5 | busy
 reason
 seek
 jeans
 either |  
-| bip_39_word_new_line6 | busy
+| bip_39_word_new_line_6 | busy
 reason
 seek
 jeans
 either
 boring |  
-| bip_39_word_new_line7 | busy
+| bip_39_word_new_line_7 | busy
 reason
 seek
 jeans
 either
 boring
 skull |  
-| bip_39_word_new_line8 | busy
+| bip_39_word_new_line_8 | busy
 reason
 seek
 jeans
@@ -113,7 +113,7 @@ either
 boring
 skull
 light |  
-| bip_39_word_new_line9 | busy
+| bip_39_word_new_line_9 | busy
 reason
 seek
 jeans

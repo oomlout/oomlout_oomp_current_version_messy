@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ribbon |  
-| bip_39_word_new_br10 | ribbon<br>nerve<br>choice<br>tornado<br>evidence<br>nation<br>disorder<br>initial<br>place<br>nerve |  
-| bip_39_word_new_br11 | ribbon<br>nerve<br>choice<br>tornado<br>evidence<br>nation<br>disorder<br>initial<br>place<br>nerve<br>loan |  
-| bip_39_word_new_br12 | ribbon<br>nerve<br>choice<br>tornado<br>evidence<br>nation<br>disorder<br>initial<br>place<br>nerve<br>loan<br>assist |  
-| bip_39_word_new_br2 | ribbon<br>nerve |  
-| bip_39_word_new_br3 | ribbon<br>nerve<br>choice |  
-| bip_39_word_new_br4 | ribbon<br>nerve<br>choice<br>tornado |  
-| bip_39_word_new_br5 | ribbon<br>nerve<br>choice<br>tornado<br>evidence |  
-| bip_39_word_new_br6 | ribbon<br>nerve<br>choice<br>tornado<br>evidence<br>nation |  
-| bip_39_word_new_br7 | ribbon<br>nerve<br>choice<br>tornado<br>evidence<br>nation<br>disorder |  
-| bip_39_word_new_br8 | ribbon<br>nerve<br>choice<br>tornado<br>evidence<br>nation<br>disorder<br>initial |  
-| bip_39_word_new_br9 | ribbon<br>nerve<br>choice<br>tornado<br>evidence<br>nation<br>disorder<br>initial<br>place |  
-| bip_39_word_new_line1 | ribbon |  
-| bip_39_word_new_line10 | ribbon
+| bip_39_word_new_br_1 | ribbon |  
+| bip_39_word_new_br_10 | ribbon<br>nerve<br>choice<br>tornado<br>evidence<br>nation<br>disorder<br>initial<br>place<br>nerve |  
+| bip_39_word_new_br_11 | ribbon<br>nerve<br>choice<br>tornado<br>evidence<br>nation<br>disorder<br>initial<br>place<br>nerve<br>loan |  
+| bip_39_word_new_br_12 | ribbon<br>nerve<br>choice<br>tornado<br>evidence<br>nation<br>disorder<br>initial<br>place<br>nerve<br>loan<br>assist |  
+| bip_39_word_new_br_2 | ribbon<br>nerve |  
+| bip_39_word_new_br_3 | ribbon<br>nerve<br>choice |  
+| bip_39_word_new_br_4 | ribbon<br>nerve<br>choice<br>tornado |  
+| bip_39_word_new_br_5 | ribbon<br>nerve<br>choice<br>tornado<br>evidence |  
+| bip_39_word_new_br_6 | ribbon<br>nerve<br>choice<br>tornado<br>evidence<br>nation |  
+| bip_39_word_new_br_7 | ribbon<br>nerve<br>choice<br>tornado<br>evidence<br>nation<br>disorder |  
+| bip_39_word_new_br_8 | ribbon<br>nerve<br>choice<br>tornado<br>evidence<br>nation<br>disorder<br>initial |  
+| bip_39_word_new_br_9 | ribbon<br>nerve<br>choice<br>tornado<br>evidence<br>nation<br>disorder<br>initial<br>place |  
+| bip_39_word_new_line_1 | ribbon |  
+| bip_39_word_new_line_10 | ribbon
 nerve
 choice
 tornado
@@ -55,7 +55,7 @@ disorder
 initial
 place
 nerve |  
-| bip_39_word_new_line11 | ribbon
+| bip_39_word_new_line_11 | ribbon
 nerve
 choice
 tornado
@@ -66,7 +66,7 @@ initial
 place
 nerve
 loan |  
-| bip_39_word_new_line12 | ribbon
+| bip_39_word_new_line_12 | ribbon
 nerve
 choice
 tornado
@@ -78,34 +78,34 @@ place
 nerve
 loan
 assist |  
-| bip_39_word_new_line2 | ribbon
+| bip_39_word_new_line_2 | ribbon
 nerve |  
-| bip_39_word_new_line3 | ribbon
+| bip_39_word_new_line_3 | ribbon
 nerve
 choice |  
-| bip_39_word_new_line4 | ribbon
+| bip_39_word_new_line_4 | ribbon
 nerve
 choice
 tornado |  
-| bip_39_word_new_line5 | ribbon
+| bip_39_word_new_line_5 | ribbon
 nerve
 choice
 tornado
 evidence |  
-| bip_39_word_new_line6 | ribbon
+| bip_39_word_new_line_6 | ribbon
 nerve
 choice
 tornado
 evidence
 nation |  
-| bip_39_word_new_line7 | ribbon
+| bip_39_word_new_line_7 | ribbon
 nerve
 choice
 tornado
 evidence
 nation
 disorder |  
-| bip_39_word_new_line8 | ribbon
+| bip_39_word_new_line_8 | ribbon
 nerve
 choice
 tornado
@@ -113,7 +113,7 @@ evidence
 nation
 disorder
 initial |  
-| bip_39_word_new_line9 | ribbon
+| bip_39_word_new_line_9 | ribbon
 nerve
 choice
 tornado

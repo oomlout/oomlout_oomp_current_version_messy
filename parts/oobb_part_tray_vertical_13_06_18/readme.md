@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | snap |  
-| bip_39_word_new_br10 | snap<br>have<br>attend<br>myself<br>hood<br>mandate<br>blur<br>bus<br>jazz<br>ocean |  
-| bip_39_word_new_br11 | snap<br>have<br>attend<br>myself<br>hood<br>mandate<br>blur<br>bus<br>jazz<br>ocean<br>kiwi |  
-| bip_39_word_new_br12 | snap<br>have<br>attend<br>myself<br>hood<br>mandate<br>blur<br>bus<br>jazz<br>ocean<br>kiwi<br>approve |  
-| bip_39_word_new_br2 | snap<br>have |  
-| bip_39_word_new_br3 | snap<br>have<br>attend |  
-| bip_39_word_new_br4 | snap<br>have<br>attend<br>myself |  
-| bip_39_word_new_br5 | snap<br>have<br>attend<br>myself<br>hood |  
-| bip_39_word_new_br6 | snap<br>have<br>attend<br>myself<br>hood<br>mandate |  
-| bip_39_word_new_br7 | snap<br>have<br>attend<br>myself<br>hood<br>mandate<br>blur |  
-| bip_39_word_new_br8 | snap<br>have<br>attend<br>myself<br>hood<br>mandate<br>blur<br>bus |  
-| bip_39_word_new_br9 | snap<br>have<br>attend<br>myself<br>hood<br>mandate<br>blur<br>bus<br>jazz |  
-| bip_39_word_new_line1 | snap |  
-| bip_39_word_new_line10 | snap
+| bip_39_word_new_br_1 | snap |  
+| bip_39_word_new_br_10 | snap<br>have<br>attend<br>myself<br>hood<br>mandate<br>blur<br>bus<br>jazz<br>ocean |  
+| bip_39_word_new_br_11 | snap<br>have<br>attend<br>myself<br>hood<br>mandate<br>blur<br>bus<br>jazz<br>ocean<br>kiwi |  
+| bip_39_word_new_br_12 | snap<br>have<br>attend<br>myself<br>hood<br>mandate<br>blur<br>bus<br>jazz<br>ocean<br>kiwi<br>approve |  
+| bip_39_word_new_br_2 | snap<br>have |  
+| bip_39_word_new_br_3 | snap<br>have<br>attend |  
+| bip_39_word_new_br_4 | snap<br>have<br>attend<br>myself |  
+| bip_39_word_new_br_5 | snap<br>have<br>attend<br>myself<br>hood |  
+| bip_39_word_new_br_6 | snap<br>have<br>attend<br>myself<br>hood<br>mandate |  
+| bip_39_word_new_br_7 | snap<br>have<br>attend<br>myself<br>hood<br>mandate<br>blur |  
+| bip_39_word_new_br_8 | snap<br>have<br>attend<br>myself<br>hood<br>mandate<br>blur<br>bus |  
+| bip_39_word_new_br_9 | snap<br>have<br>attend<br>myself<br>hood<br>mandate<br>blur<br>bus<br>jazz |  
+| bip_39_word_new_line_1 | snap |  
+| bip_39_word_new_line_10 | snap
 have
 attend
 myself
@@ -55,7 +55,7 @@ blur
 bus
 jazz
 ocean |  
-| bip_39_word_new_line11 | snap
+| bip_39_word_new_line_11 | snap
 have
 attend
 myself
@@ -66,7 +66,7 @@ bus
 jazz
 ocean
 kiwi |  
-| bip_39_word_new_line12 | snap
+| bip_39_word_new_line_12 | snap
 have
 attend
 myself
@@ -78,34 +78,34 @@ jazz
 ocean
 kiwi
 approve |  
-| bip_39_word_new_line2 | snap
+| bip_39_word_new_line_2 | snap
 have |  
-| bip_39_word_new_line3 | snap
+| bip_39_word_new_line_3 | snap
 have
 attend |  
-| bip_39_word_new_line4 | snap
+| bip_39_word_new_line_4 | snap
 have
 attend
 myself |  
-| bip_39_word_new_line5 | snap
+| bip_39_word_new_line_5 | snap
 have
 attend
 myself
 hood |  
-| bip_39_word_new_line6 | snap
+| bip_39_word_new_line_6 | snap
 have
 attend
 myself
 hood
 mandate |  
-| bip_39_word_new_line7 | snap
+| bip_39_word_new_line_7 | snap
 have
 attend
 myself
 hood
 mandate
 blur |  
-| bip_39_word_new_line8 | snap
+| bip_39_word_new_line_8 | snap
 have
 attend
 myself
@@ -113,7 +113,7 @@ hood
 mandate
 blur
 bus |  
-| bip_39_word_new_line9 | snap
+| bip_39_word_new_line_9 | snap
 have
 attend
 myself

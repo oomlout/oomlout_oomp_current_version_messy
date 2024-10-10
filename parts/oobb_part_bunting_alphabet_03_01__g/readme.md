@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | supreme |  
-| bip_39_word_new_br10 | supreme<br>material<br>test<br>judge<br>spot<br>manage<br>water<br>version<br>tattoo<br>another |  
-| bip_39_word_new_br11 | supreme<br>material<br>test<br>judge<br>spot<br>manage<br>water<br>version<br>tattoo<br>another<br>mistake |  
-| bip_39_word_new_br12 | supreme<br>material<br>test<br>judge<br>spot<br>manage<br>water<br>version<br>tattoo<br>another<br>mistake<br>address |  
-| bip_39_word_new_br2 | supreme<br>material |  
-| bip_39_word_new_br3 | supreme<br>material<br>test |  
-| bip_39_word_new_br4 | supreme<br>material<br>test<br>judge |  
-| bip_39_word_new_br5 | supreme<br>material<br>test<br>judge<br>spot |  
-| bip_39_word_new_br6 | supreme<br>material<br>test<br>judge<br>spot<br>manage |  
-| bip_39_word_new_br7 | supreme<br>material<br>test<br>judge<br>spot<br>manage<br>water |  
-| bip_39_word_new_br8 | supreme<br>material<br>test<br>judge<br>spot<br>manage<br>water<br>version |  
-| bip_39_word_new_br9 | supreme<br>material<br>test<br>judge<br>spot<br>manage<br>water<br>version<br>tattoo |  
-| bip_39_word_new_line1 | supreme |  
-| bip_39_word_new_line10 | supreme
+| bip_39_word_new_br_1 | supreme |  
+| bip_39_word_new_br_10 | supreme<br>material<br>test<br>judge<br>spot<br>manage<br>water<br>version<br>tattoo<br>another |  
+| bip_39_word_new_br_11 | supreme<br>material<br>test<br>judge<br>spot<br>manage<br>water<br>version<br>tattoo<br>another<br>mistake |  
+| bip_39_word_new_br_12 | supreme<br>material<br>test<br>judge<br>spot<br>manage<br>water<br>version<br>tattoo<br>another<br>mistake<br>address |  
+| bip_39_word_new_br_2 | supreme<br>material |  
+| bip_39_word_new_br_3 | supreme<br>material<br>test |  
+| bip_39_word_new_br_4 | supreme<br>material<br>test<br>judge |  
+| bip_39_word_new_br_5 | supreme<br>material<br>test<br>judge<br>spot |  
+| bip_39_word_new_br_6 | supreme<br>material<br>test<br>judge<br>spot<br>manage |  
+| bip_39_word_new_br_7 | supreme<br>material<br>test<br>judge<br>spot<br>manage<br>water |  
+| bip_39_word_new_br_8 | supreme<br>material<br>test<br>judge<br>spot<br>manage<br>water<br>version |  
+| bip_39_word_new_br_9 | supreme<br>material<br>test<br>judge<br>spot<br>manage<br>water<br>version<br>tattoo |  
+| bip_39_word_new_line_1 | supreme |  
+| bip_39_word_new_line_10 | supreme
 material
 test
 judge
@@ -55,7 +55,7 @@ water
 version
 tattoo
 another |  
-| bip_39_word_new_line11 | supreme
+| bip_39_word_new_line_11 | supreme
 material
 test
 judge
@@ -66,7 +66,7 @@ version
 tattoo
 another
 mistake |  
-| bip_39_word_new_line12 | supreme
+| bip_39_word_new_line_12 | supreme
 material
 test
 judge
@@ -78,34 +78,34 @@ tattoo
 another
 mistake
 address |  
-| bip_39_word_new_line2 | supreme
+| bip_39_word_new_line_2 | supreme
 material |  
-| bip_39_word_new_line3 | supreme
+| bip_39_word_new_line_3 | supreme
 material
 test |  
-| bip_39_word_new_line4 | supreme
+| bip_39_word_new_line_4 | supreme
 material
 test
 judge |  
-| bip_39_word_new_line5 | supreme
+| bip_39_word_new_line_5 | supreme
 material
 test
 judge
 spot |  
-| bip_39_word_new_line6 | supreme
+| bip_39_word_new_line_6 | supreme
 material
 test
 judge
 spot
 manage |  
-| bip_39_word_new_line7 | supreme
+| bip_39_word_new_line_7 | supreme
 material
 test
 judge
 spot
 manage
 water |  
-| bip_39_word_new_line8 | supreme
+| bip_39_word_new_line_8 | supreme
 material
 test
 judge
@@ -113,7 +113,7 @@ spot
 manage
 water
 version |  
-| bip_39_word_new_line9 | supreme
+| bip_39_word_new_line_9 | supreme
 material
 test
 judge

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | olympic |  
-| bip_39_word_new_br10 | olympic<br>combine<br>switch<br>sunny<br>hawk<br>rigid<br>night<br>cigar<br>student<br>adult |  
-| bip_39_word_new_br11 | olympic<br>combine<br>switch<br>sunny<br>hawk<br>rigid<br>night<br>cigar<br>student<br>adult<br>prevent |  
-| bip_39_word_new_br12 | olympic<br>combine<br>switch<br>sunny<br>hawk<br>rigid<br>night<br>cigar<br>student<br>adult<br>prevent<br>attract |  
-| bip_39_word_new_br2 | olympic<br>combine |  
-| bip_39_word_new_br3 | olympic<br>combine<br>switch |  
-| bip_39_word_new_br4 | olympic<br>combine<br>switch<br>sunny |  
-| bip_39_word_new_br5 | olympic<br>combine<br>switch<br>sunny<br>hawk |  
-| bip_39_word_new_br6 | olympic<br>combine<br>switch<br>sunny<br>hawk<br>rigid |  
-| bip_39_word_new_br7 | olympic<br>combine<br>switch<br>sunny<br>hawk<br>rigid<br>night |  
-| bip_39_word_new_br8 | olympic<br>combine<br>switch<br>sunny<br>hawk<br>rigid<br>night<br>cigar |  
-| bip_39_word_new_br9 | olympic<br>combine<br>switch<br>sunny<br>hawk<br>rigid<br>night<br>cigar<br>student |  
-| bip_39_word_new_line1 | olympic |  
-| bip_39_word_new_line10 | olympic
+| bip_39_word_new_br_1 | olympic |  
+| bip_39_word_new_br_10 | olympic<br>combine<br>switch<br>sunny<br>hawk<br>rigid<br>night<br>cigar<br>student<br>adult |  
+| bip_39_word_new_br_11 | olympic<br>combine<br>switch<br>sunny<br>hawk<br>rigid<br>night<br>cigar<br>student<br>adult<br>prevent |  
+| bip_39_word_new_br_12 | olympic<br>combine<br>switch<br>sunny<br>hawk<br>rigid<br>night<br>cigar<br>student<br>adult<br>prevent<br>attract |  
+| bip_39_word_new_br_2 | olympic<br>combine |  
+| bip_39_word_new_br_3 | olympic<br>combine<br>switch |  
+| bip_39_word_new_br_4 | olympic<br>combine<br>switch<br>sunny |  
+| bip_39_word_new_br_5 | olympic<br>combine<br>switch<br>sunny<br>hawk |  
+| bip_39_word_new_br_6 | olympic<br>combine<br>switch<br>sunny<br>hawk<br>rigid |  
+| bip_39_word_new_br_7 | olympic<br>combine<br>switch<br>sunny<br>hawk<br>rigid<br>night |  
+| bip_39_word_new_br_8 | olympic<br>combine<br>switch<br>sunny<br>hawk<br>rigid<br>night<br>cigar |  
+| bip_39_word_new_br_9 | olympic<br>combine<br>switch<br>sunny<br>hawk<br>rigid<br>night<br>cigar<br>student |  
+| bip_39_word_new_line_1 | olympic |  
+| bip_39_word_new_line_10 | olympic
 combine
 switch
 sunny
@@ -55,7 +55,7 @@ night
 cigar
 student
 adult |  
-| bip_39_word_new_line11 | olympic
+| bip_39_word_new_line_11 | olympic
 combine
 switch
 sunny
@@ -66,7 +66,7 @@ cigar
 student
 adult
 prevent |  
-| bip_39_word_new_line12 | olympic
+| bip_39_word_new_line_12 | olympic
 combine
 switch
 sunny
@@ -78,34 +78,34 @@ student
 adult
 prevent
 attract |  
-| bip_39_word_new_line2 | olympic
+| bip_39_word_new_line_2 | olympic
 combine |  
-| bip_39_word_new_line3 | olympic
+| bip_39_word_new_line_3 | olympic
 combine
 switch |  
-| bip_39_word_new_line4 | olympic
+| bip_39_word_new_line_4 | olympic
 combine
 switch
 sunny |  
-| bip_39_word_new_line5 | olympic
+| bip_39_word_new_line_5 | olympic
 combine
 switch
 sunny
 hawk |  
-| bip_39_word_new_line6 | olympic
+| bip_39_word_new_line_6 | olympic
 combine
 switch
 sunny
 hawk
 rigid |  
-| bip_39_word_new_line7 | olympic
+| bip_39_word_new_line_7 | olympic
 combine
 switch
 sunny
 hawk
 rigid
 night |  
-| bip_39_word_new_line8 | olympic
+| bip_39_word_new_line_8 | olympic
 combine
 switch
 sunny
@@ -113,7 +113,7 @@ hawk
 rigid
 night
 cigar |  
-| bip_39_word_new_line9 | olympic
+| bip_39_word_new_line_9 | olympic
 combine
 switch
 sunny

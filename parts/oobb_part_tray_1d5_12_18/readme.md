@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | avocado |  
-| bip_39_word_new_br10 | avocado<br>cereal<br>force<br>naive<br>panel<br>ordinary<br>purchase<br>appear<br>high<br>manage |  
-| bip_39_word_new_br11 | avocado<br>cereal<br>force<br>naive<br>panel<br>ordinary<br>purchase<br>appear<br>high<br>manage<br>awake |  
-| bip_39_word_new_br12 | avocado<br>cereal<br>force<br>naive<br>panel<br>ordinary<br>purchase<br>appear<br>high<br>manage<br>awake<br>ancient |  
-| bip_39_word_new_br2 | avocado<br>cereal |  
-| bip_39_word_new_br3 | avocado<br>cereal<br>force |  
-| bip_39_word_new_br4 | avocado<br>cereal<br>force<br>naive |  
-| bip_39_word_new_br5 | avocado<br>cereal<br>force<br>naive<br>panel |  
-| bip_39_word_new_br6 | avocado<br>cereal<br>force<br>naive<br>panel<br>ordinary |  
-| bip_39_word_new_br7 | avocado<br>cereal<br>force<br>naive<br>panel<br>ordinary<br>purchase |  
-| bip_39_word_new_br8 | avocado<br>cereal<br>force<br>naive<br>panel<br>ordinary<br>purchase<br>appear |  
-| bip_39_word_new_br9 | avocado<br>cereal<br>force<br>naive<br>panel<br>ordinary<br>purchase<br>appear<br>high |  
-| bip_39_word_new_line1 | avocado |  
-| bip_39_word_new_line10 | avocado
+| bip_39_word_new_br_1 | avocado |  
+| bip_39_word_new_br_10 | avocado<br>cereal<br>force<br>naive<br>panel<br>ordinary<br>purchase<br>appear<br>high<br>manage |  
+| bip_39_word_new_br_11 | avocado<br>cereal<br>force<br>naive<br>panel<br>ordinary<br>purchase<br>appear<br>high<br>manage<br>awake |  
+| bip_39_word_new_br_12 | avocado<br>cereal<br>force<br>naive<br>panel<br>ordinary<br>purchase<br>appear<br>high<br>manage<br>awake<br>ancient |  
+| bip_39_word_new_br_2 | avocado<br>cereal |  
+| bip_39_word_new_br_3 | avocado<br>cereal<br>force |  
+| bip_39_word_new_br_4 | avocado<br>cereal<br>force<br>naive |  
+| bip_39_word_new_br_5 | avocado<br>cereal<br>force<br>naive<br>panel |  
+| bip_39_word_new_br_6 | avocado<br>cereal<br>force<br>naive<br>panel<br>ordinary |  
+| bip_39_word_new_br_7 | avocado<br>cereal<br>force<br>naive<br>panel<br>ordinary<br>purchase |  
+| bip_39_word_new_br_8 | avocado<br>cereal<br>force<br>naive<br>panel<br>ordinary<br>purchase<br>appear |  
+| bip_39_word_new_br_9 | avocado<br>cereal<br>force<br>naive<br>panel<br>ordinary<br>purchase<br>appear<br>high |  
+| bip_39_word_new_line_1 | avocado |  
+| bip_39_word_new_line_10 | avocado
 cereal
 force
 naive
@@ -55,7 +55,7 @@ purchase
 appear
 high
 manage |  
-| bip_39_word_new_line11 | avocado
+| bip_39_word_new_line_11 | avocado
 cereal
 force
 naive
@@ -66,7 +66,7 @@ appear
 high
 manage
 awake |  
-| bip_39_word_new_line12 | avocado
+| bip_39_word_new_line_12 | avocado
 cereal
 force
 naive
@@ -78,34 +78,34 @@ high
 manage
 awake
 ancient |  
-| bip_39_word_new_line2 | avocado
+| bip_39_word_new_line_2 | avocado
 cereal |  
-| bip_39_word_new_line3 | avocado
+| bip_39_word_new_line_3 | avocado
 cereal
 force |  
-| bip_39_word_new_line4 | avocado
+| bip_39_word_new_line_4 | avocado
 cereal
 force
 naive |  
-| bip_39_word_new_line5 | avocado
+| bip_39_word_new_line_5 | avocado
 cereal
 force
 naive
 panel |  
-| bip_39_word_new_line6 | avocado
+| bip_39_word_new_line_6 | avocado
 cereal
 force
 naive
 panel
 ordinary |  
-| bip_39_word_new_line7 | avocado
+| bip_39_word_new_line_7 | avocado
 cereal
 force
 naive
 panel
 ordinary
 purchase |  
-| bip_39_word_new_line8 | avocado
+| bip_39_word_new_line_8 | avocado
 cereal
 force
 naive
@@ -113,7 +113,7 @@ panel
 ordinary
 purchase
 appear |  
-| bip_39_word_new_line9 | avocado
+| bip_39_word_new_line_9 | avocado
 cereal
 force
 naive

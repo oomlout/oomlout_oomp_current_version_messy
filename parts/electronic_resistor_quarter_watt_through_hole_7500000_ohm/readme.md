@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | tribe |  
-| bip_39_word_new_br10 | tribe<br>coach<br>lift<br>debate<br>mimic<br>gather<br>sight<br>misery<br>castle<br>twin |  
-| bip_39_word_new_br11 | tribe<br>coach<br>lift<br>debate<br>mimic<br>gather<br>sight<br>misery<br>castle<br>twin<br>cluster |  
-| bip_39_word_new_br12 | tribe<br>coach<br>lift<br>debate<br>mimic<br>gather<br>sight<br>misery<br>castle<br>twin<br>cluster<br>any |  
-| bip_39_word_new_br2 | tribe<br>coach |  
-| bip_39_word_new_br3 | tribe<br>coach<br>lift |  
-| bip_39_word_new_br4 | tribe<br>coach<br>lift<br>debate |  
-| bip_39_word_new_br5 | tribe<br>coach<br>lift<br>debate<br>mimic |  
-| bip_39_word_new_br6 | tribe<br>coach<br>lift<br>debate<br>mimic<br>gather |  
-| bip_39_word_new_br7 | tribe<br>coach<br>lift<br>debate<br>mimic<br>gather<br>sight |  
-| bip_39_word_new_br8 | tribe<br>coach<br>lift<br>debate<br>mimic<br>gather<br>sight<br>misery |  
-| bip_39_word_new_br9 | tribe<br>coach<br>lift<br>debate<br>mimic<br>gather<br>sight<br>misery<br>castle |  
-| bip_39_word_new_line1 | tribe |  
-| bip_39_word_new_line10 | tribe
+| bip_39_word_new_br_1 | tribe |  
+| bip_39_word_new_br_10 | tribe<br>coach<br>lift<br>debate<br>mimic<br>gather<br>sight<br>misery<br>castle<br>twin |  
+| bip_39_word_new_br_11 | tribe<br>coach<br>lift<br>debate<br>mimic<br>gather<br>sight<br>misery<br>castle<br>twin<br>cluster |  
+| bip_39_word_new_br_12 | tribe<br>coach<br>lift<br>debate<br>mimic<br>gather<br>sight<br>misery<br>castle<br>twin<br>cluster<br>any |  
+| bip_39_word_new_br_2 | tribe<br>coach |  
+| bip_39_word_new_br_3 | tribe<br>coach<br>lift |  
+| bip_39_word_new_br_4 | tribe<br>coach<br>lift<br>debate |  
+| bip_39_word_new_br_5 | tribe<br>coach<br>lift<br>debate<br>mimic |  
+| bip_39_word_new_br_6 | tribe<br>coach<br>lift<br>debate<br>mimic<br>gather |  
+| bip_39_word_new_br_7 | tribe<br>coach<br>lift<br>debate<br>mimic<br>gather<br>sight |  
+| bip_39_word_new_br_8 | tribe<br>coach<br>lift<br>debate<br>mimic<br>gather<br>sight<br>misery |  
+| bip_39_word_new_br_9 | tribe<br>coach<br>lift<br>debate<br>mimic<br>gather<br>sight<br>misery<br>castle |  
+| bip_39_word_new_line_1 | tribe |  
+| bip_39_word_new_line_10 | tribe
 coach
 lift
 debate
@@ -55,7 +55,7 @@ sight
 misery
 castle
 twin |  
-| bip_39_word_new_line11 | tribe
+| bip_39_word_new_line_11 | tribe
 coach
 lift
 debate
@@ -66,7 +66,7 @@ misery
 castle
 twin
 cluster |  
-| bip_39_word_new_line12 | tribe
+| bip_39_word_new_line_12 | tribe
 coach
 lift
 debate
@@ -78,34 +78,34 @@ castle
 twin
 cluster
 any |  
-| bip_39_word_new_line2 | tribe
+| bip_39_word_new_line_2 | tribe
 coach |  
-| bip_39_word_new_line3 | tribe
+| bip_39_word_new_line_3 | tribe
 coach
 lift |  
-| bip_39_word_new_line4 | tribe
+| bip_39_word_new_line_4 | tribe
 coach
 lift
 debate |  
-| bip_39_word_new_line5 | tribe
+| bip_39_word_new_line_5 | tribe
 coach
 lift
 debate
 mimic |  
-| bip_39_word_new_line6 | tribe
+| bip_39_word_new_line_6 | tribe
 coach
 lift
 debate
 mimic
 gather |  
-| bip_39_word_new_line7 | tribe
+| bip_39_word_new_line_7 | tribe
 coach
 lift
 debate
 mimic
 gather
 sight |  
-| bip_39_word_new_line8 | tribe
+| bip_39_word_new_line_8 | tribe
 coach
 lift
 debate
@@ -113,7 +113,7 @@ mimic
 gather
 sight
 misery |  
-| bip_39_word_new_line9 | tribe
+| bip_39_word_new_line_9 | tribe
 coach
 lift
 debate

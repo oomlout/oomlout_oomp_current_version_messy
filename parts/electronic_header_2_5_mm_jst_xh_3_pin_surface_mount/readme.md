@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | basic |  
-| bip_39_word_new_br10 | basic<br>disorder<br>okay<br>code<br>deal<br>fine<br>planet<br>buzz<br>slight<br>nut |  
-| bip_39_word_new_br11 | basic<br>disorder<br>okay<br>code<br>deal<br>fine<br>planet<br>buzz<br>slight<br>nut<br>canyon |  
-| bip_39_word_new_br12 | basic<br>disorder<br>okay<br>code<br>deal<br>fine<br>planet<br>buzz<br>slight<br>nut<br>canyon<br>anxiety |  
-| bip_39_word_new_br2 | basic<br>disorder |  
-| bip_39_word_new_br3 | basic<br>disorder<br>okay |  
-| bip_39_word_new_br4 | basic<br>disorder<br>okay<br>code |  
-| bip_39_word_new_br5 | basic<br>disorder<br>okay<br>code<br>deal |  
-| bip_39_word_new_br6 | basic<br>disorder<br>okay<br>code<br>deal<br>fine |  
-| bip_39_word_new_br7 | basic<br>disorder<br>okay<br>code<br>deal<br>fine<br>planet |  
-| bip_39_word_new_br8 | basic<br>disorder<br>okay<br>code<br>deal<br>fine<br>planet<br>buzz |  
-| bip_39_word_new_br9 | basic<br>disorder<br>okay<br>code<br>deal<br>fine<br>planet<br>buzz<br>slight |  
-| bip_39_word_new_line1 | basic |  
-| bip_39_word_new_line10 | basic
+| bip_39_word_new_br_1 | basic |  
+| bip_39_word_new_br_10 | basic<br>disorder<br>okay<br>code<br>deal<br>fine<br>planet<br>buzz<br>slight<br>nut |  
+| bip_39_word_new_br_11 | basic<br>disorder<br>okay<br>code<br>deal<br>fine<br>planet<br>buzz<br>slight<br>nut<br>canyon |  
+| bip_39_word_new_br_12 | basic<br>disorder<br>okay<br>code<br>deal<br>fine<br>planet<br>buzz<br>slight<br>nut<br>canyon<br>anxiety |  
+| bip_39_word_new_br_2 | basic<br>disorder |  
+| bip_39_word_new_br_3 | basic<br>disorder<br>okay |  
+| bip_39_word_new_br_4 | basic<br>disorder<br>okay<br>code |  
+| bip_39_word_new_br_5 | basic<br>disorder<br>okay<br>code<br>deal |  
+| bip_39_word_new_br_6 | basic<br>disorder<br>okay<br>code<br>deal<br>fine |  
+| bip_39_word_new_br_7 | basic<br>disorder<br>okay<br>code<br>deal<br>fine<br>planet |  
+| bip_39_word_new_br_8 | basic<br>disorder<br>okay<br>code<br>deal<br>fine<br>planet<br>buzz |  
+| bip_39_word_new_br_9 | basic<br>disorder<br>okay<br>code<br>deal<br>fine<br>planet<br>buzz<br>slight |  
+| bip_39_word_new_line_1 | basic |  
+| bip_39_word_new_line_10 | basic
 disorder
 okay
 code
@@ -55,7 +55,7 @@ planet
 buzz
 slight
 nut |  
-| bip_39_word_new_line11 | basic
+| bip_39_word_new_line_11 | basic
 disorder
 okay
 code
@@ -66,7 +66,7 @@ buzz
 slight
 nut
 canyon |  
-| bip_39_word_new_line12 | basic
+| bip_39_word_new_line_12 | basic
 disorder
 okay
 code
@@ -78,34 +78,34 @@ slight
 nut
 canyon
 anxiety |  
-| bip_39_word_new_line2 | basic
+| bip_39_word_new_line_2 | basic
 disorder |  
-| bip_39_word_new_line3 | basic
+| bip_39_word_new_line_3 | basic
 disorder
 okay |  
-| bip_39_word_new_line4 | basic
+| bip_39_word_new_line_4 | basic
 disorder
 okay
 code |  
-| bip_39_word_new_line5 | basic
+| bip_39_word_new_line_5 | basic
 disorder
 okay
 code
 deal |  
-| bip_39_word_new_line6 | basic
+| bip_39_word_new_line_6 | basic
 disorder
 okay
 code
 deal
 fine |  
-| bip_39_word_new_line7 | basic
+| bip_39_word_new_line_7 | basic
 disorder
 okay
 code
 deal
 fine
 planet |  
-| bip_39_word_new_line8 | basic
+| bip_39_word_new_line_8 | basic
 disorder
 okay
 code
@@ -113,7 +113,7 @@ deal
 fine
 planet
 buzz |  
-| bip_39_word_new_line9 | basic
+| bip_39_word_new_line_9 | basic
 disorder
 okay
 code

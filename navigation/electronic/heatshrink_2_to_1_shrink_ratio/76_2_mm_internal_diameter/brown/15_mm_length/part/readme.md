@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | salt |  
-| bip_39_word_new_br10 | salt<br>game<br>yard<br>elevator<br>surge<br>muscle<br>cash<br>glove<br>make<br>loop |  
-| bip_39_word_new_br11 | salt<br>game<br>yard<br>elevator<br>surge<br>muscle<br>cash<br>glove<br>make<br>loop<br>clog |  
-| bip_39_word_new_br12 | salt<br>game<br>yard<br>elevator<br>surge<br>muscle<br>cash<br>glove<br>make<br>loop<br>clog<br>alien |  
-| bip_39_word_new_br2 | salt<br>game |  
-| bip_39_word_new_br3 | salt<br>game<br>yard |  
-| bip_39_word_new_br4 | salt<br>game<br>yard<br>elevator |  
-| bip_39_word_new_br5 | salt<br>game<br>yard<br>elevator<br>surge |  
-| bip_39_word_new_br6 | salt<br>game<br>yard<br>elevator<br>surge<br>muscle |  
-| bip_39_word_new_br7 | salt<br>game<br>yard<br>elevator<br>surge<br>muscle<br>cash |  
-| bip_39_word_new_br8 | salt<br>game<br>yard<br>elevator<br>surge<br>muscle<br>cash<br>glove |  
-| bip_39_word_new_br9 | salt<br>game<br>yard<br>elevator<br>surge<br>muscle<br>cash<br>glove<br>make |  
-| bip_39_word_new_line1 | salt |  
-| bip_39_word_new_line10 | salt
+| bip_39_word_new_br_1 | salt |  
+| bip_39_word_new_br_10 | salt<br>game<br>yard<br>elevator<br>surge<br>muscle<br>cash<br>glove<br>make<br>loop |  
+| bip_39_word_new_br_11 | salt<br>game<br>yard<br>elevator<br>surge<br>muscle<br>cash<br>glove<br>make<br>loop<br>clog |  
+| bip_39_word_new_br_12 | salt<br>game<br>yard<br>elevator<br>surge<br>muscle<br>cash<br>glove<br>make<br>loop<br>clog<br>alien |  
+| bip_39_word_new_br_2 | salt<br>game |  
+| bip_39_word_new_br_3 | salt<br>game<br>yard |  
+| bip_39_word_new_br_4 | salt<br>game<br>yard<br>elevator |  
+| bip_39_word_new_br_5 | salt<br>game<br>yard<br>elevator<br>surge |  
+| bip_39_word_new_br_6 | salt<br>game<br>yard<br>elevator<br>surge<br>muscle |  
+| bip_39_word_new_br_7 | salt<br>game<br>yard<br>elevator<br>surge<br>muscle<br>cash |  
+| bip_39_word_new_br_8 | salt<br>game<br>yard<br>elevator<br>surge<br>muscle<br>cash<br>glove |  
+| bip_39_word_new_br_9 | salt<br>game<br>yard<br>elevator<br>surge<br>muscle<br>cash<br>glove<br>make |  
+| bip_39_word_new_line_1 | salt |  
+| bip_39_word_new_line_10 | salt
 game
 yard
 elevator
@@ -55,7 +55,7 @@ cash
 glove
 make
 loop |  
-| bip_39_word_new_line11 | salt
+| bip_39_word_new_line_11 | salt
 game
 yard
 elevator
@@ -66,7 +66,7 @@ glove
 make
 loop
 clog |  
-| bip_39_word_new_line12 | salt
+| bip_39_word_new_line_12 | salt
 game
 yard
 elevator
@@ -78,34 +78,34 @@ make
 loop
 clog
 alien |  
-| bip_39_word_new_line2 | salt
+| bip_39_word_new_line_2 | salt
 game |  
-| bip_39_word_new_line3 | salt
+| bip_39_word_new_line_3 | salt
 game
 yard |  
-| bip_39_word_new_line4 | salt
+| bip_39_word_new_line_4 | salt
 game
 yard
 elevator |  
-| bip_39_word_new_line5 | salt
+| bip_39_word_new_line_5 | salt
 game
 yard
 elevator
 surge |  
-| bip_39_word_new_line6 | salt
+| bip_39_word_new_line_6 | salt
 game
 yard
 elevator
 surge
 muscle |  
-| bip_39_word_new_line7 | salt
+| bip_39_word_new_line_7 | salt
 game
 yard
 elevator
 surge
 muscle
 cash |  
-| bip_39_word_new_line8 | salt
+| bip_39_word_new_line_8 | salt
 game
 yard
 elevator
@@ -113,7 +113,7 @@ surge
 muscle
 cash
 glove |  
-| bip_39_word_new_line9 | salt
+| bip_39_word_new_line_9 | salt
 game
 yard
 elevator

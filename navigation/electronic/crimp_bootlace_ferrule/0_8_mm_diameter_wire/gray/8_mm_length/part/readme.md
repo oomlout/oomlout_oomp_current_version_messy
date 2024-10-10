@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | clock |  
-| bip_39_word_new_br10 | clock<br>found<br>glass<br>never<br>since<br>split<br>weasel<br>auto<br>vibrant<br>good |  
-| bip_39_word_new_br11 | clock<br>found<br>glass<br>never<br>since<br>split<br>weasel<br>auto<br>vibrant<br>good<br>hidden |  
-| bip_39_word_new_br12 | clock<br>found<br>glass<br>never<br>since<br>split<br>weasel<br>auto<br>vibrant<br>good<br>hidden<br>across |  
-| bip_39_word_new_br2 | clock<br>found |  
-| bip_39_word_new_br3 | clock<br>found<br>glass |  
-| bip_39_word_new_br4 | clock<br>found<br>glass<br>never |  
-| bip_39_word_new_br5 | clock<br>found<br>glass<br>never<br>since |  
-| bip_39_word_new_br6 | clock<br>found<br>glass<br>never<br>since<br>split |  
-| bip_39_word_new_br7 | clock<br>found<br>glass<br>never<br>since<br>split<br>weasel |  
-| bip_39_word_new_br8 | clock<br>found<br>glass<br>never<br>since<br>split<br>weasel<br>auto |  
-| bip_39_word_new_br9 | clock<br>found<br>glass<br>never<br>since<br>split<br>weasel<br>auto<br>vibrant |  
-| bip_39_word_new_line1 | clock |  
-| bip_39_word_new_line10 | clock
+| bip_39_word_new_br_1 | clock |  
+| bip_39_word_new_br_10 | clock<br>found<br>glass<br>never<br>since<br>split<br>weasel<br>auto<br>vibrant<br>good |  
+| bip_39_word_new_br_11 | clock<br>found<br>glass<br>never<br>since<br>split<br>weasel<br>auto<br>vibrant<br>good<br>hidden |  
+| bip_39_word_new_br_12 | clock<br>found<br>glass<br>never<br>since<br>split<br>weasel<br>auto<br>vibrant<br>good<br>hidden<br>across |  
+| bip_39_word_new_br_2 | clock<br>found |  
+| bip_39_word_new_br_3 | clock<br>found<br>glass |  
+| bip_39_word_new_br_4 | clock<br>found<br>glass<br>never |  
+| bip_39_word_new_br_5 | clock<br>found<br>glass<br>never<br>since |  
+| bip_39_word_new_br_6 | clock<br>found<br>glass<br>never<br>since<br>split |  
+| bip_39_word_new_br_7 | clock<br>found<br>glass<br>never<br>since<br>split<br>weasel |  
+| bip_39_word_new_br_8 | clock<br>found<br>glass<br>never<br>since<br>split<br>weasel<br>auto |  
+| bip_39_word_new_br_9 | clock<br>found<br>glass<br>never<br>since<br>split<br>weasel<br>auto<br>vibrant |  
+| bip_39_word_new_line_1 | clock |  
+| bip_39_word_new_line_10 | clock
 found
 glass
 never
@@ -55,7 +55,7 @@ weasel
 auto
 vibrant
 good |  
-| bip_39_word_new_line11 | clock
+| bip_39_word_new_line_11 | clock
 found
 glass
 never
@@ -66,7 +66,7 @@ auto
 vibrant
 good
 hidden |  
-| bip_39_word_new_line12 | clock
+| bip_39_word_new_line_12 | clock
 found
 glass
 never
@@ -78,34 +78,34 @@ vibrant
 good
 hidden
 across |  
-| bip_39_word_new_line2 | clock
+| bip_39_word_new_line_2 | clock
 found |  
-| bip_39_word_new_line3 | clock
+| bip_39_word_new_line_3 | clock
 found
 glass |  
-| bip_39_word_new_line4 | clock
+| bip_39_word_new_line_4 | clock
 found
 glass
 never |  
-| bip_39_word_new_line5 | clock
+| bip_39_word_new_line_5 | clock
 found
 glass
 never
 since |  
-| bip_39_word_new_line6 | clock
+| bip_39_word_new_line_6 | clock
 found
 glass
 never
 since
 split |  
-| bip_39_word_new_line7 | clock
+| bip_39_word_new_line_7 | clock
 found
 glass
 never
 since
 split
 weasel |  
-| bip_39_word_new_line8 | clock
+| bip_39_word_new_line_8 | clock
 found
 glass
 never
@@ -113,7 +113,7 @@ since
 split
 weasel
 auto |  
-| bip_39_word_new_line9 | clock
+| bip_39_word_new_line_9 | clock
 found
 glass
 never

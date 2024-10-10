@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | reduce |  
-| bip_39_word_new_br10 | reduce<br>move<br>snap<br>quick<br>six<br>excuse<br>heavy<br>chat<br>label<br>false |  
-| bip_39_word_new_br11 | reduce<br>move<br>snap<br>quick<br>six<br>excuse<br>heavy<br>chat<br>label<br>false<br>unit |  
-| bip_39_word_new_br12 | reduce<br>move<br>snap<br>quick<br>six<br>excuse<br>heavy<br>chat<br>label<br>false<br>unit<br>all |  
-| bip_39_word_new_br2 | reduce<br>move |  
-| bip_39_word_new_br3 | reduce<br>move<br>snap |  
-| bip_39_word_new_br4 | reduce<br>move<br>snap<br>quick |  
-| bip_39_word_new_br5 | reduce<br>move<br>snap<br>quick<br>six |  
-| bip_39_word_new_br6 | reduce<br>move<br>snap<br>quick<br>six<br>excuse |  
-| bip_39_word_new_br7 | reduce<br>move<br>snap<br>quick<br>six<br>excuse<br>heavy |  
-| bip_39_word_new_br8 | reduce<br>move<br>snap<br>quick<br>six<br>excuse<br>heavy<br>chat |  
-| bip_39_word_new_br9 | reduce<br>move<br>snap<br>quick<br>six<br>excuse<br>heavy<br>chat<br>label |  
-| bip_39_word_new_line1 | reduce |  
-| bip_39_word_new_line10 | reduce
+| bip_39_word_new_br_1 | reduce |  
+| bip_39_word_new_br_10 | reduce<br>move<br>snap<br>quick<br>six<br>excuse<br>heavy<br>chat<br>label<br>false |  
+| bip_39_word_new_br_11 | reduce<br>move<br>snap<br>quick<br>six<br>excuse<br>heavy<br>chat<br>label<br>false<br>unit |  
+| bip_39_word_new_br_12 | reduce<br>move<br>snap<br>quick<br>six<br>excuse<br>heavy<br>chat<br>label<br>false<br>unit<br>all |  
+| bip_39_word_new_br_2 | reduce<br>move |  
+| bip_39_word_new_br_3 | reduce<br>move<br>snap |  
+| bip_39_word_new_br_4 | reduce<br>move<br>snap<br>quick |  
+| bip_39_word_new_br_5 | reduce<br>move<br>snap<br>quick<br>six |  
+| bip_39_word_new_br_6 | reduce<br>move<br>snap<br>quick<br>six<br>excuse |  
+| bip_39_word_new_br_7 | reduce<br>move<br>snap<br>quick<br>six<br>excuse<br>heavy |  
+| bip_39_word_new_br_8 | reduce<br>move<br>snap<br>quick<br>six<br>excuse<br>heavy<br>chat |  
+| bip_39_word_new_br_9 | reduce<br>move<br>snap<br>quick<br>six<br>excuse<br>heavy<br>chat<br>label |  
+| bip_39_word_new_line_1 | reduce |  
+| bip_39_word_new_line_10 | reduce
 move
 snap
 quick
@@ -55,7 +55,7 @@ heavy
 chat
 label
 false |  
-| bip_39_word_new_line11 | reduce
+| bip_39_word_new_line_11 | reduce
 move
 snap
 quick
@@ -66,7 +66,7 @@ chat
 label
 false
 unit |  
-| bip_39_word_new_line12 | reduce
+| bip_39_word_new_line_12 | reduce
 move
 snap
 quick
@@ -78,34 +78,34 @@ label
 false
 unit
 all |  
-| bip_39_word_new_line2 | reduce
+| bip_39_word_new_line_2 | reduce
 move |  
-| bip_39_word_new_line3 | reduce
+| bip_39_word_new_line_3 | reduce
 move
 snap |  
-| bip_39_word_new_line4 | reduce
+| bip_39_word_new_line_4 | reduce
 move
 snap
 quick |  
-| bip_39_word_new_line5 | reduce
+| bip_39_word_new_line_5 | reduce
 move
 snap
 quick
 six |  
-| bip_39_word_new_line6 | reduce
+| bip_39_word_new_line_6 | reduce
 move
 snap
 quick
 six
 excuse |  
-| bip_39_word_new_line7 | reduce
+| bip_39_word_new_line_7 | reduce
 move
 snap
 quick
 six
 excuse
 heavy |  
-| bip_39_word_new_line8 | reduce
+| bip_39_word_new_line_8 | reduce
 move
 snap
 quick
@@ -113,7 +113,7 @@ six
 excuse
 heavy
 chat |  
-| bip_39_word_new_line9 | reduce
+| bip_39_word_new_line_9 | reduce
 move
 snap
 quick

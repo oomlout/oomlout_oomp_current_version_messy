@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | nose |  
-| bip_39_word_new_br10 | nose<br>skin<br>nerve<br>isolate<br>welcome<br>wheat<br>fatal<br>glide<br>night<br>beach |  
-| bip_39_word_new_br11 | nose<br>skin<br>nerve<br>isolate<br>welcome<br>wheat<br>fatal<br>glide<br>night<br>beach<br>certain |  
-| bip_39_word_new_br12 | nose<br>skin<br>nerve<br>isolate<br>welcome<br>wheat<br>fatal<br>glide<br>night<br>beach<br>certain<br>attitude |  
-| bip_39_word_new_br2 | nose<br>skin |  
-| bip_39_word_new_br3 | nose<br>skin<br>nerve |  
-| bip_39_word_new_br4 | nose<br>skin<br>nerve<br>isolate |  
-| bip_39_word_new_br5 | nose<br>skin<br>nerve<br>isolate<br>welcome |  
-| bip_39_word_new_br6 | nose<br>skin<br>nerve<br>isolate<br>welcome<br>wheat |  
-| bip_39_word_new_br7 | nose<br>skin<br>nerve<br>isolate<br>welcome<br>wheat<br>fatal |  
-| bip_39_word_new_br8 | nose<br>skin<br>nerve<br>isolate<br>welcome<br>wheat<br>fatal<br>glide |  
-| bip_39_word_new_br9 | nose<br>skin<br>nerve<br>isolate<br>welcome<br>wheat<br>fatal<br>glide<br>night |  
-| bip_39_word_new_line1 | nose |  
-| bip_39_word_new_line10 | nose
+| bip_39_word_new_br_1 | nose |  
+| bip_39_word_new_br_10 | nose<br>skin<br>nerve<br>isolate<br>welcome<br>wheat<br>fatal<br>glide<br>night<br>beach |  
+| bip_39_word_new_br_11 | nose<br>skin<br>nerve<br>isolate<br>welcome<br>wheat<br>fatal<br>glide<br>night<br>beach<br>certain |  
+| bip_39_word_new_br_12 | nose<br>skin<br>nerve<br>isolate<br>welcome<br>wheat<br>fatal<br>glide<br>night<br>beach<br>certain<br>attitude |  
+| bip_39_word_new_br_2 | nose<br>skin |  
+| bip_39_word_new_br_3 | nose<br>skin<br>nerve |  
+| bip_39_word_new_br_4 | nose<br>skin<br>nerve<br>isolate |  
+| bip_39_word_new_br_5 | nose<br>skin<br>nerve<br>isolate<br>welcome |  
+| bip_39_word_new_br_6 | nose<br>skin<br>nerve<br>isolate<br>welcome<br>wheat |  
+| bip_39_word_new_br_7 | nose<br>skin<br>nerve<br>isolate<br>welcome<br>wheat<br>fatal |  
+| bip_39_word_new_br_8 | nose<br>skin<br>nerve<br>isolate<br>welcome<br>wheat<br>fatal<br>glide |  
+| bip_39_word_new_br_9 | nose<br>skin<br>nerve<br>isolate<br>welcome<br>wheat<br>fatal<br>glide<br>night |  
+| bip_39_word_new_line_1 | nose |  
+| bip_39_word_new_line_10 | nose
 skin
 nerve
 isolate
@@ -55,7 +55,7 @@ fatal
 glide
 night
 beach |  
-| bip_39_word_new_line11 | nose
+| bip_39_word_new_line_11 | nose
 skin
 nerve
 isolate
@@ -66,7 +66,7 @@ glide
 night
 beach
 certain |  
-| bip_39_word_new_line12 | nose
+| bip_39_word_new_line_12 | nose
 skin
 nerve
 isolate
@@ -78,34 +78,34 @@ night
 beach
 certain
 attitude |  
-| bip_39_word_new_line2 | nose
+| bip_39_word_new_line_2 | nose
 skin |  
-| bip_39_word_new_line3 | nose
+| bip_39_word_new_line_3 | nose
 skin
 nerve |  
-| bip_39_word_new_line4 | nose
+| bip_39_word_new_line_4 | nose
 skin
 nerve
 isolate |  
-| bip_39_word_new_line5 | nose
+| bip_39_word_new_line_5 | nose
 skin
 nerve
 isolate
 welcome |  
-| bip_39_word_new_line6 | nose
+| bip_39_word_new_line_6 | nose
 skin
 nerve
 isolate
 welcome
 wheat |  
-| bip_39_word_new_line7 | nose
+| bip_39_word_new_line_7 | nose
 skin
 nerve
 isolate
 welcome
 wheat
 fatal |  
-| bip_39_word_new_line8 | nose
+| bip_39_word_new_line_8 | nose
 skin
 nerve
 isolate
@@ -113,7 +113,7 @@ welcome
 wheat
 fatal
 glide |  
-| bip_39_word_new_line9 | nose
+| bip_39_word_new_line_9 | nose
 skin
 nerve
 isolate

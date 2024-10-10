@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | chicken |  
-| bip_39_word_new_br10 | chicken<br>chalk<br>two<br>divorce<br>item<br>goat<br>bounce<br>indoor<br>ostrich<br>hammer |  
-| bip_39_word_new_br11 | chicken<br>chalk<br>two<br>divorce<br>item<br>goat<br>bounce<br>indoor<br>ostrich<br>hammer<br>print |  
-| bip_39_word_new_br12 | chicken<br>chalk<br>two<br>divorce<br>item<br>goat<br>bounce<br>indoor<br>ostrich<br>hammer<br>print<br>abuse |  
-| bip_39_word_new_br2 | chicken<br>chalk |  
-| bip_39_word_new_br3 | chicken<br>chalk<br>two |  
-| bip_39_word_new_br4 | chicken<br>chalk<br>two<br>divorce |  
-| bip_39_word_new_br5 | chicken<br>chalk<br>two<br>divorce<br>item |  
-| bip_39_word_new_br6 | chicken<br>chalk<br>two<br>divorce<br>item<br>goat |  
-| bip_39_word_new_br7 | chicken<br>chalk<br>two<br>divorce<br>item<br>goat<br>bounce |  
-| bip_39_word_new_br8 | chicken<br>chalk<br>two<br>divorce<br>item<br>goat<br>bounce<br>indoor |  
-| bip_39_word_new_br9 | chicken<br>chalk<br>two<br>divorce<br>item<br>goat<br>bounce<br>indoor<br>ostrich |  
-| bip_39_word_new_line1 | chicken |  
-| bip_39_word_new_line10 | chicken
+| bip_39_word_new_br_1 | chicken |  
+| bip_39_word_new_br_10 | chicken<br>chalk<br>two<br>divorce<br>item<br>goat<br>bounce<br>indoor<br>ostrich<br>hammer |  
+| bip_39_word_new_br_11 | chicken<br>chalk<br>two<br>divorce<br>item<br>goat<br>bounce<br>indoor<br>ostrich<br>hammer<br>print |  
+| bip_39_word_new_br_12 | chicken<br>chalk<br>two<br>divorce<br>item<br>goat<br>bounce<br>indoor<br>ostrich<br>hammer<br>print<br>abuse |  
+| bip_39_word_new_br_2 | chicken<br>chalk |  
+| bip_39_word_new_br_3 | chicken<br>chalk<br>two |  
+| bip_39_word_new_br_4 | chicken<br>chalk<br>two<br>divorce |  
+| bip_39_word_new_br_5 | chicken<br>chalk<br>two<br>divorce<br>item |  
+| bip_39_word_new_br_6 | chicken<br>chalk<br>two<br>divorce<br>item<br>goat |  
+| bip_39_word_new_br_7 | chicken<br>chalk<br>two<br>divorce<br>item<br>goat<br>bounce |  
+| bip_39_word_new_br_8 | chicken<br>chalk<br>two<br>divorce<br>item<br>goat<br>bounce<br>indoor |  
+| bip_39_word_new_br_9 | chicken<br>chalk<br>two<br>divorce<br>item<br>goat<br>bounce<br>indoor<br>ostrich |  
+| bip_39_word_new_line_1 | chicken |  
+| bip_39_word_new_line_10 | chicken
 chalk
 two
 divorce
@@ -55,7 +55,7 @@ bounce
 indoor
 ostrich
 hammer |  
-| bip_39_word_new_line11 | chicken
+| bip_39_word_new_line_11 | chicken
 chalk
 two
 divorce
@@ -66,7 +66,7 @@ indoor
 ostrich
 hammer
 print |  
-| bip_39_word_new_line12 | chicken
+| bip_39_word_new_line_12 | chicken
 chalk
 two
 divorce
@@ -78,34 +78,34 @@ ostrich
 hammer
 print
 abuse |  
-| bip_39_word_new_line2 | chicken
+| bip_39_word_new_line_2 | chicken
 chalk |  
-| bip_39_word_new_line3 | chicken
+| bip_39_word_new_line_3 | chicken
 chalk
 two |  
-| bip_39_word_new_line4 | chicken
+| bip_39_word_new_line_4 | chicken
 chalk
 two
 divorce |  
-| bip_39_word_new_line5 | chicken
+| bip_39_word_new_line_5 | chicken
 chalk
 two
 divorce
 item |  
-| bip_39_word_new_line6 | chicken
+| bip_39_word_new_line_6 | chicken
 chalk
 two
 divorce
 item
 goat |  
-| bip_39_word_new_line7 | chicken
+| bip_39_word_new_line_7 | chicken
 chalk
 two
 divorce
 item
 goat
 bounce |  
-| bip_39_word_new_line8 | chicken
+| bip_39_word_new_line_8 | chicken
 chalk
 two
 divorce
@@ -113,7 +113,7 @@ item
 goat
 bounce
 indoor |  
-| bip_39_word_new_line9 | chicken
+| bip_39_word_new_line_9 | chicken
 chalk
 two
 divorce

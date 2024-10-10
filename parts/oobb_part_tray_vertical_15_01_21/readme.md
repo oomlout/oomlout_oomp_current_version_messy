@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | lazy |  
-| bip_39_word_new_br10 | lazy<br>intact<br>shield<br>stomach<br>feature<br>skate<br>flight<br>winter<br>mean<br>seat |  
-| bip_39_word_new_br11 | lazy<br>intact<br>shield<br>stomach<br>feature<br>skate<br>flight<br>winter<br>mean<br>seat<br>team |  
-| bip_39_word_new_br12 | lazy<br>intact<br>shield<br>stomach<br>feature<br>skate<br>flight<br>winter<br>mean<br>seat<br>team<br>artist |  
-| bip_39_word_new_br2 | lazy<br>intact |  
-| bip_39_word_new_br3 | lazy<br>intact<br>shield |  
-| bip_39_word_new_br4 | lazy<br>intact<br>shield<br>stomach |  
-| bip_39_word_new_br5 | lazy<br>intact<br>shield<br>stomach<br>feature |  
-| bip_39_word_new_br6 | lazy<br>intact<br>shield<br>stomach<br>feature<br>skate |  
-| bip_39_word_new_br7 | lazy<br>intact<br>shield<br>stomach<br>feature<br>skate<br>flight |  
-| bip_39_word_new_br8 | lazy<br>intact<br>shield<br>stomach<br>feature<br>skate<br>flight<br>winter |  
-| bip_39_word_new_br9 | lazy<br>intact<br>shield<br>stomach<br>feature<br>skate<br>flight<br>winter<br>mean |  
-| bip_39_word_new_line1 | lazy |  
-| bip_39_word_new_line10 | lazy
+| bip_39_word_new_br_1 | lazy |  
+| bip_39_word_new_br_10 | lazy<br>intact<br>shield<br>stomach<br>feature<br>skate<br>flight<br>winter<br>mean<br>seat |  
+| bip_39_word_new_br_11 | lazy<br>intact<br>shield<br>stomach<br>feature<br>skate<br>flight<br>winter<br>mean<br>seat<br>team |  
+| bip_39_word_new_br_12 | lazy<br>intact<br>shield<br>stomach<br>feature<br>skate<br>flight<br>winter<br>mean<br>seat<br>team<br>artist |  
+| bip_39_word_new_br_2 | lazy<br>intact |  
+| bip_39_word_new_br_3 | lazy<br>intact<br>shield |  
+| bip_39_word_new_br_4 | lazy<br>intact<br>shield<br>stomach |  
+| bip_39_word_new_br_5 | lazy<br>intact<br>shield<br>stomach<br>feature |  
+| bip_39_word_new_br_6 | lazy<br>intact<br>shield<br>stomach<br>feature<br>skate |  
+| bip_39_word_new_br_7 | lazy<br>intact<br>shield<br>stomach<br>feature<br>skate<br>flight |  
+| bip_39_word_new_br_8 | lazy<br>intact<br>shield<br>stomach<br>feature<br>skate<br>flight<br>winter |  
+| bip_39_word_new_br_9 | lazy<br>intact<br>shield<br>stomach<br>feature<br>skate<br>flight<br>winter<br>mean |  
+| bip_39_word_new_line_1 | lazy |  
+| bip_39_word_new_line_10 | lazy
 intact
 shield
 stomach
@@ -55,7 +55,7 @@ flight
 winter
 mean
 seat |  
-| bip_39_word_new_line11 | lazy
+| bip_39_word_new_line_11 | lazy
 intact
 shield
 stomach
@@ -66,7 +66,7 @@ winter
 mean
 seat
 team |  
-| bip_39_word_new_line12 | lazy
+| bip_39_word_new_line_12 | lazy
 intact
 shield
 stomach
@@ -78,34 +78,34 @@ mean
 seat
 team
 artist |  
-| bip_39_word_new_line2 | lazy
+| bip_39_word_new_line_2 | lazy
 intact |  
-| bip_39_word_new_line3 | lazy
+| bip_39_word_new_line_3 | lazy
 intact
 shield |  
-| bip_39_word_new_line4 | lazy
+| bip_39_word_new_line_4 | lazy
 intact
 shield
 stomach |  
-| bip_39_word_new_line5 | lazy
+| bip_39_word_new_line_5 | lazy
 intact
 shield
 stomach
 feature |  
-| bip_39_word_new_line6 | lazy
+| bip_39_word_new_line_6 | lazy
 intact
 shield
 stomach
 feature
 skate |  
-| bip_39_word_new_line7 | lazy
+| bip_39_word_new_line_7 | lazy
 intact
 shield
 stomach
 feature
 skate
 flight |  
-| bip_39_word_new_line8 | lazy
+| bip_39_word_new_line_8 | lazy
 intact
 shield
 stomach
@@ -113,7 +113,7 @@ feature
 skate
 flight
 winter |  
-| bip_39_word_new_line9 | lazy
+| bip_39_word_new_line_9 | lazy
 intact
 shield
 stomach

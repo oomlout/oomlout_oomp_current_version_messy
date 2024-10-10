@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | supply |  
-| bip_39_word_new_br10 | supply<br>cactus<br>off<br>across<br>game<br>dune<br>kangaroo<br>ensure<br>elite<br>guitar |  
-| bip_39_word_new_br11 | supply<br>cactus<br>off<br>across<br>game<br>dune<br>kangaroo<br>ensure<br>elite<br>guitar<br>elephant |  
-| bip_39_word_new_br12 | supply<br>cactus<br>off<br>across<br>game<br>dune<br>kangaroo<br>ensure<br>elite<br>guitar<br>elephant<br>adapt |  
-| bip_39_word_new_br2 | supply<br>cactus |  
-| bip_39_word_new_br3 | supply<br>cactus<br>off |  
-| bip_39_word_new_br4 | supply<br>cactus<br>off<br>across |  
-| bip_39_word_new_br5 | supply<br>cactus<br>off<br>across<br>game |  
-| bip_39_word_new_br6 | supply<br>cactus<br>off<br>across<br>game<br>dune |  
-| bip_39_word_new_br7 | supply<br>cactus<br>off<br>across<br>game<br>dune<br>kangaroo |  
-| bip_39_word_new_br8 | supply<br>cactus<br>off<br>across<br>game<br>dune<br>kangaroo<br>ensure |  
-| bip_39_word_new_br9 | supply<br>cactus<br>off<br>across<br>game<br>dune<br>kangaroo<br>ensure<br>elite |  
-| bip_39_word_new_line1 | supply |  
-| bip_39_word_new_line10 | supply
+| bip_39_word_new_br_1 | supply |  
+| bip_39_word_new_br_10 | supply<br>cactus<br>off<br>across<br>game<br>dune<br>kangaroo<br>ensure<br>elite<br>guitar |  
+| bip_39_word_new_br_11 | supply<br>cactus<br>off<br>across<br>game<br>dune<br>kangaroo<br>ensure<br>elite<br>guitar<br>elephant |  
+| bip_39_word_new_br_12 | supply<br>cactus<br>off<br>across<br>game<br>dune<br>kangaroo<br>ensure<br>elite<br>guitar<br>elephant<br>adapt |  
+| bip_39_word_new_br_2 | supply<br>cactus |  
+| bip_39_word_new_br_3 | supply<br>cactus<br>off |  
+| bip_39_word_new_br_4 | supply<br>cactus<br>off<br>across |  
+| bip_39_word_new_br_5 | supply<br>cactus<br>off<br>across<br>game |  
+| bip_39_word_new_br_6 | supply<br>cactus<br>off<br>across<br>game<br>dune |  
+| bip_39_word_new_br_7 | supply<br>cactus<br>off<br>across<br>game<br>dune<br>kangaroo |  
+| bip_39_word_new_br_8 | supply<br>cactus<br>off<br>across<br>game<br>dune<br>kangaroo<br>ensure |  
+| bip_39_word_new_br_9 | supply<br>cactus<br>off<br>across<br>game<br>dune<br>kangaroo<br>ensure<br>elite |  
+| bip_39_word_new_line_1 | supply |  
+| bip_39_word_new_line_10 | supply
 cactus
 off
 across
@@ -55,7 +55,7 @@ kangaroo
 ensure
 elite
 guitar |  
-| bip_39_word_new_line11 | supply
+| bip_39_word_new_line_11 | supply
 cactus
 off
 across
@@ -66,7 +66,7 @@ ensure
 elite
 guitar
 elephant |  
-| bip_39_word_new_line12 | supply
+| bip_39_word_new_line_12 | supply
 cactus
 off
 across
@@ -78,34 +78,34 @@ elite
 guitar
 elephant
 adapt |  
-| bip_39_word_new_line2 | supply
+| bip_39_word_new_line_2 | supply
 cactus |  
-| bip_39_word_new_line3 | supply
+| bip_39_word_new_line_3 | supply
 cactus
 off |  
-| bip_39_word_new_line4 | supply
+| bip_39_word_new_line_4 | supply
 cactus
 off
 across |  
-| bip_39_word_new_line5 | supply
+| bip_39_word_new_line_5 | supply
 cactus
 off
 across
 game |  
-| bip_39_word_new_line6 | supply
+| bip_39_word_new_line_6 | supply
 cactus
 off
 across
 game
 dune |  
-| bip_39_word_new_line7 | supply
+| bip_39_word_new_line_7 | supply
 cactus
 off
 across
 game
 dune
 kangaroo |  
-| bip_39_word_new_line8 | supply
+| bip_39_word_new_line_8 | supply
 cactus
 off
 across
@@ -113,7 +113,7 @@ game
 dune
 kangaroo
 ensure |  
-| bip_39_word_new_line9 | supply
+| bip_39_word_new_line_9 | supply
 cactus
 off
 across

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | curious |  
-| bip_39_word_new_br10 | curious<br>pill<br>industry<br>trophy<br>pizza<br>elevator<br>fabric<br>cushion<br>wheel<br>nerve |  
-| bip_39_word_new_br11 | curious<br>pill<br>industry<br>trophy<br>pizza<br>elevator<br>fabric<br>cushion<br>wheel<br>nerve<br>lamp |  
-| bip_39_word_new_br12 | curious<br>pill<br>industry<br>trophy<br>pizza<br>elevator<br>fabric<br>cushion<br>wheel<br>nerve<br>lamp<br>accident |  
-| bip_39_word_new_br2 | curious<br>pill |  
-| bip_39_word_new_br3 | curious<br>pill<br>industry |  
-| bip_39_word_new_br4 | curious<br>pill<br>industry<br>trophy |  
-| bip_39_word_new_br5 | curious<br>pill<br>industry<br>trophy<br>pizza |  
-| bip_39_word_new_br6 | curious<br>pill<br>industry<br>trophy<br>pizza<br>elevator |  
-| bip_39_word_new_br7 | curious<br>pill<br>industry<br>trophy<br>pizza<br>elevator<br>fabric |  
-| bip_39_word_new_br8 | curious<br>pill<br>industry<br>trophy<br>pizza<br>elevator<br>fabric<br>cushion |  
-| bip_39_word_new_br9 | curious<br>pill<br>industry<br>trophy<br>pizza<br>elevator<br>fabric<br>cushion<br>wheel |  
-| bip_39_word_new_line1 | curious |  
-| bip_39_word_new_line10 | curious
+| bip_39_word_new_br_1 | curious |  
+| bip_39_word_new_br_10 | curious<br>pill<br>industry<br>trophy<br>pizza<br>elevator<br>fabric<br>cushion<br>wheel<br>nerve |  
+| bip_39_word_new_br_11 | curious<br>pill<br>industry<br>trophy<br>pizza<br>elevator<br>fabric<br>cushion<br>wheel<br>nerve<br>lamp |  
+| bip_39_word_new_br_12 | curious<br>pill<br>industry<br>trophy<br>pizza<br>elevator<br>fabric<br>cushion<br>wheel<br>nerve<br>lamp<br>accident |  
+| bip_39_word_new_br_2 | curious<br>pill |  
+| bip_39_word_new_br_3 | curious<br>pill<br>industry |  
+| bip_39_word_new_br_4 | curious<br>pill<br>industry<br>trophy |  
+| bip_39_word_new_br_5 | curious<br>pill<br>industry<br>trophy<br>pizza |  
+| bip_39_word_new_br_6 | curious<br>pill<br>industry<br>trophy<br>pizza<br>elevator |  
+| bip_39_word_new_br_7 | curious<br>pill<br>industry<br>trophy<br>pizza<br>elevator<br>fabric |  
+| bip_39_word_new_br_8 | curious<br>pill<br>industry<br>trophy<br>pizza<br>elevator<br>fabric<br>cushion |  
+| bip_39_word_new_br_9 | curious<br>pill<br>industry<br>trophy<br>pizza<br>elevator<br>fabric<br>cushion<br>wheel |  
+| bip_39_word_new_line_1 | curious |  
+| bip_39_word_new_line_10 | curious
 pill
 industry
 trophy
@@ -55,7 +55,7 @@ fabric
 cushion
 wheel
 nerve |  
-| bip_39_word_new_line11 | curious
+| bip_39_word_new_line_11 | curious
 pill
 industry
 trophy
@@ -66,7 +66,7 @@ cushion
 wheel
 nerve
 lamp |  
-| bip_39_word_new_line12 | curious
+| bip_39_word_new_line_12 | curious
 pill
 industry
 trophy
@@ -78,34 +78,34 @@ wheel
 nerve
 lamp
 accident |  
-| bip_39_word_new_line2 | curious
+| bip_39_word_new_line_2 | curious
 pill |  
-| bip_39_word_new_line3 | curious
+| bip_39_word_new_line_3 | curious
 pill
 industry |  
-| bip_39_word_new_line4 | curious
+| bip_39_word_new_line_4 | curious
 pill
 industry
 trophy |  
-| bip_39_word_new_line5 | curious
+| bip_39_word_new_line_5 | curious
 pill
 industry
 trophy
 pizza |  
-| bip_39_word_new_line6 | curious
+| bip_39_word_new_line_6 | curious
 pill
 industry
 trophy
 pizza
 elevator |  
-| bip_39_word_new_line7 | curious
+| bip_39_word_new_line_7 | curious
 pill
 industry
 trophy
 pizza
 elevator
 fabric |  
-| bip_39_word_new_line8 | curious
+| bip_39_word_new_line_8 | curious
 pill
 industry
 trophy
@@ -113,7 +113,7 @@ pizza
 elevator
 fabric
 cushion |  
-| bip_39_word_new_line9 | curious
+| bip_39_word_new_line_9 | curious
 pill
 industry
 trophy

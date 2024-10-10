@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wrist |  
-| bip_39_word_new_br10 | wrist<br>then<br>core<br>dash<br>catch<br>medal<br>magnet<br>rare<br>earn<br>judge |  
-| bip_39_word_new_br11 | wrist<br>then<br>core<br>dash<br>catch<br>medal<br>magnet<br>rare<br>earn<br>judge<br>horse |  
-| bip_39_word_new_br12 | wrist<br>then<br>core<br>dash<br>catch<br>medal<br>magnet<br>rare<br>earn<br>judge<br>horse<br>antique |  
-| bip_39_word_new_br2 | wrist<br>then |  
-| bip_39_word_new_br3 | wrist<br>then<br>core |  
-| bip_39_word_new_br4 | wrist<br>then<br>core<br>dash |  
-| bip_39_word_new_br5 | wrist<br>then<br>core<br>dash<br>catch |  
-| bip_39_word_new_br6 | wrist<br>then<br>core<br>dash<br>catch<br>medal |  
-| bip_39_word_new_br7 | wrist<br>then<br>core<br>dash<br>catch<br>medal<br>magnet |  
-| bip_39_word_new_br8 | wrist<br>then<br>core<br>dash<br>catch<br>medal<br>magnet<br>rare |  
-| bip_39_word_new_br9 | wrist<br>then<br>core<br>dash<br>catch<br>medal<br>magnet<br>rare<br>earn |  
-| bip_39_word_new_line1 | wrist |  
-| bip_39_word_new_line10 | wrist
+| bip_39_word_new_br_1 | wrist |  
+| bip_39_word_new_br_10 | wrist<br>then<br>core<br>dash<br>catch<br>medal<br>magnet<br>rare<br>earn<br>judge |  
+| bip_39_word_new_br_11 | wrist<br>then<br>core<br>dash<br>catch<br>medal<br>magnet<br>rare<br>earn<br>judge<br>horse |  
+| bip_39_word_new_br_12 | wrist<br>then<br>core<br>dash<br>catch<br>medal<br>magnet<br>rare<br>earn<br>judge<br>horse<br>antique |  
+| bip_39_word_new_br_2 | wrist<br>then |  
+| bip_39_word_new_br_3 | wrist<br>then<br>core |  
+| bip_39_word_new_br_4 | wrist<br>then<br>core<br>dash |  
+| bip_39_word_new_br_5 | wrist<br>then<br>core<br>dash<br>catch |  
+| bip_39_word_new_br_6 | wrist<br>then<br>core<br>dash<br>catch<br>medal |  
+| bip_39_word_new_br_7 | wrist<br>then<br>core<br>dash<br>catch<br>medal<br>magnet |  
+| bip_39_word_new_br_8 | wrist<br>then<br>core<br>dash<br>catch<br>medal<br>magnet<br>rare |  
+| bip_39_word_new_br_9 | wrist<br>then<br>core<br>dash<br>catch<br>medal<br>magnet<br>rare<br>earn |  
+| bip_39_word_new_line_1 | wrist |  
+| bip_39_word_new_line_10 | wrist
 then
 core
 dash
@@ -55,7 +55,7 @@ magnet
 rare
 earn
 judge |  
-| bip_39_word_new_line11 | wrist
+| bip_39_word_new_line_11 | wrist
 then
 core
 dash
@@ -66,7 +66,7 @@ rare
 earn
 judge
 horse |  
-| bip_39_word_new_line12 | wrist
+| bip_39_word_new_line_12 | wrist
 then
 core
 dash
@@ -78,34 +78,34 @@ earn
 judge
 horse
 antique |  
-| bip_39_word_new_line2 | wrist
+| bip_39_word_new_line_2 | wrist
 then |  
-| bip_39_word_new_line3 | wrist
+| bip_39_word_new_line_3 | wrist
 then
 core |  
-| bip_39_word_new_line4 | wrist
+| bip_39_word_new_line_4 | wrist
 then
 core
 dash |  
-| bip_39_word_new_line5 | wrist
+| bip_39_word_new_line_5 | wrist
 then
 core
 dash
 catch |  
-| bip_39_word_new_line6 | wrist
+| bip_39_word_new_line_6 | wrist
 then
 core
 dash
 catch
 medal |  
-| bip_39_word_new_line7 | wrist
+| bip_39_word_new_line_7 | wrist
 then
 core
 dash
 catch
 medal
 magnet |  
-| bip_39_word_new_line8 | wrist
+| bip_39_word_new_line_8 | wrist
 then
 core
 dash
@@ -113,7 +113,7 @@ catch
 medal
 magnet
 rare |  
-| bip_39_word_new_line9 | wrist
+| bip_39_word_new_line_9 | wrist
 then
 core
 dash

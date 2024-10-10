@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sunset |  
-| bip_39_word_new_br10 | sunset<br>silent<br>nominee<br>crater<br>exile<br>twelve<br>fame<br>old<br>bulb<br>blur |  
-| bip_39_word_new_br11 | sunset<br>silent<br>nominee<br>crater<br>exile<br>twelve<br>fame<br>old<br>bulb<br>blur<br>trade |  
-| bip_39_word_new_br12 | sunset<br>silent<br>nominee<br>crater<br>exile<br>twelve<br>fame<br>old<br>bulb<br>blur<br>trade<br>airport |  
-| bip_39_word_new_br2 | sunset<br>silent |  
-| bip_39_word_new_br3 | sunset<br>silent<br>nominee |  
-| bip_39_word_new_br4 | sunset<br>silent<br>nominee<br>crater |  
-| bip_39_word_new_br5 | sunset<br>silent<br>nominee<br>crater<br>exile |  
-| bip_39_word_new_br6 | sunset<br>silent<br>nominee<br>crater<br>exile<br>twelve |  
-| bip_39_word_new_br7 | sunset<br>silent<br>nominee<br>crater<br>exile<br>twelve<br>fame |  
-| bip_39_word_new_br8 | sunset<br>silent<br>nominee<br>crater<br>exile<br>twelve<br>fame<br>old |  
-| bip_39_word_new_br9 | sunset<br>silent<br>nominee<br>crater<br>exile<br>twelve<br>fame<br>old<br>bulb |  
-| bip_39_word_new_line1 | sunset |  
-| bip_39_word_new_line10 | sunset
+| bip_39_word_new_br_1 | sunset |  
+| bip_39_word_new_br_10 | sunset<br>silent<br>nominee<br>crater<br>exile<br>twelve<br>fame<br>old<br>bulb<br>blur |  
+| bip_39_word_new_br_11 | sunset<br>silent<br>nominee<br>crater<br>exile<br>twelve<br>fame<br>old<br>bulb<br>blur<br>trade |  
+| bip_39_word_new_br_12 | sunset<br>silent<br>nominee<br>crater<br>exile<br>twelve<br>fame<br>old<br>bulb<br>blur<br>trade<br>airport |  
+| bip_39_word_new_br_2 | sunset<br>silent |  
+| bip_39_word_new_br_3 | sunset<br>silent<br>nominee |  
+| bip_39_word_new_br_4 | sunset<br>silent<br>nominee<br>crater |  
+| bip_39_word_new_br_5 | sunset<br>silent<br>nominee<br>crater<br>exile |  
+| bip_39_word_new_br_6 | sunset<br>silent<br>nominee<br>crater<br>exile<br>twelve |  
+| bip_39_word_new_br_7 | sunset<br>silent<br>nominee<br>crater<br>exile<br>twelve<br>fame |  
+| bip_39_word_new_br_8 | sunset<br>silent<br>nominee<br>crater<br>exile<br>twelve<br>fame<br>old |  
+| bip_39_word_new_br_9 | sunset<br>silent<br>nominee<br>crater<br>exile<br>twelve<br>fame<br>old<br>bulb |  
+| bip_39_word_new_line_1 | sunset |  
+| bip_39_word_new_line_10 | sunset
 silent
 nominee
 crater
@@ -55,7 +55,7 @@ fame
 old
 bulb
 blur |  
-| bip_39_word_new_line11 | sunset
+| bip_39_word_new_line_11 | sunset
 silent
 nominee
 crater
@@ -66,7 +66,7 @@ old
 bulb
 blur
 trade |  
-| bip_39_word_new_line12 | sunset
+| bip_39_word_new_line_12 | sunset
 silent
 nominee
 crater
@@ -78,34 +78,34 @@ bulb
 blur
 trade
 airport |  
-| bip_39_word_new_line2 | sunset
+| bip_39_word_new_line_2 | sunset
 silent |  
-| bip_39_word_new_line3 | sunset
+| bip_39_word_new_line_3 | sunset
 silent
 nominee |  
-| bip_39_word_new_line4 | sunset
+| bip_39_word_new_line_4 | sunset
 silent
 nominee
 crater |  
-| bip_39_word_new_line5 | sunset
+| bip_39_word_new_line_5 | sunset
 silent
 nominee
 crater
 exile |  
-| bip_39_word_new_line6 | sunset
+| bip_39_word_new_line_6 | sunset
 silent
 nominee
 crater
 exile
 twelve |  
-| bip_39_word_new_line7 | sunset
+| bip_39_word_new_line_7 | sunset
 silent
 nominee
 crater
 exile
 twelve
 fame |  
-| bip_39_word_new_line8 | sunset
+| bip_39_word_new_line_8 | sunset
 silent
 nominee
 crater
@@ -113,7 +113,7 @@ exile
 twelve
 fame
 old |  
-| bip_39_word_new_line9 | sunset
+| bip_39_word_new_line_9 | sunset
 silent
 nominee
 crater

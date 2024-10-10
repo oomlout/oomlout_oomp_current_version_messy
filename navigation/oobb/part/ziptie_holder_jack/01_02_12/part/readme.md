@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fatal |  
-| bip_39_word_new_br10 | fatal<br>harvest<br>vehicle<br>dutch<br>candy<br>bring<br>twelve<br>cushion<br>benefit<br>crouch |  
-| bip_39_word_new_br11 | fatal<br>harvest<br>vehicle<br>dutch<br>candy<br>bring<br>twelve<br>cushion<br>benefit<br>crouch<br>club |  
-| bip_39_word_new_br12 | fatal<br>harvest<br>vehicle<br>dutch<br>candy<br>bring<br>twelve<br>cushion<br>benefit<br>crouch<br>club<br>address |  
-| bip_39_word_new_br2 | fatal<br>harvest |  
-| bip_39_word_new_br3 | fatal<br>harvest<br>vehicle |  
-| bip_39_word_new_br4 | fatal<br>harvest<br>vehicle<br>dutch |  
-| bip_39_word_new_br5 | fatal<br>harvest<br>vehicle<br>dutch<br>candy |  
-| bip_39_word_new_br6 | fatal<br>harvest<br>vehicle<br>dutch<br>candy<br>bring |  
-| bip_39_word_new_br7 | fatal<br>harvest<br>vehicle<br>dutch<br>candy<br>bring<br>twelve |  
-| bip_39_word_new_br8 | fatal<br>harvest<br>vehicle<br>dutch<br>candy<br>bring<br>twelve<br>cushion |  
-| bip_39_word_new_br9 | fatal<br>harvest<br>vehicle<br>dutch<br>candy<br>bring<br>twelve<br>cushion<br>benefit |  
-| bip_39_word_new_line1 | fatal |  
-| bip_39_word_new_line10 | fatal
+| bip_39_word_new_br_1 | fatal |  
+| bip_39_word_new_br_10 | fatal<br>harvest<br>vehicle<br>dutch<br>candy<br>bring<br>twelve<br>cushion<br>benefit<br>crouch |  
+| bip_39_word_new_br_11 | fatal<br>harvest<br>vehicle<br>dutch<br>candy<br>bring<br>twelve<br>cushion<br>benefit<br>crouch<br>club |  
+| bip_39_word_new_br_12 | fatal<br>harvest<br>vehicle<br>dutch<br>candy<br>bring<br>twelve<br>cushion<br>benefit<br>crouch<br>club<br>address |  
+| bip_39_word_new_br_2 | fatal<br>harvest |  
+| bip_39_word_new_br_3 | fatal<br>harvest<br>vehicle |  
+| bip_39_word_new_br_4 | fatal<br>harvest<br>vehicle<br>dutch |  
+| bip_39_word_new_br_5 | fatal<br>harvest<br>vehicle<br>dutch<br>candy |  
+| bip_39_word_new_br_6 | fatal<br>harvest<br>vehicle<br>dutch<br>candy<br>bring |  
+| bip_39_word_new_br_7 | fatal<br>harvest<br>vehicle<br>dutch<br>candy<br>bring<br>twelve |  
+| bip_39_word_new_br_8 | fatal<br>harvest<br>vehicle<br>dutch<br>candy<br>bring<br>twelve<br>cushion |  
+| bip_39_word_new_br_9 | fatal<br>harvest<br>vehicle<br>dutch<br>candy<br>bring<br>twelve<br>cushion<br>benefit |  
+| bip_39_word_new_line_1 | fatal |  
+| bip_39_word_new_line_10 | fatal
 harvest
 vehicle
 dutch
@@ -55,7 +55,7 @@ twelve
 cushion
 benefit
 crouch |  
-| bip_39_word_new_line11 | fatal
+| bip_39_word_new_line_11 | fatal
 harvest
 vehicle
 dutch
@@ -66,7 +66,7 @@ cushion
 benefit
 crouch
 club |  
-| bip_39_word_new_line12 | fatal
+| bip_39_word_new_line_12 | fatal
 harvest
 vehicle
 dutch
@@ -78,34 +78,34 @@ benefit
 crouch
 club
 address |  
-| bip_39_word_new_line2 | fatal
+| bip_39_word_new_line_2 | fatal
 harvest |  
-| bip_39_word_new_line3 | fatal
+| bip_39_word_new_line_3 | fatal
 harvest
 vehicle |  
-| bip_39_word_new_line4 | fatal
+| bip_39_word_new_line_4 | fatal
 harvest
 vehicle
 dutch |  
-| bip_39_word_new_line5 | fatal
+| bip_39_word_new_line_5 | fatal
 harvest
 vehicle
 dutch
 candy |  
-| bip_39_word_new_line6 | fatal
+| bip_39_word_new_line_6 | fatal
 harvest
 vehicle
 dutch
 candy
 bring |  
-| bip_39_word_new_line7 | fatal
+| bip_39_word_new_line_7 | fatal
 harvest
 vehicle
 dutch
 candy
 bring
 twelve |  
-| bip_39_word_new_line8 | fatal
+| bip_39_word_new_line_8 | fatal
 harvest
 vehicle
 dutch
@@ -113,7 +113,7 @@ candy
 bring
 twelve
 cushion |  
-| bip_39_word_new_line9 | fatal
+| bip_39_word_new_line_9 | fatal
 harvest
 vehicle
 dutch

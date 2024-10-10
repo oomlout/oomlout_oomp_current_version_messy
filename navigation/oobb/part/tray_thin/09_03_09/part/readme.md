@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | voice |  
-| bip_39_word_new_br10 | voice<br>error<br>pool<br>faculty<br>inherit<br>blade<br>dragon<br>paddle<br>decide<br>sport |  
-| bip_39_word_new_br11 | voice<br>error<br>pool<br>faculty<br>inherit<br>blade<br>dragon<br>paddle<br>decide<br>sport<br>under |  
-| bip_39_word_new_br12 | voice<br>error<br>pool<br>faculty<br>inherit<br>blade<br>dragon<br>paddle<br>decide<br>sport<br>under<br>alien |  
-| bip_39_word_new_br2 | voice<br>error |  
-| bip_39_word_new_br3 | voice<br>error<br>pool |  
-| bip_39_word_new_br4 | voice<br>error<br>pool<br>faculty |  
-| bip_39_word_new_br5 | voice<br>error<br>pool<br>faculty<br>inherit |  
-| bip_39_word_new_br6 | voice<br>error<br>pool<br>faculty<br>inherit<br>blade |  
-| bip_39_word_new_br7 | voice<br>error<br>pool<br>faculty<br>inherit<br>blade<br>dragon |  
-| bip_39_word_new_br8 | voice<br>error<br>pool<br>faculty<br>inherit<br>blade<br>dragon<br>paddle |  
-| bip_39_word_new_br9 | voice<br>error<br>pool<br>faculty<br>inherit<br>blade<br>dragon<br>paddle<br>decide |  
-| bip_39_word_new_line1 | voice |  
-| bip_39_word_new_line10 | voice
+| bip_39_word_new_br_1 | voice |  
+| bip_39_word_new_br_10 | voice<br>error<br>pool<br>faculty<br>inherit<br>blade<br>dragon<br>paddle<br>decide<br>sport |  
+| bip_39_word_new_br_11 | voice<br>error<br>pool<br>faculty<br>inherit<br>blade<br>dragon<br>paddle<br>decide<br>sport<br>under |  
+| bip_39_word_new_br_12 | voice<br>error<br>pool<br>faculty<br>inherit<br>blade<br>dragon<br>paddle<br>decide<br>sport<br>under<br>alien |  
+| bip_39_word_new_br_2 | voice<br>error |  
+| bip_39_word_new_br_3 | voice<br>error<br>pool |  
+| bip_39_word_new_br_4 | voice<br>error<br>pool<br>faculty |  
+| bip_39_word_new_br_5 | voice<br>error<br>pool<br>faculty<br>inherit |  
+| bip_39_word_new_br_6 | voice<br>error<br>pool<br>faculty<br>inherit<br>blade |  
+| bip_39_word_new_br_7 | voice<br>error<br>pool<br>faculty<br>inherit<br>blade<br>dragon |  
+| bip_39_word_new_br_8 | voice<br>error<br>pool<br>faculty<br>inherit<br>blade<br>dragon<br>paddle |  
+| bip_39_word_new_br_9 | voice<br>error<br>pool<br>faculty<br>inherit<br>blade<br>dragon<br>paddle<br>decide |  
+| bip_39_word_new_line_1 | voice |  
+| bip_39_word_new_line_10 | voice
 error
 pool
 faculty
@@ -55,7 +55,7 @@ dragon
 paddle
 decide
 sport |  
-| bip_39_word_new_line11 | voice
+| bip_39_word_new_line_11 | voice
 error
 pool
 faculty
@@ -66,7 +66,7 @@ paddle
 decide
 sport
 under |  
-| bip_39_word_new_line12 | voice
+| bip_39_word_new_line_12 | voice
 error
 pool
 faculty
@@ -78,34 +78,34 @@ decide
 sport
 under
 alien |  
-| bip_39_word_new_line2 | voice
+| bip_39_word_new_line_2 | voice
 error |  
-| bip_39_word_new_line3 | voice
+| bip_39_word_new_line_3 | voice
 error
 pool |  
-| bip_39_word_new_line4 | voice
+| bip_39_word_new_line_4 | voice
 error
 pool
 faculty |  
-| bip_39_word_new_line5 | voice
+| bip_39_word_new_line_5 | voice
 error
 pool
 faculty
 inherit |  
-| bip_39_word_new_line6 | voice
+| bip_39_word_new_line_6 | voice
 error
 pool
 faculty
 inherit
 blade |  
-| bip_39_word_new_line7 | voice
+| bip_39_word_new_line_7 | voice
 error
 pool
 faculty
 inherit
 blade
 dragon |  
-| bip_39_word_new_line8 | voice
+| bip_39_word_new_line_8 | voice
 error
 pool
 faculty
@@ -113,7 +113,7 @@ inherit
 blade
 dragon
 paddle |  
-| bip_39_word_new_line9 | voice
+| bip_39_word_new_line_9 | voice
 error
 pool
 faculty

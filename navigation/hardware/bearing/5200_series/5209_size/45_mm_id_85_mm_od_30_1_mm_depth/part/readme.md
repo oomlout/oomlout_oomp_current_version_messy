@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | reform |  
-| bip_39_word_new_br10 | reform<br>cool<br>ball<br>dose<br>obscure<br>current<br>candy<br>exit<br>dial<br>artist |  
-| bip_39_word_new_br11 | reform<br>cool<br>ball<br>dose<br>obscure<br>current<br>candy<br>exit<br>dial<br>artist<br>mystery |  
-| bip_39_word_new_br12 | reform<br>cool<br>ball<br>dose<br>obscure<br>current<br>candy<br>exit<br>dial<br>artist<br>mystery<br>alter |  
-| bip_39_word_new_br2 | reform<br>cool |  
-| bip_39_word_new_br3 | reform<br>cool<br>ball |  
-| bip_39_word_new_br4 | reform<br>cool<br>ball<br>dose |  
-| bip_39_word_new_br5 | reform<br>cool<br>ball<br>dose<br>obscure |  
-| bip_39_word_new_br6 | reform<br>cool<br>ball<br>dose<br>obscure<br>current |  
-| bip_39_word_new_br7 | reform<br>cool<br>ball<br>dose<br>obscure<br>current<br>candy |  
-| bip_39_word_new_br8 | reform<br>cool<br>ball<br>dose<br>obscure<br>current<br>candy<br>exit |  
-| bip_39_word_new_br9 | reform<br>cool<br>ball<br>dose<br>obscure<br>current<br>candy<br>exit<br>dial |  
-| bip_39_word_new_line1 | reform |  
-| bip_39_word_new_line10 | reform
+| bip_39_word_new_br_1 | reform |  
+| bip_39_word_new_br_10 | reform<br>cool<br>ball<br>dose<br>obscure<br>current<br>candy<br>exit<br>dial<br>artist |  
+| bip_39_word_new_br_11 | reform<br>cool<br>ball<br>dose<br>obscure<br>current<br>candy<br>exit<br>dial<br>artist<br>mystery |  
+| bip_39_word_new_br_12 | reform<br>cool<br>ball<br>dose<br>obscure<br>current<br>candy<br>exit<br>dial<br>artist<br>mystery<br>alter |  
+| bip_39_word_new_br_2 | reform<br>cool |  
+| bip_39_word_new_br_3 | reform<br>cool<br>ball |  
+| bip_39_word_new_br_4 | reform<br>cool<br>ball<br>dose |  
+| bip_39_word_new_br_5 | reform<br>cool<br>ball<br>dose<br>obscure |  
+| bip_39_word_new_br_6 | reform<br>cool<br>ball<br>dose<br>obscure<br>current |  
+| bip_39_word_new_br_7 | reform<br>cool<br>ball<br>dose<br>obscure<br>current<br>candy |  
+| bip_39_word_new_br_8 | reform<br>cool<br>ball<br>dose<br>obscure<br>current<br>candy<br>exit |  
+| bip_39_word_new_br_9 | reform<br>cool<br>ball<br>dose<br>obscure<br>current<br>candy<br>exit<br>dial |  
+| bip_39_word_new_line_1 | reform |  
+| bip_39_word_new_line_10 | reform
 cool
 ball
 dose
@@ -55,7 +55,7 @@ candy
 exit
 dial
 artist |  
-| bip_39_word_new_line11 | reform
+| bip_39_word_new_line_11 | reform
 cool
 ball
 dose
@@ -66,7 +66,7 @@ exit
 dial
 artist
 mystery |  
-| bip_39_word_new_line12 | reform
+| bip_39_word_new_line_12 | reform
 cool
 ball
 dose
@@ -78,34 +78,34 @@ dial
 artist
 mystery
 alter |  
-| bip_39_word_new_line2 | reform
+| bip_39_word_new_line_2 | reform
 cool |  
-| bip_39_word_new_line3 | reform
+| bip_39_word_new_line_3 | reform
 cool
 ball |  
-| bip_39_word_new_line4 | reform
+| bip_39_word_new_line_4 | reform
 cool
 ball
 dose |  
-| bip_39_word_new_line5 | reform
+| bip_39_word_new_line_5 | reform
 cool
 ball
 dose
 obscure |  
-| bip_39_word_new_line6 | reform
+| bip_39_word_new_line_6 | reform
 cool
 ball
 dose
 obscure
 current |  
-| bip_39_word_new_line7 | reform
+| bip_39_word_new_line_7 | reform
 cool
 ball
 dose
 obscure
 current
 candy |  
-| bip_39_word_new_line8 | reform
+| bip_39_word_new_line_8 | reform
 cool
 ball
 dose
@@ -113,7 +113,7 @@ obscure
 current
 candy
 exit |  
-| bip_39_word_new_line9 | reform
+| bip_39_word_new_line_9 | reform
 cool
 ball
 dose

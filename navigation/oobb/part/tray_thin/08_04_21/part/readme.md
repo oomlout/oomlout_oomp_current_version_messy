@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | custom |  
-| bip_39_word_new_br10 | custom<br>member<br>awake<br>else<br>photo<br>admit<br>all<br>youth<br>tunnel<br>nice |  
-| bip_39_word_new_br11 | custom<br>member<br>awake<br>else<br>photo<br>admit<br>all<br>youth<br>tunnel<br>nice<br>horn |  
-| bip_39_word_new_br12 | custom<br>member<br>awake<br>else<br>photo<br>admit<br>all<br>youth<br>tunnel<br>nice<br>horn<br>aim |  
-| bip_39_word_new_br2 | custom<br>member |  
-| bip_39_word_new_br3 | custom<br>member<br>awake |  
-| bip_39_word_new_br4 | custom<br>member<br>awake<br>else |  
-| bip_39_word_new_br5 | custom<br>member<br>awake<br>else<br>photo |  
-| bip_39_word_new_br6 | custom<br>member<br>awake<br>else<br>photo<br>admit |  
-| bip_39_word_new_br7 | custom<br>member<br>awake<br>else<br>photo<br>admit<br>all |  
-| bip_39_word_new_br8 | custom<br>member<br>awake<br>else<br>photo<br>admit<br>all<br>youth |  
-| bip_39_word_new_br9 | custom<br>member<br>awake<br>else<br>photo<br>admit<br>all<br>youth<br>tunnel |  
-| bip_39_word_new_line1 | custom |  
-| bip_39_word_new_line10 | custom
+| bip_39_word_new_br_1 | custom |  
+| bip_39_word_new_br_10 | custom<br>member<br>awake<br>else<br>photo<br>admit<br>all<br>youth<br>tunnel<br>nice |  
+| bip_39_word_new_br_11 | custom<br>member<br>awake<br>else<br>photo<br>admit<br>all<br>youth<br>tunnel<br>nice<br>horn |  
+| bip_39_word_new_br_12 | custom<br>member<br>awake<br>else<br>photo<br>admit<br>all<br>youth<br>tunnel<br>nice<br>horn<br>aim |  
+| bip_39_word_new_br_2 | custom<br>member |  
+| bip_39_word_new_br_3 | custom<br>member<br>awake |  
+| bip_39_word_new_br_4 | custom<br>member<br>awake<br>else |  
+| bip_39_word_new_br_5 | custom<br>member<br>awake<br>else<br>photo |  
+| bip_39_word_new_br_6 | custom<br>member<br>awake<br>else<br>photo<br>admit |  
+| bip_39_word_new_br_7 | custom<br>member<br>awake<br>else<br>photo<br>admit<br>all |  
+| bip_39_word_new_br_8 | custom<br>member<br>awake<br>else<br>photo<br>admit<br>all<br>youth |  
+| bip_39_word_new_br_9 | custom<br>member<br>awake<br>else<br>photo<br>admit<br>all<br>youth<br>tunnel |  
+| bip_39_word_new_line_1 | custom |  
+| bip_39_word_new_line_10 | custom
 member
 awake
 else
@@ -55,7 +55,7 @@ all
 youth
 tunnel
 nice |  
-| bip_39_word_new_line11 | custom
+| bip_39_word_new_line_11 | custom
 member
 awake
 else
@@ -66,7 +66,7 @@ youth
 tunnel
 nice
 horn |  
-| bip_39_word_new_line12 | custom
+| bip_39_word_new_line_12 | custom
 member
 awake
 else
@@ -78,34 +78,34 @@ tunnel
 nice
 horn
 aim |  
-| bip_39_word_new_line2 | custom
+| bip_39_word_new_line_2 | custom
 member |  
-| bip_39_word_new_line3 | custom
+| bip_39_word_new_line_3 | custom
 member
 awake |  
-| bip_39_word_new_line4 | custom
+| bip_39_word_new_line_4 | custom
 member
 awake
 else |  
-| bip_39_word_new_line5 | custom
+| bip_39_word_new_line_5 | custom
 member
 awake
 else
 photo |  
-| bip_39_word_new_line6 | custom
+| bip_39_word_new_line_6 | custom
 member
 awake
 else
 photo
 admit |  
-| bip_39_word_new_line7 | custom
+| bip_39_word_new_line_7 | custom
 member
 awake
 else
 photo
 admit
 all |  
-| bip_39_word_new_line8 | custom
+| bip_39_word_new_line_8 | custom
 member
 awake
 else
@@ -113,7 +113,7 @@ photo
 admit
 all
 youth |  
-| bip_39_word_new_line9 | custom
+| bip_39_word_new_line_9 | custom
 member
 awake
 else

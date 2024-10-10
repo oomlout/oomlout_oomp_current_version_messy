@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | early |  
-| bip_39_word_new_br10 | early<br>pull<br>bless<br>lady<br>nuclear<br>crush<br>october<br>sauce<br>wrap<br>dizzy |  
-| bip_39_word_new_br11 | early<br>pull<br>bless<br>lady<br>nuclear<br>crush<br>october<br>sauce<br>wrap<br>dizzy<br>clean |  
-| bip_39_word_new_br12 | early<br>pull<br>bless<br>lady<br>nuclear<br>crush<br>october<br>sauce<br>wrap<br>dizzy<br>clean<br>august |  
-| bip_39_word_new_br2 | early<br>pull |  
-| bip_39_word_new_br3 | early<br>pull<br>bless |  
-| bip_39_word_new_br4 | early<br>pull<br>bless<br>lady |  
-| bip_39_word_new_br5 | early<br>pull<br>bless<br>lady<br>nuclear |  
-| bip_39_word_new_br6 | early<br>pull<br>bless<br>lady<br>nuclear<br>crush |  
-| bip_39_word_new_br7 | early<br>pull<br>bless<br>lady<br>nuclear<br>crush<br>october |  
-| bip_39_word_new_br8 | early<br>pull<br>bless<br>lady<br>nuclear<br>crush<br>october<br>sauce |  
-| bip_39_word_new_br9 | early<br>pull<br>bless<br>lady<br>nuclear<br>crush<br>october<br>sauce<br>wrap |  
-| bip_39_word_new_line1 | early |  
-| bip_39_word_new_line10 | early
+| bip_39_word_new_br_1 | early |  
+| bip_39_word_new_br_10 | early<br>pull<br>bless<br>lady<br>nuclear<br>crush<br>october<br>sauce<br>wrap<br>dizzy |  
+| bip_39_word_new_br_11 | early<br>pull<br>bless<br>lady<br>nuclear<br>crush<br>october<br>sauce<br>wrap<br>dizzy<br>clean |  
+| bip_39_word_new_br_12 | early<br>pull<br>bless<br>lady<br>nuclear<br>crush<br>october<br>sauce<br>wrap<br>dizzy<br>clean<br>august |  
+| bip_39_word_new_br_2 | early<br>pull |  
+| bip_39_word_new_br_3 | early<br>pull<br>bless |  
+| bip_39_word_new_br_4 | early<br>pull<br>bless<br>lady |  
+| bip_39_word_new_br_5 | early<br>pull<br>bless<br>lady<br>nuclear |  
+| bip_39_word_new_br_6 | early<br>pull<br>bless<br>lady<br>nuclear<br>crush |  
+| bip_39_word_new_br_7 | early<br>pull<br>bless<br>lady<br>nuclear<br>crush<br>october |  
+| bip_39_word_new_br_8 | early<br>pull<br>bless<br>lady<br>nuclear<br>crush<br>october<br>sauce |  
+| bip_39_word_new_br_9 | early<br>pull<br>bless<br>lady<br>nuclear<br>crush<br>october<br>sauce<br>wrap |  
+| bip_39_word_new_line_1 | early |  
+| bip_39_word_new_line_10 | early
 pull
 bless
 lady
@@ -55,7 +55,7 @@ october
 sauce
 wrap
 dizzy |  
-| bip_39_word_new_line11 | early
+| bip_39_word_new_line_11 | early
 pull
 bless
 lady
@@ -66,7 +66,7 @@ sauce
 wrap
 dizzy
 clean |  
-| bip_39_word_new_line12 | early
+| bip_39_word_new_line_12 | early
 pull
 bless
 lady
@@ -78,34 +78,34 @@ wrap
 dizzy
 clean
 august |  
-| bip_39_word_new_line2 | early
+| bip_39_word_new_line_2 | early
 pull |  
-| bip_39_word_new_line3 | early
+| bip_39_word_new_line_3 | early
 pull
 bless |  
-| bip_39_word_new_line4 | early
+| bip_39_word_new_line_4 | early
 pull
 bless
 lady |  
-| bip_39_word_new_line5 | early
+| bip_39_word_new_line_5 | early
 pull
 bless
 lady
 nuclear |  
-| bip_39_word_new_line6 | early
+| bip_39_word_new_line_6 | early
 pull
 bless
 lady
 nuclear
 crush |  
-| bip_39_word_new_line7 | early
+| bip_39_word_new_line_7 | early
 pull
 bless
 lady
 nuclear
 crush
 october |  
-| bip_39_word_new_line8 | early
+| bip_39_word_new_line_8 | early
 pull
 bless
 lady
@@ -113,7 +113,7 @@ nuclear
 crush
 october
 sauce |  
-| bip_39_word_new_line9 | early
+| bip_39_word_new_line_9 | early
 pull
 bless
 lady

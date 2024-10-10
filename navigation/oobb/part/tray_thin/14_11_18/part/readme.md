@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | alarm |  
-| bip_39_word_new_br10 | alarm<br>fish<br>use<br>shield<br>festival<br>time<br>analyst<br>water<br>letter<br>scorpion |  
-| bip_39_word_new_br11 | alarm<br>fish<br>use<br>shield<br>festival<br>time<br>analyst<br>water<br>letter<br>scorpion<br>federal |  
-| bip_39_word_new_br12 | alarm<br>fish<br>use<br>shield<br>festival<br>time<br>analyst<br>water<br>letter<br>scorpion<br>federal<br>album |  
-| bip_39_word_new_br2 | alarm<br>fish |  
-| bip_39_word_new_br3 | alarm<br>fish<br>use |  
-| bip_39_word_new_br4 | alarm<br>fish<br>use<br>shield |  
-| bip_39_word_new_br5 | alarm<br>fish<br>use<br>shield<br>festival |  
-| bip_39_word_new_br6 | alarm<br>fish<br>use<br>shield<br>festival<br>time |  
-| bip_39_word_new_br7 | alarm<br>fish<br>use<br>shield<br>festival<br>time<br>analyst |  
-| bip_39_word_new_br8 | alarm<br>fish<br>use<br>shield<br>festival<br>time<br>analyst<br>water |  
-| bip_39_word_new_br9 | alarm<br>fish<br>use<br>shield<br>festival<br>time<br>analyst<br>water<br>letter |  
-| bip_39_word_new_line1 | alarm |  
-| bip_39_word_new_line10 | alarm
+| bip_39_word_new_br_1 | alarm |  
+| bip_39_word_new_br_10 | alarm<br>fish<br>use<br>shield<br>festival<br>time<br>analyst<br>water<br>letter<br>scorpion |  
+| bip_39_word_new_br_11 | alarm<br>fish<br>use<br>shield<br>festival<br>time<br>analyst<br>water<br>letter<br>scorpion<br>federal |  
+| bip_39_word_new_br_12 | alarm<br>fish<br>use<br>shield<br>festival<br>time<br>analyst<br>water<br>letter<br>scorpion<br>federal<br>album |  
+| bip_39_word_new_br_2 | alarm<br>fish |  
+| bip_39_word_new_br_3 | alarm<br>fish<br>use |  
+| bip_39_word_new_br_4 | alarm<br>fish<br>use<br>shield |  
+| bip_39_word_new_br_5 | alarm<br>fish<br>use<br>shield<br>festival |  
+| bip_39_word_new_br_6 | alarm<br>fish<br>use<br>shield<br>festival<br>time |  
+| bip_39_word_new_br_7 | alarm<br>fish<br>use<br>shield<br>festival<br>time<br>analyst |  
+| bip_39_word_new_br_8 | alarm<br>fish<br>use<br>shield<br>festival<br>time<br>analyst<br>water |  
+| bip_39_word_new_br_9 | alarm<br>fish<br>use<br>shield<br>festival<br>time<br>analyst<br>water<br>letter |  
+| bip_39_word_new_line_1 | alarm |  
+| bip_39_word_new_line_10 | alarm
 fish
 use
 shield
@@ -55,7 +55,7 @@ analyst
 water
 letter
 scorpion |  
-| bip_39_word_new_line11 | alarm
+| bip_39_word_new_line_11 | alarm
 fish
 use
 shield
@@ -66,7 +66,7 @@ water
 letter
 scorpion
 federal |  
-| bip_39_word_new_line12 | alarm
+| bip_39_word_new_line_12 | alarm
 fish
 use
 shield
@@ -78,34 +78,34 @@ letter
 scorpion
 federal
 album |  
-| bip_39_word_new_line2 | alarm
+| bip_39_word_new_line_2 | alarm
 fish |  
-| bip_39_word_new_line3 | alarm
+| bip_39_word_new_line_3 | alarm
 fish
 use |  
-| bip_39_word_new_line4 | alarm
+| bip_39_word_new_line_4 | alarm
 fish
 use
 shield |  
-| bip_39_word_new_line5 | alarm
+| bip_39_word_new_line_5 | alarm
 fish
 use
 shield
 festival |  
-| bip_39_word_new_line6 | alarm
+| bip_39_word_new_line_6 | alarm
 fish
 use
 shield
 festival
 time |  
-| bip_39_word_new_line7 | alarm
+| bip_39_word_new_line_7 | alarm
 fish
 use
 shield
 festival
 time
 analyst |  
-| bip_39_word_new_line8 | alarm
+| bip_39_word_new_line_8 | alarm
 fish
 use
 shield
@@ -113,7 +113,7 @@ festival
 time
 analyst
 water |  
-| bip_39_word_new_line9 | alarm
+| bip_39_word_new_line_9 | alarm
 fish
 use
 shield

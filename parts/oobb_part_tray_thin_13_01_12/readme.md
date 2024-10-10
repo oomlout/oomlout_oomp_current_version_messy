@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bunker |  
-| bip_39_word_new_br10 | bunker<br>pipe<br>normal<br>wait<br>mistake<br>legend<br>tunnel<br>element<br>maze<br>hundred |  
-| bip_39_word_new_br11 | bunker<br>pipe<br>normal<br>wait<br>mistake<br>legend<br>tunnel<br>element<br>maze<br>hundred<br>sun |  
-| bip_39_word_new_br12 | bunker<br>pipe<br>normal<br>wait<br>mistake<br>legend<br>tunnel<br>element<br>maze<br>hundred<br>sun<br>arrange |  
-| bip_39_word_new_br2 | bunker<br>pipe |  
-| bip_39_word_new_br3 | bunker<br>pipe<br>normal |  
-| bip_39_word_new_br4 | bunker<br>pipe<br>normal<br>wait |  
-| bip_39_word_new_br5 | bunker<br>pipe<br>normal<br>wait<br>mistake |  
-| bip_39_word_new_br6 | bunker<br>pipe<br>normal<br>wait<br>mistake<br>legend |  
-| bip_39_word_new_br7 | bunker<br>pipe<br>normal<br>wait<br>mistake<br>legend<br>tunnel |  
-| bip_39_word_new_br8 | bunker<br>pipe<br>normal<br>wait<br>mistake<br>legend<br>tunnel<br>element |  
-| bip_39_word_new_br9 | bunker<br>pipe<br>normal<br>wait<br>mistake<br>legend<br>tunnel<br>element<br>maze |  
-| bip_39_word_new_line1 | bunker |  
-| bip_39_word_new_line10 | bunker
+| bip_39_word_new_br_1 | bunker |  
+| bip_39_word_new_br_10 | bunker<br>pipe<br>normal<br>wait<br>mistake<br>legend<br>tunnel<br>element<br>maze<br>hundred |  
+| bip_39_word_new_br_11 | bunker<br>pipe<br>normal<br>wait<br>mistake<br>legend<br>tunnel<br>element<br>maze<br>hundred<br>sun |  
+| bip_39_word_new_br_12 | bunker<br>pipe<br>normal<br>wait<br>mistake<br>legend<br>tunnel<br>element<br>maze<br>hundred<br>sun<br>arrange |  
+| bip_39_word_new_br_2 | bunker<br>pipe |  
+| bip_39_word_new_br_3 | bunker<br>pipe<br>normal |  
+| bip_39_word_new_br_4 | bunker<br>pipe<br>normal<br>wait |  
+| bip_39_word_new_br_5 | bunker<br>pipe<br>normal<br>wait<br>mistake |  
+| bip_39_word_new_br_6 | bunker<br>pipe<br>normal<br>wait<br>mistake<br>legend |  
+| bip_39_word_new_br_7 | bunker<br>pipe<br>normal<br>wait<br>mistake<br>legend<br>tunnel |  
+| bip_39_word_new_br_8 | bunker<br>pipe<br>normal<br>wait<br>mistake<br>legend<br>tunnel<br>element |  
+| bip_39_word_new_br_9 | bunker<br>pipe<br>normal<br>wait<br>mistake<br>legend<br>tunnel<br>element<br>maze |  
+| bip_39_word_new_line_1 | bunker |  
+| bip_39_word_new_line_10 | bunker
 pipe
 normal
 wait
@@ -55,7 +55,7 @@ tunnel
 element
 maze
 hundred |  
-| bip_39_word_new_line11 | bunker
+| bip_39_word_new_line_11 | bunker
 pipe
 normal
 wait
@@ -66,7 +66,7 @@ element
 maze
 hundred
 sun |  
-| bip_39_word_new_line12 | bunker
+| bip_39_word_new_line_12 | bunker
 pipe
 normal
 wait
@@ -78,34 +78,34 @@ maze
 hundred
 sun
 arrange |  
-| bip_39_word_new_line2 | bunker
+| bip_39_word_new_line_2 | bunker
 pipe |  
-| bip_39_word_new_line3 | bunker
+| bip_39_word_new_line_3 | bunker
 pipe
 normal |  
-| bip_39_word_new_line4 | bunker
+| bip_39_word_new_line_4 | bunker
 pipe
 normal
 wait |  
-| bip_39_word_new_line5 | bunker
+| bip_39_word_new_line_5 | bunker
 pipe
 normal
 wait
 mistake |  
-| bip_39_word_new_line6 | bunker
+| bip_39_word_new_line_6 | bunker
 pipe
 normal
 wait
 mistake
 legend |  
-| bip_39_word_new_line7 | bunker
+| bip_39_word_new_line_7 | bunker
 pipe
 normal
 wait
 mistake
 legend
 tunnel |  
-| bip_39_word_new_line8 | bunker
+| bip_39_word_new_line_8 | bunker
 pipe
 normal
 wait
@@ -113,7 +113,7 @@ mistake
 legend
 tunnel
 element |  
-| bip_39_word_new_line9 | bunker
+| bip_39_word_new_line_9 | bunker
 pipe
 normal
 wait

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | steak |  
-| bip_39_word_new_br10 | steak<br>digital<br>crater<br>fit<br>fatal<br>host<br>faculty<br>blush<br>suspect<br>old |  
-| bip_39_word_new_br11 | steak<br>digital<br>crater<br>fit<br>fatal<br>host<br>faculty<br>blush<br>suspect<br>old<br>merry |  
-| bip_39_word_new_br12 | steak<br>digital<br>crater<br>fit<br>fatal<br>host<br>faculty<br>blush<br>suspect<br>old<br>merry<br>ahead |  
-| bip_39_word_new_br2 | steak<br>digital |  
-| bip_39_word_new_br3 | steak<br>digital<br>crater |  
-| bip_39_word_new_br4 | steak<br>digital<br>crater<br>fit |  
-| bip_39_word_new_br5 | steak<br>digital<br>crater<br>fit<br>fatal |  
-| bip_39_word_new_br6 | steak<br>digital<br>crater<br>fit<br>fatal<br>host |  
-| bip_39_word_new_br7 | steak<br>digital<br>crater<br>fit<br>fatal<br>host<br>faculty |  
-| bip_39_word_new_br8 | steak<br>digital<br>crater<br>fit<br>fatal<br>host<br>faculty<br>blush |  
-| bip_39_word_new_br9 | steak<br>digital<br>crater<br>fit<br>fatal<br>host<br>faculty<br>blush<br>suspect |  
-| bip_39_word_new_line1 | steak |  
-| bip_39_word_new_line10 | steak
+| bip_39_word_new_br_1 | steak |  
+| bip_39_word_new_br_10 | steak<br>digital<br>crater<br>fit<br>fatal<br>host<br>faculty<br>blush<br>suspect<br>old |  
+| bip_39_word_new_br_11 | steak<br>digital<br>crater<br>fit<br>fatal<br>host<br>faculty<br>blush<br>suspect<br>old<br>merry |  
+| bip_39_word_new_br_12 | steak<br>digital<br>crater<br>fit<br>fatal<br>host<br>faculty<br>blush<br>suspect<br>old<br>merry<br>ahead |  
+| bip_39_word_new_br_2 | steak<br>digital |  
+| bip_39_word_new_br_3 | steak<br>digital<br>crater |  
+| bip_39_word_new_br_4 | steak<br>digital<br>crater<br>fit |  
+| bip_39_word_new_br_5 | steak<br>digital<br>crater<br>fit<br>fatal |  
+| bip_39_word_new_br_6 | steak<br>digital<br>crater<br>fit<br>fatal<br>host |  
+| bip_39_word_new_br_7 | steak<br>digital<br>crater<br>fit<br>fatal<br>host<br>faculty |  
+| bip_39_word_new_br_8 | steak<br>digital<br>crater<br>fit<br>fatal<br>host<br>faculty<br>blush |  
+| bip_39_word_new_br_9 | steak<br>digital<br>crater<br>fit<br>fatal<br>host<br>faculty<br>blush<br>suspect |  
+| bip_39_word_new_line_1 | steak |  
+| bip_39_word_new_line_10 | steak
 digital
 crater
 fit
@@ -55,7 +55,7 @@ faculty
 blush
 suspect
 old |  
-| bip_39_word_new_line11 | steak
+| bip_39_word_new_line_11 | steak
 digital
 crater
 fit
@@ -66,7 +66,7 @@ blush
 suspect
 old
 merry |  
-| bip_39_word_new_line12 | steak
+| bip_39_word_new_line_12 | steak
 digital
 crater
 fit
@@ -78,34 +78,34 @@ suspect
 old
 merry
 ahead |  
-| bip_39_word_new_line2 | steak
+| bip_39_word_new_line_2 | steak
 digital |  
-| bip_39_word_new_line3 | steak
+| bip_39_word_new_line_3 | steak
 digital
 crater |  
-| bip_39_word_new_line4 | steak
+| bip_39_word_new_line_4 | steak
 digital
 crater
 fit |  
-| bip_39_word_new_line5 | steak
+| bip_39_word_new_line_5 | steak
 digital
 crater
 fit
 fatal |  
-| bip_39_word_new_line6 | steak
+| bip_39_word_new_line_6 | steak
 digital
 crater
 fit
 fatal
 host |  
-| bip_39_word_new_line7 | steak
+| bip_39_word_new_line_7 | steak
 digital
 crater
 fit
 fatal
 host
 faculty |  
-| bip_39_word_new_line8 | steak
+| bip_39_word_new_line_8 | steak
 digital
 crater
 fit
@@ -113,7 +113,7 @@ fatal
 host
 faculty
 blush |  
-| bip_39_word_new_line9 | steak
+| bip_39_word_new_line_9 | steak
 digital
 crater
 fit

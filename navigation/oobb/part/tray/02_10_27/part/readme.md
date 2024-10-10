@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | employ |  
-| bip_39_word_new_br10 | employ<br>ignore<br>number<br>eternal<br>diet<br>reduce<br>novel<br>flavor<br>stereo<br>all |  
-| bip_39_word_new_br11 | employ<br>ignore<br>number<br>eternal<br>diet<br>reduce<br>novel<br>flavor<br>stereo<br>all<br>hover |  
-| bip_39_word_new_br12 | employ<br>ignore<br>number<br>eternal<br>diet<br>reduce<br>novel<br>flavor<br>stereo<br>all<br>hover<br>alien |  
-| bip_39_word_new_br2 | employ<br>ignore |  
-| bip_39_word_new_br3 | employ<br>ignore<br>number |  
-| bip_39_word_new_br4 | employ<br>ignore<br>number<br>eternal |  
-| bip_39_word_new_br5 | employ<br>ignore<br>number<br>eternal<br>diet |  
-| bip_39_word_new_br6 | employ<br>ignore<br>number<br>eternal<br>diet<br>reduce |  
-| bip_39_word_new_br7 | employ<br>ignore<br>number<br>eternal<br>diet<br>reduce<br>novel |  
-| bip_39_word_new_br8 | employ<br>ignore<br>number<br>eternal<br>diet<br>reduce<br>novel<br>flavor |  
-| bip_39_word_new_br9 | employ<br>ignore<br>number<br>eternal<br>diet<br>reduce<br>novel<br>flavor<br>stereo |  
-| bip_39_word_new_line1 | employ |  
-| bip_39_word_new_line10 | employ
+| bip_39_word_new_br_1 | employ |  
+| bip_39_word_new_br_10 | employ<br>ignore<br>number<br>eternal<br>diet<br>reduce<br>novel<br>flavor<br>stereo<br>all |  
+| bip_39_word_new_br_11 | employ<br>ignore<br>number<br>eternal<br>diet<br>reduce<br>novel<br>flavor<br>stereo<br>all<br>hover |  
+| bip_39_word_new_br_12 | employ<br>ignore<br>number<br>eternal<br>diet<br>reduce<br>novel<br>flavor<br>stereo<br>all<br>hover<br>alien |  
+| bip_39_word_new_br_2 | employ<br>ignore |  
+| bip_39_word_new_br_3 | employ<br>ignore<br>number |  
+| bip_39_word_new_br_4 | employ<br>ignore<br>number<br>eternal |  
+| bip_39_word_new_br_5 | employ<br>ignore<br>number<br>eternal<br>diet |  
+| bip_39_word_new_br_6 | employ<br>ignore<br>number<br>eternal<br>diet<br>reduce |  
+| bip_39_word_new_br_7 | employ<br>ignore<br>number<br>eternal<br>diet<br>reduce<br>novel |  
+| bip_39_word_new_br_8 | employ<br>ignore<br>number<br>eternal<br>diet<br>reduce<br>novel<br>flavor |  
+| bip_39_word_new_br_9 | employ<br>ignore<br>number<br>eternal<br>diet<br>reduce<br>novel<br>flavor<br>stereo |  
+| bip_39_word_new_line_1 | employ |  
+| bip_39_word_new_line_10 | employ
 ignore
 number
 eternal
@@ -55,7 +55,7 @@ novel
 flavor
 stereo
 all |  
-| bip_39_word_new_line11 | employ
+| bip_39_word_new_line_11 | employ
 ignore
 number
 eternal
@@ -66,7 +66,7 @@ flavor
 stereo
 all
 hover |  
-| bip_39_word_new_line12 | employ
+| bip_39_word_new_line_12 | employ
 ignore
 number
 eternal
@@ -78,34 +78,34 @@ stereo
 all
 hover
 alien |  
-| bip_39_word_new_line2 | employ
+| bip_39_word_new_line_2 | employ
 ignore |  
-| bip_39_word_new_line3 | employ
+| bip_39_word_new_line_3 | employ
 ignore
 number |  
-| bip_39_word_new_line4 | employ
+| bip_39_word_new_line_4 | employ
 ignore
 number
 eternal |  
-| bip_39_word_new_line5 | employ
+| bip_39_word_new_line_5 | employ
 ignore
 number
 eternal
 diet |  
-| bip_39_word_new_line6 | employ
+| bip_39_word_new_line_6 | employ
 ignore
 number
 eternal
 diet
 reduce |  
-| bip_39_word_new_line7 | employ
+| bip_39_word_new_line_7 | employ
 ignore
 number
 eternal
 diet
 reduce
 novel |  
-| bip_39_word_new_line8 | employ
+| bip_39_word_new_line_8 | employ
 ignore
 number
 eternal
@@ -113,7 +113,7 @@ diet
 reduce
 novel
 flavor |  
-| bip_39_word_new_line9 | employ
+| bip_39_word_new_line_9 | employ
 ignore
 number
 eternal

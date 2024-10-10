@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | debate |  
-| bip_39_word_new_br10 | debate<br>wall<br>wedding<br>alone<br>shiver<br>mango<br>face<br>embrace<br>notable<br>under |  
-| bip_39_word_new_br11 | debate<br>wall<br>wedding<br>alone<br>shiver<br>mango<br>face<br>embrace<br>notable<br>under<br>purchase |  
-| bip_39_word_new_br12 | debate<br>wall<br>wedding<br>alone<br>shiver<br>mango<br>face<br>embrace<br>notable<br>under<br>purchase<br>art |  
-| bip_39_word_new_br2 | debate<br>wall |  
-| bip_39_word_new_br3 | debate<br>wall<br>wedding |  
-| bip_39_word_new_br4 | debate<br>wall<br>wedding<br>alone |  
-| bip_39_word_new_br5 | debate<br>wall<br>wedding<br>alone<br>shiver |  
-| bip_39_word_new_br6 | debate<br>wall<br>wedding<br>alone<br>shiver<br>mango |  
-| bip_39_word_new_br7 | debate<br>wall<br>wedding<br>alone<br>shiver<br>mango<br>face |  
-| bip_39_word_new_br8 | debate<br>wall<br>wedding<br>alone<br>shiver<br>mango<br>face<br>embrace |  
-| bip_39_word_new_br9 | debate<br>wall<br>wedding<br>alone<br>shiver<br>mango<br>face<br>embrace<br>notable |  
-| bip_39_word_new_line1 | debate |  
-| bip_39_word_new_line10 | debate
+| bip_39_word_new_br_1 | debate |  
+| bip_39_word_new_br_10 | debate<br>wall<br>wedding<br>alone<br>shiver<br>mango<br>face<br>embrace<br>notable<br>under |  
+| bip_39_word_new_br_11 | debate<br>wall<br>wedding<br>alone<br>shiver<br>mango<br>face<br>embrace<br>notable<br>under<br>purchase |  
+| bip_39_word_new_br_12 | debate<br>wall<br>wedding<br>alone<br>shiver<br>mango<br>face<br>embrace<br>notable<br>under<br>purchase<br>art |  
+| bip_39_word_new_br_2 | debate<br>wall |  
+| bip_39_word_new_br_3 | debate<br>wall<br>wedding |  
+| bip_39_word_new_br_4 | debate<br>wall<br>wedding<br>alone |  
+| bip_39_word_new_br_5 | debate<br>wall<br>wedding<br>alone<br>shiver |  
+| bip_39_word_new_br_6 | debate<br>wall<br>wedding<br>alone<br>shiver<br>mango |  
+| bip_39_word_new_br_7 | debate<br>wall<br>wedding<br>alone<br>shiver<br>mango<br>face |  
+| bip_39_word_new_br_8 | debate<br>wall<br>wedding<br>alone<br>shiver<br>mango<br>face<br>embrace |  
+| bip_39_word_new_br_9 | debate<br>wall<br>wedding<br>alone<br>shiver<br>mango<br>face<br>embrace<br>notable |  
+| bip_39_word_new_line_1 | debate |  
+| bip_39_word_new_line_10 | debate
 wall
 wedding
 alone
@@ -55,7 +55,7 @@ face
 embrace
 notable
 under |  
-| bip_39_word_new_line11 | debate
+| bip_39_word_new_line_11 | debate
 wall
 wedding
 alone
@@ -66,7 +66,7 @@ embrace
 notable
 under
 purchase |  
-| bip_39_word_new_line12 | debate
+| bip_39_word_new_line_12 | debate
 wall
 wedding
 alone
@@ -78,34 +78,34 @@ notable
 under
 purchase
 art |  
-| bip_39_word_new_line2 | debate
+| bip_39_word_new_line_2 | debate
 wall |  
-| bip_39_word_new_line3 | debate
+| bip_39_word_new_line_3 | debate
 wall
 wedding |  
-| bip_39_word_new_line4 | debate
+| bip_39_word_new_line_4 | debate
 wall
 wedding
 alone |  
-| bip_39_word_new_line5 | debate
+| bip_39_word_new_line_5 | debate
 wall
 wedding
 alone
 shiver |  
-| bip_39_word_new_line6 | debate
+| bip_39_word_new_line_6 | debate
 wall
 wedding
 alone
 shiver
 mango |  
-| bip_39_word_new_line7 | debate
+| bip_39_word_new_line_7 | debate
 wall
 wedding
 alone
 shiver
 mango
 face |  
-| bip_39_word_new_line8 | debate
+| bip_39_word_new_line_8 | debate
 wall
 wedding
 alone
@@ -113,7 +113,7 @@ shiver
 mango
 face
 embrace |  
-| bip_39_word_new_line9 | debate
+| bip_39_word_new_line_9 | debate
 wall
 wedding
 alone

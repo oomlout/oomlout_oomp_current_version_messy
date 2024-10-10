@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | visual |  
-| bip_39_word_new_br10 | visual<br>tobacco<br>journey<br>outside<br>summer<br>flame<br>funny<br>depth<br>salute<br>top |  
-| bip_39_word_new_br11 | visual<br>tobacco<br>journey<br>outside<br>summer<br>flame<br>funny<br>depth<br>salute<br>top<br>feed |  
-| bip_39_word_new_br12 | visual<br>tobacco<br>journey<br>outside<br>summer<br>flame<br>funny<br>depth<br>salute<br>top<br>feed<br>apple |  
-| bip_39_word_new_br2 | visual<br>tobacco |  
-| bip_39_word_new_br3 | visual<br>tobacco<br>journey |  
-| bip_39_word_new_br4 | visual<br>tobacco<br>journey<br>outside |  
-| bip_39_word_new_br5 | visual<br>tobacco<br>journey<br>outside<br>summer |  
-| bip_39_word_new_br6 | visual<br>tobacco<br>journey<br>outside<br>summer<br>flame |  
-| bip_39_word_new_br7 | visual<br>tobacco<br>journey<br>outside<br>summer<br>flame<br>funny |  
-| bip_39_word_new_br8 | visual<br>tobacco<br>journey<br>outside<br>summer<br>flame<br>funny<br>depth |  
-| bip_39_word_new_br9 | visual<br>tobacco<br>journey<br>outside<br>summer<br>flame<br>funny<br>depth<br>salute |  
-| bip_39_word_new_line1 | visual |  
-| bip_39_word_new_line10 | visual
+| bip_39_word_new_br_1 | visual |  
+| bip_39_word_new_br_10 | visual<br>tobacco<br>journey<br>outside<br>summer<br>flame<br>funny<br>depth<br>salute<br>top |  
+| bip_39_word_new_br_11 | visual<br>tobacco<br>journey<br>outside<br>summer<br>flame<br>funny<br>depth<br>salute<br>top<br>feed |  
+| bip_39_word_new_br_12 | visual<br>tobacco<br>journey<br>outside<br>summer<br>flame<br>funny<br>depth<br>salute<br>top<br>feed<br>apple |  
+| bip_39_word_new_br_2 | visual<br>tobacco |  
+| bip_39_word_new_br_3 | visual<br>tobacco<br>journey |  
+| bip_39_word_new_br_4 | visual<br>tobacco<br>journey<br>outside |  
+| bip_39_word_new_br_5 | visual<br>tobacco<br>journey<br>outside<br>summer |  
+| bip_39_word_new_br_6 | visual<br>tobacco<br>journey<br>outside<br>summer<br>flame |  
+| bip_39_word_new_br_7 | visual<br>tobacco<br>journey<br>outside<br>summer<br>flame<br>funny |  
+| bip_39_word_new_br_8 | visual<br>tobacco<br>journey<br>outside<br>summer<br>flame<br>funny<br>depth |  
+| bip_39_word_new_br_9 | visual<br>tobacco<br>journey<br>outside<br>summer<br>flame<br>funny<br>depth<br>salute |  
+| bip_39_word_new_line_1 | visual |  
+| bip_39_word_new_line_10 | visual
 tobacco
 journey
 outside
@@ -55,7 +55,7 @@ funny
 depth
 salute
 top |  
-| bip_39_word_new_line11 | visual
+| bip_39_word_new_line_11 | visual
 tobacco
 journey
 outside
@@ -66,7 +66,7 @@ depth
 salute
 top
 feed |  
-| bip_39_word_new_line12 | visual
+| bip_39_word_new_line_12 | visual
 tobacco
 journey
 outside
@@ -78,34 +78,34 @@ salute
 top
 feed
 apple |  
-| bip_39_word_new_line2 | visual
+| bip_39_word_new_line_2 | visual
 tobacco |  
-| bip_39_word_new_line3 | visual
+| bip_39_word_new_line_3 | visual
 tobacco
 journey |  
-| bip_39_word_new_line4 | visual
+| bip_39_word_new_line_4 | visual
 tobacco
 journey
 outside |  
-| bip_39_word_new_line5 | visual
+| bip_39_word_new_line_5 | visual
 tobacco
 journey
 outside
 summer |  
-| bip_39_word_new_line6 | visual
+| bip_39_word_new_line_6 | visual
 tobacco
 journey
 outside
 summer
 flame |  
-| bip_39_word_new_line7 | visual
+| bip_39_word_new_line_7 | visual
 tobacco
 journey
 outside
 summer
 flame
 funny |  
-| bip_39_word_new_line8 | visual
+| bip_39_word_new_line_8 | visual
 tobacco
 journey
 outside
@@ -113,7 +113,7 @@ summer
 flame
 funny
 depth |  
-| bip_39_word_new_line9 | visual
+| bip_39_word_new_line_9 | visual
 tobacco
 journey
 outside

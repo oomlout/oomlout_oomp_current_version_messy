@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | close |  
-| bip_39_word_new_br10 | close<br>just<br>pigeon<br>chuckle<br>game<br>behind<br>armed<br>nut<br>grid<br>fashion |  
-| bip_39_word_new_br11 | close<br>just<br>pigeon<br>chuckle<br>game<br>behind<br>armed<br>nut<br>grid<br>fashion<br>endless |  
-| bip_39_word_new_br12 | close<br>just<br>pigeon<br>chuckle<br>game<br>behind<br>armed<br>nut<br>grid<br>fashion<br>endless<br>advice |  
-| bip_39_word_new_br2 | close<br>just |  
-| bip_39_word_new_br3 | close<br>just<br>pigeon |  
-| bip_39_word_new_br4 | close<br>just<br>pigeon<br>chuckle |  
-| bip_39_word_new_br5 | close<br>just<br>pigeon<br>chuckle<br>game |  
-| bip_39_word_new_br6 | close<br>just<br>pigeon<br>chuckle<br>game<br>behind |  
-| bip_39_word_new_br7 | close<br>just<br>pigeon<br>chuckle<br>game<br>behind<br>armed |  
-| bip_39_word_new_br8 | close<br>just<br>pigeon<br>chuckle<br>game<br>behind<br>armed<br>nut |  
-| bip_39_word_new_br9 | close<br>just<br>pigeon<br>chuckle<br>game<br>behind<br>armed<br>nut<br>grid |  
-| bip_39_word_new_line1 | close |  
-| bip_39_word_new_line10 | close
+| bip_39_word_new_br_1 | close |  
+| bip_39_word_new_br_10 | close<br>just<br>pigeon<br>chuckle<br>game<br>behind<br>armed<br>nut<br>grid<br>fashion |  
+| bip_39_word_new_br_11 | close<br>just<br>pigeon<br>chuckle<br>game<br>behind<br>armed<br>nut<br>grid<br>fashion<br>endless |  
+| bip_39_word_new_br_12 | close<br>just<br>pigeon<br>chuckle<br>game<br>behind<br>armed<br>nut<br>grid<br>fashion<br>endless<br>advice |  
+| bip_39_word_new_br_2 | close<br>just |  
+| bip_39_word_new_br_3 | close<br>just<br>pigeon |  
+| bip_39_word_new_br_4 | close<br>just<br>pigeon<br>chuckle |  
+| bip_39_word_new_br_5 | close<br>just<br>pigeon<br>chuckle<br>game |  
+| bip_39_word_new_br_6 | close<br>just<br>pigeon<br>chuckle<br>game<br>behind |  
+| bip_39_word_new_br_7 | close<br>just<br>pigeon<br>chuckle<br>game<br>behind<br>armed |  
+| bip_39_word_new_br_8 | close<br>just<br>pigeon<br>chuckle<br>game<br>behind<br>armed<br>nut |  
+| bip_39_word_new_br_9 | close<br>just<br>pigeon<br>chuckle<br>game<br>behind<br>armed<br>nut<br>grid |  
+| bip_39_word_new_line_1 | close |  
+| bip_39_word_new_line_10 | close
 just
 pigeon
 chuckle
@@ -55,7 +55,7 @@ armed
 nut
 grid
 fashion |  
-| bip_39_word_new_line11 | close
+| bip_39_word_new_line_11 | close
 just
 pigeon
 chuckle
@@ -66,7 +66,7 @@ nut
 grid
 fashion
 endless |  
-| bip_39_word_new_line12 | close
+| bip_39_word_new_line_12 | close
 just
 pigeon
 chuckle
@@ -78,34 +78,34 @@ grid
 fashion
 endless
 advice |  
-| bip_39_word_new_line2 | close
+| bip_39_word_new_line_2 | close
 just |  
-| bip_39_word_new_line3 | close
+| bip_39_word_new_line_3 | close
 just
 pigeon |  
-| bip_39_word_new_line4 | close
+| bip_39_word_new_line_4 | close
 just
 pigeon
 chuckle |  
-| bip_39_word_new_line5 | close
+| bip_39_word_new_line_5 | close
 just
 pigeon
 chuckle
 game |  
-| bip_39_word_new_line6 | close
+| bip_39_word_new_line_6 | close
 just
 pigeon
 chuckle
 game
 behind |  
-| bip_39_word_new_line7 | close
+| bip_39_word_new_line_7 | close
 just
 pigeon
 chuckle
 game
 behind
 armed |  
-| bip_39_word_new_line8 | close
+| bip_39_word_new_line_8 | close
 just
 pigeon
 chuckle
@@ -113,7 +113,7 @@ game
 behind
 armed
 nut |  
-| bip_39_word_new_line9 | close
+| bip_39_word_new_line_9 | close
 just
 pigeon
 chuckle

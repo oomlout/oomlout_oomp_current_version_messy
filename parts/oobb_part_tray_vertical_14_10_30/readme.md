@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | work |  
-| bip_39_word_new_br10 | work<br>across<br>practice<br>often<br>tip<br>critic<br>diary<br>vanish<br>exotic<br>lecture |  
-| bip_39_word_new_br11 | work<br>across<br>practice<br>often<br>tip<br>critic<br>diary<br>vanish<br>exotic<br>lecture<br>height |  
-| bip_39_word_new_br12 | work<br>across<br>practice<br>often<br>tip<br>critic<br>diary<br>vanish<br>exotic<br>lecture<br>height<br>afraid |  
-| bip_39_word_new_br2 | work<br>across |  
-| bip_39_word_new_br3 | work<br>across<br>practice |  
-| bip_39_word_new_br4 | work<br>across<br>practice<br>often |  
-| bip_39_word_new_br5 | work<br>across<br>practice<br>often<br>tip |  
-| bip_39_word_new_br6 | work<br>across<br>practice<br>often<br>tip<br>critic |  
-| bip_39_word_new_br7 | work<br>across<br>practice<br>often<br>tip<br>critic<br>diary |  
-| bip_39_word_new_br8 | work<br>across<br>practice<br>often<br>tip<br>critic<br>diary<br>vanish |  
-| bip_39_word_new_br9 | work<br>across<br>practice<br>often<br>tip<br>critic<br>diary<br>vanish<br>exotic |  
-| bip_39_word_new_line1 | work |  
-| bip_39_word_new_line10 | work
+| bip_39_word_new_br_1 | work |  
+| bip_39_word_new_br_10 | work<br>across<br>practice<br>often<br>tip<br>critic<br>diary<br>vanish<br>exotic<br>lecture |  
+| bip_39_word_new_br_11 | work<br>across<br>practice<br>often<br>tip<br>critic<br>diary<br>vanish<br>exotic<br>lecture<br>height |  
+| bip_39_word_new_br_12 | work<br>across<br>practice<br>often<br>tip<br>critic<br>diary<br>vanish<br>exotic<br>lecture<br>height<br>afraid |  
+| bip_39_word_new_br_2 | work<br>across |  
+| bip_39_word_new_br_3 | work<br>across<br>practice |  
+| bip_39_word_new_br_4 | work<br>across<br>practice<br>often |  
+| bip_39_word_new_br_5 | work<br>across<br>practice<br>often<br>tip |  
+| bip_39_word_new_br_6 | work<br>across<br>practice<br>often<br>tip<br>critic |  
+| bip_39_word_new_br_7 | work<br>across<br>practice<br>often<br>tip<br>critic<br>diary |  
+| bip_39_word_new_br_8 | work<br>across<br>practice<br>often<br>tip<br>critic<br>diary<br>vanish |  
+| bip_39_word_new_br_9 | work<br>across<br>practice<br>often<br>tip<br>critic<br>diary<br>vanish<br>exotic |  
+| bip_39_word_new_line_1 | work |  
+| bip_39_word_new_line_10 | work
 across
 practice
 often
@@ -55,7 +55,7 @@ diary
 vanish
 exotic
 lecture |  
-| bip_39_word_new_line11 | work
+| bip_39_word_new_line_11 | work
 across
 practice
 often
@@ -66,7 +66,7 @@ vanish
 exotic
 lecture
 height |  
-| bip_39_word_new_line12 | work
+| bip_39_word_new_line_12 | work
 across
 practice
 often
@@ -78,34 +78,34 @@ exotic
 lecture
 height
 afraid |  
-| bip_39_word_new_line2 | work
+| bip_39_word_new_line_2 | work
 across |  
-| bip_39_word_new_line3 | work
+| bip_39_word_new_line_3 | work
 across
 practice |  
-| bip_39_word_new_line4 | work
+| bip_39_word_new_line_4 | work
 across
 practice
 often |  
-| bip_39_word_new_line5 | work
+| bip_39_word_new_line_5 | work
 across
 practice
 often
 tip |  
-| bip_39_word_new_line6 | work
+| bip_39_word_new_line_6 | work
 across
 practice
 often
 tip
 critic |  
-| bip_39_word_new_line7 | work
+| bip_39_word_new_line_7 | work
 across
 practice
 often
 tip
 critic
 diary |  
-| bip_39_word_new_line8 | work
+| bip_39_word_new_line_8 | work
 across
 practice
 often
@@ -113,7 +113,7 @@ tip
 critic
 diary
 vanish |  
-| bip_39_word_new_line9 | work
+| bip_39_word_new_line_9 | work
 across
 practice
 often

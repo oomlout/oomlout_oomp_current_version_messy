@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | busy |  
-| bip_39_word_new_br10 | busy<br>angle<br>discover<br>diesel<br>loan<br>swallow<br>fault<br>quit<br>tribe<br>wife |  
-| bip_39_word_new_br11 | busy<br>angle<br>discover<br>diesel<br>loan<br>swallow<br>fault<br>quit<br>tribe<br>wife<br>distance |  
-| bip_39_word_new_br12 | busy<br>angle<br>discover<br>diesel<br>loan<br>swallow<br>fault<br>quit<br>tribe<br>wife<br>distance<br>absorb |  
-| bip_39_word_new_br2 | busy<br>angle |  
-| bip_39_word_new_br3 | busy<br>angle<br>discover |  
-| bip_39_word_new_br4 | busy<br>angle<br>discover<br>diesel |  
-| bip_39_word_new_br5 | busy<br>angle<br>discover<br>diesel<br>loan |  
-| bip_39_word_new_br6 | busy<br>angle<br>discover<br>diesel<br>loan<br>swallow |  
-| bip_39_word_new_br7 | busy<br>angle<br>discover<br>diesel<br>loan<br>swallow<br>fault |  
-| bip_39_word_new_br8 | busy<br>angle<br>discover<br>diesel<br>loan<br>swallow<br>fault<br>quit |  
-| bip_39_word_new_br9 | busy<br>angle<br>discover<br>diesel<br>loan<br>swallow<br>fault<br>quit<br>tribe |  
-| bip_39_word_new_line1 | busy |  
-| bip_39_word_new_line10 | busy
+| bip_39_word_new_br_1 | busy |  
+| bip_39_word_new_br_10 | busy<br>angle<br>discover<br>diesel<br>loan<br>swallow<br>fault<br>quit<br>tribe<br>wife |  
+| bip_39_word_new_br_11 | busy<br>angle<br>discover<br>diesel<br>loan<br>swallow<br>fault<br>quit<br>tribe<br>wife<br>distance |  
+| bip_39_word_new_br_12 | busy<br>angle<br>discover<br>diesel<br>loan<br>swallow<br>fault<br>quit<br>tribe<br>wife<br>distance<br>absorb |  
+| bip_39_word_new_br_2 | busy<br>angle |  
+| bip_39_word_new_br_3 | busy<br>angle<br>discover |  
+| bip_39_word_new_br_4 | busy<br>angle<br>discover<br>diesel |  
+| bip_39_word_new_br_5 | busy<br>angle<br>discover<br>diesel<br>loan |  
+| bip_39_word_new_br_6 | busy<br>angle<br>discover<br>diesel<br>loan<br>swallow |  
+| bip_39_word_new_br_7 | busy<br>angle<br>discover<br>diesel<br>loan<br>swallow<br>fault |  
+| bip_39_word_new_br_8 | busy<br>angle<br>discover<br>diesel<br>loan<br>swallow<br>fault<br>quit |  
+| bip_39_word_new_br_9 | busy<br>angle<br>discover<br>diesel<br>loan<br>swallow<br>fault<br>quit<br>tribe |  
+| bip_39_word_new_line_1 | busy |  
+| bip_39_word_new_line_10 | busy
 angle
 discover
 diesel
@@ -55,7 +55,7 @@ fault
 quit
 tribe
 wife |  
-| bip_39_word_new_line11 | busy
+| bip_39_word_new_line_11 | busy
 angle
 discover
 diesel
@@ -66,7 +66,7 @@ quit
 tribe
 wife
 distance |  
-| bip_39_word_new_line12 | busy
+| bip_39_word_new_line_12 | busy
 angle
 discover
 diesel
@@ -78,34 +78,34 @@ tribe
 wife
 distance
 absorb |  
-| bip_39_word_new_line2 | busy
+| bip_39_word_new_line_2 | busy
 angle |  
-| bip_39_word_new_line3 | busy
+| bip_39_word_new_line_3 | busy
 angle
 discover |  
-| bip_39_word_new_line4 | busy
+| bip_39_word_new_line_4 | busy
 angle
 discover
 diesel |  
-| bip_39_word_new_line5 | busy
+| bip_39_word_new_line_5 | busy
 angle
 discover
 diesel
 loan |  
-| bip_39_word_new_line6 | busy
+| bip_39_word_new_line_6 | busy
 angle
 discover
 diesel
 loan
 swallow |  
-| bip_39_word_new_line7 | busy
+| bip_39_word_new_line_7 | busy
 angle
 discover
 diesel
 loan
 swallow
 fault |  
-| bip_39_word_new_line8 | busy
+| bip_39_word_new_line_8 | busy
 angle
 discover
 diesel
@@ -113,7 +113,7 @@ loan
 swallow
 fault
 quit |  
-| bip_39_word_new_line9 | busy
+| bip_39_word_new_line_9 | busy
 angle
 discover
 diesel

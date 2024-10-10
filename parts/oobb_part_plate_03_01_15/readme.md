@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | boil |  
-| bip_39_word_new_br10 | boil<br>mean<br>afford<br>mule<br>remember<br>interest<br>afford<br>duck<br>benefit<br>empower |  
-| bip_39_word_new_br11 | boil<br>mean<br>afford<br>mule<br>remember<br>interest<br>afford<br>duck<br>benefit<br>empower<br>reject |  
-| bip_39_word_new_br12 | boil<br>mean<br>afford<br>mule<br>remember<br>interest<br>afford<br>duck<br>benefit<br>empower<br>reject<br>arch |  
-| bip_39_word_new_br2 | boil<br>mean |  
-| bip_39_word_new_br3 | boil<br>mean<br>afford |  
-| bip_39_word_new_br4 | boil<br>mean<br>afford<br>mule |  
-| bip_39_word_new_br5 | boil<br>mean<br>afford<br>mule<br>remember |  
-| bip_39_word_new_br6 | boil<br>mean<br>afford<br>mule<br>remember<br>interest |  
-| bip_39_word_new_br7 | boil<br>mean<br>afford<br>mule<br>remember<br>interest<br>afford |  
-| bip_39_word_new_br8 | boil<br>mean<br>afford<br>mule<br>remember<br>interest<br>afford<br>duck |  
-| bip_39_word_new_br9 | boil<br>mean<br>afford<br>mule<br>remember<br>interest<br>afford<br>duck<br>benefit |  
-| bip_39_word_new_line1 | boil |  
-| bip_39_word_new_line10 | boil
+| bip_39_word_new_br_1 | boil |  
+| bip_39_word_new_br_10 | boil<br>mean<br>afford<br>mule<br>remember<br>interest<br>afford<br>duck<br>benefit<br>empower |  
+| bip_39_word_new_br_11 | boil<br>mean<br>afford<br>mule<br>remember<br>interest<br>afford<br>duck<br>benefit<br>empower<br>reject |  
+| bip_39_word_new_br_12 | boil<br>mean<br>afford<br>mule<br>remember<br>interest<br>afford<br>duck<br>benefit<br>empower<br>reject<br>arch |  
+| bip_39_word_new_br_2 | boil<br>mean |  
+| bip_39_word_new_br_3 | boil<br>mean<br>afford |  
+| bip_39_word_new_br_4 | boil<br>mean<br>afford<br>mule |  
+| bip_39_word_new_br_5 | boil<br>mean<br>afford<br>mule<br>remember |  
+| bip_39_word_new_br_6 | boil<br>mean<br>afford<br>mule<br>remember<br>interest |  
+| bip_39_word_new_br_7 | boil<br>mean<br>afford<br>mule<br>remember<br>interest<br>afford |  
+| bip_39_word_new_br_8 | boil<br>mean<br>afford<br>mule<br>remember<br>interest<br>afford<br>duck |  
+| bip_39_word_new_br_9 | boil<br>mean<br>afford<br>mule<br>remember<br>interest<br>afford<br>duck<br>benefit |  
+| bip_39_word_new_line_1 | boil |  
+| bip_39_word_new_line_10 | boil
 mean
 afford
 mule
@@ -55,7 +55,7 @@ afford
 duck
 benefit
 empower |  
-| bip_39_word_new_line11 | boil
+| bip_39_word_new_line_11 | boil
 mean
 afford
 mule
@@ -66,7 +66,7 @@ duck
 benefit
 empower
 reject |  
-| bip_39_word_new_line12 | boil
+| bip_39_word_new_line_12 | boil
 mean
 afford
 mule
@@ -78,34 +78,34 @@ benefit
 empower
 reject
 arch |  
-| bip_39_word_new_line2 | boil
+| bip_39_word_new_line_2 | boil
 mean |  
-| bip_39_word_new_line3 | boil
+| bip_39_word_new_line_3 | boil
 mean
 afford |  
-| bip_39_word_new_line4 | boil
+| bip_39_word_new_line_4 | boil
 mean
 afford
 mule |  
-| bip_39_word_new_line5 | boil
+| bip_39_word_new_line_5 | boil
 mean
 afford
 mule
 remember |  
-| bip_39_word_new_line6 | boil
+| bip_39_word_new_line_6 | boil
 mean
 afford
 mule
 remember
 interest |  
-| bip_39_word_new_line7 | boil
+| bip_39_word_new_line_7 | boil
 mean
 afford
 mule
 remember
 interest
 afford |  
-| bip_39_word_new_line8 | boil
+| bip_39_word_new_line_8 | boil
 mean
 afford
 mule
@@ -113,7 +113,7 @@ remember
 interest
 afford
 duck |  
-| bip_39_word_new_line9 | boil
+| bip_39_word_new_line_9 | boil
 mean
 afford
 mule

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | palace |  
-| bip_39_word_new_br10 | palace<br>dog<br>term<br>move<br>muscle<br>toast<br>gown<br>betray<br>direct<br>better |  
-| bip_39_word_new_br11 | palace<br>dog<br>term<br>move<br>muscle<br>toast<br>gown<br>betray<br>direct<br>better<br>hire |  
-| bip_39_word_new_br12 | palace<br>dog<br>term<br>move<br>muscle<br>toast<br>gown<br>betray<br>direct<br>better<br>hire<br>almost |  
-| bip_39_word_new_br2 | palace<br>dog |  
-| bip_39_word_new_br3 | palace<br>dog<br>term |  
-| bip_39_word_new_br4 | palace<br>dog<br>term<br>move |  
-| bip_39_word_new_br5 | palace<br>dog<br>term<br>move<br>muscle |  
-| bip_39_word_new_br6 | palace<br>dog<br>term<br>move<br>muscle<br>toast |  
-| bip_39_word_new_br7 | palace<br>dog<br>term<br>move<br>muscle<br>toast<br>gown |  
-| bip_39_word_new_br8 | palace<br>dog<br>term<br>move<br>muscle<br>toast<br>gown<br>betray |  
-| bip_39_word_new_br9 | palace<br>dog<br>term<br>move<br>muscle<br>toast<br>gown<br>betray<br>direct |  
-| bip_39_word_new_line1 | palace |  
-| bip_39_word_new_line10 | palace
+| bip_39_word_new_br_1 | palace |  
+| bip_39_word_new_br_10 | palace<br>dog<br>term<br>move<br>muscle<br>toast<br>gown<br>betray<br>direct<br>better |  
+| bip_39_word_new_br_11 | palace<br>dog<br>term<br>move<br>muscle<br>toast<br>gown<br>betray<br>direct<br>better<br>hire |  
+| bip_39_word_new_br_12 | palace<br>dog<br>term<br>move<br>muscle<br>toast<br>gown<br>betray<br>direct<br>better<br>hire<br>almost |  
+| bip_39_word_new_br_2 | palace<br>dog |  
+| bip_39_word_new_br_3 | palace<br>dog<br>term |  
+| bip_39_word_new_br_4 | palace<br>dog<br>term<br>move |  
+| bip_39_word_new_br_5 | palace<br>dog<br>term<br>move<br>muscle |  
+| bip_39_word_new_br_6 | palace<br>dog<br>term<br>move<br>muscle<br>toast |  
+| bip_39_word_new_br_7 | palace<br>dog<br>term<br>move<br>muscle<br>toast<br>gown |  
+| bip_39_word_new_br_8 | palace<br>dog<br>term<br>move<br>muscle<br>toast<br>gown<br>betray |  
+| bip_39_word_new_br_9 | palace<br>dog<br>term<br>move<br>muscle<br>toast<br>gown<br>betray<br>direct |  
+| bip_39_word_new_line_1 | palace |  
+| bip_39_word_new_line_10 | palace
 dog
 term
 move
@@ -55,7 +55,7 @@ gown
 betray
 direct
 better |  
-| bip_39_word_new_line11 | palace
+| bip_39_word_new_line_11 | palace
 dog
 term
 move
@@ -66,7 +66,7 @@ betray
 direct
 better
 hire |  
-| bip_39_word_new_line12 | palace
+| bip_39_word_new_line_12 | palace
 dog
 term
 move
@@ -78,34 +78,34 @@ direct
 better
 hire
 almost |  
-| bip_39_word_new_line2 | palace
+| bip_39_word_new_line_2 | palace
 dog |  
-| bip_39_word_new_line3 | palace
+| bip_39_word_new_line_3 | palace
 dog
 term |  
-| bip_39_word_new_line4 | palace
+| bip_39_word_new_line_4 | palace
 dog
 term
 move |  
-| bip_39_word_new_line5 | palace
+| bip_39_word_new_line_5 | palace
 dog
 term
 move
 muscle |  
-| bip_39_word_new_line6 | palace
+| bip_39_word_new_line_6 | palace
 dog
 term
 move
 muscle
 toast |  
-| bip_39_word_new_line7 | palace
+| bip_39_word_new_line_7 | palace
 dog
 term
 move
 muscle
 toast
 gown |  
-| bip_39_word_new_line8 | palace
+| bip_39_word_new_line_8 | palace
 dog
 term
 move
@@ -113,7 +113,7 @@ muscle
 toast
 gown
 betray |  
-| bip_39_word_new_line9 | palace
+| bip_39_word_new_line_9 | palace
 dog
 term
 move

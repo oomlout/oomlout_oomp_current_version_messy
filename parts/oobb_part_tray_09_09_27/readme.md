@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | floor |  
-| bip_39_word_new_br10 | floor<br>foster<br>apology<br>decade<br>fancy<br>change<br>youth<br>either<br>price<br>traffic |  
-| bip_39_word_new_br11 | floor<br>foster<br>apology<br>decade<br>fancy<br>change<br>youth<br>either<br>price<br>traffic<br>already |  
-| bip_39_word_new_br12 | floor<br>foster<br>apology<br>decade<br>fancy<br>change<br>youth<br>either<br>price<br>traffic<br>already<br>affair |  
-| bip_39_word_new_br2 | floor<br>foster |  
-| bip_39_word_new_br3 | floor<br>foster<br>apology |  
-| bip_39_word_new_br4 | floor<br>foster<br>apology<br>decade |  
-| bip_39_word_new_br5 | floor<br>foster<br>apology<br>decade<br>fancy |  
-| bip_39_word_new_br6 | floor<br>foster<br>apology<br>decade<br>fancy<br>change |  
-| bip_39_word_new_br7 | floor<br>foster<br>apology<br>decade<br>fancy<br>change<br>youth |  
-| bip_39_word_new_br8 | floor<br>foster<br>apology<br>decade<br>fancy<br>change<br>youth<br>either |  
-| bip_39_word_new_br9 | floor<br>foster<br>apology<br>decade<br>fancy<br>change<br>youth<br>either<br>price |  
-| bip_39_word_new_line1 | floor |  
-| bip_39_word_new_line10 | floor
+| bip_39_word_new_br_1 | floor |  
+| bip_39_word_new_br_10 | floor<br>foster<br>apology<br>decade<br>fancy<br>change<br>youth<br>either<br>price<br>traffic |  
+| bip_39_word_new_br_11 | floor<br>foster<br>apology<br>decade<br>fancy<br>change<br>youth<br>either<br>price<br>traffic<br>already |  
+| bip_39_word_new_br_12 | floor<br>foster<br>apology<br>decade<br>fancy<br>change<br>youth<br>either<br>price<br>traffic<br>already<br>affair |  
+| bip_39_word_new_br_2 | floor<br>foster |  
+| bip_39_word_new_br_3 | floor<br>foster<br>apology |  
+| bip_39_word_new_br_4 | floor<br>foster<br>apology<br>decade |  
+| bip_39_word_new_br_5 | floor<br>foster<br>apology<br>decade<br>fancy |  
+| bip_39_word_new_br_6 | floor<br>foster<br>apology<br>decade<br>fancy<br>change |  
+| bip_39_word_new_br_7 | floor<br>foster<br>apology<br>decade<br>fancy<br>change<br>youth |  
+| bip_39_word_new_br_8 | floor<br>foster<br>apology<br>decade<br>fancy<br>change<br>youth<br>either |  
+| bip_39_word_new_br_9 | floor<br>foster<br>apology<br>decade<br>fancy<br>change<br>youth<br>either<br>price |  
+| bip_39_word_new_line_1 | floor |  
+| bip_39_word_new_line_10 | floor
 foster
 apology
 decade
@@ -55,7 +55,7 @@ youth
 either
 price
 traffic |  
-| bip_39_word_new_line11 | floor
+| bip_39_word_new_line_11 | floor
 foster
 apology
 decade
@@ -66,7 +66,7 @@ either
 price
 traffic
 already |  
-| bip_39_word_new_line12 | floor
+| bip_39_word_new_line_12 | floor
 foster
 apology
 decade
@@ -78,34 +78,34 @@ price
 traffic
 already
 affair |  
-| bip_39_word_new_line2 | floor
+| bip_39_word_new_line_2 | floor
 foster |  
-| bip_39_word_new_line3 | floor
+| bip_39_word_new_line_3 | floor
 foster
 apology |  
-| bip_39_word_new_line4 | floor
+| bip_39_word_new_line_4 | floor
 foster
 apology
 decade |  
-| bip_39_word_new_line5 | floor
+| bip_39_word_new_line_5 | floor
 foster
 apology
 decade
 fancy |  
-| bip_39_word_new_line6 | floor
+| bip_39_word_new_line_6 | floor
 foster
 apology
 decade
 fancy
 change |  
-| bip_39_word_new_line7 | floor
+| bip_39_word_new_line_7 | floor
 foster
 apology
 decade
 fancy
 change
 youth |  
-| bip_39_word_new_line8 | floor
+| bip_39_word_new_line_8 | floor
 foster
 apology
 decade
@@ -113,7 +113,7 @@ fancy
 change
 youth
 either |  
-| bip_39_word_new_line9 | floor
+| bip_39_word_new_line_9 | floor
 foster
 apology
 decade

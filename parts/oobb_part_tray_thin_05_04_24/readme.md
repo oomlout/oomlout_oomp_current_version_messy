@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rent |  
-| bip_39_word_new_br10 | rent<br>cheese<br>shuffle<br>fox<br>damage<br>debate<br>december<br>impact<br>voyage<br>crop |  
-| bip_39_word_new_br11 | rent<br>cheese<br>shuffle<br>fox<br>damage<br>debate<br>december<br>impact<br>voyage<br>crop<br>alcohol |  
-| bip_39_word_new_br12 | rent<br>cheese<br>shuffle<br>fox<br>damage<br>debate<br>december<br>impact<br>voyage<br>crop<br>alcohol<br>attack |  
-| bip_39_word_new_br2 | rent<br>cheese |  
-| bip_39_word_new_br3 | rent<br>cheese<br>shuffle |  
-| bip_39_word_new_br4 | rent<br>cheese<br>shuffle<br>fox |  
-| bip_39_word_new_br5 | rent<br>cheese<br>shuffle<br>fox<br>damage |  
-| bip_39_word_new_br6 | rent<br>cheese<br>shuffle<br>fox<br>damage<br>debate |  
-| bip_39_word_new_br7 | rent<br>cheese<br>shuffle<br>fox<br>damage<br>debate<br>december |  
-| bip_39_word_new_br8 | rent<br>cheese<br>shuffle<br>fox<br>damage<br>debate<br>december<br>impact |  
-| bip_39_word_new_br9 | rent<br>cheese<br>shuffle<br>fox<br>damage<br>debate<br>december<br>impact<br>voyage |  
-| bip_39_word_new_line1 | rent |  
-| bip_39_word_new_line10 | rent
+| bip_39_word_new_br_1 | rent |  
+| bip_39_word_new_br_10 | rent<br>cheese<br>shuffle<br>fox<br>damage<br>debate<br>december<br>impact<br>voyage<br>crop |  
+| bip_39_word_new_br_11 | rent<br>cheese<br>shuffle<br>fox<br>damage<br>debate<br>december<br>impact<br>voyage<br>crop<br>alcohol |  
+| bip_39_word_new_br_12 | rent<br>cheese<br>shuffle<br>fox<br>damage<br>debate<br>december<br>impact<br>voyage<br>crop<br>alcohol<br>attack |  
+| bip_39_word_new_br_2 | rent<br>cheese |  
+| bip_39_word_new_br_3 | rent<br>cheese<br>shuffle |  
+| bip_39_word_new_br_4 | rent<br>cheese<br>shuffle<br>fox |  
+| bip_39_word_new_br_5 | rent<br>cheese<br>shuffle<br>fox<br>damage |  
+| bip_39_word_new_br_6 | rent<br>cheese<br>shuffle<br>fox<br>damage<br>debate |  
+| bip_39_word_new_br_7 | rent<br>cheese<br>shuffle<br>fox<br>damage<br>debate<br>december |  
+| bip_39_word_new_br_8 | rent<br>cheese<br>shuffle<br>fox<br>damage<br>debate<br>december<br>impact |  
+| bip_39_word_new_br_9 | rent<br>cheese<br>shuffle<br>fox<br>damage<br>debate<br>december<br>impact<br>voyage |  
+| bip_39_word_new_line_1 | rent |  
+| bip_39_word_new_line_10 | rent
 cheese
 shuffle
 fox
@@ -55,7 +55,7 @@ december
 impact
 voyage
 crop |  
-| bip_39_word_new_line11 | rent
+| bip_39_word_new_line_11 | rent
 cheese
 shuffle
 fox
@@ -66,7 +66,7 @@ impact
 voyage
 crop
 alcohol |  
-| bip_39_word_new_line12 | rent
+| bip_39_word_new_line_12 | rent
 cheese
 shuffle
 fox
@@ -78,34 +78,34 @@ voyage
 crop
 alcohol
 attack |  
-| bip_39_word_new_line2 | rent
+| bip_39_word_new_line_2 | rent
 cheese |  
-| bip_39_word_new_line3 | rent
+| bip_39_word_new_line_3 | rent
 cheese
 shuffle |  
-| bip_39_word_new_line4 | rent
+| bip_39_word_new_line_4 | rent
 cheese
 shuffle
 fox |  
-| bip_39_word_new_line5 | rent
+| bip_39_word_new_line_5 | rent
 cheese
 shuffle
 fox
 damage |  
-| bip_39_word_new_line6 | rent
+| bip_39_word_new_line_6 | rent
 cheese
 shuffle
 fox
 damage
 debate |  
-| bip_39_word_new_line7 | rent
+| bip_39_word_new_line_7 | rent
 cheese
 shuffle
 fox
 damage
 debate
 december |  
-| bip_39_word_new_line8 | rent
+| bip_39_word_new_line_8 | rent
 cheese
 shuffle
 fox
@@ -113,7 +113,7 @@ damage
 debate
 december
 impact |  
-| bip_39_word_new_line9 | rent
+| bip_39_word_new_line_9 | rent
 cheese
 shuffle
 fox

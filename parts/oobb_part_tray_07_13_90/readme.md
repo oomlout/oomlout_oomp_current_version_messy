@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | expand |  
-| bip_39_word_new_br10 | expand<br>carry<br>world<br>decline<br>crush<br>unusual<br>angle<br>excess<br>type<br>shy |  
-| bip_39_word_new_br11 | expand<br>carry<br>world<br>decline<br>crush<br>unusual<br>angle<br>excess<br>type<br>shy<br>staff |  
-| bip_39_word_new_br12 | expand<br>carry<br>world<br>decline<br>crush<br>unusual<br>angle<br>excess<br>type<br>shy<br>staff<br>audit |  
-| bip_39_word_new_br2 | expand<br>carry |  
-| bip_39_word_new_br3 | expand<br>carry<br>world |  
-| bip_39_word_new_br4 | expand<br>carry<br>world<br>decline |  
-| bip_39_word_new_br5 | expand<br>carry<br>world<br>decline<br>crush |  
-| bip_39_word_new_br6 | expand<br>carry<br>world<br>decline<br>crush<br>unusual |  
-| bip_39_word_new_br7 | expand<br>carry<br>world<br>decline<br>crush<br>unusual<br>angle |  
-| bip_39_word_new_br8 | expand<br>carry<br>world<br>decline<br>crush<br>unusual<br>angle<br>excess |  
-| bip_39_word_new_br9 | expand<br>carry<br>world<br>decline<br>crush<br>unusual<br>angle<br>excess<br>type |  
-| bip_39_word_new_line1 | expand |  
-| bip_39_word_new_line10 | expand
+| bip_39_word_new_br_1 | expand |  
+| bip_39_word_new_br_10 | expand<br>carry<br>world<br>decline<br>crush<br>unusual<br>angle<br>excess<br>type<br>shy |  
+| bip_39_word_new_br_11 | expand<br>carry<br>world<br>decline<br>crush<br>unusual<br>angle<br>excess<br>type<br>shy<br>staff |  
+| bip_39_word_new_br_12 | expand<br>carry<br>world<br>decline<br>crush<br>unusual<br>angle<br>excess<br>type<br>shy<br>staff<br>audit |  
+| bip_39_word_new_br_2 | expand<br>carry |  
+| bip_39_word_new_br_3 | expand<br>carry<br>world |  
+| bip_39_word_new_br_4 | expand<br>carry<br>world<br>decline |  
+| bip_39_word_new_br_5 | expand<br>carry<br>world<br>decline<br>crush |  
+| bip_39_word_new_br_6 | expand<br>carry<br>world<br>decline<br>crush<br>unusual |  
+| bip_39_word_new_br_7 | expand<br>carry<br>world<br>decline<br>crush<br>unusual<br>angle |  
+| bip_39_word_new_br_8 | expand<br>carry<br>world<br>decline<br>crush<br>unusual<br>angle<br>excess |  
+| bip_39_word_new_br_9 | expand<br>carry<br>world<br>decline<br>crush<br>unusual<br>angle<br>excess<br>type |  
+| bip_39_word_new_line_1 | expand |  
+| bip_39_word_new_line_10 | expand
 carry
 world
 decline
@@ -55,7 +55,7 @@ angle
 excess
 type
 shy |  
-| bip_39_word_new_line11 | expand
+| bip_39_word_new_line_11 | expand
 carry
 world
 decline
@@ -66,7 +66,7 @@ excess
 type
 shy
 staff |  
-| bip_39_word_new_line12 | expand
+| bip_39_word_new_line_12 | expand
 carry
 world
 decline
@@ -78,34 +78,34 @@ type
 shy
 staff
 audit |  
-| bip_39_word_new_line2 | expand
+| bip_39_word_new_line_2 | expand
 carry |  
-| bip_39_word_new_line3 | expand
+| bip_39_word_new_line_3 | expand
 carry
 world |  
-| bip_39_word_new_line4 | expand
+| bip_39_word_new_line_4 | expand
 carry
 world
 decline |  
-| bip_39_word_new_line5 | expand
+| bip_39_word_new_line_5 | expand
 carry
 world
 decline
 crush |  
-| bip_39_word_new_line6 | expand
+| bip_39_word_new_line_6 | expand
 carry
 world
 decline
 crush
 unusual |  
-| bip_39_word_new_line7 | expand
+| bip_39_word_new_line_7 | expand
 carry
 world
 decline
 crush
 unusual
 angle |  
-| bip_39_word_new_line8 | expand
+| bip_39_word_new_line_8 | expand
 carry
 world
 decline
@@ -113,7 +113,7 @@ crush
 unusual
 angle
 excess |  
-| bip_39_word_new_line9 | expand
+| bip_39_word_new_line_9 | expand
 carry
 world
 decline

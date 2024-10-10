@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | giant |  
-| bip_39_word_new_br10 | giant<br>else<br>harsh<br>wild<br>together<br>account<br>split<br>cook<br>bean<br>awkward |  
-| bip_39_word_new_br11 | giant<br>else<br>harsh<br>wild<br>together<br>account<br>split<br>cook<br>bean<br>awkward<br>fall |  
-| bip_39_word_new_br12 | giant<br>else<br>harsh<br>wild<br>together<br>account<br>split<br>cook<br>bean<br>awkward<br>fall<br>amused |  
-| bip_39_word_new_br2 | giant<br>else |  
-| bip_39_word_new_br3 | giant<br>else<br>harsh |  
-| bip_39_word_new_br4 | giant<br>else<br>harsh<br>wild |  
-| bip_39_word_new_br5 | giant<br>else<br>harsh<br>wild<br>together |  
-| bip_39_word_new_br6 | giant<br>else<br>harsh<br>wild<br>together<br>account |  
-| bip_39_word_new_br7 | giant<br>else<br>harsh<br>wild<br>together<br>account<br>split |  
-| bip_39_word_new_br8 | giant<br>else<br>harsh<br>wild<br>together<br>account<br>split<br>cook |  
-| bip_39_word_new_br9 | giant<br>else<br>harsh<br>wild<br>together<br>account<br>split<br>cook<br>bean |  
-| bip_39_word_new_line1 | giant |  
-| bip_39_word_new_line10 | giant
+| bip_39_word_new_br_1 | giant |  
+| bip_39_word_new_br_10 | giant<br>else<br>harsh<br>wild<br>together<br>account<br>split<br>cook<br>bean<br>awkward |  
+| bip_39_word_new_br_11 | giant<br>else<br>harsh<br>wild<br>together<br>account<br>split<br>cook<br>bean<br>awkward<br>fall |  
+| bip_39_word_new_br_12 | giant<br>else<br>harsh<br>wild<br>together<br>account<br>split<br>cook<br>bean<br>awkward<br>fall<br>amused |  
+| bip_39_word_new_br_2 | giant<br>else |  
+| bip_39_word_new_br_3 | giant<br>else<br>harsh |  
+| bip_39_word_new_br_4 | giant<br>else<br>harsh<br>wild |  
+| bip_39_word_new_br_5 | giant<br>else<br>harsh<br>wild<br>together |  
+| bip_39_word_new_br_6 | giant<br>else<br>harsh<br>wild<br>together<br>account |  
+| bip_39_word_new_br_7 | giant<br>else<br>harsh<br>wild<br>together<br>account<br>split |  
+| bip_39_word_new_br_8 | giant<br>else<br>harsh<br>wild<br>together<br>account<br>split<br>cook |  
+| bip_39_word_new_br_9 | giant<br>else<br>harsh<br>wild<br>together<br>account<br>split<br>cook<br>bean |  
+| bip_39_word_new_line_1 | giant |  
+| bip_39_word_new_line_10 | giant
 else
 harsh
 wild
@@ -55,7 +55,7 @@ split
 cook
 bean
 awkward |  
-| bip_39_word_new_line11 | giant
+| bip_39_word_new_line_11 | giant
 else
 harsh
 wild
@@ -66,7 +66,7 @@ cook
 bean
 awkward
 fall |  
-| bip_39_word_new_line12 | giant
+| bip_39_word_new_line_12 | giant
 else
 harsh
 wild
@@ -78,34 +78,34 @@ bean
 awkward
 fall
 amused |  
-| bip_39_word_new_line2 | giant
+| bip_39_word_new_line_2 | giant
 else |  
-| bip_39_word_new_line3 | giant
+| bip_39_word_new_line_3 | giant
 else
 harsh |  
-| bip_39_word_new_line4 | giant
+| bip_39_word_new_line_4 | giant
 else
 harsh
 wild |  
-| bip_39_word_new_line5 | giant
+| bip_39_word_new_line_5 | giant
 else
 harsh
 wild
 together |  
-| bip_39_word_new_line6 | giant
+| bip_39_word_new_line_6 | giant
 else
 harsh
 wild
 together
 account |  
-| bip_39_word_new_line7 | giant
+| bip_39_word_new_line_7 | giant
 else
 harsh
 wild
 together
 account
 split |  
-| bip_39_word_new_line8 | giant
+| bip_39_word_new_line_8 | giant
 else
 harsh
 wild
@@ -113,7 +113,7 @@ together
 account
 split
 cook |  
-| bip_39_word_new_line9 | giant
+| bip_39_word_new_line_9 | giant
 else
 harsh
 wild

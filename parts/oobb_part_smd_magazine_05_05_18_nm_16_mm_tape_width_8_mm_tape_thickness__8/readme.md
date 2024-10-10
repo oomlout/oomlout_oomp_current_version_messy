@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | eye |  
-| bip_39_word_new_br10 | eye<br>trade<br>electric<br>razor<br>rescue<br>smart<br>trouble<br>comfort<br>absorb<br>almost |  
-| bip_39_word_new_br11 | eye<br>trade<br>electric<br>razor<br>rescue<br>smart<br>trouble<br>comfort<br>absorb<br>almost<br>special |  
-| bip_39_word_new_br12 | eye<br>trade<br>electric<br>razor<br>rescue<br>smart<br>trouble<br>comfort<br>absorb<br>almost<br>special<br>animal |  
-| bip_39_word_new_br2 | eye<br>trade |  
-| bip_39_word_new_br3 | eye<br>trade<br>electric |  
-| bip_39_word_new_br4 | eye<br>trade<br>electric<br>razor |  
-| bip_39_word_new_br5 | eye<br>trade<br>electric<br>razor<br>rescue |  
-| bip_39_word_new_br6 | eye<br>trade<br>electric<br>razor<br>rescue<br>smart |  
-| bip_39_word_new_br7 | eye<br>trade<br>electric<br>razor<br>rescue<br>smart<br>trouble |  
-| bip_39_word_new_br8 | eye<br>trade<br>electric<br>razor<br>rescue<br>smart<br>trouble<br>comfort |  
-| bip_39_word_new_br9 | eye<br>trade<br>electric<br>razor<br>rescue<br>smart<br>trouble<br>comfort<br>absorb |  
-| bip_39_word_new_line1 | eye |  
-| bip_39_word_new_line10 | eye
+| bip_39_word_new_br_1 | eye |  
+| bip_39_word_new_br_10 | eye<br>trade<br>electric<br>razor<br>rescue<br>smart<br>trouble<br>comfort<br>absorb<br>almost |  
+| bip_39_word_new_br_11 | eye<br>trade<br>electric<br>razor<br>rescue<br>smart<br>trouble<br>comfort<br>absorb<br>almost<br>special |  
+| bip_39_word_new_br_12 | eye<br>trade<br>electric<br>razor<br>rescue<br>smart<br>trouble<br>comfort<br>absorb<br>almost<br>special<br>animal |  
+| bip_39_word_new_br_2 | eye<br>trade |  
+| bip_39_word_new_br_3 | eye<br>trade<br>electric |  
+| bip_39_word_new_br_4 | eye<br>trade<br>electric<br>razor |  
+| bip_39_word_new_br_5 | eye<br>trade<br>electric<br>razor<br>rescue |  
+| bip_39_word_new_br_6 | eye<br>trade<br>electric<br>razor<br>rescue<br>smart |  
+| bip_39_word_new_br_7 | eye<br>trade<br>electric<br>razor<br>rescue<br>smart<br>trouble |  
+| bip_39_word_new_br_8 | eye<br>trade<br>electric<br>razor<br>rescue<br>smart<br>trouble<br>comfort |  
+| bip_39_word_new_br_9 | eye<br>trade<br>electric<br>razor<br>rescue<br>smart<br>trouble<br>comfort<br>absorb |  
+| bip_39_word_new_line_1 | eye |  
+| bip_39_word_new_line_10 | eye
 trade
 electric
 razor
@@ -55,7 +55,7 @@ trouble
 comfort
 absorb
 almost |  
-| bip_39_word_new_line11 | eye
+| bip_39_word_new_line_11 | eye
 trade
 electric
 razor
@@ -66,7 +66,7 @@ comfort
 absorb
 almost
 special |  
-| bip_39_word_new_line12 | eye
+| bip_39_word_new_line_12 | eye
 trade
 electric
 razor
@@ -78,34 +78,34 @@ absorb
 almost
 special
 animal |  
-| bip_39_word_new_line2 | eye
+| bip_39_word_new_line_2 | eye
 trade |  
-| bip_39_word_new_line3 | eye
+| bip_39_word_new_line_3 | eye
 trade
 electric |  
-| bip_39_word_new_line4 | eye
+| bip_39_word_new_line_4 | eye
 trade
 electric
 razor |  
-| bip_39_word_new_line5 | eye
+| bip_39_word_new_line_5 | eye
 trade
 electric
 razor
 rescue |  
-| bip_39_word_new_line6 | eye
+| bip_39_word_new_line_6 | eye
 trade
 electric
 razor
 rescue
 smart |  
-| bip_39_word_new_line7 | eye
+| bip_39_word_new_line_7 | eye
 trade
 electric
 razor
 rescue
 smart
 trouble |  
-| bip_39_word_new_line8 | eye
+| bip_39_word_new_line_8 | eye
 trade
 electric
 razor
@@ -113,7 +113,7 @@ rescue
 smart
 trouble
 comfort |  
-| bip_39_word_new_line9 | eye
+| bip_39_word_new_line_9 | eye
 trade
 electric
 razor

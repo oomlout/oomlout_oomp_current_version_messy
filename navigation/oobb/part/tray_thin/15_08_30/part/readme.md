@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dynamic |  
-| bip_39_word_new_br10 | dynamic<br>apple<br>elephant<br>friend<br>wide<br>chunk<br>protect<br>short<br>census<br>december |  
-| bip_39_word_new_br11 | dynamic<br>apple<br>elephant<br>friend<br>wide<br>chunk<br>protect<br>short<br>census<br>december<br>expose |  
-| bip_39_word_new_br12 | dynamic<br>apple<br>elephant<br>friend<br>wide<br>chunk<br>protect<br>short<br>census<br>december<br>expose<br>assist |  
-| bip_39_word_new_br2 | dynamic<br>apple |  
-| bip_39_word_new_br3 | dynamic<br>apple<br>elephant |  
-| bip_39_word_new_br4 | dynamic<br>apple<br>elephant<br>friend |  
-| bip_39_word_new_br5 | dynamic<br>apple<br>elephant<br>friend<br>wide |  
-| bip_39_word_new_br6 | dynamic<br>apple<br>elephant<br>friend<br>wide<br>chunk |  
-| bip_39_word_new_br7 | dynamic<br>apple<br>elephant<br>friend<br>wide<br>chunk<br>protect |  
-| bip_39_word_new_br8 | dynamic<br>apple<br>elephant<br>friend<br>wide<br>chunk<br>protect<br>short |  
-| bip_39_word_new_br9 | dynamic<br>apple<br>elephant<br>friend<br>wide<br>chunk<br>protect<br>short<br>census |  
-| bip_39_word_new_line1 | dynamic |  
-| bip_39_word_new_line10 | dynamic
+| bip_39_word_new_br_1 | dynamic |  
+| bip_39_word_new_br_10 | dynamic<br>apple<br>elephant<br>friend<br>wide<br>chunk<br>protect<br>short<br>census<br>december |  
+| bip_39_word_new_br_11 | dynamic<br>apple<br>elephant<br>friend<br>wide<br>chunk<br>protect<br>short<br>census<br>december<br>expose |  
+| bip_39_word_new_br_12 | dynamic<br>apple<br>elephant<br>friend<br>wide<br>chunk<br>protect<br>short<br>census<br>december<br>expose<br>assist |  
+| bip_39_word_new_br_2 | dynamic<br>apple |  
+| bip_39_word_new_br_3 | dynamic<br>apple<br>elephant |  
+| bip_39_word_new_br_4 | dynamic<br>apple<br>elephant<br>friend |  
+| bip_39_word_new_br_5 | dynamic<br>apple<br>elephant<br>friend<br>wide |  
+| bip_39_word_new_br_6 | dynamic<br>apple<br>elephant<br>friend<br>wide<br>chunk |  
+| bip_39_word_new_br_7 | dynamic<br>apple<br>elephant<br>friend<br>wide<br>chunk<br>protect |  
+| bip_39_word_new_br_8 | dynamic<br>apple<br>elephant<br>friend<br>wide<br>chunk<br>protect<br>short |  
+| bip_39_word_new_br_9 | dynamic<br>apple<br>elephant<br>friend<br>wide<br>chunk<br>protect<br>short<br>census |  
+| bip_39_word_new_line_1 | dynamic |  
+| bip_39_word_new_line_10 | dynamic
 apple
 elephant
 friend
@@ -55,7 +55,7 @@ protect
 short
 census
 december |  
-| bip_39_word_new_line11 | dynamic
+| bip_39_word_new_line_11 | dynamic
 apple
 elephant
 friend
@@ -66,7 +66,7 @@ short
 census
 december
 expose |  
-| bip_39_word_new_line12 | dynamic
+| bip_39_word_new_line_12 | dynamic
 apple
 elephant
 friend
@@ -78,34 +78,34 @@ census
 december
 expose
 assist |  
-| bip_39_word_new_line2 | dynamic
+| bip_39_word_new_line_2 | dynamic
 apple |  
-| bip_39_word_new_line3 | dynamic
+| bip_39_word_new_line_3 | dynamic
 apple
 elephant |  
-| bip_39_word_new_line4 | dynamic
+| bip_39_word_new_line_4 | dynamic
 apple
 elephant
 friend |  
-| bip_39_word_new_line5 | dynamic
+| bip_39_word_new_line_5 | dynamic
 apple
 elephant
 friend
 wide |  
-| bip_39_word_new_line6 | dynamic
+| bip_39_word_new_line_6 | dynamic
 apple
 elephant
 friend
 wide
 chunk |  
-| bip_39_word_new_line7 | dynamic
+| bip_39_word_new_line_7 | dynamic
 apple
 elephant
 friend
 wide
 chunk
 protect |  
-| bip_39_word_new_line8 | dynamic
+| bip_39_word_new_line_8 | dynamic
 apple
 elephant
 friend
@@ -113,7 +113,7 @@ wide
 chunk
 protect
 short |  
-| bip_39_word_new_line9 | dynamic
+| bip_39_word_new_line_9 | dynamic
 apple
 elephant
 friend

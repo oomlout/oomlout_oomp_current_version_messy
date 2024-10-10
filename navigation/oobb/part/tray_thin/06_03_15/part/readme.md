@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rough |  
-| bip_39_word_new_br10 | rough<br>inform<br>apology<br>speak<br>enter<br>nest<br>move<br>bird<br>citizen<br>unique |  
-| bip_39_word_new_br11 | rough<br>inform<br>apology<br>speak<br>enter<br>nest<br>move<br>bird<br>citizen<br>unique<br>treat |  
-| bip_39_word_new_br12 | rough<br>inform<br>apology<br>speak<br>enter<br>nest<br>move<br>bird<br>citizen<br>unique<br>treat<br>ability |  
-| bip_39_word_new_br2 | rough<br>inform |  
-| bip_39_word_new_br3 | rough<br>inform<br>apology |  
-| bip_39_word_new_br4 | rough<br>inform<br>apology<br>speak |  
-| bip_39_word_new_br5 | rough<br>inform<br>apology<br>speak<br>enter |  
-| bip_39_word_new_br6 | rough<br>inform<br>apology<br>speak<br>enter<br>nest |  
-| bip_39_word_new_br7 | rough<br>inform<br>apology<br>speak<br>enter<br>nest<br>move |  
-| bip_39_word_new_br8 | rough<br>inform<br>apology<br>speak<br>enter<br>nest<br>move<br>bird |  
-| bip_39_word_new_br9 | rough<br>inform<br>apology<br>speak<br>enter<br>nest<br>move<br>bird<br>citizen |  
-| bip_39_word_new_line1 | rough |  
-| bip_39_word_new_line10 | rough
+| bip_39_word_new_br_1 | rough |  
+| bip_39_word_new_br_10 | rough<br>inform<br>apology<br>speak<br>enter<br>nest<br>move<br>bird<br>citizen<br>unique |  
+| bip_39_word_new_br_11 | rough<br>inform<br>apology<br>speak<br>enter<br>nest<br>move<br>bird<br>citizen<br>unique<br>treat |  
+| bip_39_word_new_br_12 | rough<br>inform<br>apology<br>speak<br>enter<br>nest<br>move<br>bird<br>citizen<br>unique<br>treat<br>ability |  
+| bip_39_word_new_br_2 | rough<br>inform |  
+| bip_39_word_new_br_3 | rough<br>inform<br>apology |  
+| bip_39_word_new_br_4 | rough<br>inform<br>apology<br>speak |  
+| bip_39_word_new_br_5 | rough<br>inform<br>apology<br>speak<br>enter |  
+| bip_39_word_new_br_6 | rough<br>inform<br>apology<br>speak<br>enter<br>nest |  
+| bip_39_word_new_br_7 | rough<br>inform<br>apology<br>speak<br>enter<br>nest<br>move |  
+| bip_39_word_new_br_8 | rough<br>inform<br>apology<br>speak<br>enter<br>nest<br>move<br>bird |  
+| bip_39_word_new_br_9 | rough<br>inform<br>apology<br>speak<br>enter<br>nest<br>move<br>bird<br>citizen |  
+| bip_39_word_new_line_1 | rough |  
+| bip_39_word_new_line_10 | rough
 inform
 apology
 speak
@@ -55,7 +55,7 @@ move
 bird
 citizen
 unique |  
-| bip_39_word_new_line11 | rough
+| bip_39_word_new_line_11 | rough
 inform
 apology
 speak
@@ -66,7 +66,7 @@ bird
 citizen
 unique
 treat |  
-| bip_39_word_new_line12 | rough
+| bip_39_word_new_line_12 | rough
 inform
 apology
 speak
@@ -78,34 +78,34 @@ citizen
 unique
 treat
 ability |  
-| bip_39_word_new_line2 | rough
+| bip_39_word_new_line_2 | rough
 inform |  
-| bip_39_word_new_line3 | rough
+| bip_39_word_new_line_3 | rough
 inform
 apology |  
-| bip_39_word_new_line4 | rough
+| bip_39_word_new_line_4 | rough
 inform
 apology
 speak |  
-| bip_39_word_new_line5 | rough
+| bip_39_word_new_line_5 | rough
 inform
 apology
 speak
 enter |  
-| bip_39_word_new_line6 | rough
+| bip_39_word_new_line_6 | rough
 inform
 apology
 speak
 enter
 nest |  
-| bip_39_word_new_line7 | rough
+| bip_39_word_new_line_7 | rough
 inform
 apology
 speak
 enter
 nest
 move |  
-| bip_39_word_new_line8 | rough
+| bip_39_word_new_line_8 | rough
 inform
 apology
 speak
@@ -113,7 +113,7 @@ enter
 nest
 move
 bird |  
-| bip_39_word_new_line9 | rough
+| bip_39_word_new_line_9 | rough
 inform
 apology
 speak

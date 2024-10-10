@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | nurse |  
-| bip_39_word_new_br10 | nurse<br>fortune<br>final<br>unique<br>duck<br>sign<br>popular<br>receive<br>bracket<br>mercy |  
-| bip_39_word_new_br11 | nurse<br>fortune<br>final<br>unique<br>duck<br>sign<br>popular<br>receive<br>bracket<br>mercy<br>require |  
-| bip_39_word_new_br12 | nurse<br>fortune<br>final<br>unique<br>duck<br>sign<br>popular<br>receive<br>bracket<br>mercy<br>require<br>auction |  
-| bip_39_word_new_br2 | nurse<br>fortune |  
-| bip_39_word_new_br3 | nurse<br>fortune<br>final |  
-| bip_39_word_new_br4 | nurse<br>fortune<br>final<br>unique |  
-| bip_39_word_new_br5 | nurse<br>fortune<br>final<br>unique<br>duck |  
-| bip_39_word_new_br6 | nurse<br>fortune<br>final<br>unique<br>duck<br>sign |  
-| bip_39_word_new_br7 | nurse<br>fortune<br>final<br>unique<br>duck<br>sign<br>popular |  
-| bip_39_word_new_br8 | nurse<br>fortune<br>final<br>unique<br>duck<br>sign<br>popular<br>receive |  
-| bip_39_word_new_br9 | nurse<br>fortune<br>final<br>unique<br>duck<br>sign<br>popular<br>receive<br>bracket |  
-| bip_39_word_new_line1 | nurse |  
-| bip_39_word_new_line10 | nurse
+| bip_39_word_new_br_1 | nurse |  
+| bip_39_word_new_br_10 | nurse<br>fortune<br>final<br>unique<br>duck<br>sign<br>popular<br>receive<br>bracket<br>mercy |  
+| bip_39_word_new_br_11 | nurse<br>fortune<br>final<br>unique<br>duck<br>sign<br>popular<br>receive<br>bracket<br>mercy<br>require |  
+| bip_39_word_new_br_12 | nurse<br>fortune<br>final<br>unique<br>duck<br>sign<br>popular<br>receive<br>bracket<br>mercy<br>require<br>auction |  
+| bip_39_word_new_br_2 | nurse<br>fortune |  
+| bip_39_word_new_br_3 | nurse<br>fortune<br>final |  
+| bip_39_word_new_br_4 | nurse<br>fortune<br>final<br>unique |  
+| bip_39_word_new_br_5 | nurse<br>fortune<br>final<br>unique<br>duck |  
+| bip_39_word_new_br_6 | nurse<br>fortune<br>final<br>unique<br>duck<br>sign |  
+| bip_39_word_new_br_7 | nurse<br>fortune<br>final<br>unique<br>duck<br>sign<br>popular |  
+| bip_39_word_new_br_8 | nurse<br>fortune<br>final<br>unique<br>duck<br>sign<br>popular<br>receive |  
+| bip_39_word_new_br_9 | nurse<br>fortune<br>final<br>unique<br>duck<br>sign<br>popular<br>receive<br>bracket |  
+| bip_39_word_new_line_1 | nurse |  
+| bip_39_word_new_line_10 | nurse
 fortune
 final
 unique
@@ -55,7 +55,7 @@ popular
 receive
 bracket
 mercy |  
-| bip_39_word_new_line11 | nurse
+| bip_39_word_new_line_11 | nurse
 fortune
 final
 unique
@@ -66,7 +66,7 @@ receive
 bracket
 mercy
 require |  
-| bip_39_word_new_line12 | nurse
+| bip_39_word_new_line_12 | nurse
 fortune
 final
 unique
@@ -78,34 +78,34 @@ bracket
 mercy
 require
 auction |  
-| bip_39_word_new_line2 | nurse
+| bip_39_word_new_line_2 | nurse
 fortune |  
-| bip_39_word_new_line3 | nurse
+| bip_39_word_new_line_3 | nurse
 fortune
 final |  
-| bip_39_word_new_line4 | nurse
+| bip_39_word_new_line_4 | nurse
 fortune
 final
 unique |  
-| bip_39_word_new_line5 | nurse
+| bip_39_word_new_line_5 | nurse
 fortune
 final
 unique
 duck |  
-| bip_39_word_new_line6 | nurse
+| bip_39_word_new_line_6 | nurse
 fortune
 final
 unique
 duck
 sign |  
-| bip_39_word_new_line7 | nurse
+| bip_39_word_new_line_7 | nurse
 fortune
 final
 unique
 duck
 sign
 popular |  
-| bip_39_word_new_line8 | nurse
+| bip_39_word_new_line_8 | nurse
 fortune
 final
 unique
@@ -113,7 +113,7 @@ duck
 sign
 popular
 receive |  
-| bip_39_word_new_line9 | nurse
+| bip_39_word_new_line_9 | nurse
 fortune
 final
 unique

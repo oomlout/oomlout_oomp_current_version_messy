@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | any |  
-| bip_39_word_new_br10 | any<br>afraid<br>remain<br>syrup<br>solve<br>roast<br>junior<br>heavy<br>tuition<br>join |  
-| bip_39_word_new_br11 | any<br>afraid<br>remain<br>syrup<br>solve<br>roast<br>junior<br>heavy<br>tuition<br>join<br>snow |  
-| bip_39_word_new_br12 | any<br>afraid<br>remain<br>syrup<br>solve<br>roast<br>junior<br>heavy<br>tuition<br>join<br>snow<br>add |  
-| bip_39_word_new_br2 | any<br>afraid |  
-| bip_39_word_new_br3 | any<br>afraid<br>remain |  
-| bip_39_word_new_br4 | any<br>afraid<br>remain<br>syrup |  
-| bip_39_word_new_br5 | any<br>afraid<br>remain<br>syrup<br>solve |  
-| bip_39_word_new_br6 | any<br>afraid<br>remain<br>syrup<br>solve<br>roast |  
-| bip_39_word_new_br7 | any<br>afraid<br>remain<br>syrup<br>solve<br>roast<br>junior |  
-| bip_39_word_new_br8 | any<br>afraid<br>remain<br>syrup<br>solve<br>roast<br>junior<br>heavy |  
-| bip_39_word_new_br9 | any<br>afraid<br>remain<br>syrup<br>solve<br>roast<br>junior<br>heavy<br>tuition |  
-| bip_39_word_new_line1 | any |  
-| bip_39_word_new_line10 | any
+| bip_39_word_new_br_1 | any |  
+| bip_39_word_new_br_10 | any<br>afraid<br>remain<br>syrup<br>solve<br>roast<br>junior<br>heavy<br>tuition<br>join |  
+| bip_39_word_new_br_11 | any<br>afraid<br>remain<br>syrup<br>solve<br>roast<br>junior<br>heavy<br>tuition<br>join<br>snow |  
+| bip_39_word_new_br_12 | any<br>afraid<br>remain<br>syrup<br>solve<br>roast<br>junior<br>heavy<br>tuition<br>join<br>snow<br>add |  
+| bip_39_word_new_br_2 | any<br>afraid |  
+| bip_39_word_new_br_3 | any<br>afraid<br>remain |  
+| bip_39_word_new_br_4 | any<br>afraid<br>remain<br>syrup |  
+| bip_39_word_new_br_5 | any<br>afraid<br>remain<br>syrup<br>solve |  
+| bip_39_word_new_br_6 | any<br>afraid<br>remain<br>syrup<br>solve<br>roast |  
+| bip_39_word_new_br_7 | any<br>afraid<br>remain<br>syrup<br>solve<br>roast<br>junior |  
+| bip_39_word_new_br_8 | any<br>afraid<br>remain<br>syrup<br>solve<br>roast<br>junior<br>heavy |  
+| bip_39_word_new_br_9 | any<br>afraid<br>remain<br>syrup<br>solve<br>roast<br>junior<br>heavy<br>tuition |  
+| bip_39_word_new_line_1 | any |  
+| bip_39_word_new_line_10 | any
 afraid
 remain
 syrup
@@ -55,7 +55,7 @@ junior
 heavy
 tuition
 join |  
-| bip_39_word_new_line11 | any
+| bip_39_word_new_line_11 | any
 afraid
 remain
 syrup
@@ -66,7 +66,7 @@ heavy
 tuition
 join
 snow |  
-| bip_39_word_new_line12 | any
+| bip_39_word_new_line_12 | any
 afraid
 remain
 syrup
@@ -78,34 +78,34 @@ tuition
 join
 snow
 add |  
-| bip_39_word_new_line2 | any
+| bip_39_word_new_line_2 | any
 afraid |  
-| bip_39_word_new_line3 | any
+| bip_39_word_new_line_3 | any
 afraid
 remain |  
-| bip_39_word_new_line4 | any
+| bip_39_word_new_line_4 | any
 afraid
 remain
 syrup |  
-| bip_39_word_new_line5 | any
+| bip_39_word_new_line_5 | any
 afraid
 remain
 syrup
 solve |  
-| bip_39_word_new_line6 | any
+| bip_39_word_new_line_6 | any
 afraid
 remain
 syrup
 solve
 roast |  
-| bip_39_word_new_line7 | any
+| bip_39_word_new_line_7 | any
 afraid
 remain
 syrup
 solve
 roast
 junior |  
-| bip_39_word_new_line8 | any
+| bip_39_word_new_line_8 | any
 afraid
 remain
 syrup
@@ -113,7 +113,7 @@ solve
 roast
 junior
 heavy |  
-| bip_39_word_new_line9 | any
+| bip_39_word_new_line_9 | any
 afraid
 remain
 syrup

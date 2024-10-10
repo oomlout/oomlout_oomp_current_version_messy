@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gather |  
-| bip_39_word_new_br10 | gather<br>what<br>opinion<br>brush<br>attract<br>stumble<br>school<br>embody<br>about<br>thought |  
-| bip_39_word_new_br11 | gather<br>what<br>opinion<br>brush<br>attract<br>stumble<br>school<br>embody<br>about<br>thought<br>original |  
-| bip_39_word_new_br12 | gather<br>what<br>opinion<br>brush<br>attract<br>stumble<br>school<br>embody<br>about<br>thought<br>original<br>art |  
-| bip_39_word_new_br2 | gather<br>what |  
-| bip_39_word_new_br3 | gather<br>what<br>opinion |  
-| bip_39_word_new_br4 | gather<br>what<br>opinion<br>brush |  
-| bip_39_word_new_br5 | gather<br>what<br>opinion<br>brush<br>attract |  
-| bip_39_word_new_br6 | gather<br>what<br>opinion<br>brush<br>attract<br>stumble |  
-| bip_39_word_new_br7 | gather<br>what<br>opinion<br>brush<br>attract<br>stumble<br>school |  
-| bip_39_word_new_br8 | gather<br>what<br>opinion<br>brush<br>attract<br>stumble<br>school<br>embody |  
-| bip_39_word_new_br9 | gather<br>what<br>opinion<br>brush<br>attract<br>stumble<br>school<br>embody<br>about |  
-| bip_39_word_new_line1 | gather |  
-| bip_39_word_new_line10 | gather
+| bip_39_word_new_br_1 | gather |  
+| bip_39_word_new_br_10 | gather<br>what<br>opinion<br>brush<br>attract<br>stumble<br>school<br>embody<br>about<br>thought |  
+| bip_39_word_new_br_11 | gather<br>what<br>opinion<br>brush<br>attract<br>stumble<br>school<br>embody<br>about<br>thought<br>original |  
+| bip_39_word_new_br_12 | gather<br>what<br>opinion<br>brush<br>attract<br>stumble<br>school<br>embody<br>about<br>thought<br>original<br>art |  
+| bip_39_word_new_br_2 | gather<br>what |  
+| bip_39_word_new_br_3 | gather<br>what<br>opinion |  
+| bip_39_word_new_br_4 | gather<br>what<br>opinion<br>brush |  
+| bip_39_word_new_br_5 | gather<br>what<br>opinion<br>brush<br>attract |  
+| bip_39_word_new_br_6 | gather<br>what<br>opinion<br>brush<br>attract<br>stumble |  
+| bip_39_word_new_br_7 | gather<br>what<br>opinion<br>brush<br>attract<br>stumble<br>school |  
+| bip_39_word_new_br_8 | gather<br>what<br>opinion<br>brush<br>attract<br>stumble<br>school<br>embody |  
+| bip_39_word_new_br_9 | gather<br>what<br>opinion<br>brush<br>attract<br>stumble<br>school<br>embody<br>about |  
+| bip_39_word_new_line_1 | gather |  
+| bip_39_word_new_line_10 | gather
 what
 opinion
 brush
@@ -55,7 +55,7 @@ school
 embody
 about
 thought |  
-| bip_39_word_new_line11 | gather
+| bip_39_word_new_line_11 | gather
 what
 opinion
 brush
@@ -66,7 +66,7 @@ embody
 about
 thought
 original |  
-| bip_39_word_new_line12 | gather
+| bip_39_word_new_line_12 | gather
 what
 opinion
 brush
@@ -78,34 +78,34 @@ about
 thought
 original
 art |  
-| bip_39_word_new_line2 | gather
+| bip_39_word_new_line_2 | gather
 what |  
-| bip_39_word_new_line3 | gather
+| bip_39_word_new_line_3 | gather
 what
 opinion |  
-| bip_39_word_new_line4 | gather
+| bip_39_word_new_line_4 | gather
 what
 opinion
 brush |  
-| bip_39_word_new_line5 | gather
+| bip_39_word_new_line_5 | gather
 what
 opinion
 brush
 attract |  
-| bip_39_word_new_line6 | gather
+| bip_39_word_new_line_6 | gather
 what
 opinion
 brush
 attract
 stumble |  
-| bip_39_word_new_line7 | gather
+| bip_39_word_new_line_7 | gather
 what
 opinion
 brush
 attract
 stumble
 school |  
-| bip_39_word_new_line8 | gather
+| bip_39_word_new_line_8 | gather
 what
 opinion
 brush
@@ -113,7 +113,7 @@ attract
 stumble
 school
 embody |  
-| bip_39_word_new_line9 | gather
+| bip_39_word_new_line_9 | gather
 what
 opinion
 brush

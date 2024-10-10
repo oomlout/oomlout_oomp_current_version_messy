@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | popular |  
-| bip_39_word_new_br10 | popular<br>letter<br>above<br>found<br>wise<br>trouble<br>tackle<br>any<br>hurt<br>naive |  
-| bip_39_word_new_br11 | popular<br>letter<br>above<br>found<br>wise<br>trouble<br>tackle<br>any<br>hurt<br>naive<br>lake |  
-| bip_39_word_new_br12 | popular<br>letter<br>above<br>found<br>wise<br>trouble<br>tackle<br>any<br>hurt<br>naive<br>lake<br>alert |  
-| bip_39_word_new_br2 | popular<br>letter |  
-| bip_39_word_new_br3 | popular<br>letter<br>above |  
-| bip_39_word_new_br4 | popular<br>letter<br>above<br>found |  
-| bip_39_word_new_br5 | popular<br>letter<br>above<br>found<br>wise |  
-| bip_39_word_new_br6 | popular<br>letter<br>above<br>found<br>wise<br>trouble |  
-| bip_39_word_new_br7 | popular<br>letter<br>above<br>found<br>wise<br>trouble<br>tackle |  
-| bip_39_word_new_br8 | popular<br>letter<br>above<br>found<br>wise<br>trouble<br>tackle<br>any |  
-| bip_39_word_new_br9 | popular<br>letter<br>above<br>found<br>wise<br>trouble<br>tackle<br>any<br>hurt |  
-| bip_39_word_new_line1 | popular |  
-| bip_39_word_new_line10 | popular
+| bip_39_word_new_br_1 | popular |  
+| bip_39_word_new_br_10 | popular<br>letter<br>above<br>found<br>wise<br>trouble<br>tackle<br>any<br>hurt<br>naive |  
+| bip_39_word_new_br_11 | popular<br>letter<br>above<br>found<br>wise<br>trouble<br>tackle<br>any<br>hurt<br>naive<br>lake |  
+| bip_39_word_new_br_12 | popular<br>letter<br>above<br>found<br>wise<br>trouble<br>tackle<br>any<br>hurt<br>naive<br>lake<br>alert |  
+| bip_39_word_new_br_2 | popular<br>letter |  
+| bip_39_word_new_br_3 | popular<br>letter<br>above |  
+| bip_39_word_new_br_4 | popular<br>letter<br>above<br>found |  
+| bip_39_word_new_br_5 | popular<br>letter<br>above<br>found<br>wise |  
+| bip_39_word_new_br_6 | popular<br>letter<br>above<br>found<br>wise<br>trouble |  
+| bip_39_word_new_br_7 | popular<br>letter<br>above<br>found<br>wise<br>trouble<br>tackle |  
+| bip_39_word_new_br_8 | popular<br>letter<br>above<br>found<br>wise<br>trouble<br>tackle<br>any |  
+| bip_39_word_new_br_9 | popular<br>letter<br>above<br>found<br>wise<br>trouble<br>tackle<br>any<br>hurt |  
+| bip_39_word_new_line_1 | popular |  
+| bip_39_word_new_line_10 | popular
 letter
 above
 found
@@ -55,7 +55,7 @@ tackle
 any
 hurt
 naive |  
-| bip_39_word_new_line11 | popular
+| bip_39_word_new_line_11 | popular
 letter
 above
 found
@@ -66,7 +66,7 @@ any
 hurt
 naive
 lake |  
-| bip_39_word_new_line12 | popular
+| bip_39_word_new_line_12 | popular
 letter
 above
 found
@@ -78,34 +78,34 @@ hurt
 naive
 lake
 alert |  
-| bip_39_word_new_line2 | popular
+| bip_39_word_new_line_2 | popular
 letter |  
-| bip_39_word_new_line3 | popular
+| bip_39_word_new_line_3 | popular
 letter
 above |  
-| bip_39_word_new_line4 | popular
+| bip_39_word_new_line_4 | popular
 letter
 above
 found |  
-| bip_39_word_new_line5 | popular
+| bip_39_word_new_line_5 | popular
 letter
 above
 found
 wise |  
-| bip_39_word_new_line6 | popular
+| bip_39_word_new_line_6 | popular
 letter
 above
 found
 wise
 trouble |  
-| bip_39_word_new_line7 | popular
+| bip_39_word_new_line_7 | popular
 letter
 above
 found
 wise
 trouble
 tackle |  
-| bip_39_word_new_line8 | popular
+| bip_39_word_new_line_8 | popular
 letter
 above
 found
@@ -113,7 +113,7 @@ wise
 trouble
 tackle
 any |  
-| bip_39_word_new_line9 | popular
+| bip_39_word_new_line_9 | popular
 letter
 above
 found

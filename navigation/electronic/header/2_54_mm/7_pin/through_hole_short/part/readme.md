@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | notice |  
-| bip_39_word_new_br10 | notice<br>amount<br>exotic<br>salon<br>claw<br>royal<br>execute<br>guilt<br>suggest<br>stuff |  
-| bip_39_word_new_br11 | notice<br>amount<br>exotic<br>salon<br>claw<br>royal<br>execute<br>guilt<br>suggest<br>stuff<br>nut |  
-| bip_39_word_new_br12 | notice<br>amount<br>exotic<br>salon<br>claw<br>royal<br>execute<br>guilt<br>suggest<br>stuff<br>nut<br>able |  
-| bip_39_word_new_br2 | notice<br>amount |  
-| bip_39_word_new_br3 | notice<br>amount<br>exotic |  
-| bip_39_word_new_br4 | notice<br>amount<br>exotic<br>salon |  
-| bip_39_word_new_br5 | notice<br>amount<br>exotic<br>salon<br>claw |  
-| bip_39_word_new_br6 | notice<br>amount<br>exotic<br>salon<br>claw<br>royal |  
-| bip_39_word_new_br7 | notice<br>amount<br>exotic<br>salon<br>claw<br>royal<br>execute |  
-| bip_39_word_new_br8 | notice<br>amount<br>exotic<br>salon<br>claw<br>royal<br>execute<br>guilt |  
-| bip_39_word_new_br9 | notice<br>amount<br>exotic<br>salon<br>claw<br>royal<br>execute<br>guilt<br>suggest |  
-| bip_39_word_new_line1 | notice |  
-| bip_39_word_new_line10 | notice
+| bip_39_word_new_br_1 | notice |  
+| bip_39_word_new_br_10 | notice<br>amount<br>exotic<br>salon<br>claw<br>royal<br>execute<br>guilt<br>suggest<br>stuff |  
+| bip_39_word_new_br_11 | notice<br>amount<br>exotic<br>salon<br>claw<br>royal<br>execute<br>guilt<br>suggest<br>stuff<br>nut |  
+| bip_39_word_new_br_12 | notice<br>amount<br>exotic<br>salon<br>claw<br>royal<br>execute<br>guilt<br>suggest<br>stuff<br>nut<br>able |  
+| bip_39_word_new_br_2 | notice<br>amount |  
+| bip_39_word_new_br_3 | notice<br>amount<br>exotic |  
+| bip_39_word_new_br_4 | notice<br>amount<br>exotic<br>salon |  
+| bip_39_word_new_br_5 | notice<br>amount<br>exotic<br>salon<br>claw |  
+| bip_39_word_new_br_6 | notice<br>amount<br>exotic<br>salon<br>claw<br>royal |  
+| bip_39_word_new_br_7 | notice<br>amount<br>exotic<br>salon<br>claw<br>royal<br>execute |  
+| bip_39_word_new_br_8 | notice<br>amount<br>exotic<br>salon<br>claw<br>royal<br>execute<br>guilt |  
+| bip_39_word_new_br_9 | notice<br>amount<br>exotic<br>salon<br>claw<br>royal<br>execute<br>guilt<br>suggest |  
+| bip_39_word_new_line_1 | notice |  
+| bip_39_word_new_line_10 | notice
 amount
 exotic
 salon
@@ -55,7 +55,7 @@ execute
 guilt
 suggest
 stuff |  
-| bip_39_word_new_line11 | notice
+| bip_39_word_new_line_11 | notice
 amount
 exotic
 salon
@@ -66,7 +66,7 @@ guilt
 suggest
 stuff
 nut |  
-| bip_39_word_new_line12 | notice
+| bip_39_word_new_line_12 | notice
 amount
 exotic
 salon
@@ -78,34 +78,34 @@ suggest
 stuff
 nut
 able |  
-| bip_39_word_new_line2 | notice
+| bip_39_word_new_line_2 | notice
 amount |  
-| bip_39_word_new_line3 | notice
+| bip_39_word_new_line_3 | notice
 amount
 exotic |  
-| bip_39_word_new_line4 | notice
+| bip_39_word_new_line_4 | notice
 amount
 exotic
 salon |  
-| bip_39_word_new_line5 | notice
+| bip_39_word_new_line_5 | notice
 amount
 exotic
 salon
 claw |  
-| bip_39_word_new_line6 | notice
+| bip_39_word_new_line_6 | notice
 amount
 exotic
 salon
 claw
 royal |  
-| bip_39_word_new_line7 | notice
+| bip_39_word_new_line_7 | notice
 amount
 exotic
 salon
 claw
 royal
 execute |  
-| bip_39_word_new_line8 | notice
+| bip_39_word_new_line_8 | notice
 amount
 exotic
 salon
@@ -113,7 +113,7 @@ claw
 royal
 execute
 guilt |  
-| bip_39_word_new_line9 | notice
+| bip_39_word_new_line_9 | notice
 amount
 exotic
 salon

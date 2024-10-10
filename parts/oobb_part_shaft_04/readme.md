@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gossip |  
-| bip_39_word_new_br10 | gossip<br>scale<br>silver<br>leave<br>acid<br>language<br>govern<br>save<br>spring<br>soul |  
-| bip_39_word_new_br11 | gossip<br>scale<br>silver<br>leave<br>acid<br>language<br>govern<br>save<br>spring<br>soul<br>absurd |  
-| bip_39_word_new_br12 | gossip<br>scale<br>silver<br>leave<br>acid<br>language<br>govern<br>save<br>spring<br>soul<br>absurd<br>admit |  
-| bip_39_word_new_br2 | gossip<br>scale |  
-| bip_39_word_new_br3 | gossip<br>scale<br>silver |  
-| bip_39_word_new_br4 | gossip<br>scale<br>silver<br>leave |  
-| bip_39_word_new_br5 | gossip<br>scale<br>silver<br>leave<br>acid |  
-| bip_39_word_new_br6 | gossip<br>scale<br>silver<br>leave<br>acid<br>language |  
-| bip_39_word_new_br7 | gossip<br>scale<br>silver<br>leave<br>acid<br>language<br>govern |  
-| bip_39_word_new_br8 | gossip<br>scale<br>silver<br>leave<br>acid<br>language<br>govern<br>save |  
-| bip_39_word_new_br9 | gossip<br>scale<br>silver<br>leave<br>acid<br>language<br>govern<br>save<br>spring |  
-| bip_39_word_new_line1 | gossip |  
-| bip_39_word_new_line10 | gossip
+| bip_39_word_new_br_1 | gossip |  
+| bip_39_word_new_br_10 | gossip<br>scale<br>silver<br>leave<br>acid<br>language<br>govern<br>save<br>spring<br>soul |  
+| bip_39_word_new_br_11 | gossip<br>scale<br>silver<br>leave<br>acid<br>language<br>govern<br>save<br>spring<br>soul<br>absurd |  
+| bip_39_word_new_br_12 | gossip<br>scale<br>silver<br>leave<br>acid<br>language<br>govern<br>save<br>spring<br>soul<br>absurd<br>admit |  
+| bip_39_word_new_br_2 | gossip<br>scale |  
+| bip_39_word_new_br_3 | gossip<br>scale<br>silver |  
+| bip_39_word_new_br_4 | gossip<br>scale<br>silver<br>leave |  
+| bip_39_word_new_br_5 | gossip<br>scale<br>silver<br>leave<br>acid |  
+| bip_39_word_new_br_6 | gossip<br>scale<br>silver<br>leave<br>acid<br>language |  
+| bip_39_word_new_br_7 | gossip<br>scale<br>silver<br>leave<br>acid<br>language<br>govern |  
+| bip_39_word_new_br_8 | gossip<br>scale<br>silver<br>leave<br>acid<br>language<br>govern<br>save |  
+| bip_39_word_new_br_9 | gossip<br>scale<br>silver<br>leave<br>acid<br>language<br>govern<br>save<br>spring |  
+| bip_39_word_new_line_1 | gossip |  
+| bip_39_word_new_line_10 | gossip
 scale
 silver
 leave
@@ -55,7 +55,7 @@ govern
 save
 spring
 soul |  
-| bip_39_word_new_line11 | gossip
+| bip_39_word_new_line_11 | gossip
 scale
 silver
 leave
@@ -66,7 +66,7 @@ save
 spring
 soul
 absurd |  
-| bip_39_word_new_line12 | gossip
+| bip_39_word_new_line_12 | gossip
 scale
 silver
 leave
@@ -78,34 +78,34 @@ spring
 soul
 absurd
 admit |  
-| bip_39_word_new_line2 | gossip
+| bip_39_word_new_line_2 | gossip
 scale |  
-| bip_39_word_new_line3 | gossip
+| bip_39_word_new_line_3 | gossip
 scale
 silver |  
-| bip_39_word_new_line4 | gossip
+| bip_39_word_new_line_4 | gossip
 scale
 silver
 leave |  
-| bip_39_word_new_line5 | gossip
+| bip_39_word_new_line_5 | gossip
 scale
 silver
 leave
 acid |  
-| bip_39_word_new_line6 | gossip
+| bip_39_word_new_line_6 | gossip
 scale
 silver
 leave
 acid
 language |  
-| bip_39_word_new_line7 | gossip
+| bip_39_word_new_line_7 | gossip
 scale
 silver
 leave
 acid
 language
 govern |  
-| bip_39_word_new_line8 | gossip
+| bip_39_word_new_line_8 | gossip
 scale
 silver
 leave
@@ -113,7 +113,7 @@ acid
 language
 govern
 save |  
-| bip_39_word_new_line9 | gossip
+| bip_39_word_new_line_9 | gossip
 scale
 silver
 leave

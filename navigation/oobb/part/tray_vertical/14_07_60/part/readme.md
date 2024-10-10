@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | into |  
-| bip_39_word_new_br10 | into<br>select<br>fresh<br>twelve<br>increase<br>rare<br>front<br>orchard<br>protect<br>tenant |  
-| bip_39_word_new_br11 | into<br>select<br>fresh<br>twelve<br>increase<br>rare<br>front<br>orchard<br>protect<br>tenant<br>antenna |  
-| bip_39_word_new_br12 | into<br>select<br>fresh<br>twelve<br>increase<br>rare<br>front<br>orchard<br>protect<br>tenant<br>antenna<br>also |  
-| bip_39_word_new_br2 | into<br>select |  
-| bip_39_word_new_br3 | into<br>select<br>fresh |  
-| bip_39_word_new_br4 | into<br>select<br>fresh<br>twelve |  
-| bip_39_word_new_br5 | into<br>select<br>fresh<br>twelve<br>increase |  
-| bip_39_word_new_br6 | into<br>select<br>fresh<br>twelve<br>increase<br>rare |  
-| bip_39_word_new_br7 | into<br>select<br>fresh<br>twelve<br>increase<br>rare<br>front |  
-| bip_39_word_new_br8 | into<br>select<br>fresh<br>twelve<br>increase<br>rare<br>front<br>orchard |  
-| bip_39_word_new_br9 | into<br>select<br>fresh<br>twelve<br>increase<br>rare<br>front<br>orchard<br>protect |  
-| bip_39_word_new_line1 | into |  
-| bip_39_word_new_line10 | into
+| bip_39_word_new_br_1 | into |  
+| bip_39_word_new_br_10 | into<br>select<br>fresh<br>twelve<br>increase<br>rare<br>front<br>orchard<br>protect<br>tenant |  
+| bip_39_word_new_br_11 | into<br>select<br>fresh<br>twelve<br>increase<br>rare<br>front<br>orchard<br>protect<br>tenant<br>antenna |  
+| bip_39_word_new_br_12 | into<br>select<br>fresh<br>twelve<br>increase<br>rare<br>front<br>orchard<br>protect<br>tenant<br>antenna<br>also |  
+| bip_39_word_new_br_2 | into<br>select |  
+| bip_39_word_new_br_3 | into<br>select<br>fresh |  
+| bip_39_word_new_br_4 | into<br>select<br>fresh<br>twelve |  
+| bip_39_word_new_br_5 | into<br>select<br>fresh<br>twelve<br>increase |  
+| bip_39_word_new_br_6 | into<br>select<br>fresh<br>twelve<br>increase<br>rare |  
+| bip_39_word_new_br_7 | into<br>select<br>fresh<br>twelve<br>increase<br>rare<br>front |  
+| bip_39_word_new_br_8 | into<br>select<br>fresh<br>twelve<br>increase<br>rare<br>front<br>orchard |  
+| bip_39_word_new_br_9 | into<br>select<br>fresh<br>twelve<br>increase<br>rare<br>front<br>orchard<br>protect |  
+| bip_39_word_new_line_1 | into |  
+| bip_39_word_new_line_10 | into
 select
 fresh
 twelve
@@ -55,7 +55,7 @@ front
 orchard
 protect
 tenant |  
-| bip_39_word_new_line11 | into
+| bip_39_word_new_line_11 | into
 select
 fresh
 twelve
@@ -66,7 +66,7 @@ orchard
 protect
 tenant
 antenna |  
-| bip_39_word_new_line12 | into
+| bip_39_word_new_line_12 | into
 select
 fresh
 twelve
@@ -78,34 +78,34 @@ protect
 tenant
 antenna
 also |  
-| bip_39_word_new_line2 | into
+| bip_39_word_new_line_2 | into
 select |  
-| bip_39_word_new_line3 | into
+| bip_39_word_new_line_3 | into
 select
 fresh |  
-| bip_39_word_new_line4 | into
+| bip_39_word_new_line_4 | into
 select
 fresh
 twelve |  
-| bip_39_word_new_line5 | into
+| bip_39_word_new_line_5 | into
 select
 fresh
 twelve
 increase |  
-| bip_39_word_new_line6 | into
+| bip_39_word_new_line_6 | into
 select
 fresh
 twelve
 increase
 rare |  
-| bip_39_word_new_line7 | into
+| bip_39_word_new_line_7 | into
 select
 fresh
 twelve
 increase
 rare
 front |  
-| bip_39_word_new_line8 | into
+| bip_39_word_new_line_8 | into
 select
 fresh
 twelve
@@ -113,7 +113,7 @@ increase
 rare
 front
 orchard |  
-| bip_39_word_new_line9 | into
+| bip_39_word_new_line_9 | into
 select
 fresh
 twelve

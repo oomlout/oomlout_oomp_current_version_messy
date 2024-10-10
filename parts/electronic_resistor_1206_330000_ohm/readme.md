@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | clinic |  
-| bip_39_word_new_br10 | clinic<br>uphold<br>february<br>team<br>fame<br>warrior<br>puzzle<br>pyramid<br>dial<br>panel |  
-| bip_39_word_new_br11 | clinic<br>uphold<br>february<br>team<br>fame<br>warrior<br>puzzle<br>pyramid<br>dial<br>panel<br>end |  
-| bip_39_word_new_br12 | clinic<br>uphold<br>february<br>team<br>fame<br>warrior<br>puzzle<br>pyramid<br>dial<br>panel<br>end<br>addict |  
-| bip_39_word_new_br2 | clinic<br>uphold |  
-| bip_39_word_new_br3 | clinic<br>uphold<br>february |  
-| bip_39_word_new_br4 | clinic<br>uphold<br>february<br>team |  
-| bip_39_word_new_br5 | clinic<br>uphold<br>february<br>team<br>fame |  
-| bip_39_word_new_br6 | clinic<br>uphold<br>february<br>team<br>fame<br>warrior |  
-| bip_39_word_new_br7 | clinic<br>uphold<br>february<br>team<br>fame<br>warrior<br>puzzle |  
-| bip_39_word_new_br8 | clinic<br>uphold<br>february<br>team<br>fame<br>warrior<br>puzzle<br>pyramid |  
-| bip_39_word_new_br9 | clinic<br>uphold<br>february<br>team<br>fame<br>warrior<br>puzzle<br>pyramid<br>dial |  
-| bip_39_word_new_line1 | clinic |  
-| bip_39_word_new_line10 | clinic
+| bip_39_word_new_br_1 | clinic |  
+| bip_39_word_new_br_10 | clinic<br>uphold<br>february<br>team<br>fame<br>warrior<br>puzzle<br>pyramid<br>dial<br>panel |  
+| bip_39_word_new_br_11 | clinic<br>uphold<br>february<br>team<br>fame<br>warrior<br>puzzle<br>pyramid<br>dial<br>panel<br>end |  
+| bip_39_word_new_br_12 | clinic<br>uphold<br>february<br>team<br>fame<br>warrior<br>puzzle<br>pyramid<br>dial<br>panel<br>end<br>addict |  
+| bip_39_word_new_br_2 | clinic<br>uphold |  
+| bip_39_word_new_br_3 | clinic<br>uphold<br>february |  
+| bip_39_word_new_br_4 | clinic<br>uphold<br>february<br>team |  
+| bip_39_word_new_br_5 | clinic<br>uphold<br>february<br>team<br>fame |  
+| bip_39_word_new_br_6 | clinic<br>uphold<br>february<br>team<br>fame<br>warrior |  
+| bip_39_word_new_br_7 | clinic<br>uphold<br>february<br>team<br>fame<br>warrior<br>puzzle |  
+| bip_39_word_new_br_8 | clinic<br>uphold<br>february<br>team<br>fame<br>warrior<br>puzzle<br>pyramid |  
+| bip_39_word_new_br_9 | clinic<br>uphold<br>february<br>team<br>fame<br>warrior<br>puzzle<br>pyramid<br>dial |  
+| bip_39_word_new_line_1 | clinic |  
+| bip_39_word_new_line_10 | clinic
 uphold
 february
 team
@@ -55,7 +55,7 @@ puzzle
 pyramid
 dial
 panel |  
-| bip_39_word_new_line11 | clinic
+| bip_39_word_new_line_11 | clinic
 uphold
 february
 team
@@ -66,7 +66,7 @@ pyramid
 dial
 panel
 end |  
-| bip_39_word_new_line12 | clinic
+| bip_39_word_new_line_12 | clinic
 uphold
 february
 team
@@ -78,34 +78,34 @@ dial
 panel
 end
 addict |  
-| bip_39_word_new_line2 | clinic
+| bip_39_word_new_line_2 | clinic
 uphold |  
-| bip_39_word_new_line3 | clinic
+| bip_39_word_new_line_3 | clinic
 uphold
 february |  
-| bip_39_word_new_line4 | clinic
+| bip_39_word_new_line_4 | clinic
 uphold
 february
 team |  
-| bip_39_word_new_line5 | clinic
+| bip_39_word_new_line_5 | clinic
 uphold
 february
 team
 fame |  
-| bip_39_word_new_line6 | clinic
+| bip_39_word_new_line_6 | clinic
 uphold
 february
 team
 fame
 warrior |  
-| bip_39_word_new_line7 | clinic
+| bip_39_word_new_line_7 | clinic
 uphold
 february
 team
 fame
 warrior
 puzzle |  
-| bip_39_word_new_line8 | clinic
+| bip_39_word_new_line_8 | clinic
 uphold
 february
 team
@@ -113,7 +113,7 @@ fame
 warrior
 puzzle
 pyramid |  
-| bip_39_word_new_line9 | clinic
+| bip_39_word_new_line_9 | clinic
 uphold
 february
 team

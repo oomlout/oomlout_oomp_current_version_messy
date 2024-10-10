@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cliff |  
-| bip_39_word_new_br10 | cliff<br>bubble<br>popular<br>smooth<br>judge<br>depend<br>size<br>trick<br>learn<br>public |  
-| bip_39_word_new_br11 | cliff<br>bubble<br>popular<br>smooth<br>judge<br>depend<br>size<br>trick<br>learn<br>public<br>style |  
-| bip_39_word_new_br12 | cliff<br>bubble<br>popular<br>smooth<br>judge<br>depend<br>size<br>trick<br>learn<br>public<br>style<br>anxiety |  
-| bip_39_word_new_br2 | cliff<br>bubble |  
-| bip_39_word_new_br3 | cliff<br>bubble<br>popular |  
-| bip_39_word_new_br4 | cliff<br>bubble<br>popular<br>smooth |  
-| bip_39_word_new_br5 | cliff<br>bubble<br>popular<br>smooth<br>judge |  
-| bip_39_word_new_br6 | cliff<br>bubble<br>popular<br>smooth<br>judge<br>depend |  
-| bip_39_word_new_br7 | cliff<br>bubble<br>popular<br>smooth<br>judge<br>depend<br>size |  
-| bip_39_word_new_br8 | cliff<br>bubble<br>popular<br>smooth<br>judge<br>depend<br>size<br>trick |  
-| bip_39_word_new_br9 | cliff<br>bubble<br>popular<br>smooth<br>judge<br>depend<br>size<br>trick<br>learn |  
-| bip_39_word_new_line1 | cliff |  
-| bip_39_word_new_line10 | cliff
+| bip_39_word_new_br_1 | cliff |  
+| bip_39_word_new_br_10 | cliff<br>bubble<br>popular<br>smooth<br>judge<br>depend<br>size<br>trick<br>learn<br>public |  
+| bip_39_word_new_br_11 | cliff<br>bubble<br>popular<br>smooth<br>judge<br>depend<br>size<br>trick<br>learn<br>public<br>style |  
+| bip_39_word_new_br_12 | cliff<br>bubble<br>popular<br>smooth<br>judge<br>depend<br>size<br>trick<br>learn<br>public<br>style<br>anxiety |  
+| bip_39_word_new_br_2 | cliff<br>bubble |  
+| bip_39_word_new_br_3 | cliff<br>bubble<br>popular |  
+| bip_39_word_new_br_4 | cliff<br>bubble<br>popular<br>smooth |  
+| bip_39_word_new_br_5 | cliff<br>bubble<br>popular<br>smooth<br>judge |  
+| bip_39_word_new_br_6 | cliff<br>bubble<br>popular<br>smooth<br>judge<br>depend |  
+| bip_39_word_new_br_7 | cliff<br>bubble<br>popular<br>smooth<br>judge<br>depend<br>size |  
+| bip_39_word_new_br_8 | cliff<br>bubble<br>popular<br>smooth<br>judge<br>depend<br>size<br>trick |  
+| bip_39_word_new_br_9 | cliff<br>bubble<br>popular<br>smooth<br>judge<br>depend<br>size<br>trick<br>learn |  
+| bip_39_word_new_line_1 | cliff |  
+| bip_39_word_new_line_10 | cliff
 bubble
 popular
 smooth
@@ -55,7 +55,7 @@ size
 trick
 learn
 public |  
-| bip_39_word_new_line11 | cliff
+| bip_39_word_new_line_11 | cliff
 bubble
 popular
 smooth
@@ -66,7 +66,7 @@ trick
 learn
 public
 style |  
-| bip_39_word_new_line12 | cliff
+| bip_39_word_new_line_12 | cliff
 bubble
 popular
 smooth
@@ -78,34 +78,34 @@ learn
 public
 style
 anxiety |  
-| bip_39_word_new_line2 | cliff
+| bip_39_word_new_line_2 | cliff
 bubble |  
-| bip_39_word_new_line3 | cliff
+| bip_39_word_new_line_3 | cliff
 bubble
 popular |  
-| bip_39_word_new_line4 | cliff
+| bip_39_word_new_line_4 | cliff
 bubble
 popular
 smooth |  
-| bip_39_word_new_line5 | cliff
+| bip_39_word_new_line_5 | cliff
 bubble
 popular
 smooth
 judge |  
-| bip_39_word_new_line6 | cliff
+| bip_39_word_new_line_6 | cliff
 bubble
 popular
 smooth
 judge
 depend |  
-| bip_39_word_new_line7 | cliff
+| bip_39_word_new_line_7 | cliff
 bubble
 popular
 smooth
 judge
 depend
 size |  
-| bip_39_word_new_line8 | cliff
+| bip_39_word_new_line_8 | cliff
 bubble
 popular
 smooth
@@ -113,7 +113,7 @@ judge
 depend
 size
 trick |  
-| bip_39_word_new_line9 | cliff
+| bip_39_word_new_line_9 | cliff
 bubble
 popular
 smooth

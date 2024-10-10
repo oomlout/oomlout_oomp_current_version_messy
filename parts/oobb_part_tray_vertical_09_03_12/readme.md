@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mimic |  
-| bip_39_word_new_br10 | mimic<br>amount<br>point<br>confirm<br>decide<br>cigar<br>spy<br>tobacco<br>sound<br>solution |  
-| bip_39_word_new_br11 | mimic<br>amount<br>point<br>confirm<br>decide<br>cigar<br>spy<br>tobacco<br>sound<br>solution<br>donor |  
-| bip_39_word_new_br12 | mimic<br>amount<br>point<br>confirm<br>decide<br>cigar<br>spy<br>tobacco<br>sound<br>solution<br>donor<br>aim |  
-| bip_39_word_new_br2 | mimic<br>amount |  
-| bip_39_word_new_br3 | mimic<br>amount<br>point |  
-| bip_39_word_new_br4 | mimic<br>amount<br>point<br>confirm |  
-| bip_39_word_new_br5 | mimic<br>amount<br>point<br>confirm<br>decide |  
-| bip_39_word_new_br6 | mimic<br>amount<br>point<br>confirm<br>decide<br>cigar |  
-| bip_39_word_new_br7 | mimic<br>amount<br>point<br>confirm<br>decide<br>cigar<br>spy |  
-| bip_39_word_new_br8 | mimic<br>amount<br>point<br>confirm<br>decide<br>cigar<br>spy<br>tobacco |  
-| bip_39_word_new_br9 | mimic<br>amount<br>point<br>confirm<br>decide<br>cigar<br>spy<br>tobacco<br>sound |  
-| bip_39_word_new_line1 | mimic |  
-| bip_39_word_new_line10 | mimic
+| bip_39_word_new_br_1 | mimic |  
+| bip_39_word_new_br_10 | mimic<br>amount<br>point<br>confirm<br>decide<br>cigar<br>spy<br>tobacco<br>sound<br>solution |  
+| bip_39_word_new_br_11 | mimic<br>amount<br>point<br>confirm<br>decide<br>cigar<br>spy<br>tobacco<br>sound<br>solution<br>donor |  
+| bip_39_word_new_br_12 | mimic<br>amount<br>point<br>confirm<br>decide<br>cigar<br>spy<br>tobacco<br>sound<br>solution<br>donor<br>aim |  
+| bip_39_word_new_br_2 | mimic<br>amount |  
+| bip_39_word_new_br_3 | mimic<br>amount<br>point |  
+| bip_39_word_new_br_4 | mimic<br>amount<br>point<br>confirm |  
+| bip_39_word_new_br_5 | mimic<br>amount<br>point<br>confirm<br>decide |  
+| bip_39_word_new_br_6 | mimic<br>amount<br>point<br>confirm<br>decide<br>cigar |  
+| bip_39_word_new_br_7 | mimic<br>amount<br>point<br>confirm<br>decide<br>cigar<br>spy |  
+| bip_39_word_new_br_8 | mimic<br>amount<br>point<br>confirm<br>decide<br>cigar<br>spy<br>tobacco |  
+| bip_39_word_new_br_9 | mimic<br>amount<br>point<br>confirm<br>decide<br>cigar<br>spy<br>tobacco<br>sound |  
+| bip_39_word_new_line_1 | mimic |  
+| bip_39_word_new_line_10 | mimic
 amount
 point
 confirm
@@ -55,7 +55,7 @@ spy
 tobacco
 sound
 solution |  
-| bip_39_word_new_line11 | mimic
+| bip_39_word_new_line_11 | mimic
 amount
 point
 confirm
@@ -66,7 +66,7 @@ tobacco
 sound
 solution
 donor |  
-| bip_39_word_new_line12 | mimic
+| bip_39_word_new_line_12 | mimic
 amount
 point
 confirm
@@ -78,34 +78,34 @@ sound
 solution
 donor
 aim |  
-| bip_39_word_new_line2 | mimic
+| bip_39_word_new_line_2 | mimic
 amount |  
-| bip_39_word_new_line3 | mimic
+| bip_39_word_new_line_3 | mimic
 amount
 point |  
-| bip_39_word_new_line4 | mimic
+| bip_39_word_new_line_4 | mimic
 amount
 point
 confirm |  
-| bip_39_word_new_line5 | mimic
+| bip_39_word_new_line_5 | mimic
 amount
 point
 confirm
 decide |  
-| bip_39_word_new_line6 | mimic
+| bip_39_word_new_line_6 | mimic
 amount
 point
 confirm
 decide
 cigar |  
-| bip_39_word_new_line7 | mimic
+| bip_39_word_new_line_7 | mimic
 amount
 point
 confirm
 decide
 cigar
 spy |  
-| bip_39_word_new_line8 | mimic
+| bip_39_word_new_line_8 | mimic
 amount
 point
 confirm
@@ -113,7 +113,7 @@ decide
 cigar
 spy
 tobacco |  
-| bip_39_word_new_line9 | mimic
+| bip_39_word_new_line_9 | mimic
 amount
 point
 confirm

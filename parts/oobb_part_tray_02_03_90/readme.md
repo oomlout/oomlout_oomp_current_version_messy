@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | eternal |  
-| bip_39_word_new_br10 | eternal<br>dress<br>emotion<br>simple<br>season<br>combine<br>clutch<br>chronic<br>merit<br>clay |  
-| bip_39_word_new_br11 | eternal<br>dress<br>emotion<br>simple<br>season<br>combine<br>clutch<br>chronic<br>merit<br>clay<br>choice |  
-| bip_39_word_new_br12 | eternal<br>dress<br>emotion<br>simple<br>season<br>combine<br>clutch<br>chronic<br>merit<br>clay<br>choice<br>anchor |  
-| bip_39_word_new_br2 | eternal<br>dress |  
-| bip_39_word_new_br3 | eternal<br>dress<br>emotion |  
-| bip_39_word_new_br4 | eternal<br>dress<br>emotion<br>simple |  
-| bip_39_word_new_br5 | eternal<br>dress<br>emotion<br>simple<br>season |  
-| bip_39_word_new_br6 | eternal<br>dress<br>emotion<br>simple<br>season<br>combine |  
-| bip_39_word_new_br7 | eternal<br>dress<br>emotion<br>simple<br>season<br>combine<br>clutch |  
-| bip_39_word_new_br8 | eternal<br>dress<br>emotion<br>simple<br>season<br>combine<br>clutch<br>chronic |  
-| bip_39_word_new_br9 | eternal<br>dress<br>emotion<br>simple<br>season<br>combine<br>clutch<br>chronic<br>merit |  
-| bip_39_word_new_line1 | eternal |  
-| bip_39_word_new_line10 | eternal
+| bip_39_word_new_br_1 | eternal |  
+| bip_39_word_new_br_10 | eternal<br>dress<br>emotion<br>simple<br>season<br>combine<br>clutch<br>chronic<br>merit<br>clay |  
+| bip_39_word_new_br_11 | eternal<br>dress<br>emotion<br>simple<br>season<br>combine<br>clutch<br>chronic<br>merit<br>clay<br>choice |  
+| bip_39_word_new_br_12 | eternal<br>dress<br>emotion<br>simple<br>season<br>combine<br>clutch<br>chronic<br>merit<br>clay<br>choice<br>anchor |  
+| bip_39_word_new_br_2 | eternal<br>dress |  
+| bip_39_word_new_br_3 | eternal<br>dress<br>emotion |  
+| bip_39_word_new_br_4 | eternal<br>dress<br>emotion<br>simple |  
+| bip_39_word_new_br_5 | eternal<br>dress<br>emotion<br>simple<br>season |  
+| bip_39_word_new_br_6 | eternal<br>dress<br>emotion<br>simple<br>season<br>combine |  
+| bip_39_word_new_br_7 | eternal<br>dress<br>emotion<br>simple<br>season<br>combine<br>clutch |  
+| bip_39_word_new_br_8 | eternal<br>dress<br>emotion<br>simple<br>season<br>combine<br>clutch<br>chronic |  
+| bip_39_word_new_br_9 | eternal<br>dress<br>emotion<br>simple<br>season<br>combine<br>clutch<br>chronic<br>merit |  
+| bip_39_word_new_line_1 | eternal |  
+| bip_39_word_new_line_10 | eternal
 dress
 emotion
 simple
@@ -55,7 +55,7 @@ clutch
 chronic
 merit
 clay |  
-| bip_39_word_new_line11 | eternal
+| bip_39_word_new_line_11 | eternal
 dress
 emotion
 simple
@@ -66,7 +66,7 @@ chronic
 merit
 clay
 choice |  
-| bip_39_word_new_line12 | eternal
+| bip_39_word_new_line_12 | eternal
 dress
 emotion
 simple
@@ -78,34 +78,34 @@ merit
 clay
 choice
 anchor |  
-| bip_39_word_new_line2 | eternal
+| bip_39_word_new_line_2 | eternal
 dress |  
-| bip_39_word_new_line3 | eternal
+| bip_39_word_new_line_3 | eternal
 dress
 emotion |  
-| bip_39_word_new_line4 | eternal
+| bip_39_word_new_line_4 | eternal
 dress
 emotion
 simple |  
-| bip_39_word_new_line5 | eternal
+| bip_39_word_new_line_5 | eternal
 dress
 emotion
 simple
 season |  
-| bip_39_word_new_line6 | eternal
+| bip_39_word_new_line_6 | eternal
 dress
 emotion
 simple
 season
 combine |  
-| bip_39_word_new_line7 | eternal
+| bip_39_word_new_line_7 | eternal
 dress
 emotion
 simple
 season
 combine
 clutch |  
-| bip_39_word_new_line8 | eternal
+| bip_39_word_new_line_8 | eternal
 dress
 emotion
 simple
@@ -113,7 +113,7 @@ season
 combine
 clutch
 chronic |  
-| bip_39_word_new_line9 | eternal
+| bip_39_word_new_line_9 | eternal
 dress
 emotion
 simple

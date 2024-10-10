@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | warrior |  
-| bip_39_word_new_br10 | warrior<br>husband<br>venture<br>symptom<br>then<br>vibrant<br>citizen<br>raise<br>wall<br>twist |  
-| bip_39_word_new_br11 | warrior<br>husband<br>venture<br>symptom<br>then<br>vibrant<br>citizen<br>raise<br>wall<br>twist<br>diagram |  
-| bip_39_word_new_br12 | warrior<br>husband<br>venture<br>symptom<br>then<br>vibrant<br>citizen<br>raise<br>wall<br>twist<br>diagram<br>aspect |  
-| bip_39_word_new_br2 | warrior<br>husband |  
-| bip_39_word_new_br3 | warrior<br>husband<br>venture |  
-| bip_39_word_new_br4 | warrior<br>husband<br>venture<br>symptom |  
-| bip_39_word_new_br5 | warrior<br>husband<br>venture<br>symptom<br>then |  
-| bip_39_word_new_br6 | warrior<br>husband<br>venture<br>symptom<br>then<br>vibrant |  
-| bip_39_word_new_br7 | warrior<br>husband<br>venture<br>symptom<br>then<br>vibrant<br>citizen |  
-| bip_39_word_new_br8 | warrior<br>husband<br>venture<br>symptom<br>then<br>vibrant<br>citizen<br>raise |  
-| bip_39_word_new_br9 | warrior<br>husband<br>venture<br>symptom<br>then<br>vibrant<br>citizen<br>raise<br>wall |  
-| bip_39_word_new_line1 | warrior |  
-| bip_39_word_new_line10 | warrior
+| bip_39_word_new_br_1 | warrior |  
+| bip_39_word_new_br_10 | warrior<br>husband<br>venture<br>symptom<br>then<br>vibrant<br>citizen<br>raise<br>wall<br>twist |  
+| bip_39_word_new_br_11 | warrior<br>husband<br>venture<br>symptom<br>then<br>vibrant<br>citizen<br>raise<br>wall<br>twist<br>diagram |  
+| bip_39_word_new_br_12 | warrior<br>husband<br>venture<br>symptom<br>then<br>vibrant<br>citizen<br>raise<br>wall<br>twist<br>diagram<br>aspect |  
+| bip_39_word_new_br_2 | warrior<br>husband |  
+| bip_39_word_new_br_3 | warrior<br>husband<br>venture |  
+| bip_39_word_new_br_4 | warrior<br>husband<br>venture<br>symptom |  
+| bip_39_word_new_br_5 | warrior<br>husband<br>venture<br>symptom<br>then |  
+| bip_39_word_new_br_6 | warrior<br>husband<br>venture<br>symptom<br>then<br>vibrant |  
+| bip_39_word_new_br_7 | warrior<br>husband<br>venture<br>symptom<br>then<br>vibrant<br>citizen |  
+| bip_39_word_new_br_8 | warrior<br>husband<br>venture<br>symptom<br>then<br>vibrant<br>citizen<br>raise |  
+| bip_39_word_new_br_9 | warrior<br>husband<br>venture<br>symptom<br>then<br>vibrant<br>citizen<br>raise<br>wall |  
+| bip_39_word_new_line_1 | warrior |  
+| bip_39_word_new_line_10 | warrior
 husband
 venture
 symptom
@@ -55,7 +55,7 @@ citizen
 raise
 wall
 twist |  
-| bip_39_word_new_line11 | warrior
+| bip_39_word_new_line_11 | warrior
 husband
 venture
 symptom
@@ -66,7 +66,7 @@ raise
 wall
 twist
 diagram |  
-| bip_39_word_new_line12 | warrior
+| bip_39_word_new_line_12 | warrior
 husband
 venture
 symptom
@@ -78,34 +78,34 @@ wall
 twist
 diagram
 aspect |  
-| bip_39_word_new_line2 | warrior
+| bip_39_word_new_line_2 | warrior
 husband |  
-| bip_39_word_new_line3 | warrior
+| bip_39_word_new_line_3 | warrior
 husband
 venture |  
-| bip_39_word_new_line4 | warrior
+| bip_39_word_new_line_4 | warrior
 husband
 venture
 symptom |  
-| bip_39_word_new_line5 | warrior
+| bip_39_word_new_line_5 | warrior
 husband
 venture
 symptom
 then |  
-| bip_39_word_new_line6 | warrior
+| bip_39_word_new_line_6 | warrior
 husband
 venture
 symptom
 then
 vibrant |  
-| bip_39_word_new_line7 | warrior
+| bip_39_word_new_line_7 | warrior
 husband
 venture
 symptom
 then
 vibrant
 citizen |  
-| bip_39_word_new_line8 | warrior
+| bip_39_word_new_line_8 | warrior
 husband
 venture
 symptom
@@ -113,7 +113,7 @@ then
 vibrant
 citizen
 raise |  
-| bip_39_word_new_line9 | warrior
+| bip_39_word_new_line_9 | warrior
 husband
 venture
 symptom

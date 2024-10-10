@@ -1,17 +1,17 @@
-bip_39_word_new_br1: rather
-bip_39_word_new_br10: rather<br>faculty<br>during<br>siren<br>thunder<br>clock<br>donate<br>grass<br>slogan<br>photo
-bip_39_word_new_br11: rather<br>faculty<br>during<br>siren<br>thunder<br>clock<br>donate<br>grass<br>slogan<br>photo<br>blood
-bip_39_word_new_br12: rather<br>faculty<br>during<br>siren<br>thunder<br>clock<br>donate<br>grass<br>slogan<br>photo<br>blood<br>around
-bip_39_word_new_br2: rather<br>faculty
-bip_39_word_new_br3: rather<br>faculty<br>during
-bip_39_word_new_br4: rather<br>faculty<br>during<br>siren
-bip_39_word_new_br5: rather<br>faculty<br>during<br>siren<br>thunder
-bip_39_word_new_br6: rather<br>faculty<br>during<br>siren<br>thunder<br>clock
-bip_39_word_new_br7: rather<br>faculty<br>during<br>siren<br>thunder<br>clock<br>donate
-bip_39_word_new_br8: rather<br>faculty<br>during<br>siren<br>thunder<br>clock<br>donate<br>grass
-bip_39_word_new_br9: rather<br>faculty<br>during<br>siren<br>thunder<br>clock<br>donate<br>grass<br>slogan
-bip_39_word_new_line1: rather
-bip_39_word_new_line10: 'rather
+bip_39_word_new_br_1: rather
+bip_39_word_new_br_10: rather<br>faculty<br>during<br>siren<br>thunder<br>clock<br>donate<br>grass<br>slogan<br>photo
+bip_39_word_new_br_11: rather<br>faculty<br>during<br>siren<br>thunder<br>clock<br>donate<br>grass<br>slogan<br>photo<br>blood
+bip_39_word_new_br_12: rather<br>faculty<br>during<br>siren<br>thunder<br>clock<br>donate<br>grass<br>slogan<br>photo<br>blood<br>around
+bip_39_word_new_br_2: rather<br>faculty
+bip_39_word_new_br_3: rather<br>faculty<br>during
+bip_39_word_new_br_4: rather<br>faculty<br>during<br>siren
+bip_39_word_new_br_5: rather<br>faculty<br>during<br>siren<br>thunder
+bip_39_word_new_br_6: rather<br>faculty<br>during<br>siren<br>thunder<br>clock
+bip_39_word_new_br_7: rather<br>faculty<br>during<br>siren<br>thunder<br>clock<br>donate
+bip_39_word_new_br_8: rather<br>faculty<br>during<br>siren<br>thunder<br>clock<br>donate<br>grass
+bip_39_word_new_br_9: rather<br>faculty<br>during<br>siren<br>thunder<br>clock<br>donate<br>grass<br>slogan
+bip_39_word_new_line_1: rather
+bip_39_word_new_line_10: 'rather
 
   faculty
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'rather
   slogan
 
   photo'
-bip_39_word_new_line11: 'rather
+bip_39_word_new_line_11: 'rather
 
   faculty
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'rather
   photo
 
   blood'
-bip_39_word_new_line12: 'rather
+bip_39_word_new_line_12: 'rather
 
   faculty
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'rather
   blood
 
   around'
-bip_39_word_new_line2: 'rather
+bip_39_word_new_line_2: 'rather
 
   faculty'
-bip_39_word_new_line3: 'rather
+bip_39_word_new_line_3: 'rather
 
   faculty
 
   during'
-bip_39_word_new_line4: 'rather
+bip_39_word_new_line_4: 'rather
 
   faculty
 
   during
 
   siren'
-bip_39_word_new_line5: 'rather
+bip_39_word_new_line_5: 'rather
 
   faculty
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'rather
   siren
 
   thunder'
-bip_39_word_new_line6: 'rather
+bip_39_word_new_line_6: 'rather
 
   faculty
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'rather
   thunder
 
   clock'
-bip_39_word_new_line7: 'rather
+bip_39_word_new_line_7: 'rather
 
   faculty
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'rather
   clock
 
   donate'
-bip_39_word_new_line8: 'rather
+bip_39_word_new_line_8: 'rather
 
   faculty
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'rather
   donate
 
   grass'
-bip_39_word_new_line9: 'rather
+bip_39_word_new_line_9: 'rather
 
   faculty
 

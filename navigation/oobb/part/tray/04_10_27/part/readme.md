@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | swamp |  
-| bip_39_word_new_br10 | swamp<br>split<br>elder<br>help<br>warfare<br>worry<br>whale<br>educate<br>mutual<br>muffin |  
-| bip_39_word_new_br11 | swamp<br>split<br>elder<br>help<br>warfare<br>worry<br>whale<br>educate<br>mutual<br>muffin<br>inject |  
-| bip_39_word_new_br12 | swamp<br>split<br>elder<br>help<br>warfare<br>worry<br>whale<br>educate<br>mutual<br>muffin<br>inject<br>afraid |  
-| bip_39_word_new_br2 | swamp<br>split |  
-| bip_39_word_new_br3 | swamp<br>split<br>elder |  
-| bip_39_word_new_br4 | swamp<br>split<br>elder<br>help |  
-| bip_39_word_new_br5 | swamp<br>split<br>elder<br>help<br>warfare |  
-| bip_39_word_new_br6 | swamp<br>split<br>elder<br>help<br>warfare<br>worry |  
-| bip_39_word_new_br7 | swamp<br>split<br>elder<br>help<br>warfare<br>worry<br>whale |  
-| bip_39_word_new_br8 | swamp<br>split<br>elder<br>help<br>warfare<br>worry<br>whale<br>educate |  
-| bip_39_word_new_br9 | swamp<br>split<br>elder<br>help<br>warfare<br>worry<br>whale<br>educate<br>mutual |  
-| bip_39_word_new_line1 | swamp |  
-| bip_39_word_new_line10 | swamp
+| bip_39_word_new_br_1 | swamp |  
+| bip_39_word_new_br_10 | swamp<br>split<br>elder<br>help<br>warfare<br>worry<br>whale<br>educate<br>mutual<br>muffin |  
+| bip_39_word_new_br_11 | swamp<br>split<br>elder<br>help<br>warfare<br>worry<br>whale<br>educate<br>mutual<br>muffin<br>inject |  
+| bip_39_word_new_br_12 | swamp<br>split<br>elder<br>help<br>warfare<br>worry<br>whale<br>educate<br>mutual<br>muffin<br>inject<br>afraid |  
+| bip_39_word_new_br_2 | swamp<br>split |  
+| bip_39_word_new_br_3 | swamp<br>split<br>elder |  
+| bip_39_word_new_br_4 | swamp<br>split<br>elder<br>help |  
+| bip_39_word_new_br_5 | swamp<br>split<br>elder<br>help<br>warfare |  
+| bip_39_word_new_br_6 | swamp<br>split<br>elder<br>help<br>warfare<br>worry |  
+| bip_39_word_new_br_7 | swamp<br>split<br>elder<br>help<br>warfare<br>worry<br>whale |  
+| bip_39_word_new_br_8 | swamp<br>split<br>elder<br>help<br>warfare<br>worry<br>whale<br>educate |  
+| bip_39_word_new_br_9 | swamp<br>split<br>elder<br>help<br>warfare<br>worry<br>whale<br>educate<br>mutual |  
+| bip_39_word_new_line_1 | swamp |  
+| bip_39_word_new_line_10 | swamp
 split
 elder
 help
@@ -55,7 +55,7 @@ whale
 educate
 mutual
 muffin |  
-| bip_39_word_new_line11 | swamp
+| bip_39_word_new_line_11 | swamp
 split
 elder
 help
@@ -66,7 +66,7 @@ educate
 mutual
 muffin
 inject |  
-| bip_39_word_new_line12 | swamp
+| bip_39_word_new_line_12 | swamp
 split
 elder
 help
@@ -78,34 +78,34 @@ mutual
 muffin
 inject
 afraid |  
-| bip_39_word_new_line2 | swamp
+| bip_39_word_new_line_2 | swamp
 split |  
-| bip_39_word_new_line3 | swamp
+| bip_39_word_new_line_3 | swamp
 split
 elder |  
-| bip_39_word_new_line4 | swamp
+| bip_39_word_new_line_4 | swamp
 split
 elder
 help |  
-| bip_39_word_new_line5 | swamp
+| bip_39_word_new_line_5 | swamp
 split
 elder
 help
 warfare |  
-| bip_39_word_new_line6 | swamp
+| bip_39_word_new_line_6 | swamp
 split
 elder
 help
 warfare
 worry |  
-| bip_39_word_new_line7 | swamp
+| bip_39_word_new_line_7 | swamp
 split
 elder
 help
 warfare
 worry
 whale |  
-| bip_39_word_new_line8 | swamp
+| bip_39_word_new_line_8 | swamp
 split
 elder
 help
@@ -113,7 +113,7 @@ warfare
 worry
 whale
 educate |  
-| bip_39_word_new_line9 | swamp
+| bip_39_word_new_line_9 | swamp
 split
 elder
 help

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | argue |  
-| bip_39_word_new_br10 | argue<br>banner<br>solve<br>youth<br>near<br>enroll<br>butter<br>smile<br>inherit<br>shield |  
-| bip_39_word_new_br11 | argue<br>banner<br>solve<br>youth<br>near<br>enroll<br>butter<br>smile<br>inherit<br>shield<br>critic |  
-| bip_39_word_new_br12 | argue<br>banner<br>solve<br>youth<br>near<br>enroll<br>butter<br>smile<br>inherit<br>shield<br>critic<br>apple |  
-| bip_39_word_new_br2 | argue<br>banner |  
-| bip_39_word_new_br3 | argue<br>banner<br>solve |  
-| bip_39_word_new_br4 | argue<br>banner<br>solve<br>youth |  
-| bip_39_word_new_br5 | argue<br>banner<br>solve<br>youth<br>near |  
-| bip_39_word_new_br6 | argue<br>banner<br>solve<br>youth<br>near<br>enroll |  
-| bip_39_word_new_br7 | argue<br>banner<br>solve<br>youth<br>near<br>enroll<br>butter |  
-| bip_39_word_new_br8 | argue<br>banner<br>solve<br>youth<br>near<br>enroll<br>butter<br>smile |  
-| bip_39_word_new_br9 | argue<br>banner<br>solve<br>youth<br>near<br>enroll<br>butter<br>smile<br>inherit |  
-| bip_39_word_new_line1 | argue |  
-| bip_39_word_new_line10 | argue
+| bip_39_word_new_br_1 | argue |  
+| bip_39_word_new_br_10 | argue<br>banner<br>solve<br>youth<br>near<br>enroll<br>butter<br>smile<br>inherit<br>shield |  
+| bip_39_word_new_br_11 | argue<br>banner<br>solve<br>youth<br>near<br>enroll<br>butter<br>smile<br>inherit<br>shield<br>critic |  
+| bip_39_word_new_br_12 | argue<br>banner<br>solve<br>youth<br>near<br>enroll<br>butter<br>smile<br>inherit<br>shield<br>critic<br>apple |  
+| bip_39_word_new_br_2 | argue<br>banner |  
+| bip_39_word_new_br_3 | argue<br>banner<br>solve |  
+| bip_39_word_new_br_4 | argue<br>banner<br>solve<br>youth |  
+| bip_39_word_new_br_5 | argue<br>banner<br>solve<br>youth<br>near |  
+| bip_39_word_new_br_6 | argue<br>banner<br>solve<br>youth<br>near<br>enroll |  
+| bip_39_word_new_br_7 | argue<br>banner<br>solve<br>youth<br>near<br>enroll<br>butter |  
+| bip_39_word_new_br_8 | argue<br>banner<br>solve<br>youth<br>near<br>enroll<br>butter<br>smile |  
+| bip_39_word_new_br_9 | argue<br>banner<br>solve<br>youth<br>near<br>enroll<br>butter<br>smile<br>inherit |  
+| bip_39_word_new_line_1 | argue |  
+| bip_39_word_new_line_10 | argue
 banner
 solve
 youth
@@ -55,7 +55,7 @@ butter
 smile
 inherit
 shield |  
-| bip_39_word_new_line11 | argue
+| bip_39_word_new_line_11 | argue
 banner
 solve
 youth
@@ -66,7 +66,7 @@ smile
 inherit
 shield
 critic |  
-| bip_39_word_new_line12 | argue
+| bip_39_word_new_line_12 | argue
 banner
 solve
 youth
@@ -78,34 +78,34 @@ inherit
 shield
 critic
 apple |  
-| bip_39_word_new_line2 | argue
+| bip_39_word_new_line_2 | argue
 banner |  
-| bip_39_word_new_line3 | argue
+| bip_39_word_new_line_3 | argue
 banner
 solve |  
-| bip_39_word_new_line4 | argue
+| bip_39_word_new_line_4 | argue
 banner
 solve
 youth |  
-| bip_39_word_new_line5 | argue
+| bip_39_word_new_line_5 | argue
 banner
 solve
 youth
 near |  
-| bip_39_word_new_line6 | argue
+| bip_39_word_new_line_6 | argue
 banner
 solve
 youth
 near
 enroll |  
-| bip_39_word_new_line7 | argue
+| bip_39_word_new_line_7 | argue
 banner
 solve
 youth
 near
 enroll
 butter |  
-| bip_39_word_new_line8 | argue
+| bip_39_word_new_line_8 | argue
 banner
 solve
 youth
@@ -113,7 +113,7 @@ near
 enroll
 butter
 smile |  
-| bip_39_word_new_line9 | argue
+| bip_39_word_new_line_9 | argue
 banner
 solve
 youth

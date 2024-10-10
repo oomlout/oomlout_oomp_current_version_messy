@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | delay |  
-| bip_39_word_new_br10 | delay<br>hurdle<br>tortoise<br>hint<br>mystery<br>priority<br>clog<br>assist<br>ugly<br>fold |  
-| bip_39_word_new_br11 | delay<br>hurdle<br>tortoise<br>hint<br>mystery<br>priority<br>clog<br>assist<br>ugly<br>fold<br>pumpkin |  
-| bip_39_word_new_br12 | delay<br>hurdle<br>tortoise<br>hint<br>mystery<br>priority<br>clog<br>assist<br>ugly<br>fold<br>pumpkin<br>again |  
-| bip_39_word_new_br2 | delay<br>hurdle |  
-| bip_39_word_new_br3 | delay<br>hurdle<br>tortoise |  
-| bip_39_word_new_br4 | delay<br>hurdle<br>tortoise<br>hint |  
-| bip_39_word_new_br5 | delay<br>hurdle<br>tortoise<br>hint<br>mystery |  
-| bip_39_word_new_br6 | delay<br>hurdle<br>tortoise<br>hint<br>mystery<br>priority |  
-| bip_39_word_new_br7 | delay<br>hurdle<br>tortoise<br>hint<br>mystery<br>priority<br>clog |  
-| bip_39_word_new_br8 | delay<br>hurdle<br>tortoise<br>hint<br>mystery<br>priority<br>clog<br>assist |  
-| bip_39_word_new_br9 | delay<br>hurdle<br>tortoise<br>hint<br>mystery<br>priority<br>clog<br>assist<br>ugly |  
-| bip_39_word_new_line1 | delay |  
-| bip_39_word_new_line10 | delay
+| bip_39_word_new_br_1 | delay |  
+| bip_39_word_new_br_10 | delay<br>hurdle<br>tortoise<br>hint<br>mystery<br>priority<br>clog<br>assist<br>ugly<br>fold |  
+| bip_39_word_new_br_11 | delay<br>hurdle<br>tortoise<br>hint<br>mystery<br>priority<br>clog<br>assist<br>ugly<br>fold<br>pumpkin |  
+| bip_39_word_new_br_12 | delay<br>hurdle<br>tortoise<br>hint<br>mystery<br>priority<br>clog<br>assist<br>ugly<br>fold<br>pumpkin<br>again |  
+| bip_39_word_new_br_2 | delay<br>hurdle |  
+| bip_39_word_new_br_3 | delay<br>hurdle<br>tortoise |  
+| bip_39_word_new_br_4 | delay<br>hurdle<br>tortoise<br>hint |  
+| bip_39_word_new_br_5 | delay<br>hurdle<br>tortoise<br>hint<br>mystery |  
+| bip_39_word_new_br_6 | delay<br>hurdle<br>tortoise<br>hint<br>mystery<br>priority |  
+| bip_39_word_new_br_7 | delay<br>hurdle<br>tortoise<br>hint<br>mystery<br>priority<br>clog |  
+| bip_39_word_new_br_8 | delay<br>hurdle<br>tortoise<br>hint<br>mystery<br>priority<br>clog<br>assist |  
+| bip_39_word_new_br_9 | delay<br>hurdle<br>tortoise<br>hint<br>mystery<br>priority<br>clog<br>assist<br>ugly |  
+| bip_39_word_new_line_1 | delay |  
+| bip_39_word_new_line_10 | delay
 hurdle
 tortoise
 hint
@@ -55,7 +55,7 @@ clog
 assist
 ugly
 fold |  
-| bip_39_word_new_line11 | delay
+| bip_39_word_new_line_11 | delay
 hurdle
 tortoise
 hint
@@ -66,7 +66,7 @@ assist
 ugly
 fold
 pumpkin |  
-| bip_39_word_new_line12 | delay
+| bip_39_word_new_line_12 | delay
 hurdle
 tortoise
 hint
@@ -78,34 +78,34 @@ ugly
 fold
 pumpkin
 again |  
-| bip_39_word_new_line2 | delay
+| bip_39_word_new_line_2 | delay
 hurdle |  
-| bip_39_word_new_line3 | delay
+| bip_39_word_new_line_3 | delay
 hurdle
 tortoise |  
-| bip_39_word_new_line4 | delay
+| bip_39_word_new_line_4 | delay
 hurdle
 tortoise
 hint |  
-| bip_39_word_new_line5 | delay
+| bip_39_word_new_line_5 | delay
 hurdle
 tortoise
 hint
 mystery |  
-| bip_39_word_new_line6 | delay
+| bip_39_word_new_line_6 | delay
 hurdle
 tortoise
 hint
 mystery
 priority |  
-| bip_39_word_new_line7 | delay
+| bip_39_word_new_line_7 | delay
 hurdle
 tortoise
 hint
 mystery
 priority
 clog |  
-| bip_39_word_new_line8 | delay
+| bip_39_word_new_line_8 | delay
 hurdle
 tortoise
 hint
@@ -113,7 +113,7 @@ mystery
 priority
 clog
 assist |  
-| bip_39_word_new_line9 | delay
+| bip_39_word_new_line_9 | delay
 hurdle
 tortoise
 hint

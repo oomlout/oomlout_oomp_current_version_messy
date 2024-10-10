@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | give |  
-| bip_39_word_new_br10 | give<br>leg<br>unknown<br>danger<br>pistol<br>girl<br>pioneer<br>twelve<br>captain<br>twelve |  
-| bip_39_word_new_br11 | give<br>leg<br>unknown<br>danger<br>pistol<br>girl<br>pioneer<br>twelve<br>captain<br>twelve<br>narrow |  
-| bip_39_word_new_br12 | give<br>leg<br>unknown<br>danger<br>pistol<br>girl<br>pioneer<br>twelve<br>captain<br>twelve<br>narrow<br>arrow |  
-| bip_39_word_new_br2 | give<br>leg |  
-| bip_39_word_new_br3 | give<br>leg<br>unknown |  
-| bip_39_word_new_br4 | give<br>leg<br>unknown<br>danger |  
-| bip_39_word_new_br5 | give<br>leg<br>unknown<br>danger<br>pistol |  
-| bip_39_word_new_br6 | give<br>leg<br>unknown<br>danger<br>pistol<br>girl |  
-| bip_39_word_new_br7 | give<br>leg<br>unknown<br>danger<br>pistol<br>girl<br>pioneer |  
-| bip_39_word_new_br8 | give<br>leg<br>unknown<br>danger<br>pistol<br>girl<br>pioneer<br>twelve |  
-| bip_39_word_new_br9 | give<br>leg<br>unknown<br>danger<br>pistol<br>girl<br>pioneer<br>twelve<br>captain |  
-| bip_39_word_new_line1 | give |  
-| bip_39_word_new_line10 | give
+| bip_39_word_new_br_1 | give |  
+| bip_39_word_new_br_10 | give<br>leg<br>unknown<br>danger<br>pistol<br>girl<br>pioneer<br>twelve<br>captain<br>twelve |  
+| bip_39_word_new_br_11 | give<br>leg<br>unknown<br>danger<br>pistol<br>girl<br>pioneer<br>twelve<br>captain<br>twelve<br>narrow |  
+| bip_39_word_new_br_12 | give<br>leg<br>unknown<br>danger<br>pistol<br>girl<br>pioneer<br>twelve<br>captain<br>twelve<br>narrow<br>arrow |  
+| bip_39_word_new_br_2 | give<br>leg |  
+| bip_39_word_new_br_3 | give<br>leg<br>unknown |  
+| bip_39_word_new_br_4 | give<br>leg<br>unknown<br>danger |  
+| bip_39_word_new_br_5 | give<br>leg<br>unknown<br>danger<br>pistol |  
+| bip_39_word_new_br_6 | give<br>leg<br>unknown<br>danger<br>pistol<br>girl |  
+| bip_39_word_new_br_7 | give<br>leg<br>unknown<br>danger<br>pistol<br>girl<br>pioneer |  
+| bip_39_word_new_br_8 | give<br>leg<br>unknown<br>danger<br>pistol<br>girl<br>pioneer<br>twelve |  
+| bip_39_word_new_br_9 | give<br>leg<br>unknown<br>danger<br>pistol<br>girl<br>pioneer<br>twelve<br>captain |  
+| bip_39_word_new_line_1 | give |  
+| bip_39_word_new_line_10 | give
 leg
 unknown
 danger
@@ -55,7 +55,7 @@ pioneer
 twelve
 captain
 twelve |  
-| bip_39_word_new_line11 | give
+| bip_39_word_new_line_11 | give
 leg
 unknown
 danger
@@ -66,7 +66,7 @@ twelve
 captain
 twelve
 narrow |  
-| bip_39_word_new_line12 | give
+| bip_39_word_new_line_12 | give
 leg
 unknown
 danger
@@ -78,34 +78,34 @@ captain
 twelve
 narrow
 arrow |  
-| bip_39_word_new_line2 | give
+| bip_39_word_new_line_2 | give
 leg |  
-| bip_39_word_new_line3 | give
+| bip_39_word_new_line_3 | give
 leg
 unknown |  
-| bip_39_word_new_line4 | give
+| bip_39_word_new_line_4 | give
 leg
 unknown
 danger |  
-| bip_39_word_new_line5 | give
+| bip_39_word_new_line_5 | give
 leg
 unknown
 danger
 pistol |  
-| bip_39_word_new_line6 | give
+| bip_39_word_new_line_6 | give
 leg
 unknown
 danger
 pistol
 girl |  
-| bip_39_word_new_line7 | give
+| bip_39_word_new_line_7 | give
 leg
 unknown
 danger
 pistol
 girl
 pioneer |  
-| bip_39_word_new_line8 | give
+| bip_39_word_new_line_8 | give
 leg
 unknown
 danger
@@ -113,7 +113,7 @@ pistol
 girl
 pioneer
 twelve |  
-| bip_39_word_new_line9 | give
+| bip_39_word_new_line_9 | give
 leg
 unknown
 danger

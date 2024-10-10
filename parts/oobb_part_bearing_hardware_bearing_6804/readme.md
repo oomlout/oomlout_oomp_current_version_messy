@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | glare |  
-| bip_39_word_new_br10 | glare<br>mad<br>desert<br>grab<br>adapt<br>buzz<br>credit<br>feature<br>fit<br>identify |  
-| bip_39_word_new_br11 | glare<br>mad<br>desert<br>grab<br>adapt<br>buzz<br>credit<br>feature<br>fit<br>identify<br>chunk |  
-| bip_39_word_new_br12 | glare<br>mad<br>desert<br>grab<br>adapt<br>buzz<br>credit<br>feature<br>fit<br>identify<br>chunk<br>amateur |  
-| bip_39_word_new_br2 | glare<br>mad |  
-| bip_39_word_new_br3 | glare<br>mad<br>desert |  
-| bip_39_word_new_br4 | glare<br>mad<br>desert<br>grab |  
-| bip_39_word_new_br5 | glare<br>mad<br>desert<br>grab<br>adapt |  
-| bip_39_word_new_br6 | glare<br>mad<br>desert<br>grab<br>adapt<br>buzz |  
-| bip_39_word_new_br7 | glare<br>mad<br>desert<br>grab<br>adapt<br>buzz<br>credit |  
-| bip_39_word_new_br8 | glare<br>mad<br>desert<br>grab<br>adapt<br>buzz<br>credit<br>feature |  
-| bip_39_word_new_br9 | glare<br>mad<br>desert<br>grab<br>adapt<br>buzz<br>credit<br>feature<br>fit |  
-| bip_39_word_new_line1 | glare |  
-| bip_39_word_new_line10 | glare
+| bip_39_word_new_br_1 | glare |  
+| bip_39_word_new_br_10 | glare<br>mad<br>desert<br>grab<br>adapt<br>buzz<br>credit<br>feature<br>fit<br>identify |  
+| bip_39_word_new_br_11 | glare<br>mad<br>desert<br>grab<br>adapt<br>buzz<br>credit<br>feature<br>fit<br>identify<br>chunk |  
+| bip_39_word_new_br_12 | glare<br>mad<br>desert<br>grab<br>adapt<br>buzz<br>credit<br>feature<br>fit<br>identify<br>chunk<br>amateur |  
+| bip_39_word_new_br_2 | glare<br>mad |  
+| bip_39_word_new_br_3 | glare<br>mad<br>desert |  
+| bip_39_word_new_br_4 | glare<br>mad<br>desert<br>grab |  
+| bip_39_word_new_br_5 | glare<br>mad<br>desert<br>grab<br>adapt |  
+| bip_39_word_new_br_6 | glare<br>mad<br>desert<br>grab<br>adapt<br>buzz |  
+| bip_39_word_new_br_7 | glare<br>mad<br>desert<br>grab<br>adapt<br>buzz<br>credit |  
+| bip_39_word_new_br_8 | glare<br>mad<br>desert<br>grab<br>adapt<br>buzz<br>credit<br>feature |  
+| bip_39_word_new_br_9 | glare<br>mad<br>desert<br>grab<br>adapt<br>buzz<br>credit<br>feature<br>fit |  
+| bip_39_word_new_line_1 | glare |  
+| bip_39_word_new_line_10 | glare
 mad
 desert
 grab
@@ -55,7 +55,7 @@ credit
 feature
 fit
 identify |  
-| bip_39_word_new_line11 | glare
+| bip_39_word_new_line_11 | glare
 mad
 desert
 grab
@@ -66,7 +66,7 @@ feature
 fit
 identify
 chunk |  
-| bip_39_word_new_line12 | glare
+| bip_39_word_new_line_12 | glare
 mad
 desert
 grab
@@ -78,34 +78,34 @@ fit
 identify
 chunk
 amateur |  
-| bip_39_word_new_line2 | glare
+| bip_39_word_new_line_2 | glare
 mad |  
-| bip_39_word_new_line3 | glare
+| bip_39_word_new_line_3 | glare
 mad
 desert |  
-| bip_39_word_new_line4 | glare
+| bip_39_word_new_line_4 | glare
 mad
 desert
 grab |  
-| bip_39_word_new_line5 | glare
+| bip_39_word_new_line_5 | glare
 mad
 desert
 grab
 adapt |  
-| bip_39_word_new_line6 | glare
+| bip_39_word_new_line_6 | glare
 mad
 desert
 grab
 adapt
 buzz |  
-| bip_39_word_new_line7 | glare
+| bip_39_word_new_line_7 | glare
 mad
 desert
 grab
 adapt
 buzz
 credit |  
-| bip_39_word_new_line8 | glare
+| bip_39_word_new_line_8 | glare
 mad
 desert
 grab
@@ -113,7 +113,7 @@ adapt
 buzz
 credit
 feature |  
-| bip_39_word_new_line9 | glare
+| bip_39_word_new_line_9 | glare
 mad
 desert
 grab

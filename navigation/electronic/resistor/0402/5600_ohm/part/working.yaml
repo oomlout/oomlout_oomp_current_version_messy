@@ -1,17 +1,17 @@
-bip_39_word_new_br1: sing
-bip_39_word_new_br10: sing<br>liberty<br>deposit<br>vacant<br>smoke<br>clap<br>jewel<br>hobby<br>vessel<br>uncover
-bip_39_word_new_br11: sing<br>liberty<br>deposit<br>vacant<br>smoke<br>clap<br>jewel<br>hobby<br>vessel<br>uncover<br>oblige
-bip_39_word_new_br12: sing<br>liberty<br>deposit<br>vacant<br>smoke<br>clap<br>jewel<br>hobby<br>vessel<br>uncover<br>oblige<br>anger
-bip_39_word_new_br2: sing<br>liberty
-bip_39_word_new_br3: sing<br>liberty<br>deposit
-bip_39_word_new_br4: sing<br>liberty<br>deposit<br>vacant
-bip_39_word_new_br5: sing<br>liberty<br>deposit<br>vacant<br>smoke
-bip_39_word_new_br6: sing<br>liberty<br>deposit<br>vacant<br>smoke<br>clap
-bip_39_word_new_br7: sing<br>liberty<br>deposit<br>vacant<br>smoke<br>clap<br>jewel
-bip_39_word_new_br8: sing<br>liberty<br>deposit<br>vacant<br>smoke<br>clap<br>jewel<br>hobby
-bip_39_word_new_br9: sing<br>liberty<br>deposit<br>vacant<br>smoke<br>clap<br>jewel<br>hobby<br>vessel
-bip_39_word_new_line1: sing
-bip_39_word_new_line10: 'sing
+bip_39_word_new_br_1: sing
+bip_39_word_new_br_10: sing<br>liberty<br>deposit<br>vacant<br>smoke<br>clap<br>jewel<br>hobby<br>vessel<br>uncover
+bip_39_word_new_br_11: sing<br>liberty<br>deposit<br>vacant<br>smoke<br>clap<br>jewel<br>hobby<br>vessel<br>uncover<br>oblige
+bip_39_word_new_br_12: sing<br>liberty<br>deposit<br>vacant<br>smoke<br>clap<br>jewel<br>hobby<br>vessel<br>uncover<br>oblige<br>anger
+bip_39_word_new_br_2: sing<br>liberty
+bip_39_word_new_br_3: sing<br>liberty<br>deposit
+bip_39_word_new_br_4: sing<br>liberty<br>deposit<br>vacant
+bip_39_word_new_br_5: sing<br>liberty<br>deposit<br>vacant<br>smoke
+bip_39_word_new_br_6: sing<br>liberty<br>deposit<br>vacant<br>smoke<br>clap
+bip_39_word_new_br_7: sing<br>liberty<br>deposit<br>vacant<br>smoke<br>clap<br>jewel
+bip_39_word_new_br_8: sing<br>liberty<br>deposit<br>vacant<br>smoke<br>clap<br>jewel<br>hobby
+bip_39_word_new_br_9: sing<br>liberty<br>deposit<br>vacant<br>smoke<br>clap<br>jewel<br>hobby<br>vessel
+bip_39_word_new_line_1: sing
+bip_39_word_new_line_10: 'sing
 
   liberty
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'sing
   vessel
 
   uncover'
-bip_39_word_new_line11: 'sing
+bip_39_word_new_line_11: 'sing
 
   liberty
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'sing
   uncover
 
   oblige'
-bip_39_word_new_line12: 'sing
+bip_39_word_new_line_12: 'sing
 
   liberty
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'sing
   oblige
 
   anger'
-bip_39_word_new_line2: 'sing
+bip_39_word_new_line_2: 'sing
 
   liberty'
-bip_39_word_new_line3: 'sing
+bip_39_word_new_line_3: 'sing
 
   liberty
 
   deposit'
-bip_39_word_new_line4: 'sing
+bip_39_word_new_line_4: 'sing
 
   liberty
 
   deposit
 
   vacant'
-bip_39_word_new_line5: 'sing
+bip_39_word_new_line_5: 'sing
 
   liberty
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'sing
   vacant
 
   smoke'
-bip_39_word_new_line6: 'sing
+bip_39_word_new_line_6: 'sing
 
   liberty
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'sing
   smoke
 
   clap'
-bip_39_word_new_line7: 'sing
+bip_39_word_new_line_7: 'sing
 
   liberty
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'sing
   clap
 
   jewel'
-bip_39_word_new_line8: 'sing
+bip_39_word_new_line_8: 'sing
 
   liberty
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'sing
   jewel
 
   hobby'
-bip_39_word_new_line9: 'sing
+bip_39_word_new_line_9: 'sing
 
   liberty
 

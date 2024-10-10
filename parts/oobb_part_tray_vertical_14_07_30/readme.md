@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | stick |  
-| bip_39_word_new_br10 | stick<br>they<br>oak<br>road<br>nose<br>odor<br>wedding<br>state<br>present<br>quit |  
-| bip_39_word_new_br11 | stick<br>they<br>oak<br>road<br>nose<br>odor<br>wedding<br>state<br>present<br>quit<br>wisdom |  
-| bip_39_word_new_br12 | stick<br>they<br>oak<br>road<br>nose<br>odor<br>wedding<br>state<br>present<br>quit<br>wisdom<br>amateur |  
-| bip_39_word_new_br2 | stick<br>they |  
-| bip_39_word_new_br3 | stick<br>they<br>oak |  
-| bip_39_word_new_br4 | stick<br>they<br>oak<br>road |  
-| bip_39_word_new_br5 | stick<br>they<br>oak<br>road<br>nose |  
-| bip_39_word_new_br6 | stick<br>they<br>oak<br>road<br>nose<br>odor |  
-| bip_39_word_new_br7 | stick<br>they<br>oak<br>road<br>nose<br>odor<br>wedding |  
-| bip_39_word_new_br8 | stick<br>they<br>oak<br>road<br>nose<br>odor<br>wedding<br>state |  
-| bip_39_word_new_br9 | stick<br>they<br>oak<br>road<br>nose<br>odor<br>wedding<br>state<br>present |  
-| bip_39_word_new_line1 | stick |  
-| bip_39_word_new_line10 | stick
+| bip_39_word_new_br_1 | stick |  
+| bip_39_word_new_br_10 | stick<br>they<br>oak<br>road<br>nose<br>odor<br>wedding<br>state<br>present<br>quit |  
+| bip_39_word_new_br_11 | stick<br>they<br>oak<br>road<br>nose<br>odor<br>wedding<br>state<br>present<br>quit<br>wisdom |  
+| bip_39_word_new_br_12 | stick<br>they<br>oak<br>road<br>nose<br>odor<br>wedding<br>state<br>present<br>quit<br>wisdom<br>amateur |  
+| bip_39_word_new_br_2 | stick<br>they |  
+| bip_39_word_new_br_3 | stick<br>they<br>oak |  
+| bip_39_word_new_br_4 | stick<br>they<br>oak<br>road |  
+| bip_39_word_new_br_5 | stick<br>they<br>oak<br>road<br>nose |  
+| bip_39_word_new_br_6 | stick<br>they<br>oak<br>road<br>nose<br>odor |  
+| bip_39_word_new_br_7 | stick<br>they<br>oak<br>road<br>nose<br>odor<br>wedding |  
+| bip_39_word_new_br_8 | stick<br>they<br>oak<br>road<br>nose<br>odor<br>wedding<br>state |  
+| bip_39_word_new_br_9 | stick<br>they<br>oak<br>road<br>nose<br>odor<br>wedding<br>state<br>present |  
+| bip_39_word_new_line_1 | stick |  
+| bip_39_word_new_line_10 | stick
 they
 oak
 road
@@ -55,7 +55,7 @@ wedding
 state
 present
 quit |  
-| bip_39_word_new_line11 | stick
+| bip_39_word_new_line_11 | stick
 they
 oak
 road
@@ -66,7 +66,7 @@ state
 present
 quit
 wisdom |  
-| bip_39_word_new_line12 | stick
+| bip_39_word_new_line_12 | stick
 they
 oak
 road
@@ -78,34 +78,34 @@ present
 quit
 wisdom
 amateur |  
-| bip_39_word_new_line2 | stick
+| bip_39_word_new_line_2 | stick
 they |  
-| bip_39_word_new_line3 | stick
+| bip_39_word_new_line_3 | stick
 they
 oak |  
-| bip_39_word_new_line4 | stick
+| bip_39_word_new_line_4 | stick
 they
 oak
 road |  
-| bip_39_word_new_line5 | stick
+| bip_39_word_new_line_5 | stick
 they
 oak
 road
 nose |  
-| bip_39_word_new_line6 | stick
+| bip_39_word_new_line_6 | stick
 they
 oak
 road
 nose
 odor |  
-| bip_39_word_new_line7 | stick
+| bip_39_word_new_line_7 | stick
 they
 oak
 road
 nose
 odor
 wedding |  
-| bip_39_word_new_line8 | stick
+| bip_39_word_new_line_8 | stick
 they
 oak
 road
@@ -113,7 +113,7 @@ nose
 odor
 wedding
 state |  
-| bip_39_word_new_line9 | stick
+| bip_39_word_new_line_9 | stick
 they
 oak
 road

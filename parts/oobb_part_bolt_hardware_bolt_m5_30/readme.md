@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | glory |  
-| bip_39_word_new_br10 | glory<br>already<br>feel<br>satisfy<br>double<br>version<br>hint<br>flight<br>want<br>burden |  
-| bip_39_word_new_br11 | glory<br>already<br>feel<br>satisfy<br>double<br>version<br>hint<br>flight<br>want<br>burden<br>offer |  
-| bip_39_word_new_br12 | glory<br>already<br>feel<br>satisfy<br>double<br>version<br>hint<br>flight<br>want<br>burden<br>offer<br>arm |  
-| bip_39_word_new_br2 | glory<br>already |  
-| bip_39_word_new_br3 | glory<br>already<br>feel |  
-| bip_39_word_new_br4 | glory<br>already<br>feel<br>satisfy |  
-| bip_39_word_new_br5 | glory<br>already<br>feel<br>satisfy<br>double |  
-| bip_39_word_new_br6 | glory<br>already<br>feel<br>satisfy<br>double<br>version |  
-| bip_39_word_new_br7 | glory<br>already<br>feel<br>satisfy<br>double<br>version<br>hint |  
-| bip_39_word_new_br8 | glory<br>already<br>feel<br>satisfy<br>double<br>version<br>hint<br>flight |  
-| bip_39_word_new_br9 | glory<br>already<br>feel<br>satisfy<br>double<br>version<br>hint<br>flight<br>want |  
-| bip_39_word_new_line1 | glory |  
-| bip_39_word_new_line10 | glory
+| bip_39_word_new_br_1 | glory |  
+| bip_39_word_new_br_10 | glory<br>already<br>feel<br>satisfy<br>double<br>version<br>hint<br>flight<br>want<br>burden |  
+| bip_39_word_new_br_11 | glory<br>already<br>feel<br>satisfy<br>double<br>version<br>hint<br>flight<br>want<br>burden<br>offer |  
+| bip_39_word_new_br_12 | glory<br>already<br>feel<br>satisfy<br>double<br>version<br>hint<br>flight<br>want<br>burden<br>offer<br>arm |  
+| bip_39_word_new_br_2 | glory<br>already |  
+| bip_39_word_new_br_3 | glory<br>already<br>feel |  
+| bip_39_word_new_br_4 | glory<br>already<br>feel<br>satisfy |  
+| bip_39_word_new_br_5 | glory<br>already<br>feel<br>satisfy<br>double |  
+| bip_39_word_new_br_6 | glory<br>already<br>feel<br>satisfy<br>double<br>version |  
+| bip_39_word_new_br_7 | glory<br>already<br>feel<br>satisfy<br>double<br>version<br>hint |  
+| bip_39_word_new_br_8 | glory<br>already<br>feel<br>satisfy<br>double<br>version<br>hint<br>flight |  
+| bip_39_word_new_br_9 | glory<br>already<br>feel<br>satisfy<br>double<br>version<br>hint<br>flight<br>want |  
+| bip_39_word_new_line_1 | glory |  
+| bip_39_word_new_line_10 | glory
 already
 feel
 satisfy
@@ -55,7 +55,7 @@ hint
 flight
 want
 burden |  
-| bip_39_word_new_line11 | glory
+| bip_39_word_new_line_11 | glory
 already
 feel
 satisfy
@@ -66,7 +66,7 @@ flight
 want
 burden
 offer |  
-| bip_39_word_new_line12 | glory
+| bip_39_word_new_line_12 | glory
 already
 feel
 satisfy
@@ -78,34 +78,34 @@ want
 burden
 offer
 arm |  
-| bip_39_word_new_line2 | glory
+| bip_39_word_new_line_2 | glory
 already |  
-| bip_39_word_new_line3 | glory
+| bip_39_word_new_line_3 | glory
 already
 feel |  
-| bip_39_word_new_line4 | glory
+| bip_39_word_new_line_4 | glory
 already
 feel
 satisfy |  
-| bip_39_word_new_line5 | glory
+| bip_39_word_new_line_5 | glory
 already
 feel
 satisfy
 double |  
-| bip_39_word_new_line6 | glory
+| bip_39_word_new_line_6 | glory
 already
 feel
 satisfy
 double
 version |  
-| bip_39_word_new_line7 | glory
+| bip_39_word_new_line_7 | glory
 already
 feel
 satisfy
 double
 version
 hint |  
-| bip_39_word_new_line8 | glory
+| bip_39_word_new_line_8 | glory
 already
 feel
 satisfy
@@ -113,7 +113,7 @@ double
 version
 hint
 flight |  
-| bip_39_word_new_line9 | glory
+| bip_39_word_new_line_9 | glory
 already
 feel
 satisfy

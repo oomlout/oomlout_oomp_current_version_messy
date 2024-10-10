@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | exclude |  
-| bip_39_word_new_br10 | exclude<br>whip<br>token<br>able<br>word<br>senior<br>visa<br>junk<br>burger<br>total |  
-| bip_39_word_new_br11 | exclude<br>whip<br>token<br>able<br>word<br>senior<br>visa<br>junk<br>burger<br>total<br>robust |  
-| bip_39_word_new_br12 | exclude<br>whip<br>token<br>able<br>word<br>senior<br>visa<br>junk<br>burger<br>total<br>robust<br>asset |  
-| bip_39_word_new_br2 | exclude<br>whip |  
-| bip_39_word_new_br3 | exclude<br>whip<br>token |  
-| bip_39_word_new_br4 | exclude<br>whip<br>token<br>able |  
-| bip_39_word_new_br5 | exclude<br>whip<br>token<br>able<br>word |  
-| bip_39_word_new_br6 | exclude<br>whip<br>token<br>able<br>word<br>senior |  
-| bip_39_word_new_br7 | exclude<br>whip<br>token<br>able<br>word<br>senior<br>visa |  
-| bip_39_word_new_br8 | exclude<br>whip<br>token<br>able<br>word<br>senior<br>visa<br>junk |  
-| bip_39_word_new_br9 | exclude<br>whip<br>token<br>able<br>word<br>senior<br>visa<br>junk<br>burger |  
-| bip_39_word_new_line1 | exclude |  
-| bip_39_word_new_line10 | exclude
+| bip_39_word_new_br_1 | exclude |  
+| bip_39_word_new_br_10 | exclude<br>whip<br>token<br>able<br>word<br>senior<br>visa<br>junk<br>burger<br>total |  
+| bip_39_word_new_br_11 | exclude<br>whip<br>token<br>able<br>word<br>senior<br>visa<br>junk<br>burger<br>total<br>robust |  
+| bip_39_word_new_br_12 | exclude<br>whip<br>token<br>able<br>word<br>senior<br>visa<br>junk<br>burger<br>total<br>robust<br>asset |  
+| bip_39_word_new_br_2 | exclude<br>whip |  
+| bip_39_word_new_br_3 | exclude<br>whip<br>token |  
+| bip_39_word_new_br_4 | exclude<br>whip<br>token<br>able |  
+| bip_39_word_new_br_5 | exclude<br>whip<br>token<br>able<br>word |  
+| bip_39_word_new_br_6 | exclude<br>whip<br>token<br>able<br>word<br>senior |  
+| bip_39_word_new_br_7 | exclude<br>whip<br>token<br>able<br>word<br>senior<br>visa |  
+| bip_39_word_new_br_8 | exclude<br>whip<br>token<br>able<br>word<br>senior<br>visa<br>junk |  
+| bip_39_word_new_br_9 | exclude<br>whip<br>token<br>able<br>word<br>senior<br>visa<br>junk<br>burger |  
+| bip_39_word_new_line_1 | exclude |  
+| bip_39_word_new_line_10 | exclude
 whip
 token
 able
@@ -55,7 +55,7 @@ visa
 junk
 burger
 total |  
-| bip_39_word_new_line11 | exclude
+| bip_39_word_new_line_11 | exclude
 whip
 token
 able
@@ -66,7 +66,7 @@ junk
 burger
 total
 robust |  
-| bip_39_word_new_line12 | exclude
+| bip_39_word_new_line_12 | exclude
 whip
 token
 able
@@ -78,34 +78,34 @@ burger
 total
 robust
 asset |  
-| bip_39_word_new_line2 | exclude
+| bip_39_word_new_line_2 | exclude
 whip |  
-| bip_39_word_new_line3 | exclude
+| bip_39_word_new_line_3 | exclude
 whip
 token |  
-| bip_39_word_new_line4 | exclude
+| bip_39_word_new_line_4 | exclude
 whip
 token
 able |  
-| bip_39_word_new_line5 | exclude
+| bip_39_word_new_line_5 | exclude
 whip
 token
 able
 word |  
-| bip_39_word_new_line6 | exclude
+| bip_39_word_new_line_6 | exclude
 whip
 token
 able
 word
 senior |  
-| bip_39_word_new_line7 | exclude
+| bip_39_word_new_line_7 | exclude
 whip
 token
 able
 word
 senior
 visa |  
-| bip_39_word_new_line8 | exclude
+| bip_39_word_new_line_8 | exclude
 whip
 token
 able
@@ -113,7 +113,7 @@ word
 senior
 visa
 junk |  
-| bip_39_word_new_line9 | exclude
+| bip_39_word_new_line_9 | exclude
 whip
 token
 able

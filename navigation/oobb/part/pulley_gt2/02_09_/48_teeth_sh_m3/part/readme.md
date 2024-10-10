@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pen |  
-| bip_39_word_new_br10 | pen<br>flee<br>rally<br>trash<br>scrap<br>begin<br>myself<br>armed<br>actor<br>meadow |  
-| bip_39_word_new_br11 | pen<br>flee<br>rally<br>trash<br>scrap<br>begin<br>myself<br>armed<br>actor<br>meadow<br>puppy |  
-| bip_39_word_new_br12 | pen<br>flee<br>rally<br>trash<br>scrap<br>begin<br>myself<br>armed<br>actor<br>meadow<br>puppy<br>aerobic |  
-| bip_39_word_new_br2 | pen<br>flee |  
-| bip_39_word_new_br3 | pen<br>flee<br>rally |  
-| bip_39_word_new_br4 | pen<br>flee<br>rally<br>trash |  
-| bip_39_word_new_br5 | pen<br>flee<br>rally<br>trash<br>scrap |  
-| bip_39_word_new_br6 | pen<br>flee<br>rally<br>trash<br>scrap<br>begin |  
-| bip_39_word_new_br7 | pen<br>flee<br>rally<br>trash<br>scrap<br>begin<br>myself |  
-| bip_39_word_new_br8 | pen<br>flee<br>rally<br>trash<br>scrap<br>begin<br>myself<br>armed |  
-| bip_39_word_new_br9 | pen<br>flee<br>rally<br>trash<br>scrap<br>begin<br>myself<br>armed<br>actor |  
-| bip_39_word_new_line1 | pen |  
-| bip_39_word_new_line10 | pen
+| bip_39_word_new_br_1 | pen |  
+| bip_39_word_new_br_10 | pen<br>flee<br>rally<br>trash<br>scrap<br>begin<br>myself<br>armed<br>actor<br>meadow |  
+| bip_39_word_new_br_11 | pen<br>flee<br>rally<br>trash<br>scrap<br>begin<br>myself<br>armed<br>actor<br>meadow<br>puppy |  
+| bip_39_word_new_br_12 | pen<br>flee<br>rally<br>trash<br>scrap<br>begin<br>myself<br>armed<br>actor<br>meadow<br>puppy<br>aerobic |  
+| bip_39_word_new_br_2 | pen<br>flee |  
+| bip_39_word_new_br_3 | pen<br>flee<br>rally |  
+| bip_39_word_new_br_4 | pen<br>flee<br>rally<br>trash |  
+| bip_39_word_new_br_5 | pen<br>flee<br>rally<br>trash<br>scrap |  
+| bip_39_word_new_br_6 | pen<br>flee<br>rally<br>trash<br>scrap<br>begin |  
+| bip_39_word_new_br_7 | pen<br>flee<br>rally<br>trash<br>scrap<br>begin<br>myself |  
+| bip_39_word_new_br_8 | pen<br>flee<br>rally<br>trash<br>scrap<br>begin<br>myself<br>armed |  
+| bip_39_word_new_br_9 | pen<br>flee<br>rally<br>trash<br>scrap<br>begin<br>myself<br>armed<br>actor |  
+| bip_39_word_new_line_1 | pen |  
+| bip_39_word_new_line_10 | pen
 flee
 rally
 trash
@@ -55,7 +55,7 @@ myself
 armed
 actor
 meadow |  
-| bip_39_word_new_line11 | pen
+| bip_39_word_new_line_11 | pen
 flee
 rally
 trash
@@ -66,7 +66,7 @@ armed
 actor
 meadow
 puppy |  
-| bip_39_word_new_line12 | pen
+| bip_39_word_new_line_12 | pen
 flee
 rally
 trash
@@ -78,34 +78,34 @@ actor
 meadow
 puppy
 aerobic |  
-| bip_39_word_new_line2 | pen
+| bip_39_word_new_line_2 | pen
 flee |  
-| bip_39_word_new_line3 | pen
+| bip_39_word_new_line_3 | pen
 flee
 rally |  
-| bip_39_word_new_line4 | pen
+| bip_39_word_new_line_4 | pen
 flee
 rally
 trash |  
-| bip_39_word_new_line5 | pen
+| bip_39_word_new_line_5 | pen
 flee
 rally
 trash
 scrap |  
-| bip_39_word_new_line6 | pen
+| bip_39_word_new_line_6 | pen
 flee
 rally
 trash
 scrap
 begin |  
-| bip_39_word_new_line7 | pen
+| bip_39_word_new_line_7 | pen
 flee
 rally
 trash
 scrap
 begin
 myself |  
-| bip_39_word_new_line8 | pen
+| bip_39_word_new_line_8 | pen
 flee
 rally
 trash
@@ -113,7 +113,7 @@ scrap
 begin
 myself
 armed |  
-| bip_39_word_new_line9 | pen
+| bip_39_word_new_line_9 | pen
 flee
 rally
 trash

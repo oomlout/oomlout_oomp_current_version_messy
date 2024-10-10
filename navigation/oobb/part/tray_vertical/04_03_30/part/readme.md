@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | child |  
-| bip_39_word_new_br10 | child<br>ready<br>state<br>furnace<br>tail<br>hundred<br>artwork<br>tiny<br>hover<br>stage |  
-| bip_39_word_new_br11 | child<br>ready<br>state<br>furnace<br>tail<br>hundred<br>artwork<br>tiny<br>hover<br>stage<br>airport |  
-| bip_39_word_new_br12 | child<br>ready<br>state<br>furnace<br>tail<br>hundred<br>artwork<br>tiny<br>hover<br>stage<br>airport<br>antenna |  
-| bip_39_word_new_br2 | child<br>ready |  
-| bip_39_word_new_br3 | child<br>ready<br>state |  
-| bip_39_word_new_br4 | child<br>ready<br>state<br>furnace |  
-| bip_39_word_new_br5 | child<br>ready<br>state<br>furnace<br>tail |  
-| bip_39_word_new_br6 | child<br>ready<br>state<br>furnace<br>tail<br>hundred |  
-| bip_39_word_new_br7 | child<br>ready<br>state<br>furnace<br>tail<br>hundred<br>artwork |  
-| bip_39_word_new_br8 | child<br>ready<br>state<br>furnace<br>tail<br>hundred<br>artwork<br>tiny |  
-| bip_39_word_new_br9 | child<br>ready<br>state<br>furnace<br>tail<br>hundred<br>artwork<br>tiny<br>hover |  
-| bip_39_word_new_line1 | child |  
-| bip_39_word_new_line10 | child
+| bip_39_word_new_br_1 | child |  
+| bip_39_word_new_br_10 | child<br>ready<br>state<br>furnace<br>tail<br>hundred<br>artwork<br>tiny<br>hover<br>stage |  
+| bip_39_word_new_br_11 | child<br>ready<br>state<br>furnace<br>tail<br>hundred<br>artwork<br>tiny<br>hover<br>stage<br>airport |  
+| bip_39_word_new_br_12 | child<br>ready<br>state<br>furnace<br>tail<br>hundred<br>artwork<br>tiny<br>hover<br>stage<br>airport<br>antenna |  
+| bip_39_word_new_br_2 | child<br>ready |  
+| bip_39_word_new_br_3 | child<br>ready<br>state |  
+| bip_39_word_new_br_4 | child<br>ready<br>state<br>furnace |  
+| bip_39_word_new_br_5 | child<br>ready<br>state<br>furnace<br>tail |  
+| bip_39_word_new_br_6 | child<br>ready<br>state<br>furnace<br>tail<br>hundred |  
+| bip_39_word_new_br_7 | child<br>ready<br>state<br>furnace<br>tail<br>hundred<br>artwork |  
+| bip_39_word_new_br_8 | child<br>ready<br>state<br>furnace<br>tail<br>hundred<br>artwork<br>tiny |  
+| bip_39_word_new_br_9 | child<br>ready<br>state<br>furnace<br>tail<br>hundred<br>artwork<br>tiny<br>hover |  
+| bip_39_word_new_line_1 | child |  
+| bip_39_word_new_line_10 | child
 ready
 state
 furnace
@@ -55,7 +55,7 @@ artwork
 tiny
 hover
 stage |  
-| bip_39_word_new_line11 | child
+| bip_39_word_new_line_11 | child
 ready
 state
 furnace
@@ -66,7 +66,7 @@ tiny
 hover
 stage
 airport |  
-| bip_39_word_new_line12 | child
+| bip_39_word_new_line_12 | child
 ready
 state
 furnace
@@ -78,34 +78,34 @@ hover
 stage
 airport
 antenna |  
-| bip_39_word_new_line2 | child
+| bip_39_word_new_line_2 | child
 ready |  
-| bip_39_word_new_line3 | child
+| bip_39_word_new_line_3 | child
 ready
 state |  
-| bip_39_word_new_line4 | child
+| bip_39_word_new_line_4 | child
 ready
 state
 furnace |  
-| bip_39_word_new_line5 | child
+| bip_39_word_new_line_5 | child
 ready
 state
 furnace
 tail |  
-| bip_39_word_new_line6 | child
+| bip_39_word_new_line_6 | child
 ready
 state
 furnace
 tail
 hundred |  
-| bip_39_word_new_line7 | child
+| bip_39_word_new_line_7 | child
 ready
 state
 furnace
 tail
 hundred
 artwork |  
-| bip_39_word_new_line8 | child
+| bip_39_word_new_line_8 | child
 ready
 state
 furnace
@@ -113,7 +113,7 @@ tail
 hundred
 artwork
 tiny |  
-| bip_39_word_new_line9 | child
+| bip_39_word_new_line_9 | child
 ready
 state
 furnace

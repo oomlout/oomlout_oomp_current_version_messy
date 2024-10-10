@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bracket |  
-| bip_39_word_new_br10 | bracket<br>develop<br>pony<br>immense<br>cover<br>silly<br>few<br>erupt<br>tonight<br>they |  
-| bip_39_word_new_br11 | bracket<br>develop<br>pony<br>immense<br>cover<br>silly<br>few<br>erupt<br>tonight<br>they<br>ribbon |  
-| bip_39_word_new_br12 | bracket<br>develop<br>pony<br>immense<br>cover<br>silly<br>few<br>erupt<br>tonight<br>they<br>ribbon<br>auto |  
-| bip_39_word_new_br2 | bracket<br>develop |  
-| bip_39_word_new_br3 | bracket<br>develop<br>pony |  
-| bip_39_word_new_br4 | bracket<br>develop<br>pony<br>immense |  
-| bip_39_word_new_br5 | bracket<br>develop<br>pony<br>immense<br>cover |  
-| bip_39_word_new_br6 | bracket<br>develop<br>pony<br>immense<br>cover<br>silly |  
-| bip_39_word_new_br7 | bracket<br>develop<br>pony<br>immense<br>cover<br>silly<br>few |  
-| bip_39_word_new_br8 | bracket<br>develop<br>pony<br>immense<br>cover<br>silly<br>few<br>erupt |  
-| bip_39_word_new_br9 | bracket<br>develop<br>pony<br>immense<br>cover<br>silly<br>few<br>erupt<br>tonight |  
-| bip_39_word_new_line1 | bracket |  
-| bip_39_word_new_line10 | bracket
+| bip_39_word_new_br_1 | bracket |  
+| bip_39_word_new_br_10 | bracket<br>develop<br>pony<br>immense<br>cover<br>silly<br>few<br>erupt<br>tonight<br>they |  
+| bip_39_word_new_br_11 | bracket<br>develop<br>pony<br>immense<br>cover<br>silly<br>few<br>erupt<br>tonight<br>they<br>ribbon |  
+| bip_39_word_new_br_12 | bracket<br>develop<br>pony<br>immense<br>cover<br>silly<br>few<br>erupt<br>tonight<br>they<br>ribbon<br>auto |  
+| bip_39_word_new_br_2 | bracket<br>develop |  
+| bip_39_word_new_br_3 | bracket<br>develop<br>pony |  
+| bip_39_word_new_br_4 | bracket<br>develop<br>pony<br>immense |  
+| bip_39_word_new_br_5 | bracket<br>develop<br>pony<br>immense<br>cover |  
+| bip_39_word_new_br_6 | bracket<br>develop<br>pony<br>immense<br>cover<br>silly |  
+| bip_39_word_new_br_7 | bracket<br>develop<br>pony<br>immense<br>cover<br>silly<br>few |  
+| bip_39_word_new_br_8 | bracket<br>develop<br>pony<br>immense<br>cover<br>silly<br>few<br>erupt |  
+| bip_39_word_new_br_9 | bracket<br>develop<br>pony<br>immense<br>cover<br>silly<br>few<br>erupt<br>tonight |  
+| bip_39_word_new_line_1 | bracket |  
+| bip_39_word_new_line_10 | bracket
 develop
 pony
 immense
@@ -55,7 +55,7 @@ few
 erupt
 tonight
 they |  
-| bip_39_word_new_line11 | bracket
+| bip_39_word_new_line_11 | bracket
 develop
 pony
 immense
@@ -66,7 +66,7 @@ erupt
 tonight
 they
 ribbon |  
-| bip_39_word_new_line12 | bracket
+| bip_39_word_new_line_12 | bracket
 develop
 pony
 immense
@@ -78,34 +78,34 @@ tonight
 they
 ribbon
 auto |  
-| bip_39_word_new_line2 | bracket
+| bip_39_word_new_line_2 | bracket
 develop |  
-| bip_39_word_new_line3 | bracket
+| bip_39_word_new_line_3 | bracket
 develop
 pony |  
-| bip_39_word_new_line4 | bracket
+| bip_39_word_new_line_4 | bracket
 develop
 pony
 immense |  
-| bip_39_word_new_line5 | bracket
+| bip_39_word_new_line_5 | bracket
 develop
 pony
 immense
 cover |  
-| bip_39_word_new_line6 | bracket
+| bip_39_word_new_line_6 | bracket
 develop
 pony
 immense
 cover
 silly |  
-| bip_39_word_new_line7 | bracket
+| bip_39_word_new_line_7 | bracket
 develop
 pony
 immense
 cover
 silly
 few |  
-| bip_39_word_new_line8 | bracket
+| bip_39_word_new_line_8 | bracket
 develop
 pony
 immense
@@ -113,7 +113,7 @@ cover
 silly
 few
 erupt |  
-| bip_39_word_new_line9 | bracket
+| bip_39_word_new_line_9 | bracket
 develop
 pony
 immense

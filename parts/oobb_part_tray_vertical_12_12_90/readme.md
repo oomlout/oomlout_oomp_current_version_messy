@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | buddy |  
-| bip_39_word_new_br10 | buddy<br>logic<br>nasty<br>job<br>crater<br>inch<br>media<br>mercy<br>shield<br>brown |  
-| bip_39_word_new_br11 | buddy<br>logic<br>nasty<br>job<br>crater<br>inch<br>media<br>mercy<br>shield<br>brown<br>corn |  
-| bip_39_word_new_br12 | buddy<br>logic<br>nasty<br>job<br>crater<br>inch<br>media<br>mercy<br>shield<br>brown<br>corn<br>actor |  
-| bip_39_word_new_br2 | buddy<br>logic |  
-| bip_39_word_new_br3 | buddy<br>logic<br>nasty |  
-| bip_39_word_new_br4 | buddy<br>logic<br>nasty<br>job |  
-| bip_39_word_new_br5 | buddy<br>logic<br>nasty<br>job<br>crater |  
-| bip_39_word_new_br6 | buddy<br>logic<br>nasty<br>job<br>crater<br>inch |  
-| bip_39_word_new_br7 | buddy<br>logic<br>nasty<br>job<br>crater<br>inch<br>media |  
-| bip_39_word_new_br8 | buddy<br>logic<br>nasty<br>job<br>crater<br>inch<br>media<br>mercy |  
-| bip_39_word_new_br9 | buddy<br>logic<br>nasty<br>job<br>crater<br>inch<br>media<br>mercy<br>shield |  
-| bip_39_word_new_line1 | buddy |  
-| bip_39_word_new_line10 | buddy
+| bip_39_word_new_br_1 | buddy |  
+| bip_39_word_new_br_10 | buddy<br>logic<br>nasty<br>job<br>crater<br>inch<br>media<br>mercy<br>shield<br>brown |  
+| bip_39_word_new_br_11 | buddy<br>logic<br>nasty<br>job<br>crater<br>inch<br>media<br>mercy<br>shield<br>brown<br>corn |  
+| bip_39_word_new_br_12 | buddy<br>logic<br>nasty<br>job<br>crater<br>inch<br>media<br>mercy<br>shield<br>brown<br>corn<br>actor |  
+| bip_39_word_new_br_2 | buddy<br>logic |  
+| bip_39_word_new_br_3 | buddy<br>logic<br>nasty |  
+| bip_39_word_new_br_4 | buddy<br>logic<br>nasty<br>job |  
+| bip_39_word_new_br_5 | buddy<br>logic<br>nasty<br>job<br>crater |  
+| bip_39_word_new_br_6 | buddy<br>logic<br>nasty<br>job<br>crater<br>inch |  
+| bip_39_word_new_br_7 | buddy<br>logic<br>nasty<br>job<br>crater<br>inch<br>media |  
+| bip_39_word_new_br_8 | buddy<br>logic<br>nasty<br>job<br>crater<br>inch<br>media<br>mercy |  
+| bip_39_word_new_br_9 | buddy<br>logic<br>nasty<br>job<br>crater<br>inch<br>media<br>mercy<br>shield |  
+| bip_39_word_new_line_1 | buddy |  
+| bip_39_word_new_line_10 | buddy
 logic
 nasty
 job
@@ -55,7 +55,7 @@ media
 mercy
 shield
 brown |  
-| bip_39_word_new_line11 | buddy
+| bip_39_word_new_line_11 | buddy
 logic
 nasty
 job
@@ -66,7 +66,7 @@ mercy
 shield
 brown
 corn |  
-| bip_39_word_new_line12 | buddy
+| bip_39_word_new_line_12 | buddy
 logic
 nasty
 job
@@ -78,34 +78,34 @@ shield
 brown
 corn
 actor |  
-| bip_39_word_new_line2 | buddy
+| bip_39_word_new_line_2 | buddy
 logic |  
-| bip_39_word_new_line3 | buddy
+| bip_39_word_new_line_3 | buddy
 logic
 nasty |  
-| bip_39_word_new_line4 | buddy
+| bip_39_word_new_line_4 | buddy
 logic
 nasty
 job |  
-| bip_39_word_new_line5 | buddy
+| bip_39_word_new_line_5 | buddy
 logic
 nasty
 job
 crater |  
-| bip_39_word_new_line6 | buddy
+| bip_39_word_new_line_6 | buddy
 logic
 nasty
 job
 crater
 inch |  
-| bip_39_word_new_line7 | buddy
+| bip_39_word_new_line_7 | buddy
 logic
 nasty
 job
 crater
 inch
 media |  
-| bip_39_word_new_line8 | buddy
+| bip_39_word_new_line_8 | buddy
 logic
 nasty
 job
@@ -113,7 +113,7 @@ crater
 inch
 media
 mercy |  
-| bip_39_word_new_line9 | buddy
+| bip_39_word_new_line_9 | buddy
 logic
 nasty
 job

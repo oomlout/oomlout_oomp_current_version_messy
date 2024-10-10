@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | tiny |  
-| bip_39_word_new_br10 | tiny<br>coconut<br>delay<br>void<br>double<br>talk<br>now<br>own<br>state<br>floor |  
-| bip_39_word_new_br11 | tiny<br>coconut<br>delay<br>void<br>double<br>talk<br>now<br>own<br>state<br>floor<br>split |  
-| bip_39_word_new_br12 | tiny<br>coconut<br>delay<br>void<br>double<br>talk<br>now<br>own<br>state<br>floor<br>split<br>admit |  
-| bip_39_word_new_br2 | tiny<br>coconut |  
-| bip_39_word_new_br3 | tiny<br>coconut<br>delay |  
-| bip_39_word_new_br4 | tiny<br>coconut<br>delay<br>void |  
-| bip_39_word_new_br5 | tiny<br>coconut<br>delay<br>void<br>double |  
-| bip_39_word_new_br6 | tiny<br>coconut<br>delay<br>void<br>double<br>talk |  
-| bip_39_word_new_br7 | tiny<br>coconut<br>delay<br>void<br>double<br>talk<br>now |  
-| bip_39_word_new_br8 | tiny<br>coconut<br>delay<br>void<br>double<br>talk<br>now<br>own |  
-| bip_39_word_new_br9 | tiny<br>coconut<br>delay<br>void<br>double<br>talk<br>now<br>own<br>state |  
-| bip_39_word_new_line1 | tiny |  
-| bip_39_word_new_line10 | tiny
+| bip_39_word_new_br_1 | tiny |  
+| bip_39_word_new_br_10 | tiny<br>coconut<br>delay<br>void<br>double<br>talk<br>now<br>own<br>state<br>floor |  
+| bip_39_word_new_br_11 | tiny<br>coconut<br>delay<br>void<br>double<br>talk<br>now<br>own<br>state<br>floor<br>split |  
+| bip_39_word_new_br_12 | tiny<br>coconut<br>delay<br>void<br>double<br>talk<br>now<br>own<br>state<br>floor<br>split<br>admit |  
+| bip_39_word_new_br_2 | tiny<br>coconut |  
+| bip_39_word_new_br_3 | tiny<br>coconut<br>delay |  
+| bip_39_word_new_br_4 | tiny<br>coconut<br>delay<br>void |  
+| bip_39_word_new_br_5 | tiny<br>coconut<br>delay<br>void<br>double |  
+| bip_39_word_new_br_6 | tiny<br>coconut<br>delay<br>void<br>double<br>talk |  
+| bip_39_word_new_br_7 | tiny<br>coconut<br>delay<br>void<br>double<br>talk<br>now |  
+| bip_39_word_new_br_8 | tiny<br>coconut<br>delay<br>void<br>double<br>talk<br>now<br>own |  
+| bip_39_word_new_br_9 | tiny<br>coconut<br>delay<br>void<br>double<br>talk<br>now<br>own<br>state |  
+| bip_39_word_new_line_1 | tiny |  
+| bip_39_word_new_line_10 | tiny
 coconut
 delay
 void
@@ -55,7 +55,7 @@ now
 own
 state
 floor |  
-| bip_39_word_new_line11 | tiny
+| bip_39_word_new_line_11 | tiny
 coconut
 delay
 void
@@ -66,7 +66,7 @@ own
 state
 floor
 split |  
-| bip_39_word_new_line12 | tiny
+| bip_39_word_new_line_12 | tiny
 coconut
 delay
 void
@@ -78,34 +78,34 @@ state
 floor
 split
 admit |  
-| bip_39_word_new_line2 | tiny
+| bip_39_word_new_line_2 | tiny
 coconut |  
-| bip_39_word_new_line3 | tiny
+| bip_39_word_new_line_3 | tiny
 coconut
 delay |  
-| bip_39_word_new_line4 | tiny
+| bip_39_word_new_line_4 | tiny
 coconut
 delay
 void |  
-| bip_39_word_new_line5 | tiny
+| bip_39_word_new_line_5 | tiny
 coconut
 delay
 void
 double |  
-| bip_39_word_new_line6 | tiny
+| bip_39_word_new_line_6 | tiny
 coconut
 delay
 void
 double
 talk |  
-| bip_39_word_new_line7 | tiny
+| bip_39_word_new_line_7 | tiny
 coconut
 delay
 void
 double
 talk
 now |  
-| bip_39_word_new_line8 | tiny
+| bip_39_word_new_line_8 | tiny
 coconut
 delay
 void
@@ -113,7 +113,7 @@ double
 talk
 now
 own |  
-| bip_39_word_new_line9 | tiny
+| bip_39_word_new_line_9 | tiny
 coconut
 delay
 void

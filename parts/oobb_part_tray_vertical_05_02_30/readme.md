@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | deny |  
-| bip_39_word_new_br10 | deny<br>exit<br>injury<br>abuse<br>yellow<br>tip<br>shiver<br>there<br>hand<br>gather |  
-| bip_39_word_new_br11 | deny<br>exit<br>injury<br>abuse<br>yellow<br>tip<br>shiver<br>there<br>hand<br>gather<br>man |  
-| bip_39_word_new_br12 | deny<br>exit<br>injury<br>abuse<br>yellow<br>tip<br>shiver<br>there<br>hand<br>gather<br>man<br>artist |  
-| bip_39_word_new_br2 | deny<br>exit |  
-| bip_39_word_new_br3 | deny<br>exit<br>injury |  
-| bip_39_word_new_br4 | deny<br>exit<br>injury<br>abuse |  
-| bip_39_word_new_br5 | deny<br>exit<br>injury<br>abuse<br>yellow |  
-| bip_39_word_new_br6 | deny<br>exit<br>injury<br>abuse<br>yellow<br>tip |  
-| bip_39_word_new_br7 | deny<br>exit<br>injury<br>abuse<br>yellow<br>tip<br>shiver |  
-| bip_39_word_new_br8 | deny<br>exit<br>injury<br>abuse<br>yellow<br>tip<br>shiver<br>there |  
-| bip_39_word_new_br9 | deny<br>exit<br>injury<br>abuse<br>yellow<br>tip<br>shiver<br>there<br>hand |  
-| bip_39_word_new_line1 | deny |  
-| bip_39_word_new_line10 | deny
+| bip_39_word_new_br_1 | deny |  
+| bip_39_word_new_br_10 | deny<br>exit<br>injury<br>abuse<br>yellow<br>tip<br>shiver<br>there<br>hand<br>gather |  
+| bip_39_word_new_br_11 | deny<br>exit<br>injury<br>abuse<br>yellow<br>tip<br>shiver<br>there<br>hand<br>gather<br>man |  
+| bip_39_word_new_br_12 | deny<br>exit<br>injury<br>abuse<br>yellow<br>tip<br>shiver<br>there<br>hand<br>gather<br>man<br>artist |  
+| bip_39_word_new_br_2 | deny<br>exit |  
+| bip_39_word_new_br_3 | deny<br>exit<br>injury |  
+| bip_39_word_new_br_4 | deny<br>exit<br>injury<br>abuse |  
+| bip_39_word_new_br_5 | deny<br>exit<br>injury<br>abuse<br>yellow |  
+| bip_39_word_new_br_6 | deny<br>exit<br>injury<br>abuse<br>yellow<br>tip |  
+| bip_39_word_new_br_7 | deny<br>exit<br>injury<br>abuse<br>yellow<br>tip<br>shiver |  
+| bip_39_word_new_br_8 | deny<br>exit<br>injury<br>abuse<br>yellow<br>tip<br>shiver<br>there |  
+| bip_39_word_new_br_9 | deny<br>exit<br>injury<br>abuse<br>yellow<br>tip<br>shiver<br>there<br>hand |  
+| bip_39_word_new_line_1 | deny |  
+| bip_39_word_new_line_10 | deny
 exit
 injury
 abuse
@@ -55,7 +55,7 @@ shiver
 there
 hand
 gather |  
-| bip_39_word_new_line11 | deny
+| bip_39_word_new_line_11 | deny
 exit
 injury
 abuse
@@ -66,7 +66,7 @@ there
 hand
 gather
 man |  
-| bip_39_word_new_line12 | deny
+| bip_39_word_new_line_12 | deny
 exit
 injury
 abuse
@@ -78,34 +78,34 @@ hand
 gather
 man
 artist |  
-| bip_39_word_new_line2 | deny
+| bip_39_word_new_line_2 | deny
 exit |  
-| bip_39_word_new_line3 | deny
+| bip_39_word_new_line_3 | deny
 exit
 injury |  
-| bip_39_word_new_line4 | deny
+| bip_39_word_new_line_4 | deny
 exit
 injury
 abuse |  
-| bip_39_word_new_line5 | deny
+| bip_39_word_new_line_5 | deny
 exit
 injury
 abuse
 yellow |  
-| bip_39_word_new_line6 | deny
+| bip_39_word_new_line_6 | deny
 exit
 injury
 abuse
 yellow
 tip |  
-| bip_39_word_new_line7 | deny
+| bip_39_word_new_line_7 | deny
 exit
 injury
 abuse
 yellow
 tip
 shiver |  
-| bip_39_word_new_line8 | deny
+| bip_39_word_new_line_8 | deny
 exit
 injury
 abuse
@@ -113,7 +113,7 @@ yellow
 tip
 shiver
 there |  
-| bip_39_word_new_line9 | deny
+| bip_39_word_new_line_9 | deny
 exit
 injury
 abuse

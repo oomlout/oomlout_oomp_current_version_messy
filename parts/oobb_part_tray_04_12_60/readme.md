@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | glance |  
-| bip_39_word_new_br10 | glance<br>wink<br>misery<br>female<br>swing<br>remove<br>heavy<br>mutual<br>remove<br>shift |  
-| bip_39_word_new_br11 | glance<br>wink<br>misery<br>female<br>swing<br>remove<br>heavy<br>mutual<br>remove<br>shift<br>chaos |  
-| bip_39_word_new_br12 | glance<br>wink<br>misery<br>female<br>swing<br>remove<br>heavy<br>mutual<br>remove<br>shift<br>chaos<br>antenna |  
-| bip_39_word_new_br2 | glance<br>wink |  
-| bip_39_word_new_br3 | glance<br>wink<br>misery |  
-| bip_39_word_new_br4 | glance<br>wink<br>misery<br>female |  
-| bip_39_word_new_br5 | glance<br>wink<br>misery<br>female<br>swing |  
-| bip_39_word_new_br6 | glance<br>wink<br>misery<br>female<br>swing<br>remove |  
-| bip_39_word_new_br7 | glance<br>wink<br>misery<br>female<br>swing<br>remove<br>heavy |  
-| bip_39_word_new_br8 | glance<br>wink<br>misery<br>female<br>swing<br>remove<br>heavy<br>mutual |  
-| bip_39_word_new_br9 | glance<br>wink<br>misery<br>female<br>swing<br>remove<br>heavy<br>mutual<br>remove |  
-| bip_39_word_new_line1 | glance |  
-| bip_39_word_new_line10 | glance
+| bip_39_word_new_br_1 | glance |  
+| bip_39_word_new_br_10 | glance<br>wink<br>misery<br>female<br>swing<br>remove<br>heavy<br>mutual<br>remove<br>shift |  
+| bip_39_word_new_br_11 | glance<br>wink<br>misery<br>female<br>swing<br>remove<br>heavy<br>mutual<br>remove<br>shift<br>chaos |  
+| bip_39_word_new_br_12 | glance<br>wink<br>misery<br>female<br>swing<br>remove<br>heavy<br>mutual<br>remove<br>shift<br>chaos<br>antenna |  
+| bip_39_word_new_br_2 | glance<br>wink |  
+| bip_39_word_new_br_3 | glance<br>wink<br>misery |  
+| bip_39_word_new_br_4 | glance<br>wink<br>misery<br>female |  
+| bip_39_word_new_br_5 | glance<br>wink<br>misery<br>female<br>swing |  
+| bip_39_word_new_br_6 | glance<br>wink<br>misery<br>female<br>swing<br>remove |  
+| bip_39_word_new_br_7 | glance<br>wink<br>misery<br>female<br>swing<br>remove<br>heavy |  
+| bip_39_word_new_br_8 | glance<br>wink<br>misery<br>female<br>swing<br>remove<br>heavy<br>mutual |  
+| bip_39_word_new_br_9 | glance<br>wink<br>misery<br>female<br>swing<br>remove<br>heavy<br>mutual<br>remove |  
+| bip_39_word_new_line_1 | glance |  
+| bip_39_word_new_line_10 | glance
 wink
 misery
 female
@@ -55,7 +55,7 @@ heavy
 mutual
 remove
 shift |  
-| bip_39_word_new_line11 | glance
+| bip_39_word_new_line_11 | glance
 wink
 misery
 female
@@ -66,7 +66,7 @@ mutual
 remove
 shift
 chaos |  
-| bip_39_word_new_line12 | glance
+| bip_39_word_new_line_12 | glance
 wink
 misery
 female
@@ -78,34 +78,34 @@ remove
 shift
 chaos
 antenna |  
-| bip_39_word_new_line2 | glance
+| bip_39_word_new_line_2 | glance
 wink |  
-| bip_39_word_new_line3 | glance
+| bip_39_word_new_line_3 | glance
 wink
 misery |  
-| bip_39_word_new_line4 | glance
+| bip_39_word_new_line_4 | glance
 wink
 misery
 female |  
-| bip_39_word_new_line5 | glance
+| bip_39_word_new_line_5 | glance
 wink
 misery
 female
 swing |  
-| bip_39_word_new_line6 | glance
+| bip_39_word_new_line_6 | glance
 wink
 misery
 female
 swing
 remove |  
-| bip_39_word_new_line7 | glance
+| bip_39_word_new_line_7 | glance
 wink
 misery
 female
 swing
 remove
 heavy |  
-| bip_39_word_new_line8 | glance
+| bip_39_word_new_line_8 | glance
 wink
 misery
 female
@@ -113,7 +113,7 @@ swing
 remove
 heavy
 mutual |  
-| bip_39_word_new_line9 | glance
+| bip_39_word_new_line_9 | glance
 wink
 misery
 female

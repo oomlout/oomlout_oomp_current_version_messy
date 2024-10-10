@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | world |  
-| bip_39_word_new_br10 | world<br>lunar<br>alcohol<br>diagram<br>fork<br>cart<br>unveil<br>among<br>gentle<br>magic |  
-| bip_39_word_new_br11 | world<br>lunar<br>alcohol<br>diagram<br>fork<br>cart<br>unveil<br>among<br>gentle<br>magic<br>sunny |  
-| bip_39_word_new_br12 | world<br>lunar<br>alcohol<br>diagram<br>fork<br>cart<br>unveil<br>among<br>gentle<br>magic<br>sunny<br>absurd |  
-| bip_39_word_new_br2 | world<br>lunar |  
-| bip_39_word_new_br3 | world<br>lunar<br>alcohol |  
-| bip_39_word_new_br4 | world<br>lunar<br>alcohol<br>diagram |  
-| bip_39_word_new_br5 | world<br>lunar<br>alcohol<br>diagram<br>fork |  
-| bip_39_word_new_br6 | world<br>lunar<br>alcohol<br>diagram<br>fork<br>cart |  
-| bip_39_word_new_br7 | world<br>lunar<br>alcohol<br>diagram<br>fork<br>cart<br>unveil |  
-| bip_39_word_new_br8 | world<br>lunar<br>alcohol<br>diagram<br>fork<br>cart<br>unveil<br>among |  
-| bip_39_word_new_br9 | world<br>lunar<br>alcohol<br>diagram<br>fork<br>cart<br>unveil<br>among<br>gentle |  
-| bip_39_word_new_line1 | world |  
-| bip_39_word_new_line10 | world
+| bip_39_word_new_br_1 | world |  
+| bip_39_word_new_br_10 | world<br>lunar<br>alcohol<br>diagram<br>fork<br>cart<br>unveil<br>among<br>gentle<br>magic |  
+| bip_39_word_new_br_11 | world<br>lunar<br>alcohol<br>diagram<br>fork<br>cart<br>unveil<br>among<br>gentle<br>magic<br>sunny |  
+| bip_39_word_new_br_12 | world<br>lunar<br>alcohol<br>diagram<br>fork<br>cart<br>unveil<br>among<br>gentle<br>magic<br>sunny<br>absurd |  
+| bip_39_word_new_br_2 | world<br>lunar |  
+| bip_39_word_new_br_3 | world<br>lunar<br>alcohol |  
+| bip_39_word_new_br_4 | world<br>lunar<br>alcohol<br>diagram |  
+| bip_39_word_new_br_5 | world<br>lunar<br>alcohol<br>diagram<br>fork |  
+| bip_39_word_new_br_6 | world<br>lunar<br>alcohol<br>diagram<br>fork<br>cart |  
+| bip_39_word_new_br_7 | world<br>lunar<br>alcohol<br>diagram<br>fork<br>cart<br>unveil |  
+| bip_39_word_new_br_8 | world<br>lunar<br>alcohol<br>diagram<br>fork<br>cart<br>unveil<br>among |  
+| bip_39_word_new_br_9 | world<br>lunar<br>alcohol<br>diagram<br>fork<br>cart<br>unveil<br>among<br>gentle |  
+| bip_39_word_new_line_1 | world |  
+| bip_39_word_new_line_10 | world
 lunar
 alcohol
 diagram
@@ -55,7 +55,7 @@ unveil
 among
 gentle
 magic |  
-| bip_39_word_new_line11 | world
+| bip_39_word_new_line_11 | world
 lunar
 alcohol
 diagram
@@ -66,7 +66,7 @@ among
 gentle
 magic
 sunny |  
-| bip_39_word_new_line12 | world
+| bip_39_word_new_line_12 | world
 lunar
 alcohol
 diagram
@@ -78,34 +78,34 @@ gentle
 magic
 sunny
 absurd |  
-| bip_39_word_new_line2 | world
+| bip_39_word_new_line_2 | world
 lunar |  
-| bip_39_word_new_line3 | world
+| bip_39_word_new_line_3 | world
 lunar
 alcohol |  
-| bip_39_word_new_line4 | world
+| bip_39_word_new_line_4 | world
 lunar
 alcohol
 diagram |  
-| bip_39_word_new_line5 | world
+| bip_39_word_new_line_5 | world
 lunar
 alcohol
 diagram
 fork |  
-| bip_39_word_new_line6 | world
+| bip_39_word_new_line_6 | world
 lunar
 alcohol
 diagram
 fork
 cart |  
-| bip_39_word_new_line7 | world
+| bip_39_word_new_line_7 | world
 lunar
 alcohol
 diagram
 fork
 cart
 unveil |  
-| bip_39_word_new_line8 | world
+| bip_39_word_new_line_8 | world
 lunar
 alcohol
 diagram
@@ -113,7 +113,7 @@ fork
 cart
 unveil
 among |  
-| bip_39_word_new_line9 | world
+| bip_39_word_new_line_9 | world
 lunar
 alcohol
 diagram

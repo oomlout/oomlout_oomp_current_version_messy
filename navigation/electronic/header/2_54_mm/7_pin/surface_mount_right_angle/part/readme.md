@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | laptop |  
-| bip_39_word_new_br10 | laptop<br>minor<br>purse<br>rabbit<br>sock<br>point<br>movie<br>practice<br>attract<br>cruel |  
-| bip_39_word_new_br11 | laptop<br>minor<br>purse<br>rabbit<br>sock<br>point<br>movie<br>practice<br>attract<br>cruel<br>tree |  
-| bip_39_word_new_br12 | laptop<br>minor<br>purse<br>rabbit<br>sock<br>point<br>movie<br>practice<br>attract<br>cruel<br>tree<br>alarm |  
-| bip_39_word_new_br2 | laptop<br>minor |  
-| bip_39_word_new_br3 | laptop<br>minor<br>purse |  
-| bip_39_word_new_br4 | laptop<br>minor<br>purse<br>rabbit |  
-| bip_39_word_new_br5 | laptop<br>minor<br>purse<br>rabbit<br>sock |  
-| bip_39_word_new_br6 | laptop<br>minor<br>purse<br>rabbit<br>sock<br>point |  
-| bip_39_word_new_br7 | laptop<br>minor<br>purse<br>rabbit<br>sock<br>point<br>movie |  
-| bip_39_word_new_br8 | laptop<br>minor<br>purse<br>rabbit<br>sock<br>point<br>movie<br>practice |  
-| bip_39_word_new_br9 | laptop<br>minor<br>purse<br>rabbit<br>sock<br>point<br>movie<br>practice<br>attract |  
-| bip_39_word_new_line1 | laptop |  
-| bip_39_word_new_line10 | laptop
+| bip_39_word_new_br_1 | laptop |  
+| bip_39_word_new_br_10 | laptop<br>minor<br>purse<br>rabbit<br>sock<br>point<br>movie<br>practice<br>attract<br>cruel |  
+| bip_39_word_new_br_11 | laptop<br>minor<br>purse<br>rabbit<br>sock<br>point<br>movie<br>practice<br>attract<br>cruel<br>tree |  
+| bip_39_word_new_br_12 | laptop<br>minor<br>purse<br>rabbit<br>sock<br>point<br>movie<br>practice<br>attract<br>cruel<br>tree<br>alarm |  
+| bip_39_word_new_br_2 | laptop<br>minor |  
+| bip_39_word_new_br_3 | laptop<br>minor<br>purse |  
+| bip_39_word_new_br_4 | laptop<br>minor<br>purse<br>rabbit |  
+| bip_39_word_new_br_5 | laptop<br>minor<br>purse<br>rabbit<br>sock |  
+| bip_39_word_new_br_6 | laptop<br>minor<br>purse<br>rabbit<br>sock<br>point |  
+| bip_39_word_new_br_7 | laptop<br>minor<br>purse<br>rabbit<br>sock<br>point<br>movie |  
+| bip_39_word_new_br_8 | laptop<br>minor<br>purse<br>rabbit<br>sock<br>point<br>movie<br>practice |  
+| bip_39_word_new_br_9 | laptop<br>minor<br>purse<br>rabbit<br>sock<br>point<br>movie<br>practice<br>attract |  
+| bip_39_word_new_line_1 | laptop |  
+| bip_39_word_new_line_10 | laptop
 minor
 purse
 rabbit
@@ -55,7 +55,7 @@ movie
 practice
 attract
 cruel |  
-| bip_39_word_new_line11 | laptop
+| bip_39_word_new_line_11 | laptop
 minor
 purse
 rabbit
@@ -66,7 +66,7 @@ practice
 attract
 cruel
 tree |  
-| bip_39_word_new_line12 | laptop
+| bip_39_word_new_line_12 | laptop
 minor
 purse
 rabbit
@@ -78,34 +78,34 @@ attract
 cruel
 tree
 alarm |  
-| bip_39_word_new_line2 | laptop
+| bip_39_word_new_line_2 | laptop
 minor |  
-| bip_39_word_new_line3 | laptop
+| bip_39_word_new_line_3 | laptop
 minor
 purse |  
-| bip_39_word_new_line4 | laptop
+| bip_39_word_new_line_4 | laptop
 minor
 purse
 rabbit |  
-| bip_39_word_new_line5 | laptop
+| bip_39_word_new_line_5 | laptop
 minor
 purse
 rabbit
 sock |  
-| bip_39_word_new_line6 | laptop
+| bip_39_word_new_line_6 | laptop
 minor
 purse
 rabbit
 sock
 point |  
-| bip_39_word_new_line7 | laptop
+| bip_39_word_new_line_7 | laptop
 minor
 purse
 rabbit
 sock
 point
 movie |  
-| bip_39_word_new_line8 | laptop
+| bip_39_word_new_line_8 | laptop
 minor
 purse
 rabbit
@@ -113,7 +113,7 @@ sock
 point
 movie
 practice |  
-| bip_39_word_new_line9 | laptop
+| bip_39_word_new_line_9 | laptop
 minor
 purse
 rabbit

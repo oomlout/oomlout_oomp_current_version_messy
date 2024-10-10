@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | device |  
-| bip_39_word_new_br10 | device<br>rotate<br>pony<br>text<br>call<br>use<br>test<br>tornado<br>garbage<br>sponsor |  
-| bip_39_word_new_br11 | device<br>rotate<br>pony<br>text<br>call<br>use<br>test<br>tornado<br>garbage<br>sponsor<br>vast |  
-| bip_39_word_new_br12 | device<br>rotate<br>pony<br>text<br>call<br>use<br>test<br>tornado<br>garbage<br>sponsor<br>vast<br>ancient |  
-| bip_39_word_new_br2 | device<br>rotate |  
-| bip_39_word_new_br3 | device<br>rotate<br>pony |  
-| bip_39_word_new_br4 | device<br>rotate<br>pony<br>text |  
-| bip_39_word_new_br5 | device<br>rotate<br>pony<br>text<br>call |  
-| bip_39_word_new_br6 | device<br>rotate<br>pony<br>text<br>call<br>use |  
-| bip_39_word_new_br7 | device<br>rotate<br>pony<br>text<br>call<br>use<br>test |  
-| bip_39_word_new_br8 | device<br>rotate<br>pony<br>text<br>call<br>use<br>test<br>tornado |  
-| bip_39_word_new_br9 | device<br>rotate<br>pony<br>text<br>call<br>use<br>test<br>tornado<br>garbage |  
-| bip_39_word_new_line1 | device |  
-| bip_39_word_new_line10 | device
+| bip_39_word_new_br_1 | device |  
+| bip_39_word_new_br_10 | device<br>rotate<br>pony<br>text<br>call<br>use<br>test<br>tornado<br>garbage<br>sponsor |  
+| bip_39_word_new_br_11 | device<br>rotate<br>pony<br>text<br>call<br>use<br>test<br>tornado<br>garbage<br>sponsor<br>vast |  
+| bip_39_word_new_br_12 | device<br>rotate<br>pony<br>text<br>call<br>use<br>test<br>tornado<br>garbage<br>sponsor<br>vast<br>ancient |  
+| bip_39_word_new_br_2 | device<br>rotate |  
+| bip_39_word_new_br_3 | device<br>rotate<br>pony |  
+| bip_39_word_new_br_4 | device<br>rotate<br>pony<br>text |  
+| bip_39_word_new_br_5 | device<br>rotate<br>pony<br>text<br>call |  
+| bip_39_word_new_br_6 | device<br>rotate<br>pony<br>text<br>call<br>use |  
+| bip_39_word_new_br_7 | device<br>rotate<br>pony<br>text<br>call<br>use<br>test |  
+| bip_39_word_new_br_8 | device<br>rotate<br>pony<br>text<br>call<br>use<br>test<br>tornado |  
+| bip_39_word_new_br_9 | device<br>rotate<br>pony<br>text<br>call<br>use<br>test<br>tornado<br>garbage |  
+| bip_39_word_new_line_1 | device |  
+| bip_39_word_new_line_10 | device
 rotate
 pony
 text
@@ -55,7 +55,7 @@ test
 tornado
 garbage
 sponsor |  
-| bip_39_word_new_line11 | device
+| bip_39_word_new_line_11 | device
 rotate
 pony
 text
@@ -66,7 +66,7 @@ tornado
 garbage
 sponsor
 vast |  
-| bip_39_word_new_line12 | device
+| bip_39_word_new_line_12 | device
 rotate
 pony
 text
@@ -78,34 +78,34 @@ garbage
 sponsor
 vast
 ancient |  
-| bip_39_word_new_line2 | device
+| bip_39_word_new_line_2 | device
 rotate |  
-| bip_39_word_new_line3 | device
+| bip_39_word_new_line_3 | device
 rotate
 pony |  
-| bip_39_word_new_line4 | device
+| bip_39_word_new_line_4 | device
 rotate
 pony
 text |  
-| bip_39_word_new_line5 | device
+| bip_39_word_new_line_5 | device
 rotate
 pony
 text
 call |  
-| bip_39_word_new_line6 | device
+| bip_39_word_new_line_6 | device
 rotate
 pony
 text
 call
 use |  
-| bip_39_word_new_line7 | device
+| bip_39_word_new_line_7 | device
 rotate
 pony
 text
 call
 use
 test |  
-| bip_39_word_new_line8 | device
+| bip_39_word_new_line_8 | device
 rotate
 pony
 text
@@ -113,7 +113,7 @@ call
 use
 test
 tornado |  
-| bip_39_word_new_line9 | device
+| bip_39_word_new_line_9 | device
 rotate
 pony
 text

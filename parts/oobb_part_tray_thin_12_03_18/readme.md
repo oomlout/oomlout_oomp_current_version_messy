@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hero |  
-| bip_39_word_new_br10 | hero<br>wife<br>sorry<br>usage<br>suit<br>sea<br>system<br>retire<br>lamp<br>afraid |  
-| bip_39_word_new_br11 | hero<br>wife<br>sorry<br>usage<br>suit<br>sea<br>system<br>retire<br>lamp<br>afraid<br>stable |  
-| bip_39_word_new_br12 | hero<br>wife<br>sorry<br>usage<br>suit<br>sea<br>system<br>retire<br>lamp<br>afraid<br>stable<br>amazing |  
-| bip_39_word_new_br2 | hero<br>wife |  
-| bip_39_word_new_br3 | hero<br>wife<br>sorry |  
-| bip_39_word_new_br4 | hero<br>wife<br>sorry<br>usage |  
-| bip_39_word_new_br5 | hero<br>wife<br>sorry<br>usage<br>suit |  
-| bip_39_word_new_br6 | hero<br>wife<br>sorry<br>usage<br>suit<br>sea |  
-| bip_39_word_new_br7 | hero<br>wife<br>sorry<br>usage<br>suit<br>sea<br>system |  
-| bip_39_word_new_br8 | hero<br>wife<br>sorry<br>usage<br>suit<br>sea<br>system<br>retire |  
-| bip_39_word_new_br9 | hero<br>wife<br>sorry<br>usage<br>suit<br>sea<br>system<br>retire<br>lamp |  
-| bip_39_word_new_line1 | hero |  
-| bip_39_word_new_line10 | hero
+| bip_39_word_new_br_1 | hero |  
+| bip_39_word_new_br_10 | hero<br>wife<br>sorry<br>usage<br>suit<br>sea<br>system<br>retire<br>lamp<br>afraid |  
+| bip_39_word_new_br_11 | hero<br>wife<br>sorry<br>usage<br>suit<br>sea<br>system<br>retire<br>lamp<br>afraid<br>stable |  
+| bip_39_word_new_br_12 | hero<br>wife<br>sorry<br>usage<br>suit<br>sea<br>system<br>retire<br>lamp<br>afraid<br>stable<br>amazing |  
+| bip_39_word_new_br_2 | hero<br>wife |  
+| bip_39_word_new_br_3 | hero<br>wife<br>sorry |  
+| bip_39_word_new_br_4 | hero<br>wife<br>sorry<br>usage |  
+| bip_39_word_new_br_5 | hero<br>wife<br>sorry<br>usage<br>suit |  
+| bip_39_word_new_br_6 | hero<br>wife<br>sorry<br>usage<br>suit<br>sea |  
+| bip_39_word_new_br_7 | hero<br>wife<br>sorry<br>usage<br>suit<br>sea<br>system |  
+| bip_39_word_new_br_8 | hero<br>wife<br>sorry<br>usage<br>suit<br>sea<br>system<br>retire |  
+| bip_39_word_new_br_9 | hero<br>wife<br>sorry<br>usage<br>suit<br>sea<br>system<br>retire<br>lamp |  
+| bip_39_word_new_line_1 | hero |  
+| bip_39_word_new_line_10 | hero
 wife
 sorry
 usage
@@ -55,7 +55,7 @@ system
 retire
 lamp
 afraid |  
-| bip_39_word_new_line11 | hero
+| bip_39_word_new_line_11 | hero
 wife
 sorry
 usage
@@ -66,7 +66,7 @@ retire
 lamp
 afraid
 stable |  
-| bip_39_word_new_line12 | hero
+| bip_39_word_new_line_12 | hero
 wife
 sorry
 usage
@@ -78,34 +78,34 @@ lamp
 afraid
 stable
 amazing |  
-| bip_39_word_new_line2 | hero
+| bip_39_word_new_line_2 | hero
 wife |  
-| bip_39_word_new_line3 | hero
+| bip_39_word_new_line_3 | hero
 wife
 sorry |  
-| bip_39_word_new_line4 | hero
+| bip_39_word_new_line_4 | hero
 wife
 sorry
 usage |  
-| bip_39_word_new_line5 | hero
+| bip_39_word_new_line_5 | hero
 wife
 sorry
 usage
 suit |  
-| bip_39_word_new_line6 | hero
+| bip_39_word_new_line_6 | hero
 wife
 sorry
 usage
 suit
 sea |  
-| bip_39_word_new_line7 | hero
+| bip_39_word_new_line_7 | hero
 wife
 sorry
 usage
 suit
 sea
 system |  
-| bip_39_word_new_line8 | hero
+| bip_39_word_new_line_8 | hero
 wife
 sorry
 usage
@@ -113,7 +113,7 @@ suit
 sea
 system
 retire |  
-| bip_39_word_new_line9 | hero
+| bip_39_word_new_line_9 | hero
 wife
 sorry
 usage

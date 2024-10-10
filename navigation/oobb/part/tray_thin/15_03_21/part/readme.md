@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | torch |  
-| bip_39_word_new_br10 | torch<br>great<br>water<br>bright<br>deal<br>crater<br>luxury<br>vacant<br>enemy<br>during |  
-| bip_39_word_new_br11 | torch<br>great<br>water<br>bright<br>deal<br>crater<br>luxury<br>vacant<br>enemy<br>during<br>skill |  
-| bip_39_word_new_br12 | torch<br>great<br>water<br>bright<br>deal<br>crater<br>luxury<br>vacant<br>enemy<br>during<br>skill<br>auction |  
-| bip_39_word_new_br2 | torch<br>great |  
-| bip_39_word_new_br3 | torch<br>great<br>water |  
-| bip_39_word_new_br4 | torch<br>great<br>water<br>bright |  
-| bip_39_word_new_br5 | torch<br>great<br>water<br>bright<br>deal |  
-| bip_39_word_new_br6 | torch<br>great<br>water<br>bright<br>deal<br>crater |  
-| bip_39_word_new_br7 | torch<br>great<br>water<br>bright<br>deal<br>crater<br>luxury |  
-| bip_39_word_new_br8 | torch<br>great<br>water<br>bright<br>deal<br>crater<br>luxury<br>vacant |  
-| bip_39_word_new_br9 | torch<br>great<br>water<br>bright<br>deal<br>crater<br>luxury<br>vacant<br>enemy |  
-| bip_39_word_new_line1 | torch |  
-| bip_39_word_new_line10 | torch
+| bip_39_word_new_br_1 | torch |  
+| bip_39_word_new_br_10 | torch<br>great<br>water<br>bright<br>deal<br>crater<br>luxury<br>vacant<br>enemy<br>during |  
+| bip_39_word_new_br_11 | torch<br>great<br>water<br>bright<br>deal<br>crater<br>luxury<br>vacant<br>enemy<br>during<br>skill |  
+| bip_39_word_new_br_12 | torch<br>great<br>water<br>bright<br>deal<br>crater<br>luxury<br>vacant<br>enemy<br>during<br>skill<br>auction |  
+| bip_39_word_new_br_2 | torch<br>great |  
+| bip_39_word_new_br_3 | torch<br>great<br>water |  
+| bip_39_word_new_br_4 | torch<br>great<br>water<br>bright |  
+| bip_39_word_new_br_5 | torch<br>great<br>water<br>bright<br>deal |  
+| bip_39_word_new_br_6 | torch<br>great<br>water<br>bright<br>deal<br>crater |  
+| bip_39_word_new_br_7 | torch<br>great<br>water<br>bright<br>deal<br>crater<br>luxury |  
+| bip_39_word_new_br_8 | torch<br>great<br>water<br>bright<br>deal<br>crater<br>luxury<br>vacant |  
+| bip_39_word_new_br_9 | torch<br>great<br>water<br>bright<br>deal<br>crater<br>luxury<br>vacant<br>enemy |  
+| bip_39_word_new_line_1 | torch |  
+| bip_39_word_new_line_10 | torch
 great
 water
 bright
@@ -55,7 +55,7 @@ luxury
 vacant
 enemy
 during |  
-| bip_39_word_new_line11 | torch
+| bip_39_word_new_line_11 | torch
 great
 water
 bright
@@ -66,7 +66,7 @@ vacant
 enemy
 during
 skill |  
-| bip_39_word_new_line12 | torch
+| bip_39_word_new_line_12 | torch
 great
 water
 bright
@@ -78,34 +78,34 @@ enemy
 during
 skill
 auction |  
-| bip_39_word_new_line2 | torch
+| bip_39_word_new_line_2 | torch
 great |  
-| bip_39_word_new_line3 | torch
+| bip_39_word_new_line_3 | torch
 great
 water |  
-| bip_39_word_new_line4 | torch
+| bip_39_word_new_line_4 | torch
 great
 water
 bright |  
-| bip_39_word_new_line5 | torch
+| bip_39_word_new_line_5 | torch
 great
 water
 bright
 deal |  
-| bip_39_word_new_line6 | torch
+| bip_39_word_new_line_6 | torch
 great
 water
 bright
 deal
 crater |  
-| bip_39_word_new_line7 | torch
+| bip_39_word_new_line_7 | torch
 great
 water
 bright
 deal
 crater
 luxury |  
-| bip_39_word_new_line8 | torch
+| bip_39_word_new_line_8 | torch
 great
 water
 bright
@@ -113,7 +113,7 @@ deal
 crater
 luxury
 vacant |  
-| bip_39_word_new_line9 | torch
+| bip_39_word_new_line_9 | torch
 great
 water
 bright

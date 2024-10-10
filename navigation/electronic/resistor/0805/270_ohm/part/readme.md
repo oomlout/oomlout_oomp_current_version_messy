@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | blush |  
-| bip_39_word_new_br10 | blush<br>real<br>rail<br>patient<br>wing<br>job<br>leopard<br>divert<br>battle<br>thumb |  
-| bip_39_word_new_br11 | blush<br>real<br>rail<br>patient<br>wing<br>job<br>leopard<br>divert<br>battle<br>thumb<br>throw |  
-| bip_39_word_new_br12 | blush<br>real<br>rail<br>patient<br>wing<br>job<br>leopard<br>divert<br>battle<br>thumb<br>throw<br>aunt |  
-| bip_39_word_new_br2 | blush<br>real |  
-| bip_39_word_new_br3 | blush<br>real<br>rail |  
-| bip_39_word_new_br4 | blush<br>real<br>rail<br>patient |  
-| bip_39_word_new_br5 | blush<br>real<br>rail<br>patient<br>wing |  
-| bip_39_word_new_br6 | blush<br>real<br>rail<br>patient<br>wing<br>job |  
-| bip_39_word_new_br7 | blush<br>real<br>rail<br>patient<br>wing<br>job<br>leopard |  
-| bip_39_word_new_br8 | blush<br>real<br>rail<br>patient<br>wing<br>job<br>leopard<br>divert |  
-| bip_39_word_new_br9 | blush<br>real<br>rail<br>patient<br>wing<br>job<br>leopard<br>divert<br>battle |  
-| bip_39_word_new_line1 | blush |  
-| bip_39_word_new_line10 | blush
+| bip_39_word_new_br_1 | blush |  
+| bip_39_word_new_br_10 | blush<br>real<br>rail<br>patient<br>wing<br>job<br>leopard<br>divert<br>battle<br>thumb |  
+| bip_39_word_new_br_11 | blush<br>real<br>rail<br>patient<br>wing<br>job<br>leopard<br>divert<br>battle<br>thumb<br>throw |  
+| bip_39_word_new_br_12 | blush<br>real<br>rail<br>patient<br>wing<br>job<br>leopard<br>divert<br>battle<br>thumb<br>throw<br>aunt |  
+| bip_39_word_new_br_2 | blush<br>real |  
+| bip_39_word_new_br_3 | blush<br>real<br>rail |  
+| bip_39_word_new_br_4 | blush<br>real<br>rail<br>patient |  
+| bip_39_word_new_br_5 | blush<br>real<br>rail<br>patient<br>wing |  
+| bip_39_word_new_br_6 | blush<br>real<br>rail<br>patient<br>wing<br>job |  
+| bip_39_word_new_br_7 | blush<br>real<br>rail<br>patient<br>wing<br>job<br>leopard |  
+| bip_39_word_new_br_8 | blush<br>real<br>rail<br>patient<br>wing<br>job<br>leopard<br>divert |  
+| bip_39_word_new_br_9 | blush<br>real<br>rail<br>patient<br>wing<br>job<br>leopard<br>divert<br>battle |  
+| bip_39_word_new_line_1 | blush |  
+| bip_39_word_new_line_10 | blush
 real
 rail
 patient
@@ -55,7 +55,7 @@ leopard
 divert
 battle
 thumb |  
-| bip_39_word_new_line11 | blush
+| bip_39_word_new_line_11 | blush
 real
 rail
 patient
@@ -66,7 +66,7 @@ divert
 battle
 thumb
 throw |  
-| bip_39_word_new_line12 | blush
+| bip_39_word_new_line_12 | blush
 real
 rail
 patient
@@ -78,34 +78,34 @@ battle
 thumb
 throw
 aunt |  
-| bip_39_word_new_line2 | blush
+| bip_39_word_new_line_2 | blush
 real |  
-| bip_39_word_new_line3 | blush
+| bip_39_word_new_line_3 | blush
 real
 rail |  
-| bip_39_word_new_line4 | blush
+| bip_39_word_new_line_4 | blush
 real
 rail
 patient |  
-| bip_39_word_new_line5 | blush
+| bip_39_word_new_line_5 | blush
 real
 rail
 patient
 wing |  
-| bip_39_word_new_line6 | blush
+| bip_39_word_new_line_6 | blush
 real
 rail
 patient
 wing
 job |  
-| bip_39_word_new_line7 | blush
+| bip_39_word_new_line_7 | blush
 real
 rail
 patient
 wing
 job
 leopard |  
-| bip_39_word_new_line8 | blush
+| bip_39_word_new_line_8 | blush
 real
 rail
 patient
@@ -113,7 +113,7 @@ wing
 job
 leopard
 divert |  
-| bip_39_word_new_line9 | blush
+| bip_39_word_new_line_9 | blush
 real
 rail
 patient

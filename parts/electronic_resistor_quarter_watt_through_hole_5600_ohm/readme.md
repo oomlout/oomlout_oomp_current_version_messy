@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fruit |  
-| bip_39_word_new_br10 | fruit<br>horror<br>federal<br>warm<br>faint<br>when<br>wrong<br>beef<br>mirror<br>shop |  
-| bip_39_word_new_br11 | fruit<br>horror<br>federal<br>warm<br>faint<br>when<br>wrong<br>beef<br>mirror<br>shop<br>cry |  
-| bip_39_word_new_br12 | fruit<br>horror<br>federal<br>warm<br>faint<br>when<br>wrong<br>beef<br>mirror<br>shop<br>cry<br>acid |  
-| bip_39_word_new_br2 | fruit<br>horror |  
-| bip_39_word_new_br3 | fruit<br>horror<br>federal |  
-| bip_39_word_new_br4 | fruit<br>horror<br>federal<br>warm |  
-| bip_39_word_new_br5 | fruit<br>horror<br>federal<br>warm<br>faint |  
-| bip_39_word_new_br6 | fruit<br>horror<br>federal<br>warm<br>faint<br>when |  
-| bip_39_word_new_br7 | fruit<br>horror<br>federal<br>warm<br>faint<br>when<br>wrong |  
-| bip_39_word_new_br8 | fruit<br>horror<br>federal<br>warm<br>faint<br>when<br>wrong<br>beef |  
-| bip_39_word_new_br9 | fruit<br>horror<br>federal<br>warm<br>faint<br>when<br>wrong<br>beef<br>mirror |  
-| bip_39_word_new_line1 | fruit |  
-| bip_39_word_new_line10 | fruit
+| bip_39_word_new_br_1 | fruit |  
+| bip_39_word_new_br_10 | fruit<br>horror<br>federal<br>warm<br>faint<br>when<br>wrong<br>beef<br>mirror<br>shop |  
+| bip_39_word_new_br_11 | fruit<br>horror<br>federal<br>warm<br>faint<br>when<br>wrong<br>beef<br>mirror<br>shop<br>cry |  
+| bip_39_word_new_br_12 | fruit<br>horror<br>federal<br>warm<br>faint<br>when<br>wrong<br>beef<br>mirror<br>shop<br>cry<br>acid |  
+| bip_39_word_new_br_2 | fruit<br>horror |  
+| bip_39_word_new_br_3 | fruit<br>horror<br>federal |  
+| bip_39_word_new_br_4 | fruit<br>horror<br>federal<br>warm |  
+| bip_39_word_new_br_5 | fruit<br>horror<br>federal<br>warm<br>faint |  
+| bip_39_word_new_br_6 | fruit<br>horror<br>federal<br>warm<br>faint<br>when |  
+| bip_39_word_new_br_7 | fruit<br>horror<br>federal<br>warm<br>faint<br>when<br>wrong |  
+| bip_39_word_new_br_8 | fruit<br>horror<br>federal<br>warm<br>faint<br>when<br>wrong<br>beef |  
+| bip_39_word_new_br_9 | fruit<br>horror<br>federal<br>warm<br>faint<br>when<br>wrong<br>beef<br>mirror |  
+| bip_39_word_new_line_1 | fruit |  
+| bip_39_word_new_line_10 | fruit
 horror
 federal
 warm
@@ -55,7 +55,7 @@ wrong
 beef
 mirror
 shop |  
-| bip_39_word_new_line11 | fruit
+| bip_39_word_new_line_11 | fruit
 horror
 federal
 warm
@@ -66,7 +66,7 @@ beef
 mirror
 shop
 cry |  
-| bip_39_word_new_line12 | fruit
+| bip_39_word_new_line_12 | fruit
 horror
 federal
 warm
@@ -78,34 +78,34 @@ mirror
 shop
 cry
 acid |  
-| bip_39_word_new_line2 | fruit
+| bip_39_word_new_line_2 | fruit
 horror |  
-| bip_39_word_new_line3 | fruit
+| bip_39_word_new_line_3 | fruit
 horror
 federal |  
-| bip_39_word_new_line4 | fruit
+| bip_39_word_new_line_4 | fruit
 horror
 federal
 warm |  
-| bip_39_word_new_line5 | fruit
+| bip_39_word_new_line_5 | fruit
 horror
 federal
 warm
 faint |  
-| bip_39_word_new_line6 | fruit
+| bip_39_word_new_line_6 | fruit
 horror
 federal
 warm
 faint
 when |  
-| bip_39_word_new_line7 | fruit
+| bip_39_word_new_line_7 | fruit
 horror
 federal
 warm
 faint
 when
 wrong |  
-| bip_39_word_new_line8 | fruit
+| bip_39_word_new_line_8 | fruit
 horror
 federal
 warm
@@ -113,7 +113,7 @@ faint
 when
 wrong
 beef |  
-| bip_39_word_new_line9 | fruit
+| bip_39_word_new_line_9 | fruit
 horror
 federal
 warm

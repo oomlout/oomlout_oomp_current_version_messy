@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | group |  
-| bip_39_word_new_br10 | group<br>sheriff<br>inherit<br>enjoy<br>logic<br>grain<br>assault<br>change<br>flat<br>angle |  
-| bip_39_word_new_br11 | group<br>sheriff<br>inherit<br>enjoy<br>logic<br>grain<br>assault<br>change<br>flat<br>angle<br>census |  
-| bip_39_word_new_br12 | group<br>sheriff<br>inherit<br>enjoy<br>logic<br>grain<br>assault<br>change<br>flat<br>angle<br>census<br>action |  
-| bip_39_word_new_br2 | group<br>sheriff |  
-| bip_39_word_new_br3 | group<br>sheriff<br>inherit |  
-| bip_39_word_new_br4 | group<br>sheriff<br>inherit<br>enjoy |  
-| bip_39_word_new_br5 | group<br>sheriff<br>inherit<br>enjoy<br>logic |  
-| bip_39_word_new_br6 | group<br>sheriff<br>inherit<br>enjoy<br>logic<br>grain |  
-| bip_39_word_new_br7 | group<br>sheriff<br>inherit<br>enjoy<br>logic<br>grain<br>assault |  
-| bip_39_word_new_br8 | group<br>sheriff<br>inherit<br>enjoy<br>logic<br>grain<br>assault<br>change |  
-| bip_39_word_new_br9 | group<br>sheriff<br>inherit<br>enjoy<br>logic<br>grain<br>assault<br>change<br>flat |  
-| bip_39_word_new_line1 | group |  
-| bip_39_word_new_line10 | group
+| bip_39_word_new_br_1 | group |  
+| bip_39_word_new_br_10 | group<br>sheriff<br>inherit<br>enjoy<br>logic<br>grain<br>assault<br>change<br>flat<br>angle |  
+| bip_39_word_new_br_11 | group<br>sheriff<br>inherit<br>enjoy<br>logic<br>grain<br>assault<br>change<br>flat<br>angle<br>census |  
+| bip_39_word_new_br_12 | group<br>sheriff<br>inherit<br>enjoy<br>logic<br>grain<br>assault<br>change<br>flat<br>angle<br>census<br>action |  
+| bip_39_word_new_br_2 | group<br>sheriff |  
+| bip_39_word_new_br_3 | group<br>sheriff<br>inherit |  
+| bip_39_word_new_br_4 | group<br>sheriff<br>inherit<br>enjoy |  
+| bip_39_word_new_br_5 | group<br>sheriff<br>inherit<br>enjoy<br>logic |  
+| bip_39_word_new_br_6 | group<br>sheriff<br>inherit<br>enjoy<br>logic<br>grain |  
+| bip_39_word_new_br_7 | group<br>sheriff<br>inherit<br>enjoy<br>logic<br>grain<br>assault |  
+| bip_39_word_new_br_8 | group<br>sheriff<br>inherit<br>enjoy<br>logic<br>grain<br>assault<br>change |  
+| bip_39_word_new_br_9 | group<br>sheriff<br>inherit<br>enjoy<br>logic<br>grain<br>assault<br>change<br>flat |  
+| bip_39_word_new_line_1 | group |  
+| bip_39_word_new_line_10 | group
 sheriff
 inherit
 enjoy
@@ -55,7 +55,7 @@ assault
 change
 flat
 angle |  
-| bip_39_word_new_line11 | group
+| bip_39_word_new_line_11 | group
 sheriff
 inherit
 enjoy
@@ -66,7 +66,7 @@ change
 flat
 angle
 census |  
-| bip_39_word_new_line12 | group
+| bip_39_word_new_line_12 | group
 sheriff
 inherit
 enjoy
@@ -78,34 +78,34 @@ flat
 angle
 census
 action |  
-| bip_39_word_new_line2 | group
+| bip_39_word_new_line_2 | group
 sheriff |  
-| bip_39_word_new_line3 | group
+| bip_39_word_new_line_3 | group
 sheriff
 inherit |  
-| bip_39_word_new_line4 | group
+| bip_39_word_new_line_4 | group
 sheriff
 inherit
 enjoy |  
-| bip_39_word_new_line5 | group
+| bip_39_word_new_line_5 | group
 sheriff
 inherit
 enjoy
 logic |  
-| bip_39_word_new_line6 | group
+| bip_39_word_new_line_6 | group
 sheriff
 inherit
 enjoy
 logic
 grain |  
-| bip_39_word_new_line7 | group
+| bip_39_word_new_line_7 | group
 sheriff
 inherit
 enjoy
 logic
 grain
 assault |  
-| bip_39_word_new_line8 | group
+| bip_39_word_new_line_8 | group
 sheriff
 inherit
 enjoy
@@ -113,7 +113,7 @@ logic
 grain
 assault
 change |  
-| bip_39_word_new_line9 | group
+| bip_39_word_new_line_9 | group
 sheriff
 inherit
 enjoy

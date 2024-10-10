@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | nothing |  
-| bip_39_word_new_br10 | nothing<br>dance<br>disease<br>throw<br>girl<br>smooth<br>visual<br>champion<br>approve<br>knock |  
-| bip_39_word_new_br11 | nothing<br>dance<br>disease<br>throw<br>girl<br>smooth<br>visual<br>champion<br>approve<br>knock<br>north |  
-| bip_39_word_new_br12 | nothing<br>dance<br>disease<br>throw<br>girl<br>smooth<br>visual<br>champion<br>approve<br>knock<br>north<br>apart |  
-| bip_39_word_new_br2 | nothing<br>dance |  
-| bip_39_word_new_br3 | nothing<br>dance<br>disease |  
-| bip_39_word_new_br4 | nothing<br>dance<br>disease<br>throw |  
-| bip_39_word_new_br5 | nothing<br>dance<br>disease<br>throw<br>girl |  
-| bip_39_word_new_br6 | nothing<br>dance<br>disease<br>throw<br>girl<br>smooth |  
-| bip_39_word_new_br7 | nothing<br>dance<br>disease<br>throw<br>girl<br>smooth<br>visual |  
-| bip_39_word_new_br8 | nothing<br>dance<br>disease<br>throw<br>girl<br>smooth<br>visual<br>champion |  
-| bip_39_word_new_br9 | nothing<br>dance<br>disease<br>throw<br>girl<br>smooth<br>visual<br>champion<br>approve |  
-| bip_39_word_new_line1 | nothing |  
-| bip_39_word_new_line10 | nothing
+| bip_39_word_new_br_1 | nothing |  
+| bip_39_word_new_br_10 | nothing<br>dance<br>disease<br>throw<br>girl<br>smooth<br>visual<br>champion<br>approve<br>knock |  
+| bip_39_word_new_br_11 | nothing<br>dance<br>disease<br>throw<br>girl<br>smooth<br>visual<br>champion<br>approve<br>knock<br>north |  
+| bip_39_word_new_br_12 | nothing<br>dance<br>disease<br>throw<br>girl<br>smooth<br>visual<br>champion<br>approve<br>knock<br>north<br>apart |  
+| bip_39_word_new_br_2 | nothing<br>dance |  
+| bip_39_word_new_br_3 | nothing<br>dance<br>disease |  
+| bip_39_word_new_br_4 | nothing<br>dance<br>disease<br>throw |  
+| bip_39_word_new_br_5 | nothing<br>dance<br>disease<br>throw<br>girl |  
+| bip_39_word_new_br_6 | nothing<br>dance<br>disease<br>throw<br>girl<br>smooth |  
+| bip_39_word_new_br_7 | nothing<br>dance<br>disease<br>throw<br>girl<br>smooth<br>visual |  
+| bip_39_word_new_br_8 | nothing<br>dance<br>disease<br>throw<br>girl<br>smooth<br>visual<br>champion |  
+| bip_39_word_new_br_9 | nothing<br>dance<br>disease<br>throw<br>girl<br>smooth<br>visual<br>champion<br>approve |  
+| bip_39_word_new_line_1 | nothing |  
+| bip_39_word_new_line_10 | nothing
 dance
 disease
 throw
@@ -55,7 +55,7 @@ visual
 champion
 approve
 knock |  
-| bip_39_word_new_line11 | nothing
+| bip_39_word_new_line_11 | nothing
 dance
 disease
 throw
@@ -66,7 +66,7 @@ champion
 approve
 knock
 north |  
-| bip_39_word_new_line12 | nothing
+| bip_39_word_new_line_12 | nothing
 dance
 disease
 throw
@@ -78,34 +78,34 @@ approve
 knock
 north
 apart |  
-| bip_39_word_new_line2 | nothing
+| bip_39_word_new_line_2 | nothing
 dance |  
-| bip_39_word_new_line3 | nothing
+| bip_39_word_new_line_3 | nothing
 dance
 disease |  
-| bip_39_word_new_line4 | nothing
+| bip_39_word_new_line_4 | nothing
 dance
 disease
 throw |  
-| bip_39_word_new_line5 | nothing
+| bip_39_word_new_line_5 | nothing
 dance
 disease
 throw
 girl |  
-| bip_39_word_new_line6 | nothing
+| bip_39_word_new_line_6 | nothing
 dance
 disease
 throw
 girl
 smooth |  
-| bip_39_word_new_line7 | nothing
+| bip_39_word_new_line_7 | nothing
 dance
 disease
 throw
 girl
 smooth
 visual |  
-| bip_39_word_new_line8 | nothing
+| bip_39_word_new_line_8 | nothing
 dance
 disease
 throw
@@ -113,7 +113,7 @@ girl
 smooth
 visual
 champion |  
-| bip_39_word_new_line9 | nothing
+| bip_39_word_new_line_9 | nothing
 dance
 disease
 throw

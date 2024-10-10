@@ -1,17 +1,17 @@
-bip_39_word_new_br1: protect
-bip_39_word_new_br10: protect<br>coral<br>ice<br>rate<br>term<br>ready<br>satoshi<br>pear<br>staff<br>athlete
-bip_39_word_new_br11: protect<br>coral<br>ice<br>rate<br>term<br>ready<br>satoshi<br>pear<br>staff<br>athlete<br>analyst
-bip_39_word_new_br12: protect<br>coral<br>ice<br>rate<br>term<br>ready<br>satoshi<br>pear<br>staff<br>athlete<br>analyst<br>announce
-bip_39_word_new_br2: protect<br>coral
-bip_39_word_new_br3: protect<br>coral<br>ice
-bip_39_word_new_br4: protect<br>coral<br>ice<br>rate
-bip_39_word_new_br5: protect<br>coral<br>ice<br>rate<br>term
-bip_39_word_new_br6: protect<br>coral<br>ice<br>rate<br>term<br>ready
-bip_39_word_new_br7: protect<br>coral<br>ice<br>rate<br>term<br>ready<br>satoshi
-bip_39_word_new_br8: protect<br>coral<br>ice<br>rate<br>term<br>ready<br>satoshi<br>pear
-bip_39_word_new_br9: protect<br>coral<br>ice<br>rate<br>term<br>ready<br>satoshi<br>pear<br>staff
-bip_39_word_new_line1: protect
-bip_39_word_new_line10: 'protect
+bip_39_word_new_br_1: protect
+bip_39_word_new_br_10: protect<br>coral<br>ice<br>rate<br>term<br>ready<br>satoshi<br>pear<br>staff<br>athlete
+bip_39_word_new_br_11: protect<br>coral<br>ice<br>rate<br>term<br>ready<br>satoshi<br>pear<br>staff<br>athlete<br>analyst
+bip_39_word_new_br_12: protect<br>coral<br>ice<br>rate<br>term<br>ready<br>satoshi<br>pear<br>staff<br>athlete<br>analyst<br>announce
+bip_39_word_new_br_2: protect<br>coral
+bip_39_word_new_br_3: protect<br>coral<br>ice
+bip_39_word_new_br_4: protect<br>coral<br>ice<br>rate
+bip_39_word_new_br_5: protect<br>coral<br>ice<br>rate<br>term
+bip_39_word_new_br_6: protect<br>coral<br>ice<br>rate<br>term<br>ready
+bip_39_word_new_br_7: protect<br>coral<br>ice<br>rate<br>term<br>ready<br>satoshi
+bip_39_word_new_br_8: protect<br>coral<br>ice<br>rate<br>term<br>ready<br>satoshi<br>pear
+bip_39_word_new_br_9: protect<br>coral<br>ice<br>rate<br>term<br>ready<br>satoshi<br>pear<br>staff
+bip_39_word_new_line_1: protect
+bip_39_word_new_line_10: 'protect
 
   coral
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'protect
   staff
 
   athlete'
-bip_39_word_new_line11: 'protect
+bip_39_word_new_line_11: 'protect
 
   coral
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'protect
   athlete
 
   analyst'
-bip_39_word_new_line12: 'protect
+bip_39_word_new_line_12: 'protect
 
   coral
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'protect
   analyst
 
   announce'
-bip_39_word_new_line2: 'protect
+bip_39_word_new_line_2: 'protect
 
   coral'
-bip_39_word_new_line3: 'protect
+bip_39_word_new_line_3: 'protect
 
   coral
 
   ice'
-bip_39_word_new_line4: 'protect
+bip_39_word_new_line_4: 'protect
 
   coral
 
   ice
 
   rate'
-bip_39_word_new_line5: 'protect
+bip_39_word_new_line_5: 'protect
 
   coral
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'protect
   rate
 
   term'
-bip_39_word_new_line6: 'protect
+bip_39_word_new_line_6: 'protect
 
   coral
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'protect
   term
 
   ready'
-bip_39_word_new_line7: 'protect
+bip_39_word_new_line_7: 'protect
 
   coral
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'protect
   ready
 
   satoshi'
-bip_39_word_new_line8: 'protect
+bip_39_word_new_line_8: 'protect
 
   coral
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'protect
   satoshi
 
   pear'
-bip_39_word_new_line9: 'protect
+bip_39_word_new_line_9: 'protect
 
   coral
 

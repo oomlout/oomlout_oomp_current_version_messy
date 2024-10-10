@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | omit |  
-| bip_39_word_new_br10 | omit<br>enrich<br>rhythm<br>survey<br>inform<br>until<br>poet<br>medal<br>language<br>tag |  
-| bip_39_word_new_br11 | omit<br>enrich<br>rhythm<br>survey<br>inform<br>until<br>poet<br>medal<br>language<br>tag<br>party |  
-| bip_39_word_new_br12 | omit<br>enrich<br>rhythm<br>survey<br>inform<br>until<br>poet<br>medal<br>language<br>tag<br>party<br>answer |  
-| bip_39_word_new_br2 | omit<br>enrich |  
-| bip_39_word_new_br3 | omit<br>enrich<br>rhythm |  
-| bip_39_word_new_br4 | omit<br>enrich<br>rhythm<br>survey |  
-| bip_39_word_new_br5 | omit<br>enrich<br>rhythm<br>survey<br>inform |  
-| bip_39_word_new_br6 | omit<br>enrich<br>rhythm<br>survey<br>inform<br>until |  
-| bip_39_word_new_br7 | omit<br>enrich<br>rhythm<br>survey<br>inform<br>until<br>poet |  
-| bip_39_word_new_br8 | omit<br>enrich<br>rhythm<br>survey<br>inform<br>until<br>poet<br>medal |  
-| bip_39_word_new_br9 | omit<br>enrich<br>rhythm<br>survey<br>inform<br>until<br>poet<br>medal<br>language |  
-| bip_39_word_new_line1 | omit |  
-| bip_39_word_new_line10 | omit
+| bip_39_word_new_br_1 | omit |  
+| bip_39_word_new_br_10 | omit<br>enrich<br>rhythm<br>survey<br>inform<br>until<br>poet<br>medal<br>language<br>tag |  
+| bip_39_word_new_br_11 | omit<br>enrich<br>rhythm<br>survey<br>inform<br>until<br>poet<br>medal<br>language<br>tag<br>party |  
+| bip_39_word_new_br_12 | omit<br>enrich<br>rhythm<br>survey<br>inform<br>until<br>poet<br>medal<br>language<br>tag<br>party<br>answer |  
+| bip_39_word_new_br_2 | omit<br>enrich |  
+| bip_39_word_new_br_3 | omit<br>enrich<br>rhythm |  
+| bip_39_word_new_br_4 | omit<br>enrich<br>rhythm<br>survey |  
+| bip_39_word_new_br_5 | omit<br>enrich<br>rhythm<br>survey<br>inform |  
+| bip_39_word_new_br_6 | omit<br>enrich<br>rhythm<br>survey<br>inform<br>until |  
+| bip_39_word_new_br_7 | omit<br>enrich<br>rhythm<br>survey<br>inform<br>until<br>poet |  
+| bip_39_word_new_br_8 | omit<br>enrich<br>rhythm<br>survey<br>inform<br>until<br>poet<br>medal |  
+| bip_39_word_new_br_9 | omit<br>enrich<br>rhythm<br>survey<br>inform<br>until<br>poet<br>medal<br>language |  
+| bip_39_word_new_line_1 | omit |  
+| bip_39_word_new_line_10 | omit
 enrich
 rhythm
 survey
@@ -55,7 +55,7 @@ poet
 medal
 language
 tag |  
-| bip_39_word_new_line11 | omit
+| bip_39_word_new_line_11 | omit
 enrich
 rhythm
 survey
@@ -66,7 +66,7 @@ medal
 language
 tag
 party |  
-| bip_39_word_new_line12 | omit
+| bip_39_word_new_line_12 | omit
 enrich
 rhythm
 survey
@@ -78,34 +78,34 @@ language
 tag
 party
 answer |  
-| bip_39_word_new_line2 | omit
+| bip_39_word_new_line_2 | omit
 enrich |  
-| bip_39_word_new_line3 | omit
+| bip_39_word_new_line_3 | omit
 enrich
 rhythm |  
-| bip_39_word_new_line4 | omit
+| bip_39_word_new_line_4 | omit
 enrich
 rhythm
 survey |  
-| bip_39_word_new_line5 | omit
+| bip_39_word_new_line_5 | omit
 enrich
 rhythm
 survey
 inform |  
-| bip_39_word_new_line6 | omit
+| bip_39_word_new_line_6 | omit
 enrich
 rhythm
 survey
 inform
 until |  
-| bip_39_word_new_line7 | omit
+| bip_39_word_new_line_7 | omit
 enrich
 rhythm
 survey
 inform
 until
 poet |  
-| bip_39_word_new_line8 | omit
+| bip_39_word_new_line_8 | omit
 enrich
 rhythm
 survey
@@ -113,7 +113,7 @@ inform
 until
 poet
 medal |  
-| bip_39_word_new_line9 | omit
+| bip_39_word_new_line_9 | omit
 enrich
 rhythm
 survey

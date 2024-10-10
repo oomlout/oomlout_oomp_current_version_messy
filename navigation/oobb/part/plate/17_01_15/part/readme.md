@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rebuild |  
-| bip_39_word_new_br10 | rebuild<br>floor<br>armor<br>top<br>much<br>deliver<br>flight<br>unusual<br>link<br>keep |  
-| bip_39_word_new_br11 | rebuild<br>floor<br>armor<br>top<br>much<br>deliver<br>flight<br>unusual<br>link<br>keep<br>leave |  
-| bip_39_word_new_br12 | rebuild<br>floor<br>armor<br>top<br>much<br>deliver<br>flight<br>unusual<br>link<br>keep<br>leave<br>allow |  
-| bip_39_word_new_br2 | rebuild<br>floor |  
-| bip_39_word_new_br3 | rebuild<br>floor<br>armor |  
-| bip_39_word_new_br4 | rebuild<br>floor<br>armor<br>top |  
-| bip_39_word_new_br5 | rebuild<br>floor<br>armor<br>top<br>much |  
-| bip_39_word_new_br6 | rebuild<br>floor<br>armor<br>top<br>much<br>deliver |  
-| bip_39_word_new_br7 | rebuild<br>floor<br>armor<br>top<br>much<br>deliver<br>flight |  
-| bip_39_word_new_br8 | rebuild<br>floor<br>armor<br>top<br>much<br>deliver<br>flight<br>unusual |  
-| bip_39_word_new_br9 | rebuild<br>floor<br>armor<br>top<br>much<br>deliver<br>flight<br>unusual<br>link |  
-| bip_39_word_new_line1 | rebuild |  
-| bip_39_word_new_line10 | rebuild
+| bip_39_word_new_br_1 | rebuild |  
+| bip_39_word_new_br_10 | rebuild<br>floor<br>armor<br>top<br>much<br>deliver<br>flight<br>unusual<br>link<br>keep |  
+| bip_39_word_new_br_11 | rebuild<br>floor<br>armor<br>top<br>much<br>deliver<br>flight<br>unusual<br>link<br>keep<br>leave |  
+| bip_39_word_new_br_12 | rebuild<br>floor<br>armor<br>top<br>much<br>deliver<br>flight<br>unusual<br>link<br>keep<br>leave<br>allow |  
+| bip_39_word_new_br_2 | rebuild<br>floor |  
+| bip_39_word_new_br_3 | rebuild<br>floor<br>armor |  
+| bip_39_word_new_br_4 | rebuild<br>floor<br>armor<br>top |  
+| bip_39_word_new_br_5 | rebuild<br>floor<br>armor<br>top<br>much |  
+| bip_39_word_new_br_6 | rebuild<br>floor<br>armor<br>top<br>much<br>deliver |  
+| bip_39_word_new_br_7 | rebuild<br>floor<br>armor<br>top<br>much<br>deliver<br>flight |  
+| bip_39_word_new_br_8 | rebuild<br>floor<br>armor<br>top<br>much<br>deliver<br>flight<br>unusual |  
+| bip_39_word_new_br_9 | rebuild<br>floor<br>armor<br>top<br>much<br>deliver<br>flight<br>unusual<br>link |  
+| bip_39_word_new_line_1 | rebuild |  
+| bip_39_word_new_line_10 | rebuild
 floor
 armor
 top
@@ -55,7 +55,7 @@ flight
 unusual
 link
 keep |  
-| bip_39_word_new_line11 | rebuild
+| bip_39_word_new_line_11 | rebuild
 floor
 armor
 top
@@ -66,7 +66,7 @@ unusual
 link
 keep
 leave |  
-| bip_39_word_new_line12 | rebuild
+| bip_39_word_new_line_12 | rebuild
 floor
 armor
 top
@@ -78,34 +78,34 @@ link
 keep
 leave
 allow |  
-| bip_39_word_new_line2 | rebuild
+| bip_39_word_new_line_2 | rebuild
 floor |  
-| bip_39_word_new_line3 | rebuild
+| bip_39_word_new_line_3 | rebuild
 floor
 armor |  
-| bip_39_word_new_line4 | rebuild
+| bip_39_word_new_line_4 | rebuild
 floor
 armor
 top |  
-| bip_39_word_new_line5 | rebuild
+| bip_39_word_new_line_5 | rebuild
 floor
 armor
 top
 much |  
-| bip_39_word_new_line6 | rebuild
+| bip_39_word_new_line_6 | rebuild
 floor
 armor
 top
 much
 deliver |  
-| bip_39_word_new_line7 | rebuild
+| bip_39_word_new_line_7 | rebuild
 floor
 armor
 top
 much
 deliver
 flight |  
-| bip_39_word_new_line8 | rebuild
+| bip_39_word_new_line_8 | rebuild
 floor
 armor
 top
@@ -113,7 +113,7 @@ much
 deliver
 flight
 unusual |  
-| bip_39_word_new_line9 | rebuild
+| bip_39_word_new_line_9 | rebuild
 floor
 armor
 top

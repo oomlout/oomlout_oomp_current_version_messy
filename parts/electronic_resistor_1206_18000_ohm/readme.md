@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | twelve |  
-| bip_39_word_new_br10 | twelve<br>science<br>slab<br>leisure<br>calm<br>laptop<br>gasp<br>riot<br>access<br>volcano |  
-| bip_39_word_new_br11 | twelve<br>science<br>slab<br>leisure<br>calm<br>laptop<br>gasp<br>riot<br>access<br>volcano<br>cheap |  
-| bip_39_word_new_br12 | twelve<br>science<br>slab<br>leisure<br>calm<br>laptop<br>gasp<br>riot<br>access<br>volcano<br>cheap<br>arrive |  
-| bip_39_word_new_br2 | twelve<br>science |  
-| bip_39_word_new_br3 | twelve<br>science<br>slab |  
-| bip_39_word_new_br4 | twelve<br>science<br>slab<br>leisure |  
-| bip_39_word_new_br5 | twelve<br>science<br>slab<br>leisure<br>calm |  
-| bip_39_word_new_br6 | twelve<br>science<br>slab<br>leisure<br>calm<br>laptop |  
-| bip_39_word_new_br7 | twelve<br>science<br>slab<br>leisure<br>calm<br>laptop<br>gasp |  
-| bip_39_word_new_br8 | twelve<br>science<br>slab<br>leisure<br>calm<br>laptop<br>gasp<br>riot |  
-| bip_39_word_new_br9 | twelve<br>science<br>slab<br>leisure<br>calm<br>laptop<br>gasp<br>riot<br>access |  
-| bip_39_word_new_line1 | twelve |  
-| bip_39_word_new_line10 | twelve
+| bip_39_word_new_br_1 | twelve |  
+| bip_39_word_new_br_10 | twelve<br>science<br>slab<br>leisure<br>calm<br>laptop<br>gasp<br>riot<br>access<br>volcano |  
+| bip_39_word_new_br_11 | twelve<br>science<br>slab<br>leisure<br>calm<br>laptop<br>gasp<br>riot<br>access<br>volcano<br>cheap |  
+| bip_39_word_new_br_12 | twelve<br>science<br>slab<br>leisure<br>calm<br>laptop<br>gasp<br>riot<br>access<br>volcano<br>cheap<br>arrive |  
+| bip_39_word_new_br_2 | twelve<br>science |  
+| bip_39_word_new_br_3 | twelve<br>science<br>slab |  
+| bip_39_word_new_br_4 | twelve<br>science<br>slab<br>leisure |  
+| bip_39_word_new_br_5 | twelve<br>science<br>slab<br>leisure<br>calm |  
+| bip_39_word_new_br_6 | twelve<br>science<br>slab<br>leisure<br>calm<br>laptop |  
+| bip_39_word_new_br_7 | twelve<br>science<br>slab<br>leisure<br>calm<br>laptop<br>gasp |  
+| bip_39_word_new_br_8 | twelve<br>science<br>slab<br>leisure<br>calm<br>laptop<br>gasp<br>riot |  
+| bip_39_word_new_br_9 | twelve<br>science<br>slab<br>leisure<br>calm<br>laptop<br>gasp<br>riot<br>access |  
+| bip_39_word_new_line_1 | twelve |  
+| bip_39_word_new_line_10 | twelve
 science
 slab
 leisure
@@ -55,7 +55,7 @@ gasp
 riot
 access
 volcano |  
-| bip_39_word_new_line11 | twelve
+| bip_39_word_new_line_11 | twelve
 science
 slab
 leisure
@@ -66,7 +66,7 @@ riot
 access
 volcano
 cheap |  
-| bip_39_word_new_line12 | twelve
+| bip_39_word_new_line_12 | twelve
 science
 slab
 leisure
@@ -78,34 +78,34 @@ access
 volcano
 cheap
 arrive |  
-| bip_39_word_new_line2 | twelve
+| bip_39_word_new_line_2 | twelve
 science |  
-| bip_39_word_new_line3 | twelve
+| bip_39_word_new_line_3 | twelve
 science
 slab |  
-| bip_39_word_new_line4 | twelve
+| bip_39_word_new_line_4 | twelve
 science
 slab
 leisure |  
-| bip_39_word_new_line5 | twelve
+| bip_39_word_new_line_5 | twelve
 science
 slab
 leisure
 calm |  
-| bip_39_word_new_line6 | twelve
+| bip_39_word_new_line_6 | twelve
 science
 slab
 leisure
 calm
 laptop |  
-| bip_39_word_new_line7 | twelve
+| bip_39_word_new_line_7 | twelve
 science
 slab
 leisure
 calm
 laptop
 gasp |  
-| bip_39_word_new_line8 | twelve
+| bip_39_word_new_line_8 | twelve
 science
 slab
 leisure
@@ -113,7 +113,7 @@ calm
 laptop
 gasp
 riot |  
-| bip_39_word_new_line9 | twelve
+| bip_39_word_new_line_9 | twelve
 science
 slab
 leisure

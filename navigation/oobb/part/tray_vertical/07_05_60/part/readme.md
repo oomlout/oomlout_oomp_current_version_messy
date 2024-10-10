@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rescue |  
-| bip_39_word_new_br10 | rescue<br>nut<br>pride<br>neutral<br>match<br>draw<br>guilt<br>access<br>occur<br>accuse |  
-| bip_39_word_new_br11 | rescue<br>nut<br>pride<br>neutral<br>match<br>draw<br>guilt<br>access<br>occur<br>accuse<br>token |  
-| bip_39_word_new_br12 | rescue<br>nut<br>pride<br>neutral<br>match<br>draw<br>guilt<br>access<br>occur<br>accuse<br>token<br>acid |  
-| bip_39_word_new_br2 | rescue<br>nut |  
-| bip_39_word_new_br3 | rescue<br>nut<br>pride |  
-| bip_39_word_new_br4 | rescue<br>nut<br>pride<br>neutral |  
-| bip_39_word_new_br5 | rescue<br>nut<br>pride<br>neutral<br>match |  
-| bip_39_word_new_br6 | rescue<br>nut<br>pride<br>neutral<br>match<br>draw |  
-| bip_39_word_new_br7 | rescue<br>nut<br>pride<br>neutral<br>match<br>draw<br>guilt |  
-| bip_39_word_new_br8 | rescue<br>nut<br>pride<br>neutral<br>match<br>draw<br>guilt<br>access |  
-| bip_39_word_new_br9 | rescue<br>nut<br>pride<br>neutral<br>match<br>draw<br>guilt<br>access<br>occur |  
-| bip_39_word_new_line1 | rescue |  
-| bip_39_word_new_line10 | rescue
+| bip_39_word_new_br_1 | rescue |  
+| bip_39_word_new_br_10 | rescue<br>nut<br>pride<br>neutral<br>match<br>draw<br>guilt<br>access<br>occur<br>accuse |  
+| bip_39_word_new_br_11 | rescue<br>nut<br>pride<br>neutral<br>match<br>draw<br>guilt<br>access<br>occur<br>accuse<br>token |  
+| bip_39_word_new_br_12 | rescue<br>nut<br>pride<br>neutral<br>match<br>draw<br>guilt<br>access<br>occur<br>accuse<br>token<br>acid |  
+| bip_39_word_new_br_2 | rescue<br>nut |  
+| bip_39_word_new_br_3 | rescue<br>nut<br>pride |  
+| bip_39_word_new_br_4 | rescue<br>nut<br>pride<br>neutral |  
+| bip_39_word_new_br_5 | rescue<br>nut<br>pride<br>neutral<br>match |  
+| bip_39_word_new_br_6 | rescue<br>nut<br>pride<br>neutral<br>match<br>draw |  
+| bip_39_word_new_br_7 | rescue<br>nut<br>pride<br>neutral<br>match<br>draw<br>guilt |  
+| bip_39_word_new_br_8 | rescue<br>nut<br>pride<br>neutral<br>match<br>draw<br>guilt<br>access |  
+| bip_39_word_new_br_9 | rescue<br>nut<br>pride<br>neutral<br>match<br>draw<br>guilt<br>access<br>occur |  
+| bip_39_word_new_line_1 | rescue |  
+| bip_39_word_new_line_10 | rescue
 nut
 pride
 neutral
@@ -55,7 +55,7 @@ guilt
 access
 occur
 accuse |  
-| bip_39_word_new_line11 | rescue
+| bip_39_word_new_line_11 | rescue
 nut
 pride
 neutral
@@ -66,7 +66,7 @@ access
 occur
 accuse
 token |  
-| bip_39_word_new_line12 | rescue
+| bip_39_word_new_line_12 | rescue
 nut
 pride
 neutral
@@ -78,34 +78,34 @@ occur
 accuse
 token
 acid |  
-| bip_39_word_new_line2 | rescue
+| bip_39_word_new_line_2 | rescue
 nut |  
-| bip_39_word_new_line3 | rescue
+| bip_39_word_new_line_3 | rescue
 nut
 pride |  
-| bip_39_word_new_line4 | rescue
+| bip_39_word_new_line_4 | rescue
 nut
 pride
 neutral |  
-| bip_39_word_new_line5 | rescue
+| bip_39_word_new_line_5 | rescue
 nut
 pride
 neutral
 match |  
-| bip_39_word_new_line6 | rescue
+| bip_39_word_new_line_6 | rescue
 nut
 pride
 neutral
 match
 draw |  
-| bip_39_word_new_line7 | rescue
+| bip_39_word_new_line_7 | rescue
 nut
 pride
 neutral
 match
 draw
 guilt |  
-| bip_39_word_new_line8 | rescue
+| bip_39_word_new_line_8 | rescue
 nut
 pride
 neutral
@@ -113,7 +113,7 @@ match
 draw
 guilt
 access |  
-| bip_39_word_new_line9 | rescue
+| bip_39_word_new_line_9 | rescue
 nut
 pride
 neutral

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | giggle |  
-| bip_39_word_new_br10 | giggle<br>ignore<br>copper<br>duty<br>wear<br>purchase<br>science<br>unknown<br>stuff<br>happy |  
-| bip_39_word_new_br11 | giggle<br>ignore<br>copper<br>duty<br>wear<br>purchase<br>science<br>unknown<br>stuff<br>happy<br>safe |  
-| bip_39_word_new_br12 | giggle<br>ignore<br>copper<br>duty<br>wear<br>purchase<br>science<br>unknown<br>stuff<br>happy<br>safe<br>actor |  
-| bip_39_word_new_br2 | giggle<br>ignore |  
-| bip_39_word_new_br3 | giggle<br>ignore<br>copper |  
-| bip_39_word_new_br4 | giggle<br>ignore<br>copper<br>duty |  
-| bip_39_word_new_br5 | giggle<br>ignore<br>copper<br>duty<br>wear |  
-| bip_39_word_new_br6 | giggle<br>ignore<br>copper<br>duty<br>wear<br>purchase |  
-| bip_39_word_new_br7 | giggle<br>ignore<br>copper<br>duty<br>wear<br>purchase<br>science |  
-| bip_39_word_new_br8 | giggle<br>ignore<br>copper<br>duty<br>wear<br>purchase<br>science<br>unknown |  
-| bip_39_word_new_br9 | giggle<br>ignore<br>copper<br>duty<br>wear<br>purchase<br>science<br>unknown<br>stuff |  
-| bip_39_word_new_line1 | giggle |  
-| bip_39_word_new_line10 | giggle
+| bip_39_word_new_br_1 | giggle |  
+| bip_39_word_new_br_10 | giggle<br>ignore<br>copper<br>duty<br>wear<br>purchase<br>science<br>unknown<br>stuff<br>happy |  
+| bip_39_word_new_br_11 | giggle<br>ignore<br>copper<br>duty<br>wear<br>purchase<br>science<br>unknown<br>stuff<br>happy<br>safe |  
+| bip_39_word_new_br_12 | giggle<br>ignore<br>copper<br>duty<br>wear<br>purchase<br>science<br>unknown<br>stuff<br>happy<br>safe<br>actor |  
+| bip_39_word_new_br_2 | giggle<br>ignore |  
+| bip_39_word_new_br_3 | giggle<br>ignore<br>copper |  
+| bip_39_word_new_br_4 | giggle<br>ignore<br>copper<br>duty |  
+| bip_39_word_new_br_5 | giggle<br>ignore<br>copper<br>duty<br>wear |  
+| bip_39_word_new_br_6 | giggle<br>ignore<br>copper<br>duty<br>wear<br>purchase |  
+| bip_39_word_new_br_7 | giggle<br>ignore<br>copper<br>duty<br>wear<br>purchase<br>science |  
+| bip_39_word_new_br_8 | giggle<br>ignore<br>copper<br>duty<br>wear<br>purchase<br>science<br>unknown |  
+| bip_39_word_new_br_9 | giggle<br>ignore<br>copper<br>duty<br>wear<br>purchase<br>science<br>unknown<br>stuff |  
+| bip_39_word_new_line_1 | giggle |  
+| bip_39_word_new_line_10 | giggle
 ignore
 copper
 duty
@@ -55,7 +55,7 @@ science
 unknown
 stuff
 happy |  
-| bip_39_word_new_line11 | giggle
+| bip_39_word_new_line_11 | giggle
 ignore
 copper
 duty
@@ -66,7 +66,7 @@ unknown
 stuff
 happy
 safe |  
-| bip_39_word_new_line12 | giggle
+| bip_39_word_new_line_12 | giggle
 ignore
 copper
 duty
@@ -78,34 +78,34 @@ stuff
 happy
 safe
 actor |  
-| bip_39_word_new_line2 | giggle
+| bip_39_word_new_line_2 | giggle
 ignore |  
-| bip_39_word_new_line3 | giggle
+| bip_39_word_new_line_3 | giggle
 ignore
 copper |  
-| bip_39_word_new_line4 | giggle
+| bip_39_word_new_line_4 | giggle
 ignore
 copper
 duty |  
-| bip_39_word_new_line5 | giggle
+| bip_39_word_new_line_5 | giggle
 ignore
 copper
 duty
 wear |  
-| bip_39_word_new_line6 | giggle
+| bip_39_word_new_line_6 | giggle
 ignore
 copper
 duty
 wear
 purchase |  
-| bip_39_word_new_line7 | giggle
+| bip_39_word_new_line_7 | giggle
 ignore
 copper
 duty
 wear
 purchase
 science |  
-| bip_39_word_new_line8 | giggle
+| bip_39_word_new_line_8 | giggle
 ignore
 copper
 duty
@@ -113,7 +113,7 @@ wear
 purchase
 science
 unknown |  
-| bip_39_word_new_line9 | giggle
+| bip_39_word_new_line_9 | giggle
 ignore
 copper
 duty

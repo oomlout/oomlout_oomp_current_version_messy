@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wrist |  
-| bip_39_word_new_br10 | wrist<br>lunch<br>dignity<br>exist<br>already<br>balance<br>talent<br>mountain<br>square<br>napkin |  
-| bip_39_word_new_br11 | wrist<br>lunch<br>dignity<br>exist<br>already<br>balance<br>talent<br>mountain<br>square<br>napkin<br>erode |  
-| bip_39_word_new_br12 | wrist<br>lunch<br>dignity<br>exist<br>already<br>balance<br>talent<br>mountain<br>square<br>napkin<br>erode<br>album |  
-| bip_39_word_new_br2 | wrist<br>lunch |  
-| bip_39_word_new_br3 | wrist<br>lunch<br>dignity |  
-| bip_39_word_new_br4 | wrist<br>lunch<br>dignity<br>exist |  
-| bip_39_word_new_br5 | wrist<br>lunch<br>dignity<br>exist<br>already |  
-| bip_39_word_new_br6 | wrist<br>lunch<br>dignity<br>exist<br>already<br>balance |  
-| bip_39_word_new_br7 | wrist<br>lunch<br>dignity<br>exist<br>already<br>balance<br>talent |  
-| bip_39_word_new_br8 | wrist<br>lunch<br>dignity<br>exist<br>already<br>balance<br>talent<br>mountain |  
-| bip_39_word_new_br9 | wrist<br>lunch<br>dignity<br>exist<br>already<br>balance<br>talent<br>mountain<br>square |  
-| bip_39_word_new_line1 | wrist |  
-| bip_39_word_new_line10 | wrist
+| bip_39_word_new_br_1 | wrist |  
+| bip_39_word_new_br_10 | wrist<br>lunch<br>dignity<br>exist<br>already<br>balance<br>talent<br>mountain<br>square<br>napkin |  
+| bip_39_word_new_br_11 | wrist<br>lunch<br>dignity<br>exist<br>already<br>balance<br>talent<br>mountain<br>square<br>napkin<br>erode |  
+| bip_39_word_new_br_12 | wrist<br>lunch<br>dignity<br>exist<br>already<br>balance<br>talent<br>mountain<br>square<br>napkin<br>erode<br>album |  
+| bip_39_word_new_br_2 | wrist<br>lunch |  
+| bip_39_word_new_br_3 | wrist<br>lunch<br>dignity |  
+| bip_39_word_new_br_4 | wrist<br>lunch<br>dignity<br>exist |  
+| bip_39_word_new_br_5 | wrist<br>lunch<br>dignity<br>exist<br>already |  
+| bip_39_word_new_br_6 | wrist<br>lunch<br>dignity<br>exist<br>already<br>balance |  
+| bip_39_word_new_br_7 | wrist<br>lunch<br>dignity<br>exist<br>already<br>balance<br>talent |  
+| bip_39_word_new_br_8 | wrist<br>lunch<br>dignity<br>exist<br>already<br>balance<br>talent<br>mountain |  
+| bip_39_word_new_br_9 | wrist<br>lunch<br>dignity<br>exist<br>already<br>balance<br>talent<br>mountain<br>square |  
+| bip_39_word_new_line_1 | wrist |  
+| bip_39_word_new_line_10 | wrist
 lunch
 dignity
 exist
@@ -55,7 +55,7 @@ talent
 mountain
 square
 napkin |  
-| bip_39_word_new_line11 | wrist
+| bip_39_word_new_line_11 | wrist
 lunch
 dignity
 exist
@@ -66,7 +66,7 @@ mountain
 square
 napkin
 erode |  
-| bip_39_word_new_line12 | wrist
+| bip_39_word_new_line_12 | wrist
 lunch
 dignity
 exist
@@ -78,34 +78,34 @@ square
 napkin
 erode
 album |  
-| bip_39_word_new_line2 | wrist
+| bip_39_word_new_line_2 | wrist
 lunch |  
-| bip_39_word_new_line3 | wrist
+| bip_39_word_new_line_3 | wrist
 lunch
 dignity |  
-| bip_39_word_new_line4 | wrist
+| bip_39_word_new_line_4 | wrist
 lunch
 dignity
 exist |  
-| bip_39_word_new_line5 | wrist
+| bip_39_word_new_line_5 | wrist
 lunch
 dignity
 exist
 already |  
-| bip_39_word_new_line6 | wrist
+| bip_39_word_new_line_6 | wrist
 lunch
 dignity
 exist
 already
 balance |  
-| bip_39_word_new_line7 | wrist
+| bip_39_word_new_line_7 | wrist
 lunch
 dignity
 exist
 already
 balance
 talent |  
-| bip_39_word_new_line8 | wrist
+| bip_39_word_new_line_8 | wrist
 lunch
 dignity
 exist
@@ -113,7 +113,7 @@ already
 balance
 talent
 mountain |  
-| bip_39_word_new_line9 | wrist
+| bip_39_word_new_line_9 | wrist
 lunch
 dignity
 exist

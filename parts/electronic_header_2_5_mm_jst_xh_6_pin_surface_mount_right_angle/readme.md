@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | nation |  
-| bip_39_word_new_br10 | nation<br>object<br>awful<br>ozone<br>modify<br>equip<br>walnut<br>wealth<br>identify<br>escape |  
-| bip_39_word_new_br11 | nation<br>object<br>awful<br>ozone<br>modify<br>equip<br>walnut<br>wealth<br>identify<br>escape<br>permit |  
-| bip_39_word_new_br12 | nation<br>object<br>awful<br>ozone<br>modify<br>equip<br>walnut<br>wealth<br>identify<br>escape<br>permit<br>act |  
-| bip_39_word_new_br2 | nation<br>object |  
-| bip_39_word_new_br3 | nation<br>object<br>awful |  
-| bip_39_word_new_br4 | nation<br>object<br>awful<br>ozone |  
-| bip_39_word_new_br5 | nation<br>object<br>awful<br>ozone<br>modify |  
-| bip_39_word_new_br6 | nation<br>object<br>awful<br>ozone<br>modify<br>equip |  
-| bip_39_word_new_br7 | nation<br>object<br>awful<br>ozone<br>modify<br>equip<br>walnut |  
-| bip_39_word_new_br8 | nation<br>object<br>awful<br>ozone<br>modify<br>equip<br>walnut<br>wealth |  
-| bip_39_word_new_br9 | nation<br>object<br>awful<br>ozone<br>modify<br>equip<br>walnut<br>wealth<br>identify |  
-| bip_39_word_new_line1 | nation |  
-| bip_39_word_new_line10 | nation
+| bip_39_word_new_br_1 | nation |  
+| bip_39_word_new_br_10 | nation<br>object<br>awful<br>ozone<br>modify<br>equip<br>walnut<br>wealth<br>identify<br>escape |  
+| bip_39_word_new_br_11 | nation<br>object<br>awful<br>ozone<br>modify<br>equip<br>walnut<br>wealth<br>identify<br>escape<br>permit |  
+| bip_39_word_new_br_12 | nation<br>object<br>awful<br>ozone<br>modify<br>equip<br>walnut<br>wealth<br>identify<br>escape<br>permit<br>act |  
+| bip_39_word_new_br_2 | nation<br>object |  
+| bip_39_word_new_br_3 | nation<br>object<br>awful |  
+| bip_39_word_new_br_4 | nation<br>object<br>awful<br>ozone |  
+| bip_39_word_new_br_5 | nation<br>object<br>awful<br>ozone<br>modify |  
+| bip_39_word_new_br_6 | nation<br>object<br>awful<br>ozone<br>modify<br>equip |  
+| bip_39_word_new_br_7 | nation<br>object<br>awful<br>ozone<br>modify<br>equip<br>walnut |  
+| bip_39_word_new_br_8 | nation<br>object<br>awful<br>ozone<br>modify<br>equip<br>walnut<br>wealth |  
+| bip_39_word_new_br_9 | nation<br>object<br>awful<br>ozone<br>modify<br>equip<br>walnut<br>wealth<br>identify |  
+| bip_39_word_new_line_1 | nation |  
+| bip_39_word_new_line_10 | nation
 object
 awful
 ozone
@@ -55,7 +55,7 @@ walnut
 wealth
 identify
 escape |  
-| bip_39_word_new_line11 | nation
+| bip_39_word_new_line_11 | nation
 object
 awful
 ozone
@@ -66,7 +66,7 @@ wealth
 identify
 escape
 permit |  
-| bip_39_word_new_line12 | nation
+| bip_39_word_new_line_12 | nation
 object
 awful
 ozone
@@ -78,34 +78,34 @@ identify
 escape
 permit
 act |  
-| bip_39_word_new_line2 | nation
+| bip_39_word_new_line_2 | nation
 object |  
-| bip_39_word_new_line3 | nation
+| bip_39_word_new_line_3 | nation
 object
 awful |  
-| bip_39_word_new_line4 | nation
+| bip_39_word_new_line_4 | nation
 object
 awful
 ozone |  
-| bip_39_word_new_line5 | nation
+| bip_39_word_new_line_5 | nation
 object
 awful
 ozone
 modify |  
-| bip_39_word_new_line6 | nation
+| bip_39_word_new_line_6 | nation
 object
 awful
 ozone
 modify
 equip |  
-| bip_39_word_new_line7 | nation
+| bip_39_word_new_line_7 | nation
 object
 awful
 ozone
 modify
 equip
 walnut |  
-| bip_39_word_new_line8 | nation
+| bip_39_word_new_line_8 | nation
 object
 awful
 ozone
@@ -113,7 +113,7 @@ modify
 equip
 walnut
 wealth |  
-| bip_39_word_new_line9 | nation
+| bip_39_word_new_line_9 | nation
 object
 awful
 ozone

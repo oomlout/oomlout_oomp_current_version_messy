@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | like |  
-| bip_39_word_new_br10 | like<br>daughter<br>outer<br>model<br>frost<br>choice<br>seminar<br>defense<br>chapter<br>kangaroo |  
-| bip_39_word_new_br11 | like<br>daughter<br>outer<br>model<br>frost<br>choice<br>seminar<br>defense<br>chapter<br>kangaroo<br>cereal |  
-| bip_39_word_new_br12 | like<br>daughter<br>outer<br>model<br>frost<br>choice<br>seminar<br>defense<br>chapter<br>kangaroo<br>cereal<br>approve |  
-| bip_39_word_new_br2 | like<br>daughter |  
-| bip_39_word_new_br3 | like<br>daughter<br>outer |  
-| bip_39_word_new_br4 | like<br>daughter<br>outer<br>model |  
-| bip_39_word_new_br5 | like<br>daughter<br>outer<br>model<br>frost |  
-| bip_39_word_new_br6 | like<br>daughter<br>outer<br>model<br>frost<br>choice |  
-| bip_39_word_new_br7 | like<br>daughter<br>outer<br>model<br>frost<br>choice<br>seminar |  
-| bip_39_word_new_br8 | like<br>daughter<br>outer<br>model<br>frost<br>choice<br>seminar<br>defense |  
-| bip_39_word_new_br9 | like<br>daughter<br>outer<br>model<br>frost<br>choice<br>seminar<br>defense<br>chapter |  
-| bip_39_word_new_line1 | like |  
-| bip_39_word_new_line10 | like
+| bip_39_word_new_br_1 | like |  
+| bip_39_word_new_br_10 | like<br>daughter<br>outer<br>model<br>frost<br>choice<br>seminar<br>defense<br>chapter<br>kangaroo |  
+| bip_39_word_new_br_11 | like<br>daughter<br>outer<br>model<br>frost<br>choice<br>seminar<br>defense<br>chapter<br>kangaroo<br>cereal |  
+| bip_39_word_new_br_12 | like<br>daughter<br>outer<br>model<br>frost<br>choice<br>seminar<br>defense<br>chapter<br>kangaroo<br>cereal<br>approve |  
+| bip_39_word_new_br_2 | like<br>daughter |  
+| bip_39_word_new_br_3 | like<br>daughter<br>outer |  
+| bip_39_word_new_br_4 | like<br>daughter<br>outer<br>model |  
+| bip_39_word_new_br_5 | like<br>daughter<br>outer<br>model<br>frost |  
+| bip_39_word_new_br_6 | like<br>daughter<br>outer<br>model<br>frost<br>choice |  
+| bip_39_word_new_br_7 | like<br>daughter<br>outer<br>model<br>frost<br>choice<br>seminar |  
+| bip_39_word_new_br_8 | like<br>daughter<br>outer<br>model<br>frost<br>choice<br>seminar<br>defense |  
+| bip_39_word_new_br_9 | like<br>daughter<br>outer<br>model<br>frost<br>choice<br>seminar<br>defense<br>chapter |  
+| bip_39_word_new_line_1 | like |  
+| bip_39_word_new_line_10 | like
 daughter
 outer
 model
@@ -55,7 +55,7 @@ seminar
 defense
 chapter
 kangaroo |  
-| bip_39_word_new_line11 | like
+| bip_39_word_new_line_11 | like
 daughter
 outer
 model
@@ -66,7 +66,7 @@ defense
 chapter
 kangaroo
 cereal |  
-| bip_39_word_new_line12 | like
+| bip_39_word_new_line_12 | like
 daughter
 outer
 model
@@ -78,34 +78,34 @@ chapter
 kangaroo
 cereal
 approve |  
-| bip_39_word_new_line2 | like
+| bip_39_word_new_line_2 | like
 daughter |  
-| bip_39_word_new_line3 | like
+| bip_39_word_new_line_3 | like
 daughter
 outer |  
-| bip_39_word_new_line4 | like
+| bip_39_word_new_line_4 | like
 daughter
 outer
 model |  
-| bip_39_word_new_line5 | like
+| bip_39_word_new_line_5 | like
 daughter
 outer
 model
 frost |  
-| bip_39_word_new_line6 | like
+| bip_39_word_new_line_6 | like
 daughter
 outer
 model
 frost
 choice |  
-| bip_39_word_new_line7 | like
+| bip_39_word_new_line_7 | like
 daughter
 outer
 model
 frost
 choice
 seminar |  
-| bip_39_word_new_line8 | like
+| bip_39_word_new_line_8 | like
 daughter
 outer
 model
@@ -113,7 +113,7 @@ frost
 choice
 seminar
 defense |  
-| bip_39_word_new_line9 | like
+| bip_39_word_new_line_9 | like
 daughter
 outer
 model

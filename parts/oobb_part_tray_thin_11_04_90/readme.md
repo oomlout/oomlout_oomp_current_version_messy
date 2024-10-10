@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | drop |  
-| bip_39_word_new_br10 | drop<br>outdoor<br>smile<br>dune<br>village<br>tackle<br>access<br>swap<br>unable<br>wire |  
-| bip_39_word_new_br11 | drop<br>outdoor<br>smile<br>dune<br>village<br>tackle<br>access<br>swap<br>unable<br>wire<br>tide |  
-| bip_39_word_new_br12 | drop<br>outdoor<br>smile<br>dune<br>village<br>tackle<br>access<br>swap<br>unable<br>wire<br>tide<br>affair |  
-| bip_39_word_new_br2 | drop<br>outdoor |  
-| bip_39_word_new_br3 | drop<br>outdoor<br>smile |  
-| bip_39_word_new_br4 | drop<br>outdoor<br>smile<br>dune |  
-| bip_39_word_new_br5 | drop<br>outdoor<br>smile<br>dune<br>village |  
-| bip_39_word_new_br6 | drop<br>outdoor<br>smile<br>dune<br>village<br>tackle |  
-| bip_39_word_new_br7 | drop<br>outdoor<br>smile<br>dune<br>village<br>tackle<br>access |  
-| bip_39_word_new_br8 | drop<br>outdoor<br>smile<br>dune<br>village<br>tackle<br>access<br>swap |  
-| bip_39_word_new_br9 | drop<br>outdoor<br>smile<br>dune<br>village<br>tackle<br>access<br>swap<br>unable |  
-| bip_39_word_new_line1 | drop |  
-| bip_39_word_new_line10 | drop
+| bip_39_word_new_br_1 | drop |  
+| bip_39_word_new_br_10 | drop<br>outdoor<br>smile<br>dune<br>village<br>tackle<br>access<br>swap<br>unable<br>wire |  
+| bip_39_word_new_br_11 | drop<br>outdoor<br>smile<br>dune<br>village<br>tackle<br>access<br>swap<br>unable<br>wire<br>tide |  
+| bip_39_word_new_br_12 | drop<br>outdoor<br>smile<br>dune<br>village<br>tackle<br>access<br>swap<br>unable<br>wire<br>tide<br>affair |  
+| bip_39_word_new_br_2 | drop<br>outdoor |  
+| bip_39_word_new_br_3 | drop<br>outdoor<br>smile |  
+| bip_39_word_new_br_4 | drop<br>outdoor<br>smile<br>dune |  
+| bip_39_word_new_br_5 | drop<br>outdoor<br>smile<br>dune<br>village |  
+| bip_39_word_new_br_6 | drop<br>outdoor<br>smile<br>dune<br>village<br>tackle |  
+| bip_39_word_new_br_7 | drop<br>outdoor<br>smile<br>dune<br>village<br>tackle<br>access |  
+| bip_39_word_new_br_8 | drop<br>outdoor<br>smile<br>dune<br>village<br>tackle<br>access<br>swap |  
+| bip_39_word_new_br_9 | drop<br>outdoor<br>smile<br>dune<br>village<br>tackle<br>access<br>swap<br>unable |  
+| bip_39_word_new_line_1 | drop |  
+| bip_39_word_new_line_10 | drop
 outdoor
 smile
 dune
@@ -55,7 +55,7 @@ access
 swap
 unable
 wire |  
-| bip_39_word_new_line11 | drop
+| bip_39_word_new_line_11 | drop
 outdoor
 smile
 dune
@@ -66,7 +66,7 @@ swap
 unable
 wire
 tide |  
-| bip_39_word_new_line12 | drop
+| bip_39_word_new_line_12 | drop
 outdoor
 smile
 dune
@@ -78,34 +78,34 @@ unable
 wire
 tide
 affair |  
-| bip_39_word_new_line2 | drop
+| bip_39_word_new_line_2 | drop
 outdoor |  
-| bip_39_word_new_line3 | drop
+| bip_39_word_new_line_3 | drop
 outdoor
 smile |  
-| bip_39_word_new_line4 | drop
+| bip_39_word_new_line_4 | drop
 outdoor
 smile
 dune |  
-| bip_39_word_new_line5 | drop
+| bip_39_word_new_line_5 | drop
 outdoor
 smile
 dune
 village |  
-| bip_39_word_new_line6 | drop
+| bip_39_word_new_line_6 | drop
 outdoor
 smile
 dune
 village
 tackle |  
-| bip_39_word_new_line7 | drop
+| bip_39_word_new_line_7 | drop
 outdoor
 smile
 dune
 village
 tackle
 access |  
-| bip_39_word_new_line8 | drop
+| bip_39_word_new_line_8 | drop
 outdoor
 smile
 dune
@@ -113,7 +113,7 @@ village
 tackle
 access
 swap |  
-| bip_39_word_new_line9 | drop
+| bip_39_word_new_line_9 | drop
 outdoor
 smile
 dune

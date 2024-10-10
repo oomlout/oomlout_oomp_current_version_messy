@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | earth |  
-| bip_39_word_new_br10 | earth<br>ability<br>end<br>length<br>sustain<br>grab<br>nominee<br>below<br>ribbon<br>satoshi |  
-| bip_39_word_new_br11 | earth<br>ability<br>end<br>length<br>sustain<br>grab<br>nominee<br>below<br>ribbon<br>satoshi<br>hybrid |  
-| bip_39_word_new_br12 | earth<br>ability<br>end<br>length<br>sustain<br>grab<br>nominee<br>below<br>ribbon<br>satoshi<br>hybrid<br>analyst |  
-| bip_39_word_new_br2 | earth<br>ability |  
-| bip_39_word_new_br3 | earth<br>ability<br>end |  
-| bip_39_word_new_br4 | earth<br>ability<br>end<br>length |  
-| bip_39_word_new_br5 | earth<br>ability<br>end<br>length<br>sustain |  
-| bip_39_word_new_br6 | earth<br>ability<br>end<br>length<br>sustain<br>grab |  
-| bip_39_word_new_br7 | earth<br>ability<br>end<br>length<br>sustain<br>grab<br>nominee |  
-| bip_39_word_new_br8 | earth<br>ability<br>end<br>length<br>sustain<br>grab<br>nominee<br>below |  
-| bip_39_word_new_br9 | earth<br>ability<br>end<br>length<br>sustain<br>grab<br>nominee<br>below<br>ribbon |  
-| bip_39_word_new_line1 | earth |  
-| bip_39_word_new_line10 | earth
+| bip_39_word_new_br_1 | earth |  
+| bip_39_word_new_br_10 | earth<br>ability<br>end<br>length<br>sustain<br>grab<br>nominee<br>below<br>ribbon<br>satoshi |  
+| bip_39_word_new_br_11 | earth<br>ability<br>end<br>length<br>sustain<br>grab<br>nominee<br>below<br>ribbon<br>satoshi<br>hybrid |  
+| bip_39_word_new_br_12 | earth<br>ability<br>end<br>length<br>sustain<br>grab<br>nominee<br>below<br>ribbon<br>satoshi<br>hybrid<br>analyst |  
+| bip_39_word_new_br_2 | earth<br>ability |  
+| bip_39_word_new_br_3 | earth<br>ability<br>end |  
+| bip_39_word_new_br_4 | earth<br>ability<br>end<br>length |  
+| bip_39_word_new_br_5 | earth<br>ability<br>end<br>length<br>sustain |  
+| bip_39_word_new_br_6 | earth<br>ability<br>end<br>length<br>sustain<br>grab |  
+| bip_39_word_new_br_7 | earth<br>ability<br>end<br>length<br>sustain<br>grab<br>nominee |  
+| bip_39_word_new_br_8 | earth<br>ability<br>end<br>length<br>sustain<br>grab<br>nominee<br>below |  
+| bip_39_word_new_br_9 | earth<br>ability<br>end<br>length<br>sustain<br>grab<br>nominee<br>below<br>ribbon |  
+| bip_39_word_new_line_1 | earth |  
+| bip_39_word_new_line_10 | earth
 ability
 end
 length
@@ -55,7 +55,7 @@ nominee
 below
 ribbon
 satoshi |  
-| bip_39_word_new_line11 | earth
+| bip_39_word_new_line_11 | earth
 ability
 end
 length
@@ -66,7 +66,7 @@ below
 ribbon
 satoshi
 hybrid |  
-| bip_39_word_new_line12 | earth
+| bip_39_word_new_line_12 | earth
 ability
 end
 length
@@ -78,34 +78,34 @@ ribbon
 satoshi
 hybrid
 analyst |  
-| bip_39_word_new_line2 | earth
+| bip_39_word_new_line_2 | earth
 ability |  
-| bip_39_word_new_line3 | earth
+| bip_39_word_new_line_3 | earth
 ability
 end |  
-| bip_39_word_new_line4 | earth
+| bip_39_word_new_line_4 | earth
 ability
 end
 length |  
-| bip_39_word_new_line5 | earth
+| bip_39_word_new_line_5 | earth
 ability
 end
 length
 sustain |  
-| bip_39_word_new_line6 | earth
+| bip_39_word_new_line_6 | earth
 ability
 end
 length
 sustain
 grab |  
-| bip_39_word_new_line7 | earth
+| bip_39_word_new_line_7 | earth
 ability
 end
 length
 sustain
 grab
 nominee |  
-| bip_39_word_new_line8 | earth
+| bip_39_word_new_line_8 | earth
 ability
 end
 length
@@ -113,7 +113,7 @@ sustain
 grab
 nominee
 below |  
-| bip_39_word_new_line9 | earth
+| bip_39_word_new_line_9 | earth
 ability
 end
 length

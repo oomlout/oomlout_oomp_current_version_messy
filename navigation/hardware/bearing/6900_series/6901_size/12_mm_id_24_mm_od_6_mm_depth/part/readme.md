@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | secret |  
-| bip_39_word_new_br10 | secret<br>address<br>over<br>wolf<br>recall<br>female<br>suggest<br>attack<br>gallery<br>crater |  
-| bip_39_word_new_br11 | secret<br>address<br>over<br>wolf<br>recall<br>female<br>suggest<br>attack<br>gallery<br>crater<br>pill |  
-| bip_39_word_new_br12 | secret<br>address<br>over<br>wolf<br>recall<br>female<br>suggest<br>attack<br>gallery<br>crater<br>pill<br>antenna |  
-| bip_39_word_new_br2 | secret<br>address |  
-| bip_39_word_new_br3 | secret<br>address<br>over |  
-| bip_39_word_new_br4 | secret<br>address<br>over<br>wolf |  
-| bip_39_word_new_br5 | secret<br>address<br>over<br>wolf<br>recall |  
-| bip_39_word_new_br6 | secret<br>address<br>over<br>wolf<br>recall<br>female |  
-| bip_39_word_new_br7 | secret<br>address<br>over<br>wolf<br>recall<br>female<br>suggest |  
-| bip_39_word_new_br8 | secret<br>address<br>over<br>wolf<br>recall<br>female<br>suggest<br>attack |  
-| bip_39_word_new_br9 | secret<br>address<br>over<br>wolf<br>recall<br>female<br>suggest<br>attack<br>gallery |  
-| bip_39_word_new_line1 | secret |  
-| bip_39_word_new_line10 | secret
+| bip_39_word_new_br_1 | secret |  
+| bip_39_word_new_br_10 | secret<br>address<br>over<br>wolf<br>recall<br>female<br>suggest<br>attack<br>gallery<br>crater |  
+| bip_39_word_new_br_11 | secret<br>address<br>over<br>wolf<br>recall<br>female<br>suggest<br>attack<br>gallery<br>crater<br>pill |  
+| bip_39_word_new_br_12 | secret<br>address<br>over<br>wolf<br>recall<br>female<br>suggest<br>attack<br>gallery<br>crater<br>pill<br>antenna |  
+| bip_39_word_new_br_2 | secret<br>address |  
+| bip_39_word_new_br_3 | secret<br>address<br>over |  
+| bip_39_word_new_br_4 | secret<br>address<br>over<br>wolf |  
+| bip_39_word_new_br_5 | secret<br>address<br>over<br>wolf<br>recall |  
+| bip_39_word_new_br_6 | secret<br>address<br>over<br>wolf<br>recall<br>female |  
+| bip_39_word_new_br_7 | secret<br>address<br>over<br>wolf<br>recall<br>female<br>suggest |  
+| bip_39_word_new_br_8 | secret<br>address<br>over<br>wolf<br>recall<br>female<br>suggest<br>attack |  
+| bip_39_word_new_br_9 | secret<br>address<br>over<br>wolf<br>recall<br>female<br>suggest<br>attack<br>gallery |  
+| bip_39_word_new_line_1 | secret |  
+| bip_39_word_new_line_10 | secret
 address
 over
 wolf
@@ -55,7 +55,7 @@ suggest
 attack
 gallery
 crater |  
-| bip_39_word_new_line11 | secret
+| bip_39_word_new_line_11 | secret
 address
 over
 wolf
@@ -66,7 +66,7 @@ attack
 gallery
 crater
 pill |  
-| bip_39_word_new_line12 | secret
+| bip_39_word_new_line_12 | secret
 address
 over
 wolf
@@ -78,34 +78,34 @@ gallery
 crater
 pill
 antenna |  
-| bip_39_word_new_line2 | secret
+| bip_39_word_new_line_2 | secret
 address |  
-| bip_39_word_new_line3 | secret
+| bip_39_word_new_line_3 | secret
 address
 over |  
-| bip_39_word_new_line4 | secret
+| bip_39_word_new_line_4 | secret
 address
 over
 wolf |  
-| bip_39_word_new_line5 | secret
+| bip_39_word_new_line_5 | secret
 address
 over
 wolf
 recall |  
-| bip_39_word_new_line6 | secret
+| bip_39_word_new_line_6 | secret
 address
 over
 wolf
 recall
 female |  
-| bip_39_word_new_line7 | secret
+| bip_39_word_new_line_7 | secret
 address
 over
 wolf
 recall
 female
 suggest |  
-| bip_39_word_new_line8 | secret
+| bip_39_word_new_line_8 | secret
 address
 over
 wolf
@@ -113,7 +113,7 @@ recall
 female
 suggest
 attack |  
-| bip_39_word_new_line9 | secret
+| bip_39_word_new_line_9 | secret
 address
 over
 wolf

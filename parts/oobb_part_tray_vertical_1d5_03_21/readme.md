@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | online |  
-| bip_39_word_new_br10 | online<br>guide<br>main<br>primary<br>glow<br>net<br>soccer<br>world<br>lazy<br>artwork |  
-| bip_39_word_new_br11 | online<br>guide<br>main<br>primary<br>glow<br>net<br>soccer<br>world<br>lazy<br>artwork<br>august |  
-| bip_39_word_new_br12 | online<br>guide<br>main<br>primary<br>glow<br>net<br>soccer<br>world<br>lazy<br>artwork<br>august<br>airport |  
-| bip_39_word_new_br2 | online<br>guide |  
-| bip_39_word_new_br3 | online<br>guide<br>main |  
-| bip_39_word_new_br4 | online<br>guide<br>main<br>primary |  
-| bip_39_word_new_br5 | online<br>guide<br>main<br>primary<br>glow |  
-| bip_39_word_new_br6 | online<br>guide<br>main<br>primary<br>glow<br>net |  
-| bip_39_word_new_br7 | online<br>guide<br>main<br>primary<br>glow<br>net<br>soccer |  
-| bip_39_word_new_br8 | online<br>guide<br>main<br>primary<br>glow<br>net<br>soccer<br>world |  
-| bip_39_word_new_br9 | online<br>guide<br>main<br>primary<br>glow<br>net<br>soccer<br>world<br>lazy |  
-| bip_39_word_new_line1 | online |  
-| bip_39_word_new_line10 | online
+| bip_39_word_new_br_1 | online |  
+| bip_39_word_new_br_10 | online<br>guide<br>main<br>primary<br>glow<br>net<br>soccer<br>world<br>lazy<br>artwork |  
+| bip_39_word_new_br_11 | online<br>guide<br>main<br>primary<br>glow<br>net<br>soccer<br>world<br>lazy<br>artwork<br>august |  
+| bip_39_word_new_br_12 | online<br>guide<br>main<br>primary<br>glow<br>net<br>soccer<br>world<br>lazy<br>artwork<br>august<br>airport |  
+| bip_39_word_new_br_2 | online<br>guide |  
+| bip_39_word_new_br_3 | online<br>guide<br>main |  
+| bip_39_word_new_br_4 | online<br>guide<br>main<br>primary |  
+| bip_39_word_new_br_5 | online<br>guide<br>main<br>primary<br>glow |  
+| bip_39_word_new_br_6 | online<br>guide<br>main<br>primary<br>glow<br>net |  
+| bip_39_word_new_br_7 | online<br>guide<br>main<br>primary<br>glow<br>net<br>soccer |  
+| bip_39_word_new_br_8 | online<br>guide<br>main<br>primary<br>glow<br>net<br>soccer<br>world |  
+| bip_39_word_new_br_9 | online<br>guide<br>main<br>primary<br>glow<br>net<br>soccer<br>world<br>lazy |  
+| bip_39_word_new_line_1 | online |  
+| bip_39_word_new_line_10 | online
 guide
 main
 primary
@@ -55,7 +55,7 @@ soccer
 world
 lazy
 artwork |  
-| bip_39_word_new_line11 | online
+| bip_39_word_new_line_11 | online
 guide
 main
 primary
@@ -66,7 +66,7 @@ world
 lazy
 artwork
 august |  
-| bip_39_word_new_line12 | online
+| bip_39_word_new_line_12 | online
 guide
 main
 primary
@@ -78,34 +78,34 @@ lazy
 artwork
 august
 airport |  
-| bip_39_word_new_line2 | online
+| bip_39_word_new_line_2 | online
 guide |  
-| bip_39_word_new_line3 | online
+| bip_39_word_new_line_3 | online
 guide
 main |  
-| bip_39_word_new_line4 | online
+| bip_39_word_new_line_4 | online
 guide
 main
 primary |  
-| bip_39_word_new_line5 | online
+| bip_39_word_new_line_5 | online
 guide
 main
 primary
 glow |  
-| bip_39_word_new_line6 | online
+| bip_39_word_new_line_6 | online
 guide
 main
 primary
 glow
 net |  
-| bip_39_word_new_line7 | online
+| bip_39_word_new_line_7 | online
 guide
 main
 primary
 glow
 net
 soccer |  
-| bip_39_word_new_line8 | online
+| bip_39_word_new_line_8 | online
 guide
 main
 primary
@@ -113,7 +113,7 @@ glow
 net
 soccer
 world |  
-| bip_39_word_new_line9 | online
+| bip_39_word_new_line_9 | online
 guide
 main
 primary

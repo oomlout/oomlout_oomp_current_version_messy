@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | deal |  
-| bip_39_word_new_br10 | deal<br>blouse<br>orange<br>provide<br>talent<br>truck<br>cheese<br>stomach<br>project<br>mother |  
-| bip_39_word_new_br11 | deal<br>blouse<br>orange<br>provide<br>talent<br>truck<br>cheese<br>stomach<br>project<br>mother<br>share |  
-| bip_39_word_new_br12 | deal<br>blouse<br>orange<br>provide<br>talent<br>truck<br>cheese<br>stomach<br>project<br>mother<br>share<br>alpha |  
-| bip_39_word_new_br2 | deal<br>blouse |  
-| bip_39_word_new_br3 | deal<br>blouse<br>orange |  
-| bip_39_word_new_br4 | deal<br>blouse<br>orange<br>provide |  
-| bip_39_word_new_br5 | deal<br>blouse<br>orange<br>provide<br>talent |  
-| bip_39_word_new_br6 | deal<br>blouse<br>orange<br>provide<br>talent<br>truck |  
-| bip_39_word_new_br7 | deal<br>blouse<br>orange<br>provide<br>talent<br>truck<br>cheese |  
-| bip_39_word_new_br8 | deal<br>blouse<br>orange<br>provide<br>talent<br>truck<br>cheese<br>stomach |  
-| bip_39_word_new_br9 | deal<br>blouse<br>orange<br>provide<br>talent<br>truck<br>cheese<br>stomach<br>project |  
-| bip_39_word_new_line1 | deal |  
-| bip_39_word_new_line10 | deal
+| bip_39_word_new_br_1 | deal |  
+| bip_39_word_new_br_10 | deal<br>blouse<br>orange<br>provide<br>talent<br>truck<br>cheese<br>stomach<br>project<br>mother |  
+| bip_39_word_new_br_11 | deal<br>blouse<br>orange<br>provide<br>talent<br>truck<br>cheese<br>stomach<br>project<br>mother<br>share |  
+| bip_39_word_new_br_12 | deal<br>blouse<br>orange<br>provide<br>talent<br>truck<br>cheese<br>stomach<br>project<br>mother<br>share<br>alpha |  
+| bip_39_word_new_br_2 | deal<br>blouse |  
+| bip_39_word_new_br_3 | deal<br>blouse<br>orange |  
+| bip_39_word_new_br_4 | deal<br>blouse<br>orange<br>provide |  
+| bip_39_word_new_br_5 | deal<br>blouse<br>orange<br>provide<br>talent |  
+| bip_39_word_new_br_6 | deal<br>blouse<br>orange<br>provide<br>talent<br>truck |  
+| bip_39_word_new_br_7 | deal<br>blouse<br>orange<br>provide<br>talent<br>truck<br>cheese |  
+| bip_39_word_new_br_8 | deal<br>blouse<br>orange<br>provide<br>talent<br>truck<br>cheese<br>stomach |  
+| bip_39_word_new_br_9 | deal<br>blouse<br>orange<br>provide<br>talent<br>truck<br>cheese<br>stomach<br>project |  
+| bip_39_word_new_line_1 | deal |  
+| bip_39_word_new_line_10 | deal
 blouse
 orange
 provide
@@ -55,7 +55,7 @@ cheese
 stomach
 project
 mother |  
-| bip_39_word_new_line11 | deal
+| bip_39_word_new_line_11 | deal
 blouse
 orange
 provide
@@ -66,7 +66,7 @@ stomach
 project
 mother
 share |  
-| bip_39_word_new_line12 | deal
+| bip_39_word_new_line_12 | deal
 blouse
 orange
 provide
@@ -78,34 +78,34 @@ project
 mother
 share
 alpha |  
-| bip_39_word_new_line2 | deal
+| bip_39_word_new_line_2 | deal
 blouse |  
-| bip_39_word_new_line3 | deal
+| bip_39_word_new_line_3 | deal
 blouse
 orange |  
-| bip_39_word_new_line4 | deal
+| bip_39_word_new_line_4 | deal
 blouse
 orange
 provide |  
-| bip_39_word_new_line5 | deal
+| bip_39_word_new_line_5 | deal
 blouse
 orange
 provide
 talent |  
-| bip_39_word_new_line6 | deal
+| bip_39_word_new_line_6 | deal
 blouse
 orange
 provide
 talent
 truck |  
-| bip_39_word_new_line7 | deal
+| bip_39_word_new_line_7 | deal
 blouse
 orange
 provide
 talent
 truck
 cheese |  
-| bip_39_word_new_line8 | deal
+| bip_39_word_new_line_8 | deal
 blouse
 orange
 provide
@@ -113,7 +113,7 @@ talent
 truck
 cheese
 stomach |  
-| bip_39_word_new_line9 | deal
+| bip_39_word_new_line_9 | deal
 blouse
 orange
 provide

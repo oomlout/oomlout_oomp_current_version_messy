@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ribbon |  
-| bip_39_word_new_br10 | ribbon<br>style<br>apart<br>void<br>side<br>thrive<br>visual<br>insect<br>raw<br>develop |  
-| bip_39_word_new_br11 | ribbon<br>style<br>apart<br>void<br>side<br>thrive<br>visual<br>insect<br>raw<br>develop<br>pottery |  
-| bip_39_word_new_br12 | ribbon<br>style<br>apart<br>void<br>side<br>thrive<br>visual<br>insect<br>raw<br>develop<br>pottery<br>among |  
-| bip_39_word_new_br2 | ribbon<br>style |  
-| bip_39_word_new_br3 | ribbon<br>style<br>apart |  
-| bip_39_word_new_br4 | ribbon<br>style<br>apart<br>void |  
-| bip_39_word_new_br5 | ribbon<br>style<br>apart<br>void<br>side |  
-| bip_39_word_new_br6 | ribbon<br>style<br>apart<br>void<br>side<br>thrive |  
-| bip_39_word_new_br7 | ribbon<br>style<br>apart<br>void<br>side<br>thrive<br>visual |  
-| bip_39_word_new_br8 | ribbon<br>style<br>apart<br>void<br>side<br>thrive<br>visual<br>insect |  
-| bip_39_word_new_br9 | ribbon<br>style<br>apart<br>void<br>side<br>thrive<br>visual<br>insect<br>raw |  
-| bip_39_word_new_line1 | ribbon |  
-| bip_39_word_new_line10 | ribbon
+| bip_39_word_new_br_1 | ribbon |  
+| bip_39_word_new_br_10 | ribbon<br>style<br>apart<br>void<br>side<br>thrive<br>visual<br>insect<br>raw<br>develop |  
+| bip_39_word_new_br_11 | ribbon<br>style<br>apart<br>void<br>side<br>thrive<br>visual<br>insect<br>raw<br>develop<br>pottery |  
+| bip_39_word_new_br_12 | ribbon<br>style<br>apart<br>void<br>side<br>thrive<br>visual<br>insect<br>raw<br>develop<br>pottery<br>among |  
+| bip_39_word_new_br_2 | ribbon<br>style |  
+| bip_39_word_new_br_3 | ribbon<br>style<br>apart |  
+| bip_39_word_new_br_4 | ribbon<br>style<br>apart<br>void |  
+| bip_39_word_new_br_5 | ribbon<br>style<br>apart<br>void<br>side |  
+| bip_39_word_new_br_6 | ribbon<br>style<br>apart<br>void<br>side<br>thrive |  
+| bip_39_word_new_br_7 | ribbon<br>style<br>apart<br>void<br>side<br>thrive<br>visual |  
+| bip_39_word_new_br_8 | ribbon<br>style<br>apart<br>void<br>side<br>thrive<br>visual<br>insect |  
+| bip_39_word_new_br_9 | ribbon<br>style<br>apart<br>void<br>side<br>thrive<br>visual<br>insect<br>raw |  
+| bip_39_word_new_line_1 | ribbon |  
+| bip_39_word_new_line_10 | ribbon
 style
 apart
 void
@@ -55,7 +55,7 @@ visual
 insect
 raw
 develop |  
-| bip_39_word_new_line11 | ribbon
+| bip_39_word_new_line_11 | ribbon
 style
 apart
 void
@@ -66,7 +66,7 @@ insect
 raw
 develop
 pottery |  
-| bip_39_word_new_line12 | ribbon
+| bip_39_word_new_line_12 | ribbon
 style
 apart
 void
@@ -78,34 +78,34 @@ raw
 develop
 pottery
 among |  
-| bip_39_word_new_line2 | ribbon
+| bip_39_word_new_line_2 | ribbon
 style |  
-| bip_39_word_new_line3 | ribbon
+| bip_39_word_new_line_3 | ribbon
 style
 apart |  
-| bip_39_word_new_line4 | ribbon
+| bip_39_word_new_line_4 | ribbon
 style
 apart
 void |  
-| bip_39_word_new_line5 | ribbon
+| bip_39_word_new_line_5 | ribbon
 style
 apart
 void
 side |  
-| bip_39_word_new_line6 | ribbon
+| bip_39_word_new_line_6 | ribbon
 style
 apart
 void
 side
 thrive |  
-| bip_39_word_new_line7 | ribbon
+| bip_39_word_new_line_7 | ribbon
 style
 apart
 void
 side
 thrive
 visual |  
-| bip_39_word_new_line8 | ribbon
+| bip_39_word_new_line_8 | ribbon
 style
 apart
 void
@@ -113,7 +113,7 @@ side
 thrive
 visual
 insect |  
-| bip_39_word_new_line9 | ribbon
+| bip_39_word_new_line_9 | ribbon
 style
 apart
 void

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cook |  
-| bip_39_word_new_br10 | cook<br>story<br>benefit<br>roof<br>huge<br>asset<br>need<br>gentle<br>denial<br>party |  
-| bip_39_word_new_br11 | cook<br>story<br>benefit<br>roof<br>huge<br>asset<br>need<br>gentle<br>denial<br>party<br>scene |  
-| bip_39_word_new_br12 | cook<br>story<br>benefit<br>roof<br>huge<br>asset<br>need<br>gentle<br>denial<br>party<br>scene<br>always |  
-| bip_39_word_new_br2 | cook<br>story |  
-| bip_39_word_new_br3 | cook<br>story<br>benefit |  
-| bip_39_word_new_br4 | cook<br>story<br>benefit<br>roof |  
-| bip_39_word_new_br5 | cook<br>story<br>benefit<br>roof<br>huge |  
-| bip_39_word_new_br6 | cook<br>story<br>benefit<br>roof<br>huge<br>asset |  
-| bip_39_word_new_br7 | cook<br>story<br>benefit<br>roof<br>huge<br>asset<br>need |  
-| bip_39_word_new_br8 | cook<br>story<br>benefit<br>roof<br>huge<br>asset<br>need<br>gentle |  
-| bip_39_word_new_br9 | cook<br>story<br>benefit<br>roof<br>huge<br>asset<br>need<br>gentle<br>denial |  
-| bip_39_word_new_line1 | cook |  
-| bip_39_word_new_line10 | cook
+| bip_39_word_new_br_1 | cook |  
+| bip_39_word_new_br_10 | cook<br>story<br>benefit<br>roof<br>huge<br>asset<br>need<br>gentle<br>denial<br>party |  
+| bip_39_word_new_br_11 | cook<br>story<br>benefit<br>roof<br>huge<br>asset<br>need<br>gentle<br>denial<br>party<br>scene |  
+| bip_39_word_new_br_12 | cook<br>story<br>benefit<br>roof<br>huge<br>asset<br>need<br>gentle<br>denial<br>party<br>scene<br>always |  
+| bip_39_word_new_br_2 | cook<br>story |  
+| bip_39_word_new_br_3 | cook<br>story<br>benefit |  
+| bip_39_word_new_br_4 | cook<br>story<br>benefit<br>roof |  
+| bip_39_word_new_br_5 | cook<br>story<br>benefit<br>roof<br>huge |  
+| bip_39_word_new_br_6 | cook<br>story<br>benefit<br>roof<br>huge<br>asset |  
+| bip_39_word_new_br_7 | cook<br>story<br>benefit<br>roof<br>huge<br>asset<br>need |  
+| bip_39_word_new_br_8 | cook<br>story<br>benefit<br>roof<br>huge<br>asset<br>need<br>gentle |  
+| bip_39_word_new_br_9 | cook<br>story<br>benefit<br>roof<br>huge<br>asset<br>need<br>gentle<br>denial |  
+| bip_39_word_new_line_1 | cook |  
+| bip_39_word_new_line_10 | cook
 story
 benefit
 roof
@@ -55,7 +55,7 @@ need
 gentle
 denial
 party |  
-| bip_39_word_new_line11 | cook
+| bip_39_word_new_line_11 | cook
 story
 benefit
 roof
@@ -66,7 +66,7 @@ gentle
 denial
 party
 scene |  
-| bip_39_word_new_line12 | cook
+| bip_39_word_new_line_12 | cook
 story
 benefit
 roof
@@ -78,34 +78,34 @@ denial
 party
 scene
 always |  
-| bip_39_word_new_line2 | cook
+| bip_39_word_new_line_2 | cook
 story |  
-| bip_39_word_new_line3 | cook
+| bip_39_word_new_line_3 | cook
 story
 benefit |  
-| bip_39_word_new_line4 | cook
+| bip_39_word_new_line_4 | cook
 story
 benefit
 roof |  
-| bip_39_word_new_line5 | cook
+| bip_39_word_new_line_5 | cook
 story
 benefit
 roof
 huge |  
-| bip_39_word_new_line6 | cook
+| bip_39_word_new_line_6 | cook
 story
 benefit
 roof
 huge
 asset |  
-| bip_39_word_new_line7 | cook
+| bip_39_word_new_line_7 | cook
 story
 benefit
 roof
 huge
 asset
 need |  
-| bip_39_word_new_line8 | cook
+| bip_39_word_new_line_8 | cook
 story
 benefit
 roof
@@ -113,7 +113,7 @@ huge
 asset
 need
 gentle |  
-| bip_39_word_new_line9 | cook
+| bip_39_word_new_line_9 | cook
 story
 benefit
 roof

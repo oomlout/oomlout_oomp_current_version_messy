@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | erode |  
-| bip_39_word_new_br10 | erode<br>aware<br>whip<br>maximum<br>later<br>action<br>apology<br>safe<br>hundred<br>embrace |  
-| bip_39_word_new_br11 | erode<br>aware<br>whip<br>maximum<br>later<br>action<br>apology<br>safe<br>hundred<br>embrace<br>vacant |  
-| bip_39_word_new_br12 | erode<br>aware<br>whip<br>maximum<br>later<br>action<br>apology<br>safe<br>hundred<br>embrace<br>vacant<br>angry |  
-| bip_39_word_new_br2 | erode<br>aware |  
-| bip_39_word_new_br3 | erode<br>aware<br>whip |  
-| bip_39_word_new_br4 | erode<br>aware<br>whip<br>maximum |  
-| bip_39_word_new_br5 | erode<br>aware<br>whip<br>maximum<br>later |  
-| bip_39_word_new_br6 | erode<br>aware<br>whip<br>maximum<br>later<br>action |  
-| bip_39_word_new_br7 | erode<br>aware<br>whip<br>maximum<br>later<br>action<br>apology |  
-| bip_39_word_new_br8 | erode<br>aware<br>whip<br>maximum<br>later<br>action<br>apology<br>safe |  
-| bip_39_word_new_br9 | erode<br>aware<br>whip<br>maximum<br>later<br>action<br>apology<br>safe<br>hundred |  
-| bip_39_word_new_line1 | erode |  
-| bip_39_word_new_line10 | erode
+| bip_39_word_new_br_1 | erode |  
+| bip_39_word_new_br_10 | erode<br>aware<br>whip<br>maximum<br>later<br>action<br>apology<br>safe<br>hundred<br>embrace |  
+| bip_39_word_new_br_11 | erode<br>aware<br>whip<br>maximum<br>later<br>action<br>apology<br>safe<br>hundred<br>embrace<br>vacant |  
+| bip_39_word_new_br_12 | erode<br>aware<br>whip<br>maximum<br>later<br>action<br>apology<br>safe<br>hundred<br>embrace<br>vacant<br>angry |  
+| bip_39_word_new_br_2 | erode<br>aware |  
+| bip_39_word_new_br_3 | erode<br>aware<br>whip |  
+| bip_39_word_new_br_4 | erode<br>aware<br>whip<br>maximum |  
+| bip_39_word_new_br_5 | erode<br>aware<br>whip<br>maximum<br>later |  
+| bip_39_word_new_br_6 | erode<br>aware<br>whip<br>maximum<br>later<br>action |  
+| bip_39_word_new_br_7 | erode<br>aware<br>whip<br>maximum<br>later<br>action<br>apology |  
+| bip_39_word_new_br_8 | erode<br>aware<br>whip<br>maximum<br>later<br>action<br>apology<br>safe |  
+| bip_39_word_new_br_9 | erode<br>aware<br>whip<br>maximum<br>later<br>action<br>apology<br>safe<br>hundred |  
+| bip_39_word_new_line_1 | erode |  
+| bip_39_word_new_line_10 | erode
 aware
 whip
 maximum
@@ -55,7 +55,7 @@ apology
 safe
 hundred
 embrace |  
-| bip_39_word_new_line11 | erode
+| bip_39_word_new_line_11 | erode
 aware
 whip
 maximum
@@ -66,7 +66,7 @@ safe
 hundred
 embrace
 vacant |  
-| bip_39_word_new_line12 | erode
+| bip_39_word_new_line_12 | erode
 aware
 whip
 maximum
@@ -78,34 +78,34 @@ hundred
 embrace
 vacant
 angry |  
-| bip_39_word_new_line2 | erode
+| bip_39_word_new_line_2 | erode
 aware |  
-| bip_39_word_new_line3 | erode
+| bip_39_word_new_line_3 | erode
 aware
 whip |  
-| bip_39_word_new_line4 | erode
+| bip_39_word_new_line_4 | erode
 aware
 whip
 maximum |  
-| bip_39_word_new_line5 | erode
+| bip_39_word_new_line_5 | erode
 aware
 whip
 maximum
 later |  
-| bip_39_word_new_line6 | erode
+| bip_39_word_new_line_6 | erode
 aware
 whip
 maximum
 later
 action |  
-| bip_39_word_new_line7 | erode
+| bip_39_word_new_line_7 | erode
 aware
 whip
 maximum
 later
 action
 apology |  
-| bip_39_word_new_line8 | erode
+| bip_39_word_new_line_8 | erode
 aware
 whip
 maximum
@@ -113,7 +113,7 @@ later
 action
 apology
 safe |  
-| bip_39_word_new_line9 | erode
+| bip_39_word_new_line_9 | erode
 aware
 whip
 maximum

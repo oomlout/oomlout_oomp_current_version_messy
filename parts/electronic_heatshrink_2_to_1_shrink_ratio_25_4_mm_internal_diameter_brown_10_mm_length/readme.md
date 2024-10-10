@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | spend |  
-| bip_39_word_new_br10 | spend<br>until<br>wheel<br>satoshi<br>someone<br>twelve<br>hybrid<br>toddler<br>orient<br>involve |  
-| bip_39_word_new_br11 | spend<br>until<br>wheel<br>satoshi<br>someone<br>twelve<br>hybrid<br>toddler<br>orient<br>involve<br>chest |  
-| bip_39_word_new_br12 | spend<br>until<br>wheel<br>satoshi<br>someone<br>twelve<br>hybrid<br>toddler<br>orient<br>involve<br>chest<br>alone |  
-| bip_39_word_new_br2 | spend<br>until |  
-| bip_39_word_new_br3 | spend<br>until<br>wheel |  
-| bip_39_word_new_br4 | spend<br>until<br>wheel<br>satoshi |  
-| bip_39_word_new_br5 | spend<br>until<br>wheel<br>satoshi<br>someone |  
-| bip_39_word_new_br6 | spend<br>until<br>wheel<br>satoshi<br>someone<br>twelve |  
-| bip_39_word_new_br7 | spend<br>until<br>wheel<br>satoshi<br>someone<br>twelve<br>hybrid |  
-| bip_39_word_new_br8 | spend<br>until<br>wheel<br>satoshi<br>someone<br>twelve<br>hybrid<br>toddler |  
-| bip_39_word_new_br9 | spend<br>until<br>wheel<br>satoshi<br>someone<br>twelve<br>hybrid<br>toddler<br>orient |  
-| bip_39_word_new_line1 | spend |  
-| bip_39_word_new_line10 | spend
+| bip_39_word_new_br_1 | spend |  
+| bip_39_word_new_br_10 | spend<br>until<br>wheel<br>satoshi<br>someone<br>twelve<br>hybrid<br>toddler<br>orient<br>involve |  
+| bip_39_word_new_br_11 | spend<br>until<br>wheel<br>satoshi<br>someone<br>twelve<br>hybrid<br>toddler<br>orient<br>involve<br>chest |  
+| bip_39_word_new_br_12 | spend<br>until<br>wheel<br>satoshi<br>someone<br>twelve<br>hybrid<br>toddler<br>orient<br>involve<br>chest<br>alone |  
+| bip_39_word_new_br_2 | spend<br>until |  
+| bip_39_word_new_br_3 | spend<br>until<br>wheel |  
+| bip_39_word_new_br_4 | spend<br>until<br>wheel<br>satoshi |  
+| bip_39_word_new_br_5 | spend<br>until<br>wheel<br>satoshi<br>someone |  
+| bip_39_word_new_br_6 | spend<br>until<br>wheel<br>satoshi<br>someone<br>twelve |  
+| bip_39_word_new_br_7 | spend<br>until<br>wheel<br>satoshi<br>someone<br>twelve<br>hybrid |  
+| bip_39_word_new_br_8 | spend<br>until<br>wheel<br>satoshi<br>someone<br>twelve<br>hybrid<br>toddler |  
+| bip_39_word_new_br_9 | spend<br>until<br>wheel<br>satoshi<br>someone<br>twelve<br>hybrid<br>toddler<br>orient |  
+| bip_39_word_new_line_1 | spend |  
+| bip_39_word_new_line_10 | spend
 until
 wheel
 satoshi
@@ -55,7 +55,7 @@ hybrid
 toddler
 orient
 involve |  
-| bip_39_word_new_line11 | spend
+| bip_39_word_new_line_11 | spend
 until
 wheel
 satoshi
@@ -66,7 +66,7 @@ toddler
 orient
 involve
 chest |  
-| bip_39_word_new_line12 | spend
+| bip_39_word_new_line_12 | spend
 until
 wheel
 satoshi
@@ -78,34 +78,34 @@ orient
 involve
 chest
 alone |  
-| bip_39_word_new_line2 | spend
+| bip_39_word_new_line_2 | spend
 until |  
-| bip_39_word_new_line3 | spend
+| bip_39_word_new_line_3 | spend
 until
 wheel |  
-| bip_39_word_new_line4 | spend
+| bip_39_word_new_line_4 | spend
 until
 wheel
 satoshi |  
-| bip_39_word_new_line5 | spend
+| bip_39_word_new_line_5 | spend
 until
 wheel
 satoshi
 someone |  
-| bip_39_word_new_line6 | spend
+| bip_39_word_new_line_6 | spend
 until
 wheel
 satoshi
 someone
 twelve |  
-| bip_39_word_new_line7 | spend
+| bip_39_word_new_line_7 | spend
 until
 wheel
 satoshi
 someone
 twelve
 hybrid |  
-| bip_39_word_new_line8 | spend
+| bip_39_word_new_line_8 | spend
 until
 wheel
 satoshi
@@ -113,7 +113,7 @@ someone
 twelve
 hybrid
 toddler |  
-| bip_39_word_new_line9 | spend
+| bip_39_word_new_line_9 | spend
 until
 wheel
 satoshi

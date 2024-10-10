@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | midnight |  
-| bip_39_word_new_br10 | midnight<br>square<br>arm<br>square<br>cousin<br>guard<br>act<br>mention<br>someone<br>speed |  
-| bip_39_word_new_br11 | midnight<br>square<br>arm<br>square<br>cousin<br>guard<br>act<br>mention<br>someone<br>speed<br>zoo |  
-| bip_39_word_new_br12 | midnight<br>square<br>arm<br>square<br>cousin<br>guard<br>act<br>mention<br>someone<br>speed<br>zoo<br>attract |  
-| bip_39_word_new_br2 | midnight<br>square |  
-| bip_39_word_new_br3 | midnight<br>square<br>arm |  
-| bip_39_word_new_br4 | midnight<br>square<br>arm<br>square |  
-| bip_39_word_new_br5 | midnight<br>square<br>arm<br>square<br>cousin |  
-| bip_39_word_new_br6 | midnight<br>square<br>arm<br>square<br>cousin<br>guard |  
-| bip_39_word_new_br7 | midnight<br>square<br>arm<br>square<br>cousin<br>guard<br>act |  
-| bip_39_word_new_br8 | midnight<br>square<br>arm<br>square<br>cousin<br>guard<br>act<br>mention |  
-| bip_39_word_new_br9 | midnight<br>square<br>arm<br>square<br>cousin<br>guard<br>act<br>mention<br>someone |  
-| bip_39_word_new_line1 | midnight |  
-| bip_39_word_new_line10 | midnight
+| bip_39_word_new_br_1 | midnight |  
+| bip_39_word_new_br_10 | midnight<br>square<br>arm<br>square<br>cousin<br>guard<br>act<br>mention<br>someone<br>speed |  
+| bip_39_word_new_br_11 | midnight<br>square<br>arm<br>square<br>cousin<br>guard<br>act<br>mention<br>someone<br>speed<br>zoo |  
+| bip_39_word_new_br_12 | midnight<br>square<br>arm<br>square<br>cousin<br>guard<br>act<br>mention<br>someone<br>speed<br>zoo<br>attract |  
+| bip_39_word_new_br_2 | midnight<br>square |  
+| bip_39_word_new_br_3 | midnight<br>square<br>arm |  
+| bip_39_word_new_br_4 | midnight<br>square<br>arm<br>square |  
+| bip_39_word_new_br_5 | midnight<br>square<br>arm<br>square<br>cousin |  
+| bip_39_word_new_br_6 | midnight<br>square<br>arm<br>square<br>cousin<br>guard |  
+| bip_39_word_new_br_7 | midnight<br>square<br>arm<br>square<br>cousin<br>guard<br>act |  
+| bip_39_word_new_br_8 | midnight<br>square<br>arm<br>square<br>cousin<br>guard<br>act<br>mention |  
+| bip_39_word_new_br_9 | midnight<br>square<br>arm<br>square<br>cousin<br>guard<br>act<br>mention<br>someone |  
+| bip_39_word_new_line_1 | midnight |  
+| bip_39_word_new_line_10 | midnight
 square
 arm
 square
@@ -55,7 +55,7 @@ act
 mention
 someone
 speed |  
-| bip_39_word_new_line11 | midnight
+| bip_39_word_new_line_11 | midnight
 square
 arm
 square
@@ -66,7 +66,7 @@ mention
 someone
 speed
 zoo |  
-| bip_39_word_new_line12 | midnight
+| bip_39_word_new_line_12 | midnight
 square
 arm
 square
@@ -78,34 +78,34 @@ someone
 speed
 zoo
 attract |  
-| bip_39_word_new_line2 | midnight
+| bip_39_word_new_line_2 | midnight
 square |  
-| bip_39_word_new_line3 | midnight
+| bip_39_word_new_line_3 | midnight
 square
 arm |  
-| bip_39_word_new_line4 | midnight
+| bip_39_word_new_line_4 | midnight
 square
 arm
 square |  
-| bip_39_word_new_line5 | midnight
+| bip_39_word_new_line_5 | midnight
 square
 arm
 square
 cousin |  
-| bip_39_word_new_line6 | midnight
+| bip_39_word_new_line_6 | midnight
 square
 arm
 square
 cousin
 guard |  
-| bip_39_word_new_line7 | midnight
+| bip_39_word_new_line_7 | midnight
 square
 arm
 square
 cousin
 guard
 act |  
-| bip_39_word_new_line8 | midnight
+| bip_39_word_new_line_8 | midnight
 square
 arm
 square
@@ -113,7 +113,7 @@ cousin
 guard
 act
 mention |  
-| bip_39_word_new_line9 | midnight
+| bip_39_word_new_line_9 | midnight
 square
 arm
 square

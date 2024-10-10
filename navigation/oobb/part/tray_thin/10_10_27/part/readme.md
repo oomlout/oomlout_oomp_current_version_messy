@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | seven |  
-| bip_39_word_new_br10 | seven<br>alarm<br>student<br>human<br>health<br>wall<br>apart<br>nuclear<br>man<br>mechanic |  
-| bip_39_word_new_br11 | seven<br>alarm<br>student<br>human<br>health<br>wall<br>apart<br>nuclear<br>man<br>mechanic<br>pilot |  
-| bip_39_word_new_br12 | seven<br>alarm<br>student<br>human<br>health<br>wall<br>apart<br>nuclear<br>man<br>mechanic<br>pilot<br>answer |  
-| bip_39_word_new_br2 | seven<br>alarm |  
-| bip_39_word_new_br3 | seven<br>alarm<br>student |  
-| bip_39_word_new_br4 | seven<br>alarm<br>student<br>human |  
-| bip_39_word_new_br5 | seven<br>alarm<br>student<br>human<br>health |  
-| bip_39_word_new_br6 | seven<br>alarm<br>student<br>human<br>health<br>wall |  
-| bip_39_word_new_br7 | seven<br>alarm<br>student<br>human<br>health<br>wall<br>apart |  
-| bip_39_word_new_br8 | seven<br>alarm<br>student<br>human<br>health<br>wall<br>apart<br>nuclear |  
-| bip_39_word_new_br9 | seven<br>alarm<br>student<br>human<br>health<br>wall<br>apart<br>nuclear<br>man |  
-| bip_39_word_new_line1 | seven |  
-| bip_39_word_new_line10 | seven
+| bip_39_word_new_br_1 | seven |  
+| bip_39_word_new_br_10 | seven<br>alarm<br>student<br>human<br>health<br>wall<br>apart<br>nuclear<br>man<br>mechanic |  
+| bip_39_word_new_br_11 | seven<br>alarm<br>student<br>human<br>health<br>wall<br>apart<br>nuclear<br>man<br>mechanic<br>pilot |  
+| bip_39_word_new_br_12 | seven<br>alarm<br>student<br>human<br>health<br>wall<br>apart<br>nuclear<br>man<br>mechanic<br>pilot<br>answer |  
+| bip_39_word_new_br_2 | seven<br>alarm |  
+| bip_39_word_new_br_3 | seven<br>alarm<br>student |  
+| bip_39_word_new_br_4 | seven<br>alarm<br>student<br>human |  
+| bip_39_word_new_br_5 | seven<br>alarm<br>student<br>human<br>health |  
+| bip_39_word_new_br_6 | seven<br>alarm<br>student<br>human<br>health<br>wall |  
+| bip_39_word_new_br_7 | seven<br>alarm<br>student<br>human<br>health<br>wall<br>apart |  
+| bip_39_word_new_br_8 | seven<br>alarm<br>student<br>human<br>health<br>wall<br>apart<br>nuclear |  
+| bip_39_word_new_br_9 | seven<br>alarm<br>student<br>human<br>health<br>wall<br>apart<br>nuclear<br>man |  
+| bip_39_word_new_line_1 | seven |  
+| bip_39_word_new_line_10 | seven
 alarm
 student
 human
@@ -55,7 +55,7 @@ apart
 nuclear
 man
 mechanic |  
-| bip_39_word_new_line11 | seven
+| bip_39_word_new_line_11 | seven
 alarm
 student
 human
@@ -66,7 +66,7 @@ nuclear
 man
 mechanic
 pilot |  
-| bip_39_word_new_line12 | seven
+| bip_39_word_new_line_12 | seven
 alarm
 student
 human
@@ -78,34 +78,34 @@ man
 mechanic
 pilot
 answer |  
-| bip_39_word_new_line2 | seven
+| bip_39_word_new_line_2 | seven
 alarm |  
-| bip_39_word_new_line3 | seven
+| bip_39_word_new_line_3 | seven
 alarm
 student |  
-| bip_39_word_new_line4 | seven
+| bip_39_word_new_line_4 | seven
 alarm
 student
 human |  
-| bip_39_word_new_line5 | seven
+| bip_39_word_new_line_5 | seven
 alarm
 student
 human
 health |  
-| bip_39_word_new_line6 | seven
+| bip_39_word_new_line_6 | seven
 alarm
 student
 human
 health
 wall |  
-| bip_39_word_new_line7 | seven
+| bip_39_word_new_line_7 | seven
 alarm
 student
 human
 health
 wall
 apart |  
-| bip_39_word_new_line8 | seven
+| bip_39_word_new_line_8 | seven
 alarm
 student
 human
@@ -113,7 +113,7 @@ health
 wall
 apart
 nuclear |  
-| bip_39_word_new_line9 | seven
+| bip_39_word_new_line_9 | seven
 alarm
 student
 human

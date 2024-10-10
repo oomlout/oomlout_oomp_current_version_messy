@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | spirit |  
-| bip_39_word_new_br10 | spirit<br>goddess<br>tray<br>dynamic<br>project<br>orbit<br>device<br>coil<br>bright<br>rebel |  
-| bip_39_word_new_br11 | spirit<br>goddess<br>tray<br>dynamic<br>project<br>orbit<br>device<br>coil<br>bright<br>rebel<br>health |  
-| bip_39_word_new_br12 | spirit<br>goddess<br>tray<br>dynamic<br>project<br>orbit<br>device<br>coil<br>bright<br>rebel<br>health<br>absent |  
-| bip_39_word_new_br2 | spirit<br>goddess |  
-| bip_39_word_new_br3 | spirit<br>goddess<br>tray |  
-| bip_39_word_new_br4 | spirit<br>goddess<br>tray<br>dynamic |  
-| bip_39_word_new_br5 | spirit<br>goddess<br>tray<br>dynamic<br>project |  
-| bip_39_word_new_br6 | spirit<br>goddess<br>tray<br>dynamic<br>project<br>orbit |  
-| bip_39_word_new_br7 | spirit<br>goddess<br>tray<br>dynamic<br>project<br>orbit<br>device |  
-| bip_39_word_new_br8 | spirit<br>goddess<br>tray<br>dynamic<br>project<br>orbit<br>device<br>coil |  
-| bip_39_word_new_br9 | spirit<br>goddess<br>tray<br>dynamic<br>project<br>orbit<br>device<br>coil<br>bright |  
-| bip_39_word_new_line1 | spirit |  
-| bip_39_word_new_line10 | spirit
+| bip_39_word_new_br_1 | spirit |  
+| bip_39_word_new_br_10 | spirit<br>goddess<br>tray<br>dynamic<br>project<br>orbit<br>device<br>coil<br>bright<br>rebel |  
+| bip_39_word_new_br_11 | spirit<br>goddess<br>tray<br>dynamic<br>project<br>orbit<br>device<br>coil<br>bright<br>rebel<br>health |  
+| bip_39_word_new_br_12 | spirit<br>goddess<br>tray<br>dynamic<br>project<br>orbit<br>device<br>coil<br>bright<br>rebel<br>health<br>absent |  
+| bip_39_word_new_br_2 | spirit<br>goddess |  
+| bip_39_word_new_br_3 | spirit<br>goddess<br>tray |  
+| bip_39_word_new_br_4 | spirit<br>goddess<br>tray<br>dynamic |  
+| bip_39_word_new_br_5 | spirit<br>goddess<br>tray<br>dynamic<br>project |  
+| bip_39_word_new_br_6 | spirit<br>goddess<br>tray<br>dynamic<br>project<br>orbit |  
+| bip_39_word_new_br_7 | spirit<br>goddess<br>tray<br>dynamic<br>project<br>orbit<br>device |  
+| bip_39_word_new_br_8 | spirit<br>goddess<br>tray<br>dynamic<br>project<br>orbit<br>device<br>coil |  
+| bip_39_word_new_br_9 | spirit<br>goddess<br>tray<br>dynamic<br>project<br>orbit<br>device<br>coil<br>bright |  
+| bip_39_word_new_line_1 | spirit |  
+| bip_39_word_new_line_10 | spirit
 goddess
 tray
 dynamic
@@ -55,7 +55,7 @@ device
 coil
 bright
 rebel |  
-| bip_39_word_new_line11 | spirit
+| bip_39_word_new_line_11 | spirit
 goddess
 tray
 dynamic
@@ -66,7 +66,7 @@ coil
 bright
 rebel
 health |  
-| bip_39_word_new_line12 | spirit
+| bip_39_word_new_line_12 | spirit
 goddess
 tray
 dynamic
@@ -78,34 +78,34 @@ bright
 rebel
 health
 absent |  
-| bip_39_word_new_line2 | spirit
+| bip_39_word_new_line_2 | spirit
 goddess |  
-| bip_39_word_new_line3 | spirit
+| bip_39_word_new_line_3 | spirit
 goddess
 tray |  
-| bip_39_word_new_line4 | spirit
+| bip_39_word_new_line_4 | spirit
 goddess
 tray
 dynamic |  
-| bip_39_word_new_line5 | spirit
+| bip_39_word_new_line_5 | spirit
 goddess
 tray
 dynamic
 project |  
-| bip_39_word_new_line6 | spirit
+| bip_39_word_new_line_6 | spirit
 goddess
 tray
 dynamic
 project
 orbit |  
-| bip_39_word_new_line7 | spirit
+| bip_39_word_new_line_7 | spirit
 goddess
 tray
 dynamic
 project
 orbit
 device |  
-| bip_39_word_new_line8 | spirit
+| bip_39_word_new_line_8 | spirit
 goddess
 tray
 dynamic
@@ -113,7 +113,7 @@ project
 orbit
 device
 coil |  
-| bip_39_word_new_line9 | spirit
+| bip_39_word_new_line_9 | spirit
 goddess
 tray
 dynamic

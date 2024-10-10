@@ -1,17 +1,17 @@
-bip_39_word_new_br1: acoustic
-bip_39_word_new_br10: acoustic<br>soup<br>load<br>base<br>tattoo<br>expose<br>wedding<br>they<br>solution<br>comfort
-bip_39_word_new_br11: acoustic<br>soup<br>load<br>base<br>tattoo<br>expose<br>wedding<br>they<br>solution<br>comfort<br>duty
-bip_39_word_new_br12: acoustic<br>soup<br>load<br>base<br>tattoo<br>expose<br>wedding<br>they<br>solution<br>comfort<br>duty<br>able
-bip_39_word_new_br2: acoustic<br>soup
-bip_39_word_new_br3: acoustic<br>soup<br>load
-bip_39_word_new_br4: acoustic<br>soup<br>load<br>base
-bip_39_word_new_br5: acoustic<br>soup<br>load<br>base<br>tattoo
-bip_39_word_new_br6: acoustic<br>soup<br>load<br>base<br>tattoo<br>expose
-bip_39_word_new_br7: acoustic<br>soup<br>load<br>base<br>tattoo<br>expose<br>wedding
-bip_39_word_new_br8: acoustic<br>soup<br>load<br>base<br>tattoo<br>expose<br>wedding<br>they
-bip_39_word_new_br9: acoustic<br>soup<br>load<br>base<br>tattoo<br>expose<br>wedding<br>they<br>solution
-bip_39_word_new_line1: acoustic
-bip_39_word_new_line10: 'acoustic
+bip_39_word_new_br_1: acoustic
+bip_39_word_new_br_10: acoustic<br>soup<br>load<br>base<br>tattoo<br>expose<br>wedding<br>they<br>solution<br>comfort
+bip_39_word_new_br_11: acoustic<br>soup<br>load<br>base<br>tattoo<br>expose<br>wedding<br>they<br>solution<br>comfort<br>duty
+bip_39_word_new_br_12: acoustic<br>soup<br>load<br>base<br>tattoo<br>expose<br>wedding<br>they<br>solution<br>comfort<br>duty<br>able
+bip_39_word_new_br_2: acoustic<br>soup
+bip_39_word_new_br_3: acoustic<br>soup<br>load
+bip_39_word_new_br_4: acoustic<br>soup<br>load<br>base
+bip_39_word_new_br_5: acoustic<br>soup<br>load<br>base<br>tattoo
+bip_39_word_new_br_6: acoustic<br>soup<br>load<br>base<br>tattoo<br>expose
+bip_39_word_new_br_7: acoustic<br>soup<br>load<br>base<br>tattoo<br>expose<br>wedding
+bip_39_word_new_br_8: acoustic<br>soup<br>load<br>base<br>tattoo<br>expose<br>wedding<br>they
+bip_39_word_new_br_9: acoustic<br>soup<br>load<br>base<br>tattoo<br>expose<br>wedding<br>they<br>solution
+bip_39_word_new_line_1: acoustic
+bip_39_word_new_line_10: 'acoustic
 
   soup
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'acoustic
   solution
 
   comfort'
-bip_39_word_new_line11: 'acoustic
+bip_39_word_new_line_11: 'acoustic
 
   soup
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'acoustic
   comfort
 
   duty'
-bip_39_word_new_line12: 'acoustic
+bip_39_word_new_line_12: 'acoustic
 
   soup
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'acoustic
   duty
 
   able'
-bip_39_word_new_line2: 'acoustic
+bip_39_word_new_line_2: 'acoustic
 
   soup'
-bip_39_word_new_line3: 'acoustic
+bip_39_word_new_line_3: 'acoustic
 
   soup
 
   load'
-bip_39_word_new_line4: 'acoustic
+bip_39_word_new_line_4: 'acoustic
 
   soup
 
   load
 
   base'
-bip_39_word_new_line5: 'acoustic
+bip_39_word_new_line_5: 'acoustic
 
   soup
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'acoustic
   base
 
   tattoo'
-bip_39_word_new_line6: 'acoustic
+bip_39_word_new_line_6: 'acoustic
 
   soup
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'acoustic
   tattoo
 
   expose'
-bip_39_word_new_line7: 'acoustic
+bip_39_word_new_line_7: 'acoustic
 
   soup
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'acoustic
   expose
 
   wedding'
-bip_39_word_new_line8: 'acoustic
+bip_39_word_new_line_8: 'acoustic
 
   soup
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'acoustic
   wedding
 
   they'
-bip_39_word_new_line9: 'acoustic
+bip_39_word_new_line_9: 'acoustic
 
   soup
 

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | true |  
-| bip_39_word_new_br10 | true<br>ring<br>say<br>suffer<br>owner<br>nation<br>bind<br>grab<br>useless<br>inside |  
-| bip_39_word_new_br11 | true<br>ring<br>say<br>suffer<br>owner<br>nation<br>bind<br>grab<br>useless<br>inside<br>hospital |  
-| bip_39_word_new_br12 | true<br>ring<br>say<br>suffer<br>owner<br>nation<br>bind<br>grab<br>useless<br>inside<br>hospital<br>august |  
-| bip_39_word_new_br2 | true<br>ring |  
-| bip_39_word_new_br3 | true<br>ring<br>say |  
-| bip_39_word_new_br4 | true<br>ring<br>say<br>suffer |  
-| bip_39_word_new_br5 | true<br>ring<br>say<br>suffer<br>owner |  
-| bip_39_word_new_br6 | true<br>ring<br>say<br>suffer<br>owner<br>nation |  
-| bip_39_word_new_br7 | true<br>ring<br>say<br>suffer<br>owner<br>nation<br>bind |  
-| bip_39_word_new_br8 | true<br>ring<br>say<br>suffer<br>owner<br>nation<br>bind<br>grab |  
-| bip_39_word_new_br9 | true<br>ring<br>say<br>suffer<br>owner<br>nation<br>bind<br>grab<br>useless |  
-| bip_39_word_new_line1 | true |  
-| bip_39_word_new_line10 | true
+| bip_39_word_new_br_1 | true |  
+| bip_39_word_new_br_10 | true<br>ring<br>say<br>suffer<br>owner<br>nation<br>bind<br>grab<br>useless<br>inside |  
+| bip_39_word_new_br_11 | true<br>ring<br>say<br>suffer<br>owner<br>nation<br>bind<br>grab<br>useless<br>inside<br>hospital |  
+| bip_39_word_new_br_12 | true<br>ring<br>say<br>suffer<br>owner<br>nation<br>bind<br>grab<br>useless<br>inside<br>hospital<br>august |  
+| bip_39_word_new_br_2 | true<br>ring |  
+| bip_39_word_new_br_3 | true<br>ring<br>say |  
+| bip_39_word_new_br_4 | true<br>ring<br>say<br>suffer |  
+| bip_39_word_new_br_5 | true<br>ring<br>say<br>suffer<br>owner |  
+| bip_39_word_new_br_6 | true<br>ring<br>say<br>suffer<br>owner<br>nation |  
+| bip_39_word_new_br_7 | true<br>ring<br>say<br>suffer<br>owner<br>nation<br>bind |  
+| bip_39_word_new_br_8 | true<br>ring<br>say<br>suffer<br>owner<br>nation<br>bind<br>grab |  
+| bip_39_word_new_br_9 | true<br>ring<br>say<br>suffer<br>owner<br>nation<br>bind<br>grab<br>useless |  
+| bip_39_word_new_line_1 | true |  
+| bip_39_word_new_line_10 | true
 ring
 say
 suffer
@@ -55,7 +55,7 @@ bind
 grab
 useless
 inside |  
-| bip_39_word_new_line11 | true
+| bip_39_word_new_line_11 | true
 ring
 say
 suffer
@@ -66,7 +66,7 @@ grab
 useless
 inside
 hospital |  
-| bip_39_word_new_line12 | true
+| bip_39_word_new_line_12 | true
 ring
 say
 suffer
@@ -78,34 +78,34 @@ useless
 inside
 hospital
 august |  
-| bip_39_word_new_line2 | true
+| bip_39_word_new_line_2 | true
 ring |  
-| bip_39_word_new_line3 | true
+| bip_39_word_new_line_3 | true
 ring
 say |  
-| bip_39_word_new_line4 | true
+| bip_39_word_new_line_4 | true
 ring
 say
 suffer |  
-| bip_39_word_new_line5 | true
+| bip_39_word_new_line_5 | true
 ring
 say
 suffer
 owner |  
-| bip_39_word_new_line6 | true
+| bip_39_word_new_line_6 | true
 ring
 say
 suffer
 owner
 nation |  
-| bip_39_word_new_line7 | true
+| bip_39_word_new_line_7 | true
 ring
 say
 suffer
 owner
 nation
 bind |  
-| bip_39_word_new_line8 | true
+| bip_39_word_new_line_8 | true
 ring
 say
 suffer
@@ -113,7 +113,7 @@ owner
 nation
 bind
 grab |  
-| bip_39_word_new_line9 | true
+| bip_39_word_new_line_9 | true
 ring
 say
 suffer

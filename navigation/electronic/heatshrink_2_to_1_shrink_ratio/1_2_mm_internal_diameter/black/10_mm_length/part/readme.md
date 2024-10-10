@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | replace |  
-| bip_39_word_new_br10 | replace<br>draw<br>leg<br>science<br>squirrel<br>into<br>cupboard<br>monster<br>arrive<br>planet |  
-| bip_39_word_new_br11 | replace<br>draw<br>leg<br>science<br>squirrel<br>into<br>cupboard<br>monster<br>arrive<br>planet<br>feature |  
-| bip_39_word_new_br12 | replace<br>draw<br>leg<br>science<br>squirrel<br>into<br>cupboard<br>monster<br>arrive<br>planet<br>feature<br>armor |  
-| bip_39_word_new_br2 | replace<br>draw |  
-| bip_39_word_new_br3 | replace<br>draw<br>leg |  
-| bip_39_word_new_br4 | replace<br>draw<br>leg<br>science |  
-| bip_39_word_new_br5 | replace<br>draw<br>leg<br>science<br>squirrel |  
-| bip_39_word_new_br6 | replace<br>draw<br>leg<br>science<br>squirrel<br>into |  
-| bip_39_word_new_br7 | replace<br>draw<br>leg<br>science<br>squirrel<br>into<br>cupboard |  
-| bip_39_word_new_br8 | replace<br>draw<br>leg<br>science<br>squirrel<br>into<br>cupboard<br>monster |  
-| bip_39_word_new_br9 | replace<br>draw<br>leg<br>science<br>squirrel<br>into<br>cupboard<br>monster<br>arrive |  
-| bip_39_word_new_line1 | replace |  
-| bip_39_word_new_line10 | replace
+| bip_39_word_new_br_1 | replace |  
+| bip_39_word_new_br_10 | replace<br>draw<br>leg<br>science<br>squirrel<br>into<br>cupboard<br>monster<br>arrive<br>planet |  
+| bip_39_word_new_br_11 | replace<br>draw<br>leg<br>science<br>squirrel<br>into<br>cupboard<br>monster<br>arrive<br>planet<br>feature |  
+| bip_39_word_new_br_12 | replace<br>draw<br>leg<br>science<br>squirrel<br>into<br>cupboard<br>monster<br>arrive<br>planet<br>feature<br>armor |  
+| bip_39_word_new_br_2 | replace<br>draw |  
+| bip_39_word_new_br_3 | replace<br>draw<br>leg |  
+| bip_39_word_new_br_4 | replace<br>draw<br>leg<br>science |  
+| bip_39_word_new_br_5 | replace<br>draw<br>leg<br>science<br>squirrel |  
+| bip_39_word_new_br_6 | replace<br>draw<br>leg<br>science<br>squirrel<br>into |  
+| bip_39_word_new_br_7 | replace<br>draw<br>leg<br>science<br>squirrel<br>into<br>cupboard |  
+| bip_39_word_new_br_8 | replace<br>draw<br>leg<br>science<br>squirrel<br>into<br>cupboard<br>monster |  
+| bip_39_word_new_br_9 | replace<br>draw<br>leg<br>science<br>squirrel<br>into<br>cupboard<br>monster<br>arrive |  
+| bip_39_word_new_line_1 | replace |  
+| bip_39_word_new_line_10 | replace
 draw
 leg
 science
@@ -55,7 +55,7 @@ cupboard
 monster
 arrive
 planet |  
-| bip_39_word_new_line11 | replace
+| bip_39_word_new_line_11 | replace
 draw
 leg
 science
@@ -66,7 +66,7 @@ monster
 arrive
 planet
 feature |  
-| bip_39_word_new_line12 | replace
+| bip_39_word_new_line_12 | replace
 draw
 leg
 science
@@ -78,34 +78,34 @@ arrive
 planet
 feature
 armor |  
-| bip_39_word_new_line2 | replace
+| bip_39_word_new_line_2 | replace
 draw |  
-| bip_39_word_new_line3 | replace
+| bip_39_word_new_line_3 | replace
 draw
 leg |  
-| bip_39_word_new_line4 | replace
+| bip_39_word_new_line_4 | replace
 draw
 leg
 science |  
-| bip_39_word_new_line5 | replace
+| bip_39_word_new_line_5 | replace
 draw
 leg
 science
 squirrel |  
-| bip_39_word_new_line6 | replace
+| bip_39_word_new_line_6 | replace
 draw
 leg
 science
 squirrel
 into |  
-| bip_39_word_new_line7 | replace
+| bip_39_word_new_line_7 | replace
 draw
 leg
 science
 squirrel
 into
 cupboard |  
-| bip_39_word_new_line8 | replace
+| bip_39_word_new_line_8 | replace
 draw
 leg
 science
@@ -113,7 +113,7 @@ squirrel
 into
 cupboard
 monster |  
-| bip_39_word_new_line9 | replace
+| bip_39_word_new_line_9 | replace
 draw
 leg
 science

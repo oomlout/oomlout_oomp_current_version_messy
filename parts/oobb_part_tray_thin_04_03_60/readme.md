@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | latin |  
-| bip_39_word_new_br10 | latin<br>sight<br>real<br>live<br>cause<br>system<br>track<br>step<br>noise<br>execute |  
-| bip_39_word_new_br11 | latin<br>sight<br>real<br>live<br>cause<br>system<br>track<br>step<br>noise<br>execute<br>van |  
-| bip_39_word_new_br12 | latin<br>sight<br>real<br>live<br>cause<br>system<br>track<br>step<br>noise<br>execute<br>van<br>april |  
-| bip_39_word_new_br2 | latin<br>sight |  
-| bip_39_word_new_br3 | latin<br>sight<br>real |  
-| bip_39_word_new_br4 | latin<br>sight<br>real<br>live |  
-| bip_39_word_new_br5 | latin<br>sight<br>real<br>live<br>cause |  
-| bip_39_word_new_br6 | latin<br>sight<br>real<br>live<br>cause<br>system |  
-| bip_39_word_new_br7 | latin<br>sight<br>real<br>live<br>cause<br>system<br>track |  
-| bip_39_word_new_br8 | latin<br>sight<br>real<br>live<br>cause<br>system<br>track<br>step |  
-| bip_39_word_new_br9 | latin<br>sight<br>real<br>live<br>cause<br>system<br>track<br>step<br>noise |  
-| bip_39_word_new_line1 | latin |  
-| bip_39_word_new_line10 | latin
+| bip_39_word_new_br_1 | latin |  
+| bip_39_word_new_br_10 | latin<br>sight<br>real<br>live<br>cause<br>system<br>track<br>step<br>noise<br>execute |  
+| bip_39_word_new_br_11 | latin<br>sight<br>real<br>live<br>cause<br>system<br>track<br>step<br>noise<br>execute<br>van |  
+| bip_39_word_new_br_12 | latin<br>sight<br>real<br>live<br>cause<br>system<br>track<br>step<br>noise<br>execute<br>van<br>april |  
+| bip_39_word_new_br_2 | latin<br>sight |  
+| bip_39_word_new_br_3 | latin<br>sight<br>real |  
+| bip_39_word_new_br_4 | latin<br>sight<br>real<br>live |  
+| bip_39_word_new_br_5 | latin<br>sight<br>real<br>live<br>cause |  
+| bip_39_word_new_br_6 | latin<br>sight<br>real<br>live<br>cause<br>system |  
+| bip_39_word_new_br_7 | latin<br>sight<br>real<br>live<br>cause<br>system<br>track |  
+| bip_39_word_new_br_8 | latin<br>sight<br>real<br>live<br>cause<br>system<br>track<br>step |  
+| bip_39_word_new_br_9 | latin<br>sight<br>real<br>live<br>cause<br>system<br>track<br>step<br>noise |  
+| bip_39_word_new_line_1 | latin |  
+| bip_39_word_new_line_10 | latin
 sight
 real
 live
@@ -55,7 +55,7 @@ track
 step
 noise
 execute |  
-| bip_39_word_new_line11 | latin
+| bip_39_word_new_line_11 | latin
 sight
 real
 live
@@ -66,7 +66,7 @@ step
 noise
 execute
 van |  
-| bip_39_word_new_line12 | latin
+| bip_39_word_new_line_12 | latin
 sight
 real
 live
@@ -78,34 +78,34 @@ noise
 execute
 van
 april |  
-| bip_39_word_new_line2 | latin
+| bip_39_word_new_line_2 | latin
 sight |  
-| bip_39_word_new_line3 | latin
+| bip_39_word_new_line_3 | latin
 sight
 real |  
-| bip_39_word_new_line4 | latin
+| bip_39_word_new_line_4 | latin
 sight
 real
 live |  
-| bip_39_word_new_line5 | latin
+| bip_39_word_new_line_5 | latin
 sight
 real
 live
 cause |  
-| bip_39_word_new_line6 | latin
+| bip_39_word_new_line_6 | latin
 sight
 real
 live
 cause
 system |  
-| bip_39_word_new_line7 | latin
+| bip_39_word_new_line_7 | latin
 sight
 real
 live
 cause
 system
 track |  
-| bip_39_word_new_line8 | latin
+| bip_39_word_new_line_8 | latin
 sight
 real
 live
@@ -113,7 +113,7 @@ cause
 system
 track
 step |  
-| bip_39_word_new_line9 | latin
+| bip_39_word_new_line_9 | latin
 sight
 real
 live

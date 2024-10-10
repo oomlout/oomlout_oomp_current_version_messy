@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wall |  
-| bip_39_word_new_br10 | wall<br>calm<br>initial<br>truly<br>force<br>hair<br>agree<br>gaze<br>dwarf<br>forum |  
-| bip_39_word_new_br11 | wall<br>calm<br>initial<br>truly<br>force<br>hair<br>agree<br>gaze<br>dwarf<br>forum<br>tuition |  
-| bip_39_word_new_br12 | wall<br>calm<br>initial<br>truly<br>force<br>hair<br>agree<br>gaze<br>dwarf<br>forum<br>tuition<br>absent |  
-| bip_39_word_new_br2 | wall<br>calm |  
-| bip_39_word_new_br3 | wall<br>calm<br>initial |  
-| bip_39_word_new_br4 | wall<br>calm<br>initial<br>truly |  
-| bip_39_word_new_br5 | wall<br>calm<br>initial<br>truly<br>force |  
-| bip_39_word_new_br6 | wall<br>calm<br>initial<br>truly<br>force<br>hair |  
-| bip_39_word_new_br7 | wall<br>calm<br>initial<br>truly<br>force<br>hair<br>agree |  
-| bip_39_word_new_br8 | wall<br>calm<br>initial<br>truly<br>force<br>hair<br>agree<br>gaze |  
-| bip_39_word_new_br9 | wall<br>calm<br>initial<br>truly<br>force<br>hair<br>agree<br>gaze<br>dwarf |  
-| bip_39_word_new_line1 | wall |  
-| bip_39_word_new_line10 | wall
+| bip_39_word_new_br_1 | wall |  
+| bip_39_word_new_br_10 | wall<br>calm<br>initial<br>truly<br>force<br>hair<br>agree<br>gaze<br>dwarf<br>forum |  
+| bip_39_word_new_br_11 | wall<br>calm<br>initial<br>truly<br>force<br>hair<br>agree<br>gaze<br>dwarf<br>forum<br>tuition |  
+| bip_39_word_new_br_12 | wall<br>calm<br>initial<br>truly<br>force<br>hair<br>agree<br>gaze<br>dwarf<br>forum<br>tuition<br>absent |  
+| bip_39_word_new_br_2 | wall<br>calm |  
+| bip_39_word_new_br_3 | wall<br>calm<br>initial |  
+| bip_39_word_new_br_4 | wall<br>calm<br>initial<br>truly |  
+| bip_39_word_new_br_5 | wall<br>calm<br>initial<br>truly<br>force |  
+| bip_39_word_new_br_6 | wall<br>calm<br>initial<br>truly<br>force<br>hair |  
+| bip_39_word_new_br_7 | wall<br>calm<br>initial<br>truly<br>force<br>hair<br>agree |  
+| bip_39_word_new_br_8 | wall<br>calm<br>initial<br>truly<br>force<br>hair<br>agree<br>gaze |  
+| bip_39_word_new_br_9 | wall<br>calm<br>initial<br>truly<br>force<br>hair<br>agree<br>gaze<br>dwarf |  
+| bip_39_word_new_line_1 | wall |  
+| bip_39_word_new_line_10 | wall
 calm
 initial
 truly
@@ -55,7 +55,7 @@ agree
 gaze
 dwarf
 forum |  
-| bip_39_word_new_line11 | wall
+| bip_39_word_new_line_11 | wall
 calm
 initial
 truly
@@ -66,7 +66,7 @@ gaze
 dwarf
 forum
 tuition |  
-| bip_39_word_new_line12 | wall
+| bip_39_word_new_line_12 | wall
 calm
 initial
 truly
@@ -78,34 +78,34 @@ dwarf
 forum
 tuition
 absent |  
-| bip_39_word_new_line2 | wall
+| bip_39_word_new_line_2 | wall
 calm |  
-| bip_39_word_new_line3 | wall
+| bip_39_word_new_line_3 | wall
 calm
 initial |  
-| bip_39_word_new_line4 | wall
+| bip_39_word_new_line_4 | wall
 calm
 initial
 truly |  
-| bip_39_word_new_line5 | wall
+| bip_39_word_new_line_5 | wall
 calm
 initial
 truly
 force |  
-| bip_39_word_new_line6 | wall
+| bip_39_word_new_line_6 | wall
 calm
 initial
 truly
 force
 hair |  
-| bip_39_word_new_line7 | wall
+| bip_39_word_new_line_7 | wall
 calm
 initial
 truly
 force
 hair
 agree |  
-| bip_39_word_new_line8 | wall
+| bip_39_word_new_line_8 | wall
 calm
 initial
 truly
@@ -113,7 +113,7 @@ force
 hair
 agree
 gaze |  
-| bip_39_word_new_line9 | wall
+| bip_39_word_new_line_9 | wall
 calm
 initial
 truly

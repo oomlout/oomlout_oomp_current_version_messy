@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cute |  
-| bip_39_word_new_br10 | cute<br>kingdom<br>noble<br>film<br>glory<br>defense<br>pupil<br>few<br>actual<br>alcohol |  
-| bip_39_word_new_br11 | cute<br>kingdom<br>noble<br>film<br>glory<br>defense<br>pupil<br>few<br>actual<br>alcohol<br>style |  
-| bip_39_word_new_br12 | cute<br>kingdom<br>noble<br>film<br>glory<br>defense<br>pupil<br>few<br>actual<br>alcohol<br>style<br>artefact |  
-| bip_39_word_new_br2 | cute<br>kingdom |  
-| bip_39_word_new_br3 | cute<br>kingdom<br>noble |  
-| bip_39_word_new_br4 | cute<br>kingdom<br>noble<br>film |  
-| bip_39_word_new_br5 | cute<br>kingdom<br>noble<br>film<br>glory |  
-| bip_39_word_new_br6 | cute<br>kingdom<br>noble<br>film<br>glory<br>defense |  
-| bip_39_word_new_br7 | cute<br>kingdom<br>noble<br>film<br>glory<br>defense<br>pupil |  
-| bip_39_word_new_br8 | cute<br>kingdom<br>noble<br>film<br>glory<br>defense<br>pupil<br>few |  
-| bip_39_word_new_br9 | cute<br>kingdom<br>noble<br>film<br>glory<br>defense<br>pupil<br>few<br>actual |  
-| bip_39_word_new_line1 | cute |  
-| bip_39_word_new_line10 | cute
+| bip_39_word_new_br_1 | cute |  
+| bip_39_word_new_br_10 | cute<br>kingdom<br>noble<br>film<br>glory<br>defense<br>pupil<br>few<br>actual<br>alcohol |  
+| bip_39_word_new_br_11 | cute<br>kingdom<br>noble<br>film<br>glory<br>defense<br>pupil<br>few<br>actual<br>alcohol<br>style |  
+| bip_39_word_new_br_12 | cute<br>kingdom<br>noble<br>film<br>glory<br>defense<br>pupil<br>few<br>actual<br>alcohol<br>style<br>artefact |  
+| bip_39_word_new_br_2 | cute<br>kingdom |  
+| bip_39_word_new_br_3 | cute<br>kingdom<br>noble |  
+| bip_39_word_new_br_4 | cute<br>kingdom<br>noble<br>film |  
+| bip_39_word_new_br_5 | cute<br>kingdom<br>noble<br>film<br>glory |  
+| bip_39_word_new_br_6 | cute<br>kingdom<br>noble<br>film<br>glory<br>defense |  
+| bip_39_word_new_br_7 | cute<br>kingdom<br>noble<br>film<br>glory<br>defense<br>pupil |  
+| bip_39_word_new_br_8 | cute<br>kingdom<br>noble<br>film<br>glory<br>defense<br>pupil<br>few |  
+| bip_39_word_new_br_9 | cute<br>kingdom<br>noble<br>film<br>glory<br>defense<br>pupil<br>few<br>actual |  
+| bip_39_word_new_line_1 | cute |  
+| bip_39_word_new_line_10 | cute
 kingdom
 noble
 film
@@ -55,7 +55,7 @@ pupil
 few
 actual
 alcohol |  
-| bip_39_word_new_line11 | cute
+| bip_39_word_new_line_11 | cute
 kingdom
 noble
 film
@@ -66,7 +66,7 @@ few
 actual
 alcohol
 style |  
-| bip_39_word_new_line12 | cute
+| bip_39_word_new_line_12 | cute
 kingdom
 noble
 film
@@ -78,34 +78,34 @@ actual
 alcohol
 style
 artefact |  
-| bip_39_word_new_line2 | cute
+| bip_39_word_new_line_2 | cute
 kingdom |  
-| bip_39_word_new_line3 | cute
+| bip_39_word_new_line_3 | cute
 kingdom
 noble |  
-| bip_39_word_new_line4 | cute
+| bip_39_word_new_line_4 | cute
 kingdom
 noble
 film |  
-| bip_39_word_new_line5 | cute
+| bip_39_word_new_line_5 | cute
 kingdom
 noble
 film
 glory |  
-| bip_39_word_new_line6 | cute
+| bip_39_word_new_line_6 | cute
 kingdom
 noble
 film
 glory
 defense |  
-| bip_39_word_new_line7 | cute
+| bip_39_word_new_line_7 | cute
 kingdom
 noble
 film
 glory
 defense
 pupil |  
-| bip_39_word_new_line8 | cute
+| bip_39_word_new_line_8 | cute
 kingdom
 noble
 film
@@ -113,7 +113,7 @@ glory
 defense
 pupil
 few |  
-| bip_39_word_new_line9 | cute
+| bip_39_word_new_line_9 | cute
 kingdom
 noble
 film

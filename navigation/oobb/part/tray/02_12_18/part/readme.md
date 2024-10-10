@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gold |  
-| bip_39_word_new_br10 | gold<br>frown<br>strike<br>foster<br>perfect<br>vivid<br>diagram<br>argue<br>source<br>erupt |  
-| bip_39_word_new_br11 | gold<br>frown<br>strike<br>foster<br>perfect<br>vivid<br>diagram<br>argue<br>source<br>erupt<br>glance |  
-| bip_39_word_new_br12 | gold<br>frown<br>strike<br>foster<br>perfect<br>vivid<br>diagram<br>argue<br>source<br>erupt<br>glance<br>appear |  
-| bip_39_word_new_br2 | gold<br>frown |  
-| bip_39_word_new_br3 | gold<br>frown<br>strike |  
-| bip_39_word_new_br4 | gold<br>frown<br>strike<br>foster |  
-| bip_39_word_new_br5 | gold<br>frown<br>strike<br>foster<br>perfect |  
-| bip_39_word_new_br6 | gold<br>frown<br>strike<br>foster<br>perfect<br>vivid |  
-| bip_39_word_new_br7 | gold<br>frown<br>strike<br>foster<br>perfect<br>vivid<br>diagram |  
-| bip_39_word_new_br8 | gold<br>frown<br>strike<br>foster<br>perfect<br>vivid<br>diagram<br>argue |  
-| bip_39_word_new_br9 | gold<br>frown<br>strike<br>foster<br>perfect<br>vivid<br>diagram<br>argue<br>source |  
-| bip_39_word_new_line1 | gold |  
-| bip_39_word_new_line10 | gold
+| bip_39_word_new_br_1 | gold |  
+| bip_39_word_new_br_10 | gold<br>frown<br>strike<br>foster<br>perfect<br>vivid<br>diagram<br>argue<br>source<br>erupt |  
+| bip_39_word_new_br_11 | gold<br>frown<br>strike<br>foster<br>perfect<br>vivid<br>diagram<br>argue<br>source<br>erupt<br>glance |  
+| bip_39_word_new_br_12 | gold<br>frown<br>strike<br>foster<br>perfect<br>vivid<br>diagram<br>argue<br>source<br>erupt<br>glance<br>appear |  
+| bip_39_word_new_br_2 | gold<br>frown |  
+| bip_39_word_new_br_3 | gold<br>frown<br>strike |  
+| bip_39_word_new_br_4 | gold<br>frown<br>strike<br>foster |  
+| bip_39_word_new_br_5 | gold<br>frown<br>strike<br>foster<br>perfect |  
+| bip_39_word_new_br_6 | gold<br>frown<br>strike<br>foster<br>perfect<br>vivid |  
+| bip_39_word_new_br_7 | gold<br>frown<br>strike<br>foster<br>perfect<br>vivid<br>diagram |  
+| bip_39_word_new_br_8 | gold<br>frown<br>strike<br>foster<br>perfect<br>vivid<br>diagram<br>argue |  
+| bip_39_word_new_br_9 | gold<br>frown<br>strike<br>foster<br>perfect<br>vivid<br>diagram<br>argue<br>source |  
+| bip_39_word_new_line_1 | gold |  
+| bip_39_word_new_line_10 | gold
 frown
 strike
 foster
@@ -55,7 +55,7 @@ diagram
 argue
 source
 erupt |  
-| bip_39_word_new_line11 | gold
+| bip_39_word_new_line_11 | gold
 frown
 strike
 foster
@@ -66,7 +66,7 @@ argue
 source
 erupt
 glance |  
-| bip_39_word_new_line12 | gold
+| bip_39_word_new_line_12 | gold
 frown
 strike
 foster
@@ -78,34 +78,34 @@ source
 erupt
 glance
 appear |  
-| bip_39_word_new_line2 | gold
+| bip_39_word_new_line_2 | gold
 frown |  
-| bip_39_word_new_line3 | gold
+| bip_39_word_new_line_3 | gold
 frown
 strike |  
-| bip_39_word_new_line4 | gold
+| bip_39_word_new_line_4 | gold
 frown
 strike
 foster |  
-| bip_39_word_new_line5 | gold
+| bip_39_word_new_line_5 | gold
 frown
 strike
 foster
 perfect |  
-| bip_39_word_new_line6 | gold
+| bip_39_word_new_line_6 | gold
 frown
 strike
 foster
 perfect
 vivid |  
-| bip_39_word_new_line7 | gold
+| bip_39_word_new_line_7 | gold
 frown
 strike
 foster
 perfect
 vivid
 diagram |  
-| bip_39_word_new_line8 | gold
+| bip_39_word_new_line_8 | gold
 frown
 strike
 foster
@@ -113,7 +113,7 @@ perfect
 vivid
 diagram
 argue |  
-| bip_39_word_new_line9 | gold
+| bip_39_word_new_line_9 | gold
 frown
 strike
 foster

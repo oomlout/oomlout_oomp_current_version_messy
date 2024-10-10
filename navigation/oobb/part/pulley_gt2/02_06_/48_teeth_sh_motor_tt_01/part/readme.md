@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | grant |  
-| bip_39_word_new_br10 | grant<br>submit<br>vacant<br>bag<br>crack<br>great<br>include<br>pig<br>garage<br>leader |  
-| bip_39_word_new_br11 | grant<br>submit<br>vacant<br>bag<br>crack<br>great<br>include<br>pig<br>garage<br>leader<br>invest |  
-| bip_39_word_new_br12 | grant<br>submit<br>vacant<br>bag<br>crack<br>great<br>include<br>pig<br>garage<br>leader<br>invest<br>acquire |  
-| bip_39_word_new_br2 | grant<br>submit |  
-| bip_39_word_new_br3 | grant<br>submit<br>vacant |  
-| bip_39_word_new_br4 | grant<br>submit<br>vacant<br>bag |  
-| bip_39_word_new_br5 | grant<br>submit<br>vacant<br>bag<br>crack |  
-| bip_39_word_new_br6 | grant<br>submit<br>vacant<br>bag<br>crack<br>great |  
-| bip_39_word_new_br7 | grant<br>submit<br>vacant<br>bag<br>crack<br>great<br>include |  
-| bip_39_word_new_br8 | grant<br>submit<br>vacant<br>bag<br>crack<br>great<br>include<br>pig |  
-| bip_39_word_new_br9 | grant<br>submit<br>vacant<br>bag<br>crack<br>great<br>include<br>pig<br>garage |  
-| bip_39_word_new_line1 | grant |  
-| bip_39_word_new_line10 | grant
+| bip_39_word_new_br_1 | grant |  
+| bip_39_word_new_br_10 | grant<br>submit<br>vacant<br>bag<br>crack<br>great<br>include<br>pig<br>garage<br>leader |  
+| bip_39_word_new_br_11 | grant<br>submit<br>vacant<br>bag<br>crack<br>great<br>include<br>pig<br>garage<br>leader<br>invest |  
+| bip_39_word_new_br_12 | grant<br>submit<br>vacant<br>bag<br>crack<br>great<br>include<br>pig<br>garage<br>leader<br>invest<br>acquire |  
+| bip_39_word_new_br_2 | grant<br>submit |  
+| bip_39_word_new_br_3 | grant<br>submit<br>vacant |  
+| bip_39_word_new_br_4 | grant<br>submit<br>vacant<br>bag |  
+| bip_39_word_new_br_5 | grant<br>submit<br>vacant<br>bag<br>crack |  
+| bip_39_word_new_br_6 | grant<br>submit<br>vacant<br>bag<br>crack<br>great |  
+| bip_39_word_new_br_7 | grant<br>submit<br>vacant<br>bag<br>crack<br>great<br>include |  
+| bip_39_word_new_br_8 | grant<br>submit<br>vacant<br>bag<br>crack<br>great<br>include<br>pig |  
+| bip_39_word_new_br_9 | grant<br>submit<br>vacant<br>bag<br>crack<br>great<br>include<br>pig<br>garage |  
+| bip_39_word_new_line_1 | grant |  
+| bip_39_word_new_line_10 | grant
 submit
 vacant
 bag
@@ -55,7 +55,7 @@ include
 pig
 garage
 leader |  
-| bip_39_word_new_line11 | grant
+| bip_39_word_new_line_11 | grant
 submit
 vacant
 bag
@@ -66,7 +66,7 @@ pig
 garage
 leader
 invest |  
-| bip_39_word_new_line12 | grant
+| bip_39_word_new_line_12 | grant
 submit
 vacant
 bag
@@ -78,34 +78,34 @@ garage
 leader
 invest
 acquire |  
-| bip_39_word_new_line2 | grant
+| bip_39_word_new_line_2 | grant
 submit |  
-| bip_39_word_new_line3 | grant
+| bip_39_word_new_line_3 | grant
 submit
 vacant |  
-| bip_39_word_new_line4 | grant
+| bip_39_word_new_line_4 | grant
 submit
 vacant
 bag |  
-| bip_39_word_new_line5 | grant
+| bip_39_word_new_line_5 | grant
 submit
 vacant
 bag
 crack |  
-| bip_39_word_new_line6 | grant
+| bip_39_word_new_line_6 | grant
 submit
 vacant
 bag
 crack
 great |  
-| bip_39_word_new_line7 | grant
+| bip_39_word_new_line_7 | grant
 submit
 vacant
 bag
 crack
 great
 include |  
-| bip_39_word_new_line8 | grant
+| bip_39_word_new_line_8 | grant
 submit
 vacant
 bag
@@ -113,7 +113,7 @@ crack
 great
 include
 pig |  
-| bip_39_word_new_line9 | grant
+| bip_39_word_new_line_9 | grant
 submit
 vacant
 bag

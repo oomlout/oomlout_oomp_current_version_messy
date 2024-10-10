@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | enable |  
-| bip_39_word_new_br10 | enable<br>ketchup<br>now<br>wave<br>opera<br>angle<br>churn<br>evolve<br>index<br>jealous |  
-| bip_39_word_new_br11 | enable<br>ketchup<br>now<br>wave<br>opera<br>angle<br>churn<br>evolve<br>index<br>jealous<br>panther |  
-| bip_39_word_new_br12 | enable<br>ketchup<br>now<br>wave<br>opera<br>angle<br>churn<br>evolve<br>index<br>jealous<br>panther<br>auto |  
-| bip_39_word_new_br2 | enable<br>ketchup |  
-| bip_39_word_new_br3 | enable<br>ketchup<br>now |  
-| bip_39_word_new_br4 | enable<br>ketchup<br>now<br>wave |  
-| bip_39_word_new_br5 | enable<br>ketchup<br>now<br>wave<br>opera |  
-| bip_39_word_new_br6 | enable<br>ketchup<br>now<br>wave<br>opera<br>angle |  
-| bip_39_word_new_br7 | enable<br>ketchup<br>now<br>wave<br>opera<br>angle<br>churn |  
-| bip_39_word_new_br8 | enable<br>ketchup<br>now<br>wave<br>opera<br>angle<br>churn<br>evolve |  
-| bip_39_word_new_br9 | enable<br>ketchup<br>now<br>wave<br>opera<br>angle<br>churn<br>evolve<br>index |  
-| bip_39_word_new_line1 | enable |  
-| bip_39_word_new_line10 | enable
+| bip_39_word_new_br_1 | enable |  
+| bip_39_word_new_br_10 | enable<br>ketchup<br>now<br>wave<br>opera<br>angle<br>churn<br>evolve<br>index<br>jealous |  
+| bip_39_word_new_br_11 | enable<br>ketchup<br>now<br>wave<br>opera<br>angle<br>churn<br>evolve<br>index<br>jealous<br>panther |  
+| bip_39_word_new_br_12 | enable<br>ketchup<br>now<br>wave<br>opera<br>angle<br>churn<br>evolve<br>index<br>jealous<br>panther<br>auto |  
+| bip_39_word_new_br_2 | enable<br>ketchup |  
+| bip_39_word_new_br_3 | enable<br>ketchup<br>now |  
+| bip_39_word_new_br_4 | enable<br>ketchup<br>now<br>wave |  
+| bip_39_word_new_br_5 | enable<br>ketchup<br>now<br>wave<br>opera |  
+| bip_39_word_new_br_6 | enable<br>ketchup<br>now<br>wave<br>opera<br>angle |  
+| bip_39_word_new_br_7 | enable<br>ketchup<br>now<br>wave<br>opera<br>angle<br>churn |  
+| bip_39_word_new_br_8 | enable<br>ketchup<br>now<br>wave<br>opera<br>angle<br>churn<br>evolve |  
+| bip_39_word_new_br_9 | enable<br>ketchup<br>now<br>wave<br>opera<br>angle<br>churn<br>evolve<br>index |  
+| bip_39_word_new_line_1 | enable |  
+| bip_39_word_new_line_10 | enable
 ketchup
 now
 wave
@@ -55,7 +55,7 @@ churn
 evolve
 index
 jealous |  
-| bip_39_word_new_line11 | enable
+| bip_39_word_new_line_11 | enable
 ketchup
 now
 wave
@@ -66,7 +66,7 @@ evolve
 index
 jealous
 panther |  
-| bip_39_word_new_line12 | enable
+| bip_39_word_new_line_12 | enable
 ketchup
 now
 wave
@@ -78,34 +78,34 @@ index
 jealous
 panther
 auto |  
-| bip_39_word_new_line2 | enable
+| bip_39_word_new_line_2 | enable
 ketchup |  
-| bip_39_word_new_line3 | enable
+| bip_39_word_new_line_3 | enable
 ketchup
 now |  
-| bip_39_word_new_line4 | enable
+| bip_39_word_new_line_4 | enable
 ketchup
 now
 wave |  
-| bip_39_word_new_line5 | enable
+| bip_39_word_new_line_5 | enable
 ketchup
 now
 wave
 opera |  
-| bip_39_word_new_line6 | enable
+| bip_39_word_new_line_6 | enable
 ketchup
 now
 wave
 opera
 angle |  
-| bip_39_word_new_line7 | enable
+| bip_39_word_new_line_7 | enable
 ketchup
 now
 wave
 opera
 angle
 churn |  
-| bip_39_word_new_line8 | enable
+| bip_39_word_new_line_8 | enable
 ketchup
 now
 wave
@@ -113,7 +113,7 @@ opera
 angle
 churn
 evolve |  
-| bip_39_word_new_line9 | enable
+| bip_39_word_new_line_9 | enable
 ketchup
 now
 wave

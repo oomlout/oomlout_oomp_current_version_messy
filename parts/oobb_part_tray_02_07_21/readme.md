@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hold |  
-| bip_39_word_new_br10 | hold<br>coffee<br>diamond<br>acoustic<br>acquire<br>common<br>lottery<br>great<br>render<br>live |  
-| bip_39_word_new_br11 | hold<br>coffee<br>diamond<br>acoustic<br>acquire<br>common<br>lottery<br>great<br>render<br>live<br>clay |  
-| bip_39_word_new_br12 | hold<br>coffee<br>diamond<br>acoustic<br>acquire<br>common<br>lottery<br>great<br>render<br>live<br>clay<br>always |  
-| bip_39_word_new_br2 | hold<br>coffee |  
-| bip_39_word_new_br3 | hold<br>coffee<br>diamond |  
-| bip_39_word_new_br4 | hold<br>coffee<br>diamond<br>acoustic |  
-| bip_39_word_new_br5 | hold<br>coffee<br>diamond<br>acoustic<br>acquire |  
-| bip_39_word_new_br6 | hold<br>coffee<br>diamond<br>acoustic<br>acquire<br>common |  
-| bip_39_word_new_br7 | hold<br>coffee<br>diamond<br>acoustic<br>acquire<br>common<br>lottery |  
-| bip_39_word_new_br8 | hold<br>coffee<br>diamond<br>acoustic<br>acquire<br>common<br>lottery<br>great |  
-| bip_39_word_new_br9 | hold<br>coffee<br>diamond<br>acoustic<br>acquire<br>common<br>lottery<br>great<br>render |  
-| bip_39_word_new_line1 | hold |  
-| bip_39_word_new_line10 | hold
+| bip_39_word_new_br_1 | hold |  
+| bip_39_word_new_br_10 | hold<br>coffee<br>diamond<br>acoustic<br>acquire<br>common<br>lottery<br>great<br>render<br>live |  
+| bip_39_word_new_br_11 | hold<br>coffee<br>diamond<br>acoustic<br>acquire<br>common<br>lottery<br>great<br>render<br>live<br>clay |  
+| bip_39_word_new_br_12 | hold<br>coffee<br>diamond<br>acoustic<br>acquire<br>common<br>lottery<br>great<br>render<br>live<br>clay<br>always |  
+| bip_39_word_new_br_2 | hold<br>coffee |  
+| bip_39_word_new_br_3 | hold<br>coffee<br>diamond |  
+| bip_39_word_new_br_4 | hold<br>coffee<br>diamond<br>acoustic |  
+| bip_39_word_new_br_5 | hold<br>coffee<br>diamond<br>acoustic<br>acquire |  
+| bip_39_word_new_br_6 | hold<br>coffee<br>diamond<br>acoustic<br>acquire<br>common |  
+| bip_39_word_new_br_7 | hold<br>coffee<br>diamond<br>acoustic<br>acquire<br>common<br>lottery |  
+| bip_39_word_new_br_8 | hold<br>coffee<br>diamond<br>acoustic<br>acquire<br>common<br>lottery<br>great |  
+| bip_39_word_new_br_9 | hold<br>coffee<br>diamond<br>acoustic<br>acquire<br>common<br>lottery<br>great<br>render |  
+| bip_39_word_new_line_1 | hold |  
+| bip_39_word_new_line_10 | hold
 coffee
 diamond
 acoustic
@@ -55,7 +55,7 @@ lottery
 great
 render
 live |  
-| bip_39_word_new_line11 | hold
+| bip_39_word_new_line_11 | hold
 coffee
 diamond
 acoustic
@@ -66,7 +66,7 @@ great
 render
 live
 clay |  
-| bip_39_word_new_line12 | hold
+| bip_39_word_new_line_12 | hold
 coffee
 diamond
 acoustic
@@ -78,34 +78,34 @@ render
 live
 clay
 always |  
-| bip_39_word_new_line2 | hold
+| bip_39_word_new_line_2 | hold
 coffee |  
-| bip_39_word_new_line3 | hold
+| bip_39_word_new_line_3 | hold
 coffee
 diamond |  
-| bip_39_word_new_line4 | hold
+| bip_39_word_new_line_4 | hold
 coffee
 diamond
 acoustic |  
-| bip_39_word_new_line5 | hold
+| bip_39_word_new_line_5 | hold
 coffee
 diamond
 acoustic
 acquire |  
-| bip_39_word_new_line6 | hold
+| bip_39_word_new_line_6 | hold
 coffee
 diamond
 acoustic
 acquire
 common |  
-| bip_39_word_new_line7 | hold
+| bip_39_word_new_line_7 | hold
 coffee
 diamond
 acoustic
 acquire
 common
 lottery |  
-| bip_39_word_new_line8 | hold
+| bip_39_word_new_line_8 | hold
 coffee
 diamond
 acoustic
@@ -113,7 +113,7 @@ acquire
 common
 lottery
 great |  
-| bip_39_word_new_line9 | hold
+| bip_39_word_new_line_9 | hold
 coffee
 diamond
 acoustic

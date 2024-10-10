@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | guilt |  
-| bip_39_word_new_br10 | guilt<br>hollow<br>caution<br>later<br>portion<br>all<br>build<br>afraid<br>empower<br>power |  
-| bip_39_word_new_br11 | guilt<br>hollow<br>caution<br>later<br>portion<br>all<br>build<br>afraid<br>empower<br>power<br>cattle |  
-| bip_39_word_new_br12 | guilt<br>hollow<br>caution<br>later<br>portion<br>all<br>build<br>afraid<br>empower<br>power<br>cattle<br>assist |  
-| bip_39_word_new_br2 | guilt<br>hollow |  
-| bip_39_word_new_br3 | guilt<br>hollow<br>caution |  
-| bip_39_word_new_br4 | guilt<br>hollow<br>caution<br>later |  
-| bip_39_word_new_br5 | guilt<br>hollow<br>caution<br>later<br>portion |  
-| bip_39_word_new_br6 | guilt<br>hollow<br>caution<br>later<br>portion<br>all |  
-| bip_39_word_new_br7 | guilt<br>hollow<br>caution<br>later<br>portion<br>all<br>build |  
-| bip_39_word_new_br8 | guilt<br>hollow<br>caution<br>later<br>portion<br>all<br>build<br>afraid |  
-| bip_39_word_new_br9 | guilt<br>hollow<br>caution<br>later<br>portion<br>all<br>build<br>afraid<br>empower |  
-| bip_39_word_new_line1 | guilt |  
-| bip_39_word_new_line10 | guilt
+| bip_39_word_new_br_1 | guilt |  
+| bip_39_word_new_br_10 | guilt<br>hollow<br>caution<br>later<br>portion<br>all<br>build<br>afraid<br>empower<br>power |  
+| bip_39_word_new_br_11 | guilt<br>hollow<br>caution<br>later<br>portion<br>all<br>build<br>afraid<br>empower<br>power<br>cattle |  
+| bip_39_word_new_br_12 | guilt<br>hollow<br>caution<br>later<br>portion<br>all<br>build<br>afraid<br>empower<br>power<br>cattle<br>assist |  
+| bip_39_word_new_br_2 | guilt<br>hollow |  
+| bip_39_word_new_br_3 | guilt<br>hollow<br>caution |  
+| bip_39_word_new_br_4 | guilt<br>hollow<br>caution<br>later |  
+| bip_39_word_new_br_5 | guilt<br>hollow<br>caution<br>later<br>portion |  
+| bip_39_word_new_br_6 | guilt<br>hollow<br>caution<br>later<br>portion<br>all |  
+| bip_39_word_new_br_7 | guilt<br>hollow<br>caution<br>later<br>portion<br>all<br>build |  
+| bip_39_word_new_br_8 | guilt<br>hollow<br>caution<br>later<br>portion<br>all<br>build<br>afraid |  
+| bip_39_word_new_br_9 | guilt<br>hollow<br>caution<br>later<br>portion<br>all<br>build<br>afraid<br>empower |  
+| bip_39_word_new_line_1 | guilt |  
+| bip_39_word_new_line_10 | guilt
 hollow
 caution
 later
@@ -55,7 +55,7 @@ build
 afraid
 empower
 power |  
-| bip_39_word_new_line11 | guilt
+| bip_39_word_new_line_11 | guilt
 hollow
 caution
 later
@@ -66,7 +66,7 @@ afraid
 empower
 power
 cattle |  
-| bip_39_word_new_line12 | guilt
+| bip_39_word_new_line_12 | guilt
 hollow
 caution
 later
@@ -78,34 +78,34 @@ empower
 power
 cattle
 assist |  
-| bip_39_word_new_line2 | guilt
+| bip_39_word_new_line_2 | guilt
 hollow |  
-| bip_39_word_new_line3 | guilt
+| bip_39_word_new_line_3 | guilt
 hollow
 caution |  
-| bip_39_word_new_line4 | guilt
+| bip_39_word_new_line_4 | guilt
 hollow
 caution
 later |  
-| bip_39_word_new_line5 | guilt
+| bip_39_word_new_line_5 | guilt
 hollow
 caution
 later
 portion |  
-| bip_39_word_new_line6 | guilt
+| bip_39_word_new_line_6 | guilt
 hollow
 caution
 later
 portion
 all |  
-| bip_39_word_new_line7 | guilt
+| bip_39_word_new_line_7 | guilt
 hollow
 caution
 later
 portion
 all
 build |  
-| bip_39_word_new_line8 | guilt
+| bip_39_word_new_line_8 | guilt
 hollow
 caution
 later
@@ -113,7 +113,7 @@ portion
 all
 build
 afraid |  
-| bip_39_word_new_line9 | guilt
+| bip_39_word_new_line_9 | guilt
 hollow
 caution
 later

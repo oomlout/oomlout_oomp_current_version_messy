@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | general |  
-| bip_39_word_new_br10 | general<br>traffic<br>crunch<br>treat<br>text<br>sample<br>battle<br>other<br>coconut<br>dilemma |  
-| bip_39_word_new_br11 | general<br>traffic<br>crunch<br>treat<br>text<br>sample<br>battle<br>other<br>coconut<br>dilemma<br>syrup |  
-| bip_39_word_new_br12 | general<br>traffic<br>crunch<br>treat<br>text<br>sample<br>battle<br>other<br>coconut<br>dilemma<br>syrup<br>avocado |  
-| bip_39_word_new_br2 | general<br>traffic |  
-| bip_39_word_new_br3 | general<br>traffic<br>crunch |  
-| bip_39_word_new_br4 | general<br>traffic<br>crunch<br>treat |  
-| bip_39_word_new_br5 | general<br>traffic<br>crunch<br>treat<br>text |  
-| bip_39_word_new_br6 | general<br>traffic<br>crunch<br>treat<br>text<br>sample |  
-| bip_39_word_new_br7 | general<br>traffic<br>crunch<br>treat<br>text<br>sample<br>battle |  
-| bip_39_word_new_br8 | general<br>traffic<br>crunch<br>treat<br>text<br>sample<br>battle<br>other |  
-| bip_39_word_new_br9 | general<br>traffic<br>crunch<br>treat<br>text<br>sample<br>battle<br>other<br>coconut |  
-| bip_39_word_new_line1 | general |  
-| bip_39_word_new_line10 | general
+| bip_39_word_new_br_1 | general |  
+| bip_39_word_new_br_10 | general<br>traffic<br>crunch<br>treat<br>text<br>sample<br>battle<br>other<br>coconut<br>dilemma |  
+| bip_39_word_new_br_11 | general<br>traffic<br>crunch<br>treat<br>text<br>sample<br>battle<br>other<br>coconut<br>dilemma<br>syrup |  
+| bip_39_word_new_br_12 | general<br>traffic<br>crunch<br>treat<br>text<br>sample<br>battle<br>other<br>coconut<br>dilemma<br>syrup<br>avocado |  
+| bip_39_word_new_br_2 | general<br>traffic |  
+| bip_39_word_new_br_3 | general<br>traffic<br>crunch |  
+| bip_39_word_new_br_4 | general<br>traffic<br>crunch<br>treat |  
+| bip_39_word_new_br_5 | general<br>traffic<br>crunch<br>treat<br>text |  
+| bip_39_word_new_br_6 | general<br>traffic<br>crunch<br>treat<br>text<br>sample |  
+| bip_39_word_new_br_7 | general<br>traffic<br>crunch<br>treat<br>text<br>sample<br>battle |  
+| bip_39_word_new_br_8 | general<br>traffic<br>crunch<br>treat<br>text<br>sample<br>battle<br>other |  
+| bip_39_word_new_br_9 | general<br>traffic<br>crunch<br>treat<br>text<br>sample<br>battle<br>other<br>coconut |  
+| bip_39_word_new_line_1 | general |  
+| bip_39_word_new_line_10 | general
 traffic
 crunch
 treat
@@ -55,7 +55,7 @@ battle
 other
 coconut
 dilemma |  
-| bip_39_word_new_line11 | general
+| bip_39_word_new_line_11 | general
 traffic
 crunch
 treat
@@ -66,7 +66,7 @@ other
 coconut
 dilemma
 syrup |  
-| bip_39_word_new_line12 | general
+| bip_39_word_new_line_12 | general
 traffic
 crunch
 treat
@@ -78,34 +78,34 @@ coconut
 dilemma
 syrup
 avocado |  
-| bip_39_word_new_line2 | general
+| bip_39_word_new_line_2 | general
 traffic |  
-| bip_39_word_new_line3 | general
+| bip_39_word_new_line_3 | general
 traffic
 crunch |  
-| bip_39_word_new_line4 | general
+| bip_39_word_new_line_4 | general
 traffic
 crunch
 treat |  
-| bip_39_word_new_line5 | general
+| bip_39_word_new_line_5 | general
 traffic
 crunch
 treat
 text |  
-| bip_39_word_new_line6 | general
+| bip_39_word_new_line_6 | general
 traffic
 crunch
 treat
 text
 sample |  
-| bip_39_word_new_line7 | general
+| bip_39_word_new_line_7 | general
 traffic
 crunch
 treat
 text
 sample
 battle |  
-| bip_39_word_new_line8 | general
+| bip_39_word_new_line_8 | general
 traffic
 crunch
 treat
@@ -113,7 +113,7 @@ text
 sample
 battle
 other |  
-| bip_39_word_new_line9 | general
+| bip_39_word_new_line_9 | general
 traffic
 crunch
 treat

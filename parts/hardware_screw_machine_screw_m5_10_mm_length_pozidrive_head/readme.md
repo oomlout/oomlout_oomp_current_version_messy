@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dice |  
-| bip_39_word_new_br10 | dice<br>nest<br>topple<br>minimum<br>manage<br>art<br>wife<br>taxi<br>play<br>neck |  
-| bip_39_word_new_br11 | dice<br>nest<br>topple<br>minimum<br>manage<br>art<br>wife<br>taxi<br>play<br>neck<br>plastic |  
-| bip_39_word_new_br12 | dice<br>nest<br>topple<br>minimum<br>manage<br>art<br>wife<br>taxi<br>play<br>neck<br>plastic<br>arrange |  
-| bip_39_word_new_br2 | dice<br>nest |  
-| bip_39_word_new_br3 | dice<br>nest<br>topple |  
-| bip_39_word_new_br4 | dice<br>nest<br>topple<br>minimum |  
-| bip_39_word_new_br5 | dice<br>nest<br>topple<br>minimum<br>manage |  
-| bip_39_word_new_br6 | dice<br>nest<br>topple<br>minimum<br>manage<br>art |  
-| bip_39_word_new_br7 | dice<br>nest<br>topple<br>minimum<br>manage<br>art<br>wife |  
-| bip_39_word_new_br8 | dice<br>nest<br>topple<br>minimum<br>manage<br>art<br>wife<br>taxi |  
-| bip_39_word_new_br9 | dice<br>nest<br>topple<br>minimum<br>manage<br>art<br>wife<br>taxi<br>play |  
-| bip_39_word_new_line1 | dice |  
-| bip_39_word_new_line10 | dice
+| bip_39_word_new_br_1 | dice |  
+| bip_39_word_new_br_10 | dice<br>nest<br>topple<br>minimum<br>manage<br>art<br>wife<br>taxi<br>play<br>neck |  
+| bip_39_word_new_br_11 | dice<br>nest<br>topple<br>minimum<br>manage<br>art<br>wife<br>taxi<br>play<br>neck<br>plastic |  
+| bip_39_word_new_br_12 | dice<br>nest<br>topple<br>minimum<br>manage<br>art<br>wife<br>taxi<br>play<br>neck<br>plastic<br>arrange |  
+| bip_39_word_new_br_2 | dice<br>nest |  
+| bip_39_word_new_br_3 | dice<br>nest<br>topple |  
+| bip_39_word_new_br_4 | dice<br>nest<br>topple<br>minimum |  
+| bip_39_word_new_br_5 | dice<br>nest<br>topple<br>minimum<br>manage |  
+| bip_39_word_new_br_6 | dice<br>nest<br>topple<br>minimum<br>manage<br>art |  
+| bip_39_word_new_br_7 | dice<br>nest<br>topple<br>minimum<br>manage<br>art<br>wife |  
+| bip_39_word_new_br_8 | dice<br>nest<br>topple<br>minimum<br>manage<br>art<br>wife<br>taxi |  
+| bip_39_word_new_br_9 | dice<br>nest<br>topple<br>minimum<br>manage<br>art<br>wife<br>taxi<br>play |  
+| bip_39_word_new_line_1 | dice |  
+| bip_39_word_new_line_10 | dice
 nest
 topple
 minimum
@@ -55,7 +55,7 @@ wife
 taxi
 play
 neck |  
-| bip_39_word_new_line11 | dice
+| bip_39_word_new_line_11 | dice
 nest
 topple
 minimum
@@ -66,7 +66,7 @@ taxi
 play
 neck
 plastic |  
-| bip_39_word_new_line12 | dice
+| bip_39_word_new_line_12 | dice
 nest
 topple
 minimum
@@ -78,34 +78,34 @@ play
 neck
 plastic
 arrange |  
-| bip_39_word_new_line2 | dice
+| bip_39_word_new_line_2 | dice
 nest |  
-| bip_39_word_new_line3 | dice
+| bip_39_word_new_line_3 | dice
 nest
 topple |  
-| bip_39_word_new_line4 | dice
+| bip_39_word_new_line_4 | dice
 nest
 topple
 minimum |  
-| bip_39_word_new_line5 | dice
+| bip_39_word_new_line_5 | dice
 nest
 topple
 minimum
 manage |  
-| bip_39_word_new_line6 | dice
+| bip_39_word_new_line_6 | dice
 nest
 topple
 minimum
 manage
 art |  
-| bip_39_word_new_line7 | dice
+| bip_39_word_new_line_7 | dice
 nest
 topple
 minimum
 manage
 art
 wife |  
-| bip_39_word_new_line8 | dice
+| bip_39_word_new_line_8 | dice
 nest
 topple
 minimum
@@ -113,7 +113,7 @@ manage
 art
 wife
 taxi |  
-| bip_39_word_new_line9 | dice
+| bip_39_word_new_line_9 | dice
 nest
 topple
 minimum

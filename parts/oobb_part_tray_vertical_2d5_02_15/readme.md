@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ten |  
-| bip_39_word_new_br10 | ten<br>rule<br>alarm<br>whip<br>outside<br>talent<br>clock<br>mixture<br>various<br>husband |  
-| bip_39_word_new_br11 | ten<br>rule<br>alarm<br>whip<br>outside<br>talent<br>clock<br>mixture<br>various<br>husband<br>cube |  
-| bip_39_word_new_br12 | ten<br>rule<br>alarm<br>whip<br>outside<br>talent<br>clock<br>mixture<br>various<br>husband<br>cube<br>accuse |  
-| bip_39_word_new_br2 | ten<br>rule |  
-| bip_39_word_new_br3 | ten<br>rule<br>alarm |  
-| bip_39_word_new_br4 | ten<br>rule<br>alarm<br>whip |  
-| bip_39_word_new_br5 | ten<br>rule<br>alarm<br>whip<br>outside |  
-| bip_39_word_new_br6 | ten<br>rule<br>alarm<br>whip<br>outside<br>talent |  
-| bip_39_word_new_br7 | ten<br>rule<br>alarm<br>whip<br>outside<br>talent<br>clock |  
-| bip_39_word_new_br8 | ten<br>rule<br>alarm<br>whip<br>outside<br>talent<br>clock<br>mixture |  
-| bip_39_word_new_br9 | ten<br>rule<br>alarm<br>whip<br>outside<br>talent<br>clock<br>mixture<br>various |  
-| bip_39_word_new_line1 | ten |  
-| bip_39_word_new_line10 | ten
+| bip_39_word_new_br_1 | ten |  
+| bip_39_word_new_br_10 | ten<br>rule<br>alarm<br>whip<br>outside<br>talent<br>clock<br>mixture<br>various<br>husband |  
+| bip_39_word_new_br_11 | ten<br>rule<br>alarm<br>whip<br>outside<br>talent<br>clock<br>mixture<br>various<br>husband<br>cube |  
+| bip_39_word_new_br_12 | ten<br>rule<br>alarm<br>whip<br>outside<br>talent<br>clock<br>mixture<br>various<br>husband<br>cube<br>accuse |  
+| bip_39_word_new_br_2 | ten<br>rule |  
+| bip_39_word_new_br_3 | ten<br>rule<br>alarm |  
+| bip_39_word_new_br_4 | ten<br>rule<br>alarm<br>whip |  
+| bip_39_word_new_br_5 | ten<br>rule<br>alarm<br>whip<br>outside |  
+| bip_39_word_new_br_6 | ten<br>rule<br>alarm<br>whip<br>outside<br>talent |  
+| bip_39_word_new_br_7 | ten<br>rule<br>alarm<br>whip<br>outside<br>talent<br>clock |  
+| bip_39_word_new_br_8 | ten<br>rule<br>alarm<br>whip<br>outside<br>talent<br>clock<br>mixture |  
+| bip_39_word_new_br_9 | ten<br>rule<br>alarm<br>whip<br>outside<br>talent<br>clock<br>mixture<br>various |  
+| bip_39_word_new_line_1 | ten |  
+| bip_39_word_new_line_10 | ten
 rule
 alarm
 whip
@@ -55,7 +55,7 @@ clock
 mixture
 various
 husband |  
-| bip_39_word_new_line11 | ten
+| bip_39_word_new_line_11 | ten
 rule
 alarm
 whip
@@ -66,7 +66,7 @@ mixture
 various
 husband
 cube |  
-| bip_39_word_new_line12 | ten
+| bip_39_word_new_line_12 | ten
 rule
 alarm
 whip
@@ -78,34 +78,34 @@ various
 husband
 cube
 accuse |  
-| bip_39_word_new_line2 | ten
+| bip_39_word_new_line_2 | ten
 rule |  
-| bip_39_word_new_line3 | ten
+| bip_39_word_new_line_3 | ten
 rule
 alarm |  
-| bip_39_word_new_line4 | ten
+| bip_39_word_new_line_4 | ten
 rule
 alarm
 whip |  
-| bip_39_word_new_line5 | ten
+| bip_39_word_new_line_5 | ten
 rule
 alarm
 whip
 outside |  
-| bip_39_word_new_line6 | ten
+| bip_39_word_new_line_6 | ten
 rule
 alarm
 whip
 outside
 talent |  
-| bip_39_word_new_line7 | ten
+| bip_39_word_new_line_7 | ten
 rule
 alarm
 whip
 outside
 talent
 clock |  
-| bip_39_word_new_line8 | ten
+| bip_39_word_new_line_8 | ten
 rule
 alarm
 whip
@@ -113,7 +113,7 @@ outside
 talent
 clock
 mixture |  
-| bip_39_word_new_line9 | ten
+| bip_39_word_new_line_9 | ten
 rule
 alarm
 whip

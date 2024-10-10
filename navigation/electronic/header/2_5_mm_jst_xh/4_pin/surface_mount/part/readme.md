@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | script |  
-| bip_39_word_new_br10 | script<br>race<br>garage<br>sign<br>radio<br>timber<br>school<br>ahead<br>joy<br>cereal |  
-| bip_39_word_new_br11 | script<br>race<br>garage<br>sign<br>radio<br>timber<br>school<br>ahead<br>joy<br>cereal<br>drastic |  
-| bip_39_word_new_br12 | script<br>race<br>garage<br>sign<br>radio<br>timber<br>school<br>ahead<br>joy<br>cereal<br>drastic<br>alert |  
-| bip_39_word_new_br2 | script<br>race |  
-| bip_39_word_new_br3 | script<br>race<br>garage |  
-| bip_39_word_new_br4 | script<br>race<br>garage<br>sign |  
-| bip_39_word_new_br5 | script<br>race<br>garage<br>sign<br>radio |  
-| bip_39_word_new_br6 | script<br>race<br>garage<br>sign<br>radio<br>timber |  
-| bip_39_word_new_br7 | script<br>race<br>garage<br>sign<br>radio<br>timber<br>school |  
-| bip_39_word_new_br8 | script<br>race<br>garage<br>sign<br>radio<br>timber<br>school<br>ahead |  
-| bip_39_word_new_br9 | script<br>race<br>garage<br>sign<br>radio<br>timber<br>school<br>ahead<br>joy |  
-| bip_39_word_new_line1 | script |  
-| bip_39_word_new_line10 | script
+| bip_39_word_new_br_1 | script |  
+| bip_39_word_new_br_10 | script<br>race<br>garage<br>sign<br>radio<br>timber<br>school<br>ahead<br>joy<br>cereal |  
+| bip_39_word_new_br_11 | script<br>race<br>garage<br>sign<br>radio<br>timber<br>school<br>ahead<br>joy<br>cereal<br>drastic |  
+| bip_39_word_new_br_12 | script<br>race<br>garage<br>sign<br>radio<br>timber<br>school<br>ahead<br>joy<br>cereal<br>drastic<br>alert |  
+| bip_39_word_new_br_2 | script<br>race |  
+| bip_39_word_new_br_3 | script<br>race<br>garage |  
+| bip_39_word_new_br_4 | script<br>race<br>garage<br>sign |  
+| bip_39_word_new_br_5 | script<br>race<br>garage<br>sign<br>radio |  
+| bip_39_word_new_br_6 | script<br>race<br>garage<br>sign<br>radio<br>timber |  
+| bip_39_word_new_br_7 | script<br>race<br>garage<br>sign<br>radio<br>timber<br>school |  
+| bip_39_word_new_br_8 | script<br>race<br>garage<br>sign<br>radio<br>timber<br>school<br>ahead |  
+| bip_39_word_new_br_9 | script<br>race<br>garage<br>sign<br>radio<br>timber<br>school<br>ahead<br>joy |  
+| bip_39_word_new_line_1 | script |  
+| bip_39_word_new_line_10 | script
 race
 garage
 sign
@@ -55,7 +55,7 @@ school
 ahead
 joy
 cereal |  
-| bip_39_word_new_line11 | script
+| bip_39_word_new_line_11 | script
 race
 garage
 sign
@@ -66,7 +66,7 @@ ahead
 joy
 cereal
 drastic |  
-| bip_39_word_new_line12 | script
+| bip_39_word_new_line_12 | script
 race
 garage
 sign
@@ -78,34 +78,34 @@ joy
 cereal
 drastic
 alert |  
-| bip_39_word_new_line2 | script
+| bip_39_word_new_line_2 | script
 race |  
-| bip_39_word_new_line3 | script
+| bip_39_word_new_line_3 | script
 race
 garage |  
-| bip_39_word_new_line4 | script
+| bip_39_word_new_line_4 | script
 race
 garage
 sign |  
-| bip_39_word_new_line5 | script
+| bip_39_word_new_line_5 | script
 race
 garage
 sign
 radio |  
-| bip_39_word_new_line6 | script
+| bip_39_word_new_line_6 | script
 race
 garage
 sign
 radio
 timber |  
-| bip_39_word_new_line7 | script
+| bip_39_word_new_line_7 | script
 race
 garage
 sign
 radio
 timber
 school |  
-| bip_39_word_new_line8 | script
+| bip_39_word_new_line_8 | script
 race
 garage
 sign
@@ -113,7 +113,7 @@ radio
 timber
 school
 ahead |  
-| bip_39_word_new_line9 | script
+| bip_39_word_new_line_9 | script
 race
 garage
 sign

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | side |  
-| bip_39_word_new_br10 | side<br>place<br>beef<br>write<br>hospital<br>expand<br>proof<br>dish<br>design<br>table |  
-| bip_39_word_new_br11 | side<br>place<br>beef<br>write<br>hospital<br>expand<br>proof<br>dish<br>design<br>table<br>you |  
-| bip_39_word_new_br12 | side<br>place<br>beef<br>write<br>hospital<br>expand<br>proof<br>dish<br>design<br>table<br>you<br>approve |  
-| bip_39_word_new_br2 | side<br>place |  
-| bip_39_word_new_br3 | side<br>place<br>beef |  
-| bip_39_word_new_br4 | side<br>place<br>beef<br>write |  
-| bip_39_word_new_br5 | side<br>place<br>beef<br>write<br>hospital |  
-| bip_39_word_new_br6 | side<br>place<br>beef<br>write<br>hospital<br>expand |  
-| bip_39_word_new_br7 | side<br>place<br>beef<br>write<br>hospital<br>expand<br>proof |  
-| bip_39_word_new_br8 | side<br>place<br>beef<br>write<br>hospital<br>expand<br>proof<br>dish |  
-| bip_39_word_new_br9 | side<br>place<br>beef<br>write<br>hospital<br>expand<br>proof<br>dish<br>design |  
-| bip_39_word_new_line1 | side |  
-| bip_39_word_new_line10 | side
+| bip_39_word_new_br_1 | side |  
+| bip_39_word_new_br_10 | side<br>place<br>beef<br>write<br>hospital<br>expand<br>proof<br>dish<br>design<br>table |  
+| bip_39_word_new_br_11 | side<br>place<br>beef<br>write<br>hospital<br>expand<br>proof<br>dish<br>design<br>table<br>you |  
+| bip_39_word_new_br_12 | side<br>place<br>beef<br>write<br>hospital<br>expand<br>proof<br>dish<br>design<br>table<br>you<br>approve |  
+| bip_39_word_new_br_2 | side<br>place |  
+| bip_39_word_new_br_3 | side<br>place<br>beef |  
+| bip_39_word_new_br_4 | side<br>place<br>beef<br>write |  
+| bip_39_word_new_br_5 | side<br>place<br>beef<br>write<br>hospital |  
+| bip_39_word_new_br_6 | side<br>place<br>beef<br>write<br>hospital<br>expand |  
+| bip_39_word_new_br_7 | side<br>place<br>beef<br>write<br>hospital<br>expand<br>proof |  
+| bip_39_word_new_br_8 | side<br>place<br>beef<br>write<br>hospital<br>expand<br>proof<br>dish |  
+| bip_39_word_new_br_9 | side<br>place<br>beef<br>write<br>hospital<br>expand<br>proof<br>dish<br>design |  
+| bip_39_word_new_line_1 | side |  
+| bip_39_word_new_line_10 | side
 place
 beef
 write
@@ -55,7 +55,7 @@ proof
 dish
 design
 table |  
-| bip_39_word_new_line11 | side
+| bip_39_word_new_line_11 | side
 place
 beef
 write
@@ -66,7 +66,7 @@ dish
 design
 table
 you |  
-| bip_39_word_new_line12 | side
+| bip_39_word_new_line_12 | side
 place
 beef
 write
@@ -78,34 +78,34 @@ design
 table
 you
 approve |  
-| bip_39_word_new_line2 | side
+| bip_39_word_new_line_2 | side
 place |  
-| bip_39_word_new_line3 | side
+| bip_39_word_new_line_3 | side
 place
 beef |  
-| bip_39_word_new_line4 | side
+| bip_39_word_new_line_4 | side
 place
 beef
 write |  
-| bip_39_word_new_line5 | side
+| bip_39_word_new_line_5 | side
 place
 beef
 write
 hospital |  
-| bip_39_word_new_line6 | side
+| bip_39_word_new_line_6 | side
 place
 beef
 write
 hospital
 expand |  
-| bip_39_word_new_line7 | side
+| bip_39_word_new_line_7 | side
 place
 beef
 write
 hospital
 expand
 proof |  
-| bip_39_word_new_line8 | side
+| bip_39_word_new_line_8 | side
 place
 beef
 write
@@ -113,7 +113,7 @@ hospital
 expand
 proof
 dish |  
-| bip_39_word_new_line9 | side
+| bip_39_word_new_line_9 | side
 place
 beef
 write

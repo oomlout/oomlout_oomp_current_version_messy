@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | check |  
-| bip_39_word_new_br10 | check<br>ignore<br>fiber<br>quiz<br>various<br>gap<br>inject<br>casino<br>kick<br>surge |  
-| bip_39_word_new_br11 | check<br>ignore<br>fiber<br>quiz<br>various<br>gap<br>inject<br>casino<br>kick<br>surge<br>peasant |  
-| bip_39_word_new_br12 | check<br>ignore<br>fiber<br>quiz<br>various<br>gap<br>inject<br>casino<br>kick<br>surge<br>peasant<br>auto |  
-| bip_39_word_new_br2 | check<br>ignore |  
-| bip_39_word_new_br3 | check<br>ignore<br>fiber |  
-| bip_39_word_new_br4 | check<br>ignore<br>fiber<br>quiz |  
-| bip_39_word_new_br5 | check<br>ignore<br>fiber<br>quiz<br>various |  
-| bip_39_word_new_br6 | check<br>ignore<br>fiber<br>quiz<br>various<br>gap |  
-| bip_39_word_new_br7 | check<br>ignore<br>fiber<br>quiz<br>various<br>gap<br>inject |  
-| bip_39_word_new_br8 | check<br>ignore<br>fiber<br>quiz<br>various<br>gap<br>inject<br>casino |  
-| bip_39_word_new_br9 | check<br>ignore<br>fiber<br>quiz<br>various<br>gap<br>inject<br>casino<br>kick |  
-| bip_39_word_new_line1 | check |  
-| bip_39_word_new_line10 | check
+| bip_39_word_new_br_1 | check |  
+| bip_39_word_new_br_10 | check<br>ignore<br>fiber<br>quiz<br>various<br>gap<br>inject<br>casino<br>kick<br>surge |  
+| bip_39_word_new_br_11 | check<br>ignore<br>fiber<br>quiz<br>various<br>gap<br>inject<br>casino<br>kick<br>surge<br>peasant |  
+| bip_39_word_new_br_12 | check<br>ignore<br>fiber<br>quiz<br>various<br>gap<br>inject<br>casino<br>kick<br>surge<br>peasant<br>auto |  
+| bip_39_word_new_br_2 | check<br>ignore |  
+| bip_39_word_new_br_3 | check<br>ignore<br>fiber |  
+| bip_39_word_new_br_4 | check<br>ignore<br>fiber<br>quiz |  
+| bip_39_word_new_br_5 | check<br>ignore<br>fiber<br>quiz<br>various |  
+| bip_39_word_new_br_6 | check<br>ignore<br>fiber<br>quiz<br>various<br>gap |  
+| bip_39_word_new_br_7 | check<br>ignore<br>fiber<br>quiz<br>various<br>gap<br>inject |  
+| bip_39_word_new_br_8 | check<br>ignore<br>fiber<br>quiz<br>various<br>gap<br>inject<br>casino |  
+| bip_39_word_new_br_9 | check<br>ignore<br>fiber<br>quiz<br>various<br>gap<br>inject<br>casino<br>kick |  
+| bip_39_word_new_line_1 | check |  
+| bip_39_word_new_line_10 | check
 ignore
 fiber
 quiz
@@ -55,7 +55,7 @@ inject
 casino
 kick
 surge |  
-| bip_39_word_new_line11 | check
+| bip_39_word_new_line_11 | check
 ignore
 fiber
 quiz
@@ -66,7 +66,7 @@ casino
 kick
 surge
 peasant |  
-| bip_39_word_new_line12 | check
+| bip_39_word_new_line_12 | check
 ignore
 fiber
 quiz
@@ -78,34 +78,34 @@ kick
 surge
 peasant
 auto |  
-| bip_39_word_new_line2 | check
+| bip_39_word_new_line_2 | check
 ignore |  
-| bip_39_word_new_line3 | check
+| bip_39_word_new_line_3 | check
 ignore
 fiber |  
-| bip_39_word_new_line4 | check
+| bip_39_word_new_line_4 | check
 ignore
 fiber
 quiz |  
-| bip_39_word_new_line5 | check
+| bip_39_word_new_line_5 | check
 ignore
 fiber
 quiz
 various |  
-| bip_39_word_new_line6 | check
+| bip_39_word_new_line_6 | check
 ignore
 fiber
 quiz
 various
 gap |  
-| bip_39_word_new_line7 | check
+| bip_39_word_new_line_7 | check
 ignore
 fiber
 quiz
 various
 gap
 inject |  
-| bip_39_word_new_line8 | check
+| bip_39_word_new_line_8 | check
 ignore
 fiber
 quiz
@@ -113,7 +113,7 @@ various
 gap
 inject
 casino |  
-| bip_39_word_new_line9 | check
+| bip_39_word_new_line_9 | check
 ignore
 fiber
 quiz

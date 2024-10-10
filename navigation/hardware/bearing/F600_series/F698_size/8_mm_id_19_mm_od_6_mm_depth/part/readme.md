@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | family |  
-| bip_39_word_new_br10 | family<br>brain<br>churn<br>vintage<br>visit<br>veteran<br>number<br>usual<br>under<br>squeeze |  
-| bip_39_word_new_br11 | family<br>brain<br>churn<br>vintage<br>visit<br>veteran<br>number<br>usual<br>under<br>squeeze<br>payment |  
-| bip_39_word_new_br12 | family<br>brain<br>churn<br>vintage<br>visit<br>veteran<br>number<br>usual<br>under<br>squeeze<br>payment<br>action |  
-| bip_39_word_new_br2 | family<br>brain |  
-| bip_39_word_new_br3 | family<br>brain<br>churn |  
-| bip_39_word_new_br4 | family<br>brain<br>churn<br>vintage |  
-| bip_39_word_new_br5 | family<br>brain<br>churn<br>vintage<br>visit |  
-| bip_39_word_new_br6 | family<br>brain<br>churn<br>vintage<br>visit<br>veteran |  
-| bip_39_word_new_br7 | family<br>brain<br>churn<br>vintage<br>visit<br>veteran<br>number |  
-| bip_39_word_new_br8 | family<br>brain<br>churn<br>vintage<br>visit<br>veteran<br>number<br>usual |  
-| bip_39_word_new_br9 | family<br>brain<br>churn<br>vintage<br>visit<br>veteran<br>number<br>usual<br>under |  
-| bip_39_word_new_line1 | family |  
-| bip_39_word_new_line10 | family
+| bip_39_word_new_br_1 | family |  
+| bip_39_word_new_br_10 | family<br>brain<br>churn<br>vintage<br>visit<br>veteran<br>number<br>usual<br>under<br>squeeze |  
+| bip_39_word_new_br_11 | family<br>brain<br>churn<br>vintage<br>visit<br>veteran<br>number<br>usual<br>under<br>squeeze<br>payment |  
+| bip_39_word_new_br_12 | family<br>brain<br>churn<br>vintage<br>visit<br>veteran<br>number<br>usual<br>under<br>squeeze<br>payment<br>action |  
+| bip_39_word_new_br_2 | family<br>brain |  
+| bip_39_word_new_br_3 | family<br>brain<br>churn |  
+| bip_39_word_new_br_4 | family<br>brain<br>churn<br>vintage |  
+| bip_39_word_new_br_5 | family<br>brain<br>churn<br>vintage<br>visit |  
+| bip_39_word_new_br_6 | family<br>brain<br>churn<br>vintage<br>visit<br>veteran |  
+| bip_39_word_new_br_7 | family<br>brain<br>churn<br>vintage<br>visit<br>veteran<br>number |  
+| bip_39_word_new_br_8 | family<br>brain<br>churn<br>vintage<br>visit<br>veteran<br>number<br>usual |  
+| bip_39_word_new_br_9 | family<br>brain<br>churn<br>vintage<br>visit<br>veteran<br>number<br>usual<br>under |  
+| bip_39_word_new_line_1 | family |  
+| bip_39_word_new_line_10 | family
 brain
 churn
 vintage
@@ -55,7 +55,7 @@ number
 usual
 under
 squeeze |  
-| bip_39_word_new_line11 | family
+| bip_39_word_new_line_11 | family
 brain
 churn
 vintage
@@ -66,7 +66,7 @@ usual
 under
 squeeze
 payment |  
-| bip_39_word_new_line12 | family
+| bip_39_word_new_line_12 | family
 brain
 churn
 vintage
@@ -78,34 +78,34 @@ under
 squeeze
 payment
 action |  
-| bip_39_word_new_line2 | family
+| bip_39_word_new_line_2 | family
 brain |  
-| bip_39_word_new_line3 | family
+| bip_39_word_new_line_3 | family
 brain
 churn |  
-| bip_39_word_new_line4 | family
+| bip_39_word_new_line_4 | family
 brain
 churn
 vintage |  
-| bip_39_word_new_line5 | family
+| bip_39_word_new_line_5 | family
 brain
 churn
 vintage
 visit |  
-| bip_39_word_new_line6 | family
+| bip_39_word_new_line_6 | family
 brain
 churn
 vintage
 visit
 veteran |  
-| bip_39_word_new_line7 | family
+| bip_39_word_new_line_7 | family
 brain
 churn
 vintage
 visit
 veteran
 number |  
-| bip_39_word_new_line8 | family
+| bip_39_word_new_line_8 | family
 brain
 churn
 vintage
@@ -113,7 +113,7 @@ visit
 veteran
 number
 usual |  
-| bip_39_word_new_line9 | family
+| bip_39_word_new_line_9 | family
 brain
 churn
 vintage

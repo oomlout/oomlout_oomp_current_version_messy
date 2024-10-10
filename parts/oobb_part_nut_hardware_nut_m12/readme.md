@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | deer |  
-| bip_39_word_new_br10 | deer<br>regular<br>rival<br>black<br>income<br>ivory<br>smoke<br>hero<br>juice<br>cash |  
-| bip_39_word_new_br11 | deer<br>regular<br>rival<br>black<br>income<br>ivory<br>smoke<br>hero<br>juice<br>cash<br>order |  
-| bip_39_word_new_br12 | deer<br>regular<br>rival<br>black<br>income<br>ivory<br>smoke<br>hero<br>juice<br>cash<br>order<br>avocado |  
-| bip_39_word_new_br2 | deer<br>regular |  
-| bip_39_word_new_br3 | deer<br>regular<br>rival |  
-| bip_39_word_new_br4 | deer<br>regular<br>rival<br>black |  
-| bip_39_word_new_br5 | deer<br>regular<br>rival<br>black<br>income |  
-| bip_39_word_new_br6 | deer<br>regular<br>rival<br>black<br>income<br>ivory |  
-| bip_39_word_new_br7 | deer<br>regular<br>rival<br>black<br>income<br>ivory<br>smoke |  
-| bip_39_word_new_br8 | deer<br>regular<br>rival<br>black<br>income<br>ivory<br>smoke<br>hero |  
-| bip_39_word_new_br9 | deer<br>regular<br>rival<br>black<br>income<br>ivory<br>smoke<br>hero<br>juice |  
-| bip_39_word_new_line1 | deer |  
-| bip_39_word_new_line10 | deer
+| bip_39_word_new_br_1 | deer |  
+| bip_39_word_new_br_10 | deer<br>regular<br>rival<br>black<br>income<br>ivory<br>smoke<br>hero<br>juice<br>cash |  
+| bip_39_word_new_br_11 | deer<br>regular<br>rival<br>black<br>income<br>ivory<br>smoke<br>hero<br>juice<br>cash<br>order |  
+| bip_39_word_new_br_12 | deer<br>regular<br>rival<br>black<br>income<br>ivory<br>smoke<br>hero<br>juice<br>cash<br>order<br>avocado |  
+| bip_39_word_new_br_2 | deer<br>regular |  
+| bip_39_word_new_br_3 | deer<br>regular<br>rival |  
+| bip_39_word_new_br_4 | deer<br>regular<br>rival<br>black |  
+| bip_39_word_new_br_5 | deer<br>regular<br>rival<br>black<br>income |  
+| bip_39_word_new_br_6 | deer<br>regular<br>rival<br>black<br>income<br>ivory |  
+| bip_39_word_new_br_7 | deer<br>regular<br>rival<br>black<br>income<br>ivory<br>smoke |  
+| bip_39_word_new_br_8 | deer<br>regular<br>rival<br>black<br>income<br>ivory<br>smoke<br>hero |  
+| bip_39_word_new_br_9 | deer<br>regular<br>rival<br>black<br>income<br>ivory<br>smoke<br>hero<br>juice |  
+| bip_39_word_new_line_1 | deer |  
+| bip_39_word_new_line_10 | deer
 regular
 rival
 black
@@ -55,7 +55,7 @@ smoke
 hero
 juice
 cash |  
-| bip_39_word_new_line11 | deer
+| bip_39_word_new_line_11 | deer
 regular
 rival
 black
@@ -66,7 +66,7 @@ hero
 juice
 cash
 order |  
-| bip_39_word_new_line12 | deer
+| bip_39_word_new_line_12 | deer
 regular
 rival
 black
@@ -78,34 +78,34 @@ juice
 cash
 order
 avocado |  
-| bip_39_word_new_line2 | deer
+| bip_39_word_new_line_2 | deer
 regular |  
-| bip_39_word_new_line3 | deer
+| bip_39_word_new_line_3 | deer
 regular
 rival |  
-| bip_39_word_new_line4 | deer
+| bip_39_word_new_line_4 | deer
 regular
 rival
 black |  
-| bip_39_word_new_line5 | deer
+| bip_39_word_new_line_5 | deer
 regular
 rival
 black
 income |  
-| bip_39_word_new_line6 | deer
+| bip_39_word_new_line_6 | deer
 regular
 rival
 black
 income
 ivory |  
-| bip_39_word_new_line7 | deer
+| bip_39_word_new_line_7 | deer
 regular
 rival
 black
 income
 ivory
 smoke |  
-| bip_39_word_new_line8 | deer
+| bip_39_word_new_line_8 | deer
 regular
 rival
 black
@@ -113,7 +113,7 @@ income
 ivory
 smoke
 hero |  
-| bip_39_word_new_line9 | deer
+| bip_39_word_new_line_9 | deer
 regular
 rival
 black

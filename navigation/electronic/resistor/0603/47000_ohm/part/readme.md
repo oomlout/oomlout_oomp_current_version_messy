@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | imitate |  
-| bip_39_word_new_br10 | imitate<br>flame<br>craft<br>useless<br>enlist<br>toast<br>bench<br>moon<br>table<br>robot |  
-| bip_39_word_new_br11 | imitate<br>flame<br>craft<br>useless<br>enlist<br>toast<br>bench<br>moon<br>table<br>robot<br>repeat |  
-| bip_39_word_new_br12 | imitate<br>flame<br>craft<br>useless<br>enlist<br>toast<br>bench<br>moon<br>table<br>robot<br>repeat<br>arrow |  
-| bip_39_word_new_br2 | imitate<br>flame |  
-| bip_39_word_new_br3 | imitate<br>flame<br>craft |  
-| bip_39_word_new_br4 | imitate<br>flame<br>craft<br>useless |  
-| bip_39_word_new_br5 | imitate<br>flame<br>craft<br>useless<br>enlist |  
-| bip_39_word_new_br6 | imitate<br>flame<br>craft<br>useless<br>enlist<br>toast |  
-| bip_39_word_new_br7 | imitate<br>flame<br>craft<br>useless<br>enlist<br>toast<br>bench |  
-| bip_39_word_new_br8 | imitate<br>flame<br>craft<br>useless<br>enlist<br>toast<br>bench<br>moon |  
-| bip_39_word_new_br9 | imitate<br>flame<br>craft<br>useless<br>enlist<br>toast<br>bench<br>moon<br>table |  
-| bip_39_word_new_line1 | imitate |  
-| bip_39_word_new_line10 | imitate
+| bip_39_word_new_br_1 | imitate |  
+| bip_39_word_new_br_10 | imitate<br>flame<br>craft<br>useless<br>enlist<br>toast<br>bench<br>moon<br>table<br>robot |  
+| bip_39_word_new_br_11 | imitate<br>flame<br>craft<br>useless<br>enlist<br>toast<br>bench<br>moon<br>table<br>robot<br>repeat |  
+| bip_39_word_new_br_12 | imitate<br>flame<br>craft<br>useless<br>enlist<br>toast<br>bench<br>moon<br>table<br>robot<br>repeat<br>arrow |  
+| bip_39_word_new_br_2 | imitate<br>flame |  
+| bip_39_word_new_br_3 | imitate<br>flame<br>craft |  
+| bip_39_word_new_br_4 | imitate<br>flame<br>craft<br>useless |  
+| bip_39_word_new_br_5 | imitate<br>flame<br>craft<br>useless<br>enlist |  
+| bip_39_word_new_br_6 | imitate<br>flame<br>craft<br>useless<br>enlist<br>toast |  
+| bip_39_word_new_br_7 | imitate<br>flame<br>craft<br>useless<br>enlist<br>toast<br>bench |  
+| bip_39_word_new_br_8 | imitate<br>flame<br>craft<br>useless<br>enlist<br>toast<br>bench<br>moon |  
+| bip_39_word_new_br_9 | imitate<br>flame<br>craft<br>useless<br>enlist<br>toast<br>bench<br>moon<br>table |  
+| bip_39_word_new_line_1 | imitate |  
+| bip_39_word_new_line_10 | imitate
 flame
 craft
 useless
@@ -55,7 +55,7 @@ bench
 moon
 table
 robot |  
-| bip_39_word_new_line11 | imitate
+| bip_39_word_new_line_11 | imitate
 flame
 craft
 useless
@@ -66,7 +66,7 @@ moon
 table
 robot
 repeat |  
-| bip_39_word_new_line12 | imitate
+| bip_39_word_new_line_12 | imitate
 flame
 craft
 useless
@@ -78,34 +78,34 @@ table
 robot
 repeat
 arrow |  
-| bip_39_word_new_line2 | imitate
+| bip_39_word_new_line_2 | imitate
 flame |  
-| bip_39_word_new_line3 | imitate
+| bip_39_word_new_line_3 | imitate
 flame
 craft |  
-| bip_39_word_new_line4 | imitate
+| bip_39_word_new_line_4 | imitate
 flame
 craft
 useless |  
-| bip_39_word_new_line5 | imitate
+| bip_39_word_new_line_5 | imitate
 flame
 craft
 useless
 enlist |  
-| bip_39_word_new_line6 | imitate
+| bip_39_word_new_line_6 | imitate
 flame
 craft
 useless
 enlist
 toast |  
-| bip_39_word_new_line7 | imitate
+| bip_39_word_new_line_7 | imitate
 flame
 craft
 useless
 enlist
 toast
 bench |  
-| bip_39_word_new_line8 | imitate
+| bip_39_word_new_line_8 | imitate
 flame
 craft
 useless
@@ -113,7 +113,7 @@ enlist
 toast
 bench
 moon |  
-| bip_39_word_new_line9 | imitate
+| bip_39_word_new_line_9 | imitate
 flame
 craft
 useless

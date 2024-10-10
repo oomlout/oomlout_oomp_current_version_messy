@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gallery |  
-| bip_39_word_new_br10 | gallery<br>wolf<br>until<br>need<br>banner<br>reunion<br>cattle<br>struggle<br>gaze<br>trade |  
-| bip_39_word_new_br11 | gallery<br>wolf<br>until<br>need<br>banner<br>reunion<br>cattle<br>struggle<br>gaze<br>trade<br>double |  
-| bip_39_word_new_br12 | gallery<br>wolf<br>until<br>need<br>banner<br>reunion<br>cattle<br>struggle<br>gaze<br>trade<br>double<br>auction |  
-| bip_39_word_new_br2 | gallery<br>wolf |  
-| bip_39_word_new_br3 | gallery<br>wolf<br>until |  
-| bip_39_word_new_br4 | gallery<br>wolf<br>until<br>need |  
-| bip_39_word_new_br5 | gallery<br>wolf<br>until<br>need<br>banner |  
-| bip_39_word_new_br6 | gallery<br>wolf<br>until<br>need<br>banner<br>reunion |  
-| bip_39_word_new_br7 | gallery<br>wolf<br>until<br>need<br>banner<br>reunion<br>cattle |  
-| bip_39_word_new_br8 | gallery<br>wolf<br>until<br>need<br>banner<br>reunion<br>cattle<br>struggle |  
-| bip_39_word_new_br9 | gallery<br>wolf<br>until<br>need<br>banner<br>reunion<br>cattle<br>struggle<br>gaze |  
-| bip_39_word_new_line1 | gallery |  
-| bip_39_word_new_line10 | gallery
+| bip_39_word_new_br_1 | gallery |  
+| bip_39_word_new_br_10 | gallery<br>wolf<br>until<br>need<br>banner<br>reunion<br>cattle<br>struggle<br>gaze<br>trade |  
+| bip_39_word_new_br_11 | gallery<br>wolf<br>until<br>need<br>banner<br>reunion<br>cattle<br>struggle<br>gaze<br>trade<br>double |  
+| bip_39_word_new_br_12 | gallery<br>wolf<br>until<br>need<br>banner<br>reunion<br>cattle<br>struggle<br>gaze<br>trade<br>double<br>auction |  
+| bip_39_word_new_br_2 | gallery<br>wolf |  
+| bip_39_word_new_br_3 | gallery<br>wolf<br>until |  
+| bip_39_word_new_br_4 | gallery<br>wolf<br>until<br>need |  
+| bip_39_word_new_br_5 | gallery<br>wolf<br>until<br>need<br>banner |  
+| bip_39_word_new_br_6 | gallery<br>wolf<br>until<br>need<br>banner<br>reunion |  
+| bip_39_word_new_br_7 | gallery<br>wolf<br>until<br>need<br>banner<br>reunion<br>cattle |  
+| bip_39_word_new_br_8 | gallery<br>wolf<br>until<br>need<br>banner<br>reunion<br>cattle<br>struggle |  
+| bip_39_word_new_br_9 | gallery<br>wolf<br>until<br>need<br>banner<br>reunion<br>cattle<br>struggle<br>gaze |  
+| bip_39_word_new_line_1 | gallery |  
+| bip_39_word_new_line_10 | gallery
 wolf
 until
 need
@@ -55,7 +55,7 @@ cattle
 struggle
 gaze
 trade |  
-| bip_39_word_new_line11 | gallery
+| bip_39_word_new_line_11 | gallery
 wolf
 until
 need
@@ -66,7 +66,7 @@ struggle
 gaze
 trade
 double |  
-| bip_39_word_new_line12 | gallery
+| bip_39_word_new_line_12 | gallery
 wolf
 until
 need
@@ -78,34 +78,34 @@ gaze
 trade
 double
 auction |  
-| bip_39_word_new_line2 | gallery
+| bip_39_word_new_line_2 | gallery
 wolf |  
-| bip_39_word_new_line3 | gallery
+| bip_39_word_new_line_3 | gallery
 wolf
 until |  
-| bip_39_word_new_line4 | gallery
+| bip_39_word_new_line_4 | gallery
 wolf
 until
 need |  
-| bip_39_word_new_line5 | gallery
+| bip_39_word_new_line_5 | gallery
 wolf
 until
 need
 banner |  
-| bip_39_word_new_line6 | gallery
+| bip_39_word_new_line_6 | gallery
 wolf
 until
 need
 banner
 reunion |  
-| bip_39_word_new_line7 | gallery
+| bip_39_word_new_line_7 | gallery
 wolf
 until
 need
 banner
 reunion
 cattle |  
-| bip_39_word_new_line8 | gallery
+| bip_39_word_new_line_8 | gallery
 wolf
 until
 need
@@ -113,7 +113,7 @@ banner
 reunion
 cattle
 struggle |  
-| bip_39_word_new_line9 | gallery
+| bip_39_word_new_line_9 | gallery
 wolf
 until
 need

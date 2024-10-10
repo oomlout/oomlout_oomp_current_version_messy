@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fat |  
-| bip_39_word_new_br10 | fat<br>olympic<br>man<br>alarm<br>loan<br>mango<br>scout<br>relief<br>short<br>face |  
-| bip_39_word_new_br11 | fat<br>olympic<br>man<br>alarm<br>loan<br>mango<br>scout<br>relief<br>short<br>face<br>loyal |  
-| bip_39_word_new_br12 | fat<br>olympic<br>man<br>alarm<br>loan<br>mango<br>scout<br>relief<br>short<br>face<br>loyal<br>assault |  
-| bip_39_word_new_br2 | fat<br>olympic |  
-| bip_39_word_new_br3 | fat<br>olympic<br>man |  
-| bip_39_word_new_br4 | fat<br>olympic<br>man<br>alarm |  
-| bip_39_word_new_br5 | fat<br>olympic<br>man<br>alarm<br>loan |  
-| bip_39_word_new_br6 | fat<br>olympic<br>man<br>alarm<br>loan<br>mango |  
-| bip_39_word_new_br7 | fat<br>olympic<br>man<br>alarm<br>loan<br>mango<br>scout |  
-| bip_39_word_new_br8 | fat<br>olympic<br>man<br>alarm<br>loan<br>mango<br>scout<br>relief |  
-| bip_39_word_new_br9 | fat<br>olympic<br>man<br>alarm<br>loan<br>mango<br>scout<br>relief<br>short |  
-| bip_39_word_new_line1 | fat |  
-| bip_39_word_new_line10 | fat
+| bip_39_word_new_br_1 | fat |  
+| bip_39_word_new_br_10 | fat<br>olympic<br>man<br>alarm<br>loan<br>mango<br>scout<br>relief<br>short<br>face |  
+| bip_39_word_new_br_11 | fat<br>olympic<br>man<br>alarm<br>loan<br>mango<br>scout<br>relief<br>short<br>face<br>loyal |  
+| bip_39_word_new_br_12 | fat<br>olympic<br>man<br>alarm<br>loan<br>mango<br>scout<br>relief<br>short<br>face<br>loyal<br>assault |  
+| bip_39_word_new_br_2 | fat<br>olympic |  
+| bip_39_word_new_br_3 | fat<br>olympic<br>man |  
+| bip_39_word_new_br_4 | fat<br>olympic<br>man<br>alarm |  
+| bip_39_word_new_br_5 | fat<br>olympic<br>man<br>alarm<br>loan |  
+| bip_39_word_new_br_6 | fat<br>olympic<br>man<br>alarm<br>loan<br>mango |  
+| bip_39_word_new_br_7 | fat<br>olympic<br>man<br>alarm<br>loan<br>mango<br>scout |  
+| bip_39_word_new_br_8 | fat<br>olympic<br>man<br>alarm<br>loan<br>mango<br>scout<br>relief |  
+| bip_39_word_new_br_9 | fat<br>olympic<br>man<br>alarm<br>loan<br>mango<br>scout<br>relief<br>short |  
+| bip_39_word_new_line_1 | fat |  
+| bip_39_word_new_line_10 | fat
 olympic
 man
 alarm
@@ -55,7 +55,7 @@ scout
 relief
 short
 face |  
-| bip_39_word_new_line11 | fat
+| bip_39_word_new_line_11 | fat
 olympic
 man
 alarm
@@ -66,7 +66,7 @@ relief
 short
 face
 loyal |  
-| bip_39_word_new_line12 | fat
+| bip_39_word_new_line_12 | fat
 olympic
 man
 alarm
@@ -78,34 +78,34 @@ short
 face
 loyal
 assault |  
-| bip_39_word_new_line2 | fat
+| bip_39_word_new_line_2 | fat
 olympic |  
-| bip_39_word_new_line3 | fat
+| bip_39_word_new_line_3 | fat
 olympic
 man |  
-| bip_39_word_new_line4 | fat
+| bip_39_word_new_line_4 | fat
 olympic
 man
 alarm |  
-| bip_39_word_new_line5 | fat
+| bip_39_word_new_line_5 | fat
 olympic
 man
 alarm
 loan |  
-| bip_39_word_new_line6 | fat
+| bip_39_word_new_line_6 | fat
 olympic
 man
 alarm
 loan
 mango |  
-| bip_39_word_new_line7 | fat
+| bip_39_word_new_line_7 | fat
 olympic
 man
 alarm
 loan
 mango
 scout |  
-| bip_39_word_new_line8 | fat
+| bip_39_word_new_line_8 | fat
 olympic
 man
 alarm
@@ -113,7 +113,7 @@ loan
 mango
 scout
 relief |  
-| bip_39_word_new_line9 | fat
+| bip_39_word_new_line_9 | fat
 olympic
 man
 alarm

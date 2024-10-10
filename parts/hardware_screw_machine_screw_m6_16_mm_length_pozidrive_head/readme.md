@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | swear |  
-| bip_39_word_new_br10 | swear<br>also<br>margin<br>chaos<br>gravity<br>school<br>ship<br>alcohol<br>chief<br>leader |  
-| bip_39_word_new_br11 | swear<br>also<br>margin<br>chaos<br>gravity<br>school<br>ship<br>alcohol<br>chief<br>leader<br>expose |  
-| bip_39_word_new_br12 | swear<br>also<br>margin<br>chaos<br>gravity<br>school<br>ship<br>alcohol<br>chief<br>leader<br>expose<br>argue |  
-| bip_39_word_new_br2 | swear<br>also |  
-| bip_39_word_new_br3 | swear<br>also<br>margin |  
-| bip_39_word_new_br4 | swear<br>also<br>margin<br>chaos |  
-| bip_39_word_new_br5 | swear<br>also<br>margin<br>chaos<br>gravity |  
-| bip_39_word_new_br6 | swear<br>also<br>margin<br>chaos<br>gravity<br>school |  
-| bip_39_word_new_br7 | swear<br>also<br>margin<br>chaos<br>gravity<br>school<br>ship |  
-| bip_39_word_new_br8 | swear<br>also<br>margin<br>chaos<br>gravity<br>school<br>ship<br>alcohol |  
-| bip_39_word_new_br9 | swear<br>also<br>margin<br>chaos<br>gravity<br>school<br>ship<br>alcohol<br>chief |  
-| bip_39_word_new_line1 | swear |  
-| bip_39_word_new_line10 | swear
+| bip_39_word_new_br_1 | swear |  
+| bip_39_word_new_br_10 | swear<br>also<br>margin<br>chaos<br>gravity<br>school<br>ship<br>alcohol<br>chief<br>leader |  
+| bip_39_word_new_br_11 | swear<br>also<br>margin<br>chaos<br>gravity<br>school<br>ship<br>alcohol<br>chief<br>leader<br>expose |  
+| bip_39_word_new_br_12 | swear<br>also<br>margin<br>chaos<br>gravity<br>school<br>ship<br>alcohol<br>chief<br>leader<br>expose<br>argue |  
+| bip_39_word_new_br_2 | swear<br>also |  
+| bip_39_word_new_br_3 | swear<br>also<br>margin |  
+| bip_39_word_new_br_4 | swear<br>also<br>margin<br>chaos |  
+| bip_39_word_new_br_5 | swear<br>also<br>margin<br>chaos<br>gravity |  
+| bip_39_word_new_br_6 | swear<br>also<br>margin<br>chaos<br>gravity<br>school |  
+| bip_39_word_new_br_7 | swear<br>also<br>margin<br>chaos<br>gravity<br>school<br>ship |  
+| bip_39_word_new_br_8 | swear<br>also<br>margin<br>chaos<br>gravity<br>school<br>ship<br>alcohol |  
+| bip_39_word_new_br_9 | swear<br>also<br>margin<br>chaos<br>gravity<br>school<br>ship<br>alcohol<br>chief |  
+| bip_39_word_new_line_1 | swear |  
+| bip_39_word_new_line_10 | swear
 also
 margin
 chaos
@@ -55,7 +55,7 @@ ship
 alcohol
 chief
 leader |  
-| bip_39_word_new_line11 | swear
+| bip_39_word_new_line_11 | swear
 also
 margin
 chaos
@@ -66,7 +66,7 @@ alcohol
 chief
 leader
 expose |  
-| bip_39_word_new_line12 | swear
+| bip_39_word_new_line_12 | swear
 also
 margin
 chaos
@@ -78,34 +78,34 @@ chief
 leader
 expose
 argue |  
-| bip_39_word_new_line2 | swear
+| bip_39_word_new_line_2 | swear
 also |  
-| bip_39_word_new_line3 | swear
+| bip_39_word_new_line_3 | swear
 also
 margin |  
-| bip_39_word_new_line4 | swear
+| bip_39_word_new_line_4 | swear
 also
 margin
 chaos |  
-| bip_39_word_new_line5 | swear
+| bip_39_word_new_line_5 | swear
 also
 margin
 chaos
 gravity |  
-| bip_39_word_new_line6 | swear
+| bip_39_word_new_line_6 | swear
 also
 margin
 chaos
 gravity
 school |  
-| bip_39_word_new_line7 | swear
+| bip_39_word_new_line_7 | swear
 also
 margin
 chaos
 gravity
 school
 ship |  
-| bip_39_word_new_line8 | swear
+| bip_39_word_new_line_8 | swear
 also
 margin
 chaos
@@ -113,7 +113,7 @@ gravity
 school
 ship
 alcohol |  
-| bip_39_word_new_line9 | swear
+| bip_39_word_new_line_9 | swear
 also
 margin
 chaos

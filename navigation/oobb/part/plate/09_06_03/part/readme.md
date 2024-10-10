@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | marriage |  
-| bip_39_word_new_br10 | marriage<br>public<br>skate<br>blast<br>false<br>nominee<br>teach<br>inner<br>sad<br>crumble |  
-| bip_39_word_new_br11 | marriage<br>public<br>skate<br>blast<br>false<br>nominee<br>teach<br>inner<br>sad<br>crumble<br>govern |  
-| bip_39_word_new_br12 | marriage<br>public<br>skate<br>blast<br>false<br>nominee<br>teach<br>inner<br>sad<br>crumble<br>govern<br>alarm |  
-| bip_39_word_new_br2 | marriage<br>public |  
-| bip_39_word_new_br3 | marriage<br>public<br>skate |  
-| bip_39_word_new_br4 | marriage<br>public<br>skate<br>blast |  
-| bip_39_word_new_br5 | marriage<br>public<br>skate<br>blast<br>false |  
-| bip_39_word_new_br6 | marriage<br>public<br>skate<br>blast<br>false<br>nominee |  
-| bip_39_word_new_br7 | marriage<br>public<br>skate<br>blast<br>false<br>nominee<br>teach |  
-| bip_39_word_new_br8 | marriage<br>public<br>skate<br>blast<br>false<br>nominee<br>teach<br>inner |  
-| bip_39_word_new_br9 | marriage<br>public<br>skate<br>blast<br>false<br>nominee<br>teach<br>inner<br>sad |  
-| bip_39_word_new_line1 | marriage |  
-| bip_39_word_new_line10 | marriage
+| bip_39_word_new_br_1 | marriage |  
+| bip_39_word_new_br_10 | marriage<br>public<br>skate<br>blast<br>false<br>nominee<br>teach<br>inner<br>sad<br>crumble |  
+| bip_39_word_new_br_11 | marriage<br>public<br>skate<br>blast<br>false<br>nominee<br>teach<br>inner<br>sad<br>crumble<br>govern |  
+| bip_39_word_new_br_12 | marriage<br>public<br>skate<br>blast<br>false<br>nominee<br>teach<br>inner<br>sad<br>crumble<br>govern<br>alarm |  
+| bip_39_word_new_br_2 | marriage<br>public |  
+| bip_39_word_new_br_3 | marriage<br>public<br>skate |  
+| bip_39_word_new_br_4 | marriage<br>public<br>skate<br>blast |  
+| bip_39_word_new_br_5 | marriage<br>public<br>skate<br>blast<br>false |  
+| bip_39_word_new_br_6 | marriage<br>public<br>skate<br>blast<br>false<br>nominee |  
+| bip_39_word_new_br_7 | marriage<br>public<br>skate<br>blast<br>false<br>nominee<br>teach |  
+| bip_39_word_new_br_8 | marriage<br>public<br>skate<br>blast<br>false<br>nominee<br>teach<br>inner |  
+| bip_39_word_new_br_9 | marriage<br>public<br>skate<br>blast<br>false<br>nominee<br>teach<br>inner<br>sad |  
+| bip_39_word_new_line_1 | marriage |  
+| bip_39_word_new_line_10 | marriage
 public
 skate
 blast
@@ -55,7 +55,7 @@ teach
 inner
 sad
 crumble |  
-| bip_39_word_new_line11 | marriage
+| bip_39_word_new_line_11 | marriage
 public
 skate
 blast
@@ -66,7 +66,7 @@ inner
 sad
 crumble
 govern |  
-| bip_39_word_new_line12 | marriage
+| bip_39_word_new_line_12 | marriage
 public
 skate
 blast
@@ -78,34 +78,34 @@ sad
 crumble
 govern
 alarm |  
-| bip_39_word_new_line2 | marriage
+| bip_39_word_new_line_2 | marriage
 public |  
-| bip_39_word_new_line3 | marriage
+| bip_39_word_new_line_3 | marriage
 public
 skate |  
-| bip_39_word_new_line4 | marriage
+| bip_39_word_new_line_4 | marriage
 public
 skate
 blast |  
-| bip_39_word_new_line5 | marriage
+| bip_39_word_new_line_5 | marriage
 public
 skate
 blast
 false |  
-| bip_39_word_new_line6 | marriage
+| bip_39_word_new_line_6 | marriage
 public
 skate
 blast
 false
 nominee |  
-| bip_39_word_new_line7 | marriage
+| bip_39_word_new_line_7 | marriage
 public
 skate
 blast
 false
 nominee
 teach |  
-| bip_39_word_new_line8 | marriage
+| bip_39_word_new_line_8 | marriage
 public
 skate
 blast
@@ -113,7 +113,7 @@ false
 nominee
 teach
 inner |  
-| bip_39_word_new_line9 | marriage
+| bip_39_word_new_line_9 | marriage
 public
 skate
 blast

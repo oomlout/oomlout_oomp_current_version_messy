@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sword |  
-| bip_39_word_new_br10 | sword<br>disease<br>door<br>door<br>inhale<br>thunder<br>unlock<br>caution<br>garment<br>roof |  
-| bip_39_word_new_br11 | sword<br>disease<br>door<br>door<br>inhale<br>thunder<br>unlock<br>caution<br>garment<br>roof<br>moral |  
-| bip_39_word_new_br12 | sword<br>disease<br>door<br>door<br>inhale<br>thunder<br>unlock<br>caution<br>garment<br>roof<br>moral<br>apology |  
-| bip_39_word_new_br2 | sword<br>disease |  
-| bip_39_word_new_br3 | sword<br>disease<br>door |  
-| bip_39_word_new_br4 | sword<br>disease<br>door<br>door |  
-| bip_39_word_new_br5 | sword<br>disease<br>door<br>door<br>inhale |  
-| bip_39_word_new_br6 | sword<br>disease<br>door<br>door<br>inhale<br>thunder |  
-| bip_39_word_new_br7 | sword<br>disease<br>door<br>door<br>inhale<br>thunder<br>unlock |  
-| bip_39_word_new_br8 | sword<br>disease<br>door<br>door<br>inhale<br>thunder<br>unlock<br>caution |  
-| bip_39_word_new_br9 | sword<br>disease<br>door<br>door<br>inhale<br>thunder<br>unlock<br>caution<br>garment |  
-| bip_39_word_new_line1 | sword |  
-| bip_39_word_new_line10 | sword
+| bip_39_word_new_br_1 | sword |  
+| bip_39_word_new_br_10 | sword<br>disease<br>door<br>door<br>inhale<br>thunder<br>unlock<br>caution<br>garment<br>roof |  
+| bip_39_word_new_br_11 | sword<br>disease<br>door<br>door<br>inhale<br>thunder<br>unlock<br>caution<br>garment<br>roof<br>moral |  
+| bip_39_word_new_br_12 | sword<br>disease<br>door<br>door<br>inhale<br>thunder<br>unlock<br>caution<br>garment<br>roof<br>moral<br>apology |  
+| bip_39_word_new_br_2 | sword<br>disease |  
+| bip_39_word_new_br_3 | sword<br>disease<br>door |  
+| bip_39_word_new_br_4 | sword<br>disease<br>door<br>door |  
+| bip_39_word_new_br_5 | sword<br>disease<br>door<br>door<br>inhale |  
+| bip_39_word_new_br_6 | sword<br>disease<br>door<br>door<br>inhale<br>thunder |  
+| bip_39_word_new_br_7 | sword<br>disease<br>door<br>door<br>inhale<br>thunder<br>unlock |  
+| bip_39_word_new_br_8 | sword<br>disease<br>door<br>door<br>inhale<br>thunder<br>unlock<br>caution |  
+| bip_39_word_new_br_9 | sword<br>disease<br>door<br>door<br>inhale<br>thunder<br>unlock<br>caution<br>garment |  
+| bip_39_word_new_line_1 | sword |  
+| bip_39_word_new_line_10 | sword
 disease
 door
 door
@@ -55,7 +55,7 @@ unlock
 caution
 garment
 roof |  
-| bip_39_word_new_line11 | sword
+| bip_39_word_new_line_11 | sword
 disease
 door
 door
@@ -66,7 +66,7 @@ caution
 garment
 roof
 moral |  
-| bip_39_word_new_line12 | sword
+| bip_39_word_new_line_12 | sword
 disease
 door
 door
@@ -78,34 +78,34 @@ garment
 roof
 moral
 apology |  
-| bip_39_word_new_line2 | sword
+| bip_39_word_new_line_2 | sword
 disease |  
-| bip_39_word_new_line3 | sword
+| bip_39_word_new_line_3 | sword
 disease
 door |  
-| bip_39_word_new_line4 | sword
+| bip_39_word_new_line_4 | sword
 disease
 door
 door |  
-| bip_39_word_new_line5 | sword
+| bip_39_word_new_line_5 | sword
 disease
 door
 door
 inhale |  
-| bip_39_word_new_line6 | sword
+| bip_39_word_new_line_6 | sword
 disease
 door
 door
 inhale
 thunder |  
-| bip_39_word_new_line7 | sword
+| bip_39_word_new_line_7 | sword
 disease
 door
 door
 inhale
 thunder
 unlock |  
-| bip_39_word_new_line8 | sword
+| bip_39_word_new_line_8 | sword
 disease
 door
 door
@@ -113,7 +113,7 @@ inhale
 thunder
 unlock
 caution |  
-| bip_39_word_new_line9 | sword
+| bip_39_word_new_line_9 | sword
 disease
 door
 door

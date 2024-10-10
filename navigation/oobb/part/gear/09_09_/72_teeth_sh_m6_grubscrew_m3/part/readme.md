@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | infant |  
-| bip_39_word_new_br10 | infant<br>speed<br>action<br>that<br>wage<br>sword<br>exhaust<br>parent<br>claw<br>drama |  
-| bip_39_word_new_br11 | infant<br>speed<br>action<br>that<br>wage<br>sword<br>exhaust<br>parent<br>claw<br>drama<br>page |  
-| bip_39_word_new_br12 | infant<br>speed<br>action<br>that<br>wage<br>sword<br>exhaust<br>parent<br>claw<br>drama<br>page<br>arrest |  
-| bip_39_word_new_br2 | infant<br>speed |  
-| bip_39_word_new_br3 | infant<br>speed<br>action |  
-| bip_39_word_new_br4 | infant<br>speed<br>action<br>that |  
-| bip_39_word_new_br5 | infant<br>speed<br>action<br>that<br>wage |  
-| bip_39_word_new_br6 | infant<br>speed<br>action<br>that<br>wage<br>sword |  
-| bip_39_word_new_br7 | infant<br>speed<br>action<br>that<br>wage<br>sword<br>exhaust |  
-| bip_39_word_new_br8 | infant<br>speed<br>action<br>that<br>wage<br>sword<br>exhaust<br>parent |  
-| bip_39_word_new_br9 | infant<br>speed<br>action<br>that<br>wage<br>sword<br>exhaust<br>parent<br>claw |  
-| bip_39_word_new_line1 | infant |  
-| bip_39_word_new_line10 | infant
+| bip_39_word_new_br_1 | infant |  
+| bip_39_word_new_br_10 | infant<br>speed<br>action<br>that<br>wage<br>sword<br>exhaust<br>parent<br>claw<br>drama |  
+| bip_39_word_new_br_11 | infant<br>speed<br>action<br>that<br>wage<br>sword<br>exhaust<br>parent<br>claw<br>drama<br>page |  
+| bip_39_word_new_br_12 | infant<br>speed<br>action<br>that<br>wage<br>sword<br>exhaust<br>parent<br>claw<br>drama<br>page<br>arrest |  
+| bip_39_word_new_br_2 | infant<br>speed |  
+| bip_39_word_new_br_3 | infant<br>speed<br>action |  
+| bip_39_word_new_br_4 | infant<br>speed<br>action<br>that |  
+| bip_39_word_new_br_5 | infant<br>speed<br>action<br>that<br>wage |  
+| bip_39_word_new_br_6 | infant<br>speed<br>action<br>that<br>wage<br>sword |  
+| bip_39_word_new_br_7 | infant<br>speed<br>action<br>that<br>wage<br>sword<br>exhaust |  
+| bip_39_word_new_br_8 | infant<br>speed<br>action<br>that<br>wage<br>sword<br>exhaust<br>parent |  
+| bip_39_word_new_br_9 | infant<br>speed<br>action<br>that<br>wage<br>sword<br>exhaust<br>parent<br>claw |  
+| bip_39_word_new_line_1 | infant |  
+| bip_39_word_new_line_10 | infant
 speed
 action
 that
@@ -55,7 +55,7 @@ exhaust
 parent
 claw
 drama |  
-| bip_39_word_new_line11 | infant
+| bip_39_word_new_line_11 | infant
 speed
 action
 that
@@ -66,7 +66,7 @@ parent
 claw
 drama
 page |  
-| bip_39_word_new_line12 | infant
+| bip_39_word_new_line_12 | infant
 speed
 action
 that
@@ -78,34 +78,34 @@ claw
 drama
 page
 arrest |  
-| bip_39_word_new_line2 | infant
+| bip_39_word_new_line_2 | infant
 speed |  
-| bip_39_word_new_line3 | infant
+| bip_39_word_new_line_3 | infant
 speed
 action |  
-| bip_39_word_new_line4 | infant
+| bip_39_word_new_line_4 | infant
 speed
 action
 that |  
-| bip_39_word_new_line5 | infant
+| bip_39_word_new_line_5 | infant
 speed
 action
 that
 wage |  
-| bip_39_word_new_line6 | infant
+| bip_39_word_new_line_6 | infant
 speed
 action
 that
 wage
 sword |  
-| bip_39_word_new_line7 | infant
+| bip_39_word_new_line_7 | infant
 speed
 action
 that
 wage
 sword
 exhaust |  
-| bip_39_word_new_line8 | infant
+| bip_39_word_new_line_8 | infant
 speed
 action
 that
@@ -113,7 +113,7 @@ wage
 sword
 exhaust
 parent |  
-| bip_39_word_new_line9 | infant
+| bip_39_word_new_line_9 | infant
 speed
 action
 that

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fine |  
-| bip_39_word_new_br10 | fine<br>game<br>token<br>ladder<br>frame<br>theme<br>mule<br>notable<br>crane<br>suggest |  
-| bip_39_word_new_br11 | fine<br>game<br>token<br>ladder<br>frame<br>theme<br>mule<br>notable<br>crane<br>suggest<br>reject |  
-| bip_39_word_new_br12 | fine<br>game<br>token<br>ladder<br>frame<br>theme<br>mule<br>notable<br>crane<br>suggest<br>reject<br>ahead |  
-| bip_39_word_new_br2 | fine<br>game |  
-| bip_39_word_new_br3 | fine<br>game<br>token |  
-| bip_39_word_new_br4 | fine<br>game<br>token<br>ladder |  
-| bip_39_word_new_br5 | fine<br>game<br>token<br>ladder<br>frame |  
-| bip_39_word_new_br6 | fine<br>game<br>token<br>ladder<br>frame<br>theme |  
-| bip_39_word_new_br7 | fine<br>game<br>token<br>ladder<br>frame<br>theme<br>mule |  
-| bip_39_word_new_br8 | fine<br>game<br>token<br>ladder<br>frame<br>theme<br>mule<br>notable |  
-| bip_39_word_new_br9 | fine<br>game<br>token<br>ladder<br>frame<br>theme<br>mule<br>notable<br>crane |  
-| bip_39_word_new_line1 | fine |  
-| bip_39_word_new_line10 | fine
+| bip_39_word_new_br_1 | fine |  
+| bip_39_word_new_br_10 | fine<br>game<br>token<br>ladder<br>frame<br>theme<br>mule<br>notable<br>crane<br>suggest |  
+| bip_39_word_new_br_11 | fine<br>game<br>token<br>ladder<br>frame<br>theme<br>mule<br>notable<br>crane<br>suggest<br>reject |  
+| bip_39_word_new_br_12 | fine<br>game<br>token<br>ladder<br>frame<br>theme<br>mule<br>notable<br>crane<br>suggest<br>reject<br>ahead |  
+| bip_39_word_new_br_2 | fine<br>game |  
+| bip_39_word_new_br_3 | fine<br>game<br>token |  
+| bip_39_word_new_br_4 | fine<br>game<br>token<br>ladder |  
+| bip_39_word_new_br_5 | fine<br>game<br>token<br>ladder<br>frame |  
+| bip_39_word_new_br_6 | fine<br>game<br>token<br>ladder<br>frame<br>theme |  
+| bip_39_word_new_br_7 | fine<br>game<br>token<br>ladder<br>frame<br>theme<br>mule |  
+| bip_39_word_new_br_8 | fine<br>game<br>token<br>ladder<br>frame<br>theme<br>mule<br>notable |  
+| bip_39_word_new_br_9 | fine<br>game<br>token<br>ladder<br>frame<br>theme<br>mule<br>notable<br>crane |  
+| bip_39_word_new_line_1 | fine |  
+| bip_39_word_new_line_10 | fine
 game
 token
 ladder
@@ -55,7 +55,7 @@ mule
 notable
 crane
 suggest |  
-| bip_39_word_new_line11 | fine
+| bip_39_word_new_line_11 | fine
 game
 token
 ladder
@@ -66,7 +66,7 @@ notable
 crane
 suggest
 reject |  
-| bip_39_word_new_line12 | fine
+| bip_39_word_new_line_12 | fine
 game
 token
 ladder
@@ -78,34 +78,34 @@ crane
 suggest
 reject
 ahead |  
-| bip_39_word_new_line2 | fine
+| bip_39_word_new_line_2 | fine
 game |  
-| bip_39_word_new_line3 | fine
+| bip_39_word_new_line_3 | fine
 game
 token |  
-| bip_39_word_new_line4 | fine
+| bip_39_word_new_line_4 | fine
 game
 token
 ladder |  
-| bip_39_word_new_line5 | fine
+| bip_39_word_new_line_5 | fine
 game
 token
 ladder
 frame |  
-| bip_39_word_new_line6 | fine
+| bip_39_word_new_line_6 | fine
 game
 token
 ladder
 frame
 theme |  
-| bip_39_word_new_line7 | fine
+| bip_39_word_new_line_7 | fine
 game
 token
 ladder
 frame
 theme
 mule |  
-| bip_39_word_new_line8 | fine
+| bip_39_word_new_line_8 | fine
 game
 token
 ladder
@@ -113,7 +113,7 @@ frame
 theme
 mule
 notable |  
-| bip_39_word_new_line9 | fine
+| bip_39_word_new_line_9 | fine
 game
 token
 ladder

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | lamp |  
-| bip_39_word_new_br10 | lamp<br>breeze<br>plastic<br>maze<br>spatial<br>shield<br>crash<br>ripple<br>exchange<br>tissue |  
-| bip_39_word_new_br11 | lamp<br>breeze<br>plastic<br>maze<br>spatial<br>shield<br>crash<br>ripple<br>exchange<br>tissue<br>cupboard |  
-| bip_39_word_new_br12 | lamp<br>breeze<br>plastic<br>maze<br>spatial<br>shield<br>crash<br>ripple<br>exchange<br>tissue<br>cupboard<br>asset |  
-| bip_39_word_new_br2 | lamp<br>breeze |  
-| bip_39_word_new_br3 | lamp<br>breeze<br>plastic |  
-| bip_39_word_new_br4 | lamp<br>breeze<br>plastic<br>maze |  
-| bip_39_word_new_br5 | lamp<br>breeze<br>plastic<br>maze<br>spatial |  
-| bip_39_word_new_br6 | lamp<br>breeze<br>plastic<br>maze<br>spatial<br>shield |  
-| bip_39_word_new_br7 | lamp<br>breeze<br>plastic<br>maze<br>spatial<br>shield<br>crash |  
-| bip_39_word_new_br8 | lamp<br>breeze<br>plastic<br>maze<br>spatial<br>shield<br>crash<br>ripple |  
-| bip_39_word_new_br9 | lamp<br>breeze<br>plastic<br>maze<br>spatial<br>shield<br>crash<br>ripple<br>exchange |  
-| bip_39_word_new_line1 | lamp |  
-| bip_39_word_new_line10 | lamp
+| bip_39_word_new_br_1 | lamp |  
+| bip_39_word_new_br_10 | lamp<br>breeze<br>plastic<br>maze<br>spatial<br>shield<br>crash<br>ripple<br>exchange<br>tissue |  
+| bip_39_word_new_br_11 | lamp<br>breeze<br>plastic<br>maze<br>spatial<br>shield<br>crash<br>ripple<br>exchange<br>tissue<br>cupboard |  
+| bip_39_word_new_br_12 | lamp<br>breeze<br>plastic<br>maze<br>spatial<br>shield<br>crash<br>ripple<br>exchange<br>tissue<br>cupboard<br>asset |  
+| bip_39_word_new_br_2 | lamp<br>breeze |  
+| bip_39_word_new_br_3 | lamp<br>breeze<br>plastic |  
+| bip_39_word_new_br_4 | lamp<br>breeze<br>plastic<br>maze |  
+| bip_39_word_new_br_5 | lamp<br>breeze<br>plastic<br>maze<br>spatial |  
+| bip_39_word_new_br_6 | lamp<br>breeze<br>plastic<br>maze<br>spatial<br>shield |  
+| bip_39_word_new_br_7 | lamp<br>breeze<br>plastic<br>maze<br>spatial<br>shield<br>crash |  
+| bip_39_word_new_br_8 | lamp<br>breeze<br>plastic<br>maze<br>spatial<br>shield<br>crash<br>ripple |  
+| bip_39_word_new_br_9 | lamp<br>breeze<br>plastic<br>maze<br>spatial<br>shield<br>crash<br>ripple<br>exchange |  
+| bip_39_word_new_line_1 | lamp |  
+| bip_39_word_new_line_10 | lamp
 breeze
 plastic
 maze
@@ -55,7 +55,7 @@ crash
 ripple
 exchange
 tissue |  
-| bip_39_word_new_line11 | lamp
+| bip_39_word_new_line_11 | lamp
 breeze
 plastic
 maze
@@ -66,7 +66,7 @@ ripple
 exchange
 tissue
 cupboard |  
-| bip_39_word_new_line12 | lamp
+| bip_39_word_new_line_12 | lamp
 breeze
 plastic
 maze
@@ -78,34 +78,34 @@ exchange
 tissue
 cupboard
 asset |  
-| bip_39_word_new_line2 | lamp
+| bip_39_word_new_line_2 | lamp
 breeze |  
-| bip_39_word_new_line3 | lamp
+| bip_39_word_new_line_3 | lamp
 breeze
 plastic |  
-| bip_39_word_new_line4 | lamp
+| bip_39_word_new_line_4 | lamp
 breeze
 plastic
 maze |  
-| bip_39_word_new_line5 | lamp
+| bip_39_word_new_line_5 | lamp
 breeze
 plastic
 maze
 spatial |  
-| bip_39_word_new_line6 | lamp
+| bip_39_word_new_line_6 | lamp
 breeze
 plastic
 maze
 spatial
 shield |  
-| bip_39_word_new_line7 | lamp
+| bip_39_word_new_line_7 | lamp
 breeze
 plastic
 maze
 spatial
 shield
 crash |  
-| bip_39_word_new_line8 | lamp
+| bip_39_word_new_line_8 | lamp
 breeze
 plastic
 maze
@@ -113,7 +113,7 @@ spatial
 shield
 crash
 ripple |  
-| bip_39_word_new_line9 | lamp
+| bip_39_word_new_line_9 | lamp
 breeze
 plastic
 maze

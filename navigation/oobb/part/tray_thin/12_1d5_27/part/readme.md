@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | beauty |  
-| bip_39_word_new_br10 | beauty<br>correct<br>horror<br>damp<br>kitchen<br>fabric<br>sense<br>blur<br>loop<br>ramp |  
-| bip_39_word_new_br11 | beauty<br>correct<br>horror<br>damp<br>kitchen<br>fabric<br>sense<br>blur<br>loop<br>ramp<br>copy |  
-| bip_39_word_new_br12 | beauty<br>correct<br>horror<br>damp<br>kitchen<br>fabric<br>sense<br>blur<br>loop<br>ramp<br>copy<br>arrive |  
-| bip_39_word_new_br2 | beauty<br>correct |  
-| bip_39_word_new_br3 | beauty<br>correct<br>horror |  
-| bip_39_word_new_br4 | beauty<br>correct<br>horror<br>damp |  
-| bip_39_word_new_br5 | beauty<br>correct<br>horror<br>damp<br>kitchen |  
-| bip_39_word_new_br6 | beauty<br>correct<br>horror<br>damp<br>kitchen<br>fabric |  
-| bip_39_word_new_br7 | beauty<br>correct<br>horror<br>damp<br>kitchen<br>fabric<br>sense |  
-| bip_39_word_new_br8 | beauty<br>correct<br>horror<br>damp<br>kitchen<br>fabric<br>sense<br>blur |  
-| bip_39_word_new_br9 | beauty<br>correct<br>horror<br>damp<br>kitchen<br>fabric<br>sense<br>blur<br>loop |  
-| bip_39_word_new_line1 | beauty |  
-| bip_39_word_new_line10 | beauty
+| bip_39_word_new_br_1 | beauty |  
+| bip_39_word_new_br_10 | beauty<br>correct<br>horror<br>damp<br>kitchen<br>fabric<br>sense<br>blur<br>loop<br>ramp |  
+| bip_39_word_new_br_11 | beauty<br>correct<br>horror<br>damp<br>kitchen<br>fabric<br>sense<br>blur<br>loop<br>ramp<br>copy |  
+| bip_39_word_new_br_12 | beauty<br>correct<br>horror<br>damp<br>kitchen<br>fabric<br>sense<br>blur<br>loop<br>ramp<br>copy<br>arrive |  
+| bip_39_word_new_br_2 | beauty<br>correct |  
+| bip_39_word_new_br_3 | beauty<br>correct<br>horror |  
+| bip_39_word_new_br_4 | beauty<br>correct<br>horror<br>damp |  
+| bip_39_word_new_br_5 | beauty<br>correct<br>horror<br>damp<br>kitchen |  
+| bip_39_word_new_br_6 | beauty<br>correct<br>horror<br>damp<br>kitchen<br>fabric |  
+| bip_39_word_new_br_7 | beauty<br>correct<br>horror<br>damp<br>kitchen<br>fabric<br>sense |  
+| bip_39_word_new_br_8 | beauty<br>correct<br>horror<br>damp<br>kitchen<br>fabric<br>sense<br>blur |  
+| bip_39_word_new_br_9 | beauty<br>correct<br>horror<br>damp<br>kitchen<br>fabric<br>sense<br>blur<br>loop |  
+| bip_39_word_new_line_1 | beauty |  
+| bip_39_word_new_line_10 | beauty
 correct
 horror
 damp
@@ -55,7 +55,7 @@ sense
 blur
 loop
 ramp |  
-| bip_39_word_new_line11 | beauty
+| bip_39_word_new_line_11 | beauty
 correct
 horror
 damp
@@ -66,7 +66,7 @@ blur
 loop
 ramp
 copy |  
-| bip_39_word_new_line12 | beauty
+| bip_39_word_new_line_12 | beauty
 correct
 horror
 damp
@@ -78,34 +78,34 @@ loop
 ramp
 copy
 arrive |  
-| bip_39_word_new_line2 | beauty
+| bip_39_word_new_line_2 | beauty
 correct |  
-| bip_39_word_new_line3 | beauty
+| bip_39_word_new_line_3 | beauty
 correct
 horror |  
-| bip_39_word_new_line4 | beauty
+| bip_39_word_new_line_4 | beauty
 correct
 horror
 damp |  
-| bip_39_word_new_line5 | beauty
+| bip_39_word_new_line_5 | beauty
 correct
 horror
 damp
 kitchen |  
-| bip_39_word_new_line6 | beauty
+| bip_39_word_new_line_6 | beauty
 correct
 horror
 damp
 kitchen
 fabric |  
-| bip_39_word_new_line7 | beauty
+| bip_39_word_new_line_7 | beauty
 correct
 horror
 damp
 kitchen
 fabric
 sense |  
-| bip_39_word_new_line8 | beauty
+| bip_39_word_new_line_8 | beauty
 correct
 horror
 damp
@@ -113,7 +113,7 @@ kitchen
 fabric
 sense
 blur |  
-| bip_39_word_new_line9 | beauty
+| bip_39_word_new_line_9 | beauty
 correct
 horror
 damp

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | victory |  
-| bip_39_word_new_br10 | victory<br>boy<br>wisdom<br>other<br>act<br>youth<br>check<br>undo<br>chunk<br>mother |  
-| bip_39_word_new_br11 | victory<br>boy<br>wisdom<br>other<br>act<br>youth<br>check<br>undo<br>chunk<br>mother<br>usual |  
-| bip_39_word_new_br12 | victory<br>boy<br>wisdom<br>other<br>act<br>youth<br>check<br>undo<br>chunk<br>mother<br>usual<br>across |  
-| bip_39_word_new_br2 | victory<br>boy |  
-| bip_39_word_new_br3 | victory<br>boy<br>wisdom |  
-| bip_39_word_new_br4 | victory<br>boy<br>wisdom<br>other |  
-| bip_39_word_new_br5 | victory<br>boy<br>wisdom<br>other<br>act |  
-| bip_39_word_new_br6 | victory<br>boy<br>wisdom<br>other<br>act<br>youth |  
-| bip_39_word_new_br7 | victory<br>boy<br>wisdom<br>other<br>act<br>youth<br>check |  
-| bip_39_word_new_br8 | victory<br>boy<br>wisdom<br>other<br>act<br>youth<br>check<br>undo |  
-| bip_39_word_new_br9 | victory<br>boy<br>wisdom<br>other<br>act<br>youth<br>check<br>undo<br>chunk |  
-| bip_39_word_new_line1 | victory |  
-| bip_39_word_new_line10 | victory
+| bip_39_word_new_br_1 | victory |  
+| bip_39_word_new_br_10 | victory<br>boy<br>wisdom<br>other<br>act<br>youth<br>check<br>undo<br>chunk<br>mother |  
+| bip_39_word_new_br_11 | victory<br>boy<br>wisdom<br>other<br>act<br>youth<br>check<br>undo<br>chunk<br>mother<br>usual |  
+| bip_39_word_new_br_12 | victory<br>boy<br>wisdom<br>other<br>act<br>youth<br>check<br>undo<br>chunk<br>mother<br>usual<br>across |  
+| bip_39_word_new_br_2 | victory<br>boy |  
+| bip_39_word_new_br_3 | victory<br>boy<br>wisdom |  
+| bip_39_word_new_br_4 | victory<br>boy<br>wisdom<br>other |  
+| bip_39_word_new_br_5 | victory<br>boy<br>wisdom<br>other<br>act |  
+| bip_39_word_new_br_6 | victory<br>boy<br>wisdom<br>other<br>act<br>youth |  
+| bip_39_word_new_br_7 | victory<br>boy<br>wisdom<br>other<br>act<br>youth<br>check |  
+| bip_39_word_new_br_8 | victory<br>boy<br>wisdom<br>other<br>act<br>youth<br>check<br>undo |  
+| bip_39_word_new_br_9 | victory<br>boy<br>wisdom<br>other<br>act<br>youth<br>check<br>undo<br>chunk |  
+| bip_39_word_new_line_1 | victory |  
+| bip_39_word_new_line_10 | victory
 boy
 wisdom
 other
@@ -55,7 +55,7 @@ check
 undo
 chunk
 mother |  
-| bip_39_word_new_line11 | victory
+| bip_39_word_new_line_11 | victory
 boy
 wisdom
 other
@@ -66,7 +66,7 @@ undo
 chunk
 mother
 usual |  
-| bip_39_word_new_line12 | victory
+| bip_39_word_new_line_12 | victory
 boy
 wisdom
 other
@@ -78,34 +78,34 @@ chunk
 mother
 usual
 across |  
-| bip_39_word_new_line2 | victory
+| bip_39_word_new_line_2 | victory
 boy |  
-| bip_39_word_new_line3 | victory
+| bip_39_word_new_line_3 | victory
 boy
 wisdom |  
-| bip_39_word_new_line4 | victory
+| bip_39_word_new_line_4 | victory
 boy
 wisdom
 other |  
-| bip_39_word_new_line5 | victory
+| bip_39_word_new_line_5 | victory
 boy
 wisdom
 other
 act |  
-| bip_39_word_new_line6 | victory
+| bip_39_word_new_line_6 | victory
 boy
 wisdom
 other
 act
 youth |  
-| bip_39_word_new_line7 | victory
+| bip_39_word_new_line_7 | victory
 boy
 wisdom
 other
 act
 youth
 check |  
-| bip_39_word_new_line8 | victory
+| bip_39_word_new_line_8 | victory
 boy
 wisdom
 other
@@ -113,7 +113,7 @@ act
 youth
 check
 undo |  
-| bip_39_word_new_line9 | victory
+| bip_39_word_new_line_9 | victory
 boy
 wisdom
 other

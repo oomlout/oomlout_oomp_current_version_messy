@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | aunt |  
-| bip_39_word_new_br10 | aunt<br>wisdom<br>require<br>tourist<br>scatter<br>muffin<br>egg<br>myself<br>neck<br>recall |  
-| bip_39_word_new_br11 | aunt<br>wisdom<br>require<br>tourist<br>scatter<br>muffin<br>egg<br>myself<br>neck<br>recall<br>oil |  
-| bip_39_word_new_br2 | aunt<br>wisdom |  
-| bip_39_word_new_br3 | aunt<br>wisdom<br>require |  
-| bip_39_word_new_br4 | aunt<br>wisdom<br>require<br>tourist |  
-| bip_39_word_new_br5 | aunt<br>wisdom<br>require<br>tourist<br>scatter |  
-| bip_39_word_new_br6 | aunt<br>wisdom<br>require<br>tourist<br>scatter<br>muffin |  
-| bip_39_word_new_br7 | aunt<br>wisdom<br>require<br>tourist<br>scatter<br>muffin<br>egg |  
-| bip_39_word_new_br8 | aunt<br>wisdom<br>require<br>tourist<br>scatter<br>muffin<br>egg<br>myself |  
-| bip_39_word_new_br9 | aunt<br>wisdom<br>require<br>tourist<br>scatter<br>muffin<br>egg<br>myself<br>neck |  
-| bip_39_word_new_line1 | aunt |  
-| bip_39_word_new_line10 | aunt
+| bip_39_word_new_br_1 | aunt |  
+| bip_39_word_new_br_10 | aunt<br>wisdom<br>require<br>tourist<br>scatter<br>muffin<br>egg<br>myself<br>neck<br>recall |  
+| bip_39_word_new_br_11 | aunt<br>wisdom<br>require<br>tourist<br>scatter<br>muffin<br>egg<br>myself<br>neck<br>recall<br>oil |  
+| bip_39_word_new_br_2 | aunt<br>wisdom |  
+| bip_39_word_new_br_3 | aunt<br>wisdom<br>require |  
+| bip_39_word_new_br_4 | aunt<br>wisdom<br>require<br>tourist |  
+| bip_39_word_new_br_5 | aunt<br>wisdom<br>require<br>tourist<br>scatter |  
+| bip_39_word_new_br_6 | aunt<br>wisdom<br>require<br>tourist<br>scatter<br>muffin |  
+| bip_39_word_new_br_7 | aunt<br>wisdom<br>require<br>tourist<br>scatter<br>muffin<br>egg |  
+| bip_39_word_new_br_8 | aunt<br>wisdom<br>require<br>tourist<br>scatter<br>muffin<br>egg<br>myself |  
+| bip_39_word_new_br_9 | aunt<br>wisdom<br>require<br>tourist<br>scatter<br>muffin<br>egg<br>myself<br>neck |  
+| bip_39_word_new_line_1 | aunt |  
+| bip_39_word_new_line_10 | aunt
 wisdom
 require
 tourist
@@ -54,7 +54,7 @@ egg
 myself
 neck
 recall |  
-| bip_39_word_new_line11 | aunt
+| bip_39_word_new_line_11 | aunt
 wisdom
 require
 tourist
@@ -65,34 +65,34 @@ myself
 neck
 recall
 oil |  
-| bip_39_word_new_line2 | aunt
+| bip_39_word_new_line_2 | aunt
 wisdom |  
-| bip_39_word_new_line3 | aunt
+| bip_39_word_new_line_3 | aunt
 wisdom
 require |  
-| bip_39_word_new_line4 | aunt
+| bip_39_word_new_line_4 | aunt
 wisdom
 require
 tourist |  
-| bip_39_word_new_line5 | aunt
+| bip_39_word_new_line_5 | aunt
 wisdom
 require
 tourist
 scatter |  
-| bip_39_word_new_line6 | aunt
+| bip_39_word_new_line_6 | aunt
 wisdom
 require
 tourist
 scatter
 muffin |  
-| bip_39_word_new_line7 | aunt
+| bip_39_word_new_line_7 | aunt
 wisdom
 require
 tourist
 scatter
 muffin
 egg |  
-| bip_39_word_new_line8 | aunt
+| bip_39_word_new_line_8 | aunt
 wisdom
 require
 tourist
@@ -100,7 +100,7 @@ scatter
 muffin
 egg
 myself |  
-| bip_39_word_new_line9 | aunt
+| bip_39_word_new_line_9 | aunt
 wisdom
 require
 tourist

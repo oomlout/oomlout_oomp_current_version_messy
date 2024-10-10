@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wreck |  
-| bip_39_word_new_br10 | wreck<br>help<br>quantum<br>life<br>level<br>slow<br>jazz<br>uphold<br>permit<br>intact |  
-| bip_39_word_new_br11 | wreck<br>help<br>quantum<br>life<br>level<br>slow<br>jazz<br>uphold<br>permit<br>intact<br>more |  
-| bip_39_word_new_br12 | wreck<br>help<br>quantum<br>life<br>level<br>slow<br>jazz<br>uphold<br>permit<br>intact<br>more<br>approve |  
-| bip_39_word_new_br2 | wreck<br>help |  
-| bip_39_word_new_br3 | wreck<br>help<br>quantum |  
-| bip_39_word_new_br4 | wreck<br>help<br>quantum<br>life |  
-| bip_39_word_new_br5 | wreck<br>help<br>quantum<br>life<br>level |  
-| bip_39_word_new_br6 | wreck<br>help<br>quantum<br>life<br>level<br>slow |  
-| bip_39_word_new_br7 | wreck<br>help<br>quantum<br>life<br>level<br>slow<br>jazz |  
-| bip_39_word_new_br8 | wreck<br>help<br>quantum<br>life<br>level<br>slow<br>jazz<br>uphold |  
-| bip_39_word_new_br9 | wreck<br>help<br>quantum<br>life<br>level<br>slow<br>jazz<br>uphold<br>permit |  
-| bip_39_word_new_line1 | wreck |  
-| bip_39_word_new_line10 | wreck
+| bip_39_word_new_br_1 | wreck |  
+| bip_39_word_new_br_10 | wreck<br>help<br>quantum<br>life<br>level<br>slow<br>jazz<br>uphold<br>permit<br>intact |  
+| bip_39_word_new_br_11 | wreck<br>help<br>quantum<br>life<br>level<br>slow<br>jazz<br>uphold<br>permit<br>intact<br>more |  
+| bip_39_word_new_br_12 | wreck<br>help<br>quantum<br>life<br>level<br>slow<br>jazz<br>uphold<br>permit<br>intact<br>more<br>approve |  
+| bip_39_word_new_br_2 | wreck<br>help |  
+| bip_39_word_new_br_3 | wreck<br>help<br>quantum |  
+| bip_39_word_new_br_4 | wreck<br>help<br>quantum<br>life |  
+| bip_39_word_new_br_5 | wreck<br>help<br>quantum<br>life<br>level |  
+| bip_39_word_new_br_6 | wreck<br>help<br>quantum<br>life<br>level<br>slow |  
+| bip_39_word_new_br_7 | wreck<br>help<br>quantum<br>life<br>level<br>slow<br>jazz |  
+| bip_39_word_new_br_8 | wreck<br>help<br>quantum<br>life<br>level<br>slow<br>jazz<br>uphold |  
+| bip_39_word_new_br_9 | wreck<br>help<br>quantum<br>life<br>level<br>slow<br>jazz<br>uphold<br>permit |  
+| bip_39_word_new_line_1 | wreck |  
+| bip_39_word_new_line_10 | wreck
 help
 quantum
 life
@@ -55,7 +55,7 @@ jazz
 uphold
 permit
 intact |  
-| bip_39_word_new_line11 | wreck
+| bip_39_word_new_line_11 | wreck
 help
 quantum
 life
@@ -66,7 +66,7 @@ uphold
 permit
 intact
 more |  
-| bip_39_word_new_line12 | wreck
+| bip_39_word_new_line_12 | wreck
 help
 quantum
 life
@@ -78,34 +78,34 @@ permit
 intact
 more
 approve |  
-| bip_39_word_new_line2 | wreck
+| bip_39_word_new_line_2 | wreck
 help |  
-| bip_39_word_new_line3 | wreck
+| bip_39_word_new_line_3 | wreck
 help
 quantum |  
-| bip_39_word_new_line4 | wreck
+| bip_39_word_new_line_4 | wreck
 help
 quantum
 life |  
-| bip_39_word_new_line5 | wreck
+| bip_39_word_new_line_5 | wreck
 help
 quantum
 life
 level |  
-| bip_39_word_new_line6 | wreck
+| bip_39_word_new_line_6 | wreck
 help
 quantum
 life
 level
 slow |  
-| bip_39_word_new_line7 | wreck
+| bip_39_word_new_line_7 | wreck
 help
 quantum
 life
 level
 slow
 jazz |  
-| bip_39_word_new_line8 | wreck
+| bip_39_word_new_line_8 | wreck
 help
 quantum
 life
@@ -113,7 +113,7 @@ level
 slow
 jazz
 uphold |  
-| bip_39_word_new_line9 | wreck
+| bip_39_word_new_line_9 | wreck
 help
 quantum
 life

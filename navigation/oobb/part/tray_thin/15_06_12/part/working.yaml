@@ -1,17 +1,17 @@
-bip_39_word_new_br1: stairs
-bip_39_word_new_br10: stairs<br>rely<br>carpet<br>pear<br>mind<br>stairs<br>trigger<br>chest<br>pretty<br>whale
-bip_39_word_new_br11: stairs<br>rely<br>carpet<br>pear<br>mind<br>stairs<br>trigger<br>chest<br>pretty<br>whale<br>define
-bip_39_word_new_br12: stairs<br>rely<br>carpet<br>pear<br>mind<br>stairs<br>trigger<br>chest<br>pretty<br>whale<br>define<br>armed
-bip_39_word_new_br2: stairs<br>rely
-bip_39_word_new_br3: stairs<br>rely<br>carpet
-bip_39_word_new_br4: stairs<br>rely<br>carpet<br>pear
-bip_39_word_new_br5: stairs<br>rely<br>carpet<br>pear<br>mind
-bip_39_word_new_br6: stairs<br>rely<br>carpet<br>pear<br>mind<br>stairs
-bip_39_word_new_br7: stairs<br>rely<br>carpet<br>pear<br>mind<br>stairs<br>trigger
-bip_39_word_new_br8: stairs<br>rely<br>carpet<br>pear<br>mind<br>stairs<br>trigger<br>chest
-bip_39_word_new_br9: stairs<br>rely<br>carpet<br>pear<br>mind<br>stairs<br>trigger<br>chest<br>pretty
-bip_39_word_new_line1: stairs
-bip_39_word_new_line10: 'stairs
+bip_39_word_new_br_1: stairs
+bip_39_word_new_br_10: stairs<br>rely<br>carpet<br>pear<br>mind<br>stairs<br>trigger<br>chest<br>pretty<br>whale
+bip_39_word_new_br_11: stairs<br>rely<br>carpet<br>pear<br>mind<br>stairs<br>trigger<br>chest<br>pretty<br>whale<br>define
+bip_39_word_new_br_12: stairs<br>rely<br>carpet<br>pear<br>mind<br>stairs<br>trigger<br>chest<br>pretty<br>whale<br>define<br>armed
+bip_39_word_new_br_2: stairs<br>rely
+bip_39_word_new_br_3: stairs<br>rely<br>carpet
+bip_39_word_new_br_4: stairs<br>rely<br>carpet<br>pear
+bip_39_word_new_br_5: stairs<br>rely<br>carpet<br>pear<br>mind
+bip_39_word_new_br_6: stairs<br>rely<br>carpet<br>pear<br>mind<br>stairs
+bip_39_word_new_br_7: stairs<br>rely<br>carpet<br>pear<br>mind<br>stairs<br>trigger
+bip_39_word_new_br_8: stairs<br>rely<br>carpet<br>pear<br>mind<br>stairs<br>trigger<br>chest
+bip_39_word_new_br_9: stairs<br>rely<br>carpet<br>pear<br>mind<br>stairs<br>trigger<br>chest<br>pretty
+bip_39_word_new_line_1: stairs
+bip_39_word_new_line_10: 'stairs
 
   rely
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'stairs
   pretty
 
   whale'
-bip_39_word_new_line11: 'stairs
+bip_39_word_new_line_11: 'stairs
 
   rely
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'stairs
   whale
 
   define'
-bip_39_word_new_line12: 'stairs
+bip_39_word_new_line_12: 'stairs
 
   rely
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'stairs
   define
 
   armed'
-bip_39_word_new_line2: 'stairs
+bip_39_word_new_line_2: 'stairs
 
   rely'
-bip_39_word_new_line3: 'stairs
+bip_39_word_new_line_3: 'stairs
 
   rely
 
   carpet'
-bip_39_word_new_line4: 'stairs
+bip_39_word_new_line_4: 'stairs
 
   rely
 
   carpet
 
   pear'
-bip_39_word_new_line5: 'stairs
+bip_39_word_new_line_5: 'stairs
 
   rely
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'stairs
   pear
 
   mind'
-bip_39_word_new_line6: 'stairs
+bip_39_word_new_line_6: 'stairs
 
   rely
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'stairs
   mind
 
   stairs'
-bip_39_word_new_line7: 'stairs
+bip_39_word_new_line_7: 'stairs
 
   rely
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'stairs
   stairs
 
   trigger'
-bip_39_word_new_line8: 'stairs
+bip_39_word_new_line_8: 'stairs
 
   rely
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'stairs
   trigger
 
   chest'
-bip_39_word_new_line9: 'stairs
+bip_39_word_new_line_9: 'stairs
 
   rely
 

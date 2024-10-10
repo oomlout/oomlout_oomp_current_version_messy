@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | stuff |  
-| bip_39_word_new_br10 | stuff<br>panda<br>suggest<br>wagon<br>come<br>erode<br>act<br>diesel<br>credit<br>subway |  
-| bip_39_word_new_br11 | stuff<br>panda<br>suggest<br>wagon<br>come<br>erode<br>act<br>diesel<br>credit<br>subway<br>giggle |  
-| bip_39_word_new_br12 | stuff<br>panda<br>suggest<br>wagon<br>come<br>erode<br>act<br>diesel<br>credit<br>subway<br>giggle<br>already |  
-| bip_39_word_new_br2 | stuff<br>panda |  
-| bip_39_word_new_br3 | stuff<br>panda<br>suggest |  
-| bip_39_word_new_br4 | stuff<br>panda<br>suggest<br>wagon |  
-| bip_39_word_new_br5 | stuff<br>panda<br>suggest<br>wagon<br>come |  
-| bip_39_word_new_br6 | stuff<br>panda<br>suggest<br>wagon<br>come<br>erode |  
-| bip_39_word_new_br7 | stuff<br>panda<br>suggest<br>wagon<br>come<br>erode<br>act |  
-| bip_39_word_new_br8 | stuff<br>panda<br>suggest<br>wagon<br>come<br>erode<br>act<br>diesel |  
-| bip_39_word_new_br9 | stuff<br>panda<br>suggest<br>wagon<br>come<br>erode<br>act<br>diesel<br>credit |  
-| bip_39_word_new_line1 | stuff |  
-| bip_39_word_new_line10 | stuff
+| bip_39_word_new_br_1 | stuff |  
+| bip_39_word_new_br_10 | stuff<br>panda<br>suggest<br>wagon<br>come<br>erode<br>act<br>diesel<br>credit<br>subway |  
+| bip_39_word_new_br_11 | stuff<br>panda<br>suggest<br>wagon<br>come<br>erode<br>act<br>diesel<br>credit<br>subway<br>giggle |  
+| bip_39_word_new_br_12 | stuff<br>panda<br>suggest<br>wagon<br>come<br>erode<br>act<br>diesel<br>credit<br>subway<br>giggle<br>already |  
+| bip_39_word_new_br_2 | stuff<br>panda |  
+| bip_39_word_new_br_3 | stuff<br>panda<br>suggest |  
+| bip_39_word_new_br_4 | stuff<br>panda<br>suggest<br>wagon |  
+| bip_39_word_new_br_5 | stuff<br>panda<br>suggest<br>wagon<br>come |  
+| bip_39_word_new_br_6 | stuff<br>panda<br>suggest<br>wagon<br>come<br>erode |  
+| bip_39_word_new_br_7 | stuff<br>panda<br>suggest<br>wagon<br>come<br>erode<br>act |  
+| bip_39_word_new_br_8 | stuff<br>panda<br>suggest<br>wagon<br>come<br>erode<br>act<br>diesel |  
+| bip_39_word_new_br_9 | stuff<br>panda<br>suggest<br>wagon<br>come<br>erode<br>act<br>diesel<br>credit |  
+| bip_39_word_new_line_1 | stuff |  
+| bip_39_word_new_line_10 | stuff
 panda
 suggest
 wagon
@@ -55,7 +55,7 @@ act
 diesel
 credit
 subway |  
-| bip_39_word_new_line11 | stuff
+| bip_39_word_new_line_11 | stuff
 panda
 suggest
 wagon
@@ -66,7 +66,7 @@ diesel
 credit
 subway
 giggle |  
-| bip_39_word_new_line12 | stuff
+| bip_39_word_new_line_12 | stuff
 panda
 suggest
 wagon
@@ -78,34 +78,34 @@ credit
 subway
 giggle
 already |  
-| bip_39_word_new_line2 | stuff
+| bip_39_word_new_line_2 | stuff
 panda |  
-| bip_39_word_new_line3 | stuff
+| bip_39_word_new_line_3 | stuff
 panda
 suggest |  
-| bip_39_word_new_line4 | stuff
+| bip_39_word_new_line_4 | stuff
 panda
 suggest
 wagon |  
-| bip_39_word_new_line5 | stuff
+| bip_39_word_new_line_5 | stuff
 panda
 suggest
 wagon
 come |  
-| bip_39_word_new_line6 | stuff
+| bip_39_word_new_line_6 | stuff
 panda
 suggest
 wagon
 come
 erode |  
-| bip_39_word_new_line7 | stuff
+| bip_39_word_new_line_7 | stuff
 panda
 suggest
 wagon
 come
 erode
 act |  
-| bip_39_word_new_line8 | stuff
+| bip_39_word_new_line_8 | stuff
 panda
 suggest
 wagon
@@ -113,7 +113,7 @@ come
 erode
 act
 diesel |  
-| bip_39_word_new_line9 | stuff
+| bip_39_word_new_line_9 | stuff
 panda
 suggest
 wagon

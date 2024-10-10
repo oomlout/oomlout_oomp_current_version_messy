@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | monitor |  
-| bip_39_word_new_br10 | monitor<br>alcohol<br>else<br>apology<br>economy<br>across<br>hover<br>kind<br>fashion<br>riot |  
-| bip_39_word_new_br11 | monitor<br>alcohol<br>else<br>apology<br>economy<br>across<br>hover<br>kind<br>fashion<br>riot<br>mask |  
-| bip_39_word_new_br2 | monitor<br>alcohol |  
-| bip_39_word_new_br3 | monitor<br>alcohol<br>else |  
-| bip_39_word_new_br4 | monitor<br>alcohol<br>else<br>apology |  
-| bip_39_word_new_br5 | monitor<br>alcohol<br>else<br>apology<br>economy |  
-| bip_39_word_new_br6 | monitor<br>alcohol<br>else<br>apology<br>economy<br>across |  
-| bip_39_word_new_br7 | monitor<br>alcohol<br>else<br>apology<br>economy<br>across<br>hover |  
-| bip_39_word_new_br8 | monitor<br>alcohol<br>else<br>apology<br>economy<br>across<br>hover<br>kind |  
-| bip_39_word_new_br9 | monitor<br>alcohol<br>else<br>apology<br>economy<br>across<br>hover<br>kind<br>fashion |  
-| bip_39_word_new_line1 | monitor |  
-| bip_39_word_new_line10 | monitor
+| bip_39_word_new_br_1 | monitor |  
+| bip_39_word_new_br_10 | monitor<br>alcohol<br>else<br>apology<br>economy<br>across<br>hover<br>kind<br>fashion<br>riot |  
+| bip_39_word_new_br_11 | monitor<br>alcohol<br>else<br>apology<br>economy<br>across<br>hover<br>kind<br>fashion<br>riot<br>mask |  
+| bip_39_word_new_br_2 | monitor<br>alcohol |  
+| bip_39_word_new_br_3 | monitor<br>alcohol<br>else |  
+| bip_39_word_new_br_4 | monitor<br>alcohol<br>else<br>apology |  
+| bip_39_word_new_br_5 | monitor<br>alcohol<br>else<br>apology<br>economy |  
+| bip_39_word_new_br_6 | monitor<br>alcohol<br>else<br>apology<br>economy<br>across |  
+| bip_39_word_new_br_7 | monitor<br>alcohol<br>else<br>apology<br>economy<br>across<br>hover |  
+| bip_39_word_new_br_8 | monitor<br>alcohol<br>else<br>apology<br>economy<br>across<br>hover<br>kind |  
+| bip_39_word_new_br_9 | monitor<br>alcohol<br>else<br>apology<br>economy<br>across<br>hover<br>kind<br>fashion |  
+| bip_39_word_new_line_1 | monitor |  
+| bip_39_word_new_line_10 | monitor
 alcohol
 else
 apology
@@ -54,7 +54,7 @@ hover
 kind
 fashion
 riot |  
-| bip_39_word_new_line11 | monitor
+| bip_39_word_new_line_11 | monitor
 alcohol
 else
 apology
@@ -65,34 +65,34 @@ kind
 fashion
 riot
 mask |  
-| bip_39_word_new_line2 | monitor
+| bip_39_word_new_line_2 | monitor
 alcohol |  
-| bip_39_word_new_line3 | monitor
+| bip_39_word_new_line_3 | monitor
 alcohol
 else |  
-| bip_39_word_new_line4 | monitor
+| bip_39_word_new_line_4 | monitor
 alcohol
 else
 apology |  
-| bip_39_word_new_line5 | monitor
+| bip_39_word_new_line_5 | monitor
 alcohol
 else
 apology
 economy |  
-| bip_39_word_new_line6 | monitor
+| bip_39_word_new_line_6 | monitor
 alcohol
 else
 apology
 economy
 across |  
-| bip_39_word_new_line7 | monitor
+| bip_39_word_new_line_7 | monitor
 alcohol
 else
 apology
 economy
 across
 hover |  
-| bip_39_word_new_line8 | monitor
+| bip_39_word_new_line_8 | monitor
 alcohol
 else
 apology
@@ -100,7 +100,7 @@ economy
 across
 hover
 kind |  
-| bip_39_word_new_line9 | monitor
+| bip_39_word_new_line_9 | monitor
 alcohol
 else
 apology

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cloud |  
-| bip_39_word_new_br10 | cloud<br>basic<br>taste<br>ignore<br>imitate<br>vital<br>bid<br>print<br>change<br>earth |  
-| bip_39_word_new_br11 | cloud<br>basic<br>taste<br>ignore<br>imitate<br>vital<br>bid<br>print<br>change<br>earth<br>pause |  
-| bip_39_word_new_br12 | cloud<br>basic<br>taste<br>ignore<br>imitate<br>vital<br>bid<br>print<br>change<br>earth<br>pause<br>aim |  
-| bip_39_word_new_br2 | cloud<br>basic |  
-| bip_39_word_new_br3 | cloud<br>basic<br>taste |  
-| bip_39_word_new_br4 | cloud<br>basic<br>taste<br>ignore |  
-| bip_39_word_new_br5 | cloud<br>basic<br>taste<br>ignore<br>imitate |  
-| bip_39_word_new_br6 | cloud<br>basic<br>taste<br>ignore<br>imitate<br>vital |  
-| bip_39_word_new_br7 | cloud<br>basic<br>taste<br>ignore<br>imitate<br>vital<br>bid |  
-| bip_39_word_new_br8 | cloud<br>basic<br>taste<br>ignore<br>imitate<br>vital<br>bid<br>print |  
-| bip_39_word_new_br9 | cloud<br>basic<br>taste<br>ignore<br>imitate<br>vital<br>bid<br>print<br>change |  
-| bip_39_word_new_line1 | cloud |  
-| bip_39_word_new_line10 | cloud
+| bip_39_word_new_br_1 | cloud |  
+| bip_39_word_new_br_10 | cloud<br>basic<br>taste<br>ignore<br>imitate<br>vital<br>bid<br>print<br>change<br>earth |  
+| bip_39_word_new_br_11 | cloud<br>basic<br>taste<br>ignore<br>imitate<br>vital<br>bid<br>print<br>change<br>earth<br>pause |  
+| bip_39_word_new_br_12 | cloud<br>basic<br>taste<br>ignore<br>imitate<br>vital<br>bid<br>print<br>change<br>earth<br>pause<br>aim |  
+| bip_39_word_new_br_2 | cloud<br>basic |  
+| bip_39_word_new_br_3 | cloud<br>basic<br>taste |  
+| bip_39_word_new_br_4 | cloud<br>basic<br>taste<br>ignore |  
+| bip_39_word_new_br_5 | cloud<br>basic<br>taste<br>ignore<br>imitate |  
+| bip_39_word_new_br_6 | cloud<br>basic<br>taste<br>ignore<br>imitate<br>vital |  
+| bip_39_word_new_br_7 | cloud<br>basic<br>taste<br>ignore<br>imitate<br>vital<br>bid |  
+| bip_39_word_new_br_8 | cloud<br>basic<br>taste<br>ignore<br>imitate<br>vital<br>bid<br>print |  
+| bip_39_word_new_br_9 | cloud<br>basic<br>taste<br>ignore<br>imitate<br>vital<br>bid<br>print<br>change |  
+| bip_39_word_new_line_1 | cloud |  
+| bip_39_word_new_line_10 | cloud
 basic
 taste
 ignore
@@ -55,7 +55,7 @@ bid
 print
 change
 earth |  
-| bip_39_word_new_line11 | cloud
+| bip_39_word_new_line_11 | cloud
 basic
 taste
 ignore
@@ -66,7 +66,7 @@ print
 change
 earth
 pause |  
-| bip_39_word_new_line12 | cloud
+| bip_39_word_new_line_12 | cloud
 basic
 taste
 ignore
@@ -78,34 +78,34 @@ change
 earth
 pause
 aim |  
-| bip_39_word_new_line2 | cloud
+| bip_39_word_new_line_2 | cloud
 basic |  
-| bip_39_word_new_line3 | cloud
+| bip_39_word_new_line_3 | cloud
 basic
 taste |  
-| bip_39_word_new_line4 | cloud
+| bip_39_word_new_line_4 | cloud
 basic
 taste
 ignore |  
-| bip_39_word_new_line5 | cloud
+| bip_39_word_new_line_5 | cloud
 basic
 taste
 ignore
 imitate |  
-| bip_39_word_new_line6 | cloud
+| bip_39_word_new_line_6 | cloud
 basic
 taste
 ignore
 imitate
 vital |  
-| bip_39_word_new_line7 | cloud
+| bip_39_word_new_line_7 | cloud
 basic
 taste
 ignore
 imitate
 vital
 bid |  
-| bip_39_word_new_line8 | cloud
+| bip_39_word_new_line_8 | cloud
 basic
 taste
 ignore
@@ -113,7 +113,7 @@ imitate
 vital
 bid
 print |  
-| bip_39_word_new_line9 | cloud
+| bip_39_word_new_line_9 | cloud
 basic
 taste
 ignore

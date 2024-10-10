@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | leisure |  
-| bip_39_word_new_br10 | leisure<br>gown<br>bag<br>suffer<br>various<br>magnet<br>buffalo<br>snake<br>obvious<br>draw |  
-| bip_39_word_new_br11 | leisure<br>gown<br>bag<br>suffer<br>various<br>magnet<br>buffalo<br>snake<br>obvious<br>draw<br>figure |  
-| bip_39_word_new_br2 | leisure<br>gown |  
-| bip_39_word_new_br3 | leisure<br>gown<br>bag |  
-| bip_39_word_new_br4 | leisure<br>gown<br>bag<br>suffer |  
-| bip_39_word_new_br5 | leisure<br>gown<br>bag<br>suffer<br>various |  
-| bip_39_word_new_br6 | leisure<br>gown<br>bag<br>suffer<br>various<br>magnet |  
-| bip_39_word_new_br7 | leisure<br>gown<br>bag<br>suffer<br>various<br>magnet<br>buffalo |  
-| bip_39_word_new_br8 | leisure<br>gown<br>bag<br>suffer<br>various<br>magnet<br>buffalo<br>snake |  
-| bip_39_word_new_br9 | leisure<br>gown<br>bag<br>suffer<br>various<br>magnet<br>buffalo<br>snake<br>obvious |  
-| bip_39_word_new_line1 | leisure |  
-| bip_39_word_new_line10 | leisure
+| bip_39_word_new_br_1 | leisure |  
+| bip_39_word_new_br_10 | leisure<br>gown<br>bag<br>suffer<br>various<br>magnet<br>buffalo<br>snake<br>obvious<br>draw |  
+| bip_39_word_new_br_11 | leisure<br>gown<br>bag<br>suffer<br>various<br>magnet<br>buffalo<br>snake<br>obvious<br>draw<br>figure |  
+| bip_39_word_new_br_2 | leisure<br>gown |  
+| bip_39_word_new_br_3 | leisure<br>gown<br>bag |  
+| bip_39_word_new_br_4 | leisure<br>gown<br>bag<br>suffer |  
+| bip_39_word_new_br_5 | leisure<br>gown<br>bag<br>suffer<br>various |  
+| bip_39_word_new_br_6 | leisure<br>gown<br>bag<br>suffer<br>various<br>magnet |  
+| bip_39_word_new_br_7 | leisure<br>gown<br>bag<br>suffer<br>various<br>magnet<br>buffalo |  
+| bip_39_word_new_br_8 | leisure<br>gown<br>bag<br>suffer<br>various<br>magnet<br>buffalo<br>snake |  
+| bip_39_word_new_br_9 | leisure<br>gown<br>bag<br>suffer<br>various<br>magnet<br>buffalo<br>snake<br>obvious |  
+| bip_39_word_new_line_1 | leisure |  
+| bip_39_word_new_line_10 | leisure
 gown
 bag
 suffer
@@ -54,7 +54,7 @@ buffalo
 snake
 obvious
 draw |  
-| bip_39_word_new_line11 | leisure
+| bip_39_word_new_line_11 | leisure
 gown
 bag
 suffer
@@ -65,34 +65,34 @@ snake
 obvious
 draw
 figure |  
-| bip_39_word_new_line2 | leisure
+| bip_39_word_new_line_2 | leisure
 gown |  
-| bip_39_word_new_line3 | leisure
+| bip_39_word_new_line_3 | leisure
 gown
 bag |  
-| bip_39_word_new_line4 | leisure
+| bip_39_word_new_line_4 | leisure
 gown
 bag
 suffer |  
-| bip_39_word_new_line5 | leisure
+| bip_39_word_new_line_5 | leisure
 gown
 bag
 suffer
 various |  
-| bip_39_word_new_line6 | leisure
+| bip_39_word_new_line_6 | leisure
 gown
 bag
 suffer
 various
 magnet |  
-| bip_39_word_new_line7 | leisure
+| bip_39_word_new_line_7 | leisure
 gown
 bag
 suffer
 various
 magnet
 buffalo |  
-| bip_39_word_new_line8 | leisure
+| bip_39_word_new_line_8 | leisure
 gown
 bag
 suffer
@@ -100,7 +100,7 @@ various
 magnet
 buffalo
 snake |  
-| bip_39_word_new_line9 | leisure
+| bip_39_word_new_line_9 | leisure
 gown
 bag
 suffer

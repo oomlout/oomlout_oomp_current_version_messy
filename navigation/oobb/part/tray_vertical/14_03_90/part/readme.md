@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | proud |  
-| bip_39_word_new_br10 | proud<br>insane<br>castle<br>cheap<br>bless<br>forward<br>east<br>slush<br>popular<br>surround |  
-| bip_39_word_new_br11 | proud<br>insane<br>castle<br>cheap<br>bless<br>forward<br>east<br>slush<br>popular<br>surround<br>busy |  
-| bip_39_word_new_br12 | proud<br>insane<br>castle<br>cheap<br>bless<br>forward<br>east<br>slush<br>popular<br>surround<br>busy<br>ask |  
-| bip_39_word_new_br2 | proud<br>insane |  
-| bip_39_word_new_br3 | proud<br>insane<br>castle |  
-| bip_39_word_new_br4 | proud<br>insane<br>castle<br>cheap |  
-| bip_39_word_new_br5 | proud<br>insane<br>castle<br>cheap<br>bless |  
-| bip_39_word_new_br6 | proud<br>insane<br>castle<br>cheap<br>bless<br>forward |  
-| bip_39_word_new_br7 | proud<br>insane<br>castle<br>cheap<br>bless<br>forward<br>east |  
-| bip_39_word_new_br8 | proud<br>insane<br>castle<br>cheap<br>bless<br>forward<br>east<br>slush |  
-| bip_39_word_new_br9 | proud<br>insane<br>castle<br>cheap<br>bless<br>forward<br>east<br>slush<br>popular |  
-| bip_39_word_new_line1 | proud |  
-| bip_39_word_new_line10 | proud
+| bip_39_word_new_br_1 | proud |  
+| bip_39_word_new_br_10 | proud<br>insane<br>castle<br>cheap<br>bless<br>forward<br>east<br>slush<br>popular<br>surround |  
+| bip_39_word_new_br_11 | proud<br>insane<br>castle<br>cheap<br>bless<br>forward<br>east<br>slush<br>popular<br>surround<br>busy |  
+| bip_39_word_new_br_12 | proud<br>insane<br>castle<br>cheap<br>bless<br>forward<br>east<br>slush<br>popular<br>surround<br>busy<br>ask |  
+| bip_39_word_new_br_2 | proud<br>insane |  
+| bip_39_word_new_br_3 | proud<br>insane<br>castle |  
+| bip_39_word_new_br_4 | proud<br>insane<br>castle<br>cheap |  
+| bip_39_word_new_br_5 | proud<br>insane<br>castle<br>cheap<br>bless |  
+| bip_39_word_new_br_6 | proud<br>insane<br>castle<br>cheap<br>bless<br>forward |  
+| bip_39_word_new_br_7 | proud<br>insane<br>castle<br>cheap<br>bless<br>forward<br>east |  
+| bip_39_word_new_br_8 | proud<br>insane<br>castle<br>cheap<br>bless<br>forward<br>east<br>slush |  
+| bip_39_word_new_br_9 | proud<br>insane<br>castle<br>cheap<br>bless<br>forward<br>east<br>slush<br>popular |  
+| bip_39_word_new_line_1 | proud |  
+| bip_39_word_new_line_10 | proud
 insane
 castle
 cheap
@@ -55,7 +55,7 @@ east
 slush
 popular
 surround |  
-| bip_39_word_new_line11 | proud
+| bip_39_word_new_line_11 | proud
 insane
 castle
 cheap
@@ -66,7 +66,7 @@ slush
 popular
 surround
 busy |  
-| bip_39_word_new_line12 | proud
+| bip_39_word_new_line_12 | proud
 insane
 castle
 cheap
@@ -78,34 +78,34 @@ popular
 surround
 busy
 ask |  
-| bip_39_word_new_line2 | proud
+| bip_39_word_new_line_2 | proud
 insane |  
-| bip_39_word_new_line3 | proud
+| bip_39_word_new_line_3 | proud
 insane
 castle |  
-| bip_39_word_new_line4 | proud
+| bip_39_word_new_line_4 | proud
 insane
 castle
 cheap |  
-| bip_39_word_new_line5 | proud
+| bip_39_word_new_line_5 | proud
 insane
 castle
 cheap
 bless |  
-| bip_39_word_new_line6 | proud
+| bip_39_word_new_line_6 | proud
 insane
 castle
 cheap
 bless
 forward |  
-| bip_39_word_new_line7 | proud
+| bip_39_word_new_line_7 | proud
 insane
 castle
 cheap
 bless
 forward
 east |  
-| bip_39_word_new_line8 | proud
+| bip_39_word_new_line_8 | proud
 insane
 castle
 cheap
@@ -113,7 +113,7 @@ bless
 forward
 east
 slush |  
-| bip_39_word_new_line9 | proud
+| bip_39_word_new_line_9 | proud
 insane
 castle
 cheap

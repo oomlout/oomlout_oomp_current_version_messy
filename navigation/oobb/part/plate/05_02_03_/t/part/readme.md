@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dial |  
-| bip_39_word_new_br10 | dial<br>embark<br>number<br>alert<br>nation<br>winner<br>village<br>version<br>scrub<br>castle |  
-| bip_39_word_new_br11 | dial<br>embark<br>number<br>alert<br>nation<br>winner<br>village<br>version<br>scrub<br>castle<br>science |  
-| bip_39_word_new_br12 | dial<br>embark<br>number<br>alert<br>nation<br>winner<br>village<br>version<br>scrub<br>castle<br>science<br>army |  
-| bip_39_word_new_br2 | dial<br>embark |  
-| bip_39_word_new_br3 | dial<br>embark<br>number |  
-| bip_39_word_new_br4 | dial<br>embark<br>number<br>alert |  
-| bip_39_word_new_br5 | dial<br>embark<br>number<br>alert<br>nation |  
-| bip_39_word_new_br6 | dial<br>embark<br>number<br>alert<br>nation<br>winner |  
-| bip_39_word_new_br7 | dial<br>embark<br>number<br>alert<br>nation<br>winner<br>village |  
-| bip_39_word_new_br8 | dial<br>embark<br>number<br>alert<br>nation<br>winner<br>village<br>version |  
-| bip_39_word_new_br9 | dial<br>embark<br>number<br>alert<br>nation<br>winner<br>village<br>version<br>scrub |  
-| bip_39_word_new_line1 | dial |  
-| bip_39_word_new_line10 | dial
+| bip_39_word_new_br_1 | dial |  
+| bip_39_word_new_br_10 | dial<br>embark<br>number<br>alert<br>nation<br>winner<br>village<br>version<br>scrub<br>castle |  
+| bip_39_word_new_br_11 | dial<br>embark<br>number<br>alert<br>nation<br>winner<br>village<br>version<br>scrub<br>castle<br>science |  
+| bip_39_word_new_br_12 | dial<br>embark<br>number<br>alert<br>nation<br>winner<br>village<br>version<br>scrub<br>castle<br>science<br>army |  
+| bip_39_word_new_br_2 | dial<br>embark |  
+| bip_39_word_new_br_3 | dial<br>embark<br>number |  
+| bip_39_word_new_br_4 | dial<br>embark<br>number<br>alert |  
+| bip_39_word_new_br_5 | dial<br>embark<br>number<br>alert<br>nation |  
+| bip_39_word_new_br_6 | dial<br>embark<br>number<br>alert<br>nation<br>winner |  
+| bip_39_word_new_br_7 | dial<br>embark<br>number<br>alert<br>nation<br>winner<br>village |  
+| bip_39_word_new_br_8 | dial<br>embark<br>number<br>alert<br>nation<br>winner<br>village<br>version |  
+| bip_39_word_new_br_9 | dial<br>embark<br>number<br>alert<br>nation<br>winner<br>village<br>version<br>scrub |  
+| bip_39_word_new_line_1 | dial |  
+| bip_39_word_new_line_10 | dial
 embark
 number
 alert
@@ -55,7 +55,7 @@ village
 version
 scrub
 castle |  
-| bip_39_word_new_line11 | dial
+| bip_39_word_new_line_11 | dial
 embark
 number
 alert
@@ -66,7 +66,7 @@ version
 scrub
 castle
 science |  
-| bip_39_word_new_line12 | dial
+| bip_39_word_new_line_12 | dial
 embark
 number
 alert
@@ -78,34 +78,34 @@ scrub
 castle
 science
 army |  
-| bip_39_word_new_line2 | dial
+| bip_39_word_new_line_2 | dial
 embark |  
-| bip_39_word_new_line3 | dial
+| bip_39_word_new_line_3 | dial
 embark
 number |  
-| bip_39_word_new_line4 | dial
+| bip_39_word_new_line_4 | dial
 embark
 number
 alert |  
-| bip_39_word_new_line5 | dial
+| bip_39_word_new_line_5 | dial
 embark
 number
 alert
 nation |  
-| bip_39_word_new_line6 | dial
+| bip_39_word_new_line_6 | dial
 embark
 number
 alert
 nation
 winner |  
-| bip_39_word_new_line7 | dial
+| bip_39_word_new_line_7 | dial
 embark
 number
 alert
 nation
 winner
 village |  
-| bip_39_word_new_line8 | dial
+| bip_39_word_new_line_8 | dial
 embark
 number
 alert
@@ -113,7 +113,7 @@ nation
 winner
 village
 version |  
-| bip_39_word_new_line9 | dial
+| bip_39_word_new_line_9 | dial
 embark
 number
 alert

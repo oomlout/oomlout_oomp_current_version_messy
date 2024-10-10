@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | accuse |  
-| bip_39_word_new_br10 | accuse<br>pride<br>jacket<br>cable<br>umbrella<br>marble<br>tired<br>car<br>sad<br>pull |  
-| bip_39_word_new_br11 | accuse<br>pride<br>jacket<br>cable<br>umbrella<br>marble<br>tired<br>car<br>sad<br>pull<br>average |  
-| bip_39_word_new_br12 | accuse<br>pride<br>jacket<br>cable<br>umbrella<br>marble<br>tired<br>car<br>sad<br>pull<br>average<br>argue |  
-| bip_39_word_new_br2 | accuse<br>pride |  
-| bip_39_word_new_br3 | accuse<br>pride<br>jacket |  
-| bip_39_word_new_br4 | accuse<br>pride<br>jacket<br>cable |  
-| bip_39_word_new_br5 | accuse<br>pride<br>jacket<br>cable<br>umbrella |  
-| bip_39_word_new_br6 | accuse<br>pride<br>jacket<br>cable<br>umbrella<br>marble |  
-| bip_39_word_new_br7 | accuse<br>pride<br>jacket<br>cable<br>umbrella<br>marble<br>tired |  
-| bip_39_word_new_br8 | accuse<br>pride<br>jacket<br>cable<br>umbrella<br>marble<br>tired<br>car |  
-| bip_39_word_new_br9 | accuse<br>pride<br>jacket<br>cable<br>umbrella<br>marble<br>tired<br>car<br>sad |  
-| bip_39_word_new_line1 | accuse |  
-| bip_39_word_new_line10 | accuse
+| bip_39_word_new_br_1 | accuse |  
+| bip_39_word_new_br_10 | accuse<br>pride<br>jacket<br>cable<br>umbrella<br>marble<br>tired<br>car<br>sad<br>pull |  
+| bip_39_word_new_br_11 | accuse<br>pride<br>jacket<br>cable<br>umbrella<br>marble<br>tired<br>car<br>sad<br>pull<br>average |  
+| bip_39_word_new_br_12 | accuse<br>pride<br>jacket<br>cable<br>umbrella<br>marble<br>tired<br>car<br>sad<br>pull<br>average<br>argue |  
+| bip_39_word_new_br_2 | accuse<br>pride |  
+| bip_39_word_new_br_3 | accuse<br>pride<br>jacket |  
+| bip_39_word_new_br_4 | accuse<br>pride<br>jacket<br>cable |  
+| bip_39_word_new_br_5 | accuse<br>pride<br>jacket<br>cable<br>umbrella |  
+| bip_39_word_new_br_6 | accuse<br>pride<br>jacket<br>cable<br>umbrella<br>marble |  
+| bip_39_word_new_br_7 | accuse<br>pride<br>jacket<br>cable<br>umbrella<br>marble<br>tired |  
+| bip_39_word_new_br_8 | accuse<br>pride<br>jacket<br>cable<br>umbrella<br>marble<br>tired<br>car |  
+| bip_39_word_new_br_9 | accuse<br>pride<br>jacket<br>cable<br>umbrella<br>marble<br>tired<br>car<br>sad |  
+| bip_39_word_new_line_1 | accuse |  
+| bip_39_word_new_line_10 | accuse
 pride
 jacket
 cable
@@ -55,7 +55,7 @@ tired
 car
 sad
 pull |  
-| bip_39_word_new_line11 | accuse
+| bip_39_word_new_line_11 | accuse
 pride
 jacket
 cable
@@ -66,7 +66,7 @@ car
 sad
 pull
 average |  
-| bip_39_word_new_line12 | accuse
+| bip_39_word_new_line_12 | accuse
 pride
 jacket
 cable
@@ -78,34 +78,34 @@ sad
 pull
 average
 argue |  
-| bip_39_word_new_line2 | accuse
+| bip_39_word_new_line_2 | accuse
 pride |  
-| bip_39_word_new_line3 | accuse
+| bip_39_word_new_line_3 | accuse
 pride
 jacket |  
-| bip_39_word_new_line4 | accuse
+| bip_39_word_new_line_4 | accuse
 pride
 jacket
 cable |  
-| bip_39_word_new_line5 | accuse
+| bip_39_word_new_line_5 | accuse
 pride
 jacket
 cable
 umbrella |  
-| bip_39_word_new_line6 | accuse
+| bip_39_word_new_line_6 | accuse
 pride
 jacket
 cable
 umbrella
 marble |  
-| bip_39_word_new_line7 | accuse
+| bip_39_word_new_line_7 | accuse
 pride
 jacket
 cable
 umbrella
 marble
 tired |  
-| bip_39_word_new_line8 | accuse
+| bip_39_word_new_line_8 | accuse
 pride
 jacket
 cable
@@ -113,7 +113,7 @@ umbrella
 marble
 tired
 car |  
-| bip_39_word_new_line9 | accuse
+| bip_39_word_new_line_9 | accuse
 pride
 jacket
 cable

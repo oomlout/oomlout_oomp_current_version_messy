@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | smooth |  
-| bip_39_word_new_br10 | smooth<br>ginger<br>imitate<br>fetch<br>object<br>arrow<br>obvious<br>blouse<br>tuition<br>artefact |  
-| bip_39_word_new_br11 | smooth<br>ginger<br>imitate<br>fetch<br>object<br>arrow<br>obvious<br>blouse<br>tuition<br>artefact<br>rather |  
-| bip_39_word_new_br12 | smooth<br>ginger<br>imitate<br>fetch<br>object<br>arrow<br>obvious<br>blouse<br>tuition<br>artefact<br>rather<br>aerobic |  
-| bip_39_word_new_br2 | smooth<br>ginger |  
-| bip_39_word_new_br3 | smooth<br>ginger<br>imitate |  
-| bip_39_word_new_br4 | smooth<br>ginger<br>imitate<br>fetch |  
-| bip_39_word_new_br5 | smooth<br>ginger<br>imitate<br>fetch<br>object |  
-| bip_39_word_new_br6 | smooth<br>ginger<br>imitate<br>fetch<br>object<br>arrow |  
-| bip_39_word_new_br7 | smooth<br>ginger<br>imitate<br>fetch<br>object<br>arrow<br>obvious |  
-| bip_39_word_new_br8 | smooth<br>ginger<br>imitate<br>fetch<br>object<br>arrow<br>obvious<br>blouse |  
-| bip_39_word_new_br9 | smooth<br>ginger<br>imitate<br>fetch<br>object<br>arrow<br>obvious<br>blouse<br>tuition |  
-| bip_39_word_new_line1 | smooth |  
-| bip_39_word_new_line10 | smooth
+| bip_39_word_new_br_1 | smooth |  
+| bip_39_word_new_br_10 | smooth<br>ginger<br>imitate<br>fetch<br>object<br>arrow<br>obvious<br>blouse<br>tuition<br>artefact |  
+| bip_39_word_new_br_11 | smooth<br>ginger<br>imitate<br>fetch<br>object<br>arrow<br>obvious<br>blouse<br>tuition<br>artefact<br>rather |  
+| bip_39_word_new_br_12 | smooth<br>ginger<br>imitate<br>fetch<br>object<br>arrow<br>obvious<br>blouse<br>tuition<br>artefact<br>rather<br>aerobic |  
+| bip_39_word_new_br_2 | smooth<br>ginger |  
+| bip_39_word_new_br_3 | smooth<br>ginger<br>imitate |  
+| bip_39_word_new_br_4 | smooth<br>ginger<br>imitate<br>fetch |  
+| bip_39_word_new_br_5 | smooth<br>ginger<br>imitate<br>fetch<br>object |  
+| bip_39_word_new_br_6 | smooth<br>ginger<br>imitate<br>fetch<br>object<br>arrow |  
+| bip_39_word_new_br_7 | smooth<br>ginger<br>imitate<br>fetch<br>object<br>arrow<br>obvious |  
+| bip_39_word_new_br_8 | smooth<br>ginger<br>imitate<br>fetch<br>object<br>arrow<br>obvious<br>blouse |  
+| bip_39_word_new_br_9 | smooth<br>ginger<br>imitate<br>fetch<br>object<br>arrow<br>obvious<br>blouse<br>tuition |  
+| bip_39_word_new_line_1 | smooth |  
+| bip_39_word_new_line_10 | smooth
 ginger
 imitate
 fetch
@@ -55,7 +55,7 @@ obvious
 blouse
 tuition
 artefact |  
-| bip_39_word_new_line11 | smooth
+| bip_39_word_new_line_11 | smooth
 ginger
 imitate
 fetch
@@ -66,7 +66,7 @@ blouse
 tuition
 artefact
 rather |  
-| bip_39_word_new_line12 | smooth
+| bip_39_word_new_line_12 | smooth
 ginger
 imitate
 fetch
@@ -78,34 +78,34 @@ tuition
 artefact
 rather
 aerobic |  
-| bip_39_word_new_line2 | smooth
+| bip_39_word_new_line_2 | smooth
 ginger |  
-| bip_39_word_new_line3 | smooth
+| bip_39_word_new_line_3 | smooth
 ginger
 imitate |  
-| bip_39_word_new_line4 | smooth
+| bip_39_word_new_line_4 | smooth
 ginger
 imitate
 fetch |  
-| bip_39_word_new_line5 | smooth
+| bip_39_word_new_line_5 | smooth
 ginger
 imitate
 fetch
 object |  
-| bip_39_word_new_line6 | smooth
+| bip_39_word_new_line_6 | smooth
 ginger
 imitate
 fetch
 object
 arrow |  
-| bip_39_word_new_line7 | smooth
+| bip_39_word_new_line_7 | smooth
 ginger
 imitate
 fetch
 object
 arrow
 obvious |  
-| bip_39_word_new_line8 | smooth
+| bip_39_word_new_line_8 | smooth
 ginger
 imitate
 fetch
@@ -113,7 +113,7 @@ object
 arrow
 obvious
 blouse |  
-| bip_39_word_new_line9 | smooth
+| bip_39_word_new_line_9 | smooth
 ginger
 imitate
 fetch

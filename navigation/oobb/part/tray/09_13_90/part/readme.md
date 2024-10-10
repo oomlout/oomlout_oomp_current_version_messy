@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | brand |  
-| bip_39_word_new_br10 | brand<br>empower<br>whale<br>coast<br>comic<br>claw<br>ski<br>make<br>staff<br>whisper |  
-| bip_39_word_new_br11 | brand<br>empower<br>whale<br>coast<br>comic<br>claw<br>ski<br>make<br>staff<br>whisper<br>gloom |  
-| bip_39_word_new_br12 | brand<br>empower<br>whale<br>coast<br>comic<br>claw<br>ski<br>make<br>staff<br>whisper<br>gloom<br>addict |  
-| bip_39_word_new_br2 | brand<br>empower |  
-| bip_39_word_new_br3 | brand<br>empower<br>whale |  
-| bip_39_word_new_br4 | brand<br>empower<br>whale<br>coast |  
-| bip_39_word_new_br5 | brand<br>empower<br>whale<br>coast<br>comic |  
-| bip_39_word_new_br6 | brand<br>empower<br>whale<br>coast<br>comic<br>claw |  
-| bip_39_word_new_br7 | brand<br>empower<br>whale<br>coast<br>comic<br>claw<br>ski |  
-| bip_39_word_new_br8 | brand<br>empower<br>whale<br>coast<br>comic<br>claw<br>ski<br>make |  
-| bip_39_word_new_br9 | brand<br>empower<br>whale<br>coast<br>comic<br>claw<br>ski<br>make<br>staff |  
-| bip_39_word_new_line1 | brand |  
-| bip_39_word_new_line10 | brand
+| bip_39_word_new_br_1 | brand |  
+| bip_39_word_new_br_10 | brand<br>empower<br>whale<br>coast<br>comic<br>claw<br>ski<br>make<br>staff<br>whisper |  
+| bip_39_word_new_br_11 | brand<br>empower<br>whale<br>coast<br>comic<br>claw<br>ski<br>make<br>staff<br>whisper<br>gloom |  
+| bip_39_word_new_br_12 | brand<br>empower<br>whale<br>coast<br>comic<br>claw<br>ski<br>make<br>staff<br>whisper<br>gloom<br>addict |  
+| bip_39_word_new_br_2 | brand<br>empower |  
+| bip_39_word_new_br_3 | brand<br>empower<br>whale |  
+| bip_39_word_new_br_4 | brand<br>empower<br>whale<br>coast |  
+| bip_39_word_new_br_5 | brand<br>empower<br>whale<br>coast<br>comic |  
+| bip_39_word_new_br_6 | brand<br>empower<br>whale<br>coast<br>comic<br>claw |  
+| bip_39_word_new_br_7 | brand<br>empower<br>whale<br>coast<br>comic<br>claw<br>ski |  
+| bip_39_word_new_br_8 | brand<br>empower<br>whale<br>coast<br>comic<br>claw<br>ski<br>make |  
+| bip_39_word_new_br_9 | brand<br>empower<br>whale<br>coast<br>comic<br>claw<br>ski<br>make<br>staff |  
+| bip_39_word_new_line_1 | brand |  
+| bip_39_word_new_line_10 | brand
 empower
 whale
 coast
@@ -55,7 +55,7 @@ ski
 make
 staff
 whisper |  
-| bip_39_word_new_line11 | brand
+| bip_39_word_new_line_11 | brand
 empower
 whale
 coast
@@ -66,7 +66,7 @@ make
 staff
 whisper
 gloom |  
-| bip_39_word_new_line12 | brand
+| bip_39_word_new_line_12 | brand
 empower
 whale
 coast
@@ -78,34 +78,34 @@ staff
 whisper
 gloom
 addict |  
-| bip_39_word_new_line2 | brand
+| bip_39_word_new_line_2 | brand
 empower |  
-| bip_39_word_new_line3 | brand
+| bip_39_word_new_line_3 | brand
 empower
 whale |  
-| bip_39_word_new_line4 | brand
+| bip_39_word_new_line_4 | brand
 empower
 whale
 coast |  
-| bip_39_word_new_line5 | brand
+| bip_39_word_new_line_5 | brand
 empower
 whale
 coast
 comic |  
-| bip_39_word_new_line6 | brand
+| bip_39_word_new_line_6 | brand
 empower
 whale
 coast
 comic
 claw |  
-| bip_39_word_new_line7 | brand
+| bip_39_word_new_line_7 | brand
 empower
 whale
 coast
 comic
 claw
 ski |  
-| bip_39_word_new_line8 | brand
+| bip_39_word_new_line_8 | brand
 empower
 whale
 coast
@@ -113,7 +113,7 @@ comic
 claw
 ski
 make |  
-| bip_39_word_new_line9 | brand
+| bip_39_word_new_line_9 | brand
 empower
 whale
 coast

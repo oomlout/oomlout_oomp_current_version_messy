@@ -1,17 +1,17 @@
-bip_39_word_new_br1: tobacco
-bip_39_word_new_br10: tobacco<br>photo<br>zero<br>matrix<br>visit<br>pet<br>deer<br>maid<br>employ<br>lock
-bip_39_word_new_br11: tobacco<br>photo<br>zero<br>matrix<br>visit<br>pet<br>deer<br>maid<br>employ<br>lock<br>tenant
-bip_39_word_new_br12: tobacco<br>photo<br>zero<br>matrix<br>visit<br>pet<br>deer<br>maid<br>employ<br>lock<br>tenant<br>act
-bip_39_word_new_br2: tobacco<br>photo
-bip_39_word_new_br3: tobacco<br>photo<br>zero
-bip_39_word_new_br4: tobacco<br>photo<br>zero<br>matrix
-bip_39_word_new_br5: tobacco<br>photo<br>zero<br>matrix<br>visit
-bip_39_word_new_br6: tobacco<br>photo<br>zero<br>matrix<br>visit<br>pet
-bip_39_word_new_br7: tobacco<br>photo<br>zero<br>matrix<br>visit<br>pet<br>deer
-bip_39_word_new_br8: tobacco<br>photo<br>zero<br>matrix<br>visit<br>pet<br>deer<br>maid
-bip_39_word_new_br9: tobacco<br>photo<br>zero<br>matrix<br>visit<br>pet<br>deer<br>maid<br>employ
-bip_39_word_new_line1: tobacco
-bip_39_word_new_line10: 'tobacco
+bip_39_word_new_br_1: tobacco
+bip_39_word_new_br_10: tobacco<br>photo<br>zero<br>matrix<br>visit<br>pet<br>deer<br>maid<br>employ<br>lock
+bip_39_word_new_br_11: tobacco<br>photo<br>zero<br>matrix<br>visit<br>pet<br>deer<br>maid<br>employ<br>lock<br>tenant
+bip_39_word_new_br_12: tobacco<br>photo<br>zero<br>matrix<br>visit<br>pet<br>deer<br>maid<br>employ<br>lock<br>tenant<br>act
+bip_39_word_new_br_2: tobacco<br>photo
+bip_39_word_new_br_3: tobacco<br>photo<br>zero
+bip_39_word_new_br_4: tobacco<br>photo<br>zero<br>matrix
+bip_39_word_new_br_5: tobacco<br>photo<br>zero<br>matrix<br>visit
+bip_39_word_new_br_6: tobacco<br>photo<br>zero<br>matrix<br>visit<br>pet
+bip_39_word_new_br_7: tobacco<br>photo<br>zero<br>matrix<br>visit<br>pet<br>deer
+bip_39_word_new_br_8: tobacco<br>photo<br>zero<br>matrix<br>visit<br>pet<br>deer<br>maid
+bip_39_word_new_br_9: tobacco<br>photo<br>zero<br>matrix<br>visit<br>pet<br>deer<br>maid<br>employ
+bip_39_word_new_line_1: tobacco
+bip_39_word_new_line_10: 'tobacco
 
   photo
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'tobacco
   employ
 
   lock'
-bip_39_word_new_line11: 'tobacco
+bip_39_word_new_line_11: 'tobacco
 
   photo
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'tobacco
   lock
 
   tenant'
-bip_39_word_new_line12: 'tobacco
+bip_39_word_new_line_12: 'tobacco
 
   photo
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'tobacco
   tenant
 
   act'
-bip_39_word_new_line2: 'tobacco
+bip_39_word_new_line_2: 'tobacco
 
   photo'
-bip_39_word_new_line3: 'tobacco
+bip_39_word_new_line_3: 'tobacco
 
   photo
 
   zero'
-bip_39_word_new_line4: 'tobacco
+bip_39_word_new_line_4: 'tobacco
 
   photo
 
   zero
 
   matrix'
-bip_39_word_new_line5: 'tobacco
+bip_39_word_new_line_5: 'tobacco
 
   photo
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'tobacco
   matrix
 
   visit'
-bip_39_word_new_line6: 'tobacco
+bip_39_word_new_line_6: 'tobacco
 
   photo
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'tobacco
   visit
 
   pet'
-bip_39_word_new_line7: 'tobacco
+bip_39_word_new_line_7: 'tobacco
 
   photo
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'tobacco
   pet
 
   deer'
-bip_39_word_new_line8: 'tobacco
+bip_39_word_new_line_8: 'tobacco
 
   photo
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'tobacco
   deer
 
   maid'
-bip_39_word_new_line9: 'tobacco
+bip_39_word_new_line_9: 'tobacco
 
   photo
 

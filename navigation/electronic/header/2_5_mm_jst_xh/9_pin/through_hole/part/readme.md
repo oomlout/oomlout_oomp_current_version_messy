@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | spawn |  
-| bip_39_word_new_br10 | spawn<br>load<br>kitten<br>someone<br>virtual<br>produce<br>snow<br>captain<br>birth<br>media |  
-| bip_39_word_new_br11 | spawn<br>load<br>kitten<br>someone<br>virtual<br>produce<br>snow<br>captain<br>birth<br>media<br>broccoli |  
-| bip_39_word_new_br12 | spawn<br>load<br>kitten<br>someone<br>virtual<br>produce<br>snow<br>captain<br>birth<br>media<br>broccoli<br>achieve |  
-| bip_39_word_new_br2 | spawn<br>load |  
-| bip_39_word_new_br3 | spawn<br>load<br>kitten |  
-| bip_39_word_new_br4 | spawn<br>load<br>kitten<br>someone |  
-| bip_39_word_new_br5 | spawn<br>load<br>kitten<br>someone<br>virtual |  
-| bip_39_word_new_br6 | spawn<br>load<br>kitten<br>someone<br>virtual<br>produce |  
-| bip_39_word_new_br7 | spawn<br>load<br>kitten<br>someone<br>virtual<br>produce<br>snow |  
-| bip_39_word_new_br8 | spawn<br>load<br>kitten<br>someone<br>virtual<br>produce<br>snow<br>captain |  
-| bip_39_word_new_br9 | spawn<br>load<br>kitten<br>someone<br>virtual<br>produce<br>snow<br>captain<br>birth |  
-| bip_39_word_new_line1 | spawn |  
-| bip_39_word_new_line10 | spawn
+| bip_39_word_new_br_1 | spawn |  
+| bip_39_word_new_br_10 | spawn<br>load<br>kitten<br>someone<br>virtual<br>produce<br>snow<br>captain<br>birth<br>media |  
+| bip_39_word_new_br_11 | spawn<br>load<br>kitten<br>someone<br>virtual<br>produce<br>snow<br>captain<br>birth<br>media<br>broccoli |  
+| bip_39_word_new_br_12 | spawn<br>load<br>kitten<br>someone<br>virtual<br>produce<br>snow<br>captain<br>birth<br>media<br>broccoli<br>achieve |  
+| bip_39_word_new_br_2 | spawn<br>load |  
+| bip_39_word_new_br_3 | spawn<br>load<br>kitten |  
+| bip_39_word_new_br_4 | spawn<br>load<br>kitten<br>someone |  
+| bip_39_word_new_br_5 | spawn<br>load<br>kitten<br>someone<br>virtual |  
+| bip_39_word_new_br_6 | spawn<br>load<br>kitten<br>someone<br>virtual<br>produce |  
+| bip_39_word_new_br_7 | spawn<br>load<br>kitten<br>someone<br>virtual<br>produce<br>snow |  
+| bip_39_word_new_br_8 | spawn<br>load<br>kitten<br>someone<br>virtual<br>produce<br>snow<br>captain |  
+| bip_39_word_new_br_9 | spawn<br>load<br>kitten<br>someone<br>virtual<br>produce<br>snow<br>captain<br>birth |  
+| bip_39_word_new_line_1 | spawn |  
+| bip_39_word_new_line_10 | spawn
 load
 kitten
 someone
@@ -55,7 +55,7 @@ snow
 captain
 birth
 media |  
-| bip_39_word_new_line11 | spawn
+| bip_39_word_new_line_11 | spawn
 load
 kitten
 someone
@@ -66,7 +66,7 @@ captain
 birth
 media
 broccoli |  
-| bip_39_word_new_line12 | spawn
+| bip_39_word_new_line_12 | spawn
 load
 kitten
 someone
@@ -78,34 +78,34 @@ birth
 media
 broccoli
 achieve |  
-| bip_39_word_new_line2 | spawn
+| bip_39_word_new_line_2 | spawn
 load |  
-| bip_39_word_new_line3 | spawn
+| bip_39_word_new_line_3 | spawn
 load
 kitten |  
-| bip_39_word_new_line4 | spawn
+| bip_39_word_new_line_4 | spawn
 load
 kitten
 someone |  
-| bip_39_word_new_line5 | spawn
+| bip_39_word_new_line_5 | spawn
 load
 kitten
 someone
 virtual |  
-| bip_39_word_new_line6 | spawn
+| bip_39_word_new_line_6 | spawn
 load
 kitten
 someone
 virtual
 produce |  
-| bip_39_word_new_line7 | spawn
+| bip_39_word_new_line_7 | spawn
 load
 kitten
 someone
 virtual
 produce
 snow |  
-| bip_39_word_new_line8 | spawn
+| bip_39_word_new_line_8 | spawn
 load
 kitten
 someone
@@ -113,7 +113,7 @@ virtual
 produce
 snow
 captain |  
-| bip_39_word_new_line9 | spawn
+| bip_39_word_new_line_9 | spawn
 load
 kitten
 someone

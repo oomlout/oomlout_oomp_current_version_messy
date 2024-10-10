@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | point |  
-| bip_39_word_new_br10 | point<br>remain<br>diary<br>sheriff<br>maid<br>size<br>tail<br>mistake<br>right<br>man |  
-| bip_39_word_new_br11 | point<br>remain<br>diary<br>sheriff<br>maid<br>size<br>tail<br>mistake<br>right<br>man<br>orphan |  
-| bip_39_word_new_br12 | point<br>remain<br>diary<br>sheriff<br>maid<br>size<br>tail<br>mistake<br>right<br>man<br>orphan<br>addict |  
-| bip_39_word_new_br2 | point<br>remain |  
-| bip_39_word_new_br3 | point<br>remain<br>diary |  
-| bip_39_word_new_br4 | point<br>remain<br>diary<br>sheriff |  
-| bip_39_word_new_br5 | point<br>remain<br>diary<br>sheriff<br>maid |  
-| bip_39_word_new_br6 | point<br>remain<br>diary<br>sheriff<br>maid<br>size |  
-| bip_39_word_new_br7 | point<br>remain<br>diary<br>sheriff<br>maid<br>size<br>tail |  
-| bip_39_word_new_br8 | point<br>remain<br>diary<br>sheriff<br>maid<br>size<br>tail<br>mistake |  
-| bip_39_word_new_br9 | point<br>remain<br>diary<br>sheriff<br>maid<br>size<br>tail<br>mistake<br>right |  
-| bip_39_word_new_line1 | point |  
-| bip_39_word_new_line10 | point
+| bip_39_word_new_br_1 | point |  
+| bip_39_word_new_br_10 | point<br>remain<br>diary<br>sheriff<br>maid<br>size<br>tail<br>mistake<br>right<br>man |  
+| bip_39_word_new_br_11 | point<br>remain<br>diary<br>sheriff<br>maid<br>size<br>tail<br>mistake<br>right<br>man<br>orphan |  
+| bip_39_word_new_br_12 | point<br>remain<br>diary<br>sheriff<br>maid<br>size<br>tail<br>mistake<br>right<br>man<br>orphan<br>addict |  
+| bip_39_word_new_br_2 | point<br>remain |  
+| bip_39_word_new_br_3 | point<br>remain<br>diary |  
+| bip_39_word_new_br_4 | point<br>remain<br>diary<br>sheriff |  
+| bip_39_word_new_br_5 | point<br>remain<br>diary<br>sheriff<br>maid |  
+| bip_39_word_new_br_6 | point<br>remain<br>diary<br>sheriff<br>maid<br>size |  
+| bip_39_word_new_br_7 | point<br>remain<br>diary<br>sheriff<br>maid<br>size<br>tail |  
+| bip_39_word_new_br_8 | point<br>remain<br>diary<br>sheriff<br>maid<br>size<br>tail<br>mistake |  
+| bip_39_word_new_br_9 | point<br>remain<br>diary<br>sheriff<br>maid<br>size<br>tail<br>mistake<br>right |  
+| bip_39_word_new_line_1 | point |  
+| bip_39_word_new_line_10 | point
 remain
 diary
 sheriff
@@ -55,7 +55,7 @@ tail
 mistake
 right
 man |  
-| bip_39_word_new_line11 | point
+| bip_39_word_new_line_11 | point
 remain
 diary
 sheriff
@@ -66,7 +66,7 @@ mistake
 right
 man
 orphan |  
-| bip_39_word_new_line12 | point
+| bip_39_word_new_line_12 | point
 remain
 diary
 sheriff
@@ -78,34 +78,34 @@ right
 man
 orphan
 addict |  
-| bip_39_word_new_line2 | point
+| bip_39_word_new_line_2 | point
 remain |  
-| bip_39_word_new_line3 | point
+| bip_39_word_new_line_3 | point
 remain
 diary |  
-| bip_39_word_new_line4 | point
+| bip_39_word_new_line_4 | point
 remain
 diary
 sheriff |  
-| bip_39_word_new_line5 | point
+| bip_39_word_new_line_5 | point
 remain
 diary
 sheriff
 maid |  
-| bip_39_word_new_line6 | point
+| bip_39_word_new_line_6 | point
 remain
 diary
 sheriff
 maid
 size |  
-| bip_39_word_new_line7 | point
+| bip_39_word_new_line_7 | point
 remain
 diary
 sheriff
 maid
 size
 tail |  
-| bip_39_word_new_line8 | point
+| bip_39_word_new_line_8 | point
 remain
 diary
 sheriff
@@ -113,7 +113,7 @@ maid
 size
 tail
 mistake |  
-| bip_39_word_new_line9 | point
+| bip_39_word_new_line_9 | point
 remain
 diary
 sheriff

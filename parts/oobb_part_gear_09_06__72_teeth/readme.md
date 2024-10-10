@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | margin |  
-| bip_39_word_new_br10 | margin<br>exhibit<br>city<br>material<br>economy<br>used<br>female<br>turn<br>shadow<br>income |  
-| bip_39_word_new_br11 | margin<br>exhibit<br>city<br>material<br>economy<br>used<br>female<br>turn<br>shadow<br>income<br>switch |  
-| bip_39_word_new_br12 | margin<br>exhibit<br>city<br>material<br>economy<br>used<br>female<br>turn<br>shadow<br>income<br>switch<br>advance |  
-| bip_39_word_new_br2 | margin<br>exhibit |  
-| bip_39_word_new_br3 | margin<br>exhibit<br>city |  
-| bip_39_word_new_br4 | margin<br>exhibit<br>city<br>material |  
-| bip_39_word_new_br5 | margin<br>exhibit<br>city<br>material<br>economy |  
-| bip_39_word_new_br6 | margin<br>exhibit<br>city<br>material<br>economy<br>used |  
-| bip_39_word_new_br7 | margin<br>exhibit<br>city<br>material<br>economy<br>used<br>female |  
-| bip_39_word_new_br8 | margin<br>exhibit<br>city<br>material<br>economy<br>used<br>female<br>turn |  
-| bip_39_word_new_br9 | margin<br>exhibit<br>city<br>material<br>economy<br>used<br>female<br>turn<br>shadow |  
-| bip_39_word_new_line1 | margin |  
-| bip_39_word_new_line10 | margin
+| bip_39_word_new_br_1 | margin |  
+| bip_39_word_new_br_10 | margin<br>exhibit<br>city<br>material<br>economy<br>used<br>female<br>turn<br>shadow<br>income |  
+| bip_39_word_new_br_11 | margin<br>exhibit<br>city<br>material<br>economy<br>used<br>female<br>turn<br>shadow<br>income<br>switch |  
+| bip_39_word_new_br_12 | margin<br>exhibit<br>city<br>material<br>economy<br>used<br>female<br>turn<br>shadow<br>income<br>switch<br>advance |  
+| bip_39_word_new_br_2 | margin<br>exhibit |  
+| bip_39_word_new_br_3 | margin<br>exhibit<br>city |  
+| bip_39_word_new_br_4 | margin<br>exhibit<br>city<br>material |  
+| bip_39_word_new_br_5 | margin<br>exhibit<br>city<br>material<br>economy |  
+| bip_39_word_new_br_6 | margin<br>exhibit<br>city<br>material<br>economy<br>used |  
+| bip_39_word_new_br_7 | margin<br>exhibit<br>city<br>material<br>economy<br>used<br>female |  
+| bip_39_word_new_br_8 | margin<br>exhibit<br>city<br>material<br>economy<br>used<br>female<br>turn |  
+| bip_39_word_new_br_9 | margin<br>exhibit<br>city<br>material<br>economy<br>used<br>female<br>turn<br>shadow |  
+| bip_39_word_new_line_1 | margin |  
+| bip_39_word_new_line_10 | margin
 exhibit
 city
 material
@@ -55,7 +55,7 @@ female
 turn
 shadow
 income |  
-| bip_39_word_new_line11 | margin
+| bip_39_word_new_line_11 | margin
 exhibit
 city
 material
@@ -66,7 +66,7 @@ turn
 shadow
 income
 switch |  
-| bip_39_word_new_line12 | margin
+| bip_39_word_new_line_12 | margin
 exhibit
 city
 material
@@ -78,34 +78,34 @@ shadow
 income
 switch
 advance |  
-| bip_39_word_new_line2 | margin
+| bip_39_word_new_line_2 | margin
 exhibit |  
-| bip_39_word_new_line3 | margin
+| bip_39_word_new_line_3 | margin
 exhibit
 city |  
-| bip_39_word_new_line4 | margin
+| bip_39_word_new_line_4 | margin
 exhibit
 city
 material |  
-| bip_39_word_new_line5 | margin
+| bip_39_word_new_line_5 | margin
 exhibit
 city
 material
 economy |  
-| bip_39_word_new_line6 | margin
+| bip_39_word_new_line_6 | margin
 exhibit
 city
 material
 economy
 used |  
-| bip_39_word_new_line7 | margin
+| bip_39_word_new_line_7 | margin
 exhibit
 city
 material
 economy
 used
 female |  
-| bip_39_word_new_line8 | margin
+| bip_39_word_new_line_8 | margin
 exhibit
 city
 material
@@ -113,7 +113,7 @@ economy
 used
 female
 turn |  
-| bip_39_word_new_line9 | margin
+| bip_39_word_new_line_9 | margin
 exhibit
 city
 material

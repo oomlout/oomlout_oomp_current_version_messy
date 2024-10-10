@@ -1,17 +1,17 @@
-bip_39_word_new_br1: juice
-bip_39_word_new_br10: juice<br>story<br>between<br>grow<br>grow<br>charge<br>capable<br>nuclear<br>census<br>trend
-bip_39_word_new_br11: juice<br>story<br>between<br>grow<br>grow<br>charge<br>capable<br>nuclear<br>census<br>trend<br>sister
-bip_39_word_new_br12: juice<br>story<br>between<br>grow<br>grow<br>charge<br>capable<br>nuclear<br>census<br>trend<br>sister<br>artwork
-bip_39_word_new_br2: juice<br>story
-bip_39_word_new_br3: juice<br>story<br>between
-bip_39_word_new_br4: juice<br>story<br>between<br>grow
-bip_39_word_new_br5: juice<br>story<br>between<br>grow<br>grow
-bip_39_word_new_br6: juice<br>story<br>between<br>grow<br>grow<br>charge
-bip_39_word_new_br7: juice<br>story<br>between<br>grow<br>grow<br>charge<br>capable
-bip_39_word_new_br8: juice<br>story<br>between<br>grow<br>grow<br>charge<br>capable<br>nuclear
-bip_39_word_new_br9: juice<br>story<br>between<br>grow<br>grow<br>charge<br>capable<br>nuclear<br>census
-bip_39_word_new_line1: juice
-bip_39_word_new_line10: 'juice
+bip_39_word_new_br_1: juice
+bip_39_word_new_br_10: juice<br>story<br>between<br>grow<br>grow<br>charge<br>capable<br>nuclear<br>census<br>trend
+bip_39_word_new_br_11: juice<br>story<br>between<br>grow<br>grow<br>charge<br>capable<br>nuclear<br>census<br>trend<br>sister
+bip_39_word_new_br_12: juice<br>story<br>between<br>grow<br>grow<br>charge<br>capable<br>nuclear<br>census<br>trend<br>sister<br>artwork
+bip_39_word_new_br_2: juice<br>story
+bip_39_word_new_br_3: juice<br>story<br>between
+bip_39_word_new_br_4: juice<br>story<br>between<br>grow
+bip_39_word_new_br_5: juice<br>story<br>between<br>grow<br>grow
+bip_39_word_new_br_6: juice<br>story<br>between<br>grow<br>grow<br>charge
+bip_39_word_new_br_7: juice<br>story<br>between<br>grow<br>grow<br>charge<br>capable
+bip_39_word_new_br_8: juice<br>story<br>between<br>grow<br>grow<br>charge<br>capable<br>nuclear
+bip_39_word_new_br_9: juice<br>story<br>between<br>grow<br>grow<br>charge<br>capable<br>nuclear<br>census
+bip_39_word_new_line_1: juice
+bip_39_word_new_line_10: 'juice
 
   story
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'juice
   census
 
   trend'
-bip_39_word_new_line11: 'juice
+bip_39_word_new_line_11: 'juice
 
   story
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'juice
   trend
 
   sister'
-bip_39_word_new_line12: 'juice
+bip_39_word_new_line_12: 'juice
 
   story
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'juice
   sister
 
   artwork'
-bip_39_word_new_line2: 'juice
+bip_39_word_new_line_2: 'juice
 
   story'
-bip_39_word_new_line3: 'juice
+bip_39_word_new_line_3: 'juice
 
   story
 
   between'
-bip_39_word_new_line4: 'juice
+bip_39_word_new_line_4: 'juice
 
   story
 
   between
 
   grow'
-bip_39_word_new_line5: 'juice
+bip_39_word_new_line_5: 'juice
 
   story
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'juice
   grow
 
   grow'
-bip_39_word_new_line6: 'juice
+bip_39_word_new_line_6: 'juice
 
   story
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'juice
   grow
 
   charge'
-bip_39_word_new_line7: 'juice
+bip_39_word_new_line_7: 'juice
 
   story
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'juice
   charge
 
   capable'
-bip_39_word_new_line8: 'juice
+bip_39_word_new_line_8: 'juice
 
   story
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'juice
   capable
 
   nuclear'
-bip_39_word_new_line9: 'juice
+bip_39_word_new_line_9: 'juice
 
   story
 

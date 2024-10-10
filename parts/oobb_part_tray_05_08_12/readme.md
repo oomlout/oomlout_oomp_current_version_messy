@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | knee |  
-| bip_39_word_new_br10 | knee<br>pizza<br>thought<br>capital<br>exotic<br>remove<br>parade<br>gravity<br>lesson<br>tilt |  
-| bip_39_word_new_br11 | knee<br>pizza<br>thought<br>capital<br>exotic<br>remove<br>parade<br>gravity<br>lesson<br>tilt<br>hurry |  
-| bip_39_word_new_br12 | knee<br>pizza<br>thought<br>capital<br>exotic<br>remove<br>parade<br>gravity<br>lesson<br>tilt<br>hurry<br>aim |  
-| bip_39_word_new_br2 | knee<br>pizza |  
-| bip_39_word_new_br3 | knee<br>pizza<br>thought |  
-| bip_39_word_new_br4 | knee<br>pizza<br>thought<br>capital |  
-| bip_39_word_new_br5 | knee<br>pizza<br>thought<br>capital<br>exotic |  
-| bip_39_word_new_br6 | knee<br>pizza<br>thought<br>capital<br>exotic<br>remove |  
-| bip_39_word_new_br7 | knee<br>pizza<br>thought<br>capital<br>exotic<br>remove<br>parade |  
-| bip_39_word_new_br8 | knee<br>pizza<br>thought<br>capital<br>exotic<br>remove<br>parade<br>gravity |  
-| bip_39_word_new_br9 | knee<br>pizza<br>thought<br>capital<br>exotic<br>remove<br>parade<br>gravity<br>lesson |  
-| bip_39_word_new_line1 | knee |  
-| bip_39_word_new_line10 | knee
+| bip_39_word_new_br_1 | knee |  
+| bip_39_word_new_br_10 | knee<br>pizza<br>thought<br>capital<br>exotic<br>remove<br>parade<br>gravity<br>lesson<br>tilt |  
+| bip_39_word_new_br_11 | knee<br>pizza<br>thought<br>capital<br>exotic<br>remove<br>parade<br>gravity<br>lesson<br>tilt<br>hurry |  
+| bip_39_word_new_br_12 | knee<br>pizza<br>thought<br>capital<br>exotic<br>remove<br>parade<br>gravity<br>lesson<br>tilt<br>hurry<br>aim |  
+| bip_39_word_new_br_2 | knee<br>pizza |  
+| bip_39_word_new_br_3 | knee<br>pizza<br>thought |  
+| bip_39_word_new_br_4 | knee<br>pizza<br>thought<br>capital |  
+| bip_39_word_new_br_5 | knee<br>pizza<br>thought<br>capital<br>exotic |  
+| bip_39_word_new_br_6 | knee<br>pizza<br>thought<br>capital<br>exotic<br>remove |  
+| bip_39_word_new_br_7 | knee<br>pizza<br>thought<br>capital<br>exotic<br>remove<br>parade |  
+| bip_39_word_new_br_8 | knee<br>pizza<br>thought<br>capital<br>exotic<br>remove<br>parade<br>gravity |  
+| bip_39_word_new_br_9 | knee<br>pizza<br>thought<br>capital<br>exotic<br>remove<br>parade<br>gravity<br>lesson |  
+| bip_39_word_new_line_1 | knee |  
+| bip_39_word_new_line_10 | knee
 pizza
 thought
 capital
@@ -55,7 +55,7 @@ parade
 gravity
 lesson
 tilt |  
-| bip_39_word_new_line11 | knee
+| bip_39_word_new_line_11 | knee
 pizza
 thought
 capital
@@ -66,7 +66,7 @@ gravity
 lesson
 tilt
 hurry |  
-| bip_39_word_new_line12 | knee
+| bip_39_word_new_line_12 | knee
 pizza
 thought
 capital
@@ -78,34 +78,34 @@ lesson
 tilt
 hurry
 aim |  
-| bip_39_word_new_line2 | knee
+| bip_39_word_new_line_2 | knee
 pizza |  
-| bip_39_word_new_line3 | knee
+| bip_39_word_new_line_3 | knee
 pizza
 thought |  
-| bip_39_word_new_line4 | knee
+| bip_39_word_new_line_4 | knee
 pizza
 thought
 capital |  
-| bip_39_word_new_line5 | knee
+| bip_39_word_new_line_5 | knee
 pizza
 thought
 capital
 exotic |  
-| bip_39_word_new_line6 | knee
+| bip_39_word_new_line_6 | knee
 pizza
 thought
 capital
 exotic
 remove |  
-| bip_39_word_new_line7 | knee
+| bip_39_word_new_line_7 | knee
 pizza
 thought
 capital
 exotic
 remove
 parade |  
-| bip_39_word_new_line8 | knee
+| bip_39_word_new_line_8 | knee
 pizza
 thought
 capital
@@ -113,7 +113,7 @@ exotic
 remove
 parade
 gravity |  
-| bip_39_word_new_line9 | knee
+| bip_39_word_new_line_9 | knee
 pizza
 thought
 capital

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | amazing |  
-| bip_39_word_new_br10 | amazing<br>predict<br>despair<br>mask<br>dignity<br>wave<br>shock<br>trend<br>never<br>adapt |  
-| bip_39_word_new_br11 | amazing<br>predict<br>despair<br>mask<br>dignity<br>wave<br>shock<br>trend<br>never<br>adapt<br>valid |  
-| bip_39_word_new_br12 | amazing<br>predict<br>despair<br>mask<br>dignity<br>wave<br>shock<br>trend<br>never<br>adapt<br>valid<br>army |  
-| bip_39_word_new_br2 | amazing<br>predict |  
-| bip_39_word_new_br3 | amazing<br>predict<br>despair |  
-| bip_39_word_new_br4 | amazing<br>predict<br>despair<br>mask |  
-| bip_39_word_new_br5 | amazing<br>predict<br>despair<br>mask<br>dignity |  
-| bip_39_word_new_br6 | amazing<br>predict<br>despair<br>mask<br>dignity<br>wave |  
-| bip_39_word_new_br7 | amazing<br>predict<br>despair<br>mask<br>dignity<br>wave<br>shock |  
-| bip_39_word_new_br8 | amazing<br>predict<br>despair<br>mask<br>dignity<br>wave<br>shock<br>trend |  
-| bip_39_word_new_br9 | amazing<br>predict<br>despair<br>mask<br>dignity<br>wave<br>shock<br>trend<br>never |  
-| bip_39_word_new_line1 | amazing |  
-| bip_39_word_new_line10 | amazing
+| bip_39_word_new_br_1 | amazing |  
+| bip_39_word_new_br_10 | amazing<br>predict<br>despair<br>mask<br>dignity<br>wave<br>shock<br>trend<br>never<br>adapt |  
+| bip_39_word_new_br_11 | amazing<br>predict<br>despair<br>mask<br>dignity<br>wave<br>shock<br>trend<br>never<br>adapt<br>valid |  
+| bip_39_word_new_br_12 | amazing<br>predict<br>despair<br>mask<br>dignity<br>wave<br>shock<br>trend<br>never<br>adapt<br>valid<br>army |  
+| bip_39_word_new_br_2 | amazing<br>predict |  
+| bip_39_word_new_br_3 | amazing<br>predict<br>despair |  
+| bip_39_word_new_br_4 | amazing<br>predict<br>despair<br>mask |  
+| bip_39_word_new_br_5 | amazing<br>predict<br>despair<br>mask<br>dignity |  
+| bip_39_word_new_br_6 | amazing<br>predict<br>despair<br>mask<br>dignity<br>wave |  
+| bip_39_word_new_br_7 | amazing<br>predict<br>despair<br>mask<br>dignity<br>wave<br>shock |  
+| bip_39_word_new_br_8 | amazing<br>predict<br>despair<br>mask<br>dignity<br>wave<br>shock<br>trend |  
+| bip_39_word_new_br_9 | amazing<br>predict<br>despair<br>mask<br>dignity<br>wave<br>shock<br>trend<br>never |  
+| bip_39_word_new_line_1 | amazing |  
+| bip_39_word_new_line_10 | amazing
 predict
 despair
 mask
@@ -55,7 +55,7 @@ shock
 trend
 never
 adapt |  
-| bip_39_word_new_line11 | amazing
+| bip_39_word_new_line_11 | amazing
 predict
 despair
 mask
@@ -66,7 +66,7 @@ trend
 never
 adapt
 valid |  
-| bip_39_word_new_line12 | amazing
+| bip_39_word_new_line_12 | amazing
 predict
 despair
 mask
@@ -78,34 +78,34 @@ never
 adapt
 valid
 army |  
-| bip_39_word_new_line2 | amazing
+| bip_39_word_new_line_2 | amazing
 predict |  
-| bip_39_word_new_line3 | amazing
+| bip_39_word_new_line_3 | amazing
 predict
 despair |  
-| bip_39_word_new_line4 | amazing
+| bip_39_word_new_line_4 | amazing
 predict
 despair
 mask |  
-| bip_39_word_new_line5 | amazing
+| bip_39_word_new_line_5 | amazing
 predict
 despair
 mask
 dignity |  
-| bip_39_word_new_line6 | amazing
+| bip_39_word_new_line_6 | amazing
 predict
 despair
 mask
 dignity
 wave |  
-| bip_39_word_new_line7 | amazing
+| bip_39_word_new_line_7 | amazing
 predict
 despair
 mask
 dignity
 wave
 shock |  
-| bip_39_word_new_line8 | amazing
+| bip_39_word_new_line_8 | amazing
 predict
 despair
 mask
@@ -113,7 +113,7 @@ dignity
 wave
 shock
 trend |  
-| bip_39_word_new_line9 | amazing
+| bip_39_word_new_line_9 | amazing
 predict
 despair
 mask

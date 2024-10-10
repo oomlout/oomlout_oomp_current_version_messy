@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | comic |  
-| bip_39_word_new_br10 | comic<br>crime<br>series<br>train<br>vibrant<br>taxi<br>spin<br>pond<br>obey<br>kiwi |  
-| bip_39_word_new_br11 | comic<br>crime<br>series<br>train<br>vibrant<br>taxi<br>spin<br>pond<br>obey<br>kiwi<br>end |  
-| bip_39_word_new_br12 | comic<br>crime<br>series<br>train<br>vibrant<br>taxi<br>spin<br>pond<br>obey<br>kiwi<br>end<br>any |  
-| bip_39_word_new_br2 | comic<br>crime |  
-| bip_39_word_new_br3 | comic<br>crime<br>series |  
-| bip_39_word_new_br4 | comic<br>crime<br>series<br>train |  
-| bip_39_word_new_br5 | comic<br>crime<br>series<br>train<br>vibrant |  
-| bip_39_word_new_br6 | comic<br>crime<br>series<br>train<br>vibrant<br>taxi |  
-| bip_39_word_new_br7 | comic<br>crime<br>series<br>train<br>vibrant<br>taxi<br>spin |  
-| bip_39_word_new_br8 | comic<br>crime<br>series<br>train<br>vibrant<br>taxi<br>spin<br>pond |  
-| bip_39_word_new_br9 | comic<br>crime<br>series<br>train<br>vibrant<br>taxi<br>spin<br>pond<br>obey |  
-| bip_39_word_new_line1 | comic |  
-| bip_39_word_new_line10 | comic
+| bip_39_word_new_br_1 | comic |  
+| bip_39_word_new_br_10 | comic<br>crime<br>series<br>train<br>vibrant<br>taxi<br>spin<br>pond<br>obey<br>kiwi |  
+| bip_39_word_new_br_11 | comic<br>crime<br>series<br>train<br>vibrant<br>taxi<br>spin<br>pond<br>obey<br>kiwi<br>end |  
+| bip_39_word_new_br_12 | comic<br>crime<br>series<br>train<br>vibrant<br>taxi<br>spin<br>pond<br>obey<br>kiwi<br>end<br>any |  
+| bip_39_word_new_br_2 | comic<br>crime |  
+| bip_39_word_new_br_3 | comic<br>crime<br>series |  
+| bip_39_word_new_br_4 | comic<br>crime<br>series<br>train |  
+| bip_39_word_new_br_5 | comic<br>crime<br>series<br>train<br>vibrant |  
+| bip_39_word_new_br_6 | comic<br>crime<br>series<br>train<br>vibrant<br>taxi |  
+| bip_39_word_new_br_7 | comic<br>crime<br>series<br>train<br>vibrant<br>taxi<br>spin |  
+| bip_39_word_new_br_8 | comic<br>crime<br>series<br>train<br>vibrant<br>taxi<br>spin<br>pond |  
+| bip_39_word_new_br_9 | comic<br>crime<br>series<br>train<br>vibrant<br>taxi<br>spin<br>pond<br>obey |  
+| bip_39_word_new_line_1 | comic |  
+| bip_39_word_new_line_10 | comic
 crime
 series
 train
@@ -55,7 +55,7 @@ spin
 pond
 obey
 kiwi |  
-| bip_39_word_new_line11 | comic
+| bip_39_word_new_line_11 | comic
 crime
 series
 train
@@ -66,7 +66,7 @@ pond
 obey
 kiwi
 end |  
-| bip_39_word_new_line12 | comic
+| bip_39_word_new_line_12 | comic
 crime
 series
 train
@@ -78,34 +78,34 @@ obey
 kiwi
 end
 any |  
-| bip_39_word_new_line2 | comic
+| bip_39_word_new_line_2 | comic
 crime |  
-| bip_39_word_new_line3 | comic
+| bip_39_word_new_line_3 | comic
 crime
 series |  
-| bip_39_word_new_line4 | comic
+| bip_39_word_new_line_4 | comic
 crime
 series
 train |  
-| bip_39_word_new_line5 | comic
+| bip_39_word_new_line_5 | comic
 crime
 series
 train
 vibrant |  
-| bip_39_word_new_line6 | comic
+| bip_39_word_new_line_6 | comic
 crime
 series
 train
 vibrant
 taxi |  
-| bip_39_word_new_line7 | comic
+| bip_39_word_new_line_7 | comic
 crime
 series
 train
 vibrant
 taxi
 spin |  
-| bip_39_word_new_line8 | comic
+| bip_39_word_new_line_8 | comic
 crime
 series
 train
@@ -113,7 +113,7 @@ vibrant
 taxi
 spin
 pond |  
-| bip_39_word_new_line9 | comic
+| bip_39_word_new_line_9 | comic
 crime
 series
 train

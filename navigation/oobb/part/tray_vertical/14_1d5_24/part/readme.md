@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | inmate |  
-| bip_39_word_new_br10 | inmate<br>track<br>riot<br>six<br>friend<br>sting<br>any<br>review<br>faculty<br>soup |  
-| bip_39_word_new_br11 | inmate<br>track<br>riot<br>six<br>friend<br>sting<br>any<br>review<br>faculty<br>soup<br>broom |  
-| bip_39_word_new_br12 | inmate<br>track<br>riot<br>six<br>friend<br>sting<br>any<br>review<br>faculty<br>soup<br>broom<br>acquire |  
-| bip_39_word_new_br2 | inmate<br>track |  
-| bip_39_word_new_br3 | inmate<br>track<br>riot |  
-| bip_39_word_new_br4 | inmate<br>track<br>riot<br>six |  
-| bip_39_word_new_br5 | inmate<br>track<br>riot<br>six<br>friend |  
-| bip_39_word_new_br6 | inmate<br>track<br>riot<br>six<br>friend<br>sting |  
-| bip_39_word_new_br7 | inmate<br>track<br>riot<br>six<br>friend<br>sting<br>any |  
-| bip_39_word_new_br8 | inmate<br>track<br>riot<br>six<br>friend<br>sting<br>any<br>review |  
-| bip_39_word_new_br9 | inmate<br>track<br>riot<br>six<br>friend<br>sting<br>any<br>review<br>faculty |  
-| bip_39_word_new_line1 | inmate |  
-| bip_39_word_new_line10 | inmate
+| bip_39_word_new_br_1 | inmate |  
+| bip_39_word_new_br_10 | inmate<br>track<br>riot<br>six<br>friend<br>sting<br>any<br>review<br>faculty<br>soup |  
+| bip_39_word_new_br_11 | inmate<br>track<br>riot<br>six<br>friend<br>sting<br>any<br>review<br>faculty<br>soup<br>broom |  
+| bip_39_word_new_br_12 | inmate<br>track<br>riot<br>six<br>friend<br>sting<br>any<br>review<br>faculty<br>soup<br>broom<br>acquire |  
+| bip_39_word_new_br_2 | inmate<br>track |  
+| bip_39_word_new_br_3 | inmate<br>track<br>riot |  
+| bip_39_word_new_br_4 | inmate<br>track<br>riot<br>six |  
+| bip_39_word_new_br_5 | inmate<br>track<br>riot<br>six<br>friend |  
+| bip_39_word_new_br_6 | inmate<br>track<br>riot<br>six<br>friend<br>sting |  
+| bip_39_word_new_br_7 | inmate<br>track<br>riot<br>six<br>friend<br>sting<br>any |  
+| bip_39_word_new_br_8 | inmate<br>track<br>riot<br>six<br>friend<br>sting<br>any<br>review |  
+| bip_39_word_new_br_9 | inmate<br>track<br>riot<br>six<br>friend<br>sting<br>any<br>review<br>faculty |  
+| bip_39_word_new_line_1 | inmate |  
+| bip_39_word_new_line_10 | inmate
 track
 riot
 six
@@ -55,7 +55,7 @@ any
 review
 faculty
 soup |  
-| bip_39_word_new_line11 | inmate
+| bip_39_word_new_line_11 | inmate
 track
 riot
 six
@@ -66,7 +66,7 @@ review
 faculty
 soup
 broom |  
-| bip_39_word_new_line12 | inmate
+| bip_39_word_new_line_12 | inmate
 track
 riot
 six
@@ -78,34 +78,34 @@ faculty
 soup
 broom
 acquire |  
-| bip_39_word_new_line2 | inmate
+| bip_39_word_new_line_2 | inmate
 track |  
-| bip_39_word_new_line3 | inmate
+| bip_39_word_new_line_3 | inmate
 track
 riot |  
-| bip_39_word_new_line4 | inmate
+| bip_39_word_new_line_4 | inmate
 track
 riot
 six |  
-| bip_39_word_new_line5 | inmate
+| bip_39_word_new_line_5 | inmate
 track
 riot
 six
 friend |  
-| bip_39_word_new_line6 | inmate
+| bip_39_word_new_line_6 | inmate
 track
 riot
 six
 friend
 sting |  
-| bip_39_word_new_line7 | inmate
+| bip_39_word_new_line_7 | inmate
 track
 riot
 six
 friend
 sting
 any |  
-| bip_39_word_new_line8 | inmate
+| bip_39_word_new_line_8 | inmate
 track
 riot
 six
@@ -113,7 +113,7 @@ friend
 sting
 any
 review |  
-| bip_39_word_new_line9 | inmate
+| bip_39_word_new_line_9 | inmate
 track
 riot
 six

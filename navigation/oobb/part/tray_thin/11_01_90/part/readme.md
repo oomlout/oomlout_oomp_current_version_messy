@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | call |  
-| bip_39_word_new_br10 | call<br>engine<br>elite<br>marriage<br>tell<br>oyster<br>radar<br>water<br>uphold<br>novel |  
-| bip_39_word_new_br11 | call<br>engine<br>elite<br>marriage<br>tell<br>oyster<br>radar<br>water<br>uphold<br>novel<br>begin |  
-| bip_39_word_new_br12 | call<br>engine<br>elite<br>marriage<br>tell<br>oyster<br>radar<br>water<br>uphold<br>novel<br>begin<br>average |  
-| bip_39_word_new_br2 | call<br>engine |  
-| bip_39_word_new_br3 | call<br>engine<br>elite |  
-| bip_39_word_new_br4 | call<br>engine<br>elite<br>marriage |  
-| bip_39_word_new_br5 | call<br>engine<br>elite<br>marriage<br>tell |  
-| bip_39_word_new_br6 | call<br>engine<br>elite<br>marriage<br>tell<br>oyster |  
-| bip_39_word_new_br7 | call<br>engine<br>elite<br>marriage<br>tell<br>oyster<br>radar |  
-| bip_39_word_new_br8 | call<br>engine<br>elite<br>marriage<br>tell<br>oyster<br>radar<br>water |  
-| bip_39_word_new_br9 | call<br>engine<br>elite<br>marriage<br>tell<br>oyster<br>radar<br>water<br>uphold |  
-| bip_39_word_new_line1 | call |  
-| bip_39_word_new_line10 | call
+| bip_39_word_new_br_1 | call |  
+| bip_39_word_new_br_10 | call<br>engine<br>elite<br>marriage<br>tell<br>oyster<br>radar<br>water<br>uphold<br>novel |  
+| bip_39_word_new_br_11 | call<br>engine<br>elite<br>marriage<br>tell<br>oyster<br>radar<br>water<br>uphold<br>novel<br>begin |  
+| bip_39_word_new_br_12 | call<br>engine<br>elite<br>marriage<br>tell<br>oyster<br>radar<br>water<br>uphold<br>novel<br>begin<br>average |  
+| bip_39_word_new_br_2 | call<br>engine |  
+| bip_39_word_new_br_3 | call<br>engine<br>elite |  
+| bip_39_word_new_br_4 | call<br>engine<br>elite<br>marriage |  
+| bip_39_word_new_br_5 | call<br>engine<br>elite<br>marriage<br>tell |  
+| bip_39_word_new_br_6 | call<br>engine<br>elite<br>marriage<br>tell<br>oyster |  
+| bip_39_word_new_br_7 | call<br>engine<br>elite<br>marriage<br>tell<br>oyster<br>radar |  
+| bip_39_word_new_br_8 | call<br>engine<br>elite<br>marriage<br>tell<br>oyster<br>radar<br>water |  
+| bip_39_word_new_br_9 | call<br>engine<br>elite<br>marriage<br>tell<br>oyster<br>radar<br>water<br>uphold |  
+| bip_39_word_new_line_1 | call |  
+| bip_39_word_new_line_10 | call
 engine
 elite
 marriage
@@ -55,7 +55,7 @@ radar
 water
 uphold
 novel |  
-| bip_39_word_new_line11 | call
+| bip_39_word_new_line_11 | call
 engine
 elite
 marriage
@@ -66,7 +66,7 @@ water
 uphold
 novel
 begin |  
-| bip_39_word_new_line12 | call
+| bip_39_word_new_line_12 | call
 engine
 elite
 marriage
@@ -78,34 +78,34 @@ uphold
 novel
 begin
 average |  
-| bip_39_word_new_line2 | call
+| bip_39_word_new_line_2 | call
 engine |  
-| bip_39_word_new_line3 | call
+| bip_39_word_new_line_3 | call
 engine
 elite |  
-| bip_39_word_new_line4 | call
+| bip_39_word_new_line_4 | call
 engine
 elite
 marriage |  
-| bip_39_word_new_line5 | call
+| bip_39_word_new_line_5 | call
 engine
 elite
 marriage
 tell |  
-| bip_39_word_new_line6 | call
+| bip_39_word_new_line_6 | call
 engine
 elite
 marriage
 tell
 oyster |  
-| bip_39_word_new_line7 | call
+| bip_39_word_new_line_7 | call
 engine
 elite
 marriage
 tell
 oyster
 radar |  
-| bip_39_word_new_line8 | call
+| bip_39_word_new_line_8 | call
 engine
 elite
 marriage
@@ -113,7 +113,7 @@ tell
 oyster
 radar
 water |  
-| bip_39_word_new_line9 | call
+| bip_39_word_new_line_9 | call
 engine
 elite
 marriage

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | clock |  
-| bip_39_word_new_br10 | clock<br>tattoo<br>effort<br>symbol<br>globe<br>dumb<br>unlock<br>alarm<br>denial<br>gadget |  
-| bip_39_word_new_br11 | clock<br>tattoo<br>effort<br>symbol<br>globe<br>dumb<br>unlock<br>alarm<br>denial<br>gadget<br>holiday |  
-| bip_39_word_new_br12 | clock<br>tattoo<br>effort<br>symbol<br>globe<br>dumb<br>unlock<br>alarm<br>denial<br>gadget<br>holiday<br>amateur |  
-| bip_39_word_new_br2 | clock<br>tattoo |  
-| bip_39_word_new_br3 | clock<br>tattoo<br>effort |  
-| bip_39_word_new_br4 | clock<br>tattoo<br>effort<br>symbol |  
-| bip_39_word_new_br5 | clock<br>tattoo<br>effort<br>symbol<br>globe |  
-| bip_39_word_new_br6 | clock<br>tattoo<br>effort<br>symbol<br>globe<br>dumb |  
-| bip_39_word_new_br7 | clock<br>tattoo<br>effort<br>symbol<br>globe<br>dumb<br>unlock |  
-| bip_39_word_new_br8 | clock<br>tattoo<br>effort<br>symbol<br>globe<br>dumb<br>unlock<br>alarm |  
-| bip_39_word_new_br9 | clock<br>tattoo<br>effort<br>symbol<br>globe<br>dumb<br>unlock<br>alarm<br>denial |  
-| bip_39_word_new_line1 | clock |  
-| bip_39_word_new_line10 | clock
+| bip_39_word_new_br_1 | clock |  
+| bip_39_word_new_br_10 | clock<br>tattoo<br>effort<br>symbol<br>globe<br>dumb<br>unlock<br>alarm<br>denial<br>gadget |  
+| bip_39_word_new_br_11 | clock<br>tattoo<br>effort<br>symbol<br>globe<br>dumb<br>unlock<br>alarm<br>denial<br>gadget<br>holiday |  
+| bip_39_word_new_br_12 | clock<br>tattoo<br>effort<br>symbol<br>globe<br>dumb<br>unlock<br>alarm<br>denial<br>gadget<br>holiday<br>amateur |  
+| bip_39_word_new_br_2 | clock<br>tattoo |  
+| bip_39_word_new_br_3 | clock<br>tattoo<br>effort |  
+| bip_39_word_new_br_4 | clock<br>tattoo<br>effort<br>symbol |  
+| bip_39_word_new_br_5 | clock<br>tattoo<br>effort<br>symbol<br>globe |  
+| bip_39_word_new_br_6 | clock<br>tattoo<br>effort<br>symbol<br>globe<br>dumb |  
+| bip_39_word_new_br_7 | clock<br>tattoo<br>effort<br>symbol<br>globe<br>dumb<br>unlock |  
+| bip_39_word_new_br_8 | clock<br>tattoo<br>effort<br>symbol<br>globe<br>dumb<br>unlock<br>alarm |  
+| bip_39_word_new_br_9 | clock<br>tattoo<br>effort<br>symbol<br>globe<br>dumb<br>unlock<br>alarm<br>denial |  
+| bip_39_word_new_line_1 | clock |  
+| bip_39_word_new_line_10 | clock
 tattoo
 effort
 symbol
@@ -55,7 +55,7 @@ unlock
 alarm
 denial
 gadget |  
-| bip_39_word_new_line11 | clock
+| bip_39_word_new_line_11 | clock
 tattoo
 effort
 symbol
@@ -66,7 +66,7 @@ alarm
 denial
 gadget
 holiday |  
-| bip_39_word_new_line12 | clock
+| bip_39_word_new_line_12 | clock
 tattoo
 effort
 symbol
@@ -78,34 +78,34 @@ denial
 gadget
 holiday
 amateur |  
-| bip_39_word_new_line2 | clock
+| bip_39_word_new_line_2 | clock
 tattoo |  
-| bip_39_word_new_line3 | clock
+| bip_39_word_new_line_3 | clock
 tattoo
 effort |  
-| bip_39_word_new_line4 | clock
+| bip_39_word_new_line_4 | clock
 tattoo
 effort
 symbol |  
-| bip_39_word_new_line5 | clock
+| bip_39_word_new_line_5 | clock
 tattoo
 effort
 symbol
 globe |  
-| bip_39_word_new_line6 | clock
+| bip_39_word_new_line_6 | clock
 tattoo
 effort
 symbol
 globe
 dumb |  
-| bip_39_word_new_line7 | clock
+| bip_39_word_new_line_7 | clock
 tattoo
 effort
 symbol
 globe
 dumb
 unlock |  
-| bip_39_word_new_line8 | clock
+| bip_39_word_new_line_8 | clock
 tattoo
 effort
 symbol
@@ -113,7 +113,7 @@ globe
 dumb
 unlock
 alarm |  
-| bip_39_word_new_line9 | clock
+| bip_39_word_new_line_9 | clock
 tattoo
 effort
 symbol

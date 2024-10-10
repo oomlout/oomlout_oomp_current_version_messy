@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | stumble |  
-| bip_39_word_new_br10 | stumble<br>domain<br>crumble<br>icon<br>kick<br>pulse<br>decide<br>since<br>divert<br>goat |  
-| bip_39_word_new_br11 | stumble<br>domain<br>crumble<br>icon<br>kick<br>pulse<br>decide<br>since<br>divert<br>goat<br>panic |  
-| bip_39_word_new_br12 | stumble<br>domain<br>crumble<br>icon<br>kick<br>pulse<br>decide<br>since<br>divert<br>goat<br>panic<br>antique |  
-| bip_39_word_new_br2 | stumble<br>domain |  
-| bip_39_word_new_br3 | stumble<br>domain<br>crumble |  
-| bip_39_word_new_br4 | stumble<br>domain<br>crumble<br>icon |  
-| bip_39_word_new_br5 | stumble<br>domain<br>crumble<br>icon<br>kick |  
-| bip_39_word_new_br6 | stumble<br>domain<br>crumble<br>icon<br>kick<br>pulse |  
-| bip_39_word_new_br7 | stumble<br>domain<br>crumble<br>icon<br>kick<br>pulse<br>decide |  
-| bip_39_word_new_br8 | stumble<br>domain<br>crumble<br>icon<br>kick<br>pulse<br>decide<br>since |  
-| bip_39_word_new_br9 | stumble<br>domain<br>crumble<br>icon<br>kick<br>pulse<br>decide<br>since<br>divert |  
-| bip_39_word_new_line1 | stumble |  
-| bip_39_word_new_line10 | stumble
+| bip_39_word_new_br_1 | stumble |  
+| bip_39_word_new_br_10 | stumble<br>domain<br>crumble<br>icon<br>kick<br>pulse<br>decide<br>since<br>divert<br>goat |  
+| bip_39_word_new_br_11 | stumble<br>domain<br>crumble<br>icon<br>kick<br>pulse<br>decide<br>since<br>divert<br>goat<br>panic |  
+| bip_39_word_new_br_12 | stumble<br>domain<br>crumble<br>icon<br>kick<br>pulse<br>decide<br>since<br>divert<br>goat<br>panic<br>antique |  
+| bip_39_word_new_br_2 | stumble<br>domain |  
+| bip_39_word_new_br_3 | stumble<br>domain<br>crumble |  
+| bip_39_word_new_br_4 | stumble<br>domain<br>crumble<br>icon |  
+| bip_39_word_new_br_5 | stumble<br>domain<br>crumble<br>icon<br>kick |  
+| bip_39_word_new_br_6 | stumble<br>domain<br>crumble<br>icon<br>kick<br>pulse |  
+| bip_39_word_new_br_7 | stumble<br>domain<br>crumble<br>icon<br>kick<br>pulse<br>decide |  
+| bip_39_word_new_br_8 | stumble<br>domain<br>crumble<br>icon<br>kick<br>pulse<br>decide<br>since |  
+| bip_39_word_new_br_9 | stumble<br>domain<br>crumble<br>icon<br>kick<br>pulse<br>decide<br>since<br>divert |  
+| bip_39_word_new_line_1 | stumble |  
+| bip_39_word_new_line_10 | stumble
 domain
 crumble
 icon
@@ -55,7 +55,7 @@ decide
 since
 divert
 goat |  
-| bip_39_word_new_line11 | stumble
+| bip_39_word_new_line_11 | stumble
 domain
 crumble
 icon
@@ -66,7 +66,7 @@ since
 divert
 goat
 panic |  
-| bip_39_word_new_line12 | stumble
+| bip_39_word_new_line_12 | stumble
 domain
 crumble
 icon
@@ -78,34 +78,34 @@ divert
 goat
 panic
 antique |  
-| bip_39_word_new_line2 | stumble
+| bip_39_word_new_line_2 | stumble
 domain |  
-| bip_39_word_new_line3 | stumble
+| bip_39_word_new_line_3 | stumble
 domain
 crumble |  
-| bip_39_word_new_line4 | stumble
+| bip_39_word_new_line_4 | stumble
 domain
 crumble
 icon |  
-| bip_39_word_new_line5 | stumble
+| bip_39_word_new_line_5 | stumble
 domain
 crumble
 icon
 kick |  
-| bip_39_word_new_line6 | stumble
+| bip_39_word_new_line_6 | stumble
 domain
 crumble
 icon
 kick
 pulse |  
-| bip_39_word_new_line7 | stumble
+| bip_39_word_new_line_7 | stumble
 domain
 crumble
 icon
 kick
 pulse
 decide |  
-| bip_39_word_new_line8 | stumble
+| bip_39_word_new_line_8 | stumble
 domain
 crumble
 icon
@@ -113,7 +113,7 @@ kick
 pulse
 decide
 since |  
-| bip_39_word_new_line9 | stumble
+| bip_39_word_new_line_9 | stumble
 domain
 crumble
 icon

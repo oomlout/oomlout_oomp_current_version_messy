@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | upper |  
-| bip_39_word_new_br10 | upper<br>bid<br>sort<br>relax<br>leisure<br>south<br>uniform<br>upgrade<br>silent<br>depth |  
-| bip_39_word_new_br11 | upper<br>bid<br>sort<br>relax<br>leisure<br>south<br>uniform<br>upgrade<br>silent<br>depth<br>flag |  
-| bip_39_word_new_br12 | upper<br>bid<br>sort<br>relax<br>leisure<br>south<br>uniform<br>upgrade<br>silent<br>depth<br>flag<br>approve |  
-| bip_39_word_new_br2 | upper<br>bid |  
-| bip_39_word_new_br3 | upper<br>bid<br>sort |  
-| bip_39_word_new_br4 | upper<br>bid<br>sort<br>relax |  
-| bip_39_word_new_br5 | upper<br>bid<br>sort<br>relax<br>leisure |  
-| bip_39_word_new_br6 | upper<br>bid<br>sort<br>relax<br>leisure<br>south |  
-| bip_39_word_new_br7 | upper<br>bid<br>sort<br>relax<br>leisure<br>south<br>uniform |  
-| bip_39_word_new_br8 | upper<br>bid<br>sort<br>relax<br>leisure<br>south<br>uniform<br>upgrade |  
-| bip_39_word_new_br9 | upper<br>bid<br>sort<br>relax<br>leisure<br>south<br>uniform<br>upgrade<br>silent |  
-| bip_39_word_new_line1 | upper |  
-| bip_39_word_new_line10 | upper
+| bip_39_word_new_br_1 | upper |  
+| bip_39_word_new_br_10 | upper<br>bid<br>sort<br>relax<br>leisure<br>south<br>uniform<br>upgrade<br>silent<br>depth |  
+| bip_39_word_new_br_11 | upper<br>bid<br>sort<br>relax<br>leisure<br>south<br>uniform<br>upgrade<br>silent<br>depth<br>flag |  
+| bip_39_word_new_br_12 | upper<br>bid<br>sort<br>relax<br>leisure<br>south<br>uniform<br>upgrade<br>silent<br>depth<br>flag<br>approve |  
+| bip_39_word_new_br_2 | upper<br>bid |  
+| bip_39_word_new_br_3 | upper<br>bid<br>sort |  
+| bip_39_word_new_br_4 | upper<br>bid<br>sort<br>relax |  
+| bip_39_word_new_br_5 | upper<br>bid<br>sort<br>relax<br>leisure |  
+| bip_39_word_new_br_6 | upper<br>bid<br>sort<br>relax<br>leisure<br>south |  
+| bip_39_word_new_br_7 | upper<br>bid<br>sort<br>relax<br>leisure<br>south<br>uniform |  
+| bip_39_word_new_br_8 | upper<br>bid<br>sort<br>relax<br>leisure<br>south<br>uniform<br>upgrade |  
+| bip_39_word_new_br_9 | upper<br>bid<br>sort<br>relax<br>leisure<br>south<br>uniform<br>upgrade<br>silent |  
+| bip_39_word_new_line_1 | upper |  
+| bip_39_word_new_line_10 | upper
 bid
 sort
 relax
@@ -55,7 +55,7 @@ uniform
 upgrade
 silent
 depth |  
-| bip_39_word_new_line11 | upper
+| bip_39_word_new_line_11 | upper
 bid
 sort
 relax
@@ -66,7 +66,7 @@ upgrade
 silent
 depth
 flag |  
-| bip_39_word_new_line12 | upper
+| bip_39_word_new_line_12 | upper
 bid
 sort
 relax
@@ -78,34 +78,34 @@ silent
 depth
 flag
 approve |  
-| bip_39_word_new_line2 | upper
+| bip_39_word_new_line_2 | upper
 bid |  
-| bip_39_word_new_line3 | upper
+| bip_39_word_new_line_3 | upper
 bid
 sort |  
-| bip_39_word_new_line4 | upper
+| bip_39_word_new_line_4 | upper
 bid
 sort
 relax |  
-| bip_39_word_new_line5 | upper
+| bip_39_word_new_line_5 | upper
 bid
 sort
 relax
 leisure |  
-| bip_39_word_new_line6 | upper
+| bip_39_word_new_line_6 | upper
 bid
 sort
 relax
 leisure
 south |  
-| bip_39_word_new_line7 | upper
+| bip_39_word_new_line_7 | upper
 bid
 sort
 relax
 leisure
 south
 uniform |  
-| bip_39_word_new_line8 | upper
+| bip_39_word_new_line_8 | upper
 bid
 sort
 relax
@@ -113,7 +113,7 @@ leisure
 south
 uniform
 upgrade |  
-| bip_39_word_new_line9 | upper
+| bip_39_word_new_line_9 | upper
 bid
 sort
 relax

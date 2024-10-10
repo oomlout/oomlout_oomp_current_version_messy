@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | profit |  
-| bip_39_word_new_br10 | profit<br>because<br>warm<br>sugar<br>nuclear<br>cube<br>debate<br>antique<br>distance<br>deputy |  
-| bip_39_word_new_br11 | profit<br>because<br>warm<br>sugar<br>nuclear<br>cube<br>debate<br>antique<br>distance<br>deputy<br>stage |  
-| bip_39_word_new_br12 | profit<br>because<br>warm<br>sugar<br>nuclear<br>cube<br>debate<br>antique<br>distance<br>deputy<br>stage<br>about |  
-| bip_39_word_new_br2 | profit<br>because |  
-| bip_39_word_new_br3 | profit<br>because<br>warm |  
-| bip_39_word_new_br4 | profit<br>because<br>warm<br>sugar |  
-| bip_39_word_new_br5 | profit<br>because<br>warm<br>sugar<br>nuclear |  
-| bip_39_word_new_br6 | profit<br>because<br>warm<br>sugar<br>nuclear<br>cube |  
-| bip_39_word_new_br7 | profit<br>because<br>warm<br>sugar<br>nuclear<br>cube<br>debate |  
-| bip_39_word_new_br8 | profit<br>because<br>warm<br>sugar<br>nuclear<br>cube<br>debate<br>antique |  
-| bip_39_word_new_br9 | profit<br>because<br>warm<br>sugar<br>nuclear<br>cube<br>debate<br>antique<br>distance |  
-| bip_39_word_new_line1 | profit |  
-| bip_39_word_new_line10 | profit
+| bip_39_word_new_br_1 | profit |  
+| bip_39_word_new_br_10 | profit<br>because<br>warm<br>sugar<br>nuclear<br>cube<br>debate<br>antique<br>distance<br>deputy |  
+| bip_39_word_new_br_11 | profit<br>because<br>warm<br>sugar<br>nuclear<br>cube<br>debate<br>antique<br>distance<br>deputy<br>stage |  
+| bip_39_word_new_br_12 | profit<br>because<br>warm<br>sugar<br>nuclear<br>cube<br>debate<br>antique<br>distance<br>deputy<br>stage<br>about |  
+| bip_39_word_new_br_2 | profit<br>because |  
+| bip_39_word_new_br_3 | profit<br>because<br>warm |  
+| bip_39_word_new_br_4 | profit<br>because<br>warm<br>sugar |  
+| bip_39_word_new_br_5 | profit<br>because<br>warm<br>sugar<br>nuclear |  
+| bip_39_word_new_br_6 | profit<br>because<br>warm<br>sugar<br>nuclear<br>cube |  
+| bip_39_word_new_br_7 | profit<br>because<br>warm<br>sugar<br>nuclear<br>cube<br>debate |  
+| bip_39_word_new_br_8 | profit<br>because<br>warm<br>sugar<br>nuclear<br>cube<br>debate<br>antique |  
+| bip_39_word_new_br_9 | profit<br>because<br>warm<br>sugar<br>nuclear<br>cube<br>debate<br>antique<br>distance |  
+| bip_39_word_new_line_1 | profit |  
+| bip_39_word_new_line_10 | profit
 because
 warm
 sugar
@@ -55,7 +55,7 @@ debate
 antique
 distance
 deputy |  
-| bip_39_word_new_line11 | profit
+| bip_39_word_new_line_11 | profit
 because
 warm
 sugar
@@ -66,7 +66,7 @@ antique
 distance
 deputy
 stage |  
-| bip_39_word_new_line12 | profit
+| bip_39_word_new_line_12 | profit
 because
 warm
 sugar
@@ -78,34 +78,34 @@ distance
 deputy
 stage
 about |  
-| bip_39_word_new_line2 | profit
+| bip_39_word_new_line_2 | profit
 because |  
-| bip_39_word_new_line3 | profit
+| bip_39_word_new_line_3 | profit
 because
 warm |  
-| bip_39_word_new_line4 | profit
+| bip_39_word_new_line_4 | profit
 because
 warm
 sugar |  
-| bip_39_word_new_line5 | profit
+| bip_39_word_new_line_5 | profit
 because
 warm
 sugar
 nuclear |  
-| bip_39_word_new_line6 | profit
+| bip_39_word_new_line_6 | profit
 because
 warm
 sugar
 nuclear
 cube |  
-| bip_39_word_new_line7 | profit
+| bip_39_word_new_line_7 | profit
 because
 warm
 sugar
 nuclear
 cube
 debate |  
-| bip_39_word_new_line8 | profit
+| bip_39_word_new_line_8 | profit
 because
 warm
 sugar
@@ -113,7 +113,7 @@ nuclear
 cube
 debate
 antique |  
-| bip_39_word_new_line9 | profit
+| bip_39_word_new_line_9 | profit
 because
 warm
 sugar

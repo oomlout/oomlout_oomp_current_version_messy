@@ -1,17 +1,17 @@
-bip_39_word_new_br1: cereal
-bip_39_word_new_br10: cereal<br>water<br>fish<br>girl<br>once<br>shrug<br>valid<br>silly<br>odor<br>network
-bip_39_word_new_br11: cereal<br>water<br>fish<br>girl<br>once<br>shrug<br>valid<br>silly<br>odor<br>network<br>oppose
-bip_39_word_new_br12: cereal<br>water<br>fish<br>girl<br>once<br>shrug<br>valid<br>silly<br>odor<br>network<br>oppose<br>angle
-bip_39_word_new_br2: cereal<br>water
-bip_39_word_new_br3: cereal<br>water<br>fish
-bip_39_word_new_br4: cereal<br>water<br>fish<br>girl
-bip_39_word_new_br5: cereal<br>water<br>fish<br>girl<br>once
-bip_39_word_new_br6: cereal<br>water<br>fish<br>girl<br>once<br>shrug
-bip_39_word_new_br7: cereal<br>water<br>fish<br>girl<br>once<br>shrug<br>valid
-bip_39_word_new_br8: cereal<br>water<br>fish<br>girl<br>once<br>shrug<br>valid<br>silly
-bip_39_word_new_br9: cereal<br>water<br>fish<br>girl<br>once<br>shrug<br>valid<br>silly<br>odor
-bip_39_word_new_line1: cereal
-bip_39_word_new_line10: 'cereal
+bip_39_word_new_br_1: cereal
+bip_39_word_new_br_10: cereal<br>water<br>fish<br>girl<br>once<br>shrug<br>valid<br>silly<br>odor<br>network
+bip_39_word_new_br_11: cereal<br>water<br>fish<br>girl<br>once<br>shrug<br>valid<br>silly<br>odor<br>network<br>oppose
+bip_39_word_new_br_12: cereal<br>water<br>fish<br>girl<br>once<br>shrug<br>valid<br>silly<br>odor<br>network<br>oppose<br>angle
+bip_39_word_new_br_2: cereal<br>water
+bip_39_word_new_br_3: cereal<br>water<br>fish
+bip_39_word_new_br_4: cereal<br>water<br>fish<br>girl
+bip_39_word_new_br_5: cereal<br>water<br>fish<br>girl<br>once
+bip_39_word_new_br_6: cereal<br>water<br>fish<br>girl<br>once<br>shrug
+bip_39_word_new_br_7: cereal<br>water<br>fish<br>girl<br>once<br>shrug<br>valid
+bip_39_word_new_br_8: cereal<br>water<br>fish<br>girl<br>once<br>shrug<br>valid<br>silly
+bip_39_word_new_br_9: cereal<br>water<br>fish<br>girl<br>once<br>shrug<br>valid<br>silly<br>odor
+bip_39_word_new_line_1: cereal
+bip_39_word_new_line_10: 'cereal
 
   water
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'cereal
   odor
 
   network'
-bip_39_word_new_line11: 'cereal
+bip_39_word_new_line_11: 'cereal
 
   water
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'cereal
   network
 
   oppose'
-bip_39_word_new_line12: 'cereal
+bip_39_word_new_line_12: 'cereal
 
   water
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'cereal
   oppose
 
   angle'
-bip_39_word_new_line2: 'cereal
+bip_39_word_new_line_2: 'cereal
 
   water'
-bip_39_word_new_line3: 'cereal
+bip_39_word_new_line_3: 'cereal
 
   water
 
   fish'
-bip_39_word_new_line4: 'cereal
+bip_39_word_new_line_4: 'cereal
 
   water
 
   fish
 
   girl'
-bip_39_word_new_line5: 'cereal
+bip_39_word_new_line_5: 'cereal
 
   water
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'cereal
   girl
 
   once'
-bip_39_word_new_line6: 'cereal
+bip_39_word_new_line_6: 'cereal
 
   water
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'cereal
   once
 
   shrug'
-bip_39_word_new_line7: 'cereal
+bip_39_word_new_line_7: 'cereal
 
   water
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'cereal
   shrug
 
   valid'
-bip_39_word_new_line8: 'cereal
+bip_39_word_new_line_8: 'cereal
 
   water
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'cereal
   valid
 
   silly'
-bip_39_word_new_line9: 'cereal
+bip_39_word_new_line_9: 'cereal
 
   water
 

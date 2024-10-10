@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | response |  
-| bip_39_word_new_br10 | response<br>output<br>already<br>gravity<br>nasty<br>execute<br>enact<br>vacuum<br>drop<br>skirt |  
-| bip_39_word_new_br11 | response<br>output<br>already<br>gravity<br>nasty<br>execute<br>enact<br>vacuum<br>drop<br>skirt<br>horror |  
-| bip_39_word_new_br12 | response<br>output<br>already<br>gravity<br>nasty<br>execute<br>enact<br>vacuum<br>drop<br>skirt<br>horror<br>address |  
-| bip_39_word_new_br2 | response<br>output |  
-| bip_39_word_new_br3 | response<br>output<br>already |  
-| bip_39_word_new_br4 | response<br>output<br>already<br>gravity |  
-| bip_39_word_new_br5 | response<br>output<br>already<br>gravity<br>nasty |  
-| bip_39_word_new_br6 | response<br>output<br>already<br>gravity<br>nasty<br>execute |  
-| bip_39_word_new_br7 | response<br>output<br>already<br>gravity<br>nasty<br>execute<br>enact |  
-| bip_39_word_new_br8 | response<br>output<br>already<br>gravity<br>nasty<br>execute<br>enact<br>vacuum |  
-| bip_39_word_new_br9 | response<br>output<br>already<br>gravity<br>nasty<br>execute<br>enact<br>vacuum<br>drop |  
-| bip_39_word_new_line1 | response |  
-| bip_39_word_new_line10 | response
+| bip_39_word_new_br_1 | response |  
+| bip_39_word_new_br_10 | response<br>output<br>already<br>gravity<br>nasty<br>execute<br>enact<br>vacuum<br>drop<br>skirt |  
+| bip_39_word_new_br_11 | response<br>output<br>already<br>gravity<br>nasty<br>execute<br>enact<br>vacuum<br>drop<br>skirt<br>horror |  
+| bip_39_word_new_br_12 | response<br>output<br>already<br>gravity<br>nasty<br>execute<br>enact<br>vacuum<br>drop<br>skirt<br>horror<br>address |  
+| bip_39_word_new_br_2 | response<br>output |  
+| bip_39_word_new_br_3 | response<br>output<br>already |  
+| bip_39_word_new_br_4 | response<br>output<br>already<br>gravity |  
+| bip_39_word_new_br_5 | response<br>output<br>already<br>gravity<br>nasty |  
+| bip_39_word_new_br_6 | response<br>output<br>already<br>gravity<br>nasty<br>execute |  
+| bip_39_word_new_br_7 | response<br>output<br>already<br>gravity<br>nasty<br>execute<br>enact |  
+| bip_39_word_new_br_8 | response<br>output<br>already<br>gravity<br>nasty<br>execute<br>enact<br>vacuum |  
+| bip_39_word_new_br_9 | response<br>output<br>already<br>gravity<br>nasty<br>execute<br>enact<br>vacuum<br>drop |  
+| bip_39_word_new_line_1 | response |  
+| bip_39_word_new_line_10 | response
 output
 already
 gravity
@@ -55,7 +55,7 @@ enact
 vacuum
 drop
 skirt |  
-| bip_39_word_new_line11 | response
+| bip_39_word_new_line_11 | response
 output
 already
 gravity
@@ -66,7 +66,7 @@ vacuum
 drop
 skirt
 horror |  
-| bip_39_word_new_line12 | response
+| bip_39_word_new_line_12 | response
 output
 already
 gravity
@@ -78,34 +78,34 @@ drop
 skirt
 horror
 address |  
-| bip_39_word_new_line2 | response
+| bip_39_word_new_line_2 | response
 output |  
-| bip_39_word_new_line3 | response
+| bip_39_word_new_line_3 | response
 output
 already |  
-| bip_39_word_new_line4 | response
+| bip_39_word_new_line_4 | response
 output
 already
 gravity |  
-| bip_39_word_new_line5 | response
+| bip_39_word_new_line_5 | response
 output
 already
 gravity
 nasty |  
-| bip_39_word_new_line6 | response
+| bip_39_word_new_line_6 | response
 output
 already
 gravity
 nasty
 execute |  
-| bip_39_word_new_line7 | response
+| bip_39_word_new_line_7 | response
 output
 already
 gravity
 nasty
 execute
 enact |  
-| bip_39_word_new_line8 | response
+| bip_39_word_new_line_8 | response
 output
 already
 gravity
@@ -113,7 +113,7 @@ nasty
 execute
 enact
 vacuum |  
-| bip_39_word_new_line9 | response
+| bip_39_word_new_line_9 | response
 output
 already
 gravity

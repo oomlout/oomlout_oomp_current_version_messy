@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | walnut |  
-| bip_39_word_new_br10 | walnut<br>horse<br>ocean<br>year<br>option<br>acid<br>explain<br>lecture<br>talent<br>galaxy |  
-| bip_39_word_new_br11 | walnut<br>horse<br>ocean<br>year<br>option<br>acid<br>explain<br>lecture<br>talent<br>galaxy<br>erupt |  
-| bip_39_word_new_br12 | walnut<br>horse<br>ocean<br>year<br>option<br>acid<br>explain<br>lecture<br>talent<br>galaxy<br>erupt<br>ask |  
-| bip_39_word_new_br2 | walnut<br>horse |  
-| bip_39_word_new_br3 | walnut<br>horse<br>ocean |  
-| bip_39_word_new_br4 | walnut<br>horse<br>ocean<br>year |  
-| bip_39_word_new_br5 | walnut<br>horse<br>ocean<br>year<br>option |  
-| bip_39_word_new_br6 | walnut<br>horse<br>ocean<br>year<br>option<br>acid |  
-| bip_39_word_new_br7 | walnut<br>horse<br>ocean<br>year<br>option<br>acid<br>explain |  
-| bip_39_word_new_br8 | walnut<br>horse<br>ocean<br>year<br>option<br>acid<br>explain<br>lecture |  
-| bip_39_word_new_br9 | walnut<br>horse<br>ocean<br>year<br>option<br>acid<br>explain<br>lecture<br>talent |  
-| bip_39_word_new_line1 | walnut |  
-| bip_39_word_new_line10 | walnut
+| bip_39_word_new_br_1 | walnut |  
+| bip_39_word_new_br_10 | walnut<br>horse<br>ocean<br>year<br>option<br>acid<br>explain<br>lecture<br>talent<br>galaxy |  
+| bip_39_word_new_br_11 | walnut<br>horse<br>ocean<br>year<br>option<br>acid<br>explain<br>lecture<br>talent<br>galaxy<br>erupt |  
+| bip_39_word_new_br_12 | walnut<br>horse<br>ocean<br>year<br>option<br>acid<br>explain<br>lecture<br>talent<br>galaxy<br>erupt<br>ask |  
+| bip_39_word_new_br_2 | walnut<br>horse |  
+| bip_39_word_new_br_3 | walnut<br>horse<br>ocean |  
+| bip_39_word_new_br_4 | walnut<br>horse<br>ocean<br>year |  
+| bip_39_word_new_br_5 | walnut<br>horse<br>ocean<br>year<br>option |  
+| bip_39_word_new_br_6 | walnut<br>horse<br>ocean<br>year<br>option<br>acid |  
+| bip_39_word_new_br_7 | walnut<br>horse<br>ocean<br>year<br>option<br>acid<br>explain |  
+| bip_39_word_new_br_8 | walnut<br>horse<br>ocean<br>year<br>option<br>acid<br>explain<br>lecture |  
+| bip_39_word_new_br_9 | walnut<br>horse<br>ocean<br>year<br>option<br>acid<br>explain<br>lecture<br>talent |  
+| bip_39_word_new_line_1 | walnut |  
+| bip_39_word_new_line_10 | walnut
 horse
 ocean
 year
@@ -55,7 +55,7 @@ explain
 lecture
 talent
 galaxy |  
-| bip_39_word_new_line11 | walnut
+| bip_39_word_new_line_11 | walnut
 horse
 ocean
 year
@@ -66,7 +66,7 @@ lecture
 talent
 galaxy
 erupt |  
-| bip_39_word_new_line12 | walnut
+| bip_39_word_new_line_12 | walnut
 horse
 ocean
 year
@@ -78,34 +78,34 @@ talent
 galaxy
 erupt
 ask |  
-| bip_39_word_new_line2 | walnut
+| bip_39_word_new_line_2 | walnut
 horse |  
-| bip_39_word_new_line3 | walnut
+| bip_39_word_new_line_3 | walnut
 horse
 ocean |  
-| bip_39_word_new_line4 | walnut
+| bip_39_word_new_line_4 | walnut
 horse
 ocean
 year |  
-| bip_39_word_new_line5 | walnut
+| bip_39_word_new_line_5 | walnut
 horse
 ocean
 year
 option |  
-| bip_39_word_new_line6 | walnut
+| bip_39_word_new_line_6 | walnut
 horse
 ocean
 year
 option
 acid |  
-| bip_39_word_new_line7 | walnut
+| bip_39_word_new_line_7 | walnut
 horse
 ocean
 year
 option
 acid
 explain |  
-| bip_39_word_new_line8 | walnut
+| bip_39_word_new_line_8 | walnut
 horse
 ocean
 year
@@ -113,7 +113,7 @@ option
 acid
 explain
 lecture |  
-| bip_39_word_new_line9 | walnut
+| bip_39_word_new_line_9 | walnut
 horse
 ocean
 year

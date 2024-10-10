@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | squirrel |  
-| bip_39_word_new_br10 | squirrel<br>before<br>alter<br>process<br>net<br>wheel<br>order<br>alone<br>mother<br>neutral |  
-| bip_39_word_new_br11 | squirrel<br>before<br>alter<br>process<br>net<br>wheel<br>order<br>alone<br>mother<br>neutral<br>deny |  
-| bip_39_word_new_br12 | squirrel<br>before<br>alter<br>process<br>net<br>wheel<br>order<br>alone<br>mother<br>neutral<br>deny<br>august |  
-| bip_39_word_new_br2 | squirrel<br>before |  
-| bip_39_word_new_br3 | squirrel<br>before<br>alter |  
-| bip_39_word_new_br4 | squirrel<br>before<br>alter<br>process |  
-| bip_39_word_new_br5 | squirrel<br>before<br>alter<br>process<br>net |  
-| bip_39_word_new_br6 | squirrel<br>before<br>alter<br>process<br>net<br>wheel |  
-| bip_39_word_new_br7 | squirrel<br>before<br>alter<br>process<br>net<br>wheel<br>order |  
-| bip_39_word_new_br8 | squirrel<br>before<br>alter<br>process<br>net<br>wheel<br>order<br>alone |  
-| bip_39_word_new_br9 | squirrel<br>before<br>alter<br>process<br>net<br>wheel<br>order<br>alone<br>mother |  
-| bip_39_word_new_line1 | squirrel |  
-| bip_39_word_new_line10 | squirrel
+| bip_39_word_new_br_1 | squirrel |  
+| bip_39_word_new_br_10 | squirrel<br>before<br>alter<br>process<br>net<br>wheel<br>order<br>alone<br>mother<br>neutral |  
+| bip_39_word_new_br_11 | squirrel<br>before<br>alter<br>process<br>net<br>wheel<br>order<br>alone<br>mother<br>neutral<br>deny |  
+| bip_39_word_new_br_12 | squirrel<br>before<br>alter<br>process<br>net<br>wheel<br>order<br>alone<br>mother<br>neutral<br>deny<br>august |  
+| bip_39_word_new_br_2 | squirrel<br>before |  
+| bip_39_word_new_br_3 | squirrel<br>before<br>alter |  
+| bip_39_word_new_br_4 | squirrel<br>before<br>alter<br>process |  
+| bip_39_word_new_br_5 | squirrel<br>before<br>alter<br>process<br>net |  
+| bip_39_word_new_br_6 | squirrel<br>before<br>alter<br>process<br>net<br>wheel |  
+| bip_39_word_new_br_7 | squirrel<br>before<br>alter<br>process<br>net<br>wheel<br>order |  
+| bip_39_word_new_br_8 | squirrel<br>before<br>alter<br>process<br>net<br>wheel<br>order<br>alone |  
+| bip_39_word_new_br_9 | squirrel<br>before<br>alter<br>process<br>net<br>wheel<br>order<br>alone<br>mother |  
+| bip_39_word_new_line_1 | squirrel |  
+| bip_39_word_new_line_10 | squirrel
 before
 alter
 process
@@ -55,7 +55,7 @@ order
 alone
 mother
 neutral |  
-| bip_39_word_new_line11 | squirrel
+| bip_39_word_new_line_11 | squirrel
 before
 alter
 process
@@ -66,7 +66,7 @@ alone
 mother
 neutral
 deny |  
-| bip_39_word_new_line12 | squirrel
+| bip_39_word_new_line_12 | squirrel
 before
 alter
 process
@@ -78,34 +78,34 @@ mother
 neutral
 deny
 august |  
-| bip_39_word_new_line2 | squirrel
+| bip_39_word_new_line_2 | squirrel
 before |  
-| bip_39_word_new_line3 | squirrel
+| bip_39_word_new_line_3 | squirrel
 before
 alter |  
-| bip_39_word_new_line4 | squirrel
+| bip_39_word_new_line_4 | squirrel
 before
 alter
 process |  
-| bip_39_word_new_line5 | squirrel
+| bip_39_word_new_line_5 | squirrel
 before
 alter
 process
 net |  
-| bip_39_word_new_line6 | squirrel
+| bip_39_word_new_line_6 | squirrel
 before
 alter
 process
 net
 wheel |  
-| bip_39_word_new_line7 | squirrel
+| bip_39_word_new_line_7 | squirrel
 before
 alter
 process
 net
 wheel
 order |  
-| bip_39_word_new_line8 | squirrel
+| bip_39_word_new_line_8 | squirrel
 before
 alter
 process
@@ -113,7 +113,7 @@ net
 wheel
 order
 alone |  
-| bip_39_word_new_line9 | squirrel
+| bip_39_word_new_line_9 | squirrel
 before
 alter
 process

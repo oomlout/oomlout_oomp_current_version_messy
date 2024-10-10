@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | deliver |  
-| bip_39_word_new_br10 | deliver<br>day<br>category<br>surround<br>sense<br>ride<br>exile<br>entry<br>ticket<br>industry |  
-| bip_39_word_new_br11 | deliver<br>day<br>category<br>surround<br>sense<br>ride<br>exile<br>entry<br>ticket<br>industry<br>advance |  
-| bip_39_word_new_br12 | deliver<br>day<br>category<br>surround<br>sense<br>ride<br>exile<br>entry<br>ticket<br>industry<br>advance<br>arctic |  
-| bip_39_word_new_br2 | deliver<br>day |  
-| bip_39_word_new_br3 | deliver<br>day<br>category |  
-| bip_39_word_new_br4 | deliver<br>day<br>category<br>surround |  
-| bip_39_word_new_br5 | deliver<br>day<br>category<br>surround<br>sense |  
-| bip_39_word_new_br6 | deliver<br>day<br>category<br>surround<br>sense<br>ride |  
-| bip_39_word_new_br7 | deliver<br>day<br>category<br>surround<br>sense<br>ride<br>exile |  
-| bip_39_word_new_br8 | deliver<br>day<br>category<br>surround<br>sense<br>ride<br>exile<br>entry |  
-| bip_39_word_new_br9 | deliver<br>day<br>category<br>surround<br>sense<br>ride<br>exile<br>entry<br>ticket |  
-| bip_39_word_new_line1 | deliver |  
-| bip_39_word_new_line10 | deliver
+| bip_39_word_new_br_1 | deliver |  
+| bip_39_word_new_br_10 | deliver<br>day<br>category<br>surround<br>sense<br>ride<br>exile<br>entry<br>ticket<br>industry |  
+| bip_39_word_new_br_11 | deliver<br>day<br>category<br>surround<br>sense<br>ride<br>exile<br>entry<br>ticket<br>industry<br>advance |  
+| bip_39_word_new_br_12 | deliver<br>day<br>category<br>surround<br>sense<br>ride<br>exile<br>entry<br>ticket<br>industry<br>advance<br>arctic |  
+| bip_39_word_new_br_2 | deliver<br>day |  
+| bip_39_word_new_br_3 | deliver<br>day<br>category |  
+| bip_39_word_new_br_4 | deliver<br>day<br>category<br>surround |  
+| bip_39_word_new_br_5 | deliver<br>day<br>category<br>surround<br>sense |  
+| bip_39_word_new_br_6 | deliver<br>day<br>category<br>surround<br>sense<br>ride |  
+| bip_39_word_new_br_7 | deliver<br>day<br>category<br>surround<br>sense<br>ride<br>exile |  
+| bip_39_word_new_br_8 | deliver<br>day<br>category<br>surround<br>sense<br>ride<br>exile<br>entry |  
+| bip_39_word_new_br_9 | deliver<br>day<br>category<br>surround<br>sense<br>ride<br>exile<br>entry<br>ticket |  
+| bip_39_word_new_line_1 | deliver |  
+| bip_39_word_new_line_10 | deliver
 day
 category
 surround
@@ -55,7 +55,7 @@ exile
 entry
 ticket
 industry |  
-| bip_39_word_new_line11 | deliver
+| bip_39_word_new_line_11 | deliver
 day
 category
 surround
@@ -66,7 +66,7 @@ entry
 ticket
 industry
 advance |  
-| bip_39_word_new_line12 | deliver
+| bip_39_word_new_line_12 | deliver
 day
 category
 surround
@@ -78,34 +78,34 @@ ticket
 industry
 advance
 arctic |  
-| bip_39_word_new_line2 | deliver
+| bip_39_word_new_line_2 | deliver
 day |  
-| bip_39_word_new_line3 | deliver
+| bip_39_word_new_line_3 | deliver
 day
 category |  
-| bip_39_word_new_line4 | deliver
+| bip_39_word_new_line_4 | deliver
 day
 category
 surround |  
-| bip_39_word_new_line5 | deliver
+| bip_39_word_new_line_5 | deliver
 day
 category
 surround
 sense |  
-| bip_39_word_new_line6 | deliver
+| bip_39_word_new_line_6 | deliver
 day
 category
 surround
 sense
 ride |  
-| bip_39_word_new_line7 | deliver
+| bip_39_word_new_line_7 | deliver
 day
 category
 surround
 sense
 ride
 exile |  
-| bip_39_word_new_line8 | deliver
+| bip_39_word_new_line_8 | deliver
 day
 category
 surround
@@ -113,7 +113,7 @@ sense
 ride
 exile
 entry |  
-| bip_39_word_new_line9 | deliver
+| bip_39_word_new_line_9 | deliver
 day
 category
 surround

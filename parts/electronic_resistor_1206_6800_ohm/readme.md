@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | solid |  
-| bip_39_word_new_br10 | solid<br>decrease<br>van<br>noise<br>remember<br>zoo<br>razor<br>chalk<br>destroy<br>long |  
-| bip_39_word_new_br11 | solid<br>decrease<br>van<br>noise<br>remember<br>zoo<br>razor<br>chalk<br>destroy<br>long<br>jar |  
-| bip_39_word_new_br12 | solid<br>decrease<br>van<br>noise<br>remember<br>zoo<br>razor<br>chalk<br>destroy<br>long<br>jar<br>ask |  
-| bip_39_word_new_br2 | solid<br>decrease |  
-| bip_39_word_new_br3 | solid<br>decrease<br>van |  
-| bip_39_word_new_br4 | solid<br>decrease<br>van<br>noise |  
-| bip_39_word_new_br5 | solid<br>decrease<br>van<br>noise<br>remember |  
-| bip_39_word_new_br6 | solid<br>decrease<br>van<br>noise<br>remember<br>zoo |  
-| bip_39_word_new_br7 | solid<br>decrease<br>van<br>noise<br>remember<br>zoo<br>razor |  
-| bip_39_word_new_br8 | solid<br>decrease<br>van<br>noise<br>remember<br>zoo<br>razor<br>chalk |  
-| bip_39_word_new_br9 | solid<br>decrease<br>van<br>noise<br>remember<br>zoo<br>razor<br>chalk<br>destroy |  
-| bip_39_word_new_line1 | solid |  
-| bip_39_word_new_line10 | solid
+| bip_39_word_new_br_1 | solid |  
+| bip_39_word_new_br_10 | solid<br>decrease<br>van<br>noise<br>remember<br>zoo<br>razor<br>chalk<br>destroy<br>long |  
+| bip_39_word_new_br_11 | solid<br>decrease<br>van<br>noise<br>remember<br>zoo<br>razor<br>chalk<br>destroy<br>long<br>jar |  
+| bip_39_word_new_br_12 | solid<br>decrease<br>van<br>noise<br>remember<br>zoo<br>razor<br>chalk<br>destroy<br>long<br>jar<br>ask |  
+| bip_39_word_new_br_2 | solid<br>decrease |  
+| bip_39_word_new_br_3 | solid<br>decrease<br>van |  
+| bip_39_word_new_br_4 | solid<br>decrease<br>van<br>noise |  
+| bip_39_word_new_br_5 | solid<br>decrease<br>van<br>noise<br>remember |  
+| bip_39_word_new_br_6 | solid<br>decrease<br>van<br>noise<br>remember<br>zoo |  
+| bip_39_word_new_br_7 | solid<br>decrease<br>van<br>noise<br>remember<br>zoo<br>razor |  
+| bip_39_word_new_br_8 | solid<br>decrease<br>van<br>noise<br>remember<br>zoo<br>razor<br>chalk |  
+| bip_39_word_new_br_9 | solid<br>decrease<br>van<br>noise<br>remember<br>zoo<br>razor<br>chalk<br>destroy |  
+| bip_39_word_new_line_1 | solid |  
+| bip_39_word_new_line_10 | solid
 decrease
 van
 noise
@@ -55,7 +55,7 @@ razor
 chalk
 destroy
 long |  
-| bip_39_word_new_line11 | solid
+| bip_39_word_new_line_11 | solid
 decrease
 van
 noise
@@ -66,7 +66,7 @@ chalk
 destroy
 long
 jar |  
-| bip_39_word_new_line12 | solid
+| bip_39_word_new_line_12 | solid
 decrease
 van
 noise
@@ -78,34 +78,34 @@ destroy
 long
 jar
 ask |  
-| bip_39_word_new_line2 | solid
+| bip_39_word_new_line_2 | solid
 decrease |  
-| bip_39_word_new_line3 | solid
+| bip_39_word_new_line_3 | solid
 decrease
 van |  
-| bip_39_word_new_line4 | solid
+| bip_39_word_new_line_4 | solid
 decrease
 van
 noise |  
-| bip_39_word_new_line5 | solid
+| bip_39_word_new_line_5 | solid
 decrease
 van
 noise
 remember |  
-| bip_39_word_new_line6 | solid
+| bip_39_word_new_line_6 | solid
 decrease
 van
 noise
 remember
 zoo |  
-| bip_39_word_new_line7 | solid
+| bip_39_word_new_line_7 | solid
 decrease
 van
 noise
 remember
 zoo
 razor |  
-| bip_39_word_new_line8 | solid
+| bip_39_word_new_line_8 | solid
 decrease
 van
 noise
@@ -113,7 +113,7 @@ remember
 zoo
 razor
 chalk |  
-| bip_39_word_new_line9 | solid
+| bip_39_word_new_line_9 | solid
 decrease
 van
 noise

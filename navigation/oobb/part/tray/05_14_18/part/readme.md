@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | seed |  
-| bip_39_word_new_br10 | seed<br>ocean<br>artist<br>assist<br>bike<br>indicate<br>near<br>loyal<br>galaxy<br>chimney |  
-| bip_39_word_new_br11 | seed<br>ocean<br>artist<br>assist<br>bike<br>indicate<br>near<br>loyal<br>galaxy<br>chimney<br>enforce |  
-| bip_39_word_new_br12 | seed<br>ocean<br>artist<br>assist<br>bike<br>indicate<br>near<br>loyal<br>galaxy<br>chimney<br>enforce<br>alone |  
-| bip_39_word_new_br2 | seed<br>ocean |  
-| bip_39_word_new_br3 | seed<br>ocean<br>artist |  
-| bip_39_word_new_br4 | seed<br>ocean<br>artist<br>assist |  
-| bip_39_word_new_br5 | seed<br>ocean<br>artist<br>assist<br>bike |  
-| bip_39_word_new_br6 | seed<br>ocean<br>artist<br>assist<br>bike<br>indicate |  
-| bip_39_word_new_br7 | seed<br>ocean<br>artist<br>assist<br>bike<br>indicate<br>near |  
-| bip_39_word_new_br8 | seed<br>ocean<br>artist<br>assist<br>bike<br>indicate<br>near<br>loyal |  
-| bip_39_word_new_br9 | seed<br>ocean<br>artist<br>assist<br>bike<br>indicate<br>near<br>loyal<br>galaxy |  
-| bip_39_word_new_line1 | seed |  
-| bip_39_word_new_line10 | seed
+| bip_39_word_new_br_1 | seed |  
+| bip_39_word_new_br_10 | seed<br>ocean<br>artist<br>assist<br>bike<br>indicate<br>near<br>loyal<br>galaxy<br>chimney |  
+| bip_39_word_new_br_11 | seed<br>ocean<br>artist<br>assist<br>bike<br>indicate<br>near<br>loyal<br>galaxy<br>chimney<br>enforce |  
+| bip_39_word_new_br_12 | seed<br>ocean<br>artist<br>assist<br>bike<br>indicate<br>near<br>loyal<br>galaxy<br>chimney<br>enforce<br>alone |  
+| bip_39_word_new_br_2 | seed<br>ocean |  
+| bip_39_word_new_br_3 | seed<br>ocean<br>artist |  
+| bip_39_word_new_br_4 | seed<br>ocean<br>artist<br>assist |  
+| bip_39_word_new_br_5 | seed<br>ocean<br>artist<br>assist<br>bike |  
+| bip_39_word_new_br_6 | seed<br>ocean<br>artist<br>assist<br>bike<br>indicate |  
+| bip_39_word_new_br_7 | seed<br>ocean<br>artist<br>assist<br>bike<br>indicate<br>near |  
+| bip_39_word_new_br_8 | seed<br>ocean<br>artist<br>assist<br>bike<br>indicate<br>near<br>loyal |  
+| bip_39_word_new_br_9 | seed<br>ocean<br>artist<br>assist<br>bike<br>indicate<br>near<br>loyal<br>galaxy |  
+| bip_39_word_new_line_1 | seed |  
+| bip_39_word_new_line_10 | seed
 ocean
 artist
 assist
@@ -55,7 +55,7 @@ near
 loyal
 galaxy
 chimney |  
-| bip_39_word_new_line11 | seed
+| bip_39_word_new_line_11 | seed
 ocean
 artist
 assist
@@ -66,7 +66,7 @@ loyal
 galaxy
 chimney
 enforce |  
-| bip_39_word_new_line12 | seed
+| bip_39_word_new_line_12 | seed
 ocean
 artist
 assist
@@ -78,34 +78,34 @@ galaxy
 chimney
 enforce
 alone |  
-| bip_39_word_new_line2 | seed
+| bip_39_word_new_line_2 | seed
 ocean |  
-| bip_39_word_new_line3 | seed
+| bip_39_word_new_line_3 | seed
 ocean
 artist |  
-| bip_39_word_new_line4 | seed
+| bip_39_word_new_line_4 | seed
 ocean
 artist
 assist |  
-| bip_39_word_new_line5 | seed
+| bip_39_word_new_line_5 | seed
 ocean
 artist
 assist
 bike |  
-| bip_39_word_new_line6 | seed
+| bip_39_word_new_line_6 | seed
 ocean
 artist
 assist
 bike
 indicate |  
-| bip_39_word_new_line7 | seed
+| bip_39_word_new_line_7 | seed
 ocean
 artist
 assist
 bike
 indicate
 near |  
-| bip_39_word_new_line8 | seed
+| bip_39_word_new_line_8 | seed
 ocean
 artist
 assist
@@ -113,7 +113,7 @@ bike
 indicate
 near
 loyal |  
-| bip_39_word_new_line9 | seed
+| bip_39_word_new_line_9 | seed
 ocean
 artist
 assist

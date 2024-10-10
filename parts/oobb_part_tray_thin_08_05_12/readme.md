@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | idea |  
-| bip_39_word_new_br10 | idea<br>setup<br>odor<br>small<br>damp<br>oxygen<br>forward<br>aware<br>settle<br>property |  
-| bip_39_word_new_br11 | idea<br>setup<br>odor<br>small<br>damp<br>oxygen<br>forward<br>aware<br>settle<br>property<br>deliver |  
-| bip_39_word_new_br12 | idea<br>setup<br>odor<br>small<br>damp<br>oxygen<br>forward<br>aware<br>settle<br>property<br>deliver<br>apple |  
-| bip_39_word_new_br2 | idea<br>setup |  
-| bip_39_word_new_br3 | idea<br>setup<br>odor |  
-| bip_39_word_new_br4 | idea<br>setup<br>odor<br>small |  
-| bip_39_word_new_br5 | idea<br>setup<br>odor<br>small<br>damp |  
-| bip_39_word_new_br6 | idea<br>setup<br>odor<br>small<br>damp<br>oxygen |  
-| bip_39_word_new_br7 | idea<br>setup<br>odor<br>small<br>damp<br>oxygen<br>forward |  
-| bip_39_word_new_br8 | idea<br>setup<br>odor<br>small<br>damp<br>oxygen<br>forward<br>aware |  
-| bip_39_word_new_br9 | idea<br>setup<br>odor<br>small<br>damp<br>oxygen<br>forward<br>aware<br>settle |  
-| bip_39_word_new_line1 | idea |  
-| bip_39_word_new_line10 | idea
+| bip_39_word_new_br_1 | idea |  
+| bip_39_word_new_br_10 | idea<br>setup<br>odor<br>small<br>damp<br>oxygen<br>forward<br>aware<br>settle<br>property |  
+| bip_39_word_new_br_11 | idea<br>setup<br>odor<br>small<br>damp<br>oxygen<br>forward<br>aware<br>settle<br>property<br>deliver |  
+| bip_39_word_new_br_12 | idea<br>setup<br>odor<br>small<br>damp<br>oxygen<br>forward<br>aware<br>settle<br>property<br>deliver<br>apple |  
+| bip_39_word_new_br_2 | idea<br>setup |  
+| bip_39_word_new_br_3 | idea<br>setup<br>odor |  
+| bip_39_word_new_br_4 | idea<br>setup<br>odor<br>small |  
+| bip_39_word_new_br_5 | idea<br>setup<br>odor<br>small<br>damp |  
+| bip_39_word_new_br_6 | idea<br>setup<br>odor<br>small<br>damp<br>oxygen |  
+| bip_39_word_new_br_7 | idea<br>setup<br>odor<br>small<br>damp<br>oxygen<br>forward |  
+| bip_39_word_new_br_8 | idea<br>setup<br>odor<br>small<br>damp<br>oxygen<br>forward<br>aware |  
+| bip_39_word_new_br_9 | idea<br>setup<br>odor<br>small<br>damp<br>oxygen<br>forward<br>aware<br>settle |  
+| bip_39_word_new_line_1 | idea |  
+| bip_39_word_new_line_10 | idea
 setup
 odor
 small
@@ -55,7 +55,7 @@ forward
 aware
 settle
 property |  
-| bip_39_word_new_line11 | idea
+| bip_39_word_new_line_11 | idea
 setup
 odor
 small
@@ -66,7 +66,7 @@ aware
 settle
 property
 deliver |  
-| bip_39_word_new_line12 | idea
+| bip_39_word_new_line_12 | idea
 setup
 odor
 small
@@ -78,34 +78,34 @@ settle
 property
 deliver
 apple |  
-| bip_39_word_new_line2 | idea
+| bip_39_word_new_line_2 | idea
 setup |  
-| bip_39_word_new_line3 | idea
+| bip_39_word_new_line_3 | idea
 setup
 odor |  
-| bip_39_word_new_line4 | idea
+| bip_39_word_new_line_4 | idea
 setup
 odor
 small |  
-| bip_39_word_new_line5 | idea
+| bip_39_word_new_line_5 | idea
 setup
 odor
 small
 damp |  
-| bip_39_word_new_line6 | idea
+| bip_39_word_new_line_6 | idea
 setup
 odor
 small
 damp
 oxygen |  
-| bip_39_word_new_line7 | idea
+| bip_39_word_new_line_7 | idea
 setup
 odor
 small
 damp
 oxygen
 forward |  
-| bip_39_word_new_line8 | idea
+| bip_39_word_new_line_8 | idea
 setup
 odor
 small
@@ -113,7 +113,7 @@ damp
 oxygen
 forward
 aware |  
-| bip_39_word_new_line9 | idea
+| bip_39_word_new_line_9 | idea
 setup
 odor
 small

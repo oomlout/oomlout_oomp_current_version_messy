@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bone |  
-| bip_39_word_new_br10 | bone<br>tortoise<br>face<br>stadium<br>skirt<br>travel<br>riot<br>gift<br>truth<br>trip |  
-| bip_39_word_new_br11 | bone<br>tortoise<br>face<br>stadium<br>skirt<br>travel<br>riot<br>gift<br>truth<br>trip<br>mention |  
-| bip_39_word_new_br12 | bone<br>tortoise<br>face<br>stadium<br>skirt<br>travel<br>riot<br>gift<br>truth<br>trip<br>mention<br>add |  
-| bip_39_word_new_br2 | bone<br>tortoise |  
-| bip_39_word_new_br3 | bone<br>tortoise<br>face |  
-| bip_39_word_new_br4 | bone<br>tortoise<br>face<br>stadium |  
-| bip_39_word_new_br5 | bone<br>tortoise<br>face<br>stadium<br>skirt |  
-| bip_39_word_new_br6 | bone<br>tortoise<br>face<br>stadium<br>skirt<br>travel |  
-| bip_39_word_new_br7 | bone<br>tortoise<br>face<br>stadium<br>skirt<br>travel<br>riot |  
-| bip_39_word_new_br8 | bone<br>tortoise<br>face<br>stadium<br>skirt<br>travel<br>riot<br>gift |  
-| bip_39_word_new_br9 | bone<br>tortoise<br>face<br>stadium<br>skirt<br>travel<br>riot<br>gift<br>truth |  
-| bip_39_word_new_line1 | bone |  
-| bip_39_word_new_line10 | bone
+| bip_39_word_new_br_1 | bone |  
+| bip_39_word_new_br_10 | bone<br>tortoise<br>face<br>stadium<br>skirt<br>travel<br>riot<br>gift<br>truth<br>trip |  
+| bip_39_word_new_br_11 | bone<br>tortoise<br>face<br>stadium<br>skirt<br>travel<br>riot<br>gift<br>truth<br>trip<br>mention |  
+| bip_39_word_new_br_12 | bone<br>tortoise<br>face<br>stadium<br>skirt<br>travel<br>riot<br>gift<br>truth<br>trip<br>mention<br>add |  
+| bip_39_word_new_br_2 | bone<br>tortoise |  
+| bip_39_word_new_br_3 | bone<br>tortoise<br>face |  
+| bip_39_word_new_br_4 | bone<br>tortoise<br>face<br>stadium |  
+| bip_39_word_new_br_5 | bone<br>tortoise<br>face<br>stadium<br>skirt |  
+| bip_39_word_new_br_6 | bone<br>tortoise<br>face<br>stadium<br>skirt<br>travel |  
+| bip_39_word_new_br_7 | bone<br>tortoise<br>face<br>stadium<br>skirt<br>travel<br>riot |  
+| bip_39_word_new_br_8 | bone<br>tortoise<br>face<br>stadium<br>skirt<br>travel<br>riot<br>gift |  
+| bip_39_word_new_br_9 | bone<br>tortoise<br>face<br>stadium<br>skirt<br>travel<br>riot<br>gift<br>truth |  
+| bip_39_word_new_line_1 | bone |  
+| bip_39_word_new_line_10 | bone
 tortoise
 face
 stadium
@@ -55,7 +55,7 @@ riot
 gift
 truth
 trip |  
-| bip_39_word_new_line11 | bone
+| bip_39_word_new_line_11 | bone
 tortoise
 face
 stadium
@@ -66,7 +66,7 @@ gift
 truth
 trip
 mention |  
-| bip_39_word_new_line12 | bone
+| bip_39_word_new_line_12 | bone
 tortoise
 face
 stadium
@@ -78,34 +78,34 @@ truth
 trip
 mention
 add |  
-| bip_39_word_new_line2 | bone
+| bip_39_word_new_line_2 | bone
 tortoise |  
-| bip_39_word_new_line3 | bone
+| bip_39_word_new_line_3 | bone
 tortoise
 face |  
-| bip_39_word_new_line4 | bone
+| bip_39_word_new_line_4 | bone
 tortoise
 face
 stadium |  
-| bip_39_word_new_line5 | bone
+| bip_39_word_new_line_5 | bone
 tortoise
 face
 stadium
 skirt |  
-| bip_39_word_new_line6 | bone
+| bip_39_word_new_line_6 | bone
 tortoise
 face
 stadium
 skirt
 travel |  
-| bip_39_word_new_line7 | bone
+| bip_39_word_new_line_7 | bone
 tortoise
 face
 stadium
 skirt
 travel
 riot |  
-| bip_39_word_new_line8 | bone
+| bip_39_word_new_line_8 | bone
 tortoise
 face
 stadium
@@ -113,7 +113,7 @@ skirt
 travel
 riot
 gift |  
-| bip_39_word_new_line9 | bone
+| bip_39_word_new_line_9 | bone
 tortoise
 face
 stadium

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | where |  
-| bip_39_word_new_br10 | where<br>spare<br>taxi<br>hint<br>melody<br>good<br>child<br>elite<br>utility<br>still |  
-| bip_39_word_new_br11 | where<br>spare<br>taxi<br>hint<br>melody<br>good<br>child<br>elite<br>utility<br>still<br>later |  
-| bip_39_word_new_br12 | where<br>spare<br>taxi<br>hint<br>melody<br>good<br>child<br>elite<br>utility<br>still<br>later<br>athlete |  
-| bip_39_word_new_br2 | where<br>spare |  
-| bip_39_word_new_br3 | where<br>spare<br>taxi |  
-| bip_39_word_new_br4 | where<br>spare<br>taxi<br>hint |  
-| bip_39_word_new_br5 | where<br>spare<br>taxi<br>hint<br>melody |  
-| bip_39_word_new_br6 | where<br>spare<br>taxi<br>hint<br>melody<br>good |  
-| bip_39_word_new_br7 | where<br>spare<br>taxi<br>hint<br>melody<br>good<br>child |  
-| bip_39_word_new_br8 | where<br>spare<br>taxi<br>hint<br>melody<br>good<br>child<br>elite |  
-| bip_39_word_new_br9 | where<br>spare<br>taxi<br>hint<br>melody<br>good<br>child<br>elite<br>utility |  
-| bip_39_word_new_line1 | where |  
-| bip_39_word_new_line10 | where
+| bip_39_word_new_br_1 | where |  
+| bip_39_word_new_br_10 | where<br>spare<br>taxi<br>hint<br>melody<br>good<br>child<br>elite<br>utility<br>still |  
+| bip_39_word_new_br_11 | where<br>spare<br>taxi<br>hint<br>melody<br>good<br>child<br>elite<br>utility<br>still<br>later |  
+| bip_39_word_new_br_12 | where<br>spare<br>taxi<br>hint<br>melody<br>good<br>child<br>elite<br>utility<br>still<br>later<br>athlete |  
+| bip_39_word_new_br_2 | where<br>spare |  
+| bip_39_word_new_br_3 | where<br>spare<br>taxi |  
+| bip_39_word_new_br_4 | where<br>spare<br>taxi<br>hint |  
+| bip_39_word_new_br_5 | where<br>spare<br>taxi<br>hint<br>melody |  
+| bip_39_word_new_br_6 | where<br>spare<br>taxi<br>hint<br>melody<br>good |  
+| bip_39_word_new_br_7 | where<br>spare<br>taxi<br>hint<br>melody<br>good<br>child |  
+| bip_39_word_new_br_8 | where<br>spare<br>taxi<br>hint<br>melody<br>good<br>child<br>elite |  
+| bip_39_word_new_br_9 | where<br>spare<br>taxi<br>hint<br>melody<br>good<br>child<br>elite<br>utility |  
+| bip_39_word_new_line_1 | where |  
+| bip_39_word_new_line_10 | where
 spare
 taxi
 hint
@@ -55,7 +55,7 @@ child
 elite
 utility
 still |  
-| bip_39_word_new_line11 | where
+| bip_39_word_new_line_11 | where
 spare
 taxi
 hint
@@ -66,7 +66,7 @@ elite
 utility
 still
 later |  
-| bip_39_word_new_line12 | where
+| bip_39_word_new_line_12 | where
 spare
 taxi
 hint
@@ -78,34 +78,34 @@ utility
 still
 later
 athlete |  
-| bip_39_word_new_line2 | where
+| bip_39_word_new_line_2 | where
 spare |  
-| bip_39_word_new_line3 | where
+| bip_39_word_new_line_3 | where
 spare
 taxi |  
-| bip_39_word_new_line4 | where
+| bip_39_word_new_line_4 | where
 spare
 taxi
 hint |  
-| bip_39_word_new_line5 | where
+| bip_39_word_new_line_5 | where
 spare
 taxi
 hint
 melody |  
-| bip_39_word_new_line6 | where
+| bip_39_word_new_line_6 | where
 spare
 taxi
 hint
 melody
 good |  
-| bip_39_word_new_line7 | where
+| bip_39_word_new_line_7 | where
 spare
 taxi
 hint
 melody
 good
 child |  
-| bip_39_word_new_line8 | where
+| bip_39_word_new_line_8 | where
 spare
 taxi
 hint
@@ -113,7 +113,7 @@ melody
 good
 child
 elite |  
-| bip_39_word_new_line9 | where
+| bip_39_word_new_line_9 | where
 spare
 taxi
 hint

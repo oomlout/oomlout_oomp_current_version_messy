@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | way |  
-| bip_39_word_new_br10 | way<br>sight<br>clever<br>fever<br>craft<br>expose<br>stem<br>century<br>weapon<br>group |  
-| bip_39_word_new_br11 | way<br>sight<br>clever<br>fever<br>craft<br>expose<br>stem<br>century<br>weapon<br>group<br>slide |  
-| bip_39_word_new_br12 | way<br>sight<br>clever<br>fever<br>craft<br>expose<br>stem<br>century<br>weapon<br>group<br>slide<br>ancient |  
-| bip_39_word_new_br2 | way<br>sight |  
-| bip_39_word_new_br3 | way<br>sight<br>clever |  
-| bip_39_word_new_br4 | way<br>sight<br>clever<br>fever |  
-| bip_39_word_new_br5 | way<br>sight<br>clever<br>fever<br>craft |  
-| bip_39_word_new_br6 | way<br>sight<br>clever<br>fever<br>craft<br>expose |  
-| bip_39_word_new_br7 | way<br>sight<br>clever<br>fever<br>craft<br>expose<br>stem |  
-| bip_39_word_new_br8 | way<br>sight<br>clever<br>fever<br>craft<br>expose<br>stem<br>century |  
-| bip_39_word_new_br9 | way<br>sight<br>clever<br>fever<br>craft<br>expose<br>stem<br>century<br>weapon |  
-| bip_39_word_new_line1 | way |  
-| bip_39_word_new_line10 | way
+| bip_39_word_new_br_1 | way |  
+| bip_39_word_new_br_10 | way<br>sight<br>clever<br>fever<br>craft<br>expose<br>stem<br>century<br>weapon<br>group |  
+| bip_39_word_new_br_11 | way<br>sight<br>clever<br>fever<br>craft<br>expose<br>stem<br>century<br>weapon<br>group<br>slide |  
+| bip_39_word_new_br_12 | way<br>sight<br>clever<br>fever<br>craft<br>expose<br>stem<br>century<br>weapon<br>group<br>slide<br>ancient |  
+| bip_39_word_new_br_2 | way<br>sight |  
+| bip_39_word_new_br_3 | way<br>sight<br>clever |  
+| bip_39_word_new_br_4 | way<br>sight<br>clever<br>fever |  
+| bip_39_word_new_br_5 | way<br>sight<br>clever<br>fever<br>craft |  
+| bip_39_word_new_br_6 | way<br>sight<br>clever<br>fever<br>craft<br>expose |  
+| bip_39_word_new_br_7 | way<br>sight<br>clever<br>fever<br>craft<br>expose<br>stem |  
+| bip_39_word_new_br_8 | way<br>sight<br>clever<br>fever<br>craft<br>expose<br>stem<br>century |  
+| bip_39_word_new_br_9 | way<br>sight<br>clever<br>fever<br>craft<br>expose<br>stem<br>century<br>weapon |  
+| bip_39_word_new_line_1 | way |  
+| bip_39_word_new_line_10 | way
 sight
 clever
 fever
@@ -55,7 +55,7 @@ stem
 century
 weapon
 group |  
-| bip_39_word_new_line11 | way
+| bip_39_word_new_line_11 | way
 sight
 clever
 fever
@@ -66,7 +66,7 @@ century
 weapon
 group
 slide |  
-| bip_39_word_new_line12 | way
+| bip_39_word_new_line_12 | way
 sight
 clever
 fever
@@ -78,34 +78,34 @@ weapon
 group
 slide
 ancient |  
-| bip_39_word_new_line2 | way
+| bip_39_word_new_line_2 | way
 sight |  
-| bip_39_word_new_line3 | way
+| bip_39_word_new_line_3 | way
 sight
 clever |  
-| bip_39_word_new_line4 | way
+| bip_39_word_new_line_4 | way
 sight
 clever
 fever |  
-| bip_39_word_new_line5 | way
+| bip_39_word_new_line_5 | way
 sight
 clever
 fever
 craft |  
-| bip_39_word_new_line6 | way
+| bip_39_word_new_line_6 | way
 sight
 clever
 fever
 craft
 expose |  
-| bip_39_word_new_line7 | way
+| bip_39_word_new_line_7 | way
 sight
 clever
 fever
 craft
 expose
 stem |  
-| bip_39_word_new_line8 | way
+| bip_39_word_new_line_8 | way
 sight
 clever
 fever
@@ -113,7 +113,7 @@ craft
 expose
 stem
 century |  
-| bip_39_word_new_line9 | way
+| bip_39_word_new_line_9 | way
 sight
 clever
 fever

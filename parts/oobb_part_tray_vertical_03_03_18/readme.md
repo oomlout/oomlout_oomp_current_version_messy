@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | artist |  
-| bip_39_word_new_br10 | artist<br>staff<br>category<br>among<br>easy<br>common<br>follow<br>property<br>ginger<br>cash |  
-| bip_39_word_new_br11 | artist<br>staff<br>category<br>among<br>easy<br>common<br>follow<br>property<br>ginger<br>cash<br>captain |  
-| bip_39_word_new_br12 | artist<br>staff<br>category<br>among<br>easy<br>common<br>follow<br>property<br>ginger<br>cash<br>captain<br>attitude |  
-| bip_39_word_new_br2 | artist<br>staff |  
-| bip_39_word_new_br3 | artist<br>staff<br>category |  
-| bip_39_word_new_br4 | artist<br>staff<br>category<br>among |  
-| bip_39_word_new_br5 | artist<br>staff<br>category<br>among<br>easy |  
-| bip_39_word_new_br6 | artist<br>staff<br>category<br>among<br>easy<br>common |  
-| bip_39_word_new_br7 | artist<br>staff<br>category<br>among<br>easy<br>common<br>follow |  
-| bip_39_word_new_br8 | artist<br>staff<br>category<br>among<br>easy<br>common<br>follow<br>property |  
-| bip_39_word_new_br9 | artist<br>staff<br>category<br>among<br>easy<br>common<br>follow<br>property<br>ginger |  
-| bip_39_word_new_line1 | artist |  
-| bip_39_word_new_line10 | artist
+| bip_39_word_new_br_1 | artist |  
+| bip_39_word_new_br_10 | artist<br>staff<br>category<br>among<br>easy<br>common<br>follow<br>property<br>ginger<br>cash |  
+| bip_39_word_new_br_11 | artist<br>staff<br>category<br>among<br>easy<br>common<br>follow<br>property<br>ginger<br>cash<br>captain |  
+| bip_39_word_new_br_12 | artist<br>staff<br>category<br>among<br>easy<br>common<br>follow<br>property<br>ginger<br>cash<br>captain<br>attitude |  
+| bip_39_word_new_br_2 | artist<br>staff |  
+| bip_39_word_new_br_3 | artist<br>staff<br>category |  
+| bip_39_word_new_br_4 | artist<br>staff<br>category<br>among |  
+| bip_39_word_new_br_5 | artist<br>staff<br>category<br>among<br>easy |  
+| bip_39_word_new_br_6 | artist<br>staff<br>category<br>among<br>easy<br>common |  
+| bip_39_word_new_br_7 | artist<br>staff<br>category<br>among<br>easy<br>common<br>follow |  
+| bip_39_word_new_br_8 | artist<br>staff<br>category<br>among<br>easy<br>common<br>follow<br>property |  
+| bip_39_word_new_br_9 | artist<br>staff<br>category<br>among<br>easy<br>common<br>follow<br>property<br>ginger |  
+| bip_39_word_new_line_1 | artist |  
+| bip_39_word_new_line_10 | artist
 staff
 category
 among
@@ -55,7 +55,7 @@ follow
 property
 ginger
 cash |  
-| bip_39_word_new_line11 | artist
+| bip_39_word_new_line_11 | artist
 staff
 category
 among
@@ -66,7 +66,7 @@ property
 ginger
 cash
 captain |  
-| bip_39_word_new_line12 | artist
+| bip_39_word_new_line_12 | artist
 staff
 category
 among
@@ -78,34 +78,34 @@ ginger
 cash
 captain
 attitude |  
-| bip_39_word_new_line2 | artist
+| bip_39_word_new_line_2 | artist
 staff |  
-| bip_39_word_new_line3 | artist
+| bip_39_word_new_line_3 | artist
 staff
 category |  
-| bip_39_word_new_line4 | artist
+| bip_39_word_new_line_4 | artist
 staff
 category
 among |  
-| bip_39_word_new_line5 | artist
+| bip_39_word_new_line_5 | artist
 staff
 category
 among
 easy |  
-| bip_39_word_new_line6 | artist
+| bip_39_word_new_line_6 | artist
 staff
 category
 among
 easy
 common |  
-| bip_39_word_new_line7 | artist
+| bip_39_word_new_line_7 | artist
 staff
 category
 among
 easy
 common
 follow |  
-| bip_39_word_new_line8 | artist
+| bip_39_word_new_line_8 | artist
 staff
 category
 among
@@ -113,7 +113,7 @@ easy
 common
 follow
 property |  
-| bip_39_word_new_line9 | artist
+| bip_39_word_new_line_9 | artist
 staff
 category
 among

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wasp |  
-| bip_39_word_new_br10 | wasp<br>produce<br>duck<br>ecology<br>business<br>float<br>able<br>travel<br>word<br>abuse |  
-| bip_39_word_new_br11 | wasp<br>produce<br>duck<br>ecology<br>business<br>float<br>able<br>travel<br>word<br>abuse<br>this |  
-| bip_39_word_new_br12 | wasp<br>produce<br>duck<br>ecology<br>business<br>float<br>able<br>travel<br>word<br>abuse<br>this<br>all |  
-| bip_39_word_new_br2 | wasp<br>produce |  
-| bip_39_word_new_br3 | wasp<br>produce<br>duck |  
-| bip_39_word_new_br4 | wasp<br>produce<br>duck<br>ecology |  
-| bip_39_word_new_br5 | wasp<br>produce<br>duck<br>ecology<br>business |  
-| bip_39_word_new_br6 | wasp<br>produce<br>duck<br>ecology<br>business<br>float |  
-| bip_39_word_new_br7 | wasp<br>produce<br>duck<br>ecology<br>business<br>float<br>able |  
-| bip_39_word_new_br8 | wasp<br>produce<br>duck<br>ecology<br>business<br>float<br>able<br>travel |  
-| bip_39_word_new_br9 | wasp<br>produce<br>duck<br>ecology<br>business<br>float<br>able<br>travel<br>word |  
-| bip_39_word_new_line1 | wasp |  
-| bip_39_word_new_line10 | wasp
+| bip_39_word_new_br_1 | wasp |  
+| bip_39_word_new_br_10 | wasp<br>produce<br>duck<br>ecology<br>business<br>float<br>able<br>travel<br>word<br>abuse |  
+| bip_39_word_new_br_11 | wasp<br>produce<br>duck<br>ecology<br>business<br>float<br>able<br>travel<br>word<br>abuse<br>this |  
+| bip_39_word_new_br_12 | wasp<br>produce<br>duck<br>ecology<br>business<br>float<br>able<br>travel<br>word<br>abuse<br>this<br>all |  
+| bip_39_word_new_br_2 | wasp<br>produce |  
+| bip_39_word_new_br_3 | wasp<br>produce<br>duck |  
+| bip_39_word_new_br_4 | wasp<br>produce<br>duck<br>ecology |  
+| bip_39_word_new_br_5 | wasp<br>produce<br>duck<br>ecology<br>business |  
+| bip_39_word_new_br_6 | wasp<br>produce<br>duck<br>ecology<br>business<br>float |  
+| bip_39_word_new_br_7 | wasp<br>produce<br>duck<br>ecology<br>business<br>float<br>able |  
+| bip_39_word_new_br_8 | wasp<br>produce<br>duck<br>ecology<br>business<br>float<br>able<br>travel |  
+| bip_39_word_new_br_9 | wasp<br>produce<br>duck<br>ecology<br>business<br>float<br>able<br>travel<br>word |  
+| bip_39_word_new_line_1 | wasp |  
+| bip_39_word_new_line_10 | wasp
 produce
 duck
 ecology
@@ -55,7 +55,7 @@ able
 travel
 word
 abuse |  
-| bip_39_word_new_line11 | wasp
+| bip_39_word_new_line_11 | wasp
 produce
 duck
 ecology
@@ -66,7 +66,7 @@ travel
 word
 abuse
 this |  
-| bip_39_word_new_line12 | wasp
+| bip_39_word_new_line_12 | wasp
 produce
 duck
 ecology
@@ -78,34 +78,34 @@ word
 abuse
 this
 all |  
-| bip_39_word_new_line2 | wasp
+| bip_39_word_new_line_2 | wasp
 produce |  
-| bip_39_word_new_line3 | wasp
+| bip_39_word_new_line_3 | wasp
 produce
 duck |  
-| bip_39_word_new_line4 | wasp
+| bip_39_word_new_line_4 | wasp
 produce
 duck
 ecology |  
-| bip_39_word_new_line5 | wasp
+| bip_39_word_new_line_5 | wasp
 produce
 duck
 ecology
 business |  
-| bip_39_word_new_line6 | wasp
+| bip_39_word_new_line_6 | wasp
 produce
 duck
 ecology
 business
 float |  
-| bip_39_word_new_line7 | wasp
+| bip_39_word_new_line_7 | wasp
 produce
 duck
 ecology
 business
 float
 able |  
-| bip_39_word_new_line8 | wasp
+| bip_39_word_new_line_8 | wasp
 produce
 duck
 ecology
@@ -113,7 +113,7 @@ business
 float
 able
 travel |  
-| bip_39_word_new_line9 | wasp
+| bip_39_word_new_line_9 | wasp
 produce
 duck
 ecology

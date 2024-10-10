@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | strong |  
-| bip_39_word_new_br10 | strong<br>airport<br>tobacco<br>miss<br>future<br>treat<br>tide<br>force<br>lounge<br>alarm |  
-| bip_39_word_new_br11 | strong<br>airport<br>tobacco<br>miss<br>future<br>treat<br>tide<br>force<br>lounge<br>alarm<br>escape |  
-| bip_39_word_new_br12 | strong<br>airport<br>tobacco<br>miss<br>future<br>treat<br>tide<br>force<br>lounge<br>alarm<br>escape<br>assault |  
-| bip_39_word_new_br2 | strong<br>airport |  
-| bip_39_word_new_br3 | strong<br>airport<br>tobacco |  
-| bip_39_word_new_br4 | strong<br>airport<br>tobacco<br>miss |  
-| bip_39_word_new_br5 | strong<br>airport<br>tobacco<br>miss<br>future |  
-| bip_39_word_new_br6 | strong<br>airport<br>tobacco<br>miss<br>future<br>treat |  
-| bip_39_word_new_br7 | strong<br>airport<br>tobacco<br>miss<br>future<br>treat<br>tide |  
-| bip_39_word_new_br8 | strong<br>airport<br>tobacco<br>miss<br>future<br>treat<br>tide<br>force |  
-| bip_39_word_new_br9 | strong<br>airport<br>tobacco<br>miss<br>future<br>treat<br>tide<br>force<br>lounge |  
-| bip_39_word_new_line1 | strong |  
-| bip_39_word_new_line10 | strong
+| bip_39_word_new_br_1 | strong |  
+| bip_39_word_new_br_10 | strong<br>airport<br>tobacco<br>miss<br>future<br>treat<br>tide<br>force<br>lounge<br>alarm |  
+| bip_39_word_new_br_11 | strong<br>airport<br>tobacco<br>miss<br>future<br>treat<br>tide<br>force<br>lounge<br>alarm<br>escape |  
+| bip_39_word_new_br_12 | strong<br>airport<br>tobacco<br>miss<br>future<br>treat<br>tide<br>force<br>lounge<br>alarm<br>escape<br>assault |  
+| bip_39_word_new_br_2 | strong<br>airport |  
+| bip_39_word_new_br_3 | strong<br>airport<br>tobacco |  
+| bip_39_word_new_br_4 | strong<br>airport<br>tobacco<br>miss |  
+| bip_39_word_new_br_5 | strong<br>airport<br>tobacco<br>miss<br>future |  
+| bip_39_word_new_br_6 | strong<br>airport<br>tobacco<br>miss<br>future<br>treat |  
+| bip_39_word_new_br_7 | strong<br>airport<br>tobacco<br>miss<br>future<br>treat<br>tide |  
+| bip_39_word_new_br_8 | strong<br>airport<br>tobacco<br>miss<br>future<br>treat<br>tide<br>force |  
+| bip_39_word_new_br_9 | strong<br>airport<br>tobacco<br>miss<br>future<br>treat<br>tide<br>force<br>lounge |  
+| bip_39_word_new_line_1 | strong |  
+| bip_39_word_new_line_10 | strong
 airport
 tobacco
 miss
@@ -55,7 +55,7 @@ tide
 force
 lounge
 alarm |  
-| bip_39_word_new_line11 | strong
+| bip_39_word_new_line_11 | strong
 airport
 tobacco
 miss
@@ -66,7 +66,7 @@ force
 lounge
 alarm
 escape |  
-| bip_39_word_new_line12 | strong
+| bip_39_word_new_line_12 | strong
 airport
 tobacco
 miss
@@ -78,34 +78,34 @@ lounge
 alarm
 escape
 assault |  
-| bip_39_word_new_line2 | strong
+| bip_39_word_new_line_2 | strong
 airport |  
-| bip_39_word_new_line3 | strong
+| bip_39_word_new_line_3 | strong
 airport
 tobacco |  
-| bip_39_word_new_line4 | strong
+| bip_39_word_new_line_4 | strong
 airport
 tobacco
 miss |  
-| bip_39_word_new_line5 | strong
+| bip_39_word_new_line_5 | strong
 airport
 tobacco
 miss
 future |  
-| bip_39_word_new_line6 | strong
+| bip_39_word_new_line_6 | strong
 airport
 tobacco
 miss
 future
 treat |  
-| bip_39_word_new_line7 | strong
+| bip_39_word_new_line_7 | strong
 airport
 tobacco
 miss
 future
 treat
 tide |  
-| bip_39_word_new_line8 | strong
+| bip_39_word_new_line_8 | strong
 airport
 tobacco
 miss
@@ -113,7 +113,7 @@ future
 treat
 tide
 force |  
-| bip_39_word_new_line9 | strong
+| bip_39_word_new_line_9 | strong
 airport
 tobacco
 miss

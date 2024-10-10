@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | upper |  
-| bip_39_word_new_br10 | upper<br>situate<br>merge<br>dove<br>raven<br>dance<br>harvest<br>slush<br>giraffe<br>pulp |  
-| bip_39_word_new_br11 | upper<br>situate<br>merge<br>dove<br>raven<br>dance<br>harvest<br>slush<br>giraffe<br>pulp<br>patrol |  
-| bip_39_word_new_br12 | upper<br>situate<br>merge<br>dove<br>raven<br>dance<br>harvest<br>slush<br>giraffe<br>pulp<br>patrol<br>asthma |  
-| bip_39_word_new_br2 | upper<br>situate |  
-| bip_39_word_new_br3 | upper<br>situate<br>merge |  
-| bip_39_word_new_br4 | upper<br>situate<br>merge<br>dove |  
-| bip_39_word_new_br5 | upper<br>situate<br>merge<br>dove<br>raven |  
-| bip_39_word_new_br6 | upper<br>situate<br>merge<br>dove<br>raven<br>dance |  
-| bip_39_word_new_br7 | upper<br>situate<br>merge<br>dove<br>raven<br>dance<br>harvest |  
-| bip_39_word_new_br8 | upper<br>situate<br>merge<br>dove<br>raven<br>dance<br>harvest<br>slush |  
-| bip_39_word_new_br9 | upper<br>situate<br>merge<br>dove<br>raven<br>dance<br>harvest<br>slush<br>giraffe |  
-| bip_39_word_new_line1 | upper |  
-| bip_39_word_new_line10 | upper
+| bip_39_word_new_br_1 | upper |  
+| bip_39_word_new_br_10 | upper<br>situate<br>merge<br>dove<br>raven<br>dance<br>harvest<br>slush<br>giraffe<br>pulp |  
+| bip_39_word_new_br_11 | upper<br>situate<br>merge<br>dove<br>raven<br>dance<br>harvest<br>slush<br>giraffe<br>pulp<br>patrol |  
+| bip_39_word_new_br_12 | upper<br>situate<br>merge<br>dove<br>raven<br>dance<br>harvest<br>slush<br>giraffe<br>pulp<br>patrol<br>asthma |  
+| bip_39_word_new_br_2 | upper<br>situate |  
+| bip_39_word_new_br_3 | upper<br>situate<br>merge |  
+| bip_39_word_new_br_4 | upper<br>situate<br>merge<br>dove |  
+| bip_39_word_new_br_5 | upper<br>situate<br>merge<br>dove<br>raven |  
+| bip_39_word_new_br_6 | upper<br>situate<br>merge<br>dove<br>raven<br>dance |  
+| bip_39_word_new_br_7 | upper<br>situate<br>merge<br>dove<br>raven<br>dance<br>harvest |  
+| bip_39_word_new_br_8 | upper<br>situate<br>merge<br>dove<br>raven<br>dance<br>harvest<br>slush |  
+| bip_39_word_new_br_9 | upper<br>situate<br>merge<br>dove<br>raven<br>dance<br>harvest<br>slush<br>giraffe |  
+| bip_39_word_new_line_1 | upper |  
+| bip_39_word_new_line_10 | upper
 situate
 merge
 dove
@@ -55,7 +55,7 @@ harvest
 slush
 giraffe
 pulp |  
-| bip_39_word_new_line11 | upper
+| bip_39_word_new_line_11 | upper
 situate
 merge
 dove
@@ -66,7 +66,7 @@ slush
 giraffe
 pulp
 patrol |  
-| bip_39_word_new_line12 | upper
+| bip_39_word_new_line_12 | upper
 situate
 merge
 dove
@@ -78,34 +78,34 @@ giraffe
 pulp
 patrol
 asthma |  
-| bip_39_word_new_line2 | upper
+| bip_39_word_new_line_2 | upper
 situate |  
-| bip_39_word_new_line3 | upper
+| bip_39_word_new_line_3 | upper
 situate
 merge |  
-| bip_39_word_new_line4 | upper
+| bip_39_word_new_line_4 | upper
 situate
 merge
 dove |  
-| bip_39_word_new_line5 | upper
+| bip_39_word_new_line_5 | upper
 situate
 merge
 dove
 raven |  
-| bip_39_word_new_line6 | upper
+| bip_39_word_new_line_6 | upper
 situate
 merge
 dove
 raven
 dance |  
-| bip_39_word_new_line7 | upper
+| bip_39_word_new_line_7 | upper
 situate
 merge
 dove
 raven
 dance
 harvest |  
-| bip_39_word_new_line8 | upper
+| bip_39_word_new_line_8 | upper
 situate
 merge
 dove
@@ -113,7 +113,7 @@ raven
 dance
 harvest
 slush |  
-| bip_39_word_new_line9 | upper
+| bip_39_word_new_line_9 | upper
 situate
 merge
 dove

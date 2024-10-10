@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | input |  
-| bip_39_word_new_br10 | input<br>egg<br>squeeze<br>stem<br>oppose<br>coyote<br>heavy<br>casino<br>unique<br>afford |  
-| bip_39_word_new_br11 | input<br>egg<br>squeeze<br>stem<br>oppose<br>coyote<br>heavy<br>casino<br>unique<br>afford<br>dice |  
-| bip_39_word_new_br12 | input<br>egg<br>squeeze<br>stem<br>oppose<br>coyote<br>heavy<br>casino<br>unique<br>afford<br>dice<br>attend |  
-| bip_39_word_new_br2 | input<br>egg |  
-| bip_39_word_new_br3 | input<br>egg<br>squeeze |  
-| bip_39_word_new_br4 | input<br>egg<br>squeeze<br>stem |  
-| bip_39_word_new_br5 | input<br>egg<br>squeeze<br>stem<br>oppose |  
-| bip_39_word_new_br6 | input<br>egg<br>squeeze<br>stem<br>oppose<br>coyote |  
-| bip_39_word_new_br7 | input<br>egg<br>squeeze<br>stem<br>oppose<br>coyote<br>heavy |  
-| bip_39_word_new_br8 | input<br>egg<br>squeeze<br>stem<br>oppose<br>coyote<br>heavy<br>casino |  
-| bip_39_word_new_br9 | input<br>egg<br>squeeze<br>stem<br>oppose<br>coyote<br>heavy<br>casino<br>unique |  
-| bip_39_word_new_line1 | input |  
-| bip_39_word_new_line10 | input
+| bip_39_word_new_br_1 | input |  
+| bip_39_word_new_br_10 | input<br>egg<br>squeeze<br>stem<br>oppose<br>coyote<br>heavy<br>casino<br>unique<br>afford |  
+| bip_39_word_new_br_11 | input<br>egg<br>squeeze<br>stem<br>oppose<br>coyote<br>heavy<br>casino<br>unique<br>afford<br>dice |  
+| bip_39_word_new_br_12 | input<br>egg<br>squeeze<br>stem<br>oppose<br>coyote<br>heavy<br>casino<br>unique<br>afford<br>dice<br>attend |  
+| bip_39_word_new_br_2 | input<br>egg |  
+| bip_39_word_new_br_3 | input<br>egg<br>squeeze |  
+| bip_39_word_new_br_4 | input<br>egg<br>squeeze<br>stem |  
+| bip_39_word_new_br_5 | input<br>egg<br>squeeze<br>stem<br>oppose |  
+| bip_39_word_new_br_6 | input<br>egg<br>squeeze<br>stem<br>oppose<br>coyote |  
+| bip_39_word_new_br_7 | input<br>egg<br>squeeze<br>stem<br>oppose<br>coyote<br>heavy |  
+| bip_39_word_new_br_8 | input<br>egg<br>squeeze<br>stem<br>oppose<br>coyote<br>heavy<br>casino |  
+| bip_39_word_new_br_9 | input<br>egg<br>squeeze<br>stem<br>oppose<br>coyote<br>heavy<br>casino<br>unique |  
+| bip_39_word_new_line_1 | input |  
+| bip_39_word_new_line_10 | input
 egg
 squeeze
 stem
@@ -55,7 +55,7 @@ heavy
 casino
 unique
 afford |  
-| bip_39_word_new_line11 | input
+| bip_39_word_new_line_11 | input
 egg
 squeeze
 stem
@@ -66,7 +66,7 @@ casino
 unique
 afford
 dice |  
-| bip_39_word_new_line12 | input
+| bip_39_word_new_line_12 | input
 egg
 squeeze
 stem
@@ -78,34 +78,34 @@ unique
 afford
 dice
 attend |  
-| bip_39_word_new_line2 | input
+| bip_39_word_new_line_2 | input
 egg |  
-| bip_39_word_new_line3 | input
+| bip_39_word_new_line_3 | input
 egg
 squeeze |  
-| bip_39_word_new_line4 | input
+| bip_39_word_new_line_4 | input
 egg
 squeeze
 stem |  
-| bip_39_word_new_line5 | input
+| bip_39_word_new_line_5 | input
 egg
 squeeze
 stem
 oppose |  
-| bip_39_word_new_line6 | input
+| bip_39_word_new_line_6 | input
 egg
 squeeze
 stem
 oppose
 coyote |  
-| bip_39_word_new_line7 | input
+| bip_39_word_new_line_7 | input
 egg
 squeeze
 stem
 oppose
 coyote
 heavy |  
-| bip_39_word_new_line8 | input
+| bip_39_word_new_line_8 | input
 egg
 squeeze
 stem
@@ -113,7 +113,7 @@ oppose
 coyote
 heavy
 casino |  
-| bip_39_word_new_line9 | input
+| bip_39_word_new_line_9 | input
 egg
 squeeze
 stem

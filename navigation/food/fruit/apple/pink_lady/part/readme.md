@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wasp |  
-| bip_39_word_new_br10 | wasp<br>demand<br>fatigue<br>fiscal<br>grain<br>imitate<br>stem<br>joke<br>legal<br>ordinary |  
-| bip_39_word_new_br11 | wasp<br>demand<br>fatigue<br>fiscal<br>grain<br>imitate<br>stem<br>joke<br>legal<br>ordinary<br>gown |  
-| bip_39_word_new_br12 | wasp<br>demand<br>fatigue<br>fiscal<br>grain<br>imitate<br>stem<br>joke<br>legal<br>ordinary<br>gown<br>arm |  
-| bip_39_word_new_br2 | wasp<br>demand |  
-| bip_39_word_new_br3 | wasp<br>demand<br>fatigue |  
-| bip_39_word_new_br4 | wasp<br>demand<br>fatigue<br>fiscal |  
-| bip_39_word_new_br5 | wasp<br>demand<br>fatigue<br>fiscal<br>grain |  
-| bip_39_word_new_br6 | wasp<br>demand<br>fatigue<br>fiscal<br>grain<br>imitate |  
-| bip_39_word_new_br7 | wasp<br>demand<br>fatigue<br>fiscal<br>grain<br>imitate<br>stem |  
-| bip_39_word_new_br8 | wasp<br>demand<br>fatigue<br>fiscal<br>grain<br>imitate<br>stem<br>joke |  
-| bip_39_word_new_br9 | wasp<br>demand<br>fatigue<br>fiscal<br>grain<br>imitate<br>stem<br>joke<br>legal |  
-| bip_39_word_new_line1 | wasp |  
-| bip_39_word_new_line10 | wasp
+| bip_39_word_new_br_1 | wasp |  
+| bip_39_word_new_br_10 | wasp<br>demand<br>fatigue<br>fiscal<br>grain<br>imitate<br>stem<br>joke<br>legal<br>ordinary |  
+| bip_39_word_new_br_11 | wasp<br>demand<br>fatigue<br>fiscal<br>grain<br>imitate<br>stem<br>joke<br>legal<br>ordinary<br>gown |  
+| bip_39_word_new_br_12 | wasp<br>demand<br>fatigue<br>fiscal<br>grain<br>imitate<br>stem<br>joke<br>legal<br>ordinary<br>gown<br>arm |  
+| bip_39_word_new_br_2 | wasp<br>demand |  
+| bip_39_word_new_br_3 | wasp<br>demand<br>fatigue |  
+| bip_39_word_new_br_4 | wasp<br>demand<br>fatigue<br>fiscal |  
+| bip_39_word_new_br_5 | wasp<br>demand<br>fatigue<br>fiscal<br>grain |  
+| bip_39_word_new_br_6 | wasp<br>demand<br>fatigue<br>fiscal<br>grain<br>imitate |  
+| bip_39_word_new_br_7 | wasp<br>demand<br>fatigue<br>fiscal<br>grain<br>imitate<br>stem |  
+| bip_39_word_new_br_8 | wasp<br>demand<br>fatigue<br>fiscal<br>grain<br>imitate<br>stem<br>joke |  
+| bip_39_word_new_br_9 | wasp<br>demand<br>fatigue<br>fiscal<br>grain<br>imitate<br>stem<br>joke<br>legal |  
+| bip_39_word_new_line_1 | wasp |  
+| bip_39_word_new_line_10 | wasp
 demand
 fatigue
 fiscal
@@ -55,7 +55,7 @@ stem
 joke
 legal
 ordinary |  
-| bip_39_word_new_line11 | wasp
+| bip_39_word_new_line_11 | wasp
 demand
 fatigue
 fiscal
@@ -66,7 +66,7 @@ joke
 legal
 ordinary
 gown |  
-| bip_39_word_new_line12 | wasp
+| bip_39_word_new_line_12 | wasp
 demand
 fatigue
 fiscal
@@ -78,34 +78,34 @@ legal
 ordinary
 gown
 arm |  
-| bip_39_word_new_line2 | wasp
+| bip_39_word_new_line_2 | wasp
 demand |  
-| bip_39_word_new_line3 | wasp
+| bip_39_word_new_line_3 | wasp
 demand
 fatigue |  
-| bip_39_word_new_line4 | wasp
+| bip_39_word_new_line_4 | wasp
 demand
 fatigue
 fiscal |  
-| bip_39_word_new_line5 | wasp
+| bip_39_word_new_line_5 | wasp
 demand
 fatigue
 fiscal
 grain |  
-| bip_39_word_new_line6 | wasp
+| bip_39_word_new_line_6 | wasp
 demand
 fatigue
 fiscal
 grain
 imitate |  
-| bip_39_word_new_line7 | wasp
+| bip_39_word_new_line_7 | wasp
 demand
 fatigue
 fiscal
 grain
 imitate
 stem |  
-| bip_39_word_new_line8 | wasp
+| bip_39_word_new_line_8 | wasp
 demand
 fatigue
 fiscal
@@ -113,7 +113,7 @@ grain
 imitate
 stem
 joke |  
-| bip_39_word_new_line9 | wasp
+| bip_39_word_new_line_9 | wasp
 demand
 fatigue
 fiscal

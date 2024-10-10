@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rent |  
-| bip_39_word_new_br10 | rent<br>hero<br>leave<br>dumb<br>drift<br>timber<br>expire<br>margin<br>then<br>sugar |  
-| bip_39_word_new_br11 | rent<br>hero<br>leave<br>dumb<br>drift<br>timber<br>expire<br>margin<br>then<br>sugar<br>sting |  
-| bip_39_word_new_br12 | rent<br>hero<br>leave<br>dumb<br>drift<br>timber<br>expire<br>margin<br>then<br>sugar<br>sting<br>achieve |  
-| bip_39_word_new_br2 | rent<br>hero |  
-| bip_39_word_new_br3 | rent<br>hero<br>leave |  
-| bip_39_word_new_br4 | rent<br>hero<br>leave<br>dumb |  
-| bip_39_word_new_br5 | rent<br>hero<br>leave<br>dumb<br>drift |  
-| bip_39_word_new_br6 | rent<br>hero<br>leave<br>dumb<br>drift<br>timber |  
-| bip_39_word_new_br7 | rent<br>hero<br>leave<br>dumb<br>drift<br>timber<br>expire |  
-| bip_39_word_new_br8 | rent<br>hero<br>leave<br>dumb<br>drift<br>timber<br>expire<br>margin |  
-| bip_39_word_new_br9 | rent<br>hero<br>leave<br>dumb<br>drift<br>timber<br>expire<br>margin<br>then |  
-| bip_39_word_new_line1 | rent |  
-| bip_39_word_new_line10 | rent
+| bip_39_word_new_br_1 | rent |  
+| bip_39_word_new_br_10 | rent<br>hero<br>leave<br>dumb<br>drift<br>timber<br>expire<br>margin<br>then<br>sugar |  
+| bip_39_word_new_br_11 | rent<br>hero<br>leave<br>dumb<br>drift<br>timber<br>expire<br>margin<br>then<br>sugar<br>sting |  
+| bip_39_word_new_br_12 | rent<br>hero<br>leave<br>dumb<br>drift<br>timber<br>expire<br>margin<br>then<br>sugar<br>sting<br>achieve |  
+| bip_39_word_new_br_2 | rent<br>hero |  
+| bip_39_word_new_br_3 | rent<br>hero<br>leave |  
+| bip_39_word_new_br_4 | rent<br>hero<br>leave<br>dumb |  
+| bip_39_word_new_br_5 | rent<br>hero<br>leave<br>dumb<br>drift |  
+| bip_39_word_new_br_6 | rent<br>hero<br>leave<br>dumb<br>drift<br>timber |  
+| bip_39_word_new_br_7 | rent<br>hero<br>leave<br>dumb<br>drift<br>timber<br>expire |  
+| bip_39_word_new_br_8 | rent<br>hero<br>leave<br>dumb<br>drift<br>timber<br>expire<br>margin |  
+| bip_39_word_new_br_9 | rent<br>hero<br>leave<br>dumb<br>drift<br>timber<br>expire<br>margin<br>then |  
+| bip_39_word_new_line_1 | rent |  
+| bip_39_word_new_line_10 | rent
 hero
 leave
 dumb
@@ -55,7 +55,7 @@ expire
 margin
 then
 sugar |  
-| bip_39_word_new_line11 | rent
+| bip_39_word_new_line_11 | rent
 hero
 leave
 dumb
@@ -66,7 +66,7 @@ margin
 then
 sugar
 sting |  
-| bip_39_word_new_line12 | rent
+| bip_39_word_new_line_12 | rent
 hero
 leave
 dumb
@@ -78,34 +78,34 @@ then
 sugar
 sting
 achieve |  
-| bip_39_word_new_line2 | rent
+| bip_39_word_new_line_2 | rent
 hero |  
-| bip_39_word_new_line3 | rent
+| bip_39_word_new_line_3 | rent
 hero
 leave |  
-| bip_39_word_new_line4 | rent
+| bip_39_word_new_line_4 | rent
 hero
 leave
 dumb |  
-| bip_39_word_new_line5 | rent
+| bip_39_word_new_line_5 | rent
 hero
 leave
 dumb
 drift |  
-| bip_39_word_new_line6 | rent
+| bip_39_word_new_line_6 | rent
 hero
 leave
 dumb
 drift
 timber |  
-| bip_39_word_new_line7 | rent
+| bip_39_word_new_line_7 | rent
 hero
 leave
 dumb
 drift
 timber
 expire |  
-| bip_39_word_new_line8 | rent
+| bip_39_word_new_line_8 | rent
 hero
 leave
 dumb
@@ -113,7 +113,7 @@ drift
 timber
 expire
 margin |  
-| bip_39_word_new_line9 | rent
+| bip_39_word_new_line_9 | rent
 hero
 leave
 dumb

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | purpose |  
-| bip_39_word_new_br10 | purpose<br>hungry<br>whip<br>stem<br>dragon<br>blame<br>bonus<br>olive<br>educate<br>business |  
-| bip_39_word_new_br11 | purpose<br>hungry<br>whip<br>stem<br>dragon<br>blame<br>bonus<br>olive<br>educate<br>business<br>disorder |  
-| bip_39_word_new_br12 | purpose<br>hungry<br>whip<br>stem<br>dragon<br>blame<br>bonus<br>olive<br>educate<br>business<br>disorder<br>airport |  
-| bip_39_word_new_br2 | purpose<br>hungry |  
-| bip_39_word_new_br3 | purpose<br>hungry<br>whip |  
-| bip_39_word_new_br4 | purpose<br>hungry<br>whip<br>stem |  
-| bip_39_word_new_br5 | purpose<br>hungry<br>whip<br>stem<br>dragon |  
-| bip_39_word_new_br6 | purpose<br>hungry<br>whip<br>stem<br>dragon<br>blame |  
-| bip_39_word_new_br7 | purpose<br>hungry<br>whip<br>stem<br>dragon<br>blame<br>bonus |  
-| bip_39_word_new_br8 | purpose<br>hungry<br>whip<br>stem<br>dragon<br>blame<br>bonus<br>olive |  
-| bip_39_word_new_br9 | purpose<br>hungry<br>whip<br>stem<br>dragon<br>blame<br>bonus<br>olive<br>educate |  
-| bip_39_word_new_line1 | purpose |  
-| bip_39_word_new_line10 | purpose
+| bip_39_word_new_br_1 | purpose |  
+| bip_39_word_new_br_10 | purpose<br>hungry<br>whip<br>stem<br>dragon<br>blame<br>bonus<br>olive<br>educate<br>business |  
+| bip_39_word_new_br_11 | purpose<br>hungry<br>whip<br>stem<br>dragon<br>blame<br>bonus<br>olive<br>educate<br>business<br>disorder |  
+| bip_39_word_new_br_12 | purpose<br>hungry<br>whip<br>stem<br>dragon<br>blame<br>bonus<br>olive<br>educate<br>business<br>disorder<br>airport |  
+| bip_39_word_new_br_2 | purpose<br>hungry |  
+| bip_39_word_new_br_3 | purpose<br>hungry<br>whip |  
+| bip_39_word_new_br_4 | purpose<br>hungry<br>whip<br>stem |  
+| bip_39_word_new_br_5 | purpose<br>hungry<br>whip<br>stem<br>dragon |  
+| bip_39_word_new_br_6 | purpose<br>hungry<br>whip<br>stem<br>dragon<br>blame |  
+| bip_39_word_new_br_7 | purpose<br>hungry<br>whip<br>stem<br>dragon<br>blame<br>bonus |  
+| bip_39_word_new_br_8 | purpose<br>hungry<br>whip<br>stem<br>dragon<br>blame<br>bonus<br>olive |  
+| bip_39_word_new_br_9 | purpose<br>hungry<br>whip<br>stem<br>dragon<br>blame<br>bonus<br>olive<br>educate |  
+| bip_39_word_new_line_1 | purpose |  
+| bip_39_word_new_line_10 | purpose
 hungry
 whip
 stem
@@ -55,7 +55,7 @@ bonus
 olive
 educate
 business |  
-| bip_39_word_new_line11 | purpose
+| bip_39_word_new_line_11 | purpose
 hungry
 whip
 stem
@@ -66,7 +66,7 @@ olive
 educate
 business
 disorder |  
-| bip_39_word_new_line12 | purpose
+| bip_39_word_new_line_12 | purpose
 hungry
 whip
 stem
@@ -78,34 +78,34 @@ educate
 business
 disorder
 airport |  
-| bip_39_word_new_line2 | purpose
+| bip_39_word_new_line_2 | purpose
 hungry |  
-| bip_39_word_new_line3 | purpose
+| bip_39_word_new_line_3 | purpose
 hungry
 whip |  
-| bip_39_word_new_line4 | purpose
+| bip_39_word_new_line_4 | purpose
 hungry
 whip
 stem |  
-| bip_39_word_new_line5 | purpose
+| bip_39_word_new_line_5 | purpose
 hungry
 whip
 stem
 dragon |  
-| bip_39_word_new_line6 | purpose
+| bip_39_word_new_line_6 | purpose
 hungry
 whip
 stem
 dragon
 blame |  
-| bip_39_word_new_line7 | purpose
+| bip_39_word_new_line_7 | purpose
 hungry
 whip
 stem
 dragon
 blame
 bonus |  
-| bip_39_word_new_line8 | purpose
+| bip_39_word_new_line_8 | purpose
 hungry
 whip
 stem
@@ -113,7 +113,7 @@ dragon
 blame
 bonus
 olive |  
-| bip_39_word_new_line9 | purpose
+| bip_39_word_new_line_9 | purpose
 hungry
 whip
 stem

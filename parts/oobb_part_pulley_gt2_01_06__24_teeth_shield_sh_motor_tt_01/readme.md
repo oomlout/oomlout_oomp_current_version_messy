@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pass |  
-| bip_39_word_new_br10 | pass<br>reason<br>plug<br>pig<br>swallow<br>drink<br>annual<br>blue<br>supply<br>end |  
-| bip_39_word_new_br11 | pass<br>reason<br>plug<br>pig<br>swallow<br>drink<br>annual<br>blue<br>supply<br>end<br>angle |  
-| bip_39_word_new_br12 | pass<br>reason<br>plug<br>pig<br>swallow<br>drink<br>annual<br>blue<br>supply<br>end<br>angle<br>attend |  
-| bip_39_word_new_br2 | pass<br>reason |  
-| bip_39_word_new_br3 | pass<br>reason<br>plug |  
-| bip_39_word_new_br4 | pass<br>reason<br>plug<br>pig |  
-| bip_39_word_new_br5 | pass<br>reason<br>plug<br>pig<br>swallow |  
-| bip_39_word_new_br6 | pass<br>reason<br>plug<br>pig<br>swallow<br>drink |  
-| bip_39_word_new_br7 | pass<br>reason<br>plug<br>pig<br>swallow<br>drink<br>annual |  
-| bip_39_word_new_br8 | pass<br>reason<br>plug<br>pig<br>swallow<br>drink<br>annual<br>blue |  
-| bip_39_word_new_br9 | pass<br>reason<br>plug<br>pig<br>swallow<br>drink<br>annual<br>blue<br>supply |  
-| bip_39_word_new_line1 | pass |  
-| bip_39_word_new_line10 | pass
+| bip_39_word_new_br_1 | pass |  
+| bip_39_word_new_br_10 | pass<br>reason<br>plug<br>pig<br>swallow<br>drink<br>annual<br>blue<br>supply<br>end |  
+| bip_39_word_new_br_11 | pass<br>reason<br>plug<br>pig<br>swallow<br>drink<br>annual<br>blue<br>supply<br>end<br>angle |  
+| bip_39_word_new_br_12 | pass<br>reason<br>plug<br>pig<br>swallow<br>drink<br>annual<br>blue<br>supply<br>end<br>angle<br>attend |  
+| bip_39_word_new_br_2 | pass<br>reason |  
+| bip_39_word_new_br_3 | pass<br>reason<br>plug |  
+| bip_39_word_new_br_4 | pass<br>reason<br>plug<br>pig |  
+| bip_39_word_new_br_5 | pass<br>reason<br>plug<br>pig<br>swallow |  
+| bip_39_word_new_br_6 | pass<br>reason<br>plug<br>pig<br>swallow<br>drink |  
+| bip_39_word_new_br_7 | pass<br>reason<br>plug<br>pig<br>swallow<br>drink<br>annual |  
+| bip_39_word_new_br_8 | pass<br>reason<br>plug<br>pig<br>swallow<br>drink<br>annual<br>blue |  
+| bip_39_word_new_br_9 | pass<br>reason<br>plug<br>pig<br>swallow<br>drink<br>annual<br>blue<br>supply |  
+| bip_39_word_new_line_1 | pass |  
+| bip_39_word_new_line_10 | pass
 reason
 plug
 pig
@@ -55,7 +55,7 @@ annual
 blue
 supply
 end |  
-| bip_39_word_new_line11 | pass
+| bip_39_word_new_line_11 | pass
 reason
 plug
 pig
@@ -66,7 +66,7 @@ blue
 supply
 end
 angle |  
-| bip_39_word_new_line12 | pass
+| bip_39_word_new_line_12 | pass
 reason
 plug
 pig
@@ -78,34 +78,34 @@ supply
 end
 angle
 attend |  
-| bip_39_word_new_line2 | pass
+| bip_39_word_new_line_2 | pass
 reason |  
-| bip_39_word_new_line3 | pass
+| bip_39_word_new_line_3 | pass
 reason
 plug |  
-| bip_39_word_new_line4 | pass
+| bip_39_word_new_line_4 | pass
 reason
 plug
 pig |  
-| bip_39_word_new_line5 | pass
+| bip_39_word_new_line_5 | pass
 reason
 plug
 pig
 swallow |  
-| bip_39_word_new_line6 | pass
+| bip_39_word_new_line_6 | pass
 reason
 plug
 pig
 swallow
 drink |  
-| bip_39_word_new_line7 | pass
+| bip_39_word_new_line_7 | pass
 reason
 plug
 pig
 swallow
 drink
 annual |  
-| bip_39_word_new_line8 | pass
+| bip_39_word_new_line_8 | pass
 reason
 plug
 pig
@@ -113,7 +113,7 @@ swallow
 drink
 annual
 blue |  
-| bip_39_word_new_line9 | pass
+| bip_39_word_new_line_9 | pass
 reason
 plug
 pig

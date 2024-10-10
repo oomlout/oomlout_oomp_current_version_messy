@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | milk |  
-| bip_39_word_new_br10 | milk<br>relax<br>badge<br>wedding<br>utility<br>auto<br>crime<br>add<br>vintage<br>course |  
-| bip_39_word_new_br11 | milk<br>relax<br>badge<br>wedding<br>utility<br>auto<br>crime<br>add<br>vintage<br>course<br>calm |  
-| bip_39_word_new_br12 | milk<br>relax<br>badge<br>wedding<br>utility<br>auto<br>crime<br>add<br>vintage<br>course<br>calm<br>april |  
-| bip_39_word_new_br2 | milk<br>relax |  
-| bip_39_word_new_br3 | milk<br>relax<br>badge |  
-| bip_39_word_new_br4 | milk<br>relax<br>badge<br>wedding |  
-| bip_39_word_new_br5 | milk<br>relax<br>badge<br>wedding<br>utility |  
-| bip_39_word_new_br6 | milk<br>relax<br>badge<br>wedding<br>utility<br>auto |  
-| bip_39_word_new_br7 | milk<br>relax<br>badge<br>wedding<br>utility<br>auto<br>crime |  
-| bip_39_word_new_br8 | milk<br>relax<br>badge<br>wedding<br>utility<br>auto<br>crime<br>add |  
-| bip_39_word_new_br9 | milk<br>relax<br>badge<br>wedding<br>utility<br>auto<br>crime<br>add<br>vintage |  
-| bip_39_word_new_line1 | milk |  
-| bip_39_word_new_line10 | milk
+| bip_39_word_new_br_1 | milk |  
+| bip_39_word_new_br_10 | milk<br>relax<br>badge<br>wedding<br>utility<br>auto<br>crime<br>add<br>vintage<br>course |  
+| bip_39_word_new_br_11 | milk<br>relax<br>badge<br>wedding<br>utility<br>auto<br>crime<br>add<br>vintage<br>course<br>calm |  
+| bip_39_word_new_br_12 | milk<br>relax<br>badge<br>wedding<br>utility<br>auto<br>crime<br>add<br>vintage<br>course<br>calm<br>april |  
+| bip_39_word_new_br_2 | milk<br>relax |  
+| bip_39_word_new_br_3 | milk<br>relax<br>badge |  
+| bip_39_word_new_br_4 | milk<br>relax<br>badge<br>wedding |  
+| bip_39_word_new_br_5 | milk<br>relax<br>badge<br>wedding<br>utility |  
+| bip_39_word_new_br_6 | milk<br>relax<br>badge<br>wedding<br>utility<br>auto |  
+| bip_39_word_new_br_7 | milk<br>relax<br>badge<br>wedding<br>utility<br>auto<br>crime |  
+| bip_39_word_new_br_8 | milk<br>relax<br>badge<br>wedding<br>utility<br>auto<br>crime<br>add |  
+| bip_39_word_new_br_9 | milk<br>relax<br>badge<br>wedding<br>utility<br>auto<br>crime<br>add<br>vintage |  
+| bip_39_word_new_line_1 | milk |  
+| bip_39_word_new_line_10 | milk
 relax
 badge
 wedding
@@ -55,7 +55,7 @@ crime
 add
 vintage
 course |  
-| bip_39_word_new_line11 | milk
+| bip_39_word_new_line_11 | milk
 relax
 badge
 wedding
@@ -66,7 +66,7 @@ add
 vintage
 course
 calm |  
-| bip_39_word_new_line12 | milk
+| bip_39_word_new_line_12 | milk
 relax
 badge
 wedding
@@ -78,34 +78,34 @@ vintage
 course
 calm
 april |  
-| bip_39_word_new_line2 | milk
+| bip_39_word_new_line_2 | milk
 relax |  
-| bip_39_word_new_line3 | milk
+| bip_39_word_new_line_3 | milk
 relax
 badge |  
-| bip_39_word_new_line4 | milk
+| bip_39_word_new_line_4 | milk
 relax
 badge
 wedding |  
-| bip_39_word_new_line5 | milk
+| bip_39_word_new_line_5 | milk
 relax
 badge
 wedding
 utility |  
-| bip_39_word_new_line6 | milk
+| bip_39_word_new_line_6 | milk
 relax
 badge
 wedding
 utility
 auto |  
-| bip_39_word_new_line7 | milk
+| bip_39_word_new_line_7 | milk
 relax
 badge
 wedding
 utility
 auto
 crime |  
-| bip_39_word_new_line8 | milk
+| bip_39_word_new_line_8 | milk
 relax
 badge
 wedding
@@ -113,7 +113,7 @@ utility
 auto
 crime
 add |  
-| bip_39_word_new_line9 | milk
+| bip_39_word_new_line_9 | milk
 relax
 badge
 wedding

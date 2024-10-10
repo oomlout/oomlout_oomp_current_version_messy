@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | index |  
-| bip_39_word_new_br10 | index<br>veteran<br>idle<br>craft<br>inherit<br>glance<br>enjoy<br>injury<br>year<br>copy |  
-| bip_39_word_new_br11 | index<br>veteran<br>idle<br>craft<br>inherit<br>glance<br>enjoy<br>injury<br>year<br>copy<br>stove |  
-| bip_39_word_new_br12 | index<br>veteran<br>idle<br>craft<br>inherit<br>glance<br>enjoy<br>injury<br>year<br>copy<br>stove<br>ability |  
-| bip_39_word_new_br2 | index<br>veteran |  
-| bip_39_word_new_br3 | index<br>veteran<br>idle |  
-| bip_39_word_new_br4 | index<br>veteran<br>idle<br>craft |  
-| bip_39_word_new_br5 | index<br>veteran<br>idle<br>craft<br>inherit |  
-| bip_39_word_new_br6 | index<br>veteran<br>idle<br>craft<br>inherit<br>glance |  
-| bip_39_word_new_br7 | index<br>veteran<br>idle<br>craft<br>inherit<br>glance<br>enjoy |  
-| bip_39_word_new_br8 | index<br>veteran<br>idle<br>craft<br>inherit<br>glance<br>enjoy<br>injury |  
-| bip_39_word_new_br9 | index<br>veteran<br>idle<br>craft<br>inherit<br>glance<br>enjoy<br>injury<br>year |  
-| bip_39_word_new_line1 | index |  
-| bip_39_word_new_line10 | index
+| bip_39_word_new_br_1 | index |  
+| bip_39_word_new_br_10 | index<br>veteran<br>idle<br>craft<br>inherit<br>glance<br>enjoy<br>injury<br>year<br>copy |  
+| bip_39_word_new_br_11 | index<br>veteran<br>idle<br>craft<br>inherit<br>glance<br>enjoy<br>injury<br>year<br>copy<br>stove |  
+| bip_39_word_new_br_12 | index<br>veteran<br>idle<br>craft<br>inherit<br>glance<br>enjoy<br>injury<br>year<br>copy<br>stove<br>ability |  
+| bip_39_word_new_br_2 | index<br>veteran |  
+| bip_39_word_new_br_3 | index<br>veteran<br>idle |  
+| bip_39_word_new_br_4 | index<br>veteran<br>idle<br>craft |  
+| bip_39_word_new_br_5 | index<br>veteran<br>idle<br>craft<br>inherit |  
+| bip_39_word_new_br_6 | index<br>veteran<br>idle<br>craft<br>inherit<br>glance |  
+| bip_39_word_new_br_7 | index<br>veteran<br>idle<br>craft<br>inherit<br>glance<br>enjoy |  
+| bip_39_word_new_br_8 | index<br>veteran<br>idle<br>craft<br>inherit<br>glance<br>enjoy<br>injury |  
+| bip_39_word_new_br_9 | index<br>veteran<br>idle<br>craft<br>inherit<br>glance<br>enjoy<br>injury<br>year |  
+| bip_39_word_new_line_1 | index |  
+| bip_39_word_new_line_10 | index
 veteran
 idle
 craft
@@ -55,7 +55,7 @@ enjoy
 injury
 year
 copy |  
-| bip_39_word_new_line11 | index
+| bip_39_word_new_line_11 | index
 veteran
 idle
 craft
@@ -66,7 +66,7 @@ injury
 year
 copy
 stove |  
-| bip_39_word_new_line12 | index
+| bip_39_word_new_line_12 | index
 veteran
 idle
 craft
@@ -78,34 +78,34 @@ year
 copy
 stove
 ability |  
-| bip_39_word_new_line2 | index
+| bip_39_word_new_line_2 | index
 veteran |  
-| bip_39_word_new_line3 | index
+| bip_39_word_new_line_3 | index
 veteran
 idle |  
-| bip_39_word_new_line4 | index
+| bip_39_word_new_line_4 | index
 veteran
 idle
 craft |  
-| bip_39_word_new_line5 | index
+| bip_39_word_new_line_5 | index
 veteran
 idle
 craft
 inherit |  
-| bip_39_word_new_line6 | index
+| bip_39_word_new_line_6 | index
 veteran
 idle
 craft
 inherit
 glance |  
-| bip_39_word_new_line7 | index
+| bip_39_word_new_line_7 | index
 veteran
 idle
 craft
 inherit
 glance
 enjoy |  
-| bip_39_word_new_line8 | index
+| bip_39_word_new_line_8 | index
 veteran
 idle
 craft
@@ -113,7 +113,7 @@ inherit
 glance
 enjoy
 injury |  
-| bip_39_word_new_line9 | index
+| bip_39_word_new_line_9 | index
 veteran
 idle
 craft

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | local |  
-| bip_39_word_new_br10 | local<br>open<br>quarter<br>twice<br>problem<br>joy<br>jump<br>coral<br>crane<br>craft |  
-| bip_39_word_new_br11 | local<br>open<br>quarter<br>twice<br>problem<br>joy<br>jump<br>coral<br>crane<br>craft<br>casino |  
-| bip_39_word_new_br12 | local<br>open<br>quarter<br>twice<br>problem<br>joy<br>jump<br>coral<br>crane<br>craft<br>casino<br>ancient |  
-| bip_39_word_new_br2 | local<br>open |  
-| bip_39_word_new_br3 | local<br>open<br>quarter |  
-| bip_39_word_new_br4 | local<br>open<br>quarter<br>twice |  
-| bip_39_word_new_br5 | local<br>open<br>quarter<br>twice<br>problem |  
-| bip_39_word_new_br6 | local<br>open<br>quarter<br>twice<br>problem<br>joy |  
-| bip_39_word_new_br7 | local<br>open<br>quarter<br>twice<br>problem<br>joy<br>jump |  
-| bip_39_word_new_br8 | local<br>open<br>quarter<br>twice<br>problem<br>joy<br>jump<br>coral |  
-| bip_39_word_new_br9 | local<br>open<br>quarter<br>twice<br>problem<br>joy<br>jump<br>coral<br>crane |  
-| bip_39_word_new_line1 | local |  
-| bip_39_word_new_line10 | local
+| bip_39_word_new_br_1 | local |  
+| bip_39_word_new_br_10 | local<br>open<br>quarter<br>twice<br>problem<br>joy<br>jump<br>coral<br>crane<br>craft |  
+| bip_39_word_new_br_11 | local<br>open<br>quarter<br>twice<br>problem<br>joy<br>jump<br>coral<br>crane<br>craft<br>casino |  
+| bip_39_word_new_br_12 | local<br>open<br>quarter<br>twice<br>problem<br>joy<br>jump<br>coral<br>crane<br>craft<br>casino<br>ancient |  
+| bip_39_word_new_br_2 | local<br>open |  
+| bip_39_word_new_br_3 | local<br>open<br>quarter |  
+| bip_39_word_new_br_4 | local<br>open<br>quarter<br>twice |  
+| bip_39_word_new_br_5 | local<br>open<br>quarter<br>twice<br>problem |  
+| bip_39_word_new_br_6 | local<br>open<br>quarter<br>twice<br>problem<br>joy |  
+| bip_39_word_new_br_7 | local<br>open<br>quarter<br>twice<br>problem<br>joy<br>jump |  
+| bip_39_word_new_br_8 | local<br>open<br>quarter<br>twice<br>problem<br>joy<br>jump<br>coral |  
+| bip_39_word_new_br_9 | local<br>open<br>quarter<br>twice<br>problem<br>joy<br>jump<br>coral<br>crane |  
+| bip_39_word_new_line_1 | local |  
+| bip_39_word_new_line_10 | local
 open
 quarter
 twice
@@ -55,7 +55,7 @@ jump
 coral
 crane
 craft |  
-| bip_39_word_new_line11 | local
+| bip_39_word_new_line_11 | local
 open
 quarter
 twice
@@ -66,7 +66,7 @@ coral
 crane
 craft
 casino |  
-| bip_39_word_new_line12 | local
+| bip_39_word_new_line_12 | local
 open
 quarter
 twice
@@ -78,34 +78,34 @@ crane
 craft
 casino
 ancient |  
-| bip_39_word_new_line2 | local
+| bip_39_word_new_line_2 | local
 open |  
-| bip_39_word_new_line3 | local
+| bip_39_word_new_line_3 | local
 open
 quarter |  
-| bip_39_word_new_line4 | local
+| bip_39_word_new_line_4 | local
 open
 quarter
 twice |  
-| bip_39_word_new_line5 | local
+| bip_39_word_new_line_5 | local
 open
 quarter
 twice
 problem |  
-| bip_39_word_new_line6 | local
+| bip_39_word_new_line_6 | local
 open
 quarter
 twice
 problem
 joy |  
-| bip_39_word_new_line7 | local
+| bip_39_word_new_line_7 | local
 open
 quarter
 twice
 problem
 joy
 jump |  
-| bip_39_word_new_line8 | local
+| bip_39_word_new_line_8 | local
 open
 quarter
 twice
@@ -113,7 +113,7 @@ problem
 joy
 jump
 coral |  
-| bip_39_word_new_line9 | local
+| bip_39_word_new_line_9 | local
 open
 quarter
 twice

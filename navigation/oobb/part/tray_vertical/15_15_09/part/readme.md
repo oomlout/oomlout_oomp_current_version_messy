@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | morning |  
-| bip_39_word_new_br10 | morning<br>sun<br>settle<br>magic<br>armed<br>black<br>quiz<br>narrow<br>edge<br>unit |  
-| bip_39_word_new_br11 | morning<br>sun<br>settle<br>magic<br>armed<br>black<br>quiz<br>narrow<br>edge<br>unit<br>loop |  
-| bip_39_word_new_br12 | morning<br>sun<br>settle<br>magic<br>armed<br>black<br>quiz<br>narrow<br>edge<br>unit<br>loop<br>above |  
-| bip_39_word_new_br2 | morning<br>sun |  
-| bip_39_word_new_br3 | morning<br>sun<br>settle |  
-| bip_39_word_new_br4 | morning<br>sun<br>settle<br>magic |  
-| bip_39_word_new_br5 | morning<br>sun<br>settle<br>magic<br>armed |  
-| bip_39_word_new_br6 | morning<br>sun<br>settle<br>magic<br>armed<br>black |  
-| bip_39_word_new_br7 | morning<br>sun<br>settle<br>magic<br>armed<br>black<br>quiz |  
-| bip_39_word_new_br8 | morning<br>sun<br>settle<br>magic<br>armed<br>black<br>quiz<br>narrow |  
-| bip_39_word_new_br9 | morning<br>sun<br>settle<br>magic<br>armed<br>black<br>quiz<br>narrow<br>edge |  
-| bip_39_word_new_line1 | morning |  
-| bip_39_word_new_line10 | morning
+| bip_39_word_new_br_1 | morning |  
+| bip_39_word_new_br_10 | morning<br>sun<br>settle<br>magic<br>armed<br>black<br>quiz<br>narrow<br>edge<br>unit |  
+| bip_39_word_new_br_11 | morning<br>sun<br>settle<br>magic<br>armed<br>black<br>quiz<br>narrow<br>edge<br>unit<br>loop |  
+| bip_39_word_new_br_12 | morning<br>sun<br>settle<br>magic<br>armed<br>black<br>quiz<br>narrow<br>edge<br>unit<br>loop<br>above |  
+| bip_39_word_new_br_2 | morning<br>sun |  
+| bip_39_word_new_br_3 | morning<br>sun<br>settle |  
+| bip_39_word_new_br_4 | morning<br>sun<br>settle<br>magic |  
+| bip_39_word_new_br_5 | morning<br>sun<br>settle<br>magic<br>armed |  
+| bip_39_word_new_br_6 | morning<br>sun<br>settle<br>magic<br>armed<br>black |  
+| bip_39_word_new_br_7 | morning<br>sun<br>settle<br>magic<br>armed<br>black<br>quiz |  
+| bip_39_word_new_br_8 | morning<br>sun<br>settle<br>magic<br>armed<br>black<br>quiz<br>narrow |  
+| bip_39_word_new_br_9 | morning<br>sun<br>settle<br>magic<br>armed<br>black<br>quiz<br>narrow<br>edge |  
+| bip_39_word_new_line_1 | morning |  
+| bip_39_word_new_line_10 | morning
 sun
 settle
 magic
@@ -55,7 +55,7 @@ quiz
 narrow
 edge
 unit |  
-| bip_39_word_new_line11 | morning
+| bip_39_word_new_line_11 | morning
 sun
 settle
 magic
@@ -66,7 +66,7 @@ narrow
 edge
 unit
 loop |  
-| bip_39_word_new_line12 | morning
+| bip_39_word_new_line_12 | morning
 sun
 settle
 magic
@@ -78,34 +78,34 @@ edge
 unit
 loop
 above |  
-| bip_39_word_new_line2 | morning
+| bip_39_word_new_line_2 | morning
 sun |  
-| bip_39_word_new_line3 | morning
+| bip_39_word_new_line_3 | morning
 sun
 settle |  
-| bip_39_word_new_line4 | morning
+| bip_39_word_new_line_4 | morning
 sun
 settle
 magic |  
-| bip_39_word_new_line5 | morning
+| bip_39_word_new_line_5 | morning
 sun
 settle
 magic
 armed |  
-| bip_39_word_new_line6 | morning
+| bip_39_word_new_line_6 | morning
 sun
 settle
 magic
 armed
 black |  
-| bip_39_word_new_line7 | morning
+| bip_39_word_new_line_7 | morning
 sun
 settle
 magic
 armed
 black
 quiz |  
-| bip_39_word_new_line8 | morning
+| bip_39_word_new_line_8 | morning
 sun
 settle
 magic
@@ -113,7 +113,7 @@ armed
 black
 quiz
 narrow |  
-| bip_39_word_new_line9 | morning
+| bip_39_word_new_line_9 | morning
 sun
 settle
 magic

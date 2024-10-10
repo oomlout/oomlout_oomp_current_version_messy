@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | already |  
-| bip_39_word_new_br10 | already<br>account<br>fish<br>bone<br>prosper<br>silver<br>student<br>athlete<br>unfold<br>hybrid |  
-| bip_39_word_new_br11 | already<br>account<br>fish<br>bone<br>prosper<br>silver<br>student<br>athlete<br>unfold<br>hybrid<br>stamp |  
-| bip_39_word_new_br12 | already<br>account<br>fish<br>bone<br>prosper<br>silver<br>student<br>athlete<br>unfold<br>hybrid<br>stamp<br>absorb |  
-| bip_39_word_new_br2 | already<br>account |  
-| bip_39_word_new_br3 | already<br>account<br>fish |  
-| bip_39_word_new_br4 | already<br>account<br>fish<br>bone |  
-| bip_39_word_new_br5 | already<br>account<br>fish<br>bone<br>prosper |  
-| bip_39_word_new_br6 | already<br>account<br>fish<br>bone<br>prosper<br>silver |  
-| bip_39_word_new_br7 | already<br>account<br>fish<br>bone<br>prosper<br>silver<br>student |  
-| bip_39_word_new_br8 | already<br>account<br>fish<br>bone<br>prosper<br>silver<br>student<br>athlete |  
-| bip_39_word_new_br9 | already<br>account<br>fish<br>bone<br>prosper<br>silver<br>student<br>athlete<br>unfold |  
-| bip_39_word_new_line1 | already |  
-| bip_39_word_new_line10 | already
+| bip_39_word_new_br_1 | already |  
+| bip_39_word_new_br_10 | already<br>account<br>fish<br>bone<br>prosper<br>silver<br>student<br>athlete<br>unfold<br>hybrid |  
+| bip_39_word_new_br_11 | already<br>account<br>fish<br>bone<br>prosper<br>silver<br>student<br>athlete<br>unfold<br>hybrid<br>stamp |  
+| bip_39_word_new_br_12 | already<br>account<br>fish<br>bone<br>prosper<br>silver<br>student<br>athlete<br>unfold<br>hybrid<br>stamp<br>absorb |  
+| bip_39_word_new_br_2 | already<br>account |  
+| bip_39_word_new_br_3 | already<br>account<br>fish |  
+| bip_39_word_new_br_4 | already<br>account<br>fish<br>bone |  
+| bip_39_word_new_br_5 | already<br>account<br>fish<br>bone<br>prosper |  
+| bip_39_word_new_br_6 | already<br>account<br>fish<br>bone<br>prosper<br>silver |  
+| bip_39_word_new_br_7 | already<br>account<br>fish<br>bone<br>prosper<br>silver<br>student |  
+| bip_39_word_new_br_8 | already<br>account<br>fish<br>bone<br>prosper<br>silver<br>student<br>athlete |  
+| bip_39_word_new_br_9 | already<br>account<br>fish<br>bone<br>prosper<br>silver<br>student<br>athlete<br>unfold |  
+| bip_39_word_new_line_1 | already |  
+| bip_39_word_new_line_10 | already
 account
 fish
 bone
@@ -55,7 +55,7 @@ student
 athlete
 unfold
 hybrid |  
-| bip_39_word_new_line11 | already
+| bip_39_word_new_line_11 | already
 account
 fish
 bone
@@ -66,7 +66,7 @@ athlete
 unfold
 hybrid
 stamp |  
-| bip_39_word_new_line12 | already
+| bip_39_word_new_line_12 | already
 account
 fish
 bone
@@ -78,34 +78,34 @@ unfold
 hybrid
 stamp
 absorb |  
-| bip_39_word_new_line2 | already
+| bip_39_word_new_line_2 | already
 account |  
-| bip_39_word_new_line3 | already
+| bip_39_word_new_line_3 | already
 account
 fish |  
-| bip_39_word_new_line4 | already
+| bip_39_word_new_line_4 | already
 account
 fish
 bone |  
-| bip_39_word_new_line5 | already
+| bip_39_word_new_line_5 | already
 account
 fish
 bone
 prosper |  
-| bip_39_word_new_line6 | already
+| bip_39_word_new_line_6 | already
 account
 fish
 bone
 prosper
 silver |  
-| bip_39_word_new_line7 | already
+| bip_39_word_new_line_7 | already
 account
 fish
 bone
 prosper
 silver
 student |  
-| bip_39_word_new_line8 | already
+| bip_39_word_new_line_8 | already
 account
 fish
 bone
@@ -113,7 +113,7 @@ prosper
 silver
 student
 athlete |  
-| bip_39_word_new_line9 | already
+| bip_39_word_new_line_9 | already
 account
 fish
 bone

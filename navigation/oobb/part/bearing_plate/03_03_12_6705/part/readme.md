@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | degree |  
-| bip_39_word_new_br10 | degree<br>bulb<br>better<br>floor<br>history<br>sister<br>fortune<br>inspire<br>course<br>auto |  
-| bip_39_word_new_br11 | degree<br>bulb<br>better<br>floor<br>history<br>sister<br>fortune<br>inspire<br>course<br>auto<br>loud |  
-| bip_39_word_new_br12 | degree<br>bulb<br>better<br>floor<br>history<br>sister<br>fortune<br>inspire<br>course<br>auto<br>loud<br>aspect |  
-| bip_39_word_new_br2 | degree<br>bulb |  
-| bip_39_word_new_br3 | degree<br>bulb<br>better |  
-| bip_39_word_new_br4 | degree<br>bulb<br>better<br>floor |  
-| bip_39_word_new_br5 | degree<br>bulb<br>better<br>floor<br>history |  
-| bip_39_word_new_br6 | degree<br>bulb<br>better<br>floor<br>history<br>sister |  
-| bip_39_word_new_br7 | degree<br>bulb<br>better<br>floor<br>history<br>sister<br>fortune |  
-| bip_39_word_new_br8 | degree<br>bulb<br>better<br>floor<br>history<br>sister<br>fortune<br>inspire |  
-| bip_39_word_new_br9 | degree<br>bulb<br>better<br>floor<br>history<br>sister<br>fortune<br>inspire<br>course |  
-| bip_39_word_new_line1 | degree |  
-| bip_39_word_new_line10 | degree
+| bip_39_word_new_br_1 | degree |  
+| bip_39_word_new_br_10 | degree<br>bulb<br>better<br>floor<br>history<br>sister<br>fortune<br>inspire<br>course<br>auto |  
+| bip_39_word_new_br_11 | degree<br>bulb<br>better<br>floor<br>history<br>sister<br>fortune<br>inspire<br>course<br>auto<br>loud |  
+| bip_39_word_new_br_12 | degree<br>bulb<br>better<br>floor<br>history<br>sister<br>fortune<br>inspire<br>course<br>auto<br>loud<br>aspect |  
+| bip_39_word_new_br_2 | degree<br>bulb |  
+| bip_39_word_new_br_3 | degree<br>bulb<br>better |  
+| bip_39_word_new_br_4 | degree<br>bulb<br>better<br>floor |  
+| bip_39_word_new_br_5 | degree<br>bulb<br>better<br>floor<br>history |  
+| bip_39_word_new_br_6 | degree<br>bulb<br>better<br>floor<br>history<br>sister |  
+| bip_39_word_new_br_7 | degree<br>bulb<br>better<br>floor<br>history<br>sister<br>fortune |  
+| bip_39_word_new_br_8 | degree<br>bulb<br>better<br>floor<br>history<br>sister<br>fortune<br>inspire |  
+| bip_39_word_new_br_9 | degree<br>bulb<br>better<br>floor<br>history<br>sister<br>fortune<br>inspire<br>course |  
+| bip_39_word_new_line_1 | degree |  
+| bip_39_word_new_line_10 | degree
 bulb
 better
 floor
@@ -55,7 +55,7 @@ fortune
 inspire
 course
 auto |  
-| bip_39_word_new_line11 | degree
+| bip_39_word_new_line_11 | degree
 bulb
 better
 floor
@@ -66,7 +66,7 @@ inspire
 course
 auto
 loud |  
-| bip_39_word_new_line12 | degree
+| bip_39_word_new_line_12 | degree
 bulb
 better
 floor
@@ -78,34 +78,34 @@ course
 auto
 loud
 aspect |  
-| bip_39_word_new_line2 | degree
+| bip_39_word_new_line_2 | degree
 bulb |  
-| bip_39_word_new_line3 | degree
+| bip_39_word_new_line_3 | degree
 bulb
 better |  
-| bip_39_word_new_line4 | degree
+| bip_39_word_new_line_4 | degree
 bulb
 better
 floor |  
-| bip_39_word_new_line5 | degree
+| bip_39_word_new_line_5 | degree
 bulb
 better
 floor
 history |  
-| bip_39_word_new_line6 | degree
+| bip_39_word_new_line_6 | degree
 bulb
 better
 floor
 history
 sister |  
-| bip_39_word_new_line7 | degree
+| bip_39_word_new_line_7 | degree
 bulb
 better
 floor
 history
 sister
 fortune |  
-| bip_39_word_new_line8 | degree
+| bip_39_word_new_line_8 | degree
 bulb
 better
 floor
@@ -113,7 +113,7 @@ history
 sister
 fortune
 inspire |  
-| bip_39_word_new_line9 | degree
+| bip_39_word_new_line_9 | degree
 bulb
 better
 floor

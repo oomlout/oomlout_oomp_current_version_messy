@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | right |  
-| bip_39_word_new_br10 | right<br>airport<br>barely<br>stomach<br>believe<br>snake<br>fit<br>lawn<br>twenty<br>observe |  
-| bip_39_word_new_br11 | right<br>airport<br>barely<br>stomach<br>believe<br>snake<br>fit<br>lawn<br>twenty<br>observe<br>record |  
-| bip_39_word_new_br12 | right<br>airport<br>barely<br>stomach<br>believe<br>snake<br>fit<br>lawn<br>twenty<br>observe<br>record<br>action |  
-| bip_39_word_new_br2 | right<br>airport |  
-| bip_39_word_new_br3 | right<br>airport<br>barely |  
-| bip_39_word_new_br4 | right<br>airport<br>barely<br>stomach |  
-| bip_39_word_new_br5 | right<br>airport<br>barely<br>stomach<br>believe |  
-| bip_39_word_new_br6 | right<br>airport<br>barely<br>stomach<br>believe<br>snake |  
-| bip_39_word_new_br7 | right<br>airport<br>barely<br>stomach<br>believe<br>snake<br>fit |  
-| bip_39_word_new_br8 | right<br>airport<br>barely<br>stomach<br>believe<br>snake<br>fit<br>lawn |  
-| bip_39_word_new_br9 | right<br>airport<br>barely<br>stomach<br>believe<br>snake<br>fit<br>lawn<br>twenty |  
-| bip_39_word_new_line1 | right |  
-| bip_39_word_new_line10 | right
+| bip_39_word_new_br_1 | right |  
+| bip_39_word_new_br_10 | right<br>airport<br>barely<br>stomach<br>believe<br>snake<br>fit<br>lawn<br>twenty<br>observe |  
+| bip_39_word_new_br_11 | right<br>airport<br>barely<br>stomach<br>believe<br>snake<br>fit<br>lawn<br>twenty<br>observe<br>record |  
+| bip_39_word_new_br_12 | right<br>airport<br>barely<br>stomach<br>believe<br>snake<br>fit<br>lawn<br>twenty<br>observe<br>record<br>action |  
+| bip_39_word_new_br_2 | right<br>airport |  
+| bip_39_word_new_br_3 | right<br>airport<br>barely |  
+| bip_39_word_new_br_4 | right<br>airport<br>barely<br>stomach |  
+| bip_39_word_new_br_5 | right<br>airport<br>barely<br>stomach<br>believe |  
+| bip_39_word_new_br_6 | right<br>airport<br>barely<br>stomach<br>believe<br>snake |  
+| bip_39_word_new_br_7 | right<br>airport<br>barely<br>stomach<br>believe<br>snake<br>fit |  
+| bip_39_word_new_br_8 | right<br>airport<br>barely<br>stomach<br>believe<br>snake<br>fit<br>lawn |  
+| bip_39_word_new_br_9 | right<br>airport<br>barely<br>stomach<br>believe<br>snake<br>fit<br>lawn<br>twenty |  
+| bip_39_word_new_line_1 | right |  
+| bip_39_word_new_line_10 | right
 airport
 barely
 stomach
@@ -55,7 +55,7 @@ fit
 lawn
 twenty
 observe |  
-| bip_39_word_new_line11 | right
+| bip_39_word_new_line_11 | right
 airport
 barely
 stomach
@@ -66,7 +66,7 @@ lawn
 twenty
 observe
 record |  
-| bip_39_word_new_line12 | right
+| bip_39_word_new_line_12 | right
 airport
 barely
 stomach
@@ -78,34 +78,34 @@ twenty
 observe
 record
 action |  
-| bip_39_word_new_line2 | right
+| bip_39_word_new_line_2 | right
 airport |  
-| bip_39_word_new_line3 | right
+| bip_39_word_new_line_3 | right
 airport
 barely |  
-| bip_39_word_new_line4 | right
+| bip_39_word_new_line_4 | right
 airport
 barely
 stomach |  
-| bip_39_word_new_line5 | right
+| bip_39_word_new_line_5 | right
 airport
 barely
 stomach
 believe |  
-| bip_39_word_new_line6 | right
+| bip_39_word_new_line_6 | right
 airport
 barely
 stomach
 believe
 snake |  
-| bip_39_word_new_line7 | right
+| bip_39_word_new_line_7 | right
 airport
 barely
 stomach
 believe
 snake
 fit |  
-| bip_39_word_new_line8 | right
+| bip_39_word_new_line_8 | right
 airport
 barely
 stomach
@@ -113,7 +113,7 @@ believe
 snake
 fit
 lawn |  
-| bip_39_word_new_line9 | right
+| bip_39_word_new_line_9 | right
 airport
 barely
 stomach

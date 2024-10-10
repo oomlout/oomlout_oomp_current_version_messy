@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | large |  
-| bip_39_word_new_br10 | large<br>toddler<br>trick<br>pitch<br>suspect<br>angle<br>above<br>blouse<br>donkey<br>float |  
-| bip_39_word_new_br11 | large<br>toddler<br>trick<br>pitch<br>suspect<br>angle<br>above<br>blouse<br>donkey<br>float<br>end |  
-| bip_39_word_new_br12 | large<br>toddler<br>trick<br>pitch<br>suspect<br>angle<br>above<br>blouse<br>donkey<br>float<br>end<br>already |  
-| bip_39_word_new_br2 | large<br>toddler |  
-| bip_39_word_new_br3 | large<br>toddler<br>trick |  
-| bip_39_word_new_br4 | large<br>toddler<br>trick<br>pitch |  
-| bip_39_word_new_br5 | large<br>toddler<br>trick<br>pitch<br>suspect |  
-| bip_39_word_new_br6 | large<br>toddler<br>trick<br>pitch<br>suspect<br>angle |  
-| bip_39_word_new_br7 | large<br>toddler<br>trick<br>pitch<br>suspect<br>angle<br>above |  
-| bip_39_word_new_br8 | large<br>toddler<br>trick<br>pitch<br>suspect<br>angle<br>above<br>blouse |  
-| bip_39_word_new_br9 | large<br>toddler<br>trick<br>pitch<br>suspect<br>angle<br>above<br>blouse<br>donkey |  
-| bip_39_word_new_line1 | large |  
-| bip_39_word_new_line10 | large
+| bip_39_word_new_br_1 | large |  
+| bip_39_word_new_br_10 | large<br>toddler<br>trick<br>pitch<br>suspect<br>angle<br>above<br>blouse<br>donkey<br>float |  
+| bip_39_word_new_br_11 | large<br>toddler<br>trick<br>pitch<br>suspect<br>angle<br>above<br>blouse<br>donkey<br>float<br>end |  
+| bip_39_word_new_br_12 | large<br>toddler<br>trick<br>pitch<br>suspect<br>angle<br>above<br>blouse<br>donkey<br>float<br>end<br>already |  
+| bip_39_word_new_br_2 | large<br>toddler |  
+| bip_39_word_new_br_3 | large<br>toddler<br>trick |  
+| bip_39_word_new_br_4 | large<br>toddler<br>trick<br>pitch |  
+| bip_39_word_new_br_5 | large<br>toddler<br>trick<br>pitch<br>suspect |  
+| bip_39_word_new_br_6 | large<br>toddler<br>trick<br>pitch<br>suspect<br>angle |  
+| bip_39_word_new_br_7 | large<br>toddler<br>trick<br>pitch<br>suspect<br>angle<br>above |  
+| bip_39_word_new_br_8 | large<br>toddler<br>trick<br>pitch<br>suspect<br>angle<br>above<br>blouse |  
+| bip_39_word_new_br_9 | large<br>toddler<br>trick<br>pitch<br>suspect<br>angle<br>above<br>blouse<br>donkey |  
+| bip_39_word_new_line_1 | large |  
+| bip_39_word_new_line_10 | large
 toddler
 trick
 pitch
@@ -55,7 +55,7 @@ above
 blouse
 donkey
 float |  
-| bip_39_word_new_line11 | large
+| bip_39_word_new_line_11 | large
 toddler
 trick
 pitch
@@ -66,7 +66,7 @@ blouse
 donkey
 float
 end |  
-| bip_39_word_new_line12 | large
+| bip_39_word_new_line_12 | large
 toddler
 trick
 pitch
@@ -78,34 +78,34 @@ donkey
 float
 end
 already |  
-| bip_39_word_new_line2 | large
+| bip_39_word_new_line_2 | large
 toddler |  
-| bip_39_word_new_line3 | large
+| bip_39_word_new_line_3 | large
 toddler
 trick |  
-| bip_39_word_new_line4 | large
+| bip_39_word_new_line_4 | large
 toddler
 trick
 pitch |  
-| bip_39_word_new_line5 | large
+| bip_39_word_new_line_5 | large
 toddler
 trick
 pitch
 suspect |  
-| bip_39_word_new_line6 | large
+| bip_39_word_new_line_6 | large
 toddler
 trick
 pitch
 suspect
 angle |  
-| bip_39_word_new_line7 | large
+| bip_39_word_new_line_7 | large
 toddler
 trick
 pitch
 suspect
 angle
 above |  
-| bip_39_word_new_line8 | large
+| bip_39_word_new_line_8 | large
 toddler
 trick
 pitch
@@ -113,7 +113,7 @@ suspect
 angle
 above
 blouse |  
-| bip_39_word_new_line9 | large
+| bip_39_word_new_line_9 | large
 toddler
 trick
 pitch

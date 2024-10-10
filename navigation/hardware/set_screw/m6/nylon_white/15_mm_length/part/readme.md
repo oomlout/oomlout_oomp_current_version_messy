@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | clever |  
-| bip_39_word_new_br10 | clever<br>wait<br>maximum<br>exercise<br>treat<br>desk<br>quantum<br>galaxy<br>observe<br>shoe |  
-| bip_39_word_new_br11 | clever<br>wait<br>maximum<br>exercise<br>treat<br>desk<br>quantum<br>galaxy<br>observe<br>shoe<br>film |  
-| bip_39_word_new_br12 | clever<br>wait<br>maximum<br>exercise<br>treat<br>desk<br>quantum<br>galaxy<br>observe<br>shoe<br>film<br>absurd |  
-| bip_39_word_new_br2 | clever<br>wait |  
-| bip_39_word_new_br3 | clever<br>wait<br>maximum |  
-| bip_39_word_new_br4 | clever<br>wait<br>maximum<br>exercise |  
-| bip_39_word_new_br5 | clever<br>wait<br>maximum<br>exercise<br>treat |  
-| bip_39_word_new_br6 | clever<br>wait<br>maximum<br>exercise<br>treat<br>desk |  
-| bip_39_word_new_br7 | clever<br>wait<br>maximum<br>exercise<br>treat<br>desk<br>quantum |  
-| bip_39_word_new_br8 | clever<br>wait<br>maximum<br>exercise<br>treat<br>desk<br>quantum<br>galaxy |  
-| bip_39_word_new_br9 | clever<br>wait<br>maximum<br>exercise<br>treat<br>desk<br>quantum<br>galaxy<br>observe |  
-| bip_39_word_new_line1 | clever |  
-| bip_39_word_new_line10 | clever
+| bip_39_word_new_br_1 | clever |  
+| bip_39_word_new_br_10 | clever<br>wait<br>maximum<br>exercise<br>treat<br>desk<br>quantum<br>galaxy<br>observe<br>shoe |  
+| bip_39_word_new_br_11 | clever<br>wait<br>maximum<br>exercise<br>treat<br>desk<br>quantum<br>galaxy<br>observe<br>shoe<br>film |  
+| bip_39_word_new_br_12 | clever<br>wait<br>maximum<br>exercise<br>treat<br>desk<br>quantum<br>galaxy<br>observe<br>shoe<br>film<br>absurd |  
+| bip_39_word_new_br_2 | clever<br>wait |  
+| bip_39_word_new_br_3 | clever<br>wait<br>maximum |  
+| bip_39_word_new_br_4 | clever<br>wait<br>maximum<br>exercise |  
+| bip_39_word_new_br_5 | clever<br>wait<br>maximum<br>exercise<br>treat |  
+| bip_39_word_new_br_6 | clever<br>wait<br>maximum<br>exercise<br>treat<br>desk |  
+| bip_39_word_new_br_7 | clever<br>wait<br>maximum<br>exercise<br>treat<br>desk<br>quantum |  
+| bip_39_word_new_br_8 | clever<br>wait<br>maximum<br>exercise<br>treat<br>desk<br>quantum<br>galaxy |  
+| bip_39_word_new_br_9 | clever<br>wait<br>maximum<br>exercise<br>treat<br>desk<br>quantum<br>galaxy<br>observe |  
+| bip_39_word_new_line_1 | clever |  
+| bip_39_word_new_line_10 | clever
 wait
 maximum
 exercise
@@ -55,7 +55,7 @@ quantum
 galaxy
 observe
 shoe |  
-| bip_39_word_new_line11 | clever
+| bip_39_word_new_line_11 | clever
 wait
 maximum
 exercise
@@ -66,7 +66,7 @@ galaxy
 observe
 shoe
 film |  
-| bip_39_word_new_line12 | clever
+| bip_39_word_new_line_12 | clever
 wait
 maximum
 exercise
@@ -78,34 +78,34 @@ observe
 shoe
 film
 absurd |  
-| bip_39_word_new_line2 | clever
+| bip_39_word_new_line_2 | clever
 wait |  
-| bip_39_word_new_line3 | clever
+| bip_39_word_new_line_3 | clever
 wait
 maximum |  
-| bip_39_word_new_line4 | clever
+| bip_39_word_new_line_4 | clever
 wait
 maximum
 exercise |  
-| bip_39_word_new_line5 | clever
+| bip_39_word_new_line_5 | clever
 wait
 maximum
 exercise
 treat |  
-| bip_39_word_new_line6 | clever
+| bip_39_word_new_line_6 | clever
 wait
 maximum
 exercise
 treat
 desk |  
-| bip_39_word_new_line7 | clever
+| bip_39_word_new_line_7 | clever
 wait
 maximum
 exercise
 treat
 desk
 quantum |  
-| bip_39_word_new_line8 | clever
+| bip_39_word_new_line_8 | clever
 wait
 maximum
 exercise
@@ -113,7 +113,7 @@ treat
 desk
 quantum
 galaxy |  
-| bip_39_word_new_line9 | clever
+| bip_39_word_new_line_9 | clever
 wait
 maximum
 exercise

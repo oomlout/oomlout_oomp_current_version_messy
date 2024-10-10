@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | trick |  
-| bip_39_word_new_br10 | trick<br>gloom<br>crystal<br>example<br>prepare<br>universe<br>devote<br>stock<br>goose<br>awkward |  
-| bip_39_word_new_br11 | trick<br>gloom<br>crystal<br>example<br>prepare<br>universe<br>devote<br>stock<br>goose<br>awkward<br>all |  
-| bip_39_word_new_br12 | trick<br>gloom<br>crystal<br>example<br>prepare<br>universe<br>devote<br>stock<br>goose<br>awkward<br>all<br>around |  
-| bip_39_word_new_br2 | trick<br>gloom |  
-| bip_39_word_new_br3 | trick<br>gloom<br>crystal |  
-| bip_39_word_new_br4 | trick<br>gloom<br>crystal<br>example |  
-| bip_39_word_new_br5 | trick<br>gloom<br>crystal<br>example<br>prepare |  
-| bip_39_word_new_br6 | trick<br>gloom<br>crystal<br>example<br>prepare<br>universe |  
-| bip_39_word_new_br7 | trick<br>gloom<br>crystal<br>example<br>prepare<br>universe<br>devote |  
-| bip_39_word_new_br8 | trick<br>gloom<br>crystal<br>example<br>prepare<br>universe<br>devote<br>stock |  
-| bip_39_word_new_br9 | trick<br>gloom<br>crystal<br>example<br>prepare<br>universe<br>devote<br>stock<br>goose |  
-| bip_39_word_new_line1 | trick |  
-| bip_39_word_new_line10 | trick
+| bip_39_word_new_br_1 | trick |  
+| bip_39_word_new_br_10 | trick<br>gloom<br>crystal<br>example<br>prepare<br>universe<br>devote<br>stock<br>goose<br>awkward |  
+| bip_39_word_new_br_11 | trick<br>gloom<br>crystal<br>example<br>prepare<br>universe<br>devote<br>stock<br>goose<br>awkward<br>all |  
+| bip_39_word_new_br_12 | trick<br>gloom<br>crystal<br>example<br>prepare<br>universe<br>devote<br>stock<br>goose<br>awkward<br>all<br>around |  
+| bip_39_word_new_br_2 | trick<br>gloom |  
+| bip_39_word_new_br_3 | trick<br>gloom<br>crystal |  
+| bip_39_word_new_br_4 | trick<br>gloom<br>crystal<br>example |  
+| bip_39_word_new_br_5 | trick<br>gloom<br>crystal<br>example<br>prepare |  
+| bip_39_word_new_br_6 | trick<br>gloom<br>crystal<br>example<br>prepare<br>universe |  
+| bip_39_word_new_br_7 | trick<br>gloom<br>crystal<br>example<br>prepare<br>universe<br>devote |  
+| bip_39_word_new_br_8 | trick<br>gloom<br>crystal<br>example<br>prepare<br>universe<br>devote<br>stock |  
+| bip_39_word_new_br_9 | trick<br>gloom<br>crystal<br>example<br>prepare<br>universe<br>devote<br>stock<br>goose |  
+| bip_39_word_new_line_1 | trick |  
+| bip_39_word_new_line_10 | trick
 gloom
 crystal
 example
@@ -55,7 +55,7 @@ devote
 stock
 goose
 awkward |  
-| bip_39_word_new_line11 | trick
+| bip_39_word_new_line_11 | trick
 gloom
 crystal
 example
@@ -66,7 +66,7 @@ stock
 goose
 awkward
 all |  
-| bip_39_word_new_line12 | trick
+| bip_39_word_new_line_12 | trick
 gloom
 crystal
 example
@@ -78,34 +78,34 @@ goose
 awkward
 all
 around |  
-| bip_39_word_new_line2 | trick
+| bip_39_word_new_line_2 | trick
 gloom |  
-| bip_39_word_new_line3 | trick
+| bip_39_word_new_line_3 | trick
 gloom
 crystal |  
-| bip_39_word_new_line4 | trick
+| bip_39_word_new_line_4 | trick
 gloom
 crystal
 example |  
-| bip_39_word_new_line5 | trick
+| bip_39_word_new_line_5 | trick
 gloom
 crystal
 example
 prepare |  
-| bip_39_word_new_line6 | trick
+| bip_39_word_new_line_6 | trick
 gloom
 crystal
 example
 prepare
 universe |  
-| bip_39_word_new_line7 | trick
+| bip_39_word_new_line_7 | trick
 gloom
 crystal
 example
 prepare
 universe
 devote |  
-| bip_39_word_new_line8 | trick
+| bip_39_word_new_line_8 | trick
 gloom
 crystal
 example
@@ -113,7 +113,7 @@ prepare
 universe
 devote
 stock |  
-| bip_39_word_new_line9 | trick
+| bip_39_word_new_line_9 | trick
 gloom
 crystal
 example

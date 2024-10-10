@@ -1,17 +1,17 @@
-bip_39_word_new_br1: three
-bip_39_word_new_br10: three<br>report<br>aerobic<br>valley<br>badge<br>fog<br>apple<br>material<br>riot<br>artist
-bip_39_word_new_br11: three<br>report<br>aerobic<br>valley<br>badge<br>fog<br>apple<br>material<br>riot<br>artist<br>doctor
-bip_39_word_new_br12: three<br>report<br>aerobic<br>valley<br>badge<br>fog<br>apple<br>material<br>riot<br>artist<br>doctor<br>athlete
-bip_39_word_new_br2: three<br>report
-bip_39_word_new_br3: three<br>report<br>aerobic
-bip_39_word_new_br4: three<br>report<br>aerobic<br>valley
-bip_39_word_new_br5: three<br>report<br>aerobic<br>valley<br>badge
-bip_39_word_new_br6: three<br>report<br>aerobic<br>valley<br>badge<br>fog
-bip_39_word_new_br7: three<br>report<br>aerobic<br>valley<br>badge<br>fog<br>apple
-bip_39_word_new_br8: three<br>report<br>aerobic<br>valley<br>badge<br>fog<br>apple<br>material
-bip_39_word_new_br9: three<br>report<br>aerobic<br>valley<br>badge<br>fog<br>apple<br>material<br>riot
-bip_39_word_new_line1: three
-bip_39_word_new_line10: 'three
+bip_39_word_new_br_1: three
+bip_39_word_new_br_10: three<br>report<br>aerobic<br>valley<br>badge<br>fog<br>apple<br>material<br>riot<br>artist
+bip_39_word_new_br_11: three<br>report<br>aerobic<br>valley<br>badge<br>fog<br>apple<br>material<br>riot<br>artist<br>doctor
+bip_39_word_new_br_12: three<br>report<br>aerobic<br>valley<br>badge<br>fog<br>apple<br>material<br>riot<br>artist<br>doctor<br>athlete
+bip_39_word_new_br_2: three<br>report
+bip_39_word_new_br_3: three<br>report<br>aerobic
+bip_39_word_new_br_4: three<br>report<br>aerobic<br>valley
+bip_39_word_new_br_5: three<br>report<br>aerobic<br>valley<br>badge
+bip_39_word_new_br_6: three<br>report<br>aerobic<br>valley<br>badge<br>fog
+bip_39_word_new_br_7: three<br>report<br>aerobic<br>valley<br>badge<br>fog<br>apple
+bip_39_word_new_br_8: three<br>report<br>aerobic<br>valley<br>badge<br>fog<br>apple<br>material
+bip_39_word_new_br_9: three<br>report<br>aerobic<br>valley<br>badge<br>fog<br>apple<br>material<br>riot
+bip_39_word_new_line_1: three
+bip_39_word_new_line_10: 'three
 
   report
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'three
   riot
 
   artist'
-bip_39_word_new_line11: 'three
+bip_39_word_new_line_11: 'three
 
   report
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'three
   artist
 
   doctor'
-bip_39_word_new_line12: 'three
+bip_39_word_new_line_12: 'three
 
   report
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'three
   doctor
 
   athlete'
-bip_39_word_new_line2: 'three
+bip_39_word_new_line_2: 'three
 
   report'
-bip_39_word_new_line3: 'three
+bip_39_word_new_line_3: 'three
 
   report
 
   aerobic'
-bip_39_word_new_line4: 'three
+bip_39_word_new_line_4: 'three
 
   report
 
   aerobic
 
   valley'
-bip_39_word_new_line5: 'three
+bip_39_word_new_line_5: 'three
 
   report
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'three
   valley
 
   badge'
-bip_39_word_new_line6: 'three
+bip_39_word_new_line_6: 'three
 
   report
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'three
   badge
 
   fog'
-bip_39_word_new_line7: 'three
+bip_39_word_new_line_7: 'three
 
   report
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'three
   fog
 
   apple'
-bip_39_word_new_line8: 'three
+bip_39_word_new_line_8: 'three
 
   report
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'three
   apple
 
   material'
-bip_39_word_new_line9: 'three
+bip_39_word_new_line_9: 'three
 
   report
 

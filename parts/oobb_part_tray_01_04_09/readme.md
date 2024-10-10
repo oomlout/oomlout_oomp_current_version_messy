@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | secret |  
-| bip_39_word_new_br10 | secret<br>analyst<br>ridge<br>unable<br>muffin<br>high<br>worry<br>knee<br>you<br>escape |  
-| bip_39_word_new_br11 | secret<br>analyst<br>ridge<br>unable<br>muffin<br>high<br>worry<br>knee<br>you<br>escape<br>list |  
-| bip_39_word_new_br12 | secret<br>analyst<br>ridge<br>unable<br>muffin<br>high<br>worry<br>knee<br>you<br>escape<br>list<br>across |  
-| bip_39_word_new_br2 | secret<br>analyst |  
-| bip_39_word_new_br3 | secret<br>analyst<br>ridge |  
-| bip_39_word_new_br4 | secret<br>analyst<br>ridge<br>unable |  
-| bip_39_word_new_br5 | secret<br>analyst<br>ridge<br>unable<br>muffin |  
-| bip_39_word_new_br6 | secret<br>analyst<br>ridge<br>unable<br>muffin<br>high |  
-| bip_39_word_new_br7 | secret<br>analyst<br>ridge<br>unable<br>muffin<br>high<br>worry |  
-| bip_39_word_new_br8 | secret<br>analyst<br>ridge<br>unable<br>muffin<br>high<br>worry<br>knee |  
-| bip_39_word_new_br9 | secret<br>analyst<br>ridge<br>unable<br>muffin<br>high<br>worry<br>knee<br>you |  
-| bip_39_word_new_line1 | secret |  
-| bip_39_word_new_line10 | secret
+| bip_39_word_new_br_1 | secret |  
+| bip_39_word_new_br_10 | secret<br>analyst<br>ridge<br>unable<br>muffin<br>high<br>worry<br>knee<br>you<br>escape |  
+| bip_39_word_new_br_11 | secret<br>analyst<br>ridge<br>unable<br>muffin<br>high<br>worry<br>knee<br>you<br>escape<br>list |  
+| bip_39_word_new_br_12 | secret<br>analyst<br>ridge<br>unable<br>muffin<br>high<br>worry<br>knee<br>you<br>escape<br>list<br>across |  
+| bip_39_word_new_br_2 | secret<br>analyst |  
+| bip_39_word_new_br_3 | secret<br>analyst<br>ridge |  
+| bip_39_word_new_br_4 | secret<br>analyst<br>ridge<br>unable |  
+| bip_39_word_new_br_5 | secret<br>analyst<br>ridge<br>unable<br>muffin |  
+| bip_39_word_new_br_6 | secret<br>analyst<br>ridge<br>unable<br>muffin<br>high |  
+| bip_39_word_new_br_7 | secret<br>analyst<br>ridge<br>unable<br>muffin<br>high<br>worry |  
+| bip_39_word_new_br_8 | secret<br>analyst<br>ridge<br>unable<br>muffin<br>high<br>worry<br>knee |  
+| bip_39_word_new_br_9 | secret<br>analyst<br>ridge<br>unable<br>muffin<br>high<br>worry<br>knee<br>you |  
+| bip_39_word_new_line_1 | secret |  
+| bip_39_word_new_line_10 | secret
 analyst
 ridge
 unable
@@ -55,7 +55,7 @@ worry
 knee
 you
 escape |  
-| bip_39_word_new_line11 | secret
+| bip_39_word_new_line_11 | secret
 analyst
 ridge
 unable
@@ -66,7 +66,7 @@ knee
 you
 escape
 list |  
-| bip_39_word_new_line12 | secret
+| bip_39_word_new_line_12 | secret
 analyst
 ridge
 unable
@@ -78,34 +78,34 @@ you
 escape
 list
 across |  
-| bip_39_word_new_line2 | secret
+| bip_39_word_new_line_2 | secret
 analyst |  
-| bip_39_word_new_line3 | secret
+| bip_39_word_new_line_3 | secret
 analyst
 ridge |  
-| bip_39_word_new_line4 | secret
+| bip_39_word_new_line_4 | secret
 analyst
 ridge
 unable |  
-| bip_39_word_new_line5 | secret
+| bip_39_word_new_line_5 | secret
 analyst
 ridge
 unable
 muffin |  
-| bip_39_word_new_line6 | secret
+| bip_39_word_new_line_6 | secret
 analyst
 ridge
 unable
 muffin
 high |  
-| bip_39_word_new_line7 | secret
+| bip_39_word_new_line_7 | secret
 analyst
 ridge
 unable
 muffin
 high
 worry |  
-| bip_39_word_new_line8 | secret
+| bip_39_word_new_line_8 | secret
 analyst
 ridge
 unable
@@ -113,7 +113,7 @@ muffin
 high
 worry
 knee |  
-| bip_39_word_new_line9 | secret
+| bip_39_word_new_line_9 | secret
 analyst
 ridge
 unable

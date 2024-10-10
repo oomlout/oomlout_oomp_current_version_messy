@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cruel |  
-| bip_39_word_new_br10 | cruel<br>all<br>gift<br>stereo<br>join<br>divert<br>hard<br>pattern<br>half<br>clown |  
-| bip_39_word_new_br11 | cruel<br>all<br>gift<br>stereo<br>join<br>divert<br>hard<br>pattern<br>half<br>clown<br>journey |  
-| bip_39_word_new_br12 | cruel<br>all<br>gift<br>stereo<br>join<br>divert<br>hard<br>pattern<br>half<br>clown<br>journey<br>advice |  
-| bip_39_word_new_br2 | cruel<br>all |  
-| bip_39_word_new_br3 | cruel<br>all<br>gift |  
-| bip_39_word_new_br4 | cruel<br>all<br>gift<br>stereo |  
-| bip_39_word_new_br5 | cruel<br>all<br>gift<br>stereo<br>join |  
-| bip_39_word_new_br6 | cruel<br>all<br>gift<br>stereo<br>join<br>divert |  
-| bip_39_word_new_br7 | cruel<br>all<br>gift<br>stereo<br>join<br>divert<br>hard |  
-| bip_39_word_new_br8 | cruel<br>all<br>gift<br>stereo<br>join<br>divert<br>hard<br>pattern |  
-| bip_39_word_new_br9 | cruel<br>all<br>gift<br>stereo<br>join<br>divert<br>hard<br>pattern<br>half |  
-| bip_39_word_new_line1 | cruel |  
-| bip_39_word_new_line10 | cruel
+| bip_39_word_new_br_1 | cruel |  
+| bip_39_word_new_br_10 | cruel<br>all<br>gift<br>stereo<br>join<br>divert<br>hard<br>pattern<br>half<br>clown |  
+| bip_39_word_new_br_11 | cruel<br>all<br>gift<br>stereo<br>join<br>divert<br>hard<br>pattern<br>half<br>clown<br>journey |  
+| bip_39_word_new_br_12 | cruel<br>all<br>gift<br>stereo<br>join<br>divert<br>hard<br>pattern<br>half<br>clown<br>journey<br>advice |  
+| bip_39_word_new_br_2 | cruel<br>all |  
+| bip_39_word_new_br_3 | cruel<br>all<br>gift |  
+| bip_39_word_new_br_4 | cruel<br>all<br>gift<br>stereo |  
+| bip_39_word_new_br_5 | cruel<br>all<br>gift<br>stereo<br>join |  
+| bip_39_word_new_br_6 | cruel<br>all<br>gift<br>stereo<br>join<br>divert |  
+| bip_39_word_new_br_7 | cruel<br>all<br>gift<br>stereo<br>join<br>divert<br>hard |  
+| bip_39_word_new_br_8 | cruel<br>all<br>gift<br>stereo<br>join<br>divert<br>hard<br>pattern |  
+| bip_39_word_new_br_9 | cruel<br>all<br>gift<br>stereo<br>join<br>divert<br>hard<br>pattern<br>half |  
+| bip_39_word_new_line_1 | cruel |  
+| bip_39_word_new_line_10 | cruel
 all
 gift
 stereo
@@ -55,7 +55,7 @@ hard
 pattern
 half
 clown |  
-| bip_39_word_new_line11 | cruel
+| bip_39_word_new_line_11 | cruel
 all
 gift
 stereo
@@ -66,7 +66,7 @@ pattern
 half
 clown
 journey |  
-| bip_39_word_new_line12 | cruel
+| bip_39_word_new_line_12 | cruel
 all
 gift
 stereo
@@ -78,34 +78,34 @@ half
 clown
 journey
 advice |  
-| bip_39_word_new_line2 | cruel
+| bip_39_word_new_line_2 | cruel
 all |  
-| bip_39_word_new_line3 | cruel
+| bip_39_word_new_line_3 | cruel
 all
 gift |  
-| bip_39_word_new_line4 | cruel
+| bip_39_word_new_line_4 | cruel
 all
 gift
 stereo |  
-| bip_39_word_new_line5 | cruel
+| bip_39_word_new_line_5 | cruel
 all
 gift
 stereo
 join |  
-| bip_39_word_new_line6 | cruel
+| bip_39_word_new_line_6 | cruel
 all
 gift
 stereo
 join
 divert |  
-| bip_39_word_new_line7 | cruel
+| bip_39_word_new_line_7 | cruel
 all
 gift
 stereo
 join
 divert
 hard |  
-| bip_39_word_new_line8 | cruel
+| bip_39_word_new_line_8 | cruel
 all
 gift
 stereo
@@ -113,7 +113,7 @@ join
 divert
 hard
 pattern |  
-| bip_39_word_new_line9 | cruel
+| bip_39_word_new_line_9 | cruel
 all
 gift
 stereo

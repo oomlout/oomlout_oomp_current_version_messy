@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | high |  
-| bip_39_word_new_br10 | high<br>heart<br>safe<br>regret<br>feel<br>device<br>ginger<br>forward<br>equal<br>method |  
-| bip_39_word_new_br11 | high<br>heart<br>safe<br>regret<br>feel<br>device<br>ginger<br>forward<br>equal<br>method<br>dream |  
-| bip_39_word_new_br12 | high<br>heart<br>safe<br>regret<br>feel<br>device<br>ginger<br>forward<br>equal<br>method<br>dream<br>aisle |  
-| bip_39_word_new_br2 | high<br>heart |  
-| bip_39_word_new_br3 | high<br>heart<br>safe |  
-| bip_39_word_new_br4 | high<br>heart<br>safe<br>regret |  
-| bip_39_word_new_br5 | high<br>heart<br>safe<br>regret<br>feel |  
-| bip_39_word_new_br6 | high<br>heart<br>safe<br>regret<br>feel<br>device |  
-| bip_39_word_new_br7 | high<br>heart<br>safe<br>regret<br>feel<br>device<br>ginger |  
-| bip_39_word_new_br8 | high<br>heart<br>safe<br>regret<br>feel<br>device<br>ginger<br>forward |  
-| bip_39_word_new_br9 | high<br>heart<br>safe<br>regret<br>feel<br>device<br>ginger<br>forward<br>equal |  
-| bip_39_word_new_line1 | high |  
-| bip_39_word_new_line10 | high
+| bip_39_word_new_br_1 | high |  
+| bip_39_word_new_br_10 | high<br>heart<br>safe<br>regret<br>feel<br>device<br>ginger<br>forward<br>equal<br>method |  
+| bip_39_word_new_br_11 | high<br>heart<br>safe<br>regret<br>feel<br>device<br>ginger<br>forward<br>equal<br>method<br>dream |  
+| bip_39_word_new_br_12 | high<br>heart<br>safe<br>regret<br>feel<br>device<br>ginger<br>forward<br>equal<br>method<br>dream<br>aisle |  
+| bip_39_word_new_br_2 | high<br>heart |  
+| bip_39_word_new_br_3 | high<br>heart<br>safe |  
+| bip_39_word_new_br_4 | high<br>heart<br>safe<br>regret |  
+| bip_39_word_new_br_5 | high<br>heart<br>safe<br>regret<br>feel |  
+| bip_39_word_new_br_6 | high<br>heart<br>safe<br>regret<br>feel<br>device |  
+| bip_39_word_new_br_7 | high<br>heart<br>safe<br>regret<br>feel<br>device<br>ginger |  
+| bip_39_word_new_br_8 | high<br>heart<br>safe<br>regret<br>feel<br>device<br>ginger<br>forward |  
+| bip_39_word_new_br_9 | high<br>heart<br>safe<br>regret<br>feel<br>device<br>ginger<br>forward<br>equal |  
+| bip_39_word_new_line_1 | high |  
+| bip_39_word_new_line_10 | high
 heart
 safe
 regret
@@ -55,7 +55,7 @@ ginger
 forward
 equal
 method |  
-| bip_39_word_new_line11 | high
+| bip_39_word_new_line_11 | high
 heart
 safe
 regret
@@ -66,7 +66,7 @@ forward
 equal
 method
 dream |  
-| bip_39_word_new_line12 | high
+| bip_39_word_new_line_12 | high
 heart
 safe
 regret
@@ -78,34 +78,34 @@ equal
 method
 dream
 aisle |  
-| bip_39_word_new_line2 | high
+| bip_39_word_new_line_2 | high
 heart |  
-| bip_39_word_new_line3 | high
+| bip_39_word_new_line_3 | high
 heart
 safe |  
-| bip_39_word_new_line4 | high
+| bip_39_word_new_line_4 | high
 heart
 safe
 regret |  
-| bip_39_word_new_line5 | high
+| bip_39_word_new_line_5 | high
 heart
 safe
 regret
 feel |  
-| bip_39_word_new_line6 | high
+| bip_39_word_new_line_6 | high
 heart
 safe
 regret
 feel
 device |  
-| bip_39_word_new_line7 | high
+| bip_39_word_new_line_7 | high
 heart
 safe
 regret
 feel
 device
 ginger |  
-| bip_39_word_new_line8 | high
+| bip_39_word_new_line_8 | high
 heart
 safe
 regret
@@ -113,7 +113,7 @@ feel
 device
 ginger
 forward |  
-| bip_39_word_new_line9 | high
+| bip_39_word_new_line_9 | high
 heart
 safe
 regret

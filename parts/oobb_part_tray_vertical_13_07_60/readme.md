@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | aerobic |  
-| bip_39_word_new_br10 | aerobic<br>anger<br>input<br>people<br>crowd<br>obscure<br>regret<br>economy<br>mechanic<br>vintage |  
-| bip_39_word_new_br11 | aerobic<br>anger<br>input<br>people<br>crowd<br>obscure<br>regret<br>economy<br>mechanic<br>vintage<br>program |  
-| bip_39_word_new_br12 | aerobic<br>anger<br>input<br>people<br>crowd<br>obscure<br>regret<br>economy<br>mechanic<br>vintage<br>program<br>amount |  
-| bip_39_word_new_br2 | aerobic<br>anger |  
-| bip_39_word_new_br3 | aerobic<br>anger<br>input |  
-| bip_39_word_new_br4 | aerobic<br>anger<br>input<br>people |  
-| bip_39_word_new_br5 | aerobic<br>anger<br>input<br>people<br>crowd |  
-| bip_39_word_new_br6 | aerobic<br>anger<br>input<br>people<br>crowd<br>obscure |  
-| bip_39_word_new_br7 | aerobic<br>anger<br>input<br>people<br>crowd<br>obscure<br>regret |  
-| bip_39_word_new_br8 | aerobic<br>anger<br>input<br>people<br>crowd<br>obscure<br>regret<br>economy |  
-| bip_39_word_new_br9 | aerobic<br>anger<br>input<br>people<br>crowd<br>obscure<br>regret<br>economy<br>mechanic |  
-| bip_39_word_new_line1 | aerobic |  
-| bip_39_word_new_line10 | aerobic
+| bip_39_word_new_br_1 | aerobic |  
+| bip_39_word_new_br_10 | aerobic<br>anger<br>input<br>people<br>crowd<br>obscure<br>regret<br>economy<br>mechanic<br>vintage |  
+| bip_39_word_new_br_11 | aerobic<br>anger<br>input<br>people<br>crowd<br>obscure<br>regret<br>economy<br>mechanic<br>vintage<br>program |  
+| bip_39_word_new_br_12 | aerobic<br>anger<br>input<br>people<br>crowd<br>obscure<br>regret<br>economy<br>mechanic<br>vintage<br>program<br>amount |  
+| bip_39_word_new_br_2 | aerobic<br>anger |  
+| bip_39_word_new_br_3 | aerobic<br>anger<br>input |  
+| bip_39_word_new_br_4 | aerobic<br>anger<br>input<br>people |  
+| bip_39_word_new_br_5 | aerobic<br>anger<br>input<br>people<br>crowd |  
+| bip_39_word_new_br_6 | aerobic<br>anger<br>input<br>people<br>crowd<br>obscure |  
+| bip_39_word_new_br_7 | aerobic<br>anger<br>input<br>people<br>crowd<br>obscure<br>regret |  
+| bip_39_word_new_br_8 | aerobic<br>anger<br>input<br>people<br>crowd<br>obscure<br>regret<br>economy |  
+| bip_39_word_new_br_9 | aerobic<br>anger<br>input<br>people<br>crowd<br>obscure<br>regret<br>economy<br>mechanic |  
+| bip_39_word_new_line_1 | aerobic |  
+| bip_39_word_new_line_10 | aerobic
 anger
 input
 people
@@ -55,7 +55,7 @@ regret
 economy
 mechanic
 vintage |  
-| bip_39_word_new_line11 | aerobic
+| bip_39_word_new_line_11 | aerobic
 anger
 input
 people
@@ -66,7 +66,7 @@ economy
 mechanic
 vintage
 program |  
-| bip_39_word_new_line12 | aerobic
+| bip_39_word_new_line_12 | aerobic
 anger
 input
 people
@@ -78,34 +78,34 @@ mechanic
 vintage
 program
 amount |  
-| bip_39_word_new_line2 | aerobic
+| bip_39_word_new_line_2 | aerobic
 anger |  
-| bip_39_word_new_line3 | aerobic
+| bip_39_word_new_line_3 | aerobic
 anger
 input |  
-| bip_39_word_new_line4 | aerobic
+| bip_39_word_new_line_4 | aerobic
 anger
 input
 people |  
-| bip_39_word_new_line5 | aerobic
+| bip_39_word_new_line_5 | aerobic
 anger
 input
 people
 crowd |  
-| bip_39_word_new_line6 | aerobic
+| bip_39_word_new_line_6 | aerobic
 anger
 input
 people
 crowd
 obscure |  
-| bip_39_word_new_line7 | aerobic
+| bip_39_word_new_line_7 | aerobic
 anger
 input
 people
 crowd
 obscure
 regret |  
-| bip_39_word_new_line8 | aerobic
+| bip_39_word_new_line_8 | aerobic
 anger
 input
 people
@@ -113,7 +113,7 @@ crowd
 obscure
 regret
 economy |  
-| bip_39_word_new_line9 | aerobic
+| bip_39_word_new_line_9 | aerobic
 anger
 input
 people

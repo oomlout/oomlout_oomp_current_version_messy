@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | twenty |  
-| bip_39_word_new_br10 | twenty<br>trim<br>turtle<br>spoon<br>stock<br>evil<br>short<br>cry<br>dignity<br>siren |  
-| bip_39_word_new_br11 | twenty<br>trim<br>turtle<br>spoon<br>stock<br>evil<br>short<br>cry<br>dignity<br>siren<br>please |  
-| bip_39_word_new_br12 | twenty<br>trim<br>turtle<br>spoon<br>stock<br>evil<br>short<br>cry<br>dignity<br>siren<br>please<br>assume |  
-| bip_39_word_new_br2 | twenty<br>trim |  
-| bip_39_word_new_br3 | twenty<br>trim<br>turtle |  
-| bip_39_word_new_br4 | twenty<br>trim<br>turtle<br>spoon |  
-| bip_39_word_new_br5 | twenty<br>trim<br>turtle<br>spoon<br>stock |  
-| bip_39_word_new_br6 | twenty<br>trim<br>turtle<br>spoon<br>stock<br>evil |  
-| bip_39_word_new_br7 | twenty<br>trim<br>turtle<br>spoon<br>stock<br>evil<br>short |  
-| bip_39_word_new_br8 | twenty<br>trim<br>turtle<br>spoon<br>stock<br>evil<br>short<br>cry |  
-| bip_39_word_new_br9 | twenty<br>trim<br>turtle<br>spoon<br>stock<br>evil<br>short<br>cry<br>dignity |  
-| bip_39_word_new_line1 | twenty |  
-| bip_39_word_new_line10 | twenty
+| bip_39_word_new_br_1 | twenty |  
+| bip_39_word_new_br_10 | twenty<br>trim<br>turtle<br>spoon<br>stock<br>evil<br>short<br>cry<br>dignity<br>siren |  
+| bip_39_word_new_br_11 | twenty<br>trim<br>turtle<br>spoon<br>stock<br>evil<br>short<br>cry<br>dignity<br>siren<br>please |  
+| bip_39_word_new_br_12 | twenty<br>trim<br>turtle<br>spoon<br>stock<br>evil<br>short<br>cry<br>dignity<br>siren<br>please<br>assume |  
+| bip_39_word_new_br_2 | twenty<br>trim |  
+| bip_39_word_new_br_3 | twenty<br>trim<br>turtle |  
+| bip_39_word_new_br_4 | twenty<br>trim<br>turtle<br>spoon |  
+| bip_39_word_new_br_5 | twenty<br>trim<br>turtle<br>spoon<br>stock |  
+| bip_39_word_new_br_6 | twenty<br>trim<br>turtle<br>spoon<br>stock<br>evil |  
+| bip_39_word_new_br_7 | twenty<br>trim<br>turtle<br>spoon<br>stock<br>evil<br>short |  
+| bip_39_word_new_br_8 | twenty<br>trim<br>turtle<br>spoon<br>stock<br>evil<br>short<br>cry |  
+| bip_39_word_new_br_9 | twenty<br>trim<br>turtle<br>spoon<br>stock<br>evil<br>short<br>cry<br>dignity |  
+| bip_39_word_new_line_1 | twenty |  
+| bip_39_word_new_line_10 | twenty
 trim
 turtle
 spoon
@@ -55,7 +55,7 @@ short
 cry
 dignity
 siren |  
-| bip_39_word_new_line11 | twenty
+| bip_39_word_new_line_11 | twenty
 trim
 turtle
 spoon
@@ -66,7 +66,7 @@ cry
 dignity
 siren
 please |  
-| bip_39_word_new_line12 | twenty
+| bip_39_word_new_line_12 | twenty
 trim
 turtle
 spoon
@@ -78,34 +78,34 @@ dignity
 siren
 please
 assume |  
-| bip_39_word_new_line2 | twenty
+| bip_39_word_new_line_2 | twenty
 trim |  
-| bip_39_word_new_line3 | twenty
+| bip_39_word_new_line_3 | twenty
 trim
 turtle |  
-| bip_39_word_new_line4 | twenty
+| bip_39_word_new_line_4 | twenty
 trim
 turtle
 spoon |  
-| bip_39_word_new_line5 | twenty
+| bip_39_word_new_line_5 | twenty
 trim
 turtle
 spoon
 stock |  
-| bip_39_word_new_line6 | twenty
+| bip_39_word_new_line_6 | twenty
 trim
 turtle
 spoon
 stock
 evil |  
-| bip_39_word_new_line7 | twenty
+| bip_39_word_new_line_7 | twenty
 trim
 turtle
 spoon
 stock
 evil
 short |  
-| bip_39_word_new_line8 | twenty
+| bip_39_word_new_line_8 | twenty
 trim
 turtle
 spoon
@@ -113,7 +113,7 @@ stock
 evil
 short
 cry |  
-| bip_39_word_new_line9 | twenty
+| bip_39_word_new_line_9 | twenty
 trim
 turtle
 spoon

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | artwork |  
-| bip_39_word_new_br10 | artwork<br>solid<br>parrot<br>lumber<br>candy<br>sleep<br>slow<br>cupboard<br>slight<br>pink |  
-| bip_39_word_new_br11 | artwork<br>solid<br>parrot<br>lumber<br>candy<br>sleep<br>slow<br>cupboard<br>slight<br>pink<br>purpose |  
-| bip_39_word_new_br12 | artwork<br>solid<br>parrot<br>lumber<br>candy<br>sleep<br>slow<br>cupboard<br>slight<br>pink<br>purpose<br>armor |  
-| bip_39_word_new_br2 | artwork<br>solid |  
-| bip_39_word_new_br3 | artwork<br>solid<br>parrot |  
-| bip_39_word_new_br4 | artwork<br>solid<br>parrot<br>lumber |  
-| bip_39_word_new_br5 | artwork<br>solid<br>parrot<br>lumber<br>candy |  
-| bip_39_word_new_br6 | artwork<br>solid<br>parrot<br>lumber<br>candy<br>sleep |  
-| bip_39_word_new_br7 | artwork<br>solid<br>parrot<br>lumber<br>candy<br>sleep<br>slow |  
-| bip_39_word_new_br8 | artwork<br>solid<br>parrot<br>lumber<br>candy<br>sleep<br>slow<br>cupboard |  
-| bip_39_word_new_br9 | artwork<br>solid<br>parrot<br>lumber<br>candy<br>sleep<br>slow<br>cupboard<br>slight |  
-| bip_39_word_new_line1 | artwork |  
-| bip_39_word_new_line10 | artwork
+| bip_39_word_new_br_1 | artwork |  
+| bip_39_word_new_br_10 | artwork<br>solid<br>parrot<br>lumber<br>candy<br>sleep<br>slow<br>cupboard<br>slight<br>pink |  
+| bip_39_word_new_br_11 | artwork<br>solid<br>parrot<br>lumber<br>candy<br>sleep<br>slow<br>cupboard<br>slight<br>pink<br>purpose |  
+| bip_39_word_new_br_12 | artwork<br>solid<br>parrot<br>lumber<br>candy<br>sleep<br>slow<br>cupboard<br>slight<br>pink<br>purpose<br>armor |  
+| bip_39_word_new_br_2 | artwork<br>solid |  
+| bip_39_word_new_br_3 | artwork<br>solid<br>parrot |  
+| bip_39_word_new_br_4 | artwork<br>solid<br>parrot<br>lumber |  
+| bip_39_word_new_br_5 | artwork<br>solid<br>parrot<br>lumber<br>candy |  
+| bip_39_word_new_br_6 | artwork<br>solid<br>parrot<br>lumber<br>candy<br>sleep |  
+| bip_39_word_new_br_7 | artwork<br>solid<br>parrot<br>lumber<br>candy<br>sleep<br>slow |  
+| bip_39_word_new_br_8 | artwork<br>solid<br>parrot<br>lumber<br>candy<br>sleep<br>slow<br>cupboard |  
+| bip_39_word_new_br_9 | artwork<br>solid<br>parrot<br>lumber<br>candy<br>sleep<br>slow<br>cupboard<br>slight |  
+| bip_39_word_new_line_1 | artwork |  
+| bip_39_word_new_line_10 | artwork
 solid
 parrot
 lumber
@@ -55,7 +55,7 @@ slow
 cupboard
 slight
 pink |  
-| bip_39_word_new_line11 | artwork
+| bip_39_word_new_line_11 | artwork
 solid
 parrot
 lumber
@@ -66,7 +66,7 @@ cupboard
 slight
 pink
 purpose |  
-| bip_39_word_new_line12 | artwork
+| bip_39_word_new_line_12 | artwork
 solid
 parrot
 lumber
@@ -78,34 +78,34 @@ slight
 pink
 purpose
 armor |  
-| bip_39_word_new_line2 | artwork
+| bip_39_word_new_line_2 | artwork
 solid |  
-| bip_39_word_new_line3 | artwork
+| bip_39_word_new_line_3 | artwork
 solid
 parrot |  
-| bip_39_word_new_line4 | artwork
+| bip_39_word_new_line_4 | artwork
 solid
 parrot
 lumber |  
-| bip_39_word_new_line5 | artwork
+| bip_39_word_new_line_5 | artwork
 solid
 parrot
 lumber
 candy |  
-| bip_39_word_new_line6 | artwork
+| bip_39_word_new_line_6 | artwork
 solid
 parrot
 lumber
 candy
 sleep |  
-| bip_39_word_new_line7 | artwork
+| bip_39_word_new_line_7 | artwork
 solid
 parrot
 lumber
 candy
 sleep
 slow |  
-| bip_39_word_new_line8 | artwork
+| bip_39_word_new_line_8 | artwork
 solid
 parrot
 lumber
@@ -113,7 +113,7 @@ candy
 sleep
 slow
 cupboard |  
-| bip_39_word_new_line9 | artwork
+| bip_39_word_new_line_9 | artwork
 solid
 parrot
 lumber

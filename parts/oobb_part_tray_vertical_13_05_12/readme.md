@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | accuse |  
-| bip_39_word_new_br10 | accuse<br>protect<br>sight<br>upper<br>hour<br>room<br>debris<br>tragic<br>sugar<br>legal |  
-| bip_39_word_new_br11 | accuse<br>protect<br>sight<br>upper<br>hour<br>room<br>debris<br>tragic<br>sugar<br>legal<br>fashion |  
-| bip_39_word_new_br12 | accuse<br>protect<br>sight<br>upper<br>hour<br>room<br>debris<br>tragic<br>sugar<br>legal<br>fashion<br>alien |  
-| bip_39_word_new_br2 | accuse<br>protect |  
-| bip_39_word_new_br3 | accuse<br>protect<br>sight |  
-| bip_39_word_new_br4 | accuse<br>protect<br>sight<br>upper |  
-| bip_39_word_new_br5 | accuse<br>protect<br>sight<br>upper<br>hour |  
-| bip_39_word_new_br6 | accuse<br>protect<br>sight<br>upper<br>hour<br>room |  
-| bip_39_word_new_br7 | accuse<br>protect<br>sight<br>upper<br>hour<br>room<br>debris |  
-| bip_39_word_new_br8 | accuse<br>protect<br>sight<br>upper<br>hour<br>room<br>debris<br>tragic |  
-| bip_39_word_new_br9 | accuse<br>protect<br>sight<br>upper<br>hour<br>room<br>debris<br>tragic<br>sugar |  
-| bip_39_word_new_line1 | accuse |  
-| bip_39_word_new_line10 | accuse
+| bip_39_word_new_br_1 | accuse |  
+| bip_39_word_new_br_10 | accuse<br>protect<br>sight<br>upper<br>hour<br>room<br>debris<br>tragic<br>sugar<br>legal |  
+| bip_39_word_new_br_11 | accuse<br>protect<br>sight<br>upper<br>hour<br>room<br>debris<br>tragic<br>sugar<br>legal<br>fashion |  
+| bip_39_word_new_br_12 | accuse<br>protect<br>sight<br>upper<br>hour<br>room<br>debris<br>tragic<br>sugar<br>legal<br>fashion<br>alien |  
+| bip_39_word_new_br_2 | accuse<br>protect |  
+| bip_39_word_new_br_3 | accuse<br>protect<br>sight |  
+| bip_39_word_new_br_4 | accuse<br>protect<br>sight<br>upper |  
+| bip_39_word_new_br_5 | accuse<br>protect<br>sight<br>upper<br>hour |  
+| bip_39_word_new_br_6 | accuse<br>protect<br>sight<br>upper<br>hour<br>room |  
+| bip_39_word_new_br_7 | accuse<br>protect<br>sight<br>upper<br>hour<br>room<br>debris |  
+| bip_39_word_new_br_8 | accuse<br>protect<br>sight<br>upper<br>hour<br>room<br>debris<br>tragic |  
+| bip_39_word_new_br_9 | accuse<br>protect<br>sight<br>upper<br>hour<br>room<br>debris<br>tragic<br>sugar |  
+| bip_39_word_new_line_1 | accuse |  
+| bip_39_word_new_line_10 | accuse
 protect
 sight
 upper
@@ -55,7 +55,7 @@ debris
 tragic
 sugar
 legal |  
-| bip_39_word_new_line11 | accuse
+| bip_39_word_new_line_11 | accuse
 protect
 sight
 upper
@@ -66,7 +66,7 @@ tragic
 sugar
 legal
 fashion |  
-| bip_39_word_new_line12 | accuse
+| bip_39_word_new_line_12 | accuse
 protect
 sight
 upper
@@ -78,34 +78,34 @@ sugar
 legal
 fashion
 alien |  
-| bip_39_word_new_line2 | accuse
+| bip_39_word_new_line_2 | accuse
 protect |  
-| bip_39_word_new_line3 | accuse
+| bip_39_word_new_line_3 | accuse
 protect
 sight |  
-| bip_39_word_new_line4 | accuse
+| bip_39_word_new_line_4 | accuse
 protect
 sight
 upper |  
-| bip_39_word_new_line5 | accuse
+| bip_39_word_new_line_5 | accuse
 protect
 sight
 upper
 hour |  
-| bip_39_word_new_line6 | accuse
+| bip_39_word_new_line_6 | accuse
 protect
 sight
 upper
 hour
 room |  
-| bip_39_word_new_line7 | accuse
+| bip_39_word_new_line_7 | accuse
 protect
 sight
 upper
 hour
 room
 debris |  
-| bip_39_word_new_line8 | accuse
+| bip_39_word_new_line_8 | accuse
 protect
 sight
 upper
@@ -113,7 +113,7 @@ hour
 room
 debris
 tragic |  
-| bip_39_word_new_line9 | accuse
+| bip_39_word_new_line_9 | accuse
 protect
 sight
 upper

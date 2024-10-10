@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | derive |  
-| bip_39_word_new_br10 | derive<br>canyon<br>rookie<br>extend<br>hawk<br>canvas<br>crunch<br>total<br>pride<br>food |  
-| bip_39_word_new_br11 | derive<br>canyon<br>rookie<br>extend<br>hawk<br>canvas<br>crunch<br>total<br>pride<br>food<br>safe |  
-| bip_39_word_new_br12 | derive<br>canyon<br>rookie<br>extend<br>hawk<br>canvas<br>crunch<br>total<br>pride<br>food<br>safe<br>agree |  
-| bip_39_word_new_br2 | derive<br>canyon |  
-| bip_39_word_new_br3 | derive<br>canyon<br>rookie |  
-| bip_39_word_new_br4 | derive<br>canyon<br>rookie<br>extend |  
-| bip_39_word_new_br5 | derive<br>canyon<br>rookie<br>extend<br>hawk |  
-| bip_39_word_new_br6 | derive<br>canyon<br>rookie<br>extend<br>hawk<br>canvas |  
-| bip_39_word_new_br7 | derive<br>canyon<br>rookie<br>extend<br>hawk<br>canvas<br>crunch |  
-| bip_39_word_new_br8 | derive<br>canyon<br>rookie<br>extend<br>hawk<br>canvas<br>crunch<br>total |  
-| bip_39_word_new_br9 | derive<br>canyon<br>rookie<br>extend<br>hawk<br>canvas<br>crunch<br>total<br>pride |  
-| bip_39_word_new_line1 | derive |  
-| bip_39_word_new_line10 | derive
+| bip_39_word_new_br_1 | derive |  
+| bip_39_word_new_br_10 | derive<br>canyon<br>rookie<br>extend<br>hawk<br>canvas<br>crunch<br>total<br>pride<br>food |  
+| bip_39_word_new_br_11 | derive<br>canyon<br>rookie<br>extend<br>hawk<br>canvas<br>crunch<br>total<br>pride<br>food<br>safe |  
+| bip_39_word_new_br_12 | derive<br>canyon<br>rookie<br>extend<br>hawk<br>canvas<br>crunch<br>total<br>pride<br>food<br>safe<br>agree |  
+| bip_39_word_new_br_2 | derive<br>canyon |  
+| bip_39_word_new_br_3 | derive<br>canyon<br>rookie |  
+| bip_39_word_new_br_4 | derive<br>canyon<br>rookie<br>extend |  
+| bip_39_word_new_br_5 | derive<br>canyon<br>rookie<br>extend<br>hawk |  
+| bip_39_word_new_br_6 | derive<br>canyon<br>rookie<br>extend<br>hawk<br>canvas |  
+| bip_39_word_new_br_7 | derive<br>canyon<br>rookie<br>extend<br>hawk<br>canvas<br>crunch |  
+| bip_39_word_new_br_8 | derive<br>canyon<br>rookie<br>extend<br>hawk<br>canvas<br>crunch<br>total |  
+| bip_39_word_new_br_9 | derive<br>canyon<br>rookie<br>extend<br>hawk<br>canvas<br>crunch<br>total<br>pride |  
+| bip_39_word_new_line_1 | derive |  
+| bip_39_word_new_line_10 | derive
 canyon
 rookie
 extend
@@ -55,7 +55,7 @@ crunch
 total
 pride
 food |  
-| bip_39_word_new_line11 | derive
+| bip_39_word_new_line_11 | derive
 canyon
 rookie
 extend
@@ -66,7 +66,7 @@ total
 pride
 food
 safe |  
-| bip_39_word_new_line12 | derive
+| bip_39_word_new_line_12 | derive
 canyon
 rookie
 extend
@@ -78,34 +78,34 @@ pride
 food
 safe
 agree |  
-| bip_39_word_new_line2 | derive
+| bip_39_word_new_line_2 | derive
 canyon |  
-| bip_39_word_new_line3 | derive
+| bip_39_word_new_line_3 | derive
 canyon
 rookie |  
-| bip_39_word_new_line4 | derive
+| bip_39_word_new_line_4 | derive
 canyon
 rookie
 extend |  
-| bip_39_word_new_line5 | derive
+| bip_39_word_new_line_5 | derive
 canyon
 rookie
 extend
 hawk |  
-| bip_39_word_new_line6 | derive
+| bip_39_word_new_line_6 | derive
 canyon
 rookie
 extend
 hawk
 canvas |  
-| bip_39_word_new_line7 | derive
+| bip_39_word_new_line_7 | derive
 canyon
 rookie
 extend
 hawk
 canvas
 crunch |  
-| bip_39_word_new_line8 | derive
+| bip_39_word_new_line_8 | derive
 canyon
 rookie
 extend
@@ -113,7 +113,7 @@ hawk
 canvas
 crunch
 total |  
-| bip_39_word_new_line9 | derive
+| bip_39_word_new_line_9 | derive
 canyon
 rookie
 extend

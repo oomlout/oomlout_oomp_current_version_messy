@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | reduce |  
-| bip_39_word_new_br10 | reduce<br>glove<br>board<br>fetch<br>cook<br>congress<br>ankle<br>polar<br>endorse<br>member |  
-| bip_39_word_new_br11 | reduce<br>glove<br>board<br>fetch<br>cook<br>congress<br>ankle<br>polar<br>endorse<br>member<br>error |  
-| bip_39_word_new_br12 | reduce<br>glove<br>board<br>fetch<br>cook<br>congress<br>ankle<br>polar<br>endorse<br>member<br>error<br>advice |  
-| bip_39_word_new_br2 | reduce<br>glove |  
-| bip_39_word_new_br3 | reduce<br>glove<br>board |  
-| bip_39_word_new_br4 | reduce<br>glove<br>board<br>fetch |  
-| bip_39_word_new_br5 | reduce<br>glove<br>board<br>fetch<br>cook |  
-| bip_39_word_new_br6 | reduce<br>glove<br>board<br>fetch<br>cook<br>congress |  
-| bip_39_word_new_br7 | reduce<br>glove<br>board<br>fetch<br>cook<br>congress<br>ankle |  
-| bip_39_word_new_br8 | reduce<br>glove<br>board<br>fetch<br>cook<br>congress<br>ankle<br>polar |  
-| bip_39_word_new_br9 | reduce<br>glove<br>board<br>fetch<br>cook<br>congress<br>ankle<br>polar<br>endorse |  
-| bip_39_word_new_line1 | reduce |  
-| bip_39_word_new_line10 | reduce
+| bip_39_word_new_br_1 | reduce |  
+| bip_39_word_new_br_10 | reduce<br>glove<br>board<br>fetch<br>cook<br>congress<br>ankle<br>polar<br>endorse<br>member |  
+| bip_39_word_new_br_11 | reduce<br>glove<br>board<br>fetch<br>cook<br>congress<br>ankle<br>polar<br>endorse<br>member<br>error |  
+| bip_39_word_new_br_12 | reduce<br>glove<br>board<br>fetch<br>cook<br>congress<br>ankle<br>polar<br>endorse<br>member<br>error<br>advice |  
+| bip_39_word_new_br_2 | reduce<br>glove |  
+| bip_39_word_new_br_3 | reduce<br>glove<br>board |  
+| bip_39_word_new_br_4 | reduce<br>glove<br>board<br>fetch |  
+| bip_39_word_new_br_5 | reduce<br>glove<br>board<br>fetch<br>cook |  
+| bip_39_word_new_br_6 | reduce<br>glove<br>board<br>fetch<br>cook<br>congress |  
+| bip_39_word_new_br_7 | reduce<br>glove<br>board<br>fetch<br>cook<br>congress<br>ankle |  
+| bip_39_word_new_br_8 | reduce<br>glove<br>board<br>fetch<br>cook<br>congress<br>ankle<br>polar |  
+| bip_39_word_new_br_9 | reduce<br>glove<br>board<br>fetch<br>cook<br>congress<br>ankle<br>polar<br>endorse |  
+| bip_39_word_new_line_1 | reduce |  
+| bip_39_word_new_line_10 | reduce
 glove
 board
 fetch
@@ -55,7 +55,7 @@ ankle
 polar
 endorse
 member |  
-| bip_39_word_new_line11 | reduce
+| bip_39_word_new_line_11 | reduce
 glove
 board
 fetch
@@ -66,7 +66,7 @@ polar
 endorse
 member
 error |  
-| bip_39_word_new_line12 | reduce
+| bip_39_word_new_line_12 | reduce
 glove
 board
 fetch
@@ -78,34 +78,34 @@ endorse
 member
 error
 advice |  
-| bip_39_word_new_line2 | reduce
+| bip_39_word_new_line_2 | reduce
 glove |  
-| bip_39_word_new_line3 | reduce
+| bip_39_word_new_line_3 | reduce
 glove
 board |  
-| bip_39_word_new_line4 | reduce
+| bip_39_word_new_line_4 | reduce
 glove
 board
 fetch |  
-| bip_39_word_new_line5 | reduce
+| bip_39_word_new_line_5 | reduce
 glove
 board
 fetch
 cook |  
-| bip_39_word_new_line6 | reduce
+| bip_39_word_new_line_6 | reduce
 glove
 board
 fetch
 cook
 congress |  
-| bip_39_word_new_line7 | reduce
+| bip_39_word_new_line_7 | reduce
 glove
 board
 fetch
 cook
 congress
 ankle |  
-| bip_39_word_new_line8 | reduce
+| bip_39_word_new_line_8 | reduce
 glove
 board
 fetch
@@ -113,7 +113,7 @@ cook
 congress
 ankle
 polar |  
-| bip_39_word_new_line9 | reduce
+| bip_39_word_new_line_9 | reduce
 glove
 board
 fetch

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | reason |  
-| bip_39_word_new_br10 | reason<br>edge<br>process<br>talk<br>modify<br>monster<br>valve<br>bottom<br>faculty<br>still |  
-| bip_39_word_new_br11 | reason<br>edge<br>process<br>talk<br>modify<br>monster<br>valve<br>bottom<br>faculty<br>still<br>jelly |  
-| bip_39_word_new_br12 | reason<br>edge<br>process<br>talk<br>modify<br>monster<br>valve<br>bottom<br>faculty<br>still<br>jelly<br>attitude |  
-| bip_39_word_new_br2 | reason<br>edge |  
-| bip_39_word_new_br3 | reason<br>edge<br>process |  
-| bip_39_word_new_br4 | reason<br>edge<br>process<br>talk |  
-| bip_39_word_new_br5 | reason<br>edge<br>process<br>talk<br>modify |  
-| bip_39_word_new_br6 | reason<br>edge<br>process<br>talk<br>modify<br>monster |  
-| bip_39_word_new_br7 | reason<br>edge<br>process<br>talk<br>modify<br>monster<br>valve |  
-| bip_39_word_new_br8 | reason<br>edge<br>process<br>talk<br>modify<br>monster<br>valve<br>bottom |  
-| bip_39_word_new_br9 | reason<br>edge<br>process<br>talk<br>modify<br>monster<br>valve<br>bottom<br>faculty |  
-| bip_39_word_new_line1 | reason |  
-| bip_39_word_new_line10 | reason
+| bip_39_word_new_br_1 | reason |  
+| bip_39_word_new_br_10 | reason<br>edge<br>process<br>talk<br>modify<br>monster<br>valve<br>bottom<br>faculty<br>still |  
+| bip_39_word_new_br_11 | reason<br>edge<br>process<br>talk<br>modify<br>monster<br>valve<br>bottom<br>faculty<br>still<br>jelly |  
+| bip_39_word_new_br_12 | reason<br>edge<br>process<br>talk<br>modify<br>monster<br>valve<br>bottom<br>faculty<br>still<br>jelly<br>attitude |  
+| bip_39_word_new_br_2 | reason<br>edge |  
+| bip_39_word_new_br_3 | reason<br>edge<br>process |  
+| bip_39_word_new_br_4 | reason<br>edge<br>process<br>talk |  
+| bip_39_word_new_br_5 | reason<br>edge<br>process<br>talk<br>modify |  
+| bip_39_word_new_br_6 | reason<br>edge<br>process<br>talk<br>modify<br>monster |  
+| bip_39_word_new_br_7 | reason<br>edge<br>process<br>talk<br>modify<br>monster<br>valve |  
+| bip_39_word_new_br_8 | reason<br>edge<br>process<br>talk<br>modify<br>monster<br>valve<br>bottom |  
+| bip_39_word_new_br_9 | reason<br>edge<br>process<br>talk<br>modify<br>monster<br>valve<br>bottom<br>faculty |  
+| bip_39_word_new_line_1 | reason |  
+| bip_39_word_new_line_10 | reason
 edge
 process
 talk
@@ -55,7 +55,7 @@ valve
 bottom
 faculty
 still |  
-| bip_39_word_new_line11 | reason
+| bip_39_word_new_line_11 | reason
 edge
 process
 talk
@@ -66,7 +66,7 @@ bottom
 faculty
 still
 jelly |  
-| bip_39_word_new_line12 | reason
+| bip_39_word_new_line_12 | reason
 edge
 process
 talk
@@ -78,34 +78,34 @@ faculty
 still
 jelly
 attitude |  
-| bip_39_word_new_line2 | reason
+| bip_39_word_new_line_2 | reason
 edge |  
-| bip_39_word_new_line3 | reason
+| bip_39_word_new_line_3 | reason
 edge
 process |  
-| bip_39_word_new_line4 | reason
+| bip_39_word_new_line_4 | reason
 edge
 process
 talk |  
-| bip_39_word_new_line5 | reason
+| bip_39_word_new_line_5 | reason
 edge
 process
 talk
 modify |  
-| bip_39_word_new_line6 | reason
+| bip_39_word_new_line_6 | reason
 edge
 process
 talk
 modify
 monster |  
-| bip_39_word_new_line7 | reason
+| bip_39_word_new_line_7 | reason
 edge
 process
 talk
 modify
 monster
 valve |  
-| bip_39_word_new_line8 | reason
+| bip_39_word_new_line_8 | reason
 edge
 process
 talk
@@ -113,7 +113,7 @@ modify
 monster
 valve
 bottom |  
-| bip_39_word_new_line9 | reason
+| bip_39_word_new_line_9 | reason
 edge
 process
 talk

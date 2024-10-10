@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | leisure |  
-| bip_39_word_new_br10 | leisure<br>frog<br>disorder<br>name<br>arrange<br>analyst<br>hamster<br>increase<br>slow<br>injury |  
-| bip_39_word_new_br11 | leisure<br>frog<br>disorder<br>name<br>arrange<br>analyst<br>hamster<br>increase<br>slow<br>injury<br>network |  
-| bip_39_word_new_br12 | leisure<br>frog<br>disorder<br>name<br>arrange<br>analyst<br>hamster<br>increase<br>slow<br>injury<br>network<br>actor |  
-| bip_39_word_new_br2 | leisure<br>frog |  
-| bip_39_word_new_br3 | leisure<br>frog<br>disorder |  
-| bip_39_word_new_br4 | leisure<br>frog<br>disorder<br>name |  
-| bip_39_word_new_br5 | leisure<br>frog<br>disorder<br>name<br>arrange |  
-| bip_39_word_new_br6 | leisure<br>frog<br>disorder<br>name<br>arrange<br>analyst |  
-| bip_39_word_new_br7 | leisure<br>frog<br>disorder<br>name<br>arrange<br>analyst<br>hamster |  
-| bip_39_word_new_br8 | leisure<br>frog<br>disorder<br>name<br>arrange<br>analyst<br>hamster<br>increase |  
-| bip_39_word_new_br9 | leisure<br>frog<br>disorder<br>name<br>arrange<br>analyst<br>hamster<br>increase<br>slow |  
-| bip_39_word_new_line1 | leisure |  
-| bip_39_word_new_line10 | leisure
+| bip_39_word_new_br_1 | leisure |  
+| bip_39_word_new_br_10 | leisure<br>frog<br>disorder<br>name<br>arrange<br>analyst<br>hamster<br>increase<br>slow<br>injury |  
+| bip_39_word_new_br_11 | leisure<br>frog<br>disorder<br>name<br>arrange<br>analyst<br>hamster<br>increase<br>slow<br>injury<br>network |  
+| bip_39_word_new_br_12 | leisure<br>frog<br>disorder<br>name<br>arrange<br>analyst<br>hamster<br>increase<br>slow<br>injury<br>network<br>actor |  
+| bip_39_word_new_br_2 | leisure<br>frog |  
+| bip_39_word_new_br_3 | leisure<br>frog<br>disorder |  
+| bip_39_word_new_br_4 | leisure<br>frog<br>disorder<br>name |  
+| bip_39_word_new_br_5 | leisure<br>frog<br>disorder<br>name<br>arrange |  
+| bip_39_word_new_br_6 | leisure<br>frog<br>disorder<br>name<br>arrange<br>analyst |  
+| bip_39_word_new_br_7 | leisure<br>frog<br>disorder<br>name<br>arrange<br>analyst<br>hamster |  
+| bip_39_word_new_br_8 | leisure<br>frog<br>disorder<br>name<br>arrange<br>analyst<br>hamster<br>increase |  
+| bip_39_word_new_br_9 | leisure<br>frog<br>disorder<br>name<br>arrange<br>analyst<br>hamster<br>increase<br>slow |  
+| bip_39_word_new_line_1 | leisure |  
+| bip_39_word_new_line_10 | leisure
 frog
 disorder
 name
@@ -55,7 +55,7 @@ hamster
 increase
 slow
 injury |  
-| bip_39_word_new_line11 | leisure
+| bip_39_word_new_line_11 | leisure
 frog
 disorder
 name
@@ -66,7 +66,7 @@ increase
 slow
 injury
 network |  
-| bip_39_word_new_line12 | leisure
+| bip_39_word_new_line_12 | leisure
 frog
 disorder
 name
@@ -78,34 +78,34 @@ slow
 injury
 network
 actor |  
-| bip_39_word_new_line2 | leisure
+| bip_39_word_new_line_2 | leisure
 frog |  
-| bip_39_word_new_line3 | leisure
+| bip_39_word_new_line_3 | leisure
 frog
 disorder |  
-| bip_39_word_new_line4 | leisure
+| bip_39_word_new_line_4 | leisure
 frog
 disorder
 name |  
-| bip_39_word_new_line5 | leisure
+| bip_39_word_new_line_5 | leisure
 frog
 disorder
 name
 arrange |  
-| bip_39_word_new_line6 | leisure
+| bip_39_word_new_line_6 | leisure
 frog
 disorder
 name
 arrange
 analyst |  
-| bip_39_word_new_line7 | leisure
+| bip_39_word_new_line_7 | leisure
 frog
 disorder
 name
 arrange
 analyst
 hamster |  
-| bip_39_word_new_line8 | leisure
+| bip_39_word_new_line_8 | leisure
 frog
 disorder
 name
@@ -113,7 +113,7 @@ arrange
 analyst
 hamster
 increase |  
-| bip_39_word_new_line9 | leisure
+| bip_39_word_new_line_9 | leisure
 frog
 disorder
 name

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | print |  
-| bip_39_word_new_br10 | print<br>giggle<br>genius<br>thing<br>bargain<br>buzz<br>bench<br>flee<br>suggest<br>pride |  
-| bip_39_word_new_br11 | print<br>giggle<br>genius<br>thing<br>bargain<br>buzz<br>bench<br>flee<br>suggest<br>pride<br>grunt |  
-| bip_39_word_new_br12 | print<br>giggle<br>genius<br>thing<br>bargain<br>buzz<br>bench<br>flee<br>suggest<br>pride<br>grunt<br>absorb |  
-| bip_39_word_new_br2 | print<br>giggle |  
-| bip_39_word_new_br3 | print<br>giggle<br>genius |  
-| bip_39_word_new_br4 | print<br>giggle<br>genius<br>thing |  
-| bip_39_word_new_br5 | print<br>giggle<br>genius<br>thing<br>bargain |  
-| bip_39_word_new_br6 | print<br>giggle<br>genius<br>thing<br>bargain<br>buzz |  
-| bip_39_word_new_br7 | print<br>giggle<br>genius<br>thing<br>bargain<br>buzz<br>bench |  
-| bip_39_word_new_br8 | print<br>giggle<br>genius<br>thing<br>bargain<br>buzz<br>bench<br>flee |  
-| bip_39_word_new_br9 | print<br>giggle<br>genius<br>thing<br>bargain<br>buzz<br>bench<br>flee<br>suggest |  
-| bip_39_word_new_line1 | print |  
-| bip_39_word_new_line10 | print
+| bip_39_word_new_br_1 | print |  
+| bip_39_word_new_br_10 | print<br>giggle<br>genius<br>thing<br>bargain<br>buzz<br>bench<br>flee<br>suggest<br>pride |  
+| bip_39_word_new_br_11 | print<br>giggle<br>genius<br>thing<br>bargain<br>buzz<br>bench<br>flee<br>suggest<br>pride<br>grunt |  
+| bip_39_word_new_br_12 | print<br>giggle<br>genius<br>thing<br>bargain<br>buzz<br>bench<br>flee<br>suggest<br>pride<br>grunt<br>absorb |  
+| bip_39_word_new_br_2 | print<br>giggle |  
+| bip_39_word_new_br_3 | print<br>giggle<br>genius |  
+| bip_39_word_new_br_4 | print<br>giggle<br>genius<br>thing |  
+| bip_39_word_new_br_5 | print<br>giggle<br>genius<br>thing<br>bargain |  
+| bip_39_word_new_br_6 | print<br>giggle<br>genius<br>thing<br>bargain<br>buzz |  
+| bip_39_word_new_br_7 | print<br>giggle<br>genius<br>thing<br>bargain<br>buzz<br>bench |  
+| bip_39_word_new_br_8 | print<br>giggle<br>genius<br>thing<br>bargain<br>buzz<br>bench<br>flee |  
+| bip_39_word_new_br_9 | print<br>giggle<br>genius<br>thing<br>bargain<br>buzz<br>bench<br>flee<br>suggest |  
+| bip_39_word_new_line_1 | print |  
+| bip_39_word_new_line_10 | print
 giggle
 genius
 thing
@@ -55,7 +55,7 @@ bench
 flee
 suggest
 pride |  
-| bip_39_word_new_line11 | print
+| bip_39_word_new_line_11 | print
 giggle
 genius
 thing
@@ -66,7 +66,7 @@ flee
 suggest
 pride
 grunt |  
-| bip_39_word_new_line12 | print
+| bip_39_word_new_line_12 | print
 giggle
 genius
 thing
@@ -78,34 +78,34 @@ suggest
 pride
 grunt
 absorb |  
-| bip_39_word_new_line2 | print
+| bip_39_word_new_line_2 | print
 giggle |  
-| bip_39_word_new_line3 | print
+| bip_39_word_new_line_3 | print
 giggle
 genius |  
-| bip_39_word_new_line4 | print
+| bip_39_word_new_line_4 | print
 giggle
 genius
 thing |  
-| bip_39_word_new_line5 | print
+| bip_39_word_new_line_5 | print
 giggle
 genius
 thing
 bargain |  
-| bip_39_word_new_line6 | print
+| bip_39_word_new_line_6 | print
 giggle
 genius
 thing
 bargain
 buzz |  
-| bip_39_word_new_line7 | print
+| bip_39_word_new_line_7 | print
 giggle
 genius
 thing
 bargain
 buzz
 bench |  
-| bip_39_word_new_line8 | print
+| bip_39_word_new_line_8 | print
 giggle
 genius
 thing
@@ -113,7 +113,7 @@ bargain
 buzz
 bench
 flee |  
-| bip_39_word_new_line9 | print
+| bip_39_word_new_line_9 | print
 giggle
 genius
 thing

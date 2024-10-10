@@ -1,17 +1,17 @@
-bip_39_word_new_br1: segment
-bip_39_word_new_br10: segment<br>fancy<br>include<br>hawk<br>obvious<br>pull<br>chair<br>alone<br>enlist<br>marriage
-bip_39_word_new_br11: segment<br>fancy<br>include<br>hawk<br>obvious<br>pull<br>chair<br>alone<br>enlist<br>marriage<br>year
-bip_39_word_new_br12: segment<br>fancy<br>include<br>hawk<br>obvious<br>pull<br>chair<br>alone<br>enlist<br>marriage<br>year<br>aisle
-bip_39_word_new_br2: segment<br>fancy
-bip_39_word_new_br3: segment<br>fancy<br>include
-bip_39_word_new_br4: segment<br>fancy<br>include<br>hawk
-bip_39_word_new_br5: segment<br>fancy<br>include<br>hawk<br>obvious
-bip_39_word_new_br6: segment<br>fancy<br>include<br>hawk<br>obvious<br>pull
-bip_39_word_new_br7: segment<br>fancy<br>include<br>hawk<br>obvious<br>pull<br>chair
-bip_39_word_new_br8: segment<br>fancy<br>include<br>hawk<br>obvious<br>pull<br>chair<br>alone
-bip_39_word_new_br9: segment<br>fancy<br>include<br>hawk<br>obvious<br>pull<br>chair<br>alone<br>enlist
-bip_39_word_new_line1: segment
-bip_39_word_new_line10: 'segment
+bip_39_word_new_br_1: segment
+bip_39_word_new_br_10: segment<br>fancy<br>include<br>hawk<br>obvious<br>pull<br>chair<br>alone<br>enlist<br>marriage
+bip_39_word_new_br_11: segment<br>fancy<br>include<br>hawk<br>obvious<br>pull<br>chair<br>alone<br>enlist<br>marriage<br>year
+bip_39_word_new_br_12: segment<br>fancy<br>include<br>hawk<br>obvious<br>pull<br>chair<br>alone<br>enlist<br>marriage<br>year<br>aisle
+bip_39_word_new_br_2: segment<br>fancy
+bip_39_word_new_br_3: segment<br>fancy<br>include
+bip_39_word_new_br_4: segment<br>fancy<br>include<br>hawk
+bip_39_word_new_br_5: segment<br>fancy<br>include<br>hawk<br>obvious
+bip_39_word_new_br_6: segment<br>fancy<br>include<br>hawk<br>obvious<br>pull
+bip_39_word_new_br_7: segment<br>fancy<br>include<br>hawk<br>obvious<br>pull<br>chair
+bip_39_word_new_br_8: segment<br>fancy<br>include<br>hawk<br>obvious<br>pull<br>chair<br>alone
+bip_39_word_new_br_9: segment<br>fancy<br>include<br>hawk<br>obvious<br>pull<br>chair<br>alone<br>enlist
+bip_39_word_new_line_1: segment
+bip_39_word_new_line_10: 'segment
 
   fancy
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'segment
   enlist
 
   marriage'
-bip_39_word_new_line11: 'segment
+bip_39_word_new_line_11: 'segment
 
   fancy
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'segment
   marriage
 
   year'
-bip_39_word_new_line12: 'segment
+bip_39_word_new_line_12: 'segment
 
   fancy
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'segment
   year
 
   aisle'
-bip_39_word_new_line2: 'segment
+bip_39_word_new_line_2: 'segment
 
   fancy'
-bip_39_word_new_line3: 'segment
+bip_39_word_new_line_3: 'segment
 
   fancy
 
   include'
-bip_39_word_new_line4: 'segment
+bip_39_word_new_line_4: 'segment
 
   fancy
 
   include
 
   hawk'
-bip_39_word_new_line5: 'segment
+bip_39_word_new_line_5: 'segment
 
   fancy
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'segment
   hawk
 
   obvious'
-bip_39_word_new_line6: 'segment
+bip_39_word_new_line_6: 'segment
 
   fancy
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'segment
   obvious
 
   pull'
-bip_39_word_new_line7: 'segment
+bip_39_word_new_line_7: 'segment
 
   fancy
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'segment
   pull
 
   chair'
-bip_39_word_new_line8: 'segment
+bip_39_word_new_line_8: 'segment
 
   fancy
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'segment
   chair
 
   alone'
-bip_39_word_new_line9: 'segment
+bip_39_word_new_line_9: 'segment
 
   fancy
 

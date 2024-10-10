@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | middle |  
-| bip_39_word_new_br10 | middle<br>between<br>grab<br>afford<br>broken<br>hat<br>forest<br>excess<br>minor<br>forum |  
-| bip_39_word_new_br11 | middle<br>between<br>grab<br>afford<br>broken<br>hat<br>forest<br>excess<br>minor<br>forum<br>mad |  
-| bip_39_word_new_br12 | middle<br>between<br>grab<br>afford<br>broken<br>hat<br>forest<br>excess<br>minor<br>forum<br>mad<br>athlete |  
-| bip_39_word_new_br2 | middle<br>between |  
-| bip_39_word_new_br3 | middle<br>between<br>grab |  
-| bip_39_word_new_br4 | middle<br>between<br>grab<br>afford |  
-| bip_39_word_new_br5 | middle<br>between<br>grab<br>afford<br>broken |  
-| bip_39_word_new_br6 | middle<br>between<br>grab<br>afford<br>broken<br>hat |  
-| bip_39_word_new_br7 | middle<br>between<br>grab<br>afford<br>broken<br>hat<br>forest |  
-| bip_39_word_new_br8 | middle<br>between<br>grab<br>afford<br>broken<br>hat<br>forest<br>excess |  
-| bip_39_word_new_br9 | middle<br>between<br>grab<br>afford<br>broken<br>hat<br>forest<br>excess<br>minor |  
-| bip_39_word_new_line1 | middle |  
-| bip_39_word_new_line10 | middle
+| bip_39_word_new_br_1 | middle |  
+| bip_39_word_new_br_10 | middle<br>between<br>grab<br>afford<br>broken<br>hat<br>forest<br>excess<br>minor<br>forum |  
+| bip_39_word_new_br_11 | middle<br>between<br>grab<br>afford<br>broken<br>hat<br>forest<br>excess<br>minor<br>forum<br>mad |  
+| bip_39_word_new_br_12 | middle<br>between<br>grab<br>afford<br>broken<br>hat<br>forest<br>excess<br>minor<br>forum<br>mad<br>athlete |  
+| bip_39_word_new_br_2 | middle<br>between |  
+| bip_39_word_new_br_3 | middle<br>between<br>grab |  
+| bip_39_word_new_br_4 | middle<br>between<br>grab<br>afford |  
+| bip_39_word_new_br_5 | middle<br>between<br>grab<br>afford<br>broken |  
+| bip_39_word_new_br_6 | middle<br>between<br>grab<br>afford<br>broken<br>hat |  
+| bip_39_word_new_br_7 | middle<br>between<br>grab<br>afford<br>broken<br>hat<br>forest |  
+| bip_39_word_new_br_8 | middle<br>between<br>grab<br>afford<br>broken<br>hat<br>forest<br>excess |  
+| bip_39_word_new_br_9 | middle<br>between<br>grab<br>afford<br>broken<br>hat<br>forest<br>excess<br>minor |  
+| bip_39_word_new_line_1 | middle |  
+| bip_39_word_new_line_10 | middle
 between
 grab
 afford
@@ -55,7 +55,7 @@ forest
 excess
 minor
 forum |  
-| bip_39_word_new_line11 | middle
+| bip_39_word_new_line_11 | middle
 between
 grab
 afford
@@ -66,7 +66,7 @@ excess
 minor
 forum
 mad |  
-| bip_39_word_new_line12 | middle
+| bip_39_word_new_line_12 | middle
 between
 grab
 afford
@@ -78,34 +78,34 @@ minor
 forum
 mad
 athlete |  
-| bip_39_word_new_line2 | middle
+| bip_39_word_new_line_2 | middle
 between |  
-| bip_39_word_new_line3 | middle
+| bip_39_word_new_line_3 | middle
 between
 grab |  
-| bip_39_word_new_line4 | middle
+| bip_39_word_new_line_4 | middle
 between
 grab
 afford |  
-| bip_39_word_new_line5 | middle
+| bip_39_word_new_line_5 | middle
 between
 grab
 afford
 broken |  
-| bip_39_word_new_line6 | middle
+| bip_39_word_new_line_6 | middle
 between
 grab
 afford
 broken
 hat |  
-| bip_39_word_new_line7 | middle
+| bip_39_word_new_line_7 | middle
 between
 grab
 afford
 broken
 hat
 forest |  
-| bip_39_word_new_line8 | middle
+| bip_39_word_new_line_8 | middle
 between
 grab
 afford
@@ -113,7 +113,7 @@ broken
 hat
 forest
 excess |  
-| bip_39_word_new_line9 | middle
+| bip_39_word_new_line_9 | middle
 between
 grab
 afford

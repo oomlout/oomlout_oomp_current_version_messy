@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | quit |  
-| bip_39_word_new_br10 | quit<br>broccoli<br>act<br>enact<br>iron<br>shoe<br>parent<br>village<br>demand<br>brief |  
-| bip_39_word_new_br11 | quit<br>broccoli<br>act<br>enact<br>iron<br>shoe<br>parent<br>village<br>demand<br>brief<br>sea |  
-| bip_39_word_new_br12 | quit<br>broccoli<br>act<br>enact<br>iron<br>shoe<br>parent<br>village<br>demand<br>brief<br>sea<br>account |  
-| bip_39_word_new_br2 | quit<br>broccoli |  
-| bip_39_word_new_br3 | quit<br>broccoli<br>act |  
-| bip_39_word_new_br4 | quit<br>broccoli<br>act<br>enact |  
-| bip_39_word_new_br5 | quit<br>broccoli<br>act<br>enact<br>iron |  
-| bip_39_word_new_br6 | quit<br>broccoli<br>act<br>enact<br>iron<br>shoe |  
-| bip_39_word_new_br7 | quit<br>broccoli<br>act<br>enact<br>iron<br>shoe<br>parent |  
-| bip_39_word_new_br8 | quit<br>broccoli<br>act<br>enact<br>iron<br>shoe<br>parent<br>village |  
-| bip_39_word_new_br9 | quit<br>broccoli<br>act<br>enact<br>iron<br>shoe<br>parent<br>village<br>demand |  
-| bip_39_word_new_line1 | quit |  
-| bip_39_word_new_line10 | quit
+| bip_39_word_new_br_1 | quit |  
+| bip_39_word_new_br_10 | quit<br>broccoli<br>act<br>enact<br>iron<br>shoe<br>parent<br>village<br>demand<br>brief |  
+| bip_39_word_new_br_11 | quit<br>broccoli<br>act<br>enact<br>iron<br>shoe<br>parent<br>village<br>demand<br>brief<br>sea |  
+| bip_39_word_new_br_12 | quit<br>broccoli<br>act<br>enact<br>iron<br>shoe<br>parent<br>village<br>demand<br>brief<br>sea<br>account |  
+| bip_39_word_new_br_2 | quit<br>broccoli |  
+| bip_39_word_new_br_3 | quit<br>broccoli<br>act |  
+| bip_39_word_new_br_4 | quit<br>broccoli<br>act<br>enact |  
+| bip_39_word_new_br_5 | quit<br>broccoli<br>act<br>enact<br>iron |  
+| bip_39_word_new_br_6 | quit<br>broccoli<br>act<br>enact<br>iron<br>shoe |  
+| bip_39_word_new_br_7 | quit<br>broccoli<br>act<br>enact<br>iron<br>shoe<br>parent |  
+| bip_39_word_new_br_8 | quit<br>broccoli<br>act<br>enact<br>iron<br>shoe<br>parent<br>village |  
+| bip_39_word_new_br_9 | quit<br>broccoli<br>act<br>enact<br>iron<br>shoe<br>parent<br>village<br>demand |  
+| bip_39_word_new_line_1 | quit |  
+| bip_39_word_new_line_10 | quit
 broccoli
 act
 enact
@@ -55,7 +55,7 @@ parent
 village
 demand
 brief |  
-| bip_39_word_new_line11 | quit
+| bip_39_word_new_line_11 | quit
 broccoli
 act
 enact
@@ -66,7 +66,7 @@ village
 demand
 brief
 sea |  
-| bip_39_word_new_line12 | quit
+| bip_39_word_new_line_12 | quit
 broccoli
 act
 enact
@@ -78,34 +78,34 @@ demand
 brief
 sea
 account |  
-| bip_39_word_new_line2 | quit
+| bip_39_word_new_line_2 | quit
 broccoli |  
-| bip_39_word_new_line3 | quit
+| bip_39_word_new_line_3 | quit
 broccoli
 act |  
-| bip_39_word_new_line4 | quit
+| bip_39_word_new_line_4 | quit
 broccoli
 act
 enact |  
-| bip_39_word_new_line5 | quit
+| bip_39_word_new_line_5 | quit
 broccoli
 act
 enact
 iron |  
-| bip_39_word_new_line6 | quit
+| bip_39_word_new_line_6 | quit
 broccoli
 act
 enact
 iron
 shoe |  
-| bip_39_word_new_line7 | quit
+| bip_39_word_new_line_7 | quit
 broccoli
 act
 enact
 iron
 shoe
 parent |  
-| bip_39_word_new_line8 | quit
+| bip_39_word_new_line_8 | quit
 broccoli
 act
 enact
@@ -113,7 +113,7 @@ iron
 shoe
 parent
 village |  
-| bip_39_word_new_line9 | quit
+| bip_39_word_new_line_9 | quit
 broccoli
 act
 enact

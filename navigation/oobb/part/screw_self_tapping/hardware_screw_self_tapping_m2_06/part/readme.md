@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bitter |  
-| bip_39_word_new_br10 | bitter<br>destroy<br>awake<br>have<br>empower<br>warm<br>limit<br>voice<br>rubber<br>tennis |  
-| bip_39_word_new_br11 | bitter<br>destroy<br>awake<br>have<br>empower<br>warm<br>limit<br>voice<br>rubber<br>tennis<br>small |  
-| bip_39_word_new_br12 | bitter<br>destroy<br>awake<br>have<br>empower<br>warm<br>limit<br>voice<br>rubber<br>tennis<br>small<br>alert |  
-| bip_39_word_new_br2 | bitter<br>destroy |  
-| bip_39_word_new_br3 | bitter<br>destroy<br>awake |  
-| bip_39_word_new_br4 | bitter<br>destroy<br>awake<br>have |  
-| bip_39_word_new_br5 | bitter<br>destroy<br>awake<br>have<br>empower |  
-| bip_39_word_new_br6 | bitter<br>destroy<br>awake<br>have<br>empower<br>warm |  
-| bip_39_word_new_br7 | bitter<br>destroy<br>awake<br>have<br>empower<br>warm<br>limit |  
-| bip_39_word_new_br8 | bitter<br>destroy<br>awake<br>have<br>empower<br>warm<br>limit<br>voice |  
-| bip_39_word_new_br9 | bitter<br>destroy<br>awake<br>have<br>empower<br>warm<br>limit<br>voice<br>rubber |  
-| bip_39_word_new_line1 | bitter |  
-| bip_39_word_new_line10 | bitter
+| bip_39_word_new_br_1 | bitter |  
+| bip_39_word_new_br_10 | bitter<br>destroy<br>awake<br>have<br>empower<br>warm<br>limit<br>voice<br>rubber<br>tennis |  
+| bip_39_word_new_br_11 | bitter<br>destroy<br>awake<br>have<br>empower<br>warm<br>limit<br>voice<br>rubber<br>tennis<br>small |  
+| bip_39_word_new_br_12 | bitter<br>destroy<br>awake<br>have<br>empower<br>warm<br>limit<br>voice<br>rubber<br>tennis<br>small<br>alert |  
+| bip_39_word_new_br_2 | bitter<br>destroy |  
+| bip_39_word_new_br_3 | bitter<br>destroy<br>awake |  
+| bip_39_word_new_br_4 | bitter<br>destroy<br>awake<br>have |  
+| bip_39_word_new_br_5 | bitter<br>destroy<br>awake<br>have<br>empower |  
+| bip_39_word_new_br_6 | bitter<br>destroy<br>awake<br>have<br>empower<br>warm |  
+| bip_39_word_new_br_7 | bitter<br>destroy<br>awake<br>have<br>empower<br>warm<br>limit |  
+| bip_39_word_new_br_8 | bitter<br>destroy<br>awake<br>have<br>empower<br>warm<br>limit<br>voice |  
+| bip_39_word_new_br_9 | bitter<br>destroy<br>awake<br>have<br>empower<br>warm<br>limit<br>voice<br>rubber |  
+| bip_39_word_new_line_1 | bitter |  
+| bip_39_word_new_line_10 | bitter
 destroy
 awake
 have
@@ -55,7 +55,7 @@ limit
 voice
 rubber
 tennis |  
-| bip_39_word_new_line11 | bitter
+| bip_39_word_new_line_11 | bitter
 destroy
 awake
 have
@@ -66,7 +66,7 @@ voice
 rubber
 tennis
 small |  
-| bip_39_word_new_line12 | bitter
+| bip_39_word_new_line_12 | bitter
 destroy
 awake
 have
@@ -78,34 +78,34 @@ rubber
 tennis
 small
 alert |  
-| bip_39_word_new_line2 | bitter
+| bip_39_word_new_line_2 | bitter
 destroy |  
-| bip_39_word_new_line3 | bitter
+| bip_39_word_new_line_3 | bitter
 destroy
 awake |  
-| bip_39_word_new_line4 | bitter
+| bip_39_word_new_line_4 | bitter
 destroy
 awake
 have |  
-| bip_39_word_new_line5 | bitter
+| bip_39_word_new_line_5 | bitter
 destroy
 awake
 have
 empower |  
-| bip_39_word_new_line6 | bitter
+| bip_39_word_new_line_6 | bitter
 destroy
 awake
 have
 empower
 warm |  
-| bip_39_word_new_line7 | bitter
+| bip_39_word_new_line_7 | bitter
 destroy
 awake
 have
 empower
 warm
 limit |  
-| bip_39_word_new_line8 | bitter
+| bip_39_word_new_line_8 | bitter
 destroy
 awake
 have
@@ -113,7 +113,7 @@ empower
 warm
 limit
 voice |  
-| bip_39_word_new_line9 | bitter
+| bip_39_word_new_line_9 | bitter
 destroy
 awake
 have

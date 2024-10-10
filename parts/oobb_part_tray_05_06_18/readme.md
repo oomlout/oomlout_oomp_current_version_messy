@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | food |  
-| bip_39_word_new_br10 | food<br>humble<br>find<br>puzzle<br>invite<br>diagram<br>buffalo<br>suit<br>fork<br>route |  
-| bip_39_word_new_br11 | food<br>humble<br>find<br>puzzle<br>invite<br>diagram<br>buffalo<br>suit<br>fork<br>route<br>water |  
-| bip_39_word_new_br12 | food<br>humble<br>find<br>puzzle<br>invite<br>diagram<br>buffalo<br>suit<br>fork<br>route<br>water<br>allow |  
-| bip_39_word_new_br2 | food<br>humble |  
-| bip_39_word_new_br3 | food<br>humble<br>find |  
-| bip_39_word_new_br4 | food<br>humble<br>find<br>puzzle |  
-| bip_39_word_new_br5 | food<br>humble<br>find<br>puzzle<br>invite |  
-| bip_39_word_new_br6 | food<br>humble<br>find<br>puzzle<br>invite<br>diagram |  
-| bip_39_word_new_br7 | food<br>humble<br>find<br>puzzle<br>invite<br>diagram<br>buffalo |  
-| bip_39_word_new_br8 | food<br>humble<br>find<br>puzzle<br>invite<br>diagram<br>buffalo<br>suit |  
-| bip_39_word_new_br9 | food<br>humble<br>find<br>puzzle<br>invite<br>diagram<br>buffalo<br>suit<br>fork |  
-| bip_39_word_new_line1 | food |  
-| bip_39_word_new_line10 | food
+| bip_39_word_new_br_1 | food |  
+| bip_39_word_new_br_10 | food<br>humble<br>find<br>puzzle<br>invite<br>diagram<br>buffalo<br>suit<br>fork<br>route |  
+| bip_39_word_new_br_11 | food<br>humble<br>find<br>puzzle<br>invite<br>diagram<br>buffalo<br>suit<br>fork<br>route<br>water |  
+| bip_39_word_new_br_12 | food<br>humble<br>find<br>puzzle<br>invite<br>diagram<br>buffalo<br>suit<br>fork<br>route<br>water<br>allow |  
+| bip_39_word_new_br_2 | food<br>humble |  
+| bip_39_word_new_br_3 | food<br>humble<br>find |  
+| bip_39_word_new_br_4 | food<br>humble<br>find<br>puzzle |  
+| bip_39_word_new_br_5 | food<br>humble<br>find<br>puzzle<br>invite |  
+| bip_39_word_new_br_6 | food<br>humble<br>find<br>puzzle<br>invite<br>diagram |  
+| bip_39_word_new_br_7 | food<br>humble<br>find<br>puzzle<br>invite<br>diagram<br>buffalo |  
+| bip_39_word_new_br_8 | food<br>humble<br>find<br>puzzle<br>invite<br>diagram<br>buffalo<br>suit |  
+| bip_39_word_new_br_9 | food<br>humble<br>find<br>puzzle<br>invite<br>diagram<br>buffalo<br>suit<br>fork |  
+| bip_39_word_new_line_1 | food |  
+| bip_39_word_new_line_10 | food
 humble
 find
 puzzle
@@ -55,7 +55,7 @@ buffalo
 suit
 fork
 route |  
-| bip_39_word_new_line11 | food
+| bip_39_word_new_line_11 | food
 humble
 find
 puzzle
@@ -66,7 +66,7 @@ suit
 fork
 route
 water |  
-| bip_39_word_new_line12 | food
+| bip_39_word_new_line_12 | food
 humble
 find
 puzzle
@@ -78,34 +78,34 @@ fork
 route
 water
 allow |  
-| bip_39_word_new_line2 | food
+| bip_39_word_new_line_2 | food
 humble |  
-| bip_39_word_new_line3 | food
+| bip_39_word_new_line_3 | food
 humble
 find |  
-| bip_39_word_new_line4 | food
+| bip_39_word_new_line_4 | food
 humble
 find
 puzzle |  
-| bip_39_word_new_line5 | food
+| bip_39_word_new_line_5 | food
 humble
 find
 puzzle
 invite |  
-| bip_39_word_new_line6 | food
+| bip_39_word_new_line_6 | food
 humble
 find
 puzzle
 invite
 diagram |  
-| bip_39_word_new_line7 | food
+| bip_39_word_new_line_7 | food
 humble
 find
 puzzle
 invite
 diagram
 buffalo |  
-| bip_39_word_new_line8 | food
+| bip_39_word_new_line_8 | food
 humble
 find
 puzzle
@@ -113,7 +113,7 @@ invite
 diagram
 buffalo
 suit |  
-| bip_39_word_new_line9 | food
+| bip_39_word_new_line_9 | food
 humble
 find
 puzzle

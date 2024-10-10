@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | position |  
-| bip_39_word_new_br10 | position<br>swim<br>firm<br>frequent<br>foster<br>movie<br>voyage<br>time<br>argue<br>swing |  
-| bip_39_word_new_br11 | position<br>swim<br>firm<br>frequent<br>foster<br>movie<br>voyage<br>time<br>argue<br>swing<br>merit |  
-| bip_39_word_new_br12 | position<br>swim<br>firm<br>frequent<br>foster<br>movie<br>voyage<br>time<br>argue<br>swing<br>merit<br>allow |  
-| bip_39_word_new_br2 | position<br>swim |  
-| bip_39_word_new_br3 | position<br>swim<br>firm |  
-| bip_39_word_new_br4 | position<br>swim<br>firm<br>frequent |  
-| bip_39_word_new_br5 | position<br>swim<br>firm<br>frequent<br>foster |  
-| bip_39_word_new_br6 | position<br>swim<br>firm<br>frequent<br>foster<br>movie |  
-| bip_39_word_new_br7 | position<br>swim<br>firm<br>frequent<br>foster<br>movie<br>voyage |  
-| bip_39_word_new_br8 | position<br>swim<br>firm<br>frequent<br>foster<br>movie<br>voyage<br>time |  
-| bip_39_word_new_br9 | position<br>swim<br>firm<br>frequent<br>foster<br>movie<br>voyage<br>time<br>argue |  
-| bip_39_word_new_line1 | position |  
-| bip_39_word_new_line10 | position
+| bip_39_word_new_br_1 | position |  
+| bip_39_word_new_br_10 | position<br>swim<br>firm<br>frequent<br>foster<br>movie<br>voyage<br>time<br>argue<br>swing |  
+| bip_39_word_new_br_11 | position<br>swim<br>firm<br>frequent<br>foster<br>movie<br>voyage<br>time<br>argue<br>swing<br>merit |  
+| bip_39_word_new_br_12 | position<br>swim<br>firm<br>frequent<br>foster<br>movie<br>voyage<br>time<br>argue<br>swing<br>merit<br>allow |  
+| bip_39_word_new_br_2 | position<br>swim |  
+| bip_39_word_new_br_3 | position<br>swim<br>firm |  
+| bip_39_word_new_br_4 | position<br>swim<br>firm<br>frequent |  
+| bip_39_word_new_br_5 | position<br>swim<br>firm<br>frequent<br>foster |  
+| bip_39_word_new_br_6 | position<br>swim<br>firm<br>frequent<br>foster<br>movie |  
+| bip_39_word_new_br_7 | position<br>swim<br>firm<br>frequent<br>foster<br>movie<br>voyage |  
+| bip_39_word_new_br_8 | position<br>swim<br>firm<br>frequent<br>foster<br>movie<br>voyage<br>time |  
+| bip_39_word_new_br_9 | position<br>swim<br>firm<br>frequent<br>foster<br>movie<br>voyage<br>time<br>argue |  
+| bip_39_word_new_line_1 | position |  
+| bip_39_word_new_line_10 | position
 swim
 firm
 frequent
@@ -55,7 +55,7 @@ voyage
 time
 argue
 swing |  
-| bip_39_word_new_line11 | position
+| bip_39_word_new_line_11 | position
 swim
 firm
 frequent
@@ -66,7 +66,7 @@ time
 argue
 swing
 merit |  
-| bip_39_word_new_line12 | position
+| bip_39_word_new_line_12 | position
 swim
 firm
 frequent
@@ -78,34 +78,34 @@ argue
 swing
 merit
 allow |  
-| bip_39_word_new_line2 | position
+| bip_39_word_new_line_2 | position
 swim |  
-| bip_39_word_new_line3 | position
+| bip_39_word_new_line_3 | position
 swim
 firm |  
-| bip_39_word_new_line4 | position
+| bip_39_word_new_line_4 | position
 swim
 firm
 frequent |  
-| bip_39_word_new_line5 | position
+| bip_39_word_new_line_5 | position
 swim
 firm
 frequent
 foster |  
-| bip_39_word_new_line6 | position
+| bip_39_word_new_line_6 | position
 swim
 firm
 frequent
 foster
 movie |  
-| bip_39_word_new_line7 | position
+| bip_39_word_new_line_7 | position
 swim
 firm
 frequent
 foster
 movie
 voyage |  
-| bip_39_word_new_line8 | position
+| bip_39_word_new_line_8 | position
 swim
 firm
 frequent
@@ -113,7 +113,7 @@ foster
 movie
 voyage
 time |  
-| bip_39_word_new_line9 | position
+| bip_39_word_new_line_9 | position
 swim
 firm
 frequent

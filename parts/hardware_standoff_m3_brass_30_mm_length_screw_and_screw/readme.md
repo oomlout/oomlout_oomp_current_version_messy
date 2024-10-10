@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | devote |  
-| bip_39_word_new_br10 | devote<br>other<br>once<br>cry<br>tiny<br>easy<br>wait<br>lottery<br>demise<br>neither |  
-| bip_39_word_new_br11 | devote<br>other<br>once<br>cry<br>tiny<br>easy<br>wait<br>lottery<br>demise<br>neither<br>truck |  
-| bip_39_word_new_br12 | devote<br>other<br>once<br>cry<br>tiny<br>easy<br>wait<br>lottery<br>demise<br>neither<br>truck<br>all |  
-| bip_39_word_new_br2 | devote<br>other |  
-| bip_39_word_new_br3 | devote<br>other<br>once |  
-| bip_39_word_new_br4 | devote<br>other<br>once<br>cry |  
-| bip_39_word_new_br5 | devote<br>other<br>once<br>cry<br>tiny |  
-| bip_39_word_new_br6 | devote<br>other<br>once<br>cry<br>tiny<br>easy |  
-| bip_39_word_new_br7 | devote<br>other<br>once<br>cry<br>tiny<br>easy<br>wait |  
-| bip_39_word_new_br8 | devote<br>other<br>once<br>cry<br>tiny<br>easy<br>wait<br>lottery |  
-| bip_39_word_new_br9 | devote<br>other<br>once<br>cry<br>tiny<br>easy<br>wait<br>lottery<br>demise |  
-| bip_39_word_new_line1 | devote |  
-| bip_39_word_new_line10 | devote
+| bip_39_word_new_br_1 | devote |  
+| bip_39_word_new_br_10 | devote<br>other<br>once<br>cry<br>tiny<br>easy<br>wait<br>lottery<br>demise<br>neither |  
+| bip_39_word_new_br_11 | devote<br>other<br>once<br>cry<br>tiny<br>easy<br>wait<br>lottery<br>demise<br>neither<br>truck |  
+| bip_39_word_new_br_12 | devote<br>other<br>once<br>cry<br>tiny<br>easy<br>wait<br>lottery<br>demise<br>neither<br>truck<br>all |  
+| bip_39_word_new_br_2 | devote<br>other |  
+| bip_39_word_new_br_3 | devote<br>other<br>once |  
+| bip_39_word_new_br_4 | devote<br>other<br>once<br>cry |  
+| bip_39_word_new_br_5 | devote<br>other<br>once<br>cry<br>tiny |  
+| bip_39_word_new_br_6 | devote<br>other<br>once<br>cry<br>tiny<br>easy |  
+| bip_39_word_new_br_7 | devote<br>other<br>once<br>cry<br>tiny<br>easy<br>wait |  
+| bip_39_word_new_br_8 | devote<br>other<br>once<br>cry<br>tiny<br>easy<br>wait<br>lottery |  
+| bip_39_word_new_br_9 | devote<br>other<br>once<br>cry<br>tiny<br>easy<br>wait<br>lottery<br>demise |  
+| bip_39_word_new_line_1 | devote |  
+| bip_39_word_new_line_10 | devote
 other
 once
 cry
@@ -55,7 +55,7 @@ wait
 lottery
 demise
 neither |  
-| bip_39_word_new_line11 | devote
+| bip_39_word_new_line_11 | devote
 other
 once
 cry
@@ -66,7 +66,7 @@ lottery
 demise
 neither
 truck |  
-| bip_39_word_new_line12 | devote
+| bip_39_word_new_line_12 | devote
 other
 once
 cry
@@ -78,34 +78,34 @@ demise
 neither
 truck
 all |  
-| bip_39_word_new_line2 | devote
+| bip_39_word_new_line_2 | devote
 other |  
-| bip_39_word_new_line3 | devote
+| bip_39_word_new_line_3 | devote
 other
 once |  
-| bip_39_word_new_line4 | devote
+| bip_39_word_new_line_4 | devote
 other
 once
 cry |  
-| bip_39_word_new_line5 | devote
+| bip_39_word_new_line_5 | devote
 other
 once
 cry
 tiny |  
-| bip_39_word_new_line6 | devote
+| bip_39_word_new_line_6 | devote
 other
 once
 cry
 tiny
 easy |  
-| bip_39_word_new_line7 | devote
+| bip_39_word_new_line_7 | devote
 other
 once
 cry
 tiny
 easy
 wait |  
-| bip_39_word_new_line8 | devote
+| bip_39_word_new_line_8 | devote
 other
 once
 cry
@@ -113,7 +113,7 @@ tiny
 easy
 wait
 lottery |  
-| bip_39_word_new_line9 | devote
+| bip_39_word_new_line_9 | devote
 other
 once
 cry

@@ -1,17 +1,17 @@
-bip_39_word_new_br1: oblige
-bip_39_word_new_br10: oblige<br>play<br>maximum<br>into<br>orient<br>copy<br>busy<br>era<br>insect<br>shop
-bip_39_word_new_br11: oblige<br>play<br>maximum<br>into<br>orient<br>copy<br>busy<br>era<br>insect<br>shop<br>concert
-bip_39_word_new_br12: oblige<br>play<br>maximum<br>into<br>orient<br>copy<br>busy<br>era<br>insect<br>shop<br>concert<br>anger
-bip_39_word_new_br2: oblige<br>play
-bip_39_word_new_br3: oblige<br>play<br>maximum
-bip_39_word_new_br4: oblige<br>play<br>maximum<br>into
-bip_39_word_new_br5: oblige<br>play<br>maximum<br>into<br>orient
-bip_39_word_new_br6: oblige<br>play<br>maximum<br>into<br>orient<br>copy
-bip_39_word_new_br7: oblige<br>play<br>maximum<br>into<br>orient<br>copy<br>busy
-bip_39_word_new_br8: oblige<br>play<br>maximum<br>into<br>orient<br>copy<br>busy<br>era
-bip_39_word_new_br9: oblige<br>play<br>maximum<br>into<br>orient<br>copy<br>busy<br>era<br>insect
-bip_39_word_new_line1: oblige
-bip_39_word_new_line10: 'oblige
+bip_39_word_new_br_1: oblige
+bip_39_word_new_br_10: oblige<br>play<br>maximum<br>into<br>orient<br>copy<br>busy<br>era<br>insect<br>shop
+bip_39_word_new_br_11: oblige<br>play<br>maximum<br>into<br>orient<br>copy<br>busy<br>era<br>insect<br>shop<br>concert
+bip_39_word_new_br_12: oblige<br>play<br>maximum<br>into<br>orient<br>copy<br>busy<br>era<br>insect<br>shop<br>concert<br>anger
+bip_39_word_new_br_2: oblige<br>play
+bip_39_word_new_br_3: oblige<br>play<br>maximum
+bip_39_word_new_br_4: oblige<br>play<br>maximum<br>into
+bip_39_word_new_br_5: oblige<br>play<br>maximum<br>into<br>orient
+bip_39_word_new_br_6: oblige<br>play<br>maximum<br>into<br>orient<br>copy
+bip_39_word_new_br_7: oblige<br>play<br>maximum<br>into<br>orient<br>copy<br>busy
+bip_39_word_new_br_8: oblige<br>play<br>maximum<br>into<br>orient<br>copy<br>busy<br>era
+bip_39_word_new_br_9: oblige<br>play<br>maximum<br>into<br>orient<br>copy<br>busy<br>era<br>insect
+bip_39_word_new_line_1: oblige
+bip_39_word_new_line_10: 'oblige
 
   play
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'oblige
   insect
 
   shop'
-bip_39_word_new_line11: 'oblige
+bip_39_word_new_line_11: 'oblige
 
   play
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'oblige
   shop
 
   concert'
-bip_39_word_new_line12: 'oblige
+bip_39_word_new_line_12: 'oblige
 
   play
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'oblige
   concert
 
   anger'
-bip_39_word_new_line2: 'oblige
+bip_39_word_new_line_2: 'oblige
 
   play'
-bip_39_word_new_line3: 'oblige
+bip_39_word_new_line_3: 'oblige
 
   play
 
   maximum'
-bip_39_word_new_line4: 'oblige
+bip_39_word_new_line_4: 'oblige
 
   play
 
   maximum
 
   into'
-bip_39_word_new_line5: 'oblige
+bip_39_word_new_line_5: 'oblige
 
   play
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'oblige
   into
 
   orient'
-bip_39_word_new_line6: 'oblige
+bip_39_word_new_line_6: 'oblige
 
   play
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'oblige
   orient
 
   copy'
-bip_39_word_new_line7: 'oblige
+bip_39_word_new_line_7: 'oblige
 
   play
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'oblige
   copy
 
   busy'
-bip_39_word_new_line8: 'oblige
+bip_39_word_new_line_8: 'oblige
 
   play
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'oblige
   busy
 
   era'
-bip_39_word_new_line9: 'oblige
+bip_39_word_new_line_9: 'oblige
 
   play
 

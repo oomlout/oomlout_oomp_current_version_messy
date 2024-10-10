@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | deal |  
-| bip_39_word_new_br10 | deal<br>system<br>awful<br>bone<br>spend<br>rack<br>palace<br>rhythm<br>sand<br>come |  
-| bip_39_word_new_br11 | deal<br>system<br>awful<br>bone<br>spend<br>rack<br>palace<br>rhythm<br>sand<br>come<br>actual |  
-| bip_39_word_new_br12 | deal<br>system<br>awful<br>bone<br>spend<br>rack<br>palace<br>rhythm<br>sand<br>come<br>actual<br>adapt |  
-| bip_39_word_new_br2 | deal<br>system |  
-| bip_39_word_new_br3 | deal<br>system<br>awful |  
-| bip_39_word_new_br4 | deal<br>system<br>awful<br>bone |  
-| bip_39_word_new_br5 | deal<br>system<br>awful<br>bone<br>spend |  
-| bip_39_word_new_br6 | deal<br>system<br>awful<br>bone<br>spend<br>rack |  
-| bip_39_word_new_br7 | deal<br>system<br>awful<br>bone<br>spend<br>rack<br>palace |  
-| bip_39_word_new_br8 | deal<br>system<br>awful<br>bone<br>spend<br>rack<br>palace<br>rhythm |  
-| bip_39_word_new_br9 | deal<br>system<br>awful<br>bone<br>spend<br>rack<br>palace<br>rhythm<br>sand |  
-| bip_39_word_new_line1 | deal |  
-| bip_39_word_new_line10 | deal
+| bip_39_word_new_br_1 | deal |  
+| bip_39_word_new_br_10 | deal<br>system<br>awful<br>bone<br>spend<br>rack<br>palace<br>rhythm<br>sand<br>come |  
+| bip_39_word_new_br_11 | deal<br>system<br>awful<br>bone<br>spend<br>rack<br>palace<br>rhythm<br>sand<br>come<br>actual |  
+| bip_39_word_new_br_12 | deal<br>system<br>awful<br>bone<br>spend<br>rack<br>palace<br>rhythm<br>sand<br>come<br>actual<br>adapt |  
+| bip_39_word_new_br_2 | deal<br>system |  
+| bip_39_word_new_br_3 | deal<br>system<br>awful |  
+| bip_39_word_new_br_4 | deal<br>system<br>awful<br>bone |  
+| bip_39_word_new_br_5 | deal<br>system<br>awful<br>bone<br>spend |  
+| bip_39_word_new_br_6 | deal<br>system<br>awful<br>bone<br>spend<br>rack |  
+| bip_39_word_new_br_7 | deal<br>system<br>awful<br>bone<br>spend<br>rack<br>palace |  
+| bip_39_word_new_br_8 | deal<br>system<br>awful<br>bone<br>spend<br>rack<br>palace<br>rhythm |  
+| bip_39_word_new_br_9 | deal<br>system<br>awful<br>bone<br>spend<br>rack<br>palace<br>rhythm<br>sand |  
+| bip_39_word_new_line_1 | deal |  
+| bip_39_word_new_line_10 | deal
 system
 awful
 bone
@@ -55,7 +55,7 @@ palace
 rhythm
 sand
 come |  
-| bip_39_word_new_line11 | deal
+| bip_39_word_new_line_11 | deal
 system
 awful
 bone
@@ -66,7 +66,7 @@ rhythm
 sand
 come
 actual |  
-| bip_39_word_new_line12 | deal
+| bip_39_word_new_line_12 | deal
 system
 awful
 bone
@@ -78,34 +78,34 @@ sand
 come
 actual
 adapt |  
-| bip_39_word_new_line2 | deal
+| bip_39_word_new_line_2 | deal
 system |  
-| bip_39_word_new_line3 | deal
+| bip_39_word_new_line_3 | deal
 system
 awful |  
-| bip_39_word_new_line4 | deal
+| bip_39_word_new_line_4 | deal
 system
 awful
 bone |  
-| bip_39_word_new_line5 | deal
+| bip_39_word_new_line_5 | deal
 system
 awful
 bone
 spend |  
-| bip_39_word_new_line6 | deal
+| bip_39_word_new_line_6 | deal
 system
 awful
 bone
 spend
 rack |  
-| bip_39_word_new_line7 | deal
+| bip_39_word_new_line_7 | deal
 system
 awful
 bone
 spend
 rack
 palace |  
-| bip_39_word_new_line8 | deal
+| bip_39_word_new_line_8 | deal
 system
 awful
 bone
@@ -113,7 +113,7 @@ spend
 rack
 palace
 rhythm |  
-| bip_39_word_new_line9 | deal
+| bip_39_word_new_line_9 | deal
 system
 awful
 bone

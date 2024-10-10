@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | elevator |  
-| bip_39_word_new_br10 | elevator<br>tunnel<br>fix<br>denial<br>output<br>cup<br>tired<br>mistake<br>kit<br>monkey |  
-| bip_39_word_new_br11 | elevator<br>tunnel<br>fix<br>denial<br>output<br>cup<br>tired<br>mistake<br>kit<br>monkey<br>sniff |  
-| bip_39_word_new_br12 | elevator<br>tunnel<br>fix<br>denial<br>output<br>cup<br>tired<br>mistake<br>kit<br>monkey<br>sniff<br>action |  
-| bip_39_word_new_br2 | elevator<br>tunnel |  
-| bip_39_word_new_br3 | elevator<br>tunnel<br>fix |  
-| bip_39_word_new_br4 | elevator<br>tunnel<br>fix<br>denial |  
-| bip_39_word_new_br5 | elevator<br>tunnel<br>fix<br>denial<br>output |  
-| bip_39_word_new_br6 | elevator<br>tunnel<br>fix<br>denial<br>output<br>cup |  
-| bip_39_word_new_br7 | elevator<br>tunnel<br>fix<br>denial<br>output<br>cup<br>tired |  
-| bip_39_word_new_br8 | elevator<br>tunnel<br>fix<br>denial<br>output<br>cup<br>tired<br>mistake |  
-| bip_39_word_new_br9 | elevator<br>tunnel<br>fix<br>denial<br>output<br>cup<br>tired<br>mistake<br>kit |  
-| bip_39_word_new_line1 | elevator |  
-| bip_39_word_new_line10 | elevator
+| bip_39_word_new_br_1 | elevator |  
+| bip_39_word_new_br_10 | elevator<br>tunnel<br>fix<br>denial<br>output<br>cup<br>tired<br>mistake<br>kit<br>monkey |  
+| bip_39_word_new_br_11 | elevator<br>tunnel<br>fix<br>denial<br>output<br>cup<br>tired<br>mistake<br>kit<br>monkey<br>sniff |  
+| bip_39_word_new_br_12 | elevator<br>tunnel<br>fix<br>denial<br>output<br>cup<br>tired<br>mistake<br>kit<br>monkey<br>sniff<br>action |  
+| bip_39_word_new_br_2 | elevator<br>tunnel |  
+| bip_39_word_new_br_3 | elevator<br>tunnel<br>fix |  
+| bip_39_word_new_br_4 | elevator<br>tunnel<br>fix<br>denial |  
+| bip_39_word_new_br_5 | elevator<br>tunnel<br>fix<br>denial<br>output |  
+| bip_39_word_new_br_6 | elevator<br>tunnel<br>fix<br>denial<br>output<br>cup |  
+| bip_39_word_new_br_7 | elevator<br>tunnel<br>fix<br>denial<br>output<br>cup<br>tired |  
+| bip_39_word_new_br_8 | elevator<br>tunnel<br>fix<br>denial<br>output<br>cup<br>tired<br>mistake |  
+| bip_39_word_new_br_9 | elevator<br>tunnel<br>fix<br>denial<br>output<br>cup<br>tired<br>mistake<br>kit |  
+| bip_39_word_new_line_1 | elevator |  
+| bip_39_word_new_line_10 | elevator
 tunnel
 fix
 denial
@@ -55,7 +55,7 @@ tired
 mistake
 kit
 monkey |  
-| bip_39_word_new_line11 | elevator
+| bip_39_word_new_line_11 | elevator
 tunnel
 fix
 denial
@@ -66,7 +66,7 @@ mistake
 kit
 monkey
 sniff |  
-| bip_39_word_new_line12 | elevator
+| bip_39_word_new_line_12 | elevator
 tunnel
 fix
 denial
@@ -78,34 +78,34 @@ kit
 monkey
 sniff
 action |  
-| bip_39_word_new_line2 | elevator
+| bip_39_word_new_line_2 | elevator
 tunnel |  
-| bip_39_word_new_line3 | elevator
+| bip_39_word_new_line_3 | elevator
 tunnel
 fix |  
-| bip_39_word_new_line4 | elevator
+| bip_39_word_new_line_4 | elevator
 tunnel
 fix
 denial |  
-| bip_39_word_new_line5 | elevator
+| bip_39_word_new_line_5 | elevator
 tunnel
 fix
 denial
 output |  
-| bip_39_word_new_line6 | elevator
+| bip_39_word_new_line_6 | elevator
 tunnel
 fix
 denial
 output
 cup |  
-| bip_39_word_new_line7 | elevator
+| bip_39_word_new_line_7 | elevator
 tunnel
 fix
 denial
 output
 cup
 tired |  
-| bip_39_word_new_line8 | elevator
+| bip_39_word_new_line_8 | elevator
 tunnel
 fix
 denial
@@ -113,7 +113,7 @@ output
 cup
 tired
 mistake |  
-| bip_39_word_new_line9 | elevator
+| bip_39_word_new_line_9 | elevator
 tunnel
 fix
 denial

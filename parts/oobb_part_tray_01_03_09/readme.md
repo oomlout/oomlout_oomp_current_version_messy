@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | define |  
-| bip_39_word_new_br10 | define<br>oxygen<br>level<br>fever<br>stand<br>please<br>exercise<br>funny<br>soccer<br>must |  
-| bip_39_word_new_br11 | define<br>oxygen<br>level<br>fever<br>stand<br>please<br>exercise<br>funny<br>soccer<br>must<br>lonely |  
-| bip_39_word_new_br12 | define<br>oxygen<br>level<br>fever<br>stand<br>please<br>exercise<br>funny<br>soccer<br>must<br>lonely<br>area |  
-| bip_39_word_new_br2 | define<br>oxygen |  
-| bip_39_word_new_br3 | define<br>oxygen<br>level |  
-| bip_39_word_new_br4 | define<br>oxygen<br>level<br>fever |  
-| bip_39_word_new_br5 | define<br>oxygen<br>level<br>fever<br>stand |  
-| bip_39_word_new_br6 | define<br>oxygen<br>level<br>fever<br>stand<br>please |  
-| bip_39_word_new_br7 | define<br>oxygen<br>level<br>fever<br>stand<br>please<br>exercise |  
-| bip_39_word_new_br8 | define<br>oxygen<br>level<br>fever<br>stand<br>please<br>exercise<br>funny |  
-| bip_39_word_new_br9 | define<br>oxygen<br>level<br>fever<br>stand<br>please<br>exercise<br>funny<br>soccer |  
-| bip_39_word_new_line1 | define |  
-| bip_39_word_new_line10 | define
+| bip_39_word_new_br_1 | define |  
+| bip_39_word_new_br_10 | define<br>oxygen<br>level<br>fever<br>stand<br>please<br>exercise<br>funny<br>soccer<br>must |  
+| bip_39_word_new_br_11 | define<br>oxygen<br>level<br>fever<br>stand<br>please<br>exercise<br>funny<br>soccer<br>must<br>lonely |  
+| bip_39_word_new_br_12 | define<br>oxygen<br>level<br>fever<br>stand<br>please<br>exercise<br>funny<br>soccer<br>must<br>lonely<br>area |  
+| bip_39_word_new_br_2 | define<br>oxygen |  
+| bip_39_word_new_br_3 | define<br>oxygen<br>level |  
+| bip_39_word_new_br_4 | define<br>oxygen<br>level<br>fever |  
+| bip_39_word_new_br_5 | define<br>oxygen<br>level<br>fever<br>stand |  
+| bip_39_word_new_br_6 | define<br>oxygen<br>level<br>fever<br>stand<br>please |  
+| bip_39_word_new_br_7 | define<br>oxygen<br>level<br>fever<br>stand<br>please<br>exercise |  
+| bip_39_word_new_br_8 | define<br>oxygen<br>level<br>fever<br>stand<br>please<br>exercise<br>funny |  
+| bip_39_word_new_br_9 | define<br>oxygen<br>level<br>fever<br>stand<br>please<br>exercise<br>funny<br>soccer |  
+| bip_39_word_new_line_1 | define |  
+| bip_39_word_new_line_10 | define
 oxygen
 level
 fever
@@ -55,7 +55,7 @@ exercise
 funny
 soccer
 must |  
-| bip_39_word_new_line11 | define
+| bip_39_word_new_line_11 | define
 oxygen
 level
 fever
@@ -66,7 +66,7 @@ funny
 soccer
 must
 lonely |  
-| bip_39_word_new_line12 | define
+| bip_39_word_new_line_12 | define
 oxygen
 level
 fever
@@ -78,34 +78,34 @@ soccer
 must
 lonely
 area |  
-| bip_39_word_new_line2 | define
+| bip_39_word_new_line_2 | define
 oxygen |  
-| bip_39_word_new_line3 | define
+| bip_39_word_new_line_3 | define
 oxygen
 level |  
-| bip_39_word_new_line4 | define
+| bip_39_word_new_line_4 | define
 oxygen
 level
 fever |  
-| bip_39_word_new_line5 | define
+| bip_39_word_new_line_5 | define
 oxygen
 level
 fever
 stand |  
-| bip_39_word_new_line6 | define
+| bip_39_word_new_line_6 | define
 oxygen
 level
 fever
 stand
 please |  
-| bip_39_word_new_line7 | define
+| bip_39_word_new_line_7 | define
 oxygen
 level
 fever
 stand
 please
 exercise |  
-| bip_39_word_new_line8 | define
+| bip_39_word_new_line_8 | define
 oxygen
 level
 fever
@@ -113,7 +113,7 @@ stand
 please
 exercise
 funny |  
-| bip_39_word_new_line9 | define
+| bip_39_word_new_line_9 | define
 oxygen
 level
 fever

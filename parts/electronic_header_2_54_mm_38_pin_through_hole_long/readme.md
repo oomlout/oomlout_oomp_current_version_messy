@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | clap |  
-| bip_39_word_new_br10 | clap<br>flee<br>frown<br>pumpkin<br>size<br>ship<br>method<br>infant<br>soon<br>knee |  
-| bip_39_word_new_br11 | clap<br>flee<br>frown<br>pumpkin<br>size<br>ship<br>method<br>infant<br>soon<br>knee<br>water |  
-| bip_39_word_new_br12 | clap<br>flee<br>frown<br>pumpkin<br>size<br>ship<br>method<br>infant<br>soon<br>knee<br>water<br>actress |  
-| bip_39_word_new_br2 | clap<br>flee |  
-| bip_39_word_new_br3 | clap<br>flee<br>frown |  
-| bip_39_word_new_br4 | clap<br>flee<br>frown<br>pumpkin |  
-| bip_39_word_new_br5 | clap<br>flee<br>frown<br>pumpkin<br>size |  
-| bip_39_word_new_br6 | clap<br>flee<br>frown<br>pumpkin<br>size<br>ship |  
-| bip_39_word_new_br7 | clap<br>flee<br>frown<br>pumpkin<br>size<br>ship<br>method |  
-| bip_39_word_new_br8 | clap<br>flee<br>frown<br>pumpkin<br>size<br>ship<br>method<br>infant |  
-| bip_39_word_new_br9 | clap<br>flee<br>frown<br>pumpkin<br>size<br>ship<br>method<br>infant<br>soon |  
-| bip_39_word_new_line1 | clap |  
-| bip_39_word_new_line10 | clap
+| bip_39_word_new_br_1 | clap |  
+| bip_39_word_new_br_10 | clap<br>flee<br>frown<br>pumpkin<br>size<br>ship<br>method<br>infant<br>soon<br>knee |  
+| bip_39_word_new_br_11 | clap<br>flee<br>frown<br>pumpkin<br>size<br>ship<br>method<br>infant<br>soon<br>knee<br>water |  
+| bip_39_word_new_br_12 | clap<br>flee<br>frown<br>pumpkin<br>size<br>ship<br>method<br>infant<br>soon<br>knee<br>water<br>actress |  
+| bip_39_word_new_br_2 | clap<br>flee |  
+| bip_39_word_new_br_3 | clap<br>flee<br>frown |  
+| bip_39_word_new_br_4 | clap<br>flee<br>frown<br>pumpkin |  
+| bip_39_word_new_br_5 | clap<br>flee<br>frown<br>pumpkin<br>size |  
+| bip_39_word_new_br_6 | clap<br>flee<br>frown<br>pumpkin<br>size<br>ship |  
+| bip_39_word_new_br_7 | clap<br>flee<br>frown<br>pumpkin<br>size<br>ship<br>method |  
+| bip_39_word_new_br_8 | clap<br>flee<br>frown<br>pumpkin<br>size<br>ship<br>method<br>infant |  
+| bip_39_word_new_br_9 | clap<br>flee<br>frown<br>pumpkin<br>size<br>ship<br>method<br>infant<br>soon |  
+| bip_39_word_new_line_1 | clap |  
+| bip_39_word_new_line_10 | clap
 flee
 frown
 pumpkin
@@ -55,7 +55,7 @@ method
 infant
 soon
 knee |  
-| bip_39_word_new_line11 | clap
+| bip_39_word_new_line_11 | clap
 flee
 frown
 pumpkin
@@ -66,7 +66,7 @@ infant
 soon
 knee
 water |  
-| bip_39_word_new_line12 | clap
+| bip_39_word_new_line_12 | clap
 flee
 frown
 pumpkin
@@ -78,34 +78,34 @@ soon
 knee
 water
 actress |  
-| bip_39_word_new_line2 | clap
+| bip_39_word_new_line_2 | clap
 flee |  
-| bip_39_word_new_line3 | clap
+| bip_39_word_new_line_3 | clap
 flee
 frown |  
-| bip_39_word_new_line4 | clap
+| bip_39_word_new_line_4 | clap
 flee
 frown
 pumpkin |  
-| bip_39_word_new_line5 | clap
+| bip_39_word_new_line_5 | clap
 flee
 frown
 pumpkin
 size |  
-| bip_39_word_new_line6 | clap
+| bip_39_word_new_line_6 | clap
 flee
 frown
 pumpkin
 size
 ship |  
-| bip_39_word_new_line7 | clap
+| bip_39_word_new_line_7 | clap
 flee
 frown
 pumpkin
 size
 ship
 method |  
-| bip_39_word_new_line8 | clap
+| bip_39_word_new_line_8 | clap
 flee
 frown
 pumpkin
@@ -113,7 +113,7 @@ size
 ship
 method
 infant |  
-| bip_39_word_new_line9 | clap
+| bip_39_word_new_line_9 | clap
 flee
 frown
 pumpkin

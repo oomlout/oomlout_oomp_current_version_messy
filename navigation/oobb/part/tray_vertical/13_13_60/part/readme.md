@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | friend |  
-| bip_39_word_new_br10 | friend<br>view<br>trim<br>shallow<br>leisure<br>nerve<br>beef<br>knock<br>exist<br>breeze |  
-| bip_39_word_new_br11 | friend<br>view<br>trim<br>shallow<br>leisure<br>nerve<br>beef<br>knock<br>exist<br>breeze<br>meadow |  
-| bip_39_word_new_br12 | friend<br>view<br>trim<br>shallow<br>leisure<br>nerve<br>beef<br>knock<br>exist<br>breeze<br>meadow<br>argue |  
-| bip_39_word_new_br2 | friend<br>view |  
-| bip_39_word_new_br3 | friend<br>view<br>trim |  
-| bip_39_word_new_br4 | friend<br>view<br>trim<br>shallow |  
-| bip_39_word_new_br5 | friend<br>view<br>trim<br>shallow<br>leisure |  
-| bip_39_word_new_br6 | friend<br>view<br>trim<br>shallow<br>leisure<br>nerve |  
-| bip_39_word_new_br7 | friend<br>view<br>trim<br>shallow<br>leisure<br>nerve<br>beef |  
-| bip_39_word_new_br8 | friend<br>view<br>trim<br>shallow<br>leisure<br>nerve<br>beef<br>knock |  
-| bip_39_word_new_br9 | friend<br>view<br>trim<br>shallow<br>leisure<br>nerve<br>beef<br>knock<br>exist |  
-| bip_39_word_new_line1 | friend |  
-| bip_39_word_new_line10 | friend
+| bip_39_word_new_br_1 | friend |  
+| bip_39_word_new_br_10 | friend<br>view<br>trim<br>shallow<br>leisure<br>nerve<br>beef<br>knock<br>exist<br>breeze |  
+| bip_39_word_new_br_11 | friend<br>view<br>trim<br>shallow<br>leisure<br>nerve<br>beef<br>knock<br>exist<br>breeze<br>meadow |  
+| bip_39_word_new_br_12 | friend<br>view<br>trim<br>shallow<br>leisure<br>nerve<br>beef<br>knock<br>exist<br>breeze<br>meadow<br>argue |  
+| bip_39_word_new_br_2 | friend<br>view |  
+| bip_39_word_new_br_3 | friend<br>view<br>trim |  
+| bip_39_word_new_br_4 | friend<br>view<br>trim<br>shallow |  
+| bip_39_word_new_br_5 | friend<br>view<br>trim<br>shallow<br>leisure |  
+| bip_39_word_new_br_6 | friend<br>view<br>trim<br>shallow<br>leisure<br>nerve |  
+| bip_39_word_new_br_7 | friend<br>view<br>trim<br>shallow<br>leisure<br>nerve<br>beef |  
+| bip_39_word_new_br_8 | friend<br>view<br>trim<br>shallow<br>leisure<br>nerve<br>beef<br>knock |  
+| bip_39_word_new_br_9 | friend<br>view<br>trim<br>shallow<br>leisure<br>nerve<br>beef<br>knock<br>exist |  
+| bip_39_word_new_line_1 | friend |  
+| bip_39_word_new_line_10 | friend
 view
 trim
 shallow
@@ -55,7 +55,7 @@ beef
 knock
 exist
 breeze |  
-| bip_39_word_new_line11 | friend
+| bip_39_word_new_line_11 | friend
 view
 trim
 shallow
@@ -66,7 +66,7 @@ knock
 exist
 breeze
 meadow |  
-| bip_39_word_new_line12 | friend
+| bip_39_word_new_line_12 | friend
 view
 trim
 shallow
@@ -78,34 +78,34 @@ exist
 breeze
 meadow
 argue |  
-| bip_39_word_new_line2 | friend
+| bip_39_word_new_line_2 | friend
 view |  
-| bip_39_word_new_line3 | friend
+| bip_39_word_new_line_3 | friend
 view
 trim |  
-| bip_39_word_new_line4 | friend
+| bip_39_word_new_line_4 | friend
 view
 trim
 shallow |  
-| bip_39_word_new_line5 | friend
+| bip_39_word_new_line_5 | friend
 view
 trim
 shallow
 leisure |  
-| bip_39_word_new_line6 | friend
+| bip_39_word_new_line_6 | friend
 view
 trim
 shallow
 leisure
 nerve |  
-| bip_39_word_new_line7 | friend
+| bip_39_word_new_line_7 | friend
 view
 trim
 shallow
 leisure
 nerve
 beef |  
-| bip_39_word_new_line8 | friend
+| bip_39_word_new_line_8 | friend
 view
 trim
 shallow
@@ -113,7 +113,7 @@ leisure
 nerve
 beef
 knock |  
-| bip_39_word_new_line9 | friend
+| bip_39_word_new_line_9 | friend
 view
 trim
 shallow

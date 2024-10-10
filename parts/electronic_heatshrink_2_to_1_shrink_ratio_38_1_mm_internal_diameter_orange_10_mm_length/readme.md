@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | repeat |  
-| bip_39_word_new_br10 | repeat<br>add<br>charge<br>knee<br>celery<br>mistake<br>test<br>flag<br>crawl<br>lazy |  
-| bip_39_word_new_br11 | repeat<br>add<br>charge<br>knee<br>celery<br>mistake<br>test<br>flag<br>crawl<br>lazy<br>private |  
-| bip_39_word_new_br12 | repeat<br>add<br>charge<br>knee<br>celery<br>mistake<br>test<br>flag<br>crawl<br>lazy<br>private<br>announce |  
-| bip_39_word_new_br2 | repeat<br>add |  
-| bip_39_word_new_br3 | repeat<br>add<br>charge |  
-| bip_39_word_new_br4 | repeat<br>add<br>charge<br>knee |  
-| bip_39_word_new_br5 | repeat<br>add<br>charge<br>knee<br>celery |  
-| bip_39_word_new_br6 | repeat<br>add<br>charge<br>knee<br>celery<br>mistake |  
-| bip_39_word_new_br7 | repeat<br>add<br>charge<br>knee<br>celery<br>mistake<br>test |  
-| bip_39_word_new_br8 | repeat<br>add<br>charge<br>knee<br>celery<br>mistake<br>test<br>flag |  
-| bip_39_word_new_br9 | repeat<br>add<br>charge<br>knee<br>celery<br>mistake<br>test<br>flag<br>crawl |  
-| bip_39_word_new_line1 | repeat |  
-| bip_39_word_new_line10 | repeat
+| bip_39_word_new_br_1 | repeat |  
+| bip_39_word_new_br_10 | repeat<br>add<br>charge<br>knee<br>celery<br>mistake<br>test<br>flag<br>crawl<br>lazy |  
+| bip_39_word_new_br_11 | repeat<br>add<br>charge<br>knee<br>celery<br>mistake<br>test<br>flag<br>crawl<br>lazy<br>private |  
+| bip_39_word_new_br_12 | repeat<br>add<br>charge<br>knee<br>celery<br>mistake<br>test<br>flag<br>crawl<br>lazy<br>private<br>announce |  
+| bip_39_word_new_br_2 | repeat<br>add |  
+| bip_39_word_new_br_3 | repeat<br>add<br>charge |  
+| bip_39_word_new_br_4 | repeat<br>add<br>charge<br>knee |  
+| bip_39_word_new_br_5 | repeat<br>add<br>charge<br>knee<br>celery |  
+| bip_39_word_new_br_6 | repeat<br>add<br>charge<br>knee<br>celery<br>mistake |  
+| bip_39_word_new_br_7 | repeat<br>add<br>charge<br>knee<br>celery<br>mistake<br>test |  
+| bip_39_word_new_br_8 | repeat<br>add<br>charge<br>knee<br>celery<br>mistake<br>test<br>flag |  
+| bip_39_word_new_br_9 | repeat<br>add<br>charge<br>knee<br>celery<br>mistake<br>test<br>flag<br>crawl |  
+| bip_39_word_new_line_1 | repeat |  
+| bip_39_word_new_line_10 | repeat
 add
 charge
 knee
@@ -55,7 +55,7 @@ test
 flag
 crawl
 lazy |  
-| bip_39_word_new_line11 | repeat
+| bip_39_word_new_line_11 | repeat
 add
 charge
 knee
@@ -66,7 +66,7 @@ flag
 crawl
 lazy
 private |  
-| bip_39_word_new_line12 | repeat
+| bip_39_word_new_line_12 | repeat
 add
 charge
 knee
@@ -78,34 +78,34 @@ crawl
 lazy
 private
 announce |  
-| bip_39_word_new_line2 | repeat
+| bip_39_word_new_line_2 | repeat
 add |  
-| bip_39_word_new_line3 | repeat
+| bip_39_word_new_line_3 | repeat
 add
 charge |  
-| bip_39_word_new_line4 | repeat
+| bip_39_word_new_line_4 | repeat
 add
 charge
 knee |  
-| bip_39_word_new_line5 | repeat
+| bip_39_word_new_line_5 | repeat
 add
 charge
 knee
 celery |  
-| bip_39_word_new_line6 | repeat
+| bip_39_word_new_line_6 | repeat
 add
 charge
 knee
 celery
 mistake |  
-| bip_39_word_new_line7 | repeat
+| bip_39_word_new_line_7 | repeat
 add
 charge
 knee
 celery
 mistake
 test |  
-| bip_39_word_new_line8 | repeat
+| bip_39_word_new_line_8 | repeat
 add
 charge
 knee
@@ -113,7 +113,7 @@ celery
 mistake
 test
 flag |  
-| bip_39_word_new_line9 | repeat
+| bip_39_word_new_line_9 | repeat
 add
 charge
 knee

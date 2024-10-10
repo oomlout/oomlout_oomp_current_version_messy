@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | biology |  
-| bip_39_word_new_br10 | biology<br>cabin<br>blur<br>idle<br>six<br>siege<br>task<br>helmet<br>device<br>general |  
-| bip_39_word_new_br11 | biology<br>cabin<br>blur<br>idle<br>six<br>siege<br>task<br>helmet<br>device<br>general<br>april |  
-| bip_39_word_new_br12 | biology<br>cabin<br>blur<br>idle<br>six<br>siege<br>task<br>helmet<br>device<br>general<br>april<br>amateur |  
-| bip_39_word_new_br2 | biology<br>cabin |  
-| bip_39_word_new_br3 | biology<br>cabin<br>blur |  
-| bip_39_word_new_br4 | biology<br>cabin<br>blur<br>idle |  
-| bip_39_word_new_br5 | biology<br>cabin<br>blur<br>idle<br>six |  
-| bip_39_word_new_br6 | biology<br>cabin<br>blur<br>idle<br>six<br>siege |  
-| bip_39_word_new_br7 | biology<br>cabin<br>blur<br>idle<br>six<br>siege<br>task |  
-| bip_39_word_new_br8 | biology<br>cabin<br>blur<br>idle<br>six<br>siege<br>task<br>helmet |  
-| bip_39_word_new_br9 | biology<br>cabin<br>blur<br>idle<br>six<br>siege<br>task<br>helmet<br>device |  
-| bip_39_word_new_line1 | biology |  
-| bip_39_word_new_line10 | biology
+| bip_39_word_new_br_1 | biology |  
+| bip_39_word_new_br_10 | biology<br>cabin<br>blur<br>idle<br>six<br>siege<br>task<br>helmet<br>device<br>general |  
+| bip_39_word_new_br_11 | biology<br>cabin<br>blur<br>idle<br>six<br>siege<br>task<br>helmet<br>device<br>general<br>april |  
+| bip_39_word_new_br_12 | biology<br>cabin<br>blur<br>idle<br>six<br>siege<br>task<br>helmet<br>device<br>general<br>april<br>amateur |  
+| bip_39_word_new_br_2 | biology<br>cabin |  
+| bip_39_word_new_br_3 | biology<br>cabin<br>blur |  
+| bip_39_word_new_br_4 | biology<br>cabin<br>blur<br>idle |  
+| bip_39_word_new_br_5 | biology<br>cabin<br>blur<br>idle<br>six |  
+| bip_39_word_new_br_6 | biology<br>cabin<br>blur<br>idle<br>six<br>siege |  
+| bip_39_word_new_br_7 | biology<br>cabin<br>blur<br>idle<br>six<br>siege<br>task |  
+| bip_39_word_new_br_8 | biology<br>cabin<br>blur<br>idle<br>six<br>siege<br>task<br>helmet |  
+| bip_39_word_new_br_9 | biology<br>cabin<br>blur<br>idle<br>six<br>siege<br>task<br>helmet<br>device |  
+| bip_39_word_new_line_1 | biology |  
+| bip_39_word_new_line_10 | biology
 cabin
 blur
 idle
@@ -55,7 +55,7 @@ task
 helmet
 device
 general |  
-| bip_39_word_new_line11 | biology
+| bip_39_word_new_line_11 | biology
 cabin
 blur
 idle
@@ -66,7 +66,7 @@ helmet
 device
 general
 april |  
-| bip_39_word_new_line12 | biology
+| bip_39_word_new_line_12 | biology
 cabin
 blur
 idle
@@ -78,34 +78,34 @@ device
 general
 april
 amateur |  
-| bip_39_word_new_line2 | biology
+| bip_39_word_new_line_2 | biology
 cabin |  
-| bip_39_word_new_line3 | biology
+| bip_39_word_new_line_3 | biology
 cabin
 blur |  
-| bip_39_word_new_line4 | biology
+| bip_39_word_new_line_4 | biology
 cabin
 blur
 idle |  
-| bip_39_word_new_line5 | biology
+| bip_39_word_new_line_5 | biology
 cabin
 blur
 idle
 six |  
-| bip_39_word_new_line6 | biology
+| bip_39_word_new_line_6 | biology
 cabin
 blur
 idle
 six
 siege |  
-| bip_39_word_new_line7 | biology
+| bip_39_word_new_line_7 | biology
 cabin
 blur
 idle
 six
 siege
 task |  
-| bip_39_word_new_line8 | biology
+| bip_39_word_new_line_8 | biology
 cabin
 blur
 idle
@@ -113,7 +113,7 @@ six
 siege
 task
 helmet |  
-| bip_39_word_new_line9 | biology
+| bip_39_word_new_line_9 | biology
 cabin
 blur
 idle

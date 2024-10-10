@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | victory |  
-| bip_39_word_new_br10 | victory<br>friend<br>subject<br>agree<br>satisfy<br>pool<br>wrap<br>barely<br>dish<br>pear |  
-| bip_39_word_new_br11 | victory<br>friend<br>subject<br>agree<br>satisfy<br>pool<br>wrap<br>barely<br>dish<br>pear<br>list |  
-| bip_39_word_new_br12 | victory<br>friend<br>subject<br>agree<br>satisfy<br>pool<br>wrap<br>barely<br>dish<br>pear<br>list<br>alcohol |  
-| bip_39_word_new_br2 | victory<br>friend |  
-| bip_39_word_new_br3 | victory<br>friend<br>subject |  
-| bip_39_word_new_br4 | victory<br>friend<br>subject<br>agree |  
-| bip_39_word_new_br5 | victory<br>friend<br>subject<br>agree<br>satisfy |  
-| bip_39_word_new_br6 | victory<br>friend<br>subject<br>agree<br>satisfy<br>pool |  
-| bip_39_word_new_br7 | victory<br>friend<br>subject<br>agree<br>satisfy<br>pool<br>wrap |  
-| bip_39_word_new_br8 | victory<br>friend<br>subject<br>agree<br>satisfy<br>pool<br>wrap<br>barely |  
-| bip_39_word_new_br9 | victory<br>friend<br>subject<br>agree<br>satisfy<br>pool<br>wrap<br>barely<br>dish |  
-| bip_39_word_new_line1 | victory |  
-| bip_39_word_new_line10 | victory
+| bip_39_word_new_br_1 | victory |  
+| bip_39_word_new_br_10 | victory<br>friend<br>subject<br>agree<br>satisfy<br>pool<br>wrap<br>barely<br>dish<br>pear |  
+| bip_39_word_new_br_11 | victory<br>friend<br>subject<br>agree<br>satisfy<br>pool<br>wrap<br>barely<br>dish<br>pear<br>list |  
+| bip_39_word_new_br_12 | victory<br>friend<br>subject<br>agree<br>satisfy<br>pool<br>wrap<br>barely<br>dish<br>pear<br>list<br>alcohol |  
+| bip_39_word_new_br_2 | victory<br>friend |  
+| bip_39_word_new_br_3 | victory<br>friend<br>subject |  
+| bip_39_word_new_br_4 | victory<br>friend<br>subject<br>agree |  
+| bip_39_word_new_br_5 | victory<br>friend<br>subject<br>agree<br>satisfy |  
+| bip_39_word_new_br_6 | victory<br>friend<br>subject<br>agree<br>satisfy<br>pool |  
+| bip_39_word_new_br_7 | victory<br>friend<br>subject<br>agree<br>satisfy<br>pool<br>wrap |  
+| bip_39_word_new_br_8 | victory<br>friend<br>subject<br>agree<br>satisfy<br>pool<br>wrap<br>barely |  
+| bip_39_word_new_br_9 | victory<br>friend<br>subject<br>agree<br>satisfy<br>pool<br>wrap<br>barely<br>dish |  
+| bip_39_word_new_line_1 | victory |  
+| bip_39_word_new_line_10 | victory
 friend
 subject
 agree
@@ -55,7 +55,7 @@ wrap
 barely
 dish
 pear |  
-| bip_39_word_new_line11 | victory
+| bip_39_word_new_line_11 | victory
 friend
 subject
 agree
@@ -66,7 +66,7 @@ barely
 dish
 pear
 list |  
-| bip_39_word_new_line12 | victory
+| bip_39_word_new_line_12 | victory
 friend
 subject
 agree
@@ -78,34 +78,34 @@ dish
 pear
 list
 alcohol |  
-| bip_39_word_new_line2 | victory
+| bip_39_word_new_line_2 | victory
 friend |  
-| bip_39_word_new_line3 | victory
+| bip_39_word_new_line_3 | victory
 friend
 subject |  
-| bip_39_word_new_line4 | victory
+| bip_39_word_new_line_4 | victory
 friend
 subject
 agree |  
-| bip_39_word_new_line5 | victory
+| bip_39_word_new_line_5 | victory
 friend
 subject
 agree
 satisfy |  
-| bip_39_word_new_line6 | victory
+| bip_39_word_new_line_6 | victory
 friend
 subject
 agree
 satisfy
 pool |  
-| bip_39_word_new_line7 | victory
+| bip_39_word_new_line_7 | victory
 friend
 subject
 agree
 satisfy
 pool
 wrap |  
-| bip_39_word_new_line8 | victory
+| bip_39_word_new_line_8 | victory
 friend
 subject
 agree
@@ -113,7 +113,7 @@ satisfy
 pool
 wrap
 barely |  
-| bip_39_word_new_line9 | victory
+| bip_39_word_new_line_9 | victory
 friend
 subject
 agree

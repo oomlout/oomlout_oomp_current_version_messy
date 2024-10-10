@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | tell |  
-| bip_39_word_new_br10 | tell<br>behave<br>retire<br>tank<br>become<br>update<br>drill<br>globe<br>idle<br>enact |  
-| bip_39_word_new_br11 | tell<br>behave<br>retire<br>tank<br>become<br>update<br>drill<br>globe<br>idle<br>enact<br>dawn |  
-| bip_39_word_new_br12 | tell<br>behave<br>retire<br>tank<br>become<br>update<br>drill<br>globe<br>idle<br>enact<br>dawn<br>athlete |  
-| bip_39_word_new_br2 | tell<br>behave |  
-| bip_39_word_new_br3 | tell<br>behave<br>retire |  
-| bip_39_word_new_br4 | tell<br>behave<br>retire<br>tank |  
-| bip_39_word_new_br5 | tell<br>behave<br>retire<br>tank<br>become |  
-| bip_39_word_new_br6 | tell<br>behave<br>retire<br>tank<br>become<br>update |  
-| bip_39_word_new_br7 | tell<br>behave<br>retire<br>tank<br>become<br>update<br>drill |  
-| bip_39_word_new_br8 | tell<br>behave<br>retire<br>tank<br>become<br>update<br>drill<br>globe |  
-| bip_39_word_new_br9 | tell<br>behave<br>retire<br>tank<br>become<br>update<br>drill<br>globe<br>idle |  
-| bip_39_word_new_line1 | tell |  
-| bip_39_word_new_line10 | tell
+| bip_39_word_new_br_1 | tell |  
+| bip_39_word_new_br_10 | tell<br>behave<br>retire<br>tank<br>become<br>update<br>drill<br>globe<br>idle<br>enact |  
+| bip_39_word_new_br_11 | tell<br>behave<br>retire<br>tank<br>become<br>update<br>drill<br>globe<br>idle<br>enact<br>dawn |  
+| bip_39_word_new_br_12 | tell<br>behave<br>retire<br>tank<br>become<br>update<br>drill<br>globe<br>idle<br>enact<br>dawn<br>athlete |  
+| bip_39_word_new_br_2 | tell<br>behave |  
+| bip_39_word_new_br_3 | tell<br>behave<br>retire |  
+| bip_39_word_new_br_4 | tell<br>behave<br>retire<br>tank |  
+| bip_39_word_new_br_5 | tell<br>behave<br>retire<br>tank<br>become |  
+| bip_39_word_new_br_6 | tell<br>behave<br>retire<br>tank<br>become<br>update |  
+| bip_39_word_new_br_7 | tell<br>behave<br>retire<br>tank<br>become<br>update<br>drill |  
+| bip_39_word_new_br_8 | tell<br>behave<br>retire<br>tank<br>become<br>update<br>drill<br>globe |  
+| bip_39_word_new_br_9 | tell<br>behave<br>retire<br>tank<br>become<br>update<br>drill<br>globe<br>idle |  
+| bip_39_word_new_line_1 | tell |  
+| bip_39_word_new_line_10 | tell
 behave
 retire
 tank
@@ -55,7 +55,7 @@ drill
 globe
 idle
 enact |  
-| bip_39_word_new_line11 | tell
+| bip_39_word_new_line_11 | tell
 behave
 retire
 tank
@@ -66,7 +66,7 @@ globe
 idle
 enact
 dawn |  
-| bip_39_word_new_line12 | tell
+| bip_39_word_new_line_12 | tell
 behave
 retire
 tank
@@ -78,34 +78,34 @@ idle
 enact
 dawn
 athlete |  
-| bip_39_word_new_line2 | tell
+| bip_39_word_new_line_2 | tell
 behave |  
-| bip_39_word_new_line3 | tell
+| bip_39_word_new_line_3 | tell
 behave
 retire |  
-| bip_39_word_new_line4 | tell
+| bip_39_word_new_line_4 | tell
 behave
 retire
 tank |  
-| bip_39_word_new_line5 | tell
+| bip_39_word_new_line_5 | tell
 behave
 retire
 tank
 become |  
-| bip_39_word_new_line6 | tell
+| bip_39_word_new_line_6 | tell
 behave
 retire
 tank
 become
 update |  
-| bip_39_word_new_line7 | tell
+| bip_39_word_new_line_7 | tell
 behave
 retire
 tank
 become
 update
 drill |  
-| bip_39_word_new_line8 | tell
+| bip_39_word_new_line_8 | tell
 behave
 retire
 tank
@@ -113,7 +113,7 @@ become
 update
 drill
 globe |  
-| bip_39_word_new_line9 | tell
+| bip_39_word_new_line_9 | tell
 behave
 retire
 tank

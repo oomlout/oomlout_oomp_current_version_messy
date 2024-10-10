@@ -1,17 +1,17 @@
-bip_39_word_new_br1: genuine
-bip_39_word_new_br10: genuine<br>boost<br>outside<br>follow<br>claim<br>session<br>best<br>barely<br>cake<br>abandon
-bip_39_word_new_br11: genuine<br>boost<br>outside<br>follow<br>claim<br>session<br>best<br>barely<br>cake<br>abandon<br>fiscal
-bip_39_word_new_br12: genuine<br>boost<br>outside<br>follow<br>claim<br>session<br>best<br>barely<br>cake<br>abandon<br>fiscal<br>ability
-bip_39_word_new_br2: genuine<br>boost
-bip_39_word_new_br3: genuine<br>boost<br>outside
-bip_39_word_new_br4: genuine<br>boost<br>outside<br>follow
-bip_39_word_new_br5: genuine<br>boost<br>outside<br>follow<br>claim
-bip_39_word_new_br6: genuine<br>boost<br>outside<br>follow<br>claim<br>session
-bip_39_word_new_br7: genuine<br>boost<br>outside<br>follow<br>claim<br>session<br>best
-bip_39_word_new_br8: genuine<br>boost<br>outside<br>follow<br>claim<br>session<br>best<br>barely
-bip_39_word_new_br9: genuine<br>boost<br>outside<br>follow<br>claim<br>session<br>best<br>barely<br>cake
-bip_39_word_new_line1: genuine
-bip_39_word_new_line10: 'genuine
+bip_39_word_new_br_1: genuine
+bip_39_word_new_br_10: genuine<br>boost<br>outside<br>follow<br>claim<br>session<br>best<br>barely<br>cake<br>abandon
+bip_39_word_new_br_11: genuine<br>boost<br>outside<br>follow<br>claim<br>session<br>best<br>barely<br>cake<br>abandon<br>fiscal
+bip_39_word_new_br_12: genuine<br>boost<br>outside<br>follow<br>claim<br>session<br>best<br>barely<br>cake<br>abandon<br>fiscal<br>ability
+bip_39_word_new_br_2: genuine<br>boost
+bip_39_word_new_br_3: genuine<br>boost<br>outside
+bip_39_word_new_br_4: genuine<br>boost<br>outside<br>follow
+bip_39_word_new_br_5: genuine<br>boost<br>outside<br>follow<br>claim
+bip_39_word_new_br_6: genuine<br>boost<br>outside<br>follow<br>claim<br>session
+bip_39_word_new_br_7: genuine<br>boost<br>outside<br>follow<br>claim<br>session<br>best
+bip_39_word_new_br_8: genuine<br>boost<br>outside<br>follow<br>claim<br>session<br>best<br>barely
+bip_39_word_new_br_9: genuine<br>boost<br>outside<br>follow<br>claim<br>session<br>best<br>barely<br>cake
+bip_39_word_new_line_1: genuine
+bip_39_word_new_line_10: 'genuine
 
   boost
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'genuine
   cake
 
   abandon'
-bip_39_word_new_line11: 'genuine
+bip_39_word_new_line_11: 'genuine
 
   boost
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'genuine
   abandon
 
   fiscal'
-bip_39_word_new_line12: 'genuine
+bip_39_word_new_line_12: 'genuine
 
   boost
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'genuine
   fiscal
 
   ability'
-bip_39_word_new_line2: 'genuine
+bip_39_word_new_line_2: 'genuine
 
   boost'
-bip_39_word_new_line3: 'genuine
+bip_39_word_new_line_3: 'genuine
 
   boost
 
   outside'
-bip_39_word_new_line4: 'genuine
+bip_39_word_new_line_4: 'genuine
 
   boost
 
   outside
 
   follow'
-bip_39_word_new_line5: 'genuine
+bip_39_word_new_line_5: 'genuine
 
   boost
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'genuine
   follow
 
   claim'
-bip_39_word_new_line6: 'genuine
+bip_39_word_new_line_6: 'genuine
 
   boost
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'genuine
   claim
 
   session'
-bip_39_word_new_line7: 'genuine
+bip_39_word_new_line_7: 'genuine
 
   boost
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'genuine
   session
 
   best'
-bip_39_word_new_line8: 'genuine
+bip_39_word_new_line_8: 'genuine
 
   boost
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'genuine
   best
 
   barely'
-bip_39_word_new_line9: 'genuine
+bip_39_word_new_line_9: 'genuine
 
   boost
 

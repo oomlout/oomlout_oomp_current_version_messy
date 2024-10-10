@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | giant |  
-| bip_39_word_new_br10 | giant<br>domain<br>risk<br>stuff<br>similar<br>jeans<br>arm<br>boring<br>security<br>travel |  
-| bip_39_word_new_br11 | giant<br>domain<br>risk<br>stuff<br>similar<br>jeans<br>arm<br>boring<br>security<br>travel<br>misery |  
-| bip_39_word_new_br12 | giant<br>domain<br>risk<br>stuff<br>similar<br>jeans<br>arm<br>boring<br>security<br>travel<br>misery<br>approve |  
-| bip_39_word_new_br2 | giant<br>domain |  
-| bip_39_word_new_br3 | giant<br>domain<br>risk |  
-| bip_39_word_new_br4 | giant<br>domain<br>risk<br>stuff |  
-| bip_39_word_new_br5 | giant<br>domain<br>risk<br>stuff<br>similar |  
-| bip_39_word_new_br6 | giant<br>domain<br>risk<br>stuff<br>similar<br>jeans |  
-| bip_39_word_new_br7 | giant<br>domain<br>risk<br>stuff<br>similar<br>jeans<br>arm |  
-| bip_39_word_new_br8 | giant<br>domain<br>risk<br>stuff<br>similar<br>jeans<br>arm<br>boring |  
-| bip_39_word_new_br9 | giant<br>domain<br>risk<br>stuff<br>similar<br>jeans<br>arm<br>boring<br>security |  
-| bip_39_word_new_line1 | giant |  
-| bip_39_word_new_line10 | giant
+| bip_39_word_new_br_1 | giant |  
+| bip_39_word_new_br_10 | giant<br>domain<br>risk<br>stuff<br>similar<br>jeans<br>arm<br>boring<br>security<br>travel |  
+| bip_39_word_new_br_11 | giant<br>domain<br>risk<br>stuff<br>similar<br>jeans<br>arm<br>boring<br>security<br>travel<br>misery |  
+| bip_39_word_new_br_12 | giant<br>domain<br>risk<br>stuff<br>similar<br>jeans<br>arm<br>boring<br>security<br>travel<br>misery<br>approve |  
+| bip_39_word_new_br_2 | giant<br>domain |  
+| bip_39_word_new_br_3 | giant<br>domain<br>risk |  
+| bip_39_word_new_br_4 | giant<br>domain<br>risk<br>stuff |  
+| bip_39_word_new_br_5 | giant<br>domain<br>risk<br>stuff<br>similar |  
+| bip_39_word_new_br_6 | giant<br>domain<br>risk<br>stuff<br>similar<br>jeans |  
+| bip_39_word_new_br_7 | giant<br>domain<br>risk<br>stuff<br>similar<br>jeans<br>arm |  
+| bip_39_word_new_br_8 | giant<br>domain<br>risk<br>stuff<br>similar<br>jeans<br>arm<br>boring |  
+| bip_39_word_new_br_9 | giant<br>domain<br>risk<br>stuff<br>similar<br>jeans<br>arm<br>boring<br>security |  
+| bip_39_word_new_line_1 | giant |  
+| bip_39_word_new_line_10 | giant
 domain
 risk
 stuff
@@ -55,7 +55,7 @@ arm
 boring
 security
 travel |  
-| bip_39_word_new_line11 | giant
+| bip_39_word_new_line_11 | giant
 domain
 risk
 stuff
@@ -66,7 +66,7 @@ boring
 security
 travel
 misery |  
-| bip_39_word_new_line12 | giant
+| bip_39_word_new_line_12 | giant
 domain
 risk
 stuff
@@ -78,34 +78,34 @@ security
 travel
 misery
 approve |  
-| bip_39_word_new_line2 | giant
+| bip_39_word_new_line_2 | giant
 domain |  
-| bip_39_word_new_line3 | giant
+| bip_39_word_new_line_3 | giant
 domain
 risk |  
-| bip_39_word_new_line4 | giant
+| bip_39_word_new_line_4 | giant
 domain
 risk
 stuff |  
-| bip_39_word_new_line5 | giant
+| bip_39_word_new_line_5 | giant
 domain
 risk
 stuff
 similar |  
-| bip_39_word_new_line6 | giant
+| bip_39_word_new_line_6 | giant
 domain
 risk
 stuff
 similar
 jeans |  
-| bip_39_word_new_line7 | giant
+| bip_39_word_new_line_7 | giant
 domain
 risk
 stuff
 similar
 jeans
 arm |  
-| bip_39_word_new_line8 | giant
+| bip_39_word_new_line_8 | giant
 domain
 risk
 stuff
@@ -113,7 +113,7 @@ similar
 jeans
 arm
 boring |  
-| bip_39_word_new_line9 | giant
+| bip_39_word_new_line_9 | giant
 domain
 risk
 stuff

@@ -1,17 +1,17 @@
-bip_39_word_new_br1: food
-bip_39_word_new_br10: food<br>critic<br>minimum<br>voyage<br>venture<br>journey<br>holiday<br>warrior<br>gift<br>assume
-bip_39_word_new_br11: food<br>critic<br>minimum<br>voyage<br>venture<br>journey<br>holiday<br>warrior<br>gift<br>assume<br>garment
-bip_39_word_new_br12: food<br>critic<br>minimum<br>voyage<br>venture<br>journey<br>holiday<br>warrior<br>gift<br>assume<br>garment<br>advance
-bip_39_word_new_br2: food<br>critic
-bip_39_word_new_br3: food<br>critic<br>minimum
-bip_39_word_new_br4: food<br>critic<br>minimum<br>voyage
-bip_39_word_new_br5: food<br>critic<br>minimum<br>voyage<br>venture
-bip_39_word_new_br6: food<br>critic<br>minimum<br>voyage<br>venture<br>journey
-bip_39_word_new_br7: food<br>critic<br>minimum<br>voyage<br>venture<br>journey<br>holiday
-bip_39_word_new_br8: food<br>critic<br>minimum<br>voyage<br>venture<br>journey<br>holiday<br>warrior
-bip_39_word_new_br9: food<br>critic<br>minimum<br>voyage<br>venture<br>journey<br>holiday<br>warrior<br>gift
-bip_39_word_new_line1: food
-bip_39_word_new_line10: 'food
+bip_39_word_new_br_1: food
+bip_39_word_new_br_10: food<br>critic<br>minimum<br>voyage<br>venture<br>journey<br>holiday<br>warrior<br>gift<br>assume
+bip_39_word_new_br_11: food<br>critic<br>minimum<br>voyage<br>venture<br>journey<br>holiday<br>warrior<br>gift<br>assume<br>garment
+bip_39_word_new_br_12: food<br>critic<br>minimum<br>voyage<br>venture<br>journey<br>holiday<br>warrior<br>gift<br>assume<br>garment<br>advance
+bip_39_word_new_br_2: food<br>critic
+bip_39_word_new_br_3: food<br>critic<br>minimum
+bip_39_word_new_br_4: food<br>critic<br>minimum<br>voyage
+bip_39_word_new_br_5: food<br>critic<br>minimum<br>voyage<br>venture
+bip_39_word_new_br_6: food<br>critic<br>minimum<br>voyage<br>venture<br>journey
+bip_39_word_new_br_7: food<br>critic<br>minimum<br>voyage<br>venture<br>journey<br>holiday
+bip_39_word_new_br_8: food<br>critic<br>minimum<br>voyage<br>venture<br>journey<br>holiday<br>warrior
+bip_39_word_new_br_9: food<br>critic<br>minimum<br>voyage<br>venture<br>journey<br>holiday<br>warrior<br>gift
+bip_39_word_new_line_1: food
+bip_39_word_new_line_10: 'food
 
   critic
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'food
   gift
 
   assume'
-bip_39_word_new_line11: 'food
+bip_39_word_new_line_11: 'food
 
   critic
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'food
   assume
 
   garment'
-bip_39_word_new_line12: 'food
+bip_39_word_new_line_12: 'food
 
   critic
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'food
   garment
 
   advance'
-bip_39_word_new_line2: 'food
+bip_39_word_new_line_2: 'food
 
   critic'
-bip_39_word_new_line3: 'food
+bip_39_word_new_line_3: 'food
 
   critic
 
   minimum'
-bip_39_word_new_line4: 'food
+bip_39_word_new_line_4: 'food
 
   critic
 
   minimum
 
   voyage'
-bip_39_word_new_line5: 'food
+bip_39_word_new_line_5: 'food
 
   critic
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'food
   voyage
 
   venture'
-bip_39_word_new_line6: 'food
+bip_39_word_new_line_6: 'food
 
   critic
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'food
   venture
 
   journey'
-bip_39_word_new_line7: 'food
+bip_39_word_new_line_7: 'food
 
   critic
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'food
   journey
 
   holiday'
-bip_39_word_new_line8: 'food
+bip_39_word_new_line_8: 'food
 
   critic
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'food
   holiday
 
   warrior'
-bip_39_word_new_line9: 'food
+bip_39_word_new_line_9: 'food
 
   critic
 

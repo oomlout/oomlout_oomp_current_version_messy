@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | critic |  
-| bip_39_word_new_br10 | critic<br>box<br>arm<br>seat<br>wing<br>race<br>feature<br>hospital<br>between<br>leg |  
-| bip_39_word_new_br11 | critic<br>box<br>arm<br>seat<br>wing<br>race<br>feature<br>hospital<br>between<br>leg<br>party |  
-| bip_39_word_new_br12 | critic<br>box<br>arm<br>seat<br>wing<br>race<br>feature<br>hospital<br>between<br>leg<br>party<br>arctic |  
-| bip_39_word_new_br2 | critic<br>box |  
-| bip_39_word_new_br3 | critic<br>box<br>arm |  
-| bip_39_word_new_br4 | critic<br>box<br>arm<br>seat |  
-| bip_39_word_new_br5 | critic<br>box<br>arm<br>seat<br>wing |  
-| bip_39_word_new_br6 | critic<br>box<br>arm<br>seat<br>wing<br>race |  
-| bip_39_word_new_br7 | critic<br>box<br>arm<br>seat<br>wing<br>race<br>feature |  
-| bip_39_word_new_br8 | critic<br>box<br>arm<br>seat<br>wing<br>race<br>feature<br>hospital |  
-| bip_39_word_new_br9 | critic<br>box<br>arm<br>seat<br>wing<br>race<br>feature<br>hospital<br>between |  
-| bip_39_word_new_line1 | critic |  
-| bip_39_word_new_line10 | critic
+| bip_39_word_new_br_1 | critic |  
+| bip_39_word_new_br_10 | critic<br>box<br>arm<br>seat<br>wing<br>race<br>feature<br>hospital<br>between<br>leg |  
+| bip_39_word_new_br_11 | critic<br>box<br>arm<br>seat<br>wing<br>race<br>feature<br>hospital<br>between<br>leg<br>party |  
+| bip_39_word_new_br_12 | critic<br>box<br>arm<br>seat<br>wing<br>race<br>feature<br>hospital<br>between<br>leg<br>party<br>arctic |  
+| bip_39_word_new_br_2 | critic<br>box |  
+| bip_39_word_new_br_3 | critic<br>box<br>arm |  
+| bip_39_word_new_br_4 | critic<br>box<br>arm<br>seat |  
+| bip_39_word_new_br_5 | critic<br>box<br>arm<br>seat<br>wing |  
+| bip_39_word_new_br_6 | critic<br>box<br>arm<br>seat<br>wing<br>race |  
+| bip_39_word_new_br_7 | critic<br>box<br>arm<br>seat<br>wing<br>race<br>feature |  
+| bip_39_word_new_br_8 | critic<br>box<br>arm<br>seat<br>wing<br>race<br>feature<br>hospital |  
+| bip_39_word_new_br_9 | critic<br>box<br>arm<br>seat<br>wing<br>race<br>feature<br>hospital<br>between |  
+| bip_39_word_new_line_1 | critic |  
+| bip_39_word_new_line_10 | critic
 box
 arm
 seat
@@ -55,7 +55,7 @@ feature
 hospital
 between
 leg |  
-| bip_39_word_new_line11 | critic
+| bip_39_word_new_line_11 | critic
 box
 arm
 seat
@@ -66,7 +66,7 @@ hospital
 between
 leg
 party |  
-| bip_39_word_new_line12 | critic
+| bip_39_word_new_line_12 | critic
 box
 arm
 seat
@@ -78,34 +78,34 @@ between
 leg
 party
 arctic |  
-| bip_39_word_new_line2 | critic
+| bip_39_word_new_line_2 | critic
 box |  
-| bip_39_word_new_line3 | critic
+| bip_39_word_new_line_3 | critic
 box
 arm |  
-| bip_39_word_new_line4 | critic
+| bip_39_word_new_line_4 | critic
 box
 arm
 seat |  
-| bip_39_word_new_line5 | critic
+| bip_39_word_new_line_5 | critic
 box
 arm
 seat
 wing |  
-| bip_39_word_new_line6 | critic
+| bip_39_word_new_line_6 | critic
 box
 arm
 seat
 wing
 race |  
-| bip_39_word_new_line7 | critic
+| bip_39_word_new_line_7 | critic
 box
 arm
 seat
 wing
 race
 feature |  
-| bip_39_word_new_line8 | critic
+| bip_39_word_new_line_8 | critic
 box
 arm
 seat
@@ -113,7 +113,7 @@ wing
 race
 feature
 hospital |  
-| bip_39_word_new_line9 | critic
+| bip_39_word_new_line_9 | critic
 box
 arm
 seat

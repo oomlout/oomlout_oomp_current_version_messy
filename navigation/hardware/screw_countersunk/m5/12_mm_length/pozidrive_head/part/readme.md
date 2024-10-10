@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | catalog |  
-| bip_39_word_new_br10 | catalog<br>recycle<br>there<br>wave<br>spawn<br>law<br>radio<br>item<br>flock<br>bright |  
-| bip_39_word_new_br11 | catalog<br>recycle<br>there<br>wave<br>spawn<br>law<br>radio<br>item<br>flock<br>bright<br>develop |  
-| bip_39_word_new_br12 | catalog<br>recycle<br>there<br>wave<br>spawn<br>law<br>radio<br>item<br>flock<br>bright<br>develop<br>author |  
-| bip_39_word_new_br2 | catalog<br>recycle |  
-| bip_39_word_new_br3 | catalog<br>recycle<br>there |  
-| bip_39_word_new_br4 | catalog<br>recycle<br>there<br>wave |  
-| bip_39_word_new_br5 | catalog<br>recycle<br>there<br>wave<br>spawn |  
-| bip_39_word_new_br6 | catalog<br>recycle<br>there<br>wave<br>spawn<br>law |  
-| bip_39_word_new_br7 | catalog<br>recycle<br>there<br>wave<br>spawn<br>law<br>radio |  
-| bip_39_word_new_br8 | catalog<br>recycle<br>there<br>wave<br>spawn<br>law<br>radio<br>item |  
-| bip_39_word_new_br9 | catalog<br>recycle<br>there<br>wave<br>spawn<br>law<br>radio<br>item<br>flock |  
-| bip_39_word_new_line1 | catalog |  
-| bip_39_word_new_line10 | catalog
+| bip_39_word_new_br_1 | catalog |  
+| bip_39_word_new_br_10 | catalog<br>recycle<br>there<br>wave<br>spawn<br>law<br>radio<br>item<br>flock<br>bright |  
+| bip_39_word_new_br_11 | catalog<br>recycle<br>there<br>wave<br>spawn<br>law<br>radio<br>item<br>flock<br>bright<br>develop |  
+| bip_39_word_new_br_12 | catalog<br>recycle<br>there<br>wave<br>spawn<br>law<br>radio<br>item<br>flock<br>bright<br>develop<br>author |  
+| bip_39_word_new_br_2 | catalog<br>recycle |  
+| bip_39_word_new_br_3 | catalog<br>recycle<br>there |  
+| bip_39_word_new_br_4 | catalog<br>recycle<br>there<br>wave |  
+| bip_39_word_new_br_5 | catalog<br>recycle<br>there<br>wave<br>spawn |  
+| bip_39_word_new_br_6 | catalog<br>recycle<br>there<br>wave<br>spawn<br>law |  
+| bip_39_word_new_br_7 | catalog<br>recycle<br>there<br>wave<br>spawn<br>law<br>radio |  
+| bip_39_word_new_br_8 | catalog<br>recycle<br>there<br>wave<br>spawn<br>law<br>radio<br>item |  
+| bip_39_word_new_br_9 | catalog<br>recycle<br>there<br>wave<br>spawn<br>law<br>radio<br>item<br>flock |  
+| bip_39_word_new_line_1 | catalog |  
+| bip_39_word_new_line_10 | catalog
 recycle
 there
 wave
@@ -55,7 +55,7 @@ radio
 item
 flock
 bright |  
-| bip_39_word_new_line11 | catalog
+| bip_39_word_new_line_11 | catalog
 recycle
 there
 wave
@@ -66,7 +66,7 @@ item
 flock
 bright
 develop |  
-| bip_39_word_new_line12 | catalog
+| bip_39_word_new_line_12 | catalog
 recycle
 there
 wave
@@ -78,34 +78,34 @@ flock
 bright
 develop
 author |  
-| bip_39_word_new_line2 | catalog
+| bip_39_word_new_line_2 | catalog
 recycle |  
-| bip_39_word_new_line3 | catalog
+| bip_39_word_new_line_3 | catalog
 recycle
 there |  
-| bip_39_word_new_line4 | catalog
+| bip_39_word_new_line_4 | catalog
 recycle
 there
 wave |  
-| bip_39_word_new_line5 | catalog
+| bip_39_word_new_line_5 | catalog
 recycle
 there
 wave
 spawn |  
-| bip_39_word_new_line6 | catalog
+| bip_39_word_new_line_6 | catalog
 recycle
 there
 wave
 spawn
 law |  
-| bip_39_word_new_line7 | catalog
+| bip_39_word_new_line_7 | catalog
 recycle
 there
 wave
 spawn
 law
 radio |  
-| bip_39_word_new_line8 | catalog
+| bip_39_word_new_line_8 | catalog
 recycle
 there
 wave
@@ -113,7 +113,7 @@ spawn
 law
 radio
 item |  
-| bip_39_word_new_line9 | catalog
+| bip_39_word_new_line_9 | catalog
 recycle
 there
 wave

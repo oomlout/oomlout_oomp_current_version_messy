@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | auto |  
-| bip_39_word_new_br10 | auto<br>ranch<br>work<br>phrase<br>stock<br>nuclear<br>text<br>render<br>gallery<br>upper |  
-| bip_39_word_new_br11 | auto<br>ranch<br>work<br>phrase<br>stock<br>nuclear<br>text<br>render<br>gallery<br>upper<br>bachelor |  
-| bip_39_word_new_br12 | auto<br>ranch<br>work<br>phrase<br>stock<br>nuclear<br>text<br>render<br>gallery<br>upper<br>bachelor<br>ankle |  
-| bip_39_word_new_br2 | auto<br>ranch |  
-| bip_39_word_new_br3 | auto<br>ranch<br>work |  
-| bip_39_word_new_br4 | auto<br>ranch<br>work<br>phrase |  
-| bip_39_word_new_br5 | auto<br>ranch<br>work<br>phrase<br>stock |  
-| bip_39_word_new_br6 | auto<br>ranch<br>work<br>phrase<br>stock<br>nuclear |  
-| bip_39_word_new_br7 | auto<br>ranch<br>work<br>phrase<br>stock<br>nuclear<br>text |  
-| bip_39_word_new_br8 | auto<br>ranch<br>work<br>phrase<br>stock<br>nuclear<br>text<br>render |  
-| bip_39_word_new_br9 | auto<br>ranch<br>work<br>phrase<br>stock<br>nuclear<br>text<br>render<br>gallery |  
-| bip_39_word_new_line1 | auto |  
-| bip_39_word_new_line10 | auto
+| bip_39_word_new_br_1 | auto |  
+| bip_39_word_new_br_10 | auto<br>ranch<br>work<br>phrase<br>stock<br>nuclear<br>text<br>render<br>gallery<br>upper |  
+| bip_39_word_new_br_11 | auto<br>ranch<br>work<br>phrase<br>stock<br>nuclear<br>text<br>render<br>gallery<br>upper<br>bachelor |  
+| bip_39_word_new_br_12 | auto<br>ranch<br>work<br>phrase<br>stock<br>nuclear<br>text<br>render<br>gallery<br>upper<br>bachelor<br>ankle |  
+| bip_39_word_new_br_2 | auto<br>ranch |  
+| bip_39_word_new_br_3 | auto<br>ranch<br>work |  
+| bip_39_word_new_br_4 | auto<br>ranch<br>work<br>phrase |  
+| bip_39_word_new_br_5 | auto<br>ranch<br>work<br>phrase<br>stock |  
+| bip_39_word_new_br_6 | auto<br>ranch<br>work<br>phrase<br>stock<br>nuclear |  
+| bip_39_word_new_br_7 | auto<br>ranch<br>work<br>phrase<br>stock<br>nuclear<br>text |  
+| bip_39_word_new_br_8 | auto<br>ranch<br>work<br>phrase<br>stock<br>nuclear<br>text<br>render |  
+| bip_39_word_new_br_9 | auto<br>ranch<br>work<br>phrase<br>stock<br>nuclear<br>text<br>render<br>gallery |  
+| bip_39_word_new_line_1 | auto |  
+| bip_39_word_new_line_10 | auto
 ranch
 work
 phrase
@@ -55,7 +55,7 @@ text
 render
 gallery
 upper |  
-| bip_39_word_new_line11 | auto
+| bip_39_word_new_line_11 | auto
 ranch
 work
 phrase
@@ -66,7 +66,7 @@ render
 gallery
 upper
 bachelor |  
-| bip_39_word_new_line12 | auto
+| bip_39_word_new_line_12 | auto
 ranch
 work
 phrase
@@ -78,34 +78,34 @@ gallery
 upper
 bachelor
 ankle |  
-| bip_39_word_new_line2 | auto
+| bip_39_word_new_line_2 | auto
 ranch |  
-| bip_39_word_new_line3 | auto
+| bip_39_word_new_line_3 | auto
 ranch
 work |  
-| bip_39_word_new_line4 | auto
+| bip_39_word_new_line_4 | auto
 ranch
 work
 phrase |  
-| bip_39_word_new_line5 | auto
+| bip_39_word_new_line_5 | auto
 ranch
 work
 phrase
 stock |  
-| bip_39_word_new_line6 | auto
+| bip_39_word_new_line_6 | auto
 ranch
 work
 phrase
 stock
 nuclear |  
-| bip_39_word_new_line7 | auto
+| bip_39_word_new_line_7 | auto
 ranch
 work
 phrase
 stock
 nuclear
 text |  
-| bip_39_word_new_line8 | auto
+| bip_39_word_new_line_8 | auto
 ranch
 work
 phrase
@@ -113,7 +113,7 @@ stock
 nuclear
 text
 render |  
-| bip_39_word_new_line9 | auto
+| bip_39_word_new_line_9 | auto
 ranch
 work
 phrase

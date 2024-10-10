@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gold |  
-| bip_39_word_new_br10 | gold<br>rigid<br>pull<br>cash<br>impact<br>vapor<br>inch<br>double<br>power<br>woman |  
-| bip_39_word_new_br11 | gold<br>rigid<br>pull<br>cash<br>impact<br>vapor<br>inch<br>double<br>power<br>woman<br>dumb |  
-| bip_39_word_new_br12 | gold<br>rigid<br>pull<br>cash<br>impact<br>vapor<br>inch<br>double<br>power<br>woman<br>dumb<br>artefact |  
-| bip_39_word_new_br2 | gold<br>rigid |  
-| bip_39_word_new_br3 | gold<br>rigid<br>pull |  
-| bip_39_word_new_br4 | gold<br>rigid<br>pull<br>cash |  
-| bip_39_word_new_br5 | gold<br>rigid<br>pull<br>cash<br>impact |  
-| bip_39_word_new_br6 | gold<br>rigid<br>pull<br>cash<br>impact<br>vapor |  
-| bip_39_word_new_br7 | gold<br>rigid<br>pull<br>cash<br>impact<br>vapor<br>inch |  
-| bip_39_word_new_br8 | gold<br>rigid<br>pull<br>cash<br>impact<br>vapor<br>inch<br>double |  
-| bip_39_word_new_br9 | gold<br>rigid<br>pull<br>cash<br>impact<br>vapor<br>inch<br>double<br>power |  
-| bip_39_word_new_line1 | gold |  
-| bip_39_word_new_line10 | gold
+| bip_39_word_new_br_1 | gold |  
+| bip_39_word_new_br_10 | gold<br>rigid<br>pull<br>cash<br>impact<br>vapor<br>inch<br>double<br>power<br>woman |  
+| bip_39_word_new_br_11 | gold<br>rigid<br>pull<br>cash<br>impact<br>vapor<br>inch<br>double<br>power<br>woman<br>dumb |  
+| bip_39_word_new_br_12 | gold<br>rigid<br>pull<br>cash<br>impact<br>vapor<br>inch<br>double<br>power<br>woman<br>dumb<br>artefact |  
+| bip_39_word_new_br_2 | gold<br>rigid |  
+| bip_39_word_new_br_3 | gold<br>rigid<br>pull |  
+| bip_39_word_new_br_4 | gold<br>rigid<br>pull<br>cash |  
+| bip_39_word_new_br_5 | gold<br>rigid<br>pull<br>cash<br>impact |  
+| bip_39_word_new_br_6 | gold<br>rigid<br>pull<br>cash<br>impact<br>vapor |  
+| bip_39_word_new_br_7 | gold<br>rigid<br>pull<br>cash<br>impact<br>vapor<br>inch |  
+| bip_39_word_new_br_8 | gold<br>rigid<br>pull<br>cash<br>impact<br>vapor<br>inch<br>double |  
+| bip_39_word_new_br_9 | gold<br>rigid<br>pull<br>cash<br>impact<br>vapor<br>inch<br>double<br>power |  
+| bip_39_word_new_line_1 | gold |  
+| bip_39_word_new_line_10 | gold
 rigid
 pull
 cash
@@ -55,7 +55,7 @@ inch
 double
 power
 woman |  
-| bip_39_word_new_line11 | gold
+| bip_39_word_new_line_11 | gold
 rigid
 pull
 cash
@@ -66,7 +66,7 @@ double
 power
 woman
 dumb |  
-| bip_39_word_new_line12 | gold
+| bip_39_word_new_line_12 | gold
 rigid
 pull
 cash
@@ -78,34 +78,34 @@ power
 woman
 dumb
 artefact |  
-| bip_39_word_new_line2 | gold
+| bip_39_word_new_line_2 | gold
 rigid |  
-| bip_39_word_new_line3 | gold
+| bip_39_word_new_line_3 | gold
 rigid
 pull |  
-| bip_39_word_new_line4 | gold
+| bip_39_word_new_line_4 | gold
 rigid
 pull
 cash |  
-| bip_39_word_new_line5 | gold
+| bip_39_word_new_line_5 | gold
 rigid
 pull
 cash
 impact |  
-| bip_39_word_new_line6 | gold
+| bip_39_word_new_line_6 | gold
 rigid
 pull
 cash
 impact
 vapor |  
-| bip_39_word_new_line7 | gold
+| bip_39_word_new_line_7 | gold
 rigid
 pull
 cash
 impact
 vapor
 inch |  
-| bip_39_word_new_line8 | gold
+| bip_39_word_new_line_8 | gold
 rigid
 pull
 cash
@@ -113,7 +113,7 @@ impact
 vapor
 inch
 double |  
-| bip_39_word_new_line9 | gold
+| bip_39_word_new_line_9 | gold
 rigid
 pull
 cash

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | tone |  
-| bip_39_word_new_br10 | tone<br>raven<br>wash<br>man<br>desert<br>tray<br>bracket<br>spend<br>veteran<br>life |  
-| bip_39_word_new_br11 | tone<br>raven<br>wash<br>man<br>desert<br>tray<br>bracket<br>spend<br>veteran<br>life<br>lucky |  
-| bip_39_word_new_br12 | tone<br>raven<br>wash<br>man<br>desert<br>tray<br>bracket<br>spend<br>veteran<br>life<br>lucky<br>advice |  
-| bip_39_word_new_br2 | tone<br>raven |  
-| bip_39_word_new_br3 | tone<br>raven<br>wash |  
-| bip_39_word_new_br4 | tone<br>raven<br>wash<br>man |  
-| bip_39_word_new_br5 | tone<br>raven<br>wash<br>man<br>desert |  
-| bip_39_word_new_br6 | tone<br>raven<br>wash<br>man<br>desert<br>tray |  
-| bip_39_word_new_br7 | tone<br>raven<br>wash<br>man<br>desert<br>tray<br>bracket |  
-| bip_39_word_new_br8 | tone<br>raven<br>wash<br>man<br>desert<br>tray<br>bracket<br>spend |  
-| bip_39_word_new_br9 | tone<br>raven<br>wash<br>man<br>desert<br>tray<br>bracket<br>spend<br>veteran |  
-| bip_39_word_new_line1 | tone |  
-| bip_39_word_new_line10 | tone
+| bip_39_word_new_br_1 | tone |  
+| bip_39_word_new_br_10 | tone<br>raven<br>wash<br>man<br>desert<br>tray<br>bracket<br>spend<br>veteran<br>life |  
+| bip_39_word_new_br_11 | tone<br>raven<br>wash<br>man<br>desert<br>tray<br>bracket<br>spend<br>veteran<br>life<br>lucky |  
+| bip_39_word_new_br_12 | tone<br>raven<br>wash<br>man<br>desert<br>tray<br>bracket<br>spend<br>veteran<br>life<br>lucky<br>advice |  
+| bip_39_word_new_br_2 | tone<br>raven |  
+| bip_39_word_new_br_3 | tone<br>raven<br>wash |  
+| bip_39_word_new_br_4 | tone<br>raven<br>wash<br>man |  
+| bip_39_word_new_br_5 | tone<br>raven<br>wash<br>man<br>desert |  
+| bip_39_word_new_br_6 | tone<br>raven<br>wash<br>man<br>desert<br>tray |  
+| bip_39_word_new_br_7 | tone<br>raven<br>wash<br>man<br>desert<br>tray<br>bracket |  
+| bip_39_word_new_br_8 | tone<br>raven<br>wash<br>man<br>desert<br>tray<br>bracket<br>spend |  
+| bip_39_word_new_br_9 | tone<br>raven<br>wash<br>man<br>desert<br>tray<br>bracket<br>spend<br>veteran |  
+| bip_39_word_new_line_1 | tone |  
+| bip_39_word_new_line_10 | tone
 raven
 wash
 man
@@ -55,7 +55,7 @@ bracket
 spend
 veteran
 life |  
-| bip_39_word_new_line11 | tone
+| bip_39_word_new_line_11 | tone
 raven
 wash
 man
@@ -66,7 +66,7 @@ spend
 veteran
 life
 lucky |  
-| bip_39_word_new_line12 | tone
+| bip_39_word_new_line_12 | tone
 raven
 wash
 man
@@ -78,34 +78,34 @@ veteran
 life
 lucky
 advice |  
-| bip_39_word_new_line2 | tone
+| bip_39_word_new_line_2 | tone
 raven |  
-| bip_39_word_new_line3 | tone
+| bip_39_word_new_line_3 | tone
 raven
 wash |  
-| bip_39_word_new_line4 | tone
+| bip_39_word_new_line_4 | tone
 raven
 wash
 man |  
-| bip_39_word_new_line5 | tone
+| bip_39_word_new_line_5 | tone
 raven
 wash
 man
 desert |  
-| bip_39_word_new_line6 | tone
+| bip_39_word_new_line_6 | tone
 raven
 wash
 man
 desert
 tray |  
-| bip_39_word_new_line7 | tone
+| bip_39_word_new_line_7 | tone
 raven
 wash
 man
 desert
 tray
 bracket |  
-| bip_39_word_new_line8 | tone
+| bip_39_word_new_line_8 | tone
 raven
 wash
 man
@@ -113,7 +113,7 @@ desert
 tray
 bracket
 spend |  
-| bip_39_word_new_line9 | tone
+| bip_39_word_new_line_9 | tone
 raven
 wash
 man

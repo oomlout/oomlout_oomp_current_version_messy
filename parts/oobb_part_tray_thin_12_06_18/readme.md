@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | boy |  
-| bip_39_word_new_br10 | boy<br>penalty<br>never<br>move<br>quick<br>reason<br>begin<br>case<br>fat<br>number |  
-| bip_39_word_new_br11 | boy<br>penalty<br>never<br>move<br>quick<br>reason<br>begin<br>case<br>fat<br>number<br>innocent |  
-| bip_39_word_new_br12 | boy<br>penalty<br>never<br>move<br>quick<br>reason<br>begin<br>case<br>fat<br>number<br>innocent<br>arm |  
-| bip_39_word_new_br2 | boy<br>penalty |  
-| bip_39_word_new_br3 | boy<br>penalty<br>never |  
-| bip_39_word_new_br4 | boy<br>penalty<br>never<br>move |  
-| bip_39_word_new_br5 | boy<br>penalty<br>never<br>move<br>quick |  
-| bip_39_word_new_br6 | boy<br>penalty<br>never<br>move<br>quick<br>reason |  
-| bip_39_word_new_br7 | boy<br>penalty<br>never<br>move<br>quick<br>reason<br>begin |  
-| bip_39_word_new_br8 | boy<br>penalty<br>never<br>move<br>quick<br>reason<br>begin<br>case |  
-| bip_39_word_new_br9 | boy<br>penalty<br>never<br>move<br>quick<br>reason<br>begin<br>case<br>fat |  
-| bip_39_word_new_line1 | boy |  
-| bip_39_word_new_line10 | boy
+| bip_39_word_new_br_1 | boy |  
+| bip_39_word_new_br_10 | boy<br>penalty<br>never<br>move<br>quick<br>reason<br>begin<br>case<br>fat<br>number |  
+| bip_39_word_new_br_11 | boy<br>penalty<br>never<br>move<br>quick<br>reason<br>begin<br>case<br>fat<br>number<br>innocent |  
+| bip_39_word_new_br_12 | boy<br>penalty<br>never<br>move<br>quick<br>reason<br>begin<br>case<br>fat<br>number<br>innocent<br>arm |  
+| bip_39_word_new_br_2 | boy<br>penalty |  
+| bip_39_word_new_br_3 | boy<br>penalty<br>never |  
+| bip_39_word_new_br_4 | boy<br>penalty<br>never<br>move |  
+| bip_39_word_new_br_5 | boy<br>penalty<br>never<br>move<br>quick |  
+| bip_39_word_new_br_6 | boy<br>penalty<br>never<br>move<br>quick<br>reason |  
+| bip_39_word_new_br_7 | boy<br>penalty<br>never<br>move<br>quick<br>reason<br>begin |  
+| bip_39_word_new_br_8 | boy<br>penalty<br>never<br>move<br>quick<br>reason<br>begin<br>case |  
+| bip_39_word_new_br_9 | boy<br>penalty<br>never<br>move<br>quick<br>reason<br>begin<br>case<br>fat |  
+| bip_39_word_new_line_1 | boy |  
+| bip_39_word_new_line_10 | boy
 penalty
 never
 move
@@ -55,7 +55,7 @@ begin
 case
 fat
 number |  
-| bip_39_word_new_line11 | boy
+| bip_39_word_new_line_11 | boy
 penalty
 never
 move
@@ -66,7 +66,7 @@ case
 fat
 number
 innocent |  
-| bip_39_word_new_line12 | boy
+| bip_39_word_new_line_12 | boy
 penalty
 never
 move
@@ -78,34 +78,34 @@ fat
 number
 innocent
 arm |  
-| bip_39_word_new_line2 | boy
+| bip_39_word_new_line_2 | boy
 penalty |  
-| bip_39_word_new_line3 | boy
+| bip_39_word_new_line_3 | boy
 penalty
 never |  
-| bip_39_word_new_line4 | boy
+| bip_39_word_new_line_4 | boy
 penalty
 never
 move |  
-| bip_39_word_new_line5 | boy
+| bip_39_word_new_line_5 | boy
 penalty
 never
 move
 quick |  
-| bip_39_word_new_line6 | boy
+| bip_39_word_new_line_6 | boy
 penalty
 never
 move
 quick
 reason |  
-| bip_39_word_new_line7 | boy
+| bip_39_word_new_line_7 | boy
 penalty
 never
 move
 quick
 reason
 begin |  
-| bip_39_word_new_line8 | boy
+| bip_39_word_new_line_8 | boy
 penalty
 never
 move
@@ -113,7 +113,7 @@ quick
 reason
 begin
 case |  
-| bip_39_word_new_line9 | boy
+| bip_39_word_new_line_9 | boy
 penalty
 never
 move

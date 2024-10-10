@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | second |  
-| bip_39_word_new_br10 | second<br>radar<br>enhance<br>scout<br>shrimp<br>cheese<br>original<br>potato<br>lobster<br>body |  
-| bip_39_word_new_br11 | second<br>radar<br>enhance<br>scout<br>shrimp<br>cheese<br>original<br>potato<br>lobster<br>body<br>chalk |  
-| bip_39_word_new_br12 | second<br>radar<br>enhance<br>scout<br>shrimp<br>cheese<br>original<br>potato<br>lobster<br>body<br>chalk<br>arctic |  
-| bip_39_word_new_br2 | second<br>radar |  
-| bip_39_word_new_br3 | second<br>radar<br>enhance |  
-| bip_39_word_new_br4 | second<br>radar<br>enhance<br>scout |  
-| bip_39_word_new_br5 | second<br>radar<br>enhance<br>scout<br>shrimp |  
-| bip_39_word_new_br6 | second<br>radar<br>enhance<br>scout<br>shrimp<br>cheese |  
-| bip_39_word_new_br7 | second<br>radar<br>enhance<br>scout<br>shrimp<br>cheese<br>original |  
-| bip_39_word_new_br8 | second<br>radar<br>enhance<br>scout<br>shrimp<br>cheese<br>original<br>potato |  
-| bip_39_word_new_br9 | second<br>radar<br>enhance<br>scout<br>shrimp<br>cheese<br>original<br>potato<br>lobster |  
-| bip_39_word_new_line1 | second |  
-| bip_39_word_new_line10 | second
+| bip_39_word_new_br_1 | second |  
+| bip_39_word_new_br_10 | second<br>radar<br>enhance<br>scout<br>shrimp<br>cheese<br>original<br>potato<br>lobster<br>body |  
+| bip_39_word_new_br_11 | second<br>radar<br>enhance<br>scout<br>shrimp<br>cheese<br>original<br>potato<br>lobster<br>body<br>chalk |  
+| bip_39_word_new_br_12 | second<br>radar<br>enhance<br>scout<br>shrimp<br>cheese<br>original<br>potato<br>lobster<br>body<br>chalk<br>arctic |  
+| bip_39_word_new_br_2 | second<br>radar |  
+| bip_39_word_new_br_3 | second<br>radar<br>enhance |  
+| bip_39_word_new_br_4 | second<br>radar<br>enhance<br>scout |  
+| bip_39_word_new_br_5 | second<br>radar<br>enhance<br>scout<br>shrimp |  
+| bip_39_word_new_br_6 | second<br>radar<br>enhance<br>scout<br>shrimp<br>cheese |  
+| bip_39_word_new_br_7 | second<br>radar<br>enhance<br>scout<br>shrimp<br>cheese<br>original |  
+| bip_39_word_new_br_8 | second<br>radar<br>enhance<br>scout<br>shrimp<br>cheese<br>original<br>potato |  
+| bip_39_word_new_br_9 | second<br>radar<br>enhance<br>scout<br>shrimp<br>cheese<br>original<br>potato<br>lobster |  
+| bip_39_word_new_line_1 | second |  
+| bip_39_word_new_line_10 | second
 radar
 enhance
 scout
@@ -55,7 +55,7 @@ original
 potato
 lobster
 body |  
-| bip_39_word_new_line11 | second
+| bip_39_word_new_line_11 | second
 radar
 enhance
 scout
@@ -66,7 +66,7 @@ potato
 lobster
 body
 chalk |  
-| bip_39_word_new_line12 | second
+| bip_39_word_new_line_12 | second
 radar
 enhance
 scout
@@ -78,34 +78,34 @@ lobster
 body
 chalk
 arctic |  
-| bip_39_word_new_line2 | second
+| bip_39_word_new_line_2 | second
 radar |  
-| bip_39_word_new_line3 | second
+| bip_39_word_new_line_3 | second
 radar
 enhance |  
-| bip_39_word_new_line4 | second
+| bip_39_word_new_line_4 | second
 radar
 enhance
 scout |  
-| bip_39_word_new_line5 | second
+| bip_39_word_new_line_5 | second
 radar
 enhance
 scout
 shrimp |  
-| bip_39_word_new_line6 | second
+| bip_39_word_new_line_6 | second
 radar
 enhance
 scout
 shrimp
 cheese |  
-| bip_39_word_new_line7 | second
+| bip_39_word_new_line_7 | second
 radar
 enhance
 scout
 shrimp
 cheese
 original |  
-| bip_39_word_new_line8 | second
+| bip_39_word_new_line_8 | second
 radar
 enhance
 scout
@@ -113,7 +113,7 @@ shrimp
 cheese
 original
 potato |  
-| bip_39_word_new_line9 | second
+| bip_39_word_new_line_9 | second
 radar
 enhance
 scout

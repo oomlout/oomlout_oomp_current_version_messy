@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | neither |  
-| bip_39_word_new_br10 | neither<br>heavy<br>motion<br>bright<br>begin<br>please<br>glory<br>limit<br>fan<br>clean |  
-| bip_39_word_new_br11 | neither<br>heavy<br>motion<br>bright<br>begin<br>please<br>glory<br>limit<br>fan<br>clean<br>enhance |  
-| bip_39_word_new_br12 | neither<br>heavy<br>motion<br>bright<br>begin<br>please<br>glory<br>limit<br>fan<br>clean<br>enhance<br>arrange |  
-| bip_39_word_new_br2 | neither<br>heavy |  
-| bip_39_word_new_br3 | neither<br>heavy<br>motion |  
-| bip_39_word_new_br4 | neither<br>heavy<br>motion<br>bright |  
-| bip_39_word_new_br5 | neither<br>heavy<br>motion<br>bright<br>begin |  
-| bip_39_word_new_br6 | neither<br>heavy<br>motion<br>bright<br>begin<br>please |  
-| bip_39_word_new_br7 | neither<br>heavy<br>motion<br>bright<br>begin<br>please<br>glory |  
-| bip_39_word_new_br8 | neither<br>heavy<br>motion<br>bright<br>begin<br>please<br>glory<br>limit |  
-| bip_39_word_new_br9 | neither<br>heavy<br>motion<br>bright<br>begin<br>please<br>glory<br>limit<br>fan |  
-| bip_39_word_new_line1 | neither |  
-| bip_39_word_new_line10 | neither
+| bip_39_word_new_br_1 | neither |  
+| bip_39_word_new_br_10 | neither<br>heavy<br>motion<br>bright<br>begin<br>please<br>glory<br>limit<br>fan<br>clean |  
+| bip_39_word_new_br_11 | neither<br>heavy<br>motion<br>bright<br>begin<br>please<br>glory<br>limit<br>fan<br>clean<br>enhance |  
+| bip_39_word_new_br_12 | neither<br>heavy<br>motion<br>bright<br>begin<br>please<br>glory<br>limit<br>fan<br>clean<br>enhance<br>arrange |  
+| bip_39_word_new_br_2 | neither<br>heavy |  
+| bip_39_word_new_br_3 | neither<br>heavy<br>motion |  
+| bip_39_word_new_br_4 | neither<br>heavy<br>motion<br>bright |  
+| bip_39_word_new_br_5 | neither<br>heavy<br>motion<br>bright<br>begin |  
+| bip_39_word_new_br_6 | neither<br>heavy<br>motion<br>bright<br>begin<br>please |  
+| bip_39_word_new_br_7 | neither<br>heavy<br>motion<br>bright<br>begin<br>please<br>glory |  
+| bip_39_word_new_br_8 | neither<br>heavy<br>motion<br>bright<br>begin<br>please<br>glory<br>limit |  
+| bip_39_word_new_br_9 | neither<br>heavy<br>motion<br>bright<br>begin<br>please<br>glory<br>limit<br>fan |  
+| bip_39_word_new_line_1 | neither |  
+| bip_39_word_new_line_10 | neither
 heavy
 motion
 bright
@@ -55,7 +55,7 @@ glory
 limit
 fan
 clean |  
-| bip_39_word_new_line11 | neither
+| bip_39_word_new_line_11 | neither
 heavy
 motion
 bright
@@ -66,7 +66,7 @@ limit
 fan
 clean
 enhance |  
-| bip_39_word_new_line12 | neither
+| bip_39_word_new_line_12 | neither
 heavy
 motion
 bright
@@ -78,34 +78,34 @@ fan
 clean
 enhance
 arrange |  
-| bip_39_word_new_line2 | neither
+| bip_39_word_new_line_2 | neither
 heavy |  
-| bip_39_word_new_line3 | neither
+| bip_39_word_new_line_3 | neither
 heavy
 motion |  
-| bip_39_word_new_line4 | neither
+| bip_39_word_new_line_4 | neither
 heavy
 motion
 bright |  
-| bip_39_word_new_line5 | neither
+| bip_39_word_new_line_5 | neither
 heavy
 motion
 bright
 begin |  
-| bip_39_word_new_line6 | neither
+| bip_39_word_new_line_6 | neither
 heavy
 motion
 bright
 begin
 please |  
-| bip_39_word_new_line7 | neither
+| bip_39_word_new_line_7 | neither
 heavy
 motion
 bright
 begin
 please
 glory |  
-| bip_39_word_new_line8 | neither
+| bip_39_word_new_line_8 | neither
 heavy
 motion
 bright
@@ -113,7 +113,7 @@ begin
 please
 glory
 limit |  
-| bip_39_word_new_line9 | neither
+| bip_39_word_new_line_9 | neither
 heavy
 motion
 bright

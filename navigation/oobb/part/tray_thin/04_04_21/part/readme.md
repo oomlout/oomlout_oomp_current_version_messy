@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | runway |  
-| bip_39_word_new_br10 | runway<br>material<br>bird<br>fall<br>brother<br>erode<br>pizza<br>language<br>edge<br>shoulder |  
-| bip_39_word_new_br11 | runway<br>material<br>bird<br>fall<br>brother<br>erode<br>pizza<br>language<br>edge<br>shoulder<br>paddle |  
-| bip_39_word_new_br12 | runway<br>material<br>bird<br>fall<br>brother<br>erode<br>pizza<br>language<br>edge<br>shoulder<br>paddle<br>always |  
-| bip_39_word_new_br2 | runway<br>material |  
-| bip_39_word_new_br3 | runway<br>material<br>bird |  
-| bip_39_word_new_br4 | runway<br>material<br>bird<br>fall |  
-| bip_39_word_new_br5 | runway<br>material<br>bird<br>fall<br>brother |  
-| bip_39_word_new_br6 | runway<br>material<br>bird<br>fall<br>brother<br>erode |  
-| bip_39_word_new_br7 | runway<br>material<br>bird<br>fall<br>brother<br>erode<br>pizza |  
-| bip_39_word_new_br8 | runway<br>material<br>bird<br>fall<br>brother<br>erode<br>pizza<br>language |  
-| bip_39_word_new_br9 | runway<br>material<br>bird<br>fall<br>brother<br>erode<br>pizza<br>language<br>edge |  
-| bip_39_word_new_line1 | runway |  
-| bip_39_word_new_line10 | runway
+| bip_39_word_new_br_1 | runway |  
+| bip_39_word_new_br_10 | runway<br>material<br>bird<br>fall<br>brother<br>erode<br>pizza<br>language<br>edge<br>shoulder |  
+| bip_39_word_new_br_11 | runway<br>material<br>bird<br>fall<br>brother<br>erode<br>pizza<br>language<br>edge<br>shoulder<br>paddle |  
+| bip_39_word_new_br_12 | runway<br>material<br>bird<br>fall<br>brother<br>erode<br>pizza<br>language<br>edge<br>shoulder<br>paddle<br>always |  
+| bip_39_word_new_br_2 | runway<br>material |  
+| bip_39_word_new_br_3 | runway<br>material<br>bird |  
+| bip_39_word_new_br_4 | runway<br>material<br>bird<br>fall |  
+| bip_39_word_new_br_5 | runway<br>material<br>bird<br>fall<br>brother |  
+| bip_39_word_new_br_6 | runway<br>material<br>bird<br>fall<br>brother<br>erode |  
+| bip_39_word_new_br_7 | runway<br>material<br>bird<br>fall<br>brother<br>erode<br>pizza |  
+| bip_39_word_new_br_8 | runway<br>material<br>bird<br>fall<br>brother<br>erode<br>pizza<br>language |  
+| bip_39_word_new_br_9 | runway<br>material<br>bird<br>fall<br>brother<br>erode<br>pizza<br>language<br>edge |  
+| bip_39_word_new_line_1 | runway |  
+| bip_39_word_new_line_10 | runway
 material
 bird
 fall
@@ -55,7 +55,7 @@ pizza
 language
 edge
 shoulder |  
-| bip_39_word_new_line11 | runway
+| bip_39_word_new_line_11 | runway
 material
 bird
 fall
@@ -66,7 +66,7 @@ language
 edge
 shoulder
 paddle |  
-| bip_39_word_new_line12 | runway
+| bip_39_word_new_line_12 | runway
 material
 bird
 fall
@@ -78,34 +78,34 @@ edge
 shoulder
 paddle
 always |  
-| bip_39_word_new_line2 | runway
+| bip_39_word_new_line_2 | runway
 material |  
-| bip_39_word_new_line3 | runway
+| bip_39_word_new_line_3 | runway
 material
 bird |  
-| bip_39_word_new_line4 | runway
+| bip_39_word_new_line_4 | runway
 material
 bird
 fall |  
-| bip_39_word_new_line5 | runway
+| bip_39_word_new_line_5 | runway
 material
 bird
 fall
 brother |  
-| bip_39_word_new_line6 | runway
+| bip_39_word_new_line_6 | runway
 material
 bird
 fall
 brother
 erode |  
-| bip_39_word_new_line7 | runway
+| bip_39_word_new_line_7 | runway
 material
 bird
 fall
 brother
 erode
 pizza |  
-| bip_39_word_new_line8 | runway
+| bip_39_word_new_line_8 | runway
 material
 bird
 fall
@@ -113,7 +113,7 @@ brother
 erode
 pizza
 language |  
-| bip_39_word_new_line9 | runway
+| bip_39_word_new_line_9 | runway
 material
 bird
 fall

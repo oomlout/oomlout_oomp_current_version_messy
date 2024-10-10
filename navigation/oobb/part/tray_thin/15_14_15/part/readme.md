@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | code |  
-| bip_39_word_new_br10 | code<br>border<br>arrest<br>short<br>barrel<br>slim<br>morning<br>raise<br>maple<br>gospel |  
-| bip_39_word_new_br11 | code<br>border<br>arrest<br>short<br>barrel<br>slim<br>morning<br>raise<br>maple<br>gospel<br>hole |  
-| bip_39_word_new_br12 | code<br>border<br>arrest<br>short<br>barrel<br>slim<br>morning<br>raise<br>maple<br>gospel<br>hole<br>arctic |  
-| bip_39_word_new_br2 | code<br>border |  
-| bip_39_word_new_br3 | code<br>border<br>arrest |  
-| bip_39_word_new_br4 | code<br>border<br>arrest<br>short |  
-| bip_39_word_new_br5 | code<br>border<br>arrest<br>short<br>barrel |  
-| bip_39_word_new_br6 | code<br>border<br>arrest<br>short<br>barrel<br>slim |  
-| bip_39_word_new_br7 | code<br>border<br>arrest<br>short<br>barrel<br>slim<br>morning |  
-| bip_39_word_new_br8 | code<br>border<br>arrest<br>short<br>barrel<br>slim<br>morning<br>raise |  
-| bip_39_word_new_br9 | code<br>border<br>arrest<br>short<br>barrel<br>slim<br>morning<br>raise<br>maple |  
-| bip_39_word_new_line1 | code |  
-| bip_39_word_new_line10 | code
+| bip_39_word_new_br_1 | code |  
+| bip_39_word_new_br_10 | code<br>border<br>arrest<br>short<br>barrel<br>slim<br>morning<br>raise<br>maple<br>gospel |  
+| bip_39_word_new_br_11 | code<br>border<br>arrest<br>short<br>barrel<br>slim<br>morning<br>raise<br>maple<br>gospel<br>hole |  
+| bip_39_word_new_br_12 | code<br>border<br>arrest<br>short<br>barrel<br>slim<br>morning<br>raise<br>maple<br>gospel<br>hole<br>arctic |  
+| bip_39_word_new_br_2 | code<br>border |  
+| bip_39_word_new_br_3 | code<br>border<br>arrest |  
+| bip_39_word_new_br_4 | code<br>border<br>arrest<br>short |  
+| bip_39_word_new_br_5 | code<br>border<br>arrest<br>short<br>barrel |  
+| bip_39_word_new_br_6 | code<br>border<br>arrest<br>short<br>barrel<br>slim |  
+| bip_39_word_new_br_7 | code<br>border<br>arrest<br>short<br>barrel<br>slim<br>morning |  
+| bip_39_word_new_br_8 | code<br>border<br>arrest<br>short<br>barrel<br>slim<br>morning<br>raise |  
+| bip_39_word_new_br_9 | code<br>border<br>arrest<br>short<br>barrel<br>slim<br>morning<br>raise<br>maple |  
+| bip_39_word_new_line_1 | code |  
+| bip_39_word_new_line_10 | code
 border
 arrest
 short
@@ -55,7 +55,7 @@ morning
 raise
 maple
 gospel |  
-| bip_39_word_new_line11 | code
+| bip_39_word_new_line_11 | code
 border
 arrest
 short
@@ -66,7 +66,7 @@ raise
 maple
 gospel
 hole |  
-| bip_39_word_new_line12 | code
+| bip_39_word_new_line_12 | code
 border
 arrest
 short
@@ -78,34 +78,34 @@ maple
 gospel
 hole
 arctic |  
-| bip_39_word_new_line2 | code
+| bip_39_word_new_line_2 | code
 border |  
-| bip_39_word_new_line3 | code
+| bip_39_word_new_line_3 | code
 border
 arrest |  
-| bip_39_word_new_line4 | code
+| bip_39_word_new_line_4 | code
 border
 arrest
 short |  
-| bip_39_word_new_line5 | code
+| bip_39_word_new_line_5 | code
 border
 arrest
 short
 barrel |  
-| bip_39_word_new_line6 | code
+| bip_39_word_new_line_6 | code
 border
 arrest
 short
 barrel
 slim |  
-| bip_39_word_new_line7 | code
+| bip_39_word_new_line_7 | code
 border
 arrest
 short
 barrel
 slim
 morning |  
-| bip_39_word_new_line8 | code
+| bip_39_word_new_line_8 | code
 border
 arrest
 short
@@ -113,7 +113,7 @@ barrel
 slim
 morning
 raise |  
-| bip_39_word_new_line9 | code
+| bip_39_word_new_line_9 | code
 border
 arrest
 short

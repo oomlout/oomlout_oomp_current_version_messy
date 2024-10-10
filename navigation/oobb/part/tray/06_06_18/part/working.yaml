@@ -1,17 +1,17 @@
-bip_39_word_new_br1: relief
-bip_39_word_new_br10: relief<br>time<br>curve<br>keen<br>common<br>bargain<br>reunion<br>tongue<br>pond<br>include
-bip_39_word_new_br11: relief<br>time<br>curve<br>keen<br>common<br>bargain<br>reunion<br>tongue<br>pond<br>include<br>flame
-bip_39_word_new_br12: relief<br>time<br>curve<br>keen<br>common<br>bargain<br>reunion<br>tongue<br>pond<br>include<br>flame<br>atom
-bip_39_word_new_br2: relief<br>time
-bip_39_word_new_br3: relief<br>time<br>curve
-bip_39_word_new_br4: relief<br>time<br>curve<br>keen
-bip_39_word_new_br5: relief<br>time<br>curve<br>keen<br>common
-bip_39_word_new_br6: relief<br>time<br>curve<br>keen<br>common<br>bargain
-bip_39_word_new_br7: relief<br>time<br>curve<br>keen<br>common<br>bargain<br>reunion
-bip_39_word_new_br8: relief<br>time<br>curve<br>keen<br>common<br>bargain<br>reunion<br>tongue
-bip_39_word_new_br9: relief<br>time<br>curve<br>keen<br>common<br>bargain<br>reunion<br>tongue<br>pond
-bip_39_word_new_line1: relief
-bip_39_word_new_line10: 'relief
+bip_39_word_new_br_1: relief
+bip_39_word_new_br_10: relief<br>time<br>curve<br>keen<br>common<br>bargain<br>reunion<br>tongue<br>pond<br>include
+bip_39_word_new_br_11: relief<br>time<br>curve<br>keen<br>common<br>bargain<br>reunion<br>tongue<br>pond<br>include<br>flame
+bip_39_word_new_br_12: relief<br>time<br>curve<br>keen<br>common<br>bargain<br>reunion<br>tongue<br>pond<br>include<br>flame<br>atom
+bip_39_word_new_br_2: relief<br>time
+bip_39_word_new_br_3: relief<br>time<br>curve
+bip_39_word_new_br_4: relief<br>time<br>curve<br>keen
+bip_39_word_new_br_5: relief<br>time<br>curve<br>keen<br>common
+bip_39_word_new_br_6: relief<br>time<br>curve<br>keen<br>common<br>bargain
+bip_39_word_new_br_7: relief<br>time<br>curve<br>keen<br>common<br>bargain<br>reunion
+bip_39_word_new_br_8: relief<br>time<br>curve<br>keen<br>common<br>bargain<br>reunion<br>tongue
+bip_39_word_new_br_9: relief<br>time<br>curve<br>keen<br>common<br>bargain<br>reunion<br>tongue<br>pond
+bip_39_word_new_line_1: relief
+bip_39_word_new_line_10: 'relief
 
   time
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'relief
   pond
 
   include'
-bip_39_word_new_line11: 'relief
+bip_39_word_new_line_11: 'relief
 
   time
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'relief
   include
 
   flame'
-bip_39_word_new_line12: 'relief
+bip_39_word_new_line_12: 'relief
 
   time
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'relief
   flame
 
   atom'
-bip_39_word_new_line2: 'relief
+bip_39_word_new_line_2: 'relief
 
   time'
-bip_39_word_new_line3: 'relief
+bip_39_word_new_line_3: 'relief
 
   time
 
   curve'
-bip_39_word_new_line4: 'relief
+bip_39_word_new_line_4: 'relief
 
   time
 
   curve
 
   keen'
-bip_39_word_new_line5: 'relief
+bip_39_word_new_line_5: 'relief
 
   time
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'relief
   keen
 
   common'
-bip_39_word_new_line6: 'relief
+bip_39_word_new_line_6: 'relief
 
   time
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'relief
   common
 
   bargain'
-bip_39_word_new_line7: 'relief
+bip_39_word_new_line_7: 'relief
 
   time
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'relief
   bargain
 
   reunion'
-bip_39_word_new_line8: 'relief
+bip_39_word_new_line_8: 'relief
 
   time
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'relief
   reunion
 
   tongue'
-bip_39_word_new_line9: 'relief
+bip_39_word_new_line_9: 'relief
 
   time
 

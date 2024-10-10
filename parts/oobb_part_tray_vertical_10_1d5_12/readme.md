@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | citizen |  
-| bip_39_word_new_br10 | citizen<br>novel<br>glide<br>hollow<br>system<br>denial<br>bubble<br>boost<br>rural<br>protect |  
-| bip_39_word_new_br11 | citizen<br>novel<br>glide<br>hollow<br>system<br>denial<br>bubble<br>boost<br>rural<br>protect<br>system |  
-| bip_39_word_new_br12 | citizen<br>novel<br>glide<br>hollow<br>system<br>denial<br>bubble<br>boost<br>rural<br>protect<br>system<br>adapt |  
-| bip_39_word_new_br2 | citizen<br>novel |  
-| bip_39_word_new_br3 | citizen<br>novel<br>glide |  
-| bip_39_word_new_br4 | citizen<br>novel<br>glide<br>hollow |  
-| bip_39_word_new_br5 | citizen<br>novel<br>glide<br>hollow<br>system |  
-| bip_39_word_new_br6 | citizen<br>novel<br>glide<br>hollow<br>system<br>denial |  
-| bip_39_word_new_br7 | citizen<br>novel<br>glide<br>hollow<br>system<br>denial<br>bubble |  
-| bip_39_word_new_br8 | citizen<br>novel<br>glide<br>hollow<br>system<br>denial<br>bubble<br>boost |  
-| bip_39_word_new_br9 | citizen<br>novel<br>glide<br>hollow<br>system<br>denial<br>bubble<br>boost<br>rural |  
-| bip_39_word_new_line1 | citizen |  
-| bip_39_word_new_line10 | citizen
+| bip_39_word_new_br_1 | citizen |  
+| bip_39_word_new_br_10 | citizen<br>novel<br>glide<br>hollow<br>system<br>denial<br>bubble<br>boost<br>rural<br>protect |  
+| bip_39_word_new_br_11 | citizen<br>novel<br>glide<br>hollow<br>system<br>denial<br>bubble<br>boost<br>rural<br>protect<br>system |  
+| bip_39_word_new_br_12 | citizen<br>novel<br>glide<br>hollow<br>system<br>denial<br>bubble<br>boost<br>rural<br>protect<br>system<br>adapt |  
+| bip_39_word_new_br_2 | citizen<br>novel |  
+| bip_39_word_new_br_3 | citizen<br>novel<br>glide |  
+| bip_39_word_new_br_4 | citizen<br>novel<br>glide<br>hollow |  
+| bip_39_word_new_br_5 | citizen<br>novel<br>glide<br>hollow<br>system |  
+| bip_39_word_new_br_6 | citizen<br>novel<br>glide<br>hollow<br>system<br>denial |  
+| bip_39_word_new_br_7 | citizen<br>novel<br>glide<br>hollow<br>system<br>denial<br>bubble |  
+| bip_39_word_new_br_8 | citizen<br>novel<br>glide<br>hollow<br>system<br>denial<br>bubble<br>boost |  
+| bip_39_word_new_br_9 | citizen<br>novel<br>glide<br>hollow<br>system<br>denial<br>bubble<br>boost<br>rural |  
+| bip_39_word_new_line_1 | citizen |  
+| bip_39_word_new_line_10 | citizen
 novel
 glide
 hollow
@@ -55,7 +55,7 @@ bubble
 boost
 rural
 protect |  
-| bip_39_word_new_line11 | citizen
+| bip_39_word_new_line_11 | citizen
 novel
 glide
 hollow
@@ -66,7 +66,7 @@ boost
 rural
 protect
 system |  
-| bip_39_word_new_line12 | citizen
+| bip_39_word_new_line_12 | citizen
 novel
 glide
 hollow
@@ -78,34 +78,34 @@ rural
 protect
 system
 adapt |  
-| bip_39_word_new_line2 | citizen
+| bip_39_word_new_line_2 | citizen
 novel |  
-| bip_39_word_new_line3 | citizen
+| bip_39_word_new_line_3 | citizen
 novel
 glide |  
-| bip_39_word_new_line4 | citizen
+| bip_39_word_new_line_4 | citizen
 novel
 glide
 hollow |  
-| bip_39_word_new_line5 | citizen
+| bip_39_word_new_line_5 | citizen
 novel
 glide
 hollow
 system |  
-| bip_39_word_new_line6 | citizen
+| bip_39_word_new_line_6 | citizen
 novel
 glide
 hollow
 system
 denial |  
-| bip_39_word_new_line7 | citizen
+| bip_39_word_new_line_7 | citizen
 novel
 glide
 hollow
 system
 denial
 bubble |  
-| bip_39_word_new_line8 | citizen
+| bip_39_word_new_line_8 | citizen
 novel
 glide
 hollow
@@ -113,7 +113,7 @@ system
 denial
 bubble
 boost |  
-| bip_39_word_new_line9 | citizen
+| bip_39_word_new_line_9 | citizen
 novel
 glide
 hollow

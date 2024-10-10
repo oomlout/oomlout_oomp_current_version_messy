@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | visit |  
-| bip_39_word_new_br10 | visit<br>crunch<br>grunt<br>parade<br>torch<br>nose<br>initial<br>nasty<br>west<br>update |  
-| bip_39_word_new_br11 | visit<br>crunch<br>grunt<br>parade<br>torch<br>nose<br>initial<br>nasty<br>west<br>update<br>found |  
-| bip_39_word_new_br12 | visit<br>crunch<br>grunt<br>parade<br>torch<br>nose<br>initial<br>nasty<br>west<br>update<br>found<br>amateur |  
-| bip_39_word_new_br2 | visit<br>crunch |  
-| bip_39_word_new_br3 | visit<br>crunch<br>grunt |  
-| bip_39_word_new_br4 | visit<br>crunch<br>grunt<br>parade |  
-| bip_39_word_new_br5 | visit<br>crunch<br>grunt<br>parade<br>torch |  
-| bip_39_word_new_br6 | visit<br>crunch<br>grunt<br>parade<br>torch<br>nose |  
-| bip_39_word_new_br7 | visit<br>crunch<br>grunt<br>parade<br>torch<br>nose<br>initial |  
-| bip_39_word_new_br8 | visit<br>crunch<br>grunt<br>parade<br>torch<br>nose<br>initial<br>nasty |  
-| bip_39_word_new_br9 | visit<br>crunch<br>grunt<br>parade<br>torch<br>nose<br>initial<br>nasty<br>west |  
-| bip_39_word_new_line1 | visit |  
-| bip_39_word_new_line10 | visit
+| bip_39_word_new_br_1 | visit |  
+| bip_39_word_new_br_10 | visit<br>crunch<br>grunt<br>parade<br>torch<br>nose<br>initial<br>nasty<br>west<br>update |  
+| bip_39_word_new_br_11 | visit<br>crunch<br>grunt<br>parade<br>torch<br>nose<br>initial<br>nasty<br>west<br>update<br>found |  
+| bip_39_word_new_br_12 | visit<br>crunch<br>grunt<br>parade<br>torch<br>nose<br>initial<br>nasty<br>west<br>update<br>found<br>amateur |  
+| bip_39_word_new_br_2 | visit<br>crunch |  
+| bip_39_word_new_br_3 | visit<br>crunch<br>grunt |  
+| bip_39_word_new_br_4 | visit<br>crunch<br>grunt<br>parade |  
+| bip_39_word_new_br_5 | visit<br>crunch<br>grunt<br>parade<br>torch |  
+| bip_39_word_new_br_6 | visit<br>crunch<br>grunt<br>parade<br>torch<br>nose |  
+| bip_39_word_new_br_7 | visit<br>crunch<br>grunt<br>parade<br>torch<br>nose<br>initial |  
+| bip_39_word_new_br_8 | visit<br>crunch<br>grunt<br>parade<br>torch<br>nose<br>initial<br>nasty |  
+| bip_39_word_new_br_9 | visit<br>crunch<br>grunt<br>parade<br>torch<br>nose<br>initial<br>nasty<br>west |  
+| bip_39_word_new_line_1 | visit |  
+| bip_39_word_new_line_10 | visit
 crunch
 grunt
 parade
@@ -55,7 +55,7 @@ initial
 nasty
 west
 update |  
-| bip_39_word_new_line11 | visit
+| bip_39_word_new_line_11 | visit
 crunch
 grunt
 parade
@@ -66,7 +66,7 @@ nasty
 west
 update
 found |  
-| bip_39_word_new_line12 | visit
+| bip_39_word_new_line_12 | visit
 crunch
 grunt
 parade
@@ -78,34 +78,34 @@ west
 update
 found
 amateur |  
-| bip_39_word_new_line2 | visit
+| bip_39_word_new_line_2 | visit
 crunch |  
-| bip_39_word_new_line3 | visit
+| bip_39_word_new_line_3 | visit
 crunch
 grunt |  
-| bip_39_word_new_line4 | visit
+| bip_39_word_new_line_4 | visit
 crunch
 grunt
 parade |  
-| bip_39_word_new_line5 | visit
+| bip_39_word_new_line_5 | visit
 crunch
 grunt
 parade
 torch |  
-| bip_39_word_new_line6 | visit
+| bip_39_word_new_line_6 | visit
 crunch
 grunt
 parade
 torch
 nose |  
-| bip_39_word_new_line7 | visit
+| bip_39_word_new_line_7 | visit
 crunch
 grunt
 parade
 torch
 nose
 initial |  
-| bip_39_word_new_line8 | visit
+| bip_39_word_new_line_8 | visit
 crunch
 grunt
 parade
@@ -113,7 +113,7 @@ torch
 nose
 initial
 nasty |  
-| bip_39_word_new_line9 | visit
+| bip_39_word_new_line_9 | visit
 crunch
 grunt
 parade

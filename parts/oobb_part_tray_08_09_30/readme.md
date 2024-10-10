@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | win |  
-| bip_39_word_new_br10 | win<br>fix<br>october<br>grow<br>people<br>leisure<br>current<br>patrol<br>scout<br>drive |  
-| bip_39_word_new_br11 | win<br>fix<br>october<br>grow<br>people<br>leisure<br>current<br>patrol<br>scout<br>drive<br>flag |  
-| bip_39_word_new_br12 | win<br>fix<br>october<br>grow<br>people<br>leisure<br>current<br>patrol<br>scout<br>drive<br>flag<br>acid |  
-| bip_39_word_new_br2 | win<br>fix |  
-| bip_39_word_new_br3 | win<br>fix<br>october |  
-| bip_39_word_new_br4 | win<br>fix<br>october<br>grow |  
-| bip_39_word_new_br5 | win<br>fix<br>october<br>grow<br>people |  
-| bip_39_word_new_br6 | win<br>fix<br>october<br>grow<br>people<br>leisure |  
-| bip_39_word_new_br7 | win<br>fix<br>october<br>grow<br>people<br>leisure<br>current |  
-| bip_39_word_new_br8 | win<br>fix<br>october<br>grow<br>people<br>leisure<br>current<br>patrol |  
-| bip_39_word_new_br9 | win<br>fix<br>october<br>grow<br>people<br>leisure<br>current<br>patrol<br>scout |  
-| bip_39_word_new_line1 | win |  
-| bip_39_word_new_line10 | win
+| bip_39_word_new_br_1 | win |  
+| bip_39_word_new_br_10 | win<br>fix<br>october<br>grow<br>people<br>leisure<br>current<br>patrol<br>scout<br>drive |  
+| bip_39_word_new_br_11 | win<br>fix<br>october<br>grow<br>people<br>leisure<br>current<br>patrol<br>scout<br>drive<br>flag |  
+| bip_39_word_new_br_12 | win<br>fix<br>october<br>grow<br>people<br>leisure<br>current<br>patrol<br>scout<br>drive<br>flag<br>acid |  
+| bip_39_word_new_br_2 | win<br>fix |  
+| bip_39_word_new_br_3 | win<br>fix<br>october |  
+| bip_39_word_new_br_4 | win<br>fix<br>october<br>grow |  
+| bip_39_word_new_br_5 | win<br>fix<br>october<br>grow<br>people |  
+| bip_39_word_new_br_6 | win<br>fix<br>october<br>grow<br>people<br>leisure |  
+| bip_39_word_new_br_7 | win<br>fix<br>october<br>grow<br>people<br>leisure<br>current |  
+| bip_39_word_new_br_8 | win<br>fix<br>october<br>grow<br>people<br>leisure<br>current<br>patrol |  
+| bip_39_word_new_br_9 | win<br>fix<br>october<br>grow<br>people<br>leisure<br>current<br>patrol<br>scout |  
+| bip_39_word_new_line_1 | win |  
+| bip_39_word_new_line_10 | win
 fix
 october
 grow
@@ -55,7 +55,7 @@ current
 patrol
 scout
 drive |  
-| bip_39_word_new_line11 | win
+| bip_39_word_new_line_11 | win
 fix
 october
 grow
@@ -66,7 +66,7 @@ patrol
 scout
 drive
 flag |  
-| bip_39_word_new_line12 | win
+| bip_39_word_new_line_12 | win
 fix
 october
 grow
@@ -78,34 +78,34 @@ scout
 drive
 flag
 acid |  
-| bip_39_word_new_line2 | win
+| bip_39_word_new_line_2 | win
 fix |  
-| bip_39_word_new_line3 | win
+| bip_39_word_new_line_3 | win
 fix
 october |  
-| bip_39_word_new_line4 | win
+| bip_39_word_new_line_4 | win
 fix
 october
 grow |  
-| bip_39_word_new_line5 | win
+| bip_39_word_new_line_5 | win
 fix
 october
 grow
 people |  
-| bip_39_word_new_line6 | win
+| bip_39_word_new_line_6 | win
 fix
 october
 grow
 people
 leisure |  
-| bip_39_word_new_line7 | win
+| bip_39_word_new_line_7 | win
 fix
 october
 grow
 people
 leisure
 current |  
-| bip_39_word_new_line8 | win
+| bip_39_word_new_line_8 | win
 fix
 october
 grow
@@ -113,7 +113,7 @@ people
 leisure
 current
 patrol |  
-| bip_39_word_new_line9 | win
+| bip_39_word_new_line_9 | win
 fix
 october
 grow

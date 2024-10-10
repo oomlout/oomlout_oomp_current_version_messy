@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dizzy |  
-| bip_39_word_new_br10 | dizzy<br>best<br>victory<br>cute<br>hen<br>priority<br>gesture<br>practice<br>mother<br>fortune |  
-| bip_39_word_new_br11 | dizzy<br>best<br>victory<br>cute<br>hen<br>priority<br>gesture<br>practice<br>mother<br>fortune<br>ignore |  
-| bip_39_word_new_br12 | dizzy<br>best<br>victory<br>cute<br>hen<br>priority<br>gesture<br>practice<br>mother<br>fortune<br>ignore<br>attend |  
-| bip_39_word_new_br2 | dizzy<br>best |  
-| bip_39_word_new_br3 | dizzy<br>best<br>victory |  
-| bip_39_word_new_br4 | dizzy<br>best<br>victory<br>cute |  
-| bip_39_word_new_br5 | dizzy<br>best<br>victory<br>cute<br>hen |  
-| bip_39_word_new_br6 | dizzy<br>best<br>victory<br>cute<br>hen<br>priority |  
-| bip_39_word_new_br7 | dizzy<br>best<br>victory<br>cute<br>hen<br>priority<br>gesture |  
-| bip_39_word_new_br8 | dizzy<br>best<br>victory<br>cute<br>hen<br>priority<br>gesture<br>practice |  
-| bip_39_word_new_br9 | dizzy<br>best<br>victory<br>cute<br>hen<br>priority<br>gesture<br>practice<br>mother |  
-| bip_39_word_new_line1 | dizzy |  
-| bip_39_word_new_line10 | dizzy
+| bip_39_word_new_br_1 | dizzy |  
+| bip_39_word_new_br_10 | dizzy<br>best<br>victory<br>cute<br>hen<br>priority<br>gesture<br>practice<br>mother<br>fortune |  
+| bip_39_word_new_br_11 | dizzy<br>best<br>victory<br>cute<br>hen<br>priority<br>gesture<br>practice<br>mother<br>fortune<br>ignore |  
+| bip_39_word_new_br_12 | dizzy<br>best<br>victory<br>cute<br>hen<br>priority<br>gesture<br>practice<br>mother<br>fortune<br>ignore<br>attend |  
+| bip_39_word_new_br_2 | dizzy<br>best |  
+| bip_39_word_new_br_3 | dizzy<br>best<br>victory |  
+| bip_39_word_new_br_4 | dizzy<br>best<br>victory<br>cute |  
+| bip_39_word_new_br_5 | dizzy<br>best<br>victory<br>cute<br>hen |  
+| bip_39_word_new_br_6 | dizzy<br>best<br>victory<br>cute<br>hen<br>priority |  
+| bip_39_word_new_br_7 | dizzy<br>best<br>victory<br>cute<br>hen<br>priority<br>gesture |  
+| bip_39_word_new_br_8 | dizzy<br>best<br>victory<br>cute<br>hen<br>priority<br>gesture<br>practice |  
+| bip_39_word_new_br_9 | dizzy<br>best<br>victory<br>cute<br>hen<br>priority<br>gesture<br>practice<br>mother |  
+| bip_39_word_new_line_1 | dizzy |  
+| bip_39_word_new_line_10 | dizzy
 best
 victory
 cute
@@ -55,7 +55,7 @@ gesture
 practice
 mother
 fortune |  
-| bip_39_word_new_line11 | dizzy
+| bip_39_word_new_line_11 | dizzy
 best
 victory
 cute
@@ -66,7 +66,7 @@ practice
 mother
 fortune
 ignore |  
-| bip_39_word_new_line12 | dizzy
+| bip_39_word_new_line_12 | dizzy
 best
 victory
 cute
@@ -78,34 +78,34 @@ mother
 fortune
 ignore
 attend |  
-| bip_39_word_new_line2 | dizzy
+| bip_39_word_new_line_2 | dizzy
 best |  
-| bip_39_word_new_line3 | dizzy
+| bip_39_word_new_line_3 | dizzy
 best
 victory |  
-| bip_39_word_new_line4 | dizzy
+| bip_39_word_new_line_4 | dizzy
 best
 victory
 cute |  
-| bip_39_word_new_line5 | dizzy
+| bip_39_word_new_line_5 | dizzy
 best
 victory
 cute
 hen |  
-| bip_39_word_new_line6 | dizzy
+| bip_39_word_new_line_6 | dizzy
 best
 victory
 cute
 hen
 priority |  
-| bip_39_word_new_line7 | dizzy
+| bip_39_word_new_line_7 | dizzy
 best
 victory
 cute
 hen
 priority
 gesture |  
-| bip_39_word_new_line8 | dizzy
+| bip_39_word_new_line_8 | dizzy
 best
 victory
 cute
@@ -113,7 +113,7 @@ hen
 priority
 gesture
 practice |  
-| bip_39_word_new_line9 | dizzy
+| bip_39_word_new_line_9 | dizzy
 best
 victory
 cute

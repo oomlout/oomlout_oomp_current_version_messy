@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | angry |  
-| bip_39_word_new_br10 | angry<br>tribe<br>version<br>intact<br>insane<br>avoid<br>short<br>bomb<br>wage<br>dynamic |  
-| bip_39_word_new_br11 | angry<br>tribe<br>version<br>intact<br>insane<br>avoid<br>short<br>bomb<br>wage<br>dynamic<br>farm |  
-| bip_39_word_new_br12 | angry<br>tribe<br>version<br>intact<br>insane<br>avoid<br>short<br>bomb<br>wage<br>dynamic<br>farm<br>almost |  
-| bip_39_word_new_br2 | angry<br>tribe |  
-| bip_39_word_new_br3 | angry<br>tribe<br>version |  
-| bip_39_word_new_br4 | angry<br>tribe<br>version<br>intact |  
-| bip_39_word_new_br5 | angry<br>tribe<br>version<br>intact<br>insane |  
-| bip_39_word_new_br6 | angry<br>tribe<br>version<br>intact<br>insane<br>avoid |  
-| bip_39_word_new_br7 | angry<br>tribe<br>version<br>intact<br>insane<br>avoid<br>short |  
-| bip_39_word_new_br8 | angry<br>tribe<br>version<br>intact<br>insane<br>avoid<br>short<br>bomb |  
-| bip_39_word_new_br9 | angry<br>tribe<br>version<br>intact<br>insane<br>avoid<br>short<br>bomb<br>wage |  
-| bip_39_word_new_line1 | angry |  
-| bip_39_word_new_line10 | angry
+| bip_39_word_new_br_1 | angry |  
+| bip_39_word_new_br_10 | angry<br>tribe<br>version<br>intact<br>insane<br>avoid<br>short<br>bomb<br>wage<br>dynamic |  
+| bip_39_word_new_br_11 | angry<br>tribe<br>version<br>intact<br>insane<br>avoid<br>short<br>bomb<br>wage<br>dynamic<br>farm |  
+| bip_39_word_new_br_12 | angry<br>tribe<br>version<br>intact<br>insane<br>avoid<br>short<br>bomb<br>wage<br>dynamic<br>farm<br>almost |  
+| bip_39_word_new_br_2 | angry<br>tribe |  
+| bip_39_word_new_br_3 | angry<br>tribe<br>version |  
+| bip_39_word_new_br_4 | angry<br>tribe<br>version<br>intact |  
+| bip_39_word_new_br_5 | angry<br>tribe<br>version<br>intact<br>insane |  
+| bip_39_word_new_br_6 | angry<br>tribe<br>version<br>intact<br>insane<br>avoid |  
+| bip_39_word_new_br_7 | angry<br>tribe<br>version<br>intact<br>insane<br>avoid<br>short |  
+| bip_39_word_new_br_8 | angry<br>tribe<br>version<br>intact<br>insane<br>avoid<br>short<br>bomb |  
+| bip_39_word_new_br_9 | angry<br>tribe<br>version<br>intact<br>insane<br>avoid<br>short<br>bomb<br>wage |  
+| bip_39_word_new_line_1 | angry |  
+| bip_39_word_new_line_10 | angry
 tribe
 version
 intact
@@ -55,7 +55,7 @@ short
 bomb
 wage
 dynamic |  
-| bip_39_word_new_line11 | angry
+| bip_39_word_new_line_11 | angry
 tribe
 version
 intact
@@ -66,7 +66,7 @@ bomb
 wage
 dynamic
 farm |  
-| bip_39_word_new_line12 | angry
+| bip_39_word_new_line_12 | angry
 tribe
 version
 intact
@@ -78,34 +78,34 @@ wage
 dynamic
 farm
 almost |  
-| bip_39_word_new_line2 | angry
+| bip_39_word_new_line_2 | angry
 tribe |  
-| bip_39_word_new_line3 | angry
+| bip_39_word_new_line_3 | angry
 tribe
 version |  
-| bip_39_word_new_line4 | angry
+| bip_39_word_new_line_4 | angry
 tribe
 version
 intact |  
-| bip_39_word_new_line5 | angry
+| bip_39_word_new_line_5 | angry
 tribe
 version
 intact
 insane |  
-| bip_39_word_new_line6 | angry
+| bip_39_word_new_line_6 | angry
 tribe
 version
 intact
 insane
 avoid |  
-| bip_39_word_new_line7 | angry
+| bip_39_word_new_line_7 | angry
 tribe
 version
 intact
 insane
 avoid
 short |  
-| bip_39_word_new_line8 | angry
+| bip_39_word_new_line_8 | angry
 tribe
 version
 intact
@@ -113,7 +113,7 @@ insane
 avoid
 short
 bomb |  
-| bip_39_word_new_line9 | angry
+| bip_39_word_new_line_9 | angry
 tribe
 version
 intact

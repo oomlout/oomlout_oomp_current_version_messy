@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | quote |  
-| bip_39_word_new_br10 | quote<br>immune<br>horse<br>jump<br>economy<br>crop<br>thought<br>meat<br>siege<br>assume |  
-| bip_39_word_new_br11 | quote<br>immune<br>horse<br>jump<br>economy<br>crop<br>thought<br>meat<br>siege<br>assume<br>mixed |  
-| bip_39_word_new_br12 | quote<br>immune<br>horse<br>jump<br>economy<br>crop<br>thought<br>meat<br>siege<br>assume<br>mixed<br>aerobic |  
-| bip_39_word_new_br2 | quote<br>immune |  
-| bip_39_word_new_br3 | quote<br>immune<br>horse |  
-| bip_39_word_new_br4 | quote<br>immune<br>horse<br>jump |  
-| bip_39_word_new_br5 | quote<br>immune<br>horse<br>jump<br>economy |  
-| bip_39_word_new_br6 | quote<br>immune<br>horse<br>jump<br>economy<br>crop |  
-| bip_39_word_new_br7 | quote<br>immune<br>horse<br>jump<br>economy<br>crop<br>thought |  
-| bip_39_word_new_br8 | quote<br>immune<br>horse<br>jump<br>economy<br>crop<br>thought<br>meat |  
-| bip_39_word_new_br9 | quote<br>immune<br>horse<br>jump<br>economy<br>crop<br>thought<br>meat<br>siege |  
-| bip_39_word_new_line1 | quote |  
-| bip_39_word_new_line10 | quote
+| bip_39_word_new_br_1 | quote |  
+| bip_39_word_new_br_10 | quote<br>immune<br>horse<br>jump<br>economy<br>crop<br>thought<br>meat<br>siege<br>assume |  
+| bip_39_word_new_br_11 | quote<br>immune<br>horse<br>jump<br>economy<br>crop<br>thought<br>meat<br>siege<br>assume<br>mixed |  
+| bip_39_word_new_br_12 | quote<br>immune<br>horse<br>jump<br>economy<br>crop<br>thought<br>meat<br>siege<br>assume<br>mixed<br>aerobic |  
+| bip_39_word_new_br_2 | quote<br>immune |  
+| bip_39_word_new_br_3 | quote<br>immune<br>horse |  
+| bip_39_word_new_br_4 | quote<br>immune<br>horse<br>jump |  
+| bip_39_word_new_br_5 | quote<br>immune<br>horse<br>jump<br>economy |  
+| bip_39_word_new_br_6 | quote<br>immune<br>horse<br>jump<br>economy<br>crop |  
+| bip_39_word_new_br_7 | quote<br>immune<br>horse<br>jump<br>economy<br>crop<br>thought |  
+| bip_39_word_new_br_8 | quote<br>immune<br>horse<br>jump<br>economy<br>crop<br>thought<br>meat |  
+| bip_39_word_new_br_9 | quote<br>immune<br>horse<br>jump<br>economy<br>crop<br>thought<br>meat<br>siege |  
+| bip_39_word_new_line_1 | quote |  
+| bip_39_word_new_line_10 | quote
 immune
 horse
 jump
@@ -55,7 +55,7 @@ thought
 meat
 siege
 assume |  
-| bip_39_word_new_line11 | quote
+| bip_39_word_new_line_11 | quote
 immune
 horse
 jump
@@ -66,7 +66,7 @@ meat
 siege
 assume
 mixed |  
-| bip_39_word_new_line12 | quote
+| bip_39_word_new_line_12 | quote
 immune
 horse
 jump
@@ -78,34 +78,34 @@ siege
 assume
 mixed
 aerobic |  
-| bip_39_word_new_line2 | quote
+| bip_39_word_new_line_2 | quote
 immune |  
-| bip_39_word_new_line3 | quote
+| bip_39_word_new_line_3 | quote
 immune
 horse |  
-| bip_39_word_new_line4 | quote
+| bip_39_word_new_line_4 | quote
 immune
 horse
 jump |  
-| bip_39_word_new_line5 | quote
+| bip_39_word_new_line_5 | quote
 immune
 horse
 jump
 economy |  
-| bip_39_word_new_line6 | quote
+| bip_39_word_new_line_6 | quote
 immune
 horse
 jump
 economy
 crop |  
-| bip_39_word_new_line7 | quote
+| bip_39_word_new_line_7 | quote
 immune
 horse
 jump
 economy
 crop
 thought |  
-| bip_39_word_new_line8 | quote
+| bip_39_word_new_line_8 | quote
 immune
 horse
 jump
@@ -113,7 +113,7 @@ economy
 crop
 thought
 meat |  
-| bip_39_word_new_line9 | quote
+| bip_39_word_new_line_9 | quote
 immune
 horse
 jump

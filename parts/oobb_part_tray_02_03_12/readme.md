@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | echo |  
-| bip_39_word_new_br10 | echo<br>innocent<br>load<br>soon<br>weapon<br>tilt<br>patch<br>bounce<br>live<br>what |  
-| bip_39_word_new_br11 | echo<br>innocent<br>load<br>soon<br>weapon<br>tilt<br>patch<br>bounce<br>live<br>what<br>pizza |  
-| bip_39_word_new_br12 | echo<br>innocent<br>load<br>soon<br>weapon<br>tilt<br>patch<br>bounce<br>live<br>what<br>pizza<br>alarm |  
-| bip_39_word_new_br2 | echo<br>innocent |  
-| bip_39_word_new_br3 | echo<br>innocent<br>load |  
-| bip_39_word_new_br4 | echo<br>innocent<br>load<br>soon |  
-| bip_39_word_new_br5 | echo<br>innocent<br>load<br>soon<br>weapon |  
-| bip_39_word_new_br6 | echo<br>innocent<br>load<br>soon<br>weapon<br>tilt |  
-| bip_39_word_new_br7 | echo<br>innocent<br>load<br>soon<br>weapon<br>tilt<br>patch |  
-| bip_39_word_new_br8 | echo<br>innocent<br>load<br>soon<br>weapon<br>tilt<br>patch<br>bounce |  
-| bip_39_word_new_br9 | echo<br>innocent<br>load<br>soon<br>weapon<br>tilt<br>patch<br>bounce<br>live |  
-| bip_39_word_new_line1 | echo |  
-| bip_39_word_new_line10 | echo
+| bip_39_word_new_br_1 | echo |  
+| bip_39_word_new_br_10 | echo<br>innocent<br>load<br>soon<br>weapon<br>tilt<br>patch<br>bounce<br>live<br>what |  
+| bip_39_word_new_br_11 | echo<br>innocent<br>load<br>soon<br>weapon<br>tilt<br>patch<br>bounce<br>live<br>what<br>pizza |  
+| bip_39_word_new_br_12 | echo<br>innocent<br>load<br>soon<br>weapon<br>tilt<br>patch<br>bounce<br>live<br>what<br>pizza<br>alarm |  
+| bip_39_word_new_br_2 | echo<br>innocent |  
+| bip_39_word_new_br_3 | echo<br>innocent<br>load |  
+| bip_39_word_new_br_4 | echo<br>innocent<br>load<br>soon |  
+| bip_39_word_new_br_5 | echo<br>innocent<br>load<br>soon<br>weapon |  
+| bip_39_word_new_br_6 | echo<br>innocent<br>load<br>soon<br>weapon<br>tilt |  
+| bip_39_word_new_br_7 | echo<br>innocent<br>load<br>soon<br>weapon<br>tilt<br>patch |  
+| bip_39_word_new_br_8 | echo<br>innocent<br>load<br>soon<br>weapon<br>tilt<br>patch<br>bounce |  
+| bip_39_word_new_br_9 | echo<br>innocent<br>load<br>soon<br>weapon<br>tilt<br>patch<br>bounce<br>live |  
+| bip_39_word_new_line_1 | echo |  
+| bip_39_word_new_line_10 | echo
 innocent
 load
 soon
@@ -55,7 +55,7 @@ patch
 bounce
 live
 what |  
-| bip_39_word_new_line11 | echo
+| bip_39_word_new_line_11 | echo
 innocent
 load
 soon
@@ -66,7 +66,7 @@ bounce
 live
 what
 pizza |  
-| bip_39_word_new_line12 | echo
+| bip_39_word_new_line_12 | echo
 innocent
 load
 soon
@@ -78,34 +78,34 @@ live
 what
 pizza
 alarm |  
-| bip_39_word_new_line2 | echo
+| bip_39_word_new_line_2 | echo
 innocent |  
-| bip_39_word_new_line3 | echo
+| bip_39_word_new_line_3 | echo
 innocent
 load |  
-| bip_39_word_new_line4 | echo
+| bip_39_word_new_line_4 | echo
 innocent
 load
 soon |  
-| bip_39_word_new_line5 | echo
+| bip_39_word_new_line_5 | echo
 innocent
 load
 soon
 weapon |  
-| bip_39_word_new_line6 | echo
+| bip_39_word_new_line_6 | echo
 innocent
 load
 soon
 weapon
 tilt |  
-| bip_39_word_new_line7 | echo
+| bip_39_word_new_line_7 | echo
 innocent
 load
 soon
 weapon
 tilt
 patch |  
-| bip_39_word_new_line8 | echo
+| bip_39_word_new_line_8 | echo
 innocent
 load
 soon
@@ -113,7 +113,7 @@ weapon
 tilt
 patch
 bounce |  
-| bip_39_word_new_line9 | echo
+| bip_39_word_new_line_9 | echo
 innocent
 load
 soon

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | exact |  
-| bip_39_word_new_br10 | exact<br>spider<br>manual<br>sponsor<br>learn<br>twenty<br>super<br>bacon<br>cupboard<br>blouse |  
-| bip_39_word_new_br11 | exact<br>spider<br>manual<br>sponsor<br>learn<br>twenty<br>super<br>bacon<br>cupboard<br>blouse<br>acid |  
-| bip_39_word_new_br12 | exact<br>spider<br>manual<br>sponsor<br>learn<br>twenty<br>super<br>bacon<br>cupboard<br>blouse<br>acid<br>antenna |  
-| bip_39_word_new_br2 | exact<br>spider |  
-| bip_39_word_new_br3 | exact<br>spider<br>manual |  
-| bip_39_word_new_br4 | exact<br>spider<br>manual<br>sponsor |  
-| bip_39_word_new_br5 | exact<br>spider<br>manual<br>sponsor<br>learn |  
-| bip_39_word_new_br6 | exact<br>spider<br>manual<br>sponsor<br>learn<br>twenty |  
-| bip_39_word_new_br7 | exact<br>spider<br>manual<br>sponsor<br>learn<br>twenty<br>super |  
-| bip_39_word_new_br8 | exact<br>spider<br>manual<br>sponsor<br>learn<br>twenty<br>super<br>bacon |  
-| bip_39_word_new_br9 | exact<br>spider<br>manual<br>sponsor<br>learn<br>twenty<br>super<br>bacon<br>cupboard |  
-| bip_39_word_new_line1 | exact |  
-| bip_39_word_new_line10 | exact
+| bip_39_word_new_br_1 | exact |  
+| bip_39_word_new_br_10 | exact<br>spider<br>manual<br>sponsor<br>learn<br>twenty<br>super<br>bacon<br>cupboard<br>blouse |  
+| bip_39_word_new_br_11 | exact<br>spider<br>manual<br>sponsor<br>learn<br>twenty<br>super<br>bacon<br>cupboard<br>blouse<br>acid |  
+| bip_39_word_new_br_12 | exact<br>spider<br>manual<br>sponsor<br>learn<br>twenty<br>super<br>bacon<br>cupboard<br>blouse<br>acid<br>antenna |  
+| bip_39_word_new_br_2 | exact<br>spider |  
+| bip_39_word_new_br_3 | exact<br>spider<br>manual |  
+| bip_39_word_new_br_4 | exact<br>spider<br>manual<br>sponsor |  
+| bip_39_word_new_br_5 | exact<br>spider<br>manual<br>sponsor<br>learn |  
+| bip_39_word_new_br_6 | exact<br>spider<br>manual<br>sponsor<br>learn<br>twenty |  
+| bip_39_word_new_br_7 | exact<br>spider<br>manual<br>sponsor<br>learn<br>twenty<br>super |  
+| bip_39_word_new_br_8 | exact<br>spider<br>manual<br>sponsor<br>learn<br>twenty<br>super<br>bacon |  
+| bip_39_word_new_br_9 | exact<br>spider<br>manual<br>sponsor<br>learn<br>twenty<br>super<br>bacon<br>cupboard |  
+| bip_39_word_new_line_1 | exact |  
+| bip_39_word_new_line_10 | exact
 spider
 manual
 sponsor
@@ -55,7 +55,7 @@ super
 bacon
 cupboard
 blouse |  
-| bip_39_word_new_line11 | exact
+| bip_39_word_new_line_11 | exact
 spider
 manual
 sponsor
@@ -66,7 +66,7 @@ bacon
 cupboard
 blouse
 acid |  
-| bip_39_word_new_line12 | exact
+| bip_39_word_new_line_12 | exact
 spider
 manual
 sponsor
@@ -78,34 +78,34 @@ cupboard
 blouse
 acid
 antenna |  
-| bip_39_word_new_line2 | exact
+| bip_39_word_new_line_2 | exact
 spider |  
-| bip_39_word_new_line3 | exact
+| bip_39_word_new_line_3 | exact
 spider
 manual |  
-| bip_39_word_new_line4 | exact
+| bip_39_word_new_line_4 | exact
 spider
 manual
 sponsor |  
-| bip_39_word_new_line5 | exact
+| bip_39_word_new_line_5 | exact
 spider
 manual
 sponsor
 learn |  
-| bip_39_word_new_line6 | exact
+| bip_39_word_new_line_6 | exact
 spider
 manual
 sponsor
 learn
 twenty |  
-| bip_39_word_new_line7 | exact
+| bip_39_word_new_line_7 | exact
 spider
 manual
 sponsor
 learn
 twenty
 super |  
-| bip_39_word_new_line8 | exact
+| bip_39_word_new_line_8 | exact
 spider
 manual
 sponsor
@@ -113,7 +113,7 @@ learn
 twenty
 super
 bacon |  
-| bip_39_word_new_line9 | exact
+| bip_39_word_new_line_9 | exact
 spider
 manual
 sponsor

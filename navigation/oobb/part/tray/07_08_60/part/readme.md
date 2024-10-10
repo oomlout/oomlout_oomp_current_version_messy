@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gesture |  
-| bip_39_word_new_br10 | gesture<br>rebel<br>fork<br>clinic<br>cupboard<br>sister<br>bring<br>soon<br>truly<br>visit |  
-| bip_39_word_new_br11 | gesture<br>rebel<br>fork<br>clinic<br>cupboard<br>sister<br>bring<br>soon<br>truly<br>visit<br>seed |  
-| bip_39_word_new_br12 | gesture<br>rebel<br>fork<br>clinic<br>cupboard<br>sister<br>bring<br>soon<br>truly<br>visit<br>seed<br>adjust |  
-| bip_39_word_new_br2 | gesture<br>rebel |  
-| bip_39_word_new_br3 | gesture<br>rebel<br>fork |  
-| bip_39_word_new_br4 | gesture<br>rebel<br>fork<br>clinic |  
-| bip_39_word_new_br5 | gesture<br>rebel<br>fork<br>clinic<br>cupboard |  
-| bip_39_word_new_br6 | gesture<br>rebel<br>fork<br>clinic<br>cupboard<br>sister |  
-| bip_39_word_new_br7 | gesture<br>rebel<br>fork<br>clinic<br>cupboard<br>sister<br>bring |  
-| bip_39_word_new_br8 | gesture<br>rebel<br>fork<br>clinic<br>cupboard<br>sister<br>bring<br>soon |  
-| bip_39_word_new_br9 | gesture<br>rebel<br>fork<br>clinic<br>cupboard<br>sister<br>bring<br>soon<br>truly |  
-| bip_39_word_new_line1 | gesture |  
-| bip_39_word_new_line10 | gesture
+| bip_39_word_new_br_1 | gesture |  
+| bip_39_word_new_br_10 | gesture<br>rebel<br>fork<br>clinic<br>cupboard<br>sister<br>bring<br>soon<br>truly<br>visit |  
+| bip_39_word_new_br_11 | gesture<br>rebel<br>fork<br>clinic<br>cupboard<br>sister<br>bring<br>soon<br>truly<br>visit<br>seed |  
+| bip_39_word_new_br_12 | gesture<br>rebel<br>fork<br>clinic<br>cupboard<br>sister<br>bring<br>soon<br>truly<br>visit<br>seed<br>adjust |  
+| bip_39_word_new_br_2 | gesture<br>rebel |  
+| bip_39_word_new_br_3 | gesture<br>rebel<br>fork |  
+| bip_39_word_new_br_4 | gesture<br>rebel<br>fork<br>clinic |  
+| bip_39_word_new_br_5 | gesture<br>rebel<br>fork<br>clinic<br>cupboard |  
+| bip_39_word_new_br_6 | gesture<br>rebel<br>fork<br>clinic<br>cupboard<br>sister |  
+| bip_39_word_new_br_7 | gesture<br>rebel<br>fork<br>clinic<br>cupboard<br>sister<br>bring |  
+| bip_39_word_new_br_8 | gesture<br>rebel<br>fork<br>clinic<br>cupboard<br>sister<br>bring<br>soon |  
+| bip_39_word_new_br_9 | gesture<br>rebel<br>fork<br>clinic<br>cupboard<br>sister<br>bring<br>soon<br>truly |  
+| bip_39_word_new_line_1 | gesture |  
+| bip_39_word_new_line_10 | gesture
 rebel
 fork
 clinic
@@ -55,7 +55,7 @@ bring
 soon
 truly
 visit |  
-| bip_39_word_new_line11 | gesture
+| bip_39_word_new_line_11 | gesture
 rebel
 fork
 clinic
@@ -66,7 +66,7 @@ soon
 truly
 visit
 seed |  
-| bip_39_word_new_line12 | gesture
+| bip_39_word_new_line_12 | gesture
 rebel
 fork
 clinic
@@ -78,34 +78,34 @@ truly
 visit
 seed
 adjust |  
-| bip_39_word_new_line2 | gesture
+| bip_39_word_new_line_2 | gesture
 rebel |  
-| bip_39_word_new_line3 | gesture
+| bip_39_word_new_line_3 | gesture
 rebel
 fork |  
-| bip_39_word_new_line4 | gesture
+| bip_39_word_new_line_4 | gesture
 rebel
 fork
 clinic |  
-| bip_39_word_new_line5 | gesture
+| bip_39_word_new_line_5 | gesture
 rebel
 fork
 clinic
 cupboard |  
-| bip_39_word_new_line6 | gesture
+| bip_39_word_new_line_6 | gesture
 rebel
 fork
 clinic
 cupboard
 sister |  
-| bip_39_word_new_line7 | gesture
+| bip_39_word_new_line_7 | gesture
 rebel
 fork
 clinic
 cupboard
 sister
 bring |  
-| bip_39_word_new_line8 | gesture
+| bip_39_word_new_line_8 | gesture
 rebel
 fork
 clinic
@@ -113,7 +113,7 @@ cupboard
 sister
 bring
 soon |  
-| bip_39_word_new_line9 | gesture
+| bip_39_word_new_line_9 | gesture
 rebel
 fork
 clinic

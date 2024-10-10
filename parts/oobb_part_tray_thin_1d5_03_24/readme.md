@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | art |  
-| bip_39_word_new_br10 | art<br>duck<br>slush<br>enrich<br>claw<br>prevent<br>scan<br>rigid<br>bean<br>bike |  
-| bip_39_word_new_br11 | art<br>duck<br>slush<br>enrich<br>claw<br>prevent<br>scan<br>rigid<br>bean<br>bike<br>music |  
-| bip_39_word_new_br12 | art<br>duck<br>slush<br>enrich<br>claw<br>prevent<br>scan<br>rigid<br>bean<br>bike<br>music<br>act |  
-| bip_39_word_new_br2 | art<br>duck |  
-| bip_39_word_new_br3 | art<br>duck<br>slush |  
-| bip_39_word_new_br4 | art<br>duck<br>slush<br>enrich |  
-| bip_39_word_new_br5 | art<br>duck<br>slush<br>enrich<br>claw |  
-| bip_39_word_new_br6 | art<br>duck<br>slush<br>enrich<br>claw<br>prevent |  
-| bip_39_word_new_br7 | art<br>duck<br>slush<br>enrich<br>claw<br>prevent<br>scan |  
-| bip_39_word_new_br8 | art<br>duck<br>slush<br>enrich<br>claw<br>prevent<br>scan<br>rigid |  
-| bip_39_word_new_br9 | art<br>duck<br>slush<br>enrich<br>claw<br>prevent<br>scan<br>rigid<br>bean |  
-| bip_39_word_new_line1 | art |  
-| bip_39_word_new_line10 | art
+| bip_39_word_new_br_1 | art |  
+| bip_39_word_new_br_10 | art<br>duck<br>slush<br>enrich<br>claw<br>prevent<br>scan<br>rigid<br>bean<br>bike |  
+| bip_39_word_new_br_11 | art<br>duck<br>slush<br>enrich<br>claw<br>prevent<br>scan<br>rigid<br>bean<br>bike<br>music |  
+| bip_39_word_new_br_12 | art<br>duck<br>slush<br>enrich<br>claw<br>prevent<br>scan<br>rigid<br>bean<br>bike<br>music<br>act |  
+| bip_39_word_new_br_2 | art<br>duck |  
+| bip_39_word_new_br_3 | art<br>duck<br>slush |  
+| bip_39_word_new_br_4 | art<br>duck<br>slush<br>enrich |  
+| bip_39_word_new_br_5 | art<br>duck<br>slush<br>enrich<br>claw |  
+| bip_39_word_new_br_6 | art<br>duck<br>slush<br>enrich<br>claw<br>prevent |  
+| bip_39_word_new_br_7 | art<br>duck<br>slush<br>enrich<br>claw<br>prevent<br>scan |  
+| bip_39_word_new_br_8 | art<br>duck<br>slush<br>enrich<br>claw<br>prevent<br>scan<br>rigid |  
+| bip_39_word_new_br_9 | art<br>duck<br>slush<br>enrich<br>claw<br>prevent<br>scan<br>rigid<br>bean |  
+| bip_39_word_new_line_1 | art |  
+| bip_39_word_new_line_10 | art
 duck
 slush
 enrich
@@ -55,7 +55,7 @@ scan
 rigid
 bean
 bike |  
-| bip_39_word_new_line11 | art
+| bip_39_word_new_line_11 | art
 duck
 slush
 enrich
@@ -66,7 +66,7 @@ rigid
 bean
 bike
 music |  
-| bip_39_word_new_line12 | art
+| bip_39_word_new_line_12 | art
 duck
 slush
 enrich
@@ -78,34 +78,34 @@ bean
 bike
 music
 act |  
-| bip_39_word_new_line2 | art
+| bip_39_word_new_line_2 | art
 duck |  
-| bip_39_word_new_line3 | art
+| bip_39_word_new_line_3 | art
 duck
 slush |  
-| bip_39_word_new_line4 | art
+| bip_39_word_new_line_4 | art
 duck
 slush
 enrich |  
-| bip_39_word_new_line5 | art
+| bip_39_word_new_line_5 | art
 duck
 slush
 enrich
 claw |  
-| bip_39_word_new_line6 | art
+| bip_39_word_new_line_6 | art
 duck
 slush
 enrich
 claw
 prevent |  
-| bip_39_word_new_line7 | art
+| bip_39_word_new_line_7 | art
 duck
 slush
 enrich
 claw
 prevent
 scan |  
-| bip_39_word_new_line8 | art
+| bip_39_word_new_line_8 | art
 duck
 slush
 enrich
@@ -113,7 +113,7 @@ claw
 prevent
 scan
 rigid |  
-| bip_39_word_new_line9 | art
+| bip_39_word_new_line_9 | art
 duck
 slush
 enrich

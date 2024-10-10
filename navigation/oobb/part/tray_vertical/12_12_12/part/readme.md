@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | access |  
-| bip_39_word_new_br10 | access<br>famous<br>nuclear<br>foil<br>skirt<br>day<br>burden<br>draw<br>firm<br>pilot |  
-| bip_39_word_new_br11 | access<br>famous<br>nuclear<br>foil<br>skirt<br>day<br>burden<br>draw<br>firm<br>pilot<br>gym |  
-| bip_39_word_new_br12 | access<br>famous<br>nuclear<br>foil<br>skirt<br>day<br>burden<br>draw<br>firm<br>pilot<br>gym<br>autumn |  
-| bip_39_word_new_br2 | access<br>famous |  
-| bip_39_word_new_br3 | access<br>famous<br>nuclear |  
-| bip_39_word_new_br4 | access<br>famous<br>nuclear<br>foil |  
-| bip_39_word_new_br5 | access<br>famous<br>nuclear<br>foil<br>skirt |  
-| bip_39_word_new_br6 | access<br>famous<br>nuclear<br>foil<br>skirt<br>day |  
-| bip_39_word_new_br7 | access<br>famous<br>nuclear<br>foil<br>skirt<br>day<br>burden |  
-| bip_39_word_new_br8 | access<br>famous<br>nuclear<br>foil<br>skirt<br>day<br>burden<br>draw |  
-| bip_39_word_new_br9 | access<br>famous<br>nuclear<br>foil<br>skirt<br>day<br>burden<br>draw<br>firm |  
-| bip_39_word_new_line1 | access |  
-| bip_39_word_new_line10 | access
+| bip_39_word_new_br_1 | access |  
+| bip_39_word_new_br_10 | access<br>famous<br>nuclear<br>foil<br>skirt<br>day<br>burden<br>draw<br>firm<br>pilot |  
+| bip_39_word_new_br_11 | access<br>famous<br>nuclear<br>foil<br>skirt<br>day<br>burden<br>draw<br>firm<br>pilot<br>gym |  
+| bip_39_word_new_br_12 | access<br>famous<br>nuclear<br>foil<br>skirt<br>day<br>burden<br>draw<br>firm<br>pilot<br>gym<br>autumn |  
+| bip_39_word_new_br_2 | access<br>famous |  
+| bip_39_word_new_br_3 | access<br>famous<br>nuclear |  
+| bip_39_word_new_br_4 | access<br>famous<br>nuclear<br>foil |  
+| bip_39_word_new_br_5 | access<br>famous<br>nuclear<br>foil<br>skirt |  
+| bip_39_word_new_br_6 | access<br>famous<br>nuclear<br>foil<br>skirt<br>day |  
+| bip_39_word_new_br_7 | access<br>famous<br>nuclear<br>foil<br>skirt<br>day<br>burden |  
+| bip_39_word_new_br_8 | access<br>famous<br>nuclear<br>foil<br>skirt<br>day<br>burden<br>draw |  
+| bip_39_word_new_br_9 | access<br>famous<br>nuclear<br>foil<br>skirt<br>day<br>burden<br>draw<br>firm |  
+| bip_39_word_new_line_1 | access |  
+| bip_39_word_new_line_10 | access
 famous
 nuclear
 foil
@@ -55,7 +55,7 @@ burden
 draw
 firm
 pilot |  
-| bip_39_word_new_line11 | access
+| bip_39_word_new_line_11 | access
 famous
 nuclear
 foil
@@ -66,7 +66,7 @@ draw
 firm
 pilot
 gym |  
-| bip_39_word_new_line12 | access
+| bip_39_word_new_line_12 | access
 famous
 nuclear
 foil
@@ -78,34 +78,34 @@ firm
 pilot
 gym
 autumn |  
-| bip_39_word_new_line2 | access
+| bip_39_word_new_line_2 | access
 famous |  
-| bip_39_word_new_line3 | access
+| bip_39_word_new_line_3 | access
 famous
 nuclear |  
-| bip_39_word_new_line4 | access
+| bip_39_word_new_line_4 | access
 famous
 nuclear
 foil |  
-| bip_39_word_new_line5 | access
+| bip_39_word_new_line_5 | access
 famous
 nuclear
 foil
 skirt |  
-| bip_39_word_new_line6 | access
+| bip_39_word_new_line_6 | access
 famous
 nuclear
 foil
 skirt
 day |  
-| bip_39_word_new_line7 | access
+| bip_39_word_new_line_7 | access
 famous
 nuclear
 foil
 skirt
 day
 burden |  
-| bip_39_word_new_line8 | access
+| bip_39_word_new_line_8 | access
 famous
 nuclear
 foil
@@ -113,7 +113,7 @@ skirt
 day
 burden
 draw |  
-| bip_39_word_new_line9 | access
+| bip_39_word_new_line_9 | access
 famous
 nuclear
 foil

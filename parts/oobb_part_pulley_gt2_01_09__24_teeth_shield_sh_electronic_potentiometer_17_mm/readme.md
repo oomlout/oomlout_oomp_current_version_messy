@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gain |  
-| bip_39_word_new_br10 | gain<br>tiger<br>message<br>frost<br>wall<br>ability<br>pair<br>mouse<br>peace<br>indicate |  
-| bip_39_word_new_br11 | gain<br>tiger<br>message<br>frost<br>wall<br>ability<br>pair<br>mouse<br>peace<br>indicate<br>warfare |  
-| bip_39_word_new_br12 | gain<br>tiger<br>message<br>frost<br>wall<br>ability<br>pair<br>mouse<br>peace<br>indicate<br>warfare<br>aunt |  
-| bip_39_word_new_br2 | gain<br>tiger |  
-| bip_39_word_new_br3 | gain<br>tiger<br>message |  
-| bip_39_word_new_br4 | gain<br>tiger<br>message<br>frost |  
-| bip_39_word_new_br5 | gain<br>tiger<br>message<br>frost<br>wall |  
-| bip_39_word_new_br6 | gain<br>tiger<br>message<br>frost<br>wall<br>ability |  
-| bip_39_word_new_br7 | gain<br>tiger<br>message<br>frost<br>wall<br>ability<br>pair |  
-| bip_39_word_new_br8 | gain<br>tiger<br>message<br>frost<br>wall<br>ability<br>pair<br>mouse |  
-| bip_39_word_new_br9 | gain<br>tiger<br>message<br>frost<br>wall<br>ability<br>pair<br>mouse<br>peace |  
-| bip_39_word_new_line1 | gain |  
-| bip_39_word_new_line10 | gain
+| bip_39_word_new_br_1 | gain |  
+| bip_39_word_new_br_10 | gain<br>tiger<br>message<br>frost<br>wall<br>ability<br>pair<br>mouse<br>peace<br>indicate |  
+| bip_39_word_new_br_11 | gain<br>tiger<br>message<br>frost<br>wall<br>ability<br>pair<br>mouse<br>peace<br>indicate<br>warfare |  
+| bip_39_word_new_br_12 | gain<br>tiger<br>message<br>frost<br>wall<br>ability<br>pair<br>mouse<br>peace<br>indicate<br>warfare<br>aunt |  
+| bip_39_word_new_br_2 | gain<br>tiger |  
+| bip_39_word_new_br_3 | gain<br>tiger<br>message |  
+| bip_39_word_new_br_4 | gain<br>tiger<br>message<br>frost |  
+| bip_39_word_new_br_5 | gain<br>tiger<br>message<br>frost<br>wall |  
+| bip_39_word_new_br_6 | gain<br>tiger<br>message<br>frost<br>wall<br>ability |  
+| bip_39_word_new_br_7 | gain<br>tiger<br>message<br>frost<br>wall<br>ability<br>pair |  
+| bip_39_word_new_br_8 | gain<br>tiger<br>message<br>frost<br>wall<br>ability<br>pair<br>mouse |  
+| bip_39_word_new_br_9 | gain<br>tiger<br>message<br>frost<br>wall<br>ability<br>pair<br>mouse<br>peace |  
+| bip_39_word_new_line_1 | gain |  
+| bip_39_word_new_line_10 | gain
 tiger
 message
 frost
@@ -55,7 +55,7 @@ pair
 mouse
 peace
 indicate |  
-| bip_39_word_new_line11 | gain
+| bip_39_word_new_line_11 | gain
 tiger
 message
 frost
@@ -66,7 +66,7 @@ mouse
 peace
 indicate
 warfare |  
-| bip_39_word_new_line12 | gain
+| bip_39_word_new_line_12 | gain
 tiger
 message
 frost
@@ -78,34 +78,34 @@ peace
 indicate
 warfare
 aunt |  
-| bip_39_word_new_line2 | gain
+| bip_39_word_new_line_2 | gain
 tiger |  
-| bip_39_word_new_line3 | gain
+| bip_39_word_new_line_3 | gain
 tiger
 message |  
-| bip_39_word_new_line4 | gain
+| bip_39_word_new_line_4 | gain
 tiger
 message
 frost |  
-| bip_39_word_new_line5 | gain
+| bip_39_word_new_line_5 | gain
 tiger
 message
 frost
 wall |  
-| bip_39_word_new_line6 | gain
+| bip_39_word_new_line_6 | gain
 tiger
 message
 frost
 wall
 ability |  
-| bip_39_word_new_line7 | gain
+| bip_39_word_new_line_7 | gain
 tiger
 message
 frost
 wall
 ability
 pair |  
-| bip_39_word_new_line8 | gain
+| bip_39_word_new_line_8 | gain
 tiger
 message
 frost
@@ -113,7 +113,7 @@ wall
 ability
 pair
 mouse |  
-| bip_39_word_new_line9 | gain
+| bip_39_word_new_line_9 | gain
 tiger
 message
 frost

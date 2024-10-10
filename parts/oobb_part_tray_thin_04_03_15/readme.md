@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | alter |  
-| bip_39_word_new_br10 | alter<br>answer<br>uphold<br>leaf<br>dinner<br>pipe<br>start<br>quiz<br>film<br>spider |  
-| bip_39_word_new_br11 | alter<br>answer<br>uphold<br>leaf<br>dinner<br>pipe<br>start<br>quiz<br>film<br>spider<br>slogan |  
-| bip_39_word_new_br12 | alter<br>answer<br>uphold<br>leaf<br>dinner<br>pipe<br>start<br>quiz<br>film<br>spider<br>slogan<br>amazing |  
-| bip_39_word_new_br2 | alter<br>answer |  
-| bip_39_word_new_br3 | alter<br>answer<br>uphold |  
-| bip_39_word_new_br4 | alter<br>answer<br>uphold<br>leaf |  
-| bip_39_word_new_br5 | alter<br>answer<br>uphold<br>leaf<br>dinner |  
-| bip_39_word_new_br6 | alter<br>answer<br>uphold<br>leaf<br>dinner<br>pipe |  
-| bip_39_word_new_br7 | alter<br>answer<br>uphold<br>leaf<br>dinner<br>pipe<br>start |  
-| bip_39_word_new_br8 | alter<br>answer<br>uphold<br>leaf<br>dinner<br>pipe<br>start<br>quiz |  
-| bip_39_word_new_br9 | alter<br>answer<br>uphold<br>leaf<br>dinner<br>pipe<br>start<br>quiz<br>film |  
-| bip_39_word_new_line1 | alter |  
-| bip_39_word_new_line10 | alter
+| bip_39_word_new_br_1 | alter |  
+| bip_39_word_new_br_10 | alter<br>answer<br>uphold<br>leaf<br>dinner<br>pipe<br>start<br>quiz<br>film<br>spider |  
+| bip_39_word_new_br_11 | alter<br>answer<br>uphold<br>leaf<br>dinner<br>pipe<br>start<br>quiz<br>film<br>spider<br>slogan |  
+| bip_39_word_new_br_12 | alter<br>answer<br>uphold<br>leaf<br>dinner<br>pipe<br>start<br>quiz<br>film<br>spider<br>slogan<br>amazing |  
+| bip_39_word_new_br_2 | alter<br>answer |  
+| bip_39_word_new_br_3 | alter<br>answer<br>uphold |  
+| bip_39_word_new_br_4 | alter<br>answer<br>uphold<br>leaf |  
+| bip_39_word_new_br_5 | alter<br>answer<br>uphold<br>leaf<br>dinner |  
+| bip_39_word_new_br_6 | alter<br>answer<br>uphold<br>leaf<br>dinner<br>pipe |  
+| bip_39_word_new_br_7 | alter<br>answer<br>uphold<br>leaf<br>dinner<br>pipe<br>start |  
+| bip_39_word_new_br_8 | alter<br>answer<br>uphold<br>leaf<br>dinner<br>pipe<br>start<br>quiz |  
+| bip_39_word_new_br_9 | alter<br>answer<br>uphold<br>leaf<br>dinner<br>pipe<br>start<br>quiz<br>film |  
+| bip_39_word_new_line_1 | alter |  
+| bip_39_word_new_line_10 | alter
 answer
 uphold
 leaf
@@ -55,7 +55,7 @@ start
 quiz
 film
 spider |  
-| bip_39_word_new_line11 | alter
+| bip_39_word_new_line_11 | alter
 answer
 uphold
 leaf
@@ -66,7 +66,7 @@ quiz
 film
 spider
 slogan |  
-| bip_39_word_new_line12 | alter
+| bip_39_word_new_line_12 | alter
 answer
 uphold
 leaf
@@ -78,34 +78,34 @@ film
 spider
 slogan
 amazing |  
-| bip_39_word_new_line2 | alter
+| bip_39_word_new_line_2 | alter
 answer |  
-| bip_39_word_new_line3 | alter
+| bip_39_word_new_line_3 | alter
 answer
 uphold |  
-| bip_39_word_new_line4 | alter
+| bip_39_word_new_line_4 | alter
 answer
 uphold
 leaf |  
-| bip_39_word_new_line5 | alter
+| bip_39_word_new_line_5 | alter
 answer
 uphold
 leaf
 dinner |  
-| bip_39_word_new_line6 | alter
+| bip_39_word_new_line_6 | alter
 answer
 uphold
 leaf
 dinner
 pipe |  
-| bip_39_word_new_line7 | alter
+| bip_39_word_new_line_7 | alter
 answer
 uphold
 leaf
 dinner
 pipe
 start |  
-| bip_39_word_new_line8 | alter
+| bip_39_word_new_line_8 | alter
 answer
 uphold
 leaf
@@ -113,7 +113,7 @@ dinner
 pipe
 start
 quiz |  
-| bip_39_word_new_line9 | alter
+| bip_39_word_new_line_9 | alter
 answer
 uphold
 leaf

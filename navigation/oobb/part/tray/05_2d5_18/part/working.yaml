@@ -1,17 +1,17 @@
-bip_39_word_new_br1: dash
-bip_39_word_new_br10: dash<br>sell<br>huge<br>midnight<br>fortune<br>illness<br>aunt<br>retire<br>choose<br>outside
-bip_39_word_new_br11: dash<br>sell<br>huge<br>midnight<br>fortune<br>illness<br>aunt<br>retire<br>choose<br>outside<br>among
-bip_39_word_new_br12: dash<br>sell<br>huge<br>midnight<br>fortune<br>illness<br>aunt<br>retire<br>choose<br>outside<br>among<br>army
-bip_39_word_new_br2: dash<br>sell
-bip_39_word_new_br3: dash<br>sell<br>huge
-bip_39_word_new_br4: dash<br>sell<br>huge<br>midnight
-bip_39_word_new_br5: dash<br>sell<br>huge<br>midnight<br>fortune
-bip_39_word_new_br6: dash<br>sell<br>huge<br>midnight<br>fortune<br>illness
-bip_39_word_new_br7: dash<br>sell<br>huge<br>midnight<br>fortune<br>illness<br>aunt
-bip_39_word_new_br8: dash<br>sell<br>huge<br>midnight<br>fortune<br>illness<br>aunt<br>retire
-bip_39_word_new_br9: dash<br>sell<br>huge<br>midnight<br>fortune<br>illness<br>aunt<br>retire<br>choose
-bip_39_word_new_line1: dash
-bip_39_word_new_line10: 'dash
+bip_39_word_new_br_1: dash
+bip_39_word_new_br_10: dash<br>sell<br>huge<br>midnight<br>fortune<br>illness<br>aunt<br>retire<br>choose<br>outside
+bip_39_word_new_br_11: dash<br>sell<br>huge<br>midnight<br>fortune<br>illness<br>aunt<br>retire<br>choose<br>outside<br>among
+bip_39_word_new_br_12: dash<br>sell<br>huge<br>midnight<br>fortune<br>illness<br>aunt<br>retire<br>choose<br>outside<br>among<br>army
+bip_39_word_new_br_2: dash<br>sell
+bip_39_word_new_br_3: dash<br>sell<br>huge
+bip_39_word_new_br_4: dash<br>sell<br>huge<br>midnight
+bip_39_word_new_br_5: dash<br>sell<br>huge<br>midnight<br>fortune
+bip_39_word_new_br_6: dash<br>sell<br>huge<br>midnight<br>fortune<br>illness
+bip_39_word_new_br_7: dash<br>sell<br>huge<br>midnight<br>fortune<br>illness<br>aunt
+bip_39_word_new_br_8: dash<br>sell<br>huge<br>midnight<br>fortune<br>illness<br>aunt<br>retire
+bip_39_word_new_br_9: dash<br>sell<br>huge<br>midnight<br>fortune<br>illness<br>aunt<br>retire<br>choose
+bip_39_word_new_line_1: dash
+bip_39_word_new_line_10: 'dash
 
   sell
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'dash
   choose
 
   outside'
-bip_39_word_new_line11: 'dash
+bip_39_word_new_line_11: 'dash
 
   sell
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'dash
   outside
 
   among'
-bip_39_word_new_line12: 'dash
+bip_39_word_new_line_12: 'dash
 
   sell
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'dash
   among
 
   army'
-bip_39_word_new_line2: 'dash
+bip_39_word_new_line_2: 'dash
 
   sell'
-bip_39_word_new_line3: 'dash
+bip_39_word_new_line_3: 'dash
 
   sell
 
   huge'
-bip_39_word_new_line4: 'dash
+bip_39_word_new_line_4: 'dash
 
   sell
 
   huge
 
   midnight'
-bip_39_word_new_line5: 'dash
+bip_39_word_new_line_5: 'dash
 
   sell
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'dash
   midnight
 
   fortune'
-bip_39_word_new_line6: 'dash
+bip_39_word_new_line_6: 'dash
 
   sell
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'dash
   fortune
 
   illness'
-bip_39_word_new_line7: 'dash
+bip_39_word_new_line_7: 'dash
 
   sell
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'dash
   illness
 
   aunt'
-bip_39_word_new_line8: 'dash
+bip_39_word_new_line_8: 'dash
 
   sell
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'dash
   aunt
 
   retire'
-bip_39_word_new_line9: 'dash
+bip_39_word_new_line_9: 'dash
 
   sell
 

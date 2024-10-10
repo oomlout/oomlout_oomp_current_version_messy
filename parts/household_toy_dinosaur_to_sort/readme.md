@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | finger |  
-| bip_39_word_new_br10 | finger<br>puppy<br>sample<br>utility<br>oxygen<br>scene<br>attack<br>slice<br>oyster<br>flat |  
-| bip_39_word_new_br11 | finger<br>puppy<br>sample<br>utility<br>oxygen<br>scene<br>attack<br>slice<br>oyster<br>flat<br>conduct |  
-| bip_39_word_new_br12 | finger<br>puppy<br>sample<br>utility<br>oxygen<br>scene<br>attack<br>slice<br>oyster<br>flat<br>conduct<br>advice |  
-| bip_39_word_new_br2 | finger<br>puppy |  
-| bip_39_word_new_br3 | finger<br>puppy<br>sample |  
-| bip_39_word_new_br4 | finger<br>puppy<br>sample<br>utility |  
-| bip_39_word_new_br5 | finger<br>puppy<br>sample<br>utility<br>oxygen |  
-| bip_39_word_new_br6 | finger<br>puppy<br>sample<br>utility<br>oxygen<br>scene |  
-| bip_39_word_new_br7 | finger<br>puppy<br>sample<br>utility<br>oxygen<br>scene<br>attack |  
-| bip_39_word_new_br8 | finger<br>puppy<br>sample<br>utility<br>oxygen<br>scene<br>attack<br>slice |  
-| bip_39_word_new_br9 | finger<br>puppy<br>sample<br>utility<br>oxygen<br>scene<br>attack<br>slice<br>oyster |  
-| bip_39_word_new_line1 | finger |  
-| bip_39_word_new_line10 | finger
+| bip_39_word_new_br_1 | finger |  
+| bip_39_word_new_br_10 | finger<br>puppy<br>sample<br>utility<br>oxygen<br>scene<br>attack<br>slice<br>oyster<br>flat |  
+| bip_39_word_new_br_11 | finger<br>puppy<br>sample<br>utility<br>oxygen<br>scene<br>attack<br>slice<br>oyster<br>flat<br>conduct |  
+| bip_39_word_new_br_12 | finger<br>puppy<br>sample<br>utility<br>oxygen<br>scene<br>attack<br>slice<br>oyster<br>flat<br>conduct<br>advice |  
+| bip_39_word_new_br_2 | finger<br>puppy |  
+| bip_39_word_new_br_3 | finger<br>puppy<br>sample |  
+| bip_39_word_new_br_4 | finger<br>puppy<br>sample<br>utility |  
+| bip_39_word_new_br_5 | finger<br>puppy<br>sample<br>utility<br>oxygen |  
+| bip_39_word_new_br_6 | finger<br>puppy<br>sample<br>utility<br>oxygen<br>scene |  
+| bip_39_word_new_br_7 | finger<br>puppy<br>sample<br>utility<br>oxygen<br>scene<br>attack |  
+| bip_39_word_new_br_8 | finger<br>puppy<br>sample<br>utility<br>oxygen<br>scene<br>attack<br>slice |  
+| bip_39_word_new_br_9 | finger<br>puppy<br>sample<br>utility<br>oxygen<br>scene<br>attack<br>slice<br>oyster |  
+| bip_39_word_new_line_1 | finger |  
+| bip_39_word_new_line_10 | finger
 puppy
 sample
 utility
@@ -55,7 +55,7 @@ attack
 slice
 oyster
 flat |  
-| bip_39_word_new_line11 | finger
+| bip_39_word_new_line_11 | finger
 puppy
 sample
 utility
@@ -66,7 +66,7 @@ slice
 oyster
 flat
 conduct |  
-| bip_39_word_new_line12 | finger
+| bip_39_word_new_line_12 | finger
 puppy
 sample
 utility
@@ -78,34 +78,34 @@ oyster
 flat
 conduct
 advice |  
-| bip_39_word_new_line2 | finger
+| bip_39_word_new_line_2 | finger
 puppy |  
-| bip_39_word_new_line3 | finger
+| bip_39_word_new_line_3 | finger
 puppy
 sample |  
-| bip_39_word_new_line4 | finger
+| bip_39_word_new_line_4 | finger
 puppy
 sample
 utility |  
-| bip_39_word_new_line5 | finger
+| bip_39_word_new_line_5 | finger
 puppy
 sample
 utility
 oxygen |  
-| bip_39_word_new_line6 | finger
+| bip_39_word_new_line_6 | finger
 puppy
 sample
 utility
 oxygen
 scene |  
-| bip_39_word_new_line7 | finger
+| bip_39_word_new_line_7 | finger
 puppy
 sample
 utility
 oxygen
 scene
 attack |  
-| bip_39_word_new_line8 | finger
+| bip_39_word_new_line_8 | finger
 puppy
 sample
 utility
@@ -113,7 +113,7 @@ oxygen
 scene
 attack
 slice |  
-| bip_39_word_new_line9 | finger
+| bip_39_word_new_line_9 | finger
 puppy
 sample
 utility

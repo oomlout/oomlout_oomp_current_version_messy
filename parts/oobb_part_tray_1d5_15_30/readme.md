@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | trap |  
-| bip_39_word_new_br10 | trap<br>pair<br>riot<br>guard<br>grid<br>remain<br>pave<br>beach<br>melt<br>cluster |  
-| bip_39_word_new_br11 | trap<br>pair<br>riot<br>guard<br>grid<br>remain<br>pave<br>beach<br>melt<br>cluster<br>train |  
-| bip_39_word_new_br12 | trap<br>pair<br>riot<br>guard<br>grid<br>remain<br>pave<br>beach<br>melt<br>cluster<br>train<br>album |  
-| bip_39_word_new_br2 | trap<br>pair |  
-| bip_39_word_new_br3 | trap<br>pair<br>riot |  
-| bip_39_word_new_br4 | trap<br>pair<br>riot<br>guard |  
-| bip_39_word_new_br5 | trap<br>pair<br>riot<br>guard<br>grid |  
-| bip_39_word_new_br6 | trap<br>pair<br>riot<br>guard<br>grid<br>remain |  
-| bip_39_word_new_br7 | trap<br>pair<br>riot<br>guard<br>grid<br>remain<br>pave |  
-| bip_39_word_new_br8 | trap<br>pair<br>riot<br>guard<br>grid<br>remain<br>pave<br>beach |  
-| bip_39_word_new_br9 | trap<br>pair<br>riot<br>guard<br>grid<br>remain<br>pave<br>beach<br>melt |  
-| bip_39_word_new_line1 | trap |  
-| bip_39_word_new_line10 | trap
+| bip_39_word_new_br_1 | trap |  
+| bip_39_word_new_br_10 | trap<br>pair<br>riot<br>guard<br>grid<br>remain<br>pave<br>beach<br>melt<br>cluster |  
+| bip_39_word_new_br_11 | trap<br>pair<br>riot<br>guard<br>grid<br>remain<br>pave<br>beach<br>melt<br>cluster<br>train |  
+| bip_39_word_new_br_12 | trap<br>pair<br>riot<br>guard<br>grid<br>remain<br>pave<br>beach<br>melt<br>cluster<br>train<br>album |  
+| bip_39_word_new_br_2 | trap<br>pair |  
+| bip_39_word_new_br_3 | trap<br>pair<br>riot |  
+| bip_39_word_new_br_4 | trap<br>pair<br>riot<br>guard |  
+| bip_39_word_new_br_5 | trap<br>pair<br>riot<br>guard<br>grid |  
+| bip_39_word_new_br_6 | trap<br>pair<br>riot<br>guard<br>grid<br>remain |  
+| bip_39_word_new_br_7 | trap<br>pair<br>riot<br>guard<br>grid<br>remain<br>pave |  
+| bip_39_word_new_br_8 | trap<br>pair<br>riot<br>guard<br>grid<br>remain<br>pave<br>beach |  
+| bip_39_word_new_br_9 | trap<br>pair<br>riot<br>guard<br>grid<br>remain<br>pave<br>beach<br>melt |  
+| bip_39_word_new_line_1 | trap |  
+| bip_39_word_new_line_10 | trap
 pair
 riot
 guard
@@ -55,7 +55,7 @@ pave
 beach
 melt
 cluster |  
-| bip_39_word_new_line11 | trap
+| bip_39_word_new_line_11 | trap
 pair
 riot
 guard
@@ -66,7 +66,7 @@ beach
 melt
 cluster
 train |  
-| bip_39_word_new_line12 | trap
+| bip_39_word_new_line_12 | trap
 pair
 riot
 guard
@@ -78,34 +78,34 @@ melt
 cluster
 train
 album |  
-| bip_39_word_new_line2 | trap
+| bip_39_word_new_line_2 | trap
 pair |  
-| bip_39_word_new_line3 | trap
+| bip_39_word_new_line_3 | trap
 pair
 riot |  
-| bip_39_word_new_line4 | trap
+| bip_39_word_new_line_4 | trap
 pair
 riot
 guard |  
-| bip_39_word_new_line5 | trap
+| bip_39_word_new_line_5 | trap
 pair
 riot
 guard
 grid |  
-| bip_39_word_new_line6 | trap
+| bip_39_word_new_line_6 | trap
 pair
 riot
 guard
 grid
 remain |  
-| bip_39_word_new_line7 | trap
+| bip_39_word_new_line_7 | trap
 pair
 riot
 guard
 grid
 remain
 pave |  
-| bip_39_word_new_line8 | trap
+| bip_39_word_new_line_8 | trap
 pair
 riot
 guard
@@ -113,7 +113,7 @@ grid
 remain
 pave
 beach |  
-| bip_39_word_new_line9 | trap
+| bip_39_word_new_line_9 | trap
 pair
 riot
 guard

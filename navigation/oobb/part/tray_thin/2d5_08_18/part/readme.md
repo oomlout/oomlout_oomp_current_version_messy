@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | other |  
-| bip_39_word_new_br10 | other<br>raccoon<br>lawn<br>spoon<br>trade<br>before<br>enforce<br>fame<br>auto<br>horn |  
-| bip_39_word_new_br11 | other<br>raccoon<br>lawn<br>spoon<br>trade<br>before<br>enforce<br>fame<br>auto<br>horn<br>hat |  
-| bip_39_word_new_br12 | other<br>raccoon<br>lawn<br>spoon<br>trade<br>before<br>enforce<br>fame<br>auto<br>horn<br>hat<br>amount |  
-| bip_39_word_new_br2 | other<br>raccoon |  
-| bip_39_word_new_br3 | other<br>raccoon<br>lawn |  
-| bip_39_word_new_br4 | other<br>raccoon<br>lawn<br>spoon |  
-| bip_39_word_new_br5 | other<br>raccoon<br>lawn<br>spoon<br>trade |  
-| bip_39_word_new_br6 | other<br>raccoon<br>lawn<br>spoon<br>trade<br>before |  
-| bip_39_word_new_br7 | other<br>raccoon<br>lawn<br>spoon<br>trade<br>before<br>enforce |  
-| bip_39_word_new_br8 | other<br>raccoon<br>lawn<br>spoon<br>trade<br>before<br>enforce<br>fame |  
-| bip_39_word_new_br9 | other<br>raccoon<br>lawn<br>spoon<br>trade<br>before<br>enforce<br>fame<br>auto |  
-| bip_39_word_new_line1 | other |  
-| bip_39_word_new_line10 | other
+| bip_39_word_new_br_1 | other |  
+| bip_39_word_new_br_10 | other<br>raccoon<br>lawn<br>spoon<br>trade<br>before<br>enforce<br>fame<br>auto<br>horn |  
+| bip_39_word_new_br_11 | other<br>raccoon<br>lawn<br>spoon<br>trade<br>before<br>enforce<br>fame<br>auto<br>horn<br>hat |  
+| bip_39_word_new_br_12 | other<br>raccoon<br>lawn<br>spoon<br>trade<br>before<br>enforce<br>fame<br>auto<br>horn<br>hat<br>amount |  
+| bip_39_word_new_br_2 | other<br>raccoon |  
+| bip_39_word_new_br_3 | other<br>raccoon<br>lawn |  
+| bip_39_word_new_br_4 | other<br>raccoon<br>lawn<br>spoon |  
+| bip_39_word_new_br_5 | other<br>raccoon<br>lawn<br>spoon<br>trade |  
+| bip_39_word_new_br_6 | other<br>raccoon<br>lawn<br>spoon<br>trade<br>before |  
+| bip_39_word_new_br_7 | other<br>raccoon<br>lawn<br>spoon<br>trade<br>before<br>enforce |  
+| bip_39_word_new_br_8 | other<br>raccoon<br>lawn<br>spoon<br>trade<br>before<br>enforce<br>fame |  
+| bip_39_word_new_br_9 | other<br>raccoon<br>lawn<br>spoon<br>trade<br>before<br>enforce<br>fame<br>auto |  
+| bip_39_word_new_line_1 | other |  
+| bip_39_word_new_line_10 | other
 raccoon
 lawn
 spoon
@@ -55,7 +55,7 @@ enforce
 fame
 auto
 horn |  
-| bip_39_word_new_line11 | other
+| bip_39_word_new_line_11 | other
 raccoon
 lawn
 spoon
@@ -66,7 +66,7 @@ fame
 auto
 horn
 hat |  
-| bip_39_word_new_line12 | other
+| bip_39_word_new_line_12 | other
 raccoon
 lawn
 spoon
@@ -78,34 +78,34 @@ auto
 horn
 hat
 amount |  
-| bip_39_word_new_line2 | other
+| bip_39_word_new_line_2 | other
 raccoon |  
-| bip_39_word_new_line3 | other
+| bip_39_word_new_line_3 | other
 raccoon
 lawn |  
-| bip_39_word_new_line4 | other
+| bip_39_word_new_line_4 | other
 raccoon
 lawn
 spoon |  
-| bip_39_word_new_line5 | other
+| bip_39_word_new_line_5 | other
 raccoon
 lawn
 spoon
 trade |  
-| bip_39_word_new_line6 | other
+| bip_39_word_new_line_6 | other
 raccoon
 lawn
 spoon
 trade
 before |  
-| bip_39_word_new_line7 | other
+| bip_39_word_new_line_7 | other
 raccoon
 lawn
 spoon
 trade
 before
 enforce |  
-| bip_39_word_new_line8 | other
+| bip_39_word_new_line_8 | other
 raccoon
 lawn
 spoon
@@ -113,7 +113,7 @@ trade
 before
 enforce
 fame |  
-| bip_39_word_new_line9 | other
+| bip_39_word_new_line_9 | other
 raccoon
 lawn
 spoon

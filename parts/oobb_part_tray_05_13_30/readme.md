@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | come |  
-| bip_39_word_new_br10 | come<br>yard<br>source<br>win<br>wreck<br>wire<br>cat<br>credit<br>ripple<br>model |  
-| bip_39_word_new_br11 | come<br>yard<br>source<br>win<br>wreck<br>wire<br>cat<br>credit<br>ripple<br>model<br>turn |  
-| bip_39_word_new_br12 | come<br>yard<br>source<br>win<br>wreck<br>wire<br>cat<br>credit<br>ripple<br>model<br>turn<br>again |  
-| bip_39_word_new_br2 | come<br>yard |  
-| bip_39_word_new_br3 | come<br>yard<br>source |  
-| bip_39_word_new_br4 | come<br>yard<br>source<br>win |  
-| bip_39_word_new_br5 | come<br>yard<br>source<br>win<br>wreck |  
-| bip_39_word_new_br6 | come<br>yard<br>source<br>win<br>wreck<br>wire |  
-| bip_39_word_new_br7 | come<br>yard<br>source<br>win<br>wreck<br>wire<br>cat |  
-| bip_39_word_new_br8 | come<br>yard<br>source<br>win<br>wreck<br>wire<br>cat<br>credit |  
-| bip_39_word_new_br9 | come<br>yard<br>source<br>win<br>wreck<br>wire<br>cat<br>credit<br>ripple |  
-| bip_39_word_new_line1 | come |  
-| bip_39_word_new_line10 | come
+| bip_39_word_new_br_1 | come |  
+| bip_39_word_new_br_10 | come<br>yard<br>source<br>win<br>wreck<br>wire<br>cat<br>credit<br>ripple<br>model |  
+| bip_39_word_new_br_11 | come<br>yard<br>source<br>win<br>wreck<br>wire<br>cat<br>credit<br>ripple<br>model<br>turn |  
+| bip_39_word_new_br_12 | come<br>yard<br>source<br>win<br>wreck<br>wire<br>cat<br>credit<br>ripple<br>model<br>turn<br>again |  
+| bip_39_word_new_br_2 | come<br>yard |  
+| bip_39_word_new_br_3 | come<br>yard<br>source |  
+| bip_39_word_new_br_4 | come<br>yard<br>source<br>win |  
+| bip_39_word_new_br_5 | come<br>yard<br>source<br>win<br>wreck |  
+| bip_39_word_new_br_6 | come<br>yard<br>source<br>win<br>wreck<br>wire |  
+| bip_39_word_new_br_7 | come<br>yard<br>source<br>win<br>wreck<br>wire<br>cat |  
+| bip_39_word_new_br_8 | come<br>yard<br>source<br>win<br>wreck<br>wire<br>cat<br>credit |  
+| bip_39_word_new_br_9 | come<br>yard<br>source<br>win<br>wreck<br>wire<br>cat<br>credit<br>ripple |  
+| bip_39_word_new_line_1 | come |  
+| bip_39_word_new_line_10 | come
 yard
 source
 win
@@ -55,7 +55,7 @@ cat
 credit
 ripple
 model |  
-| bip_39_word_new_line11 | come
+| bip_39_word_new_line_11 | come
 yard
 source
 win
@@ -66,7 +66,7 @@ credit
 ripple
 model
 turn |  
-| bip_39_word_new_line12 | come
+| bip_39_word_new_line_12 | come
 yard
 source
 win
@@ -78,34 +78,34 @@ ripple
 model
 turn
 again |  
-| bip_39_word_new_line2 | come
+| bip_39_word_new_line_2 | come
 yard |  
-| bip_39_word_new_line3 | come
+| bip_39_word_new_line_3 | come
 yard
 source |  
-| bip_39_word_new_line4 | come
+| bip_39_word_new_line_4 | come
 yard
 source
 win |  
-| bip_39_word_new_line5 | come
+| bip_39_word_new_line_5 | come
 yard
 source
 win
 wreck |  
-| bip_39_word_new_line6 | come
+| bip_39_word_new_line_6 | come
 yard
 source
 win
 wreck
 wire |  
-| bip_39_word_new_line7 | come
+| bip_39_word_new_line_7 | come
 yard
 source
 win
 wreck
 wire
 cat |  
-| bip_39_word_new_line8 | come
+| bip_39_word_new_line_8 | come
 yard
 source
 win
@@ -113,7 +113,7 @@ wreck
 wire
 cat
 credit |  
-| bip_39_word_new_line9 | come
+| bip_39_word_new_line_9 | come
 yard
 source
 win

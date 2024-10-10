@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wealth |  
-| bip_39_word_new_br10 | wealth<br>matrix<br>rigid<br>stick<br>canal<br>solar<br>volume<br>whip<br>glare<br>guide |  
-| bip_39_word_new_br11 | wealth<br>matrix<br>rigid<br>stick<br>canal<br>solar<br>volume<br>whip<br>glare<br>guide<br>chapter |  
-| bip_39_word_new_br12 | wealth<br>matrix<br>rigid<br>stick<br>canal<br>solar<br>volume<br>whip<br>glare<br>guide<br>chapter<br>appear |  
-| bip_39_word_new_br2 | wealth<br>matrix |  
-| bip_39_word_new_br3 | wealth<br>matrix<br>rigid |  
-| bip_39_word_new_br4 | wealth<br>matrix<br>rigid<br>stick |  
-| bip_39_word_new_br5 | wealth<br>matrix<br>rigid<br>stick<br>canal |  
-| bip_39_word_new_br6 | wealth<br>matrix<br>rigid<br>stick<br>canal<br>solar |  
-| bip_39_word_new_br7 | wealth<br>matrix<br>rigid<br>stick<br>canal<br>solar<br>volume |  
-| bip_39_word_new_br8 | wealth<br>matrix<br>rigid<br>stick<br>canal<br>solar<br>volume<br>whip |  
-| bip_39_word_new_br9 | wealth<br>matrix<br>rigid<br>stick<br>canal<br>solar<br>volume<br>whip<br>glare |  
-| bip_39_word_new_line1 | wealth |  
-| bip_39_word_new_line10 | wealth
+| bip_39_word_new_br_1 | wealth |  
+| bip_39_word_new_br_10 | wealth<br>matrix<br>rigid<br>stick<br>canal<br>solar<br>volume<br>whip<br>glare<br>guide |  
+| bip_39_word_new_br_11 | wealth<br>matrix<br>rigid<br>stick<br>canal<br>solar<br>volume<br>whip<br>glare<br>guide<br>chapter |  
+| bip_39_word_new_br_12 | wealth<br>matrix<br>rigid<br>stick<br>canal<br>solar<br>volume<br>whip<br>glare<br>guide<br>chapter<br>appear |  
+| bip_39_word_new_br_2 | wealth<br>matrix |  
+| bip_39_word_new_br_3 | wealth<br>matrix<br>rigid |  
+| bip_39_word_new_br_4 | wealth<br>matrix<br>rigid<br>stick |  
+| bip_39_word_new_br_5 | wealth<br>matrix<br>rigid<br>stick<br>canal |  
+| bip_39_word_new_br_6 | wealth<br>matrix<br>rigid<br>stick<br>canal<br>solar |  
+| bip_39_word_new_br_7 | wealth<br>matrix<br>rigid<br>stick<br>canal<br>solar<br>volume |  
+| bip_39_word_new_br_8 | wealth<br>matrix<br>rigid<br>stick<br>canal<br>solar<br>volume<br>whip |  
+| bip_39_word_new_br_9 | wealth<br>matrix<br>rigid<br>stick<br>canal<br>solar<br>volume<br>whip<br>glare |  
+| bip_39_word_new_line_1 | wealth |  
+| bip_39_word_new_line_10 | wealth
 matrix
 rigid
 stick
@@ -55,7 +55,7 @@ volume
 whip
 glare
 guide |  
-| bip_39_word_new_line11 | wealth
+| bip_39_word_new_line_11 | wealth
 matrix
 rigid
 stick
@@ -66,7 +66,7 @@ whip
 glare
 guide
 chapter |  
-| bip_39_word_new_line12 | wealth
+| bip_39_word_new_line_12 | wealth
 matrix
 rigid
 stick
@@ -78,34 +78,34 @@ glare
 guide
 chapter
 appear |  
-| bip_39_word_new_line2 | wealth
+| bip_39_word_new_line_2 | wealth
 matrix |  
-| bip_39_word_new_line3 | wealth
+| bip_39_word_new_line_3 | wealth
 matrix
 rigid |  
-| bip_39_word_new_line4 | wealth
+| bip_39_word_new_line_4 | wealth
 matrix
 rigid
 stick |  
-| bip_39_word_new_line5 | wealth
+| bip_39_word_new_line_5 | wealth
 matrix
 rigid
 stick
 canal |  
-| bip_39_word_new_line6 | wealth
+| bip_39_word_new_line_6 | wealth
 matrix
 rigid
 stick
 canal
 solar |  
-| bip_39_word_new_line7 | wealth
+| bip_39_word_new_line_7 | wealth
 matrix
 rigid
 stick
 canal
 solar
 volume |  
-| bip_39_word_new_line8 | wealth
+| bip_39_word_new_line_8 | wealth
 matrix
 rigid
 stick
@@ -113,7 +113,7 @@ canal
 solar
 volume
 whip |  
-| bip_39_word_new_line9 | wealth
+| bip_39_word_new_line_9 | wealth
 matrix
 rigid
 stick

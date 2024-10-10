@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fence |  
-| bip_39_word_new_br10 | fence<br>miracle<br>marine<br>swear<br>gain<br>lake<br>image<br>stone<br>novel<br>accident |  
-| bip_39_word_new_br11 | fence<br>miracle<br>marine<br>swear<br>gain<br>lake<br>image<br>stone<br>novel<br>accident<br>loyal |  
-| bip_39_word_new_br12 | fence<br>miracle<br>marine<br>swear<br>gain<br>lake<br>image<br>stone<br>novel<br>accident<br>loyal<br>air |  
-| bip_39_word_new_br2 | fence<br>miracle |  
-| bip_39_word_new_br3 | fence<br>miracle<br>marine |  
-| bip_39_word_new_br4 | fence<br>miracle<br>marine<br>swear |  
-| bip_39_word_new_br5 | fence<br>miracle<br>marine<br>swear<br>gain |  
-| bip_39_word_new_br6 | fence<br>miracle<br>marine<br>swear<br>gain<br>lake |  
-| bip_39_word_new_br7 | fence<br>miracle<br>marine<br>swear<br>gain<br>lake<br>image |  
-| bip_39_word_new_br8 | fence<br>miracle<br>marine<br>swear<br>gain<br>lake<br>image<br>stone |  
-| bip_39_word_new_br9 | fence<br>miracle<br>marine<br>swear<br>gain<br>lake<br>image<br>stone<br>novel |  
-| bip_39_word_new_line1 | fence |  
-| bip_39_word_new_line10 | fence
+| bip_39_word_new_br_1 | fence |  
+| bip_39_word_new_br_10 | fence<br>miracle<br>marine<br>swear<br>gain<br>lake<br>image<br>stone<br>novel<br>accident |  
+| bip_39_word_new_br_11 | fence<br>miracle<br>marine<br>swear<br>gain<br>lake<br>image<br>stone<br>novel<br>accident<br>loyal |  
+| bip_39_word_new_br_12 | fence<br>miracle<br>marine<br>swear<br>gain<br>lake<br>image<br>stone<br>novel<br>accident<br>loyal<br>air |  
+| bip_39_word_new_br_2 | fence<br>miracle |  
+| bip_39_word_new_br_3 | fence<br>miracle<br>marine |  
+| bip_39_word_new_br_4 | fence<br>miracle<br>marine<br>swear |  
+| bip_39_word_new_br_5 | fence<br>miracle<br>marine<br>swear<br>gain |  
+| bip_39_word_new_br_6 | fence<br>miracle<br>marine<br>swear<br>gain<br>lake |  
+| bip_39_word_new_br_7 | fence<br>miracle<br>marine<br>swear<br>gain<br>lake<br>image |  
+| bip_39_word_new_br_8 | fence<br>miracle<br>marine<br>swear<br>gain<br>lake<br>image<br>stone |  
+| bip_39_word_new_br_9 | fence<br>miracle<br>marine<br>swear<br>gain<br>lake<br>image<br>stone<br>novel |  
+| bip_39_word_new_line_1 | fence |  
+| bip_39_word_new_line_10 | fence
 miracle
 marine
 swear
@@ -55,7 +55,7 @@ image
 stone
 novel
 accident |  
-| bip_39_word_new_line11 | fence
+| bip_39_word_new_line_11 | fence
 miracle
 marine
 swear
@@ -66,7 +66,7 @@ stone
 novel
 accident
 loyal |  
-| bip_39_word_new_line12 | fence
+| bip_39_word_new_line_12 | fence
 miracle
 marine
 swear
@@ -78,34 +78,34 @@ novel
 accident
 loyal
 air |  
-| bip_39_word_new_line2 | fence
+| bip_39_word_new_line_2 | fence
 miracle |  
-| bip_39_word_new_line3 | fence
+| bip_39_word_new_line_3 | fence
 miracle
 marine |  
-| bip_39_word_new_line4 | fence
+| bip_39_word_new_line_4 | fence
 miracle
 marine
 swear |  
-| bip_39_word_new_line5 | fence
+| bip_39_word_new_line_5 | fence
 miracle
 marine
 swear
 gain |  
-| bip_39_word_new_line6 | fence
+| bip_39_word_new_line_6 | fence
 miracle
 marine
 swear
 gain
 lake |  
-| bip_39_word_new_line7 | fence
+| bip_39_word_new_line_7 | fence
 miracle
 marine
 swear
 gain
 lake
 image |  
-| bip_39_word_new_line8 | fence
+| bip_39_word_new_line_8 | fence
 miracle
 marine
 swear
@@ -113,7 +113,7 @@ gain
 lake
 image
 stone |  
-| bip_39_word_new_line9 | fence
+| bip_39_word_new_line_9 | fence
 miracle
 marine
 swear

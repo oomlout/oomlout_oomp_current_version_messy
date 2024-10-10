@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | follow |  
-| bip_39_word_new_br10 | follow<br>pottery<br>acquire<br>double<br>talk<br>cinnamon<br>copy<br>game<br>bid<br>view |  
-| bip_39_word_new_br11 | follow<br>pottery<br>acquire<br>double<br>talk<br>cinnamon<br>copy<br>game<br>bid<br>view<br>ability |  
-| bip_39_word_new_br12 | follow<br>pottery<br>acquire<br>double<br>talk<br>cinnamon<br>copy<br>game<br>bid<br>view<br>ability<br>august |  
-| bip_39_word_new_br2 | follow<br>pottery |  
-| bip_39_word_new_br3 | follow<br>pottery<br>acquire |  
-| bip_39_word_new_br4 | follow<br>pottery<br>acquire<br>double |  
-| bip_39_word_new_br5 | follow<br>pottery<br>acquire<br>double<br>talk |  
-| bip_39_word_new_br6 | follow<br>pottery<br>acquire<br>double<br>talk<br>cinnamon |  
-| bip_39_word_new_br7 | follow<br>pottery<br>acquire<br>double<br>talk<br>cinnamon<br>copy |  
-| bip_39_word_new_br8 | follow<br>pottery<br>acquire<br>double<br>talk<br>cinnamon<br>copy<br>game |  
-| bip_39_word_new_br9 | follow<br>pottery<br>acquire<br>double<br>talk<br>cinnamon<br>copy<br>game<br>bid |  
-| bip_39_word_new_line1 | follow |  
-| bip_39_word_new_line10 | follow
+| bip_39_word_new_br_1 | follow |  
+| bip_39_word_new_br_10 | follow<br>pottery<br>acquire<br>double<br>talk<br>cinnamon<br>copy<br>game<br>bid<br>view |  
+| bip_39_word_new_br_11 | follow<br>pottery<br>acquire<br>double<br>talk<br>cinnamon<br>copy<br>game<br>bid<br>view<br>ability |  
+| bip_39_word_new_br_12 | follow<br>pottery<br>acquire<br>double<br>talk<br>cinnamon<br>copy<br>game<br>bid<br>view<br>ability<br>august |  
+| bip_39_word_new_br_2 | follow<br>pottery |  
+| bip_39_word_new_br_3 | follow<br>pottery<br>acquire |  
+| bip_39_word_new_br_4 | follow<br>pottery<br>acquire<br>double |  
+| bip_39_word_new_br_5 | follow<br>pottery<br>acquire<br>double<br>talk |  
+| bip_39_word_new_br_6 | follow<br>pottery<br>acquire<br>double<br>talk<br>cinnamon |  
+| bip_39_word_new_br_7 | follow<br>pottery<br>acquire<br>double<br>talk<br>cinnamon<br>copy |  
+| bip_39_word_new_br_8 | follow<br>pottery<br>acquire<br>double<br>talk<br>cinnamon<br>copy<br>game |  
+| bip_39_word_new_br_9 | follow<br>pottery<br>acquire<br>double<br>talk<br>cinnamon<br>copy<br>game<br>bid |  
+| bip_39_word_new_line_1 | follow |  
+| bip_39_word_new_line_10 | follow
 pottery
 acquire
 double
@@ -55,7 +55,7 @@ copy
 game
 bid
 view |  
-| bip_39_word_new_line11 | follow
+| bip_39_word_new_line_11 | follow
 pottery
 acquire
 double
@@ -66,7 +66,7 @@ game
 bid
 view
 ability |  
-| bip_39_word_new_line12 | follow
+| bip_39_word_new_line_12 | follow
 pottery
 acquire
 double
@@ -78,34 +78,34 @@ bid
 view
 ability
 august |  
-| bip_39_word_new_line2 | follow
+| bip_39_word_new_line_2 | follow
 pottery |  
-| bip_39_word_new_line3 | follow
+| bip_39_word_new_line_3 | follow
 pottery
 acquire |  
-| bip_39_word_new_line4 | follow
+| bip_39_word_new_line_4 | follow
 pottery
 acquire
 double |  
-| bip_39_word_new_line5 | follow
+| bip_39_word_new_line_5 | follow
 pottery
 acquire
 double
 talk |  
-| bip_39_word_new_line6 | follow
+| bip_39_word_new_line_6 | follow
 pottery
 acquire
 double
 talk
 cinnamon |  
-| bip_39_word_new_line7 | follow
+| bip_39_word_new_line_7 | follow
 pottery
 acquire
 double
 talk
 cinnamon
 copy |  
-| bip_39_word_new_line8 | follow
+| bip_39_word_new_line_8 | follow
 pottery
 acquire
 double
@@ -113,7 +113,7 @@ talk
 cinnamon
 copy
 game |  
-| bip_39_word_new_line9 | follow
+| bip_39_word_new_line_9 | follow
 pottery
 acquire
 double

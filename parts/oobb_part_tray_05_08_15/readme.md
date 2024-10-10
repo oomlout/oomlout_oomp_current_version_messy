@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wish |  
-| bip_39_word_new_br10 | wish<br>furnace<br>tiny<br>deliver<br>slight<br>leg<br>fatal<br>copper<br>depth<br>trend |  
-| bip_39_word_new_br11 | wish<br>furnace<br>tiny<br>deliver<br>slight<br>leg<br>fatal<br>copper<br>depth<br>trend<br>gaze |  
-| bip_39_word_new_br12 | wish<br>furnace<br>tiny<br>deliver<br>slight<br>leg<br>fatal<br>copper<br>depth<br>trend<br>gaze<br>addict |  
-| bip_39_word_new_br2 | wish<br>furnace |  
-| bip_39_word_new_br3 | wish<br>furnace<br>tiny |  
-| bip_39_word_new_br4 | wish<br>furnace<br>tiny<br>deliver |  
-| bip_39_word_new_br5 | wish<br>furnace<br>tiny<br>deliver<br>slight |  
-| bip_39_word_new_br6 | wish<br>furnace<br>tiny<br>deliver<br>slight<br>leg |  
-| bip_39_word_new_br7 | wish<br>furnace<br>tiny<br>deliver<br>slight<br>leg<br>fatal |  
-| bip_39_word_new_br8 | wish<br>furnace<br>tiny<br>deliver<br>slight<br>leg<br>fatal<br>copper |  
-| bip_39_word_new_br9 | wish<br>furnace<br>tiny<br>deliver<br>slight<br>leg<br>fatal<br>copper<br>depth |  
-| bip_39_word_new_line1 | wish |  
-| bip_39_word_new_line10 | wish
+| bip_39_word_new_br_1 | wish |  
+| bip_39_word_new_br_10 | wish<br>furnace<br>tiny<br>deliver<br>slight<br>leg<br>fatal<br>copper<br>depth<br>trend |  
+| bip_39_word_new_br_11 | wish<br>furnace<br>tiny<br>deliver<br>slight<br>leg<br>fatal<br>copper<br>depth<br>trend<br>gaze |  
+| bip_39_word_new_br_12 | wish<br>furnace<br>tiny<br>deliver<br>slight<br>leg<br>fatal<br>copper<br>depth<br>trend<br>gaze<br>addict |  
+| bip_39_word_new_br_2 | wish<br>furnace |  
+| bip_39_word_new_br_3 | wish<br>furnace<br>tiny |  
+| bip_39_word_new_br_4 | wish<br>furnace<br>tiny<br>deliver |  
+| bip_39_word_new_br_5 | wish<br>furnace<br>tiny<br>deliver<br>slight |  
+| bip_39_word_new_br_6 | wish<br>furnace<br>tiny<br>deliver<br>slight<br>leg |  
+| bip_39_word_new_br_7 | wish<br>furnace<br>tiny<br>deliver<br>slight<br>leg<br>fatal |  
+| bip_39_word_new_br_8 | wish<br>furnace<br>tiny<br>deliver<br>slight<br>leg<br>fatal<br>copper |  
+| bip_39_word_new_br_9 | wish<br>furnace<br>tiny<br>deliver<br>slight<br>leg<br>fatal<br>copper<br>depth |  
+| bip_39_word_new_line_1 | wish |  
+| bip_39_word_new_line_10 | wish
 furnace
 tiny
 deliver
@@ -55,7 +55,7 @@ fatal
 copper
 depth
 trend |  
-| bip_39_word_new_line11 | wish
+| bip_39_word_new_line_11 | wish
 furnace
 tiny
 deliver
@@ -66,7 +66,7 @@ copper
 depth
 trend
 gaze |  
-| bip_39_word_new_line12 | wish
+| bip_39_word_new_line_12 | wish
 furnace
 tiny
 deliver
@@ -78,34 +78,34 @@ depth
 trend
 gaze
 addict |  
-| bip_39_word_new_line2 | wish
+| bip_39_word_new_line_2 | wish
 furnace |  
-| bip_39_word_new_line3 | wish
+| bip_39_word_new_line_3 | wish
 furnace
 tiny |  
-| bip_39_word_new_line4 | wish
+| bip_39_word_new_line_4 | wish
 furnace
 tiny
 deliver |  
-| bip_39_word_new_line5 | wish
+| bip_39_word_new_line_5 | wish
 furnace
 tiny
 deliver
 slight |  
-| bip_39_word_new_line6 | wish
+| bip_39_word_new_line_6 | wish
 furnace
 tiny
 deliver
 slight
 leg |  
-| bip_39_word_new_line7 | wish
+| bip_39_word_new_line_7 | wish
 furnace
 tiny
 deliver
 slight
 leg
 fatal |  
-| bip_39_word_new_line8 | wish
+| bip_39_word_new_line_8 | wish
 furnace
 tiny
 deliver
@@ -113,7 +113,7 @@ slight
 leg
 fatal
 copper |  
-| bip_39_word_new_line9 | wish
+| bip_39_word_new_line_9 | wish
 furnace
 tiny
 deliver

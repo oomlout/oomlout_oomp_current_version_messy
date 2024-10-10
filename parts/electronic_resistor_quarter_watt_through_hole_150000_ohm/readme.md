@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cost |  
-| bip_39_word_new_br10 | cost<br>impact<br>wrap<br>gesture<br>federal<br>forward<br>remind<br>exist<br>beef<br>steel |  
-| bip_39_word_new_br11 | cost<br>impact<br>wrap<br>gesture<br>federal<br>forward<br>remind<br>exist<br>beef<br>steel<br>glimpse |  
-| bip_39_word_new_br12 | cost<br>impact<br>wrap<br>gesture<br>federal<br>forward<br>remind<br>exist<br>beef<br>steel<br>glimpse<br>author |  
-| bip_39_word_new_br2 | cost<br>impact |  
-| bip_39_word_new_br3 | cost<br>impact<br>wrap |  
-| bip_39_word_new_br4 | cost<br>impact<br>wrap<br>gesture |  
-| bip_39_word_new_br5 | cost<br>impact<br>wrap<br>gesture<br>federal |  
-| bip_39_word_new_br6 | cost<br>impact<br>wrap<br>gesture<br>federal<br>forward |  
-| bip_39_word_new_br7 | cost<br>impact<br>wrap<br>gesture<br>federal<br>forward<br>remind |  
-| bip_39_word_new_br8 | cost<br>impact<br>wrap<br>gesture<br>federal<br>forward<br>remind<br>exist |  
-| bip_39_word_new_br9 | cost<br>impact<br>wrap<br>gesture<br>federal<br>forward<br>remind<br>exist<br>beef |  
-| bip_39_word_new_line1 | cost |  
-| bip_39_word_new_line10 | cost
+| bip_39_word_new_br_1 | cost |  
+| bip_39_word_new_br_10 | cost<br>impact<br>wrap<br>gesture<br>federal<br>forward<br>remind<br>exist<br>beef<br>steel |  
+| bip_39_word_new_br_11 | cost<br>impact<br>wrap<br>gesture<br>federal<br>forward<br>remind<br>exist<br>beef<br>steel<br>glimpse |  
+| bip_39_word_new_br_12 | cost<br>impact<br>wrap<br>gesture<br>federal<br>forward<br>remind<br>exist<br>beef<br>steel<br>glimpse<br>author |  
+| bip_39_word_new_br_2 | cost<br>impact |  
+| bip_39_word_new_br_3 | cost<br>impact<br>wrap |  
+| bip_39_word_new_br_4 | cost<br>impact<br>wrap<br>gesture |  
+| bip_39_word_new_br_5 | cost<br>impact<br>wrap<br>gesture<br>federal |  
+| bip_39_word_new_br_6 | cost<br>impact<br>wrap<br>gesture<br>federal<br>forward |  
+| bip_39_word_new_br_7 | cost<br>impact<br>wrap<br>gesture<br>federal<br>forward<br>remind |  
+| bip_39_word_new_br_8 | cost<br>impact<br>wrap<br>gesture<br>federal<br>forward<br>remind<br>exist |  
+| bip_39_word_new_br_9 | cost<br>impact<br>wrap<br>gesture<br>federal<br>forward<br>remind<br>exist<br>beef |  
+| bip_39_word_new_line_1 | cost |  
+| bip_39_word_new_line_10 | cost
 impact
 wrap
 gesture
@@ -55,7 +55,7 @@ remind
 exist
 beef
 steel |  
-| bip_39_word_new_line11 | cost
+| bip_39_word_new_line_11 | cost
 impact
 wrap
 gesture
@@ -66,7 +66,7 @@ exist
 beef
 steel
 glimpse |  
-| bip_39_word_new_line12 | cost
+| bip_39_word_new_line_12 | cost
 impact
 wrap
 gesture
@@ -78,34 +78,34 @@ beef
 steel
 glimpse
 author |  
-| bip_39_word_new_line2 | cost
+| bip_39_word_new_line_2 | cost
 impact |  
-| bip_39_word_new_line3 | cost
+| bip_39_word_new_line_3 | cost
 impact
 wrap |  
-| bip_39_word_new_line4 | cost
+| bip_39_word_new_line_4 | cost
 impact
 wrap
 gesture |  
-| bip_39_word_new_line5 | cost
+| bip_39_word_new_line_5 | cost
 impact
 wrap
 gesture
 federal |  
-| bip_39_word_new_line6 | cost
+| bip_39_word_new_line_6 | cost
 impact
 wrap
 gesture
 federal
 forward |  
-| bip_39_word_new_line7 | cost
+| bip_39_word_new_line_7 | cost
 impact
 wrap
 gesture
 federal
 forward
 remind |  
-| bip_39_word_new_line8 | cost
+| bip_39_word_new_line_8 | cost
 impact
 wrap
 gesture
@@ -113,7 +113,7 @@ federal
 forward
 remind
 exist |  
-| bip_39_word_new_line9 | cost
+| bip_39_word_new_line_9 | cost
 impact
 wrap
 gesture

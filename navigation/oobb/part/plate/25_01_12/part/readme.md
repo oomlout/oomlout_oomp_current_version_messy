@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | limit |  
-| bip_39_word_new_br10 | limit<br>ship<br>moon<br>catalog<br>valid<br>custom<br>clock<br>stable<br>excite<br>where |  
-| bip_39_word_new_br11 | limit<br>ship<br>moon<br>catalog<br>valid<br>custom<br>clock<br>stable<br>excite<br>where<br>patrol |  
-| bip_39_word_new_br12 | limit<br>ship<br>moon<br>catalog<br>valid<br>custom<br>clock<br>stable<br>excite<br>where<br>patrol<br>already |  
-| bip_39_word_new_br2 | limit<br>ship |  
-| bip_39_word_new_br3 | limit<br>ship<br>moon |  
-| bip_39_word_new_br4 | limit<br>ship<br>moon<br>catalog |  
-| bip_39_word_new_br5 | limit<br>ship<br>moon<br>catalog<br>valid |  
-| bip_39_word_new_br6 | limit<br>ship<br>moon<br>catalog<br>valid<br>custom |  
-| bip_39_word_new_br7 | limit<br>ship<br>moon<br>catalog<br>valid<br>custom<br>clock |  
-| bip_39_word_new_br8 | limit<br>ship<br>moon<br>catalog<br>valid<br>custom<br>clock<br>stable |  
-| bip_39_word_new_br9 | limit<br>ship<br>moon<br>catalog<br>valid<br>custom<br>clock<br>stable<br>excite |  
-| bip_39_word_new_line1 | limit |  
-| bip_39_word_new_line10 | limit
+| bip_39_word_new_br_1 | limit |  
+| bip_39_word_new_br_10 | limit<br>ship<br>moon<br>catalog<br>valid<br>custom<br>clock<br>stable<br>excite<br>where |  
+| bip_39_word_new_br_11 | limit<br>ship<br>moon<br>catalog<br>valid<br>custom<br>clock<br>stable<br>excite<br>where<br>patrol |  
+| bip_39_word_new_br_12 | limit<br>ship<br>moon<br>catalog<br>valid<br>custom<br>clock<br>stable<br>excite<br>where<br>patrol<br>already |  
+| bip_39_word_new_br_2 | limit<br>ship |  
+| bip_39_word_new_br_3 | limit<br>ship<br>moon |  
+| bip_39_word_new_br_4 | limit<br>ship<br>moon<br>catalog |  
+| bip_39_word_new_br_5 | limit<br>ship<br>moon<br>catalog<br>valid |  
+| bip_39_word_new_br_6 | limit<br>ship<br>moon<br>catalog<br>valid<br>custom |  
+| bip_39_word_new_br_7 | limit<br>ship<br>moon<br>catalog<br>valid<br>custom<br>clock |  
+| bip_39_word_new_br_8 | limit<br>ship<br>moon<br>catalog<br>valid<br>custom<br>clock<br>stable |  
+| bip_39_word_new_br_9 | limit<br>ship<br>moon<br>catalog<br>valid<br>custom<br>clock<br>stable<br>excite |  
+| bip_39_word_new_line_1 | limit |  
+| bip_39_word_new_line_10 | limit
 ship
 moon
 catalog
@@ -55,7 +55,7 @@ clock
 stable
 excite
 where |  
-| bip_39_word_new_line11 | limit
+| bip_39_word_new_line_11 | limit
 ship
 moon
 catalog
@@ -66,7 +66,7 @@ stable
 excite
 where
 patrol |  
-| bip_39_word_new_line12 | limit
+| bip_39_word_new_line_12 | limit
 ship
 moon
 catalog
@@ -78,34 +78,34 @@ excite
 where
 patrol
 already |  
-| bip_39_word_new_line2 | limit
+| bip_39_word_new_line_2 | limit
 ship |  
-| bip_39_word_new_line3 | limit
+| bip_39_word_new_line_3 | limit
 ship
 moon |  
-| bip_39_word_new_line4 | limit
+| bip_39_word_new_line_4 | limit
 ship
 moon
 catalog |  
-| bip_39_word_new_line5 | limit
+| bip_39_word_new_line_5 | limit
 ship
 moon
 catalog
 valid |  
-| bip_39_word_new_line6 | limit
+| bip_39_word_new_line_6 | limit
 ship
 moon
 catalog
 valid
 custom |  
-| bip_39_word_new_line7 | limit
+| bip_39_word_new_line_7 | limit
 ship
 moon
 catalog
 valid
 custom
 clock |  
-| bip_39_word_new_line8 | limit
+| bip_39_word_new_line_8 | limit
 ship
 moon
 catalog
@@ -113,7 +113,7 @@ valid
 custom
 clock
 stable |  
-| bip_39_word_new_line9 | limit
+| bip_39_word_new_line_9 | limit
 ship
 moon
 catalog

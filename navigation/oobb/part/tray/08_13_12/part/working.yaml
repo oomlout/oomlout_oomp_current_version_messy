@@ -1,17 +1,17 @@
-bip_39_word_new_br1: smile
-bip_39_word_new_br10: smile<br>tattoo<br>lyrics<br>say<br>material<br>state<br>light<br>loop<br>aerobic<br>wonder
-bip_39_word_new_br11: smile<br>tattoo<br>lyrics<br>say<br>material<br>state<br>light<br>loop<br>aerobic<br>wonder<br>step
-bip_39_word_new_br12: smile<br>tattoo<br>lyrics<br>say<br>material<br>state<br>light<br>loop<br>aerobic<br>wonder<br>step<br>arrive
-bip_39_word_new_br2: smile<br>tattoo
-bip_39_word_new_br3: smile<br>tattoo<br>lyrics
-bip_39_word_new_br4: smile<br>tattoo<br>lyrics<br>say
-bip_39_word_new_br5: smile<br>tattoo<br>lyrics<br>say<br>material
-bip_39_word_new_br6: smile<br>tattoo<br>lyrics<br>say<br>material<br>state
-bip_39_word_new_br7: smile<br>tattoo<br>lyrics<br>say<br>material<br>state<br>light
-bip_39_word_new_br8: smile<br>tattoo<br>lyrics<br>say<br>material<br>state<br>light<br>loop
-bip_39_word_new_br9: smile<br>tattoo<br>lyrics<br>say<br>material<br>state<br>light<br>loop<br>aerobic
-bip_39_word_new_line1: smile
-bip_39_word_new_line10: 'smile
+bip_39_word_new_br_1: smile
+bip_39_word_new_br_10: smile<br>tattoo<br>lyrics<br>say<br>material<br>state<br>light<br>loop<br>aerobic<br>wonder
+bip_39_word_new_br_11: smile<br>tattoo<br>lyrics<br>say<br>material<br>state<br>light<br>loop<br>aerobic<br>wonder<br>step
+bip_39_word_new_br_12: smile<br>tattoo<br>lyrics<br>say<br>material<br>state<br>light<br>loop<br>aerobic<br>wonder<br>step<br>arrive
+bip_39_word_new_br_2: smile<br>tattoo
+bip_39_word_new_br_3: smile<br>tattoo<br>lyrics
+bip_39_word_new_br_4: smile<br>tattoo<br>lyrics<br>say
+bip_39_word_new_br_5: smile<br>tattoo<br>lyrics<br>say<br>material
+bip_39_word_new_br_6: smile<br>tattoo<br>lyrics<br>say<br>material<br>state
+bip_39_word_new_br_7: smile<br>tattoo<br>lyrics<br>say<br>material<br>state<br>light
+bip_39_word_new_br_8: smile<br>tattoo<br>lyrics<br>say<br>material<br>state<br>light<br>loop
+bip_39_word_new_br_9: smile<br>tattoo<br>lyrics<br>say<br>material<br>state<br>light<br>loop<br>aerobic
+bip_39_word_new_line_1: smile
+bip_39_word_new_line_10: 'smile
 
   tattoo
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'smile
   aerobic
 
   wonder'
-bip_39_word_new_line11: 'smile
+bip_39_word_new_line_11: 'smile
 
   tattoo
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'smile
   wonder
 
   step'
-bip_39_word_new_line12: 'smile
+bip_39_word_new_line_12: 'smile
 
   tattoo
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'smile
   step
 
   arrive'
-bip_39_word_new_line2: 'smile
+bip_39_word_new_line_2: 'smile
 
   tattoo'
-bip_39_word_new_line3: 'smile
+bip_39_word_new_line_3: 'smile
 
   tattoo
 
   lyrics'
-bip_39_word_new_line4: 'smile
+bip_39_word_new_line_4: 'smile
 
   tattoo
 
   lyrics
 
   say'
-bip_39_word_new_line5: 'smile
+bip_39_word_new_line_5: 'smile
 
   tattoo
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'smile
   say
 
   material'
-bip_39_word_new_line6: 'smile
+bip_39_word_new_line_6: 'smile
 
   tattoo
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'smile
   material
 
   state'
-bip_39_word_new_line7: 'smile
+bip_39_word_new_line_7: 'smile
 
   tattoo
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'smile
   state
 
   light'
-bip_39_word_new_line8: 'smile
+bip_39_word_new_line_8: 'smile
 
   tattoo
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'smile
   light
 
   loop'
-bip_39_word_new_line9: 'smile
+bip_39_word_new_line_9: 'smile
 
   tattoo
 

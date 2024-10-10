@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | direct |  
-| bip_39_word_new_br10 | direct<br>subway<br>zone<br>usage<br>fork<br>stand<br>record<br>cable<br>pioneer<br>idea |  
-| bip_39_word_new_br11 | direct<br>subway<br>zone<br>usage<br>fork<br>stand<br>record<br>cable<br>pioneer<br>idea<br>chronic |  
-| bip_39_word_new_br12 | direct<br>subway<br>zone<br>usage<br>fork<br>stand<br>record<br>cable<br>pioneer<br>idea<br>chronic<br>accuse |  
-| bip_39_word_new_br2 | direct<br>subway |  
-| bip_39_word_new_br3 | direct<br>subway<br>zone |  
-| bip_39_word_new_br4 | direct<br>subway<br>zone<br>usage |  
-| bip_39_word_new_br5 | direct<br>subway<br>zone<br>usage<br>fork |  
-| bip_39_word_new_br6 | direct<br>subway<br>zone<br>usage<br>fork<br>stand |  
-| bip_39_word_new_br7 | direct<br>subway<br>zone<br>usage<br>fork<br>stand<br>record |  
-| bip_39_word_new_br8 | direct<br>subway<br>zone<br>usage<br>fork<br>stand<br>record<br>cable |  
-| bip_39_word_new_br9 | direct<br>subway<br>zone<br>usage<br>fork<br>stand<br>record<br>cable<br>pioneer |  
-| bip_39_word_new_line1 | direct |  
-| bip_39_word_new_line10 | direct
+| bip_39_word_new_br_1 | direct |  
+| bip_39_word_new_br_10 | direct<br>subway<br>zone<br>usage<br>fork<br>stand<br>record<br>cable<br>pioneer<br>idea |  
+| bip_39_word_new_br_11 | direct<br>subway<br>zone<br>usage<br>fork<br>stand<br>record<br>cable<br>pioneer<br>idea<br>chronic |  
+| bip_39_word_new_br_12 | direct<br>subway<br>zone<br>usage<br>fork<br>stand<br>record<br>cable<br>pioneer<br>idea<br>chronic<br>accuse |  
+| bip_39_word_new_br_2 | direct<br>subway |  
+| bip_39_word_new_br_3 | direct<br>subway<br>zone |  
+| bip_39_word_new_br_4 | direct<br>subway<br>zone<br>usage |  
+| bip_39_word_new_br_5 | direct<br>subway<br>zone<br>usage<br>fork |  
+| bip_39_word_new_br_6 | direct<br>subway<br>zone<br>usage<br>fork<br>stand |  
+| bip_39_word_new_br_7 | direct<br>subway<br>zone<br>usage<br>fork<br>stand<br>record |  
+| bip_39_word_new_br_8 | direct<br>subway<br>zone<br>usage<br>fork<br>stand<br>record<br>cable |  
+| bip_39_word_new_br_9 | direct<br>subway<br>zone<br>usage<br>fork<br>stand<br>record<br>cable<br>pioneer |  
+| bip_39_word_new_line_1 | direct |  
+| bip_39_word_new_line_10 | direct
 subway
 zone
 usage
@@ -55,7 +55,7 @@ record
 cable
 pioneer
 idea |  
-| bip_39_word_new_line11 | direct
+| bip_39_word_new_line_11 | direct
 subway
 zone
 usage
@@ -66,7 +66,7 @@ cable
 pioneer
 idea
 chronic |  
-| bip_39_word_new_line12 | direct
+| bip_39_word_new_line_12 | direct
 subway
 zone
 usage
@@ -78,34 +78,34 @@ pioneer
 idea
 chronic
 accuse |  
-| bip_39_word_new_line2 | direct
+| bip_39_word_new_line_2 | direct
 subway |  
-| bip_39_word_new_line3 | direct
+| bip_39_word_new_line_3 | direct
 subway
 zone |  
-| bip_39_word_new_line4 | direct
+| bip_39_word_new_line_4 | direct
 subway
 zone
 usage |  
-| bip_39_word_new_line5 | direct
+| bip_39_word_new_line_5 | direct
 subway
 zone
 usage
 fork |  
-| bip_39_word_new_line6 | direct
+| bip_39_word_new_line_6 | direct
 subway
 zone
 usage
 fork
 stand |  
-| bip_39_word_new_line7 | direct
+| bip_39_word_new_line_7 | direct
 subway
 zone
 usage
 fork
 stand
 record |  
-| bip_39_word_new_line8 | direct
+| bip_39_word_new_line_8 | direct
 subway
 zone
 usage
@@ -113,7 +113,7 @@ fork
 stand
 record
 cable |  
-| bip_39_word_new_line9 | direct
+| bip_39_word_new_line_9 | direct
 subway
 zone
 usage

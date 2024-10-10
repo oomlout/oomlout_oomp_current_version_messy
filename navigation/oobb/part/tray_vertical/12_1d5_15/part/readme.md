@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | allow |  
-| bip_39_word_new_br10 | allow<br>amazing<br>boss<br>quote<br>thing<br>nut<br>basket<br>monitor<br>cost<br>volume |  
-| bip_39_word_new_br11 | allow<br>amazing<br>boss<br>quote<br>thing<br>nut<br>basket<br>monitor<br>cost<br>volume<br>such |  
-| bip_39_word_new_br12 | allow<br>amazing<br>boss<br>quote<br>thing<br>nut<br>basket<br>monitor<br>cost<br>volume<br>such<br>access |  
-| bip_39_word_new_br2 | allow<br>amazing |  
-| bip_39_word_new_br3 | allow<br>amazing<br>boss |  
-| bip_39_word_new_br4 | allow<br>amazing<br>boss<br>quote |  
-| bip_39_word_new_br5 | allow<br>amazing<br>boss<br>quote<br>thing |  
-| bip_39_word_new_br6 | allow<br>amazing<br>boss<br>quote<br>thing<br>nut |  
-| bip_39_word_new_br7 | allow<br>amazing<br>boss<br>quote<br>thing<br>nut<br>basket |  
-| bip_39_word_new_br8 | allow<br>amazing<br>boss<br>quote<br>thing<br>nut<br>basket<br>monitor |  
-| bip_39_word_new_br9 | allow<br>amazing<br>boss<br>quote<br>thing<br>nut<br>basket<br>monitor<br>cost |  
-| bip_39_word_new_line1 | allow |  
-| bip_39_word_new_line10 | allow
+| bip_39_word_new_br_1 | allow |  
+| bip_39_word_new_br_10 | allow<br>amazing<br>boss<br>quote<br>thing<br>nut<br>basket<br>monitor<br>cost<br>volume |  
+| bip_39_word_new_br_11 | allow<br>amazing<br>boss<br>quote<br>thing<br>nut<br>basket<br>monitor<br>cost<br>volume<br>such |  
+| bip_39_word_new_br_12 | allow<br>amazing<br>boss<br>quote<br>thing<br>nut<br>basket<br>monitor<br>cost<br>volume<br>such<br>access |  
+| bip_39_word_new_br_2 | allow<br>amazing |  
+| bip_39_word_new_br_3 | allow<br>amazing<br>boss |  
+| bip_39_word_new_br_4 | allow<br>amazing<br>boss<br>quote |  
+| bip_39_word_new_br_5 | allow<br>amazing<br>boss<br>quote<br>thing |  
+| bip_39_word_new_br_6 | allow<br>amazing<br>boss<br>quote<br>thing<br>nut |  
+| bip_39_word_new_br_7 | allow<br>amazing<br>boss<br>quote<br>thing<br>nut<br>basket |  
+| bip_39_word_new_br_8 | allow<br>amazing<br>boss<br>quote<br>thing<br>nut<br>basket<br>monitor |  
+| bip_39_word_new_br_9 | allow<br>amazing<br>boss<br>quote<br>thing<br>nut<br>basket<br>monitor<br>cost |  
+| bip_39_word_new_line_1 | allow |  
+| bip_39_word_new_line_10 | allow
 amazing
 boss
 quote
@@ -55,7 +55,7 @@ basket
 monitor
 cost
 volume |  
-| bip_39_word_new_line11 | allow
+| bip_39_word_new_line_11 | allow
 amazing
 boss
 quote
@@ -66,7 +66,7 @@ monitor
 cost
 volume
 such |  
-| bip_39_word_new_line12 | allow
+| bip_39_word_new_line_12 | allow
 amazing
 boss
 quote
@@ -78,34 +78,34 @@ cost
 volume
 such
 access |  
-| bip_39_word_new_line2 | allow
+| bip_39_word_new_line_2 | allow
 amazing |  
-| bip_39_word_new_line3 | allow
+| bip_39_word_new_line_3 | allow
 amazing
 boss |  
-| bip_39_word_new_line4 | allow
+| bip_39_word_new_line_4 | allow
 amazing
 boss
 quote |  
-| bip_39_word_new_line5 | allow
+| bip_39_word_new_line_5 | allow
 amazing
 boss
 quote
 thing |  
-| bip_39_word_new_line6 | allow
+| bip_39_word_new_line_6 | allow
 amazing
 boss
 quote
 thing
 nut |  
-| bip_39_word_new_line7 | allow
+| bip_39_word_new_line_7 | allow
 amazing
 boss
 quote
 thing
 nut
 basket |  
-| bip_39_word_new_line8 | allow
+| bip_39_word_new_line_8 | allow
 amazing
 boss
 quote
@@ -113,7 +113,7 @@ thing
 nut
 basket
 monitor |  
-| bip_39_word_new_line9 | allow
+| bip_39_word_new_line_9 | allow
 amazing
 boss
 quote

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | noise |  
-| bip_39_word_new_br10 | noise<br>melody<br>front<br>avocado<br>memory<br>cute<br>orphan<br>super<br>crazy<br>glory |  
-| bip_39_word_new_br11 | noise<br>melody<br>front<br>avocado<br>memory<br>cute<br>orphan<br>super<br>crazy<br>glory<br>lesson |  
-| bip_39_word_new_br12 | noise<br>melody<br>front<br>avocado<br>memory<br>cute<br>orphan<br>super<br>crazy<br>glory<br>lesson<br>acid |  
-| bip_39_word_new_br2 | noise<br>melody |  
-| bip_39_word_new_br3 | noise<br>melody<br>front |  
-| bip_39_word_new_br4 | noise<br>melody<br>front<br>avocado |  
-| bip_39_word_new_br5 | noise<br>melody<br>front<br>avocado<br>memory |  
-| bip_39_word_new_br6 | noise<br>melody<br>front<br>avocado<br>memory<br>cute |  
-| bip_39_word_new_br7 | noise<br>melody<br>front<br>avocado<br>memory<br>cute<br>orphan |  
-| bip_39_word_new_br8 | noise<br>melody<br>front<br>avocado<br>memory<br>cute<br>orphan<br>super |  
-| bip_39_word_new_br9 | noise<br>melody<br>front<br>avocado<br>memory<br>cute<br>orphan<br>super<br>crazy |  
-| bip_39_word_new_line1 | noise |  
-| bip_39_word_new_line10 | noise
+| bip_39_word_new_br_1 | noise |  
+| bip_39_word_new_br_10 | noise<br>melody<br>front<br>avocado<br>memory<br>cute<br>orphan<br>super<br>crazy<br>glory |  
+| bip_39_word_new_br_11 | noise<br>melody<br>front<br>avocado<br>memory<br>cute<br>orphan<br>super<br>crazy<br>glory<br>lesson |  
+| bip_39_word_new_br_12 | noise<br>melody<br>front<br>avocado<br>memory<br>cute<br>orphan<br>super<br>crazy<br>glory<br>lesson<br>acid |  
+| bip_39_word_new_br_2 | noise<br>melody |  
+| bip_39_word_new_br_3 | noise<br>melody<br>front |  
+| bip_39_word_new_br_4 | noise<br>melody<br>front<br>avocado |  
+| bip_39_word_new_br_5 | noise<br>melody<br>front<br>avocado<br>memory |  
+| bip_39_word_new_br_6 | noise<br>melody<br>front<br>avocado<br>memory<br>cute |  
+| bip_39_word_new_br_7 | noise<br>melody<br>front<br>avocado<br>memory<br>cute<br>orphan |  
+| bip_39_word_new_br_8 | noise<br>melody<br>front<br>avocado<br>memory<br>cute<br>orphan<br>super |  
+| bip_39_word_new_br_9 | noise<br>melody<br>front<br>avocado<br>memory<br>cute<br>orphan<br>super<br>crazy |  
+| bip_39_word_new_line_1 | noise |  
+| bip_39_word_new_line_10 | noise
 melody
 front
 avocado
@@ -55,7 +55,7 @@ orphan
 super
 crazy
 glory |  
-| bip_39_word_new_line11 | noise
+| bip_39_word_new_line_11 | noise
 melody
 front
 avocado
@@ -66,7 +66,7 @@ super
 crazy
 glory
 lesson |  
-| bip_39_word_new_line12 | noise
+| bip_39_word_new_line_12 | noise
 melody
 front
 avocado
@@ -78,34 +78,34 @@ crazy
 glory
 lesson
 acid |  
-| bip_39_word_new_line2 | noise
+| bip_39_word_new_line_2 | noise
 melody |  
-| bip_39_word_new_line3 | noise
+| bip_39_word_new_line_3 | noise
 melody
 front |  
-| bip_39_word_new_line4 | noise
+| bip_39_word_new_line_4 | noise
 melody
 front
 avocado |  
-| bip_39_word_new_line5 | noise
+| bip_39_word_new_line_5 | noise
 melody
 front
 avocado
 memory |  
-| bip_39_word_new_line6 | noise
+| bip_39_word_new_line_6 | noise
 melody
 front
 avocado
 memory
 cute |  
-| bip_39_word_new_line7 | noise
+| bip_39_word_new_line_7 | noise
 melody
 front
 avocado
 memory
 cute
 orphan |  
-| bip_39_word_new_line8 | noise
+| bip_39_word_new_line_8 | noise
 melody
 front
 avocado
@@ -113,7 +113,7 @@ memory
 cute
 orphan
 super |  
-| bip_39_word_new_line9 | noise
+| bip_39_word_new_line_9 | noise
 melody
 front
 avocado

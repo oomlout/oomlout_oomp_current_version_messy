@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bread |  
-| bip_39_word_new_br10 | bread<br>news<br>wage<br>repeat<br>skirt<br>episode<br>ice<br>lawn<br>treat<br>only |  
-| bip_39_word_new_br11 | bread<br>news<br>wage<br>repeat<br>skirt<br>episode<br>ice<br>lawn<br>treat<br>only<br>mercy |  
-| bip_39_word_new_br12 | bread<br>news<br>wage<br>repeat<br>skirt<br>episode<br>ice<br>lawn<br>treat<br>only<br>mercy<br>alien |  
-| bip_39_word_new_br2 | bread<br>news |  
-| bip_39_word_new_br3 | bread<br>news<br>wage |  
-| bip_39_word_new_br4 | bread<br>news<br>wage<br>repeat |  
-| bip_39_word_new_br5 | bread<br>news<br>wage<br>repeat<br>skirt |  
-| bip_39_word_new_br6 | bread<br>news<br>wage<br>repeat<br>skirt<br>episode |  
-| bip_39_word_new_br7 | bread<br>news<br>wage<br>repeat<br>skirt<br>episode<br>ice |  
-| bip_39_word_new_br8 | bread<br>news<br>wage<br>repeat<br>skirt<br>episode<br>ice<br>lawn |  
-| bip_39_word_new_br9 | bread<br>news<br>wage<br>repeat<br>skirt<br>episode<br>ice<br>lawn<br>treat |  
-| bip_39_word_new_line1 | bread |  
-| bip_39_word_new_line10 | bread
+| bip_39_word_new_br_1 | bread |  
+| bip_39_word_new_br_10 | bread<br>news<br>wage<br>repeat<br>skirt<br>episode<br>ice<br>lawn<br>treat<br>only |  
+| bip_39_word_new_br_11 | bread<br>news<br>wage<br>repeat<br>skirt<br>episode<br>ice<br>lawn<br>treat<br>only<br>mercy |  
+| bip_39_word_new_br_12 | bread<br>news<br>wage<br>repeat<br>skirt<br>episode<br>ice<br>lawn<br>treat<br>only<br>mercy<br>alien |  
+| bip_39_word_new_br_2 | bread<br>news |  
+| bip_39_word_new_br_3 | bread<br>news<br>wage |  
+| bip_39_word_new_br_4 | bread<br>news<br>wage<br>repeat |  
+| bip_39_word_new_br_5 | bread<br>news<br>wage<br>repeat<br>skirt |  
+| bip_39_word_new_br_6 | bread<br>news<br>wage<br>repeat<br>skirt<br>episode |  
+| bip_39_word_new_br_7 | bread<br>news<br>wage<br>repeat<br>skirt<br>episode<br>ice |  
+| bip_39_word_new_br_8 | bread<br>news<br>wage<br>repeat<br>skirt<br>episode<br>ice<br>lawn |  
+| bip_39_word_new_br_9 | bread<br>news<br>wage<br>repeat<br>skirt<br>episode<br>ice<br>lawn<br>treat |  
+| bip_39_word_new_line_1 | bread |  
+| bip_39_word_new_line_10 | bread
 news
 wage
 repeat
@@ -55,7 +55,7 @@ ice
 lawn
 treat
 only |  
-| bip_39_word_new_line11 | bread
+| bip_39_word_new_line_11 | bread
 news
 wage
 repeat
@@ -66,7 +66,7 @@ lawn
 treat
 only
 mercy |  
-| bip_39_word_new_line12 | bread
+| bip_39_word_new_line_12 | bread
 news
 wage
 repeat
@@ -78,34 +78,34 @@ treat
 only
 mercy
 alien |  
-| bip_39_word_new_line2 | bread
+| bip_39_word_new_line_2 | bread
 news |  
-| bip_39_word_new_line3 | bread
+| bip_39_word_new_line_3 | bread
 news
 wage |  
-| bip_39_word_new_line4 | bread
+| bip_39_word_new_line_4 | bread
 news
 wage
 repeat |  
-| bip_39_word_new_line5 | bread
+| bip_39_word_new_line_5 | bread
 news
 wage
 repeat
 skirt |  
-| bip_39_word_new_line6 | bread
+| bip_39_word_new_line_6 | bread
 news
 wage
 repeat
 skirt
 episode |  
-| bip_39_word_new_line7 | bread
+| bip_39_word_new_line_7 | bread
 news
 wage
 repeat
 skirt
 episode
 ice |  
-| bip_39_word_new_line8 | bread
+| bip_39_word_new_line_8 | bread
 news
 wage
 repeat
@@ -113,7 +113,7 @@ skirt
 episode
 ice
 lawn |  
-| bip_39_word_new_line9 | bread
+| bip_39_word_new_line_9 | bread
 news
 wage
 repeat

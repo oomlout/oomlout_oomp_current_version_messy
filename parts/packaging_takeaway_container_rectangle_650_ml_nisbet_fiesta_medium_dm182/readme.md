@@ -33,20 +33,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | exact |  
-| bip_39_word_new_br10 | exact<br>canyon<br>tired<br>scorpion<br>inspire<br>slot<br>valve<br>auto<br>mosquito<br>sphere |  
-| bip_39_word_new_br11 | exact<br>canyon<br>tired<br>scorpion<br>inspire<br>slot<br>valve<br>auto<br>mosquito<br>sphere<br>start |  
-| bip_39_word_new_br12 | exact<br>canyon<br>tired<br>scorpion<br>inspire<br>slot<br>valve<br>auto<br>mosquito<br>sphere<br>start<br>access |  
-| bip_39_word_new_br2 | exact<br>canyon |  
-| bip_39_word_new_br3 | exact<br>canyon<br>tired |  
-| bip_39_word_new_br4 | exact<br>canyon<br>tired<br>scorpion |  
-| bip_39_word_new_br5 | exact<br>canyon<br>tired<br>scorpion<br>inspire |  
-| bip_39_word_new_br6 | exact<br>canyon<br>tired<br>scorpion<br>inspire<br>slot |  
-| bip_39_word_new_br7 | exact<br>canyon<br>tired<br>scorpion<br>inspire<br>slot<br>valve |  
-| bip_39_word_new_br8 | exact<br>canyon<br>tired<br>scorpion<br>inspire<br>slot<br>valve<br>auto |  
-| bip_39_word_new_br9 | exact<br>canyon<br>tired<br>scorpion<br>inspire<br>slot<br>valve<br>auto<br>mosquito |  
-| bip_39_word_new_line1 | exact |  
-| bip_39_word_new_line10 | exact
+| bip_39_word_new_br_1 | exact |  
+| bip_39_word_new_br_10 | exact<br>canyon<br>tired<br>scorpion<br>inspire<br>slot<br>valve<br>auto<br>mosquito<br>sphere |  
+| bip_39_word_new_br_11 | exact<br>canyon<br>tired<br>scorpion<br>inspire<br>slot<br>valve<br>auto<br>mosquito<br>sphere<br>start |  
+| bip_39_word_new_br_12 | exact<br>canyon<br>tired<br>scorpion<br>inspire<br>slot<br>valve<br>auto<br>mosquito<br>sphere<br>start<br>access |  
+| bip_39_word_new_br_2 | exact<br>canyon |  
+| bip_39_word_new_br_3 | exact<br>canyon<br>tired |  
+| bip_39_word_new_br_4 | exact<br>canyon<br>tired<br>scorpion |  
+| bip_39_word_new_br_5 | exact<br>canyon<br>tired<br>scorpion<br>inspire |  
+| bip_39_word_new_br_6 | exact<br>canyon<br>tired<br>scorpion<br>inspire<br>slot |  
+| bip_39_word_new_br_7 | exact<br>canyon<br>tired<br>scorpion<br>inspire<br>slot<br>valve |  
+| bip_39_word_new_br_8 | exact<br>canyon<br>tired<br>scorpion<br>inspire<br>slot<br>valve<br>auto |  
+| bip_39_word_new_br_9 | exact<br>canyon<br>tired<br>scorpion<br>inspire<br>slot<br>valve<br>auto<br>mosquito |  
+| bip_39_word_new_line_1 | exact |  
+| bip_39_word_new_line_10 | exact
 canyon
 tired
 scorpion
@@ -56,7 +56,7 @@ valve
 auto
 mosquito
 sphere |  
-| bip_39_word_new_line11 | exact
+| bip_39_word_new_line_11 | exact
 canyon
 tired
 scorpion
@@ -67,7 +67,7 @@ auto
 mosquito
 sphere
 start |  
-| bip_39_word_new_line12 | exact
+| bip_39_word_new_line_12 | exact
 canyon
 tired
 scorpion
@@ -79,34 +79,34 @@ mosquito
 sphere
 start
 access |  
-| bip_39_word_new_line2 | exact
+| bip_39_word_new_line_2 | exact
 canyon |  
-| bip_39_word_new_line3 | exact
+| bip_39_word_new_line_3 | exact
 canyon
 tired |  
-| bip_39_word_new_line4 | exact
+| bip_39_word_new_line_4 | exact
 canyon
 tired
 scorpion |  
-| bip_39_word_new_line5 | exact
+| bip_39_word_new_line_5 | exact
 canyon
 tired
 scorpion
 inspire |  
-| bip_39_word_new_line6 | exact
+| bip_39_word_new_line_6 | exact
 canyon
 tired
 scorpion
 inspire
 slot |  
-| bip_39_word_new_line7 | exact
+| bip_39_word_new_line_7 | exact
 canyon
 tired
 scorpion
 inspire
 slot
 valve |  
-| bip_39_word_new_line8 | exact
+| bip_39_word_new_line_8 | exact
 canyon
 tired
 scorpion
@@ -114,7 +114,7 @@ inspire
 slot
 valve
 auto |  
-| bip_39_word_new_line9 | exact
+| bip_39_word_new_line_9 | exact
 canyon
 tired
 scorpion

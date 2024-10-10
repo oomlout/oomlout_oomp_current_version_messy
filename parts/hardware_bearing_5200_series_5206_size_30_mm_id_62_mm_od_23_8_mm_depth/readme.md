@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | vacuum |  
-| bip_39_word_new_br10 | vacuum<br>pluck<br>manage<br>super<br>doll<br>prepare<br>stereo<br>tuition<br>divide<br>can |  
-| bip_39_word_new_br11 | vacuum<br>pluck<br>manage<br>super<br>doll<br>prepare<br>stereo<br>tuition<br>divide<br>can<br>raise |  
-| bip_39_word_new_br12 | vacuum<br>pluck<br>manage<br>super<br>doll<br>prepare<br>stereo<br>tuition<br>divide<br>can<br>raise<br>armed |  
-| bip_39_word_new_br2 | vacuum<br>pluck |  
-| bip_39_word_new_br3 | vacuum<br>pluck<br>manage |  
-| bip_39_word_new_br4 | vacuum<br>pluck<br>manage<br>super |  
-| bip_39_word_new_br5 | vacuum<br>pluck<br>manage<br>super<br>doll |  
-| bip_39_word_new_br6 | vacuum<br>pluck<br>manage<br>super<br>doll<br>prepare |  
-| bip_39_word_new_br7 | vacuum<br>pluck<br>manage<br>super<br>doll<br>prepare<br>stereo |  
-| bip_39_word_new_br8 | vacuum<br>pluck<br>manage<br>super<br>doll<br>prepare<br>stereo<br>tuition |  
-| bip_39_word_new_br9 | vacuum<br>pluck<br>manage<br>super<br>doll<br>prepare<br>stereo<br>tuition<br>divide |  
-| bip_39_word_new_line1 | vacuum |  
-| bip_39_word_new_line10 | vacuum
+| bip_39_word_new_br_1 | vacuum |  
+| bip_39_word_new_br_10 | vacuum<br>pluck<br>manage<br>super<br>doll<br>prepare<br>stereo<br>tuition<br>divide<br>can |  
+| bip_39_word_new_br_11 | vacuum<br>pluck<br>manage<br>super<br>doll<br>prepare<br>stereo<br>tuition<br>divide<br>can<br>raise |  
+| bip_39_word_new_br_12 | vacuum<br>pluck<br>manage<br>super<br>doll<br>prepare<br>stereo<br>tuition<br>divide<br>can<br>raise<br>armed |  
+| bip_39_word_new_br_2 | vacuum<br>pluck |  
+| bip_39_word_new_br_3 | vacuum<br>pluck<br>manage |  
+| bip_39_word_new_br_4 | vacuum<br>pluck<br>manage<br>super |  
+| bip_39_word_new_br_5 | vacuum<br>pluck<br>manage<br>super<br>doll |  
+| bip_39_word_new_br_6 | vacuum<br>pluck<br>manage<br>super<br>doll<br>prepare |  
+| bip_39_word_new_br_7 | vacuum<br>pluck<br>manage<br>super<br>doll<br>prepare<br>stereo |  
+| bip_39_word_new_br_8 | vacuum<br>pluck<br>manage<br>super<br>doll<br>prepare<br>stereo<br>tuition |  
+| bip_39_word_new_br_9 | vacuum<br>pluck<br>manage<br>super<br>doll<br>prepare<br>stereo<br>tuition<br>divide |  
+| bip_39_word_new_line_1 | vacuum |  
+| bip_39_word_new_line_10 | vacuum
 pluck
 manage
 super
@@ -55,7 +55,7 @@ stereo
 tuition
 divide
 can |  
-| bip_39_word_new_line11 | vacuum
+| bip_39_word_new_line_11 | vacuum
 pluck
 manage
 super
@@ -66,7 +66,7 @@ tuition
 divide
 can
 raise |  
-| bip_39_word_new_line12 | vacuum
+| bip_39_word_new_line_12 | vacuum
 pluck
 manage
 super
@@ -78,34 +78,34 @@ divide
 can
 raise
 armed |  
-| bip_39_word_new_line2 | vacuum
+| bip_39_word_new_line_2 | vacuum
 pluck |  
-| bip_39_word_new_line3 | vacuum
+| bip_39_word_new_line_3 | vacuum
 pluck
 manage |  
-| bip_39_word_new_line4 | vacuum
+| bip_39_word_new_line_4 | vacuum
 pluck
 manage
 super |  
-| bip_39_word_new_line5 | vacuum
+| bip_39_word_new_line_5 | vacuum
 pluck
 manage
 super
 doll |  
-| bip_39_word_new_line6 | vacuum
+| bip_39_word_new_line_6 | vacuum
 pluck
 manage
 super
 doll
 prepare |  
-| bip_39_word_new_line7 | vacuum
+| bip_39_word_new_line_7 | vacuum
 pluck
 manage
 super
 doll
 prepare
 stereo |  
-| bip_39_word_new_line8 | vacuum
+| bip_39_word_new_line_8 | vacuum
 pluck
 manage
 super
@@ -113,7 +113,7 @@ doll
 prepare
 stereo
 tuition |  
-| bip_39_word_new_line9 | vacuum
+| bip_39_word_new_line_9 | vacuum
 pluck
 manage
 super

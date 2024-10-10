@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | visual |  
-| bip_39_word_new_br10 | visual<br>hamster<br>dust<br>dynamic<br>same<br>notice<br>story<br>clap<br>turtle<br>hold |  
-| bip_39_word_new_br11 | visual<br>hamster<br>dust<br>dynamic<br>same<br>notice<br>story<br>clap<br>turtle<br>hold<br>always |  
-| bip_39_word_new_br12 | visual<br>hamster<br>dust<br>dynamic<br>same<br>notice<br>story<br>clap<br>turtle<br>hold<br>always<br>apart |  
-| bip_39_word_new_br2 | visual<br>hamster |  
-| bip_39_word_new_br3 | visual<br>hamster<br>dust |  
-| bip_39_word_new_br4 | visual<br>hamster<br>dust<br>dynamic |  
-| bip_39_word_new_br5 | visual<br>hamster<br>dust<br>dynamic<br>same |  
-| bip_39_word_new_br6 | visual<br>hamster<br>dust<br>dynamic<br>same<br>notice |  
-| bip_39_word_new_br7 | visual<br>hamster<br>dust<br>dynamic<br>same<br>notice<br>story |  
-| bip_39_word_new_br8 | visual<br>hamster<br>dust<br>dynamic<br>same<br>notice<br>story<br>clap |  
-| bip_39_word_new_br9 | visual<br>hamster<br>dust<br>dynamic<br>same<br>notice<br>story<br>clap<br>turtle |  
-| bip_39_word_new_line1 | visual |  
-| bip_39_word_new_line10 | visual
+| bip_39_word_new_br_1 | visual |  
+| bip_39_word_new_br_10 | visual<br>hamster<br>dust<br>dynamic<br>same<br>notice<br>story<br>clap<br>turtle<br>hold |  
+| bip_39_word_new_br_11 | visual<br>hamster<br>dust<br>dynamic<br>same<br>notice<br>story<br>clap<br>turtle<br>hold<br>always |  
+| bip_39_word_new_br_12 | visual<br>hamster<br>dust<br>dynamic<br>same<br>notice<br>story<br>clap<br>turtle<br>hold<br>always<br>apart |  
+| bip_39_word_new_br_2 | visual<br>hamster |  
+| bip_39_word_new_br_3 | visual<br>hamster<br>dust |  
+| bip_39_word_new_br_4 | visual<br>hamster<br>dust<br>dynamic |  
+| bip_39_word_new_br_5 | visual<br>hamster<br>dust<br>dynamic<br>same |  
+| bip_39_word_new_br_6 | visual<br>hamster<br>dust<br>dynamic<br>same<br>notice |  
+| bip_39_word_new_br_7 | visual<br>hamster<br>dust<br>dynamic<br>same<br>notice<br>story |  
+| bip_39_word_new_br_8 | visual<br>hamster<br>dust<br>dynamic<br>same<br>notice<br>story<br>clap |  
+| bip_39_word_new_br_9 | visual<br>hamster<br>dust<br>dynamic<br>same<br>notice<br>story<br>clap<br>turtle |  
+| bip_39_word_new_line_1 | visual |  
+| bip_39_word_new_line_10 | visual
 hamster
 dust
 dynamic
@@ -55,7 +55,7 @@ story
 clap
 turtle
 hold |  
-| bip_39_word_new_line11 | visual
+| bip_39_word_new_line_11 | visual
 hamster
 dust
 dynamic
@@ -66,7 +66,7 @@ clap
 turtle
 hold
 always |  
-| bip_39_word_new_line12 | visual
+| bip_39_word_new_line_12 | visual
 hamster
 dust
 dynamic
@@ -78,34 +78,34 @@ turtle
 hold
 always
 apart |  
-| bip_39_word_new_line2 | visual
+| bip_39_word_new_line_2 | visual
 hamster |  
-| bip_39_word_new_line3 | visual
+| bip_39_word_new_line_3 | visual
 hamster
 dust |  
-| bip_39_word_new_line4 | visual
+| bip_39_word_new_line_4 | visual
 hamster
 dust
 dynamic |  
-| bip_39_word_new_line5 | visual
+| bip_39_word_new_line_5 | visual
 hamster
 dust
 dynamic
 same |  
-| bip_39_word_new_line6 | visual
+| bip_39_word_new_line_6 | visual
 hamster
 dust
 dynamic
 same
 notice |  
-| bip_39_word_new_line7 | visual
+| bip_39_word_new_line_7 | visual
 hamster
 dust
 dynamic
 same
 notice
 story |  
-| bip_39_word_new_line8 | visual
+| bip_39_word_new_line_8 | visual
 hamster
 dust
 dynamic
@@ -113,7 +113,7 @@ same
 notice
 story
 clap |  
-| bip_39_word_new_line9 | visual
+| bip_39_word_new_line_9 | visual
 hamster
 dust
 dynamic

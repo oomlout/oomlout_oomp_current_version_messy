@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | direct |  
-| bip_39_word_new_br10 | direct<br>grit<br>tuition<br>family<br>game<br>task<br>drill<br>coil<br>bunker<br>cinnamon |  
-| bip_39_word_new_br11 | direct<br>grit<br>tuition<br>family<br>game<br>task<br>drill<br>coil<br>bunker<br>cinnamon<br>average |  
-| bip_39_word_new_br12 | direct<br>grit<br>tuition<br>family<br>game<br>task<br>drill<br>coil<br>bunker<br>cinnamon<br>average<br>afraid |  
-| bip_39_word_new_br2 | direct<br>grit |  
-| bip_39_word_new_br3 | direct<br>grit<br>tuition |  
-| bip_39_word_new_br4 | direct<br>grit<br>tuition<br>family |  
-| bip_39_word_new_br5 | direct<br>grit<br>tuition<br>family<br>game |  
-| bip_39_word_new_br6 | direct<br>grit<br>tuition<br>family<br>game<br>task |  
-| bip_39_word_new_br7 | direct<br>grit<br>tuition<br>family<br>game<br>task<br>drill |  
-| bip_39_word_new_br8 | direct<br>grit<br>tuition<br>family<br>game<br>task<br>drill<br>coil |  
-| bip_39_word_new_br9 | direct<br>grit<br>tuition<br>family<br>game<br>task<br>drill<br>coil<br>bunker |  
-| bip_39_word_new_line1 | direct |  
-| bip_39_word_new_line10 | direct
+| bip_39_word_new_br_1 | direct |  
+| bip_39_word_new_br_10 | direct<br>grit<br>tuition<br>family<br>game<br>task<br>drill<br>coil<br>bunker<br>cinnamon |  
+| bip_39_word_new_br_11 | direct<br>grit<br>tuition<br>family<br>game<br>task<br>drill<br>coil<br>bunker<br>cinnamon<br>average |  
+| bip_39_word_new_br_12 | direct<br>grit<br>tuition<br>family<br>game<br>task<br>drill<br>coil<br>bunker<br>cinnamon<br>average<br>afraid |  
+| bip_39_word_new_br_2 | direct<br>grit |  
+| bip_39_word_new_br_3 | direct<br>grit<br>tuition |  
+| bip_39_word_new_br_4 | direct<br>grit<br>tuition<br>family |  
+| bip_39_word_new_br_5 | direct<br>grit<br>tuition<br>family<br>game |  
+| bip_39_word_new_br_6 | direct<br>grit<br>tuition<br>family<br>game<br>task |  
+| bip_39_word_new_br_7 | direct<br>grit<br>tuition<br>family<br>game<br>task<br>drill |  
+| bip_39_word_new_br_8 | direct<br>grit<br>tuition<br>family<br>game<br>task<br>drill<br>coil |  
+| bip_39_word_new_br_9 | direct<br>grit<br>tuition<br>family<br>game<br>task<br>drill<br>coil<br>bunker |  
+| bip_39_word_new_line_1 | direct |  
+| bip_39_word_new_line_10 | direct
 grit
 tuition
 family
@@ -55,7 +55,7 @@ drill
 coil
 bunker
 cinnamon |  
-| bip_39_word_new_line11 | direct
+| bip_39_word_new_line_11 | direct
 grit
 tuition
 family
@@ -66,7 +66,7 @@ coil
 bunker
 cinnamon
 average |  
-| bip_39_word_new_line12 | direct
+| bip_39_word_new_line_12 | direct
 grit
 tuition
 family
@@ -78,34 +78,34 @@ bunker
 cinnamon
 average
 afraid |  
-| bip_39_word_new_line2 | direct
+| bip_39_word_new_line_2 | direct
 grit |  
-| bip_39_word_new_line3 | direct
+| bip_39_word_new_line_3 | direct
 grit
 tuition |  
-| bip_39_word_new_line4 | direct
+| bip_39_word_new_line_4 | direct
 grit
 tuition
 family |  
-| bip_39_word_new_line5 | direct
+| bip_39_word_new_line_5 | direct
 grit
 tuition
 family
 game |  
-| bip_39_word_new_line6 | direct
+| bip_39_word_new_line_6 | direct
 grit
 tuition
 family
 game
 task |  
-| bip_39_word_new_line7 | direct
+| bip_39_word_new_line_7 | direct
 grit
 tuition
 family
 game
 task
 drill |  
-| bip_39_word_new_line8 | direct
+| bip_39_word_new_line_8 | direct
 grit
 tuition
 family
@@ -113,7 +113,7 @@ game
 task
 drill
 coil |  
-| bip_39_word_new_line9 | direct
+| bip_39_word_new_line_9 | direct
 grit
 tuition
 family

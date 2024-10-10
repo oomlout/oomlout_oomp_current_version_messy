@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | select |  
-| bip_39_word_new_br10 | select<br>sorry<br>stadium<br>seat<br>seed<br>brass<br>diesel<br>piece<br>screen<br>cluster |  
-| bip_39_word_new_br11 | select<br>sorry<br>stadium<br>seat<br>seed<br>brass<br>diesel<br>piece<br>screen<br>cluster<br>smart |  
-| bip_39_word_new_br12 | select<br>sorry<br>stadium<br>seat<br>seed<br>brass<br>diesel<br>piece<br>screen<br>cluster<br>smart<br>among |  
-| bip_39_word_new_br2 | select<br>sorry |  
-| bip_39_word_new_br3 | select<br>sorry<br>stadium |  
-| bip_39_word_new_br4 | select<br>sorry<br>stadium<br>seat |  
-| bip_39_word_new_br5 | select<br>sorry<br>stadium<br>seat<br>seed |  
-| bip_39_word_new_br6 | select<br>sorry<br>stadium<br>seat<br>seed<br>brass |  
-| bip_39_word_new_br7 | select<br>sorry<br>stadium<br>seat<br>seed<br>brass<br>diesel |  
-| bip_39_word_new_br8 | select<br>sorry<br>stadium<br>seat<br>seed<br>brass<br>diesel<br>piece |  
-| bip_39_word_new_br9 | select<br>sorry<br>stadium<br>seat<br>seed<br>brass<br>diesel<br>piece<br>screen |  
-| bip_39_word_new_line1 | select |  
-| bip_39_word_new_line10 | select
+| bip_39_word_new_br_1 | select |  
+| bip_39_word_new_br_10 | select<br>sorry<br>stadium<br>seat<br>seed<br>brass<br>diesel<br>piece<br>screen<br>cluster |  
+| bip_39_word_new_br_11 | select<br>sorry<br>stadium<br>seat<br>seed<br>brass<br>diesel<br>piece<br>screen<br>cluster<br>smart |  
+| bip_39_word_new_br_12 | select<br>sorry<br>stadium<br>seat<br>seed<br>brass<br>diesel<br>piece<br>screen<br>cluster<br>smart<br>among |  
+| bip_39_word_new_br_2 | select<br>sorry |  
+| bip_39_word_new_br_3 | select<br>sorry<br>stadium |  
+| bip_39_word_new_br_4 | select<br>sorry<br>stadium<br>seat |  
+| bip_39_word_new_br_5 | select<br>sorry<br>stadium<br>seat<br>seed |  
+| bip_39_word_new_br_6 | select<br>sorry<br>stadium<br>seat<br>seed<br>brass |  
+| bip_39_word_new_br_7 | select<br>sorry<br>stadium<br>seat<br>seed<br>brass<br>diesel |  
+| bip_39_word_new_br_8 | select<br>sorry<br>stadium<br>seat<br>seed<br>brass<br>diesel<br>piece |  
+| bip_39_word_new_br_9 | select<br>sorry<br>stadium<br>seat<br>seed<br>brass<br>diesel<br>piece<br>screen |  
+| bip_39_word_new_line_1 | select |  
+| bip_39_word_new_line_10 | select
 sorry
 stadium
 seat
@@ -55,7 +55,7 @@ diesel
 piece
 screen
 cluster |  
-| bip_39_word_new_line11 | select
+| bip_39_word_new_line_11 | select
 sorry
 stadium
 seat
@@ -66,7 +66,7 @@ piece
 screen
 cluster
 smart |  
-| bip_39_word_new_line12 | select
+| bip_39_word_new_line_12 | select
 sorry
 stadium
 seat
@@ -78,34 +78,34 @@ screen
 cluster
 smart
 among |  
-| bip_39_word_new_line2 | select
+| bip_39_word_new_line_2 | select
 sorry |  
-| bip_39_word_new_line3 | select
+| bip_39_word_new_line_3 | select
 sorry
 stadium |  
-| bip_39_word_new_line4 | select
+| bip_39_word_new_line_4 | select
 sorry
 stadium
 seat |  
-| bip_39_word_new_line5 | select
+| bip_39_word_new_line_5 | select
 sorry
 stadium
 seat
 seed |  
-| bip_39_word_new_line6 | select
+| bip_39_word_new_line_6 | select
 sorry
 stadium
 seat
 seed
 brass |  
-| bip_39_word_new_line7 | select
+| bip_39_word_new_line_7 | select
 sorry
 stadium
 seat
 seed
 brass
 diesel |  
-| bip_39_word_new_line8 | select
+| bip_39_word_new_line_8 | select
 sorry
 stadium
 seat
@@ -113,7 +113,7 @@ seed
 brass
 diesel
 piece |  
-| bip_39_word_new_line9 | select
+| bip_39_word_new_line_9 | select
 sorry
 stadium
 seat

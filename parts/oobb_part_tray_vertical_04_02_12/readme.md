@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | second |  
-| bip_39_word_new_br10 | second<br>ozone<br>reform<br>entire<br>unveil<br>bring<br>rare<br>gravity<br>vintage<br>hammer |  
-| bip_39_word_new_br11 | second<br>ozone<br>reform<br>entire<br>unveil<br>bring<br>rare<br>gravity<br>vintage<br>hammer<br>degree |  
-| bip_39_word_new_br12 | second<br>ozone<br>reform<br>entire<br>unveil<br>bring<br>rare<br>gravity<br>vintage<br>hammer<br>degree<br>alcohol |  
-| bip_39_word_new_br2 | second<br>ozone |  
-| bip_39_word_new_br3 | second<br>ozone<br>reform |  
-| bip_39_word_new_br4 | second<br>ozone<br>reform<br>entire |  
-| bip_39_word_new_br5 | second<br>ozone<br>reform<br>entire<br>unveil |  
-| bip_39_word_new_br6 | second<br>ozone<br>reform<br>entire<br>unveil<br>bring |  
-| bip_39_word_new_br7 | second<br>ozone<br>reform<br>entire<br>unveil<br>bring<br>rare |  
-| bip_39_word_new_br8 | second<br>ozone<br>reform<br>entire<br>unveil<br>bring<br>rare<br>gravity |  
-| bip_39_word_new_br9 | second<br>ozone<br>reform<br>entire<br>unveil<br>bring<br>rare<br>gravity<br>vintage |  
-| bip_39_word_new_line1 | second |  
-| bip_39_word_new_line10 | second
+| bip_39_word_new_br_1 | second |  
+| bip_39_word_new_br_10 | second<br>ozone<br>reform<br>entire<br>unveil<br>bring<br>rare<br>gravity<br>vintage<br>hammer |  
+| bip_39_word_new_br_11 | second<br>ozone<br>reform<br>entire<br>unveil<br>bring<br>rare<br>gravity<br>vintage<br>hammer<br>degree |  
+| bip_39_word_new_br_12 | second<br>ozone<br>reform<br>entire<br>unveil<br>bring<br>rare<br>gravity<br>vintage<br>hammer<br>degree<br>alcohol |  
+| bip_39_word_new_br_2 | second<br>ozone |  
+| bip_39_word_new_br_3 | second<br>ozone<br>reform |  
+| bip_39_word_new_br_4 | second<br>ozone<br>reform<br>entire |  
+| bip_39_word_new_br_5 | second<br>ozone<br>reform<br>entire<br>unveil |  
+| bip_39_word_new_br_6 | second<br>ozone<br>reform<br>entire<br>unveil<br>bring |  
+| bip_39_word_new_br_7 | second<br>ozone<br>reform<br>entire<br>unveil<br>bring<br>rare |  
+| bip_39_word_new_br_8 | second<br>ozone<br>reform<br>entire<br>unveil<br>bring<br>rare<br>gravity |  
+| bip_39_word_new_br_9 | second<br>ozone<br>reform<br>entire<br>unveil<br>bring<br>rare<br>gravity<br>vintage |  
+| bip_39_word_new_line_1 | second |  
+| bip_39_word_new_line_10 | second
 ozone
 reform
 entire
@@ -55,7 +55,7 @@ rare
 gravity
 vintage
 hammer |  
-| bip_39_word_new_line11 | second
+| bip_39_word_new_line_11 | second
 ozone
 reform
 entire
@@ -66,7 +66,7 @@ gravity
 vintage
 hammer
 degree |  
-| bip_39_word_new_line12 | second
+| bip_39_word_new_line_12 | second
 ozone
 reform
 entire
@@ -78,34 +78,34 @@ vintage
 hammer
 degree
 alcohol |  
-| bip_39_word_new_line2 | second
+| bip_39_word_new_line_2 | second
 ozone |  
-| bip_39_word_new_line3 | second
+| bip_39_word_new_line_3 | second
 ozone
 reform |  
-| bip_39_word_new_line4 | second
+| bip_39_word_new_line_4 | second
 ozone
 reform
 entire |  
-| bip_39_word_new_line5 | second
+| bip_39_word_new_line_5 | second
 ozone
 reform
 entire
 unveil |  
-| bip_39_word_new_line6 | second
+| bip_39_word_new_line_6 | second
 ozone
 reform
 entire
 unveil
 bring |  
-| bip_39_word_new_line7 | second
+| bip_39_word_new_line_7 | second
 ozone
 reform
 entire
 unveil
 bring
 rare |  
-| bip_39_word_new_line8 | second
+| bip_39_word_new_line_8 | second
 ozone
 reform
 entire
@@ -113,7 +113,7 @@ unveil
 bring
 rare
 gravity |  
-| bip_39_word_new_line9 | second
+| bip_39_word_new_line_9 | second
 ozone
 reform
 entire

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | great |  
-| bip_39_word_new_br10 | great<br>kiwi<br>erase<br>blossom<br>major<br>brass<br>spin<br>civil<br>excuse<br>online |  
-| bip_39_word_new_br11 | great<br>kiwi<br>erase<br>blossom<br>major<br>brass<br>spin<br>civil<br>excuse<br>online<br>hole |  
-| bip_39_word_new_br12 | great<br>kiwi<br>erase<br>blossom<br>major<br>brass<br>spin<br>civil<br>excuse<br>online<br>hole<br>ahead |  
-| bip_39_word_new_br2 | great<br>kiwi |  
-| bip_39_word_new_br3 | great<br>kiwi<br>erase |  
-| bip_39_word_new_br4 | great<br>kiwi<br>erase<br>blossom |  
-| bip_39_word_new_br5 | great<br>kiwi<br>erase<br>blossom<br>major |  
-| bip_39_word_new_br6 | great<br>kiwi<br>erase<br>blossom<br>major<br>brass |  
-| bip_39_word_new_br7 | great<br>kiwi<br>erase<br>blossom<br>major<br>brass<br>spin |  
-| bip_39_word_new_br8 | great<br>kiwi<br>erase<br>blossom<br>major<br>brass<br>spin<br>civil |  
-| bip_39_word_new_br9 | great<br>kiwi<br>erase<br>blossom<br>major<br>brass<br>spin<br>civil<br>excuse |  
-| bip_39_word_new_line1 | great |  
-| bip_39_word_new_line10 | great
+| bip_39_word_new_br_1 | great |  
+| bip_39_word_new_br_10 | great<br>kiwi<br>erase<br>blossom<br>major<br>brass<br>spin<br>civil<br>excuse<br>online |  
+| bip_39_word_new_br_11 | great<br>kiwi<br>erase<br>blossom<br>major<br>brass<br>spin<br>civil<br>excuse<br>online<br>hole |  
+| bip_39_word_new_br_12 | great<br>kiwi<br>erase<br>blossom<br>major<br>brass<br>spin<br>civil<br>excuse<br>online<br>hole<br>ahead |  
+| bip_39_word_new_br_2 | great<br>kiwi |  
+| bip_39_word_new_br_3 | great<br>kiwi<br>erase |  
+| bip_39_word_new_br_4 | great<br>kiwi<br>erase<br>blossom |  
+| bip_39_word_new_br_5 | great<br>kiwi<br>erase<br>blossom<br>major |  
+| bip_39_word_new_br_6 | great<br>kiwi<br>erase<br>blossom<br>major<br>brass |  
+| bip_39_word_new_br_7 | great<br>kiwi<br>erase<br>blossom<br>major<br>brass<br>spin |  
+| bip_39_word_new_br_8 | great<br>kiwi<br>erase<br>blossom<br>major<br>brass<br>spin<br>civil |  
+| bip_39_word_new_br_9 | great<br>kiwi<br>erase<br>blossom<br>major<br>brass<br>spin<br>civil<br>excuse |  
+| bip_39_word_new_line_1 | great |  
+| bip_39_word_new_line_10 | great
 kiwi
 erase
 blossom
@@ -55,7 +55,7 @@ spin
 civil
 excuse
 online |  
-| bip_39_word_new_line11 | great
+| bip_39_word_new_line_11 | great
 kiwi
 erase
 blossom
@@ -66,7 +66,7 @@ civil
 excuse
 online
 hole |  
-| bip_39_word_new_line12 | great
+| bip_39_word_new_line_12 | great
 kiwi
 erase
 blossom
@@ -78,34 +78,34 @@ excuse
 online
 hole
 ahead |  
-| bip_39_word_new_line2 | great
+| bip_39_word_new_line_2 | great
 kiwi |  
-| bip_39_word_new_line3 | great
+| bip_39_word_new_line_3 | great
 kiwi
 erase |  
-| bip_39_word_new_line4 | great
+| bip_39_word_new_line_4 | great
 kiwi
 erase
 blossom |  
-| bip_39_word_new_line5 | great
+| bip_39_word_new_line_5 | great
 kiwi
 erase
 blossom
 major |  
-| bip_39_word_new_line6 | great
+| bip_39_word_new_line_6 | great
 kiwi
 erase
 blossom
 major
 brass |  
-| bip_39_word_new_line7 | great
+| bip_39_word_new_line_7 | great
 kiwi
 erase
 blossom
 major
 brass
 spin |  
-| bip_39_word_new_line8 | great
+| bip_39_word_new_line_8 | great
 kiwi
 erase
 blossom
@@ -113,7 +113,7 @@ major
 brass
 spin
 civil |  
-| bip_39_word_new_line9 | great
+| bip_39_word_new_line_9 | great
 kiwi
 erase
 blossom

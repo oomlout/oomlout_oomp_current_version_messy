@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cave |  
-| bip_39_word_new_br10 | cave<br>trap<br>veteran<br>output<br>thunder<br>hero<br>name<br>cute<br>crop<br>peasant |  
-| bip_39_word_new_br11 | cave<br>trap<br>veteran<br>output<br>thunder<br>hero<br>name<br>cute<br>crop<br>peasant<br>hood |  
-| bip_39_word_new_br12 | cave<br>trap<br>veteran<br>output<br>thunder<br>hero<br>name<br>cute<br>crop<br>peasant<br>hood<br>angle |  
-| bip_39_word_new_br2 | cave<br>trap |  
-| bip_39_word_new_br3 | cave<br>trap<br>veteran |  
-| bip_39_word_new_br4 | cave<br>trap<br>veteran<br>output |  
-| bip_39_word_new_br5 | cave<br>trap<br>veteran<br>output<br>thunder |  
-| bip_39_word_new_br6 | cave<br>trap<br>veteran<br>output<br>thunder<br>hero |  
-| bip_39_word_new_br7 | cave<br>trap<br>veteran<br>output<br>thunder<br>hero<br>name |  
-| bip_39_word_new_br8 | cave<br>trap<br>veteran<br>output<br>thunder<br>hero<br>name<br>cute |  
-| bip_39_word_new_br9 | cave<br>trap<br>veteran<br>output<br>thunder<br>hero<br>name<br>cute<br>crop |  
-| bip_39_word_new_line1 | cave |  
-| bip_39_word_new_line10 | cave
+| bip_39_word_new_br_1 | cave |  
+| bip_39_word_new_br_10 | cave<br>trap<br>veteran<br>output<br>thunder<br>hero<br>name<br>cute<br>crop<br>peasant |  
+| bip_39_word_new_br_11 | cave<br>trap<br>veteran<br>output<br>thunder<br>hero<br>name<br>cute<br>crop<br>peasant<br>hood |  
+| bip_39_word_new_br_12 | cave<br>trap<br>veteran<br>output<br>thunder<br>hero<br>name<br>cute<br>crop<br>peasant<br>hood<br>angle |  
+| bip_39_word_new_br_2 | cave<br>trap |  
+| bip_39_word_new_br_3 | cave<br>trap<br>veteran |  
+| bip_39_word_new_br_4 | cave<br>trap<br>veteran<br>output |  
+| bip_39_word_new_br_5 | cave<br>trap<br>veteran<br>output<br>thunder |  
+| bip_39_word_new_br_6 | cave<br>trap<br>veteran<br>output<br>thunder<br>hero |  
+| bip_39_word_new_br_7 | cave<br>trap<br>veteran<br>output<br>thunder<br>hero<br>name |  
+| bip_39_word_new_br_8 | cave<br>trap<br>veteran<br>output<br>thunder<br>hero<br>name<br>cute |  
+| bip_39_word_new_br_9 | cave<br>trap<br>veteran<br>output<br>thunder<br>hero<br>name<br>cute<br>crop |  
+| bip_39_word_new_line_1 | cave |  
+| bip_39_word_new_line_10 | cave
 trap
 veteran
 output
@@ -55,7 +55,7 @@ name
 cute
 crop
 peasant |  
-| bip_39_word_new_line11 | cave
+| bip_39_word_new_line_11 | cave
 trap
 veteran
 output
@@ -66,7 +66,7 @@ cute
 crop
 peasant
 hood |  
-| bip_39_word_new_line12 | cave
+| bip_39_word_new_line_12 | cave
 trap
 veteran
 output
@@ -78,34 +78,34 @@ crop
 peasant
 hood
 angle |  
-| bip_39_word_new_line2 | cave
+| bip_39_word_new_line_2 | cave
 trap |  
-| bip_39_word_new_line3 | cave
+| bip_39_word_new_line_3 | cave
 trap
 veteran |  
-| bip_39_word_new_line4 | cave
+| bip_39_word_new_line_4 | cave
 trap
 veteran
 output |  
-| bip_39_word_new_line5 | cave
+| bip_39_word_new_line_5 | cave
 trap
 veteran
 output
 thunder |  
-| bip_39_word_new_line6 | cave
+| bip_39_word_new_line_6 | cave
 trap
 veteran
 output
 thunder
 hero |  
-| bip_39_word_new_line7 | cave
+| bip_39_word_new_line_7 | cave
 trap
 veteran
 output
 thunder
 hero
 name |  
-| bip_39_word_new_line8 | cave
+| bip_39_word_new_line_8 | cave
 trap
 veteran
 output
@@ -113,7 +113,7 @@ thunder
 hero
 name
 cute |  
-| bip_39_word_new_line9 | cave
+| bip_39_word_new_line_9 | cave
 trap
 veteran
 output

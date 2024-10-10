@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hunt |  
-| bip_39_word_new_br10 | hunt<br>nurse<br>spray<br>view<br>fan<br>afford<br>six<br>foam<br>ski<br>truth |  
-| bip_39_word_new_br11 | hunt<br>nurse<br>spray<br>view<br>fan<br>afford<br>six<br>foam<br>ski<br>truth<br>alter |  
-| bip_39_word_new_br12 | hunt<br>nurse<br>spray<br>view<br>fan<br>afford<br>six<br>foam<br>ski<br>truth<br>alter<br>accuse |  
-| bip_39_word_new_br2 | hunt<br>nurse |  
-| bip_39_word_new_br3 | hunt<br>nurse<br>spray |  
-| bip_39_word_new_br4 | hunt<br>nurse<br>spray<br>view |  
-| bip_39_word_new_br5 | hunt<br>nurse<br>spray<br>view<br>fan |  
-| bip_39_word_new_br6 | hunt<br>nurse<br>spray<br>view<br>fan<br>afford |  
-| bip_39_word_new_br7 | hunt<br>nurse<br>spray<br>view<br>fan<br>afford<br>six |  
-| bip_39_word_new_br8 | hunt<br>nurse<br>spray<br>view<br>fan<br>afford<br>six<br>foam |  
-| bip_39_word_new_br9 | hunt<br>nurse<br>spray<br>view<br>fan<br>afford<br>six<br>foam<br>ski |  
-| bip_39_word_new_line1 | hunt |  
-| bip_39_word_new_line10 | hunt
+| bip_39_word_new_br_1 | hunt |  
+| bip_39_word_new_br_10 | hunt<br>nurse<br>spray<br>view<br>fan<br>afford<br>six<br>foam<br>ski<br>truth |  
+| bip_39_word_new_br_11 | hunt<br>nurse<br>spray<br>view<br>fan<br>afford<br>six<br>foam<br>ski<br>truth<br>alter |  
+| bip_39_word_new_br_12 | hunt<br>nurse<br>spray<br>view<br>fan<br>afford<br>six<br>foam<br>ski<br>truth<br>alter<br>accuse |  
+| bip_39_word_new_br_2 | hunt<br>nurse |  
+| bip_39_word_new_br_3 | hunt<br>nurse<br>spray |  
+| bip_39_word_new_br_4 | hunt<br>nurse<br>spray<br>view |  
+| bip_39_word_new_br_5 | hunt<br>nurse<br>spray<br>view<br>fan |  
+| bip_39_word_new_br_6 | hunt<br>nurse<br>spray<br>view<br>fan<br>afford |  
+| bip_39_word_new_br_7 | hunt<br>nurse<br>spray<br>view<br>fan<br>afford<br>six |  
+| bip_39_word_new_br_8 | hunt<br>nurse<br>spray<br>view<br>fan<br>afford<br>six<br>foam |  
+| bip_39_word_new_br_9 | hunt<br>nurse<br>spray<br>view<br>fan<br>afford<br>six<br>foam<br>ski |  
+| bip_39_word_new_line_1 | hunt |  
+| bip_39_word_new_line_10 | hunt
 nurse
 spray
 view
@@ -55,7 +55,7 @@ six
 foam
 ski
 truth |  
-| bip_39_word_new_line11 | hunt
+| bip_39_word_new_line_11 | hunt
 nurse
 spray
 view
@@ -66,7 +66,7 @@ foam
 ski
 truth
 alter |  
-| bip_39_word_new_line12 | hunt
+| bip_39_word_new_line_12 | hunt
 nurse
 spray
 view
@@ -78,34 +78,34 @@ ski
 truth
 alter
 accuse |  
-| bip_39_word_new_line2 | hunt
+| bip_39_word_new_line_2 | hunt
 nurse |  
-| bip_39_word_new_line3 | hunt
+| bip_39_word_new_line_3 | hunt
 nurse
 spray |  
-| bip_39_word_new_line4 | hunt
+| bip_39_word_new_line_4 | hunt
 nurse
 spray
 view |  
-| bip_39_word_new_line5 | hunt
+| bip_39_word_new_line_5 | hunt
 nurse
 spray
 view
 fan |  
-| bip_39_word_new_line6 | hunt
+| bip_39_word_new_line_6 | hunt
 nurse
 spray
 view
 fan
 afford |  
-| bip_39_word_new_line7 | hunt
+| bip_39_word_new_line_7 | hunt
 nurse
 spray
 view
 fan
 afford
 six |  
-| bip_39_word_new_line8 | hunt
+| bip_39_word_new_line_8 | hunt
 nurse
 spray
 view
@@ -113,7 +113,7 @@ fan
 afford
 six
 foam |  
-| bip_39_word_new_line9 | hunt
+| bip_39_word_new_line_9 | hunt
 nurse
 spray
 view

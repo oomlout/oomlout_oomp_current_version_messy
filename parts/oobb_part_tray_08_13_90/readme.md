@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mistake |  
-| bip_39_word_new_br10 | mistake<br>elephant<br>sunny<br>place<br>fly<br>target<br>track<br>rate<br>speak<br>common |  
-| bip_39_word_new_br11 | mistake<br>elephant<br>sunny<br>place<br>fly<br>target<br>track<br>rate<br>speak<br>common<br>emotion |  
-| bip_39_word_new_br12 | mistake<br>elephant<br>sunny<br>place<br>fly<br>target<br>track<br>rate<br>speak<br>common<br>emotion<br>armed |  
-| bip_39_word_new_br2 | mistake<br>elephant |  
-| bip_39_word_new_br3 | mistake<br>elephant<br>sunny |  
-| bip_39_word_new_br4 | mistake<br>elephant<br>sunny<br>place |  
-| bip_39_word_new_br5 | mistake<br>elephant<br>sunny<br>place<br>fly |  
-| bip_39_word_new_br6 | mistake<br>elephant<br>sunny<br>place<br>fly<br>target |  
-| bip_39_word_new_br7 | mistake<br>elephant<br>sunny<br>place<br>fly<br>target<br>track |  
-| bip_39_word_new_br8 | mistake<br>elephant<br>sunny<br>place<br>fly<br>target<br>track<br>rate |  
-| bip_39_word_new_br9 | mistake<br>elephant<br>sunny<br>place<br>fly<br>target<br>track<br>rate<br>speak |  
-| bip_39_word_new_line1 | mistake |  
-| bip_39_word_new_line10 | mistake
+| bip_39_word_new_br_1 | mistake |  
+| bip_39_word_new_br_10 | mistake<br>elephant<br>sunny<br>place<br>fly<br>target<br>track<br>rate<br>speak<br>common |  
+| bip_39_word_new_br_11 | mistake<br>elephant<br>sunny<br>place<br>fly<br>target<br>track<br>rate<br>speak<br>common<br>emotion |  
+| bip_39_word_new_br_12 | mistake<br>elephant<br>sunny<br>place<br>fly<br>target<br>track<br>rate<br>speak<br>common<br>emotion<br>armed |  
+| bip_39_word_new_br_2 | mistake<br>elephant |  
+| bip_39_word_new_br_3 | mistake<br>elephant<br>sunny |  
+| bip_39_word_new_br_4 | mistake<br>elephant<br>sunny<br>place |  
+| bip_39_word_new_br_5 | mistake<br>elephant<br>sunny<br>place<br>fly |  
+| bip_39_word_new_br_6 | mistake<br>elephant<br>sunny<br>place<br>fly<br>target |  
+| bip_39_word_new_br_7 | mistake<br>elephant<br>sunny<br>place<br>fly<br>target<br>track |  
+| bip_39_word_new_br_8 | mistake<br>elephant<br>sunny<br>place<br>fly<br>target<br>track<br>rate |  
+| bip_39_word_new_br_9 | mistake<br>elephant<br>sunny<br>place<br>fly<br>target<br>track<br>rate<br>speak |  
+| bip_39_word_new_line_1 | mistake |  
+| bip_39_word_new_line_10 | mistake
 elephant
 sunny
 place
@@ -55,7 +55,7 @@ track
 rate
 speak
 common |  
-| bip_39_word_new_line11 | mistake
+| bip_39_word_new_line_11 | mistake
 elephant
 sunny
 place
@@ -66,7 +66,7 @@ rate
 speak
 common
 emotion |  
-| bip_39_word_new_line12 | mistake
+| bip_39_word_new_line_12 | mistake
 elephant
 sunny
 place
@@ -78,34 +78,34 @@ speak
 common
 emotion
 armed |  
-| bip_39_word_new_line2 | mistake
+| bip_39_word_new_line_2 | mistake
 elephant |  
-| bip_39_word_new_line3 | mistake
+| bip_39_word_new_line_3 | mistake
 elephant
 sunny |  
-| bip_39_word_new_line4 | mistake
+| bip_39_word_new_line_4 | mistake
 elephant
 sunny
 place |  
-| bip_39_word_new_line5 | mistake
+| bip_39_word_new_line_5 | mistake
 elephant
 sunny
 place
 fly |  
-| bip_39_word_new_line6 | mistake
+| bip_39_word_new_line_6 | mistake
 elephant
 sunny
 place
 fly
 target |  
-| bip_39_word_new_line7 | mistake
+| bip_39_word_new_line_7 | mistake
 elephant
 sunny
 place
 fly
 target
 track |  
-| bip_39_word_new_line8 | mistake
+| bip_39_word_new_line_8 | mistake
 elephant
 sunny
 place
@@ -113,7 +113,7 @@ fly
 target
 track
 rate |  
-| bip_39_word_new_line9 | mistake
+| bip_39_word_new_line_9 | mistake
 elephant
 sunny
 place

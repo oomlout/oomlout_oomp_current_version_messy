@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dice |  
-| bip_39_word_new_br10 | dice<br>orange<br>measure<br>toddler<br>boat<br>scissors<br>valid<br>behind<br>island<br>rough |  
-| bip_39_word_new_br11 | dice<br>orange<br>measure<br>toddler<br>boat<br>scissors<br>valid<br>behind<br>island<br>rough<br>hotel |  
-| bip_39_word_new_br12 | dice<br>orange<br>measure<br>toddler<br>boat<br>scissors<br>valid<br>behind<br>island<br>rough<br>hotel<br>antenna |  
-| bip_39_word_new_br2 | dice<br>orange |  
-| bip_39_word_new_br3 | dice<br>orange<br>measure |  
-| bip_39_word_new_br4 | dice<br>orange<br>measure<br>toddler |  
-| bip_39_word_new_br5 | dice<br>orange<br>measure<br>toddler<br>boat |  
-| bip_39_word_new_br6 | dice<br>orange<br>measure<br>toddler<br>boat<br>scissors |  
-| bip_39_word_new_br7 | dice<br>orange<br>measure<br>toddler<br>boat<br>scissors<br>valid |  
-| bip_39_word_new_br8 | dice<br>orange<br>measure<br>toddler<br>boat<br>scissors<br>valid<br>behind |  
-| bip_39_word_new_br9 | dice<br>orange<br>measure<br>toddler<br>boat<br>scissors<br>valid<br>behind<br>island |  
-| bip_39_word_new_line1 | dice |  
-| bip_39_word_new_line10 | dice
+| bip_39_word_new_br_1 | dice |  
+| bip_39_word_new_br_10 | dice<br>orange<br>measure<br>toddler<br>boat<br>scissors<br>valid<br>behind<br>island<br>rough |  
+| bip_39_word_new_br_11 | dice<br>orange<br>measure<br>toddler<br>boat<br>scissors<br>valid<br>behind<br>island<br>rough<br>hotel |  
+| bip_39_word_new_br_12 | dice<br>orange<br>measure<br>toddler<br>boat<br>scissors<br>valid<br>behind<br>island<br>rough<br>hotel<br>antenna |  
+| bip_39_word_new_br_2 | dice<br>orange |  
+| bip_39_word_new_br_3 | dice<br>orange<br>measure |  
+| bip_39_word_new_br_4 | dice<br>orange<br>measure<br>toddler |  
+| bip_39_word_new_br_5 | dice<br>orange<br>measure<br>toddler<br>boat |  
+| bip_39_word_new_br_6 | dice<br>orange<br>measure<br>toddler<br>boat<br>scissors |  
+| bip_39_word_new_br_7 | dice<br>orange<br>measure<br>toddler<br>boat<br>scissors<br>valid |  
+| bip_39_word_new_br_8 | dice<br>orange<br>measure<br>toddler<br>boat<br>scissors<br>valid<br>behind |  
+| bip_39_word_new_br_9 | dice<br>orange<br>measure<br>toddler<br>boat<br>scissors<br>valid<br>behind<br>island |  
+| bip_39_word_new_line_1 | dice |  
+| bip_39_word_new_line_10 | dice
 orange
 measure
 toddler
@@ -55,7 +55,7 @@ valid
 behind
 island
 rough |  
-| bip_39_word_new_line11 | dice
+| bip_39_word_new_line_11 | dice
 orange
 measure
 toddler
@@ -66,7 +66,7 @@ behind
 island
 rough
 hotel |  
-| bip_39_word_new_line12 | dice
+| bip_39_word_new_line_12 | dice
 orange
 measure
 toddler
@@ -78,34 +78,34 @@ island
 rough
 hotel
 antenna |  
-| bip_39_word_new_line2 | dice
+| bip_39_word_new_line_2 | dice
 orange |  
-| bip_39_word_new_line3 | dice
+| bip_39_word_new_line_3 | dice
 orange
 measure |  
-| bip_39_word_new_line4 | dice
+| bip_39_word_new_line_4 | dice
 orange
 measure
 toddler |  
-| bip_39_word_new_line5 | dice
+| bip_39_word_new_line_5 | dice
 orange
 measure
 toddler
 boat |  
-| bip_39_word_new_line6 | dice
+| bip_39_word_new_line_6 | dice
 orange
 measure
 toddler
 boat
 scissors |  
-| bip_39_word_new_line7 | dice
+| bip_39_word_new_line_7 | dice
 orange
 measure
 toddler
 boat
 scissors
 valid |  
-| bip_39_word_new_line8 | dice
+| bip_39_word_new_line_8 | dice
 orange
 measure
 toddler
@@ -113,7 +113,7 @@ boat
 scissors
 valid
 behind |  
-| bip_39_word_new_line9 | dice
+| bip_39_word_new_line_9 | dice
 orange
 measure
 toddler

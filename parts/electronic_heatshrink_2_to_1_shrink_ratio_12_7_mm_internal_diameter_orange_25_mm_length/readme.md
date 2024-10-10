@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | execute |  
-| bip_39_word_new_br10 | execute<br>yellow<br>unaware<br>panic<br>place<br>zero<br>holiday<br>pluck<br>sport<br>photo |  
-| bip_39_word_new_br11 | execute<br>yellow<br>unaware<br>panic<br>place<br>zero<br>holiday<br>pluck<br>sport<br>photo<br>crane |  
-| bip_39_word_new_br2 | execute<br>yellow |  
-| bip_39_word_new_br3 | execute<br>yellow<br>unaware |  
-| bip_39_word_new_br4 | execute<br>yellow<br>unaware<br>panic |  
-| bip_39_word_new_br5 | execute<br>yellow<br>unaware<br>panic<br>place |  
-| bip_39_word_new_br6 | execute<br>yellow<br>unaware<br>panic<br>place<br>zero |  
-| bip_39_word_new_br7 | execute<br>yellow<br>unaware<br>panic<br>place<br>zero<br>holiday |  
-| bip_39_word_new_br8 | execute<br>yellow<br>unaware<br>panic<br>place<br>zero<br>holiday<br>pluck |  
-| bip_39_word_new_br9 | execute<br>yellow<br>unaware<br>panic<br>place<br>zero<br>holiday<br>pluck<br>sport |  
-| bip_39_word_new_line1 | execute |  
-| bip_39_word_new_line10 | execute
+| bip_39_word_new_br_1 | execute |  
+| bip_39_word_new_br_10 | execute<br>yellow<br>unaware<br>panic<br>place<br>zero<br>holiday<br>pluck<br>sport<br>photo |  
+| bip_39_word_new_br_11 | execute<br>yellow<br>unaware<br>panic<br>place<br>zero<br>holiday<br>pluck<br>sport<br>photo<br>crane |  
+| bip_39_word_new_br_2 | execute<br>yellow |  
+| bip_39_word_new_br_3 | execute<br>yellow<br>unaware |  
+| bip_39_word_new_br_4 | execute<br>yellow<br>unaware<br>panic |  
+| bip_39_word_new_br_5 | execute<br>yellow<br>unaware<br>panic<br>place |  
+| bip_39_word_new_br_6 | execute<br>yellow<br>unaware<br>panic<br>place<br>zero |  
+| bip_39_word_new_br_7 | execute<br>yellow<br>unaware<br>panic<br>place<br>zero<br>holiday |  
+| bip_39_word_new_br_8 | execute<br>yellow<br>unaware<br>panic<br>place<br>zero<br>holiday<br>pluck |  
+| bip_39_word_new_br_9 | execute<br>yellow<br>unaware<br>panic<br>place<br>zero<br>holiday<br>pluck<br>sport |  
+| bip_39_word_new_line_1 | execute |  
+| bip_39_word_new_line_10 | execute
 yellow
 unaware
 panic
@@ -54,7 +54,7 @@ holiday
 pluck
 sport
 photo |  
-| bip_39_word_new_line11 | execute
+| bip_39_word_new_line_11 | execute
 yellow
 unaware
 panic
@@ -65,34 +65,34 @@ pluck
 sport
 photo
 crane |  
-| bip_39_word_new_line2 | execute
+| bip_39_word_new_line_2 | execute
 yellow |  
-| bip_39_word_new_line3 | execute
+| bip_39_word_new_line_3 | execute
 yellow
 unaware |  
-| bip_39_word_new_line4 | execute
+| bip_39_word_new_line_4 | execute
 yellow
 unaware
 panic |  
-| bip_39_word_new_line5 | execute
+| bip_39_word_new_line_5 | execute
 yellow
 unaware
 panic
 place |  
-| bip_39_word_new_line6 | execute
+| bip_39_word_new_line_6 | execute
 yellow
 unaware
 panic
 place
 zero |  
-| bip_39_word_new_line7 | execute
+| bip_39_word_new_line_7 | execute
 yellow
 unaware
 panic
 place
 zero
 holiday |  
-| bip_39_word_new_line8 | execute
+| bip_39_word_new_line_8 | execute
 yellow
 unaware
 panic
@@ -100,7 +100,7 @@ place
 zero
 holiday
 pluck |  
-| bip_39_word_new_line9 | execute
+| bip_39_word_new_line_9 | execute
 yellow
 unaware
 panic

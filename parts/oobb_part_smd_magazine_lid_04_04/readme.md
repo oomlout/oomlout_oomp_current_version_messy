@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | easy |  
-| bip_39_word_new_br10 | easy<br>quarter<br>this<br>salute<br>course<br>plate<br>dune<br>rug<br>world<br>slot |  
-| bip_39_word_new_br11 | easy<br>quarter<br>this<br>salute<br>course<br>plate<br>dune<br>rug<br>world<br>slot<br>brown |  
-| bip_39_word_new_br12 | easy<br>quarter<br>this<br>salute<br>course<br>plate<br>dune<br>rug<br>world<br>slot<br>brown<br>adult |  
-| bip_39_word_new_br2 | easy<br>quarter |  
-| bip_39_word_new_br3 | easy<br>quarter<br>this |  
-| bip_39_word_new_br4 | easy<br>quarter<br>this<br>salute |  
-| bip_39_word_new_br5 | easy<br>quarter<br>this<br>salute<br>course |  
-| bip_39_word_new_br6 | easy<br>quarter<br>this<br>salute<br>course<br>plate |  
-| bip_39_word_new_br7 | easy<br>quarter<br>this<br>salute<br>course<br>plate<br>dune |  
-| bip_39_word_new_br8 | easy<br>quarter<br>this<br>salute<br>course<br>plate<br>dune<br>rug |  
-| bip_39_word_new_br9 | easy<br>quarter<br>this<br>salute<br>course<br>plate<br>dune<br>rug<br>world |  
-| bip_39_word_new_line1 | easy |  
-| bip_39_word_new_line10 | easy
+| bip_39_word_new_br_1 | easy |  
+| bip_39_word_new_br_10 | easy<br>quarter<br>this<br>salute<br>course<br>plate<br>dune<br>rug<br>world<br>slot |  
+| bip_39_word_new_br_11 | easy<br>quarter<br>this<br>salute<br>course<br>plate<br>dune<br>rug<br>world<br>slot<br>brown |  
+| bip_39_word_new_br_12 | easy<br>quarter<br>this<br>salute<br>course<br>plate<br>dune<br>rug<br>world<br>slot<br>brown<br>adult |  
+| bip_39_word_new_br_2 | easy<br>quarter |  
+| bip_39_word_new_br_3 | easy<br>quarter<br>this |  
+| bip_39_word_new_br_4 | easy<br>quarter<br>this<br>salute |  
+| bip_39_word_new_br_5 | easy<br>quarter<br>this<br>salute<br>course |  
+| bip_39_word_new_br_6 | easy<br>quarter<br>this<br>salute<br>course<br>plate |  
+| bip_39_word_new_br_7 | easy<br>quarter<br>this<br>salute<br>course<br>plate<br>dune |  
+| bip_39_word_new_br_8 | easy<br>quarter<br>this<br>salute<br>course<br>plate<br>dune<br>rug |  
+| bip_39_word_new_br_9 | easy<br>quarter<br>this<br>salute<br>course<br>plate<br>dune<br>rug<br>world |  
+| bip_39_word_new_line_1 | easy |  
+| bip_39_word_new_line_10 | easy
 quarter
 this
 salute
@@ -55,7 +55,7 @@ dune
 rug
 world
 slot |  
-| bip_39_word_new_line11 | easy
+| bip_39_word_new_line_11 | easy
 quarter
 this
 salute
@@ -66,7 +66,7 @@ rug
 world
 slot
 brown |  
-| bip_39_word_new_line12 | easy
+| bip_39_word_new_line_12 | easy
 quarter
 this
 salute
@@ -78,34 +78,34 @@ world
 slot
 brown
 adult |  
-| bip_39_word_new_line2 | easy
+| bip_39_word_new_line_2 | easy
 quarter |  
-| bip_39_word_new_line3 | easy
+| bip_39_word_new_line_3 | easy
 quarter
 this |  
-| bip_39_word_new_line4 | easy
+| bip_39_word_new_line_4 | easy
 quarter
 this
 salute |  
-| bip_39_word_new_line5 | easy
+| bip_39_word_new_line_5 | easy
 quarter
 this
 salute
 course |  
-| bip_39_word_new_line6 | easy
+| bip_39_word_new_line_6 | easy
 quarter
 this
 salute
 course
 plate |  
-| bip_39_word_new_line7 | easy
+| bip_39_word_new_line_7 | easy
 quarter
 this
 salute
 course
 plate
 dune |  
-| bip_39_word_new_line8 | easy
+| bip_39_word_new_line_8 | easy
 quarter
 this
 salute
@@ -113,7 +113,7 @@ course
 plate
 dune
 rug |  
-| bip_39_word_new_line9 | easy
+| bip_39_word_new_line_9 | easy
 quarter
 this
 salute

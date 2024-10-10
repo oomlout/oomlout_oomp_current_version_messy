@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | early |  
-| bip_39_word_new_br10 | early<br>real<br>great<br>travel<br>east<br>scrub<br>sand<br>strike<br>acid<br>oxygen |  
-| bip_39_word_new_br11 | early<br>real<br>great<br>travel<br>east<br>scrub<br>sand<br>strike<br>acid<br>oxygen<br>drill |  
-| bip_39_word_new_br12 | early<br>real<br>great<br>travel<br>east<br>scrub<br>sand<br>strike<br>acid<br>oxygen<br>drill<br>admit |  
-| bip_39_word_new_br2 | early<br>real |  
-| bip_39_word_new_br3 | early<br>real<br>great |  
-| bip_39_word_new_br4 | early<br>real<br>great<br>travel |  
-| bip_39_word_new_br5 | early<br>real<br>great<br>travel<br>east |  
-| bip_39_word_new_br6 | early<br>real<br>great<br>travel<br>east<br>scrub |  
-| bip_39_word_new_br7 | early<br>real<br>great<br>travel<br>east<br>scrub<br>sand |  
-| bip_39_word_new_br8 | early<br>real<br>great<br>travel<br>east<br>scrub<br>sand<br>strike |  
-| bip_39_word_new_br9 | early<br>real<br>great<br>travel<br>east<br>scrub<br>sand<br>strike<br>acid |  
-| bip_39_word_new_line1 | early |  
-| bip_39_word_new_line10 | early
+| bip_39_word_new_br_1 | early |  
+| bip_39_word_new_br_10 | early<br>real<br>great<br>travel<br>east<br>scrub<br>sand<br>strike<br>acid<br>oxygen |  
+| bip_39_word_new_br_11 | early<br>real<br>great<br>travel<br>east<br>scrub<br>sand<br>strike<br>acid<br>oxygen<br>drill |  
+| bip_39_word_new_br_12 | early<br>real<br>great<br>travel<br>east<br>scrub<br>sand<br>strike<br>acid<br>oxygen<br>drill<br>admit |  
+| bip_39_word_new_br_2 | early<br>real |  
+| bip_39_word_new_br_3 | early<br>real<br>great |  
+| bip_39_word_new_br_4 | early<br>real<br>great<br>travel |  
+| bip_39_word_new_br_5 | early<br>real<br>great<br>travel<br>east |  
+| bip_39_word_new_br_6 | early<br>real<br>great<br>travel<br>east<br>scrub |  
+| bip_39_word_new_br_7 | early<br>real<br>great<br>travel<br>east<br>scrub<br>sand |  
+| bip_39_word_new_br_8 | early<br>real<br>great<br>travel<br>east<br>scrub<br>sand<br>strike |  
+| bip_39_word_new_br_9 | early<br>real<br>great<br>travel<br>east<br>scrub<br>sand<br>strike<br>acid |  
+| bip_39_word_new_line_1 | early |  
+| bip_39_word_new_line_10 | early
 real
 great
 travel
@@ -55,7 +55,7 @@ sand
 strike
 acid
 oxygen |  
-| bip_39_word_new_line11 | early
+| bip_39_word_new_line_11 | early
 real
 great
 travel
@@ -66,7 +66,7 @@ strike
 acid
 oxygen
 drill |  
-| bip_39_word_new_line12 | early
+| bip_39_word_new_line_12 | early
 real
 great
 travel
@@ -78,34 +78,34 @@ acid
 oxygen
 drill
 admit |  
-| bip_39_word_new_line2 | early
+| bip_39_word_new_line_2 | early
 real |  
-| bip_39_word_new_line3 | early
+| bip_39_word_new_line_3 | early
 real
 great |  
-| bip_39_word_new_line4 | early
+| bip_39_word_new_line_4 | early
 real
 great
 travel |  
-| bip_39_word_new_line5 | early
+| bip_39_word_new_line_5 | early
 real
 great
 travel
 east |  
-| bip_39_word_new_line6 | early
+| bip_39_word_new_line_6 | early
 real
 great
 travel
 east
 scrub |  
-| bip_39_word_new_line7 | early
+| bip_39_word_new_line_7 | early
 real
 great
 travel
 east
 scrub
 sand |  
-| bip_39_word_new_line8 | early
+| bip_39_word_new_line_8 | early
 real
 great
 travel
@@ -113,7 +113,7 @@ east
 scrub
 sand
 strike |  
-| bip_39_word_new_line9 | early
+| bip_39_word_new_line_9 | early
 real
 great
 travel

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ghost |  
-| bip_39_word_new_br10 | ghost<br>range<br>rough<br>siege<br>soap<br>rescue<br>school<br>argue<br>seven<br>elephant |  
-| bip_39_word_new_br11 | ghost<br>range<br>rough<br>siege<br>soap<br>rescue<br>school<br>argue<br>seven<br>elephant<br>school |  
-| bip_39_word_new_br12 | ghost<br>range<br>rough<br>siege<br>soap<br>rescue<br>school<br>argue<br>seven<br>elephant<br>school<br>among |  
-| bip_39_word_new_br2 | ghost<br>range |  
-| bip_39_word_new_br3 | ghost<br>range<br>rough |  
-| bip_39_word_new_br4 | ghost<br>range<br>rough<br>siege |  
-| bip_39_word_new_br5 | ghost<br>range<br>rough<br>siege<br>soap |  
-| bip_39_word_new_br6 | ghost<br>range<br>rough<br>siege<br>soap<br>rescue |  
-| bip_39_word_new_br7 | ghost<br>range<br>rough<br>siege<br>soap<br>rescue<br>school |  
-| bip_39_word_new_br8 | ghost<br>range<br>rough<br>siege<br>soap<br>rescue<br>school<br>argue |  
-| bip_39_word_new_br9 | ghost<br>range<br>rough<br>siege<br>soap<br>rescue<br>school<br>argue<br>seven |  
-| bip_39_word_new_line1 | ghost |  
-| bip_39_word_new_line10 | ghost
+| bip_39_word_new_br_1 | ghost |  
+| bip_39_word_new_br_10 | ghost<br>range<br>rough<br>siege<br>soap<br>rescue<br>school<br>argue<br>seven<br>elephant |  
+| bip_39_word_new_br_11 | ghost<br>range<br>rough<br>siege<br>soap<br>rescue<br>school<br>argue<br>seven<br>elephant<br>school |  
+| bip_39_word_new_br_12 | ghost<br>range<br>rough<br>siege<br>soap<br>rescue<br>school<br>argue<br>seven<br>elephant<br>school<br>among |  
+| bip_39_word_new_br_2 | ghost<br>range |  
+| bip_39_word_new_br_3 | ghost<br>range<br>rough |  
+| bip_39_word_new_br_4 | ghost<br>range<br>rough<br>siege |  
+| bip_39_word_new_br_5 | ghost<br>range<br>rough<br>siege<br>soap |  
+| bip_39_word_new_br_6 | ghost<br>range<br>rough<br>siege<br>soap<br>rescue |  
+| bip_39_word_new_br_7 | ghost<br>range<br>rough<br>siege<br>soap<br>rescue<br>school |  
+| bip_39_word_new_br_8 | ghost<br>range<br>rough<br>siege<br>soap<br>rescue<br>school<br>argue |  
+| bip_39_word_new_br_9 | ghost<br>range<br>rough<br>siege<br>soap<br>rescue<br>school<br>argue<br>seven |  
+| bip_39_word_new_line_1 | ghost |  
+| bip_39_word_new_line_10 | ghost
 range
 rough
 siege
@@ -55,7 +55,7 @@ school
 argue
 seven
 elephant |  
-| bip_39_word_new_line11 | ghost
+| bip_39_word_new_line_11 | ghost
 range
 rough
 siege
@@ -66,7 +66,7 @@ argue
 seven
 elephant
 school |  
-| bip_39_word_new_line12 | ghost
+| bip_39_word_new_line_12 | ghost
 range
 rough
 siege
@@ -78,34 +78,34 @@ seven
 elephant
 school
 among |  
-| bip_39_word_new_line2 | ghost
+| bip_39_word_new_line_2 | ghost
 range |  
-| bip_39_word_new_line3 | ghost
+| bip_39_word_new_line_3 | ghost
 range
 rough |  
-| bip_39_word_new_line4 | ghost
+| bip_39_word_new_line_4 | ghost
 range
 rough
 siege |  
-| bip_39_word_new_line5 | ghost
+| bip_39_word_new_line_5 | ghost
 range
 rough
 siege
 soap |  
-| bip_39_word_new_line6 | ghost
+| bip_39_word_new_line_6 | ghost
 range
 rough
 siege
 soap
 rescue |  
-| bip_39_word_new_line7 | ghost
+| bip_39_word_new_line_7 | ghost
 range
 rough
 siege
 soap
 rescue
 school |  
-| bip_39_word_new_line8 | ghost
+| bip_39_word_new_line_8 | ghost
 range
 rough
 siege
@@ -113,7 +113,7 @@ soap
 rescue
 school
 argue |  
-| bip_39_word_new_line9 | ghost
+| bip_39_word_new_line_9 | ghost
 range
 rough
 siege

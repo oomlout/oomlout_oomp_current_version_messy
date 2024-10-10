@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | connect |  
-| bip_39_word_new_br10 | connect<br>broccoli<br>retreat<br>emerge<br>hockey<br>like<br>deny<br>coach<br>hurdle<br>grape |  
-| bip_39_word_new_br11 | connect<br>broccoli<br>retreat<br>emerge<br>hockey<br>like<br>deny<br>coach<br>hurdle<br>grape<br>cat |  
-| bip_39_word_new_br12 | connect<br>broccoli<br>retreat<br>emerge<br>hockey<br>like<br>deny<br>coach<br>hurdle<br>grape<br>cat<br>agent |  
-| bip_39_word_new_br2 | connect<br>broccoli |  
-| bip_39_word_new_br3 | connect<br>broccoli<br>retreat |  
-| bip_39_word_new_br4 | connect<br>broccoli<br>retreat<br>emerge |  
-| bip_39_word_new_br5 | connect<br>broccoli<br>retreat<br>emerge<br>hockey |  
-| bip_39_word_new_br6 | connect<br>broccoli<br>retreat<br>emerge<br>hockey<br>like |  
-| bip_39_word_new_br7 | connect<br>broccoli<br>retreat<br>emerge<br>hockey<br>like<br>deny |  
-| bip_39_word_new_br8 | connect<br>broccoli<br>retreat<br>emerge<br>hockey<br>like<br>deny<br>coach |  
-| bip_39_word_new_br9 | connect<br>broccoli<br>retreat<br>emerge<br>hockey<br>like<br>deny<br>coach<br>hurdle |  
-| bip_39_word_new_line1 | connect |  
-| bip_39_word_new_line10 | connect
+| bip_39_word_new_br_1 | connect |  
+| bip_39_word_new_br_10 | connect<br>broccoli<br>retreat<br>emerge<br>hockey<br>like<br>deny<br>coach<br>hurdle<br>grape |  
+| bip_39_word_new_br_11 | connect<br>broccoli<br>retreat<br>emerge<br>hockey<br>like<br>deny<br>coach<br>hurdle<br>grape<br>cat |  
+| bip_39_word_new_br_12 | connect<br>broccoli<br>retreat<br>emerge<br>hockey<br>like<br>deny<br>coach<br>hurdle<br>grape<br>cat<br>agent |  
+| bip_39_word_new_br_2 | connect<br>broccoli |  
+| bip_39_word_new_br_3 | connect<br>broccoli<br>retreat |  
+| bip_39_word_new_br_4 | connect<br>broccoli<br>retreat<br>emerge |  
+| bip_39_word_new_br_5 | connect<br>broccoli<br>retreat<br>emerge<br>hockey |  
+| bip_39_word_new_br_6 | connect<br>broccoli<br>retreat<br>emerge<br>hockey<br>like |  
+| bip_39_word_new_br_7 | connect<br>broccoli<br>retreat<br>emerge<br>hockey<br>like<br>deny |  
+| bip_39_word_new_br_8 | connect<br>broccoli<br>retreat<br>emerge<br>hockey<br>like<br>deny<br>coach |  
+| bip_39_word_new_br_9 | connect<br>broccoli<br>retreat<br>emerge<br>hockey<br>like<br>deny<br>coach<br>hurdle |  
+| bip_39_word_new_line_1 | connect |  
+| bip_39_word_new_line_10 | connect
 broccoli
 retreat
 emerge
@@ -55,7 +55,7 @@ deny
 coach
 hurdle
 grape |  
-| bip_39_word_new_line11 | connect
+| bip_39_word_new_line_11 | connect
 broccoli
 retreat
 emerge
@@ -66,7 +66,7 @@ coach
 hurdle
 grape
 cat |  
-| bip_39_word_new_line12 | connect
+| bip_39_word_new_line_12 | connect
 broccoli
 retreat
 emerge
@@ -78,34 +78,34 @@ hurdle
 grape
 cat
 agent |  
-| bip_39_word_new_line2 | connect
+| bip_39_word_new_line_2 | connect
 broccoli |  
-| bip_39_word_new_line3 | connect
+| bip_39_word_new_line_3 | connect
 broccoli
 retreat |  
-| bip_39_word_new_line4 | connect
+| bip_39_word_new_line_4 | connect
 broccoli
 retreat
 emerge |  
-| bip_39_word_new_line5 | connect
+| bip_39_word_new_line_5 | connect
 broccoli
 retreat
 emerge
 hockey |  
-| bip_39_word_new_line6 | connect
+| bip_39_word_new_line_6 | connect
 broccoli
 retreat
 emerge
 hockey
 like |  
-| bip_39_word_new_line7 | connect
+| bip_39_word_new_line_7 | connect
 broccoli
 retreat
 emerge
 hockey
 like
 deny |  
-| bip_39_word_new_line8 | connect
+| bip_39_word_new_line_8 | connect
 broccoli
 retreat
 emerge
@@ -113,7 +113,7 @@ hockey
 like
 deny
 coach |  
-| bip_39_word_new_line9 | connect
+| bip_39_word_new_line_9 | connect
 broccoli
 retreat
 emerge

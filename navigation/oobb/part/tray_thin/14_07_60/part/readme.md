@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | paddle |  
-| bip_39_word_new_br10 | paddle<br>blue<br>flight<br>hotel<br>audit<br>october<br>nature<br>casual<br>trumpet<br>fence |  
-| bip_39_word_new_br11 | paddle<br>blue<br>flight<br>hotel<br>audit<br>october<br>nature<br>casual<br>trumpet<br>fence<br>decrease |  
-| bip_39_word_new_br12 | paddle<br>blue<br>flight<br>hotel<br>audit<br>october<br>nature<br>casual<br>trumpet<br>fence<br>decrease<br>album |  
-| bip_39_word_new_br2 | paddle<br>blue |  
-| bip_39_word_new_br3 | paddle<br>blue<br>flight |  
-| bip_39_word_new_br4 | paddle<br>blue<br>flight<br>hotel |  
-| bip_39_word_new_br5 | paddle<br>blue<br>flight<br>hotel<br>audit |  
-| bip_39_word_new_br6 | paddle<br>blue<br>flight<br>hotel<br>audit<br>october |  
-| bip_39_word_new_br7 | paddle<br>blue<br>flight<br>hotel<br>audit<br>october<br>nature |  
-| bip_39_word_new_br8 | paddle<br>blue<br>flight<br>hotel<br>audit<br>october<br>nature<br>casual |  
-| bip_39_word_new_br9 | paddle<br>blue<br>flight<br>hotel<br>audit<br>october<br>nature<br>casual<br>trumpet |  
-| bip_39_word_new_line1 | paddle |  
-| bip_39_word_new_line10 | paddle
+| bip_39_word_new_br_1 | paddle |  
+| bip_39_word_new_br_10 | paddle<br>blue<br>flight<br>hotel<br>audit<br>october<br>nature<br>casual<br>trumpet<br>fence |  
+| bip_39_word_new_br_11 | paddle<br>blue<br>flight<br>hotel<br>audit<br>october<br>nature<br>casual<br>trumpet<br>fence<br>decrease |  
+| bip_39_word_new_br_12 | paddle<br>blue<br>flight<br>hotel<br>audit<br>october<br>nature<br>casual<br>trumpet<br>fence<br>decrease<br>album |  
+| bip_39_word_new_br_2 | paddle<br>blue |  
+| bip_39_word_new_br_3 | paddle<br>blue<br>flight |  
+| bip_39_word_new_br_4 | paddle<br>blue<br>flight<br>hotel |  
+| bip_39_word_new_br_5 | paddle<br>blue<br>flight<br>hotel<br>audit |  
+| bip_39_word_new_br_6 | paddle<br>blue<br>flight<br>hotel<br>audit<br>october |  
+| bip_39_word_new_br_7 | paddle<br>blue<br>flight<br>hotel<br>audit<br>october<br>nature |  
+| bip_39_word_new_br_8 | paddle<br>blue<br>flight<br>hotel<br>audit<br>october<br>nature<br>casual |  
+| bip_39_word_new_br_9 | paddle<br>blue<br>flight<br>hotel<br>audit<br>october<br>nature<br>casual<br>trumpet |  
+| bip_39_word_new_line_1 | paddle |  
+| bip_39_word_new_line_10 | paddle
 blue
 flight
 hotel
@@ -55,7 +55,7 @@ nature
 casual
 trumpet
 fence |  
-| bip_39_word_new_line11 | paddle
+| bip_39_word_new_line_11 | paddle
 blue
 flight
 hotel
@@ -66,7 +66,7 @@ casual
 trumpet
 fence
 decrease |  
-| bip_39_word_new_line12 | paddle
+| bip_39_word_new_line_12 | paddle
 blue
 flight
 hotel
@@ -78,34 +78,34 @@ trumpet
 fence
 decrease
 album |  
-| bip_39_word_new_line2 | paddle
+| bip_39_word_new_line_2 | paddle
 blue |  
-| bip_39_word_new_line3 | paddle
+| bip_39_word_new_line_3 | paddle
 blue
 flight |  
-| bip_39_word_new_line4 | paddle
+| bip_39_word_new_line_4 | paddle
 blue
 flight
 hotel |  
-| bip_39_word_new_line5 | paddle
+| bip_39_word_new_line_5 | paddle
 blue
 flight
 hotel
 audit |  
-| bip_39_word_new_line6 | paddle
+| bip_39_word_new_line_6 | paddle
 blue
 flight
 hotel
 audit
 october |  
-| bip_39_word_new_line7 | paddle
+| bip_39_word_new_line_7 | paddle
 blue
 flight
 hotel
 audit
 october
 nature |  
-| bip_39_word_new_line8 | paddle
+| bip_39_word_new_line_8 | paddle
 blue
 flight
 hotel
@@ -113,7 +113,7 @@ audit
 october
 nature
 casual |  
-| bip_39_word_new_line9 | paddle
+| bip_39_word_new_line_9 | paddle
 blue
 flight
 hotel

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | say |  
-| bip_39_word_new_br10 | say<br>donate<br>company<br>elephant<br>sea<br>pattern<br>apology<br>awful<br>say<br>author |  
-| bip_39_word_new_br11 | say<br>donate<br>company<br>elephant<br>sea<br>pattern<br>apology<br>awful<br>say<br>author<br>carry |  
-| bip_39_word_new_br12 | say<br>donate<br>company<br>elephant<br>sea<br>pattern<br>apology<br>awful<br>say<br>author<br>carry<br>attract |  
-| bip_39_word_new_br2 | say<br>donate |  
-| bip_39_word_new_br3 | say<br>donate<br>company |  
-| bip_39_word_new_br4 | say<br>donate<br>company<br>elephant |  
-| bip_39_word_new_br5 | say<br>donate<br>company<br>elephant<br>sea |  
-| bip_39_word_new_br6 | say<br>donate<br>company<br>elephant<br>sea<br>pattern |  
-| bip_39_word_new_br7 | say<br>donate<br>company<br>elephant<br>sea<br>pattern<br>apology |  
-| bip_39_word_new_br8 | say<br>donate<br>company<br>elephant<br>sea<br>pattern<br>apology<br>awful |  
-| bip_39_word_new_br9 | say<br>donate<br>company<br>elephant<br>sea<br>pattern<br>apology<br>awful<br>say |  
-| bip_39_word_new_line1 | say |  
-| bip_39_word_new_line10 | say
+| bip_39_word_new_br_1 | say |  
+| bip_39_word_new_br_10 | say<br>donate<br>company<br>elephant<br>sea<br>pattern<br>apology<br>awful<br>say<br>author |  
+| bip_39_word_new_br_11 | say<br>donate<br>company<br>elephant<br>sea<br>pattern<br>apology<br>awful<br>say<br>author<br>carry |  
+| bip_39_word_new_br_12 | say<br>donate<br>company<br>elephant<br>sea<br>pattern<br>apology<br>awful<br>say<br>author<br>carry<br>attract |  
+| bip_39_word_new_br_2 | say<br>donate |  
+| bip_39_word_new_br_3 | say<br>donate<br>company |  
+| bip_39_word_new_br_4 | say<br>donate<br>company<br>elephant |  
+| bip_39_word_new_br_5 | say<br>donate<br>company<br>elephant<br>sea |  
+| bip_39_word_new_br_6 | say<br>donate<br>company<br>elephant<br>sea<br>pattern |  
+| bip_39_word_new_br_7 | say<br>donate<br>company<br>elephant<br>sea<br>pattern<br>apology |  
+| bip_39_word_new_br_8 | say<br>donate<br>company<br>elephant<br>sea<br>pattern<br>apology<br>awful |  
+| bip_39_word_new_br_9 | say<br>donate<br>company<br>elephant<br>sea<br>pattern<br>apology<br>awful<br>say |  
+| bip_39_word_new_line_1 | say |  
+| bip_39_word_new_line_10 | say
 donate
 company
 elephant
@@ -55,7 +55,7 @@ apology
 awful
 say
 author |  
-| bip_39_word_new_line11 | say
+| bip_39_word_new_line_11 | say
 donate
 company
 elephant
@@ -66,7 +66,7 @@ awful
 say
 author
 carry |  
-| bip_39_word_new_line12 | say
+| bip_39_word_new_line_12 | say
 donate
 company
 elephant
@@ -78,34 +78,34 @@ say
 author
 carry
 attract |  
-| bip_39_word_new_line2 | say
+| bip_39_word_new_line_2 | say
 donate |  
-| bip_39_word_new_line3 | say
+| bip_39_word_new_line_3 | say
 donate
 company |  
-| bip_39_word_new_line4 | say
+| bip_39_word_new_line_4 | say
 donate
 company
 elephant |  
-| bip_39_word_new_line5 | say
+| bip_39_word_new_line_5 | say
 donate
 company
 elephant
 sea |  
-| bip_39_word_new_line6 | say
+| bip_39_word_new_line_6 | say
 donate
 company
 elephant
 sea
 pattern |  
-| bip_39_word_new_line7 | say
+| bip_39_word_new_line_7 | say
 donate
 company
 elephant
 sea
 pattern
 apology |  
-| bip_39_word_new_line8 | say
+| bip_39_word_new_line_8 | say
 donate
 company
 elephant
@@ -113,7 +113,7 @@ sea
 pattern
 apology
 awful |  
-| bip_39_word_new_line9 | say
+| bip_39_word_new_line_9 | say
 donate
 company
 elephant

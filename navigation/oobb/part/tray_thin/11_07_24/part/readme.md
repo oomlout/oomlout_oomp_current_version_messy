@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hero |  
-| bip_39_word_new_br10 | hero<br>game<br>whale<br>side<br>desk<br>dress<br>garbage<br>decrease<br>concert<br>divorce |  
-| bip_39_word_new_br11 | hero<br>game<br>whale<br>side<br>desk<br>dress<br>garbage<br>decrease<br>concert<br>divorce<br>delay |  
-| bip_39_word_new_br12 | hero<br>game<br>whale<br>side<br>desk<br>dress<br>garbage<br>decrease<br>concert<br>divorce<br>delay<br>assault |  
-| bip_39_word_new_br2 | hero<br>game |  
-| bip_39_word_new_br3 | hero<br>game<br>whale |  
-| bip_39_word_new_br4 | hero<br>game<br>whale<br>side |  
-| bip_39_word_new_br5 | hero<br>game<br>whale<br>side<br>desk |  
-| bip_39_word_new_br6 | hero<br>game<br>whale<br>side<br>desk<br>dress |  
-| bip_39_word_new_br7 | hero<br>game<br>whale<br>side<br>desk<br>dress<br>garbage |  
-| bip_39_word_new_br8 | hero<br>game<br>whale<br>side<br>desk<br>dress<br>garbage<br>decrease |  
-| bip_39_word_new_br9 | hero<br>game<br>whale<br>side<br>desk<br>dress<br>garbage<br>decrease<br>concert |  
-| bip_39_word_new_line1 | hero |  
-| bip_39_word_new_line10 | hero
+| bip_39_word_new_br_1 | hero |  
+| bip_39_word_new_br_10 | hero<br>game<br>whale<br>side<br>desk<br>dress<br>garbage<br>decrease<br>concert<br>divorce |  
+| bip_39_word_new_br_11 | hero<br>game<br>whale<br>side<br>desk<br>dress<br>garbage<br>decrease<br>concert<br>divorce<br>delay |  
+| bip_39_word_new_br_12 | hero<br>game<br>whale<br>side<br>desk<br>dress<br>garbage<br>decrease<br>concert<br>divorce<br>delay<br>assault |  
+| bip_39_word_new_br_2 | hero<br>game |  
+| bip_39_word_new_br_3 | hero<br>game<br>whale |  
+| bip_39_word_new_br_4 | hero<br>game<br>whale<br>side |  
+| bip_39_word_new_br_5 | hero<br>game<br>whale<br>side<br>desk |  
+| bip_39_word_new_br_6 | hero<br>game<br>whale<br>side<br>desk<br>dress |  
+| bip_39_word_new_br_7 | hero<br>game<br>whale<br>side<br>desk<br>dress<br>garbage |  
+| bip_39_word_new_br_8 | hero<br>game<br>whale<br>side<br>desk<br>dress<br>garbage<br>decrease |  
+| bip_39_word_new_br_9 | hero<br>game<br>whale<br>side<br>desk<br>dress<br>garbage<br>decrease<br>concert |  
+| bip_39_word_new_line_1 | hero |  
+| bip_39_word_new_line_10 | hero
 game
 whale
 side
@@ -55,7 +55,7 @@ garbage
 decrease
 concert
 divorce |  
-| bip_39_word_new_line11 | hero
+| bip_39_word_new_line_11 | hero
 game
 whale
 side
@@ -66,7 +66,7 @@ decrease
 concert
 divorce
 delay |  
-| bip_39_word_new_line12 | hero
+| bip_39_word_new_line_12 | hero
 game
 whale
 side
@@ -78,34 +78,34 @@ concert
 divorce
 delay
 assault |  
-| bip_39_word_new_line2 | hero
+| bip_39_word_new_line_2 | hero
 game |  
-| bip_39_word_new_line3 | hero
+| bip_39_word_new_line_3 | hero
 game
 whale |  
-| bip_39_word_new_line4 | hero
+| bip_39_word_new_line_4 | hero
 game
 whale
 side |  
-| bip_39_word_new_line5 | hero
+| bip_39_word_new_line_5 | hero
 game
 whale
 side
 desk |  
-| bip_39_word_new_line6 | hero
+| bip_39_word_new_line_6 | hero
 game
 whale
 side
 desk
 dress |  
-| bip_39_word_new_line7 | hero
+| bip_39_word_new_line_7 | hero
 game
 whale
 side
 desk
 dress
 garbage |  
-| bip_39_word_new_line8 | hero
+| bip_39_word_new_line_8 | hero
 game
 whale
 side
@@ -113,7 +113,7 @@ desk
 dress
 garbage
 decrease |  
-| bip_39_word_new_line9 | hero
+| bip_39_word_new_line_9 | hero
 game
 whale
 side

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pulp |  
-| bip_39_word_new_br10 | pulp<br>pudding<br>need<br>cereal<br>else<br>aerobic<br>injury<br>describe<br>attract<br>glance |  
-| bip_39_word_new_br11 | pulp<br>pudding<br>need<br>cereal<br>else<br>aerobic<br>injury<br>describe<br>attract<br>glance<br>latin |  
-| bip_39_word_new_br12 | pulp<br>pudding<br>need<br>cereal<br>else<br>aerobic<br>injury<br>describe<br>attract<br>glance<br>latin<br>armor |  
-| bip_39_word_new_br2 | pulp<br>pudding |  
-| bip_39_word_new_br3 | pulp<br>pudding<br>need |  
-| bip_39_word_new_br4 | pulp<br>pudding<br>need<br>cereal |  
-| bip_39_word_new_br5 | pulp<br>pudding<br>need<br>cereal<br>else |  
-| bip_39_word_new_br6 | pulp<br>pudding<br>need<br>cereal<br>else<br>aerobic |  
-| bip_39_word_new_br7 | pulp<br>pudding<br>need<br>cereal<br>else<br>aerobic<br>injury |  
-| bip_39_word_new_br8 | pulp<br>pudding<br>need<br>cereal<br>else<br>aerobic<br>injury<br>describe |  
-| bip_39_word_new_br9 | pulp<br>pudding<br>need<br>cereal<br>else<br>aerobic<br>injury<br>describe<br>attract |  
-| bip_39_word_new_line1 | pulp |  
-| bip_39_word_new_line10 | pulp
+| bip_39_word_new_br_1 | pulp |  
+| bip_39_word_new_br_10 | pulp<br>pudding<br>need<br>cereal<br>else<br>aerobic<br>injury<br>describe<br>attract<br>glance |  
+| bip_39_word_new_br_11 | pulp<br>pudding<br>need<br>cereal<br>else<br>aerobic<br>injury<br>describe<br>attract<br>glance<br>latin |  
+| bip_39_word_new_br_12 | pulp<br>pudding<br>need<br>cereal<br>else<br>aerobic<br>injury<br>describe<br>attract<br>glance<br>latin<br>armor |  
+| bip_39_word_new_br_2 | pulp<br>pudding |  
+| bip_39_word_new_br_3 | pulp<br>pudding<br>need |  
+| bip_39_word_new_br_4 | pulp<br>pudding<br>need<br>cereal |  
+| bip_39_word_new_br_5 | pulp<br>pudding<br>need<br>cereal<br>else |  
+| bip_39_word_new_br_6 | pulp<br>pudding<br>need<br>cereal<br>else<br>aerobic |  
+| bip_39_word_new_br_7 | pulp<br>pudding<br>need<br>cereal<br>else<br>aerobic<br>injury |  
+| bip_39_word_new_br_8 | pulp<br>pudding<br>need<br>cereal<br>else<br>aerobic<br>injury<br>describe |  
+| bip_39_word_new_br_9 | pulp<br>pudding<br>need<br>cereal<br>else<br>aerobic<br>injury<br>describe<br>attract |  
+| bip_39_word_new_line_1 | pulp |  
+| bip_39_word_new_line_10 | pulp
 pudding
 need
 cereal
@@ -55,7 +55,7 @@ injury
 describe
 attract
 glance |  
-| bip_39_word_new_line11 | pulp
+| bip_39_word_new_line_11 | pulp
 pudding
 need
 cereal
@@ -66,7 +66,7 @@ describe
 attract
 glance
 latin |  
-| bip_39_word_new_line12 | pulp
+| bip_39_word_new_line_12 | pulp
 pudding
 need
 cereal
@@ -78,34 +78,34 @@ attract
 glance
 latin
 armor |  
-| bip_39_word_new_line2 | pulp
+| bip_39_word_new_line_2 | pulp
 pudding |  
-| bip_39_word_new_line3 | pulp
+| bip_39_word_new_line_3 | pulp
 pudding
 need |  
-| bip_39_word_new_line4 | pulp
+| bip_39_word_new_line_4 | pulp
 pudding
 need
 cereal |  
-| bip_39_word_new_line5 | pulp
+| bip_39_word_new_line_5 | pulp
 pudding
 need
 cereal
 else |  
-| bip_39_word_new_line6 | pulp
+| bip_39_word_new_line_6 | pulp
 pudding
 need
 cereal
 else
 aerobic |  
-| bip_39_word_new_line7 | pulp
+| bip_39_word_new_line_7 | pulp
 pudding
 need
 cereal
 else
 aerobic
 injury |  
-| bip_39_word_new_line8 | pulp
+| bip_39_word_new_line_8 | pulp
 pudding
 need
 cereal
@@ -113,7 +113,7 @@ else
 aerobic
 injury
 describe |  
-| bip_39_word_new_line9 | pulp
+| bip_39_word_new_line_9 | pulp
 pudding
 need
 cereal

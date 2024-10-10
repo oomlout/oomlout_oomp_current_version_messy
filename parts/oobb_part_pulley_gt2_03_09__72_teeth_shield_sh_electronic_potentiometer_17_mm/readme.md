@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | debate |  
-| bip_39_word_new_br10 | debate<br>urban<br>bind<br>century<br>measure<br>figure<br>dawn<br>truck<br>deputy<br>chaos |  
-| bip_39_word_new_br11 | debate<br>urban<br>bind<br>century<br>measure<br>figure<br>dawn<br>truck<br>deputy<br>chaos<br>ugly |  
-| bip_39_word_new_br12 | debate<br>urban<br>bind<br>century<br>measure<br>figure<br>dawn<br>truck<br>deputy<br>chaos<br>ugly<br>airport |  
-| bip_39_word_new_br2 | debate<br>urban |  
-| bip_39_word_new_br3 | debate<br>urban<br>bind |  
-| bip_39_word_new_br4 | debate<br>urban<br>bind<br>century |  
-| bip_39_word_new_br5 | debate<br>urban<br>bind<br>century<br>measure |  
-| bip_39_word_new_br6 | debate<br>urban<br>bind<br>century<br>measure<br>figure |  
-| bip_39_word_new_br7 | debate<br>urban<br>bind<br>century<br>measure<br>figure<br>dawn |  
-| bip_39_word_new_br8 | debate<br>urban<br>bind<br>century<br>measure<br>figure<br>dawn<br>truck |  
-| bip_39_word_new_br9 | debate<br>urban<br>bind<br>century<br>measure<br>figure<br>dawn<br>truck<br>deputy |  
-| bip_39_word_new_line1 | debate |  
-| bip_39_word_new_line10 | debate
+| bip_39_word_new_br_1 | debate |  
+| bip_39_word_new_br_10 | debate<br>urban<br>bind<br>century<br>measure<br>figure<br>dawn<br>truck<br>deputy<br>chaos |  
+| bip_39_word_new_br_11 | debate<br>urban<br>bind<br>century<br>measure<br>figure<br>dawn<br>truck<br>deputy<br>chaos<br>ugly |  
+| bip_39_word_new_br_12 | debate<br>urban<br>bind<br>century<br>measure<br>figure<br>dawn<br>truck<br>deputy<br>chaos<br>ugly<br>airport |  
+| bip_39_word_new_br_2 | debate<br>urban |  
+| bip_39_word_new_br_3 | debate<br>urban<br>bind |  
+| bip_39_word_new_br_4 | debate<br>urban<br>bind<br>century |  
+| bip_39_word_new_br_5 | debate<br>urban<br>bind<br>century<br>measure |  
+| bip_39_word_new_br_6 | debate<br>urban<br>bind<br>century<br>measure<br>figure |  
+| bip_39_word_new_br_7 | debate<br>urban<br>bind<br>century<br>measure<br>figure<br>dawn |  
+| bip_39_word_new_br_8 | debate<br>urban<br>bind<br>century<br>measure<br>figure<br>dawn<br>truck |  
+| bip_39_word_new_br_9 | debate<br>urban<br>bind<br>century<br>measure<br>figure<br>dawn<br>truck<br>deputy |  
+| bip_39_word_new_line_1 | debate |  
+| bip_39_word_new_line_10 | debate
 urban
 bind
 century
@@ -55,7 +55,7 @@ dawn
 truck
 deputy
 chaos |  
-| bip_39_word_new_line11 | debate
+| bip_39_word_new_line_11 | debate
 urban
 bind
 century
@@ -66,7 +66,7 @@ truck
 deputy
 chaos
 ugly |  
-| bip_39_word_new_line12 | debate
+| bip_39_word_new_line_12 | debate
 urban
 bind
 century
@@ -78,34 +78,34 @@ deputy
 chaos
 ugly
 airport |  
-| bip_39_word_new_line2 | debate
+| bip_39_word_new_line_2 | debate
 urban |  
-| bip_39_word_new_line3 | debate
+| bip_39_word_new_line_3 | debate
 urban
 bind |  
-| bip_39_word_new_line4 | debate
+| bip_39_word_new_line_4 | debate
 urban
 bind
 century |  
-| bip_39_word_new_line5 | debate
+| bip_39_word_new_line_5 | debate
 urban
 bind
 century
 measure |  
-| bip_39_word_new_line6 | debate
+| bip_39_word_new_line_6 | debate
 urban
 bind
 century
 measure
 figure |  
-| bip_39_word_new_line7 | debate
+| bip_39_word_new_line_7 | debate
 urban
 bind
 century
 measure
 figure
 dawn |  
-| bip_39_word_new_line8 | debate
+| bip_39_word_new_line_8 | debate
 urban
 bind
 century
@@ -113,7 +113,7 @@ measure
 figure
 dawn
 truck |  
-| bip_39_word_new_line9 | debate
+| bip_39_word_new_line_9 | debate
 urban
 bind
 century

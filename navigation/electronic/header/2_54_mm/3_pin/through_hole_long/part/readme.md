@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | common |  
-| bip_39_word_new_br10 | common<br>notice<br>cupboard<br>onion<br>art<br>era<br>pet<br>blame<br>switch<br>piano |  
-| bip_39_word_new_br11 | common<br>notice<br>cupboard<br>onion<br>art<br>era<br>pet<br>blame<br>switch<br>piano<br>tube |  
-| bip_39_word_new_br12 | common<br>notice<br>cupboard<br>onion<br>art<br>era<br>pet<br>blame<br>switch<br>piano<br>tube<br>assume |  
-| bip_39_word_new_br2 | common<br>notice |  
-| bip_39_word_new_br3 | common<br>notice<br>cupboard |  
-| bip_39_word_new_br4 | common<br>notice<br>cupboard<br>onion |  
-| bip_39_word_new_br5 | common<br>notice<br>cupboard<br>onion<br>art |  
-| bip_39_word_new_br6 | common<br>notice<br>cupboard<br>onion<br>art<br>era |  
-| bip_39_word_new_br7 | common<br>notice<br>cupboard<br>onion<br>art<br>era<br>pet |  
-| bip_39_word_new_br8 | common<br>notice<br>cupboard<br>onion<br>art<br>era<br>pet<br>blame |  
-| bip_39_word_new_br9 | common<br>notice<br>cupboard<br>onion<br>art<br>era<br>pet<br>blame<br>switch |  
-| bip_39_word_new_line1 | common |  
-| bip_39_word_new_line10 | common
+| bip_39_word_new_br_1 | common |  
+| bip_39_word_new_br_10 | common<br>notice<br>cupboard<br>onion<br>art<br>era<br>pet<br>blame<br>switch<br>piano |  
+| bip_39_word_new_br_11 | common<br>notice<br>cupboard<br>onion<br>art<br>era<br>pet<br>blame<br>switch<br>piano<br>tube |  
+| bip_39_word_new_br_12 | common<br>notice<br>cupboard<br>onion<br>art<br>era<br>pet<br>blame<br>switch<br>piano<br>tube<br>assume |  
+| bip_39_word_new_br_2 | common<br>notice |  
+| bip_39_word_new_br_3 | common<br>notice<br>cupboard |  
+| bip_39_word_new_br_4 | common<br>notice<br>cupboard<br>onion |  
+| bip_39_word_new_br_5 | common<br>notice<br>cupboard<br>onion<br>art |  
+| bip_39_word_new_br_6 | common<br>notice<br>cupboard<br>onion<br>art<br>era |  
+| bip_39_word_new_br_7 | common<br>notice<br>cupboard<br>onion<br>art<br>era<br>pet |  
+| bip_39_word_new_br_8 | common<br>notice<br>cupboard<br>onion<br>art<br>era<br>pet<br>blame |  
+| bip_39_word_new_br_9 | common<br>notice<br>cupboard<br>onion<br>art<br>era<br>pet<br>blame<br>switch |  
+| bip_39_word_new_line_1 | common |  
+| bip_39_word_new_line_10 | common
 notice
 cupboard
 onion
@@ -55,7 +55,7 @@ pet
 blame
 switch
 piano |  
-| bip_39_word_new_line11 | common
+| bip_39_word_new_line_11 | common
 notice
 cupboard
 onion
@@ -66,7 +66,7 @@ blame
 switch
 piano
 tube |  
-| bip_39_word_new_line12 | common
+| bip_39_word_new_line_12 | common
 notice
 cupboard
 onion
@@ -78,34 +78,34 @@ switch
 piano
 tube
 assume |  
-| bip_39_word_new_line2 | common
+| bip_39_word_new_line_2 | common
 notice |  
-| bip_39_word_new_line3 | common
+| bip_39_word_new_line_3 | common
 notice
 cupboard |  
-| bip_39_word_new_line4 | common
+| bip_39_word_new_line_4 | common
 notice
 cupboard
 onion |  
-| bip_39_word_new_line5 | common
+| bip_39_word_new_line_5 | common
 notice
 cupboard
 onion
 art |  
-| bip_39_word_new_line6 | common
+| bip_39_word_new_line_6 | common
 notice
 cupboard
 onion
 art
 era |  
-| bip_39_word_new_line7 | common
+| bip_39_word_new_line_7 | common
 notice
 cupboard
 onion
 art
 era
 pet |  
-| bip_39_word_new_line8 | common
+| bip_39_word_new_line_8 | common
 notice
 cupboard
 onion
@@ -113,7 +113,7 @@ art
 era
 pet
 blame |  
-| bip_39_word_new_line9 | common
+| bip_39_word_new_line_9 | common
 notice
 cupboard
 onion

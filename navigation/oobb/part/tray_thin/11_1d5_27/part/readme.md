@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | grain |  
-| bip_39_word_new_br10 | grain<br>nuclear<br>social<br>outdoor<br>crumble<br>reject<br>segment<br>duck<br>margin<br>eagle |  
-| bip_39_word_new_br11 | grain<br>nuclear<br>social<br>outdoor<br>crumble<br>reject<br>segment<br>duck<br>margin<br>eagle<br>arrest |  
-| bip_39_word_new_br12 | grain<br>nuclear<br>social<br>outdoor<br>crumble<br>reject<br>segment<br>duck<br>margin<br>eagle<br>arrest<br>also |  
-| bip_39_word_new_br2 | grain<br>nuclear |  
-| bip_39_word_new_br3 | grain<br>nuclear<br>social |  
-| bip_39_word_new_br4 | grain<br>nuclear<br>social<br>outdoor |  
-| bip_39_word_new_br5 | grain<br>nuclear<br>social<br>outdoor<br>crumble |  
-| bip_39_word_new_br6 | grain<br>nuclear<br>social<br>outdoor<br>crumble<br>reject |  
-| bip_39_word_new_br7 | grain<br>nuclear<br>social<br>outdoor<br>crumble<br>reject<br>segment |  
-| bip_39_word_new_br8 | grain<br>nuclear<br>social<br>outdoor<br>crumble<br>reject<br>segment<br>duck |  
-| bip_39_word_new_br9 | grain<br>nuclear<br>social<br>outdoor<br>crumble<br>reject<br>segment<br>duck<br>margin |  
-| bip_39_word_new_line1 | grain |  
-| bip_39_word_new_line10 | grain
+| bip_39_word_new_br_1 | grain |  
+| bip_39_word_new_br_10 | grain<br>nuclear<br>social<br>outdoor<br>crumble<br>reject<br>segment<br>duck<br>margin<br>eagle |  
+| bip_39_word_new_br_11 | grain<br>nuclear<br>social<br>outdoor<br>crumble<br>reject<br>segment<br>duck<br>margin<br>eagle<br>arrest |  
+| bip_39_word_new_br_12 | grain<br>nuclear<br>social<br>outdoor<br>crumble<br>reject<br>segment<br>duck<br>margin<br>eagle<br>arrest<br>also |  
+| bip_39_word_new_br_2 | grain<br>nuclear |  
+| bip_39_word_new_br_3 | grain<br>nuclear<br>social |  
+| bip_39_word_new_br_4 | grain<br>nuclear<br>social<br>outdoor |  
+| bip_39_word_new_br_5 | grain<br>nuclear<br>social<br>outdoor<br>crumble |  
+| bip_39_word_new_br_6 | grain<br>nuclear<br>social<br>outdoor<br>crumble<br>reject |  
+| bip_39_word_new_br_7 | grain<br>nuclear<br>social<br>outdoor<br>crumble<br>reject<br>segment |  
+| bip_39_word_new_br_8 | grain<br>nuclear<br>social<br>outdoor<br>crumble<br>reject<br>segment<br>duck |  
+| bip_39_word_new_br_9 | grain<br>nuclear<br>social<br>outdoor<br>crumble<br>reject<br>segment<br>duck<br>margin |  
+| bip_39_word_new_line_1 | grain |  
+| bip_39_word_new_line_10 | grain
 nuclear
 social
 outdoor
@@ -55,7 +55,7 @@ segment
 duck
 margin
 eagle |  
-| bip_39_word_new_line11 | grain
+| bip_39_word_new_line_11 | grain
 nuclear
 social
 outdoor
@@ -66,7 +66,7 @@ duck
 margin
 eagle
 arrest |  
-| bip_39_word_new_line12 | grain
+| bip_39_word_new_line_12 | grain
 nuclear
 social
 outdoor
@@ -78,34 +78,34 @@ margin
 eagle
 arrest
 also |  
-| bip_39_word_new_line2 | grain
+| bip_39_word_new_line_2 | grain
 nuclear |  
-| bip_39_word_new_line3 | grain
+| bip_39_word_new_line_3 | grain
 nuclear
 social |  
-| bip_39_word_new_line4 | grain
+| bip_39_word_new_line_4 | grain
 nuclear
 social
 outdoor |  
-| bip_39_word_new_line5 | grain
+| bip_39_word_new_line_5 | grain
 nuclear
 social
 outdoor
 crumble |  
-| bip_39_word_new_line6 | grain
+| bip_39_word_new_line_6 | grain
 nuclear
 social
 outdoor
 crumble
 reject |  
-| bip_39_word_new_line7 | grain
+| bip_39_word_new_line_7 | grain
 nuclear
 social
 outdoor
 crumble
 reject
 segment |  
-| bip_39_word_new_line8 | grain
+| bip_39_word_new_line_8 | grain
 nuclear
 social
 outdoor
@@ -113,7 +113,7 @@ crumble
 reject
 segment
 duck |  
-| bip_39_word_new_line9 | grain
+| bip_39_word_new_line_9 | grain
 nuclear
 social
 outdoor

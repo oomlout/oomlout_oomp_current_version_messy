@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | morning |  
-| bip_39_word_new_br10 | morning<br>glue<br>voice<br>reopen<br>erupt<br>anger<br>elegant<br>zero<br>polar<br>permit |  
-| bip_39_word_new_br11 | morning<br>glue<br>voice<br>reopen<br>erupt<br>anger<br>elegant<br>zero<br>polar<br>permit<br>forum |  
-| bip_39_word_new_br12 | morning<br>glue<br>voice<br>reopen<br>erupt<br>anger<br>elegant<br>zero<br>polar<br>permit<br>forum<br>antique |  
-| bip_39_word_new_br2 | morning<br>glue |  
-| bip_39_word_new_br3 | morning<br>glue<br>voice |  
-| bip_39_word_new_br4 | morning<br>glue<br>voice<br>reopen |  
-| bip_39_word_new_br5 | morning<br>glue<br>voice<br>reopen<br>erupt |  
-| bip_39_word_new_br6 | morning<br>glue<br>voice<br>reopen<br>erupt<br>anger |  
-| bip_39_word_new_br7 | morning<br>glue<br>voice<br>reopen<br>erupt<br>anger<br>elegant |  
-| bip_39_word_new_br8 | morning<br>glue<br>voice<br>reopen<br>erupt<br>anger<br>elegant<br>zero |  
-| bip_39_word_new_br9 | morning<br>glue<br>voice<br>reopen<br>erupt<br>anger<br>elegant<br>zero<br>polar |  
-| bip_39_word_new_line1 | morning |  
-| bip_39_word_new_line10 | morning
+| bip_39_word_new_br_1 | morning |  
+| bip_39_word_new_br_10 | morning<br>glue<br>voice<br>reopen<br>erupt<br>anger<br>elegant<br>zero<br>polar<br>permit |  
+| bip_39_word_new_br_11 | morning<br>glue<br>voice<br>reopen<br>erupt<br>anger<br>elegant<br>zero<br>polar<br>permit<br>forum |  
+| bip_39_word_new_br_12 | morning<br>glue<br>voice<br>reopen<br>erupt<br>anger<br>elegant<br>zero<br>polar<br>permit<br>forum<br>antique |  
+| bip_39_word_new_br_2 | morning<br>glue |  
+| bip_39_word_new_br_3 | morning<br>glue<br>voice |  
+| bip_39_word_new_br_4 | morning<br>glue<br>voice<br>reopen |  
+| bip_39_word_new_br_5 | morning<br>glue<br>voice<br>reopen<br>erupt |  
+| bip_39_word_new_br_6 | morning<br>glue<br>voice<br>reopen<br>erupt<br>anger |  
+| bip_39_word_new_br_7 | morning<br>glue<br>voice<br>reopen<br>erupt<br>anger<br>elegant |  
+| bip_39_word_new_br_8 | morning<br>glue<br>voice<br>reopen<br>erupt<br>anger<br>elegant<br>zero |  
+| bip_39_word_new_br_9 | morning<br>glue<br>voice<br>reopen<br>erupt<br>anger<br>elegant<br>zero<br>polar |  
+| bip_39_word_new_line_1 | morning |  
+| bip_39_word_new_line_10 | morning
 glue
 voice
 reopen
@@ -55,7 +55,7 @@ elegant
 zero
 polar
 permit |  
-| bip_39_word_new_line11 | morning
+| bip_39_word_new_line_11 | morning
 glue
 voice
 reopen
@@ -66,7 +66,7 @@ zero
 polar
 permit
 forum |  
-| bip_39_word_new_line12 | morning
+| bip_39_word_new_line_12 | morning
 glue
 voice
 reopen
@@ -78,34 +78,34 @@ polar
 permit
 forum
 antique |  
-| bip_39_word_new_line2 | morning
+| bip_39_word_new_line_2 | morning
 glue |  
-| bip_39_word_new_line3 | morning
+| bip_39_word_new_line_3 | morning
 glue
 voice |  
-| bip_39_word_new_line4 | morning
+| bip_39_word_new_line_4 | morning
 glue
 voice
 reopen |  
-| bip_39_word_new_line5 | morning
+| bip_39_word_new_line_5 | morning
 glue
 voice
 reopen
 erupt |  
-| bip_39_word_new_line6 | morning
+| bip_39_word_new_line_6 | morning
 glue
 voice
 reopen
 erupt
 anger |  
-| bip_39_word_new_line7 | morning
+| bip_39_word_new_line_7 | morning
 glue
 voice
 reopen
 erupt
 anger
 elegant |  
-| bip_39_word_new_line8 | morning
+| bip_39_word_new_line_8 | morning
 glue
 voice
 reopen
@@ -113,7 +113,7 @@ erupt
 anger
 elegant
 zero |  
-| bip_39_word_new_line9 | morning
+| bip_39_word_new_line_9 | morning
 glue
 voice
 reopen

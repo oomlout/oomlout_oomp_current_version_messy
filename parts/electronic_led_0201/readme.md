@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | table |  
-| bip_39_word_new_br10 | table<br>piece<br>cherry<br>mirror<br>inside<br>angle<br>fork<br>inject<br>steak<br>group |  
-| bip_39_word_new_br11 | table<br>piece<br>cherry<br>mirror<br>inside<br>angle<br>fork<br>inject<br>steak<br>group<br>pink |  
-| bip_39_word_new_br12 | table<br>piece<br>cherry<br>mirror<br>inside<br>angle<br>fork<br>inject<br>steak<br>group<br>pink<br>already |  
-| bip_39_word_new_br2 | table<br>piece |  
-| bip_39_word_new_br3 | table<br>piece<br>cherry |  
-| bip_39_word_new_br4 | table<br>piece<br>cherry<br>mirror |  
-| bip_39_word_new_br5 | table<br>piece<br>cherry<br>mirror<br>inside |  
-| bip_39_word_new_br6 | table<br>piece<br>cherry<br>mirror<br>inside<br>angle |  
-| bip_39_word_new_br7 | table<br>piece<br>cherry<br>mirror<br>inside<br>angle<br>fork |  
-| bip_39_word_new_br8 | table<br>piece<br>cherry<br>mirror<br>inside<br>angle<br>fork<br>inject |  
-| bip_39_word_new_br9 | table<br>piece<br>cherry<br>mirror<br>inside<br>angle<br>fork<br>inject<br>steak |  
-| bip_39_word_new_line1 | table |  
-| bip_39_word_new_line10 | table
+| bip_39_word_new_br_1 | table |  
+| bip_39_word_new_br_10 | table<br>piece<br>cherry<br>mirror<br>inside<br>angle<br>fork<br>inject<br>steak<br>group |  
+| bip_39_word_new_br_11 | table<br>piece<br>cherry<br>mirror<br>inside<br>angle<br>fork<br>inject<br>steak<br>group<br>pink |  
+| bip_39_word_new_br_12 | table<br>piece<br>cherry<br>mirror<br>inside<br>angle<br>fork<br>inject<br>steak<br>group<br>pink<br>already |  
+| bip_39_word_new_br_2 | table<br>piece |  
+| bip_39_word_new_br_3 | table<br>piece<br>cherry |  
+| bip_39_word_new_br_4 | table<br>piece<br>cherry<br>mirror |  
+| bip_39_word_new_br_5 | table<br>piece<br>cherry<br>mirror<br>inside |  
+| bip_39_word_new_br_6 | table<br>piece<br>cherry<br>mirror<br>inside<br>angle |  
+| bip_39_word_new_br_7 | table<br>piece<br>cherry<br>mirror<br>inside<br>angle<br>fork |  
+| bip_39_word_new_br_8 | table<br>piece<br>cherry<br>mirror<br>inside<br>angle<br>fork<br>inject |  
+| bip_39_word_new_br_9 | table<br>piece<br>cherry<br>mirror<br>inside<br>angle<br>fork<br>inject<br>steak |  
+| bip_39_word_new_line_1 | table |  
+| bip_39_word_new_line_10 | table
 piece
 cherry
 mirror
@@ -55,7 +55,7 @@ fork
 inject
 steak
 group |  
-| bip_39_word_new_line11 | table
+| bip_39_word_new_line_11 | table
 piece
 cherry
 mirror
@@ -66,7 +66,7 @@ inject
 steak
 group
 pink |  
-| bip_39_word_new_line12 | table
+| bip_39_word_new_line_12 | table
 piece
 cherry
 mirror
@@ -78,34 +78,34 @@ steak
 group
 pink
 already |  
-| bip_39_word_new_line2 | table
+| bip_39_word_new_line_2 | table
 piece |  
-| bip_39_word_new_line3 | table
+| bip_39_word_new_line_3 | table
 piece
 cherry |  
-| bip_39_word_new_line4 | table
+| bip_39_word_new_line_4 | table
 piece
 cherry
 mirror |  
-| bip_39_word_new_line5 | table
+| bip_39_word_new_line_5 | table
 piece
 cherry
 mirror
 inside |  
-| bip_39_word_new_line6 | table
+| bip_39_word_new_line_6 | table
 piece
 cherry
 mirror
 inside
 angle |  
-| bip_39_word_new_line7 | table
+| bip_39_word_new_line_7 | table
 piece
 cherry
 mirror
 inside
 angle
 fork |  
-| bip_39_word_new_line8 | table
+| bip_39_word_new_line_8 | table
 piece
 cherry
 mirror
@@ -113,7 +113,7 @@ inside
 angle
 fork
 inject |  
-| bip_39_word_new_line9 | table
+| bip_39_word_new_line_9 | table
 piece
 cherry
 mirror

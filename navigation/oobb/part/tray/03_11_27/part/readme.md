@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | minor |  
-| bip_39_word_new_br10 | minor<br>lend<br>soldier<br>buyer<br>major<br>metal<br>creek<br>fat<br>junior<br>fuel |  
-| bip_39_word_new_br11 | minor<br>lend<br>soldier<br>buyer<br>major<br>metal<br>creek<br>fat<br>junior<br>fuel<br>festival |  
-| bip_39_word_new_br12 | minor<br>lend<br>soldier<br>buyer<br>major<br>metal<br>creek<br>fat<br>junior<br>fuel<br>festival<br>armor |  
-| bip_39_word_new_br2 | minor<br>lend |  
-| bip_39_word_new_br3 | minor<br>lend<br>soldier |  
-| bip_39_word_new_br4 | minor<br>lend<br>soldier<br>buyer |  
-| bip_39_word_new_br5 | minor<br>lend<br>soldier<br>buyer<br>major |  
-| bip_39_word_new_br6 | minor<br>lend<br>soldier<br>buyer<br>major<br>metal |  
-| bip_39_word_new_br7 | minor<br>lend<br>soldier<br>buyer<br>major<br>metal<br>creek |  
-| bip_39_word_new_br8 | minor<br>lend<br>soldier<br>buyer<br>major<br>metal<br>creek<br>fat |  
-| bip_39_word_new_br9 | minor<br>lend<br>soldier<br>buyer<br>major<br>metal<br>creek<br>fat<br>junior |  
-| bip_39_word_new_line1 | minor |  
-| bip_39_word_new_line10 | minor
+| bip_39_word_new_br_1 | minor |  
+| bip_39_word_new_br_10 | minor<br>lend<br>soldier<br>buyer<br>major<br>metal<br>creek<br>fat<br>junior<br>fuel |  
+| bip_39_word_new_br_11 | minor<br>lend<br>soldier<br>buyer<br>major<br>metal<br>creek<br>fat<br>junior<br>fuel<br>festival |  
+| bip_39_word_new_br_12 | minor<br>lend<br>soldier<br>buyer<br>major<br>metal<br>creek<br>fat<br>junior<br>fuel<br>festival<br>armor |  
+| bip_39_word_new_br_2 | minor<br>lend |  
+| bip_39_word_new_br_3 | minor<br>lend<br>soldier |  
+| bip_39_word_new_br_4 | minor<br>lend<br>soldier<br>buyer |  
+| bip_39_word_new_br_5 | minor<br>lend<br>soldier<br>buyer<br>major |  
+| bip_39_word_new_br_6 | minor<br>lend<br>soldier<br>buyer<br>major<br>metal |  
+| bip_39_word_new_br_7 | minor<br>lend<br>soldier<br>buyer<br>major<br>metal<br>creek |  
+| bip_39_word_new_br_8 | minor<br>lend<br>soldier<br>buyer<br>major<br>metal<br>creek<br>fat |  
+| bip_39_word_new_br_9 | minor<br>lend<br>soldier<br>buyer<br>major<br>metal<br>creek<br>fat<br>junior |  
+| bip_39_word_new_line_1 | minor |  
+| bip_39_word_new_line_10 | minor
 lend
 soldier
 buyer
@@ -55,7 +55,7 @@ creek
 fat
 junior
 fuel |  
-| bip_39_word_new_line11 | minor
+| bip_39_word_new_line_11 | minor
 lend
 soldier
 buyer
@@ -66,7 +66,7 @@ fat
 junior
 fuel
 festival |  
-| bip_39_word_new_line12 | minor
+| bip_39_word_new_line_12 | minor
 lend
 soldier
 buyer
@@ -78,34 +78,34 @@ junior
 fuel
 festival
 armor |  
-| bip_39_word_new_line2 | minor
+| bip_39_word_new_line_2 | minor
 lend |  
-| bip_39_word_new_line3 | minor
+| bip_39_word_new_line_3 | minor
 lend
 soldier |  
-| bip_39_word_new_line4 | minor
+| bip_39_word_new_line_4 | minor
 lend
 soldier
 buyer |  
-| bip_39_word_new_line5 | minor
+| bip_39_word_new_line_5 | minor
 lend
 soldier
 buyer
 major |  
-| bip_39_word_new_line6 | minor
+| bip_39_word_new_line_6 | minor
 lend
 soldier
 buyer
 major
 metal |  
-| bip_39_word_new_line7 | minor
+| bip_39_word_new_line_7 | minor
 lend
 soldier
 buyer
 major
 metal
 creek |  
-| bip_39_word_new_line8 | minor
+| bip_39_word_new_line_8 | minor
 lend
 soldier
 buyer
@@ -113,7 +113,7 @@ major
 metal
 creek
 fat |  
-| bip_39_word_new_line9 | minor
+| bip_39_word_new_line_9 | minor
 lend
 soldier
 buyer

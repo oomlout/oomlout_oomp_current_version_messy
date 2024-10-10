@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | spread |  
-| bip_39_word_new_br10 | spread<br>planet<br>credit<br>glow<br>habit<br>reduce<br>garment<br>retire<br>human<br>garlic |  
-| bip_39_word_new_br11 | spread<br>planet<br>credit<br>glow<br>habit<br>reduce<br>garment<br>retire<br>human<br>garlic<br>frost |  
-| bip_39_word_new_br12 | spread<br>planet<br>credit<br>glow<br>habit<br>reduce<br>garment<br>retire<br>human<br>garlic<br>frost<br>actual |  
-| bip_39_word_new_br2 | spread<br>planet |  
-| bip_39_word_new_br3 | spread<br>planet<br>credit |  
-| bip_39_word_new_br4 | spread<br>planet<br>credit<br>glow |  
-| bip_39_word_new_br5 | spread<br>planet<br>credit<br>glow<br>habit |  
-| bip_39_word_new_br6 | spread<br>planet<br>credit<br>glow<br>habit<br>reduce |  
-| bip_39_word_new_br7 | spread<br>planet<br>credit<br>glow<br>habit<br>reduce<br>garment |  
-| bip_39_word_new_br8 | spread<br>planet<br>credit<br>glow<br>habit<br>reduce<br>garment<br>retire |  
-| bip_39_word_new_br9 | spread<br>planet<br>credit<br>glow<br>habit<br>reduce<br>garment<br>retire<br>human |  
-| bip_39_word_new_line1 | spread |  
-| bip_39_word_new_line10 | spread
+| bip_39_word_new_br_1 | spread |  
+| bip_39_word_new_br_10 | spread<br>planet<br>credit<br>glow<br>habit<br>reduce<br>garment<br>retire<br>human<br>garlic |  
+| bip_39_word_new_br_11 | spread<br>planet<br>credit<br>glow<br>habit<br>reduce<br>garment<br>retire<br>human<br>garlic<br>frost |  
+| bip_39_word_new_br_12 | spread<br>planet<br>credit<br>glow<br>habit<br>reduce<br>garment<br>retire<br>human<br>garlic<br>frost<br>actual |  
+| bip_39_word_new_br_2 | spread<br>planet |  
+| bip_39_word_new_br_3 | spread<br>planet<br>credit |  
+| bip_39_word_new_br_4 | spread<br>planet<br>credit<br>glow |  
+| bip_39_word_new_br_5 | spread<br>planet<br>credit<br>glow<br>habit |  
+| bip_39_word_new_br_6 | spread<br>planet<br>credit<br>glow<br>habit<br>reduce |  
+| bip_39_word_new_br_7 | spread<br>planet<br>credit<br>glow<br>habit<br>reduce<br>garment |  
+| bip_39_word_new_br_8 | spread<br>planet<br>credit<br>glow<br>habit<br>reduce<br>garment<br>retire |  
+| bip_39_word_new_br_9 | spread<br>planet<br>credit<br>glow<br>habit<br>reduce<br>garment<br>retire<br>human |  
+| bip_39_word_new_line_1 | spread |  
+| bip_39_word_new_line_10 | spread
 planet
 credit
 glow
@@ -55,7 +55,7 @@ garment
 retire
 human
 garlic |  
-| bip_39_word_new_line11 | spread
+| bip_39_word_new_line_11 | spread
 planet
 credit
 glow
@@ -66,7 +66,7 @@ retire
 human
 garlic
 frost |  
-| bip_39_word_new_line12 | spread
+| bip_39_word_new_line_12 | spread
 planet
 credit
 glow
@@ -78,34 +78,34 @@ human
 garlic
 frost
 actual |  
-| bip_39_word_new_line2 | spread
+| bip_39_word_new_line_2 | spread
 planet |  
-| bip_39_word_new_line3 | spread
+| bip_39_word_new_line_3 | spread
 planet
 credit |  
-| bip_39_word_new_line4 | spread
+| bip_39_word_new_line_4 | spread
 planet
 credit
 glow |  
-| bip_39_word_new_line5 | spread
+| bip_39_word_new_line_5 | spread
 planet
 credit
 glow
 habit |  
-| bip_39_word_new_line6 | spread
+| bip_39_word_new_line_6 | spread
 planet
 credit
 glow
 habit
 reduce |  
-| bip_39_word_new_line7 | spread
+| bip_39_word_new_line_7 | spread
 planet
 credit
 glow
 habit
 reduce
 garment |  
-| bip_39_word_new_line8 | spread
+| bip_39_word_new_line_8 | spread
 planet
 credit
 glow
@@ -113,7 +113,7 @@ habit
 reduce
 garment
 retire |  
-| bip_39_word_new_line9 | spread
+| bip_39_word_new_line_9 | spread
 planet
 credit
 glow

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mean |  
-| bip_39_word_new_br10 | mean<br>wire<br>topic<br>release<br>season<br>forget<br>clump<br>rib<br>program<br>federal |  
-| bip_39_word_new_br11 | mean<br>wire<br>topic<br>release<br>season<br>forget<br>clump<br>rib<br>program<br>federal<br>brown |  
-| bip_39_word_new_br12 | mean<br>wire<br>topic<br>release<br>season<br>forget<br>clump<br>rib<br>program<br>federal<br>brown<br>argue |  
-| bip_39_word_new_br2 | mean<br>wire |  
-| bip_39_word_new_br3 | mean<br>wire<br>topic |  
-| bip_39_word_new_br4 | mean<br>wire<br>topic<br>release |  
-| bip_39_word_new_br5 | mean<br>wire<br>topic<br>release<br>season |  
-| bip_39_word_new_br6 | mean<br>wire<br>topic<br>release<br>season<br>forget |  
-| bip_39_word_new_br7 | mean<br>wire<br>topic<br>release<br>season<br>forget<br>clump |  
-| bip_39_word_new_br8 | mean<br>wire<br>topic<br>release<br>season<br>forget<br>clump<br>rib |  
-| bip_39_word_new_br9 | mean<br>wire<br>topic<br>release<br>season<br>forget<br>clump<br>rib<br>program |  
-| bip_39_word_new_line1 | mean |  
-| bip_39_word_new_line10 | mean
+| bip_39_word_new_br_1 | mean |  
+| bip_39_word_new_br_10 | mean<br>wire<br>topic<br>release<br>season<br>forget<br>clump<br>rib<br>program<br>federal |  
+| bip_39_word_new_br_11 | mean<br>wire<br>topic<br>release<br>season<br>forget<br>clump<br>rib<br>program<br>federal<br>brown |  
+| bip_39_word_new_br_12 | mean<br>wire<br>topic<br>release<br>season<br>forget<br>clump<br>rib<br>program<br>federal<br>brown<br>argue |  
+| bip_39_word_new_br_2 | mean<br>wire |  
+| bip_39_word_new_br_3 | mean<br>wire<br>topic |  
+| bip_39_word_new_br_4 | mean<br>wire<br>topic<br>release |  
+| bip_39_word_new_br_5 | mean<br>wire<br>topic<br>release<br>season |  
+| bip_39_word_new_br_6 | mean<br>wire<br>topic<br>release<br>season<br>forget |  
+| bip_39_word_new_br_7 | mean<br>wire<br>topic<br>release<br>season<br>forget<br>clump |  
+| bip_39_word_new_br_8 | mean<br>wire<br>topic<br>release<br>season<br>forget<br>clump<br>rib |  
+| bip_39_word_new_br_9 | mean<br>wire<br>topic<br>release<br>season<br>forget<br>clump<br>rib<br>program |  
+| bip_39_word_new_line_1 | mean |  
+| bip_39_word_new_line_10 | mean
 wire
 topic
 release
@@ -55,7 +55,7 @@ clump
 rib
 program
 federal |  
-| bip_39_word_new_line11 | mean
+| bip_39_word_new_line_11 | mean
 wire
 topic
 release
@@ -66,7 +66,7 @@ rib
 program
 federal
 brown |  
-| bip_39_word_new_line12 | mean
+| bip_39_word_new_line_12 | mean
 wire
 topic
 release
@@ -78,34 +78,34 @@ program
 federal
 brown
 argue |  
-| bip_39_word_new_line2 | mean
+| bip_39_word_new_line_2 | mean
 wire |  
-| bip_39_word_new_line3 | mean
+| bip_39_word_new_line_3 | mean
 wire
 topic |  
-| bip_39_word_new_line4 | mean
+| bip_39_word_new_line_4 | mean
 wire
 topic
 release |  
-| bip_39_word_new_line5 | mean
+| bip_39_word_new_line_5 | mean
 wire
 topic
 release
 season |  
-| bip_39_word_new_line6 | mean
+| bip_39_word_new_line_6 | mean
 wire
 topic
 release
 season
 forget |  
-| bip_39_word_new_line7 | mean
+| bip_39_word_new_line_7 | mean
 wire
 topic
 release
 season
 forget
 clump |  
-| bip_39_word_new_line8 | mean
+| bip_39_word_new_line_8 | mean
 wire
 topic
 release
@@ -113,7 +113,7 @@ season
 forget
 clump
 rib |  
-| bip_39_word_new_line9 | mean
+| bip_39_word_new_line_9 | mean
 wire
 topic
 release

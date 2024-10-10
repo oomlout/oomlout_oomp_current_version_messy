@@ -1,17 +1,17 @@
-bip_39_word_new_br1: all
-bip_39_word_new_br10: all<br>head<br>reveal<br>filter<br>save<br>venue<br>until<br>charge<br>true<br>obscure
-bip_39_word_new_br11: all<br>head<br>reveal<br>filter<br>save<br>venue<br>until<br>charge<br>true<br>obscure<br>tackle
-bip_39_word_new_br12: all<br>head<br>reveal<br>filter<br>save<br>venue<br>until<br>charge<br>true<br>obscure<br>tackle<br>able
-bip_39_word_new_br2: all<br>head
-bip_39_word_new_br3: all<br>head<br>reveal
-bip_39_word_new_br4: all<br>head<br>reveal<br>filter
-bip_39_word_new_br5: all<br>head<br>reveal<br>filter<br>save
-bip_39_word_new_br6: all<br>head<br>reveal<br>filter<br>save<br>venue
-bip_39_word_new_br7: all<br>head<br>reveal<br>filter<br>save<br>venue<br>until
-bip_39_word_new_br8: all<br>head<br>reveal<br>filter<br>save<br>venue<br>until<br>charge
-bip_39_word_new_br9: all<br>head<br>reveal<br>filter<br>save<br>venue<br>until<br>charge<br>true
-bip_39_word_new_line1: all
-bip_39_word_new_line10: 'all
+bip_39_word_new_br_1: all
+bip_39_word_new_br_10: all<br>head<br>reveal<br>filter<br>save<br>venue<br>until<br>charge<br>true<br>obscure
+bip_39_word_new_br_11: all<br>head<br>reveal<br>filter<br>save<br>venue<br>until<br>charge<br>true<br>obscure<br>tackle
+bip_39_word_new_br_12: all<br>head<br>reveal<br>filter<br>save<br>venue<br>until<br>charge<br>true<br>obscure<br>tackle<br>able
+bip_39_word_new_br_2: all<br>head
+bip_39_word_new_br_3: all<br>head<br>reveal
+bip_39_word_new_br_4: all<br>head<br>reveal<br>filter
+bip_39_word_new_br_5: all<br>head<br>reveal<br>filter<br>save
+bip_39_word_new_br_6: all<br>head<br>reveal<br>filter<br>save<br>venue
+bip_39_word_new_br_7: all<br>head<br>reveal<br>filter<br>save<br>venue<br>until
+bip_39_word_new_br_8: all<br>head<br>reveal<br>filter<br>save<br>venue<br>until<br>charge
+bip_39_word_new_br_9: all<br>head<br>reveal<br>filter<br>save<br>venue<br>until<br>charge<br>true
+bip_39_word_new_line_1: all
+bip_39_word_new_line_10: 'all
 
   head
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'all
   true
 
   obscure'
-bip_39_word_new_line11: 'all
+bip_39_word_new_line_11: 'all
 
   head
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'all
   obscure
 
   tackle'
-bip_39_word_new_line12: 'all
+bip_39_word_new_line_12: 'all
 
   head
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'all
   tackle
 
   able'
-bip_39_word_new_line2: 'all
+bip_39_word_new_line_2: 'all
 
   head'
-bip_39_word_new_line3: 'all
+bip_39_word_new_line_3: 'all
 
   head
 
   reveal'
-bip_39_word_new_line4: 'all
+bip_39_word_new_line_4: 'all
 
   head
 
   reveal
 
   filter'
-bip_39_word_new_line5: 'all
+bip_39_word_new_line_5: 'all
 
   head
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'all
   filter
 
   save'
-bip_39_word_new_line6: 'all
+bip_39_word_new_line_6: 'all
 
   head
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'all
   save
 
   venue'
-bip_39_word_new_line7: 'all
+bip_39_word_new_line_7: 'all
 
   head
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'all
   venue
 
   until'
-bip_39_word_new_line8: 'all
+bip_39_word_new_line_8: 'all
 
   head
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'all
   until
 
   charge'
-bip_39_word_new_line9: 'all
+bip_39_word_new_line_9: 'all
 
   head
 

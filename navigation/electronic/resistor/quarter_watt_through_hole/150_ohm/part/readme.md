@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | good |  
-| bip_39_word_new_br10 | good<br>carry<br>adjust<br>soldier<br>under<br>churn<br>type<br>prepare<br>major<br>report |  
-| bip_39_word_new_br11 | good<br>carry<br>adjust<br>soldier<br>under<br>churn<br>type<br>prepare<br>major<br>report<br>lucky |  
-| bip_39_word_new_br2 | good<br>carry |  
-| bip_39_word_new_br3 | good<br>carry<br>adjust |  
-| bip_39_word_new_br4 | good<br>carry<br>adjust<br>soldier |  
-| bip_39_word_new_br5 | good<br>carry<br>adjust<br>soldier<br>under |  
-| bip_39_word_new_br6 | good<br>carry<br>adjust<br>soldier<br>under<br>churn |  
-| bip_39_word_new_br7 | good<br>carry<br>adjust<br>soldier<br>under<br>churn<br>type |  
-| bip_39_word_new_br8 | good<br>carry<br>adjust<br>soldier<br>under<br>churn<br>type<br>prepare |  
-| bip_39_word_new_br9 | good<br>carry<br>adjust<br>soldier<br>under<br>churn<br>type<br>prepare<br>major |  
-| bip_39_word_new_line1 | good |  
-| bip_39_word_new_line10 | good
+| bip_39_word_new_br_1 | good |  
+| bip_39_word_new_br_10 | good<br>carry<br>adjust<br>soldier<br>under<br>churn<br>type<br>prepare<br>major<br>report |  
+| bip_39_word_new_br_11 | good<br>carry<br>adjust<br>soldier<br>under<br>churn<br>type<br>prepare<br>major<br>report<br>lucky |  
+| bip_39_word_new_br_2 | good<br>carry |  
+| bip_39_word_new_br_3 | good<br>carry<br>adjust |  
+| bip_39_word_new_br_4 | good<br>carry<br>adjust<br>soldier |  
+| bip_39_word_new_br_5 | good<br>carry<br>adjust<br>soldier<br>under |  
+| bip_39_word_new_br_6 | good<br>carry<br>adjust<br>soldier<br>under<br>churn |  
+| bip_39_word_new_br_7 | good<br>carry<br>adjust<br>soldier<br>under<br>churn<br>type |  
+| bip_39_word_new_br_8 | good<br>carry<br>adjust<br>soldier<br>under<br>churn<br>type<br>prepare |  
+| bip_39_word_new_br_9 | good<br>carry<br>adjust<br>soldier<br>under<br>churn<br>type<br>prepare<br>major |  
+| bip_39_word_new_line_1 | good |  
+| bip_39_word_new_line_10 | good
 carry
 adjust
 soldier
@@ -54,7 +54,7 @@ type
 prepare
 major
 report |  
-| bip_39_word_new_line11 | good
+| bip_39_word_new_line_11 | good
 carry
 adjust
 soldier
@@ -65,34 +65,34 @@ prepare
 major
 report
 lucky |  
-| bip_39_word_new_line2 | good
+| bip_39_word_new_line_2 | good
 carry |  
-| bip_39_word_new_line3 | good
+| bip_39_word_new_line_3 | good
 carry
 adjust |  
-| bip_39_word_new_line4 | good
+| bip_39_word_new_line_4 | good
 carry
 adjust
 soldier |  
-| bip_39_word_new_line5 | good
+| bip_39_word_new_line_5 | good
 carry
 adjust
 soldier
 under |  
-| bip_39_word_new_line6 | good
+| bip_39_word_new_line_6 | good
 carry
 adjust
 soldier
 under
 churn |  
-| bip_39_word_new_line7 | good
+| bip_39_word_new_line_7 | good
 carry
 adjust
 soldier
 under
 churn
 type |  
-| bip_39_word_new_line8 | good
+| bip_39_word_new_line_8 | good
 carry
 adjust
 soldier
@@ -100,7 +100,7 @@ under
 churn
 type
 prepare |  
-| bip_39_word_new_line9 | good
+| bip_39_word_new_line_9 | good
 carry
 adjust
 soldier

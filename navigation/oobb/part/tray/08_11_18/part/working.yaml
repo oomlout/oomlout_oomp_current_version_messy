@@ -1,17 +1,17 @@
-bip_39_word_new_br1: gown
-bip_39_word_new_br10: gown<br>pony<br>exist<br>grace<br>design<br>nice<br>aspect<br>trip<br>benefit<br>provide
-bip_39_word_new_br11: gown<br>pony<br>exist<br>grace<br>design<br>nice<br>aspect<br>trip<br>benefit<br>provide<br>blame
-bip_39_word_new_br12: gown<br>pony<br>exist<br>grace<br>design<br>nice<br>aspect<br>trip<br>benefit<br>provide<br>blame<br>act
-bip_39_word_new_br2: gown<br>pony
-bip_39_word_new_br3: gown<br>pony<br>exist
-bip_39_word_new_br4: gown<br>pony<br>exist<br>grace
-bip_39_word_new_br5: gown<br>pony<br>exist<br>grace<br>design
-bip_39_word_new_br6: gown<br>pony<br>exist<br>grace<br>design<br>nice
-bip_39_word_new_br7: gown<br>pony<br>exist<br>grace<br>design<br>nice<br>aspect
-bip_39_word_new_br8: gown<br>pony<br>exist<br>grace<br>design<br>nice<br>aspect<br>trip
-bip_39_word_new_br9: gown<br>pony<br>exist<br>grace<br>design<br>nice<br>aspect<br>trip<br>benefit
-bip_39_word_new_line1: gown
-bip_39_word_new_line10: 'gown
+bip_39_word_new_br_1: gown
+bip_39_word_new_br_10: gown<br>pony<br>exist<br>grace<br>design<br>nice<br>aspect<br>trip<br>benefit<br>provide
+bip_39_word_new_br_11: gown<br>pony<br>exist<br>grace<br>design<br>nice<br>aspect<br>trip<br>benefit<br>provide<br>blame
+bip_39_word_new_br_12: gown<br>pony<br>exist<br>grace<br>design<br>nice<br>aspect<br>trip<br>benefit<br>provide<br>blame<br>act
+bip_39_word_new_br_2: gown<br>pony
+bip_39_word_new_br_3: gown<br>pony<br>exist
+bip_39_word_new_br_4: gown<br>pony<br>exist<br>grace
+bip_39_word_new_br_5: gown<br>pony<br>exist<br>grace<br>design
+bip_39_word_new_br_6: gown<br>pony<br>exist<br>grace<br>design<br>nice
+bip_39_word_new_br_7: gown<br>pony<br>exist<br>grace<br>design<br>nice<br>aspect
+bip_39_word_new_br_8: gown<br>pony<br>exist<br>grace<br>design<br>nice<br>aspect<br>trip
+bip_39_word_new_br_9: gown<br>pony<br>exist<br>grace<br>design<br>nice<br>aspect<br>trip<br>benefit
+bip_39_word_new_line_1: gown
+bip_39_word_new_line_10: 'gown
 
   pony
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'gown
   benefit
 
   provide'
-bip_39_word_new_line11: 'gown
+bip_39_word_new_line_11: 'gown
 
   pony
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'gown
   provide
 
   blame'
-bip_39_word_new_line12: 'gown
+bip_39_word_new_line_12: 'gown
 
   pony
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'gown
   blame
 
   act'
-bip_39_word_new_line2: 'gown
+bip_39_word_new_line_2: 'gown
 
   pony'
-bip_39_word_new_line3: 'gown
+bip_39_word_new_line_3: 'gown
 
   pony
 
   exist'
-bip_39_word_new_line4: 'gown
+bip_39_word_new_line_4: 'gown
 
   pony
 
   exist
 
   grace'
-bip_39_word_new_line5: 'gown
+bip_39_word_new_line_5: 'gown
 
   pony
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'gown
   grace
 
   design'
-bip_39_word_new_line6: 'gown
+bip_39_word_new_line_6: 'gown
 
   pony
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'gown
   design
 
   nice'
-bip_39_word_new_line7: 'gown
+bip_39_word_new_line_7: 'gown
 
   pony
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'gown
   nice
 
   aspect'
-bip_39_word_new_line8: 'gown
+bip_39_word_new_line_8: 'gown
 
   pony
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'gown
   aspect
 
   trip'
-bip_39_word_new_line9: 'gown
+bip_39_word_new_line_9: 'gown
 
   pony
 

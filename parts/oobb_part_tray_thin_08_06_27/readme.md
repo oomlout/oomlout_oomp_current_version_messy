@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | concert |  
-| bip_39_word_new_br10 | concert<br>ocean<br>loan<br>illness<br>miss<br>lens<br>lumber<br>casino<br>drink<br>infant |  
-| bip_39_word_new_br11 | concert<br>ocean<br>loan<br>illness<br>miss<br>lens<br>lumber<br>casino<br>drink<br>infant<br>frame |  
-| bip_39_word_new_br12 | concert<br>ocean<br>loan<br>illness<br>miss<br>lens<br>lumber<br>casino<br>drink<br>infant<br>frame<br>accident |  
-| bip_39_word_new_br2 | concert<br>ocean |  
-| bip_39_word_new_br3 | concert<br>ocean<br>loan |  
-| bip_39_word_new_br4 | concert<br>ocean<br>loan<br>illness |  
-| bip_39_word_new_br5 | concert<br>ocean<br>loan<br>illness<br>miss |  
-| bip_39_word_new_br6 | concert<br>ocean<br>loan<br>illness<br>miss<br>lens |  
-| bip_39_word_new_br7 | concert<br>ocean<br>loan<br>illness<br>miss<br>lens<br>lumber |  
-| bip_39_word_new_br8 | concert<br>ocean<br>loan<br>illness<br>miss<br>lens<br>lumber<br>casino |  
-| bip_39_word_new_br9 | concert<br>ocean<br>loan<br>illness<br>miss<br>lens<br>lumber<br>casino<br>drink |  
-| bip_39_word_new_line1 | concert |  
-| bip_39_word_new_line10 | concert
+| bip_39_word_new_br_1 | concert |  
+| bip_39_word_new_br_10 | concert<br>ocean<br>loan<br>illness<br>miss<br>lens<br>lumber<br>casino<br>drink<br>infant |  
+| bip_39_word_new_br_11 | concert<br>ocean<br>loan<br>illness<br>miss<br>lens<br>lumber<br>casino<br>drink<br>infant<br>frame |  
+| bip_39_word_new_br_12 | concert<br>ocean<br>loan<br>illness<br>miss<br>lens<br>lumber<br>casino<br>drink<br>infant<br>frame<br>accident |  
+| bip_39_word_new_br_2 | concert<br>ocean |  
+| bip_39_word_new_br_3 | concert<br>ocean<br>loan |  
+| bip_39_word_new_br_4 | concert<br>ocean<br>loan<br>illness |  
+| bip_39_word_new_br_5 | concert<br>ocean<br>loan<br>illness<br>miss |  
+| bip_39_word_new_br_6 | concert<br>ocean<br>loan<br>illness<br>miss<br>lens |  
+| bip_39_word_new_br_7 | concert<br>ocean<br>loan<br>illness<br>miss<br>lens<br>lumber |  
+| bip_39_word_new_br_8 | concert<br>ocean<br>loan<br>illness<br>miss<br>lens<br>lumber<br>casino |  
+| bip_39_word_new_br_9 | concert<br>ocean<br>loan<br>illness<br>miss<br>lens<br>lumber<br>casino<br>drink |  
+| bip_39_word_new_line_1 | concert |  
+| bip_39_word_new_line_10 | concert
 ocean
 loan
 illness
@@ -55,7 +55,7 @@ lumber
 casino
 drink
 infant |  
-| bip_39_word_new_line11 | concert
+| bip_39_word_new_line_11 | concert
 ocean
 loan
 illness
@@ -66,7 +66,7 @@ casino
 drink
 infant
 frame |  
-| bip_39_word_new_line12 | concert
+| bip_39_word_new_line_12 | concert
 ocean
 loan
 illness
@@ -78,34 +78,34 @@ drink
 infant
 frame
 accident |  
-| bip_39_word_new_line2 | concert
+| bip_39_word_new_line_2 | concert
 ocean |  
-| bip_39_word_new_line3 | concert
+| bip_39_word_new_line_3 | concert
 ocean
 loan |  
-| bip_39_word_new_line4 | concert
+| bip_39_word_new_line_4 | concert
 ocean
 loan
 illness |  
-| bip_39_word_new_line5 | concert
+| bip_39_word_new_line_5 | concert
 ocean
 loan
 illness
 miss |  
-| bip_39_word_new_line6 | concert
+| bip_39_word_new_line_6 | concert
 ocean
 loan
 illness
 miss
 lens |  
-| bip_39_word_new_line7 | concert
+| bip_39_word_new_line_7 | concert
 ocean
 loan
 illness
 miss
 lens
 lumber |  
-| bip_39_word_new_line8 | concert
+| bip_39_word_new_line_8 | concert
 ocean
 loan
 illness
@@ -113,7 +113,7 @@ miss
 lens
 lumber
 casino |  
-| bip_39_word_new_line9 | concert
+| bip_39_word_new_line_9 | concert
 ocean
 loan
 illness

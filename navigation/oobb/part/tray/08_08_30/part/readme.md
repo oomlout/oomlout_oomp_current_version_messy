@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | badge |  
-| bip_39_word_new_br10 | badge<br>ribbon<br>ability<br>busy<br>wedding<br>better<br>prize<br>pizza<br>wealth<br>myth |  
-| bip_39_word_new_br11 | badge<br>ribbon<br>ability<br>busy<br>wedding<br>better<br>prize<br>pizza<br>wealth<br>myth<br>replace |  
-| bip_39_word_new_br12 | badge<br>ribbon<br>ability<br>busy<br>wedding<br>better<br>prize<br>pizza<br>wealth<br>myth<br>replace<br>apart |  
-| bip_39_word_new_br2 | badge<br>ribbon |  
-| bip_39_word_new_br3 | badge<br>ribbon<br>ability |  
-| bip_39_word_new_br4 | badge<br>ribbon<br>ability<br>busy |  
-| bip_39_word_new_br5 | badge<br>ribbon<br>ability<br>busy<br>wedding |  
-| bip_39_word_new_br6 | badge<br>ribbon<br>ability<br>busy<br>wedding<br>better |  
-| bip_39_word_new_br7 | badge<br>ribbon<br>ability<br>busy<br>wedding<br>better<br>prize |  
-| bip_39_word_new_br8 | badge<br>ribbon<br>ability<br>busy<br>wedding<br>better<br>prize<br>pizza |  
-| bip_39_word_new_br9 | badge<br>ribbon<br>ability<br>busy<br>wedding<br>better<br>prize<br>pizza<br>wealth |  
-| bip_39_word_new_line1 | badge |  
-| bip_39_word_new_line10 | badge
+| bip_39_word_new_br_1 | badge |  
+| bip_39_word_new_br_10 | badge<br>ribbon<br>ability<br>busy<br>wedding<br>better<br>prize<br>pizza<br>wealth<br>myth |  
+| bip_39_word_new_br_11 | badge<br>ribbon<br>ability<br>busy<br>wedding<br>better<br>prize<br>pizza<br>wealth<br>myth<br>replace |  
+| bip_39_word_new_br_12 | badge<br>ribbon<br>ability<br>busy<br>wedding<br>better<br>prize<br>pizza<br>wealth<br>myth<br>replace<br>apart |  
+| bip_39_word_new_br_2 | badge<br>ribbon |  
+| bip_39_word_new_br_3 | badge<br>ribbon<br>ability |  
+| bip_39_word_new_br_4 | badge<br>ribbon<br>ability<br>busy |  
+| bip_39_word_new_br_5 | badge<br>ribbon<br>ability<br>busy<br>wedding |  
+| bip_39_word_new_br_6 | badge<br>ribbon<br>ability<br>busy<br>wedding<br>better |  
+| bip_39_word_new_br_7 | badge<br>ribbon<br>ability<br>busy<br>wedding<br>better<br>prize |  
+| bip_39_word_new_br_8 | badge<br>ribbon<br>ability<br>busy<br>wedding<br>better<br>prize<br>pizza |  
+| bip_39_word_new_br_9 | badge<br>ribbon<br>ability<br>busy<br>wedding<br>better<br>prize<br>pizza<br>wealth |  
+| bip_39_word_new_line_1 | badge |  
+| bip_39_word_new_line_10 | badge
 ribbon
 ability
 busy
@@ -55,7 +55,7 @@ prize
 pizza
 wealth
 myth |  
-| bip_39_word_new_line11 | badge
+| bip_39_word_new_line_11 | badge
 ribbon
 ability
 busy
@@ -66,7 +66,7 @@ pizza
 wealth
 myth
 replace |  
-| bip_39_word_new_line12 | badge
+| bip_39_word_new_line_12 | badge
 ribbon
 ability
 busy
@@ -78,34 +78,34 @@ wealth
 myth
 replace
 apart |  
-| bip_39_word_new_line2 | badge
+| bip_39_word_new_line_2 | badge
 ribbon |  
-| bip_39_word_new_line3 | badge
+| bip_39_word_new_line_3 | badge
 ribbon
 ability |  
-| bip_39_word_new_line4 | badge
+| bip_39_word_new_line_4 | badge
 ribbon
 ability
 busy |  
-| bip_39_word_new_line5 | badge
+| bip_39_word_new_line_5 | badge
 ribbon
 ability
 busy
 wedding |  
-| bip_39_word_new_line6 | badge
+| bip_39_word_new_line_6 | badge
 ribbon
 ability
 busy
 wedding
 better |  
-| bip_39_word_new_line7 | badge
+| bip_39_word_new_line_7 | badge
 ribbon
 ability
 busy
 wedding
 better
 prize |  
-| bip_39_word_new_line8 | badge
+| bip_39_word_new_line_8 | badge
 ribbon
 ability
 busy
@@ -113,7 +113,7 @@ wedding
 better
 prize
 pizza |  
-| bip_39_word_new_line9 | badge
+| bip_39_word_new_line_9 | badge
 ribbon
 ability
 busy

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | minor |  
-| bip_39_word_new_br10 | minor<br>valid<br>mad<br>expect<br>service<br>throw<br>glare<br>resemble<br>result<br>hat |  
-| bip_39_word_new_br11 | minor<br>valid<br>mad<br>expect<br>service<br>throw<br>glare<br>resemble<br>result<br>hat<br>grape |  
-| bip_39_word_new_br12 | minor<br>valid<br>mad<br>expect<br>service<br>throw<br>glare<br>resemble<br>result<br>hat<br>grape<br>alpha |  
-| bip_39_word_new_br2 | minor<br>valid |  
-| bip_39_word_new_br3 | minor<br>valid<br>mad |  
-| bip_39_word_new_br4 | minor<br>valid<br>mad<br>expect |  
-| bip_39_word_new_br5 | minor<br>valid<br>mad<br>expect<br>service |  
-| bip_39_word_new_br6 | minor<br>valid<br>mad<br>expect<br>service<br>throw |  
-| bip_39_word_new_br7 | minor<br>valid<br>mad<br>expect<br>service<br>throw<br>glare |  
-| bip_39_word_new_br8 | minor<br>valid<br>mad<br>expect<br>service<br>throw<br>glare<br>resemble |  
-| bip_39_word_new_br9 | minor<br>valid<br>mad<br>expect<br>service<br>throw<br>glare<br>resemble<br>result |  
-| bip_39_word_new_line1 | minor |  
-| bip_39_word_new_line10 | minor
+| bip_39_word_new_br_1 | minor |  
+| bip_39_word_new_br_10 | minor<br>valid<br>mad<br>expect<br>service<br>throw<br>glare<br>resemble<br>result<br>hat |  
+| bip_39_word_new_br_11 | minor<br>valid<br>mad<br>expect<br>service<br>throw<br>glare<br>resemble<br>result<br>hat<br>grape |  
+| bip_39_word_new_br_12 | minor<br>valid<br>mad<br>expect<br>service<br>throw<br>glare<br>resemble<br>result<br>hat<br>grape<br>alpha |  
+| bip_39_word_new_br_2 | minor<br>valid |  
+| bip_39_word_new_br_3 | minor<br>valid<br>mad |  
+| bip_39_word_new_br_4 | minor<br>valid<br>mad<br>expect |  
+| bip_39_word_new_br_5 | minor<br>valid<br>mad<br>expect<br>service |  
+| bip_39_word_new_br_6 | minor<br>valid<br>mad<br>expect<br>service<br>throw |  
+| bip_39_word_new_br_7 | minor<br>valid<br>mad<br>expect<br>service<br>throw<br>glare |  
+| bip_39_word_new_br_8 | minor<br>valid<br>mad<br>expect<br>service<br>throw<br>glare<br>resemble |  
+| bip_39_word_new_br_9 | minor<br>valid<br>mad<br>expect<br>service<br>throw<br>glare<br>resemble<br>result |  
+| bip_39_word_new_line_1 | minor |  
+| bip_39_word_new_line_10 | minor
 valid
 mad
 expect
@@ -55,7 +55,7 @@ glare
 resemble
 result
 hat |  
-| bip_39_word_new_line11 | minor
+| bip_39_word_new_line_11 | minor
 valid
 mad
 expect
@@ -66,7 +66,7 @@ resemble
 result
 hat
 grape |  
-| bip_39_word_new_line12 | minor
+| bip_39_word_new_line_12 | minor
 valid
 mad
 expect
@@ -78,34 +78,34 @@ result
 hat
 grape
 alpha |  
-| bip_39_word_new_line2 | minor
+| bip_39_word_new_line_2 | minor
 valid |  
-| bip_39_word_new_line3 | minor
+| bip_39_word_new_line_3 | minor
 valid
 mad |  
-| bip_39_word_new_line4 | minor
+| bip_39_word_new_line_4 | minor
 valid
 mad
 expect |  
-| bip_39_word_new_line5 | minor
+| bip_39_word_new_line_5 | minor
 valid
 mad
 expect
 service |  
-| bip_39_word_new_line6 | minor
+| bip_39_word_new_line_6 | minor
 valid
 mad
 expect
 service
 throw |  
-| bip_39_word_new_line7 | minor
+| bip_39_word_new_line_7 | minor
 valid
 mad
 expect
 service
 throw
 glare |  
-| bip_39_word_new_line8 | minor
+| bip_39_word_new_line_8 | minor
 valid
 mad
 expect
@@ -113,7 +113,7 @@ service
 throw
 glare
 resemble |  
-| bip_39_word_new_line9 | minor
+| bip_39_word_new_line_9 | minor
 valid
 mad
 expect

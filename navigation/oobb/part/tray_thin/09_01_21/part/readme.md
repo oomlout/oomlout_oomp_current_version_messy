@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fossil |  
-| bip_39_word_new_br10 | fossil<br>approve<br>exhaust<br>economy<br>acid<br>assist<br>phrase<br>burden<br>scan<br>salute |  
-| bip_39_word_new_br11 | fossil<br>approve<br>exhaust<br>economy<br>acid<br>assist<br>phrase<br>burden<br>scan<br>salute<br>exhibit |  
-| bip_39_word_new_br12 | fossil<br>approve<br>exhaust<br>economy<br>acid<br>assist<br>phrase<br>burden<br>scan<br>salute<br>exhibit<br>ability |  
-| bip_39_word_new_br2 | fossil<br>approve |  
-| bip_39_word_new_br3 | fossil<br>approve<br>exhaust |  
-| bip_39_word_new_br4 | fossil<br>approve<br>exhaust<br>economy |  
-| bip_39_word_new_br5 | fossil<br>approve<br>exhaust<br>economy<br>acid |  
-| bip_39_word_new_br6 | fossil<br>approve<br>exhaust<br>economy<br>acid<br>assist |  
-| bip_39_word_new_br7 | fossil<br>approve<br>exhaust<br>economy<br>acid<br>assist<br>phrase |  
-| bip_39_word_new_br8 | fossil<br>approve<br>exhaust<br>economy<br>acid<br>assist<br>phrase<br>burden |  
-| bip_39_word_new_br9 | fossil<br>approve<br>exhaust<br>economy<br>acid<br>assist<br>phrase<br>burden<br>scan |  
-| bip_39_word_new_line1 | fossil |  
-| bip_39_word_new_line10 | fossil
+| bip_39_word_new_br_1 | fossil |  
+| bip_39_word_new_br_10 | fossil<br>approve<br>exhaust<br>economy<br>acid<br>assist<br>phrase<br>burden<br>scan<br>salute |  
+| bip_39_word_new_br_11 | fossil<br>approve<br>exhaust<br>economy<br>acid<br>assist<br>phrase<br>burden<br>scan<br>salute<br>exhibit |  
+| bip_39_word_new_br_12 | fossil<br>approve<br>exhaust<br>economy<br>acid<br>assist<br>phrase<br>burden<br>scan<br>salute<br>exhibit<br>ability |  
+| bip_39_word_new_br_2 | fossil<br>approve |  
+| bip_39_word_new_br_3 | fossil<br>approve<br>exhaust |  
+| bip_39_word_new_br_4 | fossil<br>approve<br>exhaust<br>economy |  
+| bip_39_word_new_br_5 | fossil<br>approve<br>exhaust<br>economy<br>acid |  
+| bip_39_word_new_br_6 | fossil<br>approve<br>exhaust<br>economy<br>acid<br>assist |  
+| bip_39_word_new_br_7 | fossil<br>approve<br>exhaust<br>economy<br>acid<br>assist<br>phrase |  
+| bip_39_word_new_br_8 | fossil<br>approve<br>exhaust<br>economy<br>acid<br>assist<br>phrase<br>burden |  
+| bip_39_word_new_br_9 | fossil<br>approve<br>exhaust<br>economy<br>acid<br>assist<br>phrase<br>burden<br>scan |  
+| bip_39_word_new_line_1 | fossil |  
+| bip_39_word_new_line_10 | fossil
 approve
 exhaust
 economy
@@ -55,7 +55,7 @@ phrase
 burden
 scan
 salute |  
-| bip_39_word_new_line11 | fossil
+| bip_39_word_new_line_11 | fossil
 approve
 exhaust
 economy
@@ -66,7 +66,7 @@ burden
 scan
 salute
 exhibit |  
-| bip_39_word_new_line12 | fossil
+| bip_39_word_new_line_12 | fossil
 approve
 exhaust
 economy
@@ -78,34 +78,34 @@ scan
 salute
 exhibit
 ability |  
-| bip_39_word_new_line2 | fossil
+| bip_39_word_new_line_2 | fossil
 approve |  
-| bip_39_word_new_line3 | fossil
+| bip_39_word_new_line_3 | fossil
 approve
 exhaust |  
-| bip_39_word_new_line4 | fossil
+| bip_39_word_new_line_4 | fossil
 approve
 exhaust
 economy |  
-| bip_39_word_new_line5 | fossil
+| bip_39_word_new_line_5 | fossil
 approve
 exhaust
 economy
 acid |  
-| bip_39_word_new_line6 | fossil
+| bip_39_word_new_line_6 | fossil
 approve
 exhaust
 economy
 acid
 assist |  
-| bip_39_word_new_line7 | fossil
+| bip_39_word_new_line_7 | fossil
 approve
 exhaust
 economy
 acid
 assist
 phrase |  
-| bip_39_word_new_line8 | fossil
+| bip_39_word_new_line_8 | fossil
 approve
 exhaust
 economy
@@ -113,7 +113,7 @@ acid
 assist
 phrase
 burden |  
-| bip_39_word_new_line9 | fossil
+| bip_39_word_new_line_9 | fossil
 approve
 exhaust
 economy

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | property |  
-| bip_39_word_new_br10 | property<br>special<br>rigid<br>rotate<br>sniff<br>stem<br>mixed<br>sponsor<br>tourist<br>club |  
-| bip_39_word_new_br11 | property<br>special<br>rigid<br>rotate<br>sniff<br>stem<br>mixed<br>sponsor<br>tourist<br>club<br>holiday |  
-| bip_39_word_new_br12 | property<br>special<br>rigid<br>rotate<br>sniff<br>stem<br>mixed<br>sponsor<br>tourist<br>club<br>holiday<br>apple |  
-| bip_39_word_new_br2 | property<br>special |  
-| bip_39_word_new_br3 | property<br>special<br>rigid |  
-| bip_39_word_new_br4 | property<br>special<br>rigid<br>rotate |  
-| bip_39_word_new_br5 | property<br>special<br>rigid<br>rotate<br>sniff |  
-| bip_39_word_new_br6 | property<br>special<br>rigid<br>rotate<br>sniff<br>stem |  
-| bip_39_word_new_br7 | property<br>special<br>rigid<br>rotate<br>sniff<br>stem<br>mixed |  
-| bip_39_word_new_br8 | property<br>special<br>rigid<br>rotate<br>sniff<br>stem<br>mixed<br>sponsor |  
-| bip_39_word_new_br9 | property<br>special<br>rigid<br>rotate<br>sniff<br>stem<br>mixed<br>sponsor<br>tourist |  
-| bip_39_word_new_line1 | property |  
-| bip_39_word_new_line10 | property
+| bip_39_word_new_br_1 | property |  
+| bip_39_word_new_br_10 | property<br>special<br>rigid<br>rotate<br>sniff<br>stem<br>mixed<br>sponsor<br>tourist<br>club |  
+| bip_39_word_new_br_11 | property<br>special<br>rigid<br>rotate<br>sniff<br>stem<br>mixed<br>sponsor<br>tourist<br>club<br>holiday |  
+| bip_39_word_new_br_12 | property<br>special<br>rigid<br>rotate<br>sniff<br>stem<br>mixed<br>sponsor<br>tourist<br>club<br>holiday<br>apple |  
+| bip_39_word_new_br_2 | property<br>special |  
+| bip_39_word_new_br_3 | property<br>special<br>rigid |  
+| bip_39_word_new_br_4 | property<br>special<br>rigid<br>rotate |  
+| bip_39_word_new_br_5 | property<br>special<br>rigid<br>rotate<br>sniff |  
+| bip_39_word_new_br_6 | property<br>special<br>rigid<br>rotate<br>sniff<br>stem |  
+| bip_39_word_new_br_7 | property<br>special<br>rigid<br>rotate<br>sniff<br>stem<br>mixed |  
+| bip_39_word_new_br_8 | property<br>special<br>rigid<br>rotate<br>sniff<br>stem<br>mixed<br>sponsor |  
+| bip_39_word_new_br_9 | property<br>special<br>rigid<br>rotate<br>sniff<br>stem<br>mixed<br>sponsor<br>tourist |  
+| bip_39_word_new_line_1 | property |  
+| bip_39_word_new_line_10 | property
 special
 rigid
 rotate
@@ -55,7 +55,7 @@ mixed
 sponsor
 tourist
 club |  
-| bip_39_word_new_line11 | property
+| bip_39_word_new_line_11 | property
 special
 rigid
 rotate
@@ -66,7 +66,7 @@ sponsor
 tourist
 club
 holiday |  
-| bip_39_word_new_line12 | property
+| bip_39_word_new_line_12 | property
 special
 rigid
 rotate
@@ -78,34 +78,34 @@ tourist
 club
 holiday
 apple |  
-| bip_39_word_new_line2 | property
+| bip_39_word_new_line_2 | property
 special |  
-| bip_39_word_new_line3 | property
+| bip_39_word_new_line_3 | property
 special
 rigid |  
-| bip_39_word_new_line4 | property
+| bip_39_word_new_line_4 | property
 special
 rigid
 rotate |  
-| bip_39_word_new_line5 | property
+| bip_39_word_new_line_5 | property
 special
 rigid
 rotate
 sniff |  
-| bip_39_word_new_line6 | property
+| bip_39_word_new_line_6 | property
 special
 rigid
 rotate
 sniff
 stem |  
-| bip_39_word_new_line7 | property
+| bip_39_word_new_line_7 | property
 special
 rigid
 rotate
 sniff
 stem
 mixed |  
-| bip_39_word_new_line8 | property
+| bip_39_word_new_line_8 | property
 special
 rigid
 rotate
@@ -113,7 +113,7 @@ sniff
 stem
 mixed
 sponsor |  
-| bip_39_word_new_line9 | property
+| bip_39_word_new_line_9 | property
 special
 rigid
 rotate

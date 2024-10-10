@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | morning |  
-| bip_39_word_new_br10 | morning<br>feed<br>buddy<br>patch<br>photo<br>despair<br>rigid<br>lend<br>hand<br>taste |  
-| bip_39_word_new_br11 | morning<br>feed<br>buddy<br>patch<br>photo<br>despair<br>rigid<br>lend<br>hand<br>taste<br>attract |  
-| bip_39_word_new_br12 | morning<br>feed<br>buddy<br>patch<br>photo<br>despair<br>rigid<br>lend<br>hand<br>taste<br>attract<br>announce |  
-| bip_39_word_new_br2 | morning<br>feed |  
-| bip_39_word_new_br3 | morning<br>feed<br>buddy |  
-| bip_39_word_new_br4 | morning<br>feed<br>buddy<br>patch |  
-| bip_39_word_new_br5 | morning<br>feed<br>buddy<br>patch<br>photo |  
-| bip_39_word_new_br6 | morning<br>feed<br>buddy<br>patch<br>photo<br>despair |  
-| bip_39_word_new_br7 | morning<br>feed<br>buddy<br>patch<br>photo<br>despair<br>rigid |  
-| bip_39_word_new_br8 | morning<br>feed<br>buddy<br>patch<br>photo<br>despair<br>rigid<br>lend |  
-| bip_39_word_new_br9 | morning<br>feed<br>buddy<br>patch<br>photo<br>despair<br>rigid<br>lend<br>hand |  
-| bip_39_word_new_line1 | morning |  
-| bip_39_word_new_line10 | morning
+| bip_39_word_new_br_1 | morning |  
+| bip_39_word_new_br_10 | morning<br>feed<br>buddy<br>patch<br>photo<br>despair<br>rigid<br>lend<br>hand<br>taste |  
+| bip_39_word_new_br_11 | morning<br>feed<br>buddy<br>patch<br>photo<br>despair<br>rigid<br>lend<br>hand<br>taste<br>attract |  
+| bip_39_word_new_br_12 | morning<br>feed<br>buddy<br>patch<br>photo<br>despair<br>rigid<br>lend<br>hand<br>taste<br>attract<br>announce |  
+| bip_39_word_new_br_2 | morning<br>feed |  
+| bip_39_word_new_br_3 | morning<br>feed<br>buddy |  
+| bip_39_word_new_br_4 | morning<br>feed<br>buddy<br>patch |  
+| bip_39_word_new_br_5 | morning<br>feed<br>buddy<br>patch<br>photo |  
+| bip_39_word_new_br_6 | morning<br>feed<br>buddy<br>patch<br>photo<br>despair |  
+| bip_39_word_new_br_7 | morning<br>feed<br>buddy<br>patch<br>photo<br>despair<br>rigid |  
+| bip_39_word_new_br_8 | morning<br>feed<br>buddy<br>patch<br>photo<br>despair<br>rigid<br>lend |  
+| bip_39_word_new_br_9 | morning<br>feed<br>buddy<br>patch<br>photo<br>despair<br>rigid<br>lend<br>hand |  
+| bip_39_word_new_line_1 | morning |  
+| bip_39_word_new_line_10 | morning
 feed
 buddy
 patch
@@ -55,7 +55,7 @@ rigid
 lend
 hand
 taste |  
-| bip_39_word_new_line11 | morning
+| bip_39_word_new_line_11 | morning
 feed
 buddy
 patch
@@ -66,7 +66,7 @@ lend
 hand
 taste
 attract |  
-| bip_39_word_new_line12 | morning
+| bip_39_word_new_line_12 | morning
 feed
 buddy
 patch
@@ -78,34 +78,34 @@ hand
 taste
 attract
 announce |  
-| bip_39_word_new_line2 | morning
+| bip_39_word_new_line_2 | morning
 feed |  
-| bip_39_word_new_line3 | morning
+| bip_39_word_new_line_3 | morning
 feed
 buddy |  
-| bip_39_word_new_line4 | morning
+| bip_39_word_new_line_4 | morning
 feed
 buddy
 patch |  
-| bip_39_word_new_line5 | morning
+| bip_39_word_new_line_5 | morning
 feed
 buddy
 patch
 photo |  
-| bip_39_word_new_line6 | morning
+| bip_39_word_new_line_6 | morning
 feed
 buddy
 patch
 photo
 despair |  
-| bip_39_word_new_line7 | morning
+| bip_39_word_new_line_7 | morning
 feed
 buddy
 patch
 photo
 despair
 rigid |  
-| bip_39_word_new_line8 | morning
+| bip_39_word_new_line_8 | morning
 feed
 buddy
 patch
@@ -113,7 +113,7 @@ photo
 despair
 rigid
 lend |  
-| bip_39_word_new_line9 | morning
+| bip_39_word_new_line_9 | morning
 feed
 buddy
 patch

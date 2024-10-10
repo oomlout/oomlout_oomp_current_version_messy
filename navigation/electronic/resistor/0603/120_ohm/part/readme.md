@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | uniform |  
-| bip_39_word_new_br10 | uniform<br>cupboard<br>state<br>angle<br>door<br>party<br>message<br>gain<br>corn<br>peanut |  
-| bip_39_word_new_br11 | uniform<br>cupboard<br>state<br>angle<br>door<br>party<br>message<br>gain<br>corn<br>peanut<br>clown |  
-| bip_39_word_new_br12 | uniform<br>cupboard<br>state<br>angle<br>door<br>party<br>message<br>gain<br>corn<br>peanut<br>clown<br>amused |  
-| bip_39_word_new_br2 | uniform<br>cupboard |  
-| bip_39_word_new_br3 | uniform<br>cupboard<br>state |  
-| bip_39_word_new_br4 | uniform<br>cupboard<br>state<br>angle |  
-| bip_39_word_new_br5 | uniform<br>cupboard<br>state<br>angle<br>door |  
-| bip_39_word_new_br6 | uniform<br>cupboard<br>state<br>angle<br>door<br>party |  
-| bip_39_word_new_br7 | uniform<br>cupboard<br>state<br>angle<br>door<br>party<br>message |  
-| bip_39_word_new_br8 | uniform<br>cupboard<br>state<br>angle<br>door<br>party<br>message<br>gain |  
-| bip_39_word_new_br9 | uniform<br>cupboard<br>state<br>angle<br>door<br>party<br>message<br>gain<br>corn |  
-| bip_39_word_new_line1 | uniform |  
-| bip_39_word_new_line10 | uniform
+| bip_39_word_new_br_1 | uniform |  
+| bip_39_word_new_br_10 | uniform<br>cupboard<br>state<br>angle<br>door<br>party<br>message<br>gain<br>corn<br>peanut |  
+| bip_39_word_new_br_11 | uniform<br>cupboard<br>state<br>angle<br>door<br>party<br>message<br>gain<br>corn<br>peanut<br>clown |  
+| bip_39_word_new_br_12 | uniform<br>cupboard<br>state<br>angle<br>door<br>party<br>message<br>gain<br>corn<br>peanut<br>clown<br>amused |  
+| bip_39_word_new_br_2 | uniform<br>cupboard |  
+| bip_39_word_new_br_3 | uniform<br>cupboard<br>state |  
+| bip_39_word_new_br_4 | uniform<br>cupboard<br>state<br>angle |  
+| bip_39_word_new_br_5 | uniform<br>cupboard<br>state<br>angle<br>door |  
+| bip_39_word_new_br_6 | uniform<br>cupboard<br>state<br>angle<br>door<br>party |  
+| bip_39_word_new_br_7 | uniform<br>cupboard<br>state<br>angle<br>door<br>party<br>message |  
+| bip_39_word_new_br_8 | uniform<br>cupboard<br>state<br>angle<br>door<br>party<br>message<br>gain |  
+| bip_39_word_new_br_9 | uniform<br>cupboard<br>state<br>angle<br>door<br>party<br>message<br>gain<br>corn |  
+| bip_39_word_new_line_1 | uniform |  
+| bip_39_word_new_line_10 | uniform
 cupboard
 state
 angle
@@ -55,7 +55,7 @@ message
 gain
 corn
 peanut |  
-| bip_39_word_new_line11 | uniform
+| bip_39_word_new_line_11 | uniform
 cupboard
 state
 angle
@@ -66,7 +66,7 @@ gain
 corn
 peanut
 clown |  
-| bip_39_word_new_line12 | uniform
+| bip_39_word_new_line_12 | uniform
 cupboard
 state
 angle
@@ -78,34 +78,34 @@ corn
 peanut
 clown
 amused |  
-| bip_39_word_new_line2 | uniform
+| bip_39_word_new_line_2 | uniform
 cupboard |  
-| bip_39_word_new_line3 | uniform
+| bip_39_word_new_line_3 | uniform
 cupboard
 state |  
-| bip_39_word_new_line4 | uniform
+| bip_39_word_new_line_4 | uniform
 cupboard
 state
 angle |  
-| bip_39_word_new_line5 | uniform
+| bip_39_word_new_line_5 | uniform
 cupboard
 state
 angle
 door |  
-| bip_39_word_new_line6 | uniform
+| bip_39_word_new_line_6 | uniform
 cupboard
 state
 angle
 door
 party |  
-| bip_39_word_new_line7 | uniform
+| bip_39_word_new_line_7 | uniform
 cupboard
 state
 angle
 door
 party
 message |  
-| bip_39_word_new_line8 | uniform
+| bip_39_word_new_line_8 | uniform
 cupboard
 state
 angle
@@ -113,7 +113,7 @@ door
 party
 message
 gain |  
-| bip_39_word_new_line9 | uniform
+| bip_39_word_new_line_9 | uniform
 cupboard
 state
 angle

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | spirit |  
-| bip_39_word_new_br10 | spirit<br>wood<br>practice<br>shock<br>almost<br>step<br>blush<br>purpose<br>curve<br>winner |  
-| bip_39_word_new_br11 | spirit<br>wood<br>practice<br>shock<br>almost<br>step<br>blush<br>purpose<br>curve<br>winner<br>nature |  
-| bip_39_word_new_br12 | spirit<br>wood<br>practice<br>shock<br>almost<br>step<br>blush<br>purpose<br>curve<br>winner<br>nature<br>add |  
-| bip_39_word_new_br2 | spirit<br>wood |  
-| bip_39_word_new_br3 | spirit<br>wood<br>practice |  
-| bip_39_word_new_br4 | spirit<br>wood<br>practice<br>shock |  
-| bip_39_word_new_br5 | spirit<br>wood<br>practice<br>shock<br>almost |  
-| bip_39_word_new_br6 | spirit<br>wood<br>practice<br>shock<br>almost<br>step |  
-| bip_39_word_new_br7 | spirit<br>wood<br>practice<br>shock<br>almost<br>step<br>blush |  
-| bip_39_word_new_br8 | spirit<br>wood<br>practice<br>shock<br>almost<br>step<br>blush<br>purpose |  
-| bip_39_word_new_br9 | spirit<br>wood<br>practice<br>shock<br>almost<br>step<br>blush<br>purpose<br>curve |  
-| bip_39_word_new_line1 | spirit |  
-| bip_39_word_new_line10 | spirit
+| bip_39_word_new_br_1 | spirit |  
+| bip_39_word_new_br_10 | spirit<br>wood<br>practice<br>shock<br>almost<br>step<br>blush<br>purpose<br>curve<br>winner |  
+| bip_39_word_new_br_11 | spirit<br>wood<br>practice<br>shock<br>almost<br>step<br>blush<br>purpose<br>curve<br>winner<br>nature |  
+| bip_39_word_new_br_12 | spirit<br>wood<br>practice<br>shock<br>almost<br>step<br>blush<br>purpose<br>curve<br>winner<br>nature<br>add |  
+| bip_39_word_new_br_2 | spirit<br>wood |  
+| bip_39_word_new_br_3 | spirit<br>wood<br>practice |  
+| bip_39_word_new_br_4 | spirit<br>wood<br>practice<br>shock |  
+| bip_39_word_new_br_5 | spirit<br>wood<br>practice<br>shock<br>almost |  
+| bip_39_word_new_br_6 | spirit<br>wood<br>practice<br>shock<br>almost<br>step |  
+| bip_39_word_new_br_7 | spirit<br>wood<br>practice<br>shock<br>almost<br>step<br>blush |  
+| bip_39_word_new_br_8 | spirit<br>wood<br>practice<br>shock<br>almost<br>step<br>blush<br>purpose |  
+| bip_39_word_new_br_9 | spirit<br>wood<br>practice<br>shock<br>almost<br>step<br>blush<br>purpose<br>curve |  
+| bip_39_word_new_line_1 | spirit |  
+| bip_39_word_new_line_10 | spirit
 wood
 practice
 shock
@@ -55,7 +55,7 @@ blush
 purpose
 curve
 winner |  
-| bip_39_word_new_line11 | spirit
+| bip_39_word_new_line_11 | spirit
 wood
 practice
 shock
@@ -66,7 +66,7 @@ purpose
 curve
 winner
 nature |  
-| bip_39_word_new_line12 | spirit
+| bip_39_word_new_line_12 | spirit
 wood
 practice
 shock
@@ -78,34 +78,34 @@ curve
 winner
 nature
 add |  
-| bip_39_word_new_line2 | spirit
+| bip_39_word_new_line_2 | spirit
 wood |  
-| bip_39_word_new_line3 | spirit
+| bip_39_word_new_line_3 | spirit
 wood
 practice |  
-| bip_39_word_new_line4 | spirit
+| bip_39_word_new_line_4 | spirit
 wood
 practice
 shock |  
-| bip_39_word_new_line5 | spirit
+| bip_39_word_new_line_5 | spirit
 wood
 practice
 shock
 almost |  
-| bip_39_word_new_line6 | spirit
+| bip_39_word_new_line_6 | spirit
 wood
 practice
 shock
 almost
 step |  
-| bip_39_word_new_line7 | spirit
+| bip_39_word_new_line_7 | spirit
 wood
 practice
 shock
 almost
 step
 blush |  
-| bip_39_word_new_line8 | spirit
+| bip_39_word_new_line_8 | spirit
 wood
 practice
 shock
@@ -113,7 +113,7 @@ almost
 step
 blush
 purpose |  
-| bip_39_word_new_line9 | spirit
+| bip_39_word_new_line_9 | spirit
 wood
 practice
 shock

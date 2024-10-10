@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | simple |  
-| bip_39_word_new_br10 | simple<br>account<br>toddler<br>wisdom<br>body<br>dice<br>reward<br>potato<br>near<br>tennis |  
-| bip_39_word_new_br11 | simple<br>account<br>toddler<br>wisdom<br>body<br>dice<br>reward<br>potato<br>near<br>tennis<br>inch |  
-| bip_39_word_new_br12 | simple<br>account<br>toddler<br>wisdom<br>body<br>dice<br>reward<br>potato<br>near<br>tennis<br>inch<br>alcohol |  
-| bip_39_word_new_br2 | simple<br>account |  
-| bip_39_word_new_br3 | simple<br>account<br>toddler |  
-| bip_39_word_new_br4 | simple<br>account<br>toddler<br>wisdom |  
-| bip_39_word_new_br5 | simple<br>account<br>toddler<br>wisdom<br>body |  
-| bip_39_word_new_br6 | simple<br>account<br>toddler<br>wisdom<br>body<br>dice |  
-| bip_39_word_new_br7 | simple<br>account<br>toddler<br>wisdom<br>body<br>dice<br>reward |  
-| bip_39_word_new_br8 | simple<br>account<br>toddler<br>wisdom<br>body<br>dice<br>reward<br>potato |  
-| bip_39_word_new_br9 | simple<br>account<br>toddler<br>wisdom<br>body<br>dice<br>reward<br>potato<br>near |  
-| bip_39_word_new_line1 | simple |  
-| bip_39_word_new_line10 | simple
+| bip_39_word_new_br_1 | simple |  
+| bip_39_word_new_br_10 | simple<br>account<br>toddler<br>wisdom<br>body<br>dice<br>reward<br>potato<br>near<br>tennis |  
+| bip_39_word_new_br_11 | simple<br>account<br>toddler<br>wisdom<br>body<br>dice<br>reward<br>potato<br>near<br>tennis<br>inch |  
+| bip_39_word_new_br_12 | simple<br>account<br>toddler<br>wisdom<br>body<br>dice<br>reward<br>potato<br>near<br>tennis<br>inch<br>alcohol |  
+| bip_39_word_new_br_2 | simple<br>account |  
+| bip_39_word_new_br_3 | simple<br>account<br>toddler |  
+| bip_39_word_new_br_4 | simple<br>account<br>toddler<br>wisdom |  
+| bip_39_word_new_br_5 | simple<br>account<br>toddler<br>wisdom<br>body |  
+| bip_39_word_new_br_6 | simple<br>account<br>toddler<br>wisdom<br>body<br>dice |  
+| bip_39_word_new_br_7 | simple<br>account<br>toddler<br>wisdom<br>body<br>dice<br>reward |  
+| bip_39_word_new_br_8 | simple<br>account<br>toddler<br>wisdom<br>body<br>dice<br>reward<br>potato |  
+| bip_39_word_new_br_9 | simple<br>account<br>toddler<br>wisdom<br>body<br>dice<br>reward<br>potato<br>near |  
+| bip_39_word_new_line_1 | simple |  
+| bip_39_word_new_line_10 | simple
 account
 toddler
 wisdom
@@ -55,7 +55,7 @@ reward
 potato
 near
 tennis |  
-| bip_39_word_new_line11 | simple
+| bip_39_word_new_line_11 | simple
 account
 toddler
 wisdom
@@ -66,7 +66,7 @@ potato
 near
 tennis
 inch |  
-| bip_39_word_new_line12 | simple
+| bip_39_word_new_line_12 | simple
 account
 toddler
 wisdom
@@ -78,34 +78,34 @@ near
 tennis
 inch
 alcohol |  
-| bip_39_word_new_line2 | simple
+| bip_39_word_new_line_2 | simple
 account |  
-| bip_39_word_new_line3 | simple
+| bip_39_word_new_line_3 | simple
 account
 toddler |  
-| bip_39_word_new_line4 | simple
+| bip_39_word_new_line_4 | simple
 account
 toddler
 wisdom |  
-| bip_39_word_new_line5 | simple
+| bip_39_word_new_line_5 | simple
 account
 toddler
 wisdom
 body |  
-| bip_39_word_new_line6 | simple
+| bip_39_word_new_line_6 | simple
 account
 toddler
 wisdom
 body
 dice |  
-| bip_39_word_new_line7 | simple
+| bip_39_word_new_line_7 | simple
 account
 toddler
 wisdom
 body
 dice
 reward |  
-| bip_39_word_new_line8 | simple
+| bip_39_word_new_line_8 | simple
 account
 toddler
 wisdom
@@ -113,7 +113,7 @@ body
 dice
 reward
 potato |  
-| bip_39_word_new_line9 | simple
+| bip_39_word_new_line_9 | simple
 account
 toddler
 wisdom

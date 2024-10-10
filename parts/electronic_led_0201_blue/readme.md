@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | reward |  
-| bip_39_word_new_br10 | reward<br>path<br>aware<br>gas<br>globe<br>sting<br>divert<br>blush<br>audit<br>volcano |  
-| bip_39_word_new_br11 | reward<br>path<br>aware<br>gas<br>globe<br>sting<br>divert<br>blush<br>audit<br>volcano<br>cost |  
-| bip_39_word_new_br12 | reward<br>path<br>aware<br>gas<br>globe<br>sting<br>divert<br>blush<br>audit<br>volcano<br>cost<br>artist |  
-| bip_39_word_new_br2 | reward<br>path |  
-| bip_39_word_new_br3 | reward<br>path<br>aware |  
-| bip_39_word_new_br4 | reward<br>path<br>aware<br>gas |  
-| bip_39_word_new_br5 | reward<br>path<br>aware<br>gas<br>globe |  
-| bip_39_word_new_br6 | reward<br>path<br>aware<br>gas<br>globe<br>sting |  
-| bip_39_word_new_br7 | reward<br>path<br>aware<br>gas<br>globe<br>sting<br>divert |  
-| bip_39_word_new_br8 | reward<br>path<br>aware<br>gas<br>globe<br>sting<br>divert<br>blush |  
-| bip_39_word_new_br9 | reward<br>path<br>aware<br>gas<br>globe<br>sting<br>divert<br>blush<br>audit |  
-| bip_39_word_new_line1 | reward |  
-| bip_39_word_new_line10 | reward
+| bip_39_word_new_br_1 | reward |  
+| bip_39_word_new_br_10 | reward<br>path<br>aware<br>gas<br>globe<br>sting<br>divert<br>blush<br>audit<br>volcano |  
+| bip_39_word_new_br_11 | reward<br>path<br>aware<br>gas<br>globe<br>sting<br>divert<br>blush<br>audit<br>volcano<br>cost |  
+| bip_39_word_new_br_12 | reward<br>path<br>aware<br>gas<br>globe<br>sting<br>divert<br>blush<br>audit<br>volcano<br>cost<br>artist |  
+| bip_39_word_new_br_2 | reward<br>path |  
+| bip_39_word_new_br_3 | reward<br>path<br>aware |  
+| bip_39_word_new_br_4 | reward<br>path<br>aware<br>gas |  
+| bip_39_word_new_br_5 | reward<br>path<br>aware<br>gas<br>globe |  
+| bip_39_word_new_br_6 | reward<br>path<br>aware<br>gas<br>globe<br>sting |  
+| bip_39_word_new_br_7 | reward<br>path<br>aware<br>gas<br>globe<br>sting<br>divert |  
+| bip_39_word_new_br_8 | reward<br>path<br>aware<br>gas<br>globe<br>sting<br>divert<br>blush |  
+| bip_39_word_new_br_9 | reward<br>path<br>aware<br>gas<br>globe<br>sting<br>divert<br>blush<br>audit |  
+| bip_39_word_new_line_1 | reward |  
+| bip_39_word_new_line_10 | reward
 path
 aware
 gas
@@ -55,7 +55,7 @@ divert
 blush
 audit
 volcano |  
-| bip_39_word_new_line11 | reward
+| bip_39_word_new_line_11 | reward
 path
 aware
 gas
@@ -66,7 +66,7 @@ blush
 audit
 volcano
 cost |  
-| bip_39_word_new_line12 | reward
+| bip_39_word_new_line_12 | reward
 path
 aware
 gas
@@ -78,34 +78,34 @@ audit
 volcano
 cost
 artist |  
-| bip_39_word_new_line2 | reward
+| bip_39_word_new_line_2 | reward
 path |  
-| bip_39_word_new_line3 | reward
+| bip_39_word_new_line_3 | reward
 path
 aware |  
-| bip_39_word_new_line4 | reward
+| bip_39_word_new_line_4 | reward
 path
 aware
 gas |  
-| bip_39_word_new_line5 | reward
+| bip_39_word_new_line_5 | reward
 path
 aware
 gas
 globe |  
-| bip_39_word_new_line6 | reward
+| bip_39_word_new_line_6 | reward
 path
 aware
 gas
 globe
 sting |  
-| bip_39_word_new_line7 | reward
+| bip_39_word_new_line_7 | reward
 path
 aware
 gas
 globe
 sting
 divert |  
-| bip_39_word_new_line8 | reward
+| bip_39_word_new_line_8 | reward
 path
 aware
 gas
@@ -113,7 +113,7 @@ globe
 sting
 divert
 blush |  
-| bip_39_word_new_line9 | reward
+| bip_39_word_new_line_9 | reward
 path
 aware
 gas

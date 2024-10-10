@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | truth |  
-| bip_39_word_new_br10 | truth<br>educate<br>destroy<br>enhance<br>crucial<br>swear<br>thunder<br>vibrant<br>gasp<br>tool |  
-| bip_39_word_new_br11 | truth<br>educate<br>destroy<br>enhance<br>crucial<br>swear<br>thunder<br>vibrant<br>gasp<br>tool<br>trap |  
-| bip_39_word_new_br12 | truth<br>educate<br>destroy<br>enhance<br>crucial<br>swear<br>thunder<br>vibrant<br>gasp<br>tool<br>trap<br>attitude |  
-| bip_39_word_new_br2 | truth<br>educate |  
-| bip_39_word_new_br3 | truth<br>educate<br>destroy |  
-| bip_39_word_new_br4 | truth<br>educate<br>destroy<br>enhance |  
-| bip_39_word_new_br5 | truth<br>educate<br>destroy<br>enhance<br>crucial |  
-| bip_39_word_new_br6 | truth<br>educate<br>destroy<br>enhance<br>crucial<br>swear |  
-| bip_39_word_new_br7 | truth<br>educate<br>destroy<br>enhance<br>crucial<br>swear<br>thunder |  
-| bip_39_word_new_br8 | truth<br>educate<br>destroy<br>enhance<br>crucial<br>swear<br>thunder<br>vibrant |  
-| bip_39_word_new_br9 | truth<br>educate<br>destroy<br>enhance<br>crucial<br>swear<br>thunder<br>vibrant<br>gasp |  
-| bip_39_word_new_line1 | truth |  
-| bip_39_word_new_line10 | truth
+| bip_39_word_new_br_1 | truth |  
+| bip_39_word_new_br_10 | truth<br>educate<br>destroy<br>enhance<br>crucial<br>swear<br>thunder<br>vibrant<br>gasp<br>tool |  
+| bip_39_word_new_br_11 | truth<br>educate<br>destroy<br>enhance<br>crucial<br>swear<br>thunder<br>vibrant<br>gasp<br>tool<br>trap |  
+| bip_39_word_new_br_12 | truth<br>educate<br>destroy<br>enhance<br>crucial<br>swear<br>thunder<br>vibrant<br>gasp<br>tool<br>trap<br>attitude |  
+| bip_39_word_new_br_2 | truth<br>educate |  
+| bip_39_word_new_br_3 | truth<br>educate<br>destroy |  
+| bip_39_word_new_br_4 | truth<br>educate<br>destroy<br>enhance |  
+| bip_39_word_new_br_5 | truth<br>educate<br>destroy<br>enhance<br>crucial |  
+| bip_39_word_new_br_6 | truth<br>educate<br>destroy<br>enhance<br>crucial<br>swear |  
+| bip_39_word_new_br_7 | truth<br>educate<br>destroy<br>enhance<br>crucial<br>swear<br>thunder |  
+| bip_39_word_new_br_8 | truth<br>educate<br>destroy<br>enhance<br>crucial<br>swear<br>thunder<br>vibrant |  
+| bip_39_word_new_br_9 | truth<br>educate<br>destroy<br>enhance<br>crucial<br>swear<br>thunder<br>vibrant<br>gasp |  
+| bip_39_word_new_line_1 | truth |  
+| bip_39_word_new_line_10 | truth
 educate
 destroy
 enhance
@@ -55,7 +55,7 @@ thunder
 vibrant
 gasp
 tool |  
-| bip_39_word_new_line11 | truth
+| bip_39_word_new_line_11 | truth
 educate
 destroy
 enhance
@@ -66,7 +66,7 @@ vibrant
 gasp
 tool
 trap |  
-| bip_39_word_new_line12 | truth
+| bip_39_word_new_line_12 | truth
 educate
 destroy
 enhance
@@ -78,34 +78,34 @@ gasp
 tool
 trap
 attitude |  
-| bip_39_word_new_line2 | truth
+| bip_39_word_new_line_2 | truth
 educate |  
-| bip_39_word_new_line3 | truth
+| bip_39_word_new_line_3 | truth
 educate
 destroy |  
-| bip_39_word_new_line4 | truth
+| bip_39_word_new_line_4 | truth
 educate
 destroy
 enhance |  
-| bip_39_word_new_line5 | truth
+| bip_39_word_new_line_5 | truth
 educate
 destroy
 enhance
 crucial |  
-| bip_39_word_new_line6 | truth
+| bip_39_word_new_line_6 | truth
 educate
 destroy
 enhance
 crucial
 swear |  
-| bip_39_word_new_line7 | truth
+| bip_39_word_new_line_7 | truth
 educate
 destroy
 enhance
 crucial
 swear
 thunder |  
-| bip_39_word_new_line8 | truth
+| bip_39_word_new_line_8 | truth
 educate
 destroy
 enhance
@@ -113,7 +113,7 @@ crucial
 swear
 thunder
 vibrant |  
-| bip_39_word_new_line9 | truth
+| bip_39_word_new_line_9 | truth
 educate
 destroy
 enhance

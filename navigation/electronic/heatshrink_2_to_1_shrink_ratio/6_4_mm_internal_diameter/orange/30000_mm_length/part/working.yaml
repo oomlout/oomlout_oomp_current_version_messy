@@ -1,17 +1,17 @@
-bip_39_word_new_br1: hungry
-bip_39_word_new_br10: hungry<br>castle<br>couple<br>lens<br>furnace<br>enroll<br>estate<br>time<br>rack<br>spread
-bip_39_word_new_br11: hungry<br>castle<br>couple<br>lens<br>furnace<br>enroll<br>estate<br>time<br>rack<br>spread<br>draw
-bip_39_word_new_br12: hungry<br>castle<br>couple<br>lens<br>furnace<br>enroll<br>estate<br>time<br>rack<br>spread<br>draw<br>add
-bip_39_word_new_br2: hungry<br>castle
-bip_39_word_new_br3: hungry<br>castle<br>couple
-bip_39_word_new_br4: hungry<br>castle<br>couple<br>lens
-bip_39_word_new_br5: hungry<br>castle<br>couple<br>lens<br>furnace
-bip_39_word_new_br6: hungry<br>castle<br>couple<br>lens<br>furnace<br>enroll
-bip_39_word_new_br7: hungry<br>castle<br>couple<br>lens<br>furnace<br>enroll<br>estate
-bip_39_word_new_br8: hungry<br>castle<br>couple<br>lens<br>furnace<br>enroll<br>estate<br>time
-bip_39_word_new_br9: hungry<br>castle<br>couple<br>lens<br>furnace<br>enroll<br>estate<br>time<br>rack
-bip_39_word_new_line1: hungry
-bip_39_word_new_line10: 'hungry
+bip_39_word_new_br_1: hungry
+bip_39_word_new_br_10: hungry<br>castle<br>couple<br>lens<br>furnace<br>enroll<br>estate<br>time<br>rack<br>spread
+bip_39_word_new_br_11: hungry<br>castle<br>couple<br>lens<br>furnace<br>enroll<br>estate<br>time<br>rack<br>spread<br>draw
+bip_39_word_new_br_12: hungry<br>castle<br>couple<br>lens<br>furnace<br>enroll<br>estate<br>time<br>rack<br>spread<br>draw<br>add
+bip_39_word_new_br_2: hungry<br>castle
+bip_39_word_new_br_3: hungry<br>castle<br>couple
+bip_39_word_new_br_4: hungry<br>castle<br>couple<br>lens
+bip_39_word_new_br_5: hungry<br>castle<br>couple<br>lens<br>furnace
+bip_39_word_new_br_6: hungry<br>castle<br>couple<br>lens<br>furnace<br>enroll
+bip_39_word_new_br_7: hungry<br>castle<br>couple<br>lens<br>furnace<br>enroll<br>estate
+bip_39_word_new_br_8: hungry<br>castle<br>couple<br>lens<br>furnace<br>enroll<br>estate<br>time
+bip_39_word_new_br_9: hungry<br>castle<br>couple<br>lens<br>furnace<br>enroll<br>estate<br>time<br>rack
+bip_39_word_new_line_1: hungry
+bip_39_word_new_line_10: 'hungry
 
   castle
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'hungry
   rack
 
   spread'
-bip_39_word_new_line11: 'hungry
+bip_39_word_new_line_11: 'hungry
 
   castle
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'hungry
   spread
 
   draw'
-bip_39_word_new_line12: 'hungry
+bip_39_word_new_line_12: 'hungry
 
   castle
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'hungry
   draw
 
   add'
-bip_39_word_new_line2: 'hungry
+bip_39_word_new_line_2: 'hungry
 
   castle'
-bip_39_word_new_line3: 'hungry
+bip_39_word_new_line_3: 'hungry
 
   castle
 
   couple'
-bip_39_word_new_line4: 'hungry
+bip_39_word_new_line_4: 'hungry
 
   castle
 
   couple
 
   lens'
-bip_39_word_new_line5: 'hungry
+bip_39_word_new_line_5: 'hungry
 
   castle
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'hungry
   lens
 
   furnace'
-bip_39_word_new_line6: 'hungry
+bip_39_word_new_line_6: 'hungry
 
   castle
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'hungry
   furnace
 
   enroll'
-bip_39_word_new_line7: 'hungry
+bip_39_word_new_line_7: 'hungry
 
   castle
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'hungry
   enroll
 
   estate'
-bip_39_word_new_line8: 'hungry
+bip_39_word_new_line_8: 'hungry
 
   castle
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'hungry
   estate
 
   time'
-bip_39_word_new_line9: 'hungry
+bip_39_word_new_line_9: 'hungry
 
   castle
 

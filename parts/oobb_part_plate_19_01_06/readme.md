@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | since |  
-| bip_39_word_new_br10 | since<br>identify<br>toe<br>trap<br>force<br>abstract<br>hollow<br>angry<br>pride<br>enact |  
-| bip_39_word_new_br11 | since<br>identify<br>toe<br>trap<br>force<br>abstract<br>hollow<br>angry<br>pride<br>enact<br>execute |  
-| bip_39_word_new_br12 | since<br>identify<br>toe<br>trap<br>force<br>abstract<br>hollow<br>angry<br>pride<br>enact<br>execute<br>antique |  
-| bip_39_word_new_br2 | since<br>identify |  
-| bip_39_word_new_br3 | since<br>identify<br>toe |  
-| bip_39_word_new_br4 | since<br>identify<br>toe<br>trap |  
-| bip_39_word_new_br5 | since<br>identify<br>toe<br>trap<br>force |  
-| bip_39_word_new_br6 | since<br>identify<br>toe<br>trap<br>force<br>abstract |  
-| bip_39_word_new_br7 | since<br>identify<br>toe<br>trap<br>force<br>abstract<br>hollow |  
-| bip_39_word_new_br8 | since<br>identify<br>toe<br>trap<br>force<br>abstract<br>hollow<br>angry |  
-| bip_39_word_new_br9 | since<br>identify<br>toe<br>trap<br>force<br>abstract<br>hollow<br>angry<br>pride |  
-| bip_39_word_new_line1 | since |  
-| bip_39_word_new_line10 | since
+| bip_39_word_new_br_1 | since |  
+| bip_39_word_new_br_10 | since<br>identify<br>toe<br>trap<br>force<br>abstract<br>hollow<br>angry<br>pride<br>enact |  
+| bip_39_word_new_br_11 | since<br>identify<br>toe<br>trap<br>force<br>abstract<br>hollow<br>angry<br>pride<br>enact<br>execute |  
+| bip_39_word_new_br_12 | since<br>identify<br>toe<br>trap<br>force<br>abstract<br>hollow<br>angry<br>pride<br>enact<br>execute<br>antique |  
+| bip_39_word_new_br_2 | since<br>identify |  
+| bip_39_word_new_br_3 | since<br>identify<br>toe |  
+| bip_39_word_new_br_4 | since<br>identify<br>toe<br>trap |  
+| bip_39_word_new_br_5 | since<br>identify<br>toe<br>trap<br>force |  
+| bip_39_word_new_br_6 | since<br>identify<br>toe<br>trap<br>force<br>abstract |  
+| bip_39_word_new_br_7 | since<br>identify<br>toe<br>trap<br>force<br>abstract<br>hollow |  
+| bip_39_word_new_br_8 | since<br>identify<br>toe<br>trap<br>force<br>abstract<br>hollow<br>angry |  
+| bip_39_word_new_br_9 | since<br>identify<br>toe<br>trap<br>force<br>abstract<br>hollow<br>angry<br>pride |  
+| bip_39_word_new_line_1 | since |  
+| bip_39_word_new_line_10 | since
 identify
 toe
 trap
@@ -55,7 +55,7 @@ hollow
 angry
 pride
 enact |  
-| bip_39_word_new_line11 | since
+| bip_39_word_new_line_11 | since
 identify
 toe
 trap
@@ -66,7 +66,7 @@ angry
 pride
 enact
 execute |  
-| bip_39_word_new_line12 | since
+| bip_39_word_new_line_12 | since
 identify
 toe
 trap
@@ -78,34 +78,34 @@ pride
 enact
 execute
 antique |  
-| bip_39_word_new_line2 | since
+| bip_39_word_new_line_2 | since
 identify |  
-| bip_39_word_new_line3 | since
+| bip_39_word_new_line_3 | since
 identify
 toe |  
-| bip_39_word_new_line4 | since
+| bip_39_word_new_line_4 | since
 identify
 toe
 trap |  
-| bip_39_word_new_line5 | since
+| bip_39_word_new_line_5 | since
 identify
 toe
 trap
 force |  
-| bip_39_word_new_line6 | since
+| bip_39_word_new_line_6 | since
 identify
 toe
 trap
 force
 abstract |  
-| bip_39_word_new_line7 | since
+| bip_39_word_new_line_7 | since
 identify
 toe
 trap
 force
 abstract
 hollow |  
-| bip_39_word_new_line8 | since
+| bip_39_word_new_line_8 | since
 identify
 toe
 trap
@@ -113,7 +113,7 @@ force
 abstract
 hollow
 angry |  
-| bip_39_word_new_line9 | since
+| bip_39_word_new_line_9 | since
 identify
 toe
 trap

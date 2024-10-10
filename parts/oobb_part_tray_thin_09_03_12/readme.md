@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | actor |  
-| bip_39_word_new_br10 | actor<br>favorite<br>loop<br>term<br>liquid<br>truly<br>nasty<br>time<br>phrase<br>business |  
-| bip_39_word_new_br11 | actor<br>favorite<br>loop<br>term<br>liquid<br>truly<br>nasty<br>time<br>phrase<br>business<br>able |  
-| bip_39_word_new_br12 | actor<br>favorite<br>loop<br>term<br>liquid<br>truly<br>nasty<br>time<br>phrase<br>business<br>able<br>alpha |  
-| bip_39_word_new_br2 | actor<br>favorite |  
-| bip_39_word_new_br3 | actor<br>favorite<br>loop |  
-| bip_39_word_new_br4 | actor<br>favorite<br>loop<br>term |  
-| bip_39_word_new_br5 | actor<br>favorite<br>loop<br>term<br>liquid |  
-| bip_39_word_new_br6 | actor<br>favorite<br>loop<br>term<br>liquid<br>truly |  
-| bip_39_word_new_br7 | actor<br>favorite<br>loop<br>term<br>liquid<br>truly<br>nasty |  
-| bip_39_word_new_br8 | actor<br>favorite<br>loop<br>term<br>liquid<br>truly<br>nasty<br>time |  
-| bip_39_word_new_br9 | actor<br>favorite<br>loop<br>term<br>liquid<br>truly<br>nasty<br>time<br>phrase |  
-| bip_39_word_new_line1 | actor |  
-| bip_39_word_new_line10 | actor
+| bip_39_word_new_br_1 | actor |  
+| bip_39_word_new_br_10 | actor<br>favorite<br>loop<br>term<br>liquid<br>truly<br>nasty<br>time<br>phrase<br>business |  
+| bip_39_word_new_br_11 | actor<br>favorite<br>loop<br>term<br>liquid<br>truly<br>nasty<br>time<br>phrase<br>business<br>able |  
+| bip_39_word_new_br_12 | actor<br>favorite<br>loop<br>term<br>liquid<br>truly<br>nasty<br>time<br>phrase<br>business<br>able<br>alpha |  
+| bip_39_word_new_br_2 | actor<br>favorite |  
+| bip_39_word_new_br_3 | actor<br>favorite<br>loop |  
+| bip_39_word_new_br_4 | actor<br>favorite<br>loop<br>term |  
+| bip_39_word_new_br_5 | actor<br>favorite<br>loop<br>term<br>liquid |  
+| bip_39_word_new_br_6 | actor<br>favorite<br>loop<br>term<br>liquid<br>truly |  
+| bip_39_word_new_br_7 | actor<br>favorite<br>loop<br>term<br>liquid<br>truly<br>nasty |  
+| bip_39_word_new_br_8 | actor<br>favorite<br>loop<br>term<br>liquid<br>truly<br>nasty<br>time |  
+| bip_39_word_new_br_9 | actor<br>favorite<br>loop<br>term<br>liquid<br>truly<br>nasty<br>time<br>phrase |  
+| bip_39_word_new_line_1 | actor |  
+| bip_39_word_new_line_10 | actor
 favorite
 loop
 term
@@ -55,7 +55,7 @@ nasty
 time
 phrase
 business |  
-| bip_39_word_new_line11 | actor
+| bip_39_word_new_line_11 | actor
 favorite
 loop
 term
@@ -66,7 +66,7 @@ time
 phrase
 business
 able |  
-| bip_39_word_new_line12 | actor
+| bip_39_word_new_line_12 | actor
 favorite
 loop
 term
@@ -78,34 +78,34 @@ phrase
 business
 able
 alpha |  
-| bip_39_word_new_line2 | actor
+| bip_39_word_new_line_2 | actor
 favorite |  
-| bip_39_word_new_line3 | actor
+| bip_39_word_new_line_3 | actor
 favorite
 loop |  
-| bip_39_word_new_line4 | actor
+| bip_39_word_new_line_4 | actor
 favorite
 loop
 term |  
-| bip_39_word_new_line5 | actor
+| bip_39_word_new_line_5 | actor
 favorite
 loop
 term
 liquid |  
-| bip_39_word_new_line6 | actor
+| bip_39_word_new_line_6 | actor
 favorite
 loop
 term
 liquid
 truly |  
-| bip_39_word_new_line7 | actor
+| bip_39_word_new_line_7 | actor
 favorite
 loop
 term
 liquid
 truly
 nasty |  
-| bip_39_word_new_line8 | actor
+| bip_39_word_new_line_8 | actor
 favorite
 loop
 term
@@ -113,7 +113,7 @@ liquid
 truly
 nasty
 time |  
-| bip_39_word_new_line9 | actor
+| bip_39_word_new_line_9 | actor
 favorite
 loop
 term

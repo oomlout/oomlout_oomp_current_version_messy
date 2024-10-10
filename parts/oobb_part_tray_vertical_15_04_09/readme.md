@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | eternal |  
-| bip_39_word_new_br10 | eternal<br>picnic<br>pistol<br>exhibit<br>ask<br>claw<br>elder<br>peasant<br>inspire<br>arrange |  
-| bip_39_word_new_br11 | eternal<br>picnic<br>pistol<br>exhibit<br>ask<br>claw<br>elder<br>peasant<br>inspire<br>arrange<br>guard |  
-| bip_39_word_new_br12 | eternal<br>picnic<br>pistol<br>exhibit<br>ask<br>claw<br>elder<br>peasant<br>inspire<br>arrange<br>guard<br>asset |  
-| bip_39_word_new_br2 | eternal<br>picnic |  
-| bip_39_word_new_br3 | eternal<br>picnic<br>pistol |  
-| bip_39_word_new_br4 | eternal<br>picnic<br>pistol<br>exhibit |  
-| bip_39_word_new_br5 | eternal<br>picnic<br>pistol<br>exhibit<br>ask |  
-| bip_39_word_new_br6 | eternal<br>picnic<br>pistol<br>exhibit<br>ask<br>claw |  
-| bip_39_word_new_br7 | eternal<br>picnic<br>pistol<br>exhibit<br>ask<br>claw<br>elder |  
-| bip_39_word_new_br8 | eternal<br>picnic<br>pistol<br>exhibit<br>ask<br>claw<br>elder<br>peasant |  
-| bip_39_word_new_br9 | eternal<br>picnic<br>pistol<br>exhibit<br>ask<br>claw<br>elder<br>peasant<br>inspire |  
-| bip_39_word_new_line1 | eternal |  
-| bip_39_word_new_line10 | eternal
+| bip_39_word_new_br_1 | eternal |  
+| bip_39_word_new_br_10 | eternal<br>picnic<br>pistol<br>exhibit<br>ask<br>claw<br>elder<br>peasant<br>inspire<br>arrange |  
+| bip_39_word_new_br_11 | eternal<br>picnic<br>pistol<br>exhibit<br>ask<br>claw<br>elder<br>peasant<br>inspire<br>arrange<br>guard |  
+| bip_39_word_new_br_12 | eternal<br>picnic<br>pistol<br>exhibit<br>ask<br>claw<br>elder<br>peasant<br>inspire<br>arrange<br>guard<br>asset |  
+| bip_39_word_new_br_2 | eternal<br>picnic |  
+| bip_39_word_new_br_3 | eternal<br>picnic<br>pistol |  
+| bip_39_word_new_br_4 | eternal<br>picnic<br>pistol<br>exhibit |  
+| bip_39_word_new_br_5 | eternal<br>picnic<br>pistol<br>exhibit<br>ask |  
+| bip_39_word_new_br_6 | eternal<br>picnic<br>pistol<br>exhibit<br>ask<br>claw |  
+| bip_39_word_new_br_7 | eternal<br>picnic<br>pistol<br>exhibit<br>ask<br>claw<br>elder |  
+| bip_39_word_new_br_8 | eternal<br>picnic<br>pistol<br>exhibit<br>ask<br>claw<br>elder<br>peasant |  
+| bip_39_word_new_br_9 | eternal<br>picnic<br>pistol<br>exhibit<br>ask<br>claw<br>elder<br>peasant<br>inspire |  
+| bip_39_word_new_line_1 | eternal |  
+| bip_39_word_new_line_10 | eternal
 picnic
 pistol
 exhibit
@@ -55,7 +55,7 @@ elder
 peasant
 inspire
 arrange |  
-| bip_39_word_new_line11 | eternal
+| bip_39_word_new_line_11 | eternal
 picnic
 pistol
 exhibit
@@ -66,7 +66,7 @@ peasant
 inspire
 arrange
 guard |  
-| bip_39_word_new_line12 | eternal
+| bip_39_word_new_line_12 | eternal
 picnic
 pistol
 exhibit
@@ -78,34 +78,34 @@ inspire
 arrange
 guard
 asset |  
-| bip_39_word_new_line2 | eternal
+| bip_39_word_new_line_2 | eternal
 picnic |  
-| bip_39_word_new_line3 | eternal
+| bip_39_word_new_line_3 | eternal
 picnic
 pistol |  
-| bip_39_word_new_line4 | eternal
+| bip_39_word_new_line_4 | eternal
 picnic
 pistol
 exhibit |  
-| bip_39_word_new_line5 | eternal
+| bip_39_word_new_line_5 | eternal
 picnic
 pistol
 exhibit
 ask |  
-| bip_39_word_new_line6 | eternal
+| bip_39_word_new_line_6 | eternal
 picnic
 pistol
 exhibit
 ask
 claw |  
-| bip_39_word_new_line7 | eternal
+| bip_39_word_new_line_7 | eternal
 picnic
 pistol
 exhibit
 ask
 claw
 elder |  
-| bip_39_word_new_line8 | eternal
+| bip_39_word_new_line_8 | eternal
 picnic
 pistol
 exhibit
@@ -113,7 +113,7 @@ ask
 claw
 elder
 peasant |  
-| bip_39_word_new_line9 | eternal
+| bip_39_word_new_line_9 | eternal
 picnic
 pistol
 exhibit

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | series |  
-| bip_39_word_new_br10 | series<br>exclude<br>lemon<br>light<br>crime<br>bulk<br>clerk<br>jealous<br>mirror<br>benefit |  
-| bip_39_word_new_br11 | series<br>exclude<br>lemon<br>light<br>crime<br>bulk<br>clerk<br>jealous<br>mirror<br>benefit<br>useful |  
-| bip_39_word_new_br12 | series<br>exclude<br>lemon<br>light<br>crime<br>bulk<br>clerk<br>jealous<br>mirror<br>benefit<br>useful<br>actress |  
-| bip_39_word_new_br2 | series<br>exclude |  
-| bip_39_word_new_br3 | series<br>exclude<br>lemon |  
-| bip_39_word_new_br4 | series<br>exclude<br>lemon<br>light |  
-| bip_39_word_new_br5 | series<br>exclude<br>lemon<br>light<br>crime |  
-| bip_39_word_new_br6 | series<br>exclude<br>lemon<br>light<br>crime<br>bulk |  
-| bip_39_word_new_br7 | series<br>exclude<br>lemon<br>light<br>crime<br>bulk<br>clerk |  
-| bip_39_word_new_br8 | series<br>exclude<br>lemon<br>light<br>crime<br>bulk<br>clerk<br>jealous |  
-| bip_39_word_new_br9 | series<br>exclude<br>lemon<br>light<br>crime<br>bulk<br>clerk<br>jealous<br>mirror |  
-| bip_39_word_new_line1 | series |  
-| bip_39_word_new_line10 | series
+| bip_39_word_new_br_1 | series |  
+| bip_39_word_new_br_10 | series<br>exclude<br>lemon<br>light<br>crime<br>bulk<br>clerk<br>jealous<br>mirror<br>benefit |  
+| bip_39_word_new_br_11 | series<br>exclude<br>lemon<br>light<br>crime<br>bulk<br>clerk<br>jealous<br>mirror<br>benefit<br>useful |  
+| bip_39_word_new_br_12 | series<br>exclude<br>lemon<br>light<br>crime<br>bulk<br>clerk<br>jealous<br>mirror<br>benefit<br>useful<br>actress |  
+| bip_39_word_new_br_2 | series<br>exclude |  
+| bip_39_word_new_br_3 | series<br>exclude<br>lemon |  
+| bip_39_word_new_br_4 | series<br>exclude<br>lemon<br>light |  
+| bip_39_word_new_br_5 | series<br>exclude<br>lemon<br>light<br>crime |  
+| bip_39_word_new_br_6 | series<br>exclude<br>lemon<br>light<br>crime<br>bulk |  
+| bip_39_word_new_br_7 | series<br>exclude<br>lemon<br>light<br>crime<br>bulk<br>clerk |  
+| bip_39_word_new_br_8 | series<br>exclude<br>lemon<br>light<br>crime<br>bulk<br>clerk<br>jealous |  
+| bip_39_word_new_br_9 | series<br>exclude<br>lemon<br>light<br>crime<br>bulk<br>clerk<br>jealous<br>mirror |  
+| bip_39_word_new_line_1 | series |  
+| bip_39_word_new_line_10 | series
 exclude
 lemon
 light
@@ -55,7 +55,7 @@ clerk
 jealous
 mirror
 benefit |  
-| bip_39_word_new_line11 | series
+| bip_39_word_new_line_11 | series
 exclude
 lemon
 light
@@ -66,7 +66,7 @@ jealous
 mirror
 benefit
 useful |  
-| bip_39_word_new_line12 | series
+| bip_39_word_new_line_12 | series
 exclude
 lemon
 light
@@ -78,34 +78,34 @@ mirror
 benefit
 useful
 actress |  
-| bip_39_word_new_line2 | series
+| bip_39_word_new_line_2 | series
 exclude |  
-| bip_39_word_new_line3 | series
+| bip_39_word_new_line_3 | series
 exclude
 lemon |  
-| bip_39_word_new_line4 | series
+| bip_39_word_new_line_4 | series
 exclude
 lemon
 light |  
-| bip_39_word_new_line5 | series
+| bip_39_word_new_line_5 | series
 exclude
 lemon
 light
 crime |  
-| bip_39_word_new_line6 | series
+| bip_39_word_new_line_6 | series
 exclude
 lemon
 light
 crime
 bulk |  
-| bip_39_word_new_line7 | series
+| bip_39_word_new_line_7 | series
 exclude
 lemon
 light
 crime
 bulk
 clerk |  
-| bip_39_word_new_line8 | series
+| bip_39_word_new_line_8 | series
 exclude
 lemon
 light
@@ -113,7 +113,7 @@ crime
 bulk
 clerk
 jealous |  
-| bip_39_word_new_line9 | series
+| bip_39_word_new_line_9 | series
 exclude
 lemon
 light

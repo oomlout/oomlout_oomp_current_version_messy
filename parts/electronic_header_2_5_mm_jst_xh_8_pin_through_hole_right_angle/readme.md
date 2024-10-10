@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | deer |  
-| bip_39_word_new_br10 | deer<br>tobacco<br>voice<br>hamster<br>burden<br>prevent<br>slush<br>permit<br>around<br>brush |  
-| bip_39_word_new_br11 | deer<br>tobacco<br>voice<br>hamster<br>burden<br>prevent<br>slush<br>permit<br>around<br>brush<br>awful |  
-| bip_39_word_new_br12 | deer<br>tobacco<br>voice<br>hamster<br>burden<br>prevent<br>slush<br>permit<br>around<br>brush<br>awful<br>actual |  
-| bip_39_word_new_br2 | deer<br>tobacco |  
-| bip_39_word_new_br3 | deer<br>tobacco<br>voice |  
-| bip_39_word_new_br4 | deer<br>tobacco<br>voice<br>hamster |  
-| bip_39_word_new_br5 | deer<br>tobacco<br>voice<br>hamster<br>burden |  
-| bip_39_word_new_br6 | deer<br>tobacco<br>voice<br>hamster<br>burden<br>prevent |  
-| bip_39_word_new_br7 | deer<br>tobacco<br>voice<br>hamster<br>burden<br>prevent<br>slush |  
-| bip_39_word_new_br8 | deer<br>tobacco<br>voice<br>hamster<br>burden<br>prevent<br>slush<br>permit |  
-| bip_39_word_new_br9 | deer<br>tobacco<br>voice<br>hamster<br>burden<br>prevent<br>slush<br>permit<br>around |  
-| bip_39_word_new_line1 | deer |  
-| bip_39_word_new_line10 | deer
+| bip_39_word_new_br_1 | deer |  
+| bip_39_word_new_br_10 | deer<br>tobacco<br>voice<br>hamster<br>burden<br>prevent<br>slush<br>permit<br>around<br>brush |  
+| bip_39_word_new_br_11 | deer<br>tobacco<br>voice<br>hamster<br>burden<br>prevent<br>slush<br>permit<br>around<br>brush<br>awful |  
+| bip_39_word_new_br_12 | deer<br>tobacco<br>voice<br>hamster<br>burden<br>prevent<br>slush<br>permit<br>around<br>brush<br>awful<br>actual |  
+| bip_39_word_new_br_2 | deer<br>tobacco |  
+| bip_39_word_new_br_3 | deer<br>tobacco<br>voice |  
+| bip_39_word_new_br_4 | deer<br>tobacco<br>voice<br>hamster |  
+| bip_39_word_new_br_5 | deer<br>tobacco<br>voice<br>hamster<br>burden |  
+| bip_39_word_new_br_6 | deer<br>tobacco<br>voice<br>hamster<br>burden<br>prevent |  
+| bip_39_word_new_br_7 | deer<br>tobacco<br>voice<br>hamster<br>burden<br>prevent<br>slush |  
+| bip_39_word_new_br_8 | deer<br>tobacco<br>voice<br>hamster<br>burden<br>prevent<br>slush<br>permit |  
+| bip_39_word_new_br_9 | deer<br>tobacco<br>voice<br>hamster<br>burden<br>prevent<br>slush<br>permit<br>around |  
+| bip_39_word_new_line_1 | deer |  
+| bip_39_word_new_line_10 | deer
 tobacco
 voice
 hamster
@@ -55,7 +55,7 @@ slush
 permit
 around
 brush |  
-| bip_39_word_new_line11 | deer
+| bip_39_word_new_line_11 | deer
 tobacco
 voice
 hamster
@@ -66,7 +66,7 @@ permit
 around
 brush
 awful |  
-| bip_39_word_new_line12 | deer
+| bip_39_word_new_line_12 | deer
 tobacco
 voice
 hamster
@@ -78,34 +78,34 @@ around
 brush
 awful
 actual |  
-| bip_39_word_new_line2 | deer
+| bip_39_word_new_line_2 | deer
 tobacco |  
-| bip_39_word_new_line3 | deer
+| bip_39_word_new_line_3 | deer
 tobacco
 voice |  
-| bip_39_word_new_line4 | deer
+| bip_39_word_new_line_4 | deer
 tobacco
 voice
 hamster |  
-| bip_39_word_new_line5 | deer
+| bip_39_word_new_line_5 | deer
 tobacco
 voice
 hamster
 burden |  
-| bip_39_word_new_line6 | deer
+| bip_39_word_new_line_6 | deer
 tobacco
 voice
 hamster
 burden
 prevent |  
-| bip_39_word_new_line7 | deer
+| bip_39_word_new_line_7 | deer
 tobacco
 voice
 hamster
 burden
 prevent
 slush |  
-| bip_39_word_new_line8 | deer
+| bip_39_word_new_line_8 | deer
 tobacco
 voice
 hamster
@@ -113,7 +113,7 @@ burden
 prevent
 slush
 permit |  
-| bip_39_word_new_line9 | deer
+| bip_39_word_new_line_9 | deer
 tobacco
 voice
 hamster

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | toss |  
-| bip_39_word_new_br10 | toss<br>help<br>exhibit<br>caught<br>main<br>era<br>moment<br>budget<br>mobile<br>impact |  
-| bip_39_word_new_br11 | toss<br>help<br>exhibit<br>caught<br>main<br>era<br>moment<br>budget<br>mobile<br>impact<br>mango |  
-| bip_39_word_new_br12 | toss<br>help<br>exhibit<br>caught<br>main<br>era<br>moment<br>budget<br>mobile<br>impact<br>mango<br>ability |  
-| bip_39_word_new_br2 | toss<br>help |  
-| bip_39_word_new_br3 | toss<br>help<br>exhibit |  
-| bip_39_word_new_br4 | toss<br>help<br>exhibit<br>caught |  
-| bip_39_word_new_br5 | toss<br>help<br>exhibit<br>caught<br>main |  
-| bip_39_word_new_br6 | toss<br>help<br>exhibit<br>caught<br>main<br>era |  
-| bip_39_word_new_br7 | toss<br>help<br>exhibit<br>caught<br>main<br>era<br>moment |  
-| bip_39_word_new_br8 | toss<br>help<br>exhibit<br>caught<br>main<br>era<br>moment<br>budget |  
-| bip_39_word_new_br9 | toss<br>help<br>exhibit<br>caught<br>main<br>era<br>moment<br>budget<br>mobile |  
-| bip_39_word_new_line1 | toss |  
-| bip_39_word_new_line10 | toss
+| bip_39_word_new_br_1 | toss |  
+| bip_39_word_new_br_10 | toss<br>help<br>exhibit<br>caught<br>main<br>era<br>moment<br>budget<br>mobile<br>impact |  
+| bip_39_word_new_br_11 | toss<br>help<br>exhibit<br>caught<br>main<br>era<br>moment<br>budget<br>mobile<br>impact<br>mango |  
+| bip_39_word_new_br_12 | toss<br>help<br>exhibit<br>caught<br>main<br>era<br>moment<br>budget<br>mobile<br>impact<br>mango<br>ability |  
+| bip_39_word_new_br_2 | toss<br>help |  
+| bip_39_word_new_br_3 | toss<br>help<br>exhibit |  
+| bip_39_word_new_br_4 | toss<br>help<br>exhibit<br>caught |  
+| bip_39_word_new_br_5 | toss<br>help<br>exhibit<br>caught<br>main |  
+| bip_39_word_new_br_6 | toss<br>help<br>exhibit<br>caught<br>main<br>era |  
+| bip_39_word_new_br_7 | toss<br>help<br>exhibit<br>caught<br>main<br>era<br>moment |  
+| bip_39_word_new_br_8 | toss<br>help<br>exhibit<br>caught<br>main<br>era<br>moment<br>budget |  
+| bip_39_word_new_br_9 | toss<br>help<br>exhibit<br>caught<br>main<br>era<br>moment<br>budget<br>mobile |  
+| bip_39_word_new_line_1 | toss |  
+| bip_39_word_new_line_10 | toss
 help
 exhibit
 caught
@@ -55,7 +55,7 @@ moment
 budget
 mobile
 impact |  
-| bip_39_word_new_line11 | toss
+| bip_39_word_new_line_11 | toss
 help
 exhibit
 caught
@@ -66,7 +66,7 @@ budget
 mobile
 impact
 mango |  
-| bip_39_word_new_line12 | toss
+| bip_39_word_new_line_12 | toss
 help
 exhibit
 caught
@@ -78,34 +78,34 @@ mobile
 impact
 mango
 ability |  
-| bip_39_word_new_line2 | toss
+| bip_39_word_new_line_2 | toss
 help |  
-| bip_39_word_new_line3 | toss
+| bip_39_word_new_line_3 | toss
 help
 exhibit |  
-| bip_39_word_new_line4 | toss
+| bip_39_word_new_line_4 | toss
 help
 exhibit
 caught |  
-| bip_39_word_new_line5 | toss
+| bip_39_word_new_line_5 | toss
 help
 exhibit
 caught
 main |  
-| bip_39_word_new_line6 | toss
+| bip_39_word_new_line_6 | toss
 help
 exhibit
 caught
 main
 era |  
-| bip_39_word_new_line7 | toss
+| bip_39_word_new_line_7 | toss
 help
 exhibit
 caught
 main
 era
 moment |  
-| bip_39_word_new_line8 | toss
+| bip_39_word_new_line_8 | toss
 help
 exhibit
 caught
@@ -113,7 +113,7 @@ main
 era
 moment
 budget |  
-| bip_39_word_new_line9 | toss
+| bip_39_word_new_line_9 | toss
 help
 exhibit
 caught

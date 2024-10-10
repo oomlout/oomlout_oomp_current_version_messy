@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | reveal |  
-| bip_39_word_new_br10 | reveal<br>eagle<br>park<br>sphere<br>juice<br>leaf<br>exotic<br>elbow<br>cheap<br>spike |  
-| bip_39_word_new_br11 | reveal<br>eagle<br>park<br>sphere<br>juice<br>leaf<br>exotic<br>elbow<br>cheap<br>spike<br>wise |  
-| bip_39_word_new_br12 | reveal<br>eagle<br>park<br>sphere<br>juice<br>leaf<br>exotic<br>elbow<br>cheap<br>spike<br>wise<br>angry |  
-| bip_39_word_new_br2 | reveal<br>eagle |  
-| bip_39_word_new_br3 | reveal<br>eagle<br>park |  
-| bip_39_word_new_br4 | reveal<br>eagle<br>park<br>sphere |  
-| bip_39_word_new_br5 | reveal<br>eagle<br>park<br>sphere<br>juice |  
-| bip_39_word_new_br6 | reveal<br>eagle<br>park<br>sphere<br>juice<br>leaf |  
-| bip_39_word_new_br7 | reveal<br>eagle<br>park<br>sphere<br>juice<br>leaf<br>exotic |  
-| bip_39_word_new_br8 | reveal<br>eagle<br>park<br>sphere<br>juice<br>leaf<br>exotic<br>elbow |  
-| bip_39_word_new_br9 | reveal<br>eagle<br>park<br>sphere<br>juice<br>leaf<br>exotic<br>elbow<br>cheap |  
-| bip_39_word_new_line1 | reveal |  
-| bip_39_word_new_line10 | reveal
+| bip_39_word_new_br_1 | reveal |  
+| bip_39_word_new_br_10 | reveal<br>eagle<br>park<br>sphere<br>juice<br>leaf<br>exotic<br>elbow<br>cheap<br>spike |  
+| bip_39_word_new_br_11 | reveal<br>eagle<br>park<br>sphere<br>juice<br>leaf<br>exotic<br>elbow<br>cheap<br>spike<br>wise |  
+| bip_39_word_new_br_12 | reveal<br>eagle<br>park<br>sphere<br>juice<br>leaf<br>exotic<br>elbow<br>cheap<br>spike<br>wise<br>angry |  
+| bip_39_word_new_br_2 | reveal<br>eagle |  
+| bip_39_word_new_br_3 | reveal<br>eagle<br>park |  
+| bip_39_word_new_br_4 | reveal<br>eagle<br>park<br>sphere |  
+| bip_39_word_new_br_5 | reveal<br>eagle<br>park<br>sphere<br>juice |  
+| bip_39_word_new_br_6 | reveal<br>eagle<br>park<br>sphere<br>juice<br>leaf |  
+| bip_39_word_new_br_7 | reveal<br>eagle<br>park<br>sphere<br>juice<br>leaf<br>exotic |  
+| bip_39_word_new_br_8 | reveal<br>eagle<br>park<br>sphere<br>juice<br>leaf<br>exotic<br>elbow |  
+| bip_39_word_new_br_9 | reveal<br>eagle<br>park<br>sphere<br>juice<br>leaf<br>exotic<br>elbow<br>cheap |  
+| bip_39_word_new_line_1 | reveal |  
+| bip_39_word_new_line_10 | reveal
 eagle
 park
 sphere
@@ -55,7 +55,7 @@ exotic
 elbow
 cheap
 spike |  
-| bip_39_word_new_line11 | reveal
+| bip_39_word_new_line_11 | reveal
 eagle
 park
 sphere
@@ -66,7 +66,7 @@ elbow
 cheap
 spike
 wise |  
-| bip_39_word_new_line12 | reveal
+| bip_39_word_new_line_12 | reveal
 eagle
 park
 sphere
@@ -78,34 +78,34 @@ cheap
 spike
 wise
 angry |  
-| bip_39_word_new_line2 | reveal
+| bip_39_word_new_line_2 | reveal
 eagle |  
-| bip_39_word_new_line3 | reveal
+| bip_39_word_new_line_3 | reveal
 eagle
 park |  
-| bip_39_word_new_line4 | reveal
+| bip_39_word_new_line_4 | reveal
 eagle
 park
 sphere |  
-| bip_39_word_new_line5 | reveal
+| bip_39_word_new_line_5 | reveal
 eagle
 park
 sphere
 juice |  
-| bip_39_word_new_line6 | reveal
+| bip_39_word_new_line_6 | reveal
 eagle
 park
 sphere
 juice
 leaf |  
-| bip_39_word_new_line7 | reveal
+| bip_39_word_new_line_7 | reveal
 eagle
 park
 sphere
 juice
 leaf
 exotic |  
-| bip_39_word_new_line8 | reveal
+| bip_39_word_new_line_8 | reveal
 eagle
 park
 sphere
@@ -113,7 +113,7 @@ juice
 leaf
 exotic
 elbow |  
-| bip_39_word_new_line9 | reveal
+| bip_39_word_new_line_9 | reveal
 eagle
 park
 sphere

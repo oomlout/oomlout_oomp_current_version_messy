@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | obvious |  
-| bip_39_word_new_br10 | obvious<br>giant<br>assume<br>gift<br>hundred<br>truck<br>buddy<br>lake<br>wasp<br>upon |  
-| bip_39_word_new_br11 | obvious<br>giant<br>assume<br>gift<br>hundred<br>truck<br>buddy<br>lake<br>wasp<br>upon<br>divide |  
-| bip_39_word_new_br12 | obvious<br>giant<br>assume<br>gift<br>hundred<br>truck<br>buddy<br>lake<br>wasp<br>upon<br>divide<br>affair |  
-| bip_39_word_new_br2 | obvious<br>giant |  
-| bip_39_word_new_br3 | obvious<br>giant<br>assume |  
-| bip_39_word_new_br4 | obvious<br>giant<br>assume<br>gift |  
-| bip_39_word_new_br5 | obvious<br>giant<br>assume<br>gift<br>hundred |  
-| bip_39_word_new_br6 | obvious<br>giant<br>assume<br>gift<br>hundred<br>truck |  
-| bip_39_word_new_br7 | obvious<br>giant<br>assume<br>gift<br>hundred<br>truck<br>buddy |  
-| bip_39_word_new_br8 | obvious<br>giant<br>assume<br>gift<br>hundred<br>truck<br>buddy<br>lake |  
-| bip_39_word_new_br9 | obvious<br>giant<br>assume<br>gift<br>hundred<br>truck<br>buddy<br>lake<br>wasp |  
-| bip_39_word_new_line1 | obvious |  
-| bip_39_word_new_line10 | obvious
+| bip_39_word_new_br_1 | obvious |  
+| bip_39_word_new_br_10 | obvious<br>giant<br>assume<br>gift<br>hundred<br>truck<br>buddy<br>lake<br>wasp<br>upon |  
+| bip_39_word_new_br_11 | obvious<br>giant<br>assume<br>gift<br>hundred<br>truck<br>buddy<br>lake<br>wasp<br>upon<br>divide |  
+| bip_39_word_new_br_12 | obvious<br>giant<br>assume<br>gift<br>hundred<br>truck<br>buddy<br>lake<br>wasp<br>upon<br>divide<br>affair |  
+| bip_39_word_new_br_2 | obvious<br>giant |  
+| bip_39_word_new_br_3 | obvious<br>giant<br>assume |  
+| bip_39_word_new_br_4 | obvious<br>giant<br>assume<br>gift |  
+| bip_39_word_new_br_5 | obvious<br>giant<br>assume<br>gift<br>hundred |  
+| bip_39_word_new_br_6 | obvious<br>giant<br>assume<br>gift<br>hundred<br>truck |  
+| bip_39_word_new_br_7 | obvious<br>giant<br>assume<br>gift<br>hundred<br>truck<br>buddy |  
+| bip_39_word_new_br_8 | obvious<br>giant<br>assume<br>gift<br>hundred<br>truck<br>buddy<br>lake |  
+| bip_39_word_new_br_9 | obvious<br>giant<br>assume<br>gift<br>hundred<br>truck<br>buddy<br>lake<br>wasp |  
+| bip_39_word_new_line_1 | obvious |  
+| bip_39_word_new_line_10 | obvious
 giant
 assume
 gift
@@ -55,7 +55,7 @@ buddy
 lake
 wasp
 upon |  
-| bip_39_word_new_line11 | obvious
+| bip_39_word_new_line_11 | obvious
 giant
 assume
 gift
@@ -66,7 +66,7 @@ lake
 wasp
 upon
 divide |  
-| bip_39_word_new_line12 | obvious
+| bip_39_word_new_line_12 | obvious
 giant
 assume
 gift
@@ -78,34 +78,34 @@ wasp
 upon
 divide
 affair |  
-| bip_39_word_new_line2 | obvious
+| bip_39_word_new_line_2 | obvious
 giant |  
-| bip_39_word_new_line3 | obvious
+| bip_39_word_new_line_3 | obvious
 giant
 assume |  
-| bip_39_word_new_line4 | obvious
+| bip_39_word_new_line_4 | obvious
 giant
 assume
 gift |  
-| bip_39_word_new_line5 | obvious
+| bip_39_word_new_line_5 | obvious
 giant
 assume
 gift
 hundred |  
-| bip_39_word_new_line6 | obvious
+| bip_39_word_new_line_6 | obvious
 giant
 assume
 gift
 hundred
 truck |  
-| bip_39_word_new_line7 | obvious
+| bip_39_word_new_line_7 | obvious
 giant
 assume
 gift
 hundred
 truck
 buddy |  
-| bip_39_word_new_line8 | obvious
+| bip_39_word_new_line_8 | obvious
 giant
 assume
 gift
@@ -113,7 +113,7 @@ hundred
 truck
 buddy
 lake |  
-| bip_39_word_new_line9 | obvious
+| bip_39_word_new_line_9 | obvious
 giant
 assume
 gift

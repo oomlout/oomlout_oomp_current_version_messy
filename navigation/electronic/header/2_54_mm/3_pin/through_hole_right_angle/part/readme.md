@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hour |  
-| bip_39_word_new_br10 | hour<br>brass<br>pool<br>rebuild<br>bullet<br>choose<br>peasant<br>kit<br>moon<br>forget |  
-| bip_39_word_new_br11 | hour<br>brass<br>pool<br>rebuild<br>bullet<br>choose<br>peasant<br>kit<br>moon<br>forget<br>cattle |  
-| bip_39_word_new_br12 | hour<br>brass<br>pool<br>rebuild<br>bullet<br>choose<br>peasant<br>kit<br>moon<br>forget<br>cattle<br>acquire |  
-| bip_39_word_new_br2 | hour<br>brass |  
-| bip_39_word_new_br3 | hour<br>brass<br>pool |  
-| bip_39_word_new_br4 | hour<br>brass<br>pool<br>rebuild |  
-| bip_39_word_new_br5 | hour<br>brass<br>pool<br>rebuild<br>bullet |  
-| bip_39_word_new_br6 | hour<br>brass<br>pool<br>rebuild<br>bullet<br>choose |  
-| bip_39_word_new_br7 | hour<br>brass<br>pool<br>rebuild<br>bullet<br>choose<br>peasant |  
-| bip_39_word_new_br8 | hour<br>brass<br>pool<br>rebuild<br>bullet<br>choose<br>peasant<br>kit |  
-| bip_39_word_new_br9 | hour<br>brass<br>pool<br>rebuild<br>bullet<br>choose<br>peasant<br>kit<br>moon |  
-| bip_39_word_new_line1 | hour |  
-| bip_39_word_new_line10 | hour
+| bip_39_word_new_br_1 | hour |  
+| bip_39_word_new_br_10 | hour<br>brass<br>pool<br>rebuild<br>bullet<br>choose<br>peasant<br>kit<br>moon<br>forget |  
+| bip_39_word_new_br_11 | hour<br>brass<br>pool<br>rebuild<br>bullet<br>choose<br>peasant<br>kit<br>moon<br>forget<br>cattle |  
+| bip_39_word_new_br_12 | hour<br>brass<br>pool<br>rebuild<br>bullet<br>choose<br>peasant<br>kit<br>moon<br>forget<br>cattle<br>acquire |  
+| bip_39_word_new_br_2 | hour<br>brass |  
+| bip_39_word_new_br_3 | hour<br>brass<br>pool |  
+| bip_39_word_new_br_4 | hour<br>brass<br>pool<br>rebuild |  
+| bip_39_word_new_br_5 | hour<br>brass<br>pool<br>rebuild<br>bullet |  
+| bip_39_word_new_br_6 | hour<br>brass<br>pool<br>rebuild<br>bullet<br>choose |  
+| bip_39_word_new_br_7 | hour<br>brass<br>pool<br>rebuild<br>bullet<br>choose<br>peasant |  
+| bip_39_word_new_br_8 | hour<br>brass<br>pool<br>rebuild<br>bullet<br>choose<br>peasant<br>kit |  
+| bip_39_word_new_br_9 | hour<br>brass<br>pool<br>rebuild<br>bullet<br>choose<br>peasant<br>kit<br>moon |  
+| bip_39_word_new_line_1 | hour |  
+| bip_39_word_new_line_10 | hour
 brass
 pool
 rebuild
@@ -55,7 +55,7 @@ peasant
 kit
 moon
 forget |  
-| bip_39_word_new_line11 | hour
+| bip_39_word_new_line_11 | hour
 brass
 pool
 rebuild
@@ -66,7 +66,7 @@ kit
 moon
 forget
 cattle |  
-| bip_39_word_new_line12 | hour
+| bip_39_word_new_line_12 | hour
 brass
 pool
 rebuild
@@ -78,34 +78,34 @@ moon
 forget
 cattle
 acquire |  
-| bip_39_word_new_line2 | hour
+| bip_39_word_new_line_2 | hour
 brass |  
-| bip_39_word_new_line3 | hour
+| bip_39_word_new_line_3 | hour
 brass
 pool |  
-| bip_39_word_new_line4 | hour
+| bip_39_word_new_line_4 | hour
 brass
 pool
 rebuild |  
-| bip_39_word_new_line5 | hour
+| bip_39_word_new_line_5 | hour
 brass
 pool
 rebuild
 bullet |  
-| bip_39_word_new_line6 | hour
+| bip_39_word_new_line_6 | hour
 brass
 pool
 rebuild
 bullet
 choose |  
-| bip_39_word_new_line7 | hour
+| bip_39_word_new_line_7 | hour
 brass
 pool
 rebuild
 bullet
 choose
 peasant |  
-| bip_39_word_new_line8 | hour
+| bip_39_word_new_line_8 | hour
 brass
 pool
 rebuild
@@ -113,7 +113,7 @@ bullet
 choose
 peasant
 kit |  
-| bip_39_word_new_line9 | hour
+| bip_39_word_new_line_9 | hour
 brass
 pool
 rebuild

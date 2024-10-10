@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | entire |  
-| bip_39_word_new_br10 | entire<br>auction<br>theory<br>train<br>shrug<br>biology<br>inside<br>orbit<br>income<br>luxury |  
-| bip_39_word_new_br11 | entire<br>auction<br>theory<br>train<br>shrug<br>biology<br>inside<br>orbit<br>income<br>luxury<br>trim |  
-| bip_39_word_new_br12 | entire<br>auction<br>theory<br>train<br>shrug<br>biology<br>inside<br>orbit<br>income<br>luxury<br>trim<br>arch |  
-| bip_39_word_new_br2 | entire<br>auction |  
-| bip_39_word_new_br3 | entire<br>auction<br>theory |  
-| bip_39_word_new_br4 | entire<br>auction<br>theory<br>train |  
-| bip_39_word_new_br5 | entire<br>auction<br>theory<br>train<br>shrug |  
-| bip_39_word_new_br6 | entire<br>auction<br>theory<br>train<br>shrug<br>biology |  
-| bip_39_word_new_br7 | entire<br>auction<br>theory<br>train<br>shrug<br>biology<br>inside |  
-| bip_39_word_new_br8 | entire<br>auction<br>theory<br>train<br>shrug<br>biology<br>inside<br>orbit |  
-| bip_39_word_new_br9 | entire<br>auction<br>theory<br>train<br>shrug<br>biology<br>inside<br>orbit<br>income |  
-| bip_39_word_new_line1 | entire |  
-| bip_39_word_new_line10 | entire
+| bip_39_word_new_br_1 | entire |  
+| bip_39_word_new_br_10 | entire<br>auction<br>theory<br>train<br>shrug<br>biology<br>inside<br>orbit<br>income<br>luxury |  
+| bip_39_word_new_br_11 | entire<br>auction<br>theory<br>train<br>shrug<br>biology<br>inside<br>orbit<br>income<br>luxury<br>trim |  
+| bip_39_word_new_br_12 | entire<br>auction<br>theory<br>train<br>shrug<br>biology<br>inside<br>orbit<br>income<br>luxury<br>trim<br>arch |  
+| bip_39_word_new_br_2 | entire<br>auction |  
+| bip_39_word_new_br_3 | entire<br>auction<br>theory |  
+| bip_39_word_new_br_4 | entire<br>auction<br>theory<br>train |  
+| bip_39_word_new_br_5 | entire<br>auction<br>theory<br>train<br>shrug |  
+| bip_39_word_new_br_6 | entire<br>auction<br>theory<br>train<br>shrug<br>biology |  
+| bip_39_word_new_br_7 | entire<br>auction<br>theory<br>train<br>shrug<br>biology<br>inside |  
+| bip_39_word_new_br_8 | entire<br>auction<br>theory<br>train<br>shrug<br>biology<br>inside<br>orbit |  
+| bip_39_word_new_br_9 | entire<br>auction<br>theory<br>train<br>shrug<br>biology<br>inside<br>orbit<br>income |  
+| bip_39_word_new_line_1 | entire |  
+| bip_39_word_new_line_10 | entire
 auction
 theory
 train
@@ -55,7 +55,7 @@ inside
 orbit
 income
 luxury |  
-| bip_39_word_new_line11 | entire
+| bip_39_word_new_line_11 | entire
 auction
 theory
 train
@@ -66,7 +66,7 @@ orbit
 income
 luxury
 trim |  
-| bip_39_word_new_line12 | entire
+| bip_39_word_new_line_12 | entire
 auction
 theory
 train
@@ -78,34 +78,34 @@ income
 luxury
 trim
 arch |  
-| bip_39_word_new_line2 | entire
+| bip_39_word_new_line_2 | entire
 auction |  
-| bip_39_word_new_line3 | entire
+| bip_39_word_new_line_3 | entire
 auction
 theory |  
-| bip_39_word_new_line4 | entire
+| bip_39_word_new_line_4 | entire
 auction
 theory
 train |  
-| bip_39_word_new_line5 | entire
+| bip_39_word_new_line_5 | entire
 auction
 theory
 train
 shrug |  
-| bip_39_word_new_line6 | entire
+| bip_39_word_new_line_6 | entire
 auction
 theory
 train
 shrug
 biology |  
-| bip_39_word_new_line7 | entire
+| bip_39_word_new_line_7 | entire
 auction
 theory
 train
 shrug
 biology
 inside |  
-| bip_39_word_new_line8 | entire
+| bip_39_word_new_line_8 | entire
 auction
 theory
 train
@@ -113,7 +113,7 @@ shrug
 biology
 inside
 orbit |  
-| bip_39_word_new_line9 | entire
+| bip_39_word_new_line_9 | entire
 auction
 theory
 train

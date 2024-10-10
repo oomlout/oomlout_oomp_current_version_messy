@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | viable |  
-| bip_39_word_new_br10 | viable<br>bunker<br>size<br>derive<br>toilet<br>permit<br>average<br>sure<br>broken<br>crush |  
-| bip_39_word_new_br11 | viable<br>bunker<br>size<br>derive<br>toilet<br>permit<br>average<br>sure<br>broken<br>crush<br>diary |  
-| bip_39_word_new_br12 | viable<br>bunker<br>size<br>derive<br>toilet<br>permit<br>average<br>sure<br>broken<br>crush<br>diary<br>angle |  
-| bip_39_word_new_br2 | viable<br>bunker |  
-| bip_39_word_new_br3 | viable<br>bunker<br>size |  
-| bip_39_word_new_br4 | viable<br>bunker<br>size<br>derive |  
-| bip_39_word_new_br5 | viable<br>bunker<br>size<br>derive<br>toilet |  
-| bip_39_word_new_br6 | viable<br>bunker<br>size<br>derive<br>toilet<br>permit |  
-| bip_39_word_new_br7 | viable<br>bunker<br>size<br>derive<br>toilet<br>permit<br>average |  
-| bip_39_word_new_br8 | viable<br>bunker<br>size<br>derive<br>toilet<br>permit<br>average<br>sure |  
-| bip_39_word_new_br9 | viable<br>bunker<br>size<br>derive<br>toilet<br>permit<br>average<br>sure<br>broken |  
-| bip_39_word_new_line1 | viable |  
-| bip_39_word_new_line10 | viable
+| bip_39_word_new_br_1 | viable |  
+| bip_39_word_new_br_10 | viable<br>bunker<br>size<br>derive<br>toilet<br>permit<br>average<br>sure<br>broken<br>crush |  
+| bip_39_word_new_br_11 | viable<br>bunker<br>size<br>derive<br>toilet<br>permit<br>average<br>sure<br>broken<br>crush<br>diary |  
+| bip_39_word_new_br_12 | viable<br>bunker<br>size<br>derive<br>toilet<br>permit<br>average<br>sure<br>broken<br>crush<br>diary<br>angle |  
+| bip_39_word_new_br_2 | viable<br>bunker |  
+| bip_39_word_new_br_3 | viable<br>bunker<br>size |  
+| bip_39_word_new_br_4 | viable<br>bunker<br>size<br>derive |  
+| bip_39_word_new_br_5 | viable<br>bunker<br>size<br>derive<br>toilet |  
+| bip_39_word_new_br_6 | viable<br>bunker<br>size<br>derive<br>toilet<br>permit |  
+| bip_39_word_new_br_7 | viable<br>bunker<br>size<br>derive<br>toilet<br>permit<br>average |  
+| bip_39_word_new_br_8 | viable<br>bunker<br>size<br>derive<br>toilet<br>permit<br>average<br>sure |  
+| bip_39_word_new_br_9 | viable<br>bunker<br>size<br>derive<br>toilet<br>permit<br>average<br>sure<br>broken |  
+| bip_39_word_new_line_1 | viable |  
+| bip_39_word_new_line_10 | viable
 bunker
 size
 derive
@@ -55,7 +55,7 @@ average
 sure
 broken
 crush |  
-| bip_39_word_new_line11 | viable
+| bip_39_word_new_line_11 | viable
 bunker
 size
 derive
@@ -66,7 +66,7 @@ sure
 broken
 crush
 diary |  
-| bip_39_word_new_line12 | viable
+| bip_39_word_new_line_12 | viable
 bunker
 size
 derive
@@ -78,34 +78,34 @@ broken
 crush
 diary
 angle |  
-| bip_39_word_new_line2 | viable
+| bip_39_word_new_line_2 | viable
 bunker |  
-| bip_39_word_new_line3 | viable
+| bip_39_word_new_line_3 | viable
 bunker
 size |  
-| bip_39_word_new_line4 | viable
+| bip_39_word_new_line_4 | viable
 bunker
 size
 derive |  
-| bip_39_word_new_line5 | viable
+| bip_39_word_new_line_5 | viable
 bunker
 size
 derive
 toilet |  
-| bip_39_word_new_line6 | viable
+| bip_39_word_new_line_6 | viable
 bunker
 size
 derive
 toilet
 permit |  
-| bip_39_word_new_line7 | viable
+| bip_39_word_new_line_7 | viable
 bunker
 size
 derive
 toilet
 permit
 average |  
-| bip_39_word_new_line8 | viable
+| bip_39_word_new_line_8 | viable
 bunker
 size
 derive
@@ -113,7 +113,7 @@ toilet
 permit
 average
 sure |  
-| bip_39_word_new_line9 | viable
+| bip_39_word_new_line_9 | viable
 bunker
 size
 derive

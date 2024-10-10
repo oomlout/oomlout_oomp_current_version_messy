@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | genuine |  
-| bip_39_word_new_br10 | genuine<br>helmet<br>season<br>fold<br>shop<br>bottom<br>master<br>parrot<br>chimney<br>paddle |  
-| bip_39_word_new_br11 | genuine<br>helmet<br>season<br>fold<br>shop<br>bottom<br>master<br>parrot<br>chimney<br>paddle<br>aware |  
-| bip_39_word_new_br2 | genuine<br>helmet |  
-| bip_39_word_new_br3 | genuine<br>helmet<br>season |  
-| bip_39_word_new_br4 | genuine<br>helmet<br>season<br>fold |  
-| bip_39_word_new_br5 | genuine<br>helmet<br>season<br>fold<br>shop |  
-| bip_39_word_new_br6 | genuine<br>helmet<br>season<br>fold<br>shop<br>bottom |  
-| bip_39_word_new_br7 | genuine<br>helmet<br>season<br>fold<br>shop<br>bottom<br>master |  
-| bip_39_word_new_br8 | genuine<br>helmet<br>season<br>fold<br>shop<br>bottom<br>master<br>parrot |  
-| bip_39_word_new_br9 | genuine<br>helmet<br>season<br>fold<br>shop<br>bottom<br>master<br>parrot<br>chimney |  
-| bip_39_word_new_line1 | genuine |  
-| bip_39_word_new_line10 | genuine
+| bip_39_word_new_br_1 | genuine |  
+| bip_39_word_new_br_10 | genuine<br>helmet<br>season<br>fold<br>shop<br>bottom<br>master<br>parrot<br>chimney<br>paddle |  
+| bip_39_word_new_br_11 | genuine<br>helmet<br>season<br>fold<br>shop<br>bottom<br>master<br>parrot<br>chimney<br>paddle<br>aware |  
+| bip_39_word_new_br_2 | genuine<br>helmet |  
+| bip_39_word_new_br_3 | genuine<br>helmet<br>season |  
+| bip_39_word_new_br_4 | genuine<br>helmet<br>season<br>fold |  
+| bip_39_word_new_br_5 | genuine<br>helmet<br>season<br>fold<br>shop |  
+| bip_39_word_new_br_6 | genuine<br>helmet<br>season<br>fold<br>shop<br>bottom |  
+| bip_39_word_new_br_7 | genuine<br>helmet<br>season<br>fold<br>shop<br>bottom<br>master |  
+| bip_39_word_new_br_8 | genuine<br>helmet<br>season<br>fold<br>shop<br>bottom<br>master<br>parrot |  
+| bip_39_word_new_br_9 | genuine<br>helmet<br>season<br>fold<br>shop<br>bottom<br>master<br>parrot<br>chimney |  
+| bip_39_word_new_line_1 | genuine |  
+| bip_39_word_new_line_10 | genuine
 helmet
 season
 fold
@@ -54,7 +54,7 @@ master
 parrot
 chimney
 paddle |  
-| bip_39_word_new_line11 | genuine
+| bip_39_word_new_line_11 | genuine
 helmet
 season
 fold
@@ -65,34 +65,34 @@ parrot
 chimney
 paddle
 aware |  
-| bip_39_word_new_line2 | genuine
+| bip_39_word_new_line_2 | genuine
 helmet |  
-| bip_39_word_new_line3 | genuine
+| bip_39_word_new_line_3 | genuine
 helmet
 season |  
-| bip_39_word_new_line4 | genuine
+| bip_39_word_new_line_4 | genuine
 helmet
 season
 fold |  
-| bip_39_word_new_line5 | genuine
+| bip_39_word_new_line_5 | genuine
 helmet
 season
 fold
 shop |  
-| bip_39_word_new_line6 | genuine
+| bip_39_word_new_line_6 | genuine
 helmet
 season
 fold
 shop
 bottom |  
-| bip_39_word_new_line7 | genuine
+| bip_39_word_new_line_7 | genuine
 helmet
 season
 fold
 shop
 bottom
 master |  
-| bip_39_word_new_line8 | genuine
+| bip_39_word_new_line_8 | genuine
 helmet
 season
 fold
@@ -100,7 +100,7 @@ shop
 bottom
 master
 parrot |  
-| bip_39_word_new_line9 | genuine
+| bip_39_word_new_line_9 | genuine
 helmet
 season
 fold

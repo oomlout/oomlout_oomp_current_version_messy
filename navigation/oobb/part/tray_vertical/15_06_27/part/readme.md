@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cabbage |  
-| bip_39_word_new_br10 | cabbage<br>credit<br>key<br>walnut<br>blanket<br>start<br>edge<br>ozone<br>moral<br>detail |  
-| bip_39_word_new_br11 | cabbage<br>credit<br>key<br>walnut<br>blanket<br>start<br>edge<br>ozone<br>moral<br>detail<br>scheme |  
-| bip_39_word_new_br12 | cabbage<br>credit<br>key<br>walnut<br>blanket<br>start<br>edge<br>ozone<br>moral<br>detail<br>scheme<br>account |  
-| bip_39_word_new_br2 | cabbage<br>credit |  
-| bip_39_word_new_br3 | cabbage<br>credit<br>key |  
-| bip_39_word_new_br4 | cabbage<br>credit<br>key<br>walnut |  
-| bip_39_word_new_br5 | cabbage<br>credit<br>key<br>walnut<br>blanket |  
-| bip_39_word_new_br6 | cabbage<br>credit<br>key<br>walnut<br>blanket<br>start |  
-| bip_39_word_new_br7 | cabbage<br>credit<br>key<br>walnut<br>blanket<br>start<br>edge |  
-| bip_39_word_new_br8 | cabbage<br>credit<br>key<br>walnut<br>blanket<br>start<br>edge<br>ozone |  
-| bip_39_word_new_br9 | cabbage<br>credit<br>key<br>walnut<br>blanket<br>start<br>edge<br>ozone<br>moral |  
-| bip_39_word_new_line1 | cabbage |  
-| bip_39_word_new_line10 | cabbage
+| bip_39_word_new_br_1 | cabbage |  
+| bip_39_word_new_br_10 | cabbage<br>credit<br>key<br>walnut<br>blanket<br>start<br>edge<br>ozone<br>moral<br>detail |  
+| bip_39_word_new_br_11 | cabbage<br>credit<br>key<br>walnut<br>blanket<br>start<br>edge<br>ozone<br>moral<br>detail<br>scheme |  
+| bip_39_word_new_br_12 | cabbage<br>credit<br>key<br>walnut<br>blanket<br>start<br>edge<br>ozone<br>moral<br>detail<br>scheme<br>account |  
+| bip_39_word_new_br_2 | cabbage<br>credit |  
+| bip_39_word_new_br_3 | cabbage<br>credit<br>key |  
+| bip_39_word_new_br_4 | cabbage<br>credit<br>key<br>walnut |  
+| bip_39_word_new_br_5 | cabbage<br>credit<br>key<br>walnut<br>blanket |  
+| bip_39_word_new_br_6 | cabbage<br>credit<br>key<br>walnut<br>blanket<br>start |  
+| bip_39_word_new_br_7 | cabbage<br>credit<br>key<br>walnut<br>blanket<br>start<br>edge |  
+| bip_39_word_new_br_8 | cabbage<br>credit<br>key<br>walnut<br>blanket<br>start<br>edge<br>ozone |  
+| bip_39_word_new_br_9 | cabbage<br>credit<br>key<br>walnut<br>blanket<br>start<br>edge<br>ozone<br>moral |  
+| bip_39_word_new_line_1 | cabbage |  
+| bip_39_word_new_line_10 | cabbage
 credit
 key
 walnut
@@ -55,7 +55,7 @@ edge
 ozone
 moral
 detail |  
-| bip_39_word_new_line11 | cabbage
+| bip_39_word_new_line_11 | cabbage
 credit
 key
 walnut
@@ -66,7 +66,7 @@ ozone
 moral
 detail
 scheme |  
-| bip_39_word_new_line12 | cabbage
+| bip_39_word_new_line_12 | cabbage
 credit
 key
 walnut
@@ -78,34 +78,34 @@ moral
 detail
 scheme
 account |  
-| bip_39_word_new_line2 | cabbage
+| bip_39_word_new_line_2 | cabbage
 credit |  
-| bip_39_word_new_line3 | cabbage
+| bip_39_word_new_line_3 | cabbage
 credit
 key |  
-| bip_39_word_new_line4 | cabbage
+| bip_39_word_new_line_4 | cabbage
 credit
 key
 walnut |  
-| bip_39_word_new_line5 | cabbage
+| bip_39_word_new_line_5 | cabbage
 credit
 key
 walnut
 blanket |  
-| bip_39_word_new_line6 | cabbage
+| bip_39_word_new_line_6 | cabbage
 credit
 key
 walnut
 blanket
 start |  
-| bip_39_word_new_line7 | cabbage
+| bip_39_word_new_line_7 | cabbage
 credit
 key
 walnut
 blanket
 start
 edge |  
-| bip_39_word_new_line8 | cabbage
+| bip_39_word_new_line_8 | cabbage
 credit
 key
 walnut
@@ -113,7 +113,7 @@ blanket
 start
 edge
 ozone |  
-| bip_39_word_new_line9 | cabbage
+| bip_39_word_new_line_9 | cabbage
 credit
 key
 walnut

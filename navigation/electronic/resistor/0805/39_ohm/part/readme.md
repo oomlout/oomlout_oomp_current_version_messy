@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | useless |  
-| bip_39_word_new_br10 | useless<br>piano<br>organ<br>still<br>jewel<br>visit<br>fluid<br>announce<br>arrest<br>craft |  
-| bip_39_word_new_br11 | useless<br>piano<br>organ<br>still<br>jewel<br>visit<br>fluid<br>announce<br>arrest<br>craft<br>razor |  
-| bip_39_word_new_br12 | useless<br>piano<br>organ<br>still<br>jewel<br>visit<br>fluid<br>announce<br>arrest<br>craft<br>razor<br>above |  
-| bip_39_word_new_br2 | useless<br>piano |  
-| bip_39_word_new_br3 | useless<br>piano<br>organ |  
-| bip_39_word_new_br4 | useless<br>piano<br>organ<br>still |  
-| bip_39_word_new_br5 | useless<br>piano<br>organ<br>still<br>jewel |  
-| bip_39_word_new_br6 | useless<br>piano<br>organ<br>still<br>jewel<br>visit |  
-| bip_39_word_new_br7 | useless<br>piano<br>organ<br>still<br>jewel<br>visit<br>fluid |  
-| bip_39_word_new_br8 | useless<br>piano<br>organ<br>still<br>jewel<br>visit<br>fluid<br>announce |  
-| bip_39_word_new_br9 | useless<br>piano<br>organ<br>still<br>jewel<br>visit<br>fluid<br>announce<br>arrest |  
-| bip_39_word_new_line1 | useless |  
-| bip_39_word_new_line10 | useless
+| bip_39_word_new_br_1 | useless |  
+| bip_39_word_new_br_10 | useless<br>piano<br>organ<br>still<br>jewel<br>visit<br>fluid<br>announce<br>arrest<br>craft |  
+| bip_39_word_new_br_11 | useless<br>piano<br>organ<br>still<br>jewel<br>visit<br>fluid<br>announce<br>arrest<br>craft<br>razor |  
+| bip_39_word_new_br_12 | useless<br>piano<br>organ<br>still<br>jewel<br>visit<br>fluid<br>announce<br>arrest<br>craft<br>razor<br>above |  
+| bip_39_word_new_br_2 | useless<br>piano |  
+| bip_39_word_new_br_3 | useless<br>piano<br>organ |  
+| bip_39_word_new_br_4 | useless<br>piano<br>organ<br>still |  
+| bip_39_word_new_br_5 | useless<br>piano<br>organ<br>still<br>jewel |  
+| bip_39_word_new_br_6 | useless<br>piano<br>organ<br>still<br>jewel<br>visit |  
+| bip_39_word_new_br_7 | useless<br>piano<br>organ<br>still<br>jewel<br>visit<br>fluid |  
+| bip_39_word_new_br_8 | useless<br>piano<br>organ<br>still<br>jewel<br>visit<br>fluid<br>announce |  
+| bip_39_word_new_br_9 | useless<br>piano<br>organ<br>still<br>jewel<br>visit<br>fluid<br>announce<br>arrest |  
+| bip_39_word_new_line_1 | useless |  
+| bip_39_word_new_line_10 | useless
 piano
 organ
 still
@@ -55,7 +55,7 @@ fluid
 announce
 arrest
 craft |  
-| bip_39_word_new_line11 | useless
+| bip_39_word_new_line_11 | useless
 piano
 organ
 still
@@ -66,7 +66,7 @@ announce
 arrest
 craft
 razor |  
-| bip_39_word_new_line12 | useless
+| bip_39_word_new_line_12 | useless
 piano
 organ
 still
@@ -78,34 +78,34 @@ arrest
 craft
 razor
 above |  
-| bip_39_word_new_line2 | useless
+| bip_39_word_new_line_2 | useless
 piano |  
-| bip_39_word_new_line3 | useless
+| bip_39_word_new_line_3 | useless
 piano
 organ |  
-| bip_39_word_new_line4 | useless
+| bip_39_word_new_line_4 | useless
 piano
 organ
 still |  
-| bip_39_word_new_line5 | useless
+| bip_39_word_new_line_5 | useless
 piano
 organ
 still
 jewel |  
-| bip_39_word_new_line6 | useless
+| bip_39_word_new_line_6 | useless
 piano
 organ
 still
 jewel
 visit |  
-| bip_39_word_new_line7 | useless
+| bip_39_word_new_line_7 | useless
 piano
 organ
 still
 jewel
 visit
 fluid |  
-| bip_39_word_new_line8 | useless
+| bip_39_word_new_line_8 | useless
 piano
 organ
 still
@@ -113,7 +113,7 @@ jewel
 visit
 fluid
 announce |  
-| bip_39_word_new_line9 | useless
+| bip_39_word_new_line_9 | useless
 piano
 organ
 still

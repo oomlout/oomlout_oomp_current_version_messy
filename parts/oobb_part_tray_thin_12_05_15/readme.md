@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | often |  
-| bip_39_word_new_br10 | often<br>fix<br>fury<br>oak<br>coffee<br>diesel<br>diagram<br>panther<br>humble<br>secret |  
-| bip_39_word_new_br11 | often<br>fix<br>fury<br>oak<br>coffee<br>diesel<br>diagram<br>panther<br>humble<br>secret<br>either |  
-| bip_39_word_new_br12 | often<br>fix<br>fury<br>oak<br>coffee<br>diesel<br>diagram<br>panther<br>humble<br>secret<br>either<br>almost |  
-| bip_39_word_new_br2 | often<br>fix |  
-| bip_39_word_new_br3 | often<br>fix<br>fury |  
-| bip_39_word_new_br4 | often<br>fix<br>fury<br>oak |  
-| bip_39_word_new_br5 | often<br>fix<br>fury<br>oak<br>coffee |  
-| bip_39_word_new_br6 | often<br>fix<br>fury<br>oak<br>coffee<br>diesel |  
-| bip_39_word_new_br7 | often<br>fix<br>fury<br>oak<br>coffee<br>diesel<br>diagram |  
-| bip_39_word_new_br8 | often<br>fix<br>fury<br>oak<br>coffee<br>diesel<br>diagram<br>panther |  
-| bip_39_word_new_br9 | often<br>fix<br>fury<br>oak<br>coffee<br>diesel<br>diagram<br>panther<br>humble |  
-| bip_39_word_new_line1 | often |  
-| bip_39_word_new_line10 | often
+| bip_39_word_new_br_1 | often |  
+| bip_39_word_new_br_10 | often<br>fix<br>fury<br>oak<br>coffee<br>diesel<br>diagram<br>panther<br>humble<br>secret |  
+| bip_39_word_new_br_11 | often<br>fix<br>fury<br>oak<br>coffee<br>diesel<br>diagram<br>panther<br>humble<br>secret<br>either |  
+| bip_39_word_new_br_12 | often<br>fix<br>fury<br>oak<br>coffee<br>diesel<br>diagram<br>panther<br>humble<br>secret<br>either<br>almost |  
+| bip_39_word_new_br_2 | often<br>fix |  
+| bip_39_word_new_br_3 | often<br>fix<br>fury |  
+| bip_39_word_new_br_4 | often<br>fix<br>fury<br>oak |  
+| bip_39_word_new_br_5 | often<br>fix<br>fury<br>oak<br>coffee |  
+| bip_39_word_new_br_6 | often<br>fix<br>fury<br>oak<br>coffee<br>diesel |  
+| bip_39_word_new_br_7 | often<br>fix<br>fury<br>oak<br>coffee<br>diesel<br>diagram |  
+| bip_39_word_new_br_8 | often<br>fix<br>fury<br>oak<br>coffee<br>diesel<br>diagram<br>panther |  
+| bip_39_word_new_br_9 | often<br>fix<br>fury<br>oak<br>coffee<br>diesel<br>diagram<br>panther<br>humble |  
+| bip_39_word_new_line_1 | often |  
+| bip_39_word_new_line_10 | often
 fix
 fury
 oak
@@ -55,7 +55,7 @@ diagram
 panther
 humble
 secret |  
-| bip_39_word_new_line11 | often
+| bip_39_word_new_line_11 | often
 fix
 fury
 oak
@@ -66,7 +66,7 @@ panther
 humble
 secret
 either |  
-| bip_39_word_new_line12 | often
+| bip_39_word_new_line_12 | often
 fix
 fury
 oak
@@ -78,34 +78,34 @@ humble
 secret
 either
 almost |  
-| bip_39_word_new_line2 | often
+| bip_39_word_new_line_2 | often
 fix |  
-| bip_39_word_new_line3 | often
+| bip_39_word_new_line_3 | often
 fix
 fury |  
-| bip_39_word_new_line4 | often
+| bip_39_word_new_line_4 | often
 fix
 fury
 oak |  
-| bip_39_word_new_line5 | often
+| bip_39_word_new_line_5 | often
 fix
 fury
 oak
 coffee |  
-| bip_39_word_new_line6 | often
+| bip_39_word_new_line_6 | often
 fix
 fury
 oak
 coffee
 diesel |  
-| bip_39_word_new_line7 | often
+| bip_39_word_new_line_7 | often
 fix
 fury
 oak
 coffee
 diesel
 diagram |  
-| bip_39_word_new_line8 | often
+| bip_39_word_new_line_8 | often
 fix
 fury
 oak
@@ -113,7 +113,7 @@ coffee
 diesel
 diagram
 panther |  
-| bip_39_word_new_line9 | often
+| bip_39_word_new_line_9 | often
 fix
 fury
 oak

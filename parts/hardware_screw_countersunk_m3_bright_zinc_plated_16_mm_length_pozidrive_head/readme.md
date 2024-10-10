@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | depth |  
-| bip_39_word_new_br10 | depth<br>rotate<br>fetch<br>penalty<br>obtain<br>law<br>scrap<br>clinic<br>scene<br>truth |  
-| bip_39_word_new_br11 | depth<br>rotate<br>fetch<br>penalty<br>obtain<br>law<br>scrap<br>clinic<br>scene<br>truth<br>myth |  
-| bip_39_word_new_br12 | depth<br>rotate<br>fetch<br>penalty<br>obtain<br>law<br>scrap<br>clinic<br>scene<br>truth<br>myth<br>arrange |  
-| bip_39_word_new_br2 | depth<br>rotate |  
-| bip_39_word_new_br3 | depth<br>rotate<br>fetch |  
-| bip_39_word_new_br4 | depth<br>rotate<br>fetch<br>penalty |  
-| bip_39_word_new_br5 | depth<br>rotate<br>fetch<br>penalty<br>obtain |  
-| bip_39_word_new_br6 | depth<br>rotate<br>fetch<br>penalty<br>obtain<br>law |  
-| bip_39_word_new_br7 | depth<br>rotate<br>fetch<br>penalty<br>obtain<br>law<br>scrap |  
-| bip_39_word_new_br8 | depth<br>rotate<br>fetch<br>penalty<br>obtain<br>law<br>scrap<br>clinic |  
-| bip_39_word_new_br9 | depth<br>rotate<br>fetch<br>penalty<br>obtain<br>law<br>scrap<br>clinic<br>scene |  
-| bip_39_word_new_line1 | depth |  
-| bip_39_word_new_line10 | depth
+| bip_39_word_new_br_1 | depth |  
+| bip_39_word_new_br_10 | depth<br>rotate<br>fetch<br>penalty<br>obtain<br>law<br>scrap<br>clinic<br>scene<br>truth |  
+| bip_39_word_new_br_11 | depth<br>rotate<br>fetch<br>penalty<br>obtain<br>law<br>scrap<br>clinic<br>scene<br>truth<br>myth |  
+| bip_39_word_new_br_12 | depth<br>rotate<br>fetch<br>penalty<br>obtain<br>law<br>scrap<br>clinic<br>scene<br>truth<br>myth<br>arrange |  
+| bip_39_word_new_br_2 | depth<br>rotate |  
+| bip_39_word_new_br_3 | depth<br>rotate<br>fetch |  
+| bip_39_word_new_br_4 | depth<br>rotate<br>fetch<br>penalty |  
+| bip_39_word_new_br_5 | depth<br>rotate<br>fetch<br>penalty<br>obtain |  
+| bip_39_word_new_br_6 | depth<br>rotate<br>fetch<br>penalty<br>obtain<br>law |  
+| bip_39_word_new_br_7 | depth<br>rotate<br>fetch<br>penalty<br>obtain<br>law<br>scrap |  
+| bip_39_word_new_br_8 | depth<br>rotate<br>fetch<br>penalty<br>obtain<br>law<br>scrap<br>clinic |  
+| bip_39_word_new_br_9 | depth<br>rotate<br>fetch<br>penalty<br>obtain<br>law<br>scrap<br>clinic<br>scene |  
+| bip_39_word_new_line_1 | depth |  
+| bip_39_word_new_line_10 | depth
 rotate
 fetch
 penalty
@@ -55,7 +55,7 @@ scrap
 clinic
 scene
 truth |  
-| bip_39_word_new_line11 | depth
+| bip_39_word_new_line_11 | depth
 rotate
 fetch
 penalty
@@ -66,7 +66,7 @@ clinic
 scene
 truth
 myth |  
-| bip_39_word_new_line12 | depth
+| bip_39_word_new_line_12 | depth
 rotate
 fetch
 penalty
@@ -78,34 +78,34 @@ scene
 truth
 myth
 arrange |  
-| bip_39_word_new_line2 | depth
+| bip_39_word_new_line_2 | depth
 rotate |  
-| bip_39_word_new_line3 | depth
+| bip_39_word_new_line_3 | depth
 rotate
 fetch |  
-| bip_39_word_new_line4 | depth
+| bip_39_word_new_line_4 | depth
 rotate
 fetch
 penalty |  
-| bip_39_word_new_line5 | depth
+| bip_39_word_new_line_5 | depth
 rotate
 fetch
 penalty
 obtain |  
-| bip_39_word_new_line6 | depth
+| bip_39_word_new_line_6 | depth
 rotate
 fetch
 penalty
 obtain
 law |  
-| bip_39_word_new_line7 | depth
+| bip_39_word_new_line_7 | depth
 rotate
 fetch
 penalty
 obtain
 law
 scrap |  
-| bip_39_word_new_line8 | depth
+| bip_39_word_new_line_8 | depth
 rotate
 fetch
 penalty
@@ -113,7 +113,7 @@ obtain
 law
 scrap
 clinic |  
-| bip_39_word_new_line9 | depth
+| bip_39_word_new_line_9 | depth
 rotate
 fetch
 penalty

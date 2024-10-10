@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | exhaust |  
-| bip_39_word_new_br10 | exhaust<br>blast<br>forward<br>turtle<br>practice<br>rain<br>attack<br>spoon<br>horror<br>boat |  
-| bip_39_word_new_br11 | exhaust<br>blast<br>forward<br>turtle<br>practice<br>rain<br>attack<br>spoon<br>horror<br>boat<br>already |  
-| bip_39_word_new_br12 | exhaust<br>blast<br>forward<br>turtle<br>practice<br>rain<br>attack<br>spoon<br>horror<br>boat<br>already<br>asthma |  
-| bip_39_word_new_br2 | exhaust<br>blast |  
-| bip_39_word_new_br3 | exhaust<br>blast<br>forward |  
-| bip_39_word_new_br4 | exhaust<br>blast<br>forward<br>turtle |  
-| bip_39_word_new_br5 | exhaust<br>blast<br>forward<br>turtle<br>practice |  
-| bip_39_word_new_br6 | exhaust<br>blast<br>forward<br>turtle<br>practice<br>rain |  
-| bip_39_word_new_br7 | exhaust<br>blast<br>forward<br>turtle<br>practice<br>rain<br>attack |  
-| bip_39_word_new_br8 | exhaust<br>blast<br>forward<br>turtle<br>practice<br>rain<br>attack<br>spoon |  
-| bip_39_word_new_br9 | exhaust<br>blast<br>forward<br>turtle<br>practice<br>rain<br>attack<br>spoon<br>horror |  
-| bip_39_word_new_line1 | exhaust |  
-| bip_39_word_new_line10 | exhaust
+| bip_39_word_new_br_1 | exhaust |  
+| bip_39_word_new_br_10 | exhaust<br>blast<br>forward<br>turtle<br>practice<br>rain<br>attack<br>spoon<br>horror<br>boat |  
+| bip_39_word_new_br_11 | exhaust<br>blast<br>forward<br>turtle<br>practice<br>rain<br>attack<br>spoon<br>horror<br>boat<br>already |  
+| bip_39_word_new_br_12 | exhaust<br>blast<br>forward<br>turtle<br>practice<br>rain<br>attack<br>spoon<br>horror<br>boat<br>already<br>asthma |  
+| bip_39_word_new_br_2 | exhaust<br>blast |  
+| bip_39_word_new_br_3 | exhaust<br>blast<br>forward |  
+| bip_39_word_new_br_4 | exhaust<br>blast<br>forward<br>turtle |  
+| bip_39_word_new_br_5 | exhaust<br>blast<br>forward<br>turtle<br>practice |  
+| bip_39_word_new_br_6 | exhaust<br>blast<br>forward<br>turtle<br>practice<br>rain |  
+| bip_39_word_new_br_7 | exhaust<br>blast<br>forward<br>turtle<br>practice<br>rain<br>attack |  
+| bip_39_word_new_br_8 | exhaust<br>blast<br>forward<br>turtle<br>practice<br>rain<br>attack<br>spoon |  
+| bip_39_word_new_br_9 | exhaust<br>blast<br>forward<br>turtle<br>practice<br>rain<br>attack<br>spoon<br>horror |  
+| bip_39_word_new_line_1 | exhaust |  
+| bip_39_word_new_line_10 | exhaust
 blast
 forward
 turtle
@@ -55,7 +55,7 @@ attack
 spoon
 horror
 boat |  
-| bip_39_word_new_line11 | exhaust
+| bip_39_word_new_line_11 | exhaust
 blast
 forward
 turtle
@@ -66,7 +66,7 @@ spoon
 horror
 boat
 already |  
-| bip_39_word_new_line12 | exhaust
+| bip_39_word_new_line_12 | exhaust
 blast
 forward
 turtle
@@ -78,34 +78,34 @@ horror
 boat
 already
 asthma |  
-| bip_39_word_new_line2 | exhaust
+| bip_39_word_new_line_2 | exhaust
 blast |  
-| bip_39_word_new_line3 | exhaust
+| bip_39_word_new_line_3 | exhaust
 blast
 forward |  
-| bip_39_word_new_line4 | exhaust
+| bip_39_word_new_line_4 | exhaust
 blast
 forward
 turtle |  
-| bip_39_word_new_line5 | exhaust
+| bip_39_word_new_line_5 | exhaust
 blast
 forward
 turtle
 practice |  
-| bip_39_word_new_line6 | exhaust
+| bip_39_word_new_line_6 | exhaust
 blast
 forward
 turtle
 practice
 rain |  
-| bip_39_word_new_line7 | exhaust
+| bip_39_word_new_line_7 | exhaust
 blast
 forward
 turtle
 practice
 rain
 attack |  
-| bip_39_word_new_line8 | exhaust
+| bip_39_word_new_line_8 | exhaust
 blast
 forward
 turtle
@@ -113,7 +113,7 @@ practice
 rain
 attack
 spoon |  
-| bip_39_word_new_line9 | exhaust
+| bip_39_word_new_line_9 | exhaust
 blast
 forward
 turtle

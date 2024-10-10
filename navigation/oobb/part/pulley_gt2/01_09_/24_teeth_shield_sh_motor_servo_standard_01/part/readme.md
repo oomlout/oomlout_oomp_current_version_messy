@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bleak |  
-| bip_39_word_new_br10 | bleak<br>top<br>crisp<br>slight<br>tooth<br>mosquito<br>addict<br>glue<br>work<br>reward |  
-| bip_39_word_new_br11 | bleak<br>top<br>crisp<br>slight<br>tooth<br>mosquito<br>addict<br>glue<br>work<br>reward<br>retire |  
-| bip_39_word_new_br12 | bleak<br>top<br>crisp<br>slight<br>tooth<br>mosquito<br>addict<br>glue<br>work<br>reward<br>retire<br>addict |  
-| bip_39_word_new_br2 | bleak<br>top |  
-| bip_39_word_new_br3 | bleak<br>top<br>crisp |  
-| bip_39_word_new_br4 | bleak<br>top<br>crisp<br>slight |  
-| bip_39_word_new_br5 | bleak<br>top<br>crisp<br>slight<br>tooth |  
-| bip_39_word_new_br6 | bleak<br>top<br>crisp<br>slight<br>tooth<br>mosquito |  
-| bip_39_word_new_br7 | bleak<br>top<br>crisp<br>slight<br>tooth<br>mosquito<br>addict |  
-| bip_39_word_new_br8 | bleak<br>top<br>crisp<br>slight<br>tooth<br>mosquito<br>addict<br>glue |  
-| bip_39_word_new_br9 | bleak<br>top<br>crisp<br>slight<br>tooth<br>mosquito<br>addict<br>glue<br>work |  
-| bip_39_word_new_line1 | bleak |  
-| bip_39_word_new_line10 | bleak
+| bip_39_word_new_br_1 | bleak |  
+| bip_39_word_new_br_10 | bleak<br>top<br>crisp<br>slight<br>tooth<br>mosquito<br>addict<br>glue<br>work<br>reward |  
+| bip_39_word_new_br_11 | bleak<br>top<br>crisp<br>slight<br>tooth<br>mosquito<br>addict<br>glue<br>work<br>reward<br>retire |  
+| bip_39_word_new_br_12 | bleak<br>top<br>crisp<br>slight<br>tooth<br>mosquito<br>addict<br>glue<br>work<br>reward<br>retire<br>addict |  
+| bip_39_word_new_br_2 | bleak<br>top |  
+| bip_39_word_new_br_3 | bleak<br>top<br>crisp |  
+| bip_39_word_new_br_4 | bleak<br>top<br>crisp<br>slight |  
+| bip_39_word_new_br_5 | bleak<br>top<br>crisp<br>slight<br>tooth |  
+| bip_39_word_new_br_6 | bleak<br>top<br>crisp<br>slight<br>tooth<br>mosquito |  
+| bip_39_word_new_br_7 | bleak<br>top<br>crisp<br>slight<br>tooth<br>mosquito<br>addict |  
+| bip_39_word_new_br_8 | bleak<br>top<br>crisp<br>slight<br>tooth<br>mosquito<br>addict<br>glue |  
+| bip_39_word_new_br_9 | bleak<br>top<br>crisp<br>slight<br>tooth<br>mosquito<br>addict<br>glue<br>work |  
+| bip_39_word_new_line_1 | bleak |  
+| bip_39_word_new_line_10 | bleak
 top
 crisp
 slight
@@ -55,7 +55,7 @@ addict
 glue
 work
 reward |  
-| bip_39_word_new_line11 | bleak
+| bip_39_word_new_line_11 | bleak
 top
 crisp
 slight
@@ -66,7 +66,7 @@ glue
 work
 reward
 retire |  
-| bip_39_word_new_line12 | bleak
+| bip_39_word_new_line_12 | bleak
 top
 crisp
 slight
@@ -78,34 +78,34 @@ work
 reward
 retire
 addict |  
-| bip_39_word_new_line2 | bleak
+| bip_39_word_new_line_2 | bleak
 top |  
-| bip_39_word_new_line3 | bleak
+| bip_39_word_new_line_3 | bleak
 top
 crisp |  
-| bip_39_word_new_line4 | bleak
+| bip_39_word_new_line_4 | bleak
 top
 crisp
 slight |  
-| bip_39_word_new_line5 | bleak
+| bip_39_word_new_line_5 | bleak
 top
 crisp
 slight
 tooth |  
-| bip_39_word_new_line6 | bleak
+| bip_39_word_new_line_6 | bleak
 top
 crisp
 slight
 tooth
 mosquito |  
-| bip_39_word_new_line7 | bleak
+| bip_39_word_new_line_7 | bleak
 top
 crisp
 slight
 tooth
 mosquito
 addict |  
-| bip_39_word_new_line8 | bleak
+| bip_39_word_new_line_8 | bleak
 top
 crisp
 slight
@@ -113,7 +113,7 @@ tooth
 mosquito
 addict
 glue |  
-| bip_39_word_new_line9 | bleak
+| bip_39_word_new_line_9 | bleak
 top
 crisp
 slight

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | similar |  
-| bip_39_word_new_br10 | similar<br>wink<br>drift<br>finger<br>turtle<br>film<br>improve<br>alcohol<br>festival<br>truly |  
-| bip_39_word_new_br11 | similar<br>wink<br>drift<br>finger<br>turtle<br>film<br>improve<br>alcohol<br>festival<br>truly<br>pluck |  
-| bip_39_word_new_br12 | similar<br>wink<br>drift<br>finger<br>turtle<br>film<br>improve<br>alcohol<br>festival<br>truly<br>pluck<br>antenna |  
-| bip_39_word_new_br2 | similar<br>wink |  
-| bip_39_word_new_br3 | similar<br>wink<br>drift |  
-| bip_39_word_new_br4 | similar<br>wink<br>drift<br>finger |  
-| bip_39_word_new_br5 | similar<br>wink<br>drift<br>finger<br>turtle |  
-| bip_39_word_new_br6 | similar<br>wink<br>drift<br>finger<br>turtle<br>film |  
-| bip_39_word_new_br7 | similar<br>wink<br>drift<br>finger<br>turtle<br>film<br>improve |  
-| bip_39_word_new_br8 | similar<br>wink<br>drift<br>finger<br>turtle<br>film<br>improve<br>alcohol |  
-| bip_39_word_new_br9 | similar<br>wink<br>drift<br>finger<br>turtle<br>film<br>improve<br>alcohol<br>festival |  
-| bip_39_word_new_line1 | similar |  
-| bip_39_word_new_line10 | similar
+| bip_39_word_new_br_1 | similar |  
+| bip_39_word_new_br_10 | similar<br>wink<br>drift<br>finger<br>turtle<br>film<br>improve<br>alcohol<br>festival<br>truly |  
+| bip_39_word_new_br_11 | similar<br>wink<br>drift<br>finger<br>turtle<br>film<br>improve<br>alcohol<br>festival<br>truly<br>pluck |  
+| bip_39_word_new_br_12 | similar<br>wink<br>drift<br>finger<br>turtle<br>film<br>improve<br>alcohol<br>festival<br>truly<br>pluck<br>antenna |  
+| bip_39_word_new_br_2 | similar<br>wink |  
+| bip_39_word_new_br_3 | similar<br>wink<br>drift |  
+| bip_39_word_new_br_4 | similar<br>wink<br>drift<br>finger |  
+| bip_39_word_new_br_5 | similar<br>wink<br>drift<br>finger<br>turtle |  
+| bip_39_word_new_br_6 | similar<br>wink<br>drift<br>finger<br>turtle<br>film |  
+| bip_39_word_new_br_7 | similar<br>wink<br>drift<br>finger<br>turtle<br>film<br>improve |  
+| bip_39_word_new_br_8 | similar<br>wink<br>drift<br>finger<br>turtle<br>film<br>improve<br>alcohol |  
+| bip_39_word_new_br_9 | similar<br>wink<br>drift<br>finger<br>turtle<br>film<br>improve<br>alcohol<br>festival |  
+| bip_39_word_new_line_1 | similar |  
+| bip_39_word_new_line_10 | similar
 wink
 drift
 finger
@@ -55,7 +55,7 @@ improve
 alcohol
 festival
 truly |  
-| bip_39_word_new_line11 | similar
+| bip_39_word_new_line_11 | similar
 wink
 drift
 finger
@@ -66,7 +66,7 @@ alcohol
 festival
 truly
 pluck |  
-| bip_39_word_new_line12 | similar
+| bip_39_word_new_line_12 | similar
 wink
 drift
 finger
@@ -78,34 +78,34 @@ festival
 truly
 pluck
 antenna |  
-| bip_39_word_new_line2 | similar
+| bip_39_word_new_line_2 | similar
 wink |  
-| bip_39_word_new_line3 | similar
+| bip_39_word_new_line_3 | similar
 wink
 drift |  
-| bip_39_word_new_line4 | similar
+| bip_39_word_new_line_4 | similar
 wink
 drift
 finger |  
-| bip_39_word_new_line5 | similar
+| bip_39_word_new_line_5 | similar
 wink
 drift
 finger
 turtle |  
-| bip_39_word_new_line6 | similar
+| bip_39_word_new_line_6 | similar
 wink
 drift
 finger
 turtle
 film |  
-| bip_39_word_new_line7 | similar
+| bip_39_word_new_line_7 | similar
 wink
 drift
 finger
 turtle
 film
 improve |  
-| bip_39_word_new_line8 | similar
+| bip_39_word_new_line_8 | similar
 wink
 drift
 finger
@@ -113,7 +113,7 @@ turtle
 film
 improve
 alcohol |  
-| bip_39_word_new_line9 | similar
+| bip_39_word_new_line_9 | similar
 wink
 drift
 finger

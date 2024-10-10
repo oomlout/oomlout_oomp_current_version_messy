@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | major |  
-| bip_39_word_new_br10 | major<br>power<br>beauty<br>pyramid<br>language<br>eagle<br>staff<br>kind<br>path<br>like |  
-| bip_39_word_new_br11 | major<br>power<br>beauty<br>pyramid<br>language<br>eagle<br>staff<br>kind<br>path<br>like<br>track |  
-| bip_39_word_new_br12 | major<br>power<br>beauty<br>pyramid<br>language<br>eagle<br>staff<br>kind<br>path<br>like<br>track<br>anchor |  
-| bip_39_word_new_br2 | major<br>power |  
-| bip_39_word_new_br3 | major<br>power<br>beauty |  
-| bip_39_word_new_br4 | major<br>power<br>beauty<br>pyramid |  
-| bip_39_word_new_br5 | major<br>power<br>beauty<br>pyramid<br>language |  
-| bip_39_word_new_br6 | major<br>power<br>beauty<br>pyramid<br>language<br>eagle |  
-| bip_39_word_new_br7 | major<br>power<br>beauty<br>pyramid<br>language<br>eagle<br>staff |  
-| bip_39_word_new_br8 | major<br>power<br>beauty<br>pyramid<br>language<br>eagle<br>staff<br>kind |  
-| bip_39_word_new_br9 | major<br>power<br>beauty<br>pyramid<br>language<br>eagle<br>staff<br>kind<br>path |  
-| bip_39_word_new_line1 | major |  
-| bip_39_word_new_line10 | major
+| bip_39_word_new_br_1 | major |  
+| bip_39_word_new_br_10 | major<br>power<br>beauty<br>pyramid<br>language<br>eagle<br>staff<br>kind<br>path<br>like |  
+| bip_39_word_new_br_11 | major<br>power<br>beauty<br>pyramid<br>language<br>eagle<br>staff<br>kind<br>path<br>like<br>track |  
+| bip_39_word_new_br_12 | major<br>power<br>beauty<br>pyramid<br>language<br>eagle<br>staff<br>kind<br>path<br>like<br>track<br>anchor |  
+| bip_39_word_new_br_2 | major<br>power |  
+| bip_39_word_new_br_3 | major<br>power<br>beauty |  
+| bip_39_word_new_br_4 | major<br>power<br>beauty<br>pyramid |  
+| bip_39_word_new_br_5 | major<br>power<br>beauty<br>pyramid<br>language |  
+| bip_39_word_new_br_6 | major<br>power<br>beauty<br>pyramid<br>language<br>eagle |  
+| bip_39_word_new_br_7 | major<br>power<br>beauty<br>pyramid<br>language<br>eagle<br>staff |  
+| bip_39_word_new_br_8 | major<br>power<br>beauty<br>pyramid<br>language<br>eagle<br>staff<br>kind |  
+| bip_39_word_new_br_9 | major<br>power<br>beauty<br>pyramid<br>language<br>eagle<br>staff<br>kind<br>path |  
+| bip_39_word_new_line_1 | major |  
+| bip_39_word_new_line_10 | major
 power
 beauty
 pyramid
@@ -55,7 +55,7 @@ staff
 kind
 path
 like |  
-| bip_39_word_new_line11 | major
+| bip_39_word_new_line_11 | major
 power
 beauty
 pyramid
@@ -66,7 +66,7 @@ kind
 path
 like
 track |  
-| bip_39_word_new_line12 | major
+| bip_39_word_new_line_12 | major
 power
 beauty
 pyramid
@@ -78,34 +78,34 @@ path
 like
 track
 anchor |  
-| bip_39_word_new_line2 | major
+| bip_39_word_new_line_2 | major
 power |  
-| bip_39_word_new_line3 | major
+| bip_39_word_new_line_3 | major
 power
 beauty |  
-| bip_39_word_new_line4 | major
+| bip_39_word_new_line_4 | major
 power
 beauty
 pyramid |  
-| bip_39_word_new_line5 | major
+| bip_39_word_new_line_5 | major
 power
 beauty
 pyramid
 language |  
-| bip_39_word_new_line6 | major
+| bip_39_word_new_line_6 | major
 power
 beauty
 pyramid
 language
 eagle |  
-| bip_39_word_new_line7 | major
+| bip_39_word_new_line_7 | major
 power
 beauty
 pyramid
 language
 eagle
 staff |  
-| bip_39_word_new_line8 | major
+| bip_39_word_new_line_8 | major
 power
 beauty
 pyramid
@@ -113,7 +113,7 @@ language
 eagle
 staff
 kind |  
-| bip_39_word_new_line9 | major
+| bip_39_word_new_line_9 | major
 power
 beauty
 pyramid

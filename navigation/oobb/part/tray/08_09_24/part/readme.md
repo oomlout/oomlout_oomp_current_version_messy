@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rotate |  
-| bip_39_word_new_br10 | rotate<br>bulk<br>expire<br>notable<br>clinic<br>waste<br>bubble<br>own<br>acquire<br>person |  
-| bip_39_word_new_br11 | rotate<br>bulk<br>expire<br>notable<br>clinic<br>waste<br>bubble<br>own<br>acquire<br>person<br>lady |  
-| bip_39_word_new_br12 | rotate<br>bulk<br>expire<br>notable<br>clinic<br>waste<br>bubble<br>own<br>acquire<br>person<br>lady<br>asset |  
-| bip_39_word_new_br2 | rotate<br>bulk |  
-| bip_39_word_new_br3 | rotate<br>bulk<br>expire |  
-| bip_39_word_new_br4 | rotate<br>bulk<br>expire<br>notable |  
-| bip_39_word_new_br5 | rotate<br>bulk<br>expire<br>notable<br>clinic |  
-| bip_39_word_new_br6 | rotate<br>bulk<br>expire<br>notable<br>clinic<br>waste |  
-| bip_39_word_new_br7 | rotate<br>bulk<br>expire<br>notable<br>clinic<br>waste<br>bubble |  
-| bip_39_word_new_br8 | rotate<br>bulk<br>expire<br>notable<br>clinic<br>waste<br>bubble<br>own |  
-| bip_39_word_new_br9 | rotate<br>bulk<br>expire<br>notable<br>clinic<br>waste<br>bubble<br>own<br>acquire |  
-| bip_39_word_new_line1 | rotate |  
-| bip_39_word_new_line10 | rotate
+| bip_39_word_new_br_1 | rotate |  
+| bip_39_word_new_br_10 | rotate<br>bulk<br>expire<br>notable<br>clinic<br>waste<br>bubble<br>own<br>acquire<br>person |  
+| bip_39_word_new_br_11 | rotate<br>bulk<br>expire<br>notable<br>clinic<br>waste<br>bubble<br>own<br>acquire<br>person<br>lady |  
+| bip_39_word_new_br_12 | rotate<br>bulk<br>expire<br>notable<br>clinic<br>waste<br>bubble<br>own<br>acquire<br>person<br>lady<br>asset |  
+| bip_39_word_new_br_2 | rotate<br>bulk |  
+| bip_39_word_new_br_3 | rotate<br>bulk<br>expire |  
+| bip_39_word_new_br_4 | rotate<br>bulk<br>expire<br>notable |  
+| bip_39_word_new_br_5 | rotate<br>bulk<br>expire<br>notable<br>clinic |  
+| bip_39_word_new_br_6 | rotate<br>bulk<br>expire<br>notable<br>clinic<br>waste |  
+| bip_39_word_new_br_7 | rotate<br>bulk<br>expire<br>notable<br>clinic<br>waste<br>bubble |  
+| bip_39_word_new_br_8 | rotate<br>bulk<br>expire<br>notable<br>clinic<br>waste<br>bubble<br>own |  
+| bip_39_word_new_br_9 | rotate<br>bulk<br>expire<br>notable<br>clinic<br>waste<br>bubble<br>own<br>acquire |  
+| bip_39_word_new_line_1 | rotate |  
+| bip_39_word_new_line_10 | rotate
 bulk
 expire
 notable
@@ -55,7 +55,7 @@ bubble
 own
 acquire
 person |  
-| bip_39_word_new_line11 | rotate
+| bip_39_word_new_line_11 | rotate
 bulk
 expire
 notable
@@ -66,7 +66,7 @@ own
 acquire
 person
 lady |  
-| bip_39_word_new_line12 | rotate
+| bip_39_word_new_line_12 | rotate
 bulk
 expire
 notable
@@ -78,34 +78,34 @@ acquire
 person
 lady
 asset |  
-| bip_39_word_new_line2 | rotate
+| bip_39_word_new_line_2 | rotate
 bulk |  
-| bip_39_word_new_line3 | rotate
+| bip_39_word_new_line_3 | rotate
 bulk
 expire |  
-| bip_39_word_new_line4 | rotate
+| bip_39_word_new_line_4 | rotate
 bulk
 expire
 notable |  
-| bip_39_word_new_line5 | rotate
+| bip_39_word_new_line_5 | rotate
 bulk
 expire
 notable
 clinic |  
-| bip_39_word_new_line6 | rotate
+| bip_39_word_new_line_6 | rotate
 bulk
 expire
 notable
 clinic
 waste |  
-| bip_39_word_new_line7 | rotate
+| bip_39_word_new_line_7 | rotate
 bulk
 expire
 notable
 clinic
 waste
 bubble |  
-| bip_39_word_new_line8 | rotate
+| bip_39_word_new_line_8 | rotate
 bulk
 expire
 notable
@@ -113,7 +113,7 @@ clinic
 waste
 bubble
 own |  
-| bip_39_word_new_line9 | rotate
+| bip_39_word_new_line_9 | rotate
 bulk
 expire
 notable

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | force |  
-| bip_39_word_new_br10 | force<br>school<br>property<br>flag<br>above<br>token<br>detect<br>dizzy<br>strike<br>sock |  
-| bip_39_word_new_br11 | force<br>school<br>property<br>flag<br>above<br>token<br>detect<br>dizzy<br>strike<br>sock<br>arch |  
-| bip_39_word_new_br12 | force<br>school<br>property<br>flag<br>above<br>token<br>detect<br>dizzy<br>strike<br>sock<br>arch<br>artist |  
-| bip_39_word_new_br2 | force<br>school |  
-| bip_39_word_new_br3 | force<br>school<br>property |  
-| bip_39_word_new_br4 | force<br>school<br>property<br>flag |  
-| bip_39_word_new_br5 | force<br>school<br>property<br>flag<br>above |  
-| bip_39_word_new_br6 | force<br>school<br>property<br>flag<br>above<br>token |  
-| bip_39_word_new_br7 | force<br>school<br>property<br>flag<br>above<br>token<br>detect |  
-| bip_39_word_new_br8 | force<br>school<br>property<br>flag<br>above<br>token<br>detect<br>dizzy |  
-| bip_39_word_new_br9 | force<br>school<br>property<br>flag<br>above<br>token<br>detect<br>dizzy<br>strike |  
-| bip_39_word_new_line1 | force |  
-| bip_39_word_new_line10 | force
+| bip_39_word_new_br_1 | force |  
+| bip_39_word_new_br_10 | force<br>school<br>property<br>flag<br>above<br>token<br>detect<br>dizzy<br>strike<br>sock |  
+| bip_39_word_new_br_11 | force<br>school<br>property<br>flag<br>above<br>token<br>detect<br>dizzy<br>strike<br>sock<br>arch |  
+| bip_39_word_new_br_12 | force<br>school<br>property<br>flag<br>above<br>token<br>detect<br>dizzy<br>strike<br>sock<br>arch<br>artist |  
+| bip_39_word_new_br_2 | force<br>school |  
+| bip_39_word_new_br_3 | force<br>school<br>property |  
+| bip_39_word_new_br_4 | force<br>school<br>property<br>flag |  
+| bip_39_word_new_br_5 | force<br>school<br>property<br>flag<br>above |  
+| bip_39_word_new_br_6 | force<br>school<br>property<br>flag<br>above<br>token |  
+| bip_39_word_new_br_7 | force<br>school<br>property<br>flag<br>above<br>token<br>detect |  
+| bip_39_word_new_br_8 | force<br>school<br>property<br>flag<br>above<br>token<br>detect<br>dizzy |  
+| bip_39_word_new_br_9 | force<br>school<br>property<br>flag<br>above<br>token<br>detect<br>dizzy<br>strike |  
+| bip_39_word_new_line_1 | force |  
+| bip_39_word_new_line_10 | force
 school
 property
 flag
@@ -55,7 +55,7 @@ detect
 dizzy
 strike
 sock |  
-| bip_39_word_new_line11 | force
+| bip_39_word_new_line_11 | force
 school
 property
 flag
@@ -66,7 +66,7 @@ dizzy
 strike
 sock
 arch |  
-| bip_39_word_new_line12 | force
+| bip_39_word_new_line_12 | force
 school
 property
 flag
@@ -78,34 +78,34 @@ strike
 sock
 arch
 artist |  
-| bip_39_word_new_line2 | force
+| bip_39_word_new_line_2 | force
 school |  
-| bip_39_word_new_line3 | force
+| bip_39_word_new_line_3 | force
 school
 property |  
-| bip_39_word_new_line4 | force
+| bip_39_word_new_line_4 | force
 school
 property
 flag |  
-| bip_39_word_new_line5 | force
+| bip_39_word_new_line_5 | force
 school
 property
 flag
 above |  
-| bip_39_word_new_line6 | force
+| bip_39_word_new_line_6 | force
 school
 property
 flag
 above
 token |  
-| bip_39_word_new_line7 | force
+| bip_39_word_new_line_7 | force
 school
 property
 flag
 above
 token
 detect |  
-| bip_39_word_new_line8 | force
+| bip_39_word_new_line_8 | force
 school
 property
 flag
@@ -113,7 +113,7 @@ above
 token
 detect
 dizzy |  
-| bip_39_word_new_line9 | force
+| bip_39_word_new_line_9 | force
 school
 property
 flag

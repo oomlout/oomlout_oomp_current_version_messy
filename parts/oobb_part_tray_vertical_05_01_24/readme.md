@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | famous |  
-| bip_39_word_new_br10 | famous<br>wide<br>chest<br>cart<br>athlete<br>speak<br>aunt<br>insect<br>match<br>omit |  
-| bip_39_word_new_br11 | famous<br>wide<br>chest<br>cart<br>athlete<br>speak<br>aunt<br>insect<br>match<br>omit<br>goose |  
-| bip_39_word_new_br12 | famous<br>wide<br>chest<br>cart<br>athlete<br>speak<br>aunt<br>insect<br>match<br>omit<br>goose<br>actress |  
-| bip_39_word_new_br2 | famous<br>wide |  
-| bip_39_word_new_br3 | famous<br>wide<br>chest |  
-| bip_39_word_new_br4 | famous<br>wide<br>chest<br>cart |  
-| bip_39_word_new_br5 | famous<br>wide<br>chest<br>cart<br>athlete |  
-| bip_39_word_new_br6 | famous<br>wide<br>chest<br>cart<br>athlete<br>speak |  
-| bip_39_word_new_br7 | famous<br>wide<br>chest<br>cart<br>athlete<br>speak<br>aunt |  
-| bip_39_word_new_br8 | famous<br>wide<br>chest<br>cart<br>athlete<br>speak<br>aunt<br>insect |  
-| bip_39_word_new_br9 | famous<br>wide<br>chest<br>cart<br>athlete<br>speak<br>aunt<br>insect<br>match |  
-| bip_39_word_new_line1 | famous |  
-| bip_39_word_new_line10 | famous
+| bip_39_word_new_br_1 | famous |  
+| bip_39_word_new_br_10 | famous<br>wide<br>chest<br>cart<br>athlete<br>speak<br>aunt<br>insect<br>match<br>omit |  
+| bip_39_word_new_br_11 | famous<br>wide<br>chest<br>cart<br>athlete<br>speak<br>aunt<br>insect<br>match<br>omit<br>goose |  
+| bip_39_word_new_br_12 | famous<br>wide<br>chest<br>cart<br>athlete<br>speak<br>aunt<br>insect<br>match<br>omit<br>goose<br>actress |  
+| bip_39_word_new_br_2 | famous<br>wide |  
+| bip_39_word_new_br_3 | famous<br>wide<br>chest |  
+| bip_39_word_new_br_4 | famous<br>wide<br>chest<br>cart |  
+| bip_39_word_new_br_5 | famous<br>wide<br>chest<br>cart<br>athlete |  
+| bip_39_word_new_br_6 | famous<br>wide<br>chest<br>cart<br>athlete<br>speak |  
+| bip_39_word_new_br_7 | famous<br>wide<br>chest<br>cart<br>athlete<br>speak<br>aunt |  
+| bip_39_word_new_br_8 | famous<br>wide<br>chest<br>cart<br>athlete<br>speak<br>aunt<br>insect |  
+| bip_39_word_new_br_9 | famous<br>wide<br>chest<br>cart<br>athlete<br>speak<br>aunt<br>insect<br>match |  
+| bip_39_word_new_line_1 | famous |  
+| bip_39_word_new_line_10 | famous
 wide
 chest
 cart
@@ -55,7 +55,7 @@ aunt
 insect
 match
 omit |  
-| bip_39_word_new_line11 | famous
+| bip_39_word_new_line_11 | famous
 wide
 chest
 cart
@@ -66,7 +66,7 @@ insect
 match
 omit
 goose |  
-| bip_39_word_new_line12 | famous
+| bip_39_word_new_line_12 | famous
 wide
 chest
 cart
@@ -78,34 +78,34 @@ match
 omit
 goose
 actress |  
-| bip_39_word_new_line2 | famous
+| bip_39_word_new_line_2 | famous
 wide |  
-| bip_39_word_new_line3 | famous
+| bip_39_word_new_line_3 | famous
 wide
 chest |  
-| bip_39_word_new_line4 | famous
+| bip_39_word_new_line_4 | famous
 wide
 chest
 cart |  
-| bip_39_word_new_line5 | famous
+| bip_39_word_new_line_5 | famous
 wide
 chest
 cart
 athlete |  
-| bip_39_word_new_line6 | famous
+| bip_39_word_new_line_6 | famous
 wide
 chest
 cart
 athlete
 speak |  
-| bip_39_word_new_line7 | famous
+| bip_39_word_new_line_7 | famous
 wide
 chest
 cart
 athlete
 speak
 aunt |  
-| bip_39_word_new_line8 | famous
+| bip_39_word_new_line_8 | famous
 wide
 chest
 cart
@@ -113,7 +113,7 @@ athlete
 speak
 aunt
 insect |  
-| bip_39_word_new_line9 | famous
+| bip_39_word_new_line_9 | famous
 wide
 chest
 cart

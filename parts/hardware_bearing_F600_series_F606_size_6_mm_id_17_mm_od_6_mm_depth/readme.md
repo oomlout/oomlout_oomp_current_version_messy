@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | captain |  
-| bip_39_word_new_br10 | captain<br>try<br>wait<br>minimum<br>rely<br>return<br>zebra<br>argue<br>dirt<br>night |  
-| bip_39_word_new_br11 | captain<br>try<br>wait<br>minimum<br>rely<br>return<br>zebra<br>argue<br>dirt<br>night<br>skull |  
-| bip_39_word_new_br12 | captain<br>try<br>wait<br>minimum<br>rely<br>return<br>zebra<br>argue<br>dirt<br>night<br>skull<br>avocado |  
-| bip_39_word_new_br2 | captain<br>try |  
-| bip_39_word_new_br3 | captain<br>try<br>wait |  
-| bip_39_word_new_br4 | captain<br>try<br>wait<br>minimum |  
-| bip_39_word_new_br5 | captain<br>try<br>wait<br>minimum<br>rely |  
-| bip_39_word_new_br6 | captain<br>try<br>wait<br>minimum<br>rely<br>return |  
-| bip_39_word_new_br7 | captain<br>try<br>wait<br>minimum<br>rely<br>return<br>zebra |  
-| bip_39_word_new_br8 | captain<br>try<br>wait<br>minimum<br>rely<br>return<br>zebra<br>argue |  
-| bip_39_word_new_br9 | captain<br>try<br>wait<br>minimum<br>rely<br>return<br>zebra<br>argue<br>dirt |  
-| bip_39_word_new_line1 | captain |  
-| bip_39_word_new_line10 | captain
+| bip_39_word_new_br_1 | captain |  
+| bip_39_word_new_br_10 | captain<br>try<br>wait<br>minimum<br>rely<br>return<br>zebra<br>argue<br>dirt<br>night |  
+| bip_39_word_new_br_11 | captain<br>try<br>wait<br>minimum<br>rely<br>return<br>zebra<br>argue<br>dirt<br>night<br>skull |  
+| bip_39_word_new_br_12 | captain<br>try<br>wait<br>minimum<br>rely<br>return<br>zebra<br>argue<br>dirt<br>night<br>skull<br>avocado |  
+| bip_39_word_new_br_2 | captain<br>try |  
+| bip_39_word_new_br_3 | captain<br>try<br>wait |  
+| bip_39_word_new_br_4 | captain<br>try<br>wait<br>minimum |  
+| bip_39_word_new_br_5 | captain<br>try<br>wait<br>minimum<br>rely |  
+| bip_39_word_new_br_6 | captain<br>try<br>wait<br>minimum<br>rely<br>return |  
+| bip_39_word_new_br_7 | captain<br>try<br>wait<br>minimum<br>rely<br>return<br>zebra |  
+| bip_39_word_new_br_8 | captain<br>try<br>wait<br>minimum<br>rely<br>return<br>zebra<br>argue |  
+| bip_39_word_new_br_9 | captain<br>try<br>wait<br>minimum<br>rely<br>return<br>zebra<br>argue<br>dirt |  
+| bip_39_word_new_line_1 | captain |  
+| bip_39_word_new_line_10 | captain
 try
 wait
 minimum
@@ -55,7 +55,7 @@ zebra
 argue
 dirt
 night |  
-| bip_39_word_new_line11 | captain
+| bip_39_word_new_line_11 | captain
 try
 wait
 minimum
@@ -66,7 +66,7 @@ argue
 dirt
 night
 skull |  
-| bip_39_word_new_line12 | captain
+| bip_39_word_new_line_12 | captain
 try
 wait
 minimum
@@ -78,34 +78,34 @@ dirt
 night
 skull
 avocado |  
-| bip_39_word_new_line2 | captain
+| bip_39_word_new_line_2 | captain
 try |  
-| bip_39_word_new_line3 | captain
+| bip_39_word_new_line_3 | captain
 try
 wait |  
-| bip_39_word_new_line4 | captain
+| bip_39_word_new_line_4 | captain
 try
 wait
 minimum |  
-| bip_39_word_new_line5 | captain
+| bip_39_word_new_line_5 | captain
 try
 wait
 minimum
 rely |  
-| bip_39_word_new_line6 | captain
+| bip_39_word_new_line_6 | captain
 try
 wait
 minimum
 rely
 return |  
-| bip_39_word_new_line7 | captain
+| bip_39_word_new_line_7 | captain
 try
 wait
 minimum
 rely
 return
 zebra |  
-| bip_39_word_new_line8 | captain
+| bip_39_word_new_line_8 | captain
 try
 wait
 minimum
@@ -113,7 +113,7 @@ rely
 return
 zebra
 argue |  
-| bip_39_word_new_line9 | captain
+| bip_39_word_new_line_9 | captain
 try
 wait
 minimum

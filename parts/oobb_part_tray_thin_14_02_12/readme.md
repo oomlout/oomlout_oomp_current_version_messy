@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | flavor |  
-| bip_39_word_new_br10 | flavor<br>begin<br>alone<br>clock<br>key<br>hunt<br>observe<br>fit<br>velvet<br>mule |  
-| bip_39_word_new_br11 | flavor<br>begin<br>alone<br>clock<br>key<br>hunt<br>observe<br>fit<br>velvet<br>mule<br>ice |  
-| bip_39_word_new_br12 | flavor<br>begin<br>alone<br>clock<br>key<br>hunt<br>observe<br>fit<br>velvet<br>mule<br>ice<br>also |  
-| bip_39_word_new_br2 | flavor<br>begin |  
-| bip_39_word_new_br3 | flavor<br>begin<br>alone |  
-| bip_39_word_new_br4 | flavor<br>begin<br>alone<br>clock |  
-| bip_39_word_new_br5 | flavor<br>begin<br>alone<br>clock<br>key |  
-| bip_39_word_new_br6 | flavor<br>begin<br>alone<br>clock<br>key<br>hunt |  
-| bip_39_word_new_br7 | flavor<br>begin<br>alone<br>clock<br>key<br>hunt<br>observe |  
-| bip_39_word_new_br8 | flavor<br>begin<br>alone<br>clock<br>key<br>hunt<br>observe<br>fit |  
-| bip_39_word_new_br9 | flavor<br>begin<br>alone<br>clock<br>key<br>hunt<br>observe<br>fit<br>velvet |  
-| bip_39_word_new_line1 | flavor |  
-| bip_39_word_new_line10 | flavor
+| bip_39_word_new_br_1 | flavor |  
+| bip_39_word_new_br_10 | flavor<br>begin<br>alone<br>clock<br>key<br>hunt<br>observe<br>fit<br>velvet<br>mule |  
+| bip_39_word_new_br_11 | flavor<br>begin<br>alone<br>clock<br>key<br>hunt<br>observe<br>fit<br>velvet<br>mule<br>ice |  
+| bip_39_word_new_br_12 | flavor<br>begin<br>alone<br>clock<br>key<br>hunt<br>observe<br>fit<br>velvet<br>mule<br>ice<br>also |  
+| bip_39_word_new_br_2 | flavor<br>begin |  
+| bip_39_word_new_br_3 | flavor<br>begin<br>alone |  
+| bip_39_word_new_br_4 | flavor<br>begin<br>alone<br>clock |  
+| bip_39_word_new_br_5 | flavor<br>begin<br>alone<br>clock<br>key |  
+| bip_39_word_new_br_6 | flavor<br>begin<br>alone<br>clock<br>key<br>hunt |  
+| bip_39_word_new_br_7 | flavor<br>begin<br>alone<br>clock<br>key<br>hunt<br>observe |  
+| bip_39_word_new_br_8 | flavor<br>begin<br>alone<br>clock<br>key<br>hunt<br>observe<br>fit |  
+| bip_39_word_new_br_9 | flavor<br>begin<br>alone<br>clock<br>key<br>hunt<br>observe<br>fit<br>velvet |  
+| bip_39_word_new_line_1 | flavor |  
+| bip_39_word_new_line_10 | flavor
 begin
 alone
 clock
@@ -55,7 +55,7 @@ observe
 fit
 velvet
 mule |  
-| bip_39_word_new_line11 | flavor
+| bip_39_word_new_line_11 | flavor
 begin
 alone
 clock
@@ -66,7 +66,7 @@ fit
 velvet
 mule
 ice |  
-| bip_39_word_new_line12 | flavor
+| bip_39_word_new_line_12 | flavor
 begin
 alone
 clock
@@ -78,34 +78,34 @@ velvet
 mule
 ice
 also |  
-| bip_39_word_new_line2 | flavor
+| bip_39_word_new_line_2 | flavor
 begin |  
-| bip_39_word_new_line3 | flavor
+| bip_39_word_new_line_3 | flavor
 begin
 alone |  
-| bip_39_word_new_line4 | flavor
+| bip_39_word_new_line_4 | flavor
 begin
 alone
 clock |  
-| bip_39_word_new_line5 | flavor
+| bip_39_word_new_line_5 | flavor
 begin
 alone
 clock
 key |  
-| bip_39_word_new_line6 | flavor
+| bip_39_word_new_line_6 | flavor
 begin
 alone
 clock
 key
 hunt |  
-| bip_39_word_new_line7 | flavor
+| bip_39_word_new_line_7 | flavor
 begin
 alone
 clock
 key
 hunt
 observe |  
-| bip_39_word_new_line8 | flavor
+| bip_39_word_new_line_8 | flavor
 begin
 alone
 clock
@@ -113,7 +113,7 @@ key
 hunt
 observe
 fit |  
-| bip_39_word_new_line9 | flavor
+| bip_39_word_new_line_9 | flavor
 begin
 alone
 clock

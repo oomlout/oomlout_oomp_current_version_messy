@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | solution |  
-| bip_39_word_new_br10 | solution<br>winner<br>labor<br>profit<br>over<br>seed<br>crouch<br>sponsor<br>tuna<br>embrace |  
-| bip_39_word_new_br11 | solution<br>winner<br>labor<br>profit<br>over<br>seed<br>crouch<br>sponsor<br>tuna<br>embrace<br>discover |  
-| bip_39_word_new_br12 | solution<br>winner<br>labor<br>profit<br>over<br>seed<br>crouch<br>sponsor<br>tuna<br>embrace<br>discover<br>athlete |  
-| bip_39_word_new_br2 | solution<br>winner |  
-| bip_39_word_new_br3 | solution<br>winner<br>labor |  
-| bip_39_word_new_br4 | solution<br>winner<br>labor<br>profit |  
-| bip_39_word_new_br5 | solution<br>winner<br>labor<br>profit<br>over |  
-| bip_39_word_new_br6 | solution<br>winner<br>labor<br>profit<br>over<br>seed |  
-| bip_39_word_new_br7 | solution<br>winner<br>labor<br>profit<br>over<br>seed<br>crouch |  
-| bip_39_word_new_br8 | solution<br>winner<br>labor<br>profit<br>over<br>seed<br>crouch<br>sponsor |  
-| bip_39_word_new_br9 | solution<br>winner<br>labor<br>profit<br>over<br>seed<br>crouch<br>sponsor<br>tuna |  
-| bip_39_word_new_line1 | solution |  
-| bip_39_word_new_line10 | solution
+| bip_39_word_new_br_1 | solution |  
+| bip_39_word_new_br_10 | solution<br>winner<br>labor<br>profit<br>over<br>seed<br>crouch<br>sponsor<br>tuna<br>embrace |  
+| bip_39_word_new_br_11 | solution<br>winner<br>labor<br>profit<br>over<br>seed<br>crouch<br>sponsor<br>tuna<br>embrace<br>discover |  
+| bip_39_word_new_br_12 | solution<br>winner<br>labor<br>profit<br>over<br>seed<br>crouch<br>sponsor<br>tuna<br>embrace<br>discover<br>athlete |  
+| bip_39_word_new_br_2 | solution<br>winner |  
+| bip_39_word_new_br_3 | solution<br>winner<br>labor |  
+| bip_39_word_new_br_4 | solution<br>winner<br>labor<br>profit |  
+| bip_39_word_new_br_5 | solution<br>winner<br>labor<br>profit<br>over |  
+| bip_39_word_new_br_6 | solution<br>winner<br>labor<br>profit<br>over<br>seed |  
+| bip_39_word_new_br_7 | solution<br>winner<br>labor<br>profit<br>over<br>seed<br>crouch |  
+| bip_39_word_new_br_8 | solution<br>winner<br>labor<br>profit<br>over<br>seed<br>crouch<br>sponsor |  
+| bip_39_word_new_br_9 | solution<br>winner<br>labor<br>profit<br>over<br>seed<br>crouch<br>sponsor<br>tuna |  
+| bip_39_word_new_line_1 | solution |  
+| bip_39_word_new_line_10 | solution
 winner
 labor
 profit
@@ -55,7 +55,7 @@ crouch
 sponsor
 tuna
 embrace |  
-| bip_39_word_new_line11 | solution
+| bip_39_word_new_line_11 | solution
 winner
 labor
 profit
@@ -66,7 +66,7 @@ sponsor
 tuna
 embrace
 discover |  
-| bip_39_word_new_line12 | solution
+| bip_39_word_new_line_12 | solution
 winner
 labor
 profit
@@ -78,34 +78,34 @@ tuna
 embrace
 discover
 athlete |  
-| bip_39_word_new_line2 | solution
+| bip_39_word_new_line_2 | solution
 winner |  
-| bip_39_word_new_line3 | solution
+| bip_39_word_new_line_3 | solution
 winner
 labor |  
-| bip_39_word_new_line4 | solution
+| bip_39_word_new_line_4 | solution
 winner
 labor
 profit |  
-| bip_39_word_new_line5 | solution
+| bip_39_word_new_line_5 | solution
 winner
 labor
 profit
 over |  
-| bip_39_word_new_line6 | solution
+| bip_39_word_new_line_6 | solution
 winner
 labor
 profit
 over
 seed |  
-| bip_39_word_new_line7 | solution
+| bip_39_word_new_line_7 | solution
 winner
 labor
 profit
 over
 seed
 crouch |  
-| bip_39_word_new_line8 | solution
+| bip_39_word_new_line_8 | solution
 winner
 labor
 profit
@@ -113,7 +113,7 @@ over
 seed
 crouch
 sponsor |  
-| bip_39_word_new_line9 | solution
+| bip_39_word_new_line_9 | solution
 winner
 labor
 profit

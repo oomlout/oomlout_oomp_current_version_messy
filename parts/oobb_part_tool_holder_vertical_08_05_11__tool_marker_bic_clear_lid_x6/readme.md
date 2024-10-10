@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | next |  
-| bip_39_word_new_br10 | next<br>behind<br>result<br>jar<br>whip<br>inflict<br>place<br>stuff<br>dilemma<br>assume |  
-| bip_39_word_new_br11 | next<br>behind<br>result<br>jar<br>whip<br>inflict<br>place<br>stuff<br>dilemma<br>assume<br>atom |  
-| bip_39_word_new_br12 | next<br>behind<br>result<br>jar<br>whip<br>inflict<br>place<br>stuff<br>dilemma<br>assume<br>atom<br>account |  
-| bip_39_word_new_br2 | next<br>behind |  
-| bip_39_word_new_br3 | next<br>behind<br>result |  
-| bip_39_word_new_br4 | next<br>behind<br>result<br>jar |  
-| bip_39_word_new_br5 | next<br>behind<br>result<br>jar<br>whip |  
-| bip_39_word_new_br6 | next<br>behind<br>result<br>jar<br>whip<br>inflict |  
-| bip_39_word_new_br7 | next<br>behind<br>result<br>jar<br>whip<br>inflict<br>place |  
-| bip_39_word_new_br8 | next<br>behind<br>result<br>jar<br>whip<br>inflict<br>place<br>stuff |  
-| bip_39_word_new_br9 | next<br>behind<br>result<br>jar<br>whip<br>inflict<br>place<br>stuff<br>dilemma |  
-| bip_39_word_new_line1 | next |  
-| bip_39_word_new_line10 | next
+| bip_39_word_new_br_1 | next |  
+| bip_39_word_new_br_10 | next<br>behind<br>result<br>jar<br>whip<br>inflict<br>place<br>stuff<br>dilemma<br>assume |  
+| bip_39_word_new_br_11 | next<br>behind<br>result<br>jar<br>whip<br>inflict<br>place<br>stuff<br>dilemma<br>assume<br>atom |  
+| bip_39_word_new_br_12 | next<br>behind<br>result<br>jar<br>whip<br>inflict<br>place<br>stuff<br>dilemma<br>assume<br>atom<br>account |  
+| bip_39_word_new_br_2 | next<br>behind |  
+| bip_39_word_new_br_3 | next<br>behind<br>result |  
+| bip_39_word_new_br_4 | next<br>behind<br>result<br>jar |  
+| bip_39_word_new_br_5 | next<br>behind<br>result<br>jar<br>whip |  
+| bip_39_word_new_br_6 | next<br>behind<br>result<br>jar<br>whip<br>inflict |  
+| bip_39_word_new_br_7 | next<br>behind<br>result<br>jar<br>whip<br>inflict<br>place |  
+| bip_39_word_new_br_8 | next<br>behind<br>result<br>jar<br>whip<br>inflict<br>place<br>stuff |  
+| bip_39_word_new_br_9 | next<br>behind<br>result<br>jar<br>whip<br>inflict<br>place<br>stuff<br>dilemma |  
+| bip_39_word_new_line_1 | next |  
+| bip_39_word_new_line_10 | next
 behind
 result
 jar
@@ -55,7 +55,7 @@ place
 stuff
 dilemma
 assume |  
-| bip_39_word_new_line11 | next
+| bip_39_word_new_line_11 | next
 behind
 result
 jar
@@ -66,7 +66,7 @@ stuff
 dilemma
 assume
 atom |  
-| bip_39_word_new_line12 | next
+| bip_39_word_new_line_12 | next
 behind
 result
 jar
@@ -78,34 +78,34 @@ dilemma
 assume
 atom
 account |  
-| bip_39_word_new_line2 | next
+| bip_39_word_new_line_2 | next
 behind |  
-| bip_39_word_new_line3 | next
+| bip_39_word_new_line_3 | next
 behind
 result |  
-| bip_39_word_new_line4 | next
+| bip_39_word_new_line_4 | next
 behind
 result
 jar |  
-| bip_39_word_new_line5 | next
+| bip_39_word_new_line_5 | next
 behind
 result
 jar
 whip |  
-| bip_39_word_new_line6 | next
+| bip_39_word_new_line_6 | next
 behind
 result
 jar
 whip
 inflict |  
-| bip_39_word_new_line7 | next
+| bip_39_word_new_line_7 | next
 behind
 result
 jar
 whip
 inflict
 place |  
-| bip_39_word_new_line8 | next
+| bip_39_word_new_line_8 | next
 behind
 result
 jar
@@ -113,7 +113,7 @@ whip
 inflict
 place
 stuff |  
-| bip_39_word_new_line9 | next
+| bip_39_word_new_line_9 | next
 behind
 result
 jar

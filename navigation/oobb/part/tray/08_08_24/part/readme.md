@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rally |  
-| bip_39_word_new_br10 | rally<br>loud<br>wash<br>bacon<br>lecture<br>spell<br>omit<br>laundry<br>damage<br>champion |  
-| bip_39_word_new_br11 | rally<br>loud<br>wash<br>bacon<br>lecture<br>spell<br>omit<br>laundry<br>damage<br>champion<br>figure |  
-| bip_39_word_new_br12 | rally<br>loud<br>wash<br>bacon<br>lecture<br>spell<br>omit<br>laundry<br>damage<br>champion<br>figure<br>ankle |  
-| bip_39_word_new_br2 | rally<br>loud |  
-| bip_39_word_new_br3 | rally<br>loud<br>wash |  
-| bip_39_word_new_br4 | rally<br>loud<br>wash<br>bacon |  
-| bip_39_word_new_br5 | rally<br>loud<br>wash<br>bacon<br>lecture |  
-| bip_39_word_new_br6 | rally<br>loud<br>wash<br>bacon<br>lecture<br>spell |  
-| bip_39_word_new_br7 | rally<br>loud<br>wash<br>bacon<br>lecture<br>spell<br>omit |  
-| bip_39_word_new_br8 | rally<br>loud<br>wash<br>bacon<br>lecture<br>spell<br>omit<br>laundry |  
-| bip_39_word_new_br9 | rally<br>loud<br>wash<br>bacon<br>lecture<br>spell<br>omit<br>laundry<br>damage |  
-| bip_39_word_new_line1 | rally |  
-| bip_39_word_new_line10 | rally
+| bip_39_word_new_br_1 | rally |  
+| bip_39_word_new_br_10 | rally<br>loud<br>wash<br>bacon<br>lecture<br>spell<br>omit<br>laundry<br>damage<br>champion |  
+| bip_39_word_new_br_11 | rally<br>loud<br>wash<br>bacon<br>lecture<br>spell<br>omit<br>laundry<br>damage<br>champion<br>figure |  
+| bip_39_word_new_br_12 | rally<br>loud<br>wash<br>bacon<br>lecture<br>spell<br>omit<br>laundry<br>damage<br>champion<br>figure<br>ankle |  
+| bip_39_word_new_br_2 | rally<br>loud |  
+| bip_39_word_new_br_3 | rally<br>loud<br>wash |  
+| bip_39_word_new_br_4 | rally<br>loud<br>wash<br>bacon |  
+| bip_39_word_new_br_5 | rally<br>loud<br>wash<br>bacon<br>lecture |  
+| bip_39_word_new_br_6 | rally<br>loud<br>wash<br>bacon<br>lecture<br>spell |  
+| bip_39_word_new_br_7 | rally<br>loud<br>wash<br>bacon<br>lecture<br>spell<br>omit |  
+| bip_39_word_new_br_8 | rally<br>loud<br>wash<br>bacon<br>lecture<br>spell<br>omit<br>laundry |  
+| bip_39_word_new_br_9 | rally<br>loud<br>wash<br>bacon<br>lecture<br>spell<br>omit<br>laundry<br>damage |  
+| bip_39_word_new_line_1 | rally |  
+| bip_39_word_new_line_10 | rally
 loud
 wash
 bacon
@@ -55,7 +55,7 @@ omit
 laundry
 damage
 champion |  
-| bip_39_word_new_line11 | rally
+| bip_39_word_new_line_11 | rally
 loud
 wash
 bacon
@@ -66,7 +66,7 @@ laundry
 damage
 champion
 figure |  
-| bip_39_word_new_line12 | rally
+| bip_39_word_new_line_12 | rally
 loud
 wash
 bacon
@@ -78,34 +78,34 @@ damage
 champion
 figure
 ankle |  
-| bip_39_word_new_line2 | rally
+| bip_39_word_new_line_2 | rally
 loud |  
-| bip_39_word_new_line3 | rally
+| bip_39_word_new_line_3 | rally
 loud
 wash |  
-| bip_39_word_new_line4 | rally
+| bip_39_word_new_line_4 | rally
 loud
 wash
 bacon |  
-| bip_39_word_new_line5 | rally
+| bip_39_word_new_line_5 | rally
 loud
 wash
 bacon
 lecture |  
-| bip_39_word_new_line6 | rally
+| bip_39_word_new_line_6 | rally
 loud
 wash
 bacon
 lecture
 spell |  
-| bip_39_word_new_line7 | rally
+| bip_39_word_new_line_7 | rally
 loud
 wash
 bacon
 lecture
 spell
 omit |  
-| bip_39_word_new_line8 | rally
+| bip_39_word_new_line_8 | rally
 loud
 wash
 bacon
@@ -113,7 +113,7 @@ lecture
 spell
 omit
 laundry |  
-| bip_39_word_new_line9 | rally
+| bip_39_word_new_line_9 | rally
 loud
 wash
 bacon

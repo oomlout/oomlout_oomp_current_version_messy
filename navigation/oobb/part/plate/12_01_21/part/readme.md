@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | issue |  
-| bip_39_word_new_br10 | issue<br>board<br>shrimp<br>science<br>drip<br>flower<br>entire<br>style<br>flight<br>unique |  
-| bip_39_word_new_br11 | issue<br>board<br>shrimp<br>science<br>drip<br>flower<br>entire<br>style<br>flight<br>unique<br>learn |  
-| bip_39_word_new_br12 | issue<br>board<br>shrimp<br>science<br>drip<br>flower<br>entire<br>style<br>flight<br>unique<br>learn<br>attack |  
-| bip_39_word_new_br2 | issue<br>board |  
-| bip_39_word_new_br3 | issue<br>board<br>shrimp |  
-| bip_39_word_new_br4 | issue<br>board<br>shrimp<br>science |  
-| bip_39_word_new_br5 | issue<br>board<br>shrimp<br>science<br>drip |  
-| bip_39_word_new_br6 | issue<br>board<br>shrimp<br>science<br>drip<br>flower |  
-| bip_39_word_new_br7 | issue<br>board<br>shrimp<br>science<br>drip<br>flower<br>entire |  
-| bip_39_word_new_br8 | issue<br>board<br>shrimp<br>science<br>drip<br>flower<br>entire<br>style |  
-| bip_39_word_new_br9 | issue<br>board<br>shrimp<br>science<br>drip<br>flower<br>entire<br>style<br>flight |  
-| bip_39_word_new_line1 | issue |  
-| bip_39_word_new_line10 | issue
+| bip_39_word_new_br_1 | issue |  
+| bip_39_word_new_br_10 | issue<br>board<br>shrimp<br>science<br>drip<br>flower<br>entire<br>style<br>flight<br>unique |  
+| bip_39_word_new_br_11 | issue<br>board<br>shrimp<br>science<br>drip<br>flower<br>entire<br>style<br>flight<br>unique<br>learn |  
+| bip_39_word_new_br_12 | issue<br>board<br>shrimp<br>science<br>drip<br>flower<br>entire<br>style<br>flight<br>unique<br>learn<br>attack |  
+| bip_39_word_new_br_2 | issue<br>board |  
+| bip_39_word_new_br_3 | issue<br>board<br>shrimp |  
+| bip_39_word_new_br_4 | issue<br>board<br>shrimp<br>science |  
+| bip_39_word_new_br_5 | issue<br>board<br>shrimp<br>science<br>drip |  
+| bip_39_word_new_br_6 | issue<br>board<br>shrimp<br>science<br>drip<br>flower |  
+| bip_39_word_new_br_7 | issue<br>board<br>shrimp<br>science<br>drip<br>flower<br>entire |  
+| bip_39_word_new_br_8 | issue<br>board<br>shrimp<br>science<br>drip<br>flower<br>entire<br>style |  
+| bip_39_word_new_br_9 | issue<br>board<br>shrimp<br>science<br>drip<br>flower<br>entire<br>style<br>flight |  
+| bip_39_word_new_line_1 | issue |  
+| bip_39_word_new_line_10 | issue
 board
 shrimp
 science
@@ -55,7 +55,7 @@ entire
 style
 flight
 unique |  
-| bip_39_word_new_line11 | issue
+| bip_39_word_new_line_11 | issue
 board
 shrimp
 science
@@ -66,7 +66,7 @@ style
 flight
 unique
 learn |  
-| bip_39_word_new_line12 | issue
+| bip_39_word_new_line_12 | issue
 board
 shrimp
 science
@@ -78,34 +78,34 @@ flight
 unique
 learn
 attack |  
-| bip_39_word_new_line2 | issue
+| bip_39_word_new_line_2 | issue
 board |  
-| bip_39_word_new_line3 | issue
+| bip_39_word_new_line_3 | issue
 board
 shrimp |  
-| bip_39_word_new_line4 | issue
+| bip_39_word_new_line_4 | issue
 board
 shrimp
 science |  
-| bip_39_word_new_line5 | issue
+| bip_39_word_new_line_5 | issue
 board
 shrimp
 science
 drip |  
-| bip_39_word_new_line6 | issue
+| bip_39_word_new_line_6 | issue
 board
 shrimp
 science
 drip
 flower |  
-| bip_39_word_new_line7 | issue
+| bip_39_word_new_line_7 | issue
 board
 shrimp
 science
 drip
 flower
 entire |  
-| bip_39_word_new_line8 | issue
+| bip_39_word_new_line_8 | issue
 board
 shrimp
 science
@@ -113,7 +113,7 @@ drip
 flower
 entire
 style |  
-| bip_39_word_new_line9 | issue
+| bip_39_word_new_line_9 | issue
 board
 shrimp
 science

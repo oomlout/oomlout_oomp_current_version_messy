@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | choose |  
-| bip_39_word_new_br10 | choose<br>delay<br>manual<br>orphan<br>latin<br>animal<br>south<br>blossom<br>ten<br>employ |  
-| bip_39_word_new_br11 | choose<br>delay<br>manual<br>orphan<br>latin<br>animal<br>south<br>blossom<br>ten<br>employ<br>provide |  
-| bip_39_word_new_br12 | choose<br>delay<br>manual<br>orphan<br>latin<br>animal<br>south<br>blossom<br>ten<br>employ<br>provide<br>amazing |  
-| bip_39_word_new_br2 | choose<br>delay |  
-| bip_39_word_new_br3 | choose<br>delay<br>manual |  
-| bip_39_word_new_br4 | choose<br>delay<br>manual<br>orphan |  
-| bip_39_word_new_br5 | choose<br>delay<br>manual<br>orphan<br>latin |  
-| bip_39_word_new_br6 | choose<br>delay<br>manual<br>orphan<br>latin<br>animal |  
-| bip_39_word_new_br7 | choose<br>delay<br>manual<br>orphan<br>latin<br>animal<br>south |  
-| bip_39_word_new_br8 | choose<br>delay<br>manual<br>orphan<br>latin<br>animal<br>south<br>blossom |  
-| bip_39_word_new_br9 | choose<br>delay<br>manual<br>orphan<br>latin<br>animal<br>south<br>blossom<br>ten |  
-| bip_39_word_new_line1 | choose |  
-| bip_39_word_new_line10 | choose
+| bip_39_word_new_br_1 | choose |  
+| bip_39_word_new_br_10 | choose<br>delay<br>manual<br>orphan<br>latin<br>animal<br>south<br>blossom<br>ten<br>employ |  
+| bip_39_word_new_br_11 | choose<br>delay<br>manual<br>orphan<br>latin<br>animal<br>south<br>blossom<br>ten<br>employ<br>provide |  
+| bip_39_word_new_br_12 | choose<br>delay<br>manual<br>orphan<br>latin<br>animal<br>south<br>blossom<br>ten<br>employ<br>provide<br>amazing |  
+| bip_39_word_new_br_2 | choose<br>delay |  
+| bip_39_word_new_br_3 | choose<br>delay<br>manual |  
+| bip_39_word_new_br_4 | choose<br>delay<br>manual<br>orphan |  
+| bip_39_word_new_br_5 | choose<br>delay<br>manual<br>orphan<br>latin |  
+| bip_39_word_new_br_6 | choose<br>delay<br>manual<br>orphan<br>latin<br>animal |  
+| bip_39_word_new_br_7 | choose<br>delay<br>manual<br>orphan<br>latin<br>animal<br>south |  
+| bip_39_word_new_br_8 | choose<br>delay<br>manual<br>orphan<br>latin<br>animal<br>south<br>blossom |  
+| bip_39_word_new_br_9 | choose<br>delay<br>manual<br>orphan<br>latin<br>animal<br>south<br>blossom<br>ten |  
+| bip_39_word_new_line_1 | choose |  
+| bip_39_word_new_line_10 | choose
 delay
 manual
 orphan
@@ -55,7 +55,7 @@ south
 blossom
 ten
 employ |  
-| bip_39_word_new_line11 | choose
+| bip_39_word_new_line_11 | choose
 delay
 manual
 orphan
@@ -66,7 +66,7 @@ blossom
 ten
 employ
 provide |  
-| bip_39_word_new_line12 | choose
+| bip_39_word_new_line_12 | choose
 delay
 manual
 orphan
@@ -78,34 +78,34 @@ ten
 employ
 provide
 amazing |  
-| bip_39_word_new_line2 | choose
+| bip_39_word_new_line_2 | choose
 delay |  
-| bip_39_word_new_line3 | choose
+| bip_39_word_new_line_3 | choose
 delay
 manual |  
-| bip_39_word_new_line4 | choose
+| bip_39_word_new_line_4 | choose
 delay
 manual
 orphan |  
-| bip_39_word_new_line5 | choose
+| bip_39_word_new_line_5 | choose
 delay
 manual
 orphan
 latin |  
-| bip_39_word_new_line6 | choose
+| bip_39_word_new_line_6 | choose
 delay
 manual
 orphan
 latin
 animal |  
-| bip_39_word_new_line7 | choose
+| bip_39_word_new_line_7 | choose
 delay
 manual
 orphan
 latin
 animal
 south |  
-| bip_39_word_new_line8 | choose
+| bip_39_word_new_line_8 | choose
 delay
 manual
 orphan
@@ -113,7 +113,7 @@ latin
 animal
 south
 blossom |  
-| bip_39_word_new_line9 | choose
+| bip_39_word_new_line_9 | choose
 delay
 manual
 orphan

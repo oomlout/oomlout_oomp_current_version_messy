@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | weasel |  
-| bip_39_word_new_br10 | weasel<br>indicate<br>detail<br>planet<br>south<br>snow<br>soap<br>still<br>essay<br>message |  
-| bip_39_word_new_br11 | weasel<br>indicate<br>detail<br>planet<br>south<br>snow<br>soap<br>still<br>essay<br>message<br>infant |  
-| bip_39_word_new_br12 | weasel<br>indicate<br>detail<br>planet<br>south<br>snow<br>soap<br>still<br>essay<br>message<br>infant<br>amazing |  
-| bip_39_word_new_br2 | weasel<br>indicate |  
-| bip_39_word_new_br3 | weasel<br>indicate<br>detail |  
-| bip_39_word_new_br4 | weasel<br>indicate<br>detail<br>planet |  
-| bip_39_word_new_br5 | weasel<br>indicate<br>detail<br>planet<br>south |  
-| bip_39_word_new_br6 | weasel<br>indicate<br>detail<br>planet<br>south<br>snow |  
-| bip_39_word_new_br7 | weasel<br>indicate<br>detail<br>planet<br>south<br>snow<br>soap |  
-| bip_39_word_new_br8 | weasel<br>indicate<br>detail<br>planet<br>south<br>snow<br>soap<br>still |  
-| bip_39_word_new_br9 | weasel<br>indicate<br>detail<br>planet<br>south<br>snow<br>soap<br>still<br>essay |  
-| bip_39_word_new_line1 | weasel |  
-| bip_39_word_new_line10 | weasel
+| bip_39_word_new_br_1 | weasel |  
+| bip_39_word_new_br_10 | weasel<br>indicate<br>detail<br>planet<br>south<br>snow<br>soap<br>still<br>essay<br>message |  
+| bip_39_word_new_br_11 | weasel<br>indicate<br>detail<br>planet<br>south<br>snow<br>soap<br>still<br>essay<br>message<br>infant |  
+| bip_39_word_new_br_12 | weasel<br>indicate<br>detail<br>planet<br>south<br>snow<br>soap<br>still<br>essay<br>message<br>infant<br>amazing |  
+| bip_39_word_new_br_2 | weasel<br>indicate |  
+| bip_39_word_new_br_3 | weasel<br>indicate<br>detail |  
+| bip_39_word_new_br_4 | weasel<br>indicate<br>detail<br>planet |  
+| bip_39_word_new_br_5 | weasel<br>indicate<br>detail<br>planet<br>south |  
+| bip_39_word_new_br_6 | weasel<br>indicate<br>detail<br>planet<br>south<br>snow |  
+| bip_39_word_new_br_7 | weasel<br>indicate<br>detail<br>planet<br>south<br>snow<br>soap |  
+| bip_39_word_new_br_8 | weasel<br>indicate<br>detail<br>planet<br>south<br>snow<br>soap<br>still |  
+| bip_39_word_new_br_9 | weasel<br>indicate<br>detail<br>planet<br>south<br>snow<br>soap<br>still<br>essay |  
+| bip_39_word_new_line_1 | weasel |  
+| bip_39_word_new_line_10 | weasel
 indicate
 detail
 planet
@@ -55,7 +55,7 @@ soap
 still
 essay
 message |  
-| bip_39_word_new_line11 | weasel
+| bip_39_word_new_line_11 | weasel
 indicate
 detail
 planet
@@ -66,7 +66,7 @@ still
 essay
 message
 infant |  
-| bip_39_word_new_line12 | weasel
+| bip_39_word_new_line_12 | weasel
 indicate
 detail
 planet
@@ -78,34 +78,34 @@ essay
 message
 infant
 amazing |  
-| bip_39_word_new_line2 | weasel
+| bip_39_word_new_line_2 | weasel
 indicate |  
-| bip_39_word_new_line3 | weasel
+| bip_39_word_new_line_3 | weasel
 indicate
 detail |  
-| bip_39_word_new_line4 | weasel
+| bip_39_word_new_line_4 | weasel
 indicate
 detail
 planet |  
-| bip_39_word_new_line5 | weasel
+| bip_39_word_new_line_5 | weasel
 indicate
 detail
 planet
 south |  
-| bip_39_word_new_line6 | weasel
+| bip_39_word_new_line_6 | weasel
 indicate
 detail
 planet
 south
 snow |  
-| bip_39_word_new_line7 | weasel
+| bip_39_word_new_line_7 | weasel
 indicate
 detail
 planet
 south
 snow
 soap |  
-| bip_39_word_new_line8 | weasel
+| bip_39_word_new_line_8 | weasel
 indicate
 detail
 planet
@@ -113,7 +113,7 @@ south
 snow
 soap
 still |  
-| bip_39_word_new_line9 | weasel
+| bip_39_word_new_line_9 | weasel
 indicate
 detail
 planet

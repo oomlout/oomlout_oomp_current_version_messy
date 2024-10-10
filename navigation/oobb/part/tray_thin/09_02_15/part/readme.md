@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sustain |  
-| bip_39_word_new_br10 | sustain<br>push<br>special<br>soon<br>arrow<br>neglect<br>cave<br>knife<br>captain<br>tragic |  
-| bip_39_word_new_br11 | sustain<br>push<br>special<br>soon<br>arrow<br>neglect<br>cave<br>knife<br>captain<br>tragic<br>lab |  
-| bip_39_word_new_br12 | sustain<br>push<br>special<br>soon<br>arrow<br>neglect<br>cave<br>knife<br>captain<br>tragic<br>lab<br>actor |  
-| bip_39_word_new_br2 | sustain<br>push |  
-| bip_39_word_new_br3 | sustain<br>push<br>special |  
-| bip_39_word_new_br4 | sustain<br>push<br>special<br>soon |  
-| bip_39_word_new_br5 | sustain<br>push<br>special<br>soon<br>arrow |  
-| bip_39_word_new_br6 | sustain<br>push<br>special<br>soon<br>arrow<br>neglect |  
-| bip_39_word_new_br7 | sustain<br>push<br>special<br>soon<br>arrow<br>neglect<br>cave |  
-| bip_39_word_new_br8 | sustain<br>push<br>special<br>soon<br>arrow<br>neglect<br>cave<br>knife |  
-| bip_39_word_new_br9 | sustain<br>push<br>special<br>soon<br>arrow<br>neglect<br>cave<br>knife<br>captain |  
-| bip_39_word_new_line1 | sustain |  
-| bip_39_word_new_line10 | sustain
+| bip_39_word_new_br_1 | sustain |  
+| bip_39_word_new_br_10 | sustain<br>push<br>special<br>soon<br>arrow<br>neglect<br>cave<br>knife<br>captain<br>tragic |  
+| bip_39_word_new_br_11 | sustain<br>push<br>special<br>soon<br>arrow<br>neglect<br>cave<br>knife<br>captain<br>tragic<br>lab |  
+| bip_39_word_new_br_12 | sustain<br>push<br>special<br>soon<br>arrow<br>neglect<br>cave<br>knife<br>captain<br>tragic<br>lab<br>actor |  
+| bip_39_word_new_br_2 | sustain<br>push |  
+| bip_39_word_new_br_3 | sustain<br>push<br>special |  
+| bip_39_word_new_br_4 | sustain<br>push<br>special<br>soon |  
+| bip_39_word_new_br_5 | sustain<br>push<br>special<br>soon<br>arrow |  
+| bip_39_word_new_br_6 | sustain<br>push<br>special<br>soon<br>arrow<br>neglect |  
+| bip_39_word_new_br_7 | sustain<br>push<br>special<br>soon<br>arrow<br>neglect<br>cave |  
+| bip_39_word_new_br_8 | sustain<br>push<br>special<br>soon<br>arrow<br>neglect<br>cave<br>knife |  
+| bip_39_word_new_br_9 | sustain<br>push<br>special<br>soon<br>arrow<br>neglect<br>cave<br>knife<br>captain |  
+| bip_39_word_new_line_1 | sustain |  
+| bip_39_word_new_line_10 | sustain
 push
 special
 soon
@@ -55,7 +55,7 @@ cave
 knife
 captain
 tragic |  
-| bip_39_word_new_line11 | sustain
+| bip_39_word_new_line_11 | sustain
 push
 special
 soon
@@ -66,7 +66,7 @@ knife
 captain
 tragic
 lab |  
-| bip_39_word_new_line12 | sustain
+| bip_39_word_new_line_12 | sustain
 push
 special
 soon
@@ -78,34 +78,34 @@ captain
 tragic
 lab
 actor |  
-| bip_39_word_new_line2 | sustain
+| bip_39_word_new_line_2 | sustain
 push |  
-| bip_39_word_new_line3 | sustain
+| bip_39_word_new_line_3 | sustain
 push
 special |  
-| bip_39_word_new_line4 | sustain
+| bip_39_word_new_line_4 | sustain
 push
 special
 soon |  
-| bip_39_word_new_line5 | sustain
+| bip_39_word_new_line_5 | sustain
 push
 special
 soon
 arrow |  
-| bip_39_word_new_line6 | sustain
+| bip_39_word_new_line_6 | sustain
 push
 special
 soon
 arrow
 neglect |  
-| bip_39_word_new_line7 | sustain
+| bip_39_word_new_line_7 | sustain
 push
 special
 soon
 arrow
 neglect
 cave |  
-| bip_39_word_new_line8 | sustain
+| bip_39_word_new_line_8 | sustain
 push
 special
 soon
@@ -113,7 +113,7 @@ arrow
 neglect
 cave
 knife |  
-| bip_39_word_new_line9 | sustain
+| bip_39_word_new_line_9 | sustain
 push
 special
 soon

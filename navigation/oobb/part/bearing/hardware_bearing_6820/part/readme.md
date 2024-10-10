@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | grow |  
-| bip_39_word_new_br10 | grow<br>wolf<br>step<br>sample<br>swim<br>else<br>olympic<br>panda<br>borrow<br>prevent |  
-| bip_39_word_new_br11 | grow<br>wolf<br>step<br>sample<br>swim<br>else<br>olympic<br>panda<br>borrow<br>prevent<br>behind |  
-| bip_39_word_new_br12 | grow<br>wolf<br>step<br>sample<br>swim<br>else<br>olympic<br>panda<br>borrow<br>prevent<br>behind<br>amount |  
-| bip_39_word_new_br2 | grow<br>wolf |  
-| bip_39_word_new_br3 | grow<br>wolf<br>step |  
-| bip_39_word_new_br4 | grow<br>wolf<br>step<br>sample |  
-| bip_39_word_new_br5 | grow<br>wolf<br>step<br>sample<br>swim |  
-| bip_39_word_new_br6 | grow<br>wolf<br>step<br>sample<br>swim<br>else |  
-| bip_39_word_new_br7 | grow<br>wolf<br>step<br>sample<br>swim<br>else<br>olympic |  
-| bip_39_word_new_br8 | grow<br>wolf<br>step<br>sample<br>swim<br>else<br>olympic<br>panda |  
-| bip_39_word_new_br9 | grow<br>wolf<br>step<br>sample<br>swim<br>else<br>olympic<br>panda<br>borrow |  
-| bip_39_word_new_line1 | grow |  
-| bip_39_word_new_line10 | grow
+| bip_39_word_new_br_1 | grow |  
+| bip_39_word_new_br_10 | grow<br>wolf<br>step<br>sample<br>swim<br>else<br>olympic<br>panda<br>borrow<br>prevent |  
+| bip_39_word_new_br_11 | grow<br>wolf<br>step<br>sample<br>swim<br>else<br>olympic<br>panda<br>borrow<br>prevent<br>behind |  
+| bip_39_word_new_br_12 | grow<br>wolf<br>step<br>sample<br>swim<br>else<br>olympic<br>panda<br>borrow<br>prevent<br>behind<br>amount |  
+| bip_39_word_new_br_2 | grow<br>wolf |  
+| bip_39_word_new_br_3 | grow<br>wolf<br>step |  
+| bip_39_word_new_br_4 | grow<br>wolf<br>step<br>sample |  
+| bip_39_word_new_br_5 | grow<br>wolf<br>step<br>sample<br>swim |  
+| bip_39_word_new_br_6 | grow<br>wolf<br>step<br>sample<br>swim<br>else |  
+| bip_39_word_new_br_7 | grow<br>wolf<br>step<br>sample<br>swim<br>else<br>olympic |  
+| bip_39_word_new_br_8 | grow<br>wolf<br>step<br>sample<br>swim<br>else<br>olympic<br>panda |  
+| bip_39_word_new_br_9 | grow<br>wolf<br>step<br>sample<br>swim<br>else<br>olympic<br>panda<br>borrow |  
+| bip_39_word_new_line_1 | grow |  
+| bip_39_word_new_line_10 | grow
 wolf
 step
 sample
@@ -55,7 +55,7 @@ olympic
 panda
 borrow
 prevent |  
-| bip_39_word_new_line11 | grow
+| bip_39_word_new_line_11 | grow
 wolf
 step
 sample
@@ -66,7 +66,7 @@ panda
 borrow
 prevent
 behind |  
-| bip_39_word_new_line12 | grow
+| bip_39_word_new_line_12 | grow
 wolf
 step
 sample
@@ -78,34 +78,34 @@ borrow
 prevent
 behind
 amount |  
-| bip_39_word_new_line2 | grow
+| bip_39_word_new_line_2 | grow
 wolf |  
-| bip_39_word_new_line3 | grow
+| bip_39_word_new_line_3 | grow
 wolf
 step |  
-| bip_39_word_new_line4 | grow
+| bip_39_word_new_line_4 | grow
 wolf
 step
 sample |  
-| bip_39_word_new_line5 | grow
+| bip_39_word_new_line_5 | grow
 wolf
 step
 sample
 swim |  
-| bip_39_word_new_line6 | grow
+| bip_39_word_new_line_6 | grow
 wolf
 step
 sample
 swim
 else |  
-| bip_39_word_new_line7 | grow
+| bip_39_word_new_line_7 | grow
 wolf
 step
 sample
 swim
 else
 olympic |  
-| bip_39_word_new_line8 | grow
+| bip_39_word_new_line_8 | grow
 wolf
 step
 sample
@@ -113,7 +113,7 @@ swim
 else
 olympic
 panda |  
-| bip_39_word_new_line9 | grow
+| bip_39_word_new_line_9 | grow
 wolf
 step
 sample

@@ -1,17 +1,17 @@
-bip_39_word_new_br1: over
-bip_39_word_new_br10: over<br>myth<br>size<br>burden<br>blade<br>brand<br>pencil<br>style<br>outside<br>basket
-bip_39_word_new_br11: over<br>myth<br>size<br>burden<br>blade<br>brand<br>pencil<br>style<br>outside<br>basket<br>february
-bip_39_word_new_br12: over<br>myth<br>size<br>burden<br>blade<br>brand<br>pencil<br>style<br>outside<br>basket<br>february<br>advice
-bip_39_word_new_br2: over<br>myth
-bip_39_word_new_br3: over<br>myth<br>size
-bip_39_word_new_br4: over<br>myth<br>size<br>burden
-bip_39_word_new_br5: over<br>myth<br>size<br>burden<br>blade
-bip_39_word_new_br6: over<br>myth<br>size<br>burden<br>blade<br>brand
-bip_39_word_new_br7: over<br>myth<br>size<br>burden<br>blade<br>brand<br>pencil
-bip_39_word_new_br8: over<br>myth<br>size<br>burden<br>blade<br>brand<br>pencil<br>style
-bip_39_word_new_br9: over<br>myth<br>size<br>burden<br>blade<br>brand<br>pencil<br>style<br>outside
-bip_39_word_new_line1: over
-bip_39_word_new_line10: 'over
+bip_39_word_new_br_1: over
+bip_39_word_new_br_10: over<br>myth<br>size<br>burden<br>blade<br>brand<br>pencil<br>style<br>outside<br>basket
+bip_39_word_new_br_11: over<br>myth<br>size<br>burden<br>blade<br>brand<br>pencil<br>style<br>outside<br>basket<br>february
+bip_39_word_new_br_12: over<br>myth<br>size<br>burden<br>blade<br>brand<br>pencil<br>style<br>outside<br>basket<br>february<br>advice
+bip_39_word_new_br_2: over<br>myth
+bip_39_word_new_br_3: over<br>myth<br>size
+bip_39_word_new_br_4: over<br>myth<br>size<br>burden
+bip_39_word_new_br_5: over<br>myth<br>size<br>burden<br>blade
+bip_39_word_new_br_6: over<br>myth<br>size<br>burden<br>blade<br>brand
+bip_39_word_new_br_7: over<br>myth<br>size<br>burden<br>blade<br>brand<br>pencil
+bip_39_word_new_br_8: over<br>myth<br>size<br>burden<br>blade<br>brand<br>pencil<br>style
+bip_39_word_new_br_9: over<br>myth<br>size<br>burden<br>blade<br>brand<br>pencil<br>style<br>outside
+bip_39_word_new_line_1: over
+bip_39_word_new_line_10: 'over
 
   myth
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'over
   outside
 
   basket'
-bip_39_word_new_line11: 'over
+bip_39_word_new_line_11: 'over
 
   myth
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'over
   basket
 
   february'
-bip_39_word_new_line12: 'over
+bip_39_word_new_line_12: 'over
 
   myth
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'over
   february
 
   advice'
-bip_39_word_new_line2: 'over
+bip_39_word_new_line_2: 'over
 
   myth'
-bip_39_word_new_line3: 'over
+bip_39_word_new_line_3: 'over
 
   myth
 
   size'
-bip_39_word_new_line4: 'over
+bip_39_word_new_line_4: 'over
 
   myth
 
   size
 
   burden'
-bip_39_word_new_line5: 'over
+bip_39_word_new_line_5: 'over
 
   myth
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'over
   burden
 
   blade'
-bip_39_word_new_line6: 'over
+bip_39_word_new_line_6: 'over
 
   myth
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'over
   blade
 
   brand'
-bip_39_word_new_line7: 'over
+bip_39_word_new_line_7: 'over
 
   myth
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'over
   brand
 
   pencil'
-bip_39_word_new_line8: 'over
+bip_39_word_new_line_8: 'over
 
   myth
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'over
   pencil
 
   style'
-bip_39_word_new_line9: 'over
+bip_39_word_new_line_9: 'over
 
   myth
 

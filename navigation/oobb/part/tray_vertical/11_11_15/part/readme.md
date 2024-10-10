@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | thunder |  
-| bip_39_word_new_br10 | thunder<br>kangaroo<br>mean<br>depend<br>web<br>label<br>holiday<br>rural<br>spawn<br>order |  
-| bip_39_word_new_br11 | thunder<br>kangaroo<br>mean<br>depend<br>web<br>label<br>holiday<br>rural<br>spawn<br>order<br>cricket |  
-| bip_39_word_new_br12 | thunder<br>kangaroo<br>mean<br>depend<br>web<br>label<br>holiday<br>rural<br>spawn<br>order<br>cricket<br>alpha |  
-| bip_39_word_new_br2 | thunder<br>kangaroo |  
-| bip_39_word_new_br3 | thunder<br>kangaroo<br>mean |  
-| bip_39_word_new_br4 | thunder<br>kangaroo<br>mean<br>depend |  
-| bip_39_word_new_br5 | thunder<br>kangaroo<br>mean<br>depend<br>web |  
-| bip_39_word_new_br6 | thunder<br>kangaroo<br>mean<br>depend<br>web<br>label |  
-| bip_39_word_new_br7 | thunder<br>kangaroo<br>mean<br>depend<br>web<br>label<br>holiday |  
-| bip_39_word_new_br8 | thunder<br>kangaroo<br>mean<br>depend<br>web<br>label<br>holiday<br>rural |  
-| bip_39_word_new_br9 | thunder<br>kangaroo<br>mean<br>depend<br>web<br>label<br>holiday<br>rural<br>spawn |  
-| bip_39_word_new_line1 | thunder |  
-| bip_39_word_new_line10 | thunder
+| bip_39_word_new_br_1 | thunder |  
+| bip_39_word_new_br_10 | thunder<br>kangaroo<br>mean<br>depend<br>web<br>label<br>holiday<br>rural<br>spawn<br>order |  
+| bip_39_word_new_br_11 | thunder<br>kangaroo<br>mean<br>depend<br>web<br>label<br>holiday<br>rural<br>spawn<br>order<br>cricket |  
+| bip_39_word_new_br_12 | thunder<br>kangaroo<br>mean<br>depend<br>web<br>label<br>holiday<br>rural<br>spawn<br>order<br>cricket<br>alpha |  
+| bip_39_word_new_br_2 | thunder<br>kangaroo |  
+| bip_39_word_new_br_3 | thunder<br>kangaroo<br>mean |  
+| bip_39_word_new_br_4 | thunder<br>kangaroo<br>mean<br>depend |  
+| bip_39_word_new_br_5 | thunder<br>kangaroo<br>mean<br>depend<br>web |  
+| bip_39_word_new_br_6 | thunder<br>kangaroo<br>mean<br>depend<br>web<br>label |  
+| bip_39_word_new_br_7 | thunder<br>kangaroo<br>mean<br>depend<br>web<br>label<br>holiday |  
+| bip_39_word_new_br_8 | thunder<br>kangaroo<br>mean<br>depend<br>web<br>label<br>holiday<br>rural |  
+| bip_39_word_new_br_9 | thunder<br>kangaroo<br>mean<br>depend<br>web<br>label<br>holiday<br>rural<br>spawn |  
+| bip_39_word_new_line_1 | thunder |  
+| bip_39_word_new_line_10 | thunder
 kangaroo
 mean
 depend
@@ -55,7 +55,7 @@ holiday
 rural
 spawn
 order |  
-| bip_39_word_new_line11 | thunder
+| bip_39_word_new_line_11 | thunder
 kangaroo
 mean
 depend
@@ -66,7 +66,7 @@ rural
 spawn
 order
 cricket |  
-| bip_39_word_new_line12 | thunder
+| bip_39_word_new_line_12 | thunder
 kangaroo
 mean
 depend
@@ -78,34 +78,34 @@ spawn
 order
 cricket
 alpha |  
-| bip_39_word_new_line2 | thunder
+| bip_39_word_new_line_2 | thunder
 kangaroo |  
-| bip_39_word_new_line3 | thunder
+| bip_39_word_new_line_3 | thunder
 kangaroo
 mean |  
-| bip_39_word_new_line4 | thunder
+| bip_39_word_new_line_4 | thunder
 kangaroo
 mean
 depend |  
-| bip_39_word_new_line5 | thunder
+| bip_39_word_new_line_5 | thunder
 kangaroo
 mean
 depend
 web |  
-| bip_39_word_new_line6 | thunder
+| bip_39_word_new_line_6 | thunder
 kangaroo
 mean
 depend
 web
 label |  
-| bip_39_word_new_line7 | thunder
+| bip_39_word_new_line_7 | thunder
 kangaroo
 mean
 depend
 web
 label
 holiday |  
-| bip_39_word_new_line8 | thunder
+| bip_39_word_new_line_8 | thunder
 kangaroo
 mean
 depend
@@ -113,7 +113,7 @@ web
 label
 holiday
 rural |  
-| bip_39_word_new_line9 | thunder
+| bip_39_word_new_line_9 | thunder
 kangaroo
 mean
 depend

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | payment |  
-| bip_39_word_new_br10 | payment<br>trial<br>physical<br>magic<br>improve<br>another<br>moment<br>ripple<br>dune<br>kitten |  
-| bip_39_word_new_br11 | payment<br>trial<br>physical<br>magic<br>improve<br>another<br>moment<br>ripple<br>dune<br>kitten<br>seek |  
-| bip_39_word_new_br12 | payment<br>trial<br>physical<br>magic<br>improve<br>another<br>moment<br>ripple<br>dune<br>kitten<br>seek<br>alter |  
-| bip_39_word_new_br2 | payment<br>trial |  
-| bip_39_word_new_br3 | payment<br>trial<br>physical |  
-| bip_39_word_new_br4 | payment<br>trial<br>physical<br>magic |  
-| bip_39_word_new_br5 | payment<br>trial<br>physical<br>magic<br>improve |  
-| bip_39_word_new_br6 | payment<br>trial<br>physical<br>magic<br>improve<br>another |  
-| bip_39_word_new_br7 | payment<br>trial<br>physical<br>magic<br>improve<br>another<br>moment |  
-| bip_39_word_new_br8 | payment<br>trial<br>physical<br>magic<br>improve<br>another<br>moment<br>ripple |  
-| bip_39_word_new_br9 | payment<br>trial<br>physical<br>magic<br>improve<br>another<br>moment<br>ripple<br>dune |  
-| bip_39_word_new_line1 | payment |  
-| bip_39_word_new_line10 | payment
+| bip_39_word_new_br_1 | payment |  
+| bip_39_word_new_br_10 | payment<br>trial<br>physical<br>magic<br>improve<br>another<br>moment<br>ripple<br>dune<br>kitten |  
+| bip_39_word_new_br_11 | payment<br>trial<br>physical<br>magic<br>improve<br>another<br>moment<br>ripple<br>dune<br>kitten<br>seek |  
+| bip_39_word_new_br_12 | payment<br>trial<br>physical<br>magic<br>improve<br>another<br>moment<br>ripple<br>dune<br>kitten<br>seek<br>alter |  
+| bip_39_word_new_br_2 | payment<br>trial |  
+| bip_39_word_new_br_3 | payment<br>trial<br>physical |  
+| bip_39_word_new_br_4 | payment<br>trial<br>physical<br>magic |  
+| bip_39_word_new_br_5 | payment<br>trial<br>physical<br>magic<br>improve |  
+| bip_39_word_new_br_6 | payment<br>trial<br>physical<br>magic<br>improve<br>another |  
+| bip_39_word_new_br_7 | payment<br>trial<br>physical<br>magic<br>improve<br>another<br>moment |  
+| bip_39_word_new_br_8 | payment<br>trial<br>physical<br>magic<br>improve<br>another<br>moment<br>ripple |  
+| bip_39_word_new_br_9 | payment<br>trial<br>physical<br>magic<br>improve<br>another<br>moment<br>ripple<br>dune |  
+| bip_39_word_new_line_1 | payment |  
+| bip_39_word_new_line_10 | payment
 trial
 physical
 magic
@@ -55,7 +55,7 @@ moment
 ripple
 dune
 kitten |  
-| bip_39_word_new_line11 | payment
+| bip_39_word_new_line_11 | payment
 trial
 physical
 magic
@@ -66,7 +66,7 @@ ripple
 dune
 kitten
 seek |  
-| bip_39_word_new_line12 | payment
+| bip_39_word_new_line_12 | payment
 trial
 physical
 magic
@@ -78,34 +78,34 @@ dune
 kitten
 seek
 alter |  
-| bip_39_word_new_line2 | payment
+| bip_39_word_new_line_2 | payment
 trial |  
-| bip_39_word_new_line3 | payment
+| bip_39_word_new_line_3 | payment
 trial
 physical |  
-| bip_39_word_new_line4 | payment
+| bip_39_word_new_line_4 | payment
 trial
 physical
 magic |  
-| bip_39_word_new_line5 | payment
+| bip_39_word_new_line_5 | payment
 trial
 physical
 magic
 improve |  
-| bip_39_word_new_line6 | payment
+| bip_39_word_new_line_6 | payment
 trial
 physical
 magic
 improve
 another |  
-| bip_39_word_new_line7 | payment
+| bip_39_word_new_line_7 | payment
 trial
 physical
 magic
 improve
 another
 moment |  
-| bip_39_word_new_line8 | payment
+| bip_39_word_new_line_8 | payment
 trial
 physical
 magic
@@ -113,7 +113,7 @@ improve
 another
 moment
 ripple |  
-| bip_39_word_new_line9 | payment
+| bip_39_word_new_line_9 | payment
 trial
 physical
 magic

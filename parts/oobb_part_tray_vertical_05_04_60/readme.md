@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | side |  
-| bip_39_word_new_br10 | side<br>pupil<br>easily<br>age<br>rigid<br>lunar<br>divide<br>mirror<br>host<br>face |  
-| bip_39_word_new_br11 | side<br>pupil<br>easily<br>age<br>rigid<br>lunar<br>divide<br>mirror<br>host<br>face<br>loud |  
-| bip_39_word_new_br12 | side<br>pupil<br>easily<br>age<br>rigid<br>lunar<br>divide<br>mirror<br>host<br>face<br>loud<br>angry |  
-| bip_39_word_new_br2 | side<br>pupil |  
-| bip_39_word_new_br3 | side<br>pupil<br>easily |  
-| bip_39_word_new_br4 | side<br>pupil<br>easily<br>age |  
-| bip_39_word_new_br5 | side<br>pupil<br>easily<br>age<br>rigid |  
-| bip_39_word_new_br6 | side<br>pupil<br>easily<br>age<br>rigid<br>lunar |  
-| bip_39_word_new_br7 | side<br>pupil<br>easily<br>age<br>rigid<br>lunar<br>divide |  
-| bip_39_word_new_br8 | side<br>pupil<br>easily<br>age<br>rigid<br>lunar<br>divide<br>mirror |  
-| bip_39_word_new_br9 | side<br>pupil<br>easily<br>age<br>rigid<br>lunar<br>divide<br>mirror<br>host |  
-| bip_39_word_new_line1 | side |  
-| bip_39_word_new_line10 | side
+| bip_39_word_new_br_1 | side |  
+| bip_39_word_new_br_10 | side<br>pupil<br>easily<br>age<br>rigid<br>lunar<br>divide<br>mirror<br>host<br>face |  
+| bip_39_word_new_br_11 | side<br>pupil<br>easily<br>age<br>rigid<br>lunar<br>divide<br>mirror<br>host<br>face<br>loud |  
+| bip_39_word_new_br_12 | side<br>pupil<br>easily<br>age<br>rigid<br>lunar<br>divide<br>mirror<br>host<br>face<br>loud<br>angry |  
+| bip_39_word_new_br_2 | side<br>pupil |  
+| bip_39_word_new_br_3 | side<br>pupil<br>easily |  
+| bip_39_word_new_br_4 | side<br>pupil<br>easily<br>age |  
+| bip_39_word_new_br_5 | side<br>pupil<br>easily<br>age<br>rigid |  
+| bip_39_word_new_br_6 | side<br>pupil<br>easily<br>age<br>rigid<br>lunar |  
+| bip_39_word_new_br_7 | side<br>pupil<br>easily<br>age<br>rigid<br>lunar<br>divide |  
+| bip_39_word_new_br_8 | side<br>pupil<br>easily<br>age<br>rigid<br>lunar<br>divide<br>mirror |  
+| bip_39_word_new_br_9 | side<br>pupil<br>easily<br>age<br>rigid<br>lunar<br>divide<br>mirror<br>host |  
+| bip_39_word_new_line_1 | side |  
+| bip_39_word_new_line_10 | side
 pupil
 easily
 age
@@ -55,7 +55,7 @@ divide
 mirror
 host
 face |  
-| bip_39_word_new_line11 | side
+| bip_39_word_new_line_11 | side
 pupil
 easily
 age
@@ -66,7 +66,7 @@ mirror
 host
 face
 loud |  
-| bip_39_word_new_line12 | side
+| bip_39_word_new_line_12 | side
 pupil
 easily
 age
@@ -78,34 +78,34 @@ host
 face
 loud
 angry |  
-| bip_39_word_new_line2 | side
+| bip_39_word_new_line_2 | side
 pupil |  
-| bip_39_word_new_line3 | side
+| bip_39_word_new_line_3 | side
 pupil
 easily |  
-| bip_39_word_new_line4 | side
+| bip_39_word_new_line_4 | side
 pupil
 easily
 age |  
-| bip_39_word_new_line5 | side
+| bip_39_word_new_line_5 | side
 pupil
 easily
 age
 rigid |  
-| bip_39_word_new_line6 | side
+| bip_39_word_new_line_6 | side
 pupil
 easily
 age
 rigid
 lunar |  
-| bip_39_word_new_line7 | side
+| bip_39_word_new_line_7 | side
 pupil
 easily
 age
 rigid
 lunar
 divide |  
-| bip_39_word_new_line8 | side
+| bip_39_word_new_line_8 | side
 pupil
 easily
 age
@@ -113,7 +113,7 @@ rigid
 lunar
 divide
 mirror |  
-| bip_39_word_new_line9 | side
+| bip_39_word_new_line_9 | side
 pupil
 easily
 age

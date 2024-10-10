@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | kick |  
-| bip_39_word_new_br10 | kick<br>hat<br>chase<br>ensure<br>typical<br>orchard<br>pig<br>dutch<br>neither<br>twist |  
-| bip_39_word_new_br11 | kick<br>hat<br>chase<br>ensure<br>typical<br>orchard<br>pig<br>dutch<br>neither<br>twist<br>tomato |  
-| bip_39_word_new_br12 | kick<br>hat<br>chase<br>ensure<br>typical<br>orchard<br>pig<br>dutch<br>neither<br>twist<br>tomato<br>arena |  
-| bip_39_word_new_br2 | kick<br>hat |  
-| bip_39_word_new_br3 | kick<br>hat<br>chase |  
-| bip_39_word_new_br4 | kick<br>hat<br>chase<br>ensure |  
-| bip_39_word_new_br5 | kick<br>hat<br>chase<br>ensure<br>typical |  
-| bip_39_word_new_br6 | kick<br>hat<br>chase<br>ensure<br>typical<br>orchard |  
-| bip_39_word_new_br7 | kick<br>hat<br>chase<br>ensure<br>typical<br>orchard<br>pig |  
-| bip_39_word_new_br8 | kick<br>hat<br>chase<br>ensure<br>typical<br>orchard<br>pig<br>dutch |  
-| bip_39_word_new_br9 | kick<br>hat<br>chase<br>ensure<br>typical<br>orchard<br>pig<br>dutch<br>neither |  
-| bip_39_word_new_line1 | kick |  
-| bip_39_word_new_line10 | kick
+| bip_39_word_new_br_1 | kick |  
+| bip_39_word_new_br_10 | kick<br>hat<br>chase<br>ensure<br>typical<br>orchard<br>pig<br>dutch<br>neither<br>twist |  
+| bip_39_word_new_br_11 | kick<br>hat<br>chase<br>ensure<br>typical<br>orchard<br>pig<br>dutch<br>neither<br>twist<br>tomato |  
+| bip_39_word_new_br_12 | kick<br>hat<br>chase<br>ensure<br>typical<br>orchard<br>pig<br>dutch<br>neither<br>twist<br>tomato<br>arena |  
+| bip_39_word_new_br_2 | kick<br>hat |  
+| bip_39_word_new_br_3 | kick<br>hat<br>chase |  
+| bip_39_word_new_br_4 | kick<br>hat<br>chase<br>ensure |  
+| bip_39_word_new_br_5 | kick<br>hat<br>chase<br>ensure<br>typical |  
+| bip_39_word_new_br_6 | kick<br>hat<br>chase<br>ensure<br>typical<br>orchard |  
+| bip_39_word_new_br_7 | kick<br>hat<br>chase<br>ensure<br>typical<br>orchard<br>pig |  
+| bip_39_word_new_br_8 | kick<br>hat<br>chase<br>ensure<br>typical<br>orchard<br>pig<br>dutch |  
+| bip_39_word_new_br_9 | kick<br>hat<br>chase<br>ensure<br>typical<br>orchard<br>pig<br>dutch<br>neither |  
+| bip_39_word_new_line_1 | kick |  
+| bip_39_word_new_line_10 | kick
 hat
 chase
 ensure
@@ -55,7 +55,7 @@ pig
 dutch
 neither
 twist |  
-| bip_39_word_new_line11 | kick
+| bip_39_word_new_line_11 | kick
 hat
 chase
 ensure
@@ -66,7 +66,7 @@ dutch
 neither
 twist
 tomato |  
-| bip_39_word_new_line12 | kick
+| bip_39_word_new_line_12 | kick
 hat
 chase
 ensure
@@ -78,34 +78,34 @@ neither
 twist
 tomato
 arena |  
-| bip_39_word_new_line2 | kick
+| bip_39_word_new_line_2 | kick
 hat |  
-| bip_39_word_new_line3 | kick
+| bip_39_word_new_line_3 | kick
 hat
 chase |  
-| bip_39_word_new_line4 | kick
+| bip_39_word_new_line_4 | kick
 hat
 chase
 ensure |  
-| bip_39_word_new_line5 | kick
+| bip_39_word_new_line_5 | kick
 hat
 chase
 ensure
 typical |  
-| bip_39_word_new_line6 | kick
+| bip_39_word_new_line_6 | kick
 hat
 chase
 ensure
 typical
 orchard |  
-| bip_39_word_new_line7 | kick
+| bip_39_word_new_line_7 | kick
 hat
 chase
 ensure
 typical
 orchard
 pig |  
-| bip_39_word_new_line8 | kick
+| bip_39_word_new_line_8 | kick
 hat
 chase
 ensure
@@ -113,7 +113,7 @@ typical
 orchard
 pig
 dutch |  
-| bip_39_word_new_line9 | kick
+| bip_39_word_new_line_9 | kick
 hat
 chase
 ensure

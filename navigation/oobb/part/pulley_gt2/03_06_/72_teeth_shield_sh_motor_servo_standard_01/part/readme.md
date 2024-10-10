@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | eyebrow |  
-| bip_39_word_new_br10 | eyebrow<br>umbrella<br>salt<br>avocado<br>else<br>zebra<br>symptom<br>crash<br>develop<br>patrol |  
-| bip_39_word_new_br11 | eyebrow<br>umbrella<br>salt<br>avocado<br>else<br>zebra<br>symptom<br>crash<br>develop<br>patrol<br>squirrel |  
-| bip_39_word_new_br12 | eyebrow<br>umbrella<br>salt<br>avocado<br>else<br>zebra<br>symptom<br>crash<br>develop<br>patrol<br>squirrel<br>actor |  
-| bip_39_word_new_br2 | eyebrow<br>umbrella |  
-| bip_39_word_new_br3 | eyebrow<br>umbrella<br>salt |  
-| bip_39_word_new_br4 | eyebrow<br>umbrella<br>salt<br>avocado |  
-| bip_39_word_new_br5 | eyebrow<br>umbrella<br>salt<br>avocado<br>else |  
-| bip_39_word_new_br6 | eyebrow<br>umbrella<br>salt<br>avocado<br>else<br>zebra |  
-| bip_39_word_new_br7 | eyebrow<br>umbrella<br>salt<br>avocado<br>else<br>zebra<br>symptom |  
-| bip_39_word_new_br8 | eyebrow<br>umbrella<br>salt<br>avocado<br>else<br>zebra<br>symptom<br>crash |  
-| bip_39_word_new_br9 | eyebrow<br>umbrella<br>salt<br>avocado<br>else<br>zebra<br>symptom<br>crash<br>develop |  
-| bip_39_word_new_line1 | eyebrow |  
-| bip_39_word_new_line10 | eyebrow
+| bip_39_word_new_br_1 | eyebrow |  
+| bip_39_word_new_br_10 | eyebrow<br>umbrella<br>salt<br>avocado<br>else<br>zebra<br>symptom<br>crash<br>develop<br>patrol |  
+| bip_39_word_new_br_11 | eyebrow<br>umbrella<br>salt<br>avocado<br>else<br>zebra<br>symptom<br>crash<br>develop<br>patrol<br>squirrel |  
+| bip_39_word_new_br_12 | eyebrow<br>umbrella<br>salt<br>avocado<br>else<br>zebra<br>symptom<br>crash<br>develop<br>patrol<br>squirrel<br>actor |  
+| bip_39_word_new_br_2 | eyebrow<br>umbrella |  
+| bip_39_word_new_br_3 | eyebrow<br>umbrella<br>salt |  
+| bip_39_word_new_br_4 | eyebrow<br>umbrella<br>salt<br>avocado |  
+| bip_39_word_new_br_5 | eyebrow<br>umbrella<br>salt<br>avocado<br>else |  
+| bip_39_word_new_br_6 | eyebrow<br>umbrella<br>salt<br>avocado<br>else<br>zebra |  
+| bip_39_word_new_br_7 | eyebrow<br>umbrella<br>salt<br>avocado<br>else<br>zebra<br>symptom |  
+| bip_39_word_new_br_8 | eyebrow<br>umbrella<br>salt<br>avocado<br>else<br>zebra<br>symptom<br>crash |  
+| bip_39_word_new_br_9 | eyebrow<br>umbrella<br>salt<br>avocado<br>else<br>zebra<br>symptom<br>crash<br>develop |  
+| bip_39_word_new_line_1 | eyebrow |  
+| bip_39_word_new_line_10 | eyebrow
 umbrella
 salt
 avocado
@@ -55,7 +55,7 @@ symptom
 crash
 develop
 patrol |  
-| bip_39_word_new_line11 | eyebrow
+| bip_39_word_new_line_11 | eyebrow
 umbrella
 salt
 avocado
@@ -66,7 +66,7 @@ crash
 develop
 patrol
 squirrel |  
-| bip_39_word_new_line12 | eyebrow
+| bip_39_word_new_line_12 | eyebrow
 umbrella
 salt
 avocado
@@ -78,34 +78,34 @@ develop
 patrol
 squirrel
 actor |  
-| bip_39_word_new_line2 | eyebrow
+| bip_39_word_new_line_2 | eyebrow
 umbrella |  
-| bip_39_word_new_line3 | eyebrow
+| bip_39_word_new_line_3 | eyebrow
 umbrella
 salt |  
-| bip_39_word_new_line4 | eyebrow
+| bip_39_word_new_line_4 | eyebrow
 umbrella
 salt
 avocado |  
-| bip_39_word_new_line5 | eyebrow
+| bip_39_word_new_line_5 | eyebrow
 umbrella
 salt
 avocado
 else |  
-| bip_39_word_new_line6 | eyebrow
+| bip_39_word_new_line_6 | eyebrow
 umbrella
 salt
 avocado
 else
 zebra |  
-| bip_39_word_new_line7 | eyebrow
+| bip_39_word_new_line_7 | eyebrow
 umbrella
 salt
 avocado
 else
 zebra
 symptom |  
-| bip_39_word_new_line8 | eyebrow
+| bip_39_word_new_line_8 | eyebrow
 umbrella
 salt
 avocado
@@ -113,7 +113,7 @@ else
 zebra
 symptom
 crash |  
-| bip_39_word_new_line9 | eyebrow
+| bip_39_word_new_line_9 | eyebrow
 umbrella
 salt
 avocado

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | seek |  
-| bip_39_word_new_br10 | seek<br>all<br>cricket<br>example<br>rhythm<br>exercise<br>inner<br>nominee<br>image<br>lock |  
-| bip_39_word_new_br11 | seek<br>all<br>cricket<br>example<br>rhythm<br>exercise<br>inner<br>nominee<br>image<br>lock<br>segment |  
-| bip_39_word_new_br12 | seek<br>all<br>cricket<br>example<br>rhythm<br>exercise<br>inner<br>nominee<br>image<br>lock<br>segment<br>arch |  
-| bip_39_word_new_br2 | seek<br>all |  
-| bip_39_word_new_br3 | seek<br>all<br>cricket |  
-| bip_39_word_new_br4 | seek<br>all<br>cricket<br>example |  
-| bip_39_word_new_br5 | seek<br>all<br>cricket<br>example<br>rhythm |  
-| bip_39_word_new_br6 | seek<br>all<br>cricket<br>example<br>rhythm<br>exercise |  
-| bip_39_word_new_br7 | seek<br>all<br>cricket<br>example<br>rhythm<br>exercise<br>inner |  
-| bip_39_word_new_br8 | seek<br>all<br>cricket<br>example<br>rhythm<br>exercise<br>inner<br>nominee |  
-| bip_39_word_new_br9 | seek<br>all<br>cricket<br>example<br>rhythm<br>exercise<br>inner<br>nominee<br>image |  
-| bip_39_word_new_line1 | seek |  
-| bip_39_word_new_line10 | seek
+| bip_39_word_new_br_1 | seek |  
+| bip_39_word_new_br_10 | seek<br>all<br>cricket<br>example<br>rhythm<br>exercise<br>inner<br>nominee<br>image<br>lock |  
+| bip_39_word_new_br_11 | seek<br>all<br>cricket<br>example<br>rhythm<br>exercise<br>inner<br>nominee<br>image<br>lock<br>segment |  
+| bip_39_word_new_br_12 | seek<br>all<br>cricket<br>example<br>rhythm<br>exercise<br>inner<br>nominee<br>image<br>lock<br>segment<br>arch |  
+| bip_39_word_new_br_2 | seek<br>all |  
+| bip_39_word_new_br_3 | seek<br>all<br>cricket |  
+| bip_39_word_new_br_4 | seek<br>all<br>cricket<br>example |  
+| bip_39_word_new_br_5 | seek<br>all<br>cricket<br>example<br>rhythm |  
+| bip_39_word_new_br_6 | seek<br>all<br>cricket<br>example<br>rhythm<br>exercise |  
+| bip_39_word_new_br_7 | seek<br>all<br>cricket<br>example<br>rhythm<br>exercise<br>inner |  
+| bip_39_word_new_br_8 | seek<br>all<br>cricket<br>example<br>rhythm<br>exercise<br>inner<br>nominee |  
+| bip_39_word_new_br_9 | seek<br>all<br>cricket<br>example<br>rhythm<br>exercise<br>inner<br>nominee<br>image |  
+| bip_39_word_new_line_1 | seek |  
+| bip_39_word_new_line_10 | seek
 all
 cricket
 example
@@ -55,7 +55,7 @@ inner
 nominee
 image
 lock |  
-| bip_39_word_new_line11 | seek
+| bip_39_word_new_line_11 | seek
 all
 cricket
 example
@@ -66,7 +66,7 @@ nominee
 image
 lock
 segment |  
-| bip_39_word_new_line12 | seek
+| bip_39_word_new_line_12 | seek
 all
 cricket
 example
@@ -78,34 +78,34 @@ image
 lock
 segment
 arch |  
-| bip_39_word_new_line2 | seek
+| bip_39_word_new_line_2 | seek
 all |  
-| bip_39_word_new_line3 | seek
+| bip_39_word_new_line_3 | seek
 all
 cricket |  
-| bip_39_word_new_line4 | seek
+| bip_39_word_new_line_4 | seek
 all
 cricket
 example |  
-| bip_39_word_new_line5 | seek
+| bip_39_word_new_line_5 | seek
 all
 cricket
 example
 rhythm |  
-| bip_39_word_new_line6 | seek
+| bip_39_word_new_line_6 | seek
 all
 cricket
 example
 rhythm
 exercise |  
-| bip_39_word_new_line7 | seek
+| bip_39_word_new_line_7 | seek
 all
 cricket
 example
 rhythm
 exercise
 inner |  
-| bip_39_word_new_line8 | seek
+| bip_39_word_new_line_8 | seek
 all
 cricket
 example
@@ -113,7 +113,7 @@ rhythm
 exercise
 inner
 nominee |  
-| bip_39_word_new_line9 | seek
+| bip_39_word_new_line_9 | seek
 all
 cricket
 example

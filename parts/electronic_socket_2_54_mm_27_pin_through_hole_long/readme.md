@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | torch |  
-| bip_39_word_new_br10 | torch<br>allow<br>bomb<br>execute<br>popular<br>orbit<br>hole<br>reflect<br>oppose<br>tissue |  
-| bip_39_word_new_br11 | torch<br>allow<br>bomb<br>execute<br>popular<br>orbit<br>hole<br>reflect<br>oppose<br>tissue<br>aerobic |  
-| bip_39_word_new_br12 | torch<br>allow<br>bomb<br>execute<br>popular<br>orbit<br>hole<br>reflect<br>oppose<br>tissue<br>aerobic<br>arrow |  
-| bip_39_word_new_br2 | torch<br>allow |  
-| bip_39_word_new_br3 | torch<br>allow<br>bomb |  
-| bip_39_word_new_br4 | torch<br>allow<br>bomb<br>execute |  
-| bip_39_word_new_br5 | torch<br>allow<br>bomb<br>execute<br>popular |  
-| bip_39_word_new_br6 | torch<br>allow<br>bomb<br>execute<br>popular<br>orbit |  
-| bip_39_word_new_br7 | torch<br>allow<br>bomb<br>execute<br>popular<br>orbit<br>hole |  
-| bip_39_word_new_br8 | torch<br>allow<br>bomb<br>execute<br>popular<br>orbit<br>hole<br>reflect |  
-| bip_39_word_new_br9 | torch<br>allow<br>bomb<br>execute<br>popular<br>orbit<br>hole<br>reflect<br>oppose |  
-| bip_39_word_new_line1 | torch |  
-| bip_39_word_new_line10 | torch
+| bip_39_word_new_br_1 | torch |  
+| bip_39_word_new_br_10 | torch<br>allow<br>bomb<br>execute<br>popular<br>orbit<br>hole<br>reflect<br>oppose<br>tissue |  
+| bip_39_word_new_br_11 | torch<br>allow<br>bomb<br>execute<br>popular<br>orbit<br>hole<br>reflect<br>oppose<br>tissue<br>aerobic |  
+| bip_39_word_new_br_12 | torch<br>allow<br>bomb<br>execute<br>popular<br>orbit<br>hole<br>reflect<br>oppose<br>tissue<br>aerobic<br>arrow |  
+| bip_39_word_new_br_2 | torch<br>allow |  
+| bip_39_word_new_br_3 | torch<br>allow<br>bomb |  
+| bip_39_word_new_br_4 | torch<br>allow<br>bomb<br>execute |  
+| bip_39_word_new_br_5 | torch<br>allow<br>bomb<br>execute<br>popular |  
+| bip_39_word_new_br_6 | torch<br>allow<br>bomb<br>execute<br>popular<br>orbit |  
+| bip_39_word_new_br_7 | torch<br>allow<br>bomb<br>execute<br>popular<br>orbit<br>hole |  
+| bip_39_word_new_br_8 | torch<br>allow<br>bomb<br>execute<br>popular<br>orbit<br>hole<br>reflect |  
+| bip_39_word_new_br_9 | torch<br>allow<br>bomb<br>execute<br>popular<br>orbit<br>hole<br>reflect<br>oppose |  
+| bip_39_word_new_line_1 | torch |  
+| bip_39_word_new_line_10 | torch
 allow
 bomb
 execute
@@ -55,7 +55,7 @@ hole
 reflect
 oppose
 tissue |  
-| bip_39_word_new_line11 | torch
+| bip_39_word_new_line_11 | torch
 allow
 bomb
 execute
@@ -66,7 +66,7 @@ reflect
 oppose
 tissue
 aerobic |  
-| bip_39_word_new_line12 | torch
+| bip_39_word_new_line_12 | torch
 allow
 bomb
 execute
@@ -78,34 +78,34 @@ oppose
 tissue
 aerobic
 arrow |  
-| bip_39_word_new_line2 | torch
+| bip_39_word_new_line_2 | torch
 allow |  
-| bip_39_word_new_line3 | torch
+| bip_39_word_new_line_3 | torch
 allow
 bomb |  
-| bip_39_word_new_line4 | torch
+| bip_39_word_new_line_4 | torch
 allow
 bomb
 execute |  
-| bip_39_word_new_line5 | torch
+| bip_39_word_new_line_5 | torch
 allow
 bomb
 execute
 popular |  
-| bip_39_word_new_line6 | torch
+| bip_39_word_new_line_6 | torch
 allow
 bomb
 execute
 popular
 orbit |  
-| bip_39_word_new_line7 | torch
+| bip_39_word_new_line_7 | torch
 allow
 bomb
 execute
 popular
 orbit
 hole |  
-| bip_39_word_new_line8 | torch
+| bip_39_word_new_line_8 | torch
 allow
 bomb
 execute
@@ -113,7 +113,7 @@ popular
 orbit
 hole
 reflect |  
-| bip_39_word_new_line9 | torch
+| bip_39_word_new_line_9 | torch
 allow
 bomb
 execute

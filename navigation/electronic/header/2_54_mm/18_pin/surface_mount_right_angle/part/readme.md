@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | identify |  
-| bip_39_word_new_br10 | identify<br>cliff<br>teach<br>reduce<br>arrange<br>assist<br>photo<br>figure<br>race<br>love |  
-| bip_39_word_new_br11 | identify<br>cliff<br>teach<br>reduce<br>arrange<br>assist<br>photo<br>figure<br>race<br>love<br>choice |  
-| bip_39_word_new_br12 | identify<br>cliff<br>teach<br>reduce<br>arrange<br>assist<br>photo<br>figure<br>race<br>love<br>choice<br>abuse |  
-| bip_39_word_new_br2 | identify<br>cliff |  
-| bip_39_word_new_br3 | identify<br>cliff<br>teach |  
-| bip_39_word_new_br4 | identify<br>cliff<br>teach<br>reduce |  
-| bip_39_word_new_br5 | identify<br>cliff<br>teach<br>reduce<br>arrange |  
-| bip_39_word_new_br6 | identify<br>cliff<br>teach<br>reduce<br>arrange<br>assist |  
-| bip_39_word_new_br7 | identify<br>cliff<br>teach<br>reduce<br>arrange<br>assist<br>photo |  
-| bip_39_word_new_br8 | identify<br>cliff<br>teach<br>reduce<br>arrange<br>assist<br>photo<br>figure |  
-| bip_39_word_new_br9 | identify<br>cliff<br>teach<br>reduce<br>arrange<br>assist<br>photo<br>figure<br>race |  
-| bip_39_word_new_line1 | identify |  
-| bip_39_word_new_line10 | identify
+| bip_39_word_new_br_1 | identify |  
+| bip_39_word_new_br_10 | identify<br>cliff<br>teach<br>reduce<br>arrange<br>assist<br>photo<br>figure<br>race<br>love |  
+| bip_39_word_new_br_11 | identify<br>cliff<br>teach<br>reduce<br>arrange<br>assist<br>photo<br>figure<br>race<br>love<br>choice |  
+| bip_39_word_new_br_12 | identify<br>cliff<br>teach<br>reduce<br>arrange<br>assist<br>photo<br>figure<br>race<br>love<br>choice<br>abuse |  
+| bip_39_word_new_br_2 | identify<br>cliff |  
+| bip_39_word_new_br_3 | identify<br>cliff<br>teach |  
+| bip_39_word_new_br_4 | identify<br>cliff<br>teach<br>reduce |  
+| bip_39_word_new_br_5 | identify<br>cliff<br>teach<br>reduce<br>arrange |  
+| bip_39_word_new_br_6 | identify<br>cliff<br>teach<br>reduce<br>arrange<br>assist |  
+| bip_39_word_new_br_7 | identify<br>cliff<br>teach<br>reduce<br>arrange<br>assist<br>photo |  
+| bip_39_word_new_br_8 | identify<br>cliff<br>teach<br>reduce<br>arrange<br>assist<br>photo<br>figure |  
+| bip_39_word_new_br_9 | identify<br>cliff<br>teach<br>reduce<br>arrange<br>assist<br>photo<br>figure<br>race |  
+| bip_39_word_new_line_1 | identify |  
+| bip_39_word_new_line_10 | identify
 cliff
 teach
 reduce
@@ -55,7 +55,7 @@ photo
 figure
 race
 love |  
-| bip_39_word_new_line11 | identify
+| bip_39_word_new_line_11 | identify
 cliff
 teach
 reduce
@@ -66,7 +66,7 @@ figure
 race
 love
 choice |  
-| bip_39_word_new_line12 | identify
+| bip_39_word_new_line_12 | identify
 cliff
 teach
 reduce
@@ -78,34 +78,34 @@ race
 love
 choice
 abuse |  
-| bip_39_word_new_line2 | identify
+| bip_39_word_new_line_2 | identify
 cliff |  
-| bip_39_word_new_line3 | identify
+| bip_39_word_new_line_3 | identify
 cliff
 teach |  
-| bip_39_word_new_line4 | identify
+| bip_39_word_new_line_4 | identify
 cliff
 teach
 reduce |  
-| bip_39_word_new_line5 | identify
+| bip_39_word_new_line_5 | identify
 cliff
 teach
 reduce
 arrange |  
-| bip_39_word_new_line6 | identify
+| bip_39_word_new_line_6 | identify
 cliff
 teach
 reduce
 arrange
 assist |  
-| bip_39_word_new_line7 | identify
+| bip_39_word_new_line_7 | identify
 cliff
 teach
 reduce
 arrange
 assist
 photo |  
-| bip_39_word_new_line8 | identify
+| bip_39_word_new_line_8 | identify
 cliff
 teach
 reduce
@@ -113,7 +113,7 @@ arrange
 assist
 photo
 figure |  
-| bip_39_word_new_line9 | identify
+| bip_39_word_new_line_9 | identify
 cliff
 teach
 reduce

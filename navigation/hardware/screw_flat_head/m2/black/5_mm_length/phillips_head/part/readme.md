@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | maid |  
-| bip_39_word_new_br10 | maid<br>brisk<br>inherit<br>abuse<br>circle<br>enact<br>siren<br>habit<br>window<br>crater |  
-| bip_39_word_new_br11 | maid<br>brisk<br>inherit<br>abuse<br>circle<br>enact<br>siren<br>habit<br>window<br>crater<br>alarm |  
-| bip_39_word_new_br12 | maid<br>brisk<br>inherit<br>abuse<br>circle<br>enact<br>siren<br>habit<br>window<br>crater<br>alarm<br>actress |  
-| bip_39_word_new_br2 | maid<br>brisk |  
-| bip_39_word_new_br3 | maid<br>brisk<br>inherit |  
-| bip_39_word_new_br4 | maid<br>brisk<br>inherit<br>abuse |  
-| bip_39_word_new_br5 | maid<br>brisk<br>inherit<br>abuse<br>circle |  
-| bip_39_word_new_br6 | maid<br>brisk<br>inherit<br>abuse<br>circle<br>enact |  
-| bip_39_word_new_br7 | maid<br>brisk<br>inherit<br>abuse<br>circle<br>enact<br>siren |  
-| bip_39_word_new_br8 | maid<br>brisk<br>inherit<br>abuse<br>circle<br>enact<br>siren<br>habit |  
-| bip_39_word_new_br9 | maid<br>brisk<br>inherit<br>abuse<br>circle<br>enact<br>siren<br>habit<br>window |  
-| bip_39_word_new_line1 | maid |  
-| bip_39_word_new_line10 | maid
+| bip_39_word_new_br_1 | maid |  
+| bip_39_word_new_br_10 | maid<br>brisk<br>inherit<br>abuse<br>circle<br>enact<br>siren<br>habit<br>window<br>crater |  
+| bip_39_word_new_br_11 | maid<br>brisk<br>inherit<br>abuse<br>circle<br>enact<br>siren<br>habit<br>window<br>crater<br>alarm |  
+| bip_39_word_new_br_12 | maid<br>brisk<br>inherit<br>abuse<br>circle<br>enact<br>siren<br>habit<br>window<br>crater<br>alarm<br>actress |  
+| bip_39_word_new_br_2 | maid<br>brisk |  
+| bip_39_word_new_br_3 | maid<br>brisk<br>inherit |  
+| bip_39_word_new_br_4 | maid<br>brisk<br>inherit<br>abuse |  
+| bip_39_word_new_br_5 | maid<br>brisk<br>inherit<br>abuse<br>circle |  
+| bip_39_word_new_br_6 | maid<br>brisk<br>inherit<br>abuse<br>circle<br>enact |  
+| bip_39_word_new_br_7 | maid<br>brisk<br>inherit<br>abuse<br>circle<br>enact<br>siren |  
+| bip_39_word_new_br_8 | maid<br>brisk<br>inherit<br>abuse<br>circle<br>enact<br>siren<br>habit |  
+| bip_39_word_new_br_9 | maid<br>brisk<br>inherit<br>abuse<br>circle<br>enact<br>siren<br>habit<br>window |  
+| bip_39_word_new_line_1 | maid |  
+| bip_39_word_new_line_10 | maid
 brisk
 inherit
 abuse
@@ -55,7 +55,7 @@ siren
 habit
 window
 crater |  
-| bip_39_word_new_line11 | maid
+| bip_39_word_new_line_11 | maid
 brisk
 inherit
 abuse
@@ -66,7 +66,7 @@ habit
 window
 crater
 alarm |  
-| bip_39_word_new_line12 | maid
+| bip_39_word_new_line_12 | maid
 brisk
 inherit
 abuse
@@ -78,34 +78,34 @@ window
 crater
 alarm
 actress |  
-| bip_39_word_new_line2 | maid
+| bip_39_word_new_line_2 | maid
 brisk |  
-| bip_39_word_new_line3 | maid
+| bip_39_word_new_line_3 | maid
 brisk
 inherit |  
-| bip_39_word_new_line4 | maid
+| bip_39_word_new_line_4 | maid
 brisk
 inherit
 abuse |  
-| bip_39_word_new_line5 | maid
+| bip_39_word_new_line_5 | maid
 brisk
 inherit
 abuse
 circle |  
-| bip_39_word_new_line6 | maid
+| bip_39_word_new_line_6 | maid
 brisk
 inherit
 abuse
 circle
 enact |  
-| bip_39_word_new_line7 | maid
+| bip_39_word_new_line_7 | maid
 brisk
 inherit
 abuse
 circle
 enact
 siren |  
-| bip_39_word_new_line8 | maid
+| bip_39_word_new_line_8 | maid
 brisk
 inherit
 abuse
@@ -113,7 +113,7 @@ circle
 enact
 siren
 habit |  
-| bip_39_word_new_line9 | maid
+| bip_39_word_new_line_9 | maid
 brisk
 inherit
 abuse

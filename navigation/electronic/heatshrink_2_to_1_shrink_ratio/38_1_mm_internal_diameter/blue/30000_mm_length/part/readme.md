@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | snake |  
-| bip_39_word_new_br10 | snake<br>amazing<br>nuclear<br>sketch<br>file<br>brass<br>vanish<br>index<br>gym<br>install |  
-| bip_39_word_new_br11 | snake<br>amazing<br>nuclear<br>sketch<br>file<br>brass<br>vanish<br>index<br>gym<br>install<br>bean |  
-| bip_39_word_new_br12 | snake<br>amazing<br>nuclear<br>sketch<br>file<br>brass<br>vanish<br>index<br>gym<br>install<br>bean<br>account |  
-| bip_39_word_new_br2 | snake<br>amazing |  
-| bip_39_word_new_br3 | snake<br>amazing<br>nuclear |  
-| bip_39_word_new_br4 | snake<br>amazing<br>nuclear<br>sketch |  
-| bip_39_word_new_br5 | snake<br>amazing<br>nuclear<br>sketch<br>file |  
-| bip_39_word_new_br6 | snake<br>amazing<br>nuclear<br>sketch<br>file<br>brass |  
-| bip_39_word_new_br7 | snake<br>amazing<br>nuclear<br>sketch<br>file<br>brass<br>vanish |  
-| bip_39_word_new_br8 | snake<br>amazing<br>nuclear<br>sketch<br>file<br>brass<br>vanish<br>index |  
-| bip_39_word_new_br9 | snake<br>amazing<br>nuclear<br>sketch<br>file<br>brass<br>vanish<br>index<br>gym |  
-| bip_39_word_new_line1 | snake |  
-| bip_39_word_new_line10 | snake
+| bip_39_word_new_br_1 | snake |  
+| bip_39_word_new_br_10 | snake<br>amazing<br>nuclear<br>sketch<br>file<br>brass<br>vanish<br>index<br>gym<br>install |  
+| bip_39_word_new_br_11 | snake<br>amazing<br>nuclear<br>sketch<br>file<br>brass<br>vanish<br>index<br>gym<br>install<br>bean |  
+| bip_39_word_new_br_12 | snake<br>amazing<br>nuclear<br>sketch<br>file<br>brass<br>vanish<br>index<br>gym<br>install<br>bean<br>account |  
+| bip_39_word_new_br_2 | snake<br>amazing |  
+| bip_39_word_new_br_3 | snake<br>amazing<br>nuclear |  
+| bip_39_word_new_br_4 | snake<br>amazing<br>nuclear<br>sketch |  
+| bip_39_word_new_br_5 | snake<br>amazing<br>nuclear<br>sketch<br>file |  
+| bip_39_word_new_br_6 | snake<br>amazing<br>nuclear<br>sketch<br>file<br>brass |  
+| bip_39_word_new_br_7 | snake<br>amazing<br>nuclear<br>sketch<br>file<br>brass<br>vanish |  
+| bip_39_word_new_br_8 | snake<br>amazing<br>nuclear<br>sketch<br>file<br>brass<br>vanish<br>index |  
+| bip_39_word_new_br_9 | snake<br>amazing<br>nuclear<br>sketch<br>file<br>brass<br>vanish<br>index<br>gym |  
+| bip_39_word_new_line_1 | snake |  
+| bip_39_word_new_line_10 | snake
 amazing
 nuclear
 sketch
@@ -55,7 +55,7 @@ vanish
 index
 gym
 install |  
-| bip_39_word_new_line11 | snake
+| bip_39_word_new_line_11 | snake
 amazing
 nuclear
 sketch
@@ -66,7 +66,7 @@ index
 gym
 install
 bean |  
-| bip_39_word_new_line12 | snake
+| bip_39_word_new_line_12 | snake
 amazing
 nuclear
 sketch
@@ -78,34 +78,34 @@ gym
 install
 bean
 account |  
-| bip_39_word_new_line2 | snake
+| bip_39_word_new_line_2 | snake
 amazing |  
-| bip_39_word_new_line3 | snake
+| bip_39_word_new_line_3 | snake
 amazing
 nuclear |  
-| bip_39_word_new_line4 | snake
+| bip_39_word_new_line_4 | snake
 amazing
 nuclear
 sketch |  
-| bip_39_word_new_line5 | snake
+| bip_39_word_new_line_5 | snake
 amazing
 nuclear
 sketch
 file |  
-| bip_39_word_new_line6 | snake
+| bip_39_word_new_line_6 | snake
 amazing
 nuclear
 sketch
 file
 brass |  
-| bip_39_word_new_line7 | snake
+| bip_39_word_new_line_7 | snake
 amazing
 nuclear
 sketch
 file
 brass
 vanish |  
-| bip_39_word_new_line8 | snake
+| bip_39_word_new_line_8 | snake
 amazing
 nuclear
 sketch
@@ -113,7 +113,7 @@ file
 brass
 vanish
 index |  
-| bip_39_word_new_line9 | snake
+| bip_39_word_new_line_9 | snake
 amazing
 nuclear
 sketch

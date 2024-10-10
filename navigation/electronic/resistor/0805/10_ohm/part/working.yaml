@@ -1,17 +1,17 @@
-bip_39_word_new_br1: weekend
-bip_39_word_new_br10: weekend<br>hold<br>install<br>picture<br>ten<br>assist<br>rain<br>vocal<br>sail<br>horror
-bip_39_word_new_br11: weekend<br>hold<br>install<br>picture<br>ten<br>assist<br>rain<br>vocal<br>sail<br>horror<br>filter
-bip_39_word_new_br12: weekend<br>hold<br>install<br>picture<br>ten<br>assist<br>rain<br>vocal<br>sail<br>horror<br>filter<br>arm
-bip_39_word_new_br2: weekend<br>hold
-bip_39_word_new_br3: weekend<br>hold<br>install
-bip_39_word_new_br4: weekend<br>hold<br>install<br>picture
-bip_39_word_new_br5: weekend<br>hold<br>install<br>picture<br>ten
-bip_39_word_new_br6: weekend<br>hold<br>install<br>picture<br>ten<br>assist
-bip_39_word_new_br7: weekend<br>hold<br>install<br>picture<br>ten<br>assist<br>rain
-bip_39_word_new_br8: weekend<br>hold<br>install<br>picture<br>ten<br>assist<br>rain<br>vocal
-bip_39_word_new_br9: weekend<br>hold<br>install<br>picture<br>ten<br>assist<br>rain<br>vocal<br>sail
-bip_39_word_new_line1: weekend
-bip_39_word_new_line10: 'weekend
+bip_39_word_new_br_1: weekend
+bip_39_word_new_br_10: weekend<br>hold<br>install<br>picture<br>ten<br>assist<br>rain<br>vocal<br>sail<br>horror
+bip_39_word_new_br_11: weekend<br>hold<br>install<br>picture<br>ten<br>assist<br>rain<br>vocal<br>sail<br>horror<br>filter
+bip_39_word_new_br_12: weekend<br>hold<br>install<br>picture<br>ten<br>assist<br>rain<br>vocal<br>sail<br>horror<br>filter<br>arm
+bip_39_word_new_br_2: weekend<br>hold
+bip_39_word_new_br_3: weekend<br>hold<br>install
+bip_39_word_new_br_4: weekend<br>hold<br>install<br>picture
+bip_39_word_new_br_5: weekend<br>hold<br>install<br>picture<br>ten
+bip_39_word_new_br_6: weekend<br>hold<br>install<br>picture<br>ten<br>assist
+bip_39_word_new_br_7: weekend<br>hold<br>install<br>picture<br>ten<br>assist<br>rain
+bip_39_word_new_br_8: weekend<br>hold<br>install<br>picture<br>ten<br>assist<br>rain<br>vocal
+bip_39_word_new_br_9: weekend<br>hold<br>install<br>picture<br>ten<br>assist<br>rain<br>vocal<br>sail
+bip_39_word_new_line_1: weekend
+bip_39_word_new_line_10: 'weekend
 
   hold
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'weekend
   sail
 
   horror'
-bip_39_word_new_line11: 'weekend
+bip_39_word_new_line_11: 'weekend
 
   hold
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'weekend
   horror
 
   filter'
-bip_39_word_new_line12: 'weekend
+bip_39_word_new_line_12: 'weekend
 
   hold
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'weekend
   filter
 
   arm'
-bip_39_word_new_line2: 'weekend
+bip_39_word_new_line_2: 'weekend
 
   hold'
-bip_39_word_new_line3: 'weekend
+bip_39_word_new_line_3: 'weekend
 
   hold
 
   install'
-bip_39_word_new_line4: 'weekend
+bip_39_word_new_line_4: 'weekend
 
   hold
 
   install
 
   picture'
-bip_39_word_new_line5: 'weekend
+bip_39_word_new_line_5: 'weekend
 
   hold
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'weekend
   picture
 
   ten'
-bip_39_word_new_line6: 'weekend
+bip_39_word_new_line_6: 'weekend
 
   hold
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'weekend
   ten
 
   assist'
-bip_39_word_new_line7: 'weekend
+bip_39_word_new_line_7: 'weekend
 
   hold
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'weekend
   assist
 
   rain'
-bip_39_word_new_line8: 'weekend
+bip_39_word_new_line_8: 'weekend
 
   hold
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'weekend
   rain
 
   vocal'
-bip_39_word_new_line9: 'weekend
+bip_39_word_new_line_9: 'weekend
 
   hold
 

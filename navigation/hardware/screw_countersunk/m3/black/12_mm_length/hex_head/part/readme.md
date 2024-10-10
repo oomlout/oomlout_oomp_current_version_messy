@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | unique |  
-| bip_39_word_new_br10 | unique<br>dog<br>issue<br>artefact<br>shiver<br>alcohol<br>priority<br>west<br>evil<br>image |  
-| bip_39_word_new_br11 | unique<br>dog<br>issue<br>artefact<br>shiver<br>alcohol<br>priority<br>west<br>evil<br>image<br>excuse |  
-| bip_39_word_new_br12 | unique<br>dog<br>issue<br>artefact<br>shiver<br>alcohol<br>priority<br>west<br>evil<br>image<br>excuse<br>approve |  
-| bip_39_word_new_br2 | unique<br>dog |  
-| bip_39_word_new_br3 | unique<br>dog<br>issue |  
-| bip_39_word_new_br4 | unique<br>dog<br>issue<br>artefact |  
-| bip_39_word_new_br5 | unique<br>dog<br>issue<br>artefact<br>shiver |  
-| bip_39_word_new_br6 | unique<br>dog<br>issue<br>artefact<br>shiver<br>alcohol |  
-| bip_39_word_new_br7 | unique<br>dog<br>issue<br>artefact<br>shiver<br>alcohol<br>priority |  
-| bip_39_word_new_br8 | unique<br>dog<br>issue<br>artefact<br>shiver<br>alcohol<br>priority<br>west |  
-| bip_39_word_new_br9 | unique<br>dog<br>issue<br>artefact<br>shiver<br>alcohol<br>priority<br>west<br>evil |  
-| bip_39_word_new_line1 | unique |  
-| bip_39_word_new_line10 | unique
+| bip_39_word_new_br_1 | unique |  
+| bip_39_word_new_br_10 | unique<br>dog<br>issue<br>artefact<br>shiver<br>alcohol<br>priority<br>west<br>evil<br>image |  
+| bip_39_word_new_br_11 | unique<br>dog<br>issue<br>artefact<br>shiver<br>alcohol<br>priority<br>west<br>evil<br>image<br>excuse |  
+| bip_39_word_new_br_12 | unique<br>dog<br>issue<br>artefact<br>shiver<br>alcohol<br>priority<br>west<br>evil<br>image<br>excuse<br>approve |  
+| bip_39_word_new_br_2 | unique<br>dog |  
+| bip_39_word_new_br_3 | unique<br>dog<br>issue |  
+| bip_39_word_new_br_4 | unique<br>dog<br>issue<br>artefact |  
+| bip_39_word_new_br_5 | unique<br>dog<br>issue<br>artefact<br>shiver |  
+| bip_39_word_new_br_6 | unique<br>dog<br>issue<br>artefact<br>shiver<br>alcohol |  
+| bip_39_word_new_br_7 | unique<br>dog<br>issue<br>artefact<br>shiver<br>alcohol<br>priority |  
+| bip_39_word_new_br_8 | unique<br>dog<br>issue<br>artefact<br>shiver<br>alcohol<br>priority<br>west |  
+| bip_39_word_new_br_9 | unique<br>dog<br>issue<br>artefact<br>shiver<br>alcohol<br>priority<br>west<br>evil |  
+| bip_39_word_new_line_1 | unique |  
+| bip_39_word_new_line_10 | unique
 dog
 issue
 artefact
@@ -55,7 +55,7 @@ priority
 west
 evil
 image |  
-| bip_39_word_new_line11 | unique
+| bip_39_word_new_line_11 | unique
 dog
 issue
 artefact
@@ -66,7 +66,7 @@ west
 evil
 image
 excuse |  
-| bip_39_word_new_line12 | unique
+| bip_39_word_new_line_12 | unique
 dog
 issue
 artefact
@@ -78,34 +78,34 @@ evil
 image
 excuse
 approve |  
-| bip_39_word_new_line2 | unique
+| bip_39_word_new_line_2 | unique
 dog |  
-| bip_39_word_new_line3 | unique
+| bip_39_word_new_line_3 | unique
 dog
 issue |  
-| bip_39_word_new_line4 | unique
+| bip_39_word_new_line_4 | unique
 dog
 issue
 artefact |  
-| bip_39_word_new_line5 | unique
+| bip_39_word_new_line_5 | unique
 dog
 issue
 artefact
 shiver |  
-| bip_39_word_new_line6 | unique
+| bip_39_word_new_line_6 | unique
 dog
 issue
 artefact
 shiver
 alcohol |  
-| bip_39_word_new_line7 | unique
+| bip_39_word_new_line_7 | unique
 dog
 issue
 artefact
 shiver
 alcohol
 priority |  
-| bip_39_word_new_line8 | unique
+| bip_39_word_new_line_8 | unique
 dog
 issue
 artefact
@@ -113,7 +113,7 @@ shiver
 alcohol
 priority
 west |  
-| bip_39_word_new_line9 | unique
+| bip_39_word_new_line_9 | unique
 dog
 issue
 artefact

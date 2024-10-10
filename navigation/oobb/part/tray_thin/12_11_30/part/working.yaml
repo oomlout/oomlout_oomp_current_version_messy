@@ -1,17 +1,17 @@
-bip_39_word_new_br1: hello
-bip_39_word_new_br10: hello<br>word<br>obscure<br>umbrella<br>category<br>trap<br>injury<br>catalog<br>abstract<br>bargain
-bip_39_word_new_br11: hello<br>word<br>obscure<br>umbrella<br>category<br>trap<br>injury<br>catalog<br>abstract<br>bargain<br>grief
-bip_39_word_new_br12: hello<br>word<br>obscure<br>umbrella<br>category<br>trap<br>injury<br>catalog<br>abstract<br>bargain<br>grief<br>add
-bip_39_word_new_br2: hello<br>word
-bip_39_word_new_br3: hello<br>word<br>obscure
-bip_39_word_new_br4: hello<br>word<br>obscure<br>umbrella
-bip_39_word_new_br5: hello<br>word<br>obscure<br>umbrella<br>category
-bip_39_word_new_br6: hello<br>word<br>obscure<br>umbrella<br>category<br>trap
-bip_39_word_new_br7: hello<br>word<br>obscure<br>umbrella<br>category<br>trap<br>injury
-bip_39_word_new_br8: hello<br>word<br>obscure<br>umbrella<br>category<br>trap<br>injury<br>catalog
-bip_39_word_new_br9: hello<br>word<br>obscure<br>umbrella<br>category<br>trap<br>injury<br>catalog<br>abstract
-bip_39_word_new_line1: hello
-bip_39_word_new_line10: 'hello
+bip_39_word_new_br_1: hello
+bip_39_word_new_br_10: hello<br>word<br>obscure<br>umbrella<br>category<br>trap<br>injury<br>catalog<br>abstract<br>bargain
+bip_39_word_new_br_11: hello<br>word<br>obscure<br>umbrella<br>category<br>trap<br>injury<br>catalog<br>abstract<br>bargain<br>grief
+bip_39_word_new_br_12: hello<br>word<br>obscure<br>umbrella<br>category<br>trap<br>injury<br>catalog<br>abstract<br>bargain<br>grief<br>add
+bip_39_word_new_br_2: hello<br>word
+bip_39_word_new_br_3: hello<br>word<br>obscure
+bip_39_word_new_br_4: hello<br>word<br>obscure<br>umbrella
+bip_39_word_new_br_5: hello<br>word<br>obscure<br>umbrella<br>category
+bip_39_word_new_br_6: hello<br>word<br>obscure<br>umbrella<br>category<br>trap
+bip_39_word_new_br_7: hello<br>word<br>obscure<br>umbrella<br>category<br>trap<br>injury
+bip_39_word_new_br_8: hello<br>word<br>obscure<br>umbrella<br>category<br>trap<br>injury<br>catalog
+bip_39_word_new_br_9: hello<br>word<br>obscure<br>umbrella<br>category<br>trap<br>injury<br>catalog<br>abstract
+bip_39_word_new_line_1: hello
+bip_39_word_new_line_10: 'hello
 
   word
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'hello
   abstract
 
   bargain'
-bip_39_word_new_line11: 'hello
+bip_39_word_new_line_11: 'hello
 
   word
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'hello
   bargain
 
   grief'
-bip_39_word_new_line12: 'hello
+bip_39_word_new_line_12: 'hello
 
   word
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'hello
   grief
 
   add'
-bip_39_word_new_line2: 'hello
+bip_39_word_new_line_2: 'hello
 
   word'
-bip_39_word_new_line3: 'hello
+bip_39_word_new_line_3: 'hello
 
   word
 
   obscure'
-bip_39_word_new_line4: 'hello
+bip_39_word_new_line_4: 'hello
 
   word
 
   obscure
 
   umbrella'
-bip_39_word_new_line5: 'hello
+bip_39_word_new_line_5: 'hello
 
   word
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'hello
   umbrella
 
   category'
-bip_39_word_new_line6: 'hello
+bip_39_word_new_line_6: 'hello
 
   word
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'hello
   category
 
   trap'
-bip_39_word_new_line7: 'hello
+bip_39_word_new_line_7: 'hello
 
   word
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'hello
   trap
 
   injury'
-bip_39_word_new_line8: 'hello
+bip_39_word_new_line_8: 'hello
 
   word
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'hello
   injury
 
   catalog'
-bip_39_word_new_line9: 'hello
+bip_39_word_new_line_9: 'hello
 
   word
 

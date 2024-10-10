@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | truck |  
-| bip_39_word_new_br10 | truck<br>deny<br>math<br>camera<br>bar<br>lazy<br>series<br>exist<br>travel<br>elephant |  
-| bip_39_word_new_br11 | truck<br>deny<br>math<br>camera<br>bar<br>lazy<br>series<br>exist<br>travel<br>elephant<br>fabric |  
-| bip_39_word_new_br12 | truck<br>deny<br>math<br>camera<br>bar<br>lazy<br>series<br>exist<br>travel<br>elephant<br>fabric<br>accuse |  
-| bip_39_word_new_br2 | truck<br>deny |  
-| bip_39_word_new_br3 | truck<br>deny<br>math |  
-| bip_39_word_new_br4 | truck<br>deny<br>math<br>camera |  
-| bip_39_word_new_br5 | truck<br>deny<br>math<br>camera<br>bar |  
-| bip_39_word_new_br6 | truck<br>deny<br>math<br>camera<br>bar<br>lazy |  
-| bip_39_word_new_br7 | truck<br>deny<br>math<br>camera<br>bar<br>lazy<br>series |  
-| bip_39_word_new_br8 | truck<br>deny<br>math<br>camera<br>bar<br>lazy<br>series<br>exist |  
-| bip_39_word_new_br9 | truck<br>deny<br>math<br>camera<br>bar<br>lazy<br>series<br>exist<br>travel |  
-| bip_39_word_new_line1 | truck |  
-| bip_39_word_new_line10 | truck
+| bip_39_word_new_br_1 | truck |  
+| bip_39_word_new_br_10 | truck<br>deny<br>math<br>camera<br>bar<br>lazy<br>series<br>exist<br>travel<br>elephant |  
+| bip_39_word_new_br_11 | truck<br>deny<br>math<br>camera<br>bar<br>lazy<br>series<br>exist<br>travel<br>elephant<br>fabric |  
+| bip_39_word_new_br_12 | truck<br>deny<br>math<br>camera<br>bar<br>lazy<br>series<br>exist<br>travel<br>elephant<br>fabric<br>accuse |  
+| bip_39_word_new_br_2 | truck<br>deny |  
+| bip_39_word_new_br_3 | truck<br>deny<br>math |  
+| bip_39_word_new_br_4 | truck<br>deny<br>math<br>camera |  
+| bip_39_word_new_br_5 | truck<br>deny<br>math<br>camera<br>bar |  
+| bip_39_word_new_br_6 | truck<br>deny<br>math<br>camera<br>bar<br>lazy |  
+| bip_39_word_new_br_7 | truck<br>deny<br>math<br>camera<br>bar<br>lazy<br>series |  
+| bip_39_word_new_br_8 | truck<br>deny<br>math<br>camera<br>bar<br>lazy<br>series<br>exist |  
+| bip_39_word_new_br_9 | truck<br>deny<br>math<br>camera<br>bar<br>lazy<br>series<br>exist<br>travel |  
+| bip_39_word_new_line_1 | truck |  
+| bip_39_word_new_line_10 | truck
 deny
 math
 camera
@@ -55,7 +55,7 @@ series
 exist
 travel
 elephant |  
-| bip_39_word_new_line11 | truck
+| bip_39_word_new_line_11 | truck
 deny
 math
 camera
@@ -66,7 +66,7 @@ exist
 travel
 elephant
 fabric |  
-| bip_39_word_new_line12 | truck
+| bip_39_word_new_line_12 | truck
 deny
 math
 camera
@@ -78,34 +78,34 @@ travel
 elephant
 fabric
 accuse |  
-| bip_39_word_new_line2 | truck
+| bip_39_word_new_line_2 | truck
 deny |  
-| bip_39_word_new_line3 | truck
+| bip_39_word_new_line_3 | truck
 deny
 math |  
-| bip_39_word_new_line4 | truck
+| bip_39_word_new_line_4 | truck
 deny
 math
 camera |  
-| bip_39_word_new_line5 | truck
+| bip_39_word_new_line_5 | truck
 deny
 math
 camera
 bar |  
-| bip_39_word_new_line6 | truck
+| bip_39_word_new_line_6 | truck
 deny
 math
 camera
 bar
 lazy |  
-| bip_39_word_new_line7 | truck
+| bip_39_word_new_line_7 | truck
 deny
 math
 camera
 bar
 lazy
 series |  
-| bip_39_word_new_line8 | truck
+| bip_39_word_new_line_8 | truck
 deny
 math
 camera
@@ -113,7 +113,7 @@ bar
 lazy
 series
 exist |  
-| bip_39_word_new_line9 | truck
+| bip_39_word_new_line_9 | truck
 deny
 math
 camera

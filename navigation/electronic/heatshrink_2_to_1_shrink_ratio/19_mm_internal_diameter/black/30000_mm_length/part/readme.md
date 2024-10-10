@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fault |  
-| bip_39_word_new_br10 | fault<br>key<br>average<br>duck<br>agree<br>senior<br>auction<br>orchard<br>uphold<br>sight |  
-| bip_39_word_new_br11 | fault<br>key<br>average<br>duck<br>agree<br>senior<br>auction<br>orchard<br>uphold<br>sight<br>skull |  
-| bip_39_word_new_br12 | fault<br>key<br>average<br>duck<br>agree<br>senior<br>auction<br>orchard<br>uphold<br>sight<br>skull<br>across |  
-| bip_39_word_new_br2 | fault<br>key |  
-| bip_39_word_new_br3 | fault<br>key<br>average |  
-| bip_39_word_new_br4 | fault<br>key<br>average<br>duck |  
-| bip_39_word_new_br5 | fault<br>key<br>average<br>duck<br>agree |  
-| bip_39_word_new_br6 | fault<br>key<br>average<br>duck<br>agree<br>senior |  
-| bip_39_word_new_br7 | fault<br>key<br>average<br>duck<br>agree<br>senior<br>auction |  
-| bip_39_word_new_br8 | fault<br>key<br>average<br>duck<br>agree<br>senior<br>auction<br>orchard |  
-| bip_39_word_new_br9 | fault<br>key<br>average<br>duck<br>agree<br>senior<br>auction<br>orchard<br>uphold |  
-| bip_39_word_new_line1 | fault |  
-| bip_39_word_new_line10 | fault
+| bip_39_word_new_br_1 | fault |  
+| bip_39_word_new_br_10 | fault<br>key<br>average<br>duck<br>agree<br>senior<br>auction<br>orchard<br>uphold<br>sight |  
+| bip_39_word_new_br_11 | fault<br>key<br>average<br>duck<br>agree<br>senior<br>auction<br>orchard<br>uphold<br>sight<br>skull |  
+| bip_39_word_new_br_12 | fault<br>key<br>average<br>duck<br>agree<br>senior<br>auction<br>orchard<br>uphold<br>sight<br>skull<br>across |  
+| bip_39_word_new_br_2 | fault<br>key |  
+| bip_39_word_new_br_3 | fault<br>key<br>average |  
+| bip_39_word_new_br_4 | fault<br>key<br>average<br>duck |  
+| bip_39_word_new_br_5 | fault<br>key<br>average<br>duck<br>agree |  
+| bip_39_word_new_br_6 | fault<br>key<br>average<br>duck<br>agree<br>senior |  
+| bip_39_word_new_br_7 | fault<br>key<br>average<br>duck<br>agree<br>senior<br>auction |  
+| bip_39_word_new_br_8 | fault<br>key<br>average<br>duck<br>agree<br>senior<br>auction<br>orchard |  
+| bip_39_word_new_br_9 | fault<br>key<br>average<br>duck<br>agree<br>senior<br>auction<br>orchard<br>uphold |  
+| bip_39_word_new_line_1 | fault |  
+| bip_39_word_new_line_10 | fault
 key
 average
 duck
@@ -55,7 +55,7 @@ auction
 orchard
 uphold
 sight |  
-| bip_39_word_new_line11 | fault
+| bip_39_word_new_line_11 | fault
 key
 average
 duck
@@ -66,7 +66,7 @@ orchard
 uphold
 sight
 skull |  
-| bip_39_word_new_line12 | fault
+| bip_39_word_new_line_12 | fault
 key
 average
 duck
@@ -78,34 +78,34 @@ uphold
 sight
 skull
 across |  
-| bip_39_word_new_line2 | fault
+| bip_39_word_new_line_2 | fault
 key |  
-| bip_39_word_new_line3 | fault
+| bip_39_word_new_line_3 | fault
 key
 average |  
-| bip_39_word_new_line4 | fault
+| bip_39_word_new_line_4 | fault
 key
 average
 duck |  
-| bip_39_word_new_line5 | fault
+| bip_39_word_new_line_5 | fault
 key
 average
 duck
 agree |  
-| bip_39_word_new_line6 | fault
+| bip_39_word_new_line_6 | fault
 key
 average
 duck
 agree
 senior |  
-| bip_39_word_new_line7 | fault
+| bip_39_word_new_line_7 | fault
 key
 average
 duck
 agree
 senior
 auction |  
-| bip_39_word_new_line8 | fault
+| bip_39_word_new_line_8 | fault
 key
 average
 duck
@@ -113,7 +113,7 @@ agree
 senior
 auction
 orchard |  
-| bip_39_word_new_line9 | fault
+| bip_39_word_new_line_9 | fault
 key
 average
 duck

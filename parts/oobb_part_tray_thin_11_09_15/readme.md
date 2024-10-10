@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | satisfy |  
-| bip_39_word_new_br10 | satisfy<br>neglect<br>enact<br>twin<br>cube<br>random<br>also<br>core<br>sign<br>youth |  
-| bip_39_word_new_br11 | satisfy<br>neglect<br>enact<br>twin<br>cube<br>random<br>also<br>core<br>sign<br>youth<br>evidence |  
-| bip_39_word_new_br12 | satisfy<br>neglect<br>enact<br>twin<br>cube<br>random<br>also<br>core<br>sign<br>youth<br>evidence<br>aim |  
-| bip_39_word_new_br2 | satisfy<br>neglect |  
-| bip_39_word_new_br3 | satisfy<br>neglect<br>enact |  
-| bip_39_word_new_br4 | satisfy<br>neglect<br>enact<br>twin |  
-| bip_39_word_new_br5 | satisfy<br>neglect<br>enact<br>twin<br>cube |  
-| bip_39_word_new_br6 | satisfy<br>neglect<br>enact<br>twin<br>cube<br>random |  
-| bip_39_word_new_br7 | satisfy<br>neglect<br>enact<br>twin<br>cube<br>random<br>also |  
-| bip_39_word_new_br8 | satisfy<br>neglect<br>enact<br>twin<br>cube<br>random<br>also<br>core |  
-| bip_39_word_new_br9 | satisfy<br>neglect<br>enact<br>twin<br>cube<br>random<br>also<br>core<br>sign |  
-| bip_39_word_new_line1 | satisfy |  
-| bip_39_word_new_line10 | satisfy
+| bip_39_word_new_br_1 | satisfy |  
+| bip_39_word_new_br_10 | satisfy<br>neglect<br>enact<br>twin<br>cube<br>random<br>also<br>core<br>sign<br>youth |  
+| bip_39_word_new_br_11 | satisfy<br>neglect<br>enact<br>twin<br>cube<br>random<br>also<br>core<br>sign<br>youth<br>evidence |  
+| bip_39_word_new_br_12 | satisfy<br>neglect<br>enact<br>twin<br>cube<br>random<br>also<br>core<br>sign<br>youth<br>evidence<br>aim |  
+| bip_39_word_new_br_2 | satisfy<br>neglect |  
+| bip_39_word_new_br_3 | satisfy<br>neglect<br>enact |  
+| bip_39_word_new_br_4 | satisfy<br>neglect<br>enact<br>twin |  
+| bip_39_word_new_br_5 | satisfy<br>neglect<br>enact<br>twin<br>cube |  
+| bip_39_word_new_br_6 | satisfy<br>neglect<br>enact<br>twin<br>cube<br>random |  
+| bip_39_word_new_br_7 | satisfy<br>neglect<br>enact<br>twin<br>cube<br>random<br>also |  
+| bip_39_word_new_br_8 | satisfy<br>neglect<br>enact<br>twin<br>cube<br>random<br>also<br>core |  
+| bip_39_word_new_br_9 | satisfy<br>neglect<br>enact<br>twin<br>cube<br>random<br>also<br>core<br>sign |  
+| bip_39_word_new_line_1 | satisfy |  
+| bip_39_word_new_line_10 | satisfy
 neglect
 enact
 twin
@@ -55,7 +55,7 @@ also
 core
 sign
 youth |  
-| bip_39_word_new_line11 | satisfy
+| bip_39_word_new_line_11 | satisfy
 neglect
 enact
 twin
@@ -66,7 +66,7 @@ core
 sign
 youth
 evidence |  
-| bip_39_word_new_line12 | satisfy
+| bip_39_word_new_line_12 | satisfy
 neglect
 enact
 twin
@@ -78,34 +78,34 @@ sign
 youth
 evidence
 aim |  
-| bip_39_word_new_line2 | satisfy
+| bip_39_word_new_line_2 | satisfy
 neglect |  
-| bip_39_word_new_line3 | satisfy
+| bip_39_word_new_line_3 | satisfy
 neglect
 enact |  
-| bip_39_word_new_line4 | satisfy
+| bip_39_word_new_line_4 | satisfy
 neglect
 enact
 twin |  
-| bip_39_word_new_line5 | satisfy
+| bip_39_word_new_line_5 | satisfy
 neglect
 enact
 twin
 cube |  
-| bip_39_word_new_line6 | satisfy
+| bip_39_word_new_line_6 | satisfy
 neglect
 enact
 twin
 cube
 random |  
-| bip_39_word_new_line7 | satisfy
+| bip_39_word_new_line_7 | satisfy
 neglect
 enact
 twin
 cube
 random
 also |  
-| bip_39_word_new_line8 | satisfy
+| bip_39_word_new_line_8 | satisfy
 neglect
 enact
 twin
@@ -113,7 +113,7 @@ cube
 random
 also
 core |  
-| bip_39_word_new_line9 | satisfy
+| bip_39_word_new_line_9 | satisfy
 neglect
 enact
 twin

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | blade |  
-| bip_39_word_new_br10 | blade<br>gadget<br>engage<br>bulk<br>fame<br>idea<br>aspect<br>captain<br>nice<br>cricket |  
-| bip_39_word_new_br11 | blade<br>gadget<br>engage<br>bulk<br>fame<br>idea<br>aspect<br>captain<br>nice<br>cricket<br>flush |  
-| bip_39_word_new_br12 | blade<br>gadget<br>engage<br>bulk<br>fame<br>idea<br>aspect<br>captain<br>nice<br>cricket<br>flush<br>allow |  
-| bip_39_word_new_br2 | blade<br>gadget |  
-| bip_39_word_new_br3 | blade<br>gadget<br>engage |  
-| bip_39_word_new_br4 | blade<br>gadget<br>engage<br>bulk |  
-| bip_39_word_new_br5 | blade<br>gadget<br>engage<br>bulk<br>fame |  
-| bip_39_word_new_br6 | blade<br>gadget<br>engage<br>bulk<br>fame<br>idea |  
-| bip_39_word_new_br7 | blade<br>gadget<br>engage<br>bulk<br>fame<br>idea<br>aspect |  
-| bip_39_word_new_br8 | blade<br>gadget<br>engage<br>bulk<br>fame<br>idea<br>aspect<br>captain |  
-| bip_39_word_new_br9 | blade<br>gadget<br>engage<br>bulk<br>fame<br>idea<br>aspect<br>captain<br>nice |  
-| bip_39_word_new_line1 | blade |  
-| bip_39_word_new_line10 | blade
+| bip_39_word_new_br_1 | blade |  
+| bip_39_word_new_br_10 | blade<br>gadget<br>engage<br>bulk<br>fame<br>idea<br>aspect<br>captain<br>nice<br>cricket |  
+| bip_39_word_new_br_11 | blade<br>gadget<br>engage<br>bulk<br>fame<br>idea<br>aspect<br>captain<br>nice<br>cricket<br>flush |  
+| bip_39_word_new_br_12 | blade<br>gadget<br>engage<br>bulk<br>fame<br>idea<br>aspect<br>captain<br>nice<br>cricket<br>flush<br>allow |  
+| bip_39_word_new_br_2 | blade<br>gadget |  
+| bip_39_word_new_br_3 | blade<br>gadget<br>engage |  
+| bip_39_word_new_br_4 | blade<br>gadget<br>engage<br>bulk |  
+| bip_39_word_new_br_5 | blade<br>gadget<br>engage<br>bulk<br>fame |  
+| bip_39_word_new_br_6 | blade<br>gadget<br>engage<br>bulk<br>fame<br>idea |  
+| bip_39_word_new_br_7 | blade<br>gadget<br>engage<br>bulk<br>fame<br>idea<br>aspect |  
+| bip_39_word_new_br_8 | blade<br>gadget<br>engage<br>bulk<br>fame<br>idea<br>aspect<br>captain |  
+| bip_39_word_new_br_9 | blade<br>gadget<br>engage<br>bulk<br>fame<br>idea<br>aspect<br>captain<br>nice |  
+| bip_39_word_new_line_1 | blade |  
+| bip_39_word_new_line_10 | blade
 gadget
 engage
 bulk
@@ -55,7 +55,7 @@ aspect
 captain
 nice
 cricket |  
-| bip_39_word_new_line11 | blade
+| bip_39_word_new_line_11 | blade
 gadget
 engage
 bulk
@@ -66,7 +66,7 @@ captain
 nice
 cricket
 flush |  
-| bip_39_word_new_line12 | blade
+| bip_39_word_new_line_12 | blade
 gadget
 engage
 bulk
@@ -78,34 +78,34 @@ nice
 cricket
 flush
 allow |  
-| bip_39_word_new_line2 | blade
+| bip_39_word_new_line_2 | blade
 gadget |  
-| bip_39_word_new_line3 | blade
+| bip_39_word_new_line_3 | blade
 gadget
 engage |  
-| bip_39_word_new_line4 | blade
+| bip_39_word_new_line_4 | blade
 gadget
 engage
 bulk |  
-| bip_39_word_new_line5 | blade
+| bip_39_word_new_line_5 | blade
 gadget
 engage
 bulk
 fame |  
-| bip_39_word_new_line6 | blade
+| bip_39_word_new_line_6 | blade
 gadget
 engage
 bulk
 fame
 idea |  
-| bip_39_word_new_line7 | blade
+| bip_39_word_new_line_7 | blade
 gadget
 engage
 bulk
 fame
 idea
 aspect |  
-| bip_39_word_new_line8 | blade
+| bip_39_word_new_line_8 | blade
 gadget
 engage
 bulk
@@ -113,7 +113,7 @@ fame
 idea
 aspect
 captain |  
-| bip_39_word_new_line9 | blade
+| bip_39_word_new_line_9 | blade
 gadget
 engage
 bulk

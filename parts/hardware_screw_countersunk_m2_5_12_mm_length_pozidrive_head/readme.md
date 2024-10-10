@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gravity |  
-| bip_39_word_new_br10 | gravity<br>usage<br>test<br>creek<br>sign<br>depart<br>endorse<br>idea<br>all<br>alley |  
-| bip_39_word_new_br11 | gravity<br>usage<br>test<br>creek<br>sign<br>depart<br>endorse<br>idea<br>all<br>alley<br>flock |  
-| bip_39_word_new_br12 | gravity<br>usage<br>test<br>creek<br>sign<br>depart<br>endorse<br>idea<br>all<br>alley<br>flock<br>angry |  
-| bip_39_word_new_br2 | gravity<br>usage |  
-| bip_39_word_new_br3 | gravity<br>usage<br>test |  
-| bip_39_word_new_br4 | gravity<br>usage<br>test<br>creek |  
-| bip_39_word_new_br5 | gravity<br>usage<br>test<br>creek<br>sign |  
-| bip_39_word_new_br6 | gravity<br>usage<br>test<br>creek<br>sign<br>depart |  
-| bip_39_word_new_br7 | gravity<br>usage<br>test<br>creek<br>sign<br>depart<br>endorse |  
-| bip_39_word_new_br8 | gravity<br>usage<br>test<br>creek<br>sign<br>depart<br>endorse<br>idea |  
-| bip_39_word_new_br9 | gravity<br>usage<br>test<br>creek<br>sign<br>depart<br>endorse<br>idea<br>all |  
-| bip_39_word_new_line1 | gravity |  
-| bip_39_word_new_line10 | gravity
+| bip_39_word_new_br_1 | gravity |  
+| bip_39_word_new_br_10 | gravity<br>usage<br>test<br>creek<br>sign<br>depart<br>endorse<br>idea<br>all<br>alley |  
+| bip_39_word_new_br_11 | gravity<br>usage<br>test<br>creek<br>sign<br>depart<br>endorse<br>idea<br>all<br>alley<br>flock |  
+| bip_39_word_new_br_12 | gravity<br>usage<br>test<br>creek<br>sign<br>depart<br>endorse<br>idea<br>all<br>alley<br>flock<br>angry |  
+| bip_39_word_new_br_2 | gravity<br>usage |  
+| bip_39_word_new_br_3 | gravity<br>usage<br>test |  
+| bip_39_word_new_br_4 | gravity<br>usage<br>test<br>creek |  
+| bip_39_word_new_br_5 | gravity<br>usage<br>test<br>creek<br>sign |  
+| bip_39_word_new_br_6 | gravity<br>usage<br>test<br>creek<br>sign<br>depart |  
+| bip_39_word_new_br_7 | gravity<br>usage<br>test<br>creek<br>sign<br>depart<br>endorse |  
+| bip_39_word_new_br_8 | gravity<br>usage<br>test<br>creek<br>sign<br>depart<br>endorse<br>idea |  
+| bip_39_word_new_br_9 | gravity<br>usage<br>test<br>creek<br>sign<br>depart<br>endorse<br>idea<br>all |  
+| bip_39_word_new_line_1 | gravity |  
+| bip_39_word_new_line_10 | gravity
 usage
 test
 creek
@@ -55,7 +55,7 @@ endorse
 idea
 all
 alley |  
-| bip_39_word_new_line11 | gravity
+| bip_39_word_new_line_11 | gravity
 usage
 test
 creek
@@ -66,7 +66,7 @@ idea
 all
 alley
 flock |  
-| bip_39_word_new_line12 | gravity
+| bip_39_word_new_line_12 | gravity
 usage
 test
 creek
@@ -78,34 +78,34 @@ all
 alley
 flock
 angry |  
-| bip_39_word_new_line2 | gravity
+| bip_39_word_new_line_2 | gravity
 usage |  
-| bip_39_word_new_line3 | gravity
+| bip_39_word_new_line_3 | gravity
 usage
 test |  
-| bip_39_word_new_line4 | gravity
+| bip_39_word_new_line_4 | gravity
 usage
 test
 creek |  
-| bip_39_word_new_line5 | gravity
+| bip_39_word_new_line_5 | gravity
 usage
 test
 creek
 sign |  
-| bip_39_word_new_line6 | gravity
+| bip_39_word_new_line_6 | gravity
 usage
 test
 creek
 sign
 depart |  
-| bip_39_word_new_line7 | gravity
+| bip_39_word_new_line_7 | gravity
 usage
 test
 creek
 sign
 depart
 endorse |  
-| bip_39_word_new_line8 | gravity
+| bip_39_word_new_line_8 | gravity
 usage
 test
 creek
@@ -113,7 +113,7 @@ sign
 depart
 endorse
 idea |  
-| bip_39_word_new_line9 | gravity
+| bip_39_word_new_line_9 | gravity
 usage
 test
 creek

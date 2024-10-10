@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | impose |  
-| bip_39_word_new_br10 | impose<br>excuse<br>luggage<br>snake<br>inner<br>whale<br>say<br>offer<br>gaze<br>once |  
-| bip_39_word_new_br11 | impose<br>excuse<br>luggage<br>snake<br>inner<br>whale<br>say<br>offer<br>gaze<br>once<br>dry |  
-| bip_39_word_new_br12 | impose<br>excuse<br>luggage<br>snake<br>inner<br>whale<br>say<br>offer<br>gaze<br>once<br>dry<br>adult |  
-| bip_39_word_new_br2 | impose<br>excuse |  
-| bip_39_word_new_br3 | impose<br>excuse<br>luggage |  
-| bip_39_word_new_br4 | impose<br>excuse<br>luggage<br>snake |  
-| bip_39_word_new_br5 | impose<br>excuse<br>luggage<br>snake<br>inner |  
-| bip_39_word_new_br6 | impose<br>excuse<br>luggage<br>snake<br>inner<br>whale |  
-| bip_39_word_new_br7 | impose<br>excuse<br>luggage<br>snake<br>inner<br>whale<br>say |  
-| bip_39_word_new_br8 | impose<br>excuse<br>luggage<br>snake<br>inner<br>whale<br>say<br>offer |  
-| bip_39_word_new_br9 | impose<br>excuse<br>luggage<br>snake<br>inner<br>whale<br>say<br>offer<br>gaze |  
-| bip_39_word_new_line1 | impose |  
-| bip_39_word_new_line10 | impose
+| bip_39_word_new_br_1 | impose |  
+| bip_39_word_new_br_10 | impose<br>excuse<br>luggage<br>snake<br>inner<br>whale<br>say<br>offer<br>gaze<br>once |  
+| bip_39_word_new_br_11 | impose<br>excuse<br>luggage<br>snake<br>inner<br>whale<br>say<br>offer<br>gaze<br>once<br>dry |  
+| bip_39_word_new_br_12 | impose<br>excuse<br>luggage<br>snake<br>inner<br>whale<br>say<br>offer<br>gaze<br>once<br>dry<br>adult |  
+| bip_39_word_new_br_2 | impose<br>excuse |  
+| bip_39_word_new_br_3 | impose<br>excuse<br>luggage |  
+| bip_39_word_new_br_4 | impose<br>excuse<br>luggage<br>snake |  
+| bip_39_word_new_br_5 | impose<br>excuse<br>luggage<br>snake<br>inner |  
+| bip_39_word_new_br_6 | impose<br>excuse<br>luggage<br>snake<br>inner<br>whale |  
+| bip_39_word_new_br_7 | impose<br>excuse<br>luggage<br>snake<br>inner<br>whale<br>say |  
+| bip_39_word_new_br_8 | impose<br>excuse<br>luggage<br>snake<br>inner<br>whale<br>say<br>offer |  
+| bip_39_word_new_br_9 | impose<br>excuse<br>luggage<br>snake<br>inner<br>whale<br>say<br>offer<br>gaze |  
+| bip_39_word_new_line_1 | impose |  
+| bip_39_word_new_line_10 | impose
 excuse
 luggage
 snake
@@ -55,7 +55,7 @@ say
 offer
 gaze
 once |  
-| bip_39_word_new_line11 | impose
+| bip_39_word_new_line_11 | impose
 excuse
 luggage
 snake
@@ -66,7 +66,7 @@ offer
 gaze
 once
 dry |  
-| bip_39_word_new_line12 | impose
+| bip_39_word_new_line_12 | impose
 excuse
 luggage
 snake
@@ -78,34 +78,34 @@ gaze
 once
 dry
 adult |  
-| bip_39_word_new_line2 | impose
+| bip_39_word_new_line_2 | impose
 excuse |  
-| bip_39_word_new_line3 | impose
+| bip_39_word_new_line_3 | impose
 excuse
 luggage |  
-| bip_39_word_new_line4 | impose
+| bip_39_word_new_line_4 | impose
 excuse
 luggage
 snake |  
-| bip_39_word_new_line5 | impose
+| bip_39_word_new_line_5 | impose
 excuse
 luggage
 snake
 inner |  
-| bip_39_word_new_line6 | impose
+| bip_39_word_new_line_6 | impose
 excuse
 luggage
 snake
 inner
 whale |  
-| bip_39_word_new_line7 | impose
+| bip_39_word_new_line_7 | impose
 excuse
 luggage
 snake
 inner
 whale
 say |  
-| bip_39_word_new_line8 | impose
+| bip_39_word_new_line_8 | impose
 excuse
 luggage
 snake
@@ -113,7 +113,7 @@ inner
 whale
 say
 offer |  
-| bip_39_word_new_line9 | impose
+| bip_39_word_new_line_9 | impose
 excuse
 luggage
 snake

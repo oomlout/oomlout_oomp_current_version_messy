@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | desk |  
-| bip_39_word_new_br10 | desk<br>salmon<br>tobacco<br>drum<br>fall<br>coin<br>envelope<br>base<br>flight<br>prize |  
-| bip_39_word_new_br11 | desk<br>salmon<br>tobacco<br>drum<br>fall<br>coin<br>envelope<br>base<br>flight<br>prize<br>direct |  
-| bip_39_word_new_br12 | desk<br>salmon<br>tobacco<br>drum<br>fall<br>coin<br>envelope<br>base<br>flight<br>prize<br>direct<br>alien |  
-| bip_39_word_new_br2 | desk<br>salmon |  
-| bip_39_word_new_br3 | desk<br>salmon<br>tobacco |  
-| bip_39_word_new_br4 | desk<br>salmon<br>tobacco<br>drum |  
-| bip_39_word_new_br5 | desk<br>salmon<br>tobacco<br>drum<br>fall |  
-| bip_39_word_new_br6 | desk<br>salmon<br>tobacco<br>drum<br>fall<br>coin |  
-| bip_39_word_new_br7 | desk<br>salmon<br>tobacco<br>drum<br>fall<br>coin<br>envelope |  
-| bip_39_word_new_br8 | desk<br>salmon<br>tobacco<br>drum<br>fall<br>coin<br>envelope<br>base |  
-| bip_39_word_new_br9 | desk<br>salmon<br>tobacco<br>drum<br>fall<br>coin<br>envelope<br>base<br>flight |  
-| bip_39_word_new_line1 | desk |  
-| bip_39_word_new_line10 | desk
+| bip_39_word_new_br_1 | desk |  
+| bip_39_word_new_br_10 | desk<br>salmon<br>tobacco<br>drum<br>fall<br>coin<br>envelope<br>base<br>flight<br>prize |  
+| bip_39_word_new_br_11 | desk<br>salmon<br>tobacco<br>drum<br>fall<br>coin<br>envelope<br>base<br>flight<br>prize<br>direct |  
+| bip_39_word_new_br_12 | desk<br>salmon<br>tobacco<br>drum<br>fall<br>coin<br>envelope<br>base<br>flight<br>prize<br>direct<br>alien |  
+| bip_39_word_new_br_2 | desk<br>salmon |  
+| bip_39_word_new_br_3 | desk<br>salmon<br>tobacco |  
+| bip_39_word_new_br_4 | desk<br>salmon<br>tobacco<br>drum |  
+| bip_39_word_new_br_5 | desk<br>salmon<br>tobacco<br>drum<br>fall |  
+| bip_39_word_new_br_6 | desk<br>salmon<br>tobacco<br>drum<br>fall<br>coin |  
+| bip_39_word_new_br_7 | desk<br>salmon<br>tobacco<br>drum<br>fall<br>coin<br>envelope |  
+| bip_39_word_new_br_8 | desk<br>salmon<br>tobacco<br>drum<br>fall<br>coin<br>envelope<br>base |  
+| bip_39_word_new_br_9 | desk<br>salmon<br>tobacco<br>drum<br>fall<br>coin<br>envelope<br>base<br>flight |  
+| bip_39_word_new_line_1 | desk |  
+| bip_39_word_new_line_10 | desk
 salmon
 tobacco
 drum
@@ -55,7 +55,7 @@ envelope
 base
 flight
 prize |  
-| bip_39_word_new_line11 | desk
+| bip_39_word_new_line_11 | desk
 salmon
 tobacco
 drum
@@ -66,7 +66,7 @@ base
 flight
 prize
 direct |  
-| bip_39_word_new_line12 | desk
+| bip_39_word_new_line_12 | desk
 salmon
 tobacco
 drum
@@ -78,34 +78,34 @@ flight
 prize
 direct
 alien |  
-| bip_39_word_new_line2 | desk
+| bip_39_word_new_line_2 | desk
 salmon |  
-| bip_39_word_new_line3 | desk
+| bip_39_word_new_line_3 | desk
 salmon
 tobacco |  
-| bip_39_word_new_line4 | desk
+| bip_39_word_new_line_4 | desk
 salmon
 tobacco
 drum |  
-| bip_39_word_new_line5 | desk
+| bip_39_word_new_line_5 | desk
 salmon
 tobacco
 drum
 fall |  
-| bip_39_word_new_line6 | desk
+| bip_39_word_new_line_6 | desk
 salmon
 tobacco
 drum
 fall
 coin |  
-| bip_39_word_new_line7 | desk
+| bip_39_word_new_line_7 | desk
 salmon
 tobacco
 drum
 fall
 coin
 envelope |  
-| bip_39_word_new_line8 | desk
+| bip_39_word_new_line_8 | desk
 salmon
 tobacco
 drum
@@ -113,7 +113,7 @@ fall
 coin
 envelope
 base |  
-| bip_39_word_new_line9 | desk
+| bip_39_word_new_line_9 | desk
 salmon
 tobacco
 drum

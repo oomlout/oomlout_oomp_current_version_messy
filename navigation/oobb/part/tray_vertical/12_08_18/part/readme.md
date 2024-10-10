@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | off |  
-| bip_39_word_new_br10 | off<br>canvas<br>traffic<br>evil<br>purchase<br>rain<br>recipe<br>gesture<br>tip<br>silk |  
-| bip_39_word_new_br11 | off<br>canvas<br>traffic<br>evil<br>purchase<br>rain<br>recipe<br>gesture<br>tip<br>silk<br>gossip |  
-| bip_39_word_new_br12 | off<br>canvas<br>traffic<br>evil<br>purchase<br>rain<br>recipe<br>gesture<br>tip<br>silk<br>gossip<br>autumn |  
-| bip_39_word_new_br2 | off<br>canvas |  
-| bip_39_word_new_br3 | off<br>canvas<br>traffic |  
-| bip_39_word_new_br4 | off<br>canvas<br>traffic<br>evil |  
-| bip_39_word_new_br5 | off<br>canvas<br>traffic<br>evil<br>purchase |  
-| bip_39_word_new_br6 | off<br>canvas<br>traffic<br>evil<br>purchase<br>rain |  
-| bip_39_word_new_br7 | off<br>canvas<br>traffic<br>evil<br>purchase<br>rain<br>recipe |  
-| bip_39_word_new_br8 | off<br>canvas<br>traffic<br>evil<br>purchase<br>rain<br>recipe<br>gesture |  
-| bip_39_word_new_br9 | off<br>canvas<br>traffic<br>evil<br>purchase<br>rain<br>recipe<br>gesture<br>tip |  
-| bip_39_word_new_line1 | off |  
-| bip_39_word_new_line10 | off
+| bip_39_word_new_br_1 | off |  
+| bip_39_word_new_br_10 | off<br>canvas<br>traffic<br>evil<br>purchase<br>rain<br>recipe<br>gesture<br>tip<br>silk |  
+| bip_39_word_new_br_11 | off<br>canvas<br>traffic<br>evil<br>purchase<br>rain<br>recipe<br>gesture<br>tip<br>silk<br>gossip |  
+| bip_39_word_new_br_12 | off<br>canvas<br>traffic<br>evil<br>purchase<br>rain<br>recipe<br>gesture<br>tip<br>silk<br>gossip<br>autumn |  
+| bip_39_word_new_br_2 | off<br>canvas |  
+| bip_39_word_new_br_3 | off<br>canvas<br>traffic |  
+| bip_39_word_new_br_4 | off<br>canvas<br>traffic<br>evil |  
+| bip_39_word_new_br_5 | off<br>canvas<br>traffic<br>evil<br>purchase |  
+| bip_39_word_new_br_6 | off<br>canvas<br>traffic<br>evil<br>purchase<br>rain |  
+| bip_39_word_new_br_7 | off<br>canvas<br>traffic<br>evil<br>purchase<br>rain<br>recipe |  
+| bip_39_word_new_br_8 | off<br>canvas<br>traffic<br>evil<br>purchase<br>rain<br>recipe<br>gesture |  
+| bip_39_word_new_br_9 | off<br>canvas<br>traffic<br>evil<br>purchase<br>rain<br>recipe<br>gesture<br>tip |  
+| bip_39_word_new_line_1 | off |  
+| bip_39_word_new_line_10 | off
 canvas
 traffic
 evil
@@ -55,7 +55,7 @@ recipe
 gesture
 tip
 silk |  
-| bip_39_word_new_line11 | off
+| bip_39_word_new_line_11 | off
 canvas
 traffic
 evil
@@ -66,7 +66,7 @@ gesture
 tip
 silk
 gossip |  
-| bip_39_word_new_line12 | off
+| bip_39_word_new_line_12 | off
 canvas
 traffic
 evil
@@ -78,34 +78,34 @@ tip
 silk
 gossip
 autumn |  
-| bip_39_word_new_line2 | off
+| bip_39_word_new_line_2 | off
 canvas |  
-| bip_39_word_new_line3 | off
+| bip_39_word_new_line_3 | off
 canvas
 traffic |  
-| bip_39_word_new_line4 | off
+| bip_39_word_new_line_4 | off
 canvas
 traffic
 evil |  
-| bip_39_word_new_line5 | off
+| bip_39_word_new_line_5 | off
 canvas
 traffic
 evil
 purchase |  
-| bip_39_word_new_line6 | off
+| bip_39_word_new_line_6 | off
 canvas
 traffic
 evil
 purchase
 rain |  
-| bip_39_word_new_line7 | off
+| bip_39_word_new_line_7 | off
 canvas
 traffic
 evil
 purchase
 rain
 recipe |  
-| bip_39_word_new_line8 | off
+| bip_39_word_new_line_8 | off
 canvas
 traffic
 evil
@@ -113,7 +113,7 @@ purchase
 rain
 recipe
 gesture |  
-| bip_39_word_new_line9 | off
+| bip_39_word_new_line_9 | off
 canvas
 traffic
 evil

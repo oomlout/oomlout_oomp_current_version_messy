@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | churn |  
-| bip_39_word_new_br10 | churn<br>soul<br>round<br>dizzy<br>have<br>chapter<br>relax<br>maple<br>razor<br>zone |  
-| bip_39_word_new_br11 | churn<br>soul<br>round<br>dizzy<br>have<br>chapter<br>relax<br>maple<br>razor<br>zone<br>enact |  
-| bip_39_word_new_br12 | churn<br>soul<br>round<br>dizzy<br>have<br>chapter<br>relax<br>maple<br>razor<br>zone<br>enact<br>assume |  
-| bip_39_word_new_br2 | churn<br>soul |  
-| bip_39_word_new_br3 | churn<br>soul<br>round |  
-| bip_39_word_new_br4 | churn<br>soul<br>round<br>dizzy |  
-| bip_39_word_new_br5 | churn<br>soul<br>round<br>dizzy<br>have |  
-| bip_39_word_new_br6 | churn<br>soul<br>round<br>dizzy<br>have<br>chapter |  
-| bip_39_word_new_br7 | churn<br>soul<br>round<br>dizzy<br>have<br>chapter<br>relax |  
-| bip_39_word_new_br8 | churn<br>soul<br>round<br>dizzy<br>have<br>chapter<br>relax<br>maple |  
-| bip_39_word_new_br9 | churn<br>soul<br>round<br>dizzy<br>have<br>chapter<br>relax<br>maple<br>razor |  
-| bip_39_word_new_line1 | churn |  
-| bip_39_word_new_line10 | churn
+| bip_39_word_new_br_1 | churn |  
+| bip_39_word_new_br_10 | churn<br>soul<br>round<br>dizzy<br>have<br>chapter<br>relax<br>maple<br>razor<br>zone |  
+| bip_39_word_new_br_11 | churn<br>soul<br>round<br>dizzy<br>have<br>chapter<br>relax<br>maple<br>razor<br>zone<br>enact |  
+| bip_39_word_new_br_12 | churn<br>soul<br>round<br>dizzy<br>have<br>chapter<br>relax<br>maple<br>razor<br>zone<br>enact<br>assume |  
+| bip_39_word_new_br_2 | churn<br>soul |  
+| bip_39_word_new_br_3 | churn<br>soul<br>round |  
+| bip_39_word_new_br_4 | churn<br>soul<br>round<br>dizzy |  
+| bip_39_word_new_br_5 | churn<br>soul<br>round<br>dizzy<br>have |  
+| bip_39_word_new_br_6 | churn<br>soul<br>round<br>dizzy<br>have<br>chapter |  
+| bip_39_word_new_br_7 | churn<br>soul<br>round<br>dizzy<br>have<br>chapter<br>relax |  
+| bip_39_word_new_br_8 | churn<br>soul<br>round<br>dizzy<br>have<br>chapter<br>relax<br>maple |  
+| bip_39_word_new_br_9 | churn<br>soul<br>round<br>dizzy<br>have<br>chapter<br>relax<br>maple<br>razor |  
+| bip_39_word_new_line_1 | churn |  
+| bip_39_word_new_line_10 | churn
 soul
 round
 dizzy
@@ -55,7 +55,7 @@ relax
 maple
 razor
 zone |  
-| bip_39_word_new_line11 | churn
+| bip_39_word_new_line_11 | churn
 soul
 round
 dizzy
@@ -66,7 +66,7 @@ maple
 razor
 zone
 enact |  
-| bip_39_word_new_line12 | churn
+| bip_39_word_new_line_12 | churn
 soul
 round
 dizzy
@@ -78,34 +78,34 @@ razor
 zone
 enact
 assume |  
-| bip_39_word_new_line2 | churn
+| bip_39_word_new_line_2 | churn
 soul |  
-| bip_39_word_new_line3 | churn
+| bip_39_word_new_line_3 | churn
 soul
 round |  
-| bip_39_word_new_line4 | churn
+| bip_39_word_new_line_4 | churn
 soul
 round
 dizzy |  
-| bip_39_word_new_line5 | churn
+| bip_39_word_new_line_5 | churn
 soul
 round
 dizzy
 have |  
-| bip_39_word_new_line6 | churn
+| bip_39_word_new_line_6 | churn
 soul
 round
 dizzy
 have
 chapter |  
-| bip_39_word_new_line7 | churn
+| bip_39_word_new_line_7 | churn
 soul
 round
 dizzy
 have
 chapter
 relax |  
-| bip_39_word_new_line8 | churn
+| bip_39_word_new_line_8 | churn
 soul
 round
 dizzy
@@ -113,7 +113,7 @@ have
 chapter
 relax
 maple |  
-| bip_39_word_new_line9 | churn
+| bip_39_word_new_line_9 | churn
 soul
 round
 dizzy

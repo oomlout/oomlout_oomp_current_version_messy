@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | learn |  
-| bip_39_word_new_br10 | learn<br>weekend<br>rare<br>choose<br>radio<br>wedding<br>gas<br>loyal<br>city<br>roast |  
-| bip_39_word_new_br11 | learn<br>weekend<br>rare<br>choose<br>radio<br>wedding<br>gas<br>loyal<br>city<br>roast<br>energy |  
-| bip_39_word_new_br12 | learn<br>weekend<br>rare<br>choose<br>radio<br>wedding<br>gas<br>loyal<br>city<br>roast<br>energy<br>aisle |  
-| bip_39_word_new_br2 | learn<br>weekend |  
-| bip_39_word_new_br3 | learn<br>weekend<br>rare |  
-| bip_39_word_new_br4 | learn<br>weekend<br>rare<br>choose |  
-| bip_39_word_new_br5 | learn<br>weekend<br>rare<br>choose<br>radio |  
-| bip_39_word_new_br6 | learn<br>weekend<br>rare<br>choose<br>radio<br>wedding |  
-| bip_39_word_new_br7 | learn<br>weekend<br>rare<br>choose<br>radio<br>wedding<br>gas |  
-| bip_39_word_new_br8 | learn<br>weekend<br>rare<br>choose<br>radio<br>wedding<br>gas<br>loyal |  
-| bip_39_word_new_br9 | learn<br>weekend<br>rare<br>choose<br>radio<br>wedding<br>gas<br>loyal<br>city |  
-| bip_39_word_new_line1 | learn |  
-| bip_39_word_new_line10 | learn
+| bip_39_word_new_br_1 | learn |  
+| bip_39_word_new_br_10 | learn<br>weekend<br>rare<br>choose<br>radio<br>wedding<br>gas<br>loyal<br>city<br>roast |  
+| bip_39_word_new_br_11 | learn<br>weekend<br>rare<br>choose<br>radio<br>wedding<br>gas<br>loyal<br>city<br>roast<br>energy |  
+| bip_39_word_new_br_12 | learn<br>weekend<br>rare<br>choose<br>radio<br>wedding<br>gas<br>loyal<br>city<br>roast<br>energy<br>aisle |  
+| bip_39_word_new_br_2 | learn<br>weekend |  
+| bip_39_word_new_br_3 | learn<br>weekend<br>rare |  
+| bip_39_word_new_br_4 | learn<br>weekend<br>rare<br>choose |  
+| bip_39_word_new_br_5 | learn<br>weekend<br>rare<br>choose<br>radio |  
+| bip_39_word_new_br_6 | learn<br>weekend<br>rare<br>choose<br>radio<br>wedding |  
+| bip_39_word_new_br_7 | learn<br>weekend<br>rare<br>choose<br>radio<br>wedding<br>gas |  
+| bip_39_word_new_br_8 | learn<br>weekend<br>rare<br>choose<br>radio<br>wedding<br>gas<br>loyal |  
+| bip_39_word_new_br_9 | learn<br>weekend<br>rare<br>choose<br>radio<br>wedding<br>gas<br>loyal<br>city |  
+| bip_39_word_new_line_1 | learn |  
+| bip_39_word_new_line_10 | learn
 weekend
 rare
 choose
@@ -55,7 +55,7 @@ gas
 loyal
 city
 roast |  
-| bip_39_word_new_line11 | learn
+| bip_39_word_new_line_11 | learn
 weekend
 rare
 choose
@@ -66,7 +66,7 @@ loyal
 city
 roast
 energy |  
-| bip_39_word_new_line12 | learn
+| bip_39_word_new_line_12 | learn
 weekend
 rare
 choose
@@ -78,34 +78,34 @@ city
 roast
 energy
 aisle |  
-| bip_39_word_new_line2 | learn
+| bip_39_word_new_line_2 | learn
 weekend |  
-| bip_39_word_new_line3 | learn
+| bip_39_word_new_line_3 | learn
 weekend
 rare |  
-| bip_39_word_new_line4 | learn
+| bip_39_word_new_line_4 | learn
 weekend
 rare
 choose |  
-| bip_39_word_new_line5 | learn
+| bip_39_word_new_line_5 | learn
 weekend
 rare
 choose
 radio |  
-| bip_39_word_new_line6 | learn
+| bip_39_word_new_line_6 | learn
 weekend
 rare
 choose
 radio
 wedding |  
-| bip_39_word_new_line7 | learn
+| bip_39_word_new_line_7 | learn
 weekend
 rare
 choose
 radio
 wedding
 gas |  
-| bip_39_word_new_line8 | learn
+| bip_39_word_new_line_8 | learn
 weekend
 rare
 choose
@@ -113,7 +113,7 @@ radio
 wedding
 gas
 loyal |  
-| bip_39_word_new_line9 | learn
+| bip_39_word_new_line_9 | learn
 weekend
 rare
 choose

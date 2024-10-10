@@ -1,17 +1,17 @@
-bip_39_word_new_br1: hood
-bip_39_word_new_br10: hood<br>wine<br>impact<br>eager<br>silk<br>fatal<br>mind<br>script<br>front<br>rule
-bip_39_word_new_br11: hood<br>wine<br>impact<br>eager<br>silk<br>fatal<br>mind<br>script<br>front<br>rule<br>survey
-bip_39_word_new_br12: hood<br>wine<br>impact<br>eager<br>silk<br>fatal<br>mind<br>script<br>front<br>rule<br>survey<br>april
-bip_39_word_new_br2: hood<br>wine
-bip_39_word_new_br3: hood<br>wine<br>impact
-bip_39_word_new_br4: hood<br>wine<br>impact<br>eager
-bip_39_word_new_br5: hood<br>wine<br>impact<br>eager<br>silk
-bip_39_word_new_br6: hood<br>wine<br>impact<br>eager<br>silk<br>fatal
-bip_39_word_new_br7: hood<br>wine<br>impact<br>eager<br>silk<br>fatal<br>mind
-bip_39_word_new_br8: hood<br>wine<br>impact<br>eager<br>silk<br>fatal<br>mind<br>script
-bip_39_word_new_br9: hood<br>wine<br>impact<br>eager<br>silk<br>fatal<br>mind<br>script<br>front
-bip_39_word_new_line1: hood
-bip_39_word_new_line10: 'hood
+bip_39_word_new_br_1: hood
+bip_39_word_new_br_10: hood<br>wine<br>impact<br>eager<br>silk<br>fatal<br>mind<br>script<br>front<br>rule
+bip_39_word_new_br_11: hood<br>wine<br>impact<br>eager<br>silk<br>fatal<br>mind<br>script<br>front<br>rule<br>survey
+bip_39_word_new_br_12: hood<br>wine<br>impact<br>eager<br>silk<br>fatal<br>mind<br>script<br>front<br>rule<br>survey<br>april
+bip_39_word_new_br_2: hood<br>wine
+bip_39_word_new_br_3: hood<br>wine<br>impact
+bip_39_word_new_br_4: hood<br>wine<br>impact<br>eager
+bip_39_word_new_br_5: hood<br>wine<br>impact<br>eager<br>silk
+bip_39_word_new_br_6: hood<br>wine<br>impact<br>eager<br>silk<br>fatal
+bip_39_word_new_br_7: hood<br>wine<br>impact<br>eager<br>silk<br>fatal<br>mind
+bip_39_word_new_br_8: hood<br>wine<br>impact<br>eager<br>silk<br>fatal<br>mind<br>script
+bip_39_word_new_br_9: hood<br>wine<br>impact<br>eager<br>silk<br>fatal<br>mind<br>script<br>front
+bip_39_word_new_line_1: hood
+bip_39_word_new_line_10: 'hood
 
   wine
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'hood
   front
 
   rule'
-bip_39_word_new_line11: 'hood
+bip_39_word_new_line_11: 'hood
 
   wine
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'hood
   rule
 
   survey'
-bip_39_word_new_line12: 'hood
+bip_39_word_new_line_12: 'hood
 
   wine
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'hood
   survey
 
   april'
-bip_39_word_new_line2: 'hood
+bip_39_word_new_line_2: 'hood
 
   wine'
-bip_39_word_new_line3: 'hood
+bip_39_word_new_line_3: 'hood
 
   wine
 
   impact'
-bip_39_word_new_line4: 'hood
+bip_39_word_new_line_4: 'hood
 
   wine
 
   impact
 
   eager'
-bip_39_word_new_line5: 'hood
+bip_39_word_new_line_5: 'hood
 
   wine
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'hood
   eager
 
   silk'
-bip_39_word_new_line6: 'hood
+bip_39_word_new_line_6: 'hood
 
   wine
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'hood
   silk
 
   fatal'
-bip_39_word_new_line7: 'hood
+bip_39_word_new_line_7: 'hood
 
   wine
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'hood
   fatal
 
   mind'
-bip_39_word_new_line8: 'hood
+bip_39_word_new_line_8: 'hood
 
   wine
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'hood
   mind
 
   script'
-bip_39_word_new_line9: 'hood
+bip_39_word_new_line_9: 'hood
 
   wine
 

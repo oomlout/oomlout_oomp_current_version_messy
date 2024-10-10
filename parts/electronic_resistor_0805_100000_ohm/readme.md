@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | coil |  
-| bip_39_word_new_br10 | coil<br>faculty<br>world<br>credit<br>bundle<br>another<br>second<br>arm<br>notable<br>leisure |  
-| bip_39_word_new_br11 | coil<br>faculty<br>world<br>credit<br>bundle<br>another<br>second<br>arm<br>notable<br>leisure<br>slam |  
-| bip_39_word_new_br12 | coil<br>faculty<br>world<br>credit<br>bundle<br>another<br>second<br>arm<br>notable<br>leisure<br>slam<br>adjust |  
-| bip_39_word_new_br2 | coil<br>faculty |  
-| bip_39_word_new_br3 | coil<br>faculty<br>world |  
-| bip_39_word_new_br4 | coil<br>faculty<br>world<br>credit |  
-| bip_39_word_new_br5 | coil<br>faculty<br>world<br>credit<br>bundle |  
-| bip_39_word_new_br6 | coil<br>faculty<br>world<br>credit<br>bundle<br>another |  
-| bip_39_word_new_br7 | coil<br>faculty<br>world<br>credit<br>bundle<br>another<br>second |  
-| bip_39_word_new_br8 | coil<br>faculty<br>world<br>credit<br>bundle<br>another<br>second<br>arm |  
-| bip_39_word_new_br9 | coil<br>faculty<br>world<br>credit<br>bundle<br>another<br>second<br>arm<br>notable |  
-| bip_39_word_new_line1 | coil |  
-| bip_39_word_new_line10 | coil
+| bip_39_word_new_br_1 | coil |  
+| bip_39_word_new_br_10 | coil<br>faculty<br>world<br>credit<br>bundle<br>another<br>second<br>arm<br>notable<br>leisure |  
+| bip_39_word_new_br_11 | coil<br>faculty<br>world<br>credit<br>bundle<br>another<br>second<br>arm<br>notable<br>leisure<br>slam |  
+| bip_39_word_new_br_12 | coil<br>faculty<br>world<br>credit<br>bundle<br>another<br>second<br>arm<br>notable<br>leisure<br>slam<br>adjust |  
+| bip_39_word_new_br_2 | coil<br>faculty |  
+| bip_39_word_new_br_3 | coil<br>faculty<br>world |  
+| bip_39_word_new_br_4 | coil<br>faculty<br>world<br>credit |  
+| bip_39_word_new_br_5 | coil<br>faculty<br>world<br>credit<br>bundle |  
+| bip_39_word_new_br_6 | coil<br>faculty<br>world<br>credit<br>bundle<br>another |  
+| bip_39_word_new_br_7 | coil<br>faculty<br>world<br>credit<br>bundle<br>another<br>second |  
+| bip_39_word_new_br_8 | coil<br>faculty<br>world<br>credit<br>bundle<br>another<br>second<br>arm |  
+| bip_39_word_new_br_9 | coil<br>faculty<br>world<br>credit<br>bundle<br>another<br>second<br>arm<br>notable |  
+| bip_39_word_new_line_1 | coil |  
+| bip_39_word_new_line_10 | coil
 faculty
 world
 credit
@@ -55,7 +55,7 @@ second
 arm
 notable
 leisure |  
-| bip_39_word_new_line11 | coil
+| bip_39_word_new_line_11 | coil
 faculty
 world
 credit
@@ -66,7 +66,7 @@ arm
 notable
 leisure
 slam |  
-| bip_39_word_new_line12 | coil
+| bip_39_word_new_line_12 | coil
 faculty
 world
 credit
@@ -78,34 +78,34 @@ notable
 leisure
 slam
 adjust |  
-| bip_39_word_new_line2 | coil
+| bip_39_word_new_line_2 | coil
 faculty |  
-| bip_39_word_new_line3 | coil
+| bip_39_word_new_line_3 | coil
 faculty
 world |  
-| bip_39_word_new_line4 | coil
+| bip_39_word_new_line_4 | coil
 faculty
 world
 credit |  
-| bip_39_word_new_line5 | coil
+| bip_39_word_new_line_5 | coil
 faculty
 world
 credit
 bundle |  
-| bip_39_word_new_line6 | coil
+| bip_39_word_new_line_6 | coil
 faculty
 world
 credit
 bundle
 another |  
-| bip_39_word_new_line7 | coil
+| bip_39_word_new_line_7 | coil
 faculty
 world
 credit
 bundle
 another
 second |  
-| bip_39_word_new_line8 | coil
+| bip_39_word_new_line_8 | coil
 faculty
 world
 credit
@@ -113,7 +113,7 @@ bundle
 another
 second
 arm |  
-| bip_39_word_new_line9 | coil
+| bip_39_word_new_line_9 | coil
 faculty
 world
 credit

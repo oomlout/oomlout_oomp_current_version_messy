@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | parent |  
-| bip_39_word_new_br10 | parent<br>chair<br>split<br>fade<br>great<br>trust<br>step<br>task<br>tip<br>attitude |  
-| bip_39_word_new_br11 | parent<br>chair<br>split<br>fade<br>great<br>trust<br>step<br>task<br>tip<br>attitude<br>sound |  
-| bip_39_word_new_br12 | parent<br>chair<br>split<br>fade<br>great<br>trust<br>step<br>task<br>tip<br>attitude<br>sound<br>affair |  
-| bip_39_word_new_br2 | parent<br>chair |  
-| bip_39_word_new_br3 | parent<br>chair<br>split |  
-| bip_39_word_new_br4 | parent<br>chair<br>split<br>fade |  
-| bip_39_word_new_br5 | parent<br>chair<br>split<br>fade<br>great |  
-| bip_39_word_new_br6 | parent<br>chair<br>split<br>fade<br>great<br>trust |  
-| bip_39_word_new_br7 | parent<br>chair<br>split<br>fade<br>great<br>trust<br>step |  
-| bip_39_word_new_br8 | parent<br>chair<br>split<br>fade<br>great<br>trust<br>step<br>task |  
-| bip_39_word_new_br9 | parent<br>chair<br>split<br>fade<br>great<br>trust<br>step<br>task<br>tip |  
-| bip_39_word_new_line1 | parent |  
-| bip_39_word_new_line10 | parent
+| bip_39_word_new_br_1 | parent |  
+| bip_39_word_new_br_10 | parent<br>chair<br>split<br>fade<br>great<br>trust<br>step<br>task<br>tip<br>attitude |  
+| bip_39_word_new_br_11 | parent<br>chair<br>split<br>fade<br>great<br>trust<br>step<br>task<br>tip<br>attitude<br>sound |  
+| bip_39_word_new_br_12 | parent<br>chair<br>split<br>fade<br>great<br>trust<br>step<br>task<br>tip<br>attitude<br>sound<br>affair |  
+| bip_39_word_new_br_2 | parent<br>chair |  
+| bip_39_word_new_br_3 | parent<br>chair<br>split |  
+| bip_39_word_new_br_4 | parent<br>chair<br>split<br>fade |  
+| bip_39_word_new_br_5 | parent<br>chair<br>split<br>fade<br>great |  
+| bip_39_word_new_br_6 | parent<br>chair<br>split<br>fade<br>great<br>trust |  
+| bip_39_word_new_br_7 | parent<br>chair<br>split<br>fade<br>great<br>trust<br>step |  
+| bip_39_word_new_br_8 | parent<br>chair<br>split<br>fade<br>great<br>trust<br>step<br>task |  
+| bip_39_word_new_br_9 | parent<br>chair<br>split<br>fade<br>great<br>trust<br>step<br>task<br>tip |  
+| bip_39_word_new_line_1 | parent |  
+| bip_39_word_new_line_10 | parent
 chair
 split
 fade
@@ -55,7 +55,7 @@ step
 task
 tip
 attitude |  
-| bip_39_word_new_line11 | parent
+| bip_39_word_new_line_11 | parent
 chair
 split
 fade
@@ -66,7 +66,7 @@ task
 tip
 attitude
 sound |  
-| bip_39_word_new_line12 | parent
+| bip_39_word_new_line_12 | parent
 chair
 split
 fade
@@ -78,34 +78,34 @@ tip
 attitude
 sound
 affair |  
-| bip_39_word_new_line2 | parent
+| bip_39_word_new_line_2 | parent
 chair |  
-| bip_39_word_new_line3 | parent
+| bip_39_word_new_line_3 | parent
 chair
 split |  
-| bip_39_word_new_line4 | parent
+| bip_39_word_new_line_4 | parent
 chair
 split
 fade |  
-| bip_39_word_new_line5 | parent
+| bip_39_word_new_line_5 | parent
 chair
 split
 fade
 great |  
-| bip_39_word_new_line6 | parent
+| bip_39_word_new_line_6 | parent
 chair
 split
 fade
 great
 trust |  
-| bip_39_word_new_line7 | parent
+| bip_39_word_new_line_7 | parent
 chair
 split
 fade
 great
 trust
 step |  
-| bip_39_word_new_line8 | parent
+| bip_39_word_new_line_8 | parent
 chair
 split
 fade
@@ -113,7 +113,7 @@ great
 trust
 step
 task |  
-| bip_39_word_new_line9 | parent
+| bip_39_word_new_line_9 | parent
 chair
 split
 fade

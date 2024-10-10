@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | vintage |  
-| bip_39_word_new_br10 | vintage<br>soccer<br>dance<br>usual<br>salmon<br>draft<br>crew<br>stomach<br>have<br>cabin |  
-| bip_39_word_new_br11 | vintage<br>soccer<br>dance<br>usual<br>salmon<br>draft<br>crew<br>stomach<br>have<br>cabin<br>carry |  
-| bip_39_word_new_br12 | vintage<br>soccer<br>dance<br>usual<br>salmon<br>draft<br>crew<br>stomach<br>have<br>cabin<br>carry<br>attitude |  
-| bip_39_word_new_br2 | vintage<br>soccer |  
-| bip_39_word_new_br3 | vintage<br>soccer<br>dance |  
-| bip_39_word_new_br4 | vintage<br>soccer<br>dance<br>usual |  
-| bip_39_word_new_br5 | vintage<br>soccer<br>dance<br>usual<br>salmon |  
-| bip_39_word_new_br6 | vintage<br>soccer<br>dance<br>usual<br>salmon<br>draft |  
-| bip_39_word_new_br7 | vintage<br>soccer<br>dance<br>usual<br>salmon<br>draft<br>crew |  
-| bip_39_word_new_br8 | vintage<br>soccer<br>dance<br>usual<br>salmon<br>draft<br>crew<br>stomach |  
-| bip_39_word_new_br9 | vintage<br>soccer<br>dance<br>usual<br>salmon<br>draft<br>crew<br>stomach<br>have |  
-| bip_39_word_new_line1 | vintage |  
-| bip_39_word_new_line10 | vintage
+| bip_39_word_new_br_1 | vintage |  
+| bip_39_word_new_br_10 | vintage<br>soccer<br>dance<br>usual<br>salmon<br>draft<br>crew<br>stomach<br>have<br>cabin |  
+| bip_39_word_new_br_11 | vintage<br>soccer<br>dance<br>usual<br>salmon<br>draft<br>crew<br>stomach<br>have<br>cabin<br>carry |  
+| bip_39_word_new_br_12 | vintage<br>soccer<br>dance<br>usual<br>salmon<br>draft<br>crew<br>stomach<br>have<br>cabin<br>carry<br>attitude |  
+| bip_39_word_new_br_2 | vintage<br>soccer |  
+| bip_39_word_new_br_3 | vintage<br>soccer<br>dance |  
+| bip_39_word_new_br_4 | vintage<br>soccer<br>dance<br>usual |  
+| bip_39_word_new_br_5 | vintage<br>soccer<br>dance<br>usual<br>salmon |  
+| bip_39_word_new_br_6 | vintage<br>soccer<br>dance<br>usual<br>salmon<br>draft |  
+| bip_39_word_new_br_7 | vintage<br>soccer<br>dance<br>usual<br>salmon<br>draft<br>crew |  
+| bip_39_word_new_br_8 | vintage<br>soccer<br>dance<br>usual<br>salmon<br>draft<br>crew<br>stomach |  
+| bip_39_word_new_br_9 | vintage<br>soccer<br>dance<br>usual<br>salmon<br>draft<br>crew<br>stomach<br>have |  
+| bip_39_word_new_line_1 | vintage |  
+| bip_39_word_new_line_10 | vintage
 soccer
 dance
 usual
@@ -55,7 +55,7 @@ crew
 stomach
 have
 cabin |  
-| bip_39_word_new_line11 | vintage
+| bip_39_word_new_line_11 | vintage
 soccer
 dance
 usual
@@ -66,7 +66,7 @@ stomach
 have
 cabin
 carry |  
-| bip_39_word_new_line12 | vintage
+| bip_39_word_new_line_12 | vintage
 soccer
 dance
 usual
@@ -78,34 +78,34 @@ have
 cabin
 carry
 attitude |  
-| bip_39_word_new_line2 | vintage
+| bip_39_word_new_line_2 | vintage
 soccer |  
-| bip_39_word_new_line3 | vintage
+| bip_39_word_new_line_3 | vintage
 soccer
 dance |  
-| bip_39_word_new_line4 | vintage
+| bip_39_word_new_line_4 | vintage
 soccer
 dance
 usual |  
-| bip_39_word_new_line5 | vintage
+| bip_39_word_new_line_5 | vintage
 soccer
 dance
 usual
 salmon |  
-| bip_39_word_new_line6 | vintage
+| bip_39_word_new_line_6 | vintage
 soccer
 dance
 usual
 salmon
 draft |  
-| bip_39_word_new_line7 | vintage
+| bip_39_word_new_line_7 | vintage
 soccer
 dance
 usual
 salmon
 draft
 crew |  
-| bip_39_word_new_line8 | vintage
+| bip_39_word_new_line_8 | vintage
 soccer
 dance
 usual
@@ -113,7 +113,7 @@ salmon
 draft
 crew
 stomach |  
-| bip_39_word_new_line9 | vintage
+| bip_39_word_new_line_9 | vintage
 soccer
 dance
 usual

@@ -1,17 +1,17 @@
-bip_39_word_new_br1: fiction
-bip_39_word_new_br10: fiction<br>have<br>just<br>word<br>skin<br>frown<br>jungle<br>yellow<br>lawsuit<br>push
-bip_39_word_new_br11: fiction<br>have<br>just<br>word<br>skin<br>frown<br>jungle<br>yellow<br>lawsuit<br>push<br>cheap
-bip_39_word_new_br12: fiction<br>have<br>just<br>word<br>skin<br>frown<br>jungle<br>yellow<br>lawsuit<br>push<br>cheap<br>animal
-bip_39_word_new_br2: fiction<br>have
-bip_39_word_new_br3: fiction<br>have<br>just
-bip_39_word_new_br4: fiction<br>have<br>just<br>word
-bip_39_word_new_br5: fiction<br>have<br>just<br>word<br>skin
-bip_39_word_new_br6: fiction<br>have<br>just<br>word<br>skin<br>frown
-bip_39_word_new_br7: fiction<br>have<br>just<br>word<br>skin<br>frown<br>jungle
-bip_39_word_new_br8: fiction<br>have<br>just<br>word<br>skin<br>frown<br>jungle<br>yellow
-bip_39_word_new_br9: fiction<br>have<br>just<br>word<br>skin<br>frown<br>jungle<br>yellow<br>lawsuit
-bip_39_word_new_line1: fiction
-bip_39_word_new_line10: 'fiction
+bip_39_word_new_br_1: fiction
+bip_39_word_new_br_10: fiction<br>have<br>just<br>word<br>skin<br>frown<br>jungle<br>yellow<br>lawsuit<br>push
+bip_39_word_new_br_11: fiction<br>have<br>just<br>word<br>skin<br>frown<br>jungle<br>yellow<br>lawsuit<br>push<br>cheap
+bip_39_word_new_br_12: fiction<br>have<br>just<br>word<br>skin<br>frown<br>jungle<br>yellow<br>lawsuit<br>push<br>cheap<br>animal
+bip_39_word_new_br_2: fiction<br>have
+bip_39_word_new_br_3: fiction<br>have<br>just
+bip_39_word_new_br_4: fiction<br>have<br>just<br>word
+bip_39_word_new_br_5: fiction<br>have<br>just<br>word<br>skin
+bip_39_word_new_br_6: fiction<br>have<br>just<br>word<br>skin<br>frown
+bip_39_word_new_br_7: fiction<br>have<br>just<br>word<br>skin<br>frown<br>jungle
+bip_39_word_new_br_8: fiction<br>have<br>just<br>word<br>skin<br>frown<br>jungle<br>yellow
+bip_39_word_new_br_9: fiction<br>have<br>just<br>word<br>skin<br>frown<br>jungle<br>yellow<br>lawsuit
+bip_39_word_new_line_1: fiction
+bip_39_word_new_line_10: 'fiction
 
   have
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'fiction
   lawsuit
 
   push'
-bip_39_word_new_line11: 'fiction
+bip_39_word_new_line_11: 'fiction
 
   have
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'fiction
   push
 
   cheap'
-bip_39_word_new_line12: 'fiction
+bip_39_word_new_line_12: 'fiction
 
   have
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'fiction
   cheap
 
   animal'
-bip_39_word_new_line2: 'fiction
+bip_39_word_new_line_2: 'fiction
 
   have'
-bip_39_word_new_line3: 'fiction
+bip_39_word_new_line_3: 'fiction
 
   have
 
   just'
-bip_39_word_new_line4: 'fiction
+bip_39_word_new_line_4: 'fiction
 
   have
 
   just
 
   word'
-bip_39_word_new_line5: 'fiction
+bip_39_word_new_line_5: 'fiction
 
   have
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'fiction
   word
 
   skin'
-bip_39_word_new_line6: 'fiction
+bip_39_word_new_line_6: 'fiction
 
   have
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'fiction
   skin
 
   frown'
-bip_39_word_new_line7: 'fiction
+bip_39_word_new_line_7: 'fiction
 
   have
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'fiction
   frown
 
   jungle'
-bip_39_word_new_line8: 'fiction
+bip_39_word_new_line_8: 'fiction
 
   have
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'fiction
   jungle
 
   yellow'
-bip_39_word_new_line9: 'fiction
+bip_39_word_new_line_9: 'fiction
 
   have
 

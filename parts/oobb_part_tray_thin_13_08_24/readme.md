@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | resist |  
-| bip_39_word_new_br10 | resist<br>allow<br>audit<br>today<br>lion<br>auto<br>kit<br>weapon<br>hurry<br>foot |  
-| bip_39_word_new_br11 | resist<br>allow<br>audit<br>today<br>lion<br>auto<br>kit<br>weapon<br>hurry<br>foot<br>accuse |  
-| bip_39_word_new_br12 | resist<br>allow<br>audit<br>today<br>lion<br>auto<br>kit<br>weapon<br>hurry<br>foot<br>accuse<br>actor |  
-| bip_39_word_new_br2 | resist<br>allow |  
-| bip_39_word_new_br3 | resist<br>allow<br>audit |  
-| bip_39_word_new_br4 | resist<br>allow<br>audit<br>today |  
-| bip_39_word_new_br5 | resist<br>allow<br>audit<br>today<br>lion |  
-| bip_39_word_new_br6 | resist<br>allow<br>audit<br>today<br>lion<br>auto |  
-| bip_39_word_new_br7 | resist<br>allow<br>audit<br>today<br>lion<br>auto<br>kit |  
-| bip_39_word_new_br8 | resist<br>allow<br>audit<br>today<br>lion<br>auto<br>kit<br>weapon |  
-| bip_39_word_new_br9 | resist<br>allow<br>audit<br>today<br>lion<br>auto<br>kit<br>weapon<br>hurry |  
-| bip_39_word_new_line1 | resist |  
-| bip_39_word_new_line10 | resist
+| bip_39_word_new_br_1 | resist |  
+| bip_39_word_new_br_10 | resist<br>allow<br>audit<br>today<br>lion<br>auto<br>kit<br>weapon<br>hurry<br>foot |  
+| bip_39_word_new_br_11 | resist<br>allow<br>audit<br>today<br>lion<br>auto<br>kit<br>weapon<br>hurry<br>foot<br>accuse |  
+| bip_39_word_new_br_12 | resist<br>allow<br>audit<br>today<br>lion<br>auto<br>kit<br>weapon<br>hurry<br>foot<br>accuse<br>actor |  
+| bip_39_word_new_br_2 | resist<br>allow |  
+| bip_39_word_new_br_3 | resist<br>allow<br>audit |  
+| bip_39_word_new_br_4 | resist<br>allow<br>audit<br>today |  
+| bip_39_word_new_br_5 | resist<br>allow<br>audit<br>today<br>lion |  
+| bip_39_word_new_br_6 | resist<br>allow<br>audit<br>today<br>lion<br>auto |  
+| bip_39_word_new_br_7 | resist<br>allow<br>audit<br>today<br>lion<br>auto<br>kit |  
+| bip_39_word_new_br_8 | resist<br>allow<br>audit<br>today<br>lion<br>auto<br>kit<br>weapon |  
+| bip_39_word_new_br_9 | resist<br>allow<br>audit<br>today<br>lion<br>auto<br>kit<br>weapon<br>hurry |  
+| bip_39_word_new_line_1 | resist |  
+| bip_39_word_new_line_10 | resist
 allow
 audit
 today
@@ -55,7 +55,7 @@ kit
 weapon
 hurry
 foot |  
-| bip_39_word_new_line11 | resist
+| bip_39_word_new_line_11 | resist
 allow
 audit
 today
@@ -66,7 +66,7 @@ weapon
 hurry
 foot
 accuse |  
-| bip_39_word_new_line12 | resist
+| bip_39_word_new_line_12 | resist
 allow
 audit
 today
@@ -78,34 +78,34 @@ hurry
 foot
 accuse
 actor |  
-| bip_39_word_new_line2 | resist
+| bip_39_word_new_line_2 | resist
 allow |  
-| bip_39_word_new_line3 | resist
+| bip_39_word_new_line_3 | resist
 allow
 audit |  
-| bip_39_word_new_line4 | resist
+| bip_39_word_new_line_4 | resist
 allow
 audit
 today |  
-| bip_39_word_new_line5 | resist
+| bip_39_word_new_line_5 | resist
 allow
 audit
 today
 lion |  
-| bip_39_word_new_line6 | resist
+| bip_39_word_new_line_6 | resist
 allow
 audit
 today
 lion
 auto |  
-| bip_39_word_new_line7 | resist
+| bip_39_word_new_line_7 | resist
 allow
 audit
 today
 lion
 auto
 kit |  
-| bip_39_word_new_line8 | resist
+| bip_39_word_new_line_8 | resist
 allow
 audit
 today
@@ -113,7 +113,7 @@ lion
 auto
 kit
 weapon |  
-| bip_39_word_new_line9 | resist
+| bip_39_word_new_line_9 | resist
 allow
 audit
 today

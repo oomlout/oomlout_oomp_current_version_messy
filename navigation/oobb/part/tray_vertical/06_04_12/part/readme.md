@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | assist |  
-| bip_39_word_new_br10 | assist<br>eagle<br>act<br>disagree<br>birth<br>lake<br>this<br>core<br>monkey<br>analyst |  
-| bip_39_word_new_br11 | assist<br>eagle<br>act<br>disagree<br>birth<br>lake<br>this<br>core<br>monkey<br>analyst<br>rookie |  
-| bip_39_word_new_br12 | assist<br>eagle<br>act<br>disagree<br>birth<br>lake<br>this<br>core<br>monkey<br>analyst<br>rookie<br>amazing |  
-| bip_39_word_new_br2 | assist<br>eagle |  
-| bip_39_word_new_br3 | assist<br>eagle<br>act |  
-| bip_39_word_new_br4 | assist<br>eagle<br>act<br>disagree |  
-| bip_39_word_new_br5 | assist<br>eagle<br>act<br>disagree<br>birth |  
-| bip_39_word_new_br6 | assist<br>eagle<br>act<br>disagree<br>birth<br>lake |  
-| bip_39_word_new_br7 | assist<br>eagle<br>act<br>disagree<br>birth<br>lake<br>this |  
-| bip_39_word_new_br8 | assist<br>eagle<br>act<br>disagree<br>birth<br>lake<br>this<br>core |  
-| bip_39_word_new_br9 | assist<br>eagle<br>act<br>disagree<br>birth<br>lake<br>this<br>core<br>monkey |  
-| bip_39_word_new_line1 | assist |  
-| bip_39_word_new_line10 | assist
+| bip_39_word_new_br_1 | assist |  
+| bip_39_word_new_br_10 | assist<br>eagle<br>act<br>disagree<br>birth<br>lake<br>this<br>core<br>monkey<br>analyst |  
+| bip_39_word_new_br_11 | assist<br>eagle<br>act<br>disagree<br>birth<br>lake<br>this<br>core<br>monkey<br>analyst<br>rookie |  
+| bip_39_word_new_br_12 | assist<br>eagle<br>act<br>disagree<br>birth<br>lake<br>this<br>core<br>monkey<br>analyst<br>rookie<br>amazing |  
+| bip_39_word_new_br_2 | assist<br>eagle |  
+| bip_39_word_new_br_3 | assist<br>eagle<br>act |  
+| bip_39_word_new_br_4 | assist<br>eagle<br>act<br>disagree |  
+| bip_39_word_new_br_5 | assist<br>eagle<br>act<br>disagree<br>birth |  
+| bip_39_word_new_br_6 | assist<br>eagle<br>act<br>disagree<br>birth<br>lake |  
+| bip_39_word_new_br_7 | assist<br>eagle<br>act<br>disagree<br>birth<br>lake<br>this |  
+| bip_39_word_new_br_8 | assist<br>eagle<br>act<br>disagree<br>birth<br>lake<br>this<br>core |  
+| bip_39_word_new_br_9 | assist<br>eagle<br>act<br>disagree<br>birth<br>lake<br>this<br>core<br>monkey |  
+| bip_39_word_new_line_1 | assist |  
+| bip_39_word_new_line_10 | assist
 eagle
 act
 disagree
@@ -55,7 +55,7 @@ this
 core
 monkey
 analyst |  
-| bip_39_word_new_line11 | assist
+| bip_39_word_new_line_11 | assist
 eagle
 act
 disagree
@@ -66,7 +66,7 @@ core
 monkey
 analyst
 rookie |  
-| bip_39_word_new_line12 | assist
+| bip_39_word_new_line_12 | assist
 eagle
 act
 disagree
@@ -78,34 +78,34 @@ monkey
 analyst
 rookie
 amazing |  
-| bip_39_word_new_line2 | assist
+| bip_39_word_new_line_2 | assist
 eagle |  
-| bip_39_word_new_line3 | assist
+| bip_39_word_new_line_3 | assist
 eagle
 act |  
-| bip_39_word_new_line4 | assist
+| bip_39_word_new_line_4 | assist
 eagle
 act
 disagree |  
-| bip_39_word_new_line5 | assist
+| bip_39_word_new_line_5 | assist
 eagle
 act
 disagree
 birth |  
-| bip_39_word_new_line6 | assist
+| bip_39_word_new_line_6 | assist
 eagle
 act
 disagree
 birth
 lake |  
-| bip_39_word_new_line7 | assist
+| bip_39_word_new_line_7 | assist
 eagle
 act
 disagree
 birth
 lake
 this |  
-| bip_39_word_new_line8 | assist
+| bip_39_word_new_line_8 | assist
 eagle
 act
 disagree
@@ -113,7 +113,7 @@ birth
 lake
 this
 core |  
-| bip_39_word_new_line9 | assist
+| bip_39_word_new_line_9 | assist
 eagle
 act
 disagree

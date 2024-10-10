@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | enroll |  
-| bip_39_word_new_br10 | enroll<br>off<br>advice<br>snow<br>obey<br>black<br>tornado<br>fork<br>happy<br>acquire |  
-| bip_39_word_new_br11 | enroll<br>off<br>advice<br>snow<br>obey<br>black<br>tornado<br>fork<br>happy<br>acquire<br>brick |  
-| bip_39_word_new_br12 | enroll<br>off<br>advice<br>snow<br>obey<br>black<br>tornado<br>fork<br>happy<br>acquire<br>brick<br>ankle |  
-| bip_39_word_new_br2 | enroll<br>off |  
-| bip_39_word_new_br3 | enroll<br>off<br>advice |  
-| bip_39_word_new_br4 | enroll<br>off<br>advice<br>snow |  
-| bip_39_word_new_br5 | enroll<br>off<br>advice<br>snow<br>obey |  
-| bip_39_word_new_br6 | enroll<br>off<br>advice<br>snow<br>obey<br>black |  
-| bip_39_word_new_br7 | enroll<br>off<br>advice<br>snow<br>obey<br>black<br>tornado |  
-| bip_39_word_new_br8 | enroll<br>off<br>advice<br>snow<br>obey<br>black<br>tornado<br>fork |  
-| bip_39_word_new_br9 | enroll<br>off<br>advice<br>snow<br>obey<br>black<br>tornado<br>fork<br>happy |  
-| bip_39_word_new_line1 | enroll |  
-| bip_39_word_new_line10 | enroll
+| bip_39_word_new_br_1 | enroll |  
+| bip_39_word_new_br_10 | enroll<br>off<br>advice<br>snow<br>obey<br>black<br>tornado<br>fork<br>happy<br>acquire |  
+| bip_39_word_new_br_11 | enroll<br>off<br>advice<br>snow<br>obey<br>black<br>tornado<br>fork<br>happy<br>acquire<br>brick |  
+| bip_39_word_new_br_12 | enroll<br>off<br>advice<br>snow<br>obey<br>black<br>tornado<br>fork<br>happy<br>acquire<br>brick<br>ankle |  
+| bip_39_word_new_br_2 | enroll<br>off |  
+| bip_39_word_new_br_3 | enroll<br>off<br>advice |  
+| bip_39_word_new_br_4 | enroll<br>off<br>advice<br>snow |  
+| bip_39_word_new_br_5 | enroll<br>off<br>advice<br>snow<br>obey |  
+| bip_39_word_new_br_6 | enroll<br>off<br>advice<br>snow<br>obey<br>black |  
+| bip_39_word_new_br_7 | enroll<br>off<br>advice<br>snow<br>obey<br>black<br>tornado |  
+| bip_39_word_new_br_8 | enroll<br>off<br>advice<br>snow<br>obey<br>black<br>tornado<br>fork |  
+| bip_39_word_new_br_9 | enroll<br>off<br>advice<br>snow<br>obey<br>black<br>tornado<br>fork<br>happy |  
+| bip_39_word_new_line_1 | enroll |  
+| bip_39_word_new_line_10 | enroll
 off
 advice
 snow
@@ -55,7 +55,7 @@ tornado
 fork
 happy
 acquire |  
-| bip_39_word_new_line11 | enroll
+| bip_39_word_new_line_11 | enroll
 off
 advice
 snow
@@ -66,7 +66,7 @@ fork
 happy
 acquire
 brick |  
-| bip_39_word_new_line12 | enroll
+| bip_39_word_new_line_12 | enroll
 off
 advice
 snow
@@ -78,34 +78,34 @@ happy
 acquire
 brick
 ankle |  
-| bip_39_word_new_line2 | enroll
+| bip_39_word_new_line_2 | enroll
 off |  
-| bip_39_word_new_line3 | enroll
+| bip_39_word_new_line_3 | enroll
 off
 advice |  
-| bip_39_word_new_line4 | enroll
+| bip_39_word_new_line_4 | enroll
 off
 advice
 snow |  
-| bip_39_word_new_line5 | enroll
+| bip_39_word_new_line_5 | enroll
 off
 advice
 snow
 obey |  
-| bip_39_word_new_line6 | enroll
+| bip_39_word_new_line_6 | enroll
 off
 advice
 snow
 obey
 black |  
-| bip_39_word_new_line7 | enroll
+| bip_39_word_new_line_7 | enroll
 off
 advice
 snow
 obey
 black
 tornado |  
-| bip_39_word_new_line8 | enroll
+| bip_39_word_new_line_8 | enroll
 off
 advice
 snow
@@ -113,7 +113,7 @@ obey
 black
 tornado
 fork |  
-| bip_39_word_new_line9 | enroll
+| bip_39_word_new_line_9 | enroll
 off
 advice
 snow

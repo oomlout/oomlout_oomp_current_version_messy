@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | level |  
-| bip_39_word_new_br10 | level<br>verify<br>stand<br>relax<br>capable<br>dinner<br>quality<br>timber<br>inner<br>hen |  
-| bip_39_word_new_br11 | level<br>verify<br>stand<br>relax<br>capable<br>dinner<br>quality<br>timber<br>inner<br>hen<br>trap |  
-| bip_39_word_new_br12 | level<br>verify<br>stand<br>relax<br>capable<br>dinner<br>quality<br>timber<br>inner<br>hen<br>trap<br>angry |  
-| bip_39_word_new_br2 | level<br>verify |  
-| bip_39_word_new_br3 | level<br>verify<br>stand |  
-| bip_39_word_new_br4 | level<br>verify<br>stand<br>relax |  
-| bip_39_word_new_br5 | level<br>verify<br>stand<br>relax<br>capable |  
-| bip_39_word_new_br6 | level<br>verify<br>stand<br>relax<br>capable<br>dinner |  
-| bip_39_word_new_br7 | level<br>verify<br>stand<br>relax<br>capable<br>dinner<br>quality |  
-| bip_39_word_new_br8 | level<br>verify<br>stand<br>relax<br>capable<br>dinner<br>quality<br>timber |  
-| bip_39_word_new_br9 | level<br>verify<br>stand<br>relax<br>capable<br>dinner<br>quality<br>timber<br>inner |  
-| bip_39_word_new_line1 | level |  
-| bip_39_word_new_line10 | level
+| bip_39_word_new_br_1 | level |  
+| bip_39_word_new_br_10 | level<br>verify<br>stand<br>relax<br>capable<br>dinner<br>quality<br>timber<br>inner<br>hen |  
+| bip_39_word_new_br_11 | level<br>verify<br>stand<br>relax<br>capable<br>dinner<br>quality<br>timber<br>inner<br>hen<br>trap |  
+| bip_39_word_new_br_12 | level<br>verify<br>stand<br>relax<br>capable<br>dinner<br>quality<br>timber<br>inner<br>hen<br>trap<br>angry |  
+| bip_39_word_new_br_2 | level<br>verify |  
+| bip_39_word_new_br_3 | level<br>verify<br>stand |  
+| bip_39_word_new_br_4 | level<br>verify<br>stand<br>relax |  
+| bip_39_word_new_br_5 | level<br>verify<br>stand<br>relax<br>capable |  
+| bip_39_word_new_br_6 | level<br>verify<br>stand<br>relax<br>capable<br>dinner |  
+| bip_39_word_new_br_7 | level<br>verify<br>stand<br>relax<br>capable<br>dinner<br>quality |  
+| bip_39_word_new_br_8 | level<br>verify<br>stand<br>relax<br>capable<br>dinner<br>quality<br>timber |  
+| bip_39_word_new_br_9 | level<br>verify<br>stand<br>relax<br>capable<br>dinner<br>quality<br>timber<br>inner |  
+| bip_39_word_new_line_1 | level |  
+| bip_39_word_new_line_10 | level
 verify
 stand
 relax
@@ -55,7 +55,7 @@ quality
 timber
 inner
 hen |  
-| bip_39_word_new_line11 | level
+| bip_39_word_new_line_11 | level
 verify
 stand
 relax
@@ -66,7 +66,7 @@ timber
 inner
 hen
 trap |  
-| bip_39_word_new_line12 | level
+| bip_39_word_new_line_12 | level
 verify
 stand
 relax
@@ -78,34 +78,34 @@ inner
 hen
 trap
 angry |  
-| bip_39_word_new_line2 | level
+| bip_39_word_new_line_2 | level
 verify |  
-| bip_39_word_new_line3 | level
+| bip_39_word_new_line_3 | level
 verify
 stand |  
-| bip_39_word_new_line4 | level
+| bip_39_word_new_line_4 | level
 verify
 stand
 relax |  
-| bip_39_word_new_line5 | level
+| bip_39_word_new_line_5 | level
 verify
 stand
 relax
 capable |  
-| bip_39_word_new_line6 | level
+| bip_39_word_new_line_6 | level
 verify
 stand
 relax
 capable
 dinner |  
-| bip_39_word_new_line7 | level
+| bip_39_word_new_line_7 | level
 verify
 stand
 relax
 capable
 dinner
 quality |  
-| bip_39_word_new_line8 | level
+| bip_39_word_new_line_8 | level
 verify
 stand
 relax
@@ -113,7 +113,7 @@ capable
 dinner
 quality
 timber |  
-| bip_39_word_new_line9 | level
+| bip_39_word_new_line_9 | level
 verify
 stand
 relax

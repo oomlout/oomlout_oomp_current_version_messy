@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | elite |  
-| bip_39_word_new_br10 | elite<br>install<br>swim<br>script<br>raccoon<br>toy<br>aspect<br>hammer<br>art<br>target |  
-| bip_39_word_new_br11 | elite<br>install<br>swim<br>script<br>raccoon<br>toy<br>aspect<br>hammer<br>art<br>target<br>inherit |  
-| bip_39_word_new_br12 | elite<br>install<br>swim<br>script<br>raccoon<br>toy<br>aspect<br>hammer<br>art<br>target<br>inherit<br>about |  
-| bip_39_word_new_br2 | elite<br>install |  
-| bip_39_word_new_br3 | elite<br>install<br>swim |  
-| bip_39_word_new_br4 | elite<br>install<br>swim<br>script |  
-| bip_39_word_new_br5 | elite<br>install<br>swim<br>script<br>raccoon |  
-| bip_39_word_new_br6 | elite<br>install<br>swim<br>script<br>raccoon<br>toy |  
-| bip_39_word_new_br7 | elite<br>install<br>swim<br>script<br>raccoon<br>toy<br>aspect |  
-| bip_39_word_new_br8 | elite<br>install<br>swim<br>script<br>raccoon<br>toy<br>aspect<br>hammer |  
-| bip_39_word_new_br9 | elite<br>install<br>swim<br>script<br>raccoon<br>toy<br>aspect<br>hammer<br>art |  
-| bip_39_word_new_line1 | elite |  
-| bip_39_word_new_line10 | elite
+| bip_39_word_new_br_1 | elite |  
+| bip_39_word_new_br_10 | elite<br>install<br>swim<br>script<br>raccoon<br>toy<br>aspect<br>hammer<br>art<br>target |  
+| bip_39_word_new_br_11 | elite<br>install<br>swim<br>script<br>raccoon<br>toy<br>aspect<br>hammer<br>art<br>target<br>inherit |  
+| bip_39_word_new_br_12 | elite<br>install<br>swim<br>script<br>raccoon<br>toy<br>aspect<br>hammer<br>art<br>target<br>inherit<br>about |  
+| bip_39_word_new_br_2 | elite<br>install |  
+| bip_39_word_new_br_3 | elite<br>install<br>swim |  
+| bip_39_word_new_br_4 | elite<br>install<br>swim<br>script |  
+| bip_39_word_new_br_5 | elite<br>install<br>swim<br>script<br>raccoon |  
+| bip_39_word_new_br_6 | elite<br>install<br>swim<br>script<br>raccoon<br>toy |  
+| bip_39_word_new_br_7 | elite<br>install<br>swim<br>script<br>raccoon<br>toy<br>aspect |  
+| bip_39_word_new_br_8 | elite<br>install<br>swim<br>script<br>raccoon<br>toy<br>aspect<br>hammer |  
+| bip_39_word_new_br_9 | elite<br>install<br>swim<br>script<br>raccoon<br>toy<br>aspect<br>hammer<br>art |  
+| bip_39_word_new_line_1 | elite |  
+| bip_39_word_new_line_10 | elite
 install
 swim
 script
@@ -55,7 +55,7 @@ aspect
 hammer
 art
 target |  
-| bip_39_word_new_line11 | elite
+| bip_39_word_new_line_11 | elite
 install
 swim
 script
@@ -66,7 +66,7 @@ hammer
 art
 target
 inherit |  
-| bip_39_word_new_line12 | elite
+| bip_39_word_new_line_12 | elite
 install
 swim
 script
@@ -78,34 +78,34 @@ art
 target
 inherit
 about |  
-| bip_39_word_new_line2 | elite
+| bip_39_word_new_line_2 | elite
 install |  
-| bip_39_word_new_line3 | elite
+| bip_39_word_new_line_3 | elite
 install
 swim |  
-| bip_39_word_new_line4 | elite
+| bip_39_word_new_line_4 | elite
 install
 swim
 script |  
-| bip_39_word_new_line5 | elite
+| bip_39_word_new_line_5 | elite
 install
 swim
 script
 raccoon |  
-| bip_39_word_new_line6 | elite
+| bip_39_word_new_line_6 | elite
 install
 swim
 script
 raccoon
 toy |  
-| bip_39_word_new_line7 | elite
+| bip_39_word_new_line_7 | elite
 install
 swim
 script
 raccoon
 toy
 aspect |  
-| bip_39_word_new_line8 | elite
+| bip_39_word_new_line_8 | elite
 install
 swim
 script
@@ -113,7 +113,7 @@ raccoon
 toy
 aspect
 hammer |  
-| bip_39_word_new_line9 | elite
+| bip_39_word_new_line_9 | elite
 install
 swim
 script

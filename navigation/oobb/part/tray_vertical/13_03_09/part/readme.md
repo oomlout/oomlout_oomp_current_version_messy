@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | guilt |  
-| bip_39_word_new_br10 | guilt<br>table<br>urge<br>combine<br>tag<br>duty<br>salon<br>this<br>tent<br>era |  
-| bip_39_word_new_br11 | guilt<br>table<br>urge<br>combine<br>tag<br>duty<br>salon<br>this<br>tent<br>era<br>repeat |  
-| bip_39_word_new_br12 | guilt<br>table<br>urge<br>combine<br>tag<br>duty<br>salon<br>this<br>tent<br>era<br>repeat<br>all |  
-| bip_39_word_new_br2 | guilt<br>table |  
-| bip_39_word_new_br3 | guilt<br>table<br>urge |  
-| bip_39_word_new_br4 | guilt<br>table<br>urge<br>combine |  
-| bip_39_word_new_br5 | guilt<br>table<br>urge<br>combine<br>tag |  
-| bip_39_word_new_br6 | guilt<br>table<br>urge<br>combine<br>tag<br>duty |  
-| bip_39_word_new_br7 | guilt<br>table<br>urge<br>combine<br>tag<br>duty<br>salon |  
-| bip_39_word_new_br8 | guilt<br>table<br>urge<br>combine<br>tag<br>duty<br>salon<br>this |  
-| bip_39_word_new_br9 | guilt<br>table<br>urge<br>combine<br>tag<br>duty<br>salon<br>this<br>tent |  
-| bip_39_word_new_line1 | guilt |  
-| bip_39_word_new_line10 | guilt
+| bip_39_word_new_br_1 | guilt |  
+| bip_39_word_new_br_10 | guilt<br>table<br>urge<br>combine<br>tag<br>duty<br>salon<br>this<br>tent<br>era |  
+| bip_39_word_new_br_11 | guilt<br>table<br>urge<br>combine<br>tag<br>duty<br>salon<br>this<br>tent<br>era<br>repeat |  
+| bip_39_word_new_br_12 | guilt<br>table<br>urge<br>combine<br>tag<br>duty<br>salon<br>this<br>tent<br>era<br>repeat<br>all |  
+| bip_39_word_new_br_2 | guilt<br>table |  
+| bip_39_word_new_br_3 | guilt<br>table<br>urge |  
+| bip_39_word_new_br_4 | guilt<br>table<br>urge<br>combine |  
+| bip_39_word_new_br_5 | guilt<br>table<br>urge<br>combine<br>tag |  
+| bip_39_word_new_br_6 | guilt<br>table<br>urge<br>combine<br>tag<br>duty |  
+| bip_39_word_new_br_7 | guilt<br>table<br>urge<br>combine<br>tag<br>duty<br>salon |  
+| bip_39_word_new_br_8 | guilt<br>table<br>urge<br>combine<br>tag<br>duty<br>salon<br>this |  
+| bip_39_word_new_br_9 | guilt<br>table<br>urge<br>combine<br>tag<br>duty<br>salon<br>this<br>tent |  
+| bip_39_word_new_line_1 | guilt |  
+| bip_39_word_new_line_10 | guilt
 table
 urge
 combine
@@ -55,7 +55,7 @@ salon
 this
 tent
 era |  
-| bip_39_word_new_line11 | guilt
+| bip_39_word_new_line_11 | guilt
 table
 urge
 combine
@@ -66,7 +66,7 @@ this
 tent
 era
 repeat |  
-| bip_39_word_new_line12 | guilt
+| bip_39_word_new_line_12 | guilt
 table
 urge
 combine
@@ -78,34 +78,34 @@ tent
 era
 repeat
 all |  
-| bip_39_word_new_line2 | guilt
+| bip_39_word_new_line_2 | guilt
 table |  
-| bip_39_word_new_line3 | guilt
+| bip_39_word_new_line_3 | guilt
 table
 urge |  
-| bip_39_word_new_line4 | guilt
+| bip_39_word_new_line_4 | guilt
 table
 urge
 combine |  
-| bip_39_word_new_line5 | guilt
+| bip_39_word_new_line_5 | guilt
 table
 urge
 combine
 tag |  
-| bip_39_word_new_line6 | guilt
+| bip_39_word_new_line_6 | guilt
 table
 urge
 combine
 tag
 duty |  
-| bip_39_word_new_line7 | guilt
+| bip_39_word_new_line_7 | guilt
 table
 urge
 combine
 tag
 duty
 salon |  
-| bip_39_word_new_line8 | guilt
+| bip_39_word_new_line_8 | guilt
 table
 urge
 combine
@@ -113,7 +113,7 @@ tag
 duty
 salon
 this |  
-| bip_39_word_new_line9 | guilt
+| bip_39_word_new_line_9 | guilt
 table
 urge
 combine

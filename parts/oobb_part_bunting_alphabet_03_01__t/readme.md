@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | drip |  
-| bip_39_word_new_br10 | drip<br>broom<br>raise<br>regular<br>practice<br>clown<br>transfer<br>ecology<br>gospel<br>initial |  
-| bip_39_word_new_br11 | drip<br>broom<br>raise<br>regular<br>practice<br>clown<br>transfer<br>ecology<br>gospel<br>initial<br>depend |  
-| bip_39_word_new_br12 | drip<br>broom<br>raise<br>regular<br>practice<br>clown<br>transfer<br>ecology<br>gospel<br>initial<br>depend<br>affair |  
-| bip_39_word_new_br2 | drip<br>broom |  
-| bip_39_word_new_br3 | drip<br>broom<br>raise |  
-| bip_39_word_new_br4 | drip<br>broom<br>raise<br>regular |  
-| bip_39_word_new_br5 | drip<br>broom<br>raise<br>regular<br>practice |  
-| bip_39_word_new_br6 | drip<br>broom<br>raise<br>regular<br>practice<br>clown |  
-| bip_39_word_new_br7 | drip<br>broom<br>raise<br>regular<br>practice<br>clown<br>transfer |  
-| bip_39_word_new_br8 | drip<br>broom<br>raise<br>regular<br>practice<br>clown<br>transfer<br>ecology |  
-| bip_39_word_new_br9 | drip<br>broom<br>raise<br>regular<br>practice<br>clown<br>transfer<br>ecology<br>gospel |  
-| bip_39_word_new_line1 | drip |  
-| bip_39_word_new_line10 | drip
+| bip_39_word_new_br_1 | drip |  
+| bip_39_word_new_br_10 | drip<br>broom<br>raise<br>regular<br>practice<br>clown<br>transfer<br>ecology<br>gospel<br>initial |  
+| bip_39_word_new_br_11 | drip<br>broom<br>raise<br>regular<br>practice<br>clown<br>transfer<br>ecology<br>gospel<br>initial<br>depend |  
+| bip_39_word_new_br_12 | drip<br>broom<br>raise<br>regular<br>practice<br>clown<br>transfer<br>ecology<br>gospel<br>initial<br>depend<br>affair |  
+| bip_39_word_new_br_2 | drip<br>broom |  
+| bip_39_word_new_br_3 | drip<br>broom<br>raise |  
+| bip_39_word_new_br_4 | drip<br>broom<br>raise<br>regular |  
+| bip_39_word_new_br_5 | drip<br>broom<br>raise<br>regular<br>practice |  
+| bip_39_word_new_br_6 | drip<br>broom<br>raise<br>regular<br>practice<br>clown |  
+| bip_39_word_new_br_7 | drip<br>broom<br>raise<br>regular<br>practice<br>clown<br>transfer |  
+| bip_39_word_new_br_8 | drip<br>broom<br>raise<br>regular<br>practice<br>clown<br>transfer<br>ecology |  
+| bip_39_word_new_br_9 | drip<br>broom<br>raise<br>regular<br>practice<br>clown<br>transfer<br>ecology<br>gospel |  
+| bip_39_word_new_line_1 | drip |  
+| bip_39_word_new_line_10 | drip
 broom
 raise
 regular
@@ -55,7 +55,7 @@ transfer
 ecology
 gospel
 initial |  
-| bip_39_word_new_line11 | drip
+| bip_39_word_new_line_11 | drip
 broom
 raise
 regular
@@ -66,7 +66,7 @@ ecology
 gospel
 initial
 depend |  
-| bip_39_word_new_line12 | drip
+| bip_39_word_new_line_12 | drip
 broom
 raise
 regular
@@ -78,34 +78,34 @@ gospel
 initial
 depend
 affair |  
-| bip_39_word_new_line2 | drip
+| bip_39_word_new_line_2 | drip
 broom |  
-| bip_39_word_new_line3 | drip
+| bip_39_word_new_line_3 | drip
 broom
 raise |  
-| bip_39_word_new_line4 | drip
+| bip_39_word_new_line_4 | drip
 broom
 raise
 regular |  
-| bip_39_word_new_line5 | drip
+| bip_39_word_new_line_5 | drip
 broom
 raise
 regular
 practice |  
-| bip_39_word_new_line6 | drip
+| bip_39_word_new_line_6 | drip
 broom
 raise
 regular
 practice
 clown |  
-| bip_39_word_new_line7 | drip
+| bip_39_word_new_line_7 | drip
 broom
 raise
 regular
 practice
 clown
 transfer |  
-| bip_39_word_new_line8 | drip
+| bip_39_word_new_line_8 | drip
 broom
 raise
 regular
@@ -113,7 +113,7 @@ practice
 clown
 transfer
 ecology |  
-| bip_39_word_new_line9 | drip
+| bip_39_word_new_line_9 | drip
 broom
 raise
 regular

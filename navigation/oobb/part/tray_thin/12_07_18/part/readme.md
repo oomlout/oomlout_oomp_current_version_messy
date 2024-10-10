@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | series |  
-| bip_39_word_new_br10 | series<br>stick<br>razor<br>gas<br>easily<br>tobacco<br>depth<br>perfect<br>tone<br>skull |  
-| bip_39_word_new_br11 | series<br>stick<br>razor<br>gas<br>easily<br>tobacco<br>depth<br>perfect<br>tone<br>skull<br>depart |  
-| bip_39_word_new_br12 | series<br>stick<br>razor<br>gas<br>easily<br>tobacco<br>depth<br>perfect<br>tone<br>skull<br>depart<br>add |  
-| bip_39_word_new_br2 | series<br>stick |  
-| bip_39_word_new_br3 | series<br>stick<br>razor |  
-| bip_39_word_new_br4 | series<br>stick<br>razor<br>gas |  
-| bip_39_word_new_br5 | series<br>stick<br>razor<br>gas<br>easily |  
-| bip_39_word_new_br6 | series<br>stick<br>razor<br>gas<br>easily<br>tobacco |  
-| bip_39_word_new_br7 | series<br>stick<br>razor<br>gas<br>easily<br>tobacco<br>depth |  
-| bip_39_word_new_br8 | series<br>stick<br>razor<br>gas<br>easily<br>tobacco<br>depth<br>perfect |  
-| bip_39_word_new_br9 | series<br>stick<br>razor<br>gas<br>easily<br>tobacco<br>depth<br>perfect<br>tone |  
-| bip_39_word_new_line1 | series |  
-| bip_39_word_new_line10 | series
+| bip_39_word_new_br_1 | series |  
+| bip_39_word_new_br_10 | series<br>stick<br>razor<br>gas<br>easily<br>tobacco<br>depth<br>perfect<br>tone<br>skull |  
+| bip_39_word_new_br_11 | series<br>stick<br>razor<br>gas<br>easily<br>tobacco<br>depth<br>perfect<br>tone<br>skull<br>depart |  
+| bip_39_word_new_br_12 | series<br>stick<br>razor<br>gas<br>easily<br>tobacco<br>depth<br>perfect<br>tone<br>skull<br>depart<br>add |  
+| bip_39_word_new_br_2 | series<br>stick |  
+| bip_39_word_new_br_3 | series<br>stick<br>razor |  
+| bip_39_word_new_br_4 | series<br>stick<br>razor<br>gas |  
+| bip_39_word_new_br_5 | series<br>stick<br>razor<br>gas<br>easily |  
+| bip_39_word_new_br_6 | series<br>stick<br>razor<br>gas<br>easily<br>tobacco |  
+| bip_39_word_new_br_7 | series<br>stick<br>razor<br>gas<br>easily<br>tobacco<br>depth |  
+| bip_39_word_new_br_8 | series<br>stick<br>razor<br>gas<br>easily<br>tobacco<br>depth<br>perfect |  
+| bip_39_word_new_br_9 | series<br>stick<br>razor<br>gas<br>easily<br>tobacco<br>depth<br>perfect<br>tone |  
+| bip_39_word_new_line_1 | series |  
+| bip_39_word_new_line_10 | series
 stick
 razor
 gas
@@ -55,7 +55,7 @@ depth
 perfect
 tone
 skull |  
-| bip_39_word_new_line11 | series
+| bip_39_word_new_line_11 | series
 stick
 razor
 gas
@@ -66,7 +66,7 @@ perfect
 tone
 skull
 depart |  
-| bip_39_word_new_line12 | series
+| bip_39_word_new_line_12 | series
 stick
 razor
 gas
@@ -78,34 +78,34 @@ tone
 skull
 depart
 add |  
-| bip_39_word_new_line2 | series
+| bip_39_word_new_line_2 | series
 stick |  
-| bip_39_word_new_line3 | series
+| bip_39_word_new_line_3 | series
 stick
 razor |  
-| bip_39_word_new_line4 | series
+| bip_39_word_new_line_4 | series
 stick
 razor
 gas |  
-| bip_39_word_new_line5 | series
+| bip_39_word_new_line_5 | series
 stick
 razor
 gas
 easily |  
-| bip_39_word_new_line6 | series
+| bip_39_word_new_line_6 | series
 stick
 razor
 gas
 easily
 tobacco |  
-| bip_39_word_new_line7 | series
+| bip_39_word_new_line_7 | series
 stick
 razor
 gas
 easily
 tobacco
 depth |  
-| bip_39_word_new_line8 | series
+| bip_39_word_new_line_8 | series
 stick
 razor
 gas
@@ -113,7 +113,7 @@ easily
 tobacco
 depth
 perfect |  
-| bip_39_word_new_line9 | series
+| bip_39_word_new_line_9 | series
 stick
 razor
 gas

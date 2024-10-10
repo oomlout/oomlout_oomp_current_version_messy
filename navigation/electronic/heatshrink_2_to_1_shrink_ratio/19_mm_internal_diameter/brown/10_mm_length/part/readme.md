@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | strike |  
-| bip_39_word_new_br10 | strike<br>pear<br>unaware<br>valid<br>inform<br>violin<br>quit<br>gather<br>crucial<br>correct |  
-| bip_39_word_new_br11 | strike<br>pear<br>unaware<br>valid<br>inform<br>violin<br>quit<br>gather<br>crucial<br>correct<br>cool |  
-| bip_39_word_new_br12 | strike<br>pear<br>unaware<br>valid<br>inform<br>violin<br>quit<br>gather<br>crucial<br>correct<br>cool<br>attract |  
-| bip_39_word_new_br2 | strike<br>pear |  
-| bip_39_word_new_br3 | strike<br>pear<br>unaware |  
-| bip_39_word_new_br4 | strike<br>pear<br>unaware<br>valid |  
-| bip_39_word_new_br5 | strike<br>pear<br>unaware<br>valid<br>inform |  
-| bip_39_word_new_br6 | strike<br>pear<br>unaware<br>valid<br>inform<br>violin |  
-| bip_39_word_new_br7 | strike<br>pear<br>unaware<br>valid<br>inform<br>violin<br>quit |  
-| bip_39_word_new_br8 | strike<br>pear<br>unaware<br>valid<br>inform<br>violin<br>quit<br>gather |  
-| bip_39_word_new_br9 | strike<br>pear<br>unaware<br>valid<br>inform<br>violin<br>quit<br>gather<br>crucial |  
-| bip_39_word_new_line1 | strike |  
-| bip_39_word_new_line10 | strike
+| bip_39_word_new_br_1 | strike |  
+| bip_39_word_new_br_10 | strike<br>pear<br>unaware<br>valid<br>inform<br>violin<br>quit<br>gather<br>crucial<br>correct |  
+| bip_39_word_new_br_11 | strike<br>pear<br>unaware<br>valid<br>inform<br>violin<br>quit<br>gather<br>crucial<br>correct<br>cool |  
+| bip_39_word_new_br_12 | strike<br>pear<br>unaware<br>valid<br>inform<br>violin<br>quit<br>gather<br>crucial<br>correct<br>cool<br>attract |  
+| bip_39_word_new_br_2 | strike<br>pear |  
+| bip_39_word_new_br_3 | strike<br>pear<br>unaware |  
+| bip_39_word_new_br_4 | strike<br>pear<br>unaware<br>valid |  
+| bip_39_word_new_br_5 | strike<br>pear<br>unaware<br>valid<br>inform |  
+| bip_39_word_new_br_6 | strike<br>pear<br>unaware<br>valid<br>inform<br>violin |  
+| bip_39_word_new_br_7 | strike<br>pear<br>unaware<br>valid<br>inform<br>violin<br>quit |  
+| bip_39_word_new_br_8 | strike<br>pear<br>unaware<br>valid<br>inform<br>violin<br>quit<br>gather |  
+| bip_39_word_new_br_9 | strike<br>pear<br>unaware<br>valid<br>inform<br>violin<br>quit<br>gather<br>crucial |  
+| bip_39_word_new_line_1 | strike |  
+| bip_39_word_new_line_10 | strike
 pear
 unaware
 valid
@@ -55,7 +55,7 @@ quit
 gather
 crucial
 correct |  
-| bip_39_word_new_line11 | strike
+| bip_39_word_new_line_11 | strike
 pear
 unaware
 valid
@@ -66,7 +66,7 @@ gather
 crucial
 correct
 cool |  
-| bip_39_word_new_line12 | strike
+| bip_39_word_new_line_12 | strike
 pear
 unaware
 valid
@@ -78,34 +78,34 @@ crucial
 correct
 cool
 attract |  
-| bip_39_word_new_line2 | strike
+| bip_39_word_new_line_2 | strike
 pear |  
-| bip_39_word_new_line3 | strike
+| bip_39_word_new_line_3 | strike
 pear
 unaware |  
-| bip_39_word_new_line4 | strike
+| bip_39_word_new_line_4 | strike
 pear
 unaware
 valid |  
-| bip_39_word_new_line5 | strike
+| bip_39_word_new_line_5 | strike
 pear
 unaware
 valid
 inform |  
-| bip_39_word_new_line6 | strike
+| bip_39_word_new_line_6 | strike
 pear
 unaware
 valid
 inform
 violin |  
-| bip_39_word_new_line7 | strike
+| bip_39_word_new_line_7 | strike
 pear
 unaware
 valid
 inform
 violin
 quit |  
-| bip_39_word_new_line8 | strike
+| bip_39_word_new_line_8 | strike
 pear
 unaware
 valid
@@ -113,7 +113,7 @@ inform
 violin
 quit
 gather |  
-| bip_39_word_new_line9 | strike
+| bip_39_word_new_line_9 | strike
 pear
 unaware
 valid

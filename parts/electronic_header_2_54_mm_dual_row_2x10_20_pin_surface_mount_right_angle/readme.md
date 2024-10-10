@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | tenant |  
-| bip_39_word_new_br10 | tenant<br>consider<br>stereo<br>ask<br>common<br>daring<br>ribbon<br>slow<br>team<br>drop |  
-| bip_39_word_new_br11 | tenant<br>consider<br>stereo<br>ask<br>common<br>daring<br>ribbon<br>slow<br>team<br>drop<br>cool |  
-| bip_39_word_new_br12 | tenant<br>consider<br>stereo<br>ask<br>common<br>daring<br>ribbon<br>slow<br>team<br>drop<br>cool<br>army |  
-| bip_39_word_new_br2 | tenant<br>consider |  
-| bip_39_word_new_br3 | tenant<br>consider<br>stereo |  
-| bip_39_word_new_br4 | tenant<br>consider<br>stereo<br>ask |  
-| bip_39_word_new_br5 | tenant<br>consider<br>stereo<br>ask<br>common |  
-| bip_39_word_new_br6 | tenant<br>consider<br>stereo<br>ask<br>common<br>daring |  
-| bip_39_word_new_br7 | tenant<br>consider<br>stereo<br>ask<br>common<br>daring<br>ribbon |  
-| bip_39_word_new_br8 | tenant<br>consider<br>stereo<br>ask<br>common<br>daring<br>ribbon<br>slow |  
-| bip_39_word_new_br9 | tenant<br>consider<br>stereo<br>ask<br>common<br>daring<br>ribbon<br>slow<br>team |  
-| bip_39_word_new_line1 | tenant |  
-| bip_39_word_new_line10 | tenant
+| bip_39_word_new_br_1 | tenant |  
+| bip_39_word_new_br_10 | tenant<br>consider<br>stereo<br>ask<br>common<br>daring<br>ribbon<br>slow<br>team<br>drop |  
+| bip_39_word_new_br_11 | tenant<br>consider<br>stereo<br>ask<br>common<br>daring<br>ribbon<br>slow<br>team<br>drop<br>cool |  
+| bip_39_word_new_br_12 | tenant<br>consider<br>stereo<br>ask<br>common<br>daring<br>ribbon<br>slow<br>team<br>drop<br>cool<br>army |  
+| bip_39_word_new_br_2 | tenant<br>consider |  
+| bip_39_word_new_br_3 | tenant<br>consider<br>stereo |  
+| bip_39_word_new_br_4 | tenant<br>consider<br>stereo<br>ask |  
+| bip_39_word_new_br_5 | tenant<br>consider<br>stereo<br>ask<br>common |  
+| bip_39_word_new_br_6 | tenant<br>consider<br>stereo<br>ask<br>common<br>daring |  
+| bip_39_word_new_br_7 | tenant<br>consider<br>stereo<br>ask<br>common<br>daring<br>ribbon |  
+| bip_39_word_new_br_8 | tenant<br>consider<br>stereo<br>ask<br>common<br>daring<br>ribbon<br>slow |  
+| bip_39_word_new_br_9 | tenant<br>consider<br>stereo<br>ask<br>common<br>daring<br>ribbon<br>slow<br>team |  
+| bip_39_word_new_line_1 | tenant |  
+| bip_39_word_new_line_10 | tenant
 consider
 stereo
 ask
@@ -55,7 +55,7 @@ ribbon
 slow
 team
 drop |  
-| bip_39_word_new_line11 | tenant
+| bip_39_word_new_line_11 | tenant
 consider
 stereo
 ask
@@ -66,7 +66,7 @@ slow
 team
 drop
 cool |  
-| bip_39_word_new_line12 | tenant
+| bip_39_word_new_line_12 | tenant
 consider
 stereo
 ask
@@ -78,34 +78,34 @@ team
 drop
 cool
 army |  
-| bip_39_word_new_line2 | tenant
+| bip_39_word_new_line_2 | tenant
 consider |  
-| bip_39_word_new_line3 | tenant
+| bip_39_word_new_line_3 | tenant
 consider
 stereo |  
-| bip_39_word_new_line4 | tenant
+| bip_39_word_new_line_4 | tenant
 consider
 stereo
 ask |  
-| bip_39_word_new_line5 | tenant
+| bip_39_word_new_line_5 | tenant
 consider
 stereo
 ask
 common |  
-| bip_39_word_new_line6 | tenant
+| bip_39_word_new_line_6 | tenant
 consider
 stereo
 ask
 common
 daring |  
-| bip_39_word_new_line7 | tenant
+| bip_39_word_new_line_7 | tenant
 consider
 stereo
 ask
 common
 daring
 ribbon |  
-| bip_39_word_new_line8 | tenant
+| bip_39_word_new_line_8 | tenant
 consider
 stereo
 ask
@@ -113,7 +113,7 @@ common
 daring
 ribbon
 slow |  
-| bip_39_word_new_line9 | tenant
+| bip_39_word_new_line_9 | tenant
 consider
 stereo
 ask

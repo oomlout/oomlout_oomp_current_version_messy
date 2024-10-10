@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | special |  
-| bip_39_word_new_br10 | special<br>foam<br>rescue<br>rotate<br>melt<br>embark<br>thank<br>hard<br>attract<br>rocket |  
-| bip_39_word_new_br11 | special<br>foam<br>rescue<br>rotate<br>melt<br>embark<br>thank<br>hard<br>attract<br>rocket<br>bargain |  
-| bip_39_word_new_br12 | special<br>foam<br>rescue<br>rotate<br>melt<br>embark<br>thank<br>hard<br>attract<br>rocket<br>bargain<br>access |  
-| bip_39_word_new_br2 | special<br>foam |  
-| bip_39_word_new_br3 | special<br>foam<br>rescue |  
-| bip_39_word_new_br4 | special<br>foam<br>rescue<br>rotate |  
-| bip_39_word_new_br5 | special<br>foam<br>rescue<br>rotate<br>melt |  
-| bip_39_word_new_br6 | special<br>foam<br>rescue<br>rotate<br>melt<br>embark |  
-| bip_39_word_new_br7 | special<br>foam<br>rescue<br>rotate<br>melt<br>embark<br>thank |  
-| bip_39_word_new_br8 | special<br>foam<br>rescue<br>rotate<br>melt<br>embark<br>thank<br>hard |  
-| bip_39_word_new_br9 | special<br>foam<br>rescue<br>rotate<br>melt<br>embark<br>thank<br>hard<br>attract |  
-| bip_39_word_new_line1 | special |  
-| bip_39_word_new_line10 | special
+| bip_39_word_new_br_1 | special |  
+| bip_39_word_new_br_10 | special<br>foam<br>rescue<br>rotate<br>melt<br>embark<br>thank<br>hard<br>attract<br>rocket |  
+| bip_39_word_new_br_11 | special<br>foam<br>rescue<br>rotate<br>melt<br>embark<br>thank<br>hard<br>attract<br>rocket<br>bargain |  
+| bip_39_word_new_br_12 | special<br>foam<br>rescue<br>rotate<br>melt<br>embark<br>thank<br>hard<br>attract<br>rocket<br>bargain<br>access |  
+| bip_39_word_new_br_2 | special<br>foam |  
+| bip_39_word_new_br_3 | special<br>foam<br>rescue |  
+| bip_39_word_new_br_4 | special<br>foam<br>rescue<br>rotate |  
+| bip_39_word_new_br_5 | special<br>foam<br>rescue<br>rotate<br>melt |  
+| bip_39_word_new_br_6 | special<br>foam<br>rescue<br>rotate<br>melt<br>embark |  
+| bip_39_word_new_br_7 | special<br>foam<br>rescue<br>rotate<br>melt<br>embark<br>thank |  
+| bip_39_word_new_br_8 | special<br>foam<br>rescue<br>rotate<br>melt<br>embark<br>thank<br>hard |  
+| bip_39_word_new_br_9 | special<br>foam<br>rescue<br>rotate<br>melt<br>embark<br>thank<br>hard<br>attract |  
+| bip_39_word_new_line_1 | special |  
+| bip_39_word_new_line_10 | special
 foam
 rescue
 rotate
@@ -55,7 +55,7 @@ thank
 hard
 attract
 rocket |  
-| bip_39_word_new_line11 | special
+| bip_39_word_new_line_11 | special
 foam
 rescue
 rotate
@@ -66,7 +66,7 @@ hard
 attract
 rocket
 bargain |  
-| bip_39_word_new_line12 | special
+| bip_39_word_new_line_12 | special
 foam
 rescue
 rotate
@@ -78,34 +78,34 @@ attract
 rocket
 bargain
 access |  
-| bip_39_word_new_line2 | special
+| bip_39_word_new_line_2 | special
 foam |  
-| bip_39_word_new_line3 | special
+| bip_39_word_new_line_3 | special
 foam
 rescue |  
-| bip_39_word_new_line4 | special
+| bip_39_word_new_line_4 | special
 foam
 rescue
 rotate |  
-| bip_39_word_new_line5 | special
+| bip_39_word_new_line_5 | special
 foam
 rescue
 rotate
 melt |  
-| bip_39_word_new_line6 | special
+| bip_39_word_new_line_6 | special
 foam
 rescue
 rotate
 melt
 embark |  
-| bip_39_word_new_line7 | special
+| bip_39_word_new_line_7 | special
 foam
 rescue
 rotate
 melt
 embark
 thank |  
-| bip_39_word_new_line8 | special
+| bip_39_word_new_line_8 | special
 foam
 rescue
 rotate
@@ -113,7 +113,7 @@ melt
 embark
 thank
 hard |  
-| bip_39_word_new_line9 | special
+| bip_39_word_new_line_9 | special
 foam
 rescue
 rotate

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dash |  
-| bip_39_word_new_br10 | dash<br>aisle<br>small<br>east<br>march<br>private<br>addict<br>refuse<br>enemy<br>crouch |  
-| bip_39_word_new_br11 | dash<br>aisle<br>small<br>east<br>march<br>private<br>addict<br>refuse<br>enemy<br>crouch<br>engine |  
-| bip_39_word_new_br12 | dash<br>aisle<br>small<br>east<br>march<br>private<br>addict<br>refuse<br>enemy<br>crouch<br>engine<br>antenna |  
-| bip_39_word_new_br2 | dash<br>aisle |  
-| bip_39_word_new_br3 | dash<br>aisle<br>small |  
-| bip_39_word_new_br4 | dash<br>aisle<br>small<br>east |  
-| bip_39_word_new_br5 | dash<br>aisle<br>small<br>east<br>march |  
-| bip_39_word_new_br6 | dash<br>aisle<br>small<br>east<br>march<br>private |  
-| bip_39_word_new_br7 | dash<br>aisle<br>small<br>east<br>march<br>private<br>addict |  
-| bip_39_word_new_br8 | dash<br>aisle<br>small<br>east<br>march<br>private<br>addict<br>refuse |  
-| bip_39_word_new_br9 | dash<br>aisle<br>small<br>east<br>march<br>private<br>addict<br>refuse<br>enemy |  
-| bip_39_word_new_line1 | dash |  
-| bip_39_word_new_line10 | dash
+| bip_39_word_new_br_1 | dash |  
+| bip_39_word_new_br_10 | dash<br>aisle<br>small<br>east<br>march<br>private<br>addict<br>refuse<br>enemy<br>crouch |  
+| bip_39_word_new_br_11 | dash<br>aisle<br>small<br>east<br>march<br>private<br>addict<br>refuse<br>enemy<br>crouch<br>engine |  
+| bip_39_word_new_br_12 | dash<br>aisle<br>small<br>east<br>march<br>private<br>addict<br>refuse<br>enemy<br>crouch<br>engine<br>antenna |  
+| bip_39_word_new_br_2 | dash<br>aisle |  
+| bip_39_word_new_br_3 | dash<br>aisle<br>small |  
+| bip_39_word_new_br_4 | dash<br>aisle<br>small<br>east |  
+| bip_39_word_new_br_5 | dash<br>aisle<br>small<br>east<br>march |  
+| bip_39_word_new_br_6 | dash<br>aisle<br>small<br>east<br>march<br>private |  
+| bip_39_word_new_br_7 | dash<br>aisle<br>small<br>east<br>march<br>private<br>addict |  
+| bip_39_word_new_br_8 | dash<br>aisle<br>small<br>east<br>march<br>private<br>addict<br>refuse |  
+| bip_39_word_new_br_9 | dash<br>aisle<br>small<br>east<br>march<br>private<br>addict<br>refuse<br>enemy |  
+| bip_39_word_new_line_1 | dash |  
+| bip_39_word_new_line_10 | dash
 aisle
 small
 east
@@ -55,7 +55,7 @@ addict
 refuse
 enemy
 crouch |  
-| bip_39_word_new_line11 | dash
+| bip_39_word_new_line_11 | dash
 aisle
 small
 east
@@ -66,7 +66,7 @@ refuse
 enemy
 crouch
 engine |  
-| bip_39_word_new_line12 | dash
+| bip_39_word_new_line_12 | dash
 aisle
 small
 east
@@ -78,34 +78,34 @@ enemy
 crouch
 engine
 antenna |  
-| bip_39_word_new_line2 | dash
+| bip_39_word_new_line_2 | dash
 aisle |  
-| bip_39_word_new_line3 | dash
+| bip_39_word_new_line_3 | dash
 aisle
 small |  
-| bip_39_word_new_line4 | dash
+| bip_39_word_new_line_4 | dash
 aisle
 small
 east |  
-| bip_39_word_new_line5 | dash
+| bip_39_word_new_line_5 | dash
 aisle
 small
 east
 march |  
-| bip_39_word_new_line6 | dash
+| bip_39_word_new_line_6 | dash
 aisle
 small
 east
 march
 private |  
-| bip_39_word_new_line7 | dash
+| bip_39_word_new_line_7 | dash
 aisle
 small
 east
 march
 private
 addict |  
-| bip_39_word_new_line8 | dash
+| bip_39_word_new_line_8 | dash
 aisle
 small
 east
@@ -113,7 +113,7 @@ march
 private
 addict
 refuse |  
-| bip_39_word_new_line9 | dash
+| bip_39_word_new_line_9 | dash
 aisle
 small
 east

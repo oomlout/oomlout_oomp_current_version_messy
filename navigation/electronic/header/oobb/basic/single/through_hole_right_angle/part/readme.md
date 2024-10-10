@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | universe |  
-| bip_39_word_new_br10 | universe<br>soul<br>mystery<br>devote<br>profit<br>help<br>amateur<br>shrug<br>minimum<br>execute |  
-| bip_39_word_new_br11 | universe<br>soul<br>mystery<br>devote<br>profit<br>help<br>amateur<br>shrug<br>minimum<br>execute<br>bachelor |  
-| bip_39_word_new_br12 | universe<br>soul<br>mystery<br>devote<br>profit<br>help<br>amateur<br>shrug<br>minimum<br>execute<br>bachelor<br>another |  
-| bip_39_word_new_br2 | universe<br>soul |  
-| bip_39_word_new_br3 | universe<br>soul<br>mystery |  
-| bip_39_word_new_br4 | universe<br>soul<br>mystery<br>devote |  
-| bip_39_word_new_br5 | universe<br>soul<br>mystery<br>devote<br>profit |  
-| bip_39_word_new_br6 | universe<br>soul<br>mystery<br>devote<br>profit<br>help |  
-| bip_39_word_new_br7 | universe<br>soul<br>mystery<br>devote<br>profit<br>help<br>amateur |  
-| bip_39_word_new_br8 | universe<br>soul<br>mystery<br>devote<br>profit<br>help<br>amateur<br>shrug |  
-| bip_39_word_new_br9 | universe<br>soul<br>mystery<br>devote<br>profit<br>help<br>amateur<br>shrug<br>minimum |  
-| bip_39_word_new_line1 | universe |  
-| bip_39_word_new_line10 | universe
+| bip_39_word_new_br_1 | universe |  
+| bip_39_word_new_br_10 | universe<br>soul<br>mystery<br>devote<br>profit<br>help<br>amateur<br>shrug<br>minimum<br>execute |  
+| bip_39_word_new_br_11 | universe<br>soul<br>mystery<br>devote<br>profit<br>help<br>amateur<br>shrug<br>minimum<br>execute<br>bachelor |  
+| bip_39_word_new_br_12 | universe<br>soul<br>mystery<br>devote<br>profit<br>help<br>amateur<br>shrug<br>minimum<br>execute<br>bachelor<br>another |  
+| bip_39_word_new_br_2 | universe<br>soul |  
+| bip_39_word_new_br_3 | universe<br>soul<br>mystery |  
+| bip_39_word_new_br_4 | universe<br>soul<br>mystery<br>devote |  
+| bip_39_word_new_br_5 | universe<br>soul<br>mystery<br>devote<br>profit |  
+| bip_39_word_new_br_6 | universe<br>soul<br>mystery<br>devote<br>profit<br>help |  
+| bip_39_word_new_br_7 | universe<br>soul<br>mystery<br>devote<br>profit<br>help<br>amateur |  
+| bip_39_word_new_br_8 | universe<br>soul<br>mystery<br>devote<br>profit<br>help<br>amateur<br>shrug |  
+| bip_39_word_new_br_9 | universe<br>soul<br>mystery<br>devote<br>profit<br>help<br>amateur<br>shrug<br>minimum |  
+| bip_39_word_new_line_1 | universe |  
+| bip_39_word_new_line_10 | universe
 soul
 mystery
 devote
@@ -55,7 +55,7 @@ amateur
 shrug
 minimum
 execute |  
-| bip_39_word_new_line11 | universe
+| bip_39_word_new_line_11 | universe
 soul
 mystery
 devote
@@ -66,7 +66,7 @@ shrug
 minimum
 execute
 bachelor |  
-| bip_39_word_new_line12 | universe
+| bip_39_word_new_line_12 | universe
 soul
 mystery
 devote
@@ -78,34 +78,34 @@ minimum
 execute
 bachelor
 another |  
-| bip_39_word_new_line2 | universe
+| bip_39_word_new_line_2 | universe
 soul |  
-| bip_39_word_new_line3 | universe
+| bip_39_word_new_line_3 | universe
 soul
 mystery |  
-| bip_39_word_new_line4 | universe
+| bip_39_word_new_line_4 | universe
 soul
 mystery
 devote |  
-| bip_39_word_new_line5 | universe
+| bip_39_word_new_line_5 | universe
 soul
 mystery
 devote
 profit |  
-| bip_39_word_new_line6 | universe
+| bip_39_word_new_line_6 | universe
 soul
 mystery
 devote
 profit
 help |  
-| bip_39_word_new_line7 | universe
+| bip_39_word_new_line_7 | universe
 soul
 mystery
 devote
 profit
 help
 amateur |  
-| bip_39_word_new_line8 | universe
+| bip_39_word_new_line_8 | universe
 soul
 mystery
 devote
@@ -113,7 +113,7 @@ profit
 help
 amateur
 shrug |  
-| bip_39_word_new_line9 | universe
+| bip_39_word_new_line_9 | universe
 soul
 mystery
 devote

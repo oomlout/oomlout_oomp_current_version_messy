@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | power |  
-| bip_39_word_new_br10 | power<br>royal<br>door<br>remember<br>speed<br>then<br>share<br>reward<br>voyage<br>ball |  
-| bip_39_word_new_br11 | power<br>royal<br>door<br>remember<br>speed<br>then<br>share<br>reward<br>voyage<br>ball<br>prosper |  
-| bip_39_word_new_br2 | power<br>royal |  
-| bip_39_word_new_br3 | power<br>royal<br>door |  
-| bip_39_word_new_br4 | power<br>royal<br>door<br>remember |  
-| bip_39_word_new_br5 | power<br>royal<br>door<br>remember<br>speed |  
-| bip_39_word_new_br6 | power<br>royal<br>door<br>remember<br>speed<br>then |  
-| bip_39_word_new_br7 | power<br>royal<br>door<br>remember<br>speed<br>then<br>share |  
-| bip_39_word_new_br8 | power<br>royal<br>door<br>remember<br>speed<br>then<br>share<br>reward |  
-| bip_39_word_new_br9 | power<br>royal<br>door<br>remember<br>speed<br>then<br>share<br>reward<br>voyage |  
-| bip_39_word_new_line1 | power |  
-| bip_39_word_new_line10 | power
+| bip_39_word_new_br_1 | power |  
+| bip_39_word_new_br_10 | power<br>royal<br>door<br>remember<br>speed<br>then<br>share<br>reward<br>voyage<br>ball |  
+| bip_39_word_new_br_11 | power<br>royal<br>door<br>remember<br>speed<br>then<br>share<br>reward<br>voyage<br>ball<br>prosper |  
+| bip_39_word_new_br_2 | power<br>royal |  
+| bip_39_word_new_br_3 | power<br>royal<br>door |  
+| bip_39_word_new_br_4 | power<br>royal<br>door<br>remember |  
+| bip_39_word_new_br_5 | power<br>royal<br>door<br>remember<br>speed |  
+| bip_39_word_new_br_6 | power<br>royal<br>door<br>remember<br>speed<br>then |  
+| bip_39_word_new_br_7 | power<br>royal<br>door<br>remember<br>speed<br>then<br>share |  
+| bip_39_word_new_br_8 | power<br>royal<br>door<br>remember<br>speed<br>then<br>share<br>reward |  
+| bip_39_word_new_br_9 | power<br>royal<br>door<br>remember<br>speed<br>then<br>share<br>reward<br>voyage |  
+| bip_39_word_new_line_1 | power |  
+| bip_39_word_new_line_10 | power
 royal
 door
 remember
@@ -54,7 +54,7 @@ share
 reward
 voyage
 ball |  
-| bip_39_word_new_line11 | power
+| bip_39_word_new_line_11 | power
 royal
 door
 remember
@@ -65,34 +65,34 @@ reward
 voyage
 ball
 prosper |  
-| bip_39_word_new_line2 | power
+| bip_39_word_new_line_2 | power
 royal |  
-| bip_39_word_new_line3 | power
+| bip_39_word_new_line_3 | power
 royal
 door |  
-| bip_39_word_new_line4 | power
+| bip_39_word_new_line_4 | power
 royal
 door
 remember |  
-| bip_39_word_new_line5 | power
+| bip_39_word_new_line_5 | power
 royal
 door
 remember
 speed |  
-| bip_39_word_new_line6 | power
+| bip_39_word_new_line_6 | power
 royal
 door
 remember
 speed
 then |  
-| bip_39_word_new_line7 | power
+| bip_39_word_new_line_7 | power
 royal
 door
 remember
 speed
 then
 share |  
-| bip_39_word_new_line8 | power
+| bip_39_word_new_line_8 | power
 royal
 door
 remember
@@ -100,7 +100,7 @@ speed
 then
 share
 reward |  
-| bip_39_word_new_line9 | power
+| bip_39_word_new_line_9 | power
 royal
 door
 remember

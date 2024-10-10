@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hollow |  
-| bip_39_word_new_br10 | hollow<br>cricket<br>rally<br>autumn<br>service<br>car<br>exact<br>double<br>saddle<br>shadow |  
-| bip_39_word_new_br11 | hollow<br>cricket<br>rally<br>autumn<br>service<br>car<br>exact<br>double<br>saddle<br>shadow<br>slight |  
-| bip_39_word_new_br12 | hollow<br>cricket<br>rally<br>autumn<br>service<br>car<br>exact<br>double<br>saddle<br>shadow<br>slight<br>armed |  
-| bip_39_word_new_br2 | hollow<br>cricket |  
-| bip_39_word_new_br3 | hollow<br>cricket<br>rally |  
-| bip_39_word_new_br4 | hollow<br>cricket<br>rally<br>autumn |  
-| bip_39_word_new_br5 | hollow<br>cricket<br>rally<br>autumn<br>service |  
-| bip_39_word_new_br6 | hollow<br>cricket<br>rally<br>autumn<br>service<br>car |  
-| bip_39_word_new_br7 | hollow<br>cricket<br>rally<br>autumn<br>service<br>car<br>exact |  
-| bip_39_word_new_br8 | hollow<br>cricket<br>rally<br>autumn<br>service<br>car<br>exact<br>double |  
-| bip_39_word_new_br9 | hollow<br>cricket<br>rally<br>autumn<br>service<br>car<br>exact<br>double<br>saddle |  
-| bip_39_word_new_line1 | hollow |  
-| bip_39_word_new_line10 | hollow
+| bip_39_word_new_br_1 | hollow |  
+| bip_39_word_new_br_10 | hollow<br>cricket<br>rally<br>autumn<br>service<br>car<br>exact<br>double<br>saddle<br>shadow |  
+| bip_39_word_new_br_11 | hollow<br>cricket<br>rally<br>autumn<br>service<br>car<br>exact<br>double<br>saddle<br>shadow<br>slight |  
+| bip_39_word_new_br_12 | hollow<br>cricket<br>rally<br>autumn<br>service<br>car<br>exact<br>double<br>saddle<br>shadow<br>slight<br>armed |  
+| bip_39_word_new_br_2 | hollow<br>cricket |  
+| bip_39_word_new_br_3 | hollow<br>cricket<br>rally |  
+| bip_39_word_new_br_4 | hollow<br>cricket<br>rally<br>autumn |  
+| bip_39_word_new_br_5 | hollow<br>cricket<br>rally<br>autumn<br>service |  
+| bip_39_word_new_br_6 | hollow<br>cricket<br>rally<br>autumn<br>service<br>car |  
+| bip_39_word_new_br_7 | hollow<br>cricket<br>rally<br>autumn<br>service<br>car<br>exact |  
+| bip_39_word_new_br_8 | hollow<br>cricket<br>rally<br>autumn<br>service<br>car<br>exact<br>double |  
+| bip_39_word_new_br_9 | hollow<br>cricket<br>rally<br>autumn<br>service<br>car<br>exact<br>double<br>saddle |  
+| bip_39_word_new_line_1 | hollow |  
+| bip_39_word_new_line_10 | hollow
 cricket
 rally
 autumn
@@ -55,7 +55,7 @@ exact
 double
 saddle
 shadow |  
-| bip_39_word_new_line11 | hollow
+| bip_39_word_new_line_11 | hollow
 cricket
 rally
 autumn
@@ -66,7 +66,7 @@ double
 saddle
 shadow
 slight |  
-| bip_39_word_new_line12 | hollow
+| bip_39_word_new_line_12 | hollow
 cricket
 rally
 autumn
@@ -78,34 +78,34 @@ saddle
 shadow
 slight
 armed |  
-| bip_39_word_new_line2 | hollow
+| bip_39_word_new_line_2 | hollow
 cricket |  
-| bip_39_word_new_line3 | hollow
+| bip_39_word_new_line_3 | hollow
 cricket
 rally |  
-| bip_39_word_new_line4 | hollow
+| bip_39_word_new_line_4 | hollow
 cricket
 rally
 autumn |  
-| bip_39_word_new_line5 | hollow
+| bip_39_word_new_line_5 | hollow
 cricket
 rally
 autumn
 service |  
-| bip_39_word_new_line6 | hollow
+| bip_39_word_new_line_6 | hollow
 cricket
 rally
 autumn
 service
 car |  
-| bip_39_word_new_line7 | hollow
+| bip_39_word_new_line_7 | hollow
 cricket
 rally
 autumn
 service
 car
 exact |  
-| bip_39_word_new_line8 | hollow
+| bip_39_word_new_line_8 | hollow
 cricket
 rally
 autumn
@@ -113,7 +113,7 @@ service
 car
 exact
 double |  
-| bip_39_word_new_line9 | hollow
+| bip_39_word_new_line_9 | hollow
 cricket
 rally
 autumn

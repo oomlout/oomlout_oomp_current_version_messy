@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | razor |  
-| bip_39_word_new_br10 | razor<br>feed<br>slight<br>barely<br>radar<br>minute<br>define<br>change<br>useful<br>speed |  
-| bip_39_word_new_br11 | razor<br>feed<br>slight<br>barely<br>radar<br>minute<br>define<br>change<br>useful<br>speed<br>auction |  
-| bip_39_word_new_br12 | razor<br>feed<br>slight<br>barely<br>radar<br>minute<br>define<br>change<br>useful<br>speed<br>auction<br>auction |  
-| bip_39_word_new_br2 | razor<br>feed |  
-| bip_39_word_new_br3 | razor<br>feed<br>slight |  
-| bip_39_word_new_br4 | razor<br>feed<br>slight<br>barely |  
-| bip_39_word_new_br5 | razor<br>feed<br>slight<br>barely<br>radar |  
-| bip_39_word_new_br6 | razor<br>feed<br>slight<br>barely<br>radar<br>minute |  
-| bip_39_word_new_br7 | razor<br>feed<br>slight<br>barely<br>radar<br>minute<br>define |  
-| bip_39_word_new_br8 | razor<br>feed<br>slight<br>barely<br>radar<br>minute<br>define<br>change |  
-| bip_39_word_new_br9 | razor<br>feed<br>slight<br>barely<br>radar<br>minute<br>define<br>change<br>useful |  
-| bip_39_word_new_line1 | razor |  
-| bip_39_word_new_line10 | razor
+| bip_39_word_new_br_1 | razor |  
+| bip_39_word_new_br_10 | razor<br>feed<br>slight<br>barely<br>radar<br>minute<br>define<br>change<br>useful<br>speed |  
+| bip_39_word_new_br_11 | razor<br>feed<br>slight<br>barely<br>radar<br>minute<br>define<br>change<br>useful<br>speed<br>auction |  
+| bip_39_word_new_br_12 | razor<br>feed<br>slight<br>barely<br>radar<br>minute<br>define<br>change<br>useful<br>speed<br>auction<br>auction |  
+| bip_39_word_new_br_2 | razor<br>feed |  
+| bip_39_word_new_br_3 | razor<br>feed<br>slight |  
+| bip_39_word_new_br_4 | razor<br>feed<br>slight<br>barely |  
+| bip_39_word_new_br_5 | razor<br>feed<br>slight<br>barely<br>radar |  
+| bip_39_word_new_br_6 | razor<br>feed<br>slight<br>barely<br>radar<br>minute |  
+| bip_39_word_new_br_7 | razor<br>feed<br>slight<br>barely<br>radar<br>minute<br>define |  
+| bip_39_word_new_br_8 | razor<br>feed<br>slight<br>barely<br>radar<br>minute<br>define<br>change |  
+| bip_39_word_new_br_9 | razor<br>feed<br>slight<br>barely<br>radar<br>minute<br>define<br>change<br>useful |  
+| bip_39_word_new_line_1 | razor |  
+| bip_39_word_new_line_10 | razor
 feed
 slight
 barely
@@ -55,7 +55,7 @@ define
 change
 useful
 speed |  
-| bip_39_word_new_line11 | razor
+| bip_39_word_new_line_11 | razor
 feed
 slight
 barely
@@ -66,7 +66,7 @@ change
 useful
 speed
 auction |  
-| bip_39_word_new_line12 | razor
+| bip_39_word_new_line_12 | razor
 feed
 slight
 barely
@@ -78,34 +78,34 @@ useful
 speed
 auction
 auction |  
-| bip_39_word_new_line2 | razor
+| bip_39_word_new_line_2 | razor
 feed |  
-| bip_39_word_new_line3 | razor
+| bip_39_word_new_line_3 | razor
 feed
 slight |  
-| bip_39_word_new_line4 | razor
+| bip_39_word_new_line_4 | razor
 feed
 slight
 barely |  
-| bip_39_word_new_line5 | razor
+| bip_39_word_new_line_5 | razor
 feed
 slight
 barely
 radar |  
-| bip_39_word_new_line6 | razor
+| bip_39_word_new_line_6 | razor
 feed
 slight
 barely
 radar
 minute |  
-| bip_39_word_new_line7 | razor
+| bip_39_word_new_line_7 | razor
 feed
 slight
 barely
 radar
 minute
 define |  
-| bip_39_word_new_line8 | razor
+| bip_39_word_new_line_8 | razor
 feed
 slight
 barely
@@ -113,7 +113,7 @@ radar
 minute
 define
 change |  
-| bip_39_word_new_line9 | razor
+| bip_39_word_new_line_9 | razor
 feed
 slight
 barely

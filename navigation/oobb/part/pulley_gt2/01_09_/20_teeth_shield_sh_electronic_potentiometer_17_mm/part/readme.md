@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | lift |  
-| bip_39_word_new_br10 | lift<br>raccoon<br>innocent<br>another<br>merry<br>alcohol<br>pepper<br>gather<br>powder<br>oak |  
-| bip_39_word_new_br11 | lift<br>raccoon<br>innocent<br>another<br>merry<br>alcohol<br>pepper<br>gather<br>powder<br>oak<br>mind |  
-| bip_39_word_new_br12 | lift<br>raccoon<br>innocent<br>another<br>merry<br>alcohol<br>pepper<br>gather<br>powder<br>oak<br>mind<br>around |  
-| bip_39_word_new_br2 | lift<br>raccoon |  
-| bip_39_word_new_br3 | lift<br>raccoon<br>innocent |  
-| bip_39_word_new_br4 | lift<br>raccoon<br>innocent<br>another |  
-| bip_39_word_new_br5 | lift<br>raccoon<br>innocent<br>another<br>merry |  
-| bip_39_word_new_br6 | lift<br>raccoon<br>innocent<br>another<br>merry<br>alcohol |  
-| bip_39_word_new_br7 | lift<br>raccoon<br>innocent<br>another<br>merry<br>alcohol<br>pepper |  
-| bip_39_word_new_br8 | lift<br>raccoon<br>innocent<br>another<br>merry<br>alcohol<br>pepper<br>gather |  
-| bip_39_word_new_br9 | lift<br>raccoon<br>innocent<br>another<br>merry<br>alcohol<br>pepper<br>gather<br>powder |  
-| bip_39_word_new_line1 | lift |  
-| bip_39_word_new_line10 | lift
+| bip_39_word_new_br_1 | lift |  
+| bip_39_word_new_br_10 | lift<br>raccoon<br>innocent<br>another<br>merry<br>alcohol<br>pepper<br>gather<br>powder<br>oak |  
+| bip_39_word_new_br_11 | lift<br>raccoon<br>innocent<br>another<br>merry<br>alcohol<br>pepper<br>gather<br>powder<br>oak<br>mind |  
+| bip_39_word_new_br_12 | lift<br>raccoon<br>innocent<br>another<br>merry<br>alcohol<br>pepper<br>gather<br>powder<br>oak<br>mind<br>around |  
+| bip_39_word_new_br_2 | lift<br>raccoon |  
+| bip_39_word_new_br_3 | lift<br>raccoon<br>innocent |  
+| bip_39_word_new_br_4 | lift<br>raccoon<br>innocent<br>another |  
+| bip_39_word_new_br_5 | lift<br>raccoon<br>innocent<br>another<br>merry |  
+| bip_39_word_new_br_6 | lift<br>raccoon<br>innocent<br>another<br>merry<br>alcohol |  
+| bip_39_word_new_br_7 | lift<br>raccoon<br>innocent<br>another<br>merry<br>alcohol<br>pepper |  
+| bip_39_word_new_br_8 | lift<br>raccoon<br>innocent<br>another<br>merry<br>alcohol<br>pepper<br>gather |  
+| bip_39_word_new_br_9 | lift<br>raccoon<br>innocent<br>another<br>merry<br>alcohol<br>pepper<br>gather<br>powder |  
+| bip_39_word_new_line_1 | lift |  
+| bip_39_word_new_line_10 | lift
 raccoon
 innocent
 another
@@ -55,7 +55,7 @@ pepper
 gather
 powder
 oak |  
-| bip_39_word_new_line11 | lift
+| bip_39_word_new_line_11 | lift
 raccoon
 innocent
 another
@@ -66,7 +66,7 @@ gather
 powder
 oak
 mind |  
-| bip_39_word_new_line12 | lift
+| bip_39_word_new_line_12 | lift
 raccoon
 innocent
 another
@@ -78,34 +78,34 @@ powder
 oak
 mind
 around |  
-| bip_39_word_new_line2 | lift
+| bip_39_word_new_line_2 | lift
 raccoon |  
-| bip_39_word_new_line3 | lift
+| bip_39_word_new_line_3 | lift
 raccoon
 innocent |  
-| bip_39_word_new_line4 | lift
+| bip_39_word_new_line_4 | lift
 raccoon
 innocent
 another |  
-| bip_39_word_new_line5 | lift
+| bip_39_word_new_line_5 | lift
 raccoon
 innocent
 another
 merry |  
-| bip_39_word_new_line6 | lift
+| bip_39_word_new_line_6 | lift
 raccoon
 innocent
 another
 merry
 alcohol |  
-| bip_39_word_new_line7 | lift
+| bip_39_word_new_line_7 | lift
 raccoon
 innocent
 another
 merry
 alcohol
 pepper |  
-| bip_39_word_new_line8 | lift
+| bip_39_word_new_line_8 | lift
 raccoon
 innocent
 another
@@ -113,7 +113,7 @@ merry
 alcohol
 pepper
 gather |  
-| bip_39_word_new_line9 | lift
+| bip_39_word_new_line_9 | lift
 raccoon
 innocent
 another

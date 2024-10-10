@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | reward |  
-| bip_39_word_new_br10 | reward<br>often<br>jazz<br>polar<br>drive<br>fly<br>erosion<br>relief<br>word<br>oppose |  
-| bip_39_word_new_br11 | reward<br>often<br>jazz<br>polar<br>drive<br>fly<br>erosion<br>relief<br>word<br>oppose<br>hunt |  
-| bip_39_word_new_br12 | reward<br>often<br>jazz<br>polar<br>drive<br>fly<br>erosion<br>relief<br>word<br>oppose<br>hunt<br>acquire |  
-| bip_39_word_new_br2 | reward<br>often |  
-| bip_39_word_new_br3 | reward<br>often<br>jazz |  
-| bip_39_word_new_br4 | reward<br>often<br>jazz<br>polar |  
-| bip_39_word_new_br5 | reward<br>often<br>jazz<br>polar<br>drive |  
-| bip_39_word_new_br6 | reward<br>often<br>jazz<br>polar<br>drive<br>fly |  
-| bip_39_word_new_br7 | reward<br>often<br>jazz<br>polar<br>drive<br>fly<br>erosion |  
-| bip_39_word_new_br8 | reward<br>often<br>jazz<br>polar<br>drive<br>fly<br>erosion<br>relief |  
-| bip_39_word_new_br9 | reward<br>often<br>jazz<br>polar<br>drive<br>fly<br>erosion<br>relief<br>word |  
-| bip_39_word_new_line1 | reward |  
-| bip_39_word_new_line10 | reward
+| bip_39_word_new_br_1 | reward |  
+| bip_39_word_new_br_10 | reward<br>often<br>jazz<br>polar<br>drive<br>fly<br>erosion<br>relief<br>word<br>oppose |  
+| bip_39_word_new_br_11 | reward<br>often<br>jazz<br>polar<br>drive<br>fly<br>erosion<br>relief<br>word<br>oppose<br>hunt |  
+| bip_39_word_new_br_12 | reward<br>often<br>jazz<br>polar<br>drive<br>fly<br>erosion<br>relief<br>word<br>oppose<br>hunt<br>acquire |  
+| bip_39_word_new_br_2 | reward<br>often |  
+| bip_39_word_new_br_3 | reward<br>often<br>jazz |  
+| bip_39_word_new_br_4 | reward<br>often<br>jazz<br>polar |  
+| bip_39_word_new_br_5 | reward<br>often<br>jazz<br>polar<br>drive |  
+| bip_39_word_new_br_6 | reward<br>often<br>jazz<br>polar<br>drive<br>fly |  
+| bip_39_word_new_br_7 | reward<br>often<br>jazz<br>polar<br>drive<br>fly<br>erosion |  
+| bip_39_word_new_br_8 | reward<br>often<br>jazz<br>polar<br>drive<br>fly<br>erosion<br>relief |  
+| bip_39_word_new_br_9 | reward<br>often<br>jazz<br>polar<br>drive<br>fly<br>erosion<br>relief<br>word |  
+| bip_39_word_new_line_1 | reward |  
+| bip_39_word_new_line_10 | reward
 often
 jazz
 polar
@@ -55,7 +55,7 @@ erosion
 relief
 word
 oppose |  
-| bip_39_word_new_line11 | reward
+| bip_39_word_new_line_11 | reward
 often
 jazz
 polar
@@ -66,7 +66,7 @@ relief
 word
 oppose
 hunt |  
-| bip_39_word_new_line12 | reward
+| bip_39_word_new_line_12 | reward
 often
 jazz
 polar
@@ -78,34 +78,34 @@ word
 oppose
 hunt
 acquire |  
-| bip_39_word_new_line2 | reward
+| bip_39_word_new_line_2 | reward
 often |  
-| bip_39_word_new_line3 | reward
+| bip_39_word_new_line_3 | reward
 often
 jazz |  
-| bip_39_word_new_line4 | reward
+| bip_39_word_new_line_4 | reward
 often
 jazz
 polar |  
-| bip_39_word_new_line5 | reward
+| bip_39_word_new_line_5 | reward
 often
 jazz
 polar
 drive |  
-| bip_39_word_new_line6 | reward
+| bip_39_word_new_line_6 | reward
 often
 jazz
 polar
 drive
 fly |  
-| bip_39_word_new_line7 | reward
+| bip_39_word_new_line_7 | reward
 often
 jazz
 polar
 drive
 fly
 erosion |  
-| bip_39_word_new_line8 | reward
+| bip_39_word_new_line_8 | reward
 often
 jazz
 polar
@@ -113,7 +113,7 @@ drive
 fly
 erosion
 relief |  
-| bip_39_word_new_line9 | reward
+| bip_39_word_new_line_9 | reward
 often
 jazz
 polar

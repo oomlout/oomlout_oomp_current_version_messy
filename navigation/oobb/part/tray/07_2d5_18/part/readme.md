@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | strategy |  
-| bip_39_word_new_br10 | strategy<br>sauce<br>burden<br>tackle<br>intact<br>dumb<br>elephant<br>frost<br>dish<br>morning |  
-| bip_39_word_new_br11 | strategy<br>sauce<br>burden<br>tackle<br>intact<br>dumb<br>elephant<br>frost<br>dish<br>morning<br>loop |  
-| bip_39_word_new_br12 | strategy<br>sauce<br>burden<br>tackle<br>intact<br>dumb<br>elephant<br>frost<br>dish<br>morning<br>loop<br>absorb |  
-| bip_39_word_new_br2 | strategy<br>sauce |  
-| bip_39_word_new_br3 | strategy<br>sauce<br>burden |  
-| bip_39_word_new_br4 | strategy<br>sauce<br>burden<br>tackle |  
-| bip_39_word_new_br5 | strategy<br>sauce<br>burden<br>tackle<br>intact |  
-| bip_39_word_new_br6 | strategy<br>sauce<br>burden<br>tackle<br>intact<br>dumb |  
-| bip_39_word_new_br7 | strategy<br>sauce<br>burden<br>tackle<br>intact<br>dumb<br>elephant |  
-| bip_39_word_new_br8 | strategy<br>sauce<br>burden<br>tackle<br>intact<br>dumb<br>elephant<br>frost |  
-| bip_39_word_new_br9 | strategy<br>sauce<br>burden<br>tackle<br>intact<br>dumb<br>elephant<br>frost<br>dish |  
-| bip_39_word_new_line1 | strategy |  
-| bip_39_word_new_line10 | strategy
+| bip_39_word_new_br_1 | strategy |  
+| bip_39_word_new_br_10 | strategy<br>sauce<br>burden<br>tackle<br>intact<br>dumb<br>elephant<br>frost<br>dish<br>morning |  
+| bip_39_word_new_br_11 | strategy<br>sauce<br>burden<br>tackle<br>intact<br>dumb<br>elephant<br>frost<br>dish<br>morning<br>loop |  
+| bip_39_word_new_br_12 | strategy<br>sauce<br>burden<br>tackle<br>intact<br>dumb<br>elephant<br>frost<br>dish<br>morning<br>loop<br>absorb |  
+| bip_39_word_new_br_2 | strategy<br>sauce |  
+| bip_39_word_new_br_3 | strategy<br>sauce<br>burden |  
+| bip_39_word_new_br_4 | strategy<br>sauce<br>burden<br>tackle |  
+| bip_39_word_new_br_5 | strategy<br>sauce<br>burden<br>tackle<br>intact |  
+| bip_39_word_new_br_6 | strategy<br>sauce<br>burden<br>tackle<br>intact<br>dumb |  
+| bip_39_word_new_br_7 | strategy<br>sauce<br>burden<br>tackle<br>intact<br>dumb<br>elephant |  
+| bip_39_word_new_br_8 | strategy<br>sauce<br>burden<br>tackle<br>intact<br>dumb<br>elephant<br>frost |  
+| bip_39_word_new_br_9 | strategy<br>sauce<br>burden<br>tackle<br>intact<br>dumb<br>elephant<br>frost<br>dish |  
+| bip_39_word_new_line_1 | strategy |  
+| bip_39_word_new_line_10 | strategy
 sauce
 burden
 tackle
@@ -55,7 +55,7 @@ elephant
 frost
 dish
 morning |  
-| bip_39_word_new_line11 | strategy
+| bip_39_word_new_line_11 | strategy
 sauce
 burden
 tackle
@@ -66,7 +66,7 @@ frost
 dish
 morning
 loop |  
-| bip_39_word_new_line12 | strategy
+| bip_39_word_new_line_12 | strategy
 sauce
 burden
 tackle
@@ -78,34 +78,34 @@ dish
 morning
 loop
 absorb |  
-| bip_39_word_new_line2 | strategy
+| bip_39_word_new_line_2 | strategy
 sauce |  
-| bip_39_word_new_line3 | strategy
+| bip_39_word_new_line_3 | strategy
 sauce
 burden |  
-| bip_39_word_new_line4 | strategy
+| bip_39_word_new_line_4 | strategy
 sauce
 burden
 tackle |  
-| bip_39_word_new_line5 | strategy
+| bip_39_word_new_line_5 | strategy
 sauce
 burden
 tackle
 intact |  
-| bip_39_word_new_line6 | strategy
+| bip_39_word_new_line_6 | strategy
 sauce
 burden
 tackle
 intact
 dumb |  
-| bip_39_word_new_line7 | strategy
+| bip_39_word_new_line_7 | strategy
 sauce
 burden
 tackle
 intact
 dumb
 elephant |  
-| bip_39_word_new_line8 | strategy
+| bip_39_word_new_line_8 | strategy
 sauce
 burden
 tackle
@@ -113,7 +113,7 @@ intact
 dumb
 elephant
 frost |  
-| bip_39_word_new_line9 | strategy
+| bip_39_word_new_line_9 | strategy
 sauce
 burden
 tackle

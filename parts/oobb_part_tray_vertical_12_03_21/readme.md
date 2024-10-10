@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | defy |  
-| bip_39_word_new_br10 | defy<br>give<br>convince<br>destroy<br>strategy<br>bar<br>scene<br>yard<br>also<br>ribbon |  
-| bip_39_word_new_br11 | defy<br>give<br>convince<br>destroy<br>strategy<br>bar<br>scene<br>yard<br>also<br>ribbon<br>now |  
-| bip_39_word_new_br12 | defy<br>give<br>convince<br>destroy<br>strategy<br>bar<br>scene<br>yard<br>also<br>ribbon<br>now<br>adult |  
-| bip_39_word_new_br2 | defy<br>give |  
-| bip_39_word_new_br3 | defy<br>give<br>convince |  
-| bip_39_word_new_br4 | defy<br>give<br>convince<br>destroy |  
-| bip_39_word_new_br5 | defy<br>give<br>convince<br>destroy<br>strategy |  
-| bip_39_word_new_br6 | defy<br>give<br>convince<br>destroy<br>strategy<br>bar |  
-| bip_39_word_new_br7 | defy<br>give<br>convince<br>destroy<br>strategy<br>bar<br>scene |  
-| bip_39_word_new_br8 | defy<br>give<br>convince<br>destroy<br>strategy<br>bar<br>scene<br>yard |  
-| bip_39_word_new_br9 | defy<br>give<br>convince<br>destroy<br>strategy<br>bar<br>scene<br>yard<br>also |  
-| bip_39_word_new_line1 | defy |  
-| bip_39_word_new_line10 | defy
+| bip_39_word_new_br_1 | defy |  
+| bip_39_word_new_br_10 | defy<br>give<br>convince<br>destroy<br>strategy<br>bar<br>scene<br>yard<br>also<br>ribbon |  
+| bip_39_word_new_br_11 | defy<br>give<br>convince<br>destroy<br>strategy<br>bar<br>scene<br>yard<br>also<br>ribbon<br>now |  
+| bip_39_word_new_br_12 | defy<br>give<br>convince<br>destroy<br>strategy<br>bar<br>scene<br>yard<br>also<br>ribbon<br>now<br>adult |  
+| bip_39_word_new_br_2 | defy<br>give |  
+| bip_39_word_new_br_3 | defy<br>give<br>convince |  
+| bip_39_word_new_br_4 | defy<br>give<br>convince<br>destroy |  
+| bip_39_word_new_br_5 | defy<br>give<br>convince<br>destroy<br>strategy |  
+| bip_39_word_new_br_6 | defy<br>give<br>convince<br>destroy<br>strategy<br>bar |  
+| bip_39_word_new_br_7 | defy<br>give<br>convince<br>destroy<br>strategy<br>bar<br>scene |  
+| bip_39_word_new_br_8 | defy<br>give<br>convince<br>destroy<br>strategy<br>bar<br>scene<br>yard |  
+| bip_39_word_new_br_9 | defy<br>give<br>convince<br>destroy<br>strategy<br>bar<br>scene<br>yard<br>also |  
+| bip_39_word_new_line_1 | defy |  
+| bip_39_word_new_line_10 | defy
 give
 convince
 destroy
@@ -55,7 +55,7 @@ scene
 yard
 also
 ribbon |  
-| bip_39_word_new_line11 | defy
+| bip_39_word_new_line_11 | defy
 give
 convince
 destroy
@@ -66,7 +66,7 @@ yard
 also
 ribbon
 now |  
-| bip_39_word_new_line12 | defy
+| bip_39_word_new_line_12 | defy
 give
 convince
 destroy
@@ -78,34 +78,34 @@ also
 ribbon
 now
 adult |  
-| bip_39_word_new_line2 | defy
+| bip_39_word_new_line_2 | defy
 give |  
-| bip_39_word_new_line3 | defy
+| bip_39_word_new_line_3 | defy
 give
 convince |  
-| bip_39_word_new_line4 | defy
+| bip_39_word_new_line_4 | defy
 give
 convince
 destroy |  
-| bip_39_word_new_line5 | defy
+| bip_39_word_new_line_5 | defy
 give
 convince
 destroy
 strategy |  
-| bip_39_word_new_line6 | defy
+| bip_39_word_new_line_6 | defy
 give
 convince
 destroy
 strategy
 bar |  
-| bip_39_word_new_line7 | defy
+| bip_39_word_new_line_7 | defy
 give
 convince
 destroy
 strategy
 bar
 scene |  
-| bip_39_word_new_line8 | defy
+| bip_39_word_new_line_8 | defy
 give
 convince
 destroy
@@ -113,7 +113,7 @@ strategy
 bar
 scene
 yard |  
-| bip_39_word_new_line9 | defy
+| bip_39_word_new_line_9 | defy
 give
 convince
 destroy

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | depart |  
-| bip_39_word_new_br10 | depart<br>destroy<br>alarm<br>rocket<br>ladder<br>humble<br>exhaust<br>crystal<br>puppy<br>parent |  
-| bip_39_word_new_br11 | depart<br>destroy<br>alarm<br>rocket<br>ladder<br>humble<br>exhaust<br>crystal<br>puppy<br>parent<br>nominee |  
-| bip_39_word_new_br12 | depart<br>destroy<br>alarm<br>rocket<br>ladder<br>humble<br>exhaust<br>crystal<br>puppy<br>parent<br>nominee<br>amused |  
-| bip_39_word_new_br2 | depart<br>destroy |  
-| bip_39_word_new_br3 | depart<br>destroy<br>alarm |  
-| bip_39_word_new_br4 | depart<br>destroy<br>alarm<br>rocket |  
-| bip_39_word_new_br5 | depart<br>destroy<br>alarm<br>rocket<br>ladder |  
-| bip_39_word_new_br6 | depart<br>destroy<br>alarm<br>rocket<br>ladder<br>humble |  
-| bip_39_word_new_br7 | depart<br>destroy<br>alarm<br>rocket<br>ladder<br>humble<br>exhaust |  
-| bip_39_word_new_br8 | depart<br>destroy<br>alarm<br>rocket<br>ladder<br>humble<br>exhaust<br>crystal |  
-| bip_39_word_new_br9 | depart<br>destroy<br>alarm<br>rocket<br>ladder<br>humble<br>exhaust<br>crystal<br>puppy |  
-| bip_39_word_new_line1 | depart |  
-| bip_39_word_new_line10 | depart
+| bip_39_word_new_br_1 | depart |  
+| bip_39_word_new_br_10 | depart<br>destroy<br>alarm<br>rocket<br>ladder<br>humble<br>exhaust<br>crystal<br>puppy<br>parent |  
+| bip_39_word_new_br_11 | depart<br>destroy<br>alarm<br>rocket<br>ladder<br>humble<br>exhaust<br>crystal<br>puppy<br>parent<br>nominee |  
+| bip_39_word_new_br_12 | depart<br>destroy<br>alarm<br>rocket<br>ladder<br>humble<br>exhaust<br>crystal<br>puppy<br>parent<br>nominee<br>amused |  
+| bip_39_word_new_br_2 | depart<br>destroy |  
+| bip_39_word_new_br_3 | depart<br>destroy<br>alarm |  
+| bip_39_word_new_br_4 | depart<br>destroy<br>alarm<br>rocket |  
+| bip_39_word_new_br_5 | depart<br>destroy<br>alarm<br>rocket<br>ladder |  
+| bip_39_word_new_br_6 | depart<br>destroy<br>alarm<br>rocket<br>ladder<br>humble |  
+| bip_39_word_new_br_7 | depart<br>destroy<br>alarm<br>rocket<br>ladder<br>humble<br>exhaust |  
+| bip_39_word_new_br_8 | depart<br>destroy<br>alarm<br>rocket<br>ladder<br>humble<br>exhaust<br>crystal |  
+| bip_39_word_new_br_9 | depart<br>destroy<br>alarm<br>rocket<br>ladder<br>humble<br>exhaust<br>crystal<br>puppy |  
+| bip_39_word_new_line_1 | depart |  
+| bip_39_word_new_line_10 | depart
 destroy
 alarm
 rocket
@@ -55,7 +55,7 @@ exhaust
 crystal
 puppy
 parent |  
-| bip_39_word_new_line11 | depart
+| bip_39_word_new_line_11 | depart
 destroy
 alarm
 rocket
@@ -66,7 +66,7 @@ crystal
 puppy
 parent
 nominee |  
-| bip_39_word_new_line12 | depart
+| bip_39_word_new_line_12 | depart
 destroy
 alarm
 rocket
@@ -78,34 +78,34 @@ puppy
 parent
 nominee
 amused |  
-| bip_39_word_new_line2 | depart
+| bip_39_word_new_line_2 | depart
 destroy |  
-| bip_39_word_new_line3 | depart
+| bip_39_word_new_line_3 | depart
 destroy
 alarm |  
-| bip_39_word_new_line4 | depart
+| bip_39_word_new_line_4 | depart
 destroy
 alarm
 rocket |  
-| bip_39_word_new_line5 | depart
+| bip_39_word_new_line_5 | depart
 destroy
 alarm
 rocket
 ladder |  
-| bip_39_word_new_line6 | depart
+| bip_39_word_new_line_6 | depart
 destroy
 alarm
 rocket
 ladder
 humble |  
-| bip_39_word_new_line7 | depart
+| bip_39_word_new_line_7 | depart
 destroy
 alarm
 rocket
 ladder
 humble
 exhaust |  
-| bip_39_word_new_line8 | depart
+| bip_39_word_new_line_8 | depart
 destroy
 alarm
 rocket
@@ -113,7 +113,7 @@ ladder
 humble
 exhaust
 crystal |  
-| bip_39_word_new_line9 | depart
+| bip_39_word_new_line_9 | depart
 destroy
 alarm
 rocket

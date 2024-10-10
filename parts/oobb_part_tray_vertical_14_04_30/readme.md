@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | stock |  
-| bip_39_word_new_br10 | stock<br>avoid<br>gravity<br>reduce<br>tray<br>enact<br>canal<br>wolf<br>goose<br>shield |  
-| bip_39_word_new_br11 | stock<br>avoid<br>gravity<br>reduce<br>tray<br>enact<br>canal<br>wolf<br>goose<br>shield<br>enlist |  
-| bip_39_word_new_br12 | stock<br>avoid<br>gravity<br>reduce<br>tray<br>enact<br>canal<br>wolf<br>goose<br>shield<br>enlist<br>arctic |  
-| bip_39_word_new_br2 | stock<br>avoid |  
-| bip_39_word_new_br3 | stock<br>avoid<br>gravity |  
-| bip_39_word_new_br4 | stock<br>avoid<br>gravity<br>reduce |  
-| bip_39_word_new_br5 | stock<br>avoid<br>gravity<br>reduce<br>tray |  
-| bip_39_word_new_br6 | stock<br>avoid<br>gravity<br>reduce<br>tray<br>enact |  
-| bip_39_word_new_br7 | stock<br>avoid<br>gravity<br>reduce<br>tray<br>enact<br>canal |  
-| bip_39_word_new_br8 | stock<br>avoid<br>gravity<br>reduce<br>tray<br>enact<br>canal<br>wolf |  
-| bip_39_word_new_br9 | stock<br>avoid<br>gravity<br>reduce<br>tray<br>enact<br>canal<br>wolf<br>goose |  
-| bip_39_word_new_line1 | stock |  
-| bip_39_word_new_line10 | stock
+| bip_39_word_new_br_1 | stock |  
+| bip_39_word_new_br_10 | stock<br>avoid<br>gravity<br>reduce<br>tray<br>enact<br>canal<br>wolf<br>goose<br>shield |  
+| bip_39_word_new_br_11 | stock<br>avoid<br>gravity<br>reduce<br>tray<br>enact<br>canal<br>wolf<br>goose<br>shield<br>enlist |  
+| bip_39_word_new_br_12 | stock<br>avoid<br>gravity<br>reduce<br>tray<br>enact<br>canal<br>wolf<br>goose<br>shield<br>enlist<br>arctic |  
+| bip_39_word_new_br_2 | stock<br>avoid |  
+| bip_39_word_new_br_3 | stock<br>avoid<br>gravity |  
+| bip_39_word_new_br_4 | stock<br>avoid<br>gravity<br>reduce |  
+| bip_39_word_new_br_5 | stock<br>avoid<br>gravity<br>reduce<br>tray |  
+| bip_39_word_new_br_6 | stock<br>avoid<br>gravity<br>reduce<br>tray<br>enact |  
+| bip_39_word_new_br_7 | stock<br>avoid<br>gravity<br>reduce<br>tray<br>enact<br>canal |  
+| bip_39_word_new_br_8 | stock<br>avoid<br>gravity<br>reduce<br>tray<br>enact<br>canal<br>wolf |  
+| bip_39_word_new_br_9 | stock<br>avoid<br>gravity<br>reduce<br>tray<br>enact<br>canal<br>wolf<br>goose |  
+| bip_39_word_new_line_1 | stock |  
+| bip_39_word_new_line_10 | stock
 avoid
 gravity
 reduce
@@ -55,7 +55,7 @@ canal
 wolf
 goose
 shield |  
-| bip_39_word_new_line11 | stock
+| bip_39_word_new_line_11 | stock
 avoid
 gravity
 reduce
@@ -66,7 +66,7 @@ wolf
 goose
 shield
 enlist |  
-| bip_39_word_new_line12 | stock
+| bip_39_word_new_line_12 | stock
 avoid
 gravity
 reduce
@@ -78,34 +78,34 @@ goose
 shield
 enlist
 arctic |  
-| bip_39_word_new_line2 | stock
+| bip_39_word_new_line_2 | stock
 avoid |  
-| bip_39_word_new_line3 | stock
+| bip_39_word_new_line_3 | stock
 avoid
 gravity |  
-| bip_39_word_new_line4 | stock
+| bip_39_word_new_line_4 | stock
 avoid
 gravity
 reduce |  
-| bip_39_word_new_line5 | stock
+| bip_39_word_new_line_5 | stock
 avoid
 gravity
 reduce
 tray |  
-| bip_39_word_new_line6 | stock
+| bip_39_word_new_line_6 | stock
 avoid
 gravity
 reduce
 tray
 enact |  
-| bip_39_word_new_line7 | stock
+| bip_39_word_new_line_7 | stock
 avoid
 gravity
 reduce
 tray
 enact
 canal |  
-| bip_39_word_new_line8 | stock
+| bip_39_word_new_line_8 | stock
 avoid
 gravity
 reduce
@@ -113,7 +113,7 @@ tray
 enact
 canal
 wolf |  
-| bip_39_word_new_line9 | stock
+| bip_39_word_new_line_9 | stock
 avoid
 gravity
 reduce

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | leave |  
-| bip_39_word_new_br10 | leave<br>amateur<br>buyer<br>isolate<br>wire<br>box<br>elegant<br>toward<br>balance<br>inquiry |  
-| bip_39_word_new_br11 | leave<br>amateur<br>buyer<br>isolate<br>wire<br>box<br>elegant<br>toward<br>balance<br>inquiry<br>section |  
-| bip_39_word_new_br12 | leave<br>amateur<br>buyer<br>isolate<br>wire<br>box<br>elegant<br>toward<br>balance<br>inquiry<br>section<br>all |  
-| bip_39_word_new_br2 | leave<br>amateur |  
-| bip_39_word_new_br3 | leave<br>amateur<br>buyer |  
-| bip_39_word_new_br4 | leave<br>amateur<br>buyer<br>isolate |  
-| bip_39_word_new_br5 | leave<br>amateur<br>buyer<br>isolate<br>wire |  
-| bip_39_word_new_br6 | leave<br>amateur<br>buyer<br>isolate<br>wire<br>box |  
-| bip_39_word_new_br7 | leave<br>amateur<br>buyer<br>isolate<br>wire<br>box<br>elegant |  
-| bip_39_word_new_br8 | leave<br>amateur<br>buyer<br>isolate<br>wire<br>box<br>elegant<br>toward |  
-| bip_39_word_new_br9 | leave<br>amateur<br>buyer<br>isolate<br>wire<br>box<br>elegant<br>toward<br>balance |  
-| bip_39_word_new_line1 | leave |  
-| bip_39_word_new_line10 | leave
+| bip_39_word_new_br_1 | leave |  
+| bip_39_word_new_br_10 | leave<br>amateur<br>buyer<br>isolate<br>wire<br>box<br>elegant<br>toward<br>balance<br>inquiry |  
+| bip_39_word_new_br_11 | leave<br>amateur<br>buyer<br>isolate<br>wire<br>box<br>elegant<br>toward<br>balance<br>inquiry<br>section |  
+| bip_39_word_new_br_12 | leave<br>amateur<br>buyer<br>isolate<br>wire<br>box<br>elegant<br>toward<br>balance<br>inquiry<br>section<br>all |  
+| bip_39_word_new_br_2 | leave<br>amateur |  
+| bip_39_word_new_br_3 | leave<br>amateur<br>buyer |  
+| bip_39_word_new_br_4 | leave<br>amateur<br>buyer<br>isolate |  
+| bip_39_word_new_br_5 | leave<br>amateur<br>buyer<br>isolate<br>wire |  
+| bip_39_word_new_br_6 | leave<br>amateur<br>buyer<br>isolate<br>wire<br>box |  
+| bip_39_word_new_br_7 | leave<br>amateur<br>buyer<br>isolate<br>wire<br>box<br>elegant |  
+| bip_39_word_new_br_8 | leave<br>amateur<br>buyer<br>isolate<br>wire<br>box<br>elegant<br>toward |  
+| bip_39_word_new_br_9 | leave<br>amateur<br>buyer<br>isolate<br>wire<br>box<br>elegant<br>toward<br>balance |  
+| bip_39_word_new_line_1 | leave |  
+| bip_39_word_new_line_10 | leave
 amateur
 buyer
 isolate
@@ -55,7 +55,7 @@ elegant
 toward
 balance
 inquiry |  
-| bip_39_word_new_line11 | leave
+| bip_39_word_new_line_11 | leave
 amateur
 buyer
 isolate
@@ -66,7 +66,7 @@ toward
 balance
 inquiry
 section |  
-| bip_39_word_new_line12 | leave
+| bip_39_word_new_line_12 | leave
 amateur
 buyer
 isolate
@@ -78,34 +78,34 @@ balance
 inquiry
 section
 all |  
-| bip_39_word_new_line2 | leave
+| bip_39_word_new_line_2 | leave
 amateur |  
-| bip_39_word_new_line3 | leave
+| bip_39_word_new_line_3 | leave
 amateur
 buyer |  
-| bip_39_word_new_line4 | leave
+| bip_39_word_new_line_4 | leave
 amateur
 buyer
 isolate |  
-| bip_39_word_new_line5 | leave
+| bip_39_word_new_line_5 | leave
 amateur
 buyer
 isolate
 wire |  
-| bip_39_word_new_line6 | leave
+| bip_39_word_new_line_6 | leave
 amateur
 buyer
 isolate
 wire
 box |  
-| bip_39_word_new_line7 | leave
+| bip_39_word_new_line_7 | leave
 amateur
 buyer
 isolate
 wire
 box
 elegant |  
-| bip_39_word_new_line8 | leave
+| bip_39_word_new_line_8 | leave
 amateur
 buyer
 isolate
@@ -113,7 +113,7 @@ wire
 box
 elegant
 toward |  
-| bip_39_word_new_line9 | leave
+| bip_39_word_new_line_9 | leave
 amateur
 buyer
 isolate

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | once |  
-| bip_39_word_new_br10 | once<br>chapter<br>wing<br>casino<br>debate<br>casual<br>focus<br>name<br>atom<br>milk |  
-| bip_39_word_new_br11 | once<br>chapter<br>wing<br>casino<br>debate<br>casual<br>focus<br>name<br>atom<br>milk<br>auction |  
-| bip_39_word_new_br12 | once<br>chapter<br>wing<br>casino<br>debate<br>casual<br>focus<br>name<br>atom<br>milk<br>auction<br>any |  
-| bip_39_word_new_br2 | once<br>chapter |  
-| bip_39_word_new_br3 | once<br>chapter<br>wing |  
-| bip_39_word_new_br4 | once<br>chapter<br>wing<br>casino |  
-| bip_39_word_new_br5 | once<br>chapter<br>wing<br>casino<br>debate |  
-| bip_39_word_new_br6 | once<br>chapter<br>wing<br>casino<br>debate<br>casual |  
-| bip_39_word_new_br7 | once<br>chapter<br>wing<br>casino<br>debate<br>casual<br>focus |  
-| bip_39_word_new_br8 | once<br>chapter<br>wing<br>casino<br>debate<br>casual<br>focus<br>name |  
-| bip_39_word_new_br9 | once<br>chapter<br>wing<br>casino<br>debate<br>casual<br>focus<br>name<br>atom |  
-| bip_39_word_new_line1 | once |  
-| bip_39_word_new_line10 | once
+| bip_39_word_new_br_1 | once |  
+| bip_39_word_new_br_10 | once<br>chapter<br>wing<br>casino<br>debate<br>casual<br>focus<br>name<br>atom<br>milk |  
+| bip_39_word_new_br_11 | once<br>chapter<br>wing<br>casino<br>debate<br>casual<br>focus<br>name<br>atom<br>milk<br>auction |  
+| bip_39_word_new_br_12 | once<br>chapter<br>wing<br>casino<br>debate<br>casual<br>focus<br>name<br>atom<br>milk<br>auction<br>any |  
+| bip_39_word_new_br_2 | once<br>chapter |  
+| bip_39_word_new_br_3 | once<br>chapter<br>wing |  
+| bip_39_word_new_br_4 | once<br>chapter<br>wing<br>casino |  
+| bip_39_word_new_br_5 | once<br>chapter<br>wing<br>casino<br>debate |  
+| bip_39_word_new_br_6 | once<br>chapter<br>wing<br>casino<br>debate<br>casual |  
+| bip_39_word_new_br_7 | once<br>chapter<br>wing<br>casino<br>debate<br>casual<br>focus |  
+| bip_39_word_new_br_8 | once<br>chapter<br>wing<br>casino<br>debate<br>casual<br>focus<br>name |  
+| bip_39_word_new_br_9 | once<br>chapter<br>wing<br>casino<br>debate<br>casual<br>focus<br>name<br>atom |  
+| bip_39_word_new_line_1 | once |  
+| bip_39_word_new_line_10 | once
 chapter
 wing
 casino
@@ -55,7 +55,7 @@ focus
 name
 atom
 milk |  
-| bip_39_word_new_line11 | once
+| bip_39_word_new_line_11 | once
 chapter
 wing
 casino
@@ -66,7 +66,7 @@ name
 atom
 milk
 auction |  
-| bip_39_word_new_line12 | once
+| bip_39_word_new_line_12 | once
 chapter
 wing
 casino
@@ -78,34 +78,34 @@ atom
 milk
 auction
 any |  
-| bip_39_word_new_line2 | once
+| bip_39_word_new_line_2 | once
 chapter |  
-| bip_39_word_new_line3 | once
+| bip_39_word_new_line_3 | once
 chapter
 wing |  
-| bip_39_word_new_line4 | once
+| bip_39_word_new_line_4 | once
 chapter
 wing
 casino |  
-| bip_39_word_new_line5 | once
+| bip_39_word_new_line_5 | once
 chapter
 wing
 casino
 debate |  
-| bip_39_word_new_line6 | once
+| bip_39_word_new_line_6 | once
 chapter
 wing
 casino
 debate
 casual |  
-| bip_39_word_new_line7 | once
+| bip_39_word_new_line_7 | once
 chapter
 wing
 casino
 debate
 casual
 focus |  
-| bip_39_word_new_line8 | once
+| bip_39_word_new_line_8 | once
 chapter
 wing
 casino
@@ -113,7 +113,7 @@ debate
 casual
 focus
 name |  
-| bip_39_word_new_line9 | once
+| bip_39_word_new_line_9 | once
 chapter
 wing
 casino

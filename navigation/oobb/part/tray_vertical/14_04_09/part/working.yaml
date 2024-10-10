@@ -1,17 +1,17 @@
-bip_39_word_new_br1: call
-bip_39_word_new_br10: call<br>loan<br>purchase<br>hurt<br>praise<br>steel<br>road<br>actress<br>creek<br>divert
-bip_39_word_new_br11: call<br>loan<br>purchase<br>hurt<br>praise<br>steel<br>road<br>actress<br>creek<br>divert<br>inflict
-bip_39_word_new_br12: call<br>loan<br>purchase<br>hurt<br>praise<br>steel<br>road<br>actress<br>creek<br>divert<br>inflict<br>answer
-bip_39_word_new_br2: call<br>loan
-bip_39_word_new_br3: call<br>loan<br>purchase
-bip_39_word_new_br4: call<br>loan<br>purchase<br>hurt
-bip_39_word_new_br5: call<br>loan<br>purchase<br>hurt<br>praise
-bip_39_word_new_br6: call<br>loan<br>purchase<br>hurt<br>praise<br>steel
-bip_39_word_new_br7: call<br>loan<br>purchase<br>hurt<br>praise<br>steel<br>road
-bip_39_word_new_br8: call<br>loan<br>purchase<br>hurt<br>praise<br>steel<br>road<br>actress
-bip_39_word_new_br9: call<br>loan<br>purchase<br>hurt<br>praise<br>steel<br>road<br>actress<br>creek
-bip_39_word_new_line1: call
-bip_39_word_new_line10: 'call
+bip_39_word_new_br_1: call
+bip_39_word_new_br_10: call<br>loan<br>purchase<br>hurt<br>praise<br>steel<br>road<br>actress<br>creek<br>divert
+bip_39_word_new_br_11: call<br>loan<br>purchase<br>hurt<br>praise<br>steel<br>road<br>actress<br>creek<br>divert<br>inflict
+bip_39_word_new_br_12: call<br>loan<br>purchase<br>hurt<br>praise<br>steel<br>road<br>actress<br>creek<br>divert<br>inflict<br>answer
+bip_39_word_new_br_2: call<br>loan
+bip_39_word_new_br_3: call<br>loan<br>purchase
+bip_39_word_new_br_4: call<br>loan<br>purchase<br>hurt
+bip_39_word_new_br_5: call<br>loan<br>purchase<br>hurt<br>praise
+bip_39_word_new_br_6: call<br>loan<br>purchase<br>hurt<br>praise<br>steel
+bip_39_word_new_br_7: call<br>loan<br>purchase<br>hurt<br>praise<br>steel<br>road
+bip_39_word_new_br_8: call<br>loan<br>purchase<br>hurt<br>praise<br>steel<br>road<br>actress
+bip_39_word_new_br_9: call<br>loan<br>purchase<br>hurt<br>praise<br>steel<br>road<br>actress<br>creek
+bip_39_word_new_line_1: call
+bip_39_word_new_line_10: 'call
 
   loan
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'call
   creek
 
   divert'
-bip_39_word_new_line11: 'call
+bip_39_word_new_line_11: 'call
 
   loan
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'call
   divert
 
   inflict'
-bip_39_word_new_line12: 'call
+bip_39_word_new_line_12: 'call
 
   loan
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'call
   inflict
 
   answer'
-bip_39_word_new_line2: 'call
+bip_39_word_new_line_2: 'call
 
   loan'
-bip_39_word_new_line3: 'call
+bip_39_word_new_line_3: 'call
 
   loan
 
   purchase'
-bip_39_word_new_line4: 'call
+bip_39_word_new_line_4: 'call
 
   loan
 
   purchase
 
   hurt'
-bip_39_word_new_line5: 'call
+bip_39_word_new_line_5: 'call
 
   loan
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'call
   hurt
 
   praise'
-bip_39_word_new_line6: 'call
+bip_39_word_new_line_6: 'call
 
   loan
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'call
   praise
 
   steel'
-bip_39_word_new_line7: 'call
+bip_39_word_new_line_7: 'call
 
   loan
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'call
   steel
 
   road'
-bip_39_word_new_line8: 'call
+bip_39_word_new_line_8: 'call
 
   loan
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'call
   road
 
   actress'
-bip_39_word_new_line9: 'call
+bip_39_word_new_line_9: 'call
 
   loan
 

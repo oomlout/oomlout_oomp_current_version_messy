@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | actor |  
-| bip_39_word_new_br10 | actor<br>mechanic<br>entry<br>later<br>lobster<br>submit<br>relax<br>orange<br>expose<br>spider |  
-| bip_39_word_new_br11 | actor<br>mechanic<br>entry<br>later<br>lobster<br>submit<br>relax<br>orange<br>expose<br>spider<br>doctor |  
-| bip_39_word_new_br12 | actor<br>mechanic<br>entry<br>later<br>lobster<br>submit<br>relax<br>orange<br>expose<br>spider<br>doctor<br>angry |  
-| bip_39_word_new_br2 | actor<br>mechanic |  
-| bip_39_word_new_br3 | actor<br>mechanic<br>entry |  
-| bip_39_word_new_br4 | actor<br>mechanic<br>entry<br>later |  
-| bip_39_word_new_br5 | actor<br>mechanic<br>entry<br>later<br>lobster |  
-| bip_39_word_new_br6 | actor<br>mechanic<br>entry<br>later<br>lobster<br>submit |  
-| bip_39_word_new_br7 | actor<br>mechanic<br>entry<br>later<br>lobster<br>submit<br>relax |  
-| bip_39_word_new_br8 | actor<br>mechanic<br>entry<br>later<br>lobster<br>submit<br>relax<br>orange |  
-| bip_39_word_new_br9 | actor<br>mechanic<br>entry<br>later<br>lobster<br>submit<br>relax<br>orange<br>expose |  
-| bip_39_word_new_line1 | actor |  
-| bip_39_word_new_line10 | actor
+| bip_39_word_new_br_1 | actor |  
+| bip_39_word_new_br_10 | actor<br>mechanic<br>entry<br>later<br>lobster<br>submit<br>relax<br>orange<br>expose<br>spider |  
+| bip_39_word_new_br_11 | actor<br>mechanic<br>entry<br>later<br>lobster<br>submit<br>relax<br>orange<br>expose<br>spider<br>doctor |  
+| bip_39_word_new_br_12 | actor<br>mechanic<br>entry<br>later<br>lobster<br>submit<br>relax<br>orange<br>expose<br>spider<br>doctor<br>angry |  
+| bip_39_word_new_br_2 | actor<br>mechanic |  
+| bip_39_word_new_br_3 | actor<br>mechanic<br>entry |  
+| bip_39_word_new_br_4 | actor<br>mechanic<br>entry<br>later |  
+| bip_39_word_new_br_5 | actor<br>mechanic<br>entry<br>later<br>lobster |  
+| bip_39_word_new_br_6 | actor<br>mechanic<br>entry<br>later<br>lobster<br>submit |  
+| bip_39_word_new_br_7 | actor<br>mechanic<br>entry<br>later<br>lobster<br>submit<br>relax |  
+| bip_39_word_new_br_8 | actor<br>mechanic<br>entry<br>later<br>lobster<br>submit<br>relax<br>orange |  
+| bip_39_word_new_br_9 | actor<br>mechanic<br>entry<br>later<br>lobster<br>submit<br>relax<br>orange<br>expose |  
+| bip_39_word_new_line_1 | actor |  
+| bip_39_word_new_line_10 | actor
 mechanic
 entry
 later
@@ -55,7 +55,7 @@ relax
 orange
 expose
 spider |  
-| bip_39_word_new_line11 | actor
+| bip_39_word_new_line_11 | actor
 mechanic
 entry
 later
@@ -66,7 +66,7 @@ orange
 expose
 spider
 doctor |  
-| bip_39_word_new_line12 | actor
+| bip_39_word_new_line_12 | actor
 mechanic
 entry
 later
@@ -78,34 +78,34 @@ expose
 spider
 doctor
 angry |  
-| bip_39_word_new_line2 | actor
+| bip_39_word_new_line_2 | actor
 mechanic |  
-| bip_39_word_new_line3 | actor
+| bip_39_word_new_line_3 | actor
 mechanic
 entry |  
-| bip_39_word_new_line4 | actor
+| bip_39_word_new_line_4 | actor
 mechanic
 entry
 later |  
-| bip_39_word_new_line5 | actor
+| bip_39_word_new_line_5 | actor
 mechanic
 entry
 later
 lobster |  
-| bip_39_word_new_line6 | actor
+| bip_39_word_new_line_6 | actor
 mechanic
 entry
 later
 lobster
 submit |  
-| bip_39_word_new_line7 | actor
+| bip_39_word_new_line_7 | actor
 mechanic
 entry
 later
 lobster
 submit
 relax |  
-| bip_39_word_new_line8 | actor
+| bip_39_word_new_line_8 | actor
 mechanic
 entry
 later
@@ -113,7 +113,7 @@ lobster
 submit
 relax
 orange |  
-| bip_39_word_new_line9 | actor
+| bip_39_word_new_line_9 | actor
 mechanic
 entry
 later

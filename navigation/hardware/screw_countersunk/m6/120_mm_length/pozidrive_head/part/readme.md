@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rich |  
-| bip_39_word_new_br10 | rich<br>police<br>feed<br>strategy<br>frequent<br>draft<br>acoustic<br>edit<br>ignore<br>fork |  
-| bip_39_word_new_br11 | rich<br>police<br>feed<br>strategy<br>frequent<br>draft<br>acoustic<br>edit<br>ignore<br>fork<br>spawn |  
-| bip_39_word_new_br12 | rich<br>police<br>feed<br>strategy<br>frequent<br>draft<br>acoustic<br>edit<br>ignore<br>fork<br>spawn<br>artwork |  
-| bip_39_word_new_br2 | rich<br>police |  
-| bip_39_word_new_br3 | rich<br>police<br>feed |  
-| bip_39_word_new_br4 | rich<br>police<br>feed<br>strategy |  
-| bip_39_word_new_br5 | rich<br>police<br>feed<br>strategy<br>frequent |  
-| bip_39_word_new_br6 | rich<br>police<br>feed<br>strategy<br>frequent<br>draft |  
-| bip_39_word_new_br7 | rich<br>police<br>feed<br>strategy<br>frequent<br>draft<br>acoustic |  
-| bip_39_word_new_br8 | rich<br>police<br>feed<br>strategy<br>frequent<br>draft<br>acoustic<br>edit |  
-| bip_39_word_new_br9 | rich<br>police<br>feed<br>strategy<br>frequent<br>draft<br>acoustic<br>edit<br>ignore |  
-| bip_39_word_new_line1 | rich |  
-| bip_39_word_new_line10 | rich
+| bip_39_word_new_br_1 | rich |  
+| bip_39_word_new_br_10 | rich<br>police<br>feed<br>strategy<br>frequent<br>draft<br>acoustic<br>edit<br>ignore<br>fork |  
+| bip_39_word_new_br_11 | rich<br>police<br>feed<br>strategy<br>frequent<br>draft<br>acoustic<br>edit<br>ignore<br>fork<br>spawn |  
+| bip_39_word_new_br_12 | rich<br>police<br>feed<br>strategy<br>frequent<br>draft<br>acoustic<br>edit<br>ignore<br>fork<br>spawn<br>artwork |  
+| bip_39_word_new_br_2 | rich<br>police |  
+| bip_39_word_new_br_3 | rich<br>police<br>feed |  
+| bip_39_word_new_br_4 | rich<br>police<br>feed<br>strategy |  
+| bip_39_word_new_br_5 | rich<br>police<br>feed<br>strategy<br>frequent |  
+| bip_39_word_new_br_6 | rich<br>police<br>feed<br>strategy<br>frequent<br>draft |  
+| bip_39_word_new_br_7 | rich<br>police<br>feed<br>strategy<br>frequent<br>draft<br>acoustic |  
+| bip_39_word_new_br_8 | rich<br>police<br>feed<br>strategy<br>frequent<br>draft<br>acoustic<br>edit |  
+| bip_39_word_new_br_9 | rich<br>police<br>feed<br>strategy<br>frequent<br>draft<br>acoustic<br>edit<br>ignore |  
+| bip_39_word_new_line_1 | rich |  
+| bip_39_word_new_line_10 | rich
 police
 feed
 strategy
@@ -55,7 +55,7 @@ acoustic
 edit
 ignore
 fork |  
-| bip_39_word_new_line11 | rich
+| bip_39_word_new_line_11 | rich
 police
 feed
 strategy
@@ -66,7 +66,7 @@ edit
 ignore
 fork
 spawn |  
-| bip_39_word_new_line12 | rich
+| bip_39_word_new_line_12 | rich
 police
 feed
 strategy
@@ -78,34 +78,34 @@ ignore
 fork
 spawn
 artwork |  
-| bip_39_word_new_line2 | rich
+| bip_39_word_new_line_2 | rich
 police |  
-| bip_39_word_new_line3 | rich
+| bip_39_word_new_line_3 | rich
 police
 feed |  
-| bip_39_word_new_line4 | rich
+| bip_39_word_new_line_4 | rich
 police
 feed
 strategy |  
-| bip_39_word_new_line5 | rich
+| bip_39_word_new_line_5 | rich
 police
 feed
 strategy
 frequent |  
-| bip_39_word_new_line6 | rich
+| bip_39_word_new_line_6 | rich
 police
 feed
 strategy
 frequent
 draft |  
-| bip_39_word_new_line7 | rich
+| bip_39_word_new_line_7 | rich
 police
 feed
 strategy
 frequent
 draft
 acoustic |  
-| bip_39_word_new_line8 | rich
+| bip_39_word_new_line_8 | rich
 police
 feed
 strategy
@@ -113,7 +113,7 @@ frequent
 draft
 acoustic
 edit |  
-| bip_39_word_new_line9 | rich
+| bip_39_word_new_line_9 | rich
 police
 feed
 strategy

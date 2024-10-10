@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | collect |  
-| bip_39_word_new_br10 | collect<br>sausage<br>float<br>alien<br>canoe<br>buzz<br>inhale<br>sentence<br>equal<br>arrest |  
-| bip_39_word_new_br11 | collect<br>sausage<br>float<br>alien<br>canoe<br>buzz<br>inhale<br>sentence<br>equal<br>arrest<br>enable |  
-| bip_39_word_new_br12 | collect<br>sausage<br>float<br>alien<br>canoe<br>buzz<br>inhale<br>sentence<br>equal<br>arrest<br>enable<br>apart |  
-| bip_39_word_new_br2 | collect<br>sausage |  
-| bip_39_word_new_br3 | collect<br>sausage<br>float |  
-| bip_39_word_new_br4 | collect<br>sausage<br>float<br>alien |  
-| bip_39_word_new_br5 | collect<br>sausage<br>float<br>alien<br>canoe |  
-| bip_39_word_new_br6 | collect<br>sausage<br>float<br>alien<br>canoe<br>buzz |  
-| bip_39_word_new_br7 | collect<br>sausage<br>float<br>alien<br>canoe<br>buzz<br>inhale |  
-| bip_39_word_new_br8 | collect<br>sausage<br>float<br>alien<br>canoe<br>buzz<br>inhale<br>sentence |  
-| bip_39_word_new_br9 | collect<br>sausage<br>float<br>alien<br>canoe<br>buzz<br>inhale<br>sentence<br>equal |  
-| bip_39_word_new_line1 | collect |  
-| bip_39_word_new_line10 | collect
+| bip_39_word_new_br_1 | collect |  
+| bip_39_word_new_br_10 | collect<br>sausage<br>float<br>alien<br>canoe<br>buzz<br>inhale<br>sentence<br>equal<br>arrest |  
+| bip_39_word_new_br_11 | collect<br>sausage<br>float<br>alien<br>canoe<br>buzz<br>inhale<br>sentence<br>equal<br>arrest<br>enable |  
+| bip_39_word_new_br_12 | collect<br>sausage<br>float<br>alien<br>canoe<br>buzz<br>inhale<br>sentence<br>equal<br>arrest<br>enable<br>apart |  
+| bip_39_word_new_br_2 | collect<br>sausage |  
+| bip_39_word_new_br_3 | collect<br>sausage<br>float |  
+| bip_39_word_new_br_4 | collect<br>sausage<br>float<br>alien |  
+| bip_39_word_new_br_5 | collect<br>sausage<br>float<br>alien<br>canoe |  
+| bip_39_word_new_br_6 | collect<br>sausage<br>float<br>alien<br>canoe<br>buzz |  
+| bip_39_word_new_br_7 | collect<br>sausage<br>float<br>alien<br>canoe<br>buzz<br>inhale |  
+| bip_39_word_new_br_8 | collect<br>sausage<br>float<br>alien<br>canoe<br>buzz<br>inhale<br>sentence |  
+| bip_39_word_new_br_9 | collect<br>sausage<br>float<br>alien<br>canoe<br>buzz<br>inhale<br>sentence<br>equal |  
+| bip_39_word_new_line_1 | collect |  
+| bip_39_word_new_line_10 | collect
 sausage
 float
 alien
@@ -55,7 +55,7 @@ inhale
 sentence
 equal
 arrest |  
-| bip_39_word_new_line11 | collect
+| bip_39_word_new_line_11 | collect
 sausage
 float
 alien
@@ -66,7 +66,7 @@ sentence
 equal
 arrest
 enable |  
-| bip_39_word_new_line12 | collect
+| bip_39_word_new_line_12 | collect
 sausage
 float
 alien
@@ -78,34 +78,34 @@ equal
 arrest
 enable
 apart |  
-| bip_39_word_new_line2 | collect
+| bip_39_word_new_line_2 | collect
 sausage |  
-| bip_39_word_new_line3 | collect
+| bip_39_word_new_line_3 | collect
 sausage
 float |  
-| bip_39_word_new_line4 | collect
+| bip_39_word_new_line_4 | collect
 sausage
 float
 alien |  
-| bip_39_word_new_line5 | collect
+| bip_39_word_new_line_5 | collect
 sausage
 float
 alien
 canoe |  
-| bip_39_word_new_line6 | collect
+| bip_39_word_new_line_6 | collect
 sausage
 float
 alien
 canoe
 buzz |  
-| bip_39_word_new_line7 | collect
+| bip_39_word_new_line_7 | collect
 sausage
 float
 alien
 canoe
 buzz
 inhale |  
-| bip_39_word_new_line8 | collect
+| bip_39_word_new_line_8 | collect
 sausage
 float
 alien
@@ -113,7 +113,7 @@ canoe
 buzz
 inhale
 sentence |  
-| bip_39_word_new_line9 | collect
+| bip_39_word_new_line_9 | collect
 sausage
 float
 alien

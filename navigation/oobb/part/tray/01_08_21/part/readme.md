@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | defense |  
-| bip_39_word_new_br10 | defense<br>reduce<br>maximum<br>doll<br>gorilla<br>library<br>pudding<br>anxiety<br>around<br>code |  
-| bip_39_word_new_br11 | defense<br>reduce<br>maximum<br>doll<br>gorilla<br>library<br>pudding<br>anxiety<br>around<br>code<br>obvious |  
-| bip_39_word_new_br12 | defense<br>reduce<br>maximum<br>doll<br>gorilla<br>library<br>pudding<br>anxiety<br>around<br>code<br>obvious<br>adapt |  
-| bip_39_word_new_br2 | defense<br>reduce |  
-| bip_39_word_new_br3 | defense<br>reduce<br>maximum |  
-| bip_39_word_new_br4 | defense<br>reduce<br>maximum<br>doll |  
-| bip_39_word_new_br5 | defense<br>reduce<br>maximum<br>doll<br>gorilla |  
-| bip_39_word_new_br6 | defense<br>reduce<br>maximum<br>doll<br>gorilla<br>library |  
-| bip_39_word_new_br7 | defense<br>reduce<br>maximum<br>doll<br>gorilla<br>library<br>pudding |  
-| bip_39_word_new_br8 | defense<br>reduce<br>maximum<br>doll<br>gorilla<br>library<br>pudding<br>anxiety |  
-| bip_39_word_new_br9 | defense<br>reduce<br>maximum<br>doll<br>gorilla<br>library<br>pudding<br>anxiety<br>around |  
-| bip_39_word_new_line1 | defense |  
-| bip_39_word_new_line10 | defense
+| bip_39_word_new_br_1 | defense |  
+| bip_39_word_new_br_10 | defense<br>reduce<br>maximum<br>doll<br>gorilla<br>library<br>pudding<br>anxiety<br>around<br>code |  
+| bip_39_word_new_br_11 | defense<br>reduce<br>maximum<br>doll<br>gorilla<br>library<br>pudding<br>anxiety<br>around<br>code<br>obvious |  
+| bip_39_word_new_br_12 | defense<br>reduce<br>maximum<br>doll<br>gorilla<br>library<br>pudding<br>anxiety<br>around<br>code<br>obvious<br>adapt |  
+| bip_39_word_new_br_2 | defense<br>reduce |  
+| bip_39_word_new_br_3 | defense<br>reduce<br>maximum |  
+| bip_39_word_new_br_4 | defense<br>reduce<br>maximum<br>doll |  
+| bip_39_word_new_br_5 | defense<br>reduce<br>maximum<br>doll<br>gorilla |  
+| bip_39_word_new_br_6 | defense<br>reduce<br>maximum<br>doll<br>gorilla<br>library |  
+| bip_39_word_new_br_7 | defense<br>reduce<br>maximum<br>doll<br>gorilla<br>library<br>pudding |  
+| bip_39_word_new_br_8 | defense<br>reduce<br>maximum<br>doll<br>gorilla<br>library<br>pudding<br>anxiety |  
+| bip_39_word_new_br_9 | defense<br>reduce<br>maximum<br>doll<br>gorilla<br>library<br>pudding<br>anxiety<br>around |  
+| bip_39_word_new_line_1 | defense |  
+| bip_39_word_new_line_10 | defense
 reduce
 maximum
 doll
@@ -55,7 +55,7 @@ pudding
 anxiety
 around
 code |  
-| bip_39_word_new_line11 | defense
+| bip_39_word_new_line_11 | defense
 reduce
 maximum
 doll
@@ -66,7 +66,7 @@ anxiety
 around
 code
 obvious |  
-| bip_39_word_new_line12 | defense
+| bip_39_word_new_line_12 | defense
 reduce
 maximum
 doll
@@ -78,34 +78,34 @@ around
 code
 obvious
 adapt |  
-| bip_39_word_new_line2 | defense
+| bip_39_word_new_line_2 | defense
 reduce |  
-| bip_39_word_new_line3 | defense
+| bip_39_word_new_line_3 | defense
 reduce
 maximum |  
-| bip_39_word_new_line4 | defense
+| bip_39_word_new_line_4 | defense
 reduce
 maximum
 doll |  
-| bip_39_word_new_line5 | defense
+| bip_39_word_new_line_5 | defense
 reduce
 maximum
 doll
 gorilla |  
-| bip_39_word_new_line6 | defense
+| bip_39_word_new_line_6 | defense
 reduce
 maximum
 doll
 gorilla
 library |  
-| bip_39_word_new_line7 | defense
+| bip_39_word_new_line_7 | defense
 reduce
 maximum
 doll
 gorilla
 library
 pudding |  
-| bip_39_word_new_line8 | defense
+| bip_39_word_new_line_8 | defense
 reduce
 maximum
 doll
@@ -113,7 +113,7 @@ gorilla
 library
 pudding
 anxiety |  
-| bip_39_word_new_line9 | defense
+| bip_39_word_new_line_9 | defense
 reduce
 maximum
 doll

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | glare |  
-| bip_39_word_new_br10 | glare<br>advice<br>police<br>resource<br>other<br>warfare<br>faith<br>burden<br>silly<br>dynamic |  
-| bip_39_word_new_br11 | glare<br>advice<br>police<br>resource<br>other<br>warfare<br>faith<br>burden<br>silly<br>dynamic<br>present |  
-| bip_39_word_new_br12 | glare<br>advice<br>police<br>resource<br>other<br>warfare<br>faith<br>burden<br>silly<br>dynamic<br>present<br>aisle |  
-| bip_39_word_new_br2 | glare<br>advice |  
-| bip_39_word_new_br3 | glare<br>advice<br>police |  
-| bip_39_word_new_br4 | glare<br>advice<br>police<br>resource |  
-| bip_39_word_new_br5 | glare<br>advice<br>police<br>resource<br>other |  
-| bip_39_word_new_br6 | glare<br>advice<br>police<br>resource<br>other<br>warfare |  
-| bip_39_word_new_br7 | glare<br>advice<br>police<br>resource<br>other<br>warfare<br>faith |  
-| bip_39_word_new_br8 | glare<br>advice<br>police<br>resource<br>other<br>warfare<br>faith<br>burden |  
-| bip_39_word_new_br9 | glare<br>advice<br>police<br>resource<br>other<br>warfare<br>faith<br>burden<br>silly |  
-| bip_39_word_new_line1 | glare |  
-| bip_39_word_new_line10 | glare
+| bip_39_word_new_br_1 | glare |  
+| bip_39_word_new_br_10 | glare<br>advice<br>police<br>resource<br>other<br>warfare<br>faith<br>burden<br>silly<br>dynamic |  
+| bip_39_word_new_br_11 | glare<br>advice<br>police<br>resource<br>other<br>warfare<br>faith<br>burden<br>silly<br>dynamic<br>present |  
+| bip_39_word_new_br_12 | glare<br>advice<br>police<br>resource<br>other<br>warfare<br>faith<br>burden<br>silly<br>dynamic<br>present<br>aisle |  
+| bip_39_word_new_br_2 | glare<br>advice |  
+| bip_39_word_new_br_3 | glare<br>advice<br>police |  
+| bip_39_word_new_br_4 | glare<br>advice<br>police<br>resource |  
+| bip_39_word_new_br_5 | glare<br>advice<br>police<br>resource<br>other |  
+| bip_39_word_new_br_6 | glare<br>advice<br>police<br>resource<br>other<br>warfare |  
+| bip_39_word_new_br_7 | glare<br>advice<br>police<br>resource<br>other<br>warfare<br>faith |  
+| bip_39_word_new_br_8 | glare<br>advice<br>police<br>resource<br>other<br>warfare<br>faith<br>burden |  
+| bip_39_word_new_br_9 | glare<br>advice<br>police<br>resource<br>other<br>warfare<br>faith<br>burden<br>silly |  
+| bip_39_word_new_line_1 | glare |  
+| bip_39_word_new_line_10 | glare
 advice
 police
 resource
@@ -55,7 +55,7 @@ faith
 burden
 silly
 dynamic |  
-| bip_39_word_new_line11 | glare
+| bip_39_word_new_line_11 | glare
 advice
 police
 resource
@@ -66,7 +66,7 @@ burden
 silly
 dynamic
 present |  
-| bip_39_word_new_line12 | glare
+| bip_39_word_new_line_12 | glare
 advice
 police
 resource
@@ -78,34 +78,34 @@ silly
 dynamic
 present
 aisle |  
-| bip_39_word_new_line2 | glare
+| bip_39_word_new_line_2 | glare
 advice |  
-| bip_39_word_new_line3 | glare
+| bip_39_word_new_line_3 | glare
 advice
 police |  
-| bip_39_word_new_line4 | glare
+| bip_39_word_new_line_4 | glare
 advice
 police
 resource |  
-| bip_39_word_new_line5 | glare
+| bip_39_word_new_line_5 | glare
 advice
 police
 resource
 other |  
-| bip_39_word_new_line6 | glare
+| bip_39_word_new_line_6 | glare
 advice
 police
 resource
 other
 warfare |  
-| bip_39_word_new_line7 | glare
+| bip_39_word_new_line_7 | glare
 advice
 police
 resource
 other
 warfare
 faith |  
-| bip_39_word_new_line8 | glare
+| bip_39_word_new_line_8 | glare
 advice
 police
 resource
@@ -113,7 +113,7 @@ other
 warfare
 faith
 burden |  
-| bip_39_word_new_line9 | glare
+| bip_39_word_new_line_9 | glare
 advice
 police
 resource

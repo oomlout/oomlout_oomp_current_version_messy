@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | outer |  
-| bip_39_word_new_br10 | outer<br>cabin<br>shiver<br>burden<br>reject<br>code<br>mouse<br>machine<br>supply<br>boring |  
-| bip_39_word_new_br11 | outer<br>cabin<br>shiver<br>burden<br>reject<br>code<br>mouse<br>machine<br>supply<br>boring<br>phone |  
-| bip_39_word_new_br12 | outer<br>cabin<br>shiver<br>burden<br>reject<br>code<br>mouse<br>machine<br>supply<br>boring<br>phone<br>abstract |  
-| bip_39_word_new_br2 | outer<br>cabin |  
-| bip_39_word_new_br3 | outer<br>cabin<br>shiver |  
-| bip_39_word_new_br4 | outer<br>cabin<br>shiver<br>burden |  
-| bip_39_word_new_br5 | outer<br>cabin<br>shiver<br>burden<br>reject |  
-| bip_39_word_new_br6 | outer<br>cabin<br>shiver<br>burden<br>reject<br>code |  
-| bip_39_word_new_br7 | outer<br>cabin<br>shiver<br>burden<br>reject<br>code<br>mouse |  
-| bip_39_word_new_br8 | outer<br>cabin<br>shiver<br>burden<br>reject<br>code<br>mouse<br>machine |  
-| bip_39_word_new_br9 | outer<br>cabin<br>shiver<br>burden<br>reject<br>code<br>mouse<br>machine<br>supply |  
-| bip_39_word_new_line1 | outer |  
-| bip_39_word_new_line10 | outer
+| bip_39_word_new_br_1 | outer |  
+| bip_39_word_new_br_10 | outer<br>cabin<br>shiver<br>burden<br>reject<br>code<br>mouse<br>machine<br>supply<br>boring |  
+| bip_39_word_new_br_11 | outer<br>cabin<br>shiver<br>burden<br>reject<br>code<br>mouse<br>machine<br>supply<br>boring<br>phone |  
+| bip_39_word_new_br_12 | outer<br>cabin<br>shiver<br>burden<br>reject<br>code<br>mouse<br>machine<br>supply<br>boring<br>phone<br>abstract |  
+| bip_39_word_new_br_2 | outer<br>cabin |  
+| bip_39_word_new_br_3 | outer<br>cabin<br>shiver |  
+| bip_39_word_new_br_4 | outer<br>cabin<br>shiver<br>burden |  
+| bip_39_word_new_br_5 | outer<br>cabin<br>shiver<br>burden<br>reject |  
+| bip_39_word_new_br_6 | outer<br>cabin<br>shiver<br>burden<br>reject<br>code |  
+| bip_39_word_new_br_7 | outer<br>cabin<br>shiver<br>burden<br>reject<br>code<br>mouse |  
+| bip_39_word_new_br_8 | outer<br>cabin<br>shiver<br>burden<br>reject<br>code<br>mouse<br>machine |  
+| bip_39_word_new_br_9 | outer<br>cabin<br>shiver<br>burden<br>reject<br>code<br>mouse<br>machine<br>supply |  
+| bip_39_word_new_line_1 | outer |  
+| bip_39_word_new_line_10 | outer
 cabin
 shiver
 burden
@@ -55,7 +55,7 @@ mouse
 machine
 supply
 boring |  
-| bip_39_word_new_line11 | outer
+| bip_39_word_new_line_11 | outer
 cabin
 shiver
 burden
@@ -66,7 +66,7 @@ machine
 supply
 boring
 phone |  
-| bip_39_word_new_line12 | outer
+| bip_39_word_new_line_12 | outer
 cabin
 shiver
 burden
@@ -78,34 +78,34 @@ supply
 boring
 phone
 abstract |  
-| bip_39_word_new_line2 | outer
+| bip_39_word_new_line_2 | outer
 cabin |  
-| bip_39_word_new_line3 | outer
+| bip_39_word_new_line_3 | outer
 cabin
 shiver |  
-| bip_39_word_new_line4 | outer
+| bip_39_word_new_line_4 | outer
 cabin
 shiver
 burden |  
-| bip_39_word_new_line5 | outer
+| bip_39_word_new_line_5 | outer
 cabin
 shiver
 burden
 reject |  
-| bip_39_word_new_line6 | outer
+| bip_39_word_new_line_6 | outer
 cabin
 shiver
 burden
 reject
 code |  
-| bip_39_word_new_line7 | outer
+| bip_39_word_new_line_7 | outer
 cabin
 shiver
 burden
 reject
 code
 mouse |  
-| bip_39_word_new_line8 | outer
+| bip_39_word_new_line_8 | outer
 cabin
 shiver
 burden
@@ -113,7 +113,7 @@ reject
 code
 mouse
 machine |  
-| bip_39_word_new_line9 | outer
+| bip_39_word_new_line_9 | outer
 cabin
 shiver
 burden

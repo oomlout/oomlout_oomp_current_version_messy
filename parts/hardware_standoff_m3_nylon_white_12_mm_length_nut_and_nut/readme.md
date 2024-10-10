@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wait |  
-| bip_39_word_new_br10 | wait<br>bleak<br>benefit<br>under<br>genius<br>spirit<br>iron<br>rival<br>mail<br>carbon |  
-| bip_39_word_new_br11 | wait<br>bleak<br>benefit<br>under<br>genius<br>spirit<br>iron<br>rival<br>mail<br>carbon<br>major |  
-| bip_39_word_new_br12 | wait<br>bleak<br>benefit<br>under<br>genius<br>spirit<br>iron<br>rival<br>mail<br>carbon<br>major<br>argue |  
-| bip_39_word_new_br2 | wait<br>bleak |  
-| bip_39_word_new_br3 | wait<br>bleak<br>benefit |  
-| bip_39_word_new_br4 | wait<br>bleak<br>benefit<br>under |  
-| bip_39_word_new_br5 | wait<br>bleak<br>benefit<br>under<br>genius |  
-| bip_39_word_new_br6 | wait<br>bleak<br>benefit<br>under<br>genius<br>spirit |  
-| bip_39_word_new_br7 | wait<br>bleak<br>benefit<br>under<br>genius<br>spirit<br>iron |  
-| bip_39_word_new_br8 | wait<br>bleak<br>benefit<br>under<br>genius<br>spirit<br>iron<br>rival |  
-| bip_39_word_new_br9 | wait<br>bleak<br>benefit<br>under<br>genius<br>spirit<br>iron<br>rival<br>mail |  
-| bip_39_word_new_line1 | wait |  
-| bip_39_word_new_line10 | wait
+| bip_39_word_new_br_1 | wait |  
+| bip_39_word_new_br_10 | wait<br>bleak<br>benefit<br>under<br>genius<br>spirit<br>iron<br>rival<br>mail<br>carbon |  
+| bip_39_word_new_br_11 | wait<br>bleak<br>benefit<br>under<br>genius<br>spirit<br>iron<br>rival<br>mail<br>carbon<br>major |  
+| bip_39_word_new_br_12 | wait<br>bleak<br>benefit<br>under<br>genius<br>spirit<br>iron<br>rival<br>mail<br>carbon<br>major<br>argue |  
+| bip_39_word_new_br_2 | wait<br>bleak |  
+| bip_39_word_new_br_3 | wait<br>bleak<br>benefit |  
+| bip_39_word_new_br_4 | wait<br>bleak<br>benefit<br>under |  
+| bip_39_word_new_br_5 | wait<br>bleak<br>benefit<br>under<br>genius |  
+| bip_39_word_new_br_6 | wait<br>bleak<br>benefit<br>under<br>genius<br>spirit |  
+| bip_39_word_new_br_7 | wait<br>bleak<br>benefit<br>under<br>genius<br>spirit<br>iron |  
+| bip_39_word_new_br_8 | wait<br>bleak<br>benefit<br>under<br>genius<br>spirit<br>iron<br>rival |  
+| bip_39_word_new_br_9 | wait<br>bleak<br>benefit<br>under<br>genius<br>spirit<br>iron<br>rival<br>mail |  
+| bip_39_word_new_line_1 | wait |  
+| bip_39_word_new_line_10 | wait
 bleak
 benefit
 under
@@ -55,7 +55,7 @@ iron
 rival
 mail
 carbon |  
-| bip_39_word_new_line11 | wait
+| bip_39_word_new_line_11 | wait
 bleak
 benefit
 under
@@ -66,7 +66,7 @@ rival
 mail
 carbon
 major |  
-| bip_39_word_new_line12 | wait
+| bip_39_word_new_line_12 | wait
 bleak
 benefit
 under
@@ -78,34 +78,34 @@ mail
 carbon
 major
 argue |  
-| bip_39_word_new_line2 | wait
+| bip_39_word_new_line_2 | wait
 bleak |  
-| bip_39_word_new_line3 | wait
+| bip_39_word_new_line_3 | wait
 bleak
 benefit |  
-| bip_39_word_new_line4 | wait
+| bip_39_word_new_line_4 | wait
 bleak
 benefit
 under |  
-| bip_39_word_new_line5 | wait
+| bip_39_word_new_line_5 | wait
 bleak
 benefit
 under
 genius |  
-| bip_39_word_new_line6 | wait
+| bip_39_word_new_line_6 | wait
 bleak
 benefit
 under
 genius
 spirit |  
-| bip_39_word_new_line7 | wait
+| bip_39_word_new_line_7 | wait
 bleak
 benefit
 under
 genius
 spirit
 iron |  
-| bip_39_word_new_line8 | wait
+| bip_39_word_new_line_8 | wait
 bleak
 benefit
 under
@@ -113,7 +113,7 @@ genius
 spirit
 iron
 rival |  
-| bip_39_word_new_line9 | wait
+| bip_39_word_new_line_9 | wait
 bleak
 benefit
 under

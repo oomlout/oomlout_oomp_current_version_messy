@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rug |  
-| bip_39_word_new_br10 | rug<br>alarm<br>robust<br>code<br>bind<br>scheme<br>strike<br>hero<br>oppose<br>pet |  
-| bip_39_word_new_br11 | rug<br>alarm<br>robust<br>code<br>bind<br>scheme<br>strike<br>hero<br>oppose<br>pet<br>rabbit |  
-| bip_39_word_new_br12 | rug<br>alarm<br>robust<br>code<br>bind<br>scheme<br>strike<br>hero<br>oppose<br>pet<br>rabbit<br>assist |  
-| bip_39_word_new_br2 | rug<br>alarm |  
-| bip_39_word_new_br3 | rug<br>alarm<br>robust |  
-| bip_39_word_new_br4 | rug<br>alarm<br>robust<br>code |  
-| bip_39_word_new_br5 | rug<br>alarm<br>robust<br>code<br>bind |  
-| bip_39_word_new_br6 | rug<br>alarm<br>robust<br>code<br>bind<br>scheme |  
-| bip_39_word_new_br7 | rug<br>alarm<br>robust<br>code<br>bind<br>scheme<br>strike |  
-| bip_39_word_new_br8 | rug<br>alarm<br>robust<br>code<br>bind<br>scheme<br>strike<br>hero |  
-| bip_39_word_new_br9 | rug<br>alarm<br>robust<br>code<br>bind<br>scheme<br>strike<br>hero<br>oppose |  
-| bip_39_word_new_line1 | rug |  
-| bip_39_word_new_line10 | rug
+| bip_39_word_new_br_1 | rug |  
+| bip_39_word_new_br_10 | rug<br>alarm<br>robust<br>code<br>bind<br>scheme<br>strike<br>hero<br>oppose<br>pet |  
+| bip_39_word_new_br_11 | rug<br>alarm<br>robust<br>code<br>bind<br>scheme<br>strike<br>hero<br>oppose<br>pet<br>rabbit |  
+| bip_39_word_new_br_12 | rug<br>alarm<br>robust<br>code<br>bind<br>scheme<br>strike<br>hero<br>oppose<br>pet<br>rabbit<br>assist |  
+| bip_39_word_new_br_2 | rug<br>alarm |  
+| bip_39_word_new_br_3 | rug<br>alarm<br>robust |  
+| bip_39_word_new_br_4 | rug<br>alarm<br>robust<br>code |  
+| bip_39_word_new_br_5 | rug<br>alarm<br>robust<br>code<br>bind |  
+| bip_39_word_new_br_6 | rug<br>alarm<br>robust<br>code<br>bind<br>scheme |  
+| bip_39_word_new_br_7 | rug<br>alarm<br>robust<br>code<br>bind<br>scheme<br>strike |  
+| bip_39_word_new_br_8 | rug<br>alarm<br>robust<br>code<br>bind<br>scheme<br>strike<br>hero |  
+| bip_39_word_new_br_9 | rug<br>alarm<br>robust<br>code<br>bind<br>scheme<br>strike<br>hero<br>oppose |  
+| bip_39_word_new_line_1 | rug |  
+| bip_39_word_new_line_10 | rug
 alarm
 robust
 code
@@ -55,7 +55,7 @@ strike
 hero
 oppose
 pet |  
-| bip_39_word_new_line11 | rug
+| bip_39_word_new_line_11 | rug
 alarm
 robust
 code
@@ -66,7 +66,7 @@ hero
 oppose
 pet
 rabbit |  
-| bip_39_word_new_line12 | rug
+| bip_39_word_new_line_12 | rug
 alarm
 robust
 code
@@ -78,34 +78,34 @@ oppose
 pet
 rabbit
 assist |  
-| bip_39_word_new_line2 | rug
+| bip_39_word_new_line_2 | rug
 alarm |  
-| bip_39_word_new_line3 | rug
+| bip_39_word_new_line_3 | rug
 alarm
 robust |  
-| bip_39_word_new_line4 | rug
+| bip_39_word_new_line_4 | rug
 alarm
 robust
 code |  
-| bip_39_word_new_line5 | rug
+| bip_39_word_new_line_5 | rug
 alarm
 robust
 code
 bind |  
-| bip_39_word_new_line6 | rug
+| bip_39_word_new_line_6 | rug
 alarm
 robust
 code
 bind
 scheme |  
-| bip_39_word_new_line7 | rug
+| bip_39_word_new_line_7 | rug
 alarm
 robust
 code
 bind
 scheme
 strike |  
-| bip_39_word_new_line8 | rug
+| bip_39_word_new_line_8 | rug
 alarm
 robust
 code
@@ -113,7 +113,7 @@ bind
 scheme
 strike
 hero |  
-| bip_39_word_new_line9 | rug
+| bip_39_word_new_line_9 | rug
 alarm
 robust
 code

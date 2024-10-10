@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | alone |  
-| bip_39_word_new_br10 | alone<br>valley<br>milk<br>enlist<br>symbol<br>waste<br>release<br>reform<br>inject<br>ancient |  
-| bip_39_word_new_br11 | alone<br>valley<br>milk<br>enlist<br>symbol<br>waste<br>release<br>reform<br>inject<br>ancient<br>advance |  
-| bip_39_word_new_br12 | alone<br>valley<br>milk<br>enlist<br>symbol<br>waste<br>release<br>reform<br>inject<br>ancient<br>advance<br>attitude |  
-| bip_39_word_new_br2 | alone<br>valley |  
-| bip_39_word_new_br3 | alone<br>valley<br>milk |  
-| bip_39_word_new_br4 | alone<br>valley<br>milk<br>enlist |  
-| bip_39_word_new_br5 | alone<br>valley<br>milk<br>enlist<br>symbol |  
-| bip_39_word_new_br6 | alone<br>valley<br>milk<br>enlist<br>symbol<br>waste |  
-| bip_39_word_new_br7 | alone<br>valley<br>milk<br>enlist<br>symbol<br>waste<br>release |  
-| bip_39_word_new_br8 | alone<br>valley<br>milk<br>enlist<br>symbol<br>waste<br>release<br>reform |  
-| bip_39_word_new_br9 | alone<br>valley<br>milk<br>enlist<br>symbol<br>waste<br>release<br>reform<br>inject |  
-| bip_39_word_new_line1 | alone |  
-| bip_39_word_new_line10 | alone
+| bip_39_word_new_br_1 | alone |  
+| bip_39_word_new_br_10 | alone<br>valley<br>milk<br>enlist<br>symbol<br>waste<br>release<br>reform<br>inject<br>ancient |  
+| bip_39_word_new_br_11 | alone<br>valley<br>milk<br>enlist<br>symbol<br>waste<br>release<br>reform<br>inject<br>ancient<br>advance |  
+| bip_39_word_new_br_12 | alone<br>valley<br>milk<br>enlist<br>symbol<br>waste<br>release<br>reform<br>inject<br>ancient<br>advance<br>attitude |  
+| bip_39_word_new_br_2 | alone<br>valley |  
+| bip_39_word_new_br_3 | alone<br>valley<br>milk |  
+| bip_39_word_new_br_4 | alone<br>valley<br>milk<br>enlist |  
+| bip_39_word_new_br_5 | alone<br>valley<br>milk<br>enlist<br>symbol |  
+| bip_39_word_new_br_6 | alone<br>valley<br>milk<br>enlist<br>symbol<br>waste |  
+| bip_39_word_new_br_7 | alone<br>valley<br>milk<br>enlist<br>symbol<br>waste<br>release |  
+| bip_39_word_new_br_8 | alone<br>valley<br>milk<br>enlist<br>symbol<br>waste<br>release<br>reform |  
+| bip_39_word_new_br_9 | alone<br>valley<br>milk<br>enlist<br>symbol<br>waste<br>release<br>reform<br>inject |  
+| bip_39_word_new_line_1 | alone |  
+| bip_39_word_new_line_10 | alone
 valley
 milk
 enlist
@@ -55,7 +55,7 @@ release
 reform
 inject
 ancient |  
-| bip_39_word_new_line11 | alone
+| bip_39_word_new_line_11 | alone
 valley
 milk
 enlist
@@ -66,7 +66,7 @@ reform
 inject
 ancient
 advance |  
-| bip_39_word_new_line12 | alone
+| bip_39_word_new_line_12 | alone
 valley
 milk
 enlist
@@ -78,34 +78,34 @@ inject
 ancient
 advance
 attitude |  
-| bip_39_word_new_line2 | alone
+| bip_39_word_new_line_2 | alone
 valley |  
-| bip_39_word_new_line3 | alone
+| bip_39_word_new_line_3 | alone
 valley
 milk |  
-| bip_39_word_new_line4 | alone
+| bip_39_word_new_line_4 | alone
 valley
 milk
 enlist |  
-| bip_39_word_new_line5 | alone
+| bip_39_word_new_line_5 | alone
 valley
 milk
 enlist
 symbol |  
-| bip_39_word_new_line6 | alone
+| bip_39_word_new_line_6 | alone
 valley
 milk
 enlist
 symbol
 waste |  
-| bip_39_word_new_line7 | alone
+| bip_39_word_new_line_7 | alone
 valley
 milk
 enlist
 symbol
 waste
 release |  
-| bip_39_word_new_line8 | alone
+| bip_39_word_new_line_8 | alone
 valley
 milk
 enlist
@@ -113,7 +113,7 @@ symbol
 waste
 release
 reform |  
-| bip_39_word_new_line9 | alone
+| bip_39_word_new_line_9 | alone
 valley
 milk
 enlist

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | victory |  
-| bip_39_word_new_br10 | victory<br>sense<br>useless<br>swift<br>virtual<br>spirit<br>embrace<br>fitness<br>filter<br>drink |  
-| bip_39_word_new_br11 | victory<br>sense<br>useless<br>swift<br>virtual<br>spirit<br>embrace<br>fitness<br>filter<br>drink<br>object |  
-| bip_39_word_new_br12 | victory<br>sense<br>useless<br>swift<br>virtual<br>spirit<br>embrace<br>fitness<br>filter<br>drink<br>object<br>attack |  
-| bip_39_word_new_br2 | victory<br>sense |  
-| bip_39_word_new_br3 | victory<br>sense<br>useless |  
-| bip_39_word_new_br4 | victory<br>sense<br>useless<br>swift |  
-| bip_39_word_new_br5 | victory<br>sense<br>useless<br>swift<br>virtual |  
-| bip_39_word_new_br6 | victory<br>sense<br>useless<br>swift<br>virtual<br>spirit |  
-| bip_39_word_new_br7 | victory<br>sense<br>useless<br>swift<br>virtual<br>spirit<br>embrace |  
-| bip_39_word_new_br8 | victory<br>sense<br>useless<br>swift<br>virtual<br>spirit<br>embrace<br>fitness |  
-| bip_39_word_new_br9 | victory<br>sense<br>useless<br>swift<br>virtual<br>spirit<br>embrace<br>fitness<br>filter |  
-| bip_39_word_new_line1 | victory |  
-| bip_39_word_new_line10 | victory
+| bip_39_word_new_br_1 | victory |  
+| bip_39_word_new_br_10 | victory<br>sense<br>useless<br>swift<br>virtual<br>spirit<br>embrace<br>fitness<br>filter<br>drink |  
+| bip_39_word_new_br_11 | victory<br>sense<br>useless<br>swift<br>virtual<br>spirit<br>embrace<br>fitness<br>filter<br>drink<br>object |  
+| bip_39_word_new_br_12 | victory<br>sense<br>useless<br>swift<br>virtual<br>spirit<br>embrace<br>fitness<br>filter<br>drink<br>object<br>attack |  
+| bip_39_word_new_br_2 | victory<br>sense |  
+| bip_39_word_new_br_3 | victory<br>sense<br>useless |  
+| bip_39_word_new_br_4 | victory<br>sense<br>useless<br>swift |  
+| bip_39_word_new_br_5 | victory<br>sense<br>useless<br>swift<br>virtual |  
+| bip_39_word_new_br_6 | victory<br>sense<br>useless<br>swift<br>virtual<br>spirit |  
+| bip_39_word_new_br_7 | victory<br>sense<br>useless<br>swift<br>virtual<br>spirit<br>embrace |  
+| bip_39_word_new_br_8 | victory<br>sense<br>useless<br>swift<br>virtual<br>spirit<br>embrace<br>fitness |  
+| bip_39_word_new_br_9 | victory<br>sense<br>useless<br>swift<br>virtual<br>spirit<br>embrace<br>fitness<br>filter |  
+| bip_39_word_new_line_1 | victory |  
+| bip_39_word_new_line_10 | victory
 sense
 useless
 swift
@@ -55,7 +55,7 @@ embrace
 fitness
 filter
 drink |  
-| bip_39_word_new_line11 | victory
+| bip_39_word_new_line_11 | victory
 sense
 useless
 swift
@@ -66,7 +66,7 @@ fitness
 filter
 drink
 object |  
-| bip_39_word_new_line12 | victory
+| bip_39_word_new_line_12 | victory
 sense
 useless
 swift
@@ -78,34 +78,34 @@ filter
 drink
 object
 attack |  
-| bip_39_word_new_line2 | victory
+| bip_39_word_new_line_2 | victory
 sense |  
-| bip_39_word_new_line3 | victory
+| bip_39_word_new_line_3 | victory
 sense
 useless |  
-| bip_39_word_new_line4 | victory
+| bip_39_word_new_line_4 | victory
 sense
 useless
 swift |  
-| bip_39_word_new_line5 | victory
+| bip_39_word_new_line_5 | victory
 sense
 useless
 swift
 virtual |  
-| bip_39_word_new_line6 | victory
+| bip_39_word_new_line_6 | victory
 sense
 useless
 swift
 virtual
 spirit |  
-| bip_39_word_new_line7 | victory
+| bip_39_word_new_line_7 | victory
 sense
 useless
 swift
 virtual
 spirit
 embrace |  
-| bip_39_word_new_line8 | victory
+| bip_39_word_new_line_8 | victory
 sense
 useless
 swift
@@ -113,7 +113,7 @@ virtual
 spirit
 embrace
 fitness |  
-| bip_39_word_new_line9 | victory
+| bip_39_word_new_line_9 | victory
 sense
 useless
 swift

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | put |  
-| bip_39_word_new_br10 | put<br>teach<br>hockey<br>drip<br>fancy<br>normal<br>surface<br>hello<br>reject<br>trust |  
-| bip_39_word_new_br11 | put<br>teach<br>hockey<br>drip<br>fancy<br>normal<br>surface<br>hello<br>reject<br>trust<br>avocado |  
-| bip_39_word_new_br12 | put<br>teach<br>hockey<br>drip<br>fancy<br>normal<br>surface<br>hello<br>reject<br>trust<br>avocado<br>attitude |  
-| bip_39_word_new_br2 | put<br>teach |  
-| bip_39_word_new_br3 | put<br>teach<br>hockey |  
-| bip_39_word_new_br4 | put<br>teach<br>hockey<br>drip |  
-| bip_39_word_new_br5 | put<br>teach<br>hockey<br>drip<br>fancy |  
-| bip_39_word_new_br6 | put<br>teach<br>hockey<br>drip<br>fancy<br>normal |  
-| bip_39_word_new_br7 | put<br>teach<br>hockey<br>drip<br>fancy<br>normal<br>surface |  
-| bip_39_word_new_br8 | put<br>teach<br>hockey<br>drip<br>fancy<br>normal<br>surface<br>hello |  
-| bip_39_word_new_br9 | put<br>teach<br>hockey<br>drip<br>fancy<br>normal<br>surface<br>hello<br>reject |  
-| bip_39_word_new_line1 | put |  
-| bip_39_word_new_line10 | put
+| bip_39_word_new_br_1 | put |  
+| bip_39_word_new_br_10 | put<br>teach<br>hockey<br>drip<br>fancy<br>normal<br>surface<br>hello<br>reject<br>trust |  
+| bip_39_word_new_br_11 | put<br>teach<br>hockey<br>drip<br>fancy<br>normal<br>surface<br>hello<br>reject<br>trust<br>avocado |  
+| bip_39_word_new_br_12 | put<br>teach<br>hockey<br>drip<br>fancy<br>normal<br>surface<br>hello<br>reject<br>trust<br>avocado<br>attitude |  
+| bip_39_word_new_br_2 | put<br>teach |  
+| bip_39_word_new_br_3 | put<br>teach<br>hockey |  
+| bip_39_word_new_br_4 | put<br>teach<br>hockey<br>drip |  
+| bip_39_word_new_br_5 | put<br>teach<br>hockey<br>drip<br>fancy |  
+| bip_39_word_new_br_6 | put<br>teach<br>hockey<br>drip<br>fancy<br>normal |  
+| bip_39_word_new_br_7 | put<br>teach<br>hockey<br>drip<br>fancy<br>normal<br>surface |  
+| bip_39_word_new_br_8 | put<br>teach<br>hockey<br>drip<br>fancy<br>normal<br>surface<br>hello |  
+| bip_39_word_new_br_9 | put<br>teach<br>hockey<br>drip<br>fancy<br>normal<br>surface<br>hello<br>reject |  
+| bip_39_word_new_line_1 | put |  
+| bip_39_word_new_line_10 | put
 teach
 hockey
 drip
@@ -55,7 +55,7 @@ surface
 hello
 reject
 trust |  
-| bip_39_word_new_line11 | put
+| bip_39_word_new_line_11 | put
 teach
 hockey
 drip
@@ -66,7 +66,7 @@ hello
 reject
 trust
 avocado |  
-| bip_39_word_new_line12 | put
+| bip_39_word_new_line_12 | put
 teach
 hockey
 drip
@@ -78,34 +78,34 @@ reject
 trust
 avocado
 attitude |  
-| bip_39_word_new_line2 | put
+| bip_39_word_new_line_2 | put
 teach |  
-| bip_39_word_new_line3 | put
+| bip_39_word_new_line_3 | put
 teach
 hockey |  
-| bip_39_word_new_line4 | put
+| bip_39_word_new_line_4 | put
 teach
 hockey
 drip |  
-| bip_39_word_new_line5 | put
+| bip_39_word_new_line_5 | put
 teach
 hockey
 drip
 fancy |  
-| bip_39_word_new_line6 | put
+| bip_39_word_new_line_6 | put
 teach
 hockey
 drip
 fancy
 normal |  
-| bip_39_word_new_line7 | put
+| bip_39_word_new_line_7 | put
 teach
 hockey
 drip
 fancy
 normal
 surface |  
-| bip_39_word_new_line8 | put
+| bip_39_word_new_line_8 | put
 teach
 hockey
 drip
@@ -113,7 +113,7 @@ fancy
 normal
 surface
 hello |  
-| bip_39_word_new_line9 | put
+| bip_39_word_new_line_9 | put
 teach
 hockey
 drip

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | aware |  
-| bip_39_word_new_br10 | aware<br>proof<br>surface<br>consider<br>manual<br>lesson<br>stick<br>swear<br>polar<br>peace |  
-| bip_39_word_new_br11 | aware<br>proof<br>surface<br>consider<br>manual<br>lesson<br>stick<br>swear<br>polar<br>peace<br>weird |  
-| bip_39_word_new_br12 | aware<br>proof<br>surface<br>consider<br>manual<br>lesson<br>stick<br>swear<br>polar<br>peace<br>weird<br>airport |  
-| bip_39_word_new_br2 | aware<br>proof |  
-| bip_39_word_new_br3 | aware<br>proof<br>surface |  
-| bip_39_word_new_br4 | aware<br>proof<br>surface<br>consider |  
-| bip_39_word_new_br5 | aware<br>proof<br>surface<br>consider<br>manual |  
-| bip_39_word_new_br6 | aware<br>proof<br>surface<br>consider<br>manual<br>lesson |  
-| bip_39_word_new_br7 | aware<br>proof<br>surface<br>consider<br>manual<br>lesson<br>stick |  
-| bip_39_word_new_br8 | aware<br>proof<br>surface<br>consider<br>manual<br>lesson<br>stick<br>swear |  
-| bip_39_word_new_br9 | aware<br>proof<br>surface<br>consider<br>manual<br>lesson<br>stick<br>swear<br>polar |  
-| bip_39_word_new_line1 | aware |  
-| bip_39_word_new_line10 | aware
+| bip_39_word_new_br_1 | aware |  
+| bip_39_word_new_br_10 | aware<br>proof<br>surface<br>consider<br>manual<br>lesson<br>stick<br>swear<br>polar<br>peace |  
+| bip_39_word_new_br_11 | aware<br>proof<br>surface<br>consider<br>manual<br>lesson<br>stick<br>swear<br>polar<br>peace<br>weird |  
+| bip_39_word_new_br_12 | aware<br>proof<br>surface<br>consider<br>manual<br>lesson<br>stick<br>swear<br>polar<br>peace<br>weird<br>airport |  
+| bip_39_word_new_br_2 | aware<br>proof |  
+| bip_39_word_new_br_3 | aware<br>proof<br>surface |  
+| bip_39_word_new_br_4 | aware<br>proof<br>surface<br>consider |  
+| bip_39_word_new_br_5 | aware<br>proof<br>surface<br>consider<br>manual |  
+| bip_39_word_new_br_6 | aware<br>proof<br>surface<br>consider<br>manual<br>lesson |  
+| bip_39_word_new_br_7 | aware<br>proof<br>surface<br>consider<br>manual<br>lesson<br>stick |  
+| bip_39_word_new_br_8 | aware<br>proof<br>surface<br>consider<br>manual<br>lesson<br>stick<br>swear |  
+| bip_39_word_new_br_9 | aware<br>proof<br>surface<br>consider<br>manual<br>lesson<br>stick<br>swear<br>polar |  
+| bip_39_word_new_line_1 | aware |  
+| bip_39_word_new_line_10 | aware
 proof
 surface
 consider
@@ -55,7 +55,7 @@ stick
 swear
 polar
 peace |  
-| bip_39_word_new_line11 | aware
+| bip_39_word_new_line_11 | aware
 proof
 surface
 consider
@@ -66,7 +66,7 @@ swear
 polar
 peace
 weird |  
-| bip_39_word_new_line12 | aware
+| bip_39_word_new_line_12 | aware
 proof
 surface
 consider
@@ -78,34 +78,34 @@ polar
 peace
 weird
 airport |  
-| bip_39_word_new_line2 | aware
+| bip_39_word_new_line_2 | aware
 proof |  
-| bip_39_word_new_line3 | aware
+| bip_39_word_new_line_3 | aware
 proof
 surface |  
-| bip_39_word_new_line4 | aware
+| bip_39_word_new_line_4 | aware
 proof
 surface
 consider |  
-| bip_39_word_new_line5 | aware
+| bip_39_word_new_line_5 | aware
 proof
 surface
 consider
 manual |  
-| bip_39_word_new_line6 | aware
+| bip_39_word_new_line_6 | aware
 proof
 surface
 consider
 manual
 lesson |  
-| bip_39_word_new_line7 | aware
+| bip_39_word_new_line_7 | aware
 proof
 surface
 consider
 manual
 lesson
 stick |  
-| bip_39_word_new_line8 | aware
+| bip_39_word_new_line_8 | aware
 proof
 surface
 consider
@@ -113,7 +113,7 @@ manual
 lesson
 stick
 swear |  
-| bip_39_word_new_line9 | aware
+| bip_39_word_new_line_9 | aware
 proof
 surface
 consider

@@ -1,17 +1,17 @@
-bip_39_word_new_br1: season
-bip_39_word_new_br10: season<br>cash<br>seat<br>earn<br>sunny<br>leisure<br>champion<br>scorpion<br>insect<br>fluid
-bip_39_word_new_br11: season<br>cash<br>seat<br>earn<br>sunny<br>leisure<br>champion<br>scorpion<br>insect<br>fluid<br>slab
-bip_39_word_new_br12: season<br>cash<br>seat<br>earn<br>sunny<br>leisure<br>champion<br>scorpion<br>insect<br>fluid<br>slab<br>absorb
-bip_39_word_new_br2: season<br>cash
-bip_39_word_new_br3: season<br>cash<br>seat
-bip_39_word_new_br4: season<br>cash<br>seat<br>earn
-bip_39_word_new_br5: season<br>cash<br>seat<br>earn<br>sunny
-bip_39_word_new_br6: season<br>cash<br>seat<br>earn<br>sunny<br>leisure
-bip_39_word_new_br7: season<br>cash<br>seat<br>earn<br>sunny<br>leisure<br>champion
-bip_39_word_new_br8: season<br>cash<br>seat<br>earn<br>sunny<br>leisure<br>champion<br>scorpion
-bip_39_word_new_br9: season<br>cash<br>seat<br>earn<br>sunny<br>leisure<br>champion<br>scorpion<br>insect
-bip_39_word_new_line1: season
-bip_39_word_new_line10: 'season
+bip_39_word_new_br_1: season
+bip_39_word_new_br_10: season<br>cash<br>seat<br>earn<br>sunny<br>leisure<br>champion<br>scorpion<br>insect<br>fluid
+bip_39_word_new_br_11: season<br>cash<br>seat<br>earn<br>sunny<br>leisure<br>champion<br>scorpion<br>insect<br>fluid<br>slab
+bip_39_word_new_br_12: season<br>cash<br>seat<br>earn<br>sunny<br>leisure<br>champion<br>scorpion<br>insect<br>fluid<br>slab<br>absorb
+bip_39_word_new_br_2: season<br>cash
+bip_39_word_new_br_3: season<br>cash<br>seat
+bip_39_word_new_br_4: season<br>cash<br>seat<br>earn
+bip_39_word_new_br_5: season<br>cash<br>seat<br>earn<br>sunny
+bip_39_word_new_br_6: season<br>cash<br>seat<br>earn<br>sunny<br>leisure
+bip_39_word_new_br_7: season<br>cash<br>seat<br>earn<br>sunny<br>leisure<br>champion
+bip_39_word_new_br_8: season<br>cash<br>seat<br>earn<br>sunny<br>leisure<br>champion<br>scorpion
+bip_39_word_new_br_9: season<br>cash<br>seat<br>earn<br>sunny<br>leisure<br>champion<br>scorpion<br>insect
+bip_39_word_new_line_1: season
+bip_39_word_new_line_10: 'season
 
   cash
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'season
   insect
 
   fluid'
-bip_39_word_new_line11: 'season
+bip_39_word_new_line_11: 'season
 
   cash
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'season
   fluid
 
   slab'
-bip_39_word_new_line12: 'season
+bip_39_word_new_line_12: 'season
 
   cash
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'season
   slab
 
   absorb'
-bip_39_word_new_line2: 'season
+bip_39_word_new_line_2: 'season
 
   cash'
-bip_39_word_new_line3: 'season
+bip_39_word_new_line_3: 'season
 
   cash
 
   seat'
-bip_39_word_new_line4: 'season
+bip_39_word_new_line_4: 'season
 
   cash
 
   seat
 
   earn'
-bip_39_word_new_line5: 'season
+bip_39_word_new_line_5: 'season
 
   cash
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'season
   earn
 
   sunny'
-bip_39_word_new_line6: 'season
+bip_39_word_new_line_6: 'season
 
   cash
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'season
   sunny
 
   leisure'
-bip_39_word_new_line7: 'season
+bip_39_word_new_line_7: 'season
 
   cash
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'season
   leisure
 
   champion'
-bip_39_word_new_line8: 'season
+bip_39_word_new_line_8: 'season
 
   cash
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'season
   champion
 
   scorpion'
-bip_39_word_new_line9: 'season
+bip_39_word_new_line_9: 'season
 
   cash
 

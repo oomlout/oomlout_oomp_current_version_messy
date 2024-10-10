@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | captain |  
-| bip_39_word_new_br10 | captain<br>family<br>kitchen<br>embody<br>educate<br>evil<br>choice<br>civil<br>tray<br>picnic |  
-| bip_39_word_new_br11 | captain<br>family<br>kitchen<br>embody<br>educate<br>evil<br>choice<br>civil<br>tray<br>picnic<br>left |  
-| bip_39_word_new_br12 | captain<br>family<br>kitchen<br>embody<br>educate<br>evil<br>choice<br>civil<br>tray<br>picnic<br>left<br>amused |  
-| bip_39_word_new_br2 | captain<br>family |  
-| bip_39_word_new_br3 | captain<br>family<br>kitchen |  
-| bip_39_word_new_br4 | captain<br>family<br>kitchen<br>embody |  
-| bip_39_word_new_br5 | captain<br>family<br>kitchen<br>embody<br>educate |  
-| bip_39_word_new_br6 | captain<br>family<br>kitchen<br>embody<br>educate<br>evil |  
-| bip_39_word_new_br7 | captain<br>family<br>kitchen<br>embody<br>educate<br>evil<br>choice |  
-| bip_39_word_new_br8 | captain<br>family<br>kitchen<br>embody<br>educate<br>evil<br>choice<br>civil |  
-| bip_39_word_new_br9 | captain<br>family<br>kitchen<br>embody<br>educate<br>evil<br>choice<br>civil<br>tray |  
-| bip_39_word_new_line1 | captain |  
-| bip_39_word_new_line10 | captain
+| bip_39_word_new_br_1 | captain |  
+| bip_39_word_new_br_10 | captain<br>family<br>kitchen<br>embody<br>educate<br>evil<br>choice<br>civil<br>tray<br>picnic |  
+| bip_39_word_new_br_11 | captain<br>family<br>kitchen<br>embody<br>educate<br>evil<br>choice<br>civil<br>tray<br>picnic<br>left |  
+| bip_39_word_new_br_12 | captain<br>family<br>kitchen<br>embody<br>educate<br>evil<br>choice<br>civil<br>tray<br>picnic<br>left<br>amused |  
+| bip_39_word_new_br_2 | captain<br>family |  
+| bip_39_word_new_br_3 | captain<br>family<br>kitchen |  
+| bip_39_word_new_br_4 | captain<br>family<br>kitchen<br>embody |  
+| bip_39_word_new_br_5 | captain<br>family<br>kitchen<br>embody<br>educate |  
+| bip_39_word_new_br_6 | captain<br>family<br>kitchen<br>embody<br>educate<br>evil |  
+| bip_39_word_new_br_7 | captain<br>family<br>kitchen<br>embody<br>educate<br>evil<br>choice |  
+| bip_39_word_new_br_8 | captain<br>family<br>kitchen<br>embody<br>educate<br>evil<br>choice<br>civil |  
+| bip_39_word_new_br_9 | captain<br>family<br>kitchen<br>embody<br>educate<br>evil<br>choice<br>civil<br>tray |  
+| bip_39_word_new_line_1 | captain |  
+| bip_39_word_new_line_10 | captain
 family
 kitchen
 embody
@@ -55,7 +55,7 @@ choice
 civil
 tray
 picnic |  
-| bip_39_word_new_line11 | captain
+| bip_39_word_new_line_11 | captain
 family
 kitchen
 embody
@@ -66,7 +66,7 @@ civil
 tray
 picnic
 left |  
-| bip_39_word_new_line12 | captain
+| bip_39_word_new_line_12 | captain
 family
 kitchen
 embody
@@ -78,34 +78,34 @@ tray
 picnic
 left
 amused |  
-| bip_39_word_new_line2 | captain
+| bip_39_word_new_line_2 | captain
 family |  
-| bip_39_word_new_line3 | captain
+| bip_39_word_new_line_3 | captain
 family
 kitchen |  
-| bip_39_word_new_line4 | captain
+| bip_39_word_new_line_4 | captain
 family
 kitchen
 embody |  
-| bip_39_word_new_line5 | captain
+| bip_39_word_new_line_5 | captain
 family
 kitchen
 embody
 educate |  
-| bip_39_word_new_line6 | captain
+| bip_39_word_new_line_6 | captain
 family
 kitchen
 embody
 educate
 evil |  
-| bip_39_word_new_line7 | captain
+| bip_39_word_new_line_7 | captain
 family
 kitchen
 embody
 educate
 evil
 choice |  
-| bip_39_word_new_line8 | captain
+| bip_39_word_new_line_8 | captain
 family
 kitchen
 embody
@@ -113,7 +113,7 @@ educate
 evil
 choice
 civil |  
-| bip_39_word_new_line9 | captain
+| bip_39_word_new_line_9 | captain
 family
 kitchen
 embody

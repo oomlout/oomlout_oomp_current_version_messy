@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | deal |  
-| bip_39_word_new_br10 | deal<br>pull<br>core<br>betray<br>analyst<br>school<br>sea<br>like<br>sheriff<br>defy |  
-| bip_39_word_new_br11 | deal<br>pull<br>core<br>betray<br>analyst<br>school<br>sea<br>like<br>sheriff<br>defy<br>dice |  
-| bip_39_word_new_br12 | deal<br>pull<br>core<br>betray<br>analyst<br>school<br>sea<br>like<br>sheriff<br>defy<br>dice<br>amount |  
-| bip_39_word_new_br2 | deal<br>pull |  
-| bip_39_word_new_br3 | deal<br>pull<br>core |  
-| bip_39_word_new_br4 | deal<br>pull<br>core<br>betray |  
-| bip_39_word_new_br5 | deal<br>pull<br>core<br>betray<br>analyst |  
-| bip_39_word_new_br6 | deal<br>pull<br>core<br>betray<br>analyst<br>school |  
-| bip_39_word_new_br7 | deal<br>pull<br>core<br>betray<br>analyst<br>school<br>sea |  
-| bip_39_word_new_br8 | deal<br>pull<br>core<br>betray<br>analyst<br>school<br>sea<br>like |  
-| bip_39_word_new_br9 | deal<br>pull<br>core<br>betray<br>analyst<br>school<br>sea<br>like<br>sheriff |  
-| bip_39_word_new_line1 | deal |  
-| bip_39_word_new_line10 | deal
+| bip_39_word_new_br_1 | deal |  
+| bip_39_word_new_br_10 | deal<br>pull<br>core<br>betray<br>analyst<br>school<br>sea<br>like<br>sheriff<br>defy |  
+| bip_39_word_new_br_11 | deal<br>pull<br>core<br>betray<br>analyst<br>school<br>sea<br>like<br>sheriff<br>defy<br>dice |  
+| bip_39_word_new_br_12 | deal<br>pull<br>core<br>betray<br>analyst<br>school<br>sea<br>like<br>sheriff<br>defy<br>dice<br>amount |  
+| bip_39_word_new_br_2 | deal<br>pull |  
+| bip_39_word_new_br_3 | deal<br>pull<br>core |  
+| bip_39_word_new_br_4 | deal<br>pull<br>core<br>betray |  
+| bip_39_word_new_br_5 | deal<br>pull<br>core<br>betray<br>analyst |  
+| bip_39_word_new_br_6 | deal<br>pull<br>core<br>betray<br>analyst<br>school |  
+| bip_39_word_new_br_7 | deal<br>pull<br>core<br>betray<br>analyst<br>school<br>sea |  
+| bip_39_word_new_br_8 | deal<br>pull<br>core<br>betray<br>analyst<br>school<br>sea<br>like |  
+| bip_39_word_new_br_9 | deal<br>pull<br>core<br>betray<br>analyst<br>school<br>sea<br>like<br>sheriff |  
+| bip_39_word_new_line_1 | deal |  
+| bip_39_word_new_line_10 | deal
 pull
 core
 betray
@@ -55,7 +55,7 @@ sea
 like
 sheriff
 defy |  
-| bip_39_word_new_line11 | deal
+| bip_39_word_new_line_11 | deal
 pull
 core
 betray
@@ -66,7 +66,7 @@ like
 sheriff
 defy
 dice |  
-| bip_39_word_new_line12 | deal
+| bip_39_word_new_line_12 | deal
 pull
 core
 betray
@@ -78,34 +78,34 @@ sheriff
 defy
 dice
 amount |  
-| bip_39_word_new_line2 | deal
+| bip_39_word_new_line_2 | deal
 pull |  
-| bip_39_word_new_line3 | deal
+| bip_39_word_new_line_3 | deal
 pull
 core |  
-| bip_39_word_new_line4 | deal
+| bip_39_word_new_line_4 | deal
 pull
 core
 betray |  
-| bip_39_word_new_line5 | deal
+| bip_39_word_new_line_5 | deal
 pull
 core
 betray
 analyst |  
-| bip_39_word_new_line6 | deal
+| bip_39_word_new_line_6 | deal
 pull
 core
 betray
 analyst
 school |  
-| bip_39_word_new_line7 | deal
+| bip_39_word_new_line_7 | deal
 pull
 core
 betray
 analyst
 school
 sea |  
-| bip_39_word_new_line8 | deal
+| bip_39_word_new_line_8 | deal
 pull
 core
 betray
@@ -113,7 +113,7 @@ analyst
 school
 sea
 like |  
-| bip_39_word_new_line9 | deal
+| bip_39_word_new_line_9 | deal
 pull
 core
 betray

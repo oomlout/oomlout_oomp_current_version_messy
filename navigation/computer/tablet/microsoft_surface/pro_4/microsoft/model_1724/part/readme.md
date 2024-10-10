@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fit |  
-| bip_39_word_new_br10 | fit<br>truck<br>toast<br>cloth<br>coach<br>fragile<br>rely<br>milk<br>hurt<br>catch |  
-| bip_39_word_new_br11 | fit<br>truck<br>toast<br>cloth<br>coach<br>fragile<br>rely<br>milk<br>hurt<br>catch<br>wool |  
-| bip_39_word_new_br12 | fit<br>truck<br>toast<br>cloth<br>coach<br>fragile<br>rely<br>milk<br>hurt<br>catch<br>wool<br>auction |  
-| bip_39_word_new_br2 | fit<br>truck |  
-| bip_39_word_new_br3 | fit<br>truck<br>toast |  
-| bip_39_word_new_br4 | fit<br>truck<br>toast<br>cloth |  
-| bip_39_word_new_br5 | fit<br>truck<br>toast<br>cloth<br>coach |  
-| bip_39_word_new_br6 | fit<br>truck<br>toast<br>cloth<br>coach<br>fragile |  
-| bip_39_word_new_br7 | fit<br>truck<br>toast<br>cloth<br>coach<br>fragile<br>rely |  
-| bip_39_word_new_br8 | fit<br>truck<br>toast<br>cloth<br>coach<br>fragile<br>rely<br>milk |  
-| bip_39_word_new_br9 | fit<br>truck<br>toast<br>cloth<br>coach<br>fragile<br>rely<br>milk<br>hurt |  
-| bip_39_word_new_line1 | fit |  
-| bip_39_word_new_line10 | fit
+| bip_39_word_new_br_1 | fit |  
+| bip_39_word_new_br_10 | fit<br>truck<br>toast<br>cloth<br>coach<br>fragile<br>rely<br>milk<br>hurt<br>catch |  
+| bip_39_word_new_br_11 | fit<br>truck<br>toast<br>cloth<br>coach<br>fragile<br>rely<br>milk<br>hurt<br>catch<br>wool |  
+| bip_39_word_new_br_12 | fit<br>truck<br>toast<br>cloth<br>coach<br>fragile<br>rely<br>milk<br>hurt<br>catch<br>wool<br>auction |  
+| bip_39_word_new_br_2 | fit<br>truck |  
+| bip_39_word_new_br_3 | fit<br>truck<br>toast |  
+| bip_39_word_new_br_4 | fit<br>truck<br>toast<br>cloth |  
+| bip_39_word_new_br_5 | fit<br>truck<br>toast<br>cloth<br>coach |  
+| bip_39_word_new_br_6 | fit<br>truck<br>toast<br>cloth<br>coach<br>fragile |  
+| bip_39_word_new_br_7 | fit<br>truck<br>toast<br>cloth<br>coach<br>fragile<br>rely |  
+| bip_39_word_new_br_8 | fit<br>truck<br>toast<br>cloth<br>coach<br>fragile<br>rely<br>milk |  
+| bip_39_word_new_br_9 | fit<br>truck<br>toast<br>cloth<br>coach<br>fragile<br>rely<br>milk<br>hurt |  
+| bip_39_word_new_line_1 | fit |  
+| bip_39_word_new_line_10 | fit
 truck
 toast
 cloth
@@ -55,7 +55,7 @@ rely
 milk
 hurt
 catch |  
-| bip_39_word_new_line11 | fit
+| bip_39_word_new_line_11 | fit
 truck
 toast
 cloth
@@ -66,7 +66,7 @@ milk
 hurt
 catch
 wool |  
-| bip_39_word_new_line12 | fit
+| bip_39_word_new_line_12 | fit
 truck
 toast
 cloth
@@ -78,34 +78,34 @@ hurt
 catch
 wool
 auction |  
-| bip_39_word_new_line2 | fit
+| bip_39_word_new_line_2 | fit
 truck |  
-| bip_39_word_new_line3 | fit
+| bip_39_word_new_line_3 | fit
 truck
 toast |  
-| bip_39_word_new_line4 | fit
+| bip_39_word_new_line_4 | fit
 truck
 toast
 cloth |  
-| bip_39_word_new_line5 | fit
+| bip_39_word_new_line_5 | fit
 truck
 toast
 cloth
 coach |  
-| bip_39_word_new_line6 | fit
+| bip_39_word_new_line_6 | fit
 truck
 toast
 cloth
 coach
 fragile |  
-| bip_39_word_new_line7 | fit
+| bip_39_word_new_line_7 | fit
 truck
 toast
 cloth
 coach
 fragile
 rely |  
-| bip_39_word_new_line8 | fit
+| bip_39_word_new_line_8 | fit
 truck
 toast
 cloth
@@ -113,7 +113,7 @@ coach
 fragile
 rely
 milk |  
-| bip_39_word_new_line9 | fit
+| bip_39_word_new_line_9 | fit
 truck
 toast
 cloth

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | choice |  
-| bip_39_word_new_br10 | choice<br>region<br>spike<br>romance<br>kick<br>hand<br>burden<br>mule<br>worry<br>sight |  
-| bip_39_word_new_br11 | choice<br>region<br>spike<br>romance<br>kick<br>hand<br>burden<br>mule<br>worry<br>sight<br>post |  
-| bip_39_word_new_br12 | choice<br>region<br>spike<br>romance<br>kick<br>hand<br>burden<br>mule<br>worry<br>sight<br>post<br>add |  
-| bip_39_word_new_br2 | choice<br>region |  
-| bip_39_word_new_br3 | choice<br>region<br>spike |  
-| bip_39_word_new_br4 | choice<br>region<br>spike<br>romance |  
-| bip_39_word_new_br5 | choice<br>region<br>spike<br>romance<br>kick |  
-| bip_39_word_new_br6 | choice<br>region<br>spike<br>romance<br>kick<br>hand |  
-| bip_39_word_new_br7 | choice<br>region<br>spike<br>romance<br>kick<br>hand<br>burden |  
-| bip_39_word_new_br8 | choice<br>region<br>spike<br>romance<br>kick<br>hand<br>burden<br>mule |  
-| bip_39_word_new_br9 | choice<br>region<br>spike<br>romance<br>kick<br>hand<br>burden<br>mule<br>worry |  
-| bip_39_word_new_line1 | choice |  
-| bip_39_word_new_line10 | choice
+| bip_39_word_new_br_1 | choice |  
+| bip_39_word_new_br_10 | choice<br>region<br>spike<br>romance<br>kick<br>hand<br>burden<br>mule<br>worry<br>sight |  
+| bip_39_word_new_br_11 | choice<br>region<br>spike<br>romance<br>kick<br>hand<br>burden<br>mule<br>worry<br>sight<br>post |  
+| bip_39_word_new_br_12 | choice<br>region<br>spike<br>romance<br>kick<br>hand<br>burden<br>mule<br>worry<br>sight<br>post<br>add |  
+| bip_39_word_new_br_2 | choice<br>region |  
+| bip_39_word_new_br_3 | choice<br>region<br>spike |  
+| bip_39_word_new_br_4 | choice<br>region<br>spike<br>romance |  
+| bip_39_word_new_br_5 | choice<br>region<br>spike<br>romance<br>kick |  
+| bip_39_word_new_br_6 | choice<br>region<br>spike<br>romance<br>kick<br>hand |  
+| bip_39_word_new_br_7 | choice<br>region<br>spike<br>romance<br>kick<br>hand<br>burden |  
+| bip_39_word_new_br_8 | choice<br>region<br>spike<br>romance<br>kick<br>hand<br>burden<br>mule |  
+| bip_39_word_new_br_9 | choice<br>region<br>spike<br>romance<br>kick<br>hand<br>burden<br>mule<br>worry |  
+| bip_39_word_new_line_1 | choice |  
+| bip_39_word_new_line_10 | choice
 region
 spike
 romance
@@ -55,7 +55,7 @@ burden
 mule
 worry
 sight |  
-| bip_39_word_new_line11 | choice
+| bip_39_word_new_line_11 | choice
 region
 spike
 romance
@@ -66,7 +66,7 @@ mule
 worry
 sight
 post |  
-| bip_39_word_new_line12 | choice
+| bip_39_word_new_line_12 | choice
 region
 spike
 romance
@@ -78,34 +78,34 @@ worry
 sight
 post
 add |  
-| bip_39_word_new_line2 | choice
+| bip_39_word_new_line_2 | choice
 region |  
-| bip_39_word_new_line3 | choice
+| bip_39_word_new_line_3 | choice
 region
 spike |  
-| bip_39_word_new_line4 | choice
+| bip_39_word_new_line_4 | choice
 region
 spike
 romance |  
-| bip_39_word_new_line5 | choice
+| bip_39_word_new_line_5 | choice
 region
 spike
 romance
 kick |  
-| bip_39_word_new_line6 | choice
+| bip_39_word_new_line_6 | choice
 region
 spike
 romance
 kick
 hand |  
-| bip_39_word_new_line7 | choice
+| bip_39_word_new_line_7 | choice
 region
 spike
 romance
 kick
 hand
 burden |  
-| bip_39_word_new_line8 | choice
+| bip_39_word_new_line_8 | choice
 region
 spike
 romance
@@ -113,7 +113,7 @@ kick
 hand
 burden
 mule |  
-| bip_39_word_new_line9 | choice
+| bip_39_word_new_line_9 | choice
 region
 spike
 romance

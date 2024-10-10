@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | soon |  
-| bip_39_word_new_br10 | soon<br>danger<br>aspect<br>mom<br>almost<br>lecture<br>shell<br>north<br>rose<br>clog |  
-| bip_39_word_new_br11 | soon<br>danger<br>aspect<br>mom<br>almost<br>lecture<br>shell<br>north<br>rose<br>clog<br>resist |  
-| bip_39_word_new_br12 | soon<br>danger<br>aspect<br>mom<br>almost<br>lecture<br>shell<br>north<br>rose<br>clog<br>resist<br>attack |  
-| bip_39_word_new_br2 | soon<br>danger |  
-| bip_39_word_new_br3 | soon<br>danger<br>aspect |  
-| bip_39_word_new_br4 | soon<br>danger<br>aspect<br>mom |  
-| bip_39_word_new_br5 | soon<br>danger<br>aspect<br>mom<br>almost |  
-| bip_39_word_new_br6 | soon<br>danger<br>aspect<br>mom<br>almost<br>lecture |  
-| bip_39_word_new_br7 | soon<br>danger<br>aspect<br>mom<br>almost<br>lecture<br>shell |  
-| bip_39_word_new_br8 | soon<br>danger<br>aspect<br>mom<br>almost<br>lecture<br>shell<br>north |  
-| bip_39_word_new_br9 | soon<br>danger<br>aspect<br>mom<br>almost<br>lecture<br>shell<br>north<br>rose |  
-| bip_39_word_new_line1 | soon |  
-| bip_39_word_new_line10 | soon
+| bip_39_word_new_br_1 | soon |  
+| bip_39_word_new_br_10 | soon<br>danger<br>aspect<br>mom<br>almost<br>lecture<br>shell<br>north<br>rose<br>clog |  
+| bip_39_word_new_br_11 | soon<br>danger<br>aspect<br>mom<br>almost<br>lecture<br>shell<br>north<br>rose<br>clog<br>resist |  
+| bip_39_word_new_br_12 | soon<br>danger<br>aspect<br>mom<br>almost<br>lecture<br>shell<br>north<br>rose<br>clog<br>resist<br>attack |  
+| bip_39_word_new_br_2 | soon<br>danger |  
+| bip_39_word_new_br_3 | soon<br>danger<br>aspect |  
+| bip_39_word_new_br_4 | soon<br>danger<br>aspect<br>mom |  
+| bip_39_word_new_br_5 | soon<br>danger<br>aspect<br>mom<br>almost |  
+| bip_39_word_new_br_6 | soon<br>danger<br>aspect<br>mom<br>almost<br>lecture |  
+| bip_39_word_new_br_7 | soon<br>danger<br>aspect<br>mom<br>almost<br>lecture<br>shell |  
+| bip_39_word_new_br_8 | soon<br>danger<br>aspect<br>mom<br>almost<br>lecture<br>shell<br>north |  
+| bip_39_word_new_br_9 | soon<br>danger<br>aspect<br>mom<br>almost<br>lecture<br>shell<br>north<br>rose |  
+| bip_39_word_new_line_1 | soon |  
+| bip_39_word_new_line_10 | soon
 danger
 aspect
 mom
@@ -55,7 +55,7 @@ shell
 north
 rose
 clog |  
-| bip_39_word_new_line11 | soon
+| bip_39_word_new_line_11 | soon
 danger
 aspect
 mom
@@ -66,7 +66,7 @@ north
 rose
 clog
 resist |  
-| bip_39_word_new_line12 | soon
+| bip_39_word_new_line_12 | soon
 danger
 aspect
 mom
@@ -78,34 +78,34 @@ rose
 clog
 resist
 attack |  
-| bip_39_word_new_line2 | soon
+| bip_39_word_new_line_2 | soon
 danger |  
-| bip_39_word_new_line3 | soon
+| bip_39_word_new_line_3 | soon
 danger
 aspect |  
-| bip_39_word_new_line4 | soon
+| bip_39_word_new_line_4 | soon
 danger
 aspect
 mom |  
-| bip_39_word_new_line5 | soon
+| bip_39_word_new_line_5 | soon
 danger
 aspect
 mom
 almost |  
-| bip_39_word_new_line6 | soon
+| bip_39_word_new_line_6 | soon
 danger
 aspect
 mom
 almost
 lecture |  
-| bip_39_word_new_line7 | soon
+| bip_39_word_new_line_7 | soon
 danger
 aspect
 mom
 almost
 lecture
 shell |  
-| bip_39_word_new_line8 | soon
+| bip_39_word_new_line_8 | soon
 danger
 aspect
 mom
@@ -113,7 +113,7 @@ almost
 lecture
 shell
 north |  
-| bip_39_word_new_line9 | soon
+| bip_39_word_new_line_9 | soon
 danger
 aspect
 mom

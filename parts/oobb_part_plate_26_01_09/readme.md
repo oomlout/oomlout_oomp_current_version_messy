@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | stomach |  
-| bip_39_word_new_br10 | stomach<br>bless<br>core<br>physical<br>merit<br>hamster<br>method<br>swim<br>choose<br>sort |  
-| bip_39_word_new_br11 | stomach<br>bless<br>core<br>physical<br>merit<br>hamster<br>method<br>swim<br>choose<br>sort<br>similar |  
-| bip_39_word_new_br12 | stomach<br>bless<br>core<br>physical<br>merit<br>hamster<br>method<br>swim<br>choose<br>sort<br>similar<br>access |  
-| bip_39_word_new_br2 | stomach<br>bless |  
-| bip_39_word_new_br3 | stomach<br>bless<br>core |  
-| bip_39_word_new_br4 | stomach<br>bless<br>core<br>physical |  
-| bip_39_word_new_br5 | stomach<br>bless<br>core<br>physical<br>merit |  
-| bip_39_word_new_br6 | stomach<br>bless<br>core<br>physical<br>merit<br>hamster |  
-| bip_39_word_new_br7 | stomach<br>bless<br>core<br>physical<br>merit<br>hamster<br>method |  
-| bip_39_word_new_br8 | stomach<br>bless<br>core<br>physical<br>merit<br>hamster<br>method<br>swim |  
-| bip_39_word_new_br9 | stomach<br>bless<br>core<br>physical<br>merit<br>hamster<br>method<br>swim<br>choose |  
-| bip_39_word_new_line1 | stomach |  
-| bip_39_word_new_line10 | stomach
+| bip_39_word_new_br_1 | stomach |  
+| bip_39_word_new_br_10 | stomach<br>bless<br>core<br>physical<br>merit<br>hamster<br>method<br>swim<br>choose<br>sort |  
+| bip_39_word_new_br_11 | stomach<br>bless<br>core<br>physical<br>merit<br>hamster<br>method<br>swim<br>choose<br>sort<br>similar |  
+| bip_39_word_new_br_12 | stomach<br>bless<br>core<br>physical<br>merit<br>hamster<br>method<br>swim<br>choose<br>sort<br>similar<br>access |  
+| bip_39_word_new_br_2 | stomach<br>bless |  
+| bip_39_word_new_br_3 | stomach<br>bless<br>core |  
+| bip_39_word_new_br_4 | stomach<br>bless<br>core<br>physical |  
+| bip_39_word_new_br_5 | stomach<br>bless<br>core<br>physical<br>merit |  
+| bip_39_word_new_br_6 | stomach<br>bless<br>core<br>physical<br>merit<br>hamster |  
+| bip_39_word_new_br_7 | stomach<br>bless<br>core<br>physical<br>merit<br>hamster<br>method |  
+| bip_39_word_new_br_8 | stomach<br>bless<br>core<br>physical<br>merit<br>hamster<br>method<br>swim |  
+| bip_39_word_new_br_9 | stomach<br>bless<br>core<br>physical<br>merit<br>hamster<br>method<br>swim<br>choose |  
+| bip_39_word_new_line_1 | stomach |  
+| bip_39_word_new_line_10 | stomach
 bless
 core
 physical
@@ -55,7 +55,7 @@ method
 swim
 choose
 sort |  
-| bip_39_word_new_line11 | stomach
+| bip_39_word_new_line_11 | stomach
 bless
 core
 physical
@@ -66,7 +66,7 @@ swim
 choose
 sort
 similar |  
-| bip_39_word_new_line12 | stomach
+| bip_39_word_new_line_12 | stomach
 bless
 core
 physical
@@ -78,34 +78,34 @@ choose
 sort
 similar
 access |  
-| bip_39_word_new_line2 | stomach
+| bip_39_word_new_line_2 | stomach
 bless |  
-| bip_39_word_new_line3 | stomach
+| bip_39_word_new_line_3 | stomach
 bless
 core |  
-| bip_39_word_new_line4 | stomach
+| bip_39_word_new_line_4 | stomach
 bless
 core
 physical |  
-| bip_39_word_new_line5 | stomach
+| bip_39_word_new_line_5 | stomach
 bless
 core
 physical
 merit |  
-| bip_39_word_new_line6 | stomach
+| bip_39_word_new_line_6 | stomach
 bless
 core
 physical
 merit
 hamster |  
-| bip_39_word_new_line7 | stomach
+| bip_39_word_new_line_7 | stomach
 bless
 core
 physical
 merit
 hamster
 method |  
-| bip_39_word_new_line8 | stomach
+| bip_39_word_new_line_8 | stomach
 bless
 core
 physical
@@ -113,7 +113,7 @@ merit
 hamster
 method
 swim |  
-| bip_39_word_new_line9 | stomach
+| bip_39_word_new_line_9 | stomach
 bless
 core
 physical

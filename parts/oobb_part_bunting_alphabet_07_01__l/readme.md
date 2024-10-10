@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | country |  
-| bip_39_word_new_br10 | country<br>treat<br>carry<br>warrior<br>address<br>hire<br>illegal<br>wait<br>rather<br>method |  
-| bip_39_word_new_br11 | country<br>treat<br>carry<br>warrior<br>address<br>hire<br>illegal<br>wait<br>rather<br>method<br>mask |  
-| bip_39_word_new_br12 | country<br>treat<br>carry<br>warrior<br>address<br>hire<br>illegal<br>wait<br>rather<br>method<br>mask<br>artist |  
-| bip_39_word_new_br2 | country<br>treat |  
-| bip_39_word_new_br3 | country<br>treat<br>carry |  
-| bip_39_word_new_br4 | country<br>treat<br>carry<br>warrior |  
-| bip_39_word_new_br5 | country<br>treat<br>carry<br>warrior<br>address |  
-| bip_39_word_new_br6 | country<br>treat<br>carry<br>warrior<br>address<br>hire |  
-| bip_39_word_new_br7 | country<br>treat<br>carry<br>warrior<br>address<br>hire<br>illegal |  
-| bip_39_word_new_br8 | country<br>treat<br>carry<br>warrior<br>address<br>hire<br>illegal<br>wait |  
-| bip_39_word_new_br9 | country<br>treat<br>carry<br>warrior<br>address<br>hire<br>illegal<br>wait<br>rather |  
-| bip_39_word_new_line1 | country |  
-| bip_39_word_new_line10 | country
+| bip_39_word_new_br_1 | country |  
+| bip_39_word_new_br_10 | country<br>treat<br>carry<br>warrior<br>address<br>hire<br>illegal<br>wait<br>rather<br>method |  
+| bip_39_word_new_br_11 | country<br>treat<br>carry<br>warrior<br>address<br>hire<br>illegal<br>wait<br>rather<br>method<br>mask |  
+| bip_39_word_new_br_12 | country<br>treat<br>carry<br>warrior<br>address<br>hire<br>illegal<br>wait<br>rather<br>method<br>mask<br>artist |  
+| bip_39_word_new_br_2 | country<br>treat |  
+| bip_39_word_new_br_3 | country<br>treat<br>carry |  
+| bip_39_word_new_br_4 | country<br>treat<br>carry<br>warrior |  
+| bip_39_word_new_br_5 | country<br>treat<br>carry<br>warrior<br>address |  
+| bip_39_word_new_br_6 | country<br>treat<br>carry<br>warrior<br>address<br>hire |  
+| bip_39_word_new_br_7 | country<br>treat<br>carry<br>warrior<br>address<br>hire<br>illegal |  
+| bip_39_word_new_br_8 | country<br>treat<br>carry<br>warrior<br>address<br>hire<br>illegal<br>wait |  
+| bip_39_word_new_br_9 | country<br>treat<br>carry<br>warrior<br>address<br>hire<br>illegal<br>wait<br>rather |  
+| bip_39_word_new_line_1 | country |  
+| bip_39_word_new_line_10 | country
 treat
 carry
 warrior
@@ -55,7 +55,7 @@ illegal
 wait
 rather
 method |  
-| bip_39_word_new_line11 | country
+| bip_39_word_new_line_11 | country
 treat
 carry
 warrior
@@ -66,7 +66,7 @@ wait
 rather
 method
 mask |  
-| bip_39_word_new_line12 | country
+| bip_39_word_new_line_12 | country
 treat
 carry
 warrior
@@ -78,34 +78,34 @@ rather
 method
 mask
 artist |  
-| bip_39_word_new_line2 | country
+| bip_39_word_new_line_2 | country
 treat |  
-| bip_39_word_new_line3 | country
+| bip_39_word_new_line_3 | country
 treat
 carry |  
-| bip_39_word_new_line4 | country
+| bip_39_word_new_line_4 | country
 treat
 carry
 warrior |  
-| bip_39_word_new_line5 | country
+| bip_39_word_new_line_5 | country
 treat
 carry
 warrior
 address |  
-| bip_39_word_new_line6 | country
+| bip_39_word_new_line_6 | country
 treat
 carry
 warrior
 address
 hire |  
-| bip_39_word_new_line7 | country
+| bip_39_word_new_line_7 | country
 treat
 carry
 warrior
 address
 hire
 illegal |  
-| bip_39_word_new_line8 | country
+| bip_39_word_new_line_8 | country
 treat
 carry
 warrior
@@ -113,7 +113,7 @@ address
 hire
 illegal
 wait |  
-| bip_39_word_new_line9 | country
+| bip_39_word_new_line_9 | country
 treat
 carry
 warrior

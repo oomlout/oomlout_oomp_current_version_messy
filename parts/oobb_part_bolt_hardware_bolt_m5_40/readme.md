@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | venue |  
-| bip_39_word_new_br10 | venue<br>since<br>avoid<br>exclude<br>minute<br>used<br>crew<br>sweet<br>live<br>foil |  
-| bip_39_word_new_br11 | venue<br>since<br>avoid<br>exclude<br>minute<br>used<br>crew<br>sweet<br>live<br>foil<br>pool |  
-| bip_39_word_new_br12 | venue<br>since<br>avoid<br>exclude<br>minute<br>used<br>crew<br>sweet<br>live<br>foil<br>pool<br>arch |  
-| bip_39_word_new_br2 | venue<br>since |  
-| bip_39_word_new_br3 | venue<br>since<br>avoid |  
-| bip_39_word_new_br4 | venue<br>since<br>avoid<br>exclude |  
-| bip_39_word_new_br5 | venue<br>since<br>avoid<br>exclude<br>minute |  
-| bip_39_word_new_br6 | venue<br>since<br>avoid<br>exclude<br>minute<br>used |  
-| bip_39_word_new_br7 | venue<br>since<br>avoid<br>exclude<br>minute<br>used<br>crew |  
-| bip_39_word_new_br8 | venue<br>since<br>avoid<br>exclude<br>minute<br>used<br>crew<br>sweet |  
-| bip_39_word_new_br9 | venue<br>since<br>avoid<br>exclude<br>minute<br>used<br>crew<br>sweet<br>live |  
-| bip_39_word_new_line1 | venue |  
-| bip_39_word_new_line10 | venue
+| bip_39_word_new_br_1 | venue |  
+| bip_39_word_new_br_10 | venue<br>since<br>avoid<br>exclude<br>minute<br>used<br>crew<br>sweet<br>live<br>foil |  
+| bip_39_word_new_br_11 | venue<br>since<br>avoid<br>exclude<br>minute<br>used<br>crew<br>sweet<br>live<br>foil<br>pool |  
+| bip_39_word_new_br_12 | venue<br>since<br>avoid<br>exclude<br>minute<br>used<br>crew<br>sweet<br>live<br>foil<br>pool<br>arch |  
+| bip_39_word_new_br_2 | venue<br>since |  
+| bip_39_word_new_br_3 | venue<br>since<br>avoid |  
+| bip_39_word_new_br_4 | venue<br>since<br>avoid<br>exclude |  
+| bip_39_word_new_br_5 | venue<br>since<br>avoid<br>exclude<br>minute |  
+| bip_39_word_new_br_6 | venue<br>since<br>avoid<br>exclude<br>minute<br>used |  
+| bip_39_word_new_br_7 | venue<br>since<br>avoid<br>exclude<br>minute<br>used<br>crew |  
+| bip_39_word_new_br_8 | venue<br>since<br>avoid<br>exclude<br>minute<br>used<br>crew<br>sweet |  
+| bip_39_word_new_br_9 | venue<br>since<br>avoid<br>exclude<br>minute<br>used<br>crew<br>sweet<br>live |  
+| bip_39_word_new_line_1 | venue |  
+| bip_39_word_new_line_10 | venue
 since
 avoid
 exclude
@@ -55,7 +55,7 @@ crew
 sweet
 live
 foil |  
-| bip_39_word_new_line11 | venue
+| bip_39_word_new_line_11 | venue
 since
 avoid
 exclude
@@ -66,7 +66,7 @@ sweet
 live
 foil
 pool |  
-| bip_39_word_new_line12 | venue
+| bip_39_word_new_line_12 | venue
 since
 avoid
 exclude
@@ -78,34 +78,34 @@ live
 foil
 pool
 arch |  
-| bip_39_word_new_line2 | venue
+| bip_39_word_new_line_2 | venue
 since |  
-| bip_39_word_new_line3 | venue
+| bip_39_word_new_line_3 | venue
 since
 avoid |  
-| bip_39_word_new_line4 | venue
+| bip_39_word_new_line_4 | venue
 since
 avoid
 exclude |  
-| bip_39_word_new_line5 | venue
+| bip_39_word_new_line_5 | venue
 since
 avoid
 exclude
 minute |  
-| bip_39_word_new_line6 | venue
+| bip_39_word_new_line_6 | venue
 since
 avoid
 exclude
 minute
 used |  
-| bip_39_word_new_line7 | venue
+| bip_39_word_new_line_7 | venue
 since
 avoid
 exclude
 minute
 used
 crew |  
-| bip_39_word_new_line8 | venue
+| bip_39_word_new_line_8 | venue
 since
 avoid
 exclude
@@ -113,7 +113,7 @@ minute
 used
 crew
 sweet |  
-| bip_39_word_new_line9 | venue
+| bip_39_word_new_line_9 | venue
 since
 avoid
 exclude

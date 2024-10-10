@@ -1,17 +1,17 @@
-bip_39_word_new_br1: soccer
-bip_39_word_new_br10: soccer<br>team<br>pretty<br>trouble<br>embody<br>swamp<br>immune<br>silent<br>satisfy<br>coyote
-bip_39_word_new_br11: soccer<br>team<br>pretty<br>trouble<br>embody<br>swamp<br>immune<br>silent<br>satisfy<br>coyote<br>tent
-bip_39_word_new_br12: soccer<br>team<br>pretty<br>trouble<br>embody<br>swamp<br>immune<br>silent<br>satisfy<br>coyote<br>tent<br>arrange
-bip_39_word_new_br2: soccer<br>team
-bip_39_word_new_br3: soccer<br>team<br>pretty
-bip_39_word_new_br4: soccer<br>team<br>pretty<br>trouble
-bip_39_word_new_br5: soccer<br>team<br>pretty<br>trouble<br>embody
-bip_39_word_new_br6: soccer<br>team<br>pretty<br>trouble<br>embody<br>swamp
-bip_39_word_new_br7: soccer<br>team<br>pretty<br>trouble<br>embody<br>swamp<br>immune
-bip_39_word_new_br8: soccer<br>team<br>pretty<br>trouble<br>embody<br>swamp<br>immune<br>silent
-bip_39_word_new_br9: soccer<br>team<br>pretty<br>trouble<br>embody<br>swamp<br>immune<br>silent<br>satisfy
-bip_39_word_new_line1: soccer
-bip_39_word_new_line10: 'soccer
+bip_39_word_new_br_1: soccer
+bip_39_word_new_br_10: soccer<br>team<br>pretty<br>trouble<br>embody<br>swamp<br>immune<br>silent<br>satisfy<br>coyote
+bip_39_word_new_br_11: soccer<br>team<br>pretty<br>trouble<br>embody<br>swamp<br>immune<br>silent<br>satisfy<br>coyote<br>tent
+bip_39_word_new_br_12: soccer<br>team<br>pretty<br>trouble<br>embody<br>swamp<br>immune<br>silent<br>satisfy<br>coyote<br>tent<br>arrange
+bip_39_word_new_br_2: soccer<br>team
+bip_39_word_new_br_3: soccer<br>team<br>pretty
+bip_39_word_new_br_4: soccer<br>team<br>pretty<br>trouble
+bip_39_word_new_br_5: soccer<br>team<br>pretty<br>trouble<br>embody
+bip_39_word_new_br_6: soccer<br>team<br>pretty<br>trouble<br>embody<br>swamp
+bip_39_word_new_br_7: soccer<br>team<br>pretty<br>trouble<br>embody<br>swamp<br>immune
+bip_39_word_new_br_8: soccer<br>team<br>pretty<br>trouble<br>embody<br>swamp<br>immune<br>silent
+bip_39_word_new_br_9: soccer<br>team<br>pretty<br>trouble<br>embody<br>swamp<br>immune<br>silent<br>satisfy
+bip_39_word_new_line_1: soccer
+bip_39_word_new_line_10: 'soccer
 
   team
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'soccer
   satisfy
 
   coyote'
-bip_39_word_new_line11: 'soccer
+bip_39_word_new_line_11: 'soccer
 
   team
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'soccer
   coyote
 
   tent'
-bip_39_word_new_line12: 'soccer
+bip_39_word_new_line_12: 'soccer
 
   team
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'soccer
   tent
 
   arrange'
-bip_39_word_new_line2: 'soccer
+bip_39_word_new_line_2: 'soccer
 
   team'
-bip_39_word_new_line3: 'soccer
+bip_39_word_new_line_3: 'soccer
 
   team
 
   pretty'
-bip_39_word_new_line4: 'soccer
+bip_39_word_new_line_4: 'soccer
 
   team
 
   pretty
 
   trouble'
-bip_39_word_new_line5: 'soccer
+bip_39_word_new_line_5: 'soccer
 
   team
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'soccer
   trouble
 
   embody'
-bip_39_word_new_line6: 'soccer
+bip_39_word_new_line_6: 'soccer
 
   team
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'soccer
   embody
 
   swamp'
-bip_39_word_new_line7: 'soccer
+bip_39_word_new_line_7: 'soccer
 
   team
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'soccer
   swamp
 
   immune'
-bip_39_word_new_line8: 'soccer
+bip_39_word_new_line_8: 'soccer
 
   team
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'soccer
   immune
 
   silent'
-bip_39_word_new_line9: 'soccer
+bip_39_word_new_line_9: 'soccer
 
   team
 

@@ -1,17 +1,17 @@
-bip_39_word_new_br1: afraid
-bip_39_word_new_br10: afraid<br>child<br>giggle<br>awesome<br>safe<br>demise<br>refuse<br>where<br>glow<br>chapter
-bip_39_word_new_br11: afraid<br>child<br>giggle<br>awesome<br>safe<br>demise<br>refuse<br>where<br>glow<br>chapter<br>pioneer
-bip_39_word_new_br12: afraid<br>child<br>giggle<br>awesome<br>safe<br>demise<br>refuse<br>where<br>glow<br>chapter<br>pioneer<br>amateur
-bip_39_word_new_br2: afraid<br>child
-bip_39_word_new_br3: afraid<br>child<br>giggle
-bip_39_word_new_br4: afraid<br>child<br>giggle<br>awesome
-bip_39_word_new_br5: afraid<br>child<br>giggle<br>awesome<br>safe
-bip_39_word_new_br6: afraid<br>child<br>giggle<br>awesome<br>safe<br>demise
-bip_39_word_new_br7: afraid<br>child<br>giggle<br>awesome<br>safe<br>demise<br>refuse
-bip_39_word_new_br8: afraid<br>child<br>giggle<br>awesome<br>safe<br>demise<br>refuse<br>where
-bip_39_word_new_br9: afraid<br>child<br>giggle<br>awesome<br>safe<br>demise<br>refuse<br>where<br>glow
-bip_39_word_new_line1: afraid
-bip_39_word_new_line10: 'afraid
+bip_39_word_new_br_1: afraid
+bip_39_word_new_br_10: afraid<br>child<br>giggle<br>awesome<br>safe<br>demise<br>refuse<br>where<br>glow<br>chapter
+bip_39_word_new_br_11: afraid<br>child<br>giggle<br>awesome<br>safe<br>demise<br>refuse<br>where<br>glow<br>chapter<br>pioneer
+bip_39_word_new_br_12: afraid<br>child<br>giggle<br>awesome<br>safe<br>demise<br>refuse<br>where<br>glow<br>chapter<br>pioneer<br>amateur
+bip_39_word_new_br_2: afraid<br>child
+bip_39_word_new_br_3: afraid<br>child<br>giggle
+bip_39_word_new_br_4: afraid<br>child<br>giggle<br>awesome
+bip_39_word_new_br_5: afraid<br>child<br>giggle<br>awesome<br>safe
+bip_39_word_new_br_6: afraid<br>child<br>giggle<br>awesome<br>safe<br>demise
+bip_39_word_new_br_7: afraid<br>child<br>giggle<br>awesome<br>safe<br>demise<br>refuse
+bip_39_word_new_br_8: afraid<br>child<br>giggle<br>awesome<br>safe<br>demise<br>refuse<br>where
+bip_39_word_new_br_9: afraid<br>child<br>giggle<br>awesome<br>safe<br>demise<br>refuse<br>where<br>glow
+bip_39_word_new_line_1: afraid
+bip_39_word_new_line_10: 'afraid
 
   child
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'afraid
   glow
 
   chapter'
-bip_39_word_new_line11: 'afraid
+bip_39_word_new_line_11: 'afraid
 
   child
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'afraid
   chapter
 
   pioneer'
-bip_39_word_new_line12: 'afraid
+bip_39_word_new_line_12: 'afraid
 
   child
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'afraid
   pioneer
 
   amateur'
-bip_39_word_new_line2: 'afraid
+bip_39_word_new_line_2: 'afraid
 
   child'
-bip_39_word_new_line3: 'afraid
+bip_39_word_new_line_3: 'afraid
 
   child
 
   giggle'
-bip_39_word_new_line4: 'afraid
+bip_39_word_new_line_4: 'afraid
 
   child
 
   giggle
 
   awesome'
-bip_39_word_new_line5: 'afraid
+bip_39_word_new_line_5: 'afraid
 
   child
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'afraid
   awesome
 
   safe'
-bip_39_word_new_line6: 'afraid
+bip_39_word_new_line_6: 'afraid
 
   child
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'afraid
   safe
 
   demise'
-bip_39_word_new_line7: 'afraid
+bip_39_word_new_line_7: 'afraid
 
   child
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'afraid
   demise
 
   refuse'
-bip_39_word_new_line8: 'afraid
+bip_39_word_new_line_8: 'afraid
 
   child
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'afraid
   refuse
 
   where'
-bip_39_word_new_line9: 'afraid
+bip_39_word_new_line_9: 'afraid
 
   child
 

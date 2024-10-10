@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | near |  
-| bip_39_word_new_br10 | near<br>shrug<br>immense<br>mistake<br>select<br>clock<br>basic<br>supreme<br>east<br>sting |  
-| bip_39_word_new_br11 | near<br>shrug<br>immense<br>mistake<br>select<br>clock<br>basic<br>supreme<br>east<br>sting<br>banana |  
-| bip_39_word_new_br12 | near<br>shrug<br>immense<br>mistake<br>select<br>clock<br>basic<br>supreme<br>east<br>sting<br>banana<br>avocado |  
-| bip_39_word_new_br2 | near<br>shrug |  
-| bip_39_word_new_br3 | near<br>shrug<br>immense |  
-| bip_39_word_new_br4 | near<br>shrug<br>immense<br>mistake |  
-| bip_39_word_new_br5 | near<br>shrug<br>immense<br>mistake<br>select |  
-| bip_39_word_new_br6 | near<br>shrug<br>immense<br>mistake<br>select<br>clock |  
-| bip_39_word_new_br7 | near<br>shrug<br>immense<br>mistake<br>select<br>clock<br>basic |  
-| bip_39_word_new_br8 | near<br>shrug<br>immense<br>mistake<br>select<br>clock<br>basic<br>supreme |  
-| bip_39_word_new_br9 | near<br>shrug<br>immense<br>mistake<br>select<br>clock<br>basic<br>supreme<br>east |  
-| bip_39_word_new_line1 | near |  
-| bip_39_word_new_line10 | near
+| bip_39_word_new_br_1 | near |  
+| bip_39_word_new_br_10 | near<br>shrug<br>immense<br>mistake<br>select<br>clock<br>basic<br>supreme<br>east<br>sting |  
+| bip_39_word_new_br_11 | near<br>shrug<br>immense<br>mistake<br>select<br>clock<br>basic<br>supreme<br>east<br>sting<br>banana |  
+| bip_39_word_new_br_12 | near<br>shrug<br>immense<br>mistake<br>select<br>clock<br>basic<br>supreme<br>east<br>sting<br>banana<br>avocado |  
+| bip_39_word_new_br_2 | near<br>shrug |  
+| bip_39_word_new_br_3 | near<br>shrug<br>immense |  
+| bip_39_word_new_br_4 | near<br>shrug<br>immense<br>mistake |  
+| bip_39_word_new_br_5 | near<br>shrug<br>immense<br>mistake<br>select |  
+| bip_39_word_new_br_6 | near<br>shrug<br>immense<br>mistake<br>select<br>clock |  
+| bip_39_word_new_br_7 | near<br>shrug<br>immense<br>mistake<br>select<br>clock<br>basic |  
+| bip_39_word_new_br_8 | near<br>shrug<br>immense<br>mistake<br>select<br>clock<br>basic<br>supreme |  
+| bip_39_word_new_br_9 | near<br>shrug<br>immense<br>mistake<br>select<br>clock<br>basic<br>supreme<br>east |  
+| bip_39_word_new_line_1 | near |  
+| bip_39_word_new_line_10 | near
 shrug
 immense
 mistake
@@ -55,7 +55,7 @@ basic
 supreme
 east
 sting |  
-| bip_39_word_new_line11 | near
+| bip_39_word_new_line_11 | near
 shrug
 immense
 mistake
@@ -66,7 +66,7 @@ supreme
 east
 sting
 banana |  
-| bip_39_word_new_line12 | near
+| bip_39_word_new_line_12 | near
 shrug
 immense
 mistake
@@ -78,34 +78,34 @@ east
 sting
 banana
 avocado |  
-| bip_39_word_new_line2 | near
+| bip_39_word_new_line_2 | near
 shrug |  
-| bip_39_word_new_line3 | near
+| bip_39_word_new_line_3 | near
 shrug
 immense |  
-| bip_39_word_new_line4 | near
+| bip_39_word_new_line_4 | near
 shrug
 immense
 mistake |  
-| bip_39_word_new_line5 | near
+| bip_39_word_new_line_5 | near
 shrug
 immense
 mistake
 select |  
-| bip_39_word_new_line6 | near
+| bip_39_word_new_line_6 | near
 shrug
 immense
 mistake
 select
 clock |  
-| bip_39_word_new_line7 | near
+| bip_39_word_new_line_7 | near
 shrug
 immense
 mistake
 select
 clock
 basic |  
-| bip_39_word_new_line8 | near
+| bip_39_word_new_line_8 | near
 shrug
 immense
 mistake
@@ -113,7 +113,7 @@ select
 clock
 basic
 supreme |  
-| bip_39_word_new_line9 | near
+| bip_39_word_new_line_9 | near
 shrug
 immense
 mistake

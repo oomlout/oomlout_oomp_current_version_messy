@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | couple |  
-| bip_39_word_new_br10 | couple<br>very<br>broccoli<br>bacon<br>remove<br>job<br>glue<br>course<br>emotion<br>innocent |  
-| bip_39_word_new_br11 | couple<br>very<br>broccoli<br>bacon<br>remove<br>job<br>glue<br>course<br>emotion<br>innocent<br>mask |  
-| bip_39_word_new_br12 | couple<br>very<br>broccoli<br>bacon<br>remove<br>job<br>glue<br>course<br>emotion<br>innocent<br>mask<br>another |  
-| bip_39_word_new_br2 | couple<br>very |  
-| bip_39_word_new_br3 | couple<br>very<br>broccoli |  
-| bip_39_word_new_br4 | couple<br>very<br>broccoli<br>bacon |  
-| bip_39_word_new_br5 | couple<br>very<br>broccoli<br>bacon<br>remove |  
-| bip_39_word_new_br6 | couple<br>very<br>broccoli<br>bacon<br>remove<br>job |  
-| bip_39_word_new_br7 | couple<br>very<br>broccoli<br>bacon<br>remove<br>job<br>glue |  
-| bip_39_word_new_br8 | couple<br>very<br>broccoli<br>bacon<br>remove<br>job<br>glue<br>course |  
-| bip_39_word_new_br9 | couple<br>very<br>broccoli<br>bacon<br>remove<br>job<br>glue<br>course<br>emotion |  
-| bip_39_word_new_line1 | couple |  
-| bip_39_word_new_line10 | couple
+| bip_39_word_new_br_1 | couple |  
+| bip_39_word_new_br_10 | couple<br>very<br>broccoli<br>bacon<br>remove<br>job<br>glue<br>course<br>emotion<br>innocent |  
+| bip_39_word_new_br_11 | couple<br>very<br>broccoli<br>bacon<br>remove<br>job<br>glue<br>course<br>emotion<br>innocent<br>mask |  
+| bip_39_word_new_br_12 | couple<br>very<br>broccoli<br>bacon<br>remove<br>job<br>glue<br>course<br>emotion<br>innocent<br>mask<br>another |  
+| bip_39_word_new_br_2 | couple<br>very |  
+| bip_39_word_new_br_3 | couple<br>very<br>broccoli |  
+| bip_39_word_new_br_4 | couple<br>very<br>broccoli<br>bacon |  
+| bip_39_word_new_br_5 | couple<br>very<br>broccoli<br>bacon<br>remove |  
+| bip_39_word_new_br_6 | couple<br>very<br>broccoli<br>bacon<br>remove<br>job |  
+| bip_39_word_new_br_7 | couple<br>very<br>broccoli<br>bacon<br>remove<br>job<br>glue |  
+| bip_39_word_new_br_8 | couple<br>very<br>broccoli<br>bacon<br>remove<br>job<br>glue<br>course |  
+| bip_39_word_new_br_9 | couple<br>very<br>broccoli<br>bacon<br>remove<br>job<br>glue<br>course<br>emotion |  
+| bip_39_word_new_line_1 | couple |  
+| bip_39_word_new_line_10 | couple
 very
 broccoli
 bacon
@@ -55,7 +55,7 @@ glue
 course
 emotion
 innocent |  
-| bip_39_word_new_line11 | couple
+| bip_39_word_new_line_11 | couple
 very
 broccoli
 bacon
@@ -66,7 +66,7 @@ course
 emotion
 innocent
 mask |  
-| bip_39_word_new_line12 | couple
+| bip_39_word_new_line_12 | couple
 very
 broccoli
 bacon
@@ -78,34 +78,34 @@ emotion
 innocent
 mask
 another |  
-| bip_39_word_new_line2 | couple
+| bip_39_word_new_line_2 | couple
 very |  
-| bip_39_word_new_line3 | couple
+| bip_39_word_new_line_3 | couple
 very
 broccoli |  
-| bip_39_word_new_line4 | couple
+| bip_39_word_new_line_4 | couple
 very
 broccoli
 bacon |  
-| bip_39_word_new_line5 | couple
+| bip_39_word_new_line_5 | couple
 very
 broccoli
 bacon
 remove |  
-| bip_39_word_new_line6 | couple
+| bip_39_word_new_line_6 | couple
 very
 broccoli
 bacon
 remove
 job |  
-| bip_39_word_new_line7 | couple
+| bip_39_word_new_line_7 | couple
 very
 broccoli
 bacon
 remove
 job
 glue |  
-| bip_39_word_new_line8 | couple
+| bip_39_word_new_line_8 | couple
 very
 broccoli
 bacon
@@ -113,7 +113,7 @@ remove
 job
 glue
 course |  
-| bip_39_word_new_line9 | couple
+| bip_39_word_new_line_9 | couple
 very
 broccoli
 bacon

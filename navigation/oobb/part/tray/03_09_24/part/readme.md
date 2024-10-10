@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | base |  
-| bip_39_word_new_br10 | base<br>order<br>drum<br>slush<br>spot<br>three<br>chief<br>uncle<br>amateur<br>defy |  
-| bip_39_word_new_br11 | base<br>order<br>drum<br>slush<br>spot<br>three<br>chief<br>uncle<br>amateur<br>defy<br>sniff |  
-| bip_39_word_new_br12 | base<br>order<br>drum<br>slush<br>spot<br>three<br>chief<br>uncle<br>amateur<br>defy<br>sniff<br>actress |  
-| bip_39_word_new_br2 | base<br>order |  
-| bip_39_word_new_br3 | base<br>order<br>drum |  
-| bip_39_word_new_br4 | base<br>order<br>drum<br>slush |  
-| bip_39_word_new_br5 | base<br>order<br>drum<br>slush<br>spot |  
-| bip_39_word_new_br6 | base<br>order<br>drum<br>slush<br>spot<br>three |  
-| bip_39_word_new_br7 | base<br>order<br>drum<br>slush<br>spot<br>three<br>chief |  
-| bip_39_word_new_br8 | base<br>order<br>drum<br>slush<br>spot<br>three<br>chief<br>uncle |  
-| bip_39_word_new_br9 | base<br>order<br>drum<br>slush<br>spot<br>three<br>chief<br>uncle<br>amateur |  
-| bip_39_word_new_line1 | base |  
-| bip_39_word_new_line10 | base
+| bip_39_word_new_br_1 | base |  
+| bip_39_word_new_br_10 | base<br>order<br>drum<br>slush<br>spot<br>three<br>chief<br>uncle<br>amateur<br>defy |  
+| bip_39_word_new_br_11 | base<br>order<br>drum<br>slush<br>spot<br>three<br>chief<br>uncle<br>amateur<br>defy<br>sniff |  
+| bip_39_word_new_br_12 | base<br>order<br>drum<br>slush<br>spot<br>three<br>chief<br>uncle<br>amateur<br>defy<br>sniff<br>actress |  
+| bip_39_word_new_br_2 | base<br>order |  
+| bip_39_word_new_br_3 | base<br>order<br>drum |  
+| bip_39_word_new_br_4 | base<br>order<br>drum<br>slush |  
+| bip_39_word_new_br_5 | base<br>order<br>drum<br>slush<br>spot |  
+| bip_39_word_new_br_6 | base<br>order<br>drum<br>slush<br>spot<br>three |  
+| bip_39_word_new_br_7 | base<br>order<br>drum<br>slush<br>spot<br>three<br>chief |  
+| bip_39_word_new_br_8 | base<br>order<br>drum<br>slush<br>spot<br>three<br>chief<br>uncle |  
+| bip_39_word_new_br_9 | base<br>order<br>drum<br>slush<br>spot<br>three<br>chief<br>uncle<br>amateur |  
+| bip_39_word_new_line_1 | base |  
+| bip_39_word_new_line_10 | base
 order
 drum
 slush
@@ -55,7 +55,7 @@ chief
 uncle
 amateur
 defy |  
-| bip_39_word_new_line11 | base
+| bip_39_word_new_line_11 | base
 order
 drum
 slush
@@ -66,7 +66,7 @@ uncle
 amateur
 defy
 sniff |  
-| bip_39_word_new_line12 | base
+| bip_39_word_new_line_12 | base
 order
 drum
 slush
@@ -78,34 +78,34 @@ amateur
 defy
 sniff
 actress |  
-| bip_39_word_new_line2 | base
+| bip_39_word_new_line_2 | base
 order |  
-| bip_39_word_new_line3 | base
+| bip_39_word_new_line_3 | base
 order
 drum |  
-| bip_39_word_new_line4 | base
+| bip_39_word_new_line_4 | base
 order
 drum
 slush |  
-| bip_39_word_new_line5 | base
+| bip_39_word_new_line_5 | base
 order
 drum
 slush
 spot |  
-| bip_39_word_new_line6 | base
+| bip_39_word_new_line_6 | base
 order
 drum
 slush
 spot
 three |  
-| bip_39_word_new_line7 | base
+| bip_39_word_new_line_7 | base
 order
 drum
 slush
 spot
 three
 chief |  
-| bip_39_word_new_line8 | base
+| bip_39_word_new_line_8 | base
 order
 drum
 slush
@@ -113,7 +113,7 @@ spot
 three
 chief
 uncle |  
-| bip_39_word_new_line9 | base
+| bip_39_word_new_line_9 | base
 order
 drum
 slush

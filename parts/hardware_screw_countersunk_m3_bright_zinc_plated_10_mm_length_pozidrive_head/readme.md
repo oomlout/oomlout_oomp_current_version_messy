@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sudden |  
-| bip_39_word_new_br10 | sudden<br>else<br>main<br>assist<br>elevator<br>witness<br>champion<br>reveal<br>ritual<br>disease |  
-| bip_39_word_new_br11 | sudden<br>else<br>main<br>assist<br>elevator<br>witness<br>champion<br>reveal<br>ritual<br>disease<br>flash |  
-| bip_39_word_new_br12 | sudden<br>else<br>main<br>assist<br>elevator<br>witness<br>champion<br>reveal<br>ritual<br>disease<br>flash<br>aim |  
-| bip_39_word_new_br2 | sudden<br>else |  
-| bip_39_word_new_br3 | sudden<br>else<br>main |  
-| bip_39_word_new_br4 | sudden<br>else<br>main<br>assist |  
-| bip_39_word_new_br5 | sudden<br>else<br>main<br>assist<br>elevator |  
-| bip_39_word_new_br6 | sudden<br>else<br>main<br>assist<br>elevator<br>witness |  
-| bip_39_word_new_br7 | sudden<br>else<br>main<br>assist<br>elevator<br>witness<br>champion |  
-| bip_39_word_new_br8 | sudden<br>else<br>main<br>assist<br>elevator<br>witness<br>champion<br>reveal |  
-| bip_39_word_new_br9 | sudden<br>else<br>main<br>assist<br>elevator<br>witness<br>champion<br>reveal<br>ritual |  
-| bip_39_word_new_line1 | sudden |  
-| bip_39_word_new_line10 | sudden
+| bip_39_word_new_br_1 | sudden |  
+| bip_39_word_new_br_10 | sudden<br>else<br>main<br>assist<br>elevator<br>witness<br>champion<br>reveal<br>ritual<br>disease |  
+| bip_39_word_new_br_11 | sudden<br>else<br>main<br>assist<br>elevator<br>witness<br>champion<br>reveal<br>ritual<br>disease<br>flash |  
+| bip_39_word_new_br_12 | sudden<br>else<br>main<br>assist<br>elevator<br>witness<br>champion<br>reveal<br>ritual<br>disease<br>flash<br>aim |  
+| bip_39_word_new_br_2 | sudden<br>else |  
+| bip_39_word_new_br_3 | sudden<br>else<br>main |  
+| bip_39_word_new_br_4 | sudden<br>else<br>main<br>assist |  
+| bip_39_word_new_br_5 | sudden<br>else<br>main<br>assist<br>elevator |  
+| bip_39_word_new_br_6 | sudden<br>else<br>main<br>assist<br>elevator<br>witness |  
+| bip_39_word_new_br_7 | sudden<br>else<br>main<br>assist<br>elevator<br>witness<br>champion |  
+| bip_39_word_new_br_8 | sudden<br>else<br>main<br>assist<br>elevator<br>witness<br>champion<br>reveal |  
+| bip_39_word_new_br_9 | sudden<br>else<br>main<br>assist<br>elevator<br>witness<br>champion<br>reveal<br>ritual |  
+| bip_39_word_new_line_1 | sudden |  
+| bip_39_word_new_line_10 | sudden
 else
 main
 assist
@@ -55,7 +55,7 @@ champion
 reveal
 ritual
 disease |  
-| bip_39_word_new_line11 | sudden
+| bip_39_word_new_line_11 | sudden
 else
 main
 assist
@@ -66,7 +66,7 @@ reveal
 ritual
 disease
 flash |  
-| bip_39_word_new_line12 | sudden
+| bip_39_word_new_line_12 | sudden
 else
 main
 assist
@@ -78,34 +78,34 @@ ritual
 disease
 flash
 aim |  
-| bip_39_word_new_line2 | sudden
+| bip_39_word_new_line_2 | sudden
 else |  
-| bip_39_word_new_line3 | sudden
+| bip_39_word_new_line_3 | sudden
 else
 main |  
-| bip_39_word_new_line4 | sudden
+| bip_39_word_new_line_4 | sudden
 else
 main
 assist |  
-| bip_39_word_new_line5 | sudden
+| bip_39_word_new_line_5 | sudden
 else
 main
 assist
 elevator |  
-| bip_39_word_new_line6 | sudden
+| bip_39_word_new_line_6 | sudden
 else
 main
 assist
 elevator
 witness |  
-| bip_39_word_new_line7 | sudden
+| bip_39_word_new_line_7 | sudden
 else
 main
 assist
 elevator
 witness
 champion |  
-| bip_39_word_new_line8 | sudden
+| bip_39_word_new_line_8 | sudden
 else
 main
 assist
@@ -113,7 +113,7 @@ elevator
 witness
 champion
 reveal |  
-| bip_39_word_new_line9 | sudden
+| bip_39_word_new_line_9 | sudden
 else
 main
 assist

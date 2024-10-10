@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | raw |  
-| bip_39_word_new_br10 | raw<br>frost<br>front<br>almost<br>script<br>siege<br>language<br>olympic<br>peasant<br>soccer |  
-| bip_39_word_new_br11 | raw<br>frost<br>front<br>almost<br>script<br>siege<br>language<br>olympic<br>peasant<br>soccer<br>skill |  
-| bip_39_word_new_br12 | raw<br>frost<br>front<br>almost<br>script<br>siege<br>language<br>olympic<br>peasant<br>soccer<br>skill<br>amateur |  
-| bip_39_word_new_br2 | raw<br>frost |  
-| bip_39_word_new_br3 | raw<br>frost<br>front |  
-| bip_39_word_new_br4 | raw<br>frost<br>front<br>almost |  
-| bip_39_word_new_br5 | raw<br>frost<br>front<br>almost<br>script |  
-| bip_39_word_new_br6 | raw<br>frost<br>front<br>almost<br>script<br>siege |  
-| bip_39_word_new_br7 | raw<br>frost<br>front<br>almost<br>script<br>siege<br>language |  
-| bip_39_word_new_br8 | raw<br>frost<br>front<br>almost<br>script<br>siege<br>language<br>olympic |  
-| bip_39_word_new_br9 | raw<br>frost<br>front<br>almost<br>script<br>siege<br>language<br>olympic<br>peasant |  
-| bip_39_word_new_line1 | raw |  
-| bip_39_word_new_line10 | raw
+| bip_39_word_new_br_1 | raw |  
+| bip_39_word_new_br_10 | raw<br>frost<br>front<br>almost<br>script<br>siege<br>language<br>olympic<br>peasant<br>soccer |  
+| bip_39_word_new_br_11 | raw<br>frost<br>front<br>almost<br>script<br>siege<br>language<br>olympic<br>peasant<br>soccer<br>skill |  
+| bip_39_word_new_br_12 | raw<br>frost<br>front<br>almost<br>script<br>siege<br>language<br>olympic<br>peasant<br>soccer<br>skill<br>amateur |  
+| bip_39_word_new_br_2 | raw<br>frost |  
+| bip_39_word_new_br_3 | raw<br>frost<br>front |  
+| bip_39_word_new_br_4 | raw<br>frost<br>front<br>almost |  
+| bip_39_word_new_br_5 | raw<br>frost<br>front<br>almost<br>script |  
+| bip_39_word_new_br_6 | raw<br>frost<br>front<br>almost<br>script<br>siege |  
+| bip_39_word_new_br_7 | raw<br>frost<br>front<br>almost<br>script<br>siege<br>language |  
+| bip_39_word_new_br_8 | raw<br>frost<br>front<br>almost<br>script<br>siege<br>language<br>olympic |  
+| bip_39_word_new_br_9 | raw<br>frost<br>front<br>almost<br>script<br>siege<br>language<br>olympic<br>peasant |  
+| bip_39_word_new_line_1 | raw |  
+| bip_39_word_new_line_10 | raw
 frost
 front
 almost
@@ -55,7 +55,7 @@ language
 olympic
 peasant
 soccer |  
-| bip_39_word_new_line11 | raw
+| bip_39_word_new_line_11 | raw
 frost
 front
 almost
@@ -66,7 +66,7 @@ olympic
 peasant
 soccer
 skill |  
-| bip_39_word_new_line12 | raw
+| bip_39_word_new_line_12 | raw
 frost
 front
 almost
@@ -78,34 +78,34 @@ peasant
 soccer
 skill
 amateur |  
-| bip_39_word_new_line2 | raw
+| bip_39_word_new_line_2 | raw
 frost |  
-| bip_39_word_new_line3 | raw
+| bip_39_word_new_line_3 | raw
 frost
 front |  
-| bip_39_word_new_line4 | raw
+| bip_39_word_new_line_4 | raw
 frost
 front
 almost |  
-| bip_39_word_new_line5 | raw
+| bip_39_word_new_line_5 | raw
 frost
 front
 almost
 script |  
-| bip_39_word_new_line6 | raw
+| bip_39_word_new_line_6 | raw
 frost
 front
 almost
 script
 siege |  
-| bip_39_word_new_line7 | raw
+| bip_39_word_new_line_7 | raw
 frost
 front
 almost
 script
 siege
 language |  
-| bip_39_word_new_line8 | raw
+| bip_39_word_new_line_8 | raw
 frost
 front
 almost
@@ -113,7 +113,7 @@ script
 siege
 language
 olympic |  
-| bip_39_word_new_line9 | raw
+| bip_39_word_new_line_9 | raw
 frost
 front
 almost

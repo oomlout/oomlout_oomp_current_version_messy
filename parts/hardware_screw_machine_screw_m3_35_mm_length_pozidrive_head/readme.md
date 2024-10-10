@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gas |  
-| bip_39_word_new_br10 | gas<br>rubber<br>entry<br>enact<br>miss<br>chest<br>skill<br>shoulder<br>banner<br>reject |  
-| bip_39_word_new_br11 | gas<br>rubber<br>entry<br>enact<br>miss<br>chest<br>skill<br>shoulder<br>banner<br>reject<br>velvet |  
-| bip_39_word_new_br12 | gas<br>rubber<br>entry<br>enact<br>miss<br>chest<br>skill<br>shoulder<br>banner<br>reject<br>velvet<br>acid |  
-| bip_39_word_new_br2 | gas<br>rubber |  
-| bip_39_word_new_br3 | gas<br>rubber<br>entry |  
-| bip_39_word_new_br4 | gas<br>rubber<br>entry<br>enact |  
-| bip_39_word_new_br5 | gas<br>rubber<br>entry<br>enact<br>miss |  
-| bip_39_word_new_br6 | gas<br>rubber<br>entry<br>enact<br>miss<br>chest |  
-| bip_39_word_new_br7 | gas<br>rubber<br>entry<br>enact<br>miss<br>chest<br>skill |  
-| bip_39_word_new_br8 | gas<br>rubber<br>entry<br>enact<br>miss<br>chest<br>skill<br>shoulder |  
-| bip_39_word_new_br9 | gas<br>rubber<br>entry<br>enact<br>miss<br>chest<br>skill<br>shoulder<br>banner |  
-| bip_39_word_new_line1 | gas |  
-| bip_39_word_new_line10 | gas
+| bip_39_word_new_br_1 | gas |  
+| bip_39_word_new_br_10 | gas<br>rubber<br>entry<br>enact<br>miss<br>chest<br>skill<br>shoulder<br>banner<br>reject |  
+| bip_39_word_new_br_11 | gas<br>rubber<br>entry<br>enact<br>miss<br>chest<br>skill<br>shoulder<br>banner<br>reject<br>velvet |  
+| bip_39_word_new_br_12 | gas<br>rubber<br>entry<br>enact<br>miss<br>chest<br>skill<br>shoulder<br>banner<br>reject<br>velvet<br>acid |  
+| bip_39_word_new_br_2 | gas<br>rubber |  
+| bip_39_word_new_br_3 | gas<br>rubber<br>entry |  
+| bip_39_word_new_br_4 | gas<br>rubber<br>entry<br>enact |  
+| bip_39_word_new_br_5 | gas<br>rubber<br>entry<br>enact<br>miss |  
+| bip_39_word_new_br_6 | gas<br>rubber<br>entry<br>enact<br>miss<br>chest |  
+| bip_39_word_new_br_7 | gas<br>rubber<br>entry<br>enact<br>miss<br>chest<br>skill |  
+| bip_39_word_new_br_8 | gas<br>rubber<br>entry<br>enact<br>miss<br>chest<br>skill<br>shoulder |  
+| bip_39_word_new_br_9 | gas<br>rubber<br>entry<br>enact<br>miss<br>chest<br>skill<br>shoulder<br>banner |  
+| bip_39_word_new_line_1 | gas |  
+| bip_39_word_new_line_10 | gas
 rubber
 entry
 enact
@@ -55,7 +55,7 @@ skill
 shoulder
 banner
 reject |  
-| bip_39_word_new_line11 | gas
+| bip_39_word_new_line_11 | gas
 rubber
 entry
 enact
@@ -66,7 +66,7 @@ shoulder
 banner
 reject
 velvet |  
-| bip_39_word_new_line12 | gas
+| bip_39_word_new_line_12 | gas
 rubber
 entry
 enact
@@ -78,34 +78,34 @@ banner
 reject
 velvet
 acid |  
-| bip_39_word_new_line2 | gas
+| bip_39_word_new_line_2 | gas
 rubber |  
-| bip_39_word_new_line3 | gas
+| bip_39_word_new_line_3 | gas
 rubber
 entry |  
-| bip_39_word_new_line4 | gas
+| bip_39_word_new_line_4 | gas
 rubber
 entry
 enact |  
-| bip_39_word_new_line5 | gas
+| bip_39_word_new_line_5 | gas
 rubber
 entry
 enact
 miss |  
-| bip_39_word_new_line6 | gas
+| bip_39_word_new_line_6 | gas
 rubber
 entry
 enact
 miss
 chest |  
-| bip_39_word_new_line7 | gas
+| bip_39_word_new_line_7 | gas
 rubber
 entry
 enact
 miss
 chest
 skill |  
-| bip_39_word_new_line8 | gas
+| bip_39_word_new_line_8 | gas
 rubber
 entry
 enact
@@ -113,7 +113,7 @@ miss
 chest
 skill
 shoulder |  
-| bip_39_word_new_line9 | gas
+| bip_39_word_new_line_9 | gas
 rubber
 entry
 enact

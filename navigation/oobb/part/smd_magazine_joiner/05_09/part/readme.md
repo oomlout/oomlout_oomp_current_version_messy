@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | loyal |  
-| bip_39_word_new_br10 | loyal<br>anger<br>exercise<br>song<br>hen<br>palace<br>resource<br>duty<br>wage<br>light |  
-| bip_39_word_new_br11 | loyal<br>anger<br>exercise<br>song<br>hen<br>palace<br>resource<br>duty<br>wage<br>light<br>explain |  
-| bip_39_word_new_br12 | loyal<br>anger<br>exercise<br>song<br>hen<br>palace<br>resource<br>duty<br>wage<br>light<br>explain<br>adapt |  
-| bip_39_word_new_br2 | loyal<br>anger |  
-| bip_39_word_new_br3 | loyal<br>anger<br>exercise |  
-| bip_39_word_new_br4 | loyal<br>anger<br>exercise<br>song |  
-| bip_39_word_new_br5 | loyal<br>anger<br>exercise<br>song<br>hen |  
-| bip_39_word_new_br6 | loyal<br>anger<br>exercise<br>song<br>hen<br>palace |  
-| bip_39_word_new_br7 | loyal<br>anger<br>exercise<br>song<br>hen<br>palace<br>resource |  
-| bip_39_word_new_br8 | loyal<br>anger<br>exercise<br>song<br>hen<br>palace<br>resource<br>duty |  
-| bip_39_word_new_br9 | loyal<br>anger<br>exercise<br>song<br>hen<br>palace<br>resource<br>duty<br>wage |  
-| bip_39_word_new_line1 | loyal |  
-| bip_39_word_new_line10 | loyal
+| bip_39_word_new_br_1 | loyal |  
+| bip_39_word_new_br_10 | loyal<br>anger<br>exercise<br>song<br>hen<br>palace<br>resource<br>duty<br>wage<br>light |  
+| bip_39_word_new_br_11 | loyal<br>anger<br>exercise<br>song<br>hen<br>palace<br>resource<br>duty<br>wage<br>light<br>explain |  
+| bip_39_word_new_br_12 | loyal<br>anger<br>exercise<br>song<br>hen<br>palace<br>resource<br>duty<br>wage<br>light<br>explain<br>adapt |  
+| bip_39_word_new_br_2 | loyal<br>anger |  
+| bip_39_word_new_br_3 | loyal<br>anger<br>exercise |  
+| bip_39_word_new_br_4 | loyal<br>anger<br>exercise<br>song |  
+| bip_39_word_new_br_5 | loyal<br>anger<br>exercise<br>song<br>hen |  
+| bip_39_word_new_br_6 | loyal<br>anger<br>exercise<br>song<br>hen<br>palace |  
+| bip_39_word_new_br_7 | loyal<br>anger<br>exercise<br>song<br>hen<br>palace<br>resource |  
+| bip_39_word_new_br_8 | loyal<br>anger<br>exercise<br>song<br>hen<br>palace<br>resource<br>duty |  
+| bip_39_word_new_br_9 | loyal<br>anger<br>exercise<br>song<br>hen<br>palace<br>resource<br>duty<br>wage |  
+| bip_39_word_new_line_1 | loyal |  
+| bip_39_word_new_line_10 | loyal
 anger
 exercise
 song
@@ -55,7 +55,7 @@ resource
 duty
 wage
 light |  
-| bip_39_word_new_line11 | loyal
+| bip_39_word_new_line_11 | loyal
 anger
 exercise
 song
@@ -66,7 +66,7 @@ duty
 wage
 light
 explain |  
-| bip_39_word_new_line12 | loyal
+| bip_39_word_new_line_12 | loyal
 anger
 exercise
 song
@@ -78,34 +78,34 @@ wage
 light
 explain
 adapt |  
-| bip_39_word_new_line2 | loyal
+| bip_39_word_new_line_2 | loyal
 anger |  
-| bip_39_word_new_line3 | loyal
+| bip_39_word_new_line_3 | loyal
 anger
 exercise |  
-| bip_39_word_new_line4 | loyal
+| bip_39_word_new_line_4 | loyal
 anger
 exercise
 song |  
-| bip_39_word_new_line5 | loyal
+| bip_39_word_new_line_5 | loyal
 anger
 exercise
 song
 hen |  
-| bip_39_word_new_line6 | loyal
+| bip_39_word_new_line_6 | loyal
 anger
 exercise
 song
 hen
 palace |  
-| bip_39_word_new_line7 | loyal
+| bip_39_word_new_line_7 | loyal
 anger
 exercise
 song
 hen
 palace
 resource |  
-| bip_39_word_new_line8 | loyal
+| bip_39_word_new_line_8 | loyal
 anger
 exercise
 song
@@ -113,7 +113,7 @@ hen
 palace
 resource
 duty |  
-| bip_39_word_new_line9 | loyal
+| bip_39_word_new_line_9 | loyal
 anger
 exercise
 song

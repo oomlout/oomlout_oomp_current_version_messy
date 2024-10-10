@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | neutral |  
-| bip_39_word_new_br10 | neutral<br>dismiss<br>ship<br>random<br>glimpse<br>slam<br>remove<br>hammer<br>unfair<br>tissue |  
-| bip_39_word_new_br11 | neutral<br>dismiss<br>ship<br>random<br>glimpse<br>slam<br>remove<br>hammer<br>unfair<br>tissue<br>olive |  
-| bip_39_word_new_br12 | neutral<br>dismiss<br>ship<br>random<br>glimpse<br>slam<br>remove<br>hammer<br>unfair<br>tissue<br>olive<br>area |  
-| bip_39_word_new_br2 | neutral<br>dismiss |  
-| bip_39_word_new_br3 | neutral<br>dismiss<br>ship |  
-| bip_39_word_new_br4 | neutral<br>dismiss<br>ship<br>random |  
-| bip_39_word_new_br5 | neutral<br>dismiss<br>ship<br>random<br>glimpse |  
-| bip_39_word_new_br6 | neutral<br>dismiss<br>ship<br>random<br>glimpse<br>slam |  
-| bip_39_word_new_br7 | neutral<br>dismiss<br>ship<br>random<br>glimpse<br>slam<br>remove |  
-| bip_39_word_new_br8 | neutral<br>dismiss<br>ship<br>random<br>glimpse<br>slam<br>remove<br>hammer |  
-| bip_39_word_new_br9 | neutral<br>dismiss<br>ship<br>random<br>glimpse<br>slam<br>remove<br>hammer<br>unfair |  
-| bip_39_word_new_line1 | neutral |  
-| bip_39_word_new_line10 | neutral
+| bip_39_word_new_br_1 | neutral |  
+| bip_39_word_new_br_10 | neutral<br>dismiss<br>ship<br>random<br>glimpse<br>slam<br>remove<br>hammer<br>unfair<br>tissue |  
+| bip_39_word_new_br_11 | neutral<br>dismiss<br>ship<br>random<br>glimpse<br>slam<br>remove<br>hammer<br>unfair<br>tissue<br>olive |  
+| bip_39_word_new_br_12 | neutral<br>dismiss<br>ship<br>random<br>glimpse<br>slam<br>remove<br>hammer<br>unfair<br>tissue<br>olive<br>area |  
+| bip_39_word_new_br_2 | neutral<br>dismiss |  
+| bip_39_word_new_br_3 | neutral<br>dismiss<br>ship |  
+| bip_39_word_new_br_4 | neutral<br>dismiss<br>ship<br>random |  
+| bip_39_word_new_br_5 | neutral<br>dismiss<br>ship<br>random<br>glimpse |  
+| bip_39_word_new_br_6 | neutral<br>dismiss<br>ship<br>random<br>glimpse<br>slam |  
+| bip_39_word_new_br_7 | neutral<br>dismiss<br>ship<br>random<br>glimpse<br>slam<br>remove |  
+| bip_39_word_new_br_8 | neutral<br>dismiss<br>ship<br>random<br>glimpse<br>slam<br>remove<br>hammer |  
+| bip_39_word_new_br_9 | neutral<br>dismiss<br>ship<br>random<br>glimpse<br>slam<br>remove<br>hammer<br>unfair |  
+| bip_39_word_new_line_1 | neutral |  
+| bip_39_word_new_line_10 | neutral
 dismiss
 ship
 random
@@ -55,7 +55,7 @@ remove
 hammer
 unfair
 tissue |  
-| bip_39_word_new_line11 | neutral
+| bip_39_word_new_line_11 | neutral
 dismiss
 ship
 random
@@ -66,7 +66,7 @@ hammer
 unfair
 tissue
 olive |  
-| bip_39_word_new_line12 | neutral
+| bip_39_word_new_line_12 | neutral
 dismiss
 ship
 random
@@ -78,34 +78,34 @@ unfair
 tissue
 olive
 area |  
-| bip_39_word_new_line2 | neutral
+| bip_39_word_new_line_2 | neutral
 dismiss |  
-| bip_39_word_new_line3 | neutral
+| bip_39_word_new_line_3 | neutral
 dismiss
 ship |  
-| bip_39_word_new_line4 | neutral
+| bip_39_word_new_line_4 | neutral
 dismiss
 ship
 random |  
-| bip_39_word_new_line5 | neutral
+| bip_39_word_new_line_5 | neutral
 dismiss
 ship
 random
 glimpse |  
-| bip_39_word_new_line6 | neutral
+| bip_39_word_new_line_6 | neutral
 dismiss
 ship
 random
 glimpse
 slam |  
-| bip_39_word_new_line7 | neutral
+| bip_39_word_new_line_7 | neutral
 dismiss
 ship
 random
 glimpse
 slam
 remove |  
-| bip_39_word_new_line8 | neutral
+| bip_39_word_new_line_8 | neutral
 dismiss
 ship
 random
@@ -113,7 +113,7 @@ glimpse
 slam
 remove
 hammer |  
-| bip_39_word_new_line9 | neutral
+| bip_39_word_new_line_9 | neutral
 dismiss
 ship
 random

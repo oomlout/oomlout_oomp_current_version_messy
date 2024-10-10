@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | tennis |  
-| bip_39_word_new_br10 | tennis<br>airport<br>warrior<br>anchor<br>fish<br>collect<br>castle<br>trial<br>arrest<br>blush |  
-| bip_39_word_new_br11 | tennis<br>airport<br>warrior<br>anchor<br>fish<br>collect<br>castle<br>trial<br>arrest<br>blush<br>network |  
-| bip_39_word_new_br12 | tennis<br>airport<br>warrior<br>anchor<br>fish<br>collect<br>castle<br>trial<br>arrest<br>blush<br>network<br>afford |  
-| bip_39_word_new_br2 | tennis<br>airport |  
-| bip_39_word_new_br3 | tennis<br>airport<br>warrior |  
-| bip_39_word_new_br4 | tennis<br>airport<br>warrior<br>anchor |  
-| bip_39_word_new_br5 | tennis<br>airport<br>warrior<br>anchor<br>fish |  
-| bip_39_word_new_br6 | tennis<br>airport<br>warrior<br>anchor<br>fish<br>collect |  
-| bip_39_word_new_br7 | tennis<br>airport<br>warrior<br>anchor<br>fish<br>collect<br>castle |  
-| bip_39_word_new_br8 | tennis<br>airport<br>warrior<br>anchor<br>fish<br>collect<br>castle<br>trial |  
-| bip_39_word_new_br9 | tennis<br>airport<br>warrior<br>anchor<br>fish<br>collect<br>castle<br>trial<br>arrest |  
-| bip_39_word_new_line1 | tennis |  
-| bip_39_word_new_line10 | tennis
+| bip_39_word_new_br_1 | tennis |  
+| bip_39_word_new_br_10 | tennis<br>airport<br>warrior<br>anchor<br>fish<br>collect<br>castle<br>trial<br>arrest<br>blush |  
+| bip_39_word_new_br_11 | tennis<br>airport<br>warrior<br>anchor<br>fish<br>collect<br>castle<br>trial<br>arrest<br>blush<br>network |  
+| bip_39_word_new_br_12 | tennis<br>airport<br>warrior<br>anchor<br>fish<br>collect<br>castle<br>trial<br>arrest<br>blush<br>network<br>afford |  
+| bip_39_word_new_br_2 | tennis<br>airport |  
+| bip_39_word_new_br_3 | tennis<br>airport<br>warrior |  
+| bip_39_word_new_br_4 | tennis<br>airport<br>warrior<br>anchor |  
+| bip_39_word_new_br_5 | tennis<br>airport<br>warrior<br>anchor<br>fish |  
+| bip_39_word_new_br_6 | tennis<br>airport<br>warrior<br>anchor<br>fish<br>collect |  
+| bip_39_word_new_br_7 | tennis<br>airport<br>warrior<br>anchor<br>fish<br>collect<br>castle |  
+| bip_39_word_new_br_8 | tennis<br>airport<br>warrior<br>anchor<br>fish<br>collect<br>castle<br>trial |  
+| bip_39_word_new_br_9 | tennis<br>airport<br>warrior<br>anchor<br>fish<br>collect<br>castle<br>trial<br>arrest |  
+| bip_39_word_new_line_1 | tennis |  
+| bip_39_word_new_line_10 | tennis
 airport
 warrior
 anchor
@@ -55,7 +55,7 @@ castle
 trial
 arrest
 blush |  
-| bip_39_word_new_line11 | tennis
+| bip_39_word_new_line_11 | tennis
 airport
 warrior
 anchor
@@ -66,7 +66,7 @@ trial
 arrest
 blush
 network |  
-| bip_39_word_new_line12 | tennis
+| bip_39_word_new_line_12 | tennis
 airport
 warrior
 anchor
@@ -78,34 +78,34 @@ arrest
 blush
 network
 afford |  
-| bip_39_word_new_line2 | tennis
+| bip_39_word_new_line_2 | tennis
 airport |  
-| bip_39_word_new_line3 | tennis
+| bip_39_word_new_line_3 | tennis
 airport
 warrior |  
-| bip_39_word_new_line4 | tennis
+| bip_39_word_new_line_4 | tennis
 airport
 warrior
 anchor |  
-| bip_39_word_new_line5 | tennis
+| bip_39_word_new_line_5 | tennis
 airport
 warrior
 anchor
 fish |  
-| bip_39_word_new_line6 | tennis
+| bip_39_word_new_line_6 | tennis
 airport
 warrior
 anchor
 fish
 collect |  
-| bip_39_word_new_line7 | tennis
+| bip_39_word_new_line_7 | tennis
 airport
 warrior
 anchor
 fish
 collect
 castle |  
-| bip_39_word_new_line8 | tennis
+| bip_39_word_new_line_8 | tennis
 airport
 warrior
 anchor
@@ -113,7 +113,7 @@ fish
 collect
 castle
 trial |  
-| bip_39_word_new_line9 | tennis
+| bip_39_word_new_line_9 | tennis
 airport
 warrior
 anchor

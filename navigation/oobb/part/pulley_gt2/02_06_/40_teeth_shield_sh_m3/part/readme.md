@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wait |  
-| bip_39_word_new_br10 | wait<br>chief<br>flower<br>clutch<br>library<br>digital<br>mother<br>outdoor<br>grain<br>action |  
-| bip_39_word_new_br11 | wait<br>chief<br>flower<br>clutch<br>library<br>digital<br>mother<br>outdoor<br>grain<br>action<br>jealous |  
-| bip_39_word_new_br12 | wait<br>chief<br>flower<br>clutch<br>library<br>digital<br>mother<br>outdoor<br>grain<br>action<br>jealous<br>arch |  
-| bip_39_word_new_br2 | wait<br>chief |  
-| bip_39_word_new_br3 | wait<br>chief<br>flower |  
-| bip_39_word_new_br4 | wait<br>chief<br>flower<br>clutch |  
-| bip_39_word_new_br5 | wait<br>chief<br>flower<br>clutch<br>library |  
-| bip_39_word_new_br6 | wait<br>chief<br>flower<br>clutch<br>library<br>digital |  
-| bip_39_word_new_br7 | wait<br>chief<br>flower<br>clutch<br>library<br>digital<br>mother |  
-| bip_39_word_new_br8 | wait<br>chief<br>flower<br>clutch<br>library<br>digital<br>mother<br>outdoor |  
-| bip_39_word_new_br9 | wait<br>chief<br>flower<br>clutch<br>library<br>digital<br>mother<br>outdoor<br>grain |  
-| bip_39_word_new_line1 | wait |  
-| bip_39_word_new_line10 | wait
+| bip_39_word_new_br_1 | wait |  
+| bip_39_word_new_br_10 | wait<br>chief<br>flower<br>clutch<br>library<br>digital<br>mother<br>outdoor<br>grain<br>action |  
+| bip_39_word_new_br_11 | wait<br>chief<br>flower<br>clutch<br>library<br>digital<br>mother<br>outdoor<br>grain<br>action<br>jealous |  
+| bip_39_word_new_br_12 | wait<br>chief<br>flower<br>clutch<br>library<br>digital<br>mother<br>outdoor<br>grain<br>action<br>jealous<br>arch |  
+| bip_39_word_new_br_2 | wait<br>chief |  
+| bip_39_word_new_br_3 | wait<br>chief<br>flower |  
+| bip_39_word_new_br_4 | wait<br>chief<br>flower<br>clutch |  
+| bip_39_word_new_br_5 | wait<br>chief<br>flower<br>clutch<br>library |  
+| bip_39_word_new_br_6 | wait<br>chief<br>flower<br>clutch<br>library<br>digital |  
+| bip_39_word_new_br_7 | wait<br>chief<br>flower<br>clutch<br>library<br>digital<br>mother |  
+| bip_39_word_new_br_8 | wait<br>chief<br>flower<br>clutch<br>library<br>digital<br>mother<br>outdoor |  
+| bip_39_word_new_br_9 | wait<br>chief<br>flower<br>clutch<br>library<br>digital<br>mother<br>outdoor<br>grain |  
+| bip_39_word_new_line_1 | wait |  
+| bip_39_word_new_line_10 | wait
 chief
 flower
 clutch
@@ -55,7 +55,7 @@ mother
 outdoor
 grain
 action |  
-| bip_39_word_new_line11 | wait
+| bip_39_word_new_line_11 | wait
 chief
 flower
 clutch
@@ -66,7 +66,7 @@ outdoor
 grain
 action
 jealous |  
-| bip_39_word_new_line12 | wait
+| bip_39_word_new_line_12 | wait
 chief
 flower
 clutch
@@ -78,34 +78,34 @@ grain
 action
 jealous
 arch |  
-| bip_39_word_new_line2 | wait
+| bip_39_word_new_line_2 | wait
 chief |  
-| bip_39_word_new_line3 | wait
+| bip_39_word_new_line_3 | wait
 chief
 flower |  
-| bip_39_word_new_line4 | wait
+| bip_39_word_new_line_4 | wait
 chief
 flower
 clutch |  
-| bip_39_word_new_line5 | wait
+| bip_39_word_new_line_5 | wait
 chief
 flower
 clutch
 library |  
-| bip_39_word_new_line6 | wait
+| bip_39_word_new_line_6 | wait
 chief
 flower
 clutch
 library
 digital |  
-| bip_39_word_new_line7 | wait
+| bip_39_word_new_line_7 | wait
 chief
 flower
 clutch
 library
 digital
 mother |  
-| bip_39_word_new_line8 | wait
+| bip_39_word_new_line_8 | wait
 chief
 flower
 clutch
@@ -113,7 +113,7 @@ library
 digital
 mother
 outdoor |  
-| bip_39_word_new_line9 | wait
+| bip_39_word_new_line_9 | wait
 chief
 flower
 clutch

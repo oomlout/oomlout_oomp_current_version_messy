@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | execute |  
-| bip_39_word_new_br10 | execute<br>normal<br>sign<br>huge<br>heavy<br>sock<br>hamster<br>typical<br>system<br>tomato |  
-| bip_39_word_new_br11 | execute<br>normal<br>sign<br>huge<br>heavy<br>sock<br>hamster<br>typical<br>system<br>tomato<br>raw |  
-| bip_39_word_new_br12 | execute<br>normal<br>sign<br>huge<br>heavy<br>sock<br>hamster<br>typical<br>system<br>tomato<br>raw<br>acid |  
-| bip_39_word_new_br2 | execute<br>normal |  
-| bip_39_word_new_br3 | execute<br>normal<br>sign |  
-| bip_39_word_new_br4 | execute<br>normal<br>sign<br>huge |  
-| bip_39_word_new_br5 | execute<br>normal<br>sign<br>huge<br>heavy |  
-| bip_39_word_new_br6 | execute<br>normal<br>sign<br>huge<br>heavy<br>sock |  
-| bip_39_word_new_br7 | execute<br>normal<br>sign<br>huge<br>heavy<br>sock<br>hamster |  
-| bip_39_word_new_br8 | execute<br>normal<br>sign<br>huge<br>heavy<br>sock<br>hamster<br>typical |  
-| bip_39_word_new_br9 | execute<br>normal<br>sign<br>huge<br>heavy<br>sock<br>hamster<br>typical<br>system |  
-| bip_39_word_new_line1 | execute |  
-| bip_39_word_new_line10 | execute
+| bip_39_word_new_br_1 | execute |  
+| bip_39_word_new_br_10 | execute<br>normal<br>sign<br>huge<br>heavy<br>sock<br>hamster<br>typical<br>system<br>tomato |  
+| bip_39_word_new_br_11 | execute<br>normal<br>sign<br>huge<br>heavy<br>sock<br>hamster<br>typical<br>system<br>tomato<br>raw |  
+| bip_39_word_new_br_12 | execute<br>normal<br>sign<br>huge<br>heavy<br>sock<br>hamster<br>typical<br>system<br>tomato<br>raw<br>acid |  
+| bip_39_word_new_br_2 | execute<br>normal |  
+| bip_39_word_new_br_3 | execute<br>normal<br>sign |  
+| bip_39_word_new_br_4 | execute<br>normal<br>sign<br>huge |  
+| bip_39_word_new_br_5 | execute<br>normal<br>sign<br>huge<br>heavy |  
+| bip_39_word_new_br_6 | execute<br>normal<br>sign<br>huge<br>heavy<br>sock |  
+| bip_39_word_new_br_7 | execute<br>normal<br>sign<br>huge<br>heavy<br>sock<br>hamster |  
+| bip_39_word_new_br_8 | execute<br>normal<br>sign<br>huge<br>heavy<br>sock<br>hamster<br>typical |  
+| bip_39_word_new_br_9 | execute<br>normal<br>sign<br>huge<br>heavy<br>sock<br>hamster<br>typical<br>system |  
+| bip_39_word_new_line_1 | execute |  
+| bip_39_word_new_line_10 | execute
 normal
 sign
 huge
@@ -55,7 +55,7 @@ hamster
 typical
 system
 tomato |  
-| bip_39_word_new_line11 | execute
+| bip_39_word_new_line_11 | execute
 normal
 sign
 huge
@@ -66,7 +66,7 @@ typical
 system
 tomato
 raw |  
-| bip_39_word_new_line12 | execute
+| bip_39_word_new_line_12 | execute
 normal
 sign
 huge
@@ -78,34 +78,34 @@ system
 tomato
 raw
 acid |  
-| bip_39_word_new_line2 | execute
+| bip_39_word_new_line_2 | execute
 normal |  
-| bip_39_word_new_line3 | execute
+| bip_39_word_new_line_3 | execute
 normal
 sign |  
-| bip_39_word_new_line4 | execute
+| bip_39_word_new_line_4 | execute
 normal
 sign
 huge |  
-| bip_39_word_new_line5 | execute
+| bip_39_word_new_line_5 | execute
 normal
 sign
 huge
 heavy |  
-| bip_39_word_new_line6 | execute
+| bip_39_word_new_line_6 | execute
 normal
 sign
 huge
 heavy
 sock |  
-| bip_39_word_new_line7 | execute
+| bip_39_word_new_line_7 | execute
 normal
 sign
 huge
 heavy
 sock
 hamster |  
-| bip_39_word_new_line8 | execute
+| bip_39_word_new_line_8 | execute
 normal
 sign
 huge
@@ -113,7 +113,7 @@ heavy
 sock
 hamster
 typical |  
-| bip_39_word_new_line9 | execute
+| bip_39_word_new_line_9 | execute
 normal
 sign
 huge

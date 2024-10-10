@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | adult |  
-| bip_39_word_new_br10 | adult<br>alert<br>merit<br>comfort<br>blast<br>kingdom<br>neck<br>elder<br>field<br>allow |  
-| bip_39_word_new_br11 | adult<br>alert<br>merit<br>comfort<br>blast<br>kingdom<br>neck<br>elder<br>field<br>allow<br>ancient |  
-| bip_39_word_new_br12 | adult<br>alert<br>merit<br>comfort<br>blast<br>kingdom<br>neck<br>elder<br>field<br>allow<br>ancient<br>artwork |  
-| bip_39_word_new_br2 | adult<br>alert |  
-| bip_39_word_new_br3 | adult<br>alert<br>merit |  
-| bip_39_word_new_br4 | adult<br>alert<br>merit<br>comfort |  
-| bip_39_word_new_br5 | adult<br>alert<br>merit<br>comfort<br>blast |  
-| bip_39_word_new_br6 | adult<br>alert<br>merit<br>comfort<br>blast<br>kingdom |  
-| bip_39_word_new_br7 | adult<br>alert<br>merit<br>comfort<br>blast<br>kingdom<br>neck |  
-| bip_39_word_new_br8 | adult<br>alert<br>merit<br>comfort<br>blast<br>kingdom<br>neck<br>elder |  
-| bip_39_word_new_br9 | adult<br>alert<br>merit<br>comfort<br>blast<br>kingdom<br>neck<br>elder<br>field |  
-| bip_39_word_new_line1 | adult |  
-| bip_39_word_new_line10 | adult
+| bip_39_word_new_br_1 | adult |  
+| bip_39_word_new_br_10 | adult<br>alert<br>merit<br>comfort<br>blast<br>kingdom<br>neck<br>elder<br>field<br>allow |  
+| bip_39_word_new_br_11 | adult<br>alert<br>merit<br>comfort<br>blast<br>kingdom<br>neck<br>elder<br>field<br>allow<br>ancient |  
+| bip_39_word_new_br_12 | adult<br>alert<br>merit<br>comfort<br>blast<br>kingdom<br>neck<br>elder<br>field<br>allow<br>ancient<br>artwork |  
+| bip_39_word_new_br_2 | adult<br>alert |  
+| bip_39_word_new_br_3 | adult<br>alert<br>merit |  
+| bip_39_word_new_br_4 | adult<br>alert<br>merit<br>comfort |  
+| bip_39_word_new_br_5 | adult<br>alert<br>merit<br>comfort<br>blast |  
+| bip_39_word_new_br_6 | adult<br>alert<br>merit<br>comfort<br>blast<br>kingdom |  
+| bip_39_word_new_br_7 | adult<br>alert<br>merit<br>comfort<br>blast<br>kingdom<br>neck |  
+| bip_39_word_new_br_8 | adult<br>alert<br>merit<br>comfort<br>blast<br>kingdom<br>neck<br>elder |  
+| bip_39_word_new_br_9 | adult<br>alert<br>merit<br>comfort<br>blast<br>kingdom<br>neck<br>elder<br>field |  
+| bip_39_word_new_line_1 | adult |  
+| bip_39_word_new_line_10 | adult
 alert
 merit
 comfort
@@ -55,7 +55,7 @@ neck
 elder
 field
 allow |  
-| bip_39_word_new_line11 | adult
+| bip_39_word_new_line_11 | adult
 alert
 merit
 comfort
@@ -66,7 +66,7 @@ elder
 field
 allow
 ancient |  
-| bip_39_word_new_line12 | adult
+| bip_39_word_new_line_12 | adult
 alert
 merit
 comfort
@@ -78,34 +78,34 @@ field
 allow
 ancient
 artwork |  
-| bip_39_word_new_line2 | adult
+| bip_39_word_new_line_2 | adult
 alert |  
-| bip_39_word_new_line3 | adult
+| bip_39_word_new_line_3 | adult
 alert
 merit |  
-| bip_39_word_new_line4 | adult
+| bip_39_word_new_line_4 | adult
 alert
 merit
 comfort |  
-| bip_39_word_new_line5 | adult
+| bip_39_word_new_line_5 | adult
 alert
 merit
 comfort
 blast |  
-| bip_39_word_new_line6 | adult
+| bip_39_word_new_line_6 | adult
 alert
 merit
 comfort
 blast
 kingdom |  
-| bip_39_word_new_line7 | adult
+| bip_39_word_new_line_7 | adult
 alert
 merit
 comfort
 blast
 kingdom
 neck |  
-| bip_39_word_new_line8 | adult
+| bip_39_word_new_line_8 | adult
 alert
 merit
 comfort
@@ -113,7 +113,7 @@ blast
 kingdom
 neck
 elder |  
-| bip_39_word_new_line9 | adult
+| bip_39_word_new_line_9 | adult
 alert
 merit
 comfort

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | result |  
-| bip_39_word_new_br10 | result<br>scale<br>popular<br>pistol<br>decade<br>finish<br>arctic<br>joke<br>spawn<br>abuse |  
-| bip_39_word_new_br11 | result<br>scale<br>popular<br>pistol<br>decade<br>finish<br>arctic<br>joke<br>spawn<br>abuse<br>voice |  
-| bip_39_word_new_br12 | result<br>scale<br>popular<br>pistol<br>decade<br>finish<br>arctic<br>joke<br>spawn<br>abuse<br>voice<br>alcohol |  
-| bip_39_word_new_br2 | result<br>scale |  
-| bip_39_word_new_br3 | result<br>scale<br>popular |  
-| bip_39_word_new_br4 | result<br>scale<br>popular<br>pistol |  
-| bip_39_word_new_br5 | result<br>scale<br>popular<br>pistol<br>decade |  
-| bip_39_word_new_br6 | result<br>scale<br>popular<br>pistol<br>decade<br>finish |  
-| bip_39_word_new_br7 | result<br>scale<br>popular<br>pistol<br>decade<br>finish<br>arctic |  
-| bip_39_word_new_br8 | result<br>scale<br>popular<br>pistol<br>decade<br>finish<br>arctic<br>joke |  
-| bip_39_word_new_br9 | result<br>scale<br>popular<br>pistol<br>decade<br>finish<br>arctic<br>joke<br>spawn |  
-| bip_39_word_new_line1 | result |  
-| bip_39_word_new_line10 | result
+| bip_39_word_new_br_1 | result |  
+| bip_39_word_new_br_10 | result<br>scale<br>popular<br>pistol<br>decade<br>finish<br>arctic<br>joke<br>spawn<br>abuse |  
+| bip_39_word_new_br_11 | result<br>scale<br>popular<br>pistol<br>decade<br>finish<br>arctic<br>joke<br>spawn<br>abuse<br>voice |  
+| bip_39_word_new_br_12 | result<br>scale<br>popular<br>pistol<br>decade<br>finish<br>arctic<br>joke<br>spawn<br>abuse<br>voice<br>alcohol |  
+| bip_39_word_new_br_2 | result<br>scale |  
+| bip_39_word_new_br_3 | result<br>scale<br>popular |  
+| bip_39_word_new_br_4 | result<br>scale<br>popular<br>pistol |  
+| bip_39_word_new_br_5 | result<br>scale<br>popular<br>pistol<br>decade |  
+| bip_39_word_new_br_6 | result<br>scale<br>popular<br>pistol<br>decade<br>finish |  
+| bip_39_word_new_br_7 | result<br>scale<br>popular<br>pistol<br>decade<br>finish<br>arctic |  
+| bip_39_word_new_br_8 | result<br>scale<br>popular<br>pistol<br>decade<br>finish<br>arctic<br>joke |  
+| bip_39_word_new_br_9 | result<br>scale<br>popular<br>pistol<br>decade<br>finish<br>arctic<br>joke<br>spawn |  
+| bip_39_word_new_line_1 | result |  
+| bip_39_word_new_line_10 | result
 scale
 popular
 pistol
@@ -55,7 +55,7 @@ arctic
 joke
 spawn
 abuse |  
-| bip_39_word_new_line11 | result
+| bip_39_word_new_line_11 | result
 scale
 popular
 pistol
@@ -66,7 +66,7 @@ joke
 spawn
 abuse
 voice |  
-| bip_39_word_new_line12 | result
+| bip_39_word_new_line_12 | result
 scale
 popular
 pistol
@@ -78,34 +78,34 @@ spawn
 abuse
 voice
 alcohol |  
-| bip_39_word_new_line2 | result
+| bip_39_word_new_line_2 | result
 scale |  
-| bip_39_word_new_line3 | result
+| bip_39_word_new_line_3 | result
 scale
 popular |  
-| bip_39_word_new_line4 | result
+| bip_39_word_new_line_4 | result
 scale
 popular
 pistol |  
-| bip_39_word_new_line5 | result
+| bip_39_word_new_line_5 | result
 scale
 popular
 pistol
 decade |  
-| bip_39_word_new_line6 | result
+| bip_39_word_new_line_6 | result
 scale
 popular
 pistol
 decade
 finish |  
-| bip_39_word_new_line7 | result
+| bip_39_word_new_line_7 | result
 scale
 popular
 pistol
 decade
 finish
 arctic |  
-| bip_39_word_new_line8 | result
+| bip_39_word_new_line_8 | result
 scale
 popular
 pistol
@@ -113,7 +113,7 @@ decade
 finish
 arctic
 joke |  
-| bip_39_word_new_line9 | result
+| bip_39_word_new_line_9 | result
 scale
 popular
 pistol

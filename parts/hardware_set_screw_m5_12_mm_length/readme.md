@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wrestle |  
-| bip_39_word_new_br10 | wrestle<br>valve<br>home<br>sustain<br>where<br>warfare<br>under<br>summer<br>kiss<br>much |  
-| bip_39_word_new_br11 | wrestle<br>valve<br>home<br>sustain<br>where<br>warfare<br>under<br>summer<br>kiss<br>much<br>velvet |  
-| bip_39_word_new_br12 | wrestle<br>valve<br>home<br>sustain<br>where<br>warfare<br>under<br>summer<br>kiss<br>much<br>velvet<br>athlete |  
-| bip_39_word_new_br2 | wrestle<br>valve |  
-| bip_39_word_new_br3 | wrestle<br>valve<br>home |  
-| bip_39_word_new_br4 | wrestle<br>valve<br>home<br>sustain |  
-| bip_39_word_new_br5 | wrestle<br>valve<br>home<br>sustain<br>where |  
-| bip_39_word_new_br6 | wrestle<br>valve<br>home<br>sustain<br>where<br>warfare |  
-| bip_39_word_new_br7 | wrestle<br>valve<br>home<br>sustain<br>where<br>warfare<br>under |  
-| bip_39_word_new_br8 | wrestle<br>valve<br>home<br>sustain<br>where<br>warfare<br>under<br>summer |  
-| bip_39_word_new_br9 | wrestle<br>valve<br>home<br>sustain<br>where<br>warfare<br>under<br>summer<br>kiss |  
-| bip_39_word_new_line1 | wrestle |  
-| bip_39_word_new_line10 | wrestle
+| bip_39_word_new_br_1 | wrestle |  
+| bip_39_word_new_br_10 | wrestle<br>valve<br>home<br>sustain<br>where<br>warfare<br>under<br>summer<br>kiss<br>much |  
+| bip_39_word_new_br_11 | wrestle<br>valve<br>home<br>sustain<br>where<br>warfare<br>under<br>summer<br>kiss<br>much<br>velvet |  
+| bip_39_word_new_br_12 | wrestle<br>valve<br>home<br>sustain<br>where<br>warfare<br>under<br>summer<br>kiss<br>much<br>velvet<br>athlete |  
+| bip_39_word_new_br_2 | wrestle<br>valve |  
+| bip_39_word_new_br_3 | wrestle<br>valve<br>home |  
+| bip_39_word_new_br_4 | wrestle<br>valve<br>home<br>sustain |  
+| bip_39_word_new_br_5 | wrestle<br>valve<br>home<br>sustain<br>where |  
+| bip_39_word_new_br_6 | wrestle<br>valve<br>home<br>sustain<br>where<br>warfare |  
+| bip_39_word_new_br_7 | wrestle<br>valve<br>home<br>sustain<br>where<br>warfare<br>under |  
+| bip_39_word_new_br_8 | wrestle<br>valve<br>home<br>sustain<br>where<br>warfare<br>under<br>summer |  
+| bip_39_word_new_br_9 | wrestle<br>valve<br>home<br>sustain<br>where<br>warfare<br>under<br>summer<br>kiss |  
+| bip_39_word_new_line_1 | wrestle |  
+| bip_39_word_new_line_10 | wrestle
 valve
 home
 sustain
@@ -55,7 +55,7 @@ under
 summer
 kiss
 much |  
-| bip_39_word_new_line11 | wrestle
+| bip_39_word_new_line_11 | wrestle
 valve
 home
 sustain
@@ -66,7 +66,7 @@ summer
 kiss
 much
 velvet |  
-| bip_39_word_new_line12 | wrestle
+| bip_39_word_new_line_12 | wrestle
 valve
 home
 sustain
@@ -78,34 +78,34 @@ kiss
 much
 velvet
 athlete |  
-| bip_39_word_new_line2 | wrestle
+| bip_39_word_new_line_2 | wrestle
 valve |  
-| bip_39_word_new_line3 | wrestle
+| bip_39_word_new_line_3 | wrestle
 valve
 home |  
-| bip_39_word_new_line4 | wrestle
+| bip_39_word_new_line_4 | wrestle
 valve
 home
 sustain |  
-| bip_39_word_new_line5 | wrestle
+| bip_39_word_new_line_5 | wrestle
 valve
 home
 sustain
 where |  
-| bip_39_word_new_line6 | wrestle
+| bip_39_word_new_line_6 | wrestle
 valve
 home
 sustain
 where
 warfare |  
-| bip_39_word_new_line7 | wrestle
+| bip_39_word_new_line_7 | wrestle
 valve
 home
 sustain
 where
 warfare
 under |  
-| bip_39_word_new_line8 | wrestle
+| bip_39_word_new_line_8 | wrestle
 valve
 home
 sustain
@@ -113,7 +113,7 @@ where
 warfare
 under
 summer |  
-| bip_39_word_new_line9 | wrestle
+| bip_39_word_new_line_9 | wrestle
 valve
 home
 sustain

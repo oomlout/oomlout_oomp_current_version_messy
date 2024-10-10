@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | deputy |  
-| bip_39_word_new_br10 | deputy<br>frame<br>length<br>rule<br>toddler<br>bleak<br>tag<br>van<br>mango<br>achieve |  
-| bip_39_word_new_br11 | deputy<br>frame<br>length<br>rule<br>toddler<br>bleak<br>tag<br>van<br>mango<br>achieve<br>error |  
-| bip_39_word_new_br12 | deputy<br>frame<br>length<br>rule<br>toddler<br>bleak<br>tag<br>van<br>mango<br>achieve<br>error<br>alert |  
-| bip_39_word_new_br2 | deputy<br>frame |  
-| bip_39_word_new_br3 | deputy<br>frame<br>length |  
-| bip_39_word_new_br4 | deputy<br>frame<br>length<br>rule |  
-| bip_39_word_new_br5 | deputy<br>frame<br>length<br>rule<br>toddler |  
-| bip_39_word_new_br6 | deputy<br>frame<br>length<br>rule<br>toddler<br>bleak |  
-| bip_39_word_new_br7 | deputy<br>frame<br>length<br>rule<br>toddler<br>bleak<br>tag |  
-| bip_39_word_new_br8 | deputy<br>frame<br>length<br>rule<br>toddler<br>bleak<br>tag<br>van |  
-| bip_39_word_new_br9 | deputy<br>frame<br>length<br>rule<br>toddler<br>bleak<br>tag<br>van<br>mango |  
-| bip_39_word_new_line1 | deputy |  
-| bip_39_word_new_line10 | deputy
+| bip_39_word_new_br_1 | deputy |  
+| bip_39_word_new_br_10 | deputy<br>frame<br>length<br>rule<br>toddler<br>bleak<br>tag<br>van<br>mango<br>achieve |  
+| bip_39_word_new_br_11 | deputy<br>frame<br>length<br>rule<br>toddler<br>bleak<br>tag<br>van<br>mango<br>achieve<br>error |  
+| bip_39_word_new_br_12 | deputy<br>frame<br>length<br>rule<br>toddler<br>bleak<br>tag<br>van<br>mango<br>achieve<br>error<br>alert |  
+| bip_39_word_new_br_2 | deputy<br>frame |  
+| bip_39_word_new_br_3 | deputy<br>frame<br>length |  
+| bip_39_word_new_br_4 | deputy<br>frame<br>length<br>rule |  
+| bip_39_word_new_br_5 | deputy<br>frame<br>length<br>rule<br>toddler |  
+| bip_39_word_new_br_6 | deputy<br>frame<br>length<br>rule<br>toddler<br>bleak |  
+| bip_39_word_new_br_7 | deputy<br>frame<br>length<br>rule<br>toddler<br>bleak<br>tag |  
+| bip_39_word_new_br_8 | deputy<br>frame<br>length<br>rule<br>toddler<br>bleak<br>tag<br>van |  
+| bip_39_word_new_br_9 | deputy<br>frame<br>length<br>rule<br>toddler<br>bleak<br>tag<br>van<br>mango |  
+| bip_39_word_new_line_1 | deputy |  
+| bip_39_word_new_line_10 | deputy
 frame
 length
 rule
@@ -55,7 +55,7 @@ tag
 van
 mango
 achieve |  
-| bip_39_word_new_line11 | deputy
+| bip_39_word_new_line_11 | deputy
 frame
 length
 rule
@@ -66,7 +66,7 @@ van
 mango
 achieve
 error |  
-| bip_39_word_new_line12 | deputy
+| bip_39_word_new_line_12 | deputy
 frame
 length
 rule
@@ -78,34 +78,34 @@ mango
 achieve
 error
 alert |  
-| bip_39_word_new_line2 | deputy
+| bip_39_word_new_line_2 | deputy
 frame |  
-| bip_39_word_new_line3 | deputy
+| bip_39_word_new_line_3 | deputy
 frame
 length |  
-| bip_39_word_new_line4 | deputy
+| bip_39_word_new_line_4 | deputy
 frame
 length
 rule |  
-| bip_39_word_new_line5 | deputy
+| bip_39_word_new_line_5 | deputy
 frame
 length
 rule
 toddler |  
-| bip_39_word_new_line6 | deputy
+| bip_39_word_new_line_6 | deputy
 frame
 length
 rule
 toddler
 bleak |  
-| bip_39_word_new_line7 | deputy
+| bip_39_word_new_line_7 | deputy
 frame
 length
 rule
 toddler
 bleak
 tag |  
-| bip_39_word_new_line8 | deputy
+| bip_39_word_new_line_8 | deputy
 frame
 length
 rule
@@ -113,7 +113,7 @@ toddler
 bleak
 tag
 van |  
-| bip_39_word_new_line9 | deputy
+| bip_39_word_new_line_9 | deputy
 frame
 length
 rule

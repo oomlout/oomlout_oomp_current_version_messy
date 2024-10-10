@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | resource |  
-| bip_39_word_new_br10 | resource<br>gadget<br>popular<br>unveil<br>tissue<br>burst<br>mirror<br>area<br>pitch<br>electric |  
-| bip_39_word_new_br11 | resource<br>gadget<br>popular<br>unveil<br>tissue<br>burst<br>mirror<br>area<br>pitch<br>electric<br>portion |  
-| bip_39_word_new_br12 | resource<br>gadget<br>popular<br>unveil<br>tissue<br>burst<br>mirror<br>area<br>pitch<br>electric<br>portion<br>acid |  
-| bip_39_word_new_br2 | resource<br>gadget |  
-| bip_39_word_new_br3 | resource<br>gadget<br>popular |  
-| bip_39_word_new_br4 | resource<br>gadget<br>popular<br>unveil |  
-| bip_39_word_new_br5 | resource<br>gadget<br>popular<br>unveil<br>tissue |  
-| bip_39_word_new_br6 | resource<br>gadget<br>popular<br>unveil<br>tissue<br>burst |  
-| bip_39_word_new_br7 | resource<br>gadget<br>popular<br>unveil<br>tissue<br>burst<br>mirror |  
-| bip_39_word_new_br8 | resource<br>gadget<br>popular<br>unveil<br>tissue<br>burst<br>mirror<br>area |  
-| bip_39_word_new_br9 | resource<br>gadget<br>popular<br>unveil<br>tissue<br>burst<br>mirror<br>area<br>pitch |  
-| bip_39_word_new_line1 | resource |  
-| bip_39_word_new_line10 | resource
+| bip_39_word_new_br_1 | resource |  
+| bip_39_word_new_br_10 | resource<br>gadget<br>popular<br>unveil<br>tissue<br>burst<br>mirror<br>area<br>pitch<br>electric |  
+| bip_39_word_new_br_11 | resource<br>gadget<br>popular<br>unveil<br>tissue<br>burst<br>mirror<br>area<br>pitch<br>electric<br>portion |  
+| bip_39_word_new_br_12 | resource<br>gadget<br>popular<br>unveil<br>tissue<br>burst<br>mirror<br>area<br>pitch<br>electric<br>portion<br>acid |  
+| bip_39_word_new_br_2 | resource<br>gadget |  
+| bip_39_word_new_br_3 | resource<br>gadget<br>popular |  
+| bip_39_word_new_br_4 | resource<br>gadget<br>popular<br>unveil |  
+| bip_39_word_new_br_5 | resource<br>gadget<br>popular<br>unveil<br>tissue |  
+| bip_39_word_new_br_6 | resource<br>gadget<br>popular<br>unveil<br>tissue<br>burst |  
+| bip_39_word_new_br_7 | resource<br>gadget<br>popular<br>unveil<br>tissue<br>burst<br>mirror |  
+| bip_39_word_new_br_8 | resource<br>gadget<br>popular<br>unveil<br>tissue<br>burst<br>mirror<br>area |  
+| bip_39_word_new_br_9 | resource<br>gadget<br>popular<br>unveil<br>tissue<br>burst<br>mirror<br>area<br>pitch |  
+| bip_39_word_new_line_1 | resource |  
+| bip_39_word_new_line_10 | resource
 gadget
 popular
 unveil
@@ -55,7 +55,7 @@ mirror
 area
 pitch
 electric |  
-| bip_39_word_new_line11 | resource
+| bip_39_word_new_line_11 | resource
 gadget
 popular
 unveil
@@ -66,7 +66,7 @@ area
 pitch
 electric
 portion |  
-| bip_39_word_new_line12 | resource
+| bip_39_word_new_line_12 | resource
 gadget
 popular
 unveil
@@ -78,34 +78,34 @@ pitch
 electric
 portion
 acid |  
-| bip_39_word_new_line2 | resource
+| bip_39_word_new_line_2 | resource
 gadget |  
-| bip_39_word_new_line3 | resource
+| bip_39_word_new_line_3 | resource
 gadget
 popular |  
-| bip_39_word_new_line4 | resource
+| bip_39_word_new_line_4 | resource
 gadget
 popular
 unveil |  
-| bip_39_word_new_line5 | resource
+| bip_39_word_new_line_5 | resource
 gadget
 popular
 unveil
 tissue |  
-| bip_39_word_new_line6 | resource
+| bip_39_word_new_line_6 | resource
 gadget
 popular
 unveil
 tissue
 burst |  
-| bip_39_word_new_line7 | resource
+| bip_39_word_new_line_7 | resource
 gadget
 popular
 unveil
 tissue
 burst
 mirror |  
-| bip_39_word_new_line8 | resource
+| bip_39_word_new_line_8 | resource
 gadget
 popular
 unveil
@@ -113,7 +113,7 @@ tissue
 burst
 mirror
 area |  
-| bip_39_word_new_line9 | resource
+| bip_39_word_new_line_9 | resource
 gadget
 popular
 unveil

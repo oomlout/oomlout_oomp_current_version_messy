@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | copy |  
-| bip_39_word_new_br10 | copy<br>planet<br>mean<br>economy<br>picture<br>topple<br>attract<br>door<br>talent<br>upgrade |  
-| bip_39_word_new_br11 | copy<br>planet<br>mean<br>economy<br>picture<br>topple<br>attract<br>door<br>talent<br>upgrade<br>fee |  
-| bip_39_word_new_br12 | copy<br>planet<br>mean<br>economy<br>picture<br>topple<br>attract<br>door<br>talent<br>upgrade<br>fee<br>arrive |  
-| bip_39_word_new_br2 | copy<br>planet |  
-| bip_39_word_new_br3 | copy<br>planet<br>mean |  
-| bip_39_word_new_br4 | copy<br>planet<br>mean<br>economy |  
-| bip_39_word_new_br5 | copy<br>planet<br>mean<br>economy<br>picture |  
-| bip_39_word_new_br6 | copy<br>planet<br>mean<br>economy<br>picture<br>topple |  
-| bip_39_word_new_br7 | copy<br>planet<br>mean<br>economy<br>picture<br>topple<br>attract |  
-| bip_39_word_new_br8 | copy<br>planet<br>mean<br>economy<br>picture<br>topple<br>attract<br>door |  
-| bip_39_word_new_br9 | copy<br>planet<br>mean<br>economy<br>picture<br>topple<br>attract<br>door<br>talent |  
-| bip_39_word_new_line1 | copy |  
-| bip_39_word_new_line10 | copy
+| bip_39_word_new_br_1 | copy |  
+| bip_39_word_new_br_10 | copy<br>planet<br>mean<br>economy<br>picture<br>topple<br>attract<br>door<br>talent<br>upgrade |  
+| bip_39_word_new_br_11 | copy<br>planet<br>mean<br>economy<br>picture<br>topple<br>attract<br>door<br>talent<br>upgrade<br>fee |  
+| bip_39_word_new_br_12 | copy<br>planet<br>mean<br>economy<br>picture<br>topple<br>attract<br>door<br>talent<br>upgrade<br>fee<br>arrive |  
+| bip_39_word_new_br_2 | copy<br>planet |  
+| bip_39_word_new_br_3 | copy<br>planet<br>mean |  
+| bip_39_word_new_br_4 | copy<br>planet<br>mean<br>economy |  
+| bip_39_word_new_br_5 | copy<br>planet<br>mean<br>economy<br>picture |  
+| bip_39_word_new_br_6 | copy<br>planet<br>mean<br>economy<br>picture<br>topple |  
+| bip_39_word_new_br_7 | copy<br>planet<br>mean<br>economy<br>picture<br>topple<br>attract |  
+| bip_39_word_new_br_8 | copy<br>planet<br>mean<br>economy<br>picture<br>topple<br>attract<br>door |  
+| bip_39_word_new_br_9 | copy<br>planet<br>mean<br>economy<br>picture<br>topple<br>attract<br>door<br>talent |  
+| bip_39_word_new_line_1 | copy |  
+| bip_39_word_new_line_10 | copy
 planet
 mean
 economy
@@ -55,7 +55,7 @@ attract
 door
 talent
 upgrade |  
-| bip_39_word_new_line11 | copy
+| bip_39_word_new_line_11 | copy
 planet
 mean
 economy
@@ -66,7 +66,7 @@ door
 talent
 upgrade
 fee |  
-| bip_39_word_new_line12 | copy
+| bip_39_word_new_line_12 | copy
 planet
 mean
 economy
@@ -78,34 +78,34 @@ talent
 upgrade
 fee
 arrive |  
-| bip_39_word_new_line2 | copy
+| bip_39_word_new_line_2 | copy
 planet |  
-| bip_39_word_new_line3 | copy
+| bip_39_word_new_line_3 | copy
 planet
 mean |  
-| bip_39_word_new_line4 | copy
+| bip_39_word_new_line_4 | copy
 planet
 mean
 economy |  
-| bip_39_word_new_line5 | copy
+| bip_39_word_new_line_5 | copy
 planet
 mean
 economy
 picture |  
-| bip_39_word_new_line6 | copy
+| bip_39_word_new_line_6 | copy
 planet
 mean
 economy
 picture
 topple |  
-| bip_39_word_new_line7 | copy
+| bip_39_word_new_line_7 | copy
 planet
 mean
 economy
 picture
 topple
 attract |  
-| bip_39_word_new_line8 | copy
+| bip_39_word_new_line_8 | copy
 planet
 mean
 economy
@@ -113,7 +113,7 @@ picture
 topple
 attract
 door |  
-| bip_39_word_new_line9 | copy
+| bip_39_word_new_line_9 | copy
 planet
 mean
 economy

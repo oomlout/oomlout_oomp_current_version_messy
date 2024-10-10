@@ -1,17 +1,17 @@
-bip_39_word_new_br1: wolf
-bip_39_word_new_br10: wolf<br>dumb<br>film<br>trend<br>exercise<br>buffalo<br>afraid<br>slight<br>cargo<br>drama
-bip_39_word_new_br11: wolf<br>dumb<br>film<br>trend<br>exercise<br>buffalo<br>afraid<br>slight<br>cargo<br>drama<br>humor
-bip_39_word_new_br12: wolf<br>dumb<br>film<br>trend<br>exercise<br>buffalo<br>afraid<br>slight<br>cargo<br>drama<br>humor<br>artist
-bip_39_word_new_br2: wolf<br>dumb
-bip_39_word_new_br3: wolf<br>dumb<br>film
-bip_39_word_new_br4: wolf<br>dumb<br>film<br>trend
-bip_39_word_new_br5: wolf<br>dumb<br>film<br>trend<br>exercise
-bip_39_word_new_br6: wolf<br>dumb<br>film<br>trend<br>exercise<br>buffalo
-bip_39_word_new_br7: wolf<br>dumb<br>film<br>trend<br>exercise<br>buffalo<br>afraid
-bip_39_word_new_br8: wolf<br>dumb<br>film<br>trend<br>exercise<br>buffalo<br>afraid<br>slight
-bip_39_word_new_br9: wolf<br>dumb<br>film<br>trend<br>exercise<br>buffalo<br>afraid<br>slight<br>cargo
-bip_39_word_new_line1: wolf
-bip_39_word_new_line10: 'wolf
+bip_39_word_new_br_1: wolf
+bip_39_word_new_br_10: wolf<br>dumb<br>film<br>trend<br>exercise<br>buffalo<br>afraid<br>slight<br>cargo<br>drama
+bip_39_word_new_br_11: wolf<br>dumb<br>film<br>trend<br>exercise<br>buffalo<br>afraid<br>slight<br>cargo<br>drama<br>humor
+bip_39_word_new_br_12: wolf<br>dumb<br>film<br>trend<br>exercise<br>buffalo<br>afraid<br>slight<br>cargo<br>drama<br>humor<br>artist
+bip_39_word_new_br_2: wolf<br>dumb
+bip_39_word_new_br_3: wolf<br>dumb<br>film
+bip_39_word_new_br_4: wolf<br>dumb<br>film<br>trend
+bip_39_word_new_br_5: wolf<br>dumb<br>film<br>trend<br>exercise
+bip_39_word_new_br_6: wolf<br>dumb<br>film<br>trend<br>exercise<br>buffalo
+bip_39_word_new_br_7: wolf<br>dumb<br>film<br>trend<br>exercise<br>buffalo<br>afraid
+bip_39_word_new_br_8: wolf<br>dumb<br>film<br>trend<br>exercise<br>buffalo<br>afraid<br>slight
+bip_39_word_new_br_9: wolf<br>dumb<br>film<br>trend<br>exercise<br>buffalo<br>afraid<br>slight<br>cargo
+bip_39_word_new_line_1: wolf
+bip_39_word_new_line_10: 'wolf
 
   dumb
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'wolf
   cargo
 
   drama'
-bip_39_word_new_line11: 'wolf
+bip_39_word_new_line_11: 'wolf
 
   dumb
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'wolf
   drama
 
   humor'
-bip_39_word_new_line12: 'wolf
+bip_39_word_new_line_12: 'wolf
 
   dumb
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'wolf
   humor
 
   artist'
-bip_39_word_new_line2: 'wolf
+bip_39_word_new_line_2: 'wolf
 
   dumb'
-bip_39_word_new_line3: 'wolf
+bip_39_word_new_line_3: 'wolf
 
   dumb
 
   film'
-bip_39_word_new_line4: 'wolf
+bip_39_word_new_line_4: 'wolf
 
   dumb
 
   film
 
   trend'
-bip_39_word_new_line5: 'wolf
+bip_39_word_new_line_5: 'wolf
 
   dumb
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'wolf
   trend
 
   exercise'
-bip_39_word_new_line6: 'wolf
+bip_39_word_new_line_6: 'wolf
 
   dumb
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'wolf
   exercise
 
   buffalo'
-bip_39_word_new_line7: 'wolf
+bip_39_word_new_line_7: 'wolf
 
   dumb
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'wolf
   buffalo
 
   afraid'
-bip_39_word_new_line8: 'wolf
+bip_39_word_new_line_8: 'wolf
 
   dumb
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'wolf
   afraid
 
   slight'
-bip_39_word_new_line9: 'wolf
+bip_39_word_new_line_9: 'wolf
 
   dumb
 

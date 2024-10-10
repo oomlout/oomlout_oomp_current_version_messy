@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | curious |  
-| bip_39_word_new_br10 | curious<br>hamster<br>table<br>vessel<br>select<br>drill<br>margin<br>outer<br>remind<br>picnic |  
-| bip_39_word_new_br11 | curious<br>hamster<br>table<br>vessel<br>select<br>drill<br>margin<br>outer<br>remind<br>picnic<br>unknown |  
-| bip_39_word_new_br12 | curious<br>hamster<br>table<br>vessel<br>select<br>drill<br>margin<br>outer<br>remind<br>picnic<br>unknown<br>abuse |  
-| bip_39_word_new_br2 | curious<br>hamster |  
-| bip_39_word_new_br3 | curious<br>hamster<br>table |  
-| bip_39_word_new_br4 | curious<br>hamster<br>table<br>vessel |  
-| bip_39_word_new_br5 | curious<br>hamster<br>table<br>vessel<br>select |  
-| bip_39_word_new_br6 | curious<br>hamster<br>table<br>vessel<br>select<br>drill |  
-| bip_39_word_new_br7 | curious<br>hamster<br>table<br>vessel<br>select<br>drill<br>margin |  
-| bip_39_word_new_br8 | curious<br>hamster<br>table<br>vessel<br>select<br>drill<br>margin<br>outer |  
-| bip_39_word_new_br9 | curious<br>hamster<br>table<br>vessel<br>select<br>drill<br>margin<br>outer<br>remind |  
-| bip_39_word_new_line1 | curious |  
-| bip_39_word_new_line10 | curious
+| bip_39_word_new_br_1 | curious |  
+| bip_39_word_new_br_10 | curious<br>hamster<br>table<br>vessel<br>select<br>drill<br>margin<br>outer<br>remind<br>picnic |  
+| bip_39_word_new_br_11 | curious<br>hamster<br>table<br>vessel<br>select<br>drill<br>margin<br>outer<br>remind<br>picnic<br>unknown |  
+| bip_39_word_new_br_12 | curious<br>hamster<br>table<br>vessel<br>select<br>drill<br>margin<br>outer<br>remind<br>picnic<br>unknown<br>abuse |  
+| bip_39_word_new_br_2 | curious<br>hamster |  
+| bip_39_word_new_br_3 | curious<br>hamster<br>table |  
+| bip_39_word_new_br_4 | curious<br>hamster<br>table<br>vessel |  
+| bip_39_word_new_br_5 | curious<br>hamster<br>table<br>vessel<br>select |  
+| bip_39_word_new_br_6 | curious<br>hamster<br>table<br>vessel<br>select<br>drill |  
+| bip_39_word_new_br_7 | curious<br>hamster<br>table<br>vessel<br>select<br>drill<br>margin |  
+| bip_39_word_new_br_8 | curious<br>hamster<br>table<br>vessel<br>select<br>drill<br>margin<br>outer |  
+| bip_39_word_new_br_9 | curious<br>hamster<br>table<br>vessel<br>select<br>drill<br>margin<br>outer<br>remind |  
+| bip_39_word_new_line_1 | curious |  
+| bip_39_word_new_line_10 | curious
 hamster
 table
 vessel
@@ -55,7 +55,7 @@ margin
 outer
 remind
 picnic |  
-| bip_39_word_new_line11 | curious
+| bip_39_word_new_line_11 | curious
 hamster
 table
 vessel
@@ -66,7 +66,7 @@ outer
 remind
 picnic
 unknown |  
-| bip_39_word_new_line12 | curious
+| bip_39_word_new_line_12 | curious
 hamster
 table
 vessel
@@ -78,34 +78,34 @@ remind
 picnic
 unknown
 abuse |  
-| bip_39_word_new_line2 | curious
+| bip_39_word_new_line_2 | curious
 hamster |  
-| bip_39_word_new_line3 | curious
+| bip_39_word_new_line_3 | curious
 hamster
 table |  
-| bip_39_word_new_line4 | curious
+| bip_39_word_new_line_4 | curious
 hamster
 table
 vessel |  
-| bip_39_word_new_line5 | curious
+| bip_39_word_new_line_5 | curious
 hamster
 table
 vessel
 select |  
-| bip_39_word_new_line6 | curious
+| bip_39_word_new_line_6 | curious
 hamster
 table
 vessel
 select
 drill |  
-| bip_39_word_new_line7 | curious
+| bip_39_word_new_line_7 | curious
 hamster
 table
 vessel
 select
 drill
 margin |  
-| bip_39_word_new_line8 | curious
+| bip_39_word_new_line_8 | curious
 hamster
 table
 vessel
@@ -113,7 +113,7 @@ select
 drill
 margin
 outer |  
-| bip_39_word_new_line9 | curious
+| bip_39_word_new_line_9 | curious
 hamster
 table
 vessel

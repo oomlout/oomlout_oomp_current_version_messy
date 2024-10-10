@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sign |  
-| bip_39_word_new_br10 | sign<br>hundred<br>trim<br>nest<br>arch<br>sense<br>upon<br>voice<br>elder<br>enact |  
-| bip_39_word_new_br11 | sign<br>hundred<br>trim<br>nest<br>arch<br>sense<br>upon<br>voice<br>elder<br>enact<br>boil |  
-| bip_39_word_new_br12 | sign<br>hundred<br>trim<br>nest<br>arch<br>sense<br>upon<br>voice<br>elder<br>enact<br>boil<br>another |  
-| bip_39_word_new_br2 | sign<br>hundred |  
-| bip_39_word_new_br3 | sign<br>hundred<br>trim |  
-| bip_39_word_new_br4 | sign<br>hundred<br>trim<br>nest |  
-| bip_39_word_new_br5 | sign<br>hundred<br>trim<br>nest<br>arch |  
-| bip_39_word_new_br6 | sign<br>hundred<br>trim<br>nest<br>arch<br>sense |  
-| bip_39_word_new_br7 | sign<br>hundred<br>trim<br>nest<br>arch<br>sense<br>upon |  
-| bip_39_word_new_br8 | sign<br>hundred<br>trim<br>nest<br>arch<br>sense<br>upon<br>voice |  
-| bip_39_word_new_br9 | sign<br>hundred<br>trim<br>nest<br>arch<br>sense<br>upon<br>voice<br>elder |  
-| bip_39_word_new_line1 | sign |  
-| bip_39_word_new_line10 | sign
+| bip_39_word_new_br_1 | sign |  
+| bip_39_word_new_br_10 | sign<br>hundred<br>trim<br>nest<br>arch<br>sense<br>upon<br>voice<br>elder<br>enact |  
+| bip_39_word_new_br_11 | sign<br>hundred<br>trim<br>nest<br>arch<br>sense<br>upon<br>voice<br>elder<br>enact<br>boil |  
+| bip_39_word_new_br_12 | sign<br>hundred<br>trim<br>nest<br>arch<br>sense<br>upon<br>voice<br>elder<br>enact<br>boil<br>another |  
+| bip_39_word_new_br_2 | sign<br>hundred |  
+| bip_39_word_new_br_3 | sign<br>hundred<br>trim |  
+| bip_39_word_new_br_4 | sign<br>hundred<br>trim<br>nest |  
+| bip_39_word_new_br_5 | sign<br>hundred<br>trim<br>nest<br>arch |  
+| bip_39_word_new_br_6 | sign<br>hundred<br>trim<br>nest<br>arch<br>sense |  
+| bip_39_word_new_br_7 | sign<br>hundred<br>trim<br>nest<br>arch<br>sense<br>upon |  
+| bip_39_word_new_br_8 | sign<br>hundred<br>trim<br>nest<br>arch<br>sense<br>upon<br>voice |  
+| bip_39_word_new_br_9 | sign<br>hundred<br>trim<br>nest<br>arch<br>sense<br>upon<br>voice<br>elder |  
+| bip_39_word_new_line_1 | sign |  
+| bip_39_word_new_line_10 | sign
 hundred
 trim
 nest
@@ -55,7 +55,7 @@ upon
 voice
 elder
 enact |  
-| bip_39_word_new_line11 | sign
+| bip_39_word_new_line_11 | sign
 hundred
 trim
 nest
@@ -66,7 +66,7 @@ voice
 elder
 enact
 boil |  
-| bip_39_word_new_line12 | sign
+| bip_39_word_new_line_12 | sign
 hundred
 trim
 nest
@@ -78,34 +78,34 @@ elder
 enact
 boil
 another |  
-| bip_39_word_new_line2 | sign
+| bip_39_word_new_line_2 | sign
 hundred |  
-| bip_39_word_new_line3 | sign
+| bip_39_word_new_line_3 | sign
 hundred
 trim |  
-| bip_39_word_new_line4 | sign
+| bip_39_word_new_line_4 | sign
 hundred
 trim
 nest |  
-| bip_39_word_new_line5 | sign
+| bip_39_word_new_line_5 | sign
 hundred
 trim
 nest
 arch |  
-| bip_39_word_new_line6 | sign
+| bip_39_word_new_line_6 | sign
 hundred
 trim
 nest
 arch
 sense |  
-| bip_39_word_new_line7 | sign
+| bip_39_word_new_line_7 | sign
 hundred
 trim
 nest
 arch
 sense
 upon |  
-| bip_39_word_new_line8 | sign
+| bip_39_word_new_line_8 | sign
 hundred
 trim
 nest
@@ -113,7 +113,7 @@ arch
 sense
 upon
 voice |  
-| bip_39_word_new_line9 | sign
+| bip_39_word_new_line_9 | sign
 hundred
 trim
 nest

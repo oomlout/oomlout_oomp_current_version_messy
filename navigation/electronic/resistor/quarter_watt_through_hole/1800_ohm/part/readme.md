@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | crime |  
-| bip_39_word_new_br10 | crime<br>cushion<br>cry<br>hello<br>share<br>pumpkin<br>people<br>stumble<br>rice<br>metal |  
-| bip_39_word_new_br11 | crime<br>cushion<br>cry<br>hello<br>share<br>pumpkin<br>people<br>stumble<br>rice<br>metal<br>kind |  
-| bip_39_word_new_br12 | crime<br>cushion<br>cry<br>hello<br>share<br>pumpkin<br>people<br>stumble<br>rice<br>metal<br>kind<br>almost |  
-| bip_39_word_new_br2 | crime<br>cushion |  
-| bip_39_word_new_br3 | crime<br>cushion<br>cry |  
-| bip_39_word_new_br4 | crime<br>cushion<br>cry<br>hello |  
-| bip_39_word_new_br5 | crime<br>cushion<br>cry<br>hello<br>share |  
-| bip_39_word_new_br6 | crime<br>cushion<br>cry<br>hello<br>share<br>pumpkin |  
-| bip_39_word_new_br7 | crime<br>cushion<br>cry<br>hello<br>share<br>pumpkin<br>people |  
-| bip_39_word_new_br8 | crime<br>cushion<br>cry<br>hello<br>share<br>pumpkin<br>people<br>stumble |  
-| bip_39_word_new_br9 | crime<br>cushion<br>cry<br>hello<br>share<br>pumpkin<br>people<br>stumble<br>rice |  
-| bip_39_word_new_line1 | crime |  
-| bip_39_word_new_line10 | crime
+| bip_39_word_new_br_1 | crime |  
+| bip_39_word_new_br_10 | crime<br>cushion<br>cry<br>hello<br>share<br>pumpkin<br>people<br>stumble<br>rice<br>metal |  
+| bip_39_word_new_br_11 | crime<br>cushion<br>cry<br>hello<br>share<br>pumpkin<br>people<br>stumble<br>rice<br>metal<br>kind |  
+| bip_39_word_new_br_12 | crime<br>cushion<br>cry<br>hello<br>share<br>pumpkin<br>people<br>stumble<br>rice<br>metal<br>kind<br>almost |  
+| bip_39_word_new_br_2 | crime<br>cushion |  
+| bip_39_word_new_br_3 | crime<br>cushion<br>cry |  
+| bip_39_word_new_br_4 | crime<br>cushion<br>cry<br>hello |  
+| bip_39_word_new_br_5 | crime<br>cushion<br>cry<br>hello<br>share |  
+| bip_39_word_new_br_6 | crime<br>cushion<br>cry<br>hello<br>share<br>pumpkin |  
+| bip_39_word_new_br_7 | crime<br>cushion<br>cry<br>hello<br>share<br>pumpkin<br>people |  
+| bip_39_word_new_br_8 | crime<br>cushion<br>cry<br>hello<br>share<br>pumpkin<br>people<br>stumble |  
+| bip_39_word_new_br_9 | crime<br>cushion<br>cry<br>hello<br>share<br>pumpkin<br>people<br>stumble<br>rice |  
+| bip_39_word_new_line_1 | crime |  
+| bip_39_word_new_line_10 | crime
 cushion
 cry
 hello
@@ -55,7 +55,7 @@ people
 stumble
 rice
 metal |  
-| bip_39_word_new_line11 | crime
+| bip_39_word_new_line_11 | crime
 cushion
 cry
 hello
@@ -66,7 +66,7 @@ stumble
 rice
 metal
 kind |  
-| bip_39_word_new_line12 | crime
+| bip_39_word_new_line_12 | crime
 cushion
 cry
 hello
@@ -78,34 +78,34 @@ rice
 metal
 kind
 almost |  
-| bip_39_word_new_line2 | crime
+| bip_39_word_new_line_2 | crime
 cushion |  
-| bip_39_word_new_line3 | crime
+| bip_39_word_new_line_3 | crime
 cushion
 cry |  
-| bip_39_word_new_line4 | crime
+| bip_39_word_new_line_4 | crime
 cushion
 cry
 hello |  
-| bip_39_word_new_line5 | crime
+| bip_39_word_new_line_5 | crime
 cushion
 cry
 hello
 share |  
-| bip_39_word_new_line6 | crime
+| bip_39_word_new_line_6 | crime
 cushion
 cry
 hello
 share
 pumpkin |  
-| bip_39_word_new_line7 | crime
+| bip_39_word_new_line_7 | crime
 cushion
 cry
 hello
 share
 pumpkin
 people |  
-| bip_39_word_new_line8 | crime
+| bip_39_word_new_line_8 | crime
 cushion
 cry
 hello
@@ -113,7 +113,7 @@ share
 pumpkin
 people
 stumble |  
-| bip_39_word_new_line9 | crime
+| bip_39_word_new_line_9 | crime
 cushion
 cry
 hello

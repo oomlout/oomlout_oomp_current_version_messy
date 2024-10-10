@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wage |  
-| bip_39_word_new_br10 | wage<br>away<br>also<br>mother<br>silver<br>craft<br>city<br>coconut<br>better<br>broccoli |  
-| bip_39_word_new_br11 | wage<br>away<br>also<br>mother<br>silver<br>craft<br>city<br>coconut<br>better<br>broccoli<br>clinic |  
-| bip_39_word_new_br12 | wage<br>away<br>also<br>mother<br>silver<br>craft<br>city<br>coconut<br>better<br>broccoli<br>clinic<br>acquire |  
-| bip_39_word_new_br2 | wage<br>away |  
-| bip_39_word_new_br3 | wage<br>away<br>also |  
-| bip_39_word_new_br4 | wage<br>away<br>also<br>mother |  
-| bip_39_word_new_br5 | wage<br>away<br>also<br>mother<br>silver |  
-| bip_39_word_new_br6 | wage<br>away<br>also<br>mother<br>silver<br>craft |  
-| bip_39_word_new_br7 | wage<br>away<br>also<br>mother<br>silver<br>craft<br>city |  
-| bip_39_word_new_br8 | wage<br>away<br>also<br>mother<br>silver<br>craft<br>city<br>coconut |  
-| bip_39_word_new_br9 | wage<br>away<br>also<br>mother<br>silver<br>craft<br>city<br>coconut<br>better |  
-| bip_39_word_new_line1 | wage |  
-| bip_39_word_new_line10 | wage
+| bip_39_word_new_br_1 | wage |  
+| bip_39_word_new_br_10 | wage<br>away<br>also<br>mother<br>silver<br>craft<br>city<br>coconut<br>better<br>broccoli |  
+| bip_39_word_new_br_11 | wage<br>away<br>also<br>mother<br>silver<br>craft<br>city<br>coconut<br>better<br>broccoli<br>clinic |  
+| bip_39_word_new_br_12 | wage<br>away<br>also<br>mother<br>silver<br>craft<br>city<br>coconut<br>better<br>broccoli<br>clinic<br>acquire |  
+| bip_39_word_new_br_2 | wage<br>away |  
+| bip_39_word_new_br_3 | wage<br>away<br>also |  
+| bip_39_word_new_br_4 | wage<br>away<br>also<br>mother |  
+| bip_39_word_new_br_5 | wage<br>away<br>also<br>mother<br>silver |  
+| bip_39_word_new_br_6 | wage<br>away<br>also<br>mother<br>silver<br>craft |  
+| bip_39_word_new_br_7 | wage<br>away<br>also<br>mother<br>silver<br>craft<br>city |  
+| bip_39_word_new_br_8 | wage<br>away<br>also<br>mother<br>silver<br>craft<br>city<br>coconut |  
+| bip_39_word_new_br_9 | wage<br>away<br>also<br>mother<br>silver<br>craft<br>city<br>coconut<br>better |  
+| bip_39_word_new_line_1 | wage |  
+| bip_39_word_new_line_10 | wage
 away
 also
 mother
@@ -55,7 +55,7 @@ city
 coconut
 better
 broccoli |  
-| bip_39_word_new_line11 | wage
+| bip_39_word_new_line_11 | wage
 away
 also
 mother
@@ -66,7 +66,7 @@ coconut
 better
 broccoli
 clinic |  
-| bip_39_word_new_line12 | wage
+| bip_39_word_new_line_12 | wage
 away
 also
 mother
@@ -78,34 +78,34 @@ better
 broccoli
 clinic
 acquire |  
-| bip_39_word_new_line2 | wage
+| bip_39_word_new_line_2 | wage
 away |  
-| bip_39_word_new_line3 | wage
+| bip_39_word_new_line_3 | wage
 away
 also |  
-| bip_39_word_new_line4 | wage
+| bip_39_word_new_line_4 | wage
 away
 also
 mother |  
-| bip_39_word_new_line5 | wage
+| bip_39_word_new_line_5 | wage
 away
 also
 mother
 silver |  
-| bip_39_word_new_line6 | wage
+| bip_39_word_new_line_6 | wage
 away
 also
 mother
 silver
 craft |  
-| bip_39_word_new_line7 | wage
+| bip_39_word_new_line_7 | wage
 away
 also
 mother
 silver
 craft
 city |  
-| bip_39_word_new_line8 | wage
+| bip_39_word_new_line_8 | wage
 away
 also
 mother
@@ -113,7 +113,7 @@ silver
 craft
 city
 coconut |  
-| bip_39_word_new_line9 | wage
+| bip_39_word_new_line_9 | wage
 away
 also
 mother

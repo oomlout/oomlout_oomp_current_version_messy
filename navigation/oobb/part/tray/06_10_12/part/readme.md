@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | kangaroo |  
-| bip_39_word_new_br10 | kangaroo<br>shoot<br>crime<br>exhibit<br>bus<br>stable<br>rocket<br>sail<br>deny<br>ordinary |  
-| bip_39_word_new_br11 | kangaroo<br>shoot<br>crime<br>exhibit<br>bus<br>stable<br>rocket<br>sail<br>deny<br>ordinary<br>regular |  
-| bip_39_word_new_br12 | kangaroo<br>shoot<br>crime<br>exhibit<br>bus<br>stable<br>rocket<br>sail<br>deny<br>ordinary<br>regular<br>anger |  
-| bip_39_word_new_br2 | kangaroo<br>shoot |  
-| bip_39_word_new_br3 | kangaroo<br>shoot<br>crime |  
-| bip_39_word_new_br4 | kangaroo<br>shoot<br>crime<br>exhibit |  
-| bip_39_word_new_br5 | kangaroo<br>shoot<br>crime<br>exhibit<br>bus |  
-| bip_39_word_new_br6 | kangaroo<br>shoot<br>crime<br>exhibit<br>bus<br>stable |  
-| bip_39_word_new_br7 | kangaroo<br>shoot<br>crime<br>exhibit<br>bus<br>stable<br>rocket |  
-| bip_39_word_new_br8 | kangaroo<br>shoot<br>crime<br>exhibit<br>bus<br>stable<br>rocket<br>sail |  
-| bip_39_word_new_br9 | kangaroo<br>shoot<br>crime<br>exhibit<br>bus<br>stable<br>rocket<br>sail<br>deny |  
-| bip_39_word_new_line1 | kangaroo |  
-| bip_39_word_new_line10 | kangaroo
+| bip_39_word_new_br_1 | kangaroo |  
+| bip_39_word_new_br_10 | kangaroo<br>shoot<br>crime<br>exhibit<br>bus<br>stable<br>rocket<br>sail<br>deny<br>ordinary |  
+| bip_39_word_new_br_11 | kangaroo<br>shoot<br>crime<br>exhibit<br>bus<br>stable<br>rocket<br>sail<br>deny<br>ordinary<br>regular |  
+| bip_39_word_new_br_12 | kangaroo<br>shoot<br>crime<br>exhibit<br>bus<br>stable<br>rocket<br>sail<br>deny<br>ordinary<br>regular<br>anger |  
+| bip_39_word_new_br_2 | kangaroo<br>shoot |  
+| bip_39_word_new_br_3 | kangaroo<br>shoot<br>crime |  
+| bip_39_word_new_br_4 | kangaroo<br>shoot<br>crime<br>exhibit |  
+| bip_39_word_new_br_5 | kangaroo<br>shoot<br>crime<br>exhibit<br>bus |  
+| bip_39_word_new_br_6 | kangaroo<br>shoot<br>crime<br>exhibit<br>bus<br>stable |  
+| bip_39_word_new_br_7 | kangaroo<br>shoot<br>crime<br>exhibit<br>bus<br>stable<br>rocket |  
+| bip_39_word_new_br_8 | kangaroo<br>shoot<br>crime<br>exhibit<br>bus<br>stable<br>rocket<br>sail |  
+| bip_39_word_new_br_9 | kangaroo<br>shoot<br>crime<br>exhibit<br>bus<br>stable<br>rocket<br>sail<br>deny |  
+| bip_39_word_new_line_1 | kangaroo |  
+| bip_39_word_new_line_10 | kangaroo
 shoot
 crime
 exhibit
@@ -55,7 +55,7 @@ rocket
 sail
 deny
 ordinary |  
-| bip_39_word_new_line11 | kangaroo
+| bip_39_word_new_line_11 | kangaroo
 shoot
 crime
 exhibit
@@ -66,7 +66,7 @@ sail
 deny
 ordinary
 regular |  
-| bip_39_word_new_line12 | kangaroo
+| bip_39_word_new_line_12 | kangaroo
 shoot
 crime
 exhibit
@@ -78,34 +78,34 @@ deny
 ordinary
 regular
 anger |  
-| bip_39_word_new_line2 | kangaroo
+| bip_39_word_new_line_2 | kangaroo
 shoot |  
-| bip_39_word_new_line3 | kangaroo
+| bip_39_word_new_line_3 | kangaroo
 shoot
 crime |  
-| bip_39_word_new_line4 | kangaroo
+| bip_39_word_new_line_4 | kangaroo
 shoot
 crime
 exhibit |  
-| bip_39_word_new_line5 | kangaroo
+| bip_39_word_new_line_5 | kangaroo
 shoot
 crime
 exhibit
 bus |  
-| bip_39_word_new_line6 | kangaroo
+| bip_39_word_new_line_6 | kangaroo
 shoot
 crime
 exhibit
 bus
 stable |  
-| bip_39_word_new_line7 | kangaroo
+| bip_39_word_new_line_7 | kangaroo
 shoot
 crime
 exhibit
 bus
 stable
 rocket |  
-| bip_39_word_new_line8 | kangaroo
+| bip_39_word_new_line_8 | kangaroo
 shoot
 crime
 exhibit
@@ -113,7 +113,7 @@ bus
 stable
 rocket
 sail |  
-| bip_39_word_new_line9 | kangaroo
+| bip_39_word_new_line_9 | kangaroo
 shoot
 crime
 exhibit

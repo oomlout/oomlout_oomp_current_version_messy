@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | reopen |  
-| bip_39_word_new_br10 | reopen<br>clay<br>garbage<br>saddle<br>ozone<br>intact<br>permit<br>syrup<br>hill<br>word |  
-| bip_39_word_new_br11 | reopen<br>clay<br>garbage<br>saddle<br>ozone<br>intact<br>permit<br>syrup<br>hill<br>word<br>hard |  
-| bip_39_word_new_br12 | reopen<br>clay<br>garbage<br>saddle<br>ozone<br>intact<br>permit<br>syrup<br>hill<br>word<br>hard<br>apple |  
-| bip_39_word_new_br2 | reopen<br>clay |  
-| bip_39_word_new_br3 | reopen<br>clay<br>garbage |  
-| bip_39_word_new_br4 | reopen<br>clay<br>garbage<br>saddle |  
-| bip_39_word_new_br5 | reopen<br>clay<br>garbage<br>saddle<br>ozone |  
-| bip_39_word_new_br6 | reopen<br>clay<br>garbage<br>saddle<br>ozone<br>intact |  
-| bip_39_word_new_br7 | reopen<br>clay<br>garbage<br>saddle<br>ozone<br>intact<br>permit |  
-| bip_39_word_new_br8 | reopen<br>clay<br>garbage<br>saddle<br>ozone<br>intact<br>permit<br>syrup |  
-| bip_39_word_new_br9 | reopen<br>clay<br>garbage<br>saddle<br>ozone<br>intact<br>permit<br>syrup<br>hill |  
-| bip_39_word_new_line1 | reopen |  
-| bip_39_word_new_line10 | reopen
+| bip_39_word_new_br_1 | reopen |  
+| bip_39_word_new_br_10 | reopen<br>clay<br>garbage<br>saddle<br>ozone<br>intact<br>permit<br>syrup<br>hill<br>word |  
+| bip_39_word_new_br_11 | reopen<br>clay<br>garbage<br>saddle<br>ozone<br>intact<br>permit<br>syrup<br>hill<br>word<br>hard |  
+| bip_39_word_new_br_12 | reopen<br>clay<br>garbage<br>saddle<br>ozone<br>intact<br>permit<br>syrup<br>hill<br>word<br>hard<br>apple |  
+| bip_39_word_new_br_2 | reopen<br>clay |  
+| bip_39_word_new_br_3 | reopen<br>clay<br>garbage |  
+| bip_39_word_new_br_4 | reopen<br>clay<br>garbage<br>saddle |  
+| bip_39_word_new_br_5 | reopen<br>clay<br>garbage<br>saddle<br>ozone |  
+| bip_39_word_new_br_6 | reopen<br>clay<br>garbage<br>saddle<br>ozone<br>intact |  
+| bip_39_word_new_br_7 | reopen<br>clay<br>garbage<br>saddle<br>ozone<br>intact<br>permit |  
+| bip_39_word_new_br_8 | reopen<br>clay<br>garbage<br>saddle<br>ozone<br>intact<br>permit<br>syrup |  
+| bip_39_word_new_br_9 | reopen<br>clay<br>garbage<br>saddle<br>ozone<br>intact<br>permit<br>syrup<br>hill |  
+| bip_39_word_new_line_1 | reopen |  
+| bip_39_word_new_line_10 | reopen
 clay
 garbage
 saddle
@@ -55,7 +55,7 @@ permit
 syrup
 hill
 word |  
-| bip_39_word_new_line11 | reopen
+| bip_39_word_new_line_11 | reopen
 clay
 garbage
 saddle
@@ -66,7 +66,7 @@ syrup
 hill
 word
 hard |  
-| bip_39_word_new_line12 | reopen
+| bip_39_word_new_line_12 | reopen
 clay
 garbage
 saddle
@@ -78,34 +78,34 @@ hill
 word
 hard
 apple |  
-| bip_39_word_new_line2 | reopen
+| bip_39_word_new_line_2 | reopen
 clay |  
-| bip_39_word_new_line3 | reopen
+| bip_39_word_new_line_3 | reopen
 clay
 garbage |  
-| bip_39_word_new_line4 | reopen
+| bip_39_word_new_line_4 | reopen
 clay
 garbage
 saddle |  
-| bip_39_word_new_line5 | reopen
+| bip_39_word_new_line_5 | reopen
 clay
 garbage
 saddle
 ozone |  
-| bip_39_word_new_line6 | reopen
+| bip_39_word_new_line_6 | reopen
 clay
 garbage
 saddle
 ozone
 intact |  
-| bip_39_word_new_line7 | reopen
+| bip_39_word_new_line_7 | reopen
 clay
 garbage
 saddle
 ozone
 intact
 permit |  
-| bip_39_word_new_line8 | reopen
+| bip_39_word_new_line_8 | reopen
 clay
 garbage
 saddle
@@ -113,7 +113,7 @@ ozone
 intact
 permit
 syrup |  
-| bip_39_word_new_line9 | reopen
+| bip_39_word_new_line_9 | reopen
 clay
 garbage
 saddle

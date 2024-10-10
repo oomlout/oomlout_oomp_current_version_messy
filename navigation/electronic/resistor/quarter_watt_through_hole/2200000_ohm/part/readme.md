@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | glass |  
-| bip_39_word_new_br10 | glass<br>odor<br>skate<br>govern<br>boring<br>comfort<br>reflect<br>design<br>boat<br>creek |  
-| bip_39_word_new_br11 | glass<br>odor<br>skate<br>govern<br>boring<br>comfort<br>reflect<br>design<br>boat<br>creek<br>shift |  
-| bip_39_word_new_br12 | glass<br>odor<br>skate<br>govern<br>boring<br>comfort<br>reflect<br>design<br>boat<br>creek<br>shift<br>again |  
-| bip_39_word_new_br2 | glass<br>odor |  
-| bip_39_word_new_br3 | glass<br>odor<br>skate |  
-| bip_39_word_new_br4 | glass<br>odor<br>skate<br>govern |  
-| bip_39_word_new_br5 | glass<br>odor<br>skate<br>govern<br>boring |  
-| bip_39_word_new_br6 | glass<br>odor<br>skate<br>govern<br>boring<br>comfort |  
-| bip_39_word_new_br7 | glass<br>odor<br>skate<br>govern<br>boring<br>comfort<br>reflect |  
-| bip_39_word_new_br8 | glass<br>odor<br>skate<br>govern<br>boring<br>comfort<br>reflect<br>design |  
-| bip_39_word_new_br9 | glass<br>odor<br>skate<br>govern<br>boring<br>comfort<br>reflect<br>design<br>boat |  
-| bip_39_word_new_line1 | glass |  
-| bip_39_word_new_line10 | glass
+| bip_39_word_new_br_1 | glass |  
+| bip_39_word_new_br_10 | glass<br>odor<br>skate<br>govern<br>boring<br>comfort<br>reflect<br>design<br>boat<br>creek |  
+| bip_39_word_new_br_11 | glass<br>odor<br>skate<br>govern<br>boring<br>comfort<br>reflect<br>design<br>boat<br>creek<br>shift |  
+| bip_39_word_new_br_12 | glass<br>odor<br>skate<br>govern<br>boring<br>comfort<br>reflect<br>design<br>boat<br>creek<br>shift<br>again |  
+| bip_39_word_new_br_2 | glass<br>odor |  
+| bip_39_word_new_br_3 | glass<br>odor<br>skate |  
+| bip_39_word_new_br_4 | glass<br>odor<br>skate<br>govern |  
+| bip_39_word_new_br_5 | glass<br>odor<br>skate<br>govern<br>boring |  
+| bip_39_word_new_br_6 | glass<br>odor<br>skate<br>govern<br>boring<br>comfort |  
+| bip_39_word_new_br_7 | glass<br>odor<br>skate<br>govern<br>boring<br>comfort<br>reflect |  
+| bip_39_word_new_br_8 | glass<br>odor<br>skate<br>govern<br>boring<br>comfort<br>reflect<br>design |  
+| bip_39_word_new_br_9 | glass<br>odor<br>skate<br>govern<br>boring<br>comfort<br>reflect<br>design<br>boat |  
+| bip_39_word_new_line_1 | glass |  
+| bip_39_word_new_line_10 | glass
 odor
 skate
 govern
@@ -55,7 +55,7 @@ reflect
 design
 boat
 creek |  
-| bip_39_word_new_line11 | glass
+| bip_39_word_new_line_11 | glass
 odor
 skate
 govern
@@ -66,7 +66,7 @@ design
 boat
 creek
 shift |  
-| bip_39_word_new_line12 | glass
+| bip_39_word_new_line_12 | glass
 odor
 skate
 govern
@@ -78,34 +78,34 @@ boat
 creek
 shift
 again |  
-| bip_39_word_new_line2 | glass
+| bip_39_word_new_line_2 | glass
 odor |  
-| bip_39_word_new_line3 | glass
+| bip_39_word_new_line_3 | glass
 odor
 skate |  
-| bip_39_word_new_line4 | glass
+| bip_39_word_new_line_4 | glass
 odor
 skate
 govern |  
-| bip_39_word_new_line5 | glass
+| bip_39_word_new_line_5 | glass
 odor
 skate
 govern
 boring |  
-| bip_39_word_new_line6 | glass
+| bip_39_word_new_line_6 | glass
 odor
 skate
 govern
 boring
 comfort |  
-| bip_39_word_new_line7 | glass
+| bip_39_word_new_line_7 | glass
 odor
 skate
 govern
 boring
 comfort
 reflect |  
-| bip_39_word_new_line8 | glass
+| bip_39_word_new_line_8 | glass
 odor
 skate
 govern
@@ -113,7 +113,7 @@ boring
 comfort
 reflect
 design |  
-| bip_39_word_new_line9 | glass
+| bip_39_word_new_line_9 | glass
 odor
 skate
 govern

@@ -1,17 +1,17 @@
-bip_39_word_new_br1: color
-bip_39_word_new_br10: color<br>rural<br>helmet<br>wheel<br>pill<br>scatter<br>obscure<br>home<br>rigid<br>ability
-bip_39_word_new_br11: color<br>rural<br>helmet<br>wheel<br>pill<br>scatter<br>obscure<br>home<br>rigid<br>ability<br>own
-bip_39_word_new_br12: color<br>rural<br>helmet<br>wheel<br>pill<br>scatter<br>obscure<br>home<br>rigid<br>ability<br>own<br>arm
-bip_39_word_new_br2: color<br>rural
-bip_39_word_new_br3: color<br>rural<br>helmet
-bip_39_word_new_br4: color<br>rural<br>helmet<br>wheel
-bip_39_word_new_br5: color<br>rural<br>helmet<br>wheel<br>pill
-bip_39_word_new_br6: color<br>rural<br>helmet<br>wheel<br>pill<br>scatter
-bip_39_word_new_br7: color<br>rural<br>helmet<br>wheel<br>pill<br>scatter<br>obscure
-bip_39_word_new_br8: color<br>rural<br>helmet<br>wheel<br>pill<br>scatter<br>obscure<br>home
-bip_39_word_new_br9: color<br>rural<br>helmet<br>wheel<br>pill<br>scatter<br>obscure<br>home<br>rigid
-bip_39_word_new_line1: color
-bip_39_word_new_line10: 'color
+bip_39_word_new_br_1: color
+bip_39_word_new_br_10: color<br>rural<br>helmet<br>wheel<br>pill<br>scatter<br>obscure<br>home<br>rigid<br>ability
+bip_39_word_new_br_11: color<br>rural<br>helmet<br>wheel<br>pill<br>scatter<br>obscure<br>home<br>rigid<br>ability<br>own
+bip_39_word_new_br_12: color<br>rural<br>helmet<br>wheel<br>pill<br>scatter<br>obscure<br>home<br>rigid<br>ability<br>own<br>arm
+bip_39_word_new_br_2: color<br>rural
+bip_39_word_new_br_3: color<br>rural<br>helmet
+bip_39_word_new_br_4: color<br>rural<br>helmet<br>wheel
+bip_39_word_new_br_5: color<br>rural<br>helmet<br>wheel<br>pill
+bip_39_word_new_br_6: color<br>rural<br>helmet<br>wheel<br>pill<br>scatter
+bip_39_word_new_br_7: color<br>rural<br>helmet<br>wheel<br>pill<br>scatter<br>obscure
+bip_39_word_new_br_8: color<br>rural<br>helmet<br>wheel<br>pill<br>scatter<br>obscure<br>home
+bip_39_word_new_br_9: color<br>rural<br>helmet<br>wheel<br>pill<br>scatter<br>obscure<br>home<br>rigid
+bip_39_word_new_line_1: color
+bip_39_word_new_line_10: 'color
 
   rural
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'color
   rigid
 
   ability'
-bip_39_word_new_line11: 'color
+bip_39_word_new_line_11: 'color
 
   rural
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'color
   ability
 
   own'
-bip_39_word_new_line12: 'color
+bip_39_word_new_line_12: 'color
 
   rural
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'color
   own
 
   arm'
-bip_39_word_new_line2: 'color
+bip_39_word_new_line_2: 'color
 
   rural'
-bip_39_word_new_line3: 'color
+bip_39_word_new_line_3: 'color
 
   rural
 
   helmet'
-bip_39_word_new_line4: 'color
+bip_39_word_new_line_4: 'color
 
   rural
 
   helmet
 
   wheel'
-bip_39_word_new_line5: 'color
+bip_39_word_new_line_5: 'color
 
   rural
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'color
   wheel
 
   pill'
-bip_39_word_new_line6: 'color
+bip_39_word_new_line_6: 'color
 
   rural
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'color
   pill
 
   scatter'
-bip_39_word_new_line7: 'color
+bip_39_word_new_line_7: 'color
 
   rural
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'color
   scatter
 
   obscure'
-bip_39_word_new_line8: 'color
+bip_39_word_new_line_8: 'color
 
   rural
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'color
   obscure
 
   home'
-bip_39_word_new_line9: 'color
+bip_39_word_new_line_9: 'color
 
   rural
 

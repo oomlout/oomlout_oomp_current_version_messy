@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | prefer |  
-| bip_39_word_new_br10 | prefer<br>cricket<br>gospel<br>license<br>grow<br>awful<br>lunch<br>peace<br>speak<br>rabbit |  
-| bip_39_word_new_br11 | prefer<br>cricket<br>gospel<br>license<br>grow<br>awful<br>lunch<br>peace<br>speak<br>rabbit<br>hair |  
-| bip_39_word_new_br12 | prefer<br>cricket<br>gospel<br>license<br>grow<br>awful<br>lunch<br>peace<br>speak<br>rabbit<br>hair<br>agent |  
-| bip_39_word_new_br2 | prefer<br>cricket |  
-| bip_39_word_new_br3 | prefer<br>cricket<br>gospel |  
-| bip_39_word_new_br4 | prefer<br>cricket<br>gospel<br>license |  
-| bip_39_word_new_br5 | prefer<br>cricket<br>gospel<br>license<br>grow |  
-| bip_39_word_new_br6 | prefer<br>cricket<br>gospel<br>license<br>grow<br>awful |  
-| bip_39_word_new_br7 | prefer<br>cricket<br>gospel<br>license<br>grow<br>awful<br>lunch |  
-| bip_39_word_new_br8 | prefer<br>cricket<br>gospel<br>license<br>grow<br>awful<br>lunch<br>peace |  
-| bip_39_word_new_br9 | prefer<br>cricket<br>gospel<br>license<br>grow<br>awful<br>lunch<br>peace<br>speak |  
-| bip_39_word_new_line1 | prefer |  
-| bip_39_word_new_line10 | prefer
+| bip_39_word_new_br_1 | prefer |  
+| bip_39_word_new_br_10 | prefer<br>cricket<br>gospel<br>license<br>grow<br>awful<br>lunch<br>peace<br>speak<br>rabbit |  
+| bip_39_word_new_br_11 | prefer<br>cricket<br>gospel<br>license<br>grow<br>awful<br>lunch<br>peace<br>speak<br>rabbit<br>hair |  
+| bip_39_word_new_br_12 | prefer<br>cricket<br>gospel<br>license<br>grow<br>awful<br>lunch<br>peace<br>speak<br>rabbit<br>hair<br>agent |  
+| bip_39_word_new_br_2 | prefer<br>cricket |  
+| bip_39_word_new_br_3 | prefer<br>cricket<br>gospel |  
+| bip_39_word_new_br_4 | prefer<br>cricket<br>gospel<br>license |  
+| bip_39_word_new_br_5 | prefer<br>cricket<br>gospel<br>license<br>grow |  
+| bip_39_word_new_br_6 | prefer<br>cricket<br>gospel<br>license<br>grow<br>awful |  
+| bip_39_word_new_br_7 | prefer<br>cricket<br>gospel<br>license<br>grow<br>awful<br>lunch |  
+| bip_39_word_new_br_8 | prefer<br>cricket<br>gospel<br>license<br>grow<br>awful<br>lunch<br>peace |  
+| bip_39_word_new_br_9 | prefer<br>cricket<br>gospel<br>license<br>grow<br>awful<br>lunch<br>peace<br>speak |  
+| bip_39_word_new_line_1 | prefer |  
+| bip_39_word_new_line_10 | prefer
 cricket
 gospel
 license
@@ -55,7 +55,7 @@ lunch
 peace
 speak
 rabbit |  
-| bip_39_word_new_line11 | prefer
+| bip_39_word_new_line_11 | prefer
 cricket
 gospel
 license
@@ -66,7 +66,7 @@ peace
 speak
 rabbit
 hair |  
-| bip_39_word_new_line12 | prefer
+| bip_39_word_new_line_12 | prefer
 cricket
 gospel
 license
@@ -78,34 +78,34 @@ speak
 rabbit
 hair
 agent |  
-| bip_39_word_new_line2 | prefer
+| bip_39_word_new_line_2 | prefer
 cricket |  
-| bip_39_word_new_line3 | prefer
+| bip_39_word_new_line_3 | prefer
 cricket
 gospel |  
-| bip_39_word_new_line4 | prefer
+| bip_39_word_new_line_4 | prefer
 cricket
 gospel
 license |  
-| bip_39_word_new_line5 | prefer
+| bip_39_word_new_line_5 | prefer
 cricket
 gospel
 license
 grow |  
-| bip_39_word_new_line6 | prefer
+| bip_39_word_new_line_6 | prefer
 cricket
 gospel
 license
 grow
 awful |  
-| bip_39_word_new_line7 | prefer
+| bip_39_word_new_line_7 | prefer
 cricket
 gospel
 license
 grow
 awful
 lunch |  
-| bip_39_word_new_line8 | prefer
+| bip_39_word_new_line_8 | prefer
 cricket
 gospel
 license
@@ -113,7 +113,7 @@ grow
 awful
 lunch
 peace |  
-| bip_39_word_new_line9 | prefer
+| bip_39_word_new_line_9 | prefer
 cricket
 gospel
 license

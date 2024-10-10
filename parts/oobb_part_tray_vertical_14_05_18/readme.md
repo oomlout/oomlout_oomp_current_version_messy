@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | okay |  
-| bip_39_word_new_br10 | okay<br>rabbit<br>help<br>differ<br>goose<br>burger<br>wall<br>tag<br>era<br>planet |  
-| bip_39_word_new_br11 | okay<br>rabbit<br>help<br>differ<br>goose<br>burger<br>wall<br>tag<br>era<br>planet<br>dog |  
-| bip_39_word_new_br12 | okay<br>rabbit<br>help<br>differ<br>goose<br>burger<br>wall<br>tag<br>era<br>planet<br>dog<br>august |  
-| bip_39_word_new_br2 | okay<br>rabbit |  
-| bip_39_word_new_br3 | okay<br>rabbit<br>help |  
-| bip_39_word_new_br4 | okay<br>rabbit<br>help<br>differ |  
-| bip_39_word_new_br5 | okay<br>rabbit<br>help<br>differ<br>goose |  
-| bip_39_word_new_br6 | okay<br>rabbit<br>help<br>differ<br>goose<br>burger |  
-| bip_39_word_new_br7 | okay<br>rabbit<br>help<br>differ<br>goose<br>burger<br>wall |  
-| bip_39_word_new_br8 | okay<br>rabbit<br>help<br>differ<br>goose<br>burger<br>wall<br>tag |  
-| bip_39_word_new_br9 | okay<br>rabbit<br>help<br>differ<br>goose<br>burger<br>wall<br>tag<br>era |  
-| bip_39_word_new_line1 | okay |  
-| bip_39_word_new_line10 | okay
+| bip_39_word_new_br_1 | okay |  
+| bip_39_word_new_br_10 | okay<br>rabbit<br>help<br>differ<br>goose<br>burger<br>wall<br>tag<br>era<br>planet |  
+| bip_39_word_new_br_11 | okay<br>rabbit<br>help<br>differ<br>goose<br>burger<br>wall<br>tag<br>era<br>planet<br>dog |  
+| bip_39_word_new_br_12 | okay<br>rabbit<br>help<br>differ<br>goose<br>burger<br>wall<br>tag<br>era<br>planet<br>dog<br>august |  
+| bip_39_word_new_br_2 | okay<br>rabbit |  
+| bip_39_word_new_br_3 | okay<br>rabbit<br>help |  
+| bip_39_word_new_br_4 | okay<br>rabbit<br>help<br>differ |  
+| bip_39_word_new_br_5 | okay<br>rabbit<br>help<br>differ<br>goose |  
+| bip_39_word_new_br_6 | okay<br>rabbit<br>help<br>differ<br>goose<br>burger |  
+| bip_39_word_new_br_7 | okay<br>rabbit<br>help<br>differ<br>goose<br>burger<br>wall |  
+| bip_39_word_new_br_8 | okay<br>rabbit<br>help<br>differ<br>goose<br>burger<br>wall<br>tag |  
+| bip_39_word_new_br_9 | okay<br>rabbit<br>help<br>differ<br>goose<br>burger<br>wall<br>tag<br>era |  
+| bip_39_word_new_line_1 | okay |  
+| bip_39_word_new_line_10 | okay
 rabbit
 help
 differ
@@ -55,7 +55,7 @@ wall
 tag
 era
 planet |  
-| bip_39_word_new_line11 | okay
+| bip_39_word_new_line_11 | okay
 rabbit
 help
 differ
@@ -66,7 +66,7 @@ tag
 era
 planet
 dog |  
-| bip_39_word_new_line12 | okay
+| bip_39_word_new_line_12 | okay
 rabbit
 help
 differ
@@ -78,34 +78,34 @@ era
 planet
 dog
 august |  
-| bip_39_word_new_line2 | okay
+| bip_39_word_new_line_2 | okay
 rabbit |  
-| bip_39_word_new_line3 | okay
+| bip_39_word_new_line_3 | okay
 rabbit
 help |  
-| bip_39_word_new_line4 | okay
+| bip_39_word_new_line_4 | okay
 rabbit
 help
 differ |  
-| bip_39_word_new_line5 | okay
+| bip_39_word_new_line_5 | okay
 rabbit
 help
 differ
 goose |  
-| bip_39_word_new_line6 | okay
+| bip_39_word_new_line_6 | okay
 rabbit
 help
 differ
 goose
 burger |  
-| bip_39_word_new_line7 | okay
+| bip_39_word_new_line_7 | okay
 rabbit
 help
 differ
 goose
 burger
 wall |  
-| bip_39_word_new_line8 | okay
+| bip_39_word_new_line_8 | okay
 rabbit
 help
 differ
@@ -113,7 +113,7 @@ goose
 burger
 wall
 tag |  
-| bip_39_word_new_line9 | okay
+| bip_39_word_new_line_9 | okay
 rabbit
 help
 differ

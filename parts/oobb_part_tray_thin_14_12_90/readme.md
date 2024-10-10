@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bulb |  
-| bip_39_word_new_br10 | bulb<br>medal<br>crush<br>scrap<br>hockey<br>shrug<br>forum<br>congress<br>forget<br>crater |  
-| bip_39_word_new_br11 | bulb<br>medal<br>crush<br>scrap<br>hockey<br>shrug<br>forum<br>congress<br>forget<br>crater<br>program |  
-| bip_39_word_new_br12 | bulb<br>medal<br>crush<br>scrap<br>hockey<br>shrug<br>forum<br>congress<br>forget<br>crater<br>program<br>almost |  
-| bip_39_word_new_br2 | bulb<br>medal |  
-| bip_39_word_new_br3 | bulb<br>medal<br>crush |  
-| bip_39_word_new_br4 | bulb<br>medal<br>crush<br>scrap |  
-| bip_39_word_new_br5 | bulb<br>medal<br>crush<br>scrap<br>hockey |  
-| bip_39_word_new_br6 | bulb<br>medal<br>crush<br>scrap<br>hockey<br>shrug |  
-| bip_39_word_new_br7 | bulb<br>medal<br>crush<br>scrap<br>hockey<br>shrug<br>forum |  
-| bip_39_word_new_br8 | bulb<br>medal<br>crush<br>scrap<br>hockey<br>shrug<br>forum<br>congress |  
-| bip_39_word_new_br9 | bulb<br>medal<br>crush<br>scrap<br>hockey<br>shrug<br>forum<br>congress<br>forget |  
-| bip_39_word_new_line1 | bulb |  
-| bip_39_word_new_line10 | bulb
+| bip_39_word_new_br_1 | bulb |  
+| bip_39_word_new_br_10 | bulb<br>medal<br>crush<br>scrap<br>hockey<br>shrug<br>forum<br>congress<br>forget<br>crater |  
+| bip_39_word_new_br_11 | bulb<br>medal<br>crush<br>scrap<br>hockey<br>shrug<br>forum<br>congress<br>forget<br>crater<br>program |  
+| bip_39_word_new_br_12 | bulb<br>medal<br>crush<br>scrap<br>hockey<br>shrug<br>forum<br>congress<br>forget<br>crater<br>program<br>almost |  
+| bip_39_word_new_br_2 | bulb<br>medal |  
+| bip_39_word_new_br_3 | bulb<br>medal<br>crush |  
+| bip_39_word_new_br_4 | bulb<br>medal<br>crush<br>scrap |  
+| bip_39_word_new_br_5 | bulb<br>medal<br>crush<br>scrap<br>hockey |  
+| bip_39_word_new_br_6 | bulb<br>medal<br>crush<br>scrap<br>hockey<br>shrug |  
+| bip_39_word_new_br_7 | bulb<br>medal<br>crush<br>scrap<br>hockey<br>shrug<br>forum |  
+| bip_39_word_new_br_8 | bulb<br>medal<br>crush<br>scrap<br>hockey<br>shrug<br>forum<br>congress |  
+| bip_39_word_new_br_9 | bulb<br>medal<br>crush<br>scrap<br>hockey<br>shrug<br>forum<br>congress<br>forget |  
+| bip_39_word_new_line_1 | bulb |  
+| bip_39_word_new_line_10 | bulb
 medal
 crush
 scrap
@@ -55,7 +55,7 @@ forum
 congress
 forget
 crater |  
-| bip_39_word_new_line11 | bulb
+| bip_39_word_new_line_11 | bulb
 medal
 crush
 scrap
@@ -66,7 +66,7 @@ congress
 forget
 crater
 program |  
-| bip_39_word_new_line12 | bulb
+| bip_39_word_new_line_12 | bulb
 medal
 crush
 scrap
@@ -78,34 +78,34 @@ forget
 crater
 program
 almost |  
-| bip_39_word_new_line2 | bulb
+| bip_39_word_new_line_2 | bulb
 medal |  
-| bip_39_word_new_line3 | bulb
+| bip_39_word_new_line_3 | bulb
 medal
 crush |  
-| bip_39_word_new_line4 | bulb
+| bip_39_word_new_line_4 | bulb
 medal
 crush
 scrap |  
-| bip_39_word_new_line5 | bulb
+| bip_39_word_new_line_5 | bulb
 medal
 crush
 scrap
 hockey |  
-| bip_39_word_new_line6 | bulb
+| bip_39_word_new_line_6 | bulb
 medal
 crush
 scrap
 hockey
 shrug |  
-| bip_39_word_new_line7 | bulb
+| bip_39_word_new_line_7 | bulb
 medal
 crush
 scrap
 hockey
 shrug
 forum |  
-| bip_39_word_new_line8 | bulb
+| bip_39_word_new_line_8 | bulb
 medal
 crush
 scrap
@@ -113,7 +113,7 @@ hockey
 shrug
 forum
 congress |  
-| bip_39_word_new_line9 | bulb
+| bip_39_word_new_line_9 | bulb
 medal
 crush
 scrap

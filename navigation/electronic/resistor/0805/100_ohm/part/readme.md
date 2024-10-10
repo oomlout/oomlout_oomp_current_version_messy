@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | weird |  
-| bip_39_word_new_br10 | weird<br>adult<br>couch<br>sponsor<br>seat<br>asset<br>holiday<br>camera<br>pizza<br>puzzle |  
-| bip_39_word_new_br11 | weird<br>adult<br>couch<br>sponsor<br>seat<br>asset<br>holiday<br>camera<br>pizza<br>puzzle<br>tobacco |  
-| bip_39_word_new_br12 | weird<br>adult<br>couch<br>sponsor<br>seat<br>asset<br>holiday<br>camera<br>pizza<br>puzzle<br>tobacco<br>affair |  
-| bip_39_word_new_br2 | weird<br>adult |  
-| bip_39_word_new_br3 | weird<br>adult<br>couch |  
-| bip_39_word_new_br4 | weird<br>adult<br>couch<br>sponsor |  
-| bip_39_word_new_br5 | weird<br>adult<br>couch<br>sponsor<br>seat |  
-| bip_39_word_new_br6 | weird<br>adult<br>couch<br>sponsor<br>seat<br>asset |  
-| bip_39_word_new_br7 | weird<br>adult<br>couch<br>sponsor<br>seat<br>asset<br>holiday |  
-| bip_39_word_new_br8 | weird<br>adult<br>couch<br>sponsor<br>seat<br>asset<br>holiday<br>camera |  
-| bip_39_word_new_br9 | weird<br>adult<br>couch<br>sponsor<br>seat<br>asset<br>holiday<br>camera<br>pizza |  
-| bip_39_word_new_line1 | weird |  
-| bip_39_word_new_line10 | weird
+| bip_39_word_new_br_1 | weird |  
+| bip_39_word_new_br_10 | weird<br>adult<br>couch<br>sponsor<br>seat<br>asset<br>holiday<br>camera<br>pizza<br>puzzle |  
+| bip_39_word_new_br_11 | weird<br>adult<br>couch<br>sponsor<br>seat<br>asset<br>holiday<br>camera<br>pizza<br>puzzle<br>tobacco |  
+| bip_39_word_new_br_12 | weird<br>adult<br>couch<br>sponsor<br>seat<br>asset<br>holiday<br>camera<br>pizza<br>puzzle<br>tobacco<br>affair |  
+| bip_39_word_new_br_2 | weird<br>adult |  
+| bip_39_word_new_br_3 | weird<br>adult<br>couch |  
+| bip_39_word_new_br_4 | weird<br>adult<br>couch<br>sponsor |  
+| bip_39_word_new_br_5 | weird<br>adult<br>couch<br>sponsor<br>seat |  
+| bip_39_word_new_br_6 | weird<br>adult<br>couch<br>sponsor<br>seat<br>asset |  
+| bip_39_word_new_br_7 | weird<br>adult<br>couch<br>sponsor<br>seat<br>asset<br>holiday |  
+| bip_39_word_new_br_8 | weird<br>adult<br>couch<br>sponsor<br>seat<br>asset<br>holiday<br>camera |  
+| bip_39_word_new_br_9 | weird<br>adult<br>couch<br>sponsor<br>seat<br>asset<br>holiday<br>camera<br>pizza |  
+| bip_39_word_new_line_1 | weird |  
+| bip_39_word_new_line_10 | weird
 adult
 couch
 sponsor
@@ -55,7 +55,7 @@ holiday
 camera
 pizza
 puzzle |  
-| bip_39_word_new_line11 | weird
+| bip_39_word_new_line_11 | weird
 adult
 couch
 sponsor
@@ -66,7 +66,7 @@ camera
 pizza
 puzzle
 tobacco |  
-| bip_39_word_new_line12 | weird
+| bip_39_word_new_line_12 | weird
 adult
 couch
 sponsor
@@ -78,34 +78,34 @@ pizza
 puzzle
 tobacco
 affair |  
-| bip_39_word_new_line2 | weird
+| bip_39_word_new_line_2 | weird
 adult |  
-| bip_39_word_new_line3 | weird
+| bip_39_word_new_line_3 | weird
 adult
 couch |  
-| bip_39_word_new_line4 | weird
+| bip_39_word_new_line_4 | weird
 adult
 couch
 sponsor |  
-| bip_39_word_new_line5 | weird
+| bip_39_word_new_line_5 | weird
 adult
 couch
 sponsor
 seat |  
-| bip_39_word_new_line6 | weird
+| bip_39_word_new_line_6 | weird
 adult
 couch
 sponsor
 seat
 asset |  
-| bip_39_word_new_line7 | weird
+| bip_39_word_new_line_7 | weird
 adult
 couch
 sponsor
 seat
 asset
 holiday |  
-| bip_39_word_new_line8 | weird
+| bip_39_word_new_line_8 | weird
 adult
 couch
 sponsor
@@ -113,7 +113,7 @@ seat
 asset
 holiday
 camera |  
-| bip_39_word_new_line9 | weird
+| bip_39_word_new_line_9 | weird
 adult
 couch
 sponsor

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bar |  
-| bip_39_word_new_br10 | bar<br>lift<br>control<br>price<br>social<br>valid<br>excuse<br>bunker<br>blast<br>rotate |  
-| bip_39_word_new_br11 | bar<br>lift<br>control<br>price<br>social<br>valid<br>excuse<br>bunker<br>blast<br>rotate<br>moon |  
-| bip_39_word_new_br12 | bar<br>lift<br>control<br>price<br>social<br>valid<br>excuse<br>bunker<br>blast<br>rotate<br>moon<br>aspect |  
-| bip_39_word_new_br2 | bar<br>lift |  
-| bip_39_word_new_br3 | bar<br>lift<br>control |  
-| bip_39_word_new_br4 | bar<br>lift<br>control<br>price |  
-| bip_39_word_new_br5 | bar<br>lift<br>control<br>price<br>social |  
-| bip_39_word_new_br6 | bar<br>lift<br>control<br>price<br>social<br>valid |  
-| bip_39_word_new_br7 | bar<br>lift<br>control<br>price<br>social<br>valid<br>excuse |  
-| bip_39_word_new_br8 | bar<br>lift<br>control<br>price<br>social<br>valid<br>excuse<br>bunker |  
-| bip_39_word_new_br9 | bar<br>lift<br>control<br>price<br>social<br>valid<br>excuse<br>bunker<br>blast |  
-| bip_39_word_new_line1 | bar |  
-| bip_39_word_new_line10 | bar
+| bip_39_word_new_br_1 | bar |  
+| bip_39_word_new_br_10 | bar<br>lift<br>control<br>price<br>social<br>valid<br>excuse<br>bunker<br>blast<br>rotate |  
+| bip_39_word_new_br_11 | bar<br>lift<br>control<br>price<br>social<br>valid<br>excuse<br>bunker<br>blast<br>rotate<br>moon |  
+| bip_39_word_new_br_12 | bar<br>lift<br>control<br>price<br>social<br>valid<br>excuse<br>bunker<br>blast<br>rotate<br>moon<br>aspect |  
+| bip_39_word_new_br_2 | bar<br>lift |  
+| bip_39_word_new_br_3 | bar<br>lift<br>control |  
+| bip_39_word_new_br_4 | bar<br>lift<br>control<br>price |  
+| bip_39_word_new_br_5 | bar<br>lift<br>control<br>price<br>social |  
+| bip_39_word_new_br_6 | bar<br>lift<br>control<br>price<br>social<br>valid |  
+| bip_39_word_new_br_7 | bar<br>lift<br>control<br>price<br>social<br>valid<br>excuse |  
+| bip_39_word_new_br_8 | bar<br>lift<br>control<br>price<br>social<br>valid<br>excuse<br>bunker |  
+| bip_39_word_new_br_9 | bar<br>lift<br>control<br>price<br>social<br>valid<br>excuse<br>bunker<br>blast |  
+| bip_39_word_new_line_1 | bar |  
+| bip_39_word_new_line_10 | bar
 lift
 control
 price
@@ -55,7 +55,7 @@ excuse
 bunker
 blast
 rotate |  
-| bip_39_word_new_line11 | bar
+| bip_39_word_new_line_11 | bar
 lift
 control
 price
@@ -66,7 +66,7 @@ bunker
 blast
 rotate
 moon |  
-| bip_39_word_new_line12 | bar
+| bip_39_word_new_line_12 | bar
 lift
 control
 price
@@ -78,34 +78,34 @@ blast
 rotate
 moon
 aspect |  
-| bip_39_word_new_line2 | bar
+| bip_39_word_new_line_2 | bar
 lift |  
-| bip_39_word_new_line3 | bar
+| bip_39_word_new_line_3 | bar
 lift
 control |  
-| bip_39_word_new_line4 | bar
+| bip_39_word_new_line_4 | bar
 lift
 control
 price |  
-| bip_39_word_new_line5 | bar
+| bip_39_word_new_line_5 | bar
 lift
 control
 price
 social |  
-| bip_39_word_new_line6 | bar
+| bip_39_word_new_line_6 | bar
 lift
 control
 price
 social
 valid |  
-| bip_39_word_new_line7 | bar
+| bip_39_word_new_line_7 | bar
 lift
 control
 price
 social
 valid
 excuse |  
-| bip_39_word_new_line8 | bar
+| bip_39_word_new_line_8 | bar
 lift
 control
 price
@@ -113,7 +113,7 @@ social
 valid
 excuse
 bunker |  
-| bip_39_word_new_line9 | bar
+| bip_39_word_new_line_9 | bar
 lift
 control
 price

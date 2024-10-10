@@ -1,17 +1,17 @@
-bip_39_word_new_br1: trim
-bip_39_word_new_br10: trim<br>series<br>rate<br>march<br>hub<br>alarm<br>grass<br>token<br>toilet<br>mosquito
-bip_39_word_new_br11: trim<br>series<br>rate<br>march<br>hub<br>alarm<br>grass<br>token<br>toilet<br>mosquito<br>web
-bip_39_word_new_br12: trim<br>series<br>rate<br>march<br>hub<br>alarm<br>grass<br>token<br>toilet<br>mosquito<br>web<br>amused
-bip_39_word_new_br2: trim<br>series
-bip_39_word_new_br3: trim<br>series<br>rate
-bip_39_word_new_br4: trim<br>series<br>rate<br>march
-bip_39_word_new_br5: trim<br>series<br>rate<br>march<br>hub
-bip_39_word_new_br6: trim<br>series<br>rate<br>march<br>hub<br>alarm
-bip_39_word_new_br7: trim<br>series<br>rate<br>march<br>hub<br>alarm<br>grass
-bip_39_word_new_br8: trim<br>series<br>rate<br>march<br>hub<br>alarm<br>grass<br>token
-bip_39_word_new_br9: trim<br>series<br>rate<br>march<br>hub<br>alarm<br>grass<br>token<br>toilet
-bip_39_word_new_line1: trim
-bip_39_word_new_line10: 'trim
+bip_39_word_new_br_1: trim
+bip_39_word_new_br_10: trim<br>series<br>rate<br>march<br>hub<br>alarm<br>grass<br>token<br>toilet<br>mosquito
+bip_39_word_new_br_11: trim<br>series<br>rate<br>march<br>hub<br>alarm<br>grass<br>token<br>toilet<br>mosquito<br>web
+bip_39_word_new_br_12: trim<br>series<br>rate<br>march<br>hub<br>alarm<br>grass<br>token<br>toilet<br>mosquito<br>web<br>amused
+bip_39_word_new_br_2: trim<br>series
+bip_39_word_new_br_3: trim<br>series<br>rate
+bip_39_word_new_br_4: trim<br>series<br>rate<br>march
+bip_39_word_new_br_5: trim<br>series<br>rate<br>march<br>hub
+bip_39_word_new_br_6: trim<br>series<br>rate<br>march<br>hub<br>alarm
+bip_39_word_new_br_7: trim<br>series<br>rate<br>march<br>hub<br>alarm<br>grass
+bip_39_word_new_br_8: trim<br>series<br>rate<br>march<br>hub<br>alarm<br>grass<br>token
+bip_39_word_new_br_9: trim<br>series<br>rate<br>march<br>hub<br>alarm<br>grass<br>token<br>toilet
+bip_39_word_new_line_1: trim
+bip_39_word_new_line_10: 'trim
 
   series
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'trim
   toilet
 
   mosquito'
-bip_39_word_new_line11: 'trim
+bip_39_word_new_line_11: 'trim
 
   series
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'trim
   mosquito
 
   web'
-bip_39_word_new_line12: 'trim
+bip_39_word_new_line_12: 'trim
 
   series
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'trim
   web
 
   amused'
-bip_39_word_new_line2: 'trim
+bip_39_word_new_line_2: 'trim
 
   series'
-bip_39_word_new_line3: 'trim
+bip_39_word_new_line_3: 'trim
 
   series
 
   rate'
-bip_39_word_new_line4: 'trim
+bip_39_word_new_line_4: 'trim
 
   series
 
   rate
 
   march'
-bip_39_word_new_line5: 'trim
+bip_39_word_new_line_5: 'trim
 
   series
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'trim
   march
 
   hub'
-bip_39_word_new_line6: 'trim
+bip_39_word_new_line_6: 'trim
 
   series
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'trim
   hub
 
   alarm'
-bip_39_word_new_line7: 'trim
+bip_39_word_new_line_7: 'trim
 
   series
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'trim
   alarm
 
   grass'
-bip_39_word_new_line8: 'trim
+bip_39_word_new_line_8: 'trim
 
   series
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'trim
   grass
 
   token'
-bip_39_word_new_line9: 'trim
+bip_39_word_new_line_9: 'trim
 
   series
 

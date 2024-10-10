@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | useless |  
-| bip_39_word_new_br10 | useless<br>come<br>tooth<br>radio<br>ghost<br>path<br>absent<br>level<br>infant<br>shallow |  
-| bip_39_word_new_br11 | useless<br>come<br>tooth<br>radio<br>ghost<br>path<br>absent<br>level<br>infant<br>shallow<br>helmet |  
-| bip_39_word_new_br12 | useless<br>come<br>tooth<br>radio<br>ghost<br>path<br>absent<br>level<br>infant<br>shallow<br>helmet<br>admit |  
-| bip_39_word_new_br2 | useless<br>come |  
-| bip_39_word_new_br3 | useless<br>come<br>tooth |  
-| bip_39_word_new_br4 | useless<br>come<br>tooth<br>radio |  
-| bip_39_word_new_br5 | useless<br>come<br>tooth<br>radio<br>ghost |  
-| bip_39_word_new_br6 | useless<br>come<br>tooth<br>radio<br>ghost<br>path |  
-| bip_39_word_new_br7 | useless<br>come<br>tooth<br>radio<br>ghost<br>path<br>absent |  
-| bip_39_word_new_br8 | useless<br>come<br>tooth<br>radio<br>ghost<br>path<br>absent<br>level |  
-| bip_39_word_new_br9 | useless<br>come<br>tooth<br>radio<br>ghost<br>path<br>absent<br>level<br>infant |  
-| bip_39_word_new_line1 | useless |  
-| bip_39_word_new_line10 | useless
+| bip_39_word_new_br_1 | useless |  
+| bip_39_word_new_br_10 | useless<br>come<br>tooth<br>radio<br>ghost<br>path<br>absent<br>level<br>infant<br>shallow |  
+| bip_39_word_new_br_11 | useless<br>come<br>tooth<br>radio<br>ghost<br>path<br>absent<br>level<br>infant<br>shallow<br>helmet |  
+| bip_39_word_new_br_12 | useless<br>come<br>tooth<br>radio<br>ghost<br>path<br>absent<br>level<br>infant<br>shallow<br>helmet<br>admit |  
+| bip_39_word_new_br_2 | useless<br>come |  
+| bip_39_word_new_br_3 | useless<br>come<br>tooth |  
+| bip_39_word_new_br_4 | useless<br>come<br>tooth<br>radio |  
+| bip_39_word_new_br_5 | useless<br>come<br>tooth<br>radio<br>ghost |  
+| bip_39_word_new_br_6 | useless<br>come<br>tooth<br>radio<br>ghost<br>path |  
+| bip_39_word_new_br_7 | useless<br>come<br>tooth<br>radio<br>ghost<br>path<br>absent |  
+| bip_39_word_new_br_8 | useless<br>come<br>tooth<br>radio<br>ghost<br>path<br>absent<br>level |  
+| bip_39_word_new_br_9 | useless<br>come<br>tooth<br>radio<br>ghost<br>path<br>absent<br>level<br>infant |  
+| bip_39_word_new_line_1 | useless |  
+| bip_39_word_new_line_10 | useless
 come
 tooth
 radio
@@ -55,7 +55,7 @@ absent
 level
 infant
 shallow |  
-| bip_39_word_new_line11 | useless
+| bip_39_word_new_line_11 | useless
 come
 tooth
 radio
@@ -66,7 +66,7 @@ level
 infant
 shallow
 helmet |  
-| bip_39_word_new_line12 | useless
+| bip_39_word_new_line_12 | useless
 come
 tooth
 radio
@@ -78,34 +78,34 @@ infant
 shallow
 helmet
 admit |  
-| bip_39_word_new_line2 | useless
+| bip_39_word_new_line_2 | useless
 come |  
-| bip_39_word_new_line3 | useless
+| bip_39_word_new_line_3 | useless
 come
 tooth |  
-| bip_39_word_new_line4 | useless
+| bip_39_word_new_line_4 | useless
 come
 tooth
 radio |  
-| bip_39_word_new_line5 | useless
+| bip_39_word_new_line_5 | useless
 come
 tooth
 radio
 ghost |  
-| bip_39_word_new_line6 | useless
+| bip_39_word_new_line_6 | useless
 come
 tooth
 radio
 ghost
 path |  
-| bip_39_word_new_line7 | useless
+| bip_39_word_new_line_7 | useless
 come
 tooth
 radio
 ghost
 path
 absent |  
-| bip_39_word_new_line8 | useless
+| bip_39_word_new_line_8 | useless
 come
 tooth
 radio
@@ -113,7 +113,7 @@ ghost
 path
 absent
 level |  
-| bip_39_word_new_line9 | useless
+| bip_39_word_new_line_9 | useless
 come
 tooth
 radio

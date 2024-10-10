@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | predict |  
-| bip_39_word_new_br10 | predict<br>catch<br>pill<br>spin<br>spider<br>pottery<br>rude<br>art<br>account<br>nest |  
-| bip_39_word_new_br11 | predict<br>catch<br>pill<br>spin<br>spider<br>pottery<br>rude<br>art<br>account<br>nest<br>term |  
-| bip_39_word_new_br12 | predict<br>catch<br>pill<br>spin<br>spider<br>pottery<br>rude<br>art<br>account<br>nest<br>term<br>asset |  
-| bip_39_word_new_br2 | predict<br>catch |  
-| bip_39_word_new_br3 | predict<br>catch<br>pill |  
-| bip_39_word_new_br4 | predict<br>catch<br>pill<br>spin |  
-| bip_39_word_new_br5 | predict<br>catch<br>pill<br>spin<br>spider |  
-| bip_39_word_new_br6 | predict<br>catch<br>pill<br>spin<br>spider<br>pottery |  
-| bip_39_word_new_br7 | predict<br>catch<br>pill<br>spin<br>spider<br>pottery<br>rude |  
-| bip_39_word_new_br8 | predict<br>catch<br>pill<br>spin<br>spider<br>pottery<br>rude<br>art |  
-| bip_39_word_new_br9 | predict<br>catch<br>pill<br>spin<br>spider<br>pottery<br>rude<br>art<br>account |  
-| bip_39_word_new_line1 | predict |  
-| bip_39_word_new_line10 | predict
+| bip_39_word_new_br_1 | predict |  
+| bip_39_word_new_br_10 | predict<br>catch<br>pill<br>spin<br>spider<br>pottery<br>rude<br>art<br>account<br>nest |  
+| bip_39_word_new_br_11 | predict<br>catch<br>pill<br>spin<br>spider<br>pottery<br>rude<br>art<br>account<br>nest<br>term |  
+| bip_39_word_new_br_12 | predict<br>catch<br>pill<br>spin<br>spider<br>pottery<br>rude<br>art<br>account<br>nest<br>term<br>asset |  
+| bip_39_word_new_br_2 | predict<br>catch |  
+| bip_39_word_new_br_3 | predict<br>catch<br>pill |  
+| bip_39_word_new_br_4 | predict<br>catch<br>pill<br>spin |  
+| bip_39_word_new_br_5 | predict<br>catch<br>pill<br>spin<br>spider |  
+| bip_39_word_new_br_6 | predict<br>catch<br>pill<br>spin<br>spider<br>pottery |  
+| bip_39_word_new_br_7 | predict<br>catch<br>pill<br>spin<br>spider<br>pottery<br>rude |  
+| bip_39_word_new_br_8 | predict<br>catch<br>pill<br>spin<br>spider<br>pottery<br>rude<br>art |  
+| bip_39_word_new_br_9 | predict<br>catch<br>pill<br>spin<br>spider<br>pottery<br>rude<br>art<br>account |  
+| bip_39_word_new_line_1 | predict |  
+| bip_39_word_new_line_10 | predict
 catch
 pill
 spin
@@ -55,7 +55,7 @@ rude
 art
 account
 nest |  
-| bip_39_word_new_line11 | predict
+| bip_39_word_new_line_11 | predict
 catch
 pill
 spin
@@ -66,7 +66,7 @@ art
 account
 nest
 term |  
-| bip_39_word_new_line12 | predict
+| bip_39_word_new_line_12 | predict
 catch
 pill
 spin
@@ -78,34 +78,34 @@ account
 nest
 term
 asset |  
-| bip_39_word_new_line2 | predict
+| bip_39_word_new_line_2 | predict
 catch |  
-| bip_39_word_new_line3 | predict
+| bip_39_word_new_line_3 | predict
 catch
 pill |  
-| bip_39_word_new_line4 | predict
+| bip_39_word_new_line_4 | predict
 catch
 pill
 spin |  
-| bip_39_word_new_line5 | predict
+| bip_39_word_new_line_5 | predict
 catch
 pill
 spin
 spider |  
-| bip_39_word_new_line6 | predict
+| bip_39_word_new_line_6 | predict
 catch
 pill
 spin
 spider
 pottery |  
-| bip_39_word_new_line7 | predict
+| bip_39_word_new_line_7 | predict
 catch
 pill
 spin
 spider
 pottery
 rude |  
-| bip_39_word_new_line8 | predict
+| bip_39_word_new_line_8 | predict
 catch
 pill
 spin
@@ -113,7 +113,7 @@ spider
 pottery
 rude
 art |  
-| bip_39_word_new_line9 | predict
+| bip_39_word_new_line_9 | predict
 catch
 pill
 spin

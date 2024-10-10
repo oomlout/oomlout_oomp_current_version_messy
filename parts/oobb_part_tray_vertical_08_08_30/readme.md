@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | piece |  
-| bip_39_word_new_br10 | piece<br>write<br>aspect<br>soon<br>allow<br>unfair<br>rude<br>dwarf<br>identify<br>trade |  
-| bip_39_word_new_br11 | piece<br>write<br>aspect<br>soon<br>allow<br>unfair<br>rude<br>dwarf<br>identify<br>trade<br>gift |  
-| bip_39_word_new_br12 | piece<br>write<br>aspect<br>soon<br>allow<br>unfair<br>rude<br>dwarf<br>identify<br>trade<br>gift<br>agree |  
-| bip_39_word_new_br2 | piece<br>write |  
-| bip_39_word_new_br3 | piece<br>write<br>aspect |  
-| bip_39_word_new_br4 | piece<br>write<br>aspect<br>soon |  
-| bip_39_word_new_br5 | piece<br>write<br>aspect<br>soon<br>allow |  
-| bip_39_word_new_br6 | piece<br>write<br>aspect<br>soon<br>allow<br>unfair |  
-| bip_39_word_new_br7 | piece<br>write<br>aspect<br>soon<br>allow<br>unfair<br>rude |  
-| bip_39_word_new_br8 | piece<br>write<br>aspect<br>soon<br>allow<br>unfair<br>rude<br>dwarf |  
-| bip_39_word_new_br9 | piece<br>write<br>aspect<br>soon<br>allow<br>unfair<br>rude<br>dwarf<br>identify |  
-| bip_39_word_new_line1 | piece |  
-| bip_39_word_new_line10 | piece
+| bip_39_word_new_br_1 | piece |  
+| bip_39_word_new_br_10 | piece<br>write<br>aspect<br>soon<br>allow<br>unfair<br>rude<br>dwarf<br>identify<br>trade |  
+| bip_39_word_new_br_11 | piece<br>write<br>aspect<br>soon<br>allow<br>unfair<br>rude<br>dwarf<br>identify<br>trade<br>gift |  
+| bip_39_word_new_br_12 | piece<br>write<br>aspect<br>soon<br>allow<br>unfair<br>rude<br>dwarf<br>identify<br>trade<br>gift<br>agree |  
+| bip_39_word_new_br_2 | piece<br>write |  
+| bip_39_word_new_br_3 | piece<br>write<br>aspect |  
+| bip_39_word_new_br_4 | piece<br>write<br>aspect<br>soon |  
+| bip_39_word_new_br_5 | piece<br>write<br>aspect<br>soon<br>allow |  
+| bip_39_word_new_br_6 | piece<br>write<br>aspect<br>soon<br>allow<br>unfair |  
+| bip_39_word_new_br_7 | piece<br>write<br>aspect<br>soon<br>allow<br>unfair<br>rude |  
+| bip_39_word_new_br_8 | piece<br>write<br>aspect<br>soon<br>allow<br>unfair<br>rude<br>dwarf |  
+| bip_39_word_new_br_9 | piece<br>write<br>aspect<br>soon<br>allow<br>unfair<br>rude<br>dwarf<br>identify |  
+| bip_39_word_new_line_1 | piece |  
+| bip_39_word_new_line_10 | piece
 write
 aspect
 soon
@@ -55,7 +55,7 @@ rude
 dwarf
 identify
 trade |  
-| bip_39_word_new_line11 | piece
+| bip_39_word_new_line_11 | piece
 write
 aspect
 soon
@@ -66,7 +66,7 @@ dwarf
 identify
 trade
 gift |  
-| bip_39_word_new_line12 | piece
+| bip_39_word_new_line_12 | piece
 write
 aspect
 soon
@@ -78,34 +78,34 @@ identify
 trade
 gift
 agree |  
-| bip_39_word_new_line2 | piece
+| bip_39_word_new_line_2 | piece
 write |  
-| bip_39_word_new_line3 | piece
+| bip_39_word_new_line_3 | piece
 write
 aspect |  
-| bip_39_word_new_line4 | piece
+| bip_39_word_new_line_4 | piece
 write
 aspect
 soon |  
-| bip_39_word_new_line5 | piece
+| bip_39_word_new_line_5 | piece
 write
 aspect
 soon
 allow |  
-| bip_39_word_new_line6 | piece
+| bip_39_word_new_line_6 | piece
 write
 aspect
 soon
 allow
 unfair |  
-| bip_39_word_new_line7 | piece
+| bip_39_word_new_line_7 | piece
 write
 aspect
 soon
 allow
 unfair
 rude |  
-| bip_39_word_new_line8 | piece
+| bip_39_word_new_line_8 | piece
 write
 aspect
 soon
@@ -113,7 +113,7 @@ allow
 unfair
 rude
 dwarf |  
-| bip_39_word_new_line9 | piece
+| bip_39_word_new_line_9 | piece
 write
 aspect
 soon

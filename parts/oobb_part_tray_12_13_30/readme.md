@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | such |  
-| bip_39_word_new_br10 | such<br>prefer<br>orbit<br>finger<br>bronze<br>list<br>remove<br>genius<br>donor<br>bonus |  
-| bip_39_word_new_br11 | such<br>prefer<br>orbit<br>finger<br>bronze<br>list<br>remove<br>genius<br>donor<br>bonus<br>head |  
-| bip_39_word_new_br12 | such<br>prefer<br>orbit<br>finger<br>bronze<br>list<br>remove<br>genius<br>donor<br>bonus<br>head<br>attract |  
-| bip_39_word_new_br2 | such<br>prefer |  
-| bip_39_word_new_br3 | such<br>prefer<br>orbit |  
-| bip_39_word_new_br4 | such<br>prefer<br>orbit<br>finger |  
-| bip_39_word_new_br5 | such<br>prefer<br>orbit<br>finger<br>bronze |  
-| bip_39_word_new_br6 | such<br>prefer<br>orbit<br>finger<br>bronze<br>list |  
-| bip_39_word_new_br7 | such<br>prefer<br>orbit<br>finger<br>bronze<br>list<br>remove |  
-| bip_39_word_new_br8 | such<br>prefer<br>orbit<br>finger<br>bronze<br>list<br>remove<br>genius |  
-| bip_39_word_new_br9 | such<br>prefer<br>orbit<br>finger<br>bronze<br>list<br>remove<br>genius<br>donor |  
-| bip_39_word_new_line1 | such |  
-| bip_39_word_new_line10 | such
+| bip_39_word_new_br_1 | such |  
+| bip_39_word_new_br_10 | such<br>prefer<br>orbit<br>finger<br>bronze<br>list<br>remove<br>genius<br>donor<br>bonus |  
+| bip_39_word_new_br_11 | such<br>prefer<br>orbit<br>finger<br>bronze<br>list<br>remove<br>genius<br>donor<br>bonus<br>head |  
+| bip_39_word_new_br_12 | such<br>prefer<br>orbit<br>finger<br>bronze<br>list<br>remove<br>genius<br>donor<br>bonus<br>head<br>attract |  
+| bip_39_word_new_br_2 | such<br>prefer |  
+| bip_39_word_new_br_3 | such<br>prefer<br>orbit |  
+| bip_39_word_new_br_4 | such<br>prefer<br>orbit<br>finger |  
+| bip_39_word_new_br_5 | such<br>prefer<br>orbit<br>finger<br>bronze |  
+| bip_39_word_new_br_6 | such<br>prefer<br>orbit<br>finger<br>bronze<br>list |  
+| bip_39_word_new_br_7 | such<br>prefer<br>orbit<br>finger<br>bronze<br>list<br>remove |  
+| bip_39_word_new_br_8 | such<br>prefer<br>orbit<br>finger<br>bronze<br>list<br>remove<br>genius |  
+| bip_39_word_new_br_9 | such<br>prefer<br>orbit<br>finger<br>bronze<br>list<br>remove<br>genius<br>donor |  
+| bip_39_word_new_line_1 | such |  
+| bip_39_word_new_line_10 | such
 prefer
 orbit
 finger
@@ -55,7 +55,7 @@ remove
 genius
 donor
 bonus |  
-| bip_39_word_new_line11 | such
+| bip_39_word_new_line_11 | such
 prefer
 orbit
 finger
@@ -66,7 +66,7 @@ genius
 donor
 bonus
 head |  
-| bip_39_word_new_line12 | such
+| bip_39_word_new_line_12 | such
 prefer
 orbit
 finger
@@ -78,34 +78,34 @@ donor
 bonus
 head
 attract |  
-| bip_39_word_new_line2 | such
+| bip_39_word_new_line_2 | such
 prefer |  
-| bip_39_word_new_line3 | such
+| bip_39_word_new_line_3 | such
 prefer
 orbit |  
-| bip_39_word_new_line4 | such
+| bip_39_word_new_line_4 | such
 prefer
 orbit
 finger |  
-| bip_39_word_new_line5 | such
+| bip_39_word_new_line_5 | such
 prefer
 orbit
 finger
 bronze |  
-| bip_39_word_new_line6 | such
+| bip_39_word_new_line_6 | such
 prefer
 orbit
 finger
 bronze
 list |  
-| bip_39_word_new_line7 | such
+| bip_39_word_new_line_7 | such
 prefer
 orbit
 finger
 bronze
 list
 remove |  
-| bip_39_word_new_line8 | such
+| bip_39_word_new_line_8 | such
 prefer
 orbit
 finger
@@ -113,7 +113,7 @@ bronze
 list
 remove
 genius |  
-| bip_39_word_new_line9 | such
+| bip_39_word_new_line_9 | such
 prefer
 orbit
 finger

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | quality |  
-| bip_39_word_new_br10 | quality<br>repeat<br>inform<br>result<br>dismiss<br>carpet<br>control<br>waste<br>obtain<br>myth |  
-| bip_39_word_new_br11 | quality<br>repeat<br>inform<br>result<br>dismiss<br>carpet<br>control<br>waste<br>obtain<br>myth<br>slide |  
-| bip_39_word_new_br12 | quality<br>repeat<br>inform<br>result<br>dismiss<br>carpet<br>control<br>waste<br>obtain<br>myth<br>slide<br>approve |  
-| bip_39_word_new_br2 | quality<br>repeat |  
-| bip_39_word_new_br3 | quality<br>repeat<br>inform |  
-| bip_39_word_new_br4 | quality<br>repeat<br>inform<br>result |  
-| bip_39_word_new_br5 | quality<br>repeat<br>inform<br>result<br>dismiss |  
-| bip_39_word_new_br6 | quality<br>repeat<br>inform<br>result<br>dismiss<br>carpet |  
-| bip_39_word_new_br7 | quality<br>repeat<br>inform<br>result<br>dismiss<br>carpet<br>control |  
-| bip_39_word_new_br8 | quality<br>repeat<br>inform<br>result<br>dismiss<br>carpet<br>control<br>waste |  
-| bip_39_word_new_br9 | quality<br>repeat<br>inform<br>result<br>dismiss<br>carpet<br>control<br>waste<br>obtain |  
-| bip_39_word_new_line1 | quality |  
-| bip_39_word_new_line10 | quality
+| bip_39_word_new_br_1 | quality |  
+| bip_39_word_new_br_10 | quality<br>repeat<br>inform<br>result<br>dismiss<br>carpet<br>control<br>waste<br>obtain<br>myth |  
+| bip_39_word_new_br_11 | quality<br>repeat<br>inform<br>result<br>dismiss<br>carpet<br>control<br>waste<br>obtain<br>myth<br>slide |  
+| bip_39_word_new_br_12 | quality<br>repeat<br>inform<br>result<br>dismiss<br>carpet<br>control<br>waste<br>obtain<br>myth<br>slide<br>approve |  
+| bip_39_word_new_br_2 | quality<br>repeat |  
+| bip_39_word_new_br_3 | quality<br>repeat<br>inform |  
+| bip_39_word_new_br_4 | quality<br>repeat<br>inform<br>result |  
+| bip_39_word_new_br_5 | quality<br>repeat<br>inform<br>result<br>dismiss |  
+| bip_39_word_new_br_6 | quality<br>repeat<br>inform<br>result<br>dismiss<br>carpet |  
+| bip_39_word_new_br_7 | quality<br>repeat<br>inform<br>result<br>dismiss<br>carpet<br>control |  
+| bip_39_word_new_br_8 | quality<br>repeat<br>inform<br>result<br>dismiss<br>carpet<br>control<br>waste |  
+| bip_39_word_new_br_9 | quality<br>repeat<br>inform<br>result<br>dismiss<br>carpet<br>control<br>waste<br>obtain |  
+| bip_39_word_new_line_1 | quality |  
+| bip_39_word_new_line_10 | quality
 repeat
 inform
 result
@@ -55,7 +55,7 @@ control
 waste
 obtain
 myth |  
-| bip_39_word_new_line11 | quality
+| bip_39_word_new_line_11 | quality
 repeat
 inform
 result
@@ -66,7 +66,7 @@ waste
 obtain
 myth
 slide |  
-| bip_39_word_new_line12 | quality
+| bip_39_word_new_line_12 | quality
 repeat
 inform
 result
@@ -78,34 +78,34 @@ obtain
 myth
 slide
 approve |  
-| bip_39_word_new_line2 | quality
+| bip_39_word_new_line_2 | quality
 repeat |  
-| bip_39_word_new_line3 | quality
+| bip_39_word_new_line_3 | quality
 repeat
 inform |  
-| bip_39_word_new_line4 | quality
+| bip_39_word_new_line_4 | quality
 repeat
 inform
 result |  
-| bip_39_word_new_line5 | quality
+| bip_39_word_new_line_5 | quality
 repeat
 inform
 result
 dismiss |  
-| bip_39_word_new_line6 | quality
+| bip_39_word_new_line_6 | quality
 repeat
 inform
 result
 dismiss
 carpet |  
-| bip_39_word_new_line7 | quality
+| bip_39_word_new_line_7 | quality
 repeat
 inform
 result
 dismiss
 carpet
 control |  
-| bip_39_word_new_line8 | quality
+| bip_39_word_new_line_8 | quality
 repeat
 inform
 result
@@ -113,7 +113,7 @@ dismiss
 carpet
 control
 waste |  
-| bip_39_word_new_line9 | quality
+| bip_39_word_new_line_9 | quality
 repeat
 inform
 result

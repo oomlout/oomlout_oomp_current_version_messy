@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | item |  
-| bip_39_word_new_br10 | item<br>menu<br>dream<br>visa<br>amused<br>rapid<br>razor<br>obey<br>play<br>meadow |  
-| bip_39_word_new_br11 | item<br>menu<br>dream<br>visa<br>amused<br>rapid<br>razor<br>obey<br>play<br>meadow<br>equal |  
-| bip_39_word_new_br12 | item<br>menu<br>dream<br>visa<br>amused<br>rapid<br>razor<br>obey<br>play<br>meadow<br>equal<br>artist |  
-| bip_39_word_new_br2 | item<br>menu |  
-| bip_39_word_new_br3 | item<br>menu<br>dream |  
-| bip_39_word_new_br4 | item<br>menu<br>dream<br>visa |  
-| bip_39_word_new_br5 | item<br>menu<br>dream<br>visa<br>amused |  
-| bip_39_word_new_br6 | item<br>menu<br>dream<br>visa<br>amused<br>rapid |  
-| bip_39_word_new_br7 | item<br>menu<br>dream<br>visa<br>amused<br>rapid<br>razor |  
-| bip_39_word_new_br8 | item<br>menu<br>dream<br>visa<br>amused<br>rapid<br>razor<br>obey |  
-| bip_39_word_new_br9 | item<br>menu<br>dream<br>visa<br>amused<br>rapid<br>razor<br>obey<br>play |  
-| bip_39_word_new_line1 | item |  
-| bip_39_word_new_line10 | item
+| bip_39_word_new_br_1 | item |  
+| bip_39_word_new_br_10 | item<br>menu<br>dream<br>visa<br>amused<br>rapid<br>razor<br>obey<br>play<br>meadow |  
+| bip_39_word_new_br_11 | item<br>menu<br>dream<br>visa<br>amused<br>rapid<br>razor<br>obey<br>play<br>meadow<br>equal |  
+| bip_39_word_new_br_12 | item<br>menu<br>dream<br>visa<br>amused<br>rapid<br>razor<br>obey<br>play<br>meadow<br>equal<br>artist |  
+| bip_39_word_new_br_2 | item<br>menu |  
+| bip_39_word_new_br_3 | item<br>menu<br>dream |  
+| bip_39_word_new_br_4 | item<br>menu<br>dream<br>visa |  
+| bip_39_word_new_br_5 | item<br>menu<br>dream<br>visa<br>amused |  
+| bip_39_word_new_br_6 | item<br>menu<br>dream<br>visa<br>amused<br>rapid |  
+| bip_39_word_new_br_7 | item<br>menu<br>dream<br>visa<br>amused<br>rapid<br>razor |  
+| bip_39_word_new_br_8 | item<br>menu<br>dream<br>visa<br>amused<br>rapid<br>razor<br>obey |  
+| bip_39_word_new_br_9 | item<br>menu<br>dream<br>visa<br>amused<br>rapid<br>razor<br>obey<br>play |  
+| bip_39_word_new_line_1 | item |  
+| bip_39_word_new_line_10 | item
 menu
 dream
 visa
@@ -55,7 +55,7 @@ razor
 obey
 play
 meadow |  
-| bip_39_word_new_line11 | item
+| bip_39_word_new_line_11 | item
 menu
 dream
 visa
@@ -66,7 +66,7 @@ obey
 play
 meadow
 equal |  
-| bip_39_word_new_line12 | item
+| bip_39_word_new_line_12 | item
 menu
 dream
 visa
@@ -78,34 +78,34 @@ play
 meadow
 equal
 artist |  
-| bip_39_word_new_line2 | item
+| bip_39_word_new_line_2 | item
 menu |  
-| bip_39_word_new_line3 | item
+| bip_39_word_new_line_3 | item
 menu
 dream |  
-| bip_39_word_new_line4 | item
+| bip_39_word_new_line_4 | item
 menu
 dream
 visa |  
-| bip_39_word_new_line5 | item
+| bip_39_word_new_line_5 | item
 menu
 dream
 visa
 amused |  
-| bip_39_word_new_line6 | item
+| bip_39_word_new_line_6 | item
 menu
 dream
 visa
 amused
 rapid |  
-| bip_39_word_new_line7 | item
+| bip_39_word_new_line_7 | item
 menu
 dream
 visa
 amused
 rapid
 razor |  
-| bip_39_word_new_line8 | item
+| bip_39_word_new_line_8 | item
 menu
 dream
 visa
@@ -113,7 +113,7 @@ amused
 rapid
 razor
 obey |  
-| bip_39_word_new_line9 | item
+| bip_39_word_new_line_9 | item
 menu
 dream
 visa

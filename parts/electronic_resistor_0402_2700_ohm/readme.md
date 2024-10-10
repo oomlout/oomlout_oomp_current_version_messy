@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | curve |  
-| bip_39_word_new_br10 | curve<br>mean<br>oven<br>onion<br>color<br>source<br>office<br>half<br>artwork<br>news |  
-| bip_39_word_new_br11 | curve<br>mean<br>oven<br>onion<br>color<br>source<br>office<br>half<br>artwork<br>news<br>soul |  
-| bip_39_word_new_br12 | curve<br>mean<br>oven<br>onion<br>color<br>source<br>office<br>half<br>artwork<br>news<br>soul<br>apology |  
-| bip_39_word_new_br2 | curve<br>mean |  
-| bip_39_word_new_br3 | curve<br>mean<br>oven |  
-| bip_39_word_new_br4 | curve<br>mean<br>oven<br>onion |  
-| bip_39_word_new_br5 | curve<br>mean<br>oven<br>onion<br>color |  
-| bip_39_word_new_br6 | curve<br>mean<br>oven<br>onion<br>color<br>source |  
-| bip_39_word_new_br7 | curve<br>mean<br>oven<br>onion<br>color<br>source<br>office |  
-| bip_39_word_new_br8 | curve<br>mean<br>oven<br>onion<br>color<br>source<br>office<br>half |  
-| bip_39_word_new_br9 | curve<br>mean<br>oven<br>onion<br>color<br>source<br>office<br>half<br>artwork |  
-| bip_39_word_new_line1 | curve |  
-| bip_39_word_new_line10 | curve
+| bip_39_word_new_br_1 | curve |  
+| bip_39_word_new_br_10 | curve<br>mean<br>oven<br>onion<br>color<br>source<br>office<br>half<br>artwork<br>news |  
+| bip_39_word_new_br_11 | curve<br>mean<br>oven<br>onion<br>color<br>source<br>office<br>half<br>artwork<br>news<br>soul |  
+| bip_39_word_new_br_12 | curve<br>mean<br>oven<br>onion<br>color<br>source<br>office<br>half<br>artwork<br>news<br>soul<br>apology |  
+| bip_39_word_new_br_2 | curve<br>mean |  
+| bip_39_word_new_br_3 | curve<br>mean<br>oven |  
+| bip_39_word_new_br_4 | curve<br>mean<br>oven<br>onion |  
+| bip_39_word_new_br_5 | curve<br>mean<br>oven<br>onion<br>color |  
+| bip_39_word_new_br_6 | curve<br>mean<br>oven<br>onion<br>color<br>source |  
+| bip_39_word_new_br_7 | curve<br>mean<br>oven<br>onion<br>color<br>source<br>office |  
+| bip_39_word_new_br_8 | curve<br>mean<br>oven<br>onion<br>color<br>source<br>office<br>half |  
+| bip_39_word_new_br_9 | curve<br>mean<br>oven<br>onion<br>color<br>source<br>office<br>half<br>artwork |  
+| bip_39_word_new_line_1 | curve |  
+| bip_39_word_new_line_10 | curve
 mean
 oven
 onion
@@ -55,7 +55,7 @@ office
 half
 artwork
 news |  
-| bip_39_word_new_line11 | curve
+| bip_39_word_new_line_11 | curve
 mean
 oven
 onion
@@ -66,7 +66,7 @@ half
 artwork
 news
 soul |  
-| bip_39_word_new_line12 | curve
+| bip_39_word_new_line_12 | curve
 mean
 oven
 onion
@@ -78,34 +78,34 @@ artwork
 news
 soul
 apology |  
-| bip_39_word_new_line2 | curve
+| bip_39_word_new_line_2 | curve
 mean |  
-| bip_39_word_new_line3 | curve
+| bip_39_word_new_line_3 | curve
 mean
 oven |  
-| bip_39_word_new_line4 | curve
+| bip_39_word_new_line_4 | curve
 mean
 oven
 onion |  
-| bip_39_word_new_line5 | curve
+| bip_39_word_new_line_5 | curve
 mean
 oven
 onion
 color |  
-| bip_39_word_new_line6 | curve
+| bip_39_word_new_line_6 | curve
 mean
 oven
 onion
 color
 source |  
-| bip_39_word_new_line7 | curve
+| bip_39_word_new_line_7 | curve
 mean
 oven
 onion
 color
 source
 office |  
-| bip_39_word_new_line8 | curve
+| bip_39_word_new_line_8 | curve
 mean
 oven
 onion
@@ -113,7 +113,7 @@ color
 source
 office
 half |  
-| bip_39_word_new_line9 | curve
+| bip_39_word_new_line_9 | curve
 mean
 oven
 onion

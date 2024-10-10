@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | thrive |  
-| bip_39_word_new_br10 | thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp<br>dinner<br>defy<br>hair<br>expire |  
-| bip_39_word_new_br11 | thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp<br>dinner<br>defy<br>hair<br>expire<br>client |  
-| bip_39_word_new_br12 | thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp<br>dinner<br>defy<br>hair<br>expire<br>client<br>alpha |  
-| bip_39_word_new_br2 | thrive<br>genuine |  
-| bip_39_word_new_br3 | thrive<br>genuine<br>dash |  
-| bip_39_word_new_br4 | thrive<br>genuine<br>dash<br>exchange |  
-| bip_39_word_new_br5 | thrive<br>genuine<br>dash<br>exchange<br>invite |  
-| bip_39_word_new_br6 | thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp |  
-| bip_39_word_new_br7 | thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp<br>dinner |  
-| bip_39_word_new_br8 | thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp<br>dinner<br>defy |  
-| bip_39_word_new_br9 | thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp<br>dinner<br>defy<br>hair |  
-| bip_39_word_new_line1 | thrive |  
-| bip_39_word_new_line10 | thrive
+| bip_39_word_new_br_1 | thrive |  
+| bip_39_word_new_br_10 | thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp<br>dinner<br>defy<br>hair<br>expire |  
+| bip_39_word_new_br_11 | thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp<br>dinner<br>defy<br>hair<br>expire<br>client |  
+| bip_39_word_new_br_12 | thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp<br>dinner<br>defy<br>hair<br>expire<br>client<br>alpha |  
+| bip_39_word_new_br_2 | thrive<br>genuine |  
+| bip_39_word_new_br_3 | thrive<br>genuine<br>dash |  
+| bip_39_word_new_br_4 | thrive<br>genuine<br>dash<br>exchange |  
+| bip_39_word_new_br_5 | thrive<br>genuine<br>dash<br>exchange<br>invite |  
+| bip_39_word_new_br_6 | thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp |  
+| bip_39_word_new_br_7 | thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp<br>dinner |  
+| bip_39_word_new_br_8 | thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp<br>dinner<br>defy |  
+| bip_39_word_new_br_9 | thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp<br>dinner<br>defy<br>hair |  
+| bip_39_word_new_line_1 | thrive |  
+| bip_39_word_new_line_10 | thrive
 genuine
 dash
 exchange
@@ -55,7 +55,7 @@ dinner
 defy
 hair
 expire |  
-| bip_39_word_new_line11 | thrive
+| bip_39_word_new_line_11 | thrive
 genuine
 dash
 exchange
@@ -66,7 +66,7 @@ defy
 hair
 expire
 client |  
-| bip_39_word_new_line12 | thrive
+| bip_39_word_new_line_12 | thrive
 genuine
 dash
 exchange
@@ -78,34 +78,34 @@ hair
 expire
 client
 alpha |  
-| bip_39_word_new_line2 | thrive
+| bip_39_word_new_line_2 | thrive
 genuine |  
-| bip_39_word_new_line3 | thrive
+| bip_39_word_new_line_3 | thrive
 genuine
 dash |  
-| bip_39_word_new_line4 | thrive
+| bip_39_word_new_line_4 | thrive
 genuine
 dash
 exchange |  
-| bip_39_word_new_line5 | thrive
+| bip_39_word_new_line_5 | thrive
 genuine
 dash
 exchange
 invite |  
-| bip_39_word_new_line6 | thrive
+| bip_39_word_new_line_6 | thrive
 genuine
 dash
 exchange
 invite
 gasp |  
-| bip_39_word_new_line7 | thrive
+| bip_39_word_new_line_7 | thrive
 genuine
 dash
 exchange
 invite
 gasp
 dinner |  
-| bip_39_word_new_line8 | thrive
+| bip_39_word_new_line_8 | thrive
 genuine
 dash
 exchange
@@ -113,7 +113,7 @@ invite
 gasp
 dinner
 defy |  
-| bip_39_word_new_line9 | thrive
+| bip_39_word_new_line_9 | thrive
 genuine
 dash
 exchange

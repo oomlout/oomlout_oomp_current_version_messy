@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | crisp |  
-| bip_39_word_new_br10 | crisp<br>coil<br>history<br>treat<br>bean<br>frog<br>worry<br>juice<br>local<br>very |  
-| bip_39_word_new_br11 | crisp<br>coil<br>history<br>treat<br>bean<br>frog<br>worry<br>juice<br>local<br>very<br>copy |  
-| bip_39_word_new_br12 | crisp<br>coil<br>history<br>treat<br>bean<br>frog<br>worry<br>juice<br>local<br>very<br>copy<br>across |  
-| bip_39_word_new_br2 | crisp<br>coil |  
-| bip_39_word_new_br3 | crisp<br>coil<br>history |  
-| bip_39_word_new_br4 | crisp<br>coil<br>history<br>treat |  
-| bip_39_word_new_br5 | crisp<br>coil<br>history<br>treat<br>bean |  
-| bip_39_word_new_br6 | crisp<br>coil<br>history<br>treat<br>bean<br>frog |  
-| bip_39_word_new_br7 | crisp<br>coil<br>history<br>treat<br>bean<br>frog<br>worry |  
-| bip_39_word_new_br8 | crisp<br>coil<br>history<br>treat<br>bean<br>frog<br>worry<br>juice |  
-| bip_39_word_new_br9 | crisp<br>coil<br>history<br>treat<br>bean<br>frog<br>worry<br>juice<br>local |  
-| bip_39_word_new_line1 | crisp |  
-| bip_39_word_new_line10 | crisp
+| bip_39_word_new_br_1 | crisp |  
+| bip_39_word_new_br_10 | crisp<br>coil<br>history<br>treat<br>bean<br>frog<br>worry<br>juice<br>local<br>very |  
+| bip_39_word_new_br_11 | crisp<br>coil<br>history<br>treat<br>bean<br>frog<br>worry<br>juice<br>local<br>very<br>copy |  
+| bip_39_word_new_br_12 | crisp<br>coil<br>history<br>treat<br>bean<br>frog<br>worry<br>juice<br>local<br>very<br>copy<br>across |  
+| bip_39_word_new_br_2 | crisp<br>coil |  
+| bip_39_word_new_br_3 | crisp<br>coil<br>history |  
+| bip_39_word_new_br_4 | crisp<br>coil<br>history<br>treat |  
+| bip_39_word_new_br_5 | crisp<br>coil<br>history<br>treat<br>bean |  
+| bip_39_word_new_br_6 | crisp<br>coil<br>history<br>treat<br>bean<br>frog |  
+| bip_39_word_new_br_7 | crisp<br>coil<br>history<br>treat<br>bean<br>frog<br>worry |  
+| bip_39_word_new_br_8 | crisp<br>coil<br>history<br>treat<br>bean<br>frog<br>worry<br>juice |  
+| bip_39_word_new_br_9 | crisp<br>coil<br>history<br>treat<br>bean<br>frog<br>worry<br>juice<br>local |  
+| bip_39_word_new_line_1 | crisp |  
+| bip_39_word_new_line_10 | crisp
 coil
 history
 treat
@@ -55,7 +55,7 @@ worry
 juice
 local
 very |  
-| bip_39_word_new_line11 | crisp
+| bip_39_word_new_line_11 | crisp
 coil
 history
 treat
@@ -66,7 +66,7 @@ juice
 local
 very
 copy |  
-| bip_39_word_new_line12 | crisp
+| bip_39_word_new_line_12 | crisp
 coil
 history
 treat
@@ -78,34 +78,34 @@ local
 very
 copy
 across |  
-| bip_39_word_new_line2 | crisp
+| bip_39_word_new_line_2 | crisp
 coil |  
-| bip_39_word_new_line3 | crisp
+| bip_39_word_new_line_3 | crisp
 coil
 history |  
-| bip_39_word_new_line4 | crisp
+| bip_39_word_new_line_4 | crisp
 coil
 history
 treat |  
-| bip_39_word_new_line5 | crisp
+| bip_39_word_new_line_5 | crisp
 coil
 history
 treat
 bean |  
-| bip_39_word_new_line6 | crisp
+| bip_39_word_new_line_6 | crisp
 coil
 history
 treat
 bean
 frog |  
-| bip_39_word_new_line7 | crisp
+| bip_39_word_new_line_7 | crisp
 coil
 history
 treat
 bean
 frog
 worry |  
-| bip_39_word_new_line8 | crisp
+| bip_39_word_new_line_8 | crisp
 coil
 history
 treat
@@ -113,7 +113,7 @@ bean
 frog
 worry
 juice |  
-| bip_39_word_new_line9 | crisp
+| bip_39_word_new_line_9 | crisp
 coil
 history
 treat

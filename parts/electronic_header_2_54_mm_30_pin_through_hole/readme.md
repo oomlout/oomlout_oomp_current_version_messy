@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | able |  
-| bip_39_word_new_br10 | able<br>action<br>rely<br>long<br>casual<br>will<br>cotton<br>only<br>uncover<br>blame |  
-| bip_39_word_new_br11 | able<br>action<br>rely<br>long<br>casual<br>will<br>cotton<br>only<br>uncover<br>blame<br>stairs |  
-| bip_39_word_new_br12 | able<br>action<br>rely<br>long<br>casual<br>will<br>cotton<br>only<br>uncover<br>blame<br>stairs<br>artefact |  
-| bip_39_word_new_br2 | able<br>action |  
-| bip_39_word_new_br3 | able<br>action<br>rely |  
-| bip_39_word_new_br4 | able<br>action<br>rely<br>long |  
-| bip_39_word_new_br5 | able<br>action<br>rely<br>long<br>casual |  
-| bip_39_word_new_br6 | able<br>action<br>rely<br>long<br>casual<br>will |  
-| bip_39_word_new_br7 | able<br>action<br>rely<br>long<br>casual<br>will<br>cotton |  
-| bip_39_word_new_br8 | able<br>action<br>rely<br>long<br>casual<br>will<br>cotton<br>only |  
-| bip_39_word_new_br9 | able<br>action<br>rely<br>long<br>casual<br>will<br>cotton<br>only<br>uncover |  
-| bip_39_word_new_line1 | able |  
-| bip_39_word_new_line10 | able
+| bip_39_word_new_br_1 | able |  
+| bip_39_word_new_br_10 | able<br>action<br>rely<br>long<br>casual<br>will<br>cotton<br>only<br>uncover<br>blame |  
+| bip_39_word_new_br_11 | able<br>action<br>rely<br>long<br>casual<br>will<br>cotton<br>only<br>uncover<br>blame<br>stairs |  
+| bip_39_word_new_br_12 | able<br>action<br>rely<br>long<br>casual<br>will<br>cotton<br>only<br>uncover<br>blame<br>stairs<br>artefact |  
+| bip_39_word_new_br_2 | able<br>action |  
+| bip_39_word_new_br_3 | able<br>action<br>rely |  
+| bip_39_word_new_br_4 | able<br>action<br>rely<br>long |  
+| bip_39_word_new_br_5 | able<br>action<br>rely<br>long<br>casual |  
+| bip_39_word_new_br_6 | able<br>action<br>rely<br>long<br>casual<br>will |  
+| bip_39_word_new_br_7 | able<br>action<br>rely<br>long<br>casual<br>will<br>cotton |  
+| bip_39_word_new_br_8 | able<br>action<br>rely<br>long<br>casual<br>will<br>cotton<br>only |  
+| bip_39_word_new_br_9 | able<br>action<br>rely<br>long<br>casual<br>will<br>cotton<br>only<br>uncover |  
+| bip_39_word_new_line_1 | able |  
+| bip_39_word_new_line_10 | able
 action
 rely
 long
@@ -55,7 +55,7 @@ cotton
 only
 uncover
 blame |  
-| bip_39_word_new_line11 | able
+| bip_39_word_new_line_11 | able
 action
 rely
 long
@@ -66,7 +66,7 @@ only
 uncover
 blame
 stairs |  
-| bip_39_word_new_line12 | able
+| bip_39_word_new_line_12 | able
 action
 rely
 long
@@ -78,34 +78,34 @@ uncover
 blame
 stairs
 artefact |  
-| bip_39_word_new_line2 | able
+| bip_39_word_new_line_2 | able
 action |  
-| bip_39_word_new_line3 | able
+| bip_39_word_new_line_3 | able
 action
 rely |  
-| bip_39_word_new_line4 | able
+| bip_39_word_new_line_4 | able
 action
 rely
 long |  
-| bip_39_word_new_line5 | able
+| bip_39_word_new_line_5 | able
 action
 rely
 long
 casual |  
-| bip_39_word_new_line6 | able
+| bip_39_word_new_line_6 | able
 action
 rely
 long
 casual
 will |  
-| bip_39_word_new_line7 | able
+| bip_39_word_new_line_7 | able
 action
 rely
 long
 casual
 will
 cotton |  
-| bip_39_word_new_line8 | able
+| bip_39_word_new_line_8 | able
 action
 rely
 long
@@ -113,7 +113,7 @@ casual
 will
 cotton
 only |  
-| bip_39_word_new_line9 | able
+| bip_39_word_new_line_9 | able
 action
 rely
 long

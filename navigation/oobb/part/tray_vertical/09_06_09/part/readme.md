@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | phone |  
-| bip_39_word_new_br10 | phone<br>general<br>inherit<br>sing<br>session<br>love<br>snake<br>false<br>catalog<br>gossip |  
-| bip_39_word_new_br11 | phone<br>general<br>inherit<br>sing<br>session<br>love<br>snake<br>false<br>catalog<br>gossip<br>cluster |  
-| bip_39_word_new_br12 | phone<br>general<br>inherit<br>sing<br>session<br>love<br>snake<br>false<br>catalog<br>gossip<br>cluster<br>audit |  
-| bip_39_word_new_br2 | phone<br>general |  
-| bip_39_word_new_br3 | phone<br>general<br>inherit |  
-| bip_39_word_new_br4 | phone<br>general<br>inherit<br>sing |  
-| bip_39_word_new_br5 | phone<br>general<br>inherit<br>sing<br>session |  
-| bip_39_word_new_br6 | phone<br>general<br>inherit<br>sing<br>session<br>love |  
-| bip_39_word_new_br7 | phone<br>general<br>inherit<br>sing<br>session<br>love<br>snake |  
-| bip_39_word_new_br8 | phone<br>general<br>inherit<br>sing<br>session<br>love<br>snake<br>false |  
-| bip_39_word_new_br9 | phone<br>general<br>inherit<br>sing<br>session<br>love<br>snake<br>false<br>catalog |  
-| bip_39_word_new_line1 | phone |  
-| bip_39_word_new_line10 | phone
+| bip_39_word_new_br_1 | phone |  
+| bip_39_word_new_br_10 | phone<br>general<br>inherit<br>sing<br>session<br>love<br>snake<br>false<br>catalog<br>gossip |  
+| bip_39_word_new_br_11 | phone<br>general<br>inherit<br>sing<br>session<br>love<br>snake<br>false<br>catalog<br>gossip<br>cluster |  
+| bip_39_word_new_br_12 | phone<br>general<br>inherit<br>sing<br>session<br>love<br>snake<br>false<br>catalog<br>gossip<br>cluster<br>audit |  
+| bip_39_word_new_br_2 | phone<br>general |  
+| bip_39_word_new_br_3 | phone<br>general<br>inherit |  
+| bip_39_word_new_br_4 | phone<br>general<br>inherit<br>sing |  
+| bip_39_word_new_br_5 | phone<br>general<br>inherit<br>sing<br>session |  
+| bip_39_word_new_br_6 | phone<br>general<br>inherit<br>sing<br>session<br>love |  
+| bip_39_word_new_br_7 | phone<br>general<br>inherit<br>sing<br>session<br>love<br>snake |  
+| bip_39_word_new_br_8 | phone<br>general<br>inherit<br>sing<br>session<br>love<br>snake<br>false |  
+| bip_39_word_new_br_9 | phone<br>general<br>inherit<br>sing<br>session<br>love<br>snake<br>false<br>catalog |  
+| bip_39_word_new_line_1 | phone |  
+| bip_39_word_new_line_10 | phone
 general
 inherit
 sing
@@ -55,7 +55,7 @@ snake
 false
 catalog
 gossip |  
-| bip_39_word_new_line11 | phone
+| bip_39_word_new_line_11 | phone
 general
 inherit
 sing
@@ -66,7 +66,7 @@ false
 catalog
 gossip
 cluster |  
-| bip_39_word_new_line12 | phone
+| bip_39_word_new_line_12 | phone
 general
 inherit
 sing
@@ -78,34 +78,34 @@ catalog
 gossip
 cluster
 audit |  
-| bip_39_word_new_line2 | phone
+| bip_39_word_new_line_2 | phone
 general |  
-| bip_39_word_new_line3 | phone
+| bip_39_word_new_line_3 | phone
 general
 inherit |  
-| bip_39_word_new_line4 | phone
+| bip_39_word_new_line_4 | phone
 general
 inherit
 sing |  
-| bip_39_word_new_line5 | phone
+| bip_39_word_new_line_5 | phone
 general
 inherit
 sing
 session |  
-| bip_39_word_new_line6 | phone
+| bip_39_word_new_line_6 | phone
 general
 inherit
 sing
 session
 love |  
-| bip_39_word_new_line7 | phone
+| bip_39_word_new_line_7 | phone
 general
 inherit
 sing
 session
 love
 snake |  
-| bip_39_word_new_line8 | phone
+| bip_39_word_new_line_8 | phone
 general
 inherit
 sing
@@ -113,7 +113,7 @@ session
 love
 snake
 false |  
-| bip_39_word_new_line9 | phone
+| bip_39_word_new_line_9 | phone
 general
 inherit
 sing

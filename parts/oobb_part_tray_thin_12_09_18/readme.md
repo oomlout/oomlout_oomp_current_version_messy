@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | entire |  
-| bip_39_word_new_br10 | entire<br>dawn<br>steel<br>embrace<br>alpha<br>grief<br>render<br>time<br>sibling<br>dream |  
-| bip_39_word_new_br11 | entire<br>dawn<br>steel<br>embrace<br>alpha<br>grief<br>render<br>time<br>sibling<br>dream<br>custom |  
-| bip_39_word_new_br12 | entire<br>dawn<br>steel<br>embrace<br>alpha<br>grief<br>render<br>time<br>sibling<br>dream<br>custom<br>arrest |  
-| bip_39_word_new_br2 | entire<br>dawn |  
-| bip_39_word_new_br3 | entire<br>dawn<br>steel |  
-| bip_39_word_new_br4 | entire<br>dawn<br>steel<br>embrace |  
-| bip_39_word_new_br5 | entire<br>dawn<br>steel<br>embrace<br>alpha |  
-| bip_39_word_new_br6 | entire<br>dawn<br>steel<br>embrace<br>alpha<br>grief |  
-| bip_39_word_new_br7 | entire<br>dawn<br>steel<br>embrace<br>alpha<br>grief<br>render |  
-| bip_39_word_new_br8 | entire<br>dawn<br>steel<br>embrace<br>alpha<br>grief<br>render<br>time |  
-| bip_39_word_new_br9 | entire<br>dawn<br>steel<br>embrace<br>alpha<br>grief<br>render<br>time<br>sibling |  
-| bip_39_word_new_line1 | entire |  
-| bip_39_word_new_line10 | entire
+| bip_39_word_new_br_1 | entire |  
+| bip_39_word_new_br_10 | entire<br>dawn<br>steel<br>embrace<br>alpha<br>grief<br>render<br>time<br>sibling<br>dream |  
+| bip_39_word_new_br_11 | entire<br>dawn<br>steel<br>embrace<br>alpha<br>grief<br>render<br>time<br>sibling<br>dream<br>custom |  
+| bip_39_word_new_br_12 | entire<br>dawn<br>steel<br>embrace<br>alpha<br>grief<br>render<br>time<br>sibling<br>dream<br>custom<br>arrest |  
+| bip_39_word_new_br_2 | entire<br>dawn |  
+| bip_39_word_new_br_3 | entire<br>dawn<br>steel |  
+| bip_39_word_new_br_4 | entire<br>dawn<br>steel<br>embrace |  
+| bip_39_word_new_br_5 | entire<br>dawn<br>steel<br>embrace<br>alpha |  
+| bip_39_word_new_br_6 | entire<br>dawn<br>steel<br>embrace<br>alpha<br>grief |  
+| bip_39_word_new_br_7 | entire<br>dawn<br>steel<br>embrace<br>alpha<br>grief<br>render |  
+| bip_39_word_new_br_8 | entire<br>dawn<br>steel<br>embrace<br>alpha<br>grief<br>render<br>time |  
+| bip_39_word_new_br_9 | entire<br>dawn<br>steel<br>embrace<br>alpha<br>grief<br>render<br>time<br>sibling |  
+| bip_39_word_new_line_1 | entire |  
+| bip_39_word_new_line_10 | entire
 dawn
 steel
 embrace
@@ -55,7 +55,7 @@ render
 time
 sibling
 dream |  
-| bip_39_word_new_line11 | entire
+| bip_39_word_new_line_11 | entire
 dawn
 steel
 embrace
@@ -66,7 +66,7 @@ time
 sibling
 dream
 custom |  
-| bip_39_word_new_line12 | entire
+| bip_39_word_new_line_12 | entire
 dawn
 steel
 embrace
@@ -78,34 +78,34 @@ sibling
 dream
 custom
 arrest |  
-| bip_39_word_new_line2 | entire
+| bip_39_word_new_line_2 | entire
 dawn |  
-| bip_39_word_new_line3 | entire
+| bip_39_word_new_line_3 | entire
 dawn
 steel |  
-| bip_39_word_new_line4 | entire
+| bip_39_word_new_line_4 | entire
 dawn
 steel
 embrace |  
-| bip_39_word_new_line5 | entire
+| bip_39_word_new_line_5 | entire
 dawn
 steel
 embrace
 alpha |  
-| bip_39_word_new_line6 | entire
+| bip_39_word_new_line_6 | entire
 dawn
 steel
 embrace
 alpha
 grief |  
-| bip_39_word_new_line7 | entire
+| bip_39_word_new_line_7 | entire
 dawn
 steel
 embrace
 alpha
 grief
 render |  
-| bip_39_word_new_line8 | entire
+| bip_39_word_new_line_8 | entire
 dawn
 steel
 embrace
@@ -113,7 +113,7 @@ alpha
 grief
 render
 time |  
-| bip_39_word_new_line9 | entire
+| bip_39_word_new_line_9 | entire
 dawn
 steel
 embrace

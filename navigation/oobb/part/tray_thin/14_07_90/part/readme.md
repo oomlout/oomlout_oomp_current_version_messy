@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | add |  
-| bip_39_word_new_br10 | add<br>fossil<br>aerobic<br>wait<br>talk<br>pull<br>purity<br>gift<br>pumpkin<br>try |  
-| bip_39_word_new_br11 | add<br>fossil<br>aerobic<br>wait<br>talk<br>pull<br>purity<br>gift<br>pumpkin<br>try<br>bulk |  
-| bip_39_word_new_br12 | add<br>fossil<br>aerobic<br>wait<br>talk<br>pull<br>purity<br>gift<br>pumpkin<br>try<br>bulk<br>asthma |  
-| bip_39_word_new_br2 | add<br>fossil |  
-| bip_39_word_new_br3 | add<br>fossil<br>aerobic |  
-| bip_39_word_new_br4 | add<br>fossil<br>aerobic<br>wait |  
-| bip_39_word_new_br5 | add<br>fossil<br>aerobic<br>wait<br>talk |  
-| bip_39_word_new_br6 | add<br>fossil<br>aerobic<br>wait<br>talk<br>pull |  
-| bip_39_word_new_br7 | add<br>fossil<br>aerobic<br>wait<br>talk<br>pull<br>purity |  
-| bip_39_word_new_br8 | add<br>fossil<br>aerobic<br>wait<br>talk<br>pull<br>purity<br>gift |  
-| bip_39_word_new_br9 | add<br>fossil<br>aerobic<br>wait<br>talk<br>pull<br>purity<br>gift<br>pumpkin |  
-| bip_39_word_new_line1 | add |  
-| bip_39_word_new_line10 | add
+| bip_39_word_new_br_1 | add |  
+| bip_39_word_new_br_10 | add<br>fossil<br>aerobic<br>wait<br>talk<br>pull<br>purity<br>gift<br>pumpkin<br>try |  
+| bip_39_word_new_br_11 | add<br>fossil<br>aerobic<br>wait<br>talk<br>pull<br>purity<br>gift<br>pumpkin<br>try<br>bulk |  
+| bip_39_word_new_br_12 | add<br>fossil<br>aerobic<br>wait<br>talk<br>pull<br>purity<br>gift<br>pumpkin<br>try<br>bulk<br>asthma |  
+| bip_39_word_new_br_2 | add<br>fossil |  
+| bip_39_word_new_br_3 | add<br>fossil<br>aerobic |  
+| bip_39_word_new_br_4 | add<br>fossil<br>aerobic<br>wait |  
+| bip_39_word_new_br_5 | add<br>fossil<br>aerobic<br>wait<br>talk |  
+| bip_39_word_new_br_6 | add<br>fossil<br>aerobic<br>wait<br>talk<br>pull |  
+| bip_39_word_new_br_7 | add<br>fossil<br>aerobic<br>wait<br>talk<br>pull<br>purity |  
+| bip_39_word_new_br_8 | add<br>fossil<br>aerobic<br>wait<br>talk<br>pull<br>purity<br>gift |  
+| bip_39_word_new_br_9 | add<br>fossil<br>aerobic<br>wait<br>talk<br>pull<br>purity<br>gift<br>pumpkin |  
+| bip_39_word_new_line_1 | add |  
+| bip_39_word_new_line_10 | add
 fossil
 aerobic
 wait
@@ -55,7 +55,7 @@ purity
 gift
 pumpkin
 try |  
-| bip_39_word_new_line11 | add
+| bip_39_word_new_line_11 | add
 fossil
 aerobic
 wait
@@ -66,7 +66,7 @@ gift
 pumpkin
 try
 bulk |  
-| bip_39_word_new_line12 | add
+| bip_39_word_new_line_12 | add
 fossil
 aerobic
 wait
@@ -78,34 +78,34 @@ pumpkin
 try
 bulk
 asthma |  
-| bip_39_word_new_line2 | add
+| bip_39_word_new_line_2 | add
 fossil |  
-| bip_39_word_new_line3 | add
+| bip_39_word_new_line_3 | add
 fossil
 aerobic |  
-| bip_39_word_new_line4 | add
+| bip_39_word_new_line_4 | add
 fossil
 aerobic
 wait |  
-| bip_39_word_new_line5 | add
+| bip_39_word_new_line_5 | add
 fossil
 aerobic
 wait
 talk |  
-| bip_39_word_new_line6 | add
+| bip_39_word_new_line_6 | add
 fossil
 aerobic
 wait
 talk
 pull |  
-| bip_39_word_new_line7 | add
+| bip_39_word_new_line_7 | add
 fossil
 aerobic
 wait
 talk
 pull
 purity |  
-| bip_39_word_new_line8 | add
+| bip_39_word_new_line_8 | add
 fossil
 aerobic
 wait
@@ -113,7 +113,7 @@ talk
 pull
 purity
 gift |  
-| bip_39_word_new_line9 | add
+| bip_39_word_new_line_9 | add
 fossil
 aerobic
 wait

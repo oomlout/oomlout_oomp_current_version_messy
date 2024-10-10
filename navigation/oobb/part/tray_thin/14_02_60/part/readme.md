@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | always |  
-| bip_39_word_new_br10 | always<br>indoor<br>thunder<br>health<br>news<br>rate<br>nasty<br>weird<br>oak<br>only |  
-| bip_39_word_new_br11 | always<br>indoor<br>thunder<br>health<br>news<br>rate<br>nasty<br>weird<br>oak<br>only<br>ethics |  
-| bip_39_word_new_br12 | always<br>indoor<br>thunder<br>health<br>news<br>rate<br>nasty<br>weird<br>oak<br>only<br>ethics<br>atom |  
-| bip_39_word_new_br2 | always<br>indoor |  
-| bip_39_word_new_br3 | always<br>indoor<br>thunder |  
-| bip_39_word_new_br4 | always<br>indoor<br>thunder<br>health |  
-| bip_39_word_new_br5 | always<br>indoor<br>thunder<br>health<br>news |  
-| bip_39_word_new_br6 | always<br>indoor<br>thunder<br>health<br>news<br>rate |  
-| bip_39_word_new_br7 | always<br>indoor<br>thunder<br>health<br>news<br>rate<br>nasty |  
-| bip_39_word_new_br8 | always<br>indoor<br>thunder<br>health<br>news<br>rate<br>nasty<br>weird |  
-| bip_39_word_new_br9 | always<br>indoor<br>thunder<br>health<br>news<br>rate<br>nasty<br>weird<br>oak |  
-| bip_39_word_new_line1 | always |  
-| bip_39_word_new_line10 | always
+| bip_39_word_new_br_1 | always |  
+| bip_39_word_new_br_10 | always<br>indoor<br>thunder<br>health<br>news<br>rate<br>nasty<br>weird<br>oak<br>only |  
+| bip_39_word_new_br_11 | always<br>indoor<br>thunder<br>health<br>news<br>rate<br>nasty<br>weird<br>oak<br>only<br>ethics |  
+| bip_39_word_new_br_12 | always<br>indoor<br>thunder<br>health<br>news<br>rate<br>nasty<br>weird<br>oak<br>only<br>ethics<br>atom |  
+| bip_39_word_new_br_2 | always<br>indoor |  
+| bip_39_word_new_br_3 | always<br>indoor<br>thunder |  
+| bip_39_word_new_br_4 | always<br>indoor<br>thunder<br>health |  
+| bip_39_word_new_br_5 | always<br>indoor<br>thunder<br>health<br>news |  
+| bip_39_word_new_br_6 | always<br>indoor<br>thunder<br>health<br>news<br>rate |  
+| bip_39_word_new_br_7 | always<br>indoor<br>thunder<br>health<br>news<br>rate<br>nasty |  
+| bip_39_word_new_br_8 | always<br>indoor<br>thunder<br>health<br>news<br>rate<br>nasty<br>weird |  
+| bip_39_word_new_br_9 | always<br>indoor<br>thunder<br>health<br>news<br>rate<br>nasty<br>weird<br>oak |  
+| bip_39_word_new_line_1 | always |  
+| bip_39_word_new_line_10 | always
 indoor
 thunder
 health
@@ -55,7 +55,7 @@ nasty
 weird
 oak
 only |  
-| bip_39_word_new_line11 | always
+| bip_39_word_new_line_11 | always
 indoor
 thunder
 health
@@ -66,7 +66,7 @@ weird
 oak
 only
 ethics |  
-| bip_39_word_new_line12 | always
+| bip_39_word_new_line_12 | always
 indoor
 thunder
 health
@@ -78,34 +78,34 @@ oak
 only
 ethics
 atom |  
-| bip_39_word_new_line2 | always
+| bip_39_word_new_line_2 | always
 indoor |  
-| bip_39_word_new_line3 | always
+| bip_39_word_new_line_3 | always
 indoor
 thunder |  
-| bip_39_word_new_line4 | always
+| bip_39_word_new_line_4 | always
 indoor
 thunder
 health |  
-| bip_39_word_new_line5 | always
+| bip_39_word_new_line_5 | always
 indoor
 thunder
 health
 news |  
-| bip_39_word_new_line6 | always
+| bip_39_word_new_line_6 | always
 indoor
 thunder
 health
 news
 rate |  
-| bip_39_word_new_line7 | always
+| bip_39_word_new_line_7 | always
 indoor
 thunder
 health
 news
 rate
 nasty |  
-| bip_39_word_new_line8 | always
+| bip_39_word_new_line_8 | always
 indoor
 thunder
 health
@@ -113,7 +113,7 @@ news
 rate
 nasty
 weird |  
-| bip_39_word_new_line9 | always
+| bip_39_word_new_line_9 | always
 indoor
 thunder
 health

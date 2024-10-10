@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ball |  
-| bip_39_word_new_br10 | ball<br>indicate<br>original<br>slim<br>install<br>uncle<br>laptop<br>wood<br>shaft<br>awful |  
-| bip_39_word_new_br11 | ball<br>indicate<br>original<br>slim<br>install<br>uncle<br>laptop<br>wood<br>shaft<br>awful<br>slot |  
-| bip_39_word_new_br12 | ball<br>indicate<br>original<br>slim<br>install<br>uncle<br>laptop<br>wood<br>shaft<br>awful<br>slot<br>aim |  
-| bip_39_word_new_br2 | ball<br>indicate |  
-| bip_39_word_new_br3 | ball<br>indicate<br>original |  
-| bip_39_word_new_br4 | ball<br>indicate<br>original<br>slim |  
-| bip_39_word_new_br5 | ball<br>indicate<br>original<br>slim<br>install |  
-| bip_39_word_new_br6 | ball<br>indicate<br>original<br>slim<br>install<br>uncle |  
-| bip_39_word_new_br7 | ball<br>indicate<br>original<br>slim<br>install<br>uncle<br>laptop |  
-| bip_39_word_new_br8 | ball<br>indicate<br>original<br>slim<br>install<br>uncle<br>laptop<br>wood |  
-| bip_39_word_new_br9 | ball<br>indicate<br>original<br>slim<br>install<br>uncle<br>laptop<br>wood<br>shaft |  
-| bip_39_word_new_line1 | ball |  
-| bip_39_word_new_line10 | ball
+| bip_39_word_new_br_1 | ball |  
+| bip_39_word_new_br_10 | ball<br>indicate<br>original<br>slim<br>install<br>uncle<br>laptop<br>wood<br>shaft<br>awful |  
+| bip_39_word_new_br_11 | ball<br>indicate<br>original<br>slim<br>install<br>uncle<br>laptop<br>wood<br>shaft<br>awful<br>slot |  
+| bip_39_word_new_br_12 | ball<br>indicate<br>original<br>slim<br>install<br>uncle<br>laptop<br>wood<br>shaft<br>awful<br>slot<br>aim |  
+| bip_39_word_new_br_2 | ball<br>indicate |  
+| bip_39_word_new_br_3 | ball<br>indicate<br>original |  
+| bip_39_word_new_br_4 | ball<br>indicate<br>original<br>slim |  
+| bip_39_word_new_br_5 | ball<br>indicate<br>original<br>slim<br>install |  
+| bip_39_word_new_br_6 | ball<br>indicate<br>original<br>slim<br>install<br>uncle |  
+| bip_39_word_new_br_7 | ball<br>indicate<br>original<br>slim<br>install<br>uncle<br>laptop |  
+| bip_39_word_new_br_8 | ball<br>indicate<br>original<br>slim<br>install<br>uncle<br>laptop<br>wood |  
+| bip_39_word_new_br_9 | ball<br>indicate<br>original<br>slim<br>install<br>uncle<br>laptop<br>wood<br>shaft |  
+| bip_39_word_new_line_1 | ball |  
+| bip_39_word_new_line_10 | ball
 indicate
 original
 slim
@@ -55,7 +55,7 @@ laptop
 wood
 shaft
 awful |  
-| bip_39_word_new_line11 | ball
+| bip_39_word_new_line_11 | ball
 indicate
 original
 slim
@@ -66,7 +66,7 @@ wood
 shaft
 awful
 slot |  
-| bip_39_word_new_line12 | ball
+| bip_39_word_new_line_12 | ball
 indicate
 original
 slim
@@ -78,34 +78,34 @@ shaft
 awful
 slot
 aim |  
-| bip_39_word_new_line2 | ball
+| bip_39_word_new_line_2 | ball
 indicate |  
-| bip_39_word_new_line3 | ball
+| bip_39_word_new_line_3 | ball
 indicate
 original |  
-| bip_39_word_new_line4 | ball
+| bip_39_word_new_line_4 | ball
 indicate
 original
 slim |  
-| bip_39_word_new_line5 | ball
+| bip_39_word_new_line_5 | ball
 indicate
 original
 slim
 install |  
-| bip_39_word_new_line6 | ball
+| bip_39_word_new_line_6 | ball
 indicate
 original
 slim
 install
 uncle |  
-| bip_39_word_new_line7 | ball
+| bip_39_word_new_line_7 | ball
 indicate
 original
 slim
 install
 uncle
 laptop |  
-| bip_39_word_new_line8 | ball
+| bip_39_word_new_line_8 | ball
 indicate
 original
 slim
@@ -113,7 +113,7 @@ install
 uncle
 laptop
 wood |  
-| bip_39_word_new_line9 | ball
+| bip_39_word_new_line_9 | ball
 indicate
 original
 slim

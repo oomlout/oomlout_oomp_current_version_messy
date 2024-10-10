@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | exotic |  
-| bip_39_word_new_br10 | exotic<br>meat<br>surge<br>twice<br>change<br>accident<br>salt<br>clean<br>inherit<br>film |  
-| bip_39_word_new_br11 | exotic<br>meat<br>surge<br>twice<br>change<br>accident<br>salt<br>clean<br>inherit<br>film<br>erase |  
-| bip_39_word_new_br12 | exotic<br>meat<br>surge<br>twice<br>change<br>accident<br>salt<br>clean<br>inherit<br>film<br>erase<br>actor |  
-| bip_39_word_new_br2 | exotic<br>meat |  
-| bip_39_word_new_br3 | exotic<br>meat<br>surge |  
-| bip_39_word_new_br4 | exotic<br>meat<br>surge<br>twice |  
-| bip_39_word_new_br5 | exotic<br>meat<br>surge<br>twice<br>change |  
-| bip_39_word_new_br6 | exotic<br>meat<br>surge<br>twice<br>change<br>accident |  
-| bip_39_word_new_br7 | exotic<br>meat<br>surge<br>twice<br>change<br>accident<br>salt |  
-| bip_39_word_new_br8 | exotic<br>meat<br>surge<br>twice<br>change<br>accident<br>salt<br>clean |  
-| bip_39_word_new_br9 | exotic<br>meat<br>surge<br>twice<br>change<br>accident<br>salt<br>clean<br>inherit |  
-| bip_39_word_new_line1 | exotic |  
-| bip_39_word_new_line10 | exotic
+| bip_39_word_new_br_1 | exotic |  
+| bip_39_word_new_br_10 | exotic<br>meat<br>surge<br>twice<br>change<br>accident<br>salt<br>clean<br>inherit<br>film |  
+| bip_39_word_new_br_11 | exotic<br>meat<br>surge<br>twice<br>change<br>accident<br>salt<br>clean<br>inherit<br>film<br>erase |  
+| bip_39_word_new_br_12 | exotic<br>meat<br>surge<br>twice<br>change<br>accident<br>salt<br>clean<br>inherit<br>film<br>erase<br>actor |  
+| bip_39_word_new_br_2 | exotic<br>meat |  
+| bip_39_word_new_br_3 | exotic<br>meat<br>surge |  
+| bip_39_word_new_br_4 | exotic<br>meat<br>surge<br>twice |  
+| bip_39_word_new_br_5 | exotic<br>meat<br>surge<br>twice<br>change |  
+| bip_39_word_new_br_6 | exotic<br>meat<br>surge<br>twice<br>change<br>accident |  
+| bip_39_word_new_br_7 | exotic<br>meat<br>surge<br>twice<br>change<br>accident<br>salt |  
+| bip_39_word_new_br_8 | exotic<br>meat<br>surge<br>twice<br>change<br>accident<br>salt<br>clean |  
+| bip_39_word_new_br_9 | exotic<br>meat<br>surge<br>twice<br>change<br>accident<br>salt<br>clean<br>inherit |  
+| bip_39_word_new_line_1 | exotic |  
+| bip_39_word_new_line_10 | exotic
 meat
 surge
 twice
@@ -55,7 +55,7 @@ salt
 clean
 inherit
 film |  
-| bip_39_word_new_line11 | exotic
+| bip_39_word_new_line_11 | exotic
 meat
 surge
 twice
@@ -66,7 +66,7 @@ clean
 inherit
 film
 erase |  
-| bip_39_word_new_line12 | exotic
+| bip_39_word_new_line_12 | exotic
 meat
 surge
 twice
@@ -78,34 +78,34 @@ inherit
 film
 erase
 actor |  
-| bip_39_word_new_line2 | exotic
+| bip_39_word_new_line_2 | exotic
 meat |  
-| bip_39_word_new_line3 | exotic
+| bip_39_word_new_line_3 | exotic
 meat
 surge |  
-| bip_39_word_new_line4 | exotic
+| bip_39_word_new_line_4 | exotic
 meat
 surge
 twice |  
-| bip_39_word_new_line5 | exotic
+| bip_39_word_new_line_5 | exotic
 meat
 surge
 twice
 change |  
-| bip_39_word_new_line6 | exotic
+| bip_39_word_new_line_6 | exotic
 meat
 surge
 twice
 change
 accident |  
-| bip_39_word_new_line7 | exotic
+| bip_39_word_new_line_7 | exotic
 meat
 surge
 twice
 change
 accident
 salt |  
-| bip_39_word_new_line8 | exotic
+| bip_39_word_new_line_8 | exotic
 meat
 surge
 twice
@@ -113,7 +113,7 @@ change
 accident
 salt
 clean |  
-| bip_39_word_new_line9 | exotic
+| bip_39_word_new_line_9 | exotic
 meat
 surge
 twice

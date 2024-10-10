@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wait |  
-| bip_39_word_new_br10 | wait<br>ski<br>entire<br>mixed<br>sort<br>shoot<br>bundle<br>meadow<br>random<br>sustain |  
-| bip_39_word_new_br11 | wait<br>ski<br>entire<br>mixed<br>sort<br>shoot<br>bundle<br>meadow<br>random<br>sustain<br>whip |  
-| bip_39_word_new_br12 | wait<br>ski<br>entire<br>mixed<br>sort<br>shoot<br>bundle<br>meadow<br>random<br>sustain<br>whip<br>autumn |  
-| bip_39_word_new_br2 | wait<br>ski |  
-| bip_39_word_new_br3 | wait<br>ski<br>entire |  
-| bip_39_word_new_br4 | wait<br>ski<br>entire<br>mixed |  
-| bip_39_word_new_br5 | wait<br>ski<br>entire<br>mixed<br>sort |  
-| bip_39_word_new_br6 | wait<br>ski<br>entire<br>mixed<br>sort<br>shoot |  
-| bip_39_word_new_br7 | wait<br>ski<br>entire<br>mixed<br>sort<br>shoot<br>bundle |  
-| bip_39_word_new_br8 | wait<br>ski<br>entire<br>mixed<br>sort<br>shoot<br>bundle<br>meadow |  
-| bip_39_word_new_br9 | wait<br>ski<br>entire<br>mixed<br>sort<br>shoot<br>bundle<br>meadow<br>random |  
-| bip_39_word_new_line1 | wait |  
-| bip_39_word_new_line10 | wait
+| bip_39_word_new_br_1 | wait |  
+| bip_39_word_new_br_10 | wait<br>ski<br>entire<br>mixed<br>sort<br>shoot<br>bundle<br>meadow<br>random<br>sustain |  
+| bip_39_word_new_br_11 | wait<br>ski<br>entire<br>mixed<br>sort<br>shoot<br>bundle<br>meadow<br>random<br>sustain<br>whip |  
+| bip_39_word_new_br_12 | wait<br>ski<br>entire<br>mixed<br>sort<br>shoot<br>bundle<br>meadow<br>random<br>sustain<br>whip<br>autumn |  
+| bip_39_word_new_br_2 | wait<br>ski |  
+| bip_39_word_new_br_3 | wait<br>ski<br>entire |  
+| bip_39_word_new_br_4 | wait<br>ski<br>entire<br>mixed |  
+| bip_39_word_new_br_5 | wait<br>ski<br>entire<br>mixed<br>sort |  
+| bip_39_word_new_br_6 | wait<br>ski<br>entire<br>mixed<br>sort<br>shoot |  
+| bip_39_word_new_br_7 | wait<br>ski<br>entire<br>mixed<br>sort<br>shoot<br>bundle |  
+| bip_39_word_new_br_8 | wait<br>ski<br>entire<br>mixed<br>sort<br>shoot<br>bundle<br>meadow |  
+| bip_39_word_new_br_9 | wait<br>ski<br>entire<br>mixed<br>sort<br>shoot<br>bundle<br>meadow<br>random |  
+| bip_39_word_new_line_1 | wait |  
+| bip_39_word_new_line_10 | wait
 ski
 entire
 mixed
@@ -55,7 +55,7 @@ bundle
 meadow
 random
 sustain |  
-| bip_39_word_new_line11 | wait
+| bip_39_word_new_line_11 | wait
 ski
 entire
 mixed
@@ -66,7 +66,7 @@ meadow
 random
 sustain
 whip |  
-| bip_39_word_new_line12 | wait
+| bip_39_word_new_line_12 | wait
 ski
 entire
 mixed
@@ -78,34 +78,34 @@ random
 sustain
 whip
 autumn |  
-| bip_39_word_new_line2 | wait
+| bip_39_word_new_line_2 | wait
 ski |  
-| bip_39_word_new_line3 | wait
+| bip_39_word_new_line_3 | wait
 ski
 entire |  
-| bip_39_word_new_line4 | wait
+| bip_39_word_new_line_4 | wait
 ski
 entire
 mixed |  
-| bip_39_word_new_line5 | wait
+| bip_39_word_new_line_5 | wait
 ski
 entire
 mixed
 sort |  
-| bip_39_word_new_line6 | wait
+| bip_39_word_new_line_6 | wait
 ski
 entire
 mixed
 sort
 shoot |  
-| bip_39_word_new_line7 | wait
+| bip_39_word_new_line_7 | wait
 ski
 entire
 mixed
 sort
 shoot
 bundle |  
-| bip_39_word_new_line8 | wait
+| bip_39_word_new_line_8 | wait
 ski
 entire
 mixed
@@ -113,7 +113,7 @@ sort
 shoot
 bundle
 meadow |  
-| bip_39_word_new_line9 | wait
+| bip_39_word_new_line_9 | wait
 ski
 entire
 mixed

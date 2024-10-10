@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | limit |  
-| bip_39_word_new_br10 | limit<br>dismiss<br>typical<br>require<br>pepper<br>derive<br>wrong<br>marble<br>wood<br>range |  
-| bip_39_word_new_br11 | limit<br>dismiss<br>typical<br>require<br>pepper<br>derive<br>wrong<br>marble<br>wood<br>range<br>begin |  
-| bip_39_word_new_br12 | limit<br>dismiss<br>typical<br>require<br>pepper<br>derive<br>wrong<br>marble<br>wood<br>range<br>begin<br>amount |  
-| bip_39_word_new_br2 | limit<br>dismiss |  
-| bip_39_word_new_br3 | limit<br>dismiss<br>typical |  
-| bip_39_word_new_br4 | limit<br>dismiss<br>typical<br>require |  
-| bip_39_word_new_br5 | limit<br>dismiss<br>typical<br>require<br>pepper |  
-| bip_39_word_new_br6 | limit<br>dismiss<br>typical<br>require<br>pepper<br>derive |  
-| bip_39_word_new_br7 | limit<br>dismiss<br>typical<br>require<br>pepper<br>derive<br>wrong |  
-| bip_39_word_new_br8 | limit<br>dismiss<br>typical<br>require<br>pepper<br>derive<br>wrong<br>marble |  
-| bip_39_word_new_br9 | limit<br>dismiss<br>typical<br>require<br>pepper<br>derive<br>wrong<br>marble<br>wood |  
-| bip_39_word_new_line1 | limit |  
-| bip_39_word_new_line10 | limit
+| bip_39_word_new_br_1 | limit |  
+| bip_39_word_new_br_10 | limit<br>dismiss<br>typical<br>require<br>pepper<br>derive<br>wrong<br>marble<br>wood<br>range |  
+| bip_39_word_new_br_11 | limit<br>dismiss<br>typical<br>require<br>pepper<br>derive<br>wrong<br>marble<br>wood<br>range<br>begin |  
+| bip_39_word_new_br_12 | limit<br>dismiss<br>typical<br>require<br>pepper<br>derive<br>wrong<br>marble<br>wood<br>range<br>begin<br>amount |  
+| bip_39_word_new_br_2 | limit<br>dismiss |  
+| bip_39_word_new_br_3 | limit<br>dismiss<br>typical |  
+| bip_39_word_new_br_4 | limit<br>dismiss<br>typical<br>require |  
+| bip_39_word_new_br_5 | limit<br>dismiss<br>typical<br>require<br>pepper |  
+| bip_39_word_new_br_6 | limit<br>dismiss<br>typical<br>require<br>pepper<br>derive |  
+| bip_39_word_new_br_7 | limit<br>dismiss<br>typical<br>require<br>pepper<br>derive<br>wrong |  
+| bip_39_word_new_br_8 | limit<br>dismiss<br>typical<br>require<br>pepper<br>derive<br>wrong<br>marble |  
+| bip_39_word_new_br_9 | limit<br>dismiss<br>typical<br>require<br>pepper<br>derive<br>wrong<br>marble<br>wood |  
+| bip_39_word_new_line_1 | limit |  
+| bip_39_word_new_line_10 | limit
 dismiss
 typical
 require
@@ -55,7 +55,7 @@ wrong
 marble
 wood
 range |  
-| bip_39_word_new_line11 | limit
+| bip_39_word_new_line_11 | limit
 dismiss
 typical
 require
@@ -66,7 +66,7 @@ marble
 wood
 range
 begin |  
-| bip_39_word_new_line12 | limit
+| bip_39_word_new_line_12 | limit
 dismiss
 typical
 require
@@ -78,34 +78,34 @@ wood
 range
 begin
 amount |  
-| bip_39_word_new_line2 | limit
+| bip_39_word_new_line_2 | limit
 dismiss |  
-| bip_39_word_new_line3 | limit
+| bip_39_word_new_line_3 | limit
 dismiss
 typical |  
-| bip_39_word_new_line4 | limit
+| bip_39_word_new_line_4 | limit
 dismiss
 typical
 require |  
-| bip_39_word_new_line5 | limit
+| bip_39_word_new_line_5 | limit
 dismiss
 typical
 require
 pepper |  
-| bip_39_word_new_line6 | limit
+| bip_39_word_new_line_6 | limit
 dismiss
 typical
 require
 pepper
 derive |  
-| bip_39_word_new_line7 | limit
+| bip_39_word_new_line_7 | limit
 dismiss
 typical
 require
 pepper
 derive
 wrong |  
-| bip_39_word_new_line8 | limit
+| bip_39_word_new_line_8 | limit
 dismiss
 typical
 require
@@ -113,7 +113,7 @@ pepper
 derive
 wrong
 marble |  
-| bip_39_word_new_line9 | limit
+| bip_39_word_new_line_9 | limit
 dismiss
 typical
 require

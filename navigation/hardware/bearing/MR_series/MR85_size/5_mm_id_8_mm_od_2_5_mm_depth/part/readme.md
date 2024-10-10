@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | skill |  
-| bip_39_word_new_br10 | skill<br>bench<br>gasp<br>boat<br>since<br>order<br>icon<br>multiply<br>caution<br>erode |  
-| bip_39_word_new_br11 | skill<br>bench<br>gasp<br>boat<br>since<br>order<br>icon<br>multiply<br>caution<br>erode<br>dream |  
-| bip_39_word_new_br12 | skill<br>bench<br>gasp<br>boat<br>since<br>order<br>icon<br>multiply<br>caution<br>erode<br>dream<br>anxiety |  
-| bip_39_word_new_br2 | skill<br>bench |  
-| bip_39_word_new_br3 | skill<br>bench<br>gasp |  
-| bip_39_word_new_br4 | skill<br>bench<br>gasp<br>boat |  
-| bip_39_word_new_br5 | skill<br>bench<br>gasp<br>boat<br>since |  
-| bip_39_word_new_br6 | skill<br>bench<br>gasp<br>boat<br>since<br>order |  
-| bip_39_word_new_br7 | skill<br>bench<br>gasp<br>boat<br>since<br>order<br>icon |  
-| bip_39_word_new_br8 | skill<br>bench<br>gasp<br>boat<br>since<br>order<br>icon<br>multiply |  
-| bip_39_word_new_br9 | skill<br>bench<br>gasp<br>boat<br>since<br>order<br>icon<br>multiply<br>caution |  
-| bip_39_word_new_line1 | skill |  
-| bip_39_word_new_line10 | skill
+| bip_39_word_new_br_1 | skill |  
+| bip_39_word_new_br_10 | skill<br>bench<br>gasp<br>boat<br>since<br>order<br>icon<br>multiply<br>caution<br>erode |  
+| bip_39_word_new_br_11 | skill<br>bench<br>gasp<br>boat<br>since<br>order<br>icon<br>multiply<br>caution<br>erode<br>dream |  
+| bip_39_word_new_br_12 | skill<br>bench<br>gasp<br>boat<br>since<br>order<br>icon<br>multiply<br>caution<br>erode<br>dream<br>anxiety |  
+| bip_39_word_new_br_2 | skill<br>bench |  
+| bip_39_word_new_br_3 | skill<br>bench<br>gasp |  
+| bip_39_word_new_br_4 | skill<br>bench<br>gasp<br>boat |  
+| bip_39_word_new_br_5 | skill<br>bench<br>gasp<br>boat<br>since |  
+| bip_39_word_new_br_6 | skill<br>bench<br>gasp<br>boat<br>since<br>order |  
+| bip_39_word_new_br_7 | skill<br>bench<br>gasp<br>boat<br>since<br>order<br>icon |  
+| bip_39_word_new_br_8 | skill<br>bench<br>gasp<br>boat<br>since<br>order<br>icon<br>multiply |  
+| bip_39_word_new_br_9 | skill<br>bench<br>gasp<br>boat<br>since<br>order<br>icon<br>multiply<br>caution |  
+| bip_39_word_new_line_1 | skill |  
+| bip_39_word_new_line_10 | skill
 bench
 gasp
 boat
@@ -55,7 +55,7 @@ icon
 multiply
 caution
 erode |  
-| bip_39_word_new_line11 | skill
+| bip_39_word_new_line_11 | skill
 bench
 gasp
 boat
@@ -66,7 +66,7 @@ multiply
 caution
 erode
 dream |  
-| bip_39_word_new_line12 | skill
+| bip_39_word_new_line_12 | skill
 bench
 gasp
 boat
@@ -78,34 +78,34 @@ caution
 erode
 dream
 anxiety |  
-| bip_39_word_new_line2 | skill
+| bip_39_word_new_line_2 | skill
 bench |  
-| bip_39_word_new_line3 | skill
+| bip_39_word_new_line_3 | skill
 bench
 gasp |  
-| bip_39_word_new_line4 | skill
+| bip_39_word_new_line_4 | skill
 bench
 gasp
 boat |  
-| bip_39_word_new_line5 | skill
+| bip_39_word_new_line_5 | skill
 bench
 gasp
 boat
 since |  
-| bip_39_word_new_line6 | skill
+| bip_39_word_new_line_6 | skill
 bench
 gasp
 boat
 since
 order |  
-| bip_39_word_new_line7 | skill
+| bip_39_word_new_line_7 | skill
 bench
 gasp
 boat
 since
 order
 icon |  
-| bip_39_word_new_line8 | skill
+| bip_39_word_new_line_8 | skill
 bench
 gasp
 boat
@@ -113,7 +113,7 @@ since
 order
 icon
 multiply |  
-| bip_39_word_new_line9 | skill
+| bip_39_word_new_line_9 | skill
 bench
 gasp
 boat

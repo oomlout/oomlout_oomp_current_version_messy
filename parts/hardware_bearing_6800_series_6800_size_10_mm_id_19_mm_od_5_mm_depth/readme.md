@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | only |  
-| bip_39_word_new_br10 | only<br>focus<br>donate<br>reflect<br>bubble<br>outdoor<br>mesh<br>reunion<br>title<br>mimic |  
-| bip_39_word_new_br11 | only<br>focus<br>donate<br>reflect<br>bubble<br>outdoor<br>mesh<br>reunion<br>title<br>mimic<br>keen |  
-| bip_39_word_new_br12 | only<br>focus<br>donate<br>reflect<br>bubble<br>outdoor<br>mesh<br>reunion<br>title<br>mimic<br>keen<br>alone |  
-| bip_39_word_new_br2 | only<br>focus |  
-| bip_39_word_new_br3 | only<br>focus<br>donate |  
-| bip_39_word_new_br4 | only<br>focus<br>donate<br>reflect |  
-| bip_39_word_new_br5 | only<br>focus<br>donate<br>reflect<br>bubble |  
-| bip_39_word_new_br6 | only<br>focus<br>donate<br>reflect<br>bubble<br>outdoor |  
-| bip_39_word_new_br7 | only<br>focus<br>donate<br>reflect<br>bubble<br>outdoor<br>mesh |  
-| bip_39_word_new_br8 | only<br>focus<br>donate<br>reflect<br>bubble<br>outdoor<br>mesh<br>reunion |  
-| bip_39_word_new_br9 | only<br>focus<br>donate<br>reflect<br>bubble<br>outdoor<br>mesh<br>reunion<br>title |  
-| bip_39_word_new_line1 | only |  
-| bip_39_word_new_line10 | only
+| bip_39_word_new_br_1 | only |  
+| bip_39_word_new_br_10 | only<br>focus<br>donate<br>reflect<br>bubble<br>outdoor<br>mesh<br>reunion<br>title<br>mimic |  
+| bip_39_word_new_br_11 | only<br>focus<br>donate<br>reflect<br>bubble<br>outdoor<br>mesh<br>reunion<br>title<br>mimic<br>keen |  
+| bip_39_word_new_br_12 | only<br>focus<br>donate<br>reflect<br>bubble<br>outdoor<br>mesh<br>reunion<br>title<br>mimic<br>keen<br>alone |  
+| bip_39_word_new_br_2 | only<br>focus |  
+| bip_39_word_new_br_3 | only<br>focus<br>donate |  
+| bip_39_word_new_br_4 | only<br>focus<br>donate<br>reflect |  
+| bip_39_word_new_br_5 | only<br>focus<br>donate<br>reflect<br>bubble |  
+| bip_39_word_new_br_6 | only<br>focus<br>donate<br>reflect<br>bubble<br>outdoor |  
+| bip_39_word_new_br_7 | only<br>focus<br>donate<br>reflect<br>bubble<br>outdoor<br>mesh |  
+| bip_39_word_new_br_8 | only<br>focus<br>donate<br>reflect<br>bubble<br>outdoor<br>mesh<br>reunion |  
+| bip_39_word_new_br_9 | only<br>focus<br>donate<br>reflect<br>bubble<br>outdoor<br>mesh<br>reunion<br>title |  
+| bip_39_word_new_line_1 | only |  
+| bip_39_word_new_line_10 | only
 focus
 donate
 reflect
@@ -55,7 +55,7 @@ mesh
 reunion
 title
 mimic |  
-| bip_39_word_new_line11 | only
+| bip_39_word_new_line_11 | only
 focus
 donate
 reflect
@@ -66,7 +66,7 @@ reunion
 title
 mimic
 keen |  
-| bip_39_word_new_line12 | only
+| bip_39_word_new_line_12 | only
 focus
 donate
 reflect
@@ -78,34 +78,34 @@ title
 mimic
 keen
 alone |  
-| bip_39_word_new_line2 | only
+| bip_39_word_new_line_2 | only
 focus |  
-| bip_39_word_new_line3 | only
+| bip_39_word_new_line_3 | only
 focus
 donate |  
-| bip_39_word_new_line4 | only
+| bip_39_word_new_line_4 | only
 focus
 donate
 reflect |  
-| bip_39_word_new_line5 | only
+| bip_39_word_new_line_5 | only
 focus
 donate
 reflect
 bubble |  
-| bip_39_word_new_line6 | only
+| bip_39_word_new_line_6 | only
 focus
 donate
 reflect
 bubble
 outdoor |  
-| bip_39_word_new_line7 | only
+| bip_39_word_new_line_7 | only
 focus
 donate
 reflect
 bubble
 outdoor
 mesh |  
-| bip_39_word_new_line8 | only
+| bip_39_word_new_line_8 | only
 focus
 donate
 reflect
@@ -113,7 +113,7 @@ bubble
 outdoor
 mesh
 reunion |  
-| bip_39_word_new_line9 | only
+| bip_39_word_new_line_9 | only
 focus
 donate
 reflect

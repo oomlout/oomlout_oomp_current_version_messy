@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | brisk |  
-| bip_39_word_new_br10 | brisk<br>exist<br>winter<br>area<br>happy<br>erode<br>protect<br>sea<br>wrestle<br>purpose |  
-| bip_39_word_new_br11 | brisk<br>exist<br>winter<br>area<br>happy<br>erode<br>protect<br>sea<br>wrestle<br>purpose<br>learn |  
-| bip_39_word_new_br12 | brisk<br>exist<br>winter<br>area<br>happy<br>erode<br>protect<br>sea<br>wrestle<br>purpose<br>learn<br>acid |  
-| bip_39_word_new_br2 | brisk<br>exist |  
-| bip_39_word_new_br3 | brisk<br>exist<br>winter |  
-| bip_39_word_new_br4 | brisk<br>exist<br>winter<br>area |  
-| bip_39_word_new_br5 | brisk<br>exist<br>winter<br>area<br>happy |  
-| bip_39_word_new_br6 | brisk<br>exist<br>winter<br>area<br>happy<br>erode |  
-| bip_39_word_new_br7 | brisk<br>exist<br>winter<br>area<br>happy<br>erode<br>protect |  
-| bip_39_word_new_br8 | brisk<br>exist<br>winter<br>area<br>happy<br>erode<br>protect<br>sea |  
-| bip_39_word_new_br9 | brisk<br>exist<br>winter<br>area<br>happy<br>erode<br>protect<br>sea<br>wrestle |  
-| bip_39_word_new_line1 | brisk |  
-| bip_39_word_new_line10 | brisk
+| bip_39_word_new_br_1 | brisk |  
+| bip_39_word_new_br_10 | brisk<br>exist<br>winter<br>area<br>happy<br>erode<br>protect<br>sea<br>wrestle<br>purpose |  
+| bip_39_word_new_br_11 | brisk<br>exist<br>winter<br>area<br>happy<br>erode<br>protect<br>sea<br>wrestle<br>purpose<br>learn |  
+| bip_39_word_new_br_12 | brisk<br>exist<br>winter<br>area<br>happy<br>erode<br>protect<br>sea<br>wrestle<br>purpose<br>learn<br>acid |  
+| bip_39_word_new_br_2 | brisk<br>exist |  
+| bip_39_word_new_br_3 | brisk<br>exist<br>winter |  
+| bip_39_word_new_br_4 | brisk<br>exist<br>winter<br>area |  
+| bip_39_word_new_br_5 | brisk<br>exist<br>winter<br>area<br>happy |  
+| bip_39_word_new_br_6 | brisk<br>exist<br>winter<br>area<br>happy<br>erode |  
+| bip_39_word_new_br_7 | brisk<br>exist<br>winter<br>area<br>happy<br>erode<br>protect |  
+| bip_39_word_new_br_8 | brisk<br>exist<br>winter<br>area<br>happy<br>erode<br>protect<br>sea |  
+| bip_39_word_new_br_9 | brisk<br>exist<br>winter<br>area<br>happy<br>erode<br>protect<br>sea<br>wrestle |  
+| bip_39_word_new_line_1 | brisk |  
+| bip_39_word_new_line_10 | brisk
 exist
 winter
 area
@@ -55,7 +55,7 @@ protect
 sea
 wrestle
 purpose |  
-| bip_39_word_new_line11 | brisk
+| bip_39_word_new_line_11 | brisk
 exist
 winter
 area
@@ -66,7 +66,7 @@ sea
 wrestle
 purpose
 learn |  
-| bip_39_word_new_line12 | brisk
+| bip_39_word_new_line_12 | brisk
 exist
 winter
 area
@@ -78,34 +78,34 @@ wrestle
 purpose
 learn
 acid |  
-| bip_39_word_new_line2 | brisk
+| bip_39_word_new_line_2 | brisk
 exist |  
-| bip_39_word_new_line3 | brisk
+| bip_39_word_new_line_3 | brisk
 exist
 winter |  
-| bip_39_word_new_line4 | brisk
+| bip_39_word_new_line_4 | brisk
 exist
 winter
 area |  
-| bip_39_word_new_line5 | brisk
+| bip_39_word_new_line_5 | brisk
 exist
 winter
 area
 happy |  
-| bip_39_word_new_line6 | brisk
+| bip_39_word_new_line_6 | brisk
 exist
 winter
 area
 happy
 erode |  
-| bip_39_word_new_line7 | brisk
+| bip_39_word_new_line_7 | brisk
 exist
 winter
 area
 happy
 erode
 protect |  
-| bip_39_word_new_line8 | brisk
+| bip_39_word_new_line_8 | brisk
 exist
 winter
 area
@@ -113,7 +113,7 @@ happy
 erode
 protect
 sea |  
-| bip_39_word_new_line9 | brisk
+| bip_39_word_new_line_9 | brisk
 exist
 winter
 area

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | soccer |  
-| bip_39_word_new_br10 | soccer<br>tobacco<br>monkey<br>mango<br>delay<br>tide<br>nose<br>pond<br>chicken<br>prison |  
-| bip_39_word_new_br11 | soccer<br>tobacco<br>monkey<br>mango<br>delay<br>tide<br>nose<br>pond<br>chicken<br>prison<br>want |  
-| bip_39_word_new_br12 | soccer<br>tobacco<br>monkey<br>mango<br>delay<br>tide<br>nose<br>pond<br>chicken<br>prison<br>want<br>arrest |  
-| bip_39_word_new_br2 | soccer<br>tobacco |  
-| bip_39_word_new_br3 | soccer<br>tobacco<br>monkey |  
-| bip_39_word_new_br4 | soccer<br>tobacco<br>monkey<br>mango |  
-| bip_39_word_new_br5 | soccer<br>tobacco<br>monkey<br>mango<br>delay |  
-| bip_39_word_new_br6 | soccer<br>tobacco<br>monkey<br>mango<br>delay<br>tide |  
-| bip_39_word_new_br7 | soccer<br>tobacco<br>monkey<br>mango<br>delay<br>tide<br>nose |  
-| bip_39_word_new_br8 | soccer<br>tobacco<br>monkey<br>mango<br>delay<br>tide<br>nose<br>pond |  
-| bip_39_word_new_br9 | soccer<br>tobacco<br>monkey<br>mango<br>delay<br>tide<br>nose<br>pond<br>chicken |  
-| bip_39_word_new_line1 | soccer |  
-| bip_39_word_new_line10 | soccer
+| bip_39_word_new_br_1 | soccer |  
+| bip_39_word_new_br_10 | soccer<br>tobacco<br>monkey<br>mango<br>delay<br>tide<br>nose<br>pond<br>chicken<br>prison |  
+| bip_39_word_new_br_11 | soccer<br>tobacco<br>monkey<br>mango<br>delay<br>tide<br>nose<br>pond<br>chicken<br>prison<br>want |  
+| bip_39_word_new_br_12 | soccer<br>tobacco<br>monkey<br>mango<br>delay<br>tide<br>nose<br>pond<br>chicken<br>prison<br>want<br>arrest |  
+| bip_39_word_new_br_2 | soccer<br>tobacco |  
+| bip_39_word_new_br_3 | soccer<br>tobacco<br>monkey |  
+| bip_39_word_new_br_4 | soccer<br>tobacco<br>monkey<br>mango |  
+| bip_39_word_new_br_5 | soccer<br>tobacco<br>monkey<br>mango<br>delay |  
+| bip_39_word_new_br_6 | soccer<br>tobacco<br>monkey<br>mango<br>delay<br>tide |  
+| bip_39_word_new_br_7 | soccer<br>tobacco<br>monkey<br>mango<br>delay<br>tide<br>nose |  
+| bip_39_word_new_br_8 | soccer<br>tobacco<br>monkey<br>mango<br>delay<br>tide<br>nose<br>pond |  
+| bip_39_word_new_br_9 | soccer<br>tobacco<br>monkey<br>mango<br>delay<br>tide<br>nose<br>pond<br>chicken |  
+| bip_39_word_new_line_1 | soccer |  
+| bip_39_word_new_line_10 | soccer
 tobacco
 monkey
 mango
@@ -55,7 +55,7 @@ nose
 pond
 chicken
 prison |  
-| bip_39_word_new_line11 | soccer
+| bip_39_word_new_line_11 | soccer
 tobacco
 monkey
 mango
@@ -66,7 +66,7 @@ pond
 chicken
 prison
 want |  
-| bip_39_word_new_line12 | soccer
+| bip_39_word_new_line_12 | soccer
 tobacco
 monkey
 mango
@@ -78,34 +78,34 @@ chicken
 prison
 want
 arrest |  
-| bip_39_word_new_line2 | soccer
+| bip_39_word_new_line_2 | soccer
 tobacco |  
-| bip_39_word_new_line3 | soccer
+| bip_39_word_new_line_3 | soccer
 tobacco
 monkey |  
-| bip_39_word_new_line4 | soccer
+| bip_39_word_new_line_4 | soccer
 tobacco
 monkey
 mango |  
-| bip_39_word_new_line5 | soccer
+| bip_39_word_new_line_5 | soccer
 tobacco
 monkey
 mango
 delay |  
-| bip_39_word_new_line6 | soccer
+| bip_39_word_new_line_6 | soccer
 tobacco
 monkey
 mango
 delay
 tide |  
-| bip_39_word_new_line7 | soccer
+| bip_39_word_new_line_7 | soccer
 tobacco
 monkey
 mango
 delay
 tide
 nose |  
-| bip_39_word_new_line8 | soccer
+| bip_39_word_new_line_8 | soccer
 tobacco
 monkey
 mango
@@ -113,7 +113,7 @@ delay
 tide
 nose
 pond |  
-| bip_39_word_new_line9 | soccer
+| bip_39_word_new_line_9 | soccer
 tobacco
 monkey
 mango

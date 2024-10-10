@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | plug |  
-| bip_39_word_new_br10 | plug<br>attack<br>pool<br>time<br>judge<br>aunt<br>six<br>friend<br>danger<br>upset |  
-| bip_39_word_new_br11 | plug<br>attack<br>pool<br>time<br>judge<br>aunt<br>six<br>friend<br>danger<br>upset<br>glove |  
-| bip_39_word_new_br12 | plug<br>attack<br>pool<br>time<br>judge<br>aunt<br>six<br>friend<br>danger<br>upset<br>glove<br>art |  
-| bip_39_word_new_br2 | plug<br>attack |  
-| bip_39_word_new_br3 | plug<br>attack<br>pool |  
-| bip_39_word_new_br4 | plug<br>attack<br>pool<br>time |  
-| bip_39_word_new_br5 | plug<br>attack<br>pool<br>time<br>judge |  
-| bip_39_word_new_br6 | plug<br>attack<br>pool<br>time<br>judge<br>aunt |  
-| bip_39_word_new_br7 | plug<br>attack<br>pool<br>time<br>judge<br>aunt<br>six |  
-| bip_39_word_new_br8 | plug<br>attack<br>pool<br>time<br>judge<br>aunt<br>six<br>friend |  
-| bip_39_word_new_br9 | plug<br>attack<br>pool<br>time<br>judge<br>aunt<br>six<br>friend<br>danger |  
-| bip_39_word_new_line1 | plug |  
-| bip_39_word_new_line10 | plug
+| bip_39_word_new_br_1 | plug |  
+| bip_39_word_new_br_10 | plug<br>attack<br>pool<br>time<br>judge<br>aunt<br>six<br>friend<br>danger<br>upset |  
+| bip_39_word_new_br_11 | plug<br>attack<br>pool<br>time<br>judge<br>aunt<br>six<br>friend<br>danger<br>upset<br>glove |  
+| bip_39_word_new_br_12 | plug<br>attack<br>pool<br>time<br>judge<br>aunt<br>six<br>friend<br>danger<br>upset<br>glove<br>art |  
+| bip_39_word_new_br_2 | plug<br>attack |  
+| bip_39_word_new_br_3 | plug<br>attack<br>pool |  
+| bip_39_word_new_br_4 | plug<br>attack<br>pool<br>time |  
+| bip_39_word_new_br_5 | plug<br>attack<br>pool<br>time<br>judge |  
+| bip_39_word_new_br_6 | plug<br>attack<br>pool<br>time<br>judge<br>aunt |  
+| bip_39_word_new_br_7 | plug<br>attack<br>pool<br>time<br>judge<br>aunt<br>six |  
+| bip_39_word_new_br_8 | plug<br>attack<br>pool<br>time<br>judge<br>aunt<br>six<br>friend |  
+| bip_39_word_new_br_9 | plug<br>attack<br>pool<br>time<br>judge<br>aunt<br>six<br>friend<br>danger |  
+| bip_39_word_new_line_1 | plug |  
+| bip_39_word_new_line_10 | plug
 attack
 pool
 time
@@ -55,7 +55,7 @@ six
 friend
 danger
 upset |  
-| bip_39_word_new_line11 | plug
+| bip_39_word_new_line_11 | plug
 attack
 pool
 time
@@ -66,7 +66,7 @@ friend
 danger
 upset
 glove |  
-| bip_39_word_new_line12 | plug
+| bip_39_word_new_line_12 | plug
 attack
 pool
 time
@@ -78,34 +78,34 @@ danger
 upset
 glove
 art |  
-| bip_39_word_new_line2 | plug
+| bip_39_word_new_line_2 | plug
 attack |  
-| bip_39_word_new_line3 | plug
+| bip_39_word_new_line_3 | plug
 attack
 pool |  
-| bip_39_word_new_line4 | plug
+| bip_39_word_new_line_4 | plug
 attack
 pool
 time |  
-| bip_39_word_new_line5 | plug
+| bip_39_word_new_line_5 | plug
 attack
 pool
 time
 judge |  
-| bip_39_word_new_line6 | plug
+| bip_39_word_new_line_6 | plug
 attack
 pool
 time
 judge
 aunt |  
-| bip_39_word_new_line7 | plug
+| bip_39_word_new_line_7 | plug
 attack
 pool
 time
 judge
 aunt
 six |  
-| bip_39_word_new_line8 | plug
+| bip_39_word_new_line_8 | plug
 attack
 pool
 time
@@ -113,7 +113,7 @@ judge
 aunt
 six
 friend |  
-| bip_39_word_new_line9 | plug
+| bip_39_word_new_line_9 | plug
 attack
 pool
 time

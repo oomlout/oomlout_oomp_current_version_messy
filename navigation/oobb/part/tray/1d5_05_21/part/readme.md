@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | join |  
-| bip_39_word_new_br10 | join<br>inherit<br>autumn<br>sniff<br>grass<br>tribe<br>adjust<br>tail<br>liberty<br>render |  
-| bip_39_word_new_br11 | join<br>inherit<br>autumn<br>sniff<br>grass<br>tribe<br>adjust<br>tail<br>liberty<br>render<br>nasty |  
-| bip_39_word_new_br12 | join<br>inherit<br>autumn<br>sniff<br>grass<br>tribe<br>adjust<br>tail<br>liberty<br>render<br>nasty<br>again |  
-| bip_39_word_new_br2 | join<br>inherit |  
-| bip_39_word_new_br3 | join<br>inherit<br>autumn |  
-| bip_39_word_new_br4 | join<br>inherit<br>autumn<br>sniff |  
-| bip_39_word_new_br5 | join<br>inherit<br>autumn<br>sniff<br>grass |  
-| bip_39_word_new_br6 | join<br>inherit<br>autumn<br>sniff<br>grass<br>tribe |  
-| bip_39_word_new_br7 | join<br>inherit<br>autumn<br>sniff<br>grass<br>tribe<br>adjust |  
-| bip_39_word_new_br8 | join<br>inherit<br>autumn<br>sniff<br>grass<br>tribe<br>adjust<br>tail |  
-| bip_39_word_new_br9 | join<br>inherit<br>autumn<br>sniff<br>grass<br>tribe<br>adjust<br>tail<br>liberty |  
-| bip_39_word_new_line1 | join |  
-| bip_39_word_new_line10 | join
+| bip_39_word_new_br_1 | join |  
+| bip_39_word_new_br_10 | join<br>inherit<br>autumn<br>sniff<br>grass<br>tribe<br>adjust<br>tail<br>liberty<br>render |  
+| bip_39_word_new_br_11 | join<br>inherit<br>autumn<br>sniff<br>grass<br>tribe<br>adjust<br>tail<br>liberty<br>render<br>nasty |  
+| bip_39_word_new_br_12 | join<br>inherit<br>autumn<br>sniff<br>grass<br>tribe<br>adjust<br>tail<br>liberty<br>render<br>nasty<br>again |  
+| bip_39_word_new_br_2 | join<br>inherit |  
+| bip_39_word_new_br_3 | join<br>inherit<br>autumn |  
+| bip_39_word_new_br_4 | join<br>inherit<br>autumn<br>sniff |  
+| bip_39_word_new_br_5 | join<br>inherit<br>autumn<br>sniff<br>grass |  
+| bip_39_word_new_br_6 | join<br>inherit<br>autumn<br>sniff<br>grass<br>tribe |  
+| bip_39_word_new_br_7 | join<br>inherit<br>autumn<br>sniff<br>grass<br>tribe<br>adjust |  
+| bip_39_word_new_br_8 | join<br>inherit<br>autumn<br>sniff<br>grass<br>tribe<br>adjust<br>tail |  
+| bip_39_word_new_br_9 | join<br>inherit<br>autumn<br>sniff<br>grass<br>tribe<br>adjust<br>tail<br>liberty |  
+| bip_39_word_new_line_1 | join |  
+| bip_39_word_new_line_10 | join
 inherit
 autumn
 sniff
@@ -55,7 +55,7 @@ adjust
 tail
 liberty
 render |  
-| bip_39_word_new_line11 | join
+| bip_39_word_new_line_11 | join
 inherit
 autumn
 sniff
@@ -66,7 +66,7 @@ tail
 liberty
 render
 nasty |  
-| bip_39_word_new_line12 | join
+| bip_39_word_new_line_12 | join
 inherit
 autumn
 sniff
@@ -78,34 +78,34 @@ liberty
 render
 nasty
 again |  
-| bip_39_word_new_line2 | join
+| bip_39_word_new_line_2 | join
 inherit |  
-| bip_39_word_new_line3 | join
+| bip_39_word_new_line_3 | join
 inherit
 autumn |  
-| bip_39_word_new_line4 | join
+| bip_39_word_new_line_4 | join
 inherit
 autumn
 sniff |  
-| bip_39_word_new_line5 | join
+| bip_39_word_new_line_5 | join
 inherit
 autumn
 sniff
 grass |  
-| bip_39_word_new_line6 | join
+| bip_39_word_new_line_6 | join
 inherit
 autumn
 sniff
 grass
 tribe |  
-| bip_39_word_new_line7 | join
+| bip_39_word_new_line_7 | join
 inherit
 autumn
 sniff
 grass
 tribe
 adjust |  
-| bip_39_word_new_line8 | join
+| bip_39_word_new_line_8 | join
 inherit
 autumn
 sniff
@@ -113,7 +113,7 @@ grass
 tribe
 adjust
 tail |  
-| bip_39_word_new_line9 | join
+| bip_39_word_new_line_9 | join
 inherit
 autumn
 sniff

@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rubber |  
-| bip_39_word_new_br10 | rubber<br>happy<br>miracle<br>then<br>winter<br>boy<br>egg<br>busy<br>enlist<br>jump |  
-| bip_39_word_new_br11 | rubber<br>happy<br>miracle<br>then<br>winter<br>boy<br>egg<br>busy<br>enlist<br>jump<br>advice |  
-| bip_39_word_new_br2 | rubber<br>happy |  
-| bip_39_word_new_br3 | rubber<br>happy<br>miracle |  
-| bip_39_word_new_br4 | rubber<br>happy<br>miracle<br>then |  
-| bip_39_word_new_br5 | rubber<br>happy<br>miracle<br>then<br>winter |  
-| bip_39_word_new_br6 | rubber<br>happy<br>miracle<br>then<br>winter<br>boy |  
-| bip_39_word_new_br7 | rubber<br>happy<br>miracle<br>then<br>winter<br>boy<br>egg |  
-| bip_39_word_new_br8 | rubber<br>happy<br>miracle<br>then<br>winter<br>boy<br>egg<br>busy |  
-| bip_39_word_new_br9 | rubber<br>happy<br>miracle<br>then<br>winter<br>boy<br>egg<br>busy<br>enlist |  
-| bip_39_word_new_line1 | rubber |  
-| bip_39_word_new_line10 | rubber
+| bip_39_word_new_br_1 | rubber |  
+| bip_39_word_new_br_10 | rubber<br>happy<br>miracle<br>then<br>winter<br>boy<br>egg<br>busy<br>enlist<br>jump |  
+| bip_39_word_new_br_11 | rubber<br>happy<br>miracle<br>then<br>winter<br>boy<br>egg<br>busy<br>enlist<br>jump<br>advice |  
+| bip_39_word_new_br_2 | rubber<br>happy |  
+| bip_39_word_new_br_3 | rubber<br>happy<br>miracle |  
+| bip_39_word_new_br_4 | rubber<br>happy<br>miracle<br>then |  
+| bip_39_word_new_br_5 | rubber<br>happy<br>miracle<br>then<br>winter |  
+| bip_39_word_new_br_6 | rubber<br>happy<br>miracle<br>then<br>winter<br>boy |  
+| bip_39_word_new_br_7 | rubber<br>happy<br>miracle<br>then<br>winter<br>boy<br>egg |  
+| bip_39_word_new_br_8 | rubber<br>happy<br>miracle<br>then<br>winter<br>boy<br>egg<br>busy |  
+| bip_39_word_new_br_9 | rubber<br>happy<br>miracle<br>then<br>winter<br>boy<br>egg<br>busy<br>enlist |  
+| bip_39_word_new_line_1 | rubber |  
+| bip_39_word_new_line_10 | rubber
 happy
 miracle
 then
@@ -54,7 +54,7 @@ egg
 busy
 enlist
 jump |  
-| bip_39_word_new_line11 | rubber
+| bip_39_word_new_line_11 | rubber
 happy
 miracle
 then
@@ -65,34 +65,34 @@ busy
 enlist
 jump
 advice |  
-| bip_39_word_new_line2 | rubber
+| bip_39_word_new_line_2 | rubber
 happy |  
-| bip_39_word_new_line3 | rubber
+| bip_39_word_new_line_3 | rubber
 happy
 miracle |  
-| bip_39_word_new_line4 | rubber
+| bip_39_word_new_line_4 | rubber
 happy
 miracle
 then |  
-| bip_39_word_new_line5 | rubber
+| bip_39_word_new_line_5 | rubber
 happy
 miracle
 then
 winter |  
-| bip_39_word_new_line6 | rubber
+| bip_39_word_new_line_6 | rubber
 happy
 miracle
 then
 winter
 boy |  
-| bip_39_word_new_line7 | rubber
+| bip_39_word_new_line_7 | rubber
 happy
 miracle
 then
 winter
 boy
 egg |  
-| bip_39_word_new_line8 | rubber
+| bip_39_word_new_line_8 | rubber
 happy
 miracle
 then
@@ -100,7 +100,7 @@ winter
 boy
 egg
 busy |  
-| bip_39_word_new_line9 | rubber
+| bip_39_word_new_line_9 | rubber
 happy
 miracle
 then

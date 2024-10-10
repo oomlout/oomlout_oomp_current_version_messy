@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | laundry |  
-| bip_39_word_new_br10 | laundry<br>rural<br>state<br>finger<br>drastic<br>turkey<br>silent<br>dirt<br>artist<br>slot |  
-| bip_39_word_new_br11 | laundry<br>rural<br>state<br>finger<br>drastic<br>turkey<br>silent<br>dirt<br>artist<br>slot<br>rather |  
-| bip_39_word_new_br12 | laundry<br>rural<br>state<br>finger<br>drastic<br>turkey<br>silent<br>dirt<br>artist<br>slot<br>rather<br>apple |  
-| bip_39_word_new_br2 | laundry<br>rural |  
-| bip_39_word_new_br3 | laundry<br>rural<br>state |  
-| bip_39_word_new_br4 | laundry<br>rural<br>state<br>finger |  
-| bip_39_word_new_br5 | laundry<br>rural<br>state<br>finger<br>drastic |  
-| bip_39_word_new_br6 | laundry<br>rural<br>state<br>finger<br>drastic<br>turkey |  
-| bip_39_word_new_br7 | laundry<br>rural<br>state<br>finger<br>drastic<br>turkey<br>silent |  
-| bip_39_word_new_br8 | laundry<br>rural<br>state<br>finger<br>drastic<br>turkey<br>silent<br>dirt |  
-| bip_39_word_new_br9 | laundry<br>rural<br>state<br>finger<br>drastic<br>turkey<br>silent<br>dirt<br>artist |  
-| bip_39_word_new_line1 | laundry |  
-| bip_39_word_new_line10 | laundry
+| bip_39_word_new_br_1 | laundry |  
+| bip_39_word_new_br_10 | laundry<br>rural<br>state<br>finger<br>drastic<br>turkey<br>silent<br>dirt<br>artist<br>slot |  
+| bip_39_word_new_br_11 | laundry<br>rural<br>state<br>finger<br>drastic<br>turkey<br>silent<br>dirt<br>artist<br>slot<br>rather |  
+| bip_39_word_new_br_12 | laundry<br>rural<br>state<br>finger<br>drastic<br>turkey<br>silent<br>dirt<br>artist<br>slot<br>rather<br>apple |  
+| bip_39_word_new_br_2 | laundry<br>rural |  
+| bip_39_word_new_br_3 | laundry<br>rural<br>state |  
+| bip_39_word_new_br_4 | laundry<br>rural<br>state<br>finger |  
+| bip_39_word_new_br_5 | laundry<br>rural<br>state<br>finger<br>drastic |  
+| bip_39_word_new_br_6 | laundry<br>rural<br>state<br>finger<br>drastic<br>turkey |  
+| bip_39_word_new_br_7 | laundry<br>rural<br>state<br>finger<br>drastic<br>turkey<br>silent |  
+| bip_39_word_new_br_8 | laundry<br>rural<br>state<br>finger<br>drastic<br>turkey<br>silent<br>dirt |  
+| bip_39_word_new_br_9 | laundry<br>rural<br>state<br>finger<br>drastic<br>turkey<br>silent<br>dirt<br>artist |  
+| bip_39_word_new_line_1 | laundry |  
+| bip_39_word_new_line_10 | laundry
 rural
 state
 finger
@@ -55,7 +55,7 @@ silent
 dirt
 artist
 slot |  
-| bip_39_word_new_line11 | laundry
+| bip_39_word_new_line_11 | laundry
 rural
 state
 finger
@@ -66,7 +66,7 @@ dirt
 artist
 slot
 rather |  
-| bip_39_word_new_line12 | laundry
+| bip_39_word_new_line_12 | laundry
 rural
 state
 finger
@@ -78,34 +78,34 @@ artist
 slot
 rather
 apple |  
-| bip_39_word_new_line2 | laundry
+| bip_39_word_new_line_2 | laundry
 rural |  
-| bip_39_word_new_line3 | laundry
+| bip_39_word_new_line_3 | laundry
 rural
 state |  
-| bip_39_word_new_line4 | laundry
+| bip_39_word_new_line_4 | laundry
 rural
 state
 finger |  
-| bip_39_word_new_line5 | laundry
+| bip_39_word_new_line_5 | laundry
 rural
 state
 finger
 drastic |  
-| bip_39_word_new_line6 | laundry
+| bip_39_word_new_line_6 | laundry
 rural
 state
 finger
 drastic
 turkey |  
-| bip_39_word_new_line7 | laundry
+| bip_39_word_new_line_7 | laundry
 rural
 state
 finger
 drastic
 turkey
 silent |  
-| bip_39_word_new_line8 | laundry
+| bip_39_word_new_line_8 | laundry
 rural
 state
 finger
@@ -113,7 +113,7 @@ drastic
 turkey
 silent
 dirt |  
-| bip_39_word_new_line9 | laundry
+| bip_39_word_new_line_9 | laundry
 rural
 state
 finger

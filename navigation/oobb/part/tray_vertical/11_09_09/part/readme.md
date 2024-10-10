@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | exile |  
-| bip_39_word_new_br10 | exile<br>dust<br>eager<br>start<br>illegal<br>round<br>reopen<br>rely<br>space<br>midnight |  
-| bip_39_word_new_br11 | exile<br>dust<br>eager<br>start<br>illegal<br>round<br>reopen<br>rely<br>space<br>midnight<br>vehicle |  
-| bip_39_word_new_br12 | exile<br>dust<br>eager<br>start<br>illegal<br>round<br>reopen<br>rely<br>space<br>midnight<br>vehicle<br>absent |  
-| bip_39_word_new_br2 | exile<br>dust |  
-| bip_39_word_new_br3 | exile<br>dust<br>eager |  
-| bip_39_word_new_br4 | exile<br>dust<br>eager<br>start |  
-| bip_39_word_new_br5 | exile<br>dust<br>eager<br>start<br>illegal |  
-| bip_39_word_new_br6 | exile<br>dust<br>eager<br>start<br>illegal<br>round |  
-| bip_39_word_new_br7 | exile<br>dust<br>eager<br>start<br>illegal<br>round<br>reopen |  
-| bip_39_word_new_br8 | exile<br>dust<br>eager<br>start<br>illegal<br>round<br>reopen<br>rely |  
-| bip_39_word_new_br9 | exile<br>dust<br>eager<br>start<br>illegal<br>round<br>reopen<br>rely<br>space |  
-| bip_39_word_new_line1 | exile |  
-| bip_39_word_new_line10 | exile
+| bip_39_word_new_br_1 | exile |  
+| bip_39_word_new_br_10 | exile<br>dust<br>eager<br>start<br>illegal<br>round<br>reopen<br>rely<br>space<br>midnight |  
+| bip_39_word_new_br_11 | exile<br>dust<br>eager<br>start<br>illegal<br>round<br>reopen<br>rely<br>space<br>midnight<br>vehicle |  
+| bip_39_word_new_br_12 | exile<br>dust<br>eager<br>start<br>illegal<br>round<br>reopen<br>rely<br>space<br>midnight<br>vehicle<br>absent |  
+| bip_39_word_new_br_2 | exile<br>dust |  
+| bip_39_word_new_br_3 | exile<br>dust<br>eager |  
+| bip_39_word_new_br_4 | exile<br>dust<br>eager<br>start |  
+| bip_39_word_new_br_5 | exile<br>dust<br>eager<br>start<br>illegal |  
+| bip_39_word_new_br_6 | exile<br>dust<br>eager<br>start<br>illegal<br>round |  
+| bip_39_word_new_br_7 | exile<br>dust<br>eager<br>start<br>illegal<br>round<br>reopen |  
+| bip_39_word_new_br_8 | exile<br>dust<br>eager<br>start<br>illegal<br>round<br>reopen<br>rely |  
+| bip_39_word_new_br_9 | exile<br>dust<br>eager<br>start<br>illegal<br>round<br>reopen<br>rely<br>space |  
+| bip_39_word_new_line_1 | exile |  
+| bip_39_word_new_line_10 | exile
 dust
 eager
 start
@@ -55,7 +55,7 @@ reopen
 rely
 space
 midnight |  
-| bip_39_word_new_line11 | exile
+| bip_39_word_new_line_11 | exile
 dust
 eager
 start
@@ -66,7 +66,7 @@ rely
 space
 midnight
 vehicle |  
-| bip_39_word_new_line12 | exile
+| bip_39_word_new_line_12 | exile
 dust
 eager
 start
@@ -78,34 +78,34 @@ space
 midnight
 vehicle
 absent |  
-| bip_39_word_new_line2 | exile
+| bip_39_word_new_line_2 | exile
 dust |  
-| bip_39_word_new_line3 | exile
+| bip_39_word_new_line_3 | exile
 dust
 eager |  
-| bip_39_word_new_line4 | exile
+| bip_39_word_new_line_4 | exile
 dust
 eager
 start |  
-| bip_39_word_new_line5 | exile
+| bip_39_word_new_line_5 | exile
 dust
 eager
 start
 illegal |  
-| bip_39_word_new_line6 | exile
+| bip_39_word_new_line_6 | exile
 dust
 eager
 start
 illegal
 round |  
-| bip_39_word_new_line7 | exile
+| bip_39_word_new_line_7 | exile
 dust
 eager
 start
 illegal
 round
 reopen |  
-| bip_39_word_new_line8 | exile
+| bip_39_word_new_line_8 | exile
 dust
 eager
 start
@@ -113,7 +113,7 @@ illegal
 round
 reopen
 rely |  
-| bip_39_word_new_line9 | exile
+| bip_39_word_new_line_9 | exile
 dust
 eager
 start

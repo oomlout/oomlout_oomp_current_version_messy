@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | turtle |  
-| bip_39_word_new_br10 | turtle<br>prefer<br>dress<br>ozone<br>park<br>coral<br>rifle<br>equal<br>small<br>faith |  
-| bip_39_word_new_br11 | turtle<br>prefer<br>dress<br>ozone<br>park<br>coral<br>rifle<br>equal<br>small<br>faith<br>install |  
-| bip_39_word_new_br12 | turtle<br>prefer<br>dress<br>ozone<br>park<br>coral<br>rifle<br>equal<br>small<br>faith<br>install<br>auction |  
-| bip_39_word_new_br2 | turtle<br>prefer |  
-| bip_39_word_new_br3 | turtle<br>prefer<br>dress |  
-| bip_39_word_new_br4 | turtle<br>prefer<br>dress<br>ozone |  
-| bip_39_word_new_br5 | turtle<br>prefer<br>dress<br>ozone<br>park |  
-| bip_39_word_new_br6 | turtle<br>prefer<br>dress<br>ozone<br>park<br>coral |  
-| bip_39_word_new_br7 | turtle<br>prefer<br>dress<br>ozone<br>park<br>coral<br>rifle |  
-| bip_39_word_new_br8 | turtle<br>prefer<br>dress<br>ozone<br>park<br>coral<br>rifle<br>equal |  
-| bip_39_word_new_br9 | turtle<br>prefer<br>dress<br>ozone<br>park<br>coral<br>rifle<br>equal<br>small |  
-| bip_39_word_new_line1 | turtle |  
-| bip_39_word_new_line10 | turtle
+| bip_39_word_new_br_1 | turtle |  
+| bip_39_word_new_br_10 | turtle<br>prefer<br>dress<br>ozone<br>park<br>coral<br>rifle<br>equal<br>small<br>faith |  
+| bip_39_word_new_br_11 | turtle<br>prefer<br>dress<br>ozone<br>park<br>coral<br>rifle<br>equal<br>small<br>faith<br>install |  
+| bip_39_word_new_br_12 | turtle<br>prefer<br>dress<br>ozone<br>park<br>coral<br>rifle<br>equal<br>small<br>faith<br>install<br>auction |  
+| bip_39_word_new_br_2 | turtle<br>prefer |  
+| bip_39_word_new_br_3 | turtle<br>prefer<br>dress |  
+| bip_39_word_new_br_4 | turtle<br>prefer<br>dress<br>ozone |  
+| bip_39_word_new_br_5 | turtle<br>prefer<br>dress<br>ozone<br>park |  
+| bip_39_word_new_br_6 | turtle<br>prefer<br>dress<br>ozone<br>park<br>coral |  
+| bip_39_word_new_br_7 | turtle<br>prefer<br>dress<br>ozone<br>park<br>coral<br>rifle |  
+| bip_39_word_new_br_8 | turtle<br>prefer<br>dress<br>ozone<br>park<br>coral<br>rifle<br>equal |  
+| bip_39_word_new_br_9 | turtle<br>prefer<br>dress<br>ozone<br>park<br>coral<br>rifle<br>equal<br>small |  
+| bip_39_word_new_line_1 | turtle |  
+| bip_39_word_new_line_10 | turtle
 prefer
 dress
 ozone
@@ -55,7 +55,7 @@ rifle
 equal
 small
 faith |  
-| bip_39_word_new_line11 | turtle
+| bip_39_word_new_line_11 | turtle
 prefer
 dress
 ozone
@@ -66,7 +66,7 @@ equal
 small
 faith
 install |  
-| bip_39_word_new_line12 | turtle
+| bip_39_word_new_line_12 | turtle
 prefer
 dress
 ozone
@@ -78,34 +78,34 @@ small
 faith
 install
 auction |  
-| bip_39_word_new_line2 | turtle
+| bip_39_word_new_line_2 | turtle
 prefer |  
-| bip_39_word_new_line3 | turtle
+| bip_39_word_new_line_3 | turtle
 prefer
 dress |  
-| bip_39_word_new_line4 | turtle
+| bip_39_word_new_line_4 | turtle
 prefer
 dress
 ozone |  
-| bip_39_word_new_line5 | turtle
+| bip_39_word_new_line_5 | turtle
 prefer
 dress
 ozone
 park |  
-| bip_39_word_new_line6 | turtle
+| bip_39_word_new_line_6 | turtle
 prefer
 dress
 ozone
 park
 coral |  
-| bip_39_word_new_line7 | turtle
+| bip_39_word_new_line_7 | turtle
 prefer
 dress
 ozone
 park
 coral
 rifle |  
-| bip_39_word_new_line8 | turtle
+| bip_39_word_new_line_8 | turtle
 prefer
 dress
 ozone
@@ -113,7 +113,7 @@ park
 coral
 rifle
 equal |  
-| bip_39_word_new_line9 | turtle
+| bip_39_word_new_line_9 | turtle
 prefer
 dress
 ozone

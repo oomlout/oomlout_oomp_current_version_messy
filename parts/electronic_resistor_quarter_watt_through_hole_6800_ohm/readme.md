@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | puzzle |  
-| bip_39_word_new_br10 | puzzle<br>frozen<br>interest<br>update<br>glove<br>ivory<br>unfold<br>fortune<br>midnight<br>person |  
-| bip_39_word_new_br11 | puzzle<br>frozen<br>interest<br>update<br>glove<br>ivory<br>unfold<br>fortune<br>midnight<br>person<br>peanut |  
-| bip_39_word_new_br12 | puzzle<br>frozen<br>interest<br>update<br>glove<br>ivory<br>unfold<br>fortune<br>midnight<br>person<br>peanut<br>anxiety |  
-| bip_39_word_new_br2 | puzzle<br>frozen |  
-| bip_39_word_new_br3 | puzzle<br>frozen<br>interest |  
-| bip_39_word_new_br4 | puzzle<br>frozen<br>interest<br>update |  
-| bip_39_word_new_br5 | puzzle<br>frozen<br>interest<br>update<br>glove |  
-| bip_39_word_new_br6 | puzzle<br>frozen<br>interest<br>update<br>glove<br>ivory |  
-| bip_39_word_new_br7 | puzzle<br>frozen<br>interest<br>update<br>glove<br>ivory<br>unfold |  
-| bip_39_word_new_br8 | puzzle<br>frozen<br>interest<br>update<br>glove<br>ivory<br>unfold<br>fortune |  
-| bip_39_word_new_br9 | puzzle<br>frozen<br>interest<br>update<br>glove<br>ivory<br>unfold<br>fortune<br>midnight |  
-| bip_39_word_new_line1 | puzzle |  
-| bip_39_word_new_line10 | puzzle
+| bip_39_word_new_br_1 | puzzle |  
+| bip_39_word_new_br_10 | puzzle<br>frozen<br>interest<br>update<br>glove<br>ivory<br>unfold<br>fortune<br>midnight<br>person |  
+| bip_39_word_new_br_11 | puzzle<br>frozen<br>interest<br>update<br>glove<br>ivory<br>unfold<br>fortune<br>midnight<br>person<br>peanut |  
+| bip_39_word_new_br_12 | puzzle<br>frozen<br>interest<br>update<br>glove<br>ivory<br>unfold<br>fortune<br>midnight<br>person<br>peanut<br>anxiety |  
+| bip_39_word_new_br_2 | puzzle<br>frozen |  
+| bip_39_word_new_br_3 | puzzle<br>frozen<br>interest |  
+| bip_39_word_new_br_4 | puzzle<br>frozen<br>interest<br>update |  
+| bip_39_word_new_br_5 | puzzle<br>frozen<br>interest<br>update<br>glove |  
+| bip_39_word_new_br_6 | puzzle<br>frozen<br>interest<br>update<br>glove<br>ivory |  
+| bip_39_word_new_br_7 | puzzle<br>frozen<br>interest<br>update<br>glove<br>ivory<br>unfold |  
+| bip_39_word_new_br_8 | puzzle<br>frozen<br>interest<br>update<br>glove<br>ivory<br>unfold<br>fortune |  
+| bip_39_word_new_br_9 | puzzle<br>frozen<br>interest<br>update<br>glove<br>ivory<br>unfold<br>fortune<br>midnight |  
+| bip_39_word_new_line_1 | puzzle |  
+| bip_39_word_new_line_10 | puzzle
 frozen
 interest
 update
@@ -55,7 +55,7 @@ unfold
 fortune
 midnight
 person |  
-| bip_39_word_new_line11 | puzzle
+| bip_39_word_new_line_11 | puzzle
 frozen
 interest
 update
@@ -66,7 +66,7 @@ fortune
 midnight
 person
 peanut |  
-| bip_39_word_new_line12 | puzzle
+| bip_39_word_new_line_12 | puzzle
 frozen
 interest
 update
@@ -78,34 +78,34 @@ midnight
 person
 peanut
 anxiety |  
-| bip_39_word_new_line2 | puzzle
+| bip_39_word_new_line_2 | puzzle
 frozen |  
-| bip_39_word_new_line3 | puzzle
+| bip_39_word_new_line_3 | puzzle
 frozen
 interest |  
-| bip_39_word_new_line4 | puzzle
+| bip_39_word_new_line_4 | puzzle
 frozen
 interest
 update |  
-| bip_39_word_new_line5 | puzzle
+| bip_39_word_new_line_5 | puzzle
 frozen
 interest
 update
 glove |  
-| bip_39_word_new_line6 | puzzle
+| bip_39_word_new_line_6 | puzzle
 frozen
 interest
 update
 glove
 ivory |  
-| bip_39_word_new_line7 | puzzle
+| bip_39_word_new_line_7 | puzzle
 frozen
 interest
 update
 glove
 ivory
 unfold |  
-| bip_39_word_new_line8 | puzzle
+| bip_39_word_new_line_8 | puzzle
 frozen
 interest
 update
@@ -113,7 +113,7 @@ glove
 ivory
 unfold
 fortune |  
-| bip_39_word_new_line9 | puzzle
+| bip_39_word_new_line_9 | puzzle
 frozen
 interest
 update

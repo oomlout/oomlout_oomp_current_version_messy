@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | shadow |  
-| bip_39_word_new_br10 | shadow<br>lobster<br>include<br>public<br>shield<br>jealous<br>vessel<br>capital<br>parade<br>cook |  
-| bip_39_word_new_br11 | shadow<br>lobster<br>include<br>public<br>shield<br>jealous<br>vessel<br>capital<br>parade<br>cook<br>suffer |  
-| bip_39_word_new_br12 | shadow<br>lobster<br>include<br>public<br>shield<br>jealous<br>vessel<br>capital<br>parade<br>cook<br>suffer<br>amazing |  
-| bip_39_word_new_br2 | shadow<br>lobster |  
-| bip_39_word_new_br3 | shadow<br>lobster<br>include |  
-| bip_39_word_new_br4 | shadow<br>lobster<br>include<br>public |  
-| bip_39_word_new_br5 | shadow<br>lobster<br>include<br>public<br>shield |  
-| bip_39_word_new_br6 | shadow<br>lobster<br>include<br>public<br>shield<br>jealous |  
-| bip_39_word_new_br7 | shadow<br>lobster<br>include<br>public<br>shield<br>jealous<br>vessel |  
-| bip_39_word_new_br8 | shadow<br>lobster<br>include<br>public<br>shield<br>jealous<br>vessel<br>capital |  
-| bip_39_word_new_br9 | shadow<br>lobster<br>include<br>public<br>shield<br>jealous<br>vessel<br>capital<br>parade |  
-| bip_39_word_new_line1 | shadow |  
-| bip_39_word_new_line10 | shadow
+| bip_39_word_new_br_1 | shadow |  
+| bip_39_word_new_br_10 | shadow<br>lobster<br>include<br>public<br>shield<br>jealous<br>vessel<br>capital<br>parade<br>cook |  
+| bip_39_word_new_br_11 | shadow<br>lobster<br>include<br>public<br>shield<br>jealous<br>vessel<br>capital<br>parade<br>cook<br>suffer |  
+| bip_39_word_new_br_12 | shadow<br>lobster<br>include<br>public<br>shield<br>jealous<br>vessel<br>capital<br>parade<br>cook<br>suffer<br>amazing |  
+| bip_39_word_new_br_2 | shadow<br>lobster |  
+| bip_39_word_new_br_3 | shadow<br>lobster<br>include |  
+| bip_39_word_new_br_4 | shadow<br>lobster<br>include<br>public |  
+| bip_39_word_new_br_5 | shadow<br>lobster<br>include<br>public<br>shield |  
+| bip_39_word_new_br_6 | shadow<br>lobster<br>include<br>public<br>shield<br>jealous |  
+| bip_39_word_new_br_7 | shadow<br>lobster<br>include<br>public<br>shield<br>jealous<br>vessel |  
+| bip_39_word_new_br_8 | shadow<br>lobster<br>include<br>public<br>shield<br>jealous<br>vessel<br>capital |  
+| bip_39_word_new_br_9 | shadow<br>lobster<br>include<br>public<br>shield<br>jealous<br>vessel<br>capital<br>parade |  
+| bip_39_word_new_line_1 | shadow |  
+| bip_39_word_new_line_10 | shadow
 lobster
 include
 public
@@ -55,7 +55,7 @@ vessel
 capital
 parade
 cook |  
-| bip_39_word_new_line11 | shadow
+| bip_39_word_new_line_11 | shadow
 lobster
 include
 public
@@ -66,7 +66,7 @@ capital
 parade
 cook
 suffer |  
-| bip_39_word_new_line12 | shadow
+| bip_39_word_new_line_12 | shadow
 lobster
 include
 public
@@ -78,34 +78,34 @@ parade
 cook
 suffer
 amazing |  
-| bip_39_word_new_line2 | shadow
+| bip_39_word_new_line_2 | shadow
 lobster |  
-| bip_39_word_new_line3 | shadow
+| bip_39_word_new_line_3 | shadow
 lobster
 include |  
-| bip_39_word_new_line4 | shadow
+| bip_39_word_new_line_4 | shadow
 lobster
 include
 public |  
-| bip_39_word_new_line5 | shadow
+| bip_39_word_new_line_5 | shadow
 lobster
 include
 public
 shield |  
-| bip_39_word_new_line6 | shadow
+| bip_39_word_new_line_6 | shadow
 lobster
 include
 public
 shield
 jealous |  
-| bip_39_word_new_line7 | shadow
+| bip_39_word_new_line_7 | shadow
 lobster
 include
 public
 shield
 jealous
 vessel |  
-| bip_39_word_new_line8 | shadow
+| bip_39_word_new_line_8 | shadow
 lobster
 include
 public
@@ -113,7 +113,7 @@ shield
 jealous
 vessel
 capital |  
-| bip_39_word_new_line9 | shadow
+| bip_39_word_new_line_9 | shadow
 lobster
 include
 public

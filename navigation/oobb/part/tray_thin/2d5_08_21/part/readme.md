@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | visa |  
-| bip_39_word_new_br10 | visa<br>peasant<br>kind<br>wall<br>aunt<br>wing<br>impact<br>grab<br>match<br>urban |  
-| bip_39_word_new_br11 | visa<br>peasant<br>kind<br>wall<br>aunt<br>wing<br>impact<br>grab<br>match<br>urban<br>release |  
-| bip_39_word_new_br12 | visa<br>peasant<br>kind<br>wall<br>aunt<br>wing<br>impact<br>grab<br>match<br>urban<br>release<br>assume |  
-| bip_39_word_new_br2 | visa<br>peasant |  
-| bip_39_word_new_br3 | visa<br>peasant<br>kind |  
-| bip_39_word_new_br4 | visa<br>peasant<br>kind<br>wall |  
-| bip_39_word_new_br5 | visa<br>peasant<br>kind<br>wall<br>aunt |  
-| bip_39_word_new_br6 | visa<br>peasant<br>kind<br>wall<br>aunt<br>wing |  
-| bip_39_word_new_br7 | visa<br>peasant<br>kind<br>wall<br>aunt<br>wing<br>impact |  
-| bip_39_word_new_br8 | visa<br>peasant<br>kind<br>wall<br>aunt<br>wing<br>impact<br>grab |  
-| bip_39_word_new_br9 | visa<br>peasant<br>kind<br>wall<br>aunt<br>wing<br>impact<br>grab<br>match |  
-| bip_39_word_new_line1 | visa |  
-| bip_39_word_new_line10 | visa
+| bip_39_word_new_br_1 | visa |  
+| bip_39_word_new_br_10 | visa<br>peasant<br>kind<br>wall<br>aunt<br>wing<br>impact<br>grab<br>match<br>urban |  
+| bip_39_word_new_br_11 | visa<br>peasant<br>kind<br>wall<br>aunt<br>wing<br>impact<br>grab<br>match<br>urban<br>release |  
+| bip_39_word_new_br_12 | visa<br>peasant<br>kind<br>wall<br>aunt<br>wing<br>impact<br>grab<br>match<br>urban<br>release<br>assume |  
+| bip_39_word_new_br_2 | visa<br>peasant |  
+| bip_39_word_new_br_3 | visa<br>peasant<br>kind |  
+| bip_39_word_new_br_4 | visa<br>peasant<br>kind<br>wall |  
+| bip_39_word_new_br_5 | visa<br>peasant<br>kind<br>wall<br>aunt |  
+| bip_39_word_new_br_6 | visa<br>peasant<br>kind<br>wall<br>aunt<br>wing |  
+| bip_39_word_new_br_7 | visa<br>peasant<br>kind<br>wall<br>aunt<br>wing<br>impact |  
+| bip_39_word_new_br_8 | visa<br>peasant<br>kind<br>wall<br>aunt<br>wing<br>impact<br>grab |  
+| bip_39_word_new_br_9 | visa<br>peasant<br>kind<br>wall<br>aunt<br>wing<br>impact<br>grab<br>match |  
+| bip_39_word_new_line_1 | visa |  
+| bip_39_word_new_line_10 | visa
 peasant
 kind
 wall
@@ -55,7 +55,7 @@ impact
 grab
 match
 urban |  
-| bip_39_word_new_line11 | visa
+| bip_39_word_new_line_11 | visa
 peasant
 kind
 wall
@@ -66,7 +66,7 @@ grab
 match
 urban
 release |  
-| bip_39_word_new_line12 | visa
+| bip_39_word_new_line_12 | visa
 peasant
 kind
 wall
@@ -78,34 +78,34 @@ match
 urban
 release
 assume |  
-| bip_39_word_new_line2 | visa
+| bip_39_word_new_line_2 | visa
 peasant |  
-| bip_39_word_new_line3 | visa
+| bip_39_word_new_line_3 | visa
 peasant
 kind |  
-| bip_39_word_new_line4 | visa
+| bip_39_word_new_line_4 | visa
 peasant
 kind
 wall |  
-| bip_39_word_new_line5 | visa
+| bip_39_word_new_line_5 | visa
 peasant
 kind
 wall
 aunt |  
-| bip_39_word_new_line6 | visa
+| bip_39_word_new_line_6 | visa
 peasant
 kind
 wall
 aunt
 wing |  
-| bip_39_word_new_line7 | visa
+| bip_39_word_new_line_7 | visa
 peasant
 kind
 wall
 aunt
 wing
 impact |  
-| bip_39_word_new_line8 | visa
+| bip_39_word_new_line_8 | visa
 peasant
 kind
 wall
@@ -113,7 +113,7 @@ aunt
 wing
 impact
 grab |  
-| bip_39_word_new_line9 | visa
+| bip_39_word_new_line_9 | visa
 peasant
 kind
 wall

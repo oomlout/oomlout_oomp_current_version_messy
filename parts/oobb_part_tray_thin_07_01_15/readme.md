@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | devote |  
-| bip_39_word_new_br10 | devote<br>market<br>mimic<br>strike<br>desk<br>year<br>number<br>devote<br>joy<br>wink |  
-| bip_39_word_new_br11 | devote<br>market<br>mimic<br>strike<br>desk<br>year<br>number<br>devote<br>joy<br>wink<br>faith |  
-| bip_39_word_new_br12 | devote<br>market<br>mimic<br>strike<br>desk<br>year<br>number<br>devote<br>joy<br>wink<br>faith<br>announce |  
-| bip_39_word_new_br2 | devote<br>market |  
-| bip_39_word_new_br3 | devote<br>market<br>mimic |  
-| bip_39_word_new_br4 | devote<br>market<br>mimic<br>strike |  
-| bip_39_word_new_br5 | devote<br>market<br>mimic<br>strike<br>desk |  
-| bip_39_word_new_br6 | devote<br>market<br>mimic<br>strike<br>desk<br>year |  
-| bip_39_word_new_br7 | devote<br>market<br>mimic<br>strike<br>desk<br>year<br>number |  
-| bip_39_word_new_br8 | devote<br>market<br>mimic<br>strike<br>desk<br>year<br>number<br>devote |  
-| bip_39_word_new_br9 | devote<br>market<br>mimic<br>strike<br>desk<br>year<br>number<br>devote<br>joy |  
-| bip_39_word_new_line1 | devote |  
-| bip_39_word_new_line10 | devote
+| bip_39_word_new_br_1 | devote |  
+| bip_39_word_new_br_10 | devote<br>market<br>mimic<br>strike<br>desk<br>year<br>number<br>devote<br>joy<br>wink |  
+| bip_39_word_new_br_11 | devote<br>market<br>mimic<br>strike<br>desk<br>year<br>number<br>devote<br>joy<br>wink<br>faith |  
+| bip_39_word_new_br_12 | devote<br>market<br>mimic<br>strike<br>desk<br>year<br>number<br>devote<br>joy<br>wink<br>faith<br>announce |  
+| bip_39_word_new_br_2 | devote<br>market |  
+| bip_39_word_new_br_3 | devote<br>market<br>mimic |  
+| bip_39_word_new_br_4 | devote<br>market<br>mimic<br>strike |  
+| bip_39_word_new_br_5 | devote<br>market<br>mimic<br>strike<br>desk |  
+| bip_39_word_new_br_6 | devote<br>market<br>mimic<br>strike<br>desk<br>year |  
+| bip_39_word_new_br_7 | devote<br>market<br>mimic<br>strike<br>desk<br>year<br>number |  
+| bip_39_word_new_br_8 | devote<br>market<br>mimic<br>strike<br>desk<br>year<br>number<br>devote |  
+| bip_39_word_new_br_9 | devote<br>market<br>mimic<br>strike<br>desk<br>year<br>number<br>devote<br>joy |  
+| bip_39_word_new_line_1 | devote |  
+| bip_39_word_new_line_10 | devote
 market
 mimic
 strike
@@ -55,7 +55,7 @@ number
 devote
 joy
 wink |  
-| bip_39_word_new_line11 | devote
+| bip_39_word_new_line_11 | devote
 market
 mimic
 strike
@@ -66,7 +66,7 @@ devote
 joy
 wink
 faith |  
-| bip_39_word_new_line12 | devote
+| bip_39_word_new_line_12 | devote
 market
 mimic
 strike
@@ -78,34 +78,34 @@ joy
 wink
 faith
 announce |  
-| bip_39_word_new_line2 | devote
+| bip_39_word_new_line_2 | devote
 market |  
-| bip_39_word_new_line3 | devote
+| bip_39_word_new_line_3 | devote
 market
 mimic |  
-| bip_39_word_new_line4 | devote
+| bip_39_word_new_line_4 | devote
 market
 mimic
 strike |  
-| bip_39_word_new_line5 | devote
+| bip_39_word_new_line_5 | devote
 market
 mimic
 strike
 desk |  
-| bip_39_word_new_line6 | devote
+| bip_39_word_new_line_6 | devote
 market
 mimic
 strike
 desk
 year |  
-| bip_39_word_new_line7 | devote
+| bip_39_word_new_line_7 | devote
 market
 mimic
 strike
 desk
 year
 number |  
-| bip_39_word_new_line8 | devote
+| bip_39_word_new_line_8 | devote
 market
 mimic
 strike
@@ -113,7 +113,7 @@ desk
 year
 number
 devote |  
-| bip_39_word_new_line9 | devote
+| bip_39_word_new_line_9 | devote
 market
 mimic
 strike

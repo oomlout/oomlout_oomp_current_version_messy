@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | canoe |  
-| bip_39_word_new_br10 | canoe<br>gasp<br>host<br>steak<br>exit<br>fun<br>kite<br>warrior<br>salmon<br>strike |  
-| bip_39_word_new_br11 | canoe<br>gasp<br>host<br>steak<br>exit<br>fun<br>kite<br>warrior<br>salmon<br>strike<br>vanish |  
-| bip_39_word_new_br12 | canoe<br>gasp<br>host<br>steak<br>exit<br>fun<br>kite<br>warrior<br>salmon<br>strike<br>vanish<br>art |  
-| bip_39_word_new_br2 | canoe<br>gasp |  
-| bip_39_word_new_br3 | canoe<br>gasp<br>host |  
-| bip_39_word_new_br4 | canoe<br>gasp<br>host<br>steak |  
-| bip_39_word_new_br5 | canoe<br>gasp<br>host<br>steak<br>exit |  
-| bip_39_word_new_br6 | canoe<br>gasp<br>host<br>steak<br>exit<br>fun |  
-| bip_39_word_new_br7 | canoe<br>gasp<br>host<br>steak<br>exit<br>fun<br>kite |  
-| bip_39_word_new_br8 | canoe<br>gasp<br>host<br>steak<br>exit<br>fun<br>kite<br>warrior |  
-| bip_39_word_new_br9 | canoe<br>gasp<br>host<br>steak<br>exit<br>fun<br>kite<br>warrior<br>salmon |  
-| bip_39_word_new_line1 | canoe |  
-| bip_39_word_new_line10 | canoe
+| bip_39_word_new_br_1 | canoe |  
+| bip_39_word_new_br_10 | canoe<br>gasp<br>host<br>steak<br>exit<br>fun<br>kite<br>warrior<br>salmon<br>strike |  
+| bip_39_word_new_br_11 | canoe<br>gasp<br>host<br>steak<br>exit<br>fun<br>kite<br>warrior<br>salmon<br>strike<br>vanish |  
+| bip_39_word_new_br_12 | canoe<br>gasp<br>host<br>steak<br>exit<br>fun<br>kite<br>warrior<br>salmon<br>strike<br>vanish<br>art |  
+| bip_39_word_new_br_2 | canoe<br>gasp |  
+| bip_39_word_new_br_3 | canoe<br>gasp<br>host |  
+| bip_39_word_new_br_4 | canoe<br>gasp<br>host<br>steak |  
+| bip_39_word_new_br_5 | canoe<br>gasp<br>host<br>steak<br>exit |  
+| bip_39_word_new_br_6 | canoe<br>gasp<br>host<br>steak<br>exit<br>fun |  
+| bip_39_word_new_br_7 | canoe<br>gasp<br>host<br>steak<br>exit<br>fun<br>kite |  
+| bip_39_word_new_br_8 | canoe<br>gasp<br>host<br>steak<br>exit<br>fun<br>kite<br>warrior |  
+| bip_39_word_new_br_9 | canoe<br>gasp<br>host<br>steak<br>exit<br>fun<br>kite<br>warrior<br>salmon |  
+| bip_39_word_new_line_1 | canoe |  
+| bip_39_word_new_line_10 | canoe
 gasp
 host
 steak
@@ -55,7 +55,7 @@ kite
 warrior
 salmon
 strike |  
-| bip_39_word_new_line11 | canoe
+| bip_39_word_new_line_11 | canoe
 gasp
 host
 steak
@@ -66,7 +66,7 @@ warrior
 salmon
 strike
 vanish |  
-| bip_39_word_new_line12 | canoe
+| bip_39_word_new_line_12 | canoe
 gasp
 host
 steak
@@ -78,34 +78,34 @@ salmon
 strike
 vanish
 art |  
-| bip_39_word_new_line2 | canoe
+| bip_39_word_new_line_2 | canoe
 gasp |  
-| bip_39_word_new_line3 | canoe
+| bip_39_word_new_line_3 | canoe
 gasp
 host |  
-| bip_39_word_new_line4 | canoe
+| bip_39_word_new_line_4 | canoe
 gasp
 host
 steak |  
-| bip_39_word_new_line5 | canoe
+| bip_39_word_new_line_5 | canoe
 gasp
 host
 steak
 exit |  
-| bip_39_word_new_line6 | canoe
+| bip_39_word_new_line_6 | canoe
 gasp
 host
 steak
 exit
 fun |  
-| bip_39_word_new_line7 | canoe
+| bip_39_word_new_line_7 | canoe
 gasp
 host
 steak
 exit
 fun
 kite |  
-| bip_39_word_new_line8 | canoe
+| bip_39_word_new_line_8 | canoe
 gasp
 host
 steak
@@ -113,7 +113,7 @@ exit
 fun
 kite
 warrior |  
-| bip_39_word_new_line9 | canoe
+| bip_39_word_new_line_9 | canoe
 gasp
 host
 steak

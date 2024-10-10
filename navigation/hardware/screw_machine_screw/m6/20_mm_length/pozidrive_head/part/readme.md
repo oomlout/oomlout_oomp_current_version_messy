@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | say |  
-| bip_39_word_new_br10 | say<br>slender<br>scrub<br>ostrich<br>dream<br>vast<br>slam<br>pet<br>bridge<br>hen |  
-| bip_39_word_new_br11 | say<br>slender<br>scrub<br>ostrich<br>dream<br>vast<br>slam<br>pet<br>bridge<br>hen<br>script |  
-| bip_39_word_new_br12 | say<br>slender<br>scrub<br>ostrich<br>dream<br>vast<br>slam<br>pet<br>bridge<br>hen<br>script<br>address |  
-| bip_39_word_new_br2 | say<br>slender |  
-| bip_39_word_new_br3 | say<br>slender<br>scrub |  
-| bip_39_word_new_br4 | say<br>slender<br>scrub<br>ostrich |  
-| bip_39_word_new_br5 | say<br>slender<br>scrub<br>ostrich<br>dream |  
-| bip_39_word_new_br6 | say<br>slender<br>scrub<br>ostrich<br>dream<br>vast |  
-| bip_39_word_new_br7 | say<br>slender<br>scrub<br>ostrich<br>dream<br>vast<br>slam |  
-| bip_39_word_new_br8 | say<br>slender<br>scrub<br>ostrich<br>dream<br>vast<br>slam<br>pet |  
-| bip_39_word_new_br9 | say<br>slender<br>scrub<br>ostrich<br>dream<br>vast<br>slam<br>pet<br>bridge |  
-| bip_39_word_new_line1 | say |  
-| bip_39_word_new_line10 | say
+| bip_39_word_new_br_1 | say |  
+| bip_39_word_new_br_10 | say<br>slender<br>scrub<br>ostrich<br>dream<br>vast<br>slam<br>pet<br>bridge<br>hen |  
+| bip_39_word_new_br_11 | say<br>slender<br>scrub<br>ostrich<br>dream<br>vast<br>slam<br>pet<br>bridge<br>hen<br>script |  
+| bip_39_word_new_br_12 | say<br>slender<br>scrub<br>ostrich<br>dream<br>vast<br>slam<br>pet<br>bridge<br>hen<br>script<br>address |  
+| bip_39_word_new_br_2 | say<br>slender |  
+| bip_39_word_new_br_3 | say<br>slender<br>scrub |  
+| bip_39_word_new_br_4 | say<br>slender<br>scrub<br>ostrich |  
+| bip_39_word_new_br_5 | say<br>slender<br>scrub<br>ostrich<br>dream |  
+| bip_39_word_new_br_6 | say<br>slender<br>scrub<br>ostrich<br>dream<br>vast |  
+| bip_39_word_new_br_7 | say<br>slender<br>scrub<br>ostrich<br>dream<br>vast<br>slam |  
+| bip_39_word_new_br_8 | say<br>slender<br>scrub<br>ostrich<br>dream<br>vast<br>slam<br>pet |  
+| bip_39_word_new_br_9 | say<br>slender<br>scrub<br>ostrich<br>dream<br>vast<br>slam<br>pet<br>bridge |  
+| bip_39_word_new_line_1 | say |  
+| bip_39_word_new_line_10 | say
 slender
 scrub
 ostrich
@@ -55,7 +55,7 @@ slam
 pet
 bridge
 hen |  
-| bip_39_word_new_line11 | say
+| bip_39_word_new_line_11 | say
 slender
 scrub
 ostrich
@@ -66,7 +66,7 @@ pet
 bridge
 hen
 script |  
-| bip_39_word_new_line12 | say
+| bip_39_word_new_line_12 | say
 slender
 scrub
 ostrich
@@ -78,34 +78,34 @@ bridge
 hen
 script
 address |  
-| bip_39_word_new_line2 | say
+| bip_39_word_new_line_2 | say
 slender |  
-| bip_39_word_new_line3 | say
+| bip_39_word_new_line_3 | say
 slender
 scrub |  
-| bip_39_word_new_line4 | say
+| bip_39_word_new_line_4 | say
 slender
 scrub
 ostrich |  
-| bip_39_word_new_line5 | say
+| bip_39_word_new_line_5 | say
 slender
 scrub
 ostrich
 dream |  
-| bip_39_word_new_line6 | say
+| bip_39_word_new_line_6 | say
 slender
 scrub
 ostrich
 dream
 vast |  
-| bip_39_word_new_line7 | say
+| bip_39_word_new_line_7 | say
 slender
 scrub
 ostrich
 dream
 vast
 slam |  
-| bip_39_word_new_line8 | say
+| bip_39_word_new_line_8 | say
 slender
 scrub
 ostrich
@@ -113,7 +113,7 @@ dream
 vast
 slam
 pet |  
-| bip_39_word_new_line9 | say
+| bip_39_word_new_line_9 | say
 slender
 scrub
 ostrich

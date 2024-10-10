@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | prosper |  
-| bip_39_word_new_br10 | prosper<br>soul<br>window<br>wise<br>captain<br>tomato<br>street<br>record<br>unlock<br>penalty |  
-| bip_39_word_new_br11 | prosper<br>soul<br>window<br>wise<br>captain<br>tomato<br>street<br>record<br>unlock<br>penalty<br>impulse |  
-| bip_39_word_new_br12 | prosper<br>soul<br>window<br>wise<br>captain<br>tomato<br>street<br>record<br>unlock<br>penalty<br>impulse<br>april |  
-| bip_39_word_new_br2 | prosper<br>soul |  
-| bip_39_word_new_br3 | prosper<br>soul<br>window |  
-| bip_39_word_new_br4 | prosper<br>soul<br>window<br>wise |  
-| bip_39_word_new_br5 | prosper<br>soul<br>window<br>wise<br>captain |  
-| bip_39_word_new_br6 | prosper<br>soul<br>window<br>wise<br>captain<br>tomato |  
-| bip_39_word_new_br7 | prosper<br>soul<br>window<br>wise<br>captain<br>tomato<br>street |  
-| bip_39_word_new_br8 | prosper<br>soul<br>window<br>wise<br>captain<br>tomato<br>street<br>record |  
-| bip_39_word_new_br9 | prosper<br>soul<br>window<br>wise<br>captain<br>tomato<br>street<br>record<br>unlock |  
-| bip_39_word_new_line1 | prosper |  
-| bip_39_word_new_line10 | prosper
+| bip_39_word_new_br_1 | prosper |  
+| bip_39_word_new_br_10 | prosper<br>soul<br>window<br>wise<br>captain<br>tomato<br>street<br>record<br>unlock<br>penalty |  
+| bip_39_word_new_br_11 | prosper<br>soul<br>window<br>wise<br>captain<br>tomato<br>street<br>record<br>unlock<br>penalty<br>impulse |  
+| bip_39_word_new_br_12 | prosper<br>soul<br>window<br>wise<br>captain<br>tomato<br>street<br>record<br>unlock<br>penalty<br>impulse<br>april |  
+| bip_39_word_new_br_2 | prosper<br>soul |  
+| bip_39_word_new_br_3 | prosper<br>soul<br>window |  
+| bip_39_word_new_br_4 | prosper<br>soul<br>window<br>wise |  
+| bip_39_word_new_br_5 | prosper<br>soul<br>window<br>wise<br>captain |  
+| bip_39_word_new_br_6 | prosper<br>soul<br>window<br>wise<br>captain<br>tomato |  
+| bip_39_word_new_br_7 | prosper<br>soul<br>window<br>wise<br>captain<br>tomato<br>street |  
+| bip_39_word_new_br_8 | prosper<br>soul<br>window<br>wise<br>captain<br>tomato<br>street<br>record |  
+| bip_39_word_new_br_9 | prosper<br>soul<br>window<br>wise<br>captain<br>tomato<br>street<br>record<br>unlock |  
+| bip_39_word_new_line_1 | prosper |  
+| bip_39_word_new_line_10 | prosper
 soul
 window
 wise
@@ -55,7 +55,7 @@ street
 record
 unlock
 penalty |  
-| bip_39_word_new_line11 | prosper
+| bip_39_word_new_line_11 | prosper
 soul
 window
 wise
@@ -66,7 +66,7 @@ record
 unlock
 penalty
 impulse |  
-| bip_39_word_new_line12 | prosper
+| bip_39_word_new_line_12 | prosper
 soul
 window
 wise
@@ -78,34 +78,34 @@ unlock
 penalty
 impulse
 april |  
-| bip_39_word_new_line2 | prosper
+| bip_39_word_new_line_2 | prosper
 soul |  
-| bip_39_word_new_line3 | prosper
+| bip_39_word_new_line_3 | prosper
 soul
 window |  
-| bip_39_word_new_line4 | prosper
+| bip_39_word_new_line_4 | prosper
 soul
 window
 wise |  
-| bip_39_word_new_line5 | prosper
+| bip_39_word_new_line_5 | prosper
 soul
 window
 wise
 captain |  
-| bip_39_word_new_line6 | prosper
+| bip_39_word_new_line_6 | prosper
 soul
 window
 wise
 captain
 tomato |  
-| bip_39_word_new_line7 | prosper
+| bip_39_word_new_line_7 | prosper
 soul
 window
 wise
 captain
 tomato
 street |  
-| bip_39_word_new_line8 | prosper
+| bip_39_word_new_line_8 | prosper
 soul
 window
 wise
@@ -113,7 +113,7 @@ captain
 tomato
 street
 record |  
-| bip_39_word_new_line9 | prosper
+| bip_39_word_new_line_9 | prosper
 soul
 window
 wise

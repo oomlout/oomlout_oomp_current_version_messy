@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | leave |  
-| bip_39_word_new_br10 | leave<br>eternal<br>clutch<br>neck<br>mercy<br>hint<br>there<br>mesh<br>mesh<br>exact |  
-| bip_39_word_new_br11 | leave<br>eternal<br>clutch<br>neck<br>mercy<br>hint<br>there<br>mesh<br>mesh<br>exact<br>orient |  
-| bip_39_word_new_br12 | leave<br>eternal<br>clutch<br>neck<br>mercy<br>hint<br>there<br>mesh<br>mesh<br>exact<br>orient<br>adapt |  
-| bip_39_word_new_br2 | leave<br>eternal |  
-| bip_39_word_new_br3 | leave<br>eternal<br>clutch |  
-| bip_39_word_new_br4 | leave<br>eternal<br>clutch<br>neck |  
-| bip_39_word_new_br5 | leave<br>eternal<br>clutch<br>neck<br>mercy |  
-| bip_39_word_new_br6 | leave<br>eternal<br>clutch<br>neck<br>mercy<br>hint |  
-| bip_39_word_new_br7 | leave<br>eternal<br>clutch<br>neck<br>mercy<br>hint<br>there |  
-| bip_39_word_new_br8 | leave<br>eternal<br>clutch<br>neck<br>mercy<br>hint<br>there<br>mesh |  
-| bip_39_word_new_br9 | leave<br>eternal<br>clutch<br>neck<br>mercy<br>hint<br>there<br>mesh<br>mesh |  
-| bip_39_word_new_line1 | leave |  
-| bip_39_word_new_line10 | leave
+| bip_39_word_new_br_1 | leave |  
+| bip_39_word_new_br_10 | leave<br>eternal<br>clutch<br>neck<br>mercy<br>hint<br>there<br>mesh<br>mesh<br>exact |  
+| bip_39_word_new_br_11 | leave<br>eternal<br>clutch<br>neck<br>mercy<br>hint<br>there<br>mesh<br>mesh<br>exact<br>orient |  
+| bip_39_word_new_br_12 | leave<br>eternal<br>clutch<br>neck<br>mercy<br>hint<br>there<br>mesh<br>mesh<br>exact<br>orient<br>adapt |  
+| bip_39_word_new_br_2 | leave<br>eternal |  
+| bip_39_word_new_br_3 | leave<br>eternal<br>clutch |  
+| bip_39_word_new_br_4 | leave<br>eternal<br>clutch<br>neck |  
+| bip_39_word_new_br_5 | leave<br>eternal<br>clutch<br>neck<br>mercy |  
+| bip_39_word_new_br_6 | leave<br>eternal<br>clutch<br>neck<br>mercy<br>hint |  
+| bip_39_word_new_br_7 | leave<br>eternal<br>clutch<br>neck<br>mercy<br>hint<br>there |  
+| bip_39_word_new_br_8 | leave<br>eternal<br>clutch<br>neck<br>mercy<br>hint<br>there<br>mesh |  
+| bip_39_word_new_br_9 | leave<br>eternal<br>clutch<br>neck<br>mercy<br>hint<br>there<br>mesh<br>mesh |  
+| bip_39_word_new_line_1 | leave |  
+| bip_39_word_new_line_10 | leave
 eternal
 clutch
 neck
@@ -55,7 +55,7 @@ there
 mesh
 mesh
 exact |  
-| bip_39_word_new_line11 | leave
+| bip_39_word_new_line_11 | leave
 eternal
 clutch
 neck
@@ -66,7 +66,7 @@ mesh
 mesh
 exact
 orient |  
-| bip_39_word_new_line12 | leave
+| bip_39_word_new_line_12 | leave
 eternal
 clutch
 neck
@@ -78,34 +78,34 @@ mesh
 exact
 orient
 adapt |  
-| bip_39_word_new_line2 | leave
+| bip_39_word_new_line_2 | leave
 eternal |  
-| bip_39_word_new_line3 | leave
+| bip_39_word_new_line_3 | leave
 eternal
 clutch |  
-| bip_39_word_new_line4 | leave
+| bip_39_word_new_line_4 | leave
 eternal
 clutch
 neck |  
-| bip_39_word_new_line5 | leave
+| bip_39_word_new_line_5 | leave
 eternal
 clutch
 neck
 mercy |  
-| bip_39_word_new_line6 | leave
+| bip_39_word_new_line_6 | leave
 eternal
 clutch
 neck
 mercy
 hint |  
-| bip_39_word_new_line7 | leave
+| bip_39_word_new_line_7 | leave
 eternal
 clutch
 neck
 mercy
 hint
 there |  
-| bip_39_word_new_line8 | leave
+| bip_39_word_new_line_8 | leave
 eternal
 clutch
 neck
@@ -113,7 +113,7 @@ mercy
 hint
 there
 mesh |  
-| bip_39_word_new_line9 | leave
+| bip_39_word_new_line_9 | leave
 eternal
 clutch
 neck

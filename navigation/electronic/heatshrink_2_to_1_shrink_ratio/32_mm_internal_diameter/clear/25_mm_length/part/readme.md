@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | trim |  
-| bip_39_word_new_br10 | trim<br>domain<br>orphan<br>flame<br>power<br>economy<br>cook<br>glad<br>bottom<br>goat |  
-| bip_39_word_new_br11 | trim<br>domain<br>orphan<br>flame<br>power<br>economy<br>cook<br>glad<br>bottom<br>goat<br>hard |  
-| bip_39_word_new_br12 | trim<br>domain<br>orphan<br>flame<br>power<br>economy<br>cook<br>glad<br>bottom<br>goat<br>hard<br>about |  
-| bip_39_word_new_br2 | trim<br>domain |  
-| bip_39_word_new_br3 | trim<br>domain<br>orphan |  
-| bip_39_word_new_br4 | trim<br>domain<br>orphan<br>flame |  
-| bip_39_word_new_br5 | trim<br>domain<br>orphan<br>flame<br>power |  
-| bip_39_word_new_br6 | trim<br>domain<br>orphan<br>flame<br>power<br>economy |  
-| bip_39_word_new_br7 | trim<br>domain<br>orphan<br>flame<br>power<br>economy<br>cook |  
-| bip_39_word_new_br8 | trim<br>domain<br>orphan<br>flame<br>power<br>economy<br>cook<br>glad |  
-| bip_39_word_new_br9 | trim<br>domain<br>orphan<br>flame<br>power<br>economy<br>cook<br>glad<br>bottom |  
-| bip_39_word_new_line1 | trim |  
-| bip_39_word_new_line10 | trim
+| bip_39_word_new_br_1 | trim |  
+| bip_39_word_new_br_10 | trim<br>domain<br>orphan<br>flame<br>power<br>economy<br>cook<br>glad<br>bottom<br>goat |  
+| bip_39_word_new_br_11 | trim<br>domain<br>orphan<br>flame<br>power<br>economy<br>cook<br>glad<br>bottom<br>goat<br>hard |  
+| bip_39_word_new_br_12 | trim<br>domain<br>orphan<br>flame<br>power<br>economy<br>cook<br>glad<br>bottom<br>goat<br>hard<br>about |  
+| bip_39_word_new_br_2 | trim<br>domain |  
+| bip_39_word_new_br_3 | trim<br>domain<br>orphan |  
+| bip_39_word_new_br_4 | trim<br>domain<br>orphan<br>flame |  
+| bip_39_word_new_br_5 | trim<br>domain<br>orphan<br>flame<br>power |  
+| bip_39_word_new_br_6 | trim<br>domain<br>orphan<br>flame<br>power<br>economy |  
+| bip_39_word_new_br_7 | trim<br>domain<br>orphan<br>flame<br>power<br>economy<br>cook |  
+| bip_39_word_new_br_8 | trim<br>domain<br>orphan<br>flame<br>power<br>economy<br>cook<br>glad |  
+| bip_39_word_new_br_9 | trim<br>domain<br>orphan<br>flame<br>power<br>economy<br>cook<br>glad<br>bottom |  
+| bip_39_word_new_line_1 | trim |  
+| bip_39_word_new_line_10 | trim
 domain
 orphan
 flame
@@ -55,7 +55,7 @@ cook
 glad
 bottom
 goat |  
-| bip_39_word_new_line11 | trim
+| bip_39_word_new_line_11 | trim
 domain
 orphan
 flame
@@ -66,7 +66,7 @@ glad
 bottom
 goat
 hard |  
-| bip_39_word_new_line12 | trim
+| bip_39_word_new_line_12 | trim
 domain
 orphan
 flame
@@ -78,34 +78,34 @@ bottom
 goat
 hard
 about |  
-| bip_39_word_new_line2 | trim
+| bip_39_word_new_line_2 | trim
 domain |  
-| bip_39_word_new_line3 | trim
+| bip_39_word_new_line_3 | trim
 domain
 orphan |  
-| bip_39_word_new_line4 | trim
+| bip_39_word_new_line_4 | trim
 domain
 orphan
 flame |  
-| bip_39_word_new_line5 | trim
+| bip_39_word_new_line_5 | trim
 domain
 orphan
 flame
 power |  
-| bip_39_word_new_line6 | trim
+| bip_39_word_new_line_6 | trim
 domain
 orphan
 flame
 power
 economy |  
-| bip_39_word_new_line7 | trim
+| bip_39_word_new_line_7 | trim
 domain
 orphan
 flame
 power
 economy
 cook |  
-| bip_39_word_new_line8 | trim
+| bip_39_word_new_line_8 | trim
 domain
 orphan
 flame
@@ -113,7 +113,7 @@ power
 economy
 cook
 glad |  
-| bip_39_word_new_line9 | trim
+| bip_39_word_new_line_9 | trim
 domain
 orphan
 flame

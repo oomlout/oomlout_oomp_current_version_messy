@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sort |  
-| bip_39_word_new_br10 | sort<br>pledge<br>later<br>story<br>alone<br>table<br>neutral<br>staff<br>forward<br>convince |  
-| bip_39_word_new_br11 | sort<br>pledge<br>later<br>story<br>alone<br>table<br>neutral<br>staff<br>forward<br>convince<br>visual |  
-| bip_39_word_new_br12 | sort<br>pledge<br>later<br>story<br>alone<br>table<br>neutral<br>staff<br>forward<br>convince<br>visual<br>age |  
-| bip_39_word_new_br2 | sort<br>pledge |  
-| bip_39_word_new_br3 | sort<br>pledge<br>later |  
-| bip_39_word_new_br4 | sort<br>pledge<br>later<br>story |  
-| bip_39_word_new_br5 | sort<br>pledge<br>later<br>story<br>alone |  
-| bip_39_word_new_br6 | sort<br>pledge<br>later<br>story<br>alone<br>table |  
-| bip_39_word_new_br7 | sort<br>pledge<br>later<br>story<br>alone<br>table<br>neutral |  
-| bip_39_word_new_br8 | sort<br>pledge<br>later<br>story<br>alone<br>table<br>neutral<br>staff |  
-| bip_39_word_new_br9 | sort<br>pledge<br>later<br>story<br>alone<br>table<br>neutral<br>staff<br>forward |  
-| bip_39_word_new_line1 | sort |  
-| bip_39_word_new_line10 | sort
+| bip_39_word_new_br_1 | sort |  
+| bip_39_word_new_br_10 | sort<br>pledge<br>later<br>story<br>alone<br>table<br>neutral<br>staff<br>forward<br>convince |  
+| bip_39_word_new_br_11 | sort<br>pledge<br>later<br>story<br>alone<br>table<br>neutral<br>staff<br>forward<br>convince<br>visual |  
+| bip_39_word_new_br_12 | sort<br>pledge<br>later<br>story<br>alone<br>table<br>neutral<br>staff<br>forward<br>convince<br>visual<br>age |  
+| bip_39_word_new_br_2 | sort<br>pledge |  
+| bip_39_word_new_br_3 | sort<br>pledge<br>later |  
+| bip_39_word_new_br_4 | sort<br>pledge<br>later<br>story |  
+| bip_39_word_new_br_5 | sort<br>pledge<br>later<br>story<br>alone |  
+| bip_39_word_new_br_6 | sort<br>pledge<br>later<br>story<br>alone<br>table |  
+| bip_39_word_new_br_7 | sort<br>pledge<br>later<br>story<br>alone<br>table<br>neutral |  
+| bip_39_word_new_br_8 | sort<br>pledge<br>later<br>story<br>alone<br>table<br>neutral<br>staff |  
+| bip_39_word_new_br_9 | sort<br>pledge<br>later<br>story<br>alone<br>table<br>neutral<br>staff<br>forward |  
+| bip_39_word_new_line_1 | sort |  
+| bip_39_word_new_line_10 | sort
 pledge
 later
 story
@@ -55,7 +55,7 @@ neutral
 staff
 forward
 convince |  
-| bip_39_word_new_line11 | sort
+| bip_39_word_new_line_11 | sort
 pledge
 later
 story
@@ -66,7 +66,7 @@ staff
 forward
 convince
 visual |  
-| bip_39_word_new_line12 | sort
+| bip_39_word_new_line_12 | sort
 pledge
 later
 story
@@ -78,34 +78,34 @@ forward
 convince
 visual
 age |  
-| bip_39_word_new_line2 | sort
+| bip_39_word_new_line_2 | sort
 pledge |  
-| bip_39_word_new_line3 | sort
+| bip_39_word_new_line_3 | sort
 pledge
 later |  
-| bip_39_word_new_line4 | sort
+| bip_39_word_new_line_4 | sort
 pledge
 later
 story |  
-| bip_39_word_new_line5 | sort
+| bip_39_word_new_line_5 | sort
 pledge
 later
 story
 alone |  
-| bip_39_word_new_line6 | sort
+| bip_39_word_new_line_6 | sort
 pledge
 later
 story
 alone
 table |  
-| bip_39_word_new_line7 | sort
+| bip_39_word_new_line_7 | sort
 pledge
 later
 story
 alone
 table
 neutral |  
-| bip_39_word_new_line8 | sort
+| bip_39_word_new_line_8 | sort
 pledge
 later
 story
@@ -113,7 +113,7 @@ alone
 table
 neutral
 staff |  
-| bip_39_word_new_line9 | sort
+| bip_39_word_new_line_9 | sort
 pledge
 later
 story

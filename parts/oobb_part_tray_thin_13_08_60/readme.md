@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | level |  
-| bip_39_word_new_br10 | level<br>nuclear<br>rebel<br>relief<br>fault<br>delay<br>acquire<br>duck<br>bomb<br>fan |  
-| bip_39_word_new_br11 | level<br>nuclear<br>rebel<br>relief<br>fault<br>delay<br>acquire<br>duck<br>bomb<br>fan<br>police |  
-| bip_39_word_new_br12 | level<br>nuclear<br>rebel<br>relief<br>fault<br>delay<br>acquire<br>duck<br>bomb<br>fan<br>police<br>amused |  
-| bip_39_word_new_br2 | level<br>nuclear |  
-| bip_39_word_new_br3 | level<br>nuclear<br>rebel |  
-| bip_39_word_new_br4 | level<br>nuclear<br>rebel<br>relief |  
-| bip_39_word_new_br5 | level<br>nuclear<br>rebel<br>relief<br>fault |  
-| bip_39_word_new_br6 | level<br>nuclear<br>rebel<br>relief<br>fault<br>delay |  
-| bip_39_word_new_br7 | level<br>nuclear<br>rebel<br>relief<br>fault<br>delay<br>acquire |  
-| bip_39_word_new_br8 | level<br>nuclear<br>rebel<br>relief<br>fault<br>delay<br>acquire<br>duck |  
-| bip_39_word_new_br9 | level<br>nuclear<br>rebel<br>relief<br>fault<br>delay<br>acquire<br>duck<br>bomb |  
-| bip_39_word_new_line1 | level |  
-| bip_39_word_new_line10 | level
+| bip_39_word_new_br_1 | level |  
+| bip_39_word_new_br_10 | level<br>nuclear<br>rebel<br>relief<br>fault<br>delay<br>acquire<br>duck<br>bomb<br>fan |  
+| bip_39_word_new_br_11 | level<br>nuclear<br>rebel<br>relief<br>fault<br>delay<br>acquire<br>duck<br>bomb<br>fan<br>police |  
+| bip_39_word_new_br_12 | level<br>nuclear<br>rebel<br>relief<br>fault<br>delay<br>acquire<br>duck<br>bomb<br>fan<br>police<br>amused |  
+| bip_39_word_new_br_2 | level<br>nuclear |  
+| bip_39_word_new_br_3 | level<br>nuclear<br>rebel |  
+| bip_39_word_new_br_4 | level<br>nuclear<br>rebel<br>relief |  
+| bip_39_word_new_br_5 | level<br>nuclear<br>rebel<br>relief<br>fault |  
+| bip_39_word_new_br_6 | level<br>nuclear<br>rebel<br>relief<br>fault<br>delay |  
+| bip_39_word_new_br_7 | level<br>nuclear<br>rebel<br>relief<br>fault<br>delay<br>acquire |  
+| bip_39_word_new_br_8 | level<br>nuclear<br>rebel<br>relief<br>fault<br>delay<br>acquire<br>duck |  
+| bip_39_word_new_br_9 | level<br>nuclear<br>rebel<br>relief<br>fault<br>delay<br>acquire<br>duck<br>bomb |  
+| bip_39_word_new_line_1 | level |  
+| bip_39_word_new_line_10 | level
 nuclear
 rebel
 relief
@@ -55,7 +55,7 @@ acquire
 duck
 bomb
 fan |  
-| bip_39_word_new_line11 | level
+| bip_39_word_new_line_11 | level
 nuclear
 rebel
 relief
@@ -66,7 +66,7 @@ duck
 bomb
 fan
 police |  
-| bip_39_word_new_line12 | level
+| bip_39_word_new_line_12 | level
 nuclear
 rebel
 relief
@@ -78,34 +78,34 @@ bomb
 fan
 police
 amused |  
-| bip_39_word_new_line2 | level
+| bip_39_word_new_line_2 | level
 nuclear |  
-| bip_39_word_new_line3 | level
+| bip_39_word_new_line_3 | level
 nuclear
 rebel |  
-| bip_39_word_new_line4 | level
+| bip_39_word_new_line_4 | level
 nuclear
 rebel
 relief |  
-| bip_39_word_new_line5 | level
+| bip_39_word_new_line_5 | level
 nuclear
 rebel
 relief
 fault |  
-| bip_39_word_new_line6 | level
+| bip_39_word_new_line_6 | level
 nuclear
 rebel
 relief
 fault
 delay |  
-| bip_39_word_new_line7 | level
+| bip_39_word_new_line_7 | level
 nuclear
 rebel
 relief
 fault
 delay
 acquire |  
-| bip_39_word_new_line8 | level
+| bip_39_word_new_line_8 | level
 nuclear
 rebel
 relief
@@ -113,7 +113,7 @@ fault
 delay
 acquire
 duck |  
-| bip_39_word_new_line9 | level
+| bip_39_word_new_line_9 | level
 nuclear
 rebel
 relief

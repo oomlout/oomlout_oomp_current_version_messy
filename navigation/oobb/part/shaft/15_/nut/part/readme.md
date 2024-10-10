@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | off |  
-| bip_39_word_new_br10 | off<br>vehicle<br>depend<br>marriage<br>economy<br>utility<br>syrup<br>giraffe<br>august<br>ranch |  
-| bip_39_word_new_br11 | off<br>vehicle<br>depend<br>marriage<br>economy<br>utility<br>syrup<br>giraffe<br>august<br>ranch<br>ripple |  
-| bip_39_word_new_br12 | off<br>vehicle<br>depend<br>marriage<br>economy<br>utility<br>syrup<br>giraffe<br>august<br>ranch<br>ripple<br>apology |  
-| bip_39_word_new_br2 | off<br>vehicle |  
-| bip_39_word_new_br3 | off<br>vehicle<br>depend |  
-| bip_39_word_new_br4 | off<br>vehicle<br>depend<br>marriage |  
-| bip_39_word_new_br5 | off<br>vehicle<br>depend<br>marriage<br>economy |  
-| bip_39_word_new_br6 | off<br>vehicle<br>depend<br>marriage<br>economy<br>utility |  
-| bip_39_word_new_br7 | off<br>vehicle<br>depend<br>marriage<br>economy<br>utility<br>syrup |  
-| bip_39_word_new_br8 | off<br>vehicle<br>depend<br>marriage<br>economy<br>utility<br>syrup<br>giraffe |  
-| bip_39_word_new_br9 | off<br>vehicle<br>depend<br>marriage<br>economy<br>utility<br>syrup<br>giraffe<br>august |  
-| bip_39_word_new_line1 | off |  
-| bip_39_word_new_line10 | off
+| bip_39_word_new_br_1 | off |  
+| bip_39_word_new_br_10 | off<br>vehicle<br>depend<br>marriage<br>economy<br>utility<br>syrup<br>giraffe<br>august<br>ranch |  
+| bip_39_word_new_br_11 | off<br>vehicle<br>depend<br>marriage<br>economy<br>utility<br>syrup<br>giraffe<br>august<br>ranch<br>ripple |  
+| bip_39_word_new_br_12 | off<br>vehicle<br>depend<br>marriage<br>economy<br>utility<br>syrup<br>giraffe<br>august<br>ranch<br>ripple<br>apology |  
+| bip_39_word_new_br_2 | off<br>vehicle |  
+| bip_39_word_new_br_3 | off<br>vehicle<br>depend |  
+| bip_39_word_new_br_4 | off<br>vehicle<br>depend<br>marriage |  
+| bip_39_word_new_br_5 | off<br>vehicle<br>depend<br>marriage<br>economy |  
+| bip_39_word_new_br_6 | off<br>vehicle<br>depend<br>marriage<br>economy<br>utility |  
+| bip_39_word_new_br_7 | off<br>vehicle<br>depend<br>marriage<br>economy<br>utility<br>syrup |  
+| bip_39_word_new_br_8 | off<br>vehicle<br>depend<br>marriage<br>economy<br>utility<br>syrup<br>giraffe |  
+| bip_39_word_new_br_9 | off<br>vehicle<br>depend<br>marriage<br>economy<br>utility<br>syrup<br>giraffe<br>august |  
+| bip_39_word_new_line_1 | off |  
+| bip_39_word_new_line_10 | off
 vehicle
 depend
 marriage
@@ -55,7 +55,7 @@ syrup
 giraffe
 august
 ranch |  
-| bip_39_word_new_line11 | off
+| bip_39_word_new_line_11 | off
 vehicle
 depend
 marriage
@@ -66,7 +66,7 @@ giraffe
 august
 ranch
 ripple |  
-| bip_39_word_new_line12 | off
+| bip_39_word_new_line_12 | off
 vehicle
 depend
 marriage
@@ -78,34 +78,34 @@ august
 ranch
 ripple
 apology |  
-| bip_39_word_new_line2 | off
+| bip_39_word_new_line_2 | off
 vehicle |  
-| bip_39_word_new_line3 | off
+| bip_39_word_new_line_3 | off
 vehicle
 depend |  
-| bip_39_word_new_line4 | off
+| bip_39_word_new_line_4 | off
 vehicle
 depend
 marriage |  
-| bip_39_word_new_line5 | off
+| bip_39_word_new_line_5 | off
 vehicle
 depend
 marriage
 economy |  
-| bip_39_word_new_line6 | off
+| bip_39_word_new_line_6 | off
 vehicle
 depend
 marriage
 economy
 utility |  
-| bip_39_word_new_line7 | off
+| bip_39_word_new_line_7 | off
 vehicle
 depend
 marriage
 economy
 utility
 syrup |  
-| bip_39_word_new_line8 | off
+| bip_39_word_new_line_8 | off
 vehicle
 depend
 marriage
@@ -113,7 +113,7 @@ economy
 utility
 syrup
 giraffe |  
-| bip_39_word_new_line9 | off
+| bip_39_word_new_line_9 | off
 vehicle
 depend
 marriage

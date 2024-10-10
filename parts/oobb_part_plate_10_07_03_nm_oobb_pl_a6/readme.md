@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | next |  
-| bip_39_word_new_br10 | next<br>camera<br>focus<br>cabin<br>vault<br>hand<br>ladder<br>canvas<br>insect<br>correct |  
-| bip_39_word_new_br11 | next<br>camera<br>focus<br>cabin<br>vault<br>hand<br>ladder<br>canvas<br>insect<br>correct<br>artefact |  
-| bip_39_word_new_br12 | next<br>camera<br>focus<br>cabin<br>vault<br>hand<br>ladder<br>canvas<br>insect<br>correct<br>artefact<br>antique |  
-| bip_39_word_new_br2 | next<br>camera |  
-| bip_39_word_new_br3 | next<br>camera<br>focus |  
-| bip_39_word_new_br4 | next<br>camera<br>focus<br>cabin |  
-| bip_39_word_new_br5 | next<br>camera<br>focus<br>cabin<br>vault |  
-| bip_39_word_new_br6 | next<br>camera<br>focus<br>cabin<br>vault<br>hand |  
-| bip_39_word_new_br7 | next<br>camera<br>focus<br>cabin<br>vault<br>hand<br>ladder |  
-| bip_39_word_new_br8 | next<br>camera<br>focus<br>cabin<br>vault<br>hand<br>ladder<br>canvas |  
-| bip_39_word_new_br9 | next<br>camera<br>focus<br>cabin<br>vault<br>hand<br>ladder<br>canvas<br>insect |  
-| bip_39_word_new_line1 | next |  
-| bip_39_word_new_line10 | next
+| bip_39_word_new_br_1 | next |  
+| bip_39_word_new_br_10 | next<br>camera<br>focus<br>cabin<br>vault<br>hand<br>ladder<br>canvas<br>insect<br>correct |  
+| bip_39_word_new_br_11 | next<br>camera<br>focus<br>cabin<br>vault<br>hand<br>ladder<br>canvas<br>insect<br>correct<br>artefact |  
+| bip_39_word_new_br_12 | next<br>camera<br>focus<br>cabin<br>vault<br>hand<br>ladder<br>canvas<br>insect<br>correct<br>artefact<br>antique |  
+| bip_39_word_new_br_2 | next<br>camera |  
+| bip_39_word_new_br_3 | next<br>camera<br>focus |  
+| bip_39_word_new_br_4 | next<br>camera<br>focus<br>cabin |  
+| bip_39_word_new_br_5 | next<br>camera<br>focus<br>cabin<br>vault |  
+| bip_39_word_new_br_6 | next<br>camera<br>focus<br>cabin<br>vault<br>hand |  
+| bip_39_word_new_br_7 | next<br>camera<br>focus<br>cabin<br>vault<br>hand<br>ladder |  
+| bip_39_word_new_br_8 | next<br>camera<br>focus<br>cabin<br>vault<br>hand<br>ladder<br>canvas |  
+| bip_39_word_new_br_9 | next<br>camera<br>focus<br>cabin<br>vault<br>hand<br>ladder<br>canvas<br>insect |  
+| bip_39_word_new_line_1 | next |  
+| bip_39_word_new_line_10 | next
 camera
 focus
 cabin
@@ -55,7 +55,7 @@ ladder
 canvas
 insect
 correct |  
-| bip_39_word_new_line11 | next
+| bip_39_word_new_line_11 | next
 camera
 focus
 cabin
@@ -66,7 +66,7 @@ canvas
 insect
 correct
 artefact |  
-| bip_39_word_new_line12 | next
+| bip_39_word_new_line_12 | next
 camera
 focus
 cabin
@@ -78,34 +78,34 @@ insect
 correct
 artefact
 antique |  
-| bip_39_word_new_line2 | next
+| bip_39_word_new_line_2 | next
 camera |  
-| bip_39_word_new_line3 | next
+| bip_39_word_new_line_3 | next
 camera
 focus |  
-| bip_39_word_new_line4 | next
+| bip_39_word_new_line_4 | next
 camera
 focus
 cabin |  
-| bip_39_word_new_line5 | next
+| bip_39_word_new_line_5 | next
 camera
 focus
 cabin
 vault |  
-| bip_39_word_new_line6 | next
+| bip_39_word_new_line_6 | next
 camera
 focus
 cabin
 vault
 hand |  
-| bip_39_word_new_line7 | next
+| bip_39_word_new_line_7 | next
 camera
 focus
 cabin
 vault
 hand
 ladder |  
-| bip_39_word_new_line8 | next
+| bip_39_word_new_line_8 | next
 camera
 focus
 cabin
@@ -113,7 +113,7 @@ vault
 hand
 ladder
 canvas |  
-| bip_39_word_new_line9 | next
+| bip_39_word_new_line_9 | next
 camera
 focus
 cabin

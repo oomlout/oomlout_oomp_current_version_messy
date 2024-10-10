@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | reform |  
-| bip_39_word_new_br10 | reform<br>speed<br>kangaroo<br>latin<br>dutch<br>chaos<br>market<br>spatial<br>usual<br>image |  
-| bip_39_word_new_br11 | reform<br>speed<br>kangaroo<br>latin<br>dutch<br>chaos<br>market<br>spatial<br>usual<br>image<br>humble |  
-| bip_39_word_new_br12 | reform<br>speed<br>kangaroo<br>latin<br>dutch<br>chaos<br>market<br>spatial<br>usual<br>image<br>humble<br>arctic |  
-| bip_39_word_new_br2 | reform<br>speed |  
-| bip_39_word_new_br3 | reform<br>speed<br>kangaroo |  
-| bip_39_word_new_br4 | reform<br>speed<br>kangaroo<br>latin |  
-| bip_39_word_new_br5 | reform<br>speed<br>kangaroo<br>latin<br>dutch |  
-| bip_39_word_new_br6 | reform<br>speed<br>kangaroo<br>latin<br>dutch<br>chaos |  
-| bip_39_word_new_br7 | reform<br>speed<br>kangaroo<br>latin<br>dutch<br>chaos<br>market |  
-| bip_39_word_new_br8 | reform<br>speed<br>kangaroo<br>latin<br>dutch<br>chaos<br>market<br>spatial |  
-| bip_39_word_new_br9 | reform<br>speed<br>kangaroo<br>latin<br>dutch<br>chaos<br>market<br>spatial<br>usual |  
-| bip_39_word_new_line1 | reform |  
-| bip_39_word_new_line10 | reform
+| bip_39_word_new_br_1 | reform |  
+| bip_39_word_new_br_10 | reform<br>speed<br>kangaroo<br>latin<br>dutch<br>chaos<br>market<br>spatial<br>usual<br>image |  
+| bip_39_word_new_br_11 | reform<br>speed<br>kangaroo<br>latin<br>dutch<br>chaos<br>market<br>spatial<br>usual<br>image<br>humble |  
+| bip_39_word_new_br_12 | reform<br>speed<br>kangaroo<br>latin<br>dutch<br>chaos<br>market<br>spatial<br>usual<br>image<br>humble<br>arctic |  
+| bip_39_word_new_br_2 | reform<br>speed |  
+| bip_39_word_new_br_3 | reform<br>speed<br>kangaroo |  
+| bip_39_word_new_br_4 | reform<br>speed<br>kangaroo<br>latin |  
+| bip_39_word_new_br_5 | reform<br>speed<br>kangaroo<br>latin<br>dutch |  
+| bip_39_word_new_br_6 | reform<br>speed<br>kangaroo<br>latin<br>dutch<br>chaos |  
+| bip_39_word_new_br_7 | reform<br>speed<br>kangaroo<br>latin<br>dutch<br>chaos<br>market |  
+| bip_39_word_new_br_8 | reform<br>speed<br>kangaroo<br>latin<br>dutch<br>chaos<br>market<br>spatial |  
+| bip_39_word_new_br_9 | reform<br>speed<br>kangaroo<br>latin<br>dutch<br>chaos<br>market<br>spatial<br>usual |  
+| bip_39_word_new_line_1 | reform |  
+| bip_39_word_new_line_10 | reform
 speed
 kangaroo
 latin
@@ -55,7 +55,7 @@ market
 spatial
 usual
 image |  
-| bip_39_word_new_line11 | reform
+| bip_39_word_new_line_11 | reform
 speed
 kangaroo
 latin
@@ -66,7 +66,7 @@ spatial
 usual
 image
 humble |  
-| bip_39_word_new_line12 | reform
+| bip_39_word_new_line_12 | reform
 speed
 kangaroo
 latin
@@ -78,34 +78,34 @@ usual
 image
 humble
 arctic |  
-| bip_39_word_new_line2 | reform
+| bip_39_word_new_line_2 | reform
 speed |  
-| bip_39_word_new_line3 | reform
+| bip_39_word_new_line_3 | reform
 speed
 kangaroo |  
-| bip_39_word_new_line4 | reform
+| bip_39_word_new_line_4 | reform
 speed
 kangaroo
 latin |  
-| bip_39_word_new_line5 | reform
+| bip_39_word_new_line_5 | reform
 speed
 kangaroo
 latin
 dutch |  
-| bip_39_word_new_line6 | reform
+| bip_39_word_new_line_6 | reform
 speed
 kangaroo
 latin
 dutch
 chaos |  
-| bip_39_word_new_line7 | reform
+| bip_39_word_new_line_7 | reform
 speed
 kangaroo
 latin
 dutch
 chaos
 market |  
-| bip_39_word_new_line8 | reform
+| bip_39_word_new_line_8 | reform
 speed
 kangaroo
 latin
@@ -113,7 +113,7 @@ dutch
 chaos
 market
 spatial |  
-| bip_39_word_new_line9 | reform
+| bip_39_word_new_line_9 | reform
 speed
 kangaroo
 latin

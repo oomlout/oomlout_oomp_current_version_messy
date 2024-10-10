@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rotate |  
-| bip_39_word_new_br10 | rotate<br>potato<br>rug<br>oyster<br>title<br>reunion<br>pumpkin<br>insect<br>inhale<br>voyage |  
-| bip_39_word_new_br11 | rotate<br>potato<br>rug<br>oyster<br>title<br>reunion<br>pumpkin<br>insect<br>inhale<br>voyage<br>wage |  
-| bip_39_word_new_br12 | rotate<br>potato<br>rug<br>oyster<br>title<br>reunion<br>pumpkin<br>insect<br>inhale<br>voyage<br>wage<br>alien |  
-| bip_39_word_new_br2 | rotate<br>potato |  
-| bip_39_word_new_br3 | rotate<br>potato<br>rug |  
-| bip_39_word_new_br4 | rotate<br>potato<br>rug<br>oyster |  
-| bip_39_word_new_br5 | rotate<br>potato<br>rug<br>oyster<br>title |  
-| bip_39_word_new_br6 | rotate<br>potato<br>rug<br>oyster<br>title<br>reunion |  
-| bip_39_word_new_br7 | rotate<br>potato<br>rug<br>oyster<br>title<br>reunion<br>pumpkin |  
-| bip_39_word_new_br8 | rotate<br>potato<br>rug<br>oyster<br>title<br>reunion<br>pumpkin<br>insect |  
-| bip_39_word_new_br9 | rotate<br>potato<br>rug<br>oyster<br>title<br>reunion<br>pumpkin<br>insect<br>inhale |  
-| bip_39_word_new_line1 | rotate |  
-| bip_39_word_new_line10 | rotate
+| bip_39_word_new_br_1 | rotate |  
+| bip_39_word_new_br_10 | rotate<br>potato<br>rug<br>oyster<br>title<br>reunion<br>pumpkin<br>insect<br>inhale<br>voyage |  
+| bip_39_word_new_br_11 | rotate<br>potato<br>rug<br>oyster<br>title<br>reunion<br>pumpkin<br>insect<br>inhale<br>voyage<br>wage |  
+| bip_39_word_new_br_12 | rotate<br>potato<br>rug<br>oyster<br>title<br>reunion<br>pumpkin<br>insect<br>inhale<br>voyage<br>wage<br>alien |  
+| bip_39_word_new_br_2 | rotate<br>potato |  
+| bip_39_word_new_br_3 | rotate<br>potato<br>rug |  
+| bip_39_word_new_br_4 | rotate<br>potato<br>rug<br>oyster |  
+| bip_39_word_new_br_5 | rotate<br>potato<br>rug<br>oyster<br>title |  
+| bip_39_word_new_br_6 | rotate<br>potato<br>rug<br>oyster<br>title<br>reunion |  
+| bip_39_word_new_br_7 | rotate<br>potato<br>rug<br>oyster<br>title<br>reunion<br>pumpkin |  
+| bip_39_word_new_br_8 | rotate<br>potato<br>rug<br>oyster<br>title<br>reunion<br>pumpkin<br>insect |  
+| bip_39_word_new_br_9 | rotate<br>potato<br>rug<br>oyster<br>title<br>reunion<br>pumpkin<br>insect<br>inhale |  
+| bip_39_word_new_line_1 | rotate |  
+| bip_39_word_new_line_10 | rotate
 potato
 rug
 oyster
@@ -55,7 +55,7 @@ pumpkin
 insect
 inhale
 voyage |  
-| bip_39_word_new_line11 | rotate
+| bip_39_word_new_line_11 | rotate
 potato
 rug
 oyster
@@ -66,7 +66,7 @@ insect
 inhale
 voyage
 wage |  
-| bip_39_word_new_line12 | rotate
+| bip_39_word_new_line_12 | rotate
 potato
 rug
 oyster
@@ -78,34 +78,34 @@ inhale
 voyage
 wage
 alien |  
-| bip_39_word_new_line2 | rotate
+| bip_39_word_new_line_2 | rotate
 potato |  
-| bip_39_word_new_line3 | rotate
+| bip_39_word_new_line_3 | rotate
 potato
 rug |  
-| bip_39_word_new_line4 | rotate
+| bip_39_word_new_line_4 | rotate
 potato
 rug
 oyster |  
-| bip_39_word_new_line5 | rotate
+| bip_39_word_new_line_5 | rotate
 potato
 rug
 oyster
 title |  
-| bip_39_word_new_line6 | rotate
+| bip_39_word_new_line_6 | rotate
 potato
 rug
 oyster
 title
 reunion |  
-| bip_39_word_new_line7 | rotate
+| bip_39_word_new_line_7 | rotate
 potato
 rug
 oyster
 title
 reunion
 pumpkin |  
-| bip_39_word_new_line8 | rotate
+| bip_39_word_new_line_8 | rotate
 potato
 rug
 oyster
@@ -113,7 +113,7 @@ title
 reunion
 pumpkin
 insect |  
-| bip_39_word_new_line9 | rotate
+| bip_39_word_new_line_9 | rotate
 potato
 rug
 oyster

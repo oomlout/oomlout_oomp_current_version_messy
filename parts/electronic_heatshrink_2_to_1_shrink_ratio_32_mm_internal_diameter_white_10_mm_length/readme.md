@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | faint |  
-| bip_39_word_new_br10 | faint<br>avocado<br>income<br>action<br>music<br>wisdom<br>indoor<br>before<br>genuine<br>sign |  
-| bip_39_word_new_br11 | faint<br>avocado<br>income<br>action<br>music<br>wisdom<br>indoor<br>before<br>genuine<br>sign<br>wrist |  
-| bip_39_word_new_br12 | faint<br>avocado<br>income<br>action<br>music<br>wisdom<br>indoor<br>before<br>genuine<br>sign<br>wrist<br>abstract |  
-| bip_39_word_new_br2 | faint<br>avocado |  
-| bip_39_word_new_br3 | faint<br>avocado<br>income |  
-| bip_39_word_new_br4 | faint<br>avocado<br>income<br>action |  
-| bip_39_word_new_br5 | faint<br>avocado<br>income<br>action<br>music |  
-| bip_39_word_new_br6 | faint<br>avocado<br>income<br>action<br>music<br>wisdom |  
-| bip_39_word_new_br7 | faint<br>avocado<br>income<br>action<br>music<br>wisdom<br>indoor |  
-| bip_39_word_new_br8 | faint<br>avocado<br>income<br>action<br>music<br>wisdom<br>indoor<br>before |  
-| bip_39_word_new_br9 | faint<br>avocado<br>income<br>action<br>music<br>wisdom<br>indoor<br>before<br>genuine |  
-| bip_39_word_new_line1 | faint |  
-| bip_39_word_new_line10 | faint
+| bip_39_word_new_br_1 | faint |  
+| bip_39_word_new_br_10 | faint<br>avocado<br>income<br>action<br>music<br>wisdom<br>indoor<br>before<br>genuine<br>sign |  
+| bip_39_word_new_br_11 | faint<br>avocado<br>income<br>action<br>music<br>wisdom<br>indoor<br>before<br>genuine<br>sign<br>wrist |  
+| bip_39_word_new_br_12 | faint<br>avocado<br>income<br>action<br>music<br>wisdom<br>indoor<br>before<br>genuine<br>sign<br>wrist<br>abstract |  
+| bip_39_word_new_br_2 | faint<br>avocado |  
+| bip_39_word_new_br_3 | faint<br>avocado<br>income |  
+| bip_39_word_new_br_4 | faint<br>avocado<br>income<br>action |  
+| bip_39_word_new_br_5 | faint<br>avocado<br>income<br>action<br>music |  
+| bip_39_word_new_br_6 | faint<br>avocado<br>income<br>action<br>music<br>wisdom |  
+| bip_39_word_new_br_7 | faint<br>avocado<br>income<br>action<br>music<br>wisdom<br>indoor |  
+| bip_39_word_new_br_8 | faint<br>avocado<br>income<br>action<br>music<br>wisdom<br>indoor<br>before |  
+| bip_39_word_new_br_9 | faint<br>avocado<br>income<br>action<br>music<br>wisdom<br>indoor<br>before<br>genuine |  
+| bip_39_word_new_line_1 | faint |  
+| bip_39_word_new_line_10 | faint
 avocado
 income
 action
@@ -55,7 +55,7 @@ indoor
 before
 genuine
 sign |  
-| bip_39_word_new_line11 | faint
+| bip_39_word_new_line_11 | faint
 avocado
 income
 action
@@ -66,7 +66,7 @@ before
 genuine
 sign
 wrist |  
-| bip_39_word_new_line12 | faint
+| bip_39_word_new_line_12 | faint
 avocado
 income
 action
@@ -78,34 +78,34 @@ genuine
 sign
 wrist
 abstract |  
-| bip_39_word_new_line2 | faint
+| bip_39_word_new_line_2 | faint
 avocado |  
-| bip_39_word_new_line3 | faint
+| bip_39_word_new_line_3 | faint
 avocado
 income |  
-| bip_39_word_new_line4 | faint
+| bip_39_word_new_line_4 | faint
 avocado
 income
 action |  
-| bip_39_word_new_line5 | faint
+| bip_39_word_new_line_5 | faint
 avocado
 income
 action
 music |  
-| bip_39_word_new_line6 | faint
+| bip_39_word_new_line_6 | faint
 avocado
 income
 action
 music
 wisdom |  
-| bip_39_word_new_line7 | faint
+| bip_39_word_new_line_7 | faint
 avocado
 income
 action
 music
 wisdom
 indoor |  
-| bip_39_word_new_line8 | faint
+| bip_39_word_new_line_8 | faint
 avocado
 income
 action
@@ -113,7 +113,7 @@ music
 wisdom
 indoor
 before |  
-| bip_39_word_new_line9 | faint
+| bip_39_word_new_line_9 | faint
 avocado
 income
 action

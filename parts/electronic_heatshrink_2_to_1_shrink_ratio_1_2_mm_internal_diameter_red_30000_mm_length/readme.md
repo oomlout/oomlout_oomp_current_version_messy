@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dragon |  
-| bip_39_word_new_br10 | dragon<br>empower<br>boost<br>mistake<br>barely<br>glove<br>wood<br>kiss<br>angry<br>radar |  
-| bip_39_word_new_br11 | dragon<br>empower<br>boost<br>mistake<br>barely<br>glove<br>wood<br>kiss<br>angry<br>radar<br>edit |  
-| bip_39_word_new_br12 | dragon<br>empower<br>boost<br>mistake<br>barely<br>glove<br>wood<br>kiss<br>angry<br>radar<br>edit<br>avocado |  
-| bip_39_word_new_br2 | dragon<br>empower |  
-| bip_39_word_new_br3 | dragon<br>empower<br>boost |  
-| bip_39_word_new_br4 | dragon<br>empower<br>boost<br>mistake |  
-| bip_39_word_new_br5 | dragon<br>empower<br>boost<br>mistake<br>barely |  
-| bip_39_word_new_br6 | dragon<br>empower<br>boost<br>mistake<br>barely<br>glove |  
-| bip_39_word_new_br7 | dragon<br>empower<br>boost<br>mistake<br>barely<br>glove<br>wood |  
-| bip_39_word_new_br8 | dragon<br>empower<br>boost<br>mistake<br>barely<br>glove<br>wood<br>kiss |  
-| bip_39_word_new_br9 | dragon<br>empower<br>boost<br>mistake<br>barely<br>glove<br>wood<br>kiss<br>angry |  
-| bip_39_word_new_line1 | dragon |  
-| bip_39_word_new_line10 | dragon
+| bip_39_word_new_br_1 | dragon |  
+| bip_39_word_new_br_10 | dragon<br>empower<br>boost<br>mistake<br>barely<br>glove<br>wood<br>kiss<br>angry<br>radar |  
+| bip_39_word_new_br_11 | dragon<br>empower<br>boost<br>mistake<br>barely<br>glove<br>wood<br>kiss<br>angry<br>radar<br>edit |  
+| bip_39_word_new_br_12 | dragon<br>empower<br>boost<br>mistake<br>barely<br>glove<br>wood<br>kiss<br>angry<br>radar<br>edit<br>avocado |  
+| bip_39_word_new_br_2 | dragon<br>empower |  
+| bip_39_word_new_br_3 | dragon<br>empower<br>boost |  
+| bip_39_word_new_br_4 | dragon<br>empower<br>boost<br>mistake |  
+| bip_39_word_new_br_5 | dragon<br>empower<br>boost<br>mistake<br>barely |  
+| bip_39_word_new_br_6 | dragon<br>empower<br>boost<br>mistake<br>barely<br>glove |  
+| bip_39_word_new_br_7 | dragon<br>empower<br>boost<br>mistake<br>barely<br>glove<br>wood |  
+| bip_39_word_new_br_8 | dragon<br>empower<br>boost<br>mistake<br>barely<br>glove<br>wood<br>kiss |  
+| bip_39_word_new_br_9 | dragon<br>empower<br>boost<br>mistake<br>barely<br>glove<br>wood<br>kiss<br>angry |  
+| bip_39_word_new_line_1 | dragon |  
+| bip_39_word_new_line_10 | dragon
 empower
 boost
 mistake
@@ -55,7 +55,7 @@ wood
 kiss
 angry
 radar |  
-| bip_39_word_new_line11 | dragon
+| bip_39_word_new_line_11 | dragon
 empower
 boost
 mistake
@@ -66,7 +66,7 @@ kiss
 angry
 radar
 edit |  
-| bip_39_word_new_line12 | dragon
+| bip_39_word_new_line_12 | dragon
 empower
 boost
 mistake
@@ -78,34 +78,34 @@ angry
 radar
 edit
 avocado |  
-| bip_39_word_new_line2 | dragon
+| bip_39_word_new_line_2 | dragon
 empower |  
-| bip_39_word_new_line3 | dragon
+| bip_39_word_new_line_3 | dragon
 empower
 boost |  
-| bip_39_word_new_line4 | dragon
+| bip_39_word_new_line_4 | dragon
 empower
 boost
 mistake |  
-| bip_39_word_new_line5 | dragon
+| bip_39_word_new_line_5 | dragon
 empower
 boost
 mistake
 barely |  
-| bip_39_word_new_line6 | dragon
+| bip_39_word_new_line_6 | dragon
 empower
 boost
 mistake
 barely
 glove |  
-| bip_39_word_new_line7 | dragon
+| bip_39_word_new_line_7 | dragon
 empower
 boost
 mistake
 barely
 glove
 wood |  
-| bip_39_word_new_line8 | dragon
+| bip_39_word_new_line_8 | dragon
 empower
 boost
 mistake
@@ -113,7 +113,7 @@ barely
 glove
 wood
 kiss |  
-| bip_39_word_new_line9 | dragon
+| bip_39_word_new_line_9 | dragon
 empower
 boost
 mistake

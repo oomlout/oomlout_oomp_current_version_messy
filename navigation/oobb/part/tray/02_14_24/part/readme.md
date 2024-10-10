@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | corn |  
-| bip_39_word_new_br10 | corn<br>grief<br>fruit<br>walk<br>yard<br>now<br>scan<br>various<br>thing<br>grain |  
-| bip_39_word_new_br11 | corn<br>grief<br>fruit<br>walk<br>yard<br>now<br>scan<br>various<br>thing<br>grain<br>over |  
-| bip_39_word_new_br12 | corn<br>grief<br>fruit<br>walk<br>yard<br>now<br>scan<br>various<br>thing<br>grain<br>over<br>allow |  
-| bip_39_word_new_br2 | corn<br>grief |  
-| bip_39_word_new_br3 | corn<br>grief<br>fruit |  
-| bip_39_word_new_br4 | corn<br>grief<br>fruit<br>walk |  
-| bip_39_word_new_br5 | corn<br>grief<br>fruit<br>walk<br>yard |  
-| bip_39_word_new_br6 | corn<br>grief<br>fruit<br>walk<br>yard<br>now |  
-| bip_39_word_new_br7 | corn<br>grief<br>fruit<br>walk<br>yard<br>now<br>scan |  
-| bip_39_word_new_br8 | corn<br>grief<br>fruit<br>walk<br>yard<br>now<br>scan<br>various |  
-| bip_39_word_new_br9 | corn<br>grief<br>fruit<br>walk<br>yard<br>now<br>scan<br>various<br>thing |  
-| bip_39_word_new_line1 | corn |  
-| bip_39_word_new_line10 | corn
+| bip_39_word_new_br_1 | corn |  
+| bip_39_word_new_br_10 | corn<br>grief<br>fruit<br>walk<br>yard<br>now<br>scan<br>various<br>thing<br>grain |  
+| bip_39_word_new_br_11 | corn<br>grief<br>fruit<br>walk<br>yard<br>now<br>scan<br>various<br>thing<br>grain<br>over |  
+| bip_39_word_new_br_12 | corn<br>grief<br>fruit<br>walk<br>yard<br>now<br>scan<br>various<br>thing<br>grain<br>over<br>allow |  
+| bip_39_word_new_br_2 | corn<br>grief |  
+| bip_39_word_new_br_3 | corn<br>grief<br>fruit |  
+| bip_39_word_new_br_4 | corn<br>grief<br>fruit<br>walk |  
+| bip_39_word_new_br_5 | corn<br>grief<br>fruit<br>walk<br>yard |  
+| bip_39_word_new_br_6 | corn<br>grief<br>fruit<br>walk<br>yard<br>now |  
+| bip_39_word_new_br_7 | corn<br>grief<br>fruit<br>walk<br>yard<br>now<br>scan |  
+| bip_39_word_new_br_8 | corn<br>grief<br>fruit<br>walk<br>yard<br>now<br>scan<br>various |  
+| bip_39_word_new_br_9 | corn<br>grief<br>fruit<br>walk<br>yard<br>now<br>scan<br>various<br>thing |  
+| bip_39_word_new_line_1 | corn |  
+| bip_39_word_new_line_10 | corn
 grief
 fruit
 walk
@@ -55,7 +55,7 @@ scan
 various
 thing
 grain |  
-| bip_39_word_new_line11 | corn
+| bip_39_word_new_line_11 | corn
 grief
 fruit
 walk
@@ -66,7 +66,7 @@ various
 thing
 grain
 over |  
-| bip_39_word_new_line12 | corn
+| bip_39_word_new_line_12 | corn
 grief
 fruit
 walk
@@ -78,34 +78,34 @@ thing
 grain
 over
 allow |  
-| bip_39_word_new_line2 | corn
+| bip_39_word_new_line_2 | corn
 grief |  
-| bip_39_word_new_line3 | corn
+| bip_39_word_new_line_3 | corn
 grief
 fruit |  
-| bip_39_word_new_line4 | corn
+| bip_39_word_new_line_4 | corn
 grief
 fruit
 walk |  
-| bip_39_word_new_line5 | corn
+| bip_39_word_new_line_5 | corn
 grief
 fruit
 walk
 yard |  
-| bip_39_word_new_line6 | corn
+| bip_39_word_new_line_6 | corn
 grief
 fruit
 walk
 yard
 now |  
-| bip_39_word_new_line7 | corn
+| bip_39_word_new_line_7 | corn
 grief
 fruit
 walk
 yard
 now
 scan |  
-| bip_39_word_new_line8 | corn
+| bip_39_word_new_line_8 | corn
 grief
 fruit
 walk
@@ -113,7 +113,7 @@ yard
 now
 scan
 various |  
-| bip_39_word_new_line9 | corn
+| bip_39_word_new_line_9 | corn
 grief
 fruit
 walk

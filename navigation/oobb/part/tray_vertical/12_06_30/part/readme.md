@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | trophy |  
-| bip_39_word_new_br10 | trophy<br>margin<br>estate<br>attend<br>invest<br>infant<br>inmate<br>salmon<br>scene<br>drill |  
-| bip_39_word_new_br11 | trophy<br>margin<br>estate<br>attend<br>invest<br>infant<br>inmate<br>salmon<br>scene<br>drill<br>spot |  
-| bip_39_word_new_br12 | trophy<br>margin<br>estate<br>attend<br>invest<br>infant<br>inmate<br>salmon<br>scene<br>drill<br>spot<br>assault |  
-| bip_39_word_new_br2 | trophy<br>margin |  
-| bip_39_word_new_br3 | trophy<br>margin<br>estate |  
-| bip_39_word_new_br4 | trophy<br>margin<br>estate<br>attend |  
-| bip_39_word_new_br5 | trophy<br>margin<br>estate<br>attend<br>invest |  
-| bip_39_word_new_br6 | trophy<br>margin<br>estate<br>attend<br>invest<br>infant |  
-| bip_39_word_new_br7 | trophy<br>margin<br>estate<br>attend<br>invest<br>infant<br>inmate |  
-| bip_39_word_new_br8 | trophy<br>margin<br>estate<br>attend<br>invest<br>infant<br>inmate<br>salmon |  
-| bip_39_word_new_br9 | trophy<br>margin<br>estate<br>attend<br>invest<br>infant<br>inmate<br>salmon<br>scene |  
-| bip_39_word_new_line1 | trophy |  
-| bip_39_word_new_line10 | trophy
+| bip_39_word_new_br_1 | trophy |  
+| bip_39_word_new_br_10 | trophy<br>margin<br>estate<br>attend<br>invest<br>infant<br>inmate<br>salmon<br>scene<br>drill |  
+| bip_39_word_new_br_11 | trophy<br>margin<br>estate<br>attend<br>invest<br>infant<br>inmate<br>salmon<br>scene<br>drill<br>spot |  
+| bip_39_word_new_br_12 | trophy<br>margin<br>estate<br>attend<br>invest<br>infant<br>inmate<br>salmon<br>scene<br>drill<br>spot<br>assault |  
+| bip_39_word_new_br_2 | trophy<br>margin |  
+| bip_39_word_new_br_3 | trophy<br>margin<br>estate |  
+| bip_39_word_new_br_4 | trophy<br>margin<br>estate<br>attend |  
+| bip_39_word_new_br_5 | trophy<br>margin<br>estate<br>attend<br>invest |  
+| bip_39_word_new_br_6 | trophy<br>margin<br>estate<br>attend<br>invest<br>infant |  
+| bip_39_word_new_br_7 | trophy<br>margin<br>estate<br>attend<br>invest<br>infant<br>inmate |  
+| bip_39_word_new_br_8 | trophy<br>margin<br>estate<br>attend<br>invest<br>infant<br>inmate<br>salmon |  
+| bip_39_word_new_br_9 | trophy<br>margin<br>estate<br>attend<br>invest<br>infant<br>inmate<br>salmon<br>scene |  
+| bip_39_word_new_line_1 | trophy |  
+| bip_39_word_new_line_10 | trophy
 margin
 estate
 attend
@@ -55,7 +55,7 @@ inmate
 salmon
 scene
 drill |  
-| bip_39_word_new_line11 | trophy
+| bip_39_word_new_line_11 | trophy
 margin
 estate
 attend
@@ -66,7 +66,7 @@ salmon
 scene
 drill
 spot |  
-| bip_39_word_new_line12 | trophy
+| bip_39_word_new_line_12 | trophy
 margin
 estate
 attend
@@ -78,34 +78,34 @@ scene
 drill
 spot
 assault |  
-| bip_39_word_new_line2 | trophy
+| bip_39_word_new_line_2 | trophy
 margin |  
-| bip_39_word_new_line3 | trophy
+| bip_39_word_new_line_3 | trophy
 margin
 estate |  
-| bip_39_word_new_line4 | trophy
+| bip_39_word_new_line_4 | trophy
 margin
 estate
 attend |  
-| bip_39_word_new_line5 | trophy
+| bip_39_word_new_line_5 | trophy
 margin
 estate
 attend
 invest |  
-| bip_39_word_new_line6 | trophy
+| bip_39_word_new_line_6 | trophy
 margin
 estate
 attend
 invest
 infant |  
-| bip_39_word_new_line7 | trophy
+| bip_39_word_new_line_7 | trophy
 margin
 estate
 attend
 invest
 infant
 inmate |  
-| bip_39_word_new_line8 | trophy
+| bip_39_word_new_line_8 | trophy
 margin
 estate
 attend
@@ -113,7 +113,7 @@ invest
 infant
 inmate
 salmon |  
-| bip_39_word_new_line9 | trophy
+| bip_39_word_new_line_9 | trophy
 margin
 estate
 attend

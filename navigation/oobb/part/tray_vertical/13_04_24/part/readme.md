@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hat |  
-| bip_39_word_new_br10 | hat<br>foam<br>permit<br>hurt<br>armor<br>federal<br>refuse<br>style<br>acid<br>spoil |  
-| bip_39_word_new_br11 | hat<br>foam<br>permit<br>hurt<br>armor<br>federal<br>refuse<br>style<br>acid<br>spoil<br>banana |  
-| bip_39_word_new_br12 | hat<br>foam<br>permit<br>hurt<br>armor<br>federal<br>refuse<br>style<br>acid<br>spoil<br>banana<br>anchor |  
-| bip_39_word_new_br2 | hat<br>foam |  
-| bip_39_word_new_br3 | hat<br>foam<br>permit |  
-| bip_39_word_new_br4 | hat<br>foam<br>permit<br>hurt |  
-| bip_39_word_new_br5 | hat<br>foam<br>permit<br>hurt<br>armor |  
-| bip_39_word_new_br6 | hat<br>foam<br>permit<br>hurt<br>armor<br>federal |  
-| bip_39_word_new_br7 | hat<br>foam<br>permit<br>hurt<br>armor<br>federal<br>refuse |  
-| bip_39_word_new_br8 | hat<br>foam<br>permit<br>hurt<br>armor<br>federal<br>refuse<br>style |  
-| bip_39_word_new_br9 | hat<br>foam<br>permit<br>hurt<br>armor<br>federal<br>refuse<br>style<br>acid |  
-| bip_39_word_new_line1 | hat |  
-| bip_39_word_new_line10 | hat
+| bip_39_word_new_br_1 | hat |  
+| bip_39_word_new_br_10 | hat<br>foam<br>permit<br>hurt<br>armor<br>federal<br>refuse<br>style<br>acid<br>spoil |  
+| bip_39_word_new_br_11 | hat<br>foam<br>permit<br>hurt<br>armor<br>federal<br>refuse<br>style<br>acid<br>spoil<br>banana |  
+| bip_39_word_new_br_12 | hat<br>foam<br>permit<br>hurt<br>armor<br>federal<br>refuse<br>style<br>acid<br>spoil<br>banana<br>anchor |  
+| bip_39_word_new_br_2 | hat<br>foam |  
+| bip_39_word_new_br_3 | hat<br>foam<br>permit |  
+| bip_39_word_new_br_4 | hat<br>foam<br>permit<br>hurt |  
+| bip_39_word_new_br_5 | hat<br>foam<br>permit<br>hurt<br>armor |  
+| bip_39_word_new_br_6 | hat<br>foam<br>permit<br>hurt<br>armor<br>federal |  
+| bip_39_word_new_br_7 | hat<br>foam<br>permit<br>hurt<br>armor<br>federal<br>refuse |  
+| bip_39_word_new_br_8 | hat<br>foam<br>permit<br>hurt<br>armor<br>federal<br>refuse<br>style |  
+| bip_39_word_new_br_9 | hat<br>foam<br>permit<br>hurt<br>armor<br>federal<br>refuse<br>style<br>acid |  
+| bip_39_word_new_line_1 | hat |  
+| bip_39_word_new_line_10 | hat
 foam
 permit
 hurt
@@ -55,7 +55,7 @@ refuse
 style
 acid
 spoil |  
-| bip_39_word_new_line11 | hat
+| bip_39_word_new_line_11 | hat
 foam
 permit
 hurt
@@ -66,7 +66,7 @@ style
 acid
 spoil
 banana |  
-| bip_39_word_new_line12 | hat
+| bip_39_word_new_line_12 | hat
 foam
 permit
 hurt
@@ -78,34 +78,34 @@ acid
 spoil
 banana
 anchor |  
-| bip_39_word_new_line2 | hat
+| bip_39_word_new_line_2 | hat
 foam |  
-| bip_39_word_new_line3 | hat
+| bip_39_word_new_line_3 | hat
 foam
 permit |  
-| bip_39_word_new_line4 | hat
+| bip_39_word_new_line_4 | hat
 foam
 permit
 hurt |  
-| bip_39_word_new_line5 | hat
+| bip_39_word_new_line_5 | hat
 foam
 permit
 hurt
 armor |  
-| bip_39_word_new_line6 | hat
+| bip_39_word_new_line_6 | hat
 foam
 permit
 hurt
 armor
 federal |  
-| bip_39_word_new_line7 | hat
+| bip_39_word_new_line_7 | hat
 foam
 permit
 hurt
 armor
 federal
 refuse |  
-| bip_39_word_new_line8 | hat
+| bip_39_word_new_line_8 | hat
 foam
 permit
 hurt
@@ -113,7 +113,7 @@ armor
 federal
 refuse
 style |  
-| bip_39_word_new_line9 | hat
+| bip_39_word_new_line_9 | hat
 foam
 permit
 hurt

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | burst |  
-| bip_39_word_new_br10 | burst<br>blanket<br>peace<br>column<br>badge<br>bar<br>refuse<br>guess<br>diagram<br>genius |  
-| bip_39_word_new_br11 | burst<br>blanket<br>peace<br>column<br>badge<br>bar<br>refuse<br>guess<br>diagram<br>genius<br>mirror |  
-| bip_39_word_new_br12 | burst<br>blanket<br>peace<br>column<br>badge<br>bar<br>refuse<br>guess<br>diagram<br>genius<br>mirror<br>avocado |  
-| bip_39_word_new_br2 | burst<br>blanket |  
-| bip_39_word_new_br3 | burst<br>blanket<br>peace |  
-| bip_39_word_new_br4 | burst<br>blanket<br>peace<br>column |  
-| bip_39_word_new_br5 | burst<br>blanket<br>peace<br>column<br>badge |  
-| bip_39_word_new_br6 | burst<br>blanket<br>peace<br>column<br>badge<br>bar |  
-| bip_39_word_new_br7 | burst<br>blanket<br>peace<br>column<br>badge<br>bar<br>refuse |  
-| bip_39_word_new_br8 | burst<br>blanket<br>peace<br>column<br>badge<br>bar<br>refuse<br>guess |  
-| bip_39_word_new_br9 | burst<br>blanket<br>peace<br>column<br>badge<br>bar<br>refuse<br>guess<br>diagram |  
-| bip_39_word_new_line1 | burst |  
-| bip_39_word_new_line10 | burst
+| bip_39_word_new_br_1 | burst |  
+| bip_39_word_new_br_10 | burst<br>blanket<br>peace<br>column<br>badge<br>bar<br>refuse<br>guess<br>diagram<br>genius |  
+| bip_39_word_new_br_11 | burst<br>blanket<br>peace<br>column<br>badge<br>bar<br>refuse<br>guess<br>diagram<br>genius<br>mirror |  
+| bip_39_word_new_br_12 | burst<br>blanket<br>peace<br>column<br>badge<br>bar<br>refuse<br>guess<br>diagram<br>genius<br>mirror<br>avocado |  
+| bip_39_word_new_br_2 | burst<br>blanket |  
+| bip_39_word_new_br_3 | burst<br>blanket<br>peace |  
+| bip_39_word_new_br_4 | burst<br>blanket<br>peace<br>column |  
+| bip_39_word_new_br_5 | burst<br>blanket<br>peace<br>column<br>badge |  
+| bip_39_word_new_br_6 | burst<br>blanket<br>peace<br>column<br>badge<br>bar |  
+| bip_39_word_new_br_7 | burst<br>blanket<br>peace<br>column<br>badge<br>bar<br>refuse |  
+| bip_39_word_new_br_8 | burst<br>blanket<br>peace<br>column<br>badge<br>bar<br>refuse<br>guess |  
+| bip_39_word_new_br_9 | burst<br>blanket<br>peace<br>column<br>badge<br>bar<br>refuse<br>guess<br>diagram |  
+| bip_39_word_new_line_1 | burst |  
+| bip_39_word_new_line_10 | burst
 blanket
 peace
 column
@@ -55,7 +55,7 @@ refuse
 guess
 diagram
 genius |  
-| bip_39_word_new_line11 | burst
+| bip_39_word_new_line_11 | burst
 blanket
 peace
 column
@@ -66,7 +66,7 @@ guess
 diagram
 genius
 mirror |  
-| bip_39_word_new_line12 | burst
+| bip_39_word_new_line_12 | burst
 blanket
 peace
 column
@@ -78,34 +78,34 @@ diagram
 genius
 mirror
 avocado |  
-| bip_39_word_new_line2 | burst
+| bip_39_word_new_line_2 | burst
 blanket |  
-| bip_39_word_new_line3 | burst
+| bip_39_word_new_line_3 | burst
 blanket
 peace |  
-| bip_39_word_new_line4 | burst
+| bip_39_word_new_line_4 | burst
 blanket
 peace
 column |  
-| bip_39_word_new_line5 | burst
+| bip_39_word_new_line_5 | burst
 blanket
 peace
 column
 badge |  
-| bip_39_word_new_line6 | burst
+| bip_39_word_new_line_6 | burst
 blanket
 peace
 column
 badge
 bar |  
-| bip_39_word_new_line7 | burst
+| bip_39_word_new_line_7 | burst
 blanket
 peace
 column
 badge
 bar
 refuse |  
-| bip_39_word_new_line8 | burst
+| bip_39_word_new_line_8 | burst
 blanket
 peace
 column
@@ -113,7 +113,7 @@ badge
 bar
 refuse
 guess |  
-| bip_39_word_new_line9 | burst
+| bip_39_word_new_line_9 | burst
 blanket
 peace
 column

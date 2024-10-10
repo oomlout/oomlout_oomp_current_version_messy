@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | accident |  
-| bip_39_word_new_br10 | accident<br>point<br>fitness<br>ahead<br>timber<br>want<br>door<br>draw<br>detail<br>disease |  
-| bip_39_word_new_br11 | accident<br>point<br>fitness<br>ahead<br>timber<br>want<br>door<br>draw<br>detail<br>disease<br>toast |  
-| bip_39_word_new_br12 | accident<br>point<br>fitness<br>ahead<br>timber<br>want<br>door<br>draw<br>detail<br>disease<br>toast<br>antique |  
-| bip_39_word_new_br2 | accident<br>point |  
-| bip_39_word_new_br3 | accident<br>point<br>fitness |  
-| bip_39_word_new_br4 | accident<br>point<br>fitness<br>ahead |  
-| bip_39_word_new_br5 | accident<br>point<br>fitness<br>ahead<br>timber |  
-| bip_39_word_new_br6 | accident<br>point<br>fitness<br>ahead<br>timber<br>want |  
-| bip_39_word_new_br7 | accident<br>point<br>fitness<br>ahead<br>timber<br>want<br>door |  
-| bip_39_word_new_br8 | accident<br>point<br>fitness<br>ahead<br>timber<br>want<br>door<br>draw |  
-| bip_39_word_new_br9 | accident<br>point<br>fitness<br>ahead<br>timber<br>want<br>door<br>draw<br>detail |  
-| bip_39_word_new_line1 | accident |  
-| bip_39_word_new_line10 | accident
+| bip_39_word_new_br_1 | accident |  
+| bip_39_word_new_br_10 | accident<br>point<br>fitness<br>ahead<br>timber<br>want<br>door<br>draw<br>detail<br>disease |  
+| bip_39_word_new_br_11 | accident<br>point<br>fitness<br>ahead<br>timber<br>want<br>door<br>draw<br>detail<br>disease<br>toast |  
+| bip_39_word_new_br_12 | accident<br>point<br>fitness<br>ahead<br>timber<br>want<br>door<br>draw<br>detail<br>disease<br>toast<br>antique |  
+| bip_39_word_new_br_2 | accident<br>point |  
+| bip_39_word_new_br_3 | accident<br>point<br>fitness |  
+| bip_39_word_new_br_4 | accident<br>point<br>fitness<br>ahead |  
+| bip_39_word_new_br_5 | accident<br>point<br>fitness<br>ahead<br>timber |  
+| bip_39_word_new_br_6 | accident<br>point<br>fitness<br>ahead<br>timber<br>want |  
+| bip_39_word_new_br_7 | accident<br>point<br>fitness<br>ahead<br>timber<br>want<br>door |  
+| bip_39_word_new_br_8 | accident<br>point<br>fitness<br>ahead<br>timber<br>want<br>door<br>draw |  
+| bip_39_word_new_br_9 | accident<br>point<br>fitness<br>ahead<br>timber<br>want<br>door<br>draw<br>detail |  
+| bip_39_word_new_line_1 | accident |  
+| bip_39_word_new_line_10 | accident
 point
 fitness
 ahead
@@ -55,7 +55,7 @@ door
 draw
 detail
 disease |  
-| bip_39_word_new_line11 | accident
+| bip_39_word_new_line_11 | accident
 point
 fitness
 ahead
@@ -66,7 +66,7 @@ draw
 detail
 disease
 toast |  
-| bip_39_word_new_line12 | accident
+| bip_39_word_new_line_12 | accident
 point
 fitness
 ahead
@@ -78,34 +78,34 @@ detail
 disease
 toast
 antique |  
-| bip_39_word_new_line2 | accident
+| bip_39_word_new_line_2 | accident
 point |  
-| bip_39_word_new_line3 | accident
+| bip_39_word_new_line_3 | accident
 point
 fitness |  
-| bip_39_word_new_line4 | accident
+| bip_39_word_new_line_4 | accident
 point
 fitness
 ahead |  
-| bip_39_word_new_line5 | accident
+| bip_39_word_new_line_5 | accident
 point
 fitness
 ahead
 timber |  
-| bip_39_word_new_line6 | accident
+| bip_39_word_new_line_6 | accident
 point
 fitness
 ahead
 timber
 want |  
-| bip_39_word_new_line7 | accident
+| bip_39_word_new_line_7 | accident
 point
 fitness
 ahead
 timber
 want
 door |  
-| bip_39_word_new_line8 | accident
+| bip_39_word_new_line_8 | accident
 point
 fitness
 ahead
@@ -113,7 +113,7 @@ timber
 want
 door
 draw |  
-| bip_39_word_new_line9 | accident
+| bip_39_word_new_line_9 | accident
 point
 fitness
 ahead

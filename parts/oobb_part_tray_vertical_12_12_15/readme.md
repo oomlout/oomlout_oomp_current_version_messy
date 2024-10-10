@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | net |  
-| bip_39_word_new_br10 | net<br>miss<br>capable<br>panda<br>brain<br>begin<br>crucial<br>joke<br>logic<br>taxi |  
-| bip_39_word_new_br11 | net<br>miss<br>capable<br>panda<br>brain<br>begin<br>crucial<br>joke<br>logic<br>taxi<br>ask |  
-| bip_39_word_new_br12 | net<br>miss<br>capable<br>panda<br>brain<br>begin<br>crucial<br>joke<br>logic<br>taxi<br>ask<br>army |  
-| bip_39_word_new_br2 | net<br>miss |  
-| bip_39_word_new_br3 | net<br>miss<br>capable |  
-| bip_39_word_new_br4 | net<br>miss<br>capable<br>panda |  
-| bip_39_word_new_br5 | net<br>miss<br>capable<br>panda<br>brain |  
-| bip_39_word_new_br6 | net<br>miss<br>capable<br>panda<br>brain<br>begin |  
-| bip_39_word_new_br7 | net<br>miss<br>capable<br>panda<br>brain<br>begin<br>crucial |  
-| bip_39_word_new_br8 | net<br>miss<br>capable<br>panda<br>brain<br>begin<br>crucial<br>joke |  
-| bip_39_word_new_br9 | net<br>miss<br>capable<br>panda<br>brain<br>begin<br>crucial<br>joke<br>logic |  
-| bip_39_word_new_line1 | net |  
-| bip_39_word_new_line10 | net
+| bip_39_word_new_br_1 | net |  
+| bip_39_word_new_br_10 | net<br>miss<br>capable<br>panda<br>brain<br>begin<br>crucial<br>joke<br>logic<br>taxi |  
+| bip_39_word_new_br_11 | net<br>miss<br>capable<br>panda<br>brain<br>begin<br>crucial<br>joke<br>logic<br>taxi<br>ask |  
+| bip_39_word_new_br_12 | net<br>miss<br>capable<br>panda<br>brain<br>begin<br>crucial<br>joke<br>logic<br>taxi<br>ask<br>army |  
+| bip_39_word_new_br_2 | net<br>miss |  
+| bip_39_word_new_br_3 | net<br>miss<br>capable |  
+| bip_39_word_new_br_4 | net<br>miss<br>capable<br>panda |  
+| bip_39_word_new_br_5 | net<br>miss<br>capable<br>panda<br>brain |  
+| bip_39_word_new_br_6 | net<br>miss<br>capable<br>panda<br>brain<br>begin |  
+| bip_39_word_new_br_7 | net<br>miss<br>capable<br>panda<br>brain<br>begin<br>crucial |  
+| bip_39_word_new_br_8 | net<br>miss<br>capable<br>panda<br>brain<br>begin<br>crucial<br>joke |  
+| bip_39_word_new_br_9 | net<br>miss<br>capable<br>panda<br>brain<br>begin<br>crucial<br>joke<br>logic |  
+| bip_39_word_new_line_1 | net |  
+| bip_39_word_new_line_10 | net
 miss
 capable
 panda
@@ -55,7 +55,7 @@ crucial
 joke
 logic
 taxi |  
-| bip_39_word_new_line11 | net
+| bip_39_word_new_line_11 | net
 miss
 capable
 panda
@@ -66,7 +66,7 @@ joke
 logic
 taxi
 ask |  
-| bip_39_word_new_line12 | net
+| bip_39_word_new_line_12 | net
 miss
 capable
 panda
@@ -78,34 +78,34 @@ logic
 taxi
 ask
 army |  
-| bip_39_word_new_line2 | net
+| bip_39_word_new_line_2 | net
 miss |  
-| bip_39_word_new_line3 | net
+| bip_39_word_new_line_3 | net
 miss
 capable |  
-| bip_39_word_new_line4 | net
+| bip_39_word_new_line_4 | net
 miss
 capable
 panda |  
-| bip_39_word_new_line5 | net
+| bip_39_word_new_line_5 | net
 miss
 capable
 panda
 brain |  
-| bip_39_word_new_line6 | net
+| bip_39_word_new_line_6 | net
 miss
 capable
 panda
 brain
 begin |  
-| bip_39_word_new_line7 | net
+| bip_39_word_new_line_7 | net
 miss
 capable
 panda
 brain
 begin
 crucial |  
-| bip_39_word_new_line8 | net
+| bip_39_word_new_line_8 | net
 miss
 capable
 panda
@@ -113,7 +113,7 @@ brain
 begin
 crucial
 joke |  
-| bip_39_word_new_line9 | net
+| bip_39_word_new_line_9 | net
 miss
 capable
 panda

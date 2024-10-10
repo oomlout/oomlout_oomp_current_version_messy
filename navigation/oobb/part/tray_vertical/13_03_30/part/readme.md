@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | burden |  
-| bip_39_word_new_br10 | burden<br>deputy<br>faith<br>require<br>laptop<br>scrub<br>grit<br>extend<br>again<br>oven |  
-| bip_39_word_new_br11 | burden<br>deputy<br>faith<br>require<br>laptop<br>scrub<br>grit<br>extend<br>again<br>oven<br>live |  
-| bip_39_word_new_br12 | burden<br>deputy<br>faith<br>require<br>laptop<br>scrub<br>grit<br>extend<br>again<br>oven<br>live<br>average |  
-| bip_39_word_new_br2 | burden<br>deputy |  
-| bip_39_word_new_br3 | burden<br>deputy<br>faith |  
-| bip_39_word_new_br4 | burden<br>deputy<br>faith<br>require |  
-| bip_39_word_new_br5 | burden<br>deputy<br>faith<br>require<br>laptop |  
-| bip_39_word_new_br6 | burden<br>deputy<br>faith<br>require<br>laptop<br>scrub |  
-| bip_39_word_new_br7 | burden<br>deputy<br>faith<br>require<br>laptop<br>scrub<br>grit |  
-| bip_39_word_new_br8 | burden<br>deputy<br>faith<br>require<br>laptop<br>scrub<br>grit<br>extend |  
-| bip_39_word_new_br9 | burden<br>deputy<br>faith<br>require<br>laptop<br>scrub<br>grit<br>extend<br>again |  
-| bip_39_word_new_line1 | burden |  
-| bip_39_word_new_line10 | burden
+| bip_39_word_new_br_1 | burden |  
+| bip_39_word_new_br_10 | burden<br>deputy<br>faith<br>require<br>laptop<br>scrub<br>grit<br>extend<br>again<br>oven |  
+| bip_39_word_new_br_11 | burden<br>deputy<br>faith<br>require<br>laptop<br>scrub<br>grit<br>extend<br>again<br>oven<br>live |  
+| bip_39_word_new_br_12 | burden<br>deputy<br>faith<br>require<br>laptop<br>scrub<br>grit<br>extend<br>again<br>oven<br>live<br>average |  
+| bip_39_word_new_br_2 | burden<br>deputy |  
+| bip_39_word_new_br_3 | burden<br>deputy<br>faith |  
+| bip_39_word_new_br_4 | burden<br>deputy<br>faith<br>require |  
+| bip_39_word_new_br_5 | burden<br>deputy<br>faith<br>require<br>laptop |  
+| bip_39_word_new_br_6 | burden<br>deputy<br>faith<br>require<br>laptop<br>scrub |  
+| bip_39_word_new_br_7 | burden<br>deputy<br>faith<br>require<br>laptop<br>scrub<br>grit |  
+| bip_39_word_new_br_8 | burden<br>deputy<br>faith<br>require<br>laptop<br>scrub<br>grit<br>extend |  
+| bip_39_word_new_br_9 | burden<br>deputy<br>faith<br>require<br>laptop<br>scrub<br>grit<br>extend<br>again |  
+| bip_39_word_new_line_1 | burden |  
+| bip_39_word_new_line_10 | burden
 deputy
 faith
 require
@@ -55,7 +55,7 @@ grit
 extend
 again
 oven |  
-| bip_39_word_new_line11 | burden
+| bip_39_word_new_line_11 | burden
 deputy
 faith
 require
@@ -66,7 +66,7 @@ extend
 again
 oven
 live |  
-| bip_39_word_new_line12 | burden
+| bip_39_word_new_line_12 | burden
 deputy
 faith
 require
@@ -78,34 +78,34 @@ again
 oven
 live
 average |  
-| bip_39_word_new_line2 | burden
+| bip_39_word_new_line_2 | burden
 deputy |  
-| bip_39_word_new_line3 | burden
+| bip_39_word_new_line_3 | burden
 deputy
 faith |  
-| bip_39_word_new_line4 | burden
+| bip_39_word_new_line_4 | burden
 deputy
 faith
 require |  
-| bip_39_word_new_line5 | burden
+| bip_39_word_new_line_5 | burden
 deputy
 faith
 require
 laptop |  
-| bip_39_word_new_line6 | burden
+| bip_39_word_new_line_6 | burden
 deputy
 faith
 require
 laptop
 scrub |  
-| bip_39_word_new_line7 | burden
+| bip_39_word_new_line_7 | burden
 deputy
 faith
 require
 laptop
 scrub
 grit |  
-| bip_39_word_new_line8 | burden
+| bip_39_word_new_line_8 | burden
 deputy
 faith
 require
@@ -113,7 +113,7 @@ laptop
 scrub
 grit
 extend |  
-| bip_39_word_new_line9 | burden
+| bip_39_word_new_line_9 | burden
 deputy
 faith
 require

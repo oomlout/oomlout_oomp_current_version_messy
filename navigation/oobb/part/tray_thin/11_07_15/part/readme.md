@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | critic |  
-| bip_39_word_new_br10 | critic<br>twist<br>balcony<br>wet<br>virtual<br>bus<br>tube<br>palm<br>miracle<br>salmon |  
-| bip_39_word_new_br11 | critic<br>twist<br>balcony<br>wet<br>virtual<br>bus<br>tube<br>palm<br>miracle<br>salmon<br>tip |  
-| bip_39_word_new_br2 | critic<br>twist |  
-| bip_39_word_new_br3 | critic<br>twist<br>balcony |  
-| bip_39_word_new_br4 | critic<br>twist<br>balcony<br>wet |  
-| bip_39_word_new_br5 | critic<br>twist<br>balcony<br>wet<br>virtual |  
-| bip_39_word_new_br6 | critic<br>twist<br>balcony<br>wet<br>virtual<br>bus |  
-| bip_39_word_new_br7 | critic<br>twist<br>balcony<br>wet<br>virtual<br>bus<br>tube |  
-| bip_39_word_new_br8 | critic<br>twist<br>balcony<br>wet<br>virtual<br>bus<br>tube<br>palm |  
-| bip_39_word_new_br9 | critic<br>twist<br>balcony<br>wet<br>virtual<br>bus<br>tube<br>palm<br>miracle |  
-| bip_39_word_new_line1 | critic |  
-| bip_39_word_new_line10 | critic
+| bip_39_word_new_br_1 | critic |  
+| bip_39_word_new_br_10 | critic<br>twist<br>balcony<br>wet<br>virtual<br>bus<br>tube<br>palm<br>miracle<br>salmon |  
+| bip_39_word_new_br_11 | critic<br>twist<br>balcony<br>wet<br>virtual<br>bus<br>tube<br>palm<br>miracle<br>salmon<br>tip |  
+| bip_39_word_new_br_2 | critic<br>twist |  
+| bip_39_word_new_br_3 | critic<br>twist<br>balcony |  
+| bip_39_word_new_br_4 | critic<br>twist<br>balcony<br>wet |  
+| bip_39_word_new_br_5 | critic<br>twist<br>balcony<br>wet<br>virtual |  
+| bip_39_word_new_br_6 | critic<br>twist<br>balcony<br>wet<br>virtual<br>bus |  
+| bip_39_word_new_br_7 | critic<br>twist<br>balcony<br>wet<br>virtual<br>bus<br>tube |  
+| bip_39_word_new_br_8 | critic<br>twist<br>balcony<br>wet<br>virtual<br>bus<br>tube<br>palm |  
+| bip_39_word_new_br_9 | critic<br>twist<br>balcony<br>wet<br>virtual<br>bus<br>tube<br>palm<br>miracle |  
+| bip_39_word_new_line_1 | critic |  
+| bip_39_word_new_line_10 | critic
 twist
 balcony
 wet
@@ -54,7 +54,7 @@ tube
 palm
 miracle
 salmon |  
-| bip_39_word_new_line11 | critic
+| bip_39_word_new_line_11 | critic
 twist
 balcony
 wet
@@ -65,34 +65,34 @@ palm
 miracle
 salmon
 tip |  
-| bip_39_word_new_line2 | critic
+| bip_39_word_new_line_2 | critic
 twist |  
-| bip_39_word_new_line3 | critic
+| bip_39_word_new_line_3 | critic
 twist
 balcony |  
-| bip_39_word_new_line4 | critic
+| bip_39_word_new_line_4 | critic
 twist
 balcony
 wet |  
-| bip_39_word_new_line5 | critic
+| bip_39_word_new_line_5 | critic
 twist
 balcony
 wet
 virtual |  
-| bip_39_word_new_line6 | critic
+| bip_39_word_new_line_6 | critic
 twist
 balcony
 wet
 virtual
 bus |  
-| bip_39_word_new_line7 | critic
+| bip_39_word_new_line_7 | critic
 twist
 balcony
 wet
 virtual
 bus
 tube |  
-| bip_39_word_new_line8 | critic
+| bip_39_word_new_line_8 | critic
 twist
 balcony
 wet
@@ -100,7 +100,7 @@ virtual
 bus
 tube
 palm |  
-| bip_39_word_new_line9 | critic
+| bip_39_word_new_line_9 | critic
 twist
 balcony
 wet

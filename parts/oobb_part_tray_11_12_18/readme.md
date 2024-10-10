@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dutch |  
-| bip_39_word_new_br10 | dutch<br>ripple<br>security<br>gas<br>floor<br>orbit<br>west<br>twenty<br>host<br>ocean |  
-| bip_39_word_new_br11 | dutch<br>ripple<br>security<br>gas<br>floor<br>orbit<br>west<br>twenty<br>host<br>ocean<br>fine |  
-| bip_39_word_new_br12 | dutch<br>ripple<br>security<br>gas<br>floor<br>orbit<br>west<br>twenty<br>host<br>ocean<br>fine<br>ability |  
-| bip_39_word_new_br2 | dutch<br>ripple |  
-| bip_39_word_new_br3 | dutch<br>ripple<br>security |  
-| bip_39_word_new_br4 | dutch<br>ripple<br>security<br>gas |  
-| bip_39_word_new_br5 | dutch<br>ripple<br>security<br>gas<br>floor |  
-| bip_39_word_new_br6 | dutch<br>ripple<br>security<br>gas<br>floor<br>orbit |  
-| bip_39_word_new_br7 | dutch<br>ripple<br>security<br>gas<br>floor<br>orbit<br>west |  
-| bip_39_word_new_br8 | dutch<br>ripple<br>security<br>gas<br>floor<br>orbit<br>west<br>twenty |  
-| bip_39_word_new_br9 | dutch<br>ripple<br>security<br>gas<br>floor<br>orbit<br>west<br>twenty<br>host |  
-| bip_39_word_new_line1 | dutch |  
-| bip_39_word_new_line10 | dutch
+| bip_39_word_new_br_1 | dutch |  
+| bip_39_word_new_br_10 | dutch<br>ripple<br>security<br>gas<br>floor<br>orbit<br>west<br>twenty<br>host<br>ocean |  
+| bip_39_word_new_br_11 | dutch<br>ripple<br>security<br>gas<br>floor<br>orbit<br>west<br>twenty<br>host<br>ocean<br>fine |  
+| bip_39_word_new_br_12 | dutch<br>ripple<br>security<br>gas<br>floor<br>orbit<br>west<br>twenty<br>host<br>ocean<br>fine<br>ability |  
+| bip_39_word_new_br_2 | dutch<br>ripple |  
+| bip_39_word_new_br_3 | dutch<br>ripple<br>security |  
+| bip_39_word_new_br_4 | dutch<br>ripple<br>security<br>gas |  
+| bip_39_word_new_br_5 | dutch<br>ripple<br>security<br>gas<br>floor |  
+| bip_39_word_new_br_6 | dutch<br>ripple<br>security<br>gas<br>floor<br>orbit |  
+| bip_39_word_new_br_7 | dutch<br>ripple<br>security<br>gas<br>floor<br>orbit<br>west |  
+| bip_39_word_new_br_8 | dutch<br>ripple<br>security<br>gas<br>floor<br>orbit<br>west<br>twenty |  
+| bip_39_word_new_br_9 | dutch<br>ripple<br>security<br>gas<br>floor<br>orbit<br>west<br>twenty<br>host |  
+| bip_39_word_new_line_1 | dutch |  
+| bip_39_word_new_line_10 | dutch
 ripple
 security
 gas
@@ -55,7 +55,7 @@ west
 twenty
 host
 ocean |  
-| bip_39_word_new_line11 | dutch
+| bip_39_word_new_line_11 | dutch
 ripple
 security
 gas
@@ -66,7 +66,7 @@ twenty
 host
 ocean
 fine |  
-| bip_39_word_new_line12 | dutch
+| bip_39_word_new_line_12 | dutch
 ripple
 security
 gas
@@ -78,34 +78,34 @@ host
 ocean
 fine
 ability |  
-| bip_39_word_new_line2 | dutch
+| bip_39_word_new_line_2 | dutch
 ripple |  
-| bip_39_word_new_line3 | dutch
+| bip_39_word_new_line_3 | dutch
 ripple
 security |  
-| bip_39_word_new_line4 | dutch
+| bip_39_word_new_line_4 | dutch
 ripple
 security
 gas |  
-| bip_39_word_new_line5 | dutch
+| bip_39_word_new_line_5 | dutch
 ripple
 security
 gas
 floor |  
-| bip_39_word_new_line6 | dutch
+| bip_39_word_new_line_6 | dutch
 ripple
 security
 gas
 floor
 orbit |  
-| bip_39_word_new_line7 | dutch
+| bip_39_word_new_line_7 | dutch
 ripple
 security
 gas
 floor
 orbit
 west |  
-| bip_39_word_new_line8 | dutch
+| bip_39_word_new_line_8 | dutch
 ripple
 security
 gas
@@ -113,7 +113,7 @@ floor
 orbit
 west
 twenty |  
-| bip_39_word_new_line9 | dutch
+| bip_39_word_new_line_9 | dutch
 ripple
 security
 gas

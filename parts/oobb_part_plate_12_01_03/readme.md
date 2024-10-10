@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | never |  
-| bip_39_word_new_br10 | never<br>width<br>later<br>neither<br>brain<br>junior<br>best<br>region<br>letter<br>cable |  
-| bip_39_word_new_br11 | never<br>width<br>later<br>neither<br>brain<br>junior<br>best<br>region<br>letter<br>cable<br>dignity |  
-| bip_39_word_new_br12 | never<br>width<br>later<br>neither<br>brain<br>junior<br>best<br>region<br>letter<br>cable<br>dignity<br>adjust |  
-| bip_39_word_new_br2 | never<br>width |  
-| bip_39_word_new_br3 | never<br>width<br>later |  
-| bip_39_word_new_br4 | never<br>width<br>later<br>neither |  
-| bip_39_word_new_br5 | never<br>width<br>later<br>neither<br>brain |  
-| bip_39_word_new_br6 | never<br>width<br>later<br>neither<br>brain<br>junior |  
-| bip_39_word_new_br7 | never<br>width<br>later<br>neither<br>brain<br>junior<br>best |  
-| bip_39_word_new_br8 | never<br>width<br>later<br>neither<br>brain<br>junior<br>best<br>region |  
-| bip_39_word_new_br9 | never<br>width<br>later<br>neither<br>brain<br>junior<br>best<br>region<br>letter |  
-| bip_39_word_new_line1 | never |  
-| bip_39_word_new_line10 | never
+| bip_39_word_new_br_1 | never |  
+| bip_39_word_new_br_10 | never<br>width<br>later<br>neither<br>brain<br>junior<br>best<br>region<br>letter<br>cable |  
+| bip_39_word_new_br_11 | never<br>width<br>later<br>neither<br>brain<br>junior<br>best<br>region<br>letter<br>cable<br>dignity |  
+| bip_39_word_new_br_12 | never<br>width<br>later<br>neither<br>brain<br>junior<br>best<br>region<br>letter<br>cable<br>dignity<br>adjust |  
+| bip_39_word_new_br_2 | never<br>width |  
+| bip_39_word_new_br_3 | never<br>width<br>later |  
+| bip_39_word_new_br_4 | never<br>width<br>later<br>neither |  
+| bip_39_word_new_br_5 | never<br>width<br>later<br>neither<br>brain |  
+| bip_39_word_new_br_6 | never<br>width<br>later<br>neither<br>brain<br>junior |  
+| bip_39_word_new_br_7 | never<br>width<br>later<br>neither<br>brain<br>junior<br>best |  
+| bip_39_word_new_br_8 | never<br>width<br>later<br>neither<br>brain<br>junior<br>best<br>region |  
+| bip_39_word_new_br_9 | never<br>width<br>later<br>neither<br>brain<br>junior<br>best<br>region<br>letter |  
+| bip_39_word_new_line_1 | never |  
+| bip_39_word_new_line_10 | never
 width
 later
 neither
@@ -55,7 +55,7 @@ best
 region
 letter
 cable |  
-| bip_39_word_new_line11 | never
+| bip_39_word_new_line_11 | never
 width
 later
 neither
@@ -66,7 +66,7 @@ region
 letter
 cable
 dignity |  
-| bip_39_word_new_line12 | never
+| bip_39_word_new_line_12 | never
 width
 later
 neither
@@ -78,34 +78,34 @@ letter
 cable
 dignity
 adjust |  
-| bip_39_word_new_line2 | never
+| bip_39_word_new_line_2 | never
 width |  
-| bip_39_word_new_line3 | never
+| bip_39_word_new_line_3 | never
 width
 later |  
-| bip_39_word_new_line4 | never
+| bip_39_word_new_line_4 | never
 width
 later
 neither |  
-| bip_39_word_new_line5 | never
+| bip_39_word_new_line_5 | never
 width
 later
 neither
 brain |  
-| bip_39_word_new_line6 | never
+| bip_39_word_new_line_6 | never
 width
 later
 neither
 brain
 junior |  
-| bip_39_word_new_line7 | never
+| bip_39_word_new_line_7 | never
 width
 later
 neither
 brain
 junior
 best |  
-| bip_39_word_new_line8 | never
+| bip_39_word_new_line_8 | never
 width
 later
 neither
@@ -113,7 +113,7 @@ brain
 junior
 best
 region |  
-| bip_39_word_new_line9 | never
+| bip_39_word_new_line_9 | never
 width
 later
 neither

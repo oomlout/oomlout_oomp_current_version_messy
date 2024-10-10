@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hub |  
-| bip_39_word_new_br10 | hub<br>steak<br>fame<br>glimpse<br>future<br>album<br>bind<br>mimic<br>armed<br>kit |  
-| bip_39_word_new_br11 | hub<br>steak<br>fame<br>glimpse<br>future<br>album<br>bind<br>mimic<br>armed<br>kit<br>road |  
-| bip_39_word_new_br12 | hub<br>steak<br>fame<br>glimpse<br>future<br>album<br>bind<br>mimic<br>armed<br>kit<br>road<br>alter |  
-| bip_39_word_new_br2 | hub<br>steak |  
-| bip_39_word_new_br3 | hub<br>steak<br>fame |  
-| bip_39_word_new_br4 | hub<br>steak<br>fame<br>glimpse |  
-| bip_39_word_new_br5 | hub<br>steak<br>fame<br>glimpse<br>future |  
-| bip_39_word_new_br6 | hub<br>steak<br>fame<br>glimpse<br>future<br>album |  
-| bip_39_word_new_br7 | hub<br>steak<br>fame<br>glimpse<br>future<br>album<br>bind |  
-| bip_39_word_new_br8 | hub<br>steak<br>fame<br>glimpse<br>future<br>album<br>bind<br>mimic |  
-| bip_39_word_new_br9 | hub<br>steak<br>fame<br>glimpse<br>future<br>album<br>bind<br>mimic<br>armed |  
-| bip_39_word_new_line1 | hub |  
-| bip_39_word_new_line10 | hub
+| bip_39_word_new_br_1 | hub |  
+| bip_39_word_new_br_10 | hub<br>steak<br>fame<br>glimpse<br>future<br>album<br>bind<br>mimic<br>armed<br>kit |  
+| bip_39_word_new_br_11 | hub<br>steak<br>fame<br>glimpse<br>future<br>album<br>bind<br>mimic<br>armed<br>kit<br>road |  
+| bip_39_word_new_br_12 | hub<br>steak<br>fame<br>glimpse<br>future<br>album<br>bind<br>mimic<br>armed<br>kit<br>road<br>alter |  
+| bip_39_word_new_br_2 | hub<br>steak |  
+| bip_39_word_new_br_3 | hub<br>steak<br>fame |  
+| bip_39_word_new_br_4 | hub<br>steak<br>fame<br>glimpse |  
+| bip_39_word_new_br_5 | hub<br>steak<br>fame<br>glimpse<br>future |  
+| bip_39_word_new_br_6 | hub<br>steak<br>fame<br>glimpse<br>future<br>album |  
+| bip_39_word_new_br_7 | hub<br>steak<br>fame<br>glimpse<br>future<br>album<br>bind |  
+| bip_39_word_new_br_8 | hub<br>steak<br>fame<br>glimpse<br>future<br>album<br>bind<br>mimic |  
+| bip_39_word_new_br_9 | hub<br>steak<br>fame<br>glimpse<br>future<br>album<br>bind<br>mimic<br>armed |  
+| bip_39_word_new_line_1 | hub |  
+| bip_39_word_new_line_10 | hub
 steak
 fame
 glimpse
@@ -55,7 +55,7 @@ bind
 mimic
 armed
 kit |  
-| bip_39_word_new_line11 | hub
+| bip_39_word_new_line_11 | hub
 steak
 fame
 glimpse
@@ -66,7 +66,7 @@ mimic
 armed
 kit
 road |  
-| bip_39_word_new_line12 | hub
+| bip_39_word_new_line_12 | hub
 steak
 fame
 glimpse
@@ -78,34 +78,34 @@ armed
 kit
 road
 alter |  
-| bip_39_word_new_line2 | hub
+| bip_39_word_new_line_2 | hub
 steak |  
-| bip_39_word_new_line3 | hub
+| bip_39_word_new_line_3 | hub
 steak
 fame |  
-| bip_39_word_new_line4 | hub
+| bip_39_word_new_line_4 | hub
 steak
 fame
 glimpse |  
-| bip_39_word_new_line5 | hub
+| bip_39_word_new_line_5 | hub
 steak
 fame
 glimpse
 future |  
-| bip_39_word_new_line6 | hub
+| bip_39_word_new_line_6 | hub
 steak
 fame
 glimpse
 future
 album |  
-| bip_39_word_new_line7 | hub
+| bip_39_word_new_line_7 | hub
 steak
 fame
 glimpse
 future
 album
 bind |  
-| bip_39_word_new_line8 | hub
+| bip_39_word_new_line_8 | hub
 steak
 fame
 glimpse
@@ -113,7 +113,7 @@ future
 album
 bind
 mimic |  
-| bip_39_word_new_line9 | hub
+| bip_39_word_new_line_9 | hub
 steak
 fame
 glimpse

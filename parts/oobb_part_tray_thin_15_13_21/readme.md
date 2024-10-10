@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | one |  
-| bip_39_word_new_br10 | one<br>anchor<br>shield<br>staff<br>man<br>giggle<br>guilt<br>human<br>art<br>select |  
-| bip_39_word_new_br11 | one<br>anchor<br>shield<br>staff<br>man<br>giggle<br>guilt<br>human<br>art<br>select<br>lock |  
-| bip_39_word_new_br12 | one<br>anchor<br>shield<br>staff<br>man<br>giggle<br>guilt<br>human<br>art<br>select<br>lock<br>actress |  
-| bip_39_word_new_br2 | one<br>anchor |  
-| bip_39_word_new_br3 | one<br>anchor<br>shield |  
-| bip_39_word_new_br4 | one<br>anchor<br>shield<br>staff |  
-| bip_39_word_new_br5 | one<br>anchor<br>shield<br>staff<br>man |  
-| bip_39_word_new_br6 | one<br>anchor<br>shield<br>staff<br>man<br>giggle |  
-| bip_39_word_new_br7 | one<br>anchor<br>shield<br>staff<br>man<br>giggle<br>guilt |  
-| bip_39_word_new_br8 | one<br>anchor<br>shield<br>staff<br>man<br>giggle<br>guilt<br>human |  
-| bip_39_word_new_br9 | one<br>anchor<br>shield<br>staff<br>man<br>giggle<br>guilt<br>human<br>art |  
-| bip_39_word_new_line1 | one |  
-| bip_39_word_new_line10 | one
+| bip_39_word_new_br_1 | one |  
+| bip_39_word_new_br_10 | one<br>anchor<br>shield<br>staff<br>man<br>giggle<br>guilt<br>human<br>art<br>select |  
+| bip_39_word_new_br_11 | one<br>anchor<br>shield<br>staff<br>man<br>giggle<br>guilt<br>human<br>art<br>select<br>lock |  
+| bip_39_word_new_br_12 | one<br>anchor<br>shield<br>staff<br>man<br>giggle<br>guilt<br>human<br>art<br>select<br>lock<br>actress |  
+| bip_39_word_new_br_2 | one<br>anchor |  
+| bip_39_word_new_br_3 | one<br>anchor<br>shield |  
+| bip_39_word_new_br_4 | one<br>anchor<br>shield<br>staff |  
+| bip_39_word_new_br_5 | one<br>anchor<br>shield<br>staff<br>man |  
+| bip_39_word_new_br_6 | one<br>anchor<br>shield<br>staff<br>man<br>giggle |  
+| bip_39_word_new_br_7 | one<br>anchor<br>shield<br>staff<br>man<br>giggle<br>guilt |  
+| bip_39_word_new_br_8 | one<br>anchor<br>shield<br>staff<br>man<br>giggle<br>guilt<br>human |  
+| bip_39_word_new_br_9 | one<br>anchor<br>shield<br>staff<br>man<br>giggle<br>guilt<br>human<br>art |  
+| bip_39_word_new_line_1 | one |  
+| bip_39_word_new_line_10 | one
 anchor
 shield
 staff
@@ -55,7 +55,7 @@ guilt
 human
 art
 select |  
-| bip_39_word_new_line11 | one
+| bip_39_word_new_line_11 | one
 anchor
 shield
 staff
@@ -66,7 +66,7 @@ human
 art
 select
 lock |  
-| bip_39_word_new_line12 | one
+| bip_39_word_new_line_12 | one
 anchor
 shield
 staff
@@ -78,34 +78,34 @@ art
 select
 lock
 actress |  
-| bip_39_word_new_line2 | one
+| bip_39_word_new_line_2 | one
 anchor |  
-| bip_39_word_new_line3 | one
+| bip_39_word_new_line_3 | one
 anchor
 shield |  
-| bip_39_word_new_line4 | one
+| bip_39_word_new_line_4 | one
 anchor
 shield
 staff |  
-| bip_39_word_new_line5 | one
+| bip_39_word_new_line_5 | one
 anchor
 shield
 staff
 man |  
-| bip_39_word_new_line6 | one
+| bip_39_word_new_line_6 | one
 anchor
 shield
 staff
 man
 giggle |  
-| bip_39_word_new_line7 | one
+| bip_39_word_new_line_7 | one
 anchor
 shield
 staff
 man
 giggle
 guilt |  
-| bip_39_word_new_line8 | one
+| bip_39_word_new_line_8 | one
 anchor
 shield
 staff
@@ -113,7 +113,7 @@ man
 giggle
 guilt
 human |  
-| bip_39_word_new_line9 | one
+| bip_39_word_new_line_9 | one
 anchor
 shield
 staff

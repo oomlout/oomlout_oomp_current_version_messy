@@ -1,17 +1,17 @@
-bip_39_word_new_br1: orchard
-bip_39_word_new_br10: orchard<br>any<br>genuine<br>total<br>seek<br>doctor<br>ostrich<br>rent<br>rug<br>side
-bip_39_word_new_br11: orchard<br>any<br>genuine<br>total<br>seek<br>doctor<br>ostrich<br>rent<br>rug<br>side<br>level
-bip_39_word_new_br12: orchard<br>any<br>genuine<br>total<br>seek<br>doctor<br>ostrich<br>rent<br>rug<br>side<br>level<br>afford
-bip_39_word_new_br2: orchard<br>any
-bip_39_word_new_br3: orchard<br>any<br>genuine
-bip_39_word_new_br4: orchard<br>any<br>genuine<br>total
-bip_39_word_new_br5: orchard<br>any<br>genuine<br>total<br>seek
-bip_39_word_new_br6: orchard<br>any<br>genuine<br>total<br>seek<br>doctor
-bip_39_word_new_br7: orchard<br>any<br>genuine<br>total<br>seek<br>doctor<br>ostrich
-bip_39_word_new_br8: orchard<br>any<br>genuine<br>total<br>seek<br>doctor<br>ostrich<br>rent
-bip_39_word_new_br9: orchard<br>any<br>genuine<br>total<br>seek<br>doctor<br>ostrich<br>rent<br>rug
-bip_39_word_new_line1: orchard
-bip_39_word_new_line10: 'orchard
+bip_39_word_new_br_1: orchard
+bip_39_word_new_br_10: orchard<br>any<br>genuine<br>total<br>seek<br>doctor<br>ostrich<br>rent<br>rug<br>side
+bip_39_word_new_br_11: orchard<br>any<br>genuine<br>total<br>seek<br>doctor<br>ostrich<br>rent<br>rug<br>side<br>level
+bip_39_word_new_br_12: orchard<br>any<br>genuine<br>total<br>seek<br>doctor<br>ostrich<br>rent<br>rug<br>side<br>level<br>afford
+bip_39_word_new_br_2: orchard<br>any
+bip_39_word_new_br_3: orchard<br>any<br>genuine
+bip_39_word_new_br_4: orchard<br>any<br>genuine<br>total
+bip_39_word_new_br_5: orchard<br>any<br>genuine<br>total<br>seek
+bip_39_word_new_br_6: orchard<br>any<br>genuine<br>total<br>seek<br>doctor
+bip_39_word_new_br_7: orchard<br>any<br>genuine<br>total<br>seek<br>doctor<br>ostrich
+bip_39_word_new_br_8: orchard<br>any<br>genuine<br>total<br>seek<br>doctor<br>ostrich<br>rent
+bip_39_word_new_br_9: orchard<br>any<br>genuine<br>total<br>seek<br>doctor<br>ostrich<br>rent<br>rug
+bip_39_word_new_line_1: orchard
+bip_39_word_new_line_10: 'orchard
 
   any
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'orchard
   rug
 
   side'
-bip_39_word_new_line11: 'orchard
+bip_39_word_new_line_11: 'orchard
 
   any
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'orchard
   side
 
   level'
-bip_39_word_new_line12: 'orchard
+bip_39_word_new_line_12: 'orchard
 
   any
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'orchard
   level
 
   afford'
-bip_39_word_new_line2: 'orchard
+bip_39_word_new_line_2: 'orchard
 
   any'
-bip_39_word_new_line3: 'orchard
+bip_39_word_new_line_3: 'orchard
 
   any
 
   genuine'
-bip_39_word_new_line4: 'orchard
+bip_39_word_new_line_4: 'orchard
 
   any
 
   genuine
 
   total'
-bip_39_word_new_line5: 'orchard
+bip_39_word_new_line_5: 'orchard
 
   any
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'orchard
   total
 
   seek'
-bip_39_word_new_line6: 'orchard
+bip_39_word_new_line_6: 'orchard
 
   any
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'orchard
   seek
 
   doctor'
-bip_39_word_new_line7: 'orchard
+bip_39_word_new_line_7: 'orchard
 
   any
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'orchard
   doctor
 
   ostrich'
-bip_39_word_new_line8: 'orchard
+bip_39_word_new_line_8: 'orchard
 
   any
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'orchard
   ostrich
 
   rent'
-bip_39_word_new_line9: 'orchard
+bip_39_word_new_line_9: 'orchard
 
   any
 

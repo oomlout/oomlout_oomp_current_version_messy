@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | leave |  
-| bip_39_word_new_br10 | leave<br>picnic<br>office<br>offer<br>reject<br>object<br>elder<br>water<br>job<br>lamp |  
-| bip_39_word_new_br11 | leave<br>picnic<br>office<br>offer<br>reject<br>object<br>elder<br>water<br>job<br>lamp<br>weasel |  
-| bip_39_word_new_br12 | leave<br>picnic<br>office<br>offer<br>reject<br>object<br>elder<br>water<br>job<br>lamp<br>weasel<br>alter |  
-| bip_39_word_new_br2 | leave<br>picnic |  
-| bip_39_word_new_br3 | leave<br>picnic<br>office |  
-| bip_39_word_new_br4 | leave<br>picnic<br>office<br>offer |  
-| bip_39_word_new_br5 | leave<br>picnic<br>office<br>offer<br>reject |  
-| bip_39_word_new_br6 | leave<br>picnic<br>office<br>offer<br>reject<br>object |  
-| bip_39_word_new_br7 | leave<br>picnic<br>office<br>offer<br>reject<br>object<br>elder |  
-| bip_39_word_new_br8 | leave<br>picnic<br>office<br>offer<br>reject<br>object<br>elder<br>water |  
-| bip_39_word_new_br9 | leave<br>picnic<br>office<br>offer<br>reject<br>object<br>elder<br>water<br>job |  
-| bip_39_word_new_line1 | leave |  
-| bip_39_word_new_line10 | leave
+| bip_39_word_new_br_1 | leave |  
+| bip_39_word_new_br_10 | leave<br>picnic<br>office<br>offer<br>reject<br>object<br>elder<br>water<br>job<br>lamp |  
+| bip_39_word_new_br_11 | leave<br>picnic<br>office<br>offer<br>reject<br>object<br>elder<br>water<br>job<br>lamp<br>weasel |  
+| bip_39_word_new_br_12 | leave<br>picnic<br>office<br>offer<br>reject<br>object<br>elder<br>water<br>job<br>lamp<br>weasel<br>alter |  
+| bip_39_word_new_br_2 | leave<br>picnic |  
+| bip_39_word_new_br_3 | leave<br>picnic<br>office |  
+| bip_39_word_new_br_4 | leave<br>picnic<br>office<br>offer |  
+| bip_39_word_new_br_5 | leave<br>picnic<br>office<br>offer<br>reject |  
+| bip_39_word_new_br_6 | leave<br>picnic<br>office<br>offer<br>reject<br>object |  
+| bip_39_word_new_br_7 | leave<br>picnic<br>office<br>offer<br>reject<br>object<br>elder |  
+| bip_39_word_new_br_8 | leave<br>picnic<br>office<br>offer<br>reject<br>object<br>elder<br>water |  
+| bip_39_word_new_br_9 | leave<br>picnic<br>office<br>offer<br>reject<br>object<br>elder<br>water<br>job |  
+| bip_39_word_new_line_1 | leave |  
+| bip_39_word_new_line_10 | leave
 picnic
 office
 offer
@@ -55,7 +55,7 @@ elder
 water
 job
 lamp |  
-| bip_39_word_new_line11 | leave
+| bip_39_word_new_line_11 | leave
 picnic
 office
 offer
@@ -66,7 +66,7 @@ water
 job
 lamp
 weasel |  
-| bip_39_word_new_line12 | leave
+| bip_39_word_new_line_12 | leave
 picnic
 office
 offer
@@ -78,34 +78,34 @@ job
 lamp
 weasel
 alter |  
-| bip_39_word_new_line2 | leave
+| bip_39_word_new_line_2 | leave
 picnic |  
-| bip_39_word_new_line3 | leave
+| bip_39_word_new_line_3 | leave
 picnic
 office |  
-| bip_39_word_new_line4 | leave
+| bip_39_word_new_line_4 | leave
 picnic
 office
 offer |  
-| bip_39_word_new_line5 | leave
+| bip_39_word_new_line_5 | leave
 picnic
 office
 offer
 reject |  
-| bip_39_word_new_line6 | leave
+| bip_39_word_new_line_6 | leave
 picnic
 office
 offer
 reject
 object |  
-| bip_39_word_new_line7 | leave
+| bip_39_word_new_line_7 | leave
 picnic
 office
 offer
 reject
 object
 elder |  
-| bip_39_word_new_line8 | leave
+| bip_39_word_new_line_8 | leave
 picnic
 office
 offer
@@ -113,7 +113,7 @@ reject
 object
 elder
 water |  
-| bip_39_word_new_line9 | leave
+| bip_39_word_new_line_9 | leave
 picnic
 office
 offer

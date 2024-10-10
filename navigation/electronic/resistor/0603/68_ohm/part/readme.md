@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sign |  
-| bip_39_word_new_br10 | sign<br>torch<br>barrel<br>beyond<br>ketchup<br>clever<br>project<br>empower<br>neglect<br>right |  
-| bip_39_word_new_br11 | sign<br>torch<br>barrel<br>beyond<br>ketchup<br>clever<br>project<br>empower<br>neglect<br>right<br>two |  
-| bip_39_word_new_br12 | sign<br>torch<br>barrel<br>beyond<br>ketchup<br>clever<br>project<br>empower<br>neglect<br>right<br>two<br>attend |  
-| bip_39_word_new_br2 | sign<br>torch |  
-| bip_39_word_new_br3 | sign<br>torch<br>barrel |  
-| bip_39_word_new_br4 | sign<br>torch<br>barrel<br>beyond |  
-| bip_39_word_new_br5 | sign<br>torch<br>barrel<br>beyond<br>ketchup |  
-| bip_39_word_new_br6 | sign<br>torch<br>barrel<br>beyond<br>ketchup<br>clever |  
-| bip_39_word_new_br7 | sign<br>torch<br>barrel<br>beyond<br>ketchup<br>clever<br>project |  
-| bip_39_word_new_br8 | sign<br>torch<br>barrel<br>beyond<br>ketchup<br>clever<br>project<br>empower |  
-| bip_39_word_new_br9 | sign<br>torch<br>barrel<br>beyond<br>ketchup<br>clever<br>project<br>empower<br>neglect |  
-| bip_39_word_new_line1 | sign |  
-| bip_39_word_new_line10 | sign
+| bip_39_word_new_br_1 | sign |  
+| bip_39_word_new_br_10 | sign<br>torch<br>barrel<br>beyond<br>ketchup<br>clever<br>project<br>empower<br>neglect<br>right |  
+| bip_39_word_new_br_11 | sign<br>torch<br>barrel<br>beyond<br>ketchup<br>clever<br>project<br>empower<br>neglect<br>right<br>two |  
+| bip_39_word_new_br_12 | sign<br>torch<br>barrel<br>beyond<br>ketchup<br>clever<br>project<br>empower<br>neglect<br>right<br>two<br>attend |  
+| bip_39_word_new_br_2 | sign<br>torch |  
+| bip_39_word_new_br_3 | sign<br>torch<br>barrel |  
+| bip_39_word_new_br_4 | sign<br>torch<br>barrel<br>beyond |  
+| bip_39_word_new_br_5 | sign<br>torch<br>barrel<br>beyond<br>ketchup |  
+| bip_39_word_new_br_6 | sign<br>torch<br>barrel<br>beyond<br>ketchup<br>clever |  
+| bip_39_word_new_br_7 | sign<br>torch<br>barrel<br>beyond<br>ketchup<br>clever<br>project |  
+| bip_39_word_new_br_8 | sign<br>torch<br>barrel<br>beyond<br>ketchup<br>clever<br>project<br>empower |  
+| bip_39_word_new_br_9 | sign<br>torch<br>barrel<br>beyond<br>ketchup<br>clever<br>project<br>empower<br>neglect |  
+| bip_39_word_new_line_1 | sign |  
+| bip_39_word_new_line_10 | sign
 torch
 barrel
 beyond
@@ -55,7 +55,7 @@ project
 empower
 neglect
 right |  
-| bip_39_word_new_line11 | sign
+| bip_39_word_new_line_11 | sign
 torch
 barrel
 beyond
@@ -66,7 +66,7 @@ empower
 neglect
 right
 two |  
-| bip_39_word_new_line12 | sign
+| bip_39_word_new_line_12 | sign
 torch
 barrel
 beyond
@@ -78,34 +78,34 @@ neglect
 right
 two
 attend |  
-| bip_39_word_new_line2 | sign
+| bip_39_word_new_line_2 | sign
 torch |  
-| bip_39_word_new_line3 | sign
+| bip_39_word_new_line_3 | sign
 torch
 barrel |  
-| bip_39_word_new_line4 | sign
+| bip_39_word_new_line_4 | sign
 torch
 barrel
 beyond |  
-| bip_39_word_new_line5 | sign
+| bip_39_word_new_line_5 | sign
 torch
 barrel
 beyond
 ketchup |  
-| bip_39_word_new_line6 | sign
+| bip_39_word_new_line_6 | sign
 torch
 barrel
 beyond
 ketchup
 clever |  
-| bip_39_word_new_line7 | sign
+| bip_39_word_new_line_7 | sign
 torch
 barrel
 beyond
 ketchup
 clever
 project |  
-| bip_39_word_new_line8 | sign
+| bip_39_word_new_line_8 | sign
 torch
 barrel
 beyond
@@ -113,7 +113,7 @@ ketchup
 clever
 project
 empower |  
-| bip_39_word_new_line9 | sign
+| bip_39_word_new_line_9 | sign
 torch
 barrel
 beyond

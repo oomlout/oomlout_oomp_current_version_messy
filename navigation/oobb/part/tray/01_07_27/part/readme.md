@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | basic |  
-| bip_39_word_new_br10 | basic<br>view<br>sand<br>seven<br>guitar<br>velvet<br>bone<br>essence<br>pole<br>throw |  
-| bip_39_word_new_br11 | basic<br>view<br>sand<br>seven<br>guitar<br>velvet<br>bone<br>essence<br>pole<br>throw<br>gentle |  
-| bip_39_word_new_br12 | basic<br>view<br>sand<br>seven<br>guitar<br>velvet<br>bone<br>essence<br>pole<br>throw<br>gentle<br>alert |  
-| bip_39_word_new_br2 | basic<br>view |  
-| bip_39_word_new_br3 | basic<br>view<br>sand |  
-| bip_39_word_new_br4 | basic<br>view<br>sand<br>seven |  
-| bip_39_word_new_br5 | basic<br>view<br>sand<br>seven<br>guitar |  
-| bip_39_word_new_br6 | basic<br>view<br>sand<br>seven<br>guitar<br>velvet |  
-| bip_39_word_new_br7 | basic<br>view<br>sand<br>seven<br>guitar<br>velvet<br>bone |  
-| bip_39_word_new_br8 | basic<br>view<br>sand<br>seven<br>guitar<br>velvet<br>bone<br>essence |  
-| bip_39_word_new_br9 | basic<br>view<br>sand<br>seven<br>guitar<br>velvet<br>bone<br>essence<br>pole |  
-| bip_39_word_new_line1 | basic |  
-| bip_39_word_new_line10 | basic
+| bip_39_word_new_br_1 | basic |  
+| bip_39_word_new_br_10 | basic<br>view<br>sand<br>seven<br>guitar<br>velvet<br>bone<br>essence<br>pole<br>throw |  
+| bip_39_word_new_br_11 | basic<br>view<br>sand<br>seven<br>guitar<br>velvet<br>bone<br>essence<br>pole<br>throw<br>gentle |  
+| bip_39_word_new_br_12 | basic<br>view<br>sand<br>seven<br>guitar<br>velvet<br>bone<br>essence<br>pole<br>throw<br>gentle<br>alert |  
+| bip_39_word_new_br_2 | basic<br>view |  
+| bip_39_word_new_br_3 | basic<br>view<br>sand |  
+| bip_39_word_new_br_4 | basic<br>view<br>sand<br>seven |  
+| bip_39_word_new_br_5 | basic<br>view<br>sand<br>seven<br>guitar |  
+| bip_39_word_new_br_6 | basic<br>view<br>sand<br>seven<br>guitar<br>velvet |  
+| bip_39_word_new_br_7 | basic<br>view<br>sand<br>seven<br>guitar<br>velvet<br>bone |  
+| bip_39_word_new_br_8 | basic<br>view<br>sand<br>seven<br>guitar<br>velvet<br>bone<br>essence |  
+| bip_39_word_new_br_9 | basic<br>view<br>sand<br>seven<br>guitar<br>velvet<br>bone<br>essence<br>pole |  
+| bip_39_word_new_line_1 | basic |  
+| bip_39_word_new_line_10 | basic
 view
 sand
 seven
@@ -55,7 +55,7 @@ bone
 essence
 pole
 throw |  
-| bip_39_word_new_line11 | basic
+| bip_39_word_new_line_11 | basic
 view
 sand
 seven
@@ -66,7 +66,7 @@ essence
 pole
 throw
 gentle |  
-| bip_39_word_new_line12 | basic
+| bip_39_word_new_line_12 | basic
 view
 sand
 seven
@@ -78,34 +78,34 @@ pole
 throw
 gentle
 alert |  
-| bip_39_word_new_line2 | basic
+| bip_39_word_new_line_2 | basic
 view |  
-| bip_39_word_new_line3 | basic
+| bip_39_word_new_line_3 | basic
 view
 sand |  
-| bip_39_word_new_line4 | basic
+| bip_39_word_new_line_4 | basic
 view
 sand
 seven |  
-| bip_39_word_new_line5 | basic
+| bip_39_word_new_line_5 | basic
 view
 sand
 seven
 guitar |  
-| bip_39_word_new_line6 | basic
+| bip_39_word_new_line_6 | basic
 view
 sand
 seven
 guitar
 velvet |  
-| bip_39_word_new_line7 | basic
+| bip_39_word_new_line_7 | basic
 view
 sand
 seven
 guitar
 velvet
 bone |  
-| bip_39_word_new_line8 | basic
+| bip_39_word_new_line_8 | basic
 view
 sand
 seven
@@ -113,7 +113,7 @@ guitar
 velvet
 bone
 essence |  
-| bip_39_word_new_line9 | basic
+| bip_39_word_new_line_9 | basic
 view
 sand
 seven

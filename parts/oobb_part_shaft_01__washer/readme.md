@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rally |  
-| bip_39_word_new_br10 | rally<br>core<br>disorder<br>ship<br>item<br>awake<br>attack<br>put<br>mass<br>right |  
-| bip_39_word_new_br11 | rally<br>core<br>disorder<br>ship<br>item<br>awake<br>attack<br>put<br>mass<br>right<br>perfect |  
-| bip_39_word_new_br12 | rally<br>core<br>disorder<br>ship<br>item<br>awake<br>attack<br>put<br>mass<br>right<br>perfect<br>army |  
-| bip_39_word_new_br2 | rally<br>core |  
-| bip_39_word_new_br3 | rally<br>core<br>disorder |  
-| bip_39_word_new_br4 | rally<br>core<br>disorder<br>ship |  
-| bip_39_word_new_br5 | rally<br>core<br>disorder<br>ship<br>item |  
-| bip_39_word_new_br6 | rally<br>core<br>disorder<br>ship<br>item<br>awake |  
-| bip_39_word_new_br7 | rally<br>core<br>disorder<br>ship<br>item<br>awake<br>attack |  
-| bip_39_word_new_br8 | rally<br>core<br>disorder<br>ship<br>item<br>awake<br>attack<br>put |  
-| bip_39_word_new_br9 | rally<br>core<br>disorder<br>ship<br>item<br>awake<br>attack<br>put<br>mass |  
-| bip_39_word_new_line1 | rally |  
-| bip_39_word_new_line10 | rally
+| bip_39_word_new_br_1 | rally |  
+| bip_39_word_new_br_10 | rally<br>core<br>disorder<br>ship<br>item<br>awake<br>attack<br>put<br>mass<br>right |  
+| bip_39_word_new_br_11 | rally<br>core<br>disorder<br>ship<br>item<br>awake<br>attack<br>put<br>mass<br>right<br>perfect |  
+| bip_39_word_new_br_12 | rally<br>core<br>disorder<br>ship<br>item<br>awake<br>attack<br>put<br>mass<br>right<br>perfect<br>army |  
+| bip_39_word_new_br_2 | rally<br>core |  
+| bip_39_word_new_br_3 | rally<br>core<br>disorder |  
+| bip_39_word_new_br_4 | rally<br>core<br>disorder<br>ship |  
+| bip_39_word_new_br_5 | rally<br>core<br>disorder<br>ship<br>item |  
+| bip_39_word_new_br_6 | rally<br>core<br>disorder<br>ship<br>item<br>awake |  
+| bip_39_word_new_br_7 | rally<br>core<br>disorder<br>ship<br>item<br>awake<br>attack |  
+| bip_39_word_new_br_8 | rally<br>core<br>disorder<br>ship<br>item<br>awake<br>attack<br>put |  
+| bip_39_word_new_br_9 | rally<br>core<br>disorder<br>ship<br>item<br>awake<br>attack<br>put<br>mass |  
+| bip_39_word_new_line_1 | rally |  
+| bip_39_word_new_line_10 | rally
 core
 disorder
 ship
@@ -55,7 +55,7 @@ attack
 put
 mass
 right |  
-| bip_39_word_new_line11 | rally
+| bip_39_word_new_line_11 | rally
 core
 disorder
 ship
@@ -66,7 +66,7 @@ put
 mass
 right
 perfect |  
-| bip_39_word_new_line12 | rally
+| bip_39_word_new_line_12 | rally
 core
 disorder
 ship
@@ -78,34 +78,34 @@ mass
 right
 perfect
 army |  
-| bip_39_word_new_line2 | rally
+| bip_39_word_new_line_2 | rally
 core |  
-| bip_39_word_new_line3 | rally
+| bip_39_word_new_line_3 | rally
 core
 disorder |  
-| bip_39_word_new_line4 | rally
+| bip_39_word_new_line_4 | rally
 core
 disorder
 ship |  
-| bip_39_word_new_line5 | rally
+| bip_39_word_new_line_5 | rally
 core
 disorder
 ship
 item |  
-| bip_39_word_new_line6 | rally
+| bip_39_word_new_line_6 | rally
 core
 disorder
 ship
 item
 awake |  
-| bip_39_word_new_line7 | rally
+| bip_39_word_new_line_7 | rally
 core
 disorder
 ship
 item
 awake
 attack |  
-| bip_39_word_new_line8 | rally
+| bip_39_word_new_line_8 | rally
 core
 disorder
 ship
@@ -113,7 +113,7 @@ item
 awake
 attack
 put |  
-| bip_39_word_new_line9 | rally
+| bip_39_word_new_line_9 | rally
 core
 disorder
 ship

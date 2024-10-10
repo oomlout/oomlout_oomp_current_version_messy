@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | boss |  
-| bip_39_word_new_br10 | boss<br>all<br>illegal<br>gasp<br>mobile<br>oil<br>crunch<br>admit<br>village<br>memory |  
-| bip_39_word_new_br11 | boss<br>all<br>illegal<br>gasp<br>mobile<br>oil<br>crunch<br>admit<br>village<br>memory<br>chimney |  
-| bip_39_word_new_br12 | boss<br>all<br>illegal<br>gasp<br>mobile<br>oil<br>crunch<br>admit<br>village<br>memory<br>chimney<br>above |  
-| bip_39_word_new_br2 | boss<br>all |  
-| bip_39_word_new_br3 | boss<br>all<br>illegal |  
-| bip_39_word_new_br4 | boss<br>all<br>illegal<br>gasp |  
-| bip_39_word_new_br5 | boss<br>all<br>illegal<br>gasp<br>mobile |  
-| bip_39_word_new_br6 | boss<br>all<br>illegal<br>gasp<br>mobile<br>oil |  
-| bip_39_word_new_br7 | boss<br>all<br>illegal<br>gasp<br>mobile<br>oil<br>crunch |  
-| bip_39_word_new_br8 | boss<br>all<br>illegal<br>gasp<br>mobile<br>oil<br>crunch<br>admit |  
-| bip_39_word_new_br9 | boss<br>all<br>illegal<br>gasp<br>mobile<br>oil<br>crunch<br>admit<br>village |  
-| bip_39_word_new_line1 | boss |  
-| bip_39_word_new_line10 | boss
+| bip_39_word_new_br_1 | boss |  
+| bip_39_word_new_br_10 | boss<br>all<br>illegal<br>gasp<br>mobile<br>oil<br>crunch<br>admit<br>village<br>memory |  
+| bip_39_word_new_br_11 | boss<br>all<br>illegal<br>gasp<br>mobile<br>oil<br>crunch<br>admit<br>village<br>memory<br>chimney |  
+| bip_39_word_new_br_12 | boss<br>all<br>illegal<br>gasp<br>mobile<br>oil<br>crunch<br>admit<br>village<br>memory<br>chimney<br>above |  
+| bip_39_word_new_br_2 | boss<br>all |  
+| bip_39_word_new_br_3 | boss<br>all<br>illegal |  
+| bip_39_word_new_br_4 | boss<br>all<br>illegal<br>gasp |  
+| bip_39_word_new_br_5 | boss<br>all<br>illegal<br>gasp<br>mobile |  
+| bip_39_word_new_br_6 | boss<br>all<br>illegal<br>gasp<br>mobile<br>oil |  
+| bip_39_word_new_br_7 | boss<br>all<br>illegal<br>gasp<br>mobile<br>oil<br>crunch |  
+| bip_39_word_new_br_8 | boss<br>all<br>illegal<br>gasp<br>mobile<br>oil<br>crunch<br>admit |  
+| bip_39_word_new_br_9 | boss<br>all<br>illegal<br>gasp<br>mobile<br>oil<br>crunch<br>admit<br>village |  
+| bip_39_word_new_line_1 | boss |  
+| bip_39_word_new_line_10 | boss
 all
 illegal
 gasp
@@ -55,7 +55,7 @@ crunch
 admit
 village
 memory |  
-| bip_39_word_new_line11 | boss
+| bip_39_word_new_line_11 | boss
 all
 illegal
 gasp
@@ -66,7 +66,7 @@ admit
 village
 memory
 chimney |  
-| bip_39_word_new_line12 | boss
+| bip_39_word_new_line_12 | boss
 all
 illegal
 gasp
@@ -78,34 +78,34 @@ village
 memory
 chimney
 above |  
-| bip_39_word_new_line2 | boss
+| bip_39_word_new_line_2 | boss
 all |  
-| bip_39_word_new_line3 | boss
+| bip_39_word_new_line_3 | boss
 all
 illegal |  
-| bip_39_word_new_line4 | boss
+| bip_39_word_new_line_4 | boss
 all
 illegal
 gasp |  
-| bip_39_word_new_line5 | boss
+| bip_39_word_new_line_5 | boss
 all
 illegal
 gasp
 mobile |  
-| bip_39_word_new_line6 | boss
+| bip_39_word_new_line_6 | boss
 all
 illegal
 gasp
 mobile
 oil |  
-| bip_39_word_new_line7 | boss
+| bip_39_word_new_line_7 | boss
 all
 illegal
 gasp
 mobile
 oil
 crunch |  
-| bip_39_word_new_line8 | boss
+| bip_39_word_new_line_8 | boss
 all
 illegal
 gasp
@@ -113,7 +113,7 @@ mobile
 oil
 crunch
 admit |  
-| bip_39_word_new_line9 | boss
+| bip_39_word_new_line_9 | boss
 all
 illegal
 gasp

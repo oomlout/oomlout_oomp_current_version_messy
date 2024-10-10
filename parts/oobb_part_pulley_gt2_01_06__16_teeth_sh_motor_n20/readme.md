@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | whip |  
-| bip_39_word_new_br10 | whip<br>jungle<br>auction<br>digital<br>potato<br>cost<br>napkin<br>monitor<br>sign<br>category |  
-| bip_39_word_new_br11 | whip<br>jungle<br>auction<br>digital<br>potato<br>cost<br>napkin<br>monitor<br>sign<br>category<br>throw |  
-| bip_39_word_new_br12 | whip<br>jungle<br>auction<br>digital<br>potato<br>cost<br>napkin<br>monitor<br>sign<br>category<br>throw<br>attack |  
-| bip_39_word_new_br2 | whip<br>jungle |  
-| bip_39_word_new_br3 | whip<br>jungle<br>auction |  
-| bip_39_word_new_br4 | whip<br>jungle<br>auction<br>digital |  
-| bip_39_word_new_br5 | whip<br>jungle<br>auction<br>digital<br>potato |  
-| bip_39_word_new_br6 | whip<br>jungle<br>auction<br>digital<br>potato<br>cost |  
-| bip_39_word_new_br7 | whip<br>jungle<br>auction<br>digital<br>potato<br>cost<br>napkin |  
-| bip_39_word_new_br8 | whip<br>jungle<br>auction<br>digital<br>potato<br>cost<br>napkin<br>monitor |  
-| bip_39_word_new_br9 | whip<br>jungle<br>auction<br>digital<br>potato<br>cost<br>napkin<br>monitor<br>sign |  
-| bip_39_word_new_line1 | whip |  
-| bip_39_word_new_line10 | whip
+| bip_39_word_new_br_1 | whip |  
+| bip_39_word_new_br_10 | whip<br>jungle<br>auction<br>digital<br>potato<br>cost<br>napkin<br>monitor<br>sign<br>category |  
+| bip_39_word_new_br_11 | whip<br>jungle<br>auction<br>digital<br>potato<br>cost<br>napkin<br>monitor<br>sign<br>category<br>throw |  
+| bip_39_word_new_br_12 | whip<br>jungle<br>auction<br>digital<br>potato<br>cost<br>napkin<br>monitor<br>sign<br>category<br>throw<br>attack |  
+| bip_39_word_new_br_2 | whip<br>jungle |  
+| bip_39_word_new_br_3 | whip<br>jungle<br>auction |  
+| bip_39_word_new_br_4 | whip<br>jungle<br>auction<br>digital |  
+| bip_39_word_new_br_5 | whip<br>jungle<br>auction<br>digital<br>potato |  
+| bip_39_word_new_br_6 | whip<br>jungle<br>auction<br>digital<br>potato<br>cost |  
+| bip_39_word_new_br_7 | whip<br>jungle<br>auction<br>digital<br>potato<br>cost<br>napkin |  
+| bip_39_word_new_br_8 | whip<br>jungle<br>auction<br>digital<br>potato<br>cost<br>napkin<br>monitor |  
+| bip_39_word_new_br_9 | whip<br>jungle<br>auction<br>digital<br>potato<br>cost<br>napkin<br>monitor<br>sign |  
+| bip_39_word_new_line_1 | whip |  
+| bip_39_word_new_line_10 | whip
 jungle
 auction
 digital
@@ -55,7 +55,7 @@ napkin
 monitor
 sign
 category |  
-| bip_39_word_new_line11 | whip
+| bip_39_word_new_line_11 | whip
 jungle
 auction
 digital
@@ -66,7 +66,7 @@ monitor
 sign
 category
 throw |  
-| bip_39_word_new_line12 | whip
+| bip_39_word_new_line_12 | whip
 jungle
 auction
 digital
@@ -78,34 +78,34 @@ sign
 category
 throw
 attack |  
-| bip_39_word_new_line2 | whip
+| bip_39_word_new_line_2 | whip
 jungle |  
-| bip_39_word_new_line3 | whip
+| bip_39_word_new_line_3 | whip
 jungle
 auction |  
-| bip_39_word_new_line4 | whip
+| bip_39_word_new_line_4 | whip
 jungle
 auction
 digital |  
-| bip_39_word_new_line5 | whip
+| bip_39_word_new_line_5 | whip
 jungle
 auction
 digital
 potato |  
-| bip_39_word_new_line6 | whip
+| bip_39_word_new_line_6 | whip
 jungle
 auction
 digital
 potato
 cost |  
-| bip_39_word_new_line7 | whip
+| bip_39_word_new_line_7 | whip
 jungle
 auction
 digital
 potato
 cost
 napkin |  
-| bip_39_word_new_line8 | whip
+| bip_39_word_new_line_8 | whip
 jungle
 auction
 digital
@@ -113,7 +113,7 @@ potato
 cost
 napkin
 monitor |  
-| bip_39_word_new_line9 | whip
+| bip_39_word_new_line_9 | whip
 jungle
 auction
 digital

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pencil |  
-| bip_39_word_new_br10 | pencil<br>country<br>vessel<br>skirt<br>maximum<br>birth<br>core<br>tuition<br>couch<br>awful |  
-| bip_39_word_new_br11 | pencil<br>country<br>vessel<br>skirt<br>maximum<br>birth<br>core<br>tuition<br>couch<br>awful<br>brain |  
-| bip_39_word_new_br12 | pencil<br>country<br>vessel<br>skirt<br>maximum<br>birth<br>core<br>tuition<br>couch<br>awful<br>brain<br>all |  
-| bip_39_word_new_br2 | pencil<br>country |  
-| bip_39_word_new_br3 | pencil<br>country<br>vessel |  
-| bip_39_word_new_br4 | pencil<br>country<br>vessel<br>skirt |  
-| bip_39_word_new_br5 | pencil<br>country<br>vessel<br>skirt<br>maximum |  
-| bip_39_word_new_br6 | pencil<br>country<br>vessel<br>skirt<br>maximum<br>birth |  
-| bip_39_word_new_br7 | pencil<br>country<br>vessel<br>skirt<br>maximum<br>birth<br>core |  
-| bip_39_word_new_br8 | pencil<br>country<br>vessel<br>skirt<br>maximum<br>birth<br>core<br>tuition |  
-| bip_39_word_new_br9 | pencil<br>country<br>vessel<br>skirt<br>maximum<br>birth<br>core<br>tuition<br>couch |  
-| bip_39_word_new_line1 | pencil |  
-| bip_39_word_new_line10 | pencil
+| bip_39_word_new_br_1 | pencil |  
+| bip_39_word_new_br_10 | pencil<br>country<br>vessel<br>skirt<br>maximum<br>birth<br>core<br>tuition<br>couch<br>awful |  
+| bip_39_word_new_br_11 | pencil<br>country<br>vessel<br>skirt<br>maximum<br>birth<br>core<br>tuition<br>couch<br>awful<br>brain |  
+| bip_39_word_new_br_12 | pencil<br>country<br>vessel<br>skirt<br>maximum<br>birth<br>core<br>tuition<br>couch<br>awful<br>brain<br>all |  
+| bip_39_word_new_br_2 | pencil<br>country |  
+| bip_39_word_new_br_3 | pencil<br>country<br>vessel |  
+| bip_39_word_new_br_4 | pencil<br>country<br>vessel<br>skirt |  
+| bip_39_word_new_br_5 | pencil<br>country<br>vessel<br>skirt<br>maximum |  
+| bip_39_word_new_br_6 | pencil<br>country<br>vessel<br>skirt<br>maximum<br>birth |  
+| bip_39_word_new_br_7 | pencil<br>country<br>vessel<br>skirt<br>maximum<br>birth<br>core |  
+| bip_39_word_new_br_8 | pencil<br>country<br>vessel<br>skirt<br>maximum<br>birth<br>core<br>tuition |  
+| bip_39_word_new_br_9 | pencil<br>country<br>vessel<br>skirt<br>maximum<br>birth<br>core<br>tuition<br>couch |  
+| bip_39_word_new_line_1 | pencil |  
+| bip_39_word_new_line_10 | pencil
 country
 vessel
 skirt
@@ -55,7 +55,7 @@ core
 tuition
 couch
 awful |  
-| bip_39_word_new_line11 | pencil
+| bip_39_word_new_line_11 | pencil
 country
 vessel
 skirt
@@ -66,7 +66,7 @@ tuition
 couch
 awful
 brain |  
-| bip_39_word_new_line12 | pencil
+| bip_39_word_new_line_12 | pencil
 country
 vessel
 skirt
@@ -78,34 +78,34 @@ couch
 awful
 brain
 all |  
-| bip_39_word_new_line2 | pencil
+| bip_39_word_new_line_2 | pencil
 country |  
-| bip_39_word_new_line3 | pencil
+| bip_39_word_new_line_3 | pencil
 country
 vessel |  
-| bip_39_word_new_line4 | pencil
+| bip_39_word_new_line_4 | pencil
 country
 vessel
 skirt |  
-| bip_39_word_new_line5 | pencil
+| bip_39_word_new_line_5 | pencil
 country
 vessel
 skirt
 maximum |  
-| bip_39_word_new_line6 | pencil
+| bip_39_word_new_line_6 | pencil
 country
 vessel
 skirt
 maximum
 birth |  
-| bip_39_word_new_line7 | pencil
+| bip_39_word_new_line_7 | pencil
 country
 vessel
 skirt
 maximum
 birth
 core |  
-| bip_39_word_new_line8 | pencil
+| bip_39_word_new_line_8 | pencil
 country
 vessel
 skirt
@@ -113,7 +113,7 @@ maximum
 birth
 core
 tuition |  
-| bip_39_word_new_line9 | pencil
+| bip_39_word_new_line_9 | pencil
 country
 vessel
 skirt

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | similar |  
-| bip_39_word_new_br10 | similar<br>will<br>laundry<br>govern<br>lawsuit<br>vacuum<br>cable<br>embrace<br>width<br>side |  
-| bip_39_word_new_br11 | similar<br>will<br>laundry<br>govern<br>lawsuit<br>vacuum<br>cable<br>embrace<br>width<br>side<br>punch |  
-| bip_39_word_new_br12 | similar<br>will<br>laundry<br>govern<br>lawsuit<br>vacuum<br>cable<br>embrace<br>width<br>side<br>punch<br>autumn |  
-| bip_39_word_new_br2 | similar<br>will |  
-| bip_39_word_new_br3 | similar<br>will<br>laundry |  
-| bip_39_word_new_br4 | similar<br>will<br>laundry<br>govern |  
-| bip_39_word_new_br5 | similar<br>will<br>laundry<br>govern<br>lawsuit |  
-| bip_39_word_new_br6 | similar<br>will<br>laundry<br>govern<br>lawsuit<br>vacuum |  
-| bip_39_word_new_br7 | similar<br>will<br>laundry<br>govern<br>lawsuit<br>vacuum<br>cable |  
-| bip_39_word_new_br8 | similar<br>will<br>laundry<br>govern<br>lawsuit<br>vacuum<br>cable<br>embrace |  
-| bip_39_word_new_br9 | similar<br>will<br>laundry<br>govern<br>lawsuit<br>vacuum<br>cable<br>embrace<br>width |  
-| bip_39_word_new_line1 | similar |  
-| bip_39_word_new_line10 | similar
+| bip_39_word_new_br_1 | similar |  
+| bip_39_word_new_br_10 | similar<br>will<br>laundry<br>govern<br>lawsuit<br>vacuum<br>cable<br>embrace<br>width<br>side |  
+| bip_39_word_new_br_11 | similar<br>will<br>laundry<br>govern<br>lawsuit<br>vacuum<br>cable<br>embrace<br>width<br>side<br>punch |  
+| bip_39_word_new_br_12 | similar<br>will<br>laundry<br>govern<br>lawsuit<br>vacuum<br>cable<br>embrace<br>width<br>side<br>punch<br>autumn |  
+| bip_39_word_new_br_2 | similar<br>will |  
+| bip_39_word_new_br_3 | similar<br>will<br>laundry |  
+| bip_39_word_new_br_4 | similar<br>will<br>laundry<br>govern |  
+| bip_39_word_new_br_5 | similar<br>will<br>laundry<br>govern<br>lawsuit |  
+| bip_39_word_new_br_6 | similar<br>will<br>laundry<br>govern<br>lawsuit<br>vacuum |  
+| bip_39_word_new_br_7 | similar<br>will<br>laundry<br>govern<br>lawsuit<br>vacuum<br>cable |  
+| bip_39_word_new_br_8 | similar<br>will<br>laundry<br>govern<br>lawsuit<br>vacuum<br>cable<br>embrace |  
+| bip_39_word_new_br_9 | similar<br>will<br>laundry<br>govern<br>lawsuit<br>vacuum<br>cable<br>embrace<br>width |  
+| bip_39_word_new_line_1 | similar |  
+| bip_39_word_new_line_10 | similar
 will
 laundry
 govern
@@ -55,7 +55,7 @@ cable
 embrace
 width
 side |  
-| bip_39_word_new_line11 | similar
+| bip_39_word_new_line_11 | similar
 will
 laundry
 govern
@@ -66,7 +66,7 @@ embrace
 width
 side
 punch |  
-| bip_39_word_new_line12 | similar
+| bip_39_word_new_line_12 | similar
 will
 laundry
 govern
@@ -78,34 +78,34 @@ width
 side
 punch
 autumn |  
-| bip_39_word_new_line2 | similar
+| bip_39_word_new_line_2 | similar
 will |  
-| bip_39_word_new_line3 | similar
+| bip_39_word_new_line_3 | similar
 will
 laundry |  
-| bip_39_word_new_line4 | similar
+| bip_39_word_new_line_4 | similar
 will
 laundry
 govern |  
-| bip_39_word_new_line5 | similar
+| bip_39_word_new_line_5 | similar
 will
 laundry
 govern
 lawsuit |  
-| bip_39_word_new_line6 | similar
+| bip_39_word_new_line_6 | similar
 will
 laundry
 govern
 lawsuit
 vacuum |  
-| bip_39_word_new_line7 | similar
+| bip_39_word_new_line_7 | similar
 will
 laundry
 govern
 lawsuit
 vacuum
 cable |  
-| bip_39_word_new_line8 | similar
+| bip_39_word_new_line_8 | similar
 will
 laundry
 govern
@@ -113,7 +113,7 @@ lawsuit
 vacuum
 cable
 embrace |  
-| bip_39_word_new_line9 | similar
+| bip_39_word_new_line_9 | similar
 will
 laundry
 govern

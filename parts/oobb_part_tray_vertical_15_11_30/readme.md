@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | online |  
-| bip_39_word_new_br10 | online<br>sail<br>own<br>dad<br>close<br>pill<br>crunch<br>dynamic<br>stereo<br>soul |  
-| bip_39_word_new_br11 | online<br>sail<br>own<br>dad<br>close<br>pill<br>crunch<br>dynamic<br>stereo<br>soul<br>cotton |  
-| bip_39_word_new_br12 | online<br>sail<br>own<br>dad<br>close<br>pill<br>crunch<br>dynamic<br>stereo<br>soul<br>cotton<br>art |  
-| bip_39_word_new_br2 | online<br>sail |  
-| bip_39_word_new_br3 | online<br>sail<br>own |  
-| bip_39_word_new_br4 | online<br>sail<br>own<br>dad |  
-| bip_39_word_new_br5 | online<br>sail<br>own<br>dad<br>close |  
-| bip_39_word_new_br6 | online<br>sail<br>own<br>dad<br>close<br>pill |  
-| bip_39_word_new_br7 | online<br>sail<br>own<br>dad<br>close<br>pill<br>crunch |  
-| bip_39_word_new_br8 | online<br>sail<br>own<br>dad<br>close<br>pill<br>crunch<br>dynamic |  
-| bip_39_word_new_br9 | online<br>sail<br>own<br>dad<br>close<br>pill<br>crunch<br>dynamic<br>stereo |  
-| bip_39_word_new_line1 | online |  
-| bip_39_word_new_line10 | online
+| bip_39_word_new_br_1 | online |  
+| bip_39_word_new_br_10 | online<br>sail<br>own<br>dad<br>close<br>pill<br>crunch<br>dynamic<br>stereo<br>soul |  
+| bip_39_word_new_br_11 | online<br>sail<br>own<br>dad<br>close<br>pill<br>crunch<br>dynamic<br>stereo<br>soul<br>cotton |  
+| bip_39_word_new_br_12 | online<br>sail<br>own<br>dad<br>close<br>pill<br>crunch<br>dynamic<br>stereo<br>soul<br>cotton<br>art |  
+| bip_39_word_new_br_2 | online<br>sail |  
+| bip_39_word_new_br_3 | online<br>sail<br>own |  
+| bip_39_word_new_br_4 | online<br>sail<br>own<br>dad |  
+| bip_39_word_new_br_5 | online<br>sail<br>own<br>dad<br>close |  
+| bip_39_word_new_br_6 | online<br>sail<br>own<br>dad<br>close<br>pill |  
+| bip_39_word_new_br_7 | online<br>sail<br>own<br>dad<br>close<br>pill<br>crunch |  
+| bip_39_word_new_br_8 | online<br>sail<br>own<br>dad<br>close<br>pill<br>crunch<br>dynamic |  
+| bip_39_word_new_br_9 | online<br>sail<br>own<br>dad<br>close<br>pill<br>crunch<br>dynamic<br>stereo |  
+| bip_39_word_new_line_1 | online |  
+| bip_39_word_new_line_10 | online
 sail
 own
 dad
@@ -55,7 +55,7 @@ crunch
 dynamic
 stereo
 soul |  
-| bip_39_word_new_line11 | online
+| bip_39_word_new_line_11 | online
 sail
 own
 dad
@@ -66,7 +66,7 @@ dynamic
 stereo
 soul
 cotton |  
-| bip_39_word_new_line12 | online
+| bip_39_word_new_line_12 | online
 sail
 own
 dad
@@ -78,34 +78,34 @@ stereo
 soul
 cotton
 art |  
-| bip_39_word_new_line2 | online
+| bip_39_word_new_line_2 | online
 sail |  
-| bip_39_word_new_line3 | online
+| bip_39_word_new_line_3 | online
 sail
 own |  
-| bip_39_word_new_line4 | online
+| bip_39_word_new_line_4 | online
 sail
 own
 dad |  
-| bip_39_word_new_line5 | online
+| bip_39_word_new_line_5 | online
 sail
 own
 dad
 close |  
-| bip_39_word_new_line6 | online
+| bip_39_word_new_line_6 | online
 sail
 own
 dad
 close
 pill |  
-| bip_39_word_new_line7 | online
+| bip_39_word_new_line_7 | online
 sail
 own
 dad
 close
 pill
 crunch |  
-| bip_39_word_new_line8 | online
+| bip_39_word_new_line_8 | online
 sail
 own
 dad
@@ -113,7 +113,7 @@ close
 pill
 crunch
 dynamic |  
-| bip_39_word_new_line9 | online
+| bip_39_word_new_line_9 | online
 sail
 own
 dad

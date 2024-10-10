@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | olympic |  
-| bip_39_word_new_br10 | olympic<br>remember<br>travel<br>fold<br>blossom<br>soon<br>degree<br>lounge<br>similar<br>margin |  
-| bip_39_word_new_br11 | olympic<br>remember<br>travel<br>fold<br>blossom<br>soon<br>degree<br>lounge<br>similar<br>margin<br>despair |  
-| bip_39_word_new_br12 | olympic<br>remember<br>travel<br>fold<br>blossom<br>soon<br>degree<br>lounge<br>similar<br>margin<br>despair<br>album |  
-| bip_39_word_new_br2 | olympic<br>remember |  
-| bip_39_word_new_br3 | olympic<br>remember<br>travel |  
-| bip_39_word_new_br4 | olympic<br>remember<br>travel<br>fold |  
-| bip_39_word_new_br5 | olympic<br>remember<br>travel<br>fold<br>blossom |  
-| bip_39_word_new_br6 | olympic<br>remember<br>travel<br>fold<br>blossom<br>soon |  
-| bip_39_word_new_br7 | olympic<br>remember<br>travel<br>fold<br>blossom<br>soon<br>degree |  
-| bip_39_word_new_br8 | olympic<br>remember<br>travel<br>fold<br>blossom<br>soon<br>degree<br>lounge |  
-| bip_39_word_new_br9 | olympic<br>remember<br>travel<br>fold<br>blossom<br>soon<br>degree<br>lounge<br>similar |  
-| bip_39_word_new_line1 | olympic |  
-| bip_39_word_new_line10 | olympic
+| bip_39_word_new_br_1 | olympic |  
+| bip_39_word_new_br_10 | olympic<br>remember<br>travel<br>fold<br>blossom<br>soon<br>degree<br>lounge<br>similar<br>margin |  
+| bip_39_word_new_br_11 | olympic<br>remember<br>travel<br>fold<br>blossom<br>soon<br>degree<br>lounge<br>similar<br>margin<br>despair |  
+| bip_39_word_new_br_12 | olympic<br>remember<br>travel<br>fold<br>blossom<br>soon<br>degree<br>lounge<br>similar<br>margin<br>despair<br>album |  
+| bip_39_word_new_br_2 | olympic<br>remember |  
+| bip_39_word_new_br_3 | olympic<br>remember<br>travel |  
+| bip_39_word_new_br_4 | olympic<br>remember<br>travel<br>fold |  
+| bip_39_word_new_br_5 | olympic<br>remember<br>travel<br>fold<br>blossom |  
+| bip_39_word_new_br_6 | olympic<br>remember<br>travel<br>fold<br>blossom<br>soon |  
+| bip_39_word_new_br_7 | olympic<br>remember<br>travel<br>fold<br>blossom<br>soon<br>degree |  
+| bip_39_word_new_br_8 | olympic<br>remember<br>travel<br>fold<br>blossom<br>soon<br>degree<br>lounge |  
+| bip_39_word_new_br_9 | olympic<br>remember<br>travel<br>fold<br>blossom<br>soon<br>degree<br>lounge<br>similar |  
+| bip_39_word_new_line_1 | olympic |  
+| bip_39_word_new_line_10 | olympic
 remember
 travel
 fold
@@ -55,7 +55,7 @@ degree
 lounge
 similar
 margin |  
-| bip_39_word_new_line11 | olympic
+| bip_39_word_new_line_11 | olympic
 remember
 travel
 fold
@@ -66,7 +66,7 @@ lounge
 similar
 margin
 despair |  
-| bip_39_word_new_line12 | olympic
+| bip_39_word_new_line_12 | olympic
 remember
 travel
 fold
@@ -78,34 +78,34 @@ similar
 margin
 despair
 album |  
-| bip_39_word_new_line2 | olympic
+| bip_39_word_new_line_2 | olympic
 remember |  
-| bip_39_word_new_line3 | olympic
+| bip_39_word_new_line_3 | olympic
 remember
 travel |  
-| bip_39_word_new_line4 | olympic
+| bip_39_word_new_line_4 | olympic
 remember
 travel
 fold |  
-| bip_39_word_new_line5 | olympic
+| bip_39_word_new_line_5 | olympic
 remember
 travel
 fold
 blossom |  
-| bip_39_word_new_line6 | olympic
+| bip_39_word_new_line_6 | olympic
 remember
 travel
 fold
 blossom
 soon |  
-| bip_39_word_new_line7 | olympic
+| bip_39_word_new_line_7 | olympic
 remember
 travel
 fold
 blossom
 soon
 degree |  
-| bip_39_word_new_line8 | olympic
+| bip_39_word_new_line_8 | olympic
 remember
 travel
 fold
@@ -113,7 +113,7 @@ blossom
 soon
 degree
 lounge |  
-| bip_39_word_new_line9 | olympic
+| bip_39_word_new_line_9 | olympic
 remember
 travel
 fold

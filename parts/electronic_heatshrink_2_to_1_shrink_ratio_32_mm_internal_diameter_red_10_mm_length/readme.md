@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mix |  
-| bip_39_word_new_br10 | mix<br>endorse<br>witness<br>raccoon<br>close<br>drastic<br>muffin<br>step<br>stumble<br>nest |  
-| bip_39_word_new_br11 | mix<br>endorse<br>witness<br>raccoon<br>close<br>drastic<br>muffin<br>step<br>stumble<br>nest<br>robust |  
-| bip_39_word_new_br12 | mix<br>endorse<br>witness<br>raccoon<br>close<br>drastic<br>muffin<br>step<br>stumble<br>nest<br>robust<br>annual |  
-| bip_39_word_new_br2 | mix<br>endorse |  
-| bip_39_word_new_br3 | mix<br>endorse<br>witness |  
-| bip_39_word_new_br4 | mix<br>endorse<br>witness<br>raccoon |  
-| bip_39_word_new_br5 | mix<br>endorse<br>witness<br>raccoon<br>close |  
-| bip_39_word_new_br6 | mix<br>endorse<br>witness<br>raccoon<br>close<br>drastic |  
-| bip_39_word_new_br7 | mix<br>endorse<br>witness<br>raccoon<br>close<br>drastic<br>muffin |  
-| bip_39_word_new_br8 | mix<br>endorse<br>witness<br>raccoon<br>close<br>drastic<br>muffin<br>step |  
-| bip_39_word_new_br9 | mix<br>endorse<br>witness<br>raccoon<br>close<br>drastic<br>muffin<br>step<br>stumble |  
-| bip_39_word_new_line1 | mix |  
-| bip_39_word_new_line10 | mix
+| bip_39_word_new_br_1 | mix |  
+| bip_39_word_new_br_10 | mix<br>endorse<br>witness<br>raccoon<br>close<br>drastic<br>muffin<br>step<br>stumble<br>nest |  
+| bip_39_word_new_br_11 | mix<br>endorse<br>witness<br>raccoon<br>close<br>drastic<br>muffin<br>step<br>stumble<br>nest<br>robust |  
+| bip_39_word_new_br_12 | mix<br>endorse<br>witness<br>raccoon<br>close<br>drastic<br>muffin<br>step<br>stumble<br>nest<br>robust<br>annual |  
+| bip_39_word_new_br_2 | mix<br>endorse |  
+| bip_39_word_new_br_3 | mix<br>endorse<br>witness |  
+| bip_39_word_new_br_4 | mix<br>endorse<br>witness<br>raccoon |  
+| bip_39_word_new_br_5 | mix<br>endorse<br>witness<br>raccoon<br>close |  
+| bip_39_word_new_br_6 | mix<br>endorse<br>witness<br>raccoon<br>close<br>drastic |  
+| bip_39_word_new_br_7 | mix<br>endorse<br>witness<br>raccoon<br>close<br>drastic<br>muffin |  
+| bip_39_word_new_br_8 | mix<br>endorse<br>witness<br>raccoon<br>close<br>drastic<br>muffin<br>step |  
+| bip_39_word_new_br_9 | mix<br>endorse<br>witness<br>raccoon<br>close<br>drastic<br>muffin<br>step<br>stumble |  
+| bip_39_word_new_line_1 | mix |  
+| bip_39_word_new_line_10 | mix
 endorse
 witness
 raccoon
@@ -55,7 +55,7 @@ muffin
 step
 stumble
 nest |  
-| bip_39_word_new_line11 | mix
+| bip_39_word_new_line_11 | mix
 endorse
 witness
 raccoon
@@ -66,7 +66,7 @@ step
 stumble
 nest
 robust |  
-| bip_39_word_new_line12 | mix
+| bip_39_word_new_line_12 | mix
 endorse
 witness
 raccoon
@@ -78,34 +78,34 @@ stumble
 nest
 robust
 annual |  
-| bip_39_word_new_line2 | mix
+| bip_39_word_new_line_2 | mix
 endorse |  
-| bip_39_word_new_line3 | mix
+| bip_39_word_new_line_3 | mix
 endorse
 witness |  
-| bip_39_word_new_line4 | mix
+| bip_39_word_new_line_4 | mix
 endorse
 witness
 raccoon |  
-| bip_39_word_new_line5 | mix
+| bip_39_word_new_line_5 | mix
 endorse
 witness
 raccoon
 close |  
-| bip_39_word_new_line6 | mix
+| bip_39_word_new_line_6 | mix
 endorse
 witness
 raccoon
 close
 drastic |  
-| bip_39_word_new_line7 | mix
+| bip_39_word_new_line_7 | mix
 endorse
 witness
 raccoon
 close
 drastic
 muffin |  
-| bip_39_word_new_line8 | mix
+| bip_39_word_new_line_8 | mix
 endorse
 witness
 raccoon
@@ -113,7 +113,7 @@ close
 drastic
 muffin
 step |  
-| bip_39_word_new_line9 | mix
+| bip_39_word_new_line_9 | mix
 endorse
 witness
 raccoon

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gate |  
-| bip_39_word_new_br10 | gate<br>cute<br>fork<br>chest<br>erupt<br>property<br>zebra<br>stamp<br>spread<br>veteran |  
-| bip_39_word_new_br11 | gate<br>cute<br>fork<br>chest<br>erupt<br>property<br>zebra<br>stamp<br>spread<br>veteran<br>armed |  
-| bip_39_word_new_br12 | gate<br>cute<br>fork<br>chest<br>erupt<br>property<br>zebra<br>stamp<br>spread<br>veteran<br>armed<br>accuse |  
-| bip_39_word_new_br2 | gate<br>cute |  
-| bip_39_word_new_br3 | gate<br>cute<br>fork |  
-| bip_39_word_new_br4 | gate<br>cute<br>fork<br>chest |  
-| bip_39_word_new_br5 | gate<br>cute<br>fork<br>chest<br>erupt |  
-| bip_39_word_new_br6 | gate<br>cute<br>fork<br>chest<br>erupt<br>property |  
-| bip_39_word_new_br7 | gate<br>cute<br>fork<br>chest<br>erupt<br>property<br>zebra |  
-| bip_39_word_new_br8 | gate<br>cute<br>fork<br>chest<br>erupt<br>property<br>zebra<br>stamp |  
-| bip_39_word_new_br9 | gate<br>cute<br>fork<br>chest<br>erupt<br>property<br>zebra<br>stamp<br>spread |  
-| bip_39_word_new_line1 | gate |  
-| bip_39_word_new_line10 | gate
+| bip_39_word_new_br_1 | gate |  
+| bip_39_word_new_br_10 | gate<br>cute<br>fork<br>chest<br>erupt<br>property<br>zebra<br>stamp<br>spread<br>veteran |  
+| bip_39_word_new_br_11 | gate<br>cute<br>fork<br>chest<br>erupt<br>property<br>zebra<br>stamp<br>spread<br>veteran<br>armed |  
+| bip_39_word_new_br_12 | gate<br>cute<br>fork<br>chest<br>erupt<br>property<br>zebra<br>stamp<br>spread<br>veteran<br>armed<br>accuse |  
+| bip_39_word_new_br_2 | gate<br>cute |  
+| bip_39_word_new_br_3 | gate<br>cute<br>fork |  
+| bip_39_word_new_br_4 | gate<br>cute<br>fork<br>chest |  
+| bip_39_word_new_br_5 | gate<br>cute<br>fork<br>chest<br>erupt |  
+| bip_39_word_new_br_6 | gate<br>cute<br>fork<br>chest<br>erupt<br>property |  
+| bip_39_word_new_br_7 | gate<br>cute<br>fork<br>chest<br>erupt<br>property<br>zebra |  
+| bip_39_word_new_br_8 | gate<br>cute<br>fork<br>chest<br>erupt<br>property<br>zebra<br>stamp |  
+| bip_39_word_new_br_9 | gate<br>cute<br>fork<br>chest<br>erupt<br>property<br>zebra<br>stamp<br>spread |  
+| bip_39_word_new_line_1 | gate |  
+| bip_39_word_new_line_10 | gate
 cute
 fork
 chest
@@ -55,7 +55,7 @@ zebra
 stamp
 spread
 veteran |  
-| bip_39_word_new_line11 | gate
+| bip_39_word_new_line_11 | gate
 cute
 fork
 chest
@@ -66,7 +66,7 @@ stamp
 spread
 veteran
 armed |  
-| bip_39_word_new_line12 | gate
+| bip_39_word_new_line_12 | gate
 cute
 fork
 chest
@@ -78,34 +78,34 @@ spread
 veteran
 armed
 accuse |  
-| bip_39_word_new_line2 | gate
+| bip_39_word_new_line_2 | gate
 cute |  
-| bip_39_word_new_line3 | gate
+| bip_39_word_new_line_3 | gate
 cute
 fork |  
-| bip_39_word_new_line4 | gate
+| bip_39_word_new_line_4 | gate
 cute
 fork
 chest |  
-| bip_39_word_new_line5 | gate
+| bip_39_word_new_line_5 | gate
 cute
 fork
 chest
 erupt |  
-| bip_39_word_new_line6 | gate
+| bip_39_word_new_line_6 | gate
 cute
 fork
 chest
 erupt
 property |  
-| bip_39_word_new_line7 | gate
+| bip_39_word_new_line_7 | gate
 cute
 fork
 chest
 erupt
 property
 zebra |  
-| bip_39_word_new_line8 | gate
+| bip_39_word_new_line_8 | gate
 cute
 fork
 chest
@@ -113,7 +113,7 @@ erupt
 property
 zebra
 stamp |  
-| bip_39_word_new_line9 | gate
+| bip_39_word_new_line_9 | gate
 cute
 fork
 chest

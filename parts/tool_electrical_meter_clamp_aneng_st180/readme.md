@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | accident |  
-| bip_39_word_new_br10 | accident<br>glide<br>omit<br>raw<br>oyster<br>spray<br>wing<br>army<br>jar<br>decline |  
-| bip_39_word_new_br11 | accident<br>glide<br>omit<br>raw<br>oyster<br>spray<br>wing<br>army<br>jar<br>decline<br>bamboo |  
-| bip_39_word_new_br12 | accident<br>glide<br>omit<br>raw<br>oyster<br>spray<br>wing<br>army<br>jar<br>decline<br>bamboo<br>already |  
-| bip_39_word_new_br2 | accident<br>glide |  
-| bip_39_word_new_br3 | accident<br>glide<br>omit |  
-| bip_39_word_new_br4 | accident<br>glide<br>omit<br>raw |  
-| bip_39_word_new_br5 | accident<br>glide<br>omit<br>raw<br>oyster |  
-| bip_39_word_new_br6 | accident<br>glide<br>omit<br>raw<br>oyster<br>spray |  
-| bip_39_word_new_br7 | accident<br>glide<br>omit<br>raw<br>oyster<br>spray<br>wing |  
-| bip_39_word_new_br8 | accident<br>glide<br>omit<br>raw<br>oyster<br>spray<br>wing<br>army |  
-| bip_39_word_new_br9 | accident<br>glide<br>omit<br>raw<br>oyster<br>spray<br>wing<br>army<br>jar |  
-| bip_39_word_new_line1 | accident |  
-| bip_39_word_new_line10 | accident
+| bip_39_word_new_br_1 | accident |  
+| bip_39_word_new_br_10 | accident<br>glide<br>omit<br>raw<br>oyster<br>spray<br>wing<br>army<br>jar<br>decline |  
+| bip_39_word_new_br_11 | accident<br>glide<br>omit<br>raw<br>oyster<br>spray<br>wing<br>army<br>jar<br>decline<br>bamboo |  
+| bip_39_word_new_br_12 | accident<br>glide<br>omit<br>raw<br>oyster<br>spray<br>wing<br>army<br>jar<br>decline<br>bamboo<br>already |  
+| bip_39_word_new_br_2 | accident<br>glide |  
+| bip_39_word_new_br_3 | accident<br>glide<br>omit |  
+| bip_39_word_new_br_4 | accident<br>glide<br>omit<br>raw |  
+| bip_39_word_new_br_5 | accident<br>glide<br>omit<br>raw<br>oyster |  
+| bip_39_word_new_br_6 | accident<br>glide<br>omit<br>raw<br>oyster<br>spray |  
+| bip_39_word_new_br_7 | accident<br>glide<br>omit<br>raw<br>oyster<br>spray<br>wing |  
+| bip_39_word_new_br_8 | accident<br>glide<br>omit<br>raw<br>oyster<br>spray<br>wing<br>army |  
+| bip_39_word_new_br_9 | accident<br>glide<br>omit<br>raw<br>oyster<br>spray<br>wing<br>army<br>jar |  
+| bip_39_word_new_line_1 | accident |  
+| bip_39_word_new_line_10 | accident
 glide
 omit
 raw
@@ -55,7 +55,7 @@ wing
 army
 jar
 decline |  
-| bip_39_word_new_line11 | accident
+| bip_39_word_new_line_11 | accident
 glide
 omit
 raw
@@ -66,7 +66,7 @@ army
 jar
 decline
 bamboo |  
-| bip_39_word_new_line12 | accident
+| bip_39_word_new_line_12 | accident
 glide
 omit
 raw
@@ -78,34 +78,34 @@ jar
 decline
 bamboo
 already |  
-| bip_39_word_new_line2 | accident
+| bip_39_word_new_line_2 | accident
 glide |  
-| bip_39_word_new_line3 | accident
+| bip_39_word_new_line_3 | accident
 glide
 omit |  
-| bip_39_word_new_line4 | accident
+| bip_39_word_new_line_4 | accident
 glide
 omit
 raw |  
-| bip_39_word_new_line5 | accident
+| bip_39_word_new_line_5 | accident
 glide
 omit
 raw
 oyster |  
-| bip_39_word_new_line6 | accident
+| bip_39_word_new_line_6 | accident
 glide
 omit
 raw
 oyster
 spray |  
-| bip_39_word_new_line7 | accident
+| bip_39_word_new_line_7 | accident
 glide
 omit
 raw
 oyster
 spray
 wing |  
-| bip_39_word_new_line8 | accident
+| bip_39_word_new_line_8 | accident
 glide
 omit
 raw
@@ -113,7 +113,7 @@ oyster
 spray
 wing
 army |  
-| bip_39_word_new_line9 | accident
+| bip_39_word_new_line_9 | accident
 glide
 omit
 raw

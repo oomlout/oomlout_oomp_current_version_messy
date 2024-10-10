@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | divert |  
-| bip_39_word_new_br10 | divert<br>dad<br>wrestle<br>poem<br>hazard<br>almost<br>glow<br>ankle<br>crawl<br>crew |  
-| bip_39_word_new_br11 | divert<br>dad<br>wrestle<br>poem<br>hazard<br>almost<br>glow<br>ankle<br>crawl<br>crew<br>coach |  
-| bip_39_word_new_br12 | divert<br>dad<br>wrestle<br>poem<br>hazard<br>almost<br>glow<br>ankle<br>crawl<br>crew<br>coach<br>action |  
-| bip_39_word_new_br2 | divert<br>dad |  
-| bip_39_word_new_br3 | divert<br>dad<br>wrestle |  
-| bip_39_word_new_br4 | divert<br>dad<br>wrestle<br>poem |  
-| bip_39_word_new_br5 | divert<br>dad<br>wrestle<br>poem<br>hazard |  
-| bip_39_word_new_br6 | divert<br>dad<br>wrestle<br>poem<br>hazard<br>almost |  
-| bip_39_word_new_br7 | divert<br>dad<br>wrestle<br>poem<br>hazard<br>almost<br>glow |  
-| bip_39_word_new_br8 | divert<br>dad<br>wrestle<br>poem<br>hazard<br>almost<br>glow<br>ankle |  
-| bip_39_word_new_br9 | divert<br>dad<br>wrestle<br>poem<br>hazard<br>almost<br>glow<br>ankle<br>crawl |  
-| bip_39_word_new_line1 | divert |  
-| bip_39_word_new_line10 | divert
+| bip_39_word_new_br_1 | divert |  
+| bip_39_word_new_br_10 | divert<br>dad<br>wrestle<br>poem<br>hazard<br>almost<br>glow<br>ankle<br>crawl<br>crew |  
+| bip_39_word_new_br_11 | divert<br>dad<br>wrestle<br>poem<br>hazard<br>almost<br>glow<br>ankle<br>crawl<br>crew<br>coach |  
+| bip_39_word_new_br_12 | divert<br>dad<br>wrestle<br>poem<br>hazard<br>almost<br>glow<br>ankle<br>crawl<br>crew<br>coach<br>action |  
+| bip_39_word_new_br_2 | divert<br>dad |  
+| bip_39_word_new_br_3 | divert<br>dad<br>wrestle |  
+| bip_39_word_new_br_4 | divert<br>dad<br>wrestle<br>poem |  
+| bip_39_word_new_br_5 | divert<br>dad<br>wrestle<br>poem<br>hazard |  
+| bip_39_word_new_br_6 | divert<br>dad<br>wrestle<br>poem<br>hazard<br>almost |  
+| bip_39_word_new_br_7 | divert<br>dad<br>wrestle<br>poem<br>hazard<br>almost<br>glow |  
+| bip_39_word_new_br_8 | divert<br>dad<br>wrestle<br>poem<br>hazard<br>almost<br>glow<br>ankle |  
+| bip_39_word_new_br_9 | divert<br>dad<br>wrestle<br>poem<br>hazard<br>almost<br>glow<br>ankle<br>crawl |  
+| bip_39_word_new_line_1 | divert |  
+| bip_39_word_new_line_10 | divert
 dad
 wrestle
 poem
@@ -55,7 +55,7 @@ glow
 ankle
 crawl
 crew |  
-| bip_39_word_new_line11 | divert
+| bip_39_word_new_line_11 | divert
 dad
 wrestle
 poem
@@ -66,7 +66,7 @@ ankle
 crawl
 crew
 coach |  
-| bip_39_word_new_line12 | divert
+| bip_39_word_new_line_12 | divert
 dad
 wrestle
 poem
@@ -78,34 +78,34 @@ crawl
 crew
 coach
 action |  
-| bip_39_word_new_line2 | divert
+| bip_39_word_new_line_2 | divert
 dad |  
-| bip_39_word_new_line3 | divert
+| bip_39_word_new_line_3 | divert
 dad
 wrestle |  
-| bip_39_word_new_line4 | divert
+| bip_39_word_new_line_4 | divert
 dad
 wrestle
 poem |  
-| bip_39_word_new_line5 | divert
+| bip_39_word_new_line_5 | divert
 dad
 wrestle
 poem
 hazard |  
-| bip_39_word_new_line6 | divert
+| bip_39_word_new_line_6 | divert
 dad
 wrestle
 poem
 hazard
 almost |  
-| bip_39_word_new_line7 | divert
+| bip_39_word_new_line_7 | divert
 dad
 wrestle
 poem
 hazard
 almost
 glow |  
-| bip_39_word_new_line8 | divert
+| bip_39_word_new_line_8 | divert
 dad
 wrestle
 poem
@@ -113,7 +113,7 @@ hazard
 almost
 glow
 ankle |  
-| bip_39_word_new_line9 | divert
+| bip_39_word_new_line_9 | divert
 dad
 wrestle
 poem

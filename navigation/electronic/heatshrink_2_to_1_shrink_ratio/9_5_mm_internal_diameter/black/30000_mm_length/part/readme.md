@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gas |  
-| bip_39_word_new_br10 | gas<br>flat<br>copy<br>chalk<br>hamster<br>long<br>one<br>person<br>smart<br>vocal |  
-| bip_39_word_new_br11 | gas<br>flat<br>copy<br>chalk<br>hamster<br>long<br>one<br>person<br>smart<br>vocal<br>scout |  
-| bip_39_word_new_br12 | gas<br>flat<br>copy<br>chalk<br>hamster<br>long<br>one<br>person<br>smart<br>vocal<br>scout<br>arch |  
-| bip_39_word_new_br2 | gas<br>flat |  
-| bip_39_word_new_br3 | gas<br>flat<br>copy |  
-| bip_39_word_new_br4 | gas<br>flat<br>copy<br>chalk |  
-| bip_39_word_new_br5 | gas<br>flat<br>copy<br>chalk<br>hamster |  
-| bip_39_word_new_br6 | gas<br>flat<br>copy<br>chalk<br>hamster<br>long |  
-| bip_39_word_new_br7 | gas<br>flat<br>copy<br>chalk<br>hamster<br>long<br>one |  
-| bip_39_word_new_br8 | gas<br>flat<br>copy<br>chalk<br>hamster<br>long<br>one<br>person |  
-| bip_39_word_new_br9 | gas<br>flat<br>copy<br>chalk<br>hamster<br>long<br>one<br>person<br>smart |  
-| bip_39_word_new_line1 | gas |  
-| bip_39_word_new_line10 | gas
+| bip_39_word_new_br_1 | gas |  
+| bip_39_word_new_br_10 | gas<br>flat<br>copy<br>chalk<br>hamster<br>long<br>one<br>person<br>smart<br>vocal |  
+| bip_39_word_new_br_11 | gas<br>flat<br>copy<br>chalk<br>hamster<br>long<br>one<br>person<br>smart<br>vocal<br>scout |  
+| bip_39_word_new_br_12 | gas<br>flat<br>copy<br>chalk<br>hamster<br>long<br>one<br>person<br>smart<br>vocal<br>scout<br>arch |  
+| bip_39_word_new_br_2 | gas<br>flat |  
+| bip_39_word_new_br_3 | gas<br>flat<br>copy |  
+| bip_39_word_new_br_4 | gas<br>flat<br>copy<br>chalk |  
+| bip_39_word_new_br_5 | gas<br>flat<br>copy<br>chalk<br>hamster |  
+| bip_39_word_new_br_6 | gas<br>flat<br>copy<br>chalk<br>hamster<br>long |  
+| bip_39_word_new_br_7 | gas<br>flat<br>copy<br>chalk<br>hamster<br>long<br>one |  
+| bip_39_word_new_br_8 | gas<br>flat<br>copy<br>chalk<br>hamster<br>long<br>one<br>person |  
+| bip_39_word_new_br_9 | gas<br>flat<br>copy<br>chalk<br>hamster<br>long<br>one<br>person<br>smart |  
+| bip_39_word_new_line_1 | gas |  
+| bip_39_word_new_line_10 | gas
 flat
 copy
 chalk
@@ -55,7 +55,7 @@ one
 person
 smart
 vocal |  
-| bip_39_word_new_line11 | gas
+| bip_39_word_new_line_11 | gas
 flat
 copy
 chalk
@@ -66,7 +66,7 @@ person
 smart
 vocal
 scout |  
-| bip_39_word_new_line12 | gas
+| bip_39_word_new_line_12 | gas
 flat
 copy
 chalk
@@ -78,34 +78,34 @@ smart
 vocal
 scout
 arch |  
-| bip_39_word_new_line2 | gas
+| bip_39_word_new_line_2 | gas
 flat |  
-| bip_39_word_new_line3 | gas
+| bip_39_word_new_line_3 | gas
 flat
 copy |  
-| bip_39_word_new_line4 | gas
+| bip_39_word_new_line_4 | gas
 flat
 copy
 chalk |  
-| bip_39_word_new_line5 | gas
+| bip_39_word_new_line_5 | gas
 flat
 copy
 chalk
 hamster |  
-| bip_39_word_new_line6 | gas
+| bip_39_word_new_line_6 | gas
 flat
 copy
 chalk
 hamster
 long |  
-| bip_39_word_new_line7 | gas
+| bip_39_word_new_line_7 | gas
 flat
 copy
 chalk
 hamster
 long
 one |  
-| bip_39_word_new_line8 | gas
+| bip_39_word_new_line_8 | gas
 flat
 copy
 chalk
@@ -113,7 +113,7 @@ hamster
 long
 one
 person |  
-| bip_39_word_new_line9 | gas
+| bip_39_word_new_line_9 | gas
 flat
 copy
 chalk

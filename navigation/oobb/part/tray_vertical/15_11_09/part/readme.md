@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | coconut |  
-| bip_39_word_new_br10 | coconut<br>say<br>arm<br>wet<br>script<br>magnet<br>own<br>river<br>circle<br>time |  
-| bip_39_word_new_br11 | coconut<br>say<br>arm<br>wet<br>script<br>magnet<br>own<br>river<br>circle<br>time<br>laptop |  
-| bip_39_word_new_br12 | coconut<br>say<br>arm<br>wet<br>script<br>magnet<br>own<br>river<br>circle<br>time<br>laptop<br>arrange |  
-| bip_39_word_new_br2 | coconut<br>say |  
-| bip_39_word_new_br3 | coconut<br>say<br>arm |  
-| bip_39_word_new_br4 | coconut<br>say<br>arm<br>wet |  
-| bip_39_word_new_br5 | coconut<br>say<br>arm<br>wet<br>script |  
-| bip_39_word_new_br6 | coconut<br>say<br>arm<br>wet<br>script<br>magnet |  
-| bip_39_word_new_br7 | coconut<br>say<br>arm<br>wet<br>script<br>magnet<br>own |  
-| bip_39_word_new_br8 | coconut<br>say<br>arm<br>wet<br>script<br>magnet<br>own<br>river |  
-| bip_39_word_new_br9 | coconut<br>say<br>arm<br>wet<br>script<br>magnet<br>own<br>river<br>circle |  
-| bip_39_word_new_line1 | coconut |  
-| bip_39_word_new_line10 | coconut
+| bip_39_word_new_br_1 | coconut |  
+| bip_39_word_new_br_10 | coconut<br>say<br>arm<br>wet<br>script<br>magnet<br>own<br>river<br>circle<br>time |  
+| bip_39_word_new_br_11 | coconut<br>say<br>arm<br>wet<br>script<br>magnet<br>own<br>river<br>circle<br>time<br>laptop |  
+| bip_39_word_new_br_12 | coconut<br>say<br>arm<br>wet<br>script<br>magnet<br>own<br>river<br>circle<br>time<br>laptop<br>arrange |  
+| bip_39_word_new_br_2 | coconut<br>say |  
+| bip_39_word_new_br_3 | coconut<br>say<br>arm |  
+| bip_39_word_new_br_4 | coconut<br>say<br>arm<br>wet |  
+| bip_39_word_new_br_5 | coconut<br>say<br>arm<br>wet<br>script |  
+| bip_39_word_new_br_6 | coconut<br>say<br>arm<br>wet<br>script<br>magnet |  
+| bip_39_word_new_br_7 | coconut<br>say<br>arm<br>wet<br>script<br>magnet<br>own |  
+| bip_39_word_new_br_8 | coconut<br>say<br>arm<br>wet<br>script<br>magnet<br>own<br>river |  
+| bip_39_word_new_br_9 | coconut<br>say<br>arm<br>wet<br>script<br>magnet<br>own<br>river<br>circle |  
+| bip_39_word_new_line_1 | coconut |  
+| bip_39_word_new_line_10 | coconut
 say
 arm
 wet
@@ -55,7 +55,7 @@ own
 river
 circle
 time |  
-| bip_39_word_new_line11 | coconut
+| bip_39_word_new_line_11 | coconut
 say
 arm
 wet
@@ -66,7 +66,7 @@ river
 circle
 time
 laptop |  
-| bip_39_word_new_line12 | coconut
+| bip_39_word_new_line_12 | coconut
 say
 arm
 wet
@@ -78,34 +78,34 @@ circle
 time
 laptop
 arrange |  
-| bip_39_word_new_line2 | coconut
+| bip_39_word_new_line_2 | coconut
 say |  
-| bip_39_word_new_line3 | coconut
+| bip_39_word_new_line_3 | coconut
 say
 arm |  
-| bip_39_word_new_line4 | coconut
+| bip_39_word_new_line_4 | coconut
 say
 arm
 wet |  
-| bip_39_word_new_line5 | coconut
+| bip_39_word_new_line_5 | coconut
 say
 arm
 wet
 script |  
-| bip_39_word_new_line6 | coconut
+| bip_39_word_new_line_6 | coconut
 say
 arm
 wet
 script
 magnet |  
-| bip_39_word_new_line7 | coconut
+| bip_39_word_new_line_7 | coconut
 say
 arm
 wet
 script
 magnet
 own |  
-| bip_39_word_new_line8 | coconut
+| bip_39_word_new_line_8 | coconut
 say
 arm
 wet
@@ -113,7 +113,7 @@ script
 magnet
 own
 river |  
-| bip_39_word_new_line9 | coconut
+| bip_39_word_new_line_9 | coconut
 say
 arm
 wet

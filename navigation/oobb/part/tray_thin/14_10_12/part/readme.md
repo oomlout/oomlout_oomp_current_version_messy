@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sell |  
-| bip_39_word_new_br10 | sell<br>kid<br>fetch<br>shock<br>claim<br>limb<br>bid<br>thank<br>below<br>broken |  
-| bip_39_word_new_br11 | sell<br>kid<br>fetch<br>shock<br>claim<br>limb<br>bid<br>thank<br>below<br>broken<br>oak |  
-| bip_39_word_new_br12 | sell<br>kid<br>fetch<br>shock<br>claim<br>limb<br>bid<br>thank<br>below<br>broken<br>oak<br>accuse |  
-| bip_39_word_new_br2 | sell<br>kid |  
-| bip_39_word_new_br3 | sell<br>kid<br>fetch |  
-| bip_39_word_new_br4 | sell<br>kid<br>fetch<br>shock |  
-| bip_39_word_new_br5 | sell<br>kid<br>fetch<br>shock<br>claim |  
-| bip_39_word_new_br6 | sell<br>kid<br>fetch<br>shock<br>claim<br>limb |  
-| bip_39_word_new_br7 | sell<br>kid<br>fetch<br>shock<br>claim<br>limb<br>bid |  
-| bip_39_word_new_br8 | sell<br>kid<br>fetch<br>shock<br>claim<br>limb<br>bid<br>thank |  
-| bip_39_word_new_br9 | sell<br>kid<br>fetch<br>shock<br>claim<br>limb<br>bid<br>thank<br>below |  
-| bip_39_word_new_line1 | sell |  
-| bip_39_word_new_line10 | sell
+| bip_39_word_new_br_1 | sell |  
+| bip_39_word_new_br_10 | sell<br>kid<br>fetch<br>shock<br>claim<br>limb<br>bid<br>thank<br>below<br>broken |  
+| bip_39_word_new_br_11 | sell<br>kid<br>fetch<br>shock<br>claim<br>limb<br>bid<br>thank<br>below<br>broken<br>oak |  
+| bip_39_word_new_br_12 | sell<br>kid<br>fetch<br>shock<br>claim<br>limb<br>bid<br>thank<br>below<br>broken<br>oak<br>accuse |  
+| bip_39_word_new_br_2 | sell<br>kid |  
+| bip_39_word_new_br_3 | sell<br>kid<br>fetch |  
+| bip_39_word_new_br_4 | sell<br>kid<br>fetch<br>shock |  
+| bip_39_word_new_br_5 | sell<br>kid<br>fetch<br>shock<br>claim |  
+| bip_39_word_new_br_6 | sell<br>kid<br>fetch<br>shock<br>claim<br>limb |  
+| bip_39_word_new_br_7 | sell<br>kid<br>fetch<br>shock<br>claim<br>limb<br>bid |  
+| bip_39_word_new_br_8 | sell<br>kid<br>fetch<br>shock<br>claim<br>limb<br>bid<br>thank |  
+| bip_39_word_new_br_9 | sell<br>kid<br>fetch<br>shock<br>claim<br>limb<br>bid<br>thank<br>below |  
+| bip_39_word_new_line_1 | sell |  
+| bip_39_word_new_line_10 | sell
 kid
 fetch
 shock
@@ -55,7 +55,7 @@ bid
 thank
 below
 broken |  
-| bip_39_word_new_line11 | sell
+| bip_39_word_new_line_11 | sell
 kid
 fetch
 shock
@@ -66,7 +66,7 @@ thank
 below
 broken
 oak |  
-| bip_39_word_new_line12 | sell
+| bip_39_word_new_line_12 | sell
 kid
 fetch
 shock
@@ -78,34 +78,34 @@ below
 broken
 oak
 accuse |  
-| bip_39_word_new_line2 | sell
+| bip_39_word_new_line_2 | sell
 kid |  
-| bip_39_word_new_line3 | sell
+| bip_39_word_new_line_3 | sell
 kid
 fetch |  
-| bip_39_word_new_line4 | sell
+| bip_39_word_new_line_4 | sell
 kid
 fetch
 shock |  
-| bip_39_word_new_line5 | sell
+| bip_39_word_new_line_5 | sell
 kid
 fetch
 shock
 claim |  
-| bip_39_word_new_line6 | sell
+| bip_39_word_new_line_6 | sell
 kid
 fetch
 shock
 claim
 limb |  
-| bip_39_word_new_line7 | sell
+| bip_39_word_new_line_7 | sell
 kid
 fetch
 shock
 claim
 limb
 bid |  
-| bip_39_word_new_line8 | sell
+| bip_39_word_new_line_8 | sell
 kid
 fetch
 shock
@@ -113,7 +113,7 @@ claim
 limb
 bid
 thank |  
-| bip_39_word_new_line9 | sell
+| bip_39_word_new_line_9 | sell
 kid
 fetch
 shock

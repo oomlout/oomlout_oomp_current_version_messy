@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | echo |  
-| bip_39_word_new_br10 | echo<br>supreme<br>bird<br>ghost<br>someone<br>mean<br>region<br>bracket<br>drop<br>network |  
-| bip_39_word_new_br11 | echo<br>supreme<br>bird<br>ghost<br>someone<br>mean<br>region<br>bracket<br>drop<br>network<br>stone |  
-| bip_39_word_new_br12 | echo<br>supreme<br>bird<br>ghost<br>someone<br>mean<br>region<br>bracket<br>drop<br>network<br>stone<br>alley |  
-| bip_39_word_new_br2 | echo<br>supreme |  
-| bip_39_word_new_br3 | echo<br>supreme<br>bird |  
-| bip_39_word_new_br4 | echo<br>supreme<br>bird<br>ghost |  
-| bip_39_word_new_br5 | echo<br>supreme<br>bird<br>ghost<br>someone |  
-| bip_39_word_new_br6 | echo<br>supreme<br>bird<br>ghost<br>someone<br>mean |  
-| bip_39_word_new_br7 | echo<br>supreme<br>bird<br>ghost<br>someone<br>mean<br>region |  
-| bip_39_word_new_br8 | echo<br>supreme<br>bird<br>ghost<br>someone<br>mean<br>region<br>bracket |  
-| bip_39_word_new_br9 | echo<br>supreme<br>bird<br>ghost<br>someone<br>mean<br>region<br>bracket<br>drop |  
-| bip_39_word_new_line1 | echo |  
-| bip_39_word_new_line10 | echo
+| bip_39_word_new_br_1 | echo |  
+| bip_39_word_new_br_10 | echo<br>supreme<br>bird<br>ghost<br>someone<br>mean<br>region<br>bracket<br>drop<br>network |  
+| bip_39_word_new_br_11 | echo<br>supreme<br>bird<br>ghost<br>someone<br>mean<br>region<br>bracket<br>drop<br>network<br>stone |  
+| bip_39_word_new_br_12 | echo<br>supreme<br>bird<br>ghost<br>someone<br>mean<br>region<br>bracket<br>drop<br>network<br>stone<br>alley |  
+| bip_39_word_new_br_2 | echo<br>supreme |  
+| bip_39_word_new_br_3 | echo<br>supreme<br>bird |  
+| bip_39_word_new_br_4 | echo<br>supreme<br>bird<br>ghost |  
+| bip_39_word_new_br_5 | echo<br>supreme<br>bird<br>ghost<br>someone |  
+| bip_39_word_new_br_6 | echo<br>supreme<br>bird<br>ghost<br>someone<br>mean |  
+| bip_39_word_new_br_7 | echo<br>supreme<br>bird<br>ghost<br>someone<br>mean<br>region |  
+| bip_39_word_new_br_8 | echo<br>supreme<br>bird<br>ghost<br>someone<br>mean<br>region<br>bracket |  
+| bip_39_word_new_br_9 | echo<br>supreme<br>bird<br>ghost<br>someone<br>mean<br>region<br>bracket<br>drop |  
+| bip_39_word_new_line_1 | echo |  
+| bip_39_word_new_line_10 | echo
 supreme
 bird
 ghost
@@ -55,7 +55,7 @@ region
 bracket
 drop
 network |  
-| bip_39_word_new_line11 | echo
+| bip_39_word_new_line_11 | echo
 supreme
 bird
 ghost
@@ -66,7 +66,7 @@ bracket
 drop
 network
 stone |  
-| bip_39_word_new_line12 | echo
+| bip_39_word_new_line_12 | echo
 supreme
 bird
 ghost
@@ -78,34 +78,34 @@ drop
 network
 stone
 alley |  
-| bip_39_word_new_line2 | echo
+| bip_39_word_new_line_2 | echo
 supreme |  
-| bip_39_word_new_line3 | echo
+| bip_39_word_new_line_3 | echo
 supreme
 bird |  
-| bip_39_word_new_line4 | echo
+| bip_39_word_new_line_4 | echo
 supreme
 bird
 ghost |  
-| bip_39_word_new_line5 | echo
+| bip_39_word_new_line_5 | echo
 supreme
 bird
 ghost
 someone |  
-| bip_39_word_new_line6 | echo
+| bip_39_word_new_line_6 | echo
 supreme
 bird
 ghost
 someone
 mean |  
-| bip_39_word_new_line7 | echo
+| bip_39_word_new_line_7 | echo
 supreme
 bird
 ghost
 someone
 mean
 region |  
-| bip_39_word_new_line8 | echo
+| bip_39_word_new_line_8 | echo
 supreme
 bird
 ghost
@@ -113,7 +113,7 @@ someone
 mean
 region
 bracket |  
-| bip_39_word_new_line9 | echo
+| bip_39_word_new_line_9 | echo
 supreme
 bird
 ghost

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cash |  
-| bip_39_word_new_br10 | cash<br>middle<br>success<br>news<br>hockey<br>miss<br>night<br>clump<br>food<br>letter |  
-| bip_39_word_new_br11 | cash<br>middle<br>success<br>news<br>hockey<br>miss<br>night<br>clump<br>food<br>letter<br>dress |  
-| bip_39_word_new_br12 | cash<br>middle<br>success<br>news<br>hockey<br>miss<br>night<br>clump<br>food<br>letter<br>dress<br>ankle |  
-| bip_39_word_new_br2 | cash<br>middle |  
-| bip_39_word_new_br3 | cash<br>middle<br>success |  
-| bip_39_word_new_br4 | cash<br>middle<br>success<br>news |  
-| bip_39_word_new_br5 | cash<br>middle<br>success<br>news<br>hockey |  
-| bip_39_word_new_br6 | cash<br>middle<br>success<br>news<br>hockey<br>miss |  
-| bip_39_word_new_br7 | cash<br>middle<br>success<br>news<br>hockey<br>miss<br>night |  
-| bip_39_word_new_br8 | cash<br>middle<br>success<br>news<br>hockey<br>miss<br>night<br>clump |  
-| bip_39_word_new_br9 | cash<br>middle<br>success<br>news<br>hockey<br>miss<br>night<br>clump<br>food |  
-| bip_39_word_new_line1 | cash |  
-| bip_39_word_new_line10 | cash
+| bip_39_word_new_br_1 | cash |  
+| bip_39_word_new_br_10 | cash<br>middle<br>success<br>news<br>hockey<br>miss<br>night<br>clump<br>food<br>letter |  
+| bip_39_word_new_br_11 | cash<br>middle<br>success<br>news<br>hockey<br>miss<br>night<br>clump<br>food<br>letter<br>dress |  
+| bip_39_word_new_br_12 | cash<br>middle<br>success<br>news<br>hockey<br>miss<br>night<br>clump<br>food<br>letter<br>dress<br>ankle |  
+| bip_39_word_new_br_2 | cash<br>middle |  
+| bip_39_word_new_br_3 | cash<br>middle<br>success |  
+| bip_39_word_new_br_4 | cash<br>middle<br>success<br>news |  
+| bip_39_word_new_br_5 | cash<br>middle<br>success<br>news<br>hockey |  
+| bip_39_word_new_br_6 | cash<br>middle<br>success<br>news<br>hockey<br>miss |  
+| bip_39_word_new_br_7 | cash<br>middle<br>success<br>news<br>hockey<br>miss<br>night |  
+| bip_39_word_new_br_8 | cash<br>middle<br>success<br>news<br>hockey<br>miss<br>night<br>clump |  
+| bip_39_word_new_br_9 | cash<br>middle<br>success<br>news<br>hockey<br>miss<br>night<br>clump<br>food |  
+| bip_39_word_new_line_1 | cash |  
+| bip_39_word_new_line_10 | cash
 middle
 success
 news
@@ -55,7 +55,7 @@ night
 clump
 food
 letter |  
-| bip_39_word_new_line11 | cash
+| bip_39_word_new_line_11 | cash
 middle
 success
 news
@@ -66,7 +66,7 @@ clump
 food
 letter
 dress |  
-| bip_39_word_new_line12 | cash
+| bip_39_word_new_line_12 | cash
 middle
 success
 news
@@ -78,34 +78,34 @@ food
 letter
 dress
 ankle |  
-| bip_39_word_new_line2 | cash
+| bip_39_word_new_line_2 | cash
 middle |  
-| bip_39_word_new_line3 | cash
+| bip_39_word_new_line_3 | cash
 middle
 success |  
-| bip_39_word_new_line4 | cash
+| bip_39_word_new_line_4 | cash
 middle
 success
 news |  
-| bip_39_word_new_line5 | cash
+| bip_39_word_new_line_5 | cash
 middle
 success
 news
 hockey |  
-| bip_39_word_new_line6 | cash
+| bip_39_word_new_line_6 | cash
 middle
 success
 news
 hockey
 miss |  
-| bip_39_word_new_line7 | cash
+| bip_39_word_new_line_7 | cash
 middle
 success
 news
 hockey
 miss
 night |  
-| bip_39_word_new_line8 | cash
+| bip_39_word_new_line_8 | cash
 middle
 success
 news
@@ -113,7 +113,7 @@ hockey
 miss
 night
 clump |  
-| bip_39_word_new_line9 | cash
+| bip_39_word_new_line_9 | cash
 middle
 success
 news

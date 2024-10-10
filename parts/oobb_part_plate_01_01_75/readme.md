@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | live |  
-| bip_39_word_new_br10 | live<br>undo<br>proof<br>kid<br>bicycle<br>before<br>witness<br>air<br>divert<br>ceiling |  
-| bip_39_word_new_br11 | live<br>undo<br>proof<br>kid<br>bicycle<br>before<br>witness<br>air<br>divert<br>ceiling<br>pupil |  
-| bip_39_word_new_br12 | live<br>undo<br>proof<br>kid<br>bicycle<br>before<br>witness<br>air<br>divert<br>ceiling<br>pupil<br>aim |  
-| bip_39_word_new_br2 | live<br>undo |  
-| bip_39_word_new_br3 | live<br>undo<br>proof |  
-| bip_39_word_new_br4 | live<br>undo<br>proof<br>kid |  
-| bip_39_word_new_br5 | live<br>undo<br>proof<br>kid<br>bicycle |  
-| bip_39_word_new_br6 | live<br>undo<br>proof<br>kid<br>bicycle<br>before |  
-| bip_39_word_new_br7 | live<br>undo<br>proof<br>kid<br>bicycle<br>before<br>witness |  
-| bip_39_word_new_br8 | live<br>undo<br>proof<br>kid<br>bicycle<br>before<br>witness<br>air |  
-| bip_39_word_new_br9 | live<br>undo<br>proof<br>kid<br>bicycle<br>before<br>witness<br>air<br>divert |  
-| bip_39_word_new_line1 | live |  
-| bip_39_word_new_line10 | live
+| bip_39_word_new_br_1 | live |  
+| bip_39_word_new_br_10 | live<br>undo<br>proof<br>kid<br>bicycle<br>before<br>witness<br>air<br>divert<br>ceiling |  
+| bip_39_word_new_br_11 | live<br>undo<br>proof<br>kid<br>bicycle<br>before<br>witness<br>air<br>divert<br>ceiling<br>pupil |  
+| bip_39_word_new_br_12 | live<br>undo<br>proof<br>kid<br>bicycle<br>before<br>witness<br>air<br>divert<br>ceiling<br>pupil<br>aim |  
+| bip_39_word_new_br_2 | live<br>undo |  
+| bip_39_word_new_br_3 | live<br>undo<br>proof |  
+| bip_39_word_new_br_4 | live<br>undo<br>proof<br>kid |  
+| bip_39_word_new_br_5 | live<br>undo<br>proof<br>kid<br>bicycle |  
+| bip_39_word_new_br_6 | live<br>undo<br>proof<br>kid<br>bicycle<br>before |  
+| bip_39_word_new_br_7 | live<br>undo<br>proof<br>kid<br>bicycle<br>before<br>witness |  
+| bip_39_word_new_br_8 | live<br>undo<br>proof<br>kid<br>bicycle<br>before<br>witness<br>air |  
+| bip_39_word_new_br_9 | live<br>undo<br>proof<br>kid<br>bicycle<br>before<br>witness<br>air<br>divert |  
+| bip_39_word_new_line_1 | live |  
+| bip_39_word_new_line_10 | live
 undo
 proof
 kid
@@ -55,7 +55,7 @@ witness
 air
 divert
 ceiling |  
-| bip_39_word_new_line11 | live
+| bip_39_word_new_line_11 | live
 undo
 proof
 kid
@@ -66,7 +66,7 @@ air
 divert
 ceiling
 pupil |  
-| bip_39_word_new_line12 | live
+| bip_39_word_new_line_12 | live
 undo
 proof
 kid
@@ -78,34 +78,34 @@ divert
 ceiling
 pupil
 aim |  
-| bip_39_word_new_line2 | live
+| bip_39_word_new_line_2 | live
 undo |  
-| bip_39_word_new_line3 | live
+| bip_39_word_new_line_3 | live
 undo
 proof |  
-| bip_39_word_new_line4 | live
+| bip_39_word_new_line_4 | live
 undo
 proof
 kid |  
-| bip_39_word_new_line5 | live
+| bip_39_word_new_line_5 | live
 undo
 proof
 kid
 bicycle |  
-| bip_39_word_new_line6 | live
+| bip_39_word_new_line_6 | live
 undo
 proof
 kid
 bicycle
 before |  
-| bip_39_word_new_line7 | live
+| bip_39_word_new_line_7 | live
 undo
 proof
 kid
 bicycle
 before
 witness |  
-| bip_39_word_new_line8 | live
+| bip_39_word_new_line_8 | live
 undo
 proof
 kid
@@ -113,7 +113,7 @@ bicycle
 before
 witness
 air |  
-| bip_39_word_new_line9 | live
+| bip_39_word_new_line_9 | live
 undo
 proof
 kid

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wear |  
-| bip_39_word_new_br10 | wear<br>fruit<br>heavy<br>toilet<br>apology<br>wash<br>deputy<br>fall<br>fire<br>hub |  
-| bip_39_word_new_br11 | wear<br>fruit<br>heavy<br>toilet<br>apology<br>wash<br>deputy<br>fall<br>fire<br>hub<br>sibling |  
-| bip_39_word_new_br12 | wear<br>fruit<br>heavy<br>toilet<br>apology<br>wash<br>deputy<br>fall<br>fire<br>hub<br>sibling<br>any |  
-| bip_39_word_new_br2 | wear<br>fruit |  
-| bip_39_word_new_br3 | wear<br>fruit<br>heavy |  
-| bip_39_word_new_br4 | wear<br>fruit<br>heavy<br>toilet |  
-| bip_39_word_new_br5 | wear<br>fruit<br>heavy<br>toilet<br>apology |  
-| bip_39_word_new_br6 | wear<br>fruit<br>heavy<br>toilet<br>apology<br>wash |  
-| bip_39_word_new_br7 | wear<br>fruit<br>heavy<br>toilet<br>apology<br>wash<br>deputy |  
-| bip_39_word_new_br8 | wear<br>fruit<br>heavy<br>toilet<br>apology<br>wash<br>deputy<br>fall |  
-| bip_39_word_new_br9 | wear<br>fruit<br>heavy<br>toilet<br>apology<br>wash<br>deputy<br>fall<br>fire |  
-| bip_39_word_new_line1 | wear |  
-| bip_39_word_new_line10 | wear
+| bip_39_word_new_br_1 | wear |  
+| bip_39_word_new_br_10 | wear<br>fruit<br>heavy<br>toilet<br>apology<br>wash<br>deputy<br>fall<br>fire<br>hub |  
+| bip_39_word_new_br_11 | wear<br>fruit<br>heavy<br>toilet<br>apology<br>wash<br>deputy<br>fall<br>fire<br>hub<br>sibling |  
+| bip_39_word_new_br_12 | wear<br>fruit<br>heavy<br>toilet<br>apology<br>wash<br>deputy<br>fall<br>fire<br>hub<br>sibling<br>any |  
+| bip_39_word_new_br_2 | wear<br>fruit |  
+| bip_39_word_new_br_3 | wear<br>fruit<br>heavy |  
+| bip_39_word_new_br_4 | wear<br>fruit<br>heavy<br>toilet |  
+| bip_39_word_new_br_5 | wear<br>fruit<br>heavy<br>toilet<br>apology |  
+| bip_39_word_new_br_6 | wear<br>fruit<br>heavy<br>toilet<br>apology<br>wash |  
+| bip_39_word_new_br_7 | wear<br>fruit<br>heavy<br>toilet<br>apology<br>wash<br>deputy |  
+| bip_39_word_new_br_8 | wear<br>fruit<br>heavy<br>toilet<br>apology<br>wash<br>deputy<br>fall |  
+| bip_39_word_new_br_9 | wear<br>fruit<br>heavy<br>toilet<br>apology<br>wash<br>deputy<br>fall<br>fire |  
+| bip_39_word_new_line_1 | wear |  
+| bip_39_word_new_line_10 | wear
 fruit
 heavy
 toilet
@@ -55,7 +55,7 @@ deputy
 fall
 fire
 hub |  
-| bip_39_word_new_line11 | wear
+| bip_39_word_new_line_11 | wear
 fruit
 heavy
 toilet
@@ -66,7 +66,7 @@ fall
 fire
 hub
 sibling |  
-| bip_39_word_new_line12 | wear
+| bip_39_word_new_line_12 | wear
 fruit
 heavy
 toilet
@@ -78,34 +78,34 @@ fire
 hub
 sibling
 any |  
-| bip_39_word_new_line2 | wear
+| bip_39_word_new_line_2 | wear
 fruit |  
-| bip_39_word_new_line3 | wear
+| bip_39_word_new_line_3 | wear
 fruit
 heavy |  
-| bip_39_word_new_line4 | wear
+| bip_39_word_new_line_4 | wear
 fruit
 heavy
 toilet |  
-| bip_39_word_new_line5 | wear
+| bip_39_word_new_line_5 | wear
 fruit
 heavy
 toilet
 apology |  
-| bip_39_word_new_line6 | wear
+| bip_39_word_new_line_6 | wear
 fruit
 heavy
 toilet
 apology
 wash |  
-| bip_39_word_new_line7 | wear
+| bip_39_word_new_line_7 | wear
 fruit
 heavy
 toilet
 apology
 wash
 deputy |  
-| bip_39_word_new_line8 | wear
+| bip_39_word_new_line_8 | wear
 fruit
 heavy
 toilet
@@ -113,7 +113,7 @@ apology
 wash
 deputy
 fall |  
-| bip_39_word_new_line9 | wear
+| bip_39_word_new_line_9 | wear
 fruit
 heavy
 toilet

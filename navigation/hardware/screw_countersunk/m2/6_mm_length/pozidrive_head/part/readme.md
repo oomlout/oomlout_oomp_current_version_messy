@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | deny |  
-| bip_39_word_new_br10 | deny<br>output<br>muffin<br>castle<br>book<br>pupil<br>jealous<br>eye<br>shed<br>begin |  
-| bip_39_word_new_br11 | deny<br>output<br>muffin<br>castle<br>book<br>pupil<br>jealous<br>eye<br>shed<br>begin<br>where |  
-| bip_39_word_new_br12 | deny<br>output<br>muffin<br>castle<br>book<br>pupil<br>jealous<br>eye<br>shed<br>begin<br>where<br>amazing |  
-| bip_39_word_new_br2 | deny<br>output |  
-| bip_39_word_new_br3 | deny<br>output<br>muffin |  
-| bip_39_word_new_br4 | deny<br>output<br>muffin<br>castle |  
-| bip_39_word_new_br5 | deny<br>output<br>muffin<br>castle<br>book |  
-| bip_39_word_new_br6 | deny<br>output<br>muffin<br>castle<br>book<br>pupil |  
-| bip_39_word_new_br7 | deny<br>output<br>muffin<br>castle<br>book<br>pupil<br>jealous |  
-| bip_39_word_new_br8 | deny<br>output<br>muffin<br>castle<br>book<br>pupil<br>jealous<br>eye |  
-| bip_39_word_new_br9 | deny<br>output<br>muffin<br>castle<br>book<br>pupil<br>jealous<br>eye<br>shed |  
-| bip_39_word_new_line1 | deny |  
-| bip_39_word_new_line10 | deny
+| bip_39_word_new_br_1 | deny |  
+| bip_39_word_new_br_10 | deny<br>output<br>muffin<br>castle<br>book<br>pupil<br>jealous<br>eye<br>shed<br>begin |  
+| bip_39_word_new_br_11 | deny<br>output<br>muffin<br>castle<br>book<br>pupil<br>jealous<br>eye<br>shed<br>begin<br>where |  
+| bip_39_word_new_br_12 | deny<br>output<br>muffin<br>castle<br>book<br>pupil<br>jealous<br>eye<br>shed<br>begin<br>where<br>amazing |  
+| bip_39_word_new_br_2 | deny<br>output |  
+| bip_39_word_new_br_3 | deny<br>output<br>muffin |  
+| bip_39_word_new_br_4 | deny<br>output<br>muffin<br>castle |  
+| bip_39_word_new_br_5 | deny<br>output<br>muffin<br>castle<br>book |  
+| bip_39_word_new_br_6 | deny<br>output<br>muffin<br>castle<br>book<br>pupil |  
+| bip_39_word_new_br_7 | deny<br>output<br>muffin<br>castle<br>book<br>pupil<br>jealous |  
+| bip_39_word_new_br_8 | deny<br>output<br>muffin<br>castle<br>book<br>pupil<br>jealous<br>eye |  
+| bip_39_word_new_br_9 | deny<br>output<br>muffin<br>castle<br>book<br>pupil<br>jealous<br>eye<br>shed |  
+| bip_39_word_new_line_1 | deny |  
+| bip_39_word_new_line_10 | deny
 output
 muffin
 castle
@@ -55,7 +55,7 @@ jealous
 eye
 shed
 begin |  
-| bip_39_word_new_line11 | deny
+| bip_39_word_new_line_11 | deny
 output
 muffin
 castle
@@ -66,7 +66,7 @@ eye
 shed
 begin
 where |  
-| bip_39_word_new_line12 | deny
+| bip_39_word_new_line_12 | deny
 output
 muffin
 castle
@@ -78,34 +78,34 @@ shed
 begin
 where
 amazing |  
-| bip_39_word_new_line2 | deny
+| bip_39_word_new_line_2 | deny
 output |  
-| bip_39_word_new_line3 | deny
+| bip_39_word_new_line_3 | deny
 output
 muffin |  
-| bip_39_word_new_line4 | deny
+| bip_39_word_new_line_4 | deny
 output
 muffin
 castle |  
-| bip_39_word_new_line5 | deny
+| bip_39_word_new_line_5 | deny
 output
 muffin
 castle
 book |  
-| bip_39_word_new_line6 | deny
+| bip_39_word_new_line_6 | deny
 output
 muffin
 castle
 book
 pupil |  
-| bip_39_word_new_line7 | deny
+| bip_39_word_new_line_7 | deny
 output
 muffin
 castle
 book
 pupil
 jealous |  
-| bip_39_word_new_line8 | deny
+| bip_39_word_new_line_8 | deny
 output
 muffin
 castle
@@ -113,7 +113,7 @@ book
 pupil
 jealous
 eye |  
-| bip_39_word_new_line9 | deny
+| bip_39_word_new_line_9 | deny
 output
 muffin
 castle

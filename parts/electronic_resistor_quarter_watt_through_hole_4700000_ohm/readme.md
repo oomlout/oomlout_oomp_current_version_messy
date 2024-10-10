@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | major |  
-| bip_39_word_new_br10 | major<br>wink<br>illegal<br>heavy<br>ancient<br>sting<br>grape<br>siege<br>much<br>promote |  
-| bip_39_word_new_br11 | major<br>wink<br>illegal<br>heavy<br>ancient<br>sting<br>grape<br>siege<br>much<br>promote<br>wheat |  
-| bip_39_word_new_br12 | major<br>wink<br>illegal<br>heavy<br>ancient<br>sting<br>grape<br>siege<br>much<br>promote<br>wheat<br>able |  
-| bip_39_word_new_br2 | major<br>wink |  
-| bip_39_word_new_br3 | major<br>wink<br>illegal |  
-| bip_39_word_new_br4 | major<br>wink<br>illegal<br>heavy |  
-| bip_39_word_new_br5 | major<br>wink<br>illegal<br>heavy<br>ancient |  
-| bip_39_word_new_br6 | major<br>wink<br>illegal<br>heavy<br>ancient<br>sting |  
-| bip_39_word_new_br7 | major<br>wink<br>illegal<br>heavy<br>ancient<br>sting<br>grape |  
-| bip_39_word_new_br8 | major<br>wink<br>illegal<br>heavy<br>ancient<br>sting<br>grape<br>siege |  
-| bip_39_word_new_br9 | major<br>wink<br>illegal<br>heavy<br>ancient<br>sting<br>grape<br>siege<br>much |  
-| bip_39_word_new_line1 | major |  
-| bip_39_word_new_line10 | major
+| bip_39_word_new_br_1 | major |  
+| bip_39_word_new_br_10 | major<br>wink<br>illegal<br>heavy<br>ancient<br>sting<br>grape<br>siege<br>much<br>promote |  
+| bip_39_word_new_br_11 | major<br>wink<br>illegal<br>heavy<br>ancient<br>sting<br>grape<br>siege<br>much<br>promote<br>wheat |  
+| bip_39_word_new_br_12 | major<br>wink<br>illegal<br>heavy<br>ancient<br>sting<br>grape<br>siege<br>much<br>promote<br>wheat<br>able |  
+| bip_39_word_new_br_2 | major<br>wink |  
+| bip_39_word_new_br_3 | major<br>wink<br>illegal |  
+| bip_39_word_new_br_4 | major<br>wink<br>illegal<br>heavy |  
+| bip_39_word_new_br_5 | major<br>wink<br>illegal<br>heavy<br>ancient |  
+| bip_39_word_new_br_6 | major<br>wink<br>illegal<br>heavy<br>ancient<br>sting |  
+| bip_39_word_new_br_7 | major<br>wink<br>illegal<br>heavy<br>ancient<br>sting<br>grape |  
+| bip_39_word_new_br_8 | major<br>wink<br>illegal<br>heavy<br>ancient<br>sting<br>grape<br>siege |  
+| bip_39_word_new_br_9 | major<br>wink<br>illegal<br>heavy<br>ancient<br>sting<br>grape<br>siege<br>much |  
+| bip_39_word_new_line_1 | major |  
+| bip_39_word_new_line_10 | major
 wink
 illegal
 heavy
@@ -55,7 +55,7 @@ grape
 siege
 much
 promote |  
-| bip_39_word_new_line11 | major
+| bip_39_word_new_line_11 | major
 wink
 illegal
 heavy
@@ -66,7 +66,7 @@ siege
 much
 promote
 wheat |  
-| bip_39_word_new_line12 | major
+| bip_39_word_new_line_12 | major
 wink
 illegal
 heavy
@@ -78,34 +78,34 @@ much
 promote
 wheat
 able |  
-| bip_39_word_new_line2 | major
+| bip_39_word_new_line_2 | major
 wink |  
-| bip_39_word_new_line3 | major
+| bip_39_word_new_line_3 | major
 wink
 illegal |  
-| bip_39_word_new_line4 | major
+| bip_39_word_new_line_4 | major
 wink
 illegal
 heavy |  
-| bip_39_word_new_line5 | major
+| bip_39_word_new_line_5 | major
 wink
 illegal
 heavy
 ancient |  
-| bip_39_word_new_line6 | major
+| bip_39_word_new_line_6 | major
 wink
 illegal
 heavy
 ancient
 sting |  
-| bip_39_word_new_line7 | major
+| bip_39_word_new_line_7 | major
 wink
 illegal
 heavy
 ancient
 sting
 grape |  
-| bip_39_word_new_line8 | major
+| bip_39_word_new_line_8 | major
 wink
 illegal
 heavy
@@ -113,7 +113,7 @@ ancient
 sting
 grape
 siege |  
-| bip_39_word_new_line9 | major
+| bip_39_word_new_line_9 | major
 wink
 illegal
 heavy

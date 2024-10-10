@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | can |  
-| bip_39_word_new_br10 | can<br>ostrich<br>ivory<br>wink<br>miss<br>scheme<br>rare<br>never<br>hospital<br>token |  
-| bip_39_word_new_br11 | can<br>ostrich<br>ivory<br>wink<br>miss<br>scheme<br>rare<br>never<br>hospital<br>token<br>conduct |  
-| bip_39_word_new_br12 | can<br>ostrich<br>ivory<br>wink<br>miss<br>scheme<br>rare<br>never<br>hospital<br>token<br>conduct<br>autumn |  
-| bip_39_word_new_br2 | can<br>ostrich |  
-| bip_39_word_new_br3 | can<br>ostrich<br>ivory |  
-| bip_39_word_new_br4 | can<br>ostrich<br>ivory<br>wink |  
-| bip_39_word_new_br5 | can<br>ostrich<br>ivory<br>wink<br>miss |  
-| bip_39_word_new_br6 | can<br>ostrich<br>ivory<br>wink<br>miss<br>scheme |  
-| bip_39_word_new_br7 | can<br>ostrich<br>ivory<br>wink<br>miss<br>scheme<br>rare |  
-| bip_39_word_new_br8 | can<br>ostrich<br>ivory<br>wink<br>miss<br>scheme<br>rare<br>never |  
-| bip_39_word_new_br9 | can<br>ostrich<br>ivory<br>wink<br>miss<br>scheme<br>rare<br>never<br>hospital |  
-| bip_39_word_new_line1 | can |  
-| bip_39_word_new_line10 | can
+| bip_39_word_new_br_1 | can |  
+| bip_39_word_new_br_10 | can<br>ostrich<br>ivory<br>wink<br>miss<br>scheme<br>rare<br>never<br>hospital<br>token |  
+| bip_39_word_new_br_11 | can<br>ostrich<br>ivory<br>wink<br>miss<br>scheme<br>rare<br>never<br>hospital<br>token<br>conduct |  
+| bip_39_word_new_br_12 | can<br>ostrich<br>ivory<br>wink<br>miss<br>scheme<br>rare<br>never<br>hospital<br>token<br>conduct<br>autumn |  
+| bip_39_word_new_br_2 | can<br>ostrich |  
+| bip_39_word_new_br_3 | can<br>ostrich<br>ivory |  
+| bip_39_word_new_br_4 | can<br>ostrich<br>ivory<br>wink |  
+| bip_39_word_new_br_5 | can<br>ostrich<br>ivory<br>wink<br>miss |  
+| bip_39_word_new_br_6 | can<br>ostrich<br>ivory<br>wink<br>miss<br>scheme |  
+| bip_39_word_new_br_7 | can<br>ostrich<br>ivory<br>wink<br>miss<br>scheme<br>rare |  
+| bip_39_word_new_br_8 | can<br>ostrich<br>ivory<br>wink<br>miss<br>scheme<br>rare<br>never |  
+| bip_39_word_new_br_9 | can<br>ostrich<br>ivory<br>wink<br>miss<br>scheme<br>rare<br>never<br>hospital |  
+| bip_39_word_new_line_1 | can |  
+| bip_39_word_new_line_10 | can
 ostrich
 ivory
 wink
@@ -55,7 +55,7 @@ rare
 never
 hospital
 token |  
-| bip_39_word_new_line11 | can
+| bip_39_word_new_line_11 | can
 ostrich
 ivory
 wink
@@ -66,7 +66,7 @@ never
 hospital
 token
 conduct |  
-| bip_39_word_new_line12 | can
+| bip_39_word_new_line_12 | can
 ostrich
 ivory
 wink
@@ -78,34 +78,34 @@ hospital
 token
 conduct
 autumn |  
-| bip_39_word_new_line2 | can
+| bip_39_word_new_line_2 | can
 ostrich |  
-| bip_39_word_new_line3 | can
+| bip_39_word_new_line_3 | can
 ostrich
 ivory |  
-| bip_39_word_new_line4 | can
+| bip_39_word_new_line_4 | can
 ostrich
 ivory
 wink |  
-| bip_39_word_new_line5 | can
+| bip_39_word_new_line_5 | can
 ostrich
 ivory
 wink
 miss |  
-| bip_39_word_new_line6 | can
+| bip_39_word_new_line_6 | can
 ostrich
 ivory
 wink
 miss
 scheme |  
-| bip_39_word_new_line7 | can
+| bip_39_word_new_line_7 | can
 ostrich
 ivory
 wink
 miss
 scheme
 rare |  
-| bip_39_word_new_line8 | can
+| bip_39_word_new_line_8 | can
 ostrich
 ivory
 wink
@@ -113,7 +113,7 @@ miss
 scheme
 rare
 never |  
-| bip_39_word_new_line9 | can
+| bip_39_word_new_line_9 | can
 ostrich
 ivory
 wink

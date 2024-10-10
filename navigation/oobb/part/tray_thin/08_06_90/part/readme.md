@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | harsh |  
-| bip_39_word_new_br10 | harsh<br>when<br>segment<br>finger<br>wise<br>enter<br>just<br>speed<br>absorb<br>border |  
-| bip_39_word_new_br11 | harsh<br>when<br>segment<br>finger<br>wise<br>enter<br>just<br>speed<br>absorb<br>border<br>tilt |  
-| bip_39_word_new_br12 | harsh<br>when<br>segment<br>finger<br>wise<br>enter<br>just<br>speed<br>absorb<br>border<br>tilt<br>always |  
-| bip_39_word_new_br2 | harsh<br>when |  
-| bip_39_word_new_br3 | harsh<br>when<br>segment |  
-| bip_39_word_new_br4 | harsh<br>when<br>segment<br>finger |  
-| bip_39_word_new_br5 | harsh<br>when<br>segment<br>finger<br>wise |  
-| bip_39_word_new_br6 | harsh<br>when<br>segment<br>finger<br>wise<br>enter |  
-| bip_39_word_new_br7 | harsh<br>when<br>segment<br>finger<br>wise<br>enter<br>just |  
-| bip_39_word_new_br8 | harsh<br>when<br>segment<br>finger<br>wise<br>enter<br>just<br>speed |  
-| bip_39_word_new_br9 | harsh<br>when<br>segment<br>finger<br>wise<br>enter<br>just<br>speed<br>absorb |  
-| bip_39_word_new_line1 | harsh |  
-| bip_39_word_new_line10 | harsh
+| bip_39_word_new_br_1 | harsh |  
+| bip_39_word_new_br_10 | harsh<br>when<br>segment<br>finger<br>wise<br>enter<br>just<br>speed<br>absorb<br>border |  
+| bip_39_word_new_br_11 | harsh<br>when<br>segment<br>finger<br>wise<br>enter<br>just<br>speed<br>absorb<br>border<br>tilt |  
+| bip_39_word_new_br_12 | harsh<br>when<br>segment<br>finger<br>wise<br>enter<br>just<br>speed<br>absorb<br>border<br>tilt<br>always |  
+| bip_39_word_new_br_2 | harsh<br>when |  
+| bip_39_word_new_br_3 | harsh<br>when<br>segment |  
+| bip_39_word_new_br_4 | harsh<br>when<br>segment<br>finger |  
+| bip_39_word_new_br_5 | harsh<br>when<br>segment<br>finger<br>wise |  
+| bip_39_word_new_br_6 | harsh<br>when<br>segment<br>finger<br>wise<br>enter |  
+| bip_39_word_new_br_7 | harsh<br>when<br>segment<br>finger<br>wise<br>enter<br>just |  
+| bip_39_word_new_br_8 | harsh<br>when<br>segment<br>finger<br>wise<br>enter<br>just<br>speed |  
+| bip_39_word_new_br_9 | harsh<br>when<br>segment<br>finger<br>wise<br>enter<br>just<br>speed<br>absorb |  
+| bip_39_word_new_line_1 | harsh |  
+| bip_39_word_new_line_10 | harsh
 when
 segment
 finger
@@ -55,7 +55,7 @@ just
 speed
 absorb
 border |  
-| bip_39_word_new_line11 | harsh
+| bip_39_word_new_line_11 | harsh
 when
 segment
 finger
@@ -66,7 +66,7 @@ speed
 absorb
 border
 tilt |  
-| bip_39_word_new_line12 | harsh
+| bip_39_word_new_line_12 | harsh
 when
 segment
 finger
@@ -78,34 +78,34 @@ absorb
 border
 tilt
 always |  
-| bip_39_word_new_line2 | harsh
+| bip_39_word_new_line_2 | harsh
 when |  
-| bip_39_word_new_line3 | harsh
+| bip_39_word_new_line_3 | harsh
 when
 segment |  
-| bip_39_word_new_line4 | harsh
+| bip_39_word_new_line_4 | harsh
 when
 segment
 finger |  
-| bip_39_word_new_line5 | harsh
+| bip_39_word_new_line_5 | harsh
 when
 segment
 finger
 wise |  
-| bip_39_word_new_line6 | harsh
+| bip_39_word_new_line_6 | harsh
 when
 segment
 finger
 wise
 enter |  
-| bip_39_word_new_line7 | harsh
+| bip_39_word_new_line_7 | harsh
 when
 segment
 finger
 wise
 enter
 just |  
-| bip_39_word_new_line8 | harsh
+| bip_39_word_new_line_8 | harsh
 when
 segment
 finger
@@ -113,7 +113,7 @@ wise
 enter
 just
 speed |  
-| bip_39_word_new_line9 | harsh
+| bip_39_word_new_line_9 | harsh
 when
 segment
 finger

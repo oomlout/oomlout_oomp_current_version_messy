@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | utility |  
-| bip_39_word_new_br10 | utility<br>critic<br>tornado<br>churn<br>post<br>total<br>color<br>cousin<br>tone<br>unaware |  
-| bip_39_word_new_br11 | utility<br>critic<br>tornado<br>churn<br>post<br>total<br>color<br>cousin<br>tone<br>unaware<br>radio |  
-| bip_39_word_new_br12 | utility<br>critic<br>tornado<br>churn<br>post<br>total<br>color<br>cousin<br>tone<br>unaware<br>radio<br>armor |  
-| bip_39_word_new_br2 | utility<br>critic |  
-| bip_39_word_new_br3 | utility<br>critic<br>tornado |  
-| bip_39_word_new_br4 | utility<br>critic<br>tornado<br>churn |  
-| bip_39_word_new_br5 | utility<br>critic<br>tornado<br>churn<br>post |  
-| bip_39_word_new_br6 | utility<br>critic<br>tornado<br>churn<br>post<br>total |  
-| bip_39_word_new_br7 | utility<br>critic<br>tornado<br>churn<br>post<br>total<br>color |  
-| bip_39_word_new_br8 | utility<br>critic<br>tornado<br>churn<br>post<br>total<br>color<br>cousin |  
-| bip_39_word_new_br9 | utility<br>critic<br>tornado<br>churn<br>post<br>total<br>color<br>cousin<br>tone |  
-| bip_39_word_new_line1 | utility |  
-| bip_39_word_new_line10 | utility
+| bip_39_word_new_br_1 | utility |  
+| bip_39_word_new_br_10 | utility<br>critic<br>tornado<br>churn<br>post<br>total<br>color<br>cousin<br>tone<br>unaware |  
+| bip_39_word_new_br_11 | utility<br>critic<br>tornado<br>churn<br>post<br>total<br>color<br>cousin<br>tone<br>unaware<br>radio |  
+| bip_39_word_new_br_12 | utility<br>critic<br>tornado<br>churn<br>post<br>total<br>color<br>cousin<br>tone<br>unaware<br>radio<br>armor |  
+| bip_39_word_new_br_2 | utility<br>critic |  
+| bip_39_word_new_br_3 | utility<br>critic<br>tornado |  
+| bip_39_word_new_br_4 | utility<br>critic<br>tornado<br>churn |  
+| bip_39_word_new_br_5 | utility<br>critic<br>tornado<br>churn<br>post |  
+| bip_39_word_new_br_6 | utility<br>critic<br>tornado<br>churn<br>post<br>total |  
+| bip_39_word_new_br_7 | utility<br>critic<br>tornado<br>churn<br>post<br>total<br>color |  
+| bip_39_word_new_br_8 | utility<br>critic<br>tornado<br>churn<br>post<br>total<br>color<br>cousin |  
+| bip_39_word_new_br_9 | utility<br>critic<br>tornado<br>churn<br>post<br>total<br>color<br>cousin<br>tone |  
+| bip_39_word_new_line_1 | utility |  
+| bip_39_word_new_line_10 | utility
 critic
 tornado
 churn
@@ -55,7 +55,7 @@ color
 cousin
 tone
 unaware |  
-| bip_39_word_new_line11 | utility
+| bip_39_word_new_line_11 | utility
 critic
 tornado
 churn
@@ -66,7 +66,7 @@ cousin
 tone
 unaware
 radio |  
-| bip_39_word_new_line12 | utility
+| bip_39_word_new_line_12 | utility
 critic
 tornado
 churn
@@ -78,34 +78,34 @@ tone
 unaware
 radio
 armor |  
-| bip_39_word_new_line2 | utility
+| bip_39_word_new_line_2 | utility
 critic |  
-| bip_39_word_new_line3 | utility
+| bip_39_word_new_line_3 | utility
 critic
 tornado |  
-| bip_39_word_new_line4 | utility
+| bip_39_word_new_line_4 | utility
 critic
 tornado
 churn |  
-| bip_39_word_new_line5 | utility
+| bip_39_word_new_line_5 | utility
 critic
 tornado
 churn
 post |  
-| bip_39_word_new_line6 | utility
+| bip_39_word_new_line_6 | utility
 critic
 tornado
 churn
 post
 total |  
-| bip_39_word_new_line7 | utility
+| bip_39_word_new_line_7 | utility
 critic
 tornado
 churn
 post
 total
 color |  
-| bip_39_word_new_line8 | utility
+| bip_39_word_new_line_8 | utility
 critic
 tornado
 churn
@@ -113,7 +113,7 @@ post
 total
 color
 cousin |  
-| bip_39_word_new_line9 | utility
+| bip_39_word_new_line_9 | utility
 critic
 tornado
 churn

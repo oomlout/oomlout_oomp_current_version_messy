@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | crash |  
-| bip_39_word_new_br10 | crash<br>grunt<br>cake<br>rabbit<br>alcohol<br>whisper<br>host<br>example<br>physical<br>gadget |  
-| bip_39_word_new_br11 | crash<br>grunt<br>cake<br>rabbit<br>alcohol<br>whisper<br>host<br>example<br>physical<br>gadget<br>fire |  
-| bip_39_word_new_br12 | crash<br>grunt<br>cake<br>rabbit<br>alcohol<br>whisper<br>host<br>example<br>physical<br>gadget<br>fire<br>area |  
-| bip_39_word_new_br2 | crash<br>grunt |  
-| bip_39_word_new_br3 | crash<br>grunt<br>cake |  
-| bip_39_word_new_br4 | crash<br>grunt<br>cake<br>rabbit |  
-| bip_39_word_new_br5 | crash<br>grunt<br>cake<br>rabbit<br>alcohol |  
-| bip_39_word_new_br6 | crash<br>grunt<br>cake<br>rabbit<br>alcohol<br>whisper |  
-| bip_39_word_new_br7 | crash<br>grunt<br>cake<br>rabbit<br>alcohol<br>whisper<br>host |  
-| bip_39_word_new_br8 | crash<br>grunt<br>cake<br>rabbit<br>alcohol<br>whisper<br>host<br>example |  
-| bip_39_word_new_br9 | crash<br>grunt<br>cake<br>rabbit<br>alcohol<br>whisper<br>host<br>example<br>physical |  
-| bip_39_word_new_line1 | crash |  
-| bip_39_word_new_line10 | crash
+| bip_39_word_new_br_1 | crash |  
+| bip_39_word_new_br_10 | crash<br>grunt<br>cake<br>rabbit<br>alcohol<br>whisper<br>host<br>example<br>physical<br>gadget |  
+| bip_39_word_new_br_11 | crash<br>grunt<br>cake<br>rabbit<br>alcohol<br>whisper<br>host<br>example<br>physical<br>gadget<br>fire |  
+| bip_39_word_new_br_12 | crash<br>grunt<br>cake<br>rabbit<br>alcohol<br>whisper<br>host<br>example<br>physical<br>gadget<br>fire<br>area |  
+| bip_39_word_new_br_2 | crash<br>grunt |  
+| bip_39_word_new_br_3 | crash<br>grunt<br>cake |  
+| bip_39_word_new_br_4 | crash<br>grunt<br>cake<br>rabbit |  
+| bip_39_word_new_br_5 | crash<br>grunt<br>cake<br>rabbit<br>alcohol |  
+| bip_39_word_new_br_6 | crash<br>grunt<br>cake<br>rabbit<br>alcohol<br>whisper |  
+| bip_39_word_new_br_7 | crash<br>grunt<br>cake<br>rabbit<br>alcohol<br>whisper<br>host |  
+| bip_39_word_new_br_8 | crash<br>grunt<br>cake<br>rabbit<br>alcohol<br>whisper<br>host<br>example |  
+| bip_39_word_new_br_9 | crash<br>grunt<br>cake<br>rabbit<br>alcohol<br>whisper<br>host<br>example<br>physical |  
+| bip_39_word_new_line_1 | crash |  
+| bip_39_word_new_line_10 | crash
 grunt
 cake
 rabbit
@@ -55,7 +55,7 @@ host
 example
 physical
 gadget |  
-| bip_39_word_new_line11 | crash
+| bip_39_word_new_line_11 | crash
 grunt
 cake
 rabbit
@@ -66,7 +66,7 @@ example
 physical
 gadget
 fire |  
-| bip_39_word_new_line12 | crash
+| bip_39_word_new_line_12 | crash
 grunt
 cake
 rabbit
@@ -78,34 +78,34 @@ physical
 gadget
 fire
 area |  
-| bip_39_word_new_line2 | crash
+| bip_39_word_new_line_2 | crash
 grunt |  
-| bip_39_word_new_line3 | crash
+| bip_39_word_new_line_3 | crash
 grunt
 cake |  
-| bip_39_word_new_line4 | crash
+| bip_39_word_new_line_4 | crash
 grunt
 cake
 rabbit |  
-| bip_39_word_new_line5 | crash
+| bip_39_word_new_line_5 | crash
 grunt
 cake
 rabbit
 alcohol |  
-| bip_39_word_new_line6 | crash
+| bip_39_word_new_line_6 | crash
 grunt
 cake
 rabbit
 alcohol
 whisper |  
-| bip_39_word_new_line7 | crash
+| bip_39_word_new_line_7 | crash
 grunt
 cake
 rabbit
 alcohol
 whisper
 host |  
-| bip_39_word_new_line8 | crash
+| bip_39_word_new_line_8 | crash
 grunt
 cake
 rabbit
@@ -113,7 +113,7 @@ alcohol
 whisper
 host
 example |  
-| bip_39_word_new_line9 | crash
+| bip_39_word_new_line_9 | crash
 grunt
 cake
 rabbit

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | brain |  
-| bip_39_word_new_br10 | brain<br>viable<br>hair<br>ivory<br>toilet<br>cargo<br>alcohol<br>switch<br>recycle<br>amused |  
-| bip_39_word_new_br11 | brain<br>viable<br>hair<br>ivory<br>toilet<br>cargo<br>alcohol<br>switch<br>recycle<br>amused<br>ladder |  
-| bip_39_word_new_br12 | brain<br>viable<br>hair<br>ivory<br>toilet<br>cargo<br>alcohol<br>switch<br>recycle<br>amused<br>ladder<br>arctic |  
-| bip_39_word_new_br2 | brain<br>viable |  
-| bip_39_word_new_br3 | brain<br>viable<br>hair |  
-| bip_39_word_new_br4 | brain<br>viable<br>hair<br>ivory |  
-| bip_39_word_new_br5 | brain<br>viable<br>hair<br>ivory<br>toilet |  
-| bip_39_word_new_br6 | brain<br>viable<br>hair<br>ivory<br>toilet<br>cargo |  
-| bip_39_word_new_br7 | brain<br>viable<br>hair<br>ivory<br>toilet<br>cargo<br>alcohol |  
-| bip_39_word_new_br8 | brain<br>viable<br>hair<br>ivory<br>toilet<br>cargo<br>alcohol<br>switch |  
-| bip_39_word_new_br9 | brain<br>viable<br>hair<br>ivory<br>toilet<br>cargo<br>alcohol<br>switch<br>recycle |  
-| bip_39_word_new_line1 | brain |  
-| bip_39_word_new_line10 | brain
+| bip_39_word_new_br_1 | brain |  
+| bip_39_word_new_br_10 | brain<br>viable<br>hair<br>ivory<br>toilet<br>cargo<br>alcohol<br>switch<br>recycle<br>amused |  
+| bip_39_word_new_br_11 | brain<br>viable<br>hair<br>ivory<br>toilet<br>cargo<br>alcohol<br>switch<br>recycle<br>amused<br>ladder |  
+| bip_39_word_new_br_12 | brain<br>viable<br>hair<br>ivory<br>toilet<br>cargo<br>alcohol<br>switch<br>recycle<br>amused<br>ladder<br>arctic |  
+| bip_39_word_new_br_2 | brain<br>viable |  
+| bip_39_word_new_br_3 | brain<br>viable<br>hair |  
+| bip_39_word_new_br_4 | brain<br>viable<br>hair<br>ivory |  
+| bip_39_word_new_br_5 | brain<br>viable<br>hair<br>ivory<br>toilet |  
+| bip_39_word_new_br_6 | brain<br>viable<br>hair<br>ivory<br>toilet<br>cargo |  
+| bip_39_word_new_br_7 | brain<br>viable<br>hair<br>ivory<br>toilet<br>cargo<br>alcohol |  
+| bip_39_word_new_br_8 | brain<br>viable<br>hair<br>ivory<br>toilet<br>cargo<br>alcohol<br>switch |  
+| bip_39_word_new_br_9 | brain<br>viable<br>hair<br>ivory<br>toilet<br>cargo<br>alcohol<br>switch<br>recycle |  
+| bip_39_word_new_line_1 | brain |  
+| bip_39_word_new_line_10 | brain
 viable
 hair
 ivory
@@ -55,7 +55,7 @@ alcohol
 switch
 recycle
 amused |  
-| bip_39_word_new_line11 | brain
+| bip_39_word_new_line_11 | brain
 viable
 hair
 ivory
@@ -66,7 +66,7 @@ switch
 recycle
 amused
 ladder |  
-| bip_39_word_new_line12 | brain
+| bip_39_word_new_line_12 | brain
 viable
 hair
 ivory
@@ -78,34 +78,34 @@ recycle
 amused
 ladder
 arctic |  
-| bip_39_word_new_line2 | brain
+| bip_39_word_new_line_2 | brain
 viable |  
-| bip_39_word_new_line3 | brain
+| bip_39_word_new_line_3 | brain
 viable
 hair |  
-| bip_39_word_new_line4 | brain
+| bip_39_word_new_line_4 | brain
 viable
 hair
 ivory |  
-| bip_39_word_new_line5 | brain
+| bip_39_word_new_line_5 | brain
 viable
 hair
 ivory
 toilet |  
-| bip_39_word_new_line6 | brain
+| bip_39_word_new_line_6 | brain
 viable
 hair
 ivory
 toilet
 cargo |  
-| bip_39_word_new_line7 | brain
+| bip_39_word_new_line_7 | brain
 viable
 hair
 ivory
 toilet
 cargo
 alcohol |  
-| bip_39_word_new_line8 | brain
+| bip_39_word_new_line_8 | brain
 viable
 hair
 ivory
@@ -113,7 +113,7 @@ toilet
 cargo
 alcohol
 switch |  
-| bip_39_word_new_line9 | brain
+| bip_39_word_new_line_9 | brain
 viable
 hair
 ivory

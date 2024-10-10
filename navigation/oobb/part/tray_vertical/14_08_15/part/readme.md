@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | guilt |  
-| bip_39_word_new_br10 | guilt<br>smile<br>access<br>rural<br>basic<br>kick<br>brief<br>rebel<br>bulb<br>decide |  
-| bip_39_word_new_br11 | guilt<br>smile<br>access<br>rural<br>basic<br>kick<br>brief<br>rebel<br>bulb<br>decide<br>tip |  
-| bip_39_word_new_br12 | guilt<br>smile<br>access<br>rural<br>basic<br>kick<br>brief<br>rebel<br>bulb<br>decide<br>tip<br>anchor |  
-| bip_39_word_new_br2 | guilt<br>smile |  
-| bip_39_word_new_br3 | guilt<br>smile<br>access |  
-| bip_39_word_new_br4 | guilt<br>smile<br>access<br>rural |  
-| bip_39_word_new_br5 | guilt<br>smile<br>access<br>rural<br>basic |  
-| bip_39_word_new_br6 | guilt<br>smile<br>access<br>rural<br>basic<br>kick |  
-| bip_39_word_new_br7 | guilt<br>smile<br>access<br>rural<br>basic<br>kick<br>brief |  
-| bip_39_word_new_br8 | guilt<br>smile<br>access<br>rural<br>basic<br>kick<br>brief<br>rebel |  
-| bip_39_word_new_br9 | guilt<br>smile<br>access<br>rural<br>basic<br>kick<br>brief<br>rebel<br>bulb |  
-| bip_39_word_new_line1 | guilt |  
-| bip_39_word_new_line10 | guilt
+| bip_39_word_new_br_1 | guilt |  
+| bip_39_word_new_br_10 | guilt<br>smile<br>access<br>rural<br>basic<br>kick<br>brief<br>rebel<br>bulb<br>decide |  
+| bip_39_word_new_br_11 | guilt<br>smile<br>access<br>rural<br>basic<br>kick<br>brief<br>rebel<br>bulb<br>decide<br>tip |  
+| bip_39_word_new_br_12 | guilt<br>smile<br>access<br>rural<br>basic<br>kick<br>brief<br>rebel<br>bulb<br>decide<br>tip<br>anchor |  
+| bip_39_word_new_br_2 | guilt<br>smile |  
+| bip_39_word_new_br_3 | guilt<br>smile<br>access |  
+| bip_39_word_new_br_4 | guilt<br>smile<br>access<br>rural |  
+| bip_39_word_new_br_5 | guilt<br>smile<br>access<br>rural<br>basic |  
+| bip_39_word_new_br_6 | guilt<br>smile<br>access<br>rural<br>basic<br>kick |  
+| bip_39_word_new_br_7 | guilt<br>smile<br>access<br>rural<br>basic<br>kick<br>brief |  
+| bip_39_word_new_br_8 | guilt<br>smile<br>access<br>rural<br>basic<br>kick<br>brief<br>rebel |  
+| bip_39_word_new_br_9 | guilt<br>smile<br>access<br>rural<br>basic<br>kick<br>brief<br>rebel<br>bulb |  
+| bip_39_word_new_line_1 | guilt |  
+| bip_39_word_new_line_10 | guilt
 smile
 access
 rural
@@ -55,7 +55,7 @@ brief
 rebel
 bulb
 decide |  
-| bip_39_word_new_line11 | guilt
+| bip_39_word_new_line_11 | guilt
 smile
 access
 rural
@@ -66,7 +66,7 @@ rebel
 bulb
 decide
 tip |  
-| bip_39_word_new_line12 | guilt
+| bip_39_word_new_line_12 | guilt
 smile
 access
 rural
@@ -78,34 +78,34 @@ bulb
 decide
 tip
 anchor |  
-| bip_39_word_new_line2 | guilt
+| bip_39_word_new_line_2 | guilt
 smile |  
-| bip_39_word_new_line3 | guilt
+| bip_39_word_new_line_3 | guilt
 smile
 access |  
-| bip_39_word_new_line4 | guilt
+| bip_39_word_new_line_4 | guilt
 smile
 access
 rural |  
-| bip_39_word_new_line5 | guilt
+| bip_39_word_new_line_5 | guilt
 smile
 access
 rural
 basic |  
-| bip_39_word_new_line6 | guilt
+| bip_39_word_new_line_6 | guilt
 smile
 access
 rural
 basic
 kick |  
-| bip_39_word_new_line7 | guilt
+| bip_39_word_new_line_7 | guilt
 smile
 access
 rural
 basic
 kick
 brief |  
-| bip_39_word_new_line8 | guilt
+| bip_39_word_new_line_8 | guilt
 smile
 access
 rural
@@ -113,7 +113,7 @@ basic
 kick
 brief
 rebel |  
-| bip_39_word_new_line9 | guilt
+| bip_39_word_new_line_9 | guilt
 smile
 access
 rural

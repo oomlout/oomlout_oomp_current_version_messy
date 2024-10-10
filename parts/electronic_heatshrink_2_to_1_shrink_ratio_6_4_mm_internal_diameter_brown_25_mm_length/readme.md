@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | business |  
-| bip_39_word_new_br10 | business<br>medal<br>curtain<br>shrug<br>catch<br>air<br>sleep<br>nephew<br>marine<br>awful |  
-| bip_39_word_new_br11 | business<br>medal<br>curtain<br>shrug<br>catch<br>air<br>sleep<br>nephew<br>marine<br>awful<br>gospel |  
-| bip_39_word_new_br12 | business<br>medal<br>curtain<br>shrug<br>catch<br>air<br>sleep<br>nephew<br>marine<br>awful<br>gospel<br>august |  
-| bip_39_word_new_br2 | business<br>medal |  
-| bip_39_word_new_br3 | business<br>medal<br>curtain |  
-| bip_39_word_new_br4 | business<br>medal<br>curtain<br>shrug |  
-| bip_39_word_new_br5 | business<br>medal<br>curtain<br>shrug<br>catch |  
-| bip_39_word_new_br6 | business<br>medal<br>curtain<br>shrug<br>catch<br>air |  
-| bip_39_word_new_br7 | business<br>medal<br>curtain<br>shrug<br>catch<br>air<br>sleep |  
-| bip_39_word_new_br8 | business<br>medal<br>curtain<br>shrug<br>catch<br>air<br>sleep<br>nephew |  
-| bip_39_word_new_br9 | business<br>medal<br>curtain<br>shrug<br>catch<br>air<br>sleep<br>nephew<br>marine |  
-| bip_39_word_new_line1 | business |  
-| bip_39_word_new_line10 | business
+| bip_39_word_new_br_1 | business |  
+| bip_39_word_new_br_10 | business<br>medal<br>curtain<br>shrug<br>catch<br>air<br>sleep<br>nephew<br>marine<br>awful |  
+| bip_39_word_new_br_11 | business<br>medal<br>curtain<br>shrug<br>catch<br>air<br>sleep<br>nephew<br>marine<br>awful<br>gospel |  
+| bip_39_word_new_br_12 | business<br>medal<br>curtain<br>shrug<br>catch<br>air<br>sleep<br>nephew<br>marine<br>awful<br>gospel<br>august |  
+| bip_39_word_new_br_2 | business<br>medal |  
+| bip_39_word_new_br_3 | business<br>medal<br>curtain |  
+| bip_39_word_new_br_4 | business<br>medal<br>curtain<br>shrug |  
+| bip_39_word_new_br_5 | business<br>medal<br>curtain<br>shrug<br>catch |  
+| bip_39_word_new_br_6 | business<br>medal<br>curtain<br>shrug<br>catch<br>air |  
+| bip_39_word_new_br_7 | business<br>medal<br>curtain<br>shrug<br>catch<br>air<br>sleep |  
+| bip_39_word_new_br_8 | business<br>medal<br>curtain<br>shrug<br>catch<br>air<br>sleep<br>nephew |  
+| bip_39_word_new_br_9 | business<br>medal<br>curtain<br>shrug<br>catch<br>air<br>sleep<br>nephew<br>marine |  
+| bip_39_word_new_line_1 | business |  
+| bip_39_word_new_line_10 | business
 medal
 curtain
 shrug
@@ -55,7 +55,7 @@ sleep
 nephew
 marine
 awful |  
-| bip_39_word_new_line11 | business
+| bip_39_word_new_line_11 | business
 medal
 curtain
 shrug
@@ -66,7 +66,7 @@ nephew
 marine
 awful
 gospel |  
-| bip_39_word_new_line12 | business
+| bip_39_word_new_line_12 | business
 medal
 curtain
 shrug
@@ -78,34 +78,34 @@ marine
 awful
 gospel
 august |  
-| bip_39_word_new_line2 | business
+| bip_39_word_new_line_2 | business
 medal |  
-| bip_39_word_new_line3 | business
+| bip_39_word_new_line_3 | business
 medal
 curtain |  
-| bip_39_word_new_line4 | business
+| bip_39_word_new_line_4 | business
 medal
 curtain
 shrug |  
-| bip_39_word_new_line5 | business
+| bip_39_word_new_line_5 | business
 medal
 curtain
 shrug
 catch |  
-| bip_39_word_new_line6 | business
+| bip_39_word_new_line_6 | business
 medal
 curtain
 shrug
 catch
 air |  
-| bip_39_word_new_line7 | business
+| bip_39_word_new_line_7 | business
 medal
 curtain
 shrug
 catch
 air
 sleep |  
-| bip_39_word_new_line8 | business
+| bip_39_word_new_line_8 | business
 medal
 curtain
 shrug
@@ -113,7 +113,7 @@ catch
 air
 sleep
 nephew |  
-| bip_39_word_new_line9 | business
+| bip_39_word_new_line_9 | business
 medal
 curtain
 shrug

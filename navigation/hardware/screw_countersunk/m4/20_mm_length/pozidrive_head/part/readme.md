@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | keen |  
-| bip_39_word_new_br10 | keen<br>swamp<br>empower<br>require<br>when<br>hint<br>thunder<br>seat<br>glare<br>design |  
-| bip_39_word_new_br11 | keen<br>swamp<br>empower<br>require<br>when<br>hint<br>thunder<br>seat<br>glare<br>design<br>obtain |  
-| bip_39_word_new_br12 | keen<br>swamp<br>empower<br>require<br>when<br>hint<br>thunder<br>seat<br>glare<br>design<br>obtain<br>armed |  
-| bip_39_word_new_br2 | keen<br>swamp |  
-| bip_39_word_new_br3 | keen<br>swamp<br>empower |  
-| bip_39_word_new_br4 | keen<br>swamp<br>empower<br>require |  
-| bip_39_word_new_br5 | keen<br>swamp<br>empower<br>require<br>when |  
-| bip_39_word_new_br6 | keen<br>swamp<br>empower<br>require<br>when<br>hint |  
-| bip_39_word_new_br7 | keen<br>swamp<br>empower<br>require<br>when<br>hint<br>thunder |  
-| bip_39_word_new_br8 | keen<br>swamp<br>empower<br>require<br>when<br>hint<br>thunder<br>seat |  
-| bip_39_word_new_br9 | keen<br>swamp<br>empower<br>require<br>when<br>hint<br>thunder<br>seat<br>glare |  
-| bip_39_word_new_line1 | keen |  
-| bip_39_word_new_line10 | keen
+| bip_39_word_new_br_1 | keen |  
+| bip_39_word_new_br_10 | keen<br>swamp<br>empower<br>require<br>when<br>hint<br>thunder<br>seat<br>glare<br>design |  
+| bip_39_word_new_br_11 | keen<br>swamp<br>empower<br>require<br>when<br>hint<br>thunder<br>seat<br>glare<br>design<br>obtain |  
+| bip_39_word_new_br_12 | keen<br>swamp<br>empower<br>require<br>when<br>hint<br>thunder<br>seat<br>glare<br>design<br>obtain<br>armed |  
+| bip_39_word_new_br_2 | keen<br>swamp |  
+| bip_39_word_new_br_3 | keen<br>swamp<br>empower |  
+| bip_39_word_new_br_4 | keen<br>swamp<br>empower<br>require |  
+| bip_39_word_new_br_5 | keen<br>swamp<br>empower<br>require<br>when |  
+| bip_39_word_new_br_6 | keen<br>swamp<br>empower<br>require<br>when<br>hint |  
+| bip_39_word_new_br_7 | keen<br>swamp<br>empower<br>require<br>when<br>hint<br>thunder |  
+| bip_39_word_new_br_8 | keen<br>swamp<br>empower<br>require<br>when<br>hint<br>thunder<br>seat |  
+| bip_39_word_new_br_9 | keen<br>swamp<br>empower<br>require<br>when<br>hint<br>thunder<br>seat<br>glare |  
+| bip_39_word_new_line_1 | keen |  
+| bip_39_word_new_line_10 | keen
 swamp
 empower
 require
@@ -55,7 +55,7 @@ thunder
 seat
 glare
 design |  
-| bip_39_word_new_line11 | keen
+| bip_39_word_new_line_11 | keen
 swamp
 empower
 require
@@ -66,7 +66,7 @@ seat
 glare
 design
 obtain |  
-| bip_39_word_new_line12 | keen
+| bip_39_word_new_line_12 | keen
 swamp
 empower
 require
@@ -78,34 +78,34 @@ glare
 design
 obtain
 armed |  
-| bip_39_word_new_line2 | keen
+| bip_39_word_new_line_2 | keen
 swamp |  
-| bip_39_word_new_line3 | keen
+| bip_39_word_new_line_3 | keen
 swamp
 empower |  
-| bip_39_word_new_line4 | keen
+| bip_39_word_new_line_4 | keen
 swamp
 empower
 require |  
-| bip_39_word_new_line5 | keen
+| bip_39_word_new_line_5 | keen
 swamp
 empower
 require
 when |  
-| bip_39_word_new_line6 | keen
+| bip_39_word_new_line_6 | keen
 swamp
 empower
 require
 when
 hint |  
-| bip_39_word_new_line7 | keen
+| bip_39_word_new_line_7 | keen
 swamp
 empower
 require
 when
 hint
 thunder |  
-| bip_39_word_new_line8 | keen
+| bip_39_word_new_line_8 | keen
 swamp
 empower
 require
@@ -113,7 +113,7 @@ when
 hint
 thunder
 seat |  
-| bip_39_word_new_line9 | keen
+| bip_39_word_new_line_9 | keen
 swamp
 empower
 require

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | burden |  
-| bip_39_word_new_br10 | burden<br>change<br>neglect<br>leopard<br>sausage<br>large<br>pill<br>ride<br>cheap<br>throw |  
-| bip_39_word_new_br11 | burden<br>change<br>neglect<br>leopard<br>sausage<br>large<br>pill<br>ride<br>cheap<br>throw<br>immune |  
-| bip_39_word_new_br12 | burden<br>change<br>neglect<br>leopard<br>sausage<br>large<br>pill<br>ride<br>cheap<br>throw<br>immune<br>arrow |  
-| bip_39_word_new_br2 | burden<br>change |  
-| bip_39_word_new_br3 | burden<br>change<br>neglect |  
-| bip_39_word_new_br4 | burden<br>change<br>neglect<br>leopard |  
-| bip_39_word_new_br5 | burden<br>change<br>neglect<br>leopard<br>sausage |  
-| bip_39_word_new_br6 | burden<br>change<br>neglect<br>leopard<br>sausage<br>large |  
-| bip_39_word_new_br7 | burden<br>change<br>neglect<br>leopard<br>sausage<br>large<br>pill |  
-| bip_39_word_new_br8 | burden<br>change<br>neglect<br>leopard<br>sausage<br>large<br>pill<br>ride |  
-| bip_39_word_new_br9 | burden<br>change<br>neglect<br>leopard<br>sausage<br>large<br>pill<br>ride<br>cheap |  
-| bip_39_word_new_line1 | burden |  
-| bip_39_word_new_line10 | burden
+| bip_39_word_new_br_1 | burden |  
+| bip_39_word_new_br_10 | burden<br>change<br>neglect<br>leopard<br>sausage<br>large<br>pill<br>ride<br>cheap<br>throw |  
+| bip_39_word_new_br_11 | burden<br>change<br>neglect<br>leopard<br>sausage<br>large<br>pill<br>ride<br>cheap<br>throw<br>immune |  
+| bip_39_word_new_br_12 | burden<br>change<br>neglect<br>leopard<br>sausage<br>large<br>pill<br>ride<br>cheap<br>throw<br>immune<br>arrow |  
+| bip_39_word_new_br_2 | burden<br>change |  
+| bip_39_word_new_br_3 | burden<br>change<br>neglect |  
+| bip_39_word_new_br_4 | burden<br>change<br>neglect<br>leopard |  
+| bip_39_word_new_br_5 | burden<br>change<br>neglect<br>leopard<br>sausage |  
+| bip_39_word_new_br_6 | burden<br>change<br>neglect<br>leopard<br>sausage<br>large |  
+| bip_39_word_new_br_7 | burden<br>change<br>neglect<br>leopard<br>sausage<br>large<br>pill |  
+| bip_39_word_new_br_8 | burden<br>change<br>neglect<br>leopard<br>sausage<br>large<br>pill<br>ride |  
+| bip_39_word_new_br_9 | burden<br>change<br>neglect<br>leopard<br>sausage<br>large<br>pill<br>ride<br>cheap |  
+| bip_39_word_new_line_1 | burden |  
+| bip_39_word_new_line_10 | burden
 change
 neglect
 leopard
@@ -55,7 +55,7 @@ pill
 ride
 cheap
 throw |  
-| bip_39_word_new_line11 | burden
+| bip_39_word_new_line_11 | burden
 change
 neglect
 leopard
@@ -66,7 +66,7 @@ ride
 cheap
 throw
 immune |  
-| bip_39_word_new_line12 | burden
+| bip_39_word_new_line_12 | burden
 change
 neglect
 leopard
@@ -78,34 +78,34 @@ cheap
 throw
 immune
 arrow |  
-| bip_39_word_new_line2 | burden
+| bip_39_word_new_line_2 | burden
 change |  
-| bip_39_word_new_line3 | burden
+| bip_39_word_new_line_3 | burden
 change
 neglect |  
-| bip_39_word_new_line4 | burden
+| bip_39_word_new_line_4 | burden
 change
 neglect
 leopard |  
-| bip_39_word_new_line5 | burden
+| bip_39_word_new_line_5 | burden
 change
 neglect
 leopard
 sausage |  
-| bip_39_word_new_line6 | burden
+| bip_39_word_new_line_6 | burden
 change
 neglect
 leopard
 sausage
 large |  
-| bip_39_word_new_line7 | burden
+| bip_39_word_new_line_7 | burden
 change
 neglect
 leopard
 sausage
 large
 pill |  
-| bip_39_word_new_line8 | burden
+| bip_39_word_new_line_8 | burden
 change
 neglect
 leopard
@@ -113,7 +113,7 @@ sausage
 large
 pill
 ride |  
-| bip_39_word_new_line9 | burden
+| bip_39_word_new_line_9 | burden
 change
 neglect
 leopard

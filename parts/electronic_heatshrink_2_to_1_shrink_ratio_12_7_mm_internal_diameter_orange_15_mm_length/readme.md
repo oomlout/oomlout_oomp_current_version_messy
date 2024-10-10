@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | review |  
-| bip_39_word_new_br10 | review<br>type<br>fiscal<br>eyebrow<br>margin<br>acquire<br>chest<br>surprise<br>scrub<br>lunch |  
-| bip_39_word_new_br11 | review<br>type<br>fiscal<br>eyebrow<br>margin<br>acquire<br>chest<br>surprise<br>scrub<br>lunch<br>erode |  
-| bip_39_word_new_br12 | review<br>type<br>fiscal<br>eyebrow<br>margin<br>acquire<br>chest<br>surprise<br>scrub<br>lunch<br>erode<br>admit |  
-| bip_39_word_new_br2 | review<br>type |  
-| bip_39_word_new_br3 | review<br>type<br>fiscal |  
-| bip_39_word_new_br4 | review<br>type<br>fiscal<br>eyebrow |  
-| bip_39_word_new_br5 | review<br>type<br>fiscal<br>eyebrow<br>margin |  
-| bip_39_word_new_br6 | review<br>type<br>fiscal<br>eyebrow<br>margin<br>acquire |  
-| bip_39_word_new_br7 | review<br>type<br>fiscal<br>eyebrow<br>margin<br>acquire<br>chest |  
-| bip_39_word_new_br8 | review<br>type<br>fiscal<br>eyebrow<br>margin<br>acquire<br>chest<br>surprise |  
-| bip_39_word_new_br9 | review<br>type<br>fiscal<br>eyebrow<br>margin<br>acquire<br>chest<br>surprise<br>scrub |  
-| bip_39_word_new_line1 | review |  
-| bip_39_word_new_line10 | review
+| bip_39_word_new_br_1 | review |  
+| bip_39_word_new_br_10 | review<br>type<br>fiscal<br>eyebrow<br>margin<br>acquire<br>chest<br>surprise<br>scrub<br>lunch |  
+| bip_39_word_new_br_11 | review<br>type<br>fiscal<br>eyebrow<br>margin<br>acquire<br>chest<br>surprise<br>scrub<br>lunch<br>erode |  
+| bip_39_word_new_br_12 | review<br>type<br>fiscal<br>eyebrow<br>margin<br>acquire<br>chest<br>surprise<br>scrub<br>lunch<br>erode<br>admit |  
+| bip_39_word_new_br_2 | review<br>type |  
+| bip_39_word_new_br_3 | review<br>type<br>fiscal |  
+| bip_39_word_new_br_4 | review<br>type<br>fiscal<br>eyebrow |  
+| bip_39_word_new_br_5 | review<br>type<br>fiscal<br>eyebrow<br>margin |  
+| bip_39_word_new_br_6 | review<br>type<br>fiscal<br>eyebrow<br>margin<br>acquire |  
+| bip_39_word_new_br_7 | review<br>type<br>fiscal<br>eyebrow<br>margin<br>acquire<br>chest |  
+| bip_39_word_new_br_8 | review<br>type<br>fiscal<br>eyebrow<br>margin<br>acquire<br>chest<br>surprise |  
+| bip_39_word_new_br_9 | review<br>type<br>fiscal<br>eyebrow<br>margin<br>acquire<br>chest<br>surprise<br>scrub |  
+| bip_39_word_new_line_1 | review |  
+| bip_39_word_new_line_10 | review
 type
 fiscal
 eyebrow
@@ -55,7 +55,7 @@ chest
 surprise
 scrub
 lunch |  
-| bip_39_word_new_line11 | review
+| bip_39_word_new_line_11 | review
 type
 fiscal
 eyebrow
@@ -66,7 +66,7 @@ surprise
 scrub
 lunch
 erode |  
-| bip_39_word_new_line12 | review
+| bip_39_word_new_line_12 | review
 type
 fiscal
 eyebrow
@@ -78,34 +78,34 @@ scrub
 lunch
 erode
 admit |  
-| bip_39_word_new_line2 | review
+| bip_39_word_new_line_2 | review
 type |  
-| bip_39_word_new_line3 | review
+| bip_39_word_new_line_3 | review
 type
 fiscal |  
-| bip_39_word_new_line4 | review
+| bip_39_word_new_line_4 | review
 type
 fiscal
 eyebrow |  
-| bip_39_word_new_line5 | review
+| bip_39_word_new_line_5 | review
 type
 fiscal
 eyebrow
 margin |  
-| bip_39_word_new_line6 | review
+| bip_39_word_new_line_6 | review
 type
 fiscal
 eyebrow
 margin
 acquire |  
-| bip_39_word_new_line7 | review
+| bip_39_word_new_line_7 | review
 type
 fiscal
 eyebrow
 margin
 acquire
 chest |  
-| bip_39_word_new_line8 | review
+| bip_39_word_new_line_8 | review
 type
 fiscal
 eyebrow
@@ -113,7 +113,7 @@ margin
 acquire
 chest
 surprise |  
-| bip_39_word_new_line9 | review
+| bip_39_word_new_line_9 | review
 type
 fiscal
 eyebrow

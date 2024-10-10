@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ensure |  
-| bip_39_word_new_br10 | ensure<br>happy<br>sting<br>review<br>guess<br>another<br>salon<br>volume<br>autumn<br>doll |  
-| bip_39_word_new_br11 | ensure<br>happy<br>sting<br>review<br>guess<br>another<br>salon<br>volume<br>autumn<br>doll<br>private |  
-| bip_39_word_new_br12 | ensure<br>happy<br>sting<br>review<br>guess<br>another<br>salon<br>volume<br>autumn<br>doll<br>private<br>achieve |  
-| bip_39_word_new_br2 | ensure<br>happy |  
-| bip_39_word_new_br3 | ensure<br>happy<br>sting |  
-| bip_39_word_new_br4 | ensure<br>happy<br>sting<br>review |  
-| bip_39_word_new_br5 | ensure<br>happy<br>sting<br>review<br>guess |  
-| bip_39_word_new_br6 | ensure<br>happy<br>sting<br>review<br>guess<br>another |  
-| bip_39_word_new_br7 | ensure<br>happy<br>sting<br>review<br>guess<br>another<br>salon |  
-| bip_39_word_new_br8 | ensure<br>happy<br>sting<br>review<br>guess<br>another<br>salon<br>volume |  
-| bip_39_word_new_br9 | ensure<br>happy<br>sting<br>review<br>guess<br>another<br>salon<br>volume<br>autumn |  
-| bip_39_word_new_line1 | ensure |  
-| bip_39_word_new_line10 | ensure
+| bip_39_word_new_br_1 | ensure |  
+| bip_39_word_new_br_10 | ensure<br>happy<br>sting<br>review<br>guess<br>another<br>salon<br>volume<br>autumn<br>doll |  
+| bip_39_word_new_br_11 | ensure<br>happy<br>sting<br>review<br>guess<br>another<br>salon<br>volume<br>autumn<br>doll<br>private |  
+| bip_39_word_new_br_12 | ensure<br>happy<br>sting<br>review<br>guess<br>another<br>salon<br>volume<br>autumn<br>doll<br>private<br>achieve |  
+| bip_39_word_new_br_2 | ensure<br>happy |  
+| bip_39_word_new_br_3 | ensure<br>happy<br>sting |  
+| bip_39_word_new_br_4 | ensure<br>happy<br>sting<br>review |  
+| bip_39_word_new_br_5 | ensure<br>happy<br>sting<br>review<br>guess |  
+| bip_39_word_new_br_6 | ensure<br>happy<br>sting<br>review<br>guess<br>another |  
+| bip_39_word_new_br_7 | ensure<br>happy<br>sting<br>review<br>guess<br>another<br>salon |  
+| bip_39_word_new_br_8 | ensure<br>happy<br>sting<br>review<br>guess<br>another<br>salon<br>volume |  
+| bip_39_word_new_br_9 | ensure<br>happy<br>sting<br>review<br>guess<br>another<br>salon<br>volume<br>autumn |  
+| bip_39_word_new_line_1 | ensure |  
+| bip_39_word_new_line_10 | ensure
 happy
 sting
 review
@@ -55,7 +55,7 @@ salon
 volume
 autumn
 doll |  
-| bip_39_word_new_line11 | ensure
+| bip_39_word_new_line_11 | ensure
 happy
 sting
 review
@@ -66,7 +66,7 @@ volume
 autumn
 doll
 private |  
-| bip_39_word_new_line12 | ensure
+| bip_39_word_new_line_12 | ensure
 happy
 sting
 review
@@ -78,34 +78,34 @@ autumn
 doll
 private
 achieve |  
-| bip_39_word_new_line2 | ensure
+| bip_39_word_new_line_2 | ensure
 happy |  
-| bip_39_word_new_line3 | ensure
+| bip_39_word_new_line_3 | ensure
 happy
 sting |  
-| bip_39_word_new_line4 | ensure
+| bip_39_word_new_line_4 | ensure
 happy
 sting
 review |  
-| bip_39_word_new_line5 | ensure
+| bip_39_word_new_line_5 | ensure
 happy
 sting
 review
 guess |  
-| bip_39_word_new_line6 | ensure
+| bip_39_word_new_line_6 | ensure
 happy
 sting
 review
 guess
 another |  
-| bip_39_word_new_line7 | ensure
+| bip_39_word_new_line_7 | ensure
 happy
 sting
 review
 guess
 another
 salon |  
-| bip_39_word_new_line8 | ensure
+| bip_39_word_new_line_8 | ensure
 happy
 sting
 review
@@ -113,7 +113,7 @@ guess
 another
 salon
 volume |  
-| bip_39_word_new_line9 | ensure
+| bip_39_word_new_line_9 | ensure
 happy
 sting
 review

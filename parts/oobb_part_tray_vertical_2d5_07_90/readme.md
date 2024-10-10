@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | orphan |  
-| bip_39_word_new_br10 | orphan<br>swear<br>crazy<br>skull<br>scatter<br>jazz<br>symbol<br>amateur<br>polar<br>wrap |  
-| bip_39_word_new_br11 | orphan<br>swear<br>crazy<br>skull<br>scatter<br>jazz<br>symbol<br>amateur<br>polar<br>wrap<br>any |  
-| bip_39_word_new_br12 | orphan<br>swear<br>crazy<br>skull<br>scatter<br>jazz<br>symbol<br>amateur<br>polar<br>wrap<br>any<br>armor |  
-| bip_39_word_new_br2 | orphan<br>swear |  
-| bip_39_word_new_br3 | orphan<br>swear<br>crazy |  
-| bip_39_word_new_br4 | orphan<br>swear<br>crazy<br>skull |  
-| bip_39_word_new_br5 | orphan<br>swear<br>crazy<br>skull<br>scatter |  
-| bip_39_word_new_br6 | orphan<br>swear<br>crazy<br>skull<br>scatter<br>jazz |  
-| bip_39_word_new_br7 | orphan<br>swear<br>crazy<br>skull<br>scatter<br>jazz<br>symbol |  
-| bip_39_word_new_br8 | orphan<br>swear<br>crazy<br>skull<br>scatter<br>jazz<br>symbol<br>amateur |  
-| bip_39_word_new_br9 | orphan<br>swear<br>crazy<br>skull<br>scatter<br>jazz<br>symbol<br>amateur<br>polar |  
-| bip_39_word_new_line1 | orphan |  
-| bip_39_word_new_line10 | orphan
+| bip_39_word_new_br_1 | orphan |  
+| bip_39_word_new_br_10 | orphan<br>swear<br>crazy<br>skull<br>scatter<br>jazz<br>symbol<br>amateur<br>polar<br>wrap |  
+| bip_39_word_new_br_11 | orphan<br>swear<br>crazy<br>skull<br>scatter<br>jazz<br>symbol<br>amateur<br>polar<br>wrap<br>any |  
+| bip_39_word_new_br_12 | orphan<br>swear<br>crazy<br>skull<br>scatter<br>jazz<br>symbol<br>amateur<br>polar<br>wrap<br>any<br>armor |  
+| bip_39_word_new_br_2 | orphan<br>swear |  
+| bip_39_word_new_br_3 | orphan<br>swear<br>crazy |  
+| bip_39_word_new_br_4 | orphan<br>swear<br>crazy<br>skull |  
+| bip_39_word_new_br_5 | orphan<br>swear<br>crazy<br>skull<br>scatter |  
+| bip_39_word_new_br_6 | orphan<br>swear<br>crazy<br>skull<br>scatter<br>jazz |  
+| bip_39_word_new_br_7 | orphan<br>swear<br>crazy<br>skull<br>scatter<br>jazz<br>symbol |  
+| bip_39_word_new_br_8 | orphan<br>swear<br>crazy<br>skull<br>scatter<br>jazz<br>symbol<br>amateur |  
+| bip_39_word_new_br_9 | orphan<br>swear<br>crazy<br>skull<br>scatter<br>jazz<br>symbol<br>amateur<br>polar |  
+| bip_39_word_new_line_1 | orphan |  
+| bip_39_word_new_line_10 | orphan
 swear
 crazy
 skull
@@ -55,7 +55,7 @@ symbol
 amateur
 polar
 wrap |  
-| bip_39_word_new_line11 | orphan
+| bip_39_word_new_line_11 | orphan
 swear
 crazy
 skull
@@ -66,7 +66,7 @@ amateur
 polar
 wrap
 any |  
-| bip_39_word_new_line12 | orphan
+| bip_39_word_new_line_12 | orphan
 swear
 crazy
 skull
@@ -78,34 +78,34 @@ polar
 wrap
 any
 armor |  
-| bip_39_word_new_line2 | orphan
+| bip_39_word_new_line_2 | orphan
 swear |  
-| bip_39_word_new_line3 | orphan
+| bip_39_word_new_line_3 | orphan
 swear
 crazy |  
-| bip_39_word_new_line4 | orphan
+| bip_39_word_new_line_4 | orphan
 swear
 crazy
 skull |  
-| bip_39_word_new_line5 | orphan
+| bip_39_word_new_line_5 | orphan
 swear
 crazy
 skull
 scatter |  
-| bip_39_word_new_line6 | orphan
+| bip_39_word_new_line_6 | orphan
 swear
 crazy
 skull
 scatter
 jazz |  
-| bip_39_word_new_line7 | orphan
+| bip_39_word_new_line_7 | orphan
 swear
 crazy
 skull
 scatter
 jazz
 symbol |  
-| bip_39_word_new_line8 | orphan
+| bip_39_word_new_line_8 | orphan
 swear
 crazy
 skull
@@ -113,7 +113,7 @@ scatter
 jazz
 symbol
 amateur |  
-| bip_39_word_new_line9 | orphan
+| bip_39_word_new_line_9 | orphan
 swear
 crazy
 skull

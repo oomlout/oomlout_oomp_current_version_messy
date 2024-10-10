@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | juice |  
-| bip_39_word_new_br10 | juice<br>grid<br>open<br>ignore<br>bid<br>close<br>cost<br>kiwi<br>interest<br>version |  
-| bip_39_word_new_br11 | juice<br>grid<br>open<br>ignore<br>bid<br>close<br>cost<br>kiwi<br>interest<br>version<br>enable |  
-| bip_39_word_new_br12 | juice<br>grid<br>open<br>ignore<br>bid<br>close<br>cost<br>kiwi<br>interest<br>version<br>enable<br>aim |  
-| bip_39_word_new_br2 | juice<br>grid |  
-| bip_39_word_new_br3 | juice<br>grid<br>open |  
-| bip_39_word_new_br4 | juice<br>grid<br>open<br>ignore |  
-| bip_39_word_new_br5 | juice<br>grid<br>open<br>ignore<br>bid |  
-| bip_39_word_new_br6 | juice<br>grid<br>open<br>ignore<br>bid<br>close |  
-| bip_39_word_new_br7 | juice<br>grid<br>open<br>ignore<br>bid<br>close<br>cost |  
-| bip_39_word_new_br8 | juice<br>grid<br>open<br>ignore<br>bid<br>close<br>cost<br>kiwi |  
-| bip_39_word_new_br9 | juice<br>grid<br>open<br>ignore<br>bid<br>close<br>cost<br>kiwi<br>interest |  
-| bip_39_word_new_line1 | juice |  
-| bip_39_word_new_line10 | juice
+| bip_39_word_new_br_1 | juice |  
+| bip_39_word_new_br_10 | juice<br>grid<br>open<br>ignore<br>bid<br>close<br>cost<br>kiwi<br>interest<br>version |  
+| bip_39_word_new_br_11 | juice<br>grid<br>open<br>ignore<br>bid<br>close<br>cost<br>kiwi<br>interest<br>version<br>enable |  
+| bip_39_word_new_br_12 | juice<br>grid<br>open<br>ignore<br>bid<br>close<br>cost<br>kiwi<br>interest<br>version<br>enable<br>aim |  
+| bip_39_word_new_br_2 | juice<br>grid |  
+| bip_39_word_new_br_3 | juice<br>grid<br>open |  
+| bip_39_word_new_br_4 | juice<br>grid<br>open<br>ignore |  
+| bip_39_word_new_br_5 | juice<br>grid<br>open<br>ignore<br>bid |  
+| bip_39_word_new_br_6 | juice<br>grid<br>open<br>ignore<br>bid<br>close |  
+| bip_39_word_new_br_7 | juice<br>grid<br>open<br>ignore<br>bid<br>close<br>cost |  
+| bip_39_word_new_br_8 | juice<br>grid<br>open<br>ignore<br>bid<br>close<br>cost<br>kiwi |  
+| bip_39_word_new_br_9 | juice<br>grid<br>open<br>ignore<br>bid<br>close<br>cost<br>kiwi<br>interest |  
+| bip_39_word_new_line_1 | juice |  
+| bip_39_word_new_line_10 | juice
 grid
 open
 ignore
@@ -55,7 +55,7 @@ cost
 kiwi
 interest
 version |  
-| bip_39_word_new_line11 | juice
+| bip_39_word_new_line_11 | juice
 grid
 open
 ignore
@@ -66,7 +66,7 @@ kiwi
 interest
 version
 enable |  
-| bip_39_word_new_line12 | juice
+| bip_39_word_new_line_12 | juice
 grid
 open
 ignore
@@ -78,34 +78,34 @@ interest
 version
 enable
 aim |  
-| bip_39_word_new_line2 | juice
+| bip_39_word_new_line_2 | juice
 grid |  
-| bip_39_word_new_line3 | juice
+| bip_39_word_new_line_3 | juice
 grid
 open |  
-| bip_39_word_new_line4 | juice
+| bip_39_word_new_line_4 | juice
 grid
 open
 ignore |  
-| bip_39_word_new_line5 | juice
+| bip_39_word_new_line_5 | juice
 grid
 open
 ignore
 bid |  
-| bip_39_word_new_line6 | juice
+| bip_39_word_new_line_6 | juice
 grid
 open
 ignore
 bid
 close |  
-| bip_39_word_new_line7 | juice
+| bip_39_word_new_line_7 | juice
 grid
 open
 ignore
 bid
 close
 cost |  
-| bip_39_word_new_line8 | juice
+| bip_39_word_new_line_8 | juice
 grid
 open
 ignore
@@ -113,7 +113,7 @@ bid
 close
 cost
 kiwi |  
-| bip_39_word_new_line9 | juice
+| bip_39_word_new_line_9 | juice
 grid
 open
 ignore

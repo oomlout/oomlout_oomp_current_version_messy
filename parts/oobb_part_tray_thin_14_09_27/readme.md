@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | slot |  
-| bip_39_word_new_br10 | slot<br>april<br>welcome<br>easy<br>steak<br>wrestle<br>amateur<br>east<br>pipe<br>ship |  
-| bip_39_word_new_br11 | slot<br>april<br>welcome<br>easy<br>steak<br>wrestle<br>amateur<br>east<br>pipe<br>ship<br>smile |  
-| bip_39_word_new_br12 | slot<br>april<br>welcome<br>easy<br>steak<br>wrestle<br>amateur<br>east<br>pipe<br>ship<br>smile<br>adapt |  
-| bip_39_word_new_br2 | slot<br>april |  
-| bip_39_word_new_br3 | slot<br>april<br>welcome |  
-| bip_39_word_new_br4 | slot<br>april<br>welcome<br>easy |  
-| bip_39_word_new_br5 | slot<br>april<br>welcome<br>easy<br>steak |  
-| bip_39_word_new_br6 | slot<br>april<br>welcome<br>easy<br>steak<br>wrestle |  
-| bip_39_word_new_br7 | slot<br>april<br>welcome<br>easy<br>steak<br>wrestle<br>amateur |  
-| bip_39_word_new_br8 | slot<br>april<br>welcome<br>easy<br>steak<br>wrestle<br>amateur<br>east |  
-| bip_39_word_new_br9 | slot<br>april<br>welcome<br>easy<br>steak<br>wrestle<br>amateur<br>east<br>pipe |  
-| bip_39_word_new_line1 | slot |  
-| bip_39_word_new_line10 | slot
+| bip_39_word_new_br_1 | slot |  
+| bip_39_word_new_br_10 | slot<br>april<br>welcome<br>easy<br>steak<br>wrestle<br>amateur<br>east<br>pipe<br>ship |  
+| bip_39_word_new_br_11 | slot<br>april<br>welcome<br>easy<br>steak<br>wrestle<br>amateur<br>east<br>pipe<br>ship<br>smile |  
+| bip_39_word_new_br_12 | slot<br>april<br>welcome<br>easy<br>steak<br>wrestle<br>amateur<br>east<br>pipe<br>ship<br>smile<br>adapt |  
+| bip_39_word_new_br_2 | slot<br>april |  
+| bip_39_word_new_br_3 | slot<br>april<br>welcome |  
+| bip_39_word_new_br_4 | slot<br>april<br>welcome<br>easy |  
+| bip_39_word_new_br_5 | slot<br>april<br>welcome<br>easy<br>steak |  
+| bip_39_word_new_br_6 | slot<br>april<br>welcome<br>easy<br>steak<br>wrestle |  
+| bip_39_word_new_br_7 | slot<br>april<br>welcome<br>easy<br>steak<br>wrestle<br>amateur |  
+| bip_39_word_new_br_8 | slot<br>april<br>welcome<br>easy<br>steak<br>wrestle<br>amateur<br>east |  
+| bip_39_word_new_br_9 | slot<br>april<br>welcome<br>easy<br>steak<br>wrestle<br>amateur<br>east<br>pipe |  
+| bip_39_word_new_line_1 | slot |  
+| bip_39_word_new_line_10 | slot
 april
 welcome
 easy
@@ -55,7 +55,7 @@ amateur
 east
 pipe
 ship |  
-| bip_39_word_new_line11 | slot
+| bip_39_word_new_line_11 | slot
 april
 welcome
 easy
@@ -66,7 +66,7 @@ east
 pipe
 ship
 smile |  
-| bip_39_word_new_line12 | slot
+| bip_39_word_new_line_12 | slot
 april
 welcome
 easy
@@ -78,34 +78,34 @@ pipe
 ship
 smile
 adapt |  
-| bip_39_word_new_line2 | slot
+| bip_39_word_new_line_2 | slot
 april |  
-| bip_39_word_new_line3 | slot
+| bip_39_word_new_line_3 | slot
 april
 welcome |  
-| bip_39_word_new_line4 | slot
+| bip_39_word_new_line_4 | slot
 april
 welcome
 easy |  
-| bip_39_word_new_line5 | slot
+| bip_39_word_new_line_5 | slot
 april
 welcome
 easy
 steak |  
-| bip_39_word_new_line6 | slot
+| bip_39_word_new_line_6 | slot
 april
 welcome
 easy
 steak
 wrestle |  
-| bip_39_word_new_line7 | slot
+| bip_39_word_new_line_7 | slot
 april
 welcome
 easy
 steak
 wrestle
 amateur |  
-| bip_39_word_new_line8 | slot
+| bip_39_word_new_line_8 | slot
 april
 welcome
 easy
@@ -113,7 +113,7 @@ steak
 wrestle
 amateur
 east |  
-| bip_39_word_new_line9 | slot
+| bip_39_word_new_line_9 | slot
 april
 welcome
 easy

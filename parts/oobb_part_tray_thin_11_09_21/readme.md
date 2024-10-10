@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | garbage |  
-| bip_39_word_new_br10 | garbage<br>prevent<br>soldier<br>road<br>together<br>muffin<br>million<br>find<br>sentence<br>cycle |  
-| bip_39_word_new_br11 | garbage<br>prevent<br>soldier<br>road<br>together<br>muffin<br>million<br>find<br>sentence<br>cycle<br>zone |  
-| bip_39_word_new_br12 | garbage<br>prevent<br>soldier<br>road<br>together<br>muffin<br>million<br>find<br>sentence<br>cycle<br>zone<br>advice |  
-| bip_39_word_new_br2 | garbage<br>prevent |  
-| bip_39_word_new_br3 | garbage<br>prevent<br>soldier |  
-| bip_39_word_new_br4 | garbage<br>prevent<br>soldier<br>road |  
-| bip_39_word_new_br5 | garbage<br>prevent<br>soldier<br>road<br>together |  
-| bip_39_word_new_br6 | garbage<br>prevent<br>soldier<br>road<br>together<br>muffin |  
-| bip_39_word_new_br7 | garbage<br>prevent<br>soldier<br>road<br>together<br>muffin<br>million |  
-| bip_39_word_new_br8 | garbage<br>prevent<br>soldier<br>road<br>together<br>muffin<br>million<br>find |  
-| bip_39_word_new_br9 | garbage<br>prevent<br>soldier<br>road<br>together<br>muffin<br>million<br>find<br>sentence |  
-| bip_39_word_new_line1 | garbage |  
-| bip_39_word_new_line10 | garbage
+| bip_39_word_new_br_1 | garbage |  
+| bip_39_word_new_br_10 | garbage<br>prevent<br>soldier<br>road<br>together<br>muffin<br>million<br>find<br>sentence<br>cycle |  
+| bip_39_word_new_br_11 | garbage<br>prevent<br>soldier<br>road<br>together<br>muffin<br>million<br>find<br>sentence<br>cycle<br>zone |  
+| bip_39_word_new_br_12 | garbage<br>prevent<br>soldier<br>road<br>together<br>muffin<br>million<br>find<br>sentence<br>cycle<br>zone<br>advice |  
+| bip_39_word_new_br_2 | garbage<br>prevent |  
+| bip_39_word_new_br_3 | garbage<br>prevent<br>soldier |  
+| bip_39_word_new_br_4 | garbage<br>prevent<br>soldier<br>road |  
+| bip_39_word_new_br_5 | garbage<br>prevent<br>soldier<br>road<br>together |  
+| bip_39_word_new_br_6 | garbage<br>prevent<br>soldier<br>road<br>together<br>muffin |  
+| bip_39_word_new_br_7 | garbage<br>prevent<br>soldier<br>road<br>together<br>muffin<br>million |  
+| bip_39_word_new_br_8 | garbage<br>prevent<br>soldier<br>road<br>together<br>muffin<br>million<br>find |  
+| bip_39_word_new_br_9 | garbage<br>prevent<br>soldier<br>road<br>together<br>muffin<br>million<br>find<br>sentence |  
+| bip_39_word_new_line_1 | garbage |  
+| bip_39_word_new_line_10 | garbage
 prevent
 soldier
 road
@@ -55,7 +55,7 @@ million
 find
 sentence
 cycle |  
-| bip_39_word_new_line11 | garbage
+| bip_39_word_new_line_11 | garbage
 prevent
 soldier
 road
@@ -66,7 +66,7 @@ find
 sentence
 cycle
 zone |  
-| bip_39_word_new_line12 | garbage
+| bip_39_word_new_line_12 | garbage
 prevent
 soldier
 road
@@ -78,34 +78,34 @@ sentence
 cycle
 zone
 advice |  
-| bip_39_word_new_line2 | garbage
+| bip_39_word_new_line_2 | garbage
 prevent |  
-| bip_39_word_new_line3 | garbage
+| bip_39_word_new_line_3 | garbage
 prevent
 soldier |  
-| bip_39_word_new_line4 | garbage
+| bip_39_word_new_line_4 | garbage
 prevent
 soldier
 road |  
-| bip_39_word_new_line5 | garbage
+| bip_39_word_new_line_5 | garbage
 prevent
 soldier
 road
 together |  
-| bip_39_word_new_line6 | garbage
+| bip_39_word_new_line_6 | garbage
 prevent
 soldier
 road
 together
 muffin |  
-| bip_39_word_new_line7 | garbage
+| bip_39_word_new_line_7 | garbage
 prevent
 soldier
 road
 together
 muffin
 million |  
-| bip_39_word_new_line8 | garbage
+| bip_39_word_new_line_8 | garbage
 prevent
 soldier
 road
@@ -113,7 +113,7 @@ together
 muffin
 million
 find |  
-| bip_39_word_new_line9 | garbage
+| bip_39_word_new_line_9 | garbage
 prevent
 soldier
 road

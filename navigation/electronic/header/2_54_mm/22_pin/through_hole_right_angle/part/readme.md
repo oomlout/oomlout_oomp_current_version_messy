@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | quarter |  
-| bip_39_word_new_br10 | quarter<br>dolphin<br>return<br>symptom<br>pulse<br>disagree<br>horn<br>quantum<br>void<br>use |  
-| bip_39_word_new_br11 | quarter<br>dolphin<br>return<br>symptom<br>pulse<br>disagree<br>horn<br>quantum<br>void<br>use<br>actress |  
-| bip_39_word_new_br12 | quarter<br>dolphin<br>return<br>symptom<br>pulse<br>disagree<br>horn<br>quantum<br>void<br>use<br>actress<br>alert |  
-| bip_39_word_new_br2 | quarter<br>dolphin |  
-| bip_39_word_new_br3 | quarter<br>dolphin<br>return |  
-| bip_39_word_new_br4 | quarter<br>dolphin<br>return<br>symptom |  
-| bip_39_word_new_br5 | quarter<br>dolphin<br>return<br>symptom<br>pulse |  
-| bip_39_word_new_br6 | quarter<br>dolphin<br>return<br>symptom<br>pulse<br>disagree |  
-| bip_39_word_new_br7 | quarter<br>dolphin<br>return<br>symptom<br>pulse<br>disagree<br>horn |  
-| bip_39_word_new_br8 | quarter<br>dolphin<br>return<br>symptom<br>pulse<br>disagree<br>horn<br>quantum |  
-| bip_39_word_new_br9 | quarter<br>dolphin<br>return<br>symptom<br>pulse<br>disagree<br>horn<br>quantum<br>void |  
-| bip_39_word_new_line1 | quarter |  
-| bip_39_word_new_line10 | quarter
+| bip_39_word_new_br_1 | quarter |  
+| bip_39_word_new_br_10 | quarter<br>dolphin<br>return<br>symptom<br>pulse<br>disagree<br>horn<br>quantum<br>void<br>use |  
+| bip_39_word_new_br_11 | quarter<br>dolphin<br>return<br>symptom<br>pulse<br>disagree<br>horn<br>quantum<br>void<br>use<br>actress |  
+| bip_39_word_new_br_12 | quarter<br>dolphin<br>return<br>symptom<br>pulse<br>disagree<br>horn<br>quantum<br>void<br>use<br>actress<br>alert |  
+| bip_39_word_new_br_2 | quarter<br>dolphin |  
+| bip_39_word_new_br_3 | quarter<br>dolphin<br>return |  
+| bip_39_word_new_br_4 | quarter<br>dolphin<br>return<br>symptom |  
+| bip_39_word_new_br_5 | quarter<br>dolphin<br>return<br>symptom<br>pulse |  
+| bip_39_word_new_br_6 | quarter<br>dolphin<br>return<br>symptom<br>pulse<br>disagree |  
+| bip_39_word_new_br_7 | quarter<br>dolphin<br>return<br>symptom<br>pulse<br>disagree<br>horn |  
+| bip_39_word_new_br_8 | quarter<br>dolphin<br>return<br>symptom<br>pulse<br>disagree<br>horn<br>quantum |  
+| bip_39_word_new_br_9 | quarter<br>dolphin<br>return<br>symptom<br>pulse<br>disagree<br>horn<br>quantum<br>void |  
+| bip_39_word_new_line_1 | quarter |  
+| bip_39_word_new_line_10 | quarter
 dolphin
 return
 symptom
@@ -55,7 +55,7 @@ horn
 quantum
 void
 use |  
-| bip_39_word_new_line11 | quarter
+| bip_39_word_new_line_11 | quarter
 dolphin
 return
 symptom
@@ -66,7 +66,7 @@ quantum
 void
 use
 actress |  
-| bip_39_word_new_line12 | quarter
+| bip_39_word_new_line_12 | quarter
 dolphin
 return
 symptom
@@ -78,34 +78,34 @@ void
 use
 actress
 alert |  
-| bip_39_word_new_line2 | quarter
+| bip_39_word_new_line_2 | quarter
 dolphin |  
-| bip_39_word_new_line3 | quarter
+| bip_39_word_new_line_3 | quarter
 dolphin
 return |  
-| bip_39_word_new_line4 | quarter
+| bip_39_word_new_line_4 | quarter
 dolphin
 return
 symptom |  
-| bip_39_word_new_line5 | quarter
+| bip_39_word_new_line_5 | quarter
 dolphin
 return
 symptom
 pulse |  
-| bip_39_word_new_line6 | quarter
+| bip_39_word_new_line_6 | quarter
 dolphin
 return
 symptom
 pulse
 disagree |  
-| bip_39_word_new_line7 | quarter
+| bip_39_word_new_line_7 | quarter
 dolphin
 return
 symptom
 pulse
 disagree
 horn |  
-| bip_39_word_new_line8 | quarter
+| bip_39_word_new_line_8 | quarter
 dolphin
 return
 symptom
@@ -113,7 +113,7 @@ pulse
 disagree
 horn
 quantum |  
-| bip_39_word_new_line9 | quarter
+| bip_39_word_new_line_9 | quarter
 dolphin
 return
 symptom

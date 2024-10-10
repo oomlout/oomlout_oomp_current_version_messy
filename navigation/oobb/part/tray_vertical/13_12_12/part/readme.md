@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | vault |  
-| bip_39_word_new_br10 | vault<br>bulb<br>avoid<br>neutral<br>angry<br>buyer<br>client<br>medal<br>glad<br>very |  
-| bip_39_word_new_br11 | vault<br>bulb<br>avoid<br>neutral<br>angry<br>buyer<br>client<br>medal<br>glad<br>very<br>crawl |  
-| bip_39_word_new_br12 | vault<br>bulb<br>avoid<br>neutral<br>angry<br>buyer<br>client<br>medal<br>glad<br>very<br>crawl<br>area |  
-| bip_39_word_new_br2 | vault<br>bulb |  
-| bip_39_word_new_br3 | vault<br>bulb<br>avoid |  
-| bip_39_word_new_br4 | vault<br>bulb<br>avoid<br>neutral |  
-| bip_39_word_new_br5 | vault<br>bulb<br>avoid<br>neutral<br>angry |  
-| bip_39_word_new_br6 | vault<br>bulb<br>avoid<br>neutral<br>angry<br>buyer |  
-| bip_39_word_new_br7 | vault<br>bulb<br>avoid<br>neutral<br>angry<br>buyer<br>client |  
-| bip_39_word_new_br8 | vault<br>bulb<br>avoid<br>neutral<br>angry<br>buyer<br>client<br>medal |  
-| bip_39_word_new_br9 | vault<br>bulb<br>avoid<br>neutral<br>angry<br>buyer<br>client<br>medal<br>glad |  
-| bip_39_word_new_line1 | vault |  
-| bip_39_word_new_line10 | vault
+| bip_39_word_new_br_1 | vault |  
+| bip_39_word_new_br_10 | vault<br>bulb<br>avoid<br>neutral<br>angry<br>buyer<br>client<br>medal<br>glad<br>very |  
+| bip_39_word_new_br_11 | vault<br>bulb<br>avoid<br>neutral<br>angry<br>buyer<br>client<br>medal<br>glad<br>very<br>crawl |  
+| bip_39_word_new_br_12 | vault<br>bulb<br>avoid<br>neutral<br>angry<br>buyer<br>client<br>medal<br>glad<br>very<br>crawl<br>area |  
+| bip_39_word_new_br_2 | vault<br>bulb |  
+| bip_39_word_new_br_3 | vault<br>bulb<br>avoid |  
+| bip_39_word_new_br_4 | vault<br>bulb<br>avoid<br>neutral |  
+| bip_39_word_new_br_5 | vault<br>bulb<br>avoid<br>neutral<br>angry |  
+| bip_39_word_new_br_6 | vault<br>bulb<br>avoid<br>neutral<br>angry<br>buyer |  
+| bip_39_word_new_br_7 | vault<br>bulb<br>avoid<br>neutral<br>angry<br>buyer<br>client |  
+| bip_39_word_new_br_8 | vault<br>bulb<br>avoid<br>neutral<br>angry<br>buyer<br>client<br>medal |  
+| bip_39_word_new_br_9 | vault<br>bulb<br>avoid<br>neutral<br>angry<br>buyer<br>client<br>medal<br>glad |  
+| bip_39_word_new_line_1 | vault |  
+| bip_39_word_new_line_10 | vault
 bulb
 avoid
 neutral
@@ -55,7 +55,7 @@ client
 medal
 glad
 very |  
-| bip_39_word_new_line11 | vault
+| bip_39_word_new_line_11 | vault
 bulb
 avoid
 neutral
@@ -66,7 +66,7 @@ medal
 glad
 very
 crawl |  
-| bip_39_word_new_line12 | vault
+| bip_39_word_new_line_12 | vault
 bulb
 avoid
 neutral
@@ -78,34 +78,34 @@ glad
 very
 crawl
 area |  
-| bip_39_word_new_line2 | vault
+| bip_39_word_new_line_2 | vault
 bulb |  
-| bip_39_word_new_line3 | vault
+| bip_39_word_new_line_3 | vault
 bulb
 avoid |  
-| bip_39_word_new_line4 | vault
+| bip_39_word_new_line_4 | vault
 bulb
 avoid
 neutral |  
-| bip_39_word_new_line5 | vault
+| bip_39_word_new_line_5 | vault
 bulb
 avoid
 neutral
 angry |  
-| bip_39_word_new_line6 | vault
+| bip_39_word_new_line_6 | vault
 bulb
 avoid
 neutral
 angry
 buyer |  
-| bip_39_word_new_line7 | vault
+| bip_39_word_new_line_7 | vault
 bulb
 avoid
 neutral
 angry
 buyer
 client |  
-| bip_39_word_new_line8 | vault
+| bip_39_word_new_line_8 | vault
 bulb
 avoid
 neutral
@@ -113,7 +113,7 @@ angry
 buyer
 client
 medal |  
-| bip_39_word_new_line9 | vault
+| bip_39_word_new_line_9 | vault
 bulb
 avoid
 neutral

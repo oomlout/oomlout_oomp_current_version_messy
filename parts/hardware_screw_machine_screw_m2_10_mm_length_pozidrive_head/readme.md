@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pupil |  
-| bip_39_word_new_br10 | pupil<br>abstract<br>seat<br>check<br>crush<br>observe<br>run<br>void<br>call<br>security |  
-| bip_39_word_new_br11 | pupil<br>abstract<br>seat<br>check<br>crush<br>observe<br>run<br>void<br>call<br>security<br>upon |  
-| bip_39_word_new_br12 | pupil<br>abstract<br>seat<br>check<br>crush<br>observe<br>run<br>void<br>call<br>security<br>upon<br>afraid |  
-| bip_39_word_new_br2 | pupil<br>abstract |  
-| bip_39_word_new_br3 | pupil<br>abstract<br>seat |  
-| bip_39_word_new_br4 | pupil<br>abstract<br>seat<br>check |  
-| bip_39_word_new_br5 | pupil<br>abstract<br>seat<br>check<br>crush |  
-| bip_39_word_new_br6 | pupil<br>abstract<br>seat<br>check<br>crush<br>observe |  
-| bip_39_word_new_br7 | pupil<br>abstract<br>seat<br>check<br>crush<br>observe<br>run |  
-| bip_39_word_new_br8 | pupil<br>abstract<br>seat<br>check<br>crush<br>observe<br>run<br>void |  
-| bip_39_word_new_br9 | pupil<br>abstract<br>seat<br>check<br>crush<br>observe<br>run<br>void<br>call |  
-| bip_39_word_new_line1 | pupil |  
-| bip_39_word_new_line10 | pupil
+| bip_39_word_new_br_1 | pupil |  
+| bip_39_word_new_br_10 | pupil<br>abstract<br>seat<br>check<br>crush<br>observe<br>run<br>void<br>call<br>security |  
+| bip_39_word_new_br_11 | pupil<br>abstract<br>seat<br>check<br>crush<br>observe<br>run<br>void<br>call<br>security<br>upon |  
+| bip_39_word_new_br_12 | pupil<br>abstract<br>seat<br>check<br>crush<br>observe<br>run<br>void<br>call<br>security<br>upon<br>afraid |  
+| bip_39_word_new_br_2 | pupil<br>abstract |  
+| bip_39_word_new_br_3 | pupil<br>abstract<br>seat |  
+| bip_39_word_new_br_4 | pupil<br>abstract<br>seat<br>check |  
+| bip_39_word_new_br_5 | pupil<br>abstract<br>seat<br>check<br>crush |  
+| bip_39_word_new_br_6 | pupil<br>abstract<br>seat<br>check<br>crush<br>observe |  
+| bip_39_word_new_br_7 | pupil<br>abstract<br>seat<br>check<br>crush<br>observe<br>run |  
+| bip_39_word_new_br_8 | pupil<br>abstract<br>seat<br>check<br>crush<br>observe<br>run<br>void |  
+| bip_39_word_new_br_9 | pupil<br>abstract<br>seat<br>check<br>crush<br>observe<br>run<br>void<br>call |  
+| bip_39_word_new_line_1 | pupil |  
+| bip_39_word_new_line_10 | pupil
 abstract
 seat
 check
@@ -55,7 +55,7 @@ run
 void
 call
 security |  
-| bip_39_word_new_line11 | pupil
+| bip_39_word_new_line_11 | pupil
 abstract
 seat
 check
@@ -66,7 +66,7 @@ void
 call
 security
 upon |  
-| bip_39_word_new_line12 | pupil
+| bip_39_word_new_line_12 | pupil
 abstract
 seat
 check
@@ -78,34 +78,34 @@ call
 security
 upon
 afraid |  
-| bip_39_word_new_line2 | pupil
+| bip_39_word_new_line_2 | pupil
 abstract |  
-| bip_39_word_new_line3 | pupil
+| bip_39_word_new_line_3 | pupil
 abstract
 seat |  
-| bip_39_word_new_line4 | pupil
+| bip_39_word_new_line_4 | pupil
 abstract
 seat
 check |  
-| bip_39_word_new_line5 | pupil
+| bip_39_word_new_line_5 | pupil
 abstract
 seat
 check
 crush |  
-| bip_39_word_new_line6 | pupil
+| bip_39_word_new_line_6 | pupil
 abstract
 seat
 check
 crush
 observe |  
-| bip_39_word_new_line7 | pupil
+| bip_39_word_new_line_7 | pupil
 abstract
 seat
 check
 crush
 observe
 run |  
-| bip_39_word_new_line8 | pupil
+| bip_39_word_new_line_8 | pupil
 abstract
 seat
 check
@@ -113,7 +113,7 @@ crush
 observe
 run
 void |  
-| bip_39_word_new_line9 | pupil
+| bip_39_word_new_line_9 | pupil
 abstract
 seat
 check

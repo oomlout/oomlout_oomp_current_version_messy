@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | voice |  
-| bip_39_word_new_br10 | voice<br>reveal<br>ribbon<br>brief<br>chat<br>anger<br>parade<br>public<br>switch<br>peace |  
-| bip_39_word_new_br11 | voice<br>reveal<br>ribbon<br>brief<br>chat<br>anger<br>parade<br>public<br>switch<br>peace<br>powder |  
-| bip_39_word_new_br12 | voice<br>reveal<br>ribbon<br>brief<br>chat<br>anger<br>parade<br>public<br>switch<br>peace<br>powder<br>actor |  
-| bip_39_word_new_br2 | voice<br>reveal |  
-| bip_39_word_new_br3 | voice<br>reveal<br>ribbon |  
-| bip_39_word_new_br4 | voice<br>reveal<br>ribbon<br>brief |  
-| bip_39_word_new_br5 | voice<br>reveal<br>ribbon<br>brief<br>chat |  
-| bip_39_word_new_br6 | voice<br>reveal<br>ribbon<br>brief<br>chat<br>anger |  
-| bip_39_word_new_br7 | voice<br>reveal<br>ribbon<br>brief<br>chat<br>anger<br>parade |  
-| bip_39_word_new_br8 | voice<br>reveal<br>ribbon<br>brief<br>chat<br>anger<br>parade<br>public |  
-| bip_39_word_new_br9 | voice<br>reveal<br>ribbon<br>brief<br>chat<br>anger<br>parade<br>public<br>switch |  
-| bip_39_word_new_line1 | voice |  
-| bip_39_word_new_line10 | voice
+| bip_39_word_new_br_1 | voice |  
+| bip_39_word_new_br_10 | voice<br>reveal<br>ribbon<br>brief<br>chat<br>anger<br>parade<br>public<br>switch<br>peace |  
+| bip_39_word_new_br_11 | voice<br>reveal<br>ribbon<br>brief<br>chat<br>anger<br>parade<br>public<br>switch<br>peace<br>powder |  
+| bip_39_word_new_br_12 | voice<br>reveal<br>ribbon<br>brief<br>chat<br>anger<br>parade<br>public<br>switch<br>peace<br>powder<br>actor |  
+| bip_39_word_new_br_2 | voice<br>reveal |  
+| bip_39_word_new_br_3 | voice<br>reveal<br>ribbon |  
+| bip_39_word_new_br_4 | voice<br>reveal<br>ribbon<br>brief |  
+| bip_39_word_new_br_5 | voice<br>reveal<br>ribbon<br>brief<br>chat |  
+| bip_39_word_new_br_6 | voice<br>reveal<br>ribbon<br>brief<br>chat<br>anger |  
+| bip_39_word_new_br_7 | voice<br>reveal<br>ribbon<br>brief<br>chat<br>anger<br>parade |  
+| bip_39_word_new_br_8 | voice<br>reveal<br>ribbon<br>brief<br>chat<br>anger<br>parade<br>public |  
+| bip_39_word_new_br_9 | voice<br>reveal<br>ribbon<br>brief<br>chat<br>anger<br>parade<br>public<br>switch |  
+| bip_39_word_new_line_1 | voice |  
+| bip_39_word_new_line_10 | voice
 reveal
 ribbon
 brief
@@ -55,7 +55,7 @@ parade
 public
 switch
 peace |  
-| bip_39_word_new_line11 | voice
+| bip_39_word_new_line_11 | voice
 reveal
 ribbon
 brief
@@ -66,7 +66,7 @@ public
 switch
 peace
 powder |  
-| bip_39_word_new_line12 | voice
+| bip_39_word_new_line_12 | voice
 reveal
 ribbon
 brief
@@ -78,34 +78,34 @@ switch
 peace
 powder
 actor |  
-| bip_39_word_new_line2 | voice
+| bip_39_word_new_line_2 | voice
 reveal |  
-| bip_39_word_new_line3 | voice
+| bip_39_word_new_line_3 | voice
 reveal
 ribbon |  
-| bip_39_word_new_line4 | voice
+| bip_39_word_new_line_4 | voice
 reveal
 ribbon
 brief |  
-| bip_39_word_new_line5 | voice
+| bip_39_word_new_line_5 | voice
 reveal
 ribbon
 brief
 chat |  
-| bip_39_word_new_line6 | voice
+| bip_39_word_new_line_6 | voice
 reveal
 ribbon
 brief
 chat
 anger |  
-| bip_39_word_new_line7 | voice
+| bip_39_word_new_line_7 | voice
 reveal
 ribbon
 brief
 chat
 anger
 parade |  
-| bip_39_word_new_line8 | voice
+| bip_39_word_new_line_8 | voice
 reveal
 ribbon
 brief
@@ -113,7 +113,7 @@ chat
 anger
 parade
 public |  
-| bip_39_word_new_line9 | voice
+| bip_39_word_new_line_9 | voice
 reveal
 ribbon
 brief

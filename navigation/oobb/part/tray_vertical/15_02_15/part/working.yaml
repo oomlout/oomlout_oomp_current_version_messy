@@ -1,17 +1,17 @@
-bip_39_word_new_br1: suffer
-bip_39_word_new_br10: suffer<br>prize<br>okay<br>child<br>sustain<br>marine<br>estate<br>bamboo<br>hub<br>banana
-bip_39_word_new_br11: suffer<br>prize<br>okay<br>child<br>sustain<br>marine<br>estate<br>bamboo<br>hub<br>banana<br>swift
-bip_39_word_new_br12: suffer<br>prize<br>okay<br>child<br>sustain<br>marine<br>estate<br>bamboo<br>hub<br>banana<br>swift<br>alpha
-bip_39_word_new_br2: suffer<br>prize
-bip_39_word_new_br3: suffer<br>prize<br>okay
-bip_39_word_new_br4: suffer<br>prize<br>okay<br>child
-bip_39_word_new_br5: suffer<br>prize<br>okay<br>child<br>sustain
-bip_39_word_new_br6: suffer<br>prize<br>okay<br>child<br>sustain<br>marine
-bip_39_word_new_br7: suffer<br>prize<br>okay<br>child<br>sustain<br>marine<br>estate
-bip_39_word_new_br8: suffer<br>prize<br>okay<br>child<br>sustain<br>marine<br>estate<br>bamboo
-bip_39_word_new_br9: suffer<br>prize<br>okay<br>child<br>sustain<br>marine<br>estate<br>bamboo<br>hub
-bip_39_word_new_line1: suffer
-bip_39_word_new_line10: 'suffer
+bip_39_word_new_br_1: suffer
+bip_39_word_new_br_10: suffer<br>prize<br>okay<br>child<br>sustain<br>marine<br>estate<br>bamboo<br>hub<br>banana
+bip_39_word_new_br_11: suffer<br>prize<br>okay<br>child<br>sustain<br>marine<br>estate<br>bamboo<br>hub<br>banana<br>swift
+bip_39_word_new_br_12: suffer<br>prize<br>okay<br>child<br>sustain<br>marine<br>estate<br>bamboo<br>hub<br>banana<br>swift<br>alpha
+bip_39_word_new_br_2: suffer<br>prize
+bip_39_word_new_br_3: suffer<br>prize<br>okay
+bip_39_word_new_br_4: suffer<br>prize<br>okay<br>child
+bip_39_word_new_br_5: suffer<br>prize<br>okay<br>child<br>sustain
+bip_39_word_new_br_6: suffer<br>prize<br>okay<br>child<br>sustain<br>marine
+bip_39_word_new_br_7: suffer<br>prize<br>okay<br>child<br>sustain<br>marine<br>estate
+bip_39_word_new_br_8: suffer<br>prize<br>okay<br>child<br>sustain<br>marine<br>estate<br>bamboo
+bip_39_word_new_br_9: suffer<br>prize<br>okay<br>child<br>sustain<br>marine<br>estate<br>bamboo<br>hub
+bip_39_word_new_line_1: suffer
+bip_39_word_new_line_10: 'suffer
 
   prize
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'suffer
   hub
 
   banana'
-bip_39_word_new_line11: 'suffer
+bip_39_word_new_line_11: 'suffer
 
   prize
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'suffer
   banana
 
   swift'
-bip_39_word_new_line12: 'suffer
+bip_39_word_new_line_12: 'suffer
 
   prize
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'suffer
   swift
 
   alpha'
-bip_39_word_new_line2: 'suffer
+bip_39_word_new_line_2: 'suffer
 
   prize'
-bip_39_word_new_line3: 'suffer
+bip_39_word_new_line_3: 'suffer
 
   prize
 
   okay'
-bip_39_word_new_line4: 'suffer
+bip_39_word_new_line_4: 'suffer
 
   prize
 
   okay
 
   child'
-bip_39_word_new_line5: 'suffer
+bip_39_word_new_line_5: 'suffer
 
   prize
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'suffer
   child
 
   sustain'
-bip_39_word_new_line6: 'suffer
+bip_39_word_new_line_6: 'suffer
 
   prize
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'suffer
   sustain
 
   marine'
-bip_39_word_new_line7: 'suffer
+bip_39_word_new_line_7: 'suffer
 
   prize
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'suffer
   marine
 
   estate'
-bip_39_word_new_line8: 'suffer
+bip_39_word_new_line_8: 'suffer
 
   prize
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'suffer
   estate
 
   bamboo'
-bip_39_word_new_line9: 'suffer
+bip_39_word_new_line_9: 'suffer
 
   prize
 

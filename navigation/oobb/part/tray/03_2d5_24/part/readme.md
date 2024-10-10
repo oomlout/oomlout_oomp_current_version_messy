@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | join |  
-| bip_39_word_new_br10 | join<br>chimney<br>pair<br>scatter<br>else<br>symbol<br>truly<br>category<br>clean<br>enable |  
-| bip_39_word_new_br11 | join<br>chimney<br>pair<br>scatter<br>else<br>symbol<br>truly<br>category<br>clean<br>enable<br>innocent |  
-| bip_39_word_new_br12 | join<br>chimney<br>pair<br>scatter<br>else<br>symbol<br>truly<br>category<br>clean<br>enable<br>innocent<br>almost |  
-| bip_39_word_new_br2 | join<br>chimney |  
-| bip_39_word_new_br3 | join<br>chimney<br>pair |  
-| bip_39_word_new_br4 | join<br>chimney<br>pair<br>scatter |  
-| bip_39_word_new_br5 | join<br>chimney<br>pair<br>scatter<br>else |  
-| bip_39_word_new_br6 | join<br>chimney<br>pair<br>scatter<br>else<br>symbol |  
-| bip_39_word_new_br7 | join<br>chimney<br>pair<br>scatter<br>else<br>symbol<br>truly |  
-| bip_39_word_new_br8 | join<br>chimney<br>pair<br>scatter<br>else<br>symbol<br>truly<br>category |  
-| bip_39_word_new_br9 | join<br>chimney<br>pair<br>scatter<br>else<br>symbol<br>truly<br>category<br>clean |  
-| bip_39_word_new_line1 | join |  
-| bip_39_word_new_line10 | join
+| bip_39_word_new_br_1 | join |  
+| bip_39_word_new_br_10 | join<br>chimney<br>pair<br>scatter<br>else<br>symbol<br>truly<br>category<br>clean<br>enable |  
+| bip_39_word_new_br_11 | join<br>chimney<br>pair<br>scatter<br>else<br>symbol<br>truly<br>category<br>clean<br>enable<br>innocent |  
+| bip_39_word_new_br_12 | join<br>chimney<br>pair<br>scatter<br>else<br>symbol<br>truly<br>category<br>clean<br>enable<br>innocent<br>almost |  
+| bip_39_word_new_br_2 | join<br>chimney |  
+| bip_39_word_new_br_3 | join<br>chimney<br>pair |  
+| bip_39_word_new_br_4 | join<br>chimney<br>pair<br>scatter |  
+| bip_39_word_new_br_5 | join<br>chimney<br>pair<br>scatter<br>else |  
+| bip_39_word_new_br_6 | join<br>chimney<br>pair<br>scatter<br>else<br>symbol |  
+| bip_39_word_new_br_7 | join<br>chimney<br>pair<br>scatter<br>else<br>symbol<br>truly |  
+| bip_39_word_new_br_8 | join<br>chimney<br>pair<br>scatter<br>else<br>symbol<br>truly<br>category |  
+| bip_39_word_new_br_9 | join<br>chimney<br>pair<br>scatter<br>else<br>symbol<br>truly<br>category<br>clean |  
+| bip_39_word_new_line_1 | join |  
+| bip_39_word_new_line_10 | join
 chimney
 pair
 scatter
@@ -55,7 +55,7 @@ truly
 category
 clean
 enable |  
-| bip_39_word_new_line11 | join
+| bip_39_word_new_line_11 | join
 chimney
 pair
 scatter
@@ -66,7 +66,7 @@ category
 clean
 enable
 innocent |  
-| bip_39_word_new_line12 | join
+| bip_39_word_new_line_12 | join
 chimney
 pair
 scatter
@@ -78,34 +78,34 @@ clean
 enable
 innocent
 almost |  
-| bip_39_word_new_line2 | join
+| bip_39_word_new_line_2 | join
 chimney |  
-| bip_39_word_new_line3 | join
+| bip_39_word_new_line_3 | join
 chimney
 pair |  
-| bip_39_word_new_line4 | join
+| bip_39_word_new_line_4 | join
 chimney
 pair
 scatter |  
-| bip_39_word_new_line5 | join
+| bip_39_word_new_line_5 | join
 chimney
 pair
 scatter
 else |  
-| bip_39_word_new_line6 | join
+| bip_39_word_new_line_6 | join
 chimney
 pair
 scatter
 else
 symbol |  
-| bip_39_word_new_line7 | join
+| bip_39_word_new_line_7 | join
 chimney
 pair
 scatter
 else
 symbol
 truly |  
-| bip_39_word_new_line8 | join
+| bip_39_word_new_line_8 | join
 chimney
 pair
 scatter
@@ -113,7 +113,7 @@ else
 symbol
 truly
 category |  
-| bip_39_word_new_line9 | join
+| bip_39_word_new_line_9 | join
 chimney
 pair
 scatter

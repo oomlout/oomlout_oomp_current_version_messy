@@ -1,17 +1,17 @@
-bip_39_word_new_br1: shoe
-bip_39_word_new_br10: shoe<br>club<br>lock<br>weekend<br>undo<br>tiger<br>parrot<br>course<br>prepare<br>order
-bip_39_word_new_br11: shoe<br>club<br>lock<br>weekend<br>undo<br>tiger<br>parrot<br>course<br>prepare<br>order<br>father
-bip_39_word_new_br12: shoe<br>club<br>lock<br>weekend<br>undo<br>tiger<br>parrot<br>course<br>prepare<br>order<br>father<br>art
-bip_39_word_new_br2: shoe<br>club
-bip_39_word_new_br3: shoe<br>club<br>lock
-bip_39_word_new_br4: shoe<br>club<br>lock<br>weekend
-bip_39_word_new_br5: shoe<br>club<br>lock<br>weekend<br>undo
-bip_39_word_new_br6: shoe<br>club<br>lock<br>weekend<br>undo<br>tiger
-bip_39_word_new_br7: shoe<br>club<br>lock<br>weekend<br>undo<br>tiger<br>parrot
-bip_39_word_new_br8: shoe<br>club<br>lock<br>weekend<br>undo<br>tiger<br>parrot<br>course
-bip_39_word_new_br9: shoe<br>club<br>lock<br>weekend<br>undo<br>tiger<br>parrot<br>course<br>prepare
-bip_39_word_new_line1: shoe
-bip_39_word_new_line10: 'shoe
+bip_39_word_new_br_1: shoe
+bip_39_word_new_br_10: shoe<br>club<br>lock<br>weekend<br>undo<br>tiger<br>parrot<br>course<br>prepare<br>order
+bip_39_word_new_br_11: shoe<br>club<br>lock<br>weekend<br>undo<br>tiger<br>parrot<br>course<br>prepare<br>order<br>father
+bip_39_word_new_br_12: shoe<br>club<br>lock<br>weekend<br>undo<br>tiger<br>parrot<br>course<br>prepare<br>order<br>father<br>art
+bip_39_word_new_br_2: shoe<br>club
+bip_39_word_new_br_3: shoe<br>club<br>lock
+bip_39_word_new_br_4: shoe<br>club<br>lock<br>weekend
+bip_39_word_new_br_5: shoe<br>club<br>lock<br>weekend<br>undo
+bip_39_word_new_br_6: shoe<br>club<br>lock<br>weekend<br>undo<br>tiger
+bip_39_word_new_br_7: shoe<br>club<br>lock<br>weekend<br>undo<br>tiger<br>parrot
+bip_39_word_new_br_8: shoe<br>club<br>lock<br>weekend<br>undo<br>tiger<br>parrot<br>course
+bip_39_word_new_br_9: shoe<br>club<br>lock<br>weekend<br>undo<br>tiger<br>parrot<br>course<br>prepare
+bip_39_word_new_line_1: shoe
+bip_39_word_new_line_10: 'shoe
 
   club
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'shoe
   prepare
 
   order'
-bip_39_word_new_line11: 'shoe
+bip_39_word_new_line_11: 'shoe
 
   club
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'shoe
   order
 
   father'
-bip_39_word_new_line12: 'shoe
+bip_39_word_new_line_12: 'shoe
 
   club
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'shoe
   father
 
   art'
-bip_39_word_new_line2: 'shoe
+bip_39_word_new_line_2: 'shoe
 
   club'
-bip_39_word_new_line3: 'shoe
+bip_39_word_new_line_3: 'shoe
 
   club
 
   lock'
-bip_39_word_new_line4: 'shoe
+bip_39_word_new_line_4: 'shoe
 
   club
 
   lock
 
   weekend'
-bip_39_word_new_line5: 'shoe
+bip_39_word_new_line_5: 'shoe
 
   club
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'shoe
   weekend
 
   undo'
-bip_39_word_new_line6: 'shoe
+bip_39_word_new_line_6: 'shoe
 
   club
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'shoe
   undo
 
   tiger'
-bip_39_word_new_line7: 'shoe
+bip_39_word_new_line_7: 'shoe
 
   club
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'shoe
   tiger
 
   parrot'
-bip_39_word_new_line8: 'shoe
+bip_39_word_new_line_8: 'shoe
 
   club
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'shoe
   parrot
 
   course'
-bip_39_word_new_line9: 'shoe
+bip_39_word_new_line_9: 'shoe
 
   club
 

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gather |  
-| bip_39_word_new_br10 | gather<br>shoot<br>someone<br>ticket<br>bunker<br>cushion<br>organ<br>track<br>wide<br>wear |  
-| bip_39_word_new_br11 | gather<br>shoot<br>someone<br>ticket<br>bunker<br>cushion<br>organ<br>track<br>wide<br>wear<br>brush |  
-| bip_39_word_new_br12 | gather<br>shoot<br>someone<br>ticket<br>bunker<br>cushion<br>organ<br>track<br>wide<br>wear<br>brush<br>aim |  
-| bip_39_word_new_br2 | gather<br>shoot |  
-| bip_39_word_new_br3 | gather<br>shoot<br>someone |  
-| bip_39_word_new_br4 | gather<br>shoot<br>someone<br>ticket |  
-| bip_39_word_new_br5 | gather<br>shoot<br>someone<br>ticket<br>bunker |  
-| bip_39_word_new_br6 | gather<br>shoot<br>someone<br>ticket<br>bunker<br>cushion |  
-| bip_39_word_new_br7 | gather<br>shoot<br>someone<br>ticket<br>bunker<br>cushion<br>organ |  
-| bip_39_word_new_br8 | gather<br>shoot<br>someone<br>ticket<br>bunker<br>cushion<br>organ<br>track |  
-| bip_39_word_new_br9 | gather<br>shoot<br>someone<br>ticket<br>bunker<br>cushion<br>organ<br>track<br>wide |  
-| bip_39_word_new_line1 | gather |  
-| bip_39_word_new_line10 | gather
+| bip_39_word_new_br_1 | gather |  
+| bip_39_word_new_br_10 | gather<br>shoot<br>someone<br>ticket<br>bunker<br>cushion<br>organ<br>track<br>wide<br>wear |  
+| bip_39_word_new_br_11 | gather<br>shoot<br>someone<br>ticket<br>bunker<br>cushion<br>organ<br>track<br>wide<br>wear<br>brush |  
+| bip_39_word_new_br_12 | gather<br>shoot<br>someone<br>ticket<br>bunker<br>cushion<br>organ<br>track<br>wide<br>wear<br>brush<br>aim |  
+| bip_39_word_new_br_2 | gather<br>shoot |  
+| bip_39_word_new_br_3 | gather<br>shoot<br>someone |  
+| bip_39_word_new_br_4 | gather<br>shoot<br>someone<br>ticket |  
+| bip_39_word_new_br_5 | gather<br>shoot<br>someone<br>ticket<br>bunker |  
+| bip_39_word_new_br_6 | gather<br>shoot<br>someone<br>ticket<br>bunker<br>cushion |  
+| bip_39_word_new_br_7 | gather<br>shoot<br>someone<br>ticket<br>bunker<br>cushion<br>organ |  
+| bip_39_word_new_br_8 | gather<br>shoot<br>someone<br>ticket<br>bunker<br>cushion<br>organ<br>track |  
+| bip_39_word_new_br_9 | gather<br>shoot<br>someone<br>ticket<br>bunker<br>cushion<br>organ<br>track<br>wide |  
+| bip_39_word_new_line_1 | gather |  
+| bip_39_word_new_line_10 | gather
 shoot
 someone
 ticket
@@ -55,7 +55,7 @@ organ
 track
 wide
 wear |  
-| bip_39_word_new_line11 | gather
+| bip_39_word_new_line_11 | gather
 shoot
 someone
 ticket
@@ -66,7 +66,7 @@ track
 wide
 wear
 brush |  
-| bip_39_word_new_line12 | gather
+| bip_39_word_new_line_12 | gather
 shoot
 someone
 ticket
@@ -78,34 +78,34 @@ wide
 wear
 brush
 aim |  
-| bip_39_word_new_line2 | gather
+| bip_39_word_new_line_2 | gather
 shoot |  
-| bip_39_word_new_line3 | gather
+| bip_39_word_new_line_3 | gather
 shoot
 someone |  
-| bip_39_word_new_line4 | gather
+| bip_39_word_new_line_4 | gather
 shoot
 someone
 ticket |  
-| bip_39_word_new_line5 | gather
+| bip_39_word_new_line_5 | gather
 shoot
 someone
 ticket
 bunker |  
-| bip_39_word_new_line6 | gather
+| bip_39_word_new_line_6 | gather
 shoot
 someone
 ticket
 bunker
 cushion |  
-| bip_39_word_new_line7 | gather
+| bip_39_word_new_line_7 | gather
 shoot
 someone
 ticket
 bunker
 cushion
 organ |  
-| bip_39_word_new_line8 | gather
+| bip_39_word_new_line_8 | gather
 shoot
 someone
 ticket
@@ -113,7 +113,7 @@ bunker
 cushion
 organ
 track |  
-| bip_39_word_new_line9 | gather
+| bip_39_word_new_line_9 | gather
 shoot
 someone
 ticket

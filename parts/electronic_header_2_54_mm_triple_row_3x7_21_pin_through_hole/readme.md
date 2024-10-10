@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | shrug |  
-| bip_39_word_new_br10 | shrug<br>seed<br>retreat<br>sort<br>meat<br>start<br>rose<br>imitate<br>swap<br>dose |  
-| bip_39_word_new_br11 | shrug<br>seed<br>retreat<br>sort<br>meat<br>start<br>rose<br>imitate<br>swap<br>dose<br>lift |  
-| bip_39_word_new_br12 | shrug<br>seed<br>retreat<br>sort<br>meat<br>start<br>rose<br>imitate<br>swap<br>dose<br>lift<br>ahead |  
-| bip_39_word_new_br2 | shrug<br>seed |  
-| bip_39_word_new_br3 | shrug<br>seed<br>retreat |  
-| bip_39_word_new_br4 | shrug<br>seed<br>retreat<br>sort |  
-| bip_39_word_new_br5 | shrug<br>seed<br>retreat<br>sort<br>meat |  
-| bip_39_word_new_br6 | shrug<br>seed<br>retreat<br>sort<br>meat<br>start |  
-| bip_39_word_new_br7 | shrug<br>seed<br>retreat<br>sort<br>meat<br>start<br>rose |  
-| bip_39_word_new_br8 | shrug<br>seed<br>retreat<br>sort<br>meat<br>start<br>rose<br>imitate |  
-| bip_39_word_new_br9 | shrug<br>seed<br>retreat<br>sort<br>meat<br>start<br>rose<br>imitate<br>swap |  
-| bip_39_word_new_line1 | shrug |  
-| bip_39_word_new_line10 | shrug
+| bip_39_word_new_br_1 | shrug |  
+| bip_39_word_new_br_10 | shrug<br>seed<br>retreat<br>sort<br>meat<br>start<br>rose<br>imitate<br>swap<br>dose |  
+| bip_39_word_new_br_11 | shrug<br>seed<br>retreat<br>sort<br>meat<br>start<br>rose<br>imitate<br>swap<br>dose<br>lift |  
+| bip_39_word_new_br_12 | shrug<br>seed<br>retreat<br>sort<br>meat<br>start<br>rose<br>imitate<br>swap<br>dose<br>lift<br>ahead |  
+| bip_39_word_new_br_2 | shrug<br>seed |  
+| bip_39_word_new_br_3 | shrug<br>seed<br>retreat |  
+| bip_39_word_new_br_4 | shrug<br>seed<br>retreat<br>sort |  
+| bip_39_word_new_br_5 | shrug<br>seed<br>retreat<br>sort<br>meat |  
+| bip_39_word_new_br_6 | shrug<br>seed<br>retreat<br>sort<br>meat<br>start |  
+| bip_39_word_new_br_7 | shrug<br>seed<br>retreat<br>sort<br>meat<br>start<br>rose |  
+| bip_39_word_new_br_8 | shrug<br>seed<br>retreat<br>sort<br>meat<br>start<br>rose<br>imitate |  
+| bip_39_word_new_br_9 | shrug<br>seed<br>retreat<br>sort<br>meat<br>start<br>rose<br>imitate<br>swap |  
+| bip_39_word_new_line_1 | shrug |  
+| bip_39_word_new_line_10 | shrug
 seed
 retreat
 sort
@@ -55,7 +55,7 @@ rose
 imitate
 swap
 dose |  
-| bip_39_word_new_line11 | shrug
+| bip_39_word_new_line_11 | shrug
 seed
 retreat
 sort
@@ -66,7 +66,7 @@ imitate
 swap
 dose
 lift |  
-| bip_39_word_new_line12 | shrug
+| bip_39_word_new_line_12 | shrug
 seed
 retreat
 sort
@@ -78,34 +78,34 @@ swap
 dose
 lift
 ahead |  
-| bip_39_word_new_line2 | shrug
+| bip_39_word_new_line_2 | shrug
 seed |  
-| bip_39_word_new_line3 | shrug
+| bip_39_word_new_line_3 | shrug
 seed
 retreat |  
-| bip_39_word_new_line4 | shrug
+| bip_39_word_new_line_4 | shrug
 seed
 retreat
 sort |  
-| bip_39_word_new_line5 | shrug
+| bip_39_word_new_line_5 | shrug
 seed
 retreat
 sort
 meat |  
-| bip_39_word_new_line6 | shrug
+| bip_39_word_new_line_6 | shrug
 seed
 retreat
 sort
 meat
 start |  
-| bip_39_word_new_line7 | shrug
+| bip_39_word_new_line_7 | shrug
 seed
 retreat
 sort
 meat
 start
 rose |  
-| bip_39_word_new_line8 | shrug
+| bip_39_word_new_line_8 | shrug
 seed
 retreat
 sort
@@ -113,7 +113,7 @@ meat
 start
 rose
 imitate |  
-| bip_39_word_new_line9 | shrug
+| bip_39_word_new_line_9 | shrug
 seed
 retreat
 sort

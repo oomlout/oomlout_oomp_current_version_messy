@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | young |  
-| bip_39_word_new_br10 | young<br>gap<br>emotion<br>dignity<br>nuclear<br>business<br>grit<br>actual<br>pond<br>creek |  
-| bip_39_word_new_br11 | young<br>gap<br>emotion<br>dignity<br>nuclear<br>business<br>grit<br>actual<br>pond<br>creek<br>brief |  
-| bip_39_word_new_br12 | young<br>gap<br>emotion<br>dignity<br>nuclear<br>business<br>grit<br>actual<br>pond<br>creek<br>brief<br>april |  
-| bip_39_word_new_br2 | young<br>gap |  
-| bip_39_word_new_br3 | young<br>gap<br>emotion |  
-| bip_39_word_new_br4 | young<br>gap<br>emotion<br>dignity |  
-| bip_39_word_new_br5 | young<br>gap<br>emotion<br>dignity<br>nuclear |  
-| bip_39_word_new_br6 | young<br>gap<br>emotion<br>dignity<br>nuclear<br>business |  
-| bip_39_word_new_br7 | young<br>gap<br>emotion<br>dignity<br>nuclear<br>business<br>grit |  
-| bip_39_word_new_br8 | young<br>gap<br>emotion<br>dignity<br>nuclear<br>business<br>grit<br>actual |  
-| bip_39_word_new_br9 | young<br>gap<br>emotion<br>dignity<br>nuclear<br>business<br>grit<br>actual<br>pond |  
-| bip_39_word_new_line1 | young |  
-| bip_39_word_new_line10 | young
+| bip_39_word_new_br_1 | young |  
+| bip_39_word_new_br_10 | young<br>gap<br>emotion<br>dignity<br>nuclear<br>business<br>grit<br>actual<br>pond<br>creek |  
+| bip_39_word_new_br_11 | young<br>gap<br>emotion<br>dignity<br>nuclear<br>business<br>grit<br>actual<br>pond<br>creek<br>brief |  
+| bip_39_word_new_br_12 | young<br>gap<br>emotion<br>dignity<br>nuclear<br>business<br>grit<br>actual<br>pond<br>creek<br>brief<br>april |  
+| bip_39_word_new_br_2 | young<br>gap |  
+| bip_39_word_new_br_3 | young<br>gap<br>emotion |  
+| bip_39_word_new_br_4 | young<br>gap<br>emotion<br>dignity |  
+| bip_39_word_new_br_5 | young<br>gap<br>emotion<br>dignity<br>nuclear |  
+| bip_39_word_new_br_6 | young<br>gap<br>emotion<br>dignity<br>nuclear<br>business |  
+| bip_39_word_new_br_7 | young<br>gap<br>emotion<br>dignity<br>nuclear<br>business<br>grit |  
+| bip_39_word_new_br_8 | young<br>gap<br>emotion<br>dignity<br>nuclear<br>business<br>grit<br>actual |  
+| bip_39_word_new_br_9 | young<br>gap<br>emotion<br>dignity<br>nuclear<br>business<br>grit<br>actual<br>pond |  
+| bip_39_word_new_line_1 | young |  
+| bip_39_word_new_line_10 | young
 gap
 emotion
 dignity
@@ -55,7 +55,7 @@ grit
 actual
 pond
 creek |  
-| bip_39_word_new_line11 | young
+| bip_39_word_new_line_11 | young
 gap
 emotion
 dignity
@@ -66,7 +66,7 @@ actual
 pond
 creek
 brief |  
-| bip_39_word_new_line12 | young
+| bip_39_word_new_line_12 | young
 gap
 emotion
 dignity
@@ -78,34 +78,34 @@ pond
 creek
 brief
 april |  
-| bip_39_word_new_line2 | young
+| bip_39_word_new_line_2 | young
 gap |  
-| bip_39_word_new_line3 | young
+| bip_39_word_new_line_3 | young
 gap
 emotion |  
-| bip_39_word_new_line4 | young
+| bip_39_word_new_line_4 | young
 gap
 emotion
 dignity |  
-| bip_39_word_new_line5 | young
+| bip_39_word_new_line_5 | young
 gap
 emotion
 dignity
 nuclear |  
-| bip_39_word_new_line6 | young
+| bip_39_word_new_line_6 | young
 gap
 emotion
 dignity
 nuclear
 business |  
-| bip_39_word_new_line7 | young
+| bip_39_word_new_line_7 | young
 gap
 emotion
 dignity
 nuclear
 business
 grit |  
-| bip_39_word_new_line8 | young
+| bip_39_word_new_line_8 | young
 gap
 emotion
 dignity
@@ -113,7 +113,7 @@ nuclear
 business
 grit
 actual |  
-| bip_39_word_new_line9 | young
+| bip_39_word_new_line_9 | young
 gap
 emotion
 dignity

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | vacant |  
-| bip_39_word_new_br10 | vacant<br>salon<br>boost<br>motion<br>salt<br>detail<br>crowd<br>chest<br>bitter<br>sunny |  
-| bip_39_word_new_br11 | vacant<br>salon<br>boost<br>motion<br>salt<br>detail<br>crowd<br>chest<br>bitter<br>sunny<br>blush |  
-| bip_39_word_new_br12 | vacant<br>salon<br>boost<br>motion<br>salt<br>detail<br>crowd<br>chest<br>bitter<br>sunny<br>blush<br>arch |  
-| bip_39_word_new_br2 | vacant<br>salon |  
-| bip_39_word_new_br3 | vacant<br>salon<br>boost |  
-| bip_39_word_new_br4 | vacant<br>salon<br>boost<br>motion |  
-| bip_39_word_new_br5 | vacant<br>salon<br>boost<br>motion<br>salt |  
-| bip_39_word_new_br6 | vacant<br>salon<br>boost<br>motion<br>salt<br>detail |  
-| bip_39_word_new_br7 | vacant<br>salon<br>boost<br>motion<br>salt<br>detail<br>crowd |  
-| bip_39_word_new_br8 | vacant<br>salon<br>boost<br>motion<br>salt<br>detail<br>crowd<br>chest |  
-| bip_39_word_new_br9 | vacant<br>salon<br>boost<br>motion<br>salt<br>detail<br>crowd<br>chest<br>bitter |  
-| bip_39_word_new_line1 | vacant |  
-| bip_39_word_new_line10 | vacant
+| bip_39_word_new_br_1 | vacant |  
+| bip_39_word_new_br_10 | vacant<br>salon<br>boost<br>motion<br>salt<br>detail<br>crowd<br>chest<br>bitter<br>sunny |  
+| bip_39_word_new_br_11 | vacant<br>salon<br>boost<br>motion<br>salt<br>detail<br>crowd<br>chest<br>bitter<br>sunny<br>blush |  
+| bip_39_word_new_br_12 | vacant<br>salon<br>boost<br>motion<br>salt<br>detail<br>crowd<br>chest<br>bitter<br>sunny<br>blush<br>arch |  
+| bip_39_word_new_br_2 | vacant<br>salon |  
+| bip_39_word_new_br_3 | vacant<br>salon<br>boost |  
+| bip_39_word_new_br_4 | vacant<br>salon<br>boost<br>motion |  
+| bip_39_word_new_br_5 | vacant<br>salon<br>boost<br>motion<br>salt |  
+| bip_39_word_new_br_6 | vacant<br>salon<br>boost<br>motion<br>salt<br>detail |  
+| bip_39_word_new_br_7 | vacant<br>salon<br>boost<br>motion<br>salt<br>detail<br>crowd |  
+| bip_39_word_new_br_8 | vacant<br>salon<br>boost<br>motion<br>salt<br>detail<br>crowd<br>chest |  
+| bip_39_word_new_br_9 | vacant<br>salon<br>boost<br>motion<br>salt<br>detail<br>crowd<br>chest<br>bitter |  
+| bip_39_word_new_line_1 | vacant |  
+| bip_39_word_new_line_10 | vacant
 salon
 boost
 motion
@@ -55,7 +55,7 @@ crowd
 chest
 bitter
 sunny |  
-| bip_39_word_new_line11 | vacant
+| bip_39_word_new_line_11 | vacant
 salon
 boost
 motion
@@ -66,7 +66,7 @@ chest
 bitter
 sunny
 blush |  
-| bip_39_word_new_line12 | vacant
+| bip_39_word_new_line_12 | vacant
 salon
 boost
 motion
@@ -78,34 +78,34 @@ bitter
 sunny
 blush
 arch |  
-| bip_39_word_new_line2 | vacant
+| bip_39_word_new_line_2 | vacant
 salon |  
-| bip_39_word_new_line3 | vacant
+| bip_39_word_new_line_3 | vacant
 salon
 boost |  
-| bip_39_word_new_line4 | vacant
+| bip_39_word_new_line_4 | vacant
 salon
 boost
 motion |  
-| bip_39_word_new_line5 | vacant
+| bip_39_word_new_line_5 | vacant
 salon
 boost
 motion
 salt |  
-| bip_39_word_new_line6 | vacant
+| bip_39_word_new_line_6 | vacant
 salon
 boost
 motion
 salt
 detail |  
-| bip_39_word_new_line7 | vacant
+| bip_39_word_new_line_7 | vacant
 salon
 boost
 motion
 salt
 detail
 crowd |  
-| bip_39_word_new_line8 | vacant
+| bip_39_word_new_line_8 | vacant
 salon
 boost
 motion
@@ -113,7 +113,7 @@ salt
 detail
 crowd
 chest |  
-| bip_39_word_new_line9 | vacant
+| bip_39_word_new_line_9 | vacant
 salon
 boost
 motion

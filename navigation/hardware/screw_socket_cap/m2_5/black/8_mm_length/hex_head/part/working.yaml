@@ -1,17 +1,17 @@
-bip_39_word_new_br1: rather
-bip_39_word_new_br10: rather<br>trend<br>charge<br>laundry<br>vivid<br>champion<br>announce<br>bulk<br>remember<br>boost
-bip_39_word_new_br11: rather<br>trend<br>charge<br>laundry<br>vivid<br>champion<br>announce<br>bulk<br>remember<br>boost<br>mirror
-bip_39_word_new_br12: rather<br>trend<br>charge<br>laundry<br>vivid<br>champion<br>announce<br>bulk<br>remember<br>boost<br>mirror<br>alter
-bip_39_word_new_br2: rather<br>trend
-bip_39_word_new_br3: rather<br>trend<br>charge
-bip_39_word_new_br4: rather<br>trend<br>charge<br>laundry
-bip_39_word_new_br5: rather<br>trend<br>charge<br>laundry<br>vivid
-bip_39_word_new_br6: rather<br>trend<br>charge<br>laundry<br>vivid<br>champion
-bip_39_word_new_br7: rather<br>trend<br>charge<br>laundry<br>vivid<br>champion<br>announce
-bip_39_word_new_br8: rather<br>trend<br>charge<br>laundry<br>vivid<br>champion<br>announce<br>bulk
-bip_39_word_new_br9: rather<br>trend<br>charge<br>laundry<br>vivid<br>champion<br>announce<br>bulk<br>remember
-bip_39_word_new_line1: rather
-bip_39_word_new_line10: 'rather
+bip_39_word_new_br_1: rather
+bip_39_word_new_br_10: rather<br>trend<br>charge<br>laundry<br>vivid<br>champion<br>announce<br>bulk<br>remember<br>boost
+bip_39_word_new_br_11: rather<br>trend<br>charge<br>laundry<br>vivid<br>champion<br>announce<br>bulk<br>remember<br>boost<br>mirror
+bip_39_word_new_br_12: rather<br>trend<br>charge<br>laundry<br>vivid<br>champion<br>announce<br>bulk<br>remember<br>boost<br>mirror<br>alter
+bip_39_word_new_br_2: rather<br>trend
+bip_39_word_new_br_3: rather<br>trend<br>charge
+bip_39_word_new_br_4: rather<br>trend<br>charge<br>laundry
+bip_39_word_new_br_5: rather<br>trend<br>charge<br>laundry<br>vivid
+bip_39_word_new_br_6: rather<br>trend<br>charge<br>laundry<br>vivid<br>champion
+bip_39_word_new_br_7: rather<br>trend<br>charge<br>laundry<br>vivid<br>champion<br>announce
+bip_39_word_new_br_8: rather<br>trend<br>charge<br>laundry<br>vivid<br>champion<br>announce<br>bulk
+bip_39_word_new_br_9: rather<br>trend<br>charge<br>laundry<br>vivid<br>champion<br>announce<br>bulk<br>remember
+bip_39_word_new_line_1: rather
+bip_39_word_new_line_10: 'rather
 
   trend
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'rather
   remember
 
   boost'
-bip_39_word_new_line11: 'rather
+bip_39_word_new_line_11: 'rather
 
   trend
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'rather
   boost
 
   mirror'
-bip_39_word_new_line12: 'rather
+bip_39_word_new_line_12: 'rather
 
   trend
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'rather
   mirror
 
   alter'
-bip_39_word_new_line2: 'rather
+bip_39_word_new_line_2: 'rather
 
   trend'
-bip_39_word_new_line3: 'rather
+bip_39_word_new_line_3: 'rather
 
   trend
 
   charge'
-bip_39_word_new_line4: 'rather
+bip_39_word_new_line_4: 'rather
 
   trend
 
   charge
 
   laundry'
-bip_39_word_new_line5: 'rather
+bip_39_word_new_line_5: 'rather
 
   trend
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'rather
   laundry
 
   vivid'
-bip_39_word_new_line6: 'rather
+bip_39_word_new_line_6: 'rather
 
   trend
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'rather
   vivid
 
   champion'
-bip_39_word_new_line7: 'rather
+bip_39_word_new_line_7: 'rather
 
   trend
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'rather
   champion
 
   announce'
-bip_39_word_new_line8: 'rather
+bip_39_word_new_line_8: 'rather
 
   trend
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'rather
   announce
 
   bulk'
-bip_39_word_new_line9: 'rather
+bip_39_word_new_line_9: 'rather
 
   trend
 

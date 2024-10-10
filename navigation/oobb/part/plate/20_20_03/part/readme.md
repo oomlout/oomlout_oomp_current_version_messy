@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pluck |  
-| bip_39_word_new_br10 | pluck<br>lunar<br>anger<br>tourist<br>final<br>voyage<br>funny<br>sand<br>panel<br>soft |  
-| bip_39_word_new_br11 | pluck<br>lunar<br>anger<br>tourist<br>final<br>voyage<br>funny<br>sand<br>panel<br>soft<br>symbol |  
-| bip_39_word_new_br12 | pluck<br>lunar<br>anger<br>tourist<br>final<br>voyage<br>funny<br>sand<br>panel<br>soft<br>symbol<br>adapt |  
-| bip_39_word_new_br2 | pluck<br>lunar |  
-| bip_39_word_new_br3 | pluck<br>lunar<br>anger |  
-| bip_39_word_new_br4 | pluck<br>lunar<br>anger<br>tourist |  
-| bip_39_word_new_br5 | pluck<br>lunar<br>anger<br>tourist<br>final |  
-| bip_39_word_new_br6 | pluck<br>lunar<br>anger<br>tourist<br>final<br>voyage |  
-| bip_39_word_new_br7 | pluck<br>lunar<br>anger<br>tourist<br>final<br>voyage<br>funny |  
-| bip_39_word_new_br8 | pluck<br>lunar<br>anger<br>tourist<br>final<br>voyage<br>funny<br>sand |  
-| bip_39_word_new_br9 | pluck<br>lunar<br>anger<br>tourist<br>final<br>voyage<br>funny<br>sand<br>panel |  
-| bip_39_word_new_line1 | pluck |  
-| bip_39_word_new_line10 | pluck
+| bip_39_word_new_br_1 | pluck |  
+| bip_39_word_new_br_10 | pluck<br>lunar<br>anger<br>tourist<br>final<br>voyage<br>funny<br>sand<br>panel<br>soft |  
+| bip_39_word_new_br_11 | pluck<br>lunar<br>anger<br>tourist<br>final<br>voyage<br>funny<br>sand<br>panel<br>soft<br>symbol |  
+| bip_39_word_new_br_12 | pluck<br>lunar<br>anger<br>tourist<br>final<br>voyage<br>funny<br>sand<br>panel<br>soft<br>symbol<br>adapt |  
+| bip_39_word_new_br_2 | pluck<br>lunar |  
+| bip_39_word_new_br_3 | pluck<br>lunar<br>anger |  
+| bip_39_word_new_br_4 | pluck<br>lunar<br>anger<br>tourist |  
+| bip_39_word_new_br_5 | pluck<br>lunar<br>anger<br>tourist<br>final |  
+| bip_39_word_new_br_6 | pluck<br>lunar<br>anger<br>tourist<br>final<br>voyage |  
+| bip_39_word_new_br_7 | pluck<br>lunar<br>anger<br>tourist<br>final<br>voyage<br>funny |  
+| bip_39_word_new_br_8 | pluck<br>lunar<br>anger<br>tourist<br>final<br>voyage<br>funny<br>sand |  
+| bip_39_word_new_br_9 | pluck<br>lunar<br>anger<br>tourist<br>final<br>voyage<br>funny<br>sand<br>panel |  
+| bip_39_word_new_line_1 | pluck |  
+| bip_39_word_new_line_10 | pluck
 lunar
 anger
 tourist
@@ -55,7 +55,7 @@ funny
 sand
 panel
 soft |  
-| bip_39_word_new_line11 | pluck
+| bip_39_word_new_line_11 | pluck
 lunar
 anger
 tourist
@@ -66,7 +66,7 @@ sand
 panel
 soft
 symbol |  
-| bip_39_word_new_line12 | pluck
+| bip_39_word_new_line_12 | pluck
 lunar
 anger
 tourist
@@ -78,34 +78,34 @@ panel
 soft
 symbol
 adapt |  
-| bip_39_word_new_line2 | pluck
+| bip_39_word_new_line_2 | pluck
 lunar |  
-| bip_39_word_new_line3 | pluck
+| bip_39_word_new_line_3 | pluck
 lunar
 anger |  
-| bip_39_word_new_line4 | pluck
+| bip_39_word_new_line_4 | pluck
 lunar
 anger
 tourist |  
-| bip_39_word_new_line5 | pluck
+| bip_39_word_new_line_5 | pluck
 lunar
 anger
 tourist
 final |  
-| bip_39_word_new_line6 | pluck
+| bip_39_word_new_line_6 | pluck
 lunar
 anger
 tourist
 final
 voyage |  
-| bip_39_word_new_line7 | pluck
+| bip_39_word_new_line_7 | pluck
 lunar
 anger
 tourist
 final
 voyage
 funny |  
-| bip_39_word_new_line8 | pluck
+| bip_39_word_new_line_8 | pluck
 lunar
 anger
 tourist
@@ -113,7 +113,7 @@ final
 voyage
 funny
 sand |  
-| bip_39_word_new_line9 | pluck
+| bip_39_word_new_line_9 | pluck
 lunar
 anger
 tourist

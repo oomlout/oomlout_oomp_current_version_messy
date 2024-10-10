@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | language |  
-| bip_39_word_new_br10 | language<br>amount<br>brain<br>bargain<br>shy<br>balcony<br>lady<br>fruit<br>keen<br>cloud |  
-| bip_39_word_new_br11 | language<br>amount<br>brain<br>bargain<br>shy<br>balcony<br>lady<br>fruit<br>keen<br>cloud<br>run |  
-| bip_39_word_new_br12 | language<br>amount<br>brain<br>bargain<br>shy<br>balcony<br>lady<br>fruit<br>keen<br>cloud<br>run<br>advance |  
-| bip_39_word_new_br2 | language<br>amount |  
-| bip_39_word_new_br3 | language<br>amount<br>brain |  
-| bip_39_word_new_br4 | language<br>amount<br>brain<br>bargain |  
-| bip_39_word_new_br5 | language<br>amount<br>brain<br>bargain<br>shy |  
-| bip_39_word_new_br6 | language<br>amount<br>brain<br>bargain<br>shy<br>balcony |  
-| bip_39_word_new_br7 | language<br>amount<br>brain<br>bargain<br>shy<br>balcony<br>lady |  
-| bip_39_word_new_br8 | language<br>amount<br>brain<br>bargain<br>shy<br>balcony<br>lady<br>fruit |  
-| bip_39_word_new_br9 | language<br>amount<br>brain<br>bargain<br>shy<br>balcony<br>lady<br>fruit<br>keen |  
-| bip_39_word_new_line1 | language |  
-| bip_39_word_new_line10 | language
+| bip_39_word_new_br_1 | language |  
+| bip_39_word_new_br_10 | language<br>amount<br>brain<br>bargain<br>shy<br>balcony<br>lady<br>fruit<br>keen<br>cloud |  
+| bip_39_word_new_br_11 | language<br>amount<br>brain<br>bargain<br>shy<br>balcony<br>lady<br>fruit<br>keen<br>cloud<br>run |  
+| bip_39_word_new_br_12 | language<br>amount<br>brain<br>bargain<br>shy<br>balcony<br>lady<br>fruit<br>keen<br>cloud<br>run<br>advance |  
+| bip_39_word_new_br_2 | language<br>amount |  
+| bip_39_word_new_br_3 | language<br>amount<br>brain |  
+| bip_39_word_new_br_4 | language<br>amount<br>brain<br>bargain |  
+| bip_39_word_new_br_5 | language<br>amount<br>brain<br>bargain<br>shy |  
+| bip_39_word_new_br_6 | language<br>amount<br>brain<br>bargain<br>shy<br>balcony |  
+| bip_39_word_new_br_7 | language<br>amount<br>brain<br>bargain<br>shy<br>balcony<br>lady |  
+| bip_39_word_new_br_8 | language<br>amount<br>brain<br>bargain<br>shy<br>balcony<br>lady<br>fruit |  
+| bip_39_word_new_br_9 | language<br>amount<br>brain<br>bargain<br>shy<br>balcony<br>lady<br>fruit<br>keen |  
+| bip_39_word_new_line_1 | language |  
+| bip_39_word_new_line_10 | language
 amount
 brain
 bargain
@@ -55,7 +55,7 @@ lady
 fruit
 keen
 cloud |  
-| bip_39_word_new_line11 | language
+| bip_39_word_new_line_11 | language
 amount
 brain
 bargain
@@ -66,7 +66,7 @@ fruit
 keen
 cloud
 run |  
-| bip_39_word_new_line12 | language
+| bip_39_word_new_line_12 | language
 amount
 brain
 bargain
@@ -78,34 +78,34 @@ keen
 cloud
 run
 advance |  
-| bip_39_word_new_line2 | language
+| bip_39_word_new_line_2 | language
 amount |  
-| bip_39_word_new_line3 | language
+| bip_39_word_new_line_3 | language
 amount
 brain |  
-| bip_39_word_new_line4 | language
+| bip_39_word_new_line_4 | language
 amount
 brain
 bargain |  
-| bip_39_word_new_line5 | language
+| bip_39_word_new_line_5 | language
 amount
 brain
 bargain
 shy |  
-| bip_39_word_new_line6 | language
+| bip_39_word_new_line_6 | language
 amount
 brain
 bargain
 shy
 balcony |  
-| bip_39_word_new_line7 | language
+| bip_39_word_new_line_7 | language
 amount
 brain
 bargain
 shy
 balcony
 lady |  
-| bip_39_word_new_line8 | language
+| bip_39_word_new_line_8 | language
 amount
 brain
 bargain
@@ -113,7 +113,7 @@ shy
 balcony
 lady
 fruit |  
-| bip_39_word_new_line9 | language
+| bip_39_word_new_line_9 | language
 amount
 brain
 bargain

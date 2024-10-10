@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sense |  
-| bip_39_word_new_br10 | sense<br>bleak<br>wise<br>isolate<br>power<br>fashion<br>track<br>syrup<br>rapid<br>anxiety |  
-| bip_39_word_new_br11 | sense<br>bleak<br>wise<br>isolate<br>power<br>fashion<br>track<br>syrup<br>rapid<br>anxiety<br>squeeze |  
-| bip_39_word_new_br12 | sense<br>bleak<br>wise<br>isolate<br>power<br>fashion<br>track<br>syrup<br>rapid<br>anxiety<br>squeeze<br>aim |  
-| bip_39_word_new_br2 | sense<br>bleak |  
-| bip_39_word_new_br3 | sense<br>bleak<br>wise |  
-| bip_39_word_new_br4 | sense<br>bleak<br>wise<br>isolate |  
-| bip_39_word_new_br5 | sense<br>bleak<br>wise<br>isolate<br>power |  
-| bip_39_word_new_br6 | sense<br>bleak<br>wise<br>isolate<br>power<br>fashion |  
-| bip_39_word_new_br7 | sense<br>bleak<br>wise<br>isolate<br>power<br>fashion<br>track |  
-| bip_39_word_new_br8 | sense<br>bleak<br>wise<br>isolate<br>power<br>fashion<br>track<br>syrup |  
-| bip_39_word_new_br9 | sense<br>bleak<br>wise<br>isolate<br>power<br>fashion<br>track<br>syrup<br>rapid |  
-| bip_39_word_new_line1 | sense |  
-| bip_39_word_new_line10 | sense
+| bip_39_word_new_br_1 | sense |  
+| bip_39_word_new_br_10 | sense<br>bleak<br>wise<br>isolate<br>power<br>fashion<br>track<br>syrup<br>rapid<br>anxiety |  
+| bip_39_word_new_br_11 | sense<br>bleak<br>wise<br>isolate<br>power<br>fashion<br>track<br>syrup<br>rapid<br>anxiety<br>squeeze |  
+| bip_39_word_new_br_12 | sense<br>bleak<br>wise<br>isolate<br>power<br>fashion<br>track<br>syrup<br>rapid<br>anxiety<br>squeeze<br>aim |  
+| bip_39_word_new_br_2 | sense<br>bleak |  
+| bip_39_word_new_br_3 | sense<br>bleak<br>wise |  
+| bip_39_word_new_br_4 | sense<br>bleak<br>wise<br>isolate |  
+| bip_39_word_new_br_5 | sense<br>bleak<br>wise<br>isolate<br>power |  
+| bip_39_word_new_br_6 | sense<br>bleak<br>wise<br>isolate<br>power<br>fashion |  
+| bip_39_word_new_br_7 | sense<br>bleak<br>wise<br>isolate<br>power<br>fashion<br>track |  
+| bip_39_word_new_br_8 | sense<br>bleak<br>wise<br>isolate<br>power<br>fashion<br>track<br>syrup |  
+| bip_39_word_new_br_9 | sense<br>bleak<br>wise<br>isolate<br>power<br>fashion<br>track<br>syrup<br>rapid |  
+| bip_39_word_new_line_1 | sense |  
+| bip_39_word_new_line_10 | sense
 bleak
 wise
 isolate
@@ -55,7 +55,7 @@ track
 syrup
 rapid
 anxiety |  
-| bip_39_word_new_line11 | sense
+| bip_39_word_new_line_11 | sense
 bleak
 wise
 isolate
@@ -66,7 +66,7 @@ syrup
 rapid
 anxiety
 squeeze |  
-| bip_39_word_new_line12 | sense
+| bip_39_word_new_line_12 | sense
 bleak
 wise
 isolate
@@ -78,34 +78,34 @@ rapid
 anxiety
 squeeze
 aim |  
-| bip_39_word_new_line2 | sense
+| bip_39_word_new_line_2 | sense
 bleak |  
-| bip_39_word_new_line3 | sense
+| bip_39_word_new_line_3 | sense
 bleak
 wise |  
-| bip_39_word_new_line4 | sense
+| bip_39_word_new_line_4 | sense
 bleak
 wise
 isolate |  
-| bip_39_word_new_line5 | sense
+| bip_39_word_new_line_5 | sense
 bleak
 wise
 isolate
 power |  
-| bip_39_word_new_line6 | sense
+| bip_39_word_new_line_6 | sense
 bleak
 wise
 isolate
 power
 fashion |  
-| bip_39_word_new_line7 | sense
+| bip_39_word_new_line_7 | sense
 bleak
 wise
 isolate
 power
 fashion
 track |  
-| bip_39_word_new_line8 | sense
+| bip_39_word_new_line_8 | sense
 bleak
 wise
 isolate
@@ -113,7 +113,7 @@ power
 fashion
 track
 syrup |  
-| bip_39_word_new_line9 | sense
+| bip_39_word_new_line_9 | sense
 bleak
 wise
 isolate

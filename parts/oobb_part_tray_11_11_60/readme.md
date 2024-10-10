@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rally |  
-| bip_39_word_new_br10 | rally<br>pupil<br>hire<br>dwarf<br>pioneer<br>almost<br>economy<br>cycle<br>style<br>cloth |  
-| bip_39_word_new_br11 | rally<br>pupil<br>hire<br>dwarf<br>pioneer<br>almost<br>economy<br>cycle<br>style<br>cloth<br>basket |  
-| bip_39_word_new_br12 | rally<br>pupil<br>hire<br>dwarf<br>pioneer<br>almost<br>economy<br>cycle<br>style<br>cloth<br>basket<br>accident |  
-| bip_39_word_new_br2 | rally<br>pupil |  
-| bip_39_word_new_br3 | rally<br>pupil<br>hire |  
-| bip_39_word_new_br4 | rally<br>pupil<br>hire<br>dwarf |  
-| bip_39_word_new_br5 | rally<br>pupil<br>hire<br>dwarf<br>pioneer |  
-| bip_39_word_new_br6 | rally<br>pupil<br>hire<br>dwarf<br>pioneer<br>almost |  
-| bip_39_word_new_br7 | rally<br>pupil<br>hire<br>dwarf<br>pioneer<br>almost<br>economy |  
-| bip_39_word_new_br8 | rally<br>pupil<br>hire<br>dwarf<br>pioneer<br>almost<br>economy<br>cycle |  
-| bip_39_word_new_br9 | rally<br>pupil<br>hire<br>dwarf<br>pioneer<br>almost<br>economy<br>cycle<br>style |  
-| bip_39_word_new_line1 | rally |  
-| bip_39_word_new_line10 | rally
+| bip_39_word_new_br_1 | rally |  
+| bip_39_word_new_br_10 | rally<br>pupil<br>hire<br>dwarf<br>pioneer<br>almost<br>economy<br>cycle<br>style<br>cloth |  
+| bip_39_word_new_br_11 | rally<br>pupil<br>hire<br>dwarf<br>pioneer<br>almost<br>economy<br>cycle<br>style<br>cloth<br>basket |  
+| bip_39_word_new_br_12 | rally<br>pupil<br>hire<br>dwarf<br>pioneer<br>almost<br>economy<br>cycle<br>style<br>cloth<br>basket<br>accident |  
+| bip_39_word_new_br_2 | rally<br>pupil |  
+| bip_39_word_new_br_3 | rally<br>pupil<br>hire |  
+| bip_39_word_new_br_4 | rally<br>pupil<br>hire<br>dwarf |  
+| bip_39_word_new_br_5 | rally<br>pupil<br>hire<br>dwarf<br>pioneer |  
+| bip_39_word_new_br_6 | rally<br>pupil<br>hire<br>dwarf<br>pioneer<br>almost |  
+| bip_39_word_new_br_7 | rally<br>pupil<br>hire<br>dwarf<br>pioneer<br>almost<br>economy |  
+| bip_39_word_new_br_8 | rally<br>pupil<br>hire<br>dwarf<br>pioneer<br>almost<br>economy<br>cycle |  
+| bip_39_word_new_br_9 | rally<br>pupil<br>hire<br>dwarf<br>pioneer<br>almost<br>economy<br>cycle<br>style |  
+| bip_39_word_new_line_1 | rally |  
+| bip_39_word_new_line_10 | rally
 pupil
 hire
 dwarf
@@ -55,7 +55,7 @@ economy
 cycle
 style
 cloth |  
-| bip_39_word_new_line11 | rally
+| bip_39_word_new_line_11 | rally
 pupil
 hire
 dwarf
@@ -66,7 +66,7 @@ cycle
 style
 cloth
 basket |  
-| bip_39_word_new_line12 | rally
+| bip_39_word_new_line_12 | rally
 pupil
 hire
 dwarf
@@ -78,34 +78,34 @@ style
 cloth
 basket
 accident |  
-| bip_39_word_new_line2 | rally
+| bip_39_word_new_line_2 | rally
 pupil |  
-| bip_39_word_new_line3 | rally
+| bip_39_word_new_line_3 | rally
 pupil
 hire |  
-| bip_39_word_new_line4 | rally
+| bip_39_word_new_line_4 | rally
 pupil
 hire
 dwarf |  
-| bip_39_word_new_line5 | rally
+| bip_39_word_new_line_5 | rally
 pupil
 hire
 dwarf
 pioneer |  
-| bip_39_word_new_line6 | rally
+| bip_39_word_new_line_6 | rally
 pupil
 hire
 dwarf
 pioneer
 almost |  
-| bip_39_word_new_line7 | rally
+| bip_39_word_new_line_7 | rally
 pupil
 hire
 dwarf
 pioneer
 almost
 economy |  
-| bip_39_word_new_line8 | rally
+| bip_39_word_new_line_8 | rally
 pupil
 hire
 dwarf
@@ -113,7 +113,7 @@ pioneer
 almost
 economy
 cycle |  
-| bip_39_word_new_line9 | rally
+| bip_39_word_new_line_9 | rally
 pupil
 hire
 dwarf

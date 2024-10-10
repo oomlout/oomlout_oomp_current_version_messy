@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | left |  
-| bip_39_word_new_br10 | left<br>shoe<br>island<br>cradle<br>fever<br>real<br>suffer<br>churn<br>expect<br>figure |  
-| bip_39_word_new_br11 | left<br>shoe<br>island<br>cradle<br>fever<br>real<br>suffer<br>churn<br>expect<br>figure<br>glide |  
-| bip_39_word_new_br12 | left<br>shoe<br>island<br>cradle<br>fever<br>real<br>suffer<br>churn<br>expect<br>figure<br>glide<br>admit |  
-| bip_39_word_new_br2 | left<br>shoe |  
-| bip_39_word_new_br3 | left<br>shoe<br>island |  
-| bip_39_word_new_br4 | left<br>shoe<br>island<br>cradle |  
-| bip_39_word_new_br5 | left<br>shoe<br>island<br>cradle<br>fever |  
-| bip_39_word_new_br6 | left<br>shoe<br>island<br>cradle<br>fever<br>real |  
-| bip_39_word_new_br7 | left<br>shoe<br>island<br>cradle<br>fever<br>real<br>suffer |  
-| bip_39_word_new_br8 | left<br>shoe<br>island<br>cradle<br>fever<br>real<br>suffer<br>churn |  
-| bip_39_word_new_br9 | left<br>shoe<br>island<br>cradle<br>fever<br>real<br>suffer<br>churn<br>expect |  
-| bip_39_word_new_line1 | left |  
-| bip_39_word_new_line10 | left
+| bip_39_word_new_br_1 | left |  
+| bip_39_word_new_br_10 | left<br>shoe<br>island<br>cradle<br>fever<br>real<br>suffer<br>churn<br>expect<br>figure |  
+| bip_39_word_new_br_11 | left<br>shoe<br>island<br>cradle<br>fever<br>real<br>suffer<br>churn<br>expect<br>figure<br>glide |  
+| bip_39_word_new_br_12 | left<br>shoe<br>island<br>cradle<br>fever<br>real<br>suffer<br>churn<br>expect<br>figure<br>glide<br>admit |  
+| bip_39_word_new_br_2 | left<br>shoe |  
+| bip_39_word_new_br_3 | left<br>shoe<br>island |  
+| bip_39_word_new_br_4 | left<br>shoe<br>island<br>cradle |  
+| bip_39_word_new_br_5 | left<br>shoe<br>island<br>cradle<br>fever |  
+| bip_39_word_new_br_6 | left<br>shoe<br>island<br>cradle<br>fever<br>real |  
+| bip_39_word_new_br_7 | left<br>shoe<br>island<br>cradle<br>fever<br>real<br>suffer |  
+| bip_39_word_new_br_8 | left<br>shoe<br>island<br>cradle<br>fever<br>real<br>suffer<br>churn |  
+| bip_39_word_new_br_9 | left<br>shoe<br>island<br>cradle<br>fever<br>real<br>suffer<br>churn<br>expect |  
+| bip_39_word_new_line_1 | left |  
+| bip_39_word_new_line_10 | left
 shoe
 island
 cradle
@@ -55,7 +55,7 @@ suffer
 churn
 expect
 figure |  
-| bip_39_word_new_line11 | left
+| bip_39_word_new_line_11 | left
 shoe
 island
 cradle
@@ -66,7 +66,7 @@ churn
 expect
 figure
 glide |  
-| bip_39_word_new_line12 | left
+| bip_39_word_new_line_12 | left
 shoe
 island
 cradle
@@ -78,34 +78,34 @@ expect
 figure
 glide
 admit |  
-| bip_39_word_new_line2 | left
+| bip_39_word_new_line_2 | left
 shoe |  
-| bip_39_word_new_line3 | left
+| bip_39_word_new_line_3 | left
 shoe
 island |  
-| bip_39_word_new_line4 | left
+| bip_39_word_new_line_4 | left
 shoe
 island
 cradle |  
-| bip_39_word_new_line5 | left
+| bip_39_word_new_line_5 | left
 shoe
 island
 cradle
 fever |  
-| bip_39_word_new_line6 | left
+| bip_39_word_new_line_6 | left
 shoe
 island
 cradle
 fever
 real |  
-| bip_39_word_new_line7 | left
+| bip_39_word_new_line_7 | left
 shoe
 island
 cradle
 fever
 real
 suffer |  
-| bip_39_word_new_line8 | left
+| bip_39_word_new_line_8 | left
 shoe
 island
 cradle
@@ -113,7 +113,7 @@ fever
 real
 suffer
 churn |  
-| bip_39_word_new_line9 | left
+| bip_39_word_new_line_9 | left
 shoe
 island
 cradle

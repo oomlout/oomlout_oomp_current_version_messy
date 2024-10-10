@@ -1,17 +1,17 @@
-bip_39_word_new_br1: penalty
-bip_39_word_new_br10: penalty<br>viable<br>jewel<br>myself<br>ladder<br>hole<br>excuse<br>accuse<br>close<br>fringe
-bip_39_word_new_br11: penalty<br>viable<br>jewel<br>myself<br>ladder<br>hole<br>excuse<br>accuse<br>close<br>fringe<br>angle
-bip_39_word_new_br12: penalty<br>viable<br>jewel<br>myself<br>ladder<br>hole<br>excuse<br>accuse<br>close<br>fringe<br>angle<br>autumn
-bip_39_word_new_br2: penalty<br>viable
-bip_39_word_new_br3: penalty<br>viable<br>jewel
-bip_39_word_new_br4: penalty<br>viable<br>jewel<br>myself
-bip_39_word_new_br5: penalty<br>viable<br>jewel<br>myself<br>ladder
-bip_39_word_new_br6: penalty<br>viable<br>jewel<br>myself<br>ladder<br>hole
-bip_39_word_new_br7: penalty<br>viable<br>jewel<br>myself<br>ladder<br>hole<br>excuse
-bip_39_word_new_br8: penalty<br>viable<br>jewel<br>myself<br>ladder<br>hole<br>excuse<br>accuse
-bip_39_word_new_br9: penalty<br>viable<br>jewel<br>myself<br>ladder<br>hole<br>excuse<br>accuse<br>close
-bip_39_word_new_line1: penalty
-bip_39_word_new_line10: 'penalty
+bip_39_word_new_br_1: penalty
+bip_39_word_new_br_10: penalty<br>viable<br>jewel<br>myself<br>ladder<br>hole<br>excuse<br>accuse<br>close<br>fringe
+bip_39_word_new_br_11: penalty<br>viable<br>jewel<br>myself<br>ladder<br>hole<br>excuse<br>accuse<br>close<br>fringe<br>angle
+bip_39_word_new_br_12: penalty<br>viable<br>jewel<br>myself<br>ladder<br>hole<br>excuse<br>accuse<br>close<br>fringe<br>angle<br>autumn
+bip_39_word_new_br_2: penalty<br>viable
+bip_39_word_new_br_3: penalty<br>viable<br>jewel
+bip_39_word_new_br_4: penalty<br>viable<br>jewel<br>myself
+bip_39_word_new_br_5: penalty<br>viable<br>jewel<br>myself<br>ladder
+bip_39_word_new_br_6: penalty<br>viable<br>jewel<br>myself<br>ladder<br>hole
+bip_39_word_new_br_7: penalty<br>viable<br>jewel<br>myself<br>ladder<br>hole<br>excuse
+bip_39_word_new_br_8: penalty<br>viable<br>jewel<br>myself<br>ladder<br>hole<br>excuse<br>accuse
+bip_39_word_new_br_9: penalty<br>viable<br>jewel<br>myself<br>ladder<br>hole<br>excuse<br>accuse<br>close
+bip_39_word_new_line_1: penalty
+bip_39_word_new_line_10: 'penalty
 
   viable
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'penalty
   close
 
   fringe'
-bip_39_word_new_line11: 'penalty
+bip_39_word_new_line_11: 'penalty
 
   viable
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'penalty
   fringe
 
   angle'
-bip_39_word_new_line12: 'penalty
+bip_39_word_new_line_12: 'penalty
 
   viable
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'penalty
   angle
 
   autumn'
-bip_39_word_new_line2: 'penalty
+bip_39_word_new_line_2: 'penalty
 
   viable'
-bip_39_word_new_line3: 'penalty
+bip_39_word_new_line_3: 'penalty
 
   viable
 
   jewel'
-bip_39_word_new_line4: 'penalty
+bip_39_word_new_line_4: 'penalty
 
   viable
 
   jewel
 
   myself'
-bip_39_word_new_line5: 'penalty
+bip_39_word_new_line_5: 'penalty
 
   viable
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'penalty
   myself
 
   ladder'
-bip_39_word_new_line6: 'penalty
+bip_39_word_new_line_6: 'penalty
 
   viable
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'penalty
   ladder
 
   hole'
-bip_39_word_new_line7: 'penalty
+bip_39_word_new_line_7: 'penalty
 
   viable
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'penalty
   hole
 
   excuse'
-bip_39_word_new_line8: 'penalty
+bip_39_word_new_line_8: 'penalty
 
   viable
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'penalty
   excuse
 
   accuse'
-bip_39_word_new_line9: 'penalty
+bip_39_word_new_line_9: 'penalty
 
   viable
 

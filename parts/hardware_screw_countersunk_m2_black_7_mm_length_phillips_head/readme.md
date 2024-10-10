@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | tiny |  
-| bip_39_word_new_br10 | tiny<br>float<br>castle<br>vital<br>middle<br>cereal<br>kangaroo<br>coyote<br>improve<br>energy |  
-| bip_39_word_new_br11 | tiny<br>float<br>castle<br>vital<br>middle<br>cereal<br>kangaroo<br>coyote<br>improve<br>energy<br>shove |  
-| bip_39_word_new_br12 | tiny<br>float<br>castle<br>vital<br>middle<br>cereal<br>kangaroo<br>coyote<br>improve<br>energy<br>shove<br>already |  
-| bip_39_word_new_br2 | tiny<br>float |  
-| bip_39_word_new_br3 | tiny<br>float<br>castle |  
-| bip_39_word_new_br4 | tiny<br>float<br>castle<br>vital |  
-| bip_39_word_new_br5 | tiny<br>float<br>castle<br>vital<br>middle |  
-| bip_39_word_new_br6 | tiny<br>float<br>castle<br>vital<br>middle<br>cereal |  
-| bip_39_word_new_br7 | tiny<br>float<br>castle<br>vital<br>middle<br>cereal<br>kangaroo |  
-| bip_39_word_new_br8 | tiny<br>float<br>castle<br>vital<br>middle<br>cereal<br>kangaroo<br>coyote |  
-| bip_39_word_new_br9 | tiny<br>float<br>castle<br>vital<br>middle<br>cereal<br>kangaroo<br>coyote<br>improve |  
-| bip_39_word_new_line1 | tiny |  
-| bip_39_word_new_line10 | tiny
+| bip_39_word_new_br_1 | tiny |  
+| bip_39_word_new_br_10 | tiny<br>float<br>castle<br>vital<br>middle<br>cereal<br>kangaroo<br>coyote<br>improve<br>energy |  
+| bip_39_word_new_br_11 | tiny<br>float<br>castle<br>vital<br>middle<br>cereal<br>kangaroo<br>coyote<br>improve<br>energy<br>shove |  
+| bip_39_word_new_br_12 | tiny<br>float<br>castle<br>vital<br>middle<br>cereal<br>kangaroo<br>coyote<br>improve<br>energy<br>shove<br>already |  
+| bip_39_word_new_br_2 | tiny<br>float |  
+| bip_39_word_new_br_3 | tiny<br>float<br>castle |  
+| bip_39_word_new_br_4 | tiny<br>float<br>castle<br>vital |  
+| bip_39_word_new_br_5 | tiny<br>float<br>castle<br>vital<br>middle |  
+| bip_39_word_new_br_6 | tiny<br>float<br>castle<br>vital<br>middle<br>cereal |  
+| bip_39_word_new_br_7 | tiny<br>float<br>castle<br>vital<br>middle<br>cereal<br>kangaroo |  
+| bip_39_word_new_br_8 | tiny<br>float<br>castle<br>vital<br>middle<br>cereal<br>kangaroo<br>coyote |  
+| bip_39_word_new_br_9 | tiny<br>float<br>castle<br>vital<br>middle<br>cereal<br>kangaroo<br>coyote<br>improve |  
+| bip_39_word_new_line_1 | tiny |  
+| bip_39_word_new_line_10 | tiny
 float
 castle
 vital
@@ -55,7 +55,7 @@ kangaroo
 coyote
 improve
 energy |  
-| bip_39_word_new_line11 | tiny
+| bip_39_word_new_line_11 | tiny
 float
 castle
 vital
@@ -66,7 +66,7 @@ coyote
 improve
 energy
 shove |  
-| bip_39_word_new_line12 | tiny
+| bip_39_word_new_line_12 | tiny
 float
 castle
 vital
@@ -78,34 +78,34 @@ improve
 energy
 shove
 already |  
-| bip_39_word_new_line2 | tiny
+| bip_39_word_new_line_2 | tiny
 float |  
-| bip_39_word_new_line3 | tiny
+| bip_39_word_new_line_3 | tiny
 float
 castle |  
-| bip_39_word_new_line4 | tiny
+| bip_39_word_new_line_4 | tiny
 float
 castle
 vital |  
-| bip_39_word_new_line5 | tiny
+| bip_39_word_new_line_5 | tiny
 float
 castle
 vital
 middle |  
-| bip_39_word_new_line6 | tiny
+| bip_39_word_new_line_6 | tiny
 float
 castle
 vital
 middle
 cereal |  
-| bip_39_word_new_line7 | tiny
+| bip_39_word_new_line_7 | tiny
 float
 castle
 vital
 middle
 cereal
 kangaroo |  
-| bip_39_word_new_line8 | tiny
+| bip_39_word_new_line_8 | tiny
 float
 castle
 vital
@@ -113,7 +113,7 @@ middle
 cereal
 kangaroo
 coyote |  
-| bip_39_word_new_line9 | tiny
+| bip_39_word_new_line_9 | tiny
 float
 castle
 vital

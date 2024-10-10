@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wrong |  
-| bip_39_word_new_br10 | wrong<br>language<br>protect<br>apple<br>such<br>debate<br>rebel<br>wasp<br>never<br>grief |  
-| bip_39_word_new_br11 | wrong<br>language<br>protect<br>apple<br>such<br>debate<br>rebel<br>wasp<br>never<br>grief<br>power |  
-| bip_39_word_new_br2 | wrong<br>language |  
-| bip_39_word_new_br3 | wrong<br>language<br>protect |  
-| bip_39_word_new_br4 | wrong<br>language<br>protect<br>apple |  
-| bip_39_word_new_br5 | wrong<br>language<br>protect<br>apple<br>such |  
-| bip_39_word_new_br6 | wrong<br>language<br>protect<br>apple<br>such<br>debate |  
-| bip_39_word_new_br7 | wrong<br>language<br>protect<br>apple<br>such<br>debate<br>rebel |  
-| bip_39_word_new_br8 | wrong<br>language<br>protect<br>apple<br>such<br>debate<br>rebel<br>wasp |  
-| bip_39_word_new_br9 | wrong<br>language<br>protect<br>apple<br>such<br>debate<br>rebel<br>wasp<br>never |  
-| bip_39_word_new_line1 | wrong |  
-| bip_39_word_new_line10 | wrong
+| bip_39_word_new_br_1 | wrong |  
+| bip_39_word_new_br_10 | wrong<br>language<br>protect<br>apple<br>such<br>debate<br>rebel<br>wasp<br>never<br>grief |  
+| bip_39_word_new_br_11 | wrong<br>language<br>protect<br>apple<br>such<br>debate<br>rebel<br>wasp<br>never<br>grief<br>power |  
+| bip_39_word_new_br_2 | wrong<br>language |  
+| bip_39_word_new_br_3 | wrong<br>language<br>protect |  
+| bip_39_word_new_br_4 | wrong<br>language<br>protect<br>apple |  
+| bip_39_word_new_br_5 | wrong<br>language<br>protect<br>apple<br>such |  
+| bip_39_word_new_br_6 | wrong<br>language<br>protect<br>apple<br>such<br>debate |  
+| bip_39_word_new_br_7 | wrong<br>language<br>protect<br>apple<br>such<br>debate<br>rebel |  
+| bip_39_word_new_br_8 | wrong<br>language<br>protect<br>apple<br>such<br>debate<br>rebel<br>wasp |  
+| bip_39_word_new_br_9 | wrong<br>language<br>protect<br>apple<br>such<br>debate<br>rebel<br>wasp<br>never |  
+| bip_39_word_new_line_1 | wrong |  
+| bip_39_word_new_line_10 | wrong
 language
 protect
 apple
@@ -54,7 +54,7 @@ rebel
 wasp
 never
 grief |  
-| bip_39_word_new_line11 | wrong
+| bip_39_word_new_line_11 | wrong
 language
 protect
 apple
@@ -65,34 +65,34 @@ wasp
 never
 grief
 power |  
-| bip_39_word_new_line2 | wrong
+| bip_39_word_new_line_2 | wrong
 language |  
-| bip_39_word_new_line3 | wrong
+| bip_39_word_new_line_3 | wrong
 language
 protect |  
-| bip_39_word_new_line4 | wrong
+| bip_39_word_new_line_4 | wrong
 language
 protect
 apple |  
-| bip_39_word_new_line5 | wrong
+| bip_39_word_new_line_5 | wrong
 language
 protect
 apple
 such |  
-| bip_39_word_new_line6 | wrong
+| bip_39_word_new_line_6 | wrong
 language
 protect
 apple
 such
 debate |  
-| bip_39_word_new_line7 | wrong
+| bip_39_word_new_line_7 | wrong
 language
 protect
 apple
 such
 debate
 rebel |  
-| bip_39_word_new_line8 | wrong
+| bip_39_word_new_line_8 | wrong
 language
 protect
 apple
@@ -100,7 +100,7 @@ such
 debate
 rebel
 wasp |  
-| bip_39_word_new_line9 | wrong
+| bip_39_word_new_line_9 | wrong
 language
 protect
 apple

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | magic |  
-| bip_39_word_new_br10 | magic<br>egg<br>ketchup<br>turkey<br>glue<br>cheese<br>damp<br>gate<br>cause<br>symbol |  
-| bip_39_word_new_br11 | magic<br>egg<br>ketchup<br>turkey<br>glue<br>cheese<br>damp<br>gate<br>cause<br>symbol<br>pole |  
-| bip_39_word_new_br12 | magic<br>egg<br>ketchup<br>turkey<br>glue<br>cheese<br>damp<br>gate<br>cause<br>symbol<br>pole<br>action |  
-| bip_39_word_new_br2 | magic<br>egg |  
-| bip_39_word_new_br3 | magic<br>egg<br>ketchup |  
-| bip_39_word_new_br4 | magic<br>egg<br>ketchup<br>turkey |  
-| bip_39_word_new_br5 | magic<br>egg<br>ketchup<br>turkey<br>glue |  
-| bip_39_word_new_br6 | magic<br>egg<br>ketchup<br>turkey<br>glue<br>cheese |  
-| bip_39_word_new_br7 | magic<br>egg<br>ketchup<br>turkey<br>glue<br>cheese<br>damp |  
-| bip_39_word_new_br8 | magic<br>egg<br>ketchup<br>turkey<br>glue<br>cheese<br>damp<br>gate |  
-| bip_39_word_new_br9 | magic<br>egg<br>ketchup<br>turkey<br>glue<br>cheese<br>damp<br>gate<br>cause |  
-| bip_39_word_new_line1 | magic |  
-| bip_39_word_new_line10 | magic
+| bip_39_word_new_br_1 | magic |  
+| bip_39_word_new_br_10 | magic<br>egg<br>ketchup<br>turkey<br>glue<br>cheese<br>damp<br>gate<br>cause<br>symbol |  
+| bip_39_word_new_br_11 | magic<br>egg<br>ketchup<br>turkey<br>glue<br>cheese<br>damp<br>gate<br>cause<br>symbol<br>pole |  
+| bip_39_word_new_br_12 | magic<br>egg<br>ketchup<br>turkey<br>glue<br>cheese<br>damp<br>gate<br>cause<br>symbol<br>pole<br>action |  
+| bip_39_word_new_br_2 | magic<br>egg |  
+| bip_39_word_new_br_3 | magic<br>egg<br>ketchup |  
+| bip_39_word_new_br_4 | magic<br>egg<br>ketchup<br>turkey |  
+| bip_39_word_new_br_5 | magic<br>egg<br>ketchup<br>turkey<br>glue |  
+| bip_39_word_new_br_6 | magic<br>egg<br>ketchup<br>turkey<br>glue<br>cheese |  
+| bip_39_word_new_br_7 | magic<br>egg<br>ketchup<br>turkey<br>glue<br>cheese<br>damp |  
+| bip_39_word_new_br_8 | magic<br>egg<br>ketchup<br>turkey<br>glue<br>cheese<br>damp<br>gate |  
+| bip_39_word_new_br_9 | magic<br>egg<br>ketchup<br>turkey<br>glue<br>cheese<br>damp<br>gate<br>cause |  
+| bip_39_word_new_line_1 | magic |  
+| bip_39_word_new_line_10 | magic
 egg
 ketchup
 turkey
@@ -55,7 +55,7 @@ damp
 gate
 cause
 symbol |  
-| bip_39_word_new_line11 | magic
+| bip_39_word_new_line_11 | magic
 egg
 ketchup
 turkey
@@ -66,7 +66,7 @@ gate
 cause
 symbol
 pole |  
-| bip_39_word_new_line12 | magic
+| bip_39_word_new_line_12 | magic
 egg
 ketchup
 turkey
@@ -78,34 +78,34 @@ cause
 symbol
 pole
 action |  
-| bip_39_word_new_line2 | magic
+| bip_39_word_new_line_2 | magic
 egg |  
-| bip_39_word_new_line3 | magic
+| bip_39_word_new_line_3 | magic
 egg
 ketchup |  
-| bip_39_word_new_line4 | magic
+| bip_39_word_new_line_4 | magic
 egg
 ketchup
 turkey |  
-| bip_39_word_new_line5 | magic
+| bip_39_word_new_line_5 | magic
 egg
 ketchup
 turkey
 glue |  
-| bip_39_word_new_line6 | magic
+| bip_39_word_new_line_6 | magic
 egg
 ketchup
 turkey
 glue
 cheese |  
-| bip_39_word_new_line7 | magic
+| bip_39_word_new_line_7 | magic
 egg
 ketchup
 turkey
 glue
 cheese
 damp |  
-| bip_39_word_new_line8 | magic
+| bip_39_word_new_line_8 | magic
 egg
 ketchup
 turkey
@@ -113,7 +113,7 @@ glue
 cheese
 damp
 gate |  
-| bip_39_word_new_line9 | magic
+| bip_39_word_new_line_9 | magic
 egg
 ketchup
 turkey

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | increase |  
-| bip_39_word_new_br10 | increase<br>normal<br>flag<br>bus<br>shy<br>primary<br>candy<br>ivory<br>surround<br>vendor |  
-| bip_39_word_new_br11 | increase<br>normal<br>flag<br>bus<br>shy<br>primary<br>candy<br>ivory<br>surround<br>vendor<br>mosquito |  
-| bip_39_word_new_br12 | increase<br>normal<br>flag<br>bus<br>shy<br>primary<br>candy<br>ivory<br>surround<br>vendor<br>mosquito<br>april |  
-| bip_39_word_new_br2 | increase<br>normal |  
-| bip_39_word_new_br3 | increase<br>normal<br>flag |  
-| bip_39_word_new_br4 | increase<br>normal<br>flag<br>bus |  
-| bip_39_word_new_br5 | increase<br>normal<br>flag<br>bus<br>shy |  
-| bip_39_word_new_br6 | increase<br>normal<br>flag<br>bus<br>shy<br>primary |  
-| bip_39_word_new_br7 | increase<br>normal<br>flag<br>bus<br>shy<br>primary<br>candy |  
-| bip_39_word_new_br8 | increase<br>normal<br>flag<br>bus<br>shy<br>primary<br>candy<br>ivory |  
-| bip_39_word_new_br9 | increase<br>normal<br>flag<br>bus<br>shy<br>primary<br>candy<br>ivory<br>surround |  
-| bip_39_word_new_line1 | increase |  
-| bip_39_word_new_line10 | increase
+| bip_39_word_new_br_1 | increase |  
+| bip_39_word_new_br_10 | increase<br>normal<br>flag<br>bus<br>shy<br>primary<br>candy<br>ivory<br>surround<br>vendor |  
+| bip_39_word_new_br_11 | increase<br>normal<br>flag<br>bus<br>shy<br>primary<br>candy<br>ivory<br>surround<br>vendor<br>mosquito |  
+| bip_39_word_new_br_12 | increase<br>normal<br>flag<br>bus<br>shy<br>primary<br>candy<br>ivory<br>surround<br>vendor<br>mosquito<br>april |  
+| bip_39_word_new_br_2 | increase<br>normal |  
+| bip_39_word_new_br_3 | increase<br>normal<br>flag |  
+| bip_39_word_new_br_4 | increase<br>normal<br>flag<br>bus |  
+| bip_39_word_new_br_5 | increase<br>normal<br>flag<br>bus<br>shy |  
+| bip_39_word_new_br_6 | increase<br>normal<br>flag<br>bus<br>shy<br>primary |  
+| bip_39_word_new_br_7 | increase<br>normal<br>flag<br>bus<br>shy<br>primary<br>candy |  
+| bip_39_word_new_br_8 | increase<br>normal<br>flag<br>bus<br>shy<br>primary<br>candy<br>ivory |  
+| bip_39_word_new_br_9 | increase<br>normal<br>flag<br>bus<br>shy<br>primary<br>candy<br>ivory<br>surround |  
+| bip_39_word_new_line_1 | increase |  
+| bip_39_word_new_line_10 | increase
 normal
 flag
 bus
@@ -55,7 +55,7 @@ candy
 ivory
 surround
 vendor |  
-| bip_39_word_new_line11 | increase
+| bip_39_word_new_line_11 | increase
 normal
 flag
 bus
@@ -66,7 +66,7 @@ ivory
 surround
 vendor
 mosquito |  
-| bip_39_word_new_line12 | increase
+| bip_39_word_new_line_12 | increase
 normal
 flag
 bus
@@ -78,34 +78,34 @@ surround
 vendor
 mosquito
 april |  
-| bip_39_word_new_line2 | increase
+| bip_39_word_new_line_2 | increase
 normal |  
-| bip_39_word_new_line3 | increase
+| bip_39_word_new_line_3 | increase
 normal
 flag |  
-| bip_39_word_new_line4 | increase
+| bip_39_word_new_line_4 | increase
 normal
 flag
 bus |  
-| bip_39_word_new_line5 | increase
+| bip_39_word_new_line_5 | increase
 normal
 flag
 bus
 shy |  
-| bip_39_word_new_line6 | increase
+| bip_39_word_new_line_6 | increase
 normal
 flag
 bus
 shy
 primary |  
-| bip_39_word_new_line7 | increase
+| bip_39_word_new_line_7 | increase
 normal
 flag
 bus
 shy
 primary
 candy |  
-| bip_39_word_new_line8 | increase
+| bip_39_word_new_line_8 | increase
 normal
 flag
 bus
@@ -113,7 +113,7 @@ shy
 primary
 candy
 ivory |  
-| bip_39_word_new_line9 | increase
+| bip_39_word_new_line_9 | increase
 normal
 flag
 bus

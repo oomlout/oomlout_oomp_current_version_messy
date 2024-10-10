@@ -1,17 +1,17 @@
-bip_39_word_new_br1: shine
-bip_39_word_new_br10: shine<br>please<br>emerge<br>supreme<br>flee<br>snow<br>solid<br>rival<br>very<br>rapid
-bip_39_word_new_br11: shine<br>please<br>emerge<br>supreme<br>flee<br>snow<br>solid<br>rival<br>very<br>rapid<br>flavor
-bip_39_word_new_br12: shine<br>please<br>emerge<br>supreme<br>flee<br>snow<br>solid<br>rival<br>very<br>rapid<br>flavor<br>advice
-bip_39_word_new_br2: shine<br>please
-bip_39_word_new_br3: shine<br>please<br>emerge
-bip_39_word_new_br4: shine<br>please<br>emerge<br>supreme
-bip_39_word_new_br5: shine<br>please<br>emerge<br>supreme<br>flee
-bip_39_word_new_br6: shine<br>please<br>emerge<br>supreme<br>flee<br>snow
-bip_39_word_new_br7: shine<br>please<br>emerge<br>supreme<br>flee<br>snow<br>solid
-bip_39_word_new_br8: shine<br>please<br>emerge<br>supreme<br>flee<br>snow<br>solid<br>rival
-bip_39_word_new_br9: shine<br>please<br>emerge<br>supreme<br>flee<br>snow<br>solid<br>rival<br>very
-bip_39_word_new_line1: shine
-bip_39_word_new_line10: 'shine
+bip_39_word_new_br_1: shine
+bip_39_word_new_br_10: shine<br>please<br>emerge<br>supreme<br>flee<br>snow<br>solid<br>rival<br>very<br>rapid
+bip_39_word_new_br_11: shine<br>please<br>emerge<br>supreme<br>flee<br>snow<br>solid<br>rival<br>very<br>rapid<br>flavor
+bip_39_word_new_br_12: shine<br>please<br>emerge<br>supreme<br>flee<br>snow<br>solid<br>rival<br>very<br>rapid<br>flavor<br>advice
+bip_39_word_new_br_2: shine<br>please
+bip_39_word_new_br_3: shine<br>please<br>emerge
+bip_39_word_new_br_4: shine<br>please<br>emerge<br>supreme
+bip_39_word_new_br_5: shine<br>please<br>emerge<br>supreme<br>flee
+bip_39_word_new_br_6: shine<br>please<br>emerge<br>supreme<br>flee<br>snow
+bip_39_word_new_br_7: shine<br>please<br>emerge<br>supreme<br>flee<br>snow<br>solid
+bip_39_word_new_br_8: shine<br>please<br>emerge<br>supreme<br>flee<br>snow<br>solid<br>rival
+bip_39_word_new_br_9: shine<br>please<br>emerge<br>supreme<br>flee<br>snow<br>solid<br>rival<br>very
+bip_39_word_new_line_1: shine
+bip_39_word_new_line_10: 'shine
 
   please
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'shine
   very
 
   rapid'
-bip_39_word_new_line11: 'shine
+bip_39_word_new_line_11: 'shine
 
   please
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'shine
   rapid
 
   flavor'
-bip_39_word_new_line12: 'shine
+bip_39_word_new_line_12: 'shine
 
   please
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'shine
   flavor
 
   advice'
-bip_39_word_new_line2: 'shine
+bip_39_word_new_line_2: 'shine
 
   please'
-bip_39_word_new_line3: 'shine
+bip_39_word_new_line_3: 'shine
 
   please
 
   emerge'
-bip_39_word_new_line4: 'shine
+bip_39_word_new_line_4: 'shine
 
   please
 
   emerge
 
   supreme'
-bip_39_word_new_line5: 'shine
+bip_39_word_new_line_5: 'shine
 
   please
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'shine
   supreme
 
   flee'
-bip_39_word_new_line6: 'shine
+bip_39_word_new_line_6: 'shine
 
   please
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'shine
   flee
 
   snow'
-bip_39_word_new_line7: 'shine
+bip_39_word_new_line_7: 'shine
 
   please
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'shine
   snow
 
   solid'
-bip_39_word_new_line8: 'shine
+bip_39_word_new_line_8: 'shine
 
   please
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'shine
   solid
 
   rival'
-bip_39_word_new_line9: 'shine
+bip_39_word_new_line_9: 'shine
 
   please
 

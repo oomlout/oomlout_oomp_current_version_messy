@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | apart |  
-| bip_39_word_new_br10 | apart<br>flush<br>minute<br>excuse<br>rotate<br>fold<br>spider<br>air<br>guard<br>scorpion |  
-| bip_39_word_new_br11 | apart<br>flush<br>minute<br>excuse<br>rotate<br>fold<br>spider<br>air<br>guard<br>scorpion<br>lounge |  
-| bip_39_word_new_br12 | apart<br>flush<br>minute<br>excuse<br>rotate<br>fold<br>spider<br>air<br>guard<br>scorpion<br>lounge<br>arch |  
-| bip_39_word_new_br2 | apart<br>flush |  
-| bip_39_word_new_br3 | apart<br>flush<br>minute |  
-| bip_39_word_new_br4 | apart<br>flush<br>minute<br>excuse |  
-| bip_39_word_new_br5 | apart<br>flush<br>minute<br>excuse<br>rotate |  
-| bip_39_word_new_br6 | apart<br>flush<br>minute<br>excuse<br>rotate<br>fold |  
-| bip_39_word_new_br7 | apart<br>flush<br>minute<br>excuse<br>rotate<br>fold<br>spider |  
-| bip_39_word_new_br8 | apart<br>flush<br>minute<br>excuse<br>rotate<br>fold<br>spider<br>air |  
-| bip_39_word_new_br9 | apart<br>flush<br>minute<br>excuse<br>rotate<br>fold<br>spider<br>air<br>guard |  
-| bip_39_word_new_line1 | apart |  
-| bip_39_word_new_line10 | apart
+| bip_39_word_new_br_1 | apart |  
+| bip_39_word_new_br_10 | apart<br>flush<br>minute<br>excuse<br>rotate<br>fold<br>spider<br>air<br>guard<br>scorpion |  
+| bip_39_word_new_br_11 | apart<br>flush<br>minute<br>excuse<br>rotate<br>fold<br>spider<br>air<br>guard<br>scorpion<br>lounge |  
+| bip_39_word_new_br_12 | apart<br>flush<br>minute<br>excuse<br>rotate<br>fold<br>spider<br>air<br>guard<br>scorpion<br>lounge<br>arch |  
+| bip_39_word_new_br_2 | apart<br>flush |  
+| bip_39_word_new_br_3 | apart<br>flush<br>minute |  
+| bip_39_word_new_br_4 | apart<br>flush<br>minute<br>excuse |  
+| bip_39_word_new_br_5 | apart<br>flush<br>minute<br>excuse<br>rotate |  
+| bip_39_word_new_br_6 | apart<br>flush<br>minute<br>excuse<br>rotate<br>fold |  
+| bip_39_word_new_br_7 | apart<br>flush<br>minute<br>excuse<br>rotate<br>fold<br>spider |  
+| bip_39_word_new_br_8 | apart<br>flush<br>minute<br>excuse<br>rotate<br>fold<br>spider<br>air |  
+| bip_39_word_new_br_9 | apart<br>flush<br>minute<br>excuse<br>rotate<br>fold<br>spider<br>air<br>guard |  
+| bip_39_word_new_line_1 | apart |  
+| bip_39_word_new_line_10 | apart
 flush
 minute
 excuse
@@ -55,7 +55,7 @@ spider
 air
 guard
 scorpion |  
-| bip_39_word_new_line11 | apart
+| bip_39_word_new_line_11 | apart
 flush
 minute
 excuse
@@ -66,7 +66,7 @@ air
 guard
 scorpion
 lounge |  
-| bip_39_word_new_line12 | apart
+| bip_39_word_new_line_12 | apart
 flush
 minute
 excuse
@@ -78,34 +78,34 @@ guard
 scorpion
 lounge
 arch |  
-| bip_39_word_new_line2 | apart
+| bip_39_word_new_line_2 | apart
 flush |  
-| bip_39_word_new_line3 | apart
+| bip_39_word_new_line_3 | apart
 flush
 minute |  
-| bip_39_word_new_line4 | apart
+| bip_39_word_new_line_4 | apart
 flush
 minute
 excuse |  
-| bip_39_word_new_line5 | apart
+| bip_39_word_new_line_5 | apart
 flush
 minute
 excuse
 rotate |  
-| bip_39_word_new_line6 | apart
+| bip_39_word_new_line_6 | apart
 flush
 minute
 excuse
 rotate
 fold |  
-| bip_39_word_new_line7 | apart
+| bip_39_word_new_line_7 | apart
 flush
 minute
 excuse
 rotate
 fold
 spider |  
-| bip_39_word_new_line8 | apart
+| bip_39_word_new_line_8 | apart
 flush
 minute
 excuse
@@ -113,7 +113,7 @@ rotate
 fold
 spider
 air |  
-| bip_39_word_new_line9 | apart
+| bip_39_word_new_line_9 | apart
 flush
 minute
 excuse

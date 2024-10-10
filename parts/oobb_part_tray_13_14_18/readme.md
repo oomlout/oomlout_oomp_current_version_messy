@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | estate |  
-| bip_39_word_new_br10 | estate<br>chase<br>angle<br>craft<br>thank<br>segment<br>welcome<br>later<br>magnet<br>manage |  
-| bip_39_word_new_br11 | estate<br>chase<br>angle<br>craft<br>thank<br>segment<br>welcome<br>later<br>magnet<br>manage<br>marine |  
-| bip_39_word_new_br12 | estate<br>chase<br>angle<br>craft<br>thank<br>segment<br>welcome<br>later<br>magnet<br>manage<br>marine<br>also |  
-| bip_39_word_new_br2 | estate<br>chase |  
-| bip_39_word_new_br3 | estate<br>chase<br>angle |  
-| bip_39_word_new_br4 | estate<br>chase<br>angle<br>craft |  
-| bip_39_word_new_br5 | estate<br>chase<br>angle<br>craft<br>thank |  
-| bip_39_word_new_br6 | estate<br>chase<br>angle<br>craft<br>thank<br>segment |  
-| bip_39_word_new_br7 | estate<br>chase<br>angle<br>craft<br>thank<br>segment<br>welcome |  
-| bip_39_word_new_br8 | estate<br>chase<br>angle<br>craft<br>thank<br>segment<br>welcome<br>later |  
-| bip_39_word_new_br9 | estate<br>chase<br>angle<br>craft<br>thank<br>segment<br>welcome<br>later<br>magnet |  
-| bip_39_word_new_line1 | estate |  
-| bip_39_word_new_line10 | estate
+| bip_39_word_new_br_1 | estate |  
+| bip_39_word_new_br_10 | estate<br>chase<br>angle<br>craft<br>thank<br>segment<br>welcome<br>later<br>magnet<br>manage |  
+| bip_39_word_new_br_11 | estate<br>chase<br>angle<br>craft<br>thank<br>segment<br>welcome<br>later<br>magnet<br>manage<br>marine |  
+| bip_39_word_new_br_12 | estate<br>chase<br>angle<br>craft<br>thank<br>segment<br>welcome<br>later<br>magnet<br>manage<br>marine<br>also |  
+| bip_39_word_new_br_2 | estate<br>chase |  
+| bip_39_word_new_br_3 | estate<br>chase<br>angle |  
+| bip_39_word_new_br_4 | estate<br>chase<br>angle<br>craft |  
+| bip_39_word_new_br_5 | estate<br>chase<br>angle<br>craft<br>thank |  
+| bip_39_word_new_br_6 | estate<br>chase<br>angle<br>craft<br>thank<br>segment |  
+| bip_39_word_new_br_7 | estate<br>chase<br>angle<br>craft<br>thank<br>segment<br>welcome |  
+| bip_39_word_new_br_8 | estate<br>chase<br>angle<br>craft<br>thank<br>segment<br>welcome<br>later |  
+| bip_39_word_new_br_9 | estate<br>chase<br>angle<br>craft<br>thank<br>segment<br>welcome<br>later<br>magnet |  
+| bip_39_word_new_line_1 | estate |  
+| bip_39_word_new_line_10 | estate
 chase
 angle
 craft
@@ -55,7 +55,7 @@ welcome
 later
 magnet
 manage |  
-| bip_39_word_new_line11 | estate
+| bip_39_word_new_line_11 | estate
 chase
 angle
 craft
@@ -66,7 +66,7 @@ later
 magnet
 manage
 marine |  
-| bip_39_word_new_line12 | estate
+| bip_39_word_new_line_12 | estate
 chase
 angle
 craft
@@ -78,34 +78,34 @@ magnet
 manage
 marine
 also |  
-| bip_39_word_new_line2 | estate
+| bip_39_word_new_line_2 | estate
 chase |  
-| bip_39_word_new_line3 | estate
+| bip_39_word_new_line_3 | estate
 chase
 angle |  
-| bip_39_word_new_line4 | estate
+| bip_39_word_new_line_4 | estate
 chase
 angle
 craft |  
-| bip_39_word_new_line5 | estate
+| bip_39_word_new_line_5 | estate
 chase
 angle
 craft
 thank |  
-| bip_39_word_new_line6 | estate
+| bip_39_word_new_line_6 | estate
 chase
 angle
 craft
 thank
 segment |  
-| bip_39_word_new_line7 | estate
+| bip_39_word_new_line_7 | estate
 chase
 angle
 craft
 thank
 segment
 welcome |  
-| bip_39_word_new_line8 | estate
+| bip_39_word_new_line_8 | estate
 chase
 angle
 craft
@@ -113,7 +113,7 @@ thank
 segment
 welcome
 later |  
-| bip_39_word_new_line9 | estate
+| bip_39_word_new_line_9 | estate
 chase
 angle
 craft

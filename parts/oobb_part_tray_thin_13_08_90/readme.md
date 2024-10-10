@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | raise |  
-| bip_39_word_new_br10 | raise<br>sad<br>conduct<br>aunt<br>cook<br>want<br>dream<br>cricket<br>click<br>document |  
-| bip_39_word_new_br11 | raise<br>sad<br>conduct<br>aunt<br>cook<br>want<br>dream<br>cricket<br>click<br>document<br>act |  
-| bip_39_word_new_br12 | raise<br>sad<br>conduct<br>aunt<br>cook<br>want<br>dream<br>cricket<br>click<br>document<br>act<br>answer |  
-| bip_39_word_new_br2 | raise<br>sad |  
-| bip_39_word_new_br3 | raise<br>sad<br>conduct |  
-| bip_39_word_new_br4 | raise<br>sad<br>conduct<br>aunt |  
-| bip_39_word_new_br5 | raise<br>sad<br>conduct<br>aunt<br>cook |  
-| bip_39_word_new_br6 | raise<br>sad<br>conduct<br>aunt<br>cook<br>want |  
-| bip_39_word_new_br7 | raise<br>sad<br>conduct<br>aunt<br>cook<br>want<br>dream |  
-| bip_39_word_new_br8 | raise<br>sad<br>conduct<br>aunt<br>cook<br>want<br>dream<br>cricket |  
-| bip_39_word_new_br9 | raise<br>sad<br>conduct<br>aunt<br>cook<br>want<br>dream<br>cricket<br>click |  
-| bip_39_word_new_line1 | raise |  
-| bip_39_word_new_line10 | raise
+| bip_39_word_new_br_1 | raise |  
+| bip_39_word_new_br_10 | raise<br>sad<br>conduct<br>aunt<br>cook<br>want<br>dream<br>cricket<br>click<br>document |  
+| bip_39_word_new_br_11 | raise<br>sad<br>conduct<br>aunt<br>cook<br>want<br>dream<br>cricket<br>click<br>document<br>act |  
+| bip_39_word_new_br_12 | raise<br>sad<br>conduct<br>aunt<br>cook<br>want<br>dream<br>cricket<br>click<br>document<br>act<br>answer |  
+| bip_39_word_new_br_2 | raise<br>sad |  
+| bip_39_word_new_br_3 | raise<br>sad<br>conduct |  
+| bip_39_word_new_br_4 | raise<br>sad<br>conduct<br>aunt |  
+| bip_39_word_new_br_5 | raise<br>sad<br>conduct<br>aunt<br>cook |  
+| bip_39_word_new_br_6 | raise<br>sad<br>conduct<br>aunt<br>cook<br>want |  
+| bip_39_word_new_br_7 | raise<br>sad<br>conduct<br>aunt<br>cook<br>want<br>dream |  
+| bip_39_word_new_br_8 | raise<br>sad<br>conduct<br>aunt<br>cook<br>want<br>dream<br>cricket |  
+| bip_39_word_new_br_9 | raise<br>sad<br>conduct<br>aunt<br>cook<br>want<br>dream<br>cricket<br>click |  
+| bip_39_word_new_line_1 | raise |  
+| bip_39_word_new_line_10 | raise
 sad
 conduct
 aunt
@@ -55,7 +55,7 @@ dream
 cricket
 click
 document |  
-| bip_39_word_new_line11 | raise
+| bip_39_word_new_line_11 | raise
 sad
 conduct
 aunt
@@ -66,7 +66,7 @@ cricket
 click
 document
 act |  
-| bip_39_word_new_line12 | raise
+| bip_39_word_new_line_12 | raise
 sad
 conduct
 aunt
@@ -78,34 +78,34 @@ click
 document
 act
 answer |  
-| bip_39_word_new_line2 | raise
+| bip_39_word_new_line_2 | raise
 sad |  
-| bip_39_word_new_line3 | raise
+| bip_39_word_new_line_3 | raise
 sad
 conduct |  
-| bip_39_word_new_line4 | raise
+| bip_39_word_new_line_4 | raise
 sad
 conduct
 aunt |  
-| bip_39_word_new_line5 | raise
+| bip_39_word_new_line_5 | raise
 sad
 conduct
 aunt
 cook |  
-| bip_39_word_new_line6 | raise
+| bip_39_word_new_line_6 | raise
 sad
 conduct
 aunt
 cook
 want |  
-| bip_39_word_new_line7 | raise
+| bip_39_word_new_line_7 | raise
 sad
 conduct
 aunt
 cook
 want
 dream |  
-| bip_39_word_new_line8 | raise
+| bip_39_word_new_line_8 | raise
 sad
 conduct
 aunt
@@ -113,7 +113,7 @@ cook
 want
 dream
 cricket |  
-| bip_39_word_new_line9 | raise
+| bip_39_word_new_line_9 | raise
 sad
 conduct
 aunt

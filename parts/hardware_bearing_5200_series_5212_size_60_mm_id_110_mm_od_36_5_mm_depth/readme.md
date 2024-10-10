@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | person |  
-| bip_39_word_new_br10 | person<br>dinosaur<br>forget<br>below<br>gaze<br>orbit<br>gain<br>opera<br>measure<br>skill |  
-| bip_39_word_new_br11 | person<br>dinosaur<br>forget<br>below<br>gaze<br>orbit<br>gain<br>opera<br>measure<br>skill<br>rely |  
-| bip_39_word_new_br12 | person<br>dinosaur<br>forget<br>below<br>gaze<br>orbit<br>gain<br>opera<br>measure<br>skill<br>rely<br>absent |  
-| bip_39_word_new_br2 | person<br>dinosaur |  
-| bip_39_word_new_br3 | person<br>dinosaur<br>forget |  
-| bip_39_word_new_br4 | person<br>dinosaur<br>forget<br>below |  
-| bip_39_word_new_br5 | person<br>dinosaur<br>forget<br>below<br>gaze |  
-| bip_39_word_new_br6 | person<br>dinosaur<br>forget<br>below<br>gaze<br>orbit |  
-| bip_39_word_new_br7 | person<br>dinosaur<br>forget<br>below<br>gaze<br>orbit<br>gain |  
-| bip_39_word_new_br8 | person<br>dinosaur<br>forget<br>below<br>gaze<br>orbit<br>gain<br>opera |  
-| bip_39_word_new_br9 | person<br>dinosaur<br>forget<br>below<br>gaze<br>orbit<br>gain<br>opera<br>measure |  
-| bip_39_word_new_line1 | person |  
-| bip_39_word_new_line10 | person
+| bip_39_word_new_br_1 | person |  
+| bip_39_word_new_br_10 | person<br>dinosaur<br>forget<br>below<br>gaze<br>orbit<br>gain<br>opera<br>measure<br>skill |  
+| bip_39_word_new_br_11 | person<br>dinosaur<br>forget<br>below<br>gaze<br>orbit<br>gain<br>opera<br>measure<br>skill<br>rely |  
+| bip_39_word_new_br_12 | person<br>dinosaur<br>forget<br>below<br>gaze<br>orbit<br>gain<br>opera<br>measure<br>skill<br>rely<br>absent |  
+| bip_39_word_new_br_2 | person<br>dinosaur |  
+| bip_39_word_new_br_3 | person<br>dinosaur<br>forget |  
+| bip_39_word_new_br_4 | person<br>dinosaur<br>forget<br>below |  
+| bip_39_word_new_br_5 | person<br>dinosaur<br>forget<br>below<br>gaze |  
+| bip_39_word_new_br_6 | person<br>dinosaur<br>forget<br>below<br>gaze<br>orbit |  
+| bip_39_word_new_br_7 | person<br>dinosaur<br>forget<br>below<br>gaze<br>orbit<br>gain |  
+| bip_39_word_new_br_8 | person<br>dinosaur<br>forget<br>below<br>gaze<br>orbit<br>gain<br>opera |  
+| bip_39_word_new_br_9 | person<br>dinosaur<br>forget<br>below<br>gaze<br>orbit<br>gain<br>opera<br>measure |  
+| bip_39_word_new_line_1 | person |  
+| bip_39_word_new_line_10 | person
 dinosaur
 forget
 below
@@ -55,7 +55,7 @@ gain
 opera
 measure
 skill |  
-| bip_39_word_new_line11 | person
+| bip_39_word_new_line_11 | person
 dinosaur
 forget
 below
@@ -66,7 +66,7 @@ opera
 measure
 skill
 rely |  
-| bip_39_word_new_line12 | person
+| bip_39_word_new_line_12 | person
 dinosaur
 forget
 below
@@ -78,34 +78,34 @@ measure
 skill
 rely
 absent |  
-| bip_39_word_new_line2 | person
+| bip_39_word_new_line_2 | person
 dinosaur |  
-| bip_39_word_new_line3 | person
+| bip_39_word_new_line_3 | person
 dinosaur
 forget |  
-| bip_39_word_new_line4 | person
+| bip_39_word_new_line_4 | person
 dinosaur
 forget
 below |  
-| bip_39_word_new_line5 | person
+| bip_39_word_new_line_5 | person
 dinosaur
 forget
 below
 gaze |  
-| bip_39_word_new_line6 | person
+| bip_39_word_new_line_6 | person
 dinosaur
 forget
 below
 gaze
 orbit |  
-| bip_39_word_new_line7 | person
+| bip_39_word_new_line_7 | person
 dinosaur
 forget
 below
 gaze
 orbit
 gain |  
-| bip_39_word_new_line8 | person
+| bip_39_word_new_line_8 | person
 dinosaur
 forget
 below
@@ -113,7 +113,7 @@ gaze
 orbit
 gain
 opera |  
-| bip_39_word_new_line9 | person
+| bip_39_word_new_line_9 | person
 dinosaur
 forget
 below

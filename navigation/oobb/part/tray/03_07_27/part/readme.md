@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | turkey |  
-| bip_39_word_new_br10 | turkey<br>firm<br>image<br>odor<br>soda<br>sing<br>apology<br>exist<br>simple<br>elephant |  
-| bip_39_word_new_br11 | turkey<br>firm<br>image<br>odor<br>soda<br>sing<br>apology<br>exist<br>simple<br>elephant<br>pilot |  
-| bip_39_word_new_br12 | turkey<br>firm<br>image<br>odor<br>soda<br>sing<br>apology<br>exist<br>simple<br>elephant<br>pilot<br>art |  
-| bip_39_word_new_br2 | turkey<br>firm |  
-| bip_39_word_new_br3 | turkey<br>firm<br>image |  
-| bip_39_word_new_br4 | turkey<br>firm<br>image<br>odor |  
-| bip_39_word_new_br5 | turkey<br>firm<br>image<br>odor<br>soda |  
-| bip_39_word_new_br6 | turkey<br>firm<br>image<br>odor<br>soda<br>sing |  
-| bip_39_word_new_br7 | turkey<br>firm<br>image<br>odor<br>soda<br>sing<br>apology |  
-| bip_39_word_new_br8 | turkey<br>firm<br>image<br>odor<br>soda<br>sing<br>apology<br>exist |  
-| bip_39_word_new_br9 | turkey<br>firm<br>image<br>odor<br>soda<br>sing<br>apology<br>exist<br>simple |  
-| bip_39_word_new_line1 | turkey |  
-| bip_39_word_new_line10 | turkey
+| bip_39_word_new_br_1 | turkey |  
+| bip_39_word_new_br_10 | turkey<br>firm<br>image<br>odor<br>soda<br>sing<br>apology<br>exist<br>simple<br>elephant |  
+| bip_39_word_new_br_11 | turkey<br>firm<br>image<br>odor<br>soda<br>sing<br>apology<br>exist<br>simple<br>elephant<br>pilot |  
+| bip_39_word_new_br_12 | turkey<br>firm<br>image<br>odor<br>soda<br>sing<br>apology<br>exist<br>simple<br>elephant<br>pilot<br>art |  
+| bip_39_word_new_br_2 | turkey<br>firm |  
+| bip_39_word_new_br_3 | turkey<br>firm<br>image |  
+| bip_39_word_new_br_4 | turkey<br>firm<br>image<br>odor |  
+| bip_39_word_new_br_5 | turkey<br>firm<br>image<br>odor<br>soda |  
+| bip_39_word_new_br_6 | turkey<br>firm<br>image<br>odor<br>soda<br>sing |  
+| bip_39_word_new_br_7 | turkey<br>firm<br>image<br>odor<br>soda<br>sing<br>apology |  
+| bip_39_word_new_br_8 | turkey<br>firm<br>image<br>odor<br>soda<br>sing<br>apology<br>exist |  
+| bip_39_word_new_br_9 | turkey<br>firm<br>image<br>odor<br>soda<br>sing<br>apology<br>exist<br>simple |  
+| bip_39_word_new_line_1 | turkey |  
+| bip_39_word_new_line_10 | turkey
 firm
 image
 odor
@@ -55,7 +55,7 @@ apology
 exist
 simple
 elephant |  
-| bip_39_word_new_line11 | turkey
+| bip_39_word_new_line_11 | turkey
 firm
 image
 odor
@@ -66,7 +66,7 @@ exist
 simple
 elephant
 pilot |  
-| bip_39_word_new_line12 | turkey
+| bip_39_word_new_line_12 | turkey
 firm
 image
 odor
@@ -78,34 +78,34 @@ simple
 elephant
 pilot
 art |  
-| bip_39_word_new_line2 | turkey
+| bip_39_word_new_line_2 | turkey
 firm |  
-| bip_39_word_new_line3 | turkey
+| bip_39_word_new_line_3 | turkey
 firm
 image |  
-| bip_39_word_new_line4 | turkey
+| bip_39_word_new_line_4 | turkey
 firm
 image
 odor |  
-| bip_39_word_new_line5 | turkey
+| bip_39_word_new_line_5 | turkey
 firm
 image
 odor
 soda |  
-| bip_39_word_new_line6 | turkey
+| bip_39_word_new_line_6 | turkey
 firm
 image
 odor
 soda
 sing |  
-| bip_39_word_new_line7 | turkey
+| bip_39_word_new_line_7 | turkey
 firm
 image
 odor
 soda
 sing
 apology |  
-| bip_39_word_new_line8 | turkey
+| bip_39_word_new_line_8 | turkey
 firm
 image
 odor
@@ -113,7 +113,7 @@ soda
 sing
 apology
 exist |  
-| bip_39_word_new_line9 | turkey
+| bip_39_word_new_line_9 | turkey
 firm
 image
 odor

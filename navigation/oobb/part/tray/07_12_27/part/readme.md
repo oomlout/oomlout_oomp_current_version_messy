@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | kiss |  
-| bip_39_word_new_br10 | kiss<br>empty<br>fine<br>upset<br>other<br>minor<br>rule<br>unit<br>science<br>vocal |  
-| bip_39_word_new_br11 | kiss<br>empty<br>fine<br>upset<br>other<br>minor<br>rule<br>unit<br>science<br>vocal<br>resist |  
-| bip_39_word_new_br12 | kiss<br>empty<br>fine<br>upset<br>other<br>minor<br>rule<br>unit<br>science<br>vocal<br>resist<br>about |  
-| bip_39_word_new_br2 | kiss<br>empty |  
-| bip_39_word_new_br3 | kiss<br>empty<br>fine |  
-| bip_39_word_new_br4 | kiss<br>empty<br>fine<br>upset |  
-| bip_39_word_new_br5 | kiss<br>empty<br>fine<br>upset<br>other |  
-| bip_39_word_new_br6 | kiss<br>empty<br>fine<br>upset<br>other<br>minor |  
-| bip_39_word_new_br7 | kiss<br>empty<br>fine<br>upset<br>other<br>minor<br>rule |  
-| bip_39_word_new_br8 | kiss<br>empty<br>fine<br>upset<br>other<br>minor<br>rule<br>unit |  
-| bip_39_word_new_br9 | kiss<br>empty<br>fine<br>upset<br>other<br>minor<br>rule<br>unit<br>science |  
-| bip_39_word_new_line1 | kiss |  
-| bip_39_word_new_line10 | kiss
+| bip_39_word_new_br_1 | kiss |  
+| bip_39_word_new_br_10 | kiss<br>empty<br>fine<br>upset<br>other<br>minor<br>rule<br>unit<br>science<br>vocal |  
+| bip_39_word_new_br_11 | kiss<br>empty<br>fine<br>upset<br>other<br>minor<br>rule<br>unit<br>science<br>vocal<br>resist |  
+| bip_39_word_new_br_12 | kiss<br>empty<br>fine<br>upset<br>other<br>minor<br>rule<br>unit<br>science<br>vocal<br>resist<br>about |  
+| bip_39_word_new_br_2 | kiss<br>empty |  
+| bip_39_word_new_br_3 | kiss<br>empty<br>fine |  
+| bip_39_word_new_br_4 | kiss<br>empty<br>fine<br>upset |  
+| bip_39_word_new_br_5 | kiss<br>empty<br>fine<br>upset<br>other |  
+| bip_39_word_new_br_6 | kiss<br>empty<br>fine<br>upset<br>other<br>minor |  
+| bip_39_word_new_br_7 | kiss<br>empty<br>fine<br>upset<br>other<br>minor<br>rule |  
+| bip_39_word_new_br_8 | kiss<br>empty<br>fine<br>upset<br>other<br>minor<br>rule<br>unit |  
+| bip_39_word_new_br_9 | kiss<br>empty<br>fine<br>upset<br>other<br>minor<br>rule<br>unit<br>science |  
+| bip_39_word_new_line_1 | kiss |  
+| bip_39_word_new_line_10 | kiss
 empty
 fine
 upset
@@ -55,7 +55,7 @@ rule
 unit
 science
 vocal |  
-| bip_39_word_new_line11 | kiss
+| bip_39_word_new_line_11 | kiss
 empty
 fine
 upset
@@ -66,7 +66,7 @@ unit
 science
 vocal
 resist |  
-| bip_39_word_new_line12 | kiss
+| bip_39_word_new_line_12 | kiss
 empty
 fine
 upset
@@ -78,34 +78,34 @@ science
 vocal
 resist
 about |  
-| bip_39_word_new_line2 | kiss
+| bip_39_word_new_line_2 | kiss
 empty |  
-| bip_39_word_new_line3 | kiss
+| bip_39_word_new_line_3 | kiss
 empty
 fine |  
-| bip_39_word_new_line4 | kiss
+| bip_39_word_new_line_4 | kiss
 empty
 fine
 upset |  
-| bip_39_word_new_line5 | kiss
+| bip_39_word_new_line_5 | kiss
 empty
 fine
 upset
 other |  
-| bip_39_word_new_line6 | kiss
+| bip_39_word_new_line_6 | kiss
 empty
 fine
 upset
 other
 minor |  
-| bip_39_word_new_line7 | kiss
+| bip_39_word_new_line_7 | kiss
 empty
 fine
 upset
 other
 minor
 rule |  
-| bip_39_word_new_line8 | kiss
+| bip_39_word_new_line_8 | kiss
 empty
 fine
 upset
@@ -113,7 +113,7 @@ other
 minor
 rule
 unit |  
-| bip_39_word_new_line9 | kiss
+| bip_39_word_new_line_9 | kiss
 empty
 fine
 upset

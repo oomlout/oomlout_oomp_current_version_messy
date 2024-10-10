@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | little |  
-| bip_39_word_new_br10 | little<br>pudding<br>divide<br>divert<br>grit<br>practice<br>wrestle<br>harbor<br>ring<br>hood |  
-| bip_39_word_new_br11 | little<br>pudding<br>divide<br>divert<br>grit<br>practice<br>wrestle<br>harbor<br>ring<br>hood<br>inch |  
-| bip_39_word_new_br12 | little<br>pudding<br>divide<br>divert<br>grit<br>practice<br>wrestle<br>harbor<br>ring<br>hood<br>inch<br>artist |  
-| bip_39_word_new_br2 | little<br>pudding |  
-| bip_39_word_new_br3 | little<br>pudding<br>divide |  
-| bip_39_word_new_br4 | little<br>pudding<br>divide<br>divert |  
-| bip_39_word_new_br5 | little<br>pudding<br>divide<br>divert<br>grit |  
-| bip_39_word_new_br6 | little<br>pudding<br>divide<br>divert<br>grit<br>practice |  
-| bip_39_word_new_br7 | little<br>pudding<br>divide<br>divert<br>grit<br>practice<br>wrestle |  
-| bip_39_word_new_br8 | little<br>pudding<br>divide<br>divert<br>grit<br>practice<br>wrestle<br>harbor |  
-| bip_39_word_new_br9 | little<br>pudding<br>divide<br>divert<br>grit<br>practice<br>wrestle<br>harbor<br>ring |  
-| bip_39_word_new_line1 | little |  
-| bip_39_word_new_line10 | little
+| bip_39_word_new_br_1 | little |  
+| bip_39_word_new_br_10 | little<br>pudding<br>divide<br>divert<br>grit<br>practice<br>wrestle<br>harbor<br>ring<br>hood |  
+| bip_39_word_new_br_11 | little<br>pudding<br>divide<br>divert<br>grit<br>practice<br>wrestle<br>harbor<br>ring<br>hood<br>inch |  
+| bip_39_word_new_br_12 | little<br>pudding<br>divide<br>divert<br>grit<br>practice<br>wrestle<br>harbor<br>ring<br>hood<br>inch<br>artist |  
+| bip_39_word_new_br_2 | little<br>pudding |  
+| bip_39_word_new_br_3 | little<br>pudding<br>divide |  
+| bip_39_word_new_br_4 | little<br>pudding<br>divide<br>divert |  
+| bip_39_word_new_br_5 | little<br>pudding<br>divide<br>divert<br>grit |  
+| bip_39_word_new_br_6 | little<br>pudding<br>divide<br>divert<br>grit<br>practice |  
+| bip_39_word_new_br_7 | little<br>pudding<br>divide<br>divert<br>grit<br>practice<br>wrestle |  
+| bip_39_word_new_br_8 | little<br>pudding<br>divide<br>divert<br>grit<br>practice<br>wrestle<br>harbor |  
+| bip_39_word_new_br_9 | little<br>pudding<br>divide<br>divert<br>grit<br>practice<br>wrestle<br>harbor<br>ring |  
+| bip_39_word_new_line_1 | little |  
+| bip_39_word_new_line_10 | little
 pudding
 divide
 divert
@@ -55,7 +55,7 @@ wrestle
 harbor
 ring
 hood |  
-| bip_39_word_new_line11 | little
+| bip_39_word_new_line_11 | little
 pudding
 divide
 divert
@@ -66,7 +66,7 @@ harbor
 ring
 hood
 inch |  
-| bip_39_word_new_line12 | little
+| bip_39_word_new_line_12 | little
 pudding
 divide
 divert
@@ -78,34 +78,34 @@ ring
 hood
 inch
 artist |  
-| bip_39_word_new_line2 | little
+| bip_39_word_new_line_2 | little
 pudding |  
-| bip_39_word_new_line3 | little
+| bip_39_word_new_line_3 | little
 pudding
 divide |  
-| bip_39_word_new_line4 | little
+| bip_39_word_new_line_4 | little
 pudding
 divide
 divert |  
-| bip_39_word_new_line5 | little
+| bip_39_word_new_line_5 | little
 pudding
 divide
 divert
 grit |  
-| bip_39_word_new_line6 | little
+| bip_39_word_new_line_6 | little
 pudding
 divide
 divert
 grit
 practice |  
-| bip_39_word_new_line7 | little
+| bip_39_word_new_line_7 | little
 pudding
 divide
 divert
 grit
 practice
 wrestle |  
-| bip_39_word_new_line8 | little
+| bip_39_word_new_line_8 | little
 pudding
 divide
 divert
@@ -113,7 +113,7 @@ grit
 practice
 wrestle
 harbor |  
-| bip_39_word_new_line9 | little
+| bip_39_word_new_line_9 | little
 pudding
 divide
 divert

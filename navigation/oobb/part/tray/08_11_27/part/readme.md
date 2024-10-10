@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sun |  
-| bip_39_word_new_br10 | sun<br>add<br>indicate<br>stove<br>luggage<br>other<br>humor<br>prosper<br>sort<br>fix |  
-| bip_39_word_new_br11 | sun<br>add<br>indicate<br>stove<br>luggage<br>other<br>humor<br>prosper<br>sort<br>fix<br>program |  
-| bip_39_word_new_br12 | sun<br>add<br>indicate<br>stove<br>luggage<br>other<br>humor<br>prosper<br>sort<br>fix<br>program<br>asthma |  
-| bip_39_word_new_br2 | sun<br>add |  
-| bip_39_word_new_br3 | sun<br>add<br>indicate |  
-| bip_39_word_new_br4 | sun<br>add<br>indicate<br>stove |  
-| bip_39_word_new_br5 | sun<br>add<br>indicate<br>stove<br>luggage |  
-| bip_39_word_new_br6 | sun<br>add<br>indicate<br>stove<br>luggage<br>other |  
-| bip_39_word_new_br7 | sun<br>add<br>indicate<br>stove<br>luggage<br>other<br>humor |  
-| bip_39_word_new_br8 | sun<br>add<br>indicate<br>stove<br>luggage<br>other<br>humor<br>prosper |  
-| bip_39_word_new_br9 | sun<br>add<br>indicate<br>stove<br>luggage<br>other<br>humor<br>prosper<br>sort |  
-| bip_39_word_new_line1 | sun |  
-| bip_39_word_new_line10 | sun
+| bip_39_word_new_br_1 | sun |  
+| bip_39_word_new_br_10 | sun<br>add<br>indicate<br>stove<br>luggage<br>other<br>humor<br>prosper<br>sort<br>fix |  
+| bip_39_word_new_br_11 | sun<br>add<br>indicate<br>stove<br>luggage<br>other<br>humor<br>prosper<br>sort<br>fix<br>program |  
+| bip_39_word_new_br_12 | sun<br>add<br>indicate<br>stove<br>luggage<br>other<br>humor<br>prosper<br>sort<br>fix<br>program<br>asthma |  
+| bip_39_word_new_br_2 | sun<br>add |  
+| bip_39_word_new_br_3 | sun<br>add<br>indicate |  
+| bip_39_word_new_br_4 | sun<br>add<br>indicate<br>stove |  
+| bip_39_word_new_br_5 | sun<br>add<br>indicate<br>stove<br>luggage |  
+| bip_39_word_new_br_6 | sun<br>add<br>indicate<br>stove<br>luggage<br>other |  
+| bip_39_word_new_br_7 | sun<br>add<br>indicate<br>stove<br>luggage<br>other<br>humor |  
+| bip_39_word_new_br_8 | sun<br>add<br>indicate<br>stove<br>luggage<br>other<br>humor<br>prosper |  
+| bip_39_word_new_br_9 | sun<br>add<br>indicate<br>stove<br>luggage<br>other<br>humor<br>prosper<br>sort |  
+| bip_39_word_new_line_1 | sun |  
+| bip_39_word_new_line_10 | sun
 add
 indicate
 stove
@@ -55,7 +55,7 @@ humor
 prosper
 sort
 fix |  
-| bip_39_word_new_line11 | sun
+| bip_39_word_new_line_11 | sun
 add
 indicate
 stove
@@ -66,7 +66,7 @@ prosper
 sort
 fix
 program |  
-| bip_39_word_new_line12 | sun
+| bip_39_word_new_line_12 | sun
 add
 indicate
 stove
@@ -78,34 +78,34 @@ sort
 fix
 program
 asthma |  
-| bip_39_word_new_line2 | sun
+| bip_39_word_new_line_2 | sun
 add |  
-| bip_39_word_new_line3 | sun
+| bip_39_word_new_line_3 | sun
 add
 indicate |  
-| bip_39_word_new_line4 | sun
+| bip_39_word_new_line_4 | sun
 add
 indicate
 stove |  
-| bip_39_word_new_line5 | sun
+| bip_39_word_new_line_5 | sun
 add
 indicate
 stove
 luggage |  
-| bip_39_word_new_line6 | sun
+| bip_39_word_new_line_6 | sun
 add
 indicate
 stove
 luggage
 other |  
-| bip_39_word_new_line7 | sun
+| bip_39_word_new_line_7 | sun
 add
 indicate
 stove
 luggage
 other
 humor |  
-| bip_39_word_new_line8 | sun
+| bip_39_word_new_line_8 | sun
 add
 indicate
 stove
@@ -113,7 +113,7 @@ luggage
 other
 humor
 prosper |  
-| bip_39_word_new_line9 | sun
+| bip_39_word_new_line_9 | sun
 add
 indicate
 stove

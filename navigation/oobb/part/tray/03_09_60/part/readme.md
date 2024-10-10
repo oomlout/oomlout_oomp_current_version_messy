@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | window |  
-| bip_39_word_new_br10 | window<br>champion<br>bitter<br>pottery<br>shadow<br>orchard<br>coast<br>multiply<br>reveal<br>artwork |  
-| bip_39_word_new_br11 | window<br>champion<br>bitter<br>pottery<br>shadow<br>orchard<br>coast<br>multiply<br>reveal<br>artwork<br>wine |  
-| bip_39_word_new_br12 | window<br>champion<br>bitter<br>pottery<br>shadow<br>orchard<br>coast<br>multiply<br>reveal<br>artwork<br>wine<br>average |  
-| bip_39_word_new_br2 | window<br>champion |  
-| bip_39_word_new_br3 | window<br>champion<br>bitter |  
-| bip_39_word_new_br4 | window<br>champion<br>bitter<br>pottery |  
-| bip_39_word_new_br5 | window<br>champion<br>bitter<br>pottery<br>shadow |  
-| bip_39_word_new_br6 | window<br>champion<br>bitter<br>pottery<br>shadow<br>orchard |  
-| bip_39_word_new_br7 | window<br>champion<br>bitter<br>pottery<br>shadow<br>orchard<br>coast |  
-| bip_39_word_new_br8 | window<br>champion<br>bitter<br>pottery<br>shadow<br>orchard<br>coast<br>multiply |  
-| bip_39_word_new_br9 | window<br>champion<br>bitter<br>pottery<br>shadow<br>orchard<br>coast<br>multiply<br>reveal |  
-| bip_39_word_new_line1 | window |  
-| bip_39_word_new_line10 | window
+| bip_39_word_new_br_1 | window |  
+| bip_39_word_new_br_10 | window<br>champion<br>bitter<br>pottery<br>shadow<br>orchard<br>coast<br>multiply<br>reveal<br>artwork |  
+| bip_39_word_new_br_11 | window<br>champion<br>bitter<br>pottery<br>shadow<br>orchard<br>coast<br>multiply<br>reveal<br>artwork<br>wine |  
+| bip_39_word_new_br_12 | window<br>champion<br>bitter<br>pottery<br>shadow<br>orchard<br>coast<br>multiply<br>reveal<br>artwork<br>wine<br>average |  
+| bip_39_word_new_br_2 | window<br>champion |  
+| bip_39_word_new_br_3 | window<br>champion<br>bitter |  
+| bip_39_word_new_br_4 | window<br>champion<br>bitter<br>pottery |  
+| bip_39_word_new_br_5 | window<br>champion<br>bitter<br>pottery<br>shadow |  
+| bip_39_word_new_br_6 | window<br>champion<br>bitter<br>pottery<br>shadow<br>orchard |  
+| bip_39_word_new_br_7 | window<br>champion<br>bitter<br>pottery<br>shadow<br>orchard<br>coast |  
+| bip_39_word_new_br_8 | window<br>champion<br>bitter<br>pottery<br>shadow<br>orchard<br>coast<br>multiply |  
+| bip_39_word_new_br_9 | window<br>champion<br>bitter<br>pottery<br>shadow<br>orchard<br>coast<br>multiply<br>reveal |  
+| bip_39_word_new_line_1 | window |  
+| bip_39_word_new_line_10 | window
 champion
 bitter
 pottery
@@ -55,7 +55,7 @@ coast
 multiply
 reveal
 artwork |  
-| bip_39_word_new_line11 | window
+| bip_39_word_new_line_11 | window
 champion
 bitter
 pottery
@@ -66,7 +66,7 @@ multiply
 reveal
 artwork
 wine |  
-| bip_39_word_new_line12 | window
+| bip_39_word_new_line_12 | window
 champion
 bitter
 pottery
@@ -78,34 +78,34 @@ reveal
 artwork
 wine
 average |  
-| bip_39_word_new_line2 | window
+| bip_39_word_new_line_2 | window
 champion |  
-| bip_39_word_new_line3 | window
+| bip_39_word_new_line_3 | window
 champion
 bitter |  
-| bip_39_word_new_line4 | window
+| bip_39_word_new_line_4 | window
 champion
 bitter
 pottery |  
-| bip_39_word_new_line5 | window
+| bip_39_word_new_line_5 | window
 champion
 bitter
 pottery
 shadow |  
-| bip_39_word_new_line6 | window
+| bip_39_word_new_line_6 | window
 champion
 bitter
 pottery
 shadow
 orchard |  
-| bip_39_word_new_line7 | window
+| bip_39_word_new_line_7 | window
 champion
 bitter
 pottery
 shadow
 orchard
 coast |  
-| bip_39_word_new_line8 | window
+| bip_39_word_new_line_8 | window
 champion
 bitter
 pottery
@@ -113,7 +113,7 @@ shadow
 orchard
 coast
 multiply |  
-| bip_39_word_new_line9 | window
+| bip_39_word_new_line_9 | window
 champion
 bitter
 pottery

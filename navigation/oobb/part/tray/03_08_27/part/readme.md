@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | trade |  
-| bip_39_word_new_br10 | trade<br>onion<br>cradle<br>captain<br>visa<br>soap<br>evil<br>lizard<br>jaguar<br>put |  
-| bip_39_word_new_br11 | trade<br>onion<br>cradle<br>captain<br>visa<br>soap<br>evil<br>lizard<br>jaguar<br>put<br>noodle |  
-| bip_39_word_new_br12 | trade<br>onion<br>cradle<br>captain<br>visa<br>soap<br>evil<br>lizard<br>jaguar<br>put<br>noodle<br>adult |  
-| bip_39_word_new_br2 | trade<br>onion |  
-| bip_39_word_new_br3 | trade<br>onion<br>cradle |  
-| bip_39_word_new_br4 | trade<br>onion<br>cradle<br>captain |  
-| bip_39_word_new_br5 | trade<br>onion<br>cradle<br>captain<br>visa |  
-| bip_39_word_new_br6 | trade<br>onion<br>cradle<br>captain<br>visa<br>soap |  
-| bip_39_word_new_br7 | trade<br>onion<br>cradle<br>captain<br>visa<br>soap<br>evil |  
-| bip_39_word_new_br8 | trade<br>onion<br>cradle<br>captain<br>visa<br>soap<br>evil<br>lizard |  
-| bip_39_word_new_br9 | trade<br>onion<br>cradle<br>captain<br>visa<br>soap<br>evil<br>lizard<br>jaguar |  
-| bip_39_word_new_line1 | trade |  
-| bip_39_word_new_line10 | trade
+| bip_39_word_new_br_1 | trade |  
+| bip_39_word_new_br_10 | trade<br>onion<br>cradle<br>captain<br>visa<br>soap<br>evil<br>lizard<br>jaguar<br>put |  
+| bip_39_word_new_br_11 | trade<br>onion<br>cradle<br>captain<br>visa<br>soap<br>evil<br>lizard<br>jaguar<br>put<br>noodle |  
+| bip_39_word_new_br_12 | trade<br>onion<br>cradle<br>captain<br>visa<br>soap<br>evil<br>lizard<br>jaguar<br>put<br>noodle<br>adult |  
+| bip_39_word_new_br_2 | trade<br>onion |  
+| bip_39_word_new_br_3 | trade<br>onion<br>cradle |  
+| bip_39_word_new_br_4 | trade<br>onion<br>cradle<br>captain |  
+| bip_39_word_new_br_5 | trade<br>onion<br>cradle<br>captain<br>visa |  
+| bip_39_word_new_br_6 | trade<br>onion<br>cradle<br>captain<br>visa<br>soap |  
+| bip_39_word_new_br_7 | trade<br>onion<br>cradle<br>captain<br>visa<br>soap<br>evil |  
+| bip_39_word_new_br_8 | trade<br>onion<br>cradle<br>captain<br>visa<br>soap<br>evil<br>lizard |  
+| bip_39_word_new_br_9 | trade<br>onion<br>cradle<br>captain<br>visa<br>soap<br>evil<br>lizard<br>jaguar |  
+| bip_39_word_new_line_1 | trade |  
+| bip_39_word_new_line_10 | trade
 onion
 cradle
 captain
@@ -55,7 +55,7 @@ evil
 lizard
 jaguar
 put |  
-| bip_39_word_new_line11 | trade
+| bip_39_word_new_line_11 | trade
 onion
 cradle
 captain
@@ -66,7 +66,7 @@ lizard
 jaguar
 put
 noodle |  
-| bip_39_word_new_line12 | trade
+| bip_39_word_new_line_12 | trade
 onion
 cradle
 captain
@@ -78,34 +78,34 @@ jaguar
 put
 noodle
 adult |  
-| bip_39_word_new_line2 | trade
+| bip_39_word_new_line_2 | trade
 onion |  
-| bip_39_word_new_line3 | trade
+| bip_39_word_new_line_3 | trade
 onion
 cradle |  
-| bip_39_word_new_line4 | trade
+| bip_39_word_new_line_4 | trade
 onion
 cradle
 captain |  
-| bip_39_word_new_line5 | trade
+| bip_39_word_new_line_5 | trade
 onion
 cradle
 captain
 visa |  
-| bip_39_word_new_line6 | trade
+| bip_39_word_new_line_6 | trade
 onion
 cradle
 captain
 visa
 soap |  
-| bip_39_word_new_line7 | trade
+| bip_39_word_new_line_7 | trade
 onion
 cradle
 captain
 visa
 soap
 evil |  
-| bip_39_word_new_line8 | trade
+| bip_39_word_new_line_8 | trade
 onion
 cradle
 captain
@@ -113,7 +113,7 @@ visa
 soap
 evil
 lizard |  
-| bip_39_word_new_line9 | trade
+| bip_39_word_new_line_9 | trade
 onion
 cradle
 captain

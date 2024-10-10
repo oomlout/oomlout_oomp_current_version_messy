@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | powder |  
-| bip_39_word_new_br10 | powder<br>mutual<br>spy<br>extend<br>despair<br>uniform<br>tip<br>inflict<br>february<br>wide |  
-| bip_39_word_new_br11 | powder<br>mutual<br>spy<br>extend<br>despair<br>uniform<br>tip<br>inflict<br>february<br>wide<br>unlock |  
-| bip_39_word_new_br12 | powder<br>mutual<br>spy<br>extend<br>despair<br>uniform<br>tip<br>inflict<br>february<br>wide<br>unlock<br>attack |  
-| bip_39_word_new_br2 | powder<br>mutual |  
-| bip_39_word_new_br3 | powder<br>mutual<br>spy |  
-| bip_39_word_new_br4 | powder<br>mutual<br>spy<br>extend |  
-| bip_39_word_new_br5 | powder<br>mutual<br>spy<br>extend<br>despair |  
-| bip_39_word_new_br6 | powder<br>mutual<br>spy<br>extend<br>despair<br>uniform |  
-| bip_39_word_new_br7 | powder<br>mutual<br>spy<br>extend<br>despair<br>uniform<br>tip |  
-| bip_39_word_new_br8 | powder<br>mutual<br>spy<br>extend<br>despair<br>uniform<br>tip<br>inflict |  
-| bip_39_word_new_br9 | powder<br>mutual<br>spy<br>extend<br>despair<br>uniform<br>tip<br>inflict<br>february |  
-| bip_39_word_new_line1 | powder |  
-| bip_39_word_new_line10 | powder
+| bip_39_word_new_br_1 | powder |  
+| bip_39_word_new_br_10 | powder<br>mutual<br>spy<br>extend<br>despair<br>uniform<br>tip<br>inflict<br>february<br>wide |  
+| bip_39_word_new_br_11 | powder<br>mutual<br>spy<br>extend<br>despair<br>uniform<br>tip<br>inflict<br>february<br>wide<br>unlock |  
+| bip_39_word_new_br_12 | powder<br>mutual<br>spy<br>extend<br>despair<br>uniform<br>tip<br>inflict<br>february<br>wide<br>unlock<br>attack |  
+| bip_39_word_new_br_2 | powder<br>mutual |  
+| bip_39_word_new_br_3 | powder<br>mutual<br>spy |  
+| bip_39_word_new_br_4 | powder<br>mutual<br>spy<br>extend |  
+| bip_39_word_new_br_5 | powder<br>mutual<br>spy<br>extend<br>despair |  
+| bip_39_word_new_br_6 | powder<br>mutual<br>spy<br>extend<br>despair<br>uniform |  
+| bip_39_word_new_br_7 | powder<br>mutual<br>spy<br>extend<br>despair<br>uniform<br>tip |  
+| bip_39_word_new_br_8 | powder<br>mutual<br>spy<br>extend<br>despair<br>uniform<br>tip<br>inflict |  
+| bip_39_word_new_br_9 | powder<br>mutual<br>spy<br>extend<br>despair<br>uniform<br>tip<br>inflict<br>february |  
+| bip_39_word_new_line_1 | powder |  
+| bip_39_word_new_line_10 | powder
 mutual
 spy
 extend
@@ -55,7 +55,7 @@ tip
 inflict
 february
 wide |  
-| bip_39_word_new_line11 | powder
+| bip_39_word_new_line_11 | powder
 mutual
 spy
 extend
@@ -66,7 +66,7 @@ inflict
 february
 wide
 unlock |  
-| bip_39_word_new_line12 | powder
+| bip_39_word_new_line_12 | powder
 mutual
 spy
 extend
@@ -78,34 +78,34 @@ february
 wide
 unlock
 attack |  
-| bip_39_word_new_line2 | powder
+| bip_39_word_new_line_2 | powder
 mutual |  
-| bip_39_word_new_line3 | powder
+| bip_39_word_new_line_3 | powder
 mutual
 spy |  
-| bip_39_word_new_line4 | powder
+| bip_39_word_new_line_4 | powder
 mutual
 spy
 extend |  
-| bip_39_word_new_line5 | powder
+| bip_39_word_new_line_5 | powder
 mutual
 spy
 extend
 despair |  
-| bip_39_word_new_line6 | powder
+| bip_39_word_new_line_6 | powder
 mutual
 spy
 extend
 despair
 uniform |  
-| bip_39_word_new_line7 | powder
+| bip_39_word_new_line_7 | powder
 mutual
 spy
 extend
 despair
 uniform
 tip |  
-| bip_39_word_new_line8 | powder
+| bip_39_word_new_line_8 | powder
 mutual
 spy
 extend
@@ -113,7 +113,7 @@ despair
 uniform
 tip
 inflict |  
-| bip_39_word_new_line9 | powder
+| bip_39_word_new_line_9 | powder
 mutual
 spy
 extend

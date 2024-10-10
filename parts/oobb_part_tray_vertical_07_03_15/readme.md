@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bullet |  
-| bip_39_word_new_br10 | bullet<br>blue<br>cement<br>acquire<br>soft<br>holiday<br>blush<br>across<br>party<br>dignity |  
-| bip_39_word_new_br11 | bullet<br>blue<br>cement<br>acquire<br>soft<br>holiday<br>blush<br>across<br>party<br>dignity<br>spoil |  
-| bip_39_word_new_br12 | bullet<br>blue<br>cement<br>acquire<br>soft<br>holiday<br>blush<br>across<br>party<br>dignity<br>spoil<br>assault |  
-| bip_39_word_new_br2 | bullet<br>blue |  
-| bip_39_word_new_br3 | bullet<br>blue<br>cement |  
-| bip_39_word_new_br4 | bullet<br>blue<br>cement<br>acquire |  
-| bip_39_word_new_br5 | bullet<br>blue<br>cement<br>acquire<br>soft |  
-| bip_39_word_new_br6 | bullet<br>blue<br>cement<br>acquire<br>soft<br>holiday |  
-| bip_39_word_new_br7 | bullet<br>blue<br>cement<br>acquire<br>soft<br>holiday<br>blush |  
-| bip_39_word_new_br8 | bullet<br>blue<br>cement<br>acquire<br>soft<br>holiday<br>blush<br>across |  
-| bip_39_word_new_br9 | bullet<br>blue<br>cement<br>acquire<br>soft<br>holiday<br>blush<br>across<br>party |  
-| bip_39_word_new_line1 | bullet |  
-| bip_39_word_new_line10 | bullet
+| bip_39_word_new_br_1 | bullet |  
+| bip_39_word_new_br_10 | bullet<br>blue<br>cement<br>acquire<br>soft<br>holiday<br>blush<br>across<br>party<br>dignity |  
+| bip_39_word_new_br_11 | bullet<br>blue<br>cement<br>acquire<br>soft<br>holiday<br>blush<br>across<br>party<br>dignity<br>spoil |  
+| bip_39_word_new_br_12 | bullet<br>blue<br>cement<br>acquire<br>soft<br>holiday<br>blush<br>across<br>party<br>dignity<br>spoil<br>assault |  
+| bip_39_word_new_br_2 | bullet<br>blue |  
+| bip_39_word_new_br_3 | bullet<br>blue<br>cement |  
+| bip_39_word_new_br_4 | bullet<br>blue<br>cement<br>acquire |  
+| bip_39_word_new_br_5 | bullet<br>blue<br>cement<br>acquire<br>soft |  
+| bip_39_word_new_br_6 | bullet<br>blue<br>cement<br>acquire<br>soft<br>holiday |  
+| bip_39_word_new_br_7 | bullet<br>blue<br>cement<br>acquire<br>soft<br>holiday<br>blush |  
+| bip_39_word_new_br_8 | bullet<br>blue<br>cement<br>acquire<br>soft<br>holiday<br>blush<br>across |  
+| bip_39_word_new_br_9 | bullet<br>blue<br>cement<br>acquire<br>soft<br>holiday<br>blush<br>across<br>party |  
+| bip_39_word_new_line_1 | bullet |  
+| bip_39_word_new_line_10 | bullet
 blue
 cement
 acquire
@@ -55,7 +55,7 @@ blush
 across
 party
 dignity |  
-| bip_39_word_new_line11 | bullet
+| bip_39_word_new_line_11 | bullet
 blue
 cement
 acquire
@@ -66,7 +66,7 @@ across
 party
 dignity
 spoil |  
-| bip_39_word_new_line12 | bullet
+| bip_39_word_new_line_12 | bullet
 blue
 cement
 acquire
@@ -78,34 +78,34 @@ party
 dignity
 spoil
 assault |  
-| bip_39_word_new_line2 | bullet
+| bip_39_word_new_line_2 | bullet
 blue |  
-| bip_39_word_new_line3 | bullet
+| bip_39_word_new_line_3 | bullet
 blue
 cement |  
-| bip_39_word_new_line4 | bullet
+| bip_39_word_new_line_4 | bullet
 blue
 cement
 acquire |  
-| bip_39_word_new_line5 | bullet
+| bip_39_word_new_line_5 | bullet
 blue
 cement
 acquire
 soft |  
-| bip_39_word_new_line6 | bullet
+| bip_39_word_new_line_6 | bullet
 blue
 cement
 acquire
 soft
 holiday |  
-| bip_39_word_new_line7 | bullet
+| bip_39_word_new_line_7 | bullet
 blue
 cement
 acquire
 soft
 holiday
 blush |  
-| bip_39_word_new_line8 | bullet
+| bip_39_word_new_line_8 | bullet
 blue
 cement
 acquire
@@ -113,7 +113,7 @@ soft
 holiday
 blush
 across |  
-| bip_39_word_new_line9 | bullet
+| bip_39_word_new_line_9 | bullet
 blue
 cement
 acquire

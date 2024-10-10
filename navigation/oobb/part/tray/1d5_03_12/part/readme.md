@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | few |  
-| bip_39_word_new_br10 | few<br>pencil<br>health<br>cook<br>appear<br>column<br>oak<br>nephew<br>cinnamon<br>leader |  
-| bip_39_word_new_br11 | few<br>pencil<br>health<br>cook<br>appear<br>column<br>oak<br>nephew<br>cinnamon<br>leader<br>spike |  
-| bip_39_word_new_br12 | few<br>pencil<br>health<br>cook<br>appear<br>column<br>oak<br>nephew<br>cinnamon<br>leader<br>spike<br>attract |  
-| bip_39_word_new_br2 | few<br>pencil |  
-| bip_39_word_new_br3 | few<br>pencil<br>health |  
-| bip_39_word_new_br4 | few<br>pencil<br>health<br>cook |  
-| bip_39_word_new_br5 | few<br>pencil<br>health<br>cook<br>appear |  
-| bip_39_word_new_br6 | few<br>pencil<br>health<br>cook<br>appear<br>column |  
-| bip_39_word_new_br7 | few<br>pencil<br>health<br>cook<br>appear<br>column<br>oak |  
-| bip_39_word_new_br8 | few<br>pencil<br>health<br>cook<br>appear<br>column<br>oak<br>nephew |  
-| bip_39_word_new_br9 | few<br>pencil<br>health<br>cook<br>appear<br>column<br>oak<br>nephew<br>cinnamon |  
-| bip_39_word_new_line1 | few |  
-| bip_39_word_new_line10 | few
+| bip_39_word_new_br_1 | few |  
+| bip_39_word_new_br_10 | few<br>pencil<br>health<br>cook<br>appear<br>column<br>oak<br>nephew<br>cinnamon<br>leader |  
+| bip_39_word_new_br_11 | few<br>pencil<br>health<br>cook<br>appear<br>column<br>oak<br>nephew<br>cinnamon<br>leader<br>spike |  
+| bip_39_word_new_br_12 | few<br>pencil<br>health<br>cook<br>appear<br>column<br>oak<br>nephew<br>cinnamon<br>leader<br>spike<br>attract |  
+| bip_39_word_new_br_2 | few<br>pencil |  
+| bip_39_word_new_br_3 | few<br>pencil<br>health |  
+| bip_39_word_new_br_4 | few<br>pencil<br>health<br>cook |  
+| bip_39_word_new_br_5 | few<br>pencil<br>health<br>cook<br>appear |  
+| bip_39_word_new_br_6 | few<br>pencil<br>health<br>cook<br>appear<br>column |  
+| bip_39_word_new_br_7 | few<br>pencil<br>health<br>cook<br>appear<br>column<br>oak |  
+| bip_39_word_new_br_8 | few<br>pencil<br>health<br>cook<br>appear<br>column<br>oak<br>nephew |  
+| bip_39_word_new_br_9 | few<br>pencil<br>health<br>cook<br>appear<br>column<br>oak<br>nephew<br>cinnamon |  
+| bip_39_word_new_line_1 | few |  
+| bip_39_word_new_line_10 | few
 pencil
 health
 cook
@@ -55,7 +55,7 @@ oak
 nephew
 cinnamon
 leader |  
-| bip_39_word_new_line11 | few
+| bip_39_word_new_line_11 | few
 pencil
 health
 cook
@@ -66,7 +66,7 @@ nephew
 cinnamon
 leader
 spike |  
-| bip_39_word_new_line12 | few
+| bip_39_word_new_line_12 | few
 pencil
 health
 cook
@@ -78,34 +78,34 @@ cinnamon
 leader
 spike
 attract |  
-| bip_39_word_new_line2 | few
+| bip_39_word_new_line_2 | few
 pencil |  
-| bip_39_word_new_line3 | few
+| bip_39_word_new_line_3 | few
 pencil
 health |  
-| bip_39_word_new_line4 | few
+| bip_39_word_new_line_4 | few
 pencil
 health
 cook |  
-| bip_39_word_new_line5 | few
+| bip_39_word_new_line_5 | few
 pencil
 health
 cook
 appear |  
-| bip_39_word_new_line6 | few
+| bip_39_word_new_line_6 | few
 pencil
 health
 cook
 appear
 column |  
-| bip_39_word_new_line7 | few
+| bip_39_word_new_line_7 | few
 pencil
 health
 cook
 appear
 column
 oak |  
-| bip_39_word_new_line8 | few
+| bip_39_word_new_line_8 | few
 pencil
 health
 cook
@@ -113,7 +113,7 @@ appear
 column
 oak
 nephew |  
-| bip_39_word_new_line9 | few
+| bip_39_word_new_line_9 | few
 pencil
 health
 cook

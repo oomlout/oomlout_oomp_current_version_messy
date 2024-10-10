@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | update |  
-| bip_39_word_new_br10 | update<br>level<br>fragile<br>visa<br>absorb<br>miracle<br>tail<br>bean<br>analyst<br>west |  
-| bip_39_word_new_br11 | update<br>level<br>fragile<br>visa<br>absorb<br>miracle<br>tail<br>bean<br>analyst<br>west<br>expire |  
-| bip_39_word_new_br12 | update<br>level<br>fragile<br>visa<br>absorb<br>miracle<br>tail<br>bean<br>analyst<br>west<br>expire<br>assist |  
-| bip_39_word_new_br2 | update<br>level |  
-| bip_39_word_new_br3 | update<br>level<br>fragile |  
-| bip_39_word_new_br4 | update<br>level<br>fragile<br>visa |  
-| bip_39_word_new_br5 | update<br>level<br>fragile<br>visa<br>absorb |  
-| bip_39_word_new_br6 | update<br>level<br>fragile<br>visa<br>absorb<br>miracle |  
-| bip_39_word_new_br7 | update<br>level<br>fragile<br>visa<br>absorb<br>miracle<br>tail |  
-| bip_39_word_new_br8 | update<br>level<br>fragile<br>visa<br>absorb<br>miracle<br>tail<br>bean |  
-| bip_39_word_new_br9 | update<br>level<br>fragile<br>visa<br>absorb<br>miracle<br>tail<br>bean<br>analyst |  
-| bip_39_word_new_line1 | update |  
-| bip_39_word_new_line10 | update
+| bip_39_word_new_br_1 | update |  
+| bip_39_word_new_br_10 | update<br>level<br>fragile<br>visa<br>absorb<br>miracle<br>tail<br>bean<br>analyst<br>west |  
+| bip_39_word_new_br_11 | update<br>level<br>fragile<br>visa<br>absorb<br>miracle<br>tail<br>bean<br>analyst<br>west<br>expire |  
+| bip_39_word_new_br_12 | update<br>level<br>fragile<br>visa<br>absorb<br>miracle<br>tail<br>bean<br>analyst<br>west<br>expire<br>assist |  
+| bip_39_word_new_br_2 | update<br>level |  
+| bip_39_word_new_br_3 | update<br>level<br>fragile |  
+| bip_39_word_new_br_4 | update<br>level<br>fragile<br>visa |  
+| bip_39_word_new_br_5 | update<br>level<br>fragile<br>visa<br>absorb |  
+| bip_39_word_new_br_6 | update<br>level<br>fragile<br>visa<br>absorb<br>miracle |  
+| bip_39_word_new_br_7 | update<br>level<br>fragile<br>visa<br>absorb<br>miracle<br>tail |  
+| bip_39_word_new_br_8 | update<br>level<br>fragile<br>visa<br>absorb<br>miracle<br>tail<br>bean |  
+| bip_39_word_new_br_9 | update<br>level<br>fragile<br>visa<br>absorb<br>miracle<br>tail<br>bean<br>analyst |  
+| bip_39_word_new_line_1 | update |  
+| bip_39_word_new_line_10 | update
 level
 fragile
 visa
@@ -55,7 +55,7 @@ tail
 bean
 analyst
 west |  
-| bip_39_word_new_line11 | update
+| bip_39_word_new_line_11 | update
 level
 fragile
 visa
@@ -66,7 +66,7 @@ bean
 analyst
 west
 expire |  
-| bip_39_word_new_line12 | update
+| bip_39_word_new_line_12 | update
 level
 fragile
 visa
@@ -78,34 +78,34 @@ analyst
 west
 expire
 assist |  
-| bip_39_word_new_line2 | update
+| bip_39_word_new_line_2 | update
 level |  
-| bip_39_word_new_line3 | update
+| bip_39_word_new_line_3 | update
 level
 fragile |  
-| bip_39_word_new_line4 | update
+| bip_39_word_new_line_4 | update
 level
 fragile
 visa |  
-| bip_39_word_new_line5 | update
+| bip_39_word_new_line_5 | update
 level
 fragile
 visa
 absorb |  
-| bip_39_word_new_line6 | update
+| bip_39_word_new_line_6 | update
 level
 fragile
 visa
 absorb
 miracle |  
-| bip_39_word_new_line7 | update
+| bip_39_word_new_line_7 | update
 level
 fragile
 visa
 absorb
 miracle
 tail |  
-| bip_39_word_new_line8 | update
+| bip_39_word_new_line_8 | update
 level
 fragile
 visa
@@ -113,7 +113,7 @@ absorb
 miracle
 tail
 bean |  
-| bip_39_word_new_line9 | update
+| bip_39_word_new_line_9 | update
 level
 fragile
 visa

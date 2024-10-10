@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fatal |  
-| bip_39_word_new_br10 | fatal<br>silver<br>slot<br>gasp<br>simple<br>orbit<br>quit<br>neck<br>large<br>seven |  
-| bip_39_word_new_br11 | fatal<br>silver<br>slot<br>gasp<br>simple<br>orbit<br>quit<br>neck<br>large<br>seven<br>help |  
-| bip_39_word_new_br12 | fatal<br>silver<br>slot<br>gasp<br>simple<br>orbit<br>quit<br>neck<br>large<br>seven<br>help<br>another |  
-| bip_39_word_new_br2 | fatal<br>silver |  
-| bip_39_word_new_br3 | fatal<br>silver<br>slot |  
-| bip_39_word_new_br4 | fatal<br>silver<br>slot<br>gasp |  
-| bip_39_word_new_br5 | fatal<br>silver<br>slot<br>gasp<br>simple |  
-| bip_39_word_new_br6 | fatal<br>silver<br>slot<br>gasp<br>simple<br>orbit |  
-| bip_39_word_new_br7 | fatal<br>silver<br>slot<br>gasp<br>simple<br>orbit<br>quit |  
-| bip_39_word_new_br8 | fatal<br>silver<br>slot<br>gasp<br>simple<br>orbit<br>quit<br>neck |  
-| bip_39_word_new_br9 | fatal<br>silver<br>slot<br>gasp<br>simple<br>orbit<br>quit<br>neck<br>large |  
-| bip_39_word_new_line1 | fatal |  
-| bip_39_word_new_line10 | fatal
+| bip_39_word_new_br_1 | fatal |  
+| bip_39_word_new_br_10 | fatal<br>silver<br>slot<br>gasp<br>simple<br>orbit<br>quit<br>neck<br>large<br>seven |  
+| bip_39_word_new_br_11 | fatal<br>silver<br>slot<br>gasp<br>simple<br>orbit<br>quit<br>neck<br>large<br>seven<br>help |  
+| bip_39_word_new_br_12 | fatal<br>silver<br>slot<br>gasp<br>simple<br>orbit<br>quit<br>neck<br>large<br>seven<br>help<br>another |  
+| bip_39_word_new_br_2 | fatal<br>silver |  
+| bip_39_word_new_br_3 | fatal<br>silver<br>slot |  
+| bip_39_word_new_br_4 | fatal<br>silver<br>slot<br>gasp |  
+| bip_39_word_new_br_5 | fatal<br>silver<br>slot<br>gasp<br>simple |  
+| bip_39_word_new_br_6 | fatal<br>silver<br>slot<br>gasp<br>simple<br>orbit |  
+| bip_39_word_new_br_7 | fatal<br>silver<br>slot<br>gasp<br>simple<br>orbit<br>quit |  
+| bip_39_word_new_br_8 | fatal<br>silver<br>slot<br>gasp<br>simple<br>orbit<br>quit<br>neck |  
+| bip_39_word_new_br_9 | fatal<br>silver<br>slot<br>gasp<br>simple<br>orbit<br>quit<br>neck<br>large |  
+| bip_39_word_new_line_1 | fatal |  
+| bip_39_word_new_line_10 | fatal
 silver
 slot
 gasp
@@ -55,7 +55,7 @@ quit
 neck
 large
 seven |  
-| bip_39_word_new_line11 | fatal
+| bip_39_word_new_line_11 | fatal
 silver
 slot
 gasp
@@ -66,7 +66,7 @@ neck
 large
 seven
 help |  
-| bip_39_word_new_line12 | fatal
+| bip_39_word_new_line_12 | fatal
 silver
 slot
 gasp
@@ -78,34 +78,34 @@ large
 seven
 help
 another |  
-| bip_39_word_new_line2 | fatal
+| bip_39_word_new_line_2 | fatal
 silver |  
-| bip_39_word_new_line3 | fatal
+| bip_39_word_new_line_3 | fatal
 silver
 slot |  
-| bip_39_word_new_line4 | fatal
+| bip_39_word_new_line_4 | fatal
 silver
 slot
 gasp |  
-| bip_39_word_new_line5 | fatal
+| bip_39_word_new_line_5 | fatal
 silver
 slot
 gasp
 simple |  
-| bip_39_word_new_line6 | fatal
+| bip_39_word_new_line_6 | fatal
 silver
 slot
 gasp
 simple
 orbit |  
-| bip_39_word_new_line7 | fatal
+| bip_39_word_new_line_7 | fatal
 silver
 slot
 gasp
 simple
 orbit
 quit |  
-| bip_39_word_new_line8 | fatal
+| bip_39_word_new_line_8 | fatal
 silver
 slot
 gasp
@@ -113,7 +113,7 @@ simple
 orbit
 quit
 neck |  
-| bip_39_word_new_line9 | fatal
+| bip_39_word_new_line_9 | fatal
 silver
 slot
 gasp

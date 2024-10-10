@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | smart |  
-| bip_39_word_new_br10 | smart<br>cost<br>joke<br>spike<br>stem<br>sustain<br>wagon<br>decorate<br>word<br>random |  
-| bip_39_word_new_br11 | smart<br>cost<br>joke<br>spike<br>stem<br>sustain<br>wagon<br>decorate<br>word<br>random<br>cause |  
-| bip_39_word_new_br12 | smart<br>cost<br>joke<br>spike<br>stem<br>sustain<br>wagon<br>decorate<br>word<br>random<br>cause<br>author |  
-| bip_39_word_new_br2 | smart<br>cost |  
-| bip_39_word_new_br3 | smart<br>cost<br>joke |  
-| bip_39_word_new_br4 | smart<br>cost<br>joke<br>spike |  
-| bip_39_word_new_br5 | smart<br>cost<br>joke<br>spike<br>stem |  
-| bip_39_word_new_br6 | smart<br>cost<br>joke<br>spike<br>stem<br>sustain |  
-| bip_39_word_new_br7 | smart<br>cost<br>joke<br>spike<br>stem<br>sustain<br>wagon |  
-| bip_39_word_new_br8 | smart<br>cost<br>joke<br>spike<br>stem<br>sustain<br>wagon<br>decorate |  
-| bip_39_word_new_br9 | smart<br>cost<br>joke<br>spike<br>stem<br>sustain<br>wagon<br>decorate<br>word |  
-| bip_39_word_new_line1 | smart |  
-| bip_39_word_new_line10 | smart
+| bip_39_word_new_br_1 | smart |  
+| bip_39_word_new_br_10 | smart<br>cost<br>joke<br>spike<br>stem<br>sustain<br>wagon<br>decorate<br>word<br>random |  
+| bip_39_word_new_br_11 | smart<br>cost<br>joke<br>spike<br>stem<br>sustain<br>wagon<br>decorate<br>word<br>random<br>cause |  
+| bip_39_word_new_br_12 | smart<br>cost<br>joke<br>spike<br>stem<br>sustain<br>wagon<br>decorate<br>word<br>random<br>cause<br>author |  
+| bip_39_word_new_br_2 | smart<br>cost |  
+| bip_39_word_new_br_3 | smart<br>cost<br>joke |  
+| bip_39_word_new_br_4 | smart<br>cost<br>joke<br>spike |  
+| bip_39_word_new_br_5 | smart<br>cost<br>joke<br>spike<br>stem |  
+| bip_39_word_new_br_6 | smart<br>cost<br>joke<br>spike<br>stem<br>sustain |  
+| bip_39_word_new_br_7 | smart<br>cost<br>joke<br>spike<br>stem<br>sustain<br>wagon |  
+| bip_39_word_new_br_8 | smart<br>cost<br>joke<br>spike<br>stem<br>sustain<br>wagon<br>decorate |  
+| bip_39_word_new_br_9 | smart<br>cost<br>joke<br>spike<br>stem<br>sustain<br>wagon<br>decorate<br>word |  
+| bip_39_word_new_line_1 | smart |  
+| bip_39_word_new_line_10 | smart
 cost
 joke
 spike
@@ -55,7 +55,7 @@ wagon
 decorate
 word
 random |  
-| bip_39_word_new_line11 | smart
+| bip_39_word_new_line_11 | smart
 cost
 joke
 spike
@@ -66,7 +66,7 @@ decorate
 word
 random
 cause |  
-| bip_39_word_new_line12 | smart
+| bip_39_word_new_line_12 | smart
 cost
 joke
 spike
@@ -78,34 +78,34 @@ word
 random
 cause
 author |  
-| bip_39_word_new_line2 | smart
+| bip_39_word_new_line_2 | smart
 cost |  
-| bip_39_word_new_line3 | smart
+| bip_39_word_new_line_3 | smart
 cost
 joke |  
-| bip_39_word_new_line4 | smart
+| bip_39_word_new_line_4 | smart
 cost
 joke
 spike |  
-| bip_39_word_new_line5 | smart
+| bip_39_word_new_line_5 | smart
 cost
 joke
 spike
 stem |  
-| bip_39_word_new_line6 | smart
+| bip_39_word_new_line_6 | smart
 cost
 joke
 spike
 stem
 sustain |  
-| bip_39_word_new_line7 | smart
+| bip_39_word_new_line_7 | smart
 cost
 joke
 spike
 stem
 sustain
 wagon |  
-| bip_39_word_new_line8 | smart
+| bip_39_word_new_line_8 | smart
 cost
 joke
 spike
@@ -113,7 +113,7 @@ stem
 sustain
 wagon
 decorate |  
-| bip_39_word_new_line9 | smart
+| bip_39_word_new_line_9 | smart
 cost
 joke
 spike

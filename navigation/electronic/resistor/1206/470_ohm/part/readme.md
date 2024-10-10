@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | brass |  
-| bip_39_word_new_br10 | brass<br>relief<br>cannon<br>farm<br>gather<br>wedding<br>basic<br>grocery<br>sick<br>energy |  
-| bip_39_word_new_br11 | brass<br>relief<br>cannon<br>farm<br>gather<br>wedding<br>basic<br>grocery<br>sick<br>energy<br>tumble |  
-| bip_39_word_new_br12 | brass<br>relief<br>cannon<br>farm<br>gather<br>wedding<br>basic<br>grocery<br>sick<br>energy<br>tumble<br>artefact |  
-| bip_39_word_new_br2 | brass<br>relief |  
-| bip_39_word_new_br3 | brass<br>relief<br>cannon |  
-| bip_39_word_new_br4 | brass<br>relief<br>cannon<br>farm |  
-| bip_39_word_new_br5 | brass<br>relief<br>cannon<br>farm<br>gather |  
-| bip_39_word_new_br6 | brass<br>relief<br>cannon<br>farm<br>gather<br>wedding |  
-| bip_39_word_new_br7 | brass<br>relief<br>cannon<br>farm<br>gather<br>wedding<br>basic |  
-| bip_39_word_new_br8 | brass<br>relief<br>cannon<br>farm<br>gather<br>wedding<br>basic<br>grocery |  
-| bip_39_word_new_br9 | brass<br>relief<br>cannon<br>farm<br>gather<br>wedding<br>basic<br>grocery<br>sick |  
-| bip_39_word_new_line1 | brass |  
-| bip_39_word_new_line10 | brass
+| bip_39_word_new_br_1 | brass |  
+| bip_39_word_new_br_10 | brass<br>relief<br>cannon<br>farm<br>gather<br>wedding<br>basic<br>grocery<br>sick<br>energy |  
+| bip_39_word_new_br_11 | brass<br>relief<br>cannon<br>farm<br>gather<br>wedding<br>basic<br>grocery<br>sick<br>energy<br>tumble |  
+| bip_39_word_new_br_12 | brass<br>relief<br>cannon<br>farm<br>gather<br>wedding<br>basic<br>grocery<br>sick<br>energy<br>tumble<br>artefact |  
+| bip_39_word_new_br_2 | brass<br>relief |  
+| bip_39_word_new_br_3 | brass<br>relief<br>cannon |  
+| bip_39_word_new_br_4 | brass<br>relief<br>cannon<br>farm |  
+| bip_39_word_new_br_5 | brass<br>relief<br>cannon<br>farm<br>gather |  
+| bip_39_word_new_br_6 | brass<br>relief<br>cannon<br>farm<br>gather<br>wedding |  
+| bip_39_word_new_br_7 | brass<br>relief<br>cannon<br>farm<br>gather<br>wedding<br>basic |  
+| bip_39_word_new_br_8 | brass<br>relief<br>cannon<br>farm<br>gather<br>wedding<br>basic<br>grocery |  
+| bip_39_word_new_br_9 | brass<br>relief<br>cannon<br>farm<br>gather<br>wedding<br>basic<br>grocery<br>sick |  
+| bip_39_word_new_line_1 | brass |  
+| bip_39_word_new_line_10 | brass
 relief
 cannon
 farm
@@ -55,7 +55,7 @@ basic
 grocery
 sick
 energy |  
-| bip_39_word_new_line11 | brass
+| bip_39_word_new_line_11 | brass
 relief
 cannon
 farm
@@ -66,7 +66,7 @@ grocery
 sick
 energy
 tumble |  
-| bip_39_word_new_line12 | brass
+| bip_39_word_new_line_12 | brass
 relief
 cannon
 farm
@@ -78,34 +78,34 @@ sick
 energy
 tumble
 artefact |  
-| bip_39_word_new_line2 | brass
+| bip_39_word_new_line_2 | brass
 relief |  
-| bip_39_word_new_line3 | brass
+| bip_39_word_new_line_3 | brass
 relief
 cannon |  
-| bip_39_word_new_line4 | brass
+| bip_39_word_new_line_4 | brass
 relief
 cannon
 farm |  
-| bip_39_word_new_line5 | brass
+| bip_39_word_new_line_5 | brass
 relief
 cannon
 farm
 gather |  
-| bip_39_word_new_line6 | brass
+| bip_39_word_new_line_6 | brass
 relief
 cannon
 farm
 gather
 wedding |  
-| bip_39_word_new_line7 | brass
+| bip_39_word_new_line_7 | brass
 relief
 cannon
 farm
 gather
 wedding
 basic |  
-| bip_39_word_new_line8 | brass
+| bip_39_word_new_line_8 | brass
 relief
 cannon
 farm
@@ -113,7 +113,7 @@ gather
 wedding
 basic
 grocery |  
-| bip_39_word_new_line9 | brass
+| bip_39_word_new_line_9 | brass
 relief
 cannon
 farm

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | doctor |  
-| bip_39_word_new_br10 | doctor<br>much<br>buyer<br>easily<br>call<br>turn<br>use<br>call<br>meat<br>earn |  
-| bip_39_word_new_br11 | doctor<br>much<br>buyer<br>easily<br>call<br>turn<br>use<br>call<br>meat<br>earn<br>heavy |  
-| bip_39_word_new_br12 | doctor<br>much<br>buyer<br>easily<br>call<br>turn<br>use<br>call<br>meat<br>earn<br>heavy<br>animal |  
-| bip_39_word_new_br2 | doctor<br>much |  
-| bip_39_word_new_br3 | doctor<br>much<br>buyer |  
-| bip_39_word_new_br4 | doctor<br>much<br>buyer<br>easily |  
-| bip_39_word_new_br5 | doctor<br>much<br>buyer<br>easily<br>call |  
-| bip_39_word_new_br6 | doctor<br>much<br>buyer<br>easily<br>call<br>turn |  
-| bip_39_word_new_br7 | doctor<br>much<br>buyer<br>easily<br>call<br>turn<br>use |  
-| bip_39_word_new_br8 | doctor<br>much<br>buyer<br>easily<br>call<br>turn<br>use<br>call |  
-| bip_39_word_new_br9 | doctor<br>much<br>buyer<br>easily<br>call<br>turn<br>use<br>call<br>meat |  
-| bip_39_word_new_line1 | doctor |  
-| bip_39_word_new_line10 | doctor
+| bip_39_word_new_br_1 | doctor |  
+| bip_39_word_new_br_10 | doctor<br>much<br>buyer<br>easily<br>call<br>turn<br>use<br>call<br>meat<br>earn |  
+| bip_39_word_new_br_11 | doctor<br>much<br>buyer<br>easily<br>call<br>turn<br>use<br>call<br>meat<br>earn<br>heavy |  
+| bip_39_word_new_br_12 | doctor<br>much<br>buyer<br>easily<br>call<br>turn<br>use<br>call<br>meat<br>earn<br>heavy<br>animal |  
+| bip_39_word_new_br_2 | doctor<br>much |  
+| bip_39_word_new_br_3 | doctor<br>much<br>buyer |  
+| bip_39_word_new_br_4 | doctor<br>much<br>buyer<br>easily |  
+| bip_39_word_new_br_5 | doctor<br>much<br>buyer<br>easily<br>call |  
+| bip_39_word_new_br_6 | doctor<br>much<br>buyer<br>easily<br>call<br>turn |  
+| bip_39_word_new_br_7 | doctor<br>much<br>buyer<br>easily<br>call<br>turn<br>use |  
+| bip_39_word_new_br_8 | doctor<br>much<br>buyer<br>easily<br>call<br>turn<br>use<br>call |  
+| bip_39_word_new_br_9 | doctor<br>much<br>buyer<br>easily<br>call<br>turn<br>use<br>call<br>meat |  
+| bip_39_word_new_line_1 | doctor |  
+| bip_39_word_new_line_10 | doctor
 much
 buyer
 easily
@@ -55,7 +55,7 @@ use
 call
 meat
 earn |  
-| bip_39_word_new_line11 | doctor
+| bip_39_word_new_line_11 | doctor
 much
 buyer
 easily
@@ -66,7 +66,7 @@ call
 meat
 earn
 heavy |  
-| bip_39_word_new_line12 | doctor
+| bip_39_word_new_line_12 | doctor
 much
 buyer
 easily
@@ -78,34 +78,34 @@ meat
 earn
 heavy
 animal |  
-| bip_39_word_new_line2 | doctor
+| bip_39_word_new_line_2 | doctor
 much |  
-| bip_39_word_new_line3 | doctor
+| bip_39_word_new_line_3 | doctor
 much
 buyer |  
-| bip_39_word_new_line4 | doctor
+| bip_39_word_new_line_4 | doctor
 much
 buyer
 easily |  
-| bip_39_word_new_line5 | doctor
+| bip_39_word_new_line_5 | doctor
 much
 buyer
 easily
 call |  
-| bip_39_word_new_line6 | doctor
+| bip_39_word_new_line_6 | doctor
 much
 buyer
 easily
 call
 turn |  
-| bip_39_word_new_line7 | doctor
+| bip_39_word_new_line_7 | doctor
 much
 buyer
 easily
 call
 turn
 use |  
-| bip_39_word_new_line8 | doctor
+| bip_39_word_new_line_8 | doctor
 much
 buyer
 easily
@@ -113,7 +113,7 @@ call
 turn
 use
 call |  
-| bip_39_word_new_line9 | doctor
+| bip_39_word_new_line_9 | doctor
 much
 buyer
 easily

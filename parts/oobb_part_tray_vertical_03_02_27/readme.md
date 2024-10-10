@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | file |  
-| bip_39_word_new_br10 | file<br>pitch<br>minute<br>false<br>fish<br>census<br>rug<br>weekend<br>tragic<br>erase |  
-| bip_39_word_new_br11 | file<br>pitch<br>minute<br>false<br>fish<br>census<br>rug<br>weekend<br>tragic<br>erase<br>grunt |  
-| bip_39_word_new_br12 | file<br>pitch<br>minute<br>false<br>fish<br>census<br>rug<br>weekend<br>tragic<br>erase<br>grunt<br>artefact |  
-| bip_39_word_new_br2 | file<br>pitch |  
-| bip_39_word_new_br3 | file<br>pitch<br>minute |  
-| bip_39_word_new_br4 | file<br>pitch<br>minute<br>false |  
-| bip_39_word_new_br5 | file<br>pitch<br>minute<br>false<br>fish |  
-| bip_39_word_new_br6 | file<br>pitch<br>minute<br>false<br>fish<br>census |  
-| bip_39_word_new_br7 | file<br>pitch<br>minute<br>false<br>fish<br>census<br>rug |  
-| bip_39_word_new_br8 | file<br>pitch<br>minute<br>false<br>fish<br>census<br>rug<br>weekend |  
-| bip_39_word_new_br9 | file<br>pitch<br>minute<br>false<br>fish<br>census<br>rug<br>weekend<br>tragic |  
-| bip_39_word_new_line1 | file |  
-| bip_39_word_new_line10 | file
+| bip_39_word_new_br_1 | file |  
+| bip_39_word_new_br_10 | file<br>pitch<br>minute<br>false<br>fish<br>census<br>rug<br>weekend<br>tragic<br>erase |  
+| bip_39_word_new_br_11 | file<br>pitch<br>minute<br>false<br>fish<br>census<br>rug<br>weekend<br>tragic<br>erase<br>grunt |  
+| bip_39_word_new_br_12 | file<br>pitch<br>minute<br>false<br>fish<br>census<br>rug<br>weekend<br>tragic<br>erase<br>grunt<br>artefact |  
+| bip_39_word_new_br_2 | file<br>pitch |  
+| bip_39_word_new_br_3 | file<br>pitch<br>minute |  
+| bip_39_word_new_br_4 | file<br>pitch<br>minute<br>false |  
+| bip_39_word_new_br_5 | file<br>pitch<br>minute<br>false<br>fish |  
+| bip_39_word_new_br_6 | file<br>pitch<br>minute<br>false<br>fish<br>census |  
+| bip_39_word_new_br_7 | file<br>pitch<br>minute<br>false<br>fish<br>census<br>rug |  
+| bip_39_word_new_br_8 | file<br>pitch<br>minute<br>false<br>fish<br>census<br>rug<br>weekend |  
+| bip_39_word_new_br_9 | file<br>pitch<br>minute<br>false<br>fish<br>census<br>rug<br>weekend<br>tragic |  
+| bip_39_word_new_line_1 | file |  
+| bip_39_word_new_line_10 | file
 pitch
 minute
 false
@@ -55,7 +55,7 @@ rug
 weekend
 tragic
 erase |  
-| bip_39_word_new_line11 | file
+| bip_39_word_new_line_11 | file
 pitch
 minute
 false
@@ -66,7 +66,7 @@ weekend
 tragic
 erase
 grunt |  
-| bip_39_word_new_line12 | file
+| bip_39_word_new_line_12 | file
 pitch
 minute
 false
@@ -78,34 +78,34 @@ tragic
 erase
 grunt
 artefact |  
-| bip_39_word_new_line2 | file
+| bip_39_word_new_line_2 | file
 pitch |  
-| bip_39_word_new_line3 | file
+| bip_39_word_new_line_3 | file
 pitch
 minute |  
-| bip_39_word_new_line4 | file
+| bip_39_word_new_line_4 | file
 pitch
 minute
 false |  
-| bip_39_word_new_line5 | file
+| bip_39_word_new_line_5 | file
 pitch
 minute
 false
 fish |  
-| bip_39_word_new_line6 | file
+| bip_39_word_new_line_6 | file
 pitch
 minute
 false
 fish
 census |  
-| bip_39_word_new_line7 | file
+| bip_39_word_new_line_7 | file
 pitch
 minute
 false
 fish
 census
 rug |  
-| bip_39_word_new_line8 | file
+| bip_39_word_new_line_8 | file
 pitch
 minute
 false
@@ -113,7 +113,7 @@ fish
 census
 rug
 weekend |  
-| bip_39_word_new_line9 | file
+| bip_39_word_new_line_9 | file
 pitch
 minute
 false

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | better |  
-| bip_39_word_new_br10 | better<br>dry<br>fiscal<br>anchor<br>tail<br>skull<br>tuition<br>grocery<br>lesson<br>usual |  
-| bip_39_word_new_br11 | better<br>dry<br>fiscal<br>anchor<br>tail<br>skull<br>tuition<br>grocery<br>lesson<br>usual<br>recall |  
-| bip_39_word_new_br12 | better<br>dry<br>fiscal<br>anchor<br>tail<br>skull<br>tuition<br>grocery<br>lesson<br>usual<br>recall<br>asthma |  
-| bip_39_word_new_br2 | better<br>dry |  
-| bip_39_word_new_br3 | better<br>dry<br>fiscal |  
-| bip_39_word_new_br4 | better<br>dry<br>fiscal<br>anchor |  
-| bip_39_word_new_br5 | better<br>dry<br>fiscal<br>anchor<br>tail |  
-| bip_39_word_new_br6 | better<br>dry<br>fiscal<br>anchor<br>tail<br>skull |  
-| bip_39_word_new_br7 | better<br>dry<br>fiscal<br>anchor<br>tail<br>skull<br>tuition |  
-| bip_39_word_new_br8 | better<br>dry<br>fiscal<br>anchor<br>tail<br>skull<br>tuition<br>grocery |  
-| bip_39_word_new_br9 | better<br>dry<br>fiscal<br>anchor<br>tail<br>skull<br>tuition<br>grocery<br>lesson |  
-| bip_39_word_new_line1 | better |  
-| bip_39_word_new_line10 | better
+| bip_39_word_new_br_1 | better |  
+| bip_39_word_new_br_10 | better<br>dry<br>fiscal<br>anchor<br>tail<br>skull<br>tuition<br>grocery<br>lesson<br>usual |  
+| bip_39_word_new_br_11 | better<br>dry<br>fiscal<br>anchor<br>tail<br>skull<br>tuition<br>grocery<br>lesson<br>usual<br>recall |  
+| bip_39_word_new_br_12 | better<br>dry<br>fiscal<br>anchor<br>tail<br>skull<br>tuition<br>grocery<br>lesson<br>usual<br>recall<br>asthma |  
+| bip_39_word_new_br_2 | better<br>dry |  
+| bip_39_word_new_br_3 | better<br>dry<br>fiscal |  
+| bip_39_word_new_br_4 | better<br>dry<br>fiscal<br>anchor |  
+| bip_39_word_new_br_5 | better<br>dry<br>fiscal<br>anchor<br>tail |  
+| bip_39_word_new_br_6 | better<br>dry<br>fiscal<br>anchor<br>tail<br>skull |  
+| bip_39_word_new_br_7 | better<br>dry<br>fiscal<br>anchor<br>tail<br>skull<br>tuition |  
+| bip_39_word_new_br_8 | better<br>dry<br>fiscal<br>anchor<br>tail<br>skull<br>tuition<br>grocery |  
+| bip_39_word_new_br_9 | better<br>dry<br>fiscal<br>anchor<br>tail<br>skull<br>tuition<br>grocery<br>lesson |  
+| bip_39_word_new_line_1 | better |  
+| bip_39_word_new_line_10 | better
 dry
 fiscal
 anchor
@@ -55,7 +55,7 @@ tuition
 grocery
 lesson
 usual |  
-| bip_39_word_new_line11 | better
+| bip_39_word_new_line_11 | better
 dry
 fiscal
 anchor
@@ -66,7 +66,7 @@ grocery
 lesson
 usual
 recall |  
-| bip_39_word_new_line12 | better
+| bip_39_word_new_line_12 | better
 dry
 fiscal
 anchor
@@ -78,34 +78,34 @@ lesson
 usual
 recall
 asthma |  
-| bip_39_word_new_line2 | better
+| bip_39_word_new_line_2 | better
 dry |  
-| bip_39_word_new_line3 | better
+| bip_39_word_new_line_3 | better
 dry
 fiscal |  
-| bip_39_word_new_line4 | better
+| bip_39_word_new_line_4 | better
 dry
 fiscal
 anchor |  
-| bip_39_word_new_line5 | better
+| bip_39_word_new_line_5 | better
 dry
 fiscal
 anchor
 tail |  
-| bip_39_word_new_line6 | better
+| bip_39_word_new_line_6 | better
 dry
 fiscal
 anchor
 tail
 skull |  
-| bip_39_word_new_line7 | better
+| bip_39_word_new_line_7 | better
 dry
 fiscal
 anchor
 tail
 skull
 tuition |  
-| bip_39_word_new_line8 | better
+| bip_39_word_new_line_8 | better
 dry
 fiscal
 anchor
@@ -113,7 +113,7 @@ tail
 skull
 tuition
 grocery |  
-| bip_39_word_new_line9 | better
+| bip_39_word_new_line_9 | better
 dry
 fiscal
 anchor

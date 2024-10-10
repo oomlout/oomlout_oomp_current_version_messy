@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | leopard |  
-| bip_39_word_new_br10 | leopard<br>scheme<br>only<br>grant<br>swamp<br>quote<br>thunder<br>donate<br>company<br>such |  
-| bip_39_word_new_br11 | leopard<br>scheme<br>only<br>grant<br>swamp<br>quote<br>thunder<br>donate<br>company<br>such<br>pet |  
-| bip_39_word_new_br12 | leopard<br>scheme<br>only<br>grant<br>swamp<br>quote<br>thunder<br>donate<br>company<br>such<br>pet<br>always |  
-| bip_39_word_new_br2 | leopard<br>scheme |  
-| bip_39_word_new_br3 | leopard<br>scheme<br>only |  
-| bip_39_word_new_br4 | leopard<br>scheme<br>only<br>grant |  
-| bip_39_word_new_br5 | leopard<br>scheme<br>only<br>grant<br>swamp |  
-| bip_39_word_new_br6 | leopard<br>scheme<br>only<br>grant<br>swamp<br>quote |  
-| bip_39_word_new_br7 | leopard<br>scheme<br>only<br>grant<br>swamp<br>quote<br>thunder |  
-| bip_39_word_new_br8 | leopard<br>scheme<br>only<br>grant<br>swamp<br>quote<br>thunder<br>donate |  
-| bip_39_word_new_br9 | leopard<br>scheme<br>only<br>grant<br>swamp<br>quote<br>thunder<br>donate<br>company |  
-| bip_39_word_new_line1 | leopard |  
-| bip_39_word_new_line10 | leopard
+| bip_39_word_new_br_1 | leopard |  
+| bip_39_word_new_br_10 | leopard<br>scheme<br>only<br>grant<br>swamp<br>quote<br>thunder<br>donate<br>company<br>such |  
+| bip_39_word_new_br_11 | leopard<br>scheme<br>only<br>grant<br>swamp<br>quote<br>thunder<br>donate<br>company<br>such<br>pet |  
+| bip_39_word_new_br_12 | leopard<br>scheme<br>only<br>grant<br>swamp<br>quote<br>thunder<br>donate<br>company<br>such<br>pet<br>always |  
+| bip_39_word_new_br_2 | leopard<br>scheme |  
+| bip_39_word_new_br_3 | leopard<br>scheme<br>only |  
+| bip_39_word_new_br_4 | leopard<br>scheme<br>only<br>grant |  
+| bip_39_word_new_br_5 | leopard<br>scheme<br>only<br>grant<br>swamp |  
+| bip_39_word_new_br_6 | leopard<br>scheme<br>only<br>grant<br>swamp<br>quote |  
+| bip_39_word_new_br_7 | leopard<br>scheme<br>only<br>grant<br>swamp<br>quote<br>thunder |  
+| bip_39_word_new_br_8 | leopard<br>scheme<br>only<br>grant<br>swamp<br>quote<br>thunder<br>donate |  
+| bip_39_word_new_br_9 | leopard<br>scheme<br>only<br>grant<br>swamp<br>quote<br>thunder<br>donate<br>company |  
+| bip_39_word_new_line_1 | leopard |  
+| bip_39_word_new_line_10 | leopard
 scheme
 only
 grant
@@ -55,7 +55,7 @@ thunder
 donate
 company
 such |  
-| bip_39_word_new_line11 | leopard
+| bip_39_word_new_line_11 | leopard
 scheme
 only
 grant
@@ -66,7 +66,7 @@ donate
 company
 such
 pet |  
-| bip_39_word_new_line12 | leopard
+| bip_39_word_new_line_12 | leopard
 scheme
 only
 grant
@@ -78,34 +78,34 @@ company
 such
 pet
 always |  
-| bip_39_word_new_line2 | leopard
+| bip_39_word_new_line_2 | leopard
 scheme |  
-| bip_39_word_new_line3 | leopard
+| bip_39_word_new_line_3 | leopard
 scheme
 only |  
-| bip_39_word_new_line4 | leopard
+| bip_39_word_new_line_4 | leopard
 scheme
 only
 grant |  
-| bip_39_word_new_line5 | leopard
+| bip_39_word_new_line_5 | leopard
 scheme
 only
 grant
 swamp |  
-| bip_39_word_new_line6 | leopard
+| bip_39_word_new_line_6 | leopard
 scheme
 only
 grant
 swamp
 quote |  
-| bip_39_word_new_line7 | leopard
+| bip_39_word_new_line_7 | leopard
 scheme
 only
 grant
 swamp
 quote
 thunder |  
-| bip_39_word_new_line8 | leopard
+| bip_39_word_new_line_8 | leopard
 scheme
 only
 grant
@@ -113,7 +113,7 @@ swamp
 quote
 thunder
 donate |  
-| bip_39_word_new_line9 | leopard
+| bip_39_word_new_line_9 | leopard
 scheme
 only
 grant

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | learn |  
-| bip_39_word_new_br10 | learn<br>such<br>depth<br>law<br>exhaust<br>load<br>salad<br>jewel<br>twist<br>amused |  
-| bip_39_word_new_br11 | learn<br>such<br>depth<br>law<br>exhaust<br>load<br>salad<br>jewel<br>twist<br>amused<br>million |  
-| bip_39_word_new_br12 | learn<br>such<br>depth<br>law<br>exhaust<br>load<br>salad<br>jewel<br>twist<br>amused<br>million<br>address |  
-| bip_39_word_new_br2 | learn<br>such |  
-| bip_39_word_new_br3 | learn<br>such<br>depth |  
-| bip_39_word_new_br4 | learn<br>such<br>depth<br>law |  
-| bip_39_word_new_br5 | learn<br>such<br>depth<br>law<br>exhaust |  
-| bip_39_word_new_br6 | learn<br>such<br>depth<br>law<br>exhaust<br>load |  
-| bip_39_word_new_br7 | learn<br>such<br>depth<br>law<br>exhaust<br>load<br>salad |  
-| bip_39_word_new_br8 | learn<br>such<br>depth<br>law<br>exhaust<br>load<br>salad<br>jewel |  
-| bip_39_word_new_br9 | learn<br>such<br>depth<br>law<br>exhaust<br>load<br>salad<br>jewel<br>twist |  
-| bip_39_word_new_line1 | learn |  
-| bip_39_word_new_line10 | learn
+| bip_39_word_new_br_1 | learn |  
+| bip_39_word_new_br_10 | learn<br>such<br>depth<br>law<br>exhaust<br>load<br>salad<br>jewel<br>twist<br>amused |  
+| bip_39_word_new_br_11 | learn<br>such<br>depth<br>law<br>exhaust<br>load<br>salad<br>jewel<br>twist<br>amused<br>million |  
+| bip_39_word_new_br_12 | learn<br>such<br>depth<br>law<br>exhaust<br>load<br>salad<br>jewel<br>twist<br>amused<br>million<br>address |  
+| bip_39_word_new_br_2 | learn<br>such |  
+| bip_39_word_new_br_3 | learn<br>such<br>depth |  
+| bip_39_word_new_br_4 | learn<br>such<br>depth<br>law |  
+| bip_39_word_new_br_5 | learn<br>such<br>depth<br>law<br>exhaust |  
+| bip_39_word_new_br_6 | learn<br>such<br>depth<br>law<br>exhaust<br>load |  
+| bip_39_word_new_br_7 | learn<br>such<br>depth<br>law<br>exhaust<br>load<br>salad |  
+| bip_39_word_new_br_8 | learn<br>such<br>depth<br>law<br>exhaust<br>load<br>salad<br>jewel |  
+| bip_39_word_new_br_9 | learn<br>such<br>depth<br>law<br>exhaust<br>load<br>salad<br>jewel<br>twist |  
+| bip_39_word_new_line_1 | learn |  
+| bip_39_word_new_line_10 | learn
 such
 depth
 law
@@ -55,7 +55,7 @@ salad
 jewel
 twist
 amused |  
-| bip_39_word_new_line11 | learn
+| bip_39_word_new_line_11 | learn
 such
 depth
 law
@@ -66,7 +66,7 @@ jewel
 twist
 amused
 million |  
-| bip_39_word_new_line12 | learn
+| bip_39_word_new_line_12 | learn
 such
 depth
 law
@@ -78,34 +78,34 @@ twist
 amused
 million
 address |  
-| bip_39_word_new_line2 | learn
+| bip_39_word_new_line_2 | learn
 such |  
-| bip_39_word_new_line3 | learn
+| bip_39_word_new_line_3 | learn
 such
 depth |  
-| bip_39_word_new_line4 | learn
+| bip_39_word_new_line_4 | learn
 such
 depth
 law |  
-| bip_39_word_new_line5 | learn
+| bip_39_word_new_line_5 | learn
 such
 depth
 law
 exhaust |  
-| bip_39_word_new_line6 | learn
+| bip_39_word_new_line_6 | learn
 such
 depth
 law
 exhaust
 load |  
-| bip_39_word_new_line7 | learn
+| bip_39_word_new_line_7 | learn
 such
 depth
 law
 exhaust
 load
 salad |  
-| bip_39_word_new_line8 | learn
+| bip_39_word_new_line_8 | learn
 such
 depth
 law
@@ -113,7 +113,7 @@ exhaust
 load
 salad
 jewel |  
-| bip_39_word_new_line9 | learn
+| bip_39_word_new_line_9 | learn
 such
 depth
 law

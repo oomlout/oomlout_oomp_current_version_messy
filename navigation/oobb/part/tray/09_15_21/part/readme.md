@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | vague |  
-| bip_39_word_new_br10 | vague<br>cupboard<br>hard<br>coyote<br>prosper<br>shed<br>boring<br>early<br>medal<br>hen |  
-| bip_39_word_new_br11 | vague<br>cupboard<br>hard<br>coyote<br>prosper<br>shed<br>boring<br>early<br>medal<br>hen<br>little |  
-| bip_39_word_new_br12 | vague<br>cupboard<br>hard<br>coyote<br>prosper<br>shed<br>boring<br>early<br>medal<br>hen<br>little<br>asthma |  
-| bip_39_word_new_br2 | vague<br>cupboard |  
-| bip_39_word_new_br3 | vague<br>cupboard<br>hard |  
-| bip_39_word_new_br4 | vague<br>cupboard<br>hard<br>coyote |  
-| bip_39_word_new_br5 | vague<br>cupboard<br>hard<br>coyote<br>prosper |  
-| bip_39_word_new_br6 | vague<br>cupboard<br>hard<br>coyote<br>prosper<br>shed |  
-| bip_39_word_new_br7 | vague<br>cupboard<br>hard<br>coyote<br>prosper<br>shed<br>boring |  
-| bip_39_word_new_br8 | vague<br>cupboard<br>hard<br>coyote<br>prosper<br>shed<br>boring<br>early |  
-| bip_39_word_new_br9 | vague<br>cupboard<br>hard<br>coyote<br>prosper<br>shed<br>boring<br>early<br>medal |  
-| bip_39_word_new_line1 | vague |  
-| bip_39_word_new_line10 | vague
+| bip_39_word_new_br_1 | vague |  
+| bip_39_word_new_br_10 | vague<br>cupboard<br>hard<br>coyote<br>prosper<br>shed<br>boring<br>early<br>medal<br>hen |  
+| bip_39_word_new_br_11 | vague<br>cupboard<br>hard<br>coyote<br>prosper<br>shed<br>boring<br>early<br>medal<br>hen<br>little |  
+| bip_39_word_new_br_12 | vague<br>cupboard<br>hard<br>coyote<br>prosper<br>shed<br>boring<br>early<br>medal<br>hen<br>little<br>asthma |  
+| bip_39_word_new_br_2 | vague<br>cupboard |  
+| bip_39_word_new_br_3 | vague<br>cupboard<br>hard |  
+| bip_39_word_new_br_4 | vague<br>cupboard<br>hard<br>coyote |  
+| bip_39_word_new_br_5 | vague<br>cupboard<br>hard<br>coyote<br>prosper |  
+| bip_39_word_new_br_6 | vague<br>cupboard<br>hard<br>coyote<br>prosper<br>shed |  
+| bip_39_word_new_br_7 | vague<br>cupboard<br>hard<br>coyote<br>prosper<br>shed<br>boring |  
+| bip_39_word_new_br_8 | vague<br>cupboard<br>hard<br>coyote<br>prosper<br>shed<br>boring<br>early |  
+| bip_39_word_new_br_9 | vague<br>cupboard<br>hard<br>coyote<br>prosper<br>shed<br>boring<br>early<br>medal |  
+| bip_39_word_new_line_1 | vague |  
+| bip_39_word_new_line_10 | vague
 cupboard
 hard
 coyote
@@ -55,7 +55,7 @@ boring
 early
 medal
 hen |  
-| bip_39_word_new_line11 | vague
+| bip_39_word_new_line_11 | vague
 cupboard
 hard
 coyote
@@ -66,7 +66,7 @@ early
 medal
 hen
 little |  
-| bip_39_word_new_line12 | vague
+| bip_39_word_new_line_12 | vague
 cupboard
 hard
 coyote
@@ -78,34 +78,34 @@ medal
 hen
 little
 asthma |  
-| bip_39_word_new_line2 | vague
+| bip_39_word_new_line_2 | vague
 cupboard |  
-| bip_39_word_new_line3 | vague
+| bip_39_word_new_line_3 | vague
 cupboard
 hard |  
-| bip_39_word_new_line4 | vague
+| bip_39_word_new_line_4 | vague
 cupboard
 hard
 coyote |  
-| bip_39_word_new_line5 | vague
+| bip_39_word_new_line_5 | vague
 cupboard
 hard
 coyote
 prosper |  
-| bip_39_word_new_line6 | vague
+| bip_39_word_new_line_6 | vague
 cupboard
 hard
 coyote
 prosper
 shed |  
-| bip_39_word_new_line7 | vague
+| bip_39_word_new_line_7 | vague
 cupboard
 hard
 coyote
 prosper
 shed
 boring |  
-| bip_39_word_new_line8 | vague
+| bip_39_word_new_line_8 | vague
 cupboard
 hard
 coyote
@@ -113,7 +113,7 @@ prosper
 shed
 boring
 early |  
-| bip_39_word_new_line9 | vague
+| bip_39_word_new_line_9 | vague
 cupboard
 hard
 coyote

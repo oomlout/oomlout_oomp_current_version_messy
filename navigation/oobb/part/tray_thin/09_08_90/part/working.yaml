@@ -1,17 +1,17 @@
-bip_39_word_new_br1: thrive
-bip_39_word_new_br10: thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp<br>dinner<br>defy<br>hair<br>expire
-bip_39_word_new_br11: thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp<br>dinner<br>defy<br>hair<br>expire<br>client
-bip_39_word_new_br12: thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp<br>dinner<br>defy<br>hair<br>expire<br>client<br>alpha
-bip_39_word_new_br2: thrive<br>genuine
-bip_39_word_new_br3: thrive<br>genuine<br>dash
-bip_39_word_new_br4: thrive<br>genuine<br>dash<br>exchange
-bip_39_word_new_br5: thrive<br>genuine<br>dash<br>exchange<br>invite
-bip_39_word_new_br6: thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp
-bip_39_word_new_br7: thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp<br>dinner
-bip_39_word_new_br8: thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp<br>dinner<br>defy
-bip_39_word_new_br9: thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp<br>dinner<br>defy<br>hair
-bip_39_word_new_line1: thrive
-bip_39_word_new_line10: 'thrive
+bip_39_word_new_br_1: thrive
+bip_39_word_new_br_10: thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp<br>dinner<br>defy<br>hair<br>expire
+bip_39_word_new_br_11: thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp<br>dinner<br>defy<br>hair<br>expire<br>client
+bip_39_word_new_br_12: thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp<br>dinner<br>defy<br>hair<br>expire<br>client<br>alpha
+bip_39_word_new_br_2: thrive<br>genuine
+bip_39_word_new_br_3: thrive<br>genuine<br>dash
+bip_39_word_new_br_4: thrive<br>genuine<br>dash<br>exchange
+bip_39_word_new_br_5: thrive<br>genuine<br>dash<br>exchange<br>invite
+bip_39_word_new_br_6: thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp
+bip_39_word_new_br_7: thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp<br>dinner
+bip_39_word_new_br_8: thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp<br>dinner<br>defy
+bip_39_word_new_br_9: thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp<br>dinner<br>defy<br>hair
+bip_39_word_new_line_1: thrive
+bip_39_word_new_line_10: 'thrive
 
   genuine
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'thrive
   hair
 
   expire'
-bip_39_word_new_line11: 'thrive
+bip_39_word_new_line_11: 'thrive
 
   genuine
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'thrive
   expire
 
   client'
-bip_39_word_new_line12: 'thrive
+bip_39_word_new_line_12: 'thrive
 
   genuine
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'thrive
   client
 
   alpha'
-bip_39_word_new_line2: 'thrive
+bip_39_word_new_line_2: 'thrive
 
   genuine'
-bip_39_word_new_line3: 'thrive
+bip_39_word_new_line_3: 'thrive
 
   genuine
 
   dash'
-bip_39_word_new_line4: 'thrive
+bip_39_word_new_line_4: 'thrive
 
   genuine
 
   dash
 
   exchange'
-bip_39_word_new_line5: 'thrive
+bip_39_word_new_line_5: 'thrive
 
   genuine
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'thrive
   exchange
 
   invite'
-bip_39_word_new_line6: 'thrive
+bip_39_word_new_line_6: 'thrive
 
   genuine
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'thrive
   invite
 
   gasp'
-bip_39_word_new_line7: 'thrive
+bip_39_word_new_line_7: 'thrive
 
   genuine
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'thrive
   gasp
 
   dinner'
-bip_39_word_new_line8: 'thrive
+bip_39_word_new_line_8: 'thrive
 
   genuine
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'thrive
   dinner
 
   defy'
-bip_39_word_new_line9: 'thrive
+bip_39_word_new_line_9: 'thrive
 
   genuine
 

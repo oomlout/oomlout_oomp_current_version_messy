@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | then |  
-| bip_39_word_new_br10 | then<br>such<br>parent<br>guess<br>title<br>huge<br>panel<br>card<br>miracle<br>ozone |  
-| bip_39_word_new_br11 | then<br>such<br>parent<br>guess<br>title<br>huge<br>panel<br>card<br>miracle<br>ozone<br>broom |  
-| bip_39_word_new_br12 | then<br>such<br>parent<br>guess<br>title<br>huge<br>panel<br>card<br>miracle<br>ozone<br>broom<br>august |  
-| bip_39_word_new_br2 | then<br>such |  
-| bip_39_word_new_br3 | then<br>such<br>parent |  
-| bip_39_word_new_br4 | then<br>such<br>parent<br>guess |  
-| bip_39_word_new_br5 | then<br>such<br>parent<br>guess<br>title |  
-| bip_39_word_new_br6 | then<br>such<br>parent<br>guess<br>title<br>huge |  
-| bip_39_word_new_br7 | then<br>such<br>parent<br>guess<br>title<br>huge<br>panel |  
-| bip_39_word_new_br8 | then<br>such<br>parent<br>guess<br>title<br>huge<br>panel<br>card |  
-| bip_39_word_new_br9 | then<br>such<br>parent<br>guess<br>title<br>huge<br>panel<br>card<br>miracle |  
-| bip_39_word_new_line1 | then |  
-| bip_39_word_new_line10 | then
+| bip_39_word_new_br_1 | then |  
+| bip_39_word_new_br_10 | then<br>such<br>parent<br>guess<br>title<br>huge<br>panel<br>card<br>miracle<br>ozone |  
+| bip_39_word_new_br_11 | then<br>such<br>parent<br>guess<br>title<br>huge<br>panel<br>card<br>miracle<br>ozone<br>broom |  
+| bip_39_word_new_br_12 | then<br>such<br>parent<br>guess<br>title<br>huge<br>panel<br>card<br>miracle<br>ozone<br>broom<br>august |  
+| bip_39_word_new_br_2 | then<br>such |  
+| bip_39_word_new_br_3 | then<br>such<br>parent |  
+| bip_39_word_new_br_4 | then<br>such<br>parent<br>guess |  
+| bip_39_word_new_br_5 | then<br>such<br>parent<br>guess<br>title |  
+| bip_39_word_new_br_6 | then<br>such<br>parent<br>guess<br>title<br>huge |  
+| bip_39_word_new_br_7 | then<br>such<br>parent<br>guess<br>title<br>huge<br>panel |  
+| bip_39_word_new_br_8 | then<br>such<br>parent<br>guess<br>title<br>huge<br>panel<br>card |  
+| bip_39_word_new_br_9 | then<br>such<br>parent<br>guess<br>title<br>huge<br>panel<br>card<br>miracle |  
+| bip_39_word_new_line_1 | then |  
+| bip_39_word_new_line_10 | then
 such
 parent
 guess
@@ -55,7 +55,7 @@ panel
 card
 miracle
 ozone |  
-| bip_39_word_new_line11 | then
+| bip_39_word_new_line_11 | then
 such
 parent
 guess
@@ -66,7 +66,7 @@ card
 miracle
 ozone
 broom |  
-| bip_39_word_new_line12 | then
+| bip_39_word_new_line_12 | then
 such
 parent
 guess
@@ -78,34 +78,34 @@ miracle
 ozone
 broom
 august |  
-| bip_39_word_new_line2 | then
+| bip_39_word_new_line_2 | then
 such |  
-| bip_39_word_new_line3 | then
+| bip_39_word_new_line_3 | then
 such
 parent |  
-| bip_39_word_new_line4 | then
+| bip_39_word_new_line_4 | then
 such
 parent
 guess |  
-| bip_39_word_new_line5 | then
+| bip_39_word_new_line_5 | then
 such
 parent
 guess
 title |  
-| bip_39_word_new_line6 | then
+| bip_39_word_new_line_6 | then
 such
 parent
 guess
 title
 huge |  
-| bip_39_word_new_line7 | then
+| bip_39_word_new_line_7 | then
 such
 parent
 guess
 title
 huge
 panel |  
-| bip_39_word_new_line8 | then
+| bip_39_word_new_line_8 | then
 such
 parent
 guess
@@ -113,7 +113,7 @@ title
 huge
 panel
 card |  
-| bip_39_word_new_line9 | then
+| bip_39_word_new_line_9 | then
 such
 parent
 guess

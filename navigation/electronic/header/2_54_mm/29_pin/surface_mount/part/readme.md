@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | debate |  
-| bip_39_word_new_br10 | debate<br>piece<br>wait<br>blouse<br>truly<br>exhaust<br>steak<br>trash<br>flower<br>exhibit |  
-| bip_39_word_new_br11 | debate<br>piece<br>wait<br>blouse<br>truly<br>exhaust<br>steak<br>trash<br>flower<br>exhibit<br>oval |  
-| bip_39_word_new_br12 | debate<br>piece<br>wait<br>blouse<br>truly<br>exhaust<br>steak<br>trash<br>flower<br>exhibit<br>oval<br>abstract |  
-| bip_39_word_new_br2 | debate<br>piece |  
-| bip_39_word_new_br3 | debate<br>piece<br>wait |  
-| bip_39_word_new_br4 | debate<br>piece<br>wait<br>blouse |  
-| bip_39_word_new_br5 | debate<br>piece<br>wait<br>blouse<br>truly |  
-| bip_39_word_new_br6 | debate<br>piece<br>wait<br>blouse<br>truly<br>exhaust |  
-| bip_39_word_new_br7 | debate<br>piece<br>wait<br>blouse<br>truly<br>exhaust<br>steak |  
-| bip_39_word_new_br8 | debate<br>piece<br>wait<br>blouse<br>truly<br>exhaust<br>steak<br>trash |  
-| bip_39_word_new_br9 | debate<br>piece<br>wait<br>blouse<br>truly<br>exhaust<br>steak<br>trash<br>flower |  
-| bip_39_word_new_line1 | debate |  
-| bip_39_word_new_line10 | debate
+| bip_39_word_new_br_1 | debate |  
+| bip_39_word_new_br_10 | debate<br>piece<br>wait<br>blouse<br>truly<br>exhaust<br>steak<br>trash<br>flower<br>exhibit |  
+| bip_39_word_new_br_11 | debate<br>piece<br>wait<br>blouse<br>truly<br>exhaust<br>steak<br>trash<br>flower<br>exhibit<br>oval |  
+| bip_39_word_new_br_12 | debate<br>piece<br>wait<br>blouse<br>truly<br>exhaust<br>steak<br>trash<br>flower<br>exhibit<br>oval<br>abstract |  
+| bip_39_word_new_br_2 | debate<br>piece |  
+| bip_39_word_new_br_3 | debate<br>piece<br>wait |  
+| bip_39_word_new_br_4 | debate<br>piece<br>wait<br>blouse |  
+| bip_39_word_new_br_5 | debate<br>piece<br>wait<br>blouse<br>truly |  
+| bip_39_word_new_br_6 | debate<br>piece<br>wait<br>blouse<br>truly<br>exhaust |  
+| bip_39_word_new_br_7 | debate<br>piece<br>wait<br>blouse<br>truly<br>exhaust<br>steak |  
+| bip_39_word_new_br_8 | debate<br>piece<br>wait<br>blouse<br>truly<br>exhaust<br>steak<br>trash |  
+| bip_39_word_new_br_9 | debate<br>piece<br>wait<br>blouse<br>truly<br>exhaust<br>steak<br>trash<br>flower |  
+| bip_39_word_new_line_1 | debate |  
+| bip_39_word_new_line_10 | debate
 piece
 wait
 blouse
@@ -55,7 +55,7 @@ steak
 trash
 flower
 exhibit |  
-| bip_39_word_new_line11 | debate
+| bip_39_word_new_line_11 | debate
 piece
 wait
 blouse
@@ -66,7 +66,7 @@ trash
 flower
 exhibit
 oval |  
-| bip_39_word_new_line12 | debate
+| bip_39_word_new_line_12 | debate
 piece
 wait
 blouse
@@ -78,34 +78,34 @@ flower
 exhibit
 oval
 abstract |  
-| bip_39_word_new_line2 | debate
+| bip_39_word_new_line_2 | debate
 piece |  
-| bip_39_word_new_line3 | debate
+| bip_39_word_new_line_3 | debate
 piece
 wait |  
-| bip_39_word_new_line4 | debate
+| bip_39_word_new_line_4 | debate
 piece
 wait
 blouse |  
-| bip_39_word_new_line5 | debate
+| bip_39_word_new_line_5 | debate
 piece
 wait
 blouse
 truly |  
-| bip_39_word_new_line6 | debate
+| bip_39_word_new_line_6 | debate
 piece
 wait
 blouse
 truly
 exhaust |  
-| bip_39_word_new_line7 | debate
+| bip_39_word_new_line_7 | debate
 piece
 wait
 blouse
 truly
 exhaust
 steak |  
-| bip_39_word_new_line8 | debate
+| bip_39_word_new_line_8 | debate
 piece
 wait
 blouse
@@ -113,7 +113,7 @@ truly
 exhaust
 steak
 trash |  
-| bip_39_word_new_line9 | debate
+| bip_39_word_new_line_9 | debate
 piece
 wait
 blouse

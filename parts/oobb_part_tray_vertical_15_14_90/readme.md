@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | advice |  
-| bip_39_word_new_br10 | advice<br>snake<br>prevent<br>weather<br>gown<br>exchange<br>govern<br>seminar<br>ball<br>climb |  
-| bip_39_word_new_br11 | advice<br>snake<br>prevent<br>weather<br>gown<br>exchange<br>govern<br>seminar<br>ball<br>climb<br>despair |  
-| bip_39_word_new_br12 | advice<br>snake<br>prevent<br>weather<br>gown<br>exchange<br>govern<br>seminar<br>ball<br>climb<br>despair<br>abstract |  
-| bip_39_word_new_br2 | advice<br>snake |  
-| bip_39_word_new_br3 | advice<br>snake<br>prevent |  
-| bip_39_word_new_br4 | advice<br>snake<br>prevent<br>weather |  
-| bip_39_word_new_br5 | advice<br>snake<br>prevent<br>weather<br>gown |  
-| bip_39_word_new_br6 | advice<br>snake<br>prevent<br>weather<br>gown<br>exchange |  
-| bip_39_word_new_br7 | advice<br>snake<br>prevent<br>weather<br>gown<br>exchange<br>govern |  
-| bip_39_word_new_br8 | advice<br>snake<br>prevent<br>weather<br>gown<br>exchange<br>govern<br>seminar |  
-| bip_39_word_new_br9 | advice<br>snake<br>prevent<br>weather<br>gown<br>exchange<br>govern<br>seminar<br>ball |  
-| bip_39_word_new_line1 | advice |  
-| bip_39_word_new_line10 | advice
+| bip_39_word_new_br_1 | advice |  
+| bip_39_word_new_br_10 | advice<br>snake<br>prevent<br>weather<br>gown<br>exchange<br>govern<br>seminar<br>ball<br>climb |  
+| bip_39_word_new_br_11 | advice<br>snake<br>prevent<br>weather<br>gown<br>exchange<br>govern<br>seminar<br>ball<br>climb<br>despair |  
+| bip_39_word_new_br_12 | advice<br>snake<br>prevent<br>weather<br>gown<br>exchange<br>govern<br>seminar<br>ball<br>climb<br>despair<br>abstract |  
+| bip_39_word_new_br_2 | advice<br>snake |  
+| bip_39_word_new_br_3 | advice<br>snake<br>prevent |  
+| bip_39_word_new_br_4 | advice<br>snake<br>prevent<br>weather |  
+| bip_39_word_new_br_5 | advice<br>snake<br>prevent<br>weather<br>gown |  
+| bip_39_word_new_br_6 | advice<br>snake<br>prevent<br>weather<br>gown<br>exchange |  
+| bip_39_word_new_br_7 | advice<br>snake<br>prevent<br>weather<br>gown<br>exchange<br>govern |  
+| bip_39_word_new_br_8 | advice<br>snake<br>prevent<br>weather<br>gown<br>exchange<br>govern<br>seminar |  
+| bip_39_word_new_br_9 | advice<br>snake<br>prevent<br>weather<br>gown<br>exchange<br>govern<br>seminar<br>ball |  
+| bip_39_word_new_line_1 | advice |  
+| bip_39_word_new_line_10 | advice
 snake
 prevent
 weather
@@ -55,7 +55,7 @@ govern
 seminar
 ball
 climb |  
-| bip_39_word_new_line11 | advice
+| bip_39_word_new_line_11 | advice
 snake
 prevent
 weather
@@ -66,7 +66,7 @@ seminar
 ball
 climb
 despair |  
-| bip_39_word_new_line12 | advice
+| bip_39_word_new_line_12 | advice
 snake
 prevent
 weather
@@ -78,34 +78,34 @@ ball
 climb
 despair
 abstract |  
-| bip_39_word_new_line2 | advice
+| bip_39_word_new_line_2 | advice
 snake |  
-| bip_39_word_new_line3 | advice
+| bip_39_word_new_line_3 | advice
 snake
 prevent |  
-| bip_39_word_new_line4 | advice
+| bip_39_word_new_line_4 | advice
 snake
 prevent
 weather |  
-| bip_39_word_new_line5 | advice
+| bip_39_word_new_line_5 | advice
 snake
 prevent
 weather
 gown |  
-| bip_39_word_new_line6 | advice
+| bip_39_word_new_line_6 | advice
 snake
 prevent
 weather
 gown
 exchange |  
-| bip_39_word_new_line7 | advice
+| bip_39_word_new_line_7 | advice
 snake
 prevent
 weather
 gown
 exchange
 govern |  
-| bip_39_word_new_line8 | advice
+| bip_39_word_new_line_8 | advice
 snake
 prevent
 weather
@@ -113,7 +113,7 @@ gown
 exchange
 govern
 seminar |  
-| bip_39_word_new_line9 | advice
+| bip_39_word_new_line_9 | advice
 snake
 prevent
 weather

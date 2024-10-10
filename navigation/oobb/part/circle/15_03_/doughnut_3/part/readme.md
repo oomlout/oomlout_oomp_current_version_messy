@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | proof |  
-| bip_39_word_new_br10 | proof<br>cancel<br>material<br>mirror<br>sentence<br>scene<br>gauge<br>delay<br>shy<br>van |  
-| bip_39_word_new_br11 | proof<br>cancel<br>material<br>mirror<br>sentence<br>scene<br>gauge<br>delay<br>shy<br>van<br>vicious |  
-| bip_39_word_new_br12 | proof<br>cancel<br>material<br>mirror<br>sentence<br>scene<br>gauge<br>delay<br>shy<br>van<br>vicious<br>arrow |  
-| bip_39_word_new_br2 | proof<br>cancel |  
-| bip_39_word_new_br3 | proof<br>cancel<br>material |  
-| bip_39_word_new_br4 | proof<br>cancel<br>material<br>mirror |  
-| bip_39_word_new_br5 | proof<br>cancel<br>material<br>mirror<br>sentence |  
-| bip_39_word_new_br6 | proof<br>cancel<br>material<br>mirror<br>sentence<br>scene |  
-| bip_39_word_new_br7 | proof<br>cancel<br>material<br>mirror<br>sentence<br>scene<br>gauge |  
-| bip_39_word_new_br8 | proof<br>cancel<br>material<br>mirror<br>sentence<br>scene<br>gauge<br>delay |  
-| bip_39_word_new_br9 | proof<br>cancel<br>material<br>mirror<br>sentence<br>scene<br>gauge<br>delay<br>shy |  
-| bip_39_word_new_line1 | proof |  
-| bip_39_word_new_line10 | proof
+| bip_39_word_new_br_1 | proof |  
+| bip_39_word_new_br_10 | proof<br>cancel<br>material<br>mirror<br>sentence<br>scene<br>gauge<br>delay<br>shy<br>van |  
+| bip_39_word_new_br_11 | proof<br>cancel<br>material<br>mirror<br>sentence<br>scene<br>gauge<br>delay<br>shy<br>van<br>vicious |  
+| bip_39_word_new_br_12 | proof<br>cancel<br>material<br>mirror<br>sentence<br>scene<br>gauge<br>delay<br>shy<br>van<br>vicious<br>arrow |  
+| bip_39_word_new_br_2 | proof<br>cancel |  
+| bip_39_word_new_br_3 | proof<br>cancel<br>material |  
+| bip_39_word_new_br_4 | proof<br>cancel<br>material<br>mirror |  
+| bip_39_word_new_br_5 | proof<br>cancel<br>material<br>mirror<br>sentence |  
+| bip_39_word_new_br_6 | proof<br>cancel<br>material<br>mirror<br>sentence<br>scene |  
+| bip_39_word_new_br_7 | proof<br>cancel<br>material<br>mirror<br>sentence<br>scene<br>gauge |  
+| bip_39_word_new_br_8 | proof<br>cancel<br>material<br>mirror<br>sentence<br>scene<br>gauge<br>delay |  
+| bip_39_word_new_br_9 | proof<br>cancel<br>material<br>mirror<br>sentence<br>scene<br>gauge<br>delay<br>shy |  
+| bip_39_word_new_line_1 | proof |  
+| bip_39_word_new_line_10 | proof
 cancel
 material
 mirror
@@ -55,7 +55,7 @@ gauge
 delay
 shy
 van |  
-| bip_39_word_new_line11 | proof
+| bip_39_word_new_line_11 | proof
 cancel
 material
 mirror
@@ -66,7 +66,7 @@ delay
 shy
 van
 vicious |  
-| bip_39_word_new_line12 | proof
+| bip_39_word_new_line_12 | proof
 cancel
 material
 mirror
@@ -78,34 +78,34 @@ shy
 van
 vicious
 arrow |  
-| bip_39_word_new_line2 | proof
+| bip_39_word_new_line_2 | proof
 cancel |  
-| bip_39_word_new_line3 | proof
+| bip_39_word_new_line_3 | proof
 cancel
 material |  
-| bip_39_word_new_line4 | proof
+| bip_39_word_new_line_4 | proof
 cancel
 material
 mirror |  
-| bip_39_word_new_line5 | proof
+| bip_39_word_new_line_5 | proof
 cancel
 material
 mirror
 sentence |  
-| bip_39_word_new_line6 | proof
+| bip_39_word_new_line_6 | proof
 cancel
 material
 mirror
 sentence
 scene |  
-| bip_39_word_new_line7 | proof
+| bip_39_word_new_line_7 | proof
 cancel
 material
 mirror
 sentence
 scene
 gauge |  
-| bip_39_word_new_line8 | proof
+| bip_39_word_new_line_8 | proof
 cancel
 material
 mirror
@@ -113,7 +113,7 @@ sentence
 scene
 gauge
 delay |  
-| bip_39_word_new_line9 | proof
+| bip_39_word_new_line_9 | proof
 cancel
 material
 mirror

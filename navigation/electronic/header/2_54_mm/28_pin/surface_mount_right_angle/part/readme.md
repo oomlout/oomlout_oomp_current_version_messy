@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | kite |  
-| bip_39_word_new_br10 | kite<br>start<br>judge<br>recall<br>wasp<br>toward<br>cause<br>solid<br>trust<br>turkey |  
-| bip_39_word_new_br11 | kite<br>start<br>judge<br>recall<br>wasp<br>toward<br>cause<br>solid<br>trust<br>turkey<br>table |  
-| bip_39_word_new_br12 | kite<br>start<br>judge<br>recall<br>wasp<br>toward<br>cause<br>solid<br>trust<br>turkey<br>table<br>average |  
-| bip_39_word_new_br2 | kite<br>start |  
-| bip_39_word_new_br3 | kite<br>start<br>judge |  
-| bip_39_word_new_br4 | kite<br>start<br>judge<br>recall |  
-| bip_39_word_new_br5 | kite<br>start<br>judge<br>recall<br>wasp |  
-| bip_39_word_new_br6 | kite<br>start<br>judge<br>recall<br>wasp<br>toward |  
-| bip_39_word_new_br7 | kite<br>start<br>judge<br>recall<br>wasp<br>toward<br>cause |  
-| bip_39_word_new_br8 | kite<br>start<br>judge<br>recall<br>wasp<br>toward<br>cause<br>solid |  
-| bip_39_word_new_br9 | kite<br>start<br>judge<br>recall<br>wasp<br>toward<br>cause<br>solid<br>trust |  
-| bip_39_word_new_line1 | kite |  
-| bip_39_word_new_line10 | kite
+| bip_39_word_new_br_1 | kite |  
+| bip_39_word_new_br_10 | kite<br>start<br>judge<br>recall<br>wasp<br>toward<br>cause<br>solid<br>trust<br>turkey |  
+| bip_39_word_new_br_11 | kite<br>start<br>judge<br>recall<br>wasp<br>toward<br>cause<br>solid<br>trust<br>turkey<br>table |  
+| bip_39_word_new_br_12 | kite<br>start<br>judge<br>recall<br>wasp<br>toward<br>cause<br>solid<br>trust<br>turkey<br>table<br>average |  
+| bip_39_word_new_br_2 | kite<br>start |  
+| bip_39_word_new_br_3 | kite<br>start<br>judge |  
+| bip_39_word_new_br_4 | kite<br>start<br>judge<br>recall |  
+| bip_39_word_new_br_5 | kite<br>start<br>judge<br>recall<br>wasp |  
+| bip_39_word_new_br_6 | kite<br>start<br>judge<br>recall<br>wasp<br>toward |  
+| bip_39_word_new_br_7 | kite<br>start<br>judge<br>recall<br>wasp<br>toward<br>cause |  
+| bip_39_word_new_br_8 | kite<br>start<br>judge<br>recall<br>wasp<br>toward<br>cause<br>solid |  
+| bip_39_word_new_br_9 | kite<br>start<br>judge<br>recall<br>wasp<br>toward<br>cause<br>solid<br>trust |  
+| bip_39_word_new_line_1 | kite |  
+| bip_39_word_new_line_10 | kite
 start
 judge
 recall
@@ -55,7 +55,7 @@ cause
 solid
 trust
 turkey |  
-| bip_39_word_new_line11 | kite
+| bip_39_word_new_line_11 | kite
 start
 judge
 recall
@@ -66,7 +66,7 @@ solid
 trust
 turkey
 table |  
-| bip_39_word_new_line12 | kite
+| bip_39_word_new_line_12 | kite
 start
 judge
 recall
@@ -78,34 +78,34 @@ trust
 turkey
 table
 average |  
-| bip_39_word_new_line2 | kite
+| bip_39_word_new_line_2 | kite
 start |  
-| bip_39_word_new_line3 | kite
+| bip_39_word_new_line_3 | kite
 start
 judge |  
-| bip_39_word_new_line4 | kite
+| bip_39_word_new_line_4 | kite
 start
 judge
 recall |  
-| bip_39_word_new_line5 | kite
+| bip_39_word_new_line_5 | kite
 start
 judge
 recall
 wasp |  
-| bip_39_word_new_line6 | kite
+| bip_39_word_new_line_6 | kite
 start
 judge
 recall
 wasp
 toward |  
-| bip_39_word_new_line7 | kite
+| bip_39_word_new_line_7 | kite
 start
 judge
 recall
 wasp
 toward
 cause |  
-| bip_39_word_new_line8 | kite
+| bip_39_word_new_line_8 | kite
 start
 judge
 recall
@@ -113,7 +113,7 @@ wasp
 toward
 cause
 solid |  
-| bip_39_word_new_line9 | kite
+| bip_39_word_new_line_9 | kite
 start
 judge
 recall

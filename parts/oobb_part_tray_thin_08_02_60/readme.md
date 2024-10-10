@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | clinic |  
-| bip_39_word_new_br10 | clinic<br>copper<br>vital<br>volume<br>code<br>utility<br>write<br>vicious<br>social<br>purchase |  
-| bip_39_word_new_br11 | clinic<br>copper<br>vital<br>volume<br>code<br>utility<br>write<br>vicious<br>social<br>purchase<br>push |  
-| bip_39_word_new_br12 | clinic<br>copper<br>vital<br>volume<br>code<br>utility<br>write<br>vicious<br>social<br>purchase<br>push<br>already |  
-| bip_39_word_new_br2 | clinic<br>copper |  
-| bip_39_word_new_br3 | clinic<br>copper<br>vital |  
-| bip_39_word_new_br4 | clinic<br>copper<br>vital<br>volume |  
-| bip_39_word_new_br5 | clinic<br>copper<br>vital<br>volume<br>code |  
-| bip_39_word_new_br6 | clinic<br>copper<br>vital<br>volume<br>code<br>utility |  
-| bip_39_word_new_br7 | clinic<br>copper<br>vital<br>volume<br>code<br>utility<br>write |  
-| bip_39_word_new_br8 | clinic<br>copper<br>vital<br>volume<br>code<br>utility<br>write<br>vicious |  
-| bip_39_word_new_br9 | clinic<br>copper<br>vital<br>volume<br>code<br>utility<br>write<br>vicious<br>social |  
-| bip_39_word_new_line1 | clinic |  
-| bip_39_word_new_line10 | clinic
+| bip_39_word_new_br_1 | clinic |  
+| bip_39_word_new_br_10 | clinic<br>copper<br>vital<br>volume<br>code<br>utility<br>write<br>vicious<br>social<br>purchase |  
+| bip_39_word_new_br_11 | clinic<br>copper<br>vital<br>volume<br>code<br>utility<br>write<br>vicious<br>social<br>purchase<br>push |  
+| bip_39_word_new_br_12 | clinic<br>copper<br>vital<br>volume<br>code<br>utility<br>write<br>vicious<br>social<br>purchase<br>push<br>already |  
+| bip_39_word_new_br_2 | clinic<br>copper |  
+| bip_39_word_new_br_3 | clinic<br>copper<br>vital |  
+| bip_39_word_new_br_4 | clinic<br>copper<br>vital<br>volume |  
+| bip_39_word_new_br_5 | clinic<br>copper<br>vital<br>volume<br>code |  
+| bip_39_word_new_br_6 | clinic<br>copper<br>vital<br>volume<br>code<br>utility |  
+| bip_39_word_new_br_7 | clinic<br>copper<br>vital<br>volume<br>code<br>utility<br>write |  
+| bip_39_word_new_br_8 | clinic<br>copper<br>vital<br>volume<br>code<br>utility<br>write<br>vicious |  
+| bip_39_word_new_br_9 | clinic<br>copper<br>vital<br>volume<br>code<br>utility<br>write<br>vicious<br>social |  
+| bip_39_word_new_line_1 | clinic |  
+| bip_39_word_new_line_10 | clinic
 copper
 vital
 volume
@@ -55,7 +55,7 @@ write
 vicious
 social
 purchase |  
-| bip_39_word_new_line11 | clinic
+| bip_39_word_new_line_11 | clinic
 copper
 vital
 volume
@@ -66,7 +66,7 @@ vicious
 social
 purchase
 push |  
-| bip_39_word_new_line12 | clinic
+| bip_39_word_new_line_12 | clinic
 copper
 vital
 volume
@@ -78,34 +78,34 @@ social
 purchase
 push
 already |  
-| bip_39_word_new_line2 | clinic
+| bip_39_word_new_line_2 | clinic
 copper |  
-| bip_39_word_new_line3 | clinic
+| bip_39_word_new_line_3 | clinic
 copper
 vital |  
-| bip_39_word_new_line4 | clinic
+| bip_39_word_new_line_4 | clinic
 copper
 vital
 volume |  
-| bip_39_word_new_line5 | clinic
+| bip_39_word_new_line_5 | clinic
 copper
 vital
 volume
 code |  
-| bip_39_word_new_line6 | clinic
+| bip_39_word_new_line_6 | clinic
 copper
 vital
 volume
 code
 utility |  
-| bip_39_word_new_line7 | clinic
+| bip_39_word_new_line_7 | clinic
 copper
 vital
 volume
 code
 utility
 write |  
-| bip_39_word_new_line8 | clinic
+| bip_39_word_new_line_8 | clinic
 copper
 vital
 volume
@@ -113,7 +113,7 @@ code
 utility
 write
 vicious |  
-| bip_39_word_new_line9 | clinic
+| bip_39_word_new_line_9 | clinic
 copper
 vital
 volume

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | split |  
-| bip_39_word_new_br10 | split<br>improve<br>will<br>recycle<br>sign<br>spell<br>innocent<br>install<br>found<br>first |  
-| bip_39_word_new_br11 | split<br>improve<br>will<br>recycle<br>sign<br>spell<br>innocent<br>install<br>found<br>first<br>obey |  
-| bip_39_word_new_br12 | split<br>improve<br>will<br>recycle<br>sign<br>spell<br>innocent<br>install<br>found<br>first<br>obey<br>action |  
-| bip_39_word_new_br2 | split<br>improve |  
-| bip_39_word_new_br3 | split<br>improve<br>will |  
-| bip_39_word_new_br4 | split<br>improve<br>will<br>recycle |  
-| bip_39_word_new_br5 | split<br>improve<br>will<br>recycle<br>sign |  
-| bip_39_word_new_br6 | split<br>improve<br>will<br>recycle<br>sign<br>spell |  
-| bip_39_word_new_br7 | split<br>improve<br>will<br>recycle<br>sign<br>spell<br>innocent |  
-| bip_39_word_new_br8 | split<br>improve<br>will<br>recycle<br>sign<br>spell<br>innocent<br>install |  
-| bip_39_word_new_br9 | split<br>improve<br>will<br>recycle<br>sign<br>spell<br>innocent<br>install<br>found |  
-| bip_39_word_new_line1 | split |  
-| bip_39_word_new_line10 | split
+| bip_39_word_new_br_1 | split |  
+| bip_39_word_new_br_10 | split<br>improve<br>will<br>recycle<br>sign<br>spell<br>innocent<br>install<br>found<br>first |  
+| bip_39_word_new_br_11 | split<br>improve<br>will<br>recycle<br>sign<br>spell<br>innocent<br>install<br>found<br>first<br>obey |  
+| bip_39_word_new_br_12 | split<br>improve<br>will<br>recycle<br>sign<br>spell<br>innocent<br>install<br>found<br>first<br>obey<br>action |  
+| bip_39_word_new_br_2 | split<br>improve |  
+| bip_39_word_new_br_3 | split<br>improve<br>will |  
+| bip_39_word_new_br_4 | split<br>improve<br>will<br>recycle |  
+| bip_39_word_new_br_5 | split<br>improve<br>will<br>recycle<br>sign |  
+| bip_39_word_new_br_6 | split<br>improve<br>will<br>recycle<br>sign<br>spell |  
+| bip_39_word_new_br_7 | split<br>improve<br>will<br>recycle<br>sign<br>spell<br>innocent |  
+| bip_39_word_new_br_8 | split<br>improve<br>will<br>recycle<br>sign<br>spell<br>innocent<br>install |  
+| bip_39_word_new_br_9 | split<br>improve<br>will<br>recycle<br>sign<br>spell<br>innocent<br>install<br>found |  
+| bip_39_word_new_line_1 | split |  
+| bip_39_word_new_line_10 | split
 improve
 will
 recycle
@@ -55,7 +55,7 @@ innocent
 install
 found
 first |  
-| bip_39_word_new_line11 | split
+| bip_39_word_new_line_11 | split
 improve
 will
 recycle
@@ -66,7 +66,7 @@ install
 found
 first
 obey |  
-| bip_39_word_new_line12 | split
+| bip_39_word_new_line_12 | split
 improve
 will
 recycle
@@ -78,34 +78,34 @@ found
 first
 obey
 action |  
-| bip_39_word_new_line2 | split
+| bip_39_word_new_line_2 | split
 improve |  
-| bip_39_word_new_line3 | split
+| bip_39_word_new_line_3 | split
 improve
 will |  
-| bip_39_word_new_line4 | split
+| bip_39_word_new_line_4 | split
 improve
 will
 recycle |  
-| bip_39_word_new_line5 | split
+| bip_39_word_new_line_5 | split
 improve
 will
 recycle
 sign |  
-| bip_39_word_new_line6 | split
+| bip_39_word_new_line_6 | split
 improve
 will
 recycle
 sign
 spell |  
-| bip_39_word_new_line7 | split
+| bip_39_word_new_line_7 | split
 improve
 will
 recycle
 sign
 spell
 innocent |  
-| bip_39_word_new_line8 | split
+| bip_39_word_new_line_8 | split
 improve
 will
 recycle
@@ -113,7 +113,7 @@ sign
 spell
 innocent
 install |  
-| bip_39_word_new_line9 | split
+| bip_39_word_new_line_9 | split
 improve
 will
 recycle

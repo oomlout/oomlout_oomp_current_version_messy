@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | drastic |  
-| bip_39_word_new_br10 | drastic<br>junior<br>orchard<br>lizard<br>patrol<br>robot<br>noodle<br>cross<br>cute<br>enough |  
-| bip_39_word_new_br11 | drastic<br>junior<br>orchard<br>lizard<br>patrol<br>robot<br>noodle<br>cross<br>cute<br>enough<br>sausage |  
-| bip_39_word_new_br12 | drastic<br>junior<br>orchard<br>lizard<br>patrol<br>robot<br>noodle<br>cross<br>cute<br>enough<br>sausage<br>across |  
-| bip_39_word_new_br2 | drastic<br>junior |  
-| bip_39_word_new_br3 | drastic<br>junior<br>orchard |  
-| bip_39_word_new_br4 | drastic<br>junior<br>orchard<br>lizard |  
-| bip_39_word_new_br5 | drastic<br>junior<br>orchard<br>lizard<br>patrol |  
-| bip_39_word_new_br6 | drastic<br>junior<br>orchard<br>lizard<br>patrol<br>robot |  
-| bip_39_word_new_br7 | drastic<br>junior<br>orchard<br>lizard<br>patrol<br>robot<br>noodle |  
-| bip_39_word_new_br8 | drastic<br>junior<br>orchard<br>lizard<br>patrol<br>robot<br>noodle<br>cross |  
-| bip_39_word_new_br9 | drastic<br>junior<br>orchard<br>lizard<br>patrol<br>robot<br>noodle<br>cross<br>cute |  
-| bip_39_word_new_line1 | drastic |  
-| bip_39_word_new_line10 | drastic
+| bip_39_word_new_br_1 | drastic |  
+| bip_39_word_new_br_10 | drastic<br>junior<br>orchard<br>lizard<br>patrol<br>robot<br>noodle<br>cross<br>cute<br>enough |  
+| bip_39_word_new_br_11 | drastic<br>junior<br>orchard<br>lizard<br>patrol<br>robot<br>noodle<br>cross<br>cute<br>enough<br>sausage |  
+| bip_39_word_new_br_12 | drastic<br>junior<br>orchard<br>lizard<br>patrol<br>robot<br>noodle<br>cross<br>cute<br>enough<br>sausage<br>across |  
+| bip_39_word_new_br_2 | drastic<br>junior |  
+| bip_39_word_new_br_3 | drastic<br>junior<br>orchard |  
+| bip_39_word_new_br_4 | drastic<br>junior<br>orchard<br>lizard |  
+| bip_39_word_new_br_5 | drastic<br>junior<br>orchard<br>lizard<br>patrol |  
+| bip_39_word_new_br_6 | drastic<br>junior<br>orchard<br>lizard<br>patrol<br>robot |  
+| bip_39_word_new_br_7 | drastic<br>junior<br>orchard<br>lizard<br>patrol<br>robot<br>noodle |  
+| bip_39_word_new_br_8 | drastic<br>junior<br>orchard<br>lizard<br>patrol<br>robot<br>noodle<br>cross |  
+| bip_39_word_new_br_9 | drastic<br>junior<br>orchard<br>lizard<br>patrol<br>robot<br>noodle<br>cross<br>cute |  
+| bip_39_word_new_line_1 | drastic |  
+| bip_39_word_new_line_10 | drastic
 junior
 orchard
 lizard
@@ -55,7 +55,7 @@ noodle
 cross
 cute
 enough |  
-| bip_39_word_new_line11 | drastic
+| bip_39_word_new_line_11 | drastic
 junior
 orchard
 lizard
@@ -66,7 +66,7 @@ cross
 cute
 enough
 sausage |  
-| bip_39_word_new_line12 | drastic
+| bip_39_word_new_line_12 | drastic
 junior
 orchard
 lizard
@@ -78,34 +78,34 @@ cute
 enough
 sausage
 across |  
-| bip_39_word_new_line2 | drastic
+| bip_39_word_new_line_2 | drastic
 junior |  
-| bip_39_word_new_line3 | drastic
+| bip_39_word_new_line_3 | drastic
 junior
 orchard |  
-| bip_39_word_new_line4 | drastic
+| bip_39_word_new_line_4 | drastic
 junior
 orchard
 lizard |  
-| bip_39_word_new_line5 | drastic
+| bip_39_word_new_line_5 | drastic
 junior
 orchard
 lizard
 patrol |  
-| bip_39_word_new_line6 | drastic
+| bip_39_word_new_line_6 | drastic
 junior
 orchard
 lizard
 patrol
 robot |  
-| bip_39_word_new_line7 | drastic
+| bip_39_word_new_line_7 | drastic
 junior
 orchard
 lizard
 patrol
 robot
 noodle |  
-| bip_39_word_new_line8 | drastic
+| bip_39_word_new_line_8 | drastic
 junior
 orchard
 lizard
@@ -113,7 +113,7 @@ patrol
 robot
 noodle
 cross |  
-| bip_39_word_new_line9 | drastic
+| bip_39_word_new_line_9 | drastic
 junior
 orchard
 lizard

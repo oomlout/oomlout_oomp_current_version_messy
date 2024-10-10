@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | axis |  
-| bip_39_word_new_br10 | axis<br>cover<br>nasty<br>stuff<br>puzzle<br>spatial<br>priority<br>position<br>argue<br>drum |  
-| bip_39_word_new_br11 | axis<br>cover<br>nasty<br>stuff<br>puzzle<br>spatial<br>priority<br>position<br>argue<br>drum<br>crunch |  
-| bip_39_word_new_br12 | axis<br>cover<br>nasty<br>stuff<br>puzzle<br>spatial<br>priority<br>position<br>argue<br>drum<br>crunch<br>always |  
-| bip_39_word_new_br2 | axis<br>cover |  
-| bip_39_word_new_br3 | axis<br>cover<br>nasty |  
-| bip_39_word_new_br4 | axis<br>cover<br>nasty<br>stuff |  
-| bip_39_word_new_br5 | axis<br>cover<br>nasty<br>stuff<br>puzzle |  
-| bip_39_word_new_br6 | axis<br>cover<br>nasty<br>stuff<br>puzzle<br>spatial |  
-| bip_39_word_new_br7 | axis<br>cover<br>nasty<br>stuff<br>puzzle<br>spatial<br>priority |  
-| bip_39_word_new_br8 | axis<br>cover<br>nasty<br>stuff<br>puzzle<br>spatial<br>priority<br>position |  
-| bip_39_word_new_br9 | axis<br>cover<br>nasty<br>stuff<br>puzzle<br>spatial<br>priority<br>position<br>argue |  
-| bip_39_word_new_line1 | axis |  
-| bip_39_word_new_line10 | axis
+| bip_39_word_new_br_1 | axis |  
+| bip_39_word_new_br_10 | axis<br>cover<br>nasty<br>stuff<br>puzzle<br>spatial<br>priority<br>position<br>argue<br>drum |  
+| bip_39_word_new_br_11 | axis<br>cover<br>nasty<br>stuff<br>puzzle<br>spatial<br>priority<br>position<br>argue<br>drum<br>crunch |  
+| bip_39_word_new_br_12 | axis<br>cover<br>nasty<br>stuff<br>puzzle<br>spatial<br>priority<br>position<br>argue<br>drum<br>crunch<br>always |  
+| bip_39_word_new_br_2 | axis<br>cover |  
+| bip_39_word_new_br_3 | axis<br>cover<br>nasty |  
+| bip_39_word_new_br_4 | axis<br>cover<br>nasty<br>stuff |  
+| bip_39_word_new_br_5 | axis<br>cover<br>nasty<br>stuff<br>puzzle |  
+| bip_39_word_new_br_6 | axis<br>cover<br>nasty<br>stuff<br>puzzle<br>spatial |  
+| bip_39_word_new_br_7 | axis<br>cover<br>nasty<br>stuff<br>puzzle<br>spatial<br>priority |  
+| bip_39_word_new_br_8 | axis<br>cover<br>nasty<br>stuff<br>puzzle<br>spatial<br>priority<br>position |  
+| bip_39_word_new_br_9 | axis<br>cover<br>nasty<br>stuff<br>puzzle<br>spatial<br>priority<br>position<br>argue |  
+| bip_39_word_new_line_1 | axis |  
+| bip_39_word_new_line_10 | axis
 cover
 nasty
 stuff
@@ -55,7 +55,7 @@ priority
 position
 argue
 drum |  
-| bip_39_word_new_line11 | axis
+| bip_39_word_new_line_11 | axis
 cover
 nasty
 stuff
@@ -66,7 +66,7 @@ position
 argue
 drum
 crunch |  
-| bip_39_word_new_line12 | axis
+| bip_39_word_new_line_12 | axis
 cover
 nasty
 stuff
@@ -78,34 +78,34 @@ argue
 drum
 crunch
 always |  
-| bip_39_word_new_line2 | axis
+| bip_39_word_new_line_2 | axis
 cover |  
-| bip_39_word_new_line3 | axis
+| bip_39_word_new_line_3 | axis
 cover
 nasty |  
-| bip_39_word_new_line4 | axis
+| bip_39_word_new_line_4 | axis
 cover
 nasty
 stuff |  
-| bip_39_word_new_line5 | axis
+| bip_39_word_new_line_5 | axis
 cover
 nasty
 stuff
 puzzle |  
-| bip_39_word_new_line6 | axis
+| bip_39_word_new_line_6 | axis
 cover
 nasty
 stuff
 puzzle
 spatial |  
-| bip_39_word_new_line7 | axis
+| bip_39_word_new_line_7 | axis
 cover
 nasty
 stuff
 puzzle
 spatial
 priority |  
-| bip_39_word_new_line8 | axis
+| bip_39_word_new_line_8 | axis
 cover
 nasty
 stuff
@@ -113,7 +113,7 @@ puzzle
 spatial
 priority
 position |  
-| bip_39_word_new_line9 | axis
+| bip_39_word_new_line_9 | axis
 cover
 nasty
 stuff

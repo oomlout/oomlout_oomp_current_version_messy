@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sniff |  
-| bip_39_word_new_br10 | sniff<br>mix<br>seat<br>reason<br>innocent<br>produce<br>outside<br>dash<br>actual<br>cart |  
-| bip_39_word_new_br11 | sniff<br>mix<br>seat<br>reason<br>innocent<br>produce<br>outside<br>dash<br>actual<br>cart<br>regret |  
-| bip_39_word_new_br12 | sniff<br>mix<br>seat<br>reason<br>innocent<br>produce<br>outside<br>dash<br>actual<br>cart<br>regret<br>apology |  
-| bip_39_word_new_br2 | sniff<br>mix |  
-| bip_39_word_new_br3 | sniff<br>mix<br>seat |  
-| bip_39_word_new_br4 | sniff<br>mix<br>seat<br>reason |  
-| bip_39_word_new_br5 | sniff<br>mix<br>seat<br>reason<br>innocent |  
-| bip_39_word_new_br6 | sniff<br>mix<br>seat<br>reason<br>innocent<br>produce |  
-| bip_39_word_new_br7 | sniff<br>mix<br>seat<br>reason<br>innocent<br>produce<br>outside |  
-| bip_39_word_new_br8 | sniff<br>mix<br>seat<br>reason<br>innocent<br>produce<br>outside<br>dash |  
-| bip_39_word_new_br9 | sniff<br>mix<br>seat<br>reason<br>innocent<br>produce<br>outside<br>dash<br>actual |  
-| bip_39_word_new_line1 | sniff |  
-| bip_39_word_new_line10 | sniff
+| bip_39_word_new_br_1 | sniff |  
+| bip_39_word_new_br_10 | sniff<br>mix<br>seat<br>reason<br>innocent<br>produce<br>outside<br>dash<br>actual<br>cart |  
+| bip_39_word_new_br_11 | sniff<br>mix<br>seat<br>reason<br>innocent<br>produce<br>outside<br>dash<br>actual<br>cart<br>regret |  
+| bip_39_word_new_br_12 | sniff<br>mix<br>seat<br>reason<br>innocent<br>produce<br>outside<br>dash<br>actual<br>cart<br>regret<br>apology |  
+| bip_39_word_new_br_2 | sniff<br>mix |  
+| bip_39_word_new_br_3 | sniff<br>mix<br>seat |  
+| bip_39_word_new_br_4 | sniff<br>mix<br>seat<br>reason |  
+| bip_39_word_new_br_5 | sniff<br>mix<br>seat<br>reason<br>innocent |  
+| bip_39_word_new_br_6 | sniff<br>mix<br>seat<br>reason<br>innocent<br>produce |  
+| bip_39_word_new_br_7 | sniff<br>mix<br>seat<br>reason<br>innocent<br>produce<br>outside |  
+| bip_39_word_new_br_8 | sniff<br>mix<br>seat<br>reason<br>innocent<br>produce<br>outside<br>dash |  
+| bip_39_word_new_br_9 | sniff<br>mix<br>seat<br>reason<br>innocent<br>produce<br>outside<br>dash<br>actual |  
+| bip_39_word_new_line_1 | sniff |  
+| bip_39_word_new_line_10 | sniff
 mix
 seat
 reason
@@ -55,7 +55,7 @@ outside
 dash
 actual
 cart |  
-| bip_39_word_new_line11 | sniff
+| bip_39_word_new_line_11 | sniff
 mix
 seat
 reason
@@ -66,7 +66,7 @@ dash
 actual
 cart
 regret |  
-| bip_39_word_new_line12 | sniff
+| bip_39_word_new_line_12 | sniff
 mix
 seat
 reason
@@ -78,34 +78,34 @@ actual
 cart
 regret
 apology |  
-| bip_39_word_new_line2 | sniff
+| bip_39_word_new_line_2 | sniff
 mix |  
-| bip_39_word_new_line3 | sniff
+| bip_39_word_new_line_3 | sniff
 mix
 seat |  
-| bip_39_word_new_line4 | sniff
+| bip_39_word_new_line_4 | sniff
 mix
 seat
 reason |  
-| bip_39_word_new_line5 | sniff
+| bip_39_word_new_line_5 | sniff
 mix
 seat
 reason
 innocent |  
-| bip_39_word_new_line6 | sniff
+| bip_39_word_new_line_6 | sniff
 mix
 seat
 reason
 innocent
 produce |  
-| bip_39_word_new_line7 | sniff
+| bip_39_word_new_line_7 | sniff
 mix
 seat
 reason
 innocent
 produce
 outside |  
-| bip_39_word_new_line8 | sniff
+| bip_39_word_new_line_8 | sniff
 mix
 seat
 reason
@@ -113,7 +113,7 @@ innocent
 produce
 outside
 dash |  
-| bip_39_word_new_line9 | sniff
+| bip_39_word_new_line_9 | sniff
 mix
 seat
 reason

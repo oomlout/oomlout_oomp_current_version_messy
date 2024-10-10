@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bleak |  
-| bip_39_word_new_br10 | bleak<br>stamp<br>assume<br>acid<br>size<br>ordinary<br>ride<br>kiwi<br>hundred<br>ugly |  
-| bip_39_word_new_br11 | bleak<br>stamp<br>assume<br>acid<br>size<br>ordinary<br>ride<br>kiwi<br>hundred<br>ugly<br>menu |  
-| bip_39_word_new_br12 | bleak<br>stamp<br>assume<br>acid<br>size<br>ordinary<br>ride<br>kiwi<br>hundred<br>ugly<br>menu<br>acoustic |  
-| bip_39_word_new_br2 | bleak<br>stamp |  
-| bip_39_word_new_br3 | bleak<br>stamp<br>assume |  
-| bip_39_word_new_br4 | bleak<br>stamp<br>assume<br>acid |  
-| bip_39_word_new_br5 | bleak<br>stamp<br>assume<br>acid<br>size |  
-| bip_39_word_new_br6 | bleak<br>stamp<br>assume<br>acid<br>size<br>ordinary |  
-| bip_39_word_new_br7 | bleak<br>stamp<br>assume<br>acid<br>size<br>ordinary<br>ride |  
-| bip_39_word_new_br8 | bleak<br>stamp<br>assume<br>acid<br>size<br>ordinary<br>ride<br>kiwi |  
-| bip_39_word_new_br9 | bleak<br>stamp<br>assume<br>acid<br>size<br>ordinary<br>ride<br>kiwi<br>hundred |  
-| bip_39_word_new_line1 | bleak |  
-| bip_39_word_new_line10 | bleak
+| bip_39_word_new_br_1 | bleak |  
+| bip_39_word_new_br_10 | bleak<br>stamp<br>assume<br>acid<br>size<br>ordinary<br>ride<br>kiwi<br>hundred<br>ugly |  
+| bip_39_word_new_br_11 | bleak<br>stamp<br>assume<br>acid<br>size<br>ordinary<br>ride<br>kiwi<br>hundred<br>ugly<br>menu |  
+| bip_39_word_new_br_12 | bleak<br>stamp<br>assume<br>acid<br>size<br>ordinary<br>ride<br>kiwi<br>hundred<br>ugly<br>menu<br>acoustic |  
+| bip_39_word_new_br_2 | bleak<br>stamp |  
+| bip_39_word_new_br_3 | bleak<br>stamp<br>assume |  
+| bip_39_word_new_br_4 | bleak<br>stamp<br>assume<br>acid |  
+| bip_39_word_new_br_5 | bleak<br>stamp<br>assume<br>acid<br>size |  
+| bip_39_word_new_br_6 | bleak<br>stamp<br>assume<br>acid<br>size<br>ordinary |  
+| bip_39_word_new_br_7 | bleak<br>stamp<br>assume<br>acid<br>size<br>ordinary<br>ride |  
+| bip_39_word_new_br_8 | bleak<br>stamp<br>assume<br>acid<br>size<br>ordinary<br>ride<br>kiwi |  
+| bip_39_word_new_br_9 | bleak<br>stamp<br>assume<br>acid<br>size<br>ordinary<br>ride<br>kiwi<br>hundred |  
+| bip_39_word_new_line_1 | bleak |  
+| bip_39_word_new_line_10 | bleak
 stamp
 assume
 acid
@@ -55,7 +55,7 @@ ride
 kiwi
 hundred
 ugly |  
-| bip_39_word_new_line11 | bleak
+| bip_39_word_new_line_11 | bleak
 stamp
 assume
 acid
@@ -66,7 +66,7 @@ kiwi
 hundred
 ugly
 menu |  
-| bip_39_word_new_line12 | bleak
+| bip_39_word_new_line_12 | bleak
 stamp
 assume
 acid
@@ -78,34 +78,34 @@ hundred
 ugly
 menu
 acoustic |  
-| bip_39_word_new_line2 | bleak
+| bip_39_word_new_line_2 | bleak
 stamp |  
-| bip_39_word_new_line3 | bleak
+| bip_39_word_new_line_3 | bleak
 stamp
 assume |  
-| bip_39_word_new_line4 | bleak
+| bip_39_word_new_line_4 | bleak
 stamp
 assume
 acid |  
-| bip_39_word_new_line5 | bleak
+| bip_39_word_new_line_5 | bleak
 stamp
 assume
 acid
 size |  
-| bip_39_word_new_line6 | bleak
+| bip_39_word_new_line_6 | bleak
 stamp
 assume
 acid
 size
 ordinary |  
-| bip_39_word_new_line7 | bleak
+| bip_39_word_new_line_7 | bleak
 stamp
 assume
 acid
 size
 ordinary
 ride |  
-| bip_39_word_new_line8 | bleak
+| bip_39_word_new_line_8 | bleak
 stamp
 assume
 acid
@@ -113,7 +113,7 @@ size
 ordinary
 ride
 kiwi |  
-| bip_39_word_new_line9 | bleak
+| bip_39_word_new_line_9 | bleak
 stamp
 assume
 acid

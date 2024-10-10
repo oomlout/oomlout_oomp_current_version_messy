@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | episode |  
-| bip_39_word_new_br10 | episode<br>during<br>window<br>share<br>artefact<br>make<br>lava<br>ticket<br>speak<br>plate |  
-| bip_39_word_new_br11 | episode<br>during<br>window<br>share<br>artefact<br>make<br>lava<br>ticket<br>speak<br>plate<br>ridge |  
-| bip_39_word_new_br12 | episode<br>during<br>window<br>share<br>artefact<br>make<br>lava<br>ticket<br>speak<br>plate<br>ridge<br>able |  
-| bip_39_word_new_br2 | episode<br>during |  
-| bip_39_word_new_br3 | episode<br>during<br>window |  
-| bip_39_word_new_br4 | episode<br>during<br>window<br>share |  
-| bip_39_word_new_br5 | episode<br>during<br>window<br>share<br>artefact |  
-| bip_39_word_new_br6 | episode<br>during<br>window<br>share<br>artefact<br>make |  
-| bip_39_word_new_br7 | episode<br>during<br>window<br>share<br>artefact<br>make<br>lava |  
-| bip_39_word_new_br8 | episode<br>during<br>window<br>share<br>artefact<br>make<br>lava<br>ticket |  
-| bip_39_word_new_br9 | episode<br>during<br>window<br>share<br>artefact<br>make<br>lava<br>ticket<br>speak |  
-| bip_39_word_new_line1 | episode |  
-| bip_39_word_new_line10 | episode
+| bip_39_word_new_br_1 | episode |  
+| bip_39_word_new_br_10 | episode<br>during<br>window<br>share<br>artefact<br>make<br>lava<br>ticket<br>speak<br>plate |  
+| bip_39_word_new_br_11 | episode<br>during<br>window<br>share<br>artefact<br>make<br>lava<br>ticket<br>speak<br>plate<br>ridge |  
+| bip_39_word_new_br_12 | episode<br>during<br>window<br>share<br>artefact<br>make<br>lava<br>ticket<br>speak<br>plate<br>ridge<br>able |  
+| bip_39_word_new_br_2 | episode<br>during |  
+| bip_39_word_new_br_3 | episode<br>during<br>window |  
+| bip_39_word_new_br_4 | episode<br>during<br>window<br>share |  
+| bip_39_word_new_br_5 | episode<br>during<br>window<br>share<br>artefact |  
+| bip_39_word_new_br_6 | episode<br>during<br>window<br>share<br>artefact<br>make |  
+| bip_39_word_new_br_7 | episode<br>during<br>window<br>share<br>artefact<br>make<br>lava |  
+| bip_39_word_new_br_8 | episode<br>during<br>window<br>share<br>artefact<br>make<br>lava<br>ticket |  
+| bip_39_word_new_br_9 | episode<br>during<br>window<br>share<br>artefact<br>make<br>lava<br>ticket<br>speak |  
+| bip_39_word_new_line_1 | episode |  
+| bip_39_word_new_line_10 | episode
 during
 window
 share
@@ -55,7 +55,7 @@ lava
 ticket
 speak
 plate |  
-| bip_39_word_new_line11 | episode
+| bip_39_word_new_line_11 | episode
 during
 window
 share
@@ -66,7 +66,7 @@ ticket
 speak
 plate
 ridge |  
-| bip_39_word_new_line12 | episode
+| bip_39_word_new_line_12 | episode
 during
 window
 share
@@ -78,34 +78,34 @@ speak
 plate
 ridge
 able |  
-| bip_39_word_new_line2 | episode
+| bip_39_word_new_line_2 | episode
 during |  
-| bip_39_word_new_line3 | episode
+| bip_39_word_new_line_3 | episode
 during
 window |  
-| bip_39_word_new_line4 | episode
+| bip_39_word_new_line_4 | episode
 during
 window
 share |  
-| bip_39_word_new_line5 | episode
+| bip_39_word_new_line_5 | episode
 during
 window
 share
 artefact |  
-| bip_39_word_new_line6 | episode
+| bip_39_word_new_line_6 | episode
 during
 window
 share
 artefact
 make |  
-| bip_39_word_new_line7 | episode
+| bip_39_word_new_line_7 | episode
 during
 window
 share
 artefact
 make
 lava |  
-| bip_39_word_new_line8 | episode
+| bip_39_word_new_line_8 | episode
 during
 window
 share
@@ -113,7 +113,7 @@ artefact
 make
 lava
 ticket |  
-| bip_39_word_new_line9 | episode
+| bip_39_word_new_line_9 | episode
 during
 window
 share

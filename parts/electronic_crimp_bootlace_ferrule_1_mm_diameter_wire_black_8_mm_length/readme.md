@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | initial |  
-| bip_39_word_new_br10 | initial<br>receive<br>term<br>rail<br>civil<br>broken<br>prepare<br>pepper<br>lift<br>spy |  
-| bip_39_word_new_br11 | initial<br>receive<br>term<br>rail<br>civil<br>broken<br>prepare<br>pepper<br>lift<br>spy<br>debate |  
-| bip_39_word_new_br12 | initial<br>receive<br>term<br>rail<br>civil<br>broken<br>prepare<br>pepper<br>lift<br>spy<br>debate<br>arrow |  
-| bip_39_word_new_br2 | initial<br>receive |  
-| bip_39_word_new_br3 | initial<br>receive<br>term |  
-| bip_39_word_new_br4 | initial<br>receive<br>term<br>rail |  
-| bip_39_word_new_br5 | initial<br>receive<br>term<br>rail<br>civil |  
-| bip_39_word_new_br6 | initial<br>receive<br>term<br>rail<br>civil<br>broken |  
-| bip_39_word_new_br7 | initial<br>receive<br>term<br>rail<br>civil<br>broken<br>prepare |  
-| bip_39_word_new_br8 | initial<br>receive<br>term<br>rail<br>civil<br>broken<br>prepare<br>pepper |  
-| bip_39_word_new_br9 | initial<br>receive<br>term<br>rail<br>civil<br>broken<br>prepare<br>pepper<br>lift |  
-| bip_39_word_new_line1 | initial |  
-| bip_39_word_new_line10 | initial
+| bip_39_word_new_br_1 | initial |  
+| bip_39_word_new_br_10 | initial<br>receive<br>term<br>rail<br>civil<br>broken<br>prepare<br>pepper<br>lift<br>spy |  
+| bip_39_word_new_br_11 | initial<br>receive<br>term<br>rail<br>civil<br>broken<br>prepare<br>pepper<br>lift<br>spy<br>debate |  
+| bip_39_word_new_br_12 | initial<br>receive<br>term<br>rail<br>civil<br>broken<br>prepare<br>pepper<br>lift<br>spy<br>debate<br>arrow |  
+| bip_39_word_new_br_2 | initial<br>receive |  
+| bip_39_word_new_br_3 | initial<br>receive<br>term |  
+| bip_39_word_new_br_4 | initial<br>receive<br>term<br>rail |  
+| bip_39_word_new_br_5 | initial<br>receive<br>term<br>rail<br>civil |  
+| bip_39_word_new_br_6 | initial<br>receive<br>term<br>rail<br>civil<br>broken |  
+| bip_39_word_new_br_7 | initial<br>receive<br>term<br>rail<br>civil<br>broken<br>prepare |  
+| bip_39_word_new_br_8 | initial<br>receive<br>term<br>rail<br>civil<br>broken<br>prepare<br>pepper |  
+| bip_39_word_new_br_9 | initial<br>receive<br>term<br>rail<br>civil<br>broken<br>prepare<br>pepper<br>lift |  
+| bip_39_word_new_line_1 | initial |  
+| bip_39_word_new_line_10 | initial
 receive
 term
 rail
@@ -55,7 +55,7 @@ prepare
 pepper
 lift
 spy |  
-| bip_39_word_new_line11 | initial
+| bip_39_word_new_line_11 | initial
 receive
 term
 rail
@@ -66,7 +66,7 @@ pepper
 lift
 spy
 debate |  
-| bip_39_word_new_line12 | initial
+| bip_39_word_new_line_12 | initial
 receive
 term
 rail
@@ -78,34 +78,34 @@ lift
 spy
 debate
 arrow |  
-| bip_39_word_new_line2 | initial
+| bip_39_word_new_line_2 | initial
 receive |  
-| bip_39_word_new_line3 | initial
+| bip_39_word_new_line_3 | initial
 receive
 term |  
-| bip_39_word_new_line4 | initial
+| bip_39_word_new_line_4 | initial
 receive
 term
 rail |  
-| bip_39_word_new_line5 | initial
+| bip_39_word_new_line_5 | initial
 receive
 term
 rail
 civil |  
-| bip_39_word_new_line6 | initial
+| bip_39_word_new_line_6 | initial
 receive
 term
 rail
 civil
 broken |  
-| bip_39_word_new_line7 | initial
+| bip_39_word_new_line_7 | initial
 receive
 term
 rail
 civil
 broken
 prepare |  
-| bip_39_word_new_line8 | initial
+| bip_39_word_new_line_8 | initial
 receive
 term
 rail
@@ -113,7 +113,7 @@ civil
 broken
 prepare
 pepper |  
-| bip_39_word_new_line9 | initial
+| bip_39_word_new_line_9 | initial
 receive
 term
 rail

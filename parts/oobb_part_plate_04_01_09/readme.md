@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | quantum |  
-| bip_39_word_new_br10 | quantum<br>nature<br>oval<br>celery<br>decide<br>orange<br>damp<br>congress<br>original<br>brisk |  
-| bip_39_word_new_br11 | quantum<br>nature<br>oval<br>celery<br>decide<br>orange<br>damp<br>congress<br>original<br>brisk<br>viable |  
-| bip_39_word_new_br12 | quantum<br>nature<br>oval<br>celery<br>decide<br>orange<br>damp<br>congress<br>original<br>brisk<br>viable<br>arctic |  
-| bip_39_word_new_br2 | quantum<br>nature |  
-| bip_39_word_new_br3 | quantum<br>nature<br>oval |  
-| bip_39_word_new_br4 | quantum<br>nature<br>oval<br>celery |  
-| bip_39_word_new_br5 | quantum<br>nature<br>oval<br>celery<br>decide |  
-| bip_39_word_new_br6 | quantum<br>nature<br>oval<br>celery<br>decide<br>orange |  
-| bip_39_word_new_br7 | quantum<br>nature<br>oval<br>celery<br>decide<br>orange<br>damp |  
-| bip_39_word_new_br8 | quantum<br>nature<br>oval<br>celery<br>decide<br>orange<br>damp<br>congress |  
-| bip_39_word_new_br9 | quantum<br>nature<br>oval<br>celery<br>decide<br>orange<br>damp<br>congress<br>original |  
-| bip_39_word_new_line1 | quantum |  
-| bip_39_word_new_line10 | quantum
+| bip_39_word_new_br_1 | quantum |  
+| bip_39_word_new_br_10 | quantum<br>nature<br>oval<br>celery<br>decide<br>orange<br>damp<br>congress<br>original<br>brisk |  
+| bip_39_word_new_br_11 | quantum<br>nature<br>oval<br>celery<br>decide<br>orange<br>damp<br>congress<br>original<br>brisk<br>viable |  
+| bip_39_word_new_br_12 | quantum<br>nature<br>oval<br>celery<br>decide<br>orange<br>damp<br>congress<br>original<br>brisk<br>viable<br>arctic |  
+| bip_39_word_new_br_2 | quantum<br>nature |  
+| bip_39_word_new_br_3 | quantum<br>nature<br>oval |  
+| bip_39_word_new_br_4 | quantum<br>nature<br>oval<br>celery |  
+| bip_39_word_new_br_5 | quantum<br>nature<br>oval<br>celery<br>decide |  
+| bip_39_word_new_br_6 | quantum<br>nature<br>oval<br>celery<br>decide<br>orange |  
+| bip_39_word_new_br_7 | quantum<br>nature<br>oval<br>celery<br>decide<br>orange<br>damp |  
+| bip_39_word_new_br_8 | quantum<br>nature<br>oval<br>celery<br>decide<br>orange<br>damp<br>congress |  
+| bip_39_word_new_br_9 | quantum<br>nature<br>oval<br>celery<br>decide<br>orange<br>damp<br>congress<br>original |  
+| bip_39_word_new_line_1 | quantum |  
+| bip_39_word_new_line_10 | quantum
 nature
 oval
 celery
@@ -55,7 +55,7 @@ damp
 congress
 original
 brisk |  
-| bip_39_word_new_line11 | quantum
+| bip_39_word_new_line_11 | quantum
 nature
 oval
 celery
@@ -66,7 +66,7 @@ congress
 original
 brisk
 viable |  
-| bip_39_word_new_line12 | quantum
+| bip_39_word_new_line_12 | quantum
 nature
 oval
 celery
@@ -78,34 +78,34 @@ original
 brisk
 viable
 arctic |  
-| bip_39_word_new_line2 | quantum
+| bip_39_word_new_line_2 | quantum
 nature |  
-| bip_39_word_new_line3 | quantum
+| bip_39_word_new_line_3 | quantum
 nature
 oval |  
-| bip_39_word_new_line4 | quantum
+| bip_39_word_new_line_4 | quantum
 nature
 oval
 celery |  
-| bip_39_word_new_line5 | quantum
+| bip_39_word_new_line_5 | quantum
 nature
 oval
 celery
 decide |  
-| bip_39_word_new_line6 | quantum
+| bip_39_word_new_line_6 | quantum
 nature
 oval
 celery
 decide
 orange |  
-| bip_39_word_new_line7 | quantum
+| bip_39_word_new_line_7 | quantum
 nature
 oval
 celery
 decide
 orange
 damp |  
-| bip_39_word_new_line8 | quantum
+| bip_39_word_new_line_8 | quantum
 nature
 oval
 celery
@@ -113,7 +113,7 @@ decide
 orange
 damp
 congress |  
-| bip_39_word_new_line9 | quantum
+| bip_39_word_new_line_9 | quantum
 nature
 oval
 celery

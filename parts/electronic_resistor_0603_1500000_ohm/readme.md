@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | awesome |  
-| bip_39_word_new_br10 | awesome<br>bronze<br>deny<br>squeeze<br>stomach<br>jungle<br>filter<br>scout<br>iron<br>rebuild |  
-| bip_39_word_new_br11 | awesome<br>bronze<br>deny<br>squeeze<br>stomach<br>jungle<br>filter<br>scout<br>iron<br>rebuild<br>radar |  
-| bip_39_word_new_br12 | awesome<br>bronze<br>deny<br>squeeze<br>stomach<br>jungle<br>filter<br>scout<br>iron<br>rebuild<br>radar<br>arctic |  
-| bip_39_word_new_br2 | awesome<br>bronze |  
-| bip_39_word_new_br3 | awesome<br>bronze<br>deny |  
-| bip_39_word_new_br4 | awesome<br>bronze<br>deny<br>squeeze |  
-| bip_39_word_new_br5 | awesome<br>bronze<br>deny<br>squeeze<br>stomach |  
-| bip_39_word_new_br6 | awesome<br>bronze<br>deny<br>squeeze<br>stomach<br>jungle |  
-| bip_39_word_new_br7 | awesome<br>bronze<br>deny<br>squeeze<br>stomach<br>jungle<br>filter |  
-| bip_39_word_new_br8 | awesome<br>bronze<br>deny<br>squeeze<br>stomach<br>jungle<br>filter<br>scout |  
-| bip_39_word_new_br9 | awesome<br>bronze<br>deny<br>squeeze<br>stomach<br>jungle<br>filter<br>scout<br>iron |  
-| bip_39_word_new_line1 | awesome |  
-| bip_39_word_new_line10 | awesome
+| bip_39_word_new_br_1 | awesome |  
+| bip_39_word_new_br_10 | awesome<br>bronze<br>deny<br>squeeze<br>stomach<br>jungle<br>filter<br>scout<br>iron<br>rebuild |  
+| bip_39_word_new_br_11 | awesome<br>bronze<br>deny<br>squeeze<br>stomach<br>jungle<br>filter<br>scout<br>iron<br>rebuild<br>radar |  
+| bip_39_word_new_br_12 | awesome<br>bronze<br>deny<br>squeeze<br>stomach<br>jungle<br>filter<br>scout<br>iron<br>rebuild<br>radar<br>arctic |  
+| bip_39_word_new_br_2 | awesome<br>bronze |  
+| bip_39_word_new_br_3 | awesome<br>bronze<br>deny |  
+| bip_39_word_new_br_4 | awesome<br>bronze<br>deny<br>squeeze |  
+| bip_39_word_new_br_5 | awesome<br>bronze<br>deny<br>squeeze<br>stomach |  
+| bip_39_word_new_br_6 | awesome<br>bronze<br>deny<br>squeeze<br>stomach<br>jungle |  
+| bip_39_word_new_br_7 | awesome<br>bronze<br>deny<br>squeeze<br>stomach<br>jungle<br>filter |  
+| bip_39_word_new_br_8 | awesome<br>bronze<br>deny<br>squeeze<br>stomach<br>jungle<br>filter<br>scout |  
+| bip_39_word_new_br_9 | awesome<br>bronze<br>deny<br>squeeze<br>stomach<br>jungle<br>filter<br>scout<br>iron |  
+| bip_39_word_new_line_1 | awesome |  
+| bip_39_word_new_line_10 | awesome
 bronze
 deny
 squeeze
@@ -55,7 +55,7 @@ filter
 scout
 iron
 rebuild |  
-| bip_39_word_new_line11 | awesome
+| bip_39_word_new_line_11 | awesome
 bronze
 deny
 squeeze
@@ -66,7 +66,7 @@ scout
 iron
 rebuild
 radar |  
-| bip_39_word_new_line12 | awesome
+| bip_39_word_new_line_12 | awesome
 bronze
 deny
 squeeze
@@ -78,34 +78,34 @@ iron
 rebuild
 radar
 arctic |  
-| bip_39_word_new_line2 | awesome
+| bip_39_word_new_line_2 | awesome
 bronze |  
-| bip_39_word_new_line3 | awesome
+| bip_39_word_new_line_3 | awesome
 bronze
 deny |  
-| bip_39_word_new_line4 | awesome
+| bip_39_word_new_line_4 | awesome
 bronze
 deny
 squeeze |  
-| bip_39_word_new_line5 | awesome
+| bip_39_word_new_line_5 | awesome
 bronze
 deny
 squeeze
 stomach |  
-| bip_39_word_new_line6 | awesome
+| bip_39_word_new_line_6 | awesome
 bronze
 deny
 squeeze
 stomach
 jungle |  
-| bip_39_word_new_line7 | awesome
+| bip_39_word_new_line_7 | awesome
 bronze
 deny
 squeeze
 stomach
 jungle
 filter |  
-| bip_39_word_new_line8 | awesome
+| bip_39_word_new_line_8 | awesome
 bronze
 deny
 squeeze
@@ -113,7 +113,7 @@ stomach
 jungle
 filter
 scout |  
-| bip_39_word_new_line9 | awesome
+| bip_39_word_new_line_9 | awesome
 bronze
 deny
 squeeze

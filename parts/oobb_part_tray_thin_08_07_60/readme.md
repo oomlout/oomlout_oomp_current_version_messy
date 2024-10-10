@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | eternal |  
-| bip_39_word_new_br10 | eternal<br>birth<br>tent<br>staff<br>oppose<br>stone<br>blue<br>battle<br>occur<br>snap |  
-| bip_39_word_new_br11 | eternal<br>birth<br>tent<br>staff<br>oppose<br>stone<br>blue<br>battle<br>occur<br>snap<br>distance |  
-| bip_39_word_new_br12 | eternal<br>birth<br>tent<br>staff<br>oppose<br>stone<br>blue<br>battle<br>occur<br>snap<br>distance<br>arm |  
-| bip_39_word_new_br2 | eternal<br>birth |  
-| bip_39_word_new_br3 | eternal<br>birth<br>tent |  
-| bip_39_word_new_br4 | eternal<br>birth<br>tent<br>staff |  
-| bip_39_word_new_br5 | eternal<br>birth<br>tent<br>staff<br>oppose |  
-| bip_39_word_new_br6 | eternal<br>birth<br>tent<br>staff<br>oppose<br>stone |  
-| bip_39_word_new_br7 | eternal<br>birth<br>tent<br>staff<br>oppose<br>stone<br>blue |  
-| bip_39_word_new_br8 | eternal<br>birth<br>tent<br>staff<br>oppose<br>stone<br>blue<br>battle |  
-| bip_39_word_new_br9 | eternal<br>birth<br>tent<br>staff<br>oppose<br>stone<br>blue<br>battle<br>occur |  
-| bip_39_word_new_line1 | eternal |  
-| bip_39_word_new_line10 | eternal
+| bip_39_word_new_br_1 | eternal |  
+| bip_39_word_new_br_10 | eternal<br>birth<br>tent<br>staff<br>oppose<br>stone<br>blue<br>battle<br>occur<br>snap |  
+| bip_39_word_new_br_11 | eternal<br>birth<br>tent<br>staff<br>oppose<br>stone<br>blue<br>battle<br>occur<br>snap<br>distance |  
+| bip_39_word_new_br_12 | eternal<br>birth<br>tent<br>staff<br>oppose<br>stone<br>blue<br>battle<br>occur<br>snap<br>distance<br>arm |  
+| bip_39_word_new_br_2 | eternal<br>birth |  
+| bip_39_word_new_br_3 | eternal<br>birth<br>tent |  
+| bip_39_word_new_br_4 | eternal<br>birth<br>tent<br>staff |  
+| bip_39_word_new_br_5 | eternal<br>birth<br>tent<br>staff<br>oppose |  
+| bip_39_word_new_br_6 | eternal<br>birth<br>tent<br>staff<br>oppose<br>stone |  
+| bip_39_word_new_br_7 | eternal<br>birth<br>tent<br>staff<br>oppose<br>stone<br>blue |  
+| bip_39_word_new_br_8 | eternal<br>birth<br>tent<br>staff<br>oppose<br>stone<br>blue<br>battle |  
+| bip_39_word_new_br_9 | eternal<br>birth<br>tent<br>staff<br>oppose<br>stone<br>blue<br>battle<br>occur |  
+| bip_39_word_new_line_1 | eternal |  
+| bip_39_word_new_line_10 | eternal
 birth
 tent
 staff
@@ -55,7 +55,7 @@ blue
 battle
 occur
 snap |  
-| bip_39_word_new_line11 | eternal
+| bip_39_word_new_line_11 | eternal
 birth
 tent
 staff
@@ -66,7 +66,7 @@ battle
 occur
 snap
 distance |  
-| bip_39_word_new_line12 | eternal
+| bip_39_word_new_line_12 | eternal
 birth
 tent
 staff
@@ -78,34 +78,34 @@ occur
 snap
 distance
 arm |  
-| bip_39_word_new_line2 | eternal
+| bip_39_word_new_line_2 | eternal
 birth |  
-| bip_39_word_new_line3 | eternal
+| bip_39_word_new_line_3 | eternal
 birth
 tent |  
-| bip_39_word_new_line4 | eternal
+| bip_39_word_new_line_4 | eternal
 birth
 tent
 staff |  
-| bip_39_word_new_line5 | eternal
+| bip_39_word_new_line_5 | eternal
 birth
 tent
 staff
 oppose |  
-| bip_39_word_new_line6 | eternal
+| bip_39_word_new_line_6 | eternal
 birth
 tent
 staff
 oppose
 stone |  
-| bip_39_word_new_line7 | eternal
+| bip_39_word_new_line_7 | eternal
 birth
 tent
 staff
 oppose
 stone
 blue |  
-| bip_39_word_new_line8 | eternal
+| bip_39_word_new_line_8 | eternal
 birth
 tent
 staff
@@ -113,7 +113,7 @@ oppose
 stone
 blue
 battle |  
-| bip_39_word_new_line9 | eternal
+| bip_39_word_new_line_9 | eternal
 birth
 tent
 staff

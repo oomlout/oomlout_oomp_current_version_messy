@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | short |  
-| bip_39_word_new_br10 | short<br>acquire<br>lazy<br>exercise<br>episode<br>warrior<br>fitness<br>dress<br>churn<br>erosion |  
-| bip_39_word_new_br11 | short<br>acquire<br>lazy<br>exercise<br>episode<br>warrior<br>fitness<br>dress<br>churn<br>erosion<br>smart |  
-| bip_39_word_new_br12 | short<br>acquire<br>lazy<br>exercise<br>episode<br>warrior<br>fitness<br>dress<br>churn<br>erosion<br>smart<br>april |  
-| bip_39_word_new_br2 | short<br>acquire |  
-| bip_39_word_new_br3 | short<br>acquire<br>lazy |  
-| bip_39_word_new_br4 | short<br>acquire<br>lazy<br>exercise |  
-| bip_39_word_new_br5 | short<br>acquire<br>lazy<br>exercise<br>episode |  
-| bip_39_word_new_br6 | short<br>acquire<br>lazy<br>exercise<br>episode<br>warrior |  
-| bip_39_word_new_br7 | short<br>acquire<br>lazy<br>exercise<br>episode<br>warrior<br>fitness |  
-| bip_39_word_new_br8 | short<br>acquire<br>lazy<br>exercise<br>episode<br>warrior<br>fitness<br>dress |  
-| bip_39_word_new_br9 | short<br>acquire<br>lazy<br>exercise<br>episode<br>warrior<br>fitness<br>dress<br>churn |  
-| bip_39_word_new_line1 | short |  
-| bip_39_word_new_line10 | short
+| bip_39_word_new_br_1 | short |  
+| bip_39_word_new_br_10 | short<br>acquire<br>lazy<br>exercise<br>episode<br>warrior<br>fitness<br>dress<br>churn<br>erosion |  
+| bip_39_word_new_br_11 | short<br>acquire<br>lazy<br>exercise<br>episode<br>warrior<br>fitness<br>dress<br>churn<br>erosion<br>smart |  
+| bip_39_word_new_br_12 | short<br>acquire<br>lazy<br>exercise<br>episode<br>warrior<br>fitness<br>dress<br>churn<br>erosion<br>smart<br>april |  
+| bip_39_word_new_br_2 | short<br>acquire |  
+| bip_39_word_new_br_3 | short<br>acquire<br>lazy |  
+| bip_39_word_new_br_4 | short<br>acquire<br>lazy<br>exercise |  
+| bip_39_word_new_br_5 | short<br>acquire<br>lazy<br>exercise<br>episode |  
+| bip_39_word_new_br_6 | short<br>acquire<br>lazy<br>exercise<br>episode<br>warrior |  
+| bip_39_word_new_br_7 | short<br>acquire<br>lazy<br>exercise<br>episode<br>warrior<br>fitness |  
+| bip_39_word_new_br_8 | short<br>acquire<br>lazy<br>exercise<br>episode<br>warrior<br>fitness<br>dress |  
+| bip_39_word_new_br_9 | short<br>acquire<br>lazy<br>exercise<br>episode<br>warrior<br>fitness<br>dress<br>churn |  
+| bip_39_word_new_line_1 | short |  
+| bip_39_word_new_line_10 | short
 acquire
 lazy
 exercise
@@ -55,7 +55,7 @@ fitness
 dress
 churn
 erosion |  
-| bip_39_word_new_line11 | short
+| bip_39_word_new_line_11 | short
 acquire
 lazy
 exercise
@@ -66,7 +66,7 @@ dress
 churn
 erosion
 smart |  
-| bip_39_word_new_line12 | short
+| bip_39_word_new_line_12 | short
 acquire
 lazy
 exercise
@@ -78,34 +78,34 @@ churn
 erosion
 smart
 april |  
-| bip_39_word_new_line2 | short
+| bip_39_word_new_line_2 | short
 acquire |  
-| bip_39_word_new_line3 | short
+| bip_39_word_new_line_3 | short
 acquire
 lazy |  
-| bip_39_word_new_line4 | short
+| bip_39_word_new_line_4 | short
 acquire
 lazy
 exercise |  
-| bip_39_word_new_line5 | short
+| bip_39_word_new_line_5 | short
 acquire
 lazy
 exercise
 episode |  
-| bip_39_word_new_line6 | short
+| bip_39_word_new_line_6 | short
 acquire
 lazy
 exercise
 episode
 warrior |  
-| bip_39_word_new_line7 | short
+| bip_39_word_new_line_7 | short
 acquire
 lazy
 exercise
 episode
 warrior
 fitness |  
-| bip_39_word_new_line8 | short
+| bip_39_word_new_line_8 | short
 acquire
 lazy
 exercise
@@ -113,7 +113,7 @@ episode
 warrior
 fitness
 dress |  
-| bip_39_word_new_line9 | short
+| bip_39_word_new_line_9 | short
 acquire
 lazy
 exercise

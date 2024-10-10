@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mechanic |  
-| bip_39_word_new_br10 | mechanic<br>load<br>pink<br>ankle<br>help<br>action<br>use<br>hand<br>mule<br>obtain |  
-| bip_39_word_new_br11 | mechanic<br>load<br>pink<br>ankle<br>help<br>action<br>use<br>hand<br>mule<br>obtain<br>craft |  
-| bip_39_word_new_br12 | mechanic<br>load<br>pink<br>ankle<br>help<br>action<br>use<br>hand<br>mule<br>obtain<br>craft<br>august |  
-| bip_39_word_new_br2 | mechanic<br>load |  
-| bip_39_word_new_br3 | mechanic<br>load<br>pink |  
-| bip_39_word_new_br4 | mechanic<br>load<br>pink<br>ankle |  
-| bip_39_word_new_br5 | mechanic<br>load<br>pink<br>ankle<br>help |  
-| bip_39_word_new_br6 | mechanic<br>load<br>pink<br>ankle<br>help<br>action |  
-| bip_39_word_new_br7 | mechanic<br>load<br>pink<br>ankle<br>help<br>action<br>use |  
-| bip_39_word_new_br8 | mechanic<br>load<br>pink<br>ankle<br>help<br>action<br>use<br>hand |  
-| bip_39_word_new_br9 | mechanic<br>load<br>pink<br>ankle<br>help<br>action<br>use<br>hand<br>mule |  
-| bip_39_word_new_line1 | mechanic |  
-| bip_39_word_new_line10 | mechanic
+| bip_39_word_new_br_1 | mechanic |  
+| bip_39_word_new_br_10 | mechanic<br>load<br>pink<br>ankle<br>help<br>action<br>use<br>hand<br>mule<br>obtain |  
+| bip_39_word_new_br_11 | mechanic<br>load<br>pink<br>ankle<br>help<br>action<br>use<br>hand<br>mule<br>obtain<br>craft |  
+| bip_39_word_new_br_12 | mechanic<br>load<br>pink<br>ankle<br>help<br>action<br>use<br>hand<br>mule<br>obtain<br>craft<br>august |  
+| bip_39_word_new_br_2 | mechanic<br>load |  
+| bip_39_word_new_br_3 | mechanic<br>load<br>pink |  
+| bip_39_word_new_br_4 | mechanic<br>load<br>pink<br>ankle |  
+| bip_39_word_new_br_5 | mechanic<br>load<br>pink<br>ankle<br>help |  
+| bip_39_word_new_br_6 | mechanic<br>load<br>pink<br>ankle<br>help<br>action |  
+| bip_39_word_new_br_7 | mechanic<br>load<br>pink<br>ankle<br>help<br>action<br>use |  
+| bip_39_word_new_br_8 | mechanic<br>load<br>pink<br>ankle<br>help<br>action<br>use<br>hand |  
+| bip_39_word_new_br_9 | mechanic<br>load<br>pink<br>ankle<br>help<br>action<br>use<br>hand<br>mule |  
+| bip_39_word_new_line_1 | mechanic |  
+| bip_39_word_new_line_10 | mechanic
 load
 pink
 ankle
@@ -55,7 +55,7 @@ use
 hand
 mule
 obtain |  
-| bip_39_word_new_line11 | mechanic
+| bip_39_word_new_line_11 | mechanic
 load
 pink
 ankle
@@ -66,7 +66,7 @@ hand
 mule
 obtain
 craft |  
-| bip_39_word_new_line12 | mechanic
+| bip_39_word_new_line_12 | mechanic
 load
 pink
 ankle
@@ -78,34 +78,34 @@ mule
 obtain
 craft
 august |  
-| bip_39_word_new_line2 | mechanic
+| bip_39_word_new_line_2 | mechanic
 load |  
-| bip_39_word_new_line3 | mechanic
+| bip_39_word_new_line_3 | mechanic
 load
 pink |  
-| bip_39_word_new_line4 | mechanic
+| bip_39_word_new_line_4 | mechanic
 load
 pink
 ankle |  
-| bip_39_word_new_line5 | mechanic
+| bip_39_word_new_line_5 | mechanic
 load
 pink
 ankle
 help |  
-| bip_39_word_new_line6 | mechanic
+| bip_39_word_new_line_6 | mechanic
 load
 pink
 ankle
 help
 action |  
-| bip_39_word_new_line7 | mechanic
+| bip_39_word_new_line_7 | mechanic
 load
 pink
 ankle
 help
 action
 use |  
-| bip_39_word_new_line8 | mechanic
+| bip_39_word_new_line_8 | mechanic
 load
 pink
 ankle
@@ -113,7 +113,7 @@ help
 action
 use
 hand |  
-| bip_39_word_new_line9 | mechanic
+| bip_39_word_new_line_9 | mechanic
 load
 pink
 ankle

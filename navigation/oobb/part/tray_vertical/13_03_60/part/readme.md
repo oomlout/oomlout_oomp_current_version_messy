@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | off |  
-| bip_39_word_new_br10 | off<br>then<br>turkey<br>elephant<br>crush<br>need<br>ring<br>record<br>endorse<br>bind |  
-| bip_39_word_new_br11 | off<br>then<br>turkey<br>elephant<br>crush<br>need<br>ring<br>record<br>endorse<br>bind<br>rib |  
-| bip_39_word_new_br12 | off<br>then<br>turkey<br>elephant<br>crush<br>need<br>ring<br>record<br>endorse<br>bind<br>rib<br>attack |  
-| bip_39_word_new_br2 | off<br>then |  
-| bip_39_word_new_br3 | off<br>then<br>turkey |  
-| bip_39_word_new_br4 | off<br>then<br>turkey<br>elephant |  
-| bip_39_word_new_br5 | off<br>then<br>turkey<br>elephant<br>crush |  
-| bip_39_word_new_br6 | off<br>then<br>turkey<br>elephant<br>crush<br>need |  
-| bip_39_word_new_br7 | off<br>then<br>turkey<br>elephant<br>crush<br>need<br>ring |  
-| bip_39_word_new_br8 | off<br>then<br>turkey<br>elephant<br>crush<br>need<br>ring<br>record |  
-| bip_39_word_new_br9 | off<br>then<br>turkey<br>elephant<br>crush<br>need<br>ring<br>record<br>endorse |  
-| bip_39_word_new_line1 | off |  
-| bip_39_word_new_line10 | off
+| bip_39_word_new_br_1 | off |  
+| bip_39_word_new_br_10 | off<br>then<br>turkey<br>elephant<br>crush<br>need<br>ring<br>record<br>endorse<br>bind |  
+| bip_39_word_new_br_11 | off<br>then<br>turkey<br>elephant<br>crush<br>need<br>ring<br>record<br>endorse<br>bind<br>rib |  
+| bip_39_word_new_br_12 | off<br>then<br>turkey<br>elephant<br>crush<br>need<br>ring<br>record<br>endorse<br>bind<br>rib<br>attack |  
+| bip_39_word_new_br_2 | off<br>then |  
+| bip_39_word_new_br_3 | off<br>then<br>turkey |  
+| bip_39_word_new_br_4 | off<br>then<br>turkey<br>elephant |  
+| bip_39_word_new_br_5 | off<br>then<br>turkey<br>elephant<br>crush |  
+| bip_39_word_new_br_6 | off<br>then<br>turkey<br>elephant<br>crush<br>need |  
+| bip_39_word_new_br_7 | off<br>then<br>turkey<br>elephant<br>crush<br>need<br>ring |  
+| bip_39_word_new_br_8 | off<br>then<br>turkey<br>elephant<br>crush<br>need<br>ring<br>record |  
+| bip_39_word_new_br_9 | off<br>then<br>turkey<br>elephant<br>crush<br>need<br>ring<br>record<br>endorse |  
+| bip_39_word_new_line_1 | off |  
+| bip_39_word_new_line_10 | off
 then
 turkey
 elephant
@@ -55,7 +55,7 @@ ring
 record
 endorse
 bind |  
-| bip_39_word_new_line11 | off
+| bip_39_word_new_line_11 | off
 then
 turkey
 elephant
@@ -66,7 +66,7 @@ record
 endorse
 bind
 rib |  
-| bip_39_word_new_line12 | off
+| bip_39_word_new_line_12 | off
 then
 turkey
 elephant
@@ -78,34 +78,34 @@ endorse
 bind
 rib
 attack |  
-| bip_39_word_new_line2 | off
+| bip_39_word_new_line_2 | off
 then |  
-| bip_39_word_new_line3 | off
+| bip_39_word_new_line_3 | off
 then
 turkey |  
-| bip_39_word_new_line4 | off
+| bip_39_word_new_line_4 | off
 then
 turkey
 elephant |  
-| bip_39_word_new_line5 | off
+| bip_39_word_new_line_5 | off
 then
 turkey
 elephant
 crush |  
-| bip_39_word_new_line6 | off
+| bip_39_word_new_line_6 | off
 then
 turkey
 elephant
 crush
 need |  
-| bip_39_word_new_line7 | off
+| bip_39_word_new_line_7 | off
 then
 turkey
 elephant
 crush
 need
 ring |  
-| bip_39_word_new_line8 | off
+| bip_39_word_new_line_8 | off
 then
 turkey
 elephant
@@ -113,7 +113,7 @@ crush
 need
 ring
 record |  
-| bip_39_word_new_line9 | off
+| bip_39_word_new_line_9 | off
 then
 turkey
 elephant

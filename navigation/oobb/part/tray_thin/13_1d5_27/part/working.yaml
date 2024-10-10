@@ -1,17 +1,17 @@
-bip_39_word_new_br1: cute
-bip_39_word_new_br10: cute<br>fish<br>move<br>engage<br>thunder<br>broken<br>vicious<br>chase<br>advance<br>labor
-bip_39_word_new_br11: cute<br>fish<br>move<br>engage<br>thunder<br>broken<br>vicious<br>chase<br>advance<br>labor<br>casual
-bip_39_word_new_br12: cute<br>fish<br>move<br>engage<br>thunder<br>broken<br>vicious<br>chase<br>advance<br>labor<br>casual<br>audit
-bip_39_word_new_br2: cute<br>fish
-bip_39_word_new_br3: cute<br>fish<br>move
-bip_39_word_new_br4: cute<br>fish<br>move<br>engage
-bip_39_word_new_br5: cute<br>fish<br>move<br>engage<br>thunder
-bip_39_word_new_br6: cute<br>fish<br>move<br>engage<br>thunder<br>broken
-bip_39_word_new_br7: cute<br>fish<br>move<br>engage<br>thunder<br>broken<br>vicious
-bip_39_word_new_br8: cute<br>fish<br>move<br>engage<br>thunder<br>broken<br>vicious<br>chase
-bip_39_word_new_br9: cute<br>fish<br>move<br>engage<br>thunder<br>broken<br>vicious<br>chase<br>advance
-bip_39_word_new_line1: cute
-bip_39_word_new_line10: 'cute
+bip_39_word_new_br_1: cute
+bip_39_word_new_br_10: cute<br>fish<br>move<br>engage<br>thunder<br>broken<br>vicious<br>chase<br>advance<br>labor
+bip_39_word_new_br_11: cute<br>fish<br>move<br>engage<br>thunder<br>broken<br>vicious<br>chase<br>advance<br>labor<br>casual
+bip_39_word_new_br_12: cute<br>fish<br>move<br>engage<br>thunder<br>broken<br>vicious<br>chase<br>advance<br>labor<br>casual<br>audit
+bip_39_word_new_br_2: cute<br>fish
+bip_39_word_new_br_3: cute<br>fish<br>move
+bip_39_word_new_br_4: cute<br>fish<br>move<br>engage
+bip_39_word_new_br_5: cute<br>fish<br>move<br>engage<br>thunder
+bip_39_word_new_br_6: cute<br>fish<br>move<br>engage<br>thunder<br>broken
+bip_39_word_new_br_7: cute<br>fish<br>move<br>engage<br>thunder<br>broken<br>vicious
+bip_39_word_new_br_8: cute<br>fish<br>move<br>engage<br>thunder<br>broken<br>vicious<br>chase
+bip_39_word_new_br_9: cute<br>fish<br>move<br>engage<br>thunder<br>broken<br>vicious<br>chase<br>advance
+bip_39_word_new_line_1: cute
+bip_39_word_new_line_10: 'cute
 
   fish
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'cute
   advance
 
   labor'
-bip_39_word_new_line11: 'cute
+bip_39_word_new_line_11: 'cute
 
   fish
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'cute
   labor
 
   casual'
-bip_39_word_new_line12: 'cute
+bip_39_word_new_line_12: 'cute
 
   fish
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'cute
   casual
 
   audit'
-bip_39_word_new_line2: 'cute
+bip_39_word_new_line_2: 'cute
 
   fish'
-bip_39_word_new_line3: 'cute
+bip_39_word_new_line_3: 'cute
 
   fish
 
   move'
-bip_39_word_new_line4: 'cute
+bip_39_word_new_line_4: 'cute
 
   fish
 
   move
 
   engage'
-bip_39_word_new_line5: 'cute
+bip_39_word_new_line_5: 'cute
 
   fish
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'cute
   engage
 
   thunder'
-bip_39_word_new_line6: 'cute
+bip_39_word_new_line_6: 'cute
 
   fish
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'cute
   thunder
 
   broken'
-bip_39_word_new_line7: 'cute
+bip_39_word_new_line_7: 'cute
 
   fish
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'cute
   broken
 
   vicious'
-bip_39_word_new_line8: 'cute
+bip_39_word_new_line_8: 'cute
 
   fish
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'cute
   vicious
 
   chase'
-bip_39_word_new_line9: 'cute
+bip_39_word_new_line_9: 'cute
 
   fish
 

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | stuff |  
-| bip_39_word_new_br10 | stuff<br>upon<br>detect<br>project<br>image<br>glow<br>labor<br>kidney<br>pioneer<br>average |  
-| bip_39_word_new_br11 | stuff<br>upon<br>detect<br>project<br>image<br>glow<br>labor<br>kidney<br>pioneer<br>average<br>castle |  
-| bip_39_word_new_br12 | stuff<br>upon<br>detect<br>project<br>image<br>glow<br>labor<br>kidney<br>pioneer<br>average<br>castle<br>attend |  
-| bip_39_word_new_br2 | stuff<br>upon |  
-| bip_39_word_new_br3 | stuff<br>upon<br>detect |  
-| bip_39_word_new_br4 | stuff<br>upon<br>detect<br>project |  
-| bip_39_word_new_br5 | stuff<br>upon<br>detect<br>project<br>image |  
-| bip_39_word_new_br6 | stuff<br>upon<br>detect<br>project<br>image<br>glow |  
-| bip_39_word_new_br7 | stuff<br>upon<br>detect<br>project<br>image<br>glow<br>labor |  
-| bip_39_word_new_br8 | stuff<br>upon<br>detect<br>project<br>image<br>glow<br>labor<br>kidney |  
-| bip_39_word_new_br9 | stuff<br>upon<br>detect<br>project<br>image<br>glow<br>labor<br>kidney<br>pioneer |  
-| bip_39_word_new_line1 | stuff |  
-| bip_39_word_new_line10 | stuff
+| bip_39_word_new_br_1 | stuff |  
+| bip_39_word_new_br_10 | stuff<br>upon<br>detect<br>project<br>image<br>glow<br>labor<br>kidney<br>pioneer<br>average |  
+| bip_39_word_new_br_11 | stuff<br>upon<br>detect<br>project<br>image<br>glow<br>labor<br>kidney<br>pioneer<br>average<br>castle |  
+| bip_39_word_new_br_12 | stuff<br>upon<br>detect<br>project<br>image<br>glow<br>labor<br>kidney<br>pioneer<br>average<br>castle<br>attend |  
+| bip_39_word_new_br_2 | stuff<br>upon |  
+| bip_39_word_new_br_3 | stuff<br>upon<br>detect |  
+| bip_39_word_new_br_4 | stuff<br>upon<br>detect<br>project |  
+| bip_39_word_new_br_5 | stuff<br>upon<br>detect<br>project<br>image |  
+| bip_39_word_new_br_6 | stuff<br>upon<br>detect<br>project<br>image<br>glow |  
+| bip_39_word_new_br_7 | stuff<br>upon<br>detect<br>project<br>image<br>glow<br>labor |  
+| bip_39_word_new_br_8 | stuff<br>upon<br>detect<br>project<br>image<br>glow<br>labor<br>kidney |  
+| bip_39_word_new_br_9 | stuff<br>upon<br>detect<br>project<br>image<br>glow<br>labor<br>kidney<br>pioneer |  
+| bip_39_word_new_line_1 | stuff |  
+| bip_39_word_new_line_10 | stuff
 upon
 detect
 project
@@ -55,7 +55,7 @@ labor
 kidney
 pioneer
 average |  
-| bip_39_word_new_line11 | stuff
+| bip_39_word_new_line_11 | stuff
 upon
 detect
 project
@@ -66,7 +66,7 @@ kidney
 pioneer
 average
 castle |  
-| bip_39_word_new_line12 | stuff
+| bip_39_word_new_line_12 | stuff
 upon
 detect
 project
@@ -78,34 +78,34 @@ pioneer
 average
 castle
 attend |  
-| bip_39_word_new_line2 | stuff
+| bip_39_word_new_line_2 | stuff
 upon |  
-| bip_39_word_new_line3 | stuff
+| bip_39_word_new_line_3 | stuff
 upon
 detect |  
-| bip_39_word_new_line4 | stuff
+| bip_39_word_new_line_4 | stuff
 upon
 detect
 project |  
-| bip_39_word_new_line5 | stuff
+| bip_39_word_new_line_5 | stuff
 upon
 detect
 project
 image |  
-| bip_39_word_new_line6 | stuff
+| bip_39_word_new_line_6 | stuff
 upon
 detect
 project
 image
 glow |  
-| bip_39_word_new_line7 | stuff
+| bip_39_word_new_line_7 | stuff
 upon
 detect
 project
 image
 glow
 labor |  
-| bip_39_word_new_line8 | stuff
+| bip_39_word_new_line_8 | stuff
 upon
 detect
 project
@@ -113,7 +113,7 @@ image
 glow
 labor
 kidney |  
-| bip_39_word_new_line9 | stuff
+| bip_39_word_new_line_9 | stuff
 upon
 detect
 project

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | burger |  
-| bip_39_word_new_br10 | burger<br>render<br>situate<br>elegant<br>mercy<br>aim<br>worth<br>actual<br>night<br>cloud |  
-| bip_39_word_new_br11 | burger<br>render<br>situate<br>elegant<br>mercy<br>aim<br>worth<br>actual<br>night<br>cloud<br>news |  
-| bip_39_word_new_br12 | burger<br>render<br>situate<br>elegant<br>mercy<br>aim<br>worth<br>actual<br>night<br>cloud<br>news<br>absurd |  
-| bip_39_word_new_br2 | burger<br>render |  
-| bip_39_word_new_br3 | burger<br>render<br>situate |  
-| bip_39_word_new_br4 | burger<br>render<br>situate<br>elegant |  
-| bip_39_word_new_br5 | burger<br>render<br>situate<br>elegant<br>mercy |  
-| bip_39_word_new_br6 | burger<br>render<br>situate<br>elegant<br>mercy<br>aim |  
-| bip_39_word_new_br7 | burger<br>render<br>situate<br>elegant<br>mercy<br>aim<br>worth |  
-| bip_39_word_new_br8 | burger<br>render<br>situate<br>elegant<br>mercy<br>aim<br>worth<br>actual |  
-| bip_39_word_new_br9 | burger<br>render<br>situate<br>elegant<br>mercy<br>aim<br>worth<br>actual<br>night |  
-| bip_39_word_new_line1 | burger |  
-| bip_39_word_new_line10 | burger
+| bip_39_word_new_br_1 | burger |  
+| bip_39_word_new_br_10 | burger<br>render<br>situate<br>elegant<br>mercy<br>aim<br>worth<br>actual<br>night<br>cloud |  
+| bip_39_word_new_br_11 | burger<br>render<br>situate<br>elegant<br>mercy<br>aim<br>worth<br>actual<br>night<br>cloud<br>news |  
+| bip_39_word_new_br_12 | burger<br>render<br>situate<br>elegant<br>mercy<br>aim<br>worth<br>actual<br>night<br>cloud<br>news<br>absurd |  
+| bip_39_word_new_br_2 | burger<br>render |  
+| bip_39_word_new_br_3 | burger<br>render<br>situate |  
+| bip_39_word_new_br_4 | burger<br>render<br>situate<br>elegant |  
+| bip_39_word_new_br_5 | burger<br>render<br>situate<br>elegant<br>mercy |  
+| bip_39_word_new_br_6 | burger<br>render<br>situate<br>elegant<br>mercy<br>aim |  
+| bip_39_word_new_br_7 | burger<br>render<br>situate<br>elegant<br>mercy<br>aim<br>worth |  
+| bip_39_word_new_br_8 | burger<br>render<br>situate<br>elegant<br>mercy<br>aim<br>worth<br>actual |  
+| bip_39_word_new_br_9 | burger<br>render<br>situate<br>elegant<br>mercy<br>aim<br>worth<br>actual<br>night |  
+| bip_39_word_new_line_1 | burger |  
+| bip_39_word_new_line_10 | burger
 render
 situate
 elegant
@@ -55,7 +55,7 @@ worth
 actual
 night
 cloud |  
-| bip_39_word_new_line11 | burger
+| bip_39_word_new_line_11 | burger
 render
 situate
 elegant
@@ -66,7 +66,7 @@ actual
 night
 cloud
 news |  
-| bip_39_word_new_line12 | burger
+| bip_39_word_new_line_12 | burger
 render
 situate
 elegant
@@ -78,34 +78,34 @@ night
 cloud
 news
 absurd |  
-| bip_39_word_new_line2 | burger
+| bip_39_word_new_line_2 | burger
 render |  
-| bip_39_word_new_line3 | burger
+| bip_39_word_new_line_3 | burger
 render
 situate |  
-| bip_39_word_new_line4 | burger
+| bip_39_word_new_line_4 | burger
 render
 situate
 elegant |  
-| bip_39_word_new_line5 | burger
+| bip_39_word_new_line_5 | burger
 render
 situate
 elegant
 mercy |  
-| bip_39_word_new_line6 | burger
+| bip_39_word_new_line_6 | burger
 render
 situate
 elegant
 mercy
 aim |  
-| bip_39_word_new_line7 | burger
+| bip_39_word_new_line_7 | burger
 render
 situate
 elegant
 mercy
 aim
 worth |  
-| bip_39_word_new_line8 | burger
+| bip_39_word_new_line_8 | burger
 render
 situate
 elegant
@@ -113,7 +113,7 @@ mercy
 aim
 worth
 actual |  
-| bip_39_word_new_line9 | burger
+| bip_39_word_new_line_9 | burger
 render
 situate
 elegant

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | govern |  
-| bip_39_word_new_br10 | govern<br>retire<br>aerobic<br>corn<br>glare<br>engage<br>lady<br>clean<br>roof<br>follow |  
-| bip_39_word_new_br11 | govern<br>retire<br>aerobic<br>corn<br>glare<br>engage<br>lady<br>clean<br>roof<br>follow<br>tape |  
-| bip_39_word_new_br12 | govern<br>retire<br>aerobic<br>corn<br>glare<br>engage<br>lady<br>clean<br>roof<br>follow<br>tape<br>auction |  
-| bip_39_word_new_br2 | govern<br>retire |  
-| bip_39_word_new_br3 | govern<br>retire<br>aerobic |  
-| bip_39_word_new_br4 | govern<br>retire<br>aerobic<br>corn |  
-| bip_39_word_new_br5 | govern<br>retire<br>aerobic<br>corn<br>glare |  
-| bip_39_word_new_br6 | govern<br>retire<br>aerobic<br>corn<br>glare<br>engage |  
-| bip_39_word_new_br7 | govern<br>retire<br>aerobic<br>corn<br>glare<br>engage<br>lady |  
-| bip_39_word_new_br8 | govern<br>retire<br>aerobic<br>corn<br>glare<br>engage<br>lady<br>clean |  
-| bip_39_word_new_br9 | govern<br>retire<br>aerobic<br>corn<br>glare<br>engage<br>lady<br>clean<br>roof |  
-| bip_39_word_new_line1 | govern |  
-| bip_39_word_new_line10 | govern
+| bip_39_word_new_br_1 | govern |  
+| bip_39_word_new_br_10 | govern<br>retire<br>aerobic<br>corn<br>glare<br>engage<br>lady<br>clean<br>roof<br>follow |  
+| bip_39_word_new_br_11 | govern<br>retire<br>aerobic<br>corn<br>glare<br>engage<br>lady<br>clean<br>roof<br>follow<br>tape |  
+| bip_39_word_new_br_12 | govern<br>retire<br>aerobic<br>corn<br>glare<br>engage<br>lady<br>clean<br>roof<br>follow<br>tape<br>auction |  
+| bip_39_word_new_br_2 | govern<br>retire |  
+| bip_39_word_new_br_3 | govern<br>retire<br>aerobic |  
+| bip_39_word_new_br_4 | govern<br>retire<br>aerobic<br>corn |  
+| bip_39_word_new_br_5 | govern<br>retire<br>aerobic<br>corn<br>glare |  
+| bip_39_word_new_br_6 | govern<br>retire<br>aerobic<br>corn<br>glare<br>engage |  
+| bip_39_word_new_br_7 | govern<br>retire<br>aerobic<br>corn<br>glare<br>engage<br>lady |  
+| bip_39_word_new_br_8 | govern<br>retire<br>aerobic<br>corn<br>glare<br>engage<br>lady<br>clean |  
+| bip_39_word_new_br_9 | govern<br>retire<br>aerobic<br>corn<br>glare<br>engage<br>lady<br>clean<br>roof |  
+| bip_39_word_new_line_1 | govern |  
+| bip_39_word_new_line_10 | govern
 retire
 aerobic
 corn
@@ -55,7 +55,7 @@ lady
 clean
 roof
 follow |  
-| bip_39_word_new_line11 | govern
+| bip_39_word_new_line_11 | govern
 retire
 aerobic
 corn
@@ -66,7 +66,7 @@ clean
 roof
 follow
 tape |  
-| bip_39_word_new_line12 | govern
+| bip_39_word_new_line_12 | govern
 retire
 aerobic
 corn
@@ -78,34 +78,34 @@ roof
 follow
 tape
 auction |  
-| bip_39_word_new_line2 | govern
+| bip_39_word_new_line_2 | govern
 retire |  
-| bip_39_word_new_line3 | govern
+| bip_39_word_new_line_3 | govern
 retire
 aerobic |  
-| bip_39_word_new_line4 | govern
+| bip_39_word_new_line_4 | govern
 retire
 aerobic
 corn |  
-| bip_39_word_new_line5 | govern
+| bip_39_word_new_line_5 | govern
 retire
 aerobic
 corn
 glare |  
-| bip_39_word_new_line6 | govern
+| bip_39_word_new_line_6 | govern
 retire
 aerobic
 corn
 glare
 engage |  
-| bip_39_word_new_line7 | govern
+| bip_39_word_new_line_7 | govern
 retire
 aerobic
 corn
 glare
 engage
 lady |  
-| bip_39_word_new_line8 | govern
+| bip_39_word_new_line_8 | govern
 retire
 aerobic
 corn
@@ -113,7 +113,7 @@ glare
 engage
 lady
 clean |  
-| bip_39_word_new_line9 | govern
+| bip_39_word_new_line_9 | govern
 retire
 aerobic
 corn

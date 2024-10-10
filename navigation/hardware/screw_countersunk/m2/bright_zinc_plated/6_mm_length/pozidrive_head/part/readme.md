@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | urge |  
-| bip_39_word_new_br10 | urge<br>imitate<br>promote<br>exile<br>service<br>age<br>various<br>endorse<br>rapid<br>buffalo |  
-| bip_39_word_new_br11 | urge<br>imitate<br>promote<br>exile<br>service<br>age<br>various<br>endorse<br>rapid<br>buffalo<br>stay |  
-| bip_39_word_new_br12 | urge<br>imitate<br>promote<br>exile<br>service<br>age<br>various<br>endorse<br>rapid<br>buffalo<br>stay<br>alley |  
-| bip_39_word_new_br2 | urge<br>imitate |  
-| bip_39_word_new_br3 | urge<br>imitate<br>promote |  
-| bip_39_word_new_br4 | urge<br>imitate<br>promote<br>exile |  
-| bip_39_word_new_br5 | urge<br>imitate<br>promote<br>exile<br>service |  
-| bip_39_word_new_br6 | urge<br>imitate<br>promote<br>exile<br>service<br>age |  
-| bip_39_word_new_br7 | urge<br>imitate<br>promote<br>exile<br>service<br>age<br>various |  
-| bip_39_word_new_br8 | urge<br>imitate<br>promote<br>exile<br>service<br>age<br>various<br>endorse |  
-| bip_39_word_new_br9 | urge<br>imitate<br>promote<br>exile<br>service<br>age<br>various<br>endorse<br>rapid |  
-| bip_39_word_new_line1 | urge |  
-| bip_39_word_new_line10 | urge
+| bip_39_word_new_br_1 | urge |  
+| bip_39_word_new_br_10 | urge<br>imitate<br>promote<br>exile<br>service<br>age<br>various<br>endorse<br>rapid<br>buffalo |  
+| bip_39_word_new_br_11 | urge<br>imitate<br>promote<br>exile<br>service<br>age<br>various<br>endorse<br>rapid<br>buffalo<br>stay |  
+| bip_39_word_new_br_12 | urge<br>imitate<br>promote<br>exile<br>service<br>age<br>various<br>endorse<br>rapid<br>buffalo<br>stay<br>alley |  
+| bip_39_word_new_br_2 | urge<br>imitate |  
+| bip_39_word_new_br_3 | urge<br>imitate<br>promote |  
+| bip_39_word_new_br_4 | urge<br>imitate<br>promote<br>exile |  
+| bip_39_word_new_br_5 | urge<br>imitate<br>promote<br>exile<br>service |  
+| bip_39_word_new_br_6 | urge<br>imitate<br>promote<br>exile<br>service<br>age |  
+| bip_39_word_new_br_7 | urge<br>imitate<br>promote<br>exile<br>service<br>age<br>various |  
+| bip_39_word_new_br_8 | urge<br>imitate<br>promote<br>exile<br>service<br>age<br>various<br>endorse |  
+| bip_39_word_new_br_9 | urge<br>imitate<br>promote<br>exile<br>service<br>age<br>various<br>endorse<br>rapid |  
+| bip_39_word_new_line_1 | urge |  
+| bip_39_word_new_line_10 | urge
 imitate
 promote
 exile
@@ -55,7 +55,7 @@ various
 endorse
 rapid
 buffalo |  
-| bip_39_word_new_line11 | urge
+| bip_39_word_new_line_11 | urge
 imitate
 promote
 exile
@@ -66,7 +66,7 @@ endorse
 rapid
 buffalo
 stay |  
-| bip_39_word_new_line12 | urge
+| bip_39_word_new_line_12 | urge
 imitate
 promote
 exile
@@ -78,34 +78,34 @@ rapid
 buffalo
 stay
 alley |  
-| bip_39_word_new_line2 | urge
+| bip_39_word_new_line_2 | urge
 imitate |  
-| bip_39_word_new_line3 | urge
+| bip_39_word_new_line_3 | urge
 imitate
 promote |  
-| bip_39_word_new_line4 | urge
+| bip_39_word_new_line_4 | urge
 imitate
 promote
 exile |  
-| bip_39_word_new_line5 | urge
+| bip_39_word_new_line_5 | urge
 imitate
 promote
 exile
 service |  
-| bip_39_word_new_line6 | urge
+| bip_39_word_new_line_6 | urge
 imitate
 promote
 exile
 service
 age |  
-| bip_39_word_new_line7 | urge
+| bip_39_word_new_line_7 | urge
 imitate
 promote
 exile
 service
 age
 various |  
-| bip_39_word_new_line8 | urge
+| bip_39_word_new_line_8 | urge
 imitate
 promote
 exile
@@ -113,7 +113,7 @@ service
 age
 various
 endorse |  
-| bip_39_word_new_line9 | urge
+| bip_39_word_new_line_9 | urge
 imitate
 promote
 exile

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | punch |  
-| bip_39_word_new_br10 | punch<br>hour<br>give<br>field<br>magnet<br>desert<br>few<br>theory<br>system<br>first |  
-| bip_39_word_new_br11 | punch<br>hour<br>give<br>field<br>magnet<br>desert<br>few<br>theory<br>system<br>first<br>clip |  
-| bip_39_word_new_br12 | punch<br>hour<br>give<br>field<br>magnet<br>desert<br>few<br>theory<br>system<br>first<br>clip<br>alarm |  
-| bip_39_word_new_br2 | punch<br>hour |  
-| bip_39_word_new_br3 | punch<br>hour<br>give |  
-| bip_39_word_new_br4 | punch<br>hour<br>give<br>field |  
-| bip_39_word_new_br5 | punch<br>hour<br>give<br>field<br>magnet |  
-| bip_39_word_new_br6 | punch<br>hour<br>give<br>field<br>magnet<br>desert |  
-| bip_39_word_new_br7 | punch<br>hour<br>give<br>field<br>magnet<br>desert<br>few |  
-| bip_39_word_new_br8 | punch<br>hour<br>give<br>field<br>magnet<br>desert<br>few<br>theory |  
-| bip_39_word_new_br9 | punch<br>hour<br>give<br>field<br>magnet<br>desert<br>few<br>theory<br>system |  
-| bip_39_word_new_line1 | punch |  
-| bip_39_word_new_line10 | punch
+| bip_39_word_new_br_1 | punch |  
+| bip_39_word_new_br_10 | punch<br>hour<br>give<br>field<br>magnet<br>desert<br>few<br>theory<br>system<br>first |  
+| bip_39_word_new_br_11 | punch<br>hour<br>give<br>field<br>magnet<br>desert<br>few<br>theory<br>system<br>first<br>clip |  
+| bip_39_word_new_br_12 | punch<br>hour<br>give<br>field<br>magnet<br>desert<br>few<br>theory<br>system<br>first<br>clip<br>alarm |  
+| bip_39_word_new_br_2 | punch<br>hour |  
+| bip_39_word_new_br_3 | punch<br>hour<br>give |  
+| bip_39_word_new_br_4 | punch<br>hour<br>give<br>field |  
+| bip_39_word_new_br_5 | punch<br>hour<br>give<br>field<br>magnet |  
+| bip_39_word_new_br_6 | punch<br>hour<br>give<br>field<br>magnet<br>desert |  
+| bip_39_word_new_br_7 | punch<br>hour<br>give<br>field<br>magnet<br>desert<br>few |  
+| bip_39_word_new_br_8 | punch<br>hour<br>give<br>field<br>magnet<br>desert<br>few<br>theory |  
+| bip_39_word_new_br_9 | punch<br>hour<br>give<br>field<br>magnet<br>desert<br>few<br>theory<br>system |  
+| bip_39_word_new_line_1 | punch |  
+| bip_39_word_new_line_10 | punch
 hour
 give
 field
@@ -55,7 +55,7 @@ few
 theory
 system
 first |  
-| bip_39_word_new_line11 | punch
+| bip_39_word_new_line_11 | punch
 hour
 give
 field
@@ -66,7 +66,7 @@ theory
 system
 first
 clip |  
-| bip_39_word_new_line12 | punch
+| bip_39_word_new_line_12 | punch
 hour
 give
 field
@@ -78,34 +78,34 @@ system
 first
 clip
 alarm |  
-| bip_39_word_new_line2 | punch
+| bip_39_word_new_line_2 | punch
 hour |  
-| bip_39_word_new_line3 | punch
+| bip_39_word_new_line_3 | punch
 hour
 give |  
-| bip_39_word_new_line4 | punch
+| bip_39_word_new_line_4 | punch
 hour
 give
 field |  
-| bip_39_word_new_line5 | punch
+| bip_39_word_new_line_5 | punch
 hour
 give
 field
 magnet |  
-| bip_39_word_new_line6 | punch
+| bip_39_word_new_line_6 | punch
 hour
 give
 field
 magnet
 desert |  
-| bip_39_word_new_line7 | punch
+| bip_39_word_new_line_7 | punch
 hour
 give
 field
 magnet
 desert
 few |  
-| bip_39_word_new_line8 | punch
+| bip_39_word_new_line_8 | punch
 hour
 give
 field
@@ -113,7 +113,7 @@ magnet
 desert
 few
 theory |  
-| bip_39_word_new_line9 | punch
+| bip_39_word_new_line_9 | punch
 hour
 give
 field

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rigid |  
-| bip_39_word_new_br10 | rigid<br>start<br>small<br>animal<br>wedding<br>city<br>cattle<br>avoid<br>ride<br>escape |  
-| bip_39_word_new_br11 | rigid<br>start<br>small<br>animal<br>wedding<br>city<br>cattle<br>avoid<br>ride<br>escape<br>level |  
-| bip_39_word_new_br12 | rigid<br>start<br>small<br>animal<br>wedding<br>city<br>cattle<br>avoid<br>ride<br>escape<br>level<br>action |  
-| bip_39_word_new_br2 | rigid<br>start |  
-| bip_39_word_new_br3 | rigid<br>start<br>small |  
-| bip_39_word_new_br4 | rigid<br>start<br>small<br>animal |  
-| bip_39_word_new_br5 | rigid<br>start<br>small<br>animal<br>wedding |  
-| bip_39_word_new_br6 | rigid<br>start<br>small<br>animal<br>wedding<br>city |  
-| bip_39_word_new_br7 | rigid<br>start<br>small<br>animal<br>wedding<br>city<br>cattle |  
-| bip_39_word_new_br8 | rigid<br>start<br>small<br>animal<br>wedding<br>city<br>cattle<br>avoid |  
-| bip_39_word_new_br9 | rigid<br>start<br>small<br>animal<br>wedding<br>city<br>cattle<br>avoid<br>ride |  
-| bip_39_word_new_line1 | rigid |  
-| bip_39_word_new_line10 | rigid
+| bip_39_word_new_br_1 | rigid |  
+| bip_39_word_new_br_10 | rigid<br>start<br>small<br>animal<br>wedding<br>city<br>cattle<br>avoid<br>ride<br>escape |  
+| bip_39_word_new_br_11 | rigid<br>start<br>small<br>animal<br>wedding<br>city<br>cattle<br>avoid<br>ride<br>escape<br>level |  
+| bip_39_word_new_br_12 | rigid<br>start<br>small<br>animal<br>wedding<br>city<br>cattle<br>avoid<br>ride<br>escape<br>level<br>action |  
+| bip_39_word_new_br_2 | rigid<br>start |  
+| bip_39_word_new_br_3 | rigid<br>start<br>small |  
+| bip_39_word_new_br_4 | rigid<br>start<br>small<br>animal |  
+| bip_39_word_new_br_5 | rigid<br>start<br>small<br>animal<br>wedding |  
+| bip_39_word_new_br_6 | rigid<br>start<br>small<br>animal<br>wedding<br>city |  
+| bip_39_word_new_br_7 | rigid<br>start<br>small<br>animal<br>wedding<br>city<br>cattle |  
+| bip_39_word_new_br_8 | rigid<br>start<br>small<br>animal<br>wedding<br>city<br>cattle<br>avoid |  
+| bip_39_word_new_br_9 | rigid<br>start<br>small<br>animal<br>wedding<br>city<br>cattle<br>avoid<br>ride |  
+| bip_39_word_new_line_1 | rigid |  
+| bip_39_word_new_line_10 | rigid
 start
 small
 animal
@@ -55,7 +55,7 @@ cattle
 avoid
 ride
 escape |  
-| bip_39_word_new_line11 | rigid
+| bip_39_word_new_line_11 | rigid
 start
 small
 animal
@@ -66,7 +66,7 @@ avoid
 ride
 escape
 level |  
-| bip_39_word_new_line12 | rigid
+| bip_39_word_new_line_12 | rigid
 start
 small
 animal
@@ -78,34 +78,34 @@ ride
 escape
 level
 action |  
-| bip_39_word_new_line2 | rigid
+| bip_39_word_new_line_2 | rigid
 start |  
-| bip_39_word_new_line3 | rigid
+| bip_39_word_new_line_3 | rigid
 start
 small |  
-| bip_39_word_new_line4 | rigid
+| bip_39_word_new_line_4 | rigid
 start
 small
 animal |  
-| bip_39_word_new_line5 | rigid
+| bip_39_word_new_line_5 | rigid
 start
 small
 animal
 wedding |  
-| bip_39_word_new_line6 | rigid
+| bip_39_word_new_line_6 | rigid
 start
 small
 animal
 wedding
 city |  
-| bip_39_word_new_line7 | rigid
+| bip_39_word_new_line_7 | rigid
 start
 small
 animal
 wedding
 city
 cattle |  
-| bip_39_word_new_line8 | rigid
+| bip_39_word_new_line_8 | rigid
 start
 small
 animal
@@ -113,7 +113,7 @@ wedding
 city
 cattle
 avoid |  
-| bip_39_word_new_line9 | rigid
+| bip_39_word_new_line_9 | rigid
 start
 small
 animal

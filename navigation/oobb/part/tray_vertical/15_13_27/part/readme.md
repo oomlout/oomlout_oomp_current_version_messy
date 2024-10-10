@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | remove |  
-| bip_39_word_new_br10 | remove<br>adult<br>eight<br>embody<br>direct<br>error<br>tuna<br>ranch<br>claim<br>voyage |  
-| bip_39_word_new_br11 | remove<br>adult<br>eight<br>embody<br>direct<br>error<br>tuna<br>ranch<br>claim<br>voyage<br>garbage |  
-| bip_39_word_new_br12 | remove<br>adult<br>eight<br>embody<br>direct<br>error<br>tuna<br>ranch<br>claim<br>voyage<br>garbage<br>attract |  
-| bip_39_word_new_br2 | remove<br>adult |  
-| bip_39_word_new_br3 | remove<br>adult<br>eight |  
-| bip_39_word_new_br4 | remove<br>adult<br>eight<br>embody |  
-| bip_39_word_new_br5 | remove<br>adult<br>eight<br>embody<br>direct |  
-| bip_39_word_new_br6 | remove<br>adult<br>eight<br>embody<br>direct<br>error |  
-| bip_39_word_new_br7 | remove<br>adult<br>eight<br>embody<br>direct<br>error<br>tuna |  
-| bip_39_word_new_br8 | remove<br>adult<br>eight<br>embody<br>direct<br>error<br>tuna<br>ranch |  
-| bip_39_word_new_br9 | remove<br>adult<br>eight<br>embody<br>direct<br>error<br>tuna<br>ranch<br>claim |  
-| bip_39_word_new_line1 | remove |  
-| bip_39_word_new_line10 | remove
+| bip_39_word_new_br_1 | remove |  
+| bip_39_word_new_br_10 | remove<br>adult<br>eight<br>embody<br>direct<br>error<br>tuna<br>ranch<br>claim<br>voyage |  
+| bip_39_word_new_br_11 | remove<br>adult<br>eight<br>embody<br>direct<br>error<br>tuna<br>ranch<br>claim<br>voyage<br>garbage |  
+| bip_39_word_new_br_12 | remove<br>adult<br>eight<br>embody<br>direct<br>error<br>tuna<br>ranch<br>claim<br>voyage<br>garbage<br>attract |  
+| bip_39_word_new_br_2 | remove<br>adult |  
+| bip_39_word_new_br_3 | remove<br>adult<br>eight |  
+| bip_39_word_new_br_4 | remove<br>adult<br>eight<br>embody |  
+| bip_39_word_new_br_5 | remove<br>adult<br>eight<br>embody<br>direct |  
+| bip_39_word_new_br_6 | remove<br>adult<br>eight<br>embody<br>direct<br>error |  
+| bip_39_word_new_br_7 | remove<br>adult<br>eight<br>embody<br>direct<br>error<br>tuna |  
+| bip_39_word_new_br_8 | remove<br>adult<br>eight<br>embody<br>direct<br>error<br>tuna<br>ranch |  
+| bip_39_word_new_br_9 | remove<br>adult<br>eight<br>embody<br>direct<br>error<br>tuna<br>ranch<br>claim |  
+| bip_39_word_new_line_1 | remove |  
+| bip_39_word_new_line_10 | remove
 adult
 eight
 embody
@@ -55,7 +55,7 @@ tuna
 ranch
 claim
 voyage |  
-| bip_39_word_new_line11 | remove
+| bip_39_word_new_line_11 | remove
 adult
 eight
 embody
@@ -66,7 +66,7 @@ ranch
 claim
 voyage
 garbage |  
-| bip_39_word_new_line12 | remove
+| bip_39_word_new_line_12 | remove
 adult
 eight
 embody
@@ -78,34 +78,34 @@ claim
 voyage
 garbage
 attract |  
-| bip_39_word_new_line2 | remove
+| bip_39_word_new_line_2 | remove
 adult |  
-| bip_39_word_new_line3 | remove
+| bip_39_word_new_line_3 | remove
 adult
 eight |  
-| bip_39_word_new_line4 | remove
+| bip_39_word_new_line_4 | remove
 adult
 eight
 embody |  
-| bip_39_word_new_line5 | remove
+| bip_39_word_new_line_5 | remove
 adult
 eight
 embody
 direct |  
-| bip_39_word_new_line6 | remove
+| bip_39_word_new_line_6 | remove
 adult
 eight
 embody
 direct
 error |  
-| bip_39_word_new_line7 | remove
+| bip_39_word_new_line_7 | remove
 adult
 eight
 embody
 direct
 error
 tuna |  
-| bip_39_word_new_line8 | remove
+| bip_39_word_new_line_8 | remove
 adult
 eight
 embody
@@ -113,7 +113,7 @@ direct
 error
 tuna
 ranch |  
-| bip_39_word_new_line9 | remove
+| bip_39_word_new_line_9 | remove
 adult
 eight
 embody

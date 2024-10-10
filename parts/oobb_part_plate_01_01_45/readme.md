@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | someone |  
-| bip_39_word_new_br10 | someone<br>journey<br>dust<br>lend<br>throw<br>keen<br>brother<br>among<br>dress<br>scene |  
-| bip_39_word_new_br11 | someone<br>journey<br>dust<br>lend<br>throw<br>keen<br>brother<br>among<br>dress<br>scene<br>walk |  
-| bip_39_word_new_br12 | someone<br>journey<br>dust<br>lend<br>throw<br>keen<br>brother<br>among<br>dress<br>scene<br>walk<br>achieve |  
-| bip_39_word_new_br2 | someone<br>journey |  
-| bip_39_word_new_br3 | someone<br>journey<br>dust |  
-| bip_39_word_new_br4 | someone<br>journey<br>dust<br>lend |  
-| bip_39_word_new_br5 | someone<br>journey<br>dust<br>lend<br>throw |  
-| bip_39_word_new_br6 | someone<br>journey<br>dust<br>lend<br>throw<br>keen |  
-| bip_39_word_new_br7 | someone<br>journey<br>dust<br>lend<br>throw<br>keen<br>brother |  
-| bip_39_word_new_br8 | someone<br>journey<br>dust<br>lend<br>throw<br>keen<br>brother<br>among |  
-| bip_39_word_new_br9 | someone<br>journey<br>dust<br>lend<br>throw<br>keen<br>brother<br>among<br>dress |  
-| bip_39_word_new_line1 | someone |  
-| bip_39_word_new_line10 | someone
+| bip_39_word_new_br_1 | someone |  
+| bip_39_word_new_br_10 | someone<br>journey<br>dust<br>lend<br>throw<br>keen<br>brother<br>among<br>dress<br>scene |  
+| bip_39_word_new_br_11 | someone<br>journey<br>dust<br>lend<br>throw<br>keen<br>brother<br>among<br>dress<br>scene<br>walk |  
+| bip_39_word_new_br_12 | someone<br>journey<br>dust<br>lend<br>throw<br>keen<br>brother<br>among<br>dress<br>scene<br>walk<br>achieve |  
+| bip_39_word_new_br_2 | someone<br>journey |  
+| bip_39_word_new_br_3 | someone<br>journey<br>dust |  
+| bip_39_word_new_br_4 | someone<br>journey<br>dust<br>lend |  
+| bip_39_word_new_br_5 | someone<br>journey<br>dust<br>lend<br>throw |  
+| bip_39_word_new_br_6 | someone<br>journey<br>dust<br>lend<br>throw<br>keen |  
+| bip_39_word_new_br_7 | someone<br>journey<br>dust<br>lend<br>throw<br>keen<br>brother |  
+| bip_39_word_new_br_8 | someone<br>journey<br>dust<br>lend<br>throw<br>keen<br>brother<br>among |  
+| bip_39_word_new_br_9 | someone<br>journey<br>dust<br>lend<br>throw<br>keen<br>brother<br>among<br>dress |  
+| bip_39_word_new_line_1 | someone |  
+| bip_39_word_new_line_10 | someone
 journey
 dust
 lend
@@ -55,7 +55,7 @@ brother
 among
 dress
 scene |  
-| bip_39_word_new_line11 | someone
+| bip_39_word_new_line_11 | someone
 journey
 dust
 lend
@@ -66,7 +66,7 @@ among
 dress
 scene
 walk |  
-| bip_39_word_new_line12 | someone
+| bip_39_word_new_line_12 | someone
 journey
 dust
 lend
@@ -78,34 +78,34 @@ dress
 scene
 walk
 achieve |  
-| bip_39_word_new_line2 | someone
+| bip_39_word_new_line_2 | someone
 journey |  
-| bip_39_word_new_line3 | someone
+| bip_39_word_new_line_3 | someone
 journey
 dust |  
-| bip_39_word_new_line4 | someone
+| bip_39_word_new_line_4 | someone
 journey
 dust
 lend |  
-| bip_39_word_new_line5 | someone
+| bip_39_word_new_line_5 | someone
 journey
 dust
 lend
 throw |  
-| bip_39_word_new_line6 | someone
+| bip_39_word_new_line_6 | someone
 journey
 dust
 lend
 throw
 keen |  
-| bip_39_word_new_line7 | someone
+| bip_39_word_new_line_7 | someone
 journey
 dust
 lend
 throw
 keen
 brother |  
-| bip_39_word_new_line8 | someone
+| bip_39_word_new_line_8 | someone
 journey
 dust
 lend
@@ -113,7 +113,7 @@ throw
 keen
 brother
 among |  
-| bip_39_word_new_line9 | someone
+| bip_39_word_new_line_9 | someone
 journey
 dust
 lend

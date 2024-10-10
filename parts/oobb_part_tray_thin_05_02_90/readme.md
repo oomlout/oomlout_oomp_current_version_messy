@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | glance |  
-| bip_39_word_new_br10 | glance<br>offer<br>champion<br>bus<br>eye<br>rebuild<br>crane<br>object<br>front<br>shove |  
-| bip_39_word_new_br11 | glance<br>offer<br>champion<br>bus<br>eye<br>rebuild<br>crane<br>object<br>front<br>shove<br>draft |  
-| bip_39_word_new_br12 | glance<br>offer<br>champion<br>bus<br>eye<br>rebuild<br>crane<br>object<br>front<br>shove<br>draft<br>argue |  
-| bip_39_word_new_br2 | glance<br>offer |  
-| bip_39_word_new_br3 | glance<br>offer<br>champion |  
-| bip_39_word_new_br4 | glance<br>offer<br>champion<br>bus |  
-| bip_39_word_new_br5 | glance<br>offer<br>champion<br>bus<br>eye |  
-| bip_39_word_new_br6 | glance<br>offer<br>champion<br>bus<br>eye<br>rebuild |  
-| bip_39_word_new_br7 | glance<br>offer<br>champion<br>bus<br>eye<br>rebuild<br>crane |  
-| bip_39_word_new_br8 | glance<br>offer<br>champion<br>bus<br>eye<br>rebuild<br>crane<br>object |  
-| bip_39_word_new_br9 | glance<br>offer<br>champion<br>bus<br>eye<br>rebuild<br>crane<br>object<br>front |  
-| bip_39_word_new_line1 | glance |  
-| bip_39_word_new_line10 | glance
+| bip_39_word_new_br_1 | glance |  
+| bip_39_word_new_br_10 | glance<br>offer<br>champion<br>bus<br>eye<br>rebuild<br>crane<br>object<br>front<br>shove |  
+| bip_39_word_new_br_11 | glance<br>offer<br>champion<br>bus<br>eye<br>rebuild<br>crane<br>object<br>front<br>shove<br>draft |  
+| bip_39_word_new_br_12 | glance<br>offer<br>champion<br>bus<br>eye<br>rebuild<br>crane<br>object<br>front<br>shove<br>draft<br>argue |  
+| bip_39_word_new_br_2 | glance<br>offer |  
+| bip_39_word_new_br_3 | glance<br>offer<br>champion |  
+| bip_39_word_new_br_4 | glance<br>offer<br>champion<br>bus |  
+| bip_39_word_new_br_5 | glance<br>offer<br>champion<br>bus<br>eye |  
+| bip_39_word_new_br_6 | glance<br>offer<br>champion<br>bus<br>eye<br>rebuild |  
+| bip_39_word_new_br_7 | glance<br>offer<br>champion<br>bus<br>eye<br>rebuild<br>crane |  
+| bip_39_word_new_br_8 | glance<br>offer<br>champion<br>bus<br>eye<br>rebuild<br>crane<br>object |  
+| bip_39_word_new_br_9 | glance<br>offer<br>champion<br>bus<br>eye<br>rebuild<br>crane<br>object<br>front |  
+| bip_39_word_new_line_1 | glance |  
+| bip_39_word_new_line_10 | glance
 offer
 champion
 bus
@@ -55,7 +55,7 @@ crane
 object
 front
 shove |  
-| bip_39_word_new_line11 | glance
+| bip_39_word_new_line_11 | glance
 offer
 champion
 bus
@@ -66,7 +66,7 @@ object
 front
 shove
 draft |  
-| bip_39_word_new_line12 | glance
+| bip_39_word_new_line_12 | glance
 offer
 champion
 bus
@@ -78,34 +78,34 @@ front
 shove
 draft
 argue |  
-| bip_39_word_new_line2 | glance
+| bip_39_word_new_line_2 | glance
 offer |  
-| bip_39_word_new_line3 | glance
+| bip_39_word_new_line_3 | glance
 offer
 champion |  
-| bip_39_word_new_line4 | glance
+| bip_39_word_new_line_4 | glance
 offer
 champion
 bus |  
-| bip_39_word_new_line5 | glance
+| bip_39_word_new_line_5 | glance
 offer
 champion
 bus
 eye |  
-| bip_39_word_new_line6 | glance
+| bip_39_word_new_line_6 | glance
 offer
 champion
 bus
 eye
 rebuild |  
-| bip_39_word_new_line7 | glance
+| bip_39_word_new_line_7 | glance
 offer
 champion
 bus
 eye
 rebuild
 crane |  
-| bip_39_word_new_line8 | glance
+| bip_39_word_new_line_8 | glance
 offer
 champion
 bus
@@ -113,7 +113,7 @@ eye
 rebuild
 crane
 object |  
-| bip_39_word_new_line9 | glance
+| bip_39_word_new_line_9 | glance
 offer
 champion
 bus

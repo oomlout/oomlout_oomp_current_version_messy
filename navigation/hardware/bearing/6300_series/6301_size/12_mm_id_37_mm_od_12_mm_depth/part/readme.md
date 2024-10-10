@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | praise |  
-| bip_39_word_new_br10 | praise<br>remind<br>knock<br>bitter<br>icon<br>patch<br>merge<br>escape<br>gorilla<br>vanish |  
-| bip_39_word_new_br11 | praise<br>remind<br>knock<br>bitter<br>icon<br>patch<br>merge<br>escape<br>gorilla<br>vanish<br>bid |  
-| bip_39_word_new_br12 | praise<br>remind<br>knock<br>bitter<br>icon<br>patch<br>merge<br>escape<br>gorilla<br>vanish<br>bid<br>agent |  
-| bip_39_word_new_br2 | praise<br>remind |  
-| bip_39_word_new_br3 | praise<br>remind<br>knock |  
-| bip_39_word_new_br4 | praise<br>remind<br>knock<br>bitter |  
-| bip_39_word_new_br5 | praise<br>remind<br>knock<br>bitter<br>icon |  
-| bip_39_word_new_br6 | praise<br>remind<br>knock<br>bitter<br>icon<br>patch |  
-| bip_39_word_new_br7 | praise<br>remind<br>knock<br>bitter<br>icon<br>patch<br>merge |  
-| bip_39_word_new_br8 | praise<br>remind<br>knock<br>bitter<br>icon<br>patch<br>merge<br>escape |  
-| bip_39_word_new_br9 | praise<br>remind<br>knock<br>bitter<br>icon<br>patch<br>merge<br>escape<br>gorilla |  
-| bip_39_word_new_line1 | praise |  
-| bip_39_word_new_line10 | praise
+| bip_39_word_new_br_1 | praise |  
+| bip_39_word_new_br_10 | praise<br>remind<br>knock<br>bitter<br>icon<br>patch<br>merge<br>escape<br>gorilla<br>vanish |  
+| bip_39_word_new_br_11 | praise<br>remind<br>knock<br>bitter<br>icon<br>patch<br>merge<br>escape<br>gorilla<br>vanish<br>bid |  
+| bip_39_word_new_br_12 | praise<br>remind<br>knock<br>bitter<br>icon<br>patch<br>merge<br>escape<br>gorilla<br>vanish<br>bid<br>agent |  
+| bip_39_word_new_br_2 | praise<br>remind |  
+| bip_39_word_new_br_3 | praise<br>remind<br>knock |  
+| bip_39_word_new_br_4 | praise<br>remind<br>knock<br>bitter |  
+| bip_39_word_new_br_5 | praise<br>remind<br>knock<br>bitter<br>icon |  
+| bip_39_word_new_br_6 | praise<br>remind<br>knock<br>bitter<br>icon<br>patch |  
+| bip_39_word_new_br_7 | praise<br>remind<br>knock<br>bitter<br>icon<br>patch<br>merge |  
+| bip_39_word_new_br_8 | praise<br>remind<br>knock<br>bitter<br>icon<br>patch<br>merge<br>escape |  
+| bip_39_word_new_br_9 | praise<br>remind<br>knock<br>bitter<br>icon<br>patch<br>merge<br>escape<br>gorilla |  
+| bip_39_word_new_line_1 | praise |  
+| bip_39_word_new_line_10 | praise
 remind
 knock
 bitter
@@ -55,7 +55,7 @@ merge
 escape
 gorilla
 vanish |  
-| bip_39_word_new_line11 | praise
+| bip_39_word_new_line_11 | praise
 remind
 knock
 bitter
@@ -66,7 +66,7 @@ escape
 gorilla
 vanish
 bid |  
-| bip_39_word_new_line12 | praise
+| bip_39_word_new_line_12 | praise
 remind
 knock
 bitter
@@ -78,34 +78,34 @@ gorilla
 vanish
 bid
 agent |  
-| bip_39_word_new_line2 | praise
+| bip_39_word_new_line_2 | praise
 remind |  
-| bip_39_word_new_line3 | praise
+| bip_39_word_new_line_3 | praise
 remind
 knock |  
-| bip_39_word_new_line4 | praise
+| bip_39_word_new_line_4 | praise
 remind
 knock
 bitter |  
-| bip_39_word_new_line5 | praise
+| bip_39_word_new_line_5 | praise
 remind
 knock
 bitter
 icon |  
-| bip_39_word_new_line6 | praise
+| bip_39_word_new_line_6 | praise
 remind
 knock
 bitter
 icon
 patch |  
-| bip_39_word_new_line7 | praise
+| bip_39_word_new_line_7 | praise
 remind
 knock
 bitter
 icon
 patch
 merge |  
-| bip_39_word_new_line8 | praise
+| bip_39_word_new_line_8 | praise
 remind
 knock
 bitter
@@ -113,7 +113,7 @@ icon
 patch
 merge
 escape |  
-| bip_39_word_new_line9 | praise
+| bip_39_word_new_line_9 | praise
 remind
 knock
 bitter

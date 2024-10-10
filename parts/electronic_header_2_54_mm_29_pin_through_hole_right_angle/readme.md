@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mind |  
-| bip_39_word_new_br10 | mind<br>rain<br>voice<br>stage<br>base<br>answer<br>call<br>crane<br>moon<br>illness |  
-| bip_39_word_new_br11 | mind<br>rain<br>voice<br>stage<br>base<br>answer<br>call<br>crane<br>moon<br>illness<br>hurt |  
-| bip_39_word_new_br12 | mind<br>rain<br>voice<br>stage<br>base<br>answer<br>call<br>crane<br>moon<br>illness<br>hurt<br>again |  
-| bip_39_word_new_br2 | mind<br>rain |  
-| bip_39_word_new_br3 | mind<br>rain<br>voice |  
-| bip_39_word_new_br4 | mind<br>rain<br>voice<br>stage |  
-| bip_39_word_new_br5 | mind<br>rain<br>voice<br>stage<br>base |  
-| bip_39_word_new_br6 | mind<br>rain<br>voice<br>stage<br>base<br>answer |  
-| bip_39_word_new_br7 | mind<br>rain<br>voice<br>stage<br>base<br>answer<br>call |  
-| bip_39_word_new_br8 | mind<br>rain<br>voice<br>stage<br>base<br>answer<br>call<br>crane |  
-| bip_39_word_new_br9 | mind<br>rain<br>voice<br>stage<br>base<br>answer<br>call<br>crane<br>moon |  
-| bip_39_word_new_line1 | mind |  
-| bip_39_word_new_line10 | mind
+| bip_39_word_new_br_1 | mind |  
+| bip_39_word_new_br_10 | mind<br>rain<br>voice<br>stage<br>base<br>answer<br>call<br>crane<br>moon<br>illness |  
+| bip_39_word_new_br_11 | mind<br>rain<br>voice<br>stage<br>base<br>answer<br>call<br>crane<br>moon<br>illness<br>hurt |  
+| bip_39_word_new_br_12 | mind<br>rain<br>voice<br>stage<br>base<br>answer<br>call<br>crane<br>moon<br>illness<br>hurt<br>again |  
+| bip_39_word_new_br_2 | mind<br>rain |  
+| bip_39_word_new_br_3 | mind<br>rain<br>voice |  
+| bip_39_word_new_br_4 | mind<br>rain<br>voice<br>stage |  
+| bip_39_word_new_br_5 | mind<br>rain<br>voice<br>stage<br>base |  
+| bip_39_word_new_br_6 | mind<br>rain<br>voice<br>stage<br>base<br>answer |  
+| bip_39_word_new_br_7 | mind<br>rain<br>voice<br>stage<br>base<br>answer<br>call |  
+| bip_39_word_new_br_8 | mind<br>rain<br>voice<br>stage<br>base<br>answer<br>call<br>crane |  
+| bip_39_word_new_br_9 | mind<br>rain<br>voice<br>stage<br>base<br>answer<br>call<br>crane<br>moon |  
+| bip_39_word_new_line_1 | mind |  
+| bip_39_word_new_line_10 | mind
 rain
 voice
 stage
@@ -55,7 +55,7 @@ call
 crane
 moon
 illness |  
-| bip_39_word_new_line11 | mind
+| bip_39_word_new_line_11 | mind
 rain
 voice
 stage
@@ -66,7 +66,7 @@ crane
 moon
 illness
 hurt |  
-| bip_39_word_new_line12 | mind
+| bip_39_word_new_line_12 | mind
 rain
 voice
 stage
@@ -78,34 +78,34 @@ moon
 illness
 hurt
 again |  
-| bip_39_word_new_line2 | mind
+| bip_39_word_new_line_2 | mind
 rain |  
-| bip_39_word_new_line3 | mind
+| bip_39_word_new_line_3 | mind
 rain
 voice |  
-| bip_39_word_new_line4 | mind
+| bip_39_word_new_line_4 | mind
 rain
 voice
 stage |  
-| bip_39_word_new_line5 | mind
+| bip_39_word_new_line_5 | mind
 rain
 voice
 stage
 base |  
-| bip_39_word_new_line6 | mind
+| bip_39_word_new_line_6 | mind
 rain
 voice
 stage
 base
 answer |  
-| bip_39_word_new_line7 | mind
+| bip_39_word_new_line_7 | mind
 rain
 voice
 stage
 base
 answer
 call |  
-| bip_39_word_new_line8 | mind
+| bip_39_word_new_line_8 | mind
 rain
 voice
 stage
@@ -113,7 +113,7 @@ base
 answer
 call
 crane |  
-| bip_39_word_new_line9 | mind
+| bip_39_word_new_line_9 | mind
 rain
 voice
 stage

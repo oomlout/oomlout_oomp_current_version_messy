@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | now |  
-| bip_39_word_new_br10 | now<br>birth<br>strike<br>public<br>dumb<br>term<br>neither<br>undo<br>concert<br>elbow |  
-| bip_39_word_new_br11 | now<br>birth<br>strike<br>public<br>dumb<br>term<br>neither<br>undo<br>concert<br>elbow<br>rude |  
-| bip_39_word_new_br12 | now<br>birth<br>strike<br>public<br>dumb<br>term<br>neither<br>undo<br>concert<br>elbow<br>rude<br>aim |  
-| bip_39_word_new_br2 | now<br>birth |  
-| bip_39_word_new_br3 | now<br>birth<br>strike |  
-| bip_39_word_new_br4 | now<br>birth<br>strike<br>public |  
-| bip_39_word_new_br5 | now<br>birth<br>strike<br>public<br>dumb |  
-| bip_39_word_new_br6 | now<br>birth<br>strike<br>public<br>dumb<br>term |  
-| bip_39_word_new_br7 | now<br>birth<br>strike<br>public<br>dumb<br>term<br>neither |  
-| bip_39_word_new_br8 | now<br>birth<br>strike<br>public<br>dumb<br>term<br>neither<br>undo |  
-| bip_39_word_new_br9 | now<br>birth<br>strike<br>public<br>dumb<br>term<br>neither<br>undo<br>concert |  
-| bip_39_word_new_line1 | now |  
-| bip_39_word_new_line10 | now
+| bip_39_word_new_br_1 | now |  
+| bip_39_word_new_br_10 | now<br>birth<br>strike<br>public<br>dumb<br>term<br>neither<br>undo<br>concert<br>elbow |  
+| bip_39_word_new_br_11 | now<br>birth<br>strike<br>public<br>dumb<br>term<br>neither<br>undo<br>concert<br>elbow<br>rude |  
+| bip_39_word_new_br_12 | now<br>birth<br>strike<br>public<br>dumb<br>term<br>neither<br>undo<br>concert<br>elbow<br>rude<br>aim |  
+| bip_39_word_new_br_2 | now<br>birth |  
+| bip_39_word_new_br_3 | now<br>birth<br>strike |  
+| bip_39_word_new_br_4 | now<br>birth<br>strike<br>public |  
+| bip_39_word_new_br_5 | now<br>birth<br>strike<br>public<br>dumb |  
+| bip_39_word_new_br_6 | now<br>birth<br>strike<br>public<br>dumb<br>term |  
+| bip_39_word_new_br_7 | now<br>birth<br>strike<br>public<br>dumb<br>term<br>neither |  
+| bip_39_word_new_br_8 | now<br>birth<br>strike<br>public<br>dumb<br>term<br>neither<br>undo |  
+| bip_39_word_new_br_9 | now<br>birth<br>strike<br>public<br>dumb<br>term<br>neither<br>undo<br>concert |  
+| bip_39_word_new_line_1 | now |  
+| bip_39_word_new_line_10 | now
 birth
 strike
 public
@@ -55,7 +55,7 @@ neither
 undo
 concert
 elbow |  
-| bip_39_word_new_line11 | now
+| bip_39_word_new_line_11 | now
 birth
 strike
 public
@@ -66,7 +66,7 @@ undo
 concert
 elbow
 rude |  
-| bip_39_word_new_line12 | now
+| bip_39_word_new_line_12 | now
 birth
 strike
 public
@@ -78,34 +78,34 @@ concert
 elbow
 rude
 aim |  
-| bip_39_word_new_line2 | now
+| bip_39_word_new_line_2 | now
 birth |  
-| bip_39_word_new_line3 | now
+| bip_39_word_new_line_3 | now
 birth
 strike |  
-| bip_39_word_new_line4 | now
+| bip_39_word_new_line_4 | now
 birth
 strike
 public |  
-| bip_39_word_new_line5 | now
+| bip_39_word_new_line_5 | now
 birth
 strike
 public
 dumb |  
-| bip_39_word_new_line6 | now
+| bip_39_word_new_line_6 | now
 birth
 strike
 public
 dumb
 term |  
-| bip_39_word_new_line7 | now
+| bip_39_word_new_line_7 | now
 birth
 strike
 public
 dumb
 term
 neither |  
-| bip_39_word_new_line8 | now
+| bip_39_word_new_line_8 | now
 birth
 strike
 public
@@ -113,7 +113,7 @@ dumb
 term
 neither
 undo |  
-| bip_39_word_new_line9 | now
+| bip_39_word_new_line_9 | now
 birth
 strike
 public

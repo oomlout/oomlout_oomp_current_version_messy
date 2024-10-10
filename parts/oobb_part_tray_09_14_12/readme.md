@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | vicious |  
-| bip_39_word_new_br10 | vicious<br>blood<br>dog<br>shift<br>hungry<br>tilt<br>hero<br>hope<br>often<br>fame |  
-| bip_39_word_new_br11 | vicious<br>blood<br>dog<br>shift<br>hungry<br>tilt<br>hero<br>hope<br>often<br>fame<br>diesel |  
-| bip_39_word_new_br12 | vicious<br>blood<br>dog<br>shift<br>hungry<br>tilt<br>hero<br>hope<br>often<br>fame<br>diesel<br>again |  
-| bip_39_word_new_br2 | vicious<br>blood |  
-| bip_39_word_new_br3 | vicious<br>blood<br>dog |  
-| bip_39_word_new_br4 | vicious<br>blood<br>dog<br>shift |  
-| bip_39_word_new_br5 | vicious<br>blood<br>dog<br>shift<br>hungry |  
-| bip_39_word_new_br6 | vicious<br>blood<br>dog<br>shift<br>hungry<br>tilt |  
-| bip_39_word_new_br7 | vicious<br>blood<br>dog<br>shift<br>hungry<br>tilt<br>hero |  
-| bip_39_word_new_br8 | vicious<br>blood<br>dog<br>shift<br>hungry<br>tilt<br>hero<br>hope |  
-| bip_39_word_new_br9 | vicious<br>blood<br>dog<br>shift<br>hungry<br>tilt<br>hero<br>hope<br>often |  
-| bip_39_word_new_line1 | vicious |  
-| bip_39_word_new_line10 | vicious
+| bip_39_word_new_br_1 | vicious |  
+| bip_39_word_new_br_10 | vicious<br>blood<br>dog<br>shift<br>hungry<br>tilt<br>hero<br>hope<br>often<br>fame |  
+| bip_39_word_new_br_11 | vicious<br>blood<br>dog<br>shift<br>hungry<br>tilt<br>hero<br>hope<br>often<br>fame<br>diesel |  
+| bip_39_word_new_br_12 | vicious<br>blood<br>dog<br>shift<br>hungry<br>tilt<br>hero<br>hope<br>often<br>fame<br>diesel<br>again |  
+| bip_39_word_new_br_2 | vicious<br>blood |  
+| bip_39_word_new_br_3 | vicious<br>blood<br>dog |  
+| bip_39_word_new_br_4 | vicious<br>blood<br>dog<br>shift |  
+| bip_39_word_new_br_5 | vicious<br>blood<br>dog<br>shift<br>hungry |  
+| bip_39_word_new_br_6 | vicious<br>blood<br>dog<br>shift<br>hungry<br>tilt |  
+| bip_39_word_new_br_7 | vicious<br>blood<br>dog<br>shift<br>hungry<br>tilt<br>hero |  
+| bip_39_word_new_br_8 | vicious<br>blood<br>dog<br>shift<br>hungry<br>tilt<br>hero<br>hope |  
+| bip_39_word_new_br_9 | vicious<br>blood<br>dog<br>shift<br>hungry<br>tilt<br>hero<br>hope<br>often |  
+| bip_39_word_new_line_1 | vicious |  
+| bip_39_word_new_line_10 | vicious
 blood
 dog
 shift
@@ -55,7 +55,7 @@ hero
 hope
 often
 fame |  
-| bip_39_word_new_line11 | vicious
+| bip_39_word_new_line_11 | vicious
 blood
 dog
 shift
@@ -66,7 +66,7 @@ hope
 often
 fame
 diesel |  
-| bip_39_word_new_line12 | vicious
+| bip_39_word_new_line_12 | vicious
 blood
 dog
 shift
@@ -78,34 +78,34 @@ often
 fame
 diesel
 again |  
-| bip_39_word_new_line2 | vicious
+| bip_39_word_new_line_2 | vicious
 blood |  
-| bip_39_word_new_line3 | vicious
+| bip_39_word_new_line_3 | vicious
 blood
 dog |  
-| bip_39_word_new_line4 | vicious
+| bip_39_word_new_line_4 | vicious
 blood
 dog
 shift |  
-| bip_39_word_new_line5 | vicious
+| bip_39_word_new_line_5 | vicious
 blood
 dog
 shift
 hungry |  
-| bip_39_word_new_line6 | vicious
+| bip_39_word_new_line_6 | vicious
 blood
 dog
 shift
 hungry
 tilt |  
-| bip_39_word_new_line7 | vicious
+| bip_39_word_new_line_7 | vicious
 blood
 dog
 shift
 hungry
 tilt
 hero |  
-| bip_39_word_new_line8 | vicious
+| bip_39_word_new_line_8 | vicious
 blood
 dog
 shift
@@ -113,7 +113,7 @@ hungry
 tilt
 hero
 hope |  
-| bip_39_word_new_line9 | vicious
+| bip_39_word_new_line_9 | vicious
 blood
 dog
 shift

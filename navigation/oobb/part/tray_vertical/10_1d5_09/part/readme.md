@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | vital |  
-| bip_39_word_new_br10 | vital<br>harvest<br>sort<br>increase<br>toddler<br>edge<br>judge<br>dust<br>slim<br>fox |  
-| bip_39_word_new_br11 | vital<br>harvest<br>sort<br>increase<br>toddler<br>edge<br>judge<br>dust<br>slim<br>fox<br>caught |  
-| bip_39_word_new_br12 | vital<br>harvest<br>sort<br>increase<br>toddler<br>edge<br>judge<br>dust<br>slim<br>fox<br>caught<br>accuse |  
-| bip_39_word_new_br2 | vital<br>harvest |  
-| bip_39_word_new_br3 | vital<br>harvest<br>sort |  
-| bip_39_word_new_br4 | vital<br>harvest<br>sort<br>increase |  
-| bip_39_word_new_br5 | vital<br>harvest<br>sort<br>increase<br>toddler |  
-| bip_39_word_new_br6 | vital<br>harvest<br>sort<br>increase<br>toddler<br>edge |  
-| bip_39_word_new_br7 | vital<br>harvest<br>sort<br>increase<br>toddler<br>edge<br>judge |  
-| bip_39_word_new_br8 | vital<br>harvest<br>sort<br>increase<br>toddler<br>edge<br>judge<br>dust |  
-| bip_39_word_new_br9 | vital<br>harvest<br>sort<br>increase<br>toddler<br>edge<br>judge<br>dust<br>slim |  
-| bip_39_word_new_line1 | vital |  
-| bip_39_word_new_line10 | vital
+| bip_39_word_new_br_1 | vital |  
+| bip_39_word_new_br_10 | vital<br>harvest<br>sort<br>increase<br>toddler<br>edge<br>judge<br>dust<br>slim<br>fox |  
+| bip_39_word_new_br_11 | vital<br>harvest<br>sort<br>increase<br>toddler<br>edge<br>judge<br>dust<br>slim<br>fox<br>caught |  
+| bip_39_word_new_br_12 | vital<br>harvest<br>sort<br>increase<br>toddler<br>edge<br>judge<br>dust<br>slim<br>fox<br>caught<br>accuse |  
+| bip_39_word_new_br_2 | vital<br>harvest |  
+| bip_39_word_new_br_3 | vital<br>harvest<br>sort |  
+| bip_39_word_new_br_4 | vital<br>harvest<br>sort<br>increase |  
+| bip_39_word_new_br_5 | vital<br>harvest<br>sort<br>increase<br>toddler |  
+| bip_39_word_new_br_6 | vital<br>harvest<br>sort<br>increase<br>toddler<br>edge |  
+| bip_39_word_new_br_7 | vital<br>harvest<br>sort<br>increase<br>toddler<br>edge<br>judge |  
+| bip_39_word_new_br_8 | vital<br>harvest<br>sort<br>increase<br>toddler<br>edge<br>judge<br>dust |  
+| bip_39_word_new_br_9 | vital<br>harvest<br>sort<br>increase<br>toddler<br>edge<br>judge<br>dust<br>slim |  
+| bip_39_word_new_line_1 | vital |  
+| bip_39_word_new_line_10 | vital
 harvest
 sort
 increase
@@ -55,7 +55,7 @@ judge
 dust
 slim
 fox |  
-| bip_39_word_new_line11 | vital
+| bip_39_word_new_line_11 | vital
 harvest
 sort
 increase
@@ -66,7 +66,7 @@ dust
 slim
 fox
 caught |  
-| bip_39_word_new_line12 | vital
+| bip_39_word_new_line_12 | vital
 harvest
 sort
 increase
@@ -78,34 +78,34 @@ slim
 fox
 caught
 accuse |  
-| bip_39_word_new_line2 | vital
+| bip_39_word_new_line_2 | vital
 harvest |  
-| bip_39_word_new_line3 | vital
+| bip_39_word_new_line_3 | vital
 harvest
 sort |  
-| bip_39_word_new_line4 | vital
+| bip_39_word_new_line_4 | vital
 harvest
 sort
 increase |  
-| bip_39_word_new_line5 | vital
+| bip_39_word_new_line_5 | vital
 harvest
 sort
 increase
 toddler |  
-| bip_39_word_new_line6 | vital
+| bip_39_word_new_line_6 | vital
 harvest
 sort
 increase
 toddler
 edge |  
-| bip_39_word_new_line7 | vital
+| bip_39_word_new_line_7 | vital
 harvest
 sort
 increase
 toddler
 edge
 judge |  
-| bip_39_word_new_line8 | vital
+| bip_39_word_new_line_8 | vital
 harvest
 sort
 increase
@@ -113,7 +113,7 @@ toddler
 edge
 judge
 dust |  
-| bip_39_word_new_line9 | vital
+| bip_39_word_new_line_9 | vital
 harvest
 sort
 increase

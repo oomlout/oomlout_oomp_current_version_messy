@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dust |  
-| bip_39_word_new_br10 | dust<br>wreck<br>column<br>much<br>fence<br>conduct<br>daughter<br>wrap<br>check<br>advice |  
-| bip_39_word_new_br11 | dust<br>wreck<br>column<br>much<br>fence<br>conduct<br>daughter<br>wrap<br>check<br>advice<br>cabbage |  
-| bip_39_word_new_br12 | dust<br>wreck<br>column<br>much<br>fence<br>conduct<br>daughter<br>wrap<br>check<br>advice<br>cabbage<br>auto |  
-| bip_39_word_new_br2 | dust<br>wreck |  
-| bip_39_word_new_br3 | dust<br>wreck<br>column |  
-| bip_39_word_new_br4 | dust<br>wreck<br>column<br>much |  
-| bip_39_word_new_br5 | dust<br>wreck<br>column<br>much<br>fence |  
-| bip_39_word_new_br6 | dust<br>wreck<br>column<br>much<br>fence<br>conduct |  
-| bip_39_word_new_br7 | dust<br>wreck<br>column<br>much<br>fence<br>conduct<br>daughter |  
-| bip_39_word_new_br8 | dust<br>wreck<br>column<br>much<br>fence<br>conduct<br>daughter<br>wrap |  
-| bip_39_word_new_br9 | dust<br>wreck<br>column<br>much<br>fence<br>conduct<br>daughter<br>wrap<br>check |  
-| bip_39_word_new_line1 | dust |  
-| bip_39_word_new_line10 | dust
+| bip_39_word_new_br_1 | dust |  
+| bip_39_word_new_br_10 | dust<br>wreck<br>column<br>much<br>fence<br>conduct<br>daughter<br>wrap<br>check<br>advice |  
+| bip_39_word_new_br_11 | dust<br>wreck<br>column<br>much<br>fence<br>conduct<br>daughter<br>wrap<br>check<br>advice<br>cabbage |  
+| bip_39_word_new_br_12 | dust<br>wreck<br>column<br>much<br>fence<br>conduct<br>daughter<br>wrap<br>check<br>advice<br>cabbage<br>auto |  
+| bip_39_word_new_br_2 | dust<br>wreck |  
+| bip_39_word_new_br_3 | dust<br>wreck<br>column |  
+| bip_39_word_new_br_4 | dust<br>wreck<br>column<br>much |  
+| bip_39_word_new_br_5 | dust<br>wreck<br>column<br>much<br>fence |  
+| bip_39_word_new_br_6 | dust<br>wreck<br>column<br>much<br>fence<br>conduct |  
+| bip_39_word_new_br_7 | dust<br>wreck<br>column<br>much<br>fence<br>conduct<br>daughter |  
+| bip_39_word_new_br_8 | dust<br>wreck<br>column<br>much<br>fence<br>conduct<br>daughter<br>wrap |  
+| bip_39_word_new_br_9 | dust<br>wreck<br>column<br>much<br>fence<br>conduct<br>daughter<br>wrap<br>check |  
+| bip_39_word_new_line_1 | dust |  
+| bip_39_word_new_line_10 | dust
 wreck
 column
 much
@@ -55,7 +55,7 @@ daughter
 wrap
 check
 advice |  
-| bip_39_word_new_line11 | dust
+| bip_39_word_new_line_11 | dust
 wreck
 column
 much
@@ -66,7 +66,7 @@ wrap
 check
 advice
 cabbage |  
-| bip_39_word_new_line12 | dust
+| bip_39_word_new_line_12 | dust
 wreck
 column
 much
@@ -78,34 +78,34 @@ check
 advice
 cabbage
 auto |  
-| bip_39_word_new_line2 | dust
+| bip_39_word_new_line_2 | dust
 wreck |  
-| bip_39_word_new_line3 | dust
+| bip_39_word_new_line_3 | dust
 wreck
 column |  
-| bip_39_word_new_line4 | dust
+| bip_39_word_new_line_4 | dust
 wreck
 column
 much |  
-| bip_39_word_new_line5 | dust
+| bip_39_word_new_line_5 | dust
 wreck
 column
 much
 fence |  
-| bip_39_word_new_line6 | dust
+| bip_39_word_new_line_6 | dust
 wreck
 column
 much
 fence
 conduct |  
-| bip_39_word_new_line7 | dust
+| bip_39_word_new_line_7 | dust
 wreck
 column
 much
 fence
 conduct
 daughter |  
-| bip_39_word_new_line8 | dust
+| bip_39_word_new_line_8 | dust
 wreck
 column
 much
@@ -113,7 +113,7 @@ fence
 conduct
 daughter
 wrap |  
-| bip_39_word_new_line9 | dust
+| bip_39_word_new_line_9 | dust
 wreck
 column
 much

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rebel |  
-| bip_39_word_new_br10 | rebel<br>buffalo<br>common<br>eyebrow<br>inject<br>include<br>grab<br>slogan<br>pencil<br>bicycle |  
-| bip_39_word_new_br11 | rebel<br>buffalo<br>common<br>eyebrow<br>inject<br>include<br>grab<br>slogan<br>pencil<br>bicycle<br>dice |  
-| bip_39_word_new_br12 | rebel<br>buffalo<br>common<br>eyebrow<br>inject<br>include<br>grab<br>slogan<br>pencil<br>bicycle<br>dice<br>abstract |  
-| bip_39_word_new_br2 | rebel<br>buffalo |  
-| bip_39_word_new_br3 | rebel<br>buffalo<br>common |  
-| bip_39_word_new_br4 | rebel<br>buffalo<br>common<br>eyebrow |  
-| bip_39_word_new_br5 | rebel<br>buffalo<br>common<br>eyebrow<br>inject |  
-| bip_39_word_new_br6 | rebel<br>buffalo<br>common<br>eyebrow<br>inject<br>include |  
-| bip_39_word_new_br7 | rebel<br>buffalo<br>common<br>eyebrow<br>inject<br>include<br>grab |  
-| bip_39_word_new_br8 | rebel<br>buffalo<br>common<br>eyebrow<br>inject<br>include<br>grab<br>slogan |  
-| bip_39_word_new_br9 | rebel<br>buffalo<br>common<br>eyebrow<br>inject<br>include<br>grab<br>slogan<br>pencil |  
-| bip_39_word_new_line1 | rebel |  
-| bip_39_word_new_line10 | rebel
+| bip_39_word_new_br_1 | rebel |  
+| bip_39_word_new_br_10 | rebel<br>buffalo<br>common<br>eyebrow<br>inject<br>include<br>grab<br>slogan<br>pencil<br>bicycle |  
+| bip_39_word_new_br_11 | rebel<br>buffalo<br>common<br>eyebrow<br>inject<br>include<br>grab<br>slogan<br>pencil<br>bicycle<br>dice |  
+| bip_39_word_new_br_12 | rebel<br>buffalo<br>common<br>eyebrow<br>inject<br>include<br>grab<br>slogan<br>pencil<br>bicycle<br>dice<br>abstract |  
+| bip_39_word_new_br_2 | rebel<br>buffalo |  
+| bip_39_word_new_br_3 | rebel<br>buffalo<br>common |  
+| bip_39_word_new_br_4 | rebel<br>buffalo<br>common<br>eyebrow |  
+| bip_39_word_new_br_5 | rebel<br>buffalo<br>common<br>eyebrow<br>inject |  
+| bip_39_word_new_br_6 | rebel<br>buffalo<br>common<br>eyebrow<br>inject<br>include |  
+| bip_39_word_new_br_7 | rebel<br>buffalo<br>common<br>eyebrow<br>inject<br>include<br>grab |  
+| bip_39_word_new_br_8 | rebel<br>buffalo<br>common<br>eyebrow<br>inject<br>include<br>grab<br>slogan |  
+| bip_39_word_new_br_9 | rebel<br>buffalo<br>common<br>eyebrow<br>inject<br>include<br>grab<br>slogan<br>pencil |  
+| bip_39_word_new_line_1 | rebel |  
+| bip_39_word_new_line_10 | rebel
 buffalo
 common
 eyebrow
@@ -55,7 +55,7 @@ grab
 slogan
 pencil
 bicycle |  
-| bip_39_word_new_line11 | rebel
+| bip_39_word_new_line_11 | rebel
 buffalo
 common
 eyebrow
@@ -66,7 +66,7 @@ slogan
 pencil
 bicycle
 dice |  
-| bip_39_word_new_line12 | rebel
+| bip_39_word_new_line_12 | rebel
 buffalo
 common
 eyebrow
@@ -78,34 +78,34 @@ pencil
 bicycle
 dice
 abstract |  
-| bip_39_word_new_line2 | rebel
+| bip_39_word_new_line_2 | rebel
 buffalo |  
-| bip_39_word_new_line3 | rebel
+| bip_39_word_new_line_3 | rebel
 buffalo
 common |  
-| bip_39_word_new_line4 | rebel
+| bip_39_word_new_line_4 | rebel
 buffalo
 common
 eyebrow |  
-| bip_39_word_new_line5 | rebel
+| bip_39_word_new_line_5 | rebel
 buffalo
 common
 eyebrow
 inject |  
-| bip_39_word_new_line6 | rebel
+| bip_39_word_new_line_6 | rebel
 buffalo
 common
 eyebrow
 inject
 include |  
-| bip_39_word_new_line7 | rebel
+| bip_39_word_new_line_7 | rebel
 buffalo
 common
 eyebrow
 inject
 include
 grab |  
-| bip_39_word_new_line8 | rebel
+| bip_39_word_new_line_8 | rebel
 buffalo
 common
 eyebrow
@@ -113,7 +113,7 @@ inject
 include
 grab
 slogan |  
-| bip_39_word_new_line9 | rebel
+| bip_39_word_new_line_9 | rebel
 buffalo
 common
 eyebrow

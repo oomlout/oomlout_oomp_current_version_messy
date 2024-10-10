@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | stand |  
-| bip_39_word_new_br10 | stand<br>output<br>burst<br>cloud<br>erupt<br>horse<br>happy<br>increase<br>monitor<br>chicken |  
-| bip_39_word_new_br11 | stand<br>output<br>burst<br>cloud<br>erupt<br>horse<br>happy<br>increase<br>monitor<br>chicken<br>grain |  
-| bip_39_word_new_br12 | stand<br>output<br>burst<br>cloud<br>erupt<br>horse<br>happy<br>increase<br>monitor<br>chicken<br>grain<br>alert |  
-| bip_39_word_new_br2 | stand<br>output |  
-| bip_39_word_new_br3 | stand<br>output<br>burst |  
-| bip_39_word_new_br4 | stand<br>output<br>burst<br>cloud |  
-| bip_39_word_new_br5 | stand<br>output<br>burst<br>cloud<br>erupt |  
-| bip_39_word_new_br6 | stand<br>output<br>burst<br>cloud<br>erupt<br>horse |  
-| bip_39_word_new_br7 | stand<br>output<br>burst<br>cloud<br>erupt<br>horse<br>happy |  
-| bip_39_word_new_br8 | stand<br>output<br>burst<br>cloud<br>erupt<br>horse<br>happy<br>increase |  
-| bip_39_word_new_br9 | stand<br>output<br>burst<br>cloud<br>erupt<br>horse<br>happy<br>increase<br>monitor |  
-| bip_39_word_new_line1 | stand |  
-| bip_39_word_new_line10 | stand
+| bip_39_word_new_br_1 | stand |  
+| bip_39_word_new_br_10 | stand<br>output<br>burst<br>cloud<br>erupt<br>horse<br>happy<br>increase<br>monitor<br>chicken |  
+| bip_39_word_new_br_11 | stand<br>output<br>burst<br>cloud<br>erupt<br>horse<br>happy<br>increase<br>monitor<br>chicken<br>grain |  
+| bip_39_word_new_br_12 | stand<br>output<br>burst<br>cloud<br>erupt<br>horse<br>happy<br>increase<br>monitor<br>chicken<br>grain<br>alert |  
+| bip_39_word_new_br_2 | stand<br>output |  
+| bip_39_word_new_br_3 | stand<br>output<br>burst |  
+| bip_39_word_new_br_4 | stand<br>output<br>burst<br>cloud |  
+| bip_39_word_new_br_5 | stand<br>output<br>burst<br>cloud<br>erupt |  
+| bip_39_word_new_br_6 | stand<br>output<br>burst<br>cloud<br>erupt<br>horse |  
+| bip_39_word_new_br_7 | stand<br>output<br>burst<br>cloud<br>erupt<br>horse<br>happy |  
+| bip_39_word_new_br_8 | stand<br>output<br>burst<br>cloud<br>erupt<br>horse<br>happy<br>increase |  
+| bip_39_word_new_br_9 | stand<br>output<br>burst<br>cloud<br>erupt<br>horse<br>happy<br>increase<br>monitor |  
+| bip_39_word_new_line_1 | stand |  
+| bip_39_word_new_line_10 | stand
 output
 burst
 cloud
@@ -55,7 +55,7 @@ happy
 increase
 monitor
 chicken |  
-| bip_39_word_new_line11 | stand
+| bip_39_word_new_line_11 | stand
 output
 burst
 cloud
@@ -66,7 +66,7 @@ increase
 monitor
 chicken
 grain |  
-| bip_39_word_new_line12 | stand
+| bip_39_word_new_line_12 | stand
 output
 burst
 cloud
@@ -78,34 +78,34 @@ monitor
 chicken
 grain
 alert |  
-| bip_39_word_new_line2 | stand
+| bip_39_word_new_line_2 | stand
 output |  
-| bip_39_word_new_line3 | stand
+| bip_39_word_new_line_3 | stand
 output
 burst |  
-| bip_39_word_new_line4 | stand
+| bip_39_word_new_line_4 | stand
 output
 burst
 cloud |  
-| bip_39_word_new_line5 | stand
+| bip_39_word_new_line_5 | stand
 output
 burst
 cloud
 erupt |  
-| bip_39_word_new_line6 | stand
+| bip_39_word_new_line_6 | stand
 output
 burst
 cloud
 erupt
 horse |  
-| bip_39_word_new_line7 | stand
+| bip_39_word_new_line_7 | stand
 output
 burst
 cloud
 erupt
 horse
 happy |  
-| bip_39_word_new_line8 | stand
+| bip_39_word_new_line_8 | stand
 output
 burst
 cloud
@@ -113,7 +113,7 @@ erupt
 horse
 happy
 increase |  
-| bip_39_word_new_line9 | stand
+| bip_39_word_new_line_9 | stand
 output
 burst
 cloud

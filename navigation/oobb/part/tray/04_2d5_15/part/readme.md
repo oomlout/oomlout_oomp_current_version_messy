@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | curve |  
-| bip_39_word_new_br10 | curve<br>multiply<br>surround<br>lazy<br>curve<br>input<br>eagle<br>scene<br>myth<br>hand |  
-| bip_39_word_new_br11 | curve<br>multiply<br>surround<br>lazy<br>curve<br>input<br>eagle<br>scene<br>myth<br>hand<br>receive |  
-| bip_39_word_new_br12 | curve<br>multiply<br>surround<br>lazy<br>curve<br>input<br>eagle<br>scene<br>myth<br>hand<br>receive<br>average |  
-| bip_39_word_new_br2 | curve<br>multiply |  
-| bip_39_word_new_br3 | curve<br>multiply<br>surround |  
-| bip_39_word_new_br4 | curve<br>multiply<br>surround<br>lazy |  
-| bip_39_word_new_br5 | curve<br>multiply<br>surround<br>lazy<br>curve |  
-| bip_39_word_new_br6 | curve<br>multiply<br>surround<br>lazy<br>curve<br>input |  
-| bip_39_word_new_br7 | curve<br>multiply<br>surround<br>lazy<br>curve<br>input<br>eagle |  
-| bip_39_word_new_br8 | curve<br>multiply<br>surround<br>lazy<br>curve<br>input<br>eagle<br>scene |  
-| bip_39_word_new_br9 | curve<br>multiply<br>surround<br>lazy<br>curve<br>input<br>eagle<br>scene<br>myth |  
-| bip_39_word_new_line1 | curve |  
-| bip_39_word_new_line10 | curve
+| bip_39_word_new_br_1 | curve |  
+| bip_39_word_new_br_10 | curve<br>multiply<br>surround<br>lazy<br>curve<br>input<br>eagle<br>scene<br>myth<br>hand |  
+| bip_39_word_new_br_11 | curve<br>multiply<br>surround<br>lazy<br>curve<br>input<br>eagle<br>scene<br>myth<br>hand<br>receive |  
+| bip_39_word_new_br_12 | curve<br>multiply<br>surround<br>lazy<br>curve<br>input<br>eagle<br>scene<br>myth<br>hand<br>receive<br>average |  
+| bip_39_word_new_br_2 | curve<br>multiply |  
+| bip_39_word_new_br_3 | curve<br>multiply<br>surround |  
+| bip_39_word_new_br_4 | curve<br>multiply<br>surround<br>lazy |  
+| bip_39_word_new_br_5 | curve<br>multiply<br>surround<br>lazy<br>curve |  
+| bip_39_word_new_br_6 | curve<br>multiply<br>surround<br>lazy<br>curve<br>input |  
+| bip_39_word_new_br_7 | curve<br>multiply<br>surround<br>lazy<br>curve<br>input<br>eagle |  
+| bip_39_word_new_br_8 | curve<br>multiply<br>surround<br>lazy<br>curve<br>input<br>eagle<br>scene |  
+| bip_39_word_new_br_9 | curve<br>multiply<br>surround<br>lazy<br>curve<br>input<br>eagle<br>scene<br>myth |  
+| bip_39_word_new_line_1 | curve |  
+| bip_39_word_new_line_10 | curve
 multiply
 surround
 lazy
@@ -55,7 +55,7 @@ eagle
 scene
 myth
 hand |  
-| bip_39_word_new_line11 | curve
+| bip_39_word_new_line_11 | curve
 multiply
 surround
 lazy
@@ -66,7 +66,7 @@ scene
 myth
 hand
 receive |  
-| bip_39_word_new_line12 | curve
+| bip_39_word_new_line_12 | curve
 multiply
 surround
 lazy
@@ -78,34 +78,34 @@ myth
 hand
 receive
 average |  
-| bip_39_word_new_line2 | curve
+| bip_39_word_new_line_2 | curve
 multiply |  
-| bip_39_word_new_line3 | curve
+| bip_39_word_new_line_3 | curve
 multiply
 surround |  
-| bip_39_word_new_line4 | curve
+| bip_39_word_new_line_4 | curve
 multiply
 surround
 lazy |  
-| bip_39_word_new_line5 | curve
+| bip_39_word_new_line_5 | curve
 multiply
 surround
 lazy
 curve |  
-| bip_39_word_new_line6 | curve
+| bip_39_word_new_line_6 | curve
 multiply
 surround
 lazy
 curve
 input |  
-| bip_39_word_new_line7 | curve
+| bip_39_word_new_line_7 | curve
 multiply
 surround
 lazy
 curve
 input
 eagle |  
-| bip_39_word_new_line8 | curve
+| bip_39_word_new_line_8 | curve
 multiply
 surround
 lazy
@@ -113,7 +113,7 @@ curve
 input
 eagle
 scene |  
-| bip_39_word_new_line9 | curve
+| bip_39_word_new_line_9 | curve
 multiply
 surround
 lazy

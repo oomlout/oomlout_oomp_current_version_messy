@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | paper |  
-| bip_39_word_new_br10 | paper<br>drastic<br>spoil<br>car<br>index<br>pizza<br>between<br>property<br>wool<br>kit |  
-| bip_39_word_new_br11 | paper<br>drastic<br>spoil<br>car<br>index<br>pizza<br>between<br>property<br>wool<br>kit<br>picnic |  
-| bip_39_word_new_br12 | paper<br>drastic<br>spoil<br>car<br>index<br>pizza<br>between<br>property<br>wool<br>kit<br>picnic<br>also |  
-| bip_39_word_new_br2 | paper<br>drastic |  
-| bip_39_word_new_br3 | paper<br>drastic<br>spoil |  
-| bip_39_word_new_br4 | paper<br>drastic<br>spoil<br>car |  
-| bip_39_word_new_br5 | paper<br>drastic<br>spoil<br>car<br>index |  
-| bip_39_word_new_br6 | paper<br>drastic<br>spoil<br>car<br>index<br>pizza |  
-| bip_39_word_new_br7 | paper<br>drastic<br>spoil<br>car<br>index<br>pizza<br>between |  
-| bip_39_word_new_br8 | paper<br>drastic<br>spoil<br>car<br>index<br>pizza<br>between<br>property |  
-| bip_39_word_new_br9 | paper<br>drastic<br>spoil<br>car<br>index<br>pizza<br>between<br>property<br>wool |  
-| bip_39_word_new_line1 | paper |  
-| bip_39_word_new_line10 | paper
+| bip_39_word_new_br_1 | paper |  
+| bip_39_word_new_br_10 | paper<br>drastic<br>spoil<br>car<br>index<br>pizza<br>between<br>property<br>wool<br>kit |  
+| bip_39_word_new_br_11 | paper<br>drastic<br>spoil<br>car<br>index<br>pizza<br>between<br>property<br>wool<br>kit<br>picnic |  
+| bip_39_word_new_br_12 | paper<br>drastic<br>spoil<br>car<br>index<br>pizza<br>between<br>property<br>wool<br>kit<br>picnic<br>also |  
+| bip_39_word_new_br_2 | paper<br>drastic |  
+| bip_39_word_new_br_3 | paper<br>drastic<br>spoil |  
+| bip_39_word_new_br_4 | paper<br>drastic<br>spoil<br>car |  
+| bip_39_word_new_br_5 | paper<br>drastic<br>spoil<br>car<br>index |  
+| bip_39_word_new_br_6 | paper<br>drastic<br>spoil<br>car<br>index<br>pizza |  
+| bip_39_word_new_br_7 | paper<br>drastic<br>spoil<br>car<br>index<br>pizza<br>between |  
+| bip_39_word_new_br_8 | paper<br>drastic<br>spoil<br>car<br>index<br>pizza<br>between<br>property |  
+| bip_39_word_new_br_9 | paper<br>drastic<br>spoil<br>car<br>index<br>pizza<br>between<br>property<br>wool |  
+| bip_39_word_new_line_1 | paper |  
+| bip_39_word_new_line_10 | paper
 drastic
 spoil
 car
@@ -55,7 +55,7 @@ between
 property
 wool
 kit |  
-| bip_39_word_new_line11 | paper
+| bip_39_word_new_line_11 | paper
 drastic
 spoil
 car
@@ -66,7 +66,7 @@ property
 wool
 kit
 picnic |  
-| bip_39_word_new_line12 | paper
+| bip_39_word_new_line_12 | paper
 drastic
 spoil
 car
@@ -78,34 +78,34 @@ wool
 kit
 picnic
 also |  
-| bip_39_word_new_line2 | paper
+| bip_39_word_new_line_2 | paper
 drastic |  
-| bip_39_word_new_line3 | paper
+| bip_39_word_new_line_3 | paper
 drastic
 spoil |  
-| bip_39_word_new_line4 | paper
+| bip_39_word_new_line_4 | paper
 drastic
 spoil
 car |  
-| bip_39_word_new_line5 | paper
+| bip_39_word_new_line_5 | paper
 drastic
 spoil
 car
 index |  
-| bip_39_word_new_line6 | paper
+| bip_39_word_new_line_6 | paper
 drastic
 spoil
 car
 index
 pizza |  
-| bip_39_word_new_line7 | paper
+| bip_39_word_new_line_7 | paper
 drastic
 spoil
 car
 index
 pizza
 between |  
-| bip_39_word_new_line8 | paper
+| bip_39_word_new_line_8 | paper
 drastic
 spoil
 car
@@ -113,7 +113,7 @@ index
 pizza
 between
 property |  
-| bip_39_word_new_line9 | paper
+| bip_39_word_new_line_9 | paper
 drastic
 spoil
 car

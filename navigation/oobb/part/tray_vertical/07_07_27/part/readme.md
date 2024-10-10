@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | retire |  
-| bip_39_word_new_br10 | retire<br>poem<br>save<br>invest<br>usual<br>valid<br>kit<br>broccoli<br>calm<br>chapter |  
-| bip_39_word_new_br11 | retire<br>poem<br>save<br>invest<br>usual<br>valid<br>kit<br>broccoli<br>calm<br>chapter<br>emerge |  
-| bip_39_word_new_br12 | retire<br>poem<br>save<br>invest<br>usual<br>valid<br>kit<br>broccoli<br>calm<br>chapter<br>emerge<br>access |  
-| bip_39_word_new_br2 | retire<br>poem |  
-| bip_39_word_new_br3 | retire<br>poem<br>save |  
-| bip_39_word_new_br4 | retire<br>poem<br>save<br>invest |  
-| bip_39_word_new_br5 | retire<br>poem<br>save<br>invest<br>usual |  
-| bip_39_word_new_br6 | retire<br>poem<br>save<br>invest<br>usual<br>valid |  
-| bip_39_word_new_br7 | retire<br>poem<br>save<br>invest<br>usual<br>valid<br>kit |  
-| bip_39_word_new_br8 | retire<br>poem<br>save<br>invest<br>usual<br>valid<br>kit<br>broccoli |  
-| bip_39_word_new_br9 | retire<br>poem<br>save<br>invest<br>usual<br>valid<br>kit<br>broccoli<br>calm |  
-| bip_39_word_new_line1 | retire |  
-| bip_39_word_new_line10 | retire
+| bip_39_word_new_br_1 | retire |  
+| bip_39_word_new_br_10 | retire<br>poem<br>save<br>invest<br>usual<br>valid<br>kit<br>broccoli<br>calm<br>chapter |  
+| bip_39_word_new_br_11 | retire<br>poem<br>save<br>invest<br>usual<br>valid<br>kit<br>broccoli<br>calm<br>chapter<br>emerge |  
+| bip_39_word_new_br_12 | retire<br>poem<br>save<br>invest<br>usual<br>valid<br>kit<br>broccoli<br>calm<br>chapter<br>emerge<br>access |  
+| bip_39_word_new_br_2 | retire<br>poem |  
+| bip_39_word_new_br_3 | retire<br>poem<br>save |  
+| bip_39_word_new_br_4 | retire<br>poem<br>save<br>invest |  
+| bip_39_word_new_br_5 | retire<br>poem<br>save<br>invest<br>usual |  
+| bip_39_word_new_br_6 | retire<br>poem<br>save<br>invest<br>usual<br>valid |  
+| bip_39_word_new_br_7 | retire<br>poem<br>save<br>invest<br>usual<br>valid<br>kit |  
+| bip_39_word_new_br_8 | retire<br>poem<br>save<br>invest<br>usual<br>valid<br>kit<br>broccoli |  
+| bip_39_word_new_br_9 | retire<br>poem<br>save<br>invest<br>usual<br>valid<br>kit<br>broccoli<br>calm |  
+| bip_39_word_new_line_1 | retire |  
+| bip_39_word_new_line_10 | retire
 poem
 save
 invest
@@ -55,7 +55,7 @@ kit
 broccoli
 calm
 chapter |  
-| bip_39_word_new_line11 | retire
+| bip_39_word_new_line_11 | retire
 poem
 save
 invest
@@ -66,7 +66,7 @@ broccoli
 calm
 chapter
 emerge |  
-| bip_39_word_new_line12 | retire
+| bip_39_word_new_line_12 | retire
 poem
 save
 invest
@@ -78,34 +78,34 @@ calm
 chapter
 emerge
 access |  
-| bip_39_word_new_line2 | retire
+| bip_39_word_new_line_2 | retire
 poem |  
-| bip_39_word_new_line3 | retire
+| bip_39_word_new_line_3 | retire
 poem
 save |  
-| bip_39_word_new_line4 | retire
+| bip_39_word_new_line_4 | retire
 poem
 save
 invest |  
-| bip_39_word_new_line5 | retire
+| bip_39_word_new_line_5 | retire
 poem
 save
 invest
 usual |  
-| bip_39_word_new_line6 | retire
+| bip_39_word_new_line_6 | retire
 poem
 save
 invest
 usual
 valid |  
-| bip_39_word_new_line7 | retire
+| bip_39_word_new_line_7 | retire
 poem
 save
 invest
 usual
 valid
 kit |  
-| bip_39_word_new_line8 | retire
+| bip_39_word_new_line_8 | retire
 poem
 save
 invest
@@ -113,7 +113,7 @@ usual
 valid
 kit
 broccoli |  
-| bip_39_word_new_line9 | retire
+| bip_39_word_new_line_9 | retire
 poem
 save
 invest

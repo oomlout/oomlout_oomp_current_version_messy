@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | traffic |  
-| bip_39_word_new_br10 | traffic<br>jar<br>admit<br>club<br>now<br>gaze<br>snake<br>plunge<br>ensure<br>broccoli |  
-| bip_39_word_new_br11 | traffic<br>jar<br>admit<br>club<br>now<br>gaze<br>snake<br>plunge<br>ensure<br>broccoli<br>blossom |  
-| bip_39_word_new_br12 | traffic<br>jar<br>admit<br>club<br>now<br>gaze<br>snake<br>plunge<br>ensure<br>broccoli<br>blossom<br>abstract |  
-| bip_39_word_new_br2 | traffic<br>jar |  
-| bip_39_word_new_br3 | traffic<br>jar<br>admit |  
-| bip_39_word_new_br4 | traffic<br>jar<br>admit<br>club |  
-| bip_39_word_new_br5 | traffic<br>jar<br>admit<br>club<br>now |  
-| bip_39_word_new_br6 | traffic<br>jar<br>admit<br>club<br>now<br>gaze |  
-| bip_39_word_new_br7 | traffic<br>jar<br>admit<br>club<br>now<br>gaze<br>snake |  
-| bip_39_word_new_br8 | traffic<br>jar<br>admit<br>club<br>now<br>gaze<br>snake<br>plunge |  
-| bip_39_word_new_br9 | traffic<br>jar<br>admit<br>club<br>now<br>gaze<br>snake<br>plunge<br>ensure |  
-| bip_39_word_new_line1 | traffic |  
-| bip_39_word_new_line10 | traffic
+| bip_39_word_new_br_1 | traffic |  
+| bip_39_word_new_br_10 | traffic<br>jar<br>admit<br>club<br>now<br>gaze<br>snake<br>plunge<br>ensure<br>broccoli |  
+| bip_39_word_new_br_11 | traffic<br>jar<br>admit<br>club<br>now<br>gaze<br>snake<br>plunge<br>ensure<br>broccoli<br>blossom |  
+| bip_39_word_new_br_12 | traffic<br>jar<br>admit<br>club<br>now<br>gaze<br>snake<br>plunge<br>ensure<br>broccoli<br>blossom<br>abstract |  
+| bip_39_word_new_br_2 | traffic<br>jar |  
+| bip_39_word_new_br_3 | traffic<br>jar<br>admit |  
+| bip_39_word_new_br_4 | traffic<br>jar<br>admit<br>club |  
+| bip_39_word_new_br_5 | traffic<br>jar<br>admit<br>club<br>now |  
+| bip_39_word_new_br_6 | traffic<br>jar<br>admit<br>club<br>now<br>gaze |  
+| bip_39_word_new_br_7 | traffic<br>jar<br>admit<br>club<br>now<br>gaze<br>snake |  
+| bip_39_word_new_br_8 | traffic<br>jar<br>admit<br>club<br>now<br>gaze<br>snake<br>plunge |  
+| bip_39_word_new_br_9 | traffic<br>jar<br>admit<br>club<br>now<br>gaze<br>snake<br>plunge<br>ensure |  
+| bip_39_word_new_line_1 | traffic |  
+| bip_39_word_new_line_10 | traffic
 jar
 admit
 club
@@ -55,7 +55,7 @@ snake
 plunge
 ensure
 broccoli |  
-| bip_39_word_new_line11 | traffic
+| bip_39_word_new_line_11 | traffic
 jar
 admit
 club
@@ -66,7 +66,7 @@ plunge
 ensure
 broccoli
 blossom |  
-| bip_39_word_new_line12 | traffic
+| bip_39_word_new_line_12 | traffic
 jar
 admit
 club
@@ -78,34 +78,34 @@ ensure
 broccoli
 blossom
 abstract |  
-| bip_39_word_new_line2 | traffic
+| bip_39_word_new_line_2 | traffic
 jar |  
-| bip_39_word_new_line3 | traffic
+| bip_39_word_new_line_3 | traffic
 jar
 admit |  
-| bip_39_word_new_line4 | traffic
+| bip_39_word_new_line_4 | traffic
 jar
 admit
 club |  
-| bip_39_word_new_line5 | traffic
+| bip_39_word_new_line_5 | traffic
 jar
 admit
 club
 now |  
-| bip_39_word_new_line6 | traffic
+| bip_39_word_new_line_6 | traffic
 jar
 admit
 club
 now
 gaze |  
-| bip_39_word_new_line7 | traffic
+| bip_39_word_new_line_7 | traffic
 jar
 admit
 club
 now
 gaze
 snake |  
-| bip_39_word_new_line8 | traffic
+| bip_39_word_new_line_8 | traffic
 jar
 admit
 club
@@ -113,7 +113,7 @@ now
 gaze
 snake
 plunge |  
-| bip_39_word_new_line9 | traffic
+| bip_39_word_new_line_9 | traffic
 jar
 admit
 club

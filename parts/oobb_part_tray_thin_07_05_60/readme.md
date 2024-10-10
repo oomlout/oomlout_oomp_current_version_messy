@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | lift |  
-| bip_39_word_new_br10 | lift<br>harsh<br>idea<br>goddess<br>left<br>math<br>mammal<br>bread<br>must<br>wrong |  
-| bip_39_word_new_br11 | lift<br>harsh<br>idea<br>goddess<br>left<br>math<br>mammal<br>bread<br>must<br>wrong<br>can |  
-| bip_39_word_new_br12 | lift<br>harsh<br>idea<br>goddess<br>left<br>math<br>mammal<br>bread<br>must<br>wrong<br>can<br>attract |  
-| bip_39_word_new_br2 | lift<br>harsh |  
-| bip_39_word_new_br3 | lift<br>harsh<br>idea |  
-| bip_39_word_new_br4 | lift<br>harsh<br>idea<br>goddess |  
-| bip_39_word_new_br5 | lift<br>harsh<br>idea<br>goddess<br>left |  
-| bip_39_word_new_br6 | lift<br>harsh<br>idea<br>goddess<br>left<br>math |  
-| bip_39_word_new_br7 | lift<br>harsh<br>idea<br>goddess<br>left<br>math<br>mammal |  
-| bip_39_word_new_br8 | lift<br>harsh<br>idea<br>goddess<br>left<br>math<br>mammal<br>bread |  
-| bip_39_word_new_br9 | lift<br>harsh<br>idea<br>goddess<br>left<br>math<br>mammal<br>bread<br>must |  
-| bip_39_word_new_line1 | lift |  
-| bip_39_word_new_line10 | lift
+| bip_39_word_new_br_1 | lift |  
+| bip_39_word_new_br_10 | lift<br>harsh<br>idea<br>goddess<br>left<br>math<br>mammal<br>bread<br>must<br>wrong |  
+| bip_39_word_new_br_11 | lift<br>harsh<br>idea<br>goddess<br>left<br>math<br>mammal<br>bread<br>must<br>wrong<br>can |  
+| bip_39_word_new_br_12 | lift<br>harsh<br>idea<br>goddess<br>left<br>math<br>mammal<br>bread<br>must<br>wrong<br>can<br>attract |  
+| bip_39_word_new_br_2 | lift<br>harsh |  
+| bip_39_word_new_br_3 | lift<br>harsh<br>idea |  
+| bip_39_word_new_br_4 | lift<br>harsh<br>idea<br>goddess |  
+| bip_39_word_new_br_5 | lift<br>harsh<br>idea<br>goddess<br>left |  
+| bip_39_word_new_br_6 | lift<br>harsh<br>idea<br>goddess<br>left<br>math |  
+| bip_39_word_new_br_7 | lift<br>harsh<br>idea<br>goddess<br>left<br>math<br>mammal |  
+| bip_39_word_new_br_8 | lift<br>harsh<br>idea<br>goddess<br>left<br>math<br>mammal<br>bread |  
+| bip_39_word_new_br_9 | lift<br>harsh<br>idea<br>goddess<br>left<br>math<br>mammal<br>bread<br>must |  
+| bip_39_word_new_line_1 | lift |  
+| bip_39_word_new_line_10 | lift
 harsh
 idea
 goddess
@@ -55,7 +55,7 @@ mammal
 bread
 must
 wrong |  
-| bip_39_word_new_line11 | lift
+| bip_39_word_new_line_11 | lift
 harsh
 idea
 goddess
@@ -66,7 +66,7 @@ bread
 must
 wrong
 can |  
-| bip_39_word_new_line12 | lift
+| bip_39_word_new_line_12 | lift
 harsh
 idea
 goddess
@@ -78,34 +78,34 @@ must
 wrong
 can
 attract |  
-| bip_39_word_new_line2 | lift
+| bip_39_word_new_line_2 | lift
 harsh |  
-| bip_39_word_new_line3 | lift
+| bip_39_word_new_line_3 | lift
 harsh
 idea |  
-| bip_39_word_new_line4 | lift
+| bip_39_word_new_line_4 | lift
 harsh
 idea
 goddess |  
-| bip_39_word_new_line5 | lift
+| bip_39_word_new_line_5 | lift
 harsh
 idea
 goddess
 left |  
-| bip_39_word_new_line6 | lift
+| bip_39_word_new_line_6 | lift
 harsh
 idea
 goddess
 left
 math |  
-| bip_39_word_new_line7 | lift
+| bip_39_word_new_line_7 | lift
 harsh
 idea
 goddess
 left
 math
 mammal |  
-| bip_39_word_new_line8 | lift
+| bip_39_word_new_line_8 | lift
 harsh
 idea
 goddess
@@ -113,7 +113,7 @@ left
 math
 mammal
 bread |  
-| bip_39_word_new_line9 | lift
+| bip_39_word_new_line_9 | lift
 harsh
 idea
 goddess

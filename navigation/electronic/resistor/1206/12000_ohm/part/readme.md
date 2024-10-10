@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | arm |  
-| bip_39_word_new_br10 | arm<br>valve<br>receive<br>gospel<br>faith<br>cash<br>audit<br>rifle<br>asthma<br>error |  
-| bip_39_word_new_br11 | arm<br>valve<br>receive<br>gospel<br>faith<br>cash<br>audit<br>rifle<br>asthma<br>error<br>order |  
-| bip_39_word_new_br12 | arm<br>valve<br>receive<br>gospel<br>faith<br>cash<br>audit<br>rifle<br>asthma<br>error<br>order<br>actress |  
-| bip_39_word_new_br2 | arm<br>valve |  
-| bip_39_word_new_br3 | arm<br>valve<br>receive |  
-| bip_39_word_new_br4 | arm<br>valve<br>receive<br>gospel |  
-| bip_39_word_new_br5 | arm<br>valve<br>receive<br>gospel<br>faith |  
-| bip_39_word_new_br6 | arm<br>valve<br>receive<br>gospel<br>faith<br>cash |  
-| bip_39_word_new_br7 | arm<br>valve<br>receive<br>gospel<br>faith<br>cash<br>audit |  
-| bip_39_word_new_br8 | arm<br>valve<br>receive<br>gospel<br>faith<br>cash<br>audit<br>rifle |  
-| bip_39_word_new_br9 | arm<br>valve<br>receive<br>gospel<br>faith<br>cash<br>audit<br>rifle<br>asthma |  
-| bip_39_word_new_line1 | arm |  
-| bip_39_word_new_line10 | arm
+| bip_39_word_new_br_1 | arm |  
+| bip_39_word_new_br_10 | arm<br>valve<br>receive<br>gospel<br>faith<br>cash<br>audit<br>rifle<br>asthma<br>error |  
+| bip_39_word_new_br_11 | arm<br>valve<br>receive<br>gospel<br>faith<br>cash<br>audit<br>rifle<br>asthma<br>error<br>order |  
+| bip_39_word_new_br_12 | arm<br>valve<br>receive<br>gospel<br>faith<br>cash<br>audit<br>rifle<br>asthma<br>error<br>order<br>actress |  
+| bip_39_word_new_br_2 | arm<br>valve |  
+| bip_39_word_new_br_3 | arm<br>valve<br>receive |  
+| bip_39_word_new_br_4 | arm<br>valve<br>receive<br>gospel |  
+| bip_39_word_new_br_5 | arm<br>valve<br>receive<br>gospel<br>faith |  
+| bip_39_word_new_br_6 | arm<br>valve<br>receive<br>gospel<br>faith<br>cash |  
+| bip_39_word_new_br_7 | arm<br>valve<br>receive<br>gospel<br>faith<br>cash<br>audit |  
+| bip_39_word_new_br_8 | arm<br>valve<br>receive<br>gospel<br>faith<br>cash<br>audit<br>rifle |  
+| bip_39_word_new_br_9 | arm<br>valve<br>receive<br>gospel<br>faith<br>cash<br>audit<br>rifle<br>asthma |  
+| bip_39_word_new_line_1 | arm |  
+| bip_39_word_new_line_10 | arm
 valve
 receive
 gospel
@@ -55,7 +55,7 @@ audit
 rifle
 asthma
 error |  
-| bip_39_word_new_line11 | arm
+| bip_39_word_new_line_11 | arm
 valve
 receive
 gospel
@@ -66,7 +66,7 @@ rifle
 asthma
 error
 order |  
-| bip_39_word_new_line12 | arm
+| bip_39_word_new_line_12 | arm
 valve
 receive
 gospel
@@ -78,34 +78,34 @@ asthma
 error
 order
 actress |  
-| bip_39_word_new_line2 | arm
+| bip_39_word_new_line_2 | arm
 valve |  
-| bip_39_word_new_line3 | arm
+| bip_39_word_new_line_3 | arm
 valve
 receive |  
-| bip_39_word_new_line4 | arm
+| bip_39_word_new_line_4 | arm
 valve
 receive
 gospel |  
-| bip_39_word_new_line5 | arm
+| bip_39_word_new_line_5 | arm
 valve
 receive
 gospel
 faith |  
-| bip_39_word_new_line6 | arm
+| bip_39_word_new_line_6 | arm
 valve
 receive
 gospel
 faith
 cash |  
-| bip_39_word_new_line7 | arm
+| bip_39_word_new_line_7 | arm
 valve
 receive
 gospel
 faith
 cash
 audit |  
-| bip_39_word_new_line8 | arm
+| bip_39_word_new_line_8 | arm
 valve
 receive
 gospel
@@ -113,7 +113,7 @@ faith
 cash
 audit
 rifle |  
-| bip_39_word_new_line9 | arm
+| bip_39_word_new_line_9 | arm
 valve
 receive
 gospel

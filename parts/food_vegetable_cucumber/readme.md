@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | grab |  
-| bip_39_word_new_br10 | grab<br>welcome<br>leave<br>lab<br>impulse<br>guilt<br>river<br>basic<br>invest<br>divorce |  
-| bip_39_word_new_br11 | grab<br>welcome<br>leave<br>lab<br>impulse<br>guilt<br>river<br>basic<br>invest<br>divorce<br>fly |  
-| bip_39_word_new_br12 | grab<br>welcome<br>leave<br>lab<br>impulse<br>guilt<br>river<br>basic<br>invest<br>divorce<br>fly<br>arctic |  
-| bip_39_word_new_br2 | grab<br>welcome |  
-| bip_39_word_new_br3 | grab<br>welcome<br>leave |  
-| bip_39_word_new_br4 | grab<br>welcome<br>leave<br>lab |  
-| bip_39_word_new_br5 | grab<br>welcome<br>leave<br>lab<br>impulse |  
-| bip_39_word_new_br6 | grab<br>welcome<br>leave<br>lab<br>impulse<br>guilt |  
-| bip_39_word_new_br7 | grab<br>welcome<br>leave<br>lab<br>impulse<br>guilt<br>river |  
-| bip_39_word_new_br8 | grab<br>welcome<br>leave<br>lab<br>impulse<br>guilt<br>river<br>basic |  
-| bip_39_word_new_br9 | grab<br>welcome<br>leave<br>lab<br>impulse<br>guilt<br>river<br>basic<br>invest |  
-| bip_39_word_new_line1 | grab |  
-| bip_39_word_new_line10 | grab
+| bip_39_word_new_br_1 | grab |  
+| bip_39_word_new_br_10 | grab<br>welcome<br>leave<br>lab<br>impulse<br>guilt<br>river<br>basic<br>invest<br>divorce |  
+| bip_39_word_new_br_11 | grab<br>welcome<br>leave<br>lab<br>impulse<br>guilt<br>river<br>basic<br>invest<br>divorce<br>fly |  
+| bip_39_word_new_br_12 | grab<br>welcome<br>leave<br>lab<br>impulse<br>guilt<br>river<br>basic<br>invest<br>divorce<br>fly<br>arctic |  
+| bip_39_word_new_br_2 | grab<br>welcome |  
+| bip_39_word_new_br_3 | grab<br>welcome<br>leave |  
+| bip_39_word_new_br_4 | grab<br>welcome<br>leave<br>lab |  
+| bip_39_word_new_br_5 | grab<br>welcome<br>leave<br>lab<br>impulse |  
+| bip_39_word_new_br_6 | grab<br>welcome<br>leave<br>lab<br>impulse<br>guilt |  
+| bip_39_word_new_br_7 | grab<br>welcome<br>leave<br>lab<br>impulse<br>guilt<br>river |  
+| bip_39_word_new_br_8 | grab<br>welcome<br>leave<br>lab<br>impulse<br>guilt<br>river<br>basic |  
+| bip_39_word_new_br_9 | grab<br>welcome<br>leave<br>lab<br>impulse<br>guilt<br>river<br>basic<br>invest |  
+| bip_39_word_new_line_1 | grab |  
+| bip_39_word_new_line_10 | grab
 welcome
 leave
 lab
@@ -55,7 +55,7 @@ river
 basic
 invest
 divorce |  
-| bip_39_word_new_line11 | grab
+| bip_39_word_new_line_11 | grab
 welcome
 leave
 lab
@@ -66,7 +66,7 @@ basic
 invest
 divorce
 fly |  
-| bip_39_word_new_line12 | grab
+| bip_39_word_new_line_12 | grab
 welcome
 leave
 lab
@@ -78,34 +78,34 @@ invest
 divorce
 fly
 arctic |  
-| bip_39_word_new_line2 | grab
+| bip_39_word_new_line_2 | grab
 welcome |  
-| bip_39_word_new_line3 | grab
+| bip_39_word_new_line_3 | grab
 welcome
 leave |  
-| bip_39_word_new_line4 | grab
+| bip_39_word_new_line_4 | grab
 welcome
 leave
 lab |  
-| bip_39_word_new_line5 | grab
+| bip_39_word_new_line_5 | grab
 welcome
 leave
 lab
 impulse |  
-| bip_39_word_new_line6 | grab
+| bip_39_word_new_line_6 | grab
 welcome
 leave
 lab
 impulse
 guilt |  
-| bip_39_word_new_line7 | grab
+| bip_39_word_new_line_7 | grab
 welcome
 leave
 lab
 impulse
 guilt
 river |  
-| bip_39_word_new_line8 | grab
+| bip_39_word_new_line_8 | grab
 welcome
 leave
 lab
@@ -113,7 +113,7 @@ impulse
 guilt
 river
 basic |  
-| bip_39_word_new_line9 | grab
+| bip_39_word_new_line_9 | grab
 welcome
 leave
 lab

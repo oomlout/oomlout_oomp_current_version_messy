@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | find |  
-| bip_39_word_new_br10 | find<br>sick<br>segment<br>okay<br>lunar<br>impose<br>taxi<br>when<br>mad<br>firm |  
-| bip_39_word_new_br11 | find<br>sick<br>segment<br>okay<br>lunar<br>impose<br>taxi<br>when<br>mad<br>firm<br>science |  
-| bip_39_word_new_br12 | find<br>sick<br>segment<br>okay<br>lunar<br>impose<br>taxi<br>when<br>mad<br>firm<br>science<br>already |  
-| bip_39_word_new_br2 | find<br>sick |  
-| bip_39_word_new_br3 | find<br>sick<br>segment |  
-| bip_39_word_new_br4 | find<br>sick<br>segment<br>okay |  
-| bip_39_word_new_br5 | find<br>sick<br>segment<br>okay<br>lunar |  
-| bip_39_word_new_br6 | find<br>sick<br>segment<br>okay<br>lunar<br>impose |  
-| bip_39_word_new_br7 | find<br>sick<br>segment<br>okay<br>lunar<br>impose<br>taxi |  
-| bip_39_word_new_br8 | find<br>sick<br>segment<br>okay<br>lunar<br>impose<br>taxi<br>when |  
-| bip_39_word_new_br9 | find<br>sick<br>segment<br>okay<br>lunar<br>impose<br>taxi<br>when<br>mad |  
-| bip_39_word_new_line1 | find |  
-| bip_39_word_new_line10 | find
+| bip_39_word_new_br_1 | find |  
+| bip_39_word_new_br_10 | find<br>sick<br>segment<br>okay<br>lunar<br>impose<br>taxi<br>when<br>mad<br>firm |  
+| bip_39_word_new_br_11 | find<br>sick<br>segment<br>okay<br>lunar<br>impose<br>taxi<br>when<br>mad<br>firm<br>science |  
+| bip_39_word_new_br_12 | find<br>sick<br>segment<br>okay<br>lunar<br>impose<br>taxi<br>when<br>mad<br>firm<br>science<br>already |  
+| bip_39_word_new_br_2 | find<br>sick |  
+| bip_39_word_new_br_3 | find<br>sick<br>segment |  
+| bip_39_word_new_br_4 | find<br>sick<br>segment<br>okay |  
+| bip_39_word_new_br_5 | find<br>sick<br>segment<br>okay<br>lunar |  
+| bip_39_word_new_br_6 | find<br>sick<br>segment<br>okay<br>lunar<br>impose |  
+| bip_39_word_new_br_7 | find<br>sick<br>segment<br>okay<br>lunar<br>impose<br>taxi |  
+| bip_39_word_new_br_8 | find<br>sick<br>segment<br>okay<br>lunar<br>impose<br>taxi<br>when |  
+| bip_39_word_new_br_9 | find<br>sick<br>segment<br>okay<br>lunar<br>impose<br>taxi<br>when<br>mad |  
+| bip_39_word_new_line_1 | find |  
+| bip_39_word_new_line_10 | find
 sick
 segment
 okay
@@ -55,7 +55,7 @@ taxi
 when
 mad
 firm |  
-| bip_39_word_new_line11 | find
+| bip_39_word_new_line_11 | find
 sick
 segment
 okay
@@ -66,7 +66,7 @@ when
 mad
 firm
 science |  
-| bip_39_word_new_line12 | find
+| bip_39_word_new_line_12 | find
 sick
 segment
 okay
@@ -78,34 +78,34 @@ mad
 firm
 science
 already |  
-| bip_39_word_new_line2 | find
+| bip_39_word_new_line_2 | find
 sick |  
-| bip_39_word_new_line3 | find
+| bip_39_word_new_line_3 | find
 sick
 segment |  
-| bip_39_word_new_line4 | find
+| bip_39_word_new_line_4 | find
 sick
 segment
 okay |  
-| bip_39_word_new_line5 | find
+| bip_39_word_new_line_5 | find
 sick
 segment
 okay
 lunar |  
-| bip_39_word_new_line6 | find
+| bip_39_word_new_line_6 | find
 sick
 segment
 okay
 lunar
 impose |  
-| bip_39_word_new_line7 | find
+| bip_39_word_new_line_7 | find
 sick
 segment
 okay
 lunar
 impose
 taxi |  
-| bip_39_word_new_line8 | find
+| bip_39_word_new_line_8 | find
 sick
 segment
 okay
@@ -113,7 +113,7 @@ lunar
 impose
 taxi
 when |  
-| bip_39_word_new_line9 | find
+| bip_39_word_new_line_9 | find
 sick
 segment
 okay

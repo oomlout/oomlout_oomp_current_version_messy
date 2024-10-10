@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | boss |  
-| bip_39_word_new_br10 | boss<br>display<br>fuel<br>artwork<br>artwork<br>husband<br>kingdom<br>ice<br>nose<br>buffalo |  
-| bip_39_word_new_br11 | boss<br>display<br>fuel<br>artwork<br>artwork<br>husband<br>kingdom<br>ice<br>nose<br>buffalo<br>cup |  
-| bip_39_word_new_br12 | boss<br>display<br>fuel<br>artwork<br>artwork<br>husband<br>kingdom<br>ice<br>nose<br>buffalo<br>cup<br>arctic |  
-| bip_39_word_new_br2 | boss<br>display |  
-| bip_39_word_new_br3 | boss<br>display<br>fuel |  
-| bip_39_word_new_br4 | boss<br>display<br>fuel<br>artwork |  
-| bip_39_word_new_br5 | boss<br>display<br>fuel<br>artwork<br>artwork |  
-| bip_39_word_new_br6 | boss<br>display<br>fuel<br>artwork<br>artwork<br>husband |  
-| bip_39_word_new_br7 | boss<br>display<br>fuel<br>artwork<br>artwork<br>husband<br>kingdom |  
-| bip_39_word_new_br8 | boss<br>display<br>fuel<br>artwork<br>artwork<br>husband<br>kingdom<br>ice |  
-| bip_39_word_new_br9 | boss<br>display<br>fuel<br>artwork<br>artwork<br>husband<br>kingdom<br>ice<br>nose |  
-| bip_39_word_new_line1 | boss |  
-| bip_39_word_new_line10 | boss
+| bip_39_word_new_br_1 | boss |  
+| bip_39_word_new_br_10 | boss<br>display<br>fuel<br>artwork<br>artwork<br>husband<br>kingdom<br>ice<br>nose<br>buffalo |  
+| bip_39_word_new_br_11 | boss<br>display<br>fuel<br>artwork<br>artwork<br>husband<br>kingdom<br>ice<br>nose<br>buffalo<br>cup |  
+| bip_39_word_new_br_12 | boss<br>display<br>fuel<br>artwork<br>artwork<br>husband<br>kingdom<br>ice<br>nose<br>buffalo<br>cup<br>arctic |  
+| bip_39_word_new_br_2 | boss<br>display |  
+| bip_39_word_new_br_3 | boss<br>display<br>fuel |  
+| bip_39_word_new_br_4 | boss<br>display<br>fuel<br>artwork |  
+| bip_39_word_new_br_5 | boss<br>display<br>fuel<br>artwork<br>artwork |  
+| bip_39_word_new_br_6 | boss<br>display<br>fuel<br>artwork<br>artwork<br>husband |  
+| bip_39_word_new_br_7 | boss<br>display<br>fuel<br>artwork<br>artwork<br>husband<br>kingdom |  
+| bip_39_word_new_br_8 | boss<br>display<br>fuel<br>artwork<br>artwork<br>husband<br>kingdom<br>ice |  
+| bip_39_word_new_br_9 | boss<br>display<br>fuel<br>artwork<br>artwork<br>husband<br>kingdom<br>ice<br>nose |  
+| bip_39_word_new_line_1 | boss |  
+| bip_39_word_new_line_10 | boss
 display
 fuel
 artwork
@@ -55,7 +55,7 @@ kingdom
 ice
 nose
 buffalo |  
-| bip_39_word_new_line11 | boss
+| bip_39_word_new_line_11 | boss
 display
 fuel
 artwork
@@ -66,7 +66,7 @@ ice
 nose
 buffalo
 cup |  
-| bip_39_word_new_line12 | boss
+| bip_39_word_new_line_12 | boss
 display
 fuel
 artwork
@@ -78,34 +78,34 @@ nose
 buffalo
 cup
 arctic |  
-| bip_39_word_new_line2 | boss
+| bip_39_word_new_line_2 | boss
 display |  
-| bip_39_word_new_line3 | boss
+| bip_39_word_new_line_3 | boss
 display
 fuel |  
-| bip_39_word_new_line4 | boss
+| bip_39_word_new_line_4 | boss
 display
 fuel
 artwork |  
-| bip_39_word_new_line5 | boss
+| bip_39_word_new_line_5 | boss
 display
 fuel
 artwork
 artwork |  
-| bip_39_word_new_line6 | boss
+| bip_39_word_new_line_6 | boss
 display
 fuel
 artwork
 artwork
 husband |  
-| bip_39_word_new_line7 | boss
+| bip_39_word_new_line_7 | boss
 display
 fuel
 artwork
 artwork
 husband
 kingdom |  
-| bip_39_word_new_line8 | boss
+| bip_39_word_new_line_8 | boss
 display
 fuel
 artwork
@@ -113,7 +113,7 @@ artwork
 husband
 kingdom
 ice |  
-| bip_39_word_new_line9 | boss
+| bip_39_word_new_line_9 | boss
 display
 fuel
 artwork

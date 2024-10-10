@@ -1,17 +1,17 @@
-bip_39_word_new_br1: mosquito
-bip_39_word_new_br10: mosquito<br>crunch<br>monster<br>detect<br>spoil<br>episode<br>differ<br>benefit<br>chase<br>move
-bip_39_word_new_br11: mosquito<br>crunch<br>monster<br>detect<br>spoil<br>episode<br>differ<br>benefit<br>chase<br>move<br>beyond
-bip_39_word_new_br12: mosquito<br>crunch<br>monster<br>detect<br>spoil<br>episode<br>differ<br>benefit<br>chase<br>move<br>beyond<br>asthma
-bip_39_word_new_br2: mosquito<br>crunch
-bip_39_word_new_br3: mosquito<br>crunch<br>monster
-bip_39_word_new_br4: mosquito<br>crunch<br>monster<br>detect
-bip_39_word_new_br5: mosquito<br>crunch<br>monster<br>detect<br>spoil
-bip_39_word_new_br6: mosquito<br>crunch<br>monster<br>detect<br>spoil<br>episode
-bip_39_word_new_br7: mosquito<br>crunch<br>monster<br>detect<br>spoil<br>episode<br>differ
-bip_39_word_new_br8: mosquito<br>crunch<br>monster<br>detect<br>spoil<br>episode<br>differ<br>benefit
-bip_39_word_new_br9: mosquito<br>crunch<br>monster<br>detect<br>spoil<br>episode<br>differ<br>benefit<br>chase
-bip_39_word_new_line1: mosquito
-bip_39_word_new_line10: 'mosquito
+bip_39_word_new_br_1: mosquito
+bip_39_word_new_br_10: mosquito<br>crunch<br>monster<br>detect<br>spoil<br>episode<br>differ<br>benefit<br>chase<br>move
+bip_39_word_new_br_11: mosquito<br>crunch<br>monster<br>detect<br>spoil<br>episode<br>differ<br>benefit<br>chase<br>move<br>beyond
+bip_39_word_new_br_12: mosquito<br>crunch<br>monster<br>detect<br>spoil<br>episode<br>differ<br>benefit<br>chase<br>move<br>beyond<br>asthma
+bip_39_word_new_br_2: mosquito<br>crunch
+bip_39_word_new_br_3: mosquito<br>crunch<br>monster
+bip_39_word_new_br_4: mosquito<br>crunch<br>monster<br>detect
+bip_39_word_new_br_5: mosquito<br>crunch<br>monster<br>detect<br>spoil
+bip_39_word_new_br_6: mosquito<br>crunch<br>monster<br>detect<br>spoil<br>episode
+bip_39_word_new_br_7: mosquito<br>crunch<br>monster<br>detect<br>spoil<br>episode<br>differ
+bip_39_word_new_br_8: mosquito<br>crunch<br>monster<br>detect<br>spoil<br>episode<br>differ<br>benefit
+bip_39_word_new_br_9: mosquito<br>crunch<br>monster<br>detect<br>spoil<br>episode<br>differ<br>benefit<br>chase
+bip_39_word_new_line_1: mosquito
+bip_39_word_new_line_10: 'mosquito
 
   crunch
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'mosquito
   chase
 
   move'
-bip_39_word_new_line11: 'mosquito
+bip_39_word_new_line_11: 'mosquito
 
   crunch
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'mosquito
   move
 
   beyond'
-bip_39_word_new_line12: 'mosquito
+bip_39_word_new_line_12: 'mosquito
 
   crunch
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'mosquito
   beyond
 
   asthma'
-bip_39_word_new_line2: 'mosquito
+bip_39_word_new_line_2: 'mosquito
 
   crunch'
-bip_39_word_new_line3: 'mosquito
+bip_39_word_new_line_3: 'mosquito
 
   crunch
 
   monster'
-bip_39_word_new_line4: 'mosquito
+bip_39_word_new_line_4: 'mosquito
 
   crunch
 
   monster
 
   detect'
-bip_39_word_new_line5: 'mosquito
+bip_39_word_new_line_5: 'mosquito
 
   crunch
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'mosquito
   detect
 
   spoil'
-bip_39_word_new_line6: 'mosquito
+bip_39_word_new_line_6: 'mosquito
 
   crunch
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'mosquito
   spoil
 
   episode'
-bip_39_word_new_line7: 'mosquito
+bip_39_word_new_line_7: 'mosquito
 
   crunch
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'mosquito
   episode
 
   differ'
-bip_39_word_new_line8: 'mosquito
+bip_39_word_new_line_8: 'mosquito
 
   crunch
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'mosquito
   differ
 
   benefit'
-bip_39_word_new_line9: 'mosquito
+bip_39_word_new_line_9: 'mosquito
 
   crunch
 

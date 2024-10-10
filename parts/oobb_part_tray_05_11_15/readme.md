@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | error |  
-| bip_39_word_new_br10 | error<br>digital<br>poet<br>order<br>false<br>thunder<br>prosper<br>topple<br>lunar<br>curtain |  
-| bip_39_word_new_br11 | error<br>digital<br>poet<br>order<br>false<br>thunder<br>prosper<br>topple<br>lunar<br>curtain<br>favorite |  
-| bip_39_word_new_br12 | error<br>digital<br>poet<br>order<br>false<br>thunder<br>prosper<br>topple<br>lunar<br>curtain<br>favorite<br>around |  
-| bip_39_word_new_br2 | error<br>digital |  
-| bip_39_word_new_br3 | error<br>digital<br>poet |  
-| bip_39_word_new_br4 | error<br>digital<br>poet<br>order |  
-| bip_39_word_new_br5 | error<br>digital<br>poet<br>order<br>false |  
-| bip_39_word_new_br6 | error<br>digital<br>poet<br>order<br>false<br>thunder |  
-| bip_39_word_new_br7 | error<br>digital<br>poet<br>order<br>false<br>thunder<br>prosper |  
-| bip_39_word_new_br8 | error<br>digital<br>poet<br>order<br>false<br>thunder<br>prosper<br>topple |  
-| bip_39_word_new_br9 | error<br>digital<br>poet<br>order<br>false<br>thunder<br>prosper<br>topple<br>lunar |  
-| bip_39_word_new_line1 | error |  
-| bip_39_word_new_line10 | error
+| bip_39_word_new_br_1 | error |  
+| bip_39_word_new_br_10 | error<br>digital<br>poet<br>order<br>false<br>thunder<br>prosper<br>topple<br>lunar<br>curtain |  
+| bip_39_word_new_br_11 | error<br>digital<br>poet<br>order<br>false<br>thunder<br>prosper<br>topple<br>lunar<br>curtain<br>favorite |  
+| bip_39_word_new_br_12 | error<br>digital<br>poet<br>order<br>false<br>thunder<br>prosper<br>topple<br>lunar<br>curtain<br>favorite<br>around |  
+| bip_39_word_new_br_2 | error<br>digital |  
+| bip_39_word_new_br_3 | error<br>digital<br>poet |  
+| bip_39_word_new_br_4 | error<br>digital<br>poet<br>order |  
+| bip_39_word_new_br_5 | error<br>digital<br>poet<br>order<br>false |  
+| bip_39_word_new_br_6 | error<br>digital<br>poet<br>order<br>false<br>thunder |  
+| bip_39_word_new_br_7 | error<br>digital<br>poet<br>order<br>false<br>thunder<br>prosper |  
+| bip_39_word_new_br_8 | error<br>digital<br>poet<br>order<br>false<br>thunder<br>prosper<br>topple |  
+| bip_39_word_new_br_9 | error<br>digital<br>poet<br>order<br>false<br>thunder<br>prosper<br>topple<br>lunar |  
+| bip_39_word_new_line_1 | error |  
+| bip_39_word_new_line_10 | error
 digital
 poet
 order
@@ -55,7 +55,7 @@ prosper
 topple
 lunar
 curtain |  
-| bip_39_word_new_line11 | error
+| bip_39_word_new_line_11 | error
 digital
 poet
 order
@@ -66,7 +66,7 @@ topple
 lunar
 curtain
 favorite |  
-| bip_39_word_new_line12 | error
+| bip_39_word_new_line_12 | error
 digital
 poet
 order
@@ -78,34 +78,34 @@ lunar
 curtain
 favorite
 around |  
-| bip_39_word_new_line2 | error
+| bip_39_word_new_line_2 | error
 digital |  
-| bip_39_word_new_line3 | error
+| bip_39_word_new_line_3 | error
 digital
 poet |  
-| bip_39_word_new_line4 | error
+| bip_39_word_new_line_4 | error
 digital
 poet
 order |  
-| bip_39_word_new_line5 | error
+| bip_39_word_new_line_5 | error
 digital
 poet
 order
 false |  
-| bip_39_word_new_line6 | error
+| bip_39_word_new_line_6 | error
 digital
 poet
 order
 false
 thunder |  
-| bip_39_word_new_line7 | error
+| bip_39_word_new_line_7 | error
 digital
 poet
 order
 false
 thunder
 prosper |  
-| bip_39_word_new_line8 | error
+| bip_39_word_new_line_8 | error
 digital
 poet
 order
@@ -113,7 +113,7 @@ false
 thunder
 prosper
 topple |  
-| bip_39_word_new_line9 | error
+| bip_39_word_new_line_9 | error
 digital
 poet
 order

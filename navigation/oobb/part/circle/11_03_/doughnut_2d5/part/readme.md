@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | become |  
-| bip_39_word_new_br10 | become<br>lizard<br>chase<br>admit<br>shine<br>tribe<br>shadow<br>tribe<br>zoo<br>scale |  
-| bip_39_word_new_br11 | become<br>lizard<br>chase<br>admit<br>shine<br>tribe<br>shadow<br>tribe<br>zoo<br>scale<br>biology |  
-| bip_39_word_new_br12 | become<br>lizard<br>chase<br>admit<br>shine<br>tribe<br>shadow<br>tribe<br>zoo<br>scale<br>biology<br>art |  
-| bip_39_word_new_br2 | become<br>lizard |  
-| bip_39_word_new_br3 | become<br>lizard<br>chase |  
-| bip_39_word_new_br4 | become<br>lizard<br>chase<br>admit |  
-| bip_39_word_new_br5 | become<br>lizard<br>chase<br>admit<br>shine |  
-| bip_39_word_new_br6 | become<br>lizard<br>chase<br>admit<br>shine<br>tribe |  
-| bip_39_word_new_br7 | become<br>lizard<br>chase<br>admit<br>shine<br>tribe<br>shadow |  
-| bip_39_word_new_br8 | become<br>lizard<br>chase<br>admit<br>shine<br>tribe<br>shadow<br>tribe |  
-| bip_39_word_new_br9 | become<br>lizard<br>chase<br>admit<br>shine<br>tribe<br>shadow<br>tribe<br>zoo |  
-| bip_39_word_new_line1 | become |  
-| bip_39_word_new_line10 | become
+| bip_39_word_new_br_1 | become |  
+| bip_39_word_new_br_10 | become<br>lizard<br>chase<br>admit<br>shine<br>tribe<br>shadow<br>tribe<br>zoo<br>scale |  
+| bip_39_word_new_br_11 | become<br>lizard<br>chase<br>admit<br>shine<br>tribe<br>shadow<br>tribe<br>zoo<br>scale<br>biology |  
+| bip_39_word_new_br_12 | become<br>lizard<br>chase<br>admit<br>shine<br>tribe<br>shadow<br>tribe<br>zoo<br>scale<br>biology<br>art |  
+| bip_39_word_new_br_2 | become<br>lizard |  
+| bip_39_word_new_br_3 | become<br>lizard<br>chase |  
+| bip_39_word_new_br_4 | become<br>lizard<br>chase<br>admit |  
+| bip_39_word_new_br_5 | become<br>lizard<br>chase<br>admit<br>shine |  
+| bip_39_word_new_br_6 | become<br>lizard<br>chase<br>admit<br>shine<br>tribe |  
+| bip_39_word_new_br_7 | become<br>lizard<br>chase<br>admit<br>shine<br>tribe<br>shadow |  
+| bip_39_word_new_br_8 | become<br>lizard<br>chase<br>admit<br>shine<br>tribe<br>shadow<br>tribe |  
+| bip_39_word_new_br_9 | become<br>lizard<br>chase<br>admit<br>shine<br>tribe<br>shadow<br>tribe<br>zoo |  
+| bip_39_word_new_line_1 | become |  
+| bip_39_word_new_line_10 | become
 lizard
 chase
 admit
@@ -55,7 +55,7 @@ shadow
 tribe
 zoo
 scale |  
-| bip_39_word_new_line11 | become
+| bip_39_word_new_line_11 | become
 lizard
 chase
 admit
@@ -66,7 +66,7 @@ tribe
 zoo
 scale
 biology |  
-| bip_39_word_new_line12 | become
+| bip_39_word_new_line_12 | become
 lizard
 chase
 admit
@@ -78,34 +78,34 @@ zoo
 scale
 biology
 art |  
-| bip_39_word_new_line2 | become
+| bip_39_word_new_line_2 | become
 lizard |  
-| bip_39_word_new_line3 | become
+| bip_39_word_new_line_3 | become
 lizard
 chase |  
-| bip_39_word_new_line4 | become
+| bip_39_word_new_line_4 | become
 lizard
 chase
 admit |  
-| bip_39_word_new_line5 | become
+| bip_39_word_new_line_5 | become
 lizard
 chase
 admit
 shine |  
-| bip_39_word_new_line6 | become
+| bip_39_word_new_line_6 | become
 lizard
 chase
 admit
 shine
 tribe |  
-| bip_39_word_new_line7 | become
+| bip_39_word_new_line_7 | become
 lizard
 chase
 admit
 shine
 tribe
 shadow |  
-| bip_39_word_new_line8 | become
+| bip_39_word_new_line_8 | become
 lizard
 chase
 admit
@@ -113,7 +113,7 @@ shine
 tribe
 shadow
 tribe |  
-| bip_39_word_new_line9 | become
+| bip_39_word_new_line_9 | become
 lizard
 chase
 admit

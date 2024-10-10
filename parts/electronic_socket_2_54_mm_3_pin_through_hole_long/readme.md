@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | whip |  
-| bip_39_word_new_br10 | whip<br>glare<br>exercise<br>section<br>gravity<br>affair<br>start<br>angry<br>outdoor<br>fury |  
-| bip_39_word_new_br11 | whip<br>glare<br>exercise<br>section<br>gravity<br>affair<br>start<br>angry<br>outdoor<br>fury<br>toe |  
-| bip_39_word_new_br12 | whip<br>glare<br>exercise<br>section<br>gravity<br>affair<br>start<br>angry<br>outdoor<br>fury<br>toe<br>also |  
-| bip_39_word_new_br2 | whip<br>glare |  
-| bip_39_word_new_br3 | whip<br>glare<br>exercise |  
-| bip_39_word_new_br4 | whip<br>glare<br>exercise<br>section |  
-| bip_39_word_new_br5 | whip<br>glare<br>exercise<br>section<br>gravity |  
-| bip_39_word_new_br6 | whip<br>glare<br>exercise<br>section<br>gravity<br>affair |  
-| bip_39_word_new_br7 | whip<br>glare<br>exercise<br>section<br>gravity<br>affair<br>start |  
-| bip_39_word_new_br8 | whip<br>glare<br>exercise<br>section<br>gravity<br>affair<br>start<br>angry |  
-| bip_39_word_new_br9 | whip<br>glare<br>exercise<br>section<br>gravity<br>affair<br>start<br>angry<br>outdoor |  
-| bip_39_word_new_line1 | whip |  
-| bip_39_word_new_line10 | whip
+| bip_39_word_new_br_1 | whip |  
+| bip_39_word_new_br_10 | whip<br>glare<br>exercise<br>section<br>gravity<br>affair<br>start<br>angry<br>outdoor<br>fury |  
+| bip_39_word_new_br_11 | whip<br>glare<br>exercise<br>section<br>gravity<br>affair<br>start<br>angry<br>outdoor<br>fury<br>toe |  
+| bip_39_word_new_br_12 | whip<br>glare<br>exercise<br>section<br>gravity<br>affair<br>start<br>angry<br>outdoor<br>fury<br>toe<br>also |  
+| bip_39_word_new_br_2 | whip<br>glare |  
+| bip_39_word_new_br_3 | whip<br>glare<br>exercise |  
+| bip_39_word_new_br_4 | whip<br>glare<br>exercise<br>section |  
+| bip_39_word_new_br_5 | whip<br>glare<br>exercise<br>section<br>gravity |  
+| bip_39_word_new_br_6 | whip<br>glare<br>exercise<br>section<br>gravity<br>affair |  
+| bip_39_word_new_br_7 | whip<br>glare<br>exercise<br>section<br>gravity<br>affair<br>start |  
+| bip_39_word_new_br_8 | whip<br>glare<br>exercise<br>section<br>gravity<br>affair<br>start<br>angry |  
+| bip_39_word_new_br_9 | whip<br>glare<br>exercise<br>section<br>gravity<br>affair<br>start<br>angry<br>outdoor |  
+| bip_39_word_new_line_1 | whip |  
+| bip_39_word_new_line_10 | whip
 glare
 exercise
 section
@@ -55,7 +55,7 @@ start
 angry
 outdoor
 fury |  
-| bip_39_word_new_line11 | whip
+| bip_39_word_new_line_11 | whip
 glare
 exercise
 section
@@ -66,7 +66,7 @@ angry
 outdoor
 fury
 toe |  
-| bip_39_word_new_line12 | whip
+| bip_39_word_new_line_12 | whip
 glare
 exercise
 section
@@ -78,34 +78,34 @@ outdoor
 fury
 toe
 also |  
-| bip_39_word_new_line2 | whip
+| bip_39_word_new_line_2 | whip
 glare |  
-| bip_39_word_new_line3 | whip
+| bip_39_word_new_line_3 | whip
 glare
 exercise |  
-| bip_39_word_new_line4 | whip
+| bip_39_word_new_line_4 | whip
 glare
 exercise
 section |  
-| bip_39_word_new_line5 | whip
+| bip_39_word_new_line_5 | whip
 glare
 exercise
 section
 gravity |  
-| bip_39_word_new_line6 | whip
+| bip_39_word_new_line_6 | whip
 glare
 exercise
 section
 gravity
 affair |  
-| bip_39_word_new_line7 | whip
+| bip_39_word_new_line_7 | whip
 glare
 exercise
 section
 gravity
 affair
 start |  
-| bip_39_word_new_line8 | whip
+| bip_39_word_new_line_8 | whip
 glare
 exercise
 section
@@ -113,7 +113,7 @@ gravity
 affair
 start
 angry |  
-| bip_39_word_new_line9 | whip
+| bip_39_word_new_line_9 | whip
 glare
 exercise
 section

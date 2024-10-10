@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | obscure |  
-| bip_39_word_new_br10 | obscure<br>virus<br>car<br>wonder<br>decline<br>ticket<br>obscure<br>alley<br>various<br>swap |  
-| bip_39_word_new_br11 | obscure<br>virus<br>car<br>wonder<br>decline<br>ticket<br>obscure<br>alley<br>various<br>swap<br>teach |  
-| bip_39_word_new_br12 | obscure<br>virus<br>car<br>wonder<br>decline<br>ticket<br>obscure<br>alley<br>various<br>swap<br>teach<br>alien |  
-| bip_39_word_new_br2 | obscure<br>virus |  
-| bip_39_word_new_br3 | obscure<br>virus<br>car |  
-| bip_39_word_new_br4 | obscure<br>virus<br>car<br>wonder |  
-| bip_39_word_new_br5 | obscure<br>virus<br>car<br>wonder<br>decline |  
-| bip_39_word_new_br6 | obscure<br>virus<br>car<br>wonder<br>decline<br>ticket |  
-| bip_39_word_new_br7 | obscure<br>virus<br>car<br>wonder<br>decline<br>ticket<br>obscure |  
-| bip_39_word_new_br8 | obscure<br>virus<br>car<br>wonder<br>decline<br>ticket<br>obscure<br>alley |  
-| bip_39_word_new_br9 | obscure<br>virus<br>car<br>wonder<br>decline<br>ticket<br>obscure<br>alley<br>various |  
-| bip_39_word_new_line1 | obscure |  
-| bip_39_word_new_line10 | obscure
+| bip_39_word_new_br_1 | obscure |  
+| bip_39_word_new_br_10 | obscure<br>virus<br>car<br>wonder<br>decline<br>ticket<br>obscure<br>alley<br>various<br>swap |  
+| bip_39_word_new_br_11 | obscure<br>virus<br>car<br>wonder<br>decline<br>ticket<br>obscure<br>alley<br>various<br>swap<br>teach |  
+| bip_39_word_new_br_12 | obscure<br>virus<br>car<br>wonder<br>decline<br>ticket<br>obscure<br>alley<br>various<br>swap<br>teach<br>alien |  
+| bip_39_word_new_br_2 | obscure<br>virus |  
+| bip_39_word_new_br_3 | obscure<br>virus<br>car |  
+| bip_39_word_new_br_4 | obscure<br>virus<br>car<br>wonder |  
+| bip_39_word_new_br_5 | obscure<br>virus<br>car<br>wonder<br>decline |  
+| bip_39_word_new_br_6 | obscure<br>virus<br>car<br>wonder<br>decline<br>ticket |  
+| bip_39_word_new_br_7 | obscure<br>virus<br>car<br>wonder<br>decline<br>ticket<br>obscure |  
+| bip_39_word_new_br_8 | obscure<br>virus<br>car<br>wonder<br>decline<br>ticket<br>obscure<br>alley |  
+| bip_39_word_new_br_9 | obscure<br>virus<br>car<br>wonder<br>decline<br>ticket<br>obscure<br>alley<br>various |  
+| bip_39_word_new_line_1 | obscure |  
+| bip_39_word_new_line_10 | obscure
 virus
 car
 wonder
@@ -55,7 +55,7 @@ obscure
 alley
 various
 swap |  
-| bip_39_word_new_line11 | obscure
+| bip_39_word_new_line_11 | obscure
 virus
 car
 wonder
@@ -66,7 +66,7 @@ alley
 various
 swap
 teach |  
-| bip_39_word_new_line12 | obscure
+| bip_39_word_new_line_12 | obscure
 virus
 car
 wonder
@@ -78,34 +78,34 @@ various
 swap
 teach
 alien |  
-| bip_39_word_new_line2 | obscure
+| bip_39_word_new_line_2 | obscure
 virus |  
-| bip_39_word_new_line3 | obscure
+| bip_39_word_new_line_3 | obscure
 virus
 car |  
-| bip_39_word_new_line4 | obscure
+| bip_39_word_new_line_4 | obscure
 virus
 car
 wonder |  
-| bip_39_word_new_line5 | obscure
+| bip_39_word_new_line_5 | obscure
 virus
 car
 wonder
 decline |  
-| bip_39_word_new_line6 | obscure
+| bip_39_word_new_line_6 | obscure
 virus
 car
 wonder
 decline
 ticket |  
-| bip_39_word_new_line7 | obscure
+| bip_39_word_new_line_7 | obscure
 virus
 car
 wonder
 decline
 ticket
 obscure |  
-| bip_39_word_new_line8 | obscure
+| bip_39_word_new_line_8 | obscure
 virus
 car
 wonder
@@ -113,7 +113,7 @@ decline
 ticket
 obscure
 alley |  
-| bip_39_word_new_line9 | obscure
+| bip_39_word_new_line_9 | obscure
 virus
 car
 wonder

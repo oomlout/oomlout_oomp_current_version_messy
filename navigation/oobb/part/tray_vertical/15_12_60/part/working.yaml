@@ -1,17 +1,17 @@
-bip_39_word_new_br1: tower
-bip_39_word_new_br10: tower<br>betray<br>fine<br>style<br>slogan<br>country<br>clean<br>long<br>clinic<br>wheat
-bip_39_word_new_br11: tower<br>betray<br>fine<br>style<br>slogan<br>country<br>clean<br>long<br>clinic<br>wheat<br>shrimp
-bip_39_word_new_br12: tower<br>betray<br>fine<br>style<br>slogan<br>country<br>clean<br>long<br>clinic<br>wheat<br>shrimp<br>annual
-bip_39_word_new_br2: tower<br>betray
-bip_39_word_new_br3: tower<br>betray<br>fine
-bip_39_word_new_br4: tower<br>betray<br>fine<br>style
-bip_39_word_new_br5: tower<br>betray<br>fine<br>style<br>slogan
-bip_39_word_new_br6: tower<br>betray<br>fine<br>style<br>slogan<br>country
-bip_39_word_new_br7: tower<br>betray<br>fine<br>style<br>slogan<br>country<br>clean
-bip_39_word_new_br8: tower<br>betray<br>fine<br>style<br>slogan<br>country<br>clean<br>long
-bip_39_word_new_br9: tower<br>betray<br>fine<br>style<br>slogan<br>country<br>clean<br>long<br>clinic
-bip_39_word_new_line1: tower
-bip_39_word_new_line10: 'tower
+bip_39_word_new_br_1: tower
+bip_39_word_new_br_10: tower<br>betray<br>fine<br>style<br>slogan<br>country<br>clean<br>long<br>clinic<br>wheat
+bip_39_word_new_br_11: tower<br>betray<br>fine<br>style<br>slogan<br>country<br>clean<br>long<br>clinic<br>wheat<br>shrimp
+bip_39_word_new_br_12: tower<br>betray<br>fine<br>style<br>slogan<br>country<br>clean<br>long<br>clinic<br>wheat<br>shrimp<br>annual
+bip_39_word_new_br_2: tower<br>betray
+bip_39_word_new_br_3: tower<br>betray<br>fine
+bip_39_word_new_br_4: tower<br>betray<br>fine<br>style
+bip_39_word_new_br_5: tower<br>betray<br>fine<br>style<br>slogan
+bip_39_word_new_br_6: tower<br>betray<br>fine<br>style<br>slogan<br>country
+bip_39_word_new_br_7: tower<br>betray<br>fine<br>style<br>slogan<br>country<br>clean
+bip_39_word_new_br_8: tower<br>betray<br>fine<br>style<br>slogan<br>country<br>clean<br>long
+bip_39_word_new_br_9: tower<br>betray<br>fine<br>style<br>slogan<br>country<br>clean<br>long<br>clinic
+bip_39_word_new_line_1: tower
+bip_39_word_new_line_10: 'tower
 
   betray
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'tower
   clinic
 
   wheat'
-bip_39_word_new_line11: 'tower
+bip_39_word_new_line_11: 'tower
 
   betray
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'tower
   wheat
 
   shrimp'
-bip_39_word_new_line12: 'tower
+bip_39_word_new_line_12: 'tower
 
   betray
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'tower
   shrimp
 
   annual'
-bip_39_word_new_line2: 'tower
+bip_39_word_new_line_2: 'tower
 
   betray'
-bip_39_word_new_line3: 'tower
+bip_39_word_new_line_3: 'tower
 
   betray
 
   fine'
-bip_39_word_new_line4: 'tower
+bip_39_word_new_line_4: 'tower
 
   betray
 
   fine
 
   style'
-bip_39_word_new_line5: 'tower
+bip_39_word_new_line_5: 'tower
 
   betray
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'tower
   style
 
   slogan'
-bip_39_word_new_line6: 'tower
+bip_39_word_new_line_6: 'tower
 
   betray
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'tower
   slogan
 
   country'
-bip_39_word_new_line7: 'tower
+bip_39_word_new_line_7: 'tower
 
   betray
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'tower
   country
 
   clean'
-bip_39_word_new_line8: 'tower
+bip_39_word_new_line_8: 'tower
 
   betray
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'tower
   clean
 
   long'
-bip_39_word_new_line9: 'tower
+bip_39_word_new_line_9: 'tower
 
   betray
 

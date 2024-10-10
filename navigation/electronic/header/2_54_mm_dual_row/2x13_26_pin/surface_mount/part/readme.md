@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | panther |  
-| bip_39_word_new_br10 | panther<br>around<br>oval<br>affair<br>sock<br>salad<br>pride<br>begin<br>lounge<br>lunch |  
-| bip_39_word_new_br11 | panther<br>around<br>oval<br>affair<br>sock<br>salad<br>pride<br>begin<br>lounge<br>lunch<br>present |  
-| bip_39_word_new_br12 | panther<br>around<br>oval<br>affair<br>sock<br>salad<br>pride<br>begin<br>lounge<br>lunch<br>present<br>adapt |  
-| bip_39_word_new_br2 | panther<br>around |  
-| bip_39_word_new_br3 | panther<br>around<br>oval |  
-| bip_39_word_new_br4 | panther<br>around<br>oval<br>affair |  
-| bip_39_word_new_br5 | panther<br>around<br>oval<br>affair<br>sock |  
-| bip_39_word_new_br6 | panther<br>around<br>oval<br>affair<br>sock<br>salad |  
-| bip_39_word_new_br7 | panther<br>around<br>oval<br>affair<br>sock<br>salad<br>pride |  
-| bip_39_word_new_br8 | panther<br>around<br>oval<br>affair<br>sock<br>salad<br>pride<br>begin |  
-| bip_39_word_new_br9 | panther<br>around<br>oval<br>affair<br>sock<br>salad<br>pride<br>begin<br>lounge |  
-| bip_39_word_new_line1 | panther |  
-| bip_39_word_new_line10 | panther
+| bip_39_word_new_br_1 | panther |  
+| bip_39_word_new_br_10 | panther<br>around<br>oval<br>affair<br>sock<br>salad<br>pride<br>begin<br>lounge<br>lunch |  
+| bip_39_word_new_br_11 | panther<br>around<br>oval<br>affair<br>sock<br>salad<br>pride<br>begin<br>lounge<br>lunch<br>present |  
+| bip_39_word_new_br_12 | panther<br>around<br>oval<br>affair<br>sock<br>salad<br>pride<br>begin<br>lounge<br>lunch<br>present<br>adapt |  
+| bip_39_word_new_br_2 | panther<br>around |  
+| bip_39_word_new_br_3 | panther<br>around<br>oval |  
+| bip_39_word_new_br_4 | panther<br>around<br>oval<br>affair |  
+| bip_39_word_new_br_5 | panther<br>around<br>oval<br>affair<br>sock |  
+| bip_39_word_new_br_6 | panther<br>around<br>oval<br>affair<br>sock<br>salad |  
+| bip_39_word_new_br_7 | panther<br>around<br>oval<br>affair<br>sock<br>salad<br>pride |  
+| bip_39_word_new_br_8 | panther<br>around<br>oval<br>affair<br>sock<br>salad<br>pride<br>begin |  
+| bip_39_word_new_br_9 | panther<br>around<br>oval<br>affair<br>sock<br>salad<br>pride<br>begin<br>lounge |  
+| bip_39_word_new_line_1 | panther |  
+| bip_39_word_new_line_10 | panther
 around
 oval
 affair
@@ -55,7 +55,7 @@ pride
 begin
 lounge
 lunch |  
-| bip_39_word_new_line11 | panther
+| bip_39_word_new_line_11 | panther
 around
 oval
 affair
@@ -66,7 +66,7 @@ begin
 lounge
 lunch
 present |  
-| bip_39_word_new_line12 | panther
+| bip_39_word_new_line_12 | panther
 around
 oval
 affair
@@ -78,34 +78,34 @@ lounge
 lunch
 present
 adapt |  
-| bip_39_word_new_line2 | panther
+| bip_39_word_new_line_2 | panther
 around |  
-| bip_39_word_new_line3 | panther
+| bip_39_word_new_line_3 | panther
 around
 oval |  
-| bip_39_word_new_line4 | panther
+| bip_39_word_new_line_4 | panther
 around
 oval
 affair |  
-| bip_39_word_new_line5 | panther
+| bip_39_word_new_line_5 | panther
 around
 oval
 affair
 sock |  
-| bip_39_word_new_line6 | panther
+| bip_39_word_new_line_6 | panther
 around
 oval
 affair
 sock
 salad |  
-| bip_39_word_new_line7 | panther
+| bip_39_word_new_line_7 | panther
 around
 oval
 affair
 sock
 salad
 pride |  
-| bip_39_word_new_line8 | panther
+| bip_39_word_new_line_8 | panther
 around
 oval
 affair
@@ -113,7 +113,7 @@ sock
 salad
 pride
 begin |  
-| bip_39_word_new_line9 | panther
+| bip_39_word_new_line_9 | panther
 around
 oval
 affair

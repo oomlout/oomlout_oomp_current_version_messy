@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | put |  
-| bip_39_word_new_br10 | put<br>item<br>away<br>depart<br>install<br>cable<br>alcohol<br>blind<br>lazy<br>hip |  
-| bip_39_word_new_br11 | put<br>item<br>away<br>depart<br>install<br>cable<br>alcohol<br>blind<br>lazy<br>hip<br>alter |  
-| bip_39_word_new_br12 | put<br>item<br>away<br>depart<br>install<br>cable<br>alcohol<br>blind<br>lazy<br>hip<br>alter<br>arch |  
-| bip_39_word_new_br2 | put<br>item |  
-| bip_39_word_new_br3 | put<br>item<br>away |  
-| bip_39_word_new_br4 | put<br>item<br>away<br>depart |  
-| bip_39_word_new_br5 | put<br>item<br>away<br>depart<br>install |  
-| bip_39_word_new_br6 | put<br>item<br>away<br>depart<br>install<br>cable |  
-| bip_39_word_new_br7 | put<br>item<br>away<br>depart<br>install<br>cable<br>alcohol |  
-| bip_39_word_new_br8 | put<br>item<br>away<br>depart<br>install<br>cable<br>alcohol<br>blind |  
-| bip_39_word_new_br9 | put<br>item<br>away<br>depart<br>install<br>cable<br>alcohol<br>blind<br>lazy |  
-| bip_39_word_new_line1 | put |  
-| bip_39_word_new_line10 | put
+| bip_39_word_new_br_1 | put |  
+| bip_39_word_new_br_10 | put<br>item<br>away<br>depart<br>install<br>cable<br>alcohol<br>blind<br>lazy<br>hip |  
+| bip_39_word_new_br_11 | put<br>item<br>away<br>depart<br>install<br>cable<br>alcohol<br>blind<br>lazy<br>hip<br>alter |  
+| bip_39_word_new_br_12 | put<br>item<br>away<br>depart<br>install<br>cable<br>alcohol<br>blind<br>lazy<br>hip<br>alter<br>arch |  
+| bip_39_word_new_br_2 | put<br>item |  
+| bip_39_word_new_br_3 | put<br>item<br>away |  
+| bip_39_word_new_br_4 | put<br>item<br>away<br>depart |  
+| bip_39_word_new_br_5 | put<br>item<br>away<br>depart<br>install |  
+| bip_39_word_new_br_6 | put<br>item<br>away<br>depart<br>install<br>cable |  
+| bip_39_word_new_br_7 | put<br>item<br>away<br>depart<br>install<br>cable<br>alcohol |  
+| bip_39_word_new_br_8 | put<br>item<br>away<br>depart<br>install<br>cable<br>alcohol<br>blind |  
+| bip_39_word_new_br_9 | put<br>item<br>away<br>depart<br>install<br>cable<br>alcohol<br>blind<br>lazy |  
+| bip_39_word_new_line_1 | put |  
+| bip_39_word_new_line_10 | put
 item
 away
 depart
@@ -55,7 +55,7 @@ alcohol
 blind
 lazy
 hip |  
-| bip_39_word_new_line11 | put
+| bip_39_word_new_line_11 | put
 item
 away
 depart
@@ -66,7 +66,7 @@ blind
 lazy
 hip
 alter |  
-| bip_39_word_new_line12 | put
+| bip_39_word_new_line_12 | put
 item
 away
 depart
@@ -78,34 +78,34 @@ lazy
 hip
 alter
 arch |  
-| bip_39_word_new_line2 | put
+| bip_39_word_new_line_2 | put
 item |  
-| bip_39_word_new_line3 | put
+| bip_39_word_new_line_3 | put
 item
 away |  
-| bip_39_word_new_line4 | put
+| bip_39_word_new_line_4 | put
 item
 away
 depart |  
-| bip_39_word_new_line5 | put
+| bip_39_word_new_line_5 | put
 item
 away
 depart
 install |  
-| bip_39_word_new_line6 | put
+| bip_39_word_new_line_6 | put
 item
 away
 depart
 install
 cable |  
-| bip_39_word_new_line7 | put
+| bip_39_word_new_line_7 | put
 item
 away
 depart
 install
 cable
 alcohol |  
-| bip_39_word_new_line8 | put
+| bip_39_word_new_line_8 | put
 item
 away
 depart
@@ -113,7 +113,7 @@ install
 cable
 alcohol
 blind |  
-| bip_39_word_new_line9 | put
+| bip_39_word_new_line_9 | put
 item
 away
 depart

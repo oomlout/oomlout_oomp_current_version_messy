@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ridge |  
-| bip_39_word_new_br10 | ridge<br>bid<br>female<br>cloth<br>among<br>tool<br>remain<br>salt<br>pepper<br>grief |  
-| bip_39_word_new_br11 | ridge<br>bid<br>female<br>cloth<br>among<br>tool<br>remain<br>salt<br>pepper<br>grief<br>trade |  
-| bip_39_word_new_br12 | ridge<br>bid<br>female<br>cloth<br>among<br>tool<br>remain<br>salt<br>pepper<br>grief<br>trade<br>arm |  
-| bip_39_word_new_br2 | ridge<br>bid |  
-| bip_39_word_new_br3 | ridge<br>bid<br>female |  
-| bip_39_word_new_br4 | ridge<br>bid<br>female<br>cloth |  
-| bip_39_word_new_br5 | ridge<br>bid<br>female<br>cloth<br>among |  
-| bip_39_word_new_br6 | ridge<br>bid<br>female<br>cloth<br>among<br>tool |  
-| bip_39_word_new_br7 | ridge<br>bid<br>female<br>cloth<br>among<br>tool<br>remain |  
-| bip_39_word_new_br8 | ridge<br>bid<br>female<br>cloth<br>among<br>tool<br>remain<br>salt |  
-| bip_39_word_new_br9 | ridge<br>bid<br>female<br>cloth<br>among<br>tool<br>remain<br>salt<br>pepper |  
-| bip_39_word_new_line1 | ridge |  
-| bip_39_word_new_line10 | ridge
+| bip_39_word_new_br_1 | ridge |  
+| bip_39_word_new_br_10 | ridge<br>bid<br>female<br>cloth<br>among<br>tool<br>remain<br>salt<br>pepper<br>grief |  
+| bip_39_word_new_br_11 | ridge<br>bid<br>female<br>cloth<br>among<br>tool<br>remain<br>salt<br>pepper<br>grief<br>trade |  
+| bip_39_word_new_br_12 | ridge<br>bid<br>female<br>cloth<br>among<br>tool<br>remain<br>salt<br>pepper<br>grief<br>trade<br>arm |  
+| bip_39_word_new_br_2 | ridge<br>bid |  
+| bip_39_word_new_br_3 | ridge<br>bid<br>female |  
+| bip_39_word_new_br_4 | ridge<br>bid<br>female<br>cloth |  
+| bip_39_word_new_br_5 | ridge<br>bid<br>female<br>cloth<br>among |  
+| bip_39_word_new_br_6 | ridge<br>bid<br>female<br>cloth<br>among<br>tool |  
+| bip_39_word_new_br_7 | ridge<br>bid<br>female<br>cloth<br>among<br>tool<br>remain |  
+| bip_39_word_new_br_8 | ridge<br>bid<br>female<br>cloth<br>among<br>tool<br>remain<br>salt |  
+| bip_39_word_new_br_9 | ridge<br>bid<br>female<br>cloth<br>among<br>tool<br>remain<br>salt<br>pepper |  
+| bip_39_word_new_line_1 | ridge |  
+| bip_39_word_new_line_10 | ridge
 bid
 female
 cloth
@@ -55,7 +55,7 @@ remain
 salt
 pepper
 grief |  
-| bip_39_word_new_line11 | ridge
+| bip_39_word_new_line_11 | ridge
 bid
 female
 cloth
@@ -66,7 +66,7 @@ salt
 pepper
 grief
 trade |  
-| bip_39_word_new_line12 | ridge
+| bip_39_word_new_line_12 | ridge
 bid
 female
 cloth
@@ -78,34 +78,34 @@ pepper
 grief
 trade
 arm |  
-| bip_39_word_new_line2 | ridge
+| bip_39_word_new_line_2 | ridge
 bid |  
-| bip_39_word_new_line3 | ridge
+| bip_39_word_new_line_3 | ridge
 bid
 female |  
-| bip_39_word_new_line4 | ridge
+| bip_39_word_new_line_4 | ridge
 bid
 female
 cloth |  
-| bip_39_word_new_line5 | ridge
+| bip_39_word_new_line_5 | ridge
 bid
 female
 cloth
 among |  
-| bip_39_word_new_line6 | ridge
+| bip_39_word_new_line_6 | ridge
 bid
 female
 cloth
 among
 tool |  
-| bip_39_word_new_line7 | ridge
+| bip_39_word_new_line_7 | ridge
 bid
 female
 cloth
 among
 tool
 remain |  
-| bip_39_word_new_line8 | ridge
+| bip_39_word_new_line_8 | ridge
 bid
 female
 cloth
@@ -113,7 +113,7 @@ among
 tool
 remain
 salt |  
-| bip_39_word_new_line9 | ridge
+| bip_39_word_new_line_9 | ridge
 bid
 female
 cloth

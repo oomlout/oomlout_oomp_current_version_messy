@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | vintage |  
-| bip_39_word_new_br10 | vintage<br>brain<br>check<br>swift<br>air<br>sell<br>dream<br>garlic<br>milk<br>bulb |  
-| bip_39_word_new_br11 | vintage<br>brain<br>check<br>swift<br>air<br>sell<br>dream<br>garlic<br>milk<br>bulb<br>mountain |  
-| bip_39_word_new_br12 | vintage<br>brain<br>check<br>swift<br>air<br>sell<br>dream<br>garlic<br>milk<br>bulb<br>mountain<br>aerobic |  
-| bip_39_word_new_br2 | vintage<br>brain |  
-| bip_39_word_new_br3 | vintage<br>brain<br>check |  
-| bip_39_word_new_br4 | vintage<br>brain<br>check<br>swift |  
-| bip_39_word_new_br5 | vintage<br>brain<br>check<br>swift<br>air |  
-| bip_39_word_new_br6 | vintage<br>brain<br>check<br>swift<br>air<br>sell |  
-| bip_39_word_new_br7 | vintage<br>brain<br>check<br>swift<br>air<br>sell<br>dream |  
-| bip_39_word_new_br8 | vintage<br>brain<br>check<br>swift<br>air<br>sell<br>dream<br>garlic |  
-| bip_39_word_new_br9 | vintage<br>brain<br>check<br>swift<br>air<br>sell<br>dream<br>garlic<br>milk |  
-| bip_39_word_new_line1 | vintage |  
-| bip_39_word_new_line10 | vintage
+| bip_39_word_new_br_1 | vintage |  
+| bip_39_word_new_br_10 | vintage<br>brain<br>check<br>swift<br>air<br>sell<br>dream<br>garlic<br>milk<br>bulb |  
+| bip_39_word_new_br_11 | vintage<br>brain<br>check<br>swift<br>air<br>sell<br>dream<br>garlic<br>milk<br>bulb<br>mountain |  
+| bip_39_word_new_br_12 | vintage<br>brain<br>check<br>swift<br>air<br>sell<br>dream<br>garlic<br>milk<br>bulb<br>mountain<br>aerobic |  
+| bip_39_word_new_br_2 | vintage<br>brain |  
+| bip_39_word_new_br_3 | vintage<br>brain<br>check |  
+| bip_39_word_new_br_4 | vintage<br>brain<br>check<br>swift |  
+| bip_39_word_new_br_5 | vintage<br>brain<br>check<br>swift<br>air |  
+| bip_39_word_new_br_6 | vintage<br>brain<br>check<br>swift<br>air<br>sell |  
+| bip_39_word_new_br_7 | vintage<br>brain<br>check<br>swift<br>air<br>sell<br>dream |  
+| bip_39_word_new_br_8 | vintage<br>brain<br>check<br>swift<br>air<br>sell<br>dream<br>garlic |  
+| bip_39_word_new_br_9 | vintage<br>brain<br>check<br>swift<br>air<br>sell<br>dream<br>garlic<br>milk |  
+| bip_39_word_new_line_1 | vintage |  
+| bip_39_word_new_line_10 | vintage
 brain
 check
 swift
@@ -55,7 +55,7 @@ dream
 garlic
 milk
 bulb |  
-| bip_39_word_new_line11 | vintage
+| bip_39_word_new_line_11 | vintage
 brain
 check
 swift
@@ -66,7 +66,7 @@ garlic
 milk
 bulb
 mountain |  
-| bip_39_word_new_line12 | vintage
+| bip_39_word_new_line_12 | vintage
 brain
 check
 swift
@@ -78,34 +78,34 @@ milk
 bulb
 mountain
 aerobic |  
-| bip_39_word_new_line2 | vintage
+| bip_39_word_new_line_2 | vintage
 brain |  
-| bip_39_word_new_line3 | vintage
+| bip_39_word_new_line_3 | vintage
 brain
 check |  
-| bip_39_word_new_line4 | vintage
+| bip_39_word_new_line_4 | vintage
 brain
 check
 swift |  
-| bip_39_word_new_line5 | vintage
+| bip_39_word_new_line_5 | vintage
 brain
 check
 swift
 air |  
-| bip_39_word_new_line6 | vintage
+| bip_39_word_new_line_6 | vintage
 brain
 check
 swift
 air
 sell |  
-| bip_39_word_new_line7 | vintage
+| bip_39_word_new_line_7 | vintage
 brain
 check
 swift
 air
 sell
 dream |  
-| bip_39_word_new_line8 | vintage
+| bip_39_word_new_line_8 | vintage
 brain
 check
 swift
@@ -113,7 +113,7 @@ air
 sell
 dream
 garlic |  
-| bip_39_word_new_line9 | vintage
+| bip_39_word_new_line_9 | vintage
 brain
 check
 swift

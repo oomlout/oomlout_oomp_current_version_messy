@@ -32,20 +32,20 @@ A mini usb port free arduino compatible breakout
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | spirit |  
-| bip_39_word_new_br10 | spirit<br>diet<br>nerve<br>fix<br>bird<br>lend<br>large<br>rent<br>build<br>hurry |  
-| bip_39_word_new_br11 | spirit<br>diet<br>nerve<br>fix<br>bird<br>lend<br>large<br>rent<br>build<br>hurry<br>normal |  
-| bip_39_word_new_br12 | spirit<br>diet<br>nerve<br>fix<br>bird<br>lend<br>large<br>rent<br>build<br>hurry<br>normal<br>asthma |  
-| bip_39_word_new_br2 | spirit<br>diet |  
-| bip_39_word_new_br3 | spirit<br>diet<br>nerve |  
-| bip_39_word_new_br4 | spirit<br>diet<br>nerve<br>fix |  
-| bip_39_word_new_br5 | spirit<br>diet<br>nerve<br>fix<br>bird |  
-| bip_39_word_new_br6 | spirit<br>diet<br>nerve<br>fix<br>bird<br>lend |  
-| bip_39_word_new_br7 | spirit<br>diet<br>nerve<br>fix<br>bird<br>lend<br>large |  
-| bip_39_word_new_br8 | spirit<br>diet<br>nerve<br>fix<br>bird<br>lend<br>large<br>rent |  
-| bip_39_word_new_br9 | spirit<br>diet<br>nerve<br>fix<br>bird<br>lend<br>large<br>rent<br>build |  
-| bip_39_word_new_line1 | spirit |  
-| bip_39_word_new_line10 | spirit
+| bip_39_word_new_br_1 | spirit |  
+| bip_39_word_new_br_10 | spirit<br>diet<br>nerve<br>fix<br>bird<br>lend<br>large<br>rent<br>build<br>hurry |  
+| bip_39_word_new_br_11 | spirit<br>diet<br>nerve<br>fix<br>bird<br>lend<br>large<br>rent<br>build<br>hurry<br>normal |  
+| bip_39_word_new_br_12 | spirit<br>diet<br>nerve<br>fix<br>bird<br>lend<br>large<br>rent<br>build<br>hurry<br>normal<br>asthma |  
+| bip_39_word_new_br_2 | spirit<br>diet |  
+| bip_39_word_new_br_3 | spirit<br>diet<br>nerve |  
+| bip_39_word_new_br_4 | spirit<br>diet<br>nerve<br>fix |  
+| bip_39_word_new_br_5 | spirit<br>diet<br>nerve<br>fix<br>bird |  
+| bip_39_word_new_br_6 | spirit<br>diet<br>nerve<br>fix<br>bird<br>lend |  
+| bip_39_word_new_br_7 | spirit<br>diet<br>nerve<br>fix<br>bird<br>lend<br>large |  
+| bip_39_word_new_br_8 | spirit<br>diet<br>nerve<br>fix<br>bird<br>lend<br>large<br>rent |  
+| bip_39_word_new_br_9 | spirit<br>diet<br>nerve<br>fix<br>bird<br>lend<br>large<br>rent<br>build |  
+| bip_39_word_new_line_1 | spirit |  
+| bip_39_word_new_line_10 | spirit
 diet
 nerve
 fix
@@ -55,7 +55,7 @@ large
 rent
 build
 hurry |  
-| bip_39_word_new_line11 | spirit
+| bip_39_word_new_line_11 | spirit
 diet
 nerve
 fix
@@ -66,7 +66,7 @@ rent
 build
 hurry
 normal |  
-| bip_39_word_new_line12 | spirit
+| bip_39_word_new_line_12 | spirit
 diet
 nerve
 fix
@@ -78,34 +78,34 @@ build
 hurry
 normal
 asthma |  
-| bip_39_word_new_line2 | spirit
+| bip_39_word_new_line_2 | spirit
 diet |  
-| bip_39_word_new_line3 | spirit
+| bip_39_word_new_line_3 | spirit
 diet
 nerve |  
-| bip_39_word_new_line4 | spirit
+| bip_39_word_new_line_4 | spirit
 diet
 nerve
 fix |  
-| bip_39_word_new_line5 | spirit
+| bip_39_word_new_line_5 | spirit
 diet
 nerve
 fix
 bird |  
-| bip_39_word_new_line6 | spirit
+| bip_39_word_new_line_6 | spirit
 diet
 nerve
 fix
 bird
 lend |  
-| bip_39_word_new_line7 | spirit
+| bip_39_word_new_line_7 | spirit
 diet
 nerve
 fix
 bird
 lend
 large |  
-| bip_39_word_new_line8 | spirit
+| bip_39_word_new_line_8 | spirit
 diet
 nerve
 fix
@@ -113,7 +113,7 @@ bird
 lend
 large
 rent |  
-| bip_39_word_new_line9 | spirit
+| bip_39_word_new_line_9 | spirit
 diet
 nerve
 fix

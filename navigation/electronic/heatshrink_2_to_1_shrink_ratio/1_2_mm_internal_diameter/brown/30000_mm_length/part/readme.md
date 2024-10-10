@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | joke |  
-| bip_39_word_new_br10 | joke<br>autumn<br>coffee<br>chicken<br>slice<br>lizard<br>shock<br>paddle<br>logic<br>victory |  
-| bip_39_word_new_br11 | joke<br>autumn<br>coffee<br>chicken<br>slice<br>lizard<br>shock<br>paddle<br>logic<br>victory<br>patient |  
-| bip_39_word_new_br12 | joke<br>autumn<br>coffee<br>chicken<br>slice<br>lizard<br>shock<br>paddle<br>logic<br>victory<br>patient<br>action |  
-| bip_39_word_new_br2 | joke<br>autumn |  
-| bip_39_word_new_br3 | joke<br>autumn<br>coffee |  
-| bip_39_word_new_br4 | joke<br>autumn<br>coffee<br>chicken |  
-| bip_39_word_new_br5 | joke<br>autumn<br>coffee<br>chicken<br>slice |  
-| bip_39_word_new_br6 | joke<br>autumn<br>coffee<br>chicken<br>slice<br>lizard |  
-| bip_39_word_new_br7 | joke<br>autumn<br>coffee<br>chicken<br>slice<br>lizard<br>shock |  
-| bip_39_word_new_br8 | joke<br>autumn<br>coffee<br>chicken<br>slice<br>lizard<br>shock<br>paddle |  
-| bip_39_word_new_br9 | joke<br>autumn<br>coffee<br>chicken<br>slice<br>lizard<br>shock<br>paddle<br>logic |  
-| bip_39_word_new_line1 | joke |  
-| bip_39_word_new_line10 | joke
+| bip_39_word_new_br_1 | joke |  
+| bip_39_word_new_br_10 | joke<br>autumn<br>coffee<br>chicken<br>slice<br>lizard<br>shock<br>paddle<br>logic<br>victory |  
+| bip_39_word_new_br_11 | joke<br>autumn<br>coffee<br>chicken<br>slice<br>lizard<br>shock<br>paddle<br>logic<br>victory<br>patient |  
+| bip_39_word_new_br_12 | joke<br>autumn<br>coffee<br>chicken<br>slice<br>lizard<br>shock<br>paddle<br>logic<br>victory<br>patient<br>action |  
+| bip_39_word_new_br_2 | joke<br>autumn |  
+| bip_39_word_new_br_3 | joke<br>autumn<br>coffee |  
+| bip_39_word_new_br_4 | joke<br>autumn<br>coffee<br>chicken |  
+| bip_39_word_new_br_5 | joke<br>autumn<br>coffee<br>chicken<br>slice |  
+| bip_39_word_new_br_6 | joke<br>autumn<br>coffee<br>chicken<br>slice<br>lizard |  
+| bip_39_word_new_br_7 | joke<br>autumn<br>coffee<br>chicken<br>slice<br>lizard<br>shock |  
+| bip_39_word_new_br_8 | joke<br>autumn<br>coffee<br>chicken<br>slice<br>lizard<br>shock<br>paddle |  
+| bip_39_word_new_br_9 | joke<br>autumn<br>coffee<br>chicken<br>slice<br>lizard<br>shock<br>paddle<br>logic |  
+| bip_39_word_new_line_1 | joke |  
+| bip_39_word_new_line_10 | joke
 autumn
 coffee
 chicken
@@ -55,7 +55,7 @@ shock
 paddle
 logic
 victory |  
-| bip_39_word_new_line11 | joke
+| bip_39_word_new_line_11 | joke
 autumn
 coffee
 chicken
@@ -66,7 +66,7 @@ paddle
 logic
 victory
 patient |  
-| bip_39_word_new_line12 | joke
+| bip_39_word_new_line_12 | joke
 autumn
 coffee
 chicken
@@ -78,34 +78,34 @@ logic
 victory
 patient
 action |  
-| bip_39_word_new_line2 | joke
+| bip_39_word_new_line_2 | joke
 autumn |  
-| bip_39_word_new_line3 | joke
+| bip_39_word_new_line_3 | joke
 autumn
 coffee |  
-| bip_39_word_new_line4 | joke
+| bip_39_word_new_line_4 | joke
 autumn
 coffee
 chicken |  
-| bip_39_word_new_line5 | joke
+| bip_39_word_new_line_5 | joke
 autumn
 coffee
 chicken
 slice |  
-| bip_39_word_new_line6 | joke
+| bip_39_word_new_line_6 | joke
 autumn
 coffee
 chicken
 slice
 lizard |  
-| bip_39_word_new_line7 | joke
+| bip_39_word_new_line_7 | joke
 autumn
 coffee
 chicken
 slice
 lizard
 shock |  
-| bip_39_word_new_line8 | joke
+| bip_39_word_new_line_8 | joke
 autumn
 coffee
 chicken
@@ -113,7 +113,7 @@ slice
 lizard
 shock
 paddle |  
-| bip_39_word_new_line9 | joke
+| bip_39_word_new_line_9 | joke
 autumn
 coffee
 chicken

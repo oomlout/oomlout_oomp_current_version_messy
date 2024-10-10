@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | approve |  
-| bip_39_word_new_br10 | approve<br>spot<br>blush<br>hand<br>west<br>seven<br>fun<br>foil<br>staff<br>neither |  
-| bip_39_word_new_br11 | approve<br>spot<br>blush<br>hand<br>west<br>seven<br>fun<br>foil<br>staff<br>neither<br>wrist |  
-| bip_39_word_new_br12 | approve<br>spot<br>blush<br>hand<br>west<br>seven<br>fun<br>foil<br>staff<br>neither<br>wrist<br>add |  
-| bip_39_word_new_br2 | approve<br>spot |  
-| bip_39_word_new_br3 | approve<br>spot<br>blush |  
-| bip_39_word_new_br4 | approve<br>spot<br>blush<br>hand |  
-| bip_39_word_new_br5 | approve<br>spot<br>blush<br>hand<br>west |  
-| bip_39_word_new_br6 | approve<br>spot<br>blush<br>hand<br>west<br>seven |  
-| bip_39_word_new_br7 | approve<br>spot<br>blush<br>hand<br>west<br>seven<br>fun |  
-| bip_39_word_new_br8 | approve<br>spot<br>blush<br>hand<br>west<br>seven<br>fun<br>foil |  
-| bip_39_word_new_br9 | approve<br>spot<br>blush<br>hand<br>west<br>seven<br>fun<br>foil<br>staff |  
-| bip_39_word_new_line1 | approve |  
-| bip_39_word_new_line10 | approve
+| bip_39_word_new_br_1 | approve |  
+| bip_39_word_new_br_10 | approve<br>spot<br>blush<br>hand<br>west<br>seven<br>fun<br>foil<br>staff<br>neither |  
+| bip_39_word_new_br_11 | approve<br>spot<br>blush<br>hand<br>west<br>seven<br>fun<br>foil<br>staff<br>neither<br>wrist |  
+| bip_39_word_new_br_12 | approve<br>spot<br>blush<br>hand<br>west<br>seven<br>fun<br>foil<br>staff<br>neither<br>wrist<br>add |  
+| bip_39_word_new_br_2 | approve<br>spot |  
+| bip_39_word_new_br_3 | approve<br>spot<br>blush |  
+| bip_39_word_new_br_4 | approve<br>spot<br>blush<br>hand |  
+| bip_39_word_new_br_5 | approve<br>spot<br>blush<br>hand<br>west |  
+| bip_39_word_new_br_6 | approve<br>spot<br>blush<br>hand<br>west<br>seven |  
+| bip_39_word_new_br_7 | approve<br>spot<br>blush<br>hand<br>west<br>seven<br>fun |  
+| bip_39_word_new_br_8 | approve<br>spot<br>blush<br>hand<br>west<br>seven<br>fun<br>foil |  
+| bip_39_word_new_br_9 | approve<br>spot<br>blush<br>hand<br>west<br>seven<br>fun<br>foil<br>staff |  
+| bip_39_word_new_line_1 | approve |  
+| bip_39_word_new_line_10 | approve
 spot
 blush
 hand
@@ -55,7 +55,7 @@ fun
 foil
 staff
 neither |  
-| bip_39_word_new_line11 | approve
+| bip_39_word_new_line_11 | approve
 spot
 blush
 hand
@@ -66,7 +66,7 @@ foil
 staff
 neither
 wrist |  
-| bip_39_word_new_line12 | approve
+| bip_39_word_new_line_12 | approve
 spot
 blush
 hand
@@ -78,34 +78,34 @@ staff
 neither
 wrist
 add |  
-| bip_39_word_new_line2 | approve
+| bip_39_word_new_line_2 | approve
 spot |  
-| bip_39_word_new_line3 | approve
+| bip_39_word_new_line_3 | approve
 spot
 blush |  
-| bip_39_word_new_line4 | approve
+| bip_39_word_new_line_4 | approve
 spot
 blush
 hand |  
-| bip_39_word_new_line5 | approve
+| bip_39_word_new_line_5 | approve
 spot
 blush
 hand
 west |  
-| bip_39_word_new_line6 | approve
+| bip_39_word_new_line_6 | approve
 spot
 blush
 hand
 west
 seven |  
-| bip_39_word_new_line7 | approve
+| bip_39_word_new_line_7 | approve
 spot
 blush
 hand
 west
 seven
 fun |  
-| bip_39_word_new_line8 | approve
+| bip_39_word_new_line_8 | approve
 spot
 blush
 hand
@@ -113,7 +113,7 @@ west
 seven
 fun
 foil |  
-| bip_39_word_new_line9 | approve
+| bip_39_word_new_line_9 | approve
 spot
 blush
 hand

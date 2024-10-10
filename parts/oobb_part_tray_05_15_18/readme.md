@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | neither |  
-| bip_39_word_new_br10 | neither<br>atom<br>grab<br>general<br>laptop<br>float<br>belt<br>orient<br>alone<br>front |  
-| bip_39_word_new_br11 | neither<br>atom<br>grab<br>general<br>laptop<br>float<br>belt<br>orient<br>alone<br>front<br>hobby |  
-| bip_39_word_new_br12 | neither<br>atom<br>grab<br>general<br>laptop<br>float<br>belt<br>orient<br>alone<br>front<br>hobby<br>arm |  
-| bip_39_word_new_br2 | neither<br>atom |  
-| bip_39_word_new_br3 | neither<br>atom<br>grab |  
-| bip_39_word_new_br4 | neither<br>atom<br>grab<br>general |  
-| bip_39_word_new_br5 | neither<br>atom<br>grab<br>general<br>laptop |  
-| bip_39_word_new_br6 | neither<br>atom<br>grab<br>general<br>laptop<br>float |  
-| bip_39_word_new_br7 | neither<br>atom<br>grab<br>general<br>laptop<br>float<br>belt |  
-| bip_39_word_new_br8 | neither<br>atom<br>grab<br>general<br>laptop<br>float<br>belt<br>orient |  
-| bip_39_word_new_br9 | neither<br>atom<br>grab<br>general<br>laptop<br>float<br>belt<br>orient<br>alone |  
-| bip_39_word_new_line1 | neither |  
-| bip_39_word_new_line10 | neither
+| bip_39_word_new_br_1 | neither |  
+| bip_39_word_new_br_10 | neither<br>atom<br>grab<br>general<br>laptop<br>float<br>belt<br>orient<br>alone<br>front |  
+| bip_39_word_new_br_11 | neither<br>atom<br>grab<br>general<br>laptop<br>float<br>belt<br>orient<br>alone<br>front<br>hobby |  
+| bip_39_word_new_br_12 | neither<br>atom<br>grab<br>general<br>laptop<br>float<br>belt<br>orient<br>alone<br>front<br>hobby<br>arm |  
+| bip_39_word_new_br_2 | neither<br>atom |  
+| bip_39_word_new_br_3 | neither<br>atom<br>grab |  
+| bip_39_word_new_br_4 | neither<br>atom<br>grab<br>general |  
+| bip_39_word_new_br_5 | neither<br>atom<br>grab<br>general<br>laptop |  
+| bip_39_word_new_br_6 | neither<br>atom<br>grab<br>general<br>laptop<br>float |  
+| bip_39_word_new_br_7 | neither<br>atom<br>grab<br>general<br>laptop<br>float<br>belt |  
+| bip_39_word_new_br_8 | neither<br>atom<br>grab<br>general<br>laptop<br>float<br>belt<br>orient |  
+| bip_39_word_new_br_9 | neither<br>atom<br>grab<br>general<br>laptop<br>float<br>belt<br>orient<br>alone |  
+| bip_39_word_new_line_1 | neither |  
+| bip_39_word_new_line_10 | neither
 atom
 grab
 general
@@ -55,7 +55,7 @@ belt
 orient
 alone
 front |  
-| bip_39_word_new_line11 | neither
+| bip_39_word_new_line_11 | neither
 atom
 grab
 general
@@ -66,7 +66,7 @@ orient
 alone
 front
 hobby |  
-| bip_39_word_new_line12 | neither
+| bip_39_word_new_line_12 | neither
 atom
 grab
 general
@@ -78,34 +78,34 @@ alone
 front
 hobby
 arm |  
-| bip_39_word_new_line2 | neither
+| bip_39_word_new_line_2 | neither
 atom |  
-| bip_39_word_new_line3 | neither
+| bip_39_word_new_line_3 | neither
 atom
 grab |  
-| bip_39_word_new_line4 | neither
+| bip_39_word_new_line_4 | neither
 atom
 grab
 general |  
-| bip_39_word_new_line5 | neither
+| bip_39_word_new_line_5 | neither
 atom
 grab
 general
 laptop |  
-| bip_39_word_new_line6 | neither
+| bip_39_word_new_line_6 | neither
 atom
 grab
 general
 laptop
 float |  
-| bip_39_word_new_line7 | neither
+| bip_39_word_new_line_7 | neither
 atom
 grab
 general
 laptop
 float
 belt |  
-| bip_39_word_new_line8 | neither
+| bip_39_word_new_line_8 | neither
 atom
 grab
 general
@@ -113,7 +113,7 @@ laptop
 float
 belt
 orient |  
-| bip_39_word_new_line9 | neither
+| bip_39_word_new_line_9 | neither
 atom
 grab
 general

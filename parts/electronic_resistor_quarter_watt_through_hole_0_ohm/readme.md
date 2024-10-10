@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ring |  
-| bip_39_word_new_br10 | ring<br>tiger<br>pole<br>ginger<br>lawn<br>night<br>sting<br>yard<br>hip<br>title |  
-| bip_39_word_new_br11 | ring<br>tiger<br>pole<br>ginger<br>lawn<br>night<br>sting<br>yard<br>hip<br>title<br>remain |  
-| bip_39_word_new_br12 | ring<br>tiger<br>pole<br>ginger<br>lawn<br>night<br>sting<br>yard<br>hip<br>title<br>remain<br>always |  
-| bip_39_word_new_br2 | ring<br>tiger |  
-| bip_39_word_new_br3 | ring<br>tiger<br>pole |  
-| bip_39_word_new_br4 | ring<br>tiger<br>pole<br>ginger |  
-| bip_39_word_new_br5 | ring<br>tiger<br>pole<br>ginger<br>lawn |  
-| bip_39_word_new_br6 | ring<br>tiger<br>pole<br>ginger<br>lawn<br>night |  
-| bip_39_word_new_br7 | ring<br>tiger<br>pole<br>ginger<br>lawn<br>night<br>sting |  
-| bip_39_word_new_br8 | ring<br>tiger<br>pole<br>ginger<br>lawn<br>night<br>sting<br>yard |  
-| bip_39_word_new_br9 | ring<br>tiger<br>pole<br>ginger<br>lawn<br>night<br>sting<br>yard<br>hip |  
-| bip_39_word_new_line1 | ring |  
-| bip_39_word_new_line10 | ring
+| bip_39_word_new_br_1 | ring |  
+| bip_39_word_new_br_10 | ring<br>tiger<br>pole<br>ginger<br>lawn<br>night<br>sting<br>yard<br>hip<br>title |  
+| bip_39_word_new_br_11 | ring<br>tiger<br>pole<br>ginger<br>lawn<br>night<br>sting<br>yard<br>hip<br>title<br>remain |  
+| bip_39_word_new_br_12 | ring<br>tiger<br>pole<br>ginger<br>lawn<br>night<br>sting<br>yard<br>hip<br>title<br>remain<br>always |  
+| bip_39_word_new_br_2 | ring<br>tiger |  
+| bip_39_word_new_br_3 | ring<br>tiger<br>pole |  
+| bip_39_word_new_br_4 | ring<br>tiger<br>pole<br>ginger |  
+| bip_39_word_new_br_5 | ring<br>tiger<br>pole<br>ginger<br>lawn |  
+| bip_39_word_new_br_6 | ring<br>tiger<br>pole<br>ginger<br>lawn<br>night |  
+| bip_39_word_new_br_7 | ring<br>tiger<br>pole<br>ginger<br>lawn<br>night<br>sting |  
+| bip_39_word_new_br_8 | ring<br>tiger<br>pole<br>ginger<br>lawn<br>night<br>sting<br>yard |  
+| bip_39_word_new_br_9 | ring<br>tiger<br>pole<br>ginger<br>lawn<br>night<br>sting<br>yard<br>hip |  
+| bip_39_word_new_line_1 | ring |  
+| bip_39_word_new_line_10 | ring
 tiger
 pole
 ginger
@@ -55,7 +55,7 @@ sting
 yard
 hip
 title |  
-| bip_39_word_new_line11 | ring
+| bip_39_word_new_line_11 | ring
 tiger
 pole
 ginger
@@ -66,7 +66,7 @@ yard
 hip
 title
 remain |  
-| bip_39_word_new_line12 | ring
+| bip_39_word_new_line_12 | ring
 tiger
 pole
 ginger
@@ -78,34 +78,34 @@ hip
 title
 remain
 always |  
-| bip_39_word_new_line2 | ring
+| bip_39_word_new_line_2 | ring
 tiger |  
-| bip_39_word_new_line3 | ring
+| bip_39_word_new_line_3 | ring
 tiger
 pole |  
-| bip_39_word_new_line4 | ring
+| bip_39_word_new_line_4 | ring
 tiger
 pole
 ginger |  
-| bip_39_word_new_line5 | ring
+| bip_39_word_new_line_5 | ring
 tiger
 pole
 ginger
 lawn |  
-| bip_39_word_new_line6 | ring
+| bip_39_word_new_line_6 | ring
 tiger
 pole
 ginger
 lawn
 night |  
-| bip_39_word_new_line7 | ring
+| bip_39_word_new_line_7 | ring
 tiger
 pole
 ginger
 lawn
 night
 sting |  
-| bip_39_word_new_line8 | ring
+| bip_39_word_new_line_8 | ring
 tiger
 pole
 ginger
@@ -113,7 +113,7 @@ lawn
 night
 sting
 yard |  
-| bip_39_word_new_line9 | ring
+| bip_39_word_new_line_9 | ring
 tiger
 pole
 ginger

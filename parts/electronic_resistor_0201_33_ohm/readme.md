@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | deer |  
-| bip_39_word_new_br10 | deer<br>three<br>knock<br>floor<br>chunk<br>fade<br>flower<br>rival<br>weasel<br>neither |  
-| bip_39_word_new_br11 | deer<br>three<br>knock<br>floor<br>chunk<br>fade<br>flower<br>rival<br>weasel<br>neither<br>cactus |  
-| bip_39_word_new_br12 | deer<br>three<br>knock<br>floor<br>chunk<br>fade<br>flower<br>rival<br>weasel<br>neither<br>cactus<br>arch |  
-| bip_39_word_new_br2 | deer<br>three |  
-| bip_39_word_new_br3 | deer<br>three<br>knock |  
-| bip_39_word_new_br4 | deer<br>three<br>knock<br>floor |  
-| bip_39_word_new_br5 | deer<br>three<br>knock<br>floor<br>chunk |  
-| bip_39_word_new_br6 | deer<br>three<br>knock<br>floor<br>chunk<br>fade |  
-| bip_39_word_new_br7 | deer<br>three<br>knock<br>floor<br>chunk<br>fade<br>flower |  
-| bip_39_word_new_br8 | deer<br>three<br>knock<br>floor<br>chunk<br>fade<br>flower<br>rival |  
-| bip_39_word_new_br9 | deer<br>three<br>knock<br>floor<br>chunk<br>fade<br>flower<br>rival<br>weasel |  
-| bip_39_word_new_line1 | deer |  
-| bip_39_word_new_line10 | deer
+| bip_39_word_new_br_1 | deer |  
+| bip_39_word_new_br_10 | deer<br>three<br>knock<br>floor<br>chunk<br>fade<br>flower<br>rival<br>weasel<br>neither |  
+| bip_39_word_new_br_11 | deer<br>three<br>knock<br>floor<br>chunk<br>fade<br>flower<br>rival<br>weasel<br>neither<br>cactus |  
+| bip_39_word_new_br_12 | deer<br>three<br>knock<br>floor<br>chunk<br>fade<br>flower<br>rival<br>weasel<br>neither<br>cactus<br>arch |  
+| bip_39_word_new_br_2 | deer<br>three |  
+| bip_39_word_new_br_3 | deer<br>three<br>knock |  
+| bip_39_word_new_br_4 | deer<br>three<br>knock<br>floor |  
+| bip_39_word_new_br_5 | deer<br>three<br>knock<br>floor<br>chunk |  
+| bip_39_word_new_br_6 | deer<br>three<br>knock<br>floor<br>chunk<br>fade |  
+| bip_39_word_new_br_7 | deer<br>three<br>knock<br>floor<br>chunk<br>fade<br>flower |  
+| bip_39_word_new_br_8 | deer<br>three<br>knock<br>floor<br>chunk<br>fade<br>flower<br>rival |  
+| bip_39_word_new_br_9 | deer<br>three<br>knock<br>floor<br>chunk<br>fade<br>flower<br>rival<br>weasel |  
+| bip_39_word_new_line_1 | deer |  
+| bip_39_word_new_line_10 | deer
 three
 knock
 floor
@@ -55,7 +55,7 @@ flower
 rival
 weasel
 neither |  
-| bip_39_word_new_line11 | deer
+| bip_39_word_new_line_11 | deer
 three
 knock
 floor
@@ -66,7 +66,7 @@ rival
 weasel
 neither
 cactus |  
-| bip_39_word_new_line12 | deer
+| bip_39_word_new_line_12 | deer
 three
 knock
 floor
@@ -78,34 +78,34 @@ weasel
 neither
 cactus
 arch |  
-| bip_39_word_new_line2 | deer
+| bip_39_word_new_line_2 | deer
 three |  
-| bip_39_word_new_line3 | deer
+| bip_39_word_new_line_3 | deer
 three
 knock |  
-| bip_39_word_new_line4 | deer
+| bip_39_word_new_line_4 | deer
 three
 knock
 floor |  
-| bip_39_word_new_line5 | deer
+| bip_39_word_new_line_5 | deer
 three
 knock
 floor
 chunk |  
-| bip_39_word_new_line6 | deer
+| bip_39_word_new_line_6 | deer
 three
 knock
 floor
 chunk
 fade |  
-| bip_39_word_new_line7 | deer
+| bip_39_word_new_line_7 | deer
 three
 knock
 floor
 chunk
 fade
 flower |  
-| bip_39_word_new_line8 | deer
+| bip_39_word_new_line_8 | deer
 three
 knock
 floor
@@ -113,7 +113,7 @@ chunk
 fade
 flower
 rival |  
-| bip_39_word_new_line9 | deer
+| bip_39_word_new_line_9 | deer
 three
 knock
 floor

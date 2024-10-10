@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | patrol |  
-| bip_39_word_new_br10 | patrol<br>flash<br>upgrade<br>prepare<br>cool<br>boost<br>lake<br>figure<br>bright<br>random |  
-| bip_39_word_new_br11 | patrol<br>flash<br>upgrade<br>prepare<br>cool<br>boost<br>lake<br>figure<br>bright<br>random<br>jungle |  
-| bip_39_word_new_br12 | patrol<br>flash<br>upgrade<br>prepare<br>cool<br>boost<br>lake<br>figure<br>bright<br>random<br>jungle<br>air |  
-| bip_39_word_new_br2 | patrol<br>flash |  
-| bip_39_word_new_br3 | patrol<br>flash<br>upgrade |  
-| bip_39_word_new_br4 | patrol<br>flash<br>upgrade<br>prepare |  
-| bip_39_word_new_br5 | patrol<br>flash<br>upgrade<br>prepare<br>cool |  
-| bip_39_word_new_br6 | patrol<br>flash<br>upgrade<br>prepare<br>cool<br>boost |  
-| bip_39_word_new_br7 | patrol<br>flash<br>upgrade<br>prepare<br>cool<br>boost<br>lake |  
-| bip_39_word_new_br8 | patrol<br>flash<br>upgrade<br>prepare<br>cool<br>boost<br>lake<br>figure |  
-| bip_39_word_new_br9 | patrol<br>flash<br>upgrade<br>prepare<br>cool<br>boost<br>lake<br>figure<br>bright |  
-| bip_39_word_new_line1 | patrol |  
-| bip_39_word_new_line10 | patrol
+| bip_39_word_new_br_1 | patrol |  
+| bip_39_word_new_br_10 | patrol<br>flash<br>upgrade<br>prepare<br>cool<br>boost<br>lake<br>figure<br>bright<br>random |  
+| bip_39_word_new_br_11 | patrol<br>flash<br>upgrade<br>prepare<br>cool<br>boost<br>lake<br>figure<br>bright<br>random<br>jungle |  
+| bip_39_word_new_br_12 | patrol<br>flash<br>upgrade<br>prepare<br>cool<br>boost<br>lake<br>figure<br>bright<br>random<br>jungle<br>air |  
+| bip_39_word_new_br_2 | patrol<br>flash |  
+| bip_39_word_new_br_3 | patrol<br>flash<br>upgrade |  
+| bip_39_word_new_br_4 | patrol<br>flash<br>upgrade<br>prepare |  
+| bip_39_word_new_br_5 | patrol<br>flash<br>upgrade<br>prepare<br>cool |  
+| bip_39_word_new_br_6 | patrol<br>flash<br>upgrade<br>prepare<br>cool<br>boost |  
+| bip_39_word_new_br_7 | patrol<br>flash<br>upgrade<br>prepare<br>cool<br>boost<br>lake |  
+| bip_39_word_new_br_8 | patrol<br>flash<br>upgrade<br>prepare<br>cool<br>boost<br>lake<br>figure |  
+| bip_39_word_new_br_9 | patrol<br>flash<br>upgrade<br>prepare<br>cool<br>boost<br>lake<br>figure<br>bright |  
+| bip_39_word_new_line_1 | patrol |  
+| bip_39_word_new_line_10 | patrol
 flash
 upgrade
 prepare
@@ -55,7 +55,7 @@ lake
 figure
 bright
 random |  
-| bip_39_word_new_line11 | patrol
+| bip_39_word_new_line_11 | patrol
 flash
 upgrade
 prepare
@@ -66,7 +66,7 @@ figure
 bright
 random
 jungle |  
-| bip_39_word_new_line12 | patrol
+| bip_39_word_new_line_12 | patrol
 flash
 upgrade
 prepare
@@ -78,34 +78,34 @@ bright
 random
 jungle
 air |  
-| bip_39_word_new_line2 | patrol
+| bip_39_word_new_line_2 | patrol
 flash |  
-| bip_39_word_new_line3 | patrol
+| bip_39_word_new_line_3 | patrol
 flash
 upgrade |  
-| bip_39_word_new_line4 | patrol
+| bip_39_word_new_line_4 | patrol
 flash
 upgrade
 prepare |  
-| bip_39_word_new_line5 | patrol
+| bip_39_word_new_line_5 | patrol
 flash
 upgrade
 prepare
 cool |  
-| bip_39_word_new_line6 | patrol
+| bip_39_word_new_line_6 | patrol
 flash
 upgrade
 prepare
 cool
 boost |  
-| bip_39_word_new_line7 | patrol
+| bip_39_word_new_line_7 | patrol
 flash
 upgrade
 prepare
 cool
 boost
 lake |  
-| bip_39_word_new_line8 | patrol
+| bip_39_word_new_line_8 | patrol
 flash
 upgrade
 prepare
@@ -113,7 +113,7 @@ cool
 boost
 lake
 figure |  
-| bip_39_word_new_line9 | patrol
+| bip_39_word_new_line_9 | patrol
 flash
 upgrade
 prepare

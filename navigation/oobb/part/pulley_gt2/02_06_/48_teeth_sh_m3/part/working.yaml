@@ -1,17 +1,17 @@
-bip_39_word_new_br1: later
-bip_39_word_new_br10: later<br>inch<br>end<br>grain<br>cigar<br>castle<br>paper<br>salon<br>mixed<br>extend
-bip_39_word_new_br11: later<br>inch<br>end<br>grain<br>cigar<br>castle<br>paper<br>salon<br>mixed<br>extend<br>need
-bip_39_word_new_br12: later<br>inch<br>end<br>grain<br>cigar<br>castle<br>paper<br>salon<br>mixed<br>extend<br>need<br>area
-bip_39_word_new_br2: later<br>inch
-bip_39_word_new_br3: later<br>inch<br>end
-bip_39_word_new_br4: later<br>inch<br>end<br>grain
-bip_39_word_new_br5: later<br>inch<br>end<br>grain<br>cigar
-bip_39_word_new_br6: later<br>inch<br>end<br>grain<br>cigar<br>castle
-bip_39_word_new_br7: later<br>inch<br>end<br>grain<br>cigar<br>castle<br>paper
-bip_39_word_new_br8: later<br>inch<br>end<br>grain<br>cigar<br>castle<br>paper<br>salon
-bip_39_word_new_br9: later<br>inch<br>end<br>grain<br>cigar<br>castle<br>paper<br>salon<br>mixed
-bip_39_word_new_line1: later
-bip_39_word_new_line10: 'later
+bip_39_word_new_br_1: later
+bip_39_word_new_br_10: later<br>inch<br>end<br>grain<br>cigar<br>castle<br>paper<br>salon<br>mixed<br>extend
+bip_39_word_new_br_11: later<br>inch<br>end<br>grain<br>cigar<br>castle<br>paper<br>salon<br>mixed<br>extend<br>need
+bip_39_word_new_br_12: later<br>inch<br>end<br>grain<br>cigar<br>castle<br>paper<br>salon<br>mixed<br>extend<br>need<br>area
+bip_39_word_new_br_2: later<br>inch
+bip_39_word_new_br_3: later<br>inch<br>end
+bip_39_word_new_br_4: later<br>inch<br>end<br>grain
+bip_39_word_new_br_5: later<br>inch<br>end<br>grain<br>cigar
+bip_39_word_new_br_6: later<br>inch<br>end<br>grain<br>cigar<br>castle
+bip_39_word_new_br_7: later<br>inch<br>end<br>grain<br>cigar<br>castle<br>paper
+bip_39_word_new_br_8: later<br>inch<br>end<br>grain<br>cigar<br>castle<br>paper<br>salon
+bip_39_word_new_br_9: later<br>inch<br>end<br>grain<br>cigar<br>castle<br>paper<br>salon<br>mixed
+bip_39_word_new_line_1: later
+bip_39_word_new_line_10: 'later
 
   inch
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'later
   mixed
 
   extend'
-bip_39_word_new_line11: 'later
+bip_39_word_new_line_11: 'later
 
   inch
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'later
   extend
 
   need'
-bip_39_word_new_line12: 'later
+bip_39_word_new_line_12: 'later
 
   inch
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'later
   need
 
   area'
-bip_39_word_new_line2: 'later
+bip_39_word_new_line_2: 'later
 
   inch'
-bip_39_word_new_line3: 'later
+bip_39_word_new_line_3: 'later
 
   inch
 
   end'
-bip_39_word_new_line4: 'later
+bip_39_word_new_line_4: 'later
 
   inch
 
   end
 
   grain'
-bip_39_word_new_line5: 'later
+bip_39_word_new_line_5: 'later
 
   inch
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'later
   grain
 
   cigar'
-bip_39_word_new_line6: 'later
+bip_39_word_new_line_6: 'later
 
   inch
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'later
   cigar
 
   castle'
-bip_39_word_new_line7: 'later
+bip_39_word_new_line_7: 'later
 
   inch
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'later
   castle
 
   paper'
-bip_39_word_new_line8: 'later
+bip_39_word_new_line_8: 'later
 
   inch
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'later
   paper
 
   salon'
-bip_39_word_new_line9: 'later
+bip_39_word_new_line_9: 'later
 
   inch
 

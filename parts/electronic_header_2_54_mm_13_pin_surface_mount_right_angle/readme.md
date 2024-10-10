@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | maze |  
-| bip_39_word_new_br10 | maze<br>enable<br>average<br>abuse<br>ankle<br>pull<br>away<br>baby<br>head<br>swing |  
-| bip_39_word_new_br11 | maze<br>enable<br>average<br>abuse<br>ankle<br>pull<br>away<br>baby<br>head<br>swing<br>spend |  
-| bip_39_word_new_br12 | maze<br>enable<br>average<br>abuse<br>ankle<br>pull<br>away<br>baby<br>head<br>swing<br>spend<br>aisle |  
-| bip_39_word_new_br2 | maze<br>enable |  
-| bip_39_word_new_br3 | maze<br>enable<br>average |  
-| bip_39_word_new_br4 | maze<br>enable<br>average<br>abuse |  
-| bip_39_word_new_br5 | maze<br>enable<br>average<br>abuse<br>ankle |  
-| bip_39_word_new_br6 | maze<br>enable<br>average<br>abuse<br>ankle<br>pull |  
-| bip_39_word_new_br7 | maze<br>enable<br>average<br>abuse<br>ankle<br>pull<br>away |  
-| bip_39_word_new_br8 | maze<br>enable<br>average<br>abuse<br>ankle<br>pull<br>away<br>baby |  
-| bip_39_word_new_br9 | maze<br>enable<br>average<br>abuse<br>ankle<br>pull<br>away<br>baby<br>head |  
-| bip_39_word_new_line1 | maze |  
-| bip_39_word_new_line10 | maze
+| bip_39_word_new_br_1 | maze |  
+| bip_39_word_new_br_10 | maze<br>enable<br>average<br>abuse<br>ankle<br>pull<br>away<br>baby<br>head<br>swing |  
+| bip_39_word_new_br_11 | maze<br>enable<br>average<br>abuse<br>ankle<br>pull<br>away<br>baby<br>head<br>swing<br>spend |  
+| bip_39_word_new_br_12 | maze<br>enable<br>average<br>abuse<br>ankle<br>pull<br>away<br>baby<br>head<br>swing<br>spend<br>aisle |  
+| bip_39_word_new_br_2 | maze<br>enable |  
+| bip_39_word_new_br_3 | maze<br>enable<br>average |  
+| bip_39_word_new_br_4 | maze<br>enable<br>average<br>abuse |  
+| bip_39_word_new_br_5 | maze<br>enable<br>average<br>abuse<br>ankle |  
+| bip_39_word_new_br_6 | maze<br>enable<br>average<br>abuse<br>ankle<br>pull |  
+| bip_39_word_new_br_7 | maze<br>enable<br>average<br>abuse<br>ankle<br>pull<br>away |  
+| bip_39_word_new_br_8 | maze<br>enable<br>average<br>abuse<br>ankle<br>pull<br>away<br>baby |  
+| bip_39_word_new_br_9 | maze<br>enable<br>average<br>abuse<br>ankle<br>pull<br>away<br>baby<br>head |  
+| bip_39_word_new_line_1 | maze |  
+| bip_39_word_new_line_10 | maze
 enable
 average
 abuse
@@ -55,7 +55,7 @@ away
 baby
 head
 swing |  
-| bip_39_word_new_line11 | maze
+| bip_39_word_new_line_11 | maze
 enable
 average
 abuse
@@ -66,7 +66,7 @@ baby
 head
 swing
 spend |  
-| bip_39_word_new_line12 | maze
+| bip_39_word_new_line_12 | maze
 enable
 average
 abuse
@@ -78,34 +78,34 @@ head
 swing
 spend
 aisle |  
-| bip_39_word_new_line2 | maze
+| bip_39_word_new_line_2 | maze
 enable |  
-| bip_39_word_new_line3 | maze
+| bip_39_word_new_line_3 | maze
 enable
 average |  
-| bip_39_word_new_line4 | maze
+| bip_39_word_new_line_4 | maze
 enable
 average
 abuse |  
-| bip_39_word_new_line5 | maze
+| bip_39_word_new_line_5 | maze
 enable
 average
 abuse
 ankle |  
-| bip_39_word_new_line6 | maze
+| bip_39_word_new_line_6 | maze
 enable
 average
 abuse
 ankle
 pull |  
-| bip_39_word_new_line7 | maze
+| bip_39_word_new_line_7 | maze
 enable
 average
 abuse
 ankle
 pull
 away |  
-| bip_39_word_new_line8 | maze
+| bip_39_word_new_line_8 | maze
 enable
 average
 abuse
@@ -113,7 +113,7 @@ ankle
 pull
 away
 baby |  
-| bip_39_word_new_line9 | maze
+| bip_39_word_new_line_9 | maze
 enable
 average
 abuse

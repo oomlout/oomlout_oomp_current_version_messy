@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | beach |  
-| bip_39_word_new_br10 | beach<br>body<br>foster<br>leave<br>marble<br>crawl<br>fog<br>second<br>crouch<br>pave |  
-| bip_39_word_new_br11 | beach<br>body<br>foster<br>leave<br>marble<br>crawl<br>fog<br>second<br>crouch<br>pave<br>equip |  
-| bip_39_word_new_br12 | beach<br>body<br>foster<br>leave<br>marble<br>crawl<br>fog<br>second<br>crouch<br>pave<br>equip<br>artefact |  
-| bip_39_word_new_br2 | beach<br>body |  
-| bip_39_word_new_br3 | beach<br>body<br>foster |  
-| bip_39_word_new_br4 | beach<br>body<br>foster<br>leave |  
-| bip_39_word_new_br5 | beach<br>body<br>foster<br>leave<br>marble |  
-| bip_39_word_new_br6 | beach<br>body<br>foster<br>leave<br>marble<br>crawl |  
-| bip_39_word_new_br7 | beach<br>body<br>foster<br>leave<br>marble<br>crawl<br>fog |  
-| bip_39_word_new_br8 | beach<br>body<br>foster<br>leave<br>marble<br>crawl<br>fog<br>second |  
-| bip_39_word_new_br9 | beach<br>body<br>foster<br>leave<br>marble<br>crawl<br>fog<br>second<br>crouch |  
-| bip_39_word_new_line1 | beach |  
-| bip_39_word_new_line10 | beach
+| bip_39_word_new_br_1 | beach |  
+| bip_39_word_new_br_10 | beach<br>body<br>foster<br>leave<br>marble<br>crawl<br>fog<br>second<br>crouch<br>pave |  
+| bip_39_word_new_br_11 | beach<br>body<br>foster<br>leave<br>marble<br>crawl<br>fog<br>second<br>crouch<br>pave<br>equip |  
+| bip_39_word_new_br_12 | beach<br>body<br>foster<br>leave<br>marble<br>crawl<br>fog<br>second<br>crouch<br>pave<br>equip<br>artefact |  
+| bip_39_word_new_br_2 | beach<br>body |  
+| bip_39_word_new_br_3 | beach<br>body<br>foster |  
+| bip_39_word_new_br_4 | beach<br>body<br>foster<br>leave |  
+| bip_39_word_new_br_5 | beach<br>body<br>foster<br>leave<br>marble |  
+| bip_39_word_new_br_6 | beach<br>body<br>foster<br>leave<br>marble<br>crawl |  
+| bip_39_word_new_br_7 | beach<br>body<br>foster<br>leave<br>marble<br>crawl<br>fog |  
+| bip_39_word_new_br_8 | beach<br>body<br>foster<br>leave<br>marble<br>crawl<br>fog<br>second |  
+| bip_39_word_new_br_9 | beach<br>body<br>foster<br>leave<br>marble<br>crawl<br>fog<br>second<br>crouch |  
+| bip_39_word_new_line_1 | beach |  
+| bip_39_word_new_line_10 | beach
 body
 foster
 leave
@@ -55,7 +55,7 @@ fog
 second
 crouch
 pave |  
-| bip_39_word_new_line11 | beach
+| bip_39_word_new_line_11 | beach
 body
 foster
 leave
@@ -66,7 +66,7 @@ second
 crouch
 pave
 equip |  
-| bip_39_word_new_line12 | beach
+| bip_39_word_new_line_12 | beach
 body
 foster
 leave
@@ -78,34 +78,34 @@ crouch
 pave
 equip
 artefact |  
-| bip_39_word_new_line2 | beach
+| bip_39_word_new_line_2 | beach
 body |  
-| bip_39_word_new_line3 | beach
+| bip_39_word_new_line_3 | beach
 body
 foster |  
-| bip_39_word_new_line4 | beach
+| bip_39_word_new_line_4 | beach
 body
 foster
 leave |  
-| bip_39_word_new_line5 | beach
+| bip_39_word_new_line_5 | beach
 body
 foster
 leave
 marble |  
-| bip_39_word_new_line6 | beach
+| bip_39_word_new_line_6 | beach
 body
 foster
 leave
 marble
 crawl |  
-| bip_39_word_new_line7 | beach
+| bip_39_word_new_line_7 | beach
 body
 foster
 leave
 marble
 crawl
 fog |  
-| bip_39_word_new_line8 | beach
+| bip_39_word_new_line_8 | beach
 body
 foster
 leave
@@ -113,7 +113,7 @@ marble
 crawl
 fog
 second |  
-| bip_39_word_new_line9 | beach
+| bip_39_word_new_line_9 | beach
 body
 foster
 leave

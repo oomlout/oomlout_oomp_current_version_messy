@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | shift |  
-| bip_39_word_new_br10 | shift<br>behave<br>enroll<br>image<br>path<br>inside<br>purse<br>bottom<br>woman<br>brother |  
-| bip_39_word_new_br11 | shift<br>behave<br>enroll<br>image<br>path<br>inside<br>purse<br>bottom<br>woman<br>brother<br>word |  
-| bip_39_word_new_br12 | shift<br>behave<br>enroll<br>image<br>path<br>inside<br>purse<br>bottom<br>woman<br>brother<br>word<br>arm |  
-| bip_39_word_new_br2 | shift<br>behave |  
-| bip_39_word_new_br3 | shift<br>behave<br>enroll |  
-| bip_39_word_new_br4 | shift<br>behave<br>enroll<br>image |  
-| bip_39_word_new_br5 | shift<br>behave<br>enroll<br>image<br>path |  
-| bip_39_word_new_br6 | shift<br>behave<br>enroll<br>image<br>path<br>inside |  
-| bip_39_word_new_br7 | shift<br>behave<br>enroll<br>image<br>path<br>inside<br>purse |  
-| bip_39_word_new_br8 | shift<br>behave<br>enroll<br>image<br>path<br>inside<br>purse<br>bottom |  
-| bip_39_word_new_br9 | shift<br>behave<br>enroll<br>image<br>path<br>inside<br>purse<br>bottom<br>woman |  
-| bip_39_word_new_line1 | shift |  
-| bip_39_word_new_line10 | shift
+| bip_39_word_new_br_1 | shift |  
+| bip_39_word_new_br_10 | shift<br>behave<br>enroll<br>image<br>path<br>inside<br>purse<br>bottom<br>woman<br>brother |  
+| bip_39_word_new_br_11 | shift<br>behave<br>enroll<br>image<br>path<br>inside<br>purse<br>bottom<br>woman<br>brother<br>word |  
+| bip_39_word_new_br_12 | shift<br>behave<br>enroll<br>image<br>path<br>inside<br>purse<br>bottom<br>woman<br>brother<br>word<br>arm |  
+| bip_39_word_new_br_2 | shift<br>behave |  
+| bip_39_word_new_br_3 | shift<br>behave<br>enroll |  
+| bip_39_word_new_br_4 | shift<br>behave<br>enroll<br>image |  
+| bip_39_word_new_br_5 | shift<br>behave<br>enroll<br>image<br>path |  
+| bip_39_word_new_br_6 | shift<br>behave<br>enroll<br>image<br>path<br>inside |  
+| bip_39_word_new_br_7 | shift<br>behave<br>enroll<br>image<br>path<br>inside<br>purse |  
+| bip_39_word_new_br_8 | shift<br>behave<br>enroll<br>image<br>path<br>inside<br>purse<br>bottom |  
+| bip_39_word_new_br_9 | shift<br>behave<br>enroll<br>image<br>path<br>inside<br>purse<br>bottom<br>woman |  
+| bip_39_word_new_line_1 | shift |  
+| bip_39_word_new_line_10 | shift
 behave
 enroll
 image
@@ -55,7 +55,7 @@ purse
 bottom
 woman
 brother |  
-| bip_39_word_new_line11 | shift
+| bip_39_word_new_line_11 | shift
 behave
 enroll
 image
@@ -66,7 +66,7 @@ bottom
 woman
 brother
 word |  
-| bip_39_word_new_line12 | shift
+| bip_39_word_new_line_12 | shift
 behave
 enroll
 image
@@ -78,34 +78,34 @@ woman
 brother
 word
 arm |  
-| bip_39_word_new_line2 | shift
+| bip_39_word_new_line_2 | shift
 behave |  
-| bip_39_word_new_line3 | shift
+| bip_39_word_new_line_3 | shift
 behave
 enroll |  
-| bip_39_word_new_line4 | shift
+| bip_39_word_new_line_4 | shift
 behave
 enroll
 image |  
-| bip_39_word_new_line5 | shift
+| bip_39_word_new_line_5 | shift
 behave
 enroll
 image
 path |  
-| bip_39_word_new_line6 | shift
+| bip_39_word_new_line_6 | shift
 behave
 enroll
 image
 path
 inside |  
-| bip_39_word_new_line7 | shift
+| bip_39_word_new_line_7 | shift
 behave
 enroll
 image
 path
 inside
 purse |  
-| bip_39_word_new_line8 | shift
+| bip_39_word_new_line_8 | shift
 behave
 enroll
 image
@@ -113,7 +113,7 @@ path
 inside
 purse
 bottom |  
-| bip_39_word_new_line9 | shift
+| bip_39_word_new_line_9 | shift
 behave
 enroll
 image

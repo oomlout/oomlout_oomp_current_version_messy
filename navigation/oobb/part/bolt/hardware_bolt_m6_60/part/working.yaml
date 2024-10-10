@@ -1,17 +1,17 @@
-bip_39_word_new_br1: work
-bip_39_word_new_br10: work<br>same<br>attitude<br>explain<br>face<br>notice<br>venture<br>hollow<br>rocket<br>shaft
-bip_39_word_new_br11: work<br>same<br>attitude<br>explain<br>face<br>notice<br>venture<br>hollow<br>rocket<br>shaft<br>teach
-bip_39_word_new_br12: work<br>same<br>attitude<br>explain<br>face<br>notice<br>venture<br>hollow<br>rocket<br>shaft<br>teach<br>arch
-bip_39_word_new_br2: work<br>same
-bip_39_word_new_br3: work<br>same<br>attitude
-bip_39_word_new_br4: work<br>same<br>attitude<br>explain
-bip_39_word_new_br5: work<br>same<br>attitude<br>explain<br>face
-bip_39_word_new_br6: work<br>same<br>attitude<br>explain<br>face<br>notice
-bip_39_word_new_br7: work<br>same<br>attitude<br>explain<br>face<br>notice<br>venture
-bip_39_word_new_br8: work<br>same<br>attitude<br>explain<br>face<br>notice<br>venture<br>hollow
-bip_39_word_new_br9: work<br>same<br>attitude<br>explain<br>face<br>notice<br>venture<br>hollow<br>rocket
-bip_39_word_new_line1: work
-bip_39_word_new_line10: 'work
+bip_39_word_new_br_1: work
+bip_39_word_new_br_10: work<br>same<br>attitude<br>explain<br>face<br>notice<br>venture<br>hollow<br>rocket<br>shaft
+bip_39_word_new_br_11: work<br>same<br>attitude<br>explain<br>face<br>notice<br>venture<br>hollow<br>rocket<br>shaft<br>teach
+bip_39_word_new_br_12: work<br>same<br>attitude<br>explain<br>face<br>notice<br>venture<br>hollow<br>rocket<br>shaft<br>teach<br>arch
+bip_39_word_new_br_2: work<br>same
+bip_39_word_new_br_3: work<br>same<br>attitude
+bip_39_word_new_br_4: work<br>same<br>attitude<br>explain
+bip_39_word_new_br_5: work<br>same<br>attitude<br>explain<br>face
+bip_39_word_new_br_6: work<br>same<br>attitude<br>explain<br>face<br>notice
+bip_39_word_new_br_7: work<br>same<br>attitude<br>explain<br>face<br>notice<br>venture
+bip_39_word_new_br_8: work<br>same<br>attitude<br>explain<br>face<br>notice<br>venture<br>hollow
+bip_39_word_new_br_9: work<br>same<br>attitude<br>explain<br>face<br>notice<br>venture<br>hollow<br>rocket
+bip_39_word_new_line_1: work
+bip_39_word_new_line_10: 'work
 
   same
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'work
   rocket
 
   shaft'
-bip_39_word_new_line11: 'work
+bip_39_word_new_line_11: 'work
 
   same
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'work
   shaft
 
   teach'
-bip_39_word_new_line12: 'work
+bip_39_word_new_line_12: 'work
 
   same
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'work
   teach
 
   arch'
-bip_39_word_new_line2: 'work
+bip_39_word_new_line_2: 'work
 
   same'
-bip_39_word_new_line3: 'work
+bip_39_word_new_line_3: 'work
 
   same
 
   attitude'
-bip_39_word_new_line4: 'work
+bip_39_word_new_line_4: 'work
 
   same
 
   attitude
 
   explain'
-bip_39_word_new_line5: 'work
+bip_39_word_new_line_5: 'work
 
   same
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'work
   explain
 
   face'
-bip_39_word_new_line6: 'work
+bip_39_word_new_line_6: 'work
 
   same
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'work
   face
 
   notice'
-bip_39_word_new_line7: 'work
+bip_39_word_new_line_7: 'work
 
   same
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'work
   notice
 
   venture'
-bip_39_word_new_line8: 'work
+bip_39_word_new_line_8: 'work
 
   same
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'work
   venture
 
   hollow'
-bip_39_word_new_line9: 'work
+bip_39_word_new_line_9: 'work
 
   same
 

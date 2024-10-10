@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | lecture |  
-| bip_39_word_new_br10 | lecture<br>stamp<br>cup<br>absent<br>hobby<br>joy<br>casual<br>when<br>fox<br>grass |  
-| bip_39_word_new_br11 | lecture<br>stamp<br>cup<br>absent<br>hobby<br>joy<br>casual<br>when<br>fox<br>grass<br>want |  
-| bip_39_word_new_br12 | lecture<br>stamp<br>cup<br>absent<br>hobby<br>joy<br>casual<br>when<br>fox<br>grass<br>want<br>album |  
-| bip_39_word_new_br2 | lecture<br>stamp |  
-| bip_39_word_new_br3 | lecture<br>stamp<br>cup |  
-| bip_39_word_new_br4 | lecture<br>stamp<br>cup<br>absent |  
-| bip_39_word_new_br5 | lecture<br>stamp<br>cup<br>absent<br>hobby |  
-| bip_39_word_new_br6 | lecture<br>stamp<br>cup<br>absent<br>hobby<br>joy |  
-| bip_39_word_new_br7 | lecture<br>stamp<br>cup<br>absent<br>hobby<br>joy<br>casual |  
-| bip_39_word_new_br8 | lecture<br>stamp<br>cup<br>absent<br>hobby<br>joy<br>casual<br>when |  
-| bip_39_word_new_br9 | lecture<br>stamp<br>cup<br>absent<br>hobby<br>joy<br>casual<br>when<br>fox |  
-| bip_39_word_new_line1 | lecture |  
-| bip_39_word_new_line10 | lecture
+| bip_39_word_new_br_1 | lecture |  
+| bip_39_word_new_br_10 | lecture<br>stamp<br>cup<br>absent<br>hobby<br>joy<br>casual<br>when<br>fox<br>grass |  
+| bip_39_word_new_br_11 | lecture<br>stamp<br>cup<br>absent<br>hobby<br>joy<br>casual<br>when<br>fox<br>grass<br>want |  
+| bip_39_word_new_br_12 | lecture<br>stamp<br>cup<br>absent<br>hobby<br>joy<br>casual<br>when<br>fox<br>grass<br>want<br>album |  
+| bip_39_word_new_br_2 | lecture<br>stamp |  
+| bip_39_word_new_br_3 | lecture<br>stamp<br>cup |  
+| bip_39_word_new_br_4 | lecture<br>stamp<br>cup<br>absent |  
+| bip_39_word_new_br_5 | lecture<br>stamp<br>cup<br>absent<br>hobby |  
+| bip_39_word_new_br_6 | lecture<br>stamp<br>cup<br>absent<br>hobby<br>joy |  
+| bip_39_word_new_br_7 | lecture<br>stamp<br>cup<br>absent<br>hobby<br>joy<br>casual |  
+| bip_39_word_new_br_8 | lecture<br>stamp<br>cup<br>absent<br>hobby<br>joy<br>casual<br>when |  
+| bip_39_word_new_br_9 | lecture<br>stamp<br>cup<br>absent<br>hobby<br>joy<br>casual<br>when<br>fox |  
+| bip_39_word_new_line_1 | lecture |  
+| bip_39_word_new_line_10 | lecture
 stamp
 cup
 absent
@@ -55,7 +55,7 @@ casual
 when
 fox
 grass |  
-| bip_39_word_new_line11 | lecture
+| bip_39_word_new_line_11 | lecture
 stamp
 cup
 absent
@@ -66,7 +66,7 @@ when
 fox
 grass
 want |  
-| bip_39_word_new_line12 | lecture
+| bip_39_word_new_line_12 | lecture
 stamp
 cup
 absent
@@ -78,34 +78,34 @@ fox
 grass
 want
 album |  
-| bip_39_word_new_line2 | lecture
+| bip_39_word_new_line_2 | lecture
 stamp |  
-| bip_39_word_new_line3 | lecture
+| bip_39_word_new_line_3 | lecture
 stamp
 cup |  
-| bip_39_word_new_line4 | lecture
+| bip_39_word_new_line_4 | lecture
 stamp
 cup
 absent |  
-| bip_39_word_new_line5 | lecture
+| bip_39_word_new_line_5 | lecture
 stamp
 cup
 absent
 hobby |  
-| bip_39_word_new_line6 | lecture
+| bip_39_word_new_line_6 | lecture
 stamp
 cup
 absent
 hobby
 joy |  
-| bip_39_word_new_line7 | lecture
+| bip_39_word_new_line_7 | lecture
 stamp
 cup
 absent
 hobby
 joy
 casual |  
-| bip_39_word_new_line8 | lecture
+| bip_39_word_new_line_8 | lecture
 stamp
 cup
 absent
@@ -113,7 +113,7 @@ hobby
 joy
 casual
 when |  
-| bip_39_word_new_line9 | lecture
+| bip_39_word_new_line_9 | lecture
 stamp
 cup
 absent

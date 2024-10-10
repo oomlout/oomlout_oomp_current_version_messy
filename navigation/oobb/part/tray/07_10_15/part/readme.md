@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bronze |  
-| bip_39_word_new_br10 | bronze<br>shoe<br>reward<br>they<br>race<br>grace<br>transfer<br>forum<br>scrap<br>canal |  
-| bip_39_word_new_br11 | bronze<br>shoe<br>reward<br>they<br>race<br>grace<br>transfer<br>forum<br>scrap<br>canal<br>cage |  
-| bip_39_word_new_br12 | bronze<br>shoe<br>reward<br>they<br>race<br>grace<br>transfer<br>forum<br>scrap<br>canal<br>cage<br>audit |  
-| bip_39_word_new_br2 | bronze<br>shoe |  
-| bip_39_word_new_br3 | bronze<br>shoe<br>reward |  
-| bip_39_word_new_br4 | bronze<br>shoe<br>reward<br>they |  
-| bip_39_word_new_br5 | bronze<br>shoe<br>reward<br>they<br>race |  
-| bip_39_word_new_br6 | bronze<br>shoe<br>reward<br>they<br>race<br>grace |  
-| bip_39_word_new_br7 | bronze<br>shoe<br>reward<br>they<br>race<br>grace<br>transfer |  
-| bip_39_word_new_br8 | bronze<br>shoe<br>reward<br>they<br>race<br>grace<br>transfer<br>forum |  
-| bip_39_word_new_br9 | bronze<br>shoe<br>reward<br>they<br>race<br>grace<br>transfer<br>forum<br>scrap |  
-| bip_39_word_new_line1 | bronze |  
-| bip_39_word_new_line10 | bronze
+| bip_39_word_new_br_1 | bronze |  
+| bip_39_word_new_br_10 | bronze<br>shoe<br>reward<br>they<br>race<br>grace<br>transfer<br>forum<br>scrap<br>canal |  
+| bip_39_word_new_br_11 | bronze<br>shoe<br>reward<br>they<br>race<br>grace<br>transfer<br>forum<br>scrap<br>canal<br>cage |  
+| bip_39_word_new_br_12 | bronze<br>shoe<br>reward<br>they<br>race<br>grace<br>transfer<br>forum<br>scrap<br>canal<br>cage<br>audit |  
+| bip_39_word_new_br_2 | bronze<br>shoe |  
+| bip_39_word_new_br_3 | bronze<br>shoe<br>reward |  
+| bip_39_word_new_br_4 | bronze<br>shoe<br>reward<br>they |  
+| bip_39_word_new_br_5 | bronze<br>shoe<br>reward<br>they<br>race |  
+| bip_39_word_new_br_6 | bronze<br>shoe<br>reward<br>they<br>race<br>grace |  
+| bip_39_word_new_br_7 | bronze<br>shoe<br>reward<br>they<br>race<br>grace<br>transfer |  
+| bip_39_word_new_br_8 | bronze<br>shoe<br>reward<br>they<br>race<br>grace<br>transfer<br>forum |  
+| bip_39_word_new_br_9 | bronze<br>shoe<br>reward<br>they<br>race<br>grace<br>transfer<br>forum<br>scrap |  
+| bip_39_word_new_line_1 | bronze |  
+| bip_39_word_new_line_10 | bronze
 shoe
 reward
 they
@@ -55,7 +55,7 @@ transfer
 forum
 scrap
 canal |  
-| bip_39_word_new_line11 | bronze
+| bip_39_word_new_line_11 | bronze
 shoe
 reward
 they
@@ -66,7 +66,7 @@ forum
 scrap
 canal
 cage |  
-| bip_39_word_new_line12 | bronze
+| bip_39_word_new_line_12 | bronze
 shoe
 reward
 they
@@ -78,34 +78,34 @@ scrap
 canal
 cage
 audit |  
-| bip_39_word_new_line2 | bronze
+| bip_39_word_new_line_2 | bronze
 shoe |  
-| bip_39_word_new_line3 | bronze
+| bip_39_word_new_line_3 | bronze
 shoe
 reward |  
-| bip_39_word_new_line4 | bronze
+| bip_39_word_new_line_4 | bronze
 shoe
 reward
 they |  
-| bip_39_word_new_line5 | bronze
+| bip_39_word_new_line_5 | bronze
 shoe
 reward
 they
 race |  
-| bip_39_word_new_line6 | bronze
+| bip_39_word_new_line_6 | bronze
 shoe
 reward
 they
 race
 grace |  
-| bip_39_word_new_line7 | bronze
+| bip_39_word_new_line_7 | bronze
 shoe
 reward
 they
 race
 grace
 transfer |  
-| bip_39_word_new_line8 | bronze
+| bip_39_word_new_line_8 | bronze
 shoe
 reward
 they
@@ -113,7 +113,7 @@ race
 grace
 transfer
 forum |  
-| bip_39_word_new_line9 | bronze
+| bip_39_word_new_line_9 | bronze
 shoe
 reward
 they

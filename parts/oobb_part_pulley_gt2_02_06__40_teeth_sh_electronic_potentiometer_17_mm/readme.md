@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | palace |  
-| bip_39_word_new_br10 | palace<br>gym<br>hotel<br>better<br>shadow<br>palace<br>noise<br>domain<br>multiply<br>grid |  
-| bip_39_word_new_br11 | palace<br>gym<br>hotel<br>better<br>shadow<br>palace<br>noise<br>domain<br>multiply<br>grid<br>lunar |  
-| bip_39_word_new_br12 | palace<br>gym<br>hotel<br>better<br>shadow<br>palace<br>noise<br>domain<br>multiply<br>grid<br>lunar<br>arrow |  
-| bip_39_word_new_br2 | palace<br>gym |  
-| bip_39_word_new_br3 | palace<br>gym<br>hotel |  
-| bip_39_word_new_br4 | palace<br>gym<br>hotel<br>better |  
-| bip_39_word_new_br5 | palace<br>gym<br>hotel<br>better<br>shadow |  
-| bip_39_word_new_br6 | palace<br>gym<br>hotel<br>better<br>shadow<br>palace |  
-| bip_39_word_new_br7 | palace<br>gym<br>hotel<br>better<br>shadow<br>palace<br>noise |  
-| bip_39_word_new_br8 | palace<br>gym<br>hotel<br>better<br>shadow<br>palace<br>noise<br>domain |  
-| bip_39_word_new_br9 | palace<br>gym<br>hotel<br>better<br>shadow<br>palace<br>noise<br>domain<br>multiply |  
-| bip_39_word_new_line1 | palace |  
-| bip_39_word_new_line10 | palace
+| bip_39_word_new_br_1 | palace |  
+| bip_39_word_new_br_10 | palace<br>gym<br>hotel<br>better<br>shadow<br>palace<br>noise<br>domain<br>multiply<br>grid |  
+| bip_39_word_new_br_11 | palace<br>gym<br>hotel<br>better<br>shadow<br>palace<br>noise<br>domain<br>multiply<br>grid<br>lunar |  
+| bip_39_word_new_br_12 | palace<br>gym<br>hotel<br>better<br>shadow<br>palace<br>noise<br>domain<br>multiply<br>grid<br>lunar<br>arrow |  
+| bip_39_word_new_br_2 | palace<br>gym |  
+| bip_39_word_new_br_3 | palace<br>gym<br>hotel |  
+| bip_39_word_new_br_4 | palace<br>gym<br>hotel<br>better |  
+| bip_39_word_new_br_5 | palace<br>gym<br>hotel<br>better<br>shadow |  
+| bip_39_word_new_br_6 | palace<br>gym<br>hotel<br>better<br>shadow<br>palace |  
+| bip_39_word_new_br_7 | palace<br>gym<br>hotel<br>better<br>shadow<br>palace<br>noise |  
+| bip_39_word_new_br_8 | palace<br>gym<br>hotel<br>better<br>shadow<br>palace<br>noise<br>domain |  
+| bip_39_word_new_br_9 | palace<br>gym<br>hotel<br>better<br>shadow<br>palace<br>noise<br>domain<br>multiply |  
+| bip_39_word_new_line_1 | palace |  
+| bip_39_word_new_line_10 | palace
 gym
 hotel
 better
@@ -55,7 +55,7 @@ noise
 domain
 multiply
 grid |  
-| bip_39_word_new_line11 | palace
+| bip_39_word_new_line_11 | palace
 gym
 hotel
 better
@@ -66,7 +66,7 @@ domain
 multiply
 grid
 lunar |  
-| bip_39_word_new_line12 | palace
+| bip_39_word_new_line_12 | palace
 gym
 hotel
 better
@@ -78,34 +78,34 @@ multiply
 grid
 lunar
 arrow |  
-| bip_39_word_new_line2 | palace
+| bip_39_word_new_line_2 | palace
 gym |  
-| bip_39_word_new_line3 | palace
+| bip_39_word_new_line_3 | palace
 gym
 hotel |  
-| bip_39_word_new_line4 | palace
+| bip_39_word_new_line_4 | palace
 gym
 hotel
 better |  
-| bip_39_word_new_line5 | palace
+| bip_39_word_new_line_5 | palace
 gym
 hotel
 better
 shadow |  
-| bip_39_word_new_line6 | palace
+| bip_39_word_new_line_6 | palace
 gym
 hotel
 better
 shadow
 palace |  
-| bip_39_word_new_line7 | palace
+| bip_39_word_new_line_7 | palace
 gym
 hotel
 better
 shadow
 palace
 noise |  
-| bip_39_word_new_line8 | palace
+| bip_39_word_new_line_8 | palace
 gym
 hotel
 better
@@ -113,7 +113,7 @@ shadow
 palace
 noise
 domain |  
-| bip_39_word_new_line9 | palace
+| bip_39_word_new_line_9 | palace
 gym
 hotel
 better

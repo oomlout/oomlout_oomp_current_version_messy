@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | drink |  
-| bip_39_word_new_br10 | drink<br>three<br>crane<br>dog<br>glare<br>crazy<br>crack<br>pave<br>face<br>useless |  
-| bip_39_word_new_br11 | drink<br>three<br>crane<br>dog<br>glare<br>crazy<br>crack<br>pave<br>face<br>useless<br>okay |  
-| bip_39_word_new_br12 | drink<br>three<br>crane<br>dog<br>glare<br>crazy<br>crack<br>pave<br>face<br>useless<br>okay<br>acquire |  
-| bip_39_word_new_br2 | drink<br>three |  
-| bip_39_word_new_br3 | drink<br>three<br>crane |  
-| bip_39_word_new_br4 | drink<br>three<br>crane<br>dog |  
-| bip_39_word_new_br5 | drink<br>three<br>crane<br>dog<br>glare |  
-| bip_39_word_new_br6 | drink<br>three<br>crane<br>dog<br>glare<br>crazy |  
-| bip_39_word_new_br7 | drink<br>three<br>crane<br>dog<br>glare<br>crazy<br>crack |  
-| bip_39_word_new_br8 | drink<br>three<br>crane<br>dog<br>glare<br>crazy<br>crack<br>pave |  
-| bip_39_word_new_br9 | drink<br>three<br>crane<br>dog<br>glare<br>crazy<br>crack<br>pave<br>face |  
-| bip_39_word_new_line1 | drink |  
-| bip_39_word_new_line10 | drink
+| bip_39_word_new_br_1 | drink |  
+| bip_39_word_new_br_10 | drink<br>three<br>crane<br>dog<br>glare<br>crazy<br>crack<br>pave<br>face<br>useless |  
+| bip_39_word_new_br_11 | drink<br>three<br>crane<br>dog<br>glare<br>crazy<br>crack<br>pave<br>face<br>useless<br>okay |  
+| bip_39_word_new_br_12 | drink<br>three<br>crane<br>dog<br>glare<br>crazy<br>crack<br>pave<br>face<br>useless<br>okay<br>acquire |  
+| bip_39_word_new_br_2 | drink<br>three |  
+| bip_39_word_new_br_3 | drink<br>three<br>crane |  
+| bip_39_word_new_br_4 | drink<br>three<br>crane<br>dog |  
+| bip_39_word_new_br_5 | drink<br>three<br>crane<br>dog<br>glare |  
+| bip_39_word_new_br_6 | drink<br>three<br>crane<br>dog<br>glare<br>crazy |  
+| bip_39_word_new_br_7 | drink<br>three<br>crane<br>dog<br>glare<br>crazy<br>crack |  
+| bip_39_word_new_br_8 | drink<br>three<br>crane<br>dog<br>glare<br>crazy<br>crack<br>pave |  
+| bip_39_word_new_br_9 | drink<br>three<br>crane<br>dog<br>glare<br>crazy<br>crack<br>pave<br>face |  
+| bip_39_word_new_line_1 | drink |  
+| bip_39_word_new_line_10 | drink
 three
 crane
 dog
@@ -55,7 +55,7 @@ crack
 pave
 face
 useless |  
-| bip_39_word_new_line11 | drink
+| bip_39_word_new_line_11 | drink
 three
 crane
 dog
@@ -66,7 +66,7 @@ pave
 face
 useless
 okay |  
-| bip_39_word_new_line12 | drink
+| bip_39_word_new_line_12 | drink
 three
 crane
 dog
@@ -78,34 +78,34 @@ face
 useless
 okay
 acquire |  
-| bip_39_word_new_line2 | drink
+| bip_39_word_new_line_2 | drink
 three |  
-| bip_39_word_new_line3 | drink
+| bip_39_word_new_line_3 | drink
 three
 crane |  
-| bip_39_word_new_line4 | drink
+| bip_39_word_new_line_4 | drink
 three
 crane
 dog |  
-| bip_39_word_new_line5 | drink
+| bip_39_word_new_line_5 | drink
 three
 crane
 dog
 glare |  
-| bip_39_word_new_line6 | drink
+| bip_39_word_new_line_6 | drink
 three
 crane
 dog
 glare
 crazy |  
-| bip_39_word_new_line7 | drink
+| bip_39_word_new_line_7 | drink
 three
 crane
 dog
 glare
 crazy
 crack |  
-| bip_39_word_new_line8 | drink
+| bip_39_word_new_line_8 | drink
 three
 crane
 dog
@@ -113,7 +113,7 @@ glare
 crazy
 crack
 pave |  
-| bip_39_word_new_line9 | drink
+| bip_39_word_new_line_9 | drink
 three
 crane
 dog

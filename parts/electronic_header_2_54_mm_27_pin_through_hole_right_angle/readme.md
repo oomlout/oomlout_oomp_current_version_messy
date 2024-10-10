@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | evolve |  
-| bip_39_word_new_br10 | evolve<br>sphere<br>infant<br>ring<br>viable<br>lecture<br>tackle<br>common<br>final<br>elephant |  
-| bip_39_word_new_br11 | evolve<br>sphere<br>infant<br>ring<br>viable<br>lecture<br>tackle<br>common<br>final<br>elephant<br>fall |  
-| bip_39_word_new_br12 | evolve<br>sphere<br>infant<br>ring<br>viable<br>lecture<br>tackle<br>common<br>final<br>elephant<br>fall<br>afford |  
-| bip_39_word_new_br2 | evolve<br>sphere |  
-| bip_39_word_new_br3 | evolve<br>sphere<br>infant |  
-| bip_39_word_new_br4 | evolve<br>sphere<br>infant<br>ring |  
-| bip_39_word_new_br5 | evolve<br>sphere<br>infant<br>ring<br>viable |  
-| bip_39_word_new_br6 | evolve<br>sphere<br>infant<br>ring<br>viable<br>lecture |  
-| bip_39_word_new_br7 | evolve<br>sphere<br>infant<br>ring<br>viable<br>lecture<br>tackle |  
-| bip_39_word_new_br8 | evolve<br>sphere<br>infant<br>ring<br>viable<br>lecture<br>tackle<br>common |  
-| bip_39_word_new_br9 | evolve<br>sphere<br>infant<br>ring<br>viable<br>lecture<br>tackle<br>common<br>final |  
-| bip_39_word_new_line1 | evolve |  
-| bip_39_word_new_line10 | evolve
+| bip_39_word_new_br_1 | evolve |  
+| bip_39_word_new_br_10 | evolve<br>sphere<br>infant<br>ring<br>viable<br>lecture<br>tackle<br>common<br>final<br>elephant |  
+| bip_39_word_new_br_11 | evolve<br>sphere<br>infant<br>ring<br>viable<br>lecture<br>tackle<br>common<br>final<br>elephant<br>fall |  
+| bip_39_word_new_br_12 | evolve<br>sphere<br>infant<br>ring<br>viable<br>lecture<br>tackle<br>common<br>final<br>elephant<br>fall<br>afford |  
+| bip_39_word_new_br_2 | evolve<br>sphere |  
+| bip_39_word_new_br_3 | evolve<br>sphere<br>infant |  
+| bip_39_word_new_br_4 | evolve<br>sphere<br>infant<br>ring |  
+| bip_39_word_new_br_5 | evolve<br>sphere<br>infant<br>ring<br>viable |  
+| bip_39_word_new_br_6 | evolve<br>sphere<br>infant<br>ring<br>viable<br>lecture |  
+| bip_39_word_new_br_7 | evolve<br>sphere<br>infant<br>ring<br>viable<br>lecture<br>tackle |  
+| bip_39_word_new_br_8 | evolve<br>sphere<br>infant<br>ring<br>viable<br>lecture<br>tackle<br>common |  
+| bip_39_word_new_br_9 | evolve<br>sphere<br>infant<br>ring<br>viable<br>lecture<br>tackle<br>common<br>final |  
+| bip_39_word_new_line_1 | evolve |  
+| bip_39_word_new_line_10 | evolve
 sphere
 infant
 ring
@@ -55,7 +55,7 @@ tackle
 common
 final
 elephant |  
-| bip_39_word_new_line11 | evolve
+| bip_39_word_new_line_11 | evolve
 sphere
 infant
 ring
@@ -66,7 +66,7 @@ common
 final
 elephant
 fall |  
-| bip_39_word_new_line12 | evolve
+| bip_39_word_new_line_12 | evolve
 sphere
 infant
 ring
@@ -78,34 +78,34 @@ final
 elephant
 fall
 afford |  
-| bip_39_word_new_line2 | evolve
+| bip_39_word_new_line_2 | evolve
 sphere |  
-| bip_39_word_new_line3 | evolve
+| bip_39_word_new_line_3 | evolve
 sphere
 infant |  
-| bip_39_word_new_line4 | evolve
+| bip_39_word_new_line_4 | evolve
 sphere
 infant
 ring |  
-| bip_39_word_new_line5 | evolve
+| bip_39_word_new_line_5 | evolve
 sphere
 infant
 ring
 viable |  
-| bip_39_word_new_line6 | evolve
+| bip_39_word_new_line_6 | evolve
 sphere
 infant
 ring
 viable
 lecture |  
-| bip_39_word_new_line7 | evolve
+| bip_39_word_new_line_7 | evolve
 sphere
 infant
 ring
 viable
 lecture
 tackle |  
-| bip_39_word_new_line8 | evolve
+| bip_39_word_new_line_8 | evolve
 sphere
 infant
 ring
@@ -113,7 +113,7 @@ viable
 lecture
 tackle
 common |  
-| bip_39_word_new_line9 | evolve
+| bip_39_word_new_line_9 | evolve
 sphere
 infant
 ring

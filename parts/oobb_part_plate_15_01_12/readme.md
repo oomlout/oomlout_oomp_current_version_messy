@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | require |  
-| bip_39_word_new_br10 | require<br>sting<br>angle<br>chair<br>panel<br>notice<br>apple<br>elder<br>grit<br>pyramid |  
-| bip_39_word_new_br11 | require<br>sting<br>angle<br>chair<br>panel<br>notice<br>apple<br>elder<br>grit<br>pyramid<br>person |  
-| bip_39_word_new_br12 | require<br>sting<br>angle<br>chair<br>panel<br>notice<br>apple<br>elder<br>grit<br>pyramid<br>person<br>apart |  
-| bip_39_word_new_br2 | require<br>sting |  
-| bip_39_word_new_br3 | require<br>sting<br>angle |  
-| bip_39_word_new_br4 | require<br>sting<br>angle<br>chair |  
-| bip_39_word_new_br5 | require<br>sting<br>angle<br>chair<br>panel |  
-| bip_39_word_new_br6 | require<br>sting<br>angle<br>chair<br>panel<br>notice |  
-| bip_39_word_new_br7 | require<br>sting<br>angle<br>chair<br>panel<br>notice<br>apple |  
-| bip_39_word_new_br8 | require<br>sting<br>angle<br>chair<br>panel<br>notice<br>apple<br>elder |  
-| bip_39_word_new_br9 | require<br>sting<br>angle<br>chair<br>panel<br>notice<br>apple<br>elder<br>grit |  
-| bip_39_word_new_line1 | require |  
-| bip_39_word_new_line10 | require
+| bip_39_word_new_br_1 | require |  
+| bip_39_word_new_br_10 | require<br>sting<br>angle<br>chair<br>panel<br>notice<br>apple<br>elder<br>grit<br>pyramid |  
+| bip_39_word_new_br_11 | require<br>sting<br>angle<br>chair<br>panel<br>notice<br>apple<br>elder<br>grit<br>pyramid<br>person |  
+| bip_39_word_new_br_12 | require<br>sting<br>angle<br>chair<br>panel<br>notice<br>apple<br>elder<br>grit<br>pyramid<br>person<br>apart |  
+| bip_39_word_new_br_2 | require<br>sting |  
+| bip_39_word_new_br_3 | require<br>sting<br>angle |  
+| bip_39_word_new_br_4 | require<br>sting<br>angle<br>chair |  
+| bip_39_word_new_br_5 | require<br>sting<br>angle<br>chair<br>panel |  
+| bip_39_word_new_br_6 | require<br>sting<br>angle<br>chair<br>panel<br>notice |  
+| bip_39_word_new_br_7 | require<br>sting<br>angle<br>chair<br>panel<br>notice<br>apple |  
+| bip_39_word_new_br_8 | require<br>sting<br>angle<br>chair<br>panel<br>notice<br>apple<br>elder |  
+| bip_39_word_new_br_9 | require<br>sting<br>angle<br>chair<br>panel<br>notice<br>apple<br>elder<br>grit |  
+| bip_39_word_new_line_1 | require |  
+| bip_39_word_new_line_10 | require
 sting
 angle
 chair
@@ -55,7 +55,7 @@ apple
 elder
 grit
 pyramid |  
-| bip_39_word_new_line11 | require
+| bip_39_word_new_line_11 | require
 sting
 angle
 chair
@@ -66,7 +66,7 @@ elder
 grit
 pyramid
 person |  
-| bip_39_word_new_line12 | require
+| bip_39_word_new_line_12 | require
 sting
 angle
 chair
@@ -78,34 +78,34 @@ grit
 pyramid
 person
 apart |  
-| bip_39_word_new_line2 | require
+| bip_39_word_new_line_2 | require
 sting |  
-| bip_39_word_new_line3 | require
+| bip_39_word_new_line_3 | require
 sting
 angle |  
-| bip_39_word_new_line4 | require
+| bip_39_word_new_line_4 | require
 sting
 angle
 chair |  
-| bip_39_word_new_line5 | require
+| bip_39_word_new_line_5 | require
 sting
 angle
 chair
 panel |  
-| bip_39_word_new_line6 | require
+| bip_39_word_new_line_6 | require
 sting
 angle
 chair
 panel
 notice |  
-| bip_39_word_new_line7 | require
+| bip_39_word_new_line_7 | require
 sting
 angle
 chair
 panel
 notice
 apple |  
-| bip_39_word_new_line8 | require
+| bip_39_word_new_line_8 | require
 sting
 angle
 chair
@@ -113,7 +113,7 @@ panel
 notice
 apple
 elder |  
-| bip_39_word_new_line9 | require
+| bip_39_word_new_line_9 | require
 sting
 angle
 chair

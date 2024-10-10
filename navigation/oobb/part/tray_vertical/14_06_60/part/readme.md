@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | uphold |  
-| bip_39_word_new_br10 | uphold<br>genuine<br>inject<br>clock<br>young<br>example<br>shield<br>found<br>humor<br>axis |  
-| bip_39_word_new_br11 | uphold<br>genuine<br>inject<br>clock<br>young<br>example<br>shield<br>found<br>humor<br>axis<br>worth |  
-| bip_39_word_new_br12 | uphold<br>genuine<br>inject<br>clock<br>young<br>example<br>shield<br>found<br>humor<br>axis<br>worth<br>aunt |  
-| bip_39_word_new_br2 | uphold<br>genuine |  
-| bip_39_word_new_br3 | uphold<br>genuine<br>inject |  
-| bip_39_word_new_br4 | uphold<br>genuine<br>inject<br>clock |  
-| bip_39_word_new_br5 | uphold<br>genuine<br>inject<br>clock<br>young |  
-| bip_39_word_new_br6 | uphold<br>genuine<br>inject<br>clock<br>young<br>example |  
-| bip_39_word_new_br7 | uphold<br>genuine<br>inject<br>clock<br>young<br>example<br>shield |  
-| bip_39_word_new_br8 | uphold<br>genuine<br>inject<br>clock<br>young<br>example<br>shield<br>found |  
-| bip_39_word_new_br9 | uphold<br>genuine<br>inject<br>clock<br>young<br>example<br>shield<br>found<br>humor |  
-| bip_39_word_new_line1 | uphold |  
-| bip_39_word_new_line10 | uphold
+| bip_39_word_new_br_1 | uphold |  
+| bip_39_word_new_br_10 | uphold<br>genuine<br>inject<br>clock<br>young<br>example<br>shield<br>found<br>humor<br>axis |  
+| bip_39_word_new_br_11 | uphold<br>genuine<br>inject<br>clock<br>young<br>example<br>shield<br>found<br>humor<br>axis<br>worth |  
+| bip_39_word_new_br_12 | uphold<br>genuine<br>inject<br>clock<br>young<br>example<br>shield<br>found<br>humor<br>axis<br>worth<br>aunt |  
+| bip_39_word_new_br_2 | uphold<br>genuine |  
+| bip_39_word_new_br_3 | uphold<br>genuine<br>inject |  
+| bip_39_word_new_br_4 | uphold<br>genuine<br>inject<br>clock |  
+| bip_39_word_new_br_5 | uphold<br>genuine<br>inject<br>clock<br>young |  
+| bip_39_word_new_br_6 | uphold<br>genuine<br>inject<br>clock<br>young<br>example |  
+| bip_39_word_new_br_7 | uphold<br>genuine<br>inject<br>clock<br>young<br>example<br>shield |  
+| bip_39_word_new_br_8 | uphold<br>genuine<br>inject<br>clock<br>young<br>example<br>shield<br>found |  
+| bip_39_word_new_br_9 | uphold<br>genuine<br>inject<br>clock<br>young<br>example<br>shield<br>found<br>humor |  
+| bip_39_word_new_line_1 | uphold |  
+| bip_39_word_new_line_10 | uphold
 genuine
 inject
 clock
@@ -55,7 +55,7 @@ shield
 found
 humor
 axis |  
-| bip_39_word_new_line11 | uphold
+| bip_39_word_new_line_11 | uphold
 genuine
 inject
 clock
@@ -66,7 +66,7 @@ found
 humor
 axis
 worth |  
-| bip_39_word_new_line12 | uphold
+| bip_39_word_new_line_12 | uphold
 genuine
 inject
 clock
@@ -78,34 +78,34 @@ humor
 axis
 worth
 aunt |  
-| bip_39_word_new_line2 | uphold
+| bip_39_word_new_line_2 | uphold
 genuine |  
-| bip_39_word_new_line3 | uphold
+| bip_39_word_new_line_3 | uphold
 genuine
 inject |  
-| bip_39_word_new_line4 | uphold
+| bip_39_word_new_line_4 | uphold
 genuine
 inject
 clock |  
-| bip_39_word_new_line5 | uphold
+| bip_39_word_new_line_5 | uphold
 genuine
 inject
 clock
 young |  
-| bip_39_word_new_line6 | uphold
+| bip_39_word_new_line_6 | uphold
 genuine
 inject
 clock
 young
 example |  
-| bip_39_word_new_line7 | uphold
+| bip_39_word_new_line_7 | uphold
 genuine
 inject
 clock
 young
 example
 shield |  
-| bip_39_word_new_line8 | uphold
+| bip_39_word_new_line_8 | uphold
 genuine
 inject
 clock
@@ -113,7 +113,7 @@ young
 example
 shield
 found |  
-| bip_39_word_new_line9 | uphold
+| bip_39_word_new_line_9 | uphold
 genuine
 inject
 clock

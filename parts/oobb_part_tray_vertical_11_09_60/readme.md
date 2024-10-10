@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | critic |  
-| bip_39_word_new_br10 | critic<br>shallow<br>ozone<br>recipe<br>junk<br>spirit<br>sentence<br>dish<br>absorb<br>bridge |  
-| bip_39_word_new_br11 | critic<br>shallow<br>ozone<br>recipe<br>junk<br>spirit<br>sentence<br>dish<br>absorb<br>bridge<br>enrich |  
-| bip_39_word_new_br12 | critic<br>shallow<br>ozone<br>recipe<br>junk<br>spirit<br>sentence<br>dish<br>absorb<br>bridge<br>enrich<br>addict |  
-| bip_39_word_new_br2 | critic<br>shallow |  
-| bip_39_word_new_br3 | critic<br>shallow<br>ozone |  
-| bip_39_word_new_br4 | critic<br>shallow<br>ozone<br>recipe |  
-| bip_39_word_new_br5 | critic<br>shallow<br>ozone<br>recipe<br>junk |  
-| bip_39_word_new_br6 | critic<br>shallow<br>ozone<br>recipe<br>junk<br>spirit |  
-| bip_39_word_new_br7 | critic<br>shallow<br>ozone<br>recipe<br>junk<br>spirit<br>sentence |  
-| bip_39_word_new_br8 | critic<br>shallow<br>ozone<br>recipe<br>junk<br>spirit<br>sentence<br>dish |  
-| bip_39_word_new_br9 | critic<br>shallow<br>ozone<br>recipe<br>junk<br>spirit<br>sentence<br>dish<br>absorb |  
-| bip_39_word_new_line1 | critic |  
-| bip_39_word_new_line10 | critic
+| bip_39_word_new_br_1 | critic |  
+| bip_39_word_new_br_10 | critic<br>shallow<br>ozone<br>recipe<br>junk<br>spirit<br>sentence<br>dish<br>absorb<br>bridge |  
+| bip_39_word_new_br_11 | critic<br>shallow<br>ozone<br>recipe<br>junk<br>spirit<br>sentence<br>dish<br>absorb<br>bridge<br>enrich |  
+| bip_39_word_new_br_12 | critic<br>shallow<br>ozone<br>recipe<br>junk<br>spirit<br>sentence<br>dish<br>absorb<br>bridge<br>enrich<br>addict |  
+| bip_39_word_new_br_2 | critic<br>shallow |  
+| bip_39_word_new_br_3 | critic<br>shallow<br>ozone |  
+| bip_39_word_new_br_4 | critic<br>shallow<br>ozone<br>recipe |  
+| bip_39_word_new_br_5 | critic<br>shallow<br>ozone<br>recipe<br>junk |  
+| bip_39_word_new_br_6 | critic<br>shallow<br>ozone<br>recipe<br>junk<br>spirit |  
+| bip_39_word_new_br_7 | critic<br>shallow<br>ozone<br>recipe<br>junk<br>spirit<br>sentence |  
+| bip_39_word_new_br_8 | critic<br>shallow<br>ozone<br>recipe<br>junk<br>spirit<br>sentence<br>dish |  
+| bip_39_word_new_br_9 | critic<br>shallow<br>ozone<br>recipe<br>junk<br>spirit<br>sentence<br>dish<br>absorb |  
+| bip_39_word_new_line_1 | critic |  
+| bip_39_word_new_line_10 | critic
 shallow
 ozone
 recipe
@@ -55,7 +55,7 @@ sentence
 dish
 absorb
 bridge |  
-| bip_39_word_new_line11 | critic
+| bip_39_word_new_line_11 | critic
 shallow
 ozone
 recipe
@@ -66,7 +66,7 @@ dish
 absorb
 bridge
 enrich |  
-| bip_39_word_new_line12 | critic
+| bip_39_word_new_line_12 | critic
 shallow
 ozone
 recipe
@@ -78,34 +78,34 @@ absorb
 bridge
 enrich
 addict |  
-| bip_39_word_new_line2 | critic
+| bip_39_word_new_line_2 | critic
 shallow |  
-| bip_39_word_new_line3 | critic
+| bip_39_word_new_line_3 | critic
 shallow
 ozone |  
-| bip_39_word_new_line4 | critic
+| bip_39_word_new_line_4 | critic
 shallow
 ozone
 recipe |  
-| bip_39_word_new_line5 | critic
+| bip_39_word_new_line_5 | critic
 shallow
 ozone
 recipe
 junk |  
-| bip_39_word_new_line6 | critic
+| bip_39_word_new_line_6 | critic
 shallow
 ozone
 recipe
 junk
 spirit |  
-| bip_39_word_new_line7 | critic
+| bip_39_word_new_line_7 | critic
 shallow
 ozone
 recipe
 junk
 spirit
 sentence |  
-| bip_39_word_new_line8 | critic
+| bip_39_word_new_line_8 | critic
 shallow
 ozone
 recipe
@@ -113,7 +113,7 @@ junk
 spirit
 sentence
 dish |  
-| bip_39_word_new_line9 | critic
+| bip_39_word_new_line_9 | critic
 shallow
 ozone
 recipe

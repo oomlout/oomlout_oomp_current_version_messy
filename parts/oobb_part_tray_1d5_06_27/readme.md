@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sense |  
-| bip_39_word_new_br10 | sense<br>fortune<br>lumber<br>almost<br>pull<br>range<br>crop<br>deputy<br>crouch<br>orbit |  
-| bip_39_word_new_br11 | sense<br>fortune<br>lumber<br>almost<br>pull<br>range<br>crop<br>deputy<br>crouch<br>orbit<br>deny |  
-| bip_39_word_new_br12 | sense<br>fortune<br>lumber<br>almost<br>pull<br>range<br>crop<br>deputy<br>crouch<br>orbit<br>deny<br>auto |  
-| bip_39_word_new_br2 | sense<br>fortune |  
-| bip_39_word_new_br3 | sense<br>fortune<br>lumber |  
-| bip_39_word_new_br4 | sense<br>fortune<br>lumber<br>almost |  
-| bip_39_word_new_br5 | sense<br>fortune<br>lumber<br>almost<br>pull |  
-| bip_39_word_new_br6 | sense<br>fortune<br>lumber<br>almost<br>pull<br>range |  
-| bip_39_word_new_br7 | sense<br>fortune<br>lumber<br>almost<br>pull<br>range<br>crop |  
-| bip_39_word_new_br8 | sense<br>fortune<br>lumber<br>almost<br>pull<br>range<br>crop<br>deputy |  
-| bip_39_word_new_br9 | sense<br>fortune<br>lumber<br>almost<br>pull<br>range<br>crop<br>deputy<br>crouch |  
-| bip_39_word_new_line1 | sense |  
-| bip_39_word_new_line10 | sense
+| bip_39_word_new_br_1 | sense |  
+| bip_39_word_new_br_10 | sense<br>fortune<br>lumber<br>almost<br>pull<br>range<br>crop<br>deputy<br>crouch<br>orbit |  
+| bip_39_word_new_br_11 | sense<br>fortune<br>lumber<br>almost<br>pull<br>range<br>crop<br>deputy<br>crouch<br>orbit<br>deny |  
+| bip_39_word_new_br_12 | sense<br>fortune<br>lumber<br>almost<br>pull<br>range<br>crop<br>deputy<br>crouch<br>orbit<br>deny<br>auto |  
+| bip_39_word_new_br_2 | sense<br>fortune |  
+| bip_39_word_new_br_3 | sense<br>fortune<br>lumber |  
+| bip_39_word_new_br_4 | sense<br>fortune<br>lumber<br>almost |  
+| bip_39_word_new_br_5 | sense<br>fortune<br>lumber<br>almost<br>pull |  
+| bip_39_word_new_br_6 | sense<br>fortune<br>lumber<br>almost<br>pull<br>range |  
+| bip_39_word_new_br_7 | sense<br>fortune<br>lumber<br>almost<br>pull<br>range<br>crop |  
+| bip_39_word_new_br_8 | sense<br>fortune<br>lumber<br>almost<br>pull<br>range<br>crop<br>deputy |  
+| bip_39_word_new_br_9 | sense<br>fortune<br>lumber<br>almost<br>pull<br>range<br>crop<br>deputy<br>crouch |  
+| bip_39_word_new_line_1 | sense |  
+| bip_39_word_new_line_10 | sense
 fortune
 lumber
 almost
@@ -55,7 +55,7 @@ crop
 deputy
 crouch
 orbit |  
-| bip_39_word_new_line11 | sense
+| bip_39_word_new_line_11 | sense
 fortune
 lumber
 almost
@@ -66,7 +66,7 @@ deputy
 crouch
 orbit
 deny |  
-| bip_39_word_new_line12 | sense
+| bip_39_word_new_line_12 | sense
 fortune
 lumber
 almost
@@ -78,34 +78,34 @@ crouch
 orbit
 deny
 auto |  
-| bip_39_word_new_line2 | sense
+| bip_39_word_new_line_2 | sense
 fortune |  
-| bip_39_word_new_line3 | sense
+| bip_39_word_new_line_3 | sense
 fortune
 lumber |  
-| bip_39_word_new_line4 | sense
+| bip_39_word_new_line_4 | sense
 fortune
 lumber
 almost |  
-| bip_39_word_new_line5 | sense
+| bip_39_word_new_line_5 | sense
 fortune
 lumber
 almost
 pull |  
-| bip_39_word_new_line6 | sense
+| bip_39_word_new_line_6 | sense
 fortune
 lumber
 almost
 pull
 range |  
-| bip_39_word_new_line7 | sense
+| bip_39_word_new_line_7 | sense
 fortune
 lumber
 almost
 pull
 range
 crop |  
-| bip_39_word_new_line8 | sense
+| bip_39_word_new_line_8 | sense
 fortune
 lumber
 almost
@@ -113,7 +113,7 @@ pull
 range
 crop
 deputy |  
-| bip_39_word_new_line9 | sense
+| bip_39_word_new_line_9 | sense
 fortune
 lumber
 almost

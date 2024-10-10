@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | disagree |  
-| bip_39_word_new_br10 | disagree<br>small<br>ship<br>divert<br>relax<br>hidden<br>food<br>door<br>still<br>vacant |  
-| bip_39_word_new_br11 | disagree<br>small<br>ship<br>divert<br>relax<br>hidden<br>food<br>door<br>still<br>vacant<br>pumpkin |  
-| bip_39_word_new_br12 | disagree<br>small<br>ship<br>divert<br>relax<br>hidden<br>food<br>door<br>still<br>vacant<br>pumpkin<br>amazing |  
-| bip_39_word_new_br2 | disagree<br>small |  
-| bip_39_word_new_br3 | disagree<br>small<br>ship |  
-| bip_39_word_new_br4 | disagree<br>small<br>ship<br>divert |  
-| bip_39_word_new_br5 | disagree<br>small<br>ship<br>divert<br>relax |  
-| bip_39_word_new_br6 | disagree<br>small<br>ship<br>divert<br>relax<br>hidden |  
-| bip_39_word_new_br7 | disagree<br>small<br>ship<br>divert<br>relax<br>hidden<br>food |  
-| bip_39_word_new_br8 | disagree<br>small<br>ship<br>divert<br>relax<br>hidden<br>food<br>door |  
-| bip_39_word_new_br9 | disagree<br>small<br>ship<br>divert<br>relax<br>hidden<br>food<br>door<br>still |  
-| bip_39_word_new_line1 | disagree |  
-| bip_39_word_new_line10 | disagree
+| bip_39_word_new_br_1 | disagree |  
+| bip_39_word_new_br_10 | disagree<br>small<br>ship<br>divert<br>relax<br>hidden<br>food<br>door<br>still<br>vacant |  
+| bip_39_word_new_br_11 | disagree<br>small<br>ship<br>divert<br>relax<br>hidden<br>food<br>door<br>still<br>vacant<br>pumpkin |  
+| bip_39_word_new_br_12 | disagree<br>small<br>ship<br>divert<br>relax<br>hidden<br>food<br>door<br>still<br>vacant<br>pumpkin<br>amazing |  
+| bip_39_word_new_br_2 | disagree<br>small |  
+| bip_39_word_new_br_3 | disagree<br>small<br>ship |  
+| bip_39_word_new_br_4 | disagree<br>small<br>ship<br>divert |  
+| bip_39_word_new_br_5 | disagree<br>small<br>ship<br>divert<br>relax |  
+| bip_39_word_new_br_6 | disagree<br>small<br>ship<br>divert<br>relax<br>hidden |  
+| bip_39_word_new_br_7 | disagree<br>small<br>ship<br>divert<br>relax<br>hidden<br>food |  
+| bip_39_word_new_br_8 | disagree<br>small<br>ship<br>divert<br>relax<br>hidden<br>food<br>door |  
+| bip_39_word_new_br_9 | disagree<br>small<br>ship<br>divert<br>relax<br>hidden<br>food<br>door<br>still |  
+| bip_39_word_new_line_1 | disagree |  
+| bip_39_word_new_line_10 | disagree
 small
 ship
 divert
@@ -55,7 +55,7 @@ food
 door
 still
 vacant |  
-| bip_39_word_new_line11 | disagree
+| bip_39_word_new_line_11 | disagree
 small
 ship
 divert
@@ -66,7 +66,7 @@ door
 still
 vacant
 pumpkin |  
-| bip_39_word_new_line12 | disagree
+| bip_39_word_new_line_12 | disagree
 small
 ship
 divert
@@ -78,34 +78,34 @@ still
 vacant
 pumpkin
 amazing |  
-| bip_39_word_new_line2 | disagree
+| bip_39_word_new_line_2 | disagree
 small |  
-| bip_39_word_new_line3 | disagree
+| bip_39_word_new_line_3 | disagree
 small
 ship |  
-| bip_39_word_new_line4 | disagree
+| bip_39_word_new_line_4 | disagree
 small
 ship
 divert |  
-| bip_39_word_new_line5 | disagree
+| bip_39_word_new_line_5 | disagree
 small
 ship
 divert
 relax |  
-| bip_39_word_new_line6 | disagree
+| bip_39_word_new_line_6 | disagree
 small
 ship
 divert
 relax
 hidden |  
-| bip_39_word_new_line7 | disagree
+| bip_39_word_new_line_7 | disagree
 small
 ship
 divert
 relax
 hidden
 food |  
-| bip_39_word_new_line8 | disagree
+| bip_39_word_new_line_8 | disagree
 small
 ship
 divert
@@ -113,7 +113,7 @@ relax
 hidden
 food
 door |  
-| bip_39_word_new_line9 | disagree
+| bip_39_word_new_line_9 | disagree
 small
 ship
 divert

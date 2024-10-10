@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | citizen |  
-| bip_39_word_new_br10 | citizen<br>mammal<br>lounge<br>chunk<br>tray<br>error<br>captain<br>trend<br>congress<br>gesture |  
-| bip_39_word_new_br11 | citizen<br>mammal<br>lounge<br>chunk<br>tray<br>error<br>captain<br>trend<br>congress<br>gesture<br>cluster |  
-| bip_39_word_new_br12 | citizen<br>mammal<br>lounge<br>chunk<br>tray<br>error<br>captain<br>trend<br>congress<br>gesture<br>cluster<br>also |  
-| bip_39_word_new_br2 | citizen<br>mammal |  
-| bip_39_word_new_br3 | citizen<br>mammal<br>lounge |  
-| bip_39_word_new_br4 | citizen<br>mammal<br>lounge<br>chunk |  
-| bip_39_word_new_br5 | citizen<br>mammal<br>lounge<br>chunk<br>tray |  
-| bip_39_word_new_br6 | citizen<br>mammal<br>lounge<br>chunk<br>tray<br>error |  
-| bip_39_word_new_br7 | citizen<br>mammal<br>lounge<br>chunk<br>tray<br>error<br>captain |  
-| bip_39_word_new_br8 | citizen<br>mammal<br>lounge<br>chunk<br>tray<br>error<br>captain<br>trend |  
-| bip_39_word_new_br9 | citizen<br>mammal<br>lounge<br>chunk<br>tray<br>error<br>captain<br>trend<br>congress |  
-| bip_39_word_new_line1 | citizen |  
-| bip_39_word_new_line10 | citizen
+| bip_39_word_new_br_1 | citizen |  
+| bip_39_word_new_br_10 | citizen<br>mammal<br>lounge<br>chunk<br>tray<br>error<br>captain<br>trend<br>congress<br>gesture |  
+| bip_39_word_new_br_11 | citizen<br>mammal<br>lounge<br>chunk<br>tray<br>error<br>captain<br>trend<br>congress<br>gesture<br>cluster |  
+| bip_39_word_new_br_12 | citizen<br>mammal<br>lounge<br>chunk<br>tray<br>error<br>captain<br>trend<br>congress<br>gesture<br>cluster<br>also |  
+| bip_39_word_new_br_2 | citizen<br>mammal |  
+| bip_39_word_new_br_3 | citizen<br>mammal<br>lounge |  
+| bip_39_word_new_br_4 | citizen<br>mammal<br>lounge<br>chunk |  
+| bip_39_word_new_br_5 | citizen<br>mammal<br>lounge<br>chunk<br>tray |  
+| bip_39_word_new_br_6 | citizen<br>mammal<br>lounge<br>chunk<br>tray<br>error |  
+| bip_39_word_new_br_7 | citizen<br>mammal<br>lounge<br>chunk<br>tray<br>error<br>captain |  
+| bip_39_word_new_br_8 | citizen<br>mammal<br>lounge<br>chunk<br>tray<br>error<br>captain<br>trend |  
+| bip_39_word_new_br_9 | citizen<br>mammal<br>lounge<br>chunk<br>tray<br>error<br>captain<br>trend<br>congress |  
+| bip_39_word_new_line_1 | citizen |  
+| bip_39_word_new_line_10 | citizen
 mammal
 lounge
 chunk
@@ -55,7 +55,7 @@ captain
 trend
 congress
 gesture |  
-| bip_39_word_new_line11 | citizen
+| bip_39_word_new_line_11 | citizen
 mammal
 lounge
 chunk
@@ -66,7 +66,7 @@ trend
 congress
 gesture
 cluster |  
-| bip_39_word_new_line12 | citizen
+| bip_39_word_new_line_12 | citizen
 mammal
 lounge
 chunk
@@ -78,34 +78,34 @@ congress
 gesture
 cluster
 also |  
-| bip_39_word_new_line2 | citizen
+| bip_39_word_new_line_2 | citizen
 mammal |  
-| bip_39_word_new_line3 | citizen
+| bip_39_word_new_line_3 | citizen
 mammal
 lounge |  
-| bip_39_word_new_line4 | citizen
+| bip_39_word_new_line_4 | citizen
 mammal
 lounge
 chunk |  
-| bip_39_word_new_line5 | citizen
+| bip_39_word_new_line_5 | citizen
 mammal
 lounge
 chunk
 tray |  
-| bip_39_word_new_line6 | citizen
+| bip_39_word_new_line_6 | citizen
 mammal
 lounge
 chunk
 tray
 error |  
-| bip_39_word_new_line7 | citizen
+| bip_39_word_new_line_7 | citizen
 mammal
 lounge
 chunk
 tray
 error
 captain |  
-| bip_39_word_new_line8 | citizen
+| bip_39_word_new_line_8 | citizen
 mammal
 lounge
 chunk
@@ -113,7 +113,7 @@ tray
 error
 captain
 trend |  
-| bip_39_word_new_line9 | citizen
+| bip_39_word_new_line_9 | citizen
 mammal
 lounge
 chunk

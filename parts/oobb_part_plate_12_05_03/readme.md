@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | jealous |  
-| bip_39_word_new_br10 | jealous<br>people<br>seek<br>border<br>domain<br>knock<br>wife<br>moment<br>edit<br>target |  
-| bip_39_word_new_br11 | jealous<br>people<br>seek<br>border<br>domain<br>knock<br>wife<br>moment<br>edit<br>target<br>excuse |  
-| bip_39_word_new_br12 | jealous<br>people<br>seek<br>border<br>domain<br>knock<br>wife<br>moment<br>edit<br>target<br>excuse<br>approve |  
-| bip_39_word_new_br2 | jealous<br>people |  
-| bip_39_word_new_br3 | jealous<br>people<br>seek |  
-| bip_39_word_new_br4 | jealous<br>people<br>seek<br>border |  
-| bip_39_word_new_br5 | jealous<br>people<br>seek<br>border<br>domain |  
-| bip_39_word_new_br6 | jealous<br>people<br>seek<br>border<br>domain<br>knock |  
-| bip_39_word_new_br7 | jealous<br>people<br>seek<br>border<br>domain<br>knock<br>wife |  
-| bip_39_word_new_br8 | jealous<br>people<br>seek<br>border<br>domain<br>knock<br>wife<br>moment |  
-| bip_39_word_new_br9 | jealous<br>people<br>seek<br>border<br>domain<br>knock<br>wife<br>moment<br>edit |  
-| bip_39_word_new_line1 | jealous |  
-| bip_39_word_new_line10 | jealous
+| bip_39_word_new_br_1 | jealous |  
+| bip_39_word_new_br_10 | jealous<br>people<br>seek<br>border<br>domain<br>knock<br>wife<br>moment<br>edit<br>target |  
+| bip_39_word_new_br_11 | jealous<br>people<br>seek<br>border<br>domain<br>knock<br>wife<br>moment<br>edit<br>target<br>excuse |  
+| bip_39_word_new_br_12 | jealous<br>people<br>seek<br>border<br>domain<br>knock<br>wife<br>moment<br>edit<br>target<br>excuse<br>approve |  
+| bip_39_word_new_br_2 | jealous<br>people |  
+| bip_39_word_new_br_3 | jealous<br>people<br>seek |  
+| bip_39_word_new_br_4 | jealous<br>people<br>seek<br>border |  
+| bip_39_word_new_br_5 | jealous<br>people<br>seek<br>border<br>domain |  
+| bip_39_word_new_br_6 | jealous<br>people<br>seek<br>border<br>domain<br>knock |  
+| bip_39_word_new_br_7 | jealous<br>people<br>seek<br>border<br>domain<br>knock<br>wife |  
+| bip_39_word_new_br_8 | jealous<br>people<br>seek<br>border<br>domain<br>knock<br>wife<br>moment |  
+| bip_39_word_new_br_9 | jealous<br>people<br>seek<br>border<br>domain<br>knock<br>wife<br>moment<br>edit |  
+| bip_39_word_new_line_1 | jealous |  
+| bip_39_word_new_line_10 | jealous
 people
 seek
 border
@@ -55,7 +55,7 @@ wife
 moment
 edit
 target |  
-| bip_39_word_new_line11 | jealous
+| bip_39_word_new_line_11 | jealous
 people
 seek
 border
@@ -66,7 +66,7 @@ moment
 edit
 target
 excuse |  
-| bip_39_word_new_line12 | jealous
+| bip_39_word_new_line_12 | jealous
 people
 seek
 border
@@ -78,34 +78,34 @@ edit
 target
 excuse
 approve |  
-| bip_39_word_new_line2 | jealous
+| bip_39_word_new_line_2 | jealous
 people |  
-| bip_39_word_new_line3 | jealous
+| bip_39_word_new_line_3 | jealous
 people
 seek |  
-| bip_39_word_new_line4 | jealous
+| bip_39_word_new_line_4 | jealous
 people
 seek
 border |  
-| bip_39_word_new_line5 | jealous
+| bip_39_word_new_line_5 | jealous
 people
 seek
 border
 domain |  
-| bip_39_word_new_line6 | jealous
+| bip_39_word_new_line_6 | jealous
 people
 seek
 border
 domain
 knock |  
-| bip_39_word_new_line7 | jealous
+| bip_39_word_new_line_7 | jealous
 people
 seek
 border
 domain
 knock
 wife |  
-| bip_39_word_new_line8 | jealous
+| bip_39_word_new_line_8 | jealous
 people
 seek
 border
@@ -113,7 +113,7 @@ domain
 knock
 wife
 moment |  
-| bip_39_word_new_line9 | jealous
+| bip_39_word_new_line_9 | jealous
 people
 seek
 border

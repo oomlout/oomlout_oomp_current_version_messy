@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | boring |  
-| bip_39_word_new_br10 | boring<br>control<br>humor<br>flip<br>design<br>steak<br>tooth<br>absent<br>knife<br>stomach |  
-| bip_39_word_new_br11 | boring<br>control<br>humor<br>flip<br>design<br>steak<br>tooth<br>absent<br>knife<br>stomach<br>story |  
-| bip_39_word_new_br12 | boring<br>control<br>humor<br>flip<br>design<br>steak<br>tooth<br>absent<br>knife<br>stomach<br>story<br>alley |  
-| bip_39_word_new_br2 | boring<br>control |  
-| bip_39_word_new_br3 | boring<br>control<br>humor |  
-| bip_39_word_new_br4 | boring<br>control<br>humor<br>flip |  
-| bip_39_word_new_br5 | boring<br>control<br>humor<br>flip<br>design |  
-| bip_39_word_new_br6 | boring<br>control<br>humor<br>flip<br>design<br>steak |  
-| bip_39_word_new_br7 | boring<br>control<br>humor<br>flip<br>design<br>steak<br>tooth |  
-| bip_39_word_new_br8 | boring<br>control<br>humor<br>flip<br>design<br>steak<br>tooth<br>absent |  
-| bip_39_word_new_br9 | boring<br>control<br>humor<br>flip<br>design<br>steak<br>tooth<br>absent<br>knife |  
-| bip_39_word_new_line1 | boring |  
-| bip_39_word_new_line10 | boring
+| bip_39_word_new_br_1 | boring |  
+| bip_39_word_new_br_10 | boring<br>control<br>humor<br>flip<br>design<br>steak<br>tooth<br>absent<br>knife<br>stomach |  
+| bip_39_word_new_br_11 | boring<br>control<br>humor<br>flip<br>design<br>steak<br>tooth<br>absent<br>knife<br>stomach<br>story |  
+| bip_39_word_new_br_12 | boring<br>control<br>humor<br>flip<br>design<br>steak<br>tooth<br>absent<br>knife<br>stomach<br>story<br>alley |  
+| bip_39_word_new_br_2 | boring<br>control |  
+| bip_39_word_new_br_3 | boring<br>control<br>humor |  
+| bip_39_word_new_br_4 | boring<br>control<br>humor<br>flip |  
+| bip_39_word_new_br_5 | boring<br>control<br>humor<br>flip<br>design |  
+| bip_39_word_new_br_6 | boring<br>control<br>humor<br>flip<br>design<br>steak |  
+| bip_39_word_new_br_7 | boring<br>control<br>humor<br>flip<br>design<br>steak<br>tooth |  
+| bip_39_word_new_br_8 | boring<br>control<br>humor<br>flip<br>design<br>steak<br>tooth<br>absent |  
+| bip_39_word_new_br_9 | boring<br>control<br>humor<br>flip<br>design<br>steak<br>tooth<br>absent<br>knife |  
+| bip_39_word_new_line_1 | boring |  
+| bip_39_word_new_line_10 | boring
 control
 humor
 flip
@@ -55,7 +55,7 @@ tooth
 absent
 knife
 stomach |  
-| bip_39_word_new_line11 | boring
+| bip_39_word_new_line_11 | boring
 control
 humor
 flip
@@ -66,7 +66,7 @@ absent
 knife
 stomach
 story |  
-| bip_39_word_new_line12 | boring
+| bip_39_word_new_line_12 | boring
 control
 humor
 flip
@@ -78,34 +78,34 @@ knife
 stomach
 story
 alley |  
-| bip_39_word_new_line2 | boring
+| bip_39_word_new_line_2 | boring
 control |  
-| bip_39_word_new_line3 | boring
+| bip_39_word_new_line_3 | boring
 control
 humor |  
-| bip_39_word_new_line4 | boring
+| bip_39_word_new_line_4 | boring
 control
 humor
 flip |  
-| bip_39_word_new_line5 | boring
+| bip_39_word_new_line_5 | boring
 control
 humor
 flip
 design |  
-| bip_39_word_new_line6 | boring
+| bip_39_word_new_line_6 | boring
 control
 humor
 flip
 design
 steak |  
-| bip_39_word_new_line7 | boring
+| bip_39_word_new_line_7 | boring
 control
 humor
 flip
 design
 steak
 tooth |  
-| bip_39_word_new_line8 | boring
+| bip_39_word_new_line_8 | boring
 control
 humor
 flip
@@ -113,7 +113,7 @@ design
 steak
 tooth
 absent |  
-| bip_39_word_new_line9 | boring
+| bip_39_word_new_line_9 | boring
 control
 humor
 flip

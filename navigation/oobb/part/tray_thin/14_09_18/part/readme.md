@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | prize |  
-| bip_39_word_new_br10 | prize<br>same<br>escape<br>fresh<br>profit<br>dress<br>unknown<br>coyote<br>candy<br>purpose |  
-| bip_39_word_new_br11 | prize<br>same<br>escape<br>fresh<br>profit<br>dress<br>unknown<br>coyote<br>candy<br>purpose<br>vessel |  
-| bip_39_word_new_br12 | prize<br>same<br>escape<br>fresh<br>profit<br>dress<br>unknown<br>coyote<br>candy<br>purpose<br>vessel<br>another |  
-| bip_39_word_new_br2 | prize<br>same |  
-| bip_39_word_new_br3 | prize<br>same<br>escape |  
-| bip_39_word_new_br4 | prize<br>same<br>escape<br>fresh |  
-| bip_39_word_new_br5 | prize<br>same<br>escape<br>fresh<br>profit |  
-| bip_39_word_new_br6 | prize<br>same<br>escape<br>fresh<br>profit<br>dress |  
-| bip_39_word_new_br7 | prize<br>same<br>escape<br>fresh<br>profit<br>dress<br>unknown |  
-| bip_39_word_new_br8 | prize<br>same<br>escape<br>fresh<br>profit<br>dress<br>unknown<br>coyote |  
-| bip_39_word_new_br9 | prize<br>same<br>escape<br>fresh<br>profit<br>dress<br>unknown<br>coyote<br>candy |  
-| bip_39_word_new_line1 | prize |  
-| bip_39_word_new_line10 | prize
+| bip_39_word_new_br_1 | prize |  
+| bip_39_word_new_br_10 | prize<br>same<br>escape<br>fresh<br>profit<br>dress<br>unknown<br>coyote<br>candy<br>purpose |  
+| bip_39_word_new_br_11 | prize<br>same<br>escape<br>fresh<br>profit<br>dress<br>unknown<br>coyote<br>candy<br>purpose<br>vessel |  
+| bip_39_word_new_br_12 | prize<br>same<br>escape<br>fresh<br>profit<br>dress<br>unknown<br>coyote<br>candy<br>purpose<br>vessel<br>another |  
+| bip_39_word_new_br_2 | prize<br>same |  
+| bip_39_word_new_br_3 | prize<br>same<br>escape |  
+| bip_39_word_new_br_4 | prize<br>same<br>escape<br>fresh |  
+| bip_39_word_new_br_5 | prize<br>same<br>escape<br>fresh<br>profit |  
+| bip_39_word_new_br_6 | prize<br>same<br>escape<br>fresh<br>profit<br>dress |  
+| bip_39_word_new_br_7 | prize<br>same<br>escape<br>fresh<br>profit<br>dress<br>unknown |  
+| bip_39_word_new_br_8 | prize<br>same<br>escape<br>fresh<br>profit<br>dress<br>unknown<br>coyote |  
+| bip_39_word_new_br_9 | prize<br>same<br>escape<br>fresh<br>profit<br>dress<br>unknown<br>coyote<br>candy |  
+| bip_39_word_new_line_1 | prize |  
+| bip_39_word_new_line_10 | prize
 same
 escape
 fresh
@@ -55,7 +55,7 @@ unknown
 coyote
 candy
 purpose |  
-| bip_39_word_new_line11 | prize
+| bip_39_word_new_line_11 | prize
 same
 escape
 fresh
@@ -66,7 +66,7 @@ coyote
 candy
 purpose
 vessel |  
-| bip_39_word_new_line12 | prize
+| bip_39_word_new_line_12 | prize
 same
 escape
 fresh
@@ -78,34 +78,34 @@ candy
 purpose
 vessel
 another |  
-| bip_39_word_new_line2 | prize
+| bip_39_word_new_line_2 | prize
 same |  
-| bip_39_word_new_line3 | prize
+| bip_39_word_new_line_3 | prize
 same
 escape |  
-| bip_39_word_new_line4 | prize
+| bip_39_word_new_line_4 | prize
 same
 escape
 fresh |  
-| bip_39_word_new_line5 | prize
+| bip_39_word_new_line_5 | prize
 same
 escape
 fresh
 profit |  
-| bip_39_word_new_line6 | prize
+| bip_39_word_new_line_6 | prize
 same
 escape
 fresh
 profit
 dress |  
-| bip_39_word_new_line7 | prize
+| bip_39_word_new_line_7 | prize
 same
 escape
 fresh
 profit
 dress
 unknown |  
-| bip_39_word_new_line8 | prize
+| bip_39_word_new_line_8 | prize
 same
 escape
 fresh
@@ -113,7 +113,7 @@ profit
 dress
 unknown
 coyote |  
-| bip_39_word_new_line9 | prize
+| bip_39_word_new_line_9 | prize
 same
 escape
 fresh

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | much |  
-| bip_39_word_new_br10 | much<br>bonus<br>ignore<br>mask<br>return<br>material<br>glass<br>absorb<br>elite<br>gather |  
-| bip_39_word_new_br11 | much<br>bonus<br>ignore<br>mask<br>return<br>material<br>glass<br>absorb<br>elite<br>gather<br>make |  
-| bip_39_word_new_br12 | much<br>bonus<br>ignore<br>mask<br>return<br>material<br>glass<br>absorb<br>elite<br>gather<br>make<br>atom |  
-| bip_39_word_new_br2 | much<br>bonus |  
-| bip_39_word_new_br3 | much<br>bonus<br>ignore |  
-| bip_39_word_new_br4 | much<br>bonus<br>ignore<br>mask |  
-| bip_39_word_new_br5 | much<br>bonus<br>ignore<br>mask<br>return |  
-| bip_39_word_new_br6 | much<br>bonus<br>ignore<br>mask<br>return<br>material |  
-| bip_39_word_new_br7 | much<br>bonus<br>ignore<br>mask<br>return<br>material<br>glass |  
-| bip_39_word_new_br8 | much<br>bonus<br>ignore<br>mask<br>return<br>material<br>glass<br>absorb |  
-| bip_39_word_new_br9 | much<br>bonus<br>ignore<br>mask<br>return<br>material<br>glass<br>absorb<br>elite |  
-| bip_39_word_new_line1 | much |  
-| bip_39_word_new_line10 | much
+| bip_39_word_new_br_1 | much |  
+| bip_39_word_new_br_10 | much<br>bonus<br>ignore<br>mask<br>return<br>material<br>glass<br>absorb<br>elite<br>gather |  
+| bip_39_word_new_br_11 | much<br>bonus<br>ignore<br>mask<br>return<br>material<br>glass<br>absorb<br>elite<br>gather<br>make |  
+| bip_39_word_new_br_12 | much<br>bonus<br>ignore<br>mask<br>return<br>material<br>glass<br>absorb<br>elite<br>gather<br>make<br>atom |  
+| bip_39_word_new_br_2 | much<br>bonus |  
+| bip_39_word_new_br_3 | much<br>bonus<br>ignore |  
+| bip_39_word_new_br_4 | much<br>bonus<br>ignore<br>mask |  
+| bip_39_word_new_br_5 | much<br>bonus<br>ignore<br>mask<br>return |  
+| bip_39_word_new_br_6 | much<br>bonus<br>ignore<br>mask<br>return<br>material |  
+| bip_39_word_new_br_7 | much<br>bonus<br>ignore<br>mask<br>return<br>material<br>glass |  
+| bip_39_word_new_br_8 | much<br>bonus<br>ignore<br>mask<br>return<br>material<br>glass<br>absorb |  
+| bip_39_word_new_br_9 | much<br>bonus<br>ignore<br>mask<br>return<br>material<br>glass<br>absorb<br>elite |  
+| bip_39_word_new_line_1 | much |  
+| bip_39_word_new_line_10 | much
 bonus
 ignore
 mask
@@ -55,7 +55,7 @@ glass
 absorb
 elite
 gather |  
-| bip_39_word_new_line11 | much
+| bip_39_word_new_line_11 | much
 bonus
 ignore
 mask
@@ -66,7 +66,7 @@ absorb
 elite
 gather
 make |  
-| bip_39_word_new_line12 | much
+| bip_39_word_new_line_12 | much
 bonus
 ignore
 mask
@@ -78,34 +78,34 @@ elite
 gather
 make
 atom |  
-| bip_39_word_new_line2 | much
+| bip_39_word_new_line_2 | much
 bonus |  
-| bip_39_word_new_line3 | much
+| bip_39_word_new_line_3 | much
 bonus
 ignore |  
-| bip_39_word_new_line4 | much
+| bip_39_word_new_line_4 | much
 bonus
 ignore
 mask |  
-| bip_39_word_new_line5 | much
+| bip_39_word_new_line_5 | much
 bonus
 ignore
 mask
 return |  
-| bip_39_word_new_line6 | much
+| bip_39_word_new_line_6 | much
 bonus
 ignore
 mask
 return
 material |  
-| bip_39_word_new_line7 | much
+| bip_39_word_new_line_7 | much
 bonus
 ignore
 mask
 return
 material
 glass |  
-| bip_39_word_new_line8 | much
+| bip_39_word_new_line_8 | much
 bonus
 ignore
 mask
@@ -113,7 +113,7 @@ return
 material
 glass
 absorb |  
-| bip_39_word_new_line9 | much
+| bip_39_word_new_line_9 | much
 bonus
 ignore
 mask

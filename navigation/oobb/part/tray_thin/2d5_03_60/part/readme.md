@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | split |  
-| bip_39_word_new_br10 | split<br>demise<br>trap<br>door<br>else<br>daughter<br>forest<br>sense<br>rich<br>pet |  
-| bip_39_word_new_br11 | split<br>demise<br>trap<br>door<br>else<br>daughter<br>forest<br>sense<br>rich<br>pet<br>tenant |  
-| bip_39_word_new_br12 | split<br>demise<br>trap<br>door<br>else<br>daughter<br>forest<br>sense<br>rich<br>pet<br>tenant<br>antique |  
-| bip_39_word_new_br2 | split<br>demise |  
-| bip_39_word_new_br3 | split<br>demise<br>trap |  
-| bip_39_word_new_br4 | split<br>demise<br>trap<br>door |  
-| bip_39_word_new_br5 | split<br>demise<br>trap<br>door<br>else |  
-| bip_39_word_new_br6 | split<br>demise<br>trap<br>door<br>else<br>daughter |  
-| bip_39_word_new_br7 | split<br>demise<br>trap<br>door<br>else<br>daughter<br>forest |  
-| bip_39_word_new_br8 | split<br>demise<br>trap<br>door<br>else<br>daughter<br>forest<br>sense |  
-| bip_39_word_new_br9 | split<br>demise<br>trap<br>door<br>else<br>daughter<br>forest<br>sense<br>rich |  
-| bip_39_word_new_line1 | split |  
-| bip_39_word_new_line10 | split
+| bip_39_word_new_br_1 | split |  
+| bip_39_word_new_br_10 | split<br>demise<br>trap<br>door<br>else<br>daughter<br>forest<br>sense<br>rich<br>pet |  
+| bip_39_word_new_br_11 | split<br>demise<br>trap<br>door<br>else<br>daughter<br>forest<br>sense<br>rich<br>pet<br>tenant |  
+| bip_39_word_new_br_12 | split<br>demise<br>trap<br>door<br>else<br>daughter<br>forest<br>sense<br>rich<br>pet<br>tenant<br>antique |  
+| bip_39_word_new_br_2 | split<br>demise |  
+| bip_39_word_new_br_3 | split<br>demise<br>trap |  
+| bip_39_word_new_br_4 | split<br>demise<br>trap<br>door |  
+| bip_39_word_new_br_5 | split<br>demise<br>trap<br>door<br>else |  
+| bip_39_word_new_br_6 | split<br>demise<br>trap<br>door<br>else<br>daughter |  
+| bip_39_word_new_br_7 | split<br>demise<br>trap<br>door<br>else<br>daughter<br>forest |  
+| bip_39_word_new_br_8 | split<br>demise<br>trap<br>door<br>else<br>daughter<br>forest<br>sense |  
+| bip_39_word_new_br_9 | split<br>demise<br>trap<br>door<br>else<br>daughter<br>forest<br>sense<br>rich |  
+| bip_39_word_new_line_1 | split |  
+| bip_39_word_new_line_10 | split
 demise
 trap
 door
@@ -55,7 +55,7 @@ forest
 sense
 rich
 pet |  
-| bip_39_word_new_line11 | split
+| bip_39_word_new_line_11 | split
 demise
 trap
 door
@@ -66,7 +66,7 @@ sense
 rich
 pet
 tenant |  
-| bip_39_word_new_line12 | split
+| bip_39_word_new_line_12 | split
 demise
 trap
 door
@@ -78,34 +78,34 @@ rich
 pet
 tenant
 antique |  
-| bip_39_word_new_line2 | split
+| bip_39_word_new_line_2 | split
 demise |  
-| bip_39_word_new_line3 | split
+| bip_39_word_new_line_3 | split
 demise
 trap |  
-| bip_39_word_new_line4 | split
+| bip_39_word_new_line_4 | split
 demise
 trap
 door |  
-| bip_39_word_new_line5 | split
+| bip_39_word_new_line_5 | split
 demise
 trap
 door
 else |  
-| bip_39_word_new_line6 | split
+| bip_39_word_new_line_6 | split
 demise
 trap
 door
 else
 daughter |  
-| bip_39_word_new_line7 | split
+| bip_39_word_new_line_7 | split
 demise
 trap
 door
 else
 daughter
 forest |  
-| bip_39_word_new_line8 | split
+| bip_39_word_new_line_8 | split
 demise
 trap
 door
@@ -113,7 +113,7 @@ else
 daughter
 forest
 sense |  
-| bip_39_word_new_line9 | split
+| bip_39_word_new_line_9 | split
 demise
 trap
 door

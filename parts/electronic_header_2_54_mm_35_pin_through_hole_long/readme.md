@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | clarify |  
-| bip_39_word_new_br10 | clarify<br>tuition<br>actress<br>put<br>loan<br>gaze<br>side<br>patch<br>student<br>body |  
-| bip_39_word_new_br11 | clarify<br>tuition<br>actress<br>put<br>loan<br>gaze<br>side<br>patch<br>student<br>body<br>remind |  
-| bip_39_word_new_br12 | clarify<br>tuition<br>actress<br>put<br>loan<br>gaze<br>side<br>patch<br>student<br>body<br>remind<br>artwork |  
-| bip_39_word_new_br2 | clarify<br>tuition |  
-| bip_39_word_new_br3 | clarify<br>tuition<br>actress |  
-| bip_39_word_new_br4 | clarify<br>tuition<br>actress<br>put |  
-| bip_39_word_new_br5 | clarify<br>tuition<br>actress<br>put<br>loan |  
-| bip_39_word_new_br6 | clarify<br>tuition<br>actress<br>put<br>loan<br>gaze |  
-| bip_39_word_new_br7 | clarify<br>tuition<br>actress<br>put<br>loan<br>gaze<br>side |  
-| bip_39_word_new_br8 | clarify<br>tuition<br>actress<br>put<br>loan<br>gaze<br>side<br>patch |  
-| bip_39_word_new_br9 | clarify<br>tuition<br>actress<br>put<br>loan<br>gaze<br>side<br>patch<br>student |  
-| bip_39_word_new_line1 | clarify |  
-| bip_39_word_new_line10 | clarify
+| bip_39_word_new_br_1 | clarify |  
+| bip_39_word_new_br_10 | clarify<br>tuition<br>actress<br>put<br>loan<br>gaze<br>side<br>patch<br>student<br>body |  
+| bip_39_word_new_br_11 | clarify<br>tuition<br>actress<br>put<br>loan<br>gaze<br>side<br>patch<br>student<br>body<br>remind |  
+| bip_39_word_new_br_12 | clarify<br>tuition<br>actress<br>put<br>loan<br>gaze<br>side<br>patch<br>student<br>body<br>remind<br>artwork |  
+| bip_39_word_new_br_2 | clarify<br>tuition |  
+| bip_39_word_new_br_3 | clarify<br>tuition<br>actress |  
+| bip_39_word_new_br_4 | clarify<br>tuition<br>actress<br>put |  
+| bip_39_word_new_br_5 | clarify<br>tuition<br>actress<br>put<br>loan |  
+| bip_39_word_new_br_6 | clarify<br>tuition<br>actress<br>put<br>loan<br>gaze |  
+| bip_39_word_new_br_7 | clarify<br>tuition<br>actress<br>put<br>loan<br>gaze<br>side |  
+| bip_39_word_new_br_8 | clarify<br>tuition<br>actress<br>put<br>loan<br>gaze<br>side<br>patch |  
+| bip_39_word_new_br_9 | clarify<br>tuition<br>actress<br>put<br>loan<br>gaze<br>side<br>patch<br>student |  
+| bip_39_word_new_line_1 | clarify |  
+| bip_39_word_new_line_10 | clarify
 tuition
 actress
 put
@@ -55,7 +55,7 @@ side
 patch
 student
 body |  
-| bip_39_word_new_line11 | clarify
+| bip_39_word_new_line_11 | clarify
 tuition
 actress
 put
@@ -66,7 +66,7 @@ patch
 student
 body
 remind |  
-| bip_39_word_new_line12 | clarify
+| bip_39_word_new_line_12 | clarify
 tuition
 actress
 put
@@ -78,34 +78,34 @@ student
 body
 remind
 artwork |  
-| bip_39_word_new_line2 | clarify
+| bip_39_word_new_line_2 | clarify
 tuition |  
-| bip_39_word_new_line3 | clarify
+| bip_39_word_new_line_3 | clarify
 tuition
 actress |  
-| bip_39_word_new_line4 | clarify
+| bip_39_word_new_line_4 | clarify
 tuition
 actress
 put |  
-| bip_39_word_new_line5 | clarify
+| bip_39_word_new_line_5 | clarify
 tuition
 actress
 put
 loan |  
-| bip_39_word_new_line6 | clarify
+| bip_39_word_new_line_6 | clarify
 tuition
 actress
 put
 loan
 gaze |  
-| bip_39_word_new_line7 | clarify
+| bip_39_word_new_line_7 | clarify
 tuition
 actress
 put
 loan
 gaze
 side |  
-| bip_39_word_new_line8 | clarify
+| bip_39_word_new_line_8 | clarify
 tuition
 actress
 put
@@ -113,7 +113,7 @@ loan
 gaze
 side
 patch |  
-| bip_39_word_new_line9 | clarify
+| bip_39_word_new_line_9 | clarify
 tuition
 actress
 put

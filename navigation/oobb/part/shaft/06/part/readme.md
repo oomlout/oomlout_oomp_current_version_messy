@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | echo |  
-| bip_39_word_new_br10 | echo<br>cabin<br>wealth<br>replace<br>monster<br>limit<br>length<br>rice<br>oxygen<br>treat |  
-| bip_39_word_new_br11 | echo<br>cabin<br>wealth<br>replace<br>monster<br>limit<br>length<br>rice<br>oxygen<br>treat<br>ill |  
-| bip_39_word_new_br12 | echo<br>cabin<br>wealth<br>replace<br>monster<br>limit<br>length<br>rice<br>oxygen<br>treat<br>ill<br>action |  
-| bip_39_word_new_br2 | echo<br>cabin |  
-| bip_39_word_new_br3 | echo<br>cabin<br>wealth |  
-| bip_39_word_new_br4 | echo<br>cabin<br>wealth<br>replace |  
-| bip_39_word_new_br5 | echo<br>cabin<br>wealth<br>replace<br>monster |  
-| bip_39_word_new_br6 | echo<br>cabin<br>wealth<br>replace<br>monster<br>limit |  
-| bip_39_word_new_br7 | echo<br>cabin<br>wealth<br>replace<br>monster<br>limit<br>length |  
-| bip_39_word_new_br8 | echo<br>cabin<br>wealth<br>replace<br>monster<br>limit<br>length<br>rice |  
-| bip_39_word_new_br9 | echo<br>cabin<br>wealth<br>replace<br>monster<br>limit<br>length<br>rice<br>oxygen |  
-| bip_39_word_new_line1 | echo |  
-| bip_39_word_new_line10 | echo
+| bip_39_word_new_br_1 | echo |  
+| bip_39_word_new_br_10 | echo<br>cabin<br>wealth<br>replace<br>monster<br>limit<br>length<br>rice<br>oxygen<br>treat |  
+| bip_39_word_new_br_11 | echo<br>cabin<br>wealth<br>replace<br>monster<br>limit<br>length<br>rice<br>oxygen<br>treat<br>ill |  
+| bip_39_word_new_br_12 | echo<br>cabin<br>wealth<br>replace<br>monster<br>limit<br>length<br>rice<br>oxygen<br>treat<br>ill<br>action |  
+| bip_39_word_new_br_2 | echo<br>cabin |  
+| bip_39_word_new_br_3 | echo<br>cabin<br>wealth |  
+| bip_39_word_new_br_4 | echo<br>cabin<br>wealth<br>replace |  
+| bip_39_word_new_br_5 | echo<br>cabin<br>wealth<br>replace<br>monster |  
+| bip_39_word_new_br_6 | echo<br>cabin<br>wealth<br>replace<br>monster<br>limit |  
+| bip_39_word_new_br_7 | echo<br>cabin<br>wealth<br>replace<br>monster<br>limit<br>length |  
+| bip_39_word_new_br_8 | echo<br>cabin<br>wealth<br>replace<br>monster<br>limit<br>length<br>rice |  
+| bip_39_word_new_br_9 | echo<br>cabin<br>wealth<br>replace<br>monster<br>limit<br>length<br>rice<br>oxygen |  
+| bip_39_word_new_line_1 | echo |  
+| bip_39_word_new_line_10 | echo
 cabin
 wealth
 replace
@@ -55,7 +55,7 @@ length
 rice
 oxygen
 treat |  
-| bip_39_word_new_line11 | echo
+| bip_39_word_new_line_11 | echo
 cabin
 wealth
 replace
@@ -66,7 +66,7 @@ rice
 oxygen
 treat
 ill |  
-| bip_39_word_new_line12 | echo
+| bip_39_word_new_line_12 | echo
 cabin
 wealth
 replace
@@ -78,34 +78,34 @@ oxygen
 treat
 ill
 action |  
-| bip_39_word_new_line2 | echo
+| bip_39_word_new_line_2 | echo
 cabin |  
-| bip_39_word_new_line3 | echo
+| bip_39_word_new_line_3 | echo
 cabin
 wealth |  
-| bip_39_word_new_line4 | echo
+| bip_39_word_new_line_4 | echo
 cabin
 wealth
 replace |  
-| bip_39_word_new_line5 | echo
+| bip_39_word_new_line_5 | echo
 cabin
 wealth
 replace
 monster |  
-| bip_39_word_new_line6 | echo
+| bip_39_word_new_line_6 | echo
 cabin
 wealth
 replace
 monster
 limit |  
-| bip_39_word_new_line7 | echo
+| bip_39_word_new_line_7 | echo
 cabin
 wealth
 replace
 monster
 limit
 length |  
-| bip_39_word_new_line8 | echo
+| bip_39_word_new_line_8 | echo
 cabin
 wealth
 replace
@@ -113,7 +113,7 @@ monster
 limit
 length
 rice |  
-| bip_39_word_new_line9 | echo
+| bip_39_word_new_line_9 | echo
 cabin
 wealth
 replace

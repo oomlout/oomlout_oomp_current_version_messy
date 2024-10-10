@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | devote |  
-| bip_39_word_new_br10 | devote<br>pipe<br>stock<br>merge<br>gold<br>smart<br>present<br>ask<br>rare<br>verify |  
-| bip_39_word_new_br11 | devote<br>pipe<br>stock<br>merge<br>gold<br>smart<br>present<br>ask<br>rare<br>verify<br>scout |  
-| bip_39_word_new_br12 | devote<br>pipe<br>stock<br>merge<br>gold<br>smart<br>present<br>ask<br>rare<br>verify<br>scout<br>abuse |  
-| bip_39_word_new_br2 | devote<br>pipe |  
-| bip_39_word_new_br3 | devote<br>pipe<br>stock |  
-| bip_39_word_new_br4 | devote<br>pipe<br>stock<br>merge |  
-| bip_39_word_new_br5 | devote<br>pipe<br>stock<br>merge<br>gold |  
-| bip_39_word_new_br6 | devote<br>pipe<br>stock<br>merge<br>gold<br>smart |  
-| bip_39_word_new_br7 | devote<br>pipe<br>stock<br>merge<br>gold<br>smart<br>present |  
-| bip_39_word_new_br8 | devote<br>pipe<br>stock<br>merge<br>gold<br>smart<br>present<br>ask |  
-| bip_39_word_new_br9 | devote<br>pipe<br>stock<br>merge<br>gold<br>smart<br>present<br>ask<br>rare |  
-| bip_39_word_new_line1 | devote |  
-| bip_39_word_new_line10 | devote
+| bip_39_word_new_br_1 | devote |  
+| bip_39_word_new_br_10 | devote<br>pipe<br>stock<br>merge<br>gold<br>smart<br>present<br>ask<br>rare<br>verify |  
+| bip_39_word_new_br_11 | devote<br>pipe<br>stock<br>merge<br>gold<br>smart<br>present<br>ask<br>rare<br>verify<br>scout |  
+| bip_39_word_new_br_12 | devote<br>pipe<br>stock<br>merge<br>gold<br>smart<br>present<br>ask<br>rare<br>verify<br>scout<br>abuse |  
+| bip_39_word_new_br_2 | devote<br>pipe |  
+| bip_39_word_new_br_3 | devote<br>pipe<br>stock |  
+| bip_39_word_new_br_4 | devote<br>pipe<br>stock<br>merge |  
+| bip_39_word_new_br_5 | devote<br>pipe<br>stock<br>merge<br>gold |  
+| bip_39_word_new_br_6 | devote<br>pipe<br>stock<br>merge<br>gold<br>smart |  
+| bip_39_word_new_br_7 | devote<br>pipe<br>stock<br>merge<br>gold<br>smart<br>present |  
+| bip_39_word_new_br_8 | devote<br>pipe<br>stock<br>merge<br>gold<br>smart<br>present<br>ask |  
+| bip_39_word_new_br_9 | devote<br>pipe<br>stock<br>merge<br>gold<br>smart<br>present<br>ask<br>rare |  
+| bip_39_word_new_line_1 | devote |  
+| bip_39_word_new_line_10 | devote
 pipe
 stock
 merge
@@ -55,7 +55,7 @@ present
 ask
 rare
 verify |  
-| bip_39_word_new_line11 | devote
+| bip_39_word_new_line_11 | devote
 pipe
 stock
 merge
@@ -66,7 +66,7 @@ ask
 rare
 verify
 scout |  
-| bip_39_word_new_line12 | devote
+| bip_39_word_new_line_12 | devote
 pipe
 stock
 merge
@@ -78,34 +78,34 @@ rare
 verify
 scout
 abuse |  
-| bip_39_word_new_line2 | devote
+| bip_39_word_new_line_2 | devote
 pipe |  
-| bip_39_word_new_line3 | devote
+| bip_39_word_new_line_3 | devote
 pipe
 stock |  
-| bip_39_word_new_line4 | devote
+| bip_39_word_new_line_4 | devote
 pipe
 stock
 merge |  
-| bip_39_word_new_line5 | devote
+| bip_39_word_new_line_5 | devote
 pipe
 stock
 merge
 gold |  
-| bip_39_word_new_line6 | devote
+| bip_39_word_new_line_6 | devote
 pipe
 stock
 merge
 gold
 smart |  
-| bip_39_word_new_line7 | devote
+| bip_39_word_new_line_7 | devote
 pipe
 stock
 merge
 gold
 smart
 present |  
-| bip_39_word_new_line8 | devote
+| bip_39_word_new_line_8 | devote
 pipe
 stock
 merge
@@ -113,7 +113,7 @@ gold
 smart
 present
 ask |  
-| bip_39_word_new_line9 | devote
+| bip_39_word_new_line_9 | devote
 pipe
 stock
 merge

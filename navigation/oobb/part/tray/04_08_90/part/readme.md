@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | grief |  
-| bip_39_word_new_br10 | grief<br>display<br>wait<br>nasty<br>boss<br>lizard<br>dwarf<br>fire<br>warm<br>salute |  
-| bip_39_word_new_br11 | grief<br>display<br>wait<br>nasty<br>boss<br>lizard<br>dwarf<br>fire<br>warm<br>salute<br>draft |  
-| bip_39_word_new_br12 | grief<br>display<br>wait<br>nasty<br>boss<br>lizard<br>dwarf<br>fire<br>warm<br>salute<br>draft<br>advice |  
-| bip_39_word_new_br2 | grief<br>display |  
-| bip_39_word_new_br3 | grief<br>display<br>wait |  
-| bip_39_word_new_br4 | grief<br>display<br>wait<br>nasty |  
-| bip_39_word_new_br5 | grief<br>display<br>wait<br>nasty<br>boss |  
-| bip_39_word_new_br6 | grief<br>display<br>wait<br>nasty<br>boss<br>lizard |  
-| bip_39_word_new_br7 | grief<br>display<br>wait<br>nasty<br>boss<br>lizard<br>dwarf |  
-| bip_39_word_new_br8 | grief<br>display<br>wait<br>nasty<br>boss<br>lizard<br>dwarf<br>fire |  
-| bip_39_word_new_br9 | grief<br>display<br>wait<br>nasty<br>boss<br>lizard<br>dwarf<br>fire<br>warm |  
-| bip_39_word_new_line1 | grief |  
-| bip_39_word_new_line10 | grief
+| bip_39_word_new_br_1 | grief |  
+| bip_39_word_new_br_10 | grief<br>display<br>wait<br>nasty<br>boss<br>lizard<br>dwarf<br>fire<br>warm<br>salute |  
+| bip_39_word_new_br_11 | grief<br>display<br>wait<br>nasty<br>boss<br>lizard<br>dwarf<br>fire<br>warm<br>salute<br>draft |  
+| bip_39_word_new_br_12 | grief<br>display<br>wait<br>nasty<br>boss<br>lizard<br>dwarf<br>fire<br>warm<br>salute<br>draft<br>advice |  
+| bip_39_word_new_br_2 | grief<br>display |  
+| bip_39_word_new_br_3 | grief<br>display<br>wait |  
+| bip_39_word_new_br_4 | grief<br>display<br>wait<br>nasty |  
+| bip_39_word_new_br_5 | grief<br>display<br>wait<br>nasty<br>boss |  
+| bip_39_word_new_br_6 | grief<br>display<br>wait<br>nasty<br>boss<br>lizard |  
+| bip_39_word_new_br_7 | grief<br>display<br>wait<br>nasty<br>boss<br>lizard<br>dwarf |  
+| bip_39_word_new_br_8 | grief<br>display<br>wait<br>nasty<br>boss<br>lizard<br>dwarf<br>fire |  
+| bip_39_word_new_br_9 | grief<br>display<br>wait<br>nasty<br>boss<br>lizard<br>dwarf<br>fire<br>warm |  
+| bip_39_word_new_line_1 | grief |  
+| bip_39_word_new_line_10 | grief
 display
 wait
 nasty
@@ -55,7 +55,7 @@ dwarf
 fire
 warm
 salute |  
-| bip_39_word_new_line11 | grief
+| bip_39_word_new_line_11 | grief
 display
 wait
 nasty
@@ -66,7 +66,7 @@ fire
 warm
 salute
 draft |  
-| bip_39_word_new_line12 | grief
+| bip_39_word_new_line_12 | grief
 display
 wait
 nasty
@@ -78,34 +78,34 @@ warm
 salute
 draft
 advice |  
-| bip_39_word_new_line2 | grief
+| bip_39_word_new_line_2 | grief
 display |  
-| bip_39_word_new_line3 | grief
+| bip_39_word_new_line_3 | grief
 display
 wait |  
-| bip_39_word_new_line4 | grief
+| bip_39_word_new_line_4 | grief
 display
 wait
 nasty |  
-| bip_39_word_new_line5 | grief
+| bip_39_word_new_line_5 | grief
 display
 wait
 nasty
 boss |  
-| bip_39_word_new_line6 | grief
+| bip_39_word_new_line_6 | grief
 display
 wait
 nasty
 boss
 lizard |  
-| bip_39_word_new_line7 | grief
+| bip_39_word_new_line_7 | grief
 display
 wait
 nasty
 boss
 lizard
 dwarf |  
-| bip_39_word_new_line8 | grief
+| bip_39_word_new_line_8 | grief
 display
 wait
 nasty
@@ -113,7 +113,7 @@ boss
 lizard
 dwarf
 fire |  
-| bip_39_word_new_line9 | grief
+| bip_39_word_new_line_9 | grief
 display
 wait
 nasty

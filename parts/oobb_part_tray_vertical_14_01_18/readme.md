@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | smooth |  
-| bip_39_word_new_br10 | smooth<br>erase<br>feed<br>wage<br>power<br>congress<br>model<br>earth<br>waste<br>basic |  
-| bip_39_word_new_br11 | smooth<br>erase<br>feed<br>wage<br>power<br>congress<br>model<br>earth<br>waste<br>basic<br>crop |  
-| bip_39_word_new_br12 | smooth<br>erase<br>feed<br>wage<br>power<br>congress<br>model<br>earth<br>waste<br>basic<br>crop<br>arrow |  
-| bip_39_word_new_br2 | smooth<br>erase |  
-| bip_39_word_new_br3 | smooth<br>erase<br>feed |  
-| bip_39_word_new_br4 | smooth<br>erase<br>feed<br>wage |  
-| bip_39_word_new_br5 | smooth<br>erase<br>feed<br>wage<br>power |  
-| bip_39_word_new_br6 | smooth<br>erase<br>feed<br>wage<br>power<br>congress |  
-| bip_39_word_new_br7 | smooth<br>erase<br>feed<br>wage<br>power<br>congress<br>model |  
-| bip_39_word_new_br8 | smooth<br>erase<br>feed<br>wage<br>power<br>congress<br>model<br>earth |  
-| bip_39_word_new_br9 | smooth<br>erase<br>feed<br>wage<br>power<br>congress<br>model<br>earth<br>waste |  
-| bip_39_word_new_line1 | smooth |  
-| bip_39_word_new_line10 | smooth
+| bip_39_word_new_br_1 | smooth |  
+| bip_39_word_new_br_10 | smooth<br>erase<br>feed<br>wage<br>power<br>congress<br>model<br>earth<br>waste<br>basic |  
+| bip_39_word_new_br_11 | smooth<br>erase<br>feed<br>wage<br>power<br>congress<br>model<br>earth<br>waste<br>basic<br>crop |  
+| bip_39_word_new_br_12 | smooth<br>erase<br>feed<br>wage<br>power<br>congress<br>model<br>earth<br>waste<br>basic<br>crop<br>arrow |  
+| bip_39_word_new_br_2 | smooth<br>erase |  
+| bip_39_word_new_br_3 | smooth<br>erase<br>feed |  
+| bip_39_word_new_br_4 | smooth<br>erase<br>feed<br>wage |  
+| bip_39_word_new_br_5 | smooth<br>erase<br>feed<br>wage<br>power |  
+| bip_39_word_new_br_6 | smooth<br>erase<br>feed<br>wage<br>power<br>congress |  
+| bip_39_word_new_br_7 | smooth<br>erase<br>feed<br>wage<br>power<br>congress<br>model |  
+| bip_39_word_new_br_8 | smooth<br>erase<br>feed<br>wage<br>power<br>congress<br>model<br>earth |  
+| bip_39_word_new_br_9 | smooth<br>erase<br>feed<br>wage<br>power<br>congress<br>model<br>earth<br>waste |  
+| bip_39_word_new_line_1 | smooth |  
+| bip_39_word_new_line_10 | smooth
 erase
 feed
 wage
@@ -55,7 +55,7 @@ model
 earth
 waste
 basic |  
-| bip_39_word_new_line11 | smooth
+| bip_39_word_new_line_11 | smooth
 erase
 feed
 wage
@@ -66,7 +66,7 @@ earth
 waste
 basic
 crop |  
-| bip_39_word_new_line12 | smooth
+| bip_39_word_new_line_12 | smooth
 erase
 feed
 wage
@@ -78,34 +78,34 @@ waste
 basic
 crop
 arrow |  
-| bip_39_word_new_line2 | smooth
+| bip_39_word_new_line_2 | smooth
 erase |  
-| bip_39_word_new_line3 | smooth
+| bip_39_word_new_line_3 | smooth
 erase
 feed |  
-| bip_39_word_new_line4 | smooth
+| bip_39_word_new_line_4 | smooth
 erase
 feed
 wage |  
-| bip_39_word_new_line5 | smooth
+| bip_39_word_new_line_5 | smooth
 erase
 feed
 wage
 power |  
-| bip_39_word_new_line6 | smooth
+| bip_39_word_new_line_6 | smooth
 erase
 feed
 wage
 power
 congress |  
-| bip_39_word_new_line7 | smooth
+| bip_39_word_new_line_7 | smooth
 erase
 feed
 wage
 power
 congress
 model |  
-| bip_39_word_new_line8 | smooth
+| bip_39_word_new_line_8 | smooth
 erase
 feed
 wage
@@ -113,7 +113,7 @@ power
 congress
 model
 earth |  
-| bip_39_word_new_line9 | smooth
+| bip_39_word_new_line_9 | smooth
 erase
 feed
 wage

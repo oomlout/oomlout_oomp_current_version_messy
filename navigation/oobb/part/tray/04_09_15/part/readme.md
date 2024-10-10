@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | burden |  
-| bip_39_word_new_br10 | burden<br>anxiety<br>science<br>explain<br>soap<br>romance<br>curious<br>idle<br>cute<br>misery |  
-| bip_39_word_new_br11 | burden<br>anxiety<br>science<br>explain<br>soap<br>romance<br>curious<br>idle<br>cute<br>misery<br>army |  
-| bip_39_word_new_br12 | burden<br>anxiety<br>science<br>explain<br>soap<br>romance<br>curious<br>idle<br>cute<br>misery<br>army<br>affair |  
-| bip_39_word_new_br2 | burden<br>anxiety |  
-| bip_39_word_new_br3 | burden<br>anxiety<br>science |  
-| bip_39_word_new_br4 | burden<br>anxiety<br>science<br>explain |  
-| bip_39_word_new_br5 | burden<br>anxiety<br>science<br>explain<br>soap |  
-| bip_39_word_new_br6 | burden<br>anxiety<br>science<br>explain<br>soap<br>romance |  
-| bip_39_word_new_br7 | burden<br>anxiety<br>science<br>explain<br>soap<br>romance<br>curious |  
-| bip_39_word_new_br8 | burden<br>anxiety<br>science<br>explain<br>soap<br>romance<br>curious<br>idle |  
-| bip_39_word_new_br9 | burden<br>anxiety<br>science<br>explain<br>soap<br>romance<br>curious<br>idle<br>cute |  
-| bip_39_word_new_line1 | burden |  
-| bip_39_word_new_line10 | burden
+| bip_39_word_new_br_1 | burden |  
+| bip_39_word_new_br_10 | burden<br>anxiety<br>science<br>explain<br>soap<br>romance<br>curious<br>idle<br>cute<br>misery |  
+| bip_39_word_new_br_11 | burden<br>anxiety<br>science<br>explain<br>soap<br>romance<br>curious<br>idle<br>cute<br>misery<br>army |  
+| bip_39_word_new_br_12 | burden<br>anxiety<br>science<br>explain<br>soap<br>romance<br>curious<br>idle<br>cute<br>misery<br>army<br>affair |  
+| bip_39_word_new_br_2 | burden<br>anxiety |  
+| bip_39_word_new_br_3 | burden<br>anxiety<br>science |  
+| bip_39_word_new_br_4 | burden<br>anxiety<br>science<br>explain |  
+| bip_39_word_new_br_5 | burden<br>anxiety<br>science<br>explain<br>soap |  
+| bip_39_word_new_br_6 | burden<br>anxiety<br>science<br>explain<br>soap<br>romance |  
+| bip_39_word_new_br_7 | burden<br>anxiety<br>science<br>explain<br>soap<br>romance<br>curious |  
+| bip_39_word_new_br_8 | burden<br>anxiety<br>science<br>explain<br>soap<br>romance<br>curious<br>idle |  
+| bip_39_word_new_br_9 | burden<br>anxiety<br>science<br>explain<br>soap<br>romance<br>curious<br>idle<br>cute |  
+| bip_39_word_new_line_1 | burden |  
+| bip_39_word_new_line_10 | burden
 anxiety
 science
 explain
@@ -55,7 +55,7 @@ curious
 idle
 cute
 misery |  
-| bip_39_word_new_line11 | burden
+| bip_39_word_new_line_11 | burden
 anxiety
 science
 explain
@@ -66,7 +66,7 @@ idle
 cute
 misery
 army |  
-| bip_39_word_new_line12 | burden
+| bip_39_word_new_line_12 | burden
 anxiety
 science
 explain
@@ -78,34 +78,34 @@ cute
 misery
 army
 affair |  
-| bip_39_word_new_line2 | burden
+| bip_39_word_new_line_2 | burden
 anxiety |  
-| bip_39_word_new_line3 | burden
+| bip_39_word_new_line_3 | burden
 anxiety
 science |  
-| bip_39_word_new_line4 | burden
+| bip_39_word_new_line_4 | burden
 anxiety
 science
 explain |  
-| bip_39_word_new_line5 | burden
+| bip_39_word_new_line_5 | burden
 anxiety
 science
 explain
 soap |  
-| bip_39_word_new_line6 | burden
+| bip_39_word_new_line_6 | burden
 anxiety
 science
 explain
 soap
 romance |  
-| bip_39_word_new_line7 | burden
+| bip_39_word_new_line_7 | burden
 anxiety
 science
 explain
 soap
 romance
 curious |  
-| bip_39_word_new_line8 | burden
+| bip_39_word_new_line_8 | burden
 anxiety
 science
 explain
@@ -113,7 +113,7 @@ soap
 romance
 curious
 idle |  
-| bip_39_word_new_line9 | burden
+| bip_39_word_new_line_9 | burden
 anxiety
 science
 explain

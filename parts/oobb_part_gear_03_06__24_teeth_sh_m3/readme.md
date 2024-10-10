@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | output |  
-| bip_39_word_new_br10 | output<br>valid<br>host<br>glow<br>strike<br>pulp<br>actor<br>click<br>damp<br>sing |  
-| bip_39_word_new_br11 | output<br>valid<br>host<br>glow<br>strike<br>pulp<br>actor<br>click<br>damp<br>sing<br>impulse |  
-| bip_39_word_new_br12 | output<br>valid<br>host<br>glow<br>strike<br>pulp<br>actor<br>click<br>damp<br>sing<br>impulse<br>appear |  
-| bip_39_word_new_br2 | output<br>valid |  
-| bip_39_word_new_br3 | output<br>valid<br>host |  
-| bip_39_word_new_br4 | output<br>valid<br>host<br>glow |  
-| bip_39_word_new_br5 | output<br>valid<br>host<br>glow<br>strike |  
-| bip_39_word_new_br6 | output<br>valid<br>host<br>glow<br>strike<br>pulp |  
-| bip_39_word_new_br7 | output<br>valid<br>host<br>glow<br>strike<br>pulp<br>actor |  
-| bip_39_word_new_br8 | output<br>valid<br>host<br>glow<br>strike<br>pulp<br>actor<br>click |  
-| bip_39_word_new_br9 | output<br>valid<br>host<br>glow<br>strike<br>pulp<br>actor<br>click<br>damp |  
-| bip_39_word_new_line1 | output |  
-| bip_39_word_new_line10 | output
+| bip_39_word_new_br_1 | output |  
+| bip_39_word_new_br_10 | output<br>valid<br>host<br>glow<br>strike<br>pulp<br>actor<br>click<br>damp<br>sing |  
+| bip_39_word_new_br_11 | output<br>valid<br>host<br>glow<br>strike<br>pulp<br>actor<br>click<br>damp<br>sing<br>impulse |  
+| bip_39_word_new_br_12 | output<br>valid<br>host<br>glow<br>strike<br>pulp<br>actor<br>click<br>damp<br>sing<br>impulse<br>appear |  
+| bip_39_word_new_br_2 | output<br>valid |  
+| bip_39_word_new_br_3 | output<br>valid<br>host |  
+| bip_39_word_new_br_4 | output<br>valid<br>host<br>glow |  
+| bip_39_word_new_br_5 | output<br>valid<br>host<br>glow<br>strike |  
+| bip_39_word_new_br_6 | output<br>valid<br>host<br>glow<br>strike<br>pulp |  
+| bip_39_word_new_br_7 | output<br>valid<br>host<br>glow<br>strike<br>pulp<br>actor |  
+| bip_39_word_new_br_8 | output<br>valid<br>host<br>glow<br>strike<br>pulp<br>actor<br>click |  
+| bip_39_word_new_br_9 | output<br>valid<br>host<br>glow<br>strike<br>pulp<br>actor<br>click<br>damp |  
+| bip_39_word_new_line_1 | output |  
+| bip_39_word_new_line_10 | output
 valid
 host
 glow
@@ -55,7 +55,7 @@ actor
 click
 damp
 sing |  
-| bip_39_word_new_line11 | output
+| bip_39_word_new_line_11 | output
 valid
 host
 glow
@@ -66,7 +66,7 @@ click
 damp
 sing
 impulse |  
-| bip_39_word_new_line12 | output
+| bip_39_word_new_line_12 | output
 valid
 host
 glow
@@ -78,34 +78,34 @@ damp
 sing
 impulse
 appear |  
-| bip_39_word_new_line2 | output
+| bip_39_word_new_line_2 | output
 valid |  
-| bip_39_word_new_line3 | output
+| bip_39_word_new_line_3 | output
 valid
 host |  
-| bip_39_word_new_line4 | output
+| bip_39_word_new_line_4 | output
 valid
 host
 glow |  
-| bip_39_word_new_line5 | output
+| bip_39_word_new_line_5 | output
 valid
 host
 glow
 strike |  
-| bip_39_word_new_line6 | output
+| bip_39_word_new_line_6 | output
 valid
 host
 glow
 strike
 pulp |  
-| bip_39_word_new_line7 | output
+| bip_39_word_new_line_7 | output
 valid
 host
 glow
 strike
 pulp
 actor |  
-| bip_39_word_new_line8 | output
+| bip_39_word_new_line_8 | output
 valid
 host
 glow
@@ -113,7 +113,7 @@ strike
 pulp
 actor
 click |  
-| bip_39_word_new_line9 | output
+| bip_39_word_new_line_9 | output
 valid
 host
 glow

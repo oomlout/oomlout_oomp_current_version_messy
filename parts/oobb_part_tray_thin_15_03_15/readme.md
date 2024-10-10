@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | broom |  
-| bip_39_word_new_br10 | broom<br>venture<br>blood<br>parrot<br>raccoon<br>topple<br>waste<br>thought<br>spray<br>try |  
-| bip_39_word_new_br11 | broom<br>venture<br>blood<br>parrot<br>raccoon<br>topple<br>waste<br>thought<br>spray<br>try<br>same |  
-| bip_39_word_new_br12 | broom<br>venture<br>blood<br>parrot<br>raccoon<br>topple<br>waste<br>thought<br>spray<br>try<br>same<br>area |  
-| bip_39_word_new_br2 | broom<br>venture |  
-| bip_39_word_new_br3 | broom<br>venture<br>blood |  
-| bip_39_word_new_br4 | broom<br>venture<br>blood<br>parrot |  
-| bip_39_word_new_br5 | broom<br>venture<br>blood<br>parrot<br>raccoon |  
-| bip_39_word_new_br6 | broom<br>venture<br>blood<br>parrot<br>raccoon<br>topple |  
-| bip_39_word_new_br7 | broom<br>venture<br>blood<br>parrot<br>raccoon<br>topple<br>waste |  
-| bip_39_word_new_br8 | broom<br>venture<br>blood<br>parrot<br>raccoon<br>topple<br>waste<br>thought |  
-| bip_39_word_new_br9 | broom<br>venture<br>blood<br>parrot<br>raccoon<br>topple<br>waste<br>thought<br>spray |  
-| bip_39_word_new_line1 | broom |  
-| bip_39_word_new_line10 | broom
+| bip_39_word_new_br_1 | broom |  
+| bip_39_word_new_br_10 | broom<br>venture<br>blood<br>parrot<br>raccoon<br>topple<br>waste<br>thought<br>spray<br>try |  
+| bip_39_word_new_br_11 | broom<br>venture<br>blood<br>parrot<br>raccoon<br>topple<br>waste<br>thought<br>spray<br>try<br>same |  
+| bip_39_word_new_br_12 | broom<br>venture<br>blood<br>parrot<br>raccoon<br>topple<br>waste<br>thought<br>spray<br>try<br>same<br>area |  
+| bip_39_word_new_br_2 | broom<br>venture |  
+| bip_39_word_new_br_3 | broom<br>venture<br>blood |  
+| bip_39_word_new_br_4 | broom<br>venture<br>blood<br>parrot |  
+| bip_39_word_new_br_5 | broom<br>venture<br>blood<br>parrot<br>raccoon |  
+| bip_39_word_new_br_6 | broom<br>venture<br>blood<br>parrot<br>raccoon<br>topple |  
+| bip_39_word_new_br_7 | broom<br>venture<br>blood<br>parrot<br>raccoon<br>topple<br>waste |  
+| bip_39_word_new_br_8 | broom<br>venture<br>blood<br>parrot<br>raccoon<br>topple<br>waste<br>thought |  
+| bip_39_word_new_br_9 | broom<br>venture<br>blood<br>parrot<br>raccoon<br>topple<br>waste<br>thought<br>spray |  
+| bip_39_word_new_line_1 | broom |  
+| bip_39_word_new_line_10 | broom
 venture
 blood
 parrot
@@ -55,7 +55,7 @@ waste
 thought
 spray
 try |  
-| bip_39_word_new_line11 | broom
+| bip_39_word_new_line_11 | broom
 venture
 blood
 parrot
@@ -66,7 +66,7 @@ thought
 spray
 try
 same |  
-| bip_39_word_new_line12 | broom
+| bip_39_word_new_line_12 | broom
 venture
 blood
 parrot
@@ -78,34 +78,34 @@ spray
 try
 same
 area |  
-| bip_39_word_new_line2 | broom
+| bip_39_word_new_line_2 | broom
 venture |  
-| bip_39_word_new_line3 | broom
+| bip_39_word_new_line_3 | broom
 venture
 blood |  
-| bip_39_word_new_line4 | broom
+| bip_39_word_new_line_4 | broom
 venture
 blood
 parrot |  
-| bip_39_word_new_line5 | broom
+| bip_39_word_new_line_5 | broom
 venture
 blood
 parrot
 raccoon |  
-| bip_39_word_new_line6 | broom
+| bip_39_word_new_line_6 | broom
 venture
 blood
 parrot
 raccoon
 topple |  
-| bip_39_word_new_line7 | broom
+| bip_39_word_new_line_7 | broom
 venture
 blood
 parrot
 raccoon
 topple
 waste |  
-| bip_39_word_new_line8 | broom
+| bip_39_word_new_line_8 | broom
 venture
 blood
 parrot
@@ -113,7 +113,7 @@ raccoon
 topple
 waste
 thought |  
-| bip_39_word_new_line9 | broom
+| bip_39_word_new_line_9 | broom
 venture
 blood
 parrot

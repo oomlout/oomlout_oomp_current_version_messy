@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | general |  
-| bip_39_word_new_br10 | general<br>census<br>office<br>isolate<br>cargo<br>company<br>armed<br>brave<br>erode<br>inmate |  
-| bip_39_word_new_br11 | general<br>census<br>office<br>isolate<br>cargo<br>company<br>armed<br>brave<br>erode<br>inmate<br>gorilla |  
-| bip_39_word_new_br12 | general<br>census<br>office<br>isolate<br>cargo<br>company<br>armed<br>brave<br>erode<br>inmate<br>gorilla<br>armed |  
-| bip_39_word_new_br2 | general<br>census |  
-| bip_39_word_new_br3 | general<br>census<br>office |  
-| bip_39_word_new_br4 | general<br>census<br>office<br>isolate |  
-| bip_39_word_new_br5 | general<br>census<br>office<br>isolate<br>cargo |  
-| bip_39_word_new_br6 | general<br>census<br>office<br>isolate<br>cargo<br>company |  
-| bip_39_word_new_br7 | general<br>census<br>office<br>isolate<br>cargo<br>company<br>armed |  
-| bip_39_word_new_br8 | general<br>census<br>office<br>isolate<br>cargo<br>company<br>armed<br>brave |  
-| bip_39_word_new_br9 | general<br>census<br>office<br>isolate<br>cargo<br>company<br>armed<br>brave<br>erode |  
-| bip_39_word_new_line1 | general |  
-| bip_39_word_new_line10 | general
+| bip_39_word_new_br_1 | general |  
+| bip_39_word_new_br_10 | general<br>census<br>office<br>isolate<br>cargo<br>company<br>armed<br>brave<br>erode<br>inmate |  
+| bip_39_word_new_br_11 | general<br>census<br>office<br>isolate<br>cargo<br>company<br>armed<br>brave<br>erode<br>inmate<br>gorilla |  
+| bip_39_word_new_br_12 | general<br>census<br>office<br>isolate<br>cargo<br>company<br>armed<br>brave<br>erode<br>inmate<br>gorilla<br>armed |  
+| bip_39_word_new_br_2 | general<br>census |  
+| bip_39_word_new_br_3 | general<br>census<br>office |  
+| bip_39_word_new_br_4 | general<br>census<br>office<br>isolate |  
+| bip_39_word_new_br_5 | general<br>census<br>office<br>isolate<br>cargo |  
+| bip_39_word_new_br_6 | general<br>census<br>office<br>isolate<br>cargo<br>company |  
+| bip_39_word_new_br_7 | general<br>census<br>office<br>isolate<br>cargo<br>company<br>armed |  
+| bip_39_word_new_br_8 | general<br>census<br>office<br>isolate<br>cargo<br>company<br>armed<br>brave |  
+| bip_39_word_new_br_9 | general<br>census<br>office<br>isolate<br>cargo<br>company<br>armed<br>brave<br>erode |  
+| bip_39_word_new_line_1 | general |  
+| bip_39_word_new_line_10 | general
 census
 office
 isolate
@@ -55,7 +55,7 @@ armed
 brave
 erode
 inmate |  
-| bip_39_word_new_line11 | general
+| bip_39_word_new_line_11 | general
 census
 office
 isolate
@@ -66,7 +66,7 @@ brave
 erode
 inmate
 gorilla |  
-| bip_39_word_new_line12 | general
+| bip_39_word_new_line_12 | general
 census
 office
 isolate
@@ -78,34 +78,34 @@ erode
 inmate
 gorilla
 armed |  
-| bip_39_word_new_line2 | general
+| bip_39_word_new_line_2 | general
 census |  
-| bip_39_word_new_line3 | general
+| bip_39_word_new_line_3 | general
 census
 office |  
-| bip_39_word_new_line4 | general
+| bip_39_word_new_line_4 | general
 census
 office
 isolate |  
-| bip_39_word_new_line5 | general
+| bip_39_word_new_line_5 | general
 census
 office
 isolate
 cargo |  
-| bip_39_word_new_line6 | general
+| bip_39_word_new_line_6 | general
 census
 office
 isolate
 cargo
 company |  
-| bip_39_word_new_line7 | general
+| bip_39_word_new_line_7 | general
 census
 office
 isolate
 cargo
 company
 armed |  
-| bip_39_word_new_line8 | general
+| bip_39_word_new_line_8 | general
 census
 office
 isolate
@@ -113,7 +113,7 @@ cargo
 company
 armed
 brave |  
-| bip_39_word_new_line9 | general
+| bip_39_word_new_line_9 | general
 census
 office
 isolate

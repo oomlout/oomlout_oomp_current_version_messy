@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rebuild |  
-| bip_39_word_new_br10 | rebuild<br>doll<br>vanish<br>now<br>buyer<br>client<br>pluck<br>unveil<br>floor<br>toddler |  
-| bip_39_word_new_br11 | rebuild<br>doll<br>vanish<br>now<br>buyer<br>client<br>pluck<br>unveil<br>floor<br>toddler<br>hawk |  
-| bip_39_word_new_br12 | rebuild<br>doll<br>vanish<br>now<br>buyer<br>client<br>pluck<br>unveil<br>floor<br>toddler<br>hawk<br>art |  
-| bip_39_word_new_br2 | rebuild<br>doll |  
-| bip_39_word_new_br3 | rebuild<br>doll<br>vanish |  
-| bip_39_word_new_br4 | rebuild<br>doll<br>vanish<br>now |  
-| bip_39_word_new_br5 | rebuild<br>doll<br>vanish<br>now<br>buyer |  
-| bip_39_word_new_br6 | rebuild<br>doll<br>vanish<br>now<br>buyer<br>client |  
-| bip_39_word_new_br7 | rebuild<br>doll<br>vanish<br>now<br>buyer<br>client<br>pluck |  
-| bip_39_word_new_br8 | rebuild<br>doll<br>vanish<br>now<br>buyer<br>client<br>pluck<br>unveil |  
-| bip_39_word_new_br9 | rebuild<br>doll<br>vanish<br>now<br>buyer<br>client<br>pluck<br>unveil<br>floor |  
-| bip_39_word_new_line1 | rebuild |  
-| bip_39_word_new_line10 | rebuild
+| bip_39_word_new_br_1 | rebuild |  
+| bip_39_word_new_br_10 | rebuild<br>doll<br>vanish<br>now<br>buyer<br>client<br>pluck<br>unveil<br>floor<br>toddler |  
+| bip_39_word_new_br_11 | rebuild<br>doll<br>vanish<br>now<br>buyer<br>client<br>pluck<br>unveil<br>floor<br>toddler<br>hawk |  
+| bip_39_word_new_br_12 | rebuild<br>doll<br>vanish<br>now<br>buyer<br>client<br>pluck<br>unveil<br>floor<br>toddler<br>hawk<br>art |  
+| bip_39_word_new_br_2 | rebuild<br>doll |  
+| bip_39_word_new_br_3 | rebuild<br>doll<br>vanish |  
+| bip_39_word_new_br_4 | rebuild<br>doll<br>vanish<br>now |  
+| bip_39_word_new_br_5 | rebuild<br>doll<br>vanish<br>now<br>buyer |  
+| bip_39_word_new_br_6 | rebuild<br>doll<br>vanish<br>now<br>buyer<br>client |  
+| bip_39_word_new_br_7 | rebuild<br>doll<br>vanish<br>now<br>buyer<br>client<br>pluck |  
+| bip_39_word_new_br_8 | rebuild<br>doll<br>vanish<br>now<br>buyer<br>client<br>pluck<br>unveil |  
+| bip_39_word_new_br_9 | rebuild<br>doll<br>vanish<br>now<br>buyer<br>client<br>pluck<br>unveil<br>floor |  
+| bip_39_word_new_line_1 | rebuild |  
+| bip_39_word_new_line_10 | rebuild
 doll
 vanish
 now
@@ -55,7 +55,7 @@ pluck
 unveil
 floor
 toddler |  
-| bip_39_word_new_line11 | rebuild
+| bip_39_word_new_line_11 | rebuild
 doll
 vanish
 now
@@ -66,7 +66,7 @@ unveil
 floor
 toddler
 hawk |  
-| bip_39_word_new_line12 | rebuild
+| bip_39_word_new_line_12 | rebuild
 doll
 vanish
 now
@@ -78,34 +78,34 @@ floor
 toddler
 hawk
 art |  
-| bip_39_word_new_line2 | rebuild
+| bip_39_word_new_line_2 | rebuild
 doll |  
-| bip_39_word_new_line3 | rebuild
+| bip_39_word_new_line_3 | rebuild
 doll
 vanish |  
-| bip_39_word_new_line4 | rebuild
+| bip_39_word_new_line_4 | rebuild
 doll
 vanish
 now |  
-| bip_39_word_new_line5 | rebuild
+| bip_39_word_new_line_5 | rebuild
 doll
 vanish
 now
 buyer |  
-| bip_39_word_new_line6 | rebuild
+| bip_39_word_new_line_6 | rebuild
 doll
 vanish
 now
 buyer
 client |  
-| bip_39_word_new_line7 | rebuild
+| bip_39_word_new_line_7 | rebuild
 doll
 vanish
 now
 buyer
 client
 pluck |  
-| bip_39_word_new_line8 | rebuild
+| bip_39_word_new_line_8 | rebuild
 doll
 vanish
 now
@@ -113,7 +113,7 @@ buyer
 client
 pluck
 unveil |  
-| bip_39_word_new_line9 | rebuild
+| bip_39_word_new_line_9 | rebuild
 doll
 vanish
 now

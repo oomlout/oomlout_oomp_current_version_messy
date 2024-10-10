@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | talent |  
-| bip_39_word_new_br10 | talent<br>sure<br>frame<br>proof<br>retreat<br>fine<br>jealous<br>tuna<br>erosion<br>soon |  
-| bip_39_word_new_br11 | talent<br>sure<br>frame<br>proof<br>retreat<br>fine<br>jealous<br>tuna<br>erosion<br>soon<br>insect |  
-| bip_39_word_new_br12 | talent<br>sure<br>frame<br>proof<br>retreat<br>fine<br>jealous<br>tuna<br>erosion<br>soon<br>insect<br>alien |  
-| bip_39_word_new_br2 | talent<br>sure |  
-| bip_39_word_new_br3 | talent<br>sure<br>frame |  
-| bip_39_word_new_br4 | talent<br>sure<br>frame<br>proof |  
-| bip_39_word_new_br5 | talent<br>sure<br>frame<br>proof<br>retreat |  
-| bip_39_word_new_br6 | talent<br>sure<br>frame<br>proof<br>retreat<br>fine |  
-| bip_39_word_new_br7 | talent<br>sure<br>frame<br>proof<br>retreat<br>fine<br>jealous |  
-| bip_39_word_new_br8 | talent<br>sure<br>frame<br>proof<br>retreat<br>fine<br>jealous<br>tuna |  
-| bip_39_word_new_br9 | talent<br>sure<br>frame<br>proof<br>retreat<br>fine<br>jealous<br>tuna<br>erosion |  
-| bip_39_word_new_line1 | talent |  
-| bip_39_word_new_line10 | talent
+| bip_39_word_new_br_1 | talent |  
+| bip_39_word_new_br_10 | talent<br>sure<br>frame<br>proof<br>retreat<br>fine<br>jealous<br>tuna<br>erosion<br>soon |  
+| bip_39_word_new_br_11 | talent<br>sure<br>frame<br>proof<br>retreat<br>fine<br>jealous<br>tuna<br>erosion<br>soon<br>insect |  
+| bip_39_word_new_br_12 | talent<br>sure<br>frame<br>proof<br>retreat<br>fine<br>jealous<br>tuna<br>erosion<br>soon<br>insect<br>alien |  
+| bip_39_word_new_br_2 | talent<br>sure |  
+| bip_39_word_new_br_3 | talent<br>sure<br>frame |  
+| bip_39_word_new_br_4 | talent<br>sure<br>frame<br>proof |  
+| bip_39_word_new_br_5 | talent<br>sure<br>frame<br>proof<br>retreat |  
+| bip_39_word_new_br_6 | talent<br>sure<br>frame<br>proof<br>retreat<br>fine |  
+| bip_39_word_new_br_7 | talent<br>sure<br>frame<br>proof<br>retreat<br>fine<br>jealous |  
+| bip_39_word_new_br_8 | talent<br>sure<br>frame<br>proof<br>retreat<br>fine<br>jealous<br>tuna |  
+| bip_39_word_new_br_9 | talent<br>sure<br>frame<br>proof<br>retreat<br>fine<br>jealous<br>tuna<br>erosion |  
+| bip_39_word_new_line_1 | talent |  
+| bip_39_word_new_line_10 | talent
 sure
 frame
 proof
@@ -55,7 +55,7 @@ jealous
 tuna
 erosion
 soon |  
-| bip_39_word_new_line11 | talent
+| bip_39_word_new_line_11 | talent
 sure
 frame
 proof
@@ -66,7 +66,7 @@ tuna
 erosion
 soon
 insect |  
-| bip_39_word_new_line12 | talent
+| bip_39_word_new_line_12 | talent
 sure
 frame
 proof
@@ -78,34 +78,34 @@ erosion
 soon
 insect
 alien |  
-| bip_39_word_new_line2 | talent
+| bip_39_word_new_line_2 | talent
 sure |  
-| bip_39_word_new_line3 | talent
+| bip_39_word_new_line_3 | talent
 sure
 frame |  
-| bip_39_word_new_line4 | talent
+| bip_39_word_new_line_4 | talent
 sure
 frame
 proof |  
-| bip_39_word_new_line5 | talent
+| bip_39_word_new_line_5 | talent
 sure
 frame
 proof
 retreat |  
-| bip_39_word_new_line6 | talent
+| bip_39_word_new_line_6 | talent
 sure
 frame
 proof
 retreat
 fine |  
-| bip_39_word_new_line7 | talent
+| bip_39_word_new_line_7 | talent
 sure
 frame
 proof
 retreat
 fine
 jealous |  
-| bip_39_word_new_line8 | talent
+| bip_39_word_new_line_8 | talent
 sure
 frame
 proof
@@ -113,7 +113,7 @@ retreat
 fine
 jealous
 tuna |  
-| bip_39_word_new_line9 | talent
+| bip_39_word_new_line_9 | talent
 sure
 frame
 proof

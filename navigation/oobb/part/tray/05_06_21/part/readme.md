@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | kidney |  
-| bip_39_word_new_br10 | kidney<br>choose<br>pet<br>glide<br>mass<br>toe<br>day<br>spoil<br>gravity<br>clean |  
-| bip_39_word_new_br11 | kidney<br>choose<br>pet<br>glide<br>mass<br>toe<br>day<br>spoil<br>gravity<br>clean<br>series |  
-| bip_39_word_new_br12 | kidney<br>choose<br>pet<br>glide<br>mass<br>toe<br>day<br>spoil<br>gravity<br>clean<br>series<br>amateur |  
-| bip_39_word_new_br2 | kidney<br>choose |  
-| bip_39_word_new_br3 | kidney<br>choose<br>pet |  
-| bip_39_word_new_br4 | kidney<br>choose<br>pet<br>glide |  
-| bip_39_word_new_br5 | kidney<br>choose<br>pet<br>glide<br>mass |  
-| bip_39_word_new_br6 | kidney<br>choose<br>pet<br>glide<br>mass<br>toe |  
-| bip_39_word_new_br7 | kidney<br>choose<br>pet<br>glide<br>mass<br>toe<br>day |  
-| bip_39_word_new_br8 | kidney<br>choose<br>pet<br>glide<br>mass<br>toe<br>day<br>spoil |  
-| bip_39_word_new_br9 | kidney<br>choose<br>pet<br>glide<br>mass<br>toe<br>day<br>spoil<br>gravity |  
-| bip_39_word_new_line1 | kidney |  
-| bip_39_word_new_line10 | kidney
+| bip_39_word_new_br_1 | kidney |  
+| bip_39_word_new_br_10 | kidney<br>choose<br>pet<br>glide<br>mass<br>toe<br>day<br>spoil<br>gravity<br>clean |  
+| bip_39_word_new_br_11 | kidney<br>choose<br>pet<br>glide<br>mass<br>toe<br>day<br>spoil<br>gravity<br>clean<br>series |  
+| bip_39_word_new_br_12 | kidney<br>choose<br>pet<br>glide<br>mass<br>toe<br>day<br>spoil<br>gravity<br>clean<br>series<br>amateur |  
+| bip_39_word_new_br_2 | kidney<br>choose |  
+| bip_39_word_new_br_3 | kidney<br>choose<br>pet |  
+| bip_39_word_new_br_4 | kidney<br>choose<br>pet<br>glide |  
+| bip_39_word_new_br_5 | kidney<br>choose<br>pet<br>glide<br>mass |  
+| bip_39_word_new_br_6 | kidney<br>choose<br>pet<br>glide<br>mass<br>toe |  
+| bip_39_word_new_br_7 | kidney<br>choose<br>pet<br>glide<br>mass<br>toe<br>day |  
+| bip_39_word_new_br_8 | kidney<br>choose<br>pet<br>glide<br>mass<br>toe<br>day<br>spoil |  
+| bip_39_word_new_br_9 | kidney<br>choose<br>pet<br>glide<br>mass<br>toe<br>day<br>spoil<br>gravity |  
+| bip_39_word_new_line_1 | kidney |  
+| bip_39_word_new_line_10 | kidney
 choose
 pet
 glide
@@ -55,7 +55,7 @@ day
 spoil
 gravity
 clean |  
-| bip_39_word_new_line11 | kidney
+| bip_39_word_new_line_11 | kidney
 choose
 pet
 glide
@@ -66,7 +66,7 @@ spoil
 gravity
 clean
 series |  
-| bip_39_word_new_line12 | kidney
+| bip_39_word_new_line_12 | kidney
 choose
 pet
 glide
@@ -78,34 +78,34 @@ gravity
 clean
 series
 amateur |  
-| bip_39_word_new_line2 | kidney
+| bip_39_word_new_line_2 | kidney
 choose |  
-| bip_39_word_new_line3 | kidney
+| bip_39_word_new_line_3 | kidney
 choose
 pet |  
-| bip_39_word_new_line4 | kidney
+| bip_39_word_new_line_4 | kidney
 choose
 pet
 glide |  
-| bip_39_word_new_line5 | kidney
+| bip_39_word_new_line_5 | kidney
 choose
 pet
 glide
 mass |  
-| bip_39_word_new_line6 | kidney
+| bip_39_word_new_line_6 | kidney
 choose
 pet
 glide
 mass
 toe |  
-| bip_39_word_new_line7 | kidney
+| bip_39_word_new_line_7 | kidney
 choose
 pet
 glide
 mass
 toe
 day |  
-| bip_39_word_new_line8 | kidney
+| bip_39_word_new_line_8 | kidney
 choose
 pet
 glide
@@ -113,7 +113,7 @@ mass
 toe
 day
 spoil |  
-| bip_39_word_new_line9 | kidney
+| bip_39_word_new_line_9 | kidney
 choose
 pet
 glide

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | have |  
-| bip_39_word_new_br10 | have<br>battle<br>bone<br>fly<br>sketch<br>crack<br>mirror<br>border<br>truck<br>garment |  
-| bip_39_word_new_br11 | have<br>battle<br>bone<br>fly<br>sketch<br>crack<br>mirror<br>border<br>truck<br>garment<br>gold |  
-| bip_39_word_new_br12 | have<br>battle<br>bone<br>fly<br>sketch<br>crack<br>mirror<br>border<br>truck<br>garment<br>gold<br>alien |  
-| bip_39_word_new_br2 | have<br>battle |  
-| bip_39_word_new_br3 | have<br>battle<br>bone |  
-| bip_39_word_new_br4 | have<br>battle<br>bone<br>fly |  
-| bip_39_word_new_br5 | have<br>battle<br>bone<br>fly<br>sketch |  
-| bip_39_word_new_br6 | have<br>battle<br>bone<br>fly<br>sketch<br>crack |  
-| bip_39_word_new_br7 | have<br>battle<br>bone<br>fly<br>sketch<br>crack<br>mirror |  
-| bip_39_word_new_br8 | have<br>battle<br>bone<br>fly<br>sketch<br>crack<br>mirror<br>border |  
-| bip_39_word_new_br9 | have<br>battle<br>bone<br>fly<br>sketch<br>crack<br>mirror<br>border<br>truck |  
-| bip_39_word_new_line1 | have |  
-| bip_39_word_new_line10 | have
+| bip_39_word_new_br_1 | have |  
+| bip_39_word_new_br_10 | have<br>battle<br>bone<br>fly<br>sketch<br>crack<br>mirror<br>border<br>truck<br>garment |  
+| bip_39_word_new_br_11 | have<br>battle<br>bone<br>fly<br>sketch<br>crack<br>mirror<br>border<br>truck<br>garment<br>gold |  
+| bip_39_word_new_br_12 | have<br>battle<br>bone<br>fly<br>sketch<br>crack<br>mirror<br>border<br>truck<br>garment<br>gold<br>alien |  
+| bip_39_word_new_br_2 | have<br>battle |  
+| bip_39_word_new_br_3 | have<br>battle<br>bone |  
+| bip_39_word_new_br_4 | have<br>battle<br>bone<br>fly |  
+| bip_39_word_new_br_5 | have<br>battle<br>bone<br>fly<br>sketch |  
+| bip_39_word_new_br_6 | have<br>battle<br>bone<br>fly<br>sketch<br>crack |  
+| bip_39_word_new_br_7 | have<br>battle<br>bone<br>fly<br>sketch<br>crack<br>mirror |  
+| bip_39_word_new_br_8 | have<br>battle<br>bone<br>fly<br>sketch<br>crack<br>mirror<br>border |  
+| bip_39_word_new_br_9 | have<br>battle<br>bone<br>fly<br>sketch<br>crack<br>mirror<br>border<br>truck |  
+| bip_39_word_new_line_1 | have |  
+| bip_39_word_new_line_10 | have
 battle
 bone
 fly
@@ -55,7 +55,7 @@ mirror
 border
 truck
 garment |  
-| bip_39_word_new_line11 | have
+| bip_39_word_new_line_11 | have
 battle
 bone
 fly
@@ -66,7 +66,7 @@ border
 truck
 garment
 gold |  
-| bip_39_word_new_line12 | have
+| bip_39_word_new_line_12 | have
 battle
 bone
 fly
@@ -78,34 +78,34 @@ truck
 garment
 gold
 alien |  
-| bip_39_word_new_line2 | have
+| bip_39_word_new_line_2 | have
 battle |  
-| bip_39_word_new_line3 | have
+| bip_39_word_new_line_3 | have
 battle
 bone |  
-| bip_39_word_new_line4 | have
+| bip_39_word_new_line_4 | have
 battle
 bone
 fly |  
-| bip_39_word_new_line5 | have
+| bip_39_word_new_line_5 | have
 battle
 bone
 fly
 sketch |  
-| bip_39_word_new_line6 | have
+| bip_39_word_new_line_6 | have
 battle
 bone
 fly
 sketch
 crack |  
-| bip_39_word_new_line7 | have
+| bip_39_word_new_line_7 | have
 battle
 bone
 fly
 sketch
 crack
 mirror |  
-| bip_39_word_new_line8 | have
+| bip_39_word_new_line_8 | have
 battle
 bone
 fly
@@ -113,7 +113,7 @@ sketch
 crack
 mirror
 border |  
-| bip_39_word_new_line9 | have
+| bip_39_word_new_line_9 | have
 battle
 bone
 fly

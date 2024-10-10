@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | source |  
-| bip_39_word_new_br10 | source<br>faint<br>elite<br>surge<br>legend<br>gaze<br>scene<br>street<br>saddle<br>pistol |  
-| bip_39_word_new_br11 | source<br>faint<br>elite<br>surge<br>legend<br>gaze<br>scene<br>street<br>saddle<br>pistol<br>travel |  
-| bip_39_word_new_br12 | source<br>faint<br>elite<br>surge<br>legend<br>gaze<br>scene<br>street<br>saddle<br>pistol<br>travel<br>art |  
-| bip_39_word_new_br2 | source<br>faint |  
-| bip_39_word_new_br3 | source<br>faint<br>elite |  
-| bip_39_word_new_br4 | source<br>faint<br>elite<br>surge |  
-| bip_39_word_new_br5 | source<br>faint<br>elite<br>surge<br>legend |  
-| bip_39_word_new_br6 | source<br>faint<br>elite<br>surge<br>legend<br>gaze |  
-| bip_39_word_new_br7 | source<br>faint<br>elite<br>surge<br>legend<br>gaze<br>scene |  
-| bip_39_word_new_br8 | source<br>faint<br>elite<br>surge<br>legend<br>gaze<br>scene<br>street |  
-| bip_39_word_new_br9 | source<br>faint<br>elite<br>surge<br>legend<br>gaze<br>scene<br>street<br>saddle |  
-| bip_39_word_new_line1 | source |  
-| bip_39_word_new_line10 | source
+| bip_39_word_new_br_1 | source |  
+| bip_39_word_new_br_10 | source<br>faint<br>elite<br>surge<br>legend<br>gaze<br>scene<br>street<br>saddle<br>pistol |  
+| bip_39_word_new_br_11 | source<br>faint<br>elite<br>surge<br>legend<br>gaze<br>scene<br>street<br>saddle<br>pistol<br>travel |  
+| bip_39_word_new_br_12 | source<br>faint<br>elite<br>surge<br>legend<br>gaze<br>scene<br>street<br>saddle<br>pistol<br>travel<br>art |  
+| bip_39_word_new_br_2 | source<br>faint |  
+| bip_39_word_new_br_3 | source<br>faint<br>elite |  
+| bip_39_word_new_br_4 | source<br>faint<br>elite<br>surge |  
+| bip_39_word_new_br_5 | source<br>faint<br>elite<br>surge<br>legend |  
+| bip_39_word_new_br_6 | source<br>faint<br>elite<br>surge<br>legend<br>gaze |  
+| bip_39_word_new_br_7 | source<br>faint<br>elite<br>surge<br>legend<br>gaze<br>scene |  
+| bip_39_word_new_br_8 | source<br>faint<br>elite<br>surge<br>legend<br>gaze<br>scene<br>street |  
+| bip_39_word_new_br_9 | source<br>faint<br>elite<br>surge<br>legend<br>gaze<br>scene<br>street<br>saddle |  
+| bip_39_word_new_line_1 | source |  
+| bip_39_word_new_line_10 | source
 faint
 elite
 surge
@@ -55,7 +55,7 @@ scene
 street
 saddle
 pistol |  
-| bip_39_word_new_line11 | source
+| bip_39_word_new_line_11 | source
 faint
 elite
 surge
@@ -66,7 +66,7 @@ street
 saddle
 pistol
 travel |  
-| bip_39_word_new_line12 | source
+| bip_39_word_new_line_12 | source
 faint
 elite
 surge
@@ -78,34 +78,34 @@ saddle
 pistol
 travel
 art |  
-| bip_39_word_new_line2 | source
+| bip_39_word_new_line_2 | source
 faint |  
-| bip_39_word_new_line3 | source
+| bip_39_word_new_line_3 | source
 faint
 elite |  
-| bip_39_word_new_line4 | source
+| bip_39_word_new_line_4 | source
 faint
 elite
 surge |  
-| bip_39_word_new_line5 | source
+| bip_39_word_new_line_5 | source
 faint
 elite
 surge
 legend |  
-| bip_39_word_new_line6 | source
+| bip_39_word_new_line_6 | source
 faint
 elite
 surge
 legend
 gaze |  
-| bip_39_word_new_line7 | source
+| bip_39_word_new_line_7 | source
 faint
 elite
 surge
 legend
 gaze
 scene |  
-| bip_39_word_new_line8 | source
+| bip_39_word_new_line_8 | source
 faint
 elite
 surge
@@ -113,7 +113,7 @@ legend
 gaze
 scene
 street |  
-| bip_39_word_new_line9 | source
+| bip_39_word_new_line_9 | source
 faint
 elite
 surge

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | congress |  
-| bip_39_word_new_br10 | congress<br>just<br>super<br>pool<br>code<br>fever<br>there<br>maid<br>process<br>entire |  
-| bip_39_word_new_br11 | congress<br>just<br>super<br>pool<br>code<br>fever<br>there<br>maid<br>process<br>entire<br>fetch |  
-| bip_39_word_new_br12 | congress<br>just<br>super<br>pool<br>code<br>fever<br>there<br>maid<br>process<br>entire<br>fetch<br>afraid |  
-| bip_39_word_new_br2 | congress<br>just |  
-| bip_39_word_new_br3 | congress<br>just<br>super |  
-| bip_39_word_new_br4 | congress<br>just<br>super<br>pool |  
-| bip_39_word_new_br5 | congress<br>just<br>super<br>pool<br>code |  
-| bip_39_word_new_br6 | congress<br>just<br>super<br>pool<br>code<br>fever |  
-| bip_39_word_new_br7 | congress<br>just<br>super<br>pool<br>code<br>fever<br>there |  
-| bip_39_word_new_br8 | congress<br>just<br>super<br>pool<br>code<br>fever<br>there<br>maid |  
-| bip_39_word_new_br9 | congress<br>just<br>super<br>pool<br>code<br>fever<br>there<br>maid<br>process |  
-| bip_39_word_new_line1 | congress |  
-| bip_39_word_new_line10 | congress
+| bip_39_word_new_br_1 | congress |  
+| bip_39_word_new_br_10 | congress<br>just<br>super<br>pool<br>code<br>fever<br>there<br>maid<br>process<br>entire |  
+| bip_39_word_new_br_11 | congress<br>just<br>super<br>pool<br>code<br>fever<br>there<br>maid<br>process<br>entire<br>fetch |  
+| bip_39_word_new_br_12 | congress<br>just<br>super<br>pool<br>code<br>fever<br>there<br>maid<br>process<br>entire<br>fetch<br>afraid |  
+| bip_39_word_new_br_2 | congress<br>just |  
+| bip_39_word_new_br_3 | congress<br>just<br>super |  
+| bip_39_word_new_br_4 | congress<br>just<br>super<br>pool |  
+| bip_39_word_new_br_5 | congress<br>just<br>super<br>pool<br>code |  
+| bip_39_word_new_br_6 | congress<br>just<br>super<br>pool<br>code<br>fever |  
+| bip_39_word_new_br_7 | congress<br>just<br>super<br>pool<br>code<br>fever<br>there |  
+| bip_39_word_new_br_8 | congress<br>just<br>super<br>pool<br>code<br>fever<br>there<br>maid |  
+| bip_39_word_new_br_9 | congress<br>just<br>super<br>pool<br>code<br>fever<br>there<br>maid<br>process |  
+| bip_39_word_new_line_1 | congress |  
+| bip_39_word_new_line_10 | congress
 just
 super
 pool
@@ -55,7 +55,7 @@ there
 maid
 process
 entire |  
-| bip_39_word_new_line11 | congress
+| bip_39_word_new_line_11 | congress
 just
 super
 pool
@@ -66,7 +66,7 @@ maid
 process
 entire
 fetch |  
-| bip_39_word_new_line12 | congress
+| bip_39_word_new_line_12 | congress
 just
 super
 pool
@@ -78,34 +78,34 @@ process
 entire
 fetch
 afraid |  
-| bip_39_word_new_line2 | congress
+| bip_39_word_new_line_2 | congress
 just |  
-| bip_39_word_new_line3 | congress
+| bip_39_word_new_line_3 | congress
 just
 super |  
-| bip_39_word_new_line4 | congress
+| bip_39_word_new_line_4 | congress
 just
 super
 pool |  
-| bip_39_word_new_line5 | congress
+| bip_39_word_new_line_5 | congress
 just
 super
 pool
 code |  
-| bip_39_word_new_line6 | congress
+| bip_39_word_new_line_6 | congress
 just
 super
 pool
 code
 fever |  
-| bip_39_word_new_line7 | congress
+| bip_39_word_new_line_7 | congress
 just
 super
 pool
 code
 fever
 there |  
-| bip_39_word_new_line8 | congress
+| bip_39_word_new_line_8 | congress
 just
 super
 pool
@@ -113,7 +113,7 @@ code
 fever
 there
 maid |  
-| bip_39_word_new_line9 | congress
+| bip_39_word_new_line_9 | congress
 just
 super
 pool

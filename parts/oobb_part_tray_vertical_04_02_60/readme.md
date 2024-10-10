@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | shove |  
-| bip_39_word_new_br10 | shove<br>sheriff<br>earn<br>lock<br>ski<br>pipe<br>photo<br>surprise<br>wool<br>manage |  
-| bip_39_word_new_br11 | shove<br>sheriff<br>earn<br>lock<br>ski<br>pipe<br>photo<br>surprise<br>wool<br>manage<br>friend |  
-| bip_39_word_new_br12 | shove<br>sheriff<br>earn<br>lock<br>ski<br>pipe<br>photo<br>surprise<br>wool<br>manage<br>friend<br>artist |  
-| bip_39_word_new_br2 | shove<br>sheriff |  
-| bip_39_word_new_br3 | shove<br>sheriff<br>earn |  
-| bip_39_word_new_br4 | shove<br>sheriff<br>earn<br>lock |  
-| bip_39_word_new_br5 | shove<br>sheriff<br>earn<br>lock<br>ski |  
-| bip_39_word_new_br6 | shove<br>sheriff<br>earn<br>lock<br>ski<br>pipe |  
-| bip_39_word_new_br7 | shove<br>sheriff<br>earn<br>lock<br>ski<br>pipe<br>photo |  
-| bip_39_word_new_br8 | shove<br>sheriff<br>earn<br>lock<br>ski<br>pipe<br>photo<br>surprise |  
-| bip_39_word_new_br9 | shove<br>sheriff<br>earn<br>lock<br>ski<br>pipe<br>photo<br>surprise<br>wool |  
-| bip_39_word_new_line1 | shove |  
-| bip_39_word_new_line10 | shove
+| bip_39_word_new_br_1 | shove |  
+| bip_39_word_new_br_10 | shove<br>sheriff<br>earn<br>lock<br>ski<br>pipe<br>photo<br>surprise<br>wool<br>manage |  
+| bip_39_word_new_br_11 | shove<br>sheriff<br>earn<br>lock<br>ski<br>pipe<br>photo<br>surprise<br>wool<br>manage<br>friend |  
+| bip_39_word_new_br_12 | shove<br>sheriff<br>earn<br>lock<br>ski<br>pipe<br>photo<br>surprise<br>wool<br>manage<br>friend<br>artist |  
+| bip_39_word_new_br_2 | shove<br>sheriff |  
+| bip_39_word_new_br_3 | shove<br>sheriff<br>earn |  
+| bip_39_word_new_br_4 | shove<br>sheriff<br>earn<br>lock |  
+| bip_39_word_new_br_5 | shove<br>sheriff<br>earn<br>lock<br>ski |  
+| bip_39_word_new_br_6 | shove<br>sheriff<br>earn<br>lock<br>ski<br>pipe |  
+| bip_39_word_new_br_7 | shove<br>sheriff<br>earn<br>lock<br>ski<br>pipe<br>photo |  
+| bip_39_word_new_br_8 | shove<br>sheriff<br>earn<br>lock<br>ski<br>pipe<br>photo<br>surprise |  
+| bip_39_word_new_br_9 | shove<br>sheriff<br>earn<br>lock<br>ski<br>pipe<br>photo<br>surprise<br>wool |  
+| bip_39_word_new_line_1 | shove |  
+| bip_39_word_new_line_10 | shove
 sheriff
 earn
 lock
@@ -55,7 +55,7 @@ photo
 surprise
 wool
 manage |  
-| bip_39_word_new_line11 | shove
+| bip_39_word_new_line_11 | shove
 sheriff
 earn
 lock
@@ -66,7 +66,7 @@ surprise
 wool
 manage
 friend |  
-| bip_39_word_new_line12 | shove
+| bip_39_word_new_line_12 | shove
 sheriff
 earn
 lock
@@ -78,34 +78,34 @@ wool
 manage
 friend
 artist |  
-| bip_39_word_new_line2 | shove
+| bip_39_word_new_line_2 | shove
 sheriff |  
-| bip_39_word_new_line3 | shove
+| bip_39_word_new_line_3 | shove
 sheriff
 earn |  
-| bip_39_word_new_line4 | shove
+| bip_39_word_new_line_4 | shove
 sheriff
 earn
 lock |  
-| bip_39_word_new_line5 | shove
+| bip_39_word_new_line_5 | shove
 sheriff
 earn
 lock
 ski |  
-| bip_39_word_new_line6 | shove
+| bip_39_word_new_line_6 | shove
 sheriff
 earn
 lock
 ski
 pipe |  
-| bip_39_word_new_line7 | shove
+| bip_39_word_new_line_7 | shove
 sheriff
 earn
 lock
 ski
 pipe
 photo |  
-| bip_39_word_new_line8 | shove
+| bip_39_word_new_line_8 | shove
 sheriff
 earn
 lock
@@ -113,7 +113,7 @@ ski
 pipe
 photo
 surprise |  
-| bip_39_word_new_line9 | shove
+| bip_39_word_new_line_9 | shove
 sheriff
 earn
 lock

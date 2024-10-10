@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | true |  
-| bip_39_word_new_br10 | true<br>invite<br>cost<br>tower<br>mutual<br>rabbit<br>copper<br>raven<br>jelly<br>cushion |  
-| bip_39_word_new_br11 | true<br>invite<br>cost<br>tower<br>mutual<br>rabbit<br>copper<br>raven<br>jelly<br>cushion<br>silly |  
-| bip_39_word_new_br12 | true<br>invite<br>cost<br>tower<br>mutual<br>rabbit<br>copper<br>raven<br>jelly<br>cushion<br>silly<br>afraid |  
-| bip_39_word_new_br2 | true<br>invite |  
-| bip_39_word_new_br3 | true<br>invite<br>cost |  
-| bip_39_word_new_br4 | true<br>invite<br>cost<br>tower |  
-| bip_39_word_new_br5 | true<br>invite<br>cost<br>tower<br>mutual |  
-| bip_39_word_new_br6 | true<br>invite<br>cost<br>tower<br>mutual<br>rabbit |  
-| bip_39_word_new_br7 | true<br>invite<br>cost<br>tower<br>mutual<br>rabbit<br>copper |  
-| bip_39_word_new_br8 | true<br>invite<br>cost<br>tower<br>mutual<br>rabbit<br>copper<br>raven |  
-| bip_39_word_new_br9 | true<br>invite<br>cost<br>tower<br>mutual<br>rabbit<br>copper<br>raven<br>jelly |  
-| bip_39_word_new_line1 | true |  
-| bip_39_word_new_line10 | true
+| bip_39_word_new_br_1 | true |  
+| bip_39_word_new_br_10 | true<br>invite<br>cost<br>tower<br>mutual<br>rabbit<br>copper<br>raven<br>jelly<br>cushion |  
+| bip_39_word_new_br_11 | true<br>invite<br>cost<br>tower<br>mutual<br>rabbit<br>copper<br>raven<br>jelly<br>cushion<br>silly |  
+| bip_39_word_new_br_12 | true<br>invite<br>cost<br>tower<br>mutual<br>rabbit<br>copper<br>raven<br>jelly<br>cushion<br>silly<br>afraid |  
+| bip_39_word_new_br_2 | true<br>invite |  
+| bip_39_word_new_br_3 | true<br>invite<br>cost |  
+| bip_39_word_new_br_4 | true<br>invite<br>cost<br>tower |  
+| bip_39_word_new_br_5 | true<br>invite<br>cost<br>tower<br>mutual |  
+| bip_39_word_new_br_6 | true<br>invite<br>cost<br>tower<br>mutual<br>rabbit |  
+| bip_39_word_new_br_7 | true<br>invite<br>cost<br>tower<br>mutual<br>rabbit<br>copper |  
+| bip_39_word_new_br_8 | true<br>invite<br>cost<br>tower<br>mutual<br>rabbit<br>copper<br>raven |  
+| bip_39_word_new_br_9 | true<br>invite<br>cost<br>tower<br>mutual<br>rabbit<br>copper<br>raven<br>jelly |  
+| bip_39_word_new_line_1 | true |  
+| bip_39_word_new_line_10 | true
 invite
 cost
 tower
@@ -55,7 +55,7 @@ copper
 raven
 jelly
 cushion |  
-| bip_39_word_new_line11 | true
+| bip_39_word_new_line_11 | true
 invite
 cost
 tower
@@ -66,7 +66,7 @@ raven
 jelly
 cushion
 silly |  
-| bip_39_word_new_line12 | true
+| bip_39_word_new_line_12 | true
 invite
 cost
 tower
@@ -78,34 +78,34 @@ jelly
 cushion
 silly
 afraid |  
-| bip_39_word_new_line2 | true
+| bip_39_word_new_line_2 | true
 invite |  
-| bip_39_word_new_line3 | true
+| bip_39_word_new_line_3 | true
 invite
 cost |  
-| bip_39_word_new_line4 | true
+| bip_39_word_new_line_4 | true
 invite
 cost
 tower |  
-| bip_39_word_new_line5 | true
+| bip_39_word_new_line_5 | true
 invite
 cost
 tower
 mutual |  
-| bip_39_word_new_line6 | true
+| bip_39_word_new_line_6 | true
 invite
 cost
 tower
 mutual
 rabbit |  
-| bip_39_word_new_line7 | true
+| bip_39_word_new_line_7 | true
 invite
 cost
 tower
 mutual
 rabbit
 copper |  
-| bip_39_word_new_line8 | true
+| bip_39_word_new_line_8 | true
 invite
 cost
 tower
@@ -113,7 +113,7 @@ mutual
 rabbit
 copper
 raven |  
-| bip_39_word_new_line9 | true
+| bip_39_word_new_line_9 | true
 invite
 cost
 tower

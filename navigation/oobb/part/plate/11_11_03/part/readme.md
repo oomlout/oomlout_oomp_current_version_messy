@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | stand |  
-| bip_39_word_new_br10 | stand<br>audit<br>dignity<br>plug<br>online<br>nuclear<br>spice<br>fragile<br>country<br>burger |  
-| bip_39_word_new_br11 | stand<br>audit<br>dignity<br>plug<br>online<br>nuclear<br>spice<br>fragile<br>country<br>burger<br>eagle |  
-| bip_39_word_new_br12 | stand<br>audit<br>dignity<br>plug<br>online<br>nuclear<br>spice<br>fragile<br>country<br>burger<br>eagle<br>admit |  
-| bip_39_word_new_br2 | stand<br>audit |  
-| bip_39_word_new_br3 | stand<br>audit<br>dignity |  
-| bip_39_word_new_br4 | stand<br>audit<br>dignity<br>plug |  
-| bip_39_word_new_br5 | stand<br>audit<br>dignity<br>plug<br>online |  
-| bip_39_word_new_br6 | stand<br>audit<br>dignity<br>plug<br>online<br>nuclear |  
-| bip_39_word_new_br7 | stand<br>audit<br>dignity<br>plug<br>online<br>nuclear<br>spice |  
-| bip_39_word_new_br8 | stand<br>audit<br>dignity<br>plug<br>online<br>nuclear<br>spice<br>fragile |  
-| bip_39_word_new_br9 | stand<br>audit<br>dignity<br>plug<br>online<br>nuclear<br>spice<br>fragile<br>country |  
-| bip_39_word_new_line1 | stand |  
-| bip_39_word_new_line10 | stand
+| bip_39_word_new_br_1 | stand |  
+| bip_39_word_new_br_10 | stand<br>audit<br>dignity<br>plug<br>online<br>nuclear<br>spice<br>fragile<br>country<br>burger |  
+| bip_39_word_new_br_11 | stand<br>audit<br>dignity<br>plug<br>online<br>nuclear<br>spice<br>fragile<br>country<br>burger<br>eagle |  
+| bip_39_word_new_br_12 | stand<br>audit<br>dignity<br>plug<br>online<br>nuclear<br>spice<br>fragile<br>country<br>burger<br>eagle<br>admit |  
+| bip_39_word_new_br_2 | stand<br>audit |  
+| bip_39_word_new_br_3 | stand<br>audit<br>dignity |  
+| bip_39_word_new_br_4 | stand<br>audit<br>dignity<br>plug |  
+| bip_39_word_new_br_5 | stand<br>audit<br>dignity<br>plug<br>online |  
+| bip_39_word_new_br_6 | stand<br>audit<br>dignity<br>plug<br>online<br>nuclear |  
+| bip_39_word_new_br_7 | stand<br>audit<br>dignity<br>plug<br>online<br>nuclear<br>spice |  
+| bip_39_word_new_br_8 | stand<br>audit<br>dignity<br>plug<br>online<br>nuclear<br>spice<br>fragile |  
+| bip_39_word_new_br_9 | stand<br>audit<br>dignity<br>plug<br>online<br>nuclear<br>spice<br>fragile<br>country |  
+| bip_39_word_new_line_1 | stand |  
+| bip_39_word_new_line_10 | stand
 audit
 dignity
 plug
@@ -55,7 +55,7 @@ spice
 fragile
 country
 burger |  
-| bip_39_word_new_line11 | stand
+| bip_39_word_new_line_11 | stand
 audit
 dignity
 plug
@@ -66,7 +66,7 @@ fragile
 country
 burger
 eagle |  
-| bip_39_word_new_line12 | stand
+| bip_39_word_new_line_12 | stand
 audit
 dignity
 plug
@@ -78,34 +78,34 @@ country
 burger
 eagle
 admit |  
-| bip_39_word_new_line2 | stand
+| bip_39_word_new_line_2 | stand
 audit |  
-| bip_39_word_new_line3 | stand
+| bip_39_word_new_line_3 | stand
 audit
 dignity |  
-| bip_39_word_new_line4 | stand
+| bip_39_word_new_line_4 | stand
 audit
 dignity
 plug |  
-| bip_39_word_new_line5 | stand
+| bip_39_word_new_line_5 | stand
 audit
 dignity
 plug
 online |  
-| bip_39_word_new_line6 | stand
+| bip_39_word_new_line_6 | stand
 audit
 dignity
 plug
 online
 nuclear |  
-| bip_39_word_new_line7 | stand
+| bip_39_word_new_line_7 | stand
 audit
 dignity
 plug
 online
 nuclear
 spice |  
-| bip_39_word_new_line8 | stand
+| bip_39_word_new_line_8 | stand
 audit
 dignity
 plug
@@ -113,7 +113,7 @@ online
 nuclear
 spice
 fragile |  
-| bip_39_word_new_line9 | stand
+| bip_39_word_new_line_9 | stand
 audit
 dignity
 plug

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | secret |  
-| bip_39_word_new_br10 | secret<br>few<br>mercy<br>leaf<br>use<br>that<br>fossil<br>beef<br>fruit<br>leave |  
-| bip_39_word_new_br11 | secret<br>few<br>mercy<br>leaf<br>use<br>that<br>fossil<br>beef<br>fruit<br>leave<br>will |  
-| bip_39_word_new_br12 | secret<br>few<br>mercy<br>leaf<br>use<br>that<br>fossil<br>beef<br>fruit<br>leave<br>will<br>art |  
-| bip_39_word_new_br2 | secret<br>few |  
-| bip_39_word_new_br3 | secret<br>few<br>mercy |  
-| bip_39_word_new_br4 | secret<br>few<br>mercy<br>leaf |  
-| bip_39_word_new_br5 | secret<br>few<br>mercy<br>leaf<br>use |  
-| bip_39_word_new_br6 | secret<br>few<br>mercy<br>leaf<br>use<br>that |  
-| bip_39_word_new_br7 | secret<br>few<br>mercy<br>leaf<br>use<br>that<br>fossil |  
-| bip_39_word_new_br8 | secret<br>few<br>mercy<br>leaf<br>use<br>that<br>fossil<br>beef |  
-| bip_39_word_new_br9 | secret<br>few<br>mercy<br>leaf<br>use<br>that<br>fossil<br>beef<br>fruit |  
-| bip_39_word_new_line1 | secret |  
-| bip_39_word_new_line10 | secret
+| bip_39_word_new_br_1 | secret |  
+| bip_39_word_new_br_10 | secret<br>few<br>mercy<br>leaf<br>use<br>that<br>fossil<br>beef<br>fruit<br>leave |  
+| bip_39_word_new_br_11 | secret<br>few<br>mercy<br>leaf<br>use<br>that<br>fossil<br>beef<br>fruit<br>leave<br>will |  
+| bip_39_word_new_br_12 | secret<br>few<br>mercy<br>leaf<br>use<br>that<br>fossil<br>beef<br>fruit<br>leave<br>will<br>art |  
+| bip_39_word_new_br_2 | secret<br>few |  
+| bip_39_word_new_br_3 | secret<br>few<br>mercy |  
+| bip_39_word_new_br_4 | secret<br>few<br>mercy<br>leaf |  
+| bip_39_word_new_br_5 | secret<br>few<br>mercy<br>leaf<br>use |  
+| bip_39_word_new_br_6 | secret<br>few<br>mercy<br>leaf<br>use<br>that |  
+| bip_39_word_new_br_7 | secret<br>few<br>mercy<br>leaf<br>use<br>that<br>fossil |  
+| bip_39_word_new_br_8 | secret<br>few<br>mercy<br>leaf<br>use<br>that<br>fossil<br>beef |  
+| bip_39_word_new_br_9 | secret<br>few<br>mercy<br>leaf<br>use<br>that<br>fossil<br>beef<br>fruit |  
+| bip_39_word_new_line_1 | secret |  
+| bip_39_word_new_line_10 | secret
 few
 mercy
 leaf
@@ -55,7 +55,7 @@ fossil
 beef
 fruit
 leave |  
-| bip_39_word_new_line11 | secret
+| bip_39_word_new_line_11 | secret
 few
 mercy
 leaf
@@ -66,7 +66,7 @@ beef
 fruit
 leave
 will |  
-| bip_39_word_new_line12 | secret
+| bip_39_word_new_line_12 | secret
 few
 mercy
 leaf
@@ -78,34 +78,34 @@ fruit
 leave
 will
 art |  
-| bip_39_word_new_line2 | secret
+| bip_39_word_new_line_2 | secret
 few |  
-| bip_39_word_new_line3 | secret
+| bip_39_word_new_line_3 | secret
 few
 mercy |  
-| bip_39_word_new_line4 | secret
+| bip_39_word_new_line_4 | secret
 few
 mercy
 leaf |  
-| bip_39_word_new_line5 | secret
+| bip_39_word_new_line_5 | secret
 few
 mercy
 leaf
 use |  
-| bip_39_word_new_line6 | secret
+| bip_39_word_new_line_6 | secret
 few
 mercy
 leaf
 use
 that |  
-| bip_39_word_new_line7 | secret
+| bip_39_word_new_line_7 | secret
 few
 mercy
 leaf
 use
 that
 fossil |  
-| bip_39_word_new_line8 | secret
+| bip_39_word_new_line_8 | secret
 few
 mercy
 leaf
@@ -113,7 +113,7 @@ use
 that
 fossil
 beef |  
-| bip_39_word_new_line9 | secret
+| bip_39_word_new_line_9 | secret
 few
 mercy
 leaf

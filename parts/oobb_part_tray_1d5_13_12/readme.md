@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | proof |  
-| bip_39_word_new_br10 | proof<br>problem<br>kangaroo<br>hair<br>summer<br>glow<br>soul<br>become<br>office<br>term |  
-| bip_39_word_new_br11 | proof<br>problem<br>kangaroo<br>hair<br>summer<br>glow<br>soul<br>become<br>office<br>term<br>image |  
-| bip_39_word_new_br12 | proof<br>problem<br>kangaroo<br>hair<br>summer<br>glow<br>soul<br>become<br>office<br>term<br>image<br>audit |  
-| bip_39_word_new_br2 | proof<br>problem |  
-| bip_39_word_new_br3 | proof<br>problem<br>kangaroo |  
-| bip_39_word_new_br4 | proof<br>problem<br>kangaroo<br>hair |  
-| bip_39_word_new_br5 | proof<br>problem<br>kangaroo<br>hair<br>summer |  
-| bip_39_word_new_br6 | proof<br>problem<br>kangaroo<br>hair<br>summer<br>glow |  
-| bip_39_word_new_br7 | proof<br>problem<br>kangaroo<br>hair<br>summer<br>glow<br>soul |  
-| bip_39_word_new_br8 | proof<br>problem<br>kangaroo<br>hair<br>summer<br>glow<br>soul<br>become |  
-| bip_39_word_new_br9 | proof<br>problem<br>kangaroo<br>hair<br>summer<br>glow<br>soul<br>become<br>office |  
-| bip_39_word_new_line1 | proof |  
-| bip_39_word_new_line10 | proof
+| bip_39_word_new_br_1 | proof |  
+| bip_39_word_new_br_10 | proof<br>problem<br>kangaroo<br>hair<br>summer<br>glow<br>soul<br>become<br>office<br>term |  
+| bip_39_word_new_br_11 | proof<br>problem<br>kangaroo<br>hair<br>summer<br>glow<br>soul<br>become<br>office<br>term<br>image |  
+| bip_39_word_new_br_12 | proof<br>problem<br>kangaroo<br>hair<br>summer<br>glow<br>soul<br>become<br>office<br>term<br>image<br>audit |  
+| bip_39_word_new_br_2 | proof<br>problem |  
+| bip_39_word_new_br_3 | proof<br>problem<br>kangaroo |  
+| bip_39_word_new_br_4 | proof<br>problem<br>kangaroo<br>hair |  
+| bip_39_word_new_br_5 | proof<br>problem<br>kangaroo<br>hair<br>summer |  
+| bip_39_word_new_br_6 | proof<br>problem<br>kangaroo<br>hair<br>summer<br>glow |  
+| bip_39_word_new_br_7 | proof<br>problem<br>kangaroo<br>hair<br>summer<br>glow<br>soul |  
+| bip_39_word_new_br_8 | proof<br>problem<br>kangaroo<br>hair<br>summer<br>glow<br>soul<br>become |  
+| bip_39_word_new_br_9 | proof<br>problem<br>kangaroo<br>hair<br>summer<br>glow<br>soul<br>become<br>office |  
+| bip_39_word_new_line_1 | proof |  
+| bip_39_word_new_line_10 | proof
 problem
 kangaroo
 hair
@@ -55,7 +55,7 @@ soul
 become
 office
 term |  
-| bip_39_word_new_line11 | proof
+| bip_39_word_new_line_11 | proof
 problem
 kangaroo
 hair
@@ -66,7 +66,7 @@ become
 office
 term
 image |  
-| bip_39_word_new_line12 | proof
+| bip_39_word_new_line_12 | proof
 problem
 kangaroo
 hair
@@ -78,34 +78,34 @@ office
 term
 image
 audit |  
-| bip_39_word_new_line2 | proof
+| bip_39_word_new_line_2 | proof
 problem |  
-| bip_39_word_new_line3 | proof
+| bip_39_word_new_line_3 | proof
 problem
 kangaroo |  
-| bip_39_word_new_line4 | proof
+| bip_39_word_new_line_4 | proof
 problem
 kangaroo
 hair |  
-| bip_39_word_new_line5 | proof
+| bip_39_word_new_line_5 | proof
 problem
 kangaroo
 hair
 summer |  
-| bip_39_word_new_line6 | proof
+| bip_39_word_new_line_6 | proof
 problem
 kangaroo
 hair
 summer
 glow |  
-| bip_39_word_new_line7 | proof
+| bip_39_word_new_line_7 | proof
 problem
 kangaroo
 hair
 summer
 glow
 soul |  
-| bip_39_word_new_line8 | proof
+| bip_39_word_new_line_8 | proof
 problem
 kangaroo
 hair
@@ -113,7 +113,7 @@ summer
 glow
 soul
 become |  
-| bip_39_word_new_line9 | proof
+| bip_39_word_new_line_9 | proof
 problem
 kangaroo
 hair

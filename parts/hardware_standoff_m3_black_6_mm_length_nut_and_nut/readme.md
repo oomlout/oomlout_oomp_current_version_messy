@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | special |  
-| bip_39_word_new_br10 | special<br>about<br>aerobic<br>mad<br>air<br>fork<br>over<br>magic<br>code<br>escape |  
-| bip_39_word_new_br11 | special<br>about<br>aerobic<br>mad<br>air<br>fork<br>over<br>magic<br>code<br>escape<br>expire |  
-| bip_39_word_new_br12 | special<br>about<br>aerobic<br>mad<br>air<br>fork<br>over<br>magic<br>code<br>escape<br>expire<br>actress |  
-| bip_39_word_new_br2 | special<br>about |  
-| bip_39_word_new_br3 | special<br>about<br>aerobic |  
-| bip_39_word_new_br4 | special<br>about<br>aerobic<br>mad |  
-| bip_39_word_new_br5 | special<br>about<br>aerobic<br>mad<br>air |  
-| bip_39_word_new_br6 | special<br>about<br>aerobic<br>mad<br>air<br>fork |  
-| bip_39_word_new_br7 | special<br>about<br>aerobic<br>mad<br>air<br>fork<br>over |  
-| bip_39_word_new_br8 | special<br>about<br>aerobic<br>mad<br>air<br>fork<br>over<br>magic |  
-| bip_39_word_new_br9 | special<br>about<br>aerobic<br>mad<br>air<br>fork<br>over<br>magic<br>code |  
-| bip_39_word_new_line1 | special |  
-| bip_39_word_new_line10 | special
+| bip_39_word_new_br_1 | special |  
+| bip_39_word_new_br_10 | special<br>about<br>aerobic<br>mad<br>air<br>fork<br>over<br>magic<br>code<br>escape |  
+| bip_39_word_new_br_11 | special<br>about<br>aerobic<br>mad<br>air<br>fork<br>over<br>magic<br>code<br>escape<br>expire |  
+| bip_39_word_new_br_12 | special<br>about<br>aerobic<br>mad<br>air<br>fork<br>over<br>magic<br>code<br>escape<br>expire<br>actress |  
+| bip_39_word_new_br_2 | special<br>about |  
+| bip_39_word_new_br_3 | special<br>about<br>aerobic |  
+| bip_39_word_new_br_4 | special<br>about<br>aerobic<br>mad |  
+| bip_39_word_new_br_5 | special<br>about<br>aerobic<br>mad<br>air |  
+| bip_39_word_new_br_6 | special<br>about<br>aerobic<br>mad<br>air<br>fork |  
+| bip_39_word_new_br_7 | special<br>about<br>aerobic<br>mad<br>air<br>fork<br>over |  
+| bip_39_word_new_br_8 | special<br>about<br>aerobic<br>mad<br>air<br>fork<br>over<br>magic |  
+| bip_39_word_new_br_9 | special<br>about<br>aerobic<br>mad<br>air<br>fork<br>over<br>magic<br>code |  
+| bip_39_word_new_line_1 | special |  
+| bip_39_word_new_line_10 | special
 about
 aerobic
 mad
@@ -55,7 +55,7 @@ over
 magic
 code
 escape |  
-| bip_39_word_new_line11 | special
+| bip_39_word_new_line_11 | special
 about
 aerobic
 mad
@@ -66,7 +66,7 @@ magic
 code
 escape
 expire |  
-| bip_39_word_new_line12 | special
+| bip_39_word_new_line_12 | special
 about
 aerobic
 mad
@@ -78,34 +78,34 @@ code
 escape
 expire
 actress |  
-| bip_39_word_new_line2 | special
+| bip_39_word_new_line_2 | special
 about |  
-| bip_39_word_new_line3 | special
+| bip_39_word_new_line_3 | special
 about
 aerobic |  
-| bip_39_word_new_line4 | special
+| bip_39_word_new_line_4 | special
 about
 aerobic
 mad |  
-| bip_39_word_new_line5 | special
+| bip_39_word_new_line_5 | special
 about
 aerobic
 mad
 air |  
-| bip_39_word_new_line6 | special
+| bip_39_word_new_line_6 | special
 about
 aerobic
 mad
 air
 fork |  
-| bip_39_word_new_line7 | special
+| bip_39_word_new_line_7 | special
 about
 aerobic
 mad
 air
 fork
 over |  
-| bip_39_word_new_line8 | special
+| bip_39_word_new_line_8 | special
 about
 aerobic
 mad
@@ -113,7 +113,7 @@ air
 fork
 over
 magic |  
-| bip_39_word_new_line9 | special
+| bip_39_word_new_line_9 | special
 about
 aerobic
 mad

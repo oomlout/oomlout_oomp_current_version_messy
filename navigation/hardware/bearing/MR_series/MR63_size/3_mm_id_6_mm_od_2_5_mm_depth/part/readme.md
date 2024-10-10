@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | kangaroo |  
-| bip_39_word_new_br10 | kangaroo<br>tourist<br>custom<br>fog<br>leaf<br>coral<br>reflect<br>friend<br>session<br>anger |  
-| bip_39_word_new_br11 | kangaroo<br>tourist<br>custom<br>fog<br>leaf<br>coral<br>reflect<br>friend<br>session<br>anger<br>actual |  
-| bip_39_word_new_br12 | kangaroo<br>tourist<br>custom<br>fog<br>leaf<br>coral<br>reflect<br>friend<br>session<br>anger<br>actual<br>air |  
-| bip_39_word_new_br2 | kangaroo<br>tourist |  
-| bip_39_word_new_br3 | kangaroo<br>tourist<br>custom |  
-| bip_39_word_new_br4 | kangaroo<br>tourist<br>custom<br>fog |  
-| bip_39_word_new_br5 | kangaroo<br>tourist<br>custom<br>fog<br>leaf |  
-| bip_39_word_new_br6 | kangaroo<br>tourist<br>custom<br>fog<br>leaf<br>coral |  
-| bip_39_word_new_br7 | kangaroo<br>tourist<br>custom<br>fog<br>leaf<br>coral<br>reflect |  
-| bip_39_word_new_br8 | kangaroo<br>tourist<br>custom<br>fog<br>leaf<br>coral<br>reflect<br>friend |  
-| bip_39_word_new_br9 | kangaroo<br>tourist<br>custom<br>fog<br>leaf<br>coral<br>reflect<br>friend<br>session |  
-| bip_39_word_new_line1 | kangaroo |  
-| bip_39_word_new_line10 | kangaroo
+| bip_39_word_new_br_1 | kangaroo |  
+| bip_39_word_new_br_10 | kangaroo<br>tourist<br>custom<br>fog<br>leaf<br>coral<br>reflect<br>friend<br>session<br>anger |  
+| bip_39_word_new_br_11 | kangaroo<br>tourist<br>custom<br>fog<br>leaf<br>coral<br>reflect<br>friend<br>session<br>anger<br>actual |  
+| bip_39_word_new_br_12 | kangaroo<br>tourist<br>custom<br>fog<br>leaf<br>coral<br>reflect<br>friend<br>session<br>anger<br>actual<br>air |  
+| bip_39_word_new_br_2 | kangaroo<br>tourist |  
+| bip_39_word_new_br_3 | kangaroo<br>tourist<br>custom |  
+| bip_39_word_new_br_4 | kangaroo<br>tourist<br>custom<br>fog |  
+| bip_39_word_new_br_5 | kangaroo<br>tourist<br>custom<br>fog<br>leaf |  
+| bip_39_word_new_br_6 | kangaroo<br>tourist<br>custom<br>fog<br>leaf<br>coral |  
+| bip_39_word_new_br_7 | kangaroo<br>tourist<br>custom<br>fog<br>leaf<br>coral<br>reflect |  
+| bip_39_word_new_br_8 | kangaroo<br>tourist<br>custom<br>fog<br>leaf<br>coral<br>reflect<br>friend |  
+| bip_39_word_new_br_9 | kangaroo<br>tourist<br>custom<br>fog<br>leaf<br>coral<br>reflect<br>friend<br>session |  
+| bip_39_word_new_line_1 | kangaroo |  
+| bip_39_word_new_line_10 | kangaroo
 tourist
 custom
 fog
@@ -55,7 +55,7 @@ reflect
 friend
 session
 anger |  
-| bip_39_word_new_line11 | kangaroo
+| bip_39_word_new_line_11 | kangaroo
 tourist
 custom
 fog
@@ -66,7 +66,7 @@ friend
 session
 anger
 actual |  
-| bip_39_word_new_line12 | kangaroo
+| bip_39_word_new_line_12 | kangaroo
 tourist
 custom
 fog
@@ -78,34 +78,34 @@ session
 anger
 actual
 air |  
-| bip_39_word_new_line2 | kangaroo
+| bip_39_word_new_line_2 | kangaroo
 tourist |  
-| bip_39_word_new_line3 | kangaroo
+| bip_39_word_new_line_3 | kangaroo
 tourist
 custom |  
-| bip_39_word_new_line4 | kangaroo
+| bip_39_word_new_line_4 | kangaroo
 tourist
 custom
 fog |  
-| bip_39_word_new_line5 | kangaroo
+| bip_39_word_new_line_5 | kangaroo
 tourist
 custom
 fog
 leaf |  
-| bip_39_word_new_line6 | kangaroo
+| bip_39_word_new_line_6 | kangaroo
 tourist
 custom
 fog
 leaf
 coral |  
-| bip_39_word_new_line7 | kangaroo
+| bip_39_word_new_line_7 | kangaroo
 tourist
 custom
 fog
 leaf
 coral
 reflect |  
-| bip_39_word_new_line8 | kangaroo
+| bip_39_word_new_line_8 | kangaroo
 tourist
 custom
 fog
@@ -113,7 +113,7 @@ leaf
 coral
 reflect
 friend |  
-| bip_39_word_new_line9 | kangaroo
+| bip_39_word_new_line_9 | kangaroo
 tourist
 custom
 fog

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | subject |  
-| bip_39_word_new_br10 | subject<br>mountain<br>space<br>patrol<br>find<br>debris<br>rigid<br>popular<br>balcony<br>mother |  
-| bip_39_word_new_br11 | subject<br>mountain<br>space<br>patrol<br>find<br>debris<br>rigid<br>popular<br>balcony<br>mother<br>whip |  
-| bip_39_word_new_br12 | subject<br>mountain<br>space<br>patrol<br>find<br>debris<br>rigid<br>popular<br>balcony<br>mother<br>whip<br>actor |  
-| bip_39_word_new_br2 | subject<br>mountain |  
-| bip_39_word_new_br3 | subject<br>mountain<br>space |  
-| bip_39_word_new_br4 | subject<br>mountain<br>space<br>patrol |  
-| bip_39_word_new_br5 | subject<br>mountain<br>space<br>patrol<br>find |  
-| bip_39_word_new_br6 | subject<br>mountain<br>space<br>patrol<br>find<br>debris |  
-| bip_39_word_new_br7 | subject<br>mountain<br>space<br>patrol<br>find<br>debris<br>rigid |  
-| bip_39_word_new_br8 | subject<br>mountain<br>space<br>patrol<br>find<br>debris<br>rigid<br>popular |  
-| bip_39_word_new_br9 | subject<br>mountain<br>space<br>patrol<br>find<br>debris<br>rigid<br>popular<br>balcony |  
-| bip_39_word_new_line1 | subject |  
-| bip_39_word_new_line10 | subject
+| bip_39_word_new_br_1 | subject |  
+| bip_39_word_new_br_10 | subject<br>mountain<br>space<br>patrol<br>find<br>debris<br>rigid<br>popular<br>balcony<br>mother |  
+| bip_39_word_new_br_11 | subject<br>mountain<br>space<br>patrol<br>find<br>debris<br>rigid<br>popular<br>balcony<br>mother<br>whip |  
+| bip_39_word_new_br_12 | subject<br>mountain<br>space<br>patrol<br>find<br>debris<br>rigid<br>popular<br>balcony<br>mother<br>whip<br>actor |  
+| bip_39_word_new_br_2 | subject<br>mountain |  
+| bip_39_word_new_br_3 | subject<br>mountain<br>space |  
+| bip_39_word_new_br_4 | subject<br>mountain<br>space<br>patrol |  
+| bip_39_word_new_br_5 | subject<br>mountain<br>space<br>patrol<br>find |  
+| bip_39_word_new_br_6 | subject<br>mountain<br>space<br>patrol<br>find<br>debris |  
+| bip_39_word_new_br_7 | subject<br>mountain<br>space<br>patrol<br>find<br>debris<br>rigid |  
+| bip_39_word_new_br_8 | subject<br>mountain<br>space<br>patrol<br>find<br>debris<br>rigid<br>popular |  
+| bip_39_word_new_br_9 | subject<br>mountain<br>space<br>patrol<br>find<br>debris<br>rigid<br>popular<br>balcony |  
+| bip_39_word_new_line_1 | subject |  
+| bip_39_word_new_line_10 | subject
 mountain
 space
 patrol
@@ -55,7 +55,7 @@ rigid
 popular
 balcony
 mother |  
-| bip_39_word_new_line11 | subject
+| bip_39_word_new_line_11 | subject
 mountain
 space
 patrol
@@ -66,7 +66,7 @@ popular
 balcony
 mother
 whip |  
-| bip_39_word_new_line12 | subject
+| bip_39_word_new_line_12 | subject
 mountain
 space
 patrol
@@ -78,34 +78,34 @@ balcony
 mother
 whip
 actor |  
-| bip_39_word_new_line2 | subject
+| bip_39_word_new_line_2 | subject
 mountain |  
-| bip_39_word_new_line3 | subject
+| bip_39_word_new_line_3 | subject
 mountain
 space |  
-| bip_39_word_new_line4 | subject
+| bip_39_word_new_line_4 | subject
 mountain
 space
 patrol |  
-| bip_39_word_new_line5 | subject
+| bip_39_word_new_line_5 | subject
 mountain
 space
 patrol
 find |  
-| bip_39_word_new_line6 | subject
+| bip_39_word_new_line_6 | subject
 mountain
 space
 patrol
 find
 debris |  
-| bip_39_word_new_line7 | subject
+| bip_39_word_new_line_7 | subject
 mountain
 space
 patrol
 find
 debris
 rigid |  
-| bip_39_word_new_line8 | subject
+| bip_39_word_new_line_8 | subject
 mountain
 space
 patrol
@@ -113,7 +113,7 @@ find
 debris
 rigid
 popular |  
-| bip_39_word_new_line9 | subject
+| bip_39_word_new_line_9 | subject
 mountain
 space
 patrol

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | job |  
-| bip_39_word_new_br10 | job<br>fatal<br>weekend<br>tragic<br>box<br>service<br>rocket<br>want<br>solve<br>snake |  
-| bip_39_word_new_br11 | job<br>fatal<br>weekend<br>tragic<br>box<br>service<br>rocket<br>want<br>solve<br>snake<br>equip |  
-| bip_39_word_new_br12 | job<br>fatal<br>weekend<br>tragic<br>box<br>service<br>rocket<br>want<br>solve<br>snake<br>equip<br>actual |  
-| bip_39_word_new_br2 | job<br>fatal |  
-| bip_39_word_new_br3 | job<br>fatal<br>weekend |  
-| bip_39_word_new_br4 | job<br>fatal<br>weekend<br>tragic |  
-| bip_39_word_new_br5 | job<br>fatal<br>weekend<br>tragic<br>box |  
-| bip_39_word_new_br6 | job<br>fatal<br>weekend<br>tragic<br>box<br>service |  
-| bip_39_word_new_br7 | job<br>fatal<br>weekend<br>tragic<br>box<br>service<br>rocket |  
-| bip_39_word_new_br8 | job<br>fatal<br>weekend<br>tragic<br>box<br>service<br>rocket<br>want |  
-| bip_39_word_new_br9 | job<br>fatal<br>weekend<br>tragic<br>box<br>service<br>rocket<br>want<br>solve |  
-| bip_39_word_new_line1 | job |  
-| bip_39_word_new_line10 | job
+| bip_39_word_new_br_1 | job |  
+| bip_39_word_new_br_10 | job<br>fatal<br>weekend<br>tragic<br>box<br>service<br>rocket<br>want<br>solve<br>snake |  
+| bip_39_word_new_br_11 | job<br>fatal<br>weekend<br>tragic<br>box<br>service<br>rocket<br>want<br>solve<br>snake<br>equip |  
+| bip_39_word_new_br_12 | job<br>fatal<br>weekend<br>tragic<br>box<br>service<br>rocket<br>want<br>solve<br>snake<br>equip<br>actual |  
+| bip_39_word_new_br_2 | job<br>fatal |  
+| bip_39_word_new_br_3 | job<br>fatal<br>weekend |  
+| bip_39_word_new_br_4 | job<br>fatal<br>weekend<br>tragic |  
+| bip_39_word_new_br_5 | job<br>fatal<br>weekend<br>tragic<br>box |  
+| bip_39_word_new_br_6 | job<br>fatal<br>weekend<br>tragic<br>box<br>service |  
+| bip_39_word_new_br_7 | job<br>fatal<br>weekend<br>tragic<br>box<br>service<br>rocket |  
+| bip_39_word_new_br_8 | job<br>fatal<br>weekend<br>tragic<br>box<br>service<br>rocket<br>want |  
+| bip_39_word_new_br_9 | job<br>fatal<br>weekend<br>tragic<br>box<br>service<br>rocket<br>want<br>solve |  
+| bip_39_word_new_line_1 | job |  
+| bip_39_word_new_line_10 | job
 fatal
 weekend
 tragic
@@ -55,7 +55,7 @@ rocket
 want
 solve
 snake |  
-| bip_39_word_new_line11 | job
+| bip_39_word_new_line_11 | job
 fatal
 weekend
 tragic
@@ -66,7 +66,7 @@ want
 solve
 snake
 equip |  
-| bip_39_word_new_line12 | job
+| bip_39_word_new_line_12 | job
 fatal
 weekend
 tragic
@@ -78,34 +78,34 @@ solve
 snake
 equip
 actual |  
-| bip_39_word_new_line2 | job
+| bip_39_word_new_line_2 | job
 fatal |  
-| bip_39_word_new_line3 | job
+| bip_39_word_new_line_3 | job
 fatal
 weekend |  
-| bip_39_word_new_line4 | job
+| bip_39_word_new_line_4 | job
 fatal
 weekend
 tragic |  
-| bip_39_word_new_line5 | job
+| bip_39_word_new_line_5 | job
 fatal
 weekend
 tragic
 box |  
-| bip_39_word_new_line6 | job
+| bip_39_word_new_line_6 | job
 fatal
 weekend
 tragic
 box
 service |  
-| bip_39_word_new_line7 | job
+| bip_39_word_new_line_7 | job
 fatal
 weekend
 tragic
 box
 service
 rocket |  
-| bip_39_word_new_line8 | job
+| bip_39_word_new_line_8 | job
 fatal
 weekend
 tragic
@@ -113,7 +113,7 @@ box
 service
 rocket
 want |  
-| bip_39_word_new_line9 | job
+| bip_39_word_new_line_9 | job
 fatal
 weekend
 tragic

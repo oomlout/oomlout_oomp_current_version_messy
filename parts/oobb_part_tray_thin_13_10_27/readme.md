@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | latin |  
-| bip_39_word_new_br10 | latin<br>flag<br>earth<br>solid<br>effort<br>blue<br>decide<br>dry<br>casino<br>wealth |  
-| bip_39_word_new_br11 | latin<br>flag<br>earth<br>solid<br>effort<br>blue<br>decide<br>dry<br>casino<br>wealth<br>barely |  
-| bip_39_word_new_br12 | latin<br>flag<br>earth<br>solid<br>effort<br>blue<br>decide<br>dry<br>casino<br>wealth<br>barely<br>all |  
-| bip_39_word_new_br2 | latin<br>flag |  
-| bip_39_word_new_br3 | latin<br>flag<br>earth |  
-| bip_39_word_new_br4 | latin<br>flag<br>earth<br>solid |  
-| bip_39_word_new_br5 | latin<br>flag<br>earth<br>solid<br>effort |  
-| bip_39_word_new_br6 | latin<br>flag<br>earth<br>solid<br>effort<br>blue |  
-| bip_39_word_new_br7 | latin<br>flag<br>earth<br>solid<br>effort<br>blue<br>decide |  
-| bip_39_word_new_br8 | latin<br>flag<br>earth<br>solid<br>effort<br>blue<br>decide<br>dry |  
-| bip_39_word_new_br9 | latin<br>flag<br>earth<br>solid<br>effort<br>blue<br>decide<br>dry<br>casino |  
-| bip_39_word_new_line1 | latin |  
-| bip_39_word_new_line10 | latin
+| bip_39_word_new_br_1 | latin |  
+| bip_39_word_new_br_10 | latin<br>flag<br>earth<br>solid<br>effort<br>blue<br>decide<br>dry<br>casino<br>wealth |  
+| bip_39_word_new_br_11 | latin<br>flag<br>earth<br>solid<br>effort<br>blue<br>decide<br>dry<br>casino<br>wealth<br>barely |  
+| bip_39_word_new_br_12 | latin<br>flag<br>earth<br>solid<br>effort<br>blue<br>decide<br>dry<br>casino<br>wealth<br>barely<br>all |  
+| bip_39_word_new_br_2 | latin<br>flag |  
+| bip_39_word_new_br_3 | latin<br>flag<br>earth |  
+| bip_39_word_new_br_4 | latin<br>flag<br>earth<br>solid |  
+| bip_39_word_new_br_5 | latin<br>flag<br>earth<br>solid<br>effort |  
+| bip_39_word_new_br_6 | latin<br>flag<br>earth<br>solid<br>effort<br>blue |  
+| bip_39_word_new_br_7 | latin<br>flag<br>earth<br>solid<br>effort<br>blue<br>decide |  
+| bip_39_word_new_br_8 | latin<br>flag<br>earth<br>solid<br>effort<br>blue<br>decide<br>dry |  
+| bip_39_word_new_br_9 | latin<br>flag<br>earth<br>solid<br>effort<br>blue<br>decide<br>dry<br>casino |  
+| bip_39_word_new_line_1 | latin |  
+| bip_39_word_new_line_10 | latin
 flag
 earth
 solid
@@ -55,7 +55,7 @@ decide
 dry
 casino
 wealth |  
-| bip_39_word_new_line11 | latin
+| bip_39_word_new_line_11 | latin
 flag
 earth
 solid
@@ -66,7 +66,7 @@ dry
 casino
 wealth
 barely |  
-| bip_39_word_new_line12 | latin
+| bip_39_word_new_line_12 | latin
 flag
 earth
 solid
@@ -78,34 +78,34 @@ casino
 wealth
 barely
 all |  
-| bip_39_word_new_line2 | latin
+| bip_39_word_new_line_2 | latin
 flag |  
-| bip_39_word_new_line3 | latin
+| bip_39_word_new_line_3 | latin
 flag
 earth |  
-| bip_39_word_new_line4 | latin
+| bip_39_word_new_line_4 | latin
 flag
 earth
 solid |  
-| bip_39_word_new_line5 | latin
+| bip_39_word_new_line_5 | latin
 flag
 earth
 solid
 effort |  
-| bip_39_word_new_line6 | latin
+| bip_39_word_new_line_6 | latin
 flag
 earth
 solid
 effort
 blue |  
-| bip_39_word_new_line7 | latin
+| bip_39_word_new_line_7 | latin
 flag
 earth
 solid
 effort
 blue
 decide |  
-| bip_39_word_new_line8 | latin
+| bip_39_word_new_line_8 | latin
 flag
 earth
 solid
@@ -113,7 +113,7 @@ effort
 blue
 decide
 dry |  
-| bip_39_word_new_line9 | latin
+| bip_39_word_new_line_9 | latin
 flag
 earth
 solid

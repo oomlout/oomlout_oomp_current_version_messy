@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pyramid |  
-| bip_39_word_new_br10 | pyramid<br>mystery<br>march<br>brass<br>canoe<br>nasty<br>mind<br>egg<br>ignore<br>story |  
-| bip_39_word_new_br11 | pyramid<br>mystery<br>march<br>brass<br>canoe<br>nasty<br>mind<br>egg<br>ignore<br>story<br>iron |  
-| bip_39_word_new_br12 | pyramid<br>mystery<br>march<br>brass<br>canoe<br>nasty<br>mind<br>egg<br>ignore<br>story<br>iron<br>alcohol |  
-| bip_39_word_new_br2 | pyramid<br>mystery |  
-| bip_39_word_new_br3 | pyramid<br>mystery<br>march |  
-| bip_39_word_new_br4 | pyramid<br>mystery<br>march<br>brass |  
-| bip_39_word_new_br5 | pyramid<br>mystery<br>march<br>brass<br>canoe |  
-| bip_39_word_new_br6 | pyramid<br>mystery<br>march<br>brass<br>canoe<br>nasty |  
-| bip_39_word_new_br7 | pyramid<br>mystery<br>march<br>brass<br>canoe<br>nasty<br>mind |  
-| bip_39_word_new_br8 | pyramid<br>mystery<br>march<br>brass<br>canoe<br>nasty<br>mind<br>egg |  
-| bip_39_word_new_br9 | pyramid<br>mystery<br>march<br>brass<br>canoe<br>nasty<br>mind<br>egg<br>ignore |  
-| bip_39_word_new_line1 | pyramid |  
-| bip_39_word_new_line10 | pyramid
+| bip_39_word_new_br_1 | pyramid |  
+| bip_39_word_new_br_10 | pyramid<br>mystery<br>march<br>brass<br>canoe<br>nasty<br>mind<br>egg<br>ignore<br>story |  
+| bip_39_word_new_br_11 | pyramid<br>mystery<br>march<br>brass<br>canoe<br>nasty<br>mind<br>egg<br>ignore<br>story<br>iron |  
+| bip_39_word_new_br_12 | pyramid<br>mystery<br>march<br>brass<br>canoe<br>nasty<br>mind<br>egg<br>ignore<br>story<br>iron<br>alcohol |  
+| bip_39_word_new_br_2 | pyramid<br>mystery |  
+| bip_39_word_new_br_3 | pyramid<br>mystery<br>march |  
+| bip_39_word_new_br_4 | pyramid<br>mystery<br>march<br>brass |  
+| bip_39_word_new_br_5 | pyramid<br>mystery<br>march<br>brass<br>canoe |  
+| bip_39_word_new_br_6 | pyramid<br>mystery<br>march<br>brass<br>canoe<br>nasty |  
+| bip_39_word_new_br_7 | pyramid<br>mystery<br>march<br>brass<br>canoe<br>nasty<br>mind |  
+| bip_39_word_new_br_8 | pyramid<br>mystery<br>march<br>brass<br>canoe<br>nasty<br>mind<br>egg |  
+| bip_39_word_new_br_9 | pyramid<br>mystery<br>march<br>brass<br>canoe<br>nasty<br>mind<br>egg<br>ignore |  
+| bip_39_word_new_line_1 | pyramid |  
+| bip_39_word_new_line_10 | pyramid
 mystery
 march
 brass
@@ -55,7 +55,7 @@ mind
 egg
 ignore
 story |  
-| bip_39_word_new_line11 | pyramid
+| bip_39_word_new_line_11 | pyramid
 mystery
 march
 brass
@@ -66,7 +66,7 @@ egg
 ignore
 story
 iron |  
-| bip_39_word_new_line12 | pyramid
+| bip_39_word_new_line_12 | pyramid
 mystery
 march
 brass
@@ -78,34 +78,34 @@ ignore
 story
 iron
 alcohol |  
-| bip_39_word_new_line2 | pyramid
+| bip_39_word_new_line_2 | pyramid
 mystery |  
-| bip_39_word_new_line3 | pyramid
+| bip_39_word_new_line_3 | pyramid
 mystery
 march |  
-| bip_39_word_new_line4 | pyramid
+| bip_39_word_new_line_4 | pyramid
 mystery
 march
 brass |  
-| bip_39_word_new_line5 | pyramid
+| bip_39_word_new_line_5 | pyramid
 mystery
 march
 brass
 canoe |  
-| bip_39_word_new_line6 | pyramid
+| bip_39_word_new_line_6 | pyramid
 mystery
 march
 brass
 canoe
 nasty |  
-| bip_39_word_new_line7 | pyramid
+| bip_39_word_new_line_7 | pyramid
 mystery
 march
 brass
 canoe
 nasty
 mind |  
-| bip_39_word_new_line8 | pyramid
+| bip_39_word_new_line_8 | pyramid
 mystery
 march
 brass
@@ -113,7 +113,7 @@ canoe
 nasty
 mind
 egg |  
-| bip_39_word_new_line9 | pyramid
+| bip_39_word_new_line_9 | pyramid
 mystery
 march
 brass

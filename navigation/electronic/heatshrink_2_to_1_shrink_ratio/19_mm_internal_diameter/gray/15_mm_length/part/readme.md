@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | still |  
-| bip_39_word_new_br10 | still<br>lock<br>area<br>replace<br>swamp<br>victory<br>good<br>polar<br>harvest<br>agent |  
-| bip_39_word_new_br11 | still<br>lock<br>area<br>replace<br>swamp<br>victory<br>good<br>polar<br>harvest<br>agent<br>wrestle |  
-| bip_39_word_new_br12 | still<br>lock<br>area<br>replace<br>swamp<br>victory<br>good<br>polar<br>harvest<br>agent<br>wrestle<br>accident |  
-| bip_39_word_new_br2 | still<br>lock |  
-| bip_39_word_new_br3 | still<br>lock<br>area |  
-| bip_39_word_new_br4 | still<br>lock<br>area<br>replace |  
-| bip_39_word_new_br5 | still<br>lock<br>area<br>replace<br>swamp |  
-| bip_39_word_new_br6 | still<br>lock<br>area<br>replace<br>swamp<br>victory |  
-| bip_39_word_new_br7 | still<br>lock<br>area<br>replace<br>swamp<br>victory<br>good |  
-| bip_39_word_new_br8 | still<br>lock<br>area<br>replace<br>swamp<br>victory<br>good<br>polar |  
-| bip_39_word_new_br9 | still<br>lock<br>area<br>replace<br>swamp<br>victory<br>good<br>polar<br>harvest |  
-| bip_39_word_new_line1 | still |  
-| bip_39_word_new_line10 | still
+| bip_39_word_new_br_1 | still |  
+| bip_39_word_new_br_10 | still<br>lock<br>area<br>replace<br>swamp<br>victory<br>good<br>polar<br>harvest<br>agent |  
+| bip_39_word_new_br_11 | still<br>lock<br>area<br>replace<br>swamp<br>victory<br>good<br>polar<br>harvest<br>agent<br>wrestle |  
+| bip_39_word_new_br_12 | still<br>lock<br>area<br>replace<br>swamp<br>victory<br>good<br>polar<br>harvest<br>agent<br>wrestle<br>accident |  
+| bip_39_word_new_br_2 | still<br>lock |  
+| bip_39_word_new_br_3 | still<br>lock<br>area |  
+| bip_39_word_new_br_4 | still<br>lock<br>area<br>replace |  
+| bip_39_word_new_br_5 | still<br>lock<br>area<br>replace<br>swamp |  
+| bip_39_word_new_br_6 | still<br>lock<br>area<br>replace<br>swamp<br>victory |  
+| bip_39_word_new_br_7 | still<br>lock<br>area<br>replace<br>swamp<br>victory<br>good |  
+| bip_39_word_new_br_8 | still<br>lock<br>area<br>replace<br>swamp<br>victory<br>good<br>polar |  
+| bip_39_word_new_br_9 | still<br>lock<br>area<br>replace<br>swamp<br>victory<br>good<br>polar<br>harvest |  
+| bip_39_word_new_line_1 | still |  
+| bip_39_word_new_line_10 | still
 lock
 area
 replace
@@ -55,7 +55,7 @@ good
 polar
 harvest
 agent |  
-| bip_39_word_new_line11 | still
+| bip_39_word_new_line_11 | still
 lock
 area
 replace
@@ -66,7 +66,7 @@ polar
 harvest
 agent
 wrestle |  
-| bip_39_word_new_line12 | still
+| bip_39_word_new_line_12 | still
 lock
 area
 replace
@@ -78,34 +78,34 @@ harvest
 agent
 wrestle
 accident |  
-| bip_39_word_new_line2 | still
+| bip_39_word_new_line_2 | still
 lock |  
-| bip_39_word_new_line3 | still
+| bip_39_word_new_line_3 | still
 lock
 area |  
-| bip_39_word_new_line4 | still
+| bip_39_word_new_line_4 | still
 lock
 area
 replace |  
-| bip_39_word_new_line5 | still
+| bip_39_word_new_line_5 | still
 lock
 area
 replace
 swamp |  
-| bip_39_word_new_line6 | still
+| bip_39_word_new_line_6 | still
 lock
 area
 replace
 swamp
 victory |  
-| bip_39_word_new_line7 | still
+| bip_39_word_new_line_7 | still
 lock
 area
 replace
 swamp
 victory
 good |  
-| bip_39_word_new_line8 | still
+| bip_39_word_new_line_8 | still
 lock
 area
 replace
@@ -113,7 +113,7 @@ swamp
 victory
 good
 polar |  
-| bip_39_word_new_line9 | still
+| bip_39_word_new_line_9 | still
 lock
 area
 replace

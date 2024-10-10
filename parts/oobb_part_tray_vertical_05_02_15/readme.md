@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | later |  
-| bip_39_word_new_br10 | later<br>direct<br>bridge<br>method<br>know<br>usual<br>present<br>pledge<br>awake<br>afraid |  
-| bip_39_word_new_br11 | later<br>direct<br>bridge<br>method<br>know<br>usual<br>present<br>pledge<br>awake<br>afraid<br>dentist |  
-| bip_39_word_new_br12 | later<br>direct<br>bridge<br>method<br>know<br>usual<br>present<br>pledge<br>awake<br>afraid<br>dentist<br>alpha |  
-| bip_39_word_new_br2 | later<br>direct |  
-| bip_39_word_new_br3 | later<br>direct<br>bridge |  
-| bip_39_word_new_br4 | later<br>direct<br>bridge<br>method |  
-| bip_39_word_new_br5 | later<br>direct<br>bridge<br>method<br>know |  
-| bip_39_word_new_br6 | later<br>direct<br>bridge<br>method<br>know<br>usual |  
-| bip_39_word_new_br7 | later<br>direct<br>bridge<br>method<br>know<br>usual<br>present |  
-| bip_39_word_new_br8 | later<br>direct<br>bridge<br>method<br>know<br>usual<br>present<br>pledge |  
-| bip_39_word_new_br9 | later<br>direct<br>bridge<br>method<br>know<br>usual<br>present<br>pledge<br>awake |  
-| bip_39_word_new_line1 | later |  
-| bip_39_word_new_line10 | later
+| bip_39_word_new_br_1 | later |  
+| bip_39_word_new_br_10 | later<br>direct<br>bridge<br>method<br>know<br>usual<br>present<br>pledge<br>awake<br>afraid |  
+| bip_39_word_new_br_11 | later<br>direct<br>bridge<br>method<br>know<br>usual<br>present<br>pledge<br>awake<br>afraid<br>dentist |  
+| bip_39_word_new_br_12 | later<br>direct<br>bridge<br>method<br>know<br>usual<br>present<br>pledge<br>awake<br>afraid<br>dentist<br>alpha |  
+| bip_39_word_new_br_2 | later<br>direct |  
+| bip_39_word_new_br_3 | later<br>direct<br>bridge |  
+| bip_39_word_new_br_4 | later<br>direct<br>bridge<br>method |  
+| bip_39_word_new_br_5 | later<br>direct<br>bridge<br>method<br>know |  
+| bip_39_word_new_br_6 | later<br>direct<br>bridge<br>method<br>know<br>usual |  
+| bip_39_word_new_br_7 | later<br>direct<br>bridge<br>method<br>know<br>usual<br>present |  
+| bip_39_word_new_br_8 | later<br>direct<br>bridge<br>method<br>know<br>usual<br>present<br>pledge |  
+| bip_39_word_new_br_9 | later<br>direct<br>bridge<br>method<br>know<br>usual<br>present<br>pledge<br>awake |  
+| bip_39_word_new_line_1 | later |  
+| bip_39_word_new_line_10 | later
 direct
 bridge
 method
@@ -55,7 +55,7 @@ present
 pledge
 awake
 afraid |  
-| bip_39_word_new_line11 | later
+| bip_39_word_new_line_11 | later
 direct
 bridge
 method
@@ -66,7 +66,7 @@ pledge
 awake
 afraid
 dentist |  
-| bip_39_word_new_line12 | later
+| bip_39_word_new_line_12 | later
 direct
 bridge
 method
@@ -78,34 +78,34 @@ awake
 afraid
 dentist
 alpha |  
-| bip_39_word_new_line2 | later
+| bip_39_word_new_line_2 | later
 direct |  
-| bip_39_word_new_line3 | later
+| bip_39_word_new_line_3 | later
 direct
 bridge |  
-| bip_39_word_new_line4 | later
+| bip_39_word_new_line_4 | later
 direct
 bridge
 method |  
-| bip_39_word_new_line5 | later
+| bip_39_word_new_line_5 | later
 direct
 bridge
 method
 know |  
-| bip_39_word_new_line6 | later
+| bip_39_word_new_line_6 | later
 direct
 bridge
 method
 know
 usual |  
-| bip_39_word_new_line7 | later
+| bip_39_word_new_line_7 | later
 direct
 bridge
 method
 know
 usual
 present |  
-| bip_39_word_new_line8 | later
+| bip_39_word_new_line_8 | later
 direct
 bridge
 method
@@ -113,7 +113,7 @@ know
 usual
 present
 pledge |  
-| bip_39_word_new_line9 | later
+| bip_39_word_new_line_9 | later
 direct
 bridge
 method

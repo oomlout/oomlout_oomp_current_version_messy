@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | glare |  
-| bip_39_word_new_br10 | glare<br>spray<br>basic<br>appear<br>online<br>method<br>meadow<br>autumn<br>habit<br>prize |  
-| bip_39_word_new_br11 | glare<br>spray<br>basic<br>appear<br>online<br>method<br>meadow<br>autumn<br>habit<br>prize<br>draw |  
-| bip_39_word_new_br12 | glare<br>spray<br>basic<br>appear<br>online<br>method<br>meadow<br>autumn<br>habit<br>prize<br>draw<br>attack |  
-| bip_39_word_new_br2 | glare<br>spray |  
-| bip_39_word_new_br3 | glare<br>spray<br>basic |  
-| bip_39_word_new_br4 | glare<br>spray<br>basic<br>appear |  
-| bip_39_word_new_br5 | glare<br>spray<br>basic<br>appear<br>online |  
-| bip_39_word_new_br6 | glare<br>spray<br>basic<br>appear<br>online<br>method |  
-| bip_39_word_new_br7 | glare<br>spray<br>basic<br>appear<br>online<br>method<br>meadow |  
-| bip_39_word_new_br8 | glare<br>spray<br>basic<br>appear<br>online<br>method<br>meadow<br>autumn |  
-| bip_39_word_new_br9 | glare<br>spray<br>basic<br>appear<br>online<br>method<br>meadow<br>autumn<br>habit |  
-| bip_39_word_new_line1 | glare |  
-| bip_39_word_new_line10 | glare
+| bip_39_word_new_br_1 | glare |  
+| bip_39_word_new_br_10 | glare<br>spray<br>basic<br>appear<br>online<br>method<br>meadow<br>autumn<br>habit<br>prize |  
+| bip_39_word_new_br_11 | glare<br>spray<br>basic<br>appear<br>online<br>method<br>meadow<br>autumn<br>habit<br>prize<br>draw |  
+| bip_39_word_new_br_12 | glare<br>spray<br>basic<br>appear<br>online<br>method<br>meadow<br>autumn<br>habit<br>prize<br>draw<br>attack |  
+| bip_39_word_new_br_2 | glare<br>spray |  
+| bip_39_word_new_br_3 | glare<br>spray<br>basic |  
+| bip_39_word_new_br_4 | glare<br>spray<br>basic<br>appear |  
+| bip_39_word_new_br_5 | glare<br>spray<br>basic<br>appear<br>online |  
+| bip_39_word_new_br_6 | glare<br>spray<br>basic<br>appear<br>online<br>method |  
+| bip_39_word_new_br_7 | glare<br>spray<br>basic<br>appear<br>online<br>method<br>meadow |  
+| bip_39_word_new_br_8 | glare<br>spray<br>basic<br>appear<br>online<br>method<br>meadow<br>autumn |  
+| bip_39_word_new_br_9 | glare<br>spray<br>basic<br>appear<br>online<br>method<br>meadow<br>autumn<br>habit |  
+| bip_39_word_new_line_1 | glare |  
+| bip_39_word_new_line_10 | glare
 spray
 basic
 appear
@@ -55,7 +55,7 @@ meadow
 autumn
 habit
 prize |  
-| bip_39_word_new_line11 | glare
+| bip_39_word_new_line_11 | glare
 spray
 basic
 appear
@@ -66,7 +66,7 @@ autumn
 habit
 prize
 draw |  
-| bip_39_word_new_line12 | glare
+| bip_39_word_new_line_12 | glare
 spray
 basic
 appear
@@ -78,34 +78,34 @@ habit
 prize
 draw
 attack |  
-| bip_39_word_new_line2 | glare
+| bip_39_word_new_line_2 | glare
 spray |  
-| bip_39_word_new_line3 | glare
+| bip_39_word_new_line_3 | glare
 spray
 basic |  
-| bip_39_word_new_line4 | glare
+| bip_39_word_new_line_4 | glare
 spray
 basic
 appear |  
-| bip_39_word_new_line5 | glare
+| bip_39_word_new_line_5 | glare
 spray
 basic
 appear
 online |  
-| bip_39_word_new_line6 | glare
+| bip_39_word_new_line_6 | glare
 spray
 basic
 appear
 online
 method |  
-| bip_39_word_new_line7 | glare
+| bip_39_word_new_line_7 | glare
 spray
 basic
 appear
 online
 method
 meadow |  
-| bip_39_word_new_line8 | glare
+| bip_39_word_new_line_8 | glare
 spray
 basic
 appear
@@ -113,7 +113,7 @@ online
 method
 meadow
 autumn |  
-| bip_39_word_new_line9 | glare
+| bip_39_word_new_line_9 | glare
 spray
 basic
 appear

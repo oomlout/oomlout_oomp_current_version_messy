@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | truck |  
-| bip_39_word_new_br10 | truck<br>judge<br>diary<br>tumble<br>disorder<br>trumpet<br>pony<br>purity<br>prison<br>dream |  
-| bip_39_word_new_br11 | truck<br>judge<br>diary<br>tumble<br>disorder<br>trumpet<br>pony<br>purity<br>prison<br>dream<br>stock |  
-| bip_39_word_new_br12 | truck<br>judge<br>diary<br>tumble<br>disorder<br>trumpet<br>pony<br>purity<br>prison<br>dream<br>stock<br>antenna |  
-| bip_39_word_new_br2 | truck<br>judge |  
-| bip_39_word_new_br3 | truck<br>judge<br>diary |  
-| bip_39_word_new_br4 | truck<br>judge<br>diary<br>tumble |  
-| bip_39_word_new_br5 | truck<br>judge<br>diary<br>tumble<br>disorder |  
-| bip_39_word_new_br6 | truck<br>judge<br>diary<br>tumble<br>disorder<br>trumpet |  
-| bip_39_word_new_br7 | truck<br>judge<br>diary<br>tumble<br>disorder<br>trumpet<br>pony |  
-| bip_39_word_new_br8 | truck<br>judge<br>diary<br>tumble<br>disorder<br>trumpet<br>pony<br>purity |  
-| bip_39_word_new_br9 | truck<br>judge<br>diary<br>tumble<br>disorder<br>trumpet<br>pony<br>purity<br>prison |  
-| bip_39_word_new_line1 | truck |  
-| bip_39_word_new_line10 | truck
+| bip_39_word_new_br_1 | truck |  
+| bip_39_word_new_br_10 | truck<br>judge<br>diary<br>tumble<br>disorder<br>trumpet<br>pony<br>purity<br>prison<br>dream |  
+| bip_39_word_new_br_11 | truck<br>judge<br>diary<br>tumble<br>disorder<br>trumpet<br>pony<br>purity<br>prison<br>dream<br>stock |  
+| bip_39_word_new_br_12 | truck<br>judge<br>diary<br>tumble<br>disorder<br>trumpet<br>pony<br>purity<br>prison<br>dream<br>stock<br>antenna |  
+| bip_39_word_new_br_2 | truck<br>judge |  
+| bip_39_word_new_br_3 | truck<br>judge<br>diary |  
+| bip_39_word_new_br_4 | truck<br>judge<br>diary<br>tumble |  
+| bip_39_word_new_br_5 | truck<br>judge<br>diary<br>tumble<br>disorder |  
+| bip_39_word_new_br_6 | truck<br>judge<br>diary<br>tumble<br>disorder<br>trumpet |  
+| bip_39_word_new_br_7 | truck<br>judge<br>diary<br>tumble<br>disorder<br>trumpet<br>pony |  
+| bip_39_word_new_br_8 | truck<br>judge<br>diary<br>tumble<br>disorder<br>trumpet<br>pony<br>purity |  
+| bip_39_word_new_br_9 | truck<br>judge<br>diary<br>tumble<br>disorder<br>trumpet<br>pony<br>purity<br>prison |  
+| bip_39_word_new_line_1 | truck |  
+| bip_39_word_new_line_10 | truck
 judge
 diary
 tumble
@@ -55,7 +55,7 @@ pony
 purity
 prison
 dream |  
-| bip_39_word_new_line11 | truck
+| bip_39_word_new_line_11 | truck
 judge
 diary
 tumble
@@ -66,7 +66,7 @@ purity
 prison
 dream
 stock |  
-| bip_39_word_new_line12 | truck
+| bip_39_word_new_line_12 | truck
 judge
 diary
 tumble
@@ -78,34 +78,34 @@ prison
 dream
 stock
 antenna |  
-| bip_39_word_new_line2 | truck
+| bip_39_word_new_line_2 | truck
 judge |  
-| bip_39_word_new_line3 | truck
+| bip_39_word_new_line_3 | truck
 judge
 diary |  
-| bip_39_word_new_line4 | truck
+| bip_39_word_new_line_4 | truck
 judge
 diary
 tumble |  
-| bip_39_word_new_line5 | truck
+| bip_39_word_new_line_5 | truck
 judge
 diary
 tumble
 disorder |  
-| bip_39_word_new_line6 | truck
+| bip_39_word_new_line_6 | truck
 judge
 diary
 tumble
 disorder
 trumpet |  
-| bip_39_word_new_line7 | truck
+| bip_39_word_new_line_7 | truck
 judge
 diary
 tumble
 disorder
 trumpet
 pony |  
-| bip_39_word_new_line8 | truck
+| bip_39_word_new_line_8 | truck
 judge
 diary
 tumble
@@ -113,7 +113,7 @@ disorder
 trumpet
 pony
 purity |  
-| bip_39_word_new_line9 | truck
+| bip_39_word_new_line_9 | truck
 judge
 diary
 tumble

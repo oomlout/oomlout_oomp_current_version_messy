@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | name |  
-| bip_39_word_new_br10 | name<br>trial<br>enter<br>kitchen<br>mutual<br>lend<br>merit<br>sure<br>just<br>also |  
-| bip_39_word_new_br11 | name<br>trial<br>enter<br>kitchen<br>mutual<br>lend<br>merit<br>sure<br>just<br>also<br>cheap |  
-| bip_39_word_new_br12 | name<br>trial<br>enter<br>kitchen<br>mutual<br>lend<br>merit<br>sure<br>just<br>also<br>cheap<br>art |  
-| bip_39_word_new_br2 | name<br>trial |  
-| bip_39_word_new_br3 | name<br>trial<br>enter |  
-| bip_39_word_new_br4 | name<br>trial<br>enter<br>kitchen |  
-| bip_39_word_new_br5 | name<br>trial<br>enter<br>kitchen<br>mutual |  
-| bip_39_word_new_br6 | name<br>trial<br>enter<br>kitchen<br>mutual<br>lend |  
-| bip_39_word_new_br7 | name<br>trial<br>enter<br>kitchen<br>mutual<br>lend<br>merit |  
-| bip_39_word_new_br8 | name<br>trial<br>enter<br>kitchen<br>mutual<br>lend<br>merit<br>sure |  
-| bip_39_word_new_br9 | name<br>trial<br>enter<br>kitchen<br>mutual<br>lend<br>merit<br>sure<br>just |  
-| bip_39_word_new_line1 | name |  
-| bip_39_word_new_line10 | name
+| bip_39_word_new_br_1 | name |  
+| bip_39_word_new_br_10 | name<br>trial<br>enter<br>kitchen<br>mutual<br>lend<br>merit<br>sure<br>just<br>also |  
+| bip_39_word_new_br_11 | name<br>trial<br>enter<br>kitchen<br>mutual<br>lend<br>merit<br>sure<br>just<br>also<br>cheap |  
+| bip_39_word_new_br_12 | name<br>trial<br>enter<br>kitchen<br>mutual<br>lend<br>merit<br>sure<br>just<br>also<br>cheap<br>art |  
+| bip_39_word_new_br_2 | name<br>trial |  
+| bip_39_word_new_br_3 | name<br>trial<br>enter |  
+| bip_39_word_new_br_4 | name<br>trial<br>enter<br>kitchen |  
+| bip_39_word_new_br_5 | name<br>trial<br>enter<br>kitchen<br>mutual |  
+| bip_39_word_new_br_6 | name<br>trial<br>enter<br>kitchen<br>mutual<br>lend |  
+| bip_39_word_new_br_7 | name<br>trial<br>enter<br>kitchen<br>mutual<br>lend<br>merit |  
+| bip_39_word_new_br_8 | name<br>trial<br>enter<br>kitchen<br>mutual<br>lend<br>merit<br>sure |  
+| bip_39_word_new_br_9 | name<br>trial<br>enter<br>kitchen<br>mutual<br>lend<br>merit<br>sure<br>just |  
+| bip_39_word_new_line_1 | name |  
+| bip_39_word_new_line_10 | name
 trial
 enter
 kitchen
@@ -55,7 +55,7 @@ merit
 sure
 just
 also |  
-| bip_39_word_new_line11 | name
+| bip_39_word_new_line_11 | name
 trial
 enter
 kitchen
@@ -66,7 +66,7 @@ sure
 just
 also
 cheap |  
-| bip_39_word_new_line12 | name
+| bip_39_word_new_line_12 | name
 trial
 enter
 kitchen
@@ -78,34 +78,34 @@ just
 also
 cheap
 art |  
-| bip_39_word_new_line2 | name
+| bip_39_word_new_line_2 | name
 trial |  
-| bip_39_word_new_line3 | name
+| bip_39_word_new_line_3 | name
 trial
 enter |  
-| bip_39_word_new_line4 | name
+| bip_39_word_new_line_4 | name
 trial
 enter
 kitchen |  
-| bip_39_word_new_line5 | name
+| bip_39_word_new_line_5 | name
 trial
 enter
 kitchen
 mutual |  
-| bip_39_word_new_line6 | name
+| bip_39_word_new_line_6 | name
 trial
 enter
 kitchen
 mutual
 lend |  
-| bip_39_word_new_line7 | name
+| bip_39_word_new_line_7 | name
 trial
 enter
 kitchen
 mutual
 lend
 merit |  
-| bip_39_word_new_line8 | name
+| bip_39_word_new_line_8 | name
 trial
 enter
 kitchen
@@ -113,7 +113,7 @@ mutual
 lend
 merit
 sure |  
-| bip_39_word_new_line9 | name
+| bip_39_word_new_line_9 | name
 trial
 enter
 kitchen

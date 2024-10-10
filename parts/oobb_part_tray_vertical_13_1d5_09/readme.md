@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | trigger |  
-| bip_39_word_new_br10 | trigger<br>flight<br>slice<br>property<br>vanish<br>vanish<br>media<br>amateur<br>heavy<br>struggle |  
-| bip_39_word_new_br11 | trigger<br>flight<br>slice<br>property<br>vanish<br>vanish<br>media<br>amateur<br>heavy<br>struggle<br>ceiling |  
-| bip_39_word_new_br12 | trigger<br>flight<br>slice<br>property<br>vanish<br>vanish<br>media<br>amateur<br>heavy<br>struggle<br>ceiling<br>appear |  
-| bip_39_word_new_br2 | trigger<br>flight |  
-| bip_39_word_new_br3 | trigger<br>flight<br>slice |  
-| bip_39_word_new_br4 | trigger<br>flight<br>slice<br>property |  
-| bip_39_word_new_br5 | trigger<br>flight<br>slice<br>property<br>vanish |  
-| bip_39_word_new_br6 | trigger<br>flight<br>slice<br>property<br>vanish<br>vanish |  
-| bip_39_word_new_br7 | trigger<br>flight<br>slice<br>property<br>vanish<br>vanish<br>media |  
-| bip_39_word_new_br8 | trigger<br>flight<br>slice<br>property<br>vanish<br>vanish<br>media<br>amateur |  
-| bip_39_word_new_br9 | trigger<br>flight<br>slice<br>property<br>vanish<br>vanish<br>media<br>amateur<br>heavy |  
-| bip_39_word_new_line1 | trigger |  
-| bip_39_word_new_line10 | trigger
+| bip_39_word_new_br_1 | trigger |  
+| bip_39_word_new_br_10 | trigger<br>flight<br>slice<br>property<br>vanish<br>vanish<br>media<br>amateur<br>heavy<br>struggle |  
+| bip_39_word_new_br_11 | trigger<br>flight<br>slice<br>property<br>vanish<br>vanish<br>media<br>amateur<br>heavy<br>struggle<br>ceiling |  
+| bip_39_word_new_br_12 | trigger<br>flight<br>slice<br>property<br>vanish<br>vanish<br>media<br>amateur<br>heavy<br>struggle<br>ceiling<br>appear |  
+| bip_39_word_new_br_2 | trigger<br>flight |  
+| bip_39_word_new_br_3 | trigger<br>flight<br>slice |  
+| bip_39_word_new_br_4 | trigger<br>flight<br>slice<br>property |  
+| bip_39_word_new_br_5 | trigger<br>flight<br>slice<br>property<br>vanish |  
+| bip_39_word_new_br_6 | trigger<br>flight<br>slice<br>property<br>vanish<br>vanish |  
+| bip_39_word_new_br_7 | trigger<br>flight<br>slice<br>property<br>vanish<br>vanish<br>media |  
+| bip_39_word_new_br_8 | trigger<br>flight<br>slice<br>property<br>vanish<br>vanish<br>media<br>amateur |  
+| bip_39_word_new_br_9 | trigger<br>flight<br>slice<br>property<br>vanish<br>vanish<br>media<br>amateur<br>heavy |  
+| bip_39_word_new_line_1 | trigger |  
+| bip_39_word_new_line_10 | trigger
 flight
 slice
 property
@@ -55,7 +55,7 @@ media
 amateur
 heavy
 struggle |  
-| bip_39_word_new_line11 | trigger
+| bip_39_word_new_line_11 | trigger
 flight
 slice
 property
@@ -66,7 +66,7 @@ amateur
 heavy
 struggle
 ceiling |  
-| bip_39_word_new_line12 | trigger
+| bip_39_word_new_line_12 | trigger
 flight
 slice
 property
@@ -78,34 +78,34 @@ heavy
 struggle
 ceiling
 appear |  
-| bip_39_word_new_line2 | trigger
+| bip_39_word_new_line_2 | trigger
 flight |  
-| bip_39_word_new_line3 | trigger
+| bip_39_word_new_line_3 | trigger
 flight
 slice |  
-| bip_39_word_new_line4 | trigger
+| bip_39_word_new_line_4 | trigger
 flight
 slice
 property |  
-| bip_39_word_new_line5 | trigger
+| bip_39_word_new_line_5 | trigger
 flight
 slice
 property
 vanish |  
-| bip_39_word_new_line6 | trigger
+| bip_39_word_new_line_6 | trigger
 flight
 slice
 property
 vanish
 vanish |  
-| bip_39_word_new_line7 | trigger
+| bip_39_word_new_line_7 | trigger
 flight
 slice
 property
 vanish
 vanish
 media |  
-| bip_39_word_new_line8 | trigger
+| bip_39_word_new_line_8 | trigger
 flight
 slice
 property
@@ -113,7 +113,7 @@ vanish
 vanish
 media
 amateur |  
-| bip_39_word_new_line9 | trigger
+| bip_39_word_new_line_9 | trigger
 flight
 slice
 property

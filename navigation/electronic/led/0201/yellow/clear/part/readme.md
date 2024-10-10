@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mother |  
-| bip_39_word_new_br10 | mother<br>domain<br>ketchup<br>journey<br>shoot<br>pulse<br>warfare<br>reason<br>original<br>swim |  
-| bip_39_word_new_br11 | mother<br>domain<br>ketchup<br>journey<br>shoot<br>pulse<br>warfare<br>reason<br>original<br>swim<br>forget |  
-| bip_39_word_new_br12 | mother<br>domain<br>ketchup<br>journey<br>shoot<br>pulse<br>warfare<br>reason<br>original<br>swim<br>forget<br>animal |  
-| bip_39_word_new_br2 | mother<br>domain |  
-| bip_39_word_new_br3 | mother<br>domain<br>ketchup |  
-| bip_39_word_new_br4 | mother<br>domain<br>ketchup<br>journey |  
-| bip_39_word_new_br5 | mother<br>domain<br>ketchup<br>journey<br>shoot |  
-| bip_39_word_new_br6 | mother<br>domain<br>ketchup<br>journey<br>shoot<br>pulse |  
-| bip_39_word_new_br7 | mother<br>domain<br>ketchup<br>journey<br>shoot<br>pulse<br>warfare |  
-| bip_39_word_new_br8 | mother<br>domain<br>ketchup<br>journey<br>shoot<br>pulse<br>warfare<br>reason |  
-| bip_39_word_new_br9 | mother<br>domain<br>ketchup<br>journey<br>shoot<br>pulse<br>warfare<br>reason<br>original |  
-| bip_39_word_new_line1 | mother |  
-| bip_39_word_new_line10 | mother
+| bip_39_word_new_br_1 | mother |  
+| bip_39_word_new_br_10 | mother<br>domain<br>ketchup<br>journey<br>shoot<br>pulse<br>warfare<br>reason<br>original<br>swim |  
+| bip_39_word_new_br_11 | mother<br>domain<br>ketchup<br>journey<br>shoot<br>pulse<br>warfare<br>reason<br>original<br>swim<br>forget |  
+| bip_39_word_new_br_12 | mother<br>domain<br>ketchup<br>journey<br>shoot<br>pulse<br>warfare<br>reason<br>original<br>swim<br>forget<br>animal |  
+| bip_39_word_new_br_2 | mother<br>domain |  
+| bip_39_word_new_br_3 | mother<br>domain<br>ketchup |  
+| bip_39_word_new_br_4 | mother<br>domain<br>ketchup<br>journey |  
+| bip_39_word_new_br_5 | mother<br>domain<br>ketchup<br>journey<br>shoot |  
+| bip_39_word_new_br_6 | mother<br>domain<br>ketchup<br>journey<br>shoot<br>pulse |  
+| bip_39_word_new_br_7 | mother<br>domain<br>ketchup<br>journey<br>shoot<br>pulse<br>warfare |  
+| bip_39_word_new_br_8 | mother<br>domain<br>ketchup<br>journey<br>shoot<br>pulse<br>warfare<br>reason |  
+| bip_39_word_new_br_9 | mother<br>domain<br>ketchup<br>journey<br>shoot<br>pulse<br>warfare<br>reason<br>original |  
+| bip_39_word_new_line_1 | mother |  
+| bip_39_word_new_line_10 | mother
 domain
 ketchup
 journey
@@ -55,7 +55,7 @@ warfare
 reason
 original
 swim |  
-| bip_39_word_new_line11 | mother
+| bip_39_word_new_line_11 | mother
 domain
 ketchup
 journey
@@ -66,7 +66,7 @@ reason
 original
 swim
 forget |  
-| bip_39_word_new_line12 | mother
+| bip_39_word_new_line_12 | mother
 domain
 ketchup
 journey
@@ -78,34 +78,34 @@ original
 swim
 forget
 animal |  
-| bip_39_word_new_line2 | mother
+| bip_39_word_new_line_2 | mother
 domain |  
-| bip_39_word_new_line3 | mother
+| bip_39_word_new_line_3 | mother
 domain
 ketchup |  
-| bip_39_word_new_line4 | mother
+| bip_39_word_new_line_4 | mother
 domain
 ketchup
 journey |  
-| bip_39_word_new_line5 | mother
+| bip_39_word_new_line_5 | mother
 domain
 ketchup
 journey
 shoot |  
-| bip_39_word_new_line6 | mother
+| bip_39_word_new_line_6 | mother
 domain
 ketchup
 journey
 shoot
 pulse |  
-| bip_39_word_new_line7 | mother
+| bip_39_word_new_line_7 | mother
 domain
 ketchup
 journey
 shoot
 pulse
 warfare |  
-| bip_39_word_new_line8 | mother
+| bip_39_word_new_line_8 | mother
 domain
 ketchup
 journey
@@ -113,7 +113,7 @@ shoot
 pulse
 warfare
 reason |  
-| bip_39_word_new_line9 | mother
+| bip_39_word_new_line_9 | mother
 domain
 ketchup
 journey

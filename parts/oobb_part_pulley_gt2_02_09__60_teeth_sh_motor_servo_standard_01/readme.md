@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | online |  
-| bip_39_word_new_br10 | online<br>discover<br>mask<br>hidden<br>question<br>danger<br>afraid<br>carpet<br>wage<br>visa |  
-| bip_39_word_new_br11 | online<br>discover<br>mask<br>hidden<br>question<br>danger<br>afraid<br>carpet<br>wage<br>visa<br>ignore |  
-| bip_39_word_new_br12 | online<br>discover<br>mask<br>hidden<br>question<br>danger<br>afraid<br>carpet<br>wage<br>visa<br>ignore<br>armor |  
-| bip_39_word_new_br2 | online<br>discover |  
-| bip_39_word_new_br3 | online<br>discover<br>mask |  
-| bip_39_word_new_br4 | online<br>discover<br>mask<br>hidden |  
-| bip_39_word_new_br5 | online<br>discover<br>mask<br>hidden<br>question |  
-| bip_39_word_new_br6 | online<br>discover<br>mask<br>hidden<br>question<br>danger |  
-| bip_39_word_new_br7 | online<br>discover<br>mask<br>hidden<br>question<br>danger<br>afraid |  
-| bip_39_word_new_br8 | online<br>discover<br>mask<br>hidden<br>question<br>danger<br>afraid<br>carpet |  
-| bip_39_word_new_br9 | online<br>discover<br>mask<br>hidden<br>question<br>danger<br>afraid<br>carpet<br>wage |  
-| bip_39_word_new_line1 | online |  
-| bip_39_word_new_line10 | online
+| bip_39_word_new_br_1 | online |  
+| bip_39_word_new_br_10 | online<br>discover<br>mask<br>hidden<br>question<br>danger<br>afraid<br>carpet<br>wage<br>visa |  
+| bip_39_word_new_br_11 | online<br>discover<br>mask<br>hidden<br>question<br>danger<br>afraid<br>carpet<br>wage<br>visa<br>ignore |  
+| bip_39_word_new_br_12 | online<br>discover<br>mask<br>hidden<br>question<br>danger<br>afraid<br>carpet<br>wage<br>visa<br>ignore<br>armor |  
+| bip_39_word_new_br_2 | online<br>discover |  
+| bip_39_word_new_br_3 | online<br>discover<br>mask |  
+| bip_39_word_new_br_4 | online<br>discover<br>mask<br>hidden |  
+| bip_39_word_new_br_5 | online<br>discover<br>mask<br>hidden<br>question |  
+| bip_39_word_new_br_6 | online<br>discover<br>mask<br>hidden<br>question<br>danger |  
+| bip_39_word_new_br_7 | online<br>discover<br>mask<br>hidden<br>question<br>danger<br>afraid |  
+| bip_39_word_new_br_8 | online<br>discover<br>mask<br>hidden<br>question<br>danger<br>afraid<br>carpet |  
+| bip_39_word_new_br_9 | online<br>discover<br>mask<br>hidden<br>question<br>danger<br>afraid<br>carpet<br>wage |  
+| bip_39_word_new_line_1 | online |  
+| bip_39_word_new_line_10 | online
 discover
 mask
 hidden
@@ -55,7 +55,7 @@ afraid
 carpet
 wage
 visa |  
-| bip_39_word_new_line11 | online
+| bip_39_word_new_line_11 | online
 discover
 mask
 hidden
@@ -66,7 +66,7 @@ carpet
 wage
 visa
 ignore |  
-| bip_39_word_new_line12 | online
+| bip_39_word_new_line_12 | online
 discover
 mask
 hidden
@@ -78,34 +78,34 @@ wage
 visa
 ignore
 armor |  
-| bip_39_word_new_line2 | online
+| bip_39_word_new_line_2 | online
 discover |  
-| bip_39_word_new_line3 | online
+| bip_39_word_new_line_3 | online
 discover
 mask |  
-| bip_39_word_new_line4 | online
+| bip_39_word_new_line_4 | online
 discover
 mask
 hidden |  
-| bip_39_word_new_line5 | online
+| bip_39_word_new_line_5 | online
 discover
 mask
 hidden
 question |  
-| bip_39_word_new_line6 | online
+| bip_39_word_new_line_6 | online
 discover
 mask
 hidden
 question
 danger |  
-| bip_39_word_new_line7 | online
+| bip_39_word_new_line_7 | online
 discover
 mask
 hidden
 question
 danger
 afraid |  
-| bip_39_word_new_line8 | online
+| bip_39_word_new_line_8 | online
 discover
 mask
 hidden
@@ -113,7 +113,7 @@ question
 danger
 afraid
 carpet |  
-| bip_39_word_new_line9 | online
+| bip_39_word_new_line_9 | online
 discover
 mask
 hidden

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mom |  
-| bip_39_word_new_br10 | mom<br>dog<br>acoustic<br>subway<br>front<br>pistol<br>you<br>hover<br>glance<br>scare |  
-| bip_39_word_new_br11 | mom<br>dog<br>acoustic<br>subway<br>front<br>pistol<br>you<br>hover<br>glance<br>scare<br>ugly |  
-| bip_39_word_new_br12 | mom<br>dog<br>acoustic<br>subway<br>front<br>pistol<br>you<br>hover<br>glance<br>scare<br>ugly<br>amused |  
-| bip_39_word_new_br2 | mom<br>dog |  
-| bip_39_word_new_br3 | mom<br>dog<br>acoustic |  
-| bip_39_word_new_br4 | mom<br>dog<br>acoustic<br>subway |  
-| bip_39_word_new_br5 | mom<br>dog<br>acoustic<br>subway<br>front |  
-| bip_39_word_new_br6 | mom<br>dog<br>acoustic<br>subway<br>front<br>pistol |  
-| bip_39_word_new_br7 | mom<br>dog<br>acoustic<br>subway<br>front<br>pistol<br>you |  
-| bip_39_word_new_br8 | mom<br>dog<br>acoustic<br>subway<br>front<br>pistol<br>you<br>hover |  
-| bip_39_word_new_br9 | mom<br>dog<br>acoustic<br>subway<br>front<br>pistol<br>you<br>hover<br>glance |  
-| bip_39_word_new_line1 | mom |  
-| bip_39_word_new_line10 | mom
+| bip_39_word_new_br_1 | mom |  
+| bip_39_word_new_br_10 | mom<br>dog<br>acoustic<br>subway<br>front<br>pistol<br>you<br>hover<br>glance<br>scare |  
+| bip_39_word_new_br_11 | mom<br>dog<br>acoustic<br>subway<br>front<br>pistol<br>you<br>hover<br>glance<br>scare<br>ugly |  
+| bip_39_word_new_br_12 | mom<br>dog<br>acoustic<br>subway<br>front<br>pistol<br>you<br>hover<br>glance<br>scare<br>ugly<br>amused |  
+| bip_39_word_new_br_2 | mom<br>dog |  
+| bip_39_word_new_br_3 | mom<br>dog<br>acoustic |  
+| bip_39_word_new_br_4 | mom<br>dog<br>acoustic<br>subway |  
+| bip_39_word_new_br_5 | mom<br>dog<br>acoustic<br>subway<br>front |  
+| bip_39_word_new_br_6 | mom<br>dog<br>acoustic<br>subway<br>front<br>pistol |  
+| bip_39_word_new_br_7 | mom<br>dog<br>acoustic<br>subway<br>front<br>pistol<br>you |  
+| bip_39_word_new_br_8 | mom<br>dog<br>acoustic<br>subway<br>front<br>pistol<br>you<br>hover |  
+| bip_39_word_new_br_9 | mom<br>dog<br>acoustic<br>subway<br>front<br>pistol<br>you<br>hover<br>glance |  
+| bip_39_word_new_line_1 | mom |  
+| bip_39_word_new_line_10 | mom
 dog
 acoustic
 subway
@@ -55,7 +55,7 @@ you
 hover
 glance
 scare |  
-| bip_39_word_new_line11 | mom
+| bip_39_word_new_line_11 | mom
 dog
 acoustic
 subway
@@ -66,7 +66,7 @@ hover
 glance
 scare
 ugly |  
-| bip_39_word_new_line12 | mom
+| bip_39_word_new_line_12 | mom
 dog
 acoustic
 subway
@@ -78,34 +78,34 @@ glance
 scare
 ugly
 amused |  
-| bip_39_word_new_line2 | mom
+| bip_39_word_new_line_2 | mom
 dog |  
-| bip_39_word_new_line3 | mom
+| bip_39_word_new_line_3 | mom
 dog
 acoustic |  
-| bip_39_word_new_line4 | mom
+| bip_39_word_new_line_4 | mom
 dog
 acoustic
 subway |  
-| bip_39_word_new_line5 | mom
+| bip_39_word_new_line_5 | mom
 dog
 acoustic
 subway
 front |  
-| bip_39_word_new_line6 | mom
+| bip_39_word_new_line_6 | mom
 dog
 acoustic
 subway
 front
 pistol |  
-| bip_39_word_new_line7 | mom
+| bip_39_word_new_line_7 | mom
 dog
 acoustic
 subway
 front
 pistol
 you |  
-| bip_39_word_new_line8 | mom
+| bip_39_word_new_line_8 | mom
 dog
 acoustic
 subway
@@ -113,7 +113,7 @@ front
 pistol
 you
 hover |  
-| bip_39_word_new_line9 | mom
+| bip_39_word_new_line_9 | mom
 dog
 acoustic
 subway

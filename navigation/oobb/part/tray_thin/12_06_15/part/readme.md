@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | oyster |  
-| bip_39_word_new_br10 | oyster<br>young<br>gasp<br>gravity<br>start<br>journey<br>drink<br>spring<br>core<br>critic |  
-| bip_39_word_new_br11 | oyster<br>young<br>gasp<br>gravity<br>start<br>journey<br>drink<br>spring<br>core<br>critic<br>girl |  
-| bip_39_word_new_br12 | oyster<br>young<br>gasp<br>gravity<br>start<br>journey<br>drink<br>spring<br>core<br>critic<br>girl<br>apart |  
-| bip_39_word_new_br2 | oyster<br>young |  
-| bip_39_word_new_br3 | oyster<br>young<br>gasp |  
-| bip_39_word_new_br4 | oyster<br>young<br>gasp<br>gravity |  
-| bip_39_word_new_br5 | oyster<br>young<br>gasp<br>gravity<br>start |  
-| bip_39_word_new_br6 | oyster<br>young<br>gasp<br>gravity<br>start<br>journey |  
-| bip_39_word_new_br7 | oyster<br>young<br>gasp<br>gravity<br>start<br>journey<br>drink |  
-| bip_39_word_new_br8 | oyster<br>young<br>gasp<br>gravity<br>start<br>journey<br>drink<br>spring |  
-| bip_39_word_new_br9 | oyster<br>young<br>gasp<br>gravity<br>start<br>journey<br>drink<br>spring<br>core |  
-| bip_39_word_new_line1 | oyster |  
-| bip_39_word_new_line10 | oyster
+| bip_39_word_new_br_1 | oyster |  
+| bip_39_word_new_br_10 | oyster<br>young<br>gasp<br>gravity<br>start<br>journey<br>drink<br>spring<br>core<br>critic |  
+| bip_39_word_new_br_11 | oyster<br>young<br>gasp<br>gravity<br>start<br>journey<br>drink<br>spring<br>core<br>critic<br>girl |  
+| bip_39_word_new_br_12 | oyster<br>young<br>gasp<br>gravity<br>start<br>journey<br>drink<br>spring<br>core<br>critic<br>girl<br>apart |  
+| bip_39_word_new_br_2 | oyster<br>young |  
+| bip_39_word_new_br_3 | oyster<br>young<br>gasp |  
+| bip_39_word_new_br_4 | oyster<br>young<br>gasp<br>gravity |  
+| bip_39_word_new_br_5 | oyster<br>young<br>gasp<br>gravity<br>start |  
+| bip_39_word_new_br_6 | oyster<br>young<br>gasp<br>gravity<br>start<br>journey |  
+| bip_39_word_new_br_7 | oyster<br>young<br>gasp<br>gravity<br>start<br>journey<br>drink |  
+| bip_39_word_new_br_8 | oyster<br>young<br>gasp<br>gravity<br>start<br>journey<br>drink<br>spring |  
+| bip_39_word_new_br_9 | oyster<br>young<br>gasp<br>gravity<br>start<br>journey<br>drink<br>spring<br>core |  
+| bip_39_word_new_line_1 | oyster |  
+| bip_39_word_new_line_10 | oyster
 young
 gasp
 gravity
@@ -55,7 +55,7 @@ drink
 spring
 core
 critic |  
-| bip_39_word_new_line11 | oyster
+| bip_39_word_new_line_11 | oyster
 young
 gasp
 gravity
@@ -66,7 +66,7 @@ spring
 core
 critic
 girl |  
-| bip_39_word_new_line12 | oyster
+| bip_39_word_new_line_12 | oyster
 young
 gasp
 gravity
@@ -78,34 +78,34 @@ core
 critic
 girl
 apart |  
-| bip_39_word_new_line2 | oyster
+| bip_39_word_new_line_2 | oyster
 young |  
-| bip_39_word_new_line3 | oyster
+| bip_39_word_new_line_3 | oyster
 young
 gasp |  
-| bip_39_word_new_line4 | oyster
+| bip_39_word_new_line_4 | oyster
 young
 gasp
 gravity |  
-| bip_39_word_new_line5 | oyster
+| bip_39_word_new_line_5 | oyster
 young
 gasp
 gravity
 start |  
-| bip_39_word_new_line6 | oyster
+| bip_39_word_new_line_6 | oyster
 young
 gasp
 gravity
 start
 journey |  
-| bip_39_word_new_line7 | oyster
+| bip_39_word_new_line_7 | oyster
 young
 gasp
 gravity
 start
 journey
 drink |  
-| bip_39_word_new_line8 | oyster
+| bip_39_word_new_line_8 | oyster
 young
 gasp
 gravity
@@ -113,7 +113,7 @@ start
 journey
 drink
 spring |  
-| bip_39_word_new_line9 | oyster
+| bip_39_word_new_line_9 | oyster
 young
 gasp
 gravity

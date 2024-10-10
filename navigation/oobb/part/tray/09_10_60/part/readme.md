@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | public |  
-| bip_39_word_new_br10 | public<br>leopard<br>sea<br>person<br>bone<br>inform<br>scheme<br>own<br>trash<br>motor |  
-| bip_39_word_new_br11 | public<br>leopard<br>sea<br>person<br>bone<br>inform<br>scheme<br>own<br>trash<br>motor<br>seminar |  
-| bip_39_word_new_br12 | public<br>leopard<br>sea<br>person<br>bone<br>inform<br>scheme<br>own<br>trash<br>motor<br>seminar<br>antique |  
-| bip_39_word_new_br2 | public<br>leopard |  
-| bip_39_word_new_br3 | public<br>leopard<br>sea |  
-| bip_39_word_new_br4 | public<br>leopard<br>sea<br>person |  
-| bip_39_word_new_br5 | public<br>leopard<br>sea<br>person<br>bone |  
-| bip_39_word_new_br6 | public<br>leopard<br>sea<br>person<br>bone<br>inform |  
-| bip_39_word_new_br7 | public<br>leopard<br>sea<br>person<br>bone<br>inform<br>scheme |  
-| bip_39_word_new_br8 | public<br>leopard<br>sea<br>person<br>bone<br>inform<br>scheme<br>own |  
-| bip_39_word_new_br9 | public<br>leopard<br>sea<br>person<br>bone<br>inform<br>scheme<br>own<br>trash |  
-| bip_39_word_new_line1 | public |  
-| bip_39_word_new_line10 | public
+| bip_39_word_new_br_1 | public |  
+| bip_39_word_new_br_10 | public<br>leopard<br>sea<br>person<br>bone<br>inform<br>scheme<br>own<br>trash<br>motor |  
+| bip_39_word_new_br_11 | public<br>leopard<br>sea<br>person<br>bone<br>inform<br>scheme<br>own<br>trash<br>motor<br>seminar |  
+| bip_39_word_new_br_12 | public<br>leopard<br>sea<br>person<br>bone<br>inform<br>scheme<br>own<br>trash<br>motor<br>seminar<br>antique |  
+| bip_39_word_new_br_2 | public<br>leopard |  
+| bip_39_word_new_br_3 | public<br>leopard<br>sea |  
+| bip_39_word_new_br_4 | public<br>leopard<br>sea<br>person |  
+| bip_39_word_new_br_5 | public<br>leopard<br>sea<br>person<br>bone |  
+| bip_39_word_new_br_6 | public<br>leopard<br>sea<br>person<br>bone<br>inform |  
+| bip_39_word_new_br_7 | public<br>leopard<br>sea<br>person<br>bone<br>inform<br>scheme |  
+| bip_39_word_new_br_8 | public<br>leopard<br>sea<br>person<br>bone<br>inform<br>scheme<br>own |  
+| bip_39_word_new_br_9 | public<br>leopard<br>sea<br>person<br>bone<br>inform<br>scheme<br>own<br>trash |  
+| bip_39_word_new_line_1 | public |  
+| bip_39_word_new_line_10 | public
 leopard
 sea
 person
@@ -55,7 +55,7 @@ scheme
 own
 trash
 motor |  
-| bip_39_word_new_line11 | public
+| bip_39_word_new_line_11 | public
 leopard
 sea
 person
@@ -66,7 +66,7 @@ own
 trash
 motor
 seminar |  
-| bip_39_word_new_line12 | public
+| bip_39_word_new_line_12 | public
 leopard
 sea
 person
@@ -78,34 +78,34 @@ trash
 motor
 seminar
 antique |  
-| bip_39_word_new_line2 | public
+| bip_39_word_new_line_2 | public
 leopard |  
-| bip_39_word_new_line3 | public
+| bip_39_word_new_line_3 | public
 leopard
 sea |  
-| bip_39_word_new_line4 | public
+| bip_39_word_new_line_4 | public
 leopard
 sea
 person |  
-| bip_39_word_new_line5 | public
+| bip_39_word_new_line_5 | public
 leopard
 sea
 person
 bone |  
-| bip_39_word_new_line6 | public
+| bip_39_word_new_line_6 | public
 leopard
 sea
 person
 bone
 inform |  
-| bip_39_word_new_line7 | public
+| bip_39_word_new_line_7 | public
 leopard
 sea
 person
 bone
 inform
 scheme |  
-| bip_39_word_new_line8 | public
+| bip_39_word_new_line_8 | public
 leopard
 sea
 person
@@ -113,7 +113,7 @@ bone
 inform
 scheme
 own |  
-| bip_39_word_new_line9 | public
+| bip_39_word_new_line_9 | public
 leopard
 sea
 person

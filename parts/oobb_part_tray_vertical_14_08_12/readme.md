@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | arm |  
-| bip_39_word_new_br10 | arm<br>awful<br>abstract<br>bright<br>deny<br>power<br>grape<br>mesh<br>indoor<br>bonus |  
-| bip_39_word_new_br11 | arm<br>awful<br>abstract<br>bright<br>deny<br>power<br>grape<br>mesh<br>indoor<br>bonus<br>garden |  
-| bip_39_word_new_br12 | arm<br>awful<br>abstract<br>bright<br>deny<br>power<br>grape<br>mesh<br>indoor<br>bonus<br>garden<br>arrow |  
-| bip_39_word_new_br2 | arm<br>awful |  
-| bip_39_word_new_br3 | arm<br>awful<br>abstract |  
-| bip_39_word_new_br4 | arm<br>awful<br>abstract<br>bright |  
-| bip_39_word_new_br5 | arm<br>awful<br>abstract<br>bright<br>deny |  
-| bip_39_word_new_br6 | arm<br>awful<br>abstract<br>bright<br>deny<br>power |  
-| bip_39_word_new_br7 | arm<br>awful<br>abstract<br>bright<br>deny<br>power<br>grape |  
-| bip_39_word_new_br8 | arm<br>awful<br>abstract<br>bright<br>deny<br>power<br>grape<br>mesh |  
-| bip_39_word_new_br9 | arm<br>awful<br>abstract<br>bright<br>deny<br>power<br>grape<br>mesh<br>indoor |  
-| bip_39_word_new_line1 | arm |  
-| bip_39_word_new_line10 | arm
+| bip_39_word_new_br_1 | arm |  
+| bip_39_word_new_br_10 | arm<br>awful<br>abstract<br>bright<br>deny<br>power<br>grape<br>mesh<br>indoor<br>bonus |  
+| bip_39_word_new_br_11 | arm<br>awful<br>abstract<br>bright<br>deny<br>power<br>grape<br>mesh<br>indoor<br>bonus<br>garden |  
+| bip_39_word_new_br_12 | arm<br>awful<br>abstract<br>bright<br>deny<br>power<br>grape<br>mesh<br>indoor<br>bonus<br>garden<br>arrow |  
+| bip_39_word_new_br_2 | arm<br>awful |  
+| bip_39_word_new_br_3 | arm<br>awful<br>abstract |  
+| bip_39_word_new_br_4 | arm<br>awful<br>abstract<br>bright |  
+| bip_39_word_new_br_5 | arm<br>awful<br>abstract<br>bright<br>deny |  
+| bip_39_word_new_br_6 | arm<br>awful<br>abstract<br>bright<br>deny<br>power |  
+| bip_39_word_new_br_7 | arm<br>awful<br>abstract<br>bright<br>deny<br>power<br>grape |  
+| bip_39_word_new_br_8 | arm<br>awful<br>abstract<br>bright<br>deny<br>power<br>grape<br>mesh |  
+| bip_39_word_new_br_9 | arm<br>awful<br>abstract<br>bright<br>deny<br>power<br>grape<br>mesh<br>indoor |  
+| bip_39_word_new_line_1 | arm |  
+| bip_39_word_new_line_10 | arm
 awful
 abstract
 bright
@@ -55,7 +55,7 @@ grape
 mesh
 indoor
 bonus |  
-| bip_39_word_new_line11 | arm
+| bip_39_word_new_line_11 | arm
 awful
 abstract
 bright
@@ -66,7 +66,7 @@ mesh
 indoor
 bonus
 garden |  
-| bip_39_word_new_line12 | arm
+| bip_39_word_new_line_12 | arm
 awful
 abstract
 bright
@@ -78,34 +78,34 @@ indoor
 bonus
 garden
 arrow |  
-| bip_39_word_new_line2 | arm
+| bip_39_word_new_line_2 | arm
 awful |  
-| bip_39_word_new_line3 | arm
+| bip_39_word_new_line_3 | arm
 awful
 abstract |  
-| bip_39_word_new_line4 | arm
+| bip_39_word_new_line_4 | arm
 awful
 abstract
 bright |  
-| bip_39_word_new_line5 | arm
+| bip_39_word_new_line_5 | arm
 awful
 abstract
 bright
 deny |  
-| bip_39_word_new_line6 | arm
+| bip_39_word_new_line_6 | arm
 awful
 abstract
 bright
 deny
 power |  
-| bip_39_word_new_line7 | arm
+| bip_39_word_new_line_7 | arm
 awful
 abstract
 bright
 deny
 power
 grape |  
-| bip_39_word_new_line8 | arm
+| bip_39_word_new_line_8 | arm
 awful
 abstract
 bright
@@ -113,7 +113,7 @@ deny
 power
 grape
 mesh |  
-| bip_39_word_new_line9 | arm
+| bip_39_word_new_line_9 | arm
 awful
 abstract
 bright

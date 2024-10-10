@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | maid |  
-| bip_39_word_new_br10 | maid<br>erase<br>spoon<br>fly<br>raise<br>apology<br>skin<br>suspect<br>reopen<br>wall |  
-| bip_39_word_new_br11 | maid<br>erase<br>spoon<br>fly<br>raise<br>apology<br>skin<br>suspect<br>reopen<br>wall<br>asthma |  
-| bip_39_word_new_br12 | maid<br>erase<br>spoon<br>fly<br>raise<br>apology<br>skin<br>suspect<br>reopen<br>wall<br>asthma<br>angry |  
-| bip_39_word_new_br2 | maid<br>erase |  
-| bip_39_word_new_br3 | maid<br>erase<br>spoon |  
-| bip_39_word_new_br4 | maid<br>erase<br>spoon<br>fly |  
-| bip_39_word_new_br5 | maid<br>erase<br>spoon<br>fly<br>raise |  
-| bip_39_word_new_br6 | maid<br>erase<br>spoon<br>fly<br>raise<br>apology |  
-| bip_39_word_new_br7 | maid<br>erase<br>spoon<br>fly<br>raise<br>apology<br>skin |  
-| bip_39_word_new_br8 | maid<br>erase<br>spoon<br>fly<br>raise<br>apology<br>skin<br>suspect |  
-| bip_39_word_new_br9 | maid<br>erase<br>spoon<br>fly<br>raise<br>apology<br>skin<br>suspect<br>reopen |  
-| bip_39_word_new_line1 | maid |  
-| bip_39_word_new_line10 | maid
+| bip_39_word_new_br_1 | maid |  
+| bip_39_word_new_br_10 | maid<br>erase<br>spoon<br>fly<br>raise<br>apology<br>skin<br>suspect<br>reopen<br>wall |  
+| bip_39_word_new_br_11 | maid<br>erase<br>spoon<br>fly<br>raise<br>apology<br>skin<br>suspect<br>reopen<br>wall<br>asthma |  
+| bip_39_word_new_br_12 | maid<br>erase<br>spoon<br>fly<br>raise<br>apology<br>skin<br>suspect<br>reopen<br>wall<br>asthma<br>angry |  
+| bip_39_word_new_br_2 | maid<br>erase |  
+| bip_39_word_new_br_3 | maid<br>erase<br>spoon |  
+| bip_39_word_new_br_4 | maid<br>erase<br>spoon<br>fly |  
+| bip_39_word_new_br_5 | maid<br>erase<br>spoon<br>fly<br>raise |  
+| bip_39_word_new_br_6 | maid<br>erase<br>spoon<br>fly<br>raise<br>apology |  
+| bip_39_word_new_br_7 | maid<br>erase<br>spoon<br>fly<br>raise<br>apology<br>skin |  
+| bip_39_word_new_br_8 | maid<br>erase<br>spoon<br>fly<br>raise<br>apology<br>skin<br>suspect |  
+| bip_39_word_new_br_9 | maid<br>erase<br>spoon<br>fly<br>raise<br>apology<br>skin<br>suspect<br>reopen |  
+| bip_39_word_new_line_1 | maid |  
+| bip_39_word_new_line_10 | maid
 erase
 spoon
 fly
@@ -55,7 +55,7 @@ skin
 suspect
 reopen
 wall |  
-| bip_39_word_new_line11 | maid
+| bip_39_word_new_line_11 | maid
 erase
 spoon
 fly
@@ -66,7 +66,7 @@ suspect
 reopen
 wall
 asthma |  
-| bip_39_word_new_line12 | maid
+| bip_39_word_new_line_12 | maid
 erase
 spoon
 fly
@@ -78,34 +78,34 @@ reopen
 wall
 asthma
 angry |  
-| bip_39_word_new_line2 | maid
+| bip_39_word_new_line_2 | maid
 erase |  
-| bip_39_word_new_line3 | maid
+| bip_39_word_new_line_3 | maid
 erase
 spoon |  
-| bip_39_word_new_line4 | maid
+| bip_39_word_new_line_4 | maid
 erase
 spoon
 fly |  
-| bip_39_word_new_line5 | maid
+| bip_39_word_new_line_5 | maid
 erase
 spoon
 fly
 raise |  
-| bip_39_word_new_line6 | maid
+| bip_39_word_new_line_6 | maid
 erase
 spoon
 fly
 raise
 apology |  
-| bip_39_word_new_line7 | maid
+| bip_39_word_new_line_7 | maid
 erase
 spoon
 fly
 raise
 apology
 skin |  
-| bip_39_word_new_line8 | maid
+| bip_39_word_new_line_8 | maid
 erase
 spoon
 fly
@@ -113,7 +113,7 @@ raise
 apology
 skin
 suspect |  
-| bip_39_word_new_line9 | maid
+| bip_39_word_new_line_9 | maid
 erase
 spoon
 fly

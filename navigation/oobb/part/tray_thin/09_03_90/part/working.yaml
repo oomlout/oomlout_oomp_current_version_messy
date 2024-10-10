@@ -1,17 +1,17 @@
-bip_39_word_new_br1: accuse
-bip_39_word_new_br10: accuse<br>arena<br>cinnamon<br>bamboo<br>alley<br>middle<br>admit<br>sponsor<br>first<br>open
-bip_39_word_new_br11: accuse<br>arena<br>cinnamon<br>bamboo<br>alley<br>middle<br>admit<br>sponsor<br>first<br>open<br>unhappy
-bip_39_word_new_br12: accuse<br>arena<br>cinnamon<br>bamboo<br>alley<br>middle<br>admit<br>sponsor<br>first<br>open<br>unhappy<br>again
-bip_39_word_new_br2: accuse<br>arena
-bip_39_word_new_br3: accuse<br>arena<br>cinnamon
-bip_39_word_new_br4: accuse<br>arena<br>cinnamon<br>bamboo
-bip_39_word_new_br5: accuse<br>arena<br>cinnamon<br>bamboo<br>alley
-bip_39_word_new_br6: accuse<br>arena<br>cinnamon<br>bamboo<br>alley<br>middle
-bip_39_word_new_br7: accuse<br>arena<br>cinnamon<br>bamboo<br>alley<br>middle<br>admit
-bip_39_word_new_br8: accuse<br>arena<br>cinnamon<br>bamboo<br>alley<br>middle<br>admit<br>sponsor
-bip_39_word_new_br9: accuse<br>arena<br>cinnamon<br>bamboo<br>alley<br>middle<br>admit<br>sponsor<br>first
-bip_39_word_new_line1: accuse
-bip_39_word_new_line10: 'accuse
+bip_39_word_new_br_1: accuse
+bip_39_word_new_br_10: accuse<br>arena<br>cinnamon<br>bamboo<br>alley<br>middle<br>admit<br>sponsor<br>first<br>open
+bip_39_word_new_br_11: accuse<br>arena<br>cinnamon<br>bamboo<br>alley<br>middle<br>admit<br>sponsor<br>first<br>open<br>unhappy
+bip_39_word_new_br_12: accuse<br>arena<br>cinnamon<br>bamboo<br>alley<br>middle<br>admit<br>sponsor<br>first<br>open<br>unhappy<br>again
+bip_39_word_new_br_2: accuse<br>arena
+bip_39_word_new_br_3: accuse<br>arena<br>cinnamon
+bip_39_word_new_br_4: accuse<br>arena<br>cinnamon<br>bamboo
+bip_39_word_new_br_5: accuse<br>arena<br>cinnamon<br>bamboo<br>alley
+bip_39_word_new_br_6: accuse<br>arena<br>cinnamon<br>bamboo<br>alley<br>middle
+bip_39_word_new_br_7: accuse<br>arena<br>cinnamon<br>bamboo<br>alley<br>middle<br>admit
+bip_39_word_new_br_8: accuse<br>arena<br>cinnamon<br>bamboo<br>alley<br>middle<br>admit<br>sponsor
+bip_39_word_new_br_9: accuse<br>arena<br>cinnamon<br>bamboo<br>alley<br>middle<br>admit<br>sponsor<br>first
+bip_39_word_new_line_1: accuse
+bip_39_word_new_line_10: 'accuse
 
   arena
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'accuse
   first
 
   open'
-bip_39_word_new_line11: 'accuse
+bip_39_word_new_line_11: 'accuse
 
   arena
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'accuse
   open
 
   unhappy'
-bip_39_word_new_line12: 'accuse
+bip_39_word_new_line_12: 'accuse
 
   arena
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'accuse
   unhappy
 
   again'
-bip_39_word_new_line2: 'accuse
+bip_39_word_new_line_2: 'accuse
 
   arena'
-bip_39_word_new_line3: 'accuse
+bip_39_word_new_line_3: 'accuse
 
   arena
 
   cinnamon'
-bip_39_word_new_line4: 'accuse
+bip_39_word_new_line_4: 'accuse
 
   arena
 
   cinnamon
 
   bamboo'
-bip_39_word_new_line5: 'accuse
+bip_39_word_new_line_5: 'accuse
 
   arena
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'accuse
   bamboo
 
   alley'
-bip_39_word_new_line6: 'accuse
+bip_39_word_new_line_6: 'accuse
 
   arena
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'accuse
   alley
 
   middle'
-bip_39_word_new_line7: 'accuse
+bip_39_word_new_line_7: 'accuse
 
   arena
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'accuse
   middle
 
   admit'
-bip_39_word_new_line8: 'accuse
+bip_39_word_new_line_8: 'accuse
 
   arena
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'accuse
   admit
 
   sponsor'
-bip_39_word_new_line9: 'accuse
+bip_39_word_new_line_9: 'accuse
 
   arena
 

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | decline |  
-| bip_39_word_new_br10 | decline<br>bronze<br>idle<br>author<br>where<br>october<br>entire<br>odor<br>crucial<br>rookie |  
-| bip_39_word_new_br11 | decline<br>bronze<br>idle<br>author<br>where<br>october<br>entire<br>odor<br>crucial<br>rookie<br>intact |  
-| bip_39_word_new_br12 | decline<br>bronze<br>idle<br>author<br>where<br>october<br>entire<br>odor<br>crucial<br>rookie<br>intact<br>album |  
-| bip_39_word_new_br2 | decline<br>bronze |  
-| bip_39_word_new_br3 | decline<br>bronze<br>idle |  
-| bip_39_word_new_br4 | decline<br>bronze<br>idle<br>author |  
-| bip_39_word_new_br5 | decline<br>bronze<br>idle<br>author<br>where |  
-| bip_39_word_new_br6 | decline<br>bronze<br>idle<br>author<br>where<br>october |  
-| bip_39_word_new_br7 | decline<br>bronze<br>idle<br>author<br>where<br>october<br>entire |  
-| bip_39_word_new_br8 | decline<br>bronze<br>idle<br>author<br>where<br>october<br>entire<br>odor |  
-| bip_39_word_new_br9 | decline<br>bronze<br>idle<br>author<br>where<br>october<br>entire<br>odor<br>crucial |  
-| bip_39_word_new_line1 | decline |  
-| bip_39_word_new_line10 | decline
+| bip_39_word_new_br_1 | decline |  
+| bip_39_word_new_br_10 | decline<br>bronze<br>idle<br>author<br>where<br>october<br>entire<br>odor<br>crucial<br>rookie |  
+| bip_39_word_new_br_11 | decline<br>bronze<br>idle<br>author<br>where<br>october<br>entire<br>odor<br>crucial<br>rookie<br>intact |  
+| bip_39_word_new_br_12 | decline<br>bronze<br>idle<br>author<br>where<br>october<br>entire<br>odor<br>crucial<br>rookie<br>intact<br>album |  
+| bip_39_word_new_br_2 | decline<br>bronze |  
+| bip_39_word_new_br_3 | decline<br>bronze<br>idle |  
+| bip_39_word_new_br_4 | decline<br>bronze<br>idle<br>author |  
+| bip_39_word_new_br_5 | decline<br>bronze<br>idle<br>author<br>where |  
+| bip_39_word_new_br_6 | decline<br>bronze<br>idle<br>author<br>where<br>october |  
+| bip_39_word_new_br_7 | decline<br>bronze<br>idle<br>author<br>where<br>october<br>entire |  
+| bip_39_word_new_br_8 | decline<br>bronze<br>idle<br>author<br>where<br>october<br>entire<br>odor |  
+| bip_39_word_new_br_9 | decline<br>bronze<br>idle<br>author<br>where<br>october<br>entire<br>odor<br>crucial |  
+| bip_39_word_new_line_1 | decline |  
+| bip_39_word_new_line_10 | decline
 bronze
 idle
 author
@@ -55,7 +55,7 @@ entire
 odor
 crucial
 rookie |  
-| bip_39_word_new_line11 | decline
+| bip_39_word_new_line_11 | decline
 bronze
 idle
 author
@@ -66,7 +66,7 @@ odor
 crucial
 rookie
 intact |  
-| bip_39_word_new_line12 | decline
+| bip_39_word_new_line_12 | decline
 bronze
 idle
 author
@@ -78,34 +78,34 @@ crucial
 rookie
 intact
 album |  
-| bip_39_word_new_line2 | decline
+| bip_39_word_new_line_2 | decline
 bronze |  
-| bip_39_word_new_line3 | decline
+| bip_39_word_new_line_3 | decline
 bronze
 idle |  
-| bip_39_word_new_line4 | decline
+| bip_39_word_new_line_4 | decline
 bronze
 idle
 author |  
-| bip_39_word_new_line5 | decline
+| bip_39_word_new_line_5 | decline
 bronze
 idle
 author
 where |  
-| bip_39_word_new_line6 | decline
+| bip_39_word_new_line_6 | decline
 bronze
 idle
 author
 where
 october |  
-| bip_39_word_new_line7 | decline
+| bip_39_word_new_line_7 | decline
 bronze
 idle
 author
 where
 october
 entire |  
-| bip_39_word_new_line8 | decline
+| bip_39_word_new_line_8 | decline
 bronze
 idle
 author
@@ -113,7 +113,7 @@ where
 october
 entire
 odor |  
-| bip_39_word_new_line9 | decline
+| bip_39_word_new_line_9 | decline
 bronze
 idle
 author

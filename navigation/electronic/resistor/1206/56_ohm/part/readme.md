@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | inform |  
-| bip_39_word_new_br10 | inform<br>lawsuit<br>cost<br>parade<br>law<br>female<br>pudding<br>anchor<br>dutch<br>sell |  
-| bip_39_word_new_br11 | inform<br>lawsuit<br>cost<br>parade<br>law<br>female<br>pudding<br>anchor<br>dutch<br>sell<br>pink |  
-| bip_39_word_new_br12 | inform<br>lawsuit<br>cost<br>parade<br>law<br>female<br>pudding<br>anchor<br>dutch<br>sell<br>pink<br>appear |  
-| bip_39_word_new_br2 | inform<br>lawsuit |  
-| bip_39_word_new_br3 | inform<br>lawsuit<br>cost |  
-| bip_39_word_new_br4 | inform<br>lawsuit<br>cost<br>parade |  
-| bip_39_word_new_br5 | inform<br>lawsuit<br>cost<br>parade<br>law |  
-| bip_39_word_new_br6 | inform<br>lawsuit<br>cost<br>parade<br>law<br>female |  
-| bip_39_word_new_br7 | inform<br>lawsuit<br>cost<br>parade<br>law<br>female<br>pudding |  
-| bip_39_word_new_br8 | inform<br>lawsuit<br>cost<br>parade<br>law<br>female<br>pudding<br>anchor |  
-| bip_39_word_new_br9 | inform<br>lawsuit<br>cost<br>parade<br>law<br>female<br>pudding<br>anchor<br>dutch |  
-| bip_39_word_new_line1 | inform |  
-| bip_39_word_new_line10 | inform
+| bip_39_word_new_br_1 | inform |  
+| bip_39_word_new_br_10 | inform<br>lawsuit<br>cost<br>parade<br>law<br>female<br>pudding<br>anchor<br>dutch<br>sell |  
+| bip_39_word_new_br_11 | inform<br>lawsuit<br>cost<br>parade<br>law<br>female<br>pudding<br>anchor<br>dutch<br>sell<br>pink |  
+| bip_39_word_new_br_12 | inform<br>lawsuit<br>cost<br>parade<br>law<br>female<br>pudding<br>anchor<br>dutch<br>sell<br>pink<br>appear |  
+| bip_39_word_new_br_2 | inform<br>lawsuit |  
+| bip_39_word_new_br_3 | inform<br>lawsuit<br>cost |  
+| bip_39_word_new_br_4 | inform<br>lawsuit<br>cost<br>parade |  
+| bip_39_word_new_br_5 | inform<br>lawsuit<br>cost<br>parade<br>law |  
+| bip_39_word_new_br_6 | inform<br>lawsuit<br>cost<br>parade<br>law<br>female |  
+| bip_39_word_new_br_7 | inform<br>lawsuit<br>cost<br>parade<br>law<br>female<br>pudding |  
+| bip_39_word_new_br_8 | inform<br>lawsuit<br>cost<br>parade<br>law<br>female<br>pudding<br>anchor |  
+| bip_39_word_new_br_9 | inform<br>lawsuit<br>cost<br>parade<br>law<br>female<br>pudding<br>anchor<br>dutch |  
+| bip_39_word_new_line_1 | inform |  
+| bip_39_word_new_line_10 | inform
 lawsuit
 cost
 parade
@@ -55,7 +55,7 @@ pudding
 anchor
 dutch
 sell |  
-| bip_39_word_new_line11 | inform
+| bip_39_word_new_line_11 | inform
 lawsuit
 cost
 parade
@@ -66,7 +66,7 @@ anchor
 dutch
 sell
 pink |  
-| bip_39_word_new_line12 | inform
+| bip_39_word_new_line_12 | inform
 lawsuit
 cost
 parade
@@ -78,34 +78,34 @@ dutch
 sell
 pink
 appear |  
-| bip_39_word_new_line2 | inform
+| bip_39_word_new_line_2 | inform
 lawsuit |  
-| bip_39_word_new_line3 | inform
+| bip_39_word_new_line_3 | inform
 lawsuit
 cost |  
-| bip_39_word_new_line4 | inform
+| bip_39_word_new_line_4 | inform
 lawsuit
 cost
 parade |  
-| bip_39_word_new_line5 | inform
+| bip_39_word_new_line_5 | inform
 lawsuit
 cost
 parade
 law |  
-| bip_39_word_new_line6 | inform
+| bip_39_word_new_line_6 | inform
 lawsuit
 cost
 parade
 law
 female |  
-| bip_39_word_new_line7 | inform
+| bip_39_word_new_line_7 | inform
 lawsuit
 cost
 parade
 law
 female
 pudding |  
-| bip_39_word_new_line8 | inform
+| bip_39_word_new_line_8 | inform
 lawsuit
 cost
 parade
@@ -113,7 +113,7 @@ law
 female
 pudding
 anchor |  
-| bip_39_word_new_line9 | inform
+| bip_39_word_new_line_9 | inform
 lawsuit
 cost
 parade

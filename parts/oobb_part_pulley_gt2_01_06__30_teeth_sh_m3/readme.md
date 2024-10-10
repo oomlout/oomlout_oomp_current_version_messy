@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | arrive |  
-| bip_39_word_new_br10 | arrive<br>render<br>window<br>found<br>brush<br>thing<br>tissue<br>frown<br>debate<br>elder |  
-| bip_39_word_new_br11 | arrive<br>render<br>window<br>found<br>brush<br>thing<br>tissue<br>frown<br>debate<br>elder<br>dwarf |  
-| bip_39_word_new_br12 | arrive<br>render<br>window<br>found<br>brush<br>thing<br>tissue<br>frown<br>debate<br>elder<br>dwarf<br>advice |  
-| bip_39_word_new_br2 | arrive<br>render |  
-| bip_39_word_new_br3 | arrive<br>render<br>window |  
-| bip_39_word_new_br4 | arrive<br>render<br>window<br>found |  
-| bip_39_word_new_br5 | arrive<br>render<br>window<br>found<br>brush |  
-| bip_39_word_new_br6 | arrive<br>render<br>window<br>found<br>brush<br>thing |  
-| bip_39_word_new_br7 | arrive<br>render<br>window<br>found<br>brush<br>thing<br>tissue |  
-| bip_39_word_new_br8 | arrive<br>render<br>window<br>found<br>brush<br>thing<br>tissue<br>frown |  
-| bip_39_word_new_br9 | arrive<br>render<br>window<br>found<br>brush<br>thing<br>tissue<br>frown<br>debate |  
-| bip_39_word_new_line1 | arrive |  
-| bip_39_word_new_line10 | arrive
+| bip_39_word_new_br_1 | arrive |  
+| bip_39_word_new_br_10 | arrive<br>render<br>window<br>found<br>brush<br>thing<br>tissue<br>frown<br>debate<br>elder |  
+| bip_39_word_new_br_11 | arrive<br>render<br>window<br>found<br>brush<br>thing<br>tissue<br>frown<br>debate<br>elder<br>dwarf |  
+| bip_39_word_new_br_12 | arrive<br>render<br>window<br>found<br>brush<br>thing<br>tissue<br>frown<br>debate<br>elder<br>dwarf<br>advice |  
+| bip_39_word_new_br_2 | arrive<br>render |  
+| bip_39_word_new_br_3 | arrive<br>render<br>window |  
+| bip_39_word_new_br_4 | arrive<br>render<br>window<br>found |  
+| bip_39_word_new_br_5 | arrive<br>render<br>window<br>found<br>brush |  
+| bip_39_word_new_br_6 | arrive<br>render<br>window<br>found<br>brush<br>thing |  
+| bip_39_word_new_br_7 | arrive<br>render<br>window<br>found<br>brush<br>thing<br>tissue |  
+| bip_39_word_new_br_8 | arrive<br>render<br>window<br>found<br>brush<br>thing<br>tissue<br>frown |  
+| bip_39_word_new_br_9 | arrive<br>render<br>window<br>found<br>brush<br>thing<br>tissue<br>frown<br>debate |  
+| bip_39_word_new_line_1 | arrive |  
+| bip_39_word_new_line_10 | arrive
 render
 window
 found
@@ -55,7 +55,7 @@ tissue
 frown
 debate
 elder |  
-| bip_39_word_new_line11 | arrive
+| bip_39_word_new_line_11 | arrive
 render
 window
 found
@@ -66,7 +66,7 @@ frown
 debate
 elder
 dwarf |  
-| bip_39_word_new_line12 | arrive
+| bip_39_word_new_line_12 | arrive
 render
 window
 found
@@ -78,34 +78,34 @@ debate
 elder
 dwarf
 advice |  
-| bip_39_word_new_line2 | arrive
+| bip_39_word_new_line_2 | arrive
 render |  
-| bip_39_word_new_line3 | arrive
+| bip_39_word_new_line_3 | arrive
 render
 window |  
-| bip_39_word_new_line4 | arrive
+| bip_39_word_new_line_4 | arrive
 render
 window
 found |  
-| bip_39_word_new_line5 | arrive
+| bip_39_word_new_line_5 | arrive
 render
 window
 found
 brush |  
-| bip_39_word_new_line6 | arrive
+| bip_39_word_new_line_6 | arrive
 render
 window
 found
 brush
 thing |  
-| bip_39_word_new_line7 | arrive
+| bip_39_word_new_line_7 | arrive
 render
 window
 found
 brush
 thing
 tissue |  
-| bip_39_word_new_line8 | arrive
+| bip_39_word_new_line_8 | arrive
 render
 window
 found
@@ -113,7 +113,7 @@ brush
 thing
 tissue
 frown |  
-| bip_39_word_new_line9 | arrive
+| bip_39_word_new_line_9 | arrive
 render
 window
 found

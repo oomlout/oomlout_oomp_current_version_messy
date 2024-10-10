@@ -1,17 +1,17 @@
-bip_39_word_new_br1: cluster
-bip_39_word_new_br10: cluster<br>file<br>rude<br>abandon<br>jeans<br>damage<br>negative<br>aim<br>unfair<br>force
-bip_39_word_new_br11: cluster<br>file<br>rude<br>abandon<br>jeans<br>damage<br>negative<br>aim<br>unfair<br>force<br>melody
-bip_39_word_new_br12: cluster<br>file<br>rude<br>abandon<br>jeans<br>damage<br>negative<br>aim<br>unfair<br>force<br>melody<br>anxiety
-bip_39_word_new_br2: cluster<br>file
-bip_39_word_new_br3: cluster<br>file<br>rude
-bip_39_word_new_br4: cluster<br>file<br>rude<br>abandon
-bip_39_word_new_br5: cluster<br>file<br>rude<br>abandon<br>jeans
-bip_39_word_new_br6: cluster<br>file<br>rude<br>abandon<br>jeans<br>damage
-bip_39_word_new_br7: cluster<br>file<br>rude<br>abandon<br>jeans<br>damage<br>negative
-bip_39_word_new_br8: cluster<br>file<br>rude<br>abandon<br>jeans<br>damage<br>negative<br>aim
-bip_39_word_new_br9: cluster<br>file<br>rude<br>abandon<br>jeans<br>damage<br>negative<br>aim<br>unfair
-bip_39_word_new_line1: cluster
-bip_39_word_new_line10: 'cluster
+bip_39_word_new_br_1: cluster
+bip_39_word_new_br_10: cluster<br>file<br>rude<br>abandon<br>jeans<br>damage<br>negative<br>aim<br>unfair<br>force
+bip_39_word_new_br_11: cluster<br>file<br>rude<br>abandon<br>jeans<br>damage<br>negative<br>aim<br>unfair<br>force<br>melody
+bip_39_word_new_br_12: cluster<br>file<br>rude<br>abandon<br>jeans<br>damage<br>negative<br>aim<br>unfair<br>force<br>melody<br>anxiety
+bip_39_word_new_br_2: cluster<br>file
+bip_39_word_new_br_3: cluster<br>file<br>rude
+bip_39_word_new_br_4: cluster<br>file<br>rude<br>abandon
+bip_39_word_new_br_5: cluster<br>file<br>rude<br>abandon<br>jeans
+bip_39_word_new_br_6: cluster<br>file<br>rude<br>abandon<br>jeans<br>damage
+bip_39_word_new_br_7: cluster<br>file<br>rude<br>abandon<br>jeans<br>damage<br>negative
+bip_39_word_new_br_8: cluster<br>file<br>rude<br>abandon<br>jeans<br>damage<br>negative<br>aim
+bip_39_word_new_br_9: cluster<br>file<br>rude<br>abandon<br>jeans<br>damage<br>negative<br>aim<br>unfair
+bip_39_word_new_line_1: cluster
+bip_39_word_new_line_10: 'cluster
 
   file
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'cluster
   unfair
 
   force'
-bip_39_word_new_line11: 'cluster
+bip_39_word_new_line_11: 'cluster
 
   file
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'cluster
   force
 
   melody'
-bip_39_word_new_line12: 'cluster
+bip_39_word_new_line_12: 'cluster
 
   file
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'cluster
   melody
 
   anxiety'
-bip_39_word_new_line2: 'cluster
+bip_39_word_new_line_2: 'cluster
 
   file'
-bip_39_word_new_line3: 'cluster
+bip_39_word_new_line_3: 'cluster
 
   file
 
   rude'
-bip_39_word_new_line4: 'cluster
+bip_39_word_new_line_4: 'cluster
 
   file
 
   rude
 
   abandon'
-bip_39_word_new_line5: 'cluster
+bip_39_word_new_line_5: 'cluster
 
   file
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'cluster
   abandon
 
   jeans'
-bip_39_word_new_line6: 'cluster
+bip_39_word_new_line_6: 'cluster
 
   file
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'cluster
   jeans
 
   damage'
-bip_39_word_new_line7: 'cluster
+bip_39_word_new_line_7: 'cluster
 
   file
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'cluster
   damage
 
   negative'
-bip_39_word_new_line8: 'cluster
+bip_39_word_new_line_8: 'cluster
 
   file
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'cluster
   negative
 
   aim'
-bip_39_word_new_line9: 'cluster
+bip_39_word_new_line_9: 'cluster
 
   file
 

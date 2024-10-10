@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | proof |  
-| bip_39_word_new_br10 | proof<br>blue<br>come<br>material<br>still<br>kitchen<br>snow<br>debate<br>great<br>bachelor |  
-| bip_39_word_new_br11 | proof<br>blue<br>come<br>material<br>still<br>kitchen<br>snow<br>debate<br>great<br>bachelor<br>alcohol |  
-| bip_39_word_new_br12 | proof<br>blue<br>come<br>material<br>still<br>kitchen<br>snow<br>debate<br>great<br>bachelor<br>alcohol<br>average |  
-| bip_39_word_new_br2 | proof<br>blue |  
-| bip_39_word_new_br3 | proof<br>blue<br>come |  
-| bip_39_word_new_br4 | proof<br>blue<br>come<br>material |  
-| bip_39_word_new_br5 | proof<br>blue<br>come<br>material<br>still |  
-| bip_39_word_new_br6 | proof<br>blue<br>come<br>material<br>still<br>kitchen |  
-| bip_39_word_new_br7 | proof<br>blue<br>come<br>material<br>still<br>kitchen<br>snow |  
-| bip_39_word_new_br8 | proof<br>blue<br>come<br>material<br>still<br>kitchen<br>snow<br>debate |  
-| bip_39_word_new_br9 | proof<br>blue<br>come<br>material<br>still<br>kitchen<br>snow<br>debate<br>great |  
-| bip_39_word_new_line1 | proof |  
-| bip_39_word_new_line10 | proof
+| bip_39_word_new_br_1 | proof |  
+| bip_39_word_new_br_10 | proof<br>blue<br>come<br>material<br>still<br>kitchen<br>snow<br>debate<br>great<br>bachelor |  
+| bip_39_word_new_br_11 | proof<br>blue<br>come<br>material<br>still<br>kitchen<br>snow<br>debate<br>great<br>bachelor<br>alcohol |  
+| bip_39_word_new_br_12 | proof<br>blue<br>come<br>material<br>still<br>kitchen<br>snow<br>debate<br>great<br>bachelor<br>alcohol<br>average |  
+| bip_39_word_new_br_2 | proof<br>blue |  
+| bip_39_word_new_br_3 | proof<br>blue<br>come |  
+| bip_39_word_new_br_4 | proof<br>blue<br>come<br>material |  
+| bip_39_word_new_br_5 | proof<br>blue<br>come<br>material<br>still |  
+| bip_39_word_new_br_6 | proof<br>blue<br>come<br>material<br>still<br>kitchen |  
+| bip_39_word_new_br_7 | proof<br>blue<br>come<br>material<br>still<br>kitchen<br>snow |  
+| bip_39_word_new_br_8 | proof<br>blue<br>come<br>material<br>still<br>kitchen<br>snow<br>debate |  
+| bip_39_word_new_br_9 | proof<br>blue<br>come<br>material<br>still<br>kitchen<br>snow<br>debate<br>great |  
+| bip_39_word_new_line_1 | proof |  
+| bip_39_word_new_line_10 | proof
 blue
 come
 material
@@ -55,7 +55,7 @@ snow
 debate
 great
 bachelor |  
-| bip_39_word_new_line11 | proof
+| bip_39_word_new_line_11 | proof
 blue
 come
 material
@@ -66,7 +66,7 @@ debate
 great
 bachelor
 alcohol |  
-| bip_39_word_new_line12 | proof
+| bip_39_word_new_line_12 | proof
 blue
 come
 material
@@ -78,34 +78,34 @@ great
 bachelor
 alcohol
 average |  
-| bip_39_word_new_line2 | proof
+| bip_39_word_new_line_2 | proof
 blue |  
-| bip_39_word_new_line3 | proof
+| bip_39_word_new_line_3 | proof
 blue
 come |  
-| bip_39_word_new_line4 | proof
+| bip_39_word_new_line_4 | proof
 blue
 come
 material |  
-| bip_39_word_new_line5 | proof
+| bip_39_word_new_line_5 | proof
 blue
 come
 material
 still |  
-| bip_39_word_new_line6 | proof
+| bip_39_word_new_line_6 | proof
 blue
 come
 material
 still
 kitchen |  
-| bip_39_word_new_line7 | proof
+| bip_39_word_new_line_7 | proof
 blue
 come
 material
 still
 kitchen
 snow |  
-| bip_39_word_new_line8 | proof
+| bip_39_word_new_line_8 | proof
 blue
 come
 material
@@ -113,7 +113,7 @@ still
 kitchen
 snow
 debate |  
-| bip_39_word_new_line9 | proof
+| bip_39_word_new_line_9 | proof
 blue
 come
 material

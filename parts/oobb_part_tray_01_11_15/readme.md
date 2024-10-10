@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | setup |  
-| bip_39_word_new_br10 | setup<br>bachelor<br>produce<br>trick<br>hamster<br>acquire<br>van<br>truck<br>various<br>stone |  
-| bip_39_word_new_br11 | setup<br>bachelor<br>produce<br>trick<br>hamster<br>acquire<br>van<br>truck<br>various<br>stone<br>gift |  
-| bip_39_word_new_br12 | setup<br>bachelor<br>produce<br>trick<br>hamster<br>acquire<br>van<br>truck<br>various<br>stone<br>gift<br>any |  
-| bip_39_word_new_br2 | setup<br>bachelor |  
-| bip_39_word_new_br3 | setup<br>bachelor<br>produce |  
-| bip_39_word_new_br4 | setup<br>bachelor<br>produce<br>trick |  
-| bip_39_word_new_br5 | setup<br>bachelor<br>produce<br>trick<br>hamster |  
-| bip_39_word_new_br6 | setup<br>bachelor<br>produce<br>trick<br>hamster<br>acquire |  
-| bip_39_word_new_br7 | setup<br>bachelor<br>produce<br>trick<br>hamster<br>acquire<br>van |  
-| bip_39_word_new_br8 | setup<br>bachelor<br>produce<br>trick<br>hamster<br>acquire<br>van<br>truck |  
-| bip_39_word_new_br9 | setup<br>bachelor<br>produce<br>trick<br>hamster<br>acquire<br>van<br>truck<br>various |  
-| bip_39_word_new_line1 | setup |  
-| bip_39_word_new_line10 | setup
+| bip_39_word_new_br_1 | setup |  
+| bip_39_word_new_br_10 | setup<br>bachelor<br>produce<br>trick<br>hamster<br>acquire<br>van<br>truck<br>various<br>stone |  
+| bip_39_word_new_br_11 | setup<br>bachelor<br>produce<br>trick<br>hamster<br>acquire<br>van<br>truck<br>various<br>stone<br>gift |  
+| bip_39_word_new_br_12 | setup<br>bachelor<br>produce<br>trick<br>hamster<br>acquire<br>van<br>truck<br>various<br>stone<br>gift<br>any |  
+| bip_39_word_new_br_2 | setup<br>bachelor |  
+| bip_39_word_new_br_3 | setup<br>bachelor<br>produce |  
+| bip_39_word_new_br_4 | setup<br>bachelor<br>produce<br>trick |  
+| bip_39_word_new_br_5 | setup<br>bachelor<br>produce<br>trick<br>hamster |  
+| bip_39_word_new_br_6 | setup<br>bachelor<br>produce<br>trick<br>hamster<br>acquire |  
+| bip_39_word_new_br_7 | setup<br>bachelor<br>produce<br>trick<br>hamster<br>acquire<br>van |  
+| bip_39_word_new_br_8 | setup<br>bachelor<br>produce<br>trick<br>hamster<br>acquire<br>van<br>truck |  
+| bip_39_word_new_br_9 | setup<br>bachelor<br>produce<br>trick<br>hamster<br>acquire<br>van<br>truck<br>various |  
+| bip_39_word_new_line_1 | setup |  
+| bip_39_word_new_line_10 | setup
 bachelor
 produce
 trick
@@ -55,7 +55,7 @@ van
 truck
 various
 stone |  
-| bip_39_word_new_line11 | setup
+| bip_39_word_new_line_11 | setup
 bachelor
 produce
 trick
@@ -66,7 +66,7 @@ truck
 various
 stone
 gift |  
-| bip_39_word_new_line12 | setup
+| bip_39_word_new_line_12 | setup
 bachelor
 produce
 trick
@@ -78,34 +78,34 @@ various
 stone
 gift
 any |  
-| bip_39_word_new_line2 | setup
+| bip_39_word_new_line_2 | setup
 bachelor |  
-| bip_39_word_new_line3 | setup
+| bip_39_word_new_line_3 | setup
 bachelor
 produce |  
-| bip_39_word_new_line4 | setup
+| bip_39_word_new_line_4 | setup
 bachelor
 produce
 trick |  
-| bip_39_word_new_line5 | setup
+| bip_39_word_new_line_5 | setup
 bachelor
 produce
 trick
 hamster |  
-| bip_39_word_new_line6 | setup
+| bip_39_word_new_line_6 | setup
 bachelor
 produce
 trick
 hamster
 acquire |  
-| bip_39_word_new_line7 | setup
+| bip_39_word_new_line_7 | setup
 bachelor
 produce
 trick
 hamster
 acquire
 van |  
-| bip_39_word_new_line8 | setup
+| bip_39_word_new_line_8 | setup
 bachelor
 produce
 trick
@@ -113,7 +113,7 @@ hamster
 acquire
 van
 truck |  
-| bip_39_word_new_line9 | setup
+| bip_39_word_new_line_9 | setup
 bachelor
 produce
 trick

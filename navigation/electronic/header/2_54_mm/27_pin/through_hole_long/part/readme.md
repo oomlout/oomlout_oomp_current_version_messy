@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | grit |  
-| bip_39_word_new_br10 | grit<br>silent<br>horse<br>example<br>always<br>hundred<br>secret<br>strong<br>museum<br>need |  
-| bip_39_word_new_br11 | grit<br>silent<br>horse<br>example<br>always<br>hundred<br>secret<br>strong<br>museum<br>need<br>curtain |  
-| bip_39_word_new_br12 | grit<br>silent<br>horse<br>example<br>always<br>hundred<br>secret<br>strong<br>museum<br>need<br>curtain<br>atom |  
-| bip_39_word_new_br2 | grit<br>silent |  
-| bip_39_word_new_br3 | grit<br>silent<br>horse |  
-| bip_39_word_new_br4 | grit<br>silent<br>horse<br>example |  
-| bip_39_word_new_br5 | grit<br>silent<br>horse<br>example<br>always |  
-| bip_39_word_new_br6 | grit<br>silent<br>horse<br>example<br>always<br>hundred |  
-| bip_39_word_new_br7 | grit<br>silent<br>horse<br>example<br>always<br>hundred<br>secret |  
-| bip_39_word_new_br8 | grit<br>silent<br>horse<br>example<br>always<br>hundred<br>secret<br>strong |  
-| bip_39_word_new_br9 | grit<br>silent<br>horse<br>example<br>always<br>hundred<br>secret<br>strong<br>museum |  
-| bip_39_word_new_line1 | grit |  
-| bip_39_word_new_line10 | grit
+| bip_39_word_new_br_1 | grit |  
+| bip_39_word_new_br_10 | grit<br>silent<br>horse<br>example<br>always<br>hundred<br>secret<br>strong<br>museum<br>need |  
+| bip_39_word_new_br_11 | grit<br>silent<br>horse<br>example<br>always<br>hundred<br>secret<br>strong<br>museum<br>need<br>curtain |  
+| bip_39_word_new_br_12 | grit<br>silent<br>horse<br>example<br>always<br>hundred<br>secret<br>strong<br>museum<br>need<br>curtain<br>atom |  
+| bip_39_word_new_br_2 | grit<br>silent |  
+| bip_39_word_new_br_3 | grit<br>silent<br>horse |  
+| bip_39_word_new_br_4 | grit<br>silent<br>horse<br>example |  
+| bip_39_word_new_br_5 | grit<br>silent<br>horse<br>example<br>always |  
+| bip_39_word_new_br_6 | grit<br>silent<br>horse<br>example<br>always<br>hundred |  
+| bip_39_word_new_br_7 | grit<br>silent<br>horse<br>example<br>always<br>hundred<br>secret |  
+| bip_39_word_new_br_8 | grit<br>silent<br>horse<br>example<br>always<br>hundred<br>secret<br>strong |  
+| bip_39_word_new_br_9 | grit<br>silent<br>horse<br>example<br>always<br>hundred<br>secret<br>strong<br>museum |  
+| bip_39_word_new_line_1 | grit |  
+| bip_39_word_new_line_10 | grit
 silent
 horse
 example
@@ -55,7 +55,7 @@ secret
 strong
 museum
 need |  
-| bip_39_word_new_line11 | grit
+| bip_39_word_new_line_11 | grit
 silent
 horse
 example
@@ -66,7 +66,7 @@ strong
 museum
 need
 curtain |  
-| bip_39_word_new_line12 | grit
+| bip_39_word_new_line_12 | grit
 silent
 horse
 example
@@ -78,34 +78,34 @@ museum
 need
 curtain
 atom |  
-| bip_39_word_new_line2 | grit
+| bip_39_word_new_line_2 | grit
 silent |  
-| bip_39_word_new_line3 | grit
+| bip_39_word_new_line_3 | grit
 silent
 horse |  
-| bip_39_word_new_line4 | grit
+| bip_39_word_new_line_4 | grit
 silent
 horse
 example |  
-| bip_39_word_new_line5 | grit
+| bip_39_word_new_line_5 | grit
 silent
 horse
 example
 always |  
-| bip_39_word_new_line6 | grit
+| bip_39_word_new_line_6 | grit
 silent
 horse
 example
 always
 hundred |  
-| bip_39_word_new_line7 | grit
+| bip_39_word_new_line_7 | grit
 silent
 horse
 example
 always
 hundred
 secret |  
-| bip_39_word_new_line8 | grit
+| bip_39_word_new_line_8 | grit
 silent
 horse
 example
@@ -113,7 +113,7 @@ always
 hundred
 secret
 strong |  
-| bip_39_word_new_line9 | grit
+| bip_39_word_new_line_9 | grit
 silent
 horse
 example

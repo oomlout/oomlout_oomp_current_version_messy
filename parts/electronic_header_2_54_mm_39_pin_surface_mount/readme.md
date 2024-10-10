@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | then |  
-| bip_39_word_new_br10 | then<br>mansion<br>hundred<br>medal<br>deposit<br>ball<br>exchange<br>sort<br>educate<br>taxi |  
-| bip_39_word_new_br11 | then<br>mansion<br>hundred<br>medal<br>deposit<br>ball<br>exchange<br>sort<br>educate<br>taxi<br>tuition |  
-| bip_39_word_new_br12 | then<br>mansion<br>hundred<br>medal<br>deposit<br>ball<br>exchange<br>sort<br>educate<br>taxi<br>tuition<br>avocado |  
-| bip_39_word_new_br2 | then<br>mansion |  
-| bip_39_word_new_br3 | then<br>mansion<br>hundred |  
-| bip_39_word_new_br4 | then<br>mansion<br>hundred<br>medal |  
-| bip_39_word_new_br5 | then<br>mansion<br>hundred<br>medal<br>deposit |  
-| bip_39_word_new_br6 | then<br>mansion<br>hundred<br>medal<br>deposit<br>ball |  
-| bip_39_word_new_br7 | then<br>mansion<br>hundred<br>medal<br>deposit<br>ball<br>exchange |  
-| bip_39_word_new_br8 | then<br>mansion<br>hundred<br>medal<br>deposit<br>ball<br>exchange<br>sort |  
-| bip_39_word_new_br9 | then<br>mansion<br>hundred<br>medal<br>deposit<br>ball<br>exchange<br>sort<br>educate |  
-| bip_39_word_new_line1 | then |  
-| bip_39_word_new_line10 | then
+| bip_39_word_new_br_1 | then |  
+| bip_39_word_new_br_10 | then<br>mansion<br>hundred<br>medal<br>deposit<br>ball<br>exchange<br>sort<br>educate<br>taxi |  
+| bip_39_word_new_br_11 | then<br>mansion<br>hundred<br>medal<br>deposit<br>ball<br>exchange<br>sort<br>educate<br>taxi<br>tuition |  
+| bip_39_word_new_br_12 | then<br>mansion<br>hundred<br>medal<br>deposit<br>ball<br>exchange<br>sort<br>educate<br>taxi<br>tuition<br>avocado |  
+| bip_39_word_new_br_2 | then<br>mansion |  
+| bip_39_word_new_br_3 | then<br>mansion<br>hundred |  
+| bip_39_word_new_br_4 | then<br>mansion<br>hundred<br>medal |  
+| bip_39_word_new_br_5 | then<br>mansion<br>hundred<br>medal<br>deposit |  
+| bip_39_word_new_br_6 | then<br>mansion<br>hundred<br>medal<br>deposit<br>ball |  
+| bip_39_word_new_br_7 | then<br>mansion<br>hundred<br>medal<br>deposit<br>ball<br>exchange |  
+| bip_39_word_new_br_8 | then<br>mansion<br>hundred<br>medal<br>deposit<br>ball<br>exchange<br>sort |  
+| bip_39_word_new_br_9 | then<br>mansion<br>hundred<br>medal<br>deposit<br>ball<br>exchange<br>sort<br>educate |  
+| bip_39_word_new_line_1 | then |  
+| bip_39_word_new_line_10 | then
 mansion
 hundred
 medal
@@ -55,7 +55,7 @@ exchange
 sort
 educate
 taxi |  
-| bip_39_word_new_line11 | then
+| bip_39_word_new_line_11 | then
 mansion
 hundred
 medal
@@ -66,7 +66,7 @@ sort
 educate
 taxi
 tuition |  
-| bip_39_word_new_line12 | then
+| bip_39_word_new_line_12 | then
 mansion
 hundred
 medal
@@ -78,34 +78,34 @@ educate
 taxi
 tuition
 avocado |  
-| bip_39_word_new_line2 | then
+| bip_39_word_new_line_2 | then
 mansion |  
-| bip_39_word_new_line3 | then
+| bip_39_word_new_line_3 | then
 mansion
 hundred |  
-| bip_39_word_new_line4 | then
+| bip_39_word_new_line_4 | then
 mansion
 hundred
 medal |  
-| bip_39_word_new_line5 | then
+| bip_39_word_new_line_5 | then
 mansion
 hundred
 medal
 deposit |  
-| bip_39_word_new_line6 | then
+| bip_39_word_new_line_6 | then
 mansion
 hundred
 medal
 deposit
 ball |  
-| bip_39_word_new_line7 | then
+| bip_39_word_new_line_7 | then
 mansion
 hundred
 medal
 deposit
 ball
 exchange |  
-| bip_39_word_new_line8 | then
+| bip_39_word_new_line_8 | then
 mansion
 hundred
 medal
@@ -113,7 +113,7 @@ deposit
 ball
 exchange
 sort |  
-| bip_39_word_new_line9 | then
+| bip_39_word_new_line_9 | then
 mansion
 hundred
 medal

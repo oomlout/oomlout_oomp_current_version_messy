@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fetch |  
-| bip_39_word_new_br10 | fetch<br>entire<br>seek<br>pass<br>labor<br>stone<br>scissors<br>behave<br>price<br>work |  
-| bip_39_word_new_br11 | fetch<br>entire<br>seek<br>pass<br>labor<br>stone<br>scissors<br>behave<br>price<br>work<br>ugly |  
-| bip_39_word_new_br12 | fetch<br>entire<br>seek<br>pass<br>labor<br>stone<br>scissors<br>behave<br>price<br>work<br>ugly<br>alert |  
-| bip_39_word_new_br2 | fetch<br>entire |  
-| bip_39_word_new_br3 | fetch<br>entire<br>seek |  
-| bip_39_word_new_br4 | fetch<br>entire<br>seek<br>pass |  
-| bip_39_word_new_br5 | fetch<br>entire<br>seek<br>pass<br>labor |  
-| bip_39_word_new_br6 | fetch<br>entire<br>seek<br>pass<br>labor<br>stone |  
-| bip_39_word_new_br7 | fetch<br>entire<br>seek<br>pass<br>labor<br>stone<br>scissors |  
-| bip_39_word_new_br8 | fetch<br>entire<br>seek<br>pass<br>labor<br>stone<br>scissors<br>behave |  
-| bip_39_word_new_br9 | fetch<br>entire<br>seek<br>pass<br>labor<br>stone<br>scissors<br>behave<br>price |  
-| bip_39_word_new_line1 | fetch |  
-| bip_39_word_new_line10 | fetch
+| bip_39_word_new_br_1 | fetch |  
+| bip_39_word_new_br_10 | fetch<br>entire<br>seek<br>pass<br>labor<br>stone<br>scissors<br>behave<br>price<br>work |  
+| bip_39_word_new_br_11 | fetch<br>entire<br>seek<br>pass<br>labor<br>stone<br>scissors<br>behave<br>price<br>work<br>ugly |  
+| bip_39_word_new_br_12 | fetch<br>entire<br>seek<br>pass<br>labor<br>stone<br>scissors<br>behave<br>price<br>work<br>ugly<br>alert |  
+| bip_39_word_new_br_2 | fetch<br>entire |  
+| bip_39_word_new_br_3 | fetch<br>entire<br>seek |  
+| bip_39_word_new_br_4 | fetch<br>entire<br>seek<br>pass |  
+| bip_39_word_new_br_5 | fetch<br>entire<br>seek<br>pass<br>labor |  
+| bip_39_word_new_br_6 | fetch<br>entire<br>seek<br>pass<br>labor<br>stone |  
+| bip_39_word_new_br_7 | fetch<br>entire<br>seek<br>pass<br>labor<br>stone<br>scissors |  
+| bip_39_word_new_br_8 | fetch<br>entire<br>seek<br>pass<br>labor<br>stone<br>scissors<br>behave |  
+| bip_39_word_new_br_9 | fetch<br>entire<br>seek<br>pass<br>labor<br>stone<br>scissors<br>behave<br>price |  
+| bip_39_word_new_line_1 | fetch |  
+| bip_39_word_new_line_10 | fetch
 entire
 seek
 pass
@@ -55,7 +55,7 @@ scissors
 behave
 price
 work |  
-| bip_39_word_new_line11 | fetch
+| bip_39_word_new_line_11 | fetch
 entire
 seek
 pass
@@ -66,7 +66,7 @@ behave
 price
 work
 ugly |  
-| bip_39_word_new_line12 | fetch
+| bip_39_word_new_line_12 | fetch
 entire
 seek
 pass
@@ -78,34 +78,34 @@ price
 work
 ugly
 alert |  
-| bip_39_word_new_line2 | fetch
+| bip_39_word_new_line_2 | fetch
 entire |  
-| bip_39_word_new_line3 | fetch
+| bip_39_word_new_line_3 | fetch
 entire
 seek |  
-| bip_39_word_new_line4 | fetch
+| bip_39_word_new_line_4 | fetch
 entire
 seek
 pass |  
-| bip_39_word_new_line5 | fetch
+| bip_39_word_new_line_5 | fetch
 entire
 seek
 pass
 labor |  
-| bip_39_word_new_line6 | fetch
+| bip_39_word_new_line_6 | fetch
 entire
 seek
 pass
 labor
 stone |  
-| bip_39_word_new_line7 | fetch
+| bip_39_word_new_line_7 | fetch
 entire
 seek
 pass
 labor
 stone
 scissors |  
-| bip_39_word_new_line8 | fetch
+| bip_39_word_new_line_8 | fetch
 entire
 seek
 pass
@@ -113,7 +113,7 @@ labor
 stone
 scissors
 behave |  
-| bip_39_word_new_line9 | fetch
+| bip_39_word_new_line_9 | fetch
 entire
 seek
 pass

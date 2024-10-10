@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | buffalo |  
-| bip_39_word_new_br10 | buffalo<br>vacuum<br>leisure<br>sea<br>diesel<br>street<br>truck<br>arrange<br>split<br>top |  
-| bip_39_word_new_br11 | buffalo<br>vacuum<br>leisure<br>sea<br>diesel<br>street<br>truck<br>arrange<br>split<br>top<br>cheap |  
-| bip_39_word_new_br12 | buffalo<br>vacuum<br>leisure<br>sea<br>diesel<br>street<br>truck<br>arrange<br>split<br>top<br>cheap<br>assault |  
-| bip_39_word_new_br2 | buffalo<br>vacuum |  
-| bip_39_word_new_br3 | buffalo<br>vacuum<br>leisure |  
-| bip_39_word_new_br4 | buffalo<br>vacuum<br>leisure<br>sea |  
-| bip_39_word_new_br5 | buffalo<br>vacuum<br>leisure<br>sea<br>diesel |  
-| bip_39_word_new_br6 | buffalo<br>vacuum<br>leisure<br>sea<br>diesel<br>street |  
-| bip_39_word_new_br7 | buffalo<br>vacuum<br>leisure<br>sea<br>diesel<br>street<br>truck |  
-| bip_39_word_new_br8 | buffalo<br>vacuum<br>leisure<br>sea<br>diesel<br>street<br>truck<br>arrange |  
-| bip_39_word_new_br9 | buffalo<br>vacuum<br>leisure<br>sea<br>diesel<br>street<br>truck<br>arrange<br>split |  
-| bip_39_word_new_line1 | buffalo |  
-| bip_39_word_new_line10 | buffalo
+| bip_39_word_new_br_1 | buffalo |  
+| bip_39_word_new_br_10 | buffalo<br>vacuum<br>leisure<br>sea<br>diesel<br>street<br>truck<br>arrange<br>split<br>top |  
+| bip_39_word_new_br_11 | buffalo<br>vacuum<br>leisure<br>sea<br>diesel<br>street<br>truck<br>arrange<br>split<br>top<br>cheap |  
+| bip_39_word_new_br_12 | buffalo<br>vacuum<br>leisure<br>sea<br>diesel<br>street<br>truck<br>arrange<br>split<br>top<br>cheap<br>assault |  
+| bip_39_word_new_br_2 | buffalo<br>vacuum |  
+| bip_39_word_new_br_3 | buffalo<br>vacuum<br>leisure |  
+| bip_39_word_new_br_4 | buffalo<br>vacuum<br>leisure<br>sea |  
+| bip_39_word_new_br_5 | buffalo<br>vacuum<br>leisure<br>sea<br>diesel |  
+| bip_39_word_new_br_6 | buffalo<br>vacuum<br>leisure<br>sea<br>diesel<br>street |  
+| bip_39_word_new_br_7 | buffalo<br>vacuum<br>leisure<br>sea<br>diesel<br>street<br>truck |  
+| bip_39_word_new_br_8 | buffalo<br>vacuum<br>leisure<br>sea<br>diesel<br>street<br>truck<br>arrange |  
+| bip_39_word_new_br_9 | buffalo<br>vacuum<br>leisure<br>sea<br>diesel<br>street<br>truck<br>arrange<br>split |  
+| bip_39_word_new_line_1 | buffalo |  
+| bip_39_word_new_line_10 | buffalo
 vacuum
 leisure
 sea
@@ -55,7 +55,7 @@ truck
 arrange
 split
 top |  
-| bip_39_word_new_line11 | buffalo
+| bip_39_word_new_line_11 | buffalo
 vacuum
 leisure
 sea
@@ -66,7 +66,7 @@ arrange
 split
 top
 cheap |  
-| bip_39_word_new_line12 | buffalo
+| bip_39_word_new_line_12 | buffalo
 vacuum
 leisure
 sea
@@ -78,34 +78,34 @@ split
 top
 cheap
 assault |  
-| bip_39_word_new_line2 | buffalo
+| bip_39_word_new_line_2 | buffalo
 vacuum |  
-| bip_39_word_new_line3 | buffalo
+| bip_39_word_new_line_3 | buffalo
 vacuum
 leisure |  
-| bip_39_word_new_line4 | buffalo
+| bip_39_word_new_line_4 | buffalo
 vacuum
 leisure
 sea |  
-| bip_39_word_new_line5 | buffalo
+| bip_39_word_new_line_5 | buffalo
 vacuum
 leisure
 sea
 diesel |  
-| bip_39_word_new_line6 | buffalo
+| bip_39_word_new_line_6 | buffalo
 vacuum
 leisure
 sea
 diesel
 street |  
-| bip_39_word_new_line7 | buffalo
+| bip_39_word_new_line_7 | buffalo
 vacuum
 leisure
 sea
 diesel
 street
 truck |  
-| bip_39_word_new_line8 | buffalo
+| bip_39_word_new_line_8 | buffalo
 vacuum
 leisure
 sea
@@ -113,7 +113,7 @@ diesel
 street
 truck
 arrange |  
-| bip_39_word_new_line9 | buffalo
+| bip_39_word_new_line_9 | buffalo
 vacuum
 leisure
 sea

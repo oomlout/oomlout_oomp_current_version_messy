@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | source |  
-| bip_39_word_new_br10 | source<br>indoor<br>assault<br>clog<br>exhaust<br>month<br>easy<br>secret<br>police<br>traffic |  
-| bip_39_word_new_br11 | source<br>indoor<br>assault<br>clog<br>exhaust<br>month<br>easy<br>secret<br>police<br>traffic<br>panther |  
-| bip_39_word_new_br12 | source<br>indoor<br>assault<br>clog<br>exhaust<br>month<br>easy<br>secret<br>police<br>traffic<br>panther<br>assist |  
-| bip_39_word_new_br2 | source<br>indoor |  
-| bip_39_word_new_br3 | source<br>indoor<br>assault |  
-| bip_39_word_new_br4 | source<br>indoor<br>assault<br>clog |  
-| bip_39_word_new_br5 | source<br>indoor<br>assault<br>clog<br>exhaust |  
-| bip_39_word_new_br6 | source<br>indoor<br>assault<br>clog<br>exhaust<br>month |  
-| bip_39_word_new_br7 | source<br>indoor<br>assault<br>clog<br>exhaust<br>month<br>easy |  
-| bip_39_word_new_br8 | source<br>indoor<br>assault<br>clog<br>exhaust<br>month<br>easy<br>secret |  
-| bip_39_word_new_br9 | source<br>indoor<br>assault<br>clog<br>exhaust<br>month<br>easy<br>secret<br>police |  
-| bip_39_word_new_line1 | source |  
-| bip_39_word_new_line10 | source
+| bip_39_word_new_br_1 | source |  
+| bip_39_word_new_br_10 | source<br>indoor<br>assault<br>clog<br>exhaust<br>month<br>easy<br>secret<br>police<br>traffic |  
+| bip_39_word_new_br_11 | source<br>indoor<br>assault<br>clog<br>exhaust<br>month<br>easy<br>secret<br>police<br>traffic<br>panther |  
+| bip_39_word_new_br_12 | source<br>indoor<br>assault<br>clog<br>exhaust<br>month<br>easy<br>secret<br>police<br>traffic<br>panther<br>assist |  
+| bip_39_word_new_br_2 | source<br>indoor |  
+| bip_39_word_new_br_3 | source<br>indoor<br>assault |  
+| bip_39_word_new_br_4 | source<br>indoor<br>assault<br>clog |  
+| bip_39_word_new_br_5 | source<br>indoor<br>assault<br>clog<br>exhaust |  
+| bip_39_word_new_br_6 | source<br>indoor<br>assault<br>clog<br>exhaust<br>month |  
+| bip_39_word_new_br_7 | source<br>indoor<br>assault<br>clog<br>exhaust<br>month<br>easy |  
+| bip_39_word_new_br_8 | source<br>indoor<br>assault<br>clog<br>exhaust<br>month<br>easy<br>secret |  
+| bip_39_word_new_br_9 | source<br>indoor<br>assault<br>clog<br>exhaust<br>month<br>easy<br>secret<br>police |  
+| bip_39_word_new_line_1 | source |  
+| bip_39_word_new_line_10 | source
 indoor
 assault
 clog
@@ -55,7 +55,7 @@ easy
 secret
 police
 traffic |  
-| bip_39_word_new_line11 | source
+| bip_39_word_new_line_11 | source
 indoor
 assault
 clog
@@ -66,7 +66,7 @@ secret
 police
 traffic
 panther |  
-| bip_39_word_new_line12 | source
+| bip_39_word_new_line_12 | source
 indoor
 assault
 clog
@@ -78,34 +78,34 @@ police
 traffic
 panther
 assist |  
-| bip_39_word_new_line2 | source
+| bip_39_word_new_line_2 | source
 indoor |  
-| bip_39_word_new_line3 | source
+| bip_39_word_new_line_3 | source
 indoor
 assault |  
-| bip_39_word_new_line4 | source
+| bip_39_word_new_line_4 | source
 indoor
 assault
 clog |  
-| bip_39_word_new_line5 | source
+| bip_39_word_new_line_5 | source
 indoor
 assault
 clog
 exhaust |  
-| bip_39_word_new_line6 | source
+| bip_39_word_new_line_6 | source
 indoor
 assault
 clog
 exhaust
 month |  
-| bip_39_word_new_line7 | source
+| bip_39_word_new_line_7 | source
 indoor
 assault
 clog
 exhaust
 month
 easy |  
-| bip_39_word_new_line8 | source
+| bip_39_word_new_line_8 | source
 indoor
 assault
 clog
@@ -113,7 +113,7 @@ exhaust
 month
 easy
 secret |  
-| bip_39_word_new_line9 | source
+| bip_39_word_new_line_9 | source
 indoor
 assault
 clog

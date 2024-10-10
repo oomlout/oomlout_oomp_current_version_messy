@@ -1,17 +1,17 @@
-bip_39_word_new_br1: carpet
-bip_39_word_new_br10: carpet<br>plate<br>cupboard<br>dismiss<br>make<br>dolphin<br>fan<br>upper<br>trial<br>donate
-bip_39_word_new_br11: carpet<br>plate<br>cupboard<br>dismiss<br>make<br>dolphin<br>fan<br>upper<br>trial<br>donate<br>wife
-bip_39_word_new_br12: carpet<br>plate<br>cupboard<br>dismiss<br>make<br>dolphin<br>fan<br>upper<br>trial<br>donate<br>wife<br>addict
-bip_39_word_new_br2: carpet<br>plate
-bip_39_word_new_br3: carpet<br>plate<br>cupboard
-bip_39_word_new_br4: carpet<br>plate<br>cupboard<br>dismiss
-bip_39_word_new_br5: carpet<br>plate<br>cupboard<br>dismiss<br>make
-bip_39_word_new_br6: carpet<br>plate<br>cupboard<br>dismiss<br>make<br>dolphin
-bip_39_word_new_br7: carpet<br>plate<br>cupboard<br>dismiss<br>make<br>dolphin<br>fan
-bip_39_word_new_br8: carpet<br>plate<br>cupboard<br>dismiss<br>make<br>dolphin<br>fan<br>upper
-bip_39_word_new_br9: carpet<br>plate<br>cupboard<br>dismiss<br>make<br>dolphin<br>fan<br>upper<br>trial
-bip_39_word_new_line1: carpet
-bip_39_word_new_line10: 'carpet
+bip_39_word_new_br_1: carpet
+bip_39_word_new_br_10: carpet<br>plate<br>cupboard<br>dismiss<br>make<br>dolphin<br>fan<br>upper<br>trial<br>donate
+bip_39_word_new_br_11: carpet<br>plate<br>cupboard<br>dismiss<br>make<br>dolphin<br>fan<br>upper<br>trial<br>donate<br>wife
+bip_39_word_new_br_12: carpet<br>plate<br>cupboard<br>dismiss<br>make<br>dolphin<br>fan<br>upper<br>trial<br>donate<br>wife<br>addict
+bip_39_word_new_br_2: carpet<br>plate
+bip_39_word_new_br_3: carpet<br>plate<br>cupboard
+bip_39_word_new_br_4: carpet<br>plate<br>cupboard<br>dismiss
+bip_39_word_new_br_5: carpet<br>plate<br>cupboard<br>dismiss<br>make
+bip_39_word_new_br_6: carpet<br>plate<br>cupboard<br>dismiss<br>make<br>dolphin
+bip_39_word_new_br_7: carpet<br>plate<br>cupboard<br>dismiss<br>make<br>dolphin<br>fan
+bip_39_word_new_br_8: carpet<br>plate<br>cupboard<br>dismiss<br>make<br>dolphin<br>fan<br>upper
+bip_39_word_new_br_9: carpet<br>plate<br>cupboard<br>dismiss<br>make<br>dolphin<br>fan<br>upper<br>trial
+bip_39_word_new_line_1: carpet
+bip_39_word_new_line_10: 'carpet
 
   plate
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'carpet
   trial
 
   donate'
-bip_39_word_new_line11: 'carpet
+bip_39_word_new_line_11: 'carpet
 
   plate
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'carpet
   donate
 
   wife'
-bip_39_word_new_line12: 'carpet
+bip_39_word_new_line_12: 'carpet
 
   plate
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'carpet
   wife
 
   addict'
-bip_39_word_new_line2: 'carpet
+bip_39_word_new_line_2: 'carpet
 
   plate'
-bip_39_word_new_line3: 'carpet
+bip_39_word_new_line_3: 'carpet
 
   plate
 
   cupboard'
-bip_39_word_new_line4: 'carpet
+bip_39_word_new_line_4: 'carpet
 
   plate
 
   cupboard
 
   dismiss'
-bip_39_word_new_line5: 'carpet
+bip_39_word_new_line_5: 'carpet
 
   plate
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'carpet
   dismiss
 
   make'
-bip_39_word_new_line6: 'carpet
+bip_39_word_new_line_6: 'carpet
 
   plate
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'carpet
   make
 
   dolphin'
-bip_39_word_new_line7: 'carpet
+bip_39_word_new_line_7: 'carpet
 
   plate
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'carpet
   dolphin
 
   fan'
-bip_39_word_new_line8: 'carpet
+bip_39_word_new_line_8: 'carpet
 
   plate
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'carpet
   fan
 
   upper'
-bip_39_word_new_line9: 'carpet
+bip_39_word_new_line_9: 'carpet
 
   plate
 

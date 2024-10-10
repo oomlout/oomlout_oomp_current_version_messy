@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | version |  
-| bip_39_word_new_br10 | version<br>unlock<br>early<br>service<br>wheat<br>rice<br>proof<br>humble<br>disease<br>monkey |  
-| bip_39_word_new_br11 | version<br>unlock<br>early<br>service<br>wheat<br>rice<br>proof<br>humble<br>disease<br>monkey<br>cry |  
-| bip_39_word_new_br12 | version<br>unlock<br>early<br>service<br>wheat<br>rice<br>proof<br>humble<br>disease<br>monkey<br>cry<br>attract |  
-| bip_39_word_new_br2 | version<br>unlock |  
-| bip_39_word_new_br3 | version<br>unlock<br>early |  
-| bip_39_word_new_br4 | version<br>unlock<br>early<br>service |  
-| bip_39_word_new_br5 | version<br>unlock<br>early<br>service<br>wheat |  
-| bip_39_word_new_br6 | version<br>unlock<br>early<br>service<br>wheat<br>rice |  
-| bip_39_word_new_br7 | version<br>unlock<br>early<br>service<br>wheat<br>rice<br>proof |  
-| bip_39_word_new_br8 | version<br>unlock<br>early<br>service<br>wheat<br>rice<br>proof<br>humble |  
-| bip_39_word_new_br9 | version<br>unlock<br>early<br>service<br>wheat<br>rice<br>proof<br>humble<br>disease |  
-| bip_39_word_new_line1 | version |  
-| bip_39_word_new_line10 | version
+| bip_39_word_new_br_1 | version |  
+| bip_39_word_new_br_10 | version<br>unlock<br>early<br>service<br>wheat<br>rice<br>proof<br>humble<br>disease<br>monkey |  
+| bip_39_word_new_br_11 | version<br>unlock<br>early<br>service<br>wheat<br>rice<br>proof<br>humble<br>disease<br>monkey<br>cry |  
+| bip_39_word_new_br_12 | version<br>unlock<br>early<br>service<br>wheat<br>rice<br>proof<br>humble<br>disease<br>monkey<br>cry<br>attract |  
+| bip_39_word_new_br_2 | version<br>unlock |  
+| bip_39_word_new_br_3 | version<br>unlock<br>early |  
+| bip_39_word_new_br_4 | version<br>unlock<br>early<br>service |  
+| bip_39_word_new_br_5 | version<br>unlock<br>early<br>service<br>wheat |  
+| bip_39_word_new_br_6 | version<br>unlock<br>early<br>service<br>wheat<br>rice |  
+| bip_39_word_new_br_7 | version<br>unlock<br>early<br>service<br>wheat<br>rice<br>proof |  
+| bip_39_word_new_br_8 | version<br>unlock<br>early<br>service<br>wheat<br>rice<br>proof<br>humble |  
+| bip_39_word_new_br_9 | version<br>unlock<br>early<br>service<br>wheat<br>rice<br>proof<br>humble<br>disease |  
+| bip_39_word_new_line_1 | version |  
+| bip_39_word_new_line_10 | version
 unlock
 early
 service
@@ -55,7 +55,7 @@ proof
 humble
 disease
 monkey |  
-| bip_39_word_new_line11 | version
+| bip_39_word_new_line_11 | version
 unlock
 early
 service
@@ -66,7 +66,7 @@ humble
 disease
 monkey
 cry |  
-| bip_39_word_new_line12 | version
+| bip_39_word_new_line_12 | version
 unlock
 early
 service
@@ -78,34 +78,34 @@ disease
 monkey
 cry
 attract |  
-| bip_39_word_new_line2 | version
+| bip_39_word_new_line_2 | version
 unlock |  
-| bip_39_word_new_line3 | version
+| bip_39_word_new_line_3 | version
 unlock
 early |  
-| bip_39_word_new_line4 | version
+| bip_39_word_new_line_4 | version
 unlock
 early
 service |  
-| bip_39_word_new_line5 | version
+| bip_39_word_new_line_5 | version
 unlock
 early
 service
 wheat |  
-| bip_39_word_new_line6 | version
+| bip_39_word_new_line_6 | version
 unlock
 early
 service
 wheat
 rice |  
-| bip_39_word_new_line7 | version
+| bip_39_word_new_line_7 | version
 unlock
 early
 service
 wheat
 rice
 proof |  
-| bip_39_word_new_line8 | version
+| bip_39_word_new_line_8 | version
 unlock
 early
 service
@@ -113,7 +113,7 @@ wheat
 rice
 proof
 humble |  
-| bip_39_word_new_line9 | version
+| bip_39_word_new_line_9 | version
 unlock
 early
 service

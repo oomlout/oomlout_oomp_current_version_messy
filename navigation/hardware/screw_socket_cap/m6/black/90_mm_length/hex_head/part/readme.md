@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | food |  
-| bip_39_word_new_br10 | food<br>drift<br>liar<br>echo<br>educate<br>alpha<br>text<br>park<br>place<br>beauty |  
-| bip_39_word_new_br11 | food<br>drift<br>liar<br>echo<br>educate<br>alpha<br>text<br>park<br>place<br>beauty<br>muffin |  
-| bip_39_word_new_br12 | food<br>drift<br>liar<br>echo<br>educate<br>alpha<br>text<br>park<br>place<br>beauty<br>muffin<br>access |  
-| bip_39_word_new_br2 | food<br>drift |  
-| bip_39_word_new_br3 | food<br>drift<br>liar |  
-| bip_39_word_new_br4 | food<br>drift<br>liar<br>echo |  
-| bip_39_word_new_br5 | food<br>drift<br>liar<br>echo<br>educate |  
-| bip_39_word_new_br6 | food<br>drift<br>liar<br>echo<br>educate<br>alpha |  
-| bip_39_word_new_br7 | food<br>drift<br>liar<br>echo<br>educate<br>alpha<br>text |  
-| bip_39_word_new_br8 | food<br>drift<br>liar<br>echo<br>educate<br>alpha<br>text<br>park |  
-| bip_39_word_new_br9 | food<br>drift<br>liar<br>echo<br>educate<br>alpha<br>text<br>park<br>place |  
-| bip_39_word_new_line1 | food |  
-| bip_39_word_new_line10 | food
+| bip_39_word_new_br_1 | food |  
+| bip_39_word_new_br_10 | food<br>drift<br>liar<br>echo<br>educate<br>alpha<br>text<br>park<br>place<br>beauty |  
+| bip_39_word_new_br_11 | food<br>drift<br>liar<br>echo<br>educate<br>alpha<br>text<br>park<br>place<br>beauty<br>muffin |  
+| bip_39_word_new_br_12 | food<br>drift<br>liar<br>echo<br>educate<br>alpha<br>text<br>park<br>place<br>beauty<br>muffin<br>access |  
+| bip_39_word_new_br_2 | food<br>drift |  
+| bip_39_word_new_br_3 | food<br>drift<br>liar |  
+| bip_39_word_new_br_4 | food<br>drift<br>liar<br>echo |  
+| bip_39_word_new_br_5 | food<br>drift<br>liar<br>echo<br>educate |  
+| bip_39_word_new_br_6 | food<br>drift<br>liar<br>echo<br>educate<br>alpha |  
+| bip_39_word_new_br_7 | food<br>drift<br>liar<br>echo<br>educate<br>alpha<br>text |  
+| bip_39_word_new_br_8 | food<br>drift<br>liar<br>echo<br>educate<br>alpha<br>text<br>park |  
+| bip_39_word_new_br_9 | food<br>drift<br>liar<br>echo<br>educate<br>alpha<br>text<br>park<br>place |  
+| bip_39_word_new_line_1 | food |  
+| bip_39_word_new_line_10 | food
 drift
 liar
 echo
@@ -55,7 +55,7 @@ text
 park
 place
 beauty |  
-| bip_39_word_new_line11 | food
+| bip_39_word_new_line_11 | food
 drift
 liar
 echo
@@ -66,7 +66,7 @@ park
 place
 beauty
 muffin |  
-| bip_39_word_new_line12 | food
+| bip_39_word_new_line_12 | food
 drift
 liar
 echo
@@ -78,34 +78,34 @@ place
 beauty
 muffin
 access |  
-| bip_39_word_new_line2 | food
+| bip_39_word_new_line_2 | food
 drift |  
-| bip_39_word_new_line3 | food
+| bip_39_word_new_line_3 | food
 drift
 liar |  
-| bip_39_word_new_line4 | food
+| bip_39_word_new_line_4 | food
 drift
 liar
 echo |  
-| bip_39_word_new_line5 | food
+| bip_39_word_new_line_5 | food
 drift
 liar
 echo
 educate |  
-| bip_39_word_new_line6 | food
+| bip_39_word_new_line_6 | food
 drift
 liar
 echo
 educate
 alpha |  
-| bip_39_word_new_line7 | food
+| bip_39_word_new_line_7 | food
 drift
 liar
 echo
 educate
 alpha
 text |  
-| bip_39_word_new_line8 | food
+| bip_39_word_new_line_8 | food
 drift
 liar
 echo
@@ -113,7 +113,7 @@ educate
 alpha
 text
 park |  
-| bip_39_word_new_line9 | food
+| bip_39_word_new_line_9 | food
 drift
 liar
 echo

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ball |  
-| bip_39_word_new_br10 | ball<br>good<br>seat<br>chest<br>ridge<br>crack<br>old<br>squeeze<br>inhale<br>govern |  
-| bip_39_word_new_br11 | ball<br>good<br>seat<br>chest<br>ridge<br>crack<br>old<br>squeeze<br>inhale<br>govern<br>foot |  
-| bip_39_word_new_br12 | ball<br>good<br>seat<br>chest<br>ridge<br>crack<br>old<br>squeeze<br>inhale<br>govern<br>foot<br>attitude |  
-| bip_39_word_new_br2 | ball<br>good |  
-| bip_39_word_new_br3 | ball<br>good<br>seat |  
-| bip_39_word_new_br4 | ball<br>good<br>seat<br>chest |  
-| bip_39_word_new_br5 | ball<br>good<br>seat<br>chest<br>ridge |  
-| bip_39_word_new_br6 | ball<br>good<br>seat<br>chest<br>ridge<br>crack |  
-| bip_39_word_new_br7 | ball<br>good<br>seat<br>chest<br>ridge<br>crack<br>old |  
-| bip_39_word_new_br8 | ball<br>good<br>seat<br>chest<br>ridge<br>crack<br>old<br>squeeze |  
-| bip_39_word_new_br9 | ball<br>good<br>seat<br>chest<br>ridge<br>crack<br>old<br>squeeze<br>inhale |  
-| bip_39_word_new_line1 | ball |  
-| bip_39_word_new_line10 | ball
+| bip_39_word_new_br_1 | ball |  
+| bip_39_word_new_br_10 | ball<br>good<br>seat<br>chest<br>ridge<br>crack<br>old<br>squeeze<br>inhale<br>govern |  
+| bip_39_word_new_br_11 | ball<br>good<br>seat<br>chest<br>ridge<br>crack<br>old<br>squeeze<br>inhale<br>govern<br>foot |  
+| bip_39_word_new_br_12 | ball<br>good<br>seat<br>chest<br>ridge<br>crack<br>old<br>squeeze<br>inhale<br>govern<br>foot<br>attitude |  
+| bip_39_word_new_br_2 | ball<br>good |  
+| bip_39_word_new_br_3 | ball<br>good<br>seat |  
+| bip_39_word_new_br_4 | ball<br>good<br>seat<br>chest |  
+| bip_39_word_new_br_5 | ball<br>good<br>seat<br>chest<br>ridge |  
+| bip_39_word_new_br_6 | ball<br>good<br>seat<br>chest<br>ridge<br>crack |  
+| bip_39_word_new_br_7 | ball<br>good<br>seat<br>chest<br>ridge<br>crack<br>old |  
+| bip_39_word_new_br_8 | ball<br>good<br>seat<br>chest<br>ridge<br>crack<br>old<br>squeeze |  
+| bip_39_word_new_br_9 | ball<br>good<br>seat<br>chest<br>ridge<br>crack<br>old<br>squeeze<br>inhale |  
+| bip_39_word_new_line_1 | ball |  
+| bip_39_word_new_line_10 | ball
 good
 seat
 chest
@@ -55,7 +55,7 @@ old
 squeeze
 inhale
 govern |  
-| bip_39_word_new_line11 | ball
+| bip_39_word_new_line_11 | ball
 good
 seat
 chest
@@ -66,7 +66,7 @@ squeeze
 inhale
 govern
 foot |  
-| bip_39_word_new_line12 | ball
+| bip_39_word_new_line_12 | ball
 good
 seat
 chest
@@ -78,34 +78,34 @@ inhale
 govern
 foot
 attitude |  
-| bip_39_word_new_line2 | ball
+| bip_39_word_new_line_2 | ball
 good |  
-| bip_39_word_new_line3 | ball
+| bip_39_word_new_line_3 | ball
 good
 seat |  
-| bip_39_word_new_line4 | ball
+| bip_39_word_new_line_4 | ball
 good
 seat
 chest |  
-| bip_39_word_new_line5 | ball
+| bip_39_word_new_line_5 | ball
 good
 seat
 chest
 ridge |  
-| bip_39_word_new_line6 | ball
+| bip_39_word_new_line_6 | ball
 good
 seat
 chest
 ridge
 crack |  
-| bip_39_word_new_line7 | ball
+| bip_39_word_new_line_7 | ball
 good
 seat
 chest
 ridge
 crack
 old |  
-| bip_39_word_new_line8 | ball
+| bip_39_word_new_line_8 | ball
 good
 seat
 chest
@@ -113,7 +113,7 @@ ridge
 crack
 old
 squeeze |  
-| bip_39_word_new_line9 | ball
+| bip_39_word_new_line_9 | ball
 good
 seat
 chest

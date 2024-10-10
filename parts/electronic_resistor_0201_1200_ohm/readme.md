@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | long |  
-| bip_39_word_new_br10 | long<br>scissors<br>floor<br>hill<br>later<br>code<br>demise<br>glory<br>rotate<br>base |  
-| bip_39_word_new_br11 | long<br>scissors<br>floor<br>hill<br>later<br>code<br>demise<br>glory<br>rotate<br>base<br>gate |  
-| bip_39_word_new_br12 | long<br>scissors<br>floor<br>hill<br>later<br>code<br>demise<br>glory<br>rotate<br>base<br>gate<br>already |  
-| bip_39_word_new_br2 | long<br>scissors |  
-| bip_39_word_new_br3 | long<br>scissors<br>floor |  
-| bip_39_word_new_br4 | long<br>scissors<br>floor<br>hill |  
-| bip_39_word_new_br5 | long<br>scissors<br>floor<br>hill<br>later |  
-| bip_39_word_new_br6 | long<br>scissors<br>floor<br>hill<br>later<br>code |  
-| bip_39_word_new_br7 | long<br>scissors<br>floor<br>hill<br>later<br>code<br>demise |  
-| bip_39_word_new_br8 | long<br>scissors<br>floor<br>hill<br>later<br>code<br>demise<br>glory |  
-| bip_39_word_new_br9 | long<br>scissors<br>floor<br>hill<br>later<br>code<br>demise<br>glory<br>rotate |  
-| bip_39_word_new_line1 | long |  
-| bip_39_word_new_line10 | long
+| bip_39_word_new_br_1 | long |  
+| bip_39_word_new_br_10 | long<br>scissors<br>floor<br>hill<br>later<br>code<br>demise<br>glory<br>rotate<br>base |  
+| bip_39_word_new_br_11 | long<br>scissors<br>floor<br>hill<br>later<br>code<br>demise<br>glory<br>rotate<br>base<br>gate |  
+| bip_39_word_new_br_12 | long<br>scissors<br>floor<br>hill<br>later<br>code<br>demise<br>glory<br>rotate<br>base<br>gate<br>already |  
+| bip_39_word_new_br_2 | long<br>scissors |  
+| bip_39_word_new_br_3 | long<br>scissors<br>floor |  
+| bip_39_word_new_br_4 | long<br>scissors<br>floor<br>hill |  
+| bip_39_word_new_br_5 | long<br>scissors<br>floor<br>hill<br>later |  
+| bip_39_word_new_br_6 | long<br>scissors<br>floor<br>hill<br>later<br>code |  
+| bip_39_word_new_br_7 | long<br>scissors<br>floor<br>hill<br>later<br>code<br>demise |  
+| bip_39_word_new_br_8 | long<br>scissors<br>floor<br>hill<br>later<br>code<br>demise<br>glory |  
+| bip_39_word_new_br_9 | long<br>scissors<br>floor<br>hill<br>later<br>code<br>demise<br>glory<br>rotate |  
+| bip_39_word_new_line_1 | long |  
+| bip_39_word_new_line_10 | long
 scissors
 floor
 hill
@@ -55,7 +55,7 @@ demise
 glory
 rotate
 base |  
-| bip_39_word_new_line11 | long
+| bip_39_word_new_line_11 | long
 scissors
 floor
 hill
@@ -66,7 +66,7 @@ glory
 rotate
 base
 gate |  
-| bip_39_word_new_line12 | long
+| bip_39_word_new_line_12 | long
 scissors
 floor
 hill
@@ -78,34 +78,34 @@ rotate
 base
 gate
 already |  
-| bip_39_word_new_line2 | long
+| bip_39_word_new_line_2 | long
 scissors |  
-| bip_39_word_new_line3 | long
+| bip_39_word_new_line_3 | long
 scissors
 floor |  
-| bip_39_word_new_line4 | long
+| bip_39_word_new_line_4 | long
 scissors
 floor
 hill |  
-| bip_39_word_new_line5 | long
+| bip_39_word_new_line_5 | long
 scissors
 floor
 hill
 later |  
-| bip_39_word_new_line6 | long
+| bip_39_word_new_line_6 | long
 scissors
 floor
 hill
 later
 code |  
-| bip_39_word_new_line7 | long
+| bip_39_word_new_line_7 | long
 scissors
 floor
 hill
 later
 code
 demise |  
-| bip_39_word_new_line8 | long
+| bip_39_word_new_line_8 | long
 scissors
 floor
 hill
@@ -113,7 +113,7 @@ later
 code
 demise
 glory |  
-| bip_39_word_new_line9 | long
+| bip_39_word_new_line_9 | long
 scissors
 floor
 hill

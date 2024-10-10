@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ripple |  
-| bip_39_word_new_br10 | ripple<br>example<br>exhibit<br>sausage<br>office<br>finish<br>silly<br>joy<br>any<br>like |  
-| bip_39_word_new_br11 | ripple<br>example<br>exhibit<br>sausage<br>office<br>finish<br>silly<br>joy<br>any<br>like<br>moon |  
-| bip_39_word_new_br12 | ripple<br>example<br>exhibit<br>sausage<br>office<br>finish<br>silly<br>joy<br>any<br>like<br>moon<br>autumn |  
-| bip_39_word_new_br2 | ripple<br>example |  
-| bip_39_word_new_br3 | ripple<br>example<br>exhibit |  
-| bip_39_word_new_br4 | ripple<br>example<br>exhibit<br>sausage |  
-| bip_39_word_new_br5 | ripple<br>example<br>exhibit<br>sausage<br>office |  
-| bip_39_word_new_br6 | ripple<br>example<br>exhibit<br>sausage<br>office<br>finish |  
-| bip_39_word_new_br7 | ripple<br>example<br>exhibit<br>sausage<br>office<br>finish<br>silly |  
-| bip_39_word_new_br8 | ripple<br>example<br>exhibit<br>sausage<br>office<br>finish<br>silly<br>joy |  
-| bip_39_word_new_br9 | ripple<br>example<br>exhibit<br>sausage<br>office<br>finish<br>silly<br>joy<br>any |  
-| bip_39_word_new_line1 | ripple |  
-| bip_39_word_new_line10 | ripple
+| bip_39_word_new_br_1 | ripple |  
+| bip_39_word_new_br_10 | ripple<br>example<br>exhibit<br>sausage<br>office<br>finish<br>silly<br>joy<br>any<br>like |  
+| bip_39_word_new_br_11 | ripple<br>example<br>exhibit<br>sausage<br>office<br>finish<br>silly<br>joy<br>any<br>like<br>moon |  
+| bip_39_word_new_br_12 | ripple<br>example<br>exhibit<br>sausage<br>office<br>finish<br>silly<br>joy<br>any<br>like<br>moon<br>autumn |  
+| bip_39_word_new_br_2 | ripple<br>example |  
+| bip_39_word_new_br_3 | ripple<br>example<br>exhibit |  
+| bip_39_word_new_br_4 | ripple<br>example<br>exhibit<br>sausage |  
+| bip_39_word_new_br_5 | ripple<br>example<br>exhibit<br>sausage<br>office |  
+| bip_39_word_new_br_6 | ripple<br>example<br>exhibit<br>sausage<br>office<br>finish |  
+| bip_39_word_new_br_7 | ripple<br>example<br>exhibit<br>sausage<br>office<br>finish<br>silly |  
+| bip_39_word_new_br_8 | ripple<br>example<br>exhibit<br>sausage<br>office<br>finish<br>silly<br>joy |  
+| bip_39_word_new_br_9 | ripple<br>example<br>exhibit<br>sausage<br>office<br>finish<br>silly<br>joy<br>any |  
+| bip_39_word_new_line_1 | ripple |  
+| bip_39_word_new_line_10 | ripple
 example
 exhibit
 sausage
@@ -55,7 +55,7 @@ silly
 joy
 any
 like |  
-| bip_39_word_new_line11 | ripple
+| bip_39_word_new_line_11 | ripple
 example
 exhibit
 sausage
@@ -66,7 +66,7 @@ joy
 any
 like
 moon |  
-| bip_39_word_new_line12 | ripple
+| bip_39_word_new_line_12 | ripple
 example
 exhibit
 sausage
@@ -78,34 +78,34 @@ any
 like
 moon
 autumn |  
-| bip_39_word_new_line2 | ripple
+| bip_39_word_new_line_2 | ripple
 example |  
-| bip_39_word_new_line3 | ripple
+| bip_39_word_new_line_3 | ripple
 example
 exhibit |  
-| bip_39_word_new_line4 | ripple
+| bip_39_word_new_line_4 | ripple
 example
 exhibit
 sausage |  
-| bip_39_word_new_line5 | ripple
+| bip_39_word_new_line_5 | ripple
 example
 exhibit
 sausage
 office |  
-| bip_39_word_new_line6 | ripple
+| bip_39_word_new_line_6 | ripple
 example
 exhibit
 sausage
 office
 finish |  
-| bip_39_word_new_line7 | ripple
+| bip_39_word_new_line_7 | ripple
 example
 exhibit
 sausage
 office
 finish
 silly |  
-| bip_39_word_new_line8 | ripple
+| bip_39_word_new_line_8 | ripple
 example
 exhibit
 sausage
@@ -113,7 +113,7 @@ office
 finish
 silly
 joy |  
-| bip_39_word_new_line9 | ripple
+| bip_39_word_new_line_9 | ripple
 example
 exhibit
 sausage

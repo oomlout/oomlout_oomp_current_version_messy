@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | similar |  
-| bip_39_word_new_br10 | similar<br>spike<br>safe<br>industry<br>approve<br>tuna<br>elder<br>fall<br>truly<br>timber |  
-| bip_39_word_new_br11 | similar<br>spike<br>safe<br>industry<br>approve<br>tuna<br>elder<br>fall<br>truly<br>timber<br>title |  
-| bip_39_word_new_br12 | similar<br>spike<br>safe<br>industry<br>approve<br>tuna<br>elder<br>fall<br>truly<br>timber<br>title<br>antique |  
-| bip_39_word_new_br2 | similar<br>spike |  
-| bip_39_word_new_br3 | similar<br>spike<br>safe |  
-| bip_39_word_new_br4 | similar<br>spike<br>safe<br>industry |  
-| bip_39_word_new_br5 | similar<br>spike<br>safe<br>industry<br>approve |  
-| bip_39_word_new_br6 | similar<br>spike<br>safe<br>industry<br>approve<br>tuna |  
-| bip_39_word_new_br7 | similar<br>spike<br>safe<br>industry<br>approve<br>tuna<br>elder |  
-| bip_39_word_new_br8 | similar<br>spike<br>safe<br>industry<br>approve<br>tuna<br>elder<br>fall |  
-| bip_39_word_new_br9 | similar<br>spike<br>safe<br>industry<br>approve<br>tuna<br>elder<br>fall<br>truly |  
-| bip_39_word_new_line1 | similar |  
-| bip_39_word_new_line10 | similar
+| bip_39_word_new_br_1 | similar |  
+| bip_39_word_new_br_10 | similar<br>spike<br>safe<br>industry<br>approve<br>tuna<br>elder<br>fall<br>truly<br>timber |  
+| bip_39_word_new_br_11 | similar<br>spike<br>safe<br>industry<br>approve<br>tuna<br>elder<br>fall<br>truly<br>timber<br>title |  
+| bip_39_word_new_br_12 | similar<br>spike<br>safe<br>industry<br>approve<br>tuna<br>elder<br>fall<br>truly<br>timber<br>title<br>antique |  
+| bip_39_word_new_br_2 | similar<br>spike |  
+| bip_39_word_new_br_3 | similar<br>spike<br>safe |  
+| bip_39_word_new_br_4 | similar<br>spike<br>safe<br>industry |  
+| bip_39_word_new_br_5 | similar<br>spike<br>safe<br>industry<br>approve |  
+| bip_39_word_new_br_6 | similar<br>spike<br>safe<br>industry<br>approve<br>tuna |  
+| bip_39_word_new_br_7 | similar<br>spike<br>safe<br>industry<br>approve<br>tuna<br>elder |  
+| bip_39_word_new_br_8 | similar<br>spike<br>safe<br>industry<br>approve<br>tuna<br>elder<br>fall |  
+| bip_39_word_new_br_9 | similar<br>spike<br>safe<br>industry<br>approve<br>tuna<br>elder<br>fall<br>truly |  
+| bip_39_word_new_line_1 | similar |  
+| bip_39_word_new_line_10 | similar
 spike
 safe
 industry
@@ -55,7 +55,7 @@ elder
 fall
 truly
 timber |  
-| bip_39_word_new_line11 | similar
+| bip_39_word_new_line_11 | similar
 spike
 safe
 industry
@@ -66,7 +66,7 @@ fall
 truly
 timber
 title |  
-| bip_39_word_new_line12 | similar
+| bip_39_word_new_line_12 | similar
 spike
 safe
 industry
@@ -78,34 +78,34 @@ truly
 timber
 title
 antique |  
-| bip_39_word_new_line2 | similar
+| bip_39_word_new_line_2 | similar
 spike |  
-| bip_39_word_new_line3 | similar
+| bip_39_word_new_line_3 | similar
 spike
 safe |  
-| bip_39_word_new_line4 | similar
+| bip_39_word_new_line_4 | similar
 spike
 safe
 industry |  
-| bip_39_word_new_line5 | similar
+| bip_39_word_new_line_5 | similar
 spike
 safe
 industry
 approve |  
-| bip_39_word_new_line6 | similar
+| bip_39_word_new_line_6 | similar
 spike
 safe
 industry
 approve
 tuna |  
-| bip_39_word_new_line7 | similar
+| bip_39_word_new_line_7 | similar
 spike
 safe
 industry
 approve
 tuna
 elder |  
-| bip_39_word_new_line8 | similar
+| bip_39_word_new_line_8 | similar
 spike
 safe
 industry
@@ -113,7 +113,7 @@ approve
 tuna
 elder
 fall |  
-| bip_39_word_new_line9 | similar
+| bip_39_word_new_line_9 | similar
 spike
 safe
 industry

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cabin |  
-| bip_39_word_new_br10 | cabin<br>raise<br>wood<br>include<br>prepare<br>problem<br>ring<br>champion<br>denial<br>horror |  
-| bip_39_word_new_br11 | cabin<br>raise<br>wood<br>include<br>prepare<br>problem<br>ring<br>champion<br>denial<br>horror<br>myself |  
-| bip_39_word_new_br12 | cabin<br>raise<br>wood<br>include<br>prepare<br>problem<br>ring<br>champion<br>denial<br>horror<br>myself<br>author |  
-| bip_39_word_new_br2 | cabin<br>raise |  
-| bip_39_word_new_br3 | cabin<br>raise<br>wood |  
-| bip_39_word_new_br4 | cabin<br>raise<br>wood<br>include |  
-| bip_39_word_new_br5 | cabin<br>raise<br>wood<br>include<br>prepare |  
-| bip_39_word_new_br6 | cabin<br>raise<br>wood<br>include<br>prepare<br>problem |  
-| bip_39_word_new_br7 | cabin<br>raise<br>wood<br>include<br>prepare<br>problem<br>ring |  
-| bip_39_word_new_br8 | cabin<br>raise<br>wood<br>include<br>prepare<br>problem<br>ring<br>champion |  
-| bip_39_word_new_br9 | cabin<br>raise<br>wood<br>include<br>prepare<br>problem<br>ring<br>champion<br>denial |  
-| bip_39_word_new_line1 | cabin |  
-| bip_39_word_new_line10 | cabin
+| bip_39_word_new_br_1 | cabin |  
+| bip_39_word_new_br_10 | cabin<br>raise<br>wood<br>include<br>prepare<br>problem<br>ring<br>champion<br>denial<br>horror |  
+| bip_39_word_new_br_11 | cabin<br>raise<br>wood<br>include<br>prepare<br>problem<br>ring<br>champion<br>denial<br>horror<br>myself |  
+| bip_39_word_new_br_12 | cabin<br>raise<br>wood<br>include<br>prepare<br>problem<br>ring<br>champion<br>denial<br>horror<br>myself<br>author |  
+| bip_39_word_new_br_2 | cabin<br>raise |  
+| bip_39_word_new_br_3 | cabin<br>raise<br>wood |  
+| bip_39_word_new_br_4 | cabin<br>raise<br>wood<br>include |  
+| bip_39_word_new_br_5 | cabin<br>raise<br>wood<br>include<br>prepare |  
+| bip_39_word_new_br_6 | cabin<br>raise<br>wood<br>include<br>prepare<br>problem |  
+| bip_39_word_new_br_7 | cabin<br>raise<br>wood<br>include<br>prepare<br>problem<br>ring |  
+| bip_39_word_new_br_8 | cabin<br>raise<br>wood<br>include<br>prepare<br>problem<br>ring<br>champion |  
+| bip_39_word_new_br_9 | cabin<br>raise<br>wood<br>include<br>prepare<br>problem<br>ring<br>champion<br>denial |  
+| bip_39_word_new_line_1 | cabin |  
+| bip_39_word_new_line_10 | cabin
 raise
 wood
 include
@@ -55,7 +55,7 @@ ring
 champion
 denial
 horror |  
-| bip_39_word_new_line11 | cabin
+| bip_39_word_new_line_11 | cabin
 raise
 wood
 include
@@ -66,7 +66,7 @@ champion
 denial
 horror
 myself |  
-| bip_39_word_new_line12 | cabin
+| bip_39_word_new_line_12 | cabin
 raise
 wood
 include
@@ -78,34 +78,34 @@ denial
 horror
 myself
 author |  
-| bip_39_word_new_line2 | cabin
+| bip_39_word_new_line_2 | cabin
 raise |  
-| bip_39_word_new_line3 | cabin
+| bip_39_word_new_line_3 | cabin
 raise
 wood |  
-| bip_39_word_new_line4 | cabin
+| bip_39_word_new_line_4 | cabin
 raise
 wood
 include |  
-| bip_39_word_new_line5 | cabin
+| bip_39_word_new_line_5 | cabin
 raise
 wood
 include
 prepare |  
-| bip_39_word_new_line6 | cabin
+| bip_39_word_new_line_6 | cabin
 raise
 wood
 include
 prepare
 problem |  
-| bip_39_word_new_line7 | cabin
+| bip_39_word_new_line_7 | cabin
 raise
 wood
 include
 prepare
 problem
 ring |  
-| bip_39_word_new_line8 | cabin
+| bip_39_word_new_line_8 | cabin
 raise
 wood
 include
@@ -113,7 +113,7 @@ prepare
 problem
 ring
 champion |  
-| bip_39_word_new_line9 | cabin
+| bip_39_word_new_line_9 | cabin
 raise
 wood
 include

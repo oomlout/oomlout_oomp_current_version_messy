@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | collect |  
-| bip_39_word_new_br10 | collect<br>setup<br>cram<br>post<br>drum<br>tragic<br>under<br>happy<br>shuffle<br>siege |  
-| bip_39_word_new_br11 | collect<br>setup<br>cram<br>post<br>drum<br>tragic<br>under<br>happy<br>shuffle<br>siege<br>suggest |  
-| bip_39_word_new_br12 | collect<br>setup<br>cram<br>post<br>drum<br>tragic<br>under<br>happy<br>shuffle<br>siege<br>suggest<br>accident |  
-| bip_39_word_new_br2 | collect<br>setup |  
-| bip_39_word_new_br3 | collect<br>setup<br>cram |  
-| bip_39_word_new_br4 | collect<br>setup<br>cram<br>post |  
-| bip_39_word_new_br5 | collect<br>setup<br>cram<br>post<br>drum |  
-| bip_39_word_new_br6 | collect<br>setup<br>cram<br>post<br>drum<br>tragic |  
-| bip_39_word_new_br7 | collect<br>setup<br>cram<br>post<br>drum<br>tragic<br>under |  
-| bip_39_word_new_br8 | collect<br>setup<br>cram<br>post<br>drum<br>tragic<br>under<br>happy |  
-| bip_39_word_new_br9 | collect<br>setup<br>cram<br>post<br>drum<br>tragic<br>under<br>happy<br>shuffle |  
-| bip_39_word_new_line1 | collect |  
-| bip_39_word_new_line10 | collect
+| bip_39_word_new_br_1 | collect |  
+| bip_39_word_new_br_10 | collect<br>setup<br>cram<br>post<br>drum<br>tragic<br>under<br>happy<br>shuffle<br>siege |  
+| bip_39_word_new_br_11 | collect<br>setup<br>cram<br>post<br>drum<br>tragic<br>under<br>happy<br>shuffle<br>siege<br>suggest |  
+| bip_39_word_new_br_12 | collect<br>setup<br>cram<br>post<br>drum<br>tragic<br>under<br>happy<br>shuffle<br>siege<br>suggest<br>accident |  
+| bip_39_word_new_br_2 | collect<br>setup |  
+| bip_39_word_new_br_3 | collect<br>setup<br>cram |  
+| bip_39_word_new_br_4 | collect<br>setup<br>cram<br>post |  
+| bip_39_word_new_br_5 | collect<br>setup<br>cram<br>post<br>drum |  
+| bip_39_word_new_br_6 | collect<br>setup<br>cram<br>post<br>drum<br>tragic |  
+| bip_39_word_new_br_7 | collect<br>setup<br>cram<br>post<br>drum<br>tragic<br>under |  
+| bip_39_word_new_br_8 | collect<br>setup<br>cram<br>post<br>drum<br>tragic<br>under<br>happy |  
+| bip_39_word_new_br_9 | collect<br>setup<br>cram<br>post<br>drum<br>tragic<br>under<br>happy<br>shuffle |  
+| bip_39_word_new_line_1 | collect |  
+| bip_39_word_new_line_10 | collect
 setup
 cram
 post
@@ -55,7 +55,7 @@ under
 happy
 shuffle
 siege |  
-| bip_39_word_new_line11 | collect
+| bip_39_word_new_line_11 | collect
 setup
 cram
 post
@@ -66,7 +66,7 @@ happy
 shuffle
 siege
 suggest |  
-| bip_39_word_new_line12 | collect
+| bip_39_word_new_line_12 | collect
 setup
 cram
 post
@@ -78,34 +78,34 @@ shuffle
 siege
 suggest
 accident |  
-| bip_39_word_new_line2 | collect
+| bip_39_word_new_line_2 | collect
 setup |  
-| bip_39_word_new_line3 | collect
+| bip_39_word_new_line_3 | collect
 setup
 cram |  
-| bip_39_word_new_line4 | collect
+| bip_39_word_new_line_4 | collect
 setup
 cram
 post |  
-| bip_39_word_new_line5 | collect
+| bip_39_word_new_line_5 | collect
 setup
 cram
 post
 drum |  
-| bip_39_word_new_line6 | collect
+| bip_39_word_new_line_6 | collect
 setup
 cram
 post
 drum
 tragic |  
-| bip_39_word_new_line7 | collect
+| bip_39_word_new_line_7 | collect
 setup
 cram
 post
 drum
 tragic
 under |  
-| bip_39_word_new_line8 | collect
+| bip_39_word_new_line_8 | collect
 setup
 cram
 post
@@ -113,7 +113,7 @@ drum
 tragic
 under
 happy |  
-| bip_39_word_new_line9 | collect
+| bip_39_word_new_line_9 | collect
 setup
 cram
 post

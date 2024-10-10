@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | trophy |  
-| bip_39_word_new_br10 | trophy<br>know<br>guitar<br>angle<br>accident<br>wagon<br>fog<br>heart<br>grab<br>review |  
-| bip_39_word_new_br11 | trophy<br>know<br>guitar<br>angle<br>accident<br>wagon<br>fog<br>heart<br>grab<br>review<br>sample |  
-| bip_39_word_new_br12 | trophy<br>know<br>guitar<br>angle<br>accident<br>wagon<br>fog<br>heart<br>grab<br>review<br>sample<br>add |  
-| bip_39_word_new_br2 | trophy<br>know |  
-| bip_39_word_new_br3 | trophy<br>know<br>guitar |  
-| bip_39_word_new_br4 | trophy<br>know<br>guitar<br>angle |  
-| bip_39_word_new_br5 | trophy<br>know<br>guitar<br>angle<br>accident |  
-| bip_39_word_new_br6 | trophy<br>know<br>guitar<br>angle<br>accident<br>wagon |  
-| bip_39_word_new_br7 | trophy<br>know<br>guitar<br>angle<br>accident<br>wagon<br>fog |  
-| bip_39_word_new_br8 | trophy<br>know<br>guitar<br>angle<br>accident<br>wagon<br>fog<br>heart |  
-| bip_39_word_new_br9 | trophy<br>know<br>guitar<br>angle<br>accident<br>wagon<br>fog<br>heart<br>grab |  
-| bip_39_word_new_line1 | trophy |  
-| bip_39_word_new_line10 | trophy
+| bip_39_word_new_br_1 | trophy |  
+| bip_39_word_new_br_10 | trophy<br>know<br>guitar<br>angle<br>accident<br>wagon<br>fog<br>heart<br>grab<br>review |  
+| bip_39_word_new_br_11 | trophy<br>know<br>guitar<br>angle<br>accident<br>wagon<br>fog<br>heart<br>grab<br>review<br>sample |  
+| bip_39_word_new_br_12 | trophy<br>know<br>guitar<br>angle<br>accident<br>wagon<br>fog<br>heart<br>grab<br>review<br>sample<br>add |  
+| bip_39_word_new_br_2 | trophy<br>know |  
+| bip_39_word_new_br_3 | trophy<br>know<br>guitar |  
+| bip_39_word_new_br_4 | trophy<br>know<br>guitar<br>angle |  
+| bip_39_word_new_br_5 | trophy<br>know<br>guitar<br>angle<br>accident |  
+| bip_39_word_new_br_6 | trophy<br>know<br>guitar<br>angle<br>accident<br>wagon |  
+| bip_39_word_new_br_7 | trophy<br>know<br>guitar<br>angle<br>accident<br>wagon<br>fog |  
+| bip_39_word_new_br_8 | trophy<br>know<br>guitar<br>angle<br>accident<br>wagon<br>fog<br>heart |  
+| bip_39_word_new_br_9 | trophy<br>know<br>guitar<br>angle<br>accident<br>wagon<br>fog<br>heart<br>grab |  
+| bip_39_word_new_line_1 | trophy |  
+| bip_39_word_new_line_10 | trophy
 know
 guitar
 angle
@@ -55,7 +55,7 @@ fog
 heart
 grab
 review |  
-| bip_39_word_new_line11 | trophy
+| bip_39_word_new_line_11 | trophy
 know
 guitar
 angle
@@ -66,7 +66,7 @@ heart
 grab
 review
 sample |  
-| bip_39_word_new_line12 | trophy
+| bip_39_word_new_line_12 | trophy
 know
 guitar
 angle
@@ -78,34 +78,34 @@ grab
 review
 sample
 add |  
-| bip_39_word_new_line2 | trophy
+| bip_39_word_new_line_2 | trophy
 know |  
-| bip_39_word_new_line3 | trophy
+| bip_39_word_new_line_3 | trophy
 know
 guitar |  
-| bip_39_word_new_line4 | trophy
+| bip_39_word_new_line_4 | trophy
 know
 guitar
 angle |  
-| bip_39_word_new_line5 | trophy
+| bip_39_word_new_line_5 | trophy
 know
 guitar
 angle
 accident |  
-| bip_39_word_new_line6 | trophy
+| bip_39_word_new_line_6 | trophy
 know
 guitar
 angle
 accident
 wagon |  
-| bip_39_word_new_line7 | trophy
+| bip_39_word_new_line_7 | trophy
 know
 guitar
 angle
 accident
 wagon
 fog |  
-| bip_39_word_new_line8 | trophy
+| bip_39_word_new_line_8 | trophy
 know
 guitar
 angle
@@ -113,7 +113,7 @@ accident
 wagon
 fog
 heart |  
-| bip_39_word_new_line9 | trophy
+| bip_39_word_new_line_9 | trophy
 know
 guitar
 angle

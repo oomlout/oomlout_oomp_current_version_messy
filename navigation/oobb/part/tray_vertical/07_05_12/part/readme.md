@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gaze |  
-| bip_39_word_new_br10 | gaze<br>spatial<br>toddler<br>tag<br>brass<br>claim<br>shove<br>toast<br>runway<br>trumpet |  
-| bip_39_word_new_br11 | gaze<br>spatial<br>toddler<br>tag<br>brass<br>claim<br>shove<br>toast<br>runway<br>trumpet<br>poem |  
-| bip_39_word_new_br12 | gaze<br>spatial<br>toddler<br>tag<br>brass<br>claim<br>shove<br>toast<br>runway<br>trumpet<br>poem<br>athlete |  
-| bip_39_word_new_br2 | gaze<br>spatial |  
-| bip_39_word_new_br3 | gaze<br>spatial<br>toddler |  
-| bip_39_word_new_br4 | gaze<br>spatial<br>toddler<br>tag |  
-| bip_39_word_new_br5 | gaze<br>spatial<br>toddler<br>tag<br>brass |  
-| bip_39_word_new_br6 | gaze<br>spatial<br>toddler<br>tag<br>brass<br>claim |  
-| bip_39_word_new_br7 | gaze<br>spatial<br>toddler<br>tag<br>brass<br>claim<br>shove |  
-| bip_39_word_new_br8 | gaze<br>spatial<br>toddler<br>tag<br>brass<br>claim<br>shove<br>toast |  
-| bip_39_word_new_br9 | gaze<br>spatial<br>toddler<br>tag<br>brass<br>claim<br>shove<br>toast<br>runway |  
-| bip_39_word_new_line1 | gaze |  
-| bip_39_word_new_line10 | gaze
+| bip_39_word_new_br_1 | gaze |  
+| bip_39_word_new_br_10 | gaze<br>spatial<br>toddler<br>tag<br>brass<br>claim<br>shove<br>toast<br>runway<br>trumpet |  
+| bip_39_word_new_br_11 | gaze<br>spatial<br>toddler<br>tag<br>brass<br>claim<br>shove<br>toast<br>runway<br>trumpet<br>poem |  
+| bip_39_word_new_br_12 | gaze<br>spatial<br>toddler<br>tag<br>brass<br>claim<br>shove<br>toast<br>runway<br>trumpet<br>poem<br>athlete |  
+| bip_39_word_new_br_2 | gaze<br>spatial |  
+| bip_39_word_new_br_3 | gaze<br>spatial<br>toddler |  
+| bip_39_word_new_br_4 | gaze<br>spatial<br>toddler<br>tag |  
+| bip_39_word_new_br_5 | gaze<br>spatial<br>toddler<br>tag<br>brass |  
+| bip_39_word_new_br_6 | gaze<br>spatial<br>toddler<br>tag<br>brass<br>claim |  
+| bip_39_word_new_br_7 | gaze<br>spatial<br>toddler<br>tag<br>brass<br>claim<br>shove |  
+| bip_39_word_new_br_8 | gaze<br>spatial<br>toddler<br>tag<br>brass<br>claim<br>shove<br>toast |  
+| bip_39_word_new_br_9 | gaze<br>spatial<br>toddler<br>tag<br>brass<br>claim<br>shove<br>toast<br>runway |  
+| bip_39_word_new_line_1 | gaze |  
+| bip_39_word_new_line_10 | gaze
 spatial
 toddler
 tag
@@ -55,7 +55,7 @@ shove
 toast
 runway
 trumpet |  
-| bip_39_word_new_line11 | gaze
+| bip_39_word_new_line_11 | gaze
 spatial
 toddler
 tag
@@ -66,7 +66,7 @@ toast
 runway
 trumpet
 poem |  
-| bip_39_word_new_line12 | gaze
+| bip_39_word_new_line_12 | gaze
 spatial
 toddler
 tag
@@ -78,34 +78,34 @@ runway
 trumpet
 poem
 athlete |  
-| bip_39_word_new_line2 | gaze
+| bip_39_word_new_line_2 | gaze
 spatial |  
-| bip_39_word_new_line3 | gaze
+| bip_39_word_new_line_3 | gaze
 spatial
 toddler |  
-| bip_39_word_new_line4 | gaze
+| bip_39_word_new_line_4 | gaze
 spatial
 toddler
 tag |  
-| bip_39_word_new_line5 | gaze
+| bip_39_word_new_line_5 | gaze
 spatial
 toddler
 tag
 brass |  
-| bip_39_word_new_line6 | gaze
+| bip_39_word_new_line_6 | gaze
 spatial
 toddler
 tag
 brass
 claim |  
-| bip_39_word_new_line7 | gaze
+| bip_39_word_new_line_7 | gaze
 spatial
 toddler
 tag
 brass
 claim
 shove |  
-| bip_39_word_new_line8 | gaze
+| bip_39_word_new_line_8 | gaze
 spatial
 toddler
 tag
@@ -113,7 +113,7 @@ brass
 claim
 shove
 toast |  
-| bip_39_word_new_line9 | gaze
+| bip_39_word_new_line_9 | gaze
 spatial
 toddler
 tag

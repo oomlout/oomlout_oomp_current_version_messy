@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | walk |  
-| bip_39_word_new_br10 | walk<br>high<br>crucial<br>apple<br>multiply<br>surge<br>soon<br>length<br>multiply<br>race |  
-| bip_39_word_new_br11 | walk<br>high<br>crucial<br>apple<br>multiply<br>surge<br>soon<br>length<br>multiply<br>race<br>laundry |  
-| bip_39_word_new_br12 | walk<br>high<br>crucial<br>apple<br>multiply<br>surge<br>soon<br>length<br>multiply<br>race<br>laundry<br>apart |  
-| bip_39_word_new_br2 | walk<br>high |  
-| bip_39_word_new_br3 | walk<br>high<br>crucial |  
-| bip_39_word_new_br4 | walk<br>high<br>crucial<br>apple |  
-| bip_39_word_new_br5 | walk<br>high<br>crucial<br>apple<br>multiply |  
-| bip_39_word_new_br6 | walk<br>high<br>crucial<br>apple<br>multiply<br>surge |  
-| bip_39_word_new_br7 | walk<br>high<br>crucial<br>apple<br>multiply<br>surge<br>soon |  
-| bip_39_word_new_br8 | walk<br>high<br>crucial<br>apple<br>multiply<br>surge<br>soon<br>length |  
-| bip_39_word_new_br9 | walk<br>high<br>crucial<br>apple<br>multiply<br>surge<br>soon<br>length<br>multiply |  
-| bip_39_word_new_line1 | walk |  
-| bip_39_word_new_line10 | walk
+| bip_39_word_new_br_1 | walk |  
+| bip_39_word_new_br_10 | walk<br>high<br>crucial<br>apple<br>multiply<br>surge<br>soon<br>length<br>multiply<br>race |  
+| bip_39_word_new_br_11 | walk<br>high<br>crucial<br>apple<br>multiply<br>surge<br>soon<br>length<br>multiply<br>race<br>laundry |  
+| bip_39_word_new_br_12 | walk<br>high<br>crucial<br>apple<br>multiply<br>surge<br>soon<br>length<br>multiply<br>race<br>laundry<br>apart |  
+| bip_39_word_new_br_2 | walk<br>high |  
+| bip_39_word_new_br_3 | walk<br>high<br>crucial |  
+| bip_39_word_new_br_4 | walk<br>high<br>crucial<br>apple |  
+| bip_39_word_new_br_5 | walk<br>high<br>crucial<br>apple<br>multiply |  
+| bip_39_word_new_br_6 | walk<br>high<br>crucial<br>apple<br>multiply<br>surge |  
+| bip_39_word_new_br_7 | walk<br>high<br>crucial<br>apple<br>multiply<br>surge<br>soon |  
+| bip_39_word_new_br_8 | walk<br>high<br>crucial<br>apple<br>multiply<br>surge<br>soon<br>length |  
+| bip_39_word_new_br_9 | walk<br>high<br>crucial<br>apple<br>multiply<br>surge<br>soon<br>length<br>multiply |  
+| bip_39_word_new_line_1 | walk |  
+| bip_39_word_new_line_10 | walk
 high
 crucial
 apple
@@ -55,7 +55,7 @@ soon
 length
 multiply
 race |  
-| bip_39_word_new_line11 | walk
+| bip_39_word_new_line_11 | walk
 high
 crucial
 apple
@@ -66,7 +66,7 @@ length
 multiply
 race
 laundry |  
-| bip_39_word_new_line12 | walk
+| bip_39_word_new_line_12 | walk
 high
 crucial
 apple
@@ -78,34 +78,34 @@ multiply
 race
 laundry
 apart |  
-| bip_39_word_new_line2 | walk
+| bip_39_word_new_line_2 | walk
 high |  
-| bip_39_word_new_line3 | walk
+| bip_39_word_new_line_3 | walk
 high
 crucial |  
-| bip_39_word_new_line4 | walk
+| bip_39_word_new_line_4 | walk
 high
 crucial
 apple |  
-| bip_39_word_new_line5 | walk
+| bip_39_word_new_line_5 | walk
 high
 crucial
 apple
 multiply |  
-| bip_39_word_new_line6 | walk
+| bip_39_word_new_line_6 | walk
 high
 crucial
 apple
 multiply
 surge |  
-| bip_39_word_new_line7 | walk
+| bip_39_word_new_line_7 | walk
 high
 crucial
 apple
 multiply
 surge
 soon |  
-| bip_39_word_new_line8 | walk
+| bip_39_word_new_line_8 | walk
 high
 crucial
 apple
@@ -113,7 +113,7 @@ multiply
 surge
 soon
 length |  
-| bip_39_word_new_line9 | walk
+| bip_39_word_new_line_9 | walk
 high
 crucial
 apple

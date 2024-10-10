@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | patient |  
-| bip_39_word_new_br10 | patient<br>pencil<br>awful<br>rescue<br>this<br>ankle<br>parent<br>neither<br>state<br>embark |  
-| bip_39_word_new_br11 | patient<br>pencil<br>awful<br>rescue<br>this<br>ankle<br>parent<br>neither<br>state<br>embark<br>liquid |  
-| bip_39_word_new_br12 | patient<br>pencil<br>awful<br>rescue<br>this<br>ankle<br>parent<br>neither<br>state<br>embark<br>liquid<br>aisle |  
-| bip_39_word_new_br2 | patient<br>pencil |  
-| bip_39_word_new_br3 | patient<br>pencil<br>awful |  
-| bip_39_word_new_br4 | patient<br>pencil<br>awful<br>rescue |  
-| bip_39_word_new_br5 | patient<br>pencil<br>awful<br>rescue<br>this |  
-| bip_39_word_new_br6 | patient<br>pencil<br>awful<br>rescue<br>this<br>ankle |  
-| bip_39_word_new_br7 | patient<br>pencil<br>awful<br>rescue<br>this<br>ankle<br>parent |  
-| bip_39_word_new_br8 | patient<br>pencil<br>awful<br>rescue<br>this<br>ankle<br>parent<br>neither |  
-| bip_39_word_new_br9 | patient<br>pencil<br>awful<br>rescue<br>this<br>ankle<br>parent<br>neither<br>state |  
-| bip_39_word_new_line1 | patient |  
-| bip_39_word_new_line10 | patient
+| bip_39_word_new_br_1 | patient |  
+| bip_39_word_new_br_10 | patient<br>pencil<br>awful<br>rescue<br>this<br>ankle<br>parent<br>neither<br>state<br>embark |  
+| bip_39_word_new_br_11 | patient<br>pencil<br>awful<br>rescue<br>this<br>ankle<br>parent<br>neither<br>state<br>embark<br>liquid |  
+| bip_39_word_new_br_12 | patient<br>pencil<br>awful<br>rescue<br>this<br>ankle<br>parent<br>neither<br>state<br>embark<br>liquid<br>aisle |  
+| bip_39_word_new_br_2 | patient<br>pencil |  
+| bip_39_word_new_br_3 | patient<br>pencil<br>awful |  
+| bip_39_word_new_br_4 | patient<br>pencil<br>awful<br>rescue |  
+| bip_39_word_new_br_5 | patient<br>pencil<br>awful<br>rescue<br>this |  
+| bip_39_word_new_br_6 | patient<br>pencil<br>awful<br>rescue<br>this<br>ankle |  
+| bip_39_word_new_br_7 | patient<br>pencil<br>awful<br>rescue<br>this<br>ankle<br>parent |  
+| bip_39_word_new_br_8 | patient<br>pencil<br>awful<br>rescue<br>this<br>ankle<br>parent<br>neither |  
+| bip_39_word_new_br_9 | patient<br>pencil<br>awful<br>rescue<br>this<br>ankle<br>parent<br>neither<br>state |  
+| bip_39_word_new_line_1 | patient |  
+| bip_39_word_new_line_10 | patient
 pencil
 awful
 rescue
@@ -55,7 +55,7 @@ parent
 neither
 state
 embark |  
-| bip_39_word_new_line11 | patient
+| bip_39_word_new_line_11 | patient
 pencil
 awful
 rescue
@@ -66,7 +66,7 @@ neither
 state
 embark
 liquid |  
-| bip_39_word_new_line12 | patient
+| bip_39_word_new_line_12 | patient
 pencil
 awful
 rescue
@@ -78,34 +78,34 @@ state
 embark
 liquid
 aisle |  
-| bip_39_word_new_line2 | patient
+| bip_39_word_new_line_2 | patient
 pencil |  
-| bip_39_word_new_line3 | patient
+| bip_39_word_new_line_3 | patient
 pencil
 awful |  
-| bip_39_word_new_line4 | patient
+| bip_39_word_new_line_4 | patient
 pencil
 awful
 rescue |  
-| bip_39_word_new_line5 | patient
+| bip_39_word_new_line_5 | patient
 pencil
 awful
 rescue
 this |  
-| bip_39_word_new_line6 | patient
+| bip_39_word_new_line_6 | patient
 pencil
 awful
 rescue
 this
 ankle |  
-| bip_39_word_new_line7 | patient
+| bip_39_word_new_line_7 | patient
 pencil
 awful
 rescue
 this
 ankle
 parent |  
-| bip_39_word_new_line8 | patient
+| bip_39_word_new_line_8 | patient
 pencil
 awful
 rescue
@@ -113,7 +113,7 @@ this
 ankle
 parent
 neither |  
-| bip_39_word_new_line9 | patient
+| bip_39_word_new_line_9 | patient
 pencil
 awful
 rescue

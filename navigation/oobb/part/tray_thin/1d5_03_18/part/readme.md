@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pig |  
-| bip_39_word_new_br10 | pig<br>stuff<br>boil<br>latin<br>disorder<br>case<br>dad<br>number<br>demise<br>struggle |  
-| bip_39_word_new_br11 | pig<br>stuff<br>boil<br>latin<br>disorder<br>case<br>dad<br>number<br>demise<br>struggle<br>hobby |  
-| bip_39_word_new_br12 | pig<br>stuff<br>boil<br>latin<br>disorder<br>case<br>dad<br>number<br>demise<br>struggle<br>hobby<br>atom |  
-| bip_39_word_new_br2 | pig<br>stuff |  
-| bip_39_word_new_br3 | pig<br>stuff<br>boil |  
-| bip_39_word_new_br4 | pig<br>stuff<br>boil<br>latin |  
-| bip_39_word_new_br5 | pig<br>stuff<br>boil<br>latin<br>disorder |  
-| bip_39_word_new_br6 | pig<br>stuff<br>boil<br>latin<br>disorder<br>case |  
-| bip_39_word_new_br7 | pig<br>stuff<br>boil<br>latin<br>disorder<br>case<br>dad |  
-| bip_39_word_new_br8 | pig<br>stuff<br>boil<br>latin<br>disorder<br>case<br>dad<br>number |  
-| bip_39_word_new_br9 | pig<br>stuff<br>boil<br>latin<br>disorder<br>case<br>dad<br>number<br>demise |  
-| bip_39_word_new_line1 | pig |  
-| bip_39_word_new_line10 | pig
+| bip_39_word_new_br_1 | pig |  
+| bip_39_word_new_br_10 | pig<br>stuff<br>boil<br>latin<br>disorder<br>case<br>dad<br>number<br>demise<br>struggle |  
+| bip_39_word_new_br_11 | pig<br>stuff<br>boil<br>latin<br>disorder<br>case<br>dad<br>number<br>demise<br>struggle<br>hobby |  
+| bip_39_word_new_br_12 | pig<br>stuff<br>boil<br>latin<br>disorder<br>case<br>dad<br>number<br>demise<br>struggle<br>hobby<br>atom |  
+| bip_39_word_new_br_2 | pig<br>stuff |  
+| bip_39_word_new_br_3 | pig<br>stuff<br>boil |  
+| bip_39_word_new_br_4 | pig<br>stuff<br>boil<br>latin |  
+| bip_39_word_new_br_5 | pig<br>stuff<br>boil<br>latin<br>disorder |  
+| bip_39_word_new_br_6 | pig<br>stuff<br>boil<br>latin<br>disorder<br>case |  
+| bip_39_word_new_br_7 | pig<br>stuff<br>boil<br>latin<br>disorder<br>case<br>dad |  
+| bip_39_word_new_br_8 | pig<br>stuff<br>boil<br>latin<br>disorder<br>case<br>dad<br>number |  
+| bip_39_word_new_br_9 | pig<br>stuff<br>boil<br>latin<br>disorder<br>case<br>dad<br>number<br>demise |  
+| bip_39_word_new_line_1 | pig |  
+| bip_39_word_new_line_10 | pig
 stuff
 boil
 latin
@@ -55,7 +55,7 @@ dad
 number
 demise
 struggle |  
-| bip_39_word_new_line11 | pig
+| bip_39_word_new_line_11 | pig
 stuff
 boil
 latin
@@ -66,7 +66,7 @@ number
 demise
 struggle
 hobby |  
-| bip_39_word_new_line12 | pig
+| bip_39_word_new_line_12 | pig
 stuff
 boil
 latin
@@ -78,34 +78,34 @@ demise
 struggle
 hobby
 atom |  
-| bip_39_word_new_line2 | pig
+| bip_39_word_new_line_2 | pig
 stuff |  
-| bip_39_word_new_line3 | pig
+| bip_39_word_new_line_3 | pig
 stuff
 boil |  
-| bip_39_word_new_line4 | pig
+| bip_39_word_new_line_4 | pig
 stuff
 boil
 latin |  
-| bip_39_word_new_line5 | pig
+| bip_39_word_new_line_5 | pig
 stuff
 boil
 latin
 disorder |  
-| bip_39_word_new_line6 | pig
+| bip_39_word_new_line_6 | pig
 stuff
 boil
 latin
 disorder
 case |  
-| bip_39_word_new_line7 | pig
+| bip_39_word_new_line_7 | pig
 stuff
 boil
 latin
 disorder
 case
 dad |  
-| bip_39_word_new_line8 | pig
+| bip_39_word_new_line_8 | pig
 stuff
 boil
 latin
@@ -113,7 +113,7 @@ disorder
 case
 dad
 number |  
-| bip_39_word_new_line9 | pig
+| bip_39_word_new_line_9 | pig
 stuff
 boil
 latin

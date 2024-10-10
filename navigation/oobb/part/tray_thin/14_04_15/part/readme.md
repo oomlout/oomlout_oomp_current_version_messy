@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | involve |  
-| bip_39_word_new_br10 | involve<br>multiply<br>spawn<br>talent<br>suggest<br>outer<br>ostrich<br>review<br>casino<br>good |  
-| bip_39_word_new_br11 | involve<br>multiply<br>spawn<br>talent<br>suggest<br>outer<br>ostrich<br>review<br>casino<br>good<br>cause |  
-| bip_39_word_new_br12 | involve<br>multiply<br>spawn<br>talent<br>suggest<br>outer<br>ostrich<br>review<br>casino<br>good<br>cause<br>also |  
-| bip_39_word_new_br2 | involve<br>multiply |  
-| bip_39_word_new_br3 | involve<br>multiply<br>spawn |  
-| bip_39_word_new_br4 | involve<br>multiply<br>spawn<br>talent |  
-| bip_39_word_new_br5 | involve<br>multiply<br>spawn<br>talent<br>suggest |  
-| bip_39_word_new_br6 | involve<br>multiply<br>spawn<br>talent<br>suggest<br>outer |  
-| bip_39_word_new_br7 | involve<br>multiply<br>spawn<br>talent<br>suggest<br>outer<br>ostrich |  
-| bip_39_word_new_br8 | involve<br>multiply<br>spawn<br>talent<br>suggest<br>outer<br>ostrich<br>review |  
-| bip_39_word_new_br9 | involve<br>multiply<br>spawn<br>talent<br>suggest<br>outer<br>ostrich<br>review<br>casino |  
-| bip_39_word_new_line1 | involve |  
-| bip_39_word_new_line10 | involve
+| bip_39_word_new_br_1 | involve |  
+| bip_39_word_new_br_10 | involve<br>multiply<br>spawn<br>talent<br>suggest<br>outer<br>ostrich<br>review<br>casino<br>good |  
+| bip_39_word_new_br_11 | involve<br>multiply<br>spawn<br>talent<br>suggest<br>outer<br>ostrich<br>review<br>casino<br>good<br>cause |  
+| bip_39_word_new_br_12 | involve<br>multiply<br>spawn<br>talent<br>suggest<br>outer<br>ostrich<br>review<br>casino<br>good<br>cause<br>also |  
+| bip_39_word_new_br_2 | involve<br>multiply |  
+| bip_39_word_new_br_3 | involve<br>multiply<br>spawn |  
+| bip_39_word_new_br_4 | involve<br>multiply<br>spawn<br>talent |  
+| bip_39_word_new_br_5 | involve<br>multiply<br>spawn<br>talent<br>suggest |  
+| bip_39_word_new_br_6 | involve<br>multiply<br>spawn<br>talent<br>suggest<br>outer |  
+| bip_39_word_new_br_7 | involve<br>multiply<br>spawn<br>talent<br>suggest<br>outer<br>ostrich |  
+| bip_39_word_new_br_8 | involve<br>multiply<br>spawn<br>talent<br>suggest<br>outer<br>ostrich<br>review |  
+| bip_39_word_new_br_9 | involve<br>multiply<br>spawn<br>talent<br>suggest<br>outer<br>ostrich<br>review<br>casino |  
+| bip_39_word_new_line_1 | involve |  
+| bip_39_word_new_line_10 | involve
 multiply
 spawn
 talent
@@ -55,7 +55,7 @@ ostrich
 review
 casino
 good |  
-| bip_39_word_new_line11 | involve
+| bip_39_word_new_line_11 | involve
 multiply
 spawn
 talent
@@ -66,7 +66,7 @@ review
 casino
 good
 cause |  
-| bip_39_word_new_line12 | involve
+| bip_39_word_new_line_12 | involve
 multiply
 spawn
 talent
@@ -78,34 +78,34 @@ casino
 good
 cause
 also |  
-| bip_39_word_new_line2 | involve
+| bip_39_word_new_line_2 | involve
 multiply |  
-| bip_39_word_new_line3 | involve
+| bip_39_word_new_line_3 | involve
 multiply
 spawn |  
-| bip_39_word_new_line4 | involve
+| bip_39_word_new_line_4 | involve
 multiply
 spawn
 talent |  
-| bip_39_word_new_line5 | involve
+| bip_39_word_new_line_5 | involve
 multiply
 spawn
 talent
 suggest |  
-| bip_39_word_new_line6 | involve
+| bip_39_word_new_line_6 | involve
 multiply
 spawn
 talent
 suggest
 outer |  
-| bip_39_word_new_line7 | involve
+| bip_39_word_new_line_7 | involve
 multiply
 spawn
 talent
 suggest
 outer
 ostrich |  
-| bip_39_word_new_line8 | involve
+| bip_39_word_new_line_8 | involve
 multiply
 spawn
 talent
@@ -113,7 +113,7 @@ suggest
 outer
 ostrich
 review |  
-| bip_39_word_new_line9 | involve
+| bip_39_word_new_line_9 | involve
 multiply
 spawn
 talent

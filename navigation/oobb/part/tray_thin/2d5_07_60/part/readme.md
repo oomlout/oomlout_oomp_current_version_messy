@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | light |  
-| bip_39_word_new_br10 | light<br>price<br>magic<br>lunar<br>mask<br>absorb<br>device<br>island<br>dance<br>priority |  
-| bip_39_word_new_br11 | light<br>price<br>magic<br>lunar<br>mask<br>absorb<br>device<br>island<br>dance<br>priority<br>jump |  
-| bip_39_word_new_br12 | light<br>price<br>magic<br>lunar<br>mask<br>absorb<br>device<br>island<br>dance<br>priority<br>jump<br>acoustic |  
-| bip_39_word_new_br2 | light<br>price |  
-| bip_39_word_new_br3 | light<br>price<br>magic |  
-| bip_39_word_new_br4 | light<br>price<br>magic<br>lunar |  
-| bip_39_word_new_br5 | light<br>price<br>magic<br>lunar<br>mask |  
-| bip_39_word_new_br6 | light<br>price<br>magic<br>lunar<br>mask<br>absorb |  
-| bip_39_word_new_br7 | light<br>price<br>magic<br>lunar<br>mask<br>absorb<br>device |  
-| bip_39_word_new_br8 | light<br>price<br>magic<br>lunar<br>mask<br>absorb<br>device<br>island |  
-| bip_39_word_new_br9 | light<br>price<br>magic<br>lunar<br>mask<br>absorb<br>device<br>island<br>dance |  
-| bip_39_word_new_line1 | light |  
-| bip_39_word_new_line10 | light
+| bip_39_word_new_br_1 | light |  
+| bip_39_word_new_br_10 | light<br>price<br>magic<br>lunar<br>mask<br>absorb<br>device<br>island<br>dance<br>priority |  
+| bip_39_word_new_br_11 | light<br>price<br>magic<br>lunar<br>mask<br>absorb<br>device<br>island<br>dance<br>priority<br>jump |  
+| bip_39_word_new_br_12 | light<br>price<br>magic<br>lunar<br>mask<br>absorb<br>device<br>island<br>dance<br>priority<br>jump<br>acoustic |  
+| bip_39_word_new_br_2 | light<br>price |  
+| bip_39_word_new_br_3 | light<br>price<br>magic |  
+| bip_39_word_new_br_4 | light<br>price<br>magic<br>lunar |  
+| bip_39_word_new_br_5 | light<br>price<br>magic<br>lunar<br>mask |  
+| bip_39_word_new_br_6 | light<br>price<br>magic<br>lunar<br>mask<br>absorb |  
+| bip_39_word_new_br_7 | light<br>price<br>magic<br>lunar<br>mask<br>absorb<br>device |  
+| bip_39_word_new_br_8 | light<br>price<br>magic<br>lunar<br>mask<br>absorb<br>device<br>island |  
+| bip_39_word_new_br_9 | light<br>price<br>magic<br>lunar<br>mask<br>absorb<br>device<br>island<br>dance |  
+| bip_39_word_new_line_1 | light |  
+| bip_39_word_new_line_10 | light
 price
 magic
 lunar
@@ -55,7 +55,7 @@ device
 island
 dance
 priority |  
-| bip_39_word_new_line11 | light
+| bip_39_word_new_line_11 | light
 price
 magic
 lunar
@@ -66,7 +66,7 @@ island
 dance
 priority
 jump |  
-| bip_39_word_new_line12 | light
+| bip_39_word_new_line_12 | light
 price
 magic
 lunar
@@ -78,34 +78,34 @@ dance
 priority
 jump
 acoustic |  
-| bip_39_word_new_line2 | light
+| bip_39_word_new_line_2 | light
 price |  
-| bip_39_word_new_line3 | light
+| bip_39_word_new_line_3 | light
 price
 magic |  
-| bip_39_word_new_line4 | light
+| bip_39_word_new_line_4 | light
 price
 magic
 lunar |  
-| bip_39_word_new_line5 | light
+| bip_39_word_new_line_5 | light
 price
 magic
 lunar
 mask |  
-| bip_39_word_new_line6 | light
+| bip_39_word_new_line_6 | light
 price
 magic
 lunar
 mask
 absorb |  
-| bip_39_word_new_line7 | light
+| bip_39_word_new_line_7 | light
 price
 magic
 lunar
 mask
 absorb
 device |  
-| bip_39_word_new_line8 | light
+| bip_39_word_new_line_8 | light
 price
 magic
 lunar
@@ -113,7 +113,7 @@ mask
 absorb
 device
 island |  
-| bip_39_word_new_line9 | light
+| bip_39_word_new_line_9 | light
 price
 magic
 lunar

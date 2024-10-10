@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | until |  
-| bip_39_word_new_br10 | until<br>uniform<br>master<br>clog<br>uphold<br>dinosaur<br>swift<br>play<br>favorite<br>case |  
-| bip_39_word_new_br11 | until<br>uniform<br>master<br>clog<br>uphold<br>dinosaur<br>swift<br>play<br>favorite<br>case<br>rent |  
-| bip_39_word_new_br12 | until<br>uniform<br>master<br>clog<br>uphold<br>dinosaur<br>swift<br>play<br>favorite<br>case<br>rent<br>among |  
-| bip_39_word_new_br2 | until<br>uniform |  
-| bip_39_word_new_br3 | until<br>uniform<br>master |  
-| bip_39_word_new_br4 | until<br>uniform<br>master<br>clog |  
-| bip_39_word_new_br5 | until<br>uniform<br>master<br>clog<br>uphold |  
-| bip_39_word_new_br6 | until<br>uniform<br>master<br>clog<br>uphold<br>dinosaur |  
-| bip_39_word_new_br7 | until<br>uniform<br>master<br>clog<br>uphold<br>dinosaur<br>swift |  
-| bip_39_word_new_br8 | until<br>uniform<br>master<br>clog<br>uphold<br>dinosaur<br>swift<br>play |  
-| bip_39_word_new_br9 | until<br>uniform<br>master<br>clog<br>uphold<br>dinosaur<br>swift<br>play<br>favorite |  
-| bip_39_word_new_line1 | until |  
-| bip_39_word_new_line10 | until
+| bip_39_word_new_br_1 | until |  
+| bip_39_word_new_br_10 | until<br>uniform<br>master<br>clog<br>uphold<br>dinosaur<br>swift<br>play<br>favorite<br>case |  
+| bip_39_word_new_br_11 | until<br>uniform<br>master<br>clog<br>uphold<br>dinosaur<br>swift<br>play<br>favorite<br>case<br>rent |  
+| bip_39_word_new_br_12 | until<br>uniform<br>master<br>clog<br>uphold<br>dinosaur<br>swift<br>play<br>favorite<br>case<br>rent<br>among |  
+| bip_39_word_new_br_2 | until<br>uniform |  
+| bip_39_word_new_br_3 | until<br>uniform<br>master |  
+| bip_39_word_new_br_4 | until<br>uniform<br>master<br>clog |  
+| bip_39_word_new_br_5 | until<br>uniform<br>master<br>clog<br>uphold |  
+| bip_39_word_new_br_6 | until<br>uniform<br>master<br>clog<br>uphold<br>dinosaur |  
+| bip_39_word_new_br_7 | until<br>uniform<br>master<br>clog<br>uphold<br>dinosaur<br>swift |  
+| bip_39_word_new_br_8 | until<br>uniform<br>master<br>clog<br>uphold<br>dinosaur<br>swift<br>play |  
+| bip_39_word_new_br_9 | until<br>uniform<br>master<br>clog<br>uphold<br>dinosaur<br>swift<br>play<br>favorite |  
+| bip_39_word_new_line_1 | until |  
+| bip_39_word_new_line_10 | until
 uniform
 master
 clog
@@ -55,7 +55,7 @@ swift
 play
 favorite
 case |  
-| bip_39_word_new_line11 | until
+| bip_39_word_new_line_11 | until
 uniform
 master
 clog
@@ -66,7 +66,7 @@ play
 favorite
 case
 rent |  
-| bip_39_word_new_line12 | until
+| bip_39_word_new_line_12 | until
 uniform
 master
 clog
@@ -78,34 +78,34 @@ favorite
 case
 rent
 among |  
-| bip_39_word_new_line2 | until
+| bip_39_word_new_line_2 | until
 uniform |  
-| bip_39_word_new_line3 | until
+| bip_39_word_new_line_3 | until
 uniform
 master |  
-| bip_39_word_new_line4 | until
+| bip_39_word_new_line_4 | until
 uniform
 master
 clog |  
-| bip_39_word_new_line5 | until
+| bip_39_word_new_line_5 | until
 uniform
 master
 clog
 uphold |  
-| bip_39_word_new_line6 | until
+| bip_39_word_new_line_6 | until
 uniform
 master
 clog
 uphold
 dinosaur |  
-| bip_39_word_new_line7 | until
+| bip_39_word_new_line_7 | until
 uniform
 master
 clog
 uphold
 dinosaur
 swift |  
-| bip_39_word_new_line8 | until
+| bip_39_word_new_line_8 | until
 uniform
 master
 clog
@@ -113,7 +113,7 @@ uphold
 dinosaur
 swift
 play |  
-| bip_39_word_new_line9 | until
+| bip_39_word_new_line_9 | until
 uniform
 master
 clog

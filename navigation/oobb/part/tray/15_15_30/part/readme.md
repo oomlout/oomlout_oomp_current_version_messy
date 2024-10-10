@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | put |  
-| bip_39_word_new_br10 | put<br>twist<br>frown<br>unique<br>erase<br>alarm<br>bless<br>sort<br>canoe<br>chunk |  
-| bip_39_word_new_br11 | put<br>twist<br>frown<br>unique<br>erase<br>alarm<br>bless<br>sort<br>canoe<br>chunk<br>volcano |  
-| bip_39_word_new_br12 | put<br>twist<br>frown<br>unique<br>erase<br>alarm<br>bless<br>sort<br>canoe<br>chunk<br>volcano<br>analyst |  
-| bip_39_word_new_br2 | put<br>twist |  
-| bip_39_word_new_br3 | put<br>twist<br>frown |  
-| bip_39_word_new_br4 | put<br>twist<br>frown<br>unique |  
-| bip_39_word_new_br5 | put<br>twist<br>frown<br>unique<br>erase |  
-| bip_39_word_new_br6 | put<br>twist<br>frown<br>unique<br>erase<br>alarm |  
-| bip_39_word_new_br7 | put<br>twist<br>frown<br>unique<br>erase<br>alarm<br>bless |  
-| bip_39_word_new_br8 | put<br>twist<br>frown<br>unique<br>erase<br>alarm<br>bless<br>sort |  
-| bip_39_word_new_br9 | put<br>twist<br>frown<br>unique<br>erase<br>alarm<br>bless<br>sort<br>canoe |  
-| bip_39_word_new_line1 | put |  
-| bip_39_word_new_line10 | put
+| bip_39_word_new_br_1 | put |  
+| bip_39_word_new_br_10 | put<br>twist<br>frown<br>unique<br>erase<br>alarm<br>bless<br>sort<br>canoe<br>chunk |  
+| bip_39_word_new_br_11 | put<br>twist<br>frown<br>unique<br>erase<br>alarm<br>bless<br>sort<br>canoe<br>chunk<br>volcano |  
+| bip_39_word_new_br_12 | put<br>twist<br>frown<br>unique<br>erase<br>alarm<br>bless<br>sort<br>canoe<br>chunk<br>volcano<br>analyst |  
+| bip_39_word_new_br_2 | put<br>twist |  
+| bip_39_word_new_br_3 | put<br>twist<br>frown |  
+| bip_39_word_new_br_4 | put<br>twist<br>frown<br>unique |  
+| bip_39_word_new_br_5 | put<br>twist<br>frown<br>unique<br>erase |  
+| bip_39_word_new_br_6 | put<br>twist<br>frown<br>unique<br>erase<br>alarm |  
+| bip_39_word_new_br_7 | put<br>twist<br>frown<br>unique<br>erase<br>alarm<br>bless |  
+| bip_39_word_new_br_8 | put<br>twist<br>frown<br>unique<br>erase<br>alarm<br>bless<br>sort |  
+| bip_39_word_new_br_9 | put<br>twist<br>frown<br>unique<br>erase<br>alarm<br>bless<br>sort<br>canoe |  
+| bip_39_word_new_line_1 | put |  
+| bip_39_word_new_line_10 | put
 twist
 frown
 unique
@@ -55,7 +55,7 @@ bless
 sort
 canoe
 chunk |  
-| bip_39_word_new_line11 | put
+| bip_39_word_new_line_11 | put
 twist
 frown
 unique
@@ -66,7 +66,7 @@ sort
 canoe
 chunk
 volcano |  
-| bip_39_word_new_line12 | put
+| bip_39_word_new_line_12 | put
 twist
 frown
 unique
@@ -78,34 +78,34 @@ canoe
 chunk
 volcano
 analyst |  
-| bip_39_word_new_line2 | put
+| bip_39_word_new_line_2 | put
 twist |  
-| bip_39_word_new_line3 | put
+| bip_39_word_new_line_3 | put
 twist
 frown |  
-| bip_39_word_new_line4 | put
+| bip_39_word_new_line_4 | put
 twist
 frown
 unique |  
-| bip_39_word_new_line5 | put
+| bip_39_word_new_line_5 | put
 twist
 frown
 unique
 erase |  
-| bip_39_word_new_line6 | put
+| bip_39_word_new_line_6 | put
 twist
 frown
 unique
 erase
 alarm |  
-| bip_39_word_new_line7 | put
+| bip_39_word_new_line_7 | put
 twist
 frown
 unique
 erase
 alarm
 bless |  
-| bip_39_word_new_line8 | put
+| bip_39_word_new_line_8 | put
 twist
 frown
 unique
@@ -113,7 +113,7 @@ erase
 alarm
 bless
 sort |  
-| bip_39_word_new_line9 | put
+| bip_39_word_new_line_9 | put
 twist
 frown
 unique

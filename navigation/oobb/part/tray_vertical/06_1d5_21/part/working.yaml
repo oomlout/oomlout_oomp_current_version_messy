@@ -1,17 +1,17 @@
-bip_39_word_new_br1: drastic
-bip_39_word_new_br10: drastic<br>position<br>pause<br>armed<br>fall<br>tongue<br>ignore<br>knee<br>advance<br>want
-bip_39_word_new_br11: drastic<br>position<br>pause<br>armed<br>fall<br>tongue<br>ignore<br>knee<br>advance<br>want<br>eight
-bip_39_word_new_br12: drastic<br>position<br>pause<br>armed<br>fall<br>tongue<br>ignore<br>knee<br>advance<br>want<br>eight<br>assist
-bip_39_word_new_br2: drastic<br>position
-bip_39_word_new_br3: drastic<br>position<br>pause
-bip_39_word_new_br4: drastic<br>position<br>pause<br>armed
-bip_39_word_new_br5: drastic<br>position<br>pause<br>armed<br>fall
-bip_39_word_new_br6: drastic<br>position<br>pause<br>armed<br>fall<br>tongue
-bip_39_word_new_br7: drastic<br>position<br>pause<br>armed<br>fall<br>tongue<br>ignore
-bip_39_word_new_br8: drastic<br>position<br>pause<br>armed<br>fall<br>tongue<br>ignore<br>knee
-bip_39_word_new_br9: drastic<br>position<br>pause<br>armed<br>fall<br>tongue<br>ignore<br>knee<br>advance
-bip_39_word_new_line1: drastic
-bip_39_word_new_line10: 'drastic
+bip_39_word_new_br_1: drastic
+bip_39_word_new_br_10: drastic<br>position<br>pause<br>armed<br>fall<br>tongue<br>ignore<br>knee<br>advance<br>want
+bip_39_word_new_br_11: drastic<br>position<br>pause<br>armed<br>fall<br>tongue<br>ignore<br>knee<br>advance<br>want<br>eight
+bip_39_word_new_br_12: drastic<br>position<br>pause<br>armed<br>fall<br>tongue<br>ignore<br>knee<br>advance<br>want<br>eight<br>assist
+bip_39_word_new_br_2: drastic<br>position
+bip_39_word_new_br_3: drastic<br>position<br>pause
+bip_39_word_new_br_4: drastic<br>position<br>pause<br>armed
+bip_39_word_new_br_5: drastic<br>position<br>pause<br>armed<br>fall
+bip_39_word_new_br_6: drastic<br>position<br>pause<br>armed<br>fall<br>tongue
+bip_39_word_new_br_7: drastic<br>position<br>pause<br>armed<br>fall<br>tongue<br>ignore
+bip_39_word_new_br_8: drastic<br>position<br>pause<br>armed<br>fall<br>tongue<br>ignore<br>knee
+bip_39_word_new_br_9: drastic<br>position<br>pause<br>armed<br>fall<br>tongue<br>ignore<br>knee<br>advance
+bip_39_word_new_line_1: drastic
+bip_39_word_new_line_10: 'drastic
 
   position
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'drastic
   advance
 
   want'
-bip_39_word_new_line11: 'drastic
+bip_39_word_new_line_11: 'drastic
 
   position
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'drastic
   want
 
   eight'
-bip_39_word_new_line12: 'drastic
+bip_39_word_new_line_12: 'drastic
 
   position
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'drastic
   eight
 
   assist'
-bip_39_word_new_line2: 'drastic
+bip_39_word_new_line_2: 'drastic
 
   position'
-bip_39_word_new_line3: 'drastic
+bip_39_word_new_line_3: 'drastic
 
   position
 
   pause'
-bip_39_word_new_line4: 'drastic
+bip_39_word_new_line_4: 'drastic
 
   position
 
   pause
 
   armed'
-bip_39_word_new_line5: 'drastic
+bip_39_word_new_line_5: 'drastic
 
   position
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'drastic
   armed
 
   fall'
-bip_39_word_new_line6: 'drastic
+bip_39_word_new_line_6: 'drastic
 
   position
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'drastic
   fall
 
   tongue'
-bip_39_word_new_line7: 'drastic
+bip_39_word_new_line_7: 'drastic
 
   position
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'drastic
   tongue
 
   ignore'
-bip_39_word_new_line8: 'drastic
+bip_39_word_new_line_8: 'drastic
 
   position
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'drastic
   ignore
 
   knee'
-bip_39_word_new_line9: 'drastic
+bip_39_word_new_line_9: 'drastic
 
   position
 

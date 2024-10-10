@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | age |  
-| bip_39_word_new_br10 | age<br>sheriff<br>mass<br>voyage<br>six<br>oval<br>flock<br>picture<br>flee<br>deny |  
-| bip_39_word_new_br11 | age<br>sheriff<br>mass<br>voyage<br>six<br>oval<br>flock<br>picture<br>flee<br>deny<br>twin |  
-| bip_39_word_new_br12 | age<br>sheriff<br>mass<br>voyage<br>six<br>oval<br>flock<br>picture<br>flee<br>deny<br>twin<br>absent |  
-| bip_39_word_new_br2 | age<br>sheriff |  
-| bip_39_word_new_br3 | age<br>sheriff<br>mass |  
-| bip_39_word_new_br4 | age<br>sheriff<br>mass<br>voyage |  
-| bip_39_word_new_br5 | age<br>sheriff<br>mass<br>voyage<br>six |  
-| bip_39_word_new_br6 | age<br>sheriff<br>mass<br>voyage<br>six<br>oval |  
-| bip_39_word_new_br7 | age<br>sheriff<br>mass<br>voyage<br>six<br>oval<br>flock |  
-| bip_39_word_new_br8 | age<br>sheriff<br>mass<br>voyage<br>six<br>oval<br>flock<br>picture |  
-| bip_39_word_new_br9 | age<br>sheriff<br>mass<br>voyage<br>six<br>oval<br>flock<br>picture<br>flee |  
-| bip_39_word_new_line1 | age |  
-| bip_39_word_new_line10 | age
+| bip_39_word_new_br_1 | age |  
+| bip_39_word_new_br_10 | age<br>sheriff<br>mass<br>voyage<br>six<br>oval<br>flock<br>picture<br>flee<br>deny |  
+| bip_39_word_new_br_11 | age<br>sheriff<br>mass<br>voyage<br>six<br>oval<br>flock<br>picture<br>flee<br>deny<br>twin |  
+| bip_39_word_new_br_12 | age<br>sheriff<br>mass<br>voyage<br>six<br>oval<br>flock<br>picture<br>flee<br>deny<br>twin<br>absent |  
+| bip_39_word_new_br_2 | age<br>sheriff |  
+| bip_39_word_new_br_3 | age<br>sheriff<br>mass |  
+| bip_39_word_new_br_4 | age<br>sheriff<br>mass<br>voyage |  
+| bip_39_word_new_br_5 | age<br>sheriff<br>mass<br>voyage<br>six |  
+| bip_39_word_new_br_6 | age<br>sheriff<br>mass<br>voyage<br>six<br>oval |  
+| bip_39_word_new_br_7 | age<br>sheriff<br>mass<br>voyage<br>six<br>oval<br>flock |  
+| bip_39_word_new_br_8 | age<br>sheriff<br>mass<br>voyage<br>six<br>oval<br>flock<br>picture |  
+| bip_39_word_new_br_9 | age<br>sheriff<br>mass<br>voyage<br>six<br>oval<br>flock<br>picture<br>flee |  
+| bip_39_word_new_line_1 | age |  
+| bip_39_word_new_line_10 | age
 sheriff
 mass
 voyage
@@ -55,7 +55,7 @@ flock
 picture
 flee
 deny |  
-| bip_39_word_new_line11 | age
+| bip_39_word_new_line_11 | age
 sheriff
 mass
 voyage
@@ -66,7 +66,7 @@ picture
 flee
 deny
 twin |  
-| bip_39_word_new_line12 | age
+| bip_39_word_new_line_12 | age
 sheriff
 mass
 voyage
@@ -78,34 +78,34 @@ flee
 deny
 twin
 absent |  
-| bip_39_word_new_line2 | age
+| bip_39_word_new_line_2 | age
 sheriff |  
-| bip_39_word_new_line3 | age
+| bip_39_word_new_line_3 | age
 sheriff
 mass |  
-| bip_39_word_new_line4 | age
+| bip_39_word_new_line_4 | age
 sheriff
 mass
 voyage |  
-| bip_39_word_new_line5 | age
+| bip_39_word_new_line_5 | age
 sheriff
 mass
 voyage
 six |  
-| bip_39_word_new_line6 | age
+| bip_39_word_new_line_6 | age
 sheriff
 mass
 voyage
 six
 oval |  
-| bip_39_word_new_line7 | age
+| bip_39_word_new_line_7 | age
 sheriff
 mass
 voyage
 six
 oval
 flock |  
-| bip_39_word_new_line8 | age
+| bip_39_word_new_line_8 | age
 sheriff
 mass
 voyage
@@ -113,7 +113,7 @@ six
 oval
 flock
 picture |  
-| bip_39_word_new_line9 | age
+| bip_39_word_new_line_9 | age
 sheriff
 mass
 voyage

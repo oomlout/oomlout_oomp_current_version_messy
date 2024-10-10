@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | version |  
-| bip_39_word_new_br10 | version<br>party<br>wait<br>disagree<br>shrimp<br>track<br>fuel<br>accuse<br>element<br>owner |  
-| bip_39_word_new_br11 | version<br>party<br>wait<br>disagree<br>shrimp<br>track<br>fuel<br>accuse<br>element<br>owner<br>beyond |  
-| bip_39_word_new_br12 | version<br>party<br>wait<br>disagree<br>shrimp<br>track<br>fuel<br>accuse<br>element<br>owner<br>beyond<br>author |  
-| bip_39_word_new_br2 | version<br>party |  
-| bip_39_word_new_br3 | version<br>party<br>wait |  
-| bip_39_word_new_br4 | version<br>party<br>wait<br>disagree |  
-| bip_39_word_new_br5 | version<br>party<br>wait<br>disagree<br>shrimp |  
-| bip_39_word_new_br6 | version<br>party<br>wait<br>disagree<br>shrimp<br>track |  
-| bip_39_word_new_br7 | version<br>party<br>wait<br>disagree<br>shrimp<br>track<br>fuel |  
-| bip_39_word_new_br8 | version<br>party<br>wait<br>disagree<br>shrimp<br>track<br>fuel<br>accuse |  
-| bip_39_word_new_br9 | version<br>party<br>wait<br>disagree<br>shrimp<br>track<br>fuel<br>accuse<br>element |  
-| bip_39_word_new_line1 | version |  
-| bip_39_word_new_line10 | version
+| bip_39_word_new_br_1 | version |  
+| bip_39_word_new_br_10 | version<br>party<br>wait<br>disagree<br>shrimp<br>track<br>fuel<br>accuse<br>element<br>owner |  
+| bip_39_word_new_br_11 | version<br>party<br>wait<br>disagree<br>shrimp<br>track<br>fuel<br>accuse<br>element<br>owner<br>beyond |  
+| bip_39_word_new_br_12 | version<br>party<br>wait<br>disagree<br>shrimp<br>track<br>fuel<br>accuse<br>element<br>owner<br>beyond<br>author |  
+| bip_39_word_new_br_2 | version<br>party |  
+| bip_39_word_new_br_3 | version<br>party<br>wait |  
+| bip_39_word_new_br_4 | version<br>party<br>wait<br>disagree |  
+| bip_39_word_new_br_5 | version<br>party<br>wait<br>disagree<br>shrimp |  
+| bip_39_word_new_br_6 | version<br>party<br>wait<br>disagree<br>shrimp<br>track |  
+| bip_39_word_new_br_7 | version<br>party<br>wait<br>disagree<br>shrimp<br>track<br>fuel |  
+| bip_39_word_new_br_8 | version<br>party<br>wait<br>disagree<br>shrimp<br>track<br>fuel<br>accuse |  
+| bip_39_word_new_br_9 | version<br>party<br>wait<br>disagree<br>shrimp<br>track<br>fuel<br>accuse<br>element |  
+| bip_39_word_new_line_1 | version |  
+| bip_39_word_new_line_10 | version
 party
 wait
 disagree
@@ -55,7 +55,7 @@ fuel
 accuse
 element
 owner |  
-| bip_39_word_new_line11 | version
+| bip_39_word_new_line_11 | version
 party
 wait
 disagree
@@ -66,7 +66,7 @@ accuse
 element
 owner
 beyond |  
-| bip_39_word_new_line12 | version
+| bip_39_word_new_line_12 | version
 party
 wait
 disagree
@@ -78,34 +78,34 @@ element
 owner
 beyond
 author |  
-| bip_39_word_new_line2 | version
+| bip_39_word_new_line_2 | version
 party |  
-| bip_39_word_new_line3 | version
+| bip_39_word_new_line_3 | version
 party
 wait |  
-| bip_39_word_new_line4 | version
+| bip_39_word_new_line_4 | version
 party
 wait
 disagree |  
-| bip_39_word_new_line5 | version
+| bip_39_word_new_line_5 | version
 party
 wait
 disagree
 shrimp |  
-| bip_39_word_new_line6 | version
+| bip_39_word_new_line_6 | version
 party
 wait
 disagree
 shrimp
 track |  
-| bip_39_word_new_line7 | version
+| bip_39_word_new_line_7 | version
 party
 wait
 disagree
 shrimp
 track
 fuel |  
-| bip_39_word_new_line8 | version
+| bip_39_word_new_line_8 | version
 party
 wait
 disagree
@@ -113,7 +113,7 @@ shrimp
 track
 fuel
 accuse |  
-| bip_39_word_new_line9 | version
+| bip_39_word_new_line_9 | version
 party
 wait
 disagree

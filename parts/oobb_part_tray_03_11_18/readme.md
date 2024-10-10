@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | brisk |  
-| bip_39_word_new_br10 | brisk<br>love<br>trust<br>legal<br>cactus<br>wedding<br>damage<br>pupil<br>used<br>album |  
-| bip_39_word_new_br11 | brisk<br>love<br>trust<br>legal<br>cactus<br>wedding<br>damage<br>pupil<br>used<br>album<br>build |  
-| bip_39_word_new_br12 | brisk<br>love<br>trust<br>legal<br>cactus<br>wedding<br>damage<br>pupil<br>used<br>album<br>build<br>asset |  
-| bip_39_word_new_br2 | brisk<br>love |  
-| bip_39_word_new_br3 | brisk<br>love<br>trust |  
-| bip_39_word_new_br4 | brisk<br>love<br>trust<br>legal |  
-| bip_39_word_new_br5 | brisk<br>love<br>trust<br>legal<br>cactus |  
-| bip_39_word_new_br6 | brisk<br>love<br>trust<br>legal<br>cactus<br>wedding |  
-| bip_39_word_new_br7 | brisk<br>love<br>trust<br>legal<br>cactus<br>wedding<br>damage |  
-| bip_39_word_new_br8 | brisk<br>love<br>trust<br>legal<br>cactus<br>wedding<br>damage<br>pupil |  
-| bip_39_word_new_br9 | brisk<br>love<br>trust<br>legal<br>cactus<br>wedding<br>damage<br>pupil<br>used |  
-| bip_39_word_new_line1 | brisk |  
-| bip_39_word_new_line10 | brisk
+| bip_39_word_new_br_1 | brisk |  
+| bip_39_word_new_br_10 | brisk<br>love<br>trust<br>legal<br>cactus<br>wedding<br>damage<br>pupil<br>used<br>album |  
+| bip_39_word_new_br_11 | brisk<br>love<br>trust<br>legal<br>cactus<br>wedding<br>damage<br>pupil<br>used<br>album<br>build |  
+| bip_39_word_new_br_12 | brisk<br>love<br>trust<br>legal<br>cactus<br>wedding<br>damage<br>pupil<br>used<br>album<br>build<br>asset |  
+| bip_39_word_new_br_2 | brisk<br>love |  
+| bip_39_word_new_br_3 | brisk<br>love<br>trust |  
+| bip_39_word_new_br_4 | brisk<br>love<br>trust<br>legal |  
+| bip_39_word_new_br_5 | brisk<br>love<br>trust<br>legal<br>cactus |  
+| bip_39_word_new_br_6 | brisk<br>love<br>trust<br>legal<br>cactus<br>wedding |  
+| bip_39_word_new_br_7 | brisk<br>love<br>trust<br>legal<br>cactus<br>wedding<br>damage |  
+| bip_39_word_new_br_8 | brisk<br>love<br>trust<br>legal<br>cactus<br>wedding<br>damage<br>pupil |  
+| bip_39_word_new_br_9 | brisk<br>love<br>trust<br>legal<br>cactus<br>wedding<br>damage<br>pupil<br>used |  
+| bip_39_word_new_line_1 | brisk |  
+| bip_39_word_new_line_10 | brisk
 love
 trust
 legal
@@ -55,7 +55,7 @@ damage
 pupil
 used
 album |  
-| bip_39_word_new_line11 | brisk
+| bip_39_word_new_line_11 | brisk
 love
 trust
 legal
@@ -66,7 +66,7 @@ pupil
 used
 album
 build |  
-| bip_39_word_new_line12 | brisk
+| bip_39_word_new_line_12 | brisk
 love
 trust
 legal
@@ -78,34 +78,34 @@ used
 album
 build
 asset |  
-| bip_39_word_new_line2 | brisk
+| bip_39_word_new_line_2 | brisk
 love |  
-| bip_39_word_new_line3 | brisk
+| bip_39_word_new_line_3 | brisk
 love
 trust |  
-| bip_39_word_new_line4 | brisk
+| bip_39_word_new_line_4 | brisk
 love
 trust
 legal |  
-| bip_39_word_new_line5 | brisk
+| bip_39_word_new_line_5 | brisk
 love
 trust
 legal
 cactus |  
-| bip_39_word_new_line6 | brisk
+| bip_39_word_new_line_6 | brisk
 love
 trust
 legal
 cactus
 wedding |  
-| bip_39_word_new_line7 | brisk
+| bip_39_word_new_line_7 | brisk
 love
 trust
 legal
 cactus
 wedding
 damage |  
-| bip_39_word_new_line8 | brisk
+| bip_39_word_new_line_8 | brisk
 love
 trust
 legal
@@ -113,7 +113,7 @@ cactus
 wedding
 damage
 pupil |  
-| bip_39_word_new_line9 | brisk
+| bip_39_word_new_line_9 | brisk
 love
 trust
 legal

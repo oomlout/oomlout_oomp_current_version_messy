@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wash |  
-| bip_39_word_new_br10 | wash<br>denial<br>heart<br>unaware<br>alley<br>swift<br>call<br>update<br>churn<br>ranch |  
-| bip_39_word_new_br11 | wash<br>denial<br>heart<br>unaware<br>alley<br>swift<br>call<br>update<br>churn<br>ranch<br>pelican |  
-| bip_39_word_new_br12 | wash<br>denial<br>heart<br>unaware<br>alley<br>swift<br>call<br>update<br>churn<br>ranch<br>pelican<br>arm |  
-| bip_39_word_new_br2 | wash<br>denial |  
-| bip_39_word_new_br3 | wash<br>denial<br>heart |  
-| bip_39_word_new_br4 | wash<br>denial<br>heart<br>unaware |  
-| bip_39_word_new_br5 | wash<br>denial<br>heart<br>unaware<br>alley |  
-| bip_39_word_new_br6 | wash<br>denial<br>heart<br>unaware<br>alley<br>swift |  
-| bip_39_word_new_br7 | wash<br>denial<br>heart<br>unaware<br>alley<br>swift<br>call |  
-| bip_39_word_new_br8 | wash<br>denial<br>heart<br>unaware<br>alley<br>swift<br>call<br>update |  
-| bip_39_word_new_br9 | wash<br>denial<br>heart<br>unaware<br>alley<br>swift<br>call<br>update<br>churn |  
-| bip_39_word_new_line1 | wash |  
-| bip_39_word_new_line10 | wash
+| bip_39_word_new_br_1 | wash |  
+| bip_39_word_new_br_10 | wash<br>denial<br>heart<br>unaware<br>alley<br>swift<br>call<br>update<br>churn<br>ranch |  
+| bip_39_word_new_br_11 | wash<br>denial<br>heart<br>unaware<br>alley<br>swift<br>call<br>update<br>churn<br>ranch<br>pelican |  
+| bip_39_word_new_br_12 | wash<br>denial<br>heart<br>unaware<br>alley<br>swift<br>call<br>update<br>churn<br>ranch<br>pelican<br>arm |  
+| bip_39_word_new_br_2 | wash<br>denial |  
+| bip_39_word_new_br_3 | wash<br>denial<br>heart |  
+| bip_39_word_new_br_4 | wash<br>denial<br>heart<br>unaware |  
+| bip_39_word_new_br_5 | wash<br>denial<br>heart<br>unaware<br>alley |  
+| bip_39_word_new_br_6 | wash<br>denial<br>heart<br>unaware<br>alley<br>swift |  
+| bip_39_word_new_br_7 | wash<br>denial<br>heart<br>unaware<br>alley<br>swift<br>call |  
+| bip_39_word_new_br_8 | wash<br>denial<br>heart<br>unaware<br>alley<br>swift<br>call<br>update |  
+| bip_39_word_new_br_9 | wash<br>denial<br>heart<br>unaware<br>alley<br>swift<br>call<br>update<br>churn |  
+| bip_39_word_new_line_1 | wash |  
+| bip_39_word_new_line_10 | wash
 denial
 heart
 unaware
@@ -55,7 +55,7 @@ call
 update
 churn
 ranch |  
-| bip_39_word_new_line11 | wash
+| bip_39_word_new_line_11 | wash
 denial
 heart
 unaware
@@ -66,7 +66,7 @@ update
 churn
 ranch
 pelican |  
-| bip_39_word_new_line12 | wash
+| bip_39_word_new_line_12 | wash
 denial
 heart
 unaware
@@ -78,34 +78,34 @@ churn
 ranch
 pelican
 arm |  
-| bip_39_word_new_line2 | wash
+| bip_39_word_new_line_2 | wash
 denial |  
-| bip_39_word_new_line3 | wash
+| bip_39_word_new_line_3 | wash
 denial
 heart |  
-| bip_39_word_new_line4 | wash
+| bip_39_word_new_line_4 | wash
 denial
 heart
 unaware |  
-| bip_39_word_new_line5 | wash
+| bip_39_word_new_line_5 | wash
 denial
 heart
 unaware
 alley |  
-| bip_39_word_new_line6 | wash
+| bip_39_word_new_line_6 | wash
 denial
 heart
 unaware
 alley
 swift |  
-| bip_39_word_new_line7 | wash
+| bip_39_word_new_line_7 | wash
 denial
 heart
 unaware
 alley
 swift
 call |  
-| bip_39_word_new_line8 | wash
+| bip_39_word_new_line_8 | wash
 denial
 heart
 unaware
@@ -113,7 +113,7 @@ alley
 swift
 call
 update |  
-| bip_39_word_new_line9 | wash
+| bip_39_word_new_line_9 | wash
 denial
 heart
 unaware

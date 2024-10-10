@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | empty |  
-| bip_39_word_new_br10 | empty<br>lava<br>giraffe<br>travel<br>young<br>dream<br>open<br>jungle<br>exhibit<br>include |  
-| bip_39_word_new_br11 | empty<br>lava<br>giraffe<br>travel<br>young<br>dream<br>open<br>jungle<br>exhibit<br>include<br>dinosaur |  
-| bip_39_word_new_br12 | empty<br>lava<br>giraffe<br>travel<br>young<br>dream<br>open<br>jungle<br>exhibit<br>include<br>dinosaur<br>actor |  
-| bip_39_word_new_br2 | empty<br>lava |  
-| bip_39_word_new_br3 | empty<br>lava<br>giraffe |  
-| bip_39_word_new_br4 | empty<br>lava<br>giraffe<br>travel |  
-| bip_39_word_new_br5 | empty<br>lava<br>giraffe<br>travel<br>young |  
-| bip_39_word_new_br6 | empty<br>lava<br>giraffe<br>travel<br>young<br>dream |  
-| bip_39_word_new_br7 | empty<br>lava<br>giraffe<br>travel<br>young<br>dream<br>open |  
-| bip_39_word_new_br8 | empty<br>lava<br>giraffe<br>travel<br>young<br>dream<br>open<br>jungle |  
-| bip_39_word_new_br9 | empty<br>lava<br>giraffe<br>travel<br>young<br>dream<br>open<br>jungle<br>exhibit |  
-| bip_39_word_new_line1 | empty |  
-| bip_39_word_new_line10 | empty
+| bip_39_word_new_br_1 | empty |  
+| bip_39_word_new_br_10 | empty<br>lava<br>giraffe<br>travel<br>young<br>dream<br>open<br>jungle<br>exhibit<br>include |  
+| bip_39_word_new_br_11 | empty<br>lava<br>giraffe<br>travel<br>young<br>dream<br>open<br>jungle<br>exhibit<br>include<br>dinosaur |  
+| bip_39_word_new_br_12 | empty<br>lava<br>giraffe<br>travel<br>young<br>dream<br>open<br>jungle<br>exhibit<br>include<br>dinosaur<br>actor |  
+| bip_39_word_new_br_2 | empty<br>lava |  
+| bip_39_word_new_br_3 | empty<br>lava<br>giraffe |  
+| bip_39_word_new_br_4 | empty<br>lava<br>giraffe<br>travel |  
+| bip_39_word_new_br_5 | empty<br>lava<br>giraffe<br>travel<br>young |  
+| bip_39_word_new_br_6 | empty<br>lava<br>giraffe<br>travel<br>young<br>dream |  
+| bip_39_word_new_br_7 | empty<br>lava<br>giraffe<br>travel<br>young<br>dream<br>open |  
+| bip_39_word_new_br_8 | empty<br>lava<br>giraffe<br>travel<br>young<br>dream<br>open<br>jungle |  
+| bip_39_word_new_br_9 | empty<br>lava<br>giraffe<br>travel<br>young<br>dream<br>open<br>jungle<br>exhibit |  
+| bip_39_word_new_line_1 | empty |  
+| bip_39_word_new_line_10 | empty
 lava
 giraffe
 travel
@@ -55,7 +55,7 @@ open
 jungle
 exhibit
 include |  
-| bip_39_word_new_line11 | empty
+| bip_39_word_new_line_11 | empty
 lava
 giraffe
 travel
@@ -66,7 +66,7 @@ jungle
 exhibit
 include
 dinosaur |  
-| bip_39_word_new_line12 | empty
+| bip_39_word_new_line_12 | empty
 lava
 giraffe
 travel
@@ -78,34 +78,34 @@ exhibit
 include
 dinosaur
 actor |  
-| bip_39_word_new_line2 | empty
+| bip_39_word_new_line_2 | empty
 lava |  
-| bip_39_word_new_line3 | empty
+| bip_39_word_new_line_3 | empty
 lava
 giraffe |  
-| bip_39_word_new_line4 | empty
+| bip_39_word_new_line_4 | empty
 lava
 giraffe
 travel |  
-| bip_39_word_new_line5 | empty
+| bip_39_word_new_line_5 | empty
 lava
 giraffe
 travel
 young |  
-| bip_39_word_new_line6 | empty
+| bip_39_word_new_line_6 | empty
 lava
 giraffe
 travel
 young
 dream |  
-| bip_39_word_new_line7 | empty
+| bip_39_word_new_line_7 | empty
 lava
 giraffe
 travel
 young
 dream
 open |  
-| bip_39_word_new_line8 | empty
+| bip_39_word_new_line_8 | empty
 lava
 giraffe
 travel
@@ -113,7 +113,7 @@ young
 dream
 open
 jungle |  
-| bip_39_word_new_line9 | empty
+| bip_39_word_new_line_9 | empty
 lava
 giraffe
 travel

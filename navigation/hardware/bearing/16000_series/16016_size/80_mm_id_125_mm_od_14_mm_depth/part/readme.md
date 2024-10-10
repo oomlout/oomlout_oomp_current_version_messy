@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | glare |  
-| bip_39_word_new_br10 | glare<br>tongue<br>accident<br>wise<br>blame<br>fury<br>rocket<br>floor<br>chronic<br>universe |  
-| bip_39_word_new_br11 | glare<br>tongue<br>accident<br>wise<br>blame<br>fury<br>rocket<br>floor<br>chronic<br>universe<br>cake |  
-| bip_39_word_new_br12 | glare<br>tongue<br>accident<br>wise<br>blame<br>fury<br>rocket<br>floor<br>chronic<br>universe<br>cake<br>annual |  
-| bip_39_word_new_br2 | glare<br>tongue |  
-| bip_39_word_new_br3 | glare<br>tongue<br>accident |  
-| bip_39_word_new_br4 | glare<br>tongue<br>accident<br>wise |  
-| bip_39_word_new_br5 | glare<br>tongue<br>accident<br>wise<br>blame |  
-| bip_39_word_new_br6 | glare<br>tongue<br>accident<br>wise<br>blame<br>fury |  
-| bip_39_word_new_br7 | glare<br>tongue<br>accident<br>wise<br>blame<br>fury<br>rocket |  
-| bip_39_word_new_br8 | glare<br>tongue<br>accident<br>wise<br>blame<br>fury<br>rocket<br>floor |  
-| bip_39_word_new_br9 | glare<br>tongue<br>accident<br>wise<br>blame<br>fury<br>rocket<br>floor<br>chronic |  
-| bip_39_word_new_line1 | glare |  
-| bip_39_word_new_line10 | glare
+| bip_39_word_new_br_1 | glare |  
+| bip_39_word_new_br_10 | glare<br>tongue<br>accident<br>wise<br>blame<br>fury<br>rocket<br>floor<br>chronic<br>universe |  
+| bip_39_word_new_br_11 | glare<br>tongue<br>accident<br>wise<br>blame<br>fury<br>rocket<br>floor<br>chronic<br>universe<br>cake |  
+| bip_39_word_new_br_12 | glare<br>tongue<br>accident<br>wise<br>blame<br>fury<br>rocket<br>floor<br>chronic<br>universe<br>cake<br>annual |  
+| bip_39_word_new_br_2 | glare<br>tongue |  
+| bip_39_word_new_br_3 | glare<br>tongue<br>accident |  
+| bip_39_word_new_br_4 | glare<br>tongue<br>accident<br>wise |  
+| bip_39_word_new_br_5 | glare<br>tongue<br>accident<br>wise<br>blame |  
+| bip_39_word_new_br_6 | glare<br>tongue<br>accident<br>wise<br>blame<br>fury |  
+| bip_39_word_new_br_7 | glare<br>tongue<br>accident<br>wise<br>blame<br>fury<br>rocket |  
+| bip_39_word_new_br_8 | glare<br>tongue<br>accident<br>wise<br>blame<br>fury<br>rocket<br>floor |  
+| bip_39_word_new_br_9 | glare<br>tongue<br>accident<br>wise<br>blame<br>fury<br>rocket<br>floor<br>chronic |  
+| bip_39_word_new_line_1 | glare |  
+| bip_39_word_new_line_10 | glare
 tongue
 accident
 wise
@@ -55,7 +55,7 @@ rocket
 floor
 chronic
 universe |  
-| bip_39_word_new_line11 | glare
+| bip_39_word_new_line_11 | glare
 tongue
 accident
 wise
@@ -66,7 +66,7 @@ floor
 chronic
 universe
 cake |  
-| bip_39_word_new_line12 | glare
+| bip_39_word_new_line_12 | glare
 tongue
 accident
 wise
@@ -78,34 +78,34 @@ chronic
 universe
 cake
 annual |  
-| bip_39_word_new_line2 | glare
+| bip_39_word_new_line_2 | glare
 tongue |  
-| bip_39_word_new_line3 | glare
+| bip_39_word_new_line_3 | glare
 tongue
 accident |  
-| bip_39_word_new_line4 | glare
+| bip_39_word_new_line_4 | glare
 tongue
 accident
 wise |  
-| bip_39_word_new_line5 | glare
+| bip_39_word_new_line_5 | glare
 tongue
 accident
 wise
 blame |  
-| bip_39_word_new_line6 | glare
+| bip_39_word_new_line_6 | glare
 tongue
 accident
 wise
 blame
 fury |  
-| bip_39_word_new_line7 | glare
+| bip_39_word_new_line_7 | glare
 tongue
 accident
 wise
 blame
 fury
 rocket |  
-| bip_39_word_new_line8 | glare
+| bip_39_word_new_line_8 | glare
 tongue
 accident
 wise
@@ -113,7 +113,7 @@ blame
 fury
 rocket
 floor |  
-| bip_39_word_new_line9 | glare
+| bip_39_word_new_line_9 | glare
 tongue
 accident
 wise

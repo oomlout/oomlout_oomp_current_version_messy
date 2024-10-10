@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | load |  
-| bip_39_word_new_br10 | load<br>ostrich<br>rain<br>october<br>typical<br>avoid<br>energy<br>opera<br>pet<br>firm |  
-| bip_39_word_new_br11 | load<br>ostrich<br>rain<br>october<br>typical<br>avoid<br>energy<br>opera<br>pet<br>firm<br>off |  
-| bip_39_word_new_br12 | load<br>ostrich<br>rain<br>october<br>typical<br>avoid<br>energy<br>opera<br>pet<br>firm<br>off<br>audit |  
-| bip_39_word_new_br2 | load<br>ostrich |  
-| bip_39_word_new_br3 | load<br>ostrich<br>rain |  
-| bip_39_word_new_br4 | load<br>ostrich<br>rain<br>october |  
-| bip_39_word_new_br5 | load<br>ostrich<br>rain<br>october<br>typical |  
-| bip_39_word_new_br6 | load<br>ostrich<br>rain<br>october<br>typical<br>avoid |  
-| bip_39_word_new_br7 | load<br>ostrich<br>rain<br>october<br>typical<br>avoid<br>energy |  
-| bip_39_word_new_br8 | load<br>ostrich<br>rain<br>october<br>typical<br>avoid<br>energy<br>opera |  
-| bip_39_word_new_br9 | load<br>ostrich<br>rain<br>october<br>typical<br>avoid<br>energy<br>opera<br>pet |  
-| bip_39_word_new_line1 | load |  
-| bip_39_word_new_line10 | load
+| bip_39_word_new_br_1 | load |  
+| bip_39_word_new_br_10 | load<br>ostrich<br>rain<br>october<br>typical<br>avoid<br>energy<br>opera<br>pet<br>firm |  
+| bip_39_word_new_br_11 | load<br>ostrich<br>rain<br>october<br>typical<br>avoid<br>energy<br>opera<br>pet<br>firm<br>off |  
+| bip_39_word_new_br_12 | load<br>ostrich<br>rain<br>october<br>typical<br>avoid<br>energy<br>opera<br>pet<br>firm<br>off<br>audit |  
+| bip_39_word_new_br_2 | load<br>ostrich |  
+| bip_39_word_new_br_3 | load<br>ostrich<br>rain |  
+| bip_39_word_new_br_4 | load<br>ostrich<br>rain<br>october |  
+| bip_39_word_new_br_5 | load<br>ostrich<br>rain<br>october<br>typical |  
+| bip_39_word_new_br_6 | load<br>ostrich<br>rain<br>october<br>typical<br>avoid |  
+| bip_39_word_new_br_7 | load<br>ostrich<br>rain<br>october<br>typical<br>avoid<br>energy |  
+| bip_39_word_new_br_8 | load<br>ostrich<br>rain<br>october<br>typical<br>avoid<br>energy<br>opera |  
+| bip_39_word_new_br_9 | load<br>ostrich<br>rain<br>october<br>typical<br>avoid<br>energy<br>opera<br>pet |  
+| bip_39_word_new_line_1 | load |  
+| bip_39_word_new_line_10 | load
 ostrich
 rain
 october
@@ -55,7 +55,7 @@ energy
 opera
 pet
 firm |  
-| bip_39_word_new_line11 | load
+| bip_39_word_new_line_11 | load
 ostrich
 rain
 october
@@ -66,7 +66,7 @@ opera
 pet
 firm
 off |  
-| bip_39_word_new_line12 | load
+| bip_39_word_new_line_12 | load
 ostrich
 rain
 october
@@ -78,34 +78,34 @@ pet
 firm
 off
 audit |  
-| bip_39_word_new_line2 | load
+| bip_39_word_new_line_2 | load
 ostrich |  
-| bip_39_word_new_line3 | load
+| bip_39_word_new_line_3 | load
 ostrich
 rain |  
-| bip_39_word_new_line4 | load
+| bip_39_word_new_line_4 | load
 ostrich
 rain
 october |  
-| bip_39_word_new_line5 | load
+| bip_39_word_new_line_5 | load
 ostrich
 rain
 october
 typical |  
-| bip_39_word_new_line6 | load
+| bip_39_word_new_line_6 | load
 ostrich
 rain
 october
 typical
 avoid |  
-| bip_39_word_new_line7 | load
+| bip_39_word_new_line_7 | load
 ostrich
 rain
 october
 typical
 avoid
 energy |  
-| bip_39_word_new_line8 | load
+| bip_39_word_new_line_8 | load
 ostrich
 rain
 october
@@ -113,7 +113,7 @@ typical
 avoid
 energy
 opera |  
-| bip_39_word_new_line9 | load
+| bip_39_word_new_line_9 | load
 ostrich
 rain
 october

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | enact |  
-| bip_39_word_new_br10 | enact<br>only<br>runway<br>slender<br>census<br>equip<br>oppose<br>virtual<br>planet<br>girl |  
-| bip_39_word_new_br11 | enact<br>only<br>runway<br>slender<br>census<br>equip<br>oppose<br>virtual<br>planet<br>girl<br>solid |  
-| bip_39_word_new_br12 | enact<br>only<br>runway<br>slender<br>census<br>equip<br>oppose<br>virtual<br>planet<br>girl<br>solid<br>alter |  
-| bip_39_word_new_br2 | enact<br>only |  
-| bip_39_word_new_br3 | enact<br>only<br>runway |  
-| bip_39_word_new_br4 | enact<br>only<br>runway<br>slender |  
-| bip_39_word_new_br5 | enact<br>only<br>runway<br>slender<br>census |  
-| bip_39_word_new_br6 | enact<br>only<br>runway<br>slender<br>census<br>equip |  
-| bip_39_word_new_br7 | enact<br>only<br>runway<br>slender<br>census<br>equip<br>oppose |  
-| bip_39_word_new_br8 | enact<br>only<br>runway<br>slender<br>census<br>equip<br>oppose<br>virtual |  
-| bip_39_word_new_br9 | enact<br>only<br>runway<br>slender<br>census<br>equip<br>oppose<br>virtual<br>planet |  
-| bip_39_word_new_line1 | enact |  
-| bip_39_word_new_line10 | enact
+| bip_39_word_new_br_1 | enact |  
+| bip_39_word_new_br_10 | enact<br>only<br>runway<br>slender<br>census<br>equip<br>oppose<br>virtual<br>planet<br>girl |  
+| bip_39_word_new_br_11 | enact<br>only<br>runway<br>slender<br>census<br>equip<br>oppose<br>virtual<br>planet<br>girl<br>solid |  
+| bip_39_word_new_br_12 | enact<br>only<br>runway<br>slender<br>census<br>equip<br>oppose<br>virtual<br>planet<br>girl<br>solid<br>alter |  
+| bip_39_word_new_br_2 | enact<br>only |  
+| bip_39_word_new_br_3 | enact<br>only<br>runway |  
+| bip_39_word_new_br_4 | enact<br>only<br>runway<br>slender |  
+| bip_39_word_new_br_5 | enact<br>only<br>runway<br>slender<br>census |  
+| bip_39_word_new_br_6 | enact<br>only<br>runway<br>slender<br>census<br>equip |  
+| bip_39_word_new_br_7 | enact<br>only<br>runway<br>slender<br>census<br>equip<br>oppose |  
+| bip_39_word_new_br_8 | enact<br>only<br>runway<br>slender<br>census<br>equip<br>oppose<br>virtual |  
+| bip_39_word_new_br_9 | enact<br>only<br>runway<br>slender<br>census<br>equip<br>oppose<br>virtual<br>planet |  
+| bip_39_word_new_line_1 | enact |  
+| bip_39_word_new_line_10 | enact
 only
 runway
 slender
@@ -55,7 +55,7 @@ oppose
 virtual
 planet
 girl |  
-| bip_39_word_new_line11 | enact
+| bip_39_word_new_line_11 | enact
 only
 runway
 slender
@@ -66,7 +66,7 @@ virtual
 planet
 girl
 solid |  
-| bip_39_word_new_line12 | enact
+| bip_39_word_new_line_12 | enact
 only
 runway
 slender
@@ -78,34 +78,34 @@ planet
 girl
 solid
 alter |  
-| bip_39_word_new_line2 | enact
+| bip_39_word_new_line_2 | enact
 only |  
-| bip_39_word_new_line3 | enact
+| bip_39_word_new_line_3 | enact
 only
 runway |  
-| bip_39_word_new_line4 | enact
+| bip_39_word_new_line_4 | enact
 only
 runway
 slender |  
-| bip_39_word_new_line5 | enact
+| bip_39_word_new_line_5 | enact
 only
 runway
 slender
 census |  
-| bip_39_word_new_line6 | enact
+| bip_39_word_new_line_6 | enact
 only
 runway
 slender
 census
 equip |  
-| bip_39_word_new_line7 | enact
+| bip_39_word_new_line_7 | enact
 only
 runway
 slender
 census
 equip
 oppose |  
-| bip_39_word_new_line8 | enact
+| bip_39_word_new_line_8 | enact
 only
 runway
 slender
@@ -113,7 +113,7 @@ census
 equip
 oppose
 virtual |  
-| bip_39_word_new_line9 | enact
+| bip_39_word_new_line_9 | enact
 only
 runway
 slender

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | useless |  
-| bip_39_word_new_br10 | useless<br>drive<br>silver<br>relief<br>govern<br>pole<br>leopard<br>sense<br>survey<br>provide |  
-| bip_39_word_new_br11 | useless<br>drive<br>silver<br>relief<br>govern<br>pole<br>leopard<br>sense<br>survey<br>provide<br>clinic |  
-| bip_39_word_new_br12 | useless<br>drive<br>silver<br>relief<br>govern<br>pole<br>leopard<br>sense<br>survey<br>provide<br>clinic<br>aerobic |  
-| bip_39_word_new_br2 | useless<br>drive |  
-| bip_39_word_new_br3 | useless<br>drive<br>silver |  
-| bip_39_word_new_br4 | useless<br>drive<br>silver<br>relief |  
-| bip_39_word_new_br5 | useless<br>drive<br>silver<br>relief<br>govern |  
-| bip_39_word_new_br6 | useless<br>drive<br>silver<br>relief<br>govern<br>pole |  
-| bip_39_word_new_br7 | useless<br>drive<br>silver<br>relief<br>govern<br>pole<br>leopard |  
-| bip_39_word_new_br8 | useless<br>drive<br>silver<br>relief<br>govern<br>pole<br>leopard<br>sense |  
-| bip_39_word_new_br9 | useless<br>drive<br>silver<br>relief<br>govern<br>pole<br>leopard<br>sense<br>survey |  
-| bip_39_word_new_line1 | useless |  
-| bip_39_word_new_line10 | useless
+| bip_39_word_new_br_1 | useless |  
+| bip_39_word_new_br_10 | useless<br>drive<br>silver<br>relief<br>govern<br>pole<br>leopard<br>sense<br>survey<br>provide |  
+| bip_39_word_new_br_11 | useless<br>drive<br>silver<br>relief<br>govern<br>pole<br>leopard<br>sense<br>survey<br>provide<br>clinic |  
+| bip_39_word_new_br_12 | useless<br>drive<br>silver<br>relief<br>govern<br>pole<br>leopard<br>sense<br>survey<br>provide<br>clinic<br>aerobic |  
+| bip_39_word_new_br_2 | useless<br>drive |  
+| bip_39_word_new_br_3 | useless<br>drive<br>silver |  
+| bip_39_word_new_br_4 | useless<br>drive<br>silver<br>relief |  
+| bip_39_word_new_br_5 | useless<br>drive<br>silver<br>relief<br>govern |  
+| bip_39_word_new_br_6 | useless<br>drive<br>silver<br>relief<br>govern<br>pole |  
+| bip_39_word_new_br_7 | useless<br>drive<br>silver<br>relief<br>govern<br>pole<br>leopard |  
+| bip_39_word_new_br_8 | useless<br>drive<br>silver<br>relief<br>govern<br>pole<br>leopard<br>sense |  
+| bip_39_word_new_br_9 | useless<br>drive<br>silver<br>relief<br>govern<br>pole<br>leopard<br>sense<br>survey |  
+| bip_39_word_new_line_1 | useless |  
+| bip_39_word_new_line_10 | useless
 drive
 silver
 relief
@@ -55,7 +55,7 @@ leopard
 sense
 survey
 provide |  
-| bip_39_word_new_line11 | useless
+| bip_39_word_new_line_11 | useless
 drive
 silver
 relief
@@ -66,7 +66,7 @@ sense
 survey
 provide
 clinic |  
-| bip_39_word_new_line12 | useless
+| bip_39_word_new_line_12 | useless
 drive
 silver
 relief
@@ -78,34 +78,34 @@ survey
 provide
 clinic
 aerobic |  
-| bip_39_word_new_line2 | useless
+| bip_39_word_new_line_2 | useless
 drive |  
-| bip_39_word_new_line3 | useless
+| bip_39_word_new_line_3 | useless
 drive
 silver |  
-| bip_39_word_new_line4 | useless
+| bip_39_word_new_line_4 | useless
 drive
 silver
 relief |  
-| bip_39_word_new_line5 | useless
+| bip_39_word_new_line_5 | useless
 drive
 silver
 relief
 govern |  
-| bip_39_word_new_line6 | useless
+| bip_39_word_new_line_6 | useless
 drive
 silver
 relief
 govern
 pole |  
-| bip_39_word_new_line7 | useless
+| bip_39_word_new_line_7 | useless
 drive
 silver
 relief
 govern
 pole
 leopard |  
-| bip_39_word_new_line8 | useless
+| bip_39_word_new_line_8 | useless
 drive
 silver
 relief
@@ -113,7 +113,7 @@ govern
 pole
 leopard
 sense |  
-| bip_39_word_new_line9 | useless
+| bip_39_word_new_line_9 | useless
 drive
 silver
 relief

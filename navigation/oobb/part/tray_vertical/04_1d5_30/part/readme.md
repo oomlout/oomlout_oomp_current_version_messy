@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | easy |  
-| bip_39_word_new_br10 | easy<br>frozen<br>atom<br>hand<br>knee<br>shrimp<br>upper<br>loyal<br>shock<br>matter |  
-| bip_39_word_new_br11 | easy<br>frozen<br>atom<br>hand<br>knee<br>shrimp<br>upper<br>loyal<br>shock<br>matter<br>describe |  
-| bip_39_word_new_br12 | easy<br>frozen<br>atom<br>hand<br>knee<br>shrimp<br>upper<br>loyal<br>shock<br>matter<br>describe<br>alone |  
-| bip_39_word_new_br2 | easy<br>frozen |  
-| bip_39_word_new_br3 | easy<br>frozen<br>atom |  
-| bip_39_word_new_br4 | easy<br>frozen<br>atom<br>hand |  
-| bip_39_word_new_br5 | easy<br>frozen<br>atom<br>hand<br>knee |  
-| bip_39_word_new_br6 | easy<br>frozen<br>atom<br>hand<br>knee<br>shrimp |  
-| bip_39_word_new_br7 | easy<br>frozen<br>atom<br>hand<br>knee<br>shrimp<br>upper |  
-| bip_39_word_new_br8 | easy<br>frozen<br>atom<br>hand<br>knee<br>shrimp<br>upper<br>loyal |  
-| bip_39_word_new_br9 | easy<br>frozen<br>atom<br>hand<br>knee<br>shrimp<br>upper<br>loyal<br>shock |  
-| bip_39_word_new_line1 | easy |  
-| bip_39_word_new_line10 | easy
+| bip_39_word_new_br_1 | easy |  
+| bip_39_word_new_br_10 | easy<br>frozen<br>atom<br>hand<br>knee<br>shrimp<br>upper<br>loyal<br>shock<br>matter |  
+| bip_39_word_new_br_11 | easy<br>frozen<br>atom<br>hand<br>knee<br>shrimp<br>upper<br>loyal<br>shock<br>matter<br>describe |  
+| bip_39_word_new_br_12 | easy<br>frozen<br>atom<br>hand<br>knee<br>shrimp<br>upper<br>loyal<br>shock<br>matter<br>describe<br>alone |  
+| bip_39_word_new_br_2 | easy<br>frozen |  
+| bip_39_word_new_br_3 | easy<br>frozen<br>atom |  
+| bip_39_word_new_br_4 | easy<br>frozen<br>atom<br>hand |  
+| bip_39_word_new_br_5 | easy<br>frozen<br>atom<br>hand<br>knee |  
+| bip_39_word_new_br_6 | easy<br>frozen<br>atom<br>hand<br>knee<br>shrimp |  
+| bip_39_word_new_br_7 | easy<br>frozen<br>atom<br>hand<br>knee<br>shrimp<br>upper |  
+| bip_39_word_new_br_8 | easy<br>frozen<br>atom<br>hand<br>knee<br>shrimp<br>upper<br>loyal |  
+| bip_39_word_new_br_9 | easy<br>frozen<br>atom<br>hand<br>knee<br>shrimp<br>upper<br>loyal<br>shock |  
+| bip_39_word_new_line_1 | easy |  
+| bip_39_word_new_line_10 | easy
 frozen
 atom
 hand
@@ -55,7 +55,7 @@ upper
 loyal
 shock
 matter |  
-| bip_39_word_new_line11 | easy
+| bip_39_word_new_line_11 | easy
 frozen
 atom
 hand
@@ -66,7 +66,7 @@ loyal
 shock
 matter
 describe |  
-| bip_39_word_new_line12 | easy
+| bip_39_word_new_line_12 | easy
 frozen
 atom
 hand
@@ -78,34 +78,34 @@ shock
 matter
 describe
 alone |  
-| bip_39_word_new_line2 | easy
+| bip_39_word_new_line_2 | easy
 frozen |  
-| bip_39_word_new_line3 | easy
+| bip_39_word_new_line_3 | easy
 frozen
 atom |  
-| bip_39_word_new_line4 | easy
+| bip_39_word_new_line_4 | easy
 frozen
 atom
 hand |  
-| bip_39_word_new_line5 | easy
+| bip_39_word_new_line_5 | easy
 frozen
 atom
 hand
 knee |  
-| bip_39_word_new_line6 | easy
+| bip_39_word_new_line_6 | easy
 frozen
 atom
 hand
 knee
 shrimp |  
-| bip_39_word_new_line7 | easy
+| bip_39_word_new_line_7 | easy
 frozen
 atom
 hand
 knee
 shrimp
 upper |  
-| bip_39_word_new_line8 | easy
+| bip_39_word_new_line_8 | easy
 frozen
 atom
 hand
@@ -113,7 +113,7 @@ knee
 shrimp
 upper
 loyal |  
-| bip_39_word_new_line9 | easy
+| bip_39_word_new_line_9 | easy
 frozen
 atom
 hand

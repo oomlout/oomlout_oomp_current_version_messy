@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | stamp |  
-| bip_39_word_new_br10 | stamp<br>access<br>vehicle<br>stumble<br>private<br>puzzle<br>zero<br>deny<br>soon<br>wife |  
-| bip_39_word_new_br11 | stamp<br>access<br>vehicle<br>stumble<br>private<br>puzzle<br>zero<br>deny<br>soon<br>wife<br>turtle |  
-| bip_39_word_new_br12 | stamp<br>access<br>vehicle<br>stumble<br>private<br>puzzle<br>zero<br>deny<br>soon<br>wife<br>turtle<br>across |  
-| bip_39_word_new_br2 | stamp<br>access |  
-| bip_39_word_new_br3 | stamp<br>access<br>vehicle |  
-| bip_39_word_new_br4 | stamp<br>access<br>vehicle<br>stumble |  
-| bip_39_word_new_br5 | stamp<br>access<br>vehicle<br>stumble<br>private |  
-| bip_39_word_new_br6 | stamp<br>access<br>vehicle<br>stumble<br>private<br>puzzle |  
-| bip_39_word_new_br7 | stamp<br>access<br>vehicle<br>stumble<br>private<br>puzzle<br>zero |  
-| bip_39_word_new_br8 | stamp<br>access<br>vehicle<br>stumble<br>private<br>puzzle<br>zero<br>deny |  
-| bip_39_word_new_br9 | stamp<br>access<br>vehicle<br>stumble<br>private<br>puzzle<br>zero<br>deny<br>soon |  
-| bip_39_word_new_line1 | stamp |  
-| bip_39_word_new_line10 | stamp
+| bip_39_word_new_br_1 | stamp |  
+| bip_39_word_new_br_10 | stamp<br>access<br>vehicle<br>stumble<br>private<br>puzzle<br>zero<br>deny<br>soon<br>wife |  
+| bip_39_word_new_br_11 | stamp<br>access<br>vehicle<br>stumble<br>private<br>puzzle<br>zero<br>deny<br>soon<br>wife<br>turtle |  
+| bip_39_word_new_br_12 | stamp<br>access<br>vehicle<br>stumble<br>private<br>puzzle<br>zero<br>deny<br>soon<br>wife<br>turtle<br>across |  
+| bip_39_word_new_br_2 | stamp<br>access |  
+| bip_39_word_new_br_3 | stamp<br>access<br>vehicle |  
+| bip_39_word_new_br_4 | stamp<br>access<br>vehicle<br>stumble |  
+| bip_39_word_new_br_5 | stamp<br>access<br>vehicle<br>stumble<br>private |  
+| bip_39_word_new_br_6 | stamp<br>access<br>vehicle<br>stumble<br>private<br>puzzle |  
+| bip_39_word_new_br_7 | stamp<br>access<br>vehicle<br>stumble<br>private<br>puzzle<br>zero |  
+| bip_39_word_new_br_8 | stamp<br>access<br>vehicle<br>stumble<br>private<br>puzzle<br>zero<br>deny |  
+| bip_39_word_new_br_9 | stamp<br>access<br>vehicle<br>stumble<br>private<br>puzzle<br>zero<br>deny<br>soon |  
+| bip_39_word_new_line_1 | stamp |  
+| bip_39_word_new_line_10 | stamp
 access
 vehicle
 stumble
@@ -55,7 +55,7 @@ zero
 deny
 soon
 wife |  
-| bip_39_word_new_line11 | stamp
+| bip_39_word_new_line_11 | stamp
 access
 vehicle
 stumble
@@ -66,7 +66,7 @@ deny
 soon
 wife
 turtle |  
-| bip_39_word_new_line12 | stamp
+| bip_39_word_new_line_12 | stamp
 access
 vehicle
 stumble
@@ -78,34 +78,34 @@ soon
 wife
 turtle
 across |  
-| bip_39_word_new_line2 | stamp
+| bip_39_word_new_line_2 | stamp
 access |  
-| bip_39_word_new_line3 | stamp
+| bip_39_word_new_line_3 | stamp
 access
 vehicle |  
-| bip_39_word_new_line4 | stamp
+| bip_39_word_new_line_4 | stamp
 access
 vehicle
 stumble |  
-| bip_39_word_new_line5 | stamp
+| bip_39_word_new_line_5 | stamp
 access
 vehicle
 stumble
 private |  
-| bip_39_word_new_line6 | stamp
+| bip_39_word_new_line_6 | stamp
 access
 vehicle
 stumble
 private
 puzzle |  
-| bip_39_word_new_line7 | stamp
+| bip_39_word_new_line_7 | stamp
 access
 vehicle
 stumble
 private
 puzzle
 zero |  
-| bip_39_word_new_line8 | stamp
+| bip_39_word_new_line_8 | stamp
 access
 vehicle
 stumble
@@ -113,7 +113,7 @@ private
 puzzle
 zero
 deny |  
-| bip_39_word_new_line9 | stamp
+| bip_39_word_new_line_9 | stamp
 access
 vehicle
 stumble

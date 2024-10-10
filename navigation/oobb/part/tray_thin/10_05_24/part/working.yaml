@@ -1,17 +1,17 @@
-bip_39_word_new_br1: spoil
-bip_39_word_new_br10: spoil<br>fitness<br>left<br>brass<br>swim<br>oxygen<br>tongue<br>mind<br>security<br>black
-bip_39_word_new_br11: spoil<br>fitness<br>left<br>brass<br>swim<br>oxygen<br>tongue<br>mind<br>security<br>black<br>resemble
-bip_39_word_new_br12: spoil<br>fitness<br>left<br>brass<br>swim<br>oxygen<br>tongue<br>mind<br>security<br>black<br>resemble<br>again
-bip_39_word_new_br2: spoil<br>fitness
-bip_39_word_new_br3: spoil<br>fitness<br>left
-bip_39_word_new_br4: spoil<br>fitness<br>left<br>brass
-bip_39_word_new_br5: spoil<br>fitness<br>left<br>brass<br>swim
-bip_39_word_new_br6: spoil<br>fitness<br>left<br>brass<br>swim<br>oxygen
-bip_39_word_new_br7: spoil<br>fitness<br>left<br>brass<br>swim<br>oxygen<br>tongue
-bip_39_word_new_br8: spoil<br>fitness<br>left<br>brass<br>swim<br>oxygen<br>tongue<br>mind
-bip_39_word_new_br9: spoil<br>fitness<br>left<br>brass<br>swim<br>oxygen<br>tongue<br>mind<br>security
-bip_39_word_new_line1: spoil
-bip_39_word_new_line10: 'spoil
+bip_39_word_new_br_1: spoil
+bip_39_word_new_br_10: spoil<br>fitness<br>left<br>brass<br>swim<br>oxygen<br>tongue<br>mind<br>security<br>black
+bip_39_word_new_br_11: spoil<br>fitness<br>left<br>brass<br>swim<br>oxygen<br>tongue<br>mind<br>security<br>black<br>resemble
+bip_39_word_new_br_12: spoil<br>fitness<br>left<br>brass<br>swim<br>oxygen<br>tongue<br>mind<br>security<br>black<br>resemble<br>again
+bip_39_word_new_br_2: spoil<br>fitness
+bip_39_word_new_br_3: spoil<br>fitness<br>left
+bip_39_word_new_br_4: spoil<br>fitness<br>left<br>brass
+bip_39_word_new_br_5: spoil<br>fitness<br>left<br>brass<br>swim
+bip_39_word_new_br_6: spoil<br>fitness<br>left<br>brass<br>swim<br>oxygen
+bip_39_word_new_br_7: spoil<br>fitness<br>left<br>brass<br>swim<br>oxygen<br>tongue
+bip_39_word_new_br_8: spoil<br>fitness<br>left<br>brass<br>swim<br>oxygen<br>tongue<br>mind
+bip_39_word_new_br_9: spoil<br>fitness<br>left<br>brass<br>swim<br>oxygen<br>tongue<br>mind<br>security
+bip_39_word_new_line_1: spoil
+bip_39_word_new_line_10: 'spoil
 
   fitness
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'spoil
   security
 
   black'
-bip_39_word_new_line11: 'spoil
+bip_39_word_new_line_11: 'spoil
 
   fitness
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'spoil
   black
 
   resemble'
-bip_39_word_new_line12: 'spoil
+bip_39_word_new_line_12: 'spoil
 
   fitness
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'spoil
   resemble
 
   again'
-bip_39_word_new_line2: 'spoil
+bip_39_word_new_line_2: 'spoil
 
   fitness'
-bip_39_word_new_line3: 'spoil
+bip_39_word_new_line_3: 'spoil
 
   fitness
 
   left'
-bip_39_word_new_line4: 'spoil
+bip_39_word_new_line_4: 'spoil
 
   fitness
 
   left
 
   brass'
-bip_39_word_new_line5: 'spoil
+bip_39_word_new_line_5: 'spoil
 
   fitness
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'spoil
   brass
 
   swim'
-bip_39_word_new_line6: 'spoil
+bip_39_word_new_line_6: 'spoil
 
   fitness
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'spoil
   swim
 
   oxygen'
-bip_39_word_new_line7: 'spoil
+bip_39_word_new_line_7: 'spoil
 
   fitness
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'spoil
   oxygen
 
   tongue'
-bip_39_word_new_line8: 'spoil
+bip_39_word_new_line_8: 'spoil
 
   fitness
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'spoil
   tongue
 
   mind'
-bip_39_word_new_line9: 'spoil
+bip_39_word_new_line_9: 'spoil
 
   fitness
 

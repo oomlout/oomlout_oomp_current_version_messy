@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | tongue |  
-| bip_39_word_new_br10 | tongue<br>curve<br>truck<br>spot<br>add<br>receive<br>love<br>aerobic<br>social<br>copy |  
-| bip_39_word_new_br11 | tongue<br>curve<br>truck<br>spot<br>add<br>receive<br>love<br>aerobic<br>social<br>copy<br>insect |  
-| bip_39_word_new_br12 | tongue<br>curve<br>truck<br>spot<br>add<br>receive<br>love<br>aerobic<br>social<br>copy<br>insect<br>actress |  
-| bip_39_word_new_br2 | tongue<br>curve |  
-| bip_39_word_new_br3 | tongue<br>curve<br>truck |  
-| bip_39_word_new_br4 | tongue<br>curve<br>truck<br>spot |  
-| bip_39_word_new_br5 | tongue<br>curve<br>truck<br>spot<br>add |  
-| bip_39_word_new_br6 | tongue<br>curve<br>truck<br>spot<br>add<br>receive |  
-| bip_39_word_new_br7 | tongue<br>curve<br>truck<br>spot<br>add<br>receive<br>love |  
-| bip_39_word_new_br8 | tongue<br>curve<br>truck<br>spot<br>add<br>receive<br>love<br>aerobic |  
-| bip_39_word_new_br9 | tongue<br>curve<br>truck<br>spot<br>add<br>receive<br>love<br>aerobic<br>social |  
-| bip_39_word_new_line1 | tongue |  
-| bip_39_word_new_line10 | tongue
+| bip_39_word_new_br_1 | tongue |  
+| bip_39_word_new_br_10 | tongue<br>curve<br>truck<br>spot<br>add<br>receive<br>love<br>aerobic<br>social<br>copy |  
+| bip_39_word_new_br_11 | tongue<br>curve<br>truck<br>spot<br>add<br>receive<br>love<br>aerobic<br>social<br>copy<br>insect |  
+| bip_39_word_new_br_12 | tongue<br>curve<br>truck<br>spot<br>add<br>receive<br>love<br>aerobic<br>social<br>copy<br>insect<br>actress |  
+| bip_39_word_new_br_2 | tongue<br>curve |  
+| bip_39_word_new_br_3 | tongue<br>curve<br>truck |  
+| bip_39_word_new_br_4 | tongue<br>curve<br>truck<br>spot |  
+| bip_39_word_new_br_5 | tongue<br>curve<br>truck<br>spot<br>add |  
+| bip_39_word_new_br_6 | tongue<br>curve<br>truck<br>spot<br>add<br>receive |  
+| bip_39_word_new_br_7 | tongue<br>curve<br>truck<br>spot<br>add<br>receive<br>love |  
+| bip_39_word_new_br_8 | tongue<br>curve<br>truck<br>spot<br>add<br>receive<br>love<br>aerobic |  
+| bip_39_word_new_br_9 | tongue<br>curve<br>truck<br>spot<br>add<br>receive<br>love<br>aerobic<br>social |  
+| bip_39_word_new_line_1 | tongue |  
+| bip_39_word_new_line_10 | tongue
 curve
 truck
 spot
@@ -55,7 +55,7 @@ love
 aerobic
 social
 copy |  
-| bip_39_word_new_line11 | tongue
+| bip_39_word_new_line_11 | tongue
 curve
 truck
 spot
@@ -66,7 +66,7 @@ aerobic
 social
 copy
 insect |  
-| bip_39_word_new_line12 | tongue
+| bip_39_word_new_line_12 | tongue
 curve
 truck
 spot
@@ -78,34 +78,34 @@ social
 copy
 insect
 actress |  
-| bip_39_word_new_line2 | tongue
+| bip_39_word_new_line_2 | tongue
 curve |  
-| bip_39_word_new_line3 | tongue
+| bip_39_word_new_line_3 | tongue
 curve
 truck |  
-| bip_39_word_new_line4 | tongue
+| bip_39_word_new_line_4 | tongue
 curve
 truck
 spot |  
-| bip_39_word_new_line5 | tongue
+| bip_39_word_new_line_5 | tongue
 curve
 truck
 spot
 add |  
-| bip_39_word_new_line6 | tongue
+| bip_39_word_new_line_6 | tongue
 curve
 truck
 spot
 add
 receive |  
-| bip_39_word_new_line7 | tongue
+| bip_39_word_new_line_7 | tongue
 curve
 truck
 spot
 add
 receive
 love |  
-| bip_39_word_new_line8 | tongue
+| bip_39_word_new_line_8 | tongue
 curve
 truck
 spot
@@ -113,7 +113,7 @@ add
 receive
 love
 aerobic |  
-| bip_39_word_new_line9 | tongue
+| bip_39_word_new_line_9 | tongue
 curve
 truck
 spot

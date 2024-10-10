@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | boat |  
-| bip_39_word_new_br10 | boat<br>air<br>abstract<br>fold<br>protect<br>rescue<br>race<br>peanut<br>sort<br>deposit |  
-| bip_39_word_new_br11 | boat<br>air<br>abstract<br>fold<br>protect<br>rescue<br>race<br>peanut<br>sort<br>deposit<br>exchange |  
-| bip_39_word_new_br12 | boat<br>air<br>abstract<br>fold<br>protect<br>rescue<br>race<br>peanut<br>sort<br>deposit<br>exchange<br>ask |  
-| bip_39_word_new_br2 | boat<br>air |  
-| bip_39_word_new_br3 | boat<br>air<br>abstract |  
-| bip_39_word_new_br4 | boat<br>air<br>abstract<br>fold |  
-| bip_39_word_new_br5 | boat<br>air<br>abstract<br>fold<br>protect |  
-| bip_39_word_new_br6 | boat<br>air<br>abstract<br>fold<br>protect<br>rescue |  
-| bip_39_word_new_br7 | boat<br>air<br>abstract<br>fold<br>protect<br>rescue<br>race |  
-| bip_39_word_new_br8 | boat<br>air<br>abstract<br>fold<br>protect<br>rescue<br>race<br>peanut |  
-| bip_39_word_new_br9 | boat<br>air<br>abstract<br>fold<br>protect<br>rescue<br>race<br>peanut<br>sort |  
-| bip_39_word_new_line1 | boat |  
-| bip_39_word_new_line10 | boat
+| bip_39_word_new_br_1 | boat |  
+| bip_39_word_new_br_10 | boat<br>air<br>abstract<br>fold<br>protect<br>rescue<br>race<br>peanut<br>sort<br>deposit |  
+| bip_39_word_new_br_11 | boat<br>air<br>abstract<br>fold<br>protect<br>rescue<br>race<br>peanut<br>sort<br>deposit<br>exchange |  
+| bip_39_word_new_br_12 | boat<br>air<br>abstract<br>fold<br>protect<br>rescue<br>race<br>peanut<br>sort<br>deposit<br>exchange<br>ask |  
+| bip_39_word_new_br_2 | boat<br>air |  
+| bip_39_word_new_br_3 | boat<br>air<br>abstract |  
+| bip_39_word_new_br_4 | boat<br>air<br>abstract<br>fold |  
+| bip_39_word_new_br_5 | boat<br>air<br>abstract<br>fold<br>protect |  
+| bip_39_word_new_br_6 | boat<br>air<br>abstract<br>fold<br>protect<br>rescue |  
+| bip_39_word_new_br_7 | boat<br>air<br>abstract<br>fold<br>protect<br>rescue<br>race |  
+| bip_39_word_new_br_8 | boat<br>air<br>abstract<br>fold<br>protect<br>rescue<br>race<br>peanut |  
+| bip_39_word_new_br_9 | boat<br>air<br>abstract<br>fold<br>protect<br>rescue<br>race<br>peanut<br>sort |  
+| bip_39_word_new_line_1 | boat |  
+| bip_39_word_new_line_10 | boat
 air
 abstract
 fold
@@ -55,7 +55,7 @@ race
 peanut
 sort
 deposit |  
-| bip_39_word_new_line11 | boat
+| bip_39_word_new_line_11 | boat
 air
 abstract
 fold
@@ -66,7 +66,7 @@ peanut
 sort
 deposit
 exchange |  
-| bip_39_word_new_line12 | boat
+| bip_39_word_new_line_12 | boat
 air
 abstract
 fold
@@ -78,34 +78,34 @@ sort
 deposit
 exchange
 ask |  
-| bip_39_word_new_line2 | boat
+| bip_39_word_new_line_2 | boat
 air |  
-| bip_39_word_new_line3 | boat
+| bip_39_word_new_line_3 | boat
 air
 abstract |  
-| bip_39_word_new_line4 | boat
+| bip_39_word_new_line_4 | boat
 air
 abstract
 fold |  
-| bip_39_word_new_line5 | boat
+| bip_39_word_new_line_5 | boat
 air
 abstract
 fold
 protect |  
-| bip_39_word_new_line6 | boat
+| bip_39_word_new_line_6 | boat
 air
 abstract
 fold
 protect
 rescue |  
-| bip_39_word_new_line7 | boat
+| bip_39_word_new_line_7 | boat
 air
 abstract
 fold
 protect
 rescue
 race |  
-| bip_39_word_new_line8 | boat
+| bip_39_word_new_line_8 | boat
 air
 abstract
 fold
@@ -113,7 +113,7 @@ protect
 rescue
 race
 peanut |  
-| bip_39_word_new_line9 | boat
+| bip_39_word_new_line_9 | boat
 air
 abstract
 fold

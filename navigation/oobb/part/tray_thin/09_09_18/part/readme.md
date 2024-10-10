@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | loan |  
-| bip_39_word_new_br10 | loan<br>minute<br>session<br>buyer<br>typical<br>dentist<br>reject<br>picnic<br>sunset<br>come |  
-| bip_39_word_new_br11 | loan<br>minute<br>session<br>buyer<br>typical<br>dentist<br>reject<br>picnic<br>sunset<br>come<br>trigger |  
-| bip_39_word_new_br12 | loan<br>minute<br>session<br>buyer<br>typical<br>dentist<br>reject<br>picnic<br>sunset<br>come<br>trigger<br>absorb |  
-| bip_39_word_new_br2 | loan<br>minute |  
-| bip_39_word_new_br3 | loan<br>minute<br>session |  
-| bip_39_word_new_br4 | loan<br>minute<br>session<br>buyer |  
-| bip_39_word_new_br5 | loan<br>minute<br>session<br>buyer<br>typical |  
-| bip_39_word_new_br6 | loan<br>minute<br>session<br>buyer<br>typical<br>dentist |  
-| bip_39_word_new_br7 | loan<br>minute<br>session<br>buyer<br>typical<br>dentist<br>reject |  
-| bip_39_word_new_br8 | loan<br>minute<br>session<br>buyer<br>typical<br>dentist<br>reject<br>picnic |  
-| bip_39_word_new_br9 | loan<br>minute<br>session<br>buyer<br>typical<br>dentist<br>reject<br>picnic<br>sunset |  
-| bip_39_word_new_line1 | loan |  
-| bip_39_word_new_line10 | loan
+| bip_39_word_new_br_1 | loan |  
+| bip_39_word_new_br_10 | loan<br>minute<br>session<br>buyer<br>typical<br>dentist<br>reject<br>picnic<br>sunset<br>come |  
+| bip_39_word_new_br_11 | loan<br>minute<br>session<br>buyer<br>typical<br>dentist<br>reject<br>picnic<br>sunset<br>come<br>trigger |  
+| bip_39_word_new_br_12 | loan<br>minute<br>session<br>buyer<br>typical<br>dentist<br>reject<br>picnic<br>sunset<br>come<br>trigger<br>absorb |  
+| bip_39_word_new_br_2 | loan<br>minute |  
+| bip_39_word_new_br_3 | loan<br>minute<br>session |  
+| bip_39_word_new_br_4 | loan<br>minute<br>session<br>buyer |  
+| bip_39_word_new_br_5 | loan<br>minute<br>session<br>buyer<br>typical |  
+| bip_39_word_new_br_6 | loan<br>minute<br>session<br>buyer<br>typical<br>dentist |  
+| bip_39_word_new_br_7 | loan<br>minute<br>session<br>buyer<br>typical<br>dentist<br>reject |  
+| bip_39_word_new_br_8 | loan<br>minute<br>session<br>buyer<br>typical<br>dentist<br>reject<br>picnic |  
+| bip_39_word_new_br_9 | loan<br>minute<br>session<br>buyer<br>typical<br>dentist<br>reject<br>picnic<br>sunset |  
+| bip_39_word_new_line_1 | loan |  
+| bip_39_word_new_line_10 | loan
 minute
 session
 buyer
@@ -55,7 +55,7 @@ reject
 picnic
 sunset
 come |  
-| bip_39_word_new_line11 | loan
+| bip_39_word_new_line_11 | loan
 minute
 session
 buyer
@@ -66,7 +66,7 @@ picnic
 sunset
 come
 trigger |  
-| bip_39_word_new_line12 | loan
+| bip_39_word_new_line_12 | loan
 minute
 session
 buyer
@@ -78,34 +78,34 @@ sunset
 come
 trigger
 absorb |  
-| bip_39_word_new_line2 | loan
+| bip_39_word_new_line_2 | loan
 minute |  
-| bip_39_word_new_line3 | loan
+| bip_39_word_new_line_3 | loan
 minute
 session |  
-| bip_39_word_new_line4 | loan
+| bip_39_word_new_line_4 | loan
 minute
 session
 buyer |  
-| bip_39_word_new_line5 | loan
+| bip_39_word_new_line_5 | loan
 minute
 session
 buyer
 typical |  
-| bip_39_word_new_line6 | loan
+| bip_39_word_new_line_6 | loan
 minute
 session
 buyer
 typical
 dentist |  
-| bip_39_word_new_line7 | loan
+| bip_39_word_new_line_7 | loan
 minute
 session
 buyer
 typical
 dentist
 reject |  
-| bip_39_word_new_line8 | loan
+| bip_39_word_new_line_8 | loan
 minute
 session
 buyer
@@ -113,7 +113,7 @@ typical
 dentist
 reject
 picnic |  
-| bip_39_word_new_line9 | loan
+| bip_39_word_new_line_9 | loan
 minute
 session
 buyer

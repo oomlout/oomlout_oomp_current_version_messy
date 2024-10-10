@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | problem |  
-| bip_39_word_new_br10 | problem<br>box<br>illness<br>wide<br>pill<br>side<br>gym<br>wine<br>legal<br>earn |  
-| bip_39_word_new_br11 | problem<br>box<br>illness<br>wide<br>pill<br>side<br>gym<br>wine<br>legal<br>earn<br>lock |  
-| bip_39_word_new_br12 | problem<br>box<br>illness<br>wide<br>pill<br>side<br>gym<br>wine<br>legal<br>earn<br>lock<br>arrive |  
-| bip_39_word_new_br2 | problem<br>box |  
-| bip_39_word_new_br3 | problem<br>box<br>illness |  
-| bip_39_word_new_br4 | problem<br>box<br>illness<br>wide |  
-| bip_39_word_new_br5 | problem<br>box<br>illness<br>wide<br>pill |  
-| bip_39_word_new_br6 | problem<br>box<br>illness<br>wide<br>pill<br>side |  
-| bip_39_word_new_br7 | problem<br>box<br>illness<br>wide<br>pill<br>side<br>gym |  
-| bip_39_word_new_br8 | problem<br>box<br>illness<br>wide<br>pill<br>side<br>gym<br>wine |  
-| bip_39_word_new_br9 | problem<br>box<br>illness<br>wide<br>pill<br>side<br>gym<br>wine<br>legal |  
-| bip_39_word_new_line1 | problem |  
-| bip_39_word_new_line10 | problem
+| bip_39_word_new_br_1 | problem |  
+| bip_39_word_new_br_10 | problem<br>box<br>illness<br>wide<br>pill<br>side<br>gym<br>wine<br>legal<br>earn |  
+| bip_39_word_new_br_11 | problem<br>box<br>illness<br>wide<br>pill<br>side<br>gym<br>wine<br>legal<br>earn<br>lock |  
+| bip_39_word_new_br_12 | problem<br>box<br>illness<br>wide<br>pill<br>side<br>gym<br>wine<br>legal<br>earn<br>lock<br>arrive |  
+| bip_39_word_new_br_2 | problem<br>box |  
+| bip_39_word_new_br_3 | problem<br>box<br>illness |  
+| bip_39_word_new_br_4 | problem<br>box<br>illness<br>wide |  
+| bip_39_word_new_br_5 | problem<br>box<br>illness<br>wide<br>pill |  
+| bip_39_word_new_br_6 | problem<br>box<br>illness<br>wide<br>pill<br>side |  
+| bip_39_word_new_br_7 | problem<br>box<br>illness<br>wide<br>pill<br>side<br>gym |  
+| bip_39_word_new_br_8 | problem<br>box<br>illness<br>wide<br>pill<br>side<br>gym<br>wine |  
+| bip_39_word_new_br_9 | problem<br>box<br>illness<br>wide<br>pill<br>side<br>gym<br>wine<br>legal |  
+| bip_39_word_new_line_1 | problem |  
+| bip_39_word_new_line_10 | problem
 box
 illness
 wide
@@ -55,7 +55,7 @@ gym
 wine
 legal
 earn |  
-| bip_39_word_new_line11 | problem
+| bip_39_word_new_line_11 | problem
 box
 illness
 wide
@@ -66,7 +66,7 @@ wine
 legal
 earn
 lock |  
-| bip_39_word_new_line12 | problem
+| bip_39_word_new_line_12 | problem
 box
 illness
 wide
@@ -78,34 +78,34 @@ legal
 earn
 lock
 arrive |  
-| bip_39_word_new_line2 | problem
+| bip_39_word_new_line_2 | problem
 box |  
-| bip_39_word_new_line3 | problem
+| bip_39_word_new_line_3 | problem
 box
 illness |  
-| bip_39_word_new_line4 | problem
+| bip_39_word_new_line_4 | problem
 box
 illness
 wide |  
-| bip_39_word_new_line5 | problem
+| bip_39_word_new_line_5 | problem
 box
 illness
 wide
 pill |  
-| bip_39_word_new_line6 | problem
+| bip_39_word_new_line_6 | problem
 box
 illness
 wide
 pill
 side |  
-| bip_39_word_new_line7 | problem
+| bip_39_word_new_line_7 | problem
 box
 illness
 wide
 pill
 side
 gym |  
-| bip_39_word_new_line8 | problem
+| bip_39_word_new_line_8 | problem
 box
 illness
 wide
@@ -113,7 +113,7 @@ pill
 side
 gym
 wine |  
-| bip_39_word_new_line9 | problem
+| bip_39_word_new_line_9 | problem
 box
 illness
 wide

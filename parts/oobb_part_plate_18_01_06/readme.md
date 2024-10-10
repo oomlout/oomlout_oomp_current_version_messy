@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gravity |  
-| bip_39_word_new_br10 | gravity<br>inmate<br>pulp<br>wrap<br>hard<br>mutual<br>board<br>dwarf<br>nominee<br>flush |  
-| bip_39_word_new_br11 | gravity<br>inmate<br>pulp<br>wrap<br>hard<br>mutual<br>board<br>dwarf<br>nominee<br>flush<br>expect |  
-| bip_39_word_new_br12 | gravity<br>inmate<br>pulp<br>wrap<br>hard<br>mutual<br>board<br>dwarf<br>nominee<br>flush<br>expect<br>arctic |  
-| bip_39_word_new_br2 | gravity<br>inmate |  
-| bip_39_word_new_br3 | gravity<br>inmate<br>pulp |  
-| bip_39_word_new_br4 | gravity<br>inmate<br>pulp<br>wrap |  
-| bip_39_word_new_br5 | gravity<br>inmate<br>pulp<br>wrap<br>hard |  
-| bip_39_word_new_br6 | gravity<br>inmate<br>pulp<br>wrap<br>hard<br>mutual |  
-| bip_39_word_new_br7 | gravity<br>inmate<br>pulp<br>wrap<br>hard<br>mutual<br>board |  
-| bip_39_word_new_br8 | gravity<br>inmate<br>pulp<br>wrap<br>hard<br>mutual<br>board<br>dwarf |  
-| bip_39_word_new_br9 | gravity<br>inmate<br>pulp<br>wrap<br>hard<br>mutual<br>board<br>dwarf<br>nominee |  
-| bip_39_word_new_line1 | gravity |  
-| bip_39_word_new_line10 | gravity
+| bip_39_word_new_br_1 | gravity |  
+| bip_39_word_new_br_10 | gravity<br>inmate<br>pulp<br>wrap<br>hard<br>mutual<br>board<br>dwarf<br>nominee<br>flush |  
+| bip_39_word_new_br_11 | gravity<br>inmate<br>pulp<br>wrap<br>hard<br>mutual<br>board<br>dwarf<br>nominee<br>flush<br>expect |  
+| bip_39_word_new_br_12 | gravity<br>inmate<br>pulp<br>wrap<br>hard<br>mutual<br>board<br>dwarf<br>nominee<br>flush<br>expect<br>arctic |  
+| bip_39_word_new_br_2 | gravity<br>inmate |  
+| bip_39_word_new_br_3 | gravity<br>inmate<br>pulp |  
+| bip_39_word_new_br_4 | gravity<br>inmate<br>pulp<br>wrap |  
+| bip_39_word_new_br_5 | gravity<br>inmate<br>pulp<br>wrap<br>hard |  
+| bip_39_word_new_br_6 | gravity<br>inmate<br>pulp<br>wrap<br>hard<br>mutual |  
+| bip_39_word_new_br_7 | gravity<br>inmate<br>pulp<br>wrap<br>hard<br>mutual<br>board |  
+| bip_39_word_new_br_8 | gravity<br>inmate<br>pulp<br>wrap<br>hard<br>mutual<br>board<br>dwarf |  
+| bip_39_word_new_br_9 | gravity<br>inmate<br>pulp<br>wrap<br>hard<br>mutual<br>board<br>dwarf<br>nominee |  
+| bip_39_word_new_line_1 | gravity |  
+| bip_39_word_new_line_10 | gravity
 inmate
 pulp
 wrap
@@ -55,7 +55,7 @@ board
 dwarf
 nominee
 flush |  
-| bip_39_word_new_line11 | gravity
+| bip_39_word_new_line_11 | gravity
 inmate
 pulp
 wrap
@@ -66,7 +66,7 @@ dwarf
 nominee
 flush
 expect |  
-| bip_39_word_new_line12 | gravity
+| bip_39_word_new_line_12 | gravity
 inmate
 pulp
 wrap
@@ -78,34 +78,34 @@ nominee
 flush
 expect
 arctic |  
-| bip_39_word_new_line2 | gravity
+| bip_39_word_new_line_2 | gravity
 inmate |  
-| bip_39_word_new_line3 | gravity
+| bip_39_word_new_line_3 | gravity
 inmate
 pulp |  
-| bip_39_word_new_line4 | gravity
+| bip_39_word_new_line_4 | gravity
 inmate
 pulp
 wrap |  
-| bip_39_word_new_line5 | gravity
+| bip_39_word_new_line_5 | gravity
 inmate
 pulp
 wrap
 hard |  
-| bip_39_word_new_line6 | gravity
+| bip_39_word_new_line_6 | gravity
 inmate
 pulp
 wrap
 hard
 mutual |  
-| bip_39_word_new_line7 | gravity
+| bip_39_word_new_line_7 | gravity
 inmate
 pulp
 wrap
 hard
 mutual
 board |  
-| bip_39_word_new_line8 | gravity
+| bip_39_word_new_line_8 | gravity
 inmate
 pulp
 wrap
@@ -113,7 +113,7 @@ hard
 mutual
 board
 dwarf |  
-| bip_39_word_new_line9 | gravity
+| bip_39_word_new_line_9 | gravity
 inmate
 pulp
 wrap

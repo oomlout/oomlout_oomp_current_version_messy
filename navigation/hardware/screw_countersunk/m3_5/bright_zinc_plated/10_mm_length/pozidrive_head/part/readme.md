@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | aisle |  
-| bip_39_word_new_br10 | aisle<br>slot<br>bullet<br>push<br>sketch<br>town<br>solid<br>pretty<br>public<br>turtle |  
-| bip_39_word_new_br11 | aisle<br>slot<br>bullet<br>push<br>sketch<br>town<br>solid<br>pretty<br>public<br>turtle<br>paper |  
-| bip_39_word_new_br12 | aisle<br>slot<br>bullet<br>push<br>sketch<br>town<br>solid<br>pretty<br>public<br>turtle<br>paper<br>act |  
-| bip_39_word_new_br2 | aisle<br>slot |  
-| bip_39_word_new_br3 | aisle<br>slot<br>bullet |  
-| bip_39_word_new_br4 | aisle<br>slot<br>bullet<br>push |  
-| bip_39_word_new_br5 | aisle<br>slot<br>bullet<br>push<br>sketch |  
-| bip_39_word_new_br6 | aisle<br>slot<br>bullet<br>push<br>sketch<br>town |  
-| bip_39_word_new_br7 | aisle<br>slot<br>bullet<br>push<br>sketch<br>town<br>solid |  
-| bip_39_word_new_br8 | aisle<br>slot<br>bullet<br>push<br>sketch<br>town<br>solid<br>pretty |  
-| bip_39_word_new_br9 | aisle<br>slot<br>bullet<br>push<br>sketch<br>town<br>solid<br>pretty<br>public |  
-| bip_39_word_new_line1 | aisle |  
-| bip_39_word_new_line10 | aisle
+| bip_39_word_new_br_1 | aisle |  
+| bip_39_word_new_br_10 | aisle<br>slot<br>bullet<br>push<br>sketch<br>town<br>solid<br>pretty<br>public<br>turtle |  
+| bip_39_word_new_br_11 | aisle<br>slot<br>bullet<br>push<br>sketch<br>town<br>solid<br>pretty<br>public<br>turtle<br>paper |  
+| bip_39_word_new_br_12 | aisle<br>slot<br>bullet<br>push<br>sketch<br>town<br>solid<br>pretty<br>public<br>turtle<br>paper<br>act |  
+| bip_39_word_new_br_2 | aisle<br>slot |  
+| bip_39_word_new_br_3 | aisle<br>slot<br>bullet |  
+| bip_39_word_new_br_4 | aisle<br>slot<br>bullet<br>push |  
+| bip_39_word_new_br_5 | aisle<br>slot<br>bullet<br>push<br>sketch |  
+| bip_39_word_new_br_6 | aisle<br>slot<br>bullet<br>push<br>sketch<br>town |  
+| bip_39_word_new_br_7 | aisle<br>slot<br>bullet<br>push<br>sketch<br>town<br>solid |  
+| bip_39_word_new_br_8 | aisle<br>slot<br>bullet<br>push<br>sketch<br>town<br>solid<br>pretty |  
+| bip_39_word_new_br_9 | aisle<br>slot<br>bullet<br>push<br>sketch<br>town<br>solid<br>pretty<br>public |  
+| bip_39_word_new_line_1 | aisle |  
+| bip_39_word_new_line_10 | aisle
 slot
 bullet
 push
@@ -55,7 +55,7 @@ solid
 pretty
 public
 turtle |  
-| bip_39_word_new_line11 | aisle
+| bip_39_word_new_line_11 | aisle
 slot
 bullet
 push
@@ -66,7 +66,7 @@ pretty
 public
 turtle
 paper |  
-| bip_39_word_new_line12 | aisle
+| bip_39_word_new_line_12 | aisle
 slot
 bullet
 push
@@ -78,34 +78,34 @@ public
 turtle
 paper
 act |  
-| bip_39_word_new_line2 | aisle
+| bip_39_word_new_line_2 | aisle
 slot |  
-| bip_39_word_new_line3 | aisle
+| bip_39_word_new_line_3 | aisle
 slot
 bullet |  
-| bip_39_word_new_line4 | aisle
+| bip_39_word_new_line_4 | aisle
 slot
 bullet
 push |  
-| bip_39_word_new_line5 | aisle
+| bip_39_word_new_line_5 | aisle
 slot
 bullet
 push
 sketch |  
-| bip_39_word_new_line6 | aisle
+| bip_39_word_new_line_6 | aisle
 slot
 bullet
 push
 sketch
 town |  
-| bip_39_word_new_line7 | aisle
+| bip_39_word_new_line_7 | aisle
 slot
 bullet
 push
 sketch
 town
 solid |  
-| bip_39_word_new_line8 | aisle
+| bip_39_word_new_line_8 | aisle
 slot
 bullet
 push
@@ -113,7 +113,7 @@ sketch
 town
 solid
 pretty |  
-| bip_39_word_new_line9 | aisle
+| bip_39_word_new_line_9 | aisle
 slot
 bullet
 push

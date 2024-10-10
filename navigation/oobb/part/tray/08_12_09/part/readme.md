@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | border |  
-| bip_39_word_new_br10 | border<br>double<br>soon<br>magnet<br>marble<br>lumber<br>assault<br>saddle<br>bullet<br>topic |  
-| bip_39_word_new_br11 | border<br>double<br>soon<br>magnet<br>marble<br>lumber<br>assault<br>saddle<br>bullet<br>topic<br>mix |  
-| bip_39_word_new_br12 | border<br>double<br>soon<br>magnet<br>marble<br>lumber<br>assault<br>saddle<br>bullet<br>topic<br>mix<br>anchor |  
-| bip_39_word_new_br2 | border<br>double |  
-| bip_39_word_new_br3 | border<br>double<br>soon |  
-| bip_39_word_new_br4 | border<br>double<br>soon<br>magnet |  
-| bip_39_word_new_br5 | border<br>double<br>soon<br>magnet<br>marble |  
-| bip_39_word_new_br6 | border<br>double<br>soon<br>magnet<br>marble<br>lumber |  
-| bip_39_word_new_br7 | border<br>double<br>soon<br>magnet<br>marble<br>lumber<br>assault |  
-| bip_39_word_new_br8 | border<br>double<br>soon<br>magnet<br>marble<br>lumber<br>assault<br>saddle |  
-| bip_39_word_new_br9 | border<br>double<br>soon<br>magnet<br>marble<br>lumber<br>assault<br>saddle<br>bullet |  
-| bip_39_word_new_line1 | border |  
-| bip_39_word_new_line10 | border
+| bip_39_word_new_br_1 | border |  
+| bip_39_word_new_br_10 | border<br>double<br>soon<br>magnet<br>marble<br>lumber<br>assault<br>saddle<br>bullet<br>topic |  
+| bip_39_word_new_br_11 | border<br>double<br>soon<br>magnet<br>marble<br>lumber<br>assault<br>saddle<br>bullet<br>topic<br>mix |  
+| bip_39_word_new_br_12 | border<br>double<br>soon<br>magnet<br>marble<br>lumber<br>assault<br>saddle<br>bullet<br>topic<br>mix<br>anchor |  
+| bip_39_word_new_br_2 | border<br>double |  
+| bip_39_word_new_br_3 | border<br>double<br>soon |  
+| bip_39_word_new_br_4 | border<br>double<br>soon<br>magnet |  
+| bip_39_word_new_br_5 | border<br>double<br>soon<br>magnet<br>marble |  
+| bip_39_word_new_br_6 | border<br>double<br>soon<br>magnet<br>marble<br>lumber |  
+| bip_39_word_new_br_7 | border<br>double<br>soon<br>magnet<br>marble<br>lumber<br>assault |  
+| bip_39_word_new_br_8 | border<br>double<br>soon<br>magnet<br>marble<br>lumber<br>assault<br>saddle |  
+| bip_39_word_new_br_9 | border<br>double<br>soon<br>magnet<br>marble<br>lumber<br>assault<br>saddle<br>bullet |  
+| bip_39_word_new_line_1 | border |  
+| bip_39_word_new_line_10 | border
 double
 soon
 magnet
@@ -55,7 +55,7 @@ assault
 saddle
 bullet
 topic |  
-| bip_39_word_new_line11 | border
+| bip_39_word_new_line_11 | border
 double
 soon
 magnet
@@ -66,7 +66,7 @@ saddle
 bullet
 topic
 mix |  
-| bip_39_word_new_line12 | border
+| bip_39_word_new_line_12 | border
 double
 soon
 magnet
@@ -78,34 +78,34 @@ bullet
 topic
 mix
 anchor |  
-| bip_39_word_new_line2 | border
+| bip_39_word_new_line_2 | border
 double |  
-| bip_39_word_new_line3 | border
+| bip_39_word_new_line_3 | border
 double
 soon |  
-| bip_39_word_new_line4 | border
+| bip_39_word_new_line_4 | border
 double
 soon
 magnet |  
-| bip_39_word_new_line5 | border
+| bip_39_word_new_line_5 | border
 double
 soon
 magnet
 marble |  
-| bip_39_word_new_line6 | border
+| bip_39_word_new_line_6 | border
 double
 soon
 magnet
 marble
 lumber |  
-| bip_39_word_new_line7 | border
+| bip_39_word_new_line_7 | border
 double
 soon
 magnet
 marble
 lumber
 assault |  
-| bip_39_word_new_line8 | border
+| bip_39_word_new_line_8 | border
 double
 soon
 magnet
@@ -113,7 +113,7 @@ marble
 lumber
 assault
 saddle |  
-| bip_39_word_new_line9 | border
+| bip_39_word_new_line_9 | border
 double
 soon
 magnet

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | transfer |  
-| bip_39_word_new_br10 | transfer<br>limit<br>surge<br>level<br>addict<br>approve<br>dentist<br>sign<br>shift<br>laundry |  
-| bip_39_word_new_br11 | transfer<br>limit<br>surge<br>level<br>addict<br>approve<br>dentist<br>sign<br>shift<br>laundry<br>wet |  
-| bip_39_word_new_br12 | transfer<br>limit<br>surge<br>level<br>addict<br>approve<br>dentist<br>sign<br>shift<br>laundry<br>wet<br>author |  
-| bip_39_word_new_br2 | transfer<br>limit |  
-| bip_39_word_new_br3 | transfer<br>limit<br>surge |  
-| bip_39_word_new_br4 | transfer<br>limit<br>surge<br>level |  
-| bip_39_word_new_br5 | transfer<br>limit<br>surge<br>level<br>addict |  
-| bip_39_word_new_br6 | transfer<br>limit<br>surge<br>level<br>addict<br>approve |  
-| bip_39_word_new_br7 | transfer<br>limit<br>surge<br>level<br>addict<br>approve<br>dentist |  
-| bip_39_word_new_br8 | transfer<br>limit<br>surge<br>level<br>addict<br>approve<br>dentist<br>sign |  
-| bip_39_word_new_br9 | transfer<br>limit<br>surge<br>level<br>addict<br>approve<br>dentist<br>sign<br>shift |  
-| bip_39_word_new_line1 | transfer |  
-| bip_39_word_new_line10 | transfer
+| bip_39_word_new_br_1 | transfer |  
+| bip_39_word_new_br_10 | transfer<br>limit<br>surge<br>level<br>addict<br>approve<br>dentist<br>sign<br>shift<br>laundry |  
+| bip_39_word_new_br_11 | transfer<br>limit<br>surge<br>level<br>addict<br>approve<br>dentist<br>sign<br>shift<br>laundry<br>wet |  
+| bip_39_word_new_br_12 | transfer<br>limit<br>surge<br>level<br>addict<br>approve<br>dentist<br>sign<br>shift<br>laundry<br>wet<br>author |  
+| bip_39_word_new_br_2 | transfer<br>limit |  
+| bip_39_word_new_br_3 | transfer<br>limit<br>surge |  
+| bip_39_word_new_br_4 | transfer<br>limit<br>surge<br>level |  
+| bip_39_word_new_br_5 | transfer<br>limit<br>surge<br>level<br>addict |  
+| bip_39_word_new_br_6 | transfer<br>limit<br>surge<br>level<br>addict<br>approve |  
+| bip_39_word_new_br_7 | transfer<br>limit<br>surge<br>level<br>addict<br>approve<br>dentist |  
+| bip_39_word_new_br_8 | transfer<br>limit<br>surge<br>level<br>addict<br>approve<br>dentist<br>sign |  
+| bip_39_word_new_br_9 | transfer<br>limit<br>surge<br>level<br>addict<br>approve<br>dentist<br>sign<br>shift |  
+| bip_39_word_new_line_1 | transfer |  
+| bip_39_word_new_line_10 | transfer
 limit
 surge
 level
@@ -55,7 +55,7 @@ dentist
 sign
 shift
 laundry |  
-| bip_39_word_new_line11 | transfer
+| bip_39_word_new_line_11 | transfer
 limit
 surge
 level
@@ -66,7 +66,7 @@ sign
 shift
 laundry
 wet |  
-| bip_39_word_new_line12 | transfer
+| bip_39_word_new_line_12 | transfer
 limit
 surge
 level
@@ -78,34 +78,34 @@ shift
 laundry
 wet
 author |  
-| bip_39_word_new_line2 | transfer
+| bip_39_word_new_line_2 | transfer
 limit |  
-| bip_39_word_new_line3 | transfer
+| bip_39_word_new_line_3 | transfer
 limit
 surge |  
-| bip_39_word_new_line4 | transfer
+| bip_39_word_new_line_4 | transfer
 limit
 surge
 level |  
-| bip_39_word_new_line5 | transfer
+| bip_39_word_new_line_5 | transfer
 limit
 surge
 level
 addict |  
-| bip_39_word_new_line6 | transfer
+| bip_39_word_new_line_6 | transfer
 limit
 surge
 level
 addict
 approve |  
-| bip_39_word_new_line7 | transfer
+| bip_39_word_new_line_7 | transfer
 limit
 surge
 level
 addict
 approve
 dentist |  
-| bip_39_word_new_line8 | transfer
+| bip_39_word_new_line_8 | transfer
 limit
 surge
 level
@@ -113,7 +113,7 @@ addict
 approve
 dentist
 sign |  
-| bip_39_word_new_line9 | transfer
+| bip_39_word_new_line_9 | transfer
 limit
 surge
 level

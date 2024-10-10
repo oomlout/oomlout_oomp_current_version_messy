@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | light |  
-| bip_39_word_new_br10 | light<br>enable<br>empty<br>copy<br>spread<br>club<br>lawsuit<br>rail<br>host<br>main |  
-| bip_39_word_new_br11 | light<br>enable<br>empty<br>copy<br>spread<br>club<br>lawsuit<br>rail<br>host<br>main<br>mixed |  
-| bip_39_word_new_br12 | light<br>enable<br>empty<br>copy<br>spread<br>club<br>lawsuit<br>rail<br>host<br>main<br>mixed<br>antenna |  
-| bip_39_word_new_br2 | light<br>enable |  
-| bip_39_word_new_br3 | light<br>enable<br>empty |  
-| bip_39_word_new_br4 | light<br>enable<br>empty<br>copy |  
-| bip_39_word_new_br5 | light<br>enable<br>empty<br>copy<br>spread |  
-| bip_39_word_new_br6 | light<br>enable<br>empty<br>copy<br>spread<br>club |  
-| bip_39_word_new_br7 | light<br>enable<br>empty<br>copy<br>spread<br>club<br>lawsuit |  
-| bip_39_word_new_br8 | light<br>enable<br>empty<br>copy<br>spread<br>club<br>lawsuit<br>rail |  
-| bip_39_word_new_br9 | light<br>enable<br>empty<br>copy<br>spread<br>club<br>lawsuit<br>rail<br>host |  
-| bip_39_word_new_line1 | light |  
-| bip_39_word_new_line10 | light
+| bip_39_word_new_br_1 | light |  
+| bip_39_word_new_br_10 | light<br>enable<br>empty<br>copy<br>spread<br>club<br>lawsuit<br>rail<br>host<br>main |  
+| bip_39_word_new_br_11 | light<br>enable<br>empty<br>copy<br>spread<br>club<br>lawsuit<br>rail<br>host<br>main<br>mixed |  
+| bip_39_word_new_br_12 | light<br>enable<br>empty<br>copy<br>spread<br>club<br>lawsuit<br>rail<br>host<br>main<br>mixed<br>antenna |  
+| bip_39_word_new_br_2 | light<br>enable |  
+| bip_39_word_new_br_3 | light<br>enable<br>empty |  
+| bip_39_word_new_br_4 | light<br>enable<br>empty<br>copy |  
+| bip_39_word_new_br_5 | light<br>enable<br>empty<br>copy<br>spread |  
+| bip_39_word_new_br_6 | light<br>enable<br>empty<br>copy<br>spread<br>club |  
+| bip_39_word_new_br_7 | light<br>enable<br>empty<br>copy<br>spread<br>club<br>lawsuit |  
+| bip_39_word_new_br_8 | light<br>enable<br>empty<br>copy<br>spread<br>club<br>lawsuit<br>rail |  
+| bip_39_word_new_br_9 | light<br>enable<br>empty<br>copy<br>spread<br>club<br>lawsuit<br>rail<br>host |  
+| bip_39_word_new_line_1 | light |  
+| bip_39_word_new_line_10 | light
 enable
 empty
 copy
@@ -55,7 +55,7 @@ lawsuit
 rail
 host
 main |  
-| bip_39_word_new_line11 | light
+| bip_39_word_new_line_11 | light
 enable
 empty
 copy
@@ -66,7 +66,7 @@ rail
 host
 main
 mixed |  
-| bip_39_word_new_line12 | light
+| bip_39_word_new_line_12 | light
 enable
 empty
 copy
@@ -78,34 +78,34 @@ host
 main
 mixed
 antenna |  
-| bip_39_word_new_line2 | light
+| bip_39_word_new_line_2 | light
 enable |  
-| bip_39_word_new_line3 | light
+| bip_39_word_new_line_3 | light
 enable
 empty |  
-| bip_39_word_new_line4 | light
+| bip_39_word_new_line_4 | light
 enable
 empty
 copy |  
-| bip_39_word_new_line5 | light
+| bip_39_word_new_line_5 | light
 enable
 empty
 copy
 spread |  
-| bip_39_word_new_line6 | light
+| bip_39_word_new_line_6 | light
 enable
 empty
 copy
 spread
 club |  
-| bip_39_word_new_line7 | light
+| bip_39_word_new_line_7 | light
 enable
 empty
 copy
 spread
 club
 lawsuit |  
-| bip_39_word_new_line8 | light
+| bip_39_word_new_line_8 | light
 enable
 empty
 copy
@@ -113,7 +113,7 @@ spread
 club
 lawsuit
 rail |  
-| bip_39_word_new_line9 | light
+| bip_39_word_new_line_9 | light
 enable
 empty
 copy

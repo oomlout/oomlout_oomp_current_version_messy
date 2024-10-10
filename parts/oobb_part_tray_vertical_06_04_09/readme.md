@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | elder |  
-| bip_39_word_new_br10 | elder<br>size<br>just<br>expose<br>position<br>erase<br>welcome<br>soon<br>horn<br>label |  
-| bip_39_word_new_br11 | elder<br>size<br>just<br>expose<br>position<br>erase<br>welcome<br>soon<br>horn<br>label<br>ride |  
-| bip_39_word_new_br12 | elder<br>size<br>just<br>expose<br>position<br>erase<br>welcome<br>soon<br>horn<br>label<br>ride<br>album |  
-| bip_39_word_new_br2 | elder<br>size |  
-| bip_39_word_new_br3 | elder<br>size<br>just |  
-| bip_39_word_new_br4 | elder<br>size<br>just<br>expose |  
-| bip_39_word_new_br5 | elder<br>size<br>just<br>expose<br>position |  
-| bip_39_word_new_br6 | elder<br>size<br>just<br>expose<br>position<br>erase |  
-| bip_39_word_new_br7 | elder<br>size<br>just<br>expose<br>position<br>erase<br>welcome |  
-| bip_39_word_new_br8 | elder<br>size<br>just<br>expose<br>position<br>erase<br>welcome<br>soon |  
-| bip_39_word_new_br9 | elder<br>size<br>just<br>expose<br>position<br>erase<br>welcome<br>soon<br>horn |  
-| bip_39_word_new_line1 | elder |  
-| bip_39_word_new_line10 | elder
+| bip_39_word_new_br_1 | elder |  
+| bip_39_word_new_br_10 | elder<br>size<br>just<br>expose<br>position<br>erase<br>welcome<br>soon<br>horn<br>label |  
+| bip_39_word_new_br_11 | elder<br>size<br>just<br>expose<br>position<br>erase<br>welcome<br>soon<br>horn<br>label<br>ride |  
+| bip_39_word_new_br_12 | elder<br>size<br>just<br>expose<br>position<br>erase<br>welcome<br>soon<br>horn<br>label<br>ride<br>album |  
+| bip_39_word_new_br_2 | elder<br>size |  
+| bip_39_word_new_br_3 | elder<br>size<br>just |  
+| bip_39_word_new_br_4 | elder<br>size<br>just<br>expose |  
+| bip_39_word_new_br_5 | elder<br>size<br>just<br>expose<br>position |  
+| bip_39_word_new_br_6 | elder<br>size<br>just<br>expose<br>position<br>erase |  
+| bip_39_word_new_br_7 | elder<br>size<br>just<br>expose<br>position<br>erase<br>welcome |  
+| bip_39_word_new_br_8 | elder<br>size<br>just<br>expose<br>position<br>erase<br>welcome<br>soon |  
+| bip_39_word_new_br_9 | elder<br>size<br>just<br>expose<br>position<br>erase<br>welcome<br>soon<br>horn |  
+| bip_39_word_new_line_1 | elder |  
+| bip_39_word_new_line_10 | elder
 size
 just
 expose
@@ -55,7 +55,7 @@ welcome
 soon
 horn
 label |  
-| bip_39_word_new_line11 | elder
+| bip_39_word_new_line_11 | elder
 size
 just
 expose
@@ -66,7 +66,7 @@ soon
 horn
 label
 ride |  
-| bip_39_word_new_line12 | elder
+| bip_39_word_new_line_12 | elder
 size
 just
 expose
@@ -78,34 +78,34 @@ horn
 label
 ride
 album |  
-| bip_39_word_new_line2 | elder
+| bip_39_word_new_line_2 | elder
 size |  
-| bip_39_word_new_line3 | elder
+| bip_39_word_new_line_3 | elder
 size
 just |  
-| bip_39_word_new_line4 | elder
+| bip_39_word_new_line_4 | elder
 size
 just
 expose |  
-| bip_39_word_new_line5 | elder
+| bip_39_word_new_line_5 | elder
 size
 just
 expose
 position |  
-| bip_39_word_new_line6 | elder
+| bip_39_word_new_line_6 | elder
 size
 just
 expose
 position
 erase |  
-| bip_39_word_new_line7 | elder
+| bip_39_word_new_line_7 | elder
 size
 just
 expose
 position
 erase
 welcome |  
-| bip_39_word_new_line8 | elder
+| bip_39_word_new_line_8 | elder
 size
 just
 expose
@@ -113,7 +113,7 @@ position
 erase
 welcome
 soon |  
-| bip_39_word_new_line9 | elder
+| bip_39_word_new_line_9 | elder
 size
 just
 expose

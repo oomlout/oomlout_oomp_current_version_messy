@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mobile |  
-| bip_39_word_new_br10 | mobile<br>salt<br>spot<br>sad<br>click<br>funny<br>trap<br>stuff<br>razor<br>aerobic |  
-| bip_39_word_new_br11 | mobile<br>salt<br>spot<br>sad<br>click<br>funny<br>trap<br>stuff<br>razor<br>aerobic<br>explain |  
-| bip_39_word_new_br12 | mobile<br>salt<br>spot<br>sad<br>click<br>funny<br>trap<br>stuff<br>razor<br>aerobic<br>explain<br>alter |  
-| bip_39_word_new_br2 | mobile<br>salt |  
-| bip_39_word_new_br3 | mobile<br>salt<br>spot |  
-| bip_39_word_new_br4 | mobile<br>salt<br>spot<br>sad |  
-| bip_39_word_new_br5 | mobile<br>salt<br>spot<br>sad<br>click |  
-| bip_39_word_new_br6 | mobile<br>salt<br>spot<br>sad<br>click<br>funny |  
-| bip_39_word_new_br7 | mobile<br>salt<br>spot<br>sad<br>click<br>funny<br>trap |  
-| bip_39_word_new_br8 | mobile<br>salt<br>spot<br>sad<br>click<br>funny<br>trap<br>stuff |  
-| bip_39_word_new_br9 | mobile<br>salt<br>spot<br>sad<br>click<br>funny<br>trap<br>stuff<br>razor |  
-| bip_39_word_new_line1 | mobile |  
-| bip_39_word_new_line10 | mobile
+| bip_39_word_new_br_1 | mobile |  
+| bip_39_word_new_br_10 | mobile<br>salt<br>spot<br>sad<br>click<br>funny<br>trap<br>stuff<br>razor<br>aerobic |  
+| bip_39_word_new_br_11 | mobile<br>salt<br>spot<br>sad<br>click<br>funny<br>trap<br>stuff<br>razor<br>aerobic<br>explain |  
+| bip_39_word_new_br_12 | mobile<br>salt<br>spot<br>sad<br>click<br>funny<br>trap<br>stuff<br>razor<br>aerobic<br>explain<br>alter |  
+| bip_39_word_new_br_2 | mobile<br>salt |  
+| bip_39_word_new_br_3 | mobile<br>salt<br>spot |  
+| bip_39_word_new_br_4 | mobile<br>salt<br>spot<br>sad |  
+| bip_39_word_new_br_5 | mobile<br>salt<br>spot<br>sad<br>click |  
+| bip_39_word_new_br_6 | mobile<br>salt<br>spot<br>sad<br>click<br>funny |  
+| bip_39_word_new_br_7 | mobile<br>salt<br>spot<br>sad<br>click<br>funny<br>trap |  
+| bip_39_word_new_br_8 | mobile<br>salt<br>spot<br>sad<br>click<br>funny<br>trap<br>stuff |  
+| bip_39_word_new_br_9 | mobile<br>salt<br>spot<br>sad<br>click<br>funny<br>trap<br>stuff<br>razor |  
+| bip_39_word_new_line_1 | mobile |  
+| bip_39_word_new_line_10 | mobile
 salt
 spot
 sad
@@ -55,7 +55,7 @@ trap
 stuff
 razor
 aerobic |  
-| bip_39_word_new_line11 | mobile
+| bip_39_word_new_line_11 | mobile
 salt
 spot
 sad
@@ -66,7 +66,7 @@ stuff
 razor
 aerobic
 explain |  
-| bip_39_word_new_line12 | mobile
+| bip_39_word_new_line_12 | mobile
 salt
 spot
 sad
@@ -78,34 +78,34 @@ razor
 aerobic
 explain
 alter |  
-| bip_39_word_new_line2 | mobile
+| bip_39_word_new_line_2 | mobile
 salt |  
-| bip_39_word_new_line3 | mobile
+| bip_39_word_new_line_3 | mobile
 salt
 spot |  
-| bip_39_word_new_line4 | mobile
+| bip_39_word_new_line_4 | mobile
 salt
 spot
 sad |  
-| bip_39_word_new_line5 | mobile
+| bip_39_word_new_line_5 | mobile
 salt
 spot
 sad
 click |  
-| bip_39_word_new_line6 | mobile
+| bip_39_word_new_line_6 | mobile
 salt
 spot
 sad
 click
 funny |  
-| bip_39_word_new_line7 | mobile
+| bip_39_word_new_line_7 | mobile
 salt
 spot
 sad
 click
 funny
 trap |  
-| bip_39_word_new_line8 | mobile
+| bip_39_word_new_line_8 | mobile
 salt
 spot
 sad
@@ -113,7 +113,7 @@ click
 funny
 trap
 stuff |  
-| bip_39_word_new_line9 | mobile
+| bip_39_word_new_line_9 | mobile
 salt
 spot
 sad

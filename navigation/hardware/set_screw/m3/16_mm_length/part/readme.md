@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | butter |  
-| bip_39_word_new_br10 | butter<br>blood<br>surprise<br>quit<br>disease<br>tornado<br>true<br>junk<br>reject<br>genuine |  
-| bip_39_word_new_br11 | butter<br>blood<br>surprise<br>quit<br>disease<br>tornado<br>true<br>junk<br>reject<br>genuine<br>panel |  
-| bip_39_word_new_br12 | butter<br>blood<br>surprise<br>quit<br>disease<br>tornado<br>true<br>junk<br>reject<br>genuine<br>panel<br>achieve |  
-| bip_39_word_new_br2 | butter<br>blood |  
-| bip_39_word_new_br3 | butter<br>blood<br>surprise |  
-| bip_39_word_new_br4 | butter<br>blood<br>surprise<br>quit |  
-| bip_39_word_new_br5 | butter<br>blood<br>surprise<br>quit<br>disease |  
-| bip_39_word_new_br6 | butter<br>blood<br>surprise<br>quit<br>disease<br>tornado |  
-| bip_39_word_new_br7 | butter<br>blood<br>surprise<br>quit<br>disease<br>tornado<br>true |  
-| bip_39_word_new_br8 | butter<br>blood<br>surprise<br>quit<br>disease<br>tornado<br>true<br>junk |  
-| bip_39_word_new_br9 | butter<br>blood<br>surprise<br>quit<br>disease<br>tornado<br>true<br>junk<br>reject |  
-| bip_39_word_new_line1 | butter |  
-| bip_39_word_new_line10 | butter
+| bip_39_word_new_br_1 | butter |  
+| bip_39_word_new_br_10 | butter<br>blood<br>surprise<br>quit<br>disease<br>tornado<br>true<br>junk<br>reject<br>genuine |  
+| bip_39_word_new_br_11 | butter<br>blood<br>surprise<br>quit<br>disease<br>tornado<br>true<br>junk<br>reject<br>genuine<br>panel |  
+| bip_39_word_new_br_12 | butter<br>blood<br>surprise<br>quit<br>disease<br>tornado<br>true<br>junk<br>reject<br>genuine<br>panel<br>achieve |  
+| bip_39_word_new_br_2 | butter<br>blood |  
+| bip_39_word_new_br_3 | butter<br>blood<br>surprise |  
+| bip_39_word_new_br_4 | butter<br>blood<br>surprise<br>quit |  
+| bip_39_word_new_br_5 | butter<br>blood<br>surprise<br>quit<br>disease |  
+| bip_39_word_new_br_6 | butter<br>blood<br>surprise<br>quit<br>disease<br>tornado |  
+| bip_39_word_new_br_7 | butter<br>blood<br>surprise<br>quit<br>disease<br>tornado<br>true |  
+| bip_39_word_new_br_8 | butter<br>blood<br>surprise<br>quit<br>disease<br>tornado<br>true<br>junk |  
+| bip_39_word_new_br_9 | butter<br>blood<br>surprise<br>quit<br>disease<br>tornado<br>true<br>junk<br>reject |  
+| bip_39_word_new_line_1 | butter |  
+| bip_39_word_new_line_10 | butter
 blood
 surprise
 quit
@@ -55,7 +55,7 @@ true
 junk
 reject
 genuine |  
-| bip_39_word_new_line11 | butter
+| bip_39_word_new_line_11 | butter
 blood
 surprise
 quit
@@ -66,7 +66,7 @@ junk
 reject
 genuine
 panel |  
-| bip_39_word_new_line12 | butter
+| bip_39_word_new_line_12 | butter
 blood
 surprise
 quit
@@ -78,34 +78,34 @@ reject
 genuine
 panel
 achieve |  
-| bip_39_word_new_line2 | butter
+| bip_39_word_new_line_2 | butter
 blood |  
-| bip_39_word_new_line3 | butter
+| bip_39_word_new_line_3 | butter
 blood
 surprise |  
-| bip_39_word_new_line4 | butter
+| bip_39_word_new_line_4 | butter
 blood
 surprise
 quit |  
-| bip_39_word_new_line5 | butter
+| bip_39_word_new_line_5 | butter
 blood
 surprise
 quit
 disease |  
-| bip_39_word_new_line6 | butter
+| bip_39_word_new_line_6 | butter
 blood
 surprise
 quit
 disease
 tornado |  
-| bip_39_word_new_line7 | butter
+| bip_39_word_new_line_7 | butter
 blood
 surprise
 quit
 disease
 tornado
 true |  
-| bip_39_word_new_line8 | butter
+| bip_39_word_new_line_8 | butter
 blood
 surprise
 quit
@@ -113,7 +113,7 @@ disease
 tornado
 true
 junk |  
-| bip_39_word_new_line9 | butter
+| bip_39_word_new_line_9 | butter
 blood
 surprise
 quit

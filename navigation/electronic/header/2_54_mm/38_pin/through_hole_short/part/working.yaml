@@ -1,17 +1,17 @@
-bip_39_word_new_br1: inhale
-bip_39_word_new_br10: inhale<br>badge<br>super<br>hood<br>mixed<br>invite<br>humor<br>crush<br>need<br>mouse
-bip_39_word_new_br11: inhale<br>badge<br>super<br>hood<br>mixed<br>invite<br>humor<br>crush<br>need<br>mouse<br>mouse
-bip_39_word_new_br12: inhale<br>badge<br>super<br>hood<br>mixed<br>invite<br>humor<br>crush<br>need<br>mouse<br>mouse<br>alley
-bip_39_word_new_br2: inhale<br>badge
-bip_39_word_new_br3: inhale<br>badge<br>super
-bip_39_word_new_br4: inhale<br>badge<br>super<br>hood
-bip_39_word_new_br5: inhale<br>badge<br>super<br>hood<br>mixed
-bip_39_word_new_br6: inhale<br>badge<br>super<br>hood<br>mixed<br>invite
-bip_39_word_new_br7: inhale<br>badge<br>super<br>hood<br>mixed<br>invite<br>humor
-bip_39_word_new_br8: inhale<br>badge<br>super<br>hood<br>mixed<br>invite<br>humor<br>crush
-bip_39_word_new_br9: inhale<br>badge<br>super<br>hood<br>mixed<br>invite<br>humor<br>crush<br>need
-bip_39_word_new_line1: inhale
-bip_39_word_new_line10: 'inhale
+bip_39_word_new_br_1: inhale
+bip_39_word_new_br_10: inhale<br>badge<br>super<br>hood<br>mixed<br>invite<br>humor<br>crush<br>need<br>mouse
+bip_39_word_new_br_11: inhale<br>badge<br>super<br>hood<br>mixed<br>invite<br>humor<br>crush<br>need<br>mouse<br>mouse
+bip_39_word_new_br_12: inhale<br>badge<br>super<br>hood<br>mixed<br>invite<br>humor<br>crush<br>need<br>mouse<br>mouse<br>alley
+bip_39_word_new_br_2: inhale<br>badge
+bip_39_word_new_br_3: inhale<br>badge<br>super
+bip_39_word_new_br_4: inhale<br>badge<br>super<br>hood
+bip_39_word_new_br_5: inhale<br>badge<br>super<br>hood<br>mixed
+bip_39_word_new_br_6: inhale<br>badge<br>super<br>hood<br>mixed<br>invite
+bip_39_word_new_br_7: inhale<br>badge<br>super<br>hood<br>mixed<br>invite<br>humor
+bip_39_word_new_br_8: inhale<br>badge<br>super<br>hood<br>mixed<br>invite<br>humor<br>crush
+bip_39_word_new_br_9: inhale<br>badge<br>super<br>hood<br>mixed<br>invite<br>humor<br>crush<br>need
+bip_39_word_new_line_1: inhale
+bip_39_word_new_line_10: 'inhale
 
   badge
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'inhale
   need
 
   mouse'
-bip_39_word_new_line11: 'inhale
+bip_39_word_new_line_11: 'inhale
 
   badge
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'inhale
   mouse
 
   mouse'
-bip_39_word_new_line12: 'inhale
+bip_39_word_new_line_12: 'inhale
 
   badge
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'inhale
   mouse
 
   alley'
-bip_39_word_new_line2: 'inhale
+bip_39_word_new_line_2: 'inhale
 
   badge'
-bip_39_word_new_line3: 'inhale
+bip_39_word_new_line_3: 'inhale
 
   badge
 
   super'
-bip_39_word_new_line4: 'inhale
+bip_39_word_new_line_4: 'inhale
 
   badge
 
   super
 
   hood'
-bip_39_word_new_line5: 'inhale
+bip_39_word_new_line_5: 'inhale
 
   badge
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'inhale
   hood
 
   mixed'
-bip_39_word_new_line6: 'inhale
+bip_39_word_new_line_6: 'inhale
 
   badge
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'inhale
   mixed
 
   invite'
-bip_39_word_new_line7: 'inhale
+bip_39_word_new_line_7: 'inhale
 
   badge
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'inhale
   invite
 
   humor'
-bip_39_word_new_line8: 'inhale
+bip_39_word_new_line_8: 'inhale
 
   badge
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'inhale
   humor
 
   crush'
-bip_39_word_new_line9: 'inhale
+bip_39_word_new_line_9: 'inhale
 
   badge
 

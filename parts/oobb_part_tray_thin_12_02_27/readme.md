@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | have |  
-| bip_39_word_new_br10 | have<br>reward<br>acquire<br>snack<br>pulse<br>rapid<br>cinnamon<br>verb<br>element<br>luggage |  
-| bip_39_word_new_br11 | have<br>reward<br>acquire<br>snack<br>pulse<br>rapid<br>cinnamon<br>verb<br>element<br>luggage<br>poverty |  
-| bip_39_word_new_br12 | have<br>reward<br>acquire<br>snack<br>pulse<br>rapid<br>cinnamon<br>verb<br>element<br>luggage<br>poverty<br>action |  
-| bip_39_word_new_br2 | have<br>reward |  
-| bip_39_word_new_br3 | have<br>reward<br>acquire |  
-| bip_39_word_new_br4 | have<br>reward<br>acquire<br>snack |  
-| bip_39_word_new_br5 | have<br>reward<br>acquire<br>snack<br>pulse |  
-| bip_39_word_new_br6 | have<br>reward<br>acquire<br>snack<br>pulse<br>rapid |  
-| bip_39_word_new_br7 | have<br>reward<br>acquire<br>snack<br>pulse<br>rapid<br>cinnamon |  
-| bip_39_word_new_br8 | have<br>reward<br>acquire<br>snack<br>pulse<br>rapid<br>cinnamon<br>verb |  
-| bip_39_word_new_br9 | have<br>reward<br>acquire<br>snack<br>pulse<br>rapid<br>cinnamon<br>verb<br>element |  
-| bip_39_word_new_line1 | have |  
-| bip_39_word_new_line10 | have
+| bip_39_word_new_br_1 | have |  
+| bip_39_word_new_br_10 | have<br>reward<br>acquire<br>snack<br>pulse<br>rapid<br>cinnamon<br>verb<br>element<br>luggage |  
+| bip_39_word_new_br_11 | have<br>reward<br>acquire<br>snack<br>pulse<br>rapid<br>cinnamon<br>verb<br>element<br>luggage<br>poverty |  
+| bip_39_word_new_br_12 | have<br>reward<br>acquire<br>snack<br>pulse<br>rapid<br>cinnamon<br>verb<br>element<br>luggage<br>poverty<br>action |  
+| bip_39_word_new_br_2 | have<br>reward |  
+| bip_39_word_new_br_3 | have<br>reward<br>acquire |  
+| bip_39_word_new_br_4 | have<br>reward<br>acquire<br>snack |  
+| bip_39_word_new_br_5 | have<br>reward<br>acquire<br>snack<br>pulse |  
+| bip_39_word_new_br_6 | have<br>reward<br>acquire<br>snack<br>pulse<br>rapid |  
+| bip_39_word_new_br_7 | have<br>reward<br>acquire<br>snack<br>pulse<br>rapid<br>cinnamon |  
+| bip_39_word_new_br_8 | have<br>reward<br>acquire<br>snack<br>pulse<br>rapid<br>cinnamon<br>verb |  
+| bip_39_word_new_br_9 | have<br>reward<br>acquire<br>snack<br>pulse<br>rapid<br>cinnamon<br>verb<br>element |  
+| bip_39_word_new_line_1 | have |  
+| bip_39_word_new_line_10 | have
 reward
 acquire
 snack
@@ -55,7 +55,7 @@ cinnamon
 verb
 element
 luggage |  
-| bip_39_word_new_line11 | have
+| bip_39_word_new_line_11 | have
 reward
 acquire
 snack
@@ -66,7 +66,7 @@ verb
 element
 luggage
 poverty |  
-| bip_39_word_new_line12 | have
+| bip_39_word_new_line_12 | have
 reward
 acquire
 snack
@@ -78,34 +78,34 @@ element
 luggage
 poverty
 action |  
-| bip_39_word_new_line2 | have
+| bip_39_word_new_line_2 | have
 reward |  
-| bip_39_word_new_line3 | have
+| bip_39_word_new_line_3 | have
 reward
 acquire |  
-| bip_39_word_new_line4 | have
+| bip_39_word_new_line_4 | have
 reward
 acquire
 snack |  
-| bip_39_word_new_line5 | have
+| bip_39_word_new_line_5 | have
 reward
 acquire
 snack
 pulse |  
-| bip_39_word_new_line6 | have
+| bip_39_word_new_line_6 | have
 reward
 acquire
 snack
 pulse
 rapid |  
-| bip_39_word_new_line7 | have
+| bip_39_word_new_line_7 | have
 reward
 acquire
 snack
 pulse
 rapid
 cinnamon |  
-| bip_39_word_new_line8 | have
+| bip_39_word_new_line_8 | have
 reward
 acquire
 snack
@@ -113,7 +113,7 @@ pulse
 rapid
 cinnamon
 verb |  
-| bip_39_word_new_line9 | have
+| bip_39_word_new_line_9 | have
 reward
 acquire
 snack

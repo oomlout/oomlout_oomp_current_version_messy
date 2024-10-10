@@ -1,17 +1,17 @@
-bip_39_word_new_br1: virtual
-bip_39_word_new_br10: virtual<br>blind<br>arrow<br>december<br>quote<br>true<br>real<br>laptop<br>dragon<br>soap
-bip_39_word_new_br11: virtual<br>blind<br>arrow<br>december<br>quote<br>true<br>real<br>laptop<br>dragon<br>soap<br>limb
-bip_39_word_new_br12: virtual<br>blind<br>arrow<br>december<br>quote<br>true<br>real<br>laptop<br>dragon<br>soap<br>limb<br>attract
-bip_39_word_new_br2: virtual<br>blind
-bip_39_word_new_br3: virtual<br>blind<br>arrow
-bip_39_word_new_br4: virtual<br>blind<br>arrow<br>december
-bip_39_word_new_br5: virtual<br>blind<br>arrow<br>december<br>quote
-bip_39_word_new_br6: virtual<br>blind<br>arrow<br>december<br>quote<br>true
-bip_39_word_new_br7: virtual<br>blind<br>arrow<br>december<br>quote<br>true<br>real
-bip_39_word_new_br8: virtual<br>blind<br>arrow<br>december<br>quote<br>true<br>real<br>laptop
-bip_39_word_new_br9: virtual<br>blind<br>arrow<br>december<br>quote<br>true<br>real<br>laptop<br>dragon
-bip_39_word_new_line1: virtual
-bip_39_word_new_line10: 'virtual
+bip_39_word_new_br_1: virtual
+bip_39_word_new_br_10: virtual<br>blind<br>arrow<br>december<br>quote<br>true<br>real<br>laptop<br>dragon<br>soap
+bip_39_word_new_br_11: virtual<br>blind<br>arrow<br>december<br>quote<br>true<br>real<br>laptop<br>dragon<br>soap<br>limb
+bip_39_word_new_br_12: virtual<br>blind<br>arrow<br>december<br>quote<br>true<br>real<br>laptop<br>dragon<br>soap<br>limb<br>attract
+bip_39_word_new_br_2: virtual<br>blind
+bip_39_word_new_br_3: virtual<br>blind<br>arrow
+bip_39_word_new_br_4: virtual<br>blind<br>arrow<br>december
+bip_39_word_new_br_5: virtual<br>blind<br>arrow<br>december<br>quote
+bip_39_word_new_br_6: virtual<br>blind<br>arrow<br>december<br>quote<br>true
+bip_39_word_new_br_7: virtual<br>blind<br>arrow<br>december<br>quote<br>true<br>real
+bip_39_word_new_br_8: virtual<br>blind<br>arrow<br>december<br>quote<br>true<br>real<br>laptop
+bip_39_word_new_br_9: virtual<br>blind<br>arrow<br>december<br>quote<br>true<br>real<br>laptop<br>dragon
+bip_39_word_new_line_1: virtual
+bip_39_word_new_line_10: 'virtual
 
   blind
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'virtual
   dragon
 
   soap'
-bip_39_word_new_line11: 'virtual
+bip_39_word_new_line_11: 'virtual
 
   blind
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'virtual
   soap
 
   limb'
-bip_39_word_new_line12: 'virtual
+bip_39_word_new_line_12: 'virtual
 
   blind
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'virtual
   limb
 
   attract'
-bip_39_word_new_line2: 'virtual
+bip_39_word_new_line_2: 'virtual
 
   blind'
-bip_39_word_new_line3: 'virtual
+bip_39_word_new_line_3: 'virtual
 
   blind
 
   arrow'
-bip_39_word_new_line4: 'virtual
+bip_39_word_new_line_4: 'virtual
 
   blind
 
   arrow
 
   december'
-bip_39_word_new_line5: 'virtual
+bip_39_word_new_line_5: 'virtual
 
   blind
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'virtual
   december
 
   quote'
-bip_39_word_new_line6: 'virtual
+bip_39_word_new_line_6: 'virtual
 
   blind
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'virtual
   quote
 
   true'
-bip_39_word_new_line7: 'virtual
+bip_39_word_new_line_7: 'virtual
 
   blind
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'virtual
   true
 
   real'
-bip_39_word_new_line8: 'virtual
+bip_39_word_new_line_8: 'virtual
 
   blind
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'virtual
   real
 
   laptop'
-bip_39_word_new_line9: 'virtual
+bip_39_word_new_line_9: 'virtual
 
   blind
 

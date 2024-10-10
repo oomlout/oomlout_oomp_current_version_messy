@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | language |  
-| bip_39_word_new_br10 | language<br>fabric<br>tank<br>pudding<br>edit<br>sing<br>ship<br>used<br>weasel<br>plug |  
-| bip_39_word_new_br11 | language<br>fabric<br>tank<br>pudding<br>edit<br>sing<br>ship<br>used<br>weasel<br>plug<br>brick |  
-| bip_39_word_new_br12 | language<br>fabric<br>tank<br>pudding<br>edit<br>sing<br>ship<br>used<br>weasel<br>plug<br>brick<br>approve |  
-| bip_39_word_new_br2 | language<br>fabric |  
-| bip_39_word_new_br3 | language<br>fabric<br>tank |  
-| bip_39_word_new_br4 | language<br>fabric<br>tank<br>pudding |  
-| bip_39_word_new_br5 | language<br>fabric<br>tank<br>pudding<br>edit |  
-| bip_39_word_new_br6 | language<br>fabric<br>tank<br>pudding<br>edit<br>sing |  
-| bip_39_word_new_br7 | language<br>fabric<br>tank<br>pudding<br>edit<br>sing<br>ship |  
-| bip_39_word_new_br8 | language<br>fabric<br>tank<br>pudding<br>edit<br>sing<br>ship<br>used |  
-| bip_39_word_new_br9 | language<br>fabric<br>tank<br>pudding<br>edit<br>sing<br>ship<br>used<br>weasel |  
-| bip_39_word_new_line1 | language |  
-| bip_39_word_new_line10 | language
+| bip_39_word_new_br_1 | language |  
+| bip_39_word_new_br_10 | language<br>fabric<br>tank<br>pudding<br>edit<br>sing<br>ship<br>used<br>weasel<br>plug |  
+| bip_39_word_new_br_11 | language<br>fabric<br>tank<br>pudding<br>edit<br>sing<br>ship<br>used<br>weasel<br>plug<br>brick |  
+| bip_39_word_new_br_12 | language<br>fabric<br>tank<br>pudding<br>edit<br>sing<br>ship<br>used<br>weasel<br>plug<br>brick<br>approve |  
+| bip_39_word_new_br_2 | language<br>fabric |  
+| bip_39_word_new_br_3 | language<br>fabric<br>tank |  
+| bip_39_word_new_br_4 | language<br>fabric<br>tank<br>pudding |  
+| bip_39_word_new_br_5 | language<br>fabric<br>tank<br>pudding<br>edit |  
+| bip_39_word_new_br_6 | language<br>fabric<br>tank<br>pudding<br>edit<br>sing |  
+| bip_39_word_new_br_7 | language<br>fabric<br>tank<br>pudding<br>edit<br>sing<br>ship |  
+| bip_39_word_new_br_8 | language<br>fabric<br>tank<br>pudding<br>edit<br>sing<br>ship<br>used |  
+| bip_39_word_new_br_9 | language<br>fabric<br>tank<br>pudding<br>edit<br>sing<br>ship<br>used<br>weasel |  
+| bip_39_word_new_line_1 | language |  
+| bip_39_word_new_line_10 | language
 fabric
 tank
 pudding
@@ -55,7 +55,7 @@ ship
 used
 weasel
 plug |  
-| bip_39_word_new_line11 | language
+| bip_39_word_new_line_11 | language
 fabric
 tank
 pudding
@@ -66,7 +66,7 @@ used
 weasel
 plug
 brick |  
-| bip_39_word_new_line12 | language
+| bip_39_word_new_line_12 | language
 fabric
 tank
 pudding
@@ -78,34 +78,34 @@ weasel
 plug
 brick
 approve |  
-| bip_39_word_new_line2 | language
+| bip_39_word_new_line_2 | language
 fabric |  
-| bip_39_word_new_line3 | language
+| bip_39_word_new_line_3 | language
 fabric
 tank |  
-| bip_39_word_new_line4 | language
+| bip_39_word_new_line_4 | language
 fabric
 tank
 pudding |  
-| bip_39_word_new_line5 | language
+| bip_39_word_new_line_5 | language
 fabric
 tank
 pudding
 edit |  
-| bip_39_word_new_line6 | language
+| bip_39_word_new_line_6 | language
 fabric
 tank
 pudding
 edit
 sing |  
-| bip_39_word_new_line7 | language
+| bip_39_word_new_line_7 | language
 fabric
 tank
 pudding
 edit
 sing
 ship |  
-| bip_39_word_new_line8 | language
+| bip_39_word_new_line_8 | language
 fabric
 tank
 pudding
@@ -113,7 +113,7 @@ edit
 sing
 ship
 used |  
-| bip_39_word_new_line9 | language
+| bip_39_word_new_line_9 | language
 fabric
 tank
 pudding

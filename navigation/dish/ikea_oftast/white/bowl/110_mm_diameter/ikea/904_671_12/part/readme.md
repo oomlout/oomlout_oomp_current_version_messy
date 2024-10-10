@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sphere |  
-| bip_39_word_new_br10 | sphere<br>original<br>cheap<br>industry<br>filter<br>zebra<br>because<br>truth<br>movie<br>candy |  
-| bip_39_word_new_br11 | sphere<br>original<br>cheap<br>industry<br>filter<br>zebra<br>because<br>truth<br>movie<br>candy<br>risk |  
-| bip_39_word_new_br12 | sphere<br>original<br>cheap<br>industry<br>filter<br>zebra<br>because<br>truth<br>movie<br>candy<br>risk<br>autumn |  
-| bip_39_word_new_br2 | sphere<br>original |  
-| bip_39_word_new_br3 | sphere<br>original<br>cheap |  
-| bip_39_word_new_br4 | sphere<br>original<br>cheap<br>industry |  
-| bip_39_word_new_br5 | sphere<br>original<br>cheap<br>industry<br>filter |  
-| bip_39_word_new_br6 | sphere<br>original<br>cheap<br>industry<br>filter<br>zebra |  
-| bip_39_word_new_br7 | sphere<br>original<br>cheap<br>industry<br>filter<br>zebra<br>because |  
-| bip_39_word_new_br8 | sphere<br>original<br>cheap<br>industry<br>filter<br>zebra<br>because<br>truth |  
-| bip_39_word_new_br9 | sphere<br>original<br>cheap<br>industry<br>filter<br>zebra<br>because<br>truth<br>movie |  
-| bip_39_word_new_line1 | sphere |  
-| bip_39_word_new_line10 | sphere
+| bip_39_word_new_br_1 | sphere |  
+| bip_39_word_new_br_10 | sphere<br>original<br>cheap<br>industry<br>filter<br>zebra<br>because<br>truth<br>movie<br>candy |  
+| bip_39_word_new_br_11 | sphere<br>original<br>cheap<br>industry<br>filter<br>zebra<br>because<br>truth<br>movie<br>candy<br>risk |  
+| bip_39_word_new_br_12 | sphere<br>original<br>cheap<br>industry<br>filter<br>zebra<br>because<br>truth<br>movie<br>candy<br>risk<br>autumn |  
+| bip_39_word_new_br_2 | sphere<br>original |  
+| bip_39_word_new_br_3 | sphere<br>original<br>cheap |  
+| bip_39_word_new_br_4 | sphere<br>original<br>cheap<br>industry |  
+| bip_39_word_new_br_5 | sphere<br>original<br>cheap<br>industry<br>filter |  
+| bip_39_word_new_br_6 | sphere<br>original<br>cheap<br>industry<br>filter<br>zebra |  
+| bip_39_word_new_br_7 | sphere<br>original<br>cheap<br>industry<br>filter<br>zebra<br>because |  
+| bip_39_word_new_br_8 | sphere<br>original<br>cheap<br>industry<br>filter<br>zebra<br>because<br>truth |  
+| bip_39_word_new_br_9 | sphere<br>original<br>cheap<br>industry<br>filter<br>zebra<br>because<br>truth<br>movie |  
+| bip_39_word_new_line_1 | sphere |  
+| bip_39_word_new_line_10 | sphere
 original
 cheap
 industry
@@ -55,7 +55,7 @@ because
 truth
 movie
 candy |  
-| bip_39_word_new_line11 | sphere
+| bip_39_word_new_line_11 | sphere
 original
 cheap
 industry
@@ -66,7 +66,7 @@ truth
 movie
 candy
 risk |  
-| bip_39_word_new_line12 | sphere
+| bip_39_word_new_line_12 | sphere
 original
 cheap
 industry
@@ -78,34 +78,34 @@ movie
 candy
 risk
 autumn |  
-| bip_39_word_new_line2 | sphere
+| bip_39_word_new_line_2 | sphere
 original |  
-| bip_39_word_new_line3 | sphere
+| bip_39_word_new_line_3 | sphere
 original
 cheap |  
-| bip_39_word_new_line4 | sphere
+| bip_39_word_new_line_4 | sphere
 original
 cheap
 industry |  
-| bip_39_word_new_line5 | sphere
+| bip_39_word_new_line_5 | sphere
 original
 cheap
 industry
 filter |  
-| bip_39_word_new_line6 | sphere
+| bip_39_word_new_line_6 | sphere
 original
 cheap
 industry
 filter
 zebra |  
-| bip_39_word_new_line7 | sphere
+| bip_39_word_new_line_7 | sphere
 original
 cheap
 industry
 filter
 zebra
 because |  
-| bip_39_word_new_line8 | sphere
+| bip_39_word_new_line_8 | sphere
 original
 cheap
 industry
@@ -113,7 +113,7 @@ filter
 zebra
 because
 truth |  
-| bip_39_word_new_line9 | sphere
+| bip_39_word_new_line_9 | sphere
 original
 cheap
 industry

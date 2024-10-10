@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | leg |  
-| bip_39_word_new_br10 | leg<br>canyon<br>twice<br>loop<br>foil<br>dog<br>unveil<br>seven<br>school<br>feed |  
-| bip_39_word_new_br11 | leg<br>canyon<br>twice<br>loop<br>foil<br>dog<br>unveil<br>seven<br>school<br>feed<br>sleep |  
-| bip_39_word_new_br12 | leg<br>canyon<br>twice<br>loop<br>foil<br>dog<br>unveil<br>seven<br>school<br>feed<br>sleep<br>army |  
-| bip_39_word_new_br2 | leg<br>canyon |  
-| bip_39_word_new_br3 | leg<br>canyon<br>twice |  
-| bip_39_word_new_br4 | leg<br>canyon<br>twice<br>loop |  
-| bip_39_word_new_br5 | leg<br>canyon<br>twice<br>loop<br>foil |  
-| bip_39_word_new_br6 | leg<br>canyon<br>twice<br>loop<br>foil<br>dog |  
-| bip_39_word_new_br7 | leg<br>canyon<br>twice<br>loop<br>foil<br>dog<br>unveil |  
-| bip_39_word_new_br8 | leg<br>canyon<br>twice<br>loop<br>foil<br>dog<br>unveil<br>seven |  
-| bip_39_word_new_br9 | leg<br>canyon<br>twice<br>loop<br>foil<br>dog<br>unveil<br>seven<br>school |  
-| bip_39_word_new_line1 | leg |  
-| bip_39_word_new_line10 | leg
+| bip_39_word_new_br_1 | leg |  
+| bip_39_word_new_br_10 | leg<br>canyon<br>twice<br>loop<br>foil<br>dog<br>unveil<br>seven<br>school<br>feed |  
+| bip_39_word_new_br_11 | leg<br>canyon<br>twice<br>loop<br>foil<br>dog<br>unveil<br>seven<br>school<br>feed<br>sleep |  
+| bip_39_word_new_br_12 | leg<br>canyon<br>twice<br>loop<br>foil<br>dog<br>unveil<br>seven<br>school<br>feed<br>sleep<br>army |  
+| bip_39_word_new_br_2 | leg<br>canyon |  
+| bip_39_word_new_br_3 | leg<br>canyon<br>twice |  
+| bip_39_word_new_br_4 | leg<br>canyon<br>twice<br>loop |  
+| bip_39_word_new_br_5 | leg<br>canyon<br>twice<br>loop<br>foil |  
+| bip_39_word_new_br_6 | leg<br>canyon<br>twice<br>loop<br>foil<br>dog |  
+| bip_39_word_new_br_7 | leg<br>canyon<br>twice<br>loop<br>foil<br>dog<br>unveil |  
+| bip_39_word_new_br_8 | leg<br>canyon<br>twice<br>loop<br>foil<br>dog<br>unveil<br>seven |  
+| bip_39_word_new_br_9 | leg<br>canyon<br>twice<br>loop<br>foil<br>dog<br>unveil<br>seven<br>school |  
+| bip_39_word_new_line_1 | leg |  
+| bip_39_word_new_line_10 | leg
 canyon
 twice
 loop
@@ -55,7 +55,7 @@ unveil
 seven
 school
 feed |  
-| bip_39_word_new_line11 | leg
+| bip_39_word_new_line_11 | leg
 canyon
 twice
 loop
@@ -66,7 +66,7 @@ seven
 school
 feed
 sleep |  
-| bip_39_word_new_line12 | leg
+| bip_39_word_new_line_12 | leg
 canyon
 twice
 loop
@@ -78,34 +78,34 @@ school
 feed
 sleep
 army |  
-| bip_39_word_new_line2 | leg
+| bip_39_word_new_line_2 | leg
 canyon |  
-| bip_39_word_new_line3 | leg
+| bip_39_word_new_line_3 | leg
 canyon
 twice |  
-| bip_39_word_new_line4 | leg
+| bip_39_word_new_line_4 | leg
 canyon
 twice
 loop |  
-| bip_39_word_new_line5 | leg
+| bip_39_word_new_line_5 | leg
 canyon
 twice
 loop
 foil |  
-| bip_39_word_new_line6 | leg
+| bip_39_word_new_line_6 | leg
 canyon
 twice
 loop
 foil
 dog |  
-| bip_39_word_new_line7 | leg
+| bip_39_word_new_line_7 | leg
 canyon
 twice
 loop
 foil
 dog
 unveil |  
-| bip_39_word_new_line8 | leg
+| bip_39_word_new_line_8 | leg
 canyon
 twice
 loop
@@ -113,7 +113,7 @@ foil
 dog
 unveil
 seven |  
-| bip_39_word_new_line9 | leg
+| bip_39_word_new_line_9 | leg
 canyon
 twice
 loop

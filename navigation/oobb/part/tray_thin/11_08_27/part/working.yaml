@@ -1,17 +1,17 @@
-bip_39_word_new_br1: crouch
-bip_39_word_new_br10: crouch<br>clean<br>shallow<br>piece<br>olympic<br>empower<br>another<br>tower<br>price<br>salmon
-bip_39_word_new_br11: crouch<br>clean<br>shallow<br>piece<br>olympic<br>empower<br>another<br>tower<br>price<br>salmon<br>safe
-bip_39_word_new_br12: crouch<br>clean<br>shallow<br>piece<br>olympic<br>empower<br>another<br>tower<br>price<br>salmon<br>safe<br>amused
-bip_39_word_new_br2: crouch<br>clean
-bip_39_word_new_br3: crouch<br>clean<br>shallow
-bip_39_word_new_br4: crouch<br>clean<br>shallow<br>piece
-bip_39_word_new_br5: crouch<br>clean<br>shallow<br>piece<br>olympic
-bip_39_word_new_br6: crouch<br>clean<br>shallow<br>piece<br>olympic<br>empower
-bip_39_word_new_br7: crouch<br>clean<br>shallow<br>piece<br>olympic<br>empower<br>another
-bip_39_word_new_br8: crouch<br>clean<br>shallow<br>piece<br>olympic<br>empower<br>another<br>tower
-bip_39_word_new_br9: crouch<br>clean<br>shallow<br>piece<br>olympic<br>empower<br>another<br>tower<br>price
-bip_39_word_new_line1: crouch
-bip_39_word_new_line10: 'crouch
+bip_39_word_new_br_1: crouch
+bip_39_word_new_br_10: crouch<br>clean<br>shallow<br>piece<br>olympic<br>empower<br>another<br>tower<br>price<br>salmon
+bip_39_word_new_br_11: crouch<br>clean<br>shallow<br>piece<br>olympic<br>empower<br>another<br>tower<br>price<br>salmon<br>safe
+bip_39_word_new_br_12: crouch<br>clean<br>shallow<br>piece<br>olympic<br>empower<br>another<br>tower<br>price<br>salmon<br>safe<br>amused
+bip_39_word_new_br_2: crouch<br>clean
+bip_39_word_new_br_3: crouch<br>clean<br>shallow
+bip_39_word_new_br_4: crouch<br>clean<br>shallow<br>piece
+bip_39_word_new_br_5: crouch<br>clean<br>shallow<br>piece<br>olympic
+bip_39_word_new_br_6: crouch<br>clean<br>shallow<br>piece<br>olympic<br>empower
+bip_39_word_new_br_7: crouch<br>clean<br>shallow<br>piece<br>olympic<br>empower<br>another
+bip_39_word_new_br_8: crouch<br>clean<br>shallow<br>piece<br>olympic<br>empower<br>another<br>tower
+bip_39_word_new_br_9: crouch<br>clean<br>shallow<br>piece<br>olympic<br>empower<br>another<br>tower<br>price
+bip_39_word_new_line_1: crouch
+bip_39_word_new_line_10: 'crouch
 
   clean
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'crouch
   price
 
   salmon'
-bip_39_word_new_line11: 'crouch
+bip_39_word_new_line_11: 'crouch
 
   clean
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'crouch
   salmon
 
   safe'
-bip_39_word_new_line12: 'crouch
+bip_39_word_new_line_12: 'crouch
 
   clean
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'crouch
   safe
 
   amused'
-bip_39_word_new_line2: 'crouch
+bip_39_word_new_line_2: 'crouch
 
   clean'
-bip_39_word_new_line3: 'crouch
+bip_39_word_new_line_3: 'crouch
 
   clean
 
   shallow'
-bip_39_word_new_line4: 'crouch
+bip_39_word_new_line_4: 'crouch
 
   clean
 
   shallow
 
   piece'
-bip_39_word_new_line5: 'crouch
+bip_39_word_new_line_5: 'crouch
 
   clean
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'crouch
   piece
 
   olympic'
-bip_39_word_new_line6: 'crouch
+bip_39_word_new_line_6: 'crouch
 
   clean
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'crouch
   olympic
 
   empower'
-bip_39_word_new_line7: 'crouch
+bip_39_word_new_line_7: 'crouch
 
   clean
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'crouch
   empower
 
   another'
-bip_39_word_new_line8: 'crouch
+bip_39_word_new_line_8: 'crouch
 
   clean
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'crouch
   another
 
   tower'
-bip_39_word_new_line9: 'crouch
+bip_39_word_new_line_9: 'crouch
 
   clean
 

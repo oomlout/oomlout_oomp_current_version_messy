@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | neglect |  
-| bip_39_word_new_br10 | neglect<br>library<br>burden<br>turkey<br>gold<br>subway<br>twelve<br>toward<br>runway<br>cricket |  
-| bip_39_word_new_br11 | neglect<br>library<br>burden<br>turkey<br>gold<br>subway<br>twelve<br>toward<br>runway<br>cricket<br>remind |  
-| bip_39_word_new_br12 | neglect<br>library<br>burden<br>turkey<br>gold<br>subway<br>twelve<br>toward<br>runway<br>cricket<br>remind<br>among |  
-| bip_39_word_new_br2 | neglect<br>library |  
-| bip_39_word_new_br3 | neglect<br>library<br>burden |  
-| bip_39_word_new_br4 | neglect<br>library<br>burden<br>turkey |  
-| bip_39_word_new_br5 | neglect<br>library<br>burden<br>turkey<br>gold |  
-| bip_39_word_new_br6 | neglect<br>library<br>burden<br>turkey<br>gold<br>subway |  
-| bip_39_word_new_br7 | neglect<br>library<br>burden<br>turkey<br>gold<br>subway<br>twelve |  
-| bip_39_word_new_br8 | neglect<br>library<br>burden<br>turkey<br>gold<br>subway<br>twelve<br>toward |  
-| bip_39_word_new_br9 | neglect<br>library<br>burden<br>turkey<br>gold<br>subway<br>twelve<br>toward<br>runway |  
-| bip_39_word_new_line1 | neglect |  
-| bip_39_word_new_line10 | neglect
+| bip_39_word_new_br_1 | neglect |  
+| bip_39_word_new_br_10 | neglect<br>library<br>burden<br>turkey<br>gold<br>subway<br>twelve<br>toward<br>runway<br>cricket |  
+| bip_39_word_new_br_11 | neglect<br>library<br>burden<br>turkey<br>gold<br>subway<br>twelve<br>toward<br>runway<br>cricket<br>remind |  
+| bip_39_word_new_br_12 | neglect<br>library<br>burden<br>turkey<br>gold<br>subway<br>twelve<br>toward<br>runway<br>cricket<br>remind<br>among |  
+| bip_39_word_new_br_2 | neglect<br>library |  
+| bip_39_word_new_br_3 | neglect<br>library<br>burden |  
+| bip_39_word_new_br_4 | neglect<br>library<br>burden<br>turkey |  
+| bip_39_word_new_br_5 | neglect<br>library<br>burden<br>turkey<br>gold |  
+| bip_39_word_new_br_6 | neglect<br>library<br>burden<br>turkey<br>gold<br>subway |  
+| bip_39_word_new_br_7 | neglect<br>library<br>burden<br>turkey<br>gold<br>subway<br>twelve |  
+| bip_39_word_new_br_8 | neglect<br>library<br>burden<br>turkey<br>gold<br>subway<br>twelve<br>toward |  
+| bip_39_word_new_br_9 | neglect<br>library<br>burden<br>turkey<br>gold<br>subway<br>twelve<br>toward<br>runway |  
+| bip_39_word_new_line_1 | neglect |  
+| bip_39_word_new_line_10 | neglect
 library
 burden
 turkey
@@ -55,7 +55,7 @@ twelve
 toward
 runway
 cricket |  
-| bip_39_word_new_line11 | neglect
+| bip_39_word_new_line_11 | neglect
 library
 burden
 turkey
@@ -66,7 +66,7 @@ toward
 runway
 cricket
 remind |  
-| bip_39_word_new_line12 | neglect
+| bip_39_word_new_line_12 | neglect
 library
 burden
 turkey
@@ -78,34 +78,34 @@ runway
 cricket
 remind
 among |  
-| bip_39_word_new_line2 | neglect
+| bip_39_word_new_line_2 | neglect
 library |  
-| bip_39_word_new_line3 | neglect
+| bip_39_word_new_line_3 | neglect
 library
 burden |  
-| bip_39_word_new_line4 | neglect
+| bip_39_word_new_line_4 | neglect
 library
 burden
 turkey |  
-| bip_39_word_new_line5 | neglect
+| bip_39_word_new_line_5 | neglect
 library
 burden
 turkey
 gold |  
-| bip_39_word_new_line6 | neglect
+| bip_39_word_new_line_6 | neglect
 library
 burden
 turkey
 gold
 subway |  
-| bip_39_word_new_line7 | neglect
+| bip_39_word_new_line_7 | neglect
 library
 burden
 turkey
 gold
 subway
 twelve |  
-| bip_39_word_new_line8 | neglect
+| bip_39_word_new_line_8 | neglect
 library
 burden
 turkey
@@ -113,7 +113,7 @@ gold
 subway
 twelve
 toward |  
-| bip_39_word_new_line9 | neglect
+| bip_39_word_new_line_9 | neglect
 library
 burden
 turkey

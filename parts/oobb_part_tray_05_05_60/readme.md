@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | twin |  
-| bip_39_word_new_br10 | twin<br>budget<br>clever<br>inside<br>glad<br>umbrella<br>cruel<br>drop<br>bread<br>tag |  
-| bip_39_word_new_br11 | twin<br>budget<br>clever<br>inside<br>glad<br>umbrella<br>cruel<br>drop<br>bread<br>tag<br>drip |  
-| bip_39_word_new_br12 | twin<br>budget<br>clever<br>inside<br>glad<br>umbrella<br>cruel<br>drop<br>bread<br>tag<br>drip<br>arrow |  
-| bip_39_word_new_br2 | twin<br>budget |  
-| bip_39_word_new_br3 | twin<br>budget<br>clever |  
-| bip_39_word_new_br4 | twin<br>budget<br>clever<br>inside |  
-| bip_39_word_new_br5 | twin<br>budget<br>clever<br>inside<br>glad |  
-| bip_39_word_new_br6 | twin<br>budget<br>clever<br>inside<br>glad<br>umbrella |  
-| bip_39_word_new_br7 | twin<br>budget<br>clever<br>inside<br>glad<br>umbrella<br>cruel |  
-| bip_39_word_new_br8 | twin<br>budget<br>clever<br>inside<br>glad<br>umbrella<br>cruel<br>drop |  
-| bip_39_word_new_br9 | twin<br>budget<br>clever<br>inside<br>glad<br>umbrella<br>cruel<br>drop<br>bread |  
-| bip_39_word_new_line1 | twin |  
-| bip_39_word_new_line10 | twin
+| bip_39_word_new_br_1 | twin |  
+| bip_39_word_new_br_10 | twin<br>budget<br>clever<br>inside<br>glad<br>umbrella<br>cruel<br>drop<br>bread<br>tag |  
+| bip_39_word_new_br_11 | twin<br>budget<br>clever<br>inside<br>glad<br>umbrella<br>cruel<br>drop<br>bread<br>tag<br>drip |  
+| bip_39_word_new_br_12 | twin<br>budget<br>clever<br>inside<br>glad<br>umbrella<br>cruel<br>drop<br>bread<br>tag<br>drip<br>arrow |  
+| bip_39_word_new_br_2 | twin<br>budget |  
+| bip_39_word_new_br_3 | twin<br>budget<br>clever |  
+| bip_39_word_new_br_4 | twin<br>budget<br>clever<br>inside |  
+| bip_39_word_new_br_5 | twin<br>budget<br>clever<br>inside<br>glad |  
+| bip_39_word_new_br_6 | twin<br>budget<br>clever<br>inside<br>glad<br>umbrella |  
+| bip_39_word_new_br_7 | twin<br>budget<br>clever<br>inside<br>glad<br>umbrella<br>cruel |  
+| bip_39_word_new_br_8 | twin<br>budget<br>clever<br>inside<br>glad<br>umbrella<br>cruel<br>drop |  
+| bip_39_word_new_br_9 | twin<br>budget<br>clever<br>inside<br>glad<br>umbrella<br>cruel<br>drop<br>bread |  
+| bip_39_word_new_line_1 | twin |  
+| bip_39_word_new_line_10 | twin
 budget
 clever
 inside
@@ -55,7 +55,7 @@ cruel
 drop
 bread
 tag |  
-| bip_39_word_new_line11 | twin
+| bip_39_word_new_line_11 | twin
 budget
 clever
 inside
@@ -66,7 +66,7 @@ drop
 bread
 tag
 drip |  
-| bip_39_word_new_line12 | twin
+| bip_39_word_new_line_12 | twin
 budget
 clever
 inside
@@ -78,34 +78,34 @@ bread
 tag
 drip
 arrow |  
-| bip_39_word_new_line2 | twin
+| bip_39_word_new_line_2 | twin
 budget |  
-| bip_39_word_new_line3 | twin
+| bip_39_word_new_line_3 | twin
 budget
 clever |  
-| bip_39_word_new_line4 | twin
+| bip_39_word_new_line_4 | twin
 budget
 clever
 inside |  
-| bip_39_word_new_line5 | twin
+| bip_39_word_new_line_5 | twin
 budget
 clever
 inside
 glad |  
-| bip_39_word_new_line6 | twin
+| bip_39_word_new_line_6 | twin
 budget
 clever
 inside
 glad
 umbrella |  
-| bip_39_word_new_line7 | twin
+| bip_39_word_new_line_7 | twin
 budget
 clever
 inside
 glad
 umbrella
 cruel |  
-| bip_39_word_new_line8 | twin
+| bip_39_word_new_line_8 | twin
 budget
 clever
 inside
@@ -113,7 +113,7 @@ glad
 umbrella
 cruel
 drop |  
-| bip_39_word_new_line9 | twin
+| bip_39_word_new_line_9 | twin
 budget
 clever
 inside

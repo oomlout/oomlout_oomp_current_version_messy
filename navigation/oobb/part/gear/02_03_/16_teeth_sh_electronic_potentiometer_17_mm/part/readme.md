@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | expose |  
-| bip_39_word_new_br10 | expose<br>cash<br>debris<br>drive<br>hand<br>success<br>tail<br>fame<br>custom<br>color |  
-| bip_39_word_new_br11 | expose<br>cash<br>debris<br>drive<br>hand<br>success<br>tail<br>fame<br>custom<br>color<br>follow |  
-| bip_39_word_new_br12 | expose<br>cash<br>debris<br>drive<br>hand<br>success<br>tail<br>fame<br>custom<br>color<br>follow<br>amateur |  
-| bip_39_word_new_br2 | expose<br>cash |  
-| bip_39_word_new_br3 | expose<br>cash<br>debris |  
-| bip_39_word_new_br4 | expose<br>cash<br>debris<br>drive |  
-| bip_39_word_new_br5 | expose<br>cash<br>debris<br>drive<br>hand |  
-| bip_39_word_new_br6 | expose<br>cash<br>debris<br>drive<br>hand<br>success |  
-| bip_39_word_new_br7 | expose<br>cash<br>debris<br>drive<br>hand<br>success<br>tail |  
-| bip_39_word_new_br8 | expose<br>cash<br>debris<br>drive<br>hand<br>success<br>tail<br>fame |  
-| bip_39_word_new_br9 | expose<br>cash<br>debris<br>drive<br>hand<br>success<br>tail<br>fame<br>custom |  
-| bip_39_word_new_line1 | expose |  
-| bip_39_word_new_line10 | expose
+| bip_39_word_new_br_1 | expose |  
+| bip_39_word_new_br_10 | expose<br>cash<br>debris<br>drive<br>hand<br>success<br>tail<br>fame<br>custom<br>color |  
+| bip_39_word_new_br_11 | expose<br>cash<br>debris<br>drive<br>hand<br>success<br>tail<br>fame<br>custom<br>color<br>follow |  
+| bip_39_word_new_br_12 | expose<br>cash<br>debris<br>drive<br>hand<br>success<br>tail<br>fame<br>custom<br>color<br>follow<br>amateur |  
+| bip_39_word_new_br_2 | expose<br>cash |  
+| bip_39_word_new_br_3 | expose<br>cash<br>debris |  
+| bip_39_word_new_br_4 | expose<br>cash<br>debris<br>drive |  
+| bip_39_word_new_br_5 | expose<br>cash<br>debris<br>drive<br>hand |  
+| bip_39_word_new_br_6 | expose<br>cash<br>debris<br>drive<br>hand<br>success |  
+| bip_39_word_new_br_7 | expose<br>cash<br>debris<br>drive<br>hand<br>success<br>tail |  
+| bip_39_word_new_br_8 | expose<br>cash<br>debris<br>drive<br>hand<br>success<br>tail<br>fame |  
+| bip_39_word_new_br_9 | expose<br>cash<br>debris<br>drive<br>hand<br>success<br>tail<br>fame<br>custom |  
+| bip_39_word_new_line_1 | expose |  
+| bip_39_word_new_line_10 | expose
 cash
 debris
 drive
@@ -55,7 +55,7 @@ tail
 fame
 custom
 color |  
-| bip_39_word_new_line11 | expose
+| bip_39_word_new_line_11 | expose
 cash
 debris
 drive
@@ -66,7 +66,7 @@ fame
 custom
 color
 follow |  
-| bip_39_word_new_line12 | expose
+| bip_39_word_new_line_12 | expose
 cash
 debris
 drive
@@ -78,34 +78,34 @@ custom
 color
 follow
 amateur |  
-| bip_39_word_new_line2 | expose
+| bip_39_word_new_line_2 | expose
 cash |  
-| bip_39_word_new_line3 | expose
+| bip_39_word_new_line_3 | expose
 cash
 debris |  
-| bip_39_word_new_line4 | expose
+| bip_39_word_new_line_4 | expose
 cash
 debris
 drive |  
-| bip_39_word_new_line5 | expose
+| bip_39_word_new_line_5 | expose
 cash
 debris
 drive
 hand |  
-| bip_39_word_new_line6 | expose
+| bip_39_word_new_line_6 | expose
 cash
 debris
 drive
 hand
 success |  
-| bip_39_word_new_line7 | expose
+| bip_39_word_new_line_7 | expose
 cash
 debris
 drive
 hand
 success
 tail |  
-| bip_39_word_new_line8 | expose
+| bip_39_word_new_line_8 | expose
 cash
 debris
 drive
@@ -113,7 +113,7 @@ hand
 success
 tail
 fame |  
-| bip_39_word_new_line9 | expose
+| bip_39_word_new_line_9 | expose
 cash
 debris
 drive

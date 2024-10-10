@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | segment |  
-| bip_39_word_new_br10 | segment<br>spare<br>cause<br>hungry<br>gorilla<br>nerve<br>gym<br>session<br>friend<br>ribbon |  
-| bip_39_word_new_br11 | segment<br>spare<br>cause<br>hungry<br>gorilla<br>nerve<br>gym<br>session<br>friend<br>ribbon<br>such |  
-| bip_39_word_new_br12 | segment<br>spare<br>cause<br>hungry<br>gorilla<br>nerve<br>gym<br>session<br>friend<br>ribbon<br>such<br>animal |  
-| bip_39_word_new_br2 | segment<br>spare |  
-| bip_39_word_new_br3 | segment<br>spare<br>cause |  
-| bip_39_word_new_br4 | segment<br>spare<br>cause<br>hungry |  
-| bip_39_word_new_br5 | segment<br>spare<br>cause<br>hungry<br>gorilla |  
-| bip_39_word_new_br6 | segment<br>spare<br>cause<br>hungry<br>gorilla<br>nerve |  
-| bip_39_word_new_br7 | segment<br>spare<br>cause<br>hungry<br>gorilla<br>nerve<br>gym |  
-| bip_39_word_new_br8 | segment<br>spare<br>cause<br>hungry<br>gorilla<br>nerve<br>gym<br>session |  
-| bip_39_word_new_br9 | segment<br>spare<br>cause<br>hungry<br>gorilla<br>nerve<br>gym<br>session<br>friend |  
-| bip_39_word_new_line1 | segment |  
-| bip_39_word_new_line10 | segment
+| bip_39_word_new_br_1 | segment |  
+| bip_39_word_new_br_10 | segment<br>spare<br>cause<br>hungry<br>gorilla<br>nerve<br>gym<br>session<br>friend<br>ribbon |  
+| bip_39_word_new_br_11 | segment<br>spare<br>cause<br>hungry<br>gorilla<br>nerve<br>gym<br>session<br>friend<br>ribbon<br>such |  
+| bip_39_word_new_br_12 | segment<br>spare<br>cause<br>hungry<br>gorilla<br>nerve<br>gym<br>session<br>friend<br>ribbon<br>such<br>animal |  
+| bip_39_word_new_br_2 | segment<br>spare |  
+| bip_39_word_new_br_3 | segment<br>spare<br>cause |  
+| bip_39_word_new_br_4 | segment<br>spare<br>cause<br>hungry |  
+| bip_39_word_new_br_5 | segment<br>spare<br>cause<br>hungry<br>gorilla |  
+| bip_39_word_new_br_6 | segment<br>spare<br>cause<br>hungry<br>gorilla<br>nerve |  
+| bip_39_word_new_br_7 | segment<br>spare<br>cause<br>hungry<br>gorilla<br>nerve<br>gym |  
+| bip_39_word_new_br_8 | segment<br>spare<br>cause<br>hungry<br>gorilla<br>nerve<br>gym<br>session |  
+| bip_39_word_new_br_9 | segment<br>spare<br>cause<br>hungry<br>gorilla<br>nerve<br>gym<br>session<br>friend |  
+| bip_39_word_new_line_1 | segment |  
+| bip_39_word_new_line_10 | segment
 spare
 cause
 hungry
@@ -55,7 +55,7 @@ gym
 session
 friend
 ribbon |  
-| bip_39_word_new_line11 | segment
+| bip_39_word_new_line_11 | segment
 spare
 cause
 hungry
@@ -66,7 +66,7 @@ session
 friend
 ribbon
 such |  
-| bip_39_word_new_line12 | segment
+| bip_39_word_new_line_12 | segment
 spare
 cause
 hungry
@@ -78,34 +78,34 @@ friend
 ribbon
 such
 animal |  
-| bip_39_word_new_line2 | segment
+| bip_39_word_new_line_2 | segment
 spare |  
-| bip_39_word_new_line3 | segment
+| bip_39_word_new_line_3 | segment
 spare
 cause |  
-| bip_39_word_new_line4 | segment
+| bip_39_word_new_line_4 | segment
 spare
 cause
 hungry |  
-| bip_39_word_new_line5 | segment
+| bip_39_word_new_line_5 | segment
 spare
 cause
 hungry
 gorilla |  
-| bip_39_word_new_line6 | segment
+| bip_39_word_new_line_6 | segment
 spare
 cause
 hungry
 gorilla
 nerve |  
-| bip_39_word_new_line7 | segment
+| bip_39_word_new_line_7 | segment
 spare
 cause
 hungry
 gorilla
 nerve
 gym |  
-| bip_39_word_new_line8 | segment
+| bip_39_word_new_line_8 | segment
 spare
 cause
 hungry
@@ -113,7 +113,7 @@ gorilla
 nerve
 gym
 session |  
-| bip_39_word_new_line9 | segment
+| bip_39_word_new_line_9 | segment
 spare
 cause
 hungry

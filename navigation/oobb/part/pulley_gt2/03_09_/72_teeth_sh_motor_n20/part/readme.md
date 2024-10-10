@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | key |  
-| bip_39_word_new_br10 | key<br>innocent<br>when<br>away<br>undo<br>race<br>glove<br>detect<br>situate<br>hotel |  
-| bip_39_word_new_br11 | key<br>innocent<br>when<br>away<br>undo<br>race<br>glove<br>detect<br>situate<br>hotel<br>coil |  
-| bip_39_word_new_br12 | key<br>innocent<br>when<br>away<br>undo<br>race<br>glove<br>detect<br>situate<br>hotel<br>coil<br>aerobic |  
-| bip_39_word_new_br2 | key<br>innocent |  
-| bip_39_word_new_br3 | key<br>innocent<br>when |  
-| bip_39_word_new_br4 | key<br>innocent<br>when<br>away |  
-| bip_39_word_new_br5 | key<br>innocent<br>when<br>away<br>undo |  
-| bip_39_word_new_br6 | key<br>innocent<br>when<br>away<br>undo<br>race |  
-| bip_39_word_new_br7 | key<br>innocent<br>when<br>away<br>undo<br>race<br>glove |  
-| bip_39_word_new_br8 | key<br>innocent<br>when<br>away<br>undo<br>race<br>glove<br>detect |  
-| bip_39_word_new_br9 | key<br>innocent<br>when<br>away<br>undo<br>race<br>glove<br>detect<br>situate |  
-| bip_39_word_new_line1 | key |  
-| bip_39_word_new_line10 | key
+| bip_39_word_new_br_1 | key |  
+| bip_39_word_new_br_10 | key<br>innocent<br>when<br>away<br>undo<br>race<br>glove<br>detect<br>situate<br>hotel |  
+| bip_39_word_new_br_11 | key<br>innocent<br>when<br>away<br>undo<br>race<br>glove<br>detect<br>situate<br>hotel<br>coil |  
+| bip_39_word_new_br_12 | key<br>innocent<br>when<br>away<br>undo<br>race<br>glove<br>detect<br>situate<br>hotel<br>coil<br>aerobic |  
+| bip_39_word_new_br_2 | key<br>innocent |  
+| bip_39_word_new_br_3 | key<br>innocent<br>when |  
+| bip_39_word_new_br_4 | key<br>innocent<br>when<br>away |  
+| bip_39_word_new_br_5 | key<br>innocent<br>when<br>away<br>undo |  
+| bip_39_word_new_br_6 | key<br>innocent<br>when<br>away<br>undo<br>race |  
+| bip_39_word_new_br_7 | key<br>innocent<br>when<br>away<br>undo<br>race<br>glove |  
+| bip_39_word_new_br_8 | key<br>innocent<br>when<br>away<br>undo<br>race<br>glove<br>detect |  
+| bip_39_word_new_br_9 | key<br>innocent<br>when<br>away<br>undo<br>race<br>glove<br>detect<br>situate |  
+| bip_39_word_new_line_1 | key |  
+| bip_39_word_new_line_10 | key
 innocent
 when
 away
@@ -55,7 +55,7 @@ glove
 detect
 situate
 hotel |  
-| bip_39_word_new_line11 | key
+| bip_39_word_new_line_11 | key
 innocent
 when
 away
@@ -66,7 +66,7 @@ detect
 situate
 hotel
 coil |  
-| bip_39_word_new_line12 | key
+| bip_39_word_new_line_12 | key
 innocent
 when
 away
@@ -78,34 +78,34 @@ situate
 hotel
 coil
 aerobic |  
-| bip_39_word_new_line2 | key
+| bip_39_word_new_line_2 | key
 innocent |  
-| bip_39_word_new_line3 | key
+| bip_39_word_new_line_3 | key
 innocent
 when |  
-| bip_39_word_new_line4 | key
+| bip_39_word_new_line_4 | key
 innocent
 when
 away |  
-| bip_39_word_new_line5 | key
+| bip_39_word_new_line_5 | key
 innocent
 when
 away
 undo |  
-| bip_39_word_new_line6 | key
+| bip_39_word_new_line_6 | key
 innocent
 when
 away
 undo
 race |  
-| bip_39_word_new_line7 | key
+| bip_39_word_new_line_7 | key
 innocent
 when
 away
 undo
 race
 glove |  
-| bip_39_word_new_line8 | key
+| bip_39_word_new_line_8 | key
 innocent
 when
 away
@@ -113,7 +113,7 @@ undo
 race
 glove
 detect |  
-| bip_39_word_new_line9 | key
+| bip_39_word_new_line_9 | key
 innocent
 when
 away

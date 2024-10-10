@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | relief |  
-| bip_39_word_new_br10 | relief<br>antique<br>science<br>group<br>ready<br>memory<br>valid<br>give<br>couple<br>cliff |  
-| bip_39_word_new_br11 | relief<br>antique<br>science<br>group<br>ready<br>memory<br>valid<br>give<br>couple<br>cliff<br>rebuild |  
-| bip_39_word_new_br12 | relief<br>antique<br>science<br>group<br>ready<br>memory<br>valid<br>give<br>couple<br>cliff<br>rebuild<br>age |  
-| bip_39_word_new_br2 | relief<br>antique |  
-| bip_39_word_new_br3 | relief<br>antique<br>science |  
-| bip_39_word_new_br4 | relief<br>antique<br>science<br>group |  
-| bip_39_word_new_br5 | relief<br>antique<br>science<br>group<br>ready |  
-| bip_39_word_new_br6 | relief<br>antique<br>science<br>group<br>ready<br>memory |  
-| bip_39_word_new_br7 | relief<br>antique<br>science<br>group<br>ready<br>memory<br>valid |  
-| bip_39_word_new_br8 | relief<br>antique<br>science<br>group<br>ready<br>memory<br>valid<br>give |  
-| bip_39_word_new_br9 | relief<br>antique<br>science<br>group<br>ready<br>memory<br>valid<br>give<br>couple |  
-| bip_39_word_new_line1 | relief |  
-| bip_39_word_new_line10 | relief
+| bip_39_word_new_br_1 | relief |  
+| bip_39_word_new_br_10 | relief<br>antique<br>science<br>group<br>ready<br>memory<br>valid<br>give<br>couple<br>cliff |  
+| bip_39_word_new_br_11 | relief<br>antique<br>science<br>group<br>ready<br>memory<br>valid<br>give<br>couple<br>cliff<br>rebuild |  
+| bip_39_word_new_br_12 | relief<br>antique<br>science<br>group<br>ready<br>memory<br>valid<br>give<br>couple<br>cliff<br>rebuild<br>age |  
+| bip_39_word_new_br_2 | relief<br>antique |  
+| bip_39_word_new_br_3 | relief<br>antique<br>science |  
+| bip_39_word_new_br_4 | relief<br>antique<br>science<br>group |  
+| bip_39_word_new_br_5 | relief<br>antique<br>science<br>group<br>ready |  
+| bip_39_word_new_br_6 | relief<br>antique<br>science<br>group<br>ready<br>memory |  
+| bip_39_word_new_br_7 | relief<br>antique<br>science<br>group<br>ready<br>memory<br>valid |  
+| bip_39_word_new_br_8 | relief<br>antique<br>science<br>group<br>ready<br>memory<br>valid<br>give |  
+| bip_39_word_new_br_9 | relief<br>antique<br>science<br>group<br>ready<br>memory<br>valid<br>give<br>couple |  
+| bip_39_word_new_line_1 | relief |  
+| bip_39_word_new_line_10 | relief
 antique
 science
 group
@@ -55,7 +55,7 @@ valid
 give
 couple
 cliff |  
-| bip_39_word_new_line11 | relief
+| bip_39_word_new_line_11 | relief
 antique
 science
 group
@@ -66,7 +66,7 @@ give
 couple
 cliff
 rebuild |  
-| bip_39_word_new_line12 | relief
+| bip_39_word_new_line_12 | relief
 antique
 science
 group
@@ -78,34 +78,34 @@ couple
 cliff
 rebuild
 age |  
-| bip_39_word_new_line2 | relief
+| bip_39_word_new_line_2 | relief
 antique |  
-| bip_39_word_new_line3 | relief
+| bip_39_word_new_line_3 | relief
 antique
 science |  
-| bip_39_word_new_line4 | relief
+| bip_39_word_new_line_4 | relief
 antique
 science
 group |  
-| bip_39_word_new_line5 | relief
+| bip_39_word_new_line_5 | relief
 antique
 science
 group
 ready |  
-| bip_39_word_new_line6 | relief
+| bip_39_word_new_line_6 | relief
 antique
 science
 group
 ready
 memory |  
-| bip_39_word_new_line7 | relief
+| bip_39_word_new_line_7 | relief
 antique
 science
 group
 ready
 memory
 valid |  
-| bip_39_word_new_line8 | relief
+| bip_39_word_new_line_8 | relief
 antique
 science
 group
@@ -113,7 +113,7 @@ ready
 memory
 valid
 give |  
-| bip_39_word_new_line9 | relief
+| bip_39_word_new_line_9 | relief
 antique
 science
 group

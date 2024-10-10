@@ -1,17 +1,17 @@
-bip_39_word_new_br1: solution
-bip_39_word_new_br10: solution<br>setup<br>achieve<br>blame<br>crazy<br>major<br>blame<br>copper<br>search<br>mind
-bip_39_word_new_br11: solution<br>setup<br>achieve<br>blame<br>crazy<br>major<br>blame<br>copper<br>search<br>mind<br>destroy
-bip_39_word_new_br12: solution<br>setup<br>achieve<br>blame<br>crazy<br>major<br>blame<br>copper<br>search<br>mind<br>destroy<br>atom
-bip_39_word_new_br2: solution<br>setup
-bip_39_word_new_br3: solution<br>setup<br>achieve
-bip_39_word_new_br4: solution<br>setup<br>achieve<br>blame
-bip_39_word_new_br5: solution<br>setup<br>achieve<br>blame<br>crazy
-bip_39_word_new_br6: solution<br>setup<br>achieve<br>blame<br>crazy<br>major
-bip_39_word_new_br7: solution<br>setup<br>achieve<br>blame<br>crazy<br>major<br>blame
-bip_39_word_new_br8: solution<br>setup<br>achieve<br>blame<br>crazy<br>major<br>blame<br>copper
-bip_39_word_new_br9: solution<br>setup<br>achieve<br>blame<br>crazy<br>major<br>blame<br>copper<br>search
-bip_39_word_new_line1: solution
-bip_39_word_new_line10: 'solution
+bip_39_word_new_br_1: solution
+bip_39_word_new_br_10: solution<br>setup<br>achieve<br>blame<br>crazy<br>major<br>blame<br>copper<br>search<br>mind
+bip_39_word_new_br_11: solution<br>setup<br>achieve<br>blame<br>crazy<br>major<br>blame<br>copper<br>search<br>mind<br>destroy
+bip_39_word_new_br_12: solution<br>setup<br>achieve<br>blame<br>crazy<br>major<br>blame<br>copper<br>search<br>mind<br>destroy<br>atom
+bip_39_word_new_br_2: solution<br>setup
+bip_39_word_new_br_3: solution<br>setup<br>achieve
+bip_39_word_new_br_4: solution<br>setup<br>achieve<br>blame
+bip_39_word_new_br_5: solution<br>setup<br>achieve<br>blame<br>crazy
+bip_39_word_new_br_6: solution<br>setup<br>achieve<br>blame<br>crazy<br>major
+bip_39_word_new_br_7: solution<br>setup<br>achieve<br>blame<br>crazy<br>major<br>blame
+bip_39_word_new_br_8: solution<br>setup<br>achieve<br>blame<br>crazy<br>major<br>blame<br>copper
+bip_39_word_new_br_9: solution<br>setup<br>achieve<br>blame<br>crazy<br>major<br>blame<br>copper<br>search
+bip_39_word_new_line_1: solution
+bip_39_word_new_line_10: 'solution
 
   setup
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'solution
   search
 
   mind'
-bip_39_word_new_line11: 'solution
+bip_39_word_new_line_11: 'solution
 
   setup
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'solution
   mind
 
   destroy'
-bip_39_word_new_line12: 'solution
+bip_39_word_new_line_12: 'solution
 
   setup
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'solution
   destroy
 
   atom'
-bip_39_word_new_line2: 'solution
+bip_39_word_new_line_2: 'solution
 
   setup'
-bip_39_word_new_line3: 'solution
+bip_39_word_new_line_3: 'solution
 
   setup
 
   achieve'
-bip_39_word_new_line4: 'solution
+bip_39_word_new_line_4: 'solution
 
   setup
 
   achieve
 
   blame'
-bip_39_word_new_line5: 'solution
+bip_39_word_new_line_5: 'solution
 
   setup
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'solution
   blame
 
   crazy'
-bip_39_word_new_line6: 'solution
+bip_39_word_new_line_6: 'solution
 
   setup
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'solution
   crazy
 
   major'
-bip_39_word_new_line7: 'solution
+bip_39_word_new_line_7: 'solution
 
   setup
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'solution
   major
 
   blame'
-bip_39_word_new_line8: 'solution
+bip_39_word_new_line_8: 'solution
 
   setup
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'solution
   blame
 
   copper'
-bip_39_word_new_line9: 'solution
+bip_39_word_new_line_9: 'solution
 
   setup
 

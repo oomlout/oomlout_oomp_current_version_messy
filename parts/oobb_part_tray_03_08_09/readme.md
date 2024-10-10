@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | visa |  
-| bip_39_word_new_br10 | visa<br>lesson<br>trial<br>bid<br>milk<br>climb<br>donkey<br>fame<br>shed<br>group |  
-| bip_39_word_new_br11 | visa<br>lesson<br>trial<br>bid<br>milk<br>climb<br>donkey<br>fame<br>shed<br>group<br>immense |  
-| bip_39_word_new_br12 | visa<br>lesson<br>trial<br>bid<br>milk<br>climb<br>donkey<br>fame<br>shed<br>group<br>immense<br>annual |  
-| bip_39_word_new_br2 | visa<br>lesson |  
-| bip_39_word_new_br3 | visa<br>lesson<br>trial |  
-| bip_39_word_new_br4 | visa<br>lesson<br>trial<br>bid |  
-| bip_39_word_new_br5 | visa<br>lesson<br>trial<br>bid<br>milk |  
-| bip_39_word_new_br6 | visa<br>lesson<br>trial<br>bid<br>milk<br>climb |  
-| bip_39_word_new_br7 | visa<br>lesson<br>trial<br>bid<br>milk<br>climb<br>donkey |  
-| bip_39_word_new_br8 | visa<br>lesson<br>trial<br>bid<br>milk<br>climb<br>donkey<br>fame |  
-| bip_39_word_new_br9 | visa<br>lesson<br>trial<br>bid<br>milk<br>climb<br>donkey<br>fame<br>shed |  
-| bip_39_word_new_line1 | visa |  
-| bip_39_word_new_line10 | visa
+| bip_39_word_new_br_1 | visa |  
+| bip_39_word_new_br_10 | visa<br>lesson<br>trial<br>bid<br>milk<br>climb<br>donkey<br>fame<br>shed<br>group |  
+| bip_39_word_new_br_11 | visa<br>lesson<br>trial<br>bid<br>milk<br>climb<br>donkey<br>fame<br>shed<br>group<br>immense |  
+| bip_39_word_new_br_12 | visa<br>lesson<br>trial<br>bid<br>milk<br>climb<br>donkey<br>fame<br>shed<br>group<br>immense<br>annual |  
+| bip_39_word_new_br_2 | visa<br>lesson |  
+| bip_39_word_new_br_3 | visa<br>lesson<br>trial |  
+| bip_39_word_new_br_4 | visa<br>lesson<br>trial<br>bid |  
+| bip_39_word_new_br_5 | visa<br>lesson<br>trial<br>bid<br>milk |  
+| bip_39_word_new_br_6 | visa<br>lesson<br>trial<br>bid<br>milk<br>climb |  
+| bip_39_word_new_br_7 | visa<br>lesson<br>trial<br>bid<br>milk<br>climb<br>donkey |  
+| bip_39_word_new_br_8 | visa<br>lesson<br>trial<br>bid<br>milk<br>climb<br>donkey<br>fame |  
+| bip_39_word_new_br_9 | visa<br>lesson<br>trial<br>bid<br>milk<br>climb<br>donkey<br>fame<br>shed |  
+| bip_39_word_new_line_1 | visa |  
+| bip_39_word_new_line_10 | visa
 lesson
 trial
 bid
@@ -55,7 +55,7 @@ donkey
 fame
 shed
 group |  
-| bip_39_word_new_line11 | visa
+| bip_39_word_new_line_11 | visa
 lesson
 trial
 bid
@@ -66,7 +66,7 @@ fame
 shed
 group
 immense |  
-| bip_39_word_new_line12 | visa
+| bip_39_word_new_line_12 | visa
 lesson
 trial
 bid
@@ -78,34 +78,34 @@ shed
 group
 immense
 annual |  
-| bip_39_word_new_line2 | visa
+| bip_39_word_new_line_2 | visa
 lesson |  
-| bip_39_word_new_line3 | visa
+| bip_39_word_new_line_3 | visa
 lesson
 trial |  
-| bip_39_word_new_line4 | visa
+| bip_39_word_new_line_4 | visa
 lesson
 trial
 bid |  
-| bip_39_word_new_line5 | visa
+| bip_39_word_new_line_5 | visa
 lesson
 trial
 bid
 milk |  
-| bip_39_word_new_line6 | visa
+| bip_39_word_new_line_6 | visa
 lesson
 trial
 bid
 milk
 climb |  
-| bip_39_word_new_line7 | visa
+| bip_39_word_new_line_7 | visa
 lesson
 trial
 bid
 milk
 climb
 donkey |  
-| bip_39_word_new_line8 | visa
+| bip_39_word_new_line_8 | visa
 lesson
 trial
 bid
@@ -113,7 +113,7 @@ milk
 climb
 donkey
 fame |  
-| bip_39_word_new_line9 | visa
+| bip_39_word_new_line_9 | visa
 lesson
 trial
 bid

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | phone |  
-| bip_39_word_new_br10 | phone<br>horse<br>devote<br>ticket<br>island<br>earth<br>adapt<br>violin<br>kick<br>heavy |  
-| bip_39_word_new_br11 | phone<br>horse<br>devote<br>ticket<br>island<br>earth<br>adapt<br>violin<br>kick<br>heavy<br>art |  
-| bip_39_word_new_br12 | phone<br>horse<br>devote<br>ticket<br>island<br>earth<br>adapt<br>violin<br>kick<br>heavy<br>art<br>aunt |  
-| bip_39_word_new_br2 | phone<br>horse |  
-| bip_39_word_new_br3 | phone<br>horse<br>devote |  
-| bip_39_word_new_br4 | phone<br>horse<br>devote<br>ticket |  
-| bip_39_word_new_br5 | phone<br>horse<br>devote<br>ticket<br>island |  
-| bip_39_word_new_br6 | phone<br>horse<br>devote<br>ticket<br>island<br>earth |  
-| bip_39_word_new_br7 | phone<br>horse<br>devote<br>ticket<br>island<br>earth<br>adapt |  
-| bip_39_word_new_br8 | phone<br>horse<br>devote<br>ticket<br>island<br>earth<br>adapt<br>violin |  
-| bip_39_word_new_br9 | phone<br>horse<br>devote<br>ticket<br>island<br>earth<br>adapt<br>violin<br>kick |  
-| bip_39_word_new_line1 | phone |  
-| bip_39_word_new_line10 | phone
+| bip_39_word_new_br_1 | phone |  
+| bip_39_word_new_br_10 | phone<br>horse<br>devote<br>ticket<br>island<br>earth<br>adapt<br>violin<br>kick<br>heavy |  
+| bip_39_word_new_br_11 | phone<br>horse<br>devote<br>ticket<br>island<br>earth<br>adapt<br>violin<br>kick<br>heavy<br>art |  
+| bip_39_word_new_br_12 | phone<br>horse<br>devote<br>ticket<br>island<br>earth<br>adapt<br>violin<br>kick<br>heavy<br>art<br>aunt |  
+| bip_39_word_new_br_2 | phone<br>horse |  
+| bip_39_word_new_br_3 | phone<br>horse<br>devote |  
+| bip_39_word_new_br_4 | phone<br>horse<br>devote<br>ticket |  
+| bip_39_word_new_br_5 | phone<br>horse<br>devote<br>ticket<br>island |  
+| bip_39_word_new_br_6 | phone<br>horse<br>devote<br>ticket<br>island<br>earth |  
+| bip_39_word_new_br_7 | phone<br>horse<br>devote<br>ticket<br>island<br>earth<br>adapt |  
+| bip_39_word_new_br_8 | phone<br>horse<br>devote<br>ticket<br>island<br>earth<br>adapt<br>violin |  
+| bip_39_word_new_br_9 | phone<br>horse<br>devote<br>ticket<br>island<br>earth<br>adapt<br>violin<br>kick |  
+| bip_39_word_new_line_1 | phone |  
+| bip_39_word_new_line_10 | phone
 horse
 devote
 ticket
@@ -55,7 +55,7 @@ adapt
 violin
 kick
 heavy |  
-| bip_39_word_new_line11 | phone
+| bip_39_word_new_line_11 | phone
 horse
 devote
 ticket
@@ -66,7 +66,7 @@ violin
 kick
 heavy
 art |  
-| bip_39_word_new_line12 | phone
+| bip_39_word_new_line_12 | phone
 horse
 devote
 ticket
@@ -78,34 +78,34 @@ kick
 heavy
 art
 aunt |  
-| bip_39_word_new_line2 | phone
+| bip_39_word_new_line_2 | phone
 horse |  
-| bip_39_word_new_line3 | phone
+| bip_39_word_new_line_3 | phone
 horse
 devote |  
-| bip_39_word_new_line4 | phone
+| bip_39_word_new_line_4 | phone
 horse
 devote
 ticket |  
-| bip_39_word_new_line5 | phone
+| bip_39_word_new_line_5 | phone
 horse
 devote
 ticket
 island |  
-| bip_39_word_new_line6 | phone
+| bip_39_word_new_line_6 | phone
 horse
 devote
 ticket
 island
 earth |  
-| bip_39_word_new_line7 | phone
+| bip_39_word_new_line_7 | phone
 horse
 devote
 ticket
 island
 earth
 adapt |  
-| bip_39_word_new_line8 | phone
+| bip_39_word_new_line_8 | phone
 horse
 devote
 ticket
@@ -113,7 +113,7 @@ island
 earth
 adapt
 violin |  
-| bip_39_word_new_line9 | phone
+| bip_39_word_new_line_9 | phone
 horse
 devote
 ticket

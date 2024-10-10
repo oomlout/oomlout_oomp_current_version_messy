@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hover |  
-| bip_39_word_new_br10 | hover<br>pistol<br>punch<br>nominee<br>tube<br>galaxy<br>best<br>venue<br>bench<br>cake |  
-| bip_39_word_new_br11 | hover<br>pistol<br>punch<br>nominee<br>tube<br>galaxy<br>best<br>venue<br>bench<br>cake<br>ozone |  
-| bip_39_word_new_br12 | hover<br>pistol<br>punch<br>nominee<br>tube<br>galaxy<br>best<br>venue<br>bench<br>cake<br>ozone<br>area |  
-| bip_39_word_new_br2 | hover<br>pistol |  
-| bip_39_word_new_br3 | hover<br>pistol<br>punch |  
-| bip_39_word_new_br4 | hover<br>pistol<br>punch<br>nominee |  
-| bip_39_word_new_br5 | hover<br>pistol<br>punch<br>nominee<br>tube |  
-| bip_39_word_new_br6 | hover<br>pistol<br>punch<br>nominee<br>tube<br>galaxy |  
-| bip_39_word_new_br7 | hover<br>pistol<br>punch<br>nominee<br>tube<br>galaxy<br>best |  
-| bip_39_word_new_br8 | hover<br>pistol<br>punch<br>nominee<br>tube<br>galaxy<br>best<br>venue |  
-| bip_39_word_new_br9 | hover<br>pistol<br>punch<br>nominee<br>tube<br>galaxy<br>best<br>venue<br>bench |  
-| bip_39_word_new_line1 | hover |  
-| bip_39_word_new_line10 | hover
+| bip_39_word_new_br_1 | hover |  
+| bip_39_word_new_br_10 | hover<br>pistol<br>punch<br>nominee<br>tube<br>galaxy<br>best<br>venue<br>bench<br>cake |  
+| bip_39_word_new_br_11 | hover<br>pistol<br>punch<br>nominee<br>tube<br>galaxy<br>best<br>venue<br>bench<br>cake<br>ozone |  
+| bip_39_word_new_br_12 | hover<br>pistol<br>punch<br>nominee<br>tube<br>galaxy<br>best<br>venue<br>bench<br>cake<br>ozone<br>area |  
+| bip_39_word_new_br_2 | hover<br>pistol |  
+| bip_39_word_new_br_3 | hover<br>pistol<br>punch |  
+| bip_39_word_new_br_4 | hover<br>pistol<br>punch<br>nominee |  
+| bip_39_word_new_br_5 | hover<br>pistol<br>punch<br>nominee<br>tube |  
+| bip_39_word_new_br_6 | hover<br>pistol<br>punch<br>nominee<br>tube<br>galaxy |  
+| bip_39_word_new_br_7 | hover<br>pistol<br>punch<br>nominee<br>tube<br>galaxy<br>best |  
+| bip_39_word_new_br_8 | hover<br>pistol<br>punch<br>nominee<br>tube<br>galaxy<br>best<br>venue |  
+| bip_39_word_new_br_9 | hover<br>pistol<br>punch<br>nominee<br>tube<br>galaxy<br>best<br>venue<br>bench |  
+| bip_39_word_new_line_1 | hover |  
+| bip_39_word_new_line_10 | hover
 pistol
 punch
 nominee
@@ -55,7 +55,7 @@ best
 venue
 bench
 cake |  
-| bip_39_word_new_line11 | hover
+| bip_39_word_new_line_11 | hover
 pistol
 punch
 nominee
@@ -66,7 +66,7 @@ venue
 bench
 cake
 ozone |  
-| bip_39_word_new_line12 | hover
+| bip_39_word_new_line_12 | hover
 pistol
 punch
 nominee
@@ -78,34 +78,34 @@ bench
 cake
 ozone
 area |  
-| bip_39_word_new_line2 | hover
+| bip_39_word_new_line_2 | hover
 pistol |  
-| bip_39_word_new_line3 | hover
+| bip_39_word_new_line_3 | hover
 pistol
 punch |  
-| bip_39_word_new_line4 | hover
+| bip_39_word_new_line_4 | hover
 pistol
 punch
 nominee |  
-| bip_39_word_new_line5 | hover
+| bip_39_word_new_line_5 | hover
 pistol
 punch
 nominee
 tube |  
-| bip_39_word_new_line6 | hover
+| bip_39_word_new_line_6 | hover
 pistol
 punch
 nominee
 tube
 galaxy |  
-| bip_39_word_new_line7 | hover
+| bip_39_word_new_line_7 | hover
 pistol
 punch
 nominee
 tube
 galaxy
 best |  
-| bip_39_word_new_line8 | hover
+| bip_39_word_new_line_8 | hover
 pistol
 punch
 nominee
@@ -113,7 +113,7 @@ tube
 galaxy
 best
 venue |  
-| bip_39_word_new_line9 | hover
+| bip_39_word_new_line_9 | hover
 pistol
 punch
 nominee

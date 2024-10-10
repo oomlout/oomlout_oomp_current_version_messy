@@ -1,17 +1,17 @@
-bip_39_word_new_br1: mobile
-bip_39_word_new_br10: mobile<br>autumn<br>various<br>trigger<br>resource<br>lawsuit<br>sphere<br>lottery<br>gas<br>limb
-bip_39_word_new_br11: mobile<br>autumn<br>various<br>trigger<br>resource<br>lawsuit<br>sphere<br>lottery<br>gas<br>limb<br>place
-bip_39_word_new_br12: mobile<br>autumn<br>various<br>trigger<br>resource<br>lawsuit<br>sphere<br>lottery<br>gas<br>limb<br>place<br>acid
-bip_39_word_new_br2: mobile<br>autumn
-bip_39_word_new_br3: mobile<br>autumn<br>various
-bip_39_word_new_br4: mobile<br>autumn<br>various<br>trigger
-bip_39_word_new_br5: mobile<br>autumn<br>various<br>trigger<br>resource
-bip_39_word_new_br6: mobile<br>autumn<br>various<br>trigger<br>resource<br>lawsuit
-bip_39_word_new_br7: mobile<br>autumn<br>various<br>trigger<br>resource<br>lawsuit<br>sphere
-bip_39_word_new_br8: mobile<br>autumn<br>various<br>trigger<br>resource<br>lawsuit<br>sphere<br>lottery
-bip_39_word_new_br9: mobile<br>autumn<br>various<br>trigger<br>resource<br>lawsuit<br>sphere<br>lottery<br>gas
-bip_39_word_new_line1: mobile
-bip_39_word_new_line10: 'mobile
+bip_39_word_new_br_1: mobile
+bip_39_word_new_br_10: mobile<br>autumn<br>various<br>trigger<br>resource<br>lawsuit<br>sphere<br>lottery<br>gas<br>limb
+bip_39_word_new_br_11: mobile<br>autumn<br>various<br>trigger<br>resource<br>lawsuit<br>sphere<br>lottery<br>gas<br>limb<br>place
+bip_39_word_new_br_12: mobile<br>autumn<br>various<br>trigger<br>resource<br>lawsuit<br>sphere<br>lottery<br>gas<br>limb<br>place<br>acid
+bip_39_word_new_br_2: mobile<br>autumn
+bip_39_word_new_br_3: mobile<br>autumn<br>various
+bip_39_word_new_br_4: mobile<br>autumn<br>various<br>trigger
+bip_39_word_new_br_5: mobile<br>autumn<br>various<br>trigger<br>resource
+bip_39_word_new_br_6: mobile<br>autumn<br>various<br>trigger<br>resource<br>lawsuit
+bip_39_word_new_br_7: mobile<br>autumn<br>various<br>trigger<br>resource<br>lawsuit<br>sphere
+bip_39_word_new_br_8: mobile<br>autumn<br>various<br>trigger<br>resource<br>lawsuit<br>sphere<br>lottery
+bip_39_word_new_br_9: mobile<br>autumn<br>various<br>trigger<br>resource<br>lawsuit<br>sphere<br>lottery<br>gas
+bip_39_word_new_line_1: mobile
+bip_39_word_new_line_10: 'mobile
 
   autumn
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'mobile
   gas
 
   limb'
-bip_39_word_new_line11: 'mobile
+bip_39_word_new_line_11: 'mobile
 
   autumn
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'mobile
   limb
 
   place'
-bip_39_word_new_line12: 'mobile
+bip_39_word_new_line_12: 'mobile
 
   autumn
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'mobile
   place
 
   acid'
-bip_39_word_new_line2: 'mobile
+bip_39_word_new_line_2: 'mobile
 
   autumn'
-bip_39_word_new_line3: 'mobile
+bip_39_word_new_line_3: 'mobile
 
   autumn
 
   various'
-bip_39_word_new_line4: 'mobile
+bip_39_word_new_line_4: 'mobile
 
   autumn
 
   various
 
   trigger'
-bip_39_word_new_line5: 'mobile
+bip_39_word_new_line_5: 'mobile
 
   autumn
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'mobile
   trigger
 
   resource'
-bip_39_word_new_line6: 'mobile
+bip_39_word_new_line_6: 'mobile
 
   autumn
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'mobile
   resource
 
   lawsuit'
-bip_39_word_new_line7: 'mobile
+bip_39_word_new_line_7: 'mobile
 
   autumn
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'mobile
   lawsuit
 
   sphere'
-bip_39_word_new_line8: 'mobile
+bip_39_word_new_line_8: 'mobile
 
   autumn
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'mobile
   sphere
 
   lottery'
-bip_39_word_new_line9: 'mobile
+bip_39_word_new_line_9: 'mobile
 
   autumn
 

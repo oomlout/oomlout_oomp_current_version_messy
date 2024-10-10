@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | steel |  
-| bip_39_word_new_br10 | steel<br>name<br>zone<br>rude<br>raw<br>ghost<br>horn<br>toddler<br>error<br>occur |  
-| bip_39_word_new_br11 | steel<br>name<br>zone<br>rude<br>raw<br>ghost<br>horn<br>toddler<br>error<br>occur<br>depth |  
-| bip_39_word_new_br12 | steel<br>name<br>zone<br>rude<br>raw<br>ghost<br>horn<br>toddler<br>error<br>occur<br>depth<br>arm |  
-| bip_39_word_new_br2 | steel<br>name |  
-| bip_39_word_new_br3 | steel<br>name<br>zone |  
-| bip_39_word_new_br4 | steel<br>name<br>zone<br>rude |  
-| bip_39_word_new_br5 | steel<br>name<br>zone<br>rude<br>raw |  
-| bip_39_word_new_br6 | steel<br>name<br>zone<br>rude<br>raw<br>ghost |  
-| bip_39_word_new_br7 | steel<br>name<br>zone<br>rude<br>raw<br>ghost<br>horn |  
-| bip_39_word_new_br8 | steel<br>name<br>zone<br>rude<br>raw<br>ghost<br>horn<br>toddler |  
-| bip_39_word_new_br9 | steel<br>name<br>zone<br>rude<br>raw<br>ghost<br>horn<br>toddler<br>error |  
-| bip_39_word_new_line1 | steel |  
-| bip_39_word_new_line10 | steel
+| bip_39_word_new_br_1 | steel |  
+| bip_39_word_new_br_10 | steel<br>name<br>zone<br>rude<br>raw<br>ghost<br>horn<br>toddler<br>error<br>occur |  
+| bip_39_word_new_br_11 | steel<br>name<br>zone<br>rude<br>raw<br>ghost<br>horn<br>toddler<br>error<br>occur<br>depth |  
+| bip_39_word_new_br_12 | steel<br>name<br>zone<br>rude<br>raw<br>ghost<br>horn<br>toddler<br>error<br>occur<br>depth<br>arm |  
+| bip_39_word_new_br_2 | steel<br>name |  
+| bip_39_word_new_br_3 | steel<br>name<br>zone |  
+| bip_39_word_new_br_4 | steel<br>name<br>zone<br>rude |  
+| bip_39_word_new_br_5 | steel<br>name<br>zone<br>rude<br>raw |  
+| bip_39_word_new_br_6 | steel<br>name<br>zone<br>rude<br>raw<br>ghost |  
+| bip_39_word_new_br_7 | steel<br>name<br>zone<br>rude<br>raw<br>ghost<br>horn |  
+| bip_39_word_new_br_8 | steel<br>name<br>zone<br>rude<br>raw<br>ghost<br>horn<br>toddler |  
+| bip_39_word_new_br_9 | steel<br>name<br>zone<br>rude<br>raw<br>ghost<br>horn<br>toddler<br>error |  
+| bip_39_word_new_line_1 | steel |  
+| bip_39_word_new_line_10 | steel
 name
 zone
 rude
@@ -55,7 +55,7 @@ horn
 toddler
 error
 occur |  
-| bip_39_word_new_line11 | steel
+| bip_39_word_new_line_11 | steel
 name
 zone
 rude
@@ -66,7 +66,7 @@ toddler
 error
 occur
 depth |  
-| bip_39_word_new_line12 | steel
+| bip_39_word_new_line_12 | steel
 name
 zone
 rude
@@ -78,34 +78,34 @@ error
 occur
 depth
 arm |  
-| bip_39_word_new_line2 | steel
+| bip_39_word_new_line_2 | steel
 name |  
-| bip_39_word_new_line3 | steel
+| bip_39_word_new_line_3 | steel
 name
 zone |  
-| bip_39_word_new_line4 | steel
+| bip_39_word_new_line_4 | steel
 name
 zone
 rude |  
-| bip_39_word_new_line5 | steel
+| bip_39_word_new_line_5 | steel
 name
 zone
 rude
 raw |  
-| bip_39_word_new_line6 | steel
+| bip_39_word_new_line_6 | steel
 name
 zone
 rude
 raw
 ghost |  
-| bip_39_word_new_line7 | steel
+| bip_39_word_new_line_7 | steel
 name
 zone
 rude
 raw
 ghost
 horn |  
-| bip_39_word_new_line8 | steel
+| bip_39_word_new_line_8 | steel
 name
 zone
 rude
@@ -113,7 +113,7 @@ raw
 ghost
 horn
 toddler |  
-| bip_39_word_new_line9 | steel
+| bip_39_word_new_line_9 | steel
 name
 zone
 rude

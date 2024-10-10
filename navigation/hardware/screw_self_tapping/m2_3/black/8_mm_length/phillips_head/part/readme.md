@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dentist |  
-| bip_39_word_new_br10 | dentist<br>pretty<br>blush<br>hotel<br>access<br>umbrella<br>rack<br>element<br>gossip<br>benefit |  
-| bip_39_word_new_br11 | dentist<br>pretty<br>blush<br>hotel<br>access<br>umbrella<br>rack<br>element<br>gossip<br>benefit<br>worry |  
-| bip_39_word_new_br12 | dentist<br>pretty<br>blush<br>hotel<br>access<br>umbrella<br>rack<br>element<br>gossip<br>benefit<br>worry<br>auto |  
-| bip_39_word_new_br2 | dentist<br>pretty |  
-| bip_39_word_new_br3 | dentist<br>pretty<br>blush |  
-| bip_39_word_new_br4 | dentist<br>pretty<br>blush<br>hotel |  
-| bip_39_word_new_br5 | dentist<br>pretty<br>blush<br>hotel<br>access |  
-| bip_39_word_new_br6 | dentist<br>pretty<br>blush<br>hotel<br>access<br>umbrella |  
-| bip_39_word_new_br7 | dentist<br>pretty<br>blush<br>hotel<br>access<br>umbrella<br>rack |  
-| bip_39_word_new_br8 | dentist<br>pretty<br>blush<br>hotel<br>access<br>umbrella<br>rack<br>element |  
-| bip_39_word_new_br9 | dentist<br>pretty<br>blush<br>hotel<br>access<br>umbrella<br>rack<br>element<br>gossip |  
-| bip_39_word_new_line1 | dentist |  
-| bip_39_word_new_line10 | dentist
+| bip_39_word_new_br_1 | dentist |  
+| bip_39_word_new_br_10 | dentist<br>pretty<br>blush<br>hotel<br>access<br>umbrella<br>rack<br>element<br>gossip<br>benefit |  
+| bip_39_word_new_br_11 | dentist<br>pretty<br>blush<br>hotel<br>access<br>umbrella<br>rack<br>element<br>gossip<br>benefit<br>worry |  
+| bip_39_word_new_br_12 | dentist<br>pretty<br>blush<br>hotel<br>access<br>umbrella<br>rack<br>element<br>gossip<br>benefit<br>worry<br>auto |  
+| bip_39_word_new_br_2 | dentist<br>pretty |  
+| bip_39_word_new_br_3 | dentist<br>pretty<br>blush |  
+| bip_39_word_new_br_4 | dentist<br>pretty<br>blush<br>hotel |  
+| bip_39_word_new_br_5 | dentist<br>pretty<br>blush<br>hotel<br>access |  
+| bip_39_word_new_br_6 | dentist<br>pretty<br>blush<br>hotel<br>access<br>umbrella |  
+| bip_39_word_new_br_7 | dentist<br>pretty<br>blush<br>hotel<br>access<br>umbrella<br>rack |  
+| bip_39_word_new_br_8 | dentist<br>pretty<br>blush<br>hotel<br>access<br>umbrella<br>rack<br>element |  
+| bip_39_word_new_br_9 | dentist<br>pretty<br>blush<br>hotel<br>access<br>umbrella<br>rack<br>element<br>gossip |  
+| bip_39_word_new_line_1 | dentist |  
+| bip_39_word_new_line_10 | dentist
 pretty
 blush
 hotel
@@ -55,7 +55,7 @@ rack
 element
 gossip
 benefit |  
-| bip_39_word_new_line11 | dentist
+| bip_39_word_new_line_11 | dentist
 pretty
 blush
 hotel
@@ -66,7 +66,7 @@ element
 gossip
 benefit
 worry |  
-| bip_39_word_new_line12 | dentist
+| bip_39_word_new_line_12 | dentist
 pretty
 blush
 hotel
@@ -78,34 +78,34 @@ gossip
 benefit
 worry
 auto |  
-| bip_39_word_new_line2 | dentist
+| bip_39_word_new_line_2 | dentist
 pretty |  
-| bip_39_word_new_line3 | dentist
+| bip_39_word_new_line_3 | dentist
 pretty
 blush |  
-| bip_39_word_new_line4 | dentist
+| bip_39_word_new_line_4 | dentist
 pretty
 blush
 hotel |  
-| bip_39_word_new_line5 | dentist
+| bip_39_word_new_line_5 | dentist
 pretty
 blush
 hotel
 access |  
-| bip_39_word_new_line6 | dentist
+| bip_39_word_new_line_6 | dentist
 pretty
 blush
 hotel
 access
 umbrella |  
-| bip_39_word_new_line7 | dentist
+| bip_39_word_new_line_7 | dentist
 pretty
 blush
 hotel
 access
 umbrella
 rack |  
-| bip_39_word_new_line8 | dentist
+| bip_39_word_new_line_8 | dentist
 pretty
 blush
 hotel
@@ -113,7 +113,7 @@ access
 umbrella
 rack
 element |  
-| bip_39_word_new_line9 | dentist
+| bip_39_word_new_line_9 | dentist
 pretty
 blush
 hotel

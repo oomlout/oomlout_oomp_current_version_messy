@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hazard |  
-| bip_39_word_new_br10 | hazard<br>alpha<br>tunnel<br>river<br>forward<br>vault<br>swap<br>drop<br>task<br>order |  
-| bip_39_word_new_br11 | hazard<br>alpha<br>tunnel<br>river<br>forward<br>vault<br>swap<br>drop<br>task<br>order<br>atom |  
-| bip_39_word_new_br12 | hazard<br>alpha<br>tunnel<br>river<br>forward<br>vault<br>swap<br>drop<br>task<br>order<br>atom<br>accident |  
-| bip_39_word_new_br2 | hazard<br>alpha |  
-| bip_39_word_new_br3 | hazard<br>alpha<br>tunnel |  
-| bip_39_word_new_br4 | hazard<br>alpha<br>tunnel<br>river |  
-| bip_39_word_new_br5 | hazard<br>alpha<br>tunnel<br>river<br>forward |  
-| bip_39_word_new_br6 | hazard<br>alpha<br>tunnel<br>river<br>forward<br>vault |  
-| bip_39_word_new_br7 | hazard<br>alpha<br>tunnel<br>river<br>forward<br>vault<br>swap |  
-| bip_39_word_new_br8 | hazard<br>alpha<br>tunnel<br>river<br>forward<br>vault<br>swap<br>drop |  
-| bip_39_word_new_br9 | hazard<br>alpha<br>tunnel<br>river<br>forward<br>vault<br>swap<br>drop<br>task |  
-| bip_39_word_new_line1 | hazard |  
-| bip_39_word_new_line10 | hazard
+| bip_39_word_new_br_1 | hazard |  
+| bip_39_word_new_br_10 | hazard<br>alpha<br>tunnel<br>river<br>forward<br>vault<br>swap<br>drop<br>task<br>order |  
+| bip_39_word_new_br_11 | hazard<br>alpha<br>tunnel<br>river<br>forward<br>vault<br>swap<br>drop<br>task<br>order<br>atom |  
+| bip_39_word_new_br_12 | hazard<br>alpha<br>tunnel<br>river<br>forward<br>vault<br>swap<br>drop<br>task<br>order<br>atom<br>accident |  
+| bip_39_word_new_br_2 | hazard<br>alpha |  
+| bip_39_word_new_br_3 | hazard<br>alpha<br>tunnel |  
+| bip_39_word_new_br_4 | hazard<br>alpha<br>tunnel<br>river |  
+| bip_39_word_new_br_5 | hazard<br>alpha<br>tunnel<br>river<br>forward |  
+| bip_39_word_new_br_6 | hazard<br>alpha<br>tunnel<br>river<br>forward<br>vault |  
+| bip_39_word_new_br_7 | hazard<br>alpha<br>tunnel<br>river<br>forward<br>vault<br>swap |  
+| bip_39_word_new_br_8 | hazard<br>alpha<br>tunnel<br>river<br>forward<br>vault<br>swap<br>drop |  
+| bip_39_word_new_br_9 | hazard<br>alpha<br>tunnel<br>river<br>forward<br>vault<br>swap<br>drop<br>task |  
+| bip_39_word_new_line_1 | hazard |  
+| bip_39_word_new_line_10 | hazard
 alpha
 tunnel
 river
@@ -55,7 +55,7 @@ swap
 drop
 task
 order |  
-| bip_39_word_new_line11 | hazard
+| bip_39_word_new_line_11 | hazard
 alpha
 tunnel
 river
@@ -66,7 +66,7 @@ drop
 task
 order
 atom |  
-| bip_39_word_new_line12 | hazard
+| bip_39_word_new_line_12 | hazard
 alpha
 tunnel
 river
@@ -78,34 +78,34 @@ task
 order
 atom
 accident |  
-| bip_39_word_new_line2 | hazard
+| bip_39_word_new_line_2 | hazard
 alpha |  
-| bip_39_word_new_line3 | hazard
+| bip_39_word_new_line_3 | hazard
 alpha
 tunnel |  
-| bip_39_word_new_line4 | hazard
+| bip_39_word_new_line_4 | hazard
 alpha
 tunnel
 river |  
-| bip_39_word_new_line5 | hazard
+| bip_39_word_new_line_5 | hazard
 alpha
 tunnel
 river
 forward |  
-| bip_39_word_new_line6 | hazard
+| bip_39_word_new_line_6 | hazard
 alpha
 tunnel
 river
 forward
 vault |  
-| bip_39_word_new_line7 | hazard
+| bip_39_word_new_line_7 | hazard
 alpha
 tunnel
 river
 forward
 vault
 swap |  
-| bip_39_word_new_line8 | hazard
+| bip_39_word_new_line_8 | hazard
 alpha
 tunnel
 river
@@ -113,7 +113,7 @@ forward
 vault
 swap
 drop |  
-| bip_39_word_new_line9 | hazard
+| bip_39_word_new_line_9 | hazard
 alpha
 tunnel
 river

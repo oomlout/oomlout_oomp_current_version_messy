@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | buddy |  
-| bip_39_word_new_br10 | buddy<br>danger<br>dignity<br>minute<br>permit<br>seat<br>cage<br>silent<br>answer<br>demise |  
-| bip_39_word_new_br11 | buddy<br>danger<br>dignity<br>minute<br>permit<br>seat<br>cage<br>silent<br>answer<br>demise<br>erode |  
-| bip_39_word_new_br12 | buddy<br>danger<br>dignity<br>minute<br>permit<br>seat<br>cage<br>silent<br>answer<br>demise<br>erode<br>arrest |  
-| bip_39_word_new_br2 | buddy<br>danger |  
-| bip_39_word_new_br3 | buddy<br>danger<br>dignity |  
-| bip_39_word_new_br4 | buddy<br>danger<br>dignity<br>minute |  
-| bip_39_word_new_br5 | buddy<br>danger<br>dignity<br>minute<br>permit |  
-| bip_39_word_new_br6 | buddy<br>danger<br>dignity<br>minute<br>permit<br>seat |  
-| bip_39_word_new_br7 | buddy<br>danger<br>dignity<br>minute<br>permit<br>seat<br>cage |  
-| bip_39_word_new_br8 | buddy<br>danger<br>dignity<br>minute<br>permit<br>seat<br>cage<br>silent |  
-| bip_39_word_new_br9 | buddy<br>danger<br>dignity<br>minute<br>permit<br>seat<br>cage<br>silent<br>answer |  
-| bip_39_word_new_line1 | buddy |  
-| bip_39_word_new_line10 | buddy
+| bip_39_word_new_br_1 | buddy |  
+| bip_39_word_new_br_10 | buddy<br>danger<br>dignity<br>minute<br>permit<br>seat<br>cage<br>silent<br>answer<br>demise |  
+| bip_39_word_new_br_11 | buddy<br>danger<br>dignity<br>minute<br>permit<br>seat<br>cage<br>silent<br>answer<br>demise<br>erode |  
+| bip_39_word_new_br_12 | buddy<br>danger<br>dignity<br>minute<br>permit<br>seat<br>cage<br>silent<br>answer<br>demise<br>erode<br>arrest |  
+| bip_39_word_new_br_2 | buddy<br>danger |  
+| bip_39_word_new_br_3 | buddy<br>danger<br>dignity |  
+| bip_39_word_new_br_4 | buddy<br>danger<br>dignity<br>minute |  
+| bip_39_word_new_br_5 | buddy<br>danger<br>dignity<br>minute<br>permit |  
+| bip_39_word_new_br_6 | buddy<br>danger<br>dignity<br>minute<br>permit<br>seat |  
+| bip_39_word_new_br_7 | buddy<br>danger<br>dignity<br>minute<br>permit<br>seat<br>cage |  
+| bip_39_word_new_br_8 | buddy<br>danger<br>dignity<br>minute<br>permit<br>seat<br>cage<br>silent |  
+| bip_39_word_new_br_9 | buddy<br>danger<br>dignity<br>minute<br>permit<br>seat<br>cage<br>silent<br>answer |  
+| bip_39_word_new_line_1 | buddy |  
+| bip_39_word_new_line_10 | buddy
 danger
 dignity
 minute
@@ -55,7 +55,7 @@ cage
 silent
 answer
 demise |  
-| bip_39_word_new_line11 | buddy
+| bip_39_word_new_line_11 | buddy
 danger
 dignity
 minute
@@ -66,7 +66,7 @@ silent
 answer
 demise
 erode |  
-| bip_39_word_new_line12 | buddy
+| bip_39_word_new_line_12 | buddy
 danger
 dignity
 minute
@@ -78,34 +78,34 @@ answer
 demise
 erode
 arrest |  
-| bip_39_word_new_line2 | buddy
+| bip_39_word_new_line_2 | buddy
 danger |  
-| bip_39_word_new_line3 | buddy
+| bip_39_word_new_line_3 | buddy
 danger
 dignity |  
-| bip_39_word_new_line4 | buddy
+| bip_39_word_new_line_4 | buddy
 danger
 dignity
 minute |  
-| bip_39_word_new_line5 | buddy
+| bip_39_word_new_line_5 | buddy
 danger
 dignity
 minute
 permit |  
-| bip_39_word_new_line6 | buddy
+| bip_39_word_new_line_6 | buddy
 danger
 dignity
 minute
 permit
 seat |  
-| bip_39_word_new_line7 | buddy
+| bip_39_word_new_line_7 | buddy
 danger
 dignity
 minute
 permit
 seat
 cage |  
-| bip_39_word_new_line8 | buddy
+| bip_39_word_new_line_8 | buddy
 danger
 dignity
 minute
@@ -113,7 +113,7 @@ permit
 seat
 cage
 silent |  
-| bip_39_word_new_line9 | buddy
+| bip_39_word_new_line_9 | buddy
 danger
 dignity
 minute

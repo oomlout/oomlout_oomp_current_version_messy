@@ -1,17 +1,17 @@
-bip_39_word_new_br1: slot
-bip_39_word_new_br10: slot<br>soul<br>payment<br>wreck<br>skate<br>lonely<br>slam<br>aunt<br>artefact<br>engage
-bip_39_word_new_br11: slot<br>soul<br>payment<br>wreck<br>skate<br>lonely<br>slam<br>aunt<br>artefact<br>engage<br>wall
-bip_39_word_new_br12: slot<br>soul<br>payment<br>wreck<br>skate<br>lonely<br>slam<br>aunt<br>artefact<br>engage<br>wall<br>army
-bip_39_word_new_br2: slot<br>soul
-bip_39_word_new_br3: slot<br>soul<br>payment
-bip_39_word_new_br4: slot<br>soul<br>payment<br>wreck
-bip_39_word_new_br5: slot<br>soul<br>payment<br>wreck<br>skate
-bip_39_word_new_br6: slot<br>soul<br>payment<br>wreck<br>skate<br>lonely
-bip_39_word_new_br7: slot<br>soul<br>payment<br>wreck<br>skate<br>lonely<br>slam
-bip_39_word_new_br8: slot<br>soul<br>payment<br>wreck<br>skate<br>lonely<br>slam<br>aunt
-bip_39_word_new_br9: slot<br>soul<br>payment<br>wreck<br>skate<br>lonely<br>slam<br>aunt<br>artefact
-bip_39_word_new_line1: slot
-bip_39_word_new_line10: 'slot
+bip_39_word_new_br_1: slot
+bip_39_word_new_br_10: slot<br>soul<br>payment<br>wreck<br>skate<br>lonely<br>slam<br>aunt<br>artefact<br>engage
+bip_39_word_new_br_11: slot<br>soul<br>payment<br>wreck<br>skate<br>lonely<br>slam<br>aunt<br>artefact<br>engage<br>wall
+bip_39_word_new_br_12: slot<br>soul<br>payment<br>wreck<br>skate<br>lonely<br>slam<br>aunt<br>artefact<br>engage<br>wall<br>army
+bip_39_word_new_br_2: slot<br>soul
+bip_39_word_new_br_3: slot<br>soul<br>payment
+bip_39_word_new_br_4: slot<br>soul<br>payment<br>wreck
+bip_39_word_new_br_5: slot<br>soul<br>payment<br>wreck<br>skate
+bip_39_word_new_br_6: slot<br>soul<br>payment<br>wreck<br>skate<br>lonely
+bip_39_word_new_br_7: slot<br>soul<br>payment<br>wreck<br>skate<br>lonely<br>slam
+bip_39_word_new_br_8: slot<br>soul<br>payment<br>wreck<br>skate<br>lonely<br>slam<br>aunt
+bip_39_word_new_br_9: slot<br>soul<br>payment<br>wreck<br>skate<br>lonely<br>slam<br>aunt<br>artefact
+bip_39_word_new_line_1: slot
+bip_39_word_new_line_10: 'slot
 
   soul
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'slot
   artefact
 
   engage'
-bip_39_word_new_line11: 'slot
+bip_39_word_new_line_11: 'slot
 
   soul
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'slot
   engage
 
   wall'
-bip_39_word_new_line12: 'slot
+bip_39_word_new_line_12: 'slot
 
   soul
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'slot
   wall
 
   army'
-bip_39_word_new_line2: 'slot
+bip_39_word_new_line_2: 'slot
 
   soul'
-bip_39_word_new_line3: 'slot
+bip_39_word_new_line_3: 'slot
 
   soul
 
   payment'
-bip_39_word_new_line4: 'slot
+bip_39_word_new_line_4: 'slot
 
   soul
 
   payment
 
   wreck'
-bip_39_word_new_line5: 'slot
+bip_39_word_new_line_5: 'slot
 
   soul
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'slot
   wreck
 
   skate'
-bip_39_word_new_line6: 'slot
+bip_39_word_new_line_6: 'slot
 
   soul
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'slot
   skate
 
   lonely'
-bip_39_word_new_line7: 'slot
+bip_39_word_new_line_7: 'slot
 
   soul
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'slot
   lonely
 
   slam'
-bip_39_word_new_line8: 'slot
+bip_39_word_new_line_8: 'slot
 
   soul
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'slot
   slam
 
   aunt'
-bip_39_word_new_line9: 'slot
+bip_39_word_new_line_9: 'slot
 
   soul
 

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | miracle |  
-| bip_39_word_new_br10 | miracle<br>vessel<br>domain<br>extend<br>duty<br>behave<br>party<br>satisfy<br>above<br>size |  
-| bip_39_word_new_br11 | miracle<br>vessel<br>domain<br>extend<br>duty<br>behave<br>party<br>satisfy<br>above<br>size<br>report |  
-| bip_39_word_new_br12 | miracle<br>vessel<br>domain<br>extend<br>duty<br>behave<br>party<br>satisfy<br>above<br>size<br>report<br>achieve |  
-| bip_39_word_new_br2 | miracle<br>vessel |  
-| bip_39_word_new_br3 | miracle<br>vessel<br>domain |  
-| bip_39_word_new_br4 | miracle<br>vessel<br>domain<br>extend |  
-| bip_39_word_new_br5 | miracle<br>vessel<br>domain<br>extend<br>duty |  
-| bip_39_word_new_br6 | miracle<br>vessel<br>domain<br>extend<br>duty<br>behave |  
-| bip_39_word_new_br7 | miracle<br>vessel<br>domain<br>extend<br>duty<br>behave<br>party |  
-| bip_39_word_new_br8 | miracle<br>vessel<br>domain<br>extend<br>duty<br>behave<br>party<br>satisfy |  
-| bip_39_word_new_br9 | miracle<br>vessel<br>domain<br>extend<br>duty<br>behave<br>party<br>satisfy<br>above |  
-| bip_39_word_new_line1 | miracle |  
-| bip_39_word_new_line10 | miracle
+| bip_39_word_new_br_1 | miracle |  
+| bip_39_word_new_br_10 | miracle<br>vessel<br>domain<br>extend<br>duty<br>behave<br>party<br>satisfy<br>above<br>size |  
+| bip_39_word_new_br_11 | miracle<br>vessel<br>domain<br>extend<br>duty<br>behave<br>party<br>satisfy<br>above<br>size<br>report |  
+| bip_39_word_new_br_12 | miracle<br>vessel<br>domain<br>extend<br>duty<br>behave<br>party<br>satisfy<br>above<br>size<br>report<br>achieve |  
+| bip_39_word_new_br_2 | miracle<br>vessel |  
+| bip_39_word_new_br_3 | miracle<br>vessel<br>domain |  
+| bip_39_word_new_br_4 | miracle<br>vessel<br>domain<br>extend |  
+| bip_39_word_new_br_5 | miracle<br>vessel<br>domain<br>extend<br>duty |  
+| bip_39_word_new_br_6 | miracle<br>vessel<br>domain<br>extend<br>duty<br>behave |  
+| bip_39_word_new_br_7 | miracle<br>vessel<br>domain<br>extend<br>duty<br>behave<br>party |  
+| bip_39_word_new_br_8 | miracle<br>vessel<br>domain<br>extend<br>duty<br>behave<br>party<br>satisfy |  
+| bip_39_word_new_br_9 | miracle<br>vessel<br>domain<br>extend<br>duty<br>behave<br>party<br>satisfy<br>above |  
+| bip_39_word_new_line_1 | miracle |  
+| bip_39_word_new_line_10 | miracle
 vessel
 domain
 extend
@@ -55,7 +55,7 @@ party
 satisfy
 above
 size |  
-| bip_39_word_new_line11 | miracle
+| bip_39_word_new_line_11 | miracle
 vessel
 domain
 extend
@@ -66,7 +66,7 @@ satisfy
 above
 size
 report |  
-| bip_39_word_new_line12 | miracle
+| bip_39_word_new_line_12 | miracle
 vessel
 domain
 extend
@@ -78,34 +78,34 @@ above
 size
 report
 achieve |  
-| bip_39_word_new_line2 | miracle
+| bip_39_word_new_line_2 | miracle
 vessel |  
-| bip_39_word_new_line3 | miracle
+| bip_39_word_new_line_3 | miracle
 vessel
 domain |  
-| bip_39_word_new_line4 | miracle
+| bip_39_word_new_line_4 | miracle
 vessel
 domain
 extend |  
-| bip_39_word_new_line5 | miracle
+| bip_39_word_new_line_5 | miracle
 vessel
 domain
 extend
 duty |  
-| bip_39_word_new_line6 | miracle
+| bip_39_word_new_line_6 | miracle
 vessel
 domain
 extend
 duty
 behave |  
-| bip_39_word_new_line7 | miracle
+| bip_39_word_new_line_7 | miracle
 vessel
 domain
 extend
 duty
 behave
 party |  
-| bip_39_word_new_line8 | miracle
+| bip_39_word_new_line_8 | miracle
 vessel
 domain
 extend
@@ -113,7 +113,7 @@ duty
 behave
 party
 satisfy |  
-| bip_39_word_new_line9 | miracle
+| bip_39_word_new_line_9 | miracle
 vessel
 domain
 extend

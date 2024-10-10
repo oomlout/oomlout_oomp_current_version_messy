@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | lock |  
-| bip_39_word_new_br10 | lock<br>push<br>frame<br>cave<br>angle<br>edge<br>novel<br>must<br>address<br>path |  
-| bip_39_word_new_br11 | lock<br>push<br>frame<br>cave<br>angle<br>edge<br>novel<br>must<br>address<br>path<br>bubble |  
-| bip_39_word_new_br12 | lock<br>push<br>frame<br>cave<br>angle<br>edge<br>novel<br>must<br>address<br>path<br>bubble<br>artefact |  
-| bip_39_word_new_br2 | lock<br>push |  
-| bip_39_word_new_br3 | lock<br>push<br>frame |  
-| bip_39_word_new_br4 | lock<br>push<br>frame<br>cave |  
-| bip_39_word_new_br5 | lock<br>push<br>frame<br>cave<br>angle |  
-| bip_39_word_new_br6 | lock<br>push<br>frame<br>cave<br>angle<br>edge |  
-| bip_39_word_new_br7 | lock<br>push<br>frame<br>cave<br>angle<br>edge<br>novel |  
-| bip_39_word_new_br8 | lock<br>push<br>frame<br>cave<br>angle<br>edge<br>novel<br>must |  
-| bip_39_word_new_br9 | lock<br>push<br>frame<br>cave<br>angle<br>edge<br>novel<br>must<br>address |  
-| bip_39_word_new_line1 | lock |  
-| bip_39_word_new_line10 | lock
+| bip_39_word_new_br_1 | lock |  
+| bip_39_word_new_br_10 | lock<br>push<br>frame<br>cave<br>angle<br>edge<br>novel<br>must<br>address<br>path |  
+| bip_39_word_new_br_11 | lock<br>push<br>frame<br>cave<br>angle<br>edge<br>novel<br>must<br>address<br>path<br>bubble |  
+| bip_39_word_new_br_12 | lock<br>push<br>frame<br>cave<br>angle<br>edge<br>novel<br>must<br>address<br>path<br>bubble<br>artefact |  
+| bip_39_word_new_br_2 | lock<br>push |  
+| bip_39_word_new_br_3 | lock<br>push<br>frame |  
+| bip_39_word_new_br_4 | lock<br>push<br>frame<br>cave |  
+| bip_39_word_new_br_5 | lock<br>push<br>frame<br>cave<br>angle |  
+| bip_39_word_new_br_6 | lock<br>push<br>frame<br>cave<br>angle<br>edge |  
+| bip_39_word_new_br_7 | lock<br>push<br>frame<br>cave<br>angle<br>edge<br>novel |  
+| bip_39_word_new_br_8 | lock<br>push<br>frame<br>cave<br>angle<br>edge<br>novel<br>must |  
+| bip_39_word_new_br_9 | lock<br>push<br>frame<br>cave<br>angle<br>edge<br>novel<br>must<br>address |  
+| bip_39_word_new_line_1 | lock |  
+| bip_39_word_new_line_10 | lock
 push
 frame
 cave
@@ -55,7 +55,7 @@ novel
 must
 address
 path |  
-| bip_39_word_new_line11 | lock
+| bip_39_word_new_line_11 | lock
 push
 frame
 cave
@@ -66,7 +66,7 @@ must
 address
 path
 bubble |  
-| bip_39_word_new_line12 | lock
+| bip_39_word_new_line_12 | lock
 push
 frame
 cave
@@ -78,34 +78,34 @@ address
 path
 bubble
 artefact |  
-| bip_39_word_new_line2 | lock
+| bip_39_word_new_line_2 | lock
 push |  
-| bip_39_word_new_line3 | lock
+| bip_39_word_new_line_3 | lock
 push
 frame |  
-| bip_39_word_new_line4 | lock
+| bip_39_word_new_line_4 | lock
 push
 frame
 cave |  
-| bip_39_word_new_line5 | lock
+| bip_39_word_new_line_5 | lock
 push
 frame
 cave
 angle |  
-| bip_39_word_new_line6 | lock
+| bip_39_word_new_line_6 | lock
 push
 frame
 cave
 angle
 edge |  
-| bip_39_word_new_line7 | lock
+| bip_39_word_new_line_7 | lock
 push
 frame
 cave
 angle
 edge
 novel |  
-| bip_39_word_new_line8 | lock
+| bip_39_word_new_line_8 | lock
 push
 frame
 cave
@@ -113,7 +113,7 @@ angle
 edge
 novel
 must |  
-| bip_39_word_new_line9 | lock
+| bip_39_word_new_line_9 | lock
 push
 frame
 cave

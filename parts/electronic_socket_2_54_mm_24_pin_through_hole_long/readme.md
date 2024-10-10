@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | citizen |  
-| bip_39_word_new_br10 | citizen<br>top<br>aware<br>trumpet<br>box<br>pupil<br>brother<br>tent<br>gather<br>forest |  
-| bip_39_word_new_br11 | citizen<br>top<br>aware<br>trumpet<br>box<br>pupil<br>brother<br>tent<br>gather<br>forest<br>during |  
-| bip_39_word_new_br12 | citizen<br>top<br>aware<br>trumpet<br>box<br>pupil<br>brother<br>tent<br>gather<br>forest<br>during<br>across |  
-| bip_39_word_new_br2 | citizen<br>top |  
-| bip_39_word_new_br3 | citizen<br>top<br>aware |  
-| bip_39_word_new_br4 | citizen<br>top<br>aware<br>trumpet |  
-| bip_39_word_new_br5 | citizen<br>top<br>aware<br>trumpet<br>box |  
-| bip_39_word_new_br6 | citizen<br>top<br>aware<br>trumpet<br>box<br>pupil |  
-| bip_39_word_new_br7 | citizen<br>top<br>aware<br>trumpet<br>box<br>pupil<br>brother |  
-| bip_39_word_new_br8 | citizen<br>top<br>aware<br>trumpet<br>box<br>pupil<br>brother<br>tent |  
-| bip_39_word_new_br9 | citizen<br>top<br>aware<br>trumpet<br>box<br>pupil<br>brother<br>tent<br>gather |  
-| bip_39_word_new_line1 | citizen |  
-| bip_39_word_new_line10 | citizen
+| bip_39_word_new_br_1 | citizen |  
+| bip_39_word_new_br_10 | citizen<br>top<br>aware<br>trumpet<br>box<br>pupil<br>brother<br>tent<br>gather<br>forest |  
+| bip_39_word_new_br_11 | citizen<br>top<br>aware<br>trumpet<br>box<br>pupil<br>brother<br>tent<br>gather<br>forest<br>during |  
+| bip_39_word_new_br_12 | citizen<br>top<br>aware<br>trumpet<br>box<br>pupil<br>brother<br>tent<br>gather<br>forest<br>during<br>across |  
+| bip_39_word_new_br_2 | citizen<br>top |  
+| bip_39_word_new_br_3 | citizen<br>top<br>aware |  
+| bip_39_word_new_br_4 | citizen<br>top<br>aware<br>trumpet |  
+| bip_39_word_new_br_5 | citizen<br>top<br>aware<br>trumpet<br>box |  
+| bip_39_word_new_br_6 | citizen<br>top<br>aware<br>trumpet<br>box<br>pupil |  
+| bip_39_word_new_br_7 | citizen<br>top<br>aware<br>trumpet<br>box<br>pupil<br>brother |  
+| bip_39_word_new_br_8 | citizen<br>top<br>aware<br>trumpet<br>box<br>pupil<br>brother<br>tent |  
+| bip_39_word_new_br_9 | citizen<br>top<br>aware<br>trumpet<br>box<br>pupil<br>brother<br>tent<br>gather |  
+| bip_39_word_new_line_1 | citizen |  
+| bip_39_word_new_line_10 | citizen
 top
 aware
 trumpet
@@ -55,7 +55,7 @@ brother
 tent
 gather
 forest |  
-| bip_39_word_new_line11 | citizen
+| bip_39_word_new_line_11 | citizen
 top
 aware
 trumpet
@@ -66,7 +66,7 @@ tent
 gather
 forest
 during |  
-| bip_39_word_new_line12 | citizen
+| bip_39_word_new_line_12 | citizen
 top
 aware
 trumpet
@@ -78,34 +78,34 @@ gather
 forest
 during
 across |  
-| bip_39_word_new_line2 | citizen
+| bip_39_word_new_line_2 | citizen
 top |  
-| bip_39_word_new_line3 | citizen
+| bip_39_word_new_line_3 | citizen
 top
 aware |  
-| bip_39_word_new_line4 | citizen
+| bip_39_word_new_line_4 | citizen
 top
 aware
 trumpet |  
-| bip_39_word_new_line5 | citizen
+| bip_39_word_new_line_5 | citizen
 top
 aware
 trumpet
 box |  
-| bip_39_word_new_line6 | citizen
+| bip_39_word_new_line_6 | citizen
 top
 aware
 trumpet
 box
 pupil |  
-| bip_39_word_new_line7 | citizen
+| bip_39_word_new_line_7 | citizen
 top
 aware
 trumpet
 box
 pupil
 brother |  
-| bip_39_word_new_line8 | citizen
+| bip_39_word_new_line_8 | citizen
 top
 aware
 trumpet
@@ -113,7 +113,7 @@ box
 pupil
 brother
 tent |  
-| bip_39_word_new_line9 | citizen
+| bip_39_word_new_line_9 | citizen
 top
 aware
 trumpet

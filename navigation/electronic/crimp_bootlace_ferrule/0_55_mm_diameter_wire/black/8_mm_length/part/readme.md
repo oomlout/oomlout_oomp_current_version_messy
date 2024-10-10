@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | tongue |  
-| bip_39_word_new_br10 | tongue<br>real<br>wet<br>timber<br>universe<br>sentence<br>pistol<br>warm<br>erase<br>tree |  
-| bip_39_word_new_br11 | tongue<br>real<br>wet<br>timber<br>universe<br>sentence<br>pistol<br>warm<br>erase<br>tree<br>analyst |  
-| bip_39_word_new_br12 | tongue<br>real<br>wet<br>timber<br>universe<br>sentence<br>pistol<br>warm<br>erase<br>tree<br>analyst<br>all |  
-| bip_39_word_new_br2 | tongue<br>real |  
-| bip_39_word_new_br3 | tongue<br>real<br>wet |  
-| bip_39_word_new_br4 | tongue<br>real<br>wet<br>timber |  
-| bip_39_word_new_br5 | tongue<br>real<br>wet<br>timber<br>universe |  
-| bip_39_word_new_br6 | tongue<br>real<br>wet<br>timber<br>universe<br>sentence |  
-| bip_39_word_new_br7 | tongue<br>real<br>wet<br>timber<br>universe<br>sentence<br>pistol |  
-| bip_39_word_new_br8 | tongue<br>real<br>wet<br>timber<br>universe<br>sentence<br>pistol<br>warm |  
-| bip_39_word_new_br9 | tongue<br>real<br>wet<br>timber<br>universe<br>sentence<br>pistol<br>warm<br>erase |  
-| bip_39_word_new_line1 | tongue |  
-| bip_39_word_new_line10 | tongue
+| bip_39_word_new_br_1 | tongue |  
+| bip_39_word_new_br_10 | tongue<br>real<br>wet<br>timber<br>universe<br>sentence<br>pistol<br>warm<br>erase<br>tree |  
+| bip_39_word_new_br_11 | tongue<br>real<br>wet<br>timber<br>universe<br>sentence<br>pistol<br>warm<br>erase<br>tree<br>analyst |  
+| bip_39_word_new_br_12 | tongue<br>real<br>wet<br>timber<br>universe<br>sentence<br>pistol<br>warm<br>erase<br>tree<br>analyst<br>all |  
+| bip_39_word_new_br_2 | tongue<br>real |  
+| bip_39_word_new_br_3 | tongue<br>real<br>wet |  
+| bip_39_word_new_br_4 | tongue<br>real<br>wet<br>timber |  
+| bip_39_word_new_br_5 | tongue<br>real<br>wet<br>timber<br>universe |  
+| bip_39_word_new_br_6 | tongue<br>real<br>wet<br>timber<br>universe<br>sentence |  
+| bip_39_word_new_br_7 | tongue<br>real<br>wet<br>timber<br>universe<br>sentence<br>pistol |  
+| bip_39_word_new_br_8 | tongue<br>real<br>wet<br>timber<br>universe<br>sentence<br>pistol<br>warm |  
+| bip_39_word_new_br_9 | tongue<br>real<br>wet<br>timber<br>universe<br>sentence<br>pistol<br>warm<br>erase |  
+| bip_39_word_new_line_1 | tongue |  
+| bip_39_word_new_line_10 | tongue
 real
 wet
 timber
@@ -55,7 +55,7 @@ pistol
 warm
 erase
 tree |  
-| bip_39_word_new_line11 | tongue
+| bip_39_word_new_line_11 | tongue
 real
 wet
 timber
@@ -66,7 +66,7 @@ warm
 erase
 tree
 analyst |  
-| bip_39_word_new_line12 | tongue
+| bip_39_word_new_line_12 | tongue
 real
 wet
 timber
@@ -78,34 +78,34 @@ erase
 tree
 analyst
 all |  
-| bip_39_word_new_line2 | tongue
+| bip_39_word_new_line_2 | tongue
 real |  
-| bip_39_word_new_line3 | tongue
+| bip_39_word_new_line_3 | tongue
 real
 wet |  
-| bip_39_word_new_line4 | tongue
+| bip_39_word_new_line_4 | tongue
 real
 wet
 timber |  
-| bip_39_word_new_line5 | tongue
+| bip_39_word_new_line_5 | tongue
 real
 wet
 timber
 universe |  
-| bip_39_word_new_line6 | tongue
+| bip_39_word_new_line_6 | tongue
 real
 wet
 timber
 universe
 sentence |  
-| bip_39_word_new_line7 | tongue
+| bip_39_word_new_line_7 | tongue
 real
 wet
 timber
 universe
 sentence
 pistol |  
-| bip_39_word_new_line8 | tongue
+| bip_39_word_new_line_8 | tongue
 real
 wet
 timber
@@ -113,7 +113,7 @@ universe
 sentence
 pistol
 warm |  
-| bip_39_word_new_line9 | tongue
+| bip_39_word_new_line_9 | tongue
 real
 wet
 timber

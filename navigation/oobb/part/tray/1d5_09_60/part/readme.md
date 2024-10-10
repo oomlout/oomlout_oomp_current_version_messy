@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | suggest |  
-| bip_39_word_new_br10 | suggest<br>use<br>history<br>refuse<br>news<br>symptom<br>fuel<br>raise<br>liberty<br>original |  
-| bip_39_word_new_br11 | suggest<br>use<br>history<br>refuse<br>news<br>symptom<br>fuel<br>raise<br>liberty<br>original<br>brother |  
-| bip_39_word_new_br12 | suggest<br>use<br>history<br>refuse<br>news<br>symptom<br>fuel<br>raise<br>liberty<br>original<br>brother<br>area |  
-| bip_39_word_new_br2 | suggest<br>use |  
-| bip_39_word_new_br3 | suggest<br>use<br>history |  
-| bip_39_word_new_br4 | suggest<br>use<br>history<br>refuse |  
-| bip_39_word_new_br5 | suggest<br>use<br>history<br>refuse<br>news |  
-| bip_39_word_new_br6 | suggest<br>use<br>history<br>refuse<br>news<br>symptom |  
-| bip_39_word_new_br7 | suggest<br>use<br>history<br>refuse<br>news<br>symptom<br>fuel |  
-| bip_39_word_new_br8 | suggest<br>use<br>history<br>refuse<br>news<br>symptom<br>fuel<br>raise |  
-| bip_39_word_new_br9 | suggest<br>use<br>history<br>refuse<br>news<br>symptom<br>fuel<br>raise<br>liberty |  
-| bip_39_word_new_line1 | suggest |  
-| bip_39_word_new_line10 | suggest
+| bip_39_word_new_br_1 | suggest |  
+| bip_39_word_new_br_10 | suggest<br>use<br>history<br>refuse<br>news<br>symptom<br>fuel<br>raise<br>liberty<br>original |  
+| bip_39_word_new_br_11 | suggest<br>use<br>history<br>refuse<br>news<br>symptom<br>fuel<br>raise<br>liberty<br>original<br>brother |  
+| bip_39_word_new_br_12 | suggest<br>use<br>history<br>refuse<br>news<br>symptom<br>fuel<br>raise<br>liberty<br>original<br>brother<br>area |  
+| bip_39_word_new_br_2 | suggest<br>use |  
+| bip_39_word_new_br_3 | suggest<br>use<br>history |  
+| bip_39_word_new_br_4 | suggest<br>use<br>history<br>refuse |  
+| bip_39_word_new_br_5 | suggest<br>use<br>history<br>refuse<br>news |  
+| bip_39_word_new_br_6 | suggest<br>use<br>history<br>refuse<br>news<br>symptom |  
+| bip_39_word_new_br_7 | suggest<br>use<br>history<br>refuse<br>news<br>symptom<br>fuel |  
+| bip_39_word_new_br_8 | suggest<br>use<br>history<br>refuse<br>news<br>symptom<br>fuel<br>raise |  
+| bip_39_word_new_br_9 | suggest<br>use<br>history<br>refuse<br>news<br>symptom<br>fuel<br>raise<br>liberty |  
+| bip_39_word_new_line_1 | suggest |  
+| bip_39_word_new_line_10 | suggest
 use
 history
 refuse
@@ -55,7 +55,7 @@ fuel
 raise
 liberty
 original |  
-| bip_39_word_new_line11 | suggest
+| bip_39_word_new_line_11 | suggest
 use
 history
 refuse
@@ -66,7 +66,7 @@ raise
 liberty
 original
 brother |  
-| bip_39_word_new_line12 | suggest
+| bip_39_word_new_line_12 | suggest
 use
 history
 refuse
@@ -78,34 +78,34 @@ liberty
 original
 brother
 area |  
-| bip_39_word_new_line2 | suggest
+| bip_39_word_new_line_2 | suggest
 use |  
-| bip_39_word_new_line3 | suggest
+| bip_39_word_new_line_3 | suggest
 use
 history |  
-| bip_39_word_new_line4 | suggest
+| bip_39_word_new_line_4 | suggest
 use
 history
 refuse |  
-| bip_39_word_new_line5 | suggest
+| bip_39_word_new_line_5 | suggest
 use
 history
 refuse
 news |  
-| bip_39_word_new_line6 | suggest
+| bip_39_word_new_line_6 | suggest
 use
 history
 refuse
 news
 symptom |  
-| bip_39_word_new_line7 | suggest
+| bip_39_word_new_line_7 | suggest
 use
 history
 refuse
 news
 symptom
 fuel |  
-| bip_39_word_new_line8 | suggest
+| bip_39_word_new_line_8 | suggest
 use
 history
 refuse
@@ -113,7 +113,7 @@ news
 symptom
 fuel
 raise |  
-| bip_39_word_new_line9 | suggest
+| bip_39_word_new_line_9 | suggest
 use
 history
 refuse

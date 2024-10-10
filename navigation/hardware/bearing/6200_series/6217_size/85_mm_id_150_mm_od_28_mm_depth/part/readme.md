@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cube |  
-| bip_39_word_new_br10 | cube<br>purse<br>motion<br>eager<br>kangaroo<br>spin<br>sort<br>vendor<br>speed<br>prepare |  
-| bip_39_word_new_br11 | cube<br>purse<br>motion<br>eager<br>kangaroo<br>spin<br>sort<br>vendor<br>speed<br>prepare<br>pistol |  
-| bip_39_word_new_br12 | cube<br>purse<br>motion<br>eager<br>kangaroo<br>spin<br>sort<br>vendor<br>speed<br>prepare<br>pistol<br>assume |  
-| bip_39_word_new_br2 | cube<br>purse |  
-| bip_39_word_new_br3 | cube<br>purse<br>motion |  
-| bip_39_word_new_br4 | cube<br>purse<br>motion<br>eager |  
-| bip_39_word_new_br5 | cube<br>purse<br>motion<br>eager<br>kangaroo |  
-| bip_39_word_new_br6 | cube<br>purse<br>motion<br>eager<br>kangaroo<br>spin |  
-| bip_39_word_new_br7 | cube<br>purse<br>motion<br>eager<br>kangaroo<br>spin<br>sort |  
-| bip_39_word_new_br8 | cube<br>purse<br>motion<br>eager<br>kangaroo<br>spin<br>sort<br>vendor |  
-| bip_39_word_new_br9 | cube<br>purse<br>motion<br>eager<br>kangaroo<br>spin<br>sort<br>vendor<br>speed |  
-| bip_39_word_new_line1 | cube |  
-| bip_39_word_new_line10 | cube
+| bip_39_word_new_br_1 | cube |  
+| bip_39_word_new_br_10 | cube<br>purse<br>motion<br>eager<br>kangaroo<br>spin<br>sort<br>vendor<br>speed<br>prepare |  
+| bip_39_word_new_br_11 | cube<br>purse<br>motion<br>eager<br>kangaroo<br>spin<br>sort<br>vendor<br>speed<br>prepare<br>pistol |  
+| bip_39_word_new_br_12 | cube<br>purse<br>motion<br>eager<br>kangaroo<br>spin<br>sort<br>vendor<br>speed<br>prepare<br>pistol<br>assume |  
+| bip_39_word_new_br_2 | cube<br>purse |  
+| bip_39_word_new_br_3 | cube<br>purse<br>motion |  
+| bip_39_word_new_br_4 | cube<br>purse<br>motion<br>eager |  
+| bip_39_word_new_br_5 | cube<br>purse<br>motion<br>eager<br>kangaroo |  
+| bip_39_word_new_br_6 | cube<br>purse<br>motion<br>eager<br>kangaroo<br>spin |  
+| bip_39_word_new_br_7 | cube<br>purse<br>motion<br>eager<br>kangaroo<br>spin<br>sort |  
+| bip_39_word_new_br_8 | cube<br>purse<br>motion<br>eager<br>kangaroo<br>spin<br>sort<br>vendor |  
+| bip_39_word_new_br_9 | cube<br>purse<br>motion<br>eager<br>kangaroo<br>spin<br>sort<br>vendor<br>speed |  
+| bip_39_word_new_line_1 | cube |  
+| bip_39_word_new_line_10 | cube
 purse
 motion
 eager
@@ -55,7 +55,7 @@ sort
 vendor
 speed
 prepare |  
-| bip_39_word_new_line11 | cube
+| bip_39_word_new_line_11 | cube
 purse
 motion
 eager
@@ -66,7 +66,7 @@ vendor
 speed
 prepare
 pistol |  
-| bip_39_word_new_line12 | cube
+| bip_39_word_new_line_12 | cube
 purse
 motion
 eager
@@ -78,34 +78,34 @@ speed
 prepare
 pistol
 assume |  
-| bip_39_word_new_line2 | cube
+| bip_39_word_new_line_2 | cube
 purse |  
-| bip_39_word_new_line3 | cube
+| bip_39_word_new_line_3 | cube
 purse
 motion |  
-| bip_39_word_new_line4 | cube
+| bip_39_word_new_line_4 | cube
 purse
 motion
 eager |  
-| bip_39_word_new_line5 | cube
+| bip_39_word_new_line_5 | cube
 purse
 motion
 eager
 kangaroo |  
-| bip_39_word_new_line6 | cube
+| bip_39_word_new_line_6 | cube
 purse
 motion
 eager
 kangaroo
 spin |  
-| bip_39_word_new_line7 | cube
+| bip_39_word_new_line_7 | cube
 purse
 motion
 eager
 kangaroo
 spin
 sort |  
-| bip_39_word_new_line8 | cube
+| bip_39_word_new_line_8 | cube
 purse
 motion
 eager
@@ -113,7 +113,7 @@ kangaroo
 spin
 sort
 vendor |  
-| bip_39_word_new_line9 | cube
+| bip_39_word_new_line_9 | cube
 purse
 motion
 eager

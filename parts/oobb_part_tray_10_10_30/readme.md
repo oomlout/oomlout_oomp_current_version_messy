@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | solid |  
-| bip_39_word_new_br10 | solid<br>unit<br>cliff<br>doll<br>exile<br>human<br>mind<br>picture<br>drive<br>next |  
-| bip_39_word_new_br11 | solid<br>unit<br>cliff<br>doll<br>exile<br>human<br>mind<br>picture<br>drive<br>next<br>flag |  
-| bip_39_word_new_br12 | solid<br>unit<br>cliff<br>doll<br>exile<br>human<br>mind<br>picture<br>drive<br>next<br>flag<br>aim |  
-| bip_39_word_new_br2 | solid<br>unit |  
-| bip_39_word_new_br3 | solid<br>unit<br>cliff |  
-| bip_39_word_new_br4 | solid<br>unit<br>cliff<br>doll |  
-| bip_39_word_new_br5 | solid<br>unit<br>cliff<br>doll<br>exile |  
-| bip_39_word_new_br6 | solid<br>unit<br>cliff<br>doll<br>exile<br>human |  
-| bip_39_word_new_br7 | solid<br>unit<br>cliff<br>doll<br>exile<br>human<br>mind |  
-| bip_39_word_new_br8 | solid<br>unit<br>cliff<br>doll<br>exile<br>human<br>mind<br>picture |  
-| bip_39_word_new_br9 | solid<br>unit<br>cliff<br>doll<br>exile<br>human<br>mind<br>picture<br>drive |  
-| bip_39_word_new_line1 | solid |  
-| bip_39_word_new_line10 | solid
+| bip_39_word_new_br_1 | solid |  
+| bip_39_word_new_br_10 | solid<br>unit<br>cliff<br>doll<br>exile<br>human<br>mind<br>picture<br>drive<br>next |  
+| bip_39_word_new_br_11 | solid<br>unit<br>cliff<br>doll<br>exile<br>human<br>mind<br>picture<br>drive<br>next<br>flag |  
+| bip_39_word_new_br_12 | solid<br>unit<br>cliff<br>doll<br>exile<br>human<br>mind<br>picture<br>drive<br>next<br>flag<br>aim |  
+| bip_39_word_new_br_2 | solid<br>unit |  
+| bip_39_word_new_br_3 | solid<br>unit<br>cliff |  
+| bip_39_word_new_br_4 | solid<br>unit<br>cliff<br>doll |  
+| bip_39_word_new_br_5 | solid<br>unit<br>cliff<br>doll<br>exile |  
+| bip_39_word_new_br_6 | solid<br>unit<br>cliff<br>doll<br>exile<br>human |  
+| bip_39_word_new_br_7 | solid<br>unit<br>cliff<br>doll<br>exile<br>human<br>mind |  
+| bip_39_word_new_br_8 | solid<br>unit<br>cliff<br>doll<br>exile<br>human<br>mind<br>picture |  
+| bip_39_word_new_br_9 | solid<br>unit<br>cliff<br>doll<br>exile<br>human<br>mind<br>picture<br>drive |  
+| bip_39_word_new_line_1 | solid |  
+| bip_39_word_new_line_10 | solid
 unit
 cliff
 doll
@@ -55,7 +55,7 @@ mind
 picture
 drive
 next |  
-| bip_39_word_new_line11 | solid
+| bip_39_word_new_line_11 | solid
 unit
 cliff
 doll
@@ -66,7 +66,7 @@ picture
 drive
 next
 flag |  
-| bip_39_word_new_line12 | solid
+| bip_39_word_new_line_12 | solid
 unit
 cliff
 doll
@@ -78,34 +78,34 @@ drive
 next
 flag
 aim |  
-| bip_39_word_new_line2 | solid
+| bip_39_word_new_line_2 | solid
 unit |  
-| bip_39_word_new_line3 | solid
+| bip_39_word_new_line_3 | solid
 unit
 cliff |  
-| bip_39_word_new_line4 | solid
+| bip_39_word_new_line_4 | solid
 unit
 cliff
 doll |  
-| bip_39_word_new_line5 | solid
+| bip_39_word_new_line_5 | solid
 unit
 cliff
 doll
 exile |  
-| bip_39_word_new_line6 | solid
+| bip_39_word_new_line_6 | solid
 unit
 cliff
 doll
 exile
 human |  
-| bip_39_word_new_line7 | solid
+| bip_39_word_new_line_7 | solid
 unit
 cliff
 doll
 exile
 human
 mind |  
-| bip_39_word_new_line8 | solid
+| bip_39_word_new_line_8 | solid
 unit
 cliff
 doll
@@ -113,7 +113,7 @@ exile
 human
 mind
 picture |  
-| bip_39_word_new_line9 | solid
+| bip_39_word_new_line_9 | solid
 unit
 cliff
 doll

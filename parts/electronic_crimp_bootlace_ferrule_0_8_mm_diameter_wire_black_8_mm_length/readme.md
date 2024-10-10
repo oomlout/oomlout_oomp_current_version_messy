@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bonus |  
-| bip_39_word_new_br10 | bonus<br>private<br>decrease<br>together<br>scheme<br>patient<br>material<br>lab<br>reform<br>tortoise |  
-| bip_39_word_new_br11 | bonus<br>private<br>decrease<br>together<br>scheme<br>patient<br>material<br>lab<br>reform<br>tortoise<br>leisure |  
-| bip_39_word_new_br12 | bonus<br>private<br>decrease<br>together<br>scheme<br>patient<br>material<br>lab<br>reform<br>tortoise<br>leisure<br>alpha |  
-| bip_39_word_new_br2 | bonus<br>private |  
-| bip_39_word_new_br3 | bonus<br>private<br>decrease |  
-| bip_39_word_new_br4 | bonus<br>private<br>decrease<br>together |  
-| bip_39_word_new_br5 | bonus<br>private<br>decrease<br>together<br>scheme |  
-| bip_39_word_new_br6 | bonus<br>private<br>decrease<br>together<br>scheme<br>patient |  
-| bip_39_word_new_br7 | bonus<br>private<br>decrease<br>together<br>scheme<br>patient<br>material |  
-| bip_39_word_new_br8 | bonus<br>private<br>decrease<br>together<br>scheme<br>patient<br>material<br>lab |  
-| bip_39_word_new_br9 | bonus<br>private<br>decrease<br>together<br>scheme<br>patient<br>material<br>lab<br>reform |  
-| bip_39_word_new_line1 | bonus |  
-| bip_39_word_new_line10 | bonus
+| bip_39_word_new_br_1 | bonus |  
+| bip_39_word_new_br_10 | bonus<br>private<br>decrease<br>together<br>scheme<br>patient<br>material<br>lab<br>reform<br>tortoise |  
+| bip_39_word_new_br_11 | bonus<br>private<br>decrease<br>together<br>scheme<br>patient<br>material<br>lab<br>reform<br>tortoise<br>leisure |  
+| bip_39_word_new_br_12 | bonus<br>private<br>decrease<br>together<br>scheme<br>patient<br>material<br>lab<br>reform<br>tortoise<br>leisure<br>alpha |  
+| bip_39_word_new_br_2 | bonus<br>private |  
+| bip_39_word_new_br_3 | bonus<br>private<br>decrease |  
+| bip_39_word_new_br_4 | bonus<br>private<br>decrease<br>together |  
+| bip_39_word_new_br_5 | bonus<br>private<br>decrease<br>together<br>scheme |  
+| bip_39_word_new_br_6 | bonus<br>private<br>decrease<br>together<br>scheme<br>patient |  
+| bip_39_word_new_br_7 | bonus<br>private<br>decrease<br>together<br>scheme<br>patient<br>material |  
+| bip_39_word_new_br_8 | bonus<br>private<br>decrease<br>together<br>scheme<br>patient<br>material<br>lab |  
+| bip_39_word_new_br_9 | bonus<br>private<br>decrease<br>together<br>scheme<br>patient<br>material<br>lab<br>reform |  
+| bip_39_word_new_line_1 | bonus |  
+| bip_39_word_new_line_10 | bonus
 private
 decrease
 together
@@ -55,7 +55,7 @@ material
 lab
 reform
 tortoise |  
-| bip_39_word_new_line11 | bonus
+| bip_39_word_new_line_11 | bonus
 private
 decrease
 together
@@ -66,7 +66,7 @@ lab
 reform
 tortoise
 leisure |  
-| bip_39_word_new_line12 | bonus
+| bip_39_word_new_line_12 | bonus
 private
 decrease
 together
@@ -78,34 +78,34 @@ reform
 tortoise
 leisure
 alpha |  
-| bip_39_word_new_line2 | bonus
+| bip_39_word_new_line_2 | bonus
 private |  
-| bip_39_word_new_line3 | bonus
+| bip_39_word_new_line_3 | bonus
 private
 decrease |  
-| bip_39_word_new_line4 | bonus
+| bip_39_word_new_line_4 | bonus
 private
 decrease
 together |  
-| bip_39_word_new_line5 | bonus
+| bip_39_word_new_line_5 | bonus
 private
 decrease
 together
 scheme |  
-| bip_39_word_new_line6 | bonus
+| bip_39_word_new_line_6 | bonus
 private
 decrease
 together
 scheme
 patient |  
-| bip_39_word_new_line7 | bonus
+| bip_39_word_new_line_7 | bonus
 private
 decrease
 together
 scheme
 patient
 material |  
-| bip_39_word_new_line8 | bonus
+| bip_39_word_new_line_8 | bonus
 private
 decrease
 together
@@ -113,7 +113,7 @@ scheme
 patient
 material
 lab |  
-| bip_39_word_new_line9 | bonus
+| bip_39_word_new_line_9 | bonus
 private
 decrease
 together

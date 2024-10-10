@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | educate |  
-| bip_39_word_new_br10 | educate<br>enable<br>gravity<br>pass<br>right<br>coral<br>funny<br>together<br>veteran<br>carbon |  
-| bip_39_word_new_br11 | educate<br>enable<br>gravity<br>pass<br>right<br>coral<br>funny<br>together<br>veteran<br>carbon<br>breeze |  
-| bip_39_word_new_br12 | educate<br>enable<br>gravity<br>pass<br>right<br>coral<br>funny<br>together<br>veteran<br>carbon<br>breeze<br>august |  
-| bip_39_word_new_br2 | educate<br>enable |  
-| bip_39_word_new_br3 | educate<br>enable<br>gravity |  
-| bip_39_word_new_br4 | educate<br>enable<br>gravity<br>pass |  
-| bip_39_word_new_br5 | educate<br>enable<br>gravity<br>pass<br>right |  
-| bip_39_word_new_br6 | educate<br>enable<br>gravity<br>pass<br>right<br>coral |  
-| bip_39_word_new_br7 | educate<br>enable<br>gravity<br>pass<br>right<br>coral<br>funny |  
-| bip_39_word_new_br8 | educate<br>enable<br>gravity<br>pass<br>right<br>coral<br>funny<br>together |  
-| bip_39_word_new_br9 | educate<br>enable<br>gravity<br>pass<br>right<br>coral<br>funny<br>together<br>veteran |  
-| bip_39_word_new_line1 | educate |  
-| bip_39_word_new_line10 | educate
+| bip_39_word_new_br_1 | educate |  
+| bip_39_word_new_br_10 | educate<br>enable<br>gravity<br>pass<br>right<br>coral<br>funny<br>together<br>veteran<br>carbon |  
+| bip_39_word_new_br_11 | educate<br>enable<br>gravity<br>pass<br>right<br>coral<br>funny<br>together<br>veteran<br>carbon<br>breeze |  
+| bip_39_word_new_br_12 | educate<br>enable<br>gravity<br>pass<br>right<br>coral<br>funny<br>together<br>veteran<br>carbon<br>breeze<br>august |  
+| bip_39_word_new_br_2 | educate<br>enable |  
+| bip_39_word_new_br_3 | educate<br>enable<br>gravity |  
+| bip_39_word_new_br_4 | educate<br>enable<br>gravity<br>pass |  
+| bip_39_word_new_br_5 | educate<br>enable<br>gravity<br>pass<br>right |  
+| bip_39_word_new_br_6 | educate<br>enable<br>gravity<br>pass<br>right<br>coral |  
+| bip_39_word_new_br_7 | educate<br>enable<br>gravity<br>pass<br>right<br>coral<br>funny |  
+| bip_39_word_new_br_8 | educate<br>enable<br>gravity<br>pass<br>right<br>coral<br>funny<br>together |  
+| bip_39_word_new_br_9 | educate<br>enable<br>gravity<br>pass<br>right<br>coral<br>funny<br>together<br>veteran |  
+| bip_39_word_new_line_1 | educate |  
+| bip_39_word_new_line_10 | educate
 enable
 gravity
 pass
@@ -55,7 +55,7 @@ funny
 together
 veteran
 carbon |  
-| bip_39_word_new_line11 | educate
+| bip_39_word_new_line_11 | educate
 enable
 gravity
 pass
@@ -66,7 +66,7 @@ together
 veteran
 carbon
 breeze |  
-| bip_39_word_new_line12 | educate
+| bip_39_word_new_line_12 | educate
 enable
 gravity
 pass
@@ -78,34 +78,34 @@ veteran
 carbon
 breeze
 august |  
-| bip_39_word_new_line2 | educate
+| bip_39_word_new_line_2 | educate
 enable |  
-| bip_39_word_new_line3 | educate
+| bip_39_word_new_line_3 | educate
 enable
 gravity |  
-| bip_39_word_new_line4 | educate
+| bip_39_word_new_line_4 | educate
 enable
 gravity
 pass |  
-| bip_39_word_new_line5 | educate
+| bip_39_word_new_line_5 | educate
 enable
 gravity
 pass
 right |  
-| bip_39_word_new_line6 | educate
+| bip_39_word_new_line_6 | educate
 enable
 gravity
 pass
 right
 coral |  
-| bip_39_word_new_line7 | educate
+| bip_39_word_new_line_7 | educate
 enable
 gravity
 pass
 right
 coral
 funny |  
-| bip_39_word_new_line8 | educate
+| bip_39_word_new_line_8 | educate
 enable
 gravity
 pass
@@ -113,7 +113,7 @@ right
 coral
 funny
 together |  
-| bip_39_word_new_line9 | educate
+| bip_39_word_new_line_9 | educate
 enable
 gravity
 pass

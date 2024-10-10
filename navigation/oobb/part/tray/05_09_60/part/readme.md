@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | liberty |  
-| bip_39_word_new_br10 | liberty<br>toward<br>spirit<br>blast<br>powder<br>butter<br>fatigue<br>else<br>average<br>sphere |  
-| bip_39_word_new_br11 | liberty<br>toward<br>spirit<br>blast<br>powder<br>butter<br>fatigue<br>else<br>average<br>sphere<br>fever |  
-| bip_39_word_new_br12 | liberty<br>toward<br>spirit<br>blast<br>powder<br>butter<br>fatigue<br>else<br>average<br>sphere<br>fever<br>always |  
-| bip_39_word_new_br2 | liberty<br>toward |  
-| bip_39_word_new_br3 | liberty<br>toward<br>spirit |  
-| bip_39_word_new_br4 | liberty<br>toward<br>spirit<br>blast |  
-| bip_39_word_new_br5 | liberty<br>toward<br>spirit<br>blast<br>powder |  
-| bip_39_word_new_br6 | liberty<br>toward<br>spirit<br>blast<br>powder<br>butter |  
-| bip_39_word_new_br7 | liberty<br>toward<br>spirit<br>blast<br>powder<br>butter<br>fatigue |  
-| bip_39_word_new_br8 | liberty<br>toward<br>spirit<br>blast<br>powder<br>butter<br>fatigue<br>else |  
-| bip_39_word_new_br9 | liberty<br>toward<br>spirit<br>blast<br>powder<br>butter<br>fatigue<br>else<br>average |  
-| bip_39_word_new_line1 | liberty |  
-| bip_39_word_new_line10 | liberty
+| bip_39_word_new_br_1 | liberty |  
+| bip_39_word_new_br_10 | liberty<br>toward<br>spirit<br>blast<br>powder<br>butter<br>fatigue<br>else<br>average<br>sphere |  
+| bip_39_word_new_br_11 | liberty<br>toward<br>spirit<br>blast<br>powder<br>butter<br>fatigue<br>else<br>average<br>sphere<br>fever |  
+| bip_39_word_new_br_12 | liberty<br>toward<br>spirit<br>blast<br>powder<br>butter<br>fatigue<br>else<br>average<br>sphere<br>fever<br>always |  
+| bip_39_word_new_br_2 | liberty<br>toward |  
+| bip_39_word_new_br_3 | liberty<br>toward<br>spirit |  
+| bip_39_word_new_br_4 | liberty<br>toward<br>spirit<br>blast |  
+| bip_39_word_new_br_5 | liberty<br>toward<br>spirit<br>blast<br>powder |  
+| bip_39_word_new_br_6 | liberty<br>toward<br>spirit<br>blast<br>powder<br>butter |  
+| bip_39_word_new_br_7 | liberty<br>toward<br>spirit<br>blast<br>powder<br>butter<br>fatigue |  
+| bip_39_word_new_br_8 | liberty<br>toward<br>spirit<br>blast<br>powder<br>butter<br>fatigue<br>else |  
+| bip_39_word_new_br_9 | liberty<br>toward<br>spirit<br>blast<br>powder<br>butter<br>fatigue<br>else<br>average |  
+| bip_39_word_new_line_1 | liberty |  
+| bip_39_word_new_line_10 | liberty
 toward
 spirit
 blast
@@ -55,7 +55,7 @@ fatigue
 else
 average
 sphere |  
-| bip_39_word_new_line11 | liberty
+| bip_39_word_new_line_11 | liberty
 toward
 spirit
 blast
@@ -66,7 +66,7 @@ else
 average
 sphere
 fever |  
-| bip_39_word_new_line12 | liberty
+| bip_39_word_new_line_12 | liberty
 toward
 spirit
 blast
@@ -78,34 +78,34 @@ average
 sphere
 fever
 always |  
-| bip_39_word_new_line2 | liberty
+| bip_39_word_new_line_2 | liberty
 toward |  
-| bip_39_word_new_line3 | liberty
+| bip_39_word_new_line_3 | liberty
 toward
 spirit |  
-| bip_39_word_new_line4 | liberty
+| bip_39_word_new_line_4 | liberty
 toward
 spirit
 blast |  
-| bip_39_word_new_line5 | liberty
+| bip_39_word_new_line_5 | liberty
 toward
 spirit
 blast
 powder |  
-| bip_39_word_new_line6 | liberty
+| bip_39_word_new_line_6 | liberty
 toward
 spirit
 blast
 powder
 butter |  
-| bip_39_word_new_line7 | liberty
+| bip_39_word_new_line_7 | liberty
 toward
 spirit
 blast
 powder
 butter
 fatigue |  
-| bip_39_word_new_line8 | liberty
+| bip_39_word_new_line_8 | liberty
 toward
 spirit
 blast
@@ -113,7 +113,7 @@ powder
 butter
 fatigue
 else |  
-| bip_39_word_new_line9 | liberty
+| bip_39_word_new_line_9 | liberty
 toward
 spirit
 blast

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | goddess |  
-| bip_39_word_new_br10 | goddess<br>train<br>palm<br>nasty<br>wing<br>neither<br>glass<br>movie<br>local<br>lonely |  
-| bip_39_word_new_br11 | goddess<br>train<br>palm<br>nasty<br>wing<br>neither<br>glass<br>movie<br>local<br>lonely<br>differ |  
-| bip_39_word_new_br12 | goddess<br>train<br>palm<br>nasty<br>wing<br>neither<br>glass<br>movie<br>local<br>lonely<br>differ<br>any |  
-| bip_39_word_new_br2 | goddess<br>train |  
-| bip_39_word_new_br3 | goddess<br>train<br>palm |  
-| bip_39_word_new_br4 | goddess<br>train<br>palm<br>nasty |  
-| bip_39_word_new_br5 | goddess<br>train<br>palm<br>nasty<br>wing |  
-| bip_39_word_new_br6 | goddess<br>train<br>palm<br>nasty<br>wing<br>neither |  
-| bip_39_word_new_br7 | goddess<br>train<br>palm<br>nasty<br>wing<br>neither<br>glass |  
-| bip_39_word_new_br8 | goddess<br>train<br>palm<br>nasty<br>wing<br>neither<br>glass<br>movie |  
-| bip_39_word_new_br9 | goddess<br>train<br>palm<br>nasty<br>wing<br>neither<br>glass<br>movie<br>local |  
-| bip_39_word_new_line1 | goddess |  
-| bip_39_word_new_line10 | goddess
+| bip_39_word_new_br_1 | goddess |  
+| bip_39_word_new_br_10 | goddess<br>train<br>palm<br>nasty<br>wing<br>neither<br>glass<br>movie<br>local<br>lonely |  
+| bip_39_word_new_br_11 | goddess<br>train<br>palm<br>nasty<br>wing<br>neither<br>glass<br>movie<br>local<br>lonely<br>differ |  
+| bip_39_word_new_br_12 | goddess<br>train<br>palm<br>nasty<br>wing<br>neither<br>glass<br>movie<br>local<br>lonely<br>differ<br>any |  
+| bip_39_word_new_br_2 | goddess<br>train |  
+| bip_39_word_new_br_3 | goddess<br>train<br>palm |  
+| bip_39_word_new_br_4 | goddess<br>train<br>palm<br>nasty |  
+| bip_39_word_new_br_5 | goddess<br>train<br>palm<br>nasty<br>wing |  
+| bip_39_word_new_br_6 | goddess<br>train<br>palm<br>nasty<br>wing<br>neither |  
+| bip_39_word_new_br_7 | goddess<br>train<br>palm<br>nasty<br>wing<br>neither<br>glass |  
+| bip_39_word_new_br_8 | goddess<br>train<br>palm<br>nasty<br>wing<br>neither<br>glass<br>movie |  
+| bip_39_word_new_br_9 | goddess<br>train<br>palm<br>nasty<br>wing<br>neither<br>glass<br>movie<br>local |  
+| bip_39_word_new_line_1 | goddess |  
+| bip_39_word_new_line_10 | goddess
 train
 palm
 nasty
@@ -55,7 +55,7 @@ glass
 movie
 local
 lonely |  
-| bip_39_word_new_line11 | goddess
+| bip_39_word_new_line_11 | goddess
 train
 palm
 nasty
@@ -66,7 +66,7 @@ movie
 local
 lonely
 differ |  
-| bip_39_word_new_line12 | goddess
+| bip_39_word_new_line_12 | goddess
 train
 palm
 nasty
@@ -78,34 +78,34 @@ local
 lonely
 differ
 any |  
-| bip_39_word_new_line2 | goddess
+| bip_39_word_new_line_2 | goddess
 train |  
-| bip_39_word_new_line3 | goddess
+| bip_39_word_new_line_3 | goddess
 train
 palm |  
-| bip_39_word_new_line4 | goddess
+| bip_39_word_new_line_4 | goddess
 train
 palm
 nasty |  
-| bip_39_word_new_line5 | goddess
+| bip_39_word_new_line_5 | goddess
 train
 palm
 nasty
 wing |  
-| bip_39_word_new_line6 | goddess
+| bip_39_word_new_line_6 | goddess
 train
 palm
 nasty
 wing
 neither |  
-| bip_39_word_new_line7 | goddess
+| bip_39_word_new_line_7 | goddess
 train
 palm
 nasty
 wing
 neither
 glass |  
-| bip_39_word_new_line8 | goddess
+| bip_39_word_new_line_8 | goddess
 train
 palm
 nasty
@@ -113,7 +113,7 @@ wing
 neither
 glass
 movie |  
-| bip_39_word_new_line9 | goddess
+| bip_39_word_new_line_9 | goddess
 train
 palm
 nasty

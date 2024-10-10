@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | shop |  
-| bip_39_word_new_br10 | shop<br>glance<br>clap<br>home<br>chest<br>blast<br>chicken<br>finish<br>just<br>lab |  
-| bip_39_word_new_br11 | shop<br>glance<br>clap<br>home<br>chest<br>blast<br>chicken<br>finish<br>just<br>lab<br>fuel |  
-| bip_39_word_new_br12 | shop<br>glance<br>clap<br>home<br>chest<br>blast<br>chicken<br>finish<br>just<br>lab<br>fuel<br>advice |  
-| bip_39_word_new_br2 | shop<br>glance |  
-| bip_39_word_new_br3 | shop<br>glance<br>clap |  
-| bip_39_word_new_br4 | shop<br>glance<br>clap<br>home |  
-| bip_39_word_new_br5 | shop<br>glance<br>clap<br>home<br>chest |  
-| bip_39_word_new_br6 | shop<br>glance<br>clap<br>home<br>chest<br>blast |  
-| bip_39_word_new_br7 | shop<br>glance<br>clap<br>home<br>chest<br>blast<br>chicken |  
-| bip_39_word_new_br8 | shop<br>glance<br>clap<br>home<br>chest<br>blast<br>chicken<br>finish |  
-| bip_39_word_new_br9 | shop<br>glance<br>clap<br>home<br>chest<br>blast<br>chicken<br>finish<br>just |  
-| bip_39_word_new_line1 | shop |  
-| bip_39_word_new_line10 | shop
+| bip_39_word_new_br_1 | shop |  
+| bip_39_word_new_br_10 | shop<br>glance<br>clap<br>home<br>chest<br>blast<br>chicken<br>finish<br>just<br>lab |  
+| bip_39_word_new_br_11 | shop<br>glance<br>clap<br>home<br>chest<br>blast<br>chicken<br>finish<br>just<br>lab<br>fuel |  
+| bip_39_word_new_br_12 | shop<br>glance<br>clap<br>home<br>chest<br>blast<br>chicken<br>finish<br>just<br>lab<br>fuel<br>advice |  
+| bip_39_word_new_br_2 | shop<br>glance |  
+| bip_39_word_new_br_3 | shop<br>glance<br>clap |  
+| bip_39_word_new_br_4 | shop<br>glance<br>clap<br>home |  
+| bip_39_word_new_br_5 | shop<br>glance<br>clap<br>home<br>chest |  
+| bip_39_word_new_br_6 | shop<br>glance<br>clap<br>home<br>chest<br>blast |  
+| bip_39_word_new_br_7 | shop<br>glance<br>clap<br>home<br>chest<br>blast<br>chicken |  
+| bip_39_word_new_br_8 | shop<br>glance<br>clap<br>home<br>chest<br>blast<br>chicken<br>finish |  
+| bip_39_word_new_br_9 | shop<br>glance<br>clap<br>home<br>chest<br>blast<br>chicken<br>finish<br>just |  
+| bip_39_word_new_line_1 | shop |  
+| bip_39_word_new_line_10 | shop
 glance
 clap
 home
@@ -55,7 +55,7 @@ chicken
 finish
 just
 lab |  
-| bip_39_word_new_line11 | shop
+| bip_39_word_new_line_11 | shop
 glance
 clap
 home
@@ -66,7 +66,7 @@ finish
 just
 lab
 fuel |  
-| bip_39_word_new_line12 | shop
+| bip_39_word_new_line_12 | shop
 glance
 clap
 home
@@ -78,34 +78,34 @@ just
 lab
 fuel
 advice |  
-| bip_39_word_new_line2 | shop
+| bip_39_word_new_line_2 | shop
 glance |  
-| bip_39_word_new_line3 | shop
+| bip_39_word_new_line_3 | shop
 glance
 clap |  
-| bip_39_word_new_line4 | shop
+| bip_39_word_new_line_4 | shop
 glance
 clap
 home |  
-| bip_39_word_new_line5 | shop
+| bip_39_word_new_line_5 | shop
 glance
 clap
 home
 chest |  
-| bip_39_word_new_line6 | shop
+| bip_39_word_new_line_6 | shop
 glance
 clap
 home
 chest
 blast |  
-| bip_39_word_new_line7 | shop
+| bip_39_word_new_line_7 | shop
 glance
 clap
 home
 chest
 blast
 chicken |  
-| bip_39_word_new_line8 | shop
+| bip_39_word_new_line_8 | shop
 glance
 clap
 home
@@ -113,7 +113,7 @@ chest
 blast
 chicken
 finish |  
-| bip_39_word_new_line9 | shop
+| bip_39_word_new_line_9 | shop
 glance
 clap
 home

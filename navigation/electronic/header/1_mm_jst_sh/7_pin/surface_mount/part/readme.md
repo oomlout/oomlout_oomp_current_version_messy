@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | vague |  
-| bip_39_word_new_br10 | vague<br>dutch<br>floor<br>fetch<br>grass<br>lyrics<br>cloth<br>wealth<br>thrive<br>dial |  
-| bip_39_word_new_br11 | vague<br>dutch<br>floor<br>fetch<br>grass<br>lyrics<br>cloth<br>wealth<br>thrive<br>dial<br>salad |  
-| bip_39_word_new_br12 | vague<br>dutch<br>floor<br>fetch<br>grass<br>lyrics<br>cloth<br>wealth<br>thrive<br>dial<br>salad<br>account |  
-| bip_39_word_new_br2 | vague<br>dutch |  
-| bip_39_word_new_br3 | vague<br>dutch<br>floor |  
-| bip_39_word_new_br4 | vague<br>dutch<br>floor<br>fetch |  
-| bip_39_word_new_br5 | vague<br>dutch<br>floor<br>fetch<br>grass |  
-| bip_39_word_new_br6 | vague<br>dutch<br>floor<br>fetch<br>grass<br>lyrics |  
-| bip_39_word_new_br7 | vague<br>dutch<br>floor<br>fetch<br>grass<br>lyrics<br>cloth |  
-| bip_39_word_new_br8 | vague<br>dutch<br>floor<br>fetch<br>grass<br>lyrics<br>cloth<br>wealth |  
-| bip_39_word_new_br9 | vague<br>dutch<br>floor<br>fetch<br>grass<br>lyrics<br>cloth<br>wealth<br>thrive |  
-| bip_39_word_new_line1 | vague |  
-| bip_39_word_new_line10 | vague
+| bip_39_word_new_br_1 | vague |  
+| bip_39_word_new_br_10 | vague<br>dutch<br>floor<br>fetch<br>grass<br>lyrics<br>cloth<br>wealth<br>thrive<br>dial |  
+| bip_39_word_new_br_11 | vague<br>dutch<br>floor<br>fetch<br>grass<br>lyrics<br>cloth<br>wealth<br>thrive<br>dial<br>salad |  
+| bip_39_word_new_br_12 | vague<br>dutch<br>floor<br>fetch<br>grass<br>lyrics<br>cloth<br>wealth<br>thrive<br>dial<br>salad<br>account |  
+| bip_39_word_new_br_2 | vague<br>dutch |  
+| bip_39_word_new_br_3 | vague<br>dutch<br>floor |  
+| bip_39_word_new_br_4 | vague<br>dutch<br>floor<br>fetch |  
+| bip_39_word_new_br_5 | vague<br>dutch<br>floor<br>fetch<br>grass |  
+| bip_39_word_new_br_6 | vague<br>dutch<br>floor<br>fetch<br>grass<br>lyrics |  
+| bip_39_word_new_br_7 | vague<br>dutch<br>floor<br>fetch<br>grass<br>lyrics<br>cloth |  
+| bip_39_word_new_br_8 | vague<br>dutch<br>floor<br>fetch<br>grass<br>lyrics<br>cloth<br>wealth |  
+| bip_39_word_new_br_9 | vague<br>dutch<br>floor<br>fetch<br>grass<br>lyrics<br>cloth<br>wealth<br>thrive |  
+| bip_39_word_new_line_1 | vague |  
+| bip_39_word_new_line_10 | vague
 dutch
 floor
 fetch
@@ -55,7 +55,7 @@ cloth
 wealth
 thrive
 dial |  
-| bip_39_word_new_line11 | vague
+| bip_39_word_new_line_11 | vague
 dutch
 floor
 fetch
@@ -66,7 +66,7 @@ wealth
 thrive
 dial
 salad |  
-| bip_39_word_new_line12 | vague
+| bip_39_word_new_line_12 | vague
 dutch
 floor
 fetch
@@ -78,34 +78,34 @@ thrive
 dial
 salad
 account |  
-| bip_39_word_new_line2 | vague
+| bip_39_word_new_line_2 | vague
 dutch |  
-| bip_39_word_new_line3 | vague
+| bip_39_word_new_line_3 | vague
 dutch
 floor |  
-| bip_39_word_new_line4 | vague
+| bip_39_word_new_line_4 | vague
 dutch
 floor
 fetch |  
-| bip_39_word_new_line5 | vague
+| bip_39_word_new_line_5 | vague
 dutch
 floor
 fetch
 grass |  
-| bip_39_word_new_line6 | vague
+| bip_39_word_new_line_6 | vague
 dutch
 floor
 fetch
 grass
 lyrics |  
-| bip_39_word_new_line7 | vague
+| bip_39_word_new_line_7 | vague
 dutch
 floor
 fetch
 grass
 lyrics
 cloth |  
-| bip_39_word_new_line8 | vague
+| bip_39_word_new_line_8 | vague
 dutch
 floor
 fetch
@@ -113,7 +113,7 @@ grass
 lyrics
 cloth
 wealth |  
-| bip_39_word_new_line9 | vague
+| bip_39_word_new_line_9 | vague
 dutch
 floor
 fetch

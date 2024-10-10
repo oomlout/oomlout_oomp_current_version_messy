@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | shoulder |  
-| bip_39_word_new_br10 | shoulder<br>fat<br>switch<br>income<br>empower<br>agent<br>elegant<br>snake<br>airport<br>odor |  
-| bip_39_word_new_br11 | shoulder<br>fat<br>switch<br>income<br>empower<br>agent<br>elegant<br>snake<br>airport<br>odor<br>quiz |  
-| bip_39_word_new_br12 | shoulder<br>fat<br>switch<br>income<br>empower<br>agent<br>elegant<br>snake<br>airport<br>odor<br>quiz<br>alone |  
-| bip_39_word_new_br2 | shoulder<br>fat |  
-| bip_39_word_new_br3 | shoulder<br>fat<br>switch |  
-| bip_39_word_new_br4 | shoulder<br>fat<br>switch<br>income |  
-| bip_39_word_new_br5 | shoulder<br>fat<br>switch<br>income<br>empower |  
-| bip_39_word_new_br6 | shoulder<br>fat<br>switch<br>income<br>empower<br>agent |  
-| bip_39_word_new_br7 | shoulder<br>fat<br>switch<br>income<br>empower<br>agent<br>elegant |  
-| bip_39_word_new_br8 | shoulder<br>fat<br>switch<br>income<br>empower<br>agent<br>elegant<br>snake |  
-| bip_39_word_new_br9 | shoulder<br>fat<br>switch<br>income<br>empower<br>agent<br>elegant<br>snake<br>airport |  
-| bip_39_word_new_line1 | shoulder |  
-| bip_39_word_new_line10 | shoulder
+| bip_39_word_new_br_1 | shoulder |  
+| bip_39_word_new_br_10 | shoulder<br>fat<br>switch<br>income<br>empower<br>agent<br>elegant<br>snake<br>airport<br>odor |  
+| bip_39_word_new_br_11 | shoulder<br>fat<br>switch<br>income<br>empower<br>agent<br>elegant<br>snake<br>airport<br>odor<br>quiz |  
+| bip_39_word_new_br_12 | shoulder<br>fat<br>switch<br>income<br>empower<br>agent<br>elegant<br>snake<br>airport<br>odor<br>quiz<br>alone |  
+| bip_39_word_new_br_2 | shoulder<br>fat |  
+| bip_39_word_new_br_3 | shoulder<br>fat<br>switch |  
+| bip_39_word_new_br_4 | shoulder<br>fat<br>switch<br>income |  
+| bip_39_word_new_br_5 | shoulder<br>fat<br>switch<br>income<br>empower |  
+| bip_39_word_new_br_6 | shoulder<br>fat<br>switch<br>income<br>empower<br>agent |  
+| bip_39_word_new_br_7 | shoulder<br>fat<br>switch<br>income<br>empower<br>agent<br>elegant |  
+| bip_39_word_new_br_8 | shoulder<br>fat<br>switch<br>income<br>empower<br>agent<br>elegant<br>snake |  
+| bip_39_word_new_br_9 | shoulder<br>fat<br>switch<br>income<br>empower<br>agent<br>elegant<br>snake<br>airport |  
+| bip_39_word_new_line_1 | shoulder |  
+| bip_39_word_new_line_10 | shoulder
 fat
 switch
 income
@@ -55,7 +55,7 @@ elegant
 snake
 airport
 odor |  
-| bip_39_word_new_line11 | shoulder
+| bip_39_word_new_line_11 | shoulder
 fat
 switch
 income
@@ -66,7 +66,7 @@ snake
 airport
 odor
 quiz |  
-| bip_39_word_new_line12 | shoulder
+| bip_39_word_new_line_12 | shoulder
 fat
 switch
 income
@@ -78,34 +78,34 @@ airport
 odor
 quiz
 alone |  
-| bip_39_word_new_line2 | shoulder
+| bip_39_word_new_line_2 | shoulder
 fat |  
-| bip_39_word_new_line3 | shoulder
+| bip_39_word_new_line_3 | shoulder
 fat
 switch |  
-| bip_39_word_new_line4 | shoulder
+| bip_39_word_new_line_4 | shoulder
 fat
 switch
 income |  
-| bip_39_word_new_line5 | shoulder
+| bip_39_word_new_line_5 | shoulder
 fat
 switch
 income
 empower |  
-| bip_39_word_new_line6 | shoulder
+| bip_39_word_new_line_6 | shoulder
 fat
 switch
 income
 empower
 agent |  
-| bip_39_word_new_line7 | shoulder
+| bip_39_word_new_line_7 | shoulder
 fat
 switch
 income
 empower
 agent
 elegant |  
-| bip_39_word_new_line8 | shoulder
+| bip_39_word_new_line_8 | shoulder
 fat
 switch
 income
@@ -113,7 +113,7 @@ empower
 agent
 elegant
 snake |  
-| bip_39_word_new_line9 | shoulder
+| bip_39_word_new_line_9 | shoulder
 fat
 switch
 income

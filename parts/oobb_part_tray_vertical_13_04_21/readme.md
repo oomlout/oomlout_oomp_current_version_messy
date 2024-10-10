@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bike |  
-| bip_39_word_new_br10 | bike<br>pumpkin<br>gold<br>knock<br>myth<br>exotic<br>inch<br>sister<br>artwork<br>silly |  
-| bip_39_word_new_br11 | bike<br>pumpkin<br>gold<br>knock<br>myth<br>exotic<br>inch<br>sister<br>artwork<br>silly<br>boss |  
-| bip_39_word_new_br12 | bike<br>pumpkin<br>gold<br>knock<br>myth<br>exotic<br>inch<br>sister<br>artwork<br>silly<br>boss<br>ability |  
-| bip_39_word_new_br2 | bike<br>pumpkin |  
-| bip_39_word_new_br3 | bike<br>pumpkin<br>gold |  
-| bip_39_word_new_br4 | bike<br>pumpkin<br>gold<br>knock |  
-| bip_39_word_new_br5 | bike<br>pumpkin<br>gold<br>knock<br>myth |  
-| bip_39_word_new_br6 | bike<br>pumpkin<br>gold<br>knock<br>myth<br>exotic |  
-| bip_39_word_new_br7 | bike<br>pumpkin<br>gold<br>knock<br>myth<br>exotic<br>inch |  
-| bip_39_word_new_br8 | bike<br>pumpkin<br>gold<br>knock<br>myth<br>exotic<br>inch<br>sister |  
-| bip_39_word_new_br9 | bike<br>pumpkin<br>gold<br>knock<br>myth<br>exotic<br>inch<br>sister<br>artwork |  
-| bip_39_word_new_line1 | bike |  
-| bip_39_word_new_line10 | bike
+| bip_39_word_new_br_1 | bike |  
+| bip_39_word_new_br_10 | bike<br>pumpkin<br>gold<br>knock<br>myth<br>exotic<br>inch<br>sister<br>artwork<br>silly |  
+| bip_39_word_new_br_11 | bike<br>pumpkin<br>gold<br>knock<br>myth<br>exotic<br>inch<br>sister<br>artwork<br>silly<br>boss |  
+| bip_39_word_new_br_12 | bike<br>pumpkin<br>gold<br>knock<br>myth<br>exotic<br>inch<br>sister<br>artwork<br>silly<br>boss<br>ability |  
+| bip_39_word_new_br_2 | bike<br>pumpkin |  
+| bip_39_word_new_br_3 | bike<br>pumpkin<br>gold |  
+| bip_39_word_new_br_4 | bike<br>pumpkin<br>gold<br>knock |  
+| bip_39_word_new_br_5 | bike<br>pumpkin<br>gold<br>knock<br>myth |  
+| bip_39_word_new_br_6 | bike<br>pumpkin<br>gold<br>knock<br>myth<br>exotic |  
+| bip_39_word_new_br_7 | bike<br>pumpkin<br>gold<br>knock<br>myth<br>exotic<br>inch |  
+| bip_39_word_new_br_8 | bike<br>pumpkin<br>gold<br>knock<br>myth<br>exotic<br>inch<br>sister |  
+| bip_39_word_new_br_9 | bike<br>pumpkin<br>gold<br>knock<br>myth<br>exotic<br>inch<br>sister<br>artwork |  
+| bip_39_word_new_line_1 | bike |  
+| bip_39_word_new_line_10 | bike
 pumpkin
 gold
 knock
@@ -55,7 +55,7 @@ inch
 sister
 artwork
 silly |  
-| bip_39_word_new_line11 | bike
+| bip_39_word_new_line_11 | bike
 pumpkin
 gold
 knock
@@ -66,7 +66,7 @@ sister
 artwork
 silly
 boss |  
-| bip_39_word_new_line12 | bike
+| bip_39_word_new_line_12 | bike
 pumpkin
 gold
 knock
@@ -78,34 +78,34 @@ artwork
 silly
 boss
 ability |  
-| bip_39_word_new_line2 | bike
+| bip_39_word_new_line_2 | bike
 pumpkin |  
-| bip_39_word_new_line3 | bike
+| bip_39_word_new_line_3 | bike
 pumpkin
 gold |  
-| bip_39_word_new_line4 | bike
+| bip_39_word_new_line_4 | bike
 pumpkin
 gold
 knock |  
-| bip_39_word_new_line5 | bike
+| bip_39_word_new_line_5 | bike
 pumpkin
 gold
 knock
 myth |  
-| bip_39_word_new_line6 | bike
+| bip_39_word_new_line_6 | bike
 pumpkin
 gold
 knock
 myth
 exotic |  
-| bip_39_word_new_line7 | bike
+| bip_39_word_new_line_7 | bike
 pumpkin
 gold
 knock
 myth
 exotic
 inch |  
-| bip_39_word_new_line8 | bike
+| bip_39_word_new_line_8 | bike
 pumpkin
 gold
 knock
@@ -113,7 +113,7 @@ myth
 exotic
 inch
 sister |  
-| bip_39_word_new_line9 | bike
+| bip_39_word_new_line_9 | bike
 pumpkin
 gold
 knock

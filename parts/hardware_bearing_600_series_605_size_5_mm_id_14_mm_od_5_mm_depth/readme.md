@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gate |  
-| bip_39_word_new_br10 | gate<br>inmate<br>friend<br>wait<br>firm<br>wreck<br>cloud<br>allow<br>twice<br>maid |  
-| bip_39_word_new_br11 | gate<br>inmate<br>friend<br>wait<br>firm<br>wreck<br>cloud<br>allow<br>twice<br>maid<br>able |  
-| bip_39_word_new_br12 | gate<br>inmate<br>friend<br>wait<br>firm<br>wreck<br>cloud<br>allow<br>twice<br>maid<br>able<br>angry |  
-| bip_39_word_new_br2 | gate<br>inmate |  
-| bip_39_word_new_br3 | gate<br>inmate<br>friend |  
-| bip_39_word_new_br4 | gate<br>inmate<br>friend<br>wait |  
-| bip_39_word_new_br5 | gate<br>inmate<br>friend<br>wait<br>firm |  
-| bip_39_word_new_br6 | gate<br>inmate<br>friend<br>wait<br>firm<br>wreck |  
-| bip_39_word_new_br7 | gate<br>inmate<br>friend<br>wait<br>firm<br>wreck<br>cloud |  
-| bip_39_word_new_br8 | gate<br>inmate<br>friend<br>wait<br>firm<br>wreck<br>cloud<br>allow |  
-| bip_39_word_new_br9 | gate<br>inmate<br>friend<br>wait<br>firm<br>wreck<br>cloud<br>allow<br>twice |  
-| bip_39_word_new_line1 | gate |  
-| bip_39_word_new_line10 | gate
+| bip_39_word_new_br_1 | gate |  
+| bip_39_word_new_br_10 | gate<br>inmate<br>friend<br>wait<br>firm<br>wreck<br>cloud<br>allow<br>twice<br>maid |  
+| bip_39_word_new_br_11 | gate<br>inmate<br>friend<br>wait<br>firm<br>wreck<br>cloud<br>allow<br>twice<br>maid<br>able |  
+| bip_39_word_new_br_12 | gate<br>inmate<br>friend<br>wait<br>firm<br>wreck<br>cloud<br>allow<br>twice<br>maid<br>able<br>angry |  
+| bip_39_word_new_br_2 | gate<br>inmate |  
+| bip_39_word_new_br_3 | gate<br>inmate<br>friend |  
+| bip_39_word_new_br_4 | gate<br>inmate<br>friend<br>wait |  
+| bip_39_word_new_br_5 | gate<br>inmate<br>friend<br>wait<br>firm |  
+| bip_39_word_new_br_6 | gate<br>inmate<br>friend<br>wait<br>firm<br>wreck |  
+| bip_39_word_new_br_7 | gate<br>inmate<br>friend<br>wait<br>firm<br>wreck<br>cloud |  
+| bip_39_word_new_br_8 | gate<br>inmate<br>friend<br>wait<br>firm<br>wreck<br>cloud<br>allow |  
+| bip_39_word_new_br_9 | gate<br>inmate<br>friend<br>wait<br>firm<br>wreck<br>cloud<br>allow<br>twice |  
+| bip_39_word_new_line_1 | gate |  
+| bip_39_word_new_line_10 | gate
 inmate
 friend
 wait
@@ -55,7 +55,7 @@ cloud
 allow
 twice
 maid |  
-| bip_39_word_new_line11 | gate
+| bip_39_word_new_line_11 | gate
 inmate
 friend
 wait
@@ -66,7 +66,7 @@ allow
 twice
 maid
 able |  
-| bip_39_word_new_line12 | gate
+| bip_39_word_new_line_12 | gate
 inmate
 friend
 wait
@@ -78,34 +78,34 @@ twice
 maid
 able
 angry |  
-| bip_39_word_new_line2 | gate
+| bip_39_word_new_line_2 | gate
 inmate |  
-| bip_39_word_new_line3 | gate
+| bip_39_word_new_line_3 | gate
 inmate
 friend |  
-| bip_39_word_new_line4 | gate
+| bip_39_word_new_line_4 | gate
 inmate
 friend
 wait |  
-| bip_39_word_new_line5 | gate
+| bip_39_word_new_line_5 | gate
 inmate
 friend
 wait
 firm |  
-| bip_39_word_new_line6 | gate
+| bip_39_word_new_line_6 | gate
 inmate
 friend
 wait
 firm
 wreck |  
-| bip_39_word_new_line7 | gate
+| bip_39_word_new_line_7 | gate
 inmate
 friend
 wait
 firm
 wreck
 cloud |  
-| bip_39_word_new_line8 | gate
+| bip_39_word_new_line_8 | gate
 inmate
 friend
 wait
@@ -113,7 +113,7 @@ firm
 wreck
 cloud
 allow |  
-| bip_39_word_new_line9 | gate
+| bip_39_word_new_line_9 | gate
 inmate
 friend
 wait

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | faculty |  
-| bip_39_word_new_br10 | faculty<br>rude<br>pulse<br>flame<br>cube<br>swarm<br>grant<br>slice<br>gift<br>defense |  
-| bip_39_word_new_br11 | faculty<br>rude<br>pulse<br>flame<br>cube<br>swarm<br>grant<br>slice<br>gift<br>defense<br>few |  
-| bip_39_word_new_br12 | faculty<br>rude<br>pulse<br>flame<br>cube<br>swarm<br>grant<br>slice<br>gift<br>defense<br>few<br>among |  
-| bip_39_word_new_br2 | faculty<br>rude |  
-| bip_39_word_new_br3 | faculty<br>rude<br>pulse |  
-| bip_39_word_new_br4 | faculty<br>rude<br>pulse<br>flame |  
-| bip_39_word_new_br5 | faculty<br>rude<br>pulse<br>flame<br>cube |  
-| bip_39_word_new_br6 | faculty<br>rude<br>pulse<br>flame<br>cube<br>swarm |  
-| bip_39_word_new_br7 | faculty<br>rude<br>pulse<br>flame<br>cube<br>swarm<br>grant |  
-| bip_39_word_new_br8 | faculty<br>rude<br>pulse<br>flame<br>cube<br>swarm<br>grant<br>slice |  
-| bip_39_word_new_br9 | faculty<br>rude<br>pulse<br>flame<br>cube<br>swarm<br>grant<br>slice<br>gift |  
-| bip_39_word_new_line1 | faculty |  
-| bip_39_word_new_line10 | faculty
+| bip_39_word_new_br_1 | faculty |  
+| bip_39_word_new_br_10 | faculty<br>rude<br>pulse<br>flame<br>cube<br>swarm<br>grant<br>slice<br>gift<br>defense |  
+| bip_39_word_new_br_11 | faculty<br>rude<br>pulse<br>flame<br>cube<br>swarm<br>grant<br>slice<br>gift<br>defense<br>few |  
+| bip_39_word_new_br_12 | faculty<br>rude<br>pulse<br>flame<br>cube<br>swarm<br>grant<br>slice<br>gift<br>defense<br>few<br>among |  
+| bip_39_word_new_br_2 | faculty<br>rude |  
+| bip_39_word_new_br_3 | faculty<br>rude<br>pulse |  
+| bip_39_word_new_br_4 | faculty<br>rude<br>pulse<br>flame |  
+| bip_39_word_new_br_5 | faculty<br>rude<br>pulse<br>flame<br>cube |  
+| bip_39_word_new_br_6 | faculty<br>rude<br>pulse<br>flame<br>cube<br>swarm |  
+| bip_39_word_new_br_7 | faculty<br>rude<br>pulse<br>flame<br>cube<br>swarm<br>grant |  
+| bip_39_word_new_br_8 | faculty<br>rude<br>pulse<br>flame<br>cube<br>swarm<br>grant<br>slice |  
+| bip_39_word_new_br_9 | faculty<br>rude<br>pulse<br>flame<br>cube<br>swarm<br>grant<br>slice<br>gift |  
+| bip_39_word_new_line_1 | faculty |  
+| bip_39_word_new_line_10 | faculty
 rude
 pulse
 flame
@@ -55,7 +55,7 @@ grant
 slice
 gift
 defense |  
-| bip_39_word_new_line11 | faculty
+| bip_39_word_new_line_11 | faculty
 rude
 pulse
 flame
@@ -66,7 +66,7 @@ slice
 gift
 defense
 few |  
-| bip_39_word_new_line12 | faculty
+| bip_39_word_new_line_12 | faculty
 rude
 pulse
 flame
@@ -78,34 +78,34 @@ gift
 defense
 few
 among |  
-| bip_39_word_new_line2 | faculty
+| bip_39_word_new_line_2 | faculty
 rude |  
-| bip_39_word_new_line3 | faculty
+| bip_39_word_new_line_3 | faculty
 rude
 pulse |  
-| bip_39_word_new_line4 | faculty
+| bip_39_word_new_line_4 | faculty
 rude
 pulse
 flame |  
-| bip_39_word_new_line5 | faculty
+| bip_39_word_new_line_5 | faculty
 rude
 pulse
 flame
 cube |  
-| bip_39_word_new_line6 | faculty
+| bip_39_word_new_line_6 | faculty
 rude
 pulse
 flame
 cube
 swarm |  
-| bip_39_word_new_line7 | faculty
+| bip_39_word_new_line_7 | faculty
 rude
 pulse
 flame
 cube
 swarm
 grant |  
-| bip_39_word_new_line8 | faculty
+| bip_39_word_new_line_8 | faculty
 rude
 pulse
 flame
@@ -113,7 +113,7 @@ cube
 swarm
 grant
 slice |  
-| bip_39_word_new_line9 | faculty
+| bip_39_word_new_line_9 | faculty
 rude
 pulse
 flame

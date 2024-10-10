@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | attack |  
-| bip_39_word_new_br10 | attack<br>detect<br>liberty<br>peanut<br>dog<br>awake<br>car<br>bonus<br>attitude<br>involve |  
-| bip_39_word_new_br11 | attack<br>detect<br>liberty<br>peanut<br>dog<br>awake<br>car<br>bonus<br>attitude<br>involve<br>dinner |  
-| bip_39_word_new_br12 | attack<br>detect<br>liberty<br>peanut<br>dog<br>awake<br>car<br>bonus<br>attitude<br>involve<br>dinner<br>auction |  
-| bip_39_word_new_br2 | attack<br>detect |  
-| bip_39_word_new_br3 | attack<br>detect<br>liberty |  
-| bip_39_word_new_br4 | attack<br>detect<br>liberty<br>peanut |  
-| bip_39_word_new_br5 | attack<br>detect<br>liberty<br>peanut<br>dog |  
-| bip_39_word_new_br6 | attack<br>detect<br>liberty<br>peanut<br>dog<br>awake |  
-| bip_39_word_new_br7 | attack<br>detect<br>liberty<br>peanut<br>dog<br>awake<br>car |  
-| bip_39_word_new_br8 | attack<br>detect<br>liberty<br>peanut<br>dog<br>awake<br>car<br>bonus |  
-| bip_39_word_new_br9 | attack<br>detect<br>liberty<br>peanut<br>dog<br>awake<br>car<br>bonus<br>attitude |  
-| bip_39_word_new_line1 | attack |  
-| bip_39_word_new_line10 | attack
+| bip_39_word_new_br_1 | attack |  
+| bip_39_word_new_br_10 | attack<br>detect<br>liberty<br>peanut<br>dog<br>awake<br>car<br>bonus<br>attitude<br>involve |  
+| bip_39_word_new_br_11 | attack<br>detect<br>liberty<br>peanut<br>dog<br>awake<br>car<br>bonus<br>attitude<br>involve<br>dinner |  
+| bip_39_word_new_br_12 | attack<br>detect<br>liberty<br>peanut<br>dog<br>awake<br>car<br>bonus<br>attitude<br>involve<br>dinner<br>auction |  
+| bip_39_word_new_br_2 | attack<br>detect |  
+| bip_39_word_new_br_3 | attack<br>detect<br>liberty |  
+| bip_39_word_new_br_4 | attack<br>detect<br>liberty<br>peanut |  
+| bip_39_word_new_br_5 | attack<br>detect<br>liberty<br>peanut<br>dog |  
+| bip_39_word_new_br_6 | attack<br>detect<br>liberty<br>peanut<br>dog<br>awake |  
+| bip_39_word_new_br_7 | attack<br>detect<br>liberty<br>peanut<br>dog<br>awake<br>car |  
+| bip_39_word_new_br_8 | attack<br>detect<br>liberty<br>peanut<br>dog<br>awake<br>car<br>bonus |  
+| bip_39_word_new_br_9 | attack<br>detect<br>liberty<br>peanut<br>dog<br>awake<br>car<br>bonus<br>attitude |  
+| bip_39_word_new_line_1 | attack |  
+| bip_39_word_new_line_10 | attack
 detect
 liberty
 peanut
@@ -55,7 +55,7 @@ car
 bonus
 attitude
 involve |  
-| bip_39_word_new_line11 | attack
+| bip_39_word_new_line_11 | attack
 detect
 liberty
 peanut
@@ -66,7 +66,7 @@ bonus
 attitude
 involve
 dinner |  
-| bip_39_word_new_line12 | attack
+| bip_39_word_new_line_12 | attack
 detect
 liberty
 peanut
@@ -78,34 +78,34 @@ attitude
 involve
 dinner
 auction |  
-| bip_39_word_new_line2 | attack
+| bip_39_word_new_line_2 | attack
 detect |  
-| bip_39_word_new_line3 | attack
+| bip_39_word_new_line_3 | attack
 detect
 liberty |  
-| bip_39_word_new_line4 | attack
+| bip_39_word_new_line_4 | attack
 detect
 liberty
 peanut |  
-| bip_39_word_new_line5 | attack
+| bip_39_word_new_line_5 | attack
 detect
 liberty
 peanut
 dog |  
-| bip_39_word_new_line6 | attack
+| bip_39_word_new_line_6 | attack
 detect
 liberty
 peanut
 dog
 awake |  
-| bip_39_word_new_line7 | attack
+| bip_39_word_new_line_7 | attack
 detect
 liberty
 peanut
 dog
 awake
 car |  
-| bip_39_word_new_line8 | attack
+| bip_39_word_new_line_8 | attack
 detect
 liberty
 peanut
@@ -113,7 +113,7 @@ dog
 awake
 car
 bonus |  
-| bip_39_word_new_line9 | attack
+| bip_39_word_new_line_9 | attack
 detect
 liberty
 peanut

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | opera |  
-| bip_39_word_new_br10 | opera<br>usage<br>stairs<br>job<br>enter<br>arrive<br>noodle<br>praise<br>rib<br>leg |  
-| bip_39_word_new_br11 | opera<br>usage<br>stairs<br>job<br>enter<br>arrive<br>noodle<br>praise<br>rib<br>leg<br>hamster |  
-| bip_39_word_new_br12 | opera<br>usage<br>stairs<br>job<br>enter<br>arrive<br>noodle<br>praise<br>rib<br>leg<br>hamster<br>animal |  
-| bip_39_word_new_br2 | opera<br>usage |  
-| bip_39_word_new_br3 | opera<br>usage<br>stairs |  
-| bip_39_word_new_br4 | opera<br>usage<br>stairs<br>job |  
-| bip_39_word_new_br5 | opera<br>usage<br>stairs<br>job<br>enter |  
-| bip_39_word_new_br6 | opera<br>usage<br>stairs<br>job<br>enter<br>arrive |  
-| bip_39_word_new_br7 | opera<br>usage<br>stairs<br>job<br>enter<br>arrive<br>noodle |  
-| bip_39_word_new_br8 | opera<br>usage<br>stairs<br>job<br>enter<br>arrive<br>noodle<br>praise |  
-| bip_39_word_new_br9 | opera<br>usage<br>stairs<br>job<br>enter<br>arrive<br>noodle<br>praise<br>rib |  
-| bip_39_word_new_line1 | opera |  
-| bip_39_word_new_line10 | opera
+| bip_39_word_new_br_1 | opera |  
+| bip_39_word_new_br_10 | opera<br>usage<br>stairs<br>job<br>enter<br>arrive<br>noodle<br>praise<br>rib<br>leg |  
+| bip_39_word_new_br_11 | opera<br>usage<br>stairs<br>job<br>enter<br>arrive<br>noodle<br>praise<br>rib<br>leg<br>hamster |  
+| bip_39_word_new_br_12 | opera<br>usage<br>stairs<br>job<br>enter<br>arrive<br>noodle<br>praise<br>rib<br>leg<br>hamster<br>animal |  
+| bip_39_word_new_br_2 | opera<br>usage |  
+| bip_39_word_new_br_3 | opera<br>usage<br>stairs |  
+| bip_39_word_new_br_4 | opera<br>usage<br>stairs<br>job |  
+| bip_39_word_new_br_5 | opera<br>usage<br>stairs<br>job<br>enter |  
+| bip_39_word_new_br_6 | opera<br>usage<br>stairs<br>job<br>enter<br>arrive |  
+| bip_39_word_new_br_7 | opera<br>usage<br>stairs<br>job<br>enter<br>arrive<br>noodle |  
+| bip_39_word_new_br_8 | opera<br>usage<br>stairs<br>job<br>enter<br>arrive<br>noodle<br>praise |  
+| bip_39_word_new_br_9 | opera<br>usage<br>stairs<br>job<br>enter<br>arrive<br>noodle<br>praise<br>rib |  
+| bip_39_word_new_line_1 | opera |  
+| bip_39_word_new_line_10 | opera
 usage
 stairs
 job
@@ -55,7 +55,7 @@ noodle
 praise
 rib
 leg |  
-| bip_39_word_new_line11 | opera
+| bip_39_word_new_line_11 | opera
 usage
 stairs
 job
@@ -66,7 +66,7 @@ praise
 rib
 leg
 hamster |  
-| bip_39_word_new_line12 | opera
+| bip_39_word_new_line_12 | opera
 usage
 stairs
 job
@@ -78,34 +78,34 @@ rib
 leg
 hamster
 animal |  
-| bip_39_word_new_line2 | opera
+| bip_39_word_new_line_2 | opera
 usage |  
-| bip_39_word_new_line3 | opera
+| bip_39_word_new_line_3 | opera
 usage
 stairs |  
-| bip_39_word_new_line4 | opera
+| bip_39_word_new_line_4 | opera
 usage
 stairs
 job |  
-| bip_39_word_new_line5 | opera
+| bip_39_word_new_line_5 | opera
 usage
 stairs
 job
 enter |  
-| bip_39_word_new_line6 | opera
+| bip_39_word_new_line_6 | opera
 usage
 stairs
 job
 enter
 arrive |  
-| bip_39_word_new_line7 | opera
+| bip_39_word_new_line_7 | opera
 usage
 stairs
 job
 enter
 arrive
 noodle |  
-| bip_39_word_new_line8 | opera
+| bip_39_word_new_line_8 | opera
 usage
 stairs
 job
@@ -113,7 +113,7 @@ enter
 arrive
 noodle
 praise |  
-| bip_39_word_new_line9 | opera
+| bip_39_word_new_line_9 | opera
 usage
 stairs
 job

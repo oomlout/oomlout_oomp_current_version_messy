@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | grit |  
-| bip_39_word_new_br10 | grit<br>wish<br>disagree<br>exhaust<br>holiday<br>finger<br>mail<br>universe<br>own<br>public |  
-| bip_39_word_new_br11 | grit<br>wish<br>disagree<br>exhaust<br>holiday<br>finger<br>mail<br>universe<br>own<br>public<br>load |  
-| bip_39_word_new_br12 | grit<br>wish<br>disagree<br>exhaust<br>holiday<br>finger<br>mail<br>universe<br>own<br>public<br>load<br>adapt |  
-| bip_39_word_new_br2 | grit<br>wish |  
-| bip_39_word_new_br3 | grit<br>wish<br>disagree |  
-| bip_39_word_new_br4 | grit<br>wish<br>disagree<br>exhaust |  
-| bip_39_word_new_br5 | grit<br>wish<br>disagree<br>exhaust<br>holiday |  
-| bip_39_word_new_br6 | grit<br>wish<br>disagree<br>exhaust<br>holiday<br>finger |  
-| bip_39_word_new_br7 | grit<br>wish<br>disagree<br>exhaust<br>holiday<br>finger<br>mail |  
-| bip_39_word_new_br8 | grit<br>wish<br>disagree<br>exhaust<br>holiday<br>finger<br>mail<br>universe |  
-| bip_39_word_new_br9 | grit<br>wish<br>disagree<br>exhaust<br>holiday<br>finger<br>mail<br>universe<br>own |  
-| bip_39_word_new_line1 | grit |  
-| bip_39_word_new_line10 | grit
+| bip_39_word_new_br_1 | grit |  
+| bip_39_word_new_br_10 | grit<br>wish<br>disagree<br>exhaust<br>holiday<br>finger<br>mail<br>universe<br>own<br>public |  
+| bip_39_word_new_br_11 | grit<br>wish<br>disagree<br>exhaust<br>holiday<br>finger<br>mail<br>universe<br>own<br>public<br>load |  
+| bip_39_word_new_br_12 | grit<br>wish<br>disagree<br>exhaust<br>holiday<br>finger<br>mail<br>universe<br>own<br>public<br>load<br>adapt |  
+| bip_39_word_new_br_2 | grit<br>wish |  
+| bip_39_word_new_br_3 | grit<br>wish<br>disagree |  
+| bip_39_word_new_br_4 | grit<br>wish<br>disagree<br>exhaust |  
+| bip_39_word_new_br_5 | grit<br>wish<br>disagree<br>exhaust<br>holiday |  
+| bip_39_word_new_br_6 | grit<br>wish<br>disagree<br>exhaust<br>holiday<br>finger |  
+| bip_39_word_new_br_7 | grit<br>wish<br>disagree<br>exhaust<br>holiday<br>finger<br>mail |  
+| bip_39_word_new_br_8 | grit<br>wish<br>disagree<br>exhaust<br>holiday<br>finger<br>mail<br>universe |  
+| bip_39_word_new_br_9 | grit<br>wish<br>disagree<br>exhaust<br>holiday<br>finger<br>mail<br>universe<br>own |  
+| bip_39_word_new_line_1 | grit |  
+| bip_39_word_new_line_10 | grit
 wish
 disagree
 exhaust
@@ -55,7 +55,7 @@ mail
 universe
 own
 public |  
-| bip_39_word_new_line11 | grit
+| bip_39_word_new_line_11 | grit
 wish
 disagree
 exhaust
@@ -66,7 +66,7 @@ universe
 own
 public
 load |  
-| bip_39_word_new_line12 | grit
+| bip_39_word_new_line_12 | grit
 wish
 disagree
 exhaust
@@ -78,34 +78,34 @@ own
 public
 load
 adapt |  
-| bip_39_word_new_line2 | grit
+| bip_39_word_new_line_2 | grit
 wish |  
-| bip_39_word_new_line3 | grit
+| bip_39_word_new_line_3 | grit
 wish
 disagree |  
-| bip_39_word_new_line4 | grit
+| bip_39_word_new_line_4 | grit
 wish
 disagree
 exhaust |  
-| bip_39_word_new_line5 | grit
+| bip_39_word_new_line_5 | grit
 wish
 disagree
 exhaust
 holiday |  
-| bip_39_word_new_line6 | grit
+| bip_39_word_new_line_6 | grit
 wish
 disagree
 exhaust
 holiday
 finger |  
-| bip_39_word_new_line7 | grit
+| bip_39_word_new_line_7 | grit
 wish
 disagree
 exhaust
 holiday
 finger
 mail |  
-| bip_39_word_new_line8 | grit
+| bip_39_word_new_line_8 | grit
 wish
 disagree
 exhaust
@@ -113,7 +113,7 @@ holiday
 finger
 mail
 universe |  
-| bip_39_word_new_line9 | grit
+| bip_39_word_new_line_9 | grit
 wish
 disagree
 exhaust

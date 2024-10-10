@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | anxiety |  
-| bip_39_word_new_br10 | anxiety<br>glare<br>coast<br>diary<br>surface<br>oyster<br>thing<br>fiction<br>magnet<br>disagree |  
-| bip_39_word_new_br11 | anxiety<br>glare<br>coast<br>diary<br>surface<br>oyster<br>thing<br>fiction<br>magnet<br>disagree<br>stamp |  
-| bip_39_word_new_br12 | anxiety<br>glare<br>coast<br>diary<br>surface<br>oyster<br>thing<br>fiction<br>magnet<br>disagree<br>stamp<br>auction |  
-| bip_39_word_new_br2 | anxiety<br>glare |  
-| bip_39_word_new_br3 | anxiety<br>glare<br>coast |  
-| bip_39_word_new_br4 | anxiety<br>glare<br>coast<br>diary |  
-| bip_39_word_new_br5 | anxiety<br>glare<br>coast<br>diary<br>surface |  
-| bip_39_word_new_br6 | anxiety<br>glare<br>coast<br>diary<br>surface<br>oyster |  
-| bip_39_word_new_br7 | anxiety<br>glare<br>coast<br>diary<br>surface<br>oyster<br>thing |  
-| bip_39_word_new_br8 | anxiety<br>glare<br>coast<br>diary<br>surface<br>oyster<br>thing<br>fiction |  
-| bip_39_word_new_br9 | anxiety<br>glare<br>coast<br>diary<br>surface<br>oyster<br>thing<br>fiction<br>magnet |  
-| bip_39_word_new_line1 | anxiety |  
-| bip_39_word_new_line10 | anxiety
+| bip_39_word_new_br_1 | anxiety |  
+| bip_39_word_new_br_10 | anxiety<br>glare<br>coast<br>diary<br>surface<br>oyster<br>thing<br>fiction<br>magnet<br>disagree |  
+| bip_39_word_new_br_11 | anxiety<br>glare<br>coast<br>diary<br>surface<br>oyster<br>thing<br>fiction<br>magnet<br>disagree<br>stamp |  
+| bip_39_word_new_br_12 | anxiety<br>glare<br>coast<br>diary<br>surface<br>oyster<br>thing<br>fiction<br>magnet<br>disagree<br>stamp<br>auction |  
+| bip_39_word_new_br_2 | anxiety<br>glare |  
+| bip_39_word_new_br_3 | anxiety<br>glare<br>coast |  
+| bip_39_word_new_br_4 | anxiety<br>glare<br>coast<br>diary |  
+| bip_39_word_new_br_5 | anxiety<br>glare<br>coast<br>diary<br>surface |  
+| bip_39_word_new_br_6 | anxiety<br>glare<br>coast<br>diary<br>surface<br>oyster |  
+| bip_39_word_new_br_7 | anxiety<br>glare<br>coast<br>diary<br>surface<br>oyster<br>thing |  
+| bip_39_word_new_br_8 | anxiety<br>glare<br>coast<br>diary<br>surface<br>oyster<br>thing<br>fiction |  
+| bip_39_word_new_br_9 | anxiety<br>glare<br>coast<br>diary<br>surface<br>oyster<br>thing<br>fiction<br>magnet |  
+| bip_39_word_new_line_1 | anxiety |  
+| bip_39_word_new_line_10 | anxiety
 glare
 coast
 diary
@@ -55,7 +55,7 @@ thing
 fiction
 magnet
 disagree |  
-| bip_39_word_new_line11 | anxiety
+| bip_39_word_new_line_11 | anxiety
 glare
 coast
 diary
@@ -66,7 +66,7 @@ fiction
 magnet
 disagree
 stamp |  
-| bip_39_word_new_line12 | anxiety
+| bip_39_word_new_line_12 | anxiety
 glare
 coast
 diary
@@ -78,34 +78,34 @@ magnet
 disagree
 stamp
 auction |  
-| bip_39_word_new_line2 | anxiety
+| bip_39_word_new_line_2 | anxiety
 glare |  
-| bip_39_word_new_line3 | anxiety
+| bip_39_word_new_line_3 | anxiety
 glare
 coast |  
-| bip_39_word_new_line4 | anxiety
+| bip_39_word_new_line_4 | anxiety
 glare
 coast
 diary |  
-| bip_39_word_new_line5 | anxiety
+| bip_39_word_new_line_5 | anxiety
 glare
 coast
 diary
 surface |  
-| bip_39_word_new_line6 | anxiety
+| bip_39_word_new_line_6 | anxiety
 glare
 coast
 diary
 surface
 oyster |  
-| bip_39_word_new_line7 | anxiety
+| bip_39_word_new_line_7 | anxiety
 glare
 coast
 diary
 surface
 oyster
 thing |  
-| bip_39_word_new_line8 | anxiety
+| bip_39_word_new_line_8 | anxiety
 glare
 coast
 diary
@@ -113,7 +113,7 @@ surface
 oyster
 thing
 fiction |  
-| bip_39_word_new_line9 | anxiety
+| bip_39_word_new_line_9 | anxiety
 glare
 coast
 diary

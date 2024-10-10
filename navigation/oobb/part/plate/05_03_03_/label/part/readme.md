@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | chat |  
-| bip_39_word_new_br10 | chat<br>toe<br>bean<br>usage<br>clever<br>public<br>clutch<br>cotton<br>figure<br>original |  
-| bip_39_word_new_br11 | chat<br>toe<br>bean<br>usage<br>clever<br>public<br>clutch<br>cotton<br>figure<br>original<br>bachelor |  
-| bip_39_word_new_br12 | chat<br>toe<br>bean<br>usage<br>clever<br>public<br>clutch<br>cotton<br>figure<br>original<br>bachelor<br>armed |  
-| bip_39_word_new_br2 | chat<br>toe |  
-| bip_39_word_new_br3 | chat<br>toe<br>bean |  
-| bip_39_word_new_br4 | chat<br>toe<br>bean<br>usage |  
-| bip_39_word_new_br5 | chat<br>toe<br>bean<br>usage<br>clever |  
-| bip_39_word_new_br6 | chat<br>toe<br>bean<br>usage<br>clever<br>public |  
-| bip_39_word_new_br7 | chat<br>toe<br>bean<br>usage<br>clever<br>public<br>clutch |  
-| bip_39_word_new_br8 | chat<br>toe<br>bean<br>usage<br>clever<br>public<br>clutch<br>cotton |  
-| bip_39_word_new_br9 | chat<br>toe<br>bean<br>usage<br>clever<br>public<br>clutch<br>cotton<br>figure |  
-| bip_39_word_new_line1 | chat |  
-| bip_39_word_new_line10 | chat
+| bip_39_word_new_br_1 | chat |  
+| bip_39_word_new_br_10 | chat<br>toe<br>bean<br>usage<br>clever<br>public<br>clutch<br>cotton<br>figure<br>original |  
+| bip_39_word_new_br_11 | chat<br>toe<br>bean<br>usage<br>clever<br>public<br>clutch<br>cotton<br>figure<br>original<br>bachelor |  
+| bip_39_word_new_br_12 | chat<br>toe<br>bean<br>usage<br>clever<br>public<br>clutch<br>cotton<br>figure<br>original<br>bachelor<br>armed |  
+| bip_39_word_new_br_2 | chat<br>toe |  
+| bip_39_word_new_br_3 | chat<br>toe<br>bean |  
+| bip_39_word_new_br_4 | chat<br>toe<br>bean<br>usage |  
+| bip_39_word_new_br_5 | chat<br>toe<br>bean<br>usage<br>clever |  
+| bip_39_word_new_br_6 | chat<br>toe<br>bean<br>usage<br>clever<br>public |  
+| bip_39_word_new_br_7 | chat<br>toe<br>bean<br>usage<br>clever<br>public<br>clutch |  
+| bip_39_word_new_br_8 | chat<br>toe<br>bean<br>usage<br>clever<br>public<br>clutch<br>cotton |  
+| bip_39_word_new_br_9 | chat<br>toe<br>bean<br>usage<br>clever<br>public<br>clutch<br>cotton<br>figure |  
+| bip_39_word_new_line_1 | chat |  
+| bip_39_word_new_line_10 | chat
 toe
 bean
 usage
@@ -55,7 +55,7 @@ clutch
 cotton
 figure
 original |  
-| bip_39_word_new_line11 | chat
+| bip_39_word_new_line_11 | chat
 toe
 bean
 usage
@@ -66,7 +66,7 @@ cotton
 figure
 original
 bachelor |  
-| bip_39_word_new_line12 | chat
+| bip_39_word_new_line_12 | chat
 toe
 bean
 usage
@@ -78,34 +78,34 @@ figure
 original
 bachelor
 armed |  
-| bip_39_word_new_line2 | chat
+| bip_39_word_new_line_2 | chat
 toe |  
-| bip_39_word_new_line3 | chat
+| bip_39_word_new_line_3 | chat
 toe
 bean |  
-| bip_39_word_new_line4 | chat
+| bip_39_word_new_line_4 | chat
 toe
 bean
 usage |  
-| bip_39_word_new_line5 | chat
+| bip_39_word_new_line_5 | chat
 toe
 bean
 usage
 clever |  
-| bip_39_word_new_line6 | chat
+| bip_39_word_new_line_6 | chat
 toe
 bean
 usage
 clever
 public |  
-| bip_39_word_new_line7 | chat
+| bip_39_word_new_line_7 | chat
 toe
 bean
 usage
 clever
 public
 clutch |  
-| bip_39_word_new_line8 | chat
+| bip_39_word_new_line_8 | chat
 toe
 bean
 usage
@@ -113,7 +113,7 @@ clever
 public
 clutch
 cotton |  
-| bip_39_word_new_line9 | chat
+| bip_39_word_new_line_9 | chat
 toe
 bean
 usage

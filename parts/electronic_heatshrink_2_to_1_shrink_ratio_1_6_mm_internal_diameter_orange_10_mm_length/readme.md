@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | west |  
-| bip_39_word_new_br10 | west<br>exclude<br>rescue<br>edge<br>wet<br>injury<br>march<br>brother<br>remind<br>actor |  
-| bip_39_word_new_br11 | west<br>exclude<br>rescue<br>edge<br>wet<br>injury<br>march<br>brother<br>remind<br>actor<br>beauty |  
-| bip_39_word_new_br12 | west<br>exclude<br>rescue<br>edge<br>wet<br>injury<br>march<br>brother<br>remind<br>actor<br>beauty<br>angry |  
-| bip_39_word_new_br2 | west<br>exclude |  
-| bip_39_word_new_br3 | west<br>exclude<br>rescue |  
-| bip_39_word_new_br4 | west<br>exclude<br>rescue<br>edge |  
-| bip_39_word_new_br5 | west<br>exclude<br>rescue<br>edge<br>wet |  
-| bip_39_word_new_br6 | west<br>exclude<br>rescue<br>edge<br>wet<br>injury |  
-| bip_39_word_new_br7 | west<br>exclude<br>rescue<br>edge<br>wet<br>injury<br>march |  
-| bip_39_word_new_br8 | west<br>exclude<br>rescue<br>edge<br>wet<br>injury<br>march<br>brother |  
-| bip_39_word_new_br9 | west<br>exclude<br>rescue<br>edge<br>wet<br>injury<br>march<br>brother<br>remind |  
-| bip_39_word_new_line1 | west |  
-| bip_39_word_new_line10 | west
+| bip_39_word_new_br_1 | west |  
+| bip_39_word_new_br_10 | west<br>exclude<br>rescue<br>edge<br>wet<br>injury<br>march<br>brother<br>remind<br>actor |  
+| bip_39_word_new_br_11 | west<br>exclude<br>rescue<br>edge<br>wet<br>injury<br>march<br>brother<br>remind<br>actor<br>beauty |  
+| bip_39_word_new_br_12 | west<br>exclude<br>rescue<br>edge<br>wet<br>injury<br>march<br>brother<br>remind<br>actor<br>beauty<br>angry |  
+| bip_39_word_new_br_2 | west<br>exclude |  
+| bip_39_word_new_br_3 | west<br>exclude<br>rescue |  
+| bip_39_word_new_br_4 | west<br>exclude<br>rescue<br>edge |  
+| bip_39_word_new_br_5 | west<br>exclude<br>rescue<br>edge<br>wet |  
+| bip_39_word_new_br_6 | west<br>exclude<br>rescue<br>edge<br>wet<br>injury |  
+| bip_39_word_new_br_7 | west<br>exclude<br>rescue<br>edge<br>wet<br>injury<br>march |  
+| bip_39_word_new_br_8 | west<br>exclude<br>rescue<br>edge<br>wet<br>injury<br>march<br>brother |  
+| bip_39_word_new_br_9 | west<br>exclude<br>rescue<br>edge<br>wet<br>injury<br>march<br>brother<br>remind |  
+| bip_39_word_new_line_1 | west |  
+| bip_39_word_new_line_10 | west
 exclude
 rescue
 edge
@@ -55,7 +55,7 @@ march
 brother
 remind
 actor |  
-| bip_39_word_new_line11 | west
+| bip_39_word_new_line_11 | west
 exclude
 rescue
 edge
@@ -66,7 +66,7 @@ brother
 remind
 actor
 beauty |  
-| bip_39_word_new_line12 | west
+| bip_39_word_new_line_12 | west
 exclude
 rescue
 edge
@@ -78,34 +78,34 @@ remind
 actor
 beauty
 angry |  
-| bip_39_word_new_line2 | west
+| bip_39_word_new_line_2 | west
 exclude |  
-| bip_39_word_new_line3 | west
+| bip_39_word_new_line_3 | west
 exclude
 rescue |  
-| bip_39_word_new_line4 | west
+| bip_39_word_new_line_4 | west
 exclude
 rescue
 edge |  
-| bip_39_word_new_line5 | west
+| bip_39_word_new_line_5 | west
 exclude
 rescue
 edge
 wet |  
-| bip_39_word_new_line6 | west
+| bip_39_word_new_line_6 | west
 exclude
 rescue
 edge
 wet
 injury |  
-| bip_39_word_new_line7 | west
+| bip_39_word_new_line_7 | west
 exclude
 rescue
 edge
 wet
 injury
 march |  
-| bip_39_word_new_line8 | west
+| bip_39_word_new_line_8 | west
 exclude
 rescue
 edge
@@ -113,7 +113,7 @@ wet
 injury
 march
 brother |  
-| bip_39_word_new_line9 | west
+| bip_39_word_new_line_9 | west
 exclude
 rescue
 edge

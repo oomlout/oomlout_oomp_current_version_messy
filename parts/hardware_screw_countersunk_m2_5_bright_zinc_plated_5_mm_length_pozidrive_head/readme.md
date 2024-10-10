@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | flat |  
-| bip_39_word_new_br10 | flat<br>ride<br>advice<br>retreat<br>danger<br>double<br>black<br>road<br>inhale<br>maximum |  
-| bip_39_word_new_br11 | flat<br>ride<br>advice<br>retreat<br>danger<br>double<br>black<br>road<br>inhale<br>maximum<br>west |  
-| bip_39_word_new_br12 | flat<br>ride<br>advice<br>retreat<br>danger<br>double<br>black<br>road<br>inhale<br>maximum<br>west<br>add |  
-| bip_39_word_new_br2 | flat<br>ride |  
-| bip_39_word_new_br3 | flat<br>ride<br>advice |  
-| bip_39_word_new_br4 | flat<br>ride<br>advice<br>retreat |  
-| bip_39_word_new_br5 | flat<br>ride<br>advice<br>retreat<br>danger |  
-| bip_39_word_new_br6 | flat<br>ride<br>advice<br>retreat<br>danger<br>double |  
-| bip_39_word_new_br7 | flat<br>ride<br>advice<br>retreat<br>danger<br>double<br>black |  
-| bip_39_word_new_br8 | flat<br>ride<br>advice<br>retreat<br>danger<br>double<br>black<br>road |  
-| bip_39_word_new_br9 | flat<br>ride<br>advice<br>retreat<br>danger<br>double<br>black<br>road<br>inhale |  
-| bip_39_word_new_line1 | flat |  
-| bip_39_word_new_line10 | flat
+| bip_39_word_new_br_1 | flat |  
+| bip_39_word_new_br_10 | flat<br>ride<br>advice<br>retreat<br>danger<br>double<br>black<br>road<br>inhale<br>maximum |  
+| bip_39_word_new_br_11 | flat<br>ride<br>advice<br>retreat<br>danger<br>double<br>black<br>road<br>inhale<br>maximum<br>west |  
+| bip_39_word_new_br_12 | flat<br>ride<br>advice<br>retreat<br>danger<br>double<br>black<br>road<br>inhale<br>maximum<br>west<br>add |  
+| bip_39_word_new_br_2 | flat<br>ride |  
+| bip_39_word_new_br_3 | flat<br>ride<br>advice |  
+| bip_39_word_new_br_4 | flat<br>ride<br>advice<br>retreat |  
+| bip_39_word_new_br_5 | flat<br>ride<br>advice<br>retreat<br>danger |  
+| bip_39_word_new_br_6 | flat<br>ride<br>advice<br>retreat<br>danger<br>double |  
+| bip_39_word_new_br_7 | flat<br>ride<br>advice<br>retreat<br>danger<br>double<br>black |  
+| bip_39_word_new_br_8 | flat<br>ride<br>advice<br>retreat<br>danger<br>double<br>black<br>road |  
+| bip_39_word_new_br_9 | flat<br>ride<br>advice<br>retreat<br>danger<br>double<br>black<br>road<br>inhale |  
+| bip_39_word_new_line_1 | flat |  
+| bip_39_word_new_line_10 | flat
 ride
 advice
 retreat
@@ -55,7 +55,7 @@ black
 road
 inhale
 maximum |  
-| bip_39_word_new_line11 | flat
+| bip_39_word_new_line_11 | flat
 ride
 advice
 retreat
@@ -66,7 +66,7 @@ road
 inhale
 maximum
 west |  
-| bip_39_word_new_line12 | flat
+| bip_39_word_new_line_12 | flat
 ride
 advice
 retreat
@@ -78,34 +78,34 @@ inhale
 maximum
 west
 add |  
-| bip_39_word_new_line2 | flat
+| bip_39_word_new_line_2 | flat
 ride |  
-| bip_39_word_new_line3 | flat
+| bip_39_word_new_line_3 | flat
 ride
 advice |  
-| bip_39_word_new_line4 | flat
+| bip_39_word_new_line_4 | flat
 ride
 advice
 retreat |  
-| bip_39_word_new_line5 | flat
+| bip_39_word_new_line_5 | flat
 ride
 advice
 retreat
 danger |  
-| bip_39_word_new_line6 | flat
+| bip_39_word_new_line_6 | flat
 ride
 advice
 retreat
 danger
 double |  
-| bip_39_word_new_line7 | flat
+| bip_39_word_new_line_7 | flat
 ride
 advice
 retreat
 danger
 double
 black |  
-| bip_39_word_new_line8 | flat
+| bip_39_word_new_line_8 | flat
 ride
 advice
 retreat
@@ -113,7 +113,7 @@ danger
 double
 black
 road |  
-| bip_39_word_new_line9 | flat
+| bip_39_word_new_line_9 | flat
 ride
 advice
 retreat

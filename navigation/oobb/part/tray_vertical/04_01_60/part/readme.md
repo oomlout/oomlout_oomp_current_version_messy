@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | clog |  
-| bip_39_word_new_br10 | clog<br>cheese<br>arrange<br>voice<br>unlock<br>lift<br>shell<br>hard<br>biology<br>shadow |  
-| bip_39_word_new_br11 | clog<br>cheese<br>arrange<br>voice<br>unlock<br>lift<br>shell<br>hard<br>biology<br>shadow<br>alarm |  
-| bip_39_word_new_br12 | clog<br>cheese<br>arrange<br>voice<br>unlock<br>lift<br>shell<br>hard<br>biology<br>shadow<br>alarm<br>amateur |  
-| bip_39_word_new_br2 | clog<br>cheese |  
-| bip_39_word_new_br3 | clog<br>cheese<br>arrange |  
-| bip_39_word_new_br4 | clog<br>cheese<br>arrange<br>voice |  
-| bip_39_word_new_br5 | clog<br>cheese<br>arrange<br>voice<br>unlock |  
-| bip_39_word_new_br6 | clog<br>cheese<br>arrange<br>voice<br>unlock<br>lift |  
-| bip_39_word_new_br7 | clog<br>cheese<br>arrange<br>voice<br>unlock<br>lift<br>shell |  
-| bip_39_word_new_br8 | clog<br>cheese<br>arrange<br>voice<br>unlock<br>lift<br>shell<br>hard |  
-| bip_39_word_new_br9 | clog<br>cheese<br>arrange<br>voice<br>unlock<br>lift<br>shell<br>hard<br>biology |  
-| bip_39_word_new_line1 | clog |  
-| bip_39_word_new_line10 | clog
+| bip_39_word_new_br_1 | clog |  
+| bip_39_word_new_br_10 | clog<br>cheese<br>arrange<br>voice<br>unlock<br>lift<br>shell<br>hard<br>biology<br>shadow |  
+| bip_39_word_new_br_11 | clog<br>cheese<br>arrange<br>voice<br>unlock<br>lift<br>shell<br>hard<br>biology<br>shadow<br>alarm |  
+| bip_39_word_new_br_12 | clog<br>cheese<br>arrange<br>voice<br>unlock<br>lift<br>shell<br>hard<br>biology<br>shadow<br>alarm<br>amateur |  
+| bip_39_word_new_br_2 | clog<br>cheese |  
+| bip_39_word_new_br_3 | clog<br>cheese<br>arrange |  
+| bip_39_word_new_br_4 | clog<br>cheese<br>arrange<br>voice |  
+| bip_39_word_new_br_5 | clog<br>cheese<br>arrange<br>voice<br>unlock |  
+| bip_39_word_new_br_6 | clog<br>cheese<br>arrange<br>voice<br>unlock<br>lift |  
+| bip_39_word_new_br_7 | clog<br>cheese<br>arrange<br>voice<br>unlock<br>lift<br>shell |  
+| bip_39_word_new_br_8 | clog<br>cheese<br>arrange<br>voice<br>unlock<br>lift<br>shell<br>hard |  
+| bip_39_word_new_br_9 | clog<br>cheese<br>arrange<br>voice<br>unlock<br>lift<br>shell<br>hard<br>biology |  
+| bip_39_word_new_line_1 | clog |  
+| bip_39_word_new_line_10 | clog
 cheese
 arrange
 voice
@@ -55,7 +55,7 @@ shell
 hard
 biology
 shadow |  
-| bip_39_word_new_line11 | clog
+| bip_39_word_new_line_11 | clog
 cheese
 arrange
 voice
@@ -66,7 +66,7 @@ hard
 biology
 shadow
 alarm |  
-| bip_39_word_new_line12 | clog
+| bip_39_word_new_line_12 | clog
 cheese
 arrange
 voice
@@ -78,34 +78,34 @@ biology
 shadow
 alarm
 amateur |  
-| bip_39_word_new_line2 | clog
+| bip_39_word_new_line_2 | clog
 cheese |  
-| bip_39_word_new_line3 | clog
+| bip_39_word_new_line_3 | clog
 cheese
 arrange |  
-| bip_39_word_new_line4 | clog
+| bip_39_word_new_line_4 | clog
 cheese
 arrange
 voice |  
-| bip_39_word_new_line5 | clog
+| bip_39_word_new_line_5 | clog
 cheese
 arrange
 voice
 unlock |  
-| bip_39_word_new_line6 | clog
+| bip_39_word_new_line_6 | clog
 cheese
 arrange
 voice
 unlock
 lift |  
-| bip_39_word_new_line7 | clog
+| bip_39_word_new_line_7 | clog
 cheese
 arrange
 voice
 unlock
 lift
 shell |  
-| bip_39_word_new_line8 | clog
+| bip_39_word_new_line_8 | clog
 cheese
 arrange
 voice
@@ -113,7 +113,7 @@ unlock
 lift
 shell
 hard |  
-| bip_39_word_new_line9 | clog
+| bip_39_word_new_line_9 | clog
 cheese
 arrange
 voice

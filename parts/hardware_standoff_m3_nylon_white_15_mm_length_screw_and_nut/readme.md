@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | company |  
-| bip_39_word_new_br10 | company<br>wonder<br>bid<br>strike<br>direct<br>clever<br>all<br>cattle<br>cram<br>member |  
-| bip_39_word_new_br11 | company<br>wonder<br>bid<br>strike<br>direct<br>clever<br>all<br>cattle<br>cram<br>member<br>shed |  
-| bip_39_word_new_br12 | company<br>wonder<br>bid<br>strike<br>direct<br>clever<br>all<br>cattle<br>cram<br>member<br>shed<br>amateur |  
-| bip_39_word_new_br2 | company<br>wonder |  
-| bip_39_word_new_br3 | company<br>wonder<br>bid |  
-| bip_39_word_new_br4 | company<br>wonder<br>bid<br>strike |  
-| bip_39_word_new_br5 | company<br>wonder<br>bid<br>strike<br>direct |  
-| bip_39_word_new_br6 | company<br>wonder<br>bid<br>strike<br>direct<br>clever |  
-| bip_39_word_new_br7 | company<br>wonder<br>bid<br>strike<br>direct<br>clever<br>all |  
-| bip_39_word_new_br8 | company<br>wonder<br>bid<br>strike<br>direct<br>clever<br>all<br>cattle |  
-| bip_39_word_new_br9 | company<br>wonder<br>bid<br>strike<br>direct<br>clever<br>all<br>cattle<br>cram |  
-| bip_39_word_new_line1 | company |  
-| bip_39_word_new_line10 | company
+| bip_39_word_new_br_1 | company |  
+| bip_39_word_new_br_10 | company<br>wonder<br>bid<br>strike<br>direct<br>clever<br>all<br>cattle<br>cram<br>member |  
+| bip_39_word_new_br_11 | company<br>wonder<br>bid<br>strike<br>direct<br>clever<br>all<br>cattle<br>cram<br>member<br>shed |  
+| bip_39_word_new_br_12 | company<br>wonder<br>bid<br>strike<br>direct<br>clever<br>all<br>cattle<br>cram<br>member<br>shed<br>amateur |  
+| bip_39_word_new_br_2 | company<br>wonder |  
+| bip_39_word_new_br_3 | company<br>wonder<br>bid |  
+| bip_39_word_new_br_4 | company<br>wonder<br>bid<br>strike |  
+| bip_39_word_new_br_5 | company<br>wonder<br>bid<br>strike<br>direct |  
+| bip_39_word_new_br_6 | company<br>wonder<br>bid<br>strike<br>direct<br>clever |  
+| bip_39_word_new_br_7 | company<br>wonder<br>bid<br>strike<br>direct<br>clever<br>all |  
+| bip_39_word_new_br_8 | company<br>wonder<br>bid<br>strike<br>direct<br>clever<br>all<br>cattle |  
+| bip_39_word_new_br_9 | company<br>wonder<br>bid<br>strike<br>direct<br>clever<br>all<br>cattle<br>cram |  
+| bip_39_word_new_line_1 | company |  
+| bip_39_word_new_line_10 | company
 wonder
 bid
 strike
@@ -55,7 +55,7 @@ all
 cattle
 cram
 member |  
-| bip_39_word_new_line11 | company
+| bip_39_word_new_line_11 | company
 wonder
 bid
 strike
@@ -66,7 +66,7 @@ cattle
 cram
 member
 shed |  
-| bip_39_word_new_line12 | company
+| bip_39_word_new_line_12 | company
 wonder
 bid
 strike
@@ -78,34 +78,34 @@ cram
 member
 shed
 amateur |  
-| bip_39_word_new_line2 | company
+| bip_39_word_new_line_2 | company
 wonder |  
-| bip_39_word_new_line3 | company
+| bip_39_word_new_line_3 | company
 wonder
 bid |  
-| bip_39_word_new_line4 | company
+| bip_39_word_new_line_4 | company
 wonder
 bid
 strike |  
-| bip_39_word_new_line5 | company
+| bip_39_word_new_line_5 | company
 wonder
 bid
 strike
 direct |  
-| bip_39_word_new_line6 | company
+| bip_39_word_new_line_6 | company
 wonder
 bid
 strike
 direct
 clever |  
-| bip_39_word_new_line7 | company
+| bip_39_word_new_line_7 | company
 wonder
 bid
 strike
 direct
 clever
 all |  
-| bip_39_word_new_line8 | company
+| bip_39_word_new_line_8 | company
 wonder
 bid
 strike
@@ -113,7 +113,7 @@ direct
 clever
 all
 cattle |  
-| bip_39_word_new_line9 | company
+| bip_39_word_new_line_9 | company
 wonder
 bid
 strike

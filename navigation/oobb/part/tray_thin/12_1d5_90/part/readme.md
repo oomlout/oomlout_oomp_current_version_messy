@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | few |  
-| bip_39_word_new_br10 | few<br>industry<br>scare<br>couple<br>noodle<br>drum<br>degree<br>clinic<br>pipe<br>desert |  
-| bip_39_word_new_br11 | few<br>industry<br>scare<br>couple<br>noodle<br>drum<br>degree<br>clinic<br>pipe<br>desert<br>fancy |  
-| bip_39_word_new_br12 | few<br>industry<br>scare<br>couple<br>noodle<br>drum<br>degree<br>clinic<br>pipe<br>desert<br>fancy<br>area |  
-| bip_39_word_new_br2 | few<br>industry |  
-| bip_39_word_new_br3 | few<br>industry<br>scare |  
-| bip_39_word_new_br4 | few<br>industry<br>scare<br>couple |  
-| bip_39_word_new_br5 | few<br>industry<br>scare<br>couple<br>noodle |  
-| bip_39_word_new_br6 | few<br>industry<br>scare<br>couple<br>noodle<br>drum |  
-| bip_39_word_new_br7 | few<br>industry<br>scare<br>couple<br>noodle<br>drum<br>degree |  
-| bip_39_word_new_br8 | few<br>industry<br>scare<br>couple<br>noodle<br>drum<br>degree<br>clinic |  
-| bip_39_word_new_br9 | few<br>industry<br>scare<br>couple<br>noodle<br>drum<br>degree<br>clinic<br>pipe |  
-| bip_39_word_new_line1 | few |  
-| bip_39_word_new_line10 | few
+| bip_39_word_new_br_1 | few |  
+| bip_39_word_new_br_10 | few<br>industry<br>scare<br>couple<br>noodle<br>drum<br>degree<br>clinic<br>pipe<br>desert |  
+| bip_39_word_new_br_11 | few<br>industry<br>scare<br>couple<br>noodle<br>drum<br>degree<br>clinic<br>pipe<br>desert<br>fancy |  
+| bip_39_word_new_br_12 | few<br>industry<br>scare<br>couple<br>noodle<br>drum<br>degree<br>clinic<br>pipe<br>desert<br>fancy<br>area |  
+| bip_39_word_new_br_2 | few<br>industry |  
+| bip_39_word_new_br_3 | few<br>industry<br>scare |  
+| bip_39_word_new_br_4 | few<br>industry<br>scare<br>couple |  
+| bip_39_word_new_br_5 | few<br>industry<br>scare<br>couple<br>noodle |  
+| bip_39_word_new_br_6 | few<br>industry<br>scare<br>couple<br>noodle<br>drum |  
+| bip_39_word_new_br_7 | few<br>industry<br>scare<br>couple<br>noodle<br>drum<br>degree |  
+| bip_39_word_new_br_8 | few<br>industry<br>scare<br>couple<br>noodle<br>drum<br>degree<br>clinic |  
+| bip_39_word_new_br_9 | few<br>industry<br>scare<br>couple<br>noodle<br>drum<br>degree<br>clinic<br>pipe |  
+| bip_39_word_new_line_1 | few |  
+| bip_39_word_new_line_10 | few
 industry
 scare
 couple
@@ -55,7 +55,7 @@ degree
 clinic
 pipe
 desert |  
-| bip_39_word_new_line11 | few
+| bip_39_word_new_line_11 | few
 industry
 scare
 couple
@@ -66,7 +66,7 @@ clinic
 pipe
 desert
 fancy |  
-| bip_39_word_new_line12 | few
+| bip_39_word_new_line_12 | few
 industry
 scare
 couple
@@ -78,34 +78,34 @@ pipe
 desert
 fancy
 area |  
-| bip_39_word_new_line2 | few
+| bip_39_word_new_line_2 | few
 industry |  
-| bip_39_word_new_line3 | few
+| bip_39_word_new_line_3 | few
 industry
 scare |  
-| bip_39_word_new_line4 | few
+| bip_39_word_new_line_4 | few
 industry
 scare
 couple |  
-| bip_39_word_new_line5 | few
+| bip_39_word_new_line_5 | few
 industry
 scare
 couple
 noodle |  
-| bip_39_word_new_line6 | few
+| bip_39_word_new_line_6 | few
 industry
 scare
 couple
 noodle
 drum |  
-| bip_39_word_new_line7 | few
+| bip_39_word_new_line_7 | few
 industry
 scare
 couple
 noodle
 drum
 degree |  
-| bip_39_word_new_line8 | few
+| bip_39_word_new_line_8 | few
 industry
 scare
 couple
@@ -113,7 +113,7 @@ noodle
 drum
 degree
 clinic |  
-| bip_39_word_new_line9 | few
+| bip_39_word_new_line_9 | few
 industry
 scare
 couple

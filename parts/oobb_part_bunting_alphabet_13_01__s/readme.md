@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | shoe |  
-| bip_39_word_new_br10 | shoe<br>winter<br>lazy<br>net<br>lock<br>summer<br>swamp<br>burger<br>elephant<br>vendor |  
-| bip_39_word_new_br11 | shoe<br>winter<br>lazy<br>net<br>lock<br>summer<br>swamp<br>burger<br>elephant<br>vendor<br>first |  
-| bip_39_word_new_br12 | shoe<br>winter<br>lazy<br>net<br>lock<br>summer<br>swamp<br>burger<br>elephant<br>vendor<br>first<br>alpha |  
-| bip_39_word_new_br2 | shoe<br>winter |  
-| bip_39_word_new_br3 | shoe<br>winter<br>lazy |  
-| bip_39_word_new_br4 | shoe<br>winter<br>lazy<br>net |  
-| bip_39_word_new_br5 | shoe<br>winter<br>lazy<br>net<br>lock |  
-| bip_39_word_new_br6 | shoe<br>winter<br>lazy<br>net<br>lock<br>summer |  
-| bip_39_word_new_br7 | shoe<br>winter<br>lazy<br>net<br>lock<br>summer<br>swamp |  
-| bip_39_word_new_br8 | shoe<br>winter<br>lazy<br>net<br>lock<br>summer<br>swamp<br>burger |  
-| bip_39_word_new_br9 | shoe<br>winter<br>lazy<br>net<br>lock<br>summer<br>swamp<br>burger<br>elephant |  
-| bip_39_word_new_line1 | shoe |  
-| bip_39_word_new_line10 | shoe
+| bip_39_word_new_br_1 | shoe |  
+| bip_39_word_new_br_10 | shoe<br>winter<br>lazy<br>net<br>lock<br>summer<br>swamp<br>burger<br>elephant<br>vendor |  
+| bip_39_word_new_br_11 | shoe<br>winter<br>lazy<br>net<br>lock<br>summer<br>swamp<br>burger<br>elephant<br>vendor<br>first |  
+| bip_39_word_new_br_12 | shoe<br>winter<br>lazy<br>net<br>lock<br>summer<br>swamp<br>burger<br>elephant<br>vendor<br>first<br>alpha |  
+| bip_39_word_new_br_2 | shoe<br>winter |  
+| bip_39_word_new_br_3 | shoe<br>winter<br>lazy |  
+| bip_39_word_new_br_4 | shoe<br>winter<br>lazy<br>net |  
+| bip_39_word_new_br_5 | shoe<br>winter<br>lazy<br>net<br>lock |  
+| bip_39_word_new_br_6 | shoe<br>winter<br>lazy<br>net<br>lock<br>summer |  
+| bip_39_word_new_br_7 | shoe<br>winter<br>lazy<br>net<br>lock<br>summer<br>swamp |  
+| bip_39_word_new_br_8 | shoe<br>winter<br>lazy<br>net<br>lock<br>summer<br>swamp<br>burger |  
+| bip_39_word_new_br_9 | shoe<br>winter<br>lazy<br>net<br>lock<br>summer<br>swamp<br>burger<br>elephant |  
+| bip_39_word_new_line_1 | shoe |  
+| bip_39_word_new_line_10 | shoe
 winter
 lazy
 net
@@ -55,7 +55,7 @@ swamp
 burger
 elephant
 vendor |  
-| bip_39_word_new_line11 | shoe
+| bip_39_word_new_line_11 | shoe
 winter
 lazy
 net
@@ -66,7 +66,7 @@ burger
 elephant
 vendor
 first |  
-| bip_39_word_new_line12 | shoe
+| bip_39_word_new_line_12 | shoe
 winter
 lazy
 net
@@ -78,34 +78,34 @@ elephant
 vendor
 first
 alpha |  
-| bip_39_word_new_line2 | shoe
+| bip_39_word_new_line_2 | shoe
 winter |  
-| bip_39_word_new_line3 | shoe
+| bip_39_word_new_line_3 | shoe
 winter
 lazy |  
-| bip_39_word_new_line4 | shoe
+| bip_39_word_new_line_4 | shoe
 winter
 lazy
 net |  
-| bip_39_word_new_line5 | shoe
+| bip_39_word_new_line_5 | shoe
 winter
 lazy
 net
 lock |  
-| bip_39_word_new_line6 | shoe
+| bip_39_word_new_line_6 | shoe
 winter
 lazy
 net
 lock
 summer |  
-| bip_39_word_new_line7 | shoe
+| bip_39_word_new_line_7 | shoe
 winter
 lazy
 net
 lock
 summer
 swamp |  
-| bip_39_word_new_line8 | shoe
+| bip_39_word_new_line_8 | shoe
 winter
 lazy
 net
@@ -113,7 +113,7 @@ lock
 summer
 swamp
 burger |  
-| bip_39_word_new_line9 | shoe
+| bip_39_word_new_line_9 | shoe
 winter
 lazy
 net

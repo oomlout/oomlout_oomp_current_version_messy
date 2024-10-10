@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | carbon |  
-| bip_39_word_new_br10 | carbon<br>next<br>false<br>insane<br>attitude<br>bacon<br>ready<br>hunt<br>tent<br>wonder |  
-| bip_39_word_new_br11 | carbon<br>next<br>false<br>insane<br>attitude<br>bacon<br>ready<br>hunt<br>tent<br>wonder<br>dolphin |  
-| bip_39_word_new_br12 | carbon<br>next<br>false<br>insane<br>attitude<br>bacon<br>ready<br>hunt<br>tent<br>wonder<br>dolphin<br>absorb |  
-| bip_39_word_new_br2 | carbon<br>next |  
-| bip_39_word_new_br3 | carbon<br>next<br>false |  
-| bip_39_word_new_br4 | carbon<br>next<br>false<br>insane |  
-| bip_39_word_new_br5 | carbon<br>next<br>false<br>insane<br>attitude |  
-| bip_39_word_new_br6 | carbon<br>next<br>false<br>insane<br>attitude<br>bacon |  
-| bip_39_word_new_br7 | carbon<br>next<br>false<br>insane<br>attitude<br>bacon<br>ready |  
-| bip_39_word_new_br8 | carbon<br>next<br>false<br>insane<br>attitude<br>bacon<br>ready<br>hunt |  
-| bip_39_word_new_br9 | carbon<br>next<br>false<br>insane<br>attitude<br>bacon<br>ready<br>hunt<br>tent |  
-| bip_39_word_new_line1 | carbon |  
-| bip_39_word_new_line10 | carbon
+| bip_39_word_new_br_1 | carbon |  
+| bip_39_word_new_br_10 | carbon<br>next<br>false<br>insane<br>attitude<br>bacon<br>ready<br>hunt<br>tent<br>wonder |  
+| bip_39_word_new_br_11 | carbon<br>next<br>false<br>insane<br>attitude<br>bacon<br>ready<br>hunt<br>tent<br>wonder<br>dolphin |  
+| bip_39_word_new_br_12 | carbon<br>next<br>false<br>insane<br>attitude<br>bacon<br>ready<br>hunt<br>tent<br>wonder<br>dolphin<br>absorb |  
+| bip_39_word_new_br_2 | carbon<br>next |  
+| bip_39_word_new_br_3 | carbon<br>next<br>false |  
+| bip_39_word_new_br_4 | carbon<br>next<br>false<br>insane |  
+| bip_39_word_new_br_5 | carbon<br>next<br>false<br>insane<br>attitude |  
+| bip_39_word_new_br_6 | carbon<br>next<br>false<br>insane<br>attitude<br>bacon |  
+| bip_39_word_new_br_7 | carbon<br>next<br>false<br>insane<br>attitude<br>bacon<br>ready |  
+| bip_39_word_new_br_8 | carbon<br>next<br>false<br>insane<br>attitude<br>bacon<br>ready<br>hunt |  
+| bip_39_word_new_br_9 | carbon<br>next<br>false<br>insane<br>attitude<br>bacon<br>ready<br>hunt<br>tent |  
+| bip_39_word_new_line_1 | carbon |  
+| bip_39_word_new_line_10 | carbon
 next
 false
 insane
@@ -55,7 +55,7 @@ ready
 hunt
 tent
 wonder |  
-| bip_39_word_new_line11 | carbon
+| bip_39_word_new_line_11 | carbon
 next
 false
 insane
@@ -66,7 +66,7 @@ hunt
 tent
 wonder
 dolphin |  
-| bip_39_word_new_line12 | carbon
+| bip_39_word_new_line_12 | carbon
 next
 false
 insane
@@ -78,34 +78,34 @@ tent
 wonder
 dolphin
 absorb |  
-| bip_39_word_new_line2 | carbon
+| bip_39_word_new_line_2 | carbon
 next |  
-| bip_39_word_new_line3 | carbon
+| bip_39_word_new_line_3 | carbon
 next
 false |  
-| bip_39_word_new_line4 | carbon
+| bip_39_word_new_line_4 | carbon
 next
 false
 insane |  
-| bip_39_word_new_line5 | carbon
+| bip_39_word_new_line_5 | carbon
 next
 false
 insane
 attitude |  
-| bip_39_word_new_line6 | carbon
+| bip_39_word_new_line_6 | carbon
 next
 false
 insane
 attitude
 bacon |  
-| bip_39_word_new_line7 | carbon
+| bip_39_word_new_line_7 | carbon
 next
 false
 insane
 attitude
 bacon
 ready |  
-| bip_39_word_new_line8 | carbon
+| bip_39_word_new_line_8 | carbon
 next
 false
 insane
@@ -113,7 +113,7 @@ attitude
 bacon
 ready
 hunt |  
-| bip_39_word_new_line9 | carbon
+| bip_39_word_new_line_9 | carbon
 next
 false
 insane

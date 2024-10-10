@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | energy |  
-| bip_39_word_new_br10 | energy<br>drink<br>primary<br>cat<br>infant<br>asthma<br>crystal<br>give<br>camera<br>give |  
-| bip_39_word_new_br11 | energy<br>drink<br>primary<br>cat<br>infant<br>asthma<br>crystal<br>give<br>camera<br>give<br>miracle |  
-| bip_39_word_new_br12 | energy<br>drink<br>primary<br>cat<br>infant<br>asthma<br>crystal<br>give<br>camera<br>give<br>miracle<br>arm |  
-| bip_39_word_new_br2 | energy<br>drink |  
-| bip_39_word_new_br3 | energy<br>drink<br>primary |  
-| bip_39_word_new_br4 | energy<br>drink<br>primary<br>cat |  
-| bip_39_word_new_br5 | energy<br>drink<br>primary<br>cat<br>infant |  
-| bip_39_word_new_br6 | energy<br>drink<br>primary<br>cat<br>infant<br>asthma |  
-| bip_39_word_new_br7 | energy<br>drink<br>primary<br>cat<br>infant<br>asthma<br>crystal |  
-| bip_39_word_new_br8 | energy<br>drink<br>primary<br>cat<br>infant<br>asthma<br>crystal<br>give |  
-| bip_39_word_new_br9 | energy<br>drink<br>primary<br>cat<br>infant<br>asthma<br>crystal<br>give<br>camera |  
-| bip_39_word_new_line1 | energy |  
-| bip_39_word_new_line10 | energy
+| bip_39_word_new_br_1 | energy |  
+| bip_39_word_new_br_10 | energy<br>drink<br>primary<br>cat<br>infant<br>asthma<br>crystal<br>give<br>camera<br>give |  
+| bip_39_word_new_br_11 | energy<br>drink<br>primary<br>cat<br>infant<br>asthma<br>crystal<br>give<br>camera<br>give<br>miracle |  
+| bip_39_word_new_br_12 | energy<br>drink<br>primary<br>cat<br>infant<br>asthma<br>crystal<br>give<br>camera<br>give<br>miracle<br>arm |  
+| bip_39_word_new_br_2 | energy<br>drink |  
+| bip_39_word_new_br_3 | energy<br>drink<br>primary |  
+| bip_39_word_new_br_4 | energy<br>drink<br>primary<br>cat |  
+| bip_39_word_new_br_5 | energy<br>drink<br>primary<br>cat<br>infant |  
+| bip_39_word_new_br_6 | energy<br>drink<br>primary<br>cat<br>infant<br>asthma |  
+| bip_39_word_new_br_7 | energy<br>drink<br>primary<br>cat<br>infant<br>asthma<br>crystal |  
+| bip_39_word_new_br_8 | energy<br>drink<br>primary<br>cat<br>infant<br>asthma<br>crystal<br>give |  
+| bip_39_word_new_br_9 | energy<br>drink<br>primary<br>cat<br>infant<br>asthma<br>crystal<br>give<br>camera |  
+| bip_39_word_new_line_1 | energy |  
+| bip_39_word_new_line_10 | energy
 drink
 primary
 cat
@@ -55,7 +55,7 @@ crystal
 give
 camera
 give |  
-| bip_39_word_new_line11 | energy
+| bip_39_word_new_line_11 | energy
 drink
 primary
 cat
@@ -66,7 +66,7 @@ give
 camera
 give
 miracle |  
-| bip_39_word_new_line12 | energy
+| bip_39_word_new_line_12 | energy
 drink
 primary
 cat
@@ -78,34 +78,34 @@ camera
 give
 miracle
 arm |  
-| bip_39_word_new_line2 | energy
+| bip_39_word_new_line_2 | energy
 drink |  
-| bip_39_word_new_line3 | energy
+| bip_39_word_new_line_3 | energy
 drink
 primary |  
-| bip_39_word_new_line4 | energy
+| bip_39_word_new_line_4 | energy
 drink
 primary
 cat |  
-| bip_39_word_new_line5 | energy
+| bip_39_word_new_line_5 | energy
 drink
 primary
 cat
 infant |  
-| bip_39_word_new_line6 | energy
+| bip_39_word_new_line_6 | energy
 drink
 primary
 cat
 infant
 asthma |  
-| bip_39_word_new_line7 | energy
+| bip_39_word_new_line_7 | energy
 drink
 primary
 cat
 infant
 asthma
 crystal |  
-| bip_39_word_new_line8 | energy
+| bip_39_word_new_line_8 | energy
 drink
 primary
 cat
@@ -113,7 +113,7 @@ infant
 asthma
 crystal
 give |  
-| bip_39_word_new_line9 | energy
+| bip_39_word_new_line_9 | energy
 drink
 primary
 cat

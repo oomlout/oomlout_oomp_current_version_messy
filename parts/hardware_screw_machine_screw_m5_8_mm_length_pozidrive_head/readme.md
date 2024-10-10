@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | seek |  
-| bip_39_word_new_br10 | seek<br>forward<br>stool<br>camp<br>broken<br>veteran<br>service<br>scatter<br>cushion<br>garage |  
-| bip_39_word_new_br11 | seek<br>forward<br>stool<br>camp<br>broken<br>veteran<br>service<br>scatter<br>cushion<br>garage<br>diagram |  
-| bip_39_word_new_br12 | seek<br>forward<br>stool<br>camp<br>broken<br>veteran<br>service<br>scatter<br>cushion<br>garage<br>diagram<br>agent |  
-| bip_39_word_new_br2 | seek<br>forward |  
-| bip_39_word_new_br3 | seek<br>forward<br>stool |  
-| bip_39_word_new_br4 | seek<br>forward<br>stool<br>camp |  
-| bip_39_word_new_br5 | seek<br>forward<br>stool<br>camp<br>broken |  
-| bip_39_word_new_br6 | seek<br>forward<br>stool<br>camp<br>broken<br>veteran |  
-| bip_39_word_new_br7 | seek<br>forward<br>stool<br>camp<br>broken<br>veteran<br>service |  
-| bip_39_word_new_br8 | seek<br>forward<br>stool<br>camp<br>broken<br>veteran<br>service<br>scatter |  
-| bip_39_word_new_br9 | seek<br>forward<br>stool<br>camp<br>broken<br>veteran<br>service<br>scatter<br>cushion |  
-| bip_39_word_new_line1 | seek |  
-| bip_39_word_new_line10 | seek
+| bip_39_word_new_br_1 | seek |  
+| bip_39_word_new_br_10 | seek<br>forward<br>stool<br>camp<br>broken<br>veteran<br>service<br>scatter<br>cushion<br>garage |  
+| bip_39_word_new_br_11 | seek<br>forward<br>stool<br>camp<br>broken<br>veteran<br>service<br>scatter<br>cushion<br>garage<br>diagram |  
+| bip_39_word_new_br_12 | seek<br>forward<br>stool<br>camp<br>broken<br>veteran<br>service<br>scatter<br>cushion<br>garage<br>diagram<br>agent |  
+| bip_39_word_new_br_2 | seek<br>forward |  
+| bip_39_word_new_br_3 | seek<br>forward<br>stool |  
+| bip_39_word_new_br_4 | seek<br>forward<br>stool<br>camp |  
+| bip_39_word_new_br_5 | seek<br>forward<br>stool<br>camp<br>broken |  
+| bip_39_word_new_br_6 | seek<br>forward<br>stool<br>camp<br>broken<br>veteran |  
+| bip_39_word_new_br_7 | seek<br>forward<br>stool<br>camp<br>broken<br>veteran<br>service |  
+| bip_39_word_new_br_8 | seek<br>forward<br>stool<br>camp<br>broken<br>veteran<br>service<br>scatter |  
+| bip_39_word_new_br_9 | seek<br>forward<br>stool<br>camp<br>broken<br>veteran<br>service<br>scatter<br>cushion |  
+| bip_39_word_new_line_1 | seek |  
+| bip_39_word_new_line_10 | seek
 forward
 stool
 camp
@@ -55,7 +55,7 @@ service
 scatter
 cushion
 garage |  
-| bip_39_word_new_line11 | seek
+| bip_39_word_new_line_11 | seek
 forward
 stool
 camp
@@ -66,7 +66,7 @@ scatter
 cushion
 garage
 diagram |  
-| bip_39_word_new_line12 | seek
+| bip_39_word_new_line_12 | seek
 forward
 stool
 camp
@@ -78,34 +78,34 @@ cushion
 garage
 diagram
 agent |  
-| bip_39_word_new_line2 | seek
+| bip_39_word_new_line_2 | seek
 forward |  
-| bip_39_word_new_line3 | seek
+| bip_39_word_new_line_3 | seek
 forward
 stool |  
-| bip_39_word_new_line4 | seek
+| bip_39_word_new_line_4 | seek
 forward
 stool
 camp |  
-| bip_39_word_new_line5 | seek
+| bip_39_word_new_line_5 | seek
 forward
 stool
 camp
 broken |  
-| bip_39_word_new_line6 | seek
+| bip_39_word_new_line_6 | seek
 forward
 stool
 camp
 broken
 veteran |  
-| bip_39_word_new_line7 | seek
+| bip_39_word_new_line_7 | seek
 forward
 stool
 camp
 broken
 veteran
 service |  
-| bip_39_word_new_line8 | seek
+| bip_39_word_new_line_8 | seek
 forward
 stool
 camp
@@ -113,7 +113,7 @@ broken
 veteran
 service
 scatter |  
-| bip_39_word_new_line9 | seek
+| bip_39_word_new_line_9 | seek
 forward
 stool
 camp

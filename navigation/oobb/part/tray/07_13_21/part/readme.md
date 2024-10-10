@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | lecture |  
-| bip_39_word_new_br10 | lecture<br>snap<br>ocean<br>aerobic<br>bird<br>sort<br>pigeon<br>pretty<br>follow<br>project |  
-| bip_39_word_new_br11 | lecture<br>snap<br>ocean<br>aerobic<br>bird<br>sort<br>pigeon<br>pretty<br>follow<br>project<br>guilt |  
-| bip_39_word_new_br12 | lecture<br>snap<br>ocean<br>aerobic<br>bird<br>sort<br>pigeon<br>pretty<br>follow<br>project<br>guilt<br>argue |  
-| bip_39_word_new_br2 | lecture<br>snap |  
-| bip_39_word_new_br3 | lecture<br>snap<br>ocean |  
-| bip_39_word_new_br4 | lecture<br>snap<br>ocean<br>aerobic |  
-| bip_39_word_new_br5 | lecture<br>snap<br>ocean<br>aerobic<br>bird |  
-| bip_39_word_new_br6 | lecture<br>snap<br>ocean<br>aerobic<br>bird<br>sort |  
-| bip_39_word_new_br7 | lecture<br>snap<br>ocean<br>aerobic<br>bird<br>sort<br>pigeon |  
-| bip_39_word_new_br8 | lecture<br>snap<br>ocean<br>aerobic<br>bird<br>sort<br>pigeon<br>pretty |  
-| bip_39_word_new_br9 | lecture<br>snap<br>ocean<br>aerobic<br>bird<br>sort<br>pigeon<br>pretty<br>follow |  
-| bip_39_word_new_line1 | lecture |  
-| bip_39_word_new_line10 | lecture
+| bip_39_word_new_br_1 | lecture |  
+| bip_39_word_new_br_10 | lecture<br>snap<br>ocean<br>aerobic<br>bird<br>sort<br>pigeon<br>pretty<br>follow<br>project |  
+| bip_39_word_new_br_11 | lecture<br>snap<br>ocean<br>aerobic<br>bird<br>sort<br>pigeon<br>pretty<br>follow<br>project<br>guilt |  
+| bip_39_word_new_br_12 | lecture<br>snap<br>ocean<br>aerobic<br>bird<br>sort<br>pigeon<br>pretty<br>follow<br>project<br>guilt<br>argue |  
+| bip_39_word_new_br_2 | lecture<br>snap |  
+| bip_39_word_new_br_3 | lecture<br>snap<br>ocean |  
+| bip_39_word_new_br_4 | lecture<br>snap<br>ocean<br>aerobic |  
+| bip_39_word_new_br_5 | lecture<br>snap<br>ocean<br>aerobic<br>bird |  
+| bip_39_word_new_br_6 | lecture<br>snap<br>ocean<br>aerobic<br>bird<br>sort |  
+| bip_39_word_new_br_7 | lecture<br>snap<br>ocean<br>aerobic<br>bird<br>sort<br>pigeon |  
+| bip_39_word_new_br_8 | lecture<br>snap<br>ocean<br>aerobic<br>bird<br>sort<br>pigeon<br>pretty |  
+| bip_39_word_new_br_9 | lecture<br>snap<br>ocean<br>aerobic<br>bird<br>sort<br>pigeon<br>pretty<br>follow |  
+| bip_39_word_new_line_1 | lecture |  
+| bip_39_word_new_line_10 | lecture
 snap
 ocean
 aerobic
@@ -55,7 +55,7 @@ pigeon
 pretty
 follow
 project |  
-| bip_39_word_new_line11 | lecture
+| bip_39_word_new_line_11 | lecture
 snap
 ocean
 aerobic
@@ -66,7 +66,7 @@ pretty
 follow
 project
 guilt |  
-| bip_39_word_new_line12 | lecture
+| bip_39_word_new_line_12 | lecture
 snap
 ocean
 aerobic
@@ -78,34 +78,34 @@ follow
 project
 guilt
 argue |  
-| bip_39_word_new_line2 | lecture
+| bip_39_word_new_line_2 | lecture
 snap |  
-| bip_39_word_new_line3 | lecture
+| bip_39_word_new_line_3 | lecture
 snap
 ocean |  
-| bip_39_word_new_line4 | lecture
+| bip_39_word_new_line_4 | lecture
 snap
 ocean
 aerobic |  
-| bip_39_word_new_line5 | lecture
+| bip_39_word_new_line_5 | lecture
 snap
 ocean
 aerobic
 bird |  
-| bip_39_word_new_line6 | lecture
+| bip_39_word_new_line_6 | lecture
 snap
 ocean
 aerobic
 bird
 sort |  
-| bip_39_word_new_line7 | lecture
+| bip_39_word_new_line_7 | lecture
 snap
 ocean
 aerobic
 bird
 sort
 pigeon |  
-| bip_39_word_new_line8 | lecture
+| bip_39_word_new_line_8 | lecture
 snap
 ocean
 aerobic
@@ -113,7 +113,7 @@ bird
 sort
 pigeon
 pretty |  
-| bip_39_word_new_line9 | lecture
+| bip_39_word_new_line_9 | lecture
 snap
 ocean
 aerobic

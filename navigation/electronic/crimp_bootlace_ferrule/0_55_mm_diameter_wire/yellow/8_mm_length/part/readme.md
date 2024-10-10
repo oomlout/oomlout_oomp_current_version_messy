@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | modify |  
-| bip_39_word_new_br10 | modify<br>adapt<br>oil<br>verify<br>sister<br>blanket<br>column<br>problem<br>photo<br>result |  
-| bip_39_word_new_br11 | modify<br>adapt<br>oil<br>verify<br>sister<br>blanket<br>column<br>problem<br>photo<br>result<br>shadow |  
-| bip_39_word_new_br12 | modify<br>adapt<br>oil<br>verify<br>sister<br>blanket<br>column<br>problem<br>photo<br>result<br>shadow<br>artist |  
-| bip_39_word_new_br2 | modify<br>adapt |  
-| bip_39_word_new_br3 | modify<br>adapt<br>oil |  
-| bip_39_word_new_br4 | modify<br>adapt<br>oil<br>verify |  
-| bip_39_word_new_br5 | modify<br>adapt<br>oil<br>verify<br>sister |  
-| bip_39_word_new_br6 | modify<br>adapt<br>oil<br>verify<br>sister<br>blanket |  
-| bip_39_word_new_br7 | modify<br>adapt<br>oil<br>verify<br>sister<br>blanket<br>column |  
-| bip_39_word_new_br8 | modify<br>adapt<br>oil<br>verify<br>sister<br>blanket<br>column<br>problem |  
-| bip_39_word_new_br9 | modify<br>adapt<br>oil<br>verify<br>sister<br>blanket<br>column<br>problem<br>photo |  
-| bip_39_word_new_line1 | modify |  
-| bip_39_word_new_line10 | modify
+| bip_39_word_new_br_1 | modify |  
+| bip_39_word_new_br_10 | modify<br>adapt<br>oil<br>verify<br>sister<br>blanket<br>column<br>problem<br>photo<br>result |  
+| bip_39_word_new_br_11 | modify<br>adapt<br>oil<br>verify<br>sister<br>blanket<br>column<br>problem<br>photo<br>result<br>shadow |  
+| bip_39_word_new_br_12 | modify<br>adapt<br>oil<br>verify<br>sister<br>blanket<br>column<br>problem<br>photo<br>result<br>shadow<br>artist |  
+| bip_39_word_new_br_2 | modify<br>adapt |  
+| bip_39_word_new_br_3 | modify<br>adapt<br>oil |  
+| bip_39_word_new_br_4 | modify<br>adapt<br>oil<br>verify |  
+| bip_39_word_new_br_5 | modify<br>adapt<br>oil<br>verify<br>sister |  
+| bip_39_word_new_br_6 | modify<br>adapt<br>oil<br>verify<br>sister<br>blanket |  
+| bip_39_word_new_br_7 | modify<br>adapt<br>oil<br>verify<br>sister<br>blanket<br>column |  
+| bip_39_word_new_br_8 | modify<br>adapt<br>oil<br>verify<br>sister<br>blanket<br>column<br>problem |  
+| bip_39_word_new_br_9 | modify<br>adapt<br>oil<br>verify<br>sister<br>blanket<br>column<br>problem<br>photo |  
+| bip_39_word_new_line_1 | modify |  
+| bip_39_word_new_line_10 | modify
 adapt
 oil
 verify
@@ -55,7 +55,7 @@ column
 problem
 photo
 result |  
-| bip_39_word_new_line11 | modify
+| bip_39_word_new_line_11 | modify
 adapt
 oil
 verify
@@ -66,7 +66,7 @@ problem
 photo
 result
 shadow |  
-| bip_39_word_new_line12 | modify
+| bip_39_word_new_line_12 | modify
 adapt
 oil
 verify
@@ -78,34 +78,34 @@ photo
 result
 shadow
 artist |  
-| bip_39_word_new_line2 | modify
+| bip_39_word_new_line_2 | modify
 adapt |  
-| bip_39_word_new_line3 | modify
+| bip_39_word_new_line_3 | modify
 adapt
 oil |  
-| bip_39_word_new_line4 | modify
+| bip_39_word_new_line_4 | modify
 adapt
 oil
 verify |  
-| bip_39_word_new_line5 | modify
+| bip_39_word_new_line_5 | modify
 adapt
 oil
 verify
 sister |  
-| bip_39_word_new_line6 | modify
+| bip_39_word_new_line_6 | modify
 adapt
 oil
 verify
 sister
 blanket |  
-| bip_39_word_new_line7 | modify
+| bip_39_word_new_line_7 | modify
 adapt
 oil
 verify
 sister
 blanket
 column |  
-| bip_39_word_new_line8 | modify
+| bip_39_word_new_line_8 | modify
 adapt
 oil
 verify
@@ -113,7 +113,7 @@ sister
 blanket
 column
 problem |  
-| bip_39_word_new_line9 | modify
+| bip_39_word_new_line_9 | modify
 adapt
 oil
 verify

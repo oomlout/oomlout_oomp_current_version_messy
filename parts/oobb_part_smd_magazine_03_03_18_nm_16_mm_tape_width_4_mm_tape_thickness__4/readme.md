@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | legend |  
-| bip_39_word_new_br10 | legend<br>million<br>brain<br>liquid<br>general<br>slogan<br>over<br>pass<br>step<br>panda |  
-| bip_39_word_new_br11 | legend<br>million<br>brain<br>liquid<br>general<br>slogan<br>over<br>pass<br>step<br>panda<br>shrug |  
-| bip_39_word_new_br12 | legend<br>million<br>brain<br>liquid<br>general<br>slogan<br>over<br>pass<br>step<br>panda<br>shrug<br>age |  
-| bip_39_word_new_br2 | legend<br>million |  
-| bip_39_word_new_br3 | legend<br>million<br>brain |  
-| bip_39_word_new_br4 | legend<br>million<br>brain<br>liquid |  
-| bip_39_word_new_br5 | legend<br>million<br>brain<br>liquid<br>general |  
-| bip_39_word_new_br6 | legend<br>million<br>brain<br>liquid<br>general<br>slogan |  
-| bip_39_word_new_br7 | legend<br>million<br>brain<br>liquid<br>general<br>slogan<br>over |  
-| bip_39_word_new_br8 | legend<br>million<br>brain<br>liquid<br>general<br>slogan<br>over<br>pass |  
-| bip_39_word_new_br9 | legend<br>million<br>brain<br>liquid<br>general<br>slogan<br>over<br>pass<br>step |  
-| bip_39_word_new_line1 | legend |  
-| bip_39_word_new_line10 | legend
+| bip_39_word_new_br_1 | legend |  
+| bip_39_word_new_br_10 | legend<br>million<br>brain<br>liquid<br>general<br>slogan<br>over<br>pass<br>step<br>panda |  
+| bip_39_word_new_br_11 | legend<br>million<br>brain<br>liquid<br>general<br>slogan<br>over<br>pass<br>step<br>panda<br>shrug |  
+| bip_39_word_new_br_12 | legend<br>million<br>brain<br>liquid<br>general<br>slogan<br>over<br>pass<br>step<br>panda<br>shrug<br>age |  
+| bip_39_word_new_br_2 | legend<br>million |  
+| bip_39_word_new_br_3 | legend<br>million<br>brain |  
+| bip_39_word_new_br_4 | legend<br>million<br>brain<br>liquid |  
+| bip_39_word_new_br_5 | legend<br>million<br>brain<br>liquid<br>general |  
+| bip_39_word_new_br_6 | legend<br>million<br>brain<br>liquid<br>general<br>slogan |  
+| bip_39_word_new_br_7 | legend<br>million<br>brain<br>liquid<br>general<br>slogan<br>over |  
+| bip_39_word_new_br_8 | legend<br>million<br>brain<br>liquid<br>general<br>slogan<br>over<br>pass |  
+| bip_39_word_new_br_9 | legend<br>million<br>brain<br>liquid<br>general<br>slogan<br>over<br>pass<br>step |  
+| bip_39_word_new_line_1 | legend |  
+| bip_39_word_new_line_10 | legend
 million
 brain
 liquid
@@ -55,7 +55,7 @@ over
 pass
 step
 panda |  
-| bip_39_word_new_line11 | legend
+| bip_39_word_new_line_11 | legend
 million
 brain
 liquid
@@ -66,7 +66,7 @@ pass
 step
 panda
 shrug |  
-| bip_39_word_new_line12 | legend
+| bip_39_word_new_line_12 | legend
 million
 brain
 liquid
@@ -78,34 +78,34 @@ step
 panda
 shrug
 age |  
-| bip_39_word_new_line2 | legend
+| bip_39_word_new_line_2 | legend
 million |  
-| bip_39_word_new_line3 | legend
+| bip_39_word_new_line_3 | legend
 million
 brain |  
-| bip_39_word_new_line4 | legend
+| bip_39_word_new_line_4 | legend
 million
 brain
 liquid |  
-| bip_39_word_new_line5 | legend
+| bip_39_word_new_line_5 | legend
 million
 brain
 liquid
 general |  
-| bip_39_word_new_line6 | legend
+| bip_39_word_new_line_6 | legend
 million
 brain
 liquid
 general
 slogan |  
-| bip_39_word_new_line7 | legend
+| bip_39_word_new_line_7 | legend
 million
 brain
 liquid
 general
 slogan
 over |  
-| bip_39_word_new_line8 | legend
+| bip_39_word_new_line_8 | legend
 million
 brain
 liquid
@@ -113,7 +113,7 @@ general
 slogan
 over
 pass |  
-| bip_39_word_new_line9 | legend
+| bip_39_word_new_line_9 | legend
 million
 brain
 liquid

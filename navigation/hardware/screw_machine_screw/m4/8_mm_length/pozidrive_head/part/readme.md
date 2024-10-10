@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dust |  
-| bip_39_word_new_br10 | dust<br>square<br>inspire<br>grid<br>save<br>panther<br>baby<br>private<br>ozone<br>language |  
-| bip_39_word_new_br11 | dust<br>square<br>inspire<br>grid<br>save<br>panther<br>baby<br>private<br>ozone<br>language<br>visa |  
-| bip_39_word_new_br12 | dust<br>square<br>inspire<br>grid<br>save<br>panther<br>baby<br>private<br>ozone<br>language<br>visa<br>accident |  
-| bip_39_word_new_br2 | dust<br>square |  
-| bip_39_word_new_br3 | dust<br>square<br>inspire |  
-| bip_39_word_new_br4 | dust<br>square<br>inspire<br>grid |  
-| bip_39_word_new_br5 | dust<br>square<br>inspire<br>grid<br>save |  
-| bip_39_word_new_br6 | dust<br>square<br>inspire<br>grid<br>save<br>panther |  
-| bip_39_word_new_br7 | dust<br>square<br>inspire<br>grid<br>save<br>panther<br>baby |  
-| bip_39_word_new_br8 | dust<br>square<br>inspire<br>grid<br>save<br>panther<br>baby<br>private |  
-| bip_39_word_new_br9 | dust<br>square<br>inspire<br>grid<br>save<br>panther<br>baby<br>private<br>ozone |  
-| bip_39_word_new_line1 | dust |  
-| bip_39_word_new_line10 | dust
+| bip_39_word_new_br_1 | dust |  
+| bip_39_word_new_br_10 | dust<br>square<br>inspire<br>grid<br>save<br>panther<br>baby<br>private<br>ozone<br>language |  
+| bip_39_word_new_br_11 | dust<br>square<br>inspire<br>grid<br>save<br>panther<br>baby<br>private<br>ozone<br>language<br>visa |  
+| bip_39_word_new_br_12 | dust<br>square<br>inspire<br>grid<br>save<br>panther<br>baby<br>private<br>ozone<br>language<br>visa<br>accident |  
+| bip_39_word_new_br_2 | dust<br>square |  
+| bip_39_word_new_br_3 | dust<br>square<br>inspire |  
+| bip_39_word_new_br_4 | dust<br>square<br>inspire<br>grid |  
+| bip_39_word_new_br_5 | dust<br>square<br>inspire<br>grid<br>save |  
+| bip_39_word_new_br_6 | dust<br>square<br>inspire<br>grid<br>save<br>panther |  
+| bip_39_word_new_br_7 | dust<br>square<br>inspire<br>grid<br>save<br>panther<br>baby |  
+| bip_39_word_new_br_8 | dust<br>square<br>inspire<br>grid<br>save<br>panther<br>baby<br>private |  
+| bip_39_word_new_br_9 | dust<br>square<br>inspire<br>grid<br>save<br>panther<br>baby<br>private<br>ozone |  
+| bip_39_word_new_line_1 | dust |  
+| bip_39_word_new_line_10 | dust
 square
 inspire
 grid
@@ -55,7 +55,7 @@ baby
 private
 ozone
 language |  
-| bip_39_word_new_line11 | dust
+| bip_39_word_new_line_11 | dust
 square
 inspire
 grid
@@ -66,7 +66,7 @@ private
 ozone
 language
 visa |  
-| bip_39_word_new_line12 | dust
+| bip_39_word_new_line_12 | dust
 square
 inspire
 grid
@@ -78,34 +78,34 @@ ozone
 language
 visa
 accident |  
-| bip_39_word_new_line2 | dust
+| bip_39_word_new_line_2 | dust
 square |  
-| bip_39_word_new_line3 | dust
+| bip_39_word_new_line_3 | dust
 square
 inspire |  
-| bip_39_word_new_line4 | dust
+| bip_39_word_new_line_4 | dust
 square
 inspire
 grid |  
-| bip_39_word_new_line5 | dust
+| bip_39_word_new_line_5 | dust
 square
 inspire
 grid
 save |  
-| bip_39_word_new_line6 | dust
+| bip_39_word_new_line_6 | dust
 square
 inspire
 grid
 save
 panther |  
-| bip_39_word_new_line7 | dust
+| bip_39_word_new_line_7 | dust
 square
 inspire
 grid
 save
 panther
 baby |  
-| bip_39_word_new_line8 | dust
+| bip_39_word_new_line_8 | dust
 square
 inspire
 grid
@@ -113,7 +113,7 @@ save
 panther
 baby
 private |  
-| bip_39_word_new_line9 | dust
+| bip_39_word_new_line_9 | dust
 square
 inspire
 grid

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | clarify |  
-| bip_39_word_new_br10 | clarify<br>door<br>palace<br>elevator<br>dilemma<br>begin<br>soft<br>bargain<br>write<br>frame |  
-| bip_39_word_new_br11 | clarify<br>door<br>palace<br>elevator<br>dilemma<br>begin<br>soft<br>bargain<br>write<br>frame<br>area |  
-| bip_39_word_new_br12 | clarify<br>door<br>palace<br>elevator<br>dilemma<br>begin<br>soft<br>bargain<br>write<br>frame<br>area<br>add |  
-| bip_39_word_new_br2 | clarify<br>door |  
-| bip_39_word_new_br3 | clarify<br>door<br>palace |  
-| bip_39_word_new_br4 | clarify<br>door<br>palace<br>elevator |  
-| bip_39_word_new_br5 | clarify<br>door<br>palace<br>elevator<br>dilemma |  
-| bip_39_word_new_br6 | clarify<br>door<br>palace<br>elevator<br>dilemma<br>begin |  
-| bip_39_word_new_br7 | clarify<br>door<br>palace<br>elevator<br>dilemma<br>begin<br>soft |  
-| bip_39_word_new_br8 | clarify<br>door<br>palace<br>elevator<br>dilemma<br>begin<br>soft<br>bargain |  
-| bip_39_word_new_br9 | clarify<br>door<br>palace<br>elevator<br>dilemma<br>begin<br>soft<br>bargain<br>write |  
-| bip_39_word_new_line1 | clarify |  
-| bip_39_word_new_line10 | clarify
+| bip_39_word_new_br_1 | clarify |  
+| bip_39_word_new_br_10 | clarify<br>door<br>palace<br>elevator<br>dilemma<br>begin<br>soft<br>bargain<br>write<br>frame |  
+| bip_39_word_new_br_11 | clarify<br>door<br>palace<br>elevator<br>dilemma<br>begin<br>soft<br>bargain<br>write<br>frame<br>area |  
+| bip_39_word_new_br_12 | clarify<br>door<br>palace<br>elevator<br>dilemma<br>begin<br>soft<br>bargain<br>write<br>frame<br>area<br>add |  
+| bip_39_word_new_br_2 | clarify<br>door |  
+| bip_39_word_new_br_3 | clarify<br>door<br>palace |  
+| bip_39_word_new_br_4 | clarify<br>door<br>palace<br>elevator |  
+| bip_39_word_new_br_5 | clarify<br>door<br>palace<br>elevator<br>dilemma |  
+| bip_39_word_new_br_6 | clarify<br>door<br>palace<br>elevator<br>dilemma<br>begin |  
+| bip_39_word_new_br_7 | clarify<br>door<br>palace<br>elevator<br>dilemma<br>begin<br>soft |  
+| bip_39_word_new_br_8 | clarify<br>door<br>palace<br>elevator<br>dilemma<br>begin<br>soft<br>bargain |  
+| bip_39_word_new_br_9 | clarify<br>door<br>palace<br>elevator<br>dilemma<br>begin<br>soft<br>bargain<br>write |  
+| bip_39_word_new_line_1 | clarify |  
+| bip_39_word_new_line_10 | clarify
 door
 palace
 elevator
@@ -55,7 +55,7 @@ soft
 bargain
 write
 frame |  
-| bip_39_word_new_line11 | clarify
+| bip_39_word_new_line_11 | clarify
 door
 palace
 elevator
@@ -66,7 +66,7 @@ bargain
 write
 frame
 area |  
-| bip_39_word_new_line12 | clarify
+| bip_39_word_new_line_12 | clarify
 door
 palace
 elevator
@@ -78,34 +78,34 @@ write
 frame
 area
 add |  
-| bip_39_word_new_line2 | clarify
+| bip_39_word_new_line_2 | clarify
 door |  
-| bip_39_word_new_line3 | clarify
+| bip_39_word_new_line_3 | clarify
 door
 palace |  
-| bip_39_word_new_line4 | clarify
+| bip_39_word_new_line_4 | clarify
 door
 palace
 elevator |  
-| bip_39_word_new_line5 | clarify
+| bip_39_word_new_line_5 | clarify
 door
 palace
 elevator
 dilemma |  
-| bip_39_word_new_line6 | clarify
+| bip_39_word_new_line_6 | clarify
 door
 palace
 elevator
 dilemma
 begin |  
-| bip_39_word_new_line7 | clarify
+| bip_39_word_new_line_7 | clarify
 door
 palace
 elevator
 dilemma
 begin
 soft |  
-| bip_39_word_new_line8 | clarify
+| bip_39_word_new_line_8 | clarify
 door
 palace
 elevator
@@ -113,7 +113,7 @@ dilemma
 begin
 soft
 bargain |  
-| bip_39_word_new_line9 | clarify
+| bip_39_word_new_line_9 | clarify
 door
 palace
 elevator

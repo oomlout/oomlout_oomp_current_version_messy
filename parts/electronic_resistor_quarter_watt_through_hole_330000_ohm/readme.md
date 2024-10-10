@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | thank |  
-| bip_39_word_new_br10 | thank<br>tiger<br>later<br>verify<br>you<br>enjoy<br>smooth<br>panther<br>odor<br>ridge |  
-| bip_39_word_new_br11 | thank<br>tiger<br>later<br>verify<br>you<br>enjoy<br>smooth<br>panther<br>odor<br>ridge<br>dad |  
-| bip_39_word_new_br12 | thank<br>tiger<br>later<br>verify<br>you<br>enjoy<br>smooth<br>panther<br>odor<br>ridge<br>dad<br>actress |  
-| bip_39_word_new_br2 | thank<br>tiger |  
-| bip_39_word_new_br3 | thank<br>tiger<br>later |  
-| bip_39_word_new_br4 | thank<br>tiger<br>later<br>verify |  
-| bip_39_word_new_br5 | thank<br>tiger<br>later<br>verify<br>you |  
-| bip_39_word_new_br6 | thank<br>tiger<br>later<br>verify<br>you<br>enjoy |  
-| bip_39_word_new_br7 | thank<br>tiger<br>later<br>verify<br>you<br>enjoy<br>smooth |  
-| bip_39_word_new_br8 | thank<br>tiger<br>later<br>verify<br>you<br>enjoy<br>smooth<br>panther |  
-| bip_39_word_new_br9 | thank<br>tiger<br>later<br>verify<br>you<br>enjoy<br>smooth<br>panther<br>odor |  
-| bip_39_word_new_line1 | thank |  
-| bip_39_word_new_line10 | thank
+| bip_39_word_new_br_1 | thank |  
+| bip_39_word_new_br_10 | thank<br>tiger<br>later<br>verify<br>you<br>enjoy<br>smooth<br>panther<br>odor<br>ridge |  
+| bip_39_word_new_br_11 | thank<br>tiger<br>later<br>verify<br>you<br>enjoy<br>smooth<br>panther<br>odor<br>ridge<br>dad |  
+| bip_39_word_new_br_12 | thank<br>tiger<br>later<br>verify<br>you<br>enjoy<br>smooth<br>panther<br>odor<br>ridge<br>dad<br>actress |  
+| bip_39_word_new_br_2 | thank<br>tiger |  
+| bip_39_word_new_br_3 | thank<br>tiger<br>later |  
+| bip_39_word_new_br_4 | thank<br>tiger<br>later<br>verify |  
+| bip_39_word_new_br_5 | thank<br>tiger<br>later<br>verify<br>you |  
+| bip_39_word_new_br_6 | thank<br>tiger<br>later<br>verify<br>you<br>enjoy |  
+| bip_39_word_new_br_7 | thank<br>tiger<br>later<br>verify<br>you<br>enjoy<br>smooth |  
+| bip_39_word_new_br_8 | thank<br>tiger<br>later<br>verify<br>you<br>enjoy<br>smooth<br>panther |  
+| bip_39_word_new_br_9 | thank<br>tiger<br>later<br>verify<br>you<br>enjoy<br>smooth<br>panther<br>odor |  
+| bip_39_word_new_line_1 | thank |  
+| bip_39_word_new_line_10 | thank
 tiger
 later
 verify
@@ -55,7 +55,7 @@ smooth
 panther
 odor
 ridge |  
-| bip_39_word_new_line11 | thank
+| bip_39_word_new_line_11 | thank
 tiger
 later
 verify
@@ -66,7 +66,7 @@ panther
 odor
 ridge
 dad |  
-| bip_39_word_new_line12 | thank
+| bip_39_word_new_line_12 | thank
 tiger
 later
 verify
@@ -78,34 +78,34 @@ odor
 ridge
 dad
 actress |  
-| bip_39_word_new_line2 | thank
+| bip_39_word_new_line_2 | thank
 tiger |  
-| bip_39_word_new_line3 | thank
+| bip_39_word_new_line_3 | thank
 tiger
 later |  
-| bip_39_word_new_line4 | thank
+| bip_39_word_new_line_4 | thank
 tiger
 later
 verify |  
-| bip_39_word_new_line5 | thank
+| bip_39_word_new_line_5 | thank
 tiger
 later
 verify
 you |  
-| bip_39_word_new_line6 | thank
+| bip_39_word_new_line_6 | thank
 tiger
 later
 verify
 you
 enjoy |  
-| bip_39_word_new_line7 | thank
+| bip_39_word_new_line_7 | thank
 tiger
 later
 verify
 you
 enjoy
 smooth |  
-| bip_39_word_new_line8 | thank
+| bip_39_word_new_line_8 | thank
 tiger
 later
 verify
@@ -113,7 +113,7 @@ you
 enjoy
 smooth
 panther |  
-| bip_39_word_new_line9 | thank
+| bip_39_word_new_line_9 | thank
 tiger
 later
 verify

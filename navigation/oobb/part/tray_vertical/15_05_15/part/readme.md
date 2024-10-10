@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | shaft |  
-| bip_39_word_new_br10 | shaft<br>quantum<br>title<br>dilemma<br>mean<br>dust<br>cupboard<br>reflect<br>maid<br>require |  
-| bip_39_word_new_br11 | shaft<br>quantum<br>title<br>dilemma<br>mean<br>dust<br>cupboard<br>reflect<br>maid<br>require<br>radio |  
-| bip_39_word_new_br12 | shaft<br>quantum<br>title<br>dilemma<br>mean<br>dust<br>cupboard<br>reflect<br>maid<br>require<br>radio<br>appear |  
-| bip_39_word_new_br2 | shaft<br>quantum |  
-| bip_39_word_new_br3 | shaft<br>quantum<br>title |  
-| bip_39_word_new_br4 | shaft<br>quantum<br>title<br>dilemma |  
-| bip_39_word_new_br5 | shaft<br>quantum<br>title<br>dilemma<br>mean |  
-| bip_39_word_new_br6 | shaft<br>quantum<br>title<br>dilemma<br>mean<br>dust |  
-| bip_39_word_new_br7 | shaft<br>quantum<br>title<br>dilemma<br>mean<br>dust<br>cupboard |  
-| bip_39_word_new_br8 | shaft<br>quantum<br>title<br>dilemma<br>mean<br>dust<br>cupboard<br>reflect |  
-| bip_39_word_new_br9 | shaft<br>quantum<br>title<br>dilemma<br>mean<br>dust<br>cupboard<br>reflect<br>maid |  
-| bip_39_word_new_line1 | shaft |  
-| bip_39_word_new_line10 | shaft
+| bip_39_word_new_br_1 | shaft |  
+| bip_39_word_new_br_10 | shaft<br>quantum<br>title<br>dilemma<br>mean<br>dust<br>cupboard<br>reflect<br>maid<br>require |  
+| bip_39_word_new_br_11 | shaft<br>quantum<br>title<br>dilemma<br>mean<br>dust<br>cupboard<br>reflect<br>maid<br>require<br>radio |  
+| bip_39_word_new_br_12 | shaft<br>quantum<br>title<br>dilemma<br>mean<br>dust<br>cupboard<br>reflect<br>maid<br>require<br>radio<br>appear |  
+| bip_39_word_new_br_2 | shaft<br>quantum |  
+| bip_39_word_new_br_3 | shaft<br>quantum<br>title |  
+| bip_39_word_new_br_4 | shaft<br>quantum<br>title<br>dilemma |  
+| bip_39_word_new_br_5 | shaft<br>quantum<br>title<br>dilemma<br>mean |  
+| bip_39_word_new_br_6 | shaft<br>quantum<br>title<br>dilemma<br>mean<br>dust |  
+| bip_39_word_new_br_7 | shaft<br>quantum<br>title<br>dilemma<br>mean<br>dust<br>cupboard |  
+| bip_39_word_new_br_8 | shaft<br>quantum<br>title<br>dilemma<br>mean<br>dust<br>cupboard<br>reflect |  
+| bip_39_word_new_br_9 | shaft<br>quantum<br>title<br>dilemma<br>mean<br>dust<br>cupboard<br>reflect<br>maid |  
+| bip_39_word_new_line_1 | shaft |  
+| bip_39_word_new_line_10 | shaft
 quantum
 title
 dilemma
@@ -55,7 +55,7 @@ cupboard
 reflect
 maid
 require |  
-| bip_39_word_new_line11 | shaft
+| bip_39_word_new_line_11 | shaft
 quantum
 title
 dilemma
@@ -66,7 +66,7 @@ reflect
 maid
 require
 radio |  
-| bip_39_word_new_line12 | shaft
+| bip_39_word_new_line_12 | shaft
 quantum
 title
 dilemma
@@ -78,34 +78,34 @@ maid
 require
 radio
 appear |  
-| bip_39_word_new_line2 | shaft
+| bip_39_word_new_line_2 | shaft
 quantum |  
-| bip_39_word_new_line3 | shaft
+| bip_39_word_new_line_3 | shaft
 quantum
 title |  
-| bip_39_word_new_line4 | shaft
+| bip_39_word_new_line_4 | shaft
 quantum
 title
 dilemma |  
-| bip_39_word_new_line5 | shaft
+| bip_39_word_new_line_5 | shaft
 quantum
 title
 dilemma
 mean |  
-| bip_39_word_new_line6 | shaft
+| bip_39_word_new_line_6 | shaft
 quantum
 title
 dilemma
 mean
 dust |  
-| bip_39_word_new_line7 | shaft
+| bip_39_word_new_line_7 | shaft
 quantum
 title
 dilemma
 mean
 dust
 cupboard |  
-| bip_39_word_new_line8 | shaft
+| bip_39_word_new_line_8 | shaft
 quantum
 title
 dilemma
@@ -113,7 +113,7 @@ mean
 dust
 cupboard
 reflect |  
-| bip_39_word_new_line9 | shaft
+| bip_39_word_new_line_9 | shaft
 quantum
 title
 dilemma

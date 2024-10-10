@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | outside |  
-| bip_39_word_new_br10 | outside<br>torch<br>weird<br>stand<br>razor<br>design<br>because<br>gain<br>valid<br>alien |  
-| bip_39_word_new_br11 | outside<br>torch<br>weird<br>stand<br>razor<br>design<br>because<br>gain<br>valid<br>alien<br>rug |  
-| bip_39_word_new_br12 | outside<br>torch<br>weird<br>stand<br>razor<br>design<br>because<br>gain<br>valid<br>alien<br>rug<br>annual |  
-| bip_39_word_new_br2 | outside<br>torch |  
-| bip_39_word_new_br3 | outside<br>torch<br>weird |  
-| bip_39_word_new_br4 | outside<br>torch<br>weird<br>stand |  
-| bip_39_word_new_br5 | outside<br>torch<br>weird<br>stand<br>razor |  
-| bip_39_word_new_br6 | outside<br>torch<br>weird<br>stand<br>razor<br>design |  
-| bip_39_word_new_br7 | outside<br>torch<br>weird<br>stand<br>razor<br>design<br>because |  
-| bip_39_word_new_br8 | outside<br>torch<br>weird<br>stand<br>razor<br>design<br>because<br>gain |  
-| bip_39_word_new_br9 | outside<br>torch<br>weird<br>stand<br>razor<br>design<br>because<br>gain<br>valid |  
-| bip_39_word_new_line1 | outside |  
-| bip_39_word_new_line10 | outside
+| bip_39_word_new_br_1 | outside |  
+| bip_39_word_new_br_10 | outside<br>torch<br>weird<br>stand<br>razor<br>design<br>because<br>gain<br>valid<br>alien |  
+| bip_39_word_new_br_11 | outside<br>torch<br>weird<br>stand<br>razor<br>design<br>because<br>gain<br>valid<br>alien<br>rug |  
+| bip_39_word_new_br_12 | outside<br>torch<br>weird<br>stand<br>razor<br>design<br>because<br>gain<br>valid<br>alien<br>rug<br>annual |  
+| bip_39_word_new_br_2 | outside<br>torch |  
+| bip_39_word_new_br_3 | outside<br>torch<br>weird |  
+| bip_39_word_new_br_4 | outside<br>torch<br>weird<br>stand |  
+| bip_39_word_new_br_5 | outside<br>torch<br>weird<br>stand<br>razor |  
+| bip_39_word_new_br_6 | outside<br>torch<br>weird<br>stand<br>razor<br>design |  
+| bip_39_word_new_br_7 | outside<br>torch<br>weird<br>stand<br>razor<br>design<br>because |  
+| bip_39_word_new_br_8 | outside<br>torch<br>weird<br>stand<br>razor<br>design<br>because<br>gain |  
+| bip_39_word_new_br_9 | outside<br>torch<br>weird<br>stand<br>razor<br>design<br>because<br>gain<br>valid |  
+| bip_39_word_new_line_1 | outside |  
+| bip_39_word_new_line_10 | outside
 torch
 weird
 stand
@@ -55,7 +55,7 @@ because
 gain
 valid
 alien |  
-| bip_39_word_new_line11 | outside
+| bip_39_word_new_line_11 | outside
 torch
 weird
 stand
@@ -66,7 +66,7 @@ gain
 valid
 alien
 rug |  
-| bip_39_word_new_line12 | outside
+| bip_39_word_new_line_12 | outside
 torch
 weird
 stand
@@ -78,34 +78,34 @@ valid
 alien
 rug
 annual |  
-| bip_39_word_new_line2 | outside
+| bip_39_word_new_line_2 | outside
 torch |  
-| bip_39_word_new_line3 | outside
+| bip_39_word_new_line_3 | outside
 torch
 weird |  
-| bip_39_word_new_line4 | outside
+| bip_39_word_new_line_4 | outside
 torch
 weird
 stand |  
-| bip_39_word_new_line5 | outside
+| bip_39_word_new_line_5 | outside
 torch
 weird
 stand
 razor |  
-| bip_39_word_new_line6 | outside
+| bip_39_word_new_line_6 | outside
 torch
 weird
 stand
 razor
 design |  
-| bip_39_word_new_line7 | outside
+| bip_39_word_new_line_7 | outside
 torch
 weird
 stand
 razor
 design
 because |  
-| bip_39_word_new_line8 | outside
+| bip_39_word_new_line_8 | outside
 torch
 weird
 stand
@@ -113,7 +113,7 @@ razor
 design
 because
 gain |  
-| bip_39_word_new_line9 | outside
+| bip_39_word_new_line_9 | outside
 torch
 weird
 stand

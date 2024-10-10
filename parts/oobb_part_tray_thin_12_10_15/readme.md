@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | proud |  
-| bip_39_word_new_br10 | proud<br>rival<br>survey<br>control<br>master<br>leisure<br>pledge<br>sorry<br>movie<br>beyond |  
-| bip_39_word_new_br11 | proud<br>rival<br>survey<br>control<br>master<br>leisure<br>pledge<br>sorry<br>movie<br>beyond<br>planet |  
-| bip_39_word_new_br12 | proud<br>rival<br>survey<br>control<br>master<br>leisure<br>pledge<br>sorry<br>movie<br>beyond<br>planet<br>ability |  
-| bip_39_word_new_br2 | proud<br>rival |  
-| bip_39_word_new_br3 | proud<br>rival<br>survey |  
-| bip_39_word_new_br4 | proud<br>rival<br>survey<br>control |  
-| bip_39_word_new_br5 | proud<br>rival<br>survey<br>control<br>master |  
-| bip_39_word_new_br6 | proud<br>rival<br>survey<br>control<br>master<br>leisure |  
-| bip_39_word_new_br7 | proud<br>rival<br>survey<br>control<br>master<br>leisure<br>pledge |  
-| bip_39_word_new_br8 | proud<br>rival<br>survey<br>control<br>master<br>leisure<br>pledge<br>sorry |  
-| bip_39_word_new_br9 | proud<br>rival<br>survey<br>control<br>master<br>leisure<br>pledge<br>sorry<br>movie |  
-| bip_39_word_new_line1 | proud |  
-| bip_39_word_new_line10 | proud
+| bip_39_word_new_br_1 | proud |  
+| bip_39_word_new_br_10 | proud<br>rival<br>survey<br>control<br>master<br>leisure<br>pledge<br>sorry<br>movie<br>beyond |  
+| bip_39_word_new_br_11 | proud<br>rival<br>survey<br>control<br>master<br>leisure<br>pledge<br>sorry<br>movie<br>beyond<br>planet |  
+| bip_39_word_new_br_12 | proud<br>rival<br>survey<br>control<br>master<br>leisure<br>pledge<br>sorry<br>movie<br>beyond<br>planet<br>ability |  
+| bip_39_word_new_br_2 | proud<br>rival |  
+| bip_39_word_new_br_3 | proud<br>rival<br>survey |  
+| bip_39_word_new_br_4 | proud<br>rival<br>survey<br>control |  
+| bip_39_word_new_br_5 | proud<br>rival<br>survey<br>control<br>master |  
+| bip_39_word_new_br_6 | proud<br>rival<br>survey<br>control<br>master<br>leisure |  
+| bip_39_word_new_br_7 | proud<br>rival<br>survey<br>control<br>master<br>leisure<br>pledge |  
+| bip_39_word_new_br_8 | proud<br>rival<br>survey<br>control<br>master<br>leisure<br>pledge<br>sorry |  
+| bip_39_word_new_br_9 | proud<br>rival<br>survey<br>control<br>master<br>leisure<br>pledge<br>sorry<br>movie |  
+| bip_39_word_new_line_1 | proud |  
+| bip_39_word_new_line_10 | proud
 rival
 survey
 control
@@ -55,7 +55,7 @@ pledge
 sorry
 movie
 beyond |  
-| bip_39_word_new_line11 | proud
+| bip_39_word_new_line_11 | proud
 rival
 survey
 control
@@ -66,7 +66,7 @@ sorry
 movie
 beyond
 planet |  
-| bip_39_word_new_line12 | proud
+| bip_39_word_new_line_12 | proud
 rival
 survey
 control
@@ -78,34 +78,34 @@ movie
 beyond
 planet
 ability |  
-| bip_39_word_new_line2 | proud
+| bip_39_word_new_line_2 | proud
 rival |  
-| bip_39_word_new_line3 | proud
+| bip_39_word_new_line_3 | proud
 rival
 survey |  
-| bip_39_word_new_line4 | proud
+| bip_39_word_new_line_4 | proud
 rival
 survey
 control |  
-| bip_39_word_new_line5 | proud
+| bip_39_word_new_line_5 | proud
 rival
 survey
 control
 master |  
-| bip_39_word_new_line6 | proud
+| bip_39_word_new_line_6 | proud
 rival
 survey
 control
 master
 leisure |  
-| bip_39_word_new_line7 | proud
+| bip_39_word_new_line_7 | proud
 rival
 survey
 control
 master
 leisure
 pledge |  
-| bip_39_word_new_line8 | proud
+| bip_39_word_new_line_8 | proud
 rival
 survey
 control
@@ -113,7 +113,7 @@ master
 leisure
 pledge
 sorry |  
-| bip_39_word_new_line9 | proud
+| bip_39_word_new_line_9 | proud
 rival
 survey
 control

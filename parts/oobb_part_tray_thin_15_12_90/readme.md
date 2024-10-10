@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dizzy |  
-| bip_39_word_new_br10 | dizzy<br>dry<br>movie<br>hungry<br>agree<br>weapon<br>lava<br>isolate<br>uphold<br>kid |  
-| bip_39_word_new_br11 | dizzy<br>dry<br>movie<br>hungry<br>agree<br>weapon<br>lava<br>isolate<br>uphold<br>kid<br>educate |  
-| bip_39_word_new_br12 | dizzy<br>dry<br>movie<br>hungry<br>agree<br>weapon<br>lava<br>isolate<br>uphold<br>kid<br>educate<br>animal |  
-| bip_39_word_new_br2 | dizzy<br>dry |  
-| bip_39_word_new_br3 | dizzy<br>dry<br>movie |  
-| bip_39_word_new_br4 | dizzy<br>dry<br>movie<br>hungry |  
-| bip_39_word_new_br5 | dizzy<br>dry<br>movie<br>hungry<br>agree |  
-| bip_39_word_new_br6 | dizzy<br>dry<br>movie<br>hungry<br>agree<br>weapon |  
-| bip_39_word_new_br7 | dizzy<br>dry<br>movie<br>hungry<br>agree<br>weapon<br>lava |  
-| bip_39_word_new_br8 | dizzy<br>dry<br>movie<br>hungry<br>agree<br>weapon<br>lava<br>isolate |  
-| bip_39_word_new_br9 | dizzy<br>dry<br>movie<br>hungry<br>agree<br>weapon<br>lava<br>isolate<br>uphold |  
-| bip_39_word_new_line1 | dizzy |  
-| bip_39_word_new_line10 | dizzy
+| bip_39_word_new_br_1 | dizzy |  
+| bip_39_word_new_br_10 | dizzy<br>dry<br>movie<br>hungry<br>agree<br>weapon<br>lava<br>isolate<br>uphold<br>kid |  
+| bip_39_word_new_br_11 | dizzy<br>dry<br>movie<br>hungry<br>agree<br>weapon<br>lava<br>isolate<br>uphold<br>kid<br>educate |  
+| bip_39_word_new_br_12 | dizzy<br>dry<br>movie<br>hungry<br>agree<br>weapon<br>lava<br>isolate<br>uphold<br>kid<br>educate<br>animal |  
+| bip_39_word_new_br_2 | dizzy<br>dry |  
+| bip_39_word_new_br_3 | dizzy<br>dry<br>movie |  
+| bip_39_word_new_br_4 | dizzy<br>dry<br>movie<br>hungry |  
+| bip_39_word_new_br_5 | dizzy<br>dry<br>movie<br>hungry<br>agree |  
+| bip_39_word_new_br_6 | dizzy<br>dry<br>movie<br>hungry<br>agree<br>weapon |  
+| bip_39_word_new_br_7 | dizzy<br>dry<br>movie<br>hungry<br>agree<br>weapon<br>lava |  
+| bip_39_word_new_br_8 | dizzy<br>dry<br>movie<br>hungry<br>agree<br>weapon<br>lava<br>isolate |  
+| bip_39_word_new_br_9 | dizzy<br>dry<br>movie<br>hungry<br>agree<br>weapon<br>lava<br>isolate<br>uphold |  
+| bip_39_word_new_line_1 | dizzy |  
+| bip_39_word_new_line_10 | dizzy
 dry
 movie
 hungry
@@ -55,7 +55,7 @@ lava
 isolate
 uphold
 kid |  
-| bip_39_word_new_line11 | dizzy
+| bip_39_word_new_line_11 | dizzy
 dry
 movie
 hungry
@@ -66,7 +66,7 @@ isolate
 uphold
 kid
 educate |  
-| bip_39_word_new_line12 | dizzy
+| bip_39_word_new_line_12 | dizzy
 dry
 movie
 hungry
@@ -78,34 +78,34 @@ uphold
 kid
 educate
 animal |  
-| bip_39_word_new_line2 | dizzy
+| bip_39_word_new_line_2 | dizzy
 dry |  
-| bip_39_word_new_line3 | dizzy
+| bip_39_word_new_line_3 | dizzy
 dry
 movie |  
-| bip_39_word_new_line4 | dizzy
+| bip_39_word_new_line_4 | dizzy
 dry
 movie
 hungry |  
-| bip_39_word_new_line5 | dizzy
+| bip_39_word_new_line_5 | dizzy
 dry
 movie
 hungry
 agree |  
-| bip_39_word_new_line6 | dizzy
+| bip_39_word_new_line_6 | dizzy
 dry
 movie
 hungry
 agree
 weapon |  
-| bip_39_word_new_line7 | dizzy
+| bip_39_word_new_line_7 | dizzy
 dry
 movie
 hungry
 agree
 weapon
 lava |  
-| bip_39_word_new_line8 | dizzy
+| bip_39_word_new_line_8 | dizzy
 dry
 movie
 hungry
@@ -113,7 +113,7 @@ agree
 weapon
 lava
 isolate |  
-| bip_39_word_new_line9 | dizzy
+| bip_39_word_new_line_9 | dizzy
 dry
 movie
 hungry

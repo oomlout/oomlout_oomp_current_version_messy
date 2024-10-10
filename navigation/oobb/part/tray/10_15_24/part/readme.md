@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | coconut |  
-| bip_39_word_new_br10 | coconut<br>front<br>primary<br>object<br>penalty<br>tuna<br>upon<br>property<br>decline<br>detail |  
-| bip_39_word_new_br11 | coconut<br>front<br>primary<br>object<br>penalty<br>tuna<br>upon<br>property<br>decline<br>detail<br>slow |  
-| bip_39_word_new_br12 | coconut<br>front<br>primary<br>object<br>penalty<br>tuna<br>upon<br>property<br>decline<br>detail<br>slow<br>ahead |  
-| bip_39_word_new_br2 | coconut<br>front |  
-| bip_39_word_new_br3 | coconut<br>front<br>primary |  
-| bip_39_word_new_br4 | coconut<br>front<br>primary<br>object |  
-| bip_39_word_new_br5 | coconut<br>front<br>primary<br>object<br>penalty |  
-| bip_39_word_new_br6 | coconut<br>front<br>primary<br>object<br>penalty<br>tuna |  
-| bip_39_word_new_br7 | coconut<br>front<br>primary<br>object<br>penalty<br>tuna<br>upon |  
-| bip_39_word_new_br8 | coconut<br>front<br>primary<br>object<br>penalty<br>tuna<br>upon<br>property |  
-| bip_39_word_new_br9 | coconut<br>front<br>primary<br>object<br>penalty<br>tuna<br>upon<br>property<br>decline |  
-| bip_39_word_new_line1 | coconut |  
-| bip_39_word_new_line10 | coconut
+| bip_39_word_new_br_1 | coconut |  
+| bip_39_word_new_br_10 | coconut<br>front<br>primary<br>object<br>penalty<br>tuna<br>upon<br>property<br>decline<br>detail |  
+| bip_39_word_new_br_11 | coconut<br>front<br>primary<br>object<br>penalty<br>tuna<br>upon<br>property<br>decline<br>detail<br>slow |  
+| bip_39_word_new_br_12 | coconut<br>front<br>primary<br>object<br>penalty<br>tuna<br>upon<br>property<br>decline<br>detail<br>slow<br>ahead |  
+| bip_39_word_new_br_2 | coconut<br>front |  
+| bip_39_word_new_br_3 | coconut<br>front<br>primary |  
+| bip_39_word_new_br_4 | coconut<br>front<br>primary<br>object |  
+| bip_39_word_new_br_5 | coconut<br>front<br>primary<br>object<br>penalty |  
+| bip_39_word_new_br_6 | coconut<br>front<br>primary<br>object<br>penalty<br>tuna |  
+| bip_39_word_new_br_7 | coconut<br>front<br>primary<br>object<br>penalty<br>tuna<br>upon |  
+| bip_39_word_new_br_8 | coconut<br>front<br>primary<br>object<br>penalty<br>tuna<br>upon<br>property |  
+| bip_39_word_new_br_9 | coconut<br>front<br>primary<br>object<br>penalty<br>tuna<br>upon<br>property<br>decline |  
+| bip_39_word_new_line_1 | coconut |  
+| bip_39_word_new_line_10 | coconut
 front
 primary
 object
@@ -55,7 +55,7 @@ upon
 property
 decline
 detail |  
-| bip_39_word_new_line11 | coconut
+| bip_39_word_new_line_11 | coconut
 front
 primary
 object
@@ -66,7 +66,7 @@ property
 decline
 detail
 slow |  
-| bip_39_word_new_line12 | coconut
+| bip_39_word_new_line_12 | coconut
 front
 primary
 object
@@ -78,34 +78,34 @@ decline
 detail
 slow
 ahead |  
-| bip_39_word_new_line2 | coconut
+| bip_39_word_new_line_2 | coconut
 front |  
-| bip_39_word_new_line3 | coconut
+| bip_39_word_new_line_3 | coconut
 front
 primary |  
-| bip_39_word_new_line4 | coconut
+| bip_39_word_new_line_4 | coconut
 front
 primary
 object |  
-| bip_39_word_new_line5 | coconut
+| bip_39_word_new_line_5 | coconut
 front
 primary
 object
 penalty |  
-| bip_39_word_new_line6 | coconut
+| bip_39_word_new_line_6 | coconut
 front
 primary
 object
 penalty
 tuna |  
-| bip_39_word_new_line7 | coconut
+| bip_39_word_new_line_7 | coconut
 front
 primary
 object
 penalty
 tuna
 upon |  
-| bip_39_word_new_line8 | coconut
+| bip_39_word_new_line_8 | coconut
 front
 primary
 object
@@ -113,7 +113,7 @@ penalty
 tuna
 upon
 property |  
-| bip_39_word_new_line9 | coconut
+| bip_39_word_new_line_9 | coconut
 front
 primary
 object

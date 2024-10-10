@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sniff |  
-| bip_39_word_new_br10 | sniff<br>maze<br>build<br>airport<br>embody<br>decline<br>analyst<br>slot<br>wine<br>topic |  
-| bip_39_word_new_br11 | sniff<br>maze<br>build<br>airport<br>embody<br>decline<br>analyst<br>slot<br>wine<br>topic<br>mule |  
-| bip_39_word_new_br12 | sniff<br>maze<br>build<br>airport<br>embody<br>decline<br>analyst<br>slot<br>wine<br>topic<br>mule<br>appear |  
-| bip_39_word_new_br2 | sniff<br>maze |  
-| bip_39_word_new_br3 | sniff<br>maze<br>build |  
-| bip_39_word_new_br4 | sniff<br>maze<br>build<br>airport |  
-| bip_39_word_new_br5 | sniff<br>maze<br>build<br>airport<br>embody |  
-| bip_39_word_new_br6 | sniff<br>maze<br>build<br>airport<br>embody<br>decline |  
-| bip_39_word_new_br7 | sniff<br>maze<br>build<br>airport<br>embody<br>decline<br>analyst |  
-| bip_39_word_new_br8 | sniff<br>maze<br>build<br>airport<br>embody<br>decline<br>analyst<br>slot |  
-| bip_39_word_new_br9 | sniff<br>maze<br>build<br>airport<br>embody<br>decline<br>analyst<br>slot<br>wine |  
-| bip_39_word_new_line1 | sniff |  
-| bip_39_word_new_line10 | sniff
+| bip_39_word_new_br_1 | sniff |  
+| bip_39_word_new_br_10 | sniff<br>maze<br>build<br>airport<br>embody<br>decline<br>analyst<br>slot<br>wine<br>topic |  
+| bip_39_word_new_br_11 | sniff<br>maze<br>build<br>airport<br>embody<br>decline<br>analyst<br>slot<br>wine<br>topic<br>mule |  
+| bip_39_word_new_br_12 | sniff<br>maze<br>build<br>airport<br>embody<br>decline<br>analyst<br>slot<br>wine<br>topic<br>mule<br>appear |  
+| bip_39_word_new_br_2 | sniff<br>maze |  
+| bip_39_word_new_br_3 | sniff<br>maze<br>build |  
+| bip_39_word_new_br_4 | sniff<br>maze<br>build<br>airport |  
+| bip_39_word_new_br_5 | sniff<br>maze<br>build<br>airport<br>embody |  
+| bip_39_word_new_br_6 | sniff<br>maze<br>build<br>airport<br>embody<br>decline |  
+| bip_39_word_new_br_7 | sniff<br>maze<br>build<br>airport<br>embody<br>decline<br>analyst |  
+| bip_39_word_new_br_8 | sniff<br>maze<br>build<br>airport<br>embody<br>decline<br>analyst<br>slot |  
+| bip_39_word_new_br_9 | sniff<br>maze<br>build<br>airport<br>embody<br>decline<br>analyst<br>slot<br>wine |  
+| bip_39_word_new_line_1 | sniff |  
+| bip_39_word_new_line_10 | sniff
 maze
 build
 airport
@@ -55,7 +55,7 @@ analyst
 slot
 wine
 topic |  
-| bip_39_word_new_line11 | sniff
+| bip_39_word_new_line_11 | sniff
 maze
 build
 airport
@@ -66,7 +66,7 @@ slot
 wine
 topic
 mule |  
-| bip_39_word_new_line12 | sniff
+| bip_39_word_new_line_12 | sniff
 maze
 build
 airport
@@ -78,34 +78,34 @@ wine
 topic
 mule
 appear |  
-| bip_39_word_new_line2 | sniff
+| bip_39_word_new_line_2 | sniff
 maze |  
-| bip_39_word_new_line3 | sniff
+| bip_39_word_new_line_3 | sniff
 maze
 build |  
-| bip_39_word_new_line4 | sniff
+| bip_39_word_new_line_4 | sniff
 maze
 build
 airport |  
-| bip_39_word_new_line5 | sniff
+| bip_39_word_new_line_5 | sniff
 maze
 build
 airport
 embody |  
-| bip_39_word_new_line6 | sniff
+| bip_39_word_new_line_6 | sniff
 maze
 build
 airport
 embody
 decline |  
-| bip_39_word_new_line7 | sniff
+| bip_39_word_new_line_7 | sniff
 maze
 build
 airport
 embody
 decline
 analyst |  
-| bip_39_word_new_line8 | sniff
+| bip_39_word_new_line_8 | sniff
 maze
 build
 airport
@@ -113,7 +113,7 @@ embody
 decline
 analyst
 slot |  
-| bip_39_word_new_line9 | sniff
+| bip_39_word_new_line_9 | sniff
 maze
 build
 airport

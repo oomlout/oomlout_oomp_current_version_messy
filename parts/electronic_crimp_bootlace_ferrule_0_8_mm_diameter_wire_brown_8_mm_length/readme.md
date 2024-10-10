@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | company |  
-| bip_39_word_new_br10 | company<br>shop<br>this<br>trophy<br>quiz<br>uncle<br>pride<br>grain<br>meadow<br>possible |  
-| bip_39_word_new_br11 | company<br>shop<br>this<br>trophy<br>quiz<br>uncle<br>pride<br>grain<br>meadow<br>possible<br>tank |  
-| bip_39_word_new_br12 | company<br>shop<br>this<br>trophy<br>quiz<br>uncle<br>pride<br>grain<br>meadow<br>possible<br>tank<br>artefact |  
-| bip_39_word_new_br2 | company<br>shop |  
-| bip_39_word_new_br3 | company<br>shop<br>this |  
-| bip_39_word_new_br4 | company<br>shop<br>this<br>trophy |  
-| bip_39_word_new_br5 | company<br>shop<br>this<br>trophy<br>quiz |  
-| bip_39_word_new_br6 | company<br>shop<br>this<br>trophy<br>quiz<br>uncle |  
-| bip_39_word_new_br7 | company<br>shop<br>this<br>trophy<br>quiz<br>uncle<br>pride |  
-| bip_39_word_new_br8 | company<br>shop<br>this<br>trophy<br>quiz<br>uncle<br>pride<br>grain |  
-| bip_39_word_new_br9 | company<br>shop<br>this<br>trophy<br>quiz<br>uncle<br>pride<br>grain<br>meadow |  
-| bip_39_word_new_line1 | company |  
-| bip_39_word_new_line10 | company
+| bip_39_word_new_br_1 | company |  
+| bip_39_word_new_br_10 | company<br>shop<br>this<br>trophy<br>quiz<br>uncle<br>pride<br>grain<br>meadow<br>possible |  
+| bip_39_word_new_br_11 | company<br>shop<br>this<br>trophy<br>quiz<br>uncle<br>pride<br>grain<br>meadow<br>possible<br>tank |  
+| bip_39_word_new_br_12 | company<br>shop<br>this<br>trophy<br>quiz<br>uncle<br>pride<br>grain<br>meadow<br>possible<br>tank<br>artefact |  
+| bip_39_word_new_br_2 | company<br>shop |  
+| bip_39_word_new_br_3 | company<br>shop<br>this |  
+| bip_39_word_new_br_4 | company<br>shop<br>this<br>trophy |  
+| bip_39_word_new_br_5 | company<br>shop<br>this<br>trophy<br>quiz |  
+| bip_39_word_new_br_6 | company<br>shop<br>this<br>trophy<br>quiz<br>uncle |  
+| bip_39_word_new_br_7 | company<br>shop<br>this<br>trophy<br>quiz<br>uncle<br>pride |  
+| bip_39_word_new_br_8 | company<br>shop<br>this<br>trophy<br>quiz<br>uncle<br>pride<br>grain |  
+| bip_39_word_new_br_9 | company<br>shop<br>this<br>trophy<br>quiz<br>uncle<br>pride<br>grain<br>meadow |  
+| bip_39_word_new_line_1 | company |  
+| bip_39_word_new_line_10 | company
 shop
 this
 trophy
@@ -55,7 +55,7 @@ pride
 grain
 meadow
 possible |  
-| bip_39_word_new_line11 | company
+| bip_39_word_new_line_11 | company
 shop
 this
 trophy
@@ -66,7 +66,7 @@ grain
 meadow
 possible
 tank |  
-| bip_39_word_new_line12 | company
+| bip_39_word_new_line_12 | company
 shop
 this
 trophy
@@ -78,34 +78,34 @@ meadow
 possible
 tank
 artefact |  
-| bip_39_word_new_line2 | company
+| bip_39_word_new_line_2 | company
 shop |  
-| bip_39_word_new_line3 | company
+| bip_39_word_new_line_3 | company
 shop
 this |  
-| bip_39_word_new_line4 | company
+| bip_39_word_new_line_4 | company
 shop
 this
 trophy |  
-| bip_39_word_new_line5 | company
+| bip_39_word_new_line_5 | company
 shop
 this
 trophy
 quiz |  
-| bip_39_word_new_line6 | company
+| bip_39_word_new_line_6 | company
 shop
 this
 trophy
 quiz
 uncle |  
-| bip_39_word_new_line7 | company
+| bip_39_word_new_line_7 | company
 shop
 this
 trophy
 quiz
 uncle
 pride |  
-| bip_39_word_new_line8 | company
+| bip_39_word_new_line_8 | company
 shop
 this
 trophy
@@ -113,7 +113,7 @@ quiz
 uncle
 pride
 grain |  
-| bip_39_word_new_line9 | company
+| bip_39_word_new_line_9 | company
 shop
 this
 trophy

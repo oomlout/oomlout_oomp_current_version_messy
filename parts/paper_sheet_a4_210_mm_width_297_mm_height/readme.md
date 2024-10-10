@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | grief |  
-| bip_39_word_new_br10 | grief<br>cloud<br>waste<br>learn<br>wide<br>ankle<br>knife<br>game<br>close<br>fatigue |  
-| bip_39_word_new_br11 | grief<br>cloud<br>waste<br>learn<br>wide<br>ankle<br>knife<br>game<br>close<br>fatigue<br>hidden |  
-| bip_39_word_new_br12 | grief<br>cloud<br>waste<br>learn<br>wide<br>ankle<br>knife<br>game<br>close<br>fatigue<br>hidden<br>anxiety |  
-| bip_39_word_new_br2 | grief<br>cloud |  
-| bip_39_word_new_br3 | grief<br>cloud<br>waste |  
-| bip_39_word_new_br4 | grief<br>cloud<br>waste<br>learn |  
-| bip_39_word_new_br5 | grief<br>cloud<br>waste<br>learn<br>wide |  
-| bip_39_word_new_br6 | grief<br>cloud<br>waste<br>learn<br>wide<br>ankle |  
-| bip_39_word_new_br7 | grief<br>cloud<br>waste<br>learn<br>wide<br>ankle<br>knife |  
-| bip_39_word_new_br8 | grief<br>cloud<br>waste<br>learn<br>wide<br>ankle<br>knife<br>game |  
-| bip_39_word_new_br9 | grief<br>cloud<br>waste<br>learn<br>wide<br>ankle<br>knife<br>game<br>close |  
-| bip_39_word_new_line1 | grief |  
-| bip_39_word_new_line10 | grief
+| bip_39_word_new_br_1 | grief |  
+| bip_39_word_new_br_10 | grief<br>cloud<br>waste<br>learn<br>wide<br>ankle<br>knife<br>game<br>close<br>fatigue |  
+| bip_39_word_new_br_11 | grief<br>cloud<br>waste<br>learn<br>wide<br>ankle<br>knife<br>game<br>close<br>fatigue<br>hidden |  
+| bip_39_word_new_br_12 | grief<br>cloud<br>waste<br>learn<br>wide<br>ankle<br>knife<br>game<br>close<br>fatigue<br>hidden<br>anxiety |  
+| bip_39_word_new_br_2 | grief<br>cloud |  
+| bip_39_word_new_br_3 | grief<br>cloud<br>waste |  
+| bip_39_word_new_br_4 | grief<br>cloud<br>waste<br>learn |  
+| bip_39_word_new_br_5 | grief<br>cloud<br>waste<br>learn<br>wide |  
+| bip_39_word_new_br_6 | grief<br>cloud<br>waste<br>learn<br>wide<br>ankle |  
+| bip_39_word_new_br_7 | grief<br>cloud<br>waste<br>learn<br>wide<br>ankle<br>knife |  
+| bip_39_word_new_br_8 | grief<br>cloud<br>waste<br>learn<br>wide<br>ankle<br>knife<br>game |  
+| bip_39_word_new_br_9 | grief<br>cloud<br>waste<br>learn<br>wide<br>ankle<br>knife<br>game<br>close |  
+| bip_39_word_new_line_1 | grief |  
+| bip_39_word_new_line_10 | grief
 cloud
 waste
 learn
@@ -55,7 +55,7 @@ knife
 game
 close
 fatigue |  
-| bip_39_word_new_line11 | grief
+| bip_39_word_new_line_11 | grief
 cloud
 waste
 learn
@@ -66,7 +66,7 @@ game
 close
 fatigue
 hidden |  
-| bip_39_word_new_line12 | grief
+| bip_39_word_new_line_12 | grief
 cloud
 waste
 learn
@@ -78,34 +78,34 @@ close
 fatigue
 hidden
 anxiety |  
-| bip_39_word_new_line2 | grief
+| bip_39_word_new_line_2 | grief
 cloud |  
-| bip_39_word_new_line3 | grief
+| bip_39_word_new_line_3 | grief
 cloud
 waste |  
-| bip_39_word_new_line4 | grief
+| bip_39_word_new_line_4 | grief
 cloud
 waste
 learn |  
-| bip_39_word_new_line5 | grief
+| bip_39_word_new_line_5 | grief
 cloud
 waste
 learn
 wide |  
-| bip_39_word_new_line6 | grief
+| bip_39_word_new_line_6 | grief
 cloud
 waste
 learn
 wide
 ankle |  
-| bip_39_word_new_line7 | grief
+| bip_39_word_new_line_7 | grief
 cloud
 waste
 learn
 wide
 ankle
 knife |  
-| bip_39_word_new_line8 | grief
+| bip_39_word_new_line_8 | grief
 cloud
 waste
 learn
@@ -113,7 +113,7 @@ wide
 ankle
 knife
 game |  
-| bip_39_word_new_line9 | grief
+| bip_39_word_new_line_9 | grief
 cloud
 waste
 learn

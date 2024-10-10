@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | segment |  
-| bip_39_word_new_br10 | segment<br>erupt<br>woman<br>twin<br>hello<br>song<br>three<br>cost<br>audit<br>unknown |  
-| bip_39_word_new_br11 | segment<br>erupt<br>woman<br>twin<br>hello<br>song<br>three<br>cost<br>audit<br>unknown<br>cancel |  
-| bip_39_word_new_br12 | segment<br>erupt<br>woman<br>twin<br>hello<br>song<br>three<br>cost<br>audit<br>unknown<br>cancel<br>aspect |  
-| bip_39_word_new_br2 | segment<br>erupt |  
-| bip_39_word_new_br3 | segment<br>erupt<br>woman |  
-| bip_39_word_new_br4 | segment<br>erupt<br>woman<br>twin |  
-| bip_39_word_new_br5 | segment<br>erupt<br>woman<br>twin<br>hello |  
-| bip_39_word_new_br6 | segment<br>erupt<br>woman<br>twin<br>hello<br>song |  
-| bip_39_word_new_br7 | segment<br>erupt<br>woman<br>twin<br>hello<br>song<br>three |  
-| bip_39_word_new_br8 | segment<br>erupt<br>woman<br>twin<br>hello<br>song<br>three<br>cost |  
-| bip_39_word_new_br9 | segment<br>erupt<br>woman<br>twin<br>hello<br>song<br>three<br>cost<br>audit |  
-| bip_39_word_new_line1 | segment |  
-| bip_39_word_new_line10 | segment
+| bip_39_word_new_br_1 | segment |  
+| bip_39_word_new_br_10 | segment<br>erupt<br>woman<br>twin<br>hello<br>song<br>three<br>cost<br>audit<br>unknown |  
+| bip_39_word_new_br_11 | segment<br>erupt<br>woman<br>twin<br>hello<br>song<br>three<br>cost<br>audit<br>unknown<br>cancel |  
+| bip_39_word_new_br_12 | segment<br>erupt<br>woman<br>twin<br>hello<br>song<br>three<br>cost<br>audit<br>unknown<br>cancel<br>aspect |  
+| bip_39_word_new_br_2 | segment<br>erupt |  
+| bip_39_word_new_br_3 | segment<br>erupt<br>woman |  
+| bip_39_word_new_br_4 | segment<br>erupt<br>woman<br>twin |  
+| bip_39_word_new_br_5 | segment<br>erupt<br>woman<br>twin<br>hello |  
+| bip_39_word_new_br_6 | segment<br>erupt<br>woman<br>twin<br>hello<br>song |  
+| bip_39_word_new_br_7 | segment<br>erupt<br>woman<br>twin<br>hello<br>song<br>three |  
+| bip_39_word_new_br_8 | segment<br>erupt<br>woman<br>twin<br>hello<br>song<br>three<br>cost |  
+| bip_39_word_new_br_9 | segment<br>erupt<br>woman<br>twin<br>hello<br>song<br>three<br>cost<br>audit |  
+| bip_39_word_new_line_1 | segment |  
+| bip_39_word_new_line_10 | segment
 erupt
 woman
 twin
@@ -55,7 +55,7 @@ three
 cost
 audit
 unknown |  
-| bip_39_word_new_line11 | segment
+| bip_39_word_new_line_11 | segment
 erupt
 woman
 twin
@@ -66,7 +66,7 @@ cost
 audit
 unknown
 cancel |  
-| bip_39_word_new_line12 | segment
+| bip_39_word_new_line_12 | segment
 erupt
 woman
 twin
@@ -78,34 +78,34 @@ audit
 unknown
 cancel
 aspect |  
-| bip_39_word_new_line2 | segment
+| bip_39_word_new_line_2 | segment
 erupt |  
-| bip_39_word_new_line3 | segment
+| bip_39_word_new_line_3 | segment
 erupt
 woman |  
-| bip_39_word_new_line4 | segment
+| bip_39_word_new_line_4 | segment
 erupt
 woman
 twin |  
-| bip_39_word_new_line5 | segment
+| bip_39_word_new_line_5 | segment
 erupt
 woman
 twin
 hello |  
-| bip_39_word_new_line6 | segment
+| bip_39_word_new_line_6 | segment
 erupt
 woman
 twin
 hello
 song |  
-| bip_39_word_new_line7 | segment
+| bip_39_word_new_line_7 | segment
 erupt
 woman
 twin
 hello
 song
 three |  
-| bip_39_word_new_line8 | segment
+| bip_39_word_new_line_8 | segment
 erupt
 woman
 twin
@@ -113,7 +113,7 @@ hello
 song
 three
 cost |  
-| bip_39_word_new_line9 | segment
+| bip_39_word_new_line_9 | segment
 erupt
 woman
 twin

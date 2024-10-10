@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | script |  
-| bip_39_word_new_br10 | script<br>combine<br>taxi<br>praise<br>essence<br>sell<br>test<br>cigar<br>stay<br>mandate |  
-| bip_39_word_new_br11 | script<br>combine<br>taxi<br>praise<br>essence<br>sell<br>test<br>cigar<br>stay<br>mandate<br>awful |  
-| bip_39_word_new_br12 | script<br>combine<br>taxi<br>praise<br>essence<br>sell<br>test<br>cigar<br>stay<br>mandate<br>awful<br>appear |  
-| bip_39_word_new_br2 | script<br>combine |  
-| bip_39_word_new_br3 | script<br>combine<br>taxi |  
-| bip_39_word_new_br4 | script<br>combine<br>taxi<br>praise |  
-| bip_39_word_new_br5 | script<br>combine<br>taxi<br>praise<br>essence |  
-| bip_39_word_new_br6 | script<br>combine<br>taxi<br>praise<br>essence<br>sell |  
-| bip_39_word_new_br7 | script<br>combine<br>taxi<br>praise<br>essence<br>sell<br>test |  
-| bip_39_word_new_br8 | script<br>combine<br>taxi<br>praise<br>essence<br>sell<br>test<br>cigar |  
-| bip_39_word_new_br9 | script<br>combine<br>taxi<br>praise<br>essence<br>sell<br>test<br>cigar<br>stay |  
-| bip_39_word_new_line1 | script |  
-| bip_39_word_new_line10 | script
+| bip_39_word_new_br_1 | script |  
+| bip_39_word_new_br_10 | script<br>combine<br>taxi<br>praise<br>essence<br>sell<br>test<br>cigar<br>stay<br>mandate |  
+| bip_39_word_new_br_11 | script<br>combine<br>taxi<br>praise<br>essence<br>sell<br>test<br>cigar<br>stay<br>mandate<br>awful |  
+| bip_39_word_new_br_12 | script<br>combine<br>taxi<br>praise<br>essence<br>sell<br>test<br>cigar<br>stay<br>mandate<br>awful<br>appear |  
+| bip_39_word_new_br_2 | script<br>combine |  
+| bip_39_word_new_br_3 | script<br>combine<br>taxi |  
+| bip_39_word_new_br_4 | script<br>combine<br>taxi<br>praise |  
+| bip_39_word_new_br_5 | script<br>combine<br>taxi<br>praise<br>essence |  
+| bip_39_word_new_br_6 | script<br>combine<br>taxi<br>praise<br>essence<br>sell |  
+| bip_39_word_new_br_7 | script<br>combine<br>taxi<br>praise<br>essence<br>sell<br>test |  
+| bip_39_word_new_br_8 | script<br>combine<br>taxi<br>praise<br>essence<br>sell<br>test<br>cigar |  
+| bip_39_word_new_br_9 | script<br>combine<br>taxi<br>praise<br>essence<br>sell<br>test<br>cigar<br>stay |  
+| bip_39_word_new_line_1 | script |  
+| bip_39_word_new_line_10 | script
 combine
 taxi
 praise
@@ -55,7 +55,7 @@ test
 cigar
 stay
 mandate |  
-| bip_39_word_new_line11 | script
+| bip_39_word_new_line_11 | script
 combine
 taxi
 praise
@@ -66,7 +66,7 @@ cigar
 stay
 mandate
 awful |  
-| bip_39_word_new_line12 | script
+| bip_39_word_new_line_12 | script
 combine
 taxi
 praise
@@ -78,34 +78,34 @@ stay
 mandate
 awful
 appear |  
-| bip_39_word_new_line2 | script
+| bip_39_word_new_line_2 | script
 combine |  
-| bip_39_word_new_line3 | script
+| bip_39_word_new_line_3 | script
 combine
 taxi |  
-| bip_39_word_new_line4 | script
+| bip_39_word_new_line_4 | script
 combine
 taxi
 praise |  
-| bip_39_word_new_line5 | script
+| bip_39_word_new_line_5 | script
 combine
 taxi
 praise
 essence |  
-| bip_39_word_new_line6 | script
+| bip_39_word_new_line_6 | script
 combine
 taxi
 praise
 essence
 sell |  
-| bip_39_word_new_line7 | script
+| bip_39_word_new_line_7 | script
 combine
 taxi
 praise
 essence
 sell
 test |  
-| bip_39_word_new_line8 | script
+| bip_39_word_new_line_8 | script
 combine
 taxi
 praise
@@ -113,7 +113,7 @@ essence
 sell
 test
 cigar |  
-| bip_39_word_new_line9 | script
+| bip_39_word_new_line_9 | script
 combine
 taxi
 praise

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ill |  
-| bip_39_word_new_br10 | ill<br>weekend<br>task<br>left<br>turtle<br>solve<br>direct<br>eight<br>pattern<br>dash |  
-| bip_39_word_new_br11 | ill<br>weekend<br>task<br>left<br>turtle<br>solve<br>direct<br>eight<br>pattern<br>dash<br>moon |  
-| bip_39_word_new_br12 | ill<br>weekend<br>task<br>left<br>turtle<br>solve<br>direct<br>eight<br>pattern<br>dash<br>moon<br>adult |  
-| bip_39_word_new_br2 | ill<br>weekend |  
-| bip_39_word_new_br3 | ill<br>weekend<br>task |  
-| bip_39_word_new_br4 | ill<br>weekend<br>task<br>left |  
-| bip_39_word_new_br5 | ill<br>weekend<br>task<br>left<br>turtle |  
-| bip_39_word_new_br6 | ill<br>weekend<br>task<br>left<br>turtle<br>solve |  
-| bip_39_word_new_br7 | ill<br>weekend<br>task<br>left<br>turtle<br>solve<br>direct |  
-| bip_39_word_new_br8 | ill<br>weekend<br>task<br>left<br>turtle<br>solve<br>direct<br>eight |  
-| bip_39_word_new_br9 | ill<br>weekend<br>task<br>left<br>turtle<br>solve<br>direct<br>eight<br>pattern |  
-| bip_39_word_new_line1 | ill |  
-| bip_39_word_new_line10 | ill
+| bip_39_word_new_br_1 | ill |  
+| bip_39_word_new_br_10 | ill<br>weekend<br>task<br>left<br>turtle<br>solve<br>direct<br>eight<br>pattern<br>dash |  
+| bip_39_word_new_br_11 | ill<br>weekend<br>task<br>left<br>turtle<br>solve<br>direct<br>eight<br>pattern<br>dash<br>moon |  
+| bip_39_word_new_br_12 | ill<br>weekend<br>task<br>left<br>turtle<br>solve<br>direct<br>eight<br>pattern<br>dash<br>moon<br>adult |  
+| bip_39_word_new_br_2 | ill<br>weekend |  
+| bip_39_word_new_br_3 | ill<br>weekend<br>task |  
+| bip_39_word_new_br_4 | ill<br>weekend<br>task<br>left |  
+| bip_39_word_new_br_5 | ill<br>weekend<br>task<br>left<br>turtle |  
+| bip_39_word_new_br_6 | ill<br>weekend<br>task<br>left<br>turtle<br>solve |  
+| bip_39_word_new_br_7 | ill<br>weekend<br>task<br>left<br>turtle<br>solve<br>direct |  
+| bip_39_word_new_br_8 | ill<br>weekend<br>task<br>left<br>turtle<br>solve<br>direct<br>eight |  
+| bip_39_word_new_br_9 | ill<br>weekend<br>task<br>left<br>turtle<br>solve<br>direct<br>eight<br>pattern |  
+| bip_39_word_new_line_1 | ill |  
+| bip_39_word_new_line_10 | ill
 weekend
 task
 left
@@ -55,7 +55,7 @@ direct
 eight
 pattern
 dash |  
-| bip_39_word_new_line11 | ill
+| bip_39_word_new_line_11 | ill
 weekend
 task
 left
@@ -66,7 +66,7 @@ eight
 pattern
 dash
 moon |  
-| bip_39_word_new_line12 | ill
+| bip_39_word_new_line_12 | ill
 weekend
 task
 left
@@ -78,34 +78,34 @@ pattern
 dash
 moon
 adult |  
-| bip_39_word_new_line2 | ill
+| bip_39_word_new_line_2 | ill
 weekend |  
-| bip_39_word_new_line3 | ill
+| bip_39_word_new_line_3 | ill
 weekend
 task |  
-| bip_39_word_new_line4 | ill
+| bip_39_word_new_line_4 | ill
 weekend
 task
 left |  
-| bip_39_word_new_line5 | ill
+| bip_39_word_new_line_5 | ill
 weekend
 task
 left
 turtle |  
-| bip_39_word_new_line6 | ill
+| bip_39_word_new_line_6 | ill
 weekend
 task
 left
 turtle
 solve |  
-| bip_39_word_new_line7 | ill
+| bip_39_word_new_line_7 | ill
 weekend
 task
 left
 turtle
 solve
 direct |  
-| bip_39_word_new_line8 | ill
+| bip_39_word_new_line_8 | ill
 weekend
 task
 left
@@ -113,7 +113,7 @@ turtle
 solve
 direct
 eight |  
-| bip_39_word_new_line9 | ill
+| bip_39_word_new_line_9 | ill
 weekend
 task
 left

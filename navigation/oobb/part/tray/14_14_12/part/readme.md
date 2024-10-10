@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | enemy |  
-| bip_39_word_new_br10 | enemy<br>write<br>twenty<br>dream<br>office<br>grit<br>chest<br>sustain<br>page<br>faint |  
-| bip_39_word_new_br11 | enemy<br>write<br>twenty<br>dream<br>office<br>grit<br>chest<br>sustain<br>page<br>faint<br>found |  
-| bip_39_word_new_br12 | enemy<br>write<br>twenty<br>dream<br>office<br>grit<br>chest<br>sustain<br>page<br>faint<br>found<br>amount |  
-| bip_39_word_new_br2 | enemy<br>write |  
-| bip_39_word_new_br3 | enemy<br>write<br>twenty |  
-| bip_39_word_new_br4 | enemy<br>write<br>twenty<br>dream |  
-| bip_39_word_new_br5 | enemy<br>write<br>twenty<br>dream<br>office |  
-| bip_39_word_new_br6 | enemy<br>write<br>twenty<br>dream<br>office<br>grit |  
-| bip_39_word_new_br7 | enemy<br>write<br>twenty<br>dream<br>office<br>grit<br>chest |  
-| bip_39_word_new_br8 | enemy<br>write<br>twenty<br>dream<br>office<br>grit<br>chest<br>sustain |  
-| bip_39_word_new_br9 | enemy<br>write<br>twenty<br>dream<br>office<br>grit<br>chest<br>sustain<br>page |  
-| bip_39_word_new_line1 | enemy |  
-| bip_39_word_new_line10 | enemy
+| bip_39_word_new_br_1 | enemy |  
+| bip_39_word_new_br_10 | enemy<br>write<br>twenty<br>dream<br>office<br>grit<br>chest<br>sustain<br>page<br>faint |  
+| bip_39_word_new_br_11 | enemy<br>write<br>twenty<br>dream<br>office<br>grit<br>chest<br>sustain<br>page<br>faint<br>found |  
+| bip_39_word_new_br_12 | enemy<br>write<br>twenty<br>dream<br>office<br>grit<br>chest<br>sustain<br>page<br>faint<br>found<br>amount |  
+| bip_39_word_new_br_2 | enemy<br>write |  
+| bip_39_word_new_br_3 | enemy<br>write<br>twenty |  
+| bip_39_word_new_br_4 | enemy<br>write<br>twenty<br>dream |  
+| bip_39_word_new_br_5 | enemy<br>write<br>twenty<br>dream<br>office |  
+| bip_39_word_new_br_6 | enemy<br>write<br>twenty<br>dream<br>office<br>grit |  
+| bip_39_word_new_br_7 | enemy<br>write<br>twenty<br>dream<br>office<br>grit<br>chest |  
+| bip_39_word_new_br_8 | enemy<br>write<br>twenty<br>dream<br>office<br>grit<br>chest<br>sustain |  
+| bip_39_word_new_br_9 | enemy<br>write<br>twenty<br>dream<br>office<br>grit<br>chest<br>sustain<br>page |  
+| bip_39_word_new_line_1 | enemy |  
+| bip_39_word_new_line_10 | enemy
 write
 twenty
 dream
@@ -55,7 +55,7 @@ chest
 sustain
 page
 faint |  
-| bip_39_word_new_line11 | enemy
+| bip_39_word_new_line_11 | enemy
 write
 twenty
 dream
@@ -66,7 +66,7 @@ sustain
 page
 faint
 found |  
-| bip_39_word_new_line12 | enemy
+| bip_39_word_new_line_12 | enemy
 write
 twenty
 dream
@@ -78,34 +78,34 @@ page
 faint
 found
 amount |  
-| bip_39_word_new_line2 | enemy
+| bip_39_word_new_line_2 | enemy
 write |  
-| bip_39_word_new_line3 | enemy
+| bip_39_word_new_line_3 | enemy
 write
 twenty |  
-| bip_39_word_new_line4 | enemy
+| bip_39_word_new_line_4 | enemy
 write
 twenty
 dream |  
-| bip_39_word_new_line5 | enemy
+| bip_39_word_new_line_5 | enemy
 write
 twenty
 dream
 office |  
-| bip_39_word_new_line6 | enemy
+| bip_39_word_new_line_6 | enemy
 write
 twenty
 dream
 office
 grit |  
-| bip_39_word_new_line7 | enemy
+| bip_39_word_new_line_7 | enemy
 write
 twenty
 dream
 office
 grit
 chest |  
-| bip_39_word_new_line8 | enemy
+| bip_39_word_new_line_8 | enemy
 write
 twenty
 dream
@@ -113,7 +113,7 @@ office
 grit
 chest
 sustain |  
-| bip_39_word_new_line9 | enemy
+| bip_39_word_new_line_9 | enemy
 write
 twenty
 dream

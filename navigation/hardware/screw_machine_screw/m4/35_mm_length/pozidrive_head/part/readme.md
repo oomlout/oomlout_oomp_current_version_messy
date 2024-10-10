@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | job |  
-| bip_39_word_new_br10 | job<br>mammal<br>nature<br>trap<br>gain<br>tent<br>harbor<br>cherry<br>task<br>aisle |  
-| bip_39_word_new_br11 | job<br>mammal<br>nature<br>trap<br>gain<br>tent<br>harbor<br>cherry<br>task<br>aisle<br>version |  
-| bip_39_word_new_br12 | job<br>mammal<br>nature<br>trap<br>gain<br>tent<br>harbor<br>cherry<br>task<br>aisle<br>version<br>acid |  
-| bip_39_word_new_br2 | job<br>mammal |  
-| bip_39_word_new_br3 | job<br>mammal<br>nature |  
-| bip_39_word_new_br4 | job<br>mammal<br>nature<br>trap |  
-| bip_39_word_new_br5 | job<br>mammal<br>nature<br>trap<br>gain |  
-| bip_39_word_new_br6 | job<br>mammal<br>nature<br>trap<br>gain<br>tent |  
-| bip_39_word_new_br7 | job<br>mammal<br>nature<br>trap<br>gain<br>tent<br>harbor |  
-| bip_39_word_new_br8 | job<br>mammal<br>nature<br>trap<br>gain<br>tent<br>harbor<br>cherry |  
-| bip_39_word_new_br9 | job<br>mammal<br>nature<br>trap<br>gain<br>tent<br>harbor<br>cherry<br>task |  
-| bip_39_word_new_line1 | job |  
-| bip_39_word_new_line10 | job
+| bip_39_word_new_br_1 | job |  
+| bip_39_word_new_br_10 | job<br>mammal<br>nature<br>trap<br>gain<br>tent<br>harbor<br>cherry<br>task<br>aisle |  
+| bip_39_word_new_br_11 | job<br>mammal<br>nature<br>trap<br>gain<br>tent<br>harbor<br>cherry<br>task<br>aisle<br>version |  
+| bip_39_word_new_br_12 | job<br>mammal<br>nature<br>trap<br>gain<br>tent<br>harbor<br>cherry<br>task<br>aisle<br>version<br>acid |  
+| bip_39_word_new_br_2 | job<br>mammal |  
+| bip_39_word_new_br_3 | job<br>mammal<br>nature |  
+| bip_39_word_new_br_4 | job<br>mammal<br>nature<br>trap |  
+| bip_39_word_new_br_5 | job<br>mammal<br>nature<br>trap<br>gain |  
+| bip_39_word_new_br_6 | job<br>mammal<br>nature<br>trap<br>gain<br>tent |  
+| bip_39_word_new_br_7 | job<br>mammal<br>nature<br>trap<br>gain<br>tent<br>harbor |  
+| bip_39_word_new_br_8 | job<br>mammal<br>nature<br>trap<br>gain<br>tent<br>harbor<br>cherry |  
+| bip_39_word_new_br_9 | job<br>mammal<br>nature<br>trap<br>gain<br>tent<br>harbor<br>cherry<br>task |  
+| bip_39_word_new_line_1 | job |  
+| bip_39_word_new_line_10 | job
 mammal
 nature
 trap
@@ -55,7 +55,7 @@ harbor
 cherry
 task
 aisle |  
-| bip_39_word_new_line11 | job
+| bip_39_word_new_line_11 | job
 mammal
 nature
 trap
@@ -66,7 +66,7 @@ cherry
 task
 aisle
 version |  
-| bip_39_word_new_line12 | job
+| bip_39_word_new_line_12 | job
 mammal
 nature
 trap
@@ -78,34 +78,34 @@ task
 aisle
 version
 acid |  
-| bip_39_word_new_line2 | job
+| bip_39_word_new_line_2 | job
 mammal |  
-| bip_39_word_new_line3 | job
+| bip_39_word_new_line_3 | job
 mammal
 nature |  
-| bip_39_word_new_line4 | job
+| bip_39_word_new_line_4 | job
 mammal
 nature
 trap |  
-| bip_39_word_new_line5 | job
+| bip_39_word_new_line_5 | job
 mammal
 nature
 trap
 gain |  
-| bip_39_word_new_line6 | job
+| bip_39_word_new_line_6 | job
 mammal
 nature
 trap
 gain
 tent |  
-| bip_39_word_new_line7 | job
+| bip_39_word_new_line_7 | job
 mammal
 nature
 trap
 gain
 tent
 harbor |  
-| bip_39_word_new_line8 | job
+| bip_39_word_new_line_8 | job
 mammal
 nature
 trap
@@ -113,7 +113,7 @@ gain
 tent
 harbor
 cherry |  
-| bip_39_word_new_line9 | job
+| bip_39_word_new_line_9 | job
 mammal
 nature
 trap

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | drill |  
-| bip_39_word_new_br10 | drill<br>salad<br>soldier<br>area<br>model<br>oak<br>lunch<br>common<br>pledge<br>pear |  
-| bip_39_word_new_br11 | drill<br>salad<br>soldier<br>area<br>model<br>oak<br>lunch<br>common<br>pledge<br>pear<br>saddle |  
-| bip_39_word_new_br12 | drill<br>salad<br>soldier<br>area<br>model<br>oak<br>lunch<br>common<br>pledge<br>pear<br>saddle<br>accident |  
-| bip_39_word_new_br2 | drill<br>salad |  
-| bip_39_word_new_br3 | drill<br>salad<br>soldier |  
-| bip_39_word_new_br4 | drill<br>salad<br>soldier<br>area |  
-| bip_39_word_new_br5 | drill<br>salad<br>soldier<br>area<br>model |  
-| bip_39_word_new_br6 | drill<br>salad<br>soldier<br>area<br>model<br>oak |  
-| bip_39_word_new_br7 | drill<br>salad<br>soldier<br>area<br>model<br>oak<br>lunch |  
-| bip_39_word_new_br8 | drill<br>salad<br>soldier<br>area<br>model<br>oak<br>lunch<br>common |  
-| bip_39_word_new_br9 | drill<br>salad<br>soldier<br>area<br>model<br>oak<br>lunch<br>common<br>pledge |  
-| bip_39_word_new_line1 | drill |  
-| bip_39_word_new_line10 | drill
+| bip_39_word_new_br_1 | drill |  
+| bip_39_word_new_br_10 | drill<br>salad<br>soldier<br>area<br>model<br>oak<br>lunch<br>common<br>pledge<br>pear |  
+| bip_39_word_new_br_11 | drill<br>salad<br>soldier<br>area<br>model<br>oak<br>lunch<br>common<br>pledge<br>pear<br>saddle |  
+| bip_39_word_new_br_12 | drill<br>salad<br>soldier<br>area<br>model<br>oak<br>lunch<br>common<br>pledge<br>pear<br>saddle<br>accident |  
+| bip_39_word_new_br_2 | drill<br>salad |  
+| bip_39_word_new_br_3 | drill<br>salad<br>soldier |  
+| bip_39_word_new_br_4 | drill<br>salad<br>soldier<br>area |  
+| bip_39_word_new_br_5 | drill<br>salad<br>soldier<br>area<br>model |  
+| bip_39_word_new_br_6 | drill<br>salad<br>soldier<br>area<br>model<br>oak |  
+| bip_39_word_new_br_7 | drill<br>salad<br>soldier<br>area<br>model<br>oak<br>lunch |  
+| bip_39_word_new_br_8 | drill<br>salad<br>soldier<br>area<br>model<br>oak<br>lunch<br>common |  
+| bip_39_word_new_br_9 | drill<br>salad<br>soldier<br>area<br>model<br>oak<br>lunch<br>common<br>pledge |  
+| bip_39_word_new_line_1 | drill |  
+| bip_39_word_new_line_10 | drill
 salad
 soldier
 area
@@ -55,7 +55,7 @@ lunch
 common
 pledge
 pear |  
-| bip_39_word_new_line11 | drill
+| bip_39_word_new_line_11 | drill
 salad
 soldier
 area
@@ -66,7 +66,7 @@ common
 pledge
 pear
 saddle |  
-| bip_39_word_new_line12 | drill
+| bip_39_word_new_line_12 | drill
 salad
 soldier
 area
@@ -78,34 +78,34 @@ pledge
 pear
 saddle
 accident |  
-| bip_39_word_new_line2 | drill
+| bip_39_word_new_line_2 | drill
 salad |  
-| bip_39_word_new_line3 | drill
+| bip_39_word_new_line_3 | drill
 salad
 soldier |  
-| bip_39_word_new_line4 | drill
+| bip_39_word_new_line_4 | drill
 salad
 soldier
 area |  
-| bip_39_word_new_line5 | drill
+| bip_39_word_new_line_5 | drill
 salad
 soldier
 area
 model |  
-| bip_39_word_new_line6 | drill
+| bip_39_word_new_line_6 | drill
 salad
 soldier
 area
 model
 oak |  
-| bip_39_word_new_line7 | drill
+| bip_39_word_new_line_7 | drill
 salad
 soldier
 area
 model
 oak
 lunch |  
-| bip_39_word_new_line8 | drill
+| bip_39_word_new_line_8 | drill
 salad
 soldier
 area
@@ -113,7 +113,7 @@ model
 oak
 lunch
 common |  
-| bip_39_word_new_line9 | drill
+| bip_39_word_new_line_9 | drill
 salad
 soldier
 area

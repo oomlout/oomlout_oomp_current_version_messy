@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | monitor |  
-| bip_39_word_new_br10 | monitor<br>cargo<br>play<br>essay<br>zoo<br>fat<br>region<br>wave<br>delay<br>kiss |  
-| bip_39_word_new_br11 | monitor<br>cargo<br>play<br>essay<br>zoo<br>fat<br>region<br>wave<br>delay<br>kiss<br>silk |  
-| bip_39_word_new_br12 | monitor<br>cargo<br>play<br>essay<br>zoo<br>fat<br>region<br>wave<br>delay<br>kiss<br>silk<br>among |  
-| bip_39_word_new_br2 | monitor<br>cargo |  
-| bip_39_word_new_br3 | monitor<br>cargo<br>play |  
-| bip_39_word_new_br4 | monitor<br>cargo<br>play<br>essay |  
-| bip_39_word_new_br5 | monitor<br>cargo<br>play<br>essay<br>zoo |  
-| bip_39_word_new_br6 | monitor<br>cargo<br>play<br>essay<br>zoo<br>fat |  
-| bip_39_word_new_br7 | monitor<br>cargo<br>play<br>essay<br>zoo<br>fat<br>region |  
-| bip_39_word_new_br8 | monitor<br>cargo<br>play<br>essay<br>zoo<br>fat<br>region<br>wave |  
-| bip_39_word_new_br9 | monitor<br>cargo<br>play<br>essay<br>zoo<br>fat<br>region<br>wave<br>delay |  
-| bip_39_word_new_line1 | monitor |  
-| bip_39_word_new_line10 | monitor
+| bip_39_word_new_br_1 | monitor |  
+| bip_39_word_new_br_10 | monitor<br>cargo<br>play<br>essay<br>zoo<br>fat<br>region<br>wave<br>delay<br>kiss |  
+| bip_39_word_new_br_11 | monitor<br>cargo<br>play<br>essay<br>zoo<br>fat<br>region<br>wave<br>delay<br>kiss<br>silk |  
+| bip_39_word_new_br_12 | monitor<br>cargo<br>play<br>essay<br>zoo<br>fat<br>region<br>wave<br>delay<br>kiss<br>silk<br>among |  
+| bip_39_word_new_br_2 | monitor<br>cargo |  
+| bip_39_word_new_br_3 | monitor<br>cargo<br>play |  
+| bip_39_word_new_br_4 | monitor<br>cargo<br>play<br>essay |  
+| bip_39_word_new_br_5 | monitor<br>cargo<br>play<br>essay<br>zoo |  
+| bip_39_word_new_br_6 | monitor<br>cargo<br>play<br>essay<br>zoo<br>fat |  
+| bip_39_word_new_br_7 | monitor<br>cargo<br>play<br>essay<br>zoo<br>fat<br>region |  
+| bip_39_word_new_br_8 | monitor<br>cargo<br>play<br>essay<br>zoo<br>fat<br>region<br>wave |  
+| bip_39_word_new_br_9 | monitor<br>cargo<br>play<br>essay<br>zoo<br>fat<br>region<br>wave<br>delay |  
+| bip_39_word_new_line_1 | monitor |  
+| bip_39_word_new_line_10 | monitor
 cargo
 play
 essay
@@ -55,7 +55,7 @@ region
 wave
 delay
 kiss |  
-| bip_39_word_new_line11 | monitor
+| bip_39_word_new_line_11 | monitor
 cargo
 play
 essay
@@ -66,7 +66,7 @@ wave
 delay
 kiss
 silk |  
-| bip_39_word_new_line12 | monitor
+| bip_39_word_new_line_12 | monitor
 cargo
 play
 essay
@@ -78,34 +78,34 @@ delay
 kiss
 silk
 among |  
-| bip_39_word_new_line2 | monitor
+| bip_39_word_new_line_2 | monitor
 cargo |  
-| bip_39_word_new_line3 | monitor
+| bip_39_word_new_line_3 | monitor
 cargo
 play |  
-| bip_39_word_new_line4 | monitor
+| bip_39_word_new_line_4 | monitor
 cargo
 play
 essay |  
-| bip_39_word_new_line5 | monitor
+| bip_39_word_new_line_5 | monitor
 cargo
 play
 essay
 zoo |  
-| bip_39_word_new_line6 | monitor
+| bip_39_word_new_line_6 | monitor
 cargo
 play
 essay
 zoo
 fat |  
-| bip_39_word_new_line7 | monitor
+| bip_39_word_new_line_7 | monitor
 cargo
 play
 essay
 zoo
 fat
 region |  
-| bip_39_word_new_line8 | monitor
+| bip_39_word_new_line_8 | monitor
 cargo
 play
 essay
@@ -113,7 +113,7 @@ zoo
 fat
 region
 wave |  
-| bip_39_word_new_line9 | monitor
+| bip_39_word_new_line_9 | monitor
 cargo
 play
 essay

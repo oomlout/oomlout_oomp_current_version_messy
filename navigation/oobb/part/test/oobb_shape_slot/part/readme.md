@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cheap |  
-| bip_39_word_new_br10 | cheap<br>style<br>loud<br>genius<br>sick<br>steak<br>proud<br>car<br>story<br>witness |  
-| bip_39_word_new_br11 | cheap<br>style<br>loud<br>genius<br>sick<br>steak<br>proud<br>car<br>story<br>witness<br>west |  
-| bip_39_word_new_br12 | cheap<br>style<br>loud<br>genius<br>sick<br>steak<br>proud<br>car<br>story<br>witness<br>west<br>act |  
-| bip_39_word_new_br2 | cheap<br>style |  
-| bip_39_word_new_br3 | cheap<br>style<br>loud |  
-| bip_39_word_new_br4 | cheap<br>style<br>loud<br>genius |  
-| bip_39_word_new_br5 | cheap<br>style<br>loud<br>genius<br>sick |  
-| bip_39_word_new_br6 | cheap<br>style<br>loud<br>genius<br>sick<br>steak |  
-| bip_39_word_new_br7 | cheap<br>style<br>loud<br>genius<br>sick<br>steak<br>proud |  
-| bip_39_word_new_br8 | cheap<br>style<br>loud<br>genius<br>sick<br>steak<br>proud<br>car |  
-| bip_39_word_new_br9 | cheap<br>style<br>loud<br>genius<br>sick<br>steak<br>proud<br>car<br>story |  
-| bip_39_word_new_line1 | cheap |  
-| bip_39_word_new_line10 | cheap
+| bip_39_word_new_br_1 | cheap |  
+| bip_39_word_new_br_10 | cheap<br>style<br>loud<br>genius<br>sick<br>steak<br>proud<br>car<br>story<br>witness |  
+| bip_39_word_new_br_11 | cheap<br>style<br>loud<br>genius<br>sick<br>steak<br>proud<br>car<br>story<br>witness<br>west |  
+| bip_39_word_new_br_12 | cheap<br>style<br>loud<br>genius<br>sick<br>steak<br>proud<br>car<br>story<br>witness<br>west<br>act |  
+| bip_39_word_new_br_2 | cheap<br>style |  
+| bip_39_word_new_br_3 | cheap<br>style<br>loud |  
+| bip_39_word_new_br_4 | cheap<br>style<br>loud<br>genius |  
+| bip_39_word_new_br_5 | cheap<br>style<br>loud<br>genius<br>sick |  
+| bip_39_word_new_br_6 | cheap<br>style<br>loud<br>genius<br>sick<br>steak |  
+| bip_39_word_new_br_7 | cheap<br>style<br>loud<br>genius<br>sick<br>steak<br>proud |  
+| bip_39_word_new_br_8 | cheap<br>style<br>loud<br>genius<br>sick<br>steak<br>proud<br>car |  
+| bip_39_word_new_br_9 | cheap<br>style<br>loud<br>genius<br>sick<br>steak<br>proud<br>car<br>story |  
+| bip_39_word_new_line_1 | cheap |  
+| bip_39_word_new_line_10 | cheap
 style
 loud
 genius
@@ -55,7 +55,7 @@ proud
 car
 story
 witness |  
-| bip_39_word_new_line11 | cheap
+| bip_39_word_new_line_11 | cheap
 style
 loud
 genius
@@ -66,7 +66,7 @@ car
 story
 witness
 west |  
-| bip_39_word_new_line12 | cheap
+| bip_39_word_new_line_12 | cheap
 style
 loud
 genius
@@ -78,34 +78,34 @@ story
 witness
 west
 act |  
-| bip_39_word_new_line2 | cheap
+| bip_39_word_new_line_2 | cheap
 style |  
-| bip_39_word_new_line3 | cheap
+| bip_39_word_new_line_3 | cheap
 style
 loud |  
-| bip_39_word_new_line4 | cheap
+| bip_39_word_new_line_4 | cheap
 style
 loud
 genius |  
-| bip_39_word_new_line5 | cheap
+| bip_39_word_new_line_5 | cheap
 style
 loud
 genius
 sick |  
-| bip_39_word_new_line6 | cheap
+| bip_39_word_new_line_6 | cheap
 style
 loud
 genius
 sick
 steak |  
-| bip_39_word_new_line7 | cheap
+| bip_39_word_new_line_7 | cheap
 style
 loud
 genius
 sick
 steak
 proud |  
-| bip_39_word_new_line8 | cheap
+| bip_39_word_new_line_8 | cheap
 style
 loud
 genius
@@ -113,7 +113,7 @@ sick
 steak
 proud
 car |  
-| bip_39_word_new_line9 | cheap
+| bip_39_word_new_line_9 | cheap
 style
 loud
 genius

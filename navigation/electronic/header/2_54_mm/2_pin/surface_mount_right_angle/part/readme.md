@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | forward |  
-| bip_39_word_new_br10 | forward<br>opinion<br>uphold<br>buzz<br>tilt<br>nose<br>firm<br>leave<br>admit<br>siege |  
-| bip_39_word_new_br11 | forward<br>opinion<br>uphold<br>buzz<br>tilt<br>nose<br>firm<br>leave<br>admit<br>siege<br>stable |  
-| bip_39_word_new_br12 | forward<br>opinion<br>uphold<br>buzz<br>tilt<br>nose<br>firm<br>leave<br>admit<br>siege<br>stable<br>above |  
-| bip_39_word_new_br2 | forward<br>opinion |  
-| bip_39_word_new_br3 | forward<br>opinion<br>uphold |  
-| bip_39_word_new_br4 | forward<br>opinion<br>uphold<br>buzz |  
-| bip_39_word_new_br5 | forward<br>opinion<br>uphold<br>buzz<br>tilt |  
-| bip_39_word_new_br6 | forward<br>opinion<br>uphold<br>buzz<br>tilt<br>nose |  
-| bip_39_word_new_br7 | forward<br>opinion<br>uphold<br>buzz<br>tilt<br>nose<br>firm |  
-| bip_39_word_new_br8 | forward<br>opinion<br>uphold<br>buzz<br>tilt<br>nose<br>firm<br>leave |  
-| bip_39_word_new_br9 | forward<br>opinion<br>uphold<br>buzz<br>tilt<br>nose<br>firm<br>leave<br>admit |  
-| bip_39_word_new_line1 | forward |  
-| bip_39_word_new_line10 | forward
+| bip_39_word_new_br_1 | forward |  
+| bip_39_word_new_br_10 | forward<br>opinion<br>uphold<br>buzz<br>tilt<br>nose<br>firm<br>leave<br>admit<br>siege |  
+| bip_39_word_new_br_11 | forward<br>opinion<br>uphold<br>buzz<br>tilt<br>nose<br>firm<br>leave<br>admit<br>siege<br>stable |  
+| bip_39_word_new_br_12 | forward<br>opinion<br>uphold<br>buzz<br>tilt<br>nose<br>firm<br>leave<br>admit<br>siege<br>stable<br>above |  
+| bip_39_word_new_br_2 | forward<br>opinion |  
+| bip_39_word_new_br_3 | forward<br>opinion<br>uphold |  
+| bip_39_word_new_br_4 | forward<br>opinion<br>uphold<br>buzz |  
+| bip_39_word_new_br_5 | forward<br>opinion<br>uphold<br>buzz<br>tilt |  
+| bip_39_word_new_br_6 | forward<br>opinion<br>uphold<br>buzz<br>tilt<br>nose |  
+| bip_39_word_new_br_7 | forward<br>opinion<br>uphold<br>buzz<br>tilt<br>nose<br>firm |  
+| bip_39_word_new_br_8 | forward<br>opinion<br>uphold<br>buzz<br>tilt<br>nose<br>firm<br>leave |  
+| bip_39_word_new_br_9 | forward<br>opinion<br>uphold<br>buzz<br>tilt<br>nose<br>firm<br>leave<br>admit |  
+| bip_39_word_new_line_1 | forward |  
+| bip_39_word_new_line_10 | forward
 opinion
 uphold
 buzz
@@ -55,7 +55,7 @@ firm
 leave
 admit
 siege |  
-| bip_39_word_new_line11 | forward
+| bip_39_word_new_line_11 | forward
 opinion
 uphold
 buzz
@@ -66,7 +66,7 @@ leave
 admit
 siege
 stable |  
-| bip_39_word_new_line12 | forward
+| bip_39_word_new_line_12 | forward
 opinion
 uphold
 buzz
@@ -78,34 +78,34 @@ admit
 siege
 stable
 above |  
-| bip_39_word_new_line2 | forward
+| bip_39_word_new_line_2 | forward
 opinion |  
-| bip_39_word_new_line3 | forward
+| bip_39_word_new_line_3 | forward
 opinion
 uphold |  
-| bip_39_word_new_line4 | forward
+| bip_39_word_new_line_4 | forward
 opinion
 uphold
 buzz |  
-| bip_39_word_new_line5 | forward
+| bip_39_word_new_line_5 | forward
 opinion
 uphold
 buzz
 tilt |  
-| bip_39_word_new_line6 | forward
+| bip_39_word_new_line_6 | forward
 opinion
 uphold
 buzz
 tilt
 nose |  
-| bip_39_word_new_line7 | forward
+| bip_39_word_new_line_7 | forward
 opinion
 uphold
 buzz
 tilt
 nose
 firm |  
-| bip_39_word_new_line8 | forward
+| bip_39_word_new_line_8 | forward
 opinion
 uphold
 buzz
@@ -113,7 +113,7 @@ tilt
 nose
 firm
 leave |  
-| bip_39_word_new_line9 | forward
+| bip_39_word_new_line_9 | forward
 opinion
 uphold
 buzz

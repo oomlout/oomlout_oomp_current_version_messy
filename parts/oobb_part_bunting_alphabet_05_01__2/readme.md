@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | denial |  
-| bip_39_word_new_br10 | denial<br>twenty<br>wool<br>success<br>bless<br>mask<br>above<br>iron<br>lizard<br>basic |  
-| bip_39_word_new_br11 | denial<br>twenty<br>wool<br>success<br>bless<br>mask<br>above<br>iron<br>lizard<br>basic<br>swarm |  
-| bip_39_word_new_br12 | denial<br>twenty<br>wool<br>success<br>bless<br>mask<br>above<br>iron<br>lizard<br>basic<br>swarm<br>alone |  
-| bip_39_word_new_br2 | denial<br>twenty |  
-| bip_39_word_new_br3 | denial<br>twenty<br>wool |  
-| bip_39_word_new_br4 | denial<br>twenty<br>wool<br>success |  
-| bip_39_word_new_br5 | denial<br>twenty<br>wool<br>success<br>bless |  
-| bip_39_word_new_br6 | denial<br>twenty<br>wool<br>success<br>bless<br>mask |  
-| bip_39_word_new_br7 | denial<br>twenty<br>wool<br>success<br>bless<br>mask<br>above |  
-| bip_39_word_new_br8 | denial<br>twenty<br>wool<br>success<br>bless<br>mask<br>above<br>iron |  
-| bip_39_word_new_br9 | denial<br>twenty<br>wool<br>success<br>bless<br>mask<br>above<br>iron<br>lizard |  
-| bip_39_word_new_line1 | denial |  
-| bip_39_word_new_line10 | denial
+| bip_39_word_new_br_1 | denial |  
+| bip_39_word_new_br_10 | denial<br>twenty<br>wool<br>success<br>bless<br>mask<br>above<br>iron<br>lizard<br>basic |  
+| bip_39_word_new_br_11 | denial<br>twenty<br>wool<br>success<br>bless<br>mask<br>above<br>iron<br>lizard<br>basic<br>swarm |  
+| bip_39_word_new_br_12 | denial<br>twenty<br>wool<br>success<br>bless<br>mask<br>above<br>iron<br>lizard<br>basic<br>swarm<br>alone |  
+| bip_39_word_new_br_2 | denial<br>twenty |  
+| bip_39_word_new_br_3 | denial<br>twenty<br>wool |  
+| bip_39_word_new_br_4 | denial<br>twenty<br>wool<br>success |  
+| bip_39_word_new_br_5 | denial<br>twenty<br>wool<br>success<br>bless |  
+| bip_39_word_new_br_6 | denial<br>twenty<br>wool<br>success<br>bless<br>mask |  
+| bip_39_word_new_br_7 | denial<br>twenty<br>wool<br>success<br>bless<br>mask<br>above |  
+| bip_39_word_new_br_8 | denial<br>twenty<br>wool<br>success<br>bless<br>mask<br>above<br>iron |  
+| bip_39_word_new_br_9 | denial<br>twenty<br>wool<br>success<br>bless<br>mask<br>above<br>iron<br>lizard |  
+| bip_39_word_new_line_1 | denial |  
+| bip_39_word_new_line_10 | denial
 twenty
 wool
 success
@@ -55,7 +55,7 @@ above
 iron
 lizard
 basic |  
-| bip_39_word_new_line11 | denial
+| bip_39_word_new_line_11 | denial
 twenty
 wool
 success
@@ -66,7 +66,7 @@ iron
 lizard
 basic
 swarm |  
-| bip_39_word_new_line12 | denial
+| bip_39_word_new_line_12 | denial
 twenty
 wool
 success
@@ -78,34 +78,34 @@ lizard
 basic
 swarm
 alone |  
-| bip_39_word_new_line2 | denial
+| bip_39_word_new_line_2 | denial
 twenty |  
-| bip_39_word_new_line3 | denial
+| bip_39_word_new_line_3 | denial
 twenty
 wool |  
-| bip_39_word_new_line4 | denial
+| bip_39_word_new_line_4 | denial
 twenty
 wool
 success |  
-| bip_39_word_new_line5 | denial
+| bip_39_word_new_line_5 | denial
 twenty
 wool
 success
 bless |  
-| bip_39_word_new_line6 | denial
+| bip_39_word_new_line_6 | denial
 twenty
 wool
 success
 bless
 mask |  
-| bip_39_word_new_line7 | denial
+| bip_39_word_new_line_7 | denial
 twenty
 wool
 success
 bless
 mask
 above |  
-| bip_39_word_new_line8 | denial
+| bip_39_word_new_line_8 | denial
 twenty
 wool
 success
@@ -113,7 +113,7 @@ bless
 mask
 above
 iron |  
-| bip_39_word_new_line9 | denial
+| bip_39_word_new_line_9 | denial
 twenty
 wool
 success

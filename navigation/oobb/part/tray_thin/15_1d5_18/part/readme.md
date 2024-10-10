@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | seminar |  
-| bip_39_word_new_br10 | seminar<br>snow<br>wait<br>powder<br>aim<br>code<br>curtain<br>chair<br>dolphin<br>kit |  
-| bip_39_word_new_br11 | seminar<br>snow<br>wait<br>powder<br>aim<br>code<br>curtain<br>chair<br>dolphin<br>kit<br>flip |  
-| bip_39_word_new_br12 | seminar<br>snow<br>wait<br>powder<br>aim<br>code<br>curtain<br>chair<br>dolphin<br>kit<br>flip<br>adjust |  
-| bip_39_word_new_br2 | seminar<br>snow |  
-| bip_39_word_new_br3 | seminar<br>snow<br>wait |  
-| bip_39_word_new_br4 | seminar<br>snow<br>wait<br>powder |  
-| bip_39_word_new_br5 | seminar<br>snow<br>wait<br>powder<br>aim |  
-| bip_39_word_new_br6 | seminar<br>snow<br>wait<br>powder<br>aim<br>code |  
-| bip_39_word_new_br7 | seminar<br>snow<br>wait<br>powder<br>aim<br>code<br>curtain |  
-| bip_39_word_new_br8 | seminar<br>snow<br>wait<br>powder<br>aim<br>code<br>curtain<br>chair |  
-| bip_39_word_new_br9 | seminar<br>snow<br>wait<br>powder<br>aim<br>code<br>curtain<br>chair<br>dolphin |  
-| bip_39_word_new_line1 | seminar |  
-| bip_39_word_new_line10 | seminar
+| bip_39_word_new_br_1 | seminar |  
+| bip_39_word_new_br_10 | seminar<br>snow<br>wait<br>powder<br>aim<br>code<br>curtain<br>chair<br>dolphin<br>kit |  
+| bip_39_word_new_br_11 | seminar<br>snow<br>wait<br>powder<br>aim<br>code<br>curtain<br>chair<br>dolphin<br>kit<br>flip |  
+| bip_39_word_new_br_12 | seminar<br>snow<br>wait<br>powder<br>aim<br>code<br>curtain<br>chair<br>dolphin<br>kit<br>flip<br>adjust |  
+| bip_39_word_new_br_2 | seminar<br>snow |  
+| bip_39_word_new_br_3 | seminar<br>snow<br>wait |  
+| bip_39_word_new_br_4 | seminar<br>snow<br>wait<br>powder |  
+| bip_39_word_new_br_5 | seminar<br>snow<br>wait<br>powder<br>aim |  
+| bip_39_word_new_br_6 | seminar<br>snow<br>wait<br>powder<br>aim<br>code |  
+| bip_39_word_new_br_7 | seminar<br>snow<br>wait<br>powder<br>aim<br>code<br>curtain |  
+| bip_39_word_new_br_8 | seminar<br>snow<br>wait<br>powder<br>aim<br>code<br>curtain<br>chair |  
+| bip_39_word_new_br_9 | seminar<br>snow<br>wait<br>powder<br>aim<br>code<br>curtain<br>chair<br>dolphin |  
+| bip_39_word_new_line_1 | seminar |  
+| bip_39_word_new_line_10 | seminar
 snow
 wait
 powder
@@ -55,7 +55,7 @@ curtain
 chair
 dolphin
 kit |  
-| bip_39_word_new_line11 | seminar
+| bip_39_word_new_line_11 | seminar
 snow
 wait
 powder
@@ -66,7 +66,7 @@ chair
 dolphin
 kit
 flip |  
-| bip_39_word_new_line12 | seminar
+| bip_39_word_new_line_12 | seminar
 snow
 wait
 powder
@@ -78,34 +78,34 @@ dolphin
 kit
 flip
 adjust |  
-| bip_39_word_new_line2 | seminar
+| bip_39_word_new_line_2 | seminar
 snow |  
-| bip_39_word_new_line3 | seminar
+| bip_39_word_new_line_3 | seminar
 snow
 wait |  
-| bip_39_word_new_line4 | seminar
+| bip_39_word_new_line_4 | seminar
 snow
 wait
 powder |  
-| bip_39_word_new_line5 | seminar
+| bip_39_word_new_line_5 | seminar
 snow
 wait
 powder
 aim |  
-| bip_39_word_new_line6 | seminar
+| bip_39_word_new_line_6 | seminar
 snow
 wait
 powder
 aim
 code |  
-| bip_39_word_new_line7 | seminar
+| bip_39_word_new_line_7 | seminar
 snow
 wait
 powder
 aim
 code
 curtain |  
-| bip_39_word_new_line8 | seminar
+| bip_39_word_new_line_8 | seminar
 snow
 wait
 powder
@@ -113,7 +113,7 @@ aim
 code
 curtain
 chair |  
-| bip_39_word_new_line9 | seminar
+| bip_39_word_new_line_9 | seminar
 snow
 wait
 powder

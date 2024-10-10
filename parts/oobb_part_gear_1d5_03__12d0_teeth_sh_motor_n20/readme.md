@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | guitar |  
-| bip_39_word_new_br10 | guitar<br>capable<br>snap<br>setup<br>priority<br>pretty<br>crime<br>unfold<br>present<br>hint |  
-| bip_39_word_new_br11 | guitar<br>capable<br>snap<br>setup<br>priority<br>pretty<br>crime<br>unfold<br>present<br>hint<br>label |  
-| bip_39_word_new_br12 | guitar<br>capable<br>snap<br>setup<br>priority<br>pretty<br>crime<br>unfold<br>present<br>hint<br>label<br>audit |  
-| bip_39_word_new_br2 | guitar<br>capable |  
-| bip_39_word_new_br3 | guitar<br>capable<br>snap |  
-| bip_39_word_new_br4 | guitar<br>capable<br>snap<br>setup |  
-| bip_39_word_new_br5 | guitar<br>capable<br>snap<br>setup<br>priority |  
-| bip_39_word_new_br6 | guitar<br>capable<br>snap<br>setup<br>priority<br>pretty |  
-| bip_39_word_new_br7 | guitar<br>capable<br>snap<br>setup<br>priority<br>pretty<br>crime |  
-| bip_39_word_new_br8 | guitar<br>capable<br>snap<br>setup<br>priority<br>pretty<br>crime<br>unfold |  
-| bip_39_word_new_br9 | guitar<br>capable<br>snap<br>setup<br>priority<br>pretty<br>crime<br>unfold<br>present |  
-| bip_39_word_new_line1 | guitar |  
-| bip_39_word_new_line10 | guitar
+| bip_39_word_new_br_1 | guitar |  
+| bip_39_word_new_br_10 | guitar<br>capable<br>snap<br>setup<br>priority<br>pretty<br>crime<br>unfold<br>present<br>hint |  
+| bip_39_word_new_br_11 | guitar<br>capable<br>snap<br>setup<br>priority<br>pretty<br>crime<br>unfold<br>present<br>hint<br>label |  
+| bip_39_word_new_br_12 | guitar<br>capable<br>snap<br>setup<br>priority<br>pretty<br>crime<br>unfold<br>present<br>hint<br>label<br>audit |  
+| bip_39_word_new_br_2 | guitar<br>capable |  
+| bip_39_word_new_br_3 | guitar<br>capable<br>snap |  
+| bip_39_word_new_br_4 | guitar<br>capable<br>snap<br>setup |  
+| bip_39_word_new_br_5 | guitar<br>capable<br>snap<br>setup<br>priority |  
+| bip_39_word_new_br_6 | guitar<br>capable<br>snap<br>setup<br>priority<br>pretty |  
+| bip_39_word_new_br_7 | guitar<br>capable<br>snap<br>setup<br>priority<br>pretty<br>crime |  
+| bip_39_word_new_br_8 | guitar<br>capable<br>snap<br>setup<br>priority<br>pretty<br>crime<br>unfold |  
+| bip_39_word_new_br_9 | guitar<br>capable<br>snap<br>setup<br>priority<br>pretty<br>crime<br>unfold<br>present |  
+| bip_39_word_new_line_1 | guitar |  
+| bip_39_word_new_line_10 | guitar
 capable
 snap
 setup
@@ -55,7 +55,7 @@ crime
 unfold
 present
 hint |  
-| bip_39_word_new_line11 | guitar
+| bip_39_word_new_line_11 | guitar
 capable
 snap
 setup
@@ -66,7 +66,7 @@ unfold
 present
 hint
 label |  
-| bip_39_word_new_line12 | guitar
+| bip_39_word_new_line_12 | guitar
 capable
 snap
 setup
@@ -78,34 +78,34 @@ present
 hint
 label
 audit |  
-| bip_39_word_new_line2 | guitar
+| bip_39_word_new_line_2 | guitar
 capable |  
-| bip_39_word_new_line3 | guitar
+| bip_39_word_new_line_3 | guitar
 capable
 snap |  
-| bip_39_word_new_line4 | guitar
+| bip_39_word_new_line_4 | guitar
 capable
 snap
 setup |  
-| bip_39_word_new_line5 | guitar
+| bip_39_word_new_line_5 | guitar
 capable
 snap
 setup
 priority |  
-| bip_39_word_new_line6 | guitar
+| bip_39_word_new_line_6 | guitar
 capable
 snap
 setup
 priority
 pretty |  
-| bip_39_word_new_line7 | guitar
+| bip_39_word_new_line_7 | guitar
 capable
 snap
 setup
 priority
 pretty
 crime |  
-| bip_39_word_new_line8 | guitar
+| bip_39_word_new_line_8 | guitar
 capable
 snap
 setup
@@ -113,7 +113,7 @@ priority
 pretty
 crime
 unfold |  
-| bip_39_word_new_line9 | guitar
+| bip_39_word_new_line_9 | guitar
 capable
 snap
 setup

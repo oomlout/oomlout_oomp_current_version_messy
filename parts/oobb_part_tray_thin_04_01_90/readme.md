@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | buddy |  
-| bip_39_word_new_br10 | buddy<br>entry<br>vacant<br>ankle<br>skate<br>coconut<br>select<br>crunch<br>album<br>meat |  
-| bip_39_word_new_br11 | buddy<br>entry<br>vacant<br>ankle<br>skate<br>coconut<br>select<br>crunch<br>album<br>meat<br>cruise |  
-| bip_39_word_new_br12 | buddy<br>entry<br>vacant<br>ankle<br>skate<br>coconut<br>select<br>crunch<br>album<br>meat<br>cruise<br>also |  
-| bip_39_word_new_br2 | buddy<br>entry |  
-| bip_39_word_new_br3 | buddy<br>entry<br>vacant |  
-| bip_39_word_new_br4 | buddy<br>entry<br>vacant<br>ankle |  
-| bip_39_word_new_br5 | buddy<br>entry<br>vacant<br>ankle<br>skate |  
-| bip_39_word_new_br6 | buddy<br>entry<br>vacant<br>ankle<br>skate<br>coconut |  
-| bip_39_word_new_br7 | buddy<br>entry<br>vacant<br>ankle<br>skate<br>coconut<br>select |  
-| bip_39_word_new_br8 | buddy<br>entry<br>vacant<br>ankle<br>skate<br>coconut<br>select<br>crunch |  
-| bip_39_word_new_br9 | buddy<br>entry<br>vacant<br>ankle<br>skate<br>coconut<br>select<br>crunch<br>album |  
-| bip_39_word_new_line1 | buddy |  
-| bip_39_word_new_line10 | buddy
+| bip_39_word_new_br_1 | buddy |  
+| bip_39_word_new_br_10 | buddy<br>entry<br>vacant<br>ankle<br>skate<br>coconut<br>select<br>crunch<br>album<br>meat |  
+| bip_39_word_new_br_11 | buddy<br>entry<br>vacant<br>ankle<br>skate<br>coconut<br>select<br>crunch<br>album<br>meat<br>cruise |  
+| bip_39_word_new_br_12 | buddy<br>entry<br>vacant<br>ankle<br>skate<br>coconut<br>select<br>crunch<br>album<br>meat<br>cruise<br>also |  
+| bip_39_word_new_br_2 | buddy<br>entry |  
+| bip_39_word_new_br_3 | buddy<br>entry<br>vacant |  
+| bip_39_word_new_br_4 | buddy<br>entry<br>vacant<br>ankle |  
+| bip_39_word_new_br_5 | buddy<br>entry<br>vacant<br>ankle<br>skate |  
+| bip_39_word_new_br_6 | buddy<br>entry<br>vacant<br>ankle<br>skate<br>coconut |  
+| bip_39_word_new_br_7 | buddy<br>entry<br>vacant<br>ankle<br>skate<br>coconut<br>select |  
+| bip_39_word_new_br_8 | buddy<br>entry<br>vacant<br>ankle<br>skate<br>coconut<br>select<br>crunch |  
+| bip_39_word_new_br_9 | buddy<br>entry<br>vacant<br>ankle<br>skate<br>coconut<br>select<br>crunch<br>album |  
+| bip_39_word_new_line_1 | buddy |  
+| bip_39_word_new_line_10 | buddy
 entry
 vacant
 ankle
@@ -55,7 +55,7 @@ select
 crunch
 album
 meat |  
-| bip_39_word_new_line11 | buddy
+| bip_39_word_new_line_11 | buddy
 entry
 vacant
 ankle
@@ -66,7 +66,7 @@ crunch
 album
 meat
 cruise |  
-| bip_39_word_new_line12 | buddy
+| bip_39_word_new_line_12 | buddy
 entry
 vacant
 ankle
@@ -78,34 +78,34 @@ album
 meat
 cruise
 also |  
-| bip_39_word_new_line2 | buddy
+| bip_39_word_new_line_2 | buddy
 entry |  
-| bip_39_word_new_line3 | buddy
+| bip_39_word_new_line_3 | buddy
 entry
 vacant |  
-| bip_39_word_new_line4 | buddy
+| bip_39_word_new_line_4 | buddy
 entry
 vacant
 ankle |  
-| bip_39_word_new_line5 | buddy
+| bip_39_word_new_line_5 | buddy
 entry
 vacant
 ankle
 skate |  
-| bip_39_word_new_line6 | buddy
+| bip_39_word_new_line_6 | buddy
 entry
 vacant
 ankle
 skate
 coconut |  
-| bip_39_word_new_line7 | buddy
+| bip_39_word_new_line_7 | buddy
 entry
 vacant
 ankle
 skate
 coconut
 select |  
-| bip_39_word_new_line8 | buddy
+| bip_39_word_new_line_8 | buddy
 entry
 vacant
 ankle
@@ -113,7 +113,7 @@ skate
 coconut
 select
 crunch |  
-| bip_39_word_new_line9 | buddy
+| bip_39_word_new_line_9 | buddy
 entry
 vacant
 ankle

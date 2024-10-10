@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | measure |  
-| bip_39_word_new_br10 | measure<br>deny<br>trumpet<br>fresh<br>track<br>lottery<br>wreck<br>decide<br>cool<br>dilemma |  
-| bip_39_word_new_br11 | measure<br>deny<br>trumpet<br>fresh<br>track<br>lottery<br>wreck<br>decide<br>cool<br>dilemma<br>useless |  
-| bip_39_word_new_br12 | measure<br>deny<br>trumpet<br>fresh<br>track<br>lottery<br>wreck<br>decide<br>cool<br>dilemma<br>useless<br>acquire |  
-| bip_39_word_new_br2 | measure<br>deny |  
-| bip_39_word_new_br3 | measure<br>deny<br>trumpet |  
-| bip_39_word_new_br4 | measure<br>deny<br>trumpet<br>fresh |  
-| bip_39_word_new_br5 | measure<br>deny<br>trumpet<br>fresh<br>track |  
-| bip_39_word_new_br6 | measure<br>deny<br>trumpet<br>fresh<br>track<br>lottery |  
-| bip_39_word_new_br7 | measure<br>deny<br>trumpet<br>fresh<br>track<br>lottery<br>wreck |  
-| bip_39_word_new_br8 | measure<br>deny<br>trumpet<br>fresh<br>track<br>lottery<br>wreck<br>decide |  
-| bip_39_word_new_br9 | measure<br>deny<br>trumpet<br>fresh<br>track<br>lottery<br>wreck<br>decide<br>cool |  
-| bip_39_word_new_line1 | measure |  
-| bip_39_word_new_line10 | measure
+| bip_39_word_new_br_1 | measure |  
+| bip_39_word_new_br_10 | measure<br>deny<br>trumpet<br>fresh<br>track<br>lottery<br>wreck<br>decide<br>cool<br>dilemma |  
+| bip_39_word_new_br_11 | measure<br>deny<br>trumpet<br>fresh<br>track<br>lottery<br>wreck<br>decide<br>cool<br>dilemma<br>useless |  
+| bip_39_word_new_br_12 | measure<br>deny<br>trumpet<br>fresh<br>track<br>lottery<br>wreck<br>decide<br>cool<br>dilemma<br>useless<br>acquire |  
+| bip_39_word_new_br_2 | measure<br>deny |  
+| bip_39_word_new_br_3 | measure<br>deny<br>trumpet |  
+| bip_39_word_new_br_4 | measure<br>deny<br>trumpet<br>fresh |  
+| bip_39_word_new_br_5 | measure<br>deny<br>trumpet<br>fresh<br>track |  
+| bip_39_word_new_br_6 | measure<br>deny<br>trumpet<br>fresh<br>track<br>lottery |  
+| bip_39_word_new_br_7 | measure<br>deny<br>trumpet<br>fresh<br>track<br>lottery<br>wreck |  
+| bip_39_word_new_br_8 | measure<br>deny<br>trumpet<br>fresh<br>track<br>lottery<br>wreck<br>decide |  
+| bip_39_word_new_br_9 | measure<br>deny<br>trumpet<br>fresh<br>track<br>lottery<br>wreck<br>decide<br>cool |  
+| bip_39_word_new_line_1 | measure |  
+| bip_39_word_new_line_10 | measure
 deny
 trumpet
 fresh
@@ -55,7 +55,7 @@ wreck
 decide
 cool
 dilemma |  
-| bip_39_word_new_line11 | measure
+| bip_39_word_new_line_11 | measure
 deny
 trumpet
 fresh
@@ -66,7 +66,7 @@ decide
 cool
 dilemma
 useless |  
-| bip_39_word_new_line12 | measure
+| bip_39_word_new_line_12 | measure
 deny
 trumpet
 fresh
@@ -78,34 +78,34 @@ cool
 dilemma
 useless
 acquire |  
-| bip_39_word_new_line2 | measure
+| bip_39_word_new_line_2 | measure
 deny |  
-| bip_39_word_new_line3 | measure
+| bip_39_word_new_line_3 | measure
 deny
 trumpet |  
-| bip_39_word_new_line4 | measure
+| bip_39_word_new_line_4 | measure
 deny
 trumpet
 fresh |  
-| bip_39_word_new_line5 | measure
+| bip_39_word_new_line_5 | measure
 deny
 trumpet
 fresh
 track |  
-| bip_39_word_new_line6 | measure
+| bip_39_word_new_line_6 | measure
 deny
 trumpet
 fresh
 track
 lottery |  
-| bip_39_word_new_line7 | measure
+| bip_39_word_new_line_7 | measure
 deny
 trumpet
 fresh
 track
 lottery
 wreck |  
-| bip_39_word_new_line8 | measure
+| bip_39_word_new_line_8 | measure
 deny
 trumpet
 fresh
@@ -113,7 +113,7 @@ track
 lottery
 wreck
 decide |  
-| bip_39_word_new_line9 | measure
+| bip_39_word_new_line_9 | measure
 deny
 trumpet
 fresh

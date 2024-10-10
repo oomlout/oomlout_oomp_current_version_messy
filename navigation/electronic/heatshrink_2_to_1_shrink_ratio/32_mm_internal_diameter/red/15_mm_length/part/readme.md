@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | reward |  
-| bip_39_word_new_br10 | reward<br>uncover<br>report<br>fish<br>address<br>retire<br>try<br>rebel<br>duty<br>oyster |  
-| bip_39_word_new_br11 | reward<br>uncover<br>report<br>fish<br>address<br>retire<br>try<br>rebel<br>duty<br>oyster<br>exact |  
-| bip_39_word_new_br12 | reward<br>uncover<br>report<br>fish<br>address<br>retire<br>try<br>rebel<br>duty<br>oyster<br>exact<br>angry |  
-| bip_39_word_new_br2 | reward<br>uncover |  
-| bip_39_word_new_br3 | reward<br>uncover<br>report |  
-| bip_39_word_new_br4 | reward<br>uncover<br>report<br>fish |  
-| bip_39_word_new_br5 | reward<br>uncover<br>report<br>fish<br>address |  
-| bip_39_word_new_br6 | reward<br>uncover<br>report<br>fish<br>address<br>retire |  
-| bip_39_word_new_br7 | reward<br>uncover<br>report<br>fish<br>address<br>retire<br>try |  
-| bip_39_word_new_br8 | reward<br>uncover<br>report<br>fish<br>address<br>retire<br>try<br>rebel |  
-| bip_39_word_new_br9 | reward<br>uncover<br>report<br>fish<br>address<br>retire<br>try<br>rebel<br>duty |  
-| bip_39_word_new_line1 | reward |  
-| bip_39_word_new_line10 | reward
+| bip_39_word_new_br_1 | reward |  
+| bip_39_word_new_br_10 | reward<br>uncover<br>report<br>fish<br>address<br>retire<br>try<br>rebel<br>duty<br>oyster |  
+| bip_39_word_new_br_11 | reward<br>uncover<br>report<br>fish<br>address<br>retire<br>try<br>rebel<br>duty<br>oyster<br>exact |  
+| bip_39_word_new_br_12 | reward<br>uncover<br>report<br>fish<br>address<br>retire<br>try<br>rebel<br>duty<br>oyster<br>exact<br>angry |  
+| bip_39_word_new_br_2 | reward<br>uncover |  
+| bip_39_word_new_br_3 | reward<br>uncover<br>report |  
+| bip_39_word_new_br_4 | reward<br>uncover<br>report<br>fish |  
+| bip_39_word_new_br_5 | reward<br>uncover<br>report<br>fish<br>address |  
+| bip_39_word_new_br_6 | reward<br>uncover<br>report<br>fish<br>address<br>retire |  
+| bip_39_word_new_br_7 | reward<br>uncover<br>report<br>fish<br>address<br>retire<br>try |  
+| bip_39_word_new_br_8 | reward<br>uncover<br>report<br>fish<br>address<br>retire<br>try<br>rebel |  
+| bip_39_word_new_br_9 | reward<br>uncover<br>report<br>fish<br>address<br>retire<br>try<br>rebel<br>duty |  
+| bip_39_word_new_line_1 | reward |  
+| bip_39_word_new_line_10 | reward
 uncover
 report
 fish
@@ -55,7 +55,7 @@ try
 rebel
 duty
 oyster |  
-| bip_39_word_new_line11 | reward
+| bip_39_word_new_line_11 | reward
 uncover
 report
 fish
@@ -66,7 +66,7 @@ rebel
 duty
 oyster
 exact |  
-| bip_39_word_new_line12 | reward
+| bip_39_word_new_line_12 | reward
 uncover
 report
 fish
@@ -78,34 +78,34 @@ duty
 oyster
 exact
 angry |  
-| bip_39_word_new_line2 | reward
+| bip_39_word_new_line_2 | reward
 uncover |  
-| bip_39_word_new_line3 | reward
+| bip_39_word_new_line_3 | reward
 uncover
 report |  
-| bip_39_word_new_line4 | reward
+| bip_39_word_new_line_4 | reward
 uncover
 report
 fish |  
-| bip_39_word_new_line5 | reward
+| bip_39_word_new_line_5 | reward
 uncover
 report
 fish
 address |  
-| bip_39_word_new_line6 | reward
+| bip_39_word_new_line_6 | reward
 uncover
 report
 fish
 address
 retire |  
-| bip_39_word_new_line7 | reward
+| bip_39_word_new_line_7 | reward
 uncover
 report
 fish
 address
 retire
 try |  
-| bip_39_word_new_line8 | reward
+| bip_39_word_new_line_8 | reward
 uncover
 report
 fish
@@ -113,7 +113,7 @@ address
 retire
 try
 rebel |  
-| bip_39_word_new_line9 | reward
+| bip_39_word_new_line_9 | reward
 uncover
 report
 fish

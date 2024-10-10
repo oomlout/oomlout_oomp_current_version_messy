@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | erupt |  
-| bip_39_word_new_br10 | erupt<br>divorce<br>burger<br>tuition<br>observe<br>torch<br>school<br>high<br>able<br>spider |  
-| bip_39_word_new_br11 | erupt<br>divorce<br>burger<br>tuition<br>observe<br>torch<br>school<br>high<br>able<br>spider<br>brave |  
-| bip_39_word_new_br12 | erupt<br>divorce<br>burger<br>tuition<br>observe<br>torch<br>school<br>high<br>able<br>spider<br>brave<br>always |  
-| bip_39_word_new_br2 | erupt<br>divorce |  
-| bip_39_word_new_br3 | erupt<br>divorce<br>burger |  
-| bip_39_word_new_br4 | erupt<br>divorce<br>burger<br>tuition |  
-| bip_39_word_new_br5 | erupt<br>divorce<br>burger<br>tuition<br>observe |  
-| bip_39_word_new_br6 | erupt<br>divorce<br>burger<br>tuition<br>observe<br>torch |  
-| bip_39_word_new_br7 | erupt<br>divorce<br>burger<br>tuition<br>observe<br>torch<br>school |  
-| bip_39_word_new_br8 | erupt<br>divorce<br>burger<br>tuition<br>observe<br>torch<br>school<br>high |  
-| bip_39_word_new_br9 | erupt<br>divorce<br>burger<br>tuition<br>observe<br>torch<br>school<br>high<br>able |  
-| bip_39_word_new_line1 | erupt |  
-| bip_39_word_new_line10 | erupt
+| bip_39_word_new_br_1 | erupt |  
+| bip_39_word_new_br_10 | erupt<br>divorce<br>burger<br>tuition<br>observe<br>torch<br>school<br>high<br>able<br>spider |  
+| bip_39_word_new_br_11 | erupt<br>divorce<br>burger<br>tuition<br>observe<br>torch<br>school<br>high<br>able<br>spider<br>brave |  
+| bip_39_word_new_br_12 | erupt<br>divorce<br>burger<br>tuition<br>observe<br>torch<br>school<br>high<br>able<br>spider<br>brave<br>always |  
+| bip_39_word_new_br_2 | erupt<br>divorce |  
+| bip_39_word_new_br_3 | erupt<br>divorce<br>burger |  
+| bip_39_word_new_br_4 | erupt<br>divorce<br>burger<br>tuition |  
+| bip_39_word_new_br_5 | erupt<br>divorce<br>burger<br>tuition<br>observe |  
+| bip_39_word_new_br_6 | erupt<br>divorce<br>burger<br>tuition<br>observe<br>torch |  
+| bip_39_word_new_br_7 | erupt<br>divorce<br>burger<br>tuition<br>observe<br>torch<br>school |  
+| bip_39_word_new_br_8 | erupt<br>divorce<br>burger<br>tuition<br>observe<br>torch<br>school<br>high |  
+| bip_39_word_new_br_9 | erupt<br>divorce<br>burger<br>tuition<br>observe<br>torch<br>school<br>high<br>able |  
+| bip_39_word_new_line_1 | erupt |  
+| bip_39_word_new_line_10 | erupt
 divorce
 burger
 tuition
@@ -55,7 +55,7 @@ school
 high
 able
 spider |  
-| bip_39_word_new_line11 | erupt
+| bip_39_word_new_line_11 | erupt
 divorce
 burger
 tuition
@@ -66,7 +66,7 @@ high
 able
 spider
 brave |  
-| bip_39_word_new_line12 | erupt
+| bip_39_word_new_line_12 | erupt
 divorce
 burger
 tuition
@@ -78,34 +78,34 @@ able
 spider
 brave
 always |  
-| bip_39_word_new_line2 | erupt
+| bip_39_word_new_line_2 | erupt
 divorce |  
-| bip_39_word_new_line3 | erupt
+| bip_39_word_new_line_3 | erupt
 divorce
 burger |  
-| bip_39_word_new_line4 | erupt
+| bip_39_word_new_line_4 | erupt
 divorce
 burger
 tuition |  
-| bip_39_word_new_line5 | erupt
+| bip_39_word_new_line_5 | erupt
 divorce
 burger
 tuition
 observe |  
-| bip_39_word_new_line6 | erupt
+| bip_39_word_new_line_6 | erupt
 divorce
 burger
 tuition
 observe
 torch |  
-| bip_39_word_new_line7 | erupt
+| bip_39_word_new_line_7 | erupt
 divorce
 burger
 tuition
 observe
 torch
 school |  
-| bip_39_word_new_line8 | erupt
+| bip_39_word_new_line_8 | erupt
 divorce
 burger
 tuition
@@ -113,7 +113,7 @@ observe
 torch
 school
 high |  
-| bip_39_word_new_line9 | erupt
+| bip_39_word_new_line_9 | erupt
 divorce
 burger
 tuition

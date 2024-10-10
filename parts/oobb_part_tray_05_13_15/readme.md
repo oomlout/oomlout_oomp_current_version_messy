@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | display |  
-| bip_39_word_new_br10 | display<br>patient<br>witness<br>bracket<br>original<br>sugar<br>army<br>sick<br>output<br>south |  
-| bip_39_word_new_br11 | display<br>patient<br>witness<br>bracket<br>original<br>sugar<br>army<br>sick<br>output<br>south<br>embark |  
-| bip_39_word_new_br12 | display<br>patient<br>witness<br>bracket<br>original<br>sugar<br>army<br>sick<br>output<br>south<br>embark<br>april |  
-| bip_39_word_new_br2 | display<br>patient |  
-| bip_39_word_new_br3 | display<br>patient<br>witness |  
-| bip_39_word_new_br4 | display<br>patient<br>witness<br>bracket |  
-| bip_39_word_new_br5 | display<br>patient<br>witness<br>bracket<br>original |  
-| bip_39_word_new_br6 | display<br>patient<br>witness<br>bracket<br>original<br>sugar |  
-| bip_39_word_new_br7 | display<br>patient<br>witness<br>bracket<br>original<br>sugar<br>army |  
-| bip_39_word_new_br8 | display<br>patient<br>witness<br>bracket<br>original<br>sugar<br>army<br>sick |  
-| bip_39_word_new_br9 | display<br>patient<br>witness<br>bracket<br>original<br>sugar<br>army<br>sick<br>output |  
-| bip_39_word_new_line1 | display |  
-| bip_39_word_new_line10 | display
+| bip_39_word_new_br_1 | display |  
+| bip_39_word_new_br_10 | display<br>patient<br>witness<br>bracket<br>original<br>sugar<br>army<br>sick<br>output<br>south |  
+| bip_39_word_new_br_11 | display<br>patient<br>witness<br>bracket<br>original<br>sugar<br>army<br>sick<br>output<br>south<br>embark |  
+| bip_39_word_new_br_12 | display<br>patient<br>witness<br>bracket<br>original<br>sugar<br>army<br>sick<br>output<br>south<br>embark<br>april |  
+| bip_39_word_new_br_2 | display<br>patient |  
+| bip_39_word_new_br_3 | display<br>patient<br>witness |  
+| bip_39_word_new_br_4 | display<br>patient<br>witness<br>bracket |  
+| bip_39_word_new_br_5 | display<br>patient<br>witness<br>bracket<br>original |  
+| bip_39_word_new_br_6 | display<br>patient<br>witness<br>bracket<br>original<br>sugar |  
+| bip_39_word_new_br_7 | display<br>patient<br>witness<br>bracket<br>original<br>sugar<br>army |  
+| bip_39_word_new_br_8 | display<br>patient<br>witness<br>bracket<br>original<br>sugar<br>army<br>sick |  
+| bip_39_word_new_br_9 | display<br>patient<br>witness<br>bracket<br>original<br>sugar<br>army<br>sick<br>output |  
+| bip_39_word_new_line_1 | display |  
+| bip_39_word_new_line_10 | display
 patient
 witness
 bracket
@@ -55,7 +55,7 @@ army
 sick
 output
 south |  
-| bip_39_word_new_line11 | display
+| bip_39_word_new_line_11 | display
 patient
 witness
 bracket
@@ -66,7 +66,7 @@ sick
 output
 south
 embark |  
-| bip_39_word_new_line12 | display
+| bip_39_word_new_line_12 | display
 patient
 witness
 bracket
@@ -78,34 +78,34 @@ output
 south
 embark
 april |  
-| bip_39_word_new_line2 | display
+| bip_39_word_new_line_2 | display
 patient |  
-| bip_39_word_new_line3 | display
+| bip_39_word_new_line_3 | display
 patient
 witness |  
-| bip_39_word_new_line4 | display
+| bip_39_word_new_line_4 | display
 patient
 witness
 bracket |  
-| bip_39_word_new_line5 | display
+| bip_39_word_new_line_5 | display
 patient
 witness
 bracket
 original |  
-| bip_39_word_new_line6 | display
+| bip_39_word_new_line_6 | display
 patient
 witness
 bracket
 original
 sugar |  
-| bip_39_word_new_line7 | display
+| bip_39_word_new_line_7 | display
 patient
 witness
 bracket
 original
 sugar
 army |  
-| bip_39_word_new_line8 | display
+| bip_39_word_new_line_8 | display
 patient
 witness
 bracket
@@ -113,7 +113,7 @@ original
 sugar
 army
 sick |  
-| bip_39_word_new_line9 | display
+| bip_39_word_new_line_9 | display
 patient
 witness
 bracket

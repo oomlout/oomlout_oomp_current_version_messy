@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mobile |  
-| bip_39_word_new_br10 | mobile<br>what<br>nut<br>junk<br>alpha<br>stay<br>ritual<br>shoulder<br>together<br>road |  
-| bip_39_word_new_br11 | mobile<br>what<br>nut<br>junk<br>alpha<br>stay<br>ritual<br>shoulder<br>together<br>road<br>hamster |  
-| bip_39_word_new_br12 | mobile<br>what<br>nut<br>junk<br>alpha<br>stay<br>ritual<br>shoulder<br>together<br>road<br>hamster<br>alter |  
-| bip_39_word_new_br2 | mobile<br>what |  
-| bip_39_word_new_br3 | mobile<br>what<br>nut |  
-| bip_39_word_new_br4 | mobile<br>what<br>nut<br>junk |  
-| bip_39_word_new_br5 | mobile<br>what<br>nut<br>junk<br>alpha |  
-| bip_39_word_new_br6 | mobile<br>what<br>nut<br>junk<br>alpha<br>stay |  
-| bip_39_word_new_br7 | mobile<br>what<br>nut<br>junk<br>alpha<br>stay<br>ritual |  
-| bip_39_word_new_br8 | mobile<br>what<br>nut<br>junk<br>alpha<br>stay<br>ritual<br>shoulder |  
-| bip_39_word_new_br9 | mobile<br>what<br>nut<br>junk<br>alpha<br>stay<br>ritual<br>shoulder<br>together |  
-| bip_39_word_new_line1 | mobile |  
-| bip_39_word_new_line10 | mobile
+| bip_39_word_new_br_1 | mobile |  
+| bip_39_word_new_br_10 | mobile<br>what<br>nut<br>junk<br>alpha<br>stay<br>ritual<br>shoulder<br>together<br>road |  
+| bip_39_word_new_br_11 | mobile<br>what<br>nut<br>junk<br>alpha<br>stay<br>ritual<br>shoulder<br>together<br>road<br>hamster |  
+| bip_39_word_new_br_12 | mobile<br>what<br>nut<br>junk<br>alpha<br>stay<br>ritual<br>shoulder<br>together<br>road<br>hamster<br>alter |  
+| bip_39_word_new_br_2 | mobile<br>what |  
+| bip_39_word_new_br_3 | mobile<br>what<br>nut |  
+| bip_39_word_new_br_4 | mobile<br>what<br>nut<br>junk |  
+| bip_39_word_new_br_5 | mobile<br>what<br>nut<br>junk<br>alpha |  
+| bip_39_word_new_br_6 | mobile<br>what<br>nut<br>junk<br>alpha<br>stay |  
+| bip_39_word_new_br_7 | mobile<br>what<br>nut<br>junk<br>alpha<br>stay<br>ritual |  
+| bip_39_word_new_br_8 | mobile<br>what<br>nut<br>junk<br>alpha<br>stay<br>ritual<br>shoulder |  
+| bip_39_word_new_br_9 | mobile<br>what<br>nut<br>junk<br>alpha<br>stay<br>ritual<br>shoulder<br>together |  
+| bip_39_word_new_line_1 | mobile |  
+| bip_39_word_new_line_10 | mobile
 what
 nut
 junk
@@ -55,7 +55,7 @@ ritual
 shoulder
 together
 road |  
-| bip_39_word_new_line11 | mobile
+| bip_39_word_new_line_11 | mobile
 what
 nut
 junk
@@ -66,7 +66,7 @@ shoulder
 together
 road
 hamster |  
-| bip_39_word_new_line12 | mobile
+| bip_39_word_new_line_12 | mobile
 what
 nut
 junk
@@ -78,34 +78,34 @@ together
 road
 hamster
 alter |  
-| bip_39_word_new_line2 | mobile
+| bip_39_word_new_line_2 | mobile
 what |  
-| bip_39_word_new_line3 | mobile
+| bip_39_word_new_line_3 | mobile
 what
 nut |  
-| bip_39_word_new_line4 | mobile
+| bip_39_word_new_line_4 | mobile
 what
 nut
 junk |  
-| bip_39_word_new_line5 | mobile
+| bip_39_word_new_line_5 | mobile
 what
 nut
 junk
 alpha |  
-| bip_39_word_new_line6 | mobile
+| bip_39_word_new_line_6 | mobile
 what
 nut
 junk
 alpha
 stay |  
-| bip_39_word_new_line7 | mobile
+| bip_39_word_new_line_7 | mobile
 what
 nut
 junk
 alpha
 stay
 ritual |  
-| bip_39_word_new_line8 | mobile
+| bip_39_word_new_line_8 | mobile
 what
 nut
 junk
@@ -113,7 +113,7 @@ alpha
 stay
 ritual
 shoulder |  
-| bip_39_word_new_line9 | mobile
+| bip_39_word_new_line_9 | mobile
 what
 nut
 junk

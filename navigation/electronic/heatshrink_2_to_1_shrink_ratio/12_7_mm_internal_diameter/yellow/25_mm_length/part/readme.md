@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | giggle |  
-| bip_39_word_new_br10 | giggle<br>champion<br>exchange<br>bread<br>arrow<br>around<br>wheat<br>churn<br>birth<br>permit |  
-| bip_39_word_new_br11 | giggle<br>champion<br>exchange<br>bread<br>arrow<br>around<br>wheat<br>churn<br>birth<br>permit<br>spread |  
-| bip_39_word_new_br12 | giggle<br>champion<br>exchange<br>bread<br>arrow<br>around<br>wheat<br>churn<br>birth<br>permit<br>spread<br>anchor |  
-| bip_39_word_new_br2 | giggle<br>champion |  
-| bip_39_word_new_br3 | giggle<br>champion<br>exchange |  
-| bip_39_word_new_br4 | giggle<br>champion<br>exchange<br>bread |  
-| bip_39_word_new_br5 | giggle<br>champion<br>exchange<br>bread<br>arrow |  
-| bip_39_word_new_br6 | giggle<br>champion<br>exchange<br>bread<br>arrow<br>around |  
-| bip_39_word_new_br7 | giggle<br>champion<br>exchange<br>bread<br>arrow<br>around<br>wheat |  
-| bip_39_word_new_br8 | giggle<br>champion<br>exchange<br>bread<br>arrow<br>around<br>wheat<br>churn |  
-| bip_39_word_new_br9 | giggle<br>champion<br>exchange<br>bread<br>arrow<br>around<br>wheat<br>churn<br>birth |  
-| bip_39_word_new_line1 | giggle |  
-| bip_39_word_new_line10 | giggle
+| bip_39_word_new_br_1 | giggle |  
+| bip_39_word_new_br_10 | giggle<br>champion<br>exchange<br>bread<br>arrow<br>around<br>wheat<br>churn<br>birth<br>permit |  
+| bip_39_word_new_br_11 | giggle<br>champion<br>exchange<br>bread<br>arrow<br>around<br>wheat<br>churn<br>birth<br>permit<br>spread |  
+| bip_39_word_new_br_12 | giggle<br>champion<br>exchange<br>bread<br>arrow<br>around<br>wheat<br>churn<br>birth<br>permit<br>spread<br>anchor |  
+| bip_39_word_new_br_2 | giggle<br>champion |  
+| bip_39_word_new_br_3 | giggle<br>champion<br>exchange |  
+| bip_39_word_new_br_4 | giggle<br>champion<br>exchange<br>bread |  
+| bip_39_word_new_br_5 | giggle<br>champion<br>exchange<br>bread<br>arrow |  
+| bip_39_word_new_br_6 | giggle<br>champion<br>exchange<br>bread<br>arrow<br>around |  
+| bip_39_word_new_br_7 | giggle<br>champion<br>exchange<br>bread<br>arrow<br>around<br>wheat |  
+| bip_39_word_new_br_8 | giggle<br>champion<br>exchange<br>bread<br>arrow<br>around<br>wheat<br>churn |  
+| bip_39_word_new_br_9 | giggle<br>champion<br>exchange<br>bread<br>arrow<br>around<br>wheat<br>churn<br>birth |  
+| bip_39_word_new_line_1 | giggle |  
+| bip_39_word_new_line_10 | giggle
 champion
 exchange
 bread
@@ -55,7 +55,7 @@ wheat
 churn
 birth
 permit |  
-| bip_39_word_new_line11 | giggle
+| bip_39_word_new_line_11 | giggle
 champion
 exchange
 bread
@@ -66,7 +66,7 @@ churn
 birth
 permit
 spread |  
-| bip_39_word_new_line12 | giggle
+| bip_39_word_new_line_12 | giggle
 champion
 exchange
 bread
@@ -78,34 +78,34 @@ birth
 permit
 spread
 anchor |  
-| bip_39_word_new_line2 | giggle
+| bip_39_word_new_line_2 | giggle
 champion |  
-| bip_39_word_new_line3 | giggle
+| bip_39_word_new_line_3 | giggle
 champion
 exchange |  
-| bip_39_word_new_line4 | giggle
+| bip_39_word_new_line_4 | giggle
 champion
 exchange
 bread |  
-| bip_39_word_new_line5 | giggle
+| bip_39_word_new_line_5 | giggle
 champion
 exchange
 bread
 arrow |  
-| bip_39_word_new_line6 | giggle
+| bip_39_word_new_line_6 | giggle
 champion
 exchange
 bread
 arrow
 around |  
-| bip_39_word_new_line7 | giggle
+| bip_39_word_new_line_7 | giggle
 champion
 exchange
 bread
 arrow
 around
 wheat |  
-| bip_39_word_new_line8 | giggle
+| bip_39_word_new_line_8 | giggle
 champion
 exchange
 bread
@@ -113,7 +113,7 @@ arrow
 around
 wheat
 churn |  
-| bip_39_word_new_line9 | giggle
+| bip_39_word_new_line_9 | giggle
 champion
 exchange
 bread

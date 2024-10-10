@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | snap |  
-| bip_39_word_new_br10 | snap<br>dish<br>orchard<br>fence<br>exact<br>pony<br>viable<br>uniform<br>canal<br>history |  
-| bip_39_word_new_br11 | snap<br>dish<br>orchard<br>fence<br>exact<br>pony<br>viable<br>uniform<br>canal<br>history<br>blame |  
-| bip_39_word_new_br12 | snap<br>dish<br>orchard<br>fence<br>exact<br>pony<br>viable<br>uniform<br>canal<br>history<br>blame<br>anger |  
-| bip_39_word_new_br2 | snap<br>dish |  
-| bip_39_word_new_br3 | snap<br>dish<br>orchard |  
-| bip_39_word_new_br4 | snap<br>dish<br>orchard<br>fence |  
-| bip_39_word_new_br5 | snap<br>dish<br>orchard<br>fence<br>exact |  
-| bip_39_word_new_br6 | snap<br>dish<br>orchard<br>fence<br>exact<br>pony |  
-| bip_39_word_new_br7 | snap<br>dish<br>orchard<br>fence<br>exact<br>pony<br>viable |  
-| bip_39_word_new_br8 | snap<br>dish<br>orchard<br>fence<br>exact<br>pony<br>viable<br>uniform |  
-| bip_39_word_new_br9 | snap<br>dish<br>orchard<br>fence<br>exact<br>pony<br>viable<br>uniform<br>canal |  
-| bip_39_word_new_line1 | snap |  
-| bip_39_word_new_line10 | snap
+| bip_39_word_new_br_1 | snap |  
+| bip_39_word_new_br_10 | snap<br>dish<br>orchard<br>fence<br>exact<br>pony<br>viable<br>uniform<br>canal<br>history |  
+| bip_39_word_new_br_11 | snap<br>dish<br>orchard<br>fence<br>exact<br>pony<br>viable<br>uniform<br>canal<br>history<br>blame |  
+| bip_39_word_new_br_12 | snap<br>dish<br>orchard<br>fence<br>exact<br>pony<br>viable<br>uniform<br>canal<br>history<br>blame<br>anger |  
+| bip_39_word_new_br_2 | snap<br>dish |  
+| bip_39_word_new_br_3 | snap<br>dish<br>orchard |  
+| bip_39_word_new_br_4 | snap<br>dish<br>orchard<br>fence |  
+| bip_39_word_new_br_5 | snap<br>dish<br>orchard<br>fence<br>exact |  
+| bip_39_word_new_br_6 | snap<br>dish<br>orchard<br>fence<br>exact<br>pony |  
+| bip_39_word_new_br_7 | snap<br>dish<br>orchard<br>fence<br>exact<br>pony<br>viable |  
+| bip_39_word_new_br_8 | snap<br>dish<br>orchard<br>fence<br>exact<br>pony<br>viable<br>uniform |  
+| bip_39_word_new_br_9 | snap<br>dish<br>orchard<br>fence<br>exact<br>pony<br>viable<br>uniform<br>canal |  
+| bip_39_word_new_line_1 | snap |  
+| bip_39_word_new_line_10 | snap
 dish
 orchard
 fence
@@ -55,7 +55,7 @@ viable
 uniform
 canal
 history |  
-| bip_39_word_new_line11 | snap
+| bip_39_word_new_line_11 | snap
 dish
 orchard
 fence
@@ -66,7 +66,7 @@ uniform
 canal
 history
 blame |  
-| bip_39_word_new_line12 | snap
+| bip_39_word_new_line_12 | snap
 dish
 orchard
 fence
@@ -78,34 +78,34 @@ canal
 history
 blame
 anger |  
-| bip_39_word_new_line2 | snap
+| bip_39_word_new_line_2 | snap
 dish |  
-| bip_39_word_new_line3 | snap
+| bip_39_word_new_line_3 | snap
 dish
 orchard |  
-| bip_39_word_new_line4 | snap
+| bip_39_word_new_line_4 | snap
 dish
 orchard
 fence |  
-| bip_39_word_new_line5 | snap
+| bip_39_word_new_line_5 | snap
 dish
 orchard
 fence
 exact |  
-| bip_39_word_new_line6 | snap
+| bip_39_word_new_line_6 | snap
 dish
 orchard
 fence
 exact
 pony |  
-| bip_39_word_new_line7 | snap
+| bip_39_word_new_line_7 | snap
 dish
 orchard
 fence
 exact
 pony
 viable |  
-| bip_39_word_new_line8 | snap
+| bip_39_word_new_line_8 | snap
 dish
 orchard
 fence
@@ -113,7 +113,7 @@ exact
 pony
 viable
 uniform |  
-| bip_39_word_new_line9 | snap
+| bip_39_word_new_line_9 | snap
 dish
 orchard
 fence

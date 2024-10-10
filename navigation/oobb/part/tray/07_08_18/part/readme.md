@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mansion |  
-| bip_39_word_new_br10 | mansion<br>aisle<br>couch<br>barely<br>sting<br>check<br>poverty<br>apology<br>hood<br>party |  
-| bip_39_word_new_br11 | mansion<br>aisle<br>couch<br>barely<br>sting<br>check<br>poverty<br>apology<br>hood<br>party<br>grant |  
-| bip_39_word_new_br12 | mansion<br>aisle<br>couch<br>barely<br>sting<br>check<br>poverty<br>apology<br>hood<br>party<br>grant<br>already |  
-| bip_39_word_new_br2 | mansion<br>aisle |  
-| bip_39_word_new_br3 | mansion<br>aisle<br>couch |  
-| bip_39_word_new_br4 | mansion<br>aisle<br>couch<br>barely |  
-| bip_39_word_new_br5 | mansion<br>aisle<br>couch<br>barely<br>sting |  
-| bip_39_word_new_br6 | mansion<br>aisle<br>couch<br>barely<br>sting<br>check |  
-| bip_39_word_new_br7 | mansion<br>aisle<br>couch<br>barely<br>sting<br>check<br>poverty |  
-| bip_39_word_new_br8 | mansion<br>aisle<br>couch<br>barely<br>sting<br>check<br>poverty<br>apology |  
-| bip_39_word_new_br9 | mansion<br>aisle<br>couch<br>barely<br>sting<br>check<br>poverty<br>apology<br>hood |  
-| bip_39_word_new_line1 | mansion |  
-| bip_39_word_new_line10 | mansion
+| bip_39_word_new_br_1 | mansion |  
+| bip_39_word_new_br_10 | mansion<br>aisle<br>couch<br>barely<br>sting<br>check<br>poverty<br>apology<br>hood<br>party |  
+| bip_39_word_new_br_11 | mansion<br>aisle<br>couch<br>barely<br>sting<br>check<br>poverty<br>apology<br>hood<br>party<br>grant |  
+| bip_39_word_new_br_12 | mansion<br>aisle<br>couch<br>barely<br>sting<br>check<br>poverty<br>apology<br>hood<br>party<br>grant<br>already |  
+| bip_39_word_new_br_2 | mansion<br>aisle |  
+| bip_39_word_new_br_3 | mansion<br>aisle<br>couch |  
+| bip_39_word_new_br_4 | mansion<br>aisle<br>couch<br>barely |  
+| bip_39_word_new_br_5 | mansion<br>aisle<br>couch<br>barely<br>sting |  
+| bip_39_word_new_br_6 | mansion<br>aisle<br>couch<br>barely<br>sting<br>check |  
+| bip_39_word_new_br_7 | mansion<br>aisle<br>couch<br>barely<br>sting<br>check<br>poverty |  
+| bip_39_word_new_br_8 | mansion<br>aisle<br>couch<br>barely<br>sting<br>check<br>poverty<br>apology |  
+| bip_39_word_new_br_9 | mansion<br>aisle<br>couch<br>barely<br>sting<br>check<br>poverty<br>apology<br>hood |  
+| bip_39_word_new_line_1 | mansion |  
+| bip_39_word_new_line_10 | mansion
 aisle
 couch
 barely
@@ -55,7 +55,7 @@ poverty
 apology
 hood
 party |  
-| bip_39_word_new_line11 | mansion
+| bip_39_word_new_line_11 | mansion
 aisle
 couch
 barely
@@ -66,7 +66,7 @@ apology
 hood
 party
 grant |  
-| bip_39_word_new_line12 | mansion
+| bip_39_word_new_line_12 | mansion
 aisle
 couch
 barely
@@ -78,34 +78,34 @@ hood
 party
 grant
 already |  
-| bip_39_word_new_line2 | mansion
+| bip_39_word_new_line_2 | mansion
 aisle |  
-| bip_39_word_new_line3 | mansion
+| bip_39_word_new_line_3 | mansion
 aisle
 couch |  
-| bip_39_word_new_line4 | mansion
+| bip_39_word_new_line_4 | mansion
 aisle
 couch
 barely |  
-| bip_39_word_new_line5 | mansion
+| bip_39_word_new_line_5 | mansion
 aisle
 couch
 barely
 sting |  
-| bip_39_word_new_line6 | mansion
+| bip_39_word_new_line_6 | mansion
 aisle
 couch
 barely
 sting
 check |  
-| bip_39_word_new_line7 | mansion
+| bip_39_word_new_line_7 | mansion
 aisle
 couch
 barely
 sting
 check
 poverty |  
-| bip_39_word_new_line8 | mansion
+| bip_39_word_new_line_8 | mansion
 aisle
 couch
 barely
@@ -113,7 +113,7 @@ sting
 check
 poverty
 apology |  
-| bip_39_word_new_line9 | mansion
+| bip_39_word_new_line_9 | mansion
 aisle
 couch
 barely

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | frequent |  
-| bip_39_word_new_br10 | frequent<br>scare<br>bronze<br>clutch<br>purpose<br>glow<br>process<br>pitch<br>birth<br>virtual |  
-| bip_39_word_new_br11 | frequent<br>scare<br>bronze<br>clutch<br>purpose<br>glow<br>process<br>pitch<br>birth<br>virtual<br>engage |  
-| bip_39_word_new_br12 | frequent<br>scare<br>bronze<br>clutch<br>purpose<br>glow<br>process<br>pitch<br>birth<br>virtual<br>engage<br>ahead |  
-| bip_39_word_new_br2 | frequent<br>scare |  
-| bip_39_word_new_br3 | frequent<br>scare<br>bronze |  
-| bip_39_word_new_br4 | frequent<br>scare<br>bronze<br>clutch |  
-| bip_39_word_new_br5 | frequent<br>scare<br>bronze<br>clutch<br>purpose |  
-| bip_39_word_new_br6 | frequent<br>scare<br>bronze<br>clutch<br>purpose<br>glow |  
-| bip_39_word_new_br7 | frequent<br>scare<br>bronze<br>clutch<br>purpose<br>glow<br>process |  
-| bip_39_word_new_br8 | frequent<br>scare<br>bronze<br>clutch<br>purpose<br>glow<br>process<br>pitch |  
-| bip_39_word_new_br9 | frequent<br>scare<br>bronze<br>clutch<br>purpose<br>glow<br>process<br>pitch<br>birth |  
-| bip_39_word_new_line1 | frequent |  
-| bip_39_word_new_line10 | frequent
+| bip_39_word_new_br_1 | frequent |  
+| bip_39_word_new_br_10 | frequent<br>scare<br>bronze<br>clutch<br>purpose<br>glow<br>process<br>pitch<br>birth<br>virtual |  
+| bip_39_word_new_br_11 | frequent<br>scare<br>bronze<br>clutch<br>purpose<br>glow<br>process<br>pitch<br>birth<br>virtual<br>engage |  
+| bip_39_word_new_br_12 | frequent<br>scare<br>bronze<br>clutch<br>purpose<br>glow<br>process<br>pitch<br>birth<br>virtual<br>engage<br>ahead |  
+| bip_39_word_new_br_2 | frequent<br>scare |  
+| bip_39_word_new_br_3 | frequent<br>scare<br>bronze |  
+| bip_39_word_new_br_4 | frequent<br>scare<br>bronze<br>clutch |  
+| bip_39_word_new_br_5 | frequent<br>scare<br>bronze<br>clutch<br>purpose |  
+| bip_39_word_new_br_6 | frequent<br>scare<br>bronze<br>clutch<br>purpose<br>glow |  
+| bip_39_word_new_br_7 | frequent<br>scare<br>bronze<br>clutch<br>purpose<br>glow<br>process |  
+| bip_39_word_new_br_8 | frequent<br>scare<br>bronze<br>clutch<br>purpose<br>glow<br>process<br>pitch |  
+| bip_39_word_new_br_9 | frequent<br>scare<br>bronze<br>clutch<br>purpose<br>glow<br>process<br>pitch<br>birth |  
+| bip_39_word_new_line_1 | frequent |  
+| bip_39_word_new_line_10 | frequent
 scare
 bronze
 clutch
@@ -55,7 +55,7 @@ process
 pitch
 birth
 virtual |  
-| bip_39_word_new_line11 | frequent
+| bip_39_word_new_line_11 | frequent
 scare
 bronze
 clutch
@@ -66,7 +66,7 @@ pitch
 birth
 virtual
 engage |  
-| bip_39_word_new_line12 | frequent
+| bip_39_word_new_line_12 | frequent
 scare
 bronze
 clutch
@@ -78,34 +78,34 @@ birth
 virtual
 engage
 ahead |  
-| bip_39_word_new_line2 | frequent
+| bip_39_word_new_line_2 | frequent
 scare |  
-| bip_39_word_new_line3 | frequent
+| bip_39_word_new_line_3 | frequent
 scare
 bronze |  
-| bip_39_word_new_line4 | frequent
+| bip_39_word_new_line_4 | frequent
 scare
 bronze
 clutch |  
-| bip_39_word_new_line5 | frequent
+| bip_39_word_new_line_5 | frequent
 scare
 bronze
 clutch
 purpose |  
-| bip_39_word_new_line6 | frequent
+| bip_39_word_new_line_6 | frequent
 scare
 bronze
 clutch
 purpose
 glow |  
-| bip_39_word_new_line7 | frequent
+| bip_39_word_new_line_7 | frequent
 scare
 bronze
 clutch
 purpose
 glow
 process |  
-| bip_39_word_new_line8 | frequent
+| bip_39_word_new_line_8 | frequent
 scare
 bronze
 clutch
@@ -113,7 +113,7 @@ purpose
 glow
 process
 pitch |  
-| bip_39_word_new_line9 | frequent
+| bip_39_word_new_line_9 | frequent
 scare
 bronze
 clutch

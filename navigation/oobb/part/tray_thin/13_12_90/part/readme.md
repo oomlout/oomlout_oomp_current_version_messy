@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | blind |  
-| bip_39_word_new_br10 | blind<br>obtain<br>pizza<br>service<br>else<br>rug<br>switch<br>swamp<br>long<br>license |  
-| bip_39_word_new_br11 | blind<br>obtain<br>pizza<br>service<br>else<br>rug<br>switch<br>swamp<br>long<br>license<br>blur |  
-| bip_39_word_new_br12 | blind<br>obtain<br>pizza<br>service<br>else<br>rug<br>switch<br>swamp<br>long<br>license<br>blur<br>antenna |  
-| bip_39_word_new_br2 | blind<br>obtain |  
-| bip_39_word_new_br3 | blind<br>obtain<br>pizza |  
-| bip_39_word_new_br4 | blind<br>obtain<br>pizza<br>service |  
-| bip_39_word_new_br5 | blind<br>obtain<br>pizza<br>service<br>else |  
-| bip_39_word_new_br6 | blind<br>obtain<br>pizza<br>service<br>else<br>rug |  
-| bip_39_word_new_br7 | blind<br>obtain<br>pizza<br>service<br>else<br>rug<br>switch |  
-| bip_39_word_new_br8 | blind<br>obtain<br>pizza<br>service<br>else<br>rug<br>switch<br>swamp |  
-| bip_39_word_new_br9 | blind<br>obtain<br>pizza<br>service<br>else<br>rug<br>switch<br>swamp<br>long |  
-| bip_39_word_new_line1 | blind |  
-| bip_39_word_new_line10 | blind
+| bip_39_word_new_br_1 | blind |  
+| bip_39_word_new_br_10 | blind<br>obtain<br>pizza<br>service<br>else<br>rug<br>switch<br>swamp<br>long<br>license |  
+| bip_39_word_new_br_11 | blind<br>obtain<br>pizza<br>service<br>else<br>rug<br>switch<br>swamp<br>long<br>license<br>blur |  
+| bip_39_word_new_br_12 | blind<br>obtain<br>pizza<br>service<br>else<br>rug<br>switch<br>swamp<br>long<br>license<br>blur<br>antenna |  
+| bip_39_word_new_br_2 | blind<br>obtain |  
+| bip_39_word_new_br_3 | blind<br>obtain<br>pizza |  
+| bip_39_word_new_br_4 | blind<br>obtain<br>pizza<br>service |  
+| bip_39_word_new_br_5 | blind<br>obtain<br>pizza<br>service<br>else |  
+| bip_39_word_new_br_6 | blind<br>obtain<br>pizza<br>service<br>else<br>rug |  
+| bip_39_word_new_br_7 | blind<br>obtain<br>pizza<br>service<br>else<br>rug<br>switch |  
+| bip_39_word_new_br_8 | blind<br>obtain<br>pizza<br>service<br>else<br>rug<br>switch<br>swamp |  
+| bip_39_word_new_br_9 | blind<br>obtain<br>pizza<br>service<br>else<br>rug<br>switch<br>swamp<br>long |  
+| bip_39_word_new_line_1 | blind |  
+| bip_39_word_new_line_10 | blind
 obtain
 pizza
 service
@@ -55,7 +55,7 @@ switch
 swamp
 long
 license |  
-| bip_39_word_new_line11 | blind
+| bip_39_word_new_line_11 | blind
 obtain
 pizza
 service
@@ -66,7 +66,7 @@ swamp
 long
 license
 blur |  
-| bip_39_word_new_line12 | blind
+| bip_39_word_new_line_12 | blind
 obtain
 pizza
 service
@@ -78,34 +78,34 @@ long
 license
 blur
 antenna |  
-| bip_39_word_new_line2 | blind
+| bip_39_word_new_line_2 | blind
 obtain |  
-| bip_39_word_new_line3 | blind
+| bip_39_word_new_line_3 | blind
 obtain
 pizza |  
-| bip_39_word_new_line4 | blind
+| bip_39_word_new_line_4 | blind
 obtain
 pizza
 service |  
-| bip_39_word_new_line5 | blind
+| bip_39_word_new_line_5 | blind
 obtain
 pizza
 service
 else |  
-| bip_39_word_new_line6 | blind
+| bip_39_word_new_line_6 | blind
 obtain
 pizza
 service
 else
 rug |  
-| bip_39_word_new_line7 | blind
+| bip_39_word_new_line_7 | blind
 obtain
 pizza
 service
 else
 rug
 switch |  
-| bip_39_word_new_line8 | blind
+| bip_39_word_new_line_8 | blind
 obtain
 pizza
 service
@@ -113,7 +113,7 @@ else
 rug
 switch
 swamp |  
-| bip_39_word_new_line9 | blind
+| bip_39_word_new_line_9 | blind
 obtain
 pizza
 service

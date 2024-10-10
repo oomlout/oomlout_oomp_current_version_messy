@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | eternal |  
-| bip_39_word_new_br10 | eternal<br>fancy<br>wise<br>palace<br>menu<br>junior<br>extend<br>travel<br>erosion<br>often |  
-| bip_39_word_new_br11 | eternal<br>fancy<br>wise<br>palace<br>menu<br>junior<br>extend<br>travel<br>erosion<br>often<br>width |  
-| bip_39_word_new_br12 | eternal<br>fancy<br>wise<br>palace<br>menu<br>junior<br>extend<br>travel<br>erosion<br>often<br>width<br>aerobic |  
-| bip_39_word_new_br2 | eternal<br>fancy |  
-| bip_39_word_new_br3 | eternal<br>fancy<br>wise |  
-| bip_39_word_new_br4 | eternal<br>fancy<br>wise<br>palace |  
-| bip_39_word_new_br5 | eternal<br>fancy<br>wise<br>palace<br>menu |  
-| bip_39_word_new_br6 | eternal<br>fancy<br>wise<br>palace<br>menu<br>junior |  
-| bip_39_word_new_br7 | eternal<br>fancy<br>wise<br>palace<br>menu<br>junior<br>extend |  
-| bip_39_word_new_br8 | eternal<br>fancy<br>wise<br>palace<br>menu<br>junior<br>extend<br>travel |  
-| bip_39_word_new_br9 | eternal<br>fancy<br>wise<br>palace<br>menu<br>junior<br>extend<br>travel<br>erosion |  
-| bip_39_word_new_line1 | eternal |  
-| bip_39_word_new_line10 | eternal
+| bip_39_word_new_br_1 | eternal |  
+| bip_39_word_new_br_10 | eternal<br>fancy<br>wise<br>palace<br>menu<br>junior<br>extend<br>travel<br>erosion<br>often |  
+| bip_39_word_new_br_11 | eternal<br>fancy<br>wise<br>palace<br>menu<br>junior<br>extend<br>travel<br>erosion<br>often<br>width |  
+| bip_39_word_new_br_12 | eternal<br>fancy<br>wise<br>palace<br>menu<br>junior<br>extend<br>travel<br>erosion<br>often<br>width<br>aerobic |  
+| bip_39_word_new_br_2 | eternal<br>fancy |  
+| bip_39_word_new_br_3 | eternal<br>fancy<br>wise |  
+| bip_39_word_new_br_4 | eternal<br>fancy<br>wise<br>palace |  
+| bip_39_word_new_br_5 | eternal<br>fancy<br>wise<br>palace<br>menu |  
+| bip_39_word_new_br_6 | eternal<br>fancy<br>wise<br>palace<br>menu<br>junior |  
+| bip_39_word_new_br_7 | eternal<br>fancy<br>wise<br>palace<br>menu<br>junior<br>extend |  
+| bip_39_word_new_br_8 | eternal<br>fancy<br>wise<br>palace<br>menu<br>junior<br>extend<br>travel |  
+| bip_39_word_new_br_9 | eternal<br>fancy<br>wise<br>palace<br>menu<br>junior<br>extend<br>travel<br>erosion |  
+| bip_39_word_new_line_1 | eternal |  
+| bip_39_word_new_line_10 | eternal
 fancy
 wise
 palace
@@ -55,7 +55,7 @@ extend
 travel
 erosion
 often |  
-| bip_39_word_new_line11 | eternal
+| bip_39_word_new_line_11 | eternal
 fancy
 wise
 palace
@@ -66,7 +66,7 @@ travel
 erosion
 often
 width |  
-| bip_39_word_new_line12 | eternal
+| bip_39_word_new_line_12 | eternal
 fancy
 wise
 palace
@@ -78,34 +78,34 @@ erosion
 often
 width
 aerobic |  
-| bip_39_word_new_line2 | eternal
+| bip_39_word_new_line_2 | eternal
 fancy |  
-| bip_39_word_new_line3 | eternal
+| bip_39_word_new_line_3 | eternal
 fancy
 wise |  
-| bip_39_word_new_line4 | eternal
+| bip_39_word_new_line_4 | eternal
 fancy
 wise
 palace |  
-| bip_39_word_new_line5 | eternal
+| bip_39_word_new_line_5 | eternal
 fancy
 wise
 palace
 menu |  
-| bip_39_word_new_line6 | eternal
+| bip_39_word_new_line_6 | eternal
 fancy
 wise
 palace
 menu
 junior |  
-| bip_39_word_new_line7 | eternal
+| bip_39_word_new_line_7 | eternal
 fancy
 wise
 palace
 menu
 junior
 extend |  
-| bip_39_word_new_line8 | eternal
+| bip_39_word_new_line_8 | eternal
 fancy
 wise
 palace
@@ -113,7 +113,7 @@ menu
 junior
 extend
 travel |  
-| bip_39_word_new_line9 | eternal
+| bip_39_word_new_line_9 | eternal
 fancy
 wise
 palace

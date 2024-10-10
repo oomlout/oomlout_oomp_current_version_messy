@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ski |  
-| bip_39_word_new_br10 | ski<br>grace<br>fruit<br>surface<br>menu<br>cheap<br>often<br>beef<br>pattern<br>neutral |  
-| bip_39_word_new_br11 | ski<br>grace<br>fruit<br>surface<br>menu<br>cheap<br>often<br>beef<br>pattern<br>neutral<br>wide |  
-| bip_39_word_new_br12 | ski<br>grace<br>fruit<br>surface<br>menu<br>cheap<br>often<br>beef<br>pattern<br>neutral<br>wide<br>again |  
-| bip_39_word_new_br2 | ski<br>grace |  
-| bip_39_word_new_br3 | ski<br>grace<br>fruit |  
-| bip_39_word_new_br4 | ski<br>grace<br>fruit<br>surface |  
-| bip_39_word_new_br5 | ski<br>grace<br>fruit<br>surface<br>menu |  
-| bip_39_word_new_br6 | ski<br>grace<br>fruit<br>surface<br>menu<br>cheap |  
-| bip_39_word_new_br7 | ski<br>grace<br>fruit<br>surface<br>menu<br>cheap<br>often |  
-| bip_39_word_new_br8 | ski<br>grace<br>fruit<br>surface<br>menu<br>cheap<br>often<br>beef |  
-| bip_39_word_new_br9 | ski<br>grace<br>fruit<br>surface<br>menu<br>cheap<br>often<br>beef<br>pattern |  
-| bip_39_word_new_line1 | ski |  
-| bip_39_word_new_line10 | ski
+| bip_39_word_new_br_1 | ski |  
+| bip_39_word_new_br_10 | ski<br>grace<br>fruit<br>surface<br>menu<br>cheap<br>often<br>beef<br>pattern<br>neutral |  
+| bip_39_word_new_br_11 | ski<br>grace<br>fruit<br>surface<br>menu<br>cheap<br>often<br>beef<br>pattern<br>neutral<br>wide |  
+| bip_39_word_new_br_12 | ski<br>grace<br>fruit<br>surface<br>menu<br>cheap<br>often<br>beef<br>pattern<br>neutral<br>wide<br>again |  
+| bip_39_word_new_br_2 | ski<br>grace |  
+| bip_39_word_new_br_3 | ski<br>grace<br>fruit |  
+| bip_39_word_new_br_4 | ski<br>grace<br>fruit<br>surface |  
+| bip_39_word_new_br_5 | ski<br>grace<br>fruit<br>surface<br>menu |  
+| bip_39_word_new_br_6 | ski<br>grace<br>fruit<br>surface<br>menu<br>cheap |  
+| bip_39_word_new_br_7 | ski<br>grace<br>fruit<br>surface<br>menu<br>cheap<br>often |  
+| bip_39_word_new_br_8 | ski<br>grace<br>fruit<br>surface<br>menu<br>cheap<br>often<br>beef |  
+| bip_39_word_new_br_9 | ski<br>grace<br>fruit<br>surface<br>menu<br>cheap<br>often<br>beef<br>pattern |  
+| bip_39_word_new_line_1 | ski |  
+| bip_39_word_new_line_10 | ski
 grace
 fruit
 surface
@@ -55,7 +55,7 @@ often
 beef
 pattern
 neutral |  
-| bip_39_word_new_line11 | ski
+| bip_39_word_new_line_11 | ski
 grace
 fruit
 surface
@@ -66,7 +66,7 @@ beef
 pattern
 neutral
 wide |  
-| bip_39_word_new_line12 | ski
+| bip_39_word_new_line_12 | ski
 grace
 fruit
 surface
@@ -78,34 +78,34 @@ pattern
 neutral
 wide
 again |  
-| bip_39_word_new_line2 | ski
+| bip_39_word_new_line_2 | ski
 grace |  
-| bip_39_word_new_line3 | ski
+| bip_39_word_new_line_3 | ski
 grace
 fruit |  
-| bip_39_word_new_line4 | ski
+| bip_39_word_new_line_4 | ski
 grace
 fruit
 surface |  
-| bip_39_word_new_line5 | ski
+| bip_39_word_new_line_5 | ski
 grace
 fruit
 surface
 menu |  
-| bip_39_word_new_line6 | ski
+| bip_39_word_new_line_6 | ski
 grace
 fruit
 surface
 menu
 cheap |  
-| bip_39_word_new_line7 | ski
+| bip_39_word_new_line_7 | ski
 grace
 fruit
 surface
 menu
 cheap
 often |  
-| bip_39_word_new_line8 | ski
+| bip_39_word_new_line_8 | ski
 grace
 fruit
 surface
@@ -113,7 +113,7 @@ menu
 cheap
 often
 beef |  
-| bip_39_word_new_line9 | ski
+| bip_39_word_new_line_9 | ski
 grace
 fruit
 surface

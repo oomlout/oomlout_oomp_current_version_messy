@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | outside |  
-| bip_39_word_new_br10 | outside<br>push<br>lazy<br>submit<br>fiction<br>victory<br>chest<br>hint<br>absorb<br>number |  
-| bip_39_word_new_br11 | outside<br>push<br>lazy<br>submit<br>fiction<br>victory<br>chest<br>hint<br>absorb<br>number<br>horror |  
-| bip_39_word_new_br12 | outside<br>push<br>lazy<br>submit<br>fiction<br>victory<br>chest<br>hint<br>absorb<br>number<br>horror<br>alert |  
-| bip_39_word_new_br2 | outside<br>push |  
-| bip_39_word_new_br3 | outside<br>push<br>lazy |  
-| bip_39_word_new_br4 | outside<br>push<br>lazy<br>submit |  
-| bip_39_word_new_br5 | outside<br>push<br>lazy<br>submit<br>fiction |  
-| bip_39_word_new_br6 | outside<br>push<br>lazy<br>submit<br>fiction<br>victory |  
-| bip_39_word_new_br7 | outside<br>push<br>lazy<br>submit<br>fiction<br>victory<br>chest |  
-| bip_39_word_new_br8 | outside<br>push<br>lazy<br>submit<br>fiction<br>victory<br>chest<br>hint |  
-| bip_39_word_new_br9 | outside<br>push<br>lazy<br>submit<br>fiction<br>victory<br>chest<br>hint<br>absorb |  
-| bip_39_word_new_line1 | outside |  
-| bip_39_word_new_line10 | outside
+| bip_39_word_new_br_1 | outside |  
+| bip_39_word_new_br_10 | outside<br>push<br>lazy<br>submit<br>fiction<br>victory<br>chest<br>hint<br>absorb<br>number |  
+| bip_39_word_new_br_11 | outside<br>push<br>lazy<br>submit<br>fiction<br>victory<br>chest<br>hint<br>absorb<br>number<br>horror |  
+| bip_39_word_new_br_12 | outside<br>push<br>lazy<br>submit<br>fiction<br>victory<br>chest<br>hint<br>absorb<br>number<br>horror<br>alert |  
+| bip_39_word_new_br_2 | outside<br>push |  
+| bip_39_word_new_br_3 | outside<br>push<br>lazy |  
+| bip_39_word_new_br_4 | outside<br>push<br>lazy<br>submit |  
+| bip_39_word_new_br_5 | outside<br>push<br>lazy<br>submit<br>fiction |  
+| bip_39_word_new_br_6 | outside<br>push<br>lazy<br>submit<br>fiction<br>victory |  
+| bip_39_word_new_br_7 | outside<br>push<br>lazy<br>submit<br>fiction<br>victory<br>chest |  
+| bip_39_word_new_br_8 | outside<br>push<br>lazy<br>submit<br>fiction<br>victory<br>chest<br>hint |  
+| bip_39_word_new_br_9 | outside<br>push<br>lazy<br>submit<br>fiction<br>victory<br>chest<br>hint<br>absorb |  
+| bip_39_word_new_line_1 | outside |  
+| bip_39_word_new_line_10 | outside
 push
 lazy
 submit
@@ -55,7 +55,7 @@ chest
 hint
 absorb
 number |  
-| bip_39_word_new_line11 | outside
+| bip_39_word_new_line_11 | outside
 push
 lazy
 submit
@@ -66,7 +66,7 @@ hint
 absorb
 number
 horror |  
-| bip_39_word_new_line12 | outside
+| bip_39_word_new_line_12 | outside
 push
 lazy
 submit
@@ -78,34 +78,34 @@ absorb
 number
 horror
 alert |  
-| bip_39_word_new_line2 | outside
+| bip_39_word_new_line_2 | outside
 push |  
-| bip_39_word_new_line3 | outside
+| bip_39_word_new_line_3 | outside
 push
 lazy |  
-| bip_39_word_new_line4 | outside
+| bip_39_word_new_line_4 | outside
 push
 lazy
 submit |  
-| bip_39_word_new_line5 | outside
+| bip_39_word_new_line_5 | outside
 push
 lazy
 submit
 fiction |  
-| bip_39_word_new_line6 | outside
+| bip_39_word_new_line_6 | outside
 push
 lazy
 submit
 fiction
 victory |  
-| bip_39_word_new_line7 | outside
+| bip_39_word_new_line_7 | outside
 push
 lazy
 submit
 fiction
 victory
 chest |  
-| bip_39_word_new_line8 | outside
+| bip_39_word_new_line_8 | outside
 push
 lazy
 submit
@@ -113,7 +113,7 @@ fiction
 victory
 chest
 hint |  
-| bip_39_word_new_line9 | outside
+| bip_39_word_new_line_9 | outside
 push
 lazy
 submit

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | predict |  
-| bip_39_word_new_br10 | predict<br>solid<br>modify<br>bike<br>autumn<br>latin<br>citizen<br>bind<br>phrase<br>useful |  
-| bip_39_word_new_br11 | predict<br>solid<br>modify<br>bike<br>autumn<br>latin<br>citizen<br>bind<br>phrase<br>useful<br>rhythm |  
-| bip_39_word_new_br12 | predict<br>solid<br>modify<br>bike<br>autumn<br>latin<br>citizen<br>bind<br>phrase<br>useful<br>rhythm<br>action |  
-| bip_39_word_new_br2 | predict<br>solid |  
-| bip_39_word_new_br3 | predict<br>solid<br>modify |  
-| bip_39_word_new_br4 | predict<br>solid<br>modify<br>bike |  
-| bip_39_word_new_br5 | predict<br>solid<br>modify<br>bike<br>autumn |  
-| bip_39_word_new_br6 | predict<br>solid<br>modify<br>bike<br>autumn<br>latin |  
-| bip_39_word_new_br7 | predict<br>solid<br>modify<br>bike<br>autumn<br>latin<br>citizen |  
-| bip_39_word_new_br8 | predict<br>solid<br>modify<br>bike<br>autumn<br>latin<br>citizen<br>bind |  
-| bip_39_word_new_br9 | predict<br>solid<br>modify<br>bike<br>autumn<br>latin<br>citizen<br>bind<br>phrase |  
-| bip_39_word_new_line1 | predict |  
-| bip_39_word_new_line10 | predict
+| bip_39_word_new_br_1 | predict |  
+| bip_39_word_new_br_10 | predict<br>solid<br>modify<br>bike<br>autumn<br>latin<br>citizen<br>bind<br>phrase<br>useful |  
+| bip_39_word_new_br_11 | predict<br>solid<br>modify<br>bike<br>autumn<br>latin<br>citizen<br>bind<br>phrase<br>useful<br>rhythm |  
+| bip_39_word_new_br_12 | predict<br>solid<br>modify<br>bike<br>autumn<br>latin<br>citizen<br>bind<br>phrase<br>useful<br>rhythm<br>action |  
+| bip_39_word_new_br_2 | predict<br>solid |  
+| bip_39_word_new_br_3 | predict<br>solid<br>modify |  
+| bip_39_word_new_br_4 | predict<br>solid<br>modify<br>bike |  
+| bip_39_word_new_br_5 | predict<br>solid<br>modify<br>bike<br>autumn |  
+| bip_39_word_new_br_6 | predict<br>solid<br>modify<br>bike<br>autumn<br>latin |  
+| bip_39_word_new_br_7 | predict<br>solid<br>modify<br>bike<br>autumn<br>latin<br>citizen |  
+| bip_39_word_new_br_8 | predict<br>solid<br>modify<br>bike<br>autumn<br>latin<br>citizen<br>bind |  
+| bip_39_word_new_br_9 | predict<br>solid<br>modify<br>bike<br>autumn<br>latin<br>citizen<br>bind<br>phrase |  
+| bip_39_word_new_line_1 | predict |  
+| bip_39_word_new_line_10 | predict
 solid
 modify
 bike
@@ -55,7 +55,7 @@ citizen
 bind
 phrase
 useful |  
-| bip_39_word_new_line11 | predict
+| bip_39_word_new_line_11 | predict
 solid
 modify
 bike
@@ -66,7 +66,7 @@ bind
 phrase
 useful
 rhythm |  
-| bip_39_word_new_line12 | predict
+| bip_39_word_new_line_12 | predict
 solid
 modify
 bike
@@ -78,34 +78,34 @@ phrase
 useful
 rhythm
 action |  
-| bip_39_word_new_line2 | predict
+| bip_39_word_new_line_2 | predict
 solid |  
-| bip_39_word_new_line3 | predict
+| bip_39_word_new_line_3 | predict
 solid
 modify |  
-| bip_39_word_new_line4 | predict
+| bip_39_word_new_line_4 | predict
 solid
 modify
 bike |  
-| bip_39_word_new_line5 | predict
+| bip_39_word_new_line_5 | predict
 solid
 modify
 bike
 autumn |  
-| bip_39_word_new_line6 | predict
+| bip_39_word_new_line_6 | predict
 solid
 modify
 bike
 autumn
 latin |  
-| bip_39_word_new_line7 | predict
+| bip_39_word_new_line_7 | predict
 solid
 modify
 bike
 autumn
 latin
 citizen |  
-| bip_39_word_new_line8 | predict
+| bip_39_word_new_line_8 | predict
 solid
 modify
 bike
@@ -113,7 +113,7 @@ autumn
 latin
 citizen
 bind |  
-| bip_39_word_new_line9 | predict
+| bip_39_word_new_line_9 | predict
 solid
 modify
 bike

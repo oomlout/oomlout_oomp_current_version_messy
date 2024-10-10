@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dilemma |  
-| bip_39_word_new_br10 | dilemma<br>pizza<br>flip<br>situate<br>talent<br>more<br>tank<br>judge<br>stamp<br>learn |  
-| bip_39_word_new_br11 | dilemma<br>pizza<br>flip<br>situate<br>talent<br>more<br>tank<br>judge<br>stamp<br>learn<br>embrace |  
-| bip_39_word_new_br12 | dilemma<br>pizza<br>flip<br>situate<br>talent<br>more<br>tank<br>judge<br>stamp<br>learn<br>embrace<br>able |  
-| bip_39_word_new_br2 | dilemma<br>pizza |  
-| bip_39_word_new_br3 | dilemma<br>pizza<br>flip |  
-| bip_39_word_new_br4 | dilemma<br>pizza<br>flip<br>situate |  
-| bip_39_word_new_br5 | dilemma<br>pizza<br>flip<br>situate<br>talent |  
-| bip_39_word_new_br6 | dilemma<br>pizza<br>flip<br>situate<br>talent<br>more |  
-| bip_39_word_new_br7 | dilemma<br>pizza<br>flip<br>situate<br>talent<br>more<br>tank |  
-| bip_39_word_new_br8 | dilemma<br>pizza<br>flip<br>situate<br>talent<br>more<br>tank<br>judge |  
-| bip_39_word_new_br9 | dilemma<br>pizza<br>flip<br>situate<br>talent<br>more<br>tank<br>judge<br>stamp |  
-| bip_39_word_new_line1 | dilemma |  
-| bip_39_word_new_line10 | dilemma
+| bip_39_word_new_br_1 | dilemma |  
+| bip_39_word_new_br_10 | dilemma<br>pizza<br>flip<br>situate<br>talent<br>more<br>tank<br>judge<br>stamp<br>learn |  
+| bip_39_word_new_br_11 | dilemma<br>pizza<br>flip<br>situate<br>talent<br>more<br>tank<br>judge<br>stamp<br>learn<br>embrace |  
+| bip_39_word_new_br_12 | dilemma<br>pizza<br>flip<br>situate<br>talent<br>more<br>tank<br>judge<br>stamp<br>learn<br>embrace<br>able |  
+| bip_39_word_new_br_2 | dilemma<br>pizza |  
+| bip_39_word_new_br_3 | dilemma<br>pizza<br>flip |  
+| bip_39_word_new_br_4 | dilemma<br>pizza<br>flip<br>situate |  
+| bip_39_word_new_br_5 | dilemma<br>pizza<br>flip<br>situate<br>talent |  
+| bip_39_word_new_br_6 | dilemma<br>pizza<br>flip<br>situate<br>talent<br>more |  
+| bip_39_word_new_br_7 | dilemma<br>pizza<br>flip<br>situate<br>talent<br>more<br>tank |  
+| bip_39_word_new_br_8 | dilemma<br>pizza<br>flip<br>situate<br>talent<br>more<br>tank<br>judge |  
+| bip_39_word_new_br_9 | dilemma<br>pizza<br>flip<br>situate<br>talent<br>more<br>tank<br>judge<br>stamp |  
+| bip_39_word_new_line_1 | dilemma |  
+| bip_39_word_new_line_10 | dilemma
 pizza
 flip
 situate
@@ -55,7 +55,7 @@ tank
 judge
 stamp
 learn |  
-| bip_39_word_new_line11 | dilemma
+| bip_39_word_new_line_11 | dilemma
 pizza
 flip
 situate
@@ -66,7 +66,7 @@ judge
 stamp
 learn
 embrace |  
-| bip_39_word_new_line12 | dilemma
+| bip_39_word_new_line_12 | dilemma
 pizza
 flip
 situate
@@ -78,34 +78,34 @@ stamp
 learn
 embrace
 able |  
-| bip_39_word_new_line2 | dilemma
+| bip_39_word_new_line_2 | dilemma
 pizza |  
-| bip_39_word_new_line3 | dilemma
+| bip_39_word_new_line_3 | dilemma
 pizza
 flip |  
-| bip_39_word_new_line4 | dilemma
+| bip_39_word_new_line_4 | dilemma
 pizza
 flip
 situate |  
-| bip_39_word_new_line5 | dilemma
+| bip_39_word_new_line_5 | dilemma
 pizza
 flip
 situate
 talent |  
-| bip_39_word_new_line6 | dilemma
+| bip_39_word_new_line_6 | dilemma
 pizza
 flip
 situate
 talent
 more |  
-| bip_39_word_new_line7 | dilemma
+| bip_39_word_new_line_7 | dilemma
 pizza
 flip
 situate
 talent
 more
 tank |  
-| bip_39_word_new_line8 | dilemma
+| bip_39_word_new_line_8 | dilemma
 pizza
 flip
 situate
@@ -113,7 +113,7 @@ talent
 more
 tank
 judge |  
-| bip_39_word_new_line9 | dilemma
+| bip_39_word_new_line_9 | dilemma
 pizza
 flip
 situate

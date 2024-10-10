@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | resist |  
-| bip_39_word_new_br10 | resist<br>perfect<br>oval<br>ensure<br>barely<br>tube<br>concert<br>model<br>labor<br>arrest |  
-| bip_39_word_new_br11 | resist<br>perfect<br>oval<br>ensure<br>barely<br>tube<br>concert<br>model<br>labor<br>arrest<br>course |  
-| bip_39_word_new_br12 | resist<br>perfect<br>oval<br>ensure<br>barely<br>tube<br>concert<br>model<br>labor<br>arrest<br>course<br>above |  
-| bip_39_word_new_br2 | resist<br>perfect |  
-| bip_39_word_new_br3 | resist<br>perfect<br>oval |  
-| bip_39_word_new_br4 | resist<br>perfect<br>oval<br>ensure |  
-| bip_39_word_new_br5 | resist<br>perfect<br>oval<br>ensure<br>barely |  
-| bip_39_word_new_br6 | resist<br>perfect<br>oval<br>ensure<br>barely<br>tube |  
-| bip_39_word_new_br7 | resist<br>perfect<br>oval<br>ensure<br>barely<br>tube<br>concert |  
-| bip_39_word_new_br8 | resist<br>perfect<br>oval<br>ensure<br>barely<br>tube<br>concert<br>model |  
-| bip_39_word_new_br9 | resist<br>perfect<br>oval<br>ensure<br>barely<br>tube<br>concert<br>model<br>labor |  
-| bip_39_word_new_line1 | resist |  
-| bip_39_word_new_line10 | resist
+| bip_39_word_new_br_1 | resist |  
+| bip_39_word_new_br_10 | resist<br>perfect<br>oval<br>ensure<br>barely<br>tube<br>concert<br>model<br>labor<br>arrest |  
+| bip_39_word_new_br_11 | resist<br>perfect<br>oval<br>ensure<br>barely<br>tube<br>concert<br>model<br>labor<br>arrest<br>course |  
+| bip_39_word_new_br_12 | resist<br>perfect<br>oval<br>ensure<br>barely<br>tube<br>concert<br>model<br>labor<br>arrest<br>course<br>above |  
+| bip_39_word_new_br_2 | resist<br>perfect |  
+| bip_39_word_new_br_3 | resist<br>perfect<br>oval |  
+| bip_39_word_new_br_4 | resist<br>perfect<br>oval<br>ensure |  
+| bip_39_word_new_br_5 | resist<br>perfect<br>oval<br>ensure<br>barely |  
+| bip_39_word_new_br_6 | resist<br>perfect<br>oval<br>ensure<br>barely<br>tube |  
+| bip_39_word_new_br_7 | resist<br>perfect<br>oval<br>ensure<br>barely<br>tube<br>concert |  
+| bip_39_word_new_br_8 | resist<br>perfect<br>oval<br>ensure<br>barely<br>tube<br>concert<br>model |  
+| bip_39_word_new_br_9 | resist<br>perfect<br>oval<br>ensure<br>barely<br>tube<br>concert<br>model<br>labor |  
+| bip_39_word_new_line_1 | resist |  
+| bip_39_word_new_line_10 | resist
 perfect
 oval
 ensure
@@ -55,7 +55,7 @@ concert
 model
 labor
 arrest |  
-| bip_39_word_new_line11 | resist
+| bip_39_word_new_line_11 | resist
 perfect
 oval
 ensure
@@ -66,7 +66,7 @@ model
 labor
 arrest
 course |  
-| bip_39_word_new_line12 | resist
+| bip_39_word_new_line_12 | resist
 perfect
 oval
 ensure
@@ -78,34 +78,34 @@ labor
 arrest
 course
 above |  
-| bip_39_word_new_line2 | resist
+| bip_39_word_new_line_2 | resist
 perfect |  
-| bip_39_word_new_line3 | resist
+| bip_39_word_new_line_3 | resist
 perfect
 oval |  
-| bip_39_word_new_line4 | resist
+| bip_39_word_new_line_4 | resist
 perfect
 oval
 ensure |  
-| bip_39_word_new_line5 | resist
+| bip_39_word_new_line_5 | resist
 perfect
 oval
 ensure
 barely |  
-| bip_39_word_new_line6 | resist
+| bip_39_word_new_line_6 | resist
 perfect
 oval
 ensure
 barely
 tube |  
-| bip_39_word_new_line7 | resist
+| bip_39_word_new_line_7 | resist
 perfect
 oval
 ensure
 barely
 tube
 concert |  
-| bip_39_word_new_line8 | resist
+| bip_39_word_new_line_8 | resist
 perfect
 oval
 ensure
@@ -113,7 +113,7 @@ barely
 tube
 concert
 model |  
-| bip_39_word_new_line9 | resist
+| bip_39_word_new_line_9 | resist
 perfect
 oval
 ensure

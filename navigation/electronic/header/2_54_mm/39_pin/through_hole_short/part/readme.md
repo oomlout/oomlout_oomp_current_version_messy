@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | divide |  
-| bip_39_word_new_br10 | divide<br>onion<br>script<br>goddess<br>deliver<br>husband<br>about<br>used<br>coral<br>select |  
-| bip_39_word_new_br11 | divide<br>onion<br>script<br>goddess<br>deliver<br>husband<br>about<br>used<br>coral<br>select<br>leisure |  
-| bip_39_word_new_br12 | divide<br>onion<br>script<br>goddess<br>deliver<br>husband<br>about<br>used<br>coral<br>select<br>leisure<br>another |  
-| bip_39_word_new_br2 | divide<br>onion |  
-| bip_39_word_new_br3 | divide<br>onion<br>script |  
-| bip_39_word_new_br4 | divide<br>onion<br>script<br>goddess |  
-| bip_39_word_new_br5 | divide<br>onion<br>script<br>goddess<br>deliver |  
-| bip_39_word_new_br6 | divide<br>onion<br>script<br>goddess<br>deliver<br>husband |  
-| bip_39_word_new_br7 | divide<br>onion<br>script<br>goddess<br>deliver<br>husband<br>about |  
-| bip_39_word_new_br8 | divide<br>onion<br>script<br>goddess<br>deliver<br>husband<br>about<br>used |  
-| bip_39_word_new_br9 | divide<br>onion<br>script<br>goddess<br>deliver<br>husband<br>about<br>used<br>coral |  
-| bip_39_word_new_line1 | divide |  
-| bip_39_word_new_line10 | divide
+| bip_39_word_new_br_1 | divide |  
+| bip_39_word_new_br_10 | divide<br>onion<br>script<br>goddess<br>deliver<br>husband<br>about<br>used<br>coral<br>select |  
+| bip_39_word_new_br_11 | divide<br>onion<br>script<br>goddess<br>deliver<br>husband<br>about<br>used<br>coral<br>select<br>leisure |  
+| bip_39_word_new_br_12 | divide<br>onion<br>script<br>goddess<br>deliver<br>husband<br>about<br>used<br>coral<br>select<br>leisure<br>another |  
+| bip_39_word_new_br_2 | divide<br>onion |  
+| bip_39_word_new_br_3 | divide<br>onion<br>script |  
+| bip_39_word_new_br_4 | divide<br>onion<br>script<br>goddess |  
+| bip_39_word_new_br_5 | divide<br>onion<br>script<br>goddess<br>deliver |  
+| bip_39_word_new_br_6 | divide<br>onion<br>script<br>goddess<br>deliver<br>husband |  
+| bip_39_word_new_br_7 | divide<br>onion<br>script<br>goddess<br>deliver<br>husband<br>about |  
+| bip_39_word_new_br_8 | divide<br>onion<br>script<br>goddess<br>deliver<br>husband<br>about<br>used |  
+| bip_39_word_new_br_9 | divide<br>onion<br>script<br>goddess<br>deliver<br>husband<br>about<br>used<br>coral |  
+| bip_39_word_new_line_1 | divide |  
+| bip_39_word_new_line_10 | divide
 onion
 script
 goddess
@@ -55,7 +55,7 @@ about
 used
 coral
 select |  
-| bip_39_word_new_line11 | divide
+| bip_39_word_new_line_11 | divide
 onion
 script
 goddess
@@ -66,7 +66,7 @@ used
 coral
 select
 leisure |  
-| bip_39_word_new_line12 | divide
+| bip_39_word_new_line_12 | divide
 onion
 script
 goddess
@@ -78,34 +78,34 @@ coral
 select
 leisure
 another |  
-| bip_39_word_new_line2 | divide
+| bip_39_word_new_line_2 | divide
 onion |  
-| bip_39_word_new_line3 | divide
+| bip_39_word_new_line_3 | divide
 onion
 script |  
-| bip_39_word_new_line4 | divide
+| bip_39_word_new_line_4 | divide
 onion
 script
 goddess |  
-| bip_39_word_new_line5 | divide
+| bip_39_word_new_line_5 | divide
 onion
 script
 goddess
 deliver |  
-| bip_39_word_new_line6 | divide
+| bip_39_word_new_line_6 | divide
 onion
 script
 goddess
 deliver
 husband |  
-| bip_39_word_new_line7 | divide
+| bip_39_word_new_line_7 | divide
 onion
 script
 goddess
 deliver
 husband
 about |  
-| bip_39_word_new_line8 | divide
+| bip_39_word_new_line_8 | divide
 onion
 script
 goddess
@@ -113,7 +113,7 @@ deliver
 husband
 about
 used |  
-| bip_39_word_new_line9 | divide
+| bip_39_word_new_line_9 | divide
 onion
 script
 goddess

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | photo |  
-| bip_39_word_new_br10 | photo<br>witness<br>obey<br>icon<br>captain<br>glove<br>physical<br>erupt<br>alter<br>whisper |  
-| bip_39_word_new_br11 | photo<br>witness<br>obey<br>icon<br>captain<br>glove<br>physical<br>erupt<br>alter<br>whisper<br>accident |  
-| bip_39_word_new_br12 | photo<br>witness<br>obey<br>icon<br>captain<br>glove<br>physical<br>erupt<br>alter<br>whisper<br>accident<br>already |  
-| bip_39_word_new_br2 | photo<br>witness |  
-| bip_39_word_new_br3 | photo<br>witness<br>obey |  
-| bip_39_word_new_br4 | photo<br>witness<br>obey<br>icon |  
-| bip_39_word_new_br5 | photo<br>witness<br>obey<br>icon<br>captain |  
-| bip_39_word_new_br6 | photo<br>witness<br>obey<br>icon<br>captain<br>glove |  
-| bip_39_word_new_br7 | photo<br>witness<br>obey<br>icon<br>captain<br>glove<br>physical |  
-| bip_39_word_new_br8 | photo<br>witness<br>obey<br>icon<br>captain<br>glove<br>physical<br>erupt |  
-| bip_39_word_new_br9 | photo<br>witness<br>obey<br>icon<br>captain<br>glove<br>physical<br>erupt<br>alter |  
-| bip_39_word_new_line1 | photo |  
-| bip_39_word_new_line10 | photo
+| bip_39_word_new_br_1 | photo |  
+| bip_39_word_new_br_10 | photo<br>witness<br>obey<br>icon<br>captain<br>glove<br>physical<br>erupt<br>alter<br>whisper |  
+| bip_39_word_new_br_11 | photo<br>witness<br>obey<br>icon<br>captain<br>glove<br>physical<br>erupt<br>alter<br>whisper<br>accident |  
+| bip_39_word_new_br_12 | photo<br>witness<br>obey<br>icon<br>captain<br>glove<br>physical<br>erupt<br>alter<br>whisper<br>accident<br>already |  
+| bip_39_word_new_br_2 | photo<br>witness |  
+| bip_39_word_new_br_3 | photo<br>witness<br>obey |  
+| bip_39_word_new_br_4 | photo<br>witness<br>obey<br>icon |  
+| bip_39_word_new_br_5 | photo<br>witness<br>obey<br>icon<br>captain |  
+| bip_39_word_new_br_6 | photo<br>witness<br>obey<br>icon<br>captain<br>glove |  
+| bip_39_word_new_br_7 | photo<br>witness<br>obey<br>icon<br>captain<br>glove<br>physical |  
+| bip_39_word_new_br_8 | photo<br>witness<br>obey<br>icon<br>captain<br>glove<br>physical<br>erupt |  
+| bip_39_word_new_br_9 | photo<br>witness<br>obey<br>icon<br>captain<br>glove<br>physical<br>erupt<br>alter |  
+| bip_39_word_new_line_1 | photo |  
+| bip_39_word_new_line_10 | photo
 witness
 obey
 icon
@@ -55,7 +55,7 @@ physical
 erupt
 alter
 whisper |  
-| bip_39_word_new_line11 | photo
+| bip_39_word_new_line_11 | photo
 witness
 obey
 icon
@@ -66,7 +66,7 @@ erupt
 alter
 whisper
 accident |  
-| bip_39_word_new_line12 | photo
+| bip_39_word_new_line_12 | photo
 witness
 obey
 icon
@@ -78,34 +78,34 @@ alter
 whisper
 accident
 already |  
-| bip_39_word_new_line2 | photo
+| bip_39_word_new_line_2 | photo
 witness |  
-| bip_39_word_new_line3 | photo
+| bip_39_word_new_line_3 | photo
 witness
 obey |  
-| bip_39_word_new_line4 | photo
+| bip_39_word_new_line_4 | photo
 witness
 obey
 icon |  
-| bip_39_word_new_line5 | photo
+| bip_39_word_new_line_5 | photo
 witness
 obey
 icon
 captain |  
-| bip_39_word_new_line6 | photo
+| bip_39_word_new_line_6 | photo
 witness
 obey
 icon
 captain
 glove |  
-| bip_39_word_new_line7 | photo
+| bip_39_word_new_line_7 | photo
 witness
 obey
 icon
 captain
 glove
 physical |  
-| bip_39_word_new_line8 | photo
+| bip_39_word_new_line_8 | photo
 witness
 obey
 icon
@@ -113,7 +113,7 @@ captain
 glove
 physical
 erupt |  
-| bip_39_word_new_line9 | photo
+| bip_39_word_new_line_9 | photo
 witness
 obey
 icon

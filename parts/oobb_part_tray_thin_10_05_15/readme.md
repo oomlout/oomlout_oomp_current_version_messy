@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pistol |  
-| bip_39_word_new_br10 | pistol<br>hawk<br>clap<br>record<br>mix<br>guard<br>service<br>crash<br>mansion<br>cereal |  
-| bip_39_word_new_br11 | pistol<br>hawk<br>clap<br>record<br>mix<br>guard<br>service<br>crash<br>mansion<br>cereal<br>tag |  
-| bip_39_word_new_br12 | pistol<br>hawk<br>clap<br>record<br>mix<br>guard<br>service<br>crash<br>mansion<br>cereal<br>tag<br>acid |  
-| bip_39_word_new_br2 | pistol<br>hawk |  
-| bip_39_word_new_br3 | pistol<br>hawk<br>clap |  
-| bip_39_word_new_br4 | pistol<br>hawk<br>clap<br>record |  
-| bip_39_word_new_br5 | pistol<br>hawk<br>clap<br>record<br>mix |  
-| bip_39_word_new_br6 | pistol<br>hawk<br>clap<br>record<br>mix<br>guard |  
-| bip_39_word_new_br7 | pistol<br>hawk<br>clap<br>record<br>mix<br>guard<br>service |  
-| bip_39_word_new_br8 | pistol<br>hawk<br>clap<br>record<br>mix<br>guard<br>service<br>crash |  
-| bip_39_word_new_br9 | pistol<br>hawk<br>clap<br>record<br>mix<br>guard<br>service<br>crash<br>mansion |  
-| bip_39_word_new_line1 | pistol |  
-| bip_39_word_new_line10 | pistol
+| bip_39_word_new_br_1 | pistol |  
+| bip_39_word_new_br_10 | pistol<br>hawk<br>clap<br>record<br>mix<br>guard<br>service<br>crash<br>mansion<br>cereal |  
+| bip_39_word_new_br_11 | pistol<br>hawk<br>clap<br>record<br>mix<br>guard<br>service<br>crash<br>mansion<br>cereal<br>tag |  
+| bip_39_word_new_br_12 | pistol<br>hawk<br>clap<br>record<br>mix<br>guard<br>service<br>crash<br>mansion<br>cereal<br>tag<br>acid |  
+| bip_39_word_new_br_2 | pistol<br>hawk |  
+| bip_39_word_new_br_3 | pistol<br>hawk<br>clap |  
+| bip_39_word_new_br_4 | pistol<br>hawk<br>clap<br>record |  
+| bip_39_word_new_br_5 | pistol<br>hawk<br>clap<br>record<br>mix |  
+| bip_39_word_new_br_6 | pistol<br>hawk<br>clap<br>record<br>mix<br>guard |  
+| bip_39_word_new_br_7 | pistol<br>hawk<br>clap<br>record<br>mix<br>guard<br>service |  
+| bip_39_word_new_br_8 | pistol<br>hawk<br>clap<br>record<br>mix<br>guard<br>service<br>crash |  
+| bip_39_word_new_br_9 | pistol<br>hawk<br>clap<br>record<br>mix<br>guard<br>service<br>crash<br>mansion |  
+| bip_39_word_new_line_1 | pistol |  
+| bip_39_word_new_line_10 | pistol
 hawk
 clap
 record
@@ -55,7 +55,7 @@ service
 crash
 mansion
 cereal |  
-| bip_39_word_new_line11 | pistol
+| bip_39_word_new_line_11 | pistol
 hawk
 clap
 record
@@ -66,7 +66,7 @@ crash
 mansion
 cereal
 tag |  
-| bip_39_word_new_line12 | pistol
+| bip_39_word_new_line_12 | pistol
 hawk
 clap
 record
@@ -78,34 +78,34 @@ mansion
 cereal
 tag
 acid |  
-| bip_39_word_new_line2 | pistol
+| bip_39_word_new_line_2 | pistol
 hawk |  
-| bip_39_word_new_line3 | pistol
+| bip_39_word_new_line_3 | pistol
 hawk
 clap |  
-| bip_39_word_new_line4 | pistol
+| bip_39_word_new_line_4 | pistol
 hawk
 clap
 record |  
-| bip_39_word_new_line5 | pistol
+| bip_39_word_new_line_5 | pistol
 hawk
 clap
 record
 mix |  
-| bip_39_word_new_line6 | pistol
+| bip_39_word_new_line_6 | pistol
 hawk
 clap
 record
 mix
 guard |  
-| bip_39_word_new_line7 | pistol
+| bip_39_word_new_line_7 | pistol
 hawk
 clap
 record
 mix
 guard
 service |  
-| bip_39_word_new_line8 | pistol
+| bip_39_word_new_line_8 | pistol
 hawk
 clap
 record
@@ -113,7 +113,7 @@ mix
 guard
 service
 crash |  
-| bip_39_word_new_line9 | pistol
+| bip_39_word_new_line_9 | pistol
 hawk
 clap
 record

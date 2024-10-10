@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | parrot |  
-| bip_39_word_new_br10 | parrot<br>album<br>duty<br>farm<br>swear<br>dynamic<br>science<br>twist<br>laugh<br>idea |  
-| bip_39_word_new_br11 | parrot<br>album<br>duty<br>farm<br>swear<br>dynamic<br>science<br>twist<br>laugh<br>idea<br>fade |  
-| bip_39_word_new_br12 | parrot<br>album<br>duty<br>farm<br>swear<br>dynamic<br>science<br>twist<br>laugh<br>idea<br>fade<br>artefact |  
-| bip_39_word_new_br2 | parrot<br>album |  
-| bip_39_word_new_br3 | parrot<br>album<br>duty |  
-| bip_39_word_new_br4 | parrot<br>album<br>duty<br>farm |  
-| bip_39_word_new_br5 | parrot<br>album<br>duty<br>farm<br>swear |  
-| bip_39_word_new_br6 | parrot<br>album<br>duty<br>farm<br>swear<br>dynamic |  
-| bip_39_word_new_br7 | parrot<br>album<br>duty<br>farm<br>swear<br>dynamic<br>science |  
-| bip_39_word_new_br8 | parrot<br>album<br>duty<br>farm<br>swear<br>dynamic<br>science<br>twist |  
-| bip_39_word_new_br9 | parrot<br>album<br>duty<br>farm<br>swear<br>dynamic<br>science<br>twist<br>laugh |  
-| bip_39_word_new_line1 | parrot |  
-| bip_39_word_new_line10 | parrot
+| bip_39_word_new_br_1 | parrot |  
+| bip_39_word_new_br_10 | parrot<br>album<br>duty<br>farm<br>swear<br>dynamic<br>science<br>twist<br>laugh<br>idea |  
+| bip_39_word_new_br_11 | parrot<br>album<br>duty<br>farm<br>swear<br>dynamic<br>science<br>twist<br>laugh<br>idea<br>fade |  
+| bip_39_word_new_br_12 | parrot<br>album<br>duty<br>farm<br>swear<br>dynamic<br>science<br>twist<br>laugh<br>idea<br>fade<br>artefact |  
+| bip_39_word_new_br_2 | parrot<br>album |  
+| bip_39_word_new_br_3 | parrot<br>album<br>duty |  
+| bip_39_word_new_br_4 | parrot<br>album<br>duty<br>farm |  
+| bip_39_word_new_br_5 | parrot<br>album<br>duty<br>farm<br>swear |  
+| bip_39_word_new_br_6 | parrot<br>album<br>duty<br>farm<br>swear<br>dynamic |  
+| bip_39_word_new_br_7 | parrot<br>album<br>duty<br>farm<br>swear<br>dynamic<br>science |  
+| bip_39_word_new_br_8 | parrot<br>album<br>duty<br>farm<br>swear<br>dynamic<br>science<br>twist |  
+| bip_39_word_new_br_9 | parrot<br>album<br>duty<br>farm<br>swear<br>dynamic<br>science<br>twist<br>laugh |  
+| bip_39_word_new_line_1 | parrot |  
+| bip_39_word_new_line_10 | parrot
 album
 duty
 farm
@@ -55,7 +55,7 @@ science
 twist
 laugh
 idea |  
-| bip_39_word_new_line11 | parrot
+| bip_39_word_new_line_11 | parrot
 album
 duty
 farm
@@ -66,7 +66,7 @@ twist
 laugh
 idea
 fade |  
-| bip_39_word_new_line12 | parrot
+| bip_39_word_new_line_12 | parrot
 album
 duty
 farm
@@ -78,34 +78,34 @@ laugh
 idea
 fade
 artefact |  
-| bip_39_word_new_line2 | parrot
+| bip_39_word_new_line_2 | parrot
 album |  
-| bip_39_word_new_line3 | parrot
+| bip_39_word_new_line_3 | parrot
 album
 duty |  
-| bip_39_word_new_line4 | parrot
+| bip_39_word_new_line_4 | parrot
 album
 duty
 farm |  
-| bip_39_word_new_line5 | parrot
+| bip_39_word_new_line_5 | parrot
 album
 duty
 farm
 swear |  
-| bip_39_word_new_line6 | parrot
+| bip_39_word_new_line_6 | parrot
 album
 duty
 farm
 swear
 dynamic |  
-| bip_39_word_new_line7 | parrot
+| bip_39_word_new_line_7 | parrot
 album
 duty
 farm
 swear
 dynamic
 science |  
-| bip_39_word_new_line8 | parrot
+| bip_39_word_new_line_8 | parrot
 album
 duty
 farm
@@ -113,7 +113,7 @@ swear
 dynamic
 science
 twist |  
-| bip_39_word_new_line9 | parrot
+| bip_39_word_new_line_9 | parrot
 album
 duty
 farm

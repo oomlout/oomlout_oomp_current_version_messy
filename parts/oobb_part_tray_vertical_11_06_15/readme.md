@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | insect |  
-| bip_39_word_new_br10 | insect<br>giraffe<br>gold<br>fence<br>special<br>test<br>roast<br>lion<br>radio<br>mushroom |  
-| bip_39_word_new_br11 | insect<br>giraffe<br>gold<br>fence<br>special<br>test<br>roast<br>lion<br>radio<br>mushroom<br>great |  
-| bip_39_word_new_br12 | insect<br>giraffe<br>gold<br>fence<br>special<br>test<br>roast<br>lion<br>radio<br>mushroom<br>great<br>already |  
-| bip_39_word_new_br2 | insect<br>giraffe |  
-| bip_39_word_new_br3 | insect<br>giraffe<br>gold |  
-| bip_39_word_new_br4 | insect<br>giraffe<br>gold<br>fence |  
-| bip_39_word_new_br5 | insect<br>giraffe<br>gold<br>fence<br>special |  
-| bip_39_word_new_br6 | insect<br>giraffe<br>gold<br>fence<br>special<br>test |  
-| bip_39_word_new_br7 | insect<br>giraffe<br>gold<br>fence<br>special<br>test<br>roast |  
-| bip_39_word_new_br8 | insect<br>giraffe<br>gold<br>fence<br>special<br>test<br>roast<br>lion |  
-| bip_39_word_new_br9 | insect<br>giraffe<br>gold<br>fence<br>special<br>test<br>roast<br>lion<br>radio |  
-| bip_39_word_new_line1 | insect |  
-| bip_39_word_new_line10 | insect
+| bip_39_word_new_br_1 | insect |  
+| bip_39_word_new_br_10 | insect<br>giraffe<br>gold<br>fence<br>special<br>test<br>roast<br>lion<br>radio<br>mushroom |  
+| bip_39_word_new_br_11 | insect<br>giraffe<br>gold<br>fence<br>special<br>test<br>roast<br>lion<br>radio<br>mushroom<br>great |  
+| bip_39_word_new_br_12 | insect<br>giraffe<br>gold<br>fence<br>special<br>test<br>roast<br>lion<br>radio<br>mushroom<br>great<br>already |  
+| bip_39_word_new_br_2 | insect<br>giraffe |  
+| bip_39_word_new_br_3 | insect<br>giraffe<br>gold |  
+| bip_39_word_new_br_4 | insect<br>giraffe<br>gold<br>fence |  
+| bip_39_word_new_br_5 | insect<br>giraffe<br>gold<br>fence<br>special |  
+| bip_39_word_new_br_6 | insect<br>giraffe<br>gold<br>fence<br>special<br>test |  
+| bip_39_word_new_br_7 | insect<br>giraffe<br>gold<br>fence<br>special<br>test<br>roast |  
+| bip_39_word_new_br_8 | insect<br>giraffe<br>gold<br>fence<br>special<br>test<br>roast<br>lion |  
+| bip_39_word_new_br_9 | insect<br>giraffe<br>gold<br>fence<br>special<br>test<br>roast<br>lion<br>radio |  
+| bip_39_word_new_line_1 | insect |  
+| bip_39_word_new_line_10 | insect
 giraffe
 gold
 fence
@@ -55,7 +55,7 @@ roast
 lion
 radio
 mushroom |  
-| bip_39_word_new_line11 | insect
+| bip_39_word_new_line_11 | insect
 giraffe
 gold
 fence
@@ -66,7 +66,7 @@ lion
 radio
 mushroom
 great |  
-| bip_39_word_new_line12 | insect
+| bip_39_word_new_line_12 | insect
 giraffe
 gold
 fence
@@ -78,34 +78,34 @@ radio
 mushroom
 great
 already |  
-| bip_39_word_new_line2 | insect
+| bip_39_word_new_line_2 | insect
 giraffe |  
-| bip_39_word_new_line3 | insect
+| bip_39_word_new_line_3 | insect
 giraffe
 gold |  
-| bip_39_word_new_line4 | insect
+| bip_39_word_new_line_4 | insect
 giraffe
 gold
 fence |  
-| bip_39_word_new_line5 | insect
+| bip_39_word_new_line_5 | insect
 giraffe
 gold
 fence
 special |  
-| bip_39_word_new_line6 | insect
+| bip_39_word_new_line_6 | insect
 giraffe
 gold
 fence
 special
 test |  
-| bip_39_word_new_line7 | insect
+| bip_39_word_new_line_7 | insect
 giraffe
 gold
 fence
 special
 test
 roast |  
-| bip_39_word_new_line8 | insect
+| bip_39_word_new_line_8 | insect
 giraffe
 gold
 fence
@@ -113,7 +113,7 @@ special
 test
 roast
 lion |  
-| bip_39_word_new_line9 | insect
+| bip_39_word_new_line_9 | insect
 giraffe
 gold
 fence

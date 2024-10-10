@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | welcome |  
-| bip_39_word_new_br10 | welcome<br>chronic<br>inform<br>rug<br>record<br>royal<br>harvest<br>thank<br>caught<br>push |  
-| bip_39_word_new_br11 | welcome<br>chronic<br>inform<br>rug<br>record<br>royal<br>harvest<br>thank<br>caught<br>push<br>inquiry |  
-| bip_39_word_new_br12 | welcome<br>chronic<br>inform<br>rug<br>record<br>royal<br>harvest<br>thank<br>caught<br>push<br>inquiry<br>across |  
-| bip_39_word_new_br2 | welcome<br>chronic |  
-| bip_39_word_new_br3 | welcome<br>chronic<br>inform |  
-| bip_39_word_new_br4 | welcome<br>chronic<br>inform<br>rug |  
-| bip_39_word_new_br5 | welcome<br>chronic<br>inform<br>rug<br>record |  
-| bip_39_word_new_br6 | welcome<br>chronic<br>inform<br>rug<br>record<br>royal |  
-| bip_39_word_new_br7 | welcome<br>chronic<br>inform<br>rug<br>record<br>royal<br>harvest |  
-| bip_39_word_new_br8 | welcome<br>chronic<br>inform<br>rug<br>record<br>royal<br>harvest<br>thank |  
-| bip_39_word_new_br9 | welcome<br>chronic<br>inform<br>rug<br>record<br>royal<br>harvest<br>thank<br>caught |  
-| bip_39_word_new_line1 | welcome |  
-| bip_39_word_new_line10 | welcome
+| bip_39_word_new_br_1 | welcome |  
+| bip_39_word_new_br_10 | welcome<br>chronic<br>inform<br>rug<br>record<br>royal<br>harvest<br>thank<br>caught<br>push |  
+| bip_39_word_new_br_11 | welcome<br>chronic<br>inform<br>rug<br>record<br>royal<br>harvest<br>thank<br>caught<br>push<br>inquiry |  
+| bip_39_word_new_br_12 | welcome<br>chronic<br>inform<br>rug<br>record<br>royal<br>harvest<br>thank<br>caught<br>push<br>inquiry<br>across |  
+| bip_39_word_new_br_2 | welcome<br>chronic |  
+| bip_39_word_new_br_3 | welcome<br>chronic<br>inform |  
+| bip_39_word_new_br_4 | welcome<br>chronic<br>inform<br>rug |  
+| bip_39_word_new_br_5 | welcome<br>chronic<br>inform<br>rug<br>record |  
+| bip_39_word_new_br_6 | welcome<br>chronic<br>inform<br>rug<br>record<br>royal |  
+| bip_39_word_new_br_7 | welcome<br>chronic<br>inform<br>rug<br>record<br>royal<br>harvest |  
+| bip_39_word_new_br_8 | welcome<br>chronic<br>inform<br>rug<br>record<br>royal<br>harvest<br>thank |  
+| bip_39_word_new_br_9 | welcome<br>chronic<br>inform<br>rug<br>record<br>royal<br>harvest<br>thank<br>caught |  
+| bip_39_word_new_line_1 | welcome |  
+| bip_39_word_new_line_10 | welcome
 chronic
 inform
 rug
@@ -55,7 +55,7 @@ harvest
 thank
 caught
 push |  
-| bip_39_word_new_line11 | welcome
+| bip_39_word_new_line_11 | welcome
 chronic
 inform
 rug
@@ -66,7 +66,7 @@ thank
 caught
 push
 inquiry |  
-| bip_39_word_new_line12 | welcome
+| bip_39_word_new_line_12 | welcome
 chronic
 inform
 rug
@@ -78,34 +78,34 @@ caught
 push
 inquiry
 across |  
-| bip_39_word_new_line2 | welcome
+| bip_39_word_new_line_2 | welcome
 chronic |  
-| bip_39_word_new_line3 | welcome
+| bip_39_word_new_line_3 | welcome
 chronic
 inform |  
-| bip_39_word_new_line4 | welcome
+| bip_39_word_new_line_4 | welcome
 chronic
 inform
 rug |  
-| bip_39_word_new_line5 | welcome
+| bip_39_word_new_line_5 | welcome
 chronic
 inform
 rug
 record |  
-| bip_39_word_new_line6 | welcome
+| bip_39_word_new_line_6 | welcome
 chronic
 inform
 rug
 record
 royal |  
-| bip_39_word_new_line7 | welcome
+| bip_39_word_new_line_7 | welcome
 chronic
 inform
 rug
 record
 royal
 harvest |  
-| bip_39_word_new_line8 | welcome
+| bip_39_word_new_line_8 | welcome
 chronic
 inform
 rug
@@ -113,7 +113,7 @@ record
 royal
 harvest
 thank |  
-| bip_39_word_new_line9 | welcome
+| bip_39_word_new_line_9 | welcome
 chronic
 inform
 rug

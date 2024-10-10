@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | grief |  
-| bip_39_word_new_br10 | grief<br>wasp<br>vault<br>advance<br>disorder<br>surprise<br>below<br>hole<br>relax<br>spare |  
-| bip_39_word_new_br11 | grief<br>wasp<br>vault<br>advance<br>disorder<br>surprise<br>below<br>hole<br>relax<br>spare<br>zoo |  
-| bip_39_word_new_br12 | grief<br>wasp<br>vault<br>advance<br>disorder<br>surprise<br>below<br>hole<br>relax<br>spare<br>zoo<br>already |  
-| bip_39_word_new_br2 | grief<br>wasp |  
-| bip_39_word_new_br3 | grief<br>wasp<br>vault |  
-| bip_39_word_new_br4 | grief<br>wasp<br>vault<br>advance |  
-| bip_39_word_new_br5 | grief<br>wasp<br>vault<br>advance<br>disorder |  
-| bip_39_word_new_br6 | grief<br>wasp<br>vault<br>advance<br>disorder<br>surprise |  
-| bip_39_word_new_br7 | grief<br>wasp<br>vault<br>advance<br>disorder<br>surprise<br>below |  
-| bip_39_word_new_br8 | grief<br>wasp<br>vault<br>advance<br>disorder<br>surprise<br>below<br>hole |  
-| bip_39_word_new_br9 | grief<br>wasp<br>vault<br>advance<br>disorder<br>surprise<br>below<br>hole<br>relax |  
-| bip_39_word_new_line1 | grief |  
-| bip_39_word_new_line10 | grief
+| bip_39_word_new_br_1 | grief |  
+| bip_39_word_new_br_10 | grief<br>wasp<br>vault<br>advance<br>disorder<br>surprise<br>below<br>hole<br>relax<br>spare |  
+| bip_39_word_new_br_11 | grief<br>wasp<br>vault<br>advance<br>disorder<br>surprise<br>below<br>hole<br>relax<br>spare<br>zoo |  
+| bip_39_word_new_br_12 | grief<br>wasp<br>vault<br>advance<br>disorder<br>surprise<br>below<br>hole<br>relax<br>spare<br>zoo<br>already |  
+| bip_39_word_new_br_2 | grief<br>wasp |  
+| bip_39_word_new_br_3 | grief<br>wasp<br>vault |  
+| bip_39_word_new_br_4 | grief<br>wasp<br>vault<br>advance |  
+| bip_39_word_new_br_5 | grief<br>wasp<br>vault<br>advance<br>disorder |  
+| bip_39_word_new_br_6 | grief<br>wasp<br>vault<br>advance<br>disorder<br>surprise |  
+| bip_39_word_new_br_7 | grief<br>wasp<br>vault<br>advance<br>disorder<br>surprise<br>below |  
+| bip_39_word_new_br_8 | grief<br>wasp<br>vault<br>advance<br>disorder<br>surprise<br>below<br>hole |  
+| bip_39_word_new_br_9 | grief<br>wasp<br>vault<br>advance<br>disorder<br>surprise<br>below<br>hole<br>relax |  
+| bip_39_word_new_line_1 | grief |  
+| bip_39_word_new_line_10 | grief
 wasp
 vault
 advance
@@ -55,7 +55,7 @@ below
 hole
 relax
 spare |  
-| bip_39_word_new_line11 | grief
+| bip_39_word_new_line_11 | grief
 wasp
 vault
 advance
@@ -66,7 +66,7 @@ hole
 relax
 spare
 zoo |  
-| bip_39_word_new_line12 | grief
+| bip_39_word_new_line_12 | grief
 wasp
 vault
 advance
@@ -78,34 +78,34 @@ relax
 spare
 zoo
 already |  
-| bip_39_word_new_line2 | grief
+| bip_39_word_new_line_2 | grief
 wasp |  
-| bip_39_word_new_line3 | grief
+| bip_39_word_new_line_3 | grief
 wasp
 vault |  
-| bip_39_word_new_line4 | grief
+| bip_39_word_new_line_4 | grief
 wasp
 vault
 advance |  
-| bip_39_word_new_line5 | grief
+| bip_39_word_new_line_5 | grief
 wasp
 vault
 advance
 disorder |  
-| bip_39_word_new_line6 | grief
+| bip_39_word_new_line_6 | grief
 wasp
 vault
 advance
 disorder
 surprise |  
-| bip_39_word_new_line7 | grief
+| bip_39_word_new_line_7 | grief
 wasp
 vault
 advance
 disorder
 surprise
 below |  
-| bip_39_word_new_line8 | grief
+| bip_39_word_new_line_8 | grief
 wasp
 vault
 advance
@@ -113,7 +113,7 @@ disorder
 surprise
 below
 hole |  
-| bip_39_word_new_line9 | grief
+| bip_39_word_new_line_9 | grief
 wasp
 vault
 advance

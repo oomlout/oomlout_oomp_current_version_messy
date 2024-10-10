@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | tobacco |  
-| bip_39_word_new_br10 | tobacco<br>bike<br>donor<br>exit<br>insane<br>lecture<br>nut<br>purchase<br>laundry<br>amount |  
-| bip_39_word_new_br11 | tobacco<br>bike<br>donor<br>exit<br>insane<br>lecture<br>nut<br>purchase<br>laundry<br>amount<br>cheese |  
-| bip_39_word_new_br12 | tobacco<br>bike<br>donor<br>exit<br>insane<br>lecture<br>nut<br>purchase<br>laundry<br>amount<br>cheese<br>actor |  
-| bip_39_word_new_br2 | tobacco<br>bike |  
-| bip_39_word_new_br3 | tobacco<br>bike<br>donor |  
-| bip_39_word_new_br4 | tobacco<br>bike<br>donor<br>exit |  
-| bip_39_word_new_br5 | tobacco<br>bike<br>donor<br>exit<br>insane |  
-| bip_39_word_new_br6 | tobacco<br>bike<br>donor<br>exit<br>insane<br>lecture |  
-| bip_39_word_new_br7 | tobacco<br>bike<br>donor<br>exit<br>insane<br>lecture<br>nut |  
-| bip_39_word_new_br8 | tobacco<br>bike<br>donor<br>exit<br>insane<br>lecture<br>nut<br>purchase |  
-| bip_39_word_new_br9 | tobacco<br>bike<br>donor<br>exit<br>insane<br>lecture<br>nut<br>purchase<br>laundry |  
-| bip_39_word_new_line1 | tobacco |  
-| bip_39_word_new_line10 | tobacco
+| bip_39_word_new_br_1 | tobacco |  
+| bip_39_word_new_br_10 | tobacco<br>bike<br>donor<br>exit<br>insane<br>lecture<br>nut<br>purchase<br>laundry<br>amount |  
+| bip_39_word_new_br_11 | tobacco<br>bike<br>donor<br>exit<br>insane<br>lecture<br>nut<br>purchase<br>laundry<br>amount<br>cheese |  
+| bip_39_word_new_br_12 | tobacco<br>bike<br>donor<br>exit<br>insane<br>lecture<br>nut<br>purchase<br>laundry<br>amount<br>cheese<br>actor |  
+| bip_39_word_new_br_2 | tobacco<br>bike |  
+| bip_39_word_new_br_3 | tobacco<br>bike<br>donor |  
+| bip_39_word_new_br_4 | tobacco<br>bike<br>donor<br>exit |  
+| bip_39_word_new_br_5 | tobacco<br>bike<br>donor<br>exit<br>insane |  
+| bip_39_word_new_br_6 | tobacco<br>bike<br>donor<br>exit<br>insane<br>lecture |  
+| bip_39_word_new_br_7 | tobacco<br>bike<br>donor<br>exit<br>insane<br>lecture<br>nut |  
+| bip_39_word_new_br_8 | tobacco<br>bike<br>donor<br>exit<br>insane<br>lecture<br>nut<br>purchase |  
+| bip_39_word_new_br_9 | tobacco<br>bike<br>donor<br>exit<br>insane<br>lecture<br>nut<br>purchase<br>laundry |  
+| bip_39_word_new_line_1 | tobacco |  
+| bip_39_word_new_line_10 | tobacco
 bike
 donor
 exit
@@ -55,7 +55,7 @@ nut
 purchase
 laundry
 amount |  
-| bip_39_word_new_line11 | tobacco
+| bip_39_word_new_line_11 | tobacco
 bike
 donor
 exit
@@ -66,7 +66,7 @@ purchase
 laundry
 amount
 cheese |  
-| bip_39_word_new_line12 | tobacco
+| bip_39_word_new_line_12 | tobacco
 bike
 donor
 exit
@@ -78,34 +78,34 @@ laundry
 amount
 cheese
 actor |  
-| bip_39_word_new_line2 | tobacco
+| bip_39_word_new_line_2 | tobacco
 bike |  
-| bip_39_word_new_line3 | tobacco
+| bip_39_word_new_line_3 | tobacco
 bike
 donor |  
-| bip_39_word_new_line4 | tobacco
+| bip_39_word_new_line_4 | tobacco
 bike
 donor
 exit |  
-| bip_39_word_new_line5 | tobacco
+| bip_39_word_new_line_5 | tobacco
 bike
 donor
 exit
 insane |  
-| bip_39_word_new_line6 | tobacco
+| bip_39_word_new_line_6 | tobacco
 bike
 donor
 exit
 insane
 lecture |  
-| bip_39_word_new_line7 | tobacco
+| bip_39_word_new_line_7 | tobacco
 bike
 donor
 exit
 insane
 lecture
 nut |  
-| bip_39_word_new_line8 | tobacco
+| bip_39_word_new_line_8 | tobacco
 bike
 donor
 exit
@@ -113,7 +113,7 @@ insane
 lecture
 nut
 purchase |  
-| bip_39_word_new_line9 | tobacco
+| bip_39_word_new_line_9 | tobacco
 bike
 donor
 exit

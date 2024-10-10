@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | domain |  
-| bip_39_word_new_br10 | domain<br>tiger<br>orphan<br>phone<br>inflict<br>course<br>since<br>wheel<br>great<br>primary |  
-| bip_39_word_new_br11 | domain<br>tiger<br>orphan<br>phone<br>inflict<br>course<br>since<br>wheel<br>great<br>primary<br>net |  
-| bip_39_word_new_br12 | domain<br>tiger<br>orphan<br>phone<br>inflict<br>course<br>since<br>wheel<br>great<br>primary<br>net<br>attend |  
-| bip_39_word_new_br2 | domain<br>tiger |  
-| bip_39_word_new_br3 | domain<br>tiger<br>orphan |  
-| bip_39_word_new_br4 | domain<br>tiger<br>orphan<br>phone |  
-| bip_39_word_new_br5 | domain<br>tiger<br>orphan<br>phone<br>inflict |  
-| bip_39_word_new_br6 | domain<br>tiger<br>orphan<br>phone<br>inflict<br>course |  
-| bip_39_word_new_br7 | domain<br>tiger<br>orphan<br>phone<br>inflict<br>course<br>since |  
-| bip_39_word_new_br8 | domain<br>tiger<br>orphan<br>phone<br>inflict<br>course<br>since<br>wheel |  
-| bip_39_word_new_br9 | domain<br>tiger<br>orphan<br>phone<br>inflict<br>course<br>since<br>wheel<br>great |  
-| bip_39_word_new_line1 | domain |  
-| bip_39_word_new_line10 | domain
+| bip_39_word_new_br_1 | domain |  
+| bip_39_word_new_br_10 | domain<br>tiger<br>orphan<br>phone<br>inflict<br>course<br>since<br>wheel<br>great<br>primary |  
+| bip_39_word_new_br_11 | domain<br>tiger<br>orphan<br>phone<br>inflict<br>course<br>since<br>wheel<br>great<br>primary<br>net |  
+| bip_39_word_new_br_12 | domain<br>tiger<br>orphan<br>phone<br>inflict<br>course<br>since<br>wheel<br>great<br>primary<br>net<br>attend |  
+| bip_39_word_new_br_2 | domain<br>tiger |  
+| bip_39_word_new_br_3 | domain<br>tiger<br>orphan |  
+| bip_39_word_new_br_4 | domain<br>tiger<br>orphan<br>phone |  
+| bip_39_word_new_br_5 | domain<br>tiger<br>orphan<br>phone<br>inflict |  
+| bip_39_word_new_br_6 | domain<br>tiger<br>orphan<br>phone<br>inflict<br>course |  
+| bip_39_word_new_br_7 | domain<br>tiger<br>orphan<br>phone<br>inflict<br>course<br>since |  
+| bip_39_word_new_br_8 | domain<br>tiger<br>orphan<br>phone<br>inflict<br>course<br>since<br>wheel |  
+| bip_39_word_new_br_9 | domain<br>tiger<br>orphan<br>phone<br>inflict<br>course<br>since<br>wheel<br>great |  
+| bip_39_word_new_line_1 | domain |  
+| bip_39_word_new_line_10 | domain
 tiger
 orphan
 phone
@@ -55,7 +55,7 @@ since
 wheel
 great
 primary |  
-| bip_39_word_new_line11 | domain
+| bip_39_word_new_line_11 | domain
 tiger
 orphan
 phone
@@ -66,7 +66,7 @@ wheel
 great
 primary
 net |  
-| bip_39_word_new_line12 | domain
+| bip_39_word_new_line_12 | domain
 tiger
 orphan
 phone
@@ -78,34 +78,34 @@ great
 primary
 net
 attend |  
-| bip_39_word_new_line2 | domain
+| bip_39_word_new_line_2 | domain
 tiger |  
-| bip_39_word_new_line3 | domain
+| bip_39_word_new_line_3 | domain
 tiger
 orphan |  
-| bip_39_word_new_line4 | domain
+| bip_39_word_new_line_4 | domain
 tiger
 orphan
 phone |  
-| bip_39_word_new_line5 | domain
+| bip_39_word_new_line_5 | domain
 tiger
 orphan
 phone
 inflict |  
-| bip_39_word_new_line6 | domain
+| bip_39_word_new_line_6 | domain
 tiger
 orphan
 phone
 inflict
 course |  
-| bip_39_word_new_line7 | domain
+| bip_39_word_new_line_7 | domain
 tiger
 orphan
 phone
 inflict
 course
 since |  
-| bip_39_word_new_line8 | domain
+| bip_39_word_new_line_8 | domain
 tiger
 orphan
 phone
@@ -113,7 +113,7 @@ inflict
 course
 since
 wheel |  
-| bip_39_word_new_line9 | domain
+| bip_39_word_new_line_9 | domain
 tiger
 orphan
 phone

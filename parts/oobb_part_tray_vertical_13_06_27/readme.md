@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | chef |  
-| bip_39_word_new_br10 | chef<br>slogan<br>toe<br>bulb<br>clean<br>merry<br>nothing<br>laugh<br>cherry<br>measure |  
-| bip_39_word_new_br11 | chef<br>slogan<br>toe<br>bulb<br>clean<br>merry<br>nothing<br>laugh<br>cherry<br>measure<br>monitor |  
-| bip_39_word_new_br12 | chef<br>slogan<br>toe<br>bulb<br>clean<br>merry<br>nothing<br>laugh<br>cherry<br>measure<br>monitor<br>again |  
-| bip_39_word_new_br2 | chef<br>slogan |  
-| bip_39_word_new_br3 | chef<br>slogan<br>toe |  
-| bip_39_word_new_br4 | chef<br>slogan<br>toe<br>bulb |  
-| bip_39_word_new_br5 | chef<br>slogan<br>toe<br>bulb<br>clean |  
-| bip_39_word_new_br6 | chef<br>slogan<br>toe<br>bulb<br>clean<br>merry |  
-| bip_39_word_new_br7 | chef<br>slogan<br>toe<br>bulb<br>clean<br>merry<br>nothing |  
-| bip_39_word_new_br8 | chef<br>slogan<br>toe<br>bulb<br>clean<br>merry<br>nothing<br>laugh |  
-| bip_39_word_new_br9 | chef<br>slogan<br>toe<br>bulb<br>clean<br>merry<br>nothing<br>laugh<br>cherry |  
-| bip_39_word_new_line1 | chef |  
-| bip_39_word_new_line10 | chef
+| bip_39_word_new_br_1 | chef |  
+| bip_39_word_new_br_10 | chef<br>slogan<br>toe<br>bulb<br>clean<br>merry<br>nothing<br>laugh<br>cherry<br>measure |  
+| bip_39_word_new_br_11 | chef<br>slogan<br>toe<br>bulb<br>clean<br>merry<br>nothing<br>laugh<br>cherry<br>measure<br>monitor |  
+| bip_39_word_new_br_12 | chef<br>slogan<br>toe<br>bulb<br>clean<br>merry<br>nothing<br>laugh<br>cherry<br>measure<br>monitor<br>again |  
+| bip_39_word_new_br_2 | chef<br>slogan |  
+| bip_39_word_new_br_3 | chef<br>slogan<br>toe |  
+| bip_39_word_new_br_4 | chef<br>slogan<br>toe<br>bulb |  
+| bip_39_word_new_br_5 | chef<br>slogan<br>toe<br>bulb<br>clean |  
+| bip_39_word_new_br_6 | chef<br>slogan<br>toe<br>bulb<br>clean<br>merry |  
+| bip_39_word_new_br_7 | chef<br>slogan<br>toe<br>bulb<br>clean<br>merry<br>nothing |  
+| bip_39_word_new_br_8 | chef<br>slogan<br>toe<br>bulb<br>clean<br>merry<br>nothing<br>laugh |  
+| bip_39_word_new_br_9 | chef<br>slogan<br>toe<br>bulb<br>clean<br>merry<br>nothing<br>laugh<br>cherry |  
+| bip_39_word_new_line_1 | chef |  
+| bip_39_word_new_line_10 | chef
 slogan
 toe
 bulb
@@ -55,7 +55,7 @@ nothing
 laugh
 cherry
 measure |  
-| bip_39_word_new_line11 | chef
+| bip_39_word_new_line_11 | chef
 slogan
 toe
 bulb
@@ -66,7 +66,7 @@ laugh
 cherry
 measure
 monitor |  
-| bip_39_word_new_line12 | chef
+| bip_39_word_new_line_12 | chef
 slogan
 toe
 bulb
@@ -78,34 +78,34 @@ cherry
 measure
 monitor
 again |  
-| bip_39_word_new_line2 | chef
+| bip_39_word_new_line_2 | chef
 slogan |  
-| bip_39_word_new_line3 | chef
+| bip_39_word_new_line_3 | chef
 slogan
 toe |  
-| bip_39_word_new_line4 | chef
+| bip_39_word_new_line_4 | chef
 slogan
 toe
 bulb |  
-| bip_39_word_new_line5 | chef
+| bip_39_word_new_line_5 | chef
 slogan
 toe
 bulb
 clean |  
-| bip_39_word_new_line6 | chef
+| bip_39_word_new_line_6 | chef
 slogan
 toe
 bulb
 clean
 merry |  
-| bip_39_word_new_line7 | chef
+| bip_39_word_new_line_7 | chef
 slogan
 toe
 bulb
 clean
 merry
 nothing |  
-| bip_39_word_new_line8 | chef
+| bip_39_word_new_line_8 | chef
 slogan
 toe
 bulb
@@ -113,7 +113,7 @@ clean
 merry
 nothing
 laugh |  
-| bip_39_word_new_line9 | chef
+| bip_39_word_new_line_9 | chef
 slogan
 toe
 bulb

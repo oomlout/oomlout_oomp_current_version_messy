@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | year |  
-| bip_39_word_new_br10 | year<br>step<br>easy<br>uniform<br>vicious<br>explain<br>funny<br>behind<br>stand<br>drastic |  
-| bip_39_word_new_br11 | year<br>step<br>easy<br>uniform<br>vicious<br>explain<br>funny<br>behind<br>stand<br>drastic<br>cute |  
-| bip_39_word_new_br12 | year<br>step<br>easy<br>uniform<br>vicious<br>explain<br>funny<br>behind<br>stand<br>drastic<br>cute<br>armed |  
-| bip_39_word_new_br2 | year<br>step |  
-| bip_39_word_new_br3 | year<br>step<br>easy |  
-| bip_39_word_new_br4 | year<br>step<br>easy<br>uniform |  
-| bip_39_word_new_br5 | year<br>step<br>easy<br>uniform<br>vicious |  
-| bip_39_word_new_br6 | year<br>step<br>easy<br>uniform<br>vicious<br>explain |  
-| bip_39_word_new_br7 | year<br>step<br>easy<br>uniform<br>vicious<br>explain<br>funny |  
-| bip_39_word_new_br8 | year<br>step<br>easy<br>uniform<br>vicious<br>explain<br>funny<br>behind |  
-| bip_39_word_new_br9 | year<br>step<br>easy<br>uniform<br>vicious<br>explain<br>funny<br>behind<br>stand |  
-| bip_39_word_new_line1 | year |  
-| bip_39_word_new_line10 | year
+| bip_39_word_new_br_1 | year |  
+| bip_39_word_new_br_10 | year<br>step<br>easy<br>uniform<br>vicious<br>explain<br>funny<br>behind<br>stand<br>drastic |  
+| bip_39_word_new_br_11 | year<br>step<br>easy<br>uniform<br>vicious<br>explain<br>funny<br>behind<br>stand<br>drastic<br>cute |  
+| bip_39_word_new_br_12 | year<br>step<br>easy<br>uniform<br>vicious<br>explain<br>funny<br>behind<br>stand<br>drastic<br>cute<br>armed |  
+| bip_39_word_new_br_2 | year<br>step |  
+| bip_39_word_new_br_3 | year<br>step<br>easy |  
+| bip_39_word_new_br_4 | year<br>step<br>easy<br>uniform |  
+| bip_39_word_new_br_5 | year<br>step<br>easy<br>uniform<br>vicious |  
+| bip_39_word_new_br_6 | year<br>step<br>easy<br>uniform<br>vicious<br>explain |  
+| bip_39_word_new_br_7 | year<br>step<br>easy<br>uniform<br>vicious<br>explain<br>funny |  
+| bip_39_word_new_br_8 | year<br>step<br>easy<br>uniform<br>vicious<br>explain<br>funny<br>behind |  
+| bip_39_word_new_br_9 | year<br>step<br>easy<br>uniform<br>vicious<br>explain<br>funny<br>behind<br>stand |  
+| bip_39_word_new_line_1 | year |  
+| bip_39_word_new_line_10 | year
 step
 easy
 uniform
@@ -55,7 +55,7 @@ funny
 behind
 stand
 drastic |  
-| bip_39_word_new_line11 | year
+| bip_39_word_new_line_11 | year
 step
 easy
 uniform
@@ -66,7 +66,7 @@ behind
 stand
 drastic
 cute |  
-| bip_39_word_new_line12 | year
+| bip_39_word_new_line_12 | year
 step
 easy
 uniform
@@ -78,34 +78,34 @@ stand
 drastic
 cute
 armed |  
-| bip_39_word_new_line2 | year
+| bip_39_word_new_line_2 | year
 step |  
-| bip_39_word_new_line3 | year
+| bip_39_word_new_line_3 | year
 step
 easy |  
-| bip_39_word_new_line4 | year
+| bip_39_word_new_line_4 | year
 step
 easy
 uniform |  
-| bip_39_word_new_line5 | year
+| bip_39_word_new_line_5 | year
 step
 easy
 uniform
 vicious |  
-| bip_39_word_new_line6 | year
+| bip_39_word_new_line_6 | year
 step
 easy
 uniform
 vicious
 explain |  
-| bip_39_word_new_line7 | year
+| bip_39_word_new_line_7 | year
 step
 easy
 uniform
 vicious
 explain
 funny |  
-| bip_39_word_new_line8 | year
+| bip_39_word_new_line_8 | year
 step
 easy
 uniform
@@ -113,7 +113,7 @@ vicious
 explain
 funny
 behind |  
-| bip_39_word_new_line9 | year
+| bip_39_word_new_line_9 | year
 step
 easy
 uniform

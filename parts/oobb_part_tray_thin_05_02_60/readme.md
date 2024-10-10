@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | snap |  
-| bip_39_word_new_br10 | snap<br>canyon<br>indoor<br>defense<br>hero<br>share<br>effort<br>budget<br>together<br>maximum |  
-| bip_39_word_new_br11 | snap<br>canyon<br>indoor<br>defense<br>hero<br>share<br>effort<br>budget<br>together<br>maximum<br>flight |  
-| bip_39_word_new_br12 | snap<br>canyon<br>indoor<br>defense<br>hero<br>share<br>effort<br>budget<br>together<br>maximum<br>flight<br>aim |  
-| bip_39_word_new_br2 | snap<br>canyon |  
-| bip_39_word_new_br3 | snap<br>canyon<br>indoor |  
-| bip_39_word_new_br4 | snap<br>canyon<br>indoor<br>defense |  
-| bip_39_word_new_br5 | snap<br>canyon<br>indoor<br>defense<br>hero |  
-| bip_39_word_new_br6 | snap<br>canyon<br>indoor<br>defense<br>hero<br>share |  
-| bip_39_word_new_br7 | snap<br>canyon<br>indoor<br>defense<br>hero<br>share<br>effort |  
-| bip_39_word_new_br8 | snap<br>canyon<br>indoor<br>defense<br>hero<br>share<br>effort<br>budget |  
-| bip_39_word_new_br9 | snap<br>canyon<br>indoor<br>defense<br>hero<br>share<br>effort<br>budget<br>together |  
-| bip_39_word_new_line1 | snap |  
-| bip_39_word_new_line10 | snap
+| bip_39_word_new_br_1 | snap |  
+| bip_39_word_new_br_10 | snap<br>canyon<br>indoor<br>defense<br>hero<br>share<br>effort<br>budget<br>together<br>maximum |  
+| bip_39_word_new_br_11 | snap<br>canyon<br>indoor<br>defense<br>hero<br>share<br>effort<br>budget<br>together<br>maximum<br>flight |  
+| bip_39_word_new_br_12 | snap<br>canyon<br>indoor<br>defense<br>hero<br>share<br>effort<br>budget<br>together<br>maximum<br>flight<br>aim |  
+| bip_39_word_new_br_2 | snap<br>canyon |  
+| bip_39_word_new_br_3 | snap<br>canyon<br>indoor |  
+| bip_39_word_new_br_4 | snap<br>canyon<br>indoor<br>defense |  
+| bip_39_word_new_br_5 | snap<br>canyon<br>indoor<br>defense<br>hero |  
+| bip_39_word_new_br_6 | snap<br>canyon<br>indoor<br>defense<br>hero<br>share |  
+| bip_39_word_new_br_7 | snap<br>canyon<br>indoor<br>defense<br>hero<br>share<br>effort |  
+| bip_39_word_new_br_8 | snap<br>canyon<br>indoor<br>defense<br>hero<br>share<br>effort<br>budget |  
+| bip_39_word_new_br_9 | snap<br>canyon<br>indoor<br>defense<br>hero<br>share<br>effort<br>budget<br>together |  
+| bip_39_word_new_line_1 | snap |  
+| bip_39_word_new_line_10 | snap
 canyon
 indoor
 defense
@@ -55,7 +55,7 @@ effort
 budget
 together
 maximum |  
-| bip_39_word_new_line11 | snap
+| bip_39_word_new_line_11 | snap
 canyon
 indoor
 defense
@@ -66,7 +66,7 @@ budget
 together
 maximum
 flight |  
-| bip_39_word_new_line12 | snap
+| bip_39_word_new_line_12 | snap
 canyon
 indoor
 defense
@@ -78,34 +78,34 @@ together
 maximum
 flight
 aim |  
-| bip_39_word_new_line2 | snap
+| bip_39_word_new_line_2 | snap
 canyon |  
-| bip_39_word_new_line3 | snap
+| bip_39_word_new_line_3 | snap
 canyon
 indoor |  
-| bip_39_word_new_line4 | snap
+| bip_39_word_new_line_4 | snap
 canyon
 indoor
 defense |  
-| bip_39_word_new_line5 | snap
+| bip_39_word_new_line_5 | snap
 canyon
 indoor
 defense
 hero |  
-| bip_39_word_new_line6 | snap
+| bip_39_word_new_line_6 | snap
 canyon
 indoor
 defense
 hero
 share |  
-| bip_39_word_new_line7 | snap
+| bip_39_word_new_line_7 | snap
 canyon
 indoor
 defense
 hero
 share
 effort |  
-| bip_39_word_new_line8 | snap
+| bip_39_word_new_line_8 | snap
 canyon
 indoor
 defense
@@ -113,7 +113,7 @@ hero
 share
 effort
 budget |  
-| bip_39_word_new_line9 | snap
+| bip_39_word_new_line_9 | snap
 canyon
 indoor
 defense

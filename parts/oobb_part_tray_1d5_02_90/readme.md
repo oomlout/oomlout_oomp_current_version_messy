@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | frozen |  
-| bip_39_word_new_br10 | frozen<br>maid<br>impose<br>damage<br>party<br>trip<br>loop<br>cool<br>delay<br>inject |  
-| bip_39_word_new_br11 | frozen<br>maid<br>impose<br>damage<br>party<br>trip<br>loop<br>cool<br>delay<br>inject<br>worry |  
-| bip_39_word_new_br12 | frozen<br>maid<br>impose<br>damage<br>party<br>trip<br>loop<br>cool<br>delay<br>inject<br>worry<br>abuse |  
-| bip_39_word_new_br2 | frozen<br>maid |  
-| bip_39_word_new_br3 | frozen<br>maid<br>impose |  
-| bip_39_word_new_br4 | frozen<br>maid<br>impose<br>damage |  
-| bip_39_word_new_br5 | frozen<br>maid<br>impose<br>damage<br>party |  
-| bip_39_word_new_br6 | frozen<br>maid<br>impose<br>damage<br>party<br>trip |  
-| bip_39_word_new_br7 | frozen<br>maid<br>impose<br>damage<br>party<br>trip<br>loop |  
-| bip_39_word_new_br8 | frozen<br>maid<br>impose<br>damage<br>party<br>trip<br>loop<br>cool |  
-| bip_39_word_new_br9 | frozen<br>maid<br>impose<br>damage<br>party<br>trip<br>loop<br>cool<br>delay |  
-| bip_39_word_new_line1 | frozen |  
-| bip_39_word_new_line10 | frozen
+| bip_39_word_new_br_1 | frozen |  
+| bip_39_word_new_br_10 | frozen<br>maid<br>impose<br>damage<br>party<br>trip<br>loop<br>cool<br>delay<br>inject |  
+| bip_39_word_new_br_11 | frozen<br>maid<br>impose<br>damage<br>party<br>trip<br>loop<br>cool<br>delay<br>inject<br>worry |  
+| bip_39_word_new_br_12 | frozen<br>maid<br>impose<br>damage<br>party<br>trip<br>loop<br>cool<br>delay<br>inject<br>worry<br>abuse |  
+| bip_39_word_new_br_2 | frozen<br>maid |  
+| bip_39_word_new_br_3 | frozen<br>maid<br>impose |  
+| bip_39_word_new_br_4 | frozen<br>maid<br>impose<br>damage |  
+| bip_39_word_new_br_5 | frozen<br>maid<br>impose<br>damage<br>party |  
+| bip_39_word_new_br_6 | frozen<br>maid<br>impose<br>damage<br>party<br>trip |  
+| bip_39_word_new_br_7 | frozen<br>maid<br>impose<br>damage<br>party<br>trip<br>loop |  
+| bip_39_word_new_br_8 | frozen<br>maid<br>impose<br>damage<br>party<br>trip<br>loop<br>cool |  
+| bip_39_word_new_br_9 | frozen<br>maid<br>impose<br>damage<br>party<br>trip<br>loop<br>cool<br>delay |  
+| bip_39_word_new_line_1 | frozen |  
+| bip_39_word_new_line_10 | frozen
 maid
 impose
 damage
@@ -55,7 +55,7 @@ loop
 cool
 delay
 inject |  
-| bip_39_word_new_line11 | frozen
+| bip_39_word_new_line_11 | frozen
 maid
 impose
 damage
@@ -66,7 +66,7 @@ cool
 delay
 inject
 worry |  
-| bip_39_word_new_line12 | frozen
+| bip_39_word_new_line_12 | frozen
 maid
 impose
 damage
@@ -78,34 +78,34 @@ delay
 inject
 worry
 abuse |  
-| bip_39_word_new_line2 | frozen
+| bip_39_word_new_line_2 | frozen
 maid |  
-| bip_39_word_new_line3 | frozen
+| bip_39_word_new_line_3 | frozen
 maid
 impose |  
-| bip_39_word_new_line4 | frozen
+| bip_39_word_new_line_4 | frozen
 maid
 impose
 damage |  
-| bip_39_word_new_line5 | frozen
+| bip_39_word_new_line_5 | frozen
 maid
 impose
 damage
 party |  
-| bip_39_word_new_line6 | frozen
+| bip_39_word_new_line_6 | frozen
 maid
 impose
 damage
 party
 trip |  
-| bip_39_word_new_line7 | frozen
+| bip_39_word_new_line_7 | frozen
 maid
 impose
 damage
 party
 trip
 loop |  
-| bip_39_word_new_line8 | frozen
+| bip_39_word_new_line_8 | frozen
 maid
 impose
 damage
@@ -113,7 +113,7 @@ party
 trip
 loop
 cool |  
-| bip_39_word_new_line9 | frozen
+| bip_39_word_new_line_9 | frozen
 maid
 impose
 damage

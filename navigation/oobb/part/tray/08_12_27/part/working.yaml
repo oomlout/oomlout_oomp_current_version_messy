@@ -1,17 +1,17 @@
-bip_39_word_new_br1: nasty
-bip_39_word_new_br10: nasty<br>drop<br>before<br>session<br>combine<br>weasel<br>auction<br>science<br>elite<br>normal
-bip_39_word_new_br11: nasty<br>drop<br>before<br>session<br>combine<br>weasel<br>auction<br>science<br>elite<br>normal<br>sand
-bip_39_word_new_br12: nasty<br>drop<br>before<br>session<br>combine<br>weasel<br>auction<br>science<br>elite<br>normal<br>sand<br>around
-bip_39_word_new_br2: nasty<br>drop
-bip_39_word_new_br3: nasty<br>drop<br>before
-bip_39_word_new_br4: nasty<br>drop<br>before<br>session
-bip_39_word_new_br5: nasty<br>drop<br>before<br>session<br>combine
-bip_39_word_new_br6: nasty<br>drop<br>before<br>session<br>combine<br>weasel
-bip_39_word_new_br7: nasty<br>drop<br>before<br>session<br>combine<br>weasel<br>auction
-bip_39_word_new_br8: nasty<br>drop<br>before<br>session<br>combine<br>weasel<br>auction<br>science
-bip_39_word_new_br9: nasty<br>drop<br>before<br>session<br>combine<br>weasel<br>auction<br>science<br>elite
-bip_39_word_new_line1: nasty
-bip_39_word_new_line10: 'nasty
+bip_39_word_new_br_1: nasty
+bip_39_word_new_br_10: nasty<br>drop<br>before<br>session<br>combine<br>weasel<br>auction<br>science<br>elite<br>normal
+bip_39_word_new_br_11: nasty<br>drop<br>before<br>session<br>combine<br>weasel<br>auction<br>science<br>elite<br>normal<br>sand
+bip_39_word_new_br_12: nasty<br>drop<br>before<br>session<br>combine<br>weasel<br>auction<br>science<br>elite<br>normal<br>sand<br>around
+bip_39_word_new_br_2: nasty<br>drop
+bip_39_word_new_br_3: nasty<br>drop<br>before
+bip_39_word_new_br_4: nasty<br>drop<br>before<br>session
+bip_39_word_new_br_5: nasty<br>drop<br>before<br>session<br>combine
+bip_39_word_new_br_6: nasty<br>drop<br>before<br>session<br>combine<br>weasel
+bip_39_word_new_br_7: nasty<br>drop<br>before<br>session<br>combine<br>weasel<br>auction
+bip_39_word_new_br_8: nasty<br>drop<br>before<br>session<br>combine<br>weasel<br>auction<br>science
+bip_39_word_new_br_9: nasty<br>drop<br>before<br>session<br>combine<br>weasel<br>auction<br>science<br>elite
+bip_39_word_new_line_1: nasty
+bip_39_word_new_line_10: 'nasty
 
   drop
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'nasty
   elite
 
   normal'
-bip_39_word_new_line11: 'nasty
+bip_39_word_new_line_11: 'nasty
 
   drop
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'nasty
   normal
 
   sand'
-bip_39_word_new_line12: 'nasty
+bip_39_word_new_line_12: 'nasty
 
   drop
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'nasty
   sand
 
   around'
-bip_39_word_new_line2: 'nasty
+bip_39_word_new_line_2: 'nasty
 
   drop'
-bip_39_word_new_line3: 'nasty
+bip_39_word_new_line_3: 'nasty
 
   drop
 
   before'
-bip_39_word_new_line4: 'nasty
+bip_39_word_new_line_4: 'nasty
 
   drop
 
   before
 
   session'
-bip_39_word_new_line5: 'nasty
+bip_39_word_new_line_5: 'nasty
 
   drop
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'nasty
   session
 
   combine'
-bip_39_word_new_line6: 'nasty
+bip_39_word_new_line_6: 'nasty
 
   drop
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'nasty
   combine
 
   weasel'
-bip_39_word_new_line7: 'nasty
+bip_39_word_new_line_7: 'nasty
 
   drop
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'nasty
   weasel
 
   auction'
-bip_39_word_new_line8: 'nasty
+bip_39_word_new_line_8: 'nasty
 
   drop
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'nasty
   auction
 
   science'
-bip_39_word_new_line9: 'nasty
+bip_39_word_new_line_9: 'nasty
 
   drop
 

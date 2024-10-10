@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | kitchen |  
-| bip_39_word_new_br10 | kitchen<br>panel<br>nation<br>just<br>media<br>patient<br>piano<br>casino<br>rally<br>laptop |  
-| bip_39_word_new_br11 | kitchen<br>panel<br>nation<br>just<br>media<br>patient<br>piano<br>casino<br>rally<br>laptop<br>torch |  
-| bip_39_word_new_br12 | kitchen<br>panel<br>nation<br>just<br>media<br>patient<br>piano<br>casino<br>rally<br>laptop<br>torch<br>already |  
-| bip_39_word_new_br2 | kitchen<br>panel |  
-| bip_39_word_new_br3 | kitchen<br>panel<br>nation |  
-| bip_39_word_new_br4 | kitchen<br>panel<br>nation<br>just |  
-| bip_39_word_new_br5 | kitchen<br>panel<br>nation<br>just<br>media |  
-| bip_39_word_new_br6 | kitchen<br>panel<br>nation<br>just<br>media<br>patient |  
-| bip_39_word_new_br7 | kitchen<br>panel<br>nation<br>just<br>media<br>patient<br>piano |  
-| bip_39_word_new_br8 | kitchen<br>panel<br>nation<br>just<br>media<br>patient<br>piano<br>casino |  
-| bip_39_word_new_br9 | kitchen<br>panel<br>nation<br>just<br>media<br>patient<br>piano<br>casino<br>rally |  
-| bip_39_word_new_line1 | kitchen |  
-| bip_39_word_new_line10 | kitchen
+| bip_39_word_new_br_1 | kitchen |  
+| bip_39_word_new_br_10 | kitchen<br>panel<br>nation<br>just<br>media<br>patient<br>piano<br>casino<br>rally<br>laptop |  
+| bip_39_word_new_br_11 | kitchen<br>panel<br>nation<br>just<br>media<br>patient<br>piano<br>casino<br>rally<br>laptop<br>torch |  
+| bip_39_word_new_br_12 | kitchen<br>panel<br>nation<br>just<br>media<br>patient<br>piano<br>casino<br>rally<br>laptop<br>torch<br>already |  
+| bip_39_word_new_br_2 | kitchen<br>panel |  
+| bip_39_word_new_br_3 | kitchen<br>panel<br>nation |  
+| bip_39_word_new_br_4 | kitchen<br>panel<br>nation<br>just |  
+| bip_39_word_new_br_5 | kitchen<br>panel<br>nation<br>just<br>media |  
+| bip_39_word_new_br_6 | kitchen<br>panel<br>nation<br>just<br>media<br>patient |  
+| bip_39_word_new_br_7 | kitchen<br>panel<br>nation<br>just<br>media<br>patient<br>piano |  
+| bip_39_word_new_br_8 | kitchen<br>panel<br>nation<br>just<br>media<br>patient<br>piano<br>casino |  
+| bip_39_word_new_br_9 | kitchen<br>panel<br>nation<br>just<br>media<br>patient<br>piano<br>casino<br>rally |  
+| bip_39_word_new_line_1 | kitchen |  
+| bip_39_word_new_line_10 | kitchen
 panel
 nation
 just
@@ -55,7 +55,7 @@ piano
 casino
 rally
 laptop |  
-| bip_39_word_new_line11 | kitchen
+| bip_39_word_new_line_11 | kitchen
 panel
 nation
 just
@@ -66,7 +66,7 @@ casino
 rally
 laptop
 torch |  
-| bip_39_word_new_line12 | kitchen
+| bip_39_word_new_line_12 | kitchen
 panel
 nation
 just
@@ -78,34 +78,34 @@ rally
 laptop
 torch
 already |  
-| bip_39_word_new_line2 | kitchen
+| bip_39_word_new_line_2 | kitchen
 panel |  
-| bip_39_word_new_line3 | kitchen
+| bip_39_word_new_line_3 | kitchen
 panel
 nation |  
-| bip_39_word_new_line4 | kitchen
+| bip_39_word_new_line_4 | kitchen
 panel
 nation
 just |  
-| bip_39_word_new_line5 | kitchen
+| bip_39_word_new_line_5 | kitchen
 panel
 nation
 just
 media |  
-| bip_39_word_new_line6 | kitchen
+| bip_39_word_new_line_6 | kitchen
 panel
 nation
 just
 media
 patient |  
-| bip_39_word_new_line7 | kitchen
+| bip_39_word_new_line_7 | kitchen
 panel
 nation
 just
 media
 patient
 piano |  
-| bip_39_word_new_line8 | kitchen
+| bip_39_word_new_line_8 | kitchen
 panel
 nation
 just
@@ -113,7 +113,7 @@ media
 patient
 piano
 casino |  
-| bip_39_word_new_line9 | kitchen
+| bip_39_word_new_line_9 | kitchen
 panel
 nation
 just

@@ -1,17 +1,17 @@
-bip_39_word_new_br1: gallery
-bip_39_word_new_br10: gallery<br>drip<br>woman<br>display<br>shop<br>table<br>hope<br>silent<br>refuse<br>tube
-bip_39_word_new_br11: gallery<br>drip<br>woman<br>display<br>shop<br>table<br>hope<br>silent<br>refuse<br>tube<br>outdoor
-bip_39_word_new_br12: gallery<br>drip<br>woman<br>display<br>shop<br>table<br>hope<br>silent<br>refuse<br>tube<br>outdoor<br>abstract
-bip_39_word_new_br2: gallery<br>drip
-bip_39_word_new_br3: gallery<br>drip<br>woman
-bip_39_word_new_br4: gallery<br>drip<br>woman<br>display
-bip_39_word_new_br5: gallery<br>drip<br>woman<br>display<br>shop
-bip_39_word_new_br6: gallery<br>drip<br>woman<br>display<br>shop<br>table
-bip_39_word_new_br7: gallery<br>drip<br>woman<br>display<br>shop<br>table<br>hope
-bip_39_word_new_br8: gallery<br>drip<br>woman<br>display<br>shop<br>table<br>hope<br>silent
-bip_39_word_new_br9: gallery<br>drip<br>woman<br>display<br>shop<br>table<br>hope<br>silent<br>refuse
-bip_39_word_new_line1: gallery
-bip_39_word_new_line10: 'gallery
+bip_39_word_new_br_1: gallery
+bip_39_word_new_br_10: gallery<br>drip<br>woman<br>display<br>shop<br>table<br>hope<br>silent<br>refuse<br>tube
+bip_39_word_new_br_11: gallery<br>drip<br>woman<br>display<br>shop<br>table<br>hope<br>silent<br>refuse<br>tube<br>outdoor
+bip_39_word_new_br_12: gallery<br>drip<br>woman<br>display<br>shop<br>table<br>hope<br>silent<br>refuse<br>tube<br>outdoor<br>abstract
+bip_39_word_new_br_2: gallery<br>drip
+bip_39_word_new_br_3: gallery<br>drip<br>woman
+bip_39_word_new_br_4: gallery<br>drip<br>woman<br>display
+bip_39_word_new_br_5: gallery<br>drip<br>woman<br>display<br>shop
+bip_39_word_new_br_6: gallery<br>drip<br>woman<br>display<br>shop<br>table
+bip_39_word_new_br_7: gallery<br>drip<br>woman<br>display<br>shop<br>table<br>hope
+bip_39_word_new_br_8: gallery<br>drip<br>woman<br>display<br>shop<br>table<br>hope<br>silent
+bip_39_word_new_br_9: gallery<br>drip<br>woman<br>display<br>shop<br>table<br>hope<br>silent<br>refuse
+bip_39_word_new_line_1: gallery
+bip_39_word_new_line_10: 'gallery
 
   drip
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'gallery
   refuse
 
   tube'
-bip_39_word_new_line11: 'gallery
+bip_39_word_new_line_11: 'gallery
 
   drip
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'gallery
   tube
 
   outdoor'
-bip_39_word_new_line12: 'gallery
+bip_39_word_new_line_12: 'gallery
 
   drip
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'gallery
   outdoor
 
   abstract'
-bip_39_word_new_line2: 'gallery
+bip_39_word_new_line_2: 'gallery
 
   drip'
-bip_39_word_new_line3: 'gallery
+bip_39_word_new_line_3: 'gallery
 
   drip
 
   woman'
-bip_39_word_new_line4: 'gallery
+bip_39_word_new_line_4: 'gallery
 
   drip
 
   woman
 
   display'
-bip_39_word_new_line5: 'gallery
+bip_39_word_new_line_5: 'gallery
 
   drip
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'gallery
   display
 
   shop'
-bip_39_word_new_line6: 'gallery
+bip_39_word_new_line_6: 'gallery
 
   drip
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'gallery
   shop
 
   table'
-bip_39_word_new_line7: 'gallery
+bip_39_word_new_line_7: 'gallery
 
   drip
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'gallery
   table
 
   hope'
-bip_39_word_new_line8: 'gallery
+bip_39_word_new_line_8: 'gallery
 
   drip
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'gallery
   hope
 
   silent'
-bip_39_word_new_line9: 'gallery
+bip_39_word_new_line_9: 'gallery
 
   drip
 

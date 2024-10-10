@@ -1,17 +1,17 @@
-bip_39_word_new_br1: keen
-bip_39_word_new_br10: keen<br>bid<br>novel<br>stadium<br>hood<br>carpet<br>silly<br>laugh<br>endorse<br>seat
-bip_39_word_new_br11: keen<br>bid<br>novel<br>stadium<br>hood<br>carpet<br>silly<br>laugh<br>endorse<br>seat<br>bargain
-bip_39_word_new_br12: keen<br>bid<br>novel<br>stadium<br>hood<br>carpet<br>silly<br>laugh<br>endorse<br>seat<br>bargain<br>amateur
-bip_39_word_new_br2: keen<br>bid
-bip_39_word_new_br3: keen<br>bid<br>novel
-bip_39_word_new_br4: keen<br>bid<br>novel<br>stadium
-bip_39_word_new_br5: keen<br>bid<br>novel<br>stadium<br>hood
-bip_39_word_new_br6: keen<br>bid<br>novel<br>stadium<br>hood<br>carpet
-bip_39_word_new_br7: keen<br>bid<br>novel<br>stadium<br>hood<br>carpet<br>silly
-bip_39_word_new_br8: keen<br>bid<br>novel<br>stadium<br>hood<br>carpet<br>silly<br>laugh
-bip_39_word_new_br9: keen<br>bid<br>novel<br>stadium<br>hood<br>carpet<br>silly<br>laugh<br>endorse
-bip_39_word_new_line1: keen
-bip_39_word_new_line10: 'keen
+bip_39_word_new_br_1: keen
+bip_39_word_new_br_10: keen<br>bid<br>novel<br>stadium<br>hood<br>carpet<br>silly<br>laugh<br>endorse<br>seat
+bip_39_word_new_br_11: keen<br>bid<br>novel<br>stadium<br>hood<br>carpet<br>silly<br>laugh<br>endorse<br>seat<br>bargain
+bip_39_word_new_br_12: keen<br>bid<br>novel<br>stadium<br>hood<br>carpet<br>silly<br>laugh<br>endorse<br>seat<br>bargain<br>amateur
+bip_39_word_new_br_2: keen<br>bid
+bip_39_word_new_br_3: keen<br>bid<br>novel
+bip_39_word_new_br_4: keen<br>bid<br>novel<br>stadium
+bip_39_word_new_br_5: keen<br>bid<br>novel<br>stadium<br>hood
+bip_39_word_new_br_6: keen<br>bid<br>novel<br>stadium<br>hood<br>carpet
+bip_39_word_new_br_7: keen<br>bid<br>novel<br>stadium<br>hood<br>carpet<br>silly
+bip_39_word_new_br_8: keen<br>bid<br>novel<br>stadium<br>hood<br>carpet<br>silly<br>laugh
+bip_39_word_new_br_9: keen<br>bid<br>novel<br>stadium<br>hood<br>carpet<br>silly<br>laugh<br>endorse
+bip_39_word_new_line_1: keen
+bip_39_word_new_line_10: 'keen
 
   bid
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'keen
   endorse
 
   seat'
-bip_39_word_new_line11: 'keen
+bip_39_word_new_line_11: 'keen
 
   bid
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'keen
   seat
 
   bargain'
-bip_39_word_new_line12: 'keen
+bip_39_word_new_line_12: 'keen
 
   bid
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'keen
   bargain
 
   amateur'
-bip_39_word_new_line2: 'keen
+bip_39_word_new_line_2: 'keen
 
   bid'
-bip_39_word_new_line3: 'keen
+bip_39_word_new_line_3: 'keen
 
   bid
 
   novel'
-bip_39_word_new_line4: 'keen
+bip_39_word_new_line_4: 'keen
 
   bid
 
   novel
 
   stadium'
-bip_39_word_new_line5: 'keen
+bip_39_word_new_line_5: 'keen
 
   bid
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'keen
   stadium
 
   hood'
-bip_39_word_new_line6: 'keen
+bip_39_word_new_line_6: 'keen
 
   bid
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'keen
   hood
 
   carpet'
-bip_39_word_new_line7: 'keen
+bip_39_word_new_line_7: 'keen
 
   bid
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'keen
   carpet
 
   silly'
-bip_39_word_new_line8: 'keen
+bip_39_word_new_line_8: 'keen
 
   bid
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'keen
   silly
 
   laugh'
-bip_39_word_new_line9: 'keen
+bip_39_word_new_line_9: 'keen
 
   bid
 

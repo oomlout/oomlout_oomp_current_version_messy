@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bar |  
-| bip_39_word_new_br10 | bar<br>erupt<br>smooth<br>predict<br>retreat<br>critic<br>case<br>burst<br>want<br>success |  
-| bip_39_word_new_br11 | bar<br>erupt<br>smooth<br>predict<br>retreat<br>critic<br>case<br>burst<br>want<br>success<br>tennis |  
-| bip_39_word_new_br12 | bar<br>erupt<br>smooth<br>predict<br>retreat<br>critic<br>case<br>burst<br>want<br>success<br>tennis<br>admit |  
-| bip_39_word_new_br2 | bar<br>erupt |  
-| bip_39_word_new_br3 | bar<br>erupt<br>smooth |  
-| bip_39_word_new_br4 | bar<br>erupt<br>smooth<br>predict |  
-| bip_39_word_new_br5 | bar<br>erupt<br>smooth<br>predict<br>retreat |  
-| bip_39_word_new_br6 | bar<br>erupt<br>smooth<br>predict<br>retreat<br>critic |  
-| bip_39_word_new_br7 | bar<br>erupt<br>smooth<br>predict<br>retreat<br>critic<br>case |  
-| bip_39_word_new_br8 | bar<br>erupt<br>smooth<br>predict<br>retreat<br>critic<br>case<br>burst |  
-| bip_39_word_new_br9 | bar<br>erupt<br>smooth<br>predict<br>retreat<br>critic<br>case<br>burst<br>want |  
-| bip_39_word_new_line1 | bar |  
-| bip_39_word_new_line10 | bar
+| bip_39_word_new_br_1 | bar |  
+| bip_39_word_new_br_10 | bar<br>erupt<br>smooth<br>predict<br>retreat<br>critic<br>case<br>burst<br>want<br>success |  
+| bip_39_word_new_br_11 | bar<br>erupt<br>smooth<br>predict<br>retreat<br>critic<br>case<br>burst<br>want<br>success<br>tennis |  
+| bip_39_word_new_br_12 | bar<br>erupt<br>smooth<br>predict<br>retreat<br>critic<br>case<br>burst<br>want<br>success<br>tennis<br>admit |  
+| bip_39_word_new_br_2 | bar<br>erupt |  
+| bip_39_word_new_br_3 | bar<br>erupt<br>smooth |  
+| bip_39_word_new_br_4 | bar<br>erupt<br>smooth<br>predict |  
+| bip_39_word_new_br_5 | bar<br>erupt<br>smooth<br>predict<br>retreat |  
+| bip_39_word_new_br_6 | bar<br>erupt<br>smooth<br>predict<br>retreat<br>critic |  
+| bip_39_word_new_br_7 | bar<br>erupt<br>smooth<br>predict<br>retreat<br>critic<br>case |  
+| bip_39_word_new_br_8 | bar<br>erupt<br>smooth<br>predict<br>retreat<br>critic<br>case<br>burst |  
+| bip_39_word_new_br_9 | bar<br>erupt<br>smooth<br>predict<br>retreat<br>critic<br>case<br>burst<br>want |  
+| bip_39_word_new_line_1 | bar |  
+| bip_39_word_new_line_10 | bar
 erupt
 smooth
 predict
@@ -55,7 +55,7 @@ case
 burst
 want
 success |  
-| bip_39_word_new_line11 | bar
+| bip_39_word_new_line_11 | bar
 erupt
 smooth
 predict
@@ -66,7 +66,7 @@ burst
 want
 success
 tennis |  
-| bip_39_word_new_line12 | bar
+| bip_39_word_new_line_12 | bar
 erupt
 smooth
 predict
@@ -78,34 +78,34 @@ want
 success
 tennis
 admit |  
-| bip_39_word_new_line2 | bar
+| bip_39_word_new_line_2 | bar
 erupt |  
-| bip_39_word_new_line3 | bar
+| bip_39_word_new_line_3 | bar
 erupt
 smooth |  
-| bip_39_word_new_line4 | bar
+| bip_39_word_new_line_4 | bar
 erupt
 smooth
 predict |  
-| bip_39_word_new_line5 | bar
+| bip_39_word_new_line_5 | bar
 erupt
 smooth
 predict
 retreat |  
-| bip_39_word_new_line6 | bar
+| bip_39_word_new_line_6 | bar
 erupt
 smooth
 predict
 retreat
 critic |  
-| bip_39_word_new_line7 | bar
+| bip_39_word_new_line_7 | bar
 erupt
 smooth
 predict
 retreat
 critic
 case |  
-| bip_39_word_new_line8 | bar
+| bip_39_word_new_line_8 | bar
 erupt
 smooth
 predict
@@ -113,7 +113,7 @@ retreat
 critic
 case
 burst |  
-| bip_39_word_new_line9 | bar
+| bip_39_word_new_line_9 | bar
 erupt
 smooth
 predict

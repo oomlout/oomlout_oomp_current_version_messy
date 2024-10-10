@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | nation |  
-| bip_39_word_new_br10 | nation<br>broom<br>cradle<br>choose<br>figure<br>humor<br>blind<br>soon<br>photo<br>price |  
-| bip_39_word_new_br11 | nation<br>broom<br>cradle<br>choose<br>figure<br>humor<br>blind<br>soon<br>photo<br>price<br>fame |  
-| bip_39_word_new_br12 | nation<br>broom<br>cradle<br>choose<br>figure<br>humor<br>blind<br>soon<br>photo<br>price<br>fame<br>assist |  
-| bip_39_word_new_br2 | nation<br>broom |  
-| bip_39_word_new_br3 | nation<br>broom<br>cradle |  
-| bip_39_word_new_br4 | nation<br>broom<br>cradle<br>choose |  
-| bip_39_word_new_br5 | nation<br>broom<br>cradle<br>choose<br>figure |  
-| bip_39_word_new_br6 | nation<br>broom<br>cradle<br>choose<br>figure<br>humor |  
-| bip_39_word_new_br7 | nation<br>broom<br>cradle<br>choose<br>figure<br>humor<br>blind |  
-| bip_39_word_new_br8 | nation<br>broom<br>cradle<br>choose<br>figure<br>humor<br>blind<br>soon |  
-| bip_39_word_new_br9 | nation<br>broom<br>cradle<br>choose<br>figure<br>humor<br>blind<br>soon<br>photo |  
-| bip_39_word_new_line1 | nation |  
-| bip_39_word_new_line10 | nation
+| bip_39_word_new_br_1 | nation |  
+| bip_39_word_new_br_10 | nation<br>broom<br>cradle<br>choose<br>figure<br>humor<br>blind<br>soon<br>photo<br>price |  
+| bip_39_word_new_br_11 | nation<br>broom<br>cradle<br>choose<br>figure<br>humor<br>blind<br>soon<br>photo<br>price<br>fame |  
+| bip_39_word_new_br_12 | nation<br>broom<br>cradle<br>choose<br>figure<br>humor<br>blind<br>soon<br>photo<br>price<br>fame<br>assist |  
+| bip_39_word_new_br_2 | nation<br>broom |  
+| bip_39_word_new_br_3 | nation<br>broom<br>cradle |  
+| bip_39_word_new_br_4 | nation<br>broom<br>cradle<br>choose |  
+| bip_39_word_new_br_5 | nation<br>broom<br>cradle<br>choose<br>figure |  
+| bip_39_word_new_br_6 | nation<br>broom<br>cradle<br>choose<br>figure<br>humor |  
+| bip_39_word_new_br_7 | nation<br>broom<br>cradle<br>choose<br>figure<br>humor<br>blind |  
+| bip_39_word_new_br_8 | nation<br>broom<br>cradle<br>choose<br>figure<br>humor<br>blind<br>soon |  
+| bip_39_word_new_br_9 | nation<br>broom<br>cradle<br>choose<br>figure<br>humor<br>blind<br>soon<br>photo |  
+| bip_39_word_new_line_1 | nation |  
+| bip_39_word_new_line_10 | nation
 broom
 cradle
 choose
@@ -55,7 +55,7 @@ blind
 soon
 photo
 price |  
-| bip_39_word_new_line11 | nation
+| bip_39_word_new_line_11 | nation
 broom
 cradle
 choose
@@ -66,7 +66,7 @@ soon
 photo
 price
 fame |  
-| bip_39_word_new_line12 | nation
+| bip_39_word_new_line_12 | nation
 broom
 cradle
 choose
@@ -78,34 +78,34 @@ photo
 price
 fame
 assist |  
-| bip_39_word_new_line2 | nation
+| bip_39_word_new_line_2 | nation
 broom |  
-| bip_39_word_new_line3 | nation
+| bip_39_word_new_line_3 | nation
 broom
 cradle |  
-| bip_39_word_new_line4 | nation
+| bip_39_word_new_line_4 | nation
 broom
 cradle
 choose |  
-| bip_39_word_new_line5 | nation
+| bip_39_word_new_line_5 | nation
 broom
 cradle
 choose
 figure |  
-| bip_39_word_new_line6 | nation
+| bip_39_word_new_line_6 | nation
 broom
 cradle
 choose
 figure
 humor |  
-| bip_39_word_new_line7 | nation
+| bip_39_word_new_line_7 | nation
 broom
 cradle
 choose
 figure
 humor
 blind |  
-| bip_39_word_new_line8 | nation
+| bip_39_word_new_line_8 | nation
 broom
 cradle
 choose
@@ -113,7 +113,7 @@ figure
 humor
 blind
 soon |  
-| bip_39_word_new_line9 | nation
+| bip_39_word_new_line_9 | nation
 broom
 cradle
 choose

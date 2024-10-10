@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | focus |  
-| bip_39_word_new_br10 | focus<br>unique<br>dizzy<br>pyramid<br>argue<br>knock<br>lava<br>hammer<br>polar<br>judge |  
-| bip_39_word_new_br11 | focus<br>unique<br>dizzy<br>pyramid<br>argue<br>knock<br>lava<br>hammer<br>polar<br>judge<br>frozen |  
-| bip_39_word_new_br12 | focus<br>unique<br>dizzy<br>pyramid<br>argue<br>knock<br>lava<br>hammer<br>polar<br>judge<br>frozen<br>asset |  
-| bip_39_word_new_br2 | focus<br>unique |  
-| bip_39_word_new_br3 | focus<br>unique<br>dizzy |  
-| bip_39_word_new_br4 | focus<br>unique<br>dizzy<br>pyramid |  
-| bip_39_word_new_br5 | focus<br>unique<br>dizzy<br>pyramid<br>argue |  
-| bip_39_word_new_br6 | focus<br>unique<br>dizzy<br>pyramid<br>argue<br>knock |  
-| bip_39_word_new_br7 | focus<br>unique<br>dizzy<br>pyramid<br>argue<br>knock<br>lava |  
-| bip_39_word_new_br8 | focus<br>unique<br>dizzy<br>pyramid<br>argue<br>knock<br>lava<br>hammer |  
-| bip_39_word_new_br9 | focus<br>unique<br>dizzy<br>pyramid<br>argue<br>knock<br>lava<br>hammer<br>polar |  
-| bip_39_word_new_line1 | focus |  
-| bip_39_word_new_line10 | focus
+| bip_39_word_new_br_1 | focus |  
+| bip_39_word_new_br_10 | focus<br>unique<br>dizzy<br>pyramid<br>argue<br>knock<br>lava<br>hammer<br>polar<br>judge |  
+| bip_39_word_new_br_11 | focus<br>unique<br>dizzy<br>pyramid<br>argue<br>knock<br>lava<br>hammer<br>polar<br>judge<br>frozen |  
+| bip_39_word_new_br_12 | focus<br>unique<br>dizzy<br>pyramid<br>argue<br>knock<br>lava<br>hammer<br>polar<br>judge<br>frozen<br>asset |  
+| bip_39_word_new_br_2 | focus<br>unique |  
+| bip_39_word_new_br_3 | focus<br>unique<br>dizzy |  
+| bip_39_word_new_br_4 | focus<br>unique<br>dizzy<br>pyramid |  
+| bip_39_word_new_br_5 | focus<br>unique<br>dizzy<br>pyramid<br>argue |  
+| bip_39_word_new_br_6 | focus<br>unique<br>dizzy<br>pyramid<br>argue<br>knock |  
+| bip_39_word_new_br_7 | focus<br>unique<br>dizzy<br>pyramid<br>argue<br>knock<br>lava |  
+| bip_39_word_new_br_8 | focus<br>unique<br>dizzy<br>pyramid<br>argue<br>knock<br>lava<br>hammer |  
+| bip_39_word_new_br_9 | focus<br>unique<br>dizzy<br>pyramid<br>argue<br>knock<br>lava<br>hammer<br>polar |  
+| bip_39_word_new_line_1 | focus |  
+| bip_39_word_new_line_10 | focus
 unique
 dizzy
 pyramid
@@ -55,7 +55,7 @@ lava
 hammer
 polar
 judge |  
-| bip_39_word_new_line11 | focus
+| bip_39_word_new_line_11 | focus
 unique
 dizzy
 pyramid
@@ -66,7 +66,7 @@ hammer
 polar
 judge
 frozen |  
-| bip_39_word_new_line12 | focus
+| bip_39_word_new_line_12 | focus
 unique
 dizzy
 pyramid
@@ -78,34 +78,34 @@ polar
 judge
 frozen
 asset |  
-| bip_39_word_new_line2 | focus
+| bip_39_word_new_line_2 | focus
 unique |  
-| bip_39_word_new_line3 | focus
+| bip_39_word_new_line_3 | focus
 unique
 dizzy |  
-| bip_39_word_new_line4 | focus
+| bip_39_word_new_line_4 | focus
 unique
 dizzy
 pyramid |  
-| bip_39_word_new_line5 | focus
+| bip_39_word_new_line_5 | focus
 unique
 dizzy
 pyramid
 argue |  
-| bip_39_word_new_line6 | focus
+| bip_39_word_new_line_6 | focus
 unique
 dizzy
 pyramid
 argue
 knock |  
-| bip_39_word_new_line7 | focus
+| bip_39_word_new_line_7 | focus
 unique
 dizzy
 pyramid
 argue
 knock
 lava |  
-| bip_39_word_new_line8 | focus
+| bip_39_word_new_line_8 | focus
 unique
 dizzy
 pyramid
@@ -113,7 +113,7 @@ argue
 knock
 lava
 hammer |  
-| bip_39_word_new_line9 | focus
+| bip_39_word_new_line_9 | focus
 unique
 dizzy
 pyramid

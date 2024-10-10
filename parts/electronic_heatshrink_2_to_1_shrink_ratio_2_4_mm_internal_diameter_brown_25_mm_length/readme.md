@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | unlock |  
-| bip_39_word_new_br10 | unlock<br>hire<br>differ<br>amazing<br>awful<br>march<br>they<br>quarter<br>mesh<br>box |  
-| bip_39_word_new_br11 | unlock<br>hire<br>differ<br>amazing<br>awful<br>march<br>they<br>quarter<br>mesh<br>box<br>lounge |  
-| bip_39_word_new_br12 | unlock<br>hire<br>differ<br>amazing<br>awful<br>march<br>they<br>quarter<br>mesh<br>box<br>lounge<br>armor |  
-| bip_39_word_new_br2 | unlock<br>hire |  
-| bip_39_word_new_br3 | unlock<br>hire<br>differ |  
-| bip_39_word_new_br4 | unlock<br>hire<br>differ<br>amazing |  
-| bip_39_word_new_br5 | unlock<br>hire<br>differ<br>amazing<br>awful |  
-| bip_39_word_new_br6 | unlock<br>hire<br>differ<br>amazing<br>awful<br>march |  
-| bip_39_word_new_br7 | unlock<br>hire<br>differ<br>amazing<br>awful<br>march<br>they |  
-| bip_39_word_new_br8 | unlock<br>hire<br>differ<br>amazing<br>awful<br>march<br>they<br>quarter |  
-| bip_39_word_new_br9 | unlock<br>hire<br>differ<br>amazing<br>awful<br>march<br>they<br>quarter<br>mesh |  
-| bip_39_word_new_line1 | unlock |  
-| bip_39_word_new_line10 | unlock
+| bip_39_word_new_br_1 | unlock |  
+| bip_39_word_new_br_10 | unlock<br>hire<br>differ<br>amazing<br>awful<br>march<br>they<br>quarter<br>mesh<br>box |  
+| bip_39_word_new_br_11 | unlock<br>hire<br>differ<br>amazing<br>awful<br>march<br>they<br>quarter<br>mesh<br>box<br>lounge |  
+| bip_39_word_new_br_12 | unlock<br>hire<br>differ<br>amazing<br>awful<br>march<br>they<br>quarter<br>mesh<br>box<br>lounge<br>armor |  
+| bip_39_word_new_br_2 | unlock<br>hire |  
+| bip_39_word_new_br_3 | unlock<br>hire<br>differ |  
+| bip_39_word_new_br_4 | unlock<br>hire<br>differ<br>amazing |  
+| bip_39_word_new_br_5 | unlock<br>hire<br>differ<br>amazing<br>awful |  
+| bip_39_word_new_br_6 | unlock<br>hire<br>differ<br>amazing<br>awful<br>march |  
+| bip_39_word_new_br_7 | unlock<br>hire<br>differ<br>amazing<br>awful<br>march<br>they |  
+| bip_39_word_new_br_8 | unlock<br>hire<br>differ<br>amazing<br>awful<br>march<br>they<br>quarter |  
+| bip_39_word_new_br_9 | unlock<br>hire<br>differ<br>amazing<br>awful<br>march<br>they<br>quarter<br>mesh |  
+| bip_39_word_new_line_1 | unlock |  
+| bip_39_word_new_line_10 | unlock
 hire
 differ
 amazing
@@ -55,7 +55,7 @@ they
 quarter
 mesh
 box |  
-| bip_39_word_new_line11 | unlock
+| bip_39_word_new_line_11 | unlock
 hire
 differ
 amazing
@@ -66,7 +66,7 @@ quarter
 mesh
 box
 lounge |  
-| bip_39_word_new_line12 | unlock
+| bip_39_word_new_line_12 | unlock
 hire
 differ
 amazing
@@ -78,34 +78,34 @@ mesh
 box
 lounge
 armor |  
-| bip_39_word_new_line2 | unlock
+| bip_39_word_new_line_2 | unlock
 hire |  
-| bip_39_word_new_line3 | unlock
+| bip_39_word_new_line_3 | unlock
 hire
 differ |  
-| bip_39_word_new_line4 | unlock
+| bip_39_word_new_line_4 | unlock
 hire
 differ
 amazing |  
-| bip_39_word_new_line5 | unlock
+| bip_39_word_new_line_5 | unlock
 hire
 differ
 amazing
 awful |  
-| bip_39_word_new_line6 | unlock
+| bip_39_word_new_line_6 | unlock
 hire
 differ
 amazing
 awful
 march |  
-| bip_39_word_new_line7 | unlock
+| bip_39_word_new_line_7 | unlock
 hire
 differ
 amazing
 awful
 march
 they |  
-| bip_39_word_new_line8 | unlock
+| bip_39_word_new_line_8 | unlock
 hire
 differ
 amazing
@@ -113,7 +113,7 @@ awful
 march
 they
 quarter |  
-| bip_39_word_new_line9 | unlock
+| bip_39_word_new_line_9 | unlock
 hire
 differ
 amazing

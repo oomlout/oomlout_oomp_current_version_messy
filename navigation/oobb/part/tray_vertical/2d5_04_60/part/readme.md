@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | feed |  
-| bip_39_word_new_br10 | feed<br>lesson<br>gravity<br>metal<br>movie<br>spray<br>truly<br>maze<br>stick<br>crowd |  
-| bip_39_word_new_br11 | feed<br>lesson<br>gravity<br>metal<br>movie<br>spray<br>truly<br>maze<br>stick<br>crowd<br>volcano |  
-| bip_39_word_new_br12 | feed<br>lesson<br>gravity<br>metal<br>movie<br>spray<br>truly<br>maze<br>stick<br>crowd<br>volcano<br>agree |  
-| bip_39_word_new_br2 | feed<br>lesson |  
-| bip_39_word_new_br3 | feed<br>lesson<br>gravity |  
-| bip_39_word_new_br4 | feed<br>lesson<br>gravity<br>metal |  
-| bip_39_word_new_br5 | feed<br>lesson<br>gravity<br>metal<br>movie |  
-| bip_39_word_new_br6 | feed<br>lesson<br>gravity<br>metal<br>movie<br>spray |  
-| bip_39_word_new_br7 | feed<br>lesson<br>gravity<br>metal<br>movie<br>spray<br>truly |  
-| bip_39_word_new_br8 | feed<br>lesson<br>gravity<br>metal<br>movie<br>spray<br>truly<br>maze |  
-| bip_39_word_new_br9 | feed<br>lesson<br>gravity<br>metal<br>movie<br>spray<br>truly<br>maze<br>stick |  
-| bip_39_word_new_line1 | feed |  
-| bip_39_word_new_line10 | feed
+| bip_39_word_new_br_1 | feed |  
+| bip_39_word_new_br_10 | feed<br>lesson<br>gravity<br>metal<br>movie<br>spray<br>truly<br>maze<br>stick<br>crowd |  
+| bip_39_word_new_br_11 | feed<br>lesson<br>gravity<br>metal<br>movie<br>spray<br>truly<br>maze<br>stick<br>crowd<br>volcano |  
+| bip_39_word_new_br_12 | feed<br>lesson<br>gravity<br>metal<br>movie<br>spray<br>truly<br>maze<br>stick<br>crowd<br>volcano<br>agree |  
+| bip_39_word_new_br_2 | feed<br>lesson |  
+| bip_39_word_new_br_3 | feed<br>lesson<br>gravity |  
+| bip_39_word_new_br_4 | feed<br>lesson<br>gravity<br>metal |  
+| bip_39_word_new_br_5 | feed<br>lesson<br>gravity<br>metal<br>movie |  
+| bip_39_word_new_br_6 | feed<br>lesson<br>gravity<br>metal<br>movie<br>spray |  
+| bip_39_word_new_br_7 | feed<br>lesson<br>gravity<br>metal<br>movie<br>spray<br>truly |  
+| bip_39_word_new_br_8 | feed<br>lesson<br>gravity<br>metal<br>movie<br>spray<br>truly<br>maze |  
+| bip_39_word_new_br_9 | feed<br>lesson<br>gravity<br>metal<br>movie<br>spray<br>truly<br>maze<br>stick |  
+| bip_39_word_new_line_1 | feed |  
+| bip_39_word_new_line_10 | feed
 lesson
 gravity
 metal
@@ -55,7 +55,7 @@ truly
 maze
 stick
 crowd |  
-| bip_39_word_new_line11 | feed
+| bip_39_word_new_line_11 | feed
 lesson
 gravity
 metal
@@ -66,7 +66,7 @@ maze
 stick
 crowd
 volcano |  
-| bip_39_word_new_line12 | feed
+| bip_39_word_new_line_12 | feed
 lesson
 gravity
 metal
@@ -78,34 +78,34 @@ stick
 crowd
 volcano
 agree |  
-| bip_39_word_new_line2 | feed
+| bip_39_word_new_line_2 | feed
 lesson |  
-| bip_39_word_new_line3 | feed
+| bip_39_word_new_line_3 | feed
 lesson
 gravity |  
-| bip_39_word_new_line4 | feed
+| bip_39_word_new_line_4 | feed
 lesson
 gravity
 metal |  
-| bip_39_word_new_line5 | feed
+| bip_39_word_new_line_5 | feed
 lesson
 gravity
 metal
 movie |  
-| bip_39_word_new_line6 | feed
+| bip_39_word_new_line_6 | feed
 lesson
 gravity
 metal
 movie
 spray |  
-| bip_39_word_new_line7 | feed
+| bip_39_word_new_line_7 | feed
 lesson
 gravity
 metal
 movie
 spray
 truly |  
-| bip_39_word_new_line8 | feed
+| bip_39_word_new_line_8 | feed
 lesson
 gravity
 metal
@@ -113,7 +113,7 @@ movie
 spray
 truly
 maze |  
-| bip_39_word_new_line9 | feed
+| bip_39_word_new_line_9 | feed
 lesson
 gravity
 metal

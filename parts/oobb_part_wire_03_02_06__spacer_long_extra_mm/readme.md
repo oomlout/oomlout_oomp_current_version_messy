@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | drastic |  
-| bip_39_word_new_br10 | drastic<br>elevator<br>crystal<br>soldier<br>retire<br>just<br>since<br>plate<br>cook<br>stem |  
-| bip_39_word_new_br11 | drastic<br>elevator<br>crystal<br>soldier<br>retire<br>just<br>since<br>plate<br>cook<br>stem<br>elder |  
-| bip_39_word_new_br12 | drastic<br>elevator<br>crystal<br>soldier<br>retire<br>just<br>since<br>plate<br>cook<br>stem<br>elder<br>announce |  
-| bip_39_word_new_br2 | drastic<br>elevator |  
-| bip_39_word_new_br3 | drastic<br>elevator<br>crystal |  
-| bip_39_word_new_br4 | drastic<br>elevator<br>crystal<br>soldier |  
-| bip_39_word_new_br5 | drastic<br>elevator<br>crystal<br>soldier<br>retire |  
-| bip_39_word_new_br6 | drastic<br>elevator<br>crystal<br>soldier<br>retire<br>just |  
-| bip_39_word_new_br7 | drastic<br>elevator<br>crystal<br>soldier<br>retire<br>just<br>since |  
-| bip_39_word_new_br8 | drastic<br>elevator<br>crystal<br>soldier<br>retire<br>just<br>since<br>plate |  
-| bip_39_word_new_br9 | drastic<br>elevator<br>crystal<br>soldier<br>retire<br>just<br>since<br>plate<br>cook |  
-| bip_39_word_new_line1 | drastic |  
-| bip_39_word_new_line10 | drastic
+| bip_39_word_new_br_1 | drastic |  
+| bip_39_word_new_br_10 | drastic<br>elevator<br>crystal<br>soldier<br>retire<br>just<br>since<br>plate<br>cook<br>stem |  
+| bip_39_word_new_br_11 | drastic<br>elevator<br>crystal<br>soldier<br>retire<br>just<br>since<br>plate<br>cook<br>stem<br>elder |  
+| bip_39_word_new_br_12 | drastic<br>elevator<br>crystal<br>soldier<br>retire<br>just<br>since<br>plate<br>cook<br>stem<br>elder<br>announce |  
+| bip_39_word_new_br_2 | drastic<br>elevator |  
+| bip_39_word_new_br_3 | drastic<br>elevator<br>crystal |  
+| bip_39_word_new_br_4 | drastic<br>elevator<br>crystal<br>soldier |  
+| bip_39_word_new_br_5 | drastic<br>elevator<br>crystal<br>soldier<br>retire |  
+| bip_39_word_new_br_6 | drastic<br>elevator<br>crystal<br>soldier<br>retire<br>just |  
+| bip_39_word_new_br_7 | drastic<br>elevator<br>crystal<br>soldier<br>retire<br>just<br>since |  
+| bip_39_word_new_br_8 | drastic<br>elevator<br>crystal<br>soldier<br>retire<br>just<br>since<br>plate |  
+| bip_39_word_new_br_9 | drastic<br>elevator<br>crystal<br>soldier<br>retire<br>just<br>since<br>plate<br>cook |  
+| bip_39_word_new_line_1 | drastic |  
+| bip_39_word_new_line_10 | drastic
 elevator
 crystal
 soldier
@@ -55,7 +55,7 @@ since
 plate
 cook
 stem |  
-| bip_39_word_new_line11 | drastic
+| bip_39_word_new_line_11 | drastic
 elevator
 crystal
 soldier
@@ -66,7 +66,7 @@ plate
 cook
 stem
 elder |  
-| bip_39_word_new_line12 | drastic
+| bip_39_word_new_line_12 | drastic
 elevator
 crystal
 soldier
@@ -78,34 +78,34 @@ cook
 stem
 elder
 announce |  
-| bip_39_word_new_line2 | drastic
+| bip_39_word_new_line_2 | drastic
 elevator |  
-| bip_39_word_new_line3 | drastic
+| bip_39_word_new_line_3 | drastic
 elevator
 crystal |  
-| bip_39_word_new_line4 | drastic
+| bip_39_word_new_line_4 | drastic
 elevator
 crystal
 soldier |  
-| bip_39_word_new_line5 | drastic
+| bip_39_word_new_line_5 | drastic
 elevator
 crystal
 soldier
 retire |  
-| bip_39_word_new_line6 | drastic
+| bip_39_word_new_line_6 | drastic
 elevator
 crystal
 soldier
 retire
 just |  
-| bip_39_word_new_line7 | drastic
+| bip_39_word_new_line_7 | drastic
 elevator
 crystal
 soldier
 retire
 just
 since |  
-| bip_39_word_new_line8 | drastic
+| bip_39_word_new_line_8 | drastic
 elevator
 crystal
 soldier
@@ -113,7 +113,7 @@ retire
 just
 since
 plate |  
-| bip_39_word_new_line9 | drastic
+| bip_39_word_new_line_9 | drastic
 elevator
 crystal
 soldier

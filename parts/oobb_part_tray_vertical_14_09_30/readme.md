@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | treat |  
-| bip_39_word_new_br10 | treat<br>bottom<br>universe<br>steak<br>father<br>garbage<br>draw<br>thank<br>palace<br>forward |  
-| bip_39_word_new_br11 | treat<br>bottom<br>universe<br>steak<br>father<br>garbage<br>draw<br>thank<br>palace<br>forward<br>cannon |  
-| bip_39_word_new_br12 | treat<br>bottom<br>universe<br>steak<br>father<br>garbage<br>draw<br>thank<br>palace<br>forward<br>cannon<br>alter |  
-| bip_39_word_new_br2 | treat<br>bottom |  
-| bip_39_word_new_br3 | treat<br>bottom<br>universe |  
-| bip_39_word_new_br4 | treat<br>bottom<br>universe<br>steak |  
-| bip_39_word_new_br5 | treat<br>bottom<br>universe<br>steak<br>father |  
-| bip_39_word_new_br6 | treat<br>bottom<br>universe<br>steak<br>father<br>garbage |  
-| bip_39_word_new_br7 | treat<br>bottom<br>universe<br>steak<br>father<br>garbage<br>draw |  
-| bip_39_word_new_br8 | treat<br>bottom<br>universe<br>steak<br>father<br>garbage<br>draw<br>thank |  
-| bip_39_word_new_br9 | treat<br>bottom<br>universe<br>steak<br>father<br>garbage<br>draw<br>thank<br>palace |  
-| bip_39_word_new_line1 | treat |  
-| bip_39_word_new_line10 | treat
+| bip_39_word_new_br_1 | treat |  
+| bip_39_word_new_br_10 | treat<br>bottom<br>universe<br>steak<br>father<br>garbage<br>draw<br>thank<br>palace<br>forward |  
+| bip_39_word_new_br_11 | treat<br>bottom<br>universe<br>steak<br>father<br>garbage<br>draw<br>thank<br>palace<br>forward<br>cannon |  
+| bip_39_word_new_br_12 | treat<br>bottom<br>universe<br>steak<br>father<br>garbage<br>draw<br>thank<br>palace<br>forward<br>cannon<br>alter |  
+| bip_39_word_new_br_2 | treat<br>bottom |  
+| bip_39_word_new_br_3 | treat<br>bottom<br>universe |  
+| bip_39_word_new_br_4 | treat<br>bottom<br>universe<br>steak |  
+| bip_39_word_new_br_5 | treat<br>bottom<br>universe<br>steak<br>father |  
+| bip_39_word_new_br_6 | treat<br>bottom<br>universe<br>steak<br>father<br>garbage |  
+| bip_39_word_new_br_7 | treat<br>bottom<br>universe<br>steak<br>father<br>garbage<br>draw |  
+| bip_39_word_new_br_8 | treat<br>bottom<br>universe<br>steak<br>father<br>garbage<br>draw<br>thank |  
+| bip_39_word_new_br_9 | treat<br>bottom<br>universe<br>steak<br>father<br>garbage<br>draw<br>thank<br>palace |  
+| bip_39_word_new_line_1 | treat |  
+| bip_39_word_new_line_10 | treat
 bottom
 universe
 steak
@@ -55,7 +55,7 @@ draw
 thank
 palace
 forward |  
-| bip_39_word_new_line11 | treat
+| bip_39_word_new_line_11 | treat
 bottom
 universe
 steak
@@ -66,7 +66,7 @@ thank
 palace
 forward
 cannon |  
-| bip_39_word_new_line12 | treat
+| bip_39_word_new_line_12 | treat
 bottom
 universe
 steak
@@ -78,34 +78,34 @@ palace
 forward
 cannon
 alter |  
-| bip_39_word_new_line2 | treat
+| bip_39_word_new_line_2 | treat
 bottom |  
-| bip_39_word_new_line3 | treat
+| bip_39_word_new_line_3 | treat
 bottom
 universe |  
-| bip_39_word_new_line4 | treat
+| bip_39_word_new_line_4 | treat
 bottom
 universe
 steak |  
-| bip_39_word_new_line5 | treat
+| bip_39_word_new_line_5 | treat
 bottom
 universe
 steak
 father |  
-| bip_39_word_new_line6 | treat
+| bip_39_word_new_line_6 | treat
 bottom
 universe
 steak
 father
 garbage |  
-| bip_39_word_new_line7 | treat
+| bip_39_word_new_line_7 | treat
 bottom
 universe
 steak
 father
 garbage
 draw |  
-| bip_39_word_new_line8 | treat
+| bip_39_word_new_line_8 | treat
 bottom
 universe
 steak
@@ -113,7 +113,7 @@ father
 garbage
 draw
 thank |  
-| bip_39_word_new_line9 | treat
+| bip_39_word_new_line_9 | treat
 bottom
 universe
 steak

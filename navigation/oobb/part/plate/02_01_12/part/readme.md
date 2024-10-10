@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | miracle |  
-| bip_39_word_new_br10 | miracle<br>auto<br>clip<br>body<br>action<br>hand<br>bottom<br>surprise<br>round<br>rich |  
-| bip_39_word_new_br11 | miracle<br>auto<br>clip<br>body<br>action<br>hand<br>bottom<br>surprise<br>round<br>rich<br>stove |  
-| bip_39_word_new_br12 | miracle<br>auto<br>clip<br>body<br>action<br>hand<br>bottom<br>surprise<br>round<br>rich<br>stove<br>able |  
-| bip_39_word_new_br2 | miracle<br>auto |  
-| bip_39_word_new_br3 | miracle<br>auto<br>clip |  
-| bip_39_word_new_br4 | miracle<br>auto<br>clip<br>body |  
-| bip_39_word_new_br5 | miracle<br>auto<br>clip<br>body<br>action |  
-| bip_39_word_new_br6 | miracle<br>auto<br>clip<br>body<br>action<br>hand |  
-| bip_39_word_new_br7 | miracle<br>auto<br>clip<br>body<br>action<br>hand<br>bottom |  
-| bip_39_word_new_br8 | miracle<br>auto<br>clip<br>body<br>action<br>hand<br>bottom<br>surprise |  
-| bip_39_word_new_br9 | miracle<br>auto<br>clip<br>body<br>action<br>hand<br>bottom<br>surprise<br>round |  
-| bip_39_word_new_line1 | miracle |  
-| bip_39_word_new_line10 | miracle
+| bip_39_word_new_br_1 | miracle |  
+| bip_39_word_new_br_10 | miracle<br>auto<br>clip<br>body<br>action<br>hand<br>bottom<br>surprise<br>round<br>rich |  
+| bip_39_word_new_br_11 | miracle<br>auto<br>clip<br>body<br>action<br>hand<br>bottom<br>surprise<br>round<br>rich<br>stove |  
+| bip_39_word_new_br_12 | miracle<br>auto<br>clip<br>body<br>action<br>hand<br>bottom<br>surprise<br>round<br>rich<br>stove<br>able |  
+| bip_39_word_new_br_2 | miracle<br>auto |  
+| bip_39_word_new_br_3 | miracle<br>auto<br>clip |  
+| bip_39_word_new_br_4 | miracle<br>auto<br>clip<br>body |  
+| bip_39_word_new_br_5 | miracle<br>auto<br>clip<br>body<br>action |  
+| bip_39_word_new_br_6 | miracle<br>auto<br>clip<br>body<br>action<br>hand |  
+| bip_39_word_new_br_7 | miracle<br>auto<br>clip<br>body<br>action<br>hand<br>bottom |  
+| bip_39_word_new_br_8 | miracle<br>auto<br>clip<br>body<br>action<br>hand<br>bottom<br>surprise |  
+| bip_39_word_new_br_9 | miracle<br>auto<br>clip<br>body<br>action<br>hand<br>bottom<br>surprise<br>round |  
+| bip_39_word_new_line_1 | miracle |  
+| bip_39_word_new_line_10 | miracle
 auto
 clip
 body
@@ -55,7 +55,7 @@ bottom
 surprise
 round
 rich |  
-| bip_39_word_new_line11 | miracle
+| bip_39_word_new_line_11 | miracle
 auto
 clip
 body
@@ -66,7 +66,7 @@ surprise
 round
 rich
 stove |  
-| bip_39_word_new_line12 | miracle
+| bip_39_word_new_line_12 | miracle
 auto
 clip
 body
@@ -78,34 +78,34 @@ round
 rich
 stove
 able |  
-| bip_39_word_new_line2 | miracle
+| bip_39_word_new_line_2 | miracle
 auto |  
-| bip_39_word_new_line3 | miracle
+| bip_39_word_new_line_3 | miracle
 auto
 clip |  
-| bip_39_word_new_line4 | miracle
+| bip_39_word_new_line_4 | miracle
 auto
 clip
 body |  
-| bip_39_word_new_line5 | miracle
+| bip_39_word_new_line_5 | miracle
 auto
 clip
 body
 action |  
-| bip_39_word_new_line6 | miracle
+| bip_39_word_new_line_6 | miracle
 auto
 clip
 body
 action
 hand |  
-| bip_39_word_new_line7 | miracle
+| bip_39_word_new_line_7 | miracle
 auto
 clip
 body
 action
 hand
 bottom |  
-| bip_39_word_new_line8 | miracle
+| bip_39_word_new_line_8 | miracle
 auto
 clip
 body
@@ -113,7 +113,7 @@ action
 hand
 bottom
 surprise |  
-| bip_39_word_new_line9 | miracle
+| bip_39_word_new_line_9 | miracle
 auto
 clip
 body

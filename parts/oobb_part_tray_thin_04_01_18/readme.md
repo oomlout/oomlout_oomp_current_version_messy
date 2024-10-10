@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | tilt |  
-| bip_39_word_new_br10 | tilt<br>angle<br>canal<br>start<br>refuse<br>observe<br>all<br>jelly<br>wall<br>wrong |  
-| bip_39_word_new_br11 | tilt<br>angle<br>canal<br>start<br>refuse<br>observe<br>all<br>jelly<br>wall<br>wrong<br>raccoon |  
-| bip_39_word_new_br12 | tilt<br>angle<br>canal<br>start<br>refuse<br>observe<br>all<br>jelly<br>wall<br>wrong<br>raccoon<br>alert |  
-| bip_39_word_new_br2 | tilt<br>angle |  
-| bip_39_word_new_br3 | tilt<br>angle<br>canal |  
-| bip_39_word_new_br4 | tilt<br>angle<br>canal<br>start |  
-| bip_39_word_new_br5 | tilt<br>angle<br>canal<br>start<br>refuse |  
-| bip_39_word_new_br6 | tilt<br>angle<br>canal<br>start<br>refuse<br>observe |  
-| bip_39_word_new_br7 | tilt<br>angle<br>canal<br>start<br>refuse<br>observe<br>all |  
-| bip_39_word_new_br8 | tilt<br>angle<br>canal<br>start<br>refuse<br>observe<br>all<br>jelly |  
-| bip_39_word_new_br9 | tilt<br>angle<br>canal<br>start<br>refuse<br>observe<br>all<br>jelly<br>wall |  
-| bip_39_word_new_line1 | tilt |  
-| bip_39_word_new_line10 | tilt
+| bip_39_word_new_br_1 | tilt |  
+| bip_39_word_new_br_10 | tilt<br>angle<br>canal<br>start<br>refuse<br>observe<br>all<br>jelly<br>wall<br>wrong |  
+| bip_39_word_new_br_11 | tilt<br>angle<br>canal<br>start<br>refuse<br>observe<br>all<br>jelly<br>wall<br>wrong<br>raccoon |  
+| bip_39_word_new_br_12 | tilt<br>angle<br>canal<br>start<br>refuse<br>observe<br>all<br>jelly<br>wall<br>wrong<br>raccoon<br>alert |  
+| bip_39_word_new_br_2 | tilt<br>angle |  
+| bip_39_word_new_br_3 | tilt<br>angle<br>canal |  
+| bip_39_word_new_br_4 | tilt<br>angle<br>canal<br>start |  
+| bip_39_word_new_br_5 | tilt<br>angle<br>canal<br>start<br>refuse |  
+| bip_39_word_new_br_6 | tilt<br>angle<br>canal<br>start<br>refuse<br>observe |  
+| bip_39_word_new_br_7 | tilt<br>angle<br>canal<br>start<br>refuse<br>observe<br>all |  
+| bip_39_word_new_br_8 | tilt<br>angle<br>canal<br>start<br>refuse<br>observe<br>all<br>jelly |  
+| bip_39_word_new_br_9 | tilt<br>angle<br>canal<br>start<br>refuse<br>observe<br>all<br>jelly<br>wall |  
+| bip_39_word_new_line_1 | tilt |  
+| bip_39_word_new_line_10 | tilt
 angle
 canal
 start
@@ -55,7 +55,7 @@ all
 jelly
 wall
 wrong |  
-| bip_39_word_new_line11 | tilt
+| bip_39_word_new_line_11 | tilt
 angle
 canal
 start
@@ -66,7 +66,7 @@ jelly
 wall
 wrong
 raccoon |  
-| bip_39_word_new_line12 | tilt
+| bip_39_word_new_line_12 | tilt
 angle
 canal
 start
@@ -78,34 +78,34 @@ wall
 wrong
 raccoon
 alert |  
-| bip_39_word_new_line2 | tilt
+| bip_39_word_new_line_2 | tilt
 angle |  
-| bip_39_word_new_line3 | tilt
+| bip_39_word_new_line_3 | tilt
 angle
 canal |  
-| bip_39_word_new_line4 | tilt
+| bip_39_word_new_line_4 | tilt
 angle
 canal
 start |  
-| bip_39_word_new_line5 | tilt
+| bip_39_word_new_line_5 | tilt
 angle
 canal
 start
 refuse |  
-| bip_39_word_new_line6 | tilt
+| bip_39_word_new_line_6 | tilt
 angle
 canal
 start
 refuse
 observe |  
-| bip_39_word_new_line7 | tilt
+| bip_39_word_new_line_7 | tilt
 angle
 canal
 start
 refuse
 observe
 all |  
-| bip_39_word_new_line8 | tilt
+| bip_39_word_new_line_8 | tilt
 angle
 canal
 start
@@ -113,7 +113,7 @@ refuse
 observe
 all
 jelly |  
-| bip_39_word_new_line9 | tilt
+| bip_39_word_new_line_9 | tilt
 angle
 canal
 start

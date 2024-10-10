@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | magnet |  
-| bip_39_word_new_br10 | magnet<br>local<br>orphan<br>illness<br>powder<br>dash<br>silk<br>awful<br>lab<br>area |  
-| bip_39_word_new_br11 | magnet<br>local<br>orphan<br>illness<br>powder<br>dash<br>silk<br>awful<br>lab<br>area<br>electric |  
-| bip_39_word_new_br12 | magnet<br>local<br>orphan<br>illness<br>powder<br>dash<br>silk<br>awful<br>lab<br>area<br>electric<br>argue |  
-| bip_39_word_new_br2 | magnet<br>local |  
-| bip_39_word_new_br3 | magnet<br>local<br>orphan |  
-| bip_39_word_new_br4 | magnet<br>local<br>orphan<br>illness |  
-| bip_39_word_new_br5 | magnet<br>local<br>orphan<br>illness<br>powder |  
-| bip_39_word_new_br6 | magnet<br>local<br>orphan<br>illness<br>powder<br>dash |  
-| bip_39_word_new_br7 | magnet<br>local<br>orphan<br>illness<br>powder<br>dash<br>silk |  
-| bip_39_word_new_br8 | magnet<br>local<br>orphan<br>illness<br>powder<br>dash<br>silk<br>awful |  
-| bip_39_word_new_br9 | magnet<br>local<br>orphan<br>illness<br>powder<br>dash<br>silk<br>awful<br>lab |  
-| bip_39_word_new_line1 | magnet |  
-| bip_39_word_new_line10 | magnet
+| bip_39_word_new_br_1 | magnet |  
+| bip_39_word_new_br_10 | magnet<br>local<br>orphan<br>illness<br>powder<br>dash<br>silk<br>awful<br>lab<br>area |  
+| bip_39_word_new_br_11 | magnet<br>local<br>orphan<br>illness<br>powder<br>dash<br>silk<br>awful<br>lab<br>area<br>electric |  
+| bip_39_word_new_br_12 | magnet<br>local<br>orphan<br>illness<br>powder<br>dash<br>silk<br>awful<br>lab<br>area<br>electric<br>argue |  
+| bip_39_word_new_br_2 | magnet<br>local |  
+| bip_39_word_new_br_3 | magnet<br>local<br>orphan |  
+| bip_39_word_new_br_4 | magnet<br>local<br>orphan<br>illness |  
+| bip_39_word_new_br_5 | magnet<br>local<br>orphan<br>illness<br>powder |  
+| bip_39_word_new_br_6 | magnet<br>local<br>orphan<br>illness<br>powder<br>dash |  
+| bip_39_word_new_br_7 | magnet<br>local<br>orphan<br>illness<br>powder<br>dash<br>silk |  
+| bip_39_word_new_br_8 | magnet<br>local<br>orphan<br>illness<br>powder<br>dash<br>silk<br>awful |  
+| bip_39_word_new_br_9 | magnet<br>local<br>orphan<br>illness<br>powder<br>dash<br>silk<br>awful<br>lab |  
+| bip_39_word_new_line_1 | magnet |  
+| bip_39_word_new_line_10 | magnet
 local
 orphan
 illness
@@ -55,7 +55,7 @@ silk
 awful
 lab
 area |  
-| bip_39_word_new_line11 | magnet
+| bip_39_word_new_line_11 | magnet
 local
 orphan
 illness
@@ -66,7 +66,7 @@ awful
 lab
 area
 electric |  
-| bip_39_word_new_line12 | magnet
+| bip_39_word_new_line_12 | magnet
 local
 orphan
 illness
@@ -78,34 +78,34 @@ lab
 area
 electric
 argue |  
-| bip_39_word_new_line2 | magnet
+| bip_39_word_new_line_2 | magnet
 local |  
-| bip_39_word_new_line3 | magnet
+| bip_39_word_new_line_3 | magnet
 local
 orphan |  
-| bip_39_word_new_line4 | magnet
+| bip_39_word_new_line_4 | magnet
 local
 orphan
 illness |  
-| bip_39_word_new_line5 | magnet
+| bip_39_word_new_line_5 | magnet
 local
 orphan
 illness
 powder |  
-| bip_39_word_new_line6 | magnet
+| bip_39_word_new_line_6 | magnet
 local
 orphan
 illness
 powder
 dash |  
-| bip_39_word_new_line7 | magnet
+| bip_39_word_new_line_7 | magnet
 local
 orphan
 illness
 powder
 dash
 silk |  
-| bip_39_word_new_line8 | magnet
+| bip_39_word_new_line_8 | magnet
 local
 orphan
 illness
@@ -113,7 +113,7 @@ powder
 dash
 silk
 awful |  
-| bip_39_word_new_line9 | magnet
+| bip_39_word_new_line_9 | magnet
 local
 orphan
 illness

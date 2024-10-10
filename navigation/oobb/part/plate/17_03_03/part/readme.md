@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | exact |  
-| bip_39_word_new_br10 | exact<br>another<br>quality<br>negative<br>dry<br>wisdom<br>nut<br>rocket<br>balcony<br>view |  
-| bip_39_word_new_br11 | exact<br>another<br>quality<br>negative<br>dry<br>wisdom<br>nut<br>rocket<br>balcony<br>view<br>punch |  
-| bip_39_word_new_br12 | exact<br>another<br>quality<br>negative<br>dry<br>wisdom<br>nut<br>rocket<br>balcony<br>view<br>punch<br>arch |  
-| bip_39_word_new_br2 | exact<br>another |  
-| bip_39_word_new_br3 | exact<br>another<br>quality |  
-| bip_39_word_new_br4 | exact<br>another<br>quality<br>negative |  
-| bip_39_word_new_br5 | exact<br>another<br>quality<br>negative<br>dry |  
-| bip_39_word_new_br6 | exact<br>another<br>quality<br>negative<br>dry<br>wisdom |  
-| bip_39_word_new_br7 | exact<br>another<br>quality<br>negative<br>dry<br>wisdom<br>nut |  
-| bip_39_word_new_br8 | exact<br>another<br>quality<br>negative<br>dry<br>wisdom<br>nut<br>rocket |  
-| bip_39_word_new_br9 | exact<br>another<br>quality<br>negative<br>dry<br>wisdom<br>nut<br>rocket<br>balcony |  
-| bip_39_word_new_line1 | exact |  
-| bip_39_word_new_line10 | exact
+| bip_39_word_new_br_1 | exact |  
+| bip_39_word_new_br_10 | exact<br>another<br>quality<br>negative<br>dry<br>wisdom<br>nut<br>rocket<br>balcony<br>view |  
+| bip_39_word_new_br_11 | exact<br>another<br>quality<br>negative<br>dry<br>wisdom<br>nut<br>rocket<br>balcony<br>view<br>punch |  
+| bip_39_word_new_br_12 | exact<br>another<br>quality<br>negative<br>dry<br>wisdom<br>nut<br>rocket<br>balcony<br>view<br>punch<br>arch |  
+| bip_39_word_new_br_2 | exact<br>another |  
+| bip_39_word_new_br_3 | exact<br>another<br>quality |  
+| bip_39_word_new_br_4 | exact<br>another<br>quality<br>negative |  
+| bip_39_word_new_br_5 | exact<br>another<br>quality<br>negative<br>dry |  
+| bip_39_word_new_br_6 | exact<br>another<br>quality<br>negative<br>dry<br>wisdom |  
+| bip_39_word_new_br_7 | exact<br>another<br>quality<br>negative<br>dry<br>wisdom<br>nut |  
+| bip_39_word_new_br_8 | exact<br>another<br>quality<br>negative<br>dry<br>wisdom<br>nut<br>rocket |  
+| bip_39_word_new_br_9 | exact<br>another<br>quality<br>negative<br>dry<br>wisdom<br>nut<br>rocket<br>balcony |  
+| bip_39_word_new_line_1 | exact |  
+| bip_39_word_new_line_10 | exact
 another
 quality
 negative
@@ -55,7 +55,7 @@ nut
 rocket
 balcony
 view |  
-| bip_39_word_new_line11 | exact
+| bip_39_word_new_line_11 | exact
 another
 quality
 negative
@@ -66,7 +66,7 @@ rocket
 balcony
 view
 punch |  
-| bip_39_word_new_line12 | exact
+| bip_39_word_new_line_12 | exact
 another
 quality
 negative
@@ -78,34 +78,34 @@ balcony
 view
 punch
 arch |  
-| bip_39_word_new_line2 | exact
+| bip_39_word_new_line_2 | exact
 another |  
-| bip_39_word_new_line3 | exact
+| bip_39_word_new_line_3 | exact
 another
 quality |  
-| bip_39_word_new_line4 | exact
+| bip_39_word_new_line_4 | exact
 another
 quality
 negative |  
-| bip_39_word_new_line5 | exact
+| bip_39_word_new_line_5 | exact
 another
 quality
 negative
 dry |  
-| bip_39_word_new_line6 | exact
+| bip_39_word_new_line_6 | exact
 another
 quality
 negative
 dry
 wisdom |  
-| bip_39_word_new_line7 | exact
+| bip_39_word_new_line_7 | exact
 another
 quality
 negative
 dry
 wisdom
 nut |  
-| bip_39_word_new_line8 | exact
+| bip_39_word_new_line_8 | exact
 another
 quality
 negative
@@ -113,7 +113,7 @@ dry
 wisdom
 nut
 rocket |  
-| bip_39_word_new_line9 | exact
+| bip_39_word_new_line_9 | exact
 another
 quality
 negative

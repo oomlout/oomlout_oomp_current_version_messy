@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | slim |  
-| bip_39_word_new_br10 | slim<br>gun<br>fade<br>level<br>chunk<br>train<br>glare<br>trigger<br>into<br>betray |  
-| bip_39_word_new_br11 | slim<br>gun<br>fade<br>level<br>chunk<br>train<br>glare<br>trigger<br>into<br>betray<br>blanket |  
-| bip_39_word_new_br12 | slim<br>gun<br>fade<br>level<br>chunk<br>train<br>glare<br>trigger<br>into<br>betray<br>blanket<br>album |  
-| bip_39_word_new_br2 | slim<br>gun |  
-| bip_39_word_new_br3 | slim<br>gun<br>fade |  
-| bip_39_word_new_br4 | slim<br>gun<br>fade<br>level |  
-| bip_39_word_new_br5 | slim<br>gun<br>fade<br>level<br>chunk |  
-| bip_39_word_new_br6 | slim<br>gun<br>fade<br>level<br>chunk<br>train |  
-| bip_39_word_new_br7 | slim<br>gun<br>fade<br>level<br>chunk<br>train<br>glare |  
-| bip_39_word_new_br8 | slim<br>gun<br>fade<br>level<br>chunk<br>train<br>glare<br>trigger |  
-| bip_39_word_new_br9 | slim<br>gun<br>fade<br>level<br>chunk<br>train<br>glare<br>trigger<br>into |  
-| bip_39_word_new_line1 | slim |  
-| bip_39_word_new_line10 | slim
+| bip_39_word_new_br_1 | slim |  
+| bip_39_word_new_br_10 | slim<br>gun<br>fade<br>level<br>chunk<br>train<br>glare<br>trigger<br>into<br>betray |  
+| bip_39_word_new_br_11 | slim<br>gun<br>fade<br>level<br>chunk<br>train<br>glare<br>trigger<br>into<br>betray<br>blanket |  
+| bip_39_word_new_br_12 | slim<br>gun<br>fade<br>level<br>chunk<br>train<br>glare<br>trigger<br>into<br>betray<br>blanket<br>album |  
+| bip_39_word_new_br_2 | slim<br>gun |  
+| bip_39_word_new_br_3 | slim<br>gun<br>fade |  
+| bip_39_word_new_br_4 | slim<br>gun<br>fade<br>level |  
+| bip_39_word_new_br_5 | slim<br>gun<br>fade<br>level<br>chunk |  
+| bip_39_word_new_br_6 | slim<br>gun<br>fade<br>level<br>chunk<br>train |  
+| bip_39_word_new_br_7 | slim<br>gun<br>fade<br>level<br>chunk<br>train<br>glare |  
+| bip_39_word_new_br_8 | slim<br>gun<br>fade<br>level<br>chunk<br>train<br>glare<br>trigger |  
+| bip_39_word_new_br_9 | slim<br>gun<br>fade<br>level<br>chunk<br>train<br>glare<br>trigger<br>into |  
+| bip_39_word_new_line_1 | slim |  
+| bip_39_word_new_line_10 | slim
 gun
 fade
 level
@@ -55,7 +55,7 @@ glare
 trigger
 into
 betray |  
-| bip_39_word_new_line11 | slim
+| bip_39_word_new_line_11 | slim
 gun
 fade
 level
@@ -66,7 +66,7 @@ trigger
 into
 betray
 blanket |  
-| bip_39_word_new_line12 | slim
+| bip_39_word_new_line_12 | slim
 gun
 fade
 level
@@ -78,34 +78,34 @@ into
 betray
 blanket
 album |  
-| bip_39_word_new_line2 | slim
+| bip_39_word_new_line_2 | slim
 gun |  
-| bip_39_word_new_line3 | slim
+| bip_39_word_new_line_3 | slim
 gun
 fade |  
-| bip_39_word_new_line4 | slim
+| bip_39_word_new_line_4 | slim
 gun
 fade
 level |  
-| bip_39_word_new_line5 | slim
+| bip_39_word_new_line_5 | slim
 gun
 fade
 level
 chunk |  
-| bip_39_word_new_line6 | slim
+| bip_39_word_new_line_6 | slim
 gun
 fade
 level
 chunk
 train |  
-| bip_39_word_new_line7 | slim
+| bip_39_word_new_line_7 | slim
 gun
 fade
 level
 chunk
 train
 glare |  
-| bip_39_word_new_line8 | slim
+| bip_39_word_new_line_8 | slim
 gun
 fade
 level
@@ -113,7 +113,7 @@ chunk
 train
 glare
 trigger |  
-| bip_39_word_new_line9 | slim
+| bip_39_word_new_line_9 | slim
 gun
 fade
 level

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | spread |  
-| bip_39_word_new_br10 | spread<br>rug<br>devote<br>orange<br>screen<br>else<br>orphan<br>sauce<br>rain<br>century |  
-| bip_39_word_new_br11 | spread<br>rug<br>devote<br>orange<br>screen<br>else<br>orphan<br>sauce<br>rain<br>century<br>fossil |  
-| bip_39_word_new_br12 | spread<br>rug<br>devote<br>orange<br>screen<br>else<br>orphan<br>sauce<br>rain<br>century<br>fossil<br>alien |  
-| bip_39_word_new_br2 | spread<br>rug |  
-| bip_39_word_new_br3 | spread<br>rug<br>devote |  
-| bip_39_word_new_br4 | spread<br>rug<br>devote<br>orange |  
-| bip_39_word_new_br5 | spread<br>rug<br>devote<br>orange<br>screen |  
-| bip_39_word_new_br6 | spread<br>rug<br>devote<br>orange<br>screen<br>else |  
-| bip_39_word_new_br7 | spread<br>rug<br>devote<br>orange<br>screen<br>else<br>orphan |  
-| bip_39_word_new_br8 | spread<br>rug<br>devote<br>orange<br>screen<br>else<br>orphan<br>sauce |  
-| bip_39_word_new_br9 | spread<br>rug<br>devote<br>orange<br>screen<br>else<br>orphan<br>sauce<br>rain |  
-| bip_39_word_new_line1 | spread |  
-| bip_39_word_new_line10 | spread
+| bip_39_word_new_br_1 | spread |  
+| bip_39_word_new_br_10 | spread<br>rug<br>devote<br>orange<br>screen<br>else<br>orphan<br>sauce<br>rain<br>century |  
+| bip_39_word_new_br_11 | spread<br>rug<br>devote<br>orange<br>screen<br>else<br>orphan<br>sauce<br>rain<br>century<br>fossil |  
+| bip_39_word_new_br_12 | spread<br>rug<br>devote<br>orange<br>screen<br>else<br>orphan<br>sauce<br>rain<br>century<br>fossil<br>alien |  
+| bip_39_word_new_br_2 | spread<br>rug |  
+| bip_39_word_new_br_3 | spread<br>rug<br>devote |  
+| bip_39_word_new_br_4 | spread<br>rug<br>devote<br>orange |  
+| bip_39_word_new_br_5 | spread<br>rug<br>devote<br>orange<br>screen |  
+| bip_39_word_new_br_6 | spread<br>rug<br>devote<br>orange<br>screen<br>else |  
+| bip_39_word_new_br_7 | spread<br>rug<br>devote<br>orange<br>screen<br>else<br>orphan |  
+| bip_39_word_new_br_8 | spread<br>rug<br>devote<br>orange<br>screen<br>else<br>orphan<br>sauce |  
+| bip_39_word_new_br_9 | spread<br>rug<br>devote<br>orange<br>screen<br>else<br>orphan<br>sauce<br>rain |  
+| bip_39_word_new_line_1 | spread |  
+| bip_39_word_new_line_10 | spread
 rug
 devote
 orange
@@ -55,7 +55,7 @@ orphan
 sauce
 rain
 century |  
-| bip_39_word_new_line11 | spread
+| bip_39_word_new_line_11 | spread
 rug
 devote
 orange
@@ -66,7 +66,7 @@ sauce
 rain
 century
 fossil |  
-| bip_39_word_new_line12 | spread
+| bip_39_word_new_line_12 | spread
 rug
 devote
 orange
@@ -78,34 +78,34 @@ rain
 century
 fossil
 alien |  
-| bip_39_word_new_line2 | spread
+| bip_39_word_new_line_2 | spread
 rug |  
-| bip_39_word_new_line3 | spread
+| bip_39_word_new_line_3 | spread
 rug
 devote |  
-| bip_39_word_new_line4 | spread
+| bip_39_word_new_line_4 | spread
 rug
 devote
 orange |  
-| bip_39_word_new_line5 | spread
+| bip_39_word_new_line_5 | spread
 rug
 devote
 orange
 screen |  
-| bip_39_word_new_line6 | spread
+| bip_39_word_new_line_6 | spread
 rug
 devote
 orange
 screen
 else |  
-| bip_39_word_new_line7 | spread
+| bip_39_word_new_line_7 | spread
 rug
 devote
 orange
 screen
 else
 orphan |  
-| bip_39_word_new_line8 | spread
+| bip_39_word_new_line_8 | spread
 rug
 devote
 orange
@@ -113,7 +113,7 @@ screen
 else
 orphan
 sauce |  
-| bip_39_word_new_line9 | spread
+| bip_39_word_new_line_9 | spread
 rug
 devote
 orange

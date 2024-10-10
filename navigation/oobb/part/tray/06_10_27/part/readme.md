@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | shadow |  
-| bip_39_word_new_br10 | shadow<br>rely<br>grain<br>meadow<br>split<br>voice<br>comic<br>cry<br>yellow<br>post |  
-| bip_39_word_new_br11 | shadow<br>rely<br>grain<br>meadow<br>split<br>voice<br>comic<br>cry<br>yellow<br>post<br>direct |  
-| bip_39_word_new_br12 | shadow<br>rely<br>grain<br>meadow<br>split<br>voice<br>comic<br>cry<br>yellow<br>post<br>direct<br>analyst |  
-| bip_39_word_new_br2 | shadow<br>rely |  
-| bip_39_word_new_br3 | shadow<br>rely<br>grain |  
-| bip_39_word_new_br4 | shadow<br>rely<br>grain<br>meadow |  
-| bip_39_word_new_br5 | shadow<br>rely<br>grain<br>meadow<br>split |  
-| bip_39_word_new_br6 | shadow<br>rely<br>grain<br>meadow<br>split<br>voice |  
-| bip_39_word_new_br7 | shadow<br>rely<br>grain<br>meadow<br>split<br>voice<br>comic |  
-| bip_39_word_new_br8 | shadow<br>rely<br>grain<br>meadow<br>split<br>voice<br>comic<br>cry |  
-| bip_39_word_new_br9 | shadow<br>rely<br>grain<br>meadow<br>split<br>voice<br>comic<br>cry<br>yellow |  
-| bip_39_word_new_line1 | shadow |  
-| bip_39_word_new_line10 | shadow
+| bip_39_word_new_br_1 | shadow |  
+| bip_39_word_new_br_10 | shadow<br>rely<br>grain<br>meadow<br>split<br>voice<br>comic<br>cry<br>yellow<br>post |  
+| bip_39_word_new_br_11 | shadow<br>rely<br>grain<br>meadow<br>split<br>voice<br>comic<br>cry<br>yellow<br>post<br>direct |  
+| bip_39_word_new_br_12 | shadow<br>rely<br>grain<br>meadow<br>split<br>voice<br>comic<br>cry<br>yellow<br>post<br>direct<br>analyst |  
+| bip_39_word_new_br_2 | shadow<br>rely |  
+| bip_39_word_new_br_3 | shadow<br>rely<br>grain |  
+| bip_39_word_new_br_4 | shadow<br>rely<br>grain<br>meadow |  
+| bip_39_word_new_br_5 | shadow<br>rely<br>grain<br>meadow<br>split |  
+| bip_39_word_new_br_6 | shadow<br>rely<br>grain<br>meadow<br>split<br>voice |  
+| bip_39_word_new_br_7 | shadow<br>rely<br>grain<br>meadow<br>split<br>voice<br>comic |  
+| bip_39_word_new_br_8 | shadow<br>rely<br>grain<br>meadow<br>split<br>voice<br>comic<br>cry |  
+| bip_39_word_new_br_9 | shadow<br>rely<br>grain<br>meadow<br>split<br>voice<br>comic<br>cry<br>yellow |  
+| bip_39_word_new_line_1 | shadow |  
+| bip_39_word_new_line_10 | shadow
 rely
 grain
 meadow
@@ -55,7 +55,7 @@ comic
 cry
 yellow
 post |  
-| bip_39_word_new_line11 | shadow
+| bip_39_word_new_line_11 | shadow
 rely
 grain
 meadow
@@ -66,7 +66,7 @@ cry
 yellow
 post
 direct |  
-| bip_39_word_new_line12 | shadow
+| bip_39_word_new_line_12 | shadow
 rely
 grain
 meadow
@@ -78,34 +78,34 @@ yellow
 post
 direct
 analyst |  
-| bip_39_word_new_line2 | shadow
+| bip_39_word_new_line_2 | shadow
 rely |  
-| bip_39_word_new_line3 | shadow
+| bip_39_word_new_line_3 | shadow
 rely
 grain |  
-| bip_39_word_new_line4 | shadow
+| bip_39_word_new_line_4 | shadow
 rely
 grain
 meadow |  
-| bip_39_word_new_line5 | shadow
+| bip_39_word_new_line_5 | shadow
 rely
 grain
 meadow
 split |  
-| bip_39_word_new_line6 | shadow
+| bip_39_word_new_line_6 | shadow
 rely
 grain
 meadow
 split
 voice |  
-| bip_39_word_new_line7 | shadow
+| bip_39_word_new_line_7 | shadow
 rely
 grain
 meadow
 split
 voice
 comic |  
-| bip_39_word_new_line8 | shadow
+| bip_39_word_new_line_8 | shadow
 rely
 grain
 meadow
@@ -113,7 +113,7 @@ split
 voice
 comic
 cry |  
-| bip_39_word_new_line9 | shadow
+| bip_39_word_new_line_9 | shadow
 rely
 grain
 meadow

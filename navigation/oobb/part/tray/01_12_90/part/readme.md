@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | tide |  
-| bip_39_word_new_br10 | tide<br>play<br>soda<br>interest<br>lamp<br>armed<br>promote<br>team<br>lottery<br>alter |  
-| bip_39_word_new_br11 | tide<br>play<br>soda<br>interest<br>lamp<br>armed<br>promote<br>team<br>lottery<br>alter<br>odor |  
-| bip_39_word_new_br12 | tide<br>play<br>soda<br>interest<br>lamp<br>armed<br>promote<br>team<br>lottery<br>alter<br>odor<br>ability |  
-| bip_39_word_new_br2 | tide<br>play |  
-| bip_39_word_new_br3 | tide<br>play<br>soda |  
-| bip_39_word_new_br4 | tide<br>play<br>soda<br>interest |  
-| bip_39_word_new_br5 | tide<br>play<br>soda<br>interest<br>lamp |  
-| bip_39_word_new_br6 | tide<br>play<br>soda<br>interest<br>lamp<br>armed |  
-| bip_39_word_new_br7 | tide<br>play<br>soda<br>interest<br>lamp<br>armed<br>promote |  
-| bip_39_word_new_br8 | tide<br>play<br>soda<br>interest<br>lamp<br>armed<br>promote<br>team |  
-| bip_39_word_new_br9 | tide<br>play<br>soda<br>interest<br>lamp<br>armed<br>promote<br>team<br>lottery |  
-| bip_39_word_new_line1 | tide |  
-| bip_39_word_new_line10 | tide
+| bip_39_word_new_br_1 | tide |  
+| bip_39_word_new_br_10 | tide<br>play<br>soda<br>interest<br>lamp<br>armed<br>promote<br>team<br>lottery<br>alter |  
+| bip_39_word_new_br_11 | tide<br>play<br>soda<br>interest<br>lamp<br>armed<br>promote<br>team<br>lottery<br>alter<br>odor |  
+| bip_39_word_new_br_12 | tide<br>play<br>soda<br>interest<br>lamp<br>armed<br>promote<br>team<br>lottery<br>alter<br>odor<br>ability |  
+| bip_39_word_new_br_2 | tide<br>play |  
+| bip_39_word_new_br_3 | tide<br>play<br>soda |  
+| bip_39_word_new_br_4 | tide<br>play<br>soda<br>interest |  
+| bip_39_word_new_br_5 | tide<br>play<br>soda<br>interest<br>lamp |  
+| bip_39_word_new_br_6 | tide<br>play<br>soda<br>interest<br>lamp<br>armed |  
+| bip_39_word_new_br_7 | tide<br>play<br>soda<br>interest<br>lamp<br>armed<br>promote |  
+| bip_39_word_new_br_8 | tide<br>play<br>soda<br>interest<br>lamp<br>armed<br>promote<br>team |  
+| bip_39_word_new_br_9 | tide<br>play<br>soda<br>interest<br>lamp<br>armed<br>promote<br>team<br>lottery |  
+| bip_39_word_new_line_1 | tide |  
+| bip_39_word_new_line_10 | tide
 play
 soda
 interest
@@ -55,7 +55,7 @@ promote
 team
 lottery
 alter |  
-| bip_39_word_new_line11 | tide
+| bip_39_word_new_line_11 | tide
 play
 soda
 interest
@@ -66,7 +66,7 @@ team
 lottery
 alter
 odor |  
-| bip_39_word_new_line12 | tide
+| bip_39_word_new_line_12 | tide
 play
 soda
 interest
@@ -78,34 +78,34 @@ lottery
 alter
 odor
 ability |  
-| bip_39_word_new_line2 | tide
+| bip_39_word_new_line_2 | tide
 play |  
-| bip_39_word_new_line3 | tide
+| bip_39_word_new_line_3 | tide
 play
 soda |  
-| bip_39_word_new_line4 | tide
+| bip_39_word_new_line_4 | tide
 play
 soda
 interest |  
-| bip_39_word_new_line5 | tide
+| bip_39_word_new_line_5 | tide
 play
 soda
 interest
 lamp |  
-| bip_39_word_new_line6 | tide
+| bip_39_word_new_line_6 | tide
 play
 soda
 interest
 lamp
 armed |  
-| bip_39_word_new_line7 | tide
+| bip_39_word_new_line_7 | tide
 play
 soda
 interest
 lamp
 armed
 promote |  
-| bip_39_word_new_line8 | tide
+| bip_39_word_new_line_8 | tide
 play
 soda
 interest
@@ -113,7 +113,7 @@ lamp
 armed
 promote
 team |  
-| bip_39_word_new_line9 | tide
+| bip_39_word_new_line_9 | tide
 play
 soda
 interest

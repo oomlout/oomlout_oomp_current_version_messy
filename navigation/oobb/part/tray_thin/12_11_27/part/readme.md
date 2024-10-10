@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | service |  
-| bip_39_word_new_br10 | service<br>ask<br>sting<br>throw<br>curious<br>carpet<br>panther<br>order<br>flight<br>depend |  
-| bip_39_word_new_br11 | service<br>ask<br>sting<br>throw<br>curious<br>carpet<br>panther<br>order<br>flight<br>depend<br>liberty |  
-| bip_39_word_new_br12 | service<br>ask<br>sting<br>throw<br>curious<br>carpet<br>panther<br>order<br>flight<br>depend<br>liberty<br>artist |  
-| bip_39_word_new_br2 | service<br>ask |  
-| bip_39_word_new_br3 | service<br>ask<br>sting |  
-| bip_39_word_new_br4 | service<br>ask<br>sting<br>throw |  
-| bip_39_word_new_br5 | service<br>ask<br>sting<br>throw<br>curious |  
-| bip_39_word_new_br6 | service<br>ask<br>sting<br>throw<br>curious<br>carpet |  
-| bip_39_word_new_br7 | service<br>ask<br>sting<br>throw<br>curious<br>carpet<br>panther |  
-| bip_39_word_new_br8 | service<br>ask<br>sting<br>throw<br>curious<br>carpet<br>panther<br>order |  
-| bip_39_word_new_br9 | service<br>ask<br>sting<br>throw<br>curious<br>carpet<br>panther<br>order<br>flight |  
-| bip_39_word_new_line1 | service |  
-| bip_39_word_new_line10 | service
+| bip_39_word_new_br_1 | service |  
+| bip_39_word_new_br_10 | service<br>ask<br>sting<br>throw<br>curious<br>carpet<br>panther<br>order<br>flight<br>depend |  
+| bip_39_word_new_br_11 | service<br>ask<br>sting<br>throw<br>curious<br>carpet<br>panther<br>order<br>flight<br>depend<br>liberty |  
+| bip_39_word_new_br_12 | service<br>ask<br>sting<br>throw<br>curious<br>carpet<br>panther<br>order<br>flight<br>depend<br>liberty<br>artist |  
+| bip_39_word_new_br_2 | service<br>ask |  
+| bip_39_word_new_br_3 | service<br>ask<br>sting |  
+| bip_39_word_new_br_4 | service<br>ask<br>sting<br>throw |  
+| bip_39_word_new_br_5 | service<br>ask<br>sting<br>throw<br>curious |  
+| bip_39_word_new_br_6 | service<br>ask<br>sting<br>throw<br>curious<br>carpet |  
+| bip_39_word_new_br_7 | service<br>ask<br>sting<br>throw<br>curious<br>carpet<br>panther |  
+| bip_39_word_new_br_8 | service<br>ask<br>sting<br>throw<br>curious<br>carpet<br>panther<br>order |  
+| bip_39_word_new_br_9 | service<br>ask<br>sting<br>throw<br>curious<br>carpet<br>panther<br>order<br>flight |  
+| bip_39_word_new_line_1 | service |  
+| bip_39_word_new_line_10 | service
 ask
 sting
 throw
@@ -55,7 +55,7 @@ panther
 order
 flight
 depend |  
-| bip_39_word_new_line11 | service
+| bip_39_word_new_line_11 | service
 ask
 sting
 throw
@@ -66,7 +66,7 @@ order
 flight
 depend
 liberty |  
-| bip_39_word_new_line12 | service
+| bip_39_word_new_line_12 | service
 ask
 sting
 throw
@@ -78,34 +78,34 @@ flight
 depend
 liberty
 artist |  
-| bip_39_word_new_line2 | service
+| bip_39_word_new_line_2 | service
 ask |  
-| bip_39_word_new_line3 | service
+| bip_39_word_new_line_3 | service
 ask
 sting |  
-| bip_39_word_new_line4 | service
+| bip_39_word_new_line_4 | service
 ask
 sting
 throw |  
-| bip_39_word_new_line5 | service
+| bip_39_word_new_line_5 | service
 ask
 sting
 throw
 curious |  
-| bip_39_word_new_line6 | service
+| bip_39_word_new_line_6 | service
 ask
 sting
 throw
 curious
 carpet |  
-| bip_39_word_new_line7 | service
+| bip_39_word_new_line_7 | service
 ask
 sting
 throw
 curious
 carpet
 panther |  
-| bip_39_word_new_line8 | service
+| bip_39_word_new_line_8 | service
 ask
 sting
 throw
@@ -113,7 +113,7 @@ curious
 carpet
 panther
 order |  
-| bip_39_word_new_line9 | service
+| bip_39_word_new_line_9 | service
 ask
 sting
 throw

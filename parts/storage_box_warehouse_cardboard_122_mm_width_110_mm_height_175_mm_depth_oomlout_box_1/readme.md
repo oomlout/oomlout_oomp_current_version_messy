@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | situate |  
-| bip_39_word_new_br10 | situate<br>era<br>penalty<br>garlic<br>ostrich<br>vote<br>tribe<br>chief<br>mom<br>coyote |  
-| bip_39_word_new_br11 | situate<br>era<br>penalty<br>garlic<br>ostrich<br>vote<br>tribe<br>chief<br>mom<br>coyote<br>quantum |  
-| bip_39_word_new_br12 | situate<br>era<br>penalty<br>garlic<br>ostrich<br>vote<br>tribe<br>chief<br>mom<br>coyote<br>quantum<br>alert |  
-| bip_39_word_new_br2 | situate<br>era |  
-| bip_39_word_new_br3 | situate<br>era<br>penalty |  
-| bip_39_word_new_br4 | situate<br>era<br>penalty<br>garlic |  
-| bip_39_word_new_br5 | situate<br>era<br>penalty<br>garlic<br>ostrich |  
-| bip_39_word_new_br6 | situate<br>era<br>penalty<br>garlic<br>ostrich<br>vote |  
-| bip_39_word_new_br7 | situate<br>era<br>penalty<br>garlic<br>ostrich<br>vote<br>tribe |  
-| bip_39_word_new_br8 | situate<br>era<br>penalty<br>garlic<br>ostrich<br>vote<br>tribe<br>chief |  
-| bip_39_word_new_br9 | situate<br>era<br>penalty<br>garlic<br>ostrich<br>vote<br>tribe<br>chief<br>mom |  
-| bip_39_word_new_line1 | situate |  
-| bip_39_word_new_line10 | situate
+| bip_39_word_new_br_1 | situate |  
+| bip_39_word_new_br_10 | situate<br>era<br>penalty<br>garlic<br>ostrich<br>vote<br>tribe<br>chief<br>mom<br>coyote |  
+| bip_39_word_new_br_11 | situate<br>era<br>penalty<br>garlic<br>ostrich<br>vote<br>tribe<br>chief<br>mom<br>coyote<br>quantum |  
+| bip_39_word_new_br_12 | situate<br>era<br>penalty<br>garlic<br>ostrich<br>vote<br>tribe<br>chief<br>mom<br>coyote<br>quantum<br>alert |  
+| bip_39_word_new_br_2 | situate<br>era |  
+| bip_39_word_new_br_3 | situate<br>era<br>penalty |  
+| bip_39_word_new_br_4 | situate<br>era<br>penalty<br>garlic |  
+| bip_39_word_new_br_5 | situate<br>era<br>penalty<br>garlic<br>ostrich |  
+| bip_39_word_new_br_6 | situate<br>era<br>penalty<br>garlic<br>ostrich<br>vote |  
+| bip_39_word_new_br_7 | situate<br>era<br>penalty<br>garlic<br>ostrich<br>vote<br>tribe |  
+| bip_39_word_new_br_8 | situate<br>era<br>penalty<br>garlic<br>ostrich<br>vote<br>tribe<br>chief |  
+| bip_39_word_new_br_9 | situate<br>era<br>penalty<br>garlic<br>ostrich<br>vote<br>tribe<br>chief<br>mom |  
+| bip_39_word_new_line_1 | situate |  
+| bip_39_word_new_line_10 | situate
 era
 penalty
 garlic
@@ -55,7 +55,7 @@ tribe
 chief
 mom
 coyote |  
-| bip_39_word_new_line11 | situate
+| bip_39_word_new_line_11 | situate
 era
 penalty
 garlic
@@ -66,7 +66,7 @@ chief
 mom
 coyote
 quantum |  
-| bip_39_word_new_line12 | situate
+| bip_39_word_new_line_12 | situate
 era
 penalty
 garlic
@@ -78,34 +78,34 @@ mom
 coyote
 quantum
 alert |  
-| bip_39_word_new_line2 | situate
+| bip_39_word_new_line_2 | situate
 era |  
-| bip_39_word_new_line3 | situate
+| bip_39_word_new_line_3 | situate
 era
 penalty |  
-| bip_39_word_new_line4 | situate
+| bip_39_word_new_line_4 | situate
 era
 penalty
 garlic |  
-| bip_39_word_new_line5 | situate
+| bip_39_word_new_line_5 | situate
 era
 penalty
 garlic
 ostrich |  
-| bip_39_word_new_line6 | situate
+| bip_39_word_new_line_6 | situate
 era
 penalty
 garlic
 ostrich
 vote |  
-| bip_39_word_new_line7 | situate
+| bip_39_word_new_line_7 | situate
 era
 penalty
 garlic
 ostrich
 vote
 tribe |  
-| bip_39_word_new_line8 | situate
+| bip_39_word_new_line_8 | situate
 era
 penalty
 garlic
@@ -113,7 +113,7 @@ ostrich
 vote
 tribe
 chief |  
-| bip_39_word_new_line9 | situate
+| bip_39_word_new_line_9 | situate
 era
 penalty
 garlic

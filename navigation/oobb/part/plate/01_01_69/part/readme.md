@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | notice |  
-| bip_39_word_new_br10 | notice<br>glad<br>list<br>demise<br>glow<br>dial<br>void<br>basket<br>shallow<br>later |  
-| bip_39_word_new_br11 | notice<br>glad<br>list<br>demise<br>glow<br>dial<br>void<br>basket<br>shallow<br>later<br>awful |  
-| bip_39_word_new_br12 | notice<br>glad<br>list<br>demise<br>glow<br>dial<br>void<br>basket<br>shallow<br>later<br>awful<br>agent |  
-| bip_39_word_new_br2 | notice<br>glad |  
-| bip_39_word_new_br3 | notice<br>glad<br>list |  
-| bip_39_word_new_br4 | notice<br>glad<br>list<br>demise |  
-| bip_39_word_new_br5 | notice<br>glad<br>list<br>demise<br>glow |  
-| bip_39_word_new_br6 | notice<br>glad<br>list<br>demise<br>glow<br>dial |  
-| bip_39_word_new_br7 | notice<br>glad<br>list<br>demise<br>glow<br>dial<br>void |  
-| bip_39_word_new_br8 | notice<br>glad<br>list<br>demise<br>glow<br>dial<br>void<br>basket |  
-| bip_39_word_new_br9 | notice<br>glad<br>list<br>demise<br>glow<br>dial<br>void<br>basket<br>shallow |  
-| bip_39_word_new_line1 | notice |  
-| bip_39_word_new_line10 | notice
+| bip_39_word_new_br_1 | notice |  
+| bip_39_word_new_br_10 | notice<br>glad<br>list<br>demise<br>glow<br>dial<br>void<br>basket<br>shallow<br>later |  
+| bip_39_word_new_br_11 | notice<br>glad<br>list<br>demise<br>glow<br>dial<br>void<br>basket<br>shallow<br>later<br>awful |  
+| bip_39_word_new_br_12 | notice<br>glad<br>list<br>demise<br>glow<br>dial<br>void<br>basket<br>shallow<br>later<br>awful<br>agent |  
+| bip_39_word_new_br_2 | notice<br>glad |  
+| bip_39_word_new_br_3 | notice<br>glad<br>list |  
+| bip_39_word_new_br_4 | notice<br>glad<br>list<br>demise |  
+| bip_39_word_new_br_5 | notice<br>glad<br>list<br>demise<br>glow |  
+| bip_39_word_new_br_6 | notice<br>glad<br>list<br>demise<br>glow<br>dial |  
+| bip_39_word_new_br_7 | notice<br>glad<br>list<br>demise<br>glow<br>dial<br>void |  
+| bip_39_word_new_br_8 | notice<br>glad<br>list<br>demise<br>glow<br>dial<br>void<br>basket |  
+| bip_39_word_new_br_9 | notice<br>glad<br>list<br>demise<br>glow<br>dial<br>void<br>basket<br>shallow |  
+| bip_39_word_new_line_1 | notice |  
+| bip_39_word_new_line_10 | notice
 glad
 list
 demise
@@ -55,7 +55,7 @@ void
 basket
 shallow
 later |  
-| bip_39_word_new_line11 | notice
+| bip_39_word_new_line_11 | notice
 glad
 list
 demise
@@ -66,7 +66,7 @@ basket
 shallow
 later
 awful |  
-| bip_39_word_new_line12 | notice
+| bip_39_word_new_line_12 | notice
 glad
 list
 demise
@@ -78,34 +78,34 @@ shallow
 later
 awful
 agent |  
-| bip_39_word_new_line2 | notice
+| bip_39_word_new_line_2 | notice
 glad |  
-| bip_39_word_new_line3 | notice
+| bip_39_word_new_line_3 | notice
 glad
 list |  
-| bip_39_word_new_line4 | notice
+| bip_39_word_new_line_4 | notice
 glad
 list
 demise |  
-| bip_39_word_new_line5 | notice
+| bip_39_word_new_line_5 | notice
 glad
 list
 demise
 glow |  
-| bip_39_word_new_line6 | notice
+| bip_39_word_new_line_6 | notice
 glad
 list
 demise
 glow
 dial |  
-| bip_39_word_new_line7 | notice
+| bip_39_word_new_line_7 | notice
 glad
 list
 demise
 glow
 dial
 void |  
-| bip_39_word_new_line8 | notice
+| bip_39_word_new_line_8 | notice
 glad
 list
 demise
@@ -113,7 +113,7 @@ glow
 dial
 void
 basket |  
-| bip_39_word_new_line9 | notice
+| bip_39_word_new_line_9 | notice
 glad
 list
 demise

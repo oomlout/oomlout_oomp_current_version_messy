@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | morning |  
-| bip_39_word_new_br10 | morning<br>proof<br>movie<br>double<br>fat<br>chicken<br>media<br>check<br>unit<br>tomorrow |  
-| bip_39_word_new_br11 | morning<br>proof<br>movie<br>double<br>fat<br>chicken<br>media<br>check<br>unit<br>tomorrow<br>object |  
-| bip_39_word_new_br12 | morning<br>proof<br>movie<br>double<br>fat<br>chicken<br>media<br>check<br>unit<br>tomorrow<br>object<br>alarm |  
-| bip_39_word_new_br2 | morning<br>proof |  
-| bip_39_word_new_br3 | morning<br>proof<br>movie |  
-| bip_39_word_new_br4 | morning<br>proof<br>movie<br>double |  
-| bip_39_word_new_br5 | morning<br>proof<br>movie<br>double<br>fat |  
-| bip_39_word_new_br6 | morning<br>proof<br>movie<br>double<br>fat<br>chicken |  
-| bip_39_word_new_br7 | morning<br>proof<br>movie<br>double<br>fat<br>chicken<br>media |  
-| bip_39_word_new_br8 | morning<br>proof<br>movie<br>double<br>fat<br>chicken<br>media<br>check |  
-| bip_39_word_new_br9 | morning<br>proof<br>movie<br>double<br>fat<br>chicken<br>media<br>check<br>unit |  
-| bip_39_word_new_line1 | morning |  
-| bip_39_word_new_line10 | morning
+| bip_39_word_new_br_1 | morning |  
+| bip_39_word_new_br_10 | morning<br>proof<br>movie<br>double<br>fat<br>chicken<br>media<br>check<br>unit<br>tomorrow |  
+| bip_39_word_new_br_11 | morning<br>proof<br>movie<br>double<br>fat<br>chicken<br>media<br>check<br>unit<br>tomorrow<br>object |  
+| bip_39_word_new_br_12 | morning<br>proof<br>movie<br>double<br>fat<br>chicken<br>media<br>check<br>unit<br>tomorrow<br>object<br>alarm |  
+| bip_39_word_new_br_2 | morning<br>proof |  
+| bip_39_word_new_br_3 | morning<br>proof<br>movie |  
+| bip_39_word_new_br_4 | morning<br>proof<br>movie<br>double |  
+| bip_39_word_new_br_5 | morning<br>proof<br>movie<br>double<br>fat |  
+| bip_39_word_new_br_6 | morning<br>proof<br>movie<br>double<br>fat<br>chicken |  
+| bip_39_word_new_br_7 | morning<br>proof<br>movie<br>double<br>fat<br>chicken<br>media |  
+| bip_39_word_new_br_8 | morning<br>proof<br>movie<br>double<br>fat<br>chicken<br>media<br>check |  
+| bip_39_word_new_br_9 | morning<br>proof<br>movie<br>double<br>fat<br>chicken<br>media<br>check<br>unit |  
+| bip_39_word_new_line_1 | morning |  
+| bip_39_word_new_line_10 | morning
 proof
 movie
 double
@@ -55,7 +55,7 @@ media
 check
 unit
 tomorrow |  
-| bip_39_word_new_line11 | morning
+| bip_39_word_new_line_11 | morning
 proof
 movie
 double
@@ -66,7 +66,7 @@ check
 unit
 tomorrow
 object |  
-| bip_39_word_new_line12 | morning
+| bip_39_word_new_line_12 | morning
 proof
 movie
 double
@@ -78,34 +78,34 @@ unit
 tomorrow
 object
 alarm |  
-| bip_39_word_new_line2 | morning
+| bip_39_word_new_line_2 | morning
 proof |  
-| bip_39_word_new_line3 | morning
+| bip_39_word_new_line_3 | morning
 proof
 movie |  
-| bip_39_word_new_line4 | morning
+| bip_39_word_new_line_4 | morning
 proof
 movie
 double |  
-| bip_39_word_new_line5 | morning
+| bip_39_word_new_line_5 | morning
 proof
 movie
 double
 fat |  
-| bip_39_word_new_line6 | morning
+| bip_39_word_new_line_6 | morning
 proof
 movie
 double
 fat
 chicken |  
-| bip_39_word_new_line7 | morning
+| bip_39_word_new_line_7 | morning
 proof
 movie
 double
 fat
 chicken
 media |  
-| bip_39_word_new_line8 | morning
+| bip_39_word_new_line_8 | morning
 proof
 movie
 double
@@ -113,7 +113,7 @@ fat
 chicken
 media
 check |  
-| bip_39_word_new_line9 | morning
+| bip_39_word_new_line_9 | morning
 proof
 movie
 double

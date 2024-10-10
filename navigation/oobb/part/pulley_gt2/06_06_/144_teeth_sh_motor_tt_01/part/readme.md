@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | click |  
-| bip_39_word_new_br10 | click<br>luxury<br>thrive<br>rival<br>zoo<br>eye<br>stove<br>approve<br>fuel<br>wasp |  
-| bip_39_word_new_br11 | click<br>luxury<br>thrive<br>rival<br>zoo<br>eye<br>stove<br>approve<br>fuel<br>wasp<br>head |  
-| bip_39_word_new_br12 | click<br>luxury<br>thrive<br>rival<br>zoo<br>eye<br>stove<br>approve<br>fuel<br>wasp<br>head<br>ahead |  
-| bip_39_word_new_br2 | click<br>luxury |  
-| bip_39_word_new_br3 | click<br>luxury<br>thrive |  
-| bip_39_word_new_br4 | click<br>luxury<br>thrive<br>rival |  
-| bip_39_word_new_br5 | click<br>luxury<br>thrive<br>rival<br>zoo |  
-| bip_39_word_new_br6 | click<br>luxury<br>thrive<br>rival<br>zoo<br>eye |  
-| bip_39_word_new_br7 | click<br>luxury<br>thrive<br>rival<br>zoo<br>eye<br>stove |  
-| bip_39_word_new_br8 | click<br>luxury<br>thrive<br>rival<br>zoo<br>eye<br>stove<br>approve |  
-| bip_39_word_new_br9 | click<br>luxury<br>thrive<br>rival<br>zoo<br>eye<br>stove<br>approve<br>fuel |  
-| bip_39_word_new_line1 | click |  
-| bip_39_word_new_line10 | click
+| bip_39_word_new_br_1 | click |  
+| bip_39_word_new_br_10 | click<br>luxury<br>thrive<br>rival<br>zoo<br>eye<br>stove<br>approve<br>fuel<br>wasp |  
+| bip_39_word_new_br_11 | click<br>luxury<br>thrive<br>rival<br>zoo<br>eye<br>stove<br>approve<br>fuel<br>wasp<br>head |  
+| bip_39_word_new_br_12 | click<br>luxury<br>thrive<br>rival<br>zoo<br>eye<br>stove<br>approve<br>fuel<br>wasp<br>head<br>ahead |  
+| bip_39_word_new_br_2 | click<br>luxury |  
+| bip_39_word_new_br_3 | click<br>luxury<br>thrive |  
+| bip_39_word_new_br_4 | click<br>luxury<br>thrive<br>rival |  
+| bip_39_word_new_br_5 | click<br>luxury<br>thrive<br>rival<br>zoo |  
+| bip_39_word_new_br_6 | click<br>luxury<br>thrive<br>rival<br>zoo<br>eye |  
+| bip_39_word_new_br_7 | click<br>luxury<br>thrive<br>rival<br>zoo<br>eye<br>stove |  
+| bip_39_word_new_br_8 | click<br>luxury<br>thrive<br>rival<br>zoo<br>eye<br>stove<br>approve |  
+| bip_39_word_new_br_9 | click<br>luxury<br>thrive<br>rival<br>zoo<br>eye<br>stove<br>approve<br>fuel |  
+| bip_39_word_new_line_1 | click |  
+| bip_39_word_new_line_10 | click
 luxury
 thrive
 rival
@@ -55,7 +55,7 @@ stove
 approve
 fuel
 wasp |  
-| bip_39_word_new_line11 | click
+| bip_39_word_new_line_11 | click
 luxury
 thrive
 rival
@@ -66,7 +66,7 @@ approve
 fuel
 wasp
 head |  
-| bip_39_word_new_line12 | click
+| bip_39_word_new_line_12 | click
 luxury
 thrive
 rival
@@ -78,34 +78,34 @@ fuel
 wasp
 head
 ahead |  
-| bip_39_word_new_line2 | click
+| bip_39_word_new_line_2 | click
 luxury |  
-| bip_39_word_new_line3 | click
+| bip_39_word_new_line_3 | click
 luxury
 thrive |  
-| bip_39_word_new_line4 | click
+| bip_39_word_new_line_4 | click
 luxury
 thrive
 rival |  
-| bip_39_word_new_line5 | click
+| bip_39_word_new_line_5 | click
 luxury
 thrive
 rival
 zoo |  
-| bip_39_word_new_line6 | click
+| bip_39_word_new_line_6 | click
 luxury
 thrive
 rival
 zoo
 eye |  
-| bip_39_word_new_line7 | click
+| bip_39_word_new_line_7 | click
 luxury
 thrive
 rival
 zoo
 eye
 stove |  
-| bip_39_word_new_line8 | click
+| bip_39_word_new_line_8 | click
 luxury
 thrive
 rival
@@ -113,7 +113,7 @@ zoo
 eye
 stove
 approve |  
-| bip_39_word_new_line9 | click
+| bip_39_word_new_line_9 | click
 luxury
 thrive
 rival

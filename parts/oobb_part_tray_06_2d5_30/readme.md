@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | inspire |  
-| bip_39_word_new_br10 | inspire<br>comfort<br>wrestle<br>promote<br>grid<br>assault<br>only<br>tape<br>fatigue<br>afraid |  
-| bip_39_word_new_br11 | inspire<br>comfort<br>wrestle<br>promote<br>grid<br>assault<br>only<br>tape<br>fatigue<br>afraid<br>mass |  
-| bip_39_word_new_br12 | inspire<br>comfort<br>wrestle<br>promote<br>grid<br>assault<br>only<br>tape<br>fatigue<br>afraid<br>mass<br>antenna |  
-| bip_39_word_new_br2 | inspire<br>comfort |  
-| bip_39_word_new_br3 | inspire<br>comfort<br>wrestle |  
-| bip_39_word_new_br4 | inspire<br>comfort<br>wrestle<br>promote |  
-| bip_39_word_new_br5 | inspire<br>comfort<br>wrestle<br>promote<br>grid |  
-| bip_39_word_new_br6 | inspire<br>comfort<br>wrestle<br>promote<br>grid<br>assault |  
-| bip_39_word_new_br7 | inspire<br>comfort<br>wrestle<br>promote<br>grid<br>assault<br>only |  
-| bip_39_word_new_br8 | inspire<br>comfort<br>wrestle<br>promote<br>grid<br>assault<br>only<br>tape |  
-| bip_39_word_new_br9 | inspire<br>comfort<br>wrestle<br>promote<br>grid<br>assault<br>only<br>tape<br>fatigue |  
-| bip_39_word_new_line1 | inspire |  
-| bip_39_word_new_line10 | inspire
+| bip_39_word_new_br_1 | inspire |  
+| bip_39_word_new_br_10 | inspire<br>comfort<br>wrestle<br>promote<br>grid<br>assault<br>only<br>tape<br>fatigue<br>afraid |  
+| bip_39_word_new_br_11 | inspire<br>comfort<br>wrestle<br>promote<br>grid<br>assault<br>only<br>tape<br>fatigue<br>afraid<br>mass |  
+| bip_39_word_new_br_12 | inspire<br>comfort<br>wrestle<br>promote<br>grid<br>assault<br>only<br>tape<br>fatigue<br>afraid<br>mass<br>antenna |  
+| bip_39_word_new_br_2 | inspire<br>comfort |  
+| bip_39_word_new_br_3 | inspire<br>comfort<br>wrestle |  
+| bip_39_word_new_br_4 | inspire<br>comfort<br>wrestle<br>promote |  
+| bip_39_word_new_br_5 | inspire<br>comfort<br>wrestle<br>promote<br>grid |  
+| bip_39_word_new_br_6 | inspire<br>comfort<br>wrestle<br>promote<br>grid<br>assault |  
+| bip_39_word_new_br_7 | inspire<br>comfort<br>wrestle<br>promote<br>grid<br>assault<br>only |  
+| bip_39_word_new_br_8 | inspire<br>comfort<br>wrestle<br>promote<br>grid<br>assault<br>only<br>tape |  
+| bip_39_word_new_br_9 | inspire<br>comfort<br>wrestle<br>promote<br>grid<br>assault<br>only<br>tape<br>fatigue |  
+| bip_39_word_new_line_1 | inspire |  
+| bip_39_word_new_line_10 | inspire
 comfort
 wrestle
 promote
@@ -55,7 +55,7 @@ only
 tape
 fatigue
 afraid |  
-| bip_39_word_new_line11 | inspire
+| bip_39_word_new_line_11 | inspire
 comfort
 wrestle
 promote
@@ -66,7 +66,7 @@ tape
 fatigue
 afraid
 mass |  
-| bip_39_word_new_line12 | inspire
+| bip_39_word_new_line_12 | inspire
 comfort
 wrestle
 promote
@@ -78,34 +78,34 @@ fatigue
 afraid
 mass
 antenna |  
-| bip_39_word_new_line2 | inspire
+| bip_39_word_new_line_2 | inspire
 comfort |  
-| bip_39_word_new_line3 | inspire
+| bip_39_word_new_line_3 | inspire
 comfort
 wrestle |  
-| bip_39_word_new_line4 | inspire
+| bip_39_word_new_line_4 | inspire
 comfort
 wrestle
 promote |  
-| bip_39_word_new_line5 | inspire
+| bip_39_word_new_line_5 | inspire
 comfort
 wrestle
 promote
 grid |  
-| bip_39_word_new_line6 | inspire
+| bip_39_word_new_line_6 | inspire
 comfort
 wrestle
 promote
 grid
 assault |  
-| bip_39_word_new_line7 | inspire
+| bip_39_word_new_line_7 | inspire
 comfort
 wrestle
 promote
 grid
 assault
 only |  
-| bip_39_word_new_line8 | inspire
+| bip_39_word_new_line_8 | inspire
 comfort
 wrestle
 promote
@@ -113,7 +113,7 @@ grid
 assault
 only
 tape |  
-| bip_39_word_new_line9 | inspire
+| bip_39_word_new_line_9 | inspire
 comfort
 wrestle
 promote

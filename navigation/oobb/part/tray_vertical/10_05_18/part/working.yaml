@@ -1,17 +1,17 @@
-bip_39_word_new_br1: garment
-bip_39_word_new_br10: garment<br>soccer<br>repeat<br>ripple<br>slab<br>actor<br>accident<br>harbor<br>solid<br>fun
-bip_39_word_new_br11: garment<br>soccer<br>repeat<br>ripple<br>slab<br>actor<br>accident<br>harbor<br>solid<br>fun<br>screen
-bip_39_word_new_br12: garment<br>soccer<br>repeat<br>ripple<br>slab<br>actor<br>accident<br>harbor<br>solid<br>fun<br>screen<br>affair
-bip_39_word_new_br2: garment<br>soccer
-bip_39_word_new_br3: garment<br>soccer<br>repeat
-bip_39_word_new_br4: garment<br>soccer<br>repeat<br>ripple
-bip_39_word_new_br5: garment<br>soccer<br>repeat<br>ripple<br>slab
-bip_39_word_new_br6: garment<br>soccer<br>repeat<br>ripple<br>slab<br>actor
-bip_39_word_new_br7: garment<br>soccer<br>repeat<br>ripple<br>slab<br>actor<br>accident
-bip_39_word_new_br8: garment<br>soccer<br>repeat<br>ripple<br>slab<br>actor<br>accident<br>harbor
-bip_39_word_new_br9: garment<br>soccer<br>repeat<br>ripple<br>slab<br>actor<br>accident<br>harbor<br>solid
-bip_39_word_new_line1: garment
-bip_39_word_new_line10: 'garment
+bip_39_word_new_br_1: garment
+bip_39_word_new_br_10: garment<br>soccer<br>repeat<br>ripple<br>slab<br>actor<br>accident<br>harbor<br>solid<br>fun
+bip_39_word_new_br_11: garment<br>soccer<br>repeat<br>ripple<br>slab<br>actor<br>accident<br>harbor<br>solid<br>fun<br>screen
+bip_39_word_new_br_12: garment<br>soccer<br>repeat<br>ripple<br>slab<br>actor<br>accident<br>harbor<br>solid<br>fun<br>screen<br>affair
+bip_39_word_new_br_2: garment<br>soccer
+bip_39_word_new_br_3: garment<br>soccer<br>repeat
+bip_39_word_new_br_4: garment<br>soccer<br>repeat<br>ripple
+bip_39_word_new_br_5: garment<br>soccer<br>repeat<br>ripple<br>slab
+bip_39_word_new_br_6: garment<br>soccer<br>repeat<br>ripple<br>slab<br>actor
+bip_39_word_new_br_7: garment<br>soccer<br>repeat<br>ripple<br>slab<br>actor<br>accident
+bip_39_word_new_br_8: garment<br>soccer<br>repeat<br>ripple<br>slab<br>actor<br>accident<br>harbor
+bip_39_word_new_br_9: garment<br>soccer<br>repeat<br>ripple<br>slab<br>actor<br>accident<br>harbor<br>solid
+bip_39_word_new_line_1: garment
+bip_39_word_new_line_10: 'garment
 
   soccer
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'garment
   solid
 
   fun'
-bip_39_word_new_line11: 'garment
+bip_39_word_new_line_11: 'garment
 
   soccer
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'garment
   fun
 
   screen'
-bip_39_word_new_line12: 'garment
+bip_39_word_new_line_12: 'garment
 
   soccer
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'garment
   screen
 
   affair'
-bip_39_word_new_line2: 'garment
+bip_39_word_new_line_2: 'garment
 
   soccer'
-bip_39_word_new_line3: 'garment
+bip_39_word_new_line_3: 'garment
 
   soccer
 
   repeat'
-bip_39_word_new_line4: 'garment
+bip_39_word_new_line_4: 'garment
 
   soccer
 
   repeat
 
   ripple'
-bip_39_word_new_line5: 'garment
+bip_39_word_new_line_5: 'garment
 
   soccer
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'garment
   ripple
 
   slab'
-bip_39_word_new_line6: 'garment
+bip_39_word_new_line_6: 'garment
 
   soccer
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'garment
   slab
 
   actor'
-bip_39_word_new_line7: 'garment
+bip_39_word_new_line_7: 'garment
 
   soccer
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'garment
   actor
 
   accident'
-bip_39_word_new_line8: 'garment
+bip_39_word_new_line_8: 'garment
 
   soccer
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'garment
   accident
 
   harbor'
-bip_39_word_new_line9: 'garment
+bip_39_word_new_line_9: 'garment
 
   soccer
 

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | such |  
-| bip_39_word_new_br10 | such<br>stairs<br>paper<br>knee<br>sunny<br>reflect<br>hawk<br>copy<br>bless<br>ball |  
-| bip_39_word_new_br11 | such<br>stairs<br>paper<br>knee<br>sunny<br>reflect<br>hawk<br>copy<br>bless<br>ball<br>element |  
-| bip_39_word_new_br12 | such<br>stairs<br>paper<br>knee<br>sunny<br>reflect<br>hawk<br>copy<br>bless<br>ball<br>element<br>alert |  
-| bip_39_word_new_br2 | such<br>stairs |  
-| bip_39_word_new_br3 | such<br>stairs<br>paper |  
-| bip_39_word_new_br4 | such<br>stairs<br>paper<br>knee |  
-| bip_39_word_new_br5 | such<br>stairs<br>paper<br>knee<br>sunny |  
-| bip_39_word_new_br6 | such<br>stairs<br>paper<br>knee<br>sunny<br>reflect |  
-| bip_39_word_new_br7 | such<br>stairs<br>paper<br>knee<br>sunny<br>reflect<br>hawk |  
-| bip_39_word_new_br8 | such<br>stairs<br>paper<br>knee<br>sunny<br>reflect<br>hawk<br>copy |  
-| bip_39_word_new_br9 | such<br>stairs<br>paper<br>knee<br>sunny<br>reflect<br>hawk<br>copy<br>bless |  
-| bip_39_word_new_line1 | such |  
-| bip_39_word_new_line10 | such
+| bip_39_word_new_br_1 | such |  
+| bip_39_word_new_br_10 | such<br>stairs<br>paper<br>knee<br>sunny<br>reflect<br>hawk<br>copy<br>bless<br>ball |  
+| bip_39_word_new_br_11 | such<br>stairs<br>paper<br>knee<br>sunny<br>reflect<br>hawk<br>copy<br>bless<br>ball<br>element |  
+| bip_39_word_new_br_12 | such<br>stairs<br>paper<br>knee<br>sunny<br>reflect<br>hawk<br>copy<br>bless<br>ball<br>element<br>alert |  
+| bip_39_word_new_br_2 | such<br>stairs |  
+| bip_39_word_new_br_3 | such<br>stairs<br>paper |  
+| bip_39_word_new_br_4 | such<br>stairs<br>paper<br>knee |  
+| bip_39_word_new_br_5 | such<br>stairs<br>paper<br>knee<br>sunny |  
+| bip_39_word_new_br_6 | such<br>stairs<br>paper<br>knee<br>sunny<br>reflect |  
+| bip_39_word_new_br_7 | such<br>stairs<br>paper<br>knee<br>sunny<br>reflect<br>hawk |  
+| bip_39_word_new_br_8 | such<br>stairs<br>paper<br>knee<br>sunny<br>reflect<br>hawk<br>copy |  
+| bip_39_word_new_br_9 | such<br>stairs<br>paper<br>knee<br>sunny<br>reflect<br>hawk<br>copy<br>bless |  
+| bip_39_word_new_line_1 | such |  
+| bip_39_word_new_line_10 | such
 stairs
 paper
 knee
@@ -55,7 +55,7 @@ hawk
 copy
 bless
 ball |  
-| bip_39_word_new_line11 | such
+| bip_39_word_new_line_11 | such
 stairs
 paper
 knee
@@ -66,7 +66,7 @@ copy
 bless
 ball
 element |  
-| bip_39_word_new_line12 | such
+| bip_39_word_new_line_12 | such
 stairs
 paper
 knee
@@ -78,34 +78,34 @@ bless
 ball
 element
 alert |  
-| bip_39_word_new_line2 | such
+| bip_39_word_new_line_2 | such
 stairs |  
-| bip_39_word_new_line3 | such
+| bip_39_word_new_line_3 | such
 stairs
 paper |  
-| bip_39_word_new_line4 | such
+| bip_39_word_new_line_4 | such
 stairs
 paper
 knee |  
-| bip_39_word_new_line5 | such
+| bip_39_word_new_line_5 | such
 stairs
 paper
 knee
 sunny |  
-| bip_39_word_new_line6 | such
+| bip_39_word_new_line_6 | such
 stairs
 paper
 knee
 sunny
 reflect |  
-| bip_39_word_new_line7 | such
+| bip_39_word_new_line_7 | such
 stairs
 paper
 knee
 sunny
 reflect
 hawk |  
-| bip_39_word_new_line8 | such
+| bip_39_word_new_line_8 | such
 stairs
 paper
 knee
@@ -113,7 +113,7 @@ sunny
 reflect
 hawk
 copy |  
-| bip_39_word_new_line9 | such
+| bip_39_word_new_line_9 | such
 stairs
 paper
 knee

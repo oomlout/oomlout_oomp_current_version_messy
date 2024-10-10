@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | movie |  
-| bip_39_word_new_br10 | movie<br>husband<br>captain<br>bonus<br>become<br>punch<br>valve<br>genuine<br>spy<br>stone |  
-| bip_39_word_new_br11 | movie<br>husband<br>captain<br>bonus<br>become<br>punch<br>valve<br>genuine<br>spy<br>stone<br>squeeze |  
-| bip_39_word_new_br12 | movie<br>husband<br>captain<br>bonus<br>become<br>punch<br>valve<br>genuine<br>spy<br>stone<br>squeeze<br>absurd |  
-| bip_39_word_new_br2 | movie<br>husband |  
-| bip_39_word_new_br3 | movie<br>husband<br>captain |  
-| bip_39_word_new_br4 | movie<br>husband<br>captain<br>bonus |  
-| bip_39_word_new_br5 | movie<br>husband<br>captain<br>bonus<br>become |  
-| bip_39_word_new_br6 | movie<br>husband<br>captain<br>bonus<br>become<br>punch |  
-| bip_39_word_new_br7 | movie<br>husband<br>captain<br>bonus<br>become<br>punch<br>valve |  
-| bip_39_word_new_br8 | movie<br>husband<br>captain<br>bonus<br>become<br>punch<br>valve<br>genuine |  
-| bip_39_word_new_br9 | movie<br>husband<br>captain<br>bonus<br>become<br>punch<br>valve<br>genuine<br>spy |  
-| bip_39_word_new_line1 | movie |  
-| bip_39_word_new_line10 | movie
+| bip_39_word_new_br_1 | movie |  
+| bip_39_word_new_br_10 | movie<br>husband<br>captain<br>bonus<br>become<br>punch<br>valve<br>genuine<br>spy<br>stone |  
+| bip_39_word_new_br_11 | movie<br>husband<br>captain<br>bonus<br>become<br>punch<br>valve<br>genuine<br>spy<br>stone<br>squeeze |  
+| bip_39_word_new_br_12 | movie<br>husband<br>captain<br>bonus<br>become<br>punch<br>valve<br>genuine<br>spy<br>stone<br>squeeze<br>absurd |  
+| bip_39_word_new_br_2 | movie<br>husband |  
+| bip_39_word_new_br_3 | movie<br>husband<br>captain |  
+| bip_39_word_new_br_4 | movie<br>husband<br>captain<br>bonus |  
+| bip_39_word_new_br_5 | movie<br>husband<br>captain<br>bonus<br>become |  
+| bip_39_word_new_br_6 | movie<br>husband<br>captain<br>bonus<br>become<br>punch |  
+| bip_39_word_new_br_7 | movie<br>husband<br>captain<br>bonus<br>become<br>punch<br>valve |  
+| bip_39_word_new_br_8 | movie<br>husband<br>captain<br>bonus<br>become<br>punch<br>valve<br>genuine |  
+| bip_39_word_new_br_9 | movie<br>husband<br>captain<br>bonus<br>become<br>punch<br>valve<br>genuine<br>spy |  
+| bip_39_word_new_line_1 | movie |  
+| bip_39_word_new_line_10 | movie
 husband
 captain
 bonus
@@ -55,7 +55,7 @@ valve
 genuine
 spy
 stone |  
-| bip_39_word_new_line11 | movie
+| bip_39_word_new_line_11 | movie
 husband
 captain
 bonus
@@ -66,7 +66,7 @@ genuine
 spy
 stone
 squeeze |  
-| bip_39_word_new_line12 | movie
+| bip_39_word_new_line_12 | movie
 husband
 captain
 bonus
@@ -78,34 +78,34 @@ spy
 stone
 squeeze
 absurd |  
-| bip_39_word_new_line2 | movie
+| bip_39_word_new_line_2 | movie
 husband |  
-| bip_39_word_new_line3 | movie
+| bip_39_word_new_line_3 | movie
 husband
 captain |  
-| bip_39_word_new_line4 | movie
+| bip_39_word_new_line_4 | movie
 husband
 captain
 bonus |  
-| bip_39_word_new_line5 | movie
+| bip_39_word_new_line_5 | movie
 husband
 captain
 bonus
 become |  
-| bip_39_word_new_line6 | movie
+| bip_39_word_new_line_6 | movie
 husband
 captain
 bonus
 become
 punch |  
-| bip_39_word_new_line7 | movie
+| bip_39_word_new_line_7 | movie
 husband
 captain
 bonus
 become
 punch
 valve |  
-| bip_39_word_new_line8 | movie
+| bip_39_word_new_line_8 | movie
 husband
 captain
 bonus
@@ -113,7 +113,7 @@ become
 punch
 valve
 genuine |  
-| bip_39_word_new_line9 | movie
+| bip_39_word_new_line_9 | movie
 husband
 captain
 bonus

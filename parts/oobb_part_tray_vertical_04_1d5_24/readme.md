@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rifle |  
-| bip_39_word_new_br10 | rifle<br>village<br>harsh<br>call<br>cancel<br>swim<br>island<br>defense<br>capable<br>assume |  
-| bip_39_word_new_br11 | rifle<br>village<br>harsh<br>call<br>cancel<br>swim<br>island<br>defense<br>capable<br>assume<br>duck |  
-| bip_39_word_new_br12 | rifle<br>village<br>harsh<br>call<br>cancel<br>swim<br>island<br>defense<br>capable<br>assume<br>duck<br>admit |  
-| bip_39_word_new_br2 | rifle<br>village |  
-| bip_39_word_new_br3 | rifle<br>village<br>harsh |  
-| bip_39_word_new_br4 | rifle<br>village<br>harsh<br>call |  
-| bip_39_word_new_br5 | rifle<br>village<br>harsh<br>call<br>cancel |  
-| bip_39_word_new_br6 | rifle<br>village<br>harsh<br>call<br>cancel<br>swim |  
-| bip_39_word_new_br7 | rifle<br>village<br>harsh<br>call<br>cancel<br>swim<br>island |  
-| bip_39_word_new_br8 | rifle<br>village<br>harsh<br>call<br>cancel<br>swim<br>island<br>defense |  
-| bip_39_word_new_br9 | rifle<br>village<br>harsh<br>call<br>cancel<br>swim<br>island<br>defense<br>capable |  
-| bip_39_word_new_line1 | rifle |  
-| bip_39_word_new_line10 | rifle
+| bip_39_word_new_br_1 | rifle |  
+| bip_39_word_new_br_10 | rifle<br>village<br>harsh<br>call<br>cancel<br>swim<br>island<br>defense<br>capable<br>assume |  
+| bip_39_word_new_br_11 | rifle<br>village<br>harsh<br>call<br>cancel<br>swim<br>island<br>defense<br>capable<br>assume<br>duck |  
+| bip_39_word_new_br_12 | rifle<br>village<br>harsh<br>call<br>cancel<br>swim<br>island<br>defense<br>capable<br>assume<br>duck<br>admit |  
+| bip_39_word_new_br_2 | rifle<br>village |  
+| bip_39_word_new_br_3 | rifle<br>village<br>harsh |  
+| bip_39_word_new_br_4 | rifle<br>village<br>harsh<br>call |  
+| bip_39_word_new_br_5 | rifle<br>village<br>harsh<br>call<br>cancel |  
+| bip_39_word_new_br_6 | rifle<br>village<br>harsh<br>call<br>cancel<br>swim |  
+| bip_39_word_new_br_7 | rifle<br>village<br>harsh<br>call<br>cancel<br>swim<br>island |  
+| bip_39_word_new_br_8 | rifle<br>village<br>harsh<br>call<br>cancel<br>swim<br>island<br>defense |  
+| bip_39_word_new_br_9 | rifle<br>village<br>harsh<br>call<br>cancel<br>swim<br>island<br>defense<br>capable |  
+| bip_39_word_new_line_1 | rifle |  
+| bip_39_word_new_line_10 | rifle
 village
 harsh
 call
@@ -55,7 +55,7 @@ island
 defense
 capable
 assume |  
-| bip_39_word_new_line11 | rifle
+| bip_39_word_new_line_11 | rifle
 village
 harsh
 call
@@ -66,7 +66,7 @@ defense
 capable
 assume
 duck |  
-| bip_39_word_new_line12 | rifle
+| bip_39_word_new_line_12 | rifle
 village
 harsh
 call
@@ -78,34 +78,34 @@ capable
 assume
 duck
 admit |  
-| bip_39_word_new_line2 | rifle
+| bip_39_word_new_line_2 | rifle
 village |  
-| bip_39_word_new_line3 | rifle
+| bip_39_word_new_line_3 | rifle
 village
 harsh |  
-| bip_39_word_new_line4 | rifle
+| bip_39_word_new_line_4 | rifle
 village
 harsh
 call |  
-| bip_39_word_new_line5 | rifle
+| bip_39_word_new_line_5 | rifle
 village
 harsh
 call
 cancel |  
-| bip_39_word_new_line6 | rifle
+| bip_39_word_new_line_6 | rifle
 village
 harsh
 call
 cancel
 swim |  
-| bip_39_word_new_line7 | rifle
+| bip_39_word_new_line_7 | rifle
 village
 harsh
 call
 cancel
 swim
 island |  
-| bip_39_word_new_line8 | rifle
+| bip_39_word_new_line_8 | rifle
 village
 harsh
 call
@@ -113,7 +113,7 @@ cancel
 swim
 island
 defense |  
-| bip_39_word_new_line9 | rifle
+| bip_39_word_new_line_9 | rifle
 village
 harsh
 call

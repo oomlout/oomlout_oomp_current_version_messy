@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pulse |  
-| bip_39_word_new_br10 | pulse<br>moment<br>emerge<br>amount<br>tourist<br>hamster<br>dune<br>life<br>balcony<br>deal |  
-| bip_39_word_new_br11 | pulse<br>moment<br>emerge<br>amount<br>tourist<br>hamster<br>dune<br>life<br>balcony<br>deal<br>allow |  
-| bip_39_word_new_br12 | pulse<br>moment<br>emerge<br>amount<br>tourist<br>hamster<br>dune<br>life<br>balcony<br>deal<br>allow<br>ankle |  
-| bip_39_word_new_br2 | pulse<br>moment |  
-| bip_39_word_new_br3 | pulse<br>moment<br>emerge |  
-| bip_39_word_new_br4 | pulse<br>moment<br>emerge<br>amount |  
-| bip_39_word_new_br5 | pulse<br>moment<br>emerge<br>amount<br>tourist |  
-| bip_39_word_new_br6 | pulse<br>moment<br>emerge<br>amount<br>tourist<br>hamster |  
-| bip_39_word_new_br7 | pulse<br>moment<br>emerge<br>amount<br>tourist<br>hamster<br>dune |  
-| bip_39_word_new_br8 | pulse<br>moment<br>emerge<br>amount<br>tourist<br>hamster<br>dune<br>life |  
-| bip_39_word_new_br9 | pulse<br>moment<br>emerge<br>amount<br>tourist<br>hamster<br>dune<br>life<br>balcony |  
-| bip_39_word_new_line1 | pulse |  
-| bip_39_word_new_line10 | pulse
+| bip_39_word_new_br_1 | pulse |  
+| bip_39_word_new_br_10 | pulse<br>moment<br>emerge<br>amount<br>tourist<br>hamster<br>dune<br>life<br>balcony<br>deal |  
+| bip_39_word_new_br_11 | pulse<br>moment<br>emerge<br>amount<br>tourist<br>hamster<br>dune<br>life<br>balcony<br>deal<br>allow |  
+| bip_39_word_new_br_12 | pulse<br>moment<br>emerge<br>amount<br>tourist<br>hamster<br>dune<br>life<br>balcony<br>deal<br>allow<br>ankle |  
+| bip_39_word_new_br_2 | pulse<br>moment |  
+| bip_39_word_new_br_3 | pulse<br>moment<br>emerge |  
+| bip_39_word_new_br_4 | pulse<br>moment<br>emerge<br>amount |  
+| bip_39_word_new_br_5 | pulse<br>moment<br>emerge<br>amount<br>tourist |  
+| bip_39_word_new_br_6 | pulse<br>moment<br>emerge<br>amount<br>tourist<br>hamster |  
+| bip_39_word_new_br_7 | pulse<br>moment<br>emerge<br>amount<br>tourist<br>hamster<br>dune |  
+| bip_39_word_new_br_8 | pulse<br>moment<br>emerge<br>amount<br>tourist<br>hamster<br>dune<br>life |  
+| bip_39_word_new_br_9 | pulse<br>moment<br>emerge<br>amount<br>tourist<br>hamster<br>dune<br>life<br>balcony |  
+| bip_39_word_new_line_1 | pulse |  
+| bip_39_word_new_line_10 | pulse
 moment
 emerge
 amount
@@ -55,7 +55,7 @@ dune
 life
 balcony
 deal |  
-| bip_39_word_new_line11 | pulse
+| bip_39_word_new_line_11 | pulse
 moment
 emerge
 amount
@@ -66,7 +66,7 @@ life
 balcony
 deal
 allow |  
-| bip_39_word_new_line12 | pulse
+| bip_39_word_new_line_12 | pulse
 moment
 emerge
 amount
@@ -78,34 +78,34 @@ balcony
 deal
 allow
 ankle |  
-| bip_39_word_new_line2 | pulse
+| bip_39_word_new_line_2 | pulse
 moment |  
-| bip_39_word_new_line3 | pulse
+| bip_39_word_new_line_3 | pulse
 moment
 emerge |  
-| bip_39_word_new_line4 | pulse
+| bip_39_word_new_line_4 | pulse
 moment
 emerge
 amount |  
-| bip_39_word_new_line5 | pulse
+| bip_39_word_new_line_5 | pulse
 moment
 emerge
 amount
 tourist |  
-| bip_39_word_new_line6 | pulse
+| bip_39_word_new_line_6 | pulse
 moment
 emerge
 amount
 tourist
 hamster |  
-| bip_39_word_new_line7 | pulse
+| bip_39_word_new_line_7 | pulse
 moment
 emerge
 amount
 tourist
 hamster
 dune |  
-| bip_39_word_new_line8 | pulse
+| bip_39_word_new_line_8 | pulse
 moment
 emerge
 amount
@@ -113,7 +113,7 @@ tourist
 hamster
 dune
 life |  
-| bip_39_word_new_line9 | pulse
+| bip_39_word_new_line_9 | pulse
 moment
 emerge
 amount

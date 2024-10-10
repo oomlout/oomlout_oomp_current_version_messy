@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | begin |  
-| bip_39_word_new_br10 | begin<br>start<br>weapon<br>notable<br>drip<br>lizard<br>fork<br>brother<br>alley<br>absent |  
-| bip_39_word_new_br11 | begin<br>start<br>weapon<br>notable<br>drip<br>lizard<br>fork<br>brother<br>alley<br>absent<br>jaguar |  
-| bip_39_word_new_br12 | begin<br>start<br>weapon<br>notable<br>drip<br>lizard<br>fork<br>brother<br>alley<br>absent<br>jaguar<br>amateur |  
-| bip_39_word_new_br2 | begin<br>start |  
-| bip_39_word_new_br3 | begin<br>start<br>weapon |  
-| bip_39_word_new_br4 | begin<br>start<br>weapon<br>notable |  
-| bip_39_word_new_br5 | begin<br>start<br>weapon<br>notable<br>drip |  
-| bip_39_word_new_br6 | begin<br>start<br>weapon<br>notable<br>drip<br>lizard |  
-| bip_39_word_new_br7 | begin<br>start<br>weapon<br>notable<br>drip<br>lizard<br>fork |  
-| bip_39_word_new_br8 | begin<br>start<br>weapon<br>notable<br>drip<br>lizard<br>fork<br>brother |  
-| bip_39_word_new_br9 | begin<br>start<br>weapon<br>notable<br>drip<br>lizard<br>fork<br>brother<br>alley |  
-| bip_39_word_new_line1 | begin |  
-| bip_39_word_new_line10 | begin
+| bip_39_word_new_br_1 | begin |  
+| bip_39_word_new_br_10 | begin<br>start<br>weapon<br>notable<br>drip<br>lizard<br>fork<br>brother<br>alley<br>absent |  
+| bip_39_word_new_br_11 | begin<br>start<br>weapon<br>notable<br>drip<br>lizard<br>fork<br>brother<br>alley<br>absent<br>jaguar |  
+| bip_39_word_new_br_12 | begin<br>start<br>weapon<br>notable<br>drip<br>lizard<br>fork<br>brother<br>alley<br>absent<br>jaguar<br>amateur |  
+| bip_39_word_new_br_2 | begin<br>start |  
+| bip_39_word_new_br_3 | begin<br>start<br>weapon |  
+| bip_39_word_new_br_4 | begin<br>start<br>weapon<br>notable |  
+| bip_39_word_new_br_5 | begin<br>start<br>weapon<br>notable<br>drip |  
+| bip_39_word_new_br_6 | begin<br>start<br>weapon<br>notable<br>drip<br>lizard |  
+| bip_39_word_new_br_7 | begin<br>start<br>weapon<br>notable<br>drip<br>lizard<br>fork |  
+| bip_39_word_new_br_8 | begin<br>start<br>weapon<br>notable<br>drip<br>lizard<br>fork<br>brother |  
+| bip_39_word_new_br_9 | begin<br>start<br>weapon<br>notable<br>drip<br>lizard<br>fork<br>brother<br>alley |  
+| bip_39_word_new_line_1 | begin |  
+| bip_39_word_new_line_10 | begin
 start
 weapon
 notable
@@ -55,7 +55,7 @@ fork
 brother
 alley
 absent |  
-| bip_39_word_new_line11 | begin
+| bip_39_word_new_line_11 | begin
 start
 weapon
 notable
@@ -66,7 +66,7 @@ brother
 alley
 absent
 jaguar |  
-| bip_39_word_new_line12 | begin
+| bip_39_word_new_line_12 | begin
 start
 weapon
 notable
@@ -78,34 +78,34 @@ alley
 absent
 jaguar
 amateur |  
-| bip_39_word_new_line2 | begin
+| bip_39_word_new_line_2 | begin
 start |  
-| bip_39_word_new_line3 | begin
+| bip_39_word_new_line_3 | begin
 start
 weapon |  
-| bip_39_word_new_line4 | begin
+| bip_39_word_new_line_4 | begin
 start
 weapon
 notable |  
-| bip_39_word_new_line5 | begin
+| bip_39_word_new_line_5 | begin
 start
 weapon
 notable
 drip |  
-| bip_39_word_new_line6 | begin
+| bip_39_word_new_line_6 | begin
 start
 weapon
 notable
 drip
 lizard |  
-| bip_39_word_new_line7 | begin
+| bip_39_word_new_line_7 | begin
 start
 weapon
 notable
 drip
 lizard
 fork |  
-| bip_39_word_new_line8 | begin
+| bip_39_word_new_line_8 | begin
 start
 weapon
 notable
@@ -113,7 +113,7 @@ drip
 lizard
 fork
 brother |  
-| bip_39_word_new_line9 | begin
+| bip_39_word_new_line_9 | begin
 start
 weapon
 notable

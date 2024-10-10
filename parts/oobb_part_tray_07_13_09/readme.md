@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | chief |  
-| bip_39_word_new_br10 | chief<br>rebel<br>green<br>panic<br>pink<br>rocket<br>unique<br>quantum<br>dream<br>confirm |  
-| bip_39_word_new_br11 | chief<br>rebel<br>green<br>panic<br>pink<br>rocket<br>unique<br>quantum<br>dream<br>confirm<br>few |  
-| bip_39_word_new_br12 | chief<br>rebel<br>green<br>panic<br>pink<br>rocket<br>unique<br>quantum<br>dream<br>confirm<br>few<br>already |  
-| bip_39_word_new_br2 | chief<br>rebel |  
-| bip_39_word_new_br3 | chief<br>rebel<br>green |  
-| bip_39_word_new_br4 | chief<br>rebel<br>green<br>panic |  
-| bip_39_word_new_br5 | chief<br>rebel<br>green<br>panic<br>pink |  
-| bip_39_word_new_br6 | chief<br>rebel<br>green<br>panic<br>pink<br>rocket |  
-| bip_39_word_new_br7 | chief<br>rebel<br>green<br>panic<br>pink<br>rocket<br>unique |  
-| bip_39_word_new_br8 | chief<br>rebel<br>green<br>panic<br>pink<br>rocket<br>unique<br>quantum |  
-| bip_39_word_new_br9 | chief<br>rebel<br>green<br>panic<br>pink<br>rocket<br>unique<br>quantum<br>dream |  
-| bip_39_word_new_line1 | chief |  
-| bip_39_word_new_line10 | chief
+| bip_39_word_new_br_1 | chief |  
+| bip_39_word_new_br_10 | chief<br>rebel<br>green<br>panic<br>pink<br>rocket<br>unique<br>quantum<br>dream<br>confirm |  
+| bip_39_word_new_br_11 | chief<br>rebel<br>green<br>panic<br>pink<br>rocket<br>unique<br>quantum<br>dream<br>confirm<br>few |  
+| bip_39_word_new_br_12 | chief<br>rebel<br>green<br>panic<br>pink<br>rocket<br>unique<br>quantum<br>dream<br>confirm<br>few<br>already |  
+| bip_39_word_new_br_2 | chief<br>rebel |  
+| bip_39_word_new_br_3 | chief<br>rebel<br>green |  
+| bip_39_word_new_br_4 | chief<br>rebel<br>green<br>panic |  
+| bip_39_word_new_br_5 | chief<br>rebel<br>green<br>panic<br>pink |  
+| bip_39_word_new_br_6 | chief<br>rebel<br>green<br>panic<br>pink<br>rocket |  
+| bip_39_word_new_br_7 | chief<br>rebel<br>green<br>panic<br>pink<br>rocket<br>unique |  
+| bip_39_word_new_br_8 | chief<br>rebel<br>green<br>panic<br>pink<br>rocket<br>unique<br>quantum |  
+| bip_39_word_new_br_9 | chief<br>rebel<br>green<br>panic<br>pink<br>rocket<br>unique<br>quantum<br>dream |  
+| bip_39_word_new_line_1 | chief |  
+| bip_39_word_new_line_10 | chief
 rebel
 green
 panic
@@ -55,7 +55,7 @@ unique
 quantum
 dream
 confirm |  
-| bip_39_word_new_line11 | chief
+| bip_39_word_new_line_11 | chief
 rebel
 green
 panic
@@ -66,7 +66,7 @@ quantum
 dream
 confirm
 few |  
-| bip_39_word_new_line12 | chief
+| bip_39_word_new_line_12 | chief
 rebel
 green
 panic
@@ -78,34 +78,34 @@ dream
 confirm
 few
 already |  
-| bip_39_word_new_line2 | chief
+| bip_39_word_new_line_2 | chief
 rebel |  
-| bip_39_word_new_line3 | chief
+| bip_39_word_new_line_3 | chief
 rebel
 green |  
-| bip_39_word_new_line4 | chief
+| bip_39_word_new_line_4 | chief
 rebel
 green
 panic |  
-| bip_39_word_new_line5 | chief
+| bip_39_word_new_line_5 | chief
 rebel
 green
 panic
 pink |  
-| bip_39_word_new_line6 | chief
+| bip_39_word_new_line_6 | chief
 rebel
 green
 panic
 pink
 rocket |  
-| bip_39_word_new_line7 | chief
+| bip_39_word_new_line_7 | chief
 rebel
 green
 panic
 pink
 rocket
 unique |  
-| bip_39_word_new_line8 | chief
+| bip_39_word_new_line_8 | chief
 rebel
 green
 panic
@@ -113,7 +113,7 @@ pink
 rocket
 unique
 quantum |  
-| bip_39_word_new_line9 | chief
+| bip_39_word_new_line_9 | chief
 rebel
 green
 panic

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | charge |  
-| bip_39_word_new_br10 | charge<br>upgrade<br>neck<br>file<br>oblige<br>lucky<br>advice<br>grocery<br>unit<br>bargain |  
-| bip_39_word_new_br11 | charge<br>upgrade<br>neck<br>file<br>oblige<br>lucky<br>advice<br>grocery<br>unit<br>bargain<br>such |  
-| bip_39_word_new_br12 | charge<br>upgrade<br>neck<br>file<br>oblige<br>lucky<br>advice<br>grocery<br>unit<br>bargain<br>such<br>admit |  
-| bip_39_word_new_br2 | charge<br>upgrade |  
-| bip_39_word_new_br3 | charge<br>upgrade<br>neck |  
-| bip_39_word_new_br4 | charge<br>upgrade<br>neck<br>file |  
-| bip_39_word_new_br5 | charge<br>upgrade<br>neck<br>file<br>oblige |  
-| bip_39_word_new_br6 | charge<br>upgrade<br>neck<br>file<br>oblige<br>lucky |  
-| bip_39_word_new_br7 | charge<br>upgrade<br>neck<br>file<br>oblige<br>lucky<br>advice |  
-| bip_39_word_new_br8 | charge<br>upgrade<br>neck<br>file<br>oblige<br>lucky<br>advice<br>grocery |  
-| bip_39_word_new_br9 | charge<br>upgrade<br>neck<br>file<br>oblige<br>lucky<br>advice<br>grocery<br>unit |  
-| bip_39_word_new_line1 | charge |  
-| bip_39_word_new_line10 | charge
+| bip_39_word_new_br_1 | charge |  
+| bip_39_word_new_br_10 | charge<br>upgrade<br>neck<br>file<br>oblige<br>lucky<br>advice<br>grocery<br>unit<br>bargain |  
+| bip_39_word_new_br_11 | charge<br>upgrade<br>neck<br>file<br>oblige<br>lucky<br>advice<br>grocery<br>unit<br>bargain<br>such |  
+| bip_39_word_new_br_12 | charge<br>upgrade<br>neck<br>file<br>oblige<br>lucky<br>advice<br>grocery<br>unit<br>bargain<br>such<br>admit |  
+| bip_39_word_new_br_2 | charge<br>upgrade |  
+| bip_39_word_new_br_3 | charge<br>upgrade<br>neck |  
+| bip_39_word_new_br_4 | charge<br>upgrade<br>neck<br>file |  
+| bip_39_word_new_br_5 | charge<br>upgrade<br>neck<br>file<br>oblige |  
+| bip_39_word_new_br_6 | charge<br>upgrade<br>neck<br>file<br>oblige<br>lucky |  
+| bip_39_word_new_br_7 | charge<br>upgrade<br>neck<br>file<br>oblige<br>lucky<br>advice |  
+| bip_39_word_new_br_8 | charge<br>upgrade<br>neck<br>file<br>oblige<br>lucky<br>advice<br>grocery |  
+| bip_39_word_new_br_9 | charge<br>upgrade<br>neck<br>file<br>oblige<br>lucky<br>advice<br>grocery<br>unit |  
+| bip_39_word_new_line_1 | charge |  
+| bip_39_word_new_line_10 | charge
 upgrade
 neck
 file
@@ -55,7 +55,7 @@ advice
 grocery
 unit
 bargain |  
-| bip_39_word_new_line11 | charge
+| bip_39_word_new_line_11 | charge
 upgrade
 neck
 file
@@ -66,7 +66,7 @@ grocery
 unit
 bargain
 such |  
-| bip_39_word_new_line12 | charge
+| bip_39_word_new_line_12 | charge
 upgrade
 neck
 file
@@ -78,34 +78,34 @@ unit
 bargain
 such
 admit |  
-| bip_39_word_new_line2 | charge
+| bip_39_word_new_line_2 | charge
 upgrade |  
-| bip_39_word_new_line3 | charge
+| bip_39_word_new_line_3 | charge
 upgrade
 neck |  
-| bip_39_word_new_line4 | charge
+| bip_39_word_new_line_4 | charge
 upgrade
 neck
 file |  
-| bip_39_word_new_line5 | charge
+| bip_39_word_new_line_5 | charge
 upgrade
 neck
 file
 oblige |  
-| bip_39_word_new_line6 | charge
+| bip_39_word_new_line_6 | charge
 upgrade
 neck
 file
 oblige
 lucky |  
-| bip_39_word_new_line7 | charge
+| bip_39_word_new_line_7 | charge
 upgrade
 neck
 file
 oblige
 lucky
 advice |  
-| bip_39_word_new_line8 | charge
+| bip_39_word_new_line_8 | charge
 upgrade
 neck
 file
@@ -113,7 +113,7 @@ oblige
 lucky
 advice
 grocery |  
-| bip_39_word_new_line9 | charge
+| bip_39_word_new_line_9 | charge
 upgrade
 neck
 file

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | when |  
-| bip_39_word_new_br10 | when<br>kid<br>sad<br>portion<br>ankle<br>giggle<br>goddess<br>beach<br>call<br>wave |  
-| bip_39_word_new_br11 | when<br>kid<br>sad<br>portion<br>ankle<br>giggle<br>goddess<br>beach<br>call<br>wave<br>scheme |  
-| bip_39_word_new_br12 | when<br>kid<br>sad<br>portion<br>ankle<br>giggle<br>goddess<br>beach<br>call<br>wave<br>scheme<br>absorb |  
-| bip_39_word_new_br2 | when<br>kid |  
-| bip_39_word_new_br3 | when<br>kid<br>sad |  
-| bip_39_word_new_br4 | when<br>kid<br>sad<br>portion |  
-| bip_39_word_new_br5 | when<br>kid<br>sad<br>portion<br>ankle |  
-| bip_39_word_new_br6 | when<br>kid<br>sad<br>portion<br>ankle<br>giggle |  
-| bip_39_word_new_br7 | when<br>kid<br>sad<br>portion<br>ankle<br>giggle<br>goddess |  
-| bip_39_word_new_br8 | when<br>kid<br>sad<br>portion<br>ankle<br>giggle<br>goddess<br>beach |  
-| bip_39_word_new_br9 | when<br>kid<br>sad<br>portion<br>ankle<br>giggle<br>goddess<br>beach<br>call |  
-| bip_39_word_new_line1 | when |  
-| bip_39_word_new_line10 | when
+| bip_39_word_new_br_1 | when |  
+| bip_39_word_new_br_10 | when<br>kid<br>sad<br>portion<br>ankle<br>giggle<br>goddess<br>beach<br>call<br>wave |  
+| bip_39_word_new_br_11 | when<br>kid<br>sad<br>portion<br>ankle<br>giggle<br>goddess<br>beach<br>call<br>wave<br>scheme |  
+| bip_39_word_new_br_12 | when<br>kid<br>sad<br>portion<br>ankle<br>giggle<br>goddess<br>beach<br>call<br>wave<br>scheme<br>absorb |  
+| bip_39_word_new_br_2 | when<br>kid |  
+| bip_39_word_new_br_3 | when<br>kid<br>sad |  
+| bip_39_word_new_br_4 | when<br>kid<br>sad<br>portion |  
+| bip_39_word_new_br_5 | when<br>kid<br>sad<br>portion<br>ankle |  
+| bip_39_word_new_br_6 | when<br>kid<br>sad<br>portion<br>ankle<br>giggle |  
+| bip_39_word_new_br_7 | when<br>kid<br>sad<br>portion<br>ankle<br>giggle<br>goddess |  
+| bip_39_word_new_br_8 | when<br>kid<br>sad<br>portion<br>ankle<br>giggle<br>goddess<br>beach |  
+| bip_39_word_new_br_9 | when<br>kid<br>sad<br>portion<br>ankle<br>giggle<br>goddess<br>beach<br>call |  
+| bip_39_word_new_line_1 | when |  
+| bip_39_word_new_line_10 | when
 kid
 sad
 portion
@@ -55,7 +55,7 @@ goddess
 beach
 call
 wave |  
-| bip_39_word_new_line11 | when
+| bip_39_word_new_line_11 | when
 kid
 sad
 portion
@@ -66,7 +66,7 @@ beach
 call
 wave
 scheme |  
-| bip_39_word_new_line12 | when
+| bip_39_word_new_line_12 | when
 kid
 sad
 portion
@@ -78,34 +78,34 @@ call
 wave
 scheme
 absorb |  
-| bip_39_word_new_line2 | when
+| bip_39_word_new_line_2 | when
 kid |  
-| bip_39_word_new_line3 | when
+| bip_39_word_new_line_3 | when
 kid
 sad |  
-| bip_39_word_new_line4 | when
+| bip_39_word_new_line_4 | when
 kid
 sad
 portion |  
-| bip_39_word_new_line5 | when
+| bip_39_word_new_line_5 | when
 kid
 sad
 portion
 ankle |  
-| bip_39_word_new_line6 | when
+| bip_39_word_new_line_6 | when
 kid
 sad
 portion
 ankle
 giggle |  
-| bip_39_word_new_line7 | when
+| bip_39_word_new_line_7 | when
 kid
 sad
 portion
 ankle
 giggle
 goddess |  
-| bip_39_word_new_line8 | when
+| bip_39_word_new_line_8 | when
 kid
 sad
 portion
@@ -113,7 +113,7 @@ ankle
 giggle
 goddess
 beach |  
-| bip_39_word_new_line9 | when
+| bip_39_word_new_line_9 | when
 kid
 sad
 portion

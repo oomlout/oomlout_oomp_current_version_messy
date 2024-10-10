@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | spatial |  
-| bip_39_word_new_br10 | spatial<br>baby<br>crunch<br>reveal<br>lake<br>slab<br>unveil<br>glove<br>trap<br>damp |  
-| bip_39_word_new_br11 | spatial<br>baby<br>crunch<br>reveal<br>lake<br>slab<br>unveil<br>glove<br>trap<br>damp<br>wreck |  
-| bip_39_word_new_br12 | spatial<br>baby<br>crunch<br>reveal<br>lake<br>slab<br>unveil<br>glove<br>trap<br>damp<br>wreck<br>argue |  
-| bip_39_word_new_br2 | spatial<br>baby |  
-| bip_39_word_new_br3 | spatial<br>baby<br>crunch |  
-| bip_39_word_new_br4 | spatial<br>baby<br>crunch<br>reveal |  
-| bip_39_word_new_br5 | spatial<br>baby<br>crunch<br>reveal<br>lake |  
-| bip_39_word_new_br6 | spatial<br>baby<br>crunch<br>reveal<br>lake<br>slab |  
-| bip_39_word_new_br7 | spatial<br>baby<br>crunch<br>reveal<br>lake<br>slab<br>unveil |  
-| bip_39_word_new_br8 | spatial<br>baby<br>crunch<br>reveal<br>lake<br>slab<br>unveil<br>glove |  
-| bip_39_word_new_br9 | spatial<br>baby<br>crunch<br>reveal<br>lake<br>slab<br>unveil<br>glove<br>trap |  
-| bip_39_word_new_line1 | spatial |  
-| bip_39_word_new_line10 | spatial
+| bip_39_word_new_br_1 | spatial |  
+| bip_39_word_new_br_10 | spatial<br>baby<br>crunch<br>reveal<br>lake<br>slab<br>unveil<br>glove<br>trap<br>damp |  
+| bip_39_word_new_br_11 | spatial<br>baby<br>crunch<br>reveal<br>lake<br>slab<br>unveil<br>glove<br>trap<br>damp<br>wreck |  
+| bip_39_word_new_br_12 | spatial<br>baby<br>crunch<br>reveal<br>lake<br>slab<br>unveil<br>glove<br>trap<br>damp<br>wreck<br>argue |  
+| bip_39_word_new_br_2 | spatial<br>baby |  
+| bip_39_word_new_br_3 | spatial<br>baby<br>crunch |  
+| bip_39_word_new_br_4 | spatial<br>baby<br>crunch<br>reveal |  
+| bip_39_word_new_br_5 | spatial<br>baby<br>crunch<br>reveal<br>lake |  
+| bip_39_word_new_br_6 | spatial<br>baby<br>crunch<br>reveal<br>lake<br>slab |  
+| bip_39_word_new_br_7 | spatial<br>baby<br>crunch<br>reveal<br>lake<br>slab<br>unveil |  
+| bip_39_word_new_br_8 | spatial<br>baby<br>crunch<br>reveal<br>lake<br>slab<br>unveil<br>glove |  
+| bip_39_word_new_br_9 | spatial<br>baby<br>crunch<br>reveal<br>lake<br>slab<br>unveil<br>glove<br>trap |  
+| bip_39_word_new_line_1 | spatial |  
+| bip_39_word_new_line_10 | spatial
 baby
 crunch
 reveal
@@ -55,7 +55,7 @@ unveil
 glove
 trap
 damp |  
-| bip_39_word_new_line11 | spatial
+| bip_39_word_new_line_11 | spatial
 baby
 crunch
 reveal
@@ -66,7 +66,7 @@ glove
 trap
 damp
 wreck |  
-| bip_39_word_new_line12 | spatial
+| bip_39_word_new_line_12 | spatial
 baby
 crunch
 reveal
@@ -78,34 +78,34 @@ trap
 damp
 wreck
 argue |  
-| bip_39_word_new_line2 | spatial
+| bip_39_word_new_line_2 | spatial
 baby |  
-| bip_39_word_new_line3 | spatial
+| bip_39_word_new_line_3 | spatial
 baby
 crunch |  
-| bip_39_word_new_line4 | spatial
+| bip_39_word_new_line_4 | spatial
 baby
 crunch
 reveal |  
-| bip_39_word_new_line5 | spatial
+| bip_39_word_new_line_5 | spatial
 baby
 crunch
 reveal
 lake |  
-| bip_39_word_new_line6 | spatial
+| bip_39_word_new_line_6 | spatial
 baby
 crunch
 reveal
 lake
 slab |  
-| bip_39_word_new_line7 | spatial
+| bip_39_word_new_line_7 | spatial
 baby
 crunch
 reveal
 lake
 slab
 unveil |  
-| bip_39_word_new_line8 | spatial
+| bip_39_word_new_line_8 | spatial
 baby
 crunch
 reveal
@@ -113,7 +113,7 @@ lake
 slab
 unveil
 glove |  
-| bip_39_word_new_line9 | spatial
+| bip_39_word_new_line_9 | spatial
 baby
 crunch
 reveal

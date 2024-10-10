@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cram |  
-| bip_39_word_new_br10 | cram<br>reduce<br>penalty<br>tourist<br>dance<br>elevator<br>bean<br>panic<br>toss<br>risk |  
-| bip_39_word_new_br11 | cram<br>reduce<br>penalty<br>tourist<br>dance<br>elevator<br>bean<br>panic<br>toss<br>risk<br>exclude |  
-| bip_39_word_new_br12 | cram<br>reduce<br>penalty<br>tourist<br>dance<br>elevator<br>bean<br>panic<br>toss<br>risk<br>exclude<br>auto |  
-| bip_39_word_new_br2 | cram<br>reduce |  
-| bip_39_word_new_br3 | cram<br>reduce<br>penalty |  
-| bip_39_word_new_br4 | cram<br>reduce<br>penalty<br>tourist |  
-| bip_39_word_new_br5 | cram<br>reduce<br>penalty<br>tourist<br>dance |  
-| bip_39_word_new_br6 | cram<br>reduce<br>penalty<br>tourist<br>dance<br>elevator |  
-| bip_39_word_new_br7 | cram<br>reduce<br>penalty<br>tourist<br>dance<br>elevator<br>bean |  
-| bip_39_word_new_br8 | cram<br>reduce<br>penalty<br>tourist<br>dance<br>elevator<br>bean<br>panic |  
-| bip_39_word_new_br9 | cram<br>reduce<br>penalty<br>tourist<br>dance<br>elevator<br>bean<br>panic<br>toss |  
-| bip_39_word_new_line1 | cram |  
-| bip_39_word_new_line10 | cram
+| bip_39_word_new_br_1 | cram |  
+| bip_39_word_new_br_10 | cram<br>reduce<br>penalty<br>tourist<br>dance<br>elevator<br>bean<br>panic<br>toss<br>risk |  
+| bip_39_word_new_br_11 | cram<br>reduce<br>penalty<br>tourist<br>dance<br>elevator<br>bean<br>panic<br>toss<br>risk<br>exclude |  
+| bip_39_word_new_br_12 | cram<br>reduce<br>penalty<br>tourist<br>dance<br>elevator<br>bean<br>panic<br>toss<br>risk<br>exclude<br>auto |  
+| bip_39_word_new_br_2 | cram<br>reduce |  
+| bip_39_word_new_br_3 | cram<br>reduce<br>penalty |  
+| bip_39_word_new_br_4 | cram<br>reduce<br>penalty<br>tourist |  
+| bip_39_word_new_br_5 | cram<br>reduce<br>penalty<br>tourist<br>dance |  
+| bip_39_word_new_br_6 | cram<br>reduce<br>penalty<br>tourist<br>dance<br>elevator |  
+| bip_39_word_new_br_7 | cram<br>reduce<br>penalty<br>tourist<br>dance<br>elevator<br>bean |  
+| bip_39_word_new_br_8 | cram<br>reduce<br>penalty<br>tourist<br>dance<br>elevator<br>bean<br>panic |  
+| bip_39_word_new_br_9 | cram<br>reduce<br>penalty<br>tourist<br>dance<br>elevator<br>bean<br>panic<br>toss |  
+| bip_39_word_new_line_1 | cram |  
+| bip_39_word_new_line_10 | cram
 reduce
 penalty
 tourist
@@ -55,7 +55,7 @@ bean
 panic
 toss
 risk |  
-| bip_39_word_new_line11 | cram
+| bip_39_word_new_line_11 | cram
 reduce
 penalty
 tourist
@@ -66,7 +66,7 @@ panic
 toss
 risk
 exclude |  
-| bip_39_word_new_line12 | cram
+| bip_39_word_new_line_12 | cram
 reduce
 penalty
 tourist
@@ -78,34 +78,34 @@ toss
 risk
 exclude
 auto |  
-| bip_39_word_new_line2 | cram
+| bip_39_word_new_line_2 | cram
 reduce |  
-| bip_39_word_new_line3 | cram
+| bip_39_word_new_line_3 | cram
 reduce
 penalty |  
-| bip_39_word_new_line4 | cram
+| bip_39_word_new_line_4 | cram
 reduce
 penalty
 tourist |  
-| bip_39_word_new_line5 | cram
+| bip_39_word_new_line_5 | cram
 reduce
 penalty
 tourist
 dance |  
-| bip_39_word_new_line6 | cram
+| bip_39_word_new_line_6 | cram
 reduce
 penalty
 tourist
 dance
 elevator |  
-| bip_39_word_new_line7 | cram
+| bip_39_word_new_line_7 | cram
 reduce
 penalty
 tourist
 dance
 elevator
 bean |  
-| bip_39_word_new_line8 | cram
+| bip_39_word_new_line_8 | cram
 reduce
 penalty
 tourist
@@ -113,7 +113,7 @@ dance
 elevator
 bean
 panic |  
-| bip_39_word_new_line9 | cram
+| bip_39_word_new_line_9 | cram
 reduce
 penalty
 tourist

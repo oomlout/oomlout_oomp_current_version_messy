@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | budget |  
-| bip_39_word_new_br10 | budget<br>world<br>daring<br>depart<br>gaze<br>ketchup<br>remember<br>error<br>idea<br>demand |  
-| bip_39_word_new_br11 | budget<br>world<br>daring<br>depart<br>gaze<br>ketchup<br>remember<br>error<br>idea<br>demand<br>invite |  
-| bip_39_word_new_br12 | budget<br>world<br>daring<br>depart<br>gaze<br>ketchup<br>remember<br>error<br>idea<br>demand<br>invite<br>absent |  
-| bip_39_word_new_br2 | budget<br>world |  
-| bip_39_word_new_br3 | budget<br>world<br>daring |  
-| bip_39_word_new_br4 | budget<br>world<br>daring<br>depart |  
-| bip_39_word_new_br5 | budget<br>world<br>daring<br>depart<br>gaze |  
-| bip_39_word_new_br6 | budget<br>world<br>daring<br>depart<br>gaze<br>ketchup |  
-| bip_39_word_new_br7 | budget<br>world<br>daring<br>depart<br>gaze<br>ketchup<br>remember |  
-| bip_39_word_new_br8 | budget<br>world<br>daring<br>depart<br>gaze<br>ketchup<br>remember<br>error |  
-| bip_39_word_new_br9 | budget<br>world<br>daring<br>depart<br>gaze<br>ketchup<br>remember<br>error<br>idea |  
-| bip_39_word_new_line1 | budget |  
-| bip_39_word_new_line10 | budget
+| bip_39_word_new_br_1 | budget |  
+| bip_39_word_new_br_10 | budget<br>world<br>daring<br>depart<br>gaze<br>ketchup<br>remember<br>error<br>idea<br>demand |  
+| bip_39_word_new_br_11 | budget<br>world<br>daring<br>depart<br>gaze<br>ketchup<br>remember<br>error<br>idea<br>demand<br>invite |  
+| bip_39_word_new_br_12 | budget<br>world<br>daring<br>depart<br>gaze<br>ketchup<br>remember<br>error<br>idea<br>demand<br>invite<br>absent |  
+| bip_39_word_new_br_2 | budget<br>world |  
+| bip_39_word_new_br_3 | budget<br>world<br>daring |  
+| bip_39_word_new_br_4 | budget<br>world<br>daring<br>depart |  
+| bip_39_word_new_br_5 | budget<br>world<br>daring<br>depart<br>gaze |  
+| bip_39_word_new_br_6 | budget<br>world<br>daring<br>depart<br>gaze<br>ketchup |  
+| bip_39_word_new_br_7 | budget<br>world<br>daring<br>depart<br>gaze<br>ketchup<br>remember |  
+| bip_39_word_new_br_8 | budget<br>world<br>daring<br>depart<br>gaze<br>ketchup<br>remember<br>error |  
+| bip_39_word_new_br_9 | budget<br>world<br>daring<br>depart<br>gaze<br>ketchup<br>remember<br>error<br>idea |  
+| bip_39_word_new_line_1 | budget |  
+| bip_39_word_new_line_10 | budget
 world
 daring
 depart
@@ -55,7 +55,7 @@ remember
 error
 idea
 demand |  
-| bip_39_word_new_line11 | budget
+| bip_39_word_new_line_11 | budget
 world
 daring
 depart
@@ -66,7 +66,7 @@ error
 idea
 demand
 invite |  
-| bip_39_word_new_line12 | budget
+| bip_39_word_new_line_12 | budget
 world
 daring
 depart
@@ -78,34 +78,34 @@ idea
 demand
 invite
 absent |  
-| bip_39_word_new_line2 | budget
+| bip_39_word_new_line_2 | budget
 world |  
-| bip_39_word_new_line3 | budget
+| bip_39_word_new_line_3 | budget
 world
 daring |  
-| bip_39_word_new_line4 | budget
+| bip_39_word_new_line_4 | budget
 world
 daring
 depart |  
-| bip_39_word_new_line5 | budget
+| bip_39_word_new_line_5 | budget
 world
 daring
 depart
 gaze |  
-| bip_39_word_new_line6 | budget
+| bip_39_word_new_line_6 | budget
 world
 daring
 depart
 gaze
 ketchup |  
-| bip_39_word_new_line7 | budget
+| bip_39_word_new_line_7 | budget
 world
 daring
 depart
 gaze
 ketchup
 remember |  
-| bip_39_word_new_line8 | budget
+| bip_39_word_new_line_8 | budget
 world
 daring
 depart
@@ -113,7 +113,7 @@ gaze
 ketchup
 remember
 error |  
-| bip_39_word_new_line9 | budget
+| bip_39_word_new_line_9 | budget
 world
 daring
 depart

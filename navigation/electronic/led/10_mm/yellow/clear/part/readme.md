@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | quantum |  
-| bip_39_word_new_br10 | quantum<br>giraffe<br>bean<br>kit<br>lazy<br>kick<br>metal<br>snack<br>cave<br>wolf |  
-| bip_39_word_new_br11 | quantum<br>giraffe<br>bean<br>kit<br>lazy<br>kick<br>metal<br>snack<br>cave<br>wolf<br>attract |  
-| bip_39_word_new_br12 | quantum<br>giraffe<br>bean<br>kit<br>lazy<br>kick<br>metal<br>snack<br>cave<br>wolf<br>attract<br>anxiety |  
-| bip_39_word_new_br2 | quantum<br>giraffe |  
-| bip_39_word_new_br3 | quantum<br>giraffe<br>bean |  
-| bip_39_word_new_br4 | quantum<br>giraffe<br>bean<br>kit |  
-| bip_39_word_new_br5 | quantum<br>giraffe<br>bean<br>kit<br>lazy |  
-| bip_39_word_new_br6 | quantum<br>giraffe<br>bean<br>kit<br>lazy<br>kick |  
-| bip_39_word_new_br7 | quantum<br>giraffe<br>bean<br>kit<br>lazy<br>kick<br>metal |  
-| bip_39_word_new_br8 | quantum<br>giraffe<br>bean<br>kit<br>lazy<br>kick<br>metal<br>snack |  
-| bip_39_word_new_br9 | quantum<br>giraffe<br>bean<br>kit<br>lazy<br>kick<br>metal<br>snack<br>cave |  
-| bip_39_word_new_line1 | quantum |  
-| bip_39_word_new_line10 | quantum
+| bip_39_word_new_br_1 | quantum |  
+| bip_39_word_new_br_10 | quantum<br>giraffe<br>bean<br>kit<br>lazy<br>kick<br>metal<br>snack<br>cave<br>wolf |  
+| bip_39_word_new_br_11 | quantum<br>giraffe<br>bean<br>kit<br>lazy<br>kick<br>metal<br>snack<br>cave<br>wolf<br>attract |  
+| bip_39_word_new_br_12 | quantum<br>giraffe<br>bean<br>kit<br>lazy<br>kick<br>metal<br>snack<br>cave<br>wolf<br>attract<br>anxiety |  
+| bip_39_word_new_br_2 | quantum<br>giraffe |  
+| bip_39_word_new_br_3 | quantum<br>giraffe<br>bean |  
+| bip_39_word_new_br_4 | quantum<br>giraffe<br>bean<br>kit |  
+| bip_39_word_new_br_5 | quantum<br>giraffe<br>bean<br>kit<br>lazy |  
+| bip_39_word_new_br_6 | quantum<br>giraffe<br>bean<br>kit<br>lazy<br>kick |  
+| bip_39_word_new_br_7 | quantum<br>giraffe<br>bean<br>kit<br>lazy<br>kick<br>metal |  
+| bip_39_word_new_br_8 | quantum<br>giraffe<br>bean<br>kit<br>lazy<br>kick<br>metal<br>snack |  
+| bip_39_word_new_br_9 | quantum<br>giraffe<br>bean<br>kit<br>lazy<br>kick<br>metal<br>snack<br>cave |  
+| bip_39_word_new_line_1 | quantum |  
+| bip_39_word_new_line_10 | quantum
 giraffe
 bean
 kit
@@ -55,7 +55,7 @@ metal
 snack
 cave
 wolf |  
-| bip_39_word_new_line11 | quantum
+| bip_39_word_new_line_11 | quantum
 giraffe
 bean
 kit
@@ -66,7 +66,7 @@ snack
 cave
 wolf
 attract |  
-| bip_39_word_new_line12 | quantum
+| bip_39_word_new_line_12 | quantum
 giraffe
 bean
 kit
@@ -78,34 +78,34 @@ cave
 wolf
 attract
 anxiety |  
-| bip_39_word_new_line2 | quantum
+| bip_39_word_new_line_2 | quantum
 giraffe |  
-| bip_39_word_new_line3 | quantum
+| bip_39_word_new_line_3 | quantum
 giraffe
 bean |  
-| bip_39_word_new_line4 | quantum
+| bip_39_word_new_line_4 | quantum
 giraffe
 bean
 kit |  
-| bip_39_word_new_line5 | quantum
+| bip_39_word_new_line_5 | quantum
 giraffe
 bean
 kit
 lazy |  
-| bip_39_word_new_line6 | quantum
+| bip_39_word_new_line_6 | quantum
 giraffe
 bean
 kit
 lazy
 kick |  
-| bip_39_word_new_line7 | quantum
+| bip_39_word_new_line_7 | quantum
 giraffe
 bean
 kit
 lazy
 kick
 metal |  
-| bip_39_word_new_line8 | quantum
+| bip_39_word_new_line_8 | quantum
 giraffe
 bean
 kit
@@ -113,7 +113,7 @@ lazy
 kick
 metal
 snack |  
-| bip_39_word_new_line9 | quantum
+| bip_39_word_new_line_9 | quantum
 giraffe
 bean
 kit

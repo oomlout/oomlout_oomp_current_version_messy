@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | quiz |  
-| bip_39_word_new_br10 | quiz<br>average<br>risk<br>any<br>tonight<br>brown<br>bean<br>film<br>pluck<br>blush |  
-| bip_39_word_new_br11 | quiz<br>average<br>risk<br>any<br>tonight<br>brown<br>bean<br>film<br>pluck<br>blush<br>curve |  
-| bip_39_word_new_br12 | quiz<br>average<br>risk<br>any<br>tonight<br>brown<br>bean<br>film<br>pluck<br>blush<br>curve<br>always |  
-| bip_39_word_new_br2 | quiz<br>average |  
-| bip_39_word_new_br3 | quiz<br>average<br>risk |  
-| bip_39_word_new_br4 | quiz<br>average<br>risk<br>any |  
-| bip_39_word_new_br5 | quiz<br>average<br>risk<br>any<br>tonight |  
-| bip_39_word_new_br6 | quiz<br>average<br>risk<br>any<br>tonight<br>brown |  
-| bip_39_word_new_br7 | quiz<br>average<br>risk<br>any<br>tonight<br>brown<br>bean |  
-| bip_39_word_new_br8 | quiz<br>average<br>risk<br>any<br>tonight<br>brown<br>bean<br>film |  
-| bip_39_word_new_br9 | quiz<br>average<br>risk<br>any<br>tonight<br>brown<br>bean<br>film<br>pluck |  
-| bip_39_word_new_line1 | quiz |  
-| bip_39_word_new_line10 | quiz
+| bip_39_word_new_br_1 | quiz |  
+| bip_39_word_new_br_10 | quiz<br>average<br>risk<br>any<br>tonight<br>brown<br>bean<br>film<br>pluck<br>blush |  
+| bip_39_word_new_br_11 | quiz<br>average<br>risk<br>any<br>tonight<br>brown<br>bean<br>film<br>pluck<br>blush<br>curve |  
+| bip_39_word_new_br_12 | quiz<br>average<br>risk<br>any<br>tonight<br>brown<br>bean<br>film<br>pluck<br>blush<br>curve<br>always |  
+| bip_39_word_new_br_2 | quiz<br>average |  
+| bip_39_word_new_br_3 | quiz<br>average<br>risk |  
+| bip_39_word_new_br_4 | quiz<br>average<br>risk<br>any |  
+| bip_39_word_new_br_5 | quiz<br>average<br>risk<br>any<br>tonight |  
+| bip_39_word_new_br_6 | quiz<br>average<br>risk<br>any<br>tonight<br>brown |  
+| bip_39_word_new_br_7 | quiz<br>average<br>risk<br>any<br>tonight<br>brown<br>bean |  
+| bip_39_word_new_br_8 | quiz<br>average<br>risk<br>any<br>tonight<br>brown<br>bean<br>film |  
+| bip_39_word_new_br_9 | quiz<br>average<br>risk<br>any<br>tonight<br>brown<br>bean<br>film<br>pluck |  
+| bip_39_word_new_line_1 | quiz |  
+| bip_39_word_new_line_10 | quiz
 average
 risk
 any
@@ -55,7 +55,7 @@ bean
 film
 pluck
 blush |  
-| bip_39_word_new_line11 | quiz
+| bip_39_word_new_line_11 | quiz
 average
 risk
 any
@@ -66,7 +66,7 @@ film
 pluck
 blush
 curve |  
-| bip_39_word_new_line12 | quiz
+| bip_39_word_new_line_12 | quiz
 average
 risk
 any
@@ -78,34 +78,34 @@ pluck
 blush
 curve
 always |  
-| bip_39_word_new_line2 | quiz
+| bip_39_word_new_line_2 | quiz
 average |  
-| bip_39_word_new_line3 | quiz
+| bip_39_word_new_line_3 | quiz
 average
 risk |  
-| bip_39_word_new_line4 | quiz
+| bip_39_word_new_line_4 | quiz
 average
 risk
 any |  
-| bip_39_word_new_line5 | quiz
+| bip_39_word_new_line_5 | quiz
 average
 risk
 any
 tonight |  
-| bip_39_word_new_line6 | quiz
+| bip_39_word_new_line_6 | quiz
 average
 risk
 any
 tonight
 brown |  
-| bip_39_word_new_line7 | quiz
+| bip_39_word_new_line_7 | quiz
 average
 risk
 any
 tonight
 brown
 bean |  
-| bip_39_word_new_line8 | quiz
+| bip_39_word_new_line_8 | quiz
 average
 risk
 any
@@ -113,7 +113,7 @@ tonight
 brown
 bean
 film |  
-| bip_39_word_new_line9 | quiz
+| bip_39_word_new_line_9 | quiz
 average
 risk
 any

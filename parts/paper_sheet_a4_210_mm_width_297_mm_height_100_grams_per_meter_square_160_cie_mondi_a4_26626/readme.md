@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | battle |  
-| bip_39_word_new_br10 | battle<br>woman<br>vivid<br>select<br>board<br>oval<br>cruise<br>trick<br>north<br>onion |  
-| bip_39_word_new_br11 | battle<br>woman<br>vivid<br>select<br>board<br>oval<br>cruise<br>trick<br>north<br>onion<br>reject |  
-| bip_39_word_new_br12 | battle<br>woman<br>vivid<br>select<br>board<br>oval<br>cruise<br>trick<br>north<br>onion<br>reject<br>animal |  
-| bip_39_word_new_br2 | battle<br>woman |  
-| bip_39_word_new_br3 | battle<br>woman<br>vivid |  
-| bip_39_word_new_br4 | battle<br>woman<br>vivid<br>select |  
-| bip_39_word_new_br5 | battle<br>woman<br>vivid<br>select<br>board |  
-| bip_39_word_new_br6 | battle<br>woman<br>vivid<br>select<br>board<br>oval |  
-| bip_39_word_new_br7 | battle<br>woman<br>vivid<br>select<br>board<br>oval<br>cruise |  
-| bip_39_word_new_br8 | battle<br>woman<br>vivid<br>select<br>board<br>oval<br>cruise<br>trick |  
-| bip_39_word_new_br9 | battle<br>woman<br>vivid<br>select<br>board<br>oval<br>cruise<br>trick<br>north |  
-| bip_39_word_new_line1 | battle |  
-| bip_39_word_new_line10 | battle
+| bip_39_word_new_br_1 | battle |  
+| bip_39_word_new_br_10 | battle<br>woman<br>vivid<br>select<br>board<br>oval<br>cruise<br>trick<br>north<br>onion |  
+| bip_39_word_new_br_11 | battle<br>woman<br>vivid<br>select<br>board<br>oval<br>cruise<br>trick<br>north<br>onion<br>reject |  
+| bip_39_word_new_br_12 | battle<br>woman<br>vivid<br>select<br>board<br>oval<br>cruise<br>trick<br>north<br>onion<br>reject<br>animal |  
+| bip_39_word_new_br_2 | battle<br>woman |  
+| bip_39_word_new_br_3 | battle<br>woman<br>vivid |  
+| bip_39_word_new_br_4 | battle<br>woman<br>vivid<br>select |  
+| bip_39_word_new_br_5 | battle<br>woman<br>vivid<br>select<br>board |  
+| bip_39_word_new_br_6 | battle<br>woman<br>vivid<br>select<br>board<br>oval |  
+| bip_39_word_new_br_7 | battle<br>woman<br>vivid<br>select<br>board<br>oval<br>cruise |  
+| bip_39_word_new_br_8 | battle<br>woman<br>vivid<br>select<br>board<br>oval<br>cruise<br>trick |  
+| bip_39_word_new_br_9 | battle<br>woman<br>vivid<br>select<br>board<br>oval<br>cruise<br>trick<br>north |  
+| bip_39_word_new_line_1 | battle |  
+| bip_39_word_new_line_10 | battle
 woman
 vivid
 select
@@ -55,7 +55,7 @@ cruise
 trick
 north
 onion |  
-| bip_39_word_new_line11 | battle
+| bip_39_word_new_line_11 | battle
 woman
 vivid
 select
@@ -66,7 +66,7 @@ trick
 north
 onion
 reject |  
-| bip_39_word_new_line12 | battle
+| bip_39_word_new_line_12 | battle
 woman
 vivid
 select
@@ -78,34 +78,34 @@ north
 onion
 reject
 animal |  
-| bip_39_word_new_line2 | battle
+| bip_39_word_new_line_2 | battle
 woman |  
-| bip_39_word_new_line3 | battle
+| bip_39_word_new_line_3 | battle
 woman
 vivid |  
-| bip_39_word_new_line4 | battle
+| bip_39_word_new_line_4 | battle
 woman
 vivid
 select |  
-| bip_39_word_new_line5 | battle
+| bip_39_word_new_line_5 | battle
 woman
 vivid
 select
 board |  
-| bip_39_word_new_line6 | battle
+| bip_39_word_new_line_6 | battle
 woman
 vivid
 select
 board
 oval |  
-| bip_39_word_new_line7 | battle
+| bip_39_word_new_line_7 | battle
 woman
 vivid
 select
 board
 oval
 cruise |  
-| bip_39_word_new_line8 | battle
+| bip_39_word_new_line_8 | battle
 woman
 vivid
 select
@@ -113,7 +113,7 @@ board
 oval
 cruise
 trick |  
-| bip_39_word_new_line9 | battle
+| bip_39_word_new_line_9 | battle
 woman
 vivid
 select

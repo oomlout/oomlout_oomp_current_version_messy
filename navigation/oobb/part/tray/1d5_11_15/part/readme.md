@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | brave |  
-| bip_39_word_new_br10 | brave<br>trust<br>pilot<br>student<br>blossom<br>elegant<br>umbrella<br>develop<br>rhythm<br>glad |  
-| bip_39_word_new_br11 | brave<br>trust<br>pilot<br>student<br>blossom<br>elegant<br>umbrella<br>develop<br>rhythm<br>glad<br>luxury |  
-| bip_39_word_new_br12 | brave<br>trust<br>pilot<br>student<br>blossom<br>elegant<br>umbrella<br>develop<br>rhythm<br>glad<br>luxury<br>afford |  
-| bip_39_word_new_br2 | brave<br>trust |  
-| bip_39_word_new_br3 | brave<br>trust<br>pilot |  
-| bip_39_word_new_br4 | brave<br>trust<br>pilot<br>student |  
-| bip_39_word_new_br5 | brave<br>trust<br>pilot<br>student<br>blossom |  
-| bip_39_word_new_br6 | brave<br>trust<br>pilot<br>student<br>blossom<br>elegant |  
-| bip_39_word_new_br7 | brave<br>trust<br>pilot<br>student<br>blossom<br>elegant<br>umbrella |  
-| bip_39_word_new_br8 | brave<br>trust<br>pilot<br>student<br>blossom<br>elegant<br>umbrella<br>develop |  
-| bip_39_word_new_br9 | brave<br>trust<br>pilot<br>student<br>blossom<br>elegant<br>umbrella<br>develop<br>rhythm |  
-| bip_39_word_new_line1 | brave |  
-| bip_39_word_new_line10 | brave
+| bip_39_word_new_br_1 | brave |  
+| bip_39_word_new_br_10 | brave<br>trust<br>pilot<br>student<br>blossom<br>elegant<br>umbrella<br>develop<br>rhythm<br>glad |  
+| bip_39_word_new_br_11 | brave<br>trust<br>pilot<br>student<br>blossom<br>elegant<br>umbrella<br>develop<br>rhythm<br>glad<br>luxury |  
+| bip_39_word_new_br_12 | brave<br>trust<br>pilot<br>student<br>blossom<br>elegant<br>umbrella<br>develop<br>rhythm<br>glad<br>luxury<br>afford |  
+| bip_39_word_new_br_2 | brave<br>trust |  
+| bip_39_word_new_br_3 | brave<br>trust<br>pilot |  
+| bip_39_word_new_br_4 | brave<br>trust<br>pilot<br>student |  
+| bip_39_word_new_br_5 | brave<br>trust<br>pilot<br>student<br>blossom |  
+| bip_39_word_new_br_6 | brave<br>trust<br>pilot<br>student<br>blossom<br>elegant |  
+| bip_39_word_new_br_7 | brave<br>trust<br>pilot<br>student<br>blossom<br>elegant<br>umbrella |  
+| bip_39_word_new_br_8 | brave<br>trust<br>pilot<br>student<br>blossom<br>elegant<br>umbrella<br>develop |  
+| bip_39_word_new_br_9 | brave<br>trust<br>pilot<br>student<br>blossom<br>elegant<br>umbrella<br>develop<br>rhythm |  
+| bip_39_word_new_line_1 | brave |  
+| bip_39_word_new_line_10 | brave
 trust
 pilot
 student
@@ -55,7 +55,7 @@ umbrella
 develop
 rhythm
 glad |  
-| bip_39_word_new_line11 | brave
+| bip_39_word_new_line_11 | brave
 trust
 pilot
 student
@@ -66,7 +66,7 @@ develop
 rhythm
 glad
 luxury |  
-| bip_39_word_new_line12 | brave
+| bip_39_word_new_line_12 | brave
 trust
 pilot
 student
@@ -78,34 +78,34 @@ rhythm
 glad
 luxury
 afford |  
-| bip_39_word_new_line2 | brave
+| bip_39_word_new_line_2 | brave
 trust |  
-| bip_39_word_new_line3 | brave
+| bip_39_word_new_line_3 | brave
 trust
 pilot |  
-| bip_39_word_new_line4 | brave
+| bip_39_word_new_line_4 | brave
 trust
 pilot
 student |  
-| bip_39_word_new_line5 | brave
+| bip_39_word_new_line_5 | brave
 trust
 pilot
 student
 blossom |  
-| bip_39_word_new_line6 | brave
+| bip_39_word_new_line_6 | brave
 trust
 pilot
 student
 blossom
 elegant |  
-| bip_39_word_new_line7 | brave
+| bip_39_word_new_line_7 | brave
 trust
 pilot
 student
 blossom
 elegant
 umbrella |  
-| bip_39_word_new_line8 | brave
+| bip_39_word_new_line_8 | brave
 trust
 pilot
 student
@@ -113,7 +113,7 @@ blossom
 elegant
 umbrella
 develop |  
-| bip_39_word_new_line9 | brave
+| bip_39_word_new_line_9 | brave
 trust
 pilot
 student

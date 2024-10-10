@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | annual |  
-| bip_39_word_new_br10 | annual<br>collect<br>drift<br>yellow<br>bubble<br>charge<br>video<br>promote<br>divert<br>proof |  
-| bip_39_word_new_br11 | annual<br>collect<br>drift<br>yellow<br>bubble<br>charge<br>video<br>promote<br>divert<br>proof<br>throw |  
-| bip_39_word_new_br12 | annual<br>collect<br>drift<br>yellow<br>bubble<br>charge<br>video<br>promote<br>divert<br>proof<br>throw<br>absurd |  
-| bip_39_word_new_br2 | annual<br>collect |  
-| bip_39_word_new_br3 | annual<br>collect<br>drift |  
-| bip_39_word_new_br4 | annual<br>collect<br>drift<br>yellow |  
-| bip_39_word_new_br5 | annual<br>collect<br>drift<br>yellow<br>bubble |  
-| bip_39_word_new_br6 | annual<br>collect<br>drift<br>yellow<br>bubble<br>charge |  
-| bip_39_word_new_br7 | annual<br>collect<br>drift<br>yellow<br>bubble<br>charge<br>video |  
-| bip_39_word_new_br8 | annual<br>collect<br>drift<br>yellow<br>bubble<br>charge<br>video<br>promote |  
-| bip_39_word_new_br9 | annual<br>collect<br>drift<br>yellow<br>bubble<br>charge<br>video<br>promote<br>divert |  
-| bip_39_word_new_line1 | annual |  
-| bip_39_word_new_line10 | annual
+| bip_39_word_new_br_1 | annual |  
+| bip_39_word_new_br_10 | annual<br>collect<br>drift<br>yellow<br>bubble<br>charge<br>video<br>promote<br>divert<br>proof |  
+| bip_39_word_new_br_11 | annual<br>collect<br>drift<br>yellow<br>bubble<br>charge<br>video<br>promote<br>divert<br>proof<br>throw |  
+| bip_39_word_new_br_12 | annual<br>collect<br>drift<br>yellow<br>bubble<br>charge<br>video<br>promote<br>divert<br>proof<br>throw<br>absurd |  
+| bip_39_word_new_br_2 | annual<br>collect |  
+| bip_39_word_new_br_3 | annual<br>collect<br>drift |  
+| bip_39_word_new_br_4 | annual<br>collect<br>drift<br>yellow |  
+| bip_39_word_new_br_5 | annual<br>collect<br>drift<br>yellow<br>bubble |  
+| bip_39_word_new_br_6 | annual<br>collect<br>drift<br>yellow<br>bubble<br>charge |  
+| bip_39_word_new_br_7 | annual<br>collect<br>drift<br>yellow<br>bubble<br>charge<br>video |  
+| bip_39_word_new_br_8 | annual<br>collect<br>drift<br>yellow<br>bubble<br>charge<br>video<br>promote |  
+| bip_39_word_new_br_9 | annual<br>collect<br>drift<br>yellow<br>bubble<br>charge<br>video<br>promote<br>divert |  
+| bip_39_word_new_line_1 | annual |  
+| bip_39_word_new_line_10 | annual
 collect
 drift
 yellow
@@ -55,7 +55,7 @@ video
 promote
 divert
 proof |  
-| bip_39_word_new_line11 | annual
+| bip_39_word_new_line_11 | annual
 collect
 drift
 yellow
@@ -66,7 +66,7 @@ promote
 divert
 proof
 throw |  
-| bip_39_word_new_line12 | annual
+| bip_39_word_new_line_12 | annual
 collect
 drift
 yellow
@@ -78,34 +78,34 @@ divert
 proof
 throw
 absurd |  
-| bip_39_word_new_line2 | annual
+| bip_39_word_new_line_2 | annual
 collect |  
-| bip_39_word_new_line3 | annual
+| bip_39_word_new_line_3 | annual
 collect
 drift |  
-| bip_39_word_new_line4 | annual
+| bip_39_word_new_line_4 | annual
 collect
 drift
 yellow |  
-| bip_39_word_new_line5 | annual
+| bip_39_word_new_line_5 | annual
 collect
 drift
 yellow
 bubble |  
-| bip_39_word_new_line6 | annual
+| bip_39_word_new_line_6 | annual
 collect
 drift
 yellow
 bubble
 charge |  
-| bip_39_word_new_line7 | annual
+| bip_39_word_new_line_7 | annual
 collect
 drift
 yellow
 bubble
 charge
 video |  
-| bip_39_word_new_line8 | annual
+| bip_39_word_new_line_8 | annual
 collect
 drift
 yellow
@@ -113,7 +113,7 @@ bubble
 charge
 video
 promote |  
-| bip_39_word_new_line9 | annual
+| bip_39_word_new_line_9 | annual
 collect
 drift
 yellow

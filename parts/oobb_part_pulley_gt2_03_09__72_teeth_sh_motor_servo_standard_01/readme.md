@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | depart |  
-| bip_39_word_new_br10 | depart<br>sponsor<br>inmate<br>ceiling<br>reflect<br>car<br>subject<br>story<br>jump<br>sugar |  
-| bip_39_word_new_br11 | depart<br>sponsor<br>inmate<br>ceiling<br>reflect<br>car<br>subject<br>story<br>jump<br>sugar<br>border |  
-| bip_39_word_new_br12 | depart<br>sponsor<br>inmate<br>ceiling<br>reflect<br>car<br>subject<br>story<br>jump<br>sugar<br>border<br>act |  
-| bip_39_word_new_br2 | depart<br>sponsor |  
-| bip_39_word_new_br3 | depart<br>sponsor<br>inmate |  
-| bip_39_word_new_br4 | depart<br>sponsor<br>inmate<br>ceiling |  
-| bip_39_word_new_br5 | depart<br>sponsor<br>inmate<br>ceiling<br>reflect |  
-| bip_39_word_new_br6 | depart<br>sponsor<br>inmate<br>ceiling<br>reflect<br>car |  
-| bip_39_word_new_br7 | depart<br>sponsor<br>inmate<br>ceiling<br>reflect<br>car<br>subject |  
-| bip_39_word_new_br8 | depart<br>sponsor<br>inmate<br>ceiling<br>reflect<br>car<br>subject<br>story |  
-| bip_39_word_new_br9 | depart<br>sponsor<br>inmate<br>ceiling<br>reflect<br>car<br>subject<br>story<br>jump |  
-| bip_39_word_new_line1 | depart |  
-| bip_39_word_new_line10 | depart
+| bip_39_word_new_br_1 | depart |  
+| bip_39_word_new_br_10 | depart<br>sponsor<br>inmate<br>ceiling<br>reflect<br>car<br>subject<br>story<br>jump<br>sugar |  
+| bip_39_word_new_br_11 | depart<br>sponsor<br>inmate<br>ceiling<br>reflect<br>car<br>subject<br>story<br>jump<br>sugar<br>border |  
+| bip_39_word_new_br_12 | depart<br>sponsor<br>inmate<br>ceiling<br>reflect<br>car<br>subject<br>story<br>jump<br>sugar<br>border<br>act |  
+| bip_39_word_new_br_2 | depart<br>sponsor |  
+| bip_39_word_new_br_3 | depart<br>sponsor<br>inmate |  
+| bip_39_word_new_br_4 | depart<br>sponsor<br>inmate<br>ceiling |  
+| bip_39_word_new_br_5 | depart<br>sponsor<br>inmate<br>ceiling<br>reflect |  
+| bip_39_word_new_br_6 | depart<br>sponsor<br>inmate<br>ceiling<br>reflect<br>car |  
+| bip_39_word_new_br_7 | depart<br>sponsor<br>inmate<br>ceiling<br>reflect<br>car<br>subject |  
+| bip_39_word_new_br_8 | depart<br>sponsor<br>inmate<br>ceiling<br>reflect<br>car<br>subject<br>story |  
+| bip_39_word_new_br_9 | depart<br>sponsor<br>inmate<br>ceiling<br>reflect<br>car<br>subject<br>story<br>jump |  
+| bip_39_word_new_line_1 | depart |  
+| bip_39_word_new_line_10 | depart
 sponsor
 inmate
 ceiling
@@ -55,7 +55,7 @@ subject
 story
 jump
 sugar |  
-| bip_39_word_new_line11 | depart
+| bip_39_word_new_line_11 | depart
 sponsor
 inmate
 ceiling
@@ -66,7 +66,7 @@ story
 jump
 sugar
 border |  
-| bip_39_word_new_line12 | depart
+| bip_39_word_new_line_12 | depart
 sponsor
 inmate
 ceiling
@@ -78,34 +78,34 @@ jump
 sugar
 border
 act |  
-| bip_39_word_new_line2 | depart
+| bip_39_word_new_line_2 | depart
 sponsor |  
-| bip_39_word_new_line3 | depart
+| bip_39_word_new_line_3 | depart
 sponsor
 inmate |  
-| bip_39_word_new_line4 | depart
+| bip_39_word_new_line_4 | depart
 sponsor
 inmate
 ceiling |  
-| bip_39_word_new_line5 | depart
+| bip_39_word_new_line_5 | depart
 sponsor
 inmate
 ceiling
 reflect |  
-| bip_39_word_new_line6 | depart
+| bip_39_word_new_line_6 | depart
 sponsor
 inmate
 ceiling
 reflect
 car |  
-| bip_39_word_new_line7 | depart
+| bip_39_word_new_line_7 | depart
 sponsor
 inmate
 ceiling
 reflect
 car
 subject |  
-| bip_39_word_new_line8 | depart
+| bip_39_word_new_line_8 | depart
 sponsor
 inmate
 ceiling
@@ -113,7 +113,7 @@ reflect
 car
 subject
 story |  
-| bip_39_word_new_line9 | depart
+| bip_39_word_new_line_9 | depart
 sponsor
 inmate
 ceiling

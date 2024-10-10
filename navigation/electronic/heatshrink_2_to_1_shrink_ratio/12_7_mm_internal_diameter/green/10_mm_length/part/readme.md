@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | beauty |  
-| bip_39_word_new_br10 | beauty<br>frost<br>floor<br>kiss<br>warm<br>marriage<br>disorder<br>stool<br>only<br>moment |  
-| bip_39_word_new_br11 | beauty<br>frost<br>floor<br>kiss<br>warm<br>marriage<br>disorder<br>stool<br>only<br>moment<br>grass |  
-| bip_39_word_new_br12 | beauty<br>frost<br>floor<br>kiss<br>warm<br>marriage<br>disorder<br>stool<br>only<br>moment<br>grass<br>apple |  
-| bip_39_word_new_br2 | beauty<br>frost |  
-| bip_39_word_new_br3 | beauty<br>frost<br>floor |  
-| bip_39_word_new_br4 | beauty<br>frost<br>floor<br>kiss |  
-| bip_39_word_new_br5 | beauty<br>frost<br>floor<br>kiss<br>warm |  
-| bip_39_word_new_br6 | beauty<br>frost<br>floor<br>kiss<br>warm<br>marriage |  
-| bip_39_word_new_br7 | beauty<br>frost<br>floor<br>kiss<br>warm<br>marriage<br>disorder |  
-| bip_39_word_new_br8 | beauty<br>frost<br>floor<br>kiss<br>warm<br>marriage<br>disorder<br>stool |  
-| bip_39_word_new_br9 | beauty<br>frost<br>floor<br>kiss<br>warm<br>marriage<br>disorder<br>stool<br>only |  
-| bip_39_word_new_line1 | beauty |  
-| bip_39_word_new_line10 | beauty
+| bip_39_word_new_br_1 | beauty |  
+| bip_39_word_new_br_10 | beauty<br>frost<br>floor<br>kiss<br>warm<br>marriage<br>disorder<br>stool<br>only<br>moment |  
+| bip_39_word_new_br_11 | beauty<br>frost<br>floor<br>kiss<br>warm<br>marriage<br>disorder<br>stool<br>only<br>moment<br>grass |  
+| bip_39_word_new_br_12 | beauty<br>frost<br>floor<br>kiss<br>warm<br>marriage<br>disorder<br>stool<br>only<br>moment<br>grass<br>apple |  
+| bip_39_word_new_br_2 | beauty<br>frost |  
+| bip_39_word_new_br_3 | beauty<br>frost<br>floor |  
+| bip_39_word_new_br_4 | beauty<br>frost<br>floor<br>kiss |  
+| bip_39_word_new_br_5 | beauty<br>frost<br>floor<br>kiss<br>warm |  
+| bip_39_word_new_br_6 | beauty<br>frost<br>floor<br>kiss<br>warm<br>marriage |  
+| bip_39_word_new_br_7 | beauty<br>frost<br>floor<br>kiss<br>warm<br>marriage<br>disorder |  
+| bip_39_word_new_br_8 | beauty<br>frost<br>floor<br>kiss<br>warm<br>marriage<br>disorder<br>stool |  
+| bip_39_word_new_br_9 | beauty<br>frost<br>floor<br>kiss<br>warm<br>marriage<br>disorder<br>stool<br>only |  
+| bip_39_word_new_line_1 | beauty |  
+| bip_39_word_new_line_10 | beauty
 frost
 floor
 kiss
@@ -55,7 +55,7 @@ disorder
 stool
 only
 moment |  
-| bip_39_word_new_line11 | beauty
+| bip_39_word_new_line_11 | beauty
 frost
 floor
 kiss
@@ -66,7 +66,7 @@ stool
 only
 moment
 grass |  
-| bip_39_word_new_line12 | beauty
+| bip_39_word_new_line_12 | beauty
 frost
 floor
 kiss
@@ -78,34 +78,34 @@ only
 moment
 grass
 apple |  
-| bip_39_word_new_line2 | beauty
+| bip_39_word_new_line_2 | beauty
 frost |  
-| bip_39_word_new_line3 | beauty
+| bip_39_word_new_line_3 | beauty
 frost
 floor |  
-| bip_39_word_new_line4 | beauty
+| bip_39_word_new_line_4 | beauty
 frost
 floor
 kiss |  
-| bip_39_word_new_line5 | beauty
+| bip_39_word_new_line_5 | beauty
 frost
 floor
 kiss
 warm |  
-| bip_39_word_new_line6 | beauty
+| bip_39_word_new_line_6 | beauty
 frost
 floor
 kiss
 warm
 marriage |  
-| bip_39_word_new_line7 | beauty
+| bip_39_word_new_line_7 | beauty
 frost
 floor
 kiss
 warm
 marriage
 disorder |  
-| bip_39_word_new_line8 | beauty
+| bip_39_word_new_line_8 | beauty
 frost
 floor
 kiss
@@ -113,7 +113,7 @@ warm
 marriage
 disorder
 stool |  
-| bip_39_word_new_line9 | beauty
+| bip_39_word_new_line_9 | beauty
 frost
 floor
 kiss

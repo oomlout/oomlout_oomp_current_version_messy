@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fitness |  
-| bip_39_word_new_br10 | fitness<br>uniform<br>hire<br>truth<br>embark<br>vast<br>fatal<br>cart<br>modify<br>bomb |  
-| bip_39_word_new_br11 | fitness<br>uniform<br>hire<br>truth<br>embark<br>vast<br>fatal<br>cart<br>modify<br>bomb<br>wagon |  
-| bip_39_word_new_br12 | fitness<br>uniform<br>hire<br>truth<br>embark<br>vast<br>fatal<br>cart<br>modify<br>bomb<br>wagon<br>amused |  
-| bip_39_word_new_br2 | fitness<br>uniform |  
-| bip_39_word_new_br3 | fitness<br>uniform<br>hire |  
-| bip_39_word_new_br4 | fitness<br>uniform<br>hire<br>truth |  
-| bip_39_word_new_br5 | fitness<br>uniform<br>hire<br>truth<br>embark |  
-| bip_39_word_new_br6 | fitness<br>uniform<br>hire<br>truth<br>embark<br>vast |  
-| bip_39_word_new_br7 | fitness<br>uniform<br>hire<br>truth<br>embark<br>vast<br>fatal |  
-| bip_39_word_new_br8 | fitness<br>uniform<br>hire<br>truth<br>embark<br>vast<br>fatal<br>cart |  
-| bip_39_word_new_br9 | fitness<br>uniform<br>hire<br>truth<br>embark<br>vast<br>fatal<br>cart<br>modify |  
-| bip_39_word_new_line1 | fitness |  
-| bip_39_word_new_line10 | fitness
+| bip_39_word_new_br_1 | fitness |  
+| bip_39_word_new_br_10 | fitness<br>uniform<br>hire<br>truth<br>embark<br>vast<br>fatal<br>cart<br>modify<br>bomb |  
+| bip_39_word_new_br_11 | fitness<br>uniform<br>hire<br>truth<br>embark<br>vast<br>fatal<br>cart<br>modify<br>bomb<br>wagon |  
+| bip_39_word_new_br_12 | fitness<br>uniform<br>hire<br>truth<br>embark<br>vast<br>fatal<br>cart<br>modify<br>bomb<br>wagon<br>amused |  
+| bip_39_word_new_br_2 | fitness<br>uniform |  
+| bip_39_word_new_br_3 | fitness<br>uniform<br>hire |  
+| bip_39_word_new_br_4 | fitness<br>uniform<br>hire<br>truth |  
+| bip_39_word_new_br_5 | fitness<br>uniform<br>hire<br>truth<br>embark |  
+| bip_39_word_new_br_6 | fitness<br>uniform<br>hire<br>truth<br>embark<br>vast |  
+| bip_39_word_new_br_7 | fitness<br>uniform<br>hire<br>truth<br>embark<br>vast<br>fatal |  
+| bip_39_word_new_br_8 | fitness<br>uniform<br>hire<br>truth<br>embark<br>vast<br>fatal<br>cart |  
+| bip_39_word_new_br_9 | fitness<br>uniform<br>hire<br>truth<br>embark<br>vast<br>fatal<br>cart<br>modify |  
+| bip_39_word_new_line_1 | fitness |  
+| bip_39_word_new_line_10 | fitness
 uniform
 hire
 truth
@@ -55,7 +55,7 @@ fatal
 cart
 modify
 bomb |  
-| bip_39_word_new_line11 | fitness
+| bip_39_word_new_line_11 | fitness
 uniform
 hire
 truth
@@ -66,7 +66,7 @@ cart
 modify
 bomb
 wagon |  
-| bip_39_word_new_line12 | fitness
+| bip_39_word_new_line_12 | fitness
 uniform
 hire
 truth
@@ -78,34 +78,34 @@ modify
 bomb
 wagon
 amused |  
-| bip_39_word_new_line2 | fitness
+| bip_39_word_new_line_2 | fitness
 uniform |  
-| bip_39_word_new_line3 | fitness
+| bip_39_word_new_line_3 | fitness
 uniform
 hire |  
-| bip_39_word_new_line4 | fitness
+| bip_39_word_new_line_4 | fitness
 uniform
 hire
 truth |  
-| bip_39_word_new_line5 | fitness
+| bip_39_word_new_line_5 | fitness
 uniform
 hire
 truth
 embark |  
-| bip_39_word_new_line6 | fitness
+| bip_39_word_new_line_6 | fitness
 uniform
 hire
 truth
 embark
 vast |  
-| bip_39_word_new_line7 | fitness
+| bip_39_word_new_line_7 | fitness
 uniform
 hire
 truth
 embark
 vast
 fatal |  
-| bip_39_word_new_line8 | fitness
+| bip_39_word_new_line_8 | fitness
 uniform
 hire
 truth
@@ -113,7 +113,7 @@ embark
 vast
 fatal
 cart |  
-| bip_39_word_new_line9 | fitness
+| bip_39_word_new_line_9 | fitness
 uniform
 hire
 truth

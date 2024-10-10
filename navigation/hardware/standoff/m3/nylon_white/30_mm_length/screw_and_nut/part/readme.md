@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | educate |  
-| bip_39_word_new_br10 | educate<br>gloom<br>entry<br>tilt<br>siren<br>print<br>embrace<br>response<br>gadget<br>lemon |  
-| bip_39_word_new_br11 | educate<br>gloom<br>entry<br>tilt<br>siren<br>print<br>embrace<br>response<br>gadget<br>lemon<br>peace |  
-| bip_39_word_new_br12 | educate<br>gloom<br>entry<br>tilt<br>siren<br>print<br>embrace<br>response<br>gadget<br>lemon<br>peace<br>arch |  
-| bip_39_word_new_br2 | educate<br>gloom |  
-| bip_39_word_new_br3 | educate<br>gloom<br>entry |  
-| bip_39_word_new_br4 | educate<br>gloom<br>entry<br>tilt |  
-| bip_39_word_new_br5 | educate<br>gloom<br>entry<br>tilt<br>siren |  
-| bip_39_word_new_br6 | educate<br>gloom<br>entry<br>tilt<br>siren<br>print |  
-| bip_39_word_new_br7 | educate<br>gloom<br>entry<br>tilt<br>siren<br>print<br>embrace |  
-| bip_39_word_new_br8 | educate<br>gloom<br>entry<br>tilt<br>siren<br>print<br>embrace<br>response |  
-| bip_39_word_new_br9 | educate<br>gloom<br>entry<br>tilt<br>siren<br>print<br>embrace<br>response<br>gadget |  
-| bip_39_word_new_line1 | educate |  
-| bip_39_word_new_line10 | educate
+| bip_39_word_new_br_1 | educate |  
+| bip_39_word_new_br_10 | educate<br>gloom<br>entry<br>tilt<br>siren<br>print<br>embrace<br>response<br>gadget<br>lemon |  
+| bip_39_word_new_br_11 | educate<br>gloom<br>entry<br>tilt<br>siren<br>print<br>embrace<br>response<br>gadget<br>lemon<br>peace |  
+| bip_39_word_new_br_12 | educate<br>gloom<br>entry<br>tilt<br>siren<br>print<br>embrace<br>response<br>gadget<br>lemon<br>peace<br>arch |  
+| bip_39_word_new_br_2 | educate<br>gloom |  
+| bip_39_word_new_br_3 | educate<br>gloom<br>entry |  
+| bip_39_word_new_br_4 | educate<br>gloom<br>entry<br>tilt |  
+| bip_39_word_new_br_5 | educate<br>gloom<br>entry<br>tilt<br>siren |  
+| bip_39_word_new_br_6 | educate<br>gloom<br>entry<br>tilt<br>siren<br>print |  
+| bip_39_word_new_br_7 | educate<br>gloom<br>entry<br>tilt<br>siren<br>print<br>embrace |  
+| bip_39_word_new_br_8 | educate<br>gloom<br>entry<br>tilt<br>siren<br>print<br>embrace<br>response |  
+| bip_39_word_new_br_9 | educate<br>gloom<br>entry<br>tilt<br>siren<br>print<br>embrace<br>response<br>gadget |  
+| bip_39_word_new_line_1 | educate |  
+| bip_39_word_new_line_10 | educate
 gloom
 entry
 tilt
@@ -55,7 +55,7 @@ embrace
 response
 gadget
 lemon |  
-| bip_39_word_new_line11 | educate
+| bip_39_word_new_line_11 | educate
 gloom
 entry
 tilt
@@ -66,7 +66,7 @@ response
 gadget
 lemon
 peace |  
-| bip_39_word_new_line12 | educate
+| bip_39_word_new_line_12 | educate
 gloom
 entry
 tilt
@@ -78,34 +78,34 @@ gadget
 lemon
 peace
 arch |  
-| bip_39_word_new_line2 | educate
+| bip_39_word_new_line_2 | educate
 gloom |  
-| bip_39_word_new_line3 | educate
+| bip_39_word_new_line_3 | educate
 gloom
 entry |  
-| bip_39_word_new_line4 | educate
+| bip_39_word_new_line_4 | educate
 gloom
 entry
 tilt |  
-| bip_39_word_new_line5 | educate
+| bip_39_word_new_line_5 | educate
 gloom
 entry
 tilt
 siren |  
-| bip_39_word_new_line6 | educate
+| bip_39_word_new_line_6 | educate
 gloom
 entry
 tilt
 siren
 print |  
-| bip_39_word_new_line7 | educate
+| bip_39_word_new_line_7 | educate
 gloom
 entry
 tilt
 siren
 print
 embrace |  
-| bip_39_word_new_line8 | educate
+| bip_39_word_new_line_8 | educate
 gloom
 entry
 tilt
@@ -113,7 +113,7 @@ siren
 print
 embrace
 response |  
-| bip_39_word_new_line9 | educate
+| bip_39_word_new_line_9 | educate
 gloom
 entry
 tilt

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | exclude |  
-| bip_39_word_new_br10 | exclude<br>angle<br>marine<br>grit<br>verb<br>opera<br>impose<br>rather<br>city<br>north |  
-| bip_39_word_new_br11 | exclude<br>angle<br>marine<br>grit<br>verb<br>opera<br>impose<br>rather<br>city<br>north<br>kitten |  
-| bip_39_word_new_br12 | exclude<br>angle<br>marine<br>grit<br>verb<br>opera<br>impose<br>rather<br>city<br>north<br>kitten<br>august |  
-| bip_39_word_new_br2 | exclude<br>angle |  
-| bip_39_word_new_br3 | exclude<br>angle<br>marine |  
-| bip_39_word_new_br4 | exclude<br>angle<br>marine<br>grit |  
-| bip_39_word_new_br5 | exclude<br>angle<br>marine<br>grit<br>verb |  
-| bip_39_word_new_br6 | exclude<br>angle<br>marine<br>grit<br>verb<br>opera |  
-| bip_39_word_new_br7 | exclude<br>angle<br>marine<br>grit<br>verb<br>opera<br>impose |  
-| bip_39_word_new_br8 | exclude<br>angle<br>marine<br>grit<br>verb<br>opera<br>impose<br>rather |  
-| bip_39_word_new_br9 | exclude<br>angle<br>marine<br>grit<br>verb<br>opera<br>impose<br>rather<br>city |  
-| bip_39_word_new_line1 | exclude |  
-| bip_39_word_new_line10 | exclude
+| bip_39_word_new_br_1 | exclude |  
+| bip_39_word_new_br_10 | exclude<br>angle<br>marine<br>grit<br>verb<br>opera<br>impose<br>rather<br>city<br>north |  
+| bip_39_word_new_br_11 | exclude<br>angle<br>marine<br>grit<br>verb<br>opera<br>impose<br>rather<br>city<br>north<br>kitten |  
+| bip_39_word_new_br_12 | exclude<br>angle<br>marine<br>grit<br>verb<br>opera<br>impose<br>rather<br>city<br>north<br>kitten<br>august |  
+| bip_39_word_new_br_2 | exclude<br>angle |  
+| bip_39_word_new_br_3 | exclude<br>angle<br>marine |  
+| bip_39_word_new_br_4 | exclude<br>angle<br>marine<br>grit |  
+| bip_39_word_new_br_5 | exclude<br>angle<br>marine<br>grit<br>verb |  
+| bip_39_word_new_br_6 | exclude<br>angle<br>marine<br>grit<br>verb<br>opera |  
+| bip_39_word_new_br_7 | exclude<br>angle<br>marine<br>grit<br>verb<br>opera<br>impose |  
+| bip_39_word_new_br_8 | exclude<br>angle<br>marine<br>grit<br>verb<br>opera<br>impose<br>rather |  
+| bip_39_word_new_br_9 | exclude<br>angle<br>marine<br>grit<br>verb<br>opera<br>impose<br>rather<br>city |  
+| bip_39_word_new_line_1 | exclude |  
+| bip_39_word_new_line_10 | exclude
 angle
 marine
 grit
@@ -55,7 +55,7 @@ impose
 rather
 city
 north |  
-| bip_39_word_new_line11 | exclude
+| bip_39_word_new_line_11 | exclude
 angle
 marine
 grit
@@ -66,7 +66,7 @@ rather
 city
 north
 kitten |  
-| bip_39_word_new_line12 | exclude
+| bip_39_word_new_line_12 | exclude
 angle
 marine
 grit
@@ -78,34 +78,34 @@ city
 north
 kitten
 august |  
-| bip_39_word_new_line2 | exclude
+| bip_39_word_new_line_2 | exclude
 angle |  
-| bip_39_word_new_line3 | exclude
+| bip_39_word_new_line_3 | exclude
 angle
 marine |  
-| bip_39_word_new_line4 | exclude
+| bip_39_word_new_line_4 | exclude
 angle
 marine
 grit |  
-| bip_39_word_new_line5 | exclude
+| bip_39_word_new_line_5 | exclude
 angle
 marine
 grit
 verb |  
-| bip_39_word_new_line6 | exclude
+| bip_39_word_new_line_6 | exclude
 angle
 marine
 grit
 verb
 opera |  
-| bip_39_word_new_line7 | exclude
+| bip_39_word_new_line_7 | exclude
 angle
 marine
 grit
 verb
 opera
 impose |  
-| bip_39_word_new_line8 | exclude
+| bip_39_word_new_line_8 | exclude
 angle
 marine
 grit
@@ -113,7 +113,7 @@ verb
 opera
 impose
 rather |  
-| bip_39_word_new_line9 | exclude
+| bip_39_word_new_line_9 | exclude
 angle
 marine
 grit

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | host |  
-| bip_39_word_new_br10 | host<br>spell<br>hero<br>salt<br>gadget<br>battle<br>able<br>nice<br>zebra<br>file |  
-| bip_39_word_new_br11 | host<br>spell<br>hero<br>salt<br>gadget<br>battle<br>able<br>nice<br>zebra<br>file<br>over |  
-| bip_39_word_new_br12 | host<br>spell<br>hero<br>salt<br>gadget<br>battle<br>able<br>nice<br>zebra<br>file<br>over<br>across |  
-| bip_39_word_new_br2 | host<br>spell |  
-| bip_39_word_new_br3 | host<br>spell<br>hero |  
-| bip_39_word_new_br4 | host<br>spell<br>hero<br>salt |  
-| bip_39_word_new_br5 | host<br>spell<br>hero<br>salt<br>gadget |  
-| bip_39_word_new_br6 | host<br>spell<br>hero<br>salt<br>gadget<br>battle |  
-| bip_39_word_new_br7 | host<br>spell<br>hero<br>salt<br>gadget<br>battle<br>able |  
-| bip_39_word_new_br8 | host<br>spell<br>hero<br>salt<br>gadget<br>battle<br>able<br>nice |  
-| bip_39_word_new_br9 | host<br>spell<br>hero<br>salt<br>gadget<br>battle<br>able<br>nice<br>zebra |  
-| bip_39_word_new_line1 | host |  
-| bip_39_word_new_line10 | host
+| bip_39_word_new_br_1 | host |  
+| bip_39_word_new_br_10 | host<br>spell<br>hero<br>salt<br>gadget<br>battle<br>able<br>nice<br>zebra<br>file |  
+| bip_39_word_new_br_11 | host<br>spell<br>hero<br>salt<br>gadget<br>battle<br>able<br>nice<br>zebra<br>file<br>over |  
+| bip_39_word_new_br_12 | host<br>spell<br>hero<br>salt<br>gadget<br>battle<br>able<br>nice<br>zebra<br>file<br>over<br>across |  
+| bip_39_word_new_br_2 | host<br>spell |  
+| bip_39_word_new_br_3 | host<br>spell<br>hero |  
+| bip_39_word_new_br_4 | host<br>spell<br>hero<br>salt |  
+| bip_39_word_new_br_5 | host<br>spell<br>hero<br>salt<br>gadget |  
+| bip_39_word_new_br_6 | host<br>spell<br>hero<br>salt<br>gadget<br>battle |  
+| bip_39_word_new_br_7 | host<br>spell<br>hero<br>salt<br>gadget<br>battle<br>able |  
+| bip_39_word_new_br_8 | host<br>spell<br>hero<br>salt<br>gadget<br>battle<br>able<br>nice |  
+| bip_39_word_new_br_9 | host<br>spell<br>hero<br>salt<br>gadget<br>battle<br>able<br>nice<br>zebra |  
+| bip_39_word_new_line_1 | host |  
+| bip_39_word_new_line_10 | host
 spell
 hero
 salt
@@ -55,7 +55,7 @@ able
 nice
 zebra
 file |  
-| bip_39_word_new_line11 | host
+| bip_39_word_new_line_11 | host
 spell
 hero
 salt
@@ -66,7 +66,7 @@ nice
 zebra
 file
 over |  
-| bip_39_word_new_line12 | host
+| bip_39_word_new_line_12 | host
 spell
 hero
 salt
@@ -78,34 +78,34 @@ zebra
 file
 over
 across |  
-| bip_39_word_new_line2 | host
+| bip_39_word_new_line_2 | host
 spell |  
-| bip_39_word_new_line3 | host
+| bip_39_word_new_line_3 | host
 spell
 hero |  
-| bip_39_word_new_line4 | host
+| bip_39_word_new_line_4 | host
 spell
 hero
 salt |  
-| bip_39_word_new_line5 | host
+| bip_39_word_new_line_5 | host
 spell
 hero
 salt
 gadget |  
-| bip_39_word_new_line6 | host
+| bip_39_word_new_line_6 | host
 spell
 hero
 salt
 gadget
 battle |  
-| bip_39_word_new_line7 | host
+| bip_39_word_new_line_7 | host
 spell
 hero
 salt
 gadget
 battle
 able |  
-| bip_39_word_new_line8 | host
+| bip_39_word_new_line_8 | host
 spell
 hero
 salt
@@ -113,7 +113,7 @@ gadget
 battle
 able
 nice |  
-| bip_39_word_new_line9 | host
+| bip_39_word_new_line_9 | host
 spell
 hero
 salt

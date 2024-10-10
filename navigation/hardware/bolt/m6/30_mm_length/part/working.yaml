@@ -1,17 +1,17 @@
-bip_39_word_new_br1: like
-bip_39_word_new_br10: like<br>lonely<br>you<br>spatial<br>then<br>swear<br>rigid<br>victory<br>black<br>media
-bip_39_word_new_br11: like<br>lonely<br>you<br>spatial<br>then<br>swear<br>rigid<br>victory<br>black<br>media<br>mammal
-bip_39_word_new_br12: like<br>lonely<br>you<br>spatial<br>then<br>swear<br>rigid<br>victory<br>black<br>media<br>mammal<br>argue
-bip_39_word_new_br2: like<br>lonely
-bip_39_word_new_br3: like<br>lonely<br>you
-bip_39_word_new_br4: like<br>lonely<br>you<br>spatial
-bip_39_word_new_br5: like<br>lonely<br>you<br>spatial<br>then
-bip_39_word_new_br6: like<br>lonely<br>you<br>spatial<br>then<br>swear
-bip_39_word_new_br7: like<br>lonely<br>you<br>spatial<br>then<br>swear<br>rigid
-bip_39_word_new_br8: like<br>lonely<br>you<br>spatial<br>then<br>swear<br>rigid<br>victory
-bip_39_word_new_br9: like<br>lonely<br>you<br>spatial<br>then<br>swear<br>rigid<br>victory<br>black
-bip_39_word_new_line1: like
-bip_39_word_new_line10: 'like
+bip_39_word_new_br_1: like
+bip_39_word_new_br_10: like<br>lonely<br>you<br>spatial<br>then<br>swear<br>rigid<br>victory<br>black<br>media
+bip_39_word_new_br_11: like<br>lonely<br>you<br>spatial<br>then<br>swear<br>rigid<br>victory<br>black<br>media<br>mammal
+bip_39_word_new_br_12: like<br>lonely<br>you<br>spatial<br>then<br>swear<br>rigid<br>victory<br>black<br>media<br>mammal<br>argue
+bip_39_word_new_br_2: like<br>lonely
+bip_39_word_new_br_3: like<br>lonely<br>you
+bip_39_word_new_br_4: like<br>lonely<br>you<br>spatial
+bip_39_word_new_br_5: like<br>lonely<br>you<br>spatial<br>then
+bip_39_word_new_br_6: like<br>lonely<br>you<br>spatial<br>then<br>swear
+bip_39_word_new_br_7: like<br>lonely<br>you<br>spatial<br>then<br>swear<br>rigid
+bip_39_word_new_br_8: like<br>lonely<br>you<br>spatial<br>then<br>swear<br>rigid<br>victory
+bip_39_word_new_br_9: like<br>lonely<br>you<br>spatial<br>then<br>swear<br>rigid<br>victory<br>black
+bip_39_word_new_line_1: like
+bip_39_word_new_line_10: 'like
 
   lonely
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'like
   black
 
   media'
-bip_39_word_new_line11: 'like
+bip_39_word_new_line_11: 'like
 
   lonely
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'like
   media
 
   mammal'
-bip_39_word_new_line12: 'like
+bip_39_word_new_line_12: 'like
 
   lonely
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'like
   mammal
 
   argue'
-bip_39_word_new_line2: 'like
+bip_39_word_new_line_2: 'like
 
   lonely'
-bip_39_word_new_line3: 'like
+bip_39_word_new_line_3: 'like
 
   lonely
 
   you'
-bip_39_word_new_line4: 'like
+bip_39_word_new_line_4: 'like
 
   lonely
 
   you
 
   spatial'
-bip_39_word_new_line5: 'like
+bip_39_word_new_line_5: 'like
 
   lonely
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'like
   spatial
 
   then'
-bip_39_word_new_line6: 'like
+bip_39_word_new_line_6: 'like
 
   lonely
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'like
   then
 
   swear'
-bip_39_word_new_line7: 'like
+bip_39_word_new_line_7: 'like
 
   lonely
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'like
   swear
 
   rigid'
-bip_39_word_new_line8: 'like
+bip_39_word_new_line_8: 'like
 
   lonely
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'like
   rigid
 
   victory'
-bip_39_word_new_line9: 'like
+bip_39_word_new_line_9: 'like
 
   lonely
 

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ozone |  
-| bip_39_word_new_br10 | ozone<br>deposit<br>topic<br>swing<br>festival<br>route<br>price<br>hour<br>wisdom<br>bracket |  
-| bip_39_word_new_br11 | ozone<br>deposit<br>topic<br>swing<br>festival<br>route<br>price<br>hour<br>wisdom<br>bracket<br>eagle |  
-| bip_39_word_new_br12 | ozone<br>deposit<br>topic<br>swing<br>festival<br>route<br>price<br>hour<br>wisdom<br>bracket<br>eagle<br>acoustic |  
-| bip_39_word_new_br2 | ozone<br>deposit |  
-| bip_39_word_new_br3 | ozone<br>deposit<br>topic |  
-| bip_39_word_new_br4 | ozone<br>deposit<br>topic<br>swing |  
-| bip_39_word_new_br5 | ozone<br>deposit<br>topic<br>swing<br>festival |  
-| bip_39_word_new_br6 | ozone<br>deposit<br>topic<br>swing<br>festival<br>route |  
-| bip_39_word_new_br7 | ozone<br>deposit<br>topic<br>swing<br>festival<br>route<br>price |  
-| bip_39_word_new_br8 | ozone<br>deposit<br>topic<br>swing<br>festival<br>route<br>price<br>hour |  
-| bip_39_word_new_br9 | ozone<br>deposit<br>topic<br>swing<br>festival<br>route<br>price<br>hour<br>wisdom |  
-| bip_39_word_new_line1 | ozone |  
-| bip_39_word_new_line10 | ozone
+| bip_39_word_new_br_1 | ozone |  
+| bip_39_word_new_br_10 | ozone<br>deposit<br>topic<br>swing<br>festival<br>route<br>price<br>hour<br>wisdom<br>bracket |  
+| bip_39_word_new_br_11 | ozone<br>deposit<br>topic<br>swing<br>festival<br>route<br>price<br>hour<br>wisdom<br>bracket<br>eagle |  
+| bip_39_word_new_br_12 | ozone<br>deposit<br>topic<br>swing<br>festival<br>route<br>price<br>hour<br>wisdom<br>bracket<br>eagle<br>acoustic |  
+| bip_39_word_new_br_2 | ozone<br>deposit |  
+| bip_39_word_new_br_3 | ozone<br>deposit<br>topic |  
+| bip_39_word_new_br_4 | ozone<br>deposit<br>topic<br>swing |  
+| bip_39_word_new_br_5 | ozone<br>deposit<br>topic<br>swing<br>festival |  
+| bip_39_word_new_br_6 | ozone<br>deposit<br>topic<br>swing<br>festival<br>route |  
+| bip_39_word_new_br_7 | ozone<br>deposit<br>topic<br>swing<br>festival<br>route<br>price |  
+| bip_39_word_new_br_8 | ozone<br>deposit<br>topic<br>swing<br>festival<br>route<br>price<br>hour |  
+| bip_39_word_new_br_9 | ozone<br>deposit<br>topic<br>swing<br>festival<br>route<br>price<br>hour<br>wisdom |  
+| bip_39_word_new_line_1 | ozone |  
+| bip_39_word_new_line_10 | ozone
 deposit
 topic
 swing
@@ -55,7 +55,7 @@ price
 hour
 wisdom
 bracket |  
-| bip_39_word_new_line11 | ozone
+| bip_39_word_new_line_11 | ozone
 deposit
 topic
 swing
@@ -66,7 +66,7 @@ hour
 wisdom
 bracket
 eagle |  
-| bip_39_word_new_line12 | ozone
+| bip_39_word_new_line_12 | ozone
 deposit
 topic
 swing
@@ -78,34 +78,34 @@ wisdom
 bracket
 eagle
 acoustic |  
-| bip_39_word_new_line2 | ozone
+| bip_39_word_new_line_2 | ozone
 deposit |  
-| bip_39_word_new_line3 | ozone
+| bip_39_word_new_line_3 | ozone
 deposit
 topic |  
-| bip_39_word_new_line4 | ozone
+| bip_39_word_new_line_4 | ozone
 deposit
 topic
 swing |  
-| bip_39_word_new_line5 | ozone
+| bip_39_word_new_line_5 | ozone
 deposit
 topic
 swing
 festival |  
-| bip_39_word_new_line6 | ozone
+| bip_39_word_new_line_6 | ozone
 deposit
 topic
 swing
 festival
 route |  
-| bip_39_word_new_line7 | ozone
+| bip_39_word_new_line_7 | ozone
 deposit
 topic
 swing
 festival
 route
 price |  
-| bip_39_word_new_line8 | ozone
+| bip_39_word_new_line_8 | ozone
 deposit
 topic
 swing
@@ -113,7 +113,7 @@ festival
 route
 price
 hour |  
-| bip_39_word_new_line9 | ozone
+| bip_39_word_new_line_9 | ozone
 deposit
 topic
 swing

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | omit |  
-| bip_39_word_new_br10 | omit<br>pride<br>novel<br>panel<br>bottom<br>glare<br>basic<br>large<br>science<br>drastic |  
-| bip_39_word_new_br11 | omit<br>pride<br>novel<br>panel<br>bottom<br>glare<br>basic<br>large<br>science<br>drastic<br>betray |  
-| bip_39_word_new_br12 | omit<br>pride<br>novel<br>panel<br>bottom<br>glare<br>basic<br>large<br>science<br>drastic<br>betray<br>antenna |  
-| bip_39_word_new_br2 | omit<br>pride |  
-| bip_39_word_new_br3 | omit<br>pride<br>novel |  
-| bip_39_word_new_br4 | omit<br>pride<br>novel<br>panel |  
-| bip_39_word_new_br5 | omit<br>pride<br>novel<br>panel<br>bottom |  
-| bip_39_word_new_br6 | omit<br>pride<br>novel<br>panel<br>bottom<br>glare |  
-| bip_39_word_new_br7 | omit<br>pride<br>novel<br>panel<br>bottom<br>glare<br>basic |  
-| bip_39_word_new_br8 | omit<br>pride<br>novel<br>panel<br>bottom<br>glare<br>basic<br>large |  
-| bip_39_word_new_br9 | omit<br>pride<br>novel<br>panel<br>bottom<br>glare<br>basic<br>large<br>science |  
-| bip_39_word_new_line1 | omit |  
-| bip_39_word_new_line10 | omit
+| bip_39_word_new_br_1 | omit |  
+| bip_39_word_new_br_10 | omit<br>pride<br>novel<br>panel<br>bottom<br>glare<br>basic<br>large<br>science<br>drastic |  
+| bip_39_word_new_br_11 | omit<br>pride<br>novel<br>panel<br>bottom<br>glare<br>basic<br>large<br>science<br>drastic<br>betray |  
+| bip_39_word_new_br_12 | omit<br>pride<br>novel<br>panel<br>bottom<br>glare<br>basic<br>large<br>science<br>drastic<br>betray<br>antenna |  
+| bip_39_word_new_br_2 | omit<br>pride |  
+| bip_39_word_new_br_3 | omit<br>pride<br>novel |  
+| bip_39_word_new_br_4 | omit<br>pride<br>novel<br>panel |  
+| bip_39_word_new_br_5 | omit<br>pride<br>novel<br>panel<br>bottom |  
+| bip_39_word_new_br_6 | omit<br>pride<br>novel<br>panel<br>bottom<br>glare |  
+| bip_39_word_new_br_7 | omit<br>pride<br>novel<br>panel<br>bottom<br>glare<br>basic |  
+| bip_39_word_new_br_8 | omit<br>pride<br>novel<br>panel<br>bottom<br>glare<br>basic<br>large |  
+| bip_39_word_new_br_9 | omit<br>pride<br>novel<br>panel<br>bottom<br>glare<br>basic<br>large<br>science |  
+| bip_39_word_new_line_1 | omit |  
+| bip_39_word_new_line_10 | omit
 pride
 novel
 panel
@@ -55,7 +55,7 @@ basic
 large
 science
 drastic |  
-| bip_39_word_new_line11 | omit
+| bip_39_word_new_line_11 | omit
 pride
 novel
 panel
@@ -66,7 +66,7 @@ large
 science
 drastic
 betray |  
-| bip_39_word_new_line12 | omit
+| bip_39_word_new_line_12 | omit
 pride
 novel
 panel
@@ -78,34 +78,34 @@ science
 drastic
 betray
 antenna |  
-| bip_39_word_new_line2 | omit
+| bip_39_word_new_line_2 | omit
 pride |  
-| bip_39_word_new_line3 | omit
+| bip_39_word_new_line_3 | omit
 pride
 novel |  
-| bip_39_word_new_line4 | omit
+| bip_39_word_new_line_4 | omit
 pride
 novel
 panel |  
-| bip_39_word_new_line5 | omit
+| bip_39_word_new_line_5 | omit
 pride
 novel
 panel
 bottom |  
-| bip_39_word_new_line6 | omit
+| bip_39_word_new_line_6 | omit
 pride
 novel
 panel
 bottom
 glare |  
-| bip_39_word_new_line7 | omit
+| bip_39_word_new_line_7 | omit
 pride
 novel
 panel
 bottom
 glare
 basic |  
-| bip_39_word_new_line8 | omit
+| bip_39_word_new_line_8 | omit
 pride
 novel
 panel
@@ -113,7 +113,7 @@ bottom
 glare
 basic
 large |  
-| bip_39_word_new_line9 | omit
+| bip_39_word_new_line_9 | omit
 pride
 novel
 panel

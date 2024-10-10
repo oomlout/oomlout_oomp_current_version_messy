@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | risk |  
-| bip_39_word_new_br10 | risk<br>empty<br>mail<br>tonight<br>siege<br>next<br>load<br>profit<br>toddler<br>drastic |  
-| bip_39_word_new_br11 | risk<br>empty<br>mail<br>tonight<br>siege<br>next<br>load<br>profit<br>toddler<br>drastic<br>lesson |  
-| bip_39_word_new_br12 | risk<br>empty<br>mail<br>tonight<br>siege<br>next<br>load<br>profit<br>toddler<br>drastic<br>lesson<br>annual |  
-| bip_39_word_new_br2 | risk<br>empty |  
-| bip_39_word_new_br3 | risk<br>empty<br>mail |  
-| bip_39_word_new_br4 | risk<br>empty<br>mail<br>tonight |  
-| bip_39_word_new_br5 | risk<br>empty<br>mail<br>tonight<br>siege |  
-| bip_39_word_new_br6 | risk<br>empty<br>mail<br>tonight<br>siege<br>next |  
-| bip_39_word_new_br7 | risk<br>empty<br>mail<br>tonight<br>siege<br>next<br>load |  
-| bip_39_word_new_br8 | risk<br>empty<br>mail<br>tonight<br>siege<br>next<br>load<br>profit |  
-| bip_39_word_new_br9 | risk<br>empty<br>mail<br>tonight<br>siege<br>next<br>load<br>profit<br>toddler |  
-| bip_39_word_new_line1 | risk |  
-| bip_39_word_new_line10 | risk
+| bip_39_word_new_br_1 | risk |  
+| bip_39_word_new_br_10 | risk<br>empty<br>mail<br>tonight<br>siege<br>next<br>load<br>profit<br>toddler<br>drastic |  
+| bip_39_word_new_br_11 | risk<br>empty<br>mail<br>tonight<br>siege<br>next<br>load<br>profit<br>toddler<br>drastic<br>lesson |  
+| bip_39_word_new_br_12 | risk<br>empty<br>mail<br>tonight<br>siege<br>next<br>load<br>profit<br>toddler<br>drastic<br>lesson<br>annual |  
+| bip_39_word_new_br_2 | risk<br>empty |  
+| bip_39_word_new_br_3 | risk<br>empty<br>mail |  
+| bip_39_word_new_br_4 | risk<br>empty<br>mail<br>tonight |  
+| bip_39_word_new_br_5 | risk<br>empty<br>mail<br>tonight<br>siege |  
+| bip_39_word_new_br_6 | risk<br>empty<br>mail<br>tonight<br>siege<br>next |  
+| bip_39_word_new_br_7 | risk<br>empty<br>mail<br>tonight<br>siege<br>next<br>load |  
+| bip_39_word_new_br_8 | risk<br>empty<br>mail<br>tonight<br>siege<br>next<br>load<br>profit |  
+| bip_39_word_new_br_9 | risk<br>empty<br>mail<br>tonight<br>siege<br>next<br>load<br>profit<br>toddler |  
+| bip_39_word_new_line_1 | risk |  
+| bip_39_word_new_line_10 | risk
 empty
 mail
 tonight
@@ -55,7 +55,7 @@ load
 profit
 toddler
 drastic |  
-| bip_39_word_new_line11 | risk
+| bip_39_word_new_line_11 | risk
 empty
 mail
 tonight
@@ -66,7 +66,7 @@ profit
 toddler
 drastic
 lesson |  
-| bip_39_word_new_line12 | risk
+| bip_39_word_new_line_12 | risk
 empty
 mail
 tonight
@@ -78,34 +78,34 @@ toddler
 drastic
 lesson
 annual |  
-| bip_39_word_new_line2 | risk
+| bip_39_word_new_line_2 | risk
 empty |  
-| bip_39_word_new_line3 | risk
+| bip_39_word_new_line_3 | risk
 empty
 mail |  
-| bip_39_word_new_line4 | risk
+| bip_39_word_new_line_4 | risk
 empty
 mail
 tonight |  
-| bip_39_word_new_line5 | risk
+| bip_39_word_new_line_5 | risk
 empty
 mail
 tonight
 siege |  
-| bip_39_word_new_line6 | risk
+| bip_39_word_new_line_6 | risk
 empty
 mail
 tonight
 siege
 next |  
-| bip_39_word_new_line7 | risk
+| bip_39_word_new_line_7 | risk
 empty
 mail
 tonight
 siege
 next
 load |  
-| bip_39_word_new_line8 | risk
+| bip_39_word_new_line_8 | risk
 empty
 mail
 tonight
@@ -113,7 +113,7 @@ siege
 next
 load
 profit |  
-| bip_39_word_new_line9 | risk
+| bip_39_word_new_line_9 | risk
 empty
 mail
 tonight

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | town |  
-| bip_39_word_new_br10 | town<br>bounce<br>have<br>hammer<br>maple<br>stem<br>friend<br>hole<br>reduce<br>sword |  
-| bip_39_word_new_br11 | town<br>bounce<br>have<br>hammer<br>maple<br>stem<br>friend<br>hole<br>reduce<br>sword<br>sound |  
-| bip_39_word_new_br12 | town<br>bounce<br>have<br>hammer<br>maple<br>stem<br>friend<br>hole<br>reduce<br>sword<br>sound<br>age |  
-| bip_39_word_new_br2 | town<br>bounce |  
-| bip_39_word_new_br3 | town<br>bounce<br>have |  
-| bip_39_word_new_br4 | town<br>bounce<br>have<br>hammer |  
-| bip_39_word_new_br5 | town<br>bounce<br>have<br>hammer<br>maple |  
-| bip_39_word_new_br6 | town<br>bounce<br>have<br>hammer<br>maple<br>stem |  
-| bip_39_word_new_br7 | town<br>bounce<br>have<br>hammer<br>maple<br>stem<br>friend |  
-| bip_39_word_new_br8 | town<br>bounce<br>have<br>hammer<br>maple<br>stem<br>friend<br>hole |  
-| bip_39_word_new_br9 | town<br>bounce<br>have<br>hammer<br>maple<br>stem<br>friend<br>hole<br>reduce |  
-| bip_39_word_new_line1 | town |  
-| bip_39_word_new_line10 | town
+| bip_39_word_new_br_1 | town |  
+| bip_39_word_new_br_10 | town<br>bounce<br>have<br>hammer<br>maple<br>stem<br>friend<br>hole<br>reduce<br>sword |  
+| bip_39_word_new_br_11 | town<br>bounce<br>have<br>hammer<br>maple<br>stem<br>friend<br>hole<br>reduce<br>sword<br>sound |  
+| bip_39_word_new_br_12 | town<br>bounce<br>have<br>hammer<br>maple<br>stem<br>friend<br>hole<br>reduce<br>sword<br>sound<br>age |  
+| bip_39_word_new_br_2 | town<br>bounce |  
+| bip_39_word_new_br_3 | town<br>bounce<br>have |  
+| bip_39_word_new_br_4 | town<br>bounce<br>have<br>hammer |  
+| bip_39_word_new_br_5 | town<br>bounce<br>have<br>hammer<br>maple |  
+| bip_39_word_new_br_6 | town<br>bounce<br>have<br>hammer<br>maple<br>stem |  
+| bip_39_word_new_br_7 | town<br>bounce<br>have<br>hammer<br>maple<br>stem<br>friend |  
+| bip_39_word_new_br_8 | town<br>bounce<br>have<br>hammer<br>maple<br>stem<br>friend<br>hole |  
+| bip_39_word_new_br_9 | town<br>bounce<br>have<br>hammer<br>maple<br>stem<br>friend<br>hole<br>reduce |  
+| bip_39_word_new_line_1 | town |  
+| bip_39_word_new_line_10 | town
 bounce
 have
 hammer
@@ -55,7 +55,7 @@ friend
 hole
 reduce
 sword |  
-| bip_39_word_new_line11 | town
+| bip_39_word_new_line_11 | town
 bounce
 have
 hammer
@@ -66,7 +66,7 @@ hole
 reduce
 sword
 sound |  
-| bip_39_word_new_line12 | town
+| bip_39_word_new_line_12 | town
 bounce
 have
 hammer
@@ -78,34 +78,34 @@ reduce
 sword
 sound
 age |  
-| bip_39_word_new_line2 | town
+| bip_39_word_new_line_2 | town
 bounce |  
-| bip_39_word_new_line3 | town
+| bip_39_word_new_line_3 | town
 bounce
 have |  
-| bip_39_word_new_line4 | town
+| bip_39_word_new_line_4 | town
 bounce
 have
 hammer |  
-| bip_39_word_new_line5 | town
+| bip_39_word_new_line_5 | town
 bounce
 have
 hammer
 maple |  
-| bip_39_word_new_line6 | town
+| bip_39_word_new_line_6 | town
 bounce
 have
 hammer
 maple
 stem |  
-| bip_39_word_new_line7 | town
+| bip_39_word_new_line_7 | town
 bounce
 have
 hammer
 maple
 stem
 friend |  
-| bip_39_word_new_line8 | town
+| bip_39_word_new_line_8 | town
 bounce
 have
 hammer
@@ -113,7 +113,7 @@ maple
 stem
 friend
 hole |  
-| bip_39_word_new_line9 | town
+| bip_39_word_new_line_9 | town
 bounce
 have
 hammer

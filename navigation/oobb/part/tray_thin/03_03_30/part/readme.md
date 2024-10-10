@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | black |  
-| bip_39_word_new_br10 | black<br>despair<br>this<br>sea<br>leg<br>toast<br>sword<br>embrace<br>business<br>priority |  
-| bip_39_word_new_br11 | black<br>despair<br>this<br>sea<br>leg<br>toast<br>sword<br>embrace<br>business<br>priority<br>imitate |  
-| bip_39_word_new_br12 | black<br>despair<br>this<br>sea<br>leg<br>toast<br>sword<br>embrace<br>business<br>priority<br>imitate<br>aunt |  
-| bip_39_word_new_br2 | black<br>despair |  
-| bip_39_word_new_br3 | black<br>despair<br>this |  
-| bip_39_word_new_br4 | black<br>despair<br>this<br>sea |  
-| bip_39_word_new_br5 | black<br>despair<br>this<br>sea<br>leg |  
-| bip_39_word_new_br6 | black<br>despair<br>this<br>sea<br>leg<br>toast |  
-| bip_39_word_new_br7 | black<br>despair<br>this<br>sea<br>leg<br>toast<br>sword |  
-| bip_39_word_new_br8 | black<br>despair<br>this<br>sea<br>leg<br>toast<br>sword<br>embrace |  
-| bip_39_word_new_br9 | black<br>despair<br>this<br>sea<br>leg<br>toast<br>sword<br>embrace<br>business |  
-| bip_39_word_new_line1 | black |  
-| bip_39_word_new_line10 | black
+| bip_39_word_new_br_1 | black |  
+| bip_39_word_new_br_10 | black<br>despair<br>this<br>sea<br>leg<br>toast<br>sword<br>embrace<br>business<br>priority |  
+| bip_39_word_new_br_11 | black<br>despair<br>this<br>sea<br>leg<br>toast<br>sword<br>embrace<br>business<br>priority<br>imitate |  
+| bip_39_word_new_br_12 | black<br>despair<br>this<br>sea<br>leg<br>toast<br>sword<br>embrace<br>business<br>priority<br>imitate<br>aunt |  
+| bip_39_word_new_br_2 | black<br>despair |  
+| bip_39_word_new_br_3 | black<br>despair<br>this |  
+| bip_39_word_new_br_4 | black<br>despair<br>this<br>sea |  
+| bip_39_word_new_br_5 | black<br>despair<br>this<br>sea<br>leg |  
+| bip_39_word_new_br_6 | black<br>despair<br>this<br>sea<br>leg<br>toast |  
+| bip_39_word_new_br_7 | black<br>despair<br>this<br>sea<br>leg<br>toast<br>sword |  
+| bip_39_word_new_br_8 | black<br>despair<br>this<br>sea<br>leg<br>toast<br>sword<br>embrace |  
+| bip_39_word_new_br_9 | black<br>despair<br>this<br>sea<br>leg<br>toast<br>sword<br>embrace<br>business |  
+| bip_39_word_new_line_1 | black |  
+| bip_39_word_new_line_10 | black
 despair
 this
 sea
@@ -55,7 +55,7 @@ sword
 embrace
 business
 priority |  
-| bip_39_word_new_line11 | black
+| bip_39_word_new_line_11 | black
 despair
 this
 sea
@@ -66,7 +66,7 @@ embrace
 business
 priority
 imitate |  
-| bip_39_word_new_line12 | black
+| bip_39_word_new_line_12 | black
 despair
 this
 sea
@@ -78,34 +78,34 @@ business
 priority
 imitate
 aunt |  
-| bip_39_word_new_line2 | black
+| bip_39_word_new_line_2 | black
 despair |  
-| bip_39_word_new_line3 | black
+| bip_39_word_new_line_3 | black
 despair
 this |  
-| bip_39_word_new_line4 | black
+| bip_39_word_new_line_4 | black
 despair
 this
 sea |  
-| bip_39_word_new_line5 | black
+| bip_39_word_new_line_5 | black
 despair
 this
 sea
 leg |  
-| bip_39_word_new_line6 | black
+| bip_39_word_new_line_6 | black
 despair
 this
 sea
 leg
 toast |  
-| bip_39_word_new_line7 | black
+| bip_39_word_new_line_7 | black
 despair
 this
 sea
 leg
 toast
 sword |  
-| bip_39_word_new_line8 | black
+| bip_39_word_new_line_8 | black
 despair
 this
 sea
@@ -113,7 +113,7 @@ leg
 toast
 sword
 embrace |  
-| bip_39_word_new_line9 | black
+| bip_39_word_new_line_9 | black
 despair
 this
 sea

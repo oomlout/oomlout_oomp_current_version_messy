@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | awkward |  
-| bip_39_word_new_br10 | awkward<br>explain<br>cotton<br>effort<br>evil<br>need<br>much<br>tourist<br>reunion<br>exhaust |  
-| bip_39_word_new_br11 | awkward<br>explain<br>cotton<br>effort<br>evil<br>need<br>much<br>tourist<br>reunion<br>exhaust<br>biology |  
-| bip_39_word_new_br12 | awkward<br>explain<br>cotton<br>effort<br>evil<br>need<br>much<br>tourist<br>reunion<br>exhaust<br>biology<br>atom |  
-| bip_39_word_new_br2 | awkward<br>explain |  
-| bip_39_word_new_br3 | awkward<br>explain<br>cotton |  
-| bip_39_word_new_br4 | awkward<br>explain<br>cotton<br>effort |  
-| bip_39_word_new_br5 | awkward<br>explain<br>cotton<br>effort<br>evil |  
-| bip_39_word_new_br6 | awkward<br>explain<br>cotton<br>effort<br>evil<br>need |  
-| bip_39_word_new_br7 | awkward<br>explain<br>cotton<br>effort<br>evil<br>need<br>much |  
-| bip_39_word_new_br8 | awkward<br>explain<br>cotton<br>effort<br>evil<br>need<br>much<br>tourist |  
-| bip_39_word_new_br9 | awkward<br>explain<br>cotton<br>effort<br>evil<br>need<br>much<br>tourist<br>reunion |  
-| bip_39_word_new_line1 | awkward |  
-| bip_39_word_new_line10 | awkward
+| bip_39_word_new_br_1 | awkward |  
+| bip_39_word_new_br_10 | awkward<br>explain<br>cotton<br>effort<br>evil<br>need<br>much<br>tourist<br>reunion<br>exhaust |  
+| bip_39_word_new_br_11 | awkward<br>explain<br>cotton<br>effort<br>evil<br>need<br>much<br>tourist<br>reunion<br>exhaust<br>biology |  
+| bip_39_word_new_br_12 | awkward<br>explain<br>cotton<br>effort<br>evil<br>need<br>much<br>tourist<br>reunion<br>exhaust<br>biology<br>atom |  
+| bip_39_word_new_br_2 | awkward<br>explain |  
+| bip_39_word_new_br_3 | awkward<br>explain<br>cotton |  
+| bip_39_word_new_br_4 | awkward<br>explain<br>cotton<br>effort |  
+| bip_39_word_new_br_5 | awkward<br>explain<br>cotton<br>effort<br>evil |  
+| bip_39_word_new_br_6 | awkward<br>explain<br>cotton<br>effort<br>evil<br>need |  
+| bip_39_word_new_br_7 | awkward<br>explain<br>cotton<br>effort<br>evil<br>need<br>much |  
+| bip_39_word_new_br_8 | awkward<br>explain<br>cotton<br>effort<br>evil<br>need<br>much<br>tourist |  
+| bip_39_word_new_br_9 | awkward<br>explain<br>cotton<br>effort<br>evil<br>need<br>much<br>tourist<br>reunion |  
+| bip_39_word_new_line_1 | awkward |  
+| bip_39_word_new_line_10 | awkward
 explain
 cotton
 effort
@@ -55,7 +55,7 @@ much
 tourist
 reunion
 exhaust |  
-| bip_39_word_new_line11 | awkward
+| bip_39_word_new_line_11 | awkward
 explain
 cotton
 effort
@@ -66,7 +66,7 @@ tourist
 reunion
 exhaust
 biology |  
-| bip_39_word_new_line12 | awkward
+| bip_39_word_new_line_12 | awkward
 explain
 cotton
 effort
@@ -78,34 +78,34 @@ reunion
 exhaust
 biology
 atom |  
-| bip_39_word_new_line2 | awkward
+| bip_39_word_new_line_2 | awkward
 explain |  
-| bip_39_word_new_line3 | awkward
+| bip_39_word_new_line_3 | awkward
 explain
 cotton |  
-| bip_39_word_new_line4 | awkward
+| bip_39_word_new_line_4 | awkward
 explain
 cotton
 effort |  
-| bip_39_word_new_line5 | awkward
+| bip_39_word_new_line_5 | awkward
 explain
 cotton
 effort
 evil |  
-| bip_39_word_new_line6 | awkward
+| bip_39_word_new_line_6 | awkward
 explain
 cotton
 effort
 evil
 need |  
-| bip_39_word_new_line7 | awkward
+| bip_39_word_new_line_7 | awkward
 explain
 cotton
 effort
 evil
 need
 much |  
-| bip_39_word_new_line8 | awkward
+| bip_39_word_new_line_8 | awkward
 explain
 cotton
 effort
@@ -113,7 +113,7 @@ evil
 need
 much
 tourist |  
-| bip_39_word_new_line9 | awkward
+| bip_39_word_new_line_9 | awkward
 explain
 cotton
 effort

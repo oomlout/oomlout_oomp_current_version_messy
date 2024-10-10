@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | march |  
-| bip_39_word_new_br10 | march<br>staff<br>recall<br>pulp<br>egg<br>cloud<br>misery<br>owner<br>giggle<br>echo |  
-| bip_39_word_new_br11 | march<br>staff<br>recall<br>pulp<br>egg<br>cloud<br>misery<br>owner<br>giggle<br>echo<br>system |  
-| bip_39_word_new_br12 | march<br>staff<br>recall<br>pulp<br>egg<br>cloud<br>misery<br>owner<br>giggle<br>echo<br>system<br>alter |  
-| bip_39_word_new_br2 | march<br>staff |  
-| bip_39_word_new_br3 | march<br>staff<br>recall |  
-| bip_39_word_new_br4 | march<br>staff<br>recall<br>pulp |  
-| bip_39_word_new_br5 | march<br>staff<br>recall<br>pulp<br>egg |  
-| bip_39_word_new_br6 | march<br>staff<br>recall<br>pulp<br>egg<br>cloud |  
-| bip_39_word_new_br7 | march<br>staff<br>recall<br>pulp<br>egg<br>cloud<br>misery |  
-| bip_39_word_new_br8 | march<br>staff<br>recall<br>pulp<br>egg<br>cloud<br>misery<br>owner |  
-| bip_39_word_new_br9 | march<br>staff<br>recall<br>pulp<br>egg<br>cloud<br>misery<br>owner<br>giggle |  
-| bip_39_word_new_line1 | march |  
-| bip_39_word_new_line10 | march
+| bip_39_word_new_br_1 | march |  
+| bip_39_word_new_br_10 | march<br>staff<br>recall<br>pulp<br>egg<br>cloud<br>misery<br>owner<br>giggle<br>echo |  
+| bip_39_word_new_br_11 | march<br>staff<br>recall<br>pulp<br>egg<br>cloud<br>misery<br>owner<br>giggle<br>echo<br>system |  
+| bip_39_word_new_br_12 | march<br>staff<br>recall<br>pulp<br>egg<br>cloud<br>misery<br>owner<br>giggle<br>echo<br>system<br>alter |  
+| bip_39_word_new_br_2 | march<br>staff |  
+| bip_39_word_new_br_3 | march<br>staff<br>recall |  
+| bip_39_word_new_br_4 | march<br>staff<br>recall<br>pulp |  
+| bip_39_word_new_br_5 | march<br>staff<br>recall<br>pulp<br>egg |  
+| bip_39_word_new_br_6 | march<br>staff<br>recall<br>pulp<br>egg<br>cloud |  
+| bip_39_word_new_br_7 | march<br>staff<br>recall<br>pulp<br>egg<br>cloud<br>misery |  
+| bip_39_word_new_br_8 | march<br>staff<br>recall<br>pulp<br>egg<br>cloud<br>misery<br>owner |  
+| bip_39_word_new_br_9 | march<br>staff<br>recall<br>pulp<br>egg<br>cloud<br>misery<br>owner<br>giggle |  
+| bip_39_word_new_line_1 | march |  
+| bip_39_word_new_line_10 | march
 staff
 recall
 pulp
@@ -55,7 +55,7 @@ misery
 owner
 giggle
 echo |  
-| bip_39_word_new_line11 | march
+| bip_39_word_new_line_11 | march
 staff
 recall
 pulp
@@ -66,7 +66,7 @@ owner
 giggle
 echo
 system |  
-| bip_39_word_new_line12 | march
+| bip_39_word_new_line_12 | march
 staff
 recall
 pulp
@@ -78,34 +78,34 @@ giggle
 echo
 system
 alter |  
-| bip_39_word_new_line2 | march
+| bip_39_word_new_line_2 | march
 staff |  
-| bip_39_word_new_line3 | march
+| bip_39_word_new_line_3 | march
 staff
 recall |  
-| bip_39_word_new_line4 | march
+| bip_39_word_new_line_4 | march
 staff
 recall
 pulp |  
-| bip_39_word_new_line5 | march
+| bip_39_word_new_line_5 | march
 staff
 recall
 pulp
 egg |  
-| bip_39_word_new_line6 | march
+| bip_39_word_new_line_6 | march
 staff
 recall
 pulp
 egg
 cloud |  
-| bip_39_word_new_line7 | march
+| bip_39_word_new_line_7 | march
 staff
 recall
 pulp
 egg
 cloud
 misery |  
-| bip_39_word_new_line8 | march
+| bip_39_word_new_line_8 | march
 staff
 recall
 pulp
@@ -113,7 +113,7 @@ egg
 cloud
 misery
 owner |  
-| bip_39_word_new_line9 | march
+| bip_39_word_new_line_9 | march
 staff
 recall
 pulp

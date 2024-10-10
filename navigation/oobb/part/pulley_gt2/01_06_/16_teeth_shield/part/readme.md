@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | section |  
-| bip_39_word_new_br10 | section<br>robot<br>staff<br>dinner<br>depart<br>salon<br>unlock<br>betray<br>liberty<br>lucky |  
-| bip_39_word_new_br11 | section<br>robot<br>staff<br>dinner<br>depart<br>salon<br>unlock<br>betray<br>liberty<br>lucky<br>absent |  
-| bip_39_word_new_br12 | section<br>robot<br>staff<br>dinner<br>depart<br>salon<br>unlock<br>betray<br>liberty<br>lucky<br>absent<br>audit |  
-| bip_39_word_new_br2 | section<br>robot |  
-| bip_39_word_new_br3 | section<br>robot<br>staff |  
-| bip_39_word_new_br4 | section<br>robot<br>staff<br>dinner |  
-| bip_39_word_new_br5 | section<br>robot<br>staff<br>dinner<br>depart |  
-| bip_39_word_new_br6 | section<br>robot<br>staff<br>dinner<br>depart<br>salon |  
-| bip_39_word_new_br7 | section<br>robot<br>staff<br>dinner<br>depart<br>salon<br>unlock |  
-| bip_39_word_new_br8 | section<br>robot<br>staff<br>dinner<br>depart<br>salon<br>unlock<br>betray |  
-| bip_39_word_new_br9 | section<br>robot<br>staff<br>dinner<br>depart<br>salon<br>unlock<br>betray<br>liberty |  
-| bip_39_word_new_line1 | section |  
-| bip_39_word_new_line10 | section
+| bip_39_word_new_br_1 | section |  
+| bip_39_word_new_br_10 | section<br>robot<br>staff<br>dinner<br>depart<br>salon<br>unlock<br>betray<br>liberty<br>lucky |  
+| bip_39_word_new_br_11 | section<br>robot<br>staff<br>dinner<br>depart<br>salon<br>unlock<br>betray<br>liberty<br>lucky<br>absent |  
+| bip_39_word_new_br_12 | section<br>robot<br>staff<br>dinner<br>depart<br>salon<br>unlock<br>betray<br>liberty<br>lucky<br>absent<br>audit |  
+| bip_39_word_new_br_2 | section<br>robot |  
+| bip_39_word_new_br_3 | section<br>robot<br>staff |  
+| bip_39_word_new_br_4 | section<br>robot<br>staff<br>dinner |  
+| bip_39_word_new_br_5 | section<br>robot<br>staff<br>dinner<br>depart |  
+| bip_39_word_new_br_6 | section<br>robot<br>staff<br>dinner<br>depart<br>salon |  
+| bip_39_word_new_br_7 | section<br>robot<br>staff<br>dinner<br>depart<br>salon<br>unlock |  
+| bip_39_word_new_br_8 | section<br>robot<br>staff<br>dinner<br>depart<br>salon<br>unlock<br>betray |  
+| bip_39_word_new_br_9 | section<br>robot<br>staff<br>dinner<br>depart<br>salon<br>unlock<br>betray<br>liberty |  
+| bip_39_word_new_line_1 | section |  
+| bip_39_word_new_line_10 | section
 robot
 staff
 dinner
@@ -55,7 +55,7 @@ unlock
 betray
 liberty
 lucky |  
-| bip_39_word_new_line11 | section
+| bip_39_word_new_line_11 | section
 robot
 staff
 dinner
@@ -66,7 +66,7 @@ betray
 liberty
 lucky
 absent |  
-| bip_39_word_new_line12 | section
+| bip_39_word_new_line_12 | section
 robot
 staff
 dinner
@@ -78,34 +78,34 @@ liberty
 lucky
 absent
 audit |  
-| bip_39_word_new_line2 | section
+| bip_39_word_new_line_2 | section
 robot |  
-| bip_39_word_new_line3 | section
+| bip_39_word_new_line_3 | section
 robot
 staff |  
-| bip_39_word_new_line4 | section
+| bip_39_word_new_line_4 | section
 robot
 staff
 dinner |  
-| bip_39_word_new_line5 | section
+| bip_39_word_new_line_5 | section
 robot
 staff
 dinner
 depart |  
-| bip_39_word_new_line6 | section
+| bip_39_word_new_line_6 | section
 robot
 staff
 dinner
 depart
 salon |  
-| bip_39_word_new_line7 | section
+| bip_39_word_new_line_7 | section
 robot
 staff
 dinner
 depart
 salon
 unlock |  
-| bip_39_word_new_line8 | section
+| bip_39_word_new_line_8 | section
 robot
 staff
 dinner
@@ -113,7 +113,7 @@ depart
 salon
 unlock
 betray |  
-| bip_39_word_new_line9 | section
+| bip_39_word_new_line_9 | section
 robot
 staff
 dinner

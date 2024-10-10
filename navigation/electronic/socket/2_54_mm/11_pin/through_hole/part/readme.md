@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | lock |  
-| bip_39_word_new_br10 | lock<br>term<br>useful<br>uphold<br>flame<br>horror<br>place<br>quote<br>poet<br>describe |  
-| bip_39_word_new_br11 | lock<br>term<br>useful<br>uphold<br>flame<br>horror<br>place<br>quote<br>poet<br>describe<br>leg |  
-| bip_39_word_new_br12 | lock<br>term<br>useful<br>uphold<br>flame<br>horror<br>place<br>quote<br>poet<br>describe<br>leg<br>aim |  
-| bip_39_word_new_br2 | lock<br>term |  
-| bip_39_word_new_br3 | lock<br>term<br>useful |  
-| bip_39_word_new_br4 | lock<br>term<br>useful<br>uphold |  
-| bip_39_word_new_br5 | lock<br>term<br>useful<br>uphold<br>flame |  
-| bip_39_word_new_br6 | lock<br>term<br>useful<br>uphold<br>flame<br>horror |  
-| bip_39_word_new_br7 | lock<br>term<br>useful<br>uphold<br>flame<br>horror<br>place |  
-| bip_39_word_new_br8 | lock<br>term<br>useful<br>uphold<br>flame<br>horror<br>place<br>quote |  
-| bip_39_word_new_br9 | lock<br>term<br>useful<br>uphold<br>flame<br>horror<br>place<br>quote<br>poet |  
-| bip_39_word_new_line1 | lock |  
-| bip_39_word_new_line10 | lock
+| bip_39_word_new_br_1 | lock |  
+| bip_39_word_new_br_10 | lock<br>term<br>useful<br>uphold<br>flame<br>horror<br>place<br>quote<br>poet<br>describe |  
+| bip_39_word_new_br_11 | lock<br>term<br>useful<br>uphold<br>flame<br>horror<br>place<br>quote<br>poet<br>describe<br>leg |  
+| bip_39_word_new_br_12 | lock<br>term<br>useful<br>uphold<br>flame<br>horror<br>place<br>quote<br>poet<br>describe<br>leg<br>aim |  
+| bip_39_word_new_br_2 | lock<br>term |  
+| bip_39_word_new_br_3 | lock<br>term<br>useful |  
+| bip_39_word_new_br_4 | lock<br>term<br>useful<br>uphold |  
+| bip_39_word_new_br_5 | lock<br>term<br>useful<br>uphold<br>flame |  
+| bip_39_word_new_br_6 | lock<br>term<br>useful<br>uphold<br>flame<br>horror |  
+| bip_39_word_new_br_7 | lock<br>term<br>useful<br>uphold<br>flame<br>horror<br>place |  
+| bip_39_word_new_br_8 | lock<br>term<br>useful<br>uphold<br>flame<br>horror<br>place<br>quote |  
+| bip_39_word_new_br_9 | lock<br>term<br>useful<br>uphold<br>flame<br>horror<br>place<br>quote<br>poet |  
+| bip_39_word_new_line_1 | lock |  
+| bip_39_word_new_line_10 | lock
 term
 useful
 uphold
@@ -55,7 +55,7 @@ place
 quote
 poet
 describe |  
-| bip_39_word_new_line11 | lock
+| bip_39_word_new_line_11 | lock
 term
 useful
 uphold
@@ -66,7 +66,7 @@ quote
 poet
 describe
 leg |  
-| bip_39_word_new_line12 | lock
+| bip_39_word_new_line_12 | lock
 term
 useful
 uphold
@@ -78,34 +78,34 @@ poet
 describe
 leg
 aim |  
-| bip_39_word_new_line2 | lock
+| bip_39_word_new_line_2 | lock
 term |  
-| bip_39_word_new_line3 | lock
+| bip_39_word_new_line_3 | lock
 term
 useful |  
-| bip_39_word_new_line4 | lock
+| bip_39_word_new_line_4 | lock
 term
 useful
 uphold |  
-| bip_39_word_new_line5 | lock
+| bip_39_word_new_line_5 | lock
 term
 useful
 uphold
 flame |  
-| bip_39_word_new_line6 | lock
+| bip_39_word_new_line_6 | lock
 term
 useful
 uphold
 flame
 horror |  
-| bip_39_word_new_line7 | lock
+| bip_39_word_new_line_7 | lock
 term
 useful
 uphold
 flame
 horror
 place |  
-| bip_39_word_new_line8 | lock
+| bip_39_word_new_line_8 | lock
 term
 useful
 uphold
@@ -113,7 +113,7 @@ flame
 horror
 place
 quote |  
-| bip_39_word_new_line9 | lock
+| bip_39_word_new_line_9 | lock
 term
 useful
 uphold

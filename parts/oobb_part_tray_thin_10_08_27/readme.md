@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pass |  
-| bip_39_word_new_br10 | pass<br>clean<br>parent<br>interest<br>seven<br>silk<br>timber<br>addict<br>galaxy<br>dune |  
-| bip_39_word_new_br11 | pass<br>clean<br>parent<br>interest<br>seven<br>silk<br>timber<br>addict<br>galaxy<br>dune<br>lumber |  
-| bip_39_word_new_br12 | pass<br>clean<br>parent<br>interest<br>seven<br>silk<br>timber<br>addict<br>galaxy<br>dune<br>lumber<br>amount |  
-| bip_39_word_new_br2 | pass<br>clean |  
-| bip_39_word_new_br3 | pass<br>clean<br>parent |  
-| bip_39_word_new_br4 | pass<br>clean<br>parent<br>interest |  
-| bip_39_word_new_br5 | pass<br>clean<br>parent<br>interest<br>seven |  
-| bip_39_word_new_br6 | pass<br>clean<br>parent<br>interest<br>seven<br>silk |  
-| bip_39_word_new_br7 | pass<br>clean<br>parent<br>interest<br>seven<br>silk<br>timber |  
-| bip_39_word_new_br8 | pass<br>clean<br>parent<br>interest<br>seven<br>silk<br>timber<br>addict |  
-| bip_39_word_new_br9 | pass<br>clean<br>parent<br>interest<br>seven<br>silk<br>timber<br>addict<br>galaxy |  
-| bip_39_word_new_line1 | pass |  
-| bip_39_word_new_line10 | pass
+| bip_39_word_new_br_1 | pass |  
+| bip_39_word_new_br_10 | pass<br>clean<br>parent<br>interest<br>seven<br>silk<br>timber<br>addict<br>galaxy<br>dune |  
+| bip_39_word_new_br_11 | pass<br>clean<br>parent<br>interest<br>seven<br>silk<br>timber<br>addict<br>galaxy<br>dune<br>lumber |  
+| bip_39_word_new_br_12 | pass<br>clean<br>parent<br>interest<br>seven<br>silk<br>timber<br>addict<br>galaxy<br>dune<br>lumber<br>amount |  
+| bip_39_word_new_br_2 | pass<br>clean |  
+| bip_39_word_new_br_3 | pass<br>clean<br>parent |  
+| bip_39_word_new_br_4 | pass<br>clean<br>parent<br>interest |  
+| bip_39_word_new_br_5 | pass<br>clean<br>parent<br>interest<br>seven |  
+| bip_39_word_new_br_6 | pass<br>clean<br>parent<br>interest<br>seven<br>silk |  
+| bip_39_word_new_br_7 | pass<br>clean<br>parent<br>interest<br>seven<br>silk<br>timber |  
+| bip_39_word_new_br_8 | pass<br>clean<br>parent<br>interest<br>seven<br>silk<br>timber<br>addict |  
+| bip_39_word_new_br_9 | pass<br>clean<br>parent<br>interest<br>seven<br>silk<br>timber<br>addict<br>galaxy |  
+| bip_39_word_new_line_1 | pass |  
+| bip_39_word_new_line_10 | pass
 clean
 parent
 interest
@@ -55,7 +55,7 @@ timber
 addict
 galaxy
 dune |  
-| bip_39_word_new_line11 | pass
+| bip_39_word_new_line_11 | pass
 clean
 parent
 interest
@@ -66,7 +66,7 @@ addict
 galaxy
 dune
 lumber |  
-| bip_39_word_new_line12 | pass
+| bip_39_word_new_line_12 | pass
 clean
 parent
 interest
@@ -78,34 +78,34 @@ galaxy
 dune
 lumber
 amount |  
-| bip_39_word_new_line2 | pass
+| bip_39_word_new_line_2 | pass
 clean |  
-| bip_39_word_new_line3 | pass
+| bip_39_word_new_line_3 | pass
 clean
 parent |  
-| bip_39_word_new_line4 | pass
+| bip_39_word_new_line_4 | pass
 clean
 parent
 interest |  
-| bip_39_word_new_line5 | pass
+| bip_39_word_new_line_5 | pass
 clean
 parent
 interest
 seven |  
-| bip_39_word_new_line6 | pass
+| bip_39_word_new_line_6 | pass
 clean
 parent
 interest
 seven
 silk |  
-| bip_39_word_new_line7 | pass
+| bip_39_word_new_line_7 | pass
 clean
 parent
 interest
 seven
 silk
 timber |  
-| bip_39_word_new_line8 | pass
+| bip_39_word_new_line_8 | pass
 clean
 parent
 interest
@@ -113,7 +113,7 @@ seven
 silk
 timber
 addict |  
-| bip_39_word_new_line9 | pass
+| bip_39_word_new_line_9 | pass
 clean
 parent
 interest

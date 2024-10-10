@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | crew |  
-| bip_39_word_new_br10 | crew<br>coral<br>cream<br>agent<br>reflect<br>exist<br>buddy<br>glare<br>civil<br>episode |  
-| bip_39_word_new_br11 | crew<br>coral<br>cream<br>agent<br>reflect<br>exist<br>buddy<br>glare<br>civil<br>episode<br>axis |  
-| bip_39_word_new_br12 | crew<br>coral<br>cream<br>agent<br>reflect<br>exist<br>buddy<br>glare<br>civil<br>episode<br>axis<br>aunt |  
-| bip_39_word_new_br2 | crew<br>coral |  
-| bip_39_word_new_br3 | crew<br>coral<br>cream |  
-| bip_39_word_new_br4 | crew<br>coral<br>cream<br>agent |  
-| bip_39_word_new_br5 | crew<br>coral<br>cream<br>agent<br>reflect |  
-| bip_39_word_new_br6 | crew<br>coral<br>cream<br>agent<br>reflect<br>exist |  
-| bip_39_word_new_br7 | crew<br>coral<br>cream<br>agent<br>reflect<br>exist<br>buddy |  
-| bip_39_word_new_br8 | crew<br>coral<br>cream<br>agent<br>reflect<br>exist<br>buddy<br>glare |  
-| bip_39_word_new_br9 | crew<br>coral<br>cream<br>agent<br>reflect<br>exist<br>buddy<br>glare<br>civil |  
-| bip_39_word_new_line1 | crew |  
-| bip_39_word_new_line10 | crew
+| bip_39_word_new_br_1 | crew |  
+| bip_39_word_new_br_10 | crew<br>coral<br>cream<br>agent<br>reflect<br>exist<br>buddy<br>glare<br>civil<br>episode |  
+| bip_39_word_new_br_11 | crew<br>coral<br>cream<br>agent<br>reflect<br>exist<br>buddy<br>glare<br>civil<br>episode<br>axis |  
+| bip_39_word_new_br_12 | crew<br>coral<br>cream<br>agent<br>reflect<br>exist<br>buddy<br>glare<br>civil<br>episode<br>axis<br>aunt |  
+| bip_39_word_new_br_2 | crew<br>coral |  
+| bip_39_word_new_br_3 | crew<br>coral<br>cream |  
+| bip_39_word_new_br_4 | crew<br>coral<br>cream<br>agent |  
+| bip_39_word_new_br_5 | crew<br>coral<br>cream<br>agent<br>reflect |  
+| bip_39_word_new_br_6 | crew<br>coral<br>cream<br>agent<br>reflect<br>exist |  
+| bip_39_word_new_br_7 | crew<br>coral<br>cream<br>agent<br>reflect<br>exist<br>buddy |  
+| bip_39_word_new_br_8 | crew<br>coral<br>cream<br>agent<br>reflect<br>exist<br>buddy<br>glare |  
+| bip_39_word_new_br_9 | crew<br>coral<br>cream<br>agent<br>reflect<br>exist<br>buddy<br>glare<br>civil |  
+| bip_39_word_new_line_1 | crew |  
+| bip_39_word_new_line_10 | crew
 coral
 cream
 agent
@@ -55,7 +55,7 @@ buddy
 glare
 civil
 episode |  
-| bip_39_word_new_line11 | crew
+| bip_39_word_new_line_11 | crew
 coral
 cream
 agent
@@ -66,7 +66,7 @@ glare
 civil
 episode
 axis |  
-| bip_39_word_new_line12 | crew
+| bip_39_word_new_line_12 | crew
 coral
 cream
 agent
@@ -78,34 +78,34 @@ civil
 episode
 axis
 aunt |  
-| bip_39_word_new_line2 | crew
+| bip_39_word_new_line_2 | crew
 coral |  
-| bip_39_word_new_line3 | crew
+| bip_39_word_new_line_3 | crew
 coral
 cream |  
-| bip_39_word_new_line4 | crew
+| bip_39_word_new_line_4 | crew
 coral
 cream
 agent |  
-| bip_39_word_new_line5 | crew
+| bip_39_word_new_line_5 | crew
 coral
 cream
 agent
 reflect |  
-| bip_39_word_new_line6 | crew
+| bip_39_word_new_line_6 | crew
 coral
 cream
 agent
 reflect
 exist |  
-| bip_39_word_new_line7 | crew
+| bip_39_word_new_line_7 | crew
 coral
 cream
 agent
 reflect
 exist
 buddy |  
-| bip_39_word_new_line8 | crew
+| bip_39_word_new_line_8 | crew
 coral
 cream
 agent
@@ -113,7 +113,7 @@ reflect
 exist
 buddy
 glare |  
-| bip_39_word_new_line9 | crew
+| bip_39_word_new_line_9 | crew
 coral
 cream
 agent

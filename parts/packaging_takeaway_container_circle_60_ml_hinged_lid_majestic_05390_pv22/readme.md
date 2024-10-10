@@ -34,20 +34,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bubble |  
-| bip_39_word_new_br10 | bubble<br>item<br>cube<br>list<br>attend<br>city<br>imitate<br>exchange<br>mango<br>nominee |  
-| bip_39_word_new_br11 | bubble<br>item<br>cube<br>list<br>attend<br>city<br>imitate<br>exchange<br>mango<br>nominee<br>garbage |  
-| bip_39_word_new_br12 | bubble<br>item<br>cube<br>list<br>attend<br>city<br>imitate<br>exchange<br>mango<br>nominee<br>garbage<br>actor |  
-| bip_39_word_new_br2 | bubble<br>item |  
-| bip_39_word_new_br3 | bubble<br>item<br>cube |  
-| bip_39_word_new_br4 | bubble<br>item<br>cube<br>list |  
-| bip_39_word_new_br5 | bubble<br>item<br>cube<br>list<br>attend |  
-| bip_39_word_new_br6 | bubble<br>item<br>cube<br>list<br>attend<br>city |  
-| bip_39_word_new_br7 | bubble<br>item<br>cube<br>list<br>attend<br>city<br>imitate |  
-| bip_39_word_new_br8 | bubble<br>item<br>cube<br>list<br>attend<br>city<br>imitate<br>exchange |  
-| bip_39_word_new_br9 | bubble<br>item<br>cube<br>list<br>attend<br>city<br>imitate<br>exchange<br>mango |  
-| bip_39_word_new_line1 | bubble |  
-| bip_39_word_new_line10 | bubble
+| bip_39_word_new_br_1 | bubble |  
+| bip_39_word_new_br_10 | bubble<br>item<br>cube<br>list<br>attend<br>city<br>imitate<br>exchange<br>mango<br>nominee |  
+| bip_39_word_new_br_11 | bubble<br>item<br>cube<br>list<br>attend<br>city<br>imitate<br>exchange<br>mango<br>nominee<br>garbage |  
+| bip_39_word_new_br_12 | bubble<br>item<br>cube<br>list<br>attend<br>city<br>imitate<br>exchange<br>mango<br>nominee<br>garbage<br>actor |  
+| bip_39_word_new_br_2 | bubble<br>item |  
+| bip_39_word_new_br_3 | bubble<br>item<br>cube |  
+| bip_39_word_new_br_4 | bubble<br>item<br>cube<br>list |  
+| bip_39_word_new_br_5 | bubble<br>item<br>cube<br>list<br>attend |  
+| bip_39_word_new_br_6 | bubble<br>item<br>cube<br>list<br>attend<br>city |  
+| bip_39_word_new_br_7 | bubble<br>item<br>cube<br>list<br>attend<br>city<br>imitate |  
+| bip_39_word_new_br_8 | bubble<br>item<br>cube<br>list<br>attend<br>city<br>imitate<br>exchange |  
+| bip_39_word_new_br_9 | bubble<br>item<br>cube<br>list<br>attend<br>city<br>imitate<br>exchange<br>mango |  
+| bip_39_word_new_line_1 | bubble |  
+| bip_39_word_new_line_10 | bubble
 item
 cube
 list
@@ -57,7 +57,7 @@ imitate
 exchange
 mango
 nominee |  
-| bip_39_word_new_line11 | bubble
+| bip_39_word_new_line_11 | bubble
 item
 cube
 list
@@ -68,7 +68,7 @@ exchange
 mango
 nominee
 garbage |  
-| bip_39_word_new_line12 | bubble
+| bip_39_word_new_line_12 | bubble
 item
 cube
 list
@@ -80,34 +80,34 @@ mango
 nominee
 garbage
 actor |  
-| bip_39_word_new_line2 | bubble
+| bip_39_word_new_line_2 | bubble
 item |  
-| bip_39_word_new_line3 | bubble
+| bip_39_word_new_line_3 | bubble
 item
 cube |  
-| bip_39_word_new_line4 | bubble
+| bip_39_word_new_line_4 | bubble
 item
 cube
 list |  
-| bip_39_word_new_line5 | bubble
+| bip_39_word_new_line_5 | bubble
 item
 cube
 list
 attend |  
-| bip_39_word_new_line6 | bubble
+| bip_39_word_new_line_6 | bubble
 item
 cube
 list
 attend
 city |  
-| bip_39_word_new_line7 | bubble
+| bip_39_word_new_line_7 | bubble
 item
 cube
 list
 attend
 city
 imitate |  
-| bip_39_word_new_line8 | bubble
+| bip_39_word_new_line_8 | bubble
 item
 cube
 list
@@ -115,7 +115,7 @@ attend
 city
 imitate
 exchange |  
-| bip_39_word_new_line9 | bubble
+| bip_39_word_new_line_9 | bubble
 item
 cube
 list

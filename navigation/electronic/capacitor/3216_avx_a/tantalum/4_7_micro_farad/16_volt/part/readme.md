@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hope |  
-| bip_39_word_new_br10 | hope<br>claim<br>prison<br>veteran<br>inherit<br>element<br>spike<br>minor<br>heavy<br>push |  
-| bip_39_word_new_br11 | hope<br>claim<br>prison<br>veteran<br>inherit<br>element<br>spike<br>minor<br>heavy<br>push<br>month |  
-| bip_39_word_new_br12 | hope<br>claim<br>prison<br>veteran<br>inherit<br>element<br>spike<br>minor<br>heavy<br>push<br>month<br>announce |  
-| bip_39_word_new_br2 | hope<br>claim |  
-| bip_39_word_new_br3 | hope<br>claim<br>prison |  
-| bip_39_word_new_br4 | hope<br>claim<br>prison<br>veteran |  
-| bip_39_word_new_br5 | hope<br>claim<br>prison<br>veteran<br>inherit |  
-| bip_39_word_new_br6 | hope<br>claim<br>prison<br>veteran<br>inherit<br>element |  
-| bip_39_word_new_br7 | hope<br>claim<br>prison<br>veteran<br>inherit<br>element<br>spike |  
-| bip_39_word_new_br8 | hope<br>claim<br>prison<br>veteran<br>inherit<br>element<br>spike<br>minor |  
-| bip_39_word_new_br9 | hope<br>claim<br>prison<br>veteran<br>inherit<br>element<br>spike<br>minor<br>heavy |  
-| bip_39_word_new_line1 | hope |  
-| bip_39_word_new_line10 | hope
+| bip_39_word_new_br_1 | hope |  
+| bip_39_word_new_br_10 | hope<br>claim<br>prison<br>veteran<br>inherit<br>element<br>spike<br>minor<br>heavy<br>push |  
+| bip_39_word_new_br_11 | hope<br>claim<br>prison<br>veteran<br>inherit<br>element<br>spike<br>minor<br>heavy<br>push<br>month |  
+| bip_39_word_new_br_12 | hope<br>claim<br>prison<br>veteran<br>inherit<br>element<br>spike<br>minor<br>heavy<br>push<br>month<br>announce |  
+| bip_39_word_new_br_2 | hope<br>claim |  
+| bip_39_word_new_br_3 | hope<br>claim<br>prison |  
+| bip_39_word_new_br_4 | hope<br>claim<br>prison<br>veteran |  
+| bip_39_word_new_br_5 | hope<br>claim<br>prison<br>veteran<br>inherit |  
+| bip_39_word_new_br_6 | hope<br>claim<br>prison<br>veteran<br>inherit<br>element |  
+| bip_39_word_new_br_7 | hope<br>claim<br>prison<br>veteran<br>inherit<br>element<br>spike |  
+| bip_39_word_new_br_8 | hope<br>claim<br>prison<br>veteran<br>inherit<br>element<br>spike<br>minor |  
+| bip_39_word_new_br_9 | hope<br>claim<br>prison<br>veteran<br>inherit<br>element<br>spike<br>minor<br>heavy |  
+| bip_39_word_new_line_1 | hope |  
+| bip_39_word_new_line_10 | hope
 claim
 prison
 veteran
@@ -55,7 +55,7 @@ spike
 minor
 heavy
 push |  
-| bip_39_word_new_line11 | hope
+| bip_39_word_new_line_11 | hope
 claim
 prison
 veteran
@@ -66,7 +66,7 @@ minor
 heavy
 push
 month |  
-| bip_39_word_new_line12 | hope
+| bip_39_word_new_line_12 | hope
 claim
 prison
 veteran
@@ -78,34 +78,34 @@ heavy
 push
 month
 announce |  
-| bip_39_word_new_line2 | hope
+| bip_39_word_new_line_2 | hope
 claim |  
-| bip_39_word_new_line3 | hope
+| bip_39_word_new_line_3 | hope
 claim
 prison |  
-| bip_39_word_new_line4 | hope
+| bip_39_word_new_line_4 | hope
 claim
 prison
 veteran |  
-| bip_39_word_new_line5 | hope
+| bip_39_word_new_line_5 | hope
 claim
 prison
 veteran
 inherit |  
-| bip_39_word_new_line6 | hope
+| bip_39_word_new_line_6 | hope
 claim
 prison
 veteran
 inherit
 element |  
-| bip_39_word_new_line7 | hope
+| bip_39_word_new_line_7 | hope
 claim
 prison
 veteran
 inherit
 element
 spike |  
-| bip_39_word_new_line8 | hope
+| bip_39_word_new_line_8 | hope
 claim
 prison
 veteran
@@ -113,7 +113,7 @@ inherit
 element
 spike
 minor |  
-| bip_39_word_new_line9 | hope
+| bip_39_word_new_line_9 | hope
 claim
 prison
 veteran

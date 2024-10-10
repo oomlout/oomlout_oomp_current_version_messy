@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | clinic |  
-| bip_39_word_new_br10 | clinic<br>festival<br>author<br>amused<br>baby<br>laugh<br>magic<br>begin<br>income<br>taste |  
-| bip_39_word_new_br11 | clinic<br>festival<br>author<br>amused<br>baby<br>laugh<br>magic<br>begin<br>income<br>taste<br>execute |  
-| bip_39_word_new_br12 | clinic<br>festival<br>author<br>amused<br>baby<br>laugh<br>magic<br>begin<br>income<br>taste<br>execute<br>armed |  
-| bip_39_word_new_br2 | clinic<br>festival |  
-| bip_39_word_new_br3 | clinic<br>festival<br>author |  
-| bip_39_word_new_br4 | clinic<br>festival<br>author<br>amused |  
-| bip_39_word_new_br5 | clinic<br>festival<br>author<br>amused<br>baby |  
-| bip_39_word_new_br6 | clinic<br>festival<br>author<br>amused<br>baby<br>laugh |  
-| bip_39_word_new_br7 | clinic<br>festival<br>author<br>amused<br>baby<br>laugh<br>magic |  
-| bip_39_word_new_br8 | clinic<br>festival<br>author<br>amused<br>baby<br>laugh<br>magic<br>begin |  
-| bip_39_word_new_br9 | clinic<br>festival<br>author<br>amused<br>baby<br>laugh<br>magic<br>begin<br>income |  
-| bip_39_word_new_line1 | clinic |  
-| bip_39_word_new_line10 | clinic
+| bip_39_word_new_br_1 | clinic |  
+| bip_39_word_new_br_10 | clinic<br>festival<br>author<br>amused<br>baby<br>laugh<br>magic<br>begin<br>income<br>taste |  
+| bip_39_word_new_br_11 | clinic<br>festival<br>author<br>amused<br>baby<br>laugh<br>magic<br>begin<br>income<br>taste<br>execute |  
+| bip_39_word_new_br_12 | clinic<br>festival<br>author<br>amused<br>baby<br>laugh<br>magic<br>begin<br>income<br>taste<br>execute<br>armed |  
+| bip_39_word_new_br_2 | clinic<br>festival |  
+| bip_39_word_new_br_3 | clinic<br>festival<br>author |  
+| bip_39_word_new_br_4 | clinic<br>festival<br>author<br>amused |  
+| bip_39_word_new_br_5 | clinic<br>festival<br>author<br>amused<br>baby |  
+| bip_39_word_new_br_6 | clinic<br>festival<br>author<br>amused<br>baby<br>laugh |  
+| bip_39_word_new_br_7 | clinic<br>festival<br>author<br>amused<br>baby<br>laugh<br>magic |  
+| bip_39_word_new_br_8 | clinic<br>festival<br>author<br>amused<br>baby<br>laugh<br>magic<br>begin |  
+| bip_39_word_new_br_9 | clinic<br>festival<br>author<br>amused<br>baby<br>laugh<br>magic<br>begin<br>income |  
+| bip_39_word_new_line_1 | clinic |  
+| bip_39_word_new_line_10 | clinic
 festival
 author
 amused
@@ -55,7 +55,7 @@ magic
 begin
 income
 taste |  
-| bip_39_word_new_line11 | clinic
+| bip_39_word_new_line_11 | clinic
 festival
 author
 amused
@@ -66,7 +66,7 @@ begin
 income
 taste
 execute |  
-| bip_39_word_new_line12 | clinic
+| bip_39_word_new_line_12 | clinic
 festival
 author
 amused
@@ -78,34 +78,34 @@ income
 taste
 execute
 armed |  
-| bip_39_word_new_line2 | clinic
+| bip_39_word_new_line_2 | clinic
 festival |  
-| bip_39_word_new_line3 | clinic
+| bip_39_word_new_line_3 | clinic
 festival
 author |  
-| bip_39_word_new_line4 | clinic
+| bip_39_word_new_line_4 | clinic
 festival
 author
 amused |  
-| bip_39_word_new_line5 | clinic
+| bip_39_word_new_line_5 | clinic
 festival
 author
 amused
 baby |  
-| bip_39_word_new_line6 | clinic
+| bip_39_word_new_line_6 | clinic
 festival
 author
 amused
 baby
 laugh |  
-| bip_39_word_new_line7 | clinic
+| bip_39_word_new_line_7 | clinic
 festival
 author
 amused
 baby
 laugh
 magic |  
-| bip_39_word_new_line8 | clinic
+| bip_39_word_new_line_8 | clinic
 festival
 author
 amused
@@ -113,7 +113,7 @@ baby
 laugh
 magic
 begin |  
-| bip_39_word_new_line9 | clinic
+| bip_39_word_new_line_9 | clinic
 festival
 author
 amused

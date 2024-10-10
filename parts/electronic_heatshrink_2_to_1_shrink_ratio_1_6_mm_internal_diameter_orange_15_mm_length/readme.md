@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | snow |  
-| bip_39_word_new_br10 | snow<br>donkey<br>cute<br>host<br>teach<br>public<br>olympic<br>dose<br>bacon<br>clock |  
-| bip_39_word_new_br11 | snow<br>donkey<br>cute<br>host<br>teach<br>public<br>olympic<br>dose<br>bacon<br>clock<br>cash |  
-| bip_39_word_new_br12 | snow<br>donkey<br>cute<br>host<br>teach<br>public<br>olympic<br>dose<br>bacon<br>clock<br>cash<br>act |  
-| bip_39_word_new_br2 | snow<br>donkey |  
-| bip_39_word_new_br3 | snow<br>donkey<br>cute |  
-| bip_39_word_new_br4 | snow<br>donkey<br>cute<br>host |  
-| bip_39_word_new_br5 | snow<br>donkey<br>cute<br>host<br>teach |  
-| bip_39_word_new_br6 | snow<br>donkey<br>cute<br>host<br>teach<br>public |  
-| bip_39_word_new_br7 | snow<br>donkey<br>cute<br>host<br>teach<br>public<br>olympic |  
-| bip_39_word_new_br8 | snow<br>donkey<br>cute<br>host<br>teach<br>public<br>olympic<br>dose |  
-| bip_39_word_new_br9 | snow<br>donkey<br>cute<br>host<br>teach<br>public<br>olympic<br>dose<br>bacon |  
-| bip_39_word_new_line1 | snow |  
-| bip_39_word_new_line10 | snow
+| bip_39_word_new_br_1 | snow |  
+| bip_39_word_new_br_10 | snow<br>donkey<br>cute<br>host<br>teach<br>public<br>olympic<br>dose<br>bacon<br>clock |  
+| bip_39_word_new_br_11 | snow<br>donkey<br>cute<br>host<br>teach<br>public<br>olympic<br>dose<br>bacon<br>clock<br>cash |  
+| bip_39_word_new_br_12 | snow<br>donkey<br>cute<br>host<br>teach<br>public<br>olympic<br>dose<br>bacon<br>clock<br>cash<br>act |  
+| bip_39_word_new_br_2 | snow<br>donkey |  
+| bip_39_word_new_br_3 | snow<br>donkey<br>cute |  
+| bip_39_word_new_br_4 | snow<br>donkey<br>cute<br>host |  
+| bip_39_word_new_br_5 | snow<br>donkey<br>cute<br>host<br>teach |  
+| bip_39_word_new_br_6 | snow<br>donkey<br>cute<br>host<br>teach<br>public |  
+| bip_39_word_new_br_7 | snow<br>donkey<br>cute<br>host<br>teach<br>public<br>olympic |  
+| bip_39_word_new_br_8 | snow<br>donkey<br>cute<br>host<br>teach<br>public<br>olympic<br>dose |  
+| bip_39_word_new_br_9 | snow<br>donkey<br>cute<br>host<br>teach<br>public<br>olympic<br>dose<br>bacon |  
+| bip_39_word_new_line_1 | snow |  
+| bip_39_word_new_line_10 | snow
 donkey
 cute
 host
@@ -55,7 +55,7 @@ olympic
 dose
 bacon
 clock |  
-| bip_39_word_new_line11 | snow
+| bip_39_word_new_line_11 | snow
 donkey
 cute
 host
@@ -66,7 +66,7 @@ dose
 bacon
 clock
 cash |  
-| bip_39_word_new_line12 | snow
+| bip_39_word_new_line_12 | snow
 donkey
 cute
 host
@@ -78,34 +78,34 @@ bacon
 clock
 cash
 act |  
-| bip_39_word_new_line2 | snow
+| bip_39_word_new_line_2 | snow
 donkey |  
-| bip_39_word_new_line3 | snow
+| bip_39_word_new_line_3 | snow
 donkey
 cute |  
-| bip_39_word_new_line4 | snow
+| bip_39_word_new_line_4 | snow
 donkey
 cute
 host |  
-| bip_39_word_new_line5 | snow
+| bip_39_word_new_line_5 | snow
 donkey
 cute
 host
 teach |  
-| bip_39_word_new_line6 | snow
+| bip_39_word_new_line_6 | snow
 donkey
 cute
 host
 teach
 public |  
-| bip_39_word_new_line7 | snow
+| bip_39_word_new_line_7 | snow
 donkey
 cute
 host
 teach
 public
 olympic |  
-| bip_39_word_new_line8 | snow
+| bip_39_word_new_line_8 | snow
 donkey
 cute
 host
@@ -113,7 +113,7 @@ teach
 public
 olympic
 dose |  
-| bip_39_word_new_line9 | snow
+| bip_39_word_new_line_9 | snow
 donkey
 cute
 host

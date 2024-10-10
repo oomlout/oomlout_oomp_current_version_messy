@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | warrior |  
-| bip_39_word_new_br10 | warrior<br>pretty<br>tonight<br>hat<br>wealth<br>actual<br>empower<br>buffalo<br>ready<br>pretty |  
-| bip_39_word_new_br11 | warrior<br>pretty<br>tonight<br>hat<br>wealth<br>actual<br>empower<br>buffalo<br>ready<br>pretty<br>response |  
-| bip_39_word_new_br12 | warrior<br>pretty<br>tonight<br>hat<br>wealth<br>actual<br>empower<br>buffalo<br>ready<br>pretty<br>response<br>actress |  
-| bip_39_word_new_br2 | warrior<br>pretty |  
-| bip_39_word_new_br3 | warrior<br>pretty<br>tonight |  
-| bip_39_word_new_br4 | warrior<br>pretty<br>tonight<br>hat |  
-| bip_39_word_new_br5 | warrior<br>pretty<br>tonight<br>hat<br>wealth |  
-| bip_39_word_new_br6 | warrior<br>pretty<br>tonight<br>hat<br>wealth<br>actual |  
-| bip_39_word_new_br7 | warrior<br>pretty<br>tonight<br>hat<br>wealth<br>actual<br>empower |  
-| bip_39_word_new_br8 | warrior<br>pretty<br>tonight<br>hat<br>wealth<br>actual<br>empower<br>buffalo |  
-| bip_39_word_new_br9 | warrior<br>pretty<br>tonight<br>hat<br>wealth<br>actual<br>empower<br>buffalo<br>ready |  
-| bip_39_word_new_line1 | warrior |  
-| bip_39_word_new_line10 | warrior
+| bip_39_word_new_br_1 | warrior |  
+| bip_39_word_new_br_10 | warrior<br>pretty<br>tonight<br>hat<br>wealth<br>actual<br>empower<br>buffalo<br>ready<br>pretty |  
+| bip_39_word_new_br_11 | warrior<br>pretty<br>tonight<br>hat<br>wealth<br>actual<br>empower<br>buffalo<br>ready<br>pretty<br>response |  
+| bip_39_word_new_br_12 | warrior<br>pretty<br>tonight<br>hat<br>wealth<br>actual<br>empower<br>buffalo<br>ready<br>pretty<br>response<br>actress |  
+| bip_39_word_new_br_2 | warrior<br>pretty |  
+| bip_39_word_new_br_3 | warrior<br>pretty<br>tonight |  
+| bip_39_word_new_br_4 | warrior<br>pretty<br>tonight<br>hat |  
+| bip_39_word_new_br_5 | warrior<br>pretty<br>tonight<br>hat<br>wealth |  
+| bip_39_word_new_br_6 | warrior<br>pretty<br>tonight<br>hat<br>wealth<br>actual |  
+| bip_39_word_new_br_7 | warrior<br>pretty<br>tonight<br>hat<br>wealth<br>actual<br>empower |  
+| bip_39_word_new_br_8 | warrior<br>pretty<br>tonight<br>hat<br>wealth<br>actual<br>empower<br>buffalo |  
+| bip_39_word_new_br_9 | warrior<br>pretty<br>tonight<br>hat<br>wealth<br>actual<br>empower<br>buffalo<br>ready |  
+| bip_39_word_new_line_1 | warrior |  
+| bip_39_word_new_line_10 | warrior
 pretty
 tonight
 hat
@@ -55,7 +55,7 @@ empower
 buffalo
 ready
 pretty |  
-| bip_39_word_new_line11 | warrior
+| bip_39_word_new_line_11 | warrior
 pretty
 tonight
 hat
@@ -66,7 +66,7 @@ buffalo
 ready
 pretty
 response |  
-| bip_39_word_new_line12 | warrior
+| bip_39_word_new_line_12 | warrior
 pretty
 tonight
 hat
@@ -78,34 +78,34 @@ ready
 pretty
 response
 actress |  
-| bip_39_word_new_line2 | warrior
+| bip_39_word_new_line_2 | warrior
 pretty |  
-| bip_39_word_new_line3 | warrior
+| bip_39_word_new_line_3 | warrior
 pretty
 tonight |  
-| bip_39_word_new_line4 | warrior
+| bip_39_word_new_line_4 | warrior
 pretty
 tonight
 hat |  
-| bip_39_word_new_line5 | warrior
+| bip_39_word_new_line_5 | warrior
 pretty
 tonight
 hat
 wealth |  
-| bip_39_word_new_line6 | warrior
+| bip_39_word_new_line_6 | warrior
 pretty
 tonight
 hat
 wealth
 actual |  
-| bip_39_word_new_line7 | warrior
+| bip_39_word_new_line_7 | warrior
 pretty
 tonight
 hat
 wealth
 actual
 empower |  
-| bip_39_word_new_line8 | warrior
+| bip_39_word_new_line_8 | warrior
 pretty
 tonight
 hat
@@ -113,7 +113,7 @@ wealth
 actual
 empower
 buffalo |  
-| bip_39_word_new_line9 | warrior
+| bip_39_word_new_line_9 | warrior
 pretty
 tonight
 hat

@@ -1,17 +1,17 @@
-bip_39_word_new_br1: alert
-bip_39_word_new_br10: alert<br>embrace<br>arrest<br>meadow<br>liberty<br>panel<br>quick<br>warfare<br>sure<br>quote
-bip_39_word_new_br11: alert<br>embrace<br>arrest<br>meadow<br>liberty<br>panel<br>quick<br>warfare<br>sure<br>quote<br>zoo
-bip_39_word_new_br12: alert<br>embrace<br>arrest<br>meadow<br>liberty<br>panel<br>quick<br>warfare<br>sure<br>quote<br>zoo<br>always
-bip_39_word_new_br2: alert<br>embrace
-bip_39_word_new_br3: alert<br>embrace<br>arrest
-bip_39_word_new_br4: alert<br>embrace<br>arrest<br>meadow
-bip_39_word_new_br5: alert<br>embrace<br>arrest<br>meadow<br>liberty
-bip_39_word_new_br6: alert<br>embrace<br>arrest<br>meadow<br>liberty<br>panel
-bip_39_word_new_br7: alert<br>embrace<br>arrest<br>meadow<br>liberty<br>panel<br>quick
-bip_39_word_new_br8: alert<br>embrace<br>arrest<br>meadow<br>liberty<br>panel<br>quick<br>warfare
-bip_39_word_new_br9: alert<br>embrace<br>arrest<br>meadow<br>liberty<br>panel<br>quick<br>warfare<br>sure
-bip_39_word_new_line1: alert
-bip_39_word_new_line10: 'alert
+bip_39_word_new_br_1: alert
+bip_39_word_new_br_10: alert<br>embrace<br>arrest<br>meadow<br>liberty<br>panel<br>quick<br>warfare<br>sure<br>quote
+bip_39_word_new_br_11: alert<br>embrace<br>arrest<br>meadow<br>liberty<br>panel<br>quick<br>warfare<br>sure<br>quote<br>zoo
+bip_39_word_new_br_12: alert<br>embrace<br>arrest<br>meadow<br>liberty<br>panel<br>quick<br>warfare<br>sure<br>quote<br>zoo<br>always
+bip_39_word_new_br_2: alert<br>embrace
+bip_39_word_new_br_3: alert<br>embrace<br>arrest
+bip_39_word_new_br_4: alert<br>embrace<br>arrest<br>meadow
+bip_39_word_new_br_5: alert<br>embrace<br>arrest<br>meadow<br>liberty
+bip_39_word_new_br_6: alert<br>embrace<br>arrest<br>meadow<br>liberty<br>panel
+bip_39_word_new_br_7: alert<br>embrace<br>arrest<br>meadow<br>liberty<br>panel<br>quick
+bip_39_word_new_br_8: alert<br>embrace<br>arrest<br>meadow<br>liberty<br>panel<br>quick<br>warfare
+bip_39_word_new_br_9: alert<br>embrace<br>arrest<br>meadow<br>liberty<br>panel<br>quick<br>warfare<br>sure
+bip_39_word_new_line_1: alert
+bip_39_word_new_line_10: 'alert
 
   embrace
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'alert
   sure
 
   quote'
-bip_39_word_new_line11: 'alert
+bip_39_word_new_line_11: 'alert
 
   embrace
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'alert
   quote
 
   zoo'
-bip_39_word_new_line12: 'alert
+bip_39_word_new_line_12: 'alert
 
   embrace
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'alert
   zoo
 
   always'
-bip_39_word_new_line2: 'alert
+bip_39_word_new_line_2: 'alert
 
   embrace'
-bip_39_word_new_line3: 'alert
+bip_39_word_new_line_3: 'alert
 
   embrace
 
   arrest'
-bip_39_word_new_line4: 'alert
+bip_39_word_new_line_4: 'alert
 
   embrace
 
   arrest
 
   meadow'
-bip_39_word_new_line5: 'alert
+bip_39_word_new_line_5: 'alert
 
   embrace
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'alert
   meadow
 
   liberty'
-bip_39_word_new_line6: 'alert
+bip_39_word_new_line_6: 'alert
 
   embrace
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'alert
   liberty
 
   panel'
-bip_39_word_new_line7: 'alert
+bip_39_word_new_line_7: 'alert
 
   embrace
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'alert
   panel
 
   quick'
-bip_39_word_new_line8: 'alert
+bip_39_word_new_line_8: 'alert
 
   embrace
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'alert
   quick
 
   warfare'
-bip_39_word_new_line9: 'alert
+bip_39_word_new_line_9: 'alert
 
   embrace
 

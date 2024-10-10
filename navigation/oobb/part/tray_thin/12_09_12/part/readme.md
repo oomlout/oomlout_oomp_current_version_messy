@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | episode |  
-| bip_39_word_new_br10 | episode<br>dinosaur<br>hunt<br>sugar<br>fatal<br>lens<br>smile<br>feel<br>collect<br>false |  
-| bip_39_word_new_br11 | episode<br>dinosaur<br>hunt<br>sugar<br>fatal<br>lens<br>smile<br>feel<br>collect<br>false<br>camp |  
-| bip_39_word_new_br12 | episode<br>dinosaur<br>hunt<br>sugar<br>fatal<br>lens<br>smile<br>feel<br>collect<br>false<br>camp<br>athlete |  
-| bip_39_word_new_br2 | episode<br>dinosaur |  
-| bip_39_word_new_br3 | episode<br>dinosaur<br>hunt |  
-| bip_39_word_new_br4 | episode<br>dinosaur<br>hunt<br>sugar |  
-| bip_39_word_new_br5 | episode<br>dinosaur<br>hunt<br>sugar<br>fatal |  
-| bip_39_word_new_br6 | episode<br>dinosaur<br>hunt<br>sugar<br>fatal<br>lens |  
-| bip_39_word_new_br7 | episode<br>dinosaur<br>hunt<br>sugar<br>fatal<br>lens<br>smile |  
-| bip_39_word_new_br8 | episode<br>dinosaur<br>hunt<br>sugar<br>fatal<br>lens<br>smile<br>feel |  
-| bip_39_word_new_br9 | episode<br>dinosaur<br>hunt<br>sugar<br>fatal<br>lens<br>smile<br>feel<br>collect |  
-| bip_39_word_new_line1 | episode |  
-| bip_39_word_new_line10 | episode
+| bip_39_word_new_br_1 | episode |  
+| bip_39_word_new_br_10 | episode<br>dinosaur<br>hunt<br>sugar<br>fatal<br>lens<br>smile<br>feel<br>collect<br>false |  
+| bip_39_word_new_br_11 | episode<br>dinosaur<br>hunt<br>sugar<br>fatal<br>lens<br>smile<br>feel<br>collect<br>false<br>camp |  
+| bip_39_word_new_br_12 | episode<br>dinosaur<br>hunt<br>sugar<br>fatal<br>lens<br>smile<br>feel<br>collect<br>false<br>camp<br>athlete |  
+| bip_39_word_new_br_2 | episode<br>dinosaur |  
+| bip_39_word_new_br_3 | episode<br>dinosaur<br>hunt |  
+| bip_39_word_new_br_4 | episode<br>dinosaur<br>hunt<br>sugar |  
+| bip_39_word_new_br_5 | episode<br>dinosaur<br>hunt<br>sugar<br>fatal |  
+| bip_39_word_new_br_6 | episode<br>dinosaur<br>hunt<br>sugar<br>fatal<br>lens |  
+| bip_39_word_new_br_7 | episode<br>dinosaur<br>hunt<br>sugar<br>fatal<br>lens<br>smile |  
+| bip_39_word_new_br_8 | episode<br>dinosaur<br>hunt<br>sugar<br>fatal<br>lens<br>smile<br>feel |  
+| bip_39_word_new_br_9 | episode<br>dinosaur<br>hunt<br>sugar<br>fatal<br>lens<br>smile<br>feel<br>collect |  
+| bip_39_word_new_line_1 | episode |  
+| bip_39_word_new_line_10 | episode
 dinosaur
 hunt
 sugar
@@ -55,7 +55,7 @@ smile
 feel
 collect
 false |  
-| bip_39_word_new_line11 | episode
+| bip_39_word_new_line_11 | episode
 dinosaur
 hunt
 sugar
@@ -66,7 +66,7 @@ feel
 collect
 false
 camp |  
-| bip_39_word_new_line12 | episode
+| bip_39_word_new_line_12 | episode
 dinosaur
 hunt
 sugar
@@ -78,34 +78,34 @@ collect
 false
 camp
 athlete |  
-| bip_39_word_new_line2 | episode
+| bip_39_word_new_line_2 | episode
 dinosaur |  
-| bip_39_word_new_line3 | episode
+| bip_39_word_new_line_3 | episode
 dinosaur
 hunt |  
-| bip_39_word_new_line4 | episode
+| bip_39_word_new_line_4 | episode
 dinosaur
 hunt
 sugar |  
-| bip_39_word_new_line5 | episode
+| bip_39_word_new_line_5 | episode
 dinosaur
 hunt
 sugar
 fatal |  
-| bip_39_word_new_line6 | episode
+| bip_39_word_new_line_6 | episode
 dinosaur
 hunt
 sugar
 fatal
 lens |  
-| bip_39_word_new_line7 | episode
+| bip_39_word_new_line_7 | episode
 dinosaur
 hunt
 sugar
 fatal
 lens
 smile |  
-| bip_39_word_new_line8 | episode
+| bip_39_word_new_line_8 | episode
 dinosaur
 hunt
 sugar
@@ -113,7 +113,7 @@ fatal
 lens
 smile
 feel |  
-| bip_39_word_new_line9 | episode
+| bip_39_word_new_line_9 | episode
 dinosaur
 hunt
 sugar

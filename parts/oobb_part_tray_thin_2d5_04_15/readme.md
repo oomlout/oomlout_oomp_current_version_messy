@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | square |  
-| bip_39_word_new_br10 | square<br>cream<br>observe<br>cement<br>life<br>cherry<br>pen<br>pretty<br>lady<br>seat |  
-| bip_39_word_new_br11 | square<br>cream<br>observe<br>cement<br>life<br>cherry<br>pen<br>pretty<br>lady<br>seat<br>riot |  
-| bip_39_word_new_br12 | square<br>cream<br>observe<br>cement<br>life<br>cherry<br>pen<br>pretty<br>lady<br>seat<br>riot<br>agent |  
-| bip_39_word_new_br2 | square<br>cream |  
-| bip_39_word_new_br3 | square<br>cream<br>observe |  
-| bip_39_word_new_br4 | square<br>cream<br>observe<br>cement |  
-| bip_39_word_new_br5 | square<br>cream<br>observe<br>cement<br>life |  
-| bip_39_word_new_br6 | square<br>cream<br>observe<br>cement<br>life<br>cherry |  
-| bip_39_word_new_br7 | square<br>cream<br>observe<br>cement<br>life<br>cherry<br>pen |  
-| bip_39_word_new_br8 | square<br>cream<br>observe<br>cement<br>life<br>cherry<br>pen<br>pretty |  
-| bip_39_word_new_br9 | square<br>cream<br>observe<br>cement<br>life<br>cherry<br>pen<br>pretty<br>lady |  
-| bip_39_word_new_line1 | square |  
-| bip_39_word_new_line10 | square
+| bip_39_word_new_br_1 | square |  
+| bip_39_word_new_br_10 | square<br>cream<br>observe<br>cement<br>life<br>cherry<br>pen<br>pretty<br>lady<br>seat |  
+| bip_39_word_new_br_11 | square<br>cream<br>observe<br>cement<br>life<br>cherry<br>pen<br>pretty<br>lady<br>seat<br>riot |  
+| bip_39_word_new_br_12 | square<br>cream<br>observe<br>cement<br>life<br>cherry<br>pen<br>pretty<br>lady<br>seat<br>riot<br>agent |  
+| bip_39_word_new_br_2 | square<br>cream |  
+| bip_39_word_new_br_3 | square<br>cream<br>observe |  
+| bip_39_word_new_br_4 | square<br>cream<br>observe<br>cement |  
+| bip_39_word_new_br_5 | square<br>cream<br>observe<br>cement<br>life |  
+| bip_39_word_new_br_6 | square<br>cream<br>observe<br>cement<br>life<br>cherry |  
+| bip_39_word_new_br_7 | square<br>cream<br>observe<br>cement<br>life<br>cherry<br>pen |  
+| bip_39_word_new_br_8 | square<br>cream<br>observe<br>cement<br>life<br>cherry<br>pen<br>pretty |  
+| bip_39_word_new_br_9 | square<br>cream<br>observe<br>cement<br>life<br>cherry<br>pen<br>pretty<br>lady |  
+| bip_39_word_new_line_1 | square |  
+| bip_39_word_new_line_10 | square
 cream
 observe
 cement
@@ -55,7 +55,7 @@ pen
 pretty
 lady
 seat |  
-| bip_39_word_new_line11 | square
+| bip_39_word_new_line_11 | square
 cream
 observe
 cement
@@ -66,7 +66,7 @@ pretty
 lady
 seat
 riot |  
-| bip_39_word_new_line12 | square
+| bip_39_word_new_line_12 | square
 cream
 observe
 cement
@@ -78,34 +78,34 @@ lady
 seat
 riot
 agent |  
-| bip_39_word_new_line2 | square
+| bip_39_word_new_line_2 | square
 cream |  
-| bip_39_word_new_line3 | square
+| bip_39_word_new_line_3 | square
 cream
 observe |  
-| bip_39_word_new_line4 | square
+| bip_39_word_new_line_4 | square
 cream
 observe
 cement |  
-| bip_39_word_new_line5 | square
+| bip_39_word_new_line_5 | square
 cream
 observe
 cement
 life |  
-| bip_39_word_new_line6 | square
+| bip_39_word_new_line_6 | square
 cream
 observe
 cement
 life
 cherry |  
-| bip_39_word_new_line7 | square
+| bip_39_word_new_line_7 | square
 cream
 observe
 cement
 life
 cherry
 pen |  
-| bip_39_word_new_line8 | square
+| bip_39_word_new_line_8 | square
 cream
 observe
 cement
@@ -113,7 +113,7 @@ life
 cherry
 pen
 pretty |  
-| bip_39_word_new_line9 | square
+| bip_39_word_new_line_9 | square
 cream
 observe
 cement

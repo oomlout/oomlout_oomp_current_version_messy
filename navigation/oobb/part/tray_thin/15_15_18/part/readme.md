@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | attitude |  
-| bip_39_word_new_br10 | attitude<br>fit<br>ring<br>cargo<br>boss<br>spatial<br>rug<br>unfair<br>pumpkin<br>fox |  
-| bip_39_word_new_br11 | attitude<br>fit<br>ring<br>cargo<br>boss<br>spatial<br>rug<br>unfair<br>pumpkin<br>fox<br>begin |  
-| bip_39_word_new_br12 | attitude<br>fit<br>ring<br>cargo<br>boss<br>spatial<br>rug<br>unfair<br>pumpkin<br>fox<br>begin<br>adult |  
-| bip_39_word_new_br2 | attitude<br>fit |  
-| bip_39_word_new_br3 | attitude<br>fit<br>ring |  
-| bip_39_word_new_br4 | attitude<br>fit<br>ring<br>cargo |  
-| bip_39_word_new_br5 | attitude<br>fit<br>ring<br>cargo<br>boss |  
-| bip_39_word_new_br6 | attitude<br>fit<br>ring<br>cargo<br>boss<br>spatial |  
-| bip_39_word_new_br7 | attitude<br>fit<br>ring<br>cargo<br>boss<br>spatial<br>rug |  
-| bip_39_word_new_br8 | attitude<br>fit<br>ring<br>cargo<br>boss<br>spatial<br>rug<br>unfair |  
-| bip_39_word_new_br9 | attitude<br>fit<br>ring<br>cargo<br>boss<br>spatial<br>rug<br>unfair<br>pumpkin |  
-| bip_39_word_new_line1 | attitude |  
-| bip_39_word_new_line10 | attitude
+| bip_39_word_new_br_1 | attitude |  
+| bip_39_word_new_br_10 | attitude<br>fit<br>ring<br>cargo<br>boss<br>spatial<br>rug<br>unfair<br>pumpkin<br>fox |  
+| bip_39_word_new_br_11 | attitude<br>fit<br>ring<br>cargo<br>boss<br>spatial<br>rug<br>unfair<br>pumpkin<br>fox<br>begin |  
+| bip_39_word_new_br_12 | attitude<br>fit<br>ring<br>cargo<br>boss<br>spatial<br>rug<br>unfair<br>pumpkin<br>fox<br>begin<br>adult |  
+| bip_39_word_new_br_2 | attitude<br>fit |  
+| bip_39_word_new_br_3 | attitude<br>fit<br>ring |  
+| bip_39_word_new_br_4 | attitude<br>fit<br>ring<br>cargo |  
+| bip_39_word_new_br_5 | attitude<br>fit<br>ring<br>cargo<br>boss |  
+| bip_39_word_new_br_6 | attitude<br>fit<br>ring<br>cargo<br>boss<br>spatial |  
+| bip_39_word_new_br_7 | attitude<br>fit<br>ring<br>cargo<br>boss<br>spatial<br>rug |  
+| bip_39_word_new_br_8 | attitude<br>fit<br>ring<br>cargo<br>boss<br>spatial<br>rug<br>unfair |  
+| bip_39_word_new_br_9 | attitude<br>fit<br>ring<br>cargo<br>boss<br>spatial<br>rug<br>unfair<br>pumpkin |  
+| bip_39_word_new_line_1 | attitude |  
+| bip_39_word_new_line_10 | attitude
 fit
 ring
 cargo
@@ -55,7 +55,7 @@ rug
 unfair
 pumpkin
 fox |  
-| bip_39_word_new_line11 | attitude
+| bip_39_word_new_line_11 | attitude
 fit
 ring
 cargo
@@ -66,7 +66,7 @@ unfair
 pumpkin
 fox
 begin |  
-| bip_39_word_new_line12 | attitude
+| bip_39_word_new_line_12 | attitude
 fit
 ring
 cargo
@@ -78,34 +78,34 @@ pumpkin
 fox
 begin
 adult |  
-| bip_39_word_new_line2 | attitude
+| bip_39_word_new_line_2 | attitude
 fit |  
-| bip_39_word_new_line3 | attitude
+| bip_39_word_new_line_3 | attitude
 fit
 ring |  
-| bip_39_word_new_line4 | attitude
+| bip_39_word_new_line_4 | attitude
 fit
 ring
 cargo |  
-| bip_39_word_new_line5 | attitude
+| bip_39_word_new_line_5 | attitude
 fit
 ring
 cargo
 boss |  
-| bip_39_word_new_line6 | attitude
+| bip_39_word_new_line_6 | attitude
 fit
 ring
 cargo
 boss
 spatial |  
-| bip_39_word_new_line7 | attitude
+| bip_39_word_new_line_7 | attitude
 fit
 ring
 cargo
 boss
 spatial
 rug |  
-| bip_39_word_new_line8 | attitude
+| bip_39_word_new_line_8 | attitude
 fit
 ring
 cargo
@@ -113,7 +113,7 @@ boss
 spatial
 rug
 unfair |  
-| bip_39_word_new_line9 | attitude
+| bip_39_word_new_line_9 | attitude
 fit
 ring
 cargo

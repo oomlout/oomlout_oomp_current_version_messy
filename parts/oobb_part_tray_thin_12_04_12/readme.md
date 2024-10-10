@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | access |  
-| bip_39_word_new_br10 | access<br>sausage<br>vote<br>rookie<br>insect<br>property<br>despair<br>person<br>trophy<br>only |  
-| bip_39_word_new_br11 | access<br>sausage<br>vote<br>rookie<br>insect<br>property<br>despair<br>person<br>trophy<br>only<br>diet |  
-| bip_39_word_new_br12 | access<br>sausage<br>vote<br>rookie<br>insect<br>property<br>despair<br>person<br>trophy<br>only<br>diet<br>again |  
-| bip_39_word_new_br2 | access<br>sausage |  
-| bip_39_word_new_br3 | access<br>sausage<br>vote |  
-| bip_39_word_new_br4 | access<br>sausage<br>vote<br>rookie |  
-| bip_39_word_new_br5 | access<br>sausage<br>vote<br>rookie<br>insect |  
-| bip_39_word_new_br6 | access<br>sausage<br>vote<br>rookie<br>insect<br>property |  
-| bip_39_word_new_br7 | access<br>sausage<br>vote<br>rookie<br>insect<br>property<br>despair |  
-| bip_39_word_new_br8 | access<br>sausage<br>vote<br>rookie<br>insect<br>property<br>despair<br>person |  
-| bip_39_word_new_br9 | access<br>sausage<br>vote<br>rookie<br>insect<br>property<br>despair<br>person<br>trophy |  
-| bip_39_word_new_line1 | access |  
-| bip_39_word_new_line10 | access
+| bip_39_word_new_br_1 | access |  
+| bip_39_word_new_br_10 | access<br>sausage<br>vote<br>rookie<br>insect<br>property<br>despair<br>person<br>trophy<br>only |  
+| bip_39_word_new_br_11 | access<br>sausage<br>vote<br>rookie<br>insect<br>property<br>despair<br>person<br>trophy<br>only<br>diet |  
+| bip_39_word_new_br_12 | access<br>sausage<br>vote<br>rookie<br>insect<br>property<br>despair<br>person<br>trophy<br>only<br>diet<br>again |  
+| bip_39_word_new_br_2 | access<br>sausage |  
+| bip_39_word_new_br_3 | access<br>sausage<br>vote |  
+| bip_39_word_new_br_4 | access<br>sausage<br>vote<br>rookie |  
+| bip_39_word_new_br_5 | access<br>sausage<br>vote<br>rookie<br>insect |  
+| bip_39_word_new_br_6 | access<br>sausage<br>vote<br>rookie<br>insect<br>property |  
+| bip_39_word_new_br_7 | access<br>sausage<br>vote<br>rookie<br>insect<br>property<br>despair |  
+| bip_39_word_new_br_8 | access<br>sausage<br>vote<br>rookie<br>insect<br>property<br>despair<br>person |  
+| bip_39_word_new_br_9 | access<br>sausage<br>vote<br>rookie<br>insect<br>property<br>despair<br>person<br>trophy |  
+| bip_39_word_new_line_1 | access |  
+| bip_39_word_new_line_10 | access
 sausage
 vote
 rookie
@@ -55,7 +55,7 @@ despair
 person
 trophy
 only |  
-| bip_39_word_new_line11 | access
+| bip_39_word_new_line_11 | access
 sausage
 vote
 rookie
@@ -66,7 +66,7 @@ person
 trophy
 only
 diet |  
-| bip_39_word_new_line12 | access
+| bip_39_word_new_line_12 | access
 sausage
 vote
 rookie
@@ -78,34 +78,34 @@ trophy
 only
 diet
 again |  
-| bip_39_word_new_line2 | access
+| bip_39_word_new_line_2 | access
 sausage |  
-| bip_39_word_new_line3 | access
+| bip_39_word_new_line_3 | access
 sausage
 vote |  
-| bip_39_word_new_line4 | access
+| bip_39_word_new_line_4 | access
 sausage
 vote
 rookie |  
-| bip_39_word_new_line5 | access
+| bip_39_word_new_line_5 | access
 sausage
 vote
 rookie
 insect |  
-| bip_39_word_new_line6 | access
+| bip_39_word_new_line_6 | access
 sausage
 vote
 rookie
 insect
 property |  
-| bip_39_word_new_line7 | access
+| bip_39_word_new_line_7 | access
 sausage
 vote
 rookie
 insect
 property
 despair |  
-| bip_39_word_new_line8 | access
+| bip_39_word_new_line_8 | access
 sausage
 vote
 rookie
@@ -113,7 +113,7 @@ insect
 property
 despair
 person |  
-| bip_39_word_new_line9 | access
+| bip_39_word_new_line_9 | access
 sausage
 vote
 rookie

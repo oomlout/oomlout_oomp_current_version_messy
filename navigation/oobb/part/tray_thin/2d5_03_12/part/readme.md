@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fragile |  
-| bip_39_word_new_br10 | fragile<br>side<br>copper<br>believe<br>black<br>curious<br>pupil<br>fury<br>quick<br>capable |  
-| bip_39_word_new_br11 | fragile<br>side<br>copper<br>believe<br>black<br>curious<br>pupil<br>fury<br>quick<br>capable<br>great |  
-| bip_39_word_new_br12 | fragile<br>side<br>copper<br>believe<br>black<br>curious<br>pupil<br>fury<br>quick<br>capable<br>great<br>angry |  
-| bip_39_word_new_br2 | fragile<br>side |  
-| bip_39_word_new_br3 | fragile<br>side<br>copper |  
-| bip_39_word_new_br4 | fragile<br>side<br>copper<br>believe |  
-| bip_39_word_new_br5 | fragile<br>side<br>copper<br>believe<br>black |  
-| bip_39_word_new_br6 | fragile<br>side<br>copper<br>believe<br>black<br>curious |  
-| bip_39_word_new_br7 | fragile<br>side<br>copper<br>believe<br>black<br>curious<br>pupil |  
-| bip_39_word_new_br8 | fragile<br>side<br>copper<br>believe<br>black<br>curious<br>pupil<br>fury |  
-| bip_39_word_new_br9 | fragile<br>side<br>copper<br>believe<br>black<br>curious<br>pupil<br>fury<br>quick |  
-| bip_39_word_new_line1 | fragile |  
-| bip_39_word_new_line10 | fragile
+| bip_39_word_new_br_1 | fragile |  
+| bip_39_word_new_br_10 | fragile<br>side<br>copper<br>believe<br>black<br>curious<br>pupil<br>fury<br>quick<br>capable |  
+| bip_39_word_new_br_11 | fragile<br>side<br>copper<br>believe<br>black<br>curious<br>pupil<br>fury<br>quick<br>capable<br>great |  
+| bip_39_word_new_br_12 | fragile<br>side<br>copper<br>believe<br>black<br>curious<br>pupil<br>fury<br>quick<br>capable<br>great<br>angry |  
+| bip_39_word_new_br_2 | fragile<br>side |  
+| bip_39_word_new_br_3 | fragile<br>side<br>copper |  
+| bip_39_word_new_br_4 | fragile<br>side<br>copper<br>believe |  
+| bip_39_word_new_br_5 | fragile<br>side<br>copper<br>believe<br>black |  
+| bip_39_word_new_br_6 | fragile<br>side<br>copper<br>believe<br>black<br>curious |  
+| bip_39_word_new_br_7 | fragile<br>side<br>copper<br>believe<br>black<br>curious<br>pupil |  
+| bip_39_word_new_br_8 | fragile<br>side<br>copper<br>believe<br>black<br>curious<br>pupil<br>fury |  
+| bip_39_word_new_br_9 | fragile<br>side<br>copper<br>believe<br>black<br>curious<br>pupil<br>fury<br>quick |  
+| bip_39_word_new_line_1 | fragile |  
+| bip_39_word_new_line_10 | fragile
 side
 copper
 believe
@@ -55,7 +55,7 @@ pupil
 fury
 quick
 capable |  
-| bip_39_word_new_line11 | fragile
+| bip_39_word_new_line_11 | fragile
 side
 copper
 believe
@@ -66,7 +66,7 @@ fury
 quick
 capable
 great |  
-| bip_39_word_new_line12 | fragile
+| bip_39_word_new_line_12 | fragile
 side
 copper
 believe
@@ -78,34 +78,34 @@ quick
 capable
 great
 angry |  
-| bip_39_word_new_line2 | fragile
+| bip_39_word_new_line_2 | fragile
 side |  
-| bip_39_word_new_line3 | fragile
+| bip_39_word_new_line_3 | fragile
 side
 copper |  
-| bip_39_word_new_line4 | fragile
+| bip_39_word_new_line_4 | fragile
 side
 copper
 believe |  
-| bip_39_word_new_line5 | fragile
+| bip_39_word_new_line_5 | fragile
 side
 copper
 believe
 black |  
-| bip_39_word_new_line6 | fragile
+| bip_39_word_new_line_6 | fragile
 side
 copper
 believe
 black
 curious |  
-| bip_39_word_new_line7 | fragile
+| bip_39_word_new_line_7 | fragile
 side
 copper
 believe
 black
 curious
 pupil |  
-| bip_39_word_new_line8 | fragile
+| bip_39_word_new_line_8 | fragile
 side
 copper
 believe
@@ -113,7 +113,7 @@ black
 curious
 pupil
 fury |  
-| bip_39_word_new_line9 | fragile
+| bip_39_word_new_line_9 | fragile
 side
 copper
 believe

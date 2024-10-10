@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | soul |  
-| bip_39_word_new_br10 | soul<br>typical<br>list<br>duck<br>fire<br>mandate<br>excite<br>dream<br>frost<br>victory |  
-| bip_39_word_new_br11 | soul<br>typical<br>list<br>duck<br>fire<br>mandate<br>excite<br>dream<br>frost<br>victory<br>sorry |  
-| bip_39_word_new_br12 | soul<br>typical<br>list<br>duck<br>fire<br>mandate<br>excite<br>dream<br>frost<br>victory<br>sorry<br>alien |  
-| bip_39_word_new_br2 | soul<br>typical |  
-| bip_39_word_new_br3 | soul<br>typical<br>list |  
-| bip_39_word_new_br4 | soul<br>typical<br>list<br>duck |  
-| bip_39_word_new_br5 | soul<br>typical<br>list<br>duck<br>fire |  
-| bip_39_word_new_br6 | soul<br>typical<br>list<br>duck<br>fire<br>mandate |  
-| bip_39_word_new_br7 | soul<br>typical<br>list<br>duck<br>fire<br>mandate<br>excite |  
-| bip_39_word_new_br8 | soul<br>typical<br>list<br>duck<br>fire<br>mandate<br>excite<br>dream |  
-| bip_39_word_new_br9 | soul<br>typical<br>list<br>duck<br>fire<br>mandate<br>excite<br>dream<br>frost |  
-| bip_39_word_new_line1 | soul |  
-| bip_39_word_new_line10 | soul
+| bip_39_word_new_br_1 | soul |  
+| bip_39_word_new_br_10 | soul<br>typical<br>list<br>duck<br>fire<br>mandate<br>excite<br>dream<br>frost<br>victory |  
+| bip_39_word_new_br_11 | soul<br>typical<br>list<br>duck<br>fire<br>mandate<br>excite<br>dream<br>frost<br>victory<br>sorry |  
+| bip_39_word_new_br_12 | soul<br>typical<br>list<br>duck<br>fire<br>mandate<br>excite<br>dream<br>frost<br>victory<br>sorry<br>alien |  
+| bip_39_word_new_br_2 | soul<br>typical |  
+| bip_39_word_new_br_3 | soul<br>typical<br>list |  
+| bip_39_word_new_br_4 | soul<br>typical<br>list<br>duck |  
+| bip_39_word_new_br_5 | soul<br>typical<br>list<br>duck<br>fire |  
+| bip_39_word_new_br_6 | soul<br>typical<br>list<br>duck<br>fire<br>mandate |  
+| bip_39_word_new_br_7 | soul<br>typical<br>list<br>duck<br>fire<br>mandate<br>excite |  
+| bip_39_word_new_br_8 | soul<br>typical<br>list<br>duck<br>fire<br>mandate<br>excite<br>dream |  
+| bip_39_word_new_br_9 | soul<br>typical<br>list<br>duck<br>fire<br>mandate<br>excite<br>dream<br>frost |  
+| bip_39_word_new_line_1 | soul |  
+| bip_39_word_new_line_10 | soul
 typical
 list
 duck
@@ -55,7 +55,7 @@ excite
 dream
 frost
 victory |  
-| bip_39_word_new_line11 | soul
+| bip_39_word_new_line_11 | soul
 typical
 list
 duck
@@ -66,7 +66,7 @@ dream
 frost
 victory
 sorry |  
-| bip_39_word_new_line12 | soul
+| bip_39_word_new_line_12 | soul
 typical
 list
 duck
@@ -78,34 +78,34 @@ frost
 victory
 sorry
 alien |  
-| bip_39_word_new_line2 | soul
+| bip_39_word_new_line_2 | soul
 typical |  
-| bip_39_word_new_line3 | soul
+| bip_39_word_new_line_3 | soul
 typical
 list |  
-| bip_39_word_new_line4 | soul
+| bip_39_word_new_line_4 | soul
 typical
 list
 duck |  
-| bip_39_word_new_line5 | soul
+| bip_39_word_new_line_5 | soul
 typical
 list
 duck
 fire |  
-| bip_39_word_new_line6 | soul
+| bip_39_word_new_line_6 | soul
 typical
 list
 duck
 fire
 mandate |  
-| bip_39_word_new_line7 | soul
+| bip_39_word_new_line_7 | soul
 typical
 list
 duck
 fire
 mandate
 excite |  
-| bip_39_word_new_line8 | soul
+| bip_39_word_new_line_8 | soul
 typical
 list
 duck
@@ -113,7 +113,7 @@ fire
 mandate
 excite
 dream |  
-| bip_39_word_new_line9 | soul
+| bip_39_word_new_line_9 | soul
 typical
 list
 duck

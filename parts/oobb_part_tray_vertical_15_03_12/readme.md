@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | spatial |  
-| bip_39_word_new_br10 | spatial<br>rocket<br>wise<br>model<br>country<br>three<br>boring<br>inspire<br>dizzy<br>circle |  
-| bip_39_word_new_br11 | spatial<br>rocket<br>wise<br>model<br>country<br>three<br>boring<br>inspire<br>dizzy<br>circle<br>crystal |  
-| bip_39_word_new_br12 | spatial<br>rocket<br>wise<br>model<br>country<br>three<br>boring<br>inspire<br>dizzy<br>circle<br>crystal<br>artwork |  
-| bip_39_word_new_br2 | spatial<br>rocket |  
-| bip_39_word_new_br3 | spatial<br>rocket<br>wise |  
-| bip_39_word_new_br4 | spatial<br>rocket<br>wise<br>model |  
-| bip_39_word_new_br5 | spatial<br>rocket<br>wise<br>model<br>country |  
-| bip_39_word_new_br6 | spatial<br>rocket<br>wise<br>model<br>country<br>three |  
-| bip_39_word_new_br7 | spatial<br>rocket<br>wise<br>model<br>country<br>three<br>boring |  
-| bip_39_word_new_br8 | spatial<br>rocket<br>wise<br>model<br>country<br>three<br>boring<br>inspire |  
-| bip_39_word_new_br9 | spatial<br>rocket<br>wise<br>model<br>country<br>three<br>boring<br>inspire<br>dizzy |  
-| bip_39_word_new_line1 | spatial |  
-| bip_39_word_new_line10 | spatial
+| bip_39_word_new_br_1 | spatial |  
+| bip_39_word_new_br_10 | spatial<br>rocket<br>wise<br>model<br>country<br>three<br>boring<br>inspire<br>dizzy<br>circle |  
+| bip_39_word_new_br_11 | spatial<br>rocket<br>wise<br>model<br>country<br>three<br>boring<br>inspire<br>dizzy<br>circle<br>crystal |  
+| bip_39_word_new_br_12 | spatial<br>rocket<br>wise<br>model<br>country<br>three<br>boring<br>inspire<br>dizzy<br>circle<br>crystal<br>artwork |  
+| bip_39_word_new_br_2 | spatial<br>rocket |  
+| bip_39_word_new_br_3 | spatial<br>rocket<br>wise |  
+| bip_39_word_new_br_4 | spatial<br>rocket<br>wise<br>model |  
+| bip_39_word_new_br_5 | spatial<br>rocket<br>wise<br>model<br>country |  
+| bip_39_word_new_br_6 | spatial<br>rocket<br>wise<br>model<br>country<br>three |  
+| bip_39_word_new_br_7 | spatial<br>rocket<br>wise<br>model<br>country<br>three<br>boring |  
+| bip_39_word_new_br_8 | spatial<br>rocket<br>wise<br>model<br>country<br>three<br>boring<br>inspire |  
+| bip_39_word_new_br_9 | spatial<br>rocket<br>wise<br>model<br>country<br>three<br>boring<br>inspire<br>dizzy |  
+| bip_39_word_new_line_1 | spatial |  
+| bip_39_word_new_line_10 | spatial
 rocket
 wise
 model
@@ -55,7 +55,7 @@ boring
 inspire
 dizzy
 circle |  
-| bip_39_word_new_line11 | spatial
+| bip_39_word_new_line_11 | spatial
 rocket
 wise
 model
@@ -66,7 +66,7 @@ inspire
 dizzy
 circle
 crystal |  
-| bip_39_word_new_line12 | spatial
+| bip_39_word_new_line_12 | spatial
 rocket
 wise
 model
@@ -78,34 +78,34 @@ dizzy
 circle
 crystal
 artwork |  
-| bip_39_word_new_line2 | spatial
+| bip_39_word_new_line_2 | spatial
 rocket |  
-| bip_39_word_new_line3 | spatial
+| bip_39_word_new_line_3 | spatial
 rocket
 wise |  
-| bip_39_word_new_line4 | spatial
+| bip_39_word_new_line_4 | spatial
 rocket
 wise
 model |  
-| bip_39_word_new_line5 | spatial
+| bip_39_word_new_line_5 | spatial
 rocket
 wise
 model
 country |  
-| bip_39_word_new_line6 | spatial
+| bip_39_word_new_line_6 | spatial
 rocket
 wise
 model
 country
 three |  
-| bip_39_word_new_line7 | spatial
+| bip_39_word_new_line_7 | spatial
 rocket
 wise
 model
 country
 three
 boring |  
-| bip_39_word_new_line8 | spatial
+| bip_39_word_new_line_8 | spatial
 rocket
 wise
 model
@@ -113,7 +113,7 @@ country
 three
 boring
 inspire |  
-| bip_39_word_new_line9 | spatial
+| bip_39_word_new_line_9 | spatial
 rocket
 wise
 model

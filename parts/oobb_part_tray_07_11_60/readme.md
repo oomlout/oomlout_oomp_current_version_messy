@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | element |  
-| bip_39_word_new_br10 | element<br>chaos<br>harsh<br>attack<br>rich<br>yellow<br>cabbage<br>huge<br>next<br>cloud |  
-| bip_39_word_new_br11 | element<br>chaos<br>harsh<br>attack<br>rich<br>yellow<br>cabbage<br>huge<br>next<br>cloud<br>escape |  
-| bip_39_word_new_br12 | element<br>chaos<br>harsh<br>attack<br>rich<br>yellow<br>cabbage<br>huge<br>next<br>cloud<br>escape<br>average |  
-| bip_39_word_new_br2 | element<br>chaos |  
-| bip_39_word_new_br3 | element<br>chaos<br>harsh |  
-| bip_39_word_new_br4 | element<br>chaos<br>harsh<br>attack |  
-| bip_39_word_new_br5 | element<br>chaos<br>harsh<br>attack<br>rich |  
-| bip_39_word_new_br6 | element<br>chaos<br>harsh<br>attack<br>rich<br>yellow |  
-| bip_39_word_new_br7 | element<br>chaos<br>harsh<br>attack<br>rich<br>yellow<br>cabbage |  
-| bip_39_word_new_br8 | element<br>chaos<br>harsh<br>attack<br>rich<br>yellow<br>cabbage<br>huge |  
-| bip_39_word_new_br9 | element<br>chaos<br>harsh<br>attack<br>rich<br>yellow<br>cabbage<br>huge<br>next |  
-| bip_39_word_new_line1 | element |  
-| bip_39_word_new_line10 | element
+| bip_39_word_new_br_1 | element |  
+| bip_39_word_new_br_10 | element<br>chaos<br>harsh<br>attack<br>rich<br>yellow<br>cabbage<br>huge<br>next<br>cloud |  
+| bip_39_word_new_br_11 | element<br>chaos<br>harsh<br>attack<br>rich<br>yellow<br>cabbage<br>huge<br>next<br>cloud<br>escape |  
+| bip_39_word_new_br_12 | element<br>chaos<br>harsh<br>attack<br>rich<br>yellow<br>cabbage<br>huge<br>next<br>cloud<br>escape<br>average |  
+| bip_39_word_new_br_2 | element<br>chaos |  
+| bip_39_word_new_br_3 | element<br>chaos<br>harsh |  
+| bip_39_word_new_br_4 | element<br>chaos<br>harsh<br>attack |  
+| bip_39_word_new_br_5 | element<br>chaos<br>harsh<br>attack<br>rich |  
+| bip_39_word_new_br_6 | element<br>chaos<br>harsh<br>attack<br>rich<br>yellow |  
+| bip_39_word_new_br_7 | element<br>chaos<br>harsh<br>attack<br>rich<br>yellow<br>cabbage |  
+| bip_39_word_new_br_8 | element<br>chaos<br>harsh<br>attack<br>rich<br>yellow<br>cabbage<br>huge |  
+| bip_39_word_new_br_9 | element<br>chaos<br>harsh<br>attack<br>rich<br>yellow<br>cabbage<br>huge<br>next |  
+| bip_39_word_new_line_1 | element |  
+| bip_39_word_new_line_10 | element
 chaos
 harsh
 attack
@@ -55,7 +55,7 @@ cabbage
 huge
 next
 cloud |  
-| bip_39_word_new_line11 | element
+| bip_39_word_new_line_11 | element
 chaos
 harsh
 attack
@@ -66,7 +66,7 @@ huge
 next
 cloud
 escape |  
-| bip_39_word_new_line12 | element
+| bip_39_word_new_line_12 | element
 chaos
 harsh
 attack
@@ -78,34 +78,34 @@ next
 cloud
 escape
 average |  
-| bip_39_word_new_line2 | element
+| bip_39_word_new_line_2 | element
 chaos |  
-| bip_39_word_new_line3 | element
+| bip_39_word_new_line_3 | element
 chaos
 harsh |  
-| bip_39_word_new_line4 | element
+| bip_39_word_new_line_4 | element
 chaos
 harsh
 attack |  
-| bip_39_word_new_line5 | element
+| bip_39_word_new_line_5 | element
 chaos
 harsh
 attack
 rich |  
-| bip_39_word_new_line6 | element
+| bip_39_word_new_line_6 | element
 chaos
 harsh
 attack
 rich
 yellow |  
-| bip_39_word_new_line7 | element
+| bip_39_word_new_line_7 | element
 chaos
 harsh
 attack
 rich
 yellow
 cabbage |  
-| bip_39_word_new_line8 | element
+| bip_39_word_new_line_8 | element
 chaos
 harsh
 attack
@@ -113,7 +113,7 @@ rich
 yellow
 cabbage
 huge |  
-| bip_39_word_new_line9 | element
+| bip_39_word_new_line_9 | element
 chaos
 harsh
 attack

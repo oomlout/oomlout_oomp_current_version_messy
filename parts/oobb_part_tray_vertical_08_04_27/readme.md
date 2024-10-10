@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dolphin |  
-| bip_39_word_new_br10 | dolphin<br>rice<br>horn<br>scatter<br>girl<br>region<br>trade<br>hazard<br>doll<br>midnight |  
-| bip_39_word_new_br11 | dolphin<br>rice<br>horn<br>scatter<br>girl<br>region<br>trade<br>hazard<br>doll<br>midnight<br>leaf |  
-| bip_39_word_new_br12 | dolphin<br>rice<br>horn<br>scatter<br>girl<br>region<br>trade<br>hazard<br>doll<br>midnight<br>leaf<br>add |  
-| bip_39_word_new_br2 | dolphin<br>rice |  
-| bip_39_word_new_br3 | dolphin<br>rice<br>horn |  
-| bip_39_word_new_br4 | dolphin<br>rice<br>horn<br>scatter |  
-| bip_39_word_new_br5 | dolphin<br>rice<br>horn<br>scatter<br>girl |  
-| bip_39_word_new_br6 | dolphin<br>rice<br>horn<br>scatter<br>girl<br>region |  
-| bip_39_word_new_br7 | dolphin<br>rice<br>horn<br>scatter<br>girl<br>region<br>trade |  
-| bip_39_word_new_br8 | dolphin<br>rice<br>horn<br>scatter<br>girl<br>region<br>trade<br>hazard |  
-| bip_39_word_new_br9 | dolphin<br>rice<br>horn<br>scatter<br>girl<br>region<br>trade<br>hazard<br>doll |  
-| bip_39_word_new_line1 | dolphin |  
-| bip_39_word_new_line10 | dolphin
+| bip_39_word_new_br_1 | dolphin |  
+| bip_39_word_new_br_10 | dolphin<br>rice<br>horn<br>scatter<br>girl<br>region<br>trade<br>hazard<br>doll<br>midnight |  
+| bip_39_word_new_br_11 | dolphin<br>rice<br>horn<br>scatter<br>girl<br>region<br>trade<br>hazard<br>doll<br>midnight<br>leaf |  
+| bip_39_word_new_br_12 | dolphin<br>rice<br>horn<br>scatter<br>girl<br>region<br>trade<br>hazard<br>doll<br>midnight<br>leaf<br>add |  
+| bip_39_word_new_br_2 | dolphin<br>rice |  
+| bip_39_word_new_br_3 | dolphin<br>rice<br>horn |  
+| bip_39_word_new_br_4 | dolphin<br>rice<br>horn<br>scatter |  
+| bip_39_word_new_br_5 | dolphin<br>rice<br>horn<br>scatter<br>girl |  
+| bip_39_word_new_br_6 | dolphin<br>rice<br>horn<br>scatter<br>girl<br>region |  
+| bip_39_word_new_br_7 | dolphin<br>rice<br>horn<br>scatter<br>girl<br>region<br>trade |  
+| bip_39_word_new_br_8 | dolphin<br>rice<br>horn<br>scatter<br>girl<br>region<br>trade<br>hazard |  
+| bip_39_word_new_br_9 | dolphin<br>rice<br>horn<br>scatter<br>girl<br>region<br>trade<br>hazard<br>doll |  
+| bip_39_word_new_line_1 | dolphin |  
+| bip_39_word_new_line_10 | dolphin
 rice
 horn
 scatter
@@ -55,7 +55,7 @@ trade
 hazard
 doll
 midnight |  
-| bip_39_word_new_line11 | dolphin
+| bip_39_word_new_line_11 | dolphin
 rice
 horn
 scatter
@@ -66,7 +66,7 @@ hazard
 doll
 midnight
 leaf |  
-| bip_39_word_new_line12 | dolphin
+| bip_39_word_new_line_12 | dolphin
 rice
 horn
 scatter
@@ -78,34 +78,34 @@ doll
 midnight
 leaf
 add |  
-| bip_39_word_new_line2 | dolphin
+| bip_39_word_new_line_2 | dolphin
 rice |  
-| bip_39_word_new_line3 | dolphin
+| bip_39_word_new_line_3 | dolphin
 rice
 horn |  
-| bip_39_word_new_line4 | dolphin
+| bip_39_word_new_line_4 | dolphin
 rice
 horn
 scatter |  
-| bip_39_word_new_line5 | dolphin
+| bip_39_word_new_line_5 | dolphin
 rice
 horn
 scatter
 girl |  
-| bip_39_word_new_line6 | dolphin
+| bip_39_word_new_line_6 | dolphin
 rice
 horn
 scatter
 girl
 region |  
-| bip_39_word_new_line7 | dolphin
+| bip_39_word_new_line_7 | dolphin
 rice
 horn
 scatter
 girl
 region
 trade |  
-| bip_39_word_new_line8 | dolphin
+| bip_39_word_new_line_8 | dolphin
 rice
 horn
 scatter
@@ -113,7 +113,7 @@ girl
 region
 trade
 hazard |  
-| bip_39_word_new_line9 | dolphin
+| bip_39_word_new_line_9 | dolphin
 rice
 horn
 scatter

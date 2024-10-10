@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | problem |  
-| bip_39_word_new_br10 | problem<br>property<br>excess<br>daughter<br>timber<br>chat<br>twice<br>question<br>liberty<br>brown |  
-| bip_39_word_new_br11 | problem<br>property<br>excess<br>daughter<br>timber<br>chat<br>twice<br>question<br>liberty<br>brown<br>kiss |  
-| bip_39_word_new_br12 | problem<br>property<br>excess<br>daughter<br>timber<br>chat<br>twice<br>question<br>liberty<br>brown<br>kiss<br>alcohol |  
-| bip_39_word_new_br2 | problem<br>property |  
-| bip_39_word_new_br3 | problem<br>property<br>excess |  
-| bip_39_word_new_br4 | problem<br>property<br>excess<br>daughter |  
-| bip_39_word_new_br5 | problem<br>property<br>excess<br>daughter<br>timber |  
-| bip_39_word_new_br6 | problem<br>property<br>excess<br>daughter<br>timber<br>chat |  
-| bip_39_word_new_br7 | problem<br>property<br>excess<br>daughter<br>timber<br>chat<br>twice |  
-| bip_39_word_new_br8 | problem<br>property<br>excess<br>daughter<br>timber<br>chat<br>twice<br>question |  
-| bip_39_word_new_br9 | problem<br>property<br>excess<br>daughter<br>timber<br>chat<br>twice<br>question<br>liberty |  
-| bip_39_word_new_line1 | problem |  
-| bip_39_word_new_line10 | problem
+| bip_39_word_new_br_1 | problem |  
+| bip_39_word_new_br_10 | problem<br>property<br>excess<br>daughter<br>timber<br>chat<br>twice<br>question<br>liberty<br>brown |  
+| bip_39_word_new_br_11 | problem<br>property<br>excess<br>daughter<br>timber<br>chat<br>twice<br>question<br>liberty<br>brown<br>kiss |  
+| bip_39_word_new_br_12 | problem<br>property<br>excess<br>daughter<br>timber<br>chat<br>twice<br>question<br>liberty<br>brown<br>kiss<br>alcohol |  
+| bip_39_word_new_br_2 | problem<br>property |  
+| bip_39_word_new_br_3 | problem<br>property<br>excess |  
+| bip_39_word_new_br_4 | problem<br>property<br>excess<br>daughter |  
+| bip_39_word_new_br_5 | problem<br>property<br>excess<br>daughter<br>timber |  
+| bip_39_word_new_br_6 | problem<br>property<br>excess<br>daughter<br>timber<br>chat |  
+| bip_39_word_new_br_7 | problem<br>property<br>excess<br>daughter<br>timber<br>chat<br>twice |  
+| bip_39_word_new_br_8 | problem<br>property<br>excess<br>daughter<br>timber<br>chat<br>twice<br>question |  
+| bip_39_word_new_br_9 | problem<br>property<br>excess<br>daughter<br>timber<br>chat<br>twice<br>question<br>liberty |  
+| bip_39_word_new_line_1 | problem |  
+| bip_39_word_new_line_10 | problem
 property
 excess
 daughter
@@ -55,7 +55,7 @@ twice
 question
 liberty
 brown |  
-| bip_39_word_new_line11 | problem
+| bip_39_word_new_line_11 | problem
 property
 excess
 daughter
@@ -66,7 +66,7 @@ question
 liberty
 brown
 kiss |  
-| bip_39_word_new_line12 | problem
+| bip_39_word_new_line_12 | problem
 property
 excess
 daughter
@@ -78,34 +78,34 @@ liberty
 brown
 kiss
 alcohol |  
-| bip_39_word_new_line2 | problem
+| bip_39_word_new_line_2 | problem
 property |  
-| bip_39_word_new_line3 | problem
+| bip_39_word_new_line_3 | problem
 property
 excess |  
-| bip_39_word_new_line4 | problem
+| bip_39_word_new_line_4 | problem
 property
 excess
 daughter |  
-| bip_39_word_new_line5 | problem
+| bip_39_word_new_line_5 | problem
 property
 excess
 daughter
 timber |  
-| bip_39_word_new_line6 | problem
+| bip_39_word_new_line_6 | problem
 property
 excess
 daughter
 timber
 chat |  
-| bip_39_word_new_line7 | problem
+| bip_39_word_new_line_7 | problem
 property
 excess
 daughter
 timber
 chat
 twice |  
-| bip_39_word_new_line8 | problem
+| bip_39_word_new_line_8 | problem
 property
 excess
 daughter
@@ -113,7 +113,7 @@ timber
 chat
 twice
 question |  
-| bip_39_word_new_line9 | problem
+| bip_39_word_new_line_9 | problem
 property
 excess
 daughter

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | craft |  
-| bip_39_word_new_br10 | craft<br>joke<br>return<br>gold<br>galaxy<br>network<br>beyond<br>ridge<br>curtain<br>action |  
-| bip_39_word_new_br11 | craft<br>joke<br>return<br>gold<br>galaxy<br>network<br>beyond<br>ridge<br>curtain<br>action<br>dirt |  
-| bip_39_word_new_br12 | craft<br>joke<br>return<br>gold<br>galaxy<br>network<br>beyond<br>ridge<br>curtain<br>action<br>dirt<br>above |  
-| bip_39_word_new_br2 | craft<br>joke |  
-| bip_39_word_new_br3 | craft<br>joke<br>return |  
-| bip_39_word_new_br4 | craft<br>joke<br>return<br>gold |  
-| bip_39_word_new_br5 | craft<br>joke<br>return<br>gold<br>galaxy |  
-| bip_39_word_new_br6 | craft<br>joke<br>return<br>gold<br>galaxy<br>network |  
-| bip_39_word_new_br7 | craft<br>joke<br>return<br>gold<br>galaxy<br>network<br>beyond |  
-| bip_39_word_new_br8 | craft<br>joke<br>return<br>gold<br>galaxy<br>network<br>beyond<br>ridge |  
-| bip_39_word_new_br9 | craft<br>joke<br>return<br>gold<br>galaxy<br>network<br>beyond<br>ridge<br>curtain |  
-| bip_39_word_new_line1 | craft |  
-| bip_39_word_new_line10 | craft
+| bip_39_word_new_br_1 | craft |  
+| bip_39_word_new_br_10 | craft<br>joke<br>return<br>gold<br>galaxy<br>network<br>beyond<br>ridge<br>curtain<br>action |  
+| bip_39_word_new_br_11 | craft<br>joke<br>return<br>gold<br>galaxy<br>network<br>beyond<br>ridge<br>curtain<br>action<br>dirt |  
+| bip_39_word_new_br_12 | craft<br>joke<br>return<br>gold<br>galaxy<br>network<br>beyond<br>ridge<br>curtain<br>action<br>dirt<br>above |  
+| bip_39_word_new_br_2 | craft<br>joke |  
+| bip_39_word_new_br_3 | craft<br>joke<br>return |  
+| bip_39_word_new_br_4 | craft<br>joke<br>return<br>gold |  
+| bip_39_word_new_br_5 | craft<br>joke<br>return<br>gold<br>galaxy |  
+| bip_39_word_new_br_6 | craft<br>joke<br>return<br>gold<br>galaxy<br>network |  
+| bip_39_word_new_br_7 | craft<br>joke<br>return<br>gold<br>galaxy<br>network<br>beyond |  
+| bip_39_word_new_br_8 | craft<br>joke<br>return<br>gold<br>galaxy<br>network<br>beyond<br>ridge |  
+| bip_39_word_new_br_9 | craft<br>joke<br>return<br>gold<br>galaxy<br>network<br>beyond<br>ridge<br>curtain |  
+| bip_39_word_new_line_1 | craft |  
+| bip_39_word_new_line_10 | craft
 joke
 return
 gold
@@ -55,7 +55,7 @@ beyond
 ridge
 curtain
 action |  
-| bip_39_word_new_line11 | craft
+| bip_39_word_new_line_11 | craft
 joke
 return
 gold
@@ -66,7 +66,7 @@ ridge
 curtain
 action
 dirt |  
-| bip_39_word_new_line12 | craft
+| bip_39_word_new_line_12 | craft
 joke
 return
 gold
@@ -78,34 +78,34 @@ curtain
 action
 dirt
 above |  
-| bip_39_word_new_line2 | craft
+| bip_39_word_new_line_2 | craft
 joke |  
-| bip_39_word_new_line3 | craft
+| bip_39_word_new_line_3 | craft
 joke
 return |  
-| bip_39_word_new_line4 | craft
+| bip_39_word_new_line_4 | craft
 joke
 return
 gold |  
-| bip_39_word_new_line5 | craft
+| bip_39_word_new_line_5 | craft
 joke
 return
 gold
 galaxy |  
-| bip_39_word_new_line6 | craft
+| bip_39_word_new_line_6 | craft
 joke
 return
 gold
 galaxy
 network |  
-| bip_39_word_new_line7 | craft
+| bip_39_word_new_line_7 | craft
 joke
 return
 gold
 galaxy
 network
 beyond |  
-| bip_39_word_new_line8 | craft
+| bip_39_word_new_line_8 | craft
 joke
 return
 gold
@@ -113,7 +113,7 @@ galaxy
 network
 beyond
 ridge |  
-| bip_39_word_new_line9 | craft
+| bip_39_word_new_line_9 | craft
 joke
 return
 gold

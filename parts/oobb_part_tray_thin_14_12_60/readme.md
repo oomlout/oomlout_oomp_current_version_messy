@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fitness |  
-| bip_39_word_new_br10 | fitness<br>involve<br>behind<br>result<br>young<br>cabbage<br>drive<br>rival<br>force<br>warrior |  
-| bip_39_word_new_br11 | fitness<br>involve<br>behind<br>result<br>young<br>cabbage<br>drive<br>rival<br>force<br>warrior<br>benefit |  
-| bip_39_word_new_br12 | fitness<br>involve<br>behind<br>result<br>young<br>cabbage<br>drive<br>rival<br>force<br>warrior<br>benefit<br>animal |  
-| bip_39_word_new_br2 | fitness<br>involve |  
-| bip_39_word_new_br3 | fitness<br>involve<br>behind |  
-| bip_39_word_new_br4 | fitness<br>involve<br>behind<br>result |  
-| bip_39_word_new_br5 | fitness<br>involve<br>behind<br>result<br>young |  
-| bip_39_word_new_br6 | fitness<br>involve<br>behind<br>result<br>young<br>cabbage |  
-| bip_39_word_new_br7 | fitness<br>involve<br>behind<br>result<br>young<br>cabbage<br>drive |  
-| bip_39_word_new_br8 | fitness<br>involve<br>behind<br>result<br>young<br>cabbage<br>drive<br>rival |  
-| bip_39_word_new_br9 | fitness<br>involve<br>behind<br>result<br>young<br>cabbage<br>drive<br>rival<br>force |  
-| bip_39_word_new_line1 | fitness |  
-| bip_39_word_new_line10 | fitness
+| bip_39_word_new_br_1 | fitness |  
+| bip_39_word_new_br_10 | fitness<br>involve<br>behind<br>result<br>young<br>cabbage<br>drive<br>rival<br>force<br>warrior |  
+| bip_39_word_new_br_11 | fitness<br>involve<br>behind<br>result<br>young<br>cabbage<br>drive<br>rival<br>force<br>warrior<br>benefit |  
+| bip_39_word_new_br_12 | fitness<br>involve<br>behind<br>result<br>young<br>cabbage<br>drive<br>rival<br>force<br>warrior<br>benefit<br>animal |  
+| bip_39_word_new_br_2 | fitness<br>involve |  
+| bip_39_word_new_br_3 | fitness<br>involve<br>behind |  
+| bip_39_word_new_br_4 | fitness<br>involve<br>behind<br>result |  
+| bip_39_word_new_br_5 | fitness<br>involve<br>behind<br>result<br>young |  
+| bip_39_word_new_br_6 | fitness<br>involve<br>behind<br>result<br>young<br>cabbage |  
+| bip_39_word_new_br_7 | fitness<br>involve<br>behind<br>result<br>young<br>cabbage<br>drive |  
+| bip_39_word_new_br_8 | fitness<br>involve<br>behind<br>result<br>young<br>cabbage<br>drive<br>rival |  
+| bip_39_word_new_br_9 | fitness<br>involve<br>behind<br>result<br>young<br>cabbage<br>drive<br>rival<br>force |  
+| bip_39_word_new_line_1 | fitness |  
+| bip_39_word_new_line_10 | fitness
 involve
 behind
 result
@@ -55,7 +55,7 @@ drive
 rival
 force
 warrior |  
-| bip_39_word_new_line11 | fitness
+| bip_39_word_new_line_11 | fitness
 involve
 behind
 result
@@ -66,7 +66,7 @@ rival
 force
 warrior
 benefit |  
-| bip_39_word_new_line12 | fitness
+| bip_39_word_new_line_12 | fitness
 involve
 behind
 result
@@ -78,34 +78,34 @@ force
 warrior
 benefit
 animal |  
-| bip_39_word_new_line2 | fitness
+| bip_39_word_new_line_2 | fitness
 involve |  
-| bip_39_word_new_line3 | fitness
+| bip_39_word_new_line_3 | fitness
 involve
 behind |  
-| bip_39_word_new_line4 | fitness
+| bip_39_word_new_line_4 | fitness
 involve
 behind
 result |  
-| bip_39_word_new_line5 | fitness
+| bip_39_word_new_line_5 | fitness
 involve
 behind
 result
 young |  
-| bip_39_word_new_line6 | fitness
+| bip_39_word_new_line_6 | fitness
 involve
 behind
 result
 young
 cabbage |  
-| bip_39_word_new_line7 | fitness
+| bip_39_word_new_line_7 | fitness
 involve
 behind
 result
 young
 cabbage
 drive |  
-| bip_39_word_new_line8 | fitness
+| bip_39_word_new_line_8 | fitness
 involve
 behind
 result
@@ -113,7 +113,7 @@ young
 cabbage
 drive
 rival |  
-| bip_39_word_new_line9 | fitness
+| bip_39_word_new_line_9 | fitness
 involve
 behind
 result

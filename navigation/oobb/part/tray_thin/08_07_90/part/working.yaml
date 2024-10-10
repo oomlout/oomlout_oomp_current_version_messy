@@ -1,17 +1,17 @@
-bip_39_word_new_br1: mandate
-bip_39_word_new_br10: mandate<br>normal<br>broccoli<br>crazy<br>fabric<br>among<br>engine<br>try<br>erode<br>stable
-bip_39_word_new_br11: mandate<br>normal<br>broccoli<br>crazy<br>fabric<br>among<br>engine<br>try<br>erode<br>stable<br>frog
-bip_39_word_new_br12: mandate<br>normal<br>broccoli<br>crazy<br>fabric<br>among<br>engine<br>try<br>erode<br>stable<br>frog<br>affair
-bip_39_word_new_br2: mandate<br>normal
-bip_39_word_new_br3: mandate<br>normal<br>broccoli
-bip_39_word_new_br4: mandate<br>normal<br>broccoli<br>crazy
-bip_39_word_new_br5: mandate<br>normal<br>broccoli<br>crazy<br>fabric
-bip_39_word_new_br6: mandate<br>normal<br>broccoli<br>crazy<br>fabric<br>among
-bip_39_word_new_br7: mandate<br>normal<br>broccoli<br>crazy<br>fabric<br>among<br>engine
-bip_39_word_new_br8: mandate<br>normal<br>broccoli<br>crazy<br>fabric<br>among<br>engine<br>try
-bip_39_word_new_br9: mandate<br>normal<br>broccoli<br>crazy<br>fabric<br>among<br>engine<br>try<br>erode
-bip_39_word_new_line1: mandate
-bip_39_word_new_line10: 'mandate
+bip_39_word_new_br_1: mandate
+bip_39_word_new_br_10: mandate<br>normal<br>broccoli<br>crazy<br>fabric<br>among<br>engine<br>try<br>erode<br>stable
+bip_39_word_new_br_11: mandate<br>normal<br>broccoli<br>crazy<br>fabric<br>among<br>engine<br>try<br>erode<br>stable<br>frog
+bip_39_word_new_br_12: mandate<br>normal<br>broccoli<br>crazy<br>fabric<br>among<br>engine<br>try<br>erode<br>stable<br>frog<br>affair
+bip_39_word_new_br_2: mandate<br>normal
+bip_39_word_new_br_3: mandate<br>normal<br>broccoli
+bip_39_word_new_br_4: mandate<br>normal<br>broccoli<br>crazy
+bip_39_word_new_br_5: mandate<br>normal<br>broccoli<br>crazy<br>fabric
+bip_39_word_new_br_6: mandate<br>normal<br>broccoli<br>crazy<br>fabric<br>among
+bip_39_word_new_br_7: mandate<br>normal<br>broccoli<br>crazy<br>fabric<br>among<br>engine
+bip_39_word_new_br_8: mandate<br>normal<br>broccoli<br>crazy<br>fabric<br>among<br>engine<br>try
+bip_39_word_new_br_9: mandate<br>normal<br>broccoli<br>crazy<br>fabric<br>among<br>engine<br>try<br>erode
+bip_39_word_new_line_1: mandate
+bip_39_word_new_line_10: 'mandate
 
   normal
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'mandate
   erode
 
   stable'
-bip_39_word_new_line11: 'mandate
+bip_39_word_new_line_11: 'mandate
 
   normal
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'mandate
   stable
 
   frog'
-bip_39_word_new_line12: 'mandate
+bip_39_word_new_line_12: 'mandate
 
   normal
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'mandate
   frog
 
   affair'
-bip_39_word_new_line2: 'mandate
+bip_39_word_new_line_2: 'mandate
 
   normal'
-bip_39_word_new_line3: 'mandate
+bip_39_word_new_line_3: 'mandate
 
   normal
 
   broccoli'
-bip_39_word_new_line4: 'mandate
+bip_39_word_new_line_4: 'mandate
 
   normal
 
   broccoli
 
   crazy'
-bip_39_word_new_line5: 'mandate
+bip_39_word_new_line_5: 'mandate
 
   normal
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'mandate
   crazy
 
   fabric'
-bip_39_word_new_line6: 'mandate
+bip_39_word_new_line_6: 'mandate
 
   normal
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'mandate
   fabric
 
   among'
-bip_39_word_new_line7: 'mandate
+bip_39_word_new_line_7: 'mandate
 
   normal
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'mandate
   among
 
   engine'
-bip_39_word_new_line8: 'mandate
+bip_39_word_new_line_8: 'mandate
 
   normal
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'mandate
   engine
 
   try'
-bip_39_word_new_line9: 'mandate
+bip_39_word_new_line_9: 'mandate
 
   normal
 

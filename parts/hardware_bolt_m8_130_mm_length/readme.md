@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | spawn |  
-| bip_39_word_new_br10 | spawn<br>among<br>asthma<br>believe<br>injury<br>lava<br>dad<br>moment<br>economy<br>science |  
-| bip_39_word_new_br11 | spawn<br>among<br>asthma<br>believe<br>injury<br>lava<br>dad<br>moment<br>economy<br>science<br>client |  
-| bip_39_word_new_br12 | spawn<br>among<br>asthma<br>believe<br>injury<br>lava<br>dad<br>moment<br>economy<br>science<br>client<br>abstract |  
-| bip_39_word_new_br2 | spawn<br>among |  
-| bip_39_word_new_br3 | spawn<br>among<br>asthma |  
-| bip_39_word_new_br4 | spawn<br>among<br>asthma<br>believe |  
-| bip_39_word_new_br5 | spawn<br>among<br>asthma<br>believe<br>injury |  
-| bip_39_word_new_br6 | spawn<br>among<br>asthma<br>believe<br>injury<br>lava |  
-| bip_39_word_new_br7 | spawn<br>among<br>asthma<br>believe<br>injury<br>lava<br>dad |  
-| bip_39_word_new_br8 | spawn<br>among<br>asthma<br>believe<br>injury<br>lava<br>dad<br>moment |  
-| bip_39_word_new_br9 | spawn<br>among<br>asthma<br>believe<br>injury<br>lava<br>dad<br>moment<br>economy |  
-| bip_39_word_new_line1 | spawn |  
-| bip_39_word_new_line10 | spawn
+| bip_39_word_new_br_1 | spawn |  
+| bip_39_word_new_br_10 | spawn<br>among<br>asthma<br>believe<br>injury<br>lava<br>dad<br>moment<br>economy<br>science |  
+| bip_39_word_new_br_11 | spawn<br>among<br>asthma<br>believe<br>injury<br>lava<br>dad<br>moment<br>economy<br>science<br>client |  
+| bip_39_word_new_br_12 | spawn<br>among<br>asthma<br>believe<br>injury<br>lava<br>dad<br>moment<br>economy<br>science<br>client<br>abstract |  
+| bip_39_word_new_br_2 | spawn<br>among |  
+| bip_39_word_new_br_3 | spawn<br>among<br>asthma |  
+| bip_39_word_new_br_4 | spawn<br>among<br>asthma<br>believe |  
+| bip_39_word_new_br_5 | spawn<br>among<br>asthma<br>believe<br>injury |  
+| bip_39_word_new_br_6 | spawn<br>among<br>asthma<br>believe<br>injury<br>lava |  
+| bip_39_word_new_br_7 | spawn<br>among<br>asthma<br>believe<br>injury<br>lava<br>dad |  
+| bip_39_word_new_br_8 | spawn<br>among<br>asthma<br>believe<br>injury<br>lava<br>dad<br>moment |  
+| bip_39_word_new_br_9 | spawn<br>among<br>asthma<br>believe<br>injury<br>lava<br>dad<br>moment<br>economy |  
+| bip_39_word_new_line_1 | spawn |  
+| bip_39_word_new_line_10 | spawn
 among
 asthma
 believe
@@ -55,7 +55,7 @@ dad
 moment
 economy
 science |  
-| bip_39_word_new_line11 | spawn
+| bip_39_word_new_line_11 | spawn
 among
 asthma
 believe
@@ -66,7 +66,7 @@ moment
 economy
 science
 client |  
-| bip_39_word_new_line12 | spawn
+| bip_39_word_new_line_12 | spawn
 among
 asthma
 believe
@@ -78,34 +78,34 @@ economy
 science
 client
 abstract |  
-| bip_39_word_new_line2 | spawn
+| bip_39_word_new_line_2 | spawn
 among |  
-| bip_39_word_new_line3 | spawn
+| bip_39_word_new_line_3 | spawn
 among
 asthma |  
-| bip_39_word_new_line4 | spawn
+| bip_39_word_new_line_4 | spawn
 among
 asthma
 believe |  
-| bip_39_word_new_line5 | spawn
+| bip_39_word_new_line_5 | spawn
 among
 asthma
 believe
 injury |  
-| bip_39_word_new_line6 | spawn
+| bip_39_word_new_line_6 | spawn
 among
 asthma
 believe
 injury
 lava |  
-| bip_39_word_new_line7 | spawn
+| bip_39_word_new_line_7 | spawn
 among
 asthma
 believe
 injury
 lava
 dad |  
-| bip_39_word_new_line8 | spawn
+| bip_39_word_new_line_8 | spawn
 among
 asthma
 believe
@@ -113,7 +113,7 @@ injury
 lava
 dad
 moment |  
-| bip_39_word_new_line9 | spawn
+| bip_39_word_new_line_9 | spawn
 among
 asthma
 believe

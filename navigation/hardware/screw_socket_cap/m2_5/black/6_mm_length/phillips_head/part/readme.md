@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | acquire |  
-| bip_39_word_new_br10 | acquire<br>dizzy<br>suspect<br>plunge<br>share<br>human<br>salon<br>raw<br>iron<br>major |  
-| bip_39_word_new_br11 | acquire<br>dizzy<br>suspect<br>plunge<br>share<br>human<br>salon<br>raw<br>iron<br>major<br>scrub |  
-| bip_39_word_new_br12 | acquire<br>dizzy<br>suspect<br>plunge<br>share<br>human<br>salon<br>raw<br>iron<br>major<br>scrub<br>arrest |  
-| bip_39_word_new_br2 | acquire<br>dizzy |  
-| bip_39_word_new_br3 | acquire<br>dizzy<br>suspect |  
-| bip_39_word_new_br4 | acquire<br>dizzy<br>suspect<br>plunge |  
-| bip_39_word_new_br5 | acquire<br>dizzy<br>suspect<br>plunge<br>share |  
-| bip_39_word_new_br6 | acquire<br>dizzy<br>suspect<br>plunge<br>share<br>human |  
-| bip_39_word_new_br7 | acquire<br>dizzy<br>suspect<br>plunge<br>share<br>human<br>salon |  
-| bip_39_word_new_br8 | acquire<br>dizzy<br>suspect<br>plunge<br>share<br>human<br>salon<br>raw |  
-| bip_39_word_new_br9 | acquire<br>dizzy<br>suspect<br>plunge<br>share<br>human<br>salon<br>raw<br>iron |  
-| bip_39_word_new_line1 | acquire |  
-| bip_39_word_new_line10 | acquire
+| bip_39_word_new_br_1 | acquire |  
+| bip_39_word_new_br_10 | acquire<br>dizzy<br>suspect<br>plunge<br>share<br>human<br>salon<br>raw<br>iron<br>major |  
+| bip_39_word_new_br_11 | acquire<br>dizzy<br>suspect<br>plunge<br>share<br>human<br>salon<br>raw<br>iron<br>major<br>scrub |  
+| bip_39_word_new_br_12 | acquire<br>dizzy<br>suspect<br>plunge<br>share<br>human<br>salon<br>raw<br>iron<br>major<br>scrub<br>arrest |  
+| bip_39_word_new_br_2 | acquire<br>dizzy |  
+| bip_39_word_new_br_3 | acquire<br>dizzy<br>suspect |  
+| bip_39_word_new_br_4 | acquire<br>dizzy<br>suspect<br>plunge |  
+| bip_39_word_new_br_5 | acquire<br>dizzy<br>suspect<br>plunge<br>share |  
+| bip_39_word_new_br_6 | acquire<br>dizzy<br>suspect<br>plunge<br>share<br>human |  
+| bip_39_word_new_br_7 | acquire<br>dizzy<br>suspect<br>plunge<br>share<br>human<br>salon |  
+| bip_39_word_new_br_8 | acquire<br>dizzy<br>suspect<br>plunge<br>share<br>human<br>salon<br>raw |  
+| bip_39_word_new_br_9 | acquire<br>dizzy<br>suspect<br>plunge<br>share<br>human<br>salon<br>raw<br>iron |  
+| bip_39_word_new_line_1 | acquire |  
+| bip_39_word_new_line_10 | acquire
 dizzy
 suspect
 plunge
@@ -55,7 +55,7 @@ salon
 raw
 iron
 major |  
-| bip_39_word_new_line11 | acquire
+| bip_39_word_new_line_11 | acquire
 dizzy
 suspect
 plunge
@@ -66,7 +66,7 @@ raw
 iron
 major
 scrub |  
-| bip_39_word_new_line12 | acquire
+| bip_39_word_new_line_12 | acquire
 dizzy
 suspect
 plunge
@@ -78,34 +78,34 @@ iron
 major
 scrub
 arrest |  
-| bip_39_word_new_line2 | acquire
+| bip_39_word_new_line_2 | acquire
 dizzy |  
-| bip_39_word_new_line3 | acquire
+| bip_39_word_new_line_3 | acquire
 dizzy
 suspect |  
-| bip_39_word_new_line4 | acquire
+| bip_39_word_new_line_4 | acquire
 dizzy
 suspect
 plunge |  
-| bip_39_word_new_line5 | acquire
+| bip_39_word_new_line_5 | acquire
 dizzy
 suspect
 plunge
 share |  
-| bip_39_word_new_line6 | acquire
+| bip_39_word_new_line_6 | acquire
 dizzy
 suspect
 plunge
 share
 human |  
-| bip_39_word_new_line7 | acquire
+| bip_39_word_new_line_7 | acquire
 dizzy
 suspect
 plunge
 share
 human
 salon |  
-| bip_39_word_new_line8 | acquire
+| bip_39_word_new_line_8 | acquire
 dizzy
 suspect
 plunge
@@ -113,7 +113,7 @@ share
 human
 salon
 raw |  
-| bip_39_word_new_line9 | acquire
+| bip_39_word_new_line_9 | acquire
 dizzy
 suspect
 plunge

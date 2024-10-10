@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ahead |  
-| bip_39_word_new_br10 | ahead<br>athlete<br>exercise<br>dinosaur<br>bright<br>effort<br>basket<br>guide<br>adapt<br>defense |  
-| bip_39_word_new_br11 | ahead<br>athlete<br>exercise<br>dinosaur<br>bright<br>effort<br>basket<br>guide<br>adapt<br>defense<br>endorse |  
-| bip_39_word_new_br12 | ahead<br>athlete<br>exercise<br>dinosaur<br>bright<br>effort<br>basket<br>guide<br>adapt<br>defense<br>endorse<br>alcohol |  
-| bip_39_word_new_br2 | ahead<br>athlete |  
-| bip_39_word_new_br3 | ahead<br>athlete<br>exercise |  
-| bip_39_word_new_br4 | ahead<br>athlete<br>exercise<br>dinosaur |  
-| bip_39_word_new_br5 | ahead<br>athlete<br>exercise<br>dinosaur<br>bright |  
-| bip_39_word_new_br6 | ahead<br>athlete<br>exercise<br>dinosaur<br>bright<br>effort |  
-| bip_39_word_new_br7 | ahead<br>athlete<br>exercise<br>dinosaur<br>bright<br>effort<br>basket |  
-| bip_39_word_new_br8 | ahead<br>athlete<br>exercise<br>dinosaur<br>bright<br>effort<br>basket<br>guide |  
-| bip_39_word_new_br9 | ahead<br>athlete<br>exercise<br>dinosaur<br>bright<br>effort<br>basket<br>guide<br>adapt |  
-| bip_39_word_new_line1 | ahead |  
-| bip_39_word_new_line10 | ahead
+| bip_39_word_new_br_1 | ahead |  
+| bip_39_word_new_br_10 | ahead<br>athlete<br>exercise<br>dinosaur<br>bright<br>effort<br>basket<br>guide<br>adapt<br>defense |  
+| bip_39_word_new_br_11 | ahead<br>athlete<br>exercise<br>dinosaur<br>bright<br>effort<br>basket<br>guide<br>adapt<br>defense<br>endorse |  
+| bip_39_word_new_br_12 | ahead<br>athlete<br>exercise<br>dinosaur<br>bright<br>effort<br>basket<br>guide<br>adapt<br>defense<br>endorse<br>alcohol |  
+| bip_39_word_new_br_2 | ahead<br>athlete |  
+| bip_39_word_new_br_3 | ahead<br>athlete<br>exercise |  
+| bip_39_word_new_br_4 | ahead<br>athlete<br>exercise<br>dinosaur |  
+| bip_39_word_new_br_5 | ahead<br>athlete<br>exercise<br>dinosaur<br>bright |  
+| bip_39_word_new_br_6 | ahead<br>athlete<br>exercise<br>dinosaur<br>bright<br>effort |  
+| bip_39_word_new_br_7 | ahead<br>athlete<br>exercise<br>dinosaur<br>bright<br>effort<br>basket |  
+| bip_39_word_new_br_8 | ahead<br>athlete<br>exercise<br>dinosaur<br>bright<br>effort<br>basket<br>guide |  
+| bip_39_word_new_br_9 | ahead<br>athlete<br>exercise<br>dinosaur<br>bright<br>effort<br>basket<br>guide<br>adapt |  
+| bip_39_word_new_line_1 | ahead |  
+| bip_39_word_new_line_10 | ahead
 athlete
 exercise
 dinosaur
@@ -55,7 +55,7 @@ basket
 guide
 adapt
 defense |  
-| bip_39_word_new_line11 | ahead
+| bip_39_word_new_line_11 | ahead
 athlete
 exercise
 dinosaur
@@ -66,7 +66,7 @@ guide
 adapt
 defense
 endorse |  
-| bip_39_word_new_line12 | ahead
+| bip_39_word_new_line_12 | ahead
 athlete
 exercise
 dinosaur
@@ -78,34 +78,34 @@ adapt
 defense
 endorse
 alcohol |  
-| bip_39_word_new_line2 | ahead
+| bip_39_word_new_line_2 | ahead
 athlete |  
-| bip_39_word_new_line3 | ahead
+| bip_39_word_new_line_3 | ahead
 athlete
 exercise |  
-| bip_39_word_new_line4 | ahead
+| bip_39_word_new_line_4 | ahead
 athlete
 exercise
 dinosaur |  
-| bip_39_word_new_line5 | ahead
+| bip_39_word_new_line_5 | ahead
 athlete
 exercise
 dinosaur
 bright |  
-| bip_39_word_new_line6 | ahead
+| bip_39_word_new_line_6 | ahead
 athlete
 exercise
 dinosaur
 bright
 effort |  
-| bip_39_word_new_line7 | ahead
+| bip_39_word_new_line_7 | ahead
 athlete
 exercise
 dinosaur
 bright
 effort
 basket |  
-| bip_39_word_new_line8 | ahead
+| bip_39_word_new_line_8 | ahead
 athlete
 exercise
 dinosaur
@@ -113,7 +113,7 @@ bright
 effort
 basket
 guide |  
-| bip_39_word_new_line9 | ahead
+| bip_39_word_new_line_9 | ahead
 athlete
 exercise
 dinosaur

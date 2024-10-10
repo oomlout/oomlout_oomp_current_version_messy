@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | doctor |  
-| bip_39_word_new_br10 | doctor<br>grace<br>join<br>flower<br>magnet<br>member<br>bundle<br>desk<br>sugar<br>coyote |  
-| bip_39_word_new_br11 | doctor<br>grace<br>join<br>flower<br>magnet<br>member<br>bundle<br>desk<br>sugar<br>coyote<br>evil |  
-| bip_39_word_new_br12 | doctor<br>grace<br>join<br>flower<br>magnet<br>member<br>bundle<br>desk<br>sugar<br>coyote<br>evil<br>advance |  
-| bip_39_word_new_br2 | doctor<br>grace |  
-| bip_39_word_new_br3 | doctor<br>grace<br>join |  
-| bip_39_word_new_br4 | doctor<br>grace<br>join<br>flower |  
-| bip_39_word_new_br5 | doctor<br>grace<br>join<br>flower<br>magnet |  
-| bip_39_word_new_br6 | doctor<br>grace<br>join<br>flower<br>magnet<br>member |  
-| bip_39_word_new_br7 | doctor<br>grace<br>join<br>flower<br>magnet<br>member<br>bundle |  
-| bip_39_word_new_br8 | doctor<br>grace<br>join<br>flower<br>magnet<br>member<br>bundle<br>desk |  
-| bip_39_word_new_br9 | doctor<br>grace<br>join<br>flower<br>magnet<br>member<br>bundle<br>desk<br>sugar |  
-| bip_39_word_new_line1 | doctor |  
-| bip_39_word_new_line10 | doctor
+| bip_39_word_new_br_1 | doctor |  
+| bip_39_word_new_br_10 | doctor<br>grace<br>join<br>flower<br>magnet<br>member<br>bundle<br>desk<br>sugar<br>coyote |  
+| bip_39_word_new_br_11 | doctor<br>grace<br>join<br>flower<br>magnet<br>member<br>bundle<br>desk<br>sugar<br>coyote<br>evil |  
+| bip_39_word_new_br_12 | doctor<br>grace<br>join<br>flower<br>magnet<br>member<br>bundle<br>desk<br>sugar<br>coyote<br>evil<br>advance |  
+| bip_39_word_new_br_2 | doctor<br>grace |  
+| bip_39_word_new_br_3 | doctor<br>grace<br>join |  
+| bip_39_word_new_br_4 | doctor<br>grace<br>join<br>flower |  
+| bip_39_word_new_br_5 | doctor<br>grace<br>join<br>flower<br>magnet |  
+| bip_39_word_new_br_6 | doctor<br>grace<br>join<br>flower<br>magnet<br>member |  
+| bip_39_word_new_br_7 | doctor<br>grace<br>join<br>flower<br>magnet<br>member<br>bundle |  
+| bip_39_word_new_br_8 | doctor<br>grace<br>join<br>flower<br>magnet<br>member<br>bundle<br>desk |  
+| bip_39_word_new_br_9 | doctor<br>grace<br>join<br>flower<br>magnet<br>member<br>bundle<br>desk<br>sugar |  
+| bip_39_word_new_line_1 | doctor |  
+| bip_39_word_new_line_10 | doctor
 grace
 join
 flower
@@ -55,7 +55,7 @@ bundle
 desk
 sugar
 coyote |  
-| bip_39_word_new_line11 | doctor
+| bip_39_word_new_line_11 | doctor
 grace
 join
 flower
@@ -66,7 +66,7 @@ desk
 sugar
 coyote
 evil |  
-| bip_39_word_new_line12 | doctor
+| bip_39_word_new_line_12 | doctor
 grace
 join
 flower
@@ -78,34 +78,34 @@ sugar
 coyote
 evil
 advance |  
-| bip_39_word_new_line2 | doctor
+| bip_39_word_new_line_2 | doctor
 grace |  
-| bip_39_word_new_line3 | doctor
+| bip_39_word_new_line_3 | doctor
 grace
 join |  
-| bip_39_word_new_line4 | doctor
+| bip_39_word_new_line_4 | doctor
 grace
 join
 flower |  
-| bip_39_word_new_line5 | doctor
+| bip_39_word_new_line_5 | doctor
 grace
 join
 flower
 magnet |  
-| bip_39_word_new_line6 | doctor
+| bip_39_word_new_line_6 | doctor
 grace
 join
 flower
 magnet
 member |  
-| bip_39_word_new_line7 | doctor
+| bip_39_word_new_line_7 | doctor
 grace
 join
 flower
 magnet
 member
 bundle |  
-| bip_39_word_new_line8 | doctor
+| bip_39_word_new_line_8 | doctor
 grace
 join
 flower
@@ -113,7 +113,7 @@ magnet
 member
 bundle
 desk |  
-| bip_39_word_new_line9 | doctor
+| bip_39_word_new_line_9 | doctor
 grace
 join
 flower

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | earth |  
-| bip_39_word_new_br10 | earth<br>pistol<br>spread<br>enforce<br>agree<br>horror<br>core<br>valid<br>pretty<br>local |  
-| bip_39_word_new_br11 | earth<br>pistol<br>spread<br>enforce<br>agree<br>horror<br>core<br>valid<br>pretty<br>local<br>possible |  
-| bip_39_word_new_br12 | earth<br>pistol<br>spread<br>enforce<br>agree<br>horror<br>core<br>valid<br>pretty<br>local<br>possible<br>affair |  
-| bip_39_word_new_br2 | earth<br>pistol |  
-| bip_39_word_new_br3 | earth<br>pistol<br>spread |  
-| bip_39_word_new_br4 | earth<br>pistol<br>spread<br>enforce |  
-| bip_39_word_new_br5 | earth<br>pistol<br>spread<br>enforce<br>agree |  
-| bip_39_word_new_br6 | earth<br>pistol<br>spread<br>enforce<br>agree<br>horror |  
-| bip_39_word_new_br7 | earth<br>pistol<br>spread<br>enforce<br>agree<br>horror<br>core |  
-| bip_39_word_new_br8 | earth<br>pistol<br>spread<br>enforce<br>agree<br>horror<br>core<br>valid |  
-| bip_39_word_new_br9 | earth<br>pistol<br>spread<br>enforce<br>agree<br>horror<br>core<br>valid<br>pretty |  
-| bip_39_word_new_line1 | earth |  
-| bip_39_word_new_line10 | earth
+| bip_39_word_new_br_1 | earth |  
+| bip_39_word_new_br_10 | earth<br>pistol<br>spread<br>enforce<br>agree<br>horror<br>core<br>valid<br>pretty<br>local |  
+| bip_39_word_new_br_11 | earth<br>pistol<br>spread<br>enforce<br>agree<br>horror<br>core<br>valid<br>pretty<br>local<br>possible |  
+| bip_39_word_new_br_12 | earth<br>pistol<br>spread<br>enforce<br>agree<br>horror<br>core<br>valid<br>pretty<br>local<br>possible<br>affair |  
+| bip_39_word_new_br_2 | earth<br>pistol |  
+| bip_39_word_new_br_3 | earth<br>pistol<br>spread |  
+| bip_39_word_new_br_4 | earth<br>pistol<br>spread<br>enforce |  
+| bip_39_word_new_br_5 | earth<br>pistol<br>spread<br>enforce<br>agree |  
+| bip_39_word_new_br_6 | earth<br>pistol<br>spread<br>enforce<br>agree<br>horror |  
+| bip_39_word_new_br_7 | earth<br>pistol<br>spread<br>enforce<br>agree<br>horror<br>core |  
+| bip_39_word_new_br_8 | earth<br>pistol<br>spread<br>enforce<br>agree<br>horror<br>core<br>valid |  
+| bip_39_word_new_br_9 | earth<br>pistol<br>spread<br>enforce<br>agree<br>horror<br>core<br>valid<br>pretty |  
+| bip_39_word_new_line_1 | earth |  
+| bip_39_word_new_line_10 | earth
 pistol
 spread
 enforce
@@ -55,7 +55,7 @@ core
 valid
 pretty
 local |  
-| bip_39_word_new_line11 | earth
+| bip_39_word_new_line_11 | earth
 pistol
 spread
 enforce
@@ -66,7 +66,7 @@ valid
 pretty
 local
 possible |  
-| bip_39_word_new_line12 | earth
+| bip_39_word_new_line_12 | earth
 pistol
 spread
 enforce
@@ -78,34 +78,34 @@ pretty
 local
 possible
 affair |  
-| bip_39_word_new_line2 | earth
+| bip_39_word_new_line_2 | earth
 pistol |  
-| bip_39_word_new_line3 | earth
+| bip_39_word_new_line_3 | earth
 pistol
 spread |  
-| bip_39_word_new_line4 | earth
+| bip_39_word_new_line_4 | earth
 pistol
 spread
 enforce |  
-| bip_39_word_new_line5 | earth
+| bip_39_word_new_line_5 | earth
 pistol
 spread
 enforce
 agree |  
-| bip_39_word_new_line6 | earth
+| bip_39_word_new_line_6 | earth
 pistol
 spread
 enforce
 agree
 horror |  
-| bip_39_word_new_line7 | earth
+| bip_39_word_new_line_7 | earth
 pistol
 spread
 enforce
 agree
 horror
 core |  
-| bip_39_word_new_line8 | earth
+| bip_39_word_new_line_8 | earth
 pistol
 spread
 enforce
@@ -113,7 +113,7 @@ agree
 horror
 core
 valid |  
-| bip_39_word_new_line9 | earth
+| bip_39_word_new_line_9 | earth
 pistol
 spread
 enforce

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | check |  
-| bip_39_word_new_br10 | check<br>worth<br>genius<br>recycle<br>enhance<br>scan<br>ensure<br>behave<br>fossil<br>account |  
-| bip_39_word_new_br11 | check<br>worth<br>genius<br>recycle<br>enhance<br>scan<br>ensure<br>behave<br>fossil<br>account<br>certain |  
-| bip_39_word_new_br12 | check<br>worth<br>genius<br>recycle<br>enhance<br>scan<br>ensure<br>behave<br>fossil<br>account<br>certain<br>absent |  
-| bip_39_word_new_br2 | check<br>worth |  
-| bip_39_word_new_br3 | check<br>worth<br>genius |  
-| bip_39_word_new_br4 | check<br>worth<br>genius<br>recycle |  
-| bip_39_word_new_br5 | check<br>worth<br>genius<br>recycle<br>enhance |  
-| bip_39_word_new_br6 | check<br>worth<br>genius<br>recycle<br>enhance<br>scan |  
-| bip_39_word_new_br7 | check<br>worth<br>genius<br>recycle<br>enhance<br>scan<br>ensure |  
-| bip_39_word_new_br8 | check<br>worth<br>genius<br>recycle<br>enhance<br>scan<br>ensure<br>behave |  
-| bip_39_word_new_br9 | check<br>worth<br>genius<br>recycle<br>enhance<br>scan<br>ensure<br>behave<br>fossil |  
-| bip_39_word_new_line1 | check |  
-| bip_39_word_new_line10 | check
+| bip_39_word_new_br_1 | check |  
+| bip_39_word_new_br_10 | check<br>worth<br>genius<br>recycle<br>enhance<br>scan<br>ensure<br>behave<br>fossil<br>account |  
+| bip_39_word_new_br_11 | check<br>worth<br>genius<br>recycle<br>enhance<br>scan<br>ensure<br>behave<br>fossil<br>account<br>certain |  
+| bip_39_word_new_br_12 | check<br>worth<br>genius<br>recycle<br>enhance<br>scan<br>ensure<br>behave<br>fossil<br>account<br>certain<br>absent |  
+| bip_39_word_new_br_2 | check<br>worth |  
+| bip_39_word_new_br_3 | check<br>worth<br>genius |  
+| bip_39_word_new_br_4 | check<br>worth<br>genius<br>recycle |  
+| bip_39_word_new_br_5 | check<br>worth<br>genius<br>recycle<br>enhance |  
+| bip_39_word_new_br_6 | check<br>worth<br>genius<br>recycle<br>enhance<br>scan |  
+| bip_39_word_new_br_7 | check<br>worth<br>genius<br>recycle<br>enhance<br>scan<br>ensure |  
+| bip_39_word_new_br_8 | check<br>worth<br>genius<br>recycle<br>enhance<br>scan<br>ensure<br>behave |  
+| bip_39_word_new_br_9 | check<br>worth<br>genius<br>recycle<br>enhance<br>scan<br>ensure<br>behave<br>fossil |  
+| bip_39_word_new_line_1 | check |  
+| bip_39_word_new_line_10 | check
 worth
 genius
 recycle
@@ -55,7 +55,7 @@ ensure
 behave
 fossil
 account |  
-| bip_39_word_new_line11 | check
+| bip_39_word_new_line_11 | check
 worth
 genius
 recycle
@@ -66,7 +66,7 @@ behave
 fossil
 account
 certain |  
-| bip_39_word_new_line12 | check
+| bip_39_word_new_line_12 | check
 worth
 genius
 recycle
@@ -78,34 +78,34 @@ fossil
 account
 certain
 absent |  
-| bip_39_word_new_line2 | check
+| bip_39_word_new_line_2 | check
 worth |  
-| bip_39_word_new_line3 | check
+| bip_39_word_new_line_3 | check
 worth
 genius |  
-| bip_39_word_new_line4 | check
+| bip_39_word_new_line_4 | check
 worth
 genius
 recycle |  
-| bip_39_word_new_line5 | check
+| bip_39_word_new_line_5 | check
 worth
 genius
 recycle
 enhance |  
-| bip_39_word_new_line6 | check
+| bip_39_word_new_line_6 | check
 worth
 genius
 recycle
 enhance
 scan |  
-| bip_39_word_new_line7 | check
+| bip_39_word_new_line_7 | check
 worth
 genius
 recycle
 enhance
 scan
 ensure |  
-| bip_39_word_new_line8 | check
+| bip_39_word_new_line_8 | check
 worth
 genius
 recycle
@@ -113,7 +113,7 @@ enhance
 scan
 ensure
 behave |  
-| bip_39_word_new_line9 | check
+| bip_39_word_new_line_9 | check
 worth
 genius
 recycle

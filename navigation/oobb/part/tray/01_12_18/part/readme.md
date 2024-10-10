@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | service |  
-| bip_39_word_new_br10 | service<br>session<br>cry<br>lunch<br>conduct<br>glow<br>humble<br>lizard<br>knock<br>visit |  
-| bip_39_word_new_br11 | service<br>session<br>cry<br>lunch<br>conduct<br>glow<br>humble<br>lizard<br>knock<br>visit<br>snap |  
-| bip_39_word_new_br12 | service<br>session<br>cry<br>lunch<br>conduct<br>glow<br>humble<br>lizard<br>knock<br>visit<br>snap<br>assist |  
-| bip_39_word_new_br2 | service<br>session |  
-| bip_39_word_new_br3 | service<br>session<br>cry |  
-| bip_39_word_new_br4 | service<br>session<br>cry<br>lunch |  
-| bip_39_word_new_br5 | service<br>session<br>cry<br>lunch<br>conduct |  
-| bip_39_word_new_br6 | service<br>session<br>cry<br>lunch<br>conduct<br>glow |  
-| bip_39_word_new_br7 | service<br>session<br>cry<br>lunch<br>conduct<br>glow<br>humble |  
-| bip_39_word_new_br8 | service<br>session<br>cry<br>lunch<br>conduct<br>glow<br>humble<br>lizard |  
-| bip_39_word_new_br9 | service<br>session<br>cry<br>lunch<br>conduct<br>glow<br>humble<br>lizard<br>knock |  
-| bip_39_word_new_line1 | service |  
-| bip_39_word_new_line10 | service
+| bip_39_word_new_br_1 | service |  
+| bip_39_word_new_br_10 | service<br>session<br>cry<br>lunch<br>conduct<br>glow<br>humble<br>lizard<br>knock<br>visit |  
+| bip_39_word_new_br_11 | service<br>session<br>cry<br>lunch<br>conduct<br>glow<br>humble<br>lizard<br>knock<br>visit<br>snap |  
+| bip_39_word_new_br_12 | service<br>session<br>cry<br>lunch<br>conduct<br>glow<br>humble<br>lizard<br>knock<br>visit<br>snap<br>assist |  
+| bip_39_word_new_br_2 | service<br>session |  
+| bip_39_word_new_br_3 | service<br>session<br>cry |  
+| bip_39_word_new_br_4 | service<br>session<br>cry<br>lunch |  
+| bip_39_word_new_br_5 | service<br>session<br>cry<br>lunch<br>conduct |  
+| bip_39_word_new_br_6 | service<br>session<br>cry<br>lunch<br>conduct<br>glow |  
+| bip_39_word_new_br_7 | service<br>session<br>cry<br>lunch<br>conduct<br>glow<br>humble |  
+| bip_39_word_new_br_8 | service<br>session<br>cry<br>lunch<br>conduct<br>glow<br>humble<br>lizard |  
+| bip_39_word_new_br_9 | service<br>session<br>cry<br>lunch<br>conduct<br>glow<br>humble<br>lizard<br>knock |  
+| bip_39_word_new_line_1 | service |  
+| bip_39_word_new_line_10 | service
 session
 cry
 lunch
@@ -55,7 +55,7 @@ humble
 lizard
 knock
 visit |  
-| bip_39_word_new_line11 | service
+| bip_39_word_new_line_11 | service
 session
 cry
 lunch
@@ -66,7 +66,7 @@ lizard
 knock
 visit
 snap |  
-| bip_39_word_new_line12 | service
+| bip_39_word_new_line_12 | service
 session
 cry
 lunch
@@ -78,34 +78,34 @@ knock
 visit
 snap
 assist |  
-| bip_39_word_new_line2 | service
+| bip_39_word_new_line_2 | service
 session |  
-| bip_39_word_new_line3 | service
+| bip_39_word_new_line_3 | service
 session
 cry |  
-| bip_39_word_new_line4 | service
+| bip_39_word_new_line_4 | service
 session
 cry
 lunch |  
-| bip_39_word_new_line5 | service
+| bip_39_word_new_line_5 | service
 session
 cry
 lunch
 conduct |  
-| bip_39_word_new_line6 | service
+| bip_39_word_new_line_6 | service
 session
 cry
 lunch
 conduct
 glow |  
-| bip_39_word_new_line7 | service
+| bip_39_word_new_line_7 | service
 session
 cry
 lunch
 conduct
 glow
 humble |  
-| bip_39_word_new_line8 | service
+| bip_39_word_new_line_8 | service
 session
 cry
 lunch
@@ -113,7 +113,7 @@ conduct
 glow
 humble
 lizard |  
-| bip_39_word_new_line9 | service
+| bip_39_word_new_line_9 | service
 session
 cry
 lunch

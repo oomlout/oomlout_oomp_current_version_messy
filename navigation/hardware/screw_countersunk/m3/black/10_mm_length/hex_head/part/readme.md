@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wrong |  
-| bip_39_word_new_br10 | wrong<br>dose<br>unfair<br>auto<br>rapid<br>cactus<br>daughter<br>vast<br>culture<br>twist |  
-| bip_39_word_new_br11 | wrong<br>dose<br>unfair<br>auto<br>rapid<br>cactus<br>daughter<br>vast<br>culture<br>twist<br>poet |  
-| bip_39_word_new_br12 | wrong<br>dose<br>unfair<br>auto<br>rapid<br>cactus<br>daughter<br>vast<br>culture<br>twist<br>poet<br>advance |  
-| bip_39_word_new_br2 | wrong<br>dose |  
-| bip_39_word_new_br3 | wrong<br>dose<br>unfair |  
-| bip_39_word_new_br4 | wrong<br>dose<br>unfair<br>auto |  
-| bip_39_word_new_br5 | wrong<br>dose<br>unfair<br>auto<br>rapid |  
-| bip_39_word_new_br6 | wrong<br>dose<br>unfair<br>auto<br>rapid<br>cactus |  
-| bip_39_word_new_br7 | wrong<br>dose<br>unfair<br>auto<br>rapid<br>cactus<br>daughter |  
-| bip_39_word_new_br8 | wrong<br>dose<br>unfair<br>auto<br>rapid<br>cactus<br>daughter<br>vast |  
-| bip_39_word_new_br9 | wrong<br>dose<br>unfair<br>auto<br>rapid<br>cactus<br>daughter<br>vast<br>culture |  
-| bip_39_word_new_line1 | wrong |  
-| bip_39_word_new_line10 | wrong
+| bip_39_word_new_br_1 | wrong |  
+| bip_39_word_new_br_10 | wrong<br>dose<br>unfair<br>auto<br>rapid<br>cactus<br>daughter<br>vast<br>culture<br>twist |  
+| bip_39_word_new_br_11 | wrong<br>dose<br>unfair<br>auto<br>rapid<br>cactus<br>daughter<br>vast<br>culture<br>twist<br>poet |  
+| bip_39_word_new_br_12 | wrong<br>dose<br>unfair<br>auto<br>rapid<br>cactus<br>daughter<br>vast<br>culture<br>twist<br>poet<br>advance |  
+| bip_39_word_new_br_2 | wrong<br>dose |  
+| bip_39_word_new_br_3 | wrong<br>dose<br>unfair |  
+| bip_39_word_new_br_4 | wrong<br>dose<br>unfair<br>auto |  
+| bip_39_word_new_br_5 | wrong<br>dose<br>unfair<br>auto<br>rapid |  
+| bip_39_word_new_br_6 | wrong<br>dose<br>unfair<br>auto<br>rapid<br>cactus |  
+| bip_39_word_new_br_7 | wrong<br>dose<br>unfair<br>auto<br>rapid<br>cactus<br>daughter |  
+| bip_39_word_new_br_8 | wrong<br>dose<br>unfair<br>auto<br>rapid<br>cactus<br>daughter<br>vast |  
+| bip_39_word_new_br_9 | wrong<br>dose<br>unfair<br>auto<br>rapid<br>cactus<br>daughter<br>vast<br>culture |  
+| bip_39_word_new_line_1 | wrong |  
+| bip_39_word_new_line_10 | wrong
 dose
 unfair
 auto
@@ -55,7 +55,7 @@ daughter
 vast
 culture
 twist |  
-| bip_39_word_new_line11 | wrong
+| bip_39_word_new_line_11 | wrong
 dose
 unfair
 auto
@@ -66,7 +66,7 @@ vast
 culture
 twist
 poet |  
-| bip_39_word_new_line12 | wrong
+| bip_39_word_new_line_12 | wrong
 dose
 unfair
 auto
@@ -78,34 +78,34 @@ culture
 twist
 poet
 advance |  
-| bip_39_word_new_line2 | wrong
+| bip_39_word_new_line_2 | wrong
 dose |  
-| bip_39_word_new_line3 | wrong
+| bip_39_word_new_line_3 | wrong
 dose
 unfair |  
-| bip_39_word_new_line4 | wrong
+| bip_39_word_new_line_4 | wrong
 dose
 unfair
 auto |  
-| bip_39_word_new_line5 | wrong
+| bip_39_word_new_line_5 | wrong
 dose
 unfair
 auto
 rapid |  
-| bip_39_word_new_line6 | wrong
+| bip_39_word_new_line_6 | wrong
 dose
 unfair
 auto
 rapid
 cactus |  
-| bip_39_word_new_line7 | wrong
+| bip_39_word_new_line_7 | wrong
 dose
 unfair
 auto
 rapid
 cactus
 daughter |  
-| bip_39_word_new_line8 | wrong
+| bip_39_word_new_line_8 | wrong
 dose
 unfair
 auto
@@ -113,7 +113,7 @@ rapid
 cactus
 daughter
 vast |  
-| bip_39_word_new_line9 | wrong
+| bip_39_word_new_line_9 | wrong
 dose
 unfair
 auto

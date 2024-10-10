@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | improve |  
-| bip_39_word_new_br10 | improve<br>clarify<br>tone<br>bounce<br>symptom<br>hazard<br>inherit<br>odor<br>stay<br>science |  
-| bip_39_word_new_br11 | improve<br>clarify<br>tone<br>bounce<br>symptom<br>hazard<br>inherit<br>odor<br>stay<br>science<br>hunt |  
-| bip_39_word_new_br12 | improve<br>clarify<br>tone<br>bounce<br>symptom<br>hazard<br>inherit<br>odor<br>stay<br>science<br>hunt<br>across |  
-| bip_39_word_new_br2 | improve<br>clarify |  
-| bip_39_word_new_br3 | improve<br>clarify<br>tone |  
-| bip_39_word_new_br4 | improve<br>clarify<br>tone<br>bounce |  
-| bip_39_word_new_br5 | improve<br>clarify<br>tone<br>bounce<br>symptom |  
-| bip_39_word_new_br6 | improve<br>clarify<br>tone<br>bounce<br>symptom<br>hazard |  
-| bip_39_word_new_br7 | improve<br>clarify<br>tone<br>bounce<br>symptom<br>hazard<br>inherit |  
-| bip_39_word_new_br8 | improve<br>clarify<br>tone<br>bounce<br>symptom<br>hazard<br>inherit<br>odor |  
-| bip_39_word_new_br9 | improve<br>clarify<br>tone<br>bounce<br>symptom<br>hazard<br>inherit<br>odor<br>stay |  
-| bip_39_word_new_line1 | improve |  
-| bip_39_word_new_line10 | improve
+| bip_39_word_new_br_1 | improve |  
+| bip_39_word_new_br_10 | improve<br>clarify<br>tone<br>bounce<br>symptom<br>hazard<br>inherit<br>odor<br>stay<br>science |  
+| bip_39_word_new_br_11 | improve<br>clarify<br>tone<br>bounce<br>symptom<br>hazard<br>inherit<br>odor<br>stay<br>science<br>hunt |  
+| bip_39_word_new_br_12 | improve<br>clarify<br>tone<br>bounce<br>symptom<br>hazard<br>inherit<br>odor<br>stay<br>science<br>hunt<br>across |  
+| bip_39_word_new_br_2 | improve<br>clarify |  
+| bip_39_word_new_br_3 | improve<br>clarify<br>tone |  
+| bip_39_word_new_br_4 | improve<br>clarify<br>tone<br>bounce |  
+| bip_39_word_new_br_5 | improve<br>clarify<br>tone<br>bounce<br>symptom |  
+| bip_39_word_new_br_6 | improve<br>clarify<br>tone<br>bounce<br>symptom<br>hazard |  
+| bip_39_word_new_br_7 | improve<br>clarify<br>tone<br>bounce<br>symptom<br>hazard<br>inherit |  
+| bip_39_word_new_br_8 | improve<br>clarify<br>tone<br>bounce<br>symptom<br>hazard<br>inherit<br>odor |  
+| bip_39_word_new_br_9 | improve<br>clarify<br>tone<br>bounce<br>symptom<br>hazard<br>inherit<br>odor<br>stay |  
+| bip_39_word_new_line_1 | improve |  
+| bip_39_word_new_line_10 | improve
 clarify
 tone
 bounce
@@ -55,7 +55,7 @@ inherit
 odor
 stay
 science |  
-| bip_39_word_new_line11 | improve
+| bip_39_word_new_line_11 | improve
 clarify
 tone
 bounce
@@ -66,7 +66,7 @@ odor
 stay
 science
 hunt |  
-| bip_39_word_new_line12 | improve
+| bip_39_word_new_line_12 | improve
 clarify
 tone
 bounce
@@ -78,34 +78,34 @@ stay
 science
 hunt
 across |  
-| bip_39_word_new_line2 | improve
+| bip_39_word_new_line_2 | improve
 clarify |  
-| bip_39_word_new_line3 | improve
+| bip_39_word_new_line_3 | improve
 clarify
 tone |  
-| bip_39_word_new_line4 | improve
+| bip_39_word_new_line_4 | improve
 clarify
 tone
 bounce |  
-| bip_39_word_new_line5 | improve
+| bip_39_word_new_line_5 | improve
 clarify
 tone
 bounce
 symptom |  
-| bip_39_word_new_line6 | improve
+| bip_39_word_new_line_6 | improve
 clarify
 tone
 bounce
 symptom
 hazard |  
-| bip_39_word_new_line7 | improve
+| bip_39_word_new_line_7 | improve
 clarify
 tone
 bounce
 symptom
 hazard
 inherit |  
-| bip_39_word_new_line8 | improve
+| bip_39_word_new_line_8 | improve
 clarify
 tone
 bounce
@@ -113,7 +113,7 @@ symptom
 hazard
 inherit
 odor |  
-| bip_39_word_new_line9 | improve
+| bip_39_word_new_line_9 | improve
 clarify
 tone
 bounce

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sudden |  
-| bip_39_word_new_br10 | sudden<br>ivory<br>bicycle<br>aspect<br>argue<br>early<br>congress<br>dash<br>prison<br>offer |  
-| bip_39_word_new_br11 | sudden<br>ivory<br>bicycle<br>aspect<br>argue<br>early<br>congress<br>dash<br>prison<br>offer<br>sail |  
-| bip_39_word_new_br12 | sudden<br>ivory<br>bicycle<br>aspect<br>argue<br>early<br>congress<br>dash<br>prison<br>offer<br>sail<br>attract |  
-| bip_39_word_new_br2 | sudden<br>ivory |  
-| bip_39_word_new_br3 | sudden<br>ivory<br>bicycle |  
-| bip_39_word_new_br4 | sudden<br>ivory<br>bicycle<br>aspect |  
-| bip_39_word_new_br5 | sudden<br>ivory<br>bicycle<br>aspect<br>argue |  
-| bip_39_word_new_br6 | sudden<br>ivory<br>bicycle<br>aspect<br>argue<br>early |  
-| bip_39_word_new_br7 | sudden<br>ivory<br>bicycle<br>aspect<br>argue<br>early<br>congress |  
-| bip_39_word_new_br8 | sudden<br>ivory<br>bicycle<br>aspect<br>argue<br>early<br>congress<br>dash |  
-| bip_39_word_new_br9 | sudden<br>ivory<br>bicycle<br>aspect<br>argue<br>early<br>congress<br>dash<br>prison |  
-| bip_39_word_new_line1 | sudden |  
-| bip_39_word_new_line10 | sudden
+| bip_39_word_new_br_1 | sudden |  
+| bip_39_word_new_br_10 | sudden<br>ivory<br>bicycle<br>aspect<br>argue<br>early<br>congress<br>dash<br>prison<br>offer |  
+| bip_39_word_new_br_11 | sudden<br>ivory<br>bicycle<br>aspect<br>argue<br>early<br>congress<br>dash<br>prison<br>offer<br>sail |  
+| bip_39_word_new_br_12 | sudden<br>ivory<br>bicycle<br>aspect<br>argue<br>early<br>congress<br>dash<br>prison<br>offer<br>sail<br>attract |  
+| bip_39_word_new_br_2 | sudden<br>ivory |  
+| bip_39_word_new_br_3 | sudden<br>ivory<br>bicycle |  
+| bip_39_word_new_br_4 | sudden<br>ivory<br>bicycle<br>aspect |  
+| bip_39_word_new_br_5 | sudden<br>ivory<br>bicycle<br>aspect<br>argue |  
+| bip_39_word_new_br_6 | sudden<br>ivory<br>bicycle<br>aspect<br>argue<br>early |  
+| bip_39_word_new_br_7 | sudden<br>ivory<br>bicycle<br>aspect<br>argue<br>early<br>congress |  
+| bip_39_word_new_br_8 | sudden<br>ivory<br>bicycle<br>aspect<br>argue<br>early<br>congress<br>dash |  
+| bip_39_word_new_br_9 | sudden<br>ivory<br>bicycle<br>aspect<br>argue<br>early<br>congress<br>dash<br>prison |  
+| bip_39_word_new_line_1 | sudden |  
+| bip_39_word_new_line_10 | sudden
 ivory
 bicycle
 aspect
@@ -55,7 +55,7 @@ congress
 dash
 prison
 offer |  
-| bip_39_word_new_line11 | sudden
+| bip_39_word_new_line_11 | sudden
 ivory
 bicycle
 aspect
@@ -66,7 +66,7 @@ dash
 prison
 offer
 sail |  
-| bip_39_word_new_line12 | sudden
+| bip_39_word_new_line_12 | sudden
 ivory
 bicycle
 aspect
@@ -78,34 +78,34 @@ prison
 offer
 sail
 attract |  
-| bip_39_word_new_line2 | sudden
+| bip_39_word_new_line_2 | sudden
 ivory |  
-| bip_39_word_new_line3 | sudden
+| bip_39_word_new_line_3 | sudden
 ivory
 bicycle |  
-| bip_39_word_new_line4 | sudden
+| bip_39_word_new_line_4 | sudden
 ivory
 bicycle
 aspect |  
-| bip_39_word_new_line5 | sudden
+| bip_39_word_new_line_5 | sudden
 ivory
 bicycle
 aspect
 argue |  
-| bip_39_word_new_line6 | sudden
+| bip_39_word_new_line_6 | sudden
 ivory
 bicycle
 aspect
 argue
 early |  
-| bip_39_word_new_line7 | sudden
+| bip_39_word_new_line_7 | sudden
 ivory
 bicycle
 aspect
 argue
 early
 congress |  
-| bip_39_word_new_line8 | sudden
+| bip_39_word_new_line_8 | sudden
 ivory
 bicycle
 aspect
@@ -113,7 +113,7 @@ argue
 early
 congress
 dash |  
-| bip_39_word_new_line9 | sudden
+| bip_39_word_new_line_9 | sudden
 ivory
 bicycle
 aspect

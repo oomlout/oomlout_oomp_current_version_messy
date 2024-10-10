@@ -1,17 +1,17 @@
-bip_39_word_new_br1: sick
-bip_39_word_new_br10: sick<br>flock<br>they<br>slow<br>ginger<br>eyebrow<br>major<br>nominee<br>hold<br>genius
-bip_39_word_new_br11: sick<br>flock<br>they<br>slow<br>ginger<br>eyebrow<br>major<br>nominee<br>hold<br>genius<br>ship
-bip_39_word_new_br12: sick<br>flock<br>they<br>slow<br>ginger<br>eyebrow<br>major<br>nominee<br>hold<br>genius<br>ship<br>affair
-bip_39_word_new_br2: sick<br>flock
-bip_39_word_new_br3: sick<br>flock<br>they
-bip_39_word_new_br4: sick<br>flock<br>they<br>slow
-bip_39_word_new_br5: sick<br>flock<br>they<br>slow<br>ginger
-bip_39_word_new_br6: sick<br>flock<br>they<br>slow<br>ginger<br>eyebrow
-bip_39_word_new_br7: sick<br>flock<br>they<br>slow<br>ginger<br>eyebrow<br>major
-bip_39_word_new_br8: sick<br>flock<br>they<br>slow<br>ginger<br>eyebrow<br>major<br>nominee
-bip_39_word_new_br9: sick<br>flock<br>they<br>slow<br>ginger<br>eyebrow<br>major<br>nominee<br>hold
-bip_39_word_new_line1: sick
-bip_39_word_new_line10: 'sick
+bip_39_word_new_br_1: sick
+bip_39_word_new_br_10: sick<br>flock<br>they<br>slow<br>ginger<br>eyebrow<br>major<br>nominee<br>hold<br>genius
+bip_39_word_new_br_11: sick<br>flock<br>they<br>slow<br>ginger<br>eyebrow<br>major<br>nominee<br>hold<br>genius<br>ship
+bip_39_word_new_br_12: sick<br>flock<br>they<br>slow<br>ginger<br>eyebrow<br>major<br>nominee<br>hold<br>genius<br>ship<br>affair
+bip_39_word_new_br_2: sick<br>flock
+bip_39_word_new_br_3: sick<br>flock<br>they
+bip_39_word_new_br_4: sick<br>flock<br>they<br>slow
+bip_39_word_new_br_5: sick<br>flock<br>they<br>slow<br>ginger
+bip_39_word_new_br_6: sick<br>flock<br>they<br>slow<br>ginger<br>eyebrow
+bip_39_word_new_br_7: sick<br>flock<br>they<br>slow<br>ginger<br>eyebrow<br>major
+bip_39_word_new_br_8: sick<br>flock<br>they<br>slow<br>ginger<br>eyebrow<br>major<br>nominee
+bip_39_word_new_br_9: sick<br>flock<br>they<br>slow<br>ginger<br>eyebrow<br>major<br>nominee<br>hold
+bip_39_word_new_line_1: sick
+bip_39_word_new_line_10: 'sick
 
   flock
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'sick
   hold
 
   genius'
-bip_39_word_new_line11: 'sick
+bip_39_word_new_line_11: 'sick
 
   flock
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'sick
   genius
 
   ship'
-bip_39_word_new_line12: 'sick
+bip_39_word_new_line_12: 'sick
 
   flock
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'sick
   ship
 
   affair'
-bip_39_word_new_line2: 'sick
+bip_39_word_new_line_2: 'sick
 
   flock'
-bip_39_word_new_line3: 'sick
+bip_39_word_new_line_3: 'sick
 
   flock
 
   they'
-bip_39_word_new_line4: 'sick
+bip_39_word_new_line_4: 'sick
 
   flock
 
   they
 
   slow'
-bip_39_word_new_line5: 'sick
+bip_39_word_new_line_5: 'sick
 
   flock
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'sick
   slow
 
   ginger'
-bip_39_word_new_line6: 'sick
+bip_39_word_new_line_6: 'sick
 
   flock
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'sick
   ginger
 
   eyebrow'
-bip_39_word_new_line7: 'sick
+bip_39_word_new_line_7: 'sick
 
   flock
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'sick
   eyebrow
 
   major'
-bip_39_word_new_line8: 'sick
+bip_39_word_new_line_8: 'sick
 
   flock
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'sick
   major
 
   nominee'
-bip_39_word_new_line9: 'sick
+bip_39_word_new_line_9: 'sick
 
   flock
 

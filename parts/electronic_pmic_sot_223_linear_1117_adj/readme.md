@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fetch |  
-| bip_39_word_new_br10 | fetch<br>hazard<br>system<br>suit<br>gain<br>october<br>glory<br>chef<br>tragic<br>much |  
-| bip_39_word_new_br11 | fetch<br>hazard<br>system<br>suit<br>gain<br>october<br>glory<br>chef<br>tragic<br>much<br>tired |  
-| bip_39_word_new_br12 | fetch<br>hazard<br>system<br>suit<br>gain<br>october<br>glory<br>chef<br>tragic<br>much<br>tired<br>art |  
-| bip_39_word_new_br2 | fetch<br>hazard |  
-| bip_39_word_new_br3 | fetch<br>hazard<br>system |  
-| bip_39_word_new_br4 | fetch<br>hazard<br>system<br>suit |  
-| bip_39_word_new_br5 | fetch<br>hazard<br>system<br>suit<br>gain |  
-| bip_39_word_new_br6 | fetch<br>hazard<br>system<br>suit<br>gain<br>october |  
-| bip_39_word_new_br7 | fetch<br>hazard<br>system<br>suit<br>gain<br>october<br>glory |  
-| bip_39_word_new_br8 | fetch<br>hazard<br>system<br>suit<br>gain<br>october<br>glory<br>chef |  
-| bip_39_word_new_br9 | fetch<br>hazard<br>system<br>suit<br>gain<br>october<br>glory<br>chef<br>tragic |  
-| bip_39_word_new_line1 | fetch |  
-| bip_39_word_new_line10 | fetch
+| bip_39_word_new_br_1 | fetch |  
+| bip_39_word_new_br_10 | fetch<br>hazard<br>system<br>suit<br>gain<br>october<br>glory<br>chef<br>tragic<br>much |  
+| bip_39_word_new_br_11 | fetch<br>hazard<br>system<br>suit<br>gain<br>october<br>glory<br>chef<br>tragic<br>much<br>tired |  
+| bip_39_word_new_br_12 | fetch<br>hazard<br>system<br>suit<br>gain<br>october<br>glory<br>chef<br>tragic<br>much<br>tired<br>art |  
+| bip_39_word_new_br_2 | fetch<br>hazard |  
+| bip_39_word_new_br_3 | fetch<br>hazard<br>system |  
+| bip_39_word_new_br_4 | fetch<br>hazard<br>system<br>suit |  
+| bip_39_word_new_br_5 | fetch<br>hazard<br>system<br>suit<br>gain |  
+| bip_39_word_new_br_6 | fetch<br>hazard<br>system<br>suit<br>gain<br>october |  
+| bip_39_word_new_br_7 | fetch<br>hazard<br>system<br>suit<br>gain<br>october<br>glory |  
+| bip_39_word_new_br_8 | fetch<br>hazard<br>system<br>suit<br>gain<br>october<br>glory<br>chef |  
+| bip_39_word_new_br_9 | fetch<br>hazard<br>system<br>suit<br>gain<br>october<br>glory<br>chef<br>tragic |  
+| bip_39_word_new_line_1 | fetch |  
+| bip_39_word_new_line_10 | fetch
 hazard
 system
 suit
@@ -55,7 +55,7 @@ glory
 chef
 tragic
 much |  
-| bip_39_word_new_line11 | fetch
+| bip_39_word_new_line_11 | fetch
 hazard
 system
 suit
@@ -66,7 +66,7 @@ chef
 tragic
 much
 tired |  
-| bip_39_word_new_line12 | fetch
+| bip_39_word_new_line_12 | fetch
 hazard
 system
 suit
@@ -78,34 +78,34 @@ tragic
 much
 tired
 art |  
-| bip_39_word_new_line2 | fetch
+| bip_39_word_new_line_2 | fetch
 hazard |  
-| bip_39_word_new_line3 | fetch
+| bip_39_word_new_line_3 | fetch
 hazard
 system |  
-| bip_39_word_new_line4 | fetch
+| bip_39_word_new_line_4 | fetch
 hazard
 system
 suit |  
-| bip_39_word_new_line5 | fetch
+| bip_39_word_new_line_5 | fetch
 hazard
 system
 suit
 gain |  
-| bip_39_word_new_line6 | fetch
+| bip_39_word_new_line_6 | fetch
 hazard
 system
 suit
 gain
 october |  
-| bip_39_word_new_line7 | fetch
+| bip_39_word_new_line_7 | fetch
 hazard
 system
 suit
 gain
 october
 glory |  
-| bip_39_word_new_line8 | fetch
+| bip_39_word_new_line_8 | fetch
 hazard
 system
 suit
@@ -113,7 +113,7 @@ gain
 october
 glory
 chef |  
-| bip_39_word_new_line9 | fetch
+| bip_39_word_new_line_9 | fetch
 hazard
 system
 suit

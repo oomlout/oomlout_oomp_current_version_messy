@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | quantum |  
-| bip_39_word_new_br10 | quantum<br>spoon<br>brother<br>fade<br>pitch<br>deer<br>belt<br>eyebrow<br>need<br>balcony |  
-| bip_39_word_new_br11 | quantum<br>spoon<br>brother<br>fade<br>pitch<br>deer<br>belt<br>eyebrow<br>need<br>balcony<br>normal |  
-| bip_39_word_new_br12 | quantum<br>spoon<br>brother<br>fade<br>pitch<br>deer<br>belt<br>eyebrow<br>need<br>balcony<br>normal<br>adapt |  
-| bip_39_word_new_br2 | quantum<br>spoon |  
-| bip_39_word_new_br3 | quantum<br>spoon<br>brother |  
-| bip_39_word_new_br4 | quantum<br>spoon<br>brother<br>fade |  
-| bip_39_word_new_br5 | quantum<br>spoon<br>brother<br>fade<br>pitch |  
-| bip_39_word_new_br6 | quantum<br>spoon<br>brother<br>fade<br>pitch<br>deer |  
-| bip_39_word_new_br7 | quantum<br>spoon<br>brother<br>fade<br>pitch<br>deer<br>belt |  
-| bip_39_word_new_br8 | quantum<br>spoon<br>brother<br>fade<br>pitch<br>deer<br>belt<br>eyebrow |  
-| bip_39_word_new_br9 | quantum<br>spoon<br>brother<br>fade<br>pitch<br>deer<br>belt<br>eyebrow<br>need |  
-| bip_39_word_new_line1 | quantum |  
-| bip_39_word_new_line10 | quantum
+| bip_39_word_new_br_1 | quantum |  
+| bip_39_word_new_br_10 | quantum<br>spoon<br>brother<br>fade<br>pitch<br>deer<br>belt<br>eyebrow<br>need<br>balcony |  
+| bip_39_word_new_br_11 | quantum<br>spoon<br>brother<br>fade<br>pitch<br>deer<br>belt<br>eyebrow<br>need<br>balcony<br>normal |  
+| bip_39_word_new_br_12 | quantum<br>spoon<br>brother<br>fade<br>pitch<br>deer<br>belt<br>eyebrow<br>need<br>balcony<br>normal<br>adapt |  
+| bip_39_word_new_br_2 | quantum<br>spoon |  
+| bip_39_word_new_br_3 | quantum<br>spoon<br>brother |  
+| bip_39_word_new_br_4 | quantum<br>spoon<br>brother<br>fade |  
+| bip_39_word_new_br_5 | quantum<br>spoon<br>brother<br>fade<br>pitch |  
+| bip_39_word_new_br_6 | quantum<br>spoon<br>brother<br>fade<br>pitch<br>deer |  
+| bip_39_word_new_br_7 | quantum<br>spoon<br>brother<br>fade<br>pitch<br>deer<br>belt |  
+| bip_39_word_new_br_8 | quantum<br>spoon<br>brother<br>fade<br>pitch<br>deer<br>belt<br>eyebrow |  
+| bip_39_word_new_br_9 | quantum<br>spoon<br>brother<br>fade<br>pitch<br>deer<br>belt<br>eyebrow<br>need |  
+| bip_39_word_new_line_1 | quantum |  
+| bip_39_word_new_line_10 | quantum
 spoon
 brother
 fade
@@ -55,7 +55,7 @@ belt
 eyebrow
 need
 balcony |  
-| bip_39_word_new_line11 | quantum
+| bip_39_word_new_line_11 | quantum
 spoon
 brother
 fade
@@ -66,7 +66,7 @@ eyebrow
 need
 balcony
 normal |  
-| bip_39_word_new_line12 | quantum
+| bip_39_word_new_line_12 | quantum
 spoon
 brother
 fade
@@ -78,34 +78,34 @@ need
 balcony
 normal
 adapt |  
-| bip_39_word_new_line2 | quantum
+| bip_39_word_new_line_2 | quantum
 spoon |  
-| bip_39_word_new_line3 | quantum
+| bip_39_word_new_line_3 | quantum
 spoon
 brother |  
-| bip_39_word_new_line4 | quantum
+| bip_39_word_new_line_4 | quantum
 spoon
 brother
 fade |  
-| bip_39_word_new_line5 | quantum
+| bip_39_word_new_line_5 | quantum
 spoon
 brother
 fade
 pitch |  
-| bip_39_word_new_line6 | quantum
+| bip_39_word_new_line_6 | quantum
 spoon
 brother
 fade
 pitch
 deer |  
-| bip_39_word_new_line7 | quantum
+| bip_39_word_new_line_7 | quantum
 spoon
 brother
 fade
 pitch
 deer
 belt |  
-| bip_39_word_new_line8 | quantum
+| bip_39_word_new_line_8 | quantum
 spoon
 brother
 fade
@@ -113,7 +113,7 @@ pitch
 deer
 belt
 eyebrow |  
-| bip_39_word_new_line9 | quantum
+| bip_39_word_new_line_9 | quantum
 spoon
 brother
 fade

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | type |  
-| bip_39_word_new_br10 | type<br>addict<br>broken<br>ahead<br>awkward<br>fiscal<br>fossil<br>alarm<br>stumble<br>village |  
-| bip_39_word_new_br11 | type<br>addict<br>broken<br>ahead<br>awkward<br>fiscal<br>fossil<br>alarm<br>stumble<br>village<br>grief |  
-| bip_39_word_new_br12 | type<br>addict<br>broken<br>ahead<br>awkward<br>fiscal<br>fossil<br>alarm<br>stumble<br>village<br>grief<br>aim |  
-| bip_39_word_new_br2 | type<br>addict |  
-| bip_39_word_new_br3 | type<br>addict<br>broken |  
-| bip_39_word_new_br4 | type<br>addict<br>broken<br>ahead |  
-| bip_39_word_new_br5 | type<br>addict<br>broken<br>ahead<br>awkward |  
-| bip_39_word_new_br6 | type<br>addict<br>broken<br>ahead<br>awkward<br>fiscal |  
-| bip_39_word_new_br7 | type<br>addict<br>broken<br>ahead<br>awkward<br>fiscal<br>fossil |  
-| bip_39_word_new_br8 | type<br>addict<br>broken<br>ahead<br>awkward<br>fiscal<br>fossil<br>alarm |  
-| bip_39_word_new_br9 | type<br>addict<br>broken<br>ahead<br>awkward<br>fiscal<br>fossil<br>alarm<br>stumble |  
-| bip_39_word_new_line1 | type |  
-| bip_39_word_new_line10 | type
+| bip_39_word_new_br_1 | type |  
+| bip_39_word_new_br_10 | type<br>addict<br>broken<br>ahead<br>awkward<br>fiscal<br>fossil<br>alarm<br>stumble<br>village |  
+| bip_39_word_new_br_11 | type<br>addict<br>broken<br>ahead<br>awkward<br>fiscal<br>fossil<br>alarm<br>stumble<br>village<br>grief |  
+| bip_39_word_new_br_12 | type<br>addict<br>broken<br>ahead<br>awkward<br>fiscal<br>fossil<br>alarm<br>stumble<br>village<br>grief<br>aim |  
+| bip_39_word_new_br_2 | type<br>addict |  
+| bip_39_word_new_br_3 | type<br>addict<br>broken |  
+| bip_39_word_new_br_4 | type<br>addict<br>broken<br>ahead |  
+| bip_39_word_new_br_5 | type<br>addict<br>broken<br>ahead<br>awkward |  
+| bip_39_word_new_br_6 | type<br>addict<br>broken<br>ahead<br>awkward<br>fiscal |  
+| bip_39_word_new_br_7 | type<br>addict<br>broken<br>ahead<br>awkward<br>fiscal<br>fossil |  
+| bip_39_word_new_br_8 | type<br>addict<br>broken<br>ahead<br>awkward<br>fiscal<br>fossil<br>alarm |  
+| bip_39_word_new_br_9 | type<br>addict<br>broken<br>ahead<br>awkward<br>fiscal<br>fossil<br>alarm<br>stumble |  
+| bip_39_word_new_line_1 | type |  
+| bip_39_word_new_line_10 | type
 addict
 broken
 ahead
@@ -55,7 +55,7 @@ fossil
 alarm
 stumble
 village |  
-| bip_39_word_new_line11 | type
+| bip_39_word_new_line_11 | type
 addict
 broken
 ahead
@@ -66,7 +66,7 @@ alarm
 stumble
 village
 grief |  
-| bip_39_word_new_line12 | type
+| bip_39_word_new_line_12 | type
 addict
 broken
 ahead
@@ -78,34 +78,34 @@ stumble
 village
 grief
 aim |  
-| bip_39_word_new_line2 | type
+| bip_39_word_new_line_2 | type
 addict |  
-| bip_39_word_new_line3 | type
+| bip_39_word_new_line_3 | type
 addict
 broken |  
-| bip_39_word_new_line4 | type
+| bip_39_word_new_line_4 | type
 addict
 broken
 ahead |  
-| bip_39_word_new_line5 | type
+| bip_39_word_new_line_5 | type
 addict
 broken
 ahead
 awkward |  
-| bip_39_word_new_line6 | type
+| bip_39_word_new_line_6 | type
 addict
 broken
 ahead
 awkward
 fiscal |  
-| bip_39_word_new_line7 | type
+| bip_39_word_new_line_7 | type
 addict
 broken
 ahead
 awkward
 fiscal
 fossil |  
-| bip_39_word_new_line8 | type
+| bip_39_word_new_line_8 | type
 addict
 broken
 ahead
@@ -113,7 +113,7 @@ awkward
 fiscal
 fossil
 alarm |  
-| bip_39_word_new_line9 | type
+| bip_39_word_new_line_9 | type
 addict
 broken
 ahead

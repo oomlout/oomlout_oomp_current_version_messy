@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | leave |  
-| bip_39_word_new_br10 | leave<br>amount<br>siren<br>laptop<br>half<br>debris<br>connect<br>decline<br>opinion<br>dragon |  
-| bip_39_word_new_br11 | leave<br>amount<br>siren<br>laptop<br>half<br>debris<br>connect<br>decline<br>opinion<br>dragon<br>time |  
-| bip_39_word_new_br12 | leave<br>amount<br>siren<br>laptop<br>half<br>debris<br>connect<br>decline<br>opinion<br>dragon<br>time<br>ask |  
-| bip_39_word_new_br2 | leave<br>amount |  
-| bip_39_word_new_br3 | leave<br>amount<br>siren |  
-| bip_39_word_new_br4 | leave<br>amount<br>siren<br>laptop |  
-| bip_39_word_new_br5 | leave<br>amount<br>siren<br>laptop<br>half |  
-| bip_39_word_new_br6 | leave<br>amount<br>siren<br>laptop<br>half<br>debris |  
-| bip_39_word_new_br7 | leave<br>amount<br>siren<br>laptop<br>half<br>debris<br>connect |  
-| bip_39_word_new_br8 | leave<br>amount<br>siren<br>laptop<br>half<br>debris<br>connect<br>decline |  
-| bip_39_word_new_br9 | leave<br>amount<br>siren<br>laptop<br>half<br>debris<br>connect<br>decline<br>opinion |  
-| bip_39_word_new_line1 | leave |  
-| bip_39_word_new_line10 | leave
+| bip_39_word_new_br_1 | leave |  
+| bip_39_word_new_br_10 | leave<br>amount<br>siren<br>laptop<br>half<br>debris<br>connect<br>decline<br>opinion<br>dragon |  
+| bip_39_word_new_br_11 | leave<br>amount<br>siren<br>laptop<br>half<br>debris<br>connect<br>decline<br>opinion<br>dragon<br>time |  
+| bip_39_word_new_br_12 | leave<br>amount<br>siren<br>laptop<br>half<br>debris<br>connect<br>decline<br>opinion<br>dragon<br>time<br>ask |  
+| bip_39_word_new_br_2 | leave<br>amount |  
+| bip_39_word_new_br_3 | leave<br>amount<br>siren |  
+| bip_39_word_new_br_4 | leave<br>amount<br>siren<br>laptop |  
+| bip_39_word_new_br_5 | leave<br>amount<br>siren<br>laptop<br>half |  
+| bip_39_word_new_br_6 | leave<br>amount<br>siren<br>laptop<br>half<br>debris |  
+| bip_39_word_new_br_7 | leave<br>amount<br>siren<br>laptop<br>half<br>debris<br>connect |  
+| bip_39_word_new_br_8 | leave<br>amount<br>siren<br>laptop<br>half<br>debris<br>connect<br>decline |  
+| bip_39_word_new_br_9 | leave<br>amount<br>siren<br>laptop<br>half<br>debris<br>connect<br>decline<br>opinion |  
+| bip_39_word_new_line_1 | leave |  
+| bip_39_word_new_line_10 | leave
 amount
 siren
 laptop
@@ -55,7 +55,7 @@ connect
 decline
 opinion
 dragon |  
-| bip_39_word_new_line11 | leave
+| bip_39_word_new_line_11 | leave
 amount
 siren
 laptop
@@ -66,7 +66,7 @@ decline
 opinion
 dragon
 time |  
-| bip_39_word_new_line12 | leave
+| bip_39_word_new_line_12 | leave
 amount
 siren
 laptop
@@ -78,34 +78,34 @@ opinion
 dragon
 time
 ask |  
-| bip_39_word_new_line2 | leave
+| bip_39_word_new_line_2 | leave
 amount |  
-| bip_39_word_new_line3 | leave
+| bip_39_word_new_line_3 | leave
 amount
 siren |  
-| bip_39_word_new_line4 | leave
+| bip_39_word_new_line_4 | leave
 amount
 siren
 laptop |  
-| bip_39_word_new_line5 | leave
+| bip_39_word_new_line_5 | leave
 amount
 siren
 laptop
 half |  
-| bip_39_word_new_line6 | leave
+| bip_39_word_new_line_6 | leave
 amount
 siren
 laptop
 half
 debris |  
-| bip_39_word_new_line7 | leave
+| bip_39_word_new_line_7 | leave
 amount
 siren
 laptop
 half
 debris
 connect |  
-| bip_39_word_new_line8 | leave
+| bip_39_word_new_line_8 | leave
 amount
 siren
 laptop
@@ -113,7 +113,7 @@ half
 debris
 connect
 decline |  
-| bip_39_word_new_line9 | leave
+| bip_39_word_new_line_9 | leave
 amount
 siren
 laptop

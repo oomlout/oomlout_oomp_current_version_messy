@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | arrange |  
-| bip_39_word_new_br10 | arrange<br>nerve<br>farm<br>daring<br>verify<br>gift<br>punch<br>wrestle<br>scissors<br>inmate |  
-| bip_39_word_new_br11 | arrange<br>nerve<br>farm<br>daring<br>verify<br>gift<br>punch<br>wrestle<br>scissors<br>inmate<br>often |  
-| bip_39_word_new_br12 | arrange<br>nerve<br>farm<br>daring<br>verify<br>gift<br>punch<br>wrestle<br>scissors<br>inmate<br>often<br>also |  
-| bip_39_word_new_br2 | arrange<br>nerve |  
-| bip_39_word_new_br3 | arrange<br>nerve<br>farm |  
-| bip_39_word_new_br4 | arrange<br>nerve<br>farm<br>daring |  
-| bip_39_word_new_br5 | arrange<br>nerve<br>farm<br>daring<br>verify |  
-| bip_39_word_new_br6 | arrange<br>nerve<br>farm<br>daring<br>verify<br>gift |  
-| bip_39_word_new_br7 | arrange<br>nerve<br>farm<br>daring<br>verify<br>gift<br>punch |  
-| bip_39_word_new_br8 | arrange<br>nerve<br>farm<br>daring<br>verify<br>gift<br>punch<br>wrestle |  
-| bip_39_word_new_br9 | arrange<br>nerve<br>farm<br>daring<br>verify<br>gift<br>punch<br>wrestle<br>scissors |  
-| bip_39_word_new_line1 | arrange |  
-| bip_39_word_new_line10 | arrange
+| bip_39_word_new_br_1 | arrange |  
+| bip_39_word_new_br_10 | arrange<br>nerve<br>farm<br>daring<br>verify<br>gift<br>punch<br>wrestle<br>scissors<br>inmate |  
+| bip_39_word_new_br_11 | arrange<br>nerve<br>farm<br>daring<br>verify<br>gift<br>punch<br>wrestle<br>scissors<br>inmate<br>often |  
+| bip_39_word_new_br_12 | arrange<br>nerve<br>farm<br>daring<br>verify<br>gift<br>punch<br>wrestle<br>scissors<br>inmate<br>often<br>also |  
+| bip_39_word_new_br_2 | arrange<br>nerve |  
+| bip_39_word_new_br_3 | arrange<br>nerve<br>farm |  
+| bip_39_word_new_br_4 | arrange<br>nerve<br>farm<br>daring |  
+| bip_39_word_new_br_5 | arrange<br>nerve<br>farm<br>daring<br>verify |  
+| bip_39_word_new_br_6 | arrange<br>nerve<br>farm<br>daring<br>verify<br>gift |  
+| bip_39_word_new_br_7 | arrange<br>nerve<br>farm<br>daring<br>verify<br>gift<br>punch |  
+| bip_39_word_new_br_8 | arrange<br>nerve<br>farm<br>daring<br>verify<br>gift<br>punch<br>wrestle |  
+| bip_39_word_new_br_9 | arrange<br>nerve<br>farm<br>daring<br>verify<br>gift<br>punch<br>wrestle<br>scissors |  
+| bip_39_word_new_line_1 | arrange |  
+| bip_39_word_new_line_10 | arrange
 nerve
 farm
 daring
@@ -55,7 +55,7 @@ punch
 wrestle
 scissors
 inmate |  
-| bip_39_word_new_line11 | arrange
+| bip_39_word_new_line_11 | arrange
 nerve
 farm
 daring
@@ -66,7 +66,7 @@ wrestle
 scissors
 inmate
 often |  
-| bip_39_word_new_line12 | arrange
+| bip_39_word_new_line_12 | arrange
 nerve
 farm
 daring
@@ -78,34 +78,34 @@ scissors
 inmate
 often
 also |  
-| bip_39_word_new_line2 | arrange
+| bip_39_word_new_line_2 | arrange
 nerve |  
-| bip_39_word_new_line3 | arrange
+| bip_39_word_new_line_3 | arrange
 nerve
 farm |  
-| bip_39_word_new_line4 | arrange
+| bip_39_word_new_line_4 | arrange
 nerve
 farm
 daring |  
-| bip_39_word_new_line5 | arrange
+| bip_39_word_new_line_5 | arrange
 nerve
 farm
 daring
 verify |  
-| bip_39_word_new_line6 | arrange
+| bip_39_word_new_line_6 | arrange
 nerve
 farm
 daring
 verify
 gift |  
-| bip_39_word_new_line7 | arrange
+| bip_39_word_new_line_7 | arrange
 nerve
 farm
 daring
 verify
 gift
 punch |  
-| bip_39_word_new_line8 | arrange
+| bip_39_word_new_line_8 | arrange
 nerve
 farm
 daring
@@ -113,7 +113,7 @@ verify
 gift
 punch
 wrestle |  
-| bip_39_word_new_line9 | arrange
+| bip_39_word_new_line_9 | arrange
 nerve
 farm
 daring

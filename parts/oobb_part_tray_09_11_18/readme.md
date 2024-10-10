@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | match |  
-| bip_39_word_new_br10 | match<br>panda<br>lobster<br>public<br>quote<br>pact<br>birth<br>price<br>loyal<br>belt |  
-| bip_39_word_new_br11 | match<br>panda<br>lobster<br>public<br>quote<br>pact<br>birth<br>price<br>loyal<br>belt<br>dirt |  
-| bip_39_word_new_br12 | match<br>panda<br>lobster<br>public<br>quote<br>pact<br>birth<br>price<br>loyal<br>belt<br>dirt<br>account |  
-| bip_39_word_new_br2 | match<br>panda |  
-| bip_39_word_new_br3 | match<br>panda<br>lobster |  
-| bip_39_word_new_br4 | match<br>panda<br>lobster<br>public |  
-| bip_39_word_new_br5 | match<br>panda<br>lobster<br>public<br>quote |  
-| bip_39_word_new_br6 | match<br>panda<br>lobster<br>public<br>quote<br>pact |  
-| bip_39_word_new_br7 | match<br>panda<br>lobster<br>public<br>quote<br>pact<br>birth |  
-| bip_39_word_new_br8 | match<br>panda<br>lobster<br>public<br>quote<br>pact<br>birth<br>price |  
-| bip_39_word_new_br9 | match<br>panda<br>lobster<br>public<br>quote<br>pact<br>birth<br>price<br>loyal |  
-| bip_39_word_new_line1 | match |  
-| bip_39_word_new_line10 | match
+| bip_39_word_new_br_1 | match |  
+| bip_39_word_new_br_10 | match<br>panda<br>lobster<br>public<br>quote<br>pact<br>birth<br>price<br>loyal<br>belt |  
+| bip_39_word_new_br_11 | match<br>panda<br>lobster<br>public<br>quote<br>pact<br>birth<br>price<br>loyal<br>belt<br>dirt |  
+| bip_39_word_new_br_12 | match<br>panda<br>lobster<br>public<br>quote<br>pact<br>birth<br>price<br>loyal<br>belt<br>dirt<br>account |  
+| bip_39_word_new_br_2 | match<br>panda |  
+| bip_39_word_new_br_3 | match<br>panda<br>lobster |  
+| bip_39_word_new_br_4 | match<br>panda<br>lobster<br>public |  
+| bip_39_word_new_br_5 | match<br>panda<br>lobster<br>public<br>quote |  
+| bip_39_word_new_br_6 | match<br>panda<br>lobster<br>public<br>quote<br>pact |  
+| bip_39_word_new_br_7 | match<br>panda<br>lobster<br>public<br>quote<br>pact<br>birth |  
+| bip_39_word_new_br_8 | match<br>panda<br>lobster<br>public<br>quote<br>pact<br>birth<br>price |  
+| bip_39_word_new_br_9 | match<br>panda<br>lobster<br>public<br>quote<br>pact<br>birth<br>price<br>loyal |  
+| bip_39_word_new_line_1 | match |  
+| bip_39_word_new_line_10 | match
 panda
 lobster
 public
@@ -55,7 +55,7 @@ birth
 price
 loyal
 belt |  
-| bip_39_word_new_line11 | match
+| bip_39_word_new_line_11 | match
 panda
 lobster
 public
@@ -66,7 +66,7 @@ price
 loyal
 belt
 dirt |  
-| bip_39_word_new_line12 | match
+| bip_39_word_new_line_12 | match
 panda
 lobster
 public
@@ -78,34 +78,34 @@ loyal
 belt
 dirt
 account |  
-| bip_39_word_new_line2 | match
+| bip_39_word_new_line_2 | match
 panda |  
-| bip_39_word_new_line3 | match
+| bip_39_word_new_line_3 | match
 panda
 lobster |  
-| bip_39_word_new_line4 | match
+| bip_39_word_new_line_4 | match
 panda
 lobster
 public |  
-| bip_39_word_new_line5 | match
+| bip_39_word_new_line_5 | match
 panda
 lobster
 public
 quote |  
-| bip_39_word_new_line6 | match
+| bip_39_word_new_line_6 | match
 panda
 lobster
 public
 quote
 pact |  
-| bip_39_word_new_line7 | match
+| bip_39_word_new_line_7 | match
 panda
 lobster
 public
 quote
 pact
 birth |  
-| bip_39_word_new_line8 | match
+| bip_39_word_new_line_8 | match
 panda
 lobster
 public
@@ -113,7 +113,7 @@ quote
 pact
 birth
 price |  
-| bip_39_word_new_line9 | match
+| bip_39_word_new_line_9 | match
 panda
 lobster
 public

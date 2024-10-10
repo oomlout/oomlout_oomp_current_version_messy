@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cube |  
-| bip_39_word_new_br10 | cube<br>estate<br>friend<br>permit<br>blur<br>blanket<br>glare<br>peanut<br>fire<br>jewel |  
-| bip_39_word_new_br11 | cube<br>estate<br>friend<br>permit<br>blur<br>blanket<br>glare<br>peanut<br>fire<br>jewel<br>proud |  
-| bip_39_word_new_br12 | cube<br>estate<br>friend<br>permit<br>blur<br>blanket<br>glare<br>peanut<br>fire<br>jewel<br>proud<br>adapt |  
-| bip_39_word_new_br2 | cube<br>estate |  
-| bip_39_word_new_br3 | cube<br>estate<br>friend |  
-| bip_39_word_new_br4 | cube<br>estate<br>friend<br>permit |  
-| bip_39_word_new_br5 | cube<br>estate<br>friend<br>permit<br>blur |  
-| bip_39_word_new_br6 | cube<br>estate<br>friend<br>permit<br>blur<br>blanket |  
-| bip_39_word_new_br7 | cube<br>estate<br>friend<br>permit<br>blur<br>blanket<br>glare |  
-| bip_39_word_new_br8 | cube<br>estate<br>friend<br>permit<br>blur<br>blanket<br>glare<br>peanut |  
-| bip_39_word_new_br9 | cube<br>estate<br>friend<br>permit<br>blur<br>blanket<br>glare<br>peanut<br>fire |  
-| bip_39_word_new_line1 | cube |  
-| bip_39_word_new_line10 | cube
+| bip_39_word_new_br_1 | cube |  
+| bip_39_word_new_br_10 | cube<br>estate<br>friend<br>permit<br>blur<br>blanket<br>glare<br>peanut<br>fire<br>jewel |  
+| bip_39_word_new_br_11 | cube<br>estate<br>friend<br>permit<br>blur<br>blanket<br>glare<br>peanut<br>fire<br>jewel<br>proud |  
+| bip_39_word_new_br_12 | cube<br>estate<br>friend<br>permit<br>blur<br>blanket<br>glare<br>peanut<br>fire<br>jewel<br>proud<br>adapt |  
+| bip_39_word_new_br_2 | cube<br>estate |  
+| bip_39_word_new_br_3 | cube<br>estate<br>friend |  
+| bip_39_word_new_br_4 | cube<br>estate<br>friend<br>permit |  
+| bip_39_word_new_br_5 | cube<br>estate<br>friend<br>permit<br>blur |  
+| bip_39_word_new_br_6 | cube<br>estate<br>friend<br>permit<br>blur<br>blanket |  
+| bip_39_word_new_br_7 | cube<br>estate<br>friend<br>permit<br>blur<br>blanket<br>glare |  
+| bip_39_word_new_br_8 | cube<br>estate<br>friend<br>permit<br>blur<br>blanket<br>glare<br>peanut |  
+| bip_39_word_new_br_9 | cube<br>estate<br>friend<br>permit<br>blur<br>blanket<br>glare<br>peanut<br>fire |  
+| bip_39_word_new_line_1 | cube |  
+| bip_39_word_new_line_10 | cube
 estate
 friend
 permit
@@ -55,7 +55,7 @@ glare
 peanut
 fire
 jewel |  
-| bip_39_word_new_line11 | cube
+| bip_39_word_new_line_11 | cube
 estate
 friend
 permit
@@ -66,7 +66,7 @@ peanut
 fire
 jewel
 proud |  
-| bip_39_word_new_line12 | cube
+| bip_39_word_new_line_12 | cube
 estate
 friend
 permit
@@ -78,34 +78,34 @@ fire
 jewel
 proud
 adapt |  
-| bip_39_word_new_line2 | cube
+| bip_39_word_new_line_2 | cube
 estate |  
-| bip_39_word_new_line3 | cube
+| bip_39_word_new_line_3 | cube
 estate
 friend |  
-| bip_39_word_new_line4 | cube
+| bip_39_word_new_line_4 | cube
 estate
 friend
 permit |  
-| bip_39_word_new_line5 | cube
+| bip_39_word_new_line_5 | cube
 estate
 friend
 permit
 blur |  
-| bip_39_word_new_line6 | cube
+| bip_39_word_new_line_6 | cube
 estate
 friend
 permit
 blur
 blanket |  
-| bip_39_word_new_line7 | cube
+| bip_39_word_new_line_7 | cube
 estate
 friend
 permit
 blur
 blanket
 glare |  
-| bip_39_word_new_line8 | cube
+| bip_39_word_new_line_8 | cube
 estate
 friend
 permit
@@ -113,7 +113,7 @@ blur
 blanket
 glare
 peanut |  
-| bip_39_word_new_line9 | cube
+| bip_39_word_new_line_9 | cube
 estate
 friend
 permit

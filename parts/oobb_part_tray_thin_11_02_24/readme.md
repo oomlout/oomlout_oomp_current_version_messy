@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gun |  
-| bip_39_word_new_br10 | gun<br>detail<br>clock<br>dash<br>walk<br>damage<br>surge<br>link<br>stairs<br>tilt |  
-| bip_39_word_new_br11 | gun<br>detail<br>clock<br>dash<br>walk<br>damage<br>surge<br>link<br>stairs<br>tilt<br>between |  
-| bip_39_word_new_br12 | gun<br>detail<br>clock<br>dash<br>walk<br>damage<br>surge<br>link<br>stairs<br>tilt<br>between<br>aerobic |  
-| bip_39_word_new_br2 | gun<br>detail |  
-| bip_39_word_new_br3 | gun<br>detail<br>clock |  
-| bip_39_word_new_br4 | gun<br>detail<br>clock<br>dash |  
-| bip_39_word_new_br5 | gun<br>detail<br>clock<br>dash<br>walk |  
-| bip_39_word_new_br6 | gun<br>detail<br>clock<br>dash<br>walk<br>damage |  
-| bip_39_word_new_br7 | gun<br>detail<br>clock<br>dash<br>walk<br>damage<br>surge |  
-| bip_39_word_new_br8 | gun<br>detail<br>clock<br>dash<br>walk<br>damage<br>surge<br>link |  
-| bip_39_word_new_br9 | gun<br>detail<br>clock<br>dash<br>walk<br>damage<br>surge<br>link<br>stairs |  
-| bip_39_word_new_line1 | gun |  
-| bip_39_word_new_line10 | gun
+| bip_39_word_new_br_1 | gun |  
+| bip_39_word_new_br_10 | gun<br>detail<br>clock<br>dash<br>walk<br>damage<br>surge<br>link<br>stairs<br>tilt |  
+| bip_39_word_new_br_11 | gun<br>detail<br>clock<br>dash<br>walk<br>damage<br>surge<br>link<br>stairs<br>tilt<br>between |  
+| bip_39_word_new_br_12 | gun<br>detail<br>clock<br>dash<br>walk<br>damage<br>surge<br>link<br>stairs<br>tilt<br>between<br>aerobic |  
+| bip_39_word_new_br_2 | gun<br>detail |  
+| bip_39_word_new_br_3 | gun<br>detail<br>clock |  
+| bip_39_word_new_br_4 | gun<br>detail<br>clock<br>dash |  
+| bip_39_word_new_br_5 | gun<br>detail<br>clock<br>dash<br>walk |  
+| bip_39_word_new_br_6 | gun<br>detail<br>clock<br>dash<br>walk<br>damage |  
+| bip_39_word_new_br_7 | gun<br>detail<br>clock<br>dash<br>walk<br>damage<br>surge |  
+| bip_39_word_new_br_8 | gun<br>detail<br>clock<br>dash<br>walk<br>damage<br>surge<br>link |  
+| bip_39_word_new_br_9 | gun<br>detail<br>clock<br>dash<br>walk<br>damage<br>surge<br>link<br>stairs |  
+| bip_39_word_new_line_1 | gun |  
+| bip_39_word_new_line_10 | gun
 detail
 clock
 dash
@@ -55,7 +55,7 @@ surge
 link
 stairs
 tilt |  
-| bip_39_word_new_line11 | gun
+| bip_39_word_new_line_11 | gun
 detail
 clock
 dash
@@ -66,7 +66,7 @@ link
 stairs
 tilt
 between |  
-| bip_39_word_new_line12 | gun
+| bip_39_word_new_line_12 | gun
 detail
 clock
 dash
@@ -78,34 +78,34 @@ stairs
 tilt
 between
 aerobic |  
-| bip_39_word_new_line2 | gun
+| bip_39_word_new_line_2 | gun
 detail |  
-| bip_39_word_new_line3 | gun
+| bip_39_word_new_line_3 | gun
 detail
 clock |  
-| bip_39_word_new_line4 | gun
+| bip_39_word_new_line_4 | gun
 detail
 clock
 dash |  
-| bip_39_word_new_line5 | gun
+| bip_39_word_new_line_5 | gun
 detail
 clock
 dash
 walk |  
-| bip_39_word_new_line6 | gun
+| bip_39_word_new_line_6 | gun
 detail
 clock
 dash
 walk
 damage |  
-| bip_39_word_new_line7 | gun
+| bip_39_word_new_line_7 | gun
 detail
 clock
 dash
 walk
 damage
 surge |  
-| bip_39_word_new_line8 | gun
+| bip_39_word_new_line_8 | gun
 detail
 clock
 dash
@@ -113,7 +113,7 @@ walk
 damage
 surge
 link |  
-| bip_39_word_new_line9 | gun
+| bip_39_word_new_line_9 | gun
 detail
 clock
 dash

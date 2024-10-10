@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | tail |  
-| bip_39_word_new_br10 | tail<br>promote<br>desert<br>turtle<br>select<br>curve<br>lecture<br>noble<br>tomato<br>vocal |  
-| bip_39_word_new_br11 | tail<br>promote<br>desert<br>turtle<br>select<br>curve<br>lecture<br>noble<br>tomato<br>vocal<br>motion |  
-| bip_39_word_new_br12 | tail<br>promote<br>desert<br>turtle<br>select<br>curve<br>lecture<br>noble<br>tomato<br>vocal<br>motion<br>admit |  
-| bip_39_word_new_br2 | tail<br>promote |  
-| bip_39_word_new_br3 | tail<br>promote<br>desert |  
-| bip_39_word_new_br4 | tail<br>promote<br>desert<br>turtle |  
-| bip_39_word_new_br5 | tail<br>promote<br>desert<br>turtle<br>select |  
-| bip_39_word_new_br6 | tail<br>promote<br>desert<br>turtle<br>select<br>curve |  
-| bip_39_word_new_br7 | tail<br>promote<br>desert<br>turtle<br>select<br>curve<br>lecture |  
-| bip_39_word_new_br8 | tail<br>promote<br>desert<br>turtle<br>select<br>curve<br>lecture<br>noble |  
-| bip_39_word_new_br9 | tail<br>promote<br>desert<br>turtle<br>select<br>curve<br>lecture<br>noble<br>tomato |  
-| bip_39_word_new_line1 | tail |  
-| bip_39_word_new_line10 | tail
+| bip_39_word_new_br_1 | tail |  
+| bip_39_word_new_br_10 | tail<br>promote<br>desert<br>turtle<br>select<br>curve<br>lecture<br>noble<br>tomato<br>vocal |  
+| bip_39_word_new_br_11 | tail<br>promote<br>desert<br>turtle<br>select<br>curve<br>lecture<br>noble<br>tomato<br>vocal<br>motion |  
+| bip_39_word_new_br_12 | tail<br>promote<br>desert<br>turtle<br>select<br>curve<br>lecture<br>noble<br>tomato<br>vocal<br>motion<br>admit |  
+| bip_39_word_new_br_2 | tail<br>promote |  
+| bip_39_word_new_br_3 | tail<br>promote<br>desert |  
+| bip_39_word_new_br_4 | tail<br>promote<br>desert<br>turtle |  
+| bip_39_word_new_br_5 | tail<br>promote<br>desert<br>turtle<br>select |  
+| bip_39_word_new_br_6 | tail<br>promote<br>desert<br>turtle<br>select<br>curve |  
+| bip_39_word_new_br_7 | tail<br>promote<br>desert<br>turtle<br>select<br>curve<br>lecture |  
+| bip_39_word_new_br_8 | tail<br>promote<br>desert<br>turtle<br>select<br>curve<br>lecture<br>noble |  
+| bip_39_word_new_br_9 | tail<br>promote<br>desert<br>turtle<br>select<br>curve<br>lecture<br>noble<br>tomato |  
+| bip_39_word_new_line_1 | tail |  
+| bip_39_word_new_line_10 | tail
 promote
 desert
 turtle
@@ -55,7 +55,7 @@ lecture
 noble
 tomato
 vocal |  
-| bip_39_word_new_line11 | tail
+| bip_39_word_new_line_11 | tail
 promote
 desert
 turtle
@@ -66,7 +66,7 @@ noble
 tomato
 vocal
 motion |  
-| bip_39_word_new_line12 | tail
+| bip_39_word_new_line_12 | tail
 promote
 desert
 turtle
@@ -78,34 +78,34 @@ tomato
 vocal
 motion
 admit |  
-| bip_39_word_new_line2 | tail
+| bip_39_word_new_line_2 | tail
 promote |  
-| bip_39_word_new_line3 | tail
+| bip_39_word_new_line_3 | tail
 promote
 desert |  
-| bip_39_word_new_line4 | tail
+| bip_39_word_new_line_4 | tail
 promote
 desert
 turtle |  
-| bip_39_word_new_line5 | tail
+| bip_39_word_new_line_5 | tail
 promote
 desert
 turtle
 select |  
-| bip_39_word_new_line6 | tail
+| bip_39_word_new_line_6 | tail
 promote
 desert
 turtle
 select
 curve |  
-| bip_39_word_new_line7 | tail
+| bip_39_word_new_line_7 | tail
 promote
 desert
 turtle
 select
 curve
 lecture |  
-| bip_39_word_new_line8 | tail
+| bip_39_word_new_line_8 | tail
 promote
 desert
 turtle
@@ -113,7 +113,7 @@ select
 curve
 lecture
 noble |  
-| bip_39_word_new_line9 | tail
+| bip_39_word_new_line_9 | tail
 promote
 desert
 turtle

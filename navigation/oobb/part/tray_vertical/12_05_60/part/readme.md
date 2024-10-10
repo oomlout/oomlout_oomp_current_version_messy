@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | follow |  
-| bip_39_word_new_br10 | follow<br>face<br>erupt<br>surround<br>market<br>inflict<br>toy<br>blast<br>sorry<br>edit |  
-| bip_39_word_new_br11 | follow<br>face<br>erupt<br>surround<br>market<br>inflict<br>toy<br>blast<br>sorry<br>edit<br>right |  
-| bip_39_word_new_br12 | follow<br>face<br>erupt<br>surround<br>market<br>inflict<br>toy<br>blast<br>sorry<br>edit<br>right<br>addict |  
-| bip_39_word_new_br2 | follow<br>face |  
-| bip_39_word_new_br3 | follow<br>face<br>erupt |  
-| bip_39_word_new_br4 | follow<br>face<br>erupt<br>surround |  
-| bip_39_word_new_br5 | follow<br>face<br>erupt<br>surround<br>market |  
-| bip_39_word_new_br6 | follow<br>face<br>erupt<br>surround<br>market<br>inflict |  
-| bip_39_word_new_br7 | follow<br>face<br>erupt<br>surround<br>market<br>inflict<br>toy |  
-| bip_39_word_new_br8 | follow<br>face<br>erupt<br>surround<br>market<br>inflict<br>toy<br>blast |  
-| bip_39_word_new_br9 | follow<br>face<br>erupt<br>surround<br>market<br>inflict<br>toy<br>blast<br>sorry |  
-| bip_39_word_new_line1 | follow |  
-| bip_39_word_new_line10 | follow
+| bip_39_word_new_br_1 | follow |  
+| bip_39_word_new_br_10 | follow<br>face<br>erupt<br>surround<br>market<br>inflict<br>toy<br>blast<br>sorry<br>edit |  
+| bip_39_word_new_br_11 | follow<br>face<br>erupt<br>surround<br>market<br>inflict<br>toy<br>blast<br>sorry<br>edit<br>right |  
+| bip_39_word_new_br_12 | follow<br>face<br>erupt<br>surround<br>market<br>inflict<br>toy<br>blast<br>sorry<br>edit<br>right<br>addict |  
+| bip_39_word_new_br_2 | follow<br>face |  
+| bip_39_word_new_br_3 | follow<br>face<br>erupt |  
+| bip_39_word_new_br_4 | follow<br>face<br>erupt<br>surround |  
+| bip_39_word_new_br_5 | follow<br>face<br>erupt<br>surround<br>market |  
+| bip_39_word_new_br_6 | follow<br>face<br>erupt<br>surround<br>market<br>inflict |  
+| bip_39_word_new_br_7 | follow<br>face<br>erupt<br>surround<br>market<br>inflict<br>toy |  
+| bip_39_word_new_br_8 | follow<br>face<br>erupt<br>surround<br>market<br>inflict<br>toy<br>blast |  
+| bip_39_word_new_br_9 | follow<br>face<br>erupt<br>surround<br>market<br>inflict<br>toy<br>blast<br>sorry |  
+| bip_39_word_new_line_1 | follow |  
+| bip_39_word_new_line_10 | follow
 face
 erupt
 surround
@@ -55,7 +55,7 @@ toy
 blast
 sorry
 edit |  
-| bip_39_word_new_line11 | follow
+| bip_39_word_new_line_11 | follow
 face
 erupt
 surround
@@ -66,7 +66,7 @@ blast
 sorry
 edit
 right |  
-| bip_39_word_new_line12 | follow
+| bip_39_word_new_line_12 | follow
 face
 erupt
 surround
@@ -78,34 +78,34 @@ sorry
 edit
 right
 addict |  
-| bip_39_word_new_line2 | follow
+| bip_39_word_new_line_2 | follow
 face |  
-| bip_39_word_new_line3 | follow
+| bip_39_word_new_line_3 | follow
 face
 erupt |  
-| bip_39_word_new_line4 | follow
+| bip_39_word_new_line_4 | follow
 face
 erupt
 surround |  
-| bip_39_word_new_line5 | follow
+| bip_39_word_new_line_5 | follow
 face
 erupt
 surround
 market |  
-| bip_39_word_new_line6 | follow
+| bip_39_word_new_line_6 | follow
 face
 erupt
 surround
 market
 inflict |  
-| bip_39_word_new_line7 | follow
+| bip_39_word_new_line_7 | follow
 face
 erupt
 surround
 market
 inflict
 toy |  
-| bip_39_word_new_line8 | follow
+| bip_39_word_new_line_8 | follow
 face
 erupt
 surround
@@ -113,7 +113,7 @@ market
 inflict
 toy
 blast |  
-| bip_39_word_new_line9 | follow
+| bip_39_word_new_line_9 | follow
 face
 erupt
 surround

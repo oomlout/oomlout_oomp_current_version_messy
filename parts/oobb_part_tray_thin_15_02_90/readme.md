@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | brick |  
-| bip_39_word_new_br10 | brick<br>truth<br>purity<br>gauge<br>steel<br>solar<br>entire<br>memory<br>machine<br>ahead |  
-| bip_39_word_new_br11 | brick<br>truth<br>purity<br>gauge<br>steel<br>solar<br>entire<br>memory<br>machine<br>ahead<br>dune |  
-| bip_39_word_new_br12 | brick<br>truth<br>purity<br>gauge<br>steel<br>solar<br>entire<br>memory<br>machine<br>ahead<br>dune<br>actress |  
-| bip_39_word_new_br2 | brick<br>truth |  
-| bip_39_word_new_br3 | brick<br>truth<br>purity |  
-| bip_39_word_new_br4 | brick<br>truth<br>purity<br>gauge |  
-| bip_39_word_new_br5 | brick<br>truth<br>purity<br>gauge<br>steel |  
-| bip_39_word_new_br6 | brick<br>truth<br>purity<br>gauge<br>steel<br>solar |  
-| bip_39_word_new_br7 | brick<br>truth<br>purity<br>gauge<br>steel<br>solar<br>entire |  
-| bip_39_word_new_br8 | brick<br>truth<br>purity<br>gauge<br>steel<br>solar<br>entire<br>memory |  
-| bip_39_word_new_br9 | brick<br>truth<br>purity<br>gauge<br>steel<br>solar<br>entire<br>memory<br>machine |  
-| bip_39_word_new_line1 | brick |  
-| bip_39_word_new_line10 | brick
+| bip_39_word_new_br_1 | brick |  
+| bip_39_word_new_br_10 | brick<br>truth<br>purity<br>gauge<br>steel<br>solar<br>entire<br>memory<br>machine<br>ahead |  
+| bip_39_word_new_br_11 | brick<br>truth<br>purity<br>gauge<br>steel<br>solar<br>entire<br>memory<br>machine<br>ahead<br>dune |  
+| bip_39_word_new_br_12 | brick<br>truth<br>purity<br>gauge<br>steel<br>solar<br>entire<br>memory<br>machine<br>ahead<br>dune<br>actress |  
+| bip_39_word_new_br_2 | brick<br>truth |  
+| bip_39_word_new_br_3 | brick<br>truth<br>purity |  
+| bip_39_word_new_br_4 | brick<br>truth<br>purity<br>gauge |  
+| bip_39_word_new_br_5 | brick<br>truth<br>purity<br>gauge<br>steel |  
+| bip_39_word_new_br_6 | brick<br>truth<br>purity<br>gauge<br>steel<br>solar |  
+| bip_39_word_new_br_7 | brick<br>truth<br>purity<br>gauge<br>steel<br>solar<br>entire |  
+| bip_39_word_new_br_8 | brick<br>truth<br>purity<br>gauge<br>steel<br>solar<br>entire<br>memory |  
+| bip_39_word_new_br_9 | brick<br>truth<br>purity<br>gauge<br>steel<br>solar<br>entire<br>memory<br>machine |  
+| bip_39_word_new_line_1 | brick |  
+| bip_39_word_new_line_10 | brick
 truth
 purity
 gauge
@@ -55,7 +55,7 @@ entire
 memory
 machine
 ahead |  
-| bip_39_word_new_line11 | brick
+| bip_39_word_new_line_11 | brick
 truth
 purity
 gauge
@@ -66,7 +66,7 @@ memory
 machine
 ahead
 dune |  
-| bip_39_word_new_line12 | brick
+| bip_39_word_new_line_12 | brick
 truth
 purity
 gauge
@@ -78,34 +78,34 @@ machine
 ahead
 dune
 actress |  
-| bip_39_word_new_line2 | brick
+| bip_39_word_new_line_2 | brick
 truth |  
-| bip_39_word_new_line3 | brick
+| bip_39_word_new_line_3 | brick
 truth
 purity |  
-| bip_39_word_new_line4 | brick
+| bip_39_word_new_line_4 | brick
 truth
 purity
 gauge |  
-| bip_39_word_new_line5 | brick
+| bip_39_word_new_line_5 | brick
 truth
 purity
 gauge
 steel |  
-| bip_39_word_new_line6 | brick
+| bip_39_word_new_line_6 | brick
 truth
 purity
 gauge
 steel
 solar |  
-| bip_39_word_new_line7 | brick
+| bip_39_word_new_line_7 | brick
 truth
 purity
 gauge
 steel
 solar
 entire |  
-| bip_39_word_new_line8 | brick
+| bip_39_word_new_line_8 | brick
 truth
 purity
 gauge
@@ -113,7 +113,7 @@ steel
 solar
 entire
 memory |  
-| bip_39_word_new_line9 | brick
+| bip_39_word_new_line_9 | brick
 truth
 purity
 gauge

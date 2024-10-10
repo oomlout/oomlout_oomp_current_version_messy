@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | leopard |  
-| bip_39_word_new_br10 | leopard<br>cargo<br>run<br>occur<br>crystal<br>clip<br>success<br>bacon<br>rate<br>company |  
-| bip_39_word_new_br11 | leopard<br>cargo<br>run<br>occur<br>crystal<br>clip<br>success<br>bacon<br>rate<br>company<br>birth |  
-| bip_39_word_new_br12 | leopard<br>cargo<br>run<br>occur<br>crystal<br>clip<br>success<br>bacon<br>rate<br>company<br>birth<br>approve |  
-| bip_39_word_new_br2 | leopard<br>cargo |  
-| bip_39_word_new_br3 | leopard<br>cargo<br>run |  
-| bip_39_word_new_br4 | leopard<br>cargo<br>run<br>occur |  
-| bip_39_word_new_br5 | leopard<br>cargo<br>run<br>occur<br>crystal |  
-| bip_39_word_new_br6 | leopard<br>cargo<br>run<br>occur<br>crystal<br>clip |  
-| bip_39_word_new_br7 | leopard<br>cargo<br>run<br>occur<br>crystal<br>clip<br>success |  
-| bip_39_word_new_br8 | leopard<br>cargo<br>run<br>occur<br>crystal<br>clip<br>success<br>bacon |  
-| bip_39_word_new_br9 | leopard<br>cargo<br>run<br>occur<br>crystal<br>clip<br>success<br>bacon<br>rate |  
-| bip_39_word_new_line1 | leopard |  
-| bip_39_word_new_line10 | leopard
+| bip_39_word_new_br_1 | leopard |  
+| bip_39_word_new_br_10 | leopard<br>cargo<br>run<br>occur<br>crystal<br>clip<br>success<br>bacon<br>rate<br>company |  
+| bip_39_word_new_br_11 | leopard<br>cargo<br>run<br>occur<br>crystal<br>clip<br>success<br>bacon<br>rate<br>company<br>birth |  
+| bip_39_word_new_br_12 | leopard<br>cargo<br>run<br>occur<br>crystal<br>clip<br>success<br>bacon<br>rate<br>company<br>birth<br>approve |  
+| bip_39_word_new_br_2 | leopard<br>cargo |  
+| bip_39_word_new_br_3 | leopard<br>cargo<br>run |  
+| bip_39_word_new_br_4 | leopard<br>cargo<br>run<br>occur |  
+| bip_39_word_new_br_5 | leopard<br>cargo<br>run<br>occur<br>crystal |  
+| bip_39_word_new_br_6 | leopard<br>cargo<br>run<br>occur<br>crystal<br>clip |  
+| bip_39_word_new_br_7 | leopard<br>cargo<br>run<br>occur<br>crystal<br>clip<br>success |  
+| bip_39_word_new_br_8 | leopard<br>cargo<br>run<br>occur<br>crystal<br>clip<br>success<br>bacon |  
+| bip_39_word_new_br_9 | leopard<br>cargo<br>run<br>occur<br>crystal<br>clip<br>success<br>bacon<br>rate |  
+| bip_39_word_new_line_1 | leopard |  
+| bip_39_word_new_line_10 | leopard
 cargo
 run
 occur
@@ -55,7 +55,7 @@ success
 bacon
 rate
 company |  
-| bip_39_word_new_line11 | leopard
+| bip_39_word_new_line_11 | leopard
 cargo
 run
 occur
@@ -66,7 +66,7 @@ bacon
 rate
 company
 birth |  
-| bip_39_word_new_line12 | leopard
+| bip_39_word_new_line_12 | leopard
 cargo
 run
 occur
@@ -78,34 +78,34 @@ rate
 company
 birth
 approve |  
-| bip_39_word_new_line2 | leopard
+| bip_39_word_new_line_2 | leopard
 cargo |  
-| bip_39_word_new_line3 | leopard
+| bip_39_word_new_line_3 | leopard
 cargo
 run |  
-| bip_39_word_new_line4 | leopard
+| bip_39_word_new_line_4 | leopard
 cargo
 run
 occur |  
-| bip_39_word_new_line5 | leopard
+| bip_39_word_new_line_5 | leopard
 cargo
 run
 occur
 crystal |  
-| bip_39_word_new_line6 | leopard
+| bip_39_word_new_line_6 | leopard
 cargo
 run
 occur
 crystal
 clip |  
-| bip_39_word_new_line7 | leopard
+| bip_39_word_new_line_7 | leopard
 cargo
 run
 occur
 crystal
 clip
 success |  
-| bip_39_word_new_line8 | leopard
+| bip_39_word_new_line_8 | leopard
 cargo
 run
 occur
@@ -113,7 +113,7 @@ crystal
 clip
 success
 bacon |  
-| bip_39_word_new_line9 | leopard
+| bip_39_word_new_line_9 | leopard
 cargo
 run
 occur

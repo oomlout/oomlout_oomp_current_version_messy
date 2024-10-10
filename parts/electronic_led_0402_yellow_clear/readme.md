@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | economy |  
-| bip_39_word_new_br10 | economy<br>where<br>stairs<br>rival<br>mushroom<br>quit<br>kiss<br>twin<br>breeze<br>abstract |  
-| bip_39_word_new_br11 | economy<br>where<br>stairs<br>rival<br>mushroom<br>quit<br>kiss<br>twin<br>breeze<br>abstract<br>blossom |  
-| bip_39_word_new_br12 | economy<br>where<br>stairs<br>rival<br>mushroom<br>quit<br>kiss<br>twin<br>breeze<br>abstract<br>blossom<br>again |  
-| bip_39_word_new_br2 | economy<br>where |  
-| bip_39_word_new_br3 | economy<br>where<br>stairs |  
-| bip_39_word_new_br4 | economy<br>where<br>stairs<br>rival |  
-| bip_39_word_new_br5 | economy<br>where<br>stairs<br>rival<br>mushroom |  
-| bip_39_word_new_br6 | economy<br>where<br>stairs<br>rival<br>mushroom<br>quit |  
-| bip_39_word_new_br7 | economy<br>where<br>stairs<br>rival<br>mushroom<br>quit<br>kiss |  
-| bip_39_word_new_br8 | economy<br>where<br>stairs<br>rival<br>mushroom<br>quit<br>kiss<br>twin |  
-| bip_39_word_new_br9 | economy<br>where<br>stairs<br>rival<br>mushroom<br>quit<br>kiss<br>twin<br>breeze |  
-| bip_39_word_new_line1 | economy |  
-| bip_39_word_new_line10 | economy
+| bip_39_word_new_br_1 | economy |  
+| bip_39_word_new_br_10 | economy<br>where<br>stairs<br>rival<br>mushroom<br>quit<br>kiss<br>twin<br>breeze<br>abstract |  
+| bip_39_word_new_br_11 | economy<br>where<br>stairs<br>rival<br>mushroom<br>quit<br>kiss<br>twin<br>breeze<br>abstract<br>blossom |  
+| bip_39_word_new_br_12 | economy<br>where<br>stairs<br>rival<br>mushroom<br>quit<br>kiss<br>twin<br>breeze<br>abstract<br>blossom<br>again |  
+| bip_39_word_new_br_2 | economy<br>where |  
+| bip_39_word_new_br_3 | economy<br>where<br>stairs |  
+| bip_39_word_new_br_4 | economy<br>where<br>stairs<br>rival |  
+| bip_39_word_new_br_5 | economy<br>where<br>stairs<br>rival<br>mushroom |  
+| bip_39_word_new_br_6 | economy<br>where<br>stairs<br>rival<br>mushroom<br>quit |  
+| bip_39_word_new_br_7 | economy<br>where<br>stairs<br>rival<br>mushroom<br>quit<br>kiss |  
+| bip_39_word_new_br_8 | economy<br>where<br>stairs<br>rival<br>mushroom<br>quit<br>kiss<br>twin |  
+| bip_39_word_new_br_9 | economy<br>where<br>stairs<br>rival<br>mushroom<br>quit<br>kiss<br>twin<br>breeze |  
+| bip_39_word_new_line_1 | economy |  
+| bip_39_word_new_line_10 | economy
 where
 stairs
 rival
@@ -55,7 +55,7 @@ kiss
 twin
 breeze
 abstract |  
-| bip_39_word_new_line11 | economy
+| bip_39_word_new_line_11 | economy
 where
 stairs
 rival
@@ -66,7 +66,7 @@ twin
 breeze
 abstract
 blossom |  
-| bip_39_word_new_line12 | economy
+| bip_39_word_new_line_12 | economy
 where
 stairs
 rival
@@ -78,34 +78,34 @@ breeze
 abstract
 blossom
 again |  
-| bip_39_word_new_line2 | economy
+| bip_39_word_new_line_2 | economy
 where |  
-| bip_39_word_new_line3 | economy
+| bip_39_word_new_line_3 | economy
 where
 stairs |  
-| bip_39_word_new_line4 | economy
+| bip_39_word_new_line_4 | economy
 where
 stairs
 rival |  
-| bip_39_word_new_line5 | economy
+| bip_39_word_new_line_5 | economy
 where
 stairs
 rival
 mushroom |  
-| bip_39_word_new_line6 | economy
+| bip_39_word_new_line_6 | economy
 where
 stairs
 rival
 mushroom
 quit |  
-| bip_39_word_new_line7 | economy
+| bip_39_word_new_line_7 | economy
 where
 stairs
 rival
 mushroom
 quit
 kiss |  
-| bip_39_word_new_line8 | economy
+| bip_39_word_new_line_8 | economy
 where
 stairs
 rival
@@ -113,7 +113,7 @@ mushroom
 quit
 kiss
 twin |  
-| bip_39_word_new_line9 | economy
+| bip_39_word_new_line_9 | economy
 where
 stairs
 rival

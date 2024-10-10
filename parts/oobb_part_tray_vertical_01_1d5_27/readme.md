@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | crawl |  
-| bip_39_word_new_br10 | crawl<br>axis<br>cross<br>good<br>easily<br>advice<br>ramp<br>canoe<br>tone<br>summer |  
-| bip_39_word_new_br11 | crawl<br>axis<br>cross<br>good<br>easily<br>advice<br>ramp<br>canoe<br>tone<br>summer<br>diesel |  
-| bip_39_word_new_br12 | crawl<br>axis<br>cross<br>good<br>easily<br>advice<br>ramp<br>canoe<br>tone<br>summer<br>diesel<br>accident |  
-| bip_39_word_new_br2 | crawl<br>axis |  
-| bip_39_word_new_br3 | crawl<br>axis<br>cross |  
-| bip_39_word_new_br4 | crawl<br>axis<br>cross<br>good |  
-| bip_39_word_new_br5 | crawl<br>axis<br>cross<br>good<br>easily |  
-| bip_39_word_new_br6 | crawl<br>axis<br>cross<br>good<br>easily<br>advice |  
-| bip_39_word_new_br7 | crawl<br>axis<br>cross<br>good<br>easily<br>advice<br>ramp |  
-| bip_39_word_new_br8 | crawl<br>axis<br>cross<br>good<br>easily<br>advice<br>ramp<br>canoe |  
-| bip_39_word_new_br9 | crawl<br>axis<br>cross<br>good<br>easily<br>advice<br>ramp<br>canoe<br>tone |  
-| bip_39_word_new_line1 | crawl |  
-| bip_39_word_new_line10 | crawl
+| bip_39_word_new_br_1 | crawl |  
+| bip_39_word_new_br_10 | crawl<br>axis<br>cross<br>good<br>easily<br>advice<br>ramp<br>canoe<br>tone<br>summer |  
+| bip_39_word_new_br_11 | crawl<br>axis<br>cross<br>good<br>easily<br>advice<br>ramp<br>canoe<br>tone<br>summer<br>diesel |  
+| bip_39_word_new_br_12 | crawl<br>axis<br>cross<br>good<br>easily<br>advice<br>ramp<br>canoe<br>tone<br>summer<br>diesel<br>accident |  
+| bip_39_word_new_br_2 | crawl<br>axis |  
+| bip_39_word_new_br_3 | crawl<br>axis<br>cross |  
+| bip_39_word_new_br_4 | crawl<br>axis<br>cross<br>good |  
+| bip_39_word_new_br_5 | crawl<br>axis<br>cross<br>good<br>easily |  
+| bip_39_word_new_br_6 | crawl<br>axis<br>cross<br>good<br>easily<br>advice |  
+| bip_39_word_new_br_7 | crawl<br>axis<br>cross<br>good<br>easily<br>advice<br>ramp |  
+| bip_39_word_new_br_8 | crawl<br>axis<br>cross<br>good<br>easily<br>advice<br>ramp<br>canoe |  
+| bip_39_word_new_br_9 | crawl<br>axis<br>cross<br>good<br>easily<br>advice<br>ramp<br>canoe<br>tone |  
+| bip_39_word_new_line_1 | crawl |  
+| bip_39_word_new_line_10 | crawl
 axis
 cross
 good
@@ -55,7 +55,7 @@ ramp
 canoe
 tone
 summer |  
-| bip_39_word_new_line11 | crawl
+| bip_39_word_new_line_11 | crawl
 axis
 cross
 good
@@ -66,7 +66,7 @@ canoe
 tone
 summer
 diesel |  
-| bip_39_word_new_line12 | crawl
+| bip_39_word_new_line_12 | crawl
 axis
 cross
 good
@@ -78,34 +78,34 @@ tone
 summer
 diesel
 accident |  
-| bip_39_word_new_line2 | crawl
+| bip_39_word_new_line_2 | crawl
 axis |  
-| bip_39_word_new_line3 | crawl
+| bip_39_word_new_line_3 | crawl
 axis
 cross |  
-| bip_39_word_new_line4 | crawl
+| bip_39_word_new_line_4 | crawl
 axis
 cross
 good |  
-| bip_39_word_new_line5 | crawl
+| bip_39_word_new_line_5 | crawl
 axis
 cross
 good
 easily |  
-| bip_39_word_new_line6 | crawl
+| bip_39_word_new_line_6 | crawl
 axis
 cross
 good
 easily
 advice |  
-| bip_39_word_new_line7 | crawl
+| bip_39_word_new_line_7 | crawl
 axis
 cross
 good
 easily
 advice
 ramp |  
-| bip_39_word_new_line8 | crawl
+| bip_39_word_new_line_8 | crawl
 axis
 cross
 good
@@ -113,7 +113,7 @@ easily
 advice
 ramp
 canoe |  
-| bip_39_word_new_line9 | crawl
+| bip_39_word_new_line_9 | crawl
 axis
 cross
 good

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sad |  
-| bip_39_word_new_br10 | sad<br>promote<br>excuse<br>brass<br>dust<br>unfold<br>return<br>click<br>raise<br>explain |  
-| bip_39_word_new_br11 | sad<br>promote<br>excuse<br>brass<br>dust<br>unfold<br>return<br>click<br>raise<br>explain<br>pitch |  
-| bip_39_word_new_br12 | sad<br>promote<br>excuse<br>brass<br>dust<br>unfold<br>return<br>click<br>raise<br>explain<br>pitch<br>above |  
-| bip_39_word_new_br2 | sad<br>promote |  
-| bip_39_word_new_br3 | sad<br>promote<br>excuse |  
-| bip_39_word_new_br4 | sad<br>promote<br>excuse<br>brass |  
-| bip_39_word_new_br5 | sad<br>promote<br>excuse<br>brass<br>dust |  
-| bip_39_word_new_br6 | sad<br>promote<br>excuse<br>brass<br>dust<br>unfold |  
-| bip_39_word_new_br7 | sad<br>promote<br>excuse<br>brass<br>dust<br>unfold<br>return |  
-| bip_39_word_new_br8 | sad<br>promote<br>excuse<br>brass<br>dust<br>unfold<br>return<br>click |  
-| bip_39_word_new_br9 | sad<br>promote<br>excuse<br>brass<br>dust<br>unfold<br>return<br>click<br>raise |  
-| bip_39_word_new_line1 | sad |  
-| bip_39_word_new_line10 | sad
+| bip_39_word_new_br_1 | sad |  
+| bip_39_word_new_br_10 | sad<br>promote<br>excuse<br>brass<br>dust<br>unfold<br>return<br>click<br>raise<br>explain |  
+| bip_39_word_new_br_11 | sad<br>promote<br>excuse<br>brass<br>dust<br>unfold<br>return<br>click<br>raise<br>explain<br>pitch |  
+| bip_39_word_new_br_12 | sad<br>promote<br>excuse<br>brass<br>dust<br>unfold<br>return<br>click<br>raise<br>explain<br>pitch<br>above |  
+| bip_39_word_new_br_2 | sad<br>promote |  
+| bip_39_word_new_br_3 | sad<br>promote<br>excuse |  
+| bip_39_word_new_br_4 | sad<br>promote<br>excuse<br>brass |  
+| bip_39_word_new_br_5 | sad<br>promote<br>excuse<br>brass<br>dust |  
+| bip_39_word_new_br_6 | sad<br>promote<br>excuse<br>brass<br>dust<br>unfold |  
+| bip_39_word_new_br_7 | sad<br>promote<br>excuse<br>brass<br>dust<br>unfold<br>return |  
+| bip_39_word_new_br_8 | sad<br>promote<br>excuse<br>brass<br>dust<br>unfold<br>return<br>click |  
+| bip_39_word_new_br_9 | sad<br>promote<br>excuse<br>brass<br>dust<br>unfold<br>return<br>click<br>raise |  
+| bip_39_word_new_line_1 | sad |  
+| bip_39_word_new_line_10 | sad
 promote
 excuse
 brass
@@ -55,7 +55,7 @@ return
 click
 raise
 explain |  
-| bip_39_word_new_line11 | sad
+| bip_39_word_new_line_11 | sad
 promote
 excuse
 brass
@@ -66,7 +66,7 @@ click
 raise
 explain
 pitch |  
-| bip_39_word_new_line12 | sad
+| bip_39_word_new_line_12 | sad
 promote
 excuse
 brass
@@ -78,34 +78,34 @@ raise
 explain
 pitch
 above |  
-| bip_39_word_new_line2 | sad
+| bip_39_word_new_line_2 | sad
 promote |  
-| bip_39_word_new_line3 | sad
+| bip_39_word_new_line_3 | sad
 promote
 excuse |  
-| bip_39_word_new_line4 | sad
+| bip_39_word_new_line_4 | sad
 promote
 excuse
 brass |  
-| bip_39_word_new_line5 | sad
+| bip_39_word_new_line_5 | sad
 promote
 excuse
 brass
 dust |  
-| bip_39_word_new_line6 | sad
+| bip_39_word_new_line_6 | sad
 promote
 excuse
 brass
 dust
 unfold |  
-| bip_39_word_new_line7 | sad
+| bip_39_word_new_line_7 | sad
 promote
 excuse
 brass
 dust
 unfold
 return |  
-| bip_39_word_new_line8 | sad
+| bip_39_word_new_line_8 | sad
 promote
 excuse
 brass
@@ -113,7 +113,7 @@ dust
 unfold
 return
 click |  
-| bip_39_word_new_line9 | sad
+| bip_39_word_new_line_9 | sad
 promote
 excuse
 brass

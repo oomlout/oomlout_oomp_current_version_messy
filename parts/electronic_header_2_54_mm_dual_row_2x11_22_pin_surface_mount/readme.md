@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | steel |  
-| bip_39_word_new_br10 | steel<br>loan<br>pact<br>stuff<br>also<br>brush<br>express<br>open<br>hobby<br>false |  
-| bip_39_word_new_br11 | steel<br>loan<br>pact<br>stuff<br>also<br>brush<br>express<br>open<br>hobby<br>false<br>silver |  
-| bip_39_word_new_br12 | steel<br>loan<br>pact<br>stuff<br>also<br>brush<br>express<br>open<br>hobby<br>false<br>silver<br>athlete |  
-| bip_39_word_new_br2 | steel<br>loan |  
-| bip_39_word_new_br3 | steel<br>loan<br>pact |  
-| bip_39_word_new_br4 | steel<br>loan<br>pact<br>stuff |  
-| bip_39_word_new_br5 | steel<br>loan<br>pact<br>stuff<br>also |  
-| bip_39_word_new_br6 | steel<br>loan<br>pact<br>stuff<br>also<br>brush |  
-| bip_39_word_new_br7 | steel<br>loan<br>pact<br>stuff<br>also<br>brush<br>express |  
-| bip_39_word_new_br8 | steel<br>loan<br>pact<br>stuff<br>also<br>brush<br>express<br>open |  
-| bip_39_word_new_br9 | steel<br>loan<br>pact<br>stuff<br>also<br>brush<br>express<br>open<br>hobby |  
-| bip_39_word_new_line1 | steel |  
-| bip_39_word_new_line10 | steel
+| bip_39_word_new_br_1 | steel |  
+| bip_39_word_new_br_10 | steel<br>loan<br>pact<br>stuff<br>also<br>brush<br>express<br>open<br>hobby<br>false |  
+| bip_39_word_new_br_11 | steel<br>loan<br>pact<br>stuff<br>also<br>brush<br>express<br>open<br>hobby<br>false<br>silver |  
+| bip_39_word_new_br_12 | steel<br>loan<br>pact<br>stuff<br>also<br>brush<br>express<br>open<br>hobby<br>false<br>silver<br>athlete |  
+| bip_39_word_new_br_2 | steel<br>loan |  
+| bip_39_word_new_br_3 | steel<br>loan<br>pact |  
+| bip_39_word_new_br_4 | steel<br>loan<br>pact<br>stuff |  
+| bip_39_word_new_br_5 | steel<br>loan<br>pact<br>stuff<br>also |  
+| bip_39_word_new_br_6 | steel<br>loan<br>pact<br>stuff<br>also<br>brush |  
+| bip_39_word_new_br_7 | steel<br>loan<br>pact<br>stuff<br>also<br>brush<br>express |  
+| bip_39_word_new_br_8 | steel<br>loan<br>pact<br>stuff<br>also<br>brush<br>express<br>open |  
+| bip_39_word_new_br_9 | steel<br>loan<br>pact<br>stuff<br>also<br>brush<br>express<br>open<br>hobby |  
+| bip_39_word_new_line_1 | steel |  
+| bip_39_word_new_line_10 | steel
 loan
 pact
 stuff
@@ -55,7 +55,7 @@ express
 open
 hobby
 false |  
-| bip_39_word_new_line11 | steel
+| bip_39_word_new_line_11 | steel
 loan
 pact
 stuff
@@ -66,7 +66,7 @@ open
 hobby
 false
 silver |  
-| bip_39_word_new_line12 | steel
+| bip_39_word_new_line_12 | steel
 loan
 pact
 stuff
@@ -78,34 +78,34 @@ hobby
 false
 silver
 athlete |  
-| bip_39_word_new_line2 | steel
+| bip_39_word_new_line_2 | steel
 loan |  
-| bip_39_word_new_line3 | steel
+| bip_39_word_new_line_3 | steel
 loan
 pact |  
-| bip_39_word_new_line4 | steel
+| bip_39_word_new_line_4 | steel
 loan
 pact
 stuff |  
-| bip_39_word_new_line5 | steel
+| bip_39_word_new_line_5 | steel
 loan
 pact
 stuff
 also |  
-| bip_39_word_new_line6 | steel
+| bip_39_word_new_line_6 | steel
 loan
 pact
 stuff
 also
 brush |  
-| bip_39_word_new_line7 | steel
+| bip_39_word_new_line_7 | steel
 loan
 pact
 stuff
 also
 brush
 express |  
-| bip_39_word_new_line8 | steel
+| bip_39_word_new_line_8 | steel
 loan
 pact
 stuff
@@ -113,7 +113,7 @@ also
 brush
 express
 open |  
-| bip_39_word_new_line9 | steel
+| bip_39_word_new_line_9 | steel
 loan
 pact
 stuff

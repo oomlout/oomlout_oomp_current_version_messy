@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ethics |  
-| bip_39_word_new_br10 | ethics<br>report<br>museum<br>egg<br>run<br>famous<br>pole<br>push<br>knee<br>inmate |  
-| bip_39_word_new_br11 | ethics<br>report<br>museum<br>egg<br>run<br>famous<br>pole<br>push<br>knee<br>inmate<br>gentle |  
-| bip_39_word_new_br12 | ethics<br>report<br>museum<br>egg<br>run<br>famous<br>pole<br>push<br>knee<br>inmate<br>gentle<br>ancient |  
-| bip_39_word_new_br2 | ethics<br>report |  
-| bip_39_word_new_br3 | ethics<br>report<br>museum |  
-| bip_39_word_new_br4 | ethics<br>report<br>museum<br>egg |  
-| bip_39_word_new_br5 | ethics<br>report<br>museum<br>egg<br>run |  
-| bip_39_word_new_br6 | ethics<br>report<br>museum<br>egg<br>run<br>famous |  
-| bip_39_word_new_br7 | ethics<br>report<br>museum<br>egg<br>run<br>famous<br>pole |  
-| bip_39_word_new_br8 | ethics<br>report<br>museum<br>egg<br>run<br>famous<br>pole<br>push |  
-| bip_39_word_new_br9 | ethics<br>report<br>museum<br>egg<br>run<br>famous<br>pole<br>push<br>knee |  
-| bip_39_word_new_line1 | ethics |  
-| bip_39_word_new_line10 | ethics
+| bip_39_word_new_br_1 | ethics |  
+| bip_39_word_new_br_10 | ethics<br>report<br>museum<br>egg<br>run<br>famous<br>pole<br>push<br>knee<br>inmate |  
+| bip_39_word_new_br_11 | ethics<br>report<br>museum<br>egg<br>run<br>famous<br>pole<br>push<br>knee<br>inmate<br>gentle |  
+| bip_39_word_new_br_12 | ethics<br>report<br>museum<br>egg<br>run<br>famous<br>pole<br>push<br>knee<br>inmate<br>gentle<br>ancient |  
+| bip_39_word_new_br_2 | ethics<br>report |  
+| bip_39_word_new_br_3 | ethics<br>report<br>museum |  
+| bip_39_word_new_br_4 | ethics<br>report<br>museum<br>egg |  
+| bip_39_word_new_br_5 | ethics<br>report<br>museum<br>egg<br>run |  
+| bip_39_word_new_br_6 | ethics<br>report<br>museum<br>egg<br>run<br>famous |  
+| bip_39_word_new_br_7 | ethics<br>report<br>museum<br>egg<br>run<br>famous<br>pole |  
+| bip_39_word_new_br_8 | ethics<br>report<br>museum<br>egg<br>run<br>famous<br>pole<br>push |  
+| bip_39_word_new_br_9 | ethics<br>report<br>museum<br>egg<br>run<br>famous<br>pole<br>push<br>knee |  
+| bip_39_word_new_line_1 | ethics |  
+| bip_39_word_new_line_10 | ethics
 report
 museum
 egg
@@ -55,7 +55,7 @@ pole
 push
 knee
 inmate |  
-| bip_39_word_new_line11 | ethics
+| bip_39_word_new_line_11 | ethics
 report
 museum
 egg
@@ -66,7 +66,7 @@ push
 knee
 inmate
 gentle |  
-| bip_39_word_new_line12 | ethics
+| bip_39_word_new_line_12 | ethics
 report
 museum
 egg
@@ -78,34 +78,34 @@ knee
 inmate
 gentle
 ancient |  
-| bip_39_word_new_line2 | ethics
+| bip_39_word_new_line_2 | ethics
 report |  
-| bip_39_word_new_line3 | ethics
+| bip_39_word_new_line_3 | ethics
 report
 museum |  
-| bip_39_word_new_line4 | ethics
+| bip_39_word_new_line_4 | ethics
 report
 museum
 egg |  
-| bip_39_word_new_line5 | ethics
+| bip_39_word_new_line_5 | ethics
 report
 museum
 egg
 run |  
-| bip_39_word_new_line6 | ethics
+| bip_39_word_new_line_6 | ethics
 report
 museum
 egg
 run
 famous |  
-| bip_39_word_new_line7 | ethics
+| bip_39_word_new_line_7 | ethics
 report
 museum
 egg
 run
 famous
 pole |  
-| bip_39_word_new_line8 | ethics
+| bip_39_word_new_line_8 | ethics
 report
 museum
 egg
@@ -113,7 +113,7 @@ run
 famous
 pole
 push |  
-| bip_39_word_new_line9 | ethics
+| bip_39_word_new_line_9 | ethics
 report
 museum
 egg

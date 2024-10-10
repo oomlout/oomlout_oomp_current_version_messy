@@ -1,17 +1,17 @@
-bip_39_word_new_br1: benefit
-bip_39_word_new_br10: benefit<br>evoke<br>frozen<br>divorce<br>bird<br>middle<br>bottom<br>cost<br>fabric<br>gown
-bip_39_word_new_br11: benefit<br>evoke<br>frozen<br>divorce<br>bird<br>middle<br>bottom<br>cost<br>fabric<br>gown<br>decline
-bip_39_word_new_br12: benefit<br>evoke<br>frozen<br>divorce<br>bird<br>middle<br>bottom<br>cost<br>fabric<br>gown<br>decline<br>ability
-bip_39_word_new_br2: benefit<br>evoke
-bip_39_word_new_br3: benefit<br>evoke<br>frozen
-bip_39_word_new_br4: benefit<br>evoke<br>frozen<br>divorce
-bip_39_word_new_br5: benefit<br>evoke<br>frozen<br>divorce<br>bird
-bip_39_word_new_br6: benefit<br>evoke<br>frozen<br>divorce<br>bird<br>middle
-bip_39_word_new_br7: benefit<br>evoke<br>frozen<br>divorce<br>bird<br>middle<br>bottom
-bip_39_word_new_br8: benefit<br>evoke<br>frozen<br>divorce<br>bird<br>middle<br>bottom<br>cost
-bip_39_word_new_br9: benefit<br>evoke<br>frozen<br>divorce<br>bird<br>middle<br>bottom<br>cost<br>fabric
-bip_39_word_new_line1: benefit
-bip_39_word_new_line10: 'benefit
+bip_39_word_new_br_1: benefit
+bip_39_word_new_br_10: benefit<br>evoke<br>frozen<br>divorce<br>bird<br>middle<br>bottom<br>cost<br>fabric<br>gown
+bip_39_word_new_br_11: benefit<br>evoke<br>frozen<br>divorce<br>bird<br>middle<br>bottom<br>cost<br>fabric<br>gown<br>decline
+bip_39_word_new_br_12: benefit<br>evoke<br>frozen<br>divorce<br>bird<br>middle<br>bottom<br>cost<br>fabric<br>gown<br>decline<br>ability
+bip_39_word_new_br_2: benefit<br>evoke
+bip_39_word_new_br_3: benefit<br>evoke<br>frozen
+bip_39_word_new_br_4: benefit<br>evoke<br>frozen<br>divorce
+bip_39_word_new_br_5: benefit<br>evoke<br>frozen<br>divorce<br>bird
+bip_39_word_new_br_6: benefit<br>evoke<br>frozen<br>divorce<br>bird<br>middle
+bip_39_word_new_br_7: benefit<br>evoke<br>frozen<br>divorce<br>bird<br>middle<br>bottom
+bip_39_word_new_br_8: benefit<br>evoke<br>frozen<br>divorce<br>bird<br>middle<br>bottom<br>cost
+bip_39_word_new_br_9: benefit<br>evoke<br>frozen<br>divorce<br>bird<br>middle<br>bottom<br>cost<br>fabric
+bip_39_word_new_line_1: benefit
+bip_39_word_new_line_10: 'benefit
 
   evoke
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'benefit
   fabric
 
   gown'
-bip_39_word_new_line11: 'benefit
+bip_39_word_new_line_11: 'benefit
 
   evoke
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'benefit
   gown
 
   decline'
-bip_39_word_new_line12: 'benefit
+bip_39_word_new_line_12: 'benefit
 
   evoke
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'benefit
   decline
 
   ability'
-bip_39_word_new_line2: 'benefit
+bip_39_word_new_line_2: 'benefit
 
   evoke'
-bip_39_word_new_line3: 'benefit
+bip_39_word_new_line_3: 'benefit
 
   evoke
 
   frozen'
-bip_39_word_new_line4: 'benefit
+bip_39_word_new_line_4: 'benefit
 
   evoke
 
   frozen
 
   divorce'
-bip_39_word_new_line5: 'benefit
+bip_39_word_new_line_5: 'benefit
 
   evoke
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'benefit
   divorce
 
   bird'
-bip_39_word_new_line6: 'benefit
+bip_39_word_new_line_6: 'benefit
 
   evoke
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'benefit
   bird
 
   middle'
-bip_39_word_new_line7: 'benefit
+bip_39_word_new_line_7: 'benefit
 
   evoke
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'benefit
   middle
 
   bottom'
-bip_39_word_new_line8: 'benefit
+bip_39_word_new_line_8: 'benefit
 
   evoke
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'benefit
   bottom
 
   cost'
-bip_39_word_new_line9: 'benefit
+bip_39_word_new_line_9: 'benefit
 
   evoke
 

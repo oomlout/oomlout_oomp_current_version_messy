@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | admit |  
-| bip_39_word_new_br10 | admit<br>border<br>true<br>crane<br>cloud<br>better<br>wear<br>family<br>plunge<br>plunge |  
-| bip_39_word_new_br11 | admit<br>border<br>true<br>crane<br>cloud<br>better<br>wear<br>family<br>plunge<br>plunge<br>addict |  
-| bip_39_word_new_br12 | admit<br>border<br>true<br>crane<br>cloud<br>better<br>wear<br>family<br>plunge<br>plunge<br>addict<br>around |  
-| bip_39_word_new_br2 | admit<br>border |  
-| bip_39_word_new_br3 | admit<br>border<br>true |  
-| bip_39_word_new_br4 | admit<br>border<br>true<br>crane |  
-| bip_39_word_new_br5 | admit<br>border<br>true<br>crane<br>cloud |  
-| bip_39_word_new_br6 | admit<br>border<br>true<br>crane<br>cloud<br>better |  
-| bip_39_word_new_br7 | admit<br>border<br>true<br>crane<br>cloud<br>better<br>wear |  
-| bip_39_word_new_br8 | admit<br>border<br>true<br>crane<br>cloud<br>better<br>wear<br>family |  
-| bip_39_word_new_br9 | admit<br>border<br>true<br>crane<br>cloud<br>better<br>wear<br>family<br>plunge |  
-| bip_39_word_new_line1 | admit |  
-| bip_39_word_new_line10 | admit
+| bip_39_word_new_br_1 | admit |  
+| bip_39_word_new_br_10 | admit<br>border<br>true<br>crane<br>cloud<br>better<br>wear<br>family<br>plunge<br>plunge |  
+| bip_39_word_new_br_11 | admit<br>border<br>true<br>crane<br>cloud<br>better<br>wear<br>family<br>plunge<br>plunge<br>addict |  
+| bip_39_word_new_br_12 | admit<br>border<br>true<br>crane<br>cloud<br>better<br>wear<br>family<br>plunge<br>plunge<br>addict<br>around |  
+| bip_39_word_new_br_2 | admit<br>border |  
+| bip_39_word_new_br_3 | admit<br>border<br>true |  
+| bip_39_word_new_br_4 | admit<br>border<br>true<br>crane |  
+| bip_39_word_new_br_5 | admit<br>border<br>true<br>crane<br>cloud |  
+| bip_39_word_new_br_6 | admit<br>border<br>true<br>crane<br>cloud<br>better |  
+| bip_39_word_new_br_7 | admit<br>border<br>true<br>crane<br>cloud<br>better<br>wear |  
+| bip_39_word_new_br_8 | admit<br>border<br>true<br>crane<br>cloud<br>better<br>wear<br>family |  
+| bip_39_word_new_br_9 | admit<br>border<br>true<br>crane<br>cloud<br>better<br>wear<br>family<br>plunge |  
+| bip_39_word_new_line_1 | admit |  
+| bip_39_word_new_line_10 | admit
 border
 true
 crane
@@ -55,7 +55,7 @@ wear
 family
 plunge
 plunge |  
-| bip_39_word_new_line11 | admit
+| bip_39_word_new_line_11 | admit
 border
 true
 crane
@@ -66,7 +66,7 @@ family
 plunge
 plunge
 addict |  
-| bip_39_word_new_line12 | admit
+| bip_39_word_new_line_12 | admit
 border
 true
 crane
@@ -78,34 +78,34 @@ plunge
 plunge
 addict
 around |  
-| bip_39_word_new_line2 | admit
+| bip_39_word_new_line_2 | admit
 border |  
-| bip_39_word_new_line3 | admit
+| bip_39_word_new_line_3 | admit
 border
 true |  
-| bip_39_word_new_line4 | admit
+| bip_39_word_new_line_4 | admit
 border
 true
 crane |  
-| bip_39_word_new_line5 | admit
+| bip_39_word_new_line_5 | admit
 border
 true
 crane
 cloud |  
-| bip_39_word_new_line6 | admit
+| bip_39_word_new_line_6 | admit
 border
 true
 crane
 cloud
 better |  
-| bip_39_word_new_line7 | admit
+| bip_39_word_new_line_7 | admit
 border
 true
 crane
 cloud
 better
 wear |  
-| bip_39_word_new_line8 | admit
+| bip_39_word_new_line_8 | admit
 border
 true
 crane
@@ -113,7 +113,7 @@ cloud
 better
 wear
 family |  
-| bip_39_word_new_line9 | admit
+| bip_39_word_new_line_9 | admit
 border
 true
 crane

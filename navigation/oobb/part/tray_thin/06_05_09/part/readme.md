@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | never |  
-| bip_39_word_new_br10 | never<br>muscle<br>they<br>sibling<br>quiz<br>trigger<br>taste<br>warfare<br>digital<br>buzz |  
-| bip_39_word_new_br11 | never<br>muscle<br>they<br>sibling<br>quiz<br>trigger<br>taste<br>warfare<br>digital<br>buzz<br>tribe |  
-| bip_39_word_new_br12 | never<br>muscle<br>they<br>sibling<br>quiz<br>trigger<br>taste<br>warfare<br>digital<br>buzz<br>tribe<br>arch |  
-| bip_39_word_new_br2 | never<br>muscle |  
-| bip_39_word_new_br3 | never<br>muscle<br>they |  
-| bip_39_word_new_br4 | never<br>muscle<br>they<br>sibling |  
-| bip_39_word_new_br5 | never<br>muscle<br>they<br>sibling<br>quiz |  
-| bip_39_word_new_br6 | never<br>muscle<br>they<br>sibling<br>quiz<br>trigger |  
-| bip_39_word_new_br7 | never<br>muscle<br>they<br>sibling<br>quiz<br>trigger<br>taste |  
-| bip_39_word_new_br8 | never<br>muscle<br>they<br>sibling<br>quiz<br>trigger<br>taste<br>warfare |  
-| bip_39_word_new_br9 | never<br>muscle<br>they<br>sibling<br>quiz<br>trigger<br>taste<br>warfare<br>digital |  
-| bip_39_word_new_line1 | never |  
-| bip_39_word_new_line10 | never
+| bip_39_word_new_br_1 | never |  
+| bip_39_word_new_br_10 | never<br>muscle<br>they<br>sibling<br>quiz<br>trigger<br>taste<br>warfare<br>digital<br>buzz |  
+| bip_39_word_new_br_11 | never<br>muscle<br>they<br>sibling<br>quiz<br>trigger<br>taste<br>warfare<br>digital<br>buzz<br>tribe |  
+| bip_39_word_new_br_12 | never<br>muscle<br>they<br>sibling<br>quiz<br>trigger<br>taste<br>warfare<br>digital<br>buzz<br>tribe<br>arch |  
+| bip_39_word_new_br_2 | never<br>muscle |  
+| bip_39_word_new_br_3 | never<br>muscle<br>they |  
+| bip_39_word_new_br_4 | never<br>muscle<br>they<br>sibling |  
+| bip_39_word_new_br_5 | never<br>muscle<br>they<br>sibling<br>quiz |  
+| bip_39_word_new_br_6 | never<br>muscle<br>they<br>sibling<br>quiz<br>trigger |  
+| bip_39_word_new_br_7 | never<br>muscle<br>they<br>sibling<br>quiz<br>trigger<br>taste |  
+| bip_39_word_new_br_8 | never<br>muscle<br>they<br>sibling<br>quiz<br>trigger<br>taste<br>warfare |  
+| bip_39_word_new_br_9 | never<br>muscle<br>they<br>sibling<br>quiz<br>trigger<br>taste<br>warfare<br>digital |  
+| bip_39_word_new_line_1 | never |  
+| bip_39_word_new_line_10 | never
 muscle
 they
 sibling
@@ -55,7 +55,7 @@ taste
 warfare
 digital
 buzz |  
-| bip_39_word_new_line11 | never
+| bip_39_word_new_line_11 | never
 muscle
 they
 sibling
@@ -66,7 +66,7 @@ warfare
 digital
 buzz
 tribe |  
-| bip_39_word_new_line12 | never
+| bip_39_word_new_line_12 | never
 muscle
 they
 sibling
@@ -78,34 +78,34 @@ digital
 buzz
 tribe
 arch |  
-| bip_39_word_new_line2 | never
+| bip_39_word_new_line_2 | never
 muscle |  
-| bip_39_word_new_line3 | never
+| bip_39_word_new_line_3 | never
 muscle
 they |  
-| bip_39_word_new_line4 | never
+| bip_39_word_new_line_4 | never
 muscle
 they
 sibling |  
-| bip_39_word_new_line5 | never
+| bip_39_word_new_line_5 | never
 muscle
 they
 sibling
 quiz |  
-| bip_39_word_new_line6 | never
+| bip_39_word_new_line_6 | never
 muscle
 they
 sibling
 quiz
 trigger |  
-| bip_39_word_new_line7 | never
+| bip_39_word_new_line_7 | never
 muscle
 they
 sibling
 quiz
 trigger
 taste |  
-| bip_39_word_new_line8 | never
+| bip_39_word_new_line_8 | never
 muscle
 they
 sibling
@@ -113,7 +113,7 @@ quiz
 trigger
 taste
 warfare |  
-| bip_39_word_new_line9 | never
+| bip_39_word_new_line_9 | never
 muscle
 they
 sibling

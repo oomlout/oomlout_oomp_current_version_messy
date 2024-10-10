@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | brick |  
-| bip_39_word_new_br10 | brick<br>athlete<br>anger<br>unhappy<br>book<br>pepper<br>stick<br>long<br>robot<br>eager |  
-| bip_39_word_new_br11 | brick<br>athlete<br>anger<br>unhappy<br>book<br>pepper<br>stick<br>long<br>robot<br>eager<br>minimum |  
-| bip_39_word_new_br12 | brick<br>athlete<br>anger<br>unhappy<br>book<br>pepper<br>stick<br>long<br>robot<br>eager<br>minimum<br>arrow |  
-| bip_39_word_new_br2 | brick<br>athlete |  
-| bip_39_word_new_br3 | brick<br>athlete<br>anger |  
-| bip_39_word_new_br4 | brick<br>athlete<br>anger<br>unhappy |  
-| bip_39_word_new_br5 | brick<br>athlete<br>anger<br>unhappy<br>book |  
-| bip_39_word_new_br6 | brick<br>athlete<br>anger<br>unhappy<br>book<br>pepper |  
-| bip_39_word_new_br7 | brick<br>athlete<br>anger<br>unhappy<br>book<br>pepper<br>stick |  
-| bip_39_word_new_br8 | brick<br>athlete<br>anger<br>unhappy<br>book<br>pepper<br>stick<br>long |  
-| bip_39_word_new_br9 | brick<br>athlete<br>anger<br>unhappy<br>book<br>pepper<br>stick<br>long<br>robot |  
-| bip_39_word_new_line1 | brick |  
-| bip_39_word_new_line10 | brick
+| bip_39_word_new_br_1 | brick |  
+| bip_39_word_new_br_10 | brick<br>athlete<br>anger<br>unhappy<br>book<br>pepper<br>stick<br>long<br>robot<br>eager |  
+| bip_39_word_new_br_11 | brick<br>athlete<br>anger<br>unhappy<br>book<br>pepper<br>stick<br>long<br>robot<br>eager<br>minimum |  
+| bip_39_word_new_br_12 | brick<br>athlete<br>anger<br>unhappy<br>book<br>pepper<br>stick<br>long<br>robot<br>eager<br>minimum<br>arrow |  
+| bip_39_word_new_br_2 | brick<br>athlete |  
+| bip_39_word_new_br_3 | brick<br>athlete<br>anger |  
+| bip_39_word_new_br_4 | brick<br>athlete<br>anger<br>unhappy |  
+| bip_39_word_new_br_5 | brick<br>athlete<br>anger<br>unhappy<br>book |  
+| bip_39_word_new_br_6 | brick<br>athlete<br>anger<br>unhappy<br>book<br>pepper |  
+| bip_39_word_new_br_7 | brick<br>athlete<br>anger<br>unhappy<br>book<br>pepper<br>stick |  
+| bip_39_word_new_br_8 | brick<br>athlete<br>anger<br>unhappy<br>book<br>pepper<br>stick<br>long |  
+| bip_39_word_new_br_9 | brick<br>athlete<br>anger<br>unhappy<br>book<br>pepper<br>stick<br>long<br>robot |  
+| bip_39_word_new_line_1 | brick |  
+| bip_39_word_new_line_10 | brick
 athlete
 anger
 unhappy
@@ -55,7 +55,7 @@ stick
 long
 robot
 eager |  
-| bip_39_word_new_line11 | brick
+| bip_39_word_new_line_11 | brick
 athlete
 anger
 unhappy
@@ -66,7 +66,7 @@ long
 robot
 eager
 minimum |  
-| bip_39_word_new_line12 | brick
+| bip_39_word_new_line_12 | brick
 athlete
 anger
 unhappy
@@ -78,34 +78,34 @@ robot
 eager
 minimum
 arrow |  
-| bip_39_word_new_line2 | brick
+| bip_39_word_new_line_2 | brick
 athlete |  
-| bip_39_word_new_line3 | brick
+| bip_39_word_new_line_3 | brick
 athlete
 anger |  
-| bip_39_word_new_line4 | brick
+| bip_39_word_new_line_4 | brick
 athlete
 anger
 unhappy |  
-| bip_39_word_new_line5 | brick
+| bip_39_word_new_line_5 | brick
 athlete
 anger
 unhappy
 book |  
-| bip_39_word_new_line6 | brick
+| bip_39_word_new_line_6 | brick
 athlete
 anger
 unhappy
 book
 pepper |  
-| bip_39_word_new_line7 | brick
+| bip_39_word_new_line_7 | brick
 athlete
 anger
 unhappy
 book
 pepper
 stick |  
-| bip_39_word_new_line8 | brick
+| bip_39_word_new_line_8 | brick
 athlete
 anger
 unhappy
@@ -113,7 +113,7 @@ book
 pepper
 stick
 long |  
-| bip_39_word_new_line9 | brick
+| bip_39_word_new_line_9 | brick
 athlete
 anger
 unhappy

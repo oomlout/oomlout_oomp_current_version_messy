@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | faint |  
-| bip_39_word_new_br10 | faint<br>fury<br>title<br>ceiling<br>deposit<br>swarm<br>height<br>impose<br>vague<br>web |  
-| bip_39_word_new_br11 | faint<br>fury<br>title<br>ceiling<br>deposit<br>swarm<br>height<br>impose<br>vague<br>web<br>calm |  
-| bip_39_word_new_br12 | faint<br>fury<br>title<br>ceiling<br>deposit<br>swarm<br>height<br>impose<br>vague<br>web<br>calm<br>actor |  
-| bip_39_word_new_br2 | faint<br>fury |  
-| bip_39_word_new_br3 | faint<br>fury<br>title |  
-| bip_39_word_new_br4 | faint<br>fury<br>title<br>ceiling |  
-| bip_39_word_new_br5 | faint<br>fury<br>title<br>ceiling<br>deposit |  
-| bip_39_word_new_br6 | faint<br>fury<br>title<br>ceiling<br>deposit<br>swarm |  
-| bip_39_word_new_br7 | faint<br>fury<br>title<br>ceiling<br>deposit<br>swarm<br>height |  
-| bip_39_word_new_br8 | faint<br>fury<br>title<br>ceiling<br>deposit<br>swarm<br>height<br>impose |  
-| bip_39_word_new_br9 | faint<br>fury<br>title<br>ceiling<br>deposit<br>swarm<br>height<br>impose<br>vague |  
-| bip_39_word_new_line1 | faint |  
-| bip_39_word_new_line10 | faint
+| bip_39_word_new_br_1 | faint |  
+| bip_39_word_new_br_10 | faint<br>fury<br>title<br>ceiling<br>deposit<br>swarm<br>height<br>impose<br>vague<br>web |  
+| bip_39_word_new_br_11 | faint<br>fury<br>title<br>ceiling<br>deposit<br>swarm<br>height<br>impose<br>vague<br>web<br>calm |  
+| bip_39_word_new_br_12 | faint<br>fury<br>title<br>ceiling<br>deposit<br>swarm<br>height<br>impose<br>vague<br>web<br>calm<br>actor |  
+| bip_39_word_new_br_2 | faint<br>fury |  
+| bip_39_word_new_br_3 | faint<br>fury<br>title |  
+| bip_39_word_new_br_4 | faint<br>fury<br>title<br>ceiling |  
+| bip_39_word_new_br_5 | faint<br>fury<br>title<br>ceiling<br>deposit |  
+| bip_39_word_new_br_6 | faint<br>fury<br>title<br>ceiling<br>deposit<br>swarm |  
+| bip_39_word_new_br_7 | faint<br>fury<br>title<br>ceiling<br>deposit<br>swarm<br>height |  
+| bip_39_word_new_br_8 | faint<br>fury<br>title<br>ceiling<br>deposit<br>swarm<br>height<br>impose |  
+| bip_39_word_new_br_9 | faint<br>fury<br>title<br>ceiling<br>deposit<br>swarm<br>height<br>impose<br>vague |  
+| bip_39_word_new_line_1 | faint |  
+| bip_39_word_new_line_10 | faint
 fury
 title
 ceiling
@@ -55,7 +55,7 @@ height
 impose
 vague
 web |  
-| bip_39_word_new_line11 | faint
+| bip_39_word_new_line_11 | faint
 fury
 title
 ceiling
@@ -66,7 +66,7 @@ impose
 vague
 web
 calm |  
-| bip_39_word_new_line12 | faint
+| bip_39_word_new_line_12 | faint
 fury
 title
 ceiling
@@ -78,34 +78,34 @@ vague
 web
 calm
 actor |  
-| bip_39_word_new_line2 | faint
+| bip_39_word_new_line_2 | faint
 fury |  
-| bip_39_word_new_line3 | faint
+| bip_39_word_new_line_3 | faint
 fury
 title |  
-| bip_39_word_new_line4 | faint
+| bip_39_word_new_line_4 | faint
 fury
 title
 ceiling |  
-| bip_39_word_new_line5 | faint
+| bip_39_word_new_line_5 | faint
 fury
 title
 ceiling
 deposit |  
-| bip_39_word_new_line6 | faint
+| bip_39_word_new_line_6 | faint
 fury
 title
 ceiling
 deposit
 swarm |  
-| bip_39_word_new_line7 | faint
+| bip_39_word_new_line_7 | faint
 fury
 title
 ceiling
 deposit
 swarm
 height |  
-| bip_39_word_new_line8 | faint
+| bip_39_word_new_line_8 | faint
 fury
 title
 ceiling
@@ -113,7 +113,7 @@ deposit
 swarm
 height
 impose |  
-| bip_39_word_new_line9 | faint
+| bip_39_word_new_line_9 | faint
 fury
 title
 ceiling

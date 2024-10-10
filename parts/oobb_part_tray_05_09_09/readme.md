@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | caution |  
-| bip_39_word_new_br10 | caution<br>sorry<br>change<br>trade<br>mean<br>cannon<br>year<br>broom<br>similar<br>shuffle |  
-| bip_39_word_new_br11 | caution<br>sorry<br>change<br>trade<br>mean<br>cannon<br>year<br>broom<br>similar<br>shuffle<br>lazy |  
-| bip_39_word_new_br12 | caution<br>sorry<br>change<br>trade<br>mean<br>cannon<br>year<br>broom<br>similar<br>shuffle<br>lazy<br>autumn |  
-| bip_39_word_new_br2 | caution<br>sorry |  
-| bip_39_word_new_br3 | caution<br>sorry<br>change |  
-| bip_39_word_new_br4 | caution<br>sorry<br>change<br>trade |  
-| bip_39_word_new_br5 | caution<br>sorry<br>change<br>trade<br>mean |  
-| bip_39_word_new_br6 | caution<br>sorry<br>change<br>trade<br>mean<br>cannon |  
-| bip_39_word_new_br7 | caution<br>sorry<br>change<br>trade<br>mean<br>cannon<br>year |  
-| bip_39_word_new_br8 | caution<br>sorry<br>change<br>trade<br>mean<br>cannon<br>year<br>broom |  
-| bip_39_word_new_br9 | caution<br>sorry<br>change<br>trade<br>mean<br>cannon<br>year<br>broom<br>similar |  
-| bip_39_word_new_line1 | caution |  
-| bip_39_word_new_line10 | caution
+| bip_39_word_new_br_1 | caution |  
+| bip_39_word_new_br_10 | caution<br>sorry<br>change<br>trade<br>mean<br>cannon<br>year<br>broom<br>similar<br>shuffle |  
+| bip_39_word_new_br_11 | caution<br>sorry<br>change<br>trade<br>mean<br>cannon<br>year<br>broom<br>similar<br>shuffle<br>lazy |  
+| bip_39_word_new_br_12 | caution<br>sorry<br>change<br>trade<br>mean<br>cannon<br>year<br>broom<br>similar<br>shuffle<br>lazy<br>autumn |  
+| bip_39_word_new_br_2 | caution<br>sorry |  
+| bip_39_word_new_br_3 | caution<br>sorry<br>change |  
+| bip_39_word_new_br_4 | caution<br>sorry<br>change<br>trade |  
+| bip_39_word_new_br_5 | caution<br>sorry<br>change<br>trade<br>mean |  
+| bip_39_word_new_br_6 | caution<br>sorry<br>change<br>trade<br>mean<br>cannon |  
+| bip_39_word_new_br_7 | caution<br>sorry<br>change<br>trade<br>mean<br>cannon<br>year |  
+| bip_39_word_new_br_8 | caution<br>sorry<br>change<br>trade<br>mean<br>cannon<br>year<br>broom |  
+| bip_39_word_new_br_9 | caution<br>sorry<br>change<br>trade<br>mean<br>cannon<br>year<br>broom<br>similar |  
+| bip_39_word_new_line_1 | caution |  
+| bip_39_word_new_line_10 | caution
 sorry
 change
 trade
@@ -55,7 +55,7 @@ year
 broom
 similar
 shuffle |  
-| bip_39_word_new_line11 | caution
+| bip_39_word_new_line_11 | caution
 sorry
 change
 trade
@@ -66,7 +66,7 @@ broom
 similar
 shuffle
 lazy |  
-| bip_39_word_new_line12 | caution
+| bip_39_word_new_line_12 | caution
 sorry
 change
 trade
@@ -78,34 +78,34 @@ similar
 shuffle
 lazy
 autumn |  
-| bip_39_word_new_line2 | caution
+| bip_39_word_new_line_2 | caution
 sorry |  
-| bip_39_word_new_line3 | caution
+| bip_39_word_new_line_3 | caution
 sorry
 change |  
-| bip_39_word_new_line4 | caution
+| bip_39_word_new_line_4 | caution
 sorry
 change
 trade |  
-| bip_39_word_new_line5 | caution
+| bip_39_word_new_line_5 | caution
 sorry
 change
 trade
 mean |  
-| bip_39_word_new_line6 | caution
+| bip_39_word_new_line_6 | caution
 sorry
 change
 trade
 mean
 cannon |  
-| bip_39_word_new_line7 | caution
+| bip_39_word_new_line_7 | caution
 sorry
 change
 trade
 mean
 cannon
 year |  
-| bip_39_word_new_line8 | caution
+| bip_39_word_new_line_8 | caution
 sorry
 change
 trade
@@ -113,7 +113,7 @@ mean
 cannon
 year
 broom |  
-| bip_39_word_new_line9 | caution
+| bip_39_word_new_line_9 | caution
 sorry
 change
 trade

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | interest |  
-| bip_39_word_new_br10 | interest<br>rebel<br>misery<br>foil<br>beef<br>panel<br>solar<br>dismiss<br>want<br>comfort |  
-| bip_39_word_new_br11 | interest<br>rebel<br>misery<br>foil<br>beef<br>panel<br>solar<br>dismiss<br>want<br>comfort<br>bar |  
-| bip_39_word_new_br12 | interest<br>rebel<br>misery<br>foil<br>beef<br>panel<br>solar<br>dismiss<br>want<br>comfort<br>bar<br>accuse |  
-| bip_39_word_new_br2 | interest<br>rebel |  
-| bip_39_word_new_br3 | interest<br>rebel<br>misery |  
-| bip_39_word_new_br4 | interest<br>rebel<br>misery<br>foil |  
-| bip_39_word_new_br5 | interest<br>rebel<br>misery<br>foil<br>beef |  
-| bip_39_word_new_br6 | interest<br>rebel<br>misery<br>foil<br>beef<br>panel |  
-| bip_39_word_new_br7 | interest<br>rebel<br>misery<br>foil<br>beef<br>panel<br>solar |  
-| bip_39_word_new_br8 | interest<br>rebel<br>misery<br>foil<br>beef<br>panel<br>solar<br>dismiss |  
-| bip_39_word_new_br9 | interest<br>rebel<br>misery<br>foil<br>beef<br>panel<br>solar<br>dismiss<br>want |  
-| bip_39_word_new_line1 | interest |  
-| bip_39_word_new_line10 | interest
+| bip_39_word_new_br_1 | interest |  
+| bip_39_word_new_br_10 | interest<br>rebel<br>misery<br>foil<br>beef<br>panel<br>solar<br>dismiss<br>want<br>comfort |  
+| bip_39_word_new_br_11 | interest<br>rebel<br>misery<br>foil<br>beef<br>panel<br>solar<br>dismiss<br>want<br>comfort<br>bar |  
+| bip_39_word_new_br_12 | interest<br>rebel<br>misery<br>foil<br>beef<br>panel<br>solar<br>dismiss<br>want<br>comfort<br>bar<br>accuse |  
+| bip_39_word_new_br_2 | interest<br>rebel |  
+| bip_39_word_new_br_3 | interest<br>rebel<br>misery |  
+| bip_39_word_new_br_4 | interest<br>rebel<br>misery<br>foil |  
+| bip_39_word_new_br_5 | interest<br>rebel<br>misery<br>foil<br>beef |  
+| bip_39_word_new_br_6 | interest<br>rebel<br>misery<br>foil<br>beef<br>panel |  
+| bip_39_word_new_br_7 | interest<br>rebel<br>misery<br>foil<br>beef<br>panel<br>solar |  
+| bip_39_word_new_br_8 | interest<br>rebel<br>misery<br>foil<br>beef<br>panel<br>solar<br>dismiss |  
+| bip_39_word_new_br_9 | interest<br>rebel<br>misery<br>foil<br>beef<br>panel<br>solar<br>dismiss<br>want |  
+| bip_39_word_new_line_1 | interest |  
+| bip_39_word_new_line_10 | interest
 rebel
 misery
 foil
@@ -55,7 +55,7 @@ solar
 dismiss
 want
 comfort |  
-| bip_39_word_new_line11 | interest
+| bip_39_word_new_line_11 | interest
 rebel
 misery
 foil
@@ -66,7 +66,7 @@ dismiss
 want
 comfort
 bar |  
-| bip_39_word_new_line12 | interest
+| bip_39_word_new_line_12 | interest
 rebel
 misery
 foil
@@ -78,34 +78,34 @@ want
 comfort
 bar
 accuse |  
-| bip_39_word_new_line2 | interest
+| bip_39_word_new_line_2 | interest
 rebel |  
-| bip_39_word_new_line3 | interest
+| bip_39_word_new_line_3 | interest
 rebel
 misery |  
-| bip_39_word_new_line4 | interest
+| bip_39_word_new_line_4 | interest
 rebel
 misery
 foil |  
-| bip_39_word_new_line5 | interest
+| bip_39_word_new_line_5 | interest
 rebel
 misery
 foil
 beef |  
-| bip_39_word_new_line6 | interest
+| bip_39_word_new_line_6 | interest
 rebel
 misery
 foil
 beef
 panel |  
-| bip_39_word_new_line7 | interest
+| bip_39_word_new_line_7 | interest
 rebel
 misery
 foil
 beef
 panel
 solar |  
-| bip_39_word_new_line8 | interest
+| bip_39_word_new_line_8 | interest
 rebel
 misery
 foil
@@ -113,7 +113,7 @@ beef
 panel
 solar
 dismiss |  
-| bip_39_word_new_line9 | interest
+| bip_39_word_new_line_9 | interest
 rebel
 misery
 foil

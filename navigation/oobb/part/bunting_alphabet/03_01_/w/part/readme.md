@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | video |  
-| bip_39_word_new_br10 | video<br>brother<br>dizzy<br>right<br>bird<br>balcony<br>twenty<br>text<br>sugar<br>impulse |  
-| bip_39_word_new_br11 | video<br>brother<br>dizzy<br>right<br>bird<br>balcony<br>twenty<br>text<br>sugar<br>impulse<br>major |  
-| bip_39_word_new_br12 | video<br>brother<br>dizzy<br>right<br>bird<br>balcony<br>twenty<br>text<br>sugar<br>impulse<br>major<br>author |  
-| bip_39_word_new_br2 | video<br>brother |  
-| bip_39_word_new_br3 | video<br>brother<br>dizzy |  
-| bip_39_word_new_br4 | video<br>brother<br>dizzy<br>right |  
-| bip_39_word_new_br5 | video<br>brother<br>dizzy<br>right<br>bird |  
-| bip_39_word_new_br6 | video<br>brother<br>dizzy<br>right<br>bird<br>balcony |  
-| bip_39_word_new_br7 | video<br>brother<br>dizzy<br>right<br>bird<br>balcony<br>twenty |  
-| bip_39_word_new_br8 | video<br>brother<br>dizzy<br>right<br>bird<br>balcony<br>twenty<br>text |  
-| bip_39_word_new_br9 | video<br>brother<br>dizzy<br>right<br>bird<br>balcony<br>twenty<br>text<br>sugar |  
-| bip_39_word_new_line1 | video |  
-| bip_39_word_new_line10 | video
+| bip_39_word_new_br_1 | video |  
+| bip_39_word_new_br_10 | video<br>brother<br>dizzy<br>right<br>bird<br>balcony<br>twenty<br>text<br>sugar<br>impulse |  
+| bip_39_word_new_br_11 | video<br>brother<br>dizzy<br>right<br>bird<br>balcony<br>twenty<br>text<br>sugar<br>impulse<br>major |  
+| bip_39_word_new_br_12 | video<br>brother<br>dizzy<br>right<br>bird<br>balcony<br>twenty<br>text<br>sugar<br>impulse<br>major<br>author |  
+| bip_39_word_new_br_2 | video<br>brother |  
+| bip_39_word_new_br_3 | video<br>brother<br>dizzy |  
+| bip_39_word_new_br_4 | video<br>brother<br>dizzy<br>right |  
+| bip_39_word_new_br_5 | video<br>brother<br>dizzy<br>right<br>bird |  
+| bip_39_word_new_br_6 | video<br>brother<br>dizzy<br>right<br>bird<br>balcony |  
+| bip_39_word_new_br_7 | video<br>brother<br>dizzy<br>right<br>bird<br>balcony<br>twenty |  
+| bip_39_word_new_br_8 | video<br>brother<br>dizzy<br>right<br>bird<br>balcony<br>twenty<br>text |  
+| bip_39_word_new_br_9 | video<br>brother<br>dizzy<br>right<br>bird<br>balcony<br>twenty<br>text<br>sugar |  
+| bip_39_word_new_line_1 | video |  
+| bip_39_word_new_line_10 | video
 brother
 dizzy
 right
@@ -55,7 +55,7 @@ twenty
 text
 sugar
 impulse |  
-| bip_39_word_new_line11 | video
+| bip_39_word_new_line_11 | video
 brother
 dizzy
 right
@@ -66,7 +66,7 @@ text
 sugar
 impulse
 major |  
-| bip_39_word_new_line12 | video
+| bip_39_word_new_line_12 | video
 brother
 dizzy
 right
@@ -78,34 +78,34 @@ sugar
 impulse
 major
 author |  
-| bip_39_word_new_line2 | video
+| bip_39_word_new_line_2 | video
 brother |  
-| bip_39_word_new_line3 | video
+| bip_39_word_new_line_3 | video
 brother
 dizzy |  
-| bip_39_word_new_line4 | video
+| bip_39_word_new_line_4 | video
 brother
 dizzy
 right |  
-| bip_39_word_new_line5 | video
+| bip_39_word_new_line_5 | video
 brother
 dizzy
 right
 bird |  
-| bip_39_word_new_line6 | video
+| bip_39_word_new_line_6 | video
 brother
 dizzy
 right
 bird
 balcony |  
-| bip_39_word_new_line7 | video
+| bip_39_word_new_line_7 | video
 brother
 dizzy
 right
 bird
 balcony
 twenty |  
-| bip_39_word_new_line8 | video
+| bip_39_word_new_line_8 | video
 brother
 dizzy
 right
@@ -113,7 +113,7 @@ bird
 balcony
 twenty
 text |  
-| bip_39_word_new_line9 | video
+| bip_39_word_new_line_9 | video
 brother
 dizzy
 right

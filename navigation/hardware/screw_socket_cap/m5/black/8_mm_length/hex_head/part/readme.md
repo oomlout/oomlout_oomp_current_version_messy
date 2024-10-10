@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ignore |  
-| bip_39_word_new_br10 | ignore<br>achieve<br>pizza<br>parent<br>forum<br>prefer<br>mammal<br>penalty<br>grocery<br>area |  
-| bip_39_word_new_br11 | ignore<br>achieve<br>pizza<br>parent<br>forum<br>prefer<br>mammal<br>penalty<br>grocery<br>area<br>order |  
-| bip_39_word_new_br12 | ignore<br>achieve<br>pizza<br>parent<br>forum<br>prefer<br>mammal<br>penalty<br>grocery<br>area<br>order<br>acid |  
-| bip_39_word_new_br2 | ignore<br>achieve |  
-| bip_39_word_new_br3 | ignore<br>achieve<br>pizza |  
-| bip_39_word_new_br4 | ignore<br>achieve<br>pizza<br>parent |  
-| bip_39_word_new_br5 | ignore<br>achieve<br>pizza<br>parent<br>forum |  
-| bip_39_word_new_br6 | ignore<br>achieve<br>pizza<br>parent<br>forum<br>prefer |  
-| bip_39_word_new_br7 | ignore<br>achieve<br>pizza<br>parent<br>forum<br>prefer<br>mammal |  
-| bip_39_word_new_br8 | ignore<br>achieve<br>pizza<br>parent<br>forum<br>prefer<br>mammal<br>penalty |  
-| bip_39_word_new_br9 | ignore<br>achieve<br>pizza<br>parent<br>forum<br>prefer<br>mammal<br>penalty<br>grocery |  
-| bip_39_word_new_line1 | ignore |  
-| bip_39_word_new_line10 | ignore
+| bip_39_word_new_br_1 | ignore |  
+| bip_39_word_new_br_10 | ignore<br>achieve<br>pizza<br>parent<br>forum<br>prefer<br>mammal<br>penalty<br>grocery<br>area |  
+| bip_39_word_new_br_11 | ignore<br>achieve<br>pizza<br>parent<br>forum<br>prefer<br>mammal<br>penalty<br>grocery<br>area<br>order |  
+| bip_39_word_new_br_12 | ignore<br>achieve<br>pizza<br>parent<br>forum<br>prefer<br>mammal<br>penalty<br>grocery<br>area<br>order<br>acid |  
+| bip_39_word_new_br_2 | ignore<br>achieve |  
+| bip_39_word_new_br_3 | ignore<br>achieve<br>pizza |  
+| bip_39_word_new_br_4 | ignore<br>achieve<br>pizza<br>parent |  
+| bip_39_word_new_br_5 | ignore<br>achieve<br>pizza<br>parent<br>forum |  
+| bip_39_word_new_br_6 | ignore<br>achieve<br>pizza<br>parent<br>forum<br>prefer |  
+| bip_39_word_new_br_7 | ignore<br>achieve<br>pizza<br>parent<br>forum<br>prefer<br>mammal |  
+| bip_39_word_new_br_8 | ignore<br>achieve<br>pizza<br>parent<br>forum<br>prefer<br>mammal<br>penalty |  
+| bip_39_word_new_br_9 | ignore<br>achieve<br>pizza<br>parent<br>forum<br>prefer<br>mammal<br>penalty<br>grocery |  
+| bip_39_word_new_line_1 | ignore |  
+| bip_39_word_new_line_10 | ignore
 achieve
 pizza
 parent
@@ -55,7 +55,7 @@ mammal
 penalty
 grocery
 area |  
-| bip_39_word_new_line11 | ignore
+| bip_39_word_new_line_11 | ignore
 achieve
 pizza
 parent
@@ -66,7 +66,7 @@ penalty
 grocery
 area
 order |  
-| bip_39_word_new_line12 | ignore
+| bip_39_word_new_line_12 | ignore
 achieve
 pizza
 parent
@@ -78,34 +78,34 @@ grocery
 area
 order
 acid |  
-| bip_39_word_new_line2 | ignore
+| bip_39_word_new_line_2 | ignore
 achieve |  
-| bip_39_word_new_line3 | ignore
+| bip_39_word_new_line_3 | ignore
 achieve
 pizza |  
-| bip_39_word_new_line4 | ignore
+| bip_39_word_new_line_4 | ignore
 achieve
 pizza
 parent |  
-| bip_39_word_new_line5 | ignore
+| bip_39_word_new_line_5 | ignore
 achieve
 pizza
 parent
 forum |  
-| bip_39_word_new_line6 | ignore
+| bip_39_word_new_line_6 | ignore
 achieve
 pizza
 parent
 forum
 prefer |  
-| bip_39_word_new_line7 | ignore
+| bip_39_word_new_line_7 | ignore
 achieve
 pizza
 parent
 forum
 prefer
 mammal |  
-| bip_39_word_new_line8 | ignore
+| bip_39_word_new_line_8 | ignore
 achieve
 pizza
 parent
@@ -113,7 +113,7 @@ forum
 prefer
 mammal
 penalty |  
-| bip_39_word_new_line9 | ignore
+| bip_39_word_new_line_9 | ignore
 achieve
 pizza
 parent

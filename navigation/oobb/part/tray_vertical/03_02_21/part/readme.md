@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fatigue |  
-| bip_39_word_new_br10 | fatigue<br>aim<br>harsh<br>mixture<br>talk<br>arrow<br>country<br>bulb<br>help<br>foster |  
-| bip_39_word_new_br11 | fatigue<br>aim<br>harsh<br>mixture<br>talk<br>arrow<br>country<br>bulb<br>help<br>foster<br>dinner |  
-| bip_39_word_new_br12 | fatigue<br>aim<br>harsh<br>mixture<br>talk<br>arrow<br>country<br>bulb<br>help<br>foster<br>dinner<br>always |  
-| bip_39_word_new_br2 | fatigue<br>aim |  
-| bip_39_word_new_br3 | fatigue<br>aim<br>harsh |  
-| bip_39_word_new_br4 | fatigue<br>aim<br>harsh<br>mixture |  
-| bip_39_word_new_br5 | fatigue<br>aim<br>harsh<br>mixture<br>talk |  
-| bip_39_word_new_br6 | fatigue<br>aim<br>harsh<br>mixture<br>talk<br>arrow |  
-| bip_39_word_new_br7 | fatigue<br>aim<br>harsh<br>mixture<br>talk<br>arrow<br>country |  
-| bip_39_word_new_br8 | fatigue<br>aim<br>harsh<br>mixture<br>talk<br>arrow<br>country<br>bulb |  
-| bip_39_word_new_br9 | fatigue<br>aim<br>harsh<br>mixture<br>talk<br>arrow<br>country<br>bulb<br>help |  
-| bip_39_word_new_line1 | fatigue |  
-| bip_39_word_new_line10 | fatigue
+| bip_39_word_new_br_1 | fatigue |  
+| bip_39_word_new_br_10 | fatigue<br>aim<br>harsh<br>mixture<br>talk<br>arrow<br>country<br>bulb<br>help<br>foster |  
+| bip_39_word_new_br_11 | fatigue<br>aim<br>harsh<br>mixture<br>talk<br>arrow<br>country<br>bulb<br>help<br>foster<br>dinner |  
+| bip_39_word_new_br_12 | fatigue<br>aim<br>harsh<br>mixture<br>talk<br>arrow<br>country<br>bulb<br>help<br>foster<br>dinner<br>always |  
+| bip_39_word_new_br_2 | fatigue<br>aim |  
+| bip_39_word_new_br_3 | fatigue<br>aim<br>harsh |  
+| bip_39_word_new_br_4 | fatigue<br>aim<br>harsh<br>mixture |  
+| bip_39_word_new_br_5 | fatigue<br>aim<br>harsh<br>mixture<br>talk |  
+| bip_39_word_new_br_6 | fatigue<br>aim<br>harsh<br>mixture<br>talk<br>arrow |  
+| bip_39_word_new_br_7 | fatigue<br>aim<br>harsh<br>mixture<br>talk<br>arrow<br>country |  
+| bip_39_word_new_br_8 | fatigue<br>aim<br>harsh<br>mixture<br>talk<br>arrow<br>country<br>bulb |  
+| bip_39_word_new_br_9 | fatigue<br>aim<br>harsh<br>mixture<br>talk<br>arrow<br>country<br>bulb<br>help |  
+| bip_39_word_new_line_1 | fatigue |  
+| bip_39_word_new_line_10 | fatigue
 aim
 harsh
 mixture
@@ -55,7 +55,7 @@ country
 bulb
 help
 foster |  
-| bip_39_word_new_line11 | fatigue
+| bip_39_word_new_line_11 | fatigue
 aim
 harsh
 mixture
@@ -66,7 +66,7 @@ bulb
 help
 foster
 dinner |  
-| bip_39_word_new_line12 | fatigue
+| bip_39_word_new_line_12 | fatigue
 aim
 harsh
 mixture
@@ -78,34 +78,34 @@ help
 foster
 dinner
 always |  
-| bip_39_word_new_line2 | fatigue
+| bip_39_word_new_line_2 | fatigue
 aim |  
-| bip_39_word_new_line3 | fatigue
+| bip_39_word_new_line_3 | fatigue
 aim
 harsh |  
-| bip_39_word_new_line4 | fatigue
+| bip_39_word_new_line_4 | fatigue
 aim
 harsh
 mixture |  
-| bip_39_word_new_line5 | fatigue
+| bip_39_word_new_line_5 | fatigue
 aim
 harsh
 mixture
 talk |  
-| bip_39_word_new_line6 | fatigue
+| bip_39_word_new_line_6 | fatigue
 aim
 harsh
 mixture
 talk
 arrow |  
-| bip_39_word_new_line7 | fatigue
+| bip_39_word_new_line_7 | fatigue
 aim
 harsh
 mixture
 talk
 arrow
 country |  
-| bip_39_word_new_line8 | fatigue
+| bip_39_word_new_line_8 | fatigue
 aim
 harsh
 mixture
@@ -113,7 +113,7 @@ talk
 arrow
 country
 bulb |  
-| bip_39_word_new_line9 | fatigue
+| bip_39_word_new_line_9 | fatigue
 aim
 harsh
 mixture

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | curve |  
-| bip_39_word_new_br10 | curve<br>glide<br>opera<br>original<br>dial<br>athlete<br>produce<br>much<br>sand<br>come |  
-| bip_39_word_new_br11 | curve<br>glide<br>opera<br>original<br>dial<br>athlete<br>produce<br>much<br>sand<br>come<br>tattoo |  
-| bip_39_word_new_br12 | curve<br>glide<br>opera<br>original<br>dial<br>athlete<br>produce<br>much<br>sand<br>come<br>tattoo<br>absorb |  
-| bip_39_word_new_br2 | curve<br>glide |  
-| bip_39_word_new_br3 | curve<br>glide<br>opera |  
-| bip_39_word_new_br4 | curve<br>glide<br>opera<br>original |  
-| bip_39_word_new_br5 | curve<br>glide<br>opera<br>original<br>dial |  
-| bip_39_word_new_br6 | curve<br>glide<br>opera<br>original<br>dial<br>athlete |  
-| bip_39_word_new_br7 | curve<br>glide<br>opera<br>original<br>dial<br>athlete<br>produce |  
-| bip_39_word_new_br8 | curve<br>glide<br>opera<br>original<br>dial<br>athlete<br>produce<br>much |  
-| bip_39_word_new_br9 | curve<br>glide<br>opera<br>original<br>dial<br>athlete<br>produce<br>much<br>sand |  
-| bip_39_word_new_line1 | curve |  
-| bip_39_word_new_line10 | curve
+| bip_39_word_new_br_1 | curve |  
+| bip_39_word_new_br_10 | curve<br>glide<br>opera<br>original<br>dial<br>athlete<br>produce<br>much<br>sand<br>come |  
+| bip_39_word_new_br_11 | curve<br>glide<br>opera<br>original<br>dial<br>athlete<br>produce<br>much<br>sand<br>come<br>tattoo |  
+| bip_39_word_new_br_12 | curve<br>glide<br>opera<br>original<br>dial<br>athlete<br>produce<br>much<br>sand<br>come<br>tattoo<br>absorb |  
+| bip_39_word_new_br_2 | curve<br>glide |  
+| bip_39_word_new_br_3 | curve<br>glide<br>opera |  
+| bip_39_word_new_br_4 | curve<br>glide<br>opera<br>original |  
+| bip_39_word_new_br_5 | curve<br>glide<br>opera<br>original<br>dial |  
+| bip_39_word_new_br_6 | curve<br>glide<br>opera<br>original<br>dial<br>athlete |  
+| bip_39_word_new_br_7 | curve<br>glide<br>opera<br>original<br>dial<br>athlete<br>produce |  
+| bip_39_word_new_br_8 | curve<br>glide<br>opera<br>original<br>dial<br>athlete<br>produce<br>much |  
+| bip_39_word_new_br_9 | curve<br>glide<br>opera<br>original<br>dial<br>athlete<br>produce<br>much<br>sand |  
+| bip_39_word_new_line_1 | curve |  
+| bip_39_word_new_line_10 | curve
 glide
 opera
 original
@@ -55,7 +55,7 @@ produce
 much
 sand
 come |  
-| bip_39_word_new_line11 | curve
+| bip_39_word_new_line_11 | curve
 glide
 opera
 original
@@ -66,7 +66,7 @@ much
 sand
 come
 tattoo |  
-| bip_39_word_new_line12 | curve
+| bip_39_word_new_line_12 | curve
 glide
 opera
 original
@@ -78,34 +78,34 @@ sand
 come
 tattoo
 absorb |  
-| bip_39_word_new_line2 | curve
+| bip_39_word_new_line_2 | curve
 glide |  
-| bip_39_word_new_line3 | curve
+| bip_39_word_new_line_3 | curve
 glide
 opera |  
-| bip_39_word_new_line4 | curve
+| bip_39_word_new_line_4 | curve
 glide
 opera
 original |  
-| bip_39_word_new_line5 | curve
+| bip_39_word_new_line_5 | curve
 glide
 opera
 original
 dial |  
-| bip_39_word_new_line6 | curve
+| bip_39_word_new_line_6 | curve
 glide
 opera
 original
 dial
 athlete |  
-| bip_39_word_new_line7 | curve
+| bip_39_word_new_line_7 | curve
 glide
 opera
 original
 dial
 athlete
 produce |  
-| bip_39_word_new_line8 | curve
+| bip_39_word_new_line_8 | curve
 glide
 opera
 original
@@ -113,7 +113,7 @@ dial
 athlete
 produce
 much |  
-| bip_39_word_new_line9 | curve
+| bip_39_word_new_line_9 | curve
 glide
 opera
 original

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | among |  
-| bip_39_word_new_br10 | among<br>welcome<br>text<br>wrap<br>menu<br>clown<br>december<br>gasp<br>advice<br>bamboo |  
-| bip_39_word_new_br11 | among<br>welcome<br>text<br>wrap<br>menu<br>clown<br>december<br>gasp<br>advice<br>bamboo<br>stove |  
-| bip_39_word_new_br12 | among<br>welcome<br>text<br>wrap<br>menu<br>clown<br>december<br>gasp<br>advice<br>bamboo<br>stove<br>assist |  
-| bip_39_word_new_br2 | among<br>welcome |  
-| bip_39_word_new_br3 | among<br>welcome<br>text |  
-| bip_39_word_new_br4 | among<br>welcome<br>text<br>wrap |  
-| bip_39_word_new_br5 | among<br>welcome<br>text<br>wrap<br>menu |  
-| bip_39_word_new_br6 | among<br>welcome<br>text<br>wrap<br>menu<br>clown |  
-| bip_39_word_new_br7 | among<br>welcome<br>text<br>wrap<br>menu<br>clown<br>december |  
-| bip_39_word_new_br8 | among<br>welcome<br>text<br>wrap<br>menu<br>clown<br>december<br>gasp |  
-| bip_39_word_new_br9 | among<br>welcome<br>text<br>wrap<br>menu<br>clown<br>december<br>gasp<br>advice |  
-| bip_39_word_new_line1 | among |  
-| bip_39_word_new_line10 | among
+| bip_39_word_new_br_1 | among |  
+| bip_39_word_new_br_10 | among<br>welcome<br>text<br>wrap<br>menu<br>clown<br>december<br>gasp<br>advice<br>bamboo |  
+| bip_39_word_new_br_11 | among<br>welcome<br>text<br>wrap<br>menu<br>clown<br>december<br>gasp<br>advice<br>bamboo<br>stove |  
+| bip_39_word_new_br_12 | among<br>welcome<br>text<br>wrap<br>menu<br>clown<br>december<br>gasp<br>advice<br>bamboo<br>stove<br>assist |  
+| bip_39_word_new_br_2 | among<br>welcome |  
+| bip_39_word_new_br_3 | among<br>welcome<br>text |  
+| bip_39_word_new_br_4 | among<br>welcome<br>text<br>wrap |  
+| bip_39_word_new_br_5 | among<br>welcome<br>text<br>wrap<br>menu |  
+| bip_39_word_new_br_6 | among<br>welcome<br>text<br>wrap<br>menu<br>clown |  
+| bip_39_word_new_br_7 | among<br>welcome<br>text<br>wrap<br>menu<br>clown<br>december |  
+| bip_39_word_new_br_8 | among<br>welcome<br>text<br>wrap<br>menu<br>clown<br>december<br>gasp |  
+| bip_39_word_new_br_9 | among<br>welcome<br>text<br>wrap<br>menu<br>clown<br>december<br>gasp<br>advice |  
+| bip_39_word_new_line_1 | among |  
+| bip_39_word_new_line_10 | among
 welcome
 text
 wrap
@@ -55,7 +55,7 @@ december
 gasp
 advice
 bamboo |  
-| bip_39_word_new_line11 | among
+| bip_39_word_new_line_11 | among
 welcome
 text
 wrap
@@ -66,7 +66,7 @@ gasp
 advice
 bamboo
 stove |  
-| bip_39_word_new_line12 | among
+| bip_39_word_new_line_12 | among
 welcome
 text
 wrap
@@ -78,34 +78,34 @@ advice
 bamboo
 stove
 assist |  
-| bip_39_word_new_line2 | among
+| bip_39_word_new_line_2 | among
 welcome |  
-| bip_39_word_new_line3 | among
+| bip_39_word_new_line_3 | among
 welcome
 text |  
-| bip_39_word_new_line4 | among
+| bip_39_word_new_line_4 | among
 welcome
 text
 wrap |  
-| bip_39_word_new_line5 | among
+| bip_39_word_new_line_5 | among
 welcome
 text
 wrap
 menu |  
-| bip_39_word_new_line6 | among
+| bip_39_word_new_line_6 | among
 welcome
 text
 wrap
 menu
 clown |  
-| bip_39_word_new_line7 | among
+| bip_39_word_new_line_7 | among
 welcome
 text
 wrap
 menu
 clown
 december |  
-| bip_39_word_new_line8 | among
+| bip_39_word_new_line_8 | among
 welcome
 text
 wrap
@@ -113,7 +113,7 @@ menu
 clown
 december
 gasp |  
-| bip_39_word_new_line9 | among
+| bip_39_word_new_line_9 | among
 welcome
 text
 wrap

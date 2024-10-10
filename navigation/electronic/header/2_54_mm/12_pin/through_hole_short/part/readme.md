@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | income |  
-| bip_39_word_new_br10 | income<br>warfare<br>dress<br>giant<br>hurry<br>peanut<br>genius<br>blast<br>outer<br>company |  
-| bip_39_word_new_br11 | income<br>warfare<br>dress<br>giant<br>hurry<br>peanut<br>genius<br>blast<br>outer<br>company<br>sleep |  
-| bip_39_word_new_br12 | income<br>warfare<br>dress<br>giant<br>hurry<br>peanut<br>genius<br>blast<br>outer<br>company<br>sleep<br>amused |  
-| bip_39_word_new_br2 | income<br>warfare |  
-| bip_39_word_new_br3 | income<br>warfare<br>dress |  
-| bip_39_word_new_br4 | income<br>warfare<br>dress<br>giant |  
-| bip_39_word_new_br5 | income<br>warfare<br>dress<br>giant<br>hurry |  
-| bip_39_word_new_br6 | income<br>warfare<br>dress<br>giant<br>hurry<br>peanut |  
-| bip_39_word_new_br7 | income<br>warfare<br>dress<br>giant<br>hurry<br>peanut<br>genius |  
-| bip_39_word_new_br8 | income<br>warfare<br>dress<br>giant<br>hurry<br>peanut<br>genius<br>blast |  
-| bip_39_word_new_br9 | income<br>warfare<br>dress<br>giant<br>hurry<br>peanut<br>genius<br>blast<br>outer |  
-| bip_39_word_new_line1 | income |  
-| bip_39_word_new_line10 | income
+| bip_39_word_new_br_1 | income |  
+| bip_39_word_new_br_10 | income<br>warfare<br>dress<br>giant<br>hurry<br>peanut<br>genius<br>blast<br>outer<br>company |  
+| bip_39_word_new_br_11 | income<br>warfare<br>dress<br>giant<br>hurry<br>peanut<br>genius<br>blast<br>outer<br>company<br>sleep |  
+| bip_39_word_new_br_12 | income<br>warfare<br>dress<br>giant<br>hurry<br>peanut<br>genius<br>blast<br>outer<br>company<br>sleep<br>amused |  
+| bip_39_word_new_br_2 | income<br>warfare |  
+| bip_39_word_new_br_3 | income<br>warfare<br>dress |  
+| bip_39_word_new_br_4 | income<br>warfare<br>dress<br>giant |  
+| bip_39_word_new_br_5 | income<br>warfare<br>dress<br>giant<br>hurry |  
+| bip_39_word_new_br_6 | income<br>warfare<br>dress<br>giant<br>hurry<br>peanut |  
+| bip_39_word_new_br_7 | income<br>warfare<br>dress<br>giant<br>hurry<br>peanut<br>genius |  
+| bip_39_word_new_br_8 | income<br>warfare<br>dress<br>giant<br>hurry<br>peanut<br>genius<br>blast |  
+| bip_39_word_new_br_9 | income<br>warfare<br>dress<br>giant<br>hurry<br>peanut<br>genius<br>blast<br>outer |  
+| bip_39_word_new_line_1 | income |  
+| bip_39_word_new_line_10 | income
 warfare
 dress
 giant
@@ -55,7 +55,7 @@ genius
 blast
 outer
 company |  
-| bip_39_word_new_line11 | income
+| bip_39_word_new_line_11 | income
 warfare
 dress
 giant
@@ -66,7 +66,7 @@ blast
 outer
 company
 sleep |  
-| bip_39_word_new_line12 | income
+| bip_39_word_new_line_12 | income
 warfare
 dress
 giant
@@ -78,34 +78,34 @@ outer
 company
 sleep
 amused |  
-| bip_39_word_new_line2 | income
+| bip_39_word_new_line_2 | income
 warfare |  
-| bip_39_word_new_line3 | income
+| bip_39_word_new_line_3 | income
 warfare
 dress |  
-| bip_39_word_new_line4 | income
+| bip_39_word_new_line_4 | income
 warfare
 dress
 giant |  
-| bip_39_word_new_line5 | income
+| bip_39_word_new_line_5 | income
 warfare
 dress
 giant
 hurry |  
-| bip_39_word_new_line6 | income
+| bip_39_word_new_line_6 | income
 warfare
 dress
 giant
 hurry
 peanut |  
-| bip_39_word_new_line7 | income
+| bip_39_word_new_line_7 | income
 warfare
 dress
 giant
 hurry
 peanut
 genius |  
-| bip_39_word_new_line8 | income
+| bip_39_word_new_line_8 | income
 warfare
 dress
 giant
@@ -113,7 +113,7 @@ hurry
 peanut
 genius
 blast |  
-| bip_39_word_new_line9 | income
+| bip_39_word_new_line_9 | income
 warfare
 dress
 giant

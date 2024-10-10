@@ -1,17 +1,17 @@
-bip_39_word_new_br1: online
-bip_39_word_new_br10: online<br>soup<br>nurse<br>profit<br>swamp<br>venue<br>trophy<br>among<br>elite<br>digital
-bip_39_word_new_br11: online<br>soup<br>nurse<br>profit<br>swamp<br>venue<br>trophy<br>among<br>elite<br>digital<br>dish
-bip_39_word_new_br12: online<br>soup<br>nurse<br>profit<br>swamp<br>venue<br>trophy<br>among<br>elite<br>digital<br>dish<br>age
-bip_39_word_new_br2: online<br>soup
-bip_39_word_new_br3: online<br>soup<br>nurse
-bip_39_word_new_br4: online<br>soup<br>nurse<br>profit
-bip_39_word_new_br5: online<br>soup<br>nurse<br>profit<br>swamp
-bip_39_word_new_br6: online<br>soup<br>nurse<br>profit<br>swamp<br>venue
-bip_39_word_new_br7: online<br>soup<br>nurse<br>profit<br>swamp<br>venue<br>trophy
-bip_39_word_new_br8: online<br>soup<br>nurse<br>profit<br>swamp<br>venue<br>trophy<br>among
-bip_39_word_new_br9: online<br>soup<br>nurse<br>profit<br>swamp<br>venue<br>trophy<br>among<br>elite
-bip_39_word_new_line1: online
-bip_39_word_new_line10: 'online
+bip_39_word_new_br_1: online
+bip_39_word_new_br_10: online<br>soup<br>nurse<br>profit<br>swamp<br>venue<br>trophy<br>among<br>elite<br>digital
+bip_39_word_new_br_11: online<br>soup<br>nurse<br>profit<br>swamp<br>venue<br>trophy<br>among<br>elite<br>digital<br>dish
+bip_39_word_new_br_12: online<br>soup<br>nurse<br>profit<br>swamp<br>venue<br>trophy<br>among<br>elite<br>digital<br>dish<br>age
+bip_39_word_new_br_2: online<br>soup
+bip_39_word_new_br_3: online<br>soup<br>nurse
+bip_39_word_new_br_4: online<br>soup<br>nurse<br>profit
+bip_39_word_new_br_5: online<br>soup<br>nurse<br>profit<br>swamp
+bip_39_word_new_br_6: online<br>soup<br>nurse<br>profit<br>swamp<br>venue
+bip_39_word_new_br_7: online<br>soup<br>nurse<br>profit<br>swamp<br>venue<br>trophy
+bip_39_word_new_br_8: online<br>soup<br>nurse<br>profit<br>swamp<br>venue<br>trophy<br>among
+bip_39_word_new_br_9: online<br>soup<br>nurse<br>profit<br>swamp<br>venue<br>trophy<br>among<br>elite
+bip_39_word_new_line_1: online
+bip_39_word_new_line_10: 'online
 
   soup
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'online
   elite
 
   digital'
-bip_39_word_new_line11: 'online
+bip_39_word_new_line_11: 'online
 
   soup
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'online
   digital
 
   dish'
-bip_39_word_new_line12: 'online
+bip_39_word_new_line_12: 'online
 
   soup
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'online
   dish
 
   age'
-bip_39_word_new_line2: 'online
+bip_39_word_new_line_2: 'online
 
   soup'
-bip_39_word_new_line3: 'online
+bip_39_word_new_line_3: 'online
 
   soup
 
   nurse'
-bip_39_word_new_line4: 'online
+bip_39_word_new_line_4: 'online
 
   soup
 
   nurse
 
   profit'
-bip_39_word_new_line5: 'online
+bip_39_word_new_line_5: 'online
 
   soup
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'online
   profit
 
   swamp'
-bip_39_word_new_line6: 'online
+bip_39_word_new_line_6: 'online
 
   soup
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'online
   swamp
 
   venue'
-bip_39_word_new_line7: 'online
+bip_39_word_new_line_7: 'online
 
   soup
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'online
   venue
 
   trophy'
-bip_39_word_new_line8: 'online
+bip_39_word_new_line_8: 'online
 
   soup
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'online
   trophy
 
   among'
-bip_39_word_new_line9: 'online
+bip_39_word_new_line_9: 'online
 
   soup
 

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | process |  
-| bip_39_word_new_br10 | process<br>cry<br>possible<br>beauty<br>neglect<br>awkward<br>twin<br>march<br>rib<br>blue |  
-| bip_39_word_new_br11 | process<br>cry<br>possible<br>beauty<br>neglect<br>awkward<br>twin<br>march<br>rib<br>blue<br>flight |  
-| bip_39_word_new_br12 | process<br>cry<br>possible<br>beauty<br>neglect<br>awkward<br>twin<br>march<br>rib<br>blue<br>flight<br>another |  
-| bip_39_word_new_br2 | process<br>cry |  
-| bip_39_word_new_br3 | process<br>cry<br>possible |  
-| bip_39_word_new_br4 | process<br>cry<br>possible<br>beauty |  
-| bip_39_word_new_br5 | process<br>cry<br>possible<br>beauty<br>neglect |  
-| bip_39_word_new_br6 | process<br>cry<br>possible<br>beauty<br>neglect<br>awkward |  
-| bip_39_word_new_br7 | process<br>cry<br>possible<br>beauty<br>neglect<br>awkward<br>twin |  
-| bip_39_word_new_br8 | process<br>cry<br>possible<br>beauty<br>neglect<br>awkward<br>twin<br>march |  
-| bip_39_word_new_br9 | process<br>cry<br>possible<br>beauty<br>neglect<br>awkward<br>twin<br>march<br>rib |  
-| bip_39_word_new_line1 | process |  
-| bip_39_word_new_line10 | process
+| bip_39_word_new_br_1 | process |  
+| bip_39_word_new_br_10 | process<br>cry<br>possible<br>beauty<br>neglect<br>awkward<br>twin<br>march<br>rib<br>blue |  
+| bip_39_word_new_br_11 | process<br>cry<br>possible<br>beauty<br>neglect<br>awkward<br>twin<br>march<br>rib<br>blue<br>flight |  
+| bip_39_word_new_br_12 | process<br>cry<br>possible<br>beauty<br>neglect<br>awkward<br>twin<br>march<br>rib<br>blue<br>flight<br>another |  
+| bip_39_word_new_br_2 | process<br>cry |  
+| bip_39_word_new_br_3 | process<br>cry<br>possible |  
+| bip_39_word_new_br_4 | process<br>cry<br>possible<br>beauty |  
+| bip_39_word_new_br_5 | process<br>cry<br>possible<br>beauty<br>neglect |  
+| bip_39_word_new_br_6 | process<br>cry<br>possible<br>beauty<br>neglect<br>awkward |  
+| bip_39_word_new_br_7 | process<br>cry<br>possible<br>beauty<br>neglect<br>awkward<br>twin |  
+| bip_39_word_new_br_8 | process<br>cry<br>possible<br>beauty<br>neglect<br>awkward<br>twin<br>march |  
+| bip_39_word_new_br_9 | process<br>cry<br>possible<br>beauty<br>neglect<br>awkward<br>twin<br>march<br>rib |  
+| bip_39_word_new_line_1 | process |  
+| bip_39_word_new_line_10 | process
 cry
 possible
 beauty
@@ -55,7 +55,7 @@ twin
 march
 rib
 blue |  
-| bip_39_word_new_line11 | process
+| bip_39_word_new_line_11 | process
 cry
 possible
 beauty
@@ -66,7 +66,7 @@ march
 rib
 blue
 flight |  
-| bip_39_word_new_line12 | process
+| bip_39_word_new_line_12 | process
 cry
 possible
 beauty
@@ -78,34 +78,34 @@ rib
 blue
 flight
 another |  
-| bip_39_word_new_line2 | process
+| bip_39_word_new_line_2 | process
 cry |  
-| bip_39_word_new_line3 | process
+| bip_39_word_new_line_3 | process
 cry
 possible |  
-| bip_39_word_new_line4 | process
+| bip_39_word_new_line_4 | process
 cry
 possible
 beauty |  
-| bip_39_word_new_line5 | process
+| bip_39_word_new_line_5 | process
 cry
 possible
 beauty
 neglect |  
-| bip_39_word_new_line6 | process
+| bip_39_word_new_line_6 | process
 cry
 possible
 beauty
 neglect
 awkward |  
-| bip_39_word_new_line7 | process
+| bip_39_word_new_line_7 | process
 cry
 possible
 beauty
 neglect
 awkward
 twin |  
-| bip_39_word_new_line8 | process
+| bip_39_word_new_line_8 | process
 cry
 possible
 beauty
@@ -113,7 +113,7 @@ neglect
 awkward
 twin
 march |  
-| bip_39_word_new_line9 | process
+| bip_39_word_new_line_9 | process
 cry
 possible
 beauty

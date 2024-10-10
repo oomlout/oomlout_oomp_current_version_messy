@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | penalty |  
-| bip_39_word_new_br10 | penalty<br>squeeze<br>witness<br>ensure<br>veteran<br>maid<br>whale<br>business<br>critic<br>index |  
-| bip_39_word_new_br11 | penalty<br>squeeze<br>witness<br>ensure<br>veteran<br>maid<br>whale<br>business<br>critic<br>index<br>power |  
-| bip_39_word_new_br12 | penalty<br>squeeze<br>witness<br>ensure<br>veteran<br>maid<br>whale<br>business<br>critic<br>index<br>power<br>avocado |  
-| bip_39_word_new_br2 | penalty<br>squeeze |  
-| bip_39_word_new_br3 | penalty<br>squeeze<br>witness |  
-| bip_39_word_new_br4 | penalty<br>squeeze<br>witness<br>ensure |  
-| bip_39_word_new_br5 | penalty<br>squeeze<br>witness<br>ensure<br>veteran |  
-| bip_39_word_new_br6 | penalty<br>squeeze<br>witness<br>ensure<br>veteran<br>maid |  
-| bip_39_word_new_br7 | penalty<br>squeeze<br>witness<br>ensure<br>veteran<br>maid<br>whale |  
-| bip_39_word_new_br8 | penalty<br>squeeze<br>witness<br>ensure<br>veteran<br>maid<br>whale<br>business |  
-| bip_39_word_new_br9 | penalty<br>squeeze<br>witness<br>ensure<br>veteran<br>maid<br>whale<br>business<br>critic |  
-| bip_39_word_new_line1 | penalty |  
-| bip_39_word_new_line10 | penalty
+| bip_39_word_new_br_1 | penalty |  
+| bip_39_word_new_br_10 | penalty<br>squeeze<br>witness<br>ensure<br>veteran<br>maid<br>whale<br>business<br>critic<br>index |  
+| bip_39_word_new_br_11 | penalty<br>squeeze<br>witness<br>ensure<br>veteran<br>maid<br>whale<br>business<br>critic<br>index<br>power |  
+| bip_39_word_new_br_12 | penalty<br>squeeze<br>witness<br>ensure<br>veteran<br>maid<br>whale<br>business<br>critic<br>index<br>power<br>avocado |  
+| bip_39_word_new_br_2 | penalty<br>squeeze |  
+| bip_39_word_new_br_3 | penalty<br>squeeze<br>witness |  
+| bip_39_word_new_br_4 | penalty<br>squeeze<br>witness<br>ensure |  
+| bip_39_word_new_br_5 | penalty<br>squeeze<br>witness<br>ensure<br>veteran |  
+| bip_39_word_new_br_6 | penalty<br>squeeze<br>witness<br>ensure<br>veteran<br>maid |  
+| bip_39_word_new_br_7 | penalty<br>squeeze<br>witness<br>ensure<br>veteran<br>maid<br>whale |  
+| bip_39_word_new_br_8 | penalty<br>squeeze<br>witness<br>ensure<br>veteran<br>maid<br>whale<br>business |  
+| bip_39_word_new_br_9 | penalty<br>squeeze<br>witness<br>ensure<br>veteran<br>maid<br>whale<br>business<br>critic |  
+| bip_39_word_new_line_1 | penalty |  
+| bip_39_word_new_line_10 | penalty
 squeeze
 witness
 ensure
@@ -55,7 +55,7 @@ whale
 business
 critic
 index |  
-| bip_39_word_new_line11 | penalty
+| bip_39_word_new_line_11 | penalty
 squeeze
 witness
 ensure
@@ -66,7 +66,7 @@ business
 critic
 index
 power |  
-| bip_39_word_new_line12 | penalty
+| bip_39_word_new_line_12 | penalty
 squeeze
 witness
 ensure
@@ -78,34 +78,34 @@ critic
 index
 power
 avocado |  
-| bip_39_word_new_line2 | penalty
+| bip_39_word_new_line_2 | penalty
 squeeze |  
-| bip_39_word_new_line3 | penalty
+| bip_39_word_new_line_3 | penalty
 squeeze
 witness |  
-| bip_39_word_new_line4 | penalty
+| bip_39_word_new_line_4 | penalty
 squeeze
 witness
 ensure |  
-| bip_39_word_new_line5 | penalty
+| bip_39_word_new_line_5 | penalty
 squeeze
 witness
 ensure
 veteran |  
-| bip_39_word_new_line6 | penalty
+| bip_39_word_new_line_6 | penalty
 squeeze
 witness
 ensure
 veteran
 maid |  
-| bip_39_word_new_line7 | penalty
+| bip_39_word_new_line_7 | penalty
 squeeze
 witness
 ensure
 veteran
 maid
 whale |  
-| bip_39_word_new_line8 | penalty
+| bip_39_word_new_line_8 | penalty
 squeeze
 witness
 ensure
@@ -113,7 +113,7 @@ veteran
 maid
 whale
 business |  
-| bip_39_word_new_line9 | penalty
+| bip_39_word_new_line_9 | penalty
 squeeze
 witness
 ensure

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | whisper |  
-| bip_39_word_new_br10 | whisper<br>glue<br>join<br>sibling<br>marble<br>inflict<br>acquire<br>main<br>strong<br>cruise |  
-| bip_39_word_new_br11 | whisper<br>glue<br>join<br>sibling<br>marble<br>inflict<br>acquire<br>main<br>strong<br>cruise<br>task |  
-| bip_39_word_new_br12 | whisper<br>glue<br>join<br>sibling<br>marble<br>inflict<br>acquire<br>main<br>strong<br>cruise<br>task<br>atom |  
-| bip_39_word_new_br2 | whisper<br>glue |  
-| bip_39_word_new_br3 | whisper<br>glue<br>join |  
-| bip_39_word_new_br4 | whisper<br>glue<br>join<br>sibling |  
-| bip_39_word_new_br5 | whisper<br>glue<br>join<br>sibling<br>marble |  
-| bip_39_word_new_br6 | whisper<br>glue<br>join<br>sibling<br>marble<br>inflict |  
-| bip_39_word_new_br7 | whisper<br>glue<br>join<br>sibling<br>marble<br>inflict<br>acquire |  
-| bip_39_word_new_br8 | whisper<br>glue<br>join<br>sibling<br>marble<br>inflict<br>acquire<br>main |  
-| bip_39_word_new_br9 | whisper<br>glue<br>join<br>sibling<br>marble<br>inflict<br>acquire<br>main<br>strong |  
-| bip_39_word_new_line1 | whisper |  
-| bip_39_word_new_line10 | whisper
+| bip_39_word_new_br_1 | whisper |  
+| bip_39_word_new_br_10 | whisper<br>glue<br>join<br>sibling<br>marble<br>inflict<br>acquire<br>main<br>strong<br>cruise |  
+| bip_39_word_new_br_11 | whisper<br>glue<br>join<br>sibling<br>marble<br>inflict<br>acquire<br>main<br>strong<br>cruise<br>task |  
+| bip_39_word_new_br_12 | whisper<br>glue<br>join<br>sibling<br>marble<br>inflict<br>acquire<br>main<br>strong<br>cruise<br>task<br>atom |  
+| bip_39_word_new_br_2 | whisper<br>glue |  
+| bip_39_word_new_br_3 | whisper<br>glue<br>join |  
+| bip_39_word_new_br_4 | whisper<br>glue<br>join<br>sibling |  
+| bip_39_word_new_br_5 | whisper<br>glue<br>join<br>sibling<br>marble |  
+| bip_39_word_new_br_6 | whisper<br>glue<br>join<br>sibling<br>marble<br>inflict |  
+| bip_39_word_new_br_7 | whisper<br>glue<br>join<br>sibling<br>marble<br>inflict<br>acquire |  
+| bip_39_word_new_br_8 | whisper<br>glue<br>join<br>sibling<br>marble<br>inflict<br>acquire<br>main |  
+| bip_39_word_new_br_9 | whisper<br>glue<br>join<br>sibling<br>marble<br>inflict<br>acquire<br>main<br>strong |  
+| bip_39_word_new_line_1 | whisper |  
+| bip_39_word_new_line_10 | whisper
 glue
 join
 sibling
@@ -55,7 +55,7 @@ acquire
 main
 strong
 cruise |  
-| bip_39_word_new_line11 | whisper
+| bip_39_word_new_line_11 | whisper
 glue
 join
 sibling
@@ -66,7 +66,7 @@ main
 strong
 cruise
 task |  
-| bip_39_word_new_line12 | whisper
+| bip_39_word_new_line_12 | whisper
 glue
 join
 sibling
@@ -78,34 +78,34 @@ strong
 cruise
 task
 atom |  
-| bip_39_word_new_line2 | whisper
+| bip_39_word_new_line_2 | whisper
 glue |  
-| bip_39_word_new_line3 | whisper
+| bip_39_word_new_line_3 | whisper
 glue
 join |  
-| bip_39_word_new_line4 | whisper
+| bip_39_word_new_line_4 | whisper
 glue
 join
 sibling |  
-| bip_39_word_new_line5 | whisper
+| bip_39_word_new_line_5 | whisper
 glue
 join
 sibling
 marble |  
-| bip_39_word_new_line6 | whisper
+| bip_39_word_new_line_6 | whisper
 glue
 join
 sibling
 marble
 inflict |  
-| bip_39_word_new_line7 | whisper
+| bip_39_word_new_line_7 | whisper
 glue
 join
 sibling
 marble
 inflict
 acquire |  
-| bip_39_word_new_line8 | whisper
+| bip_39_word_new_line_8 | whisper
 glue
 join
 sibling
@@ -113,7 +113,7 @@ marble
 inflict
 acquire
 main |  
-| bip_39_word_new_line9 | whisper
+| bip_39_word_new_line_9 | whisper
 glue
 join
 sibling

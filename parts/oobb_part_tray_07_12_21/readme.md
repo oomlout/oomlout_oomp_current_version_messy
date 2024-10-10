@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | talk |  
-| bip_39_word_new_br10 | talk<br>post<br>argue<br>outer<br>when<br>genre<br>finger<br>catch<br>pyramid<br>razor |  
-| bip_39_word_new_br11 | talk<br>post<br>argue<br>outer<br>when<br>genre<br>finger<br>catch<br>pyramid<br>razor<br>agree |  
-| bip_39_word_new_br12 | talk<br>post<br>argue<br>outer<br>when<br>genre<br>finger<br>catch<br>pyramid<br>razor<br>agree<br>apple |  
-| bip_39_word_new_br2 | talk<br>post |  
-| bip_39_word_new_br3 | talk<br>post<br>argue |  
-| bip_39_word_new_br4 | talk<br>post<br>argue<br>outer |  
-| bip_39_word_new_br5 | talk<br>post<br>argue<br>outer<br>when |  
-| bip_39_word_new_br6 | talk<br>post<br>argue<br>outer<br>when<br>genre |  
-| bip_39_word_new_br7 | talk<br>post<br>argue<br>outer<br>when<br>genre<br>finger |  
-| bip_39_word_new_br8 | talk<br>post<br>argue<br>outer<br>when<br>genre<br>finger<br>catch |  
-| bip_39_word_new_br9 | talk<br>post<br>argue<br>outer<br>when<br>genre<br>finger<br>catch<br>pyramid |  
-| bip_39_word_new_line1 | talk |  
-| bip_39_word_new_line10 | talk
+| bip_39_word_new_br_1 | talk |  
+| bip_39_word_new_br_10 | talk<br>post<br>argue<br>outer<br>when<br>genre<br>finger<br>catch<br>pyramid<br>razor |  
+| bip_39_word_new_br_11 | talk<br>post<br>argue<br>outer<br>when<br>genre<br>finger<br>catch<br>pyramid<br>razor<br>agree |  
+| bip_39_word_new_br_12 | talk<br>post<br>argue<br>outer<br>when<br>genre<br>finger<br>catch<br>pyramid<br>razor<br>agree<br>apple |  
+| bip_39_word_new_br_2 | talk<br>post |  
+| bip_39_word_new_br_3 | talk<br>post<br>argue |  
+| bip_39_word_new_br_4 | talk<br>post<br>argue<br>outer |  
+| bip_39_word_new_br_5 | talk<br>post<br>argue<br>outer<br>when |  
+| bip_39_word_new_br_6 | talk<br>post<br>argue<br>outer<br>when<br>genre |  
+| bip_39_word_new_br_7 | talk<br>post<br>argue<br>outer<br>when<br>genre<br>finger |  
+| bip_39_word_new_br_8 | talk<br>post<br>argue<br>outer<br>when<br>genre<br>finger<br>catch |  
+| bip_39_word_new_br_9 | talk<br>post<br>argue<br>outer<br>when<br>genre<br>finger<br>catch<br>pyramid |  
+| bip_39_word_new_line_1 | talk |  
+| bip_39_word_new_line_10 | talk
 post
 argue
 outer
@@ -55,7 +55,7 @@ finger
 catch
 pyramid
 razor |  
-| bip_39_word_new_line11 | talk
+| bip_39_word_new_line_11 | talk
 post
 argue
 outer
@@ -66,7 +66,7 @@ catch
 pyramid
 razor
 agree |  
-| bip_39_word_new_line12 | talk
+| bip_39_word_new_line_12 | talk
 post
 argue
 outer
@@ -78,34 +78,34 @@ pyramid
 razor
 agree
 apple |  
-| bip_39_word_new_line2 | talk
+| bip_39_word_new_line_2 | talk
 post |  
-| bip_39_word_new_line3 | talk
+| bip_39_word_new_line_3 | talk
 post
 argue |  
-| bip_39_word_new_line4 | talk
+| bip_39_word_new_line_4 | talk
 post
 argue
 outer |  
-| bip_39_word_new_line5 | talk
+| bip_39_word_new_line_5 | talk
 post
 argue
 outer
 when |  
-| bip_39_word_new_line6 | talk
+| bip_39_word_new_line_6 | talk
 post
 argue
 outer
 when
 genre |  
-| bip_39_word_new_line7 | talk
+| bip_39_word_new_line_7 | talk
 post
 argue
 outer
 when
 genre
 finger |  
-| bip_39_word_new_line8 | talk
+| bip_39_word_new_line_8 | talk
 post
 argue
 outer
@@ -113,7 +113,7 @@ when
 genre
 finger
 catch |  
-| bip_39_word_new_line9 | talk
+| bip_39_word_new_line_9 | talk
 post
 argue
 outer

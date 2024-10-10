@@ -1,17 +1,17 @@
-bip_39_word_new_br1: cheese
-bip_39_word_new_br10: cheese<br>shy<br>fury<br>find<br>swift<br>dream<br>game<br>fury<br>elder<br>genre
-bip_39_word_new_br11: cheese<br>shy<br>fury<br>find<br>swift<br>dream<br>game<br>fury<br>elder<br>genre<br>smoke
-bip_39_word_new_br12: cheese<br>shy<br>fury<br>find<br>swift<br>dream<br>game<br>fury<br>elder<br>genre<br>smoke<br>aspect
-bip_39_word_new_br2: cheese<br>shy
-bip_39_word_new_br3: cheese<br>shy<br>fury
-bip_39_word_new_br4: cheese<br>shy<br>fury<br>find
-bip_39_word_new_br5: cheese<br>shy<br>fury<br>find<br>swift
-bip_39_word_new_br6: cheese<br>shy<br>fury<br>find<br>swift<br>dream
-bip_39_word_new_br7: cheese<br>shy<br>fury<br>find<br>swift<br>dream<br>game
-bip_39_word_new_br8: cheese<br>shy<br>fury<br>find<br>swift<br>dream<br>game<br>fury
-bip_39_word_new_br9: cheese<br>shy<br>fury<br>find<br>swift<br>dream<br>game<br>fury<br>elder
-bip_39_word_new_line1: cheese
-bip_39_word_new_line10: 'cheese
+bip_39_word_new_br_1: cheese
+bip_39_word_new_br_10: cheese<br>shy<br>fury<br>find<br>swift<br>dream<br>game<br>fury<br>elder<br>genre
+bip_39_word_new_br_11: cheese<br>shy<br>fury<br>find<br>swift<br>dream<br>game<br>fury<br>elder<br>genre<br>smoke
+bip_39_word_new_br_12: cheese<br>shy<br>fury<br>find<br>swift<br>dream<br>game<br>fury<br>elder<br>genre<br>smoke<br>aspect
+bip_39_word_new_br_2: cheese<br>shy
+bip_39_word_new_br_3: cheese<br>shy<br>fury
+bip_39_word_new_br_4: cheese<br>shy<br>fury<br>find
+bip_39_word_new_br_5: cheese<br>shy<br>fury<br>find<br>swift
+bip_39_word_new_br_6: cheese<br>shy<br>fury<br>find<br>swift<br>dream
+bip_39_word_new_br_7: cheese<br>shy<br>fury<br>find<br>swift<br>dream<br>game
+bip_39_word_new_br_8: cheese<br>shy<br>fury<br>find<br>swift<br>dream<br>game<br>fury
+bip_39_word_new_br_9: cheese<br>shy<br>fury<br>find<br>swift<br>dream<br>game<br>fury<br>elder
+bip_39_word_new_line_1: cheese
+bip_39_word_new_line_10: 'cheese
 
   shy
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'cheese
   elder
 
   genre'
-bip_39_word_new_line11: 'cheese
+bip_39_word_new_line_11: 'cheese
 
   shy
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'cheese
   genre
 
   smoke'
-bip_39_word_new_line12: 'cheese
+bip_39_word_new_line_12: 'cheese
 
   shy
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'cheese
   smoke
 
   aspect'
-bip_39_word_new_line2: 'cheese
+bip_39_word_new_line_2: 'cheese
 
   shy'
-bip_39_word_new_line3: 'cheese
+bip_39_word_new_line_3: 'cheese
 
   shy
 
   fury'
-bip_39_word_new_line4: 'cheese
+bip_39_word_new_line_4: 'cheese
 
   shy
 
   fury
 
   find'
-bip_39_word_new_line5: 'cheese
+bip_39_word_new_line_5: 'cheese
 
   shy
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'cheese
   find
 
   swift'
-bip_39_word_new_line6: 'cheese
+bip_39_word_new_line_6: 'cheese
 
   shy
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'cheese
   swift
 
   dream'
-bip_39_word_new_line7: 'cheese
+bip_39_word_new_line_7: 'cheese
 
   shy
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'cheese
   dream
 
   game'
-bip_39_word_new_line8: 'cheese
+bip_39_word_new_line_8: 'cheese
 
   shy
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'cheese
   game
 
   fury'
-bip_39_word_new_line9: 'cheese
+bip_39_word_new_line_9: 'cheese
 
   shy
 

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | auto |  
-| bip_39_word_new_br10 | auto<br>prosper<br>visual<br>rely<br>kingdom<br>scene<br>chat<br>spare<br>confirm<br>they |  
-| bip_39_word_new_br11 | auto<br>prosper<br>visual<br>rely<br>kingdom<br>scene<br>chat<br>spare<br>confirm<br>they<br>shock |  
-| bip_39_word_new_br12 | auto<br>prosper<br>visual<br>rely<br>kingdom<br>scene<br>chat<br>spare<br>confirm<br>they<br>shock<br>antique |  
-| bip_39_word_new_br2 | auto<br>prosper |  
-| bip_39_word_new_br3 | auto<br>prosper<br>visual |  
-| bip_39_word_new_br4 | auto<br>prosper<br>visual<br>rely |  
-| bip_39_word_new_br5 | auto<br>prosper<br>visual<br>rely<br>kingdom |  
-| bip_39_word_new_br6 | auto<br>prosper<br>visual<br>rely<br>kingdom<br>scene |  
-| bip_39_word_new_br7 | auto<br>prosper<br>visual<br>rely<br>kingdom<br>scene<br>chat |  
-| bip_39_word_new_br8 | auto<br>prosper<br>visual<br>rely<br>kingdom<br>scene<br>chat<br>spare |  
-| bip_39_word_new_br9 | auto<br>prosper<br>visual<br>rely<br>kingdom<br>scene<br>chat<br>spare<br>confirm |  
-| bip_39_word_new_line1 | auto |  
-| bip_39_word_new_line10 | auto
+| bip_39_word_new_br_1 | auto |  
+| bip_39_word_new_br_10 | auto<br>prosper<br>visual<br>rely<br>kingdom<br>scene<br>chat<br>spare<br>confirm<br>they |  
+| bip_39_word_new_br_11 | auto<br>prosper<br>visual<br>rely<br>kingdom<br>scene<br>chat<br>spare<br>confirm<br>they<br>shock |  
+| bip_39_word_new_br_12 | auto<br>prosper<br>visual<br>rely<br>kingdom<br>scene<br>chat<br>spare<br>confirm<br>they<br>shock<br>antique |  
+| bip_39_word_new_br_2 | auto<br>prosper |  
+| bip_39_word_new_br_3 | auto<br>prosper<br>visual |  
+| bip_39_word_new_br_4 | auto<br>prosper<br>visual<br>rely |  
+| bip_39_word_new_br_5 | auto<br>prosper<br>visual<br>rely<br>kingdom |  
+| bip_39_word_new_br_6 | auto<br>prosper<br>visual<br>rely<br>kingdom<br>scene |  
+| bip_39_word_new_br_7 | auto<br>prosper<br>visual<br>rely<br>kingdom<br>scene<br>chat |  
+| bip_39_word_new_br_8 | auto<br>prosper<br>visual<br>rely<br>kingdom<br>scene<br>chat<br>spare |  
+| bip_39_word_new_br_9 | auto<br>prosper<br>visual<br>rely<br>kingdom<br>scene<br>chat<br>spare<br>confirm |  
+| bip_39_word_new_line_1 | auto |  
+| bip_39_word_new_line_10 | auto
 prosper
 visual
 rely
@@ -55,7 +55,7 @@ chat
 spare
 confirm
 they |  
-| bip_39_word_new_line11 | auto
+| bip_39_word_new_line_11 | auto
 prosper
 visual
 rely
@@ -66,7 +66,7 @@ spare
 confirm
 they
 shock |  
-| bip_39_word_new_line12 | auto
+| bip_39_word_new_line_12 | auto
 prosper
 visual
 rely
@@ -78,34 +78,34 @@ confirm
 they
 shock
 antique |  
-| bip_39_word_new_line2 | auto
+| bip_39_word_new_line_2 | auto
 prosper |  
-| bip_39_word_new_line3 | auto
+| bip_39_word_new_line_3 | auto
 prosper
 visual |  
-| bip_39_word_new_line4 | auto
+| bip_39_word_new_line_4 | auto
 prosper
 visual
 rely |  
-| bip_39_word_new_line5 | auto
+| bip_39_word_new_line_5 | auto
 prosper
 visual
 rely
 kingdom |  
-| bip_39_word_new_line6 | auto
+| bip_39_word_new_line_6 | auto
 prosper
 visual
 rely
 kingdom
 scene |  
-| bip_39_word_new_line7 | auto
+| bip_39_word_new_line_7 | auto
 prosper
 visual
 rely
 kingdom
 scene
 chat |  
-| bip_39_word_new_line8 | auto
+| bip_39_word_new_line_8 | auto
 prosper
 visual
 rely
@@ -113,7 +113,7 @@ kingdom
 scene
 chat
 spare |  
-| bip_39_word_new_line9 | auto
+| bip_39_word_new_line_9 | auto
 prosper
 visual
 rely

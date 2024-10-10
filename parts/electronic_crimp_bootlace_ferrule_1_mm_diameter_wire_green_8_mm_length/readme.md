@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | effort |  
-| bip_39_word_new_br10 | effort<br>utility<br>topple<br>desk<br>type<br>cradle<br>refuse<br>myself<br>furnace<br>shield |  
-| bip_39_word_new_br11 | effort<br>utility<br>topple<br>desk<br>type<br>cradle<br>refuse<br>myself<br>furnace<br>shield<br>tag |  
-| bip_39_word_new_br12 | effort<br>utility<br>topple<br>desk<br>type<br>cradle<br>refuse<br>myself<br>furnace<br>shield<br>tag<br>apple |  
-| bip_39_word_new_br2 | effort<br>utility |  
-| bip_39_word_new_br3 | effort<br>utility<br>topple |  
-| bip_39_word_new_br4 | effort<br>utility<br>topple<br>desk |  
-| bip_39_word_new_br5 | effort<br>utility<br>topple<br>desk<br>type |  
-| bip_39_word_new_br6 | effort<br>utility<br>topple<br>desk<br>type<br>cradle |  
-| bip_39_word_new_br7 | effort<br>utility<br>topple<br>desk<br>type<br>cradle<br>refuse |  
-| bip_39_word_new_br8 | effort<br>utility<br>topple<br>desk<br>type<br>cradle<br>refuse<br>myself |  
-| bip_39_word_new_br9 | effort<br>utility<br>topple<br>desk<br>type<br>cradle<br>refuse<br>myself<br>furnace |  
-| bip_39_word_new_line1 | effort |  
-| bip_39_word_new_line10 | effort
+| bip_39_word_new_br_1 | effort |  
+| bip_39_word_new_br_10 | effort<br>utility<br>topple<br>desk<br>type<br>cradle<br>refuse<br>myself<br>furnace<br>shield |  
+| bip_39_word_new_br_11 | effort<br>utility<br>topple<br>desk<br>type<br>cradle<br>refuse<br>myself<br>furnace<br>shield<br>tag |  
+| bip_39_word_new_br_12 | effort<br>utility<br>topple<br>desk<br>type<br>cradle<br>refuse<br>myself<br>furnace<br>shield<br>tag<br>apple |  
+| bip_39_word_new_br_2 | effort<br>utility |  
+| bip_39_word_new_br_3 | effort<br>utility<br>topple |  
+| bip_39_word_new_br_4 | effort<br>utility<br>topple<br>desk |  
+| bip_39_word_new_br_5 | effort<br>utility<br>topple<br>desk<br>type |  
+| bip_39_word_new_br_6 | effort<br>utility<br>topple<br>desk<br>type<br>cradle |  
+| bip_39_word_new_br_7 | effort<br>utility<br>topple<br>desk<br>type<br>cradle<br>refuse |  
+| bip_39_word_new_br_8 | effort<br>utility<br>topple<br>desk<br>type<br>cradle<br>refuse<br>myself |  
+| bip_39_word_new_br_9 | effort<br>utility<br>topple<br>desk<br>type<br>cradle<br>refuse<br>myself<br>furnace |  
+| bip_39_word_new_line_1 | effort |  
+| bip_39_word_new_line_10 | effort
 utility
 topple
 desk
@@ -55,7 +55,7 @@ refuse
 myself
 furnace
 shield |  
-| bip_39_word_new_line11 | effort
+| bip_39_word_new_line_11 | effort
 utility
 topple
 desk
@@ -66,7 +66,7 @@ myself
 furnace
 shield
 tag |  
-| bip_39_word_new_line12 | effort
+| bip_39_word_new_line_12 | effort
 utility
 topple
 desk
@@ -78,34 +78,34 @@ furnace
 shield
 tag
 apple |  
-| bip_39_word_new_line2 | effort
+| bip_39_word_new_line_2 | effort
 utility |  
-| bip_39_word_new_line3 | effort
+| bip_39_word_new_line_3 | effort
 utility
 topple |  
-| bip_39_word_new_line4 | effort
+| bip_39_word_new_line_4 | effort
 utility
 topple
 desk |  
-| bip_39_word_new_line5 | effort
+| bip_39_word_new_line_5 | effort
 utility
 topple
 desk
 type |  
-| bip_39_word_new_line6 | effort
+| bip_39_word_new_line_6 | effort
 utility
 topple
 desk
 type
 cradle |  
-| bip_39_word_new_line7 | effort
+| bip_39_word_new_line_7 | effort
 utility
 topple
 desk
 type
 cradle
 refuse |  
-| bip_39_word_new_line8 | effort
+| bip_39_word_new_line_8 | effort
 utility
 topple
 desk
@@ -113,7 +113,7 @@ type
 cradle
 refuse
 myself |  
-| bip_39_word_new_line9 | effort
+| bip_39_word_new_line_9 | effort
 utility
 topple
 desk

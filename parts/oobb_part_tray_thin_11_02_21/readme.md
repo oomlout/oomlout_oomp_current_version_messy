@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | shell |  
-| bip_39_word_new_br10 | shell<br>erode<br>faint<br>share<br>orbit<br>steel<br>addict<br>ginger<br>tornado<br>relief |  
-| bip_39_word_new_br11 | shell<br>erode<br>faint<br>share<br>orbit<br>steel<br>addict<br>ginger<br>tornado<br>relief<br>liberty |  
-| bip_39_word_new_br12 | shell<br>erode<br>faint<br>share<br>orbit<br>steel<br>addict<br>ginger<br>tornado<br>relief<br>liberty<br>arena |  
-| bip_39_word_new_br2 | shell<br>erode |  
-| bip_39_word_new_br3 | shell<br>erode<br>faint |  
-| bip_39_word_new_br4 | shell<br>erode<br>faint<br>share |  
-| bip_39_word_new_br5 | shell<br>erode<br>faint<br>share<br>orbit |  
-| bip_39_word_new_br6 | shell<br>erode<br>faint<br>share<br>orbit<br>steel |  
-| bip_39_word_new_br7 | shell<br>erode<br>faint<br>share<br>orbit<br>steel<br>addict |  
-| bip_39_word_new_br8 | shell<br>erode<br>faint<br>share<br>orbit<br>steel<br>addict<br>ginger |  
-| bip_39_word_new_br9 | shell<br>erode<br>faint<br>share<br>orbit<br>steel<br>addict<br>ginger<br>tornado |  
-| bip_39_word_new_line1 | shell |  
-| bip_39_word_new_line10 | shell
+| bip_39_word_new_br_1 | shell |  
+| bip_39_word_new_br_10 | shell<br>erode<br>faint<br>share<br>orbit<br>steel<br>addict<br>ginger<br>tornado<br>relief |  
+| bip_39_word_new_br_11 | shell<br>erode<br>faint<br>share<br>orbit<br>steel<br>addict<br>ginger<br>tornado<br>relief<br>liberty |  
+| bip_39_word_new_br_12 | shell<br>erode<br>faint<br>share<br>orbit<br>steel<br>addict<br>ginger<br>tornado<br>relief<br>liberty<br>arena |  
+| bip_39_word_new_br_2 | shell<br>erode |  
+| bip_39_word_new_br_3 | shell<br>erode<br>faint |  
+| bip_39_word_new_br_4 | shell<br>erode<br>faint<br>share |  
+| bip_39_word_new_br_5 | shell<br>erode<br>faint<br>share<br>orbit |  
+| bip_39_word_new_br_6 | shell<br>erode<br>faint<br>share<br>orbit<br>steel |  
+| bip_39_word_new_br_7 | shell<br>erode<br>faint<br>share<br>orbit<br>steel<br>addict |  
+| bip_39_word_new_br_8 | shell<br>erode<br>faint<br>share<br>orbit<br>steel<br>addict<br>ginger |  
+| bip_39_word_new_br_9 | shell<br>erode<br>faint<br>share<br>orbit<br>steel<br>addict<br>ginger<br>tornado |  
+| bip_39_word_new_line_1 | shell |  
+| bip_39_word_new_line_10 | shell
 erode
 faint
 share
@@ -55,7 +55,7 @@ addict
 ginger
 tornado
 relief |  
-| bip_39_word_new_line11 | shell
+| bip_39_word_new_line_11 | shell
 erode
 faint
 share
@@ -66,7 +66,7 @@ ginger
 tornado
 relief
 liberty |  
-| bip_39_word_new_line12 | shell
+| bip_39_word_new_line_12 | shell
 erode
 faint
 share
@@ -78,34 +78,34 @@ tornado
 relief
 liberty
 arena |  
-| bip_39_word_new_line2 | shell
+| bip_39_word_new_line_2 | shell
 erode |  
-| bip_39_word_new_line3 | shell
+| bip_39_word_new_line_3 | shell
 erode
 faint |  
-| bip_39_word_new_line4 | shell
+| bip_39_word_new_line_4 | shell
 erode
 faint
 share |  
-| bip_39_word_new_line5 | shell
+| bip_39_word_new_line_5 | shell
 erode
 faint
 share
 orbit |  
-| bip_39_word_new_line6 | shell
+| bip_39_word_new_line_6 | shell
 erode
 faint
 share
 orbit
 steel |  
-| bip_39_word_new_line7 | shell
+| bip_39_word_new_line_7 | shell
 erode
 faint
 share
 orbit
 steel
 addict |  
-| bip_39_word_new_line8 | shell
+| bip_39_word_new_line_8 | shell
 erode
 faint
 share
@@ -113,7 +113,7 @@ orbit
 steel
 addict
 ginger |  
-| bip_39_word_new_line9 | shell
+| bip_39_word_new_line_9 | shell
 erode
 faint
 share

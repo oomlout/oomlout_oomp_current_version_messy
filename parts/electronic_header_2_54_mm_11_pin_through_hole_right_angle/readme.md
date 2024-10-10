@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | stereo |  
-| bip_39_word_new_br10 | stereo<br>grab<br>humor<br>noise<br>title<br>vicious<br>brush<br>benefit<br>amateur<br>walnut |  
-| bip_39_word_new_br11 | stereo<br>grab<br>humor<br>noise<br>title<br>vicious<br>brush<br>benefit<br>amateur<br>walnut<br>tired |  
-| bip_39_word_new_br12 | stereo<br>grab<br>humor<br>noise<br>title<br>vicious<br>brush<br>benefit<br>amateur<br>walnut<br>tired<br>assist |  
-| bip_39_word_new_br2 | stereo<br>grab |  
-| bip_39_word_new_br3 | stereo<br>grab<br>humor |  
-| bip_39_word_new_br4 | stereo<br>grab<br>humor<br>noise |  
-| bip_39_word_new_br5 | stereo<br>grab<br>humor<br>noise<br>title |  
-| bip_39_word_new_br6 | stereo<br>grab<br>humor<br>noise<br>title<br>vicious |  
-| bip_39_word_new_br7 | stereo<br>grab<br>humor<br>noise<br>title<br>vicious<br>brush |  
-| bip_39_word_new_br8 | stereo<br>grab<br>humor<br>noise<br>title<br>vicious<br>brush<br>benefit |  
-| bip_39_word_new_br9 | stereo<br>grab<br>humor<br>noise<br>title<br>vicious<br>brush<br>benefit<br>amateur |  
-| bip_39_word_new_line1 | stereo |  
-| bip_39_word_new_line10 | stereo
+| bip_39_word_new_br_1 | stereo |  
+| bip_39_word_new_br_10 | stereo<br>grab<br>humor<br>noise<br>title<br>vicious<br>brush<br>benefit<br>amateur<br>walnut |  
+| bip_39_word_new_br_11 | stereo<br>grab<br>humor<br>noise<br>title<br>vicious<br>brush<br>benefit<br>amateur<br>walnut<br>tired |  
+| bip_39_word_new_br_12 | stereo<br>grab<br>humor<br>noise<br>title<br>vicious<br>brush<br>benefit<br>amateur<br>walnut<br>tired<br>assist |  
+| bip_39_word_new_br_2 | stereo<br>grab |  
+| bip_39_word_new_br_3 | stereo<br>grab<br>humor |  
+| bip_39_word_new_br_4 | stereo<br>grab<br>humor<br>noise |  
+| bip_39_word_new_br_5 | stereo<br>grab<br>humor<br>noise<br>title |  
+| bip_39_word_new_br_6 | stereo<br>grab<br>humor<br>noise<br>title<br>vicious |  
+| bip_39_word_new_br_7 | stereo<br>grab<br>humor<br>noise<br>title<br>vicious<br>brush |  
+| bip_39_word_new_br_8 | stereo<br>grab<br>humor<br>noise<br>title<br>vicious<br>brush<br>benefit |  
+| bip_39_word_new_br_9 | stereo<br>grab<br>humor<br>noise<br>title<br>vicious<br>brush<br>benefit<br>amateur |  
+| bip_39_word_new_line_1 | stereo |  
+| bip_39_word_new_line_10 | stereo
 grab
 humor
 noise
@@ -55,7 +55,7 @@ brush
 benefit
 amateur
 walnut |  
-| bip_39_word_new_line11 | stereo
+| bip_39_word_new_line_11 | stereo
 grab
 humor
 noise
@@ -66,7 +66,7 @@ benefit
 amateur
 walnut
 tired |  
-| bip_39_word_new_line12 | stereo
+| bip_39_word_new_line_12 | stereo
 grab
 humor
 noise
@@ -78,34 +78,34 @@ amateur
 walnut
 tired
 assist |  
-| bip_39_word_new_line2 | stereo
+| bip_39_word_new_line_2 | stereo
 grab |  
-| bip_39_word_new_line3 | stereo
+| bip_39_word_new_line_3 | stereo
 grab
 humor |  
-| bip_39_word_new_line4 | stereo
+| bip_39_word_new_line_4 | stereo
 grab
 humor
 noise |  
-| bip_39_word_new_line5 | stereo
+| bip_39_word_new_line_5 | stereo
 grab
 humor
 noise
 title |  
-| bip_39_word_new_line6 | stereo
+| bip_39_word_new_line_6 | stereo
 grab
 humor
 noise
 title
 vicious |  
-| bip_39_word_new_line7 | stereo
+| bip_39_word_new_line_7 | stereo
 grab
 humor
 noise
 title
 vicious
 brush |  
-| bip_39_word_new_line8 | stereo
+| bip_39_word_new_line_8 | stereo
 grab
 humor
 noise
@@ -113,7 +113,7 @@ title
 vicious
 brush
 benefit |  
-| bip_39_word_new_line9 | stereo
+| bip_39_word_new_line_9 | stereo
 grab
 humor
 noise

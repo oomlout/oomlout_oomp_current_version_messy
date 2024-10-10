@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | zebra |  
-| bip_39_word_new_br10 | zebra<br>galaxy<br>music<br>skate<br>valve<br>twist<br>rabbit<br>sniff<br>rival<br>ride |  
-| bip_39_word_new_br11 | zebra<br>galaxy<br>music<br>skate<br>valve<br>twist<br>rabbit<br>sniff<br>rival<br>ride<br>guitar |  
-| bip_39_word_new_br12 | zebra<br>galaxy<br>music<br>skate<br>valve<br>twist<br>rabbit<br>sniff<br>rival<br>ride<br>guitar<br>action |  
-| bip_39_word_new_br2 | zebra<br>galaxy |  
-| bip_39_word_new_br3 | zebra<br>galaxy<br>music |  
-| bip_39_word_new_br4 | zebra<br>galaxy<br>music<br>skate |  
-| bip_39_word_new_br5 | zebra<br>galaxy<br>music<br>skate<br>valve |  
-| bip_39_word_new_br6 | zebra<br>galaxy<br>music<br>skate<br>valve<br>twist |  
-| bip_39_word_new_br7 | zebra<br>galaxy<br>music<br>skate<br>valve<br>twist<br>rabbit |  
-| bip_39_word_new_br8 | zebra<br>galaxy<br>music<br>skate<br>valve<br>twist<br>rabbit<br>sniff |  
-| bip_39_word_new_br9 | zebra<br>galaxy<br>music<br>skate<br>valve<br>twist<br>rabbit<br>sniff<br>rival |  
-| bip_39_word_new_line1 | zebra |  
-| bip_39_word_new_line10 | zebra
+| bip_39_word_new_br_1 | zebra |  
+| bip_39_word_new_br_10 | zebra<br>galaxy<br>music<br>skate<br>valve<br>twist<br>rabbit<br>sniff<br>rival<br>ride |  
+| bip_39_word_new_br_11 | zebra<br>galaxy<br>music<br>skate<br>valve<br>twist<br>rabbit<br>sniff<br>rival<br>ride<br>guitar |  
+| bip_39_word_new_br_12 | zebra<br>galaxy<br>music<br>skate<br>valve<br>twist<br>rabbit<br>sniff<br>rival<br>ride<br>guitar<br>action |  
+| bip_39_word_new_br_2 | zebra<br>galaxy |  
+| bip_39_word_new_br_3 | zebra<br>galaxy<br>music |  
+| bip_39_word_new_br_4 | zebra<br>galaxy<br>music<br>skate |  
+| bip_39_word_new_br_5 | zebra<br>galaxy<br>music<br>skate<br>valve |  
+| bip_39_word_new_br_6 | zebra<br>galaxy<br>music<br>skate<br>valve<br>twist |  
+| bip_39_word_new_br_7 | zebra<br>galaxy<br>music<br>skate<br>valve<br>twist<br>rabbit |  
+| bip_39_word_new_br_8 | zebra<br>galaxy<br>music<br>skate<br>valve<br>twist<br>rabbit<br>sniff |  
+| bip_39_word_new_br_9 | zebra<br>galaxy<br>music<br>skate<br>valve<br>twist<br>rabbit<br>sniff<br>rival |  
+| bip_39_word_new_line_1 | zebra |  
+| bip_39_word_new_line_10 | zebra
 galaxy
 music
 skate
@@ -55,7 +55,7 @@ rabbit
 sniff
 rival
 ride |  
-| bip_39_word_new_line11 | zebra
+| bip_39_word_new_line_11 | zebra
 galaxy
 music
 skate
@@ -66,7 +66,7 @@ sniff
 rival
 ride
 guitar |  
-| bip_39_word_new_line12 | zebra
+| bip_39_word_new_line_12 | zebra
 galaxy
 music
 skate
@@ -78,34 +78,34 @@ rival
 ride
 guitar
 action |  
-| bip_39_word_new_line2 | zebra
+| bip_39_word_new_line_2 | zebra
 galaxy |  
-| bip_39_word_new_line3 | zebra
+| bip_39_word_new_line_3 | zebra
 galaxy
 music |  
-| bip_39_word_new_line4 | zebra
+| bip_39_word_new_line_4 | zebra
 galaxy
 music
 skate |  
-| bip_39_word_new_line5 | zebra
+| bip_39_word_new_line_5 | zebra
 galaxy
 music
 skate
 valve |  
-| bip_39_word_new_line6 | zebra
+| bip_39_word_new_line_6 | zebra
 galaxy
 music
 skate
 valve
 twist |  
-| bip_39_word_new_line7 | zebra
+| bip_39_word_new_line_7 | zebra
 galaxy
 music
 skate
 valve
 twist
 rabbit |  
-| bip_39_word_new_line8 | zebra
+| bip_39_word_new_line_8 | zebra
 galaxy
 music
 skate
@@ -113,7 +113,7 @@ valve
 twist
 rabbit
 sniff |  
-| bip_39_word_new_line9 | zebra
+| bip_39_word_new_line_9 | zebra
 galaxy
 music
 skate

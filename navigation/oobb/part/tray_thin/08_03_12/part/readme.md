@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wise |  
-| bip_39_word_new_br10 | wise<br>cool<br>settle<br>face<br>now<br>web<br>marble<br>claw<br>cover<br>heart |  
-| bip_39_word_new_br11 | wise<br>cool<br>settle<br>face<br>now<br>web<br>marble<br>claw<br>cover<br>heart<br>salute |  
-| bip_39_word_new_br12 | wise<br>cool<br>settle<br>face<br>now<br>web<br>marble<br>claw<br>cover<br>heart<br>salute<br>arctic |  
-| bip_39_word_new_br2 | wise<br>cool |  
-| bip_39_word_new_br3 | wise<br>cool<br>settle |  
-| bip_39_word_new_br4 | wise<br>cool<br>settle<br>face |  
-| bip_39_word_new_br5 | wise<br>cool<br>settle<br>face<br>now |  
-| bip_39_word_new_br6 | wise<br>cool<br>settle<br>face<br>now<br>web |  
-| bip_39_word_new_br7 | wise<br>cool<br>settle<br>face<br>now<br>web<br>marble |  
-| bip_39_word_new_br8 | wise<br>cool<br>settle<br>face<br>now<br>web<br>marble<br>claw |  
-| bip_39_word_new_br9 | wise<br>cool<br>settle<br>face<br>now<br>web<br>marble<br>claw<br>cover |  
-| bip_39_word_new_line1 | wise |  
-| bip_39_word_new_line10 | wise
+| bip_39_word_new_br_1 | wise |  
+| bip_39_word_new_br_10 | wise<br>cool<br>settle<br>face<br>now<br>web<br>marble<br>claw<br>cover<br>heart |  
+| bip_39_word_new_br_11 | wise<br>cool<br>settle<br>face<br>now<br>web<br>marble<br>claw<br>cover<br>heart<br>salute |  
+| bip_39_word_new_br_12 | wise<br>cool<br>settle<br>face<br>now<br>web<br>marble<br>claw<br>cover<br>heart<br>salute<br>arctic |  
+| bip_39_word_new_br_2 | wise<br>cool |  
+| bip_39_word_new_br_3 | wise<br>cool<br>settle |  
+| bip_39_word_new_br_4 | wise<br>cool<br>settle<br>face |  
+| bip_39_word_new_br_5 | wise<br>cool<br>settle<br>face<br>now |  
+| bip_39_word_new_br_6 | wise<br>cool<br>settle<br>face<br>now<br>web |  
+| bip_39_word_new_br_7 | wise<br>cool<br>settle<br>face<br>now<br>web<br>marble |  
+| bip_39_word_new_br_8 | wise<br>cool<br>settle<br>face<br>now<br>web<br>marble<br>claw |  
+| bip_39_word_new_br_9 | wise<br>cool<br>settle<br>face<br>now<br>web<br>marble<br>claw<br>cover |  
+| bip_39_word_new_line_1 | wise |  
+| bip_39_word_new_line_10 | wise
 cool
 settle
 face
@@ -55,7 +55,7 @@ marble
 claw
 cover
 heart |  
-| bip_39_word_new_line11 | wise
+| bip_39_word_new_line_11 | wise
 cool
 settle
 face
@@ -66,7 +66,7 @@ claw
 cover
 heart
 salute |  
-| bip_39_word_new_line12 | wise
+| bip_39_word_new_line_12 | wise
 cool
 settle
 face
@@ -78,34 +78,34 @@ cover
 heart
 salute
 arctic |  
-| bip_39_word_new_line2 | wise
+| bip_39_word_new_line_2 | wise
 cool |  
-| bip_39_word_new_line3 | wise
+| bip_39_word_new_line_3 | wise
 cool
 settle |  
-| bip_39_word_new_line4 | wise
+| bip_39_word_new_line_4 | wise
 cool
 settle
 face |  
-| bip_39_word_new_line5 | wise
+| bip_39_word_new_line_5 | wise
 cool
 settle
 face
 now |  
-| bip_39_word_new_line6 | wise
+| bip_39_word_new_line_6 | wise
 cool
 settle
 face
 now
 web |  
-| bip_39_word_new_line7 | wise
+| bip_39_word_new_line_7 | wise
 cool
 settle
 face
 now
 web
 marble |  
-| bip_39_word_new_line8 | wise
+| bip_39_word_new_line_8 | wise
 cool
 settle
 face
@@ -113,7 +113,7 @@ now
 web
 marble
 claw |  
-| bip_39_word_new_line9 | wise
+| bip_39_word_new_line_9 | wise
 cool
 settle
 face

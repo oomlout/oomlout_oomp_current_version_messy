@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | equal |  
-| bip_39_word_new_br10 | equal<br>wet<br>seat<br>find<br>carry<br>into<br>chalk<br>embark<br>meat<br>zone |  
-| bip_39_word_new_br11 | equal<br>wet<br>seat<br>find<br>carry<br>into<br>chalk<br>embark<br>meat<br>zone<br>file |  
-| bip_39_word_new_br12 | equal<br>wet<br>seat<br>find<br>carry<br>into<br>chalk<br>embark<br>meat<br>zone<br>file<br>apart |  
-| bip_39_word_new_br2 | equal<br>wet |  
-| bip_39_word_new_br3 | equal<br>wet<br>seat |  
-| bip_39_word_new_br4 | equal<br>wet<br>seat<br>find |  
-| bip_39_word_new_br5 | equal<br>wet<br>seat<br>find<br>carry |  
-| bip_39_word_new_br6 | equal<br>wet<br>seat<br>find<br>carry<br>into |  
-| bip_39_word_new_br7 | equal<br>wet<br>seat<br>find<br>carry<br>into<br>chalk |  
-| bip_39_word_new_br8 | equal<br>wet<br>seat<br>find<br>carry<br>into<br>chalk<br>embark |  
-| bip_39_word_new_br9 | equal<br>wet<br>seat<br>find<br>carry<br>into<br>chalk<br>embark<br>meat |  
-| bip_39_word_new_line1 | equal |  
-| bip_39_word_new_line10 | equal
+| bip_39_word_new_br_1 | equal |  
+| bip_39_word_new_br_10 | equal<br>wet<br>seat<br>find<br>carry<br>into<br>chalk<br>embark<br>meat<br>zone |  
+| bip_39_word_new_br_11 | equal<br>wet<br>seat<br>find<br>carry<br>into<br>chalk<br>embark<br>meat<br>zone<br>file |  
+| bip_39_word_new_br_12 | equal<br>wet<br>seat<br>find<br>carry<br>into<br>chalk<br>embark<br>meat<br>zone<br>file<br>apart |  
+| bip_39_word_new_br_2 | equal<br>wet |  
+| bip_39_word_new_br_3 | equal<br>wet<br>seat |  
+| bip_39_word_new_br_4 | equal<br>wet<br>seat<br>find |  
+| bip_39_word_new_br_5 | equal<br>wet<br>seat<br>find<br>carry |  
+| bip_39_word_new_br_6 | equal<br>wet<br>seat<br>find<br>carry<br>into |  
+| bip_39_word_new_br_7 | equal<br>wet<br>seat<br>find<br>carry<br>into<br>chalk |  
+| bip_39_word_new_br_8 | equal<br>wet<br>seat<br>find<br>carry<br>into<br>chalk<br>embark |  
+| bip_39_word_new_br_9 | equal<br>wet<br>seat<br>find<br>carry<br>into<br>chalk<br>embark<br>meat |  
+| bip_39_word_new_line_1 | equal |  
+| bip_39_word_new_line_10 | equal
 wet
 seat
 find
@@ -55,7 +55,7 @@ chalk
 embark
 meat
 zone |  
-| bip_39_word_new_line11 | equal
+| bip_39_word_new_line_11 | equal
 wet
 seat
 find
@@ -66,7 +66,7 @@ embark
 meat
 zone
 file |  
-| bip_39_word_new_line12 | equal
+| bip_39_word_new_line_12 | equal
 wet
 seat
 find
@@ -78,34 +78,34 @@ meat
 zone
 file
 apart |  
-| bip_39_word_new_line2 | equal
+| bip_39_word_new_line_2 | equal
 wet |  
-| bip_39_word_new_line3 | equal
+| bip_39_word_new_line_3 | equal
 wet
 seat |  
-| bip_39_word_new_line4 | equal
+| bip_39_word_new_line_4 | equal
 wet
 seat
 find |  
-| bip_39_word_new_line5 | equal
+| bip_39_word_new_line_5 | equal
 wet
 seat
 find
 carry |  
-| bip_39_word_new_line6 | equal
+| bip_39_word_new_line_6 | equal
 wet
 seat
 find
 carry
 into |  
-| bip_39_word_new_line7 | equal
+| bip_39_word_new_line_7 | equal
 wet
 seat
 find
 carry
 into
 chalk |  
-| bip_39_word_new_line8 | equal
+| bip_39_word_new_line_8 | equal
 wet
 seat
 find
@@ -113,7 +113,7 @@ carry
 into
 chalk
 embark |  
-| bip_39_word_new_line9 | equal
+| bip_39_word_new_line_9 | equal
 wet
 seat
 find

@@ -1,17 +1,17 @@
-bip_39_word_new_br1: lucky
-bip_39_word_new_br10: lucky<br>ecology<br>genius<br>favorite<br>oppose<br>involve<br>surface<br>situate<br>useless<br>gather
-bip_39_word_new_br11: lucky<br>ecology<br>genius<br>favorite<br>oppose<br>involve<br>surface<br>situate<br>useless<br>gather<br>morning
-bip_39_word_new_br12: lucky<br>ecology<br>genius<br>favorite<br>oppose<br>involve<br>surface<br>situate<br>useless<br>gather<br>morning<br>alone
-bip_39_word_new_br2: lucky<br>ecology
-bip_39_word_new_br3: lucky<br>ecology<br>genius
-bip_39_word_new_br4: lucky<br>ecology<br>genius<br>favorite
-bip_39_word_new_br5: lucky<br>ecology<br>genius<br>favorite<br>oppose
-bip_39_word_new_br6: lucky<br>ecology<br>genius<br>favorite<br>oppose<br>involve
-bip_39_word_new_br7: lucky<br>ecology<br>genius<br>favorite<br>oppose<br>involve<br>surface
-bip_39_word_new_br8: lucky<br>ecology<br>genius<br>favorite<br>oppose<br>involve<br>surface<br>situate
-bip_39_word_new_br9: lucky<br>ecology<br>genius<br>favorite<br>oppose<br>involve<br>surface<br>situate<br>useless
-bip_39_word_new_line1: lucky
-bip_39_word_new_line10: 'lucky
+bip_39_word_new_br_1: lucky
+bip_39_word_new_br_10: lucky<br>ecology<br>genius<br>favorite<br>oppose<br>involve<br>surface<br>situate<br>useless<br>gather
+bip_39_word_new_br_11: lucky<br>ecology<br>genius<br>favorite<br>oppose<br>involve<br>surface<br>situate<br>useless<br>gather<br>morning
+bip_39_word_new_br_12: lucky<br>ecology<br>genius<br>favorite<br>oppose<br>involve<br>surface<br>situate<br>useless<br>gather<br>morning<br>alone
+bip_39_word_new_br_2: lucky<br>ecology
+bip_39_word_new_br_3: lucky<br>ecology<br>genius
+bip_39_word_new_br_4: lucky<br>ecology<br>genius<br>favorite
+bip_39_word_new_br_5: lucky<br>ecology<br>genius<br>favorite<br>oppose
+bip_39_word_new_br_6: lucky<br>ecology<br>genius<br>favorite<br>oppose<br>involve
+bip_39_word_new_br_7: lucky<br>ecology<br>genius<br>favorite<br>oppose<br>involve<br>surface
+bip_39_word_new_br_8: lucky<br>ecology<br>genius<br>favorite<br>oppose<br>involve<br>surface<br>situate
+bip_39_word_new_br_9: lucky<br>ecology<br>genius<br>favorite<br>oppose<br>involve<br>surface<br>situate<br>useless
+bip_39_word_new_line_1: lucky
+bip_39_word_new_line_10: 'lucky
 
   ecology
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'lucky
   useless
 
   gather'
-bip_39_word_new_line11: 'lucky
+bip_39_word_new_line_11: 'lucky
 
   ecology
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'lucky
   gather
 
   morning'
-bip_39_word_new_line12: 'lucky
+bip_39_word_new_line_12: 'lucky
 
   ecology
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'lucky
   morning
 
   alone'
-bip_39_word_new_line2: 'lucky
+bip_39_word_new_line_2: 'lucky
 
   ecology'
-bip_39_word_new_line3: 'lucky
+bip_39_word_new_line_3: 'lucky
 
   ecology
 
   genius'
-bip_39_word_new_line4: 'lucky
+bip_39_word_new_line_4: 'lucky
 
   ecology
 
   genius
 
   favorite'
-bip_39_word_new_line5: 'lucky
+bip_39_word_new_line_5: 'lucky
 
   ecology
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'lucky
   favorite
 
   oppose'
-bip_39_word_new_line6: 'lucky
+bip_39_word_new_line_6: 'lucky
 
   ecology
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'lucky
   oppose
 
   involve'
-bip_39_word_new_line7: 'lucky
+bip_39_word_new_line_7: 'lucky
 
   ecology
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'lucky
   involve
 
   surface'
-bip_39_word_new_line8: 'lucky
+bip_39_word_new_line_8: 'lucky
 
   ecology
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'lucky
   surface
 
   situate'
-bip_39_word_new_line9: 'lucky
+bip_39_word_new_line_9: 'lucky
 
   ecology
 

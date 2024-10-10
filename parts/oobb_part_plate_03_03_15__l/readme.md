@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | shock |  
-| bip_39_word_new_br10 | shock<br>time<br>joy<br>raccoon<br>grain<br>sister<br>sick<br>human<br>skull<br>evidence |  
-| bip_39_word_new_br11 | shock<br>time<br>joy<br>raccoon<br>grain<br>sister<br>sick<br>human<br>skull<br>evidence<br>mix |  
-| bip_39_word_new_br12 | shock<br>time<br>joy<br>raccoon<br>grain<br>sister<br>sick<br>human<br>skull<br>evidence<br>mix<br>any |  
-| bip_39_word_new_br2 | shock<br>time |  
-| bip_39_word_new_br3 | shock<br>time<br>joy |  
-| bip_39_word_new_br4 | shock<br>time<br>joy<br>raccoon |  
-| bip_39_word_new_br5 | shock<br>time<br>joy<br>raccoon<br>grain |  
-| bip_39_word_new_br6 | shock<br>time<br>joy<br>raccoon<br>grain<br>sister |  
-| bip_39_word_new_br7 | shock<br>time<br>joy<br>raccoon<br>grain<br>sister<br>sick |  
-| bip_39_word_new_br8 | shock<br>time<br>joy<br>raccoon<br>grain<br>sister<br>sick<br>human |  
-| bip_39_word_new_br9 | shock<br>time<br>joy<br>raccoon<br>grain<br>sister<br>sick<br>human<br>skull |  
-| bip_39_word_new_line1 | shock |  
-| bip_39_word_new_line10 | shock
+| bip_39_word_new_br_1 | shock |  
+| bip_39_word_new_br_10 | shock<br>time<br>joy<br>raccoon<br>grain<br>sister<br>sick<br>human<br>skull<br>evidence |  
+| bip_39_word_new_br_11 | shock<br>time<br>joy<br>raccoon<br>grain<br>sister<br>sick<br>human<br>skull<br>evidence<br>mix |  
+| bip_39_word_new_br_12 | shock<br>time<br>joy<br>raccoon<br>grain<br>sister<br>sick<br>human<br>skull<br>evidence<br>mix<br>any |  
+| bip_39_word_new_br_2 | shock<br>time |  
+| bip_39_word_new_br_3 | shock<br>time<br>joy |  
+| bip_39_word_new_br_4 | shock<br>time<br>joy<br>raccoon |  
+| bip_39_word_new_br_5 | shock<br>time<br>joy<br>raccoon<br>grain |  
+| bip_39_word_new_br_6 | shock<br>time<br>joy<br>raccoon<br>grain<br>sister |  
+| bip_39_word_new_br_7 | shock<br>time<br>joy<br>raccoon<br>grain<br>sister<br>sick |  
+| bip_39_word_new_br_8 | shock<br>time<br>joy<br>raccoon<br>grain<br>sister<br>sick<br>human |  
+| bip_39_word_new_br_9 | shock<br>time<br>joy<br>raccoon<br>grain<br>sister<br>sick<br>human<br>skull |  
+| bip_39_word_new_line_1 | shock |  
+| bip_39_word_new_line_10 | shock
 time
 joy
 raccoon
@@ -55,7 +55,7 @@ sick
 human
 skull
 evidence |  
-| bip_39_word_new_line11 | shock
+| bip_39_word_new_line_11 | shock
 time
 joy
 raccoon
@@ -66,7 +66,7 @@ human
 skull
 evidence
 mix |  
-| bip_39_word_new_line12 | shock
+| bip_39_word_new_line_12 | shock
 time
 joy
 raccoon
@@ -78,34 +78,34 @@ skull
 evidence
 mix
 any |  
-| bip_39_word_new_line2 | shock
+| bip_39_word_new_line_2 | shock
 time |  
-| bip_39_word_new_line3 | shock
+| bip_39_word_new_line_3 | shock
 time
 joy |  
-| bip_39_word_new_line4 | shock
+| bip_39_word_new_line_4 | shock
 time
 joy
 raccoon |  
-| bip_39_word_new_line5 | shock
+| bip_39_word_new_line_5 | shock
 time
 joy
 raccoon
 grain |  
-| bip_39_word_new_line6 | shock
+| bip_39_word_new_line_6 | shock
 time
 joy
 raccoon
 grain
 sister |  
-| bip_39_word_new_line7 | shock
+| bip_39_word_new_line_7 | shock
 time
 joy
 raccoon
 grain
 sister
 sick |  
-| bip_39_word_new_line8 | shock
+| bip_39_word_new_line_8 | shock
 time
 joy
 raccoon
@@ -113,7 +113,7 @@ grain
 sister
 sick
 human |  
-| bip_39_word_new_line9 | shock
+| bip_39_word_new_line_9 | shock
 time
 joy
 raccoon

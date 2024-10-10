@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | giggle |  
-| bip_39_word_new_br10 | giggle<br>truck<br>potato<br>scrap<br>satisfy<br>property<br>victory<br>decade<br>retire<br>silk |  
-| bip_39_word_new_br11 | giggle<br>truck<br>potato<br>scrap<br>satisfy<br>property<br>victory<br>decade<br>retire<br>silk<br>fault |  
-| bip_39_word_new_br12 | giggle<br>truck<br>potato<br>scrap<br>satisfy<br>property<br>victory<br>decade<br>retire<br>silk<br>fault<br>aim |  
-| bip_39_word_new_br2 | giggle<br>truck |  
-| bip_39_word_new_br3 | giggle<br>truck<br>potato |  
-| bip_39_word_new_br4 | giggle<br>truck<br>potato<br>scrap |  
-| bip_39_word_new_br5 | giggle<br>truck<br>potato<br>scrap<br>satisfy |  
-| bip_39_word_new_br6 | giggle<br>truck<br>potato<br>scrap<br>satisfy<br>property |  
-| bip_39_word_new_br7 | giggle<br>truck<br>potato<br>scrap<br>satisfy<br>property<br>victory |  
-| bip_39_word_new_br8 | giggle<br>truck<br>potato<br>scrap<br>satisfy<br>property<br>victory<br>decade |  
-| bip_39_word_new_br9 | giggle<br>truck<br>potato<br>scrap<br>satisfy<br>property<br>victory<br>decade<br>retire |  
-| bip_39_word_new_line1 | giggle |  
-| bip_39_word_new_line10 | giggle
+| bip_39_word_new_br_1 | giggle |  
+| bip_39_word_new_br_10 | giggle<br>truck<br>potato<br>scrap<br>satisfy<br>property<br>victory<br>decade<br>retire<br>silk |  
+| bip_39_word_new_br_11 | giggle<br>truck<br>potato<br>scrap<br>satisfy<br>property<br>victory<br>decade<br>retire<br>silk<br>fault |  
+| bip_39_word_new_br_12 | giggle<br>truck<br>potato<br>scrap<br>satisfy<br>property<br>victory<br>decade<br>retire<br>silk<br>fault<br>aim |  
+| bip_39_word_new_br_2 | giggle<br>truck |  
+| bip_39_word_new_br_3 | giggle<br>truck<br>potato |  
+| bip_39_word_new_br_4 | giggle<br>truck<br>potato<br>scrap |  
+| bip_39_word_new_br_5 | giggle<br>truck<br>potato<br>scrap<br>satisfy |  
+| bip_39_word_new_br_6 | giggle<br>truck<br>potato<br>scrap<br>satisfy<br>property |  
+| bip_39_word_new_br_7 | giggle<br>truck<br>potato<br>scrap<br>satisfy<br>property<br>victory |  
+| bip_39_word_new_br_8 | giggle<br>truck<br>potato<br>scrap<br>satisfy<br>property<br>victory<br>decade |  
+| bip_39_word_new_br_9 | giggle<br>truck<br>potato<br>scrap<br>satisfy<br>property<br>victory<br>decade<br>retire |  
+| bip_39_word_new_line_1 | giggle |  
+| bip_39_word_new_line_10 | giggle
 truck
 potato
 scrap
@@ -55,7 +55,7 @@ victory
 decade
 retire
 silk |  
-| bip_39_word_new_line11 | giggle
+| bip_39_word_new_line_11 | giggle
 truck
 potato
 scrap
@@ -66,7 +66,7 @@ decade
 retire
 silk
 fault |  
-| bip_39_word_new_line12 | giggle
+| bip_39_word_new_line_12 | giggle
 truck
 potato
 scrap
@@ -78,34 +78,34 @@ retire
 silk
 fault
 aim |  
-| bip_39_word_new_line2 | giggle
+| bip_39_word_new_line_2 | giggle
 truck |  
-| bip_39_word_new_line3 | giggle
+| bip_39_word_new_line_3 | giggle
 truck
 potato |  
-| bip_39_word_new_line4 | giggle
+| bip_39_word_new_line_4 | giggle
 truck
 potato
 scrap |  
-| bip_39_word_new_line5 | giggle
+| bip_39_word_new_line_5 | giggle
 truck
 potato
 scrap
 satisfy |  
-| bip_39_word_new_line6 | giggle
+| bip_39_word_new_line_6 | giggle
 truck
 potato
 scrap
 satisfy
 property |  
-| bip_39_word_new_line7 | giggle
+| bip_39_word_new_line_7 | giggle
 truck
 potato
 scrap
 satisfy
 property
 victory |  
-| bip_39_word_new_line8 | giggle
+| bip_39_word_new_line_8 | giggle
 truck
 potato
 scrap
@@ -113,7 +113,7 @@ satisfy
 property
 victory
 decade |  
-| bip_39_word_new_line9 | giggle
+| bip_39_word_new_line_9 | giggle
 truck
 potato
 scrap

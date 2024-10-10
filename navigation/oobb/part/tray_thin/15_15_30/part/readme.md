@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | swim |  
-| bip_39_word_new_br10 | swim<br>slot<br>stamp<br>danger<br>decorate<br>tuition<br>gold<br>priority<br>gadget<br>early |  
-| bip_39_word_new_br11 | swim<br>slot<br>stamp<br>danger<br>decorate<br>tuition<br>gold<br>priority<br>gadget<br>early<br>stem |  
-| bip_39_word_new_br12 | swim<br>slot<br>stamp<br>danger<br>decorate<br>tuition<br>gold<br>priority<br>gadget<br>early<br>stem<br>address |  
-| bip_39_word_new_br2 | swim<br>slot |  
-| bip_39_word_new_br3 | swim<br>slot<br>stamp |  
-| bip_39_word_new_br4 | swim<br>slot<br>stamp<br>danger |  
-| bip_39_word_new_br5 | swim<br>slot<br>stamp<br>danger<br>decorate |  
-| bip_39_word_new_br6 | swim<br>slot<br>stamp<br>danger<br>decorate<br>tuition |  
-| bip_39_word_new_br7 | swim<br>slot<br>stamp<br>danger<br>decorate<br>tuition<br>gold |  
-| bip_39_word_new_br8 | swim<br>slot<br>stamp<br>danger<br>decorate<br>tuition<br>gold<br>priority |  
-| bip_39_word_new_br9 | swim<br>slot<br>stamp<br>danger<br>decorate<br>tuition<br>gold<br>priority<br>gadget |  
-| bip_39_word_new_line1 | swim |  
-| bip_39_word_new_line10 | swim
+| bip_39_word_new_br_1 | swim |  
+| bip_39_word_new_br_10 | swim<br>slot<br>stamp<br>danger<br>decorate<br>tuition<br>gold<br>priority<br>gadget<br>early |  
+| bip_39_word_new_br_11 | swim<br>slot<br>stamp<br>danger<br>decorate<br>tuition<br>gold<br>priority<br>gadget<br>early<br>stem |  
+| bip_39_word_new_br_12 | swim<br>slot<br>stamp<br>danger<br>decorate<br>tuition<br>gold<br>priority<br>gadget<br>early<br>stem<br>address |  
+| bip_39_word_new_br_2 | swim<br>slot |  
+| bip_39_word_new_br_3 | swim<br>slot<br>stamp |  
+| bip_39_word_new_br_4 | swim<br>slot<br>stamp<br>danger |  
+| bip_39_word_new_br_5 | swim<br>slot<br>stamp<br>danger<br>decorate |  
+| bip_39_word_new_br_6 | swim<br>slot<br>stamp<br>danger<br>decorate<br>tuition |  
+| bip_39_word_new_br_7 | swim<br>slot<br>stamp<br>danger<br>decorate<br>tuition<br>gold |  
+| bip_39_word_new_br_8 | swim<br>slot<br>stamp<br>danger<br>decorate<br>tuition<br>gold<br>priority |  
+| bip_39_word_new_br_9 | swim<br>slot<br>stamp<br>danger<br>decorate<br>tuition<br>gold<br>priority<br>gadget |  
+| bip_39_word_new_line_1 | swim |  
+| bip_39_word_new_line_10 | swim
 slot
 stamp
 danger
@@ -55,7 +55,7 @@ gold
 priority
 gadget
 early |  
-| bip_39_word_new_line11 | swim
+| bip_39_word_new_line_11 | swim
 slot
 stamp
 danger
@@ -66,7 +66,7 @@ priority
 gadget
 early
 stem |  
-| bip_39_word_new_line12 | swim
+| bip_39_word_new_line_12 | swim
 slot
 stamp
 danger
@@ -78,34 +78,34 @@ gadget
 early
 stem
 address |  
-| bip_39_word_new_line2 | swim
+| bip_39_word_new_line_2 | swim
 slot |  
-| bip_39_word_new_line3 | swim
+| bip_39_word_new_line_3 | swim
 slot
 stamp |  
-| bip_39_word_new_line4 | swim
+| bip_39_word_new_line_4 | swim
 slot
 stamp
 danger |  
-| bip_39_word_new_line5 | swim
+| bip_39_word_new_line_5 | swim
 slot
 stamp
 danger
 decorate |  
-| bip_39_word_new_line6 | swim
+| bip_39_word_new_line_6 | swim
 slot
 stamp
 danger
 decorate
 tuition |  
-| bip_39_word_new_line7 | swim
+| bip_39_word_new_line_7 | swim
 slot
 stamp
 danger
 decorate
 tuition
 gold |  
-| bip_39_word_new_line8 | swim
+| bip_39_word_new_line_8 | swim
 slot
 stamp
 danger
@@ -113,7 +113,7 @@ decorate
 tuition
 gold
 priority |  
-| bip_39_word_new_line9 | swim
+| bip_39_word_new_line_9 | swim
 slot
 stamp
 danger

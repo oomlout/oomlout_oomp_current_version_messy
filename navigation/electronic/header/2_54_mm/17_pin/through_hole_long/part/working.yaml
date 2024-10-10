@@ -1,17 +1,17 @@
-bip_39_word_new_br1: learn
-bip_39_word_new_br10: learn<br>struggle<br>waste<br>gym<br>curious<br>bargain<br>record<br>device<br>romance<br>round
-bip_39_word_new_br11: learn<br>struggle<br>waste<br>gym<br>curious<br>bargain<br>record<br>device<br>romance<br>round<br>heart
-bip_39_word_new_br12: learn<br>struggle<br>waste<br>gym<br>curious<br>bargain<br>record<br>device<br>romance<br>round<br>heart<br>auto
-bip_39_word_new_br2: learn<br>struggle
-bip_39_word_new_br3: learn<br>struggle<br>waste
-bip_39_word_new_br4: learn<br>struggle<br>waste<br>gym
-bip_39_word_new_br5: learn<br>struggle<br>waste<br>gym<br>curious
-bip_39_word_new_br6: learn<br>struggle<br>waste<br>gym<br>curious<br>bargain
-bip_39_word_new_br7: learn<br>struggle<br>waste<br>gym<br>curious<br>bargain<br>record
-bip_39_word_new_br8: learn<br>struggle<br>waste<br>gym<br>curious<br>bargain<br>record<br>device
-bip_39_word_new_br9: learn<br>struggle<br>waste<br>gym<br>curious<br>bargain<br>record<br>device<br>romance
-bip_39_word_new_line1: learn
-bip_39_word_new_line10: 'learn
+bip_39_word_new_br_1: learn
+bip_39_word_new_br_10: learn<br>struggle<br>waste<br>gym<br>curious<br>bargain<br>record<br>device<br>romance<br>round
+bip_39_word_new_br_11: learn<br>struggle<br>waste<br>gym<br>curious<br>bargain<br>record<br>device<br>romance<br>round<br>heart
+bip_39_word_new_br_12: learn<br>struggle<br>waste<br>gym<br>curious<br>bargain<br>record<br>device<br>romance<br>round<br>heart<br>auto
+bip_39_word_new_br_2: learn<br>struggle
+bip_39_word_new_br_3: learn<br>struggle<br>waste
+bip_39_word_new_br_4: learn<br>struggle<br>waste<br>gym
+bip_39_word_new_br_5: learn<br>struggle<br>waste<br>gym<br>curious
+bip_39_word_new_br_6: learn<br>struggle<br>waste<br>gym<br>curious<br>bargain
+bip_39_word_new_br_7: learn<br>struggle<br>waste<br>gym<br>curious<br>bargain<br>record
+bip_39_word_new_br_8: learn<br>struggle<br>waste<br>gym<br>curious<br>bargain<br>record<br>device
+bip_39_word_new_br_9: learn<br>struggle<br>waste<br>gym<br>curious<br>bargain<br>record<br>device<br>romance
+bip_39_word_new_line_1: learn
+bip_39_word_new_line_10: 'learn
 
   struggle
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'learn
   romance
 
   round'
-bip_39_word_new_line11: 'learn
+bip_39_word_new_line_11: 'learn
 
   struggle
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'learn
   round
 
   heart'
-bip_39_word_new_line12: 'learn
+bip_39_word_new_line_12: 'learn
 
   struggle
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'learn
   heart
 
   auto'
-bip_39_word_new_line2: 'learn
+bip_39_word_new_line_2: 'learn
 
   struggle'
-bip_39_word_new_line3: 'learn
+bip_39_word_new_line_3: 'learn
 
   struggle
 
   waste'
-bip_39_word_new_line4: 'learn
+bip_39_word_new_line_4: 'learn
 
   struggle
 
   waste
 
   gym'
-bip_39_word_new_line5: 'learn
+bip_39_word_new_line_5: 'learn
 
   struggle
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'learn
   gym
 
   curious'
-bip_39_word_new_line6: 'learn
+bip_39_word_new_line_6: 'learn
 
   struggle
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'learn
   curious
 
   bargain'
-bip_39_word_new_line7: 'learn
+bip_39_word_new_line_7: 'learn
 
   struggle
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'learn
   bargain
 
   record'
-bip_39_word_new_line8: 'learn
+bip_39_word_new_line_8: 'learn
 
   struggle
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'learn
   record
 
   device'
-bip_39_word_new_line9: 'learn
+bip_39_word_new_line_9: 'learn
 
   struggle
 

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pluck |  
-| bip_39_word_new_br10 | pluck<br>dutch<br>idea<br>pretty<br>voyage<br>double<br>rather<br>injury<br>provide<br>cycle |  
-| bip_39_word_new_br11 | pluck<br>dutch<br>idea<br>pretty<br>voyage<br>double<br>rather<br>injury<br>provide<br>cycle<br>rule |  
-| bip_39_word_new_br12 | pluck<br>dutch<br>idea<br>pretty<br>voyage<br>double<br>rather<br>injury<br>provide<br>cycle<br>rule<br>audit |  
-| bip_39_word_new_br2 | pluck<br>dutch |  
-| bip_39_word_new_br3 | pluck<br>dutch<br>idea |  
-| bip_39_word_new_br4 | pluck<br>dutch<br>idea<br>pretty |  
-| bip_39_word_new_br5 | pluck<br>dutch<br>idea<br>pretty<br>voyage |  
-| bip_39_word_new_br6 | pluck<br>dutch<br>idea<br>pretty<br>voyage<br>double |  
-| bip_39_word_new_br7 | pluck<br>dutch<br>idea<br>pretty<br>voyage<br>double<br>rather |  
-| bip_39_word_new_br8 | pluck<br>dutch<br>idea<br>pretty<br>voyage<br>double<br>rather<br>injury |  
-| bip_39_word_new_br9 | pluck<br>dutch<br>idea<br>pretty<br>voyage<br>double<br>rather<br>injury<br>provide |  
-| bip_39_word_new_line1 | pluck |  
-| bip_39_word_new_line10 | pluck
+| bip_39_word_new_br_1 | pluck |  
+| bip_39_word_new_br_10 | pluck<br>dutch<br>idea<br>pretty<br>voyage<br>double<br>rather<br>injury<br>provide<br>cycle |  
+| bip_39_word_new_br_11 | pluck<br>dutch<br>idea<br>pretty<br>voyage<br>double<br>rather<br>injury<br>provide<br>cycle<br>rule |  
+| bip_39_word_new_br_12 | pluck<br>dutch<br>idea<br>pretty<br>voyage<br>double<br>rather<br>injury<br>provide<br>cycle<br>rule<br>audit |  
+| bip_39_word_new_br_2 | pluck<br>dutch |  
+| bip_39_word_new_br_3 | pluck<br>dutch<br>idea |  
+| bip_39_word_new_br_4 | pluck<br>dutch<br>idea<br>pretty |  
+| bip_39_word_new_br_5 | pluck<br>dutch<br>idea<br>pretty<br>voyage |  
+| bip_39_word_new_br_6 | pluck<br>dutch<br>idea<br>pretty<br>voyage<br>double |  
+| bip_39_word_new_br_7 | pluck<br>dutch<br>idea<br>pretty<br>voyage<br>double<br>rather |  
+| bip_39_word_new_br_8 | pluck<br>dutch<br>idea<br>pretty<br>voyage<br>double<br>rather<br>injury |  
+| bip_39_word_new_br_9 | pluck<br>dutch<br>idea<br>pretty<br>voyage<br>double<br>rather<br>injury<br>provide |  
+| bip_39_word_new_line_1 | pluck |  
+| bip_39_word_new_line_10 | pluck
 dutch
 idea
 pretty
@@ -55,7 +55,7 @@ rather
 injury
 provide
 cycle |  
-| bip_39_word_new_line11 | pluck
+| bip_39_word_new_line_11 | pluck
 dutch
 idea
 pretty
@@ -66,7 +66,7 @@ injury
 provide
 cycle
 rule |  
-| bip_39_word_new_line12 | pluck
+| bip_39_word_new_line_12 | pluck
 dutch
 idea
 pretty
@@ -78,34 +78,34 @@ provide
 cycle
 rule
 audit |  
-| bip_39_word_new_line2 | pluck
+| bip_39_word_new_line_2 | pluck
 dutch |  
-| bip_39_word_new_line3 | pluck
+| bip_39_word_new_line_3 | pluck
 dutch
 idea |  
-| bip_39_word_new_line4 | pluck
+| bip_39_word_new_line_4 | pluck
 dutch
 idea
 pretty |  
-| bip_39_word_new_line5 | pluck
+| bip_39_word_new_line_5 | pluck
 dutch
 idea
 pretty
 voyage |  
-| bip_39_word_new_line6 | pluck
+| bip_39_word_new_line_6 | pluck
 dutch
 idea
 pretty
 voyage
 double |  
-| bip_39_word_new_line7 | pluck
+| bip_39_word_new_line_7 | pluck
 dutch
 idea
 pretty
 voyage
 double
 rather |  
-| bip_39_word_new_line8 | pluck
+| bip_39_word_new_line_8 | pluck
 dutch
 idea
 pretty
@@ -113,7 +113,7 @@ voyage
 double
 rather
 injury |  
-| bip_39_word_new_line9 | pluck
+| bip_39_word_new_line_9 | pluck
 dutch
 idea
 pretty

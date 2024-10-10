@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | nothing |  
-| bip_39_word_new_br10 | nothing<br>prosper<br>grit<br>chuckle<br>life<br>dust<br>credit<br>want<br>drift<br>uncover |  
-| bip_39_word_new_br11 | nothing<br>prosper<br>grit<br>chuckle<br>life<br>dust<br>credit<br>want<br>drift<br>uncover<br>six |  
-| bip_39_word_new_br12 | nothing<br>prosper<br>grit<br>chuckle<br>life<br>dust<br>credit<br>want<br>drift<br>uncover<br>six<br>all |  
-| bip_39_word_new_br2 | nothing<br>prosper |  
-| bip_39_word_new_br3 | nothing<br>prosper<br>grit |  
-| bip_39_word_new_br4 | nothing<br>prosper<br>grit<br>chuckle |  
-| bip_39_word_new_br5 | nothing<br>prosper<br>grit<br>chuckle<br>life |  
-| bip_39_word_new_br6 | nothing<br>prosper<br>grit<br>chuckle<br>life<br>dust |  
-| bip_39_word_new_br7 | nothing<br>prosper<br>grit<br>chuckle<br>life<br>dust<br>credit |  
-| bip_39_word_new_br8 | nothing<br>prosper<br>grit<br>chuckle<br>life<br>dust<br>credit<br>want |  
-| bip_39_word_new_br9 | nothing<br>prosper<br>grit<br>chuckle<br>life<br>dust<br>credit<br>want<br>drift |  
-| bip_39_word_new_line1 | nothing |  
-| bip_39_word_new_line10 | nothing
+| bip_39_word_new_br_1 | nothing |  
+| bip_39_word_new_br_10 | nothing<br>prosper<br>grit<br>chuckle<br>life<br>dust<br>credit<br>want<br>drift<br>uncover |  
+| bip_39_word_new_br_11 | nothing<br>prosper<br>grit<br>chuckle<br>life<br>dust<br>credit<br>want<br>drift<br>uncover<br>six |  
+| bip_39_word_new_br_12 | nothing<br>prosper<br>grit<br>chuckle<br>life<br>dust<br>credit<br>want<br>drift<br>uncover<br>six<br>all |  
+| bip_39_word_new_br_2 | nothing<br>prosper |  
+| bip_39_word_new_br_3 | nothing<br>prosper<br>grit |  
+| bip_39_word_new_br_4 | nothing<br>prosper<br>grit<br>chuckle |  
+| bip_39_word_new_br_5 | nothing<br>prosper<br>grit<br>chuckle<br>life |  
+| bip_39_word_new_br_6 | nothing<br>prosper<br>grit<br>chuckle<br>life<br>dust |  
+| bip_39_word_new_br_7 | nothing<br>prosper<br>grit<br>chuckle<br>life<br>dust<br>credit |  
+| bip_39_word_new_br_8 | nothing<br>prosper<br>grit<br>chuckle<br>life<br>dust<br>credit<br>want |  
+| bip_39_word_new_br_9 | nothing<br>prosper<br>grit<br>chuckle<br>life<br>dust<br>credit<br>want<br>drift |  
+| bip_39_word_new_line_1 | nothing |  
+| bip_39_word_new_line_10 | nothing
 prosper
 grit
 chuckle
@@ -55,7 +55,7 @@ credit
 want
 drift
 uncover |  
-| bip_39_word_new_line11 | nothing
+| bip_39_word_new_line_11 | nothing
 prosper
 grit
 chuckle
@@ -66,7 +66,7 @@ want
 drift
 uncover
 six |  
-| bip_39_word_new_line12 | nothing
+| bip_39_word_new_line_12 | nothing
 prosper
 grit
 chuckle
@@ -78,34 +78,34 @@ drift
 uncover
 six
 all |  
-| bip_39_word_new_line2 | nothing
+| bip_39_word_new_line_2 | nothing
 prosper |  
-| bip_39_word_new_line3 | nothing
+| bip_39_word_new_line_3 | nothing
 prosper
 grit |  
-| bip_39_word_new_line4 | nothing
+| bip_39_word_new_line_4 | nothing
 prosper
 grit
 chuckle |  
-| bip_39_word_new_line5 | nothing
+| bip_39_word_new_line_5 | nothing
 prosper
 grit
 chuckle
 life |  
-| bip_39_word_new_line6 | nothing
+| bip_39_word_new_line_6 | nothing
 prosper
 grit
 chuckle
 life
 dust |  
-| bip_39_word_new_line7 | nothing
+| bip_39_word_new_line_7 | nothing
 prosper
 grit
 chuckle
 life
 dust
 credit |  
-| bip_39_word_new_line8 | nothing
+| bip_39_word_new_line_8 | nothing
 prosper
 grit
 chuckle
@@ -113,7 +113,7 @@ life
 dust
 credit
 want |  
-| bip_39_word_new_line9 | nothing
+| bip_39_word_new_line_9 | nothing
 prosper
 grit
 chuckle

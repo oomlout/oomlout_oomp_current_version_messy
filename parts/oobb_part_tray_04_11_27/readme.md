@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | danger |  
-| bip_39_word_new_br10 | danger<br>hole<br>transfer<br>jump<br>addict<br>jealous<br>worth<br>cloud<br>second<br>stomach |  
-| bip_39_word_new_br11 | danger<br>hole<br>transfer<br>jump<br>addict<br>jealous<br>worth<br>cloud<br>second<br>stomach<br>crew |  
-| bip_39_word_new_br12 | danger<br>hole<br>transfer<br>jump<br>addict<br>jealous<br>worth<br>cloud<br>second<br>stomach<br>crew<br>army |  
-| bip_39_word_new_br2 | danger<br>hole |  
-| bip_39_word_new_br3 | danger<br>hole<br>transfer |  
-| bip_39_word_new_br4 | danger<br>hole<br>transfer<br>jump |  
-| bip_39_word_new_br5 | danger<br>hole<br>transfer<br>jump<br>addict |  
-| bip_39_word_new_br6 | danger<br>hole<br>transfer<br>jump<br>addict<br>jealous |  
-| bip_39_word_new_br7 | danger<br>hole<br>transfer<br>jump<br>addict<br>jealous<br>worth |  
-| bip_39_word_new_br8 | danger<br>hole<br>transfer<br>jump<br>addict<br>jealous<br>worth<br>cloud |  
-| bip_39_word_new_br9 | danger<br>hole<br>transfer<br>jump<br>addict<br>jealous<br>worth<br>cloud<br>second |  
-| bip_39_word_new_line1 | danger |  
-| bip_39_word_new_line10 | danger
+| bip_39_word_new_br_1 | danger |  
+| bip_39_word_new_br_10 | danger<br>hole<br>transfer<br>jump<br>addict<br>jealous<br>worth<br>cloud<br>second<br>stomach |  
+| bip_39_word_new_br_11 | danger<br>hole<br>transfer<br>jump<br>addict<br>jealous<br>worth<br>cloud<br>second<br>stomach<br>crew |  
+| bip_39_word_new_br_12 | danger<br>hole<br>transfer<br>jump<br>addict<br>jealous<br>worth<br>cloud<br>second<br>stomach<br>crew<br>army |  
+| bip_39_word_new_br_2 | danger<br>hole |  
+| bip_39_word_new_br_3 | danger<br>hole<br>transfer |  
+| bip_39_word_new_br_4 | danger<br>hole<br>transfer<br>jump |  
+| bip_39_word_new_br_5 | danger<br>hole<br>transfer<br>jump<br>addict |  
+| bip_39_word_new_br_6 | danger<br>hole<br>transfer<br>jump<br>addict<br>jealous |  
+| bip_39_word_new_br_7 | danger<br>hole<br>transfer<br>jump<br>addict<br>jealous<br>worth |  
+| bip_39_word_new_br_8 | danger<br>hole<br>transfer<br>jump<br>addict<br>jealous<br>worth<br>cloud |  
+| bip_39_word_new_br_9 | danger<br>hole<br>transfer<br>jump<br>addict<br>jealous<br>worth<br>cloud<br>second |  
+| bip_39_word_new_line_1 | danger |  
+| bip_39_word_new_line_10 | danger
 hole
 transfer
 jump
@@ -55,7 +55,7 @@ worth
 cloud
 second
 stomach |  
-| bip_39_word_new_line11 | danger
+| bip_39_word_new_line_11 | danger
 hole
 transfer
 jump
@@ -66,7 +66,7 @@ cloud
 second
 stomach
 crew |  
-| bip_39_word_new_line12 | danger
+| bip_39_word_new_line_12 | danger
 hole
 transfer
 jump
@@ -78,34 +78,34 @@ second
 stomach
 crew
 army |  
-| bip_39_word_new_line2 | danger
+| bip_39_word_new_line_2 | danger
 hole |  
-| bip_39_word_new_line3 | danger
+| bip_39_word_new_line_3 | danger
 hole
 transfer |  
-| bip_39_word_new_line4 | danger
+| bip_39_word_new_line_4 | danger
 hole
 transfer
 jump |  
-| bip_39_word_new_line5 | danger
+| bip_39_word_new_line_5 | danger
 hole
 transfer
 jump
 addict |  
-| bip_39_word_new_line6 | danger
+| bip_39_word_new_line_6 | danger
 hole
 transfer
 jump
 addict
 jealous |  
-| bip_39_word_new_line7 | danger
+| bip_39_word_new_line_7 | danger
 hole
 transfer
 jump
 addict
 jealous
 worth |  
-| bip_39_word_new_line8 | danger
+| bip_39_word_new_line_8 | danger
 hole
 transfer
 jump
@@ -113,7 +113,7 @@ addict
 jealous
 worth
 cloud |  
-| bip_39_word_new_line9 | danger
+| bip_39_word_new_line_9 | danger
 hole
 transfer
 jump

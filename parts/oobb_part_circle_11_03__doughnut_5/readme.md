@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | balance |  
-| bip_39_word_new_br10 | balance<br>wash<br>core<br>coil<br>like<br>drama<br>cabin<br>neutral<br>shock<br>hen |  
-| bip_39_word_new_br11 | balance<br>wash<br>core<br>coil<br>like<br>drama<br>cabin<br>neutral<br>shock<br>hen<br>wet |  
-| bip_39_word_new_br12 | balance<br>wash<br>core<br>coil<br>like<br>drama<br>cabin<br>neutral<br>shock<br>hen<br>wet<br>alien |  
-| bip_39_word_new_br2 | balance<br>wash |  
-| bip_39_word_new_br3 | balance<br>wash<br>core |  
-| bip_39_word_new_br4 | balance<br>wash<br>core<br>coil |  
-| bip_39_word_new_br5 | balance<br>wash<br>core<br>coil<br>like |  
-| bip_39_word_new_br6 | balance<br>wash<br>core<br>coil<br>like<br>drama |  
-| bip_39_word_new_br7 | balance<br>wash<br>core<br>coil<br>like<br>drama<br>cabin |  
-| bip_39_word_new_br8 | balance<br>wash<br>core<br>coil<br>like<br>drama<br>cabin<br>neutral |  
-| bip_39_word_new_br9 | balance<br>wash<br>core<br>coil<br>like<br>drama<br>cabin<br>neutral<br>shock |  
-| bip_39_word_new_line1 | balance |  
-| bip_39_word_new_line10 | balance
+| bip_39_word_new_br_1 | balance |  
+| bip_39_word_new_br_10 | balance<br>wash<br>core<br>coil<br>like<br>drama<br>cabin<br>neutral<br>shock<br>hen |  
+| bip_39_word_new_br_11 | balance<br>wash<br>core<br>coil<br>like<br>drama<br>cabin<br>neutral<br>shock<br>hen<br>wet |  
+| bip_39_word_new_br_12 | balance<br>wash<br>core<br>coil<br>like<br>drama<br>cabin<br>neutral<br>shock<br>hen<br>wet<br>alien |  
+| bip_39_word_new_br_2 | balance<br>wash |  
+| bip_39_word_new_br_3 | balance<br>wash<br>core |  
+| bip_39_word_new_br_4 | balance<br>wash<br>core<br>coil |  
+| bip_39_word_new_br_5 | balance<br>wash<br>core<br>coil<br>like |  
+| bip_39_word_new_br_6 | balance<br>wash<br>core<br>coil<br>like<br>drama |  
+| bip_39_word_new_br_7 | balance<br>wash<br>core<br>coil<br>like<br>drama<br>cabin |  
+| bip_39_word_new_br_8 | balance<br>wash<br>core<br>coil<br>like<br>drama<br>cabin<br>neutral |  
+| bip_39_word_new_br_9 | balance<br>wash<br>core<br>coil<br>like<br>drama<br>cabin<br>neutral<br>shock |  
+| bip_39_word_new_line_1 | balance |  
+| bip_39_word_new_line_10 | balance
 wash
 core
 coil
@@ -55,7 +55,7 @@ cabin
 neutral
 shock
 hen |  
-| bip_39_word_new_line11 | balance
+| bip_39_word_new_line_11 | balance
 wash
 core
 coil
@@ -66,7 +66,7 @@ neutral
 shock
 hen
 wet |  
-| bip_39_word_new_line12 | balance
+| bip_39_word_new_line_12 | balance
 wash
 core
 coil
@@ -78,34 +78,34 @@ shock
 hen
 wet
 alien |  
-| bip_39_word_new_line2 | balance
+| bip_39_word_new_line_2 | balance
 wash |  
-| bip_39_word_new_line3 | balance
+| bip_39_word_new_line_3 | balance
 wash
 core |  
-| bip_39_word_new_line4 | balance
+| bip_39_word_new_line_4 | balance
 wash
 core
 coil |  
-| bip_39_word_new_line5 | balance
+| bip_39_word_new_line_5 | balance
 wash
 core
 coil
 like |  
-| bip_39_word_new_line6 | balance
+| bip_39_word_new_line_6 | balance
 wash
 core
 coil
 like
 drama |  
-| bip_39_word_new_line7 | balance
+| bip_39_word_new_line_7 | balance
 wash
 core
 coil
 like
 drama
 cabin |  
-| bip_39_word_new_line8 | balance
+| bip_39_word_new_line_8 | balance
 wash
 core
 coil
@@ -113,7 +113,7 @@ like
 drama
 cabin
 neutral |  
-| bip_39_word_new_line9 | balance
+| bip_39_word_new_line_9 | balance
 wash
 core
 coil

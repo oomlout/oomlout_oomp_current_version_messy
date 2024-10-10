@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | choose |  
-| bip_39_word_new_br10 | choose<br>way<br>burger<br>hurdle<br>pluck<br>upset<br>size<br>evil<br>diamond<br>hair |  
-| bip_39_word_new_br11 | choose<br>way<br>burger<br>hurdle<br>pluck<br>upset<br>size<br>evil<br>diamond<br>hair<br>ribbon |  
-| bip_39_word_new_br12 | choose<br>way<br>burger<br>hurdle<br>pluck<br>upset<br>size<br>evil<br>diamond<br>hair<br>ribbon<br>arrow |  
-| bip_39_word_new_br2 | choose<br>way |  
-| bip_39_word_new_br3 | choose<br>way<br>burger |  
-| bip_39_word_new_br4 | choose<br>way<br>burger<br>hurdle |  
-| bip_39_word_new_br5 | choose<br>way<br>burger<br>hurdle<br>pluck |  
-| bip_39_word_new_br6 | choose<br>way<br>burger<br>hurdle<br>pluck<br>upset |  
-| bip_39_word_new_br7 | choose<br>way<br>burger<br>hurdle<br>pluck<br>upset<br>size |  
-| bip_39_word_new_br8 | choose<br>way<br>burger<br>hurdle<br>pluck<br>upset<br>size<br>evil |  
-| bip_39_word_new_br9 | choose<br>way<br>burger<br>hurdle<br>pluck<br>upset<br>size<br>evil<br>diamond |  
-| bip_39_word_new_line1 | choose |  
-| bip_39_word_new_line10 | choose
+| bip_39_word_new_br_1 | choose |  
+| bip_39_word_new_br_10 | choose<br>way<br>burger<br>hurdle<br>pluck<br>upset<br>size<br>evil<br>diamond<br>hair |  
+| bip_39_word_new_br_11 | choose<br>way<br>burger<br>hurdle<br>pluck<br>upset<br>size<br>evil<br>diamond<br>hair<br>ribbon |  
+| bip_39_word_new_br_12 | choose<br>way<br>burger<br>hurdle<br>pluck<br>upset<br>size<br>evil<br>diamond<br>hair<br>ribbon<br>arrow |  
+| bip_39_word_new_br_2 | choose<br>way |  
+| bip_39_word_new_br_3 | choose<br>way<br>burger |  
+| bip_39_word_new_br_4 | choose<br>way<br>burger<br>hurdle |  
+| bip_39_word_new_br_5 | choose<br>way<br>burger<br>hurdle<br>pluck |  
+| bip_39_word_new_br_6 | choose<br>way<br>burger<br>hurdle<br>pluck<br>upset |  
+| bip_39_word_new_br_7 | choose<br>way<br>burger<br>hurdle<br>pluck<br>upset<br>size |  
+| bip_39_word_new_br_8 | choose<br>way<br>burger<br>hurdle<br>pluck<br>upset<br>size<br>evil |  
+| bip_39_word_new_br_9 | choose<br>way<br>burger<br>hurdle<br>pluck<br>upset<br>size<br>evil<br>diamond |  
+| bip_39_word_new_line_1 | choose |  
+| bip_39_word_new_line_10 | choose
 way
 burger
 hurdle
@@ -55,7 +55,7 @@ size
 evil
 diamond
 hair |  
-| bip_39_word_new_line11 | choose
+| bip_39_word_new_line_11 | choose
 way
 burger
 hurdle
@@ -66,7 +66,7 @@ evil
 diamond
 hair
 ribbon |  
-| bip_39_word_new_line12 | choose
+| bip_39_word_new_line_12 | choose
 way
 burger
 hurdle
@@ -78,34 +78,34 @@ diamond
 hair
 ribbon
 arrow |  
-| bip_39_word_new_line2 | choose
+| bip_39_word_new_line_2 | choose
 way |  
-| bip_39_word_new_line3 | choose
+| bip_39_word_new_line_3 | choose
 way
 burger |  
-| bip_39_word_new_line4 | choose
+| bip_39_word_new_line_4 | choose
 way
 burger
 hurdle |  
-| bip_39_word_new_line5 | choose
+| bip_39_word_new_line_5 | choose
 way
 burger
 hurdle
 pluck |  
-| bip_39_word_new_line6 | choose
+| bip_39_word_new_line_6 | choose
 way
 burger
 hurdle
 pluck
 upset |  
-| bip_39_word_new_line7 | choose
+| bip_39_word_new_line_7 | choose
 way
 burger
 hurdle
 pluck
 upset
 size |  
-| bip_39_word_new_line8 | choose
+| bip_39_word_new_line_8 | choose
 way
 burger
 hurdle
@@ -113,7 +113,7 @@ pluck
 upset
 size
 evil |  
-| bip_39_word_new_line9 | choose
+| bip_39_word_new_line_9 | choose
 way
 burger
 hurdle

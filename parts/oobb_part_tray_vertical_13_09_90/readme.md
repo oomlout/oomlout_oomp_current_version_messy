@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | decline |  
-| bip_39_word_new_br10 | decline<br>budget<br>under<br>earth<br>state<br>calm<br>trade<br>provide<br>shiver<br>window |  
-| bip_39_word_new_br11 | decline<br>budget<br>under<br>earth<br>state<br>calm<br>trade<br>provide<br>shiver<br>window<br>fun |  
-| bip_39_word_new_br12 | decline<br>budget<br>under<br>earth<br>state<br>calm<br>trade<br>provide<br>shiver<br>window<br>fun<br>argue |  
-| bip_39_word_new_br2 | decline<br>budget |  
-| bip_39_word_new_br3 | decline<br>budget<br>under |  
-| bip_39_word_new_br4 | decline<br>budget<br>under<br>earth |  
-| bip_39_word_new_br5 | decline<br>budget<br>under<br>earth<br>state |  
-| bip_39_word_new_br6 | decline<br>budget<br>under<br>earth<br>state<br>calm |  
-| bip_39_word_new_br7 | decline<br>budget<br>under<br>earth<br>state<br>calm<br>trade |  
-| bip_39_word_new_br8 | decline<br>budget<br>under<br>earth<br>state<br>calm<br>trade<br>provide |  
-| bip_39_word_new_br9 | decline<br>budget<br>under<br>earth<br>state<br>calm<br>trade<br>provide<br>shiver |  
-| bip_39_word_new_line1 | decline |  
-| bip_39_word_new_line10 | decline
+| bip_39_word_new_br_1 | decline |  
+| bip_39_word_new_br_10 | decline<br>budget<br>under<br>earth<br>state<br>calm<br>trade<br>provide<br>shiver<br>window |  
+| bip_39_word_new_br_11 | decline<br>budget<br>under<br>earth<br>state<br>calm<br>trade<br>provide<br>shiver<br>window<br>fun |  
+| bip_39_word_new_br_12 | decline<br>budget<br>under<br>earth<br>state<br>calm<br>trade<br>provide<br>shiver<br>window<br>fun<br>argue |  
+| bip_39_word_new_br_2 | decline<br>budget |  
+| bip_39_word_new_br_3 | decline<br>budget<br>under |  
+| bip_39_word_new_br_4 | decline<br>budget<br>under<br>earth |  
+| bip_39_word_new_br_5 | decline<br>budget<br>under<br>earth<br>state |  
+| bip_39_word_new_br_6 | decline<br>budget<br>under<br>earth<br>state<br>calm |  
+| bip_39_word_new_br_7 | decline<br>budget<br>under<br>earth<br>state<br>calm<br>trade |  
+| bip_39_word_new_br_8 | decline<br>budget<br>under<br>earth<br>state<br>calm<br>trade<br>provide |  
+| bip_39_word_new_br_9 | decline<br>budget<br>under<br>earth<br>state<br>calm<br>trade<br>provide<br>shiver |  
+| bip_39_word_new_line_1 | decline |  
+| bip_39_word_new_line_10 | decline
 budget
 under
 earth
@@ -55,7 +55,7 @@ trade
 provide
 shiver
 window |  
-| bip_39_word_new_line11 | decline
+| bip_39_word_new_line_11 | decline
 budget
 under
 earth
@@ -66,7 +66,7 @@ provide
 shiver
 window
 fun |  
-| bip_39_word_new_line12 | decline
+| bip_39_word_new_line_12 | decline
 budget
 under
 earth
@@ -78,34 +78,34 @@ shiver
 window
 fun
 argue |  
-| bip_39_word_new_line2 | decline
+| bip_39_word_new_line_2 | decline
 budget |  
-| bip_39_word_new_line3 | decline
+| bip_39_word_new_line_3 | decline
 budget
 under |  
-| bip_39_word_new_line4 | decline
+| bip_39_word_new_line_4 | decline
 budget
 under
 earth |  
-| bip_39_word_new_line5 | decline
+| bip_39_word_new_line_5 | decline
 budget
 under
 earth
 state |  
-| bip_39_word_new_line6 | decline
+| bip_39_word_new_line_6 | decline
 budget
 under
 earth
 state
 calm |  
-| bip_39_word_new_line7 | decline
+| bip_39_word_new_line_7 | decline
 budget
 under
 earth
 state
 calm
 trade |  
-| bip_39_word_new_line8 | decline
+| bip_39_word_new_line_8 | decline
 budget
 under
 earth
@@ -113,7 +113,7 @@ state
 calm
 trade
 provide |  
-| bip_39_word_new_line9 | decline
+| bip_39_word_new_line_9 | decline
 budget
 under
 earth

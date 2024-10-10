@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | diet |  
-| bip_39_word_new_br10 | diet<br>ancient<br>museum<br>color<br>cost<br>jar<br>dismiss<br>power<br>venture<br>luggage |  
-| bip_39_word_new_br11 | diet<br>ancient<br>museum<br>color<br>cost<br>jar<br>dismiss<br>power<br>venture<br>luggage<br>flight |  
-| bip_39_word_new_br12 | diet<br>ancient<br>museum<br>color<br>cost<br>jar<br>dismiss<br>power<br>venture<br>luggage<br>flight<br>already |  
-| bip_39_word_new_br2 | diet<br>ancient |  
-| bip_39_word_new_br3 | diet<br>ancient<br>museum |  
-| bip_39_word_new_br4 | diet<br>ancient<br>museum<br>color |  
-| bip_39_word_new_br5 | diet<br>ancient<br>museum<br>color<br>cost |  
-| bip_39_word_new_br6 | diet<br>ancient<br>museum<br>color<br>cost<br>jar |  
-| bip_39_word_new_br7 | diet<br>ancient<br>museum<br>color<br>cost<br>jar<br>dismiss |  
-| bip_39_word_new_br8 | diet<br>ancient<br>museum<br>color<br>cost<br>jar<br>dismiss<br>power |  
-| bip_39_word_new_br9 | diet<br>ancient<br>museum<br>color<br>cost<br>jar<br>dismiss<br>power<br>venture |  
-| bip_39_word_new_line1 | diet |  
-| bip_39_word_new_line10 | diet
+| bip_39_word_new_br_1 | diet |  
+| bip_39_word_new_br_10 | diet<br>ancient<br>museum<br>color<br>cost<br>jar<br>dismiss<br>power<br>venture<br>luggage |  
+| bip_39_word_new_br_11 | diet<br>ancient<br>museum<br>color<br>cost<br>jar<br>dismiss<br>power<br>venture<br>luggage<br>flight |  
+| bip_39_word_new_br_12 | diet<br>ancient<br>museum<br>color<br>cost<br>jar<br>dismiss<br>power<br>venture<br>luggage<br>flight<br>already |  
+| bip_39_word_new_br_2 | diet<br>ancient |  
+| bip_39_word_new_br_3 | diet<br>ancient<br>museum |  
+| bip_39_word_new_br_4 | diet<br>ancient<br>museum<br>color |  
+| bip_39_word_new_br_5 | diet<br>ancient<br>museum<br>color<br>cost |  
+| bip_39_word_new_br_6 | diet<br>ancient<br>museum<br>color<br>cost<br>jar |  
+| bip_39_word_new_br_7 | diet<br>ancient<br>museum<br>color<br>cost<br>jar<br>dismiss |  
+| bip_39_word_new_br_8 | diet<br>ancient<br>museum<br>color<br>cost<br>jar<br>dismiss<br>power |  
+| bip_39_word_new_br_9 | diet<br>ancient<br>museum<br>color<br>cost<br>jar<br>dismiss<br>power<br>venture |  
+| bip_39_word_new_line_1 | diet |  
+| bip_39_word_new_line_10 | diet
 ancient
 museum
 color
@@ -55,7 +55,7 @@ dismiss
 power
 venture
 luggage |  
-| bip_39_word_new_line11 | diet
+| bip_39_word_new_line_11 | diet
 ancient
 museum
 color
@@ -66,7 +66,7 @@ power
 venture
 luggage
 flight |  
-| bip_39_word_new_line12 | diet
+| bip_39_word_new_line_12 | diet
 ancient
 museum
 color
@@ -78,34 +78,34 @@ venture
 luggage
 flight
 already |  
-| bip_39_word_new_line2 | diet
+| bip_39_word_new_line_2 | diet
 ancient |  
-| bip_39_word_new_line3 | diet
+| bip_39_word_new_line_3 | diet
 ancient
 museum |  
-| bip_39_word_new_line4 | diet
+| bip_39_word_new_line_4 | diet
 ancient
 museum
 color |  
-| bip_39_word_new_line5 | diet
+| bip_39_word_new_line_5 | diet
 ancient
 museum
 color
 cost |  
-| bip_39_word_new_line6 | diet
+| bip_39_word_new_line_6 | diet
 ancient
 museum
 color
 cost
 jar |  
-| bip_39_word_new_line7 | diet
+| bip_39_word_new_line_7 | diet
 ancient
 museum
 color
 cost
 jar
 dismiss |  
-| bip_39_word_new_line8 | diet
+| bip_39_word_new_line_8 | diet
 ancient
 museum
 color
@@ -113,7 +113,7 @@ cost
 jar
 dismiss
 power |  
-| bip_39_word_new_line9 | diet
+| bip_39_word_new_line_9 | diet
 ancient
 museum
 color

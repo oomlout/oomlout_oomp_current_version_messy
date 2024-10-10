@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | loop |  
-| bip_39_word_new_br10 | loop<br>pole<br>topic<br>nuclear<br>useless<br>spirit<br>lesson<br>amount<br>print<br>tip |  
-| bip_39_word_new_br11 | loop<br>pole<br>topic<br>nuclear<br>useless<br>spirit<br>lesson<br>amount<br>print<br>tip<br>order |  
-| bip_39_word_new_br12 | loop<br>pole<br>topic<br>nuclear<br>useless<br>spirit<br>lesson<br>amount<br>print<br>tip<br>order<br>adapt |  
-| bip_39_word_new_br2 | loop<br>pole |  
-| bip_39_word_new_br3 | loop<br>pole<br>topic |  
-| bip_39_word_new_br4 | loop<br>pole<br>topic<br>nuclear |  
-| bip_39_word_new_br5 | loop<br>pole<br>topic<br>nuclear<br>useless |  
-| bip_39_word_new_br6 | loop<br>pole<br>topic<br>nuclear<br>useless<br>spirit |  
-| bip_39_word_new_br7 | loop<br>pole<br>topic<br>nuclear<br>useless<br>spirit<br>lesson |  
-| bip_39_word_new_br8 | loop<br>pole<br>topic<br>nuclear<br>useless<br>spirit<br>lesson<br>amount |  
-| bip_39_word_new_br9 | loop<br>pole<br>topic<br>nuclear<br>useless<br>spirit<br>lesson<br>amount<br>print |  
-| bip_39_word_new_line1 | loop |  
-| bip_39_word_new_line10 | loop
+| bip_39_word_new_br_1 | loop |  
+| bip_39_word_new_br_10 | loop<br>pole<br>topic<br>nuclear<br>useless<br>spirit<br>lesson<br>amount<br>print<br>tip |  
+| bip_39_word_new_br_11 | loop<br>pole<br>topic<br>nuclear<br>useless<br>spirit<br>lesson<br>amount<br>print<br>tip<br>order |  
+| bip_39_word_new_br_12 | loop<br>pole<br>topic<br>nuclear<br>useless<br>spirit<br>lesson<br>amount<br>print<br>tip<br>order<br>adapt |  
+| bip_39_word_new_br_2 | loop<br>pole |  
+| bip_39_word_new_br_3 | loop<br>pole<br>topic |  
+| bip_39_word_new_br_4 | loop<br>pole<br>topic<br>nuclear |  
+| bip_39_word_new_br_5 | loop<br>pole<br>topic<br>nuclear<br>useless |  
+| bip_39_word_new_br_6 | loop<br>pole<br>topic<br>nuclear<br>useless<br>spirit |  
+| bip_39_word_new_br_7 | loop<br>pole<br>topic<br>nuclear<br>useless<br>spirit<br>lesson |  
+| bip_39_word_new_br_8 | loop<br>pole<br>topic<br>nuclear<br>useless<br>spirit<br>lesson<br>amount |  
+| bip_39_word_new_br_9 | loop<br>pole<br>topic<br>nuclear<br>useless<br>spirit<br>lesson<br>amount<br>print |  
+| bip_39_word_new_line_1 | loop |  
+| bip_39_word_new_line_10 | loop
 pole
 topic
 nuclear
@@ -55,7 +55,7 @@ lesson
 amount
 print
 tip |  
-| bip_39_word_new_line11 | loop
+| bip_39_word_new_line_11 | loop
 pole
 topic
 nuclear
@@ -66,7 +66,7 @@ amount
 print
 tip
 order |  
-| bip_39_word_new_line12 | loop
+| bip_39_word_new_line_12 | loop
 pole
 topic
 nuclear
@@ -78,34 +78,34 @@ print
 tip
 order
 adapt |  
-| bip_39_word_new_line2 | loop
+| bip_39_word_new_line_2 | loop
 pole |  
-| bip_39_word_new_line3 | loop
+| bip_39_word_new_line_3 | loop
 pole
 topic |  
-| bip_39_word_new_line4 | loop
+| bip_39_word_new_line_4 | loop
 pole
 topic
 nuclear |  
-| bip_39_word_new_line5 | loop
+| bip_39_word_new_line_5 | loop
 pole
 topic
 nuclear
 useless |  
-| bip_39_word_new_line6 | loop
+| bip_39_word_new_line_6 | loop
 pole
 topic
 nuclear
 useless
 spirit |  
-| bip_39_word_new_line7 | loop
+| bip_39_word_new_line_7 | loop
 pole
 topic
 nuclear
 useless
 spirit
 lesson |  
-| bip_39_word_new_line8 | loop
+| bip_39_word_new_line_8 | loop
 pole
 topic
 nuclear
@@ -113,7 +113,7 @@ useless
 spirit
 lesson
 amount |  
-| bip_39_word_new_line9 | loop
+| bip_39_word_new_line_9 | loop
 pole
 topic
 nuclear

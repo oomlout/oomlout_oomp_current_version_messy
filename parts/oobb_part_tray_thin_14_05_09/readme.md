@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pair |  
-| bip_39_word_new_br10 | pair<br>abandon<br>phone<br>quarter<br>reject<br>extend<br>marriage<br>help<br>risk<br>fiber |  
-| bip_39_word_new_br11 | pair<br>abandon<br>phone<br>quarter<br>reject<br>extend<br>marriage<br>help<br>risk<br>fiber<br>ripple |  
-| bip_39_word_new_br12 | pair<br>abandon<br>phone<br>quarter<br>reject<br>extend<br>marriage<br>help<br>risk<br>fiber<br>ripple<br>almost |  
-| bip_39_word_new_br2 | pair<br>abandon |  
-| bip_39_word_new_br3 | pair<br>abandon<br>phone |  
-| bip_39_word_new_br4 | pair<br>abandon<br>phone<br>quarter |  
-| bip_39_word_new_br5 | pair<br>abandon<br>phone<br>quarter<br>reject |  
-| bip_39_word_new_br6 | pair<br>abandon<br>phone<br>quarter<br>reject<br>extend |  
-| bip_39_word_new_br7 | pair<br>abandon<br>phone<br>quarter<br>reject<br>extend<br>marriage |  
-| bip_39_word_new_br8 | pair<br>abandon<br>phone<br>quarter<br>reject<br>extend<br>marriage<br>help |  
-| bip_39_word_new_br9 | pair<br>abandon<br>phone<br>quarter<br>reject<br>extend<br>marriage<br>help<br>risk |  
-| bip_39_word_new_line1 | pair |  
-| bip_39_word_new_line10 | pair
+| bip_39_word_new_br_1 | pair |  
+| bip_39_word_new_br_10 | pair<br>abandon<br>phone<br>quarter<br>reject<br>extend<br>marriage<br>help<br>risk<br>fiber |  
+| bip_39_word_new_br_11 | pair<br>abandon<br>phone<br>quarter<br>reject<br>extend<br>marriage<br>help<br>risk<br>fiber<br>ripple |  
+| bip_39_word_new_br_12 | pair<br>abandon<br>phone<br>quarter<br>reject<br>extend<br>marriage<br>help<br>risk<br>fiber<br>ripple<br>almost |  
+| bip_39_word_new_br_2 | pair<br>abandon |  
+| bip_39_word_new_br_3 | pair<br>abandon<br>phone |  
+| bip_39_word_new_br_4 | pair<br>abandon<br>phone<br>quarter |  
+| bip_39_word_new_br_5 | pair<br>abandon<br>phone<br>quarter<br>reject |  
+| bip_39_word_new_br_6 | pair<br>abandon<br>phone<br>quarter<br>reject<br>extend |  
+| bip_39_word_new_br_7 | pair<br>abandon<br>phone<br>quarter<br>reject<br>extend<br>marriage |  
+| bip_39_word_new_br_8 | pair<br>abandon<br>phone<br>quarter<br>reject<br>extend<br>marriage<br>help |  
+| bip_39_word_new_br_9 | pair<br>abandon<br>phone<br>quarter<br>reject<br>extend<br>marriage<br>help<br>risk |  
+| bip_39_word_new_line_1 | pair |  
+| bip_39_word_new_line_10 | pair
 abandon
 phone
 quarter
@@ -55,7 +55,7 @@ marriage
 help
 risk
 fiber |  
-| bip_39_word_new_line11 | pair
+| bip_39_word_new_line_11 | pair
 abandon
 phone
 quarter
@@ -66,7 +66,7 @@ help
 risk
 fiber
 ripple |  
-| bip_39_word_new_line12 | pair
+| bip_39_word_new_line_12 | pair
 abandon
 phone
 quarter
@@ -78,34 +78,34 @@ risk
 fiber
 ripple
 almost |  
-| bip_39_word_new_line2 | pair
+| bip_39_word_new_line_2 | pair
 abandon |  
-| bip_39_word_new_line3 | pair
+| bip_39_word_new_line_3 | pair
 abandon
 phone |  
-| bip_39_word_new_line4 | pair
+| bip_39_word_new_line_4 | pair
 abandon
 phone
 quarter |  
-| bip_39_word_new_line5 | pair
+| bip_39_word_new_line_5 | pair
 abandon
 phone
 quarter
 reject |  
-| bip_39_word_new_line6 | pair
+| bip_39_word_new_line_6 | pair
 abandon
 phone
 quarter
 reject
 extend |  
-| bip_39_word_new_line7 | pair
+| bip_39_word_new_line_7 | pair
 abandon
 phone
 quarter
 reject
 extend
 marriage |  
-| bip_39_word_new_line8 | pair
+| bip_39_word_new_line_8 | pair
 abandon
 phone
 quarter
@@ -113,7 +113,7 @@ reject
 extend
 marriage
 help |  
-| bip_39_word_new_line9 | pair
+| bip_39_word_new_line_9 | pair
 abandon
 phone
 quarter

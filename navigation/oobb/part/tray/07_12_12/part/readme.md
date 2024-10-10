@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | scatter |  
-| bip_39_word_new_br10 | scatter<br>lab<br>burden<br>absurd<br>help<br>access<br>lunch<br>surround<br>video<br>major |  
-| bip_39_word_new_br11 | scatter<br>lab<br>burden<br>absurd<br>help<br>access<br>lunch<br>surround<br>video<br>major<br>vacuum |  
-| bip_39_word_new_br12 | scatter<br>lab<br>burden<br>absurd<br>help<br>access<br>lunch<br>surround<br>video<br>major<br>vacuum<br>afford |  
-| bip_39_word_new_br2 | scatter<br>lab |  
-| bip_39_word_new_br3 | scatter<br>lab<br>burden |  
-| bip_39_word_new_br4 | scatter<br>lab<br>burden<br>absurd |  
-| bip_39_word_new_br5 | scatter<br>lab<br>burden<br>absurd<br>help |  
-| bip_39_word_new_br6 | scatter<br>lab<br>burden<br>absurd<br>help<br>access |  
-| bip_39_word_new_br7 | scatter<br>lab<br>burden<br>absurd<br>help<br>access<br>lunch |  
-| bip_39_word_new_br8 | scatter<br>lab<br>burden<br>absurd<br>help<br>access<br>lunch<br>surround |  
-| bip_39_word_new_br9 | scatter<br>lab<br>burden<br>absurd<br>help<br>access<br>lunch<br>surround<br>video |  
-| bip_39_word_new_line1 | scatter |  
-| bip_39_word_new_line10 | scatter
+| bip_39_word_new_br_1 | scatter |  
+| bip_39_word_new_br_10 | scatter<br>lab<br>burden<br>absurd<br>help<br>access<br>lunch<br>surround<br>video<br>major |  
+| bip_39_word_new_br_11 | scatter<br>lab<br>burden<br>absurd<br>help<br>access<br>lunch<br>surround<br>video<br>major<br>vacuum |  
+| bip_39_word_new_br_12 | scatter<br>lab<br>burden<br>absurd<br>help<br>access<br>lunch<br>surround<br>video<br>major<br>vacuum<br>afford |  
+| bip_39_word_new_br_2 | scatter<br>lab |  
+| bip_39_word_new_br_3 | scatter<br>lab<br>burden |  
+| bip_39_word_new_br_4 | scatter<br>lab<br>burden<br>absurd |  
+| bip_39_word_new_br_5 | scatter<br>lab<br>burden<br>absurd<br>help |  
+| bip_39_word_new_br_6 | scatter<br>lab<br>burden<br>absurd<br>help<br>access |  
+| bip_39_word_new_br_7 | scatter<br>lab<br>burden<br>absurd<br>help<br>access<br>lunch |  
+| bip_39_word_new_br_8 | scatter<br>lab<br>burden<br>absurd<br>help<br>access<br>lunch<br>surround |  
+| bip_39_word_new_br_9 | scatter<br>lab<br>burden<br>absurd<br>help<br>access<br>lunch<br>surround<br>video |  
+| bip_39_word_new_line_1 | scatter |  
+| bip_39_word_new_line_10 | scatter
 lab
 burden
 absurd
@@ -55,7 +55,7 @@ lunch
 surround
 video
 major |  
-| bip_39_word_new_line11 | scatter
+| bip_39_word_new_line_11 | scatter
 lab
 burden
 absurd
@@ -66,7 +66,7 @@ surround
 video
 major
 vacuum |  
-| bip_39_word_new_line12 | scatter
+| bip_39_word_new_line_12 | scatter
 lab
 burden
 absurd
@@ -78,34 +78,34 @@ video
 major
 vacuum
 afford |  
-| bip_39_word_new_line2 | scatter
+| bip_39_word_new_line_2 | scatter
 lab |  
-| bip_39_word_new_line3 | scatter
+| bip_39_word_new_line_3 | scatter
 lab
 burden |  
-| bip_39_word_new_line4 | scatter
+| bip_39_word_new_line_4 | scatter
 lab
 burden
 absurd |  
-| bip_39_word_new_line5 | scatter
+| bip_39_word_new_line_5 | scatter
 lab
 burden
 absurd
 help |  
-| bip_39_word_new_line6 | scatter
+| bip_39_word_new_line_6 | scatter
 lab
 burden
 absurd
 help
 access |  
-| bip_39_word_new_line7 | scatter
+| bip_39_word_new_line_7 | scatter
 lab
 burden
 absurd
 help
 access
 lunch |  
-| bip_39_word_new_line8 | scatter
+| bip_39_word_new_line_8 | scatter
 lab
 burden
 absurd
@@ -113,7 +113,7 @@ help
 access
 lunch
 surround |  
-| bip_39_word_new_line9 | scatter
+| bip_39_word_new_line_9 | scatter
 lab
 burden
 absurd

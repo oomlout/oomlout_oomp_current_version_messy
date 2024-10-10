@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | share |  
-| bip_39_word_new_br10 | share<br>trophy<br>wrong<br>file<br>ridge<br>write<br>ladder<br>debate<br>vital<br>novel |  
-| bip_39_word_new_br11 | share<br>trophy<br>wrong<br>file<br>ridge<br>write<br>ladder<br>debate<br>vital<br>novel<br>total |  
-| bip_39_word_new_br12 | share<br>trophy<br>wrong<br>file<br>ridge<br>write<br>ladder<br>debate<br>vital<br>novel<br>total<br>album |  
-| bip_39_word_new_br2 | share<br>trophy |  
-| bip_39_word_new_br3 | share<br>trophy<br>wrong |  
-| bip_39_word_new_br4 | share<br>trophy<br>wrong<br>file |  
-| bip_39_word_new_br5 | share<br>trophy<br>wrong<br>file<br>ridge |  
-| bip_39_word_new_br6 | share<br>trophy<br>wrong<br>file<br>ridge<br>write |  
-| bip_39_word_new_br7 | share<br>trophy<br>wrong<br>file<br>ridge<br>write<br>ladder |  
-| bip_39_word_new_br8 | share<br>trophy<br>wrong<br>file<br>ridge<br>write<br>ladder<br>debate |  
-| bip_39_word_new_br9 | share<br>trophy<br>wrong<br>file<br>ridge<br>write<br>ladder<br>debate<br>vital |  
-| bip_39_word_new_line1 | share |  
-| bip_39_word_new_line10 | share
+| bip_39_word_new_br_1 | share |  
+| bip_39_word_new_br_10 | share<br>trophy<br>wrong<br>file<br>ridge<br>write<br>ladder<br>debate<br>vital<br>novel |  
+| bip_39_word_new_br_11 | share<br>trophy<br>wrong<br>file<br>ridge<br>write<br>ladder<br>debate<br>vital<br>novel<br>total |  
+| bip_39_word_new_br_12 | share<br>trophy<br>wrong<br>file<br>ridge<br>write<br>ladder<br>debate<br>vital<br>novel<br>total<br>album |  
+| bip_39_word_new_br_2 | share<br>trophy |  
+| bip_39_word_new_br_3 | share<br>trophy<br>wrong |  
+| bip_39_word_new_br_4 | share<br>trophy<br>wrong<br>file |  
+| bip_39_word_new_br_5 | share<br>trophy<br>wrong<br>file<br>ridge |  
+| bip_39_word_new_br_6 | share<br>trophy<br>wrong<br>file<br>ridge<br>write |  
+| bip_39_word_new_br_7 | share<br>trophy<br>wrong<br>file<br>ridge<br>write<br>ladder |  
+| bip_39_word_new_br_8 | share<br>trophy<br>wrong<br>file<br>ridge<br>write<br>ladder<br>debate |  
+| bip_39_word_new_br_9 | share<br>trophy<br>wrong<br>file<br>ridge<br>write<br>ladder<br>debate<br>vital |  
+| bip_39_word_new_line_1 | share |  
+| bip_39_word_new_line_10 | share
 trophy
 wrong
 file
@@ -55,7 +55,7 @@ ladder
 debate
 vital
 novel |  
-| bip_39_word_new_line11 | share
+| bip_39_word_new_line_11 | share
 trophy
 wrong
 file
@@ -66,7 +66,7 @@ debate
 vital
 novel
 total |  
-| bip_39_word_new_line12 | share
+| bip_39_word_new_line_12 | share
 trophy
 wrong
 file
@@ -78,34 +78,34 @@ vital
 novel
 total
 album |  
-| bip_39_word_new_line2 | share
+| bip_39_word_new_line_2 | share
 trophy |  
-| bip_39_word_new_line3 | share
+| bip_39_word_new_line_3 | share
 trophy
 wrong |  
-| bip_39_word_new_line4 | share
+| bip_39_word_new_line_4 | share
 trophy
 wrong
 file |  
-| bip_39_word_new_line5 | share
+| bip_39_word_new_line_5 | share
 trophy
 wrong
 file
 ridge |  
-| bip_39_word_new_line6 | share
+| bip_39_word_new_line_6 | share
 trophy
 wrong
 file
 ridge
 write |  
-| bip_39_word_new_line7 | share
+| bip_39_word_new_line_7 | share
 trophy
 wrong
 file
 ridge
 write
 ladder |  
-| bip_39_word_new_line8 | share
+| bip_39_word_new_line_8 | share
 trophy
 wrong
 file
@@ -113,7 +113,7 @@ ridge
 write
 ladder
 debate |  
-| bip_39_word_new_line9 | share
+| bip_39_word_new_line_9 | share
 trophy
 wrong
 file

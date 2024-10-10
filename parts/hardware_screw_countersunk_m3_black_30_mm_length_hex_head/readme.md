@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | purse |  
-| bip_39_word_new_br10 | purse<br>advice<br>glue<br>dignity<br>nest<br>delay<br>trim<br>shy<br>common<br>symbol |  
-| bip_39_word_new_br11 | purse<br>advice<br>glue<br>dignity<br>nest<br>delay<br>trim<br>shy<br>common<br>symbol<br>dentist |  
-| bip_39_word_new_br12 | purse<br>advice<br>glue<br>dignity<br>nest<br>delay<br>trim<br>shy<br>common<br>symbol<br>dentist<br>address |  
-| bip_39_word_new_br2 | purse<br>advice |  
-| bip_39_word_new_br3 | purse<br>advice<br>glue |  
-| bip_39_word_new_br4 | purse<br>advice<br>glue<br>dignity |  
-| bip_39_word_new_br5 | purse<br>advice<br>glue<br>dignity<br>nest |  
-| bip_39_word_new_br6 | purse<br>advice<br>glue<br>dignity<br>nest<br>delay |  
-| bip_39_word_new_br7 | purse<br>advice<br>glue<br>dignity<br>nest<br>delay<br>trim |  
-| bip_39_word_new_br8 | purse<br>advice<br>glue<br>dignity<br>nest<br>delay<br>trim<br>shy |  
-| bip_39_word_new_br9 | purse<br>advice<br>glue<br>dignity<br>nest<br>delay<br>trim<br>shy<br>common |  
-| bip_39_word_new_line1 | purse |  
-| bip_39_word_new_line10 | purse
+| bip_39_word_new_br_1 | purse |  
+| bip_39_word_new_br_10 | purse<br>advice<br>glue<br>dignity<br>nest<br>delay<br>trim<br>shy<br>common<br>symbol |  
+| bip_39_word_new_br_11 | purse<br>advice<br>glue<br>dignity<br>nest<br>delay<br>trim<br>shy<br>common<br>symbol<br>dentist |  
+| bip_39_word_new_br_12 | purse<br>advice<br>glue<br>dignity<br>nest<br>delay<br>trim<br>shy<br>common<br>symbol<br>dentist<br>address |  
+| bip_39_word_new_br_2 | purse<br>advice |  
+| bip_39_word_new_br_3 | purse<br>advice<br>glue |  
+| bip_39_word_new_br_4 | purse<br>advice<br>glue<br>dignity |  
+| bip_39_word_new_br_5 | purse<br>advice<br>glue<br>dignity<br>nest |  
+| bip_39_word_new_br_6 | purse<br>advice<br>glue<br>dignity<br>nest<br>delay |  
+| bip_39_word_new_br_7 | purse<br>advice<br>glue<br>dignity<br>nest<br>delay<br>trim |  
+| bip_39_word_new_br_8 | purse<br>advice<br>glue<br>dignity<br>nest<br>delay<br>trim<br>shy |  
+| bip_39_word_new_br_9 | purse<br>advice<br>glue<br>dignity<br>nest<br>delay<br>trim<br>shy<br>common |  
+| bip_39_word_new_line_1 | purse |  
+| bip_39_word_new_line_10 | purse
 advice
 glue
 dignity
@@ -55,7 +55,7 @@ trim
 shy
 common
 symbol |  
-| bip_39_word_new_line11 | purse
+| bip_39_word_new_line_11 | purse
 advice
 glue
 dignity
@@ -66,7 +66,7 @@ shy
 common
 symbol
 dentist |  
-| bip_39_word_new_line12 | purse
+| bip_39_word_new_line_12 | purse
 advice
 glue
 dignity
@@ -78,34 +78,34 @@ common
 symbol
 dentist
 address |  
-| bip_39_word_new_line2 | purse
+| bip_39_word_new_line_2 | purse
 advice |  
-| bip_39_word_new_line3 | purse
+| bip_39_word_new_line_3 | purse
 advice
 glue |  
-| bip_39_word_new_line4 | purse
+| bip_39_word_new_line_4 | purse
 advice
 glue
 dignity |  
-| bip_39_word_new_line5 | purse
+| bip_39_word_new_line_5 | purse
 advice
 glue
 dignity
 nest |  
-| bip_39_word_new_line6 | purse
+| bip_39_word_new_line_6 | purse
 advice
 glue
 dignity
 nest
 delay |  
-| bip_39_word_new_line7 | purse
+| bip_39_word_new_line_7 | purse
 advice
 glue
 dignity
 nest
 delay
 trim |  
-| bip_39_word_new_line8 | purse
+| bip_39_word_new_line_8 | purse
 advice
 glue
 dignity
@@ -113,7 +113,7 @@ nest
 delay
 trim
 shy |  
-| bip_39_word_new_line9 | purse
+| bip_39_word_new_line_9 | purse
 advice
 glue
 dignity

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | asthma |  
-| bip_39_word_new_br10 | asthma<br>curve<br>reopen<br>destroy<br>predict<br>mother<br>patch<br>siren<br>settle<br>warfare |  
-| bip_39_word_new_br11 | asthma<br>curve<br>reopen<br>destroy<br>predict<br>mother<br>patch<br>siren<br>settle<br>warfare<br>appear |  
-| bip_39_word_new_br12 | asthma<br>curve<br>reopen<br>destroy<br>predict<br>mother<br>patch<br>siren<br>settle<br>warfare<br>appear<br>angle |  
-| bip_39_word_new_br2 | asthma<br>curve |  
-| bip_39_word_new_br3 | asthma<br>curve<br>reopen |  
-| bip_39_word_new_br4 | asthma<br>curve<br>reopen<br>destroy |  
-| bip_39_word_new_br5 | asthma<br>curve<br>reopen<br>destroy<br>predict |  
-| bip_39_word_new_br6 | asthma<br>curve<br>reopen<br>destroy<br>predict<br>mother |  
-| bip_39_word_new_br7 | asthma<br>curve<br>reopen<br>destroy<br>predict<br>mother<br>patch |  
-| bip_39_word_new_br8 | asthma<br>curve<br>reopen<br>destroy<br>predict<br>mother<br>patch<br>siren |  
-| bip_39_word_new_br9 | asthma<br>curve<br>reopen<br>destroy<br>predict<br>mother<br>patch<br>siren<br>settle |  
-| bip_39_word_new_line1 | asthma |  
-| bip_39_word_new_line10 | asthma
+| bip_39_word_new_br_1 | asthma |  
+| bip_39_word_new_br_10 | asthma<br>curve<br>reopen<br>destroy<br>predict<br>mother<br>patch<br>siren<br>settle<br>warfare |  
+| bip_39_word_new_br_11 | asthma<br>curve<br>reopen<br>destroy<br>predict<br>mother<br>patch<br>siren<br>settle<br>warfare<br>appear |  
+| bip_39_word_new_br_12 | asthma<br>curve<br>reopen<br>destroy<br>predict<br>mother<br>patch<br>siren<br>settle<br>warfare<br>appear<br>angle |  
+| bip_39_word_new_br_2 | asthma<br>curve |  
+| bip_39_word_new_br_3 | asthma<br>curve<br>reopen |  
+| bip_39_word_new_br_4 | asthma<br>curve<br>reopen<br>destroy |  
+| bip_39_word_new_br_5 | asthma<br>curve<br>reopen<br>destroy<br>predict |  
+| bip_39_word_new_br_6 | asthma<br>curve<br>reopen<br>destroy<br>predict<br>mother |  
+| bip_39_word_new_br_7 | asthma<br>curve<br>reopen<br>destroy<br>predict<br>mother<br>patch |  
+| bip_39_word_new_br_8 | asthma<br>curve<br>reopen<br>destroy<br>predict<br>mother<br>patch<br>siren |  
+| bip_39_word_new_br_9 | asthma<br>curve<br>reopen<br>destroy<br>predict<br>mother<br>patch<br>siren<br>settle |  
+| bip_39_word_new_line_1 | asthma |  
+| bip_39_word_new_line_10 | asthma
 curve
 reopen
 destroy
@@ -55,7 +55,7 @@ patch
 siren
 settle
 warfare |  
-| bip_39_word_new_line11 | asthma
+| bip_39_word_new_line_11 | asthma
 curve
 reopen
 destroy
@@ -66,7 +66,7 @@ siren
 settle
 warfare
 appear |  
-| bip_39_word_new_line12 | asthma
+| bip_39_word_new_line_12 | asthma
 curve
 reopen
 destroy
@@ -78,34 +78,34 @@ settle
 warfare
 appear
 angle |  
-| bip_39_word_new_line2 | asthma
+| bip_39_word_new_line_2 | asthma
 curve |  
-| bip_39_word_new_line3 | asthma
+| bip_39_word_new_line_3 | asthma
 curve
 reopen |  
-| bip_39_word_new_line4 | asthma
+| bip_39_word_new_line_4 | asthma
 curve
 reopen
 destroy |  
-| bip_39_word_new_line5 | asthma
+| bip_39_word_new_line_5 | asthma
 curve
 reopen
 destroy
 predict |  
-| bip_39_word_new_line6 | asthma
+| bip_39_word_new_line_6 | asthma
 curve
 reopen
 destroy
 predict
 mother |  
-| bip_39_word_new_line7 | asthma
+| bip_39_word_new_line_7 | asthma
 curve
 reopen
 destroy
 predict
 mother
 patch |  
-| bip_39_word_new_line8 | asthma
+| bip_39_word_new_line_8 | asthma
 curve
 reopen
 destroy
@@ -113,7 +113,7 @@ predict
 mother
 patch
 siren |  
-| bip_39_word_new_line9 | asthma
+| bip_39_word_new_line_9 | asthma
 curve
 reopen
 destroy

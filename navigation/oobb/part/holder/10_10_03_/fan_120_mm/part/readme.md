@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | afraid |  
-| bip_39_word_new_br10 | afraid<br>cherry<br>harbor<br>snow<br>sketch<br>lava<br>today<br>blur<br>enroll<br>apology |  
-| bip_39_word_new_br11 | afraid<br>cherry<br>harbor<br>snow<br>sketch<br>lava<br>today<br>blur<br>enroll<br>apology<br>cotton |  
-| bip_39_word_new_br12 | afraid<br>cherry<br>harbor<br>snow<br>sketch<br>lava<br>today<br>blur<br>enroll<br>apology<br>cotton<br>apart |  
-| bip_39_word_new_br2 | afraid<br>cherry |  
-| bip_39_word_new_br3 | afraid<br>cherry<br>harbor |  
-| bip_39_word_new_br4 | afraid<br>cherry<br>harbor<br>snow |  
-| bip_39_word_new_br5 | afraid<br>cherry<br>harbor<br>snow<br>sketch |  
-| bip_39_word_new_br6 | afraid<br>cherry<br>harbor<br>snow<br>sketch<br>lava |  
-| bip_39_word_new_br7 | afraid<br>cherry<br>harbor<br>snow<br>sketch<br>lava<br>today |  
-| bip_39_word_new_br8 | afraid<br>cherry<br>harbor<br>snow<br>sketch<br>lava<br>today<br>blur |  
-| bip_39_word_new_br9 | afraid<br>cherry<br>harbor<br>snow<br>sketch<br>lava<br>today<br>blur<br>enroll |  
-| bip_39_word_new_line1 | afraid |  
-| bip_39_word_new_line10 | afraid
+| bip_39_word_new_br_1 | afraid |  
+| bip_39_word_new_br_10 | afraid<br>cherry<br>harbor<br>snow<br>sketch<br>lava<br>today<br>blur<br>enroll<br>apology |  
+| bip_39_word_new_br_11 | afraid<br>cherry<br>harbor<br>snow<br>sketch<br>lava<br>today<br>blur<br>enroll<br>apology<br>cotton |  
+| bip_39_word_new_br_12 | afraid<br>cherry<br>harbor<br>snow<br>sketch<br>lava<br>today<br>blur<br>enroll<br>apology<br>cotton<br>apart |  
+| bip_39_word_new_br_2 | afraid<br>cherry |  
+| bip_39_word_new_br_3 | afraid<br>cherry<br>harbor |  
+| bip_39_word_new_br_4 | afraid<br>cherry<br>harbor<br>snow |  
+| bip_39_word_new_br_5 | afraid<br>cherry<br>harbor<br>snow<br>sketch |  
+| bip_39_word_new_br_6 | afraid<br>cherry<br>harbor<br>snow<br>sketch<br>lava |  
+| bip_39_word_new_br_7 | afraid<br>cherry<br>harbor<br>snow<br>sketch<br>lava<br>today |  
+| bip_39_word_new_br_8 | afraid<br>cherry<br>harbor<br>snow<br>sketch<br>lava<br>today<br>blur |  
+| bip_39_word_new_br_9 | afraid<br>cherry<br>harbor<br>snow<br>sketch<br>lava<br>today<br>blur<br>enroll |  
+| bip_39_word_new_line_1 | afraid |  
+| bip_39_word_new_line_10 | afraid
 cherry
 harbor
 snow
@@ -55,7 +55,7 @@ today
 blur
 enroll
 apology |  
-| bip_39_word_new_line11 | afraid
+| bip_39_word_new_line_11 | afraid
 cherry
 harbor
 snow
@@ -66,7 +66,7 @@ blur
 enroll
 apology
 cotton |  
-| bip_39_word_new_line12 | afraid
+| bip_39_word_new_line_12 | afraid
 cherry
 harbor
 snow
@@ -78,34 +78,34 @@ enroll
 apology
 cotton
 apart |  
-| bip_39_word_new_line2 | afraid
+| bip_39_word_new_line_2 | afraid
 cherry |  
-| bip_39_word_new_line3 | afraid
+| bip_39_word_new_line_3 | afraid
 cherry
 harbor |  
-| bip_39_word_new_line4 | afraid
+| bip_39_word_new_line_4 | afraid
 cherry
 harbor
 snow |  
-| bip_39_word_new_line5 | afraid
+| bip_39_word_new_line_5 | afraid
 cherry
 harbor
 snow
 sketch |  
-| bip_39_word_new_line6 | afraid
+| bip_39_word_new_line_6 | afraid
 cherry
 harbor
 snow
 sketch
 lava |  
-| bip_39_word_new_line7 | afraid
+| bip_39_word_new_line_7 | afraid
 cherry
 harbor
 snow
 sketch
 lava
 today |  
-| bip_39_word_new_line8 | afraid
+| bip_39_word_new_line_8 | afraid
 cherry
 harbor
 snow
@@ -113,7 +113,7 @@ sketch
 lava
 today
 blur |  
-| bip_39_word_new_line9 | afraid
+| bip_39_word_new_line_9 | afraid
 cherry
 harbor
 snow

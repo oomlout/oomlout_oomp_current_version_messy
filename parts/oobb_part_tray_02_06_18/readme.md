@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | path |  
-| bip_39_word_new_br10 | path<br>face<br>boil<br>rebel<br>fog<br>bitter<br>west<br>until<br>lesson<br>sport |  
-| bip_39_word_new_br11 | path<br>face<br>boil<br>rebel<br>fog<br>bitter<br>west<br>until<br>lesson<br>sport<br>summer |  
-| bip_39_word_new_br2 | path<br>face |  
-| bip_39_word_new_br3 | path<br>face<br>boil |  
-| bip_39_word_new_br4 | path<br>face<br>boil<br>rebel |  
-| bip_39_word_new_br5 | path<br>face<br>boil<br>rebel<br>fog |  
-| bip_39_word_new_br6 | path<br>face<br>boil<br>rebel<br>fog<br>bitter |  
-| bip_39_word_new_br7 | path<br>face<br>boil<br>rebel<br>fog<br>bitter<br>west |  
-| bip_39_word_new_br8 | path<br>face<br>boil<br>rebel<br>fog<br>bitter<br>west<br>until |  
-| bip_39_word_new_br9 | path<br>face<br>boil<br>rebel<br>fog<br>bitter<br>west<br>until<br>lesson |  
-| bip_39_word_new_line1 | path |  
-| bip_39_word_new_line10 | path
+| bip_39_word_new_br_1 | path |  
+| bip_39_word_new_br_10 | path<br>face<br>boil<br>rebel<br>fog<br>bitter<br>west<br>until<br>lesson<br>sport |  
+| bip_39_word_new_br_11 | path<br>face<br>boil<br>rebel<br>fog<br>bitter<br>west<br>until<br>lesson<br>sport<br>summer |  
+| bip_39_word_new_br_2 | path<br>face |  
+| bip_39_word_new_br_3 | path<br>face<br>boil |  
+| bip_39_word_new_br_4 | path<br>face<br>boil<br>rebel |  
+| bip_39_word_new_br_5 | path<br>face<br>boil<br>rebel<br>fog |  
+| bip_39_word_new_br_6 | path<br>face<br>boil<br>rebel<br>fog<br>bitter |  
+| bip_39_word_new_br_7 | path<br>face<br>boil<br>rebel<br>fog<br>bitter<br>west |  
+| bip_39_word_new_br_8 | path<br>face<br>boil<br>rebel<br>fog<br>bitter<br>west<br>until |  
+| bip_39_word_new_br_9 | path<br>face<br>boil<br>rebel<br>fog<br>bitter<br>west<br>until<br>lesson |  
+| bip_39_word_new_line_1 | path |  
+| bip_39_word_new_line_10 | path
 face
 boil
 rebel
@@ -54,7 +54,7 @@ west
 until
 lesson
 sport |  
-| bip_39_word_new_line11 | path
+| bip_39_word_new_line_11 | path
 face
 boil
 rebel
@@ -65,34 +65,34 @@ until
 lesson
 sport
 summer |  
-| bip_39_word_new_line2 | path
+| bip_39_word_new_line_2 | path
 face |  
-| bip_39_word_new_line3 | path
+| bip_39_word_new_line_3 | path
 face
 boil |  
-| bip_39_word_new_line4 | path
+| bip_39_word_new_line_4 | path
 face
 boil
 rebel |  
-| bip_39_word_new_line5 | path
+| bip_39_word_new_line_5 | path
 face
 boil
 rebel
 fog |  
-| bip_39_word_new_line6 | path
+| bip_39_word_new_line_6 | path
 face
 boil
 rebel
 fog
 bitter |  
-| bip_39_word_new_line7 | path
+| bip_39_word_new_line_7 | path
 face
 boil
 rebel
 fog
 bitter
 west |  
-| bip_39_word_new_line8 | path
+| bip_39_word_new_line_8 | path
 face
 boil
 rebel
@@ -100,7 +100,7 @@ fog
 bitter
 west
 until |  
-| bip_39_word_new_line9 | path
+| bip_39_word_new_line_9 | path
 face
 boil
 rebel

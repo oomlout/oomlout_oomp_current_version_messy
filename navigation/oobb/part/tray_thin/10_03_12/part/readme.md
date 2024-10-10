@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | expose |  
-| bip_39_word_new_br10 | expose<br>cargo<br>question<br>host<br>wall<br>chef<br>broccoli<br>endorse<br>winner<br>unfold |  
-| bip_39_word_new_br11 | expose<br>cargo<br>question<br>host<br>wall<br>chef<br>broccoli<br>endorse<br>winner<br>unfold<br>nurse |  
-| bip_39_word_new_br12 | expose<br>cargo<br>question<br>host<br>wall<br>chef<br>broccoli<br>endorse<br>winner<br>unfold<br>nurse<br>almost |  
-| bip_39_word_new_br2 | expose<br>cargo |  
-| bip_39_word_new_br3 | expose<br>cargo<br>question |  
-| bip_39_word_new_br4 | expose<br>cargo<br>question<br>host |  
-| bip_39_word_new_br5 | expose<br>cargo<br>question<br>host<br>wall |  
-| bip_39_word_new_br6 | expose<br>cargo<br>question<br>host<br>wall<br>chef |  
-| bip_39_word_new_br7 | expose<br>cargo<br>question<br>host<br>wall<br>chef<br>broccoli |  
-| bip_39_word_new_br8 | expose<br>cargo<br>question<br>host<br>wall<br>chef<br>broccoli<br>endorse |  
-| bip_39_word_new_br9 | expose<br>cargo<br>question<br>host<br>wall<br>chef<br>broccoli<br>endorse<br>winner |  
-| bip_39_word_new_line1 | expose |  
-| bip_39_word_new_line10 | expose
+| bip_39_word_new_br_1 | expose |  
+| bip_39_word_new_br_10 | expose<br>cargo<br>question<br>host<br>wall<br>chef<br>broccoli<br>endorse<br>winner<br>unfold |  
+| bip_39_word_new_br_11 | expose<br>cargo<br>question<br>host<br>wall<br>chef<br>broccoli<br>endorse<br>winner<br>unfold<br>nurse |  
+| bip_39_word_new_br_12 | expose<br>cargo<br>question<br>host<br>wall<br>chef<br>broccoli<br>endorse<br>winner<br>unfold<br>nurse<br>almost |  
+| bip_39_word_new_br_2 | expose<br>cargo |  
+| bip_39_word_new_br_3 | expose<br>cargo<br>question |  
+| bip_39_word_new_br_4 | expose<br>cargo<br>question<br>host |  
+| bip_39_word_new_br_5 | expose<br>cargo<br>question<br>host<br>wall |  
+| bip_39_word_new_br_6 | expose<br>cargo<br>question<br>host<br>wall<br>chef |  
+| bip_39_word_new_br_7 | expose<br>cargo<br>question<br>host<br>wall<br>chef<br>broccoli |  
+| bip_39_word_new_br_8 | expose<br>cargo<br>question<br>host<br>wall<br>chef<br>broccoli<br>endorse |  
+| bip_39_word_new_br_9 | expose<br>cargo<br>question<br>host<br>wall<br>chef<br>broccoli<br>endorse<br>winner |  
+| bip_39_word_new_line_1 | expose |  
+| bip_39_word_new_line_10 | expose
 cargo
 question
 host
@@ -55,7 +55,7 @@ broccoli
 endorse
 winner
 unfold |  
-| bip_39_word_new_line11 | expose
+| bip_39_word_new_line_11 | expose
 cargo
 question
 host
@@ -66,7 +66,7 @@ endorse
 winner
 unfold
 nurse |  
-| bip_39_word_new_line12 | expose
+| bip_39_word_new_line_12 | expose
 cargo
 question
 host
@@ -78,34 +78,34 @@ winner
 unfold
 nurse
 almost |  
-| bip_39_word_new_line2 | expose
+| bip_39_word_new_line_2 | expose
 cargo |  
-| bip_39_word_new_line3 | expose
+| bip_39_word_new_line_3 | expose
 cargo
 question |  
-| bip_39_word_new_line4 | expose
+| bip_39_word_new_line_4 | expose
 cargo
 question
 host |  
-| bip_39_word_new_line5 | expose
+| bip_39_word_new_line_5 | expose
 cargo
 question
 host
 wall |  
-| bip_39_word_new_line6 | expose
+| bip_39_word_new_line_6 | expose
 cargo
 question
 host
 wall
 chef |  
-| bip_39_word_new_line7 | expose
+| bip_39_word_new_line_7 | expose
 cargo
 question
 host
 wall
 chef
 broccoli |  
-| bip_39_word_new_line8 | expose
+| bip_39_word_new_line_8 | expose
 cargo
 question
 host
@@ -113,7 +113,7 @@ wall
 chef
 broccoli
 endorse |  
-| bip_39_word_new_line9 | expose
+| bip_39_word_new_line_9 | expose
 cargo
 question
 host

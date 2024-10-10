@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | update |  
-| bip_39_word_new_br10 | update<br>barely<br>east<br>sock<br>radar<br>hand<br>idle<br>crucial<br>chicken<br>female |  
-| bip_39_word_new_br11 | update<br>barely<br>east<br>sock<br>radar<br>hand<br>idle<br>crucial<br>chicken<br>female<br>chalk |  
-| bip_39_word_new_br12 | update<br>barely<br>east<br>sock<br>radar<br>hand<br>idle<br>crucial<br>chicken<br>female<br>chalk<br>autumn |  
-| bip_39_word_new_br2 | update<br>barely |  
-| bip_39_word_new_br3 | update<br>barely<br>east |  
-| bip_39_word_new_br4 | update<br>barely<br>east<br>sock |  
-| bip_39_word_new_br5 | update<br>barely<br>east<br>sock<br>radar |  
-| bip_39_word_new_br6 | update<br>barely<br>east<br>sock<br>radar<br>hand |  
-| bip_39_word_new_br7 | update<br>barely<br>east<br>sock<br>radar<br>hand<br>idle |  
-| bip_39_word_new_br8 | update<br>barely<br>east<br>sock<br>radar<br>hand<br>idle<br>crucial |  
-| bip_39_word_new_br9 | update<br>barely<br>east<br>sock<br>radar<br>hand<br>idle<br>crucial<br>chicken |  
-| bip_39_word_new_line1 | update |  
-| bip_39_word_new_line10 | update
+| bip_39_word_new_br_1 | update |  
+| bip_39_word_new_br_10 | update<br>barely<br>east<br>sock<br>radar<br>hand<br>idle<br>crucial<br>chicken<br>female |  
+| bip_39_word_new_br_11 | update<br>barely<br>east<br>sock<br>radar<br>hand<br>idle<br>crucial<br>chicken<br>female<br>chalk |  
+| bip_39_word_new_br_12 | update<br>barely<br>east<br>sock<br>radar<br>hand<br>idle<br>crucial<br>chicken<br>female<br>chalk<br>autumn |  
+| bip_39_word_new_br_2 | update<br>barely |  
+| bip_39_word_new_br_3 | update<br>barely<br>east |  
+| bip_39_word_new_br_4 | update<br>barely<br>east<br>sock |  
+| bip_39_word_new_br_5 | update<br>barely<br>east<br>sock<br>radar |  
+| bip_39_word_new_br_6 | update<br>barely<br>east<br>sock<br>radar<br>hand |  
+| bip_39_word_new_br_7 | update<br>barely<br>east<br>sock<br>radar<br>hand<br>idle |  
+| bip_39_word_new_br_8 | update<br>barely<br>east<br>sock<br>radar<br>hand<br>idle<br>crucial |  
+| bip_39_word_new_br_9 | update<br>barely<br>east<br>sock<br>radar<br>hand<br>idle<br>crucial<br>chicken |  
+| bip_39_word_new_line_1 | update |  
+| bip_39_word_new_line_10 | update
 barely
 east
 sock
@@ -55,7 +55,7 @@ idle
 crucial
 chicken
 female |  
-| bip_39_word_new_line11 | update
+| bip_39_word_new_line_11 | update
 barely
 east
 sock
@@ -66,7 +66,7 @@ crucial
 chicken
 female
 chalk |  
-| bip_39_word_new_line12 | update
+| bip_39_word_new_line_12 | update
 barely
 east
 sock
@@ -78,34 +78,34 @@ chicken
 female
 chalk
 autumn |  
-| bip_39_word_new_line2 | update
+| bip_39_word_new_line_2 | update
 barely |  
-| bip_39_word_new_line3 | update
+| bip_39_word_new_line_3 | update
 barely
 east |  
-| bip_39_word_new_line4 | update
+| bip_39_word_new_line_4 | update
 barely
 east
 sock |  
-| bip_39_word_new_line5 | update
+| bip_39_word_new_line_5 | update
 barely
 east
 sock
 radar |  
-| bip_39_word_new_line6 | update
+| bip_39_word_new_line_6 | update
 barely
 east
 sock
 radar
 hand |  
-| bip_39_word_new_line7 | update
+| bip_39_word_new_line_7 | update
 barely
 east
 sock
 radar
 hand
 idle |  
-| bip_39_word_new_line8 | update
+| bip_39_word_new_line_8 | update
 barely
 east
 sock
@@ -113,7 +113,7 @@ radar
 hand
 idle
 crucial |  
-| bip_39_word_new_line9 | update
+| bip_39_word_new_line_9 | update
 barely
 east
 sock

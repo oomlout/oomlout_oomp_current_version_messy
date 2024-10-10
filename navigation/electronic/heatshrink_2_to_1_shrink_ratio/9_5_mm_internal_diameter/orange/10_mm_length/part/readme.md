@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | charge |  
-| bip_39_word_new_br10 | charge<br>duty<br>vast<br>genius<br>remove<br>hockey<br>random<br>renew<br>inquiry<br>scare |  
-| bip_39_word_new_br11 | charge<br>duty<br>vast<br>genius<br>remove<br>hockey<br>random<br>renew<br>inquiry<br>scare<br>absurd |  
-| bip_39_word_new_br12 | charge<br>duty<br>vast<br>genius<br>remove<br>hockey<br>random<br>renew<br>inquiry<br>scare<br>absurd<br>auto |  
-| bip_39_word_new_br2 | charge<br>duty |  
-| bip_39_word_new_br3 | charge<br>duty<br>vast |  
-| bip_39_word_new_br4 | charge<br>duty<br>vast<br>genius |  
-| bip_39_word_new_br5 | charge<br>duty<br>vast<br>genius<br>remove |  
-| bip_39_word_new_br6 | charge<br>duty<br>vast<br>genius<br>remove<br>hockey |  
-| bip_39_word_new_br7 | charge<br>duty<br>vast<br>genius<br>remove<br>hockey<br>random |  
-| bip_39_word_new_br8 | charge<br>duty<br>vast<br>genius<br>remove<br>hockey<br>random<br>renew |  
-| bip_39_word_new_br9 | charge<br>duty<br>vast<br>genius<br>remove<br>hockey<br>random<br>renew<br>inquiry |  
-| bip_39_word_new_line1 | charge |  
-| bip_39_word_new_line10 | charge
+| bip_39_word_new_br_1 | charge |  
+| bip_39_word_new_br_10 | charge<br>duty<br>vast<br>genius<br>remove<br>hockey<br>random<br>renew<br>inquiry<br>scare |  
+| bip_39_word_new_br_11 | charge<br>duty<br>vast<br>genius<br>remove<br>hockey<br>random<br>renew<br>inquiry<br>scare<br>absurd |  
+| bip_39_word_new_br_12 | charge<br>duty<br>vast<br>genius<br>remove<br>hockey<br>random<br>renew<br>inquiry<br>scare<br>absurd<br>auto |  
+| bip_39_word_new_br_2 | charge<br>duty |  
+| bip_39_word_new_br_3 | charge<br>duty<br>vast |  
+| bip_39_word_new_br_4 | charge<br>duty<br>vast<br>genius |  
+| bip_39_word_new_br_5 | charge<br>duty<br>vast<br>genius<br>remove |  
+| bip_39_word_new_br_6 | charge<br>duty<br>vast<br>genius<br>remove<br>hockey |  
+| bip_39_word_new_br_7 | charge<br>duty<br>vast<br>genius<br>remove<br>hockey<br>random |  
+| bip_39_word_new_br_8 | charge<br>duty<br>vast<br>genius<br>remove<br>hockey<br>random<br>renew |  
+| bip_39_word_new_br_9 | charge<br>duty<br>vast<br>genius<br>remove<br>hockey<br>random<br>renew<br>inquiry |  
+| bip_39_word_new_line_1 | charge |  
+| bip_39_word_new_line_10 | charge
 duty
 vast
 genius
@@ -55,7 +55,7 @@ random
 renew
 inquiry
 scare |  
-| bip_39_word_new_line11 | charge
+| bip_39_word_new_line_11 | charge
 duty
 vast
 genius
@@ -66,7 +66,7 @@ renew
 inquiry
 scare
 absurd |  
-| bip_39_word_new_line12 | charge
+| bip_39_word_new_line_12 | charge
 duty
 vast
 genius
@@ -78,34 +78,34 @@ inquiry
 scare
 absurd
 auto |  
-| bip_39_word_new_line2 | charge
+| bip_39_word_new_line_2 | charge
 duty |  
-| bip_39_word_new_line3 | charge
+| bip_39_word_new_line_3 | charge
 duty
 vast |  
-| bip_39_word_new_line4 | charge
+| bip_39_word_new_line_4 | charge
 duty
 vast
 genius |  
-| bip_39_word_new_line5 | charge
+| bip_39_word_new_line_5 | charge
 duty
 vast
 genius
 remove |  
-| bip_39_word_new_line6 | charge
+| bip_39_word_new_line_6 | charge
 duty
 vast
 genius
 remove
 hockey |  
-| bip_39_word_new_line7 | charge
+| bip_39_word_new_line_7 | charge
 duty
 vast
 genius
 remove
 hockey
 random |  
-| bip_39_word_new_line8 | charge
+| bip_39_word_new_line_8 | charge
 duty
 vast
 genius
@@ -113,7 +113,7 @@ remove
 hockey
 random
 renew |  
-| bip_39_word_new_line9 | charge
+| bip_39_word_new_line_9 | charge
 duty
 vast
 genius

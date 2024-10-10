@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | lock |  
-| bip_39_word_new_br10 | lock<br>swift<br>merry<br>combine<br>car<br>treat<br>crunch<br>dish<br>sound<br>shoe |  
-| bip_39_word_new_br11 | lock<br>swift<br>merry<br>combine<br>car<br>treat<br>crunch<br>dish<br>sound<br>shoe<br>play |  
-| bip_39_word_new_br12 | lock<br>swift<br>merry<br>combine<br>car<br>treat<br>crunch<br>dish<br>sound<br>shoe<br>play<br>abuse |  
-| bip_39_word_new_br2 | lock<br>swift |  
-| bip_39_word_new_br3 | lock<br>swift<br>merry |  
-| bip_39_word_new_br4 | lock<br>swift<br>merry<br>combine |  
-| bip_39_word_new_br5 | lock<br>swift<br>merry<br>combine<br>car |  
-| bip_39_word_new_br6 | lock<br>swift<br>merry<br>combine<br>car<br>treat |  
-| bip_39_word_new_br7 | lock<br>swift<br>merry<br>combine<br>car<br>treat<br>crunch |  
-| bip_39_word_new_br8 | lock<br>swift<br>merry<br>combine<br>car<br>treat<br>crunch<br>dish |  
-| bip_39_word_new_br9 | lock<br>swift<br>merry<br>combine<br>car<br>treat<br>crunch<br>dish<br>sound |  
-| bip_39_word_new_line1 | lock |  
-| bip_39_word_new_line10 | lock
+| bip_39_word_new_br_1 | lock |  
+| bip_39_word_new_br_10 | lock<br>swift<br>merry<br>combine<br>car<br>treat<br>crunch<br>dish<br>sound<br>shoe |  
+| bip_39_word_new_br_11 | lock<br>swift<br>merry<br>combine<br>car<br>treat<br>crunch<br>dish<br>sound<br>shoe<br>play |  
+| bip_39_word_new_br_12 | lock<br>swift<br>merry<br>combine<br>car<br>treat<br>crunch<br>dish<br>sound<br>shoe<br>play<br>abuse |  
+| bip_39_word_new_br_2 | lock<br>swift |  
+| bip_39_word_new_br_3 | lock<br>swift<br>merry |  
+| bip_39_word_new_br_4 | lock<br>swift<br>merry<br>combine |  
+| bip_39_word_new_br_5 | lock<br>swift<br>merry<br>combine<br>car |  
+| bip_39_word_new_br_6 | lock<br>swift<br>merry<br>combine<br>car<br>treat |  
+| bip_39_word_new_br_7 | lock<br>swift<br>merry<br>combine<br>car<br>treat<br>crunch |  
+| bip_39_word_new_br_8 | lock<br>swift<br>merry<br>combine<br>car<br>treat<br>crunch<br>dish |  
+| bip_39_word_new_br_9 | lock<br>swift<br>merry<br>combine<br>car<br>treat<br>crunch<br>dish<br>sound |  
+| bip_39_word_new_line_1 | lock |  
+| bip_39_word_new_line_10 | lock
 swift
 merry
 combine
@@ -55,7 +55,7 @@ crunch
 dish
 sound
 shoe |  
-| bip_39_word_new_line11 | lock
+| bip_39_word_new_line_11 | lock
 swift
 merry
 combine
@@ -66,7 +66,7 @@ dish
 sound
 shoe
 play |  
-| bip_39_word_new_line12 | lock
+| bip_39_word_new_line_12 | lock
 swift
 merry
 combine
@@ -78,34 +78,34 @@ sound
 shoe
 play
 abuse |  
-| bip_39_word_new_line2 | lock
+| bip_39_word_new_line_2 | lock
 swift |  
-| bip_39_word_new_line3 | lock
+| bip_39_word_new_line_3 | lock
 swift
 merry |  
-| bip_39_word_new_line4 | lock
+| bip_39_word_new_line_4 | lock
 swift
 merry
 combine |  
-| bip_39_word_new_line5 | lock
+| bip_39_word_new_line_5 | lock
 swift
 merry
 combine
 car |  
-| bip_39_word_new_line6 | lock
+| bip_39_word_new_line_6 | lock
 swift
 merry
 combine
 car
 treat |  
-| bip_39_word_new_line7 | lock
+| bip_39_word_new_line_7 | lock
 swift
 merry
 combine
 car
 treat
 crunch |  
-| bip_39_word_new_line8 | lock
+| bip_39_word_new_line_8 | lock
 swift
 merry
 combine
@@ -113,7 +113,7 @@ car
 treat
 crunch
 dish |  
-| bip_39_word_new_line9 | lock
+| bip_39_word_new_line_9 | lock
 swift
 merry
 combine

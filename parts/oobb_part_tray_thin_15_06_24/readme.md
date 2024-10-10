@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | save |  
-| bip_39_word_new_br10 | save<br>monkey<br>limit<br>vacant<br>move<br>cruise<br>swift<br>tomorrow<br>radar<br>town |  
-| bip_39_word_new_br11 | save<br>monkey<br>limit<br>vacant<br>move<br>cruise<br>swift<br>tomorrow<br>radar<br>town<br>nature |  
-| bip_39_word_new_br12 | save<br>monkey<br>limit<br>vacant<br>move<br>cruise<br>swift<br>tomorrow<br>radar<br>town<br>nature<br>already |  
-| bip_39_word_new_br2 | save<br>monkey |  
-| bip_39_word_new_br3 | save<br>monkey<br>limit |  
-| bip_39_word_new_br4 | save<br>monkey<br>limit<br>vacant |  
-| bip_39_word_new_br5 | save<br>monkey<br>limit<br>vacant<br>move |  
-| bip_39_word_new_br6 | save<br>monkey<br>limit<br>vacant<br>move<br>cruise |  
-| bip_39_word_new_br7 | save<br>monkey<br>limit<br>vacant<br>move<br>cruise<br>swift |  
-| bip_39_word_new_br8 | save<br>monkey<br>limit<br>vacant<br>move<br>cruise<br>swift<br>tomorrow |  
-| bip_39_word_new_br9 | save<br>monkey<br>limit<br>vacant<br>move<br>cruise<br>swift<br>tomorrow<br>radar |  
-| bip_39_word_new_line1 | save |  
-| bip_39_word_new_line10 | save
+| bip_39_word_new_br_1 | save |  
+| bip_39_word_new_br_10 | save<br>monkey<br>limit<br>vacant<br>move<br>cruise<br>swift<br>tomorrow<br>radar<br>town |  
+| bip_39_word_new_br_11 | save<br>monkey<br>limit<br>vacant<br>move<br>cruise<br>swift<br>tomorrow<br>radar<br>town<br>nature |  
+| bip_39_word_new_br_12 | save<br>monkey<br>limit<br>vacant<br>move<br>cruise<br>swift<br>tomorrow<br>radar<br>town<br>nature<br>already |  
+| bip_39_word_new_br_2 | save<br>monkey |  
+| bip_39_word_new_br_3 | save<br>monkey<br>limit |  
+| bip_39_word_new_br_4 | save<br>monkey<br>limit<br>vacant |  
+| bip_39_word_new_br_5 | save<br>monkey<br>limit<br>vacant<br>move |  
+| bip_39_word_new_br_6 | save<br>monkey<br>limit<br>vacant<br>move<br>cruise |  
+| bip_39_word_new_br_7 | save<br>monkey<br>limit<br>vacant<br>move<br>cruise<br>swift |  
+| bip_39_word_new_br_8 | save<br>monkey<br>limit<br>vacant<br>move<br>cruise<br>swift<br>tomorrow |  
+| bip_39_word_new_br_9 | save<br>monkey<br>limit<br>vacant<br>move<br>cruise<br>swift<br>tomorrow<br>radar |  
+| bip_39_word_new_line_1 | save |  
+| bip_39_word_new_line_10 | save
 monkey
 limit
 vacant
@@ -55,7 +55,7 @@ swift
 tomorrow
 radar
 town |  
-| bip_39_word_new_line11 | save
+| bip_39_word_new_line_11 | save
 monkey
 limit
 vacant
@@ -66,7 +66,7 @@ tomorrow
 radar
 town
 nature |  
-| bip_39_word_new_line12 | save
+| bip_39_word_new_line_12 | save
 monkey
 limit
 vacant
@@ -78,34 +78,34 @@ radar
 town
 nature
 already |  
-| bip_39_word_new_line2 | save
+| bip_39_word_new_line_2 | save
 monkey |  
-| bip_39_word_new_line3 | save
+| bip_39_word_new_line_3 | save
 monkey
 limit |  
-| bip_39_word_new_line4 | save
+| bip_39_word_new_line_4 | save
 monkey
 limit
 vacant |  
-| bip_39_word_new_line5 | save
+| bip_39_word_new_line_5 | save
 monkey
 limit
 vacant
 move |  
-| bip_39_word_new_line6 | save
+| bip_39_word_new_line_6 | save
 monkey
 limit
 vacant
 move
 cruise |  
-| bip_39_word_new_line7 | save
+| bip_39_word_new_line_7 | save
 monkey
 limit
 vacant
 move
 cruise
 swift |  
-| bip_39_word_new_line8 | save
+| bip_39_word_new_line_8 | save
 monkey
 limit
 vacant
@@ -113,7 +113,7 @@ move
 cruise
 swift
 tomorrow |  
-| bip_39_word_new_line9 | save
+| bip_39_word_new_line_9 | save
 monkey
 limit
 vacant

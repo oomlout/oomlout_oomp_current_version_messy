@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | program |  
-| bip_39_word_new_br10 | program<br>buffalo<br>party<br>town<br>setup<br>library<br>sentence<br>success<br>liar<br>bullet |  
-| bip_39_word_new_br11 | program<br>buffalo<br>party<br>town<br>setup<br>library<br>sentence<br>success<br>liar<br>bullet<br>winner |  
-| bip_39_word_new_br12 | program<br>buffalo<br>party<br>town<br>setup<br>library<br>sentence<br>success<br>liar<br>bullet<br>winner<br>answer |  
-| bip_39_word_new_br2 | program<br>buffalo |  
-| bip_39_word_new_br3 | program<br>buffalo<br>party |  
-| bip_39_word_new_br4 | program<br>buffalo<br>party<br>town |  
-| bip_39_word_new_br5 | program<br>buffalo<br>party<br>town<br>setup |  
-| bip_39_word_new_br6 | program<br>buffalo<br>party<br>town<br>setup<br>library |  
-| bip_39_word_new_br7 | program<br>buffalo<br>party<br>town<br>setup<br>library<br>sentence |  
-| bip_39_word_new_br8 | program<br>buffalo<br>party<br>town<br>setup<br>library<br>sentence<br>success |  
-| bip_39_word_new_br9 | program<br>buffalo<br>party<br>town<br>setup<br>library<br>sentence<br>success<br>liar |  
-| bip_39_word_new_line1 | program |  
-| bip_39_word_new_line10 | program
+| bip_39_word_new_br_1 | program |  
+| bip_39_word_new_br_10 | program<br>buffalo<br>party<br>town<br>setup<br>library<br>sentence<br>success<br>liar<br>bullet |  
+| bip_39_word_new_br_11 | program<br>buffalo<br>party<br>town<br>setup<br>library<br>sentence<br>success<br>liar<br>bullet<br>winner |  
+| bip_39_word_new_br_12 | program<br>buffalo<br>party<br>town<br>setup<br>library<br>sentence<br>success<br>liar<br>bullet<br>winner<br>answer |  
+| bip_39_word_new_br_2 | program<br>buffalo |  
+| bip_39_word_new_br_3 | program<br>buffalo<br>party |  
+| bip_39_word_new_br_4 | program<br>buffalo<br>party<br>town |  
+| bip_39_word_new_br_5 | program<br>buffalo<br>party<br>town<br>setup |  
+| bip_39_word_new_br_6 | program<br>buffalo<br>party<br>town<br>setup<br>library |  
+| bip_39_word_new_br_7 | program<br>buffalo<br>party<br>town<br>setup<br>library<br>sentence |  
+| bip_39_word_new_br_8 | program<br>buffalo<br>party<br>town<br>setup<br>library<br>sentence<br>success |  
+| bip_39_word_new_br_9 | program<br>buffalo<br>party<br>town<br>setup<br>library<br>sentence<br>success<br>liar |  
+| bip_39_word_new_line_1 | program |  
+| bip_39_word_new_line_10 | program
 buffalo
 party
 town
@@ -55,7 +55,7 @@ sentence
 success
 liar
 bullet |  
-| bip_39_word_new_line11 | program
+| bip_39_word_new_line_11 | program
 buffalo
 party
 town
@@ -66,7 +66,7 @@ success
 liar
 bullet
 winner |  
-| bip_39_word_new_line12 | program
+| bip_39_word_new_line_12 | program
 buffalo
 party
 town
@@ -78,34 +78,34 @@ liar
 bullet
 winner
 answer |  
-| bip_39_word_new_line2 | program
+| bip_39_word_new_line_2 | program
 buffalo |  
-| bip_39_word_new_line3 | program
+| bip_39_word_new_line_3 | program
 buffalo
 party |  
-| bip_39_word_new_line4 | program
+| bip_39_word_new_line_4 | program
 buffalo
 party
 town |  
-| bip_39_word_new_line5 | program
+| bip_39_word_new_line_5 | program
 buffalo
 party
 town
 setup |  
-| bip_39_word_new_line6 | program
+| bip_39_word_new_line_6 | program
 buffalo
 party
 town
 setup
 library |  
-| bip_39_word_new_line7 | program
+| bip_39_word_new_line_7 | program
 buffalo
 party
 town
 setup
 library
 sentence |  
-| bip_39_word_new_line8 | program
+| bip_39_word_new_line_8 | program
 buffalo
 party
 town
@@ -113,7 +113,7 @@ setup
 library
 sentence
 success |  
-| bip_39_word_new_line9 | program
+| bip_39_word_new_line_9 | program
 buffalo
 party
 town

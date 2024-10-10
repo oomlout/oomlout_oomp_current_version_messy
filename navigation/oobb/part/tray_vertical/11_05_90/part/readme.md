@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | jar |  
-| bip_39_word_new_br10 | jar<br>party<br>cousin<br>shrug<br>now<br>alarm<br>question<br>pattern<br>girl<br>purity |  
-| bip_39_word_new_br11 | jar<br>party<br>cousin<br>shrug<br>now<br>alarm<br>question<br>pattern<br>girl<br>purity<br>step |  
-| bip_39_word_new_br12 | jar<br>party<br>cousin<br>shrug<br>now<br>alarm<br>question<br>pattern<br>girl<br>purity<br>step<br>appear |  
-| bip_39_word_new_br2 | jar<br>party |  
-| bip_39_word_new_br3 | jar<br>party<br>cousin |  
-| bip_39_word_new_br4 | jar<br>party<br>cousin<br>shrug |  
-| bip_39_word_new_br5 | jar<br>party<br>cousin<br>shrug<br>now |  
-| bip_39_word_new_br6 | jar<br>party<br>cousin<br>shrug<br>now<br>alarm |  
-| bip_39_word_new_br7 | jar<br>party<br>cousin<br>shrug<br>now<br>alarm<br>question |  
-| bip_39_word_new_br8 | jar<br>party<br>cousin<br>shrug<br>now<br>alarm<br>question<br>pattern |  
-| bip_39_word_new_br9 | jar<br>party<br>cousin<br>shrug<br>now<br>alarm<br>question<br>pattern<br>girl |  
-| bip_39_word_new_line1 | jar |  
-| bip_39_word_new_line10 | jar
+| bip_39_word_new_br_1 | jar |  
+| bip_39_word_new_br_10 | jar<br>party<br>cousin<br>shrug<br>now<br>alarm<br>question<br>pattern<br>girl<br>purity |  
+| bip_39_word_new_br_11 | jar<br>party<br>cousin<br>shrug<br>now<br>alarm<br>question<br>pattern<br>girl<br>purity<br>step |  
+| bip_39_word_new_br_12 | jar<br>party<br>cousin<br>shrug<br>now<br>alarm<br>question<br>pattern<br>girl<br>purity<br>step<br>appear |  
+| bip_39_word_new_br_2 | jar<br>party |  
+| bip_39_word_new_br_3 | jar<br>party<br>cousin |  
+| bip_39_word_new_br_4 | jar<br>party<br>cousin<br>shrug |  
+| bip_39_word_new_br_5 | jar<br>party<br>cousin<br>shrug<br>now |  
+| bip_39_word_new_br_6 | jar<br>party<br>cousin<br>shrug<br>now<br>alarm |  
+| bip_39_word_new_br_7 | jar<br>party<br>cousin<br>shrug<br>now<br>alarm<br>question |  
+| bip_39_word_new_br_8 | jar<br>party<br>cousin<br>shrug<br>now<br>alarm<br>question<br>pattern |  
+| bip_39_word_new_br_9 | jar<br>party<br>cousin<br>shrug<br>now<br>alarm<br>question<br>pattern<br>girl |  
+| bip_39_word_new_line_1 | jar |  
+| bip_39_word_new_line_10 | jar
 party
 cousin
 shrug
@@ -55,7 +55,7 @@ question
 pattern
 girl
 purity |  
-| bip_39_word_new_line11 | jar
+| bip_39_word_new_line_11 | jar
 party
 cousin
 shrug
@@ -66,7 +66,7 @@ pattern
 girl
 purity
 step |  
-| bip_39_word_new_line12 | jar
+| bip_39_word_new_line_12 | jar
 party
 cousin
 shrug
@@ -78,34 +78,34 @@ girl
 purity
 step
 appear |  
-| bip_39_word_new_line2 | jar
+| bip_39_word_new_line_2 | jar
 party |  
-| bip_39_word_new_line3 | jar
+| bip_39_word_new_line_3 | jar
 party
 cousin |  
-| bip_39_word_new_line4 | jar
+| bip_39_word_new_line_4 | jar
 party
 cousin
 shrug |  
-| bip_39_word_new_line5 | jar
+| bip_39_word_new_line_5 | jar
 party
 cousin
 shrug
 now |  
-| bip_39_word_new_line6 | jar
+| bip_39_word_new_line_6 | jar
 party
 cousin
 shrug
 now
 alarm |  
-| bip_39_word_new_line7 | jar
+| bip_39_word_new_line_7 | jar
 party
 cousin
 shrug
 now
 alarm
 question |  
-| bip_39_word_new_line8 | jar
+| bip_39_word_new_line_8 | jar
 party
 cousin
 shrug
@@ -113,7 +113,7 @@ now
 alarm
 question
 pattern |  
-| bip_39_word_new_line9 | jar
+| bip_39_word_new_line_9 | jar
 party
 cousin
 shrug

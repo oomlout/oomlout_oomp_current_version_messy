@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | august |  
-| bip_39_word_new_br10 | august<br>napkin<br>execute<br>benefit<br>wonder<br>stomach<br>arctic<br>pupil<br>enemy<br>input |  
-| bip_39_word_new_br11 | august<br>napkin<br>execute<br>benefit<br>wonder<br>stomach<br>arctic<br>pupil<br>enemy<br>input<br>imitate |  
-| bip_39_word_new_br12 | august<br>napkin<br>execute<br>benefit<br>wonder<br>stomach<br>arctic<br>pupil<br>enemy<br>input<br>imitate<br>alter |  
-| bip_39_word_new_br2 | august<br>napkin |  
-| bip_39_word_new_br3 | august<br>napkin<br>execute |  
-| bip_39_word_new_br4 | august<br>napkin<br>execute<br>benefit |  
-| bip_39_word_new_br5 | august<br>napkin<br>execute<br>benefit<br>wonder |  
-| bip_39_word_new_br6 | august<br>napkin<br>execute<br>benefit<br>wonder<br>stomach |  
-| bip_39_word_new_br7 | august<br>napkin<br>execute<br>benefit<br>wonder<br>stomach<br>arctic |  
-| bip_39_word_new_br8 | august<br>napkin<br>execute<br>benefit<br>wonder<br>stomach<br>arctic<br>pupil |  
-| bip_39_word_new_br9 | august<br>napkin<br>execute<br>benefit<br>wonder<br>stomach<br>arctic<br>pupil<br>enemy |  
-| bip_39_word_new_line1 | august |  
-| bip_39_word_new_line10 | august
+| bip_39_word_new_br_1 | august |  
+| bip_39_word_new_br_10 | august<br>napkin<br>execute<br>benefit<br>wonder<br>stomach<br>arctic<br>pupil<br>enemy<br>input |  
+| bip_39_word_new_br_11 | august<br>napkin<br>execute<br>benefit<br>wonder<br>stomach<br>arctic<br>pupil<br>enemy<br>input<br>imitate |  
+| bip_39_word_new_br_12 | august<br>napkin<br>execute<br>benefit<br>wonder<br>stomach<br>arctic<br>pupil<br>enemy<br>input<br>imitate<br>alter |  
+| bip_39_word_new_br_2 | august<br>napkin |  
+| bip_39_word_new_br_3 | august<br>napkin<br>execute |  
+| bip_39_word_new_br_4 | august<br>napkin<br>execute<br>benefit |  
+| bip_39_word_new_br_5 | august<br>napkin<br>execute<br>benefit<br>wonder |  
+| bip_39_word_new_br_6 | august<br>napkin<br>execute<br>benefit<br>wonder<br>stomach |  
+| bip_39_word_new_br_7 | august<br>napkin<br>execute<br>benefit<br>wonder<br>stomach<br>arctic |  
+| bip_39_word_new_br_8 | august<br>napkin<br>execute<br>benefit<br>wonder<br>stomach<br>arctic<br>pupil |  
+| bip_39_word_new_br_9 | august<br>napkin<br>execute<br>benefit<br>wonder<br>stomach<br>arctic<br>pupil<br>enemy |  
+| bip_39_word_new_line_1 | august |  
+| bip_39_word_new_line_10 | august
 napkin
 execute
 benefit
@@ -55,7 +55,7 @@ arctic
 pupil
 enemy
 input |  
-| bip_39_word_new_line11 | august
+| bip_39_word_new_line_11 | august
 napkin
 execute
 benefit
@@ -66,7 +66,7 @@ pupil
 enemy
 input
 imitate |  
-| bip_39_word_new_line12 | august
+| bip_39_word_new_line_12 | august
 napkin
 execute
 benefit
@@ -78,34 +78,34 @@ enemy
 input
 imitate
 alter |  
-| bip_39_word_new_line2 | august
+| bip_39_word_new_line_2 | august
 napkin |  
-| bip_39_word_new_line3 | august
+| bip_39_word_new_line_3 | august
 napkin
 execute |  
-| bip_39_word_new_line4 | august
+| bip_39_word_new_line_4 | august
 napkin
 execute
 benefit |  
-| bip_39_word_new_line5 | august
+| bip_39_word_new_line_5 | august
 napkin
 execute
 benefit
 wonder |  
-| bip_39_word_new_line6 | august
+| bip_39_word_new_line_6 | august
 napkin
 execute
 benefit
 wonder
 stomach |  
-| bip_39_word_new_line7 | august
+| bip_39_word_new_line_7 | august
 napkin
 execute
 benefit
 wonder
 stomach
 arctic |  
-| bip_39_word_new_line8 | august
+| bip_39_word_new_line_8 | august
 napkin
 execute
 benefit
@@ -113,7 +113,7 @@ wonder
 stomach
 arctic
 pupil |  
-| bip_39_word_new_line9 | august
+| bip_39_word_new_line_9 | august
 napkin
 execute
 benefit

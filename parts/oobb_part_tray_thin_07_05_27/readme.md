@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dog |  
-| bip_39_word_new_br10 | dog<br>honey<br>fade<br>kiss<br>antique<br>trap<br>often<br>brain<br>find<br>cradle |  
-| bip_39_word_new_br11 | dog<br>honey<br>fade<br>kiss<br>antique<br>trap<br>often<br>brain<br>find<br>cradle<br>monster |  
-| bip_39_word_new_br12 | dog<br>honey<br>fade<br>kiss<br>antique<br>trap<br>often<br>brain<br>find<br>cradle<br>monster<br>ancient |  
-| bip_39_word_new_br2 | dog<br>honey |  
-| bip_39_word_new_br3 | dog<br>honey<br>fade |  
-| bip_39_word_new_br4 | dog<br>honey<br>fade<br>kiss |  
-| bip_39_word_new_br5 | dog<br>honey<br>fade<br>kiss<br>antique |  
-| bip_39_word_new_br6 | dog<br>honey<br>fade<br>kiss<br>antique<br>trap |  
-| bip_39_word_new_br7 | dog<br>honey<br>fade<br>kiss<br>antique<br>trap<br>often |  
-| bip_39_word_new_br8 | dog<br>honey<br>fade<br>kiss<br>antique<br>trap<br>often<br>brain |  
-| bip_39_word_new_br9 | dog<br>honey<br>fade<br>kiss<br>antique<br>trap<br>often<br>brain<br>find |  
-| bip_39_word_new_line1 | dog |  
-| bip_39_word_new_line10 | dog
+| bip_39_word_new_br_1 | dog |  
+| bip_39_word_new_br_10 | dog<br>honey<br>fade<br>kiss<br>antique<br>trap<br>often<br>brain<br>find<br>cradle |  
+| bip_39_word_new_br_11 | dog<br>honey<br>fade<br>kiss<br>antique<br>trap<br>often<br>brain<br>find<br>cradle<br>monster |  
+| bip_39_word_new_br_12 | dog<br>honey<br>fade<br>kiss<br>antique<br>trap<br>often<br>brain<br>find<br>cradle<br>monster<br>ancient |  
+| bip_39_word_new_br_2 | dog<br>honey |  
+| bip_39_word_new_br_3 | dog<br>honey<br>fade |  
+| bip_39_word_new_br_4 | dog<br>honey<br>fade<br>kiss |  
+| bip_39_word_new_br_5 | dog<br>honey<br>fade<br>kiss<br>antique |  
+| bip_39_word_new_br_6 | dog<br>honey<br>fade<br>kiss<br>antique<br>trap |  
+| bip_39_word_new_br_7 | dog<br>honey<br>fade<br>kiss<br>antique<br>trap<br>often |  
+| bip_39_word_new_br_8 | dog<br>honey<br>fade<br>kiss<br>antique<br>trap<br>often<br>brain |  
+| bip_39_word_new_br_9 | dog<br>honey<br>fade<br>kiss<br>antique<br>trap<br>often<br>brain<br>find |  
+| bip_39_word_new_line_1 | dog |  
+| bip_39_word_new_line_10 | dog
 honey
 fade
 kiss
@@ -55,7 +55,7 @@ often
 brain
 find
 cradle |  
-| bip_39_word_new_line11 | dog
+| bip_39_word_new_line_11 | dog
 honey
 fade
 kiss
@@ -66,7 +66,7 @@ brain
 find
 cradle
 monster |  
-| bip_39_word_new_line12 | dog
+| bip_39_word_new_line_12 | dog
 honey
 fade
 kiss
@@ -78,34 +78,34 @@ find
 cradle
 monster
 ancient |  
-| bip_39_word_new_line2 | dog
+| bip_39_word_new_line_2 | dog
 honey |  
-| bip_39_word_new_line3 | dog
+| bip_39_word_new_line_3 | dog
 honey
 fade |  
-| bip_39_word_new_line4 | dog
+| bip_39_word_new_line_4 | dog
 honey
 fade
 kiss |  
-| bip_39_word_new_line5 | dog
+| bip_39_word_new_line_5 | dog
 honey
 fade
 kiss
 antique |  
-| bip_39_word_new_line6 | dog
+| bip_39_word_new_line_6 | dog
 honey
 fade
 kiss
 antique
 trap |  
-| bip_39_word_new_line7 | dog
+| bip_39_word_new_line_7 | dog
 honey
 fade
 kiss
 antique
 trap
 often |  
-| bip_39_word_new_line8 | dog
+| bip_39_word_new_line_8 | dog
 honey
 fade
 kiss
@@ -113,7 +113,7 @@ antique
 trap
 often
 brain |  
-| bip_39_word_new_line9 | dog
+| bip_39_word_new_line_9 | dog
 honey
 fade
 kiss

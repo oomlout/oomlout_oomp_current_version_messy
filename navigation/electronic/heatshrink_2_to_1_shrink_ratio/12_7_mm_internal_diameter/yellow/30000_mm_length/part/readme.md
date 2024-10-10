@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | broken |  
-| bip_39_word_new_br10 | broken<br>easy<br>turn<br>attack<br>blouse<br>program<br>coin<br>library<br>domain<br>echo |  
-| bip_39_word_new_br11 | broken<br>easy<br>turn<br>attack<br>blouse<br>program<br>coin<br>library<br>domain<br>echo<br>powder |  
-| bip_39_word_new_br12 | broken<br>easy<br>turn<br>attack<br>blouse<br>program<br>coin<br>library<br>domain<br>echo<br>powder<br>accuse |  
-| bip_39_word_new_br2 | broken<br>easy |  
-| bip_39_word_new_br3 | broken<br>easy<br>turn |  
-| bip_39_word_new_br4 | broken<br>easy<br>turn<br>attack |  
-| bip_39_word_new_br5 | broken<br>easy<br>turn<br>attack<br>blouse |  
-| bip_39_word_new_br6 | broken<br>easy<br>turn<br>attack<br>blouse<br>program |  
-| bip_39_word_new_br7 | broken<br>easy<br>turn<br>attack<br>blouse<br>program<br>coin |  
-| bip_39_word_new_br8 | broken<br>easy<br>turn<br>attack<br>blouse<br>program<br>coin<br>library |  
-| bip_39_word_new_br9 | broken<br>easy<br>turn<br>attack<br>blouse<br>program<br>coin<br>library<br>domain |  
-| bip_39_word_new_line1 | broken |  
-| bip_39_word_new_line10 | broken
+| bip_39_word_new_br_1 | broken |  
+| bip_39_word_new_br_10 | broken<br>easy<br>turn<br>attack<br>blouse<br>program<br>coin<br>library<br>domain<br>echo |  
+| bip_39_word_new_br_11 | broken<br>easy<br>turn<br>attack<br>blouse<br>program<br>coin<br>library<br>domain<br>echo<br>powder |  
+| bip_39_word_new_br_12 | broken<br>easy<br>turn<br>attack<br>blouse<br>program<br>coin<br>library<br>domain<br>echo<br>powder<br>accuse |  
+| bip_39_word_new_br_2 | broken<br>easy |  
+| bip_39_word_new_br_3 | broken<br>easy<br>turn |  
+| bip_39_word_new_br_4 | broken<br>easy<br>turn<br>attack |  
+| bip_39_word_new_br_5 | broken<br>easy<br>turn<br>attack<br>blouse |  
+| bip_39_word_new_br_6 | broken<br>easy<br>turn<br>attack<br>blouse<br>program |  
+| bip_39_word_new_br_7 | broken<br>easy<br>turn<br>attack<br>blouse<br>program<br>coin |  
+| bip_39_word_new_br_8 | broken<br>easy<br>turn<br>attack<br>blouse<br>program<br>coin<br>library |  
+| bip_39_word_new_br_9 | broken<br>easy<br>turn<br>attack<br>blouse<br>program<br>coin<br>library<br>domain |  
+| bip_39_word_new_line_1 | broken |  
+| bip_39_word_new_line_10 | broken
 easy
 turn
 attack
@@ -55,7 +55,7 @@ coin
 library
 domain
 echo |  
-| bip_39_word_new_line11 | broken
+| bip_39_word_new_line_11 | broken
 easy
 turn
 attack
@@ -66,7 +66,7 @@ library
 domain
 echo
 powder |  
-| bip_39_word_new_line12 | broken
+| bip_39_word_new_line_12 | broken
 easy
 turn
 attack
@@ -78,34 +78,34 @@ domain
 echo
 powder
 accuse |  
-| bip_39_word_new_line2 | broken
+| bip_39_word_new_line_2 | broken
 easy |  
-| bip_39_word_new_line3 | broken
+| bip_39_word_new_line_3 | broken
 easy
 turn |  
-| bip_39_word_new_line4 | broken
+| bip_39_word_new_line_4 | broken
 easy
 turn
 attack |  
-| bip_39_word_new_line5 | broken
+| bip_39_word_new_line_5 | broken
 easy
 turn
 attack
 blouse |  
-| bip_39_word_new_line6 | broken
+| bip_39_word_new_line_6 | broken
 easy
 turn
 attack
 blouse
 program |  
-| bip_39_word_new_line7 | broken
+| bip_39_word_new_line_7 | broken
 easy
 turn
 attack
 blouse
 program
 coin |  
-| bip_39_word_new_line8 | broken
+| bip_39_word_new_line_8 | broken
 easy
 turn
 attack
@@ -113,7 +113,7 @@ blouse
 program
 coin
 library |  
-| bip_39_word_new_line9 | broken
+| bip_39_word_new_line_9 | broken
 easy
 turn
 attack

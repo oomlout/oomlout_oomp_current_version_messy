@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | swap |  
-| bip_39_word_new_br10 | swap<br>have<br>transfer<br>wheel<br>crouch<br>nation<br>ladder<br>stone<br>board<br>clump |  
-| bip_39_word_new_br11 | swap<br>have<br>transfer<br>wheel<br>crouch<br>nation<br>ladder<br>stone<br>board<br>clump<br>dish |  
-| bip_39_word_new_br12 | swap<br>have<br>transfer<br>wheel<br>crouch<br>nation<br>ladder<br>stone<br>board<br>clump<br>dish<br>aim |  
-| bip_39_word_new_br2 | swap<br>have |  
-| bip_39_word_new_br3 | swap<br>have<br>transfer |  
-| bip_39_word_new_br4 | swap<br>have<br>transfer<br>wheel |  
-| bip_39_word_new_br5 | swap<br>have<br>transfer<br>wheel<br>crouch |  
-| bip_39_word_new_br6 | swap<br>have<br>transfer<br>wheel<br>crouch<br>nation |  
-| bip_39_word_new_br7 | swap<br>have<br>transfer<br>wheel<br>crouch<br>nation<br>ladder |  
-| bip_39_word_new_br8 | swap<br>have<br>transfer<br>wheel<br>crouch<br>nation<br>ladder<br>stone |  
-| bip_39_word_new_br9 | swap<br>have<br>transfer<br>wheel<br>crouch<br>nation<br>ladder<br>stone<br>board |  
-| bip_39_word_new_line1 | swap |  
-| bip_39_word_new_line10 | swap
+| bip_39_word_new_br_1 | swap |  
+| bip_39_word_new_br_10 | swap<br>have<br>transfer<br>wheel<br>crouch<br>nation<br>ladder<br>stone<br>board<br>clump |  
+| bip_39_word_new_br_11 | swap<br>have<br>transfer<br>wheel<br>crouch<br>nation<br>ladder<br>stone<br>board<br>clump<br>dish |  
+| bip_39_word_new_br_12 | swap<br>have<br>transfer<br>wheel<br>crouch<br>nation<br>ladder<br>stone<br>board<br>clump<br>dish<br>aim |  
+| bip_39_word_new_br_2 | swap<br>have |  
+| bip_39_word_new_br_3 | swap<br>have<br>transfer |  
+| bip_39_word_new_br_4 | swap<br>have<br>transfer<br>wheel |  
+| bip_39_word_new_br_5 | swap<br>have<br>transfer<br>wheel<br>crouch |  
+| bip_39_word_new_br_6 | swap<br>have<br>transfer<br>wheel<br>crouch<br>nation |  
+| bip_39_word_new_br_7 | swap<br>have<br>transfer<br>wheel<br>crouch<br>nation<br>ladder |  
+| bip_39_word_new_br_8 | swap<br>have<br>transfer<br>wheel<br>crouch<br>nation<br>ladder<br>stone |  
+| bip_39_word_new_br_9 | swap<br>have<br>transfer<br>wheel<br>crouch<br>nation<br>ladder<br>stone<br>board |  
+| bip_39_word_new_line_1 | swap |  
+| bip_39_word_new_line_10 | swap
 have
 transfer
 wheel
@@ -55,7 +55,7 @@ ladder
 stone
 board
 clump |  
-| bip_39_word_new_line11 | swap
+| bip_39_word_new_line_11 | swap
 have
 transfer
 wheel
@@ -66,7 +66,7 @@ stone
 board
 clump
 dish |  
-| bip_39_word_new_line12 | swap
+| bip_39_word_new_line_12 | swap
 have
 transfer
 wheel
@@ -78,34 +78,34 @@ board
 clump
 dish
 aim |  
-| bip_39_word_new_line2 | swap
+| bip_39_word_new_line_2 | swap
 have |  
-| bip_39_word_new_line3 | swap
+| bip_39_word_new_line_3 | swap
 have
 transfer |  
-| bip_39_word_new_line4 | swap
+| bip_39_word_new_line_4 | swap
 have
 transfer
 wheel |  
-| bip_39_word_new_line5 | swap
+| bip_39_word_new_line_5 | swap
 have
 transfer
 wheel
 crouch |  
-| bip_39_word_new_line6 | swap
+| bip_39_word_new_line_6 | swap
 have
 transfer
 wheel
 crouch
 nation |  
-| bip_39_word_new_line7 | swap
+| bip_39_word_new_line_7 | swap
 have
 transfer
 wheel
 crouch
 nation
 ladder |  
-| bip_39_word_new_line8 | swap
+| bip_39_word_new_line_8 | swap
 have
 transfer
 wheel
@@ -113,7 +113,7 @@ crouch
 nation
 ladder
 stone |  
-| bip_39_word_new_line9 | swap
+| bip_39_word_new_line_9 | swap
 have
 transfer
 wheel

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | add |  
-| bip_39_word_new_br10 | add<br>canvas<br>call<br>tiny<br>govern<br>slab<br>half<br>kid<br>inject<br>weasel |  
-| bip_39_word_new_br11 | add<br>canvas<br>call<br>tiny<br>govern<br>slab<br>half<br>kid<br>inject<br>weasel<br>convince |  
-| bip_39_word_new_br12 | add<br>canvas<br>call<br>tiny<br>govern<br>slab<br>half<br>kid<br>inject<br>weasel<br>convince<br>artefact |  
-| bip_39_word_new_br2 | add<br>canvas |  
-| bip_39_word_new_br3 | add<br>canvas<br>call |  
-| bip_39_word_new_br4 | add<br>canvas<br>call<br>tiny |  
-| bip_39_word_new_br5 | add<br>canvas<br>call<br>tiny<br>govern |  
-| bip_39_word_new_br6 | add<br>canvas<br>call<br>tiny<br>govern<br>slab |  
-| bip_39_word_new_br7 | add<br>canvas<br>call<br>tiny<br>govern<br>slab<br>half |  
-| bip_39_word_new_br8 | add<br>canvas<br>call<br>tiny<br>govern<br>slab<br>half<br>kid |  
-| bip_39_word_new_br9 | add<br>canvas<br>call<br>tiny<br>govern<br>slab<br>half<br>kid<br>inject |  
-| bip_39_word_new_line1 | add |  
-| bip_39_word_new_line10 | add
+| bip_39_word_new_br_1 | add |  
+| bip_39_word_new_br_10 | add<br>canvas<br>call<br>tiny<br>govern<br>slab<br>half<br>kid<br>inject<br>weasel |  
+| bip_39_word_new_br_11 | add<br>canvas<br>call<br>tiny<br>govern<br>slab<br>half<br>kid<br>inject<br>weasel<br>convince |  
+| bip_39_word_new_br_12 | add<br>canvas<br>call<br>tiny<br>govern<br>slab<br>half<br>kid<br>inject<br>weasel<br>convince<br>artefact |  
+| bip_39_word_new_br_2 | add<br>canvas |  
+| bip_39_word_new_br_3 | add<br>canvas<br>call |  
+| bip_39_word_new_br_4 | add<br>canvas<br>call<br>tiny |  
+| bip_39_word_new_br_5 | add<br>canvas<br>call<br>tiny<br>govern |  
+| bip_39_word_new_br_6 | add<br>canvas<br>call<br>tiny<br>govern<br>slab |  
+| bip_39_word_new_br_7 | add<br>canvas<br>call<br>tiny<br>govern<br>slab<br>half |  
+| bip_39_word_new_br_8 | add<br>canvas<br>call<br>tiny<br>govern<br>slab<br>half<br>kid |  
+| bip_39_word_new_br_9 | add<br>canvas<br>call<br>tiny<br>govern<br>slab<br>half<br>kid<br>inject |  
+| bip_39_word_new_line_1 | add |  
+| bip_39_word_new_line_10 | add
 canvas
 call
 tiny
@@ -55,7 +55,7 @@ half
 kid
 inject
 weasel |  
-| bip_39_word_new_line11 | add
+| bip_39_word_new_line_11 | add
 canvas
 call
 tiny
@@ -66,7 +66,7 @@ kid
 inject
 weasel
 convince |  
-| bip_39_word_new_line12 | add
+| bip_39_word_new_line_12 | add
 canvas
 call
 tiny
@@ -78,34 +78,34 @@ inject
 weasel
 convince
 artefact |  
-| bip_39_word_new_line2 | add
+| bip_39_word_new_line_2 | add
 canvas |  
-| bip_39_word_new_line3 | add
+| bip_39_word_new_line_3 | add
 canvas
 call |  
-| bip_39_word_new_line4 | add
+| bip_39_word_new_line_4 | add
 canvas
 call
 tiny |  
-| bip_39_word_new_line5 | add
+| bip_39_word_new_line_5 | add
 canvas
 call
 tiny
 govern |  
-| bip_39_word_new_line6 | add
+| bip_39_word_new_line_6 | add
 canvas
 call
 tiny
 govern
 slab |  
-| bip_39_word_new_line7 | add
+| bip_39_word_new_line_7 | add
 canvas
 call
 tiny
 govern
 slab
 half |  
-| bip_39_word_new_line8 | add
+| bip_39_word_new_line_8 | add
 canvas
 call
 tiny
@@ -113,7 +113,7 @@ govern
 slab
 half
 kid |  
-| bip_39_word_new_line9 | add
+| bip_39_word_new_line_9 | add
 canvas
 call
 tiny

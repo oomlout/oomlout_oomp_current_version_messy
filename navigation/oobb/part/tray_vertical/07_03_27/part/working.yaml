@@ -1,17 +1,17 @@
-bip_39_word_new_br1: direct
-bip_39_word_new_br10: direct<br>session<br>ship<br>snack<br>tennis<br>burden<br>chair<br>olympic<br>reduce<br>hour
-bip_39_word_new_br11: direct<br>session<br>ship<br>snack<br>tennis<br>burden<br>chair<br>olympic<br>reduce<br>hour<br>nasty
-bip_39_word_new_br12: direct<br>session<br>ship<br>snack<br>tennis<br>burden<br>chair<br>olympic<br>reduce<br>hour<br>nasty<br>approve
-bip_39_word_new_br2: direct<br>session
-bip_39_word_new_br3: direct<br>session<br>ship
-bip_39_word_new_br4: direct<br>session<br>ship<br>snack
-bip_39_word_new_br5: direct<br>session<br>ship<br>snack<br>tennis
-bip_39_word_new_br6: direct<br>session<br>ship<br>snack<br>tennis<br>burden
-bip_39_word_new_br7: direct<br>session<br>ship<br>snack<br>tennis<br>burden<br>chair
-bip_39_word_new_br8: direct<br>session<br>ship<br>snack<br>tennis<br>burden<br>chair<br>olympic
-bip_39_word_new_br9: direct<br>session<br>ship<br>snack<br>tennis<br>burden<br>chair<br>olympic<br>reduce
-bip_39_word_new_line1: direct
-bip_39_word_new_line10: 'direct
+bip_39_word_new_br_1: direct
+bip_39_word_new_br_10: direct<br>session<br>ship<br>snack<br>tennis<br>burden<br>chair<br>olympic<br>reduce<br>hour
+bip_39_word_new_br_11: direct<br>session<br>ship<br>snack<br>tennis<br>burden<br>chair<br>olympic<br>reduce<br>hour<br>nasty
+bip_39_word_new_br_12: direct<br>session<br>ship<br>snack<br>tennis<br>burden<br>chair<br>olympic<br>reduce<br>hour<br>nasty<br>approve
+bip_39_word_new_br_2: direct<br>session
+bip_39_word_new_br_3: direct<br>session<br>ship
+bip_39_word_new_br_4: direct<br>session<br>ship<br>snack
+bip_39_word_new_br_5: direct<br>session<br>ship<br>snack<br>tennis
+bip_39_word_new_br_6: direct<br>session<br>ship<br>snack<br>tennis<br>burden
+bip_39_word_new_br_7: direct<br>session<br>ship<br>snack<br>tennis<br>burden<br>chair
+bip_39_word_new_br_8: direct<br>session<br>ship<br>snack<br>tennis<br>burden<br>chair<br>olympic
+bip_39_word_new_br_9: direct<br>session<br>ship<br>snack<br>tennis<br>burden<br>chair<br>olympic<br>reduce
+bip_39_word_new_line_1: direct
+bip_39_word_new_line_10: 'direct
 
   session
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'direct
   reduce
 
   hour'
-bip_39_word_new_line11: 'direct
+bip_39_word_new_line_11: 'direct
 
   session
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'direct
   hour
 
   nasty'
-bip_39_word_new_line12: 'direct
+bip_39_word_new_line_12: 'direct
 
   session
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'direct
   nasty
 
   approve'
-bip_39_word_new_line2: 'direct
+bip_39_word_new_line_2: 'direct
 
   session'
-bip_39_word_new_line3: 'direct
+bip_39_word_new_line_3: 'direct
 
   session
 
   ship'
-bip_39_word_new_line4: 'direct
+bip_39_word_new_line_4: 'direct
 
   session
 
   ship
 
   snack'
-bip_39_word_new_line5: 'direct
+bip_39_word_new_line_5: 'direct
 
   session
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'direct
   snack
 
   tennis'
-bip_39_word_new_line6: 'direct
+bip_39_word_new_line_6: 'direct
 
   session
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'direct
   tennis
 
   burden'
-bip_39_word_new_line7: 'direct
+bip_39_word_new_line_7: 'direct
 
   session
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'direct
   burden
 
   chair'
-bip_39_word_new_line8: 'direct
+bip_39_word_new_line_8: 'direct
 
   session
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'direct
   chair
 
   olympic'
-bip_39_word_new_line9: 'direct
+bip_39_word_new_line_9: 'direct
 
   session
 

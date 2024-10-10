@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | increase |  
-| bip_39_word_new_br10 | increase<br>craft<br>slogan<br>this<br>artefact<br>project<br>solid<br>accident<br>payment<br>melt |  
-| bip_39_word_new_br11 | increase<br>craft<br>slogan<br>this<br>artefact<br>project<br>solid<br>accident<br>payment<br>melt<br>spread |  
-| bip_39_word_new_br12 | increase<br>craft<br>slogan<br>this<br>artefact<br>project<br>solid<br>accident<br>payment<br>melt<br>spread<br>august |  
-| bip_39_word_new_br2 | increase<br>craft |  
-| bip_39_word_new_br3 | increase<br>craft<br>slogan |  
-| bip_39_word_new_br4 | increase<br>craft<br>slogan<br>this |  
-| bip_39_word_new_br5 | increase<br>craft<br>slogan<br>this<br>artefact |  
-| bip_39_word_new_br6 | increase<br>craft<br>slogan<br>this<br>artefact<br>project |  
-| bip_39_word_new_br7 | increase<br>craft<br>slogan<br>this<br>artefact<br>project<br>solid |  
-| bip_39_word_new_br8 | increase<br>craft<br>slogan<br>this<br>artefact<br>project<br>solid<br>accident |  
-| bip_39_word_new_br9 | increase<br>craft<br>slogan<br>this<br>artefact<br>project<br>solid<br>accident<br>payment |  
-| bip_39_word_new_line1 | increase |  
-| bip_39_word_new_line10 | increase
+| bip_39_word_new_br_1 | increase |  
+| bip_39_word_new_br_10 | increase<br>craft<br>slogan<br>this<br>artefact<br>project<br>solid<br>accident<br>payment<br>melt |  
+| bip_39_word_new_br_11 | increase<br>craft<br>slogan<br>this<br>artefact<br>project<br>solid<br>accident<br>payment<br>melt<br>spread |  
+| bip_39_word_new_br_12 | increase<br>craft<br>slogan<br>this<br>artefact<br>project<br>solid<br>accident<br>payment<br>melt<br>spread<br>august |  
+| bip_39_word_new_br_2 | increase<br>craft |  
+| bip_39_word_new_br_3 | increase<br>craft<br>slogan |  
+| bip_39_word_new_br_4 | increase<br>craft<br>slogan<br>this |  
+| bip_39_word_new_br_5 | increase<br>craft<br>slogan<br>this<br>artefact |  
+| bip_39_word_new_br_6 | increase<br>craft<br>slogan<br>this<br>artefact<br>project |  
+| bip_39_word_new_br_7 | increase<br>craft<br>slogan<br>this<br>artefact<br>project<br>solid |  
+| bip_39_word_new_br_8 | increase<br>craft<br>slogan<br>this<br>artefact<br>project<br>solid<br>accident |  
+| bip_39_word_new_br_9 | increase<br>craft<br>slogan<br>this<br>artefact<br>project<br>solid<br>accident<br>payment |  
+| bip_39_word_new_line_1 | increase |  
+| bip_39_word_new_line_10 | increase
 craft
 slogan
 this
@@ -55,7 +55,7 @@ solid
 accident
 payment
 melt |  
-| bip_39_word_new_line11 | increase
+| bip_39_word_new_line_11 | increase
 craft
 slogan
 this
@@ -66,7 +66,7 @@ accident
 payment
 melt
 spread |  
-| bip_39_word_new_line12 | increase
+| bip_39_word_new_line_12 | increase
 craft
 slogan
 this
@@ -78,34 +78,34 @@ payment
 melt
 spread
 august |  
-| bip_39_word_new_line2 | increase
+| bip_39_word_new_line_2 | increase
 craft |  
-| bip_39_word_new_line3 | increase
+| bip_39_word_new_line_3 | increase
 craft
 slogan |  
-| bip_39_word_new_line4 | increase
+| bip_39_word_new_line_4 | increase
 craft
 slogan
 this |  
-| bip_39_word_new_line5 | increase
+| bip_39_word_new_line_5 | increase
 craft
 slogan
 this
 artefact |  
-| bip_39_word_new_line6 | increase
+| bip_39_word_new_line_6 | increase
 craft
 slogan
 this
 artefact
 project |  
-| bip_39_word_new_line7 | increase
+| bip_39_word_new_line_7 | increase
 craft
 slogan
 this
 artefact
 project
 solid |  
-| bip_39_word_new_line8 | increase
+| bip_39_word_new_line_8 | increase
 craft
 slogan
 this
@@ -113,7 +113,7 @@ artefact
 project
 solid
 accident |  
-| bip_39_word_new_line9 | increase
+| bip_39_word_new_line_9 | increase
 craft
 slogan
 this

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | already |  
-| bip_39_word_new_br10 | already<br>mother<br>index<br>alpha<br>deposit<br>cool<br>tool<br>diesel<br>antique<br>cost |  
-| bip_39_word_new_br11 | already<br>mother<br>index<br>alpha<br>deposit<br>cool<br>tool<br>diesel<br>antique<br>cost<br>exile |  
-| bip_39_word_new_br12 | already<br>mother<br>index<br>alpha<br>deposit<br>cool<br>tool<br>diesel<br>antique<br>cost<br>exile<br>armed |  
-| bip_39_word_new_br2 | already<br>mother |  
-| bip_39_word_new_br3 | already<br>mother<br>index |  
-| bip_39_word_new_br4 | already<br>mother<br>index<br>alpha |  
-| bip_39_word_new_br5 | already<br>mother<br>index<br>alpha<br>deposit |  
-| bip_39_word_new_br6 | already<br>mother<br>index<br>alpha<br>deposit<br>cool |  
-| bip_39_word_new_br7 | already<br>mother<br>index<br>alpha<br>deposit<br>cool<br>tool |  
-| bip_39_word_new_br8 | already<br>mother<br>index<br>alpha<br>deposit<br>cool<br>tool<br>diesel |  
-| bip_39_word_new_br9 | already<br>mother<br>index<br>alpha<br>deposit<br>cool<br>tool<br>diesel<br>antique |  
-| bip_39_word_new_line1 | already |  
-| bip_39_word_new_line10 | already
+| bip_39_word_new_br_1 | already |  
+| bip_39_word_new_br_10 | already<br>mother<br>index<br>alpha<br>deposit<br>cool<br>tool<br>diesel<br>antique<br>cost |  
+| bip_39_word_new_br_11 | already<br>mother<br>index<br>alpha<br>deposit<br>cool<br>tool<br>diesel<br>antique<br>cost<br>exile |  
+| bip_39_word_new_br_12 | already<br>mother<br>index<br>alpha<br>deposit<br>cool<br>tool<br>diesel<br>antique<br>cost<br>exile<br>armed |  
+| bip_39_word_new_br_2 | already<br>mother |  
+| bip_39_word_new_br_3 | already<br>mother<br>index |  
+| bip_39_word_new_br_4 | already<br>mother<br>index<br>alpha |  
+| bip_39_word_new_br_5 | already<br>mother<br>index<br>alpha<br>deposit |  
+| bip_39_word_new_br_6 | already<br>mother<br>index<br>alpha<br>deposit<br>cool |  
+| bip_39_word_new_br_7 | already<br>mother<br>index<br>alpha<br>deposit<br>cool<br>tool |  
+| bip_39_word_new_br_8 | already<br>mother<br>index<br>alpha<br>deposit<br>cool<br>tool<br>diesel |  
+| bip_39_word_new_br_9 | already<br>mother<br>index<br>alpha<br>deposit<br>cool<br>tool<br>diesel<br>antique |  
+| bip_39_word_new_line_1 | already |  
+| bip_39_word_new_line_10 | already
 mother
 index
 alpha
@@ -55,7 +55,7 @@ tool
 diesel
 antique
 cost |  
-| bip_39_word_new_line11 | already
+| bip_39_word_new_line_11 | already
 mother
 index
 alpha
@@ -66,7 +66,7 @@ diesel
 antique
 cost
 exile |  
-| bip_39_word_new_line12 | already
+| bip_39_word_new_line_12 | already
 mother
 index
 alpha
@@ -78,34 +78,34 @@ antique
 cost
 exile
 armed |  
-| bip_39_word_new_line2 | already
+| bip_39_word_new_line_2 | already
 mother |  
-| bip_39_word_new_line3 | already
+| bip_39_word_new_line_3 | already
 mother
 index |  
-| bip_39_word_new_line4 | already
+| bip_39_word_new_line_4 | already
 mother
 index
 alpha |  
-| bip_39_word_new_line5 | already
+| bip_39_word_new_line_5 | already
 mother
 index
 alpha
 deposit |  
-| bip_39_word_new_line6 | already
+| bip_39_word_new_line_6 | already
 mother
 index
 alpha
 deposit
 cool |  
-| bip_39_word_new_line7 | already
+| bip_39_word_new_line_7 | already
 mother
 index
 alpha
 deposit
 cool
 tool |  
-| bip_39_word_new_line8 | already
+| bip_39_word_new_line_8 | already
 mother
 index
 alpha
@@ -113,7 +113,7 @@ deposit
 cool
 tool
 diesel |  
-| bip_39_word_new_line9 | already
+| bip_39_word_new_line_9 | already
 mother
 index
 alpha

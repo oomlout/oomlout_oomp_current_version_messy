@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | economy |  
-| bip_39_word_new_br10 | economy<br>crush<br>glide<br>analyst<br>leopard<br>style<br>team<br>enemy<br>dash<br>gym |  
-| bip_39_word_new_br11 | economy<br>crush<br>glide<br>analyst<br>leopard<br>style<br>team<br>enemy<br>dash<br>gym<br>melt |  
-| bip_39_word_new_br12 | economy<br>crush<br>glide<br>analyst<br>leopard<br>style<br>team<br>enemy<br>dash<br>gym<br>melt<br>aim |  
-| bip_39_word_new_br2 | economy<br>crush |  
-| bip_39_word_new_br3 | economy<br>crush<br>glide |  
-| bip_39_word_new_br4 | economy<br>crush<br>glide<br>analyst |  
-| bip_39_word_new_br5 | economy<br>crush<br>glide<br>analyst<br>leopard |  
-| bip_39_word_new_br6 | economy<br>crush<br>glide<br>analyst<br>leopard<br>style |  
-| bip_39_word_new_br7 | economy<br>crush<br>glide<br>analyst<br>leopard<br>style<br>team |  
-| bip_39_word_new_br8 | economy<br>crush<br>glide<br>analyst<br>leopard<br>style<br>team<br>enemy |  
-| bip_39_word_new_br9 | economy<br>crush<br>glide<br>analyst<br>leopard<br>style<br>team<br>enemy<br>dash |  
-| bip_39_word_new_line1 | economy |  
-| bip_39_word_new_line10 | economy
+| bip_39_word_new_br_1 | economy |  
+| bip_39_word_new_br_10 | economy<br>crush<br>glide<br>analyst<br>leopard<br>style<br>team<br>enemy<br>dash<br>gym |  
+| bip_39_word_new_br_11 | economy<br>crush<br>glide<br>analyst<br>leopard<br>style<br>team<br>enemy<br>dash<br>gym<br>melt |  
+| bip_39_word_new_br_12 | economy<br>crush<br>glide<br>analyst<br>leopard<br>style<br>team<br>enemy<br>dash<br>gym<br>melt<br>aim |  
+| bip_39_word_new_br_2 | economy<br>crush |  
+| bip_39_word_new_br_3 | economy<br>crush<br>glide |  
+| bip_39_word_new_br_4 | economy<br>crush<br>glide<br>analyst |  
+| bip_39_word_new_br_5 | economy<br>crush<br>glide<br>analyst<br>leopard |  
+| bip_39_word_new_br_6 | economy<br>crush<br>glide<br>analyst<br>leopard<br>style |  
+| bip_39_word_new_br_7 | economy<br>crush<br>glide<br>analyst<br>leopard<br>style<br>team |  
+| bip_39_word_new_br_8 | economy<br>crush<br>glide<br>analyst<br>leopard<br>style<br>team<br>enemy |  
+| bip_39_word_new_br_9 | economy<br>crush<br>glide<br>analyst<br>leopard<br>style<br>team<br>enemy<br>dash |  
+| bip_39_word_new_line_1 | economy |  
+| bip_39_word_new_line_10 | economy
 crush
 glide
 analyst
@@ -55,7 +55,7 @@ team
 enemy
 dash
 gym |  
-| bip_39_word_new_line11 | economy
+| bip_39_word_new_line_11 | economy
 crush
 glide
 analyst
@@ -66,7 +66,7 @@ enemy
 dash
 gym
 melt |  
-| bip_39_word_new_line12 | economy
+| bip_39_word_new_line_12 | economy
 crush
 glide
 analyst
@@ -78,34 +78,34 @@ dash
 gym
 melt
 aim |  
-| bip_39_word_new_line2 | economy
+| bip_39_word_new_line_2 | economy
 crush |  
-| bip_39_word_new_line3 | economy
+| bip_39_word_new_line_3 | economy
 crush
 glide |  
-| bip_39_word_new_line4 | economy
+| bip_39_word_new_line_4 | economy
 crush
 glide
 analyst |  
-| bip_39_word_new_line5 | economy
+| bip_39_word_new_line_5 | economy
 crush
 glide
 analyst
 leopard |  
-| bip_39_word_new_line6 | economy
+| bip_39_word_new_line_6 | economy
 crush
 glide
 analyst
 leopard
 style |  
-| bip_39_word_new_line7 | economy
+| bip_39_word_new_line_7 | economy
 crush
 glide
 analyst
 leopard
 style
 team |  
-| bip_39_word_new_line8 | economy
+| bip_39_word_new_line_8 | economy
 crush
 glide
 analyst
@@ -113,7 +113,7 @@ leopard
 style
 team
 enemy |  
-| bip_39_word_new_line9 | economy
+| bip_39_word_new_line_9 | economy
 crush
 glide
 analyst

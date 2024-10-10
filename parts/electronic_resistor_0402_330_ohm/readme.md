@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pause |  
-| bip_39_word_new_br10 | pause<br>quote<br>treat<br>wall<br>blanket<br>social<br>trash<br>zone<br>room<br>cry |  
-| bip_39_word_new_br11 | pause<br>quote<br>treat<br>wall<br>blanket<br>social<br>trash<br>zone<br>room<br>cry<br>april |  
-| bip_39_word_new_br12 | pause<br>quote<br>treat<br>wall<br>blanket<br>social<br>trash<br>zone<br>room<br>cry<br>april<br>allow |  
-| bip_39_word_new_br2 | pause<br>quote |  
-| bip_39_word_new_br3 | pause<br>quote<br>treat |  
-| bip_39_word_new_br4 | pause<br>quote<br>treat<br>wall |  
-| bip_39_word_new_br5 | pause<br>quote<br>treat<br>wall<br>blanket |  
-| bip_39_word_new_br6 | pause<br>quote<br>treat<br>wall<br>blanket<br>social |  
-| bip_39_word_new_br7 | pause<br>quote<br>treat<br>wall<br>blanket<br>social<br>trash |  
-| bip_39_word_new_br8 | pause<br>quote<br>treat<br>wall<br>blanket<br>social<br>trash<br>zone |  
-| bip_39_word_new_br9 | pause<br>quote<br>treat<br>wall<br>blanket<br>social<br>trash<br>zone<br>room |  
-| bip_39_word_new_line1 | pause |  
-| bip_39_word_new_line10 | pause
+| bip_39_word_new_br_1 | pause |  
+| bip_39_word_new_br_10 | pause<br>quote<br>treat<br>wall<br>blanket<br>social<br>trash<br>zone<br>room<br>cry |  
+| bip_39_word_new_br_11 | pause<br>quote<br>treat<br>wall<br>blanket<br>social<br>trash<br>zone<br>room<br>cry<br>april |  
+| bip_39_word_new_br_12 | pause<br>quote<br>treat<br>wall<br>blanket<br>social<br>trash<br>zone<br>room<br>cry<br>april<br>allow |  
+| bip_39_word_new_br_2 | pause<br>quote |  
+| bip_39_word_new_br_3 | pause<br>quote<br>treat |  
+| bip_39_word_new_br_4 | pause<br>quote<br>treat<br>wall |  
+| bip_39_word_new_br_5 | pause<br>quote<br>treat<br>wall<br>blanket |  
+| bip_39_word_new_br_6 | pause<br>quote<br>treat<br>wall<br>blanket<br>social |  
+| bip_39_word_new_br_7 | pause<br>quote<br>treat<br>wall<br>blanket<br>social<br>trash |  
+| bip_39_word_new_br_8 | pause<br>quote<br>treat<br>wall<br>blanket<br>social<br>trash<br>zone |  
+| bip_39_word_new_br_9 | pause<br>quote<br>treat<br>wall<br>blanket<br>social<br>trash<br>zone<br>room |  
+| bip_39_word_new_line_1 | pause |  
+| bip_39_word_new_line_10 | pause
 quote
 treat
 wall
@@ -55,7 +55,7 @@ trash
 zone
 room
 cry |  
-| bip_39_word_new_line11 | pause
+| bip_39_word_new_line_11 | pause
 quote
 treat
 wall
@@ -66,7 +66,7 @@ zone
 room
 cry
 april |  
-| bip_39_word_new_line12 | pause
+| bip_39_word_new_line_12 | pause
 quote
 treat
 wall
@@ -78,34 +78,34 @@ room
 cry
 april
 allow |  
-| bip_39_word_new_line2 | pause
+| bip_39_word_new_line_2 | pause
 quote |  
-| bip_39_word_new_line3 | pause
+| bip_39_word_new_line_3 | pause
 quote
 treat |  
-| bip_39_word_new_line4 | pause
+| bip_39_word_new_line_4 | pause
 quote
 treat
 wall |  
-| bip_39_word_new_line5 | pause
+| bip_39_word_new_line_5 | pause
 quote
 treat
 wall
 blanket |  
-| bip_39_word_new_line6 | pause
+| bip_39_word_new_line_6 | pause
 quote
 treat
 wall
 blanket
 social |  
-| bip_39_word_new_line7 | pause
+| bip_39_word_new_line_7 | pause
 quote
 treat
 wall
 blanket
 social
 trash |  
-| bip_39_word_new_line8 | pause
+| bip_39_word_new_line_8 | pause
 quote
 treat
 wall
@@ -113,7 +113,7 @@ blanket
 social
 trash
 zone |  
-| bip_39_word_new_line9 | pause
+| bip_39_word_new_line_9 | pause
 quote
 treat
 wall

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | assume |  
-| bip_39_word_new_br10 | assume<br>card<br>fetch<br>craft<br>stairs<br>latin<br>knock<br>cricket<br>improve<br>world |  
-| bip_39_word_new_br11 | assume<br>card<br>fetch<br>craft<br>stairs<br>latin<br>knock<br>cricket<br>improve<br>world<br>prison |  
-| bip_39_word_new_br12 | assume<br>card<br>fetch<br>craft<br>stairs<br>latin<br>knock<br>cricket<br>improve<br>world<br>prison<br>acoustic |  
-| bip_39_word_new_br2 | assume<br>card |  
-| bip_39_word_new_br3 | assume<br>card<br>fetch |  
-| bip_39_word_new_br4 | assume<br>card<br>fetch<br>craft |  
-| bip_39_word_new_br5 | assume<br>card<br>fetch<br>craft<br>stairs |  
-| bip_39_word_new_br6 | assume<br>card<br>fetch<br>craft<br>stairs<br>latin |  
-| bip_39_word_new_br7 | assume<br>card<br>fetch<br>craft<br>stairs<br>latin<br>knock |  
-| bip_39_word_new_br8 | assume<br>card<br>fetch<br>craft<br>stairs<br>latin<br>knock<br>cricket |  
-| bip_39_word_new_br9 | assume<br>card<br>fetch<br>craft<br>stairs<br>latin<br>knock<br>cricket<br>improve |  
-| bip_39_word_new_line1 | assume |  
-| bip_39_word_new_line10 | assume
+| bip_39_word_new_br_1 | assume |  
+| bip_39_word_new_br_10 | assume<br>card<br>fetch<br>craft<br>stairs<br>latin<br>knock<br>cricket<br>improve<br>world |  
+| bip_39_word_new_br_11 | assume<br>card<br>fetch<br>craft<br>stairs<br>latin<br>knock<br>cricket<br>improve<br>world<br>prison |  
+| bip_39_word_new_br_12 | assume<br>card<br>fetch<br>craft<br>stairs<br>latin<br>knock<br>cricket<br>improve<br>world<br>prison<br>acoustic |  
+| bip_39_word_new_br_2 | assume<br>card |  
+| bip_39_word_new_br_3 | assume<br>card<br>fetch |  
+| bip_39_word_new_br_4 | assume<br>card<br>fetch<br>craft |  
+| bip_39_word_new_br_5 | assume<br>card<br>fetch<br>craft<br>stairs |  
+| bip_39_word_new_br_6 | assume<br>card<br>fetch<br>craft<br>stairs<br>latin |  
+| bip_39_word_new_br_7 | assume<br>card<br>fetch<br>craft<br>stairs<br>latin<br>knock |  
+| bip_39_word_new_br_8 | assume<br>card<br>fetch<br>craft<br>stairs<br>latin<br>knock<br>cricket |  
+| bip_39_word_new_br_9 | assume<br>card<br>fetch<br>craft<br>stairs<br>latin<br>knock<br>cricket<br>improve |  
+| bip_39_word_new_line_1 | assume |  
+| bip_39_word_new_line_10 | assume
 card
 fetch
 craft
@@ -55,7 +55,7 @@ knock
 cricket
 improve
 world |  
-| bip_39_word_new_line11 | assume
+| bip_39_word_new_line_11 | assume
 card
 fetch
 craft
@@ -66,7 +66,7 @@ cricket
 improve
 world
 prison |  
-| bip_39_word_new_line12 | assume
+| bip_39_word_new_line_12 | assume
 card
 fetch
 craft
@@ -78,34 +78,34 @@ improve
 world
 prison
 acoustic |  
-| bip_39_word_new_line2 | assume
+| bip_39_word_new_line_2 | assume
 card |  
-| bip_39_word_new_line3 | assume
+| bip_39_word_new_line_3 | assume
 card
 fetch |  
-| bip_39_word_new_line4 | assume
+| bip_39_word_new_line_4 | assume
 card
 fetch
 craft |  
-| bip_39_word_new_line5 | assume
+| bip_39_word_new_line_5 | assume
 card
 fetch
 craft
 stairs |  
-| bip_39_word_new_line6 | assume
+| bip_39_word_new_line_6 | assume
 card
 fetch
 craft
 stairs
 latin |  
-| bip_39_word_new_line7 | assume
+| bip_39_word_new_line_7 | assume
 card
 fetch
 craft
 stairs
 latin
 knock |  
-| bip_39_word_new_line8 | assume
+| bip_39_word_new_line_8 | assume
 card
 fetch
 craft
@@ -113,7 +113,7 @@ stairs
 latin
 knock
 cricket |  
-| bip_39_word_new_line9 | assume
+| bip_39_word_new_line_9 | assume
 card
 fetch
 craft

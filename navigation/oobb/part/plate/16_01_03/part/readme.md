@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | unaware |  
-| bip_39_word_new_br10 | unaware<br>issue<br>hunt<br>fetch<br>situate<br>polar<br>problem<br>hole<br>smart<br>today |  
-| bip_39_word_new_br11 | unaware<br>issue<br>hunt<br>fetch<br>situate<br>polar<br>problem<br>hole<br>smart<br>today<br>once |  
-| bip_39_word_new_br12 | unaware<br>issue<br>hunt<br>fetch<br>situate<br>polar<br>problem<br>hole<br>smart<br>today<br>once<br>affair |  
-| bip_39_word_new_br2 | unaware<br>issue |  
-| bip_39_word_new_br3 | unaware<br>issue<br>hunt |  
-| bip_39_word_new_br4 | unaware<br>issue<br>hunt<br>fetch |  
-| bip_39_word_new_br5 | unaware<br>issue<br>hunt<br>fetch<br>situate |  
-| bip_39_word_new_br6 | unaware<br>issue<br>hunt<br>fetch<br>situate<br>polar |  
-| bip_39_word_new_br7 | unaware<br>issue<br>hunt<br>fetch<br>situate<br>polar<br>problem |  
-| bip_39_word_new_br8 | unaware<br>issue<br>hunt<br>fetch<br>situate<br>polar<br>problem<br>hole |  
-| bip_39_word_new_br9 | unaware<br>issue<br>hunt<br>fetch<br>situate<br>polar<br>problem<br>hole<br>smart |  
-| bip_39_word_new_line1 | unaware |  
-| bip_39_word_new_line10 | unaware
+| bip_39_word_new_br_1 | unaware |  
+| bip_39_word_new_br_10 | unaware<br>issue<br>hunt<br>fetch<br>situate<br>polar<br>problem<br>hole<br>smart<br>today |  
+| bip_39_word_new_br_11 | unaware<br>issue<br>hunt<br>fetch<br>situate<br>polar<br>problem<br>hole<br>smart<br>today<br>once |  
+| bip_39_word_new_br_12 | unaware<br>issue<br>hunt<br>fetch<br>situate<br>polar<br>problem<br>hole<br>smart<br>today<br>once<br>affair |  
+| bip_39_word_new_br_2 | unaware<br>issue |  
+| bip_39_word_new_br_3 | unaware<br>issue<br>hunt |  
+| bip_39_word_new_br_4 | unaware<br>issue<br>hunt<br>fetch |  
+| bip_39_word_new_br_5 | unaware<br>issue<br>hunt<br>fetch<br>situate |  
+| bip_39_word_new_br_6 | unaware<br>issue<br>hunt<br>fetch<br>situate<br>polar |  
+| bip_39_word_new_br_7 | unaware<br>issue<br>hunt<br>fetch<br>situate<br>polar<br>problem |  
+| bip_39_word_new_br_8 | unaware<br>issue<br>hunt<br>fetch<br>situate<br>polar<br>problem<br>hole |  
+| bip_39_word_new_br_9 | unaware<br>issue<br>hunt<br>fetch<br>situate<br>polar<br>problem<br>hole<br>smart |  
+| bip_39_word_new_line_1 | unaware |  
+| bip_39_word_new_line_10 | unaware
 issue
 hunt
 fetch
@@ -55,7 +55,7 @@ problem
 hole
 smart
 today |  
-| bip_39_word_new_line11 | unaware
+| bip_39_word_new_line_11 | unaware
 issue
 hunt
 fetch
@@ -66,7 +66,7 @@ hole
 smart
 today
 once |  
-| bip_39_word_new_line12 | unaware
+| bip_39_word_new_line_12 | unaware
 issue
 hunt
 fetch
@@ -78,34 +78,34 @@ smart
 today
 once
 affair |  
-| bip_39_word_new_line2 | unaware
+| bip_39_word_new_line_2 | unaware
 issue |  
-| bip_39_word_new_line3 | unaware
+| bip_39_word_new_line_3 | unaware
 issue
 hunt |  
-| bip_39_word_new_line4 | unaware
+| bip_39_word_new_line_4 | unaware
 issue
 hunt
 fetch |  
-| bip_39_word_new_line5 | unaware
+| bip_39_word_new_line_5 | unaware
 issue
 hunt
 fetch
 situate |  
-| bip_39_word_new_line6 | unaware
+| bip_39_word_new_line_6 | unaware
 issue
 hunt
 fetch
 situate
 polar |  
-| bip_39_word_new_line7 | unaware
+| bip_39_word_new_line_7 | unaware
 issue
 hunt
 fetch
 situate
 polar
 problem |  
-| bip_39_word_new_line8 | unaware
+| bip_39_word_new_line_8 | unaware
 issue
 hunt
 fetch
@@ -113,7 +113,7 @@ situate
 polar
 problem
 hole |  
-| bip_39_word_new_line9 | unaware
+| bip_39_word_new_line_9 | unaware
 issue
 hunt
 fetch

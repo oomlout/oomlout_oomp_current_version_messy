@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | uncover |  
-| bip_39_word_new_br10 | uncover<br>business<br>capable<br>mandate<br>library<br>gentle<br>faith<br>assist<br>flower<br>food |  
-| bip_39_word_new_br11 | uncover<br>business<br>capable<br>mandate<br>library<br>gentle<br>faith<br>assist<br>flower<br>food<br>aware |  
-| bip_39_word_new_br12 | uncover<br>business<br>capable<br>mandate<br>library<br>gentle<br>faith<br>assist<br>flower<br>food<br>aware<br>acquire |  
-| bip_39_word_new_br2 | uncover<br>business |  
-| bip_39_word_new_br3 | uncover<br>business<br>capable |  
-| bip_39_word_new_br4 | uncover<br>business<br>capable<br>mandate |  
-| bip_39_word_new_br5 | uncover<br>business<br>capable<br>mandate<br>library |  
-| bip_39_word_new_br6 | uncover<br>business<br>capable<br>mandate<br>library<br>gentle |  
-| bip_39_word_new_br7 | uncover<br>business<br>capable<br>mandate<br>library<br>gentle<br>faith |  
-| bip_39_word_new_br8 | uncover<br>business<br>capable<br>mandate<br>library<br>gentle<br>faith<br>assist |  
-| bip_39_word_new_br9 | uncover<br>business<br>capable<br>mandate<br>library<br>gentle<br>faith<br>assist<br>flower |  
-| bip_39_word_new_line1 | uncover |  
-| bip_39_word_new_line10 | uncover
+| bip_39_word_new_br_1 | uncover |  
+| bip_39_word_new_br_10 | uncover<br>business<br>capable<br>mandate<br>library<br>gentle<br>faith<br>assist<br>flower<br>food |  
+| bip_39_word_new_br_11 | uncover<br>business<br>capable<br>mandate<br>library<br>gentle<br>faith<br>assist<br>flower<br>food<br>aware |  
+| bip_39_word_new_br_12 | uncover<br>business<br>capable<br>mandate<br>library<br>gentle<br>faith<br>assist<br>flower<br>food<br>aware<br>acquire |  
+| bip_39_word_new_br_2 | uncover<br>business |  
+| bip_39_word_new_br_3 | uncover<br>business<br>capable |  
+| bip_39_word_new_br_4 | uncover<br>business<br>capable<br>mandate |  
+| bip_39_word_new_br_5 | uncover<br>business<br>capable<br>mandate<br>library |  
+| bip_39_word_new_br_6 | uncover<br>business<br>capable<br>mandate<br>library<br>gentle |  
+| bip_39_word_new_br_7 | uncover<br>business<br>capable<br>mandate<br>library<br>gentle<br>faith |  
+| bip_39_word_new_br_8 | uncover<br>business<br>capable<br>mandate<br>library<br>gentle<br>faith<br>assist |  
+| bip_39_word_new_br_9 | uncover<br>business<br>capable<br>mandate<br>library<br>gentle<br>faith<br>assist<br>flower |  
+| bip_39_word_new_line_1 | uncover |  
+| bip_39_word_new_line_10 | uncover
 business
 capable
 mandate
@@ -55,7 +55,7 @@ faith
 assist
 flower
 food |  
-| bip_39_word_new_line11 | uncover
+| bip_39_word_new_line_11 | uncover
 business
 capable
 mandate
@@ -66,7 +66,7 @@ assist
 flower
 food
 aware |  
-| bip_39_word_new_line12 | uncover
+| bip_39_word_new_line_12 | uncover
 business
 capable
 mandate
@@ -78,34 +78,34 @@ flower
 food
 aware
 acquire |  
-| bip_39_word_new_line2 | uncover
+| bip_39_word_new_line_2 | uncover
 business |  
-| bip_39_word_new_line3 | uncover
+| bip_39_word_new_line_3 | uncover
 business
 capable |  
-| bip_39_word_new_line4 | uncover
+| bip_39_word_new_line_4 | uncover
 business
 capable
 mandate |  
-| bip_39_word_new_line5 | uncover
+| bip_39_word_new_line_5 | uncover
 business
 capable
 mandate
 library |  
-| bip_39_word_new_line6 | uncover
+| bip_39_word_new_line_6 | uncover
 business
 capable
 mandate
 library
 gentle |  
-| bip_39_word_new_line7 | uncover
+| bip_39_word_new_line_7 | uncover
 business
 capable
 mandate
 library
 gentle
 faith |  
-| bip_39_word_new_line8 | uncover
+| bip_39_word_new_line_8 | uncover
 business
 capable
 mandate
@@ -113,7 +113,7 @@ library
 gentle
 faith
 assist |  
-| bip_39_word_new_line9 | uncover
+| bip_39_word_new_line_9 | uncover
 business
 capable
 mandate

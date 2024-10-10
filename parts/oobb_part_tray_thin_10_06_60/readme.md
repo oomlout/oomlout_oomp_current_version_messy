@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pitch |  
-| bip_39_word_new_br10 | pitch<br>coin<br>happy<br>limb<br>soccer<br>tribe<br>main<br>skirt<br>place<br>virus |  
-| bip_39_word_new_br11 | pitch<br>coin<br>happy<br>limb<br>soccer<br>tribe<br>main<br>skirt<br>place<br>virus<br>claim |  
-| bip_39_word_new_br12 | pitch<br>coin<br>happy<br>limb<br>soccer<br>tribe<br>main<br>skirt<br>place<br>virus<br>claim<br>actress |  
-| bip_39_word_new_br2 | pitch<br>coin |  
-| bip_39_word_new_br3 | pitch<br>coin<br>happy |  
-| bip_39_word_new_br4 | pitch<br>coin<br>happy<br>limb |  
-| bip_39_word_new_br5 | pitch<br>coin<br>happy<br>limb<br>soccer |  
-| bip_39_word_new_br6 | pitch<br>coin<br>happy<br>limb<br>soccer<br>tribe |  
-| bip_39_word_new_br7 | pitch<br>coin<br>happy<br>limb<br>soccer<br>tribe<br>main |  
-| bip_39_word_new_br8 | pitch<br>coin<br>happy<br>limb<br>soccer<br>tribe<br>main<br>skirt |  
-| bip_39_word_new_br9 | pitch<br>coin<br>happy<br>limb<br>soccer<br>tribe<br>main<br>skirt<br>place |  
-| bip_39_word_new_line1 | pitch |  
-| bip_39_word_new_line10 | pitch
+| bip_39_word_new_br_1 | pitch |  
+| bip_39_word_new_br_10 | pitch<br>coin<br>happy<br>limb<br>soccer<br>tribe<br>main<br>skirt<br>place<br>virus |  
+| bip_39_word_new_br_11 | pitch<br>coin<br>happy<br>limb<br>soccer<br>tribe<br>main<br>skirt<br>place<br>virus<br>claim |  
+| bip_39_word_new_br_12 | pitch<br>coin<br>happy<br>limb<br>soccer<br>tribe<br>main<br>skirt<br>place<br>virus<br>claim<br>actress |  
+| bip_39_word_new_br_2 | pitch<br>coin |  
+| bip_39_word_new_br_3 | pitch<br>coin<br>happy |  
+| bip_39_word_new_br_4 | pitch<br>coin<br>happy<br>limb |  
+| bip_39_word_new_br_5 | pitch<br>coin<br>happy<br>limb<br>soccer |  
+| bip_39_word_new_br_6 | pitch<br>coin<br>happy<br>limb<br>soccer<br>tribe |  
+| bip_39_word_new_br_7 | pitch<br>coin<br>happy<br>limb<br>soccer<br>tribe<br>main |  
+| bip_39_word_new_br_8 | pitch<br>coin<br>happy<br>limb<br>soccer<br>tribe<br>main<br>skirt |  
+| bip_39_word_new_br_9 | pitch<br>coin<br>happy<br>limb<br>soccer<br>tribe<br>main<br>skirt<br>place |  
+| bip_39_word_new_line_1 | pitch |  
+| bip_39_word_new_line_10 | pitch
 coin
 happy
 limb
@@ -55,7 +55,7 @@ main
 skirt
 place
 virus |  
-| bip_39_word_new_line11 | pitch
+| bip_39_word_new_line_11 | pitch
 coin
 happy
 limb
@@ -66,7 +66,7 @@ skirt
 place
 virus
 claim |  
-| bip_39_word_new_line12 | pitch
+| bip_39_word_new_line_12 | pitch
 coin
 happy
 limb
@@ -78,34 +78,34 @@ place
 virus
 claim
 actress |  
-| bip_39_word_new_line2 | pitch
+| bip_39_word_new_line_2 | pitch
 coin |  
-| bip_39_word_new_line3 | pitch
+| bip_39_word_new_line_3 | pitch
 coin
 happy |  
-| bip_39_word_new_line4 | pitch
+| bip_39_word_new_line_4 | pitch
 coin
 happy
 limb |  
-| bip_39_word_new_line5 | pitch
+| bip_39_word_new_line_5 | pitch
 coin
 happy
 limb
 soccer |  
-| bip_39_word_new_line6 | pitch
+| bip_39_word_new_line_6 | pitch
 coin
 happy
 limb
 soccer
 tribe |  
-| bip_39_word_new_line7 | pitch
+| bip_39_word_new_line_7 | pitch
 coin
 happy
 limb
 soccer
 tribe
 main |  
-| bip_39_word_new_line8 | pitch
+| bip_39_word_new_line_8 | pitch
 coin
 happy
 limb
@@ -113,7 +113,7 @@ soccer
 tribe
 main
 skirt |  
-| bip_39_word_new_line9 | pitch
+| bip_39_word_new_line_9 | pitch
 coin
 happy
 limb

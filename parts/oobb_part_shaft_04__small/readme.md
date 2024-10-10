@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | flip |  
-| bip_39_word_new_br10 | flip<br>one<br>alcohol<br>bring<br>best<br>warfare<br>inhale<br>excuse<br>say<br>tuna |  
-| bip_39_word_new_br11 | flip<br>one<br>alcohol<br>bring<br>best<br>warfare<br>inhale<br>excuse<br>say<br>tuna<br>improve |  
-| bip_39_word_new_br12 | flip<br>one<br>alcohol<br>bring<br>best<br>warfare<br>inhale<br>excuse<br>say<br>tuna<br>improve<br>athlete |  
-| bip_39_word_new_br2 | flip<br>one |  
-| bip_39_word_new_br3 | flip<br>one<br>alcohol |  
-| bip_39_word_new_br4 | flip<br>one<br>alcohol<br>bring |  
-| bip_39_word_new_br5 | flip<br>one<br>alcohol<br>bring<br>best |  
-| bip_39_word_new_br6 | flip<br>one<br>alcohol<br>bring<br>best<br>warfare |  
-| bip_39_word_new_br7 | flip<br>one<br>alcohol<br>bring<br>best<br>warfare<br>inhale |  
-| bip_39_word_new_br8 | flip<br>one<br>alcohol<br>bring<br>best<br>warfare<br>inhale<br>excuse |  
-| bip_39_word_new_br9 | flip<br>one<br>alcohol<br>bring<br>best<br>warfare<br>inhale<br>excuse<br>say |  
-| bip_39_word_new_line1 | flip |  
-| bip_39_word_new_line10 | flip
+| bip_39_word_new_br_1 | flip |  
+| bip_39_word_new_br_10 | flip<br>one<br>alcohol<br>bring<br>best<br>warfare<br>inhale<br>excuse<br>say<br>tuna |  
+| bip_39_word_new_br_11 | flip<br>one<br>alcohol<br>bring<br>best<br>warfare<br>inhale<br>excuse<br>say<br>tuna<br>improve |  
+| bip_39_word_new_br_12 | flip<br>one<br>alcohol<br>bring<br>best<br>warfare<br>inhale<br>excuse<br>say<br>tuna<br>improve<br>athlete |  
+| bip_39_word_new_br_2 | flip<br>one |  
+| bip_39_word_new_br_3 | flip<br>one<br>alcohol |  
+| bip_39_word_new_br_4 | flip<br>one<br>alcohol<br>bring |  
+| bip_39_word_new_br_5 | flip<br>one<br>alcohol<br>bring<br>best |  
+| bip_39_word_new_br_6 | flip<br>one<br>alcohol<br>bring<br>best<br>warfare |  
+| bip_39_word_new_br_7 | flip<br>one<br>alcohol<br>bring<br>best<br>warfare<br>inhale |  
+| bip_39_word_new_br_8 | flip<br>one<br>alcohol<br>bring<br>best<br>warfare<br>inhale<br>excuse |  
+| bip_39_word_new_br_9 | flip<br>one<br>alcohol<br>bring<br>best<br>warfare<br>inhale<br>excuse<br>say |  
+| bip_39_word_new_line_1 | flip |  
+| bip_39_word_new_line_10 | flip
 one
 alcohol
 bring
@@ -55,7 +55,7 @@ inhale
 excuse
 say
 tuna |  
-| bip_39_word_new_line11 | flip
+| bip_39_word_new_line_11 | flip
 one
 alcohol
 bring
@@ -66,7 +66,7 @@ excuse
 say
 tuna
 improve |  
-| bip_39_word_new_line12 | flip
+| bip_39_word_new_line_12 | flip
 one
 alcohol
 bring
@@ -78,34 +78,34 @@ say
 tuna
 improve
 athlete |  
-| bip_39_word_new_line2 | flip
+| bip_39_word_new_line_2 | flip
 one |  
-| bip_39_word_new_line3 | flip
+| bip_39_word_new_line_3 | flip
 one
 alcohol |  
-| bip_39_word_new_line4 | flip
+| bip_39_word_new_line_4 | flip
 one
 alcohol
 bring |  
-| bip_39_word_new_line5 | flip
+| bip_39_word_new_line_5 | flip
 one
 alcohol
 bring
 best |  
-| bip_39_word_new_line6 | flip
+| bip_39_word_new_line_6 | flip
 one
 alcohol
 bring
 best
 warfare |  
-| bip_39_word_new_line7 | flip
+| bip_39_word_new_line_7 | flip
 one
 alcohol
 bring
 best
 warfare
 inhale |  
-| bip_39_word_new_line8 | flip
+| bip_39_word_new_line_8 | flip
 one
 alcohol
 bring
@@ -113,7 +113,7 @@ best
 warfare
 inhale
 excuse |  
-| bip_39_word_new_line9 | flip
+| bip_39_word_new_line_9 | flip
 one
 alcohol
 bring

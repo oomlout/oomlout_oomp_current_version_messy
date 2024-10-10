@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | much |  
-| bip_39_word_new_br10 | much<br>critic<br>parent<br>magnet<br>diesel<br>purse<br>banner<br>random<br>build<br>maple |  
-| bip_39_word_new_br11 | much<br>critic<br>parent<br>magnet<br>diesel<br>purse<br>banner<br>random<br>build<br>maple<br>enemy |  
-| bip_39_word_new_br12 | much<br>critic<br>parent<br>magnet<br>diesel<br>purse<br>banner<br>random<br>build<br>maple<br>enemy<br>addict |  
-| bip_39_word_new_br2 | much<br>critic |  
-| bip_39_word_new_br3 | much<br>critic<br>parent |  
-| bip_39_word_new_br4 | much<br>critic<br>parent<br>magnet |  
-| bip_39_word_new_br5 | much<br>critic<br>parent<br>magnet<br>diesel |  
-| bip_39_word_new_br6 | much<br>critic<br>parent<br>magnet<br>diesel<br>purse |  
-| bip_39_word_new_br7 | much<br>critic<br>parent<br>magnet<br>diesel<br>purse<br>banner |  
-| bip_39_word_new_br8 | much<br>critic<br>parent<br>magnet<br>diesel<br>purse<br>banner<br>random |  
-| bip_39_word_new_br9 | much<br>critic<br>parent<br>magnet<br>diesel<br>purse<br>banner<br>random<br>build |  
-| bip_39_word_new_line1 | much |  
-| bip_39_word_new_line10 | much
+| bip_39_word_new_br_1 | much |  
+| bip_39_word_new_br_10 | much<br>critic<br>parent<br>magnet<br>diesel<br>purse<br>banner<br>random<br>build<br>maple |  
+| bip_39_word_new_br_11 | much<br>critic<br>parent<br>magnet<br>diesel<br>purse<br>banner<br>random<br>build<br>maple<br>enemy |  
+| bip_39_word_new_br_12 | much<br>critic<br>parent<br>magnet<br>diesel<br>purse<br>banner<br>random<br>build<br>maple<br>enemy<br>addict |  
+| bip_39_word_new_br_2 | much<br>critic |  
+| bip_39_word_new_br_3 | much<br>critic<br>parent |  
+| bip_39_word_new_br_4 | much<br>critic<br>parent<br>magnet |  
+| bip_39_word_new_br_5 | much<br>critic<br>parent<br>magnet<br>diesel |  
+| bip_39_word_new_br_6 | much<br>critic<br>parent<br>magnet<br>diesel<br>purse |  
+| bip_39_word_new_br_7 | much<br>critic<br>parent<br>magnet<br>diesel<br>purse<br>banner |  
+| bip_39_word_new_br_8 | much<br>critic<br>parent<br>magnet<br>diesel<br>purse<br>banner<br>random |  
+| bip_39_word_new_br_9 | much<br>critic<br>parent<br>magnet<br>diesel<br>purse<br>banner<br>random<br>build |  
+| bip_39_word_new_line_1 | much |  
+| bip_39_word_new_line_10 | much
 critic
 parent
 magnet
@@ -55,7 +55,7 @@ banner
 random
 build
 maple |  
-| bip_39_word_new_line11 | much
+| bip_39_word_new_line_11 | much
 critic
 parent
 magnet
@@ -66,7 +66,7 @@ random
 build
 maple
 enemy |  
-| bip_39_word_new_line12 | much
+| bip_39_word_new_line_12 | much
 critic
 parent
 magnet
@@ -78,34 +78,34 @@ build
 maple
 enemy
 addict |  
-| bip_39_word_new_line2 | much
+| bip_39_word_new_line_2 | much
 critic |  
-| bip_39_word_new_line3 | much
+| bip_39_word_new_line_3 | much
 critic
 parent |  
-| bip_39_word_new_line4 | much
+| bip_39_word_new_line_4 | much
 critic
 parent
 magnet |  
-| bip_39_word_new_line5 | much
+| bip_39_word_new_line_5 | much
 critic
 parent
 magnet
 diesel |  
-| bip_39_word_new_line6 | much
+| bip_39_word_new_line_6 | much
 critic
 parent
 magnet
 diesel
 purse |  
-| bip_39_word_new_line7 | much
+| bip_39_word_new_line_7 | much
 critic
 parent
 magnet
 diesel
 purse
 banner |  
-| bip_39_word_new_line8 | much
+| bip_39_word_new_line_8 | much
 critic
 parent
 magnet
@@ -113,7 +113,7 @@ diesel
 purse
 banner
 random |  
-| bip_39_word_new_line9 | much
+| bip_39_word_new_line_9 | much
 critic
 parent
 magnet

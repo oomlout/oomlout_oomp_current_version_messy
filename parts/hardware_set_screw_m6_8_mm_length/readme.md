@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | print |  
-| bip_39_word_new_br10 | print<br>scissors<br>enlist<br>artwork<br>move<br>trophy<br>roof<br>top<br>guard<br>gospel |  
-| bip_39_word_new_br11 | print<br>scissors<br>enlist<br>artwork<br>move<br>trophy<br>roof<br>top<br>guard<br>gospel<br>west |  
-| bip_39_word_new_br12 | print<br>scissors<br>enlist<br>artwork<br>move<br>trophy<br>roof<br>top<br>guard<br>gospel<br>west<br>act |  
-| bip_39_word_new_br2 | print<br>scissors |  
-| bip_39_word_new_br3 | print<br>scissors<br>enlist |  
-| bip_39_word_new_br4 | print<br>scissors<br>enlist<br>artwork |  
-| bip_39_word_new_br5 | print<br>scissors<br>enlist<br>artwork<br>move |  
-| bip_39_word_new_br6 | print<br>scissors<br>enlist<br>artwork<br>move<br>trophy |  
-| bip_39_word_new_br7 | print<br>scissors<br>enlist<br>artwork<br>move<br>trophy<br>roof |  
-| bip_39_word_new_br8 | print<br>scissors<br>enlist<br>artwork<br>move<br>trophy<br>roof<br>top |  
-| bip_39_word_new_br9 | print<br>scissors<br>enlist<br>artwork<br>move<br>trophy<br>roof<br>top<br>guard |  
-| bip_39_word_new_line1 | print |  
-| bip_39_word_new_line10 | print
+| bip_39_word_new_br_1 | print |  
+| bip_39_word_new_br_10 | print<br>scissors<br>enlist<br>artwork<br>move<br>trophy<br>roof<br>top<br>guard<br>gospel |  
+| bip_39_word_new_br_11 | print<br>scissors<br>enlist<br>artwork<br>move<br>trophy<br>roof<br>top<br>guard<br>gospel<br>west |  
+| bip_39_word_new_br_12 | print<br>scissors<br>enlist<br>artwork<br>move<br>trophy<br>roof<br>top<br>guard<br>gospel<br>west<br>act |  
+| bip_39_word_new_br_2 | print<br>scissors |  
+| bip_39_word_new_br_3 | print<br>scissors<br>enlist |  
+| bip_39_word_new_br_4 | print<br>scissors<br>enlist<br>artwork |  
+| bip_39_word_new_br_5 | print<br>scissors<br>enlist<br>artwork<br>move |  
+| bip_39_word_new_br_6 | print<br>scissors<br>enlist<br>artwork<br>move<br>trophy |  
+| bip_39_word_new_br_7 | print<br>scissors<br>enlist<br>artwork<br>move<br>trophy<br>roof |  
+| bip_39_word_new_br_8 | print<br>scissors<br>enlist<br>artwork<br>move<br>trophy<br>roof<br>top |  
+| bip_39_word_new_br_9 | print<br>scissors<br>enlist<br>artwork<br>move<br>trophy<br>roof<br>top<br>guard |  
+| bip_39_word_new_line_1 | print |  
+| bip_39_word_new_line_10 | print
 scissors
 enlist
 artwork
@@ -55,7 +55,7 @@ roof
 top
 guard
 gospel |  
-| bip_39_word_new_line11 | print
+| bip_39_word_new_line_11 | print
 scissors
 enlist
 artwork
@@ -66,7 +66,7 @@ top
 guard
 gospel
 west |  
-| bip_39_word_new_line12 | print
+| bip_39_word_new_line_12 | print
 scissors
 enlist
 artwork
@@ -78,34 +78,34 @@ guard
 gospel
 west
 act |  
-| bip_39_word_new_line2 | print
+| bip_39_word_new_line_2 | print
 scissors |  
-| bip_39_word_new_line3 | print
+| bip_39_word_new_line_3 | print
 scissors
 enlist |  
-| bip_39_word_new_line4 | print
+| bip_39_word_new_line_4 | print
 scissors
 enlist
 artwork |  
-| bip_39_word_new_line5 | print
+| bip_39_word_new_line_5 | print
 scissors
 enlist
 artwork
 move |  
-| bip_39_word_new_line6 | print
+| bip_39_word_new_line_6 | print
 scissors
 enlist
 artwork
 move
 trophy |  
-| bip_39_word_new_line7 | print
+| bip_39_word_new_line_7 | print
 scissors
 enlist
 artwork
 move
 trophy
 roof |  
-| bip_39_word_new_line8 | print
+| bip_39_word_new_line_8 | print
 scissors
 enlist
 artwork
@@ -113,7 +113,7 @@ move
 trophy
 roof
 top |  
-| bip_39_word_new_line9 | print
+| bip_39_word_new_line_9 | print
 scissors
 enlist
 artwork

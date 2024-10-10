@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | subway |  
-| bip_39_word_new_br10 | subway<br>tennis<br>general<br>nut<br>crime<br>rich<br>slender<br>fever<br>heart<br>all |  
-| bip_39_word_new_br11 | subway<br>tennis<br>general<br>nut<br>crime<br>rich<br>slender<br>fever<br>heart<br>all<br>wealth |  
-| bip_39_word_new_br12 | subway<br>tennis<br>general<br>nut<br>crime<br>rich<br>slender<br>fever<br>heart<br>all<br>wealth<br>anger |  
-| bip_39_word_new_br2 | subway<br>tennis |  
-| bip_39_word_new_br3 | subway<br>tennis<br>general |  
-| bip_39_word_new_br4 | subway<br>tennis<br>general<br>nut |  
-| bip_39_word_new_br5 | subway<br>tennis<br>general<br>nut<br>crime |  
-| bip_39_word_new_br6 | subway<br>tennis<br>general<br>nut<br>crime<br>rich |  
-| bip_39_word_new_br7 | subway<br>tennis<br>general<br>nut<br>crime<br>rich<br>slender |  
-| bip_39_word_new_br8 | subway<br>tennis<br>general<br>nut<br>crime<br>rich<br>slender<br>fever |  
-| bip_39_word_new_br9 | subway<br>tennis<br>general<br>nut<br>crime<br>rich<br>slender<br>fever<br>heart |  
-| bip_39_word_new_line1 | subway |  
-| bip_39_word_new_line10 | subway
+| bip_39_word_new_br_1 | subway |  
+| bip_39_word_new_br_10 | subway<br>tennis<br>general<br>nut<br>crime<br>rich<br>slender<br>fever<br>heart<br>all |  
+| bip_39_word_new_br_11 | subway<br>tennis<br>general<br>nut<br>crime<br>rich<br>slender<br>fever<br>heart<br>all<br>wealth |  
+| bip_39_word_new_br_12 | subway<br>tennis<br>general<br>nut<br>crime<br>rich<br>slender<br>fever<br>heart<br>all<br>wealth<br>anger |  
+| bip_39_word_new_br_2 | subway<br>tennis |  
+| bip_39_word_new_br_3 | subway<br>tennis<br>general |  
+| bip_39_word_new_br_4 | subway<br>tennis<br>general<br>nut |  
+| bip_39_word_new_br_5 | subway<br>tennis<br>general<br>nut<br>crime |  
+| bip_39_word_new_br_6 | subway<br>tennis<br>general<br>nut<br>crime<br>rich |  
+| bip_39_word_new_br_7 | subway<br>tennis<br>general<br>nut<br>crime<br>rich<br>slender |  
+| bip_39_word_new_br_8 | subway<br>tennis<br>general<br>nut<br>crime<br>rich<br>slender<br>fever |  
+| bip_39_word_new_br_9 | subway<br>tennis<br>general<br>nut<br>crime<br>rich<br>slender<br>fever<br>heart |  
+| bip_39_word_new_line_1 | subway |  
+| bip_39_word_new_line_10 | subway
 tennis
 general
 nut
@@ -55,7 +55,7 @@ slender
 fever
 heart
 all |  
-| bip_39_word_new_line11 | subway
+| bip_39_word_new_line_11 | subway
 tennis
 general
 nut
@@ -66,7 +66,7 @@ fever
 heart
 all
 wealth |  
-| bip_39_word_new_line12 | subway
+| bip_39_word_new_line_12 | subway
 tennis
 general
 nut
@@ -78,34 +78,34 @@ heart
 all
 wealth
 anger |  
-| bip_39_word_new_line2 | subway
+| bip_39_word_new_line_2 | subway
 tennis |  
-| bip_39_word_new_line3 | subway
+| bip_39_word_new_line_3 | subway
 tennis
 general |  
-| bip_39_word_new_line4 | subway
+| bip_39_word_new_line_4 | subway
 tennis
 general
 nut |  
-| bip_39_word_new_line5 | subway
+| bip_39_word_new_line_5 | subway
 tennis
 general
 nut
 crime |  
-| bip_39_word_new_line6 | subway
+| bip_39_word_new_line_6 | subway
 tennis
 general
 nut
 crime
 rich |  
-| bip_39_word_new_line7 | subway
+| bip_39_word_new_line_7 | subway
 tennis
 general
 nut
 crime
 rich
 slender |  
-| bip_39_word_new_line8 | subway
+| bip_39_word_new_line_8 | subway
 tennis
 general
 nut
@@ -113,7 +113,7 @@ crime
 rich
 slender
 fever |  
-| bip_39_word_new_line9 | subway
+| bip_39_word_new_line_9 | subway
 tennis
 general
 nut

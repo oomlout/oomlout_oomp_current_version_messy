@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | drift |  
-| bip_39_word_new_br10 | drift<br>huge<br>price<br>magnet<br>galaxy<br>profit<br>state<br>hawk<br>shoe<br>olive |  
-| bip_39_word_new_br11 | drift<br>huge<br>price<br>magnet<br>galaxy<br>profit<br>state<br>hawk<br>shoe<br>olive<br>kitchen |  
-| bip_39_word_new_br12 | drift<br>huge<br>price<br>magnet<br>galaxy<br>profit<br>state<br>hawk<br>shoe<br>olive<br>kitchen<br>alpha |  
-| bip_39_word_new_br2 | drift<br>huge |  
-| bip_39_word_new_br3 | drift<br>huge<br>price |  
-| bip_39_word_new_br4 | drift<br>huge<br>price<br>magnet |  
-| bip_39_word_new_br5 | drift<br>huge<br>price<br>magnet<br>galaxy |  
-| bip_39_word_new_br6 | drift<br>huge<br>price<br>magnet<br>galaxy<br>profit |  
-| bip_39_word_new_br7 | drift<br>huge<br>price<br>magnet<br>galaxy<br>profit<br>state |  
-| bip_39_word_new_br8 | drift<br>huge<br>price<br>magnet<br>galaxy<br>profit<br>state<br>hawk |  
-| bip_39_word_new_br9 | drift<br>huge<br>price<br>magnet<br>galaxy<br>profit<br>state<br>hawk<br>shoe |  
-| bip_39_word_new_line1 | drift |  
-| bip_39_word_new_line10 | drift
+| bip_39_word_new_br_1 | drift |  
+| bip_39_word_new_br_10 | drift<br>huge<br>price<br>magnet<br>galaxy<br>profit<br>state<br>hawk<br>shoe<br>olive |  
+| bip_39_word_new_br_11 | drift<br>huge<br>price<br>magnet<br>galaxy<br>profit<br>state<br>hawk<br>shoe<br>olive<br>kitchen |  
+| bip_39_word_new_br_12 | drift<br>huge<br>price<br>magnet<br>galaxy<br>profit<br>state<br>hawk<br>shoe<br>olive<br>kitchen<br>alpha |  
+| bip_39_word_new_br_2 | drift<br>huge |  
+| bip_39_word_new_br_3 | drift<br>huge<br>price |  
+| bip_39_word_new_br_4 | drift<br>huge<br>price<br>magnet |  
+| bip_39_word_new_br_5 | drift<br>huge<br>price<br>magnet<br>galaxy |  
+| bip_39_word_new_br_6 | drift<br>huge<br>price<br>magnet<br>galaxy<br>profit |  
+| bip_39_word_new_br_7 | drift<br>huge<br>price<br>magnet<br>galaxy<br>profit<br>state |  
+| bip_39_word_new_br_8 | drift<br>huge<br>price<br>magnet<br>galaxy<br>profit<br>state<br>hawk |  
+| bip_39_word_new_br_9 | drift<br>huge<br>price<br>magnet<br>galaxy<br>profit<br>state<br>hawk<br>shoe |  
+| bip_39_word_new_line_1 | drift |  
+| bip_39_word_new_line_10 | drift
 huge
 price
 magnet
@@ -55,7 +55,7 @@ state
 hawk
 shoe
 olive |  
-| bip_39_word_new_line11 | drift
+| bip_39_word_new_line_11 | drift
 huge
 price
 magnet
@@ -66,7 +66,7 @@ hawk
 shoe
 olive
 kitchen |  
-| bip_39_word_new_line12 | drift
+| bip_39_word_new_line_12 | drift
 huge
 price
 magnet
@@ -78,34 +78,34 @@ shoe
 olive
 kitchen
 alpha |  
-| bip_39_word_new_line2 | drift
+| bip_39_word_new_line_2 | drift
 huge |  
-| bip_39_word_new_line3 | drift
+| bip_39_word_new_line_3 | drift
 huge
 price |  
-| bip_39_word_new_line4 | drift
+| bip_39_word_new_line_4 | drift
 huge
 price
 magnet |  
-| bip_39_word_new_line5 | drift
+| bip_39_word_new_line_5 | drift
 huge
 price
 magnet
 galaxy |  
-| bip_39_word_new_line6 | drift
+| bip_39_word_new_line_6 | drift
 huge
 price
 magnet
 galaxy
 profit |  
-| bip_39_word_new_line7 | drift
+| bip_39_word_new_line_7 | drift
 huge
 price
 magnet
 galaxy
 profit
 state |  
-| bip_39_word_new_line8 | drift
+| bip_39_word_new_line_8 | drift
 huge
 price
 magnet
@@ -113,7 +113,7 @@ galaxy
 profit
 state
 hawk |  
-| bip_39_word_new_line9 | drift
+| bip_39_word_new_line_9 | drift
 huge
 price
 magnet

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | correct |  
-| bip_39_word_new_br10 | correct<br>angry<br>universe<br>spring<br>tree<br>outdoor<br>mammal<br>hollow<br>evil<br>north |  
-| bip_39_word_new_br11 | correct<br>angry<br>universe<br>spring<br>tree<br>outdoor<br>mammal<br>hollow<br>evil<br>north<br>source |  
-| bip_39_word_new_br12 | correct<br>angry<br>universe<br>spring<br>tree<br>outdoor<br>mammal<br>hollow<br>evil<br>north<br>source<br>agent |  
-| bip_39_word_new_br2 | correct<br>angry |  
-| bip_39_word_new_br3 | correct<br>angry<br>universe |  
-| bip_39_word_new_br4 | correct<br>angry<br>universe<br>spring |  
-| bip_39_word_new_br5 | correct<br>angry<br>universe<br>spring<br>tree |  
-| bip_39_word_new_br6 | correct<br>angry<br>universe<br>spring<br>tree<br>outdoor |  
-| bip_39_word_new_br7 | correct<br>angry<br>universe<br>spring<br>tree<br>outdoor<br>mammal |  
-| bip_39_word_new_br8 | correct<br>angry<br>universe<br>spring<br>tree<br>outdoor<br>mammal<br>hollow |  
-| bip_39_word_new_br9 | correct<br>angry<br>universe<br>spring<br>tree<br>outdoor<br>mammal<br>hollow<br>evil |  
-| bip_39_word_new_line1 | correct |  
-| bip_39_word_new_line10 | correct
+| bip_39_word_new_br_1 | correct |  
+| bip_39_word_new_br_10 | correct<br>angry<br>universe<br>spring<br>tree<br>outdoor<br>mammal<br>hollow<br>evil<br>north |  
+| bip_39_word_new_br_11 | correct<br>angry<br>universe<br>spring<br>tree<br>outdoor<br>mammal<br>hollow<br>evil<br>north<br>source |  
+| bip_39_word_new_br_12 | correct<br>angry<br>universe<br>spring<br>tree<br>outdoor<br>mammal<br>hollow<br>evil<br>north<br>source<br>agent |  
+| bip_39_word_new_br_2 | correct<br>angry |  
+| bip_39_word_new_br_3 | correct<br>angry<br>universe |  
+| bip_39_word_new_br_4 | correct<br>angry<br>universe<br>spring |  
+| bip_39_word_new_br_5 | correct<br>angry<br>universe<br>spring<br>tree |  
+| bip_39_word_new_br_6 | correct<br>angry<br>universe<br>spring<br>tree<br>outdoor |  
+| bip_39_word_new_br_7 | correct<br>angry<br>universe<br>spring<br>tree<br>outdoor<br>mammal |  
+| bip_39_word_new_br_8 | correct<br>angry<br>universe<br>spring<br>tree<br>outdoor<br>mammal<br>hollow |  
+| bip_39_word_new_br_9 | correct<br>angry<br>universe<br>spring<br>tree<br>outdoor<br>mammal<br>hollow<br>evil |  
+| bip_39_word_new_line_1 | correct |  
+| bip_39_word_new_line_10 | correct
 angry
 universe
 spring
@@ -55,7 +55,7 @@ mammal
 hollow
 evil
 north |  
-| bip_39_word_new_line11 | correct
+| bip_39_word_new_line_11 | correct
 angry
 universe
 spring
@@ -66,7 +66,7 @@ hollow
 evil
 north
 source |  
-| bip_39_word_new_line12 | correct
+| bip_39_word_new_line_12 | correct
 angry
 universe
 spring
@@ -78,34 +78,34 @@ evil
 north
 source
 agent |  
-| bip_39_word_new_line2 | correct
+| bip_39_word_new_line_2 | correct
 angry |  
-| bip_39_word_new_line3 | correct
+| bip_39_word_new_line_3 | correct
 angry
 universe |  
-| bip_39_word_new_line4 | correct
+| bip_39_word_new_line_4 | correct
 angry
 universe
 spring |  
-| bip_39_word_new_line5 | correct
+| bip_39_word_new_line_5 | correct
 angry
 universe
 spring
 tree |  
-| bip_39_word_new_line6 | correct
+| bip_39_word_new_line_6 | correct
 angry
 universe
 spring
 tree
 outdoor |  
-| bip_39_word_new_line7 | correct
+| bip_39_word_new_line_7 | correct
 angry
 universe
 spring
 tree
 outdoor
 mammal |  
-| bip_39_word_new_line8 | correct
+| bip_39_word_new_line_8 | correct
 angry
 universe
 spring
@@ -113,7 +113,7 @@ tree
 outdoor
 mammal
 hollow |  
-| bip_39_word_new_line9 | correct
+| bip_39_word_new_line_9 | correct
 angry
 universe
 spring

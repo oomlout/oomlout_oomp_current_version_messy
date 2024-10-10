@@ -1,17 +1,17 @@
-bip_39_word_new_br1: scheme
-bip_39_word_new_br10: scheme<br>eager<br>busy<br>pelican<br>curious<br>exit<br>imitate<br>super<br>citizen<br>sauce
-bip_39_word_new_br11: scheme<br>eager<br>busy<br>pelican<br>curious<br>exit<br>imitate<br>super<br>citizen<br>sauce<br>card
-bip_39_word_new_br12: scheme<br>eager<br>busy<br>pelican<br>curious<br>exit<br>imitate<br>super<br>citizen<br>sauce<br>card<br>adapt
-bip_39_word_new_br2: scheme<br>eager
-bip_39_word_new_br3: scheme<br>eager<br>busy
-bip_39_word_new_br4: scheme<br>eager<br>busy<br>pelican
-bip_39_word_new_br5: scheme<br>eager<br>busy<br>pelican<br>curious
-bip_39_word_new_br6: scheme<br>eager<br>busy<br>pelican<br>curious<br>exit
-bip_39_word_new_br7: scheme<br>eager<br>busy<br>pelican<br>curious<br>exit<br>imitate
-bip_39_word_new_br8: scheme<br>eager<br>busy<br>pelican<br>curious<br>exit<br>imitate<br>super
-bip_39_word_new_br9: scheme<br>eager<br>busy<br>pelican<br>curious<br>exit<br>imitate<br>super<br>citizen
-bip_39_word_new_line1: scheme
-bip_39_word_new_line10: 'scheme
+bip_39_word_new_br_1: scheme
+bip_39_word_new_br_10: scheme<br>eager<br>busy<br>pelican<br>curious<br>exit<br>imitate<br>super<br>citizen<br>sauce
+bip_39_word_new_br_11: scheme<br>eager<br>busy<br>pelican<br>curious<br>exit<br>imitate<br>super<br>citizen<br>sauce<br>card
+bip_39_word_new_br_12: scheme<br>eager<br>busy<br>pelican<br>curious<br>exit<br>imitate<br>super<br>citizen<br>sauce<br>card<br>adapt
+bip_39_word_new_br_2: scheme<br>eager
+bip_39_word_new_br_3: scheme<br>eager<br>busy
+bip_39_word_new_br_4: scheme<br>eager<br>busy<br>pelican
+bip_39_word_new_br_5: scheme<br>eager<br>busy<br>pelican<br>curious
+bip_39_word_new_br_6: scheme<br>eager<br>busy<br>pelican<br>curious<br>exit
+bip_39_word_new_br_7: scheme<br>eager<br>busy<br>pelican<br>curious<br>exit<br>imitate
+bip_39_word_new_br_8: scheme<br>eager<br>busy<br>pelican<br>curious<br>exit<br>imitate<br>super
+bip_39_word_new_br_9: scheme<br>eager<br>busy<br>pelican<br>curious<br>exit<br>imitate<br>super<br>citizen
+bip_39_word_new_line_1: scheme
+bip_39_word_new_line_10: 'scheme
 
   eager
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'scheme
   citizen
 
   sauce'
-bip_39_word_new_line11: 'scheme
+bip_39_word_new_line_11: 'scheme
 
   eager
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'scheme
   sauce
 
   card'
-bip_39_word_new_line12: 'scheme
+bip_39_word_new_line_12: 'scheme
 
   eager
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'scheme
   card
 
   adapt'
-bip_39_word_new_line2: 'scheme
+bip_39_word_new_line_2: 'scheme
 
   eager'
-bip_39_word_new_line3: 'scheme
+bip_39_word_new_line_3: 'scheme
 
   eager
 
   busy'
-bip_39_word_new_line4: 'scheme
+bip_39_word_new_line_4: 'scheme
 
   eager
 
   busy
 
   pelican'
-bip_39_word_new_line5: 'scheme
+bip_39_word_new_line_5: 'scheme
 
   eager
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'scheme
   pelican
 
   curious'
-bip_39_word_new_line6: 'scheme
+bip_39_word_new_line_6: 'scheme
 
   eager
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'scheme
   curious
 
   exit'
-bip_39_word_new_line7: 'scheme
+bip_39_word_new_line_7: 'scheme
 
   eager
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'scheme
   exit
 
   imitate'
-bip_39_word_new_line8: 'scheme
+bip_39_word_new_line_8: 'scheme
 
   eager
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'scheme
   imitate
 
   super'
-bip_39_word_new_line9: 'scheme
+bip_39_word_new_line_9: 'scheme
 
   eager
 

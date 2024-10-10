@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | shaft |  
-| bip_39_word_new_br10 | shaft<br>fatigue<br>menu<br>neither<br>middle<br>focus<br>crowd<br>good<br>axis<br>echo |  
-| bip_39_word_new_br11 | shaft<br>fatigue<br>menu<br>neither<br>middle<br>focus<br>crowd<br>good<br>axis<br>echo<br>window |  
-| bip_39_word_new_br12 | shaft<br>fatigue<br>menu<br>neither<br>middle<br>focus<br>crowd<br>good<br>axis<br>echo<br>window<br>atom |  
-| bip_39_word_new_br2 | shaft<br>fatigue |  
-| bip_39_word_new_br3 | shaft<br>fatigue<br>menu |  
-| bip_39_word_new_br4 | shaft<br>fatigue<br>menu<br>neither |  
-| bip_39_word_new_br5 | shaft<br>fatigue<br>menu<br>neither<br>middle |  
-| bip_39_word_new_br6 | shaft<br>fatigue<br>menu<br>neither<br>middle<br>focus |  
-| bip_39_word_new_br7 | shaft<br>fatigue<br>menu<br>neither<br>middle<br>focus<br>crowd |  
-| bip_39_word_new_br8 | shaft<br>fatigue<br>menu<br>neither<br>middle<br>focus<br>crowd<br>good |  
-| bip_39_word_new_br9 | shaft<br>fatigue<br>menu<br>neither<br>middle<br>focus<br>crowd<br>good<br>axis |  
-| bip_39_word_new_line1 | shaft |  
-| bip_39_word_new_line10 | shaft
+| bip_39_word_new_br_1 | shaft |  
+| bip_39_word_new_br_10 | shaft<br>fatigue<br>menu<br>neither<br>middle<br>focus<br>crowd<br>good<br>axis<br>echo |  
+| bip_39_word_new_br_11 | shaft<br>fatigue<br>menu<br>neither<br>middle<br>focus<br>crowd<br>good<br>axis<br>echo<br>window |  
+| bip_39_word_new_br_12 | shaft<br>fatigue<br>menu<br>neither<br>middle<br>focus<br>crowd<br>good<br>axis<br>echo<br>window<br>atom |  
+| bip_39_word_new_br_2 | shaft<br>fatigue |  
+| bip_39_word_new_br_3 | shaft<br>fatigue<br>menu |  
+| bip_39_word_new_br_4 | shaft<br>fatigue<br>menu<br>neither |  
+| bip_39_word_new_br_5 | shaft<br>fatigue<br>menu<br>neither<br>middle |  
+| bip_39_word_new_br_6 | shaft<br>fatigue<br>menu<br>neither<br>middle<br>focus |  
+| bip_39_word_new_br_7 | shaft<br>fatigue<br>menu<br>neither<br>middle<br>focus<br>crowd |  
+| bip_39_word_new_br_8 | shaft<br>fatigue<br>menu<br>neither<br>middle<br>focus<br>crowd<br>good |  
+| bip_39_word_new_br_9 | shaft<br>fatigue<br>menu<br>neither<br>middle<br>focus<br>crowd<br>good<br>axis |  
+| bip_39_word_new_line_1 | shaft |  
+| bip_39_word_new_line_10 | shaft
 fatigue
 menu
 neither
@@ -55,7 +55,7 @@ crowd
 good
 axis
 echo |  
-| bip_39_word_new_line11 | shaft
+| bip_39_word_new_line_11 | shaft
 fatigue
 menu
 neither
@@ -66,7 +66,7 @@ good
 axis
 echo
 window |  
-| bip_39_word_new_line12 | shaft
+| bip_39_word_new_line_12 | shaft
 fatigue
 menu
 neither
@@ -78,34 +78,34 @@ axis
 echo
 window
 atom |  
-| bip_39_word_new_line2 | shaft
+| bip_39_word_new_line_2 | shaft
 fatigue |  
-| bip_39_word_new_line3 | shaft
+| bip_39_word_new_line_3 | shaft
 fatigue
 menu |  
-| bip_39_word_new_line4 | shaft
+| bip_39_word_new_line_4 | shaft
 fatigue
 menu
 neither |  
-| bip_39_word_new_line5 | shaft
+| bip_39_word_new_line_5 | shaft
 fatigue
 menu
 neither
 middle |  
-| bip_39_word_new_line6 | shaft
+| bip_39_word_new_line_6 | shaft
 fatigue
 menu
 neither
 middle
 focus |  
-| bip_39_word_new_line7 | shaft
+| bip_39_word_new_line_7 | shaft
 fatigue
 menu
 neither
 middle
 focus
 crowd |  
-| bip_39_word_new_line8 | shaft
+| bip_39_word_new_line_8 | shaft
 fatigue
 menu
 neither
@@ -113,7 +113,7 @@ middle
 focus
 crowd
 good |  
-| bip_39_word_new_line9 | shaft
+| bip_39_word_new_line_9 | shaft
 fatigue
 menu
 neither

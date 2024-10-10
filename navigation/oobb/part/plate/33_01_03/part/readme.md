@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | stamp |  
-| bip_39_word_new_br10 | stamp<br>leave<br>blouse<br>throw<br>coast<br>yellow<br>rail<br>tiny<br>supreme<br>lecture |  
-| bip_39_word_new_br11 | stamp<br>leave<br>blouse<br>throw<br>coast<br>yellow<br>rail<br>tiny<br>supreme<br>lecture<br>damp |  
-| bip_39_word_new_br12 | stamp<br>leave<br>blouse<br>throw<br>coast<br>yellow<br>rail<br>tiny<br>supreme<br>lecture<br>damp<br>amused |  
-| bip_39_word_new_br2 | stamp<br>leave |  
-| bip_39_word_new_br3 | stamp<br>leave<br>blouse |  
-| bip_39_word_new_br4 | stamp<br>leave<br>blouse<br>throw |  
-| bip_39_word_new_br5 | stamp<br>leave<br>blouse<br>throw<br>coast |  
-| bip_39_word_new_br6 | stamp<br>leave<br>blouse<br>throw<br>coast<br>yellow |  
-| bip_39_word_new_br7 | stamp<br>leave<br>blouse<br>throw<br>coast<br>yellow<br>rail |  
-| bip_39_word_new_br8 | stamp<br>leave<br>blouse<br>throw<br>coast<br>yellow<br>rail<br>tiny |  
-| bip_39_word_new_br9 | stamp<br>leave<br>blouse<br>throw<br>coast<br>yellow<br>rail<br>tiny<br>supreme |  
-| bip_39_word_new_line1 | stamp |  
-| bip_39_word_new_line10 | stamp
+| bip_39_word_new_br_1 | stamp |  
+| bip_39_word_new_br_10 | stamp<br>leave<br>blouse<br>throw<br>coast<br>yellow<br>rail<br>tiny<br>supreme<br>lecture |  
+| bip_39_word_new_br_11 | stamp<br>leave<br>blouse<br>throw<br>coast<br>yellow<br>rail<br>tiny<br>supreme<br>lecture<br>damp |  
+| bip_39_word_new_br_12 | stamp<br>leave<br>blouse<br>throw<br>coast<br>yellow<br>rail<br>tiny<br>supreme<br>lecture<br>damp<br>amused |  
+| bip_39_word_new_br_2 | stamp<br>leave |  
+| bip_39_word_new_br_3 | stamp<br>leave<br>blouse |  
+| bip_39_word_new_br_4 | stamp<br>leave<br>blouse<br>throw |  
+| bip_39_word_new_br_5 | stamp<br>leave<br>blouse<br>throw<br>coast |  
+| bip_39_word_new_br_6 | stamp<br>leave<br>blouse<br>throw<br>coast<br>yellow |  
+| bip_39_word_new_br_7 | stamp<br>leave<br>blouse<br>throw<br>coast<br>yellow<br>rail |  
+| bip_39_word_new_br_8 | stamp<br>leave<br>blouse<br>throw<br>coast<br>yellow<br>rail<br>tiny |  
+| bip_39_word_new_br_9 | stamp<br>leave<br>blouse<br>throw<br>coast<br>yellow<br>rail<br>tiny<br>supreme |  
+| bip_39_word_new_line_1 | stamp |  
+| bip_39_word_new_line_10 | stamp
 leave
 blouse
 throw
@@ -55,7 +55,7 @@ rail
 tiny
 supreme
 lecture |  
-| bip_39_word_new_line11 | stamp
+| bip_39_word_new_line_11 | stamp
 leave
 blouse
 throw
@@ -66,7 +66,7 @@ tiny
 supreme
 lecture
 damp |  
-| bip_39_word_new_line12 | stamp
+| bip_39_word_new_line_12 | stamp
 leave
 blouse
 throw
@@ -78,34 +78,34 @@ supreme
 lecture
 damp
 amused |  
-| bip_39_word_new_line2 | stamp
+| bip_39_word_new_line_2 | stamp
 leave |  
-| bip_39_word_new_line3 | stamp
+| bip_39_word_new_line_3 | stamp
 leave
 blouse |  
-| bip_39_word_new_line4 | stamp
+| bip_39_word_new_line_4 | stamp
 leave
 blouse
 throw |  
-| bip_39_word_new_line5 | stamp
+| bip_39_word_new_line_5 | stamp
 leave
 blouse
 throw
 coast |  
-| bip_39_word_new_line6 | stamp
+| bip_39_word_new_line_6 | stamp
 leave
 blouse
 throw
 coast
 yellow |  
-| bip_39_word_new_line7 | stamp
+| bip_39_word_new_line_7 | stamp
 leave
 blouse
 throw
 coast
 yellow
 rail |  
-| bip_39_word_new_line8 | stamp
+| bip_39_word_new_line_8 | stamp
 leave
 blouse
 throw
@@ -113,7 +113,7 @@ coast
 yellow
 rail
 tiny |  
-| bip_39_word_new_line9 | stamp
+| bip_39_word_new_line_9 | stamp
 leave
 blouse
 throw

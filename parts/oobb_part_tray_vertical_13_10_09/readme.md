@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rebel |  
-| bip_39_word_new_br10 | rebel<br>hurdle<br>media<br>sword<br>twenty<br>nose<br>clinic<br>alarm<br>sugar<br>obtain |  
-| bip_39_word_new_br11 | rebel<br>hurdle<br>media<br>sword<br>twenty<br>nose<br>clinic<br>alarm<br>sugar<br>obtain<br>monster |  
-| bip_39_word_new_br12 | rebel<br>hurdle<br>media<br>sword<br>twenty<br>nose<br>clinic<br>alarm<br>sugar<br>obtain<br>monster<br>artist |  
-| bip_39_word_new_br2 | rebel<br>hurdle |  
-| bip_39_word_new_br3 | rebel<br>hurdle<br>media |  
-| bip_39_word_new_br4 | rebel<br>hurdle<br>media<br>sword |  
-| bip_39_word_new_br5 | rebel<br>hurdle<br>media<br>sword<br>twenty |  
-| bip_39_word_new_br6 | rebel<br>hurdle<br>media<br>sword<br>twenty<br>nose |  
-| bip_39_word_new_br7 | rebel<br>hurdle<br>media<br>sword<br>twenty<br>nose<br>clinic |  
-| bip_39_word_new_br8 | rebel<br>hurdle<br>media<br>sword<br>twenty<br>nose<br>clinic<br>alarm |  
-| bip_39_word_new_br9 | rebel<br>hurdle<br>media<br>sword<br>twenty<br>nose<br>clinic<br>alarm<br>sugar |  
-| bip_39_word_new_line1 | rebel |  
-| bip_39_word_new_line10 | rebel
+| bip_39_word_new_br_1 | rebel |  
+| bip_39_word_new_br_10 | rebel<br>hurdle<br>media<br>sword<br>twenty<br>nose<br>clinic<br>alarm<br>sugar<br>obtain |  
+| bip_39_word_new_br_11 | rebel<br>hurdle<br>media<br>sword<br>twenty<br>nose<br>clinic<br>alarm<br>sugar<br>obtain<br>monster |  
+| bip_39_word_new_br_12 | rebel<br>hurdle<br>media<br>sword<br>twenty<br>nose<br>clinic<br>alarm<br>sugar<br>obtain<br>monster<br>artist |  
+| bip_39_word_new_br_2 | rebel<br>hurdle |  
+| bip_39_word_new_br_3 | rebel<br>hurdle<br>media |  
+| bip_39_word_new_br_4 | rebel<br>hurdle<br>media<br>sword |  
+| bip_39_word_new_br_5 | rebel<br>hurdle<br>media<br>sword<br>twenty |  
+| bip_39_word_new_br_6 | rebel<br>hurdle<br>media<br>sword<br>twenty<br>nose |  
+| bip_39_word_new_br_7 | rebel<br>hurdle<br>media<br>sword<br>twenty<br>nose<br>clinic |  
+| bip_39_word_new_br_8 | rebel<br>hurdle<br>media<br>sword<br>twenty<br>nose<br>clinic<br>alarm |  
+| bip_39_word_new_br_9 | rebel<br>hurdle<br>media<br>sword<br>twenty<br>nose<br>clinic<br>alarm<br>sugar |  
+| bip_39_word_new_line_1 | rebel |  
+| bip_39_word_new_line_10 | rebel
 hurdle
 media
 sword
@@ -55,7 +55,7 @@ clinic
 alarm
 sugar
 obtain |  
-| bip_39_word_new_line11 | rebel
+| bip_39_word_new_line_11 | rebel
 hurdle
 media
 sword
@@ -66,7 +66,7 @@ alarm
 sugar
 obtain
 monster |  
-| bip_39_word_new_line12 | rebel
+| bip_39_word_new_line_12 | rebel
 hurdle
 media
 sword
@@ -78,34 +78,34 @@ sugar
 obtain
 monster
 artist |  
-| bip_39_word_new_line2 | rebel
+| bip_39_word_new_line_2 | rebel
 hurdle |  
-| bip_39_word_new_line3 | rebel
+| bip_39_word_new_line_3 | rebel
 hurdle
 media |  
-| bip_39_word_new_line4 | rebel
+| bip_39_word_new_line_4 | rebel
 hurdle
 media
 sword |  
-| bip_39_word_new_line5 | rebel
+| bip_39_word_new_line_5 | rebel
 hurdle
 media
 sword
 twenty |  
-| bip_39_word_new_line6 | rebel
+| bip_39_word_new_line_6 | rebel
 hurdle
 media
 sword
 twenty
 nose |  
-| bip_39_word_new_line7 | rebel
+| bip_39_word_new_line_7 | rebel
 hurdle
 media
 sword
 twenty
 nose
 clinic |  
-| bip_39_word_new_line8 | rebel
+| bip_39_word_new_line_8 | rebel
 hurdle
 media
 sword
@@ -113,7 +113,7 @@ twenty
 nose
 clinic
 alarm |  
-| bip_39_word_new_line9 | rebel
+| bip_39_word_new_line_9 | rebel
 hurdle
 media
 sword

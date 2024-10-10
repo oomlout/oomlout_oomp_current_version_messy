@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fresh |  
-| bip_39_word_new_br10 | fresh<br>kingdom<br>scare<br>void<br>inherit<br>obey<br>lunch<br>much<br>noodle<br>ready |  
-| bip_39_word_new_br11 | fresh<br>kingdom<br>scare<br>void<br>inherit<br>obey<br>lunch<br>much<br>noodle<br>ready<br>ordinary |  
-| bip_39_word_new_br12 | fresh<br>kingdom<br>scare<br>void<br>inherit<br>obey<br>lunch<br>much<br>noodle<br>ready<br>ordinary<br>affair |  
-| bip_39_word_new_br2 | fresh<br>kingdom |  
-| bip_39_word_new_br3 | fresh<br>kingdom<br>scare |  
-| bip_39_word_new_br4 | fresh<br>kingdom<br>scare<br>void |  
-| bip_39_word_new_br5 | fresh<br>kingdom<br>scare<br>void<br>inherit |  
-| bip_39_word_new_br6 | fresh<br>kingdom<br>scare<br>void<br>inherit<br>obey |  
-| bip_39_word_new_br7 | fresh<br>kingdom<br>scare<br>void<br>inherit<br>obey<br>lunch |  
-| bip_39_word_new_br8 | fresh<br>kingdom<br>scare<br>void<br>inherit<br>obey<br>lunch<br>much |  
-| bip_39_word_new_br9 | fresh<br>kingdom<br>scare<br>void<br>inherit<br>obey<br>lunch<br>much<br>noodle |  
-| bip_39_word_new_line1 | fresh |  
-| bip_39_word_new_line10 | fresh
+| bip_39_word_new_br_1 | fresh |  
+| bip_39_word_new_br_10 | fresh<br>kingdom<br>scare<br>void<br>inherit<br>obey<br>lunch<br>much<br>noodle<br>ready |  
+| bip_39_word_new_br_11 | fresh<br>kingdom<br>scare<br>void<br>inherit<br>obey<br>lunch<br>much<br>noodle<br>ready<br>ordinary |  
+| bip_39_word_new_br_12 | fresh<br>kingdom<br>scare<br>void<br>inherit<br>obey<br>lunch<br>much<br>noodle<br>ready<br>ordinary<br>affair |  
+| bip_39_word_new_br_2 | fresh<br>kingdom |  
+| bip_39_word_new_br_3 | fresh<br>kingdom<br>scare |  
+| bip_39_word_new_br_4 | fresh<br>kingdom<br>scare<br>void |  
+| bip_39_word_new_br_5 | fresh<br>kingdom<br>scare<br>void<br>inherit |  
+| bip_39_word_new_br_6 | fresh<br>kingdom<br>scare<br>void<br>inherit<br>obey |  
+| bip_39_word_new_br_7 | fresh<br>kingdom<br>scare<br>void<br>inherit<br>obey<br>lunch |  
+| bip_39_word_new_br_8 | fresh<br>kingdom<br>scare<br>void<br>inherit<br>obey<br>lunch<br>much |  
+| bip_39_word_new_br_9 | fresh<br>kingdom<br>scare<br>void<br>inherit<br>obey<br>lunch<br>much<br>noodle |  
+| bip_39_word_new_line_1 | fresh |  
+| bip_39_word_new_line_10 | fresh
 kingdom
 scare
 void
@@ -55,7 +55,7 @@ lunch
 much
 noodle
 ready |  
-| bip_39_word_new_line11 | fresh
+| bip_39_word_new_line_11 | fresh
 kingdom
 scare
 void
@@ -66,7 +66,7 @@ much
 noodle
 ready
 ordinary |  
-| bip_39_word_new_line12 | fresh
+| bip_39_word_new_line_12 | fresh
 kingdom
 scare
 void
@@ -78,34 +78,34 @@ noodle
 ready
 ordinary
 affair |  
-| bip_39_word_new_line2 | fresh
+| bip_39_word_new_line_2 | fresh
 kingdom |  
-| bip_39_word_new_line3 | fresh
+| bip_39_word_new_line_3 | fresh
 kingdom
 scare |  
-| bip_39_word_new_line4 | fresh
+| bip_39_word_new_line_4 | fresh
 kingdom
 scare
 void |  
-| bip_39_word_new_line5 | fresh
+| bip_39_word_new_line_5 | fresh
 kingdom
 scare
 void
 inherit |  
-| bip_39_word_new_line6 | fresh
+| bip_39_word_new_line_6 | fresh
 kingdom
 scare
 void
 inherit
 obey |  
-| bip_39_word_new_line7 | fresh
+| bip_39_word_new_line_7 | fresh
 kingdom
 scare
 void
 inherit
 obey
 lunch |  
-| bip_39_word_new_line8 | fresh
+| bip_39_word_new_line_8 | fresh
 kingdom
 scare
 void
@@ -113,7 +113,7 @@ inherit
 obey
 lunch
 much |  
-| bip_39_word_new_line9 | fresh
+| bip_39_word_new_line_9 | fresh
 kingdom
 scare
 void

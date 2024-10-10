@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hint |  
-| bip_39_word_new_br10 | hint<br>legend<br>crazy<br>intact<br>two<br>art<br>trumpet<br>mix<br>bunker<br>spell |  
-| bip_39_word_new_br11 | hint<br>legend<br>crazy<br>intact<br>two<br>art<br>trumpet<br>mix<br>bunker<br>spell<br>swarm |  
-| bip_39_word_new_br12 | hint<br>legend<br>crazy<br>intact<br>two<br>art<br>trumpet<br>mix<br>bunker<br>spell<br>swarm<br>artefact |  
-| bip_39_word_new_br2 | hint<br>legend |  
-| bip_39_word_new_br3 | hint<br>legend<br>crazy |  
-| bip_39_word_new_br4 | hint<br>legend<br>crazy<br>intact |  
-| bip_39_word_new_br5 | hint<br>legend<br>crazy<br>intact<br>two |  
-| bip_39_word_new_br6 | hint<br>legend<br>crazy<br>intact<br>two<br>art |  
-| bip_39_word_new_br7 | hint<br>legend<br>crazy<br>intact<br>two<br>art<br>trumpet |  
-| bip_39_word_new_br8 | hint<br>legend<br>crazy<br>intact<br>two<br>art<br>trumpet<br>mix |  
-| bip_39_word_new_br9 | hint<br>legend<br>crazy<br>intact<br>two<br>art<br>trumpet<br>mix<br>bunker |  
-| bip_39_word_new_line1 | hint |  
-| bip_39_word_new_line10 | hint
+| bip_39_word_new_br_1 | hint |  
+| bip_39_word_new_br_10 | hint<br>legend<br>crazy<br>intact<br>two<br>art<br>trumpet<br>mix<br>bunker<br>spell |  
+| bip_39_word_new_br_11 | hint<br>legend<br>crazy<br>intact<br>two<br>art<br>trumpet<br>mix<br>bunker<br>spell<br>swarm |  
+| bip_39_word_new_br_12 | hint<br>legend<br>crazy<br>intact<br>two<br>art<br>trumpet<br>mix<br>bunker<br>spell<br>swarm<br>artefact |  
+| bip_39_word_new_br_2 | hint<br>legend |  
+| bip_39_word_new_br_3 | hint<br>legend<br>crazy |  
+| bip_39_word_new_br_4 | hint<br>legend<br>crazy<br>intact |  
+| bip_39_word_new_br_5 | hint<br>legend<br>crazy<br>intact<br>two |  
+| bip_39_word_new_br_6 | hint<br>legend<br>crazy<br>intact<br>two<br>art |  
+| bip_39_word_new_br_7 | hint<br>legend<br>crazy<br>intact<br>two<br>art<br>trumpet |  
+| bip_39_word_new_br_8 | hint<br>legend<br>crazy<br>intact<br>two<br>art<br>trumpet<br>mix |  
+| bip_39_word_new_br_9 | hint<br>legend<br>crazy<br>intact<br>two<br>art<br>trumpet<br>mix<br>bunker |  
+| bip_39_word_new_line_1 | hint |  
+| bip_39_word_new_line_10 | hint
 legend
 crazy
 intact
@@ -55,7 +55,7 @@ trumpet
 mix
 bunker
 spell |  
-| bip_39_word_new_line11 | hint
+| bip_39_word_new_line_11 | hint
 legend
 crazy
 intact
@@ -66,7 +66,7 @@ mix
 bunker
 spell
 swarm |  
-| bip_39_word_new_line12 | hint
+| bip_39_word_new_line_12 | hint
 legend
 crazy
 intact
@@ -78,34 +78,34 @@ bunker
 spell
 swarm
 artefact |  
-| bip_39_word_new_line2 | hint
+| bip_39_word_new_line_2 | hint
 legend |  
-| bip_39_word_new_line3 | hint
+| bip_39_word_new_line_3 | hint
 legend
 crazy |  
-| bip_39_word_new_line4 | hint
+| bip_39_word_new_line_4 | hint
 legend
 crazy
 intact |  
-| bip_39_word_new_line5 | hint
+| bip_39_word_new_line_5 | hint
 legend
 crazy
 intact
 two |  
-| bip_39_word_new_line6 | hint
+| bip_39_word_new_line_6 | hint
 legend
 crazy
 intact
 two
 art |  
-| bip_39_word_new_line7 | hint
+| bip_39_word_new_line_7 | hint
 legend
 crazy
 intact
 two
 art
 trumpet |  
-| bip_39_word_new_line8 | hint
+| bip_39_word_new_line_8 | hint
 legend
 crazy
 intact
@@ -113,7 +113,7 @@ two
 art
 trumpet
 mix |  
-| bip_39_word_new_line9 | hint
+| bip_39_word_new_line_9 | hint
 legend
 crazy
 intact

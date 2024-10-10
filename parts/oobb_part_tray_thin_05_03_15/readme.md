@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | expand |  
-| bip_39_word_new_br10 | expand<br>defy<br>gold<br>manage<br>slight<br>advance<br>hair<br>stumble<br>cotton<br>energy |  
-| bip_39_word_new_br11 | expand<br>defy<br>gold<br>manage<br>slight<br>advance<br>hair<br>stumble<br>cotton<br>energy<br>dinosaur |  
-| bip_39_word_new_br12 | expand<br>defy<br>gold<br>manage<br>slight<br>advance<br>hair<br>stumble<br>cotton<br>energy<br>dinosaur<br>amateur |  
-| bip_39_word_new_br2 | expand<br>defy |  
-| bip_39_word_new_br3 | expand<br>defy<br>gold |  
-| bip_39_word_new_br4 | expand<br>defy<br>gold<br>manage |  
-| bip_39_word_new_br5 | expand<br>defy<br>gold<br>manage<br>slight |  
-| bip_39_word_new_br6 | expand<br>defy<br>gold<br>manage<br>slight<br>advance |  
-| bip_39_word_new_br7 | expand<br>defy<br>gold<br>manage<br>slight<br>advance<br>hair |  
-| bip_39_word_new_br8 | expand<br>defy<br>gold<br>manage<br>slight<br>advance<br>hair<br>stumble |  
-| bip_39_word_new_br9 | expand<br>defy<br>gold<br>manage<br>slight<br>advance<br>hair<br>stumble<br>cotton |  
-| bip_39_word_new_line1 | expand |  
-| bip_39_word_new_line10 | expand
+| bip_39_word_new_br_1 | expand |  
+| bip_39_word_new_br_10 | expand<br>defy<br>gold<br>manage<br>slight<br>advance<br>hair<br>stumble<br>cotton<br>energy |  
+| bip_39_word_new_br_11 | expand<br>defy<br>gold<br>manage<br>slight<br>advance<br>hair<br>stumble<br>cotton<br>energy<br>dinosaur |  
+| bip_39_word_new_br_12 | expand<br>defy<br>gold<br>manage<br>slight<br>advance<br>hair<br>stumble<br>cotton<br>energy<br>dinosaur<br>amateur |  
+| bip_39_word_new_br_2 | expand<br>defy |  
+| bip_39_word_new_br_3 | expand<br>defy<br>gold |  
+| bip_39_word_new_br_4 | expand<br>defy<br>gold<br>manage |  
+| bip_39_word_new_br_5 | expand<br>defy<br>gold<br>manage<br>slight |  
+| bip_39_word_new_br_6 | expand<br>defy<br>gold<br>manage<br>slight<br>advance |  
+| bip_39_word_new_br_7 | expand<br>defy<br>gold<br>manage<br>slight<br>advance<br>hair |  
+| bip_39_word_new_br_8 | expand<br>defy<br>gold<br>manage<br>slight<br>advance<br>hair<br>stumble |  
+| bip_39_word_new_br_9 | expand<br>defy<br>gold<br>manage<br>slight<br>advance<br>hair<br>stumble<br>cotton |  
+| bip_39_word_new_line_1 | expand |  
+| bip_39_word_new_line_10 | expand
 defy
 gold
 manage
@@ -55,7 +55,7 @@ hair
 stumble
 cotton
 energy |  
-| bip_39_word_new_line11 | expand
+| bip_39_word_new_line_11 | expand
 defy
 gold
 manage
@@ -66,7 +66,7 @@ stumble
 cotton
 energy
 dinosaur |  
-| bip_39_word_new_line12 | expand
+| bip_39_word_new_line_12 | expand
 defy
 gold
 manage
@@ -78,34 +78,34 @@ cotton
 energy
 dinosaur
 amateur |  
-| bip_39_word_new_line2 | expand
+| bip_39_word_new_line_2 | expand
 defy |  
-| bip_39_word_new_line3 | expand
+| bip_39_word_new_line_3 | expand
 defy
 gold |  
-| bip_39_word_new_line4 | expand
+| bip_39_word_new_line_4 | expand
 defy
 gold
 manage |  
-| bip_39_word_new_line5 | expand
+| bip_39_word_new_line_5 | expand
 defy
 gold
 manage
 slight |  
-| bip_39_word_new_line6 | expand
+| bip_39_word_new_line_6 | expand
 defy
 gold
 manage
 slight
 advance |  
-| bip_39_word_new_line7 | expand
+| bip_39_word_new_line_7 | expand
 defy
 gold
 manage
 slight
 advance
 hair |  
-| bip_39_word_new_line8 | expand
+| bip_39_word_new_line_8 | expand
 defy
 gold
 manage
@@ -113,7 +113,7 @@ slight
 advance
 hair
 stumble |  
-| bip_39_word_new_line9 | expand
+| bip_39_word_new_line_9 | expand
 defy
 gold
 manage

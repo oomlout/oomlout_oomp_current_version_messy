@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | emerge |  
-| bip_39_word_new_br10 | emerge<br>total<br>beef<br>clinic<br>arrow<br>blame<br>olive<br>speak<br>clay<br>mean |  
-| bip_39_word_new_br11 | emerge<br>total<br>beef<br>clinic<br>arrow<br>blame<br>olive<br>speak<br>clay<br>mean<br>uphold |  
-| bip_39_word_new_br12 | emerge<br>total<br>beef<br>clinic<br>arrow<br>blame<br>olive<br>speak<br>clay<br>mean<br>uphold<br>attend |  
-| bip_39_word_new_br2 | emerge<br>total |  
-| bip_39_word_new_br3 | emerge<br>total<br>beef |  
-| bip_39_word_new_br4 | emerge<br>total<br>beef<br>clinic |  
-| bip_39_word_new_br5 | emerge<br>total<br>beef<br>clinic<br>arrow |  
-| bip_39_word_new_br6 | emerge<br>total<br>beef<br>clinic<br>arrow<br>blame |  
-| bip_39_word_new_br7 | emerge<br>total<br>beef<br>clinic<br>arrow<br>blame<br>olive |  
-| bip_39_word_new_br8 | emerge<br>total<br>beef<br>clinic<br>arrow<br>blame<br>olive<br>speak |  
-| bip_39_word_new_br9 | emerge<br>total<br>beef<br>clinic<br>arrow<br>blame<br>olive<br>speak<br>clay |  
-| bip_39_word_new_line1 | emerge |  
-| bip_39_word_new_line10 | emerge
+| bip_39_word_new_br_1 | emerge |  
+| bip_39_word_new_br_10 | emerge<br>total<br>beef<br>clinic<br>arrow<br>blame<br>olive<br>speak<br>clay<br>mean |  
+| bip_39_word_new_br_11 | emerge<br>total<br>beef<br>clinic<br>arrow<br>blame<br>olive<br>speak<br>clay<br>mean<br>uphold |  
+| bip_39_word_new_br_12 | emerge<br>total<br>beef<br>clinic<br>arrow<br>blame<br>olive<br>speak<br>clay<br>mean<br>uphold<br>attend |  
+| bip_39_word_new_br_2 | emerge<br>total |  
+| bip_39_word_new_br_3 | emerge<br>total<br>beef |  
+| bip_39_word_new_br_4 | emerge<br>total<br>beef<br>clinic |  
+| bip_39_word_new_br_5 | emerge<br>total<br>beef<br>clinic<br>arrow |  
+| bip_39_word_new_br_6 | emerge<br>total<br>beef<br>clinic<br>arrow<br>blame |  
+| bip_39_word_new_br_7 | emerge<br>total<br>beef<br>clinic<br>arrow<br>blame<br>olive |  
+| bip_39_word_new_br_8 | emerge<br>total<br>beef<br>clinic<br>arrow<br>blame<br>olive<br>speak |  
+| bip_39_word_new_br_9 | emerge<br>total<br>beef<br>clinic<br>arrow<br>blame<br>olive<br>speak<br>clay |  
+| bip_39_word_new_line_1 | emerge |  
+| bip_39_word_new_line_10 | emerge
 total
 beef
 clinic
@@ -55,7 +55,7 @@ olive
 speak
 clay
 mean |  
-| bip_39_word_new_line11 | emerge
+| bip_39_word_new_line_11 | emerge
 total
 beef
 clinic
@@ -66,7 +66,7 @@ speak
 clay
 mean
 uphold |  
-| bip_39_word_new_line12 | emerge
+| bip_39_word_new_line_12 | emerge
 total
 beef
 clinic
@@ -78,34 +78,34 @@ clay
 mean
 uphold
 attend |  
-| bip_39_word_new_line2 | emerge
+| bip_39_word_new_line_2 | emerge
 total |  
-| bip_39_word_new_line3 | emerge
+| bip_39_word_new_line_3 | emerge
 total
 beef |  
-| bip_39_word_new_line4 | emerge
+| bip_39_word_new_line_4 | emerge
 total
 beef
 clinic |  
-| bip_39_word_new_line5 | emerge
+| bip_39_word_new_line_5 | emerge
 total
 beef
 clinic
 arrow |  
-| bip_39_word_new_line6 | emerge
+| bip_39_word_new_line_6 | emerge
 total
 beef
 clinic
 arrow
 blame |  
-| bip_39_word_new_line7 | emerge
+| bip_39_word_new_line_7 | emerge
 total
 beef
 clinic
 arrow
 blame
 olive |  
-| bip_39_word_new_line8 | emerge
+| bip_39_word_new_line_8 | emerge
 total
 beef
 clinic
@@ -113,7 +113,7 @@ arrow
 blame
 olive
 speak |  
-| bip_39_word_new_line9 | emerge
+| bip_39_word_new_line_9 | emerge
 total
 beef
 clinic

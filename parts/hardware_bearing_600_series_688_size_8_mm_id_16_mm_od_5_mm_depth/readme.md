@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | offer |  
-| bip_39_word_new_br10 | offer<br>use<br>concert<br>fence<br>stuff<br>invest<br>hold<br>such<br>cook<br>kangaroo |  
-| bip_39_word_new_br11 | offer<br>use<br>concert<br>fence<br>stuff<br>invest<br>hold<br>such<br>cook<br>kangaroo<br>cricket |  
-| bip_39_word_new_br12 | offer<br>use<br>concert<br>fence<br>stuff<br>invest<br>hold<br>such<br>cook<br>kangaroo<br>cricket<br>auto |  
-| bip_39_word_new_br2 | offer<br>use |  
-| bip_39_word_new_br3 | offer<br>use<br>concert |  
-| bip_39_word_new_br4 | offer<br>use<br>concert<br>fence |  
-| bip_39_word_new_br5 | offer<br>use<br>concert<br>fence<br>stuff |  
-| bip_39_word_new_br6 | offer<br>use<br>concert<br>fence<br>stuff<br>invest |  
-| bip_39_word_new_br7 | offer<br>use<br>concert<br>fence<br>stuff<br>invest<br>hold |  
-| bip_39_word_new_br8 | offer<br>use<br>concert<br>fence<br>stuff<br>invest<br>hold<br>such |  
-| bip_39_word_new_br9 | offer<br>use<br>concert<br>fence<br>stuff<br>invest<br>hold<br>such<br>cook |  
-| bip_39_word_new_line1 | offer |  
-| bip_39_word_new_line10 | offer
+| bip_39_word_new_br_1 | offer |  
+| bip_39_word_new_br_10 | offer<br>use<br>concert<br>fence<br>stuff<br>invest<br>hold<br>such<br>cook<br>kangaroo |  
+| bip_39_word_new_br_11 | offer<br>use<br>concert<br>fence<br>stuff<br>invest<br>hold<br>such<br>cook<br>kangaroo<br>cricket |  
+| bip_39_word_new_br_12 | offer<br>use<br>concert<br>fence<br>stuff<br>invest<br>hold<br>such<br>cook<br>kangaroo<br>cricket<br>auto |  
+| bip_39_word_new_br_2 | offer<br>use |  
+| bip_39_word_new_br_3 | offer<br>use<br>concert |  
+| bip_39_word_new_br_4 | offer<br>use<br>concert<br>fence |  
+| bip_39_word_new_br_5 | offer<br>use<br>concert<br>fence<br>stuff |  
+| bip_39_word_new_br_6 | offer<br>use<br>concert<br>fence<br>stuff<br>invest |  
+| bip_39_word_new_br_7 | offer<br>use<br>concert<br>fence<br>stuff<br>invest<br>hold |  
+| bip_39_word_new_br_8 | offer<br>use<br>concert<br>fence<br>stuff<br>invest<br>hold<br>such |  
+| bip_39_word_new_br_9 | offer<br>use<br>concert<br>fence<br>stuff<br>invest<br>hold<br>such<br>cook |  
+| bip_39_word_new_line_1 | offer |  
+| bip_39_word_new_line_10 | offer
 use
 concert
 fence
@@ -55,7 +55,7 @@ hold
 such
 cook
 kangaroo |  
-| bip_39_word_new_line11 | offer
+| bip_39_word_new_line_11 | offer
 use
 concert
 fence
@@ -66,7 +66,7 @@ such
 cook
 kangaroo
 cricket |  
-| bip_39_word_new_line12 | offer
+| bip_39_word_new_line_12 | offer
 use
 concert
 fence
@@ -78,34 +78,34 @@ cook
 kangaroo
 cricket
 auto |  
-| bip_39_word_new_line2 | offer
+| bip_39_word_new_line_2 | offer
 use |  
-| bip_39_word_new_line3 | offer
+| bip_39_word_new_line_3 | offer
 use
 concert |  
-| bip_39_word_new_line4 | offer
+| bip_39_word_new_line_4 | offer
 use
 concert
 fence |  
-| bip_39_word_new_line5 | offer
+| bip_39_word_new_line_5 | offer
 use
 concert
 fence
 stuff |  
-| bip_39_word_new_line6 | offer
+| bip_39_word_new_line_6 | offer
 use
 concert
 fence
 stuff
 invest |  
-| bip_39_word_new_line7 | offer
+| bip_39_word_new_line_7 | offer
 use
 concert
 fence
 stuff
 invest
 hold |  
-| bip_39_word_new_line8 | offer
+| bip_39_word_new_line_8 | offer
 use
 concert
 fence
@@ -113,7 +113,7 @@ stuff
 invest
 hold
 such |  
-| bip_39_word_new_line9 | offer
+| bip_39_word_new_line_9 | offer
 use
 concert
 fence

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | upon |  
-| bip_39_word_new_br10 | upon<br>marriage<br>explain<br>settle<br>exercise<br>exit<br>debate<br>water<br>crystal<br>great |  
-| bip_39_word_new_br11 | upon<br>marriage<br>explain<br>settle<br>exercise<br>exit<br>debate<br>water<br>crystal<br>great<br>obey |  
-| bip_39_word_new_br12 | upon<br>marriage<br>explain<br>settle<br>exercise<br>exit<br>debate<br>water<br>crystal<br>great<br>obey<br>arrive |  
-| bip_39_word_new_br2 | upon<br>marriage |  
-| bip_39_word_new_br3 | upon<br>marriage<br>explain |  
-| bip_39_word_new_br4 | upon<br>marriage<br>explain<br>settle |  
-| bip_39_word_new_br5 | upon<br>marriage<br>explain<br>settle<br>exercise |  
-| bip_39_word_new_br6 | upon<br>marriage<br>explain<br>settle<br>exercise<br>exit |  
-| bip_39_word_new_br7 | upon<br>marriage<br>explain<br>settle<br>exercise<br>exit<br>debate |  
-| bip_39_word_new_br8 | upon<br>marriage<br>explain<br>settle<br>exercise<br>exit<br>debate<br>water |  
-| bip_39_word_new_br9 | upon<br>marriage<br>explain<br>settle<br>exercise<br>exit<br>debate<br>water<br>crystal |  
-| bip_39_word_new_line1 | upon |  
-| bip_39_word_new_line10 | upon
+| bip_39_word_new_br_1 | upon |  
+| bip_39_word_new_br_10 | upon<br>marriage<br>explain<br>settle<br>exercise<br>exit<br>debate<br>water<br>crystal<br>great |  
+| bip_39_word_new_br_11 | upon<br>marriage<br>explain<br>settle<br>exercise<br>exit<br>debate<br>water<br>crystal<br>great<br>obey |  
+| bip_39_word_new_br_12 | upon<br>marriage<br>explain<br>settle<br>exercise<br>exit<br>debate<br>water<br>crystal<br>great<br>obey<br>arrive |  
+| bip_39_word_new_br_2 | upon<br>marriage |  
+| bip_39_word_new_br_3 | upon<br>marriage<br>explain |  
+| bip_39_word_new_br_4 | upon<br>marriage<br>explain<br>settle |  
+| bip_39_word_new_br_5 | upon<br>marriage<br>explain<br>settle<br>exercise |  
+| bip_39_word_new_br_6 | upon<br>marriage<br>explain<br>settle<br>exercise<br>exit |  
+| bip_39_word_new_br_7 | upon<br>marriage<br>explain<br>settle<br>exercise<br>exit<br>debate |  
+| bip_39_word_new_br_8 | upon<br>marriage<br>explain<br>settle<br>exercise<br>exit<br>debate<br>water |  
+| bip_39_word_new_br_9 | upon<br>marriage<br>explain<br>settle<br>exercise<br>exit<br>debate<br>water<br>crystal |  
+| bip_39_word_new_line_1 | upon |  
+| bip_39_word_new_line_10 | upon
 marriage
 explain
 settle
@@ -55,7 +55,7 @@ debate
 water
 crystal
 great |  
-| bip_39_word_new_line11 | upon
+| bip_39_word_new_line_11 | upon
 marriage
 explain
 settle
@@ -66,7 +66,7 @@ water
 crystal
 great
 obey |  
-| bip_39_word_new_line12 | upon
+| bip_39_word_new_line_12 | upon
 marriage
 explain
 settle
@@ -78,34 +78,34 @@ crystal
 great
 obey
 arrive |  
-| bip_39_word_new_line2 | upon
+| bip_39_word_new_line_2 | upon
 marriage |  
-| bip_39_word_new_line3 | upon
+| bip_39_word_new_line_3 | upon
 marriage
 explain |  
-| bip_39_word_new_line4 | upon
+| bip_39_word_new_line_4 | upon
 marriage
 explain
 settle |  
-| bip_39_word_new_line5 | upon
+| bip_39_word_new_line_5 | upon
 marriage
 explain
 settle
 exercise |  
-| bip_39_word_new_line6 | upon
+| bip_39_word_new_line_6 | upon
 marriage
 explain
 settle
 exercise
 exit |  
-| bip_39_word_new_line7 | upon
+| bip_39_word_new_line_7 | upon
 marriage
 explain
 settle
 exercise
 exit
 debate |  
-| bip_39_word_new_line8 | upon
+| bip_39_word_new_line_8 | upon
 marriage
 explain
 settle
@@ -113,7 +113,7 @@ exercise
 exit
 debate
 water |  
-| bip_39_word_new_line9 | upon
+| bip_39_word_new_line_9 | upon
 marriage
 explain
 settle

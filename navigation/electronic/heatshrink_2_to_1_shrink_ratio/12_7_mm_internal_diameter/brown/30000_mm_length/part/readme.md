@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | remember |  
-| bip_39_word_new_br10 | remember<br>hello<br>wonder<br>tree<br>garlic<br>staff<br>member<br>hint<br>panel<br>scatter |  
-| bip_39_word_new_br11 | remember<br>hello<br>wonder<br>tree<br>garlic<br>staff<br>member<br>hint<br>panel<br>scatter<br>initial |  
-| bip_39_word_new_br12 | remember<br>hello<br>wonder<br>tree<br>garlic<br>staff<br>member<br>hint<br>panel<br>scatter<br>initial<br>addict |  
-| bip_39_word_new_br2 | remember<br>hello |  
-| bip_39_word_new_br3 | remember<br>hello<br>wonder |  
-| bip_39_word_new_br4 | remember<br>hello<br>wonder<br>tree |  
-| bip_39_word_new_br5 | remember<br>hello<br>wonder<br>tree<br>garlic |  
-| bip_39_word_new_br6 | remember<br>hello<br>wonder<br>tree<br>garlic<br>staff |  
-| bip_39_word_new_br7 | remember<br>hello<br>wonder<br>tree<br>garlic<br>staff<br>member |  
-| bip_39_word_new_br8 | remember<br>hello<br>wonder<br>tree<br>garlic<br>staff<br>member<br>hint |  
-| bip_39_word_new_br9 | remember<br>hello<br>wonder<br>tree<br>garlic<br>staff<br>member<br>hint<br>panel |  
-| bip_39_word_new_line1 | remember |  
-| bip_39_word_new_line10 | remember
+| bip_39_word_new_br_1 | remember |  
+| bip_39_word_new_br_10 | remember<br>hello<br>wonder<br>tree<br>garlic<br>staff<br>member<br>hint<br>panel<br>scatter |  
+| bip_39_word_new_br_11 | remember<br>hello<br>wonder<br>tree<br>garlic<br>staff<br>member<br>hint<br>panel<br>scatter<br>initial |  
+| bip_39_word_new_br_12 | remember<br>hello<br>wonder<br>tree<br>garlic<br>staff<br>member<br>hint<br>panel<br>scatter<br>initial<br>addict |  
+| bip_39_word_new_br_2 | remember<br>hello |  
+| bip_39_word_new_br_3 | remember<br>hello<br>wonder |  
+| bip_39_word_new_br_4 | remember<br>hello<br>wonder<br>tree |  
+| bip_39_word_new_br_5 | remember<br>hello<br>wonder<br>tree<br>garlic |  
+| bip_39_word_new_br_6 | remember<br>hello<br>wonder<br>tree<br>garlic<br>staff |  
+| bip_39_word_new_br_7 | remember<br>hello<br>wonder<br>tree<br>garlic<br>staff<br>member |  
+| bip_39_word_new_br_8 | remember<br>hello<br>wonder<br>tree<br>garlic<br>staff<br>member<br>hint |  
+| bip_39_word_new_br_9 | remember<br>hello<br>wonder<br>tree<br>garlic<br>staff<br>member<br>hint<br>panel |  
+| bip_39_word_new_line_1 | remember |  
+| bip_39_word_new_line_10 | remember
 hello
 wonder
 tree
@@ -55,7 +55,7 @@ member
 hint
 panel
 scatter |  
-| bip_39_word_new_line11 | remember
+| bip_39_word_new_line_11 | remember
 hello
 wonder
 tree
@@ -66,7 +66,7 @@ hint
 panel
 scatter
 initial |  
-| bip_39_word_new_line12 | remember
+| bip_39_word_new_line_12 | remember
 hello
 wonder
 tree
@@ -78,34 +78,34 @@ panel
 scatter
 initial
 addict |  
-| bip_39_word_new_line2 | remember
+| bip_39_word_new_line_2 | remember
 hello |  
-| bip_39_word_new_line3 | remember
+| bip_39_word_new_line_3 | remember
 hello
 wonder |  
-| bip_39_word_new_line4 | remember
+| bip_39_word_new_line_4 | remember
 hello
 wonder
 tree |  
-| bip_39_word_new_line5 | remember
+| bip_39_word_new_line_5 | remember
 hello
 wonder
 tree
 garlic |  
-| bip_39_word_new_line6 | remember
+| bip_39_word_new_line_6 | remember
 hello
 wonder
 tree
 garlic
 staff |  
-| bip_39_word_new_line7 | remember
+| bip_39_word_new_line_7 | remember
 hello
 wonder
 tree
 garlic
 staff
 member |  
-| bip_39_word_new_line8 | remember
+| bip_39_word_new_line_8 | remember
 hello
 wonder
 tree
@@ -113,7 +113,7 @@ garlic
 staff
 member
 hint |  
-| bip_39_word_new_line9 | remember
+| bip_39_word_new_line_9 | remember
 hello
 wonder
 tree

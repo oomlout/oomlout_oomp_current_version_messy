@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | slogan |  
-| bip_39_word_new_br10 | slogan<br>magic<br>height<br>picnic<br>parade<br>win<br>layer<br>drift<br>flip<br>hub |  
-| bip_39_word_new_br11 | slogan<br>magic<br>height<br>picnic<br>parade<br>win<br>layer<br>drift<br>flip<br>hub<br>move |  
-| bip_39_word_new_br12 | slogan<br>magic<br>height<br>picnic<br>parade<br>win<br>layer<br>drift<br>flip<br>hub<br>move<br>actress |  
-| bip_39_word_new_br2 | slogan<br>magic |  
-| bip_39_word_new_br3 | slogan<br>magic<br>height |  
-| bip_39_word_new_br4 | slogan<br>magic<br>height<br>picnic |  
-| bip_39_word_new_br5 | slogan<br>magic<br>height<br>picnic<br>parade |  
-| bip_39_word_new_br6 | slogan<br>magic<br>height<br>picnic<br>parade<br>win |  
-| bip_39_word_new_br7 | slogan<br>magic<br>height<br>picnic<br>parade<br>win<br>layer |  
-| bip_39_word_new_br8 | slogan<br>magic<br>height<br>picnic<br>parade<br>win<br>layer<br>drift |  
-| bip_39_word_new_br9 | slogan<br>magic<br>height<br>picnic<br>parade<br>win<br>layer<br>drift<br>flip |  
-| bip_39_word_new_line1 | slogan |  
-| bip_39_word_new_line10 | slogan
+| bip_39_word_new_br_1 | slogan |  
+| bip_39_word_new_br_10 | slogan<br>magic<br>height<br>picnic<br>parade<br>win<br>layer<br>drift<br>flip<br>hub |  
+| bip_39_word_new_br_11 | slogan<br>magic<br>height<br>picnic<br>parade<br>win<br>layer<br>drift<br>flip<br>hub<br>move |  
+| bip_39_word_new_br_12 | slogan<br>magic<br>height<br>picnic<br>parade<br>win<br>layer<br>drift<br>flip<br>hub<br>move<br>actress |  
+| bip_39_word_new_br_2 | slogan<br>magic |  
+| bip_39_word_new_br_3 | slogan<br>magic<br>height |  
+| bip_39_word_new_br_4 | slogan<br>magic<br>height<br>picnic |  
+| bip_39_word_new_br_5 | slogan<br>magic<br>height<br>picnic<br>parade |  
+| bip_39_word_new_br_6 | slogan<br>magic<br>height<br>picnic<br>parade<br>win |  
+| bip_39_word_new_br_7 | slogan<br>magic<br>height<br>picnic<br>parade<br>win<br>layer |  
+| bip_39_word_new_br_8 | slogan<br>magic<br>height<br>picnic<br>parade<br>win<br>layer<br>drift |  
+| bip_39_word_new_br_9 | slogan<br>magic<br>height<br>picnic<br>parade<br>win<br>layer<br>drift<br>flip |  
+| bip_39_word_new_line_1 | slogan |  
+| bip_39_word_new_line_10 | slogan
 magic
 height
 picnic
@@ -55,7 +55,7 @@ layer
 drift
 flip
 hub |  
-| bip_39_word_new_line11 | slogan
+| bip_39_word_new_line_11 | slogan
 magic
 height
 picnic
@@ -66,7 +66,7 @@ drift
 flip
 hub
 move |  
-| bip_39_word_new_line12 | slogan
+| bip_39_word_new_line_12 | slogan
 magic
 height
 picnic
@@ -78,34 +78,34 @@ flip
 hub
 move
 actress |  
-| bip_39_word_new_line2 | slogan
+| bip_39_word_new_line_2 | slogan
 magic |  
-| bip_39_word_new_line3 | slogan
+| bip_39_word_new_line_3 | slogan
 magic
 height |  
-| bip_39_word_new_line4 | slogan
+| bip_39_word_new_line_4 | slogan
 magic
 height
 picnic |  
-| bip_39_word_new_line5 | slogan
+| bip_39_word_new_line_5 | slogan
 magic
 height
 picnic
 parade |  
-| bip_39_word_new_line6 | slogan
+| bip_39_word_new_line_6 | slogan
 magic
 height
 picnic
 parade
 win |  
-| bip_39_word_new_line7 | slogan
+| bip_39_word_new_line_7 | slogan
 magic
 height
 picnic
 parade
 win
 layer |  
-| bip_39_word_new_line8 | slogan
+| bip_39_word_new_line_8 | slogan
 magic
 height
 picnic
@@ -113,7 +113,7 @@ parade
 win
 layer
 drift |  
-| bip_39_word_new_line9 | slogan
+| bip_39_word_new_line_9 | slogan
 magic
 height
 picnic

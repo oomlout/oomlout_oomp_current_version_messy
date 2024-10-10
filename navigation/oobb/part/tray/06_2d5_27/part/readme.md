@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | assault |  
-| bip_39_word_new_br10 | assault<br>surge<br>injury<br>enhance<br>remain<br>advance<br>original<br>bean<br>anger<br>century |  
-| bip_39_word_new_br11 | assault<br>surge<br>injury<br>enhance<br>remain<br>advance<br>original<br>bean<br>anger<br>century<br>define |  
-| bip_39_word_new_br12 | assault<br>surge<br>injury<br>enhance<br>remain<br>advance<br>original<br>bean<br>anger<br>century<br>define<br>attack |  
-| bip_39_word_new_br2 | assault<br>surge |  
-| bip_39_word_new_br3 | assault<br>surge<br>injury |  
-| bip_39_word_new_br4 | assault<br>surge<br>injury<br>enhance |  
-| bip_39_word_new_br5 | assault<br>surge<br>injury<br>enhance<br>remain |  
-| bip_39_word_new_br6 | assault<br>surge<br>injury<br>enhance<br>remain<br>advance |  
-| bip_39_word_new_br7 | assault<br>surge<br>injury<br>enhance<br>remain<br>advance<br>original |  
-| bip_39_word_new_br8 | assault<br>surge<br>injury<br>enhance<br>remain<br>advance<br>original<br>bean |  
-| bip_39_word_new_br9 | assault<br>surge<br>injury<br>enhance<br>remain<br>advance<br>original<br>bean<br>anger |  
-| bip_39_word_new_line1 | assault |  
-| bip_39_word_new_line10 | assault
+| bip_39_word_new_br_1 | assault |  
+| bip_39_word_new_br_10 | assault<br>surge<br>injury<br>enhance<br>remain<br>advance<br>original<br>bean<br>anger<br>century |  
+| bip_39_word_new_br_11 | assault<br>surge<br>injury<br>enhance<br>remain<br>advance<br>original<br>bean<br>anger<br>century<br>define |  
+| bip_39_word_new_br_12 | assault<br>surge<br>injury<br>enhance<br>remain<br>advance<br>original<br>bean<br>anger<br>century<br>define<br>attack |  
+| bip_39_word_new_br_2 | assault<br>surge |  
+| bip_39_word_new_br_3 | assault<br>surge<br>injury |  
+| bip_39_word_new_br_4 | assault<br>surge<br>injury<br>enhance |  
+| bip_39_word_new_br_5 | assault<br>surge<br>injury<br>enhance<br>remain |  
+| bip_39_word_new_br_6 | assault<br>surge<br>injury<br>enhance<br>remain<br>advance |  
+| bip_39_word_new_br_7 | assault<br>surge<br>injury<br>enhance<br>remain<br>advance<br>original |  
+| bip_39_word_new_br_8 | assault<br>surge<br>injury<br>enhance<br>remain<br>advance<br>original<br>bean |  
+| bip_39_word_new_br_9 | assault<br>surge<br>injury<br>enhance<br>remain<br>advance<br>original<br>bean<br>anger |  
+| bip_39_word_new_line_1 | assault |  
+| bip_39_word_new_line_10 | assault
 surge
 injury
 enhance
@@ -55,7 +55,7 @@ original
 bean
 anger
 century |  
-| bip_39_word_new_line11 | assault
+| bip_39_word_new_line_11 | assault
 surge
 injury
 enhance
@@ -66,7 +66,7 @@ bean
 anger
 century
 define |  
-| bip_39_word_new_line12 | assault
+| bip_39_word_new_line_12 | assault
 surge
 injury
 enhance
@@ -78,34 +78,34 @@ anger
 century
 define
 attack |  
-| bip_39_word_new_line2 | assault
+| bip_39_word_new_line_2 | assault
 surge |  
-| bip_39_word_new_line3 | assault
+| bip_39_word_new_line_3 | assault
 surge
 injury |  
-| bip_39_word_new_line4 | assault
+| bip_39_word_new_line_4 | assault
 surge
 injury
 enhance |  
-| bip_39_word_new_line5 | assault
+| bip_39_word_new_line_5 | assault
 surge
 injury
 enhance
 remain |  
-| bip_39_word_new_line6 | assault
+| bip_39_word_new_line_6 | assault
 surge
 injury
 enhance
 remain
 advance |  
-| bip_39_word_new_line7 | assault
+| bip_39_word_new_line_7 | assault
 surge
 injury
 enhance
 remain
 advance
 original |  
-| bip_39_word_new_line8 | assault
+| bip_39_word_new_line_8 | assault
 surge
 injury
 enhance
@@ -113,7 +113,7 @@ remain
 advance
 original
 bean |  
-| bip_39_word_new_line9 | assault
+| bip_39_word_new_line_9 | assault
 surge
 injury
 enhance

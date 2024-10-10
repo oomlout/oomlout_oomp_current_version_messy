@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | all |  
-| bip_39_word_new_br10 | all<br>noodle<br>come<br>cannon<br>onion<br>poem<br>wave<br>away<br>huge<br>salmon |  
-| bip_39_word_new_br11 | all<br>noodle<br>come<br>cannon<br>onion<br>poem<br>wave<br>away<br>huge<br>salmon<br>jaguar |  
-| bip_39_word_new_br12 | all<br>noodle<br>come<br>cannon<br>onion<br>poem<br>wave<br>away<br>huge<br>salmon<br>jaguar<br>aerobic |  
-| bip_39_word_new_br2 | all<br>noodle |  
-| bip_39_word_new_br3 | all<br>noodle<br>come |  
-| bip_39_word_new_br4 | all<br>noodle<br>come<br>cannon |  
-| bip_39_word_new_br5 | all<br>noodle<br>come<br>cannon<br>onion |  
-| bip_39_word_new_br6 | all<br>noodle<br>come<br>cannon<br>onion<br>poem |  
-| bip_39_word_new_br7 | all<br>noodle<br>come<br>cannon<br>onion<br>poem<br>wave |  
-| bip_39_word_new_br8 | all<br>noodle<br>come<br>cannon<br>onion<br>poem<br>wave<br>away |  
-| bip_39_word_new_br9 | all<br>noodle<br>come<br>cannon<br>onion<br>poem<br>wave<br>away<br>huge |  
-| bip_39_word_new_line1 | all |  
-| bip_39_word_new_line10 | all
+| bip_39_word_new_br_1 | all |  
+| bip_39_word_new_br_10 | all<br>noodle<br>come<br>cannon<br>onion<br>poem<br>wave<br>away<br>huge<br>salmon |  
+| bip_39_word_new_br_11 | all<br>noodle<br>come<br>cannon<br>onion<br>poem<br>wave<br>away<br>huge<br>salmon<br>jaguar |  
+| bip_39_word_new_br_12 | all<br>noodle<br>come<br>cannon<br>onion<br>poem<br>wave<br>away<br>huge<br>salmon<br>jaguar<br>aerobic |  
+| bip_39_word_new_br_2 | all<br>noodle |  
+| bip_39_word_new_br_3 | all<br>noodle<br>come |  
+| bip_39_word_new_br_4 | all<br>noodle<br>come<br>cannon |  
+| bip_39_word_new_br_5 | all<br>noodle<br>come<br>cannon<br>onion |  
+| bip_39_word_new_br_6 | all<br>noodle<br>come<br>cannon<br>onion<br>poem |  
+| bip_39_word_new_br_7 | all<br>noodle<br>come<br>cannon<br>onion<br>poem<br>wave |  
+| bip_39_word_new_br_8 | all<br>noodle<br>come<br>cannon<br>onion<br>poem<br>wave<br>away |  
+| bip_39_word_new_br_9 | all<br>noodle<br>come<br>cannon<br>onion<br>poem<br>wave<br>away<br>huge |  
+| bip_39_word_new_line_1 | all |  
+| bip_39_word_new_line_10 | all
 noodle
 come
 cannon
@@ -55,7 +55,7 @@ wave
 away
 huge
 salmon |  
-| bip_39_word_new_line11 | all
+| bip_39_word_new_line_11 | all
 noodle
 come
 cannon
@@ -66,7 +66,7 @@ away
 huge
 salmon
 jaguar |  
-| bip_39_word_new_line12 | all
+| bip_39_word_new_line_12 | all
 noodle
 come
 cannon
@@ -78,34 +78,34 @@ huge
 salmon
 jaguar
 aerobic |  
-| bip_39_word_new_line2 | all
+| bip_39_word_new_line_2 | all
 noodle |  
-| bip_39_word_new_line3 | all
+| bip_39_word_new_line_3 | all
 noodle
 come |  
-| bip_39_word_new_line4 | all
+| bip_39_word_new_line_4 | all
 noodle
 come
 cannon |  
-| bip_39_word_new_line5 | all
+| bip_39_word_new_line_5 | all
 noodle
 come
 cannon
 onion |  
-| bip_39_word_new_line6 | all
+| bip_39_word_new_line_6 | all
 noodle
 come
 cannon
 onion
 poem |  
-| bip_39_word_new_line7 | all
+| bip_39_word_new_line_7 | all
 noodle
 come
 cannon
 onion
 poem
 wave |  
-| bip_39_word_new_line8 | all
+| bip_39_word_new_line_8 | all
 noodle
 come
 cannon
@@ -113,7 +113,7 @@ onion
 poem
 wave
 away |  
-| bip_39_word_new_line9 | all
+| bip_39_word_new_line_9 | all
 noodle
 come
 cannon

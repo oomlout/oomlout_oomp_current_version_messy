@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | brief |  
-| bip_39_word_new_br10 | brief<br>cancel<br>violin<br>follow<br>exhaust<br>team<br>melt<br>arch<br>donor<br>athlete |  
-| bip_39_word_new_br11 | brief<br>cancel<br>violin<br>follow<br>exhaust<br>team<br>melt<br>arch<br>donor<br>athlete<br>round |  
-| bip_39_word_new_br12 | brief<br>cancel<br>violin<br>follow<br>exhaust<br>team<br>melt<br>arch<br>donor<br>athlete<br>round<br>arrange |  
-| bip_39_word_new_br2 | brief<br>cancel |  
-| bip_39_word_new_br3 | brief<br>cancel<br>violin |  
-| bip_39_word_new_br4 | brief<br>cancel<br>violin<br>follow |  
-| bip_39_word_new_br5 | brief<br>cancel<br>violin<br>follow<br>exhaust |  
-| bip_39_word_new_br6 | brief<br>cancel<br>violin<br>follow<br>exhaust<br>team |  
-| bip_39_word_new_br7 | brief<br>cancel<br>violin<br>follow<br>exhaust<br>team<br>melt |  
-| bip_39_word_new_br8 | brief<br>cancel<br>violin<br>follow<br>exhaust<br>team<br>melt<br>arch |  
-| bip_39_word_new_br9 | brief<br>cancel<br>violin<br>follow<br>exhaust<br>team<br>melt<br>arch<br>donor |  
-| bip_39_word_new_line1 | brief |  
-| bip_39_word_new_line10 | brief
+| bip_39_word_new_br_1 | brief |  
+| bip_39_word_new_br_10 | brief<br>cancel<br>violin<br>follow<br>exhaust<br>team<br>melt<br>arch<br>donor<br>athlete |  
+| bip_39_word_new_br_11 | brief<br>cancel<br>violin<br>follow<br>exhaust<br>team<br>melt<br>arch<br>donor<br>athlete<br>round |  
+| bip_39_word_new_br_12 | brief<br>cancel<br>violin<br>follow<br>exhaust<br>team<br>melt<br>arch<br>donor<br>athlete<br>round<br>arrange |  
+| bip_39_word_new_br_2 | brief<br>cancel |  
+| bip_39_word_new_br_3 | brief<br>cancel<br>violin |  
+| bip_39_word_new_br_4 | brief<br>cancel<br>violin<br>follow |  
+| bip_39_word_new_br_5 | brief<br>cancel<br>violin<br>follow<br>exhaust |  
+| bip_39_word_new_br_6 | brief<br>cancel<br>violin<br>follow<br>exhaust<br>team |  
+| bip_39_word_new_br_7 | brief<br>cancel<br>violin<br>follow<br>exhaust<br>team<br>melt |  
+| bip_39_word_new_br_8 | brief<br>cancel<br>violin<br>follow<br>exhaust<br>team<br>melt<br>arch |  
+| bip_39_word_new_br_9 | brief<br>cancel<br>violin<br>follow<br>exhaust<br>team<br>melt<br>arch<br>donor |  
+| bip_39_word_new_line_1 | brief |  
+| bip_39_word_new_line_10 | brief
 cancel
 violin
 follow
@@ -55,7 +55,7 @@ melt
 arch
 donor
 athlete |  
-| bip_39_word_new_line11 | brief
+| bip_39_word_new_line_11 | brief
 cancel
 violin
 follow
@@ -66,7 +66,7 @@ arch
 donor
 athlete
 round |  
-| bip_39_word_new_line12 | brief
+| bip_39_word_new_line_12 | brief
 cancel
 violin
 follow
@@ -78,34 +78,34 @@ donor
 athlete
 round
 arrange |  
-| bip_39_word_new_line2 | brief
+| bip_39_word_new_line_2 | brief
 cancel |  
-| bip_39_word_new_line3 | brief
+| bip_39_word_new_line_3 | brief
 cancel
 violin |  
-| bip_39_word_new_line4 | brief
+| bip_39_word_new_line_4 | brief
 cancel
 violin
 follow |  
-| bip_39_word_new_line5 | brief
+| bip_39_word_new_line_5 | brief
 cancel
 violin
 follow
 exhaust |  
-| bip_39_word_new_line6 | brief
+| bip_39_word_new_line_6 | brief
 cancel
 violin
 follow
 exhaust
 team |  
-| bip_39_word_new_line7 | brief
+| bip_39_word_new_line_7 | brief
 cancel
 violin
 follow
 exhaust
 team
 melt |  
-| bip_39_word_new_line8 | brief
+| bip_39_word_new_line_8 | brief
 cancel
 violin
 follow
@@ -113,7 +113,7 @@ exhaust
 team
 melt
 arch |  
-| bip_39_word_new_line9 | brief
+| bip_39_word_new_line_9 | brief
 cancel
 violin
 follow

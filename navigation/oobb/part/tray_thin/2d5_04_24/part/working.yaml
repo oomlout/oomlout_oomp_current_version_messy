@@ -1,17 +1,17 @@
-bip_39_word_new_br1: prison
-bip_39_word_new_br10: prison<br>rebel<br>trumpet<br>segment<br>legend<br>broccoli<br>umbrella<br>couch<br>pyramid<br>arrive
-bip_39_word_new_br11: prison<br>rebel<br>trumpet<br>segment<br>legend<br>broccoli<br>umbrella<br>couch<br>pyramid<br>arrive<br>angle
-bip_39_word_new_br12: prison<br>rebel<br>trumpet<br>segment<br>legend<br>broccoli<br>umbrella<br>couch<br>pyramid<br>arrive<br>angle<br>armor
-bip_39_word_new_br2: prison<br>rebel
-bip_39_word_new_br3: prison<br>rebel<br>trumpet
-bip_39_word_new_br4: prison<br>rebel<br>trumpet<br>segment
-bip_39_word_new_br5: prison<br>rebel<br>trumpet<br>segment<br>legend
-bip_39_word_new_br6: prison<br>rebel<br>trumpet<br>segment<br>legend<br>broccoli
-bip_39_word_new_br7: prison<br>rebel<br>trumpet<br>segment<br>legend<br>broccoli<br>umbrella
-bip_39_word_new_br8: prison<br>rebel<br>trumpet<br>segment<br>legend<br>broccoli<br>umbrella<br>couch
-bip_39_word_new_br9: prison<br>rebel<br>trumpet<br>segment<br>legend<br>broccoli<br>umbrella<br>couch<br>pyramid
-bip_39_word_new_line1: prison
-bip_39_word_new_line10: 'prison
+bip_39_word_new_br_1: prison
+bip_39_word_new_br_10: prison<br>rebel<br>trumpet<br>segment<br>legend<br>broccoli<br>umbrella<br>couch<br>pyramid<br>arrive
+bip_39_word_new_br_11: prison<br>rebel<br>trumpet<br>segment<br>legend<br>broccoli<br>umbrella<br>couch<br>pyramid<br>arrive<br>angle
+bip_39_word_new_br_12: prison<br>rebel<br>trumpet<br>segment<br>legend<br>broccoli<br>umbrella<br>couch<br>pyramid<br>arrive<br>angle<br>armor
+bip_39_word_new_br_2: prison<br>rebel
+bip_39_word_new_br_3: prison<br>rebel<br>trumpet
+bip_39_word_new_br_4: prison<br>rebel<br>trumpet<br>segment
+bip_39_word_new_br_5: prison<br>rebel<br>trumpet<br>segment<br>legend
+bip_39_word_new_br_6: prison<br>rebel<br>trumpet<br>segment<br>legend<br>broccoli
+bip_39_word_new_br_7: prison<br>rebel<br>trumpet<br>segment<br>legend<br>broccoli<br>umbrella
+bip_39_word_new_br_8: prison<br>rebel<br>trumpet<br>segment<br>legend<br>broccoli<br>umbrella<br>couch
+bip_39_word_new_br_9: prison<br>rebel<br>trumpet<br>segment<br>legend<br>broccoli<br>umbrella<br>couch<br>pyramid
+bip_39_word_new_line_1: prison
+bip_39_word_new_line_10: 'prison
 
   rebel
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'prison
   pyramid
 
   arrive'
-bip_39_word_new_line11: 'prison
+bip_39_word_new_line_11: 'prison
 
   rebel
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'prison
   arrive
 
   angle'
-bip_39_word_new_line12: 'prison
+bip_39_word_new_line_12: 'prison
 
   rebel
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'prison
   angle
 
   armor'
-bip_39_word_new_line2: 'prison
+bip_39_word_new_line_2: 'prison
 
   rebel'
-bip_39_word_new_line3: 'prison
+bip_39_word_new_line_3: 'prison
 
   rebel
 
   trumpet'
-bip_39_word_new_line4: 'prison
+bip_39_word_new_line_4: 'prison
 
   rebel
 
   trumpet
 
   segment'
-bip_39_word_new_line5: 'prison
+bip_39_word_new_line_5: 'prison
 
   rebel
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'prison
   segment
 
   legend'
-bip_39_word_new_line6: 'prison
+bip_39_word_new_line_6: 'prison
 
   rebel
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'prison
   legend
 
   broccoli'
-bip_39_word_new_line7: 'prison
+bip_39_word_new_line_7: 'prison
 
   rebel
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'prison
   broccoli
 
   umbrella'
-bip_39_word_new_line8: 'prison
+bip_39_word_new_line_8: 'prison
 
   rebel
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'prison
   umbrella
 
   couch'
-bip_39_word_new_line9: 'prison
+bip_39_word_new_line_9: 'prison
 
   rebel
 

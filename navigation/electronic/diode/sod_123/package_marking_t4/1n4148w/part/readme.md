@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cabbage |  
-| bip_39_word_new_br10 | cabbage<br>twice<br>advice<br>stay<br>fall<br>taxi<br>fashion<br>glass<br>suspect<br>blame |  
-| bip_39_word_new_br11 | cabbage<br>twice<br>advice<br>stay<br>fall<br>taxi<br>fashion<br>glass<br>suspect<br>blame<br>survey |  
-| bip_39_word_new_br12 | cabbage<br>twice<br>advice<br>stay<br>fall<br>taxi<br>fashion<br>glass<br>suspect<br>blame<br>survey<br>addict |  
-| bip_39_word_new_br2 | cabbage<br>twice |  
-| bip_39_word_new_br3 | cabbage<br>twice<br>advice |  
-| bip_39_word_new_br4 | cabbage<br>twice<br>advice<br>stay |  
-| bip_39_word_new_br5 | cabbage<br>twice<br>advice<br>stay<br>fall |  
-| bip_39_word_new_br6 | cabbage<br>twice<br>advice<br>stay<br>fall<br>taxi |  
-| bip_39_word_new_br7 | cabbage<br>twice<br>advice<br>stay<br>fall<br>taxi<br>fashion |  
-| bip_39_word_new_br8 | cabbage<br>twice<br>advice<br>stay<br>fall<br>taxi<br>fashion<br>glass |  
-| bip_39_word_new_br9 | cabbage<br>twice<br>advice<br>stay<br>fall<br>taxi<br>fashion<br>glass<br>suspect |  
-| bip_39_word_new_line1 | cabbage |  
-| bip_39_word_new_line10 | cabbage
+| bip_39_word_new_br_1 | cabbage |  
+| bip_39_word_new_br_10 | cabbage<br>twice<br>advice<br>stay<br>fall<br>taxi<br>fashion<br>glass<br>suspect<br>blame |  
+| bip_39_word_new_br_11 | cabbage<br>twice<br>advice<br>stay<br>fall<br>taxi<br>fashion<br>glass<br>suspect<br>blame<br>survey |  
+| bip_39_word_new_br_12 | cabbage<br>twice<br>advice<br>stay<br>fall<br>taxi<br>fashion<br>glass<br>suspect<br>blame<br>survey<br>addict |  
+| bip_39_word_new_br_2 | cabbage<br>twice |  
+| bip_39_word_new_br_3 | cabbage<br>twice<br>advice |  
+| bip_39_word_new_br_4 | cabbage<br>twice<br>advice<br>stay |  
+| bip_39_word_new_br_5 | cabbage<br>twice<br>advice<br>stay<br>fall |  
+| bip_39_word_new_br_6 | cabbage<br>twice<br>advice<br>stay<br>fall<br>taxi |  
+| bip_39_word_new_br_7 | cabbage<br>twice<br>advice<br>stay<br>fall<br>taxi<br>fashion |  
+| bip_39_word_new_br_8 | cabbage<br>twice<br>advice<br>stay<br>fall<br>taxi<br>fashion<br>glass |  
+| bip_39_word_new_br_9 | cabbage<br>twice<br>advice<br>stay<br>fall<br>taxi<br>fashion<br>glass<br>suspect |  
+| bip_39_word_new_line_1 | cabbage |  
+| bip_39_word_new_line_10 | cabbage
 twice
 advice
 stay
@@ -55,7 +55,7 @@ fashion
 glass
 suspect
 blame |  
-| bip_39_word_new_line11 | cabbage
+| bip_39_word_new_line_11 | cabbage
 twice
 advice
 stay
@@ -66,7 +66,7 @@ glass
 suspect
 blame
 survey |  
-| bip_39_word_new_line12 | cabbage
+| bip_39_word_new_line_12 | cabbage
 twice
 advice
 stay
@@ -78,34 +78,34 @@ suspect
 blame
 survey
 addict |  
-| bip_39_word_new_line2 | cabbage
+| bip_39_word_new_line_2 | cabbage
 twice |  
-| bip_39_word_new_line3 | cabbage
+| bip_39_word_new_line_3 | cabbage
 twice
 advice |  
-| bip_39_word_new_line4 | cabbage
+| bip_39_word_new_line_4 | cabbage
 twice
 advice
 stay |  
-| bip_39_word_new_line5 | cabbage
+| bip_39_word_new_line_5 | cabbage
 twice
 advice
 stay
 fall |  
-| bip_39_word_new_line6 | cabbage
+| bip_39_word_new_line_6 | cabbage
 twice
 advice
 stay
 fall
 taxi |  
-| bip_39_word_new_line7 | cabbage
+| bip_39_word_new_line_7 | cabbage
 twice
 advice
 stay
 fall
 taxi
 fashion |  
-| bip_39_word_new_line8 | cabbage
+| bip_39_word_new_line_8 | cabbage
 twice
 advice
 stay
@@ -113,7 +113,7 @@ fall
 taxi
 fashion
 glass |  
-| bip_39_word_new_line9 | cabbage
+| bip_39_word_new_line_9 | cabbage
 twice
 advice
 stay

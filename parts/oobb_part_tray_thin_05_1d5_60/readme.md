@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | diagram |  
-| bip_39_word_new_br10 | diagram<br>soon<br>vibrant<br>lawn<br>life<br>electric<br>stable<br>elevator<br>total<br>example |  
-| bip_39_word_new_br11 | diagram<br>soon<br>vibrant<br>lawn<br>life<br>electric<br>stable<br>elevator<br>total<br>example<br>tribe |  
-| bip_39_word_new_br12 | diagram<br>soon<br>vibrant<br>lawn<br>life<br>electric<br>stable<br>elevator<br>total<br>example<br>tribe<br>air |  
-| bip_39_word_new_br2 | diagram<br>soon |  
-| bip_39_word_new_br3 | diagram<br>soon<br>vibrant |  
-| bip_39_word_new_br4 | diagram<br>soon<br>vibrant<br>lawn |  
-| bip_39_word_new_br5 | diagram<br>soon<br>vibrant<br>lawn<br>life |  
-| bip_39_word_new_br6 | diagram<br>soon<br>vibrant<br>lawn<br>life<br>electric |  
-| bip_39_word_new_br7 | diagram<br>soon<br>vibrant<br>lawn<br>life<br>electric<br>stable |  
-| bip_39_word_new_br8 | diagram<br>soon<br>vibrant<br>lawn<br>life<br>electric<br>stable<br>elevator |  
-| bip_39_word_new_br9 | diagram<br>soon<br>vibrant<br>lawn<br>life<br>electric<br>stable<br>elevator<br>total |  
-| bip_39_word_new_line1 | diagram |  
-| bip_39_word_new_line10 | diagram
+| bip_39_word_new_br_1 | diagram |  
+| bip_39_word_new_br_10 | diagram<br>soon<br>vibrant<br>lawn<br>life<br>electric<br>stable<br>elevator<br>total<br>example |  
+| bip_39_word_new_br_11 | diagram<br>soon<br>vibrant<br>lawn<br>life<br>electric<br>stable<br>elevator<br>total<br>example<br>tribe |  
+| bip_39_word_new_br_12 | diagram<br>soon<br>vibrant<br>lawn<br>life<br>electric<br>stable<br>elevator<br>total<br>example<br>tribe<br>air |  
+| bip_39_word_new_br_2 | diagram<br>soon |  
+| bip_39_word_new_br_3 | diagram<br>soon<br>vibrant |  
+| bip_39_word_new_br_4 | diagram<br>soon<br>vibrant<br>lawn |  
+| bip_39_word_new_br_5 | diagram<br>soon<br>vibrant<br>lawn<br>life |  
+| bip_39_word_new_br_6 | diagram<br>soon<br>vibrant<br>lawn<br>life<br>electric |  
+| bip_39_word_new_br_7 | diagram<br>soon<br>vibrant<br>lawn<br>life<br>electric<br>stable |  
+| bip_39_word_new_br_8 | diagram<br>soon<br>vibrant<br>lawn<br>life<br>electric<br>stable<br>elevator |  
+| bip_39_word_new_br_9 | diagram<br>soon<br>vibrant<br>lawn<br>life<br>electric<br>stable<br>elevator<br>total |  
+| bip_39_word_new_line_1 | diagram |  
+| bip_39_word_new_line_10 | diagram
 soon
 vibrant
 lawn
@@ -55,7 +55,7 @@ stable
 elevator
 total
 example |  
-| bip_39_word_new_line11 | diagram
+| bip_39_word_new_line_11 | diagram
 soon
 vibrant
 lawn
@@ -66,7 +66,7 @@ elevator
 total
 example
 tribe |  
-| bip_39_word_new_line12 | diagram
+| bip_39_word_new_line_12 | diagram
 soon
 vibrant
 lawn
@@ -78,34 +78,34 @@ total
 example
 tribe
 air |  
-| bip_39_word_new_line2 | diagram
+| bip_39_word_new_line_2 | diagram
 soon |  
-| bip_39_word_new_line3 | diagram
+| bip_39_word_new_line_3 | diagram
 soon
 vibrant |  
-| bip_39_word_new_line4 | diagram
+| bip_39_word_new_line_4 | diagram
 soon
 vibrant
 lawn |  
-| bip_39_word_new_line5 | diagram
+| bip_39_word_new_line_5 | diagram
 soon
 vibrant
 lawn
 life |  
-| bip_39_word_new_line6 | diagram
+| bip_39_word_new_line_6 | diagram
 soon
 vibrant
 lawn
 life
 electric |  
-| bip_39_word_new_line7 | diagram
+| bip_39_word_new_line_7 | diagram
 soon
 vibrant
 lawn
 life
 electric
 stable |  
-| bip_39_word_new_line8 | diagram
+| bip_39_word_new_line_8 | diagram
 soon
 vibrant
 lawn
@@ -113,7 +113,7 @@ life
 electric
 stable
 elevator |  
-| bip_39_word_new_line9 | diagram
+| bip_39_word_new_line_9 | diagram
 soon
 vibrant
 lawn

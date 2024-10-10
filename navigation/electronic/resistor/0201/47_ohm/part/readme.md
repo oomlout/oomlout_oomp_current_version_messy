@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | indicate |  
-| bip_39_word_new_br10 | indicate<br>window<br>air<br>tent<br>meat<br>fancy<br>chunk<br>junior<br>coil<br>clarify |  
-| bip_39_word_new_br11 | indicate<br>window<br>air<br>tent<br>meat<br>fancy<br>chunk<br>junior<br>coil<br>clarify<br>recipe |  
-| bip_39_word_new_br12 | indicate<br>window<br>air<br>tent<br>meat<br>fancy<br>chunk<br>junior<br>coil<br>clarify<br>recipe<br>album |  
-| bip_39_word_new_br2 | indicate<br>window |  
-| bip_39_word_new_br3 | indicate<br>window<br>air |  
-| bip_39_word_new_br4 | indicate<br>window<br>air<br>tent |  
-| bip_39_word_new_br5 | indicate<br>window<br>air<br>tent<br>meat |  
-| bip_39_word_new_br6 | indicate<br>window<br>air<br>tent<br>meat<br>fancy |  
-| bip_39_word_new_br7 | indicate<br>window<br>air<br>tent<br>meat<br>fancy<br>chunk |  
-| bip_39_word_new_br8 | indicate<br>window<br>air<br>tent<br>meat<br>fancy<br>chunk<br>junior |  
-| bip_39_word_new_br9 | indicate<br>window<br>air<br>tent<br>meat<br>fancy<br>chunk<br>junior<br>coil |  
-| bip_39_word_new_line1 | indicate |  
-| bip_39_word_new_line10 | indicate
+| bip_39_word_new_br_1 | indicate |  
+| bip_39_word_new_br_10 | indicate<br>window<br>air<br>tent<br>meat<br>fancy<br>chunk<br>junior<br>coil<br>clarify |  
+| bip_39_word_new_br_11 | indicate<br>window<br>air<br>tent<br>meat<br>fancy<br>chunk<br>junior<br>coil<br>clarify<br>recipe |  
+| bip_39_word_new_br_12 | indicate<br>window<br>air<br>tent<br>meat<br>fancy<br>chunk<br>junior<br>coil<br>clarify<br>recipe<br>album |  
+| bip_39_word_new_br_2 | indicate<br>window |  
+| bip_39_word_new_br_3 | indicate<br>window<br>air |  
+| bip_39_word_new_br_4 | indicate<br>window<br>air<br>tent |  
+| bip_39_word_new_br_5 | indicate<br>window<br>air<br>tent<br>meat |  
+| bip_39_word_new_br_6 | indicate<br>window<br>air<br>tent<br>meat<br>fancy |  
+| bip_39_word_new_br_7 | indicate<br>window<br>air<br>tent<br>meat<br>fancy<br>chunk |  
+| bip_39_word_new_br_8 | indicate<br>window<br>air<br>tent<br>meat<br>fancy<br>chunk<br>junior |  
+| bip_39_word_new_br_9 | indicate<br>window<br>air<br>tent<br>meat<br>fancy<br>chunk<br>junior<br>coil |  
+| bip_39_word_new_line_1 | indicate |  
+| bip_39_word_new_line_10 | indicate
 window
 air
 tent
@@ -55,7 +55,7 @@ chunk
 junior
 coil
 clarify |  
-| bip_39_word_new_line11 | indicate
+| bip_39_word_new_line_11 | indicate
 window
 air
 tent
@@ -66,7 +66,7 @@ junior
 coil
 clarify
 recipe |  
-| bip_39_word_new_line12 | indicate
+| bip_39_word_new_line_12 | indicate
 window
 air
 tent
@@ -78,34 +78,34 @@ coil
 clarify
 recipe
 album |  
-| bip_39_word_new_line2 | indicate
+| bip_39_word_new_line_2 | indicate
 window |  
-| bip_39_word_new_line3 | indicate
+| bip_39_word_new_line_3 | indicate
 window
 air |  
-| bip_39_word_new_line4 | indicate
+| bip_39_word_new_line_4 | indicate
 window
 air
 tent |  
-| bip_39_word_new_line5 | indicate
+| bip_39_word_new_line_5 | indicate
 window
 air
 tent
 meat |  
-| bip_39_word_new_line6 | indicate
+| bip_39_word_new_line_6 | indicate
 window
 air
 tent
 meat
 fancy |  
-| bip_39_word_new_line7 | indicate
+| bip_39_word_new_line_7 | indicate
 window
 air
 tent
 meat
 fancy
 chunk |  
-| bip_39_word_new_line8 | indicate
+| bip_39_word_new_line_8 | indicate
 window
 air
 tent
@@ -113,7 +113,7 @@ meat
 fancy
 chunk
 junior |  
-| bip_39_word_new_line9 | indicate
+| bip_39_word_new_line_9 | indicate
 window
 air
 tent

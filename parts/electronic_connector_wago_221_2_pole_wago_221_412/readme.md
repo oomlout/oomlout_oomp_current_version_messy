@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | diary |  
-| bip_39_word_new_br10 | diary<br>health<br>south<br>cage<br>charge<br>future<br>humble<br>damp<br>midnight<br>bachelor |  
-| bip_39_word_new_br11 | diary<br>health<br>south<br>cage<br>charge<br>future<br>humble<br>damp<br>midnight<br>bachelor<br>there |  
-| bip_39_word_new_br12 | diary<br>health<br>south<br>cage<br>charge<br>future<br>humble<br>damp<br>midnight<br>bachelor<br>there<br>assist |  
-| bip_39_word_new_br2 | diary<br>health |  
-| bip_39_word_new_br3 | diary<br>health<br>south |  
-| bip_39_word_new_br4 | diary<br>health<br>south<br>cage |  
-| bip_39_word_new_br5 | diary<br>health<br>south<br>cage<br>charge |  
-| bip_39_word_new_br6 | diary<br>health<br>south<br>cage<br>charge<br>future |  
-| bip_39_word_new_br7 | diary<br>health<br>south<br>cage<br>charge<br>future<br>humble |  
-| bip_39_word_new_br8 | diary<br>health<br>south<br>cage<br>charge<br>future<br>humble<br>damp |  
-| bip_39_word_new_br9 | diary<br>health<br>south<br>cage<br>charge<br>future<br>humble<br>damp<br>midnight |  
-| bip_39_word_new_line1 | diary |  
-| bip_39_word_new_line10 | diary
+| bip_39_word_new_br_1 | diary |  
+| bip_39_word_new_br_10 | diary<br>health<br>south<br>cage<br>charge<br>future<br>humble<br>damp<br>midnight<br>bachelor |  
+| bip_39_word_new_br_11 | diary<br>health<br>south<br>cage<br>charge<br>future<br>humble<br>damp<br>midnight<br>bachelor<br>there |  
+| bip_39_word_new_br_12 | diary<br>health<br>south<br>cage<br>charge<br>future<br>humble<br>damp<br>midnight<br>bachelor<br>there<br>assist |  
+| bip_39_word_new_br_2 | diary<br>health |  
+| bip_39_word_new_br_3 | diary<br>health<br>south |  
+| bip_39_word_new_br_4 | diary<br>health<br>south<br>cage |  
+| bip_39_word_new_br_5 | diary<br>health<br>south<br>cage<br>charge |  
+| bip_39_word_new_br_6 | diary<br>health<br>south<br>cage<br>charge<br>future |  
+| bip_39_word_new_br_7 | diary<br>health<br>south<br>cage<br>charge<br>future<br>humble |  
+| bip_39_word_new_br_8 | diary<br>health<br>south<br>cage<br>charge<br>future<br>humble<br>damp |  
+| bip_39_word_new_br_9 | diary<br>health<br>south<br>cage<br>charge<br>future<br>humble<br>damp<br>midnight |  
+| bip_39_word_new_line_1 | diary |  
+| bip_39_word_new_line_10 | diary
 health
 south
 cage
@@ -55,7 +55,7 @@ humble
 damp
 midnight
 bachelor |  
-| bip_39_word_new_line11 | diary
+| bip_39_word_new_line_11 | diary
 health
 south
 cage
@@ -66,7 +66,7 @@ damp
 midnight
 bachelor
 there |  
-| bip_39_word_new_line12 | diary
+| bip_39_word_new_line_12 | diary
 health
 south
 cage
@@ -78,34 +78,34 @@ midnight
 bachelor
 there
 assist |  
-| bip_39_word_new_line2 | diary
+| bip_39_word_new_line_2 | diary
 health |  
-| bip_39_word_new_line3 | diary
+| bip_39_word_new_line_3 | diary
 health
 south |  
-| bip_39_word_new_line4 | diary
+| bip_39_word_new_line_4 | diary
 health
 south
 cage |  
-| bip_39_word_new_line5 | diary
+| bip_39_word_new_line_5 | diary
 health
 south
 cage
 charge |  
-| bip_39_word_new_line6 | diary
+| bip_39_word_new_line_6 | diary
 health
 south
 cage
 charge
 future |  
-| bip_39_word_new_line7 | diary
+| bip_39_word_new_line_7 | diary
 health
 south
 cage
 charge
 future
 humble |  
-| bip_39_word_new_line8 | diary
+| bip_39_word_new_line_8 | diary
 health
 south
 cage
@@ -113,7 +113,7 @@ charge
 future
 humble
 damp |  
-| bip_39_word_new_line9 | diary
+| bip_39_word_new_line_9 | diary
 health
 south
 cage

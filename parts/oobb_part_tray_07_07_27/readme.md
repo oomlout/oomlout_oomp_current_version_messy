@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | girl |  
-| bip_39_word_new_br10 | girl<br>voyage<br>forum<br>couple<br>divide<br>page<br>promote<br>ready<br>already<br>praise |  
-| bip_39_word_new_br11 | girl<br>voyage<br>forum<br>couple<br>divide<br>page<br>promote<br>ready<br>already<br>praise<br>credit |  
-| bip_39_word_new_br12 | girl<br>voyage<br>forum<br>couple<br>divide<br>page<br>promote<br>ready<br>already<br>praise<br>credit<br>angry |  
-| bip_39_word_new_br2 | girl<br>voyage |  
-| bip_39_word_new_br3 | girl<br>voyage<br>forum |  
-| bip_39_word_new_br4 | girl<br>voyage<br>forum<br>couple |  
-| bip_39_word_new_br5 | girl<br>voyage<br>forum<br>couple<br>divide |  
-| bip_39_word_new_br6 | girl<br>voyage<br>forum<br>couple<br>divide<br>page |  
-| bip_39_word_new_br7 | girl<br>voyage<br>forum<br>couple<br>divide<br>page<br>promote |  
-| bip_39_word_new_br8 | girl<br>voyage<br>forum<br>couple<br>divide<br>page<br>promote<br>ready |  
-| bip_39_word_new_br9 | girl<br>voyage<br>forum<br>couple<br>divide<br>page<br>promote<br>ready<br>already |  
-| bip_39_word_new_line1 | girl |  
-| bip_39_word_new_line10 | girl
+| bip_39_word_new_br_1 | girl |  
+| bip_39_word_new_br_10 | girl<br>voyage<br>forum<br>couple<br>divide<br>page<br>promote<br>ready<br>already<br>praise |  
+| bip_39_word_new_br_11 | girl<br>voyage<br>forum<br>couple<br>divide<br>page<br>promote<br>ready<br>already<br>praise<br>credit |  
+| bip_39_word_new_br_12 | girl<br>voyage<br>forum<br>couple<br>divide<br>page<br>promote<br>ready<br>already<br>praise<br>credit<br>angry |  
+| bip_39_word_new_br_2 | girl<br>voyage |  
+| bip_39_word_new_br_3 | girl<br>voyage<br>forum |  
+| bip_39_word_new_br_4 | girl<br>voyage<br>forum<br>couple |  
+| bip_39_word_new_br_5 | girl<br>voyage<br>forum<br>couple<br>divide |  
+| bip_39_word_new_br_6 | girl<br>voyage<br>forum<br>couple<br>divide<br>page |  
+| bip_39_word_new_br_7 | girl<br>voyage<br>forum<br>couple<br>divide<br>page<br>promote |  
+| bip_39_word_new_br_8 | girl<br>voyage<br>forum<br>couple<br>divide<br>page<br>promote<br>ready |  
+| bip_39_word_new_br_9 | girl<br>voyage<br>forum<br>couple<br>divide<br>page<br>promote<br>ready<br>already |  
+| bip_39_word_new_line_1 | girl |  
+| bip_39_word_new_line_10 | girl
 voyage
 forum
 couple
@@ -55,7 +55,7 @@ promote
 ready
 already
 praise |  
-| bip_39_word_new_line11 | girl
+| bip_39_word_new_line_11 | girl
 voyage
 forum
 couple
@@ -66,7 +66,7 @@ ready
 already
 praise
 credit |  
-| bip_39_word_new_line12 | girl
+| bip_39_word_new_line_12 | girl
 voyage
 forum
 couple
@@ -78,34 +78,34 @@ already
 praise
 credit
 angry |  
-| bip_39_word_new_line2 | girl
+| bip_39_word_new_line_2 | girl
 voyage |  
-| bip_39_word_new_line3 | girl
+| bip_39_word_new_line_3 | girl
 voyage
 forum |  
-| bip_39_word_new_line4 | girl
+| bip_39_word_new_line_4 | girl
 voyage
 forum
 couple |  
-| bip_39_word_new_line5 | girl
+| bip_39_word_new_line_5 | girl
 voyage
 forum
 couple
 divide |  
-| bip_39_word_new_line6 | girl
+| bip_39_word_new_line_6 | girl
 voyage
 forum
 couple
 divide
 page |  
-| bip_39_word_new_line7 | girl
+| bip_39_word_new_line_7 | girl
 voyage
 forum
 couple
 divide
 page
 promote |  
-| bip_39_word_new_line8 | girl
+| bip_39_word_new_line_8 | girl
 voyage
 forum
 couple
@@ -113,7 +113,7 @@ divide
 page
 promote
 ready |  
-| bip_39_word_new_line9 | girl
+| bip_39_word_new_line_9 | girl
 voyage
 forum
 couple

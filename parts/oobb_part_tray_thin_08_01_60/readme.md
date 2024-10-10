@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | inhale |  
-| bip_39_word_new_br10 | inhale<br>credit<br>truth<br>replace<br>bench<br>air<br>warfare<br>angle<br>buyer<br>two |  
-| bip_39_word_new_br11 | inhale<br>credit<br>truth<br>replace<br>bench<br>air<br>warfare<br>angle<br>buyer<br>two<br>clean |  
-| bip_39_word_new_br12 | inhale<br>credit<br>truth<br>replace<br>bench<br>air<br>warfare<br>angle<br>buyer<br>two<br>clean<br>alien |  
-| bip_39_word_new_br2 | inhale<br>credit |  
-| bip_39_word_new_br3 | inhale<br>credit<br>truth |  
-| bip_39_word_new_br4 | inhale<br>credit<br>truth<br>replace |  
-| bip_39_word_new_br5 | inhale<br>credit<br>truth<br>replace<br>bench |  
-| bip_39_word_new_br6 | inhale<br>credit<br>truth<br>replace<br>bench<br>air |  
-| bip_39_word_new_br7 | inhale<br>credit<br>truth<br>replace<br>bench<br>air<br>warfare |  
-| bip_39_word_new_br8 | inhale<br>credit<br>truth<br>replace<br>bench<br>air<br>warfare<br>angle |  
-| bip_39_word_new_br9 | inhale<br>credit<br>truth<br>replace<br>bench<br>air<br>warfare<br>angle<br>buyer |  
-| bip_39_word_new_line1 | inhale |  
-| bip_39_word_new_line10 | inhale
+| bip_39_word_new_br_1 | inhale |  
+| bip_39_word_new_br_10 | inhale<br>credit<br>truth<br>replace<br>bench<br>air<br>warfare<br>angle<br>buyer<br>two |  
+| bip_39_word_new_br_11 | inhale<br>credit<br>truth<br>replace<br>bench<br>air<br>warfare<br>angle<br>buyer<br>two<br>clean |  
+| bip_39_word_new_br_12 | inhale<br>credit<br>truth<br>replace<br>bench<br>air<br>warfare<br>angle<br>buyer<br>two<br>clean<br>alien |  
+| bip_39_word_new_br_2 | inhale<br>credit |  
+| bip_39_word_new_br_3 | inhale<br>credit<br>truth |  
+| bip_39_word_new_br_4 | inhale<br>credit<br>truth<br>replace |  
+| bip_39_word_new_br_5 | inhale<br>credit<br>truth<br>replace<br>bench |  
+| bip_39_word_new_br_6 | inhale<br>credit<br>truth<br>replace<br>bench<br>air |  
+| bip_39_word_new_br_7 | inhale<br>credit<br>truth<br>replace<br>bench<br>air<br>warfare |  
+| bip_39_word_new_br_8 | inhale<br>credit<br>truth<br>replace<br>bench<br>air<br>warfare<br>angle |  
+| bip_39_word_new_br_9 | inhale<br>credit<br>truth<br>replace<br>bench<br>air<br>warfare<br>angle<br>buyer |  
+| bip_39_word_new_line_1 | inhale |  
+| bip_39_word_new_line_10 | inhale
 credit
 truth
 replace
@@ -55,7 +55,7 @@ warfare
 angle
 buyer
 two |  
-| bip_39_word_new_line11 | inhale
+| bip_39_word_new_line_11 | inhale
 credit
 truth
 replace
@@ -66,7 +66,7 @@ angle
 buyer
 two
 clean |  
-| bip_39_word_new_line12 | inhale
+| bip_39_word_new_line_12 | inhale
 credit
 truth
 replace
@@ -78,34 +78,34 @@ buyer
 two
 clean
 alien |  
-| bip_39_word_new_line2 | inhale
+| bip_39_word_new_line_2 | inhale
 credit |  
-| bip_39_word_new_line3 | inhale
+| bip_39_word_new_line_3 | inhale
 credit
 truth |  
-| bip_39_word_new_line4 | inhale
+| bip_39_word_new_line_4 | inhale
 credit
 truth
 replace |  
-| bip_39_word_new_line5 | inhale
+| bip_39_word_new_line_5 | inhale
 credit
 truth
 replace
 bench |  
-| bip_39_word_new_line6 | inhale
+| bip_39_word_new_line_6 | inhale
 credit
 truth
 replace
 bench
 air |  
-| bip_39_word_new_line7 | inhale
+| bip_39_word_new_line_7 | inhale
 credit
 truth
 replace
 bench
 air
 warfare |  
-| bip_39_word_new_line8 | inhale
+| bip_39_word_new_line_8 | inhale
 credit
 truth
 replace
@@ -113,7 +113,7 @@ bench
 air
 warfare
 angle |  
-| bip_39_word_new_line9 | inhale
+| bip_39_word_new_line_9 | inhale
 credit
 truth
 replace

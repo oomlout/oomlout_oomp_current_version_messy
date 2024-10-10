@@ -1,17 +1,17 @@
-bip_39_word_new_br1: juice
-bip_39_word_new_br10: juice<br>august<br>voyage<br>visa<br>raw<br>taste<br>license<br>peace<br>excuse<br>brother
-bip_39_word_new_br11: juice<br>august<br>voyage<br>visa<br>raw<br>taste<br>license<br>peace<br>excuse<br>brother<br>cool
-bip_39_word_new_br12: juice<br>august<br>voyage<br>visa<br>raw<br>taste<br>license<br>peace<br>excuse<br>brother<br>cool<br>action
-bip_39_word_new_br2: juice<br>august
-bip_39_word_new_br3: juice<br>august<br>voyage
-bip_39_word_new_br4: juice<br>august<br>voyage<br>visa
-bip_39_word_new_br5: juice<br>august<br>voyage<br>visa<br>raw
-bip_39_word_new_br6: juice<br>august<br>voyage<br>visa<br>raw<br>taste
-bip_39_word_new_br7: juice<br>august<br>voyage<br>visa<br>raw<br>taste<br>license
-bip_39_word_new_br8: juice<br>august<br>voyage<br>visa<br>raw<br>taste<br>license<br>peace
-bip_39_word_new_br9: juice<br>august<br>voyage<br>visa<br>raw<br>taste<br>license<br>peace<br>excuse
-bip_39_word_new_line1: juice
-bip_39_word_new_line10: 'juice
+bip_39_word_new_br_1: juice
+bip_39_word_new_br_10: juice<br>august<br>voyage<br>visa<br>raw<br>taste<br>license<br>peace<br>excuse<br>brother
+bip_39_word_new_br_11: juice<br>august<br>voyage<br>visa<br>raw<br>taste<br>license<br>peace<br>excuse<br>brother<br>cool
+bip_39_word_new_br_12: juice<br>august<br>voyage<br>visa<br>raw<br>taste<br>license<br>peace<br>excuse<br>brother<br>cool<br>action
+bip_39_word_new_br_2: juice<br>august
+bip_39_word_new_br_3: juice<br>august<br>voyage
+bip_39_word_new_br_4: juice<br>august<br>voyage<br>visa
+bip_39_word_new_br_5: juice<br>august<br>voyage<br>visa<br>raw
+bip_39_word_new_br_6: juice<br>august<br>voyage<br>visa<br>raw<br>taste
+bip_39_word_new_br_7: juice<br>august<br>voyage<br>visa<br>raw<br>taste<br>license
+bip_39_word_new_br_8: juice<br>august<br>voyage<br>visa<br>raw<br>taste<br>license<br>peace
+bip_39_word_new_br_9: juice<br>august<br>voyage<br>visa<br>raw<br>taste<br>license<br>peace<br>excuse
+bip_39_word_new_line_1: juice
+bip_39_word_new_line_10: 'juice
 
   august
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'juice
   excuse
 
   brother'
-bip_39_word_new_line11: 'juice
+bip_39_word_new_line_11: 'juice
 
   august
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'juice
   brother
 
   cool'
-bip_39_word_new_line12: 'juice
+bip_39_word_new_line_12: 'juice
 
   august
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'juice
   cool
 
   action'
-bip_39_word_new_line2: 'juice
+bip_39_word_new_line_2: 'juice
 
   august'
-bip_39_word_new_line3: 'juice
+bip_39_word_new_line_3: 'juice
 
   august
 
   voyage'
-bip_39_word_new_line4: 'juice
+bip_39_word_new_line_4: 'juice
 
   august
 
   voyage
 
   visa'
-bip_39_word_new_line5: 'juice
+bip_39_word_new_line_5: 'juice
 
   august
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'juice
   visa
 
   raw'
-bip_39_word_new_line6: 'juice
+bip_39_word_new_line_6: 'juice
 
   august
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'juice
   raw
 
   taste'
-bip_39_word_new_line7: 'juice
+bip_39_word_new_line_7: 'juice
 
   august
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'juice
   taste
 
   license'
-bip_39_word_new_line8: 'juice
+bip_39_word_new_line_8: 'juice
 
   august
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'juice
   license
 
   peace'
-bip_39_word_new_line9: 'juice
+bip_39_word_new_line_9: 'juice
 
   august
 

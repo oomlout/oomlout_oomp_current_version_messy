@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | glory |  
-| bip_39_word_new_br10 | glory<br>toward<br>stock<br>engine<br>muscle<br>canyon<br>tilt<br>title<br>walk<br>comic |  
-| bip_39_word_new_br11 | glory<br>toward<br>stock<br>engine<br>muscle<br>canyon<br>tilt<br>title<br>walk<br>comic<br>original |  
-| bip_39_word_new_br12 | glory<br>toward<br>stock<br>engine<br>muscle<br>canyon<br>tilt<br>title<br>walk<br>comic<br>original<br>address |  
-| bip_39_word_new_br2 | glory<br>toward |  
-| bip_39_word_new_br3 | glory<br>toward<br>stock |  
-| bip_39_word_new_br4 | glory<br>toward<br>stock<br>engine |  
-| bip_39_word_new_br5 | glory<br>toward<br>stock<br>engine<br>muscle |  
-| bip_39_word_new_br6 | glory<br>toward<br>stock<br>engine<br>muscle<br>canyon |  
-| bip_39_word_new_br7 | glory<br>toward<br>stock<br>engine<br>muscle<br>canyon<br>tilt |  
-| bip_39_word_new_br8 | glory<br>toward<br>stock<br>engine<br>muscle<br>canyon<br>tilt<br>title |  
-| bip_39_word_new_br9 | glory<br>toward<br>stock<br>engine<br>muscle<br>canyon<br>tilt<br>title<br>walk |  
-| bip_39_word_new_line1 | glory |  
-| bip_39_word_new_line10 | glory
+| bip_39_word_new_br_1 | glory |  
+| bip_39_word_new_br_10 | glory<br>toward<br>stock<br>engine<br>muscle<br>canyon<br>tilt<br>title<br>walk<br>comic |  
+| bip_39_word_new_br_11 | glory<br>toward<br>stock<br>engine<br>muscle<br>canyon<br>tilt<br>title<br>walk<br>comic<br>original |  
+| bip_39_word_new_br_12 | glory<br>toward<br>stock<br>engine<br>muscle<br>canyon<br>tilt<br>title<br>walk<br>comic<br>original<br>address |  
+| bip_39_word_new_br_2 | glory<br>toward |  
+| bip_39_word_new_br_3 | glory<br>toward<br>stock |  
+| bip_39_word_new_br_4 | glory<br>toward<br>stock<br>engine |  
+| bip_39_word_new_br_5 | glory<br>toward<br>stock<br>engine<br>muscle |  
+| bip_39_word_new_br_6 | glory<br>toward<br>stock<br>engine<br>muscle<br>canyon |  
+| bip_39_word_new_br_7 | glory<br>toward<br>stock<br>engine<br>muscle<br>canyon<br>tilt |  
+| bip_39_word_new_br_8 | glory<br>toward<br>stock<br>engine<br>muscle<br>canyon<br>tilt<br>title |  
+| bip_39_word_new_br_9 | glory<br>toward<br>stock<br>engine<br>muscle<br>canyon<br>tilt<br>title<br>walk |  
+| bip_39_word_new_line_1 | glory |  
+| bip_39_word_new_line_10 | glory
 toward
 stock
 engine
@@ -55,7 +55,7 @@ tilt
 title
 walk
 comic |  
-| bip_39_word_new_line11 | glory
+| bip_39_word_new_line_11 | glory
 toward
 stock
 engine
@@ -66,7 +66,7 @@ title
 walk
 comic
 original |  
-| bip_39_word_new_line12 | glory
+| bip_39_word_new_line_12 | glory
 toward
 stock
 engine
@@ -78,34 +78,34 @@ walk
 comic
 original
 address |  
-| bip_39_word_new_line2 | glory
+| bip_39_word_new_line_2 | glory
 toward |  
-| bip_39_word_new_line3 | glory
+| bip_39_word_new_line_3 | glory
 toward
 stock |  
-| bip_39_word_new_line4 | glory
+| bip_39_word_new_line_4 | glory
 toward
 stock
 engine |  
-| bip_39_word_new_line5 | glory
+| bip_39_word_new_line_5 | glory
 toward
 stock
 engine
 muscle |  
-| bip_39_word_new_line6 | glory
+| bip_39_word_new_line_6 | glory
 toward
 stock
 engine
 muscle
 canyon |  
-| bip_39_word_new_line7 | glory
+| bip_39_word_new_line_7 | glory
 toward
 stock
 engine
 muscle
 canyon
 tilt |  
-| bip_39_word_new_line8 | glory
+| bip_39_word_new_line_8 | glory
 toward
 stock
 engine
@@ -113,7 +113,7 @@ muscle
 canyon
 tilt
 title |  
-| bip_39_word_new_line9 | glory
+| bip_39_word_new_line_9 | glory
 toward
 stock
 engine

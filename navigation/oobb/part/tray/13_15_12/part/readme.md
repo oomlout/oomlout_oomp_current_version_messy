@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | torch |  
-| bip_39_word_new_br10 | torch<br>puzzle<br>age<br>tank<br>become<br>problem<br>fog<br>spare<br>blast<br>risk |  
-| bip_39_word_new_br11 | torch<br>puzzle<br>age<br>tank<br>become<br>problem<br>fog<br>spare<br>blast<br>risk<br>stage |  
-| bip_39_word_new_br12 | torch<br>puzzle<br>age<br>tank<br>become<br>problem<br>fog<br>spare<br>blast<br>risk<br>stage<br>artwork |  
-| bip_39_word_new_br2 | torch<br>puzzle |  
-| bip_39_word_new_br3 | torch<br>puzzle<br>age |  
-| bip_39_word_new_br4 | torch<br>puzzle<br>age<br>tank |  
-| bip_39_word_new_br5 | torch<br>puzzle<br>age<br>tank<br>become |  
-| bip_39_word_new_br6 | torch<br>puzzle<br>age<br>tank<br>become<br>problem |  
-| bip_39_word_new_br7 | torch<br>puzzle<br>age<br>tank<br>become<br>problem<br>fog |  
-| bip_39_word_new_br8 | torch<br>puzzle<br>age<br>tank<br>become<br>problem<br>fog<br>spare |  
-| bip_39_word_new_br9 | torch<br>puzzle<br>age<br>tank<br>become<br>problem<br>fog<br>spare<br>blast |  
-| bip_39_word_new_line1 | torch |  
-| bip_39_word_new_line10 | torch
+| bip_39_word_new_br_1 | torch |  
+| bip_39_word_new_br_10 | torch<br>puzzle<br>age<br>tank<br>become<br>problem<br>fog<br>spare<br>blast<br>risk |  
+| bip_39_word_new_br_11 | torch<br>puzzle<br>age<br>tank<br>become<br>problem<br>fog<br>spare<br>blast<br>risk<br>stage |  
+| bip_39_word_new_br_12 | torch<br>puzzle<br>age<br>tank<br>become<br>problem<br>fog<br>spare<br>blast<br>risk<br>stage<br>artwork |  
+| bip_39_word_new_br_2 | torch<br>puzzle |  
+| bip_39_word_new_br_3 | torch<br>puzzle<br>age |  
+| bip_39_word_new_br_4 | torch<br>puzzle<br>age<br>tank |  
+| bip_39_word_new_br_5 | torch<br>puzzle<br>age<br>tank<br>become |  
+| bip_39_word_new_br_6 | torch<br>puzzle<br>age<br>tank<br>become<br>problem |  
+| bip_39_word_new_br_7 | torch<br>puzzle<br>age<br>tank<br>become<br>problem<br>fog |  
+| bip_39_word_new_br_8 | torch<br>puzzle<br>age<br>tank<br>become<br>problem<br>fog<br>spare |  
+| bip_39_word_new_br_9 | torch<br>puzzle<br>age<br>tank<br>become<br>problem<br>fog<br>spare<br>blast |  
+| bip_39_word_new_line_1 | torch |  
+| bip_39_word_new_line_10 | torch
 puzzle
 age
 tank
@@ -55,7 +55,7 @@ fog
 spare
 blast
 risk |  
-| bip_39_word_new_line11 | torch
+| bip_39_word_new_line_11 | torch
 puzzle
 age
 tank
@@ -66,7 +66,7 @@ spare
 blast
 risk
 stage |  
-| bip_39_word_new_line12 | torch
+| bip_39_word_new_line_12 | torch
 puzzle
 age
 tank
@@ -78,34 +78,34 @@ blast
 risk
 stage
 artwork |  
-| bip_39_word_new_line2 | torch
+| bip_39_word_new_line_2 | torch
 puzzle |  
-| bip_39_word_new_line3 | torch
+| bip_39_word_new_line_3 | torch
 puzzle
 age |  
-| bip_39_word_new_line4 | torch
+| bip_39_word_new_line_4 | torch
 puzzle
 age
 tank |  
-| bip_39_word_new_line5 | torch
+| bip_39_word_new_line_5 | torch
 puzzle
 age
 tank
 become |  
-| bip_39_word_new_line6 | torch
+| bip_39_word_new_line_6 | torch
 puzzle
 age
 tank
 become
 problem |  
-| bip_39_word_new_line7 | torch
+| bip_39_word_new_line_7 | torch
 puzzle
 age
 tank
 become
 problem
 fog |  
-| bip_39_word_new_line8 | torch
+| bip_39_word_new_line_8 | torch
 puzzle
 age
 tank
@@ -113,7 +113,7 @@ become
 problem
 fog
 spare |  
-| bip_39_word_new_line9 | torch
+| bip_39_word_new_line_9 | torch
 puzzle
 age
 tank

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | roast |  
-| bip_39_word_new_br10 | roast<br>idle<br>else<br>six<br>devote<br>setup<br>piece<br>dust<br>year<br>lawn |  
-| bip_39_word_new_br11 | roast<br>idle<br>else<br>six<br>devote<br>setup<br>piece<br>dust<br>year<br>lawn<br>invest |  
-| bip_39_word_new_br12 | roast<br>idle<br>else<br>six<br>devote<br>setup<br>piece<br>dust<br>year<br>lawn<br>invest<br>alone |  
-| bip_39_word_new_br2 | roast<br>idle |  
-| bip_39_word_new_br3 | roast<br>idle<br>else |  
-| bip_39_word_new_br4 | roast<br>idle<br>else<br>six |  
-| bip_39_word_new_br5 | roast<br>idle<br>else<br>six<br>devote |  
-| bip_39_word_new_br6 | roast<br>idle<br>else<br>six<br>devote<br>setup |  
-| bip_39_word_new_br7 | roast<br>idle<br>else<br>six<br>devote<br>setup<br>piece |  
-| bip_39_word_new_br8 | roast<br>idle<br>else<br>six<br>devote<br>setup<br>piece<br>dust |  
-| bip_39_word_new_br9 | roast<br>idle<br>else<br>six<br>devote<br>setup<br>piece<br>dust<br>year |  
-| bip_39_word_new_line1 | roast |  
-| bip_39_word_new_line10 | roast
+| bip_39_word_new_br_1 | roast |  
+| bip_39_word_new_br_10 | roast<br>idle<br>else<br>six<br>devote<br>setup<br>piece<br>dust<br>year<br>lawn |  
+| bip_39_word_new_br_11 | roast<br>idle<br>else<br>six<br>devote<br>setup<br>piece<br>dust<br>year<br>lawn<br>invest |  
+| bip_39_word_new_br_12 | roast<br>idle<br>else<br>six<br>devote<br>setup<br>piece<br>dust<br>year<br>lawn<br>invest<br>alone |  
+| bip_39_word_new_br_2 | roast<br>idle |  
+| bip_39_word_new_br_3 | roast<br>idle<br>else |  
+| bip_39_word_new_br_4 | roast<br>idle<br>else<br>six |  
+| bip_39_word_new_br_5 | roast<br>idle<br>else<br>six<br>devote |  
+| bip_39_word_new_br_6 | roast<br>idle<br>else<br>six<br>devote<br>setup |  
+| bip_39_word_new_br_7 | roast<br>idle<br>else<br>six<br>devote<br>setup<br>piece |  
+| bip_39_word_new_br_8 | roast<br>idle<br>else<br>six<br>devote<br>setup<br>piece<br>dust |  
+| bip_39_word_new_br_9 | roast<br>idle<br>else<br>six<br>devote<br>setup<br>piece<br>dust<br>year |  
+| bip_39_word_new_line_1 | roast |  
+| bip_39_word_new_line_10 | roast
 idle
 else
 six
@@ -55,7 +55,7 @@ piece
 dust
 year
 lawn |  
-| bip_39_word_new_line11 | roast
+| bip_39_word_new_line_11 | roast
 idle
 else
 six
@@ -66,7 +66,7 @@ dust
 year
 lawn
 invest |  
-| bip_39_word_new_line12 | roast
+| bip_39_word_new_line_12 | roast
 idle
 else
 six
@@ -78,34 +78,34 @@ year
 lawn
 invest
 alone |  
-| bip_39_word_new_line2 | roast
+| bip_39_word_new_line_2 | roast
 idle |  
-| bip_39_word_new_line3 | roast
+| bip_39_word_new_line_3 | roast
 idle
 else |  
-| bip_39_word_new_line4 | roast
+| bip_39_word_new_line_4 | roast
 idle
 else
 six |  
-| bip_39_word_new_line5 | roast
+| bip_39_word_new_line_5 | roast
 idle
 else
 six
 devote |  
-| bip_39_word_new_line6 | roast
+| bip_39_word_new_line_6 | roast
 idle
 else
 six
 devote
 setup |  
-| bip_39_word_new_line7 | roast
+| bip_39_word_new_line_7 | roast
 idle
 else
 six
 devote
 setup
 piece |  
-| bip_39_word_new_line8 | roast
+| bip_39_word_new_line_8 | roast
 idle
 else
 six
@@ -113,7 +113,7 @@ devote
 setup
 piece
 dust |  
-| bip_39_word_new_line9 | roast
+| bip_39_word_new_line_9 | roast
 idle
 else
 six

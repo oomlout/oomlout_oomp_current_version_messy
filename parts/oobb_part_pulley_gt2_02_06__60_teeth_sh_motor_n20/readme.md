@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fever |  
-| bip_39_word_new_br10 | fever<br>polar<br>patient<br>vote<br>gift<br>egg<br>canoe<br>faint<br>sail<br>guide |  
-| bip_39_word_new_br11 | fever<br>polar<br>patient<br>vote<br>gift<br>egg<br>canoe<br>faint<br>sail<br>guide<br>effort |  
-| bip_39_word_new_br12 | fever<br>polar<br>patient<br>vote<br>gift<br>egg<br>canoe<br>faint<br>sail<br>guide<br>effort<br>allow |  
-| bip_39_word_new_br2 | fever<br>polar |  
-| bip_39_word_new_br3 | fever<br>polar<br>patient |  
-| bip_39_word_new_br4 | fever<br>polar<br>patient<br>vote |  
-| bip_39_word_new_br5 | fever<br>polar<br>patient<br>vote<br>gift |  
-| bip_39_word_new_br6 | fever<br>polar<br>patient<br>vote<br>gift<br>egg |  
-| bip_39_word_new_br7 | fever<br>polar<br>patient<br>vote<br>gift<br>egg<br>canoe |  
-| bip_39_word_new_br8 | fever<br>polar<br>patient<br>vote<br>gift<br>egg<br>canoe<br>faint |  
-| bip_39_word_new_br9 | fever<br>polar<br>patient<br>vote<br>gift<br>egg<br>canoe<br>faint<br>sail |  
-| bip_39_word_new_line1 | fever |  
-| bip_39_word_new_line10 | fever
+| bip_39_word_new_br_1 | fever |  
+| bip_39_word_new_br_10 | fever<br>polar<br>patient<br>vote<br>gift<br>egg<br>canoe<br>faint<br>sail<br>guide |  
+| bip_39_word_new_br_11 | fever<br>polar<br>patient<br>vote<br>gift<br>egg<br>canoe<br>faint<br>sail<br>guide<br>effort |  
+| bip_39_word_new_br_12 | fever<br>polar<br>patient<br>vote<br>gift<br>egg<br>canoe<br>faint<br>sail<br>guide<br>effort<br>allow |  
+| bip_39_word_new_br_2 | fever<br>polar |  
+| bip_39_word_new_br_3 | fever<br>polar<br>patient |  
+| bip_39_word_new_br_4 | fever<br>polar<br>patient<br>vote |  
+| bip_39_word_new_br_5 | fever<br>polar<br>patient<br>vote<br>gift |  
+| bip_39_word_new_br_6 | fever<br>polar<br>patient<br>vote<br>gift<br>egg |  
+| bip_39_word_new_br_7 | fever<br>polar<br>patient<br>vote<br>gift<br>egg<br>canoe |  
+| bip_39_word_new_br_8 | fever<br>polar<br>patient<br>vote<br>gift<br>egg<br>canoe<br>faint |  
+| bip_39_word_new_br_9 | fever<br>polar<br>patient<br>vote<br>gift<br>egg<br>canoe<br>faint<br>sail |  
+| bip_39_word_new_line_1 | fever |  
+| bip_39_word_new_line_10 | fever
 polar
 patient
 vote
@@ -55,7 +55,7 @@ canoe
 faint
 sail
 guide |  
-| bip_39_word_new_line11 | fever
+| bip_39_word_new_line_11 | fever
 polar
 patient
 vote
@@ -66,7 +66,7 @@ faint
 sail
 guide
 effort |  
-| bip_39_word_new_line12 | fever
+| bip_39_word_new_line_12 | fever
 polar
 patient
 vote
@@ -78,34 +78,34 @@ sail
 guide
 effort
 allow |  
-| bip_39_word_new_line2 | fever
+| bip_39_word_new_line_2 | fever
 polar |  
-| bip_39_word_new_line3 | fever
+| bip_39_word_new_line_3 | fever
 polar
 patient |  
-| bip_39_word_new_line4 | fever
+| bip_39_word_new_line_4 | fever
 polar
 patient
 vote |  
-| bip_39_word_new_line5 | fever
+| bip_39_word_new_line_5 | fever
 polar
 patient
 vote
 gift |  
-| bip_39_word_new_line6 | fever
+| bip_39_word_new_line_6 | fever
 polar
 patient
 vote
 gift
 egg |  
-| bip_39_word_new_line7 | fever
+| bip_39_word_new_line_7 | fever
 polar
 patient
 vote
 gift
 egg
 canoe |  
-| bip_39_word_new_line8 | fever
+| bip_39_word_new_line_8 | fever
 polar
 patient
 vote
@@ -113,7 +113,7 @@ gift
 egg
 canoe
 faint |  
-| bip_39_word_new_line9 | fever
+| bip_39_word_new_line_9 | fever
 polar
 patient
 vote

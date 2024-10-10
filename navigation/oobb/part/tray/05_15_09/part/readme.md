@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | lake |  
-| bip_39_word_new_br10 | lake<br>butter<br>hotel<br>broken<br>talent<br>easy<br>sample<br>buyer<br>snack<br>cancel |  
-| bip_39_word_new_br11 | lake<br>butter<br>hotel<br>broken<br>talent<br>easy<br>sample<br>buyer<br>snack<br>cancel<br>earth |  
-| bip_39_word_new_br12 | lake<br>butter<br>hotel<br>broken<br>talent<br>easy<br>sample<br>buyer<br>snack<br>cancel<br>earth<br>animal |  
-| bip_39_word_new_br2 | lake<br>butter |  
-| bip_39_word_new_br3 | lake<br>butter<br>hotel |  
-| bip_39_word_new_br4 | lake<br>butter<br>hotel<br>broken |  
-| bip_39_word_new_br5 | lake<br>butter<br>hotel<br>broken<br>talent |  
-| bip_39_word_new_br6 | lake<br>butter<br>hotel<br>broken<br>talent<br>easy |  
-| bip_39_word_new_br7 | lake<br>butter<br>hotel<br>broken<br>talent<br>easy<br>sample |  
-| bip_39_word_new_br8 | lake<br>butter<br>hotel<br>broken<br>talent<br>easy<br>sample<br>buyer |  
-| bip_39_word_new_br9 | lake<br>butter<br>hotel<br>broken<br>talent<br>easy<br>sample<br>buyer<br>snack |  
-| bip_39_word_new_line1 | lake |  
-| bip_39_word_new_line10 | lake
+| bip_39_word_new_br_1 | lake |  
+| bip_39_word_new_br_10 | lake<br>butter<br>hotel<br>broken<br>talent<br>easy<br>sample<br>buyer<br>snack<br>cancel |  
+| bip_39_word_new_br_11 | lake<br>butter<br>hotel<br>broken<br>talent<br>easy<br>sample<br>buyer<br>snack<br>cancel<br>earth |  
+| bip_39_word_new_br_12 | lake<br>butter<br>hotel<br>broken<br>talent<br>easy<br>sample<br>buyer<br>snack<br>cancel<br>earth<br>animal |  
+| bip_39_word_new_br_2 | lake<br>butter |  
+| bip_39_word_new_br_3 | lake<br>butter<br>hotel |  
+| bip_39_word_new_br_4 | lake<br>butter<br>hotel<br>broken |  
+| bip_39_word_new_br_5 | lake<br>butter<br>hotel<br>broken<br>talent |  
+| bip_39_word_new_br_6 | lake<br>butter<br>hotel<br>broken<br>talent<br>easy |  
+| bip_39_word_new_br_7 | lake<br>butter<br>hotel<br>broken<br>talent<br>easy<br>sample |  
+| bip_39_word_new_br_8 | lake<br>butter<br>hotel<br>broken<br>talent<br>easy<br>sample<br>buyer |  
+| bip_39_word_new_br_9 | lake<br>butter<br>hotel<br>broken<br>talent<br>easy<br>sample<br>buyer<br>snack |  
+| bip_39_word_new_line_1 | lake |  
+| bip_39_word_new_line_10 | lake
 butter
 hotel
 broken
@@ -55,7 +55,7 @@ sample
 buyer
 snack
 cancel |  
-| bip_39_word_new_line11 | lake
+| bip_39_word_new_line_11 | lake
 butter
 hotel
 broken
@@ -66,7 +66,7 @@ buyer
 snack
 cancel
 earth |  
-| bip_39_word_new_line12 | lake
+| bip_39_word_new_line_12 | lake
 butter
 hotel
 broken
@@ -78,34 +78,34 @@ snack
 cancel
 earth
 animal |  
-| bip_39_word_new_line2 | lake
+| bip_39_word_new_line_2 | lake
 butter |  
-| bip_39_word_new_line3 | lake
+| bip_39_word_new_line_3 | lake
 butter
 hotel |  
-| bip_39_word_new_line4 | lake
+| bip_39_word_new_line_4 | lake
 butter
 hotel
 broken |  
-| bip_39_word_new_line5 | lake
+| bip_39_word_new_line_5 | lake
 butter
 hotel
 broken
 talent |  
-| bip_39_word_new_line6 | lake
+| bip_39_word_new_line_6 | lake
 butter
 hotel
 broken
 talent
 easy |  
-| bip_39_word_new_line7 | lake
+| bip_39_word_new_line_7 | lake
 butter
 hotel
 broken
 talent
 easy
 sample |  
-| bip_39_word_new_line8 | lake
+| bip_39_word_new_line_8 | lake
 butter
 hotel
 broken
@@ -113,7 +113,7 @@ talent
 easy
 sample
 buyer |  
-| bip_39_word_new_line9 | lake
+| bip_39_word_new_line_9 | lake
 butter
 hotel
 broken

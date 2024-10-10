@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | liberty |  
-| bip_39_word_new_br10 | liberty<br>drink<br>rose<br>swap<br>auto<br>chaos<br>spatial<br>jungle<br>deliver<br>deposit |  
-| bip_39_word_new_br11 | liberty<br>drink<br>rose<br>swap<br>auto<br>chaos<br>spatial<br>jungle<br>deliver<br>deposit<br>cluster |  
-| bip_39_word_new_br12 | liberty<br>drink<br>rose<br>swap<br>auto<br>chaos<br>spatial<br>jungle<br>deliver<br>deposit<br>cluster<br>addict |  
-| bip_39_word_new_br2 | liberty<br>drink |  
-| bip_39_word_new_br3 | liberty<br>drink<br>rose |  
-| bip_39_word_new_br4 | liberty<br>drink<br>rose<br>swap |  
-| bip_39_word_new_br5 | liberty<br>drink<br>rose<br>swap<br>auto |  
-| bip_39_word_new_br6 | liberty<br>drink<br>rose<br>swap<br>auto<br>chaos |  
-| bip_39_word_new_br7 | liberty<br>drink<br>rose<br>swap<br>auto<br>chaos<br>spatial |  
-| bip_39_word_new_br8 | liberty<br>drink<br>rose<br>swap<br>auto<br>chaos<br>spatial<br>jungle |  
-| bip_39_word_new_br9 | liberty<br>drink<br>rose<br>swap<br>auto<br>chaos<br>spatial<br>jungle<br>deliver |  
-| bip_39_word_new_line1 | liberty |  
-| bip_39_word_new_line10 | liberty
+| bip_39_word_new_br_1 | liberty |  
+| bip_39_word_new_br_10 | liberty<br>drink<br>rose<br>swap<br>auto<br>chaos<br>spatial<br>jungle<br>deliver<br>deposit |  
+| bip_39_word_new_br_11 | liberty<br>drink<br>rose<br>swap<br>auto<br>chaos<br>spatial<br>jungle<br>deliver<br>deposit<br>cluster |  
+| bip_39_word_new_br_12 | liberty<br>drink<br>rose<br>swap<br>auto<br>chaos<br>spatial<br>jungle<br>deliver<br>deposit<br>cluster<br>addict |  
+| bip_39_word_new_br_2 | liberty<br>drink |  
+| bip_39_word_new_br_3 | liberty<br>drink<br>rose |  
+| bip_39_word_new_br_4 | liberty<br>drink<br>rose<br>swap |  
+| bip_39_word_new_br_5 | liberty<br>drink<br>rose<br>swap<br>auto |  
+| bip_39_word_new_br_6 | liberty<br>drink<br>rose<br>swap<br>auto<br>chaos |  
+| bip_39_word_new_br_7 | liberty<br>drink<br>rose<br>swap<br>auto<br>chaos<br>spatial |  
+| bip_39_word_new_br_8 | liberty<br>drink<br>rose<br>swap<br>auto<br>chaos<br>spatial<br>jungle |  
+| bip_39_word_new_br_9 | liberty<br>drink<br>rose<br>swap<br>auto<br>chaos<br>spatial<br>jungle<br>deliver |  
+| bip_39_word_new_line_1 | liberty |  
+| bip_39_word_new_line_10 | liberty
 drink
 rose
 swap
@@ -55,7 +55,7 @@ spatial
 jungle
 deliver
 deposit |  
-| bip_39_word_new_line11 | liberty
+| bip_39_word_new_line_11 | liberty
 drink
 rose
 swap
@@ -66,7 +66,7 @@ jungle
 deliver
 deposit
 cluster |  
-| bip_39_word_new_line12 | liberty
+| bip_39_word_new_line_12 | liberty
 drink
 rose
 swap
@@ -78,34 +78,34 @@ deliver
 deposit
 cluster
 addict |  
-| bip_39_word_new_line2 | liberty
+| bip_39_word_new_line_2 | liberty
 drink |  
-| bip_39_word_new_line3 | liberty
+| bip_39_word_new_line_3 | liberty
 drink
 rose |  
-| bip_39_word_new_line4 | liberty
+| bip_39_word_new_line_4 | liberty
 drink
 rose
 swap |  
-| bip_39_word_new_line5 | liberty
+| bip_39_word_new_line_5 | liberty
 drink
 rose
 swap
 auto |  
-| bip_39_word_new_line6 | liberty
+| bip_39_word_new_line_6 | liberty
 drink
 rose
 swap
 auto
 chaos |  
-| bip_39_word_new_line7 | liberty
+| bip_39_word_new_line_7 | liberty
 drink
 rose
 swap
 auto
 chaos
 spatial |  
-| bip_39_word_new_line8 | liberty
+| bip_39_word_new_line_8 | liberty
 drink
 rose
 swap
@@ -113,7 +113,7 @@ auto
 chaos
 spatial
 jungle |  
-| bip_39_word_new_line9 | liberty
+| bip_39_word_new_line_9 | liberty
 drink
 rose
 swap

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hard |  
-| bip_39_word_new_br10 | hard<br>rural<br>guard<br>girl<br>boss<br>demise<br>joy<br>improve<br>expand<br>name |  
-| bip_39_word_new_br11 | hard<br>rural<br>guard<br>girl<br>boss<br>demise<br>joy<br>improve<br>expand<br>name<br>eager |  
-| bip_39_word_new_br12 | hard<br>rural<br>guard<br>girl<br>boss<br>demise<br>joy<br>improve<br>expand<br>name<br>eager<br>any |  
-| bip_39_word_new_br2 | hard<br>rural |  
-| bip_39_word_new_br3 | hard<br>rural<br>guard |  
-| bip_39_word_new_br4 | hard<br>rural<br>guard<br>girl |  
-| bip_39_word_new_br5 | hard<br>rural<br>guard<br>girl<br>boss |  
-| bip_39_word_new_br6 | hard<br>rural<br>guard<br>girl<br>boss<br>demise |  
-| bip_39_word_new_br7 | hard<br>rural<br>guard<br>girl<br>boss<br>demise<br>joy |  
-| bip_39_word_new_br8 | hard<br>rural<br>guard<br>girl<br>boss<br>demise<br>joy<br>improve |  
-| bip_39_word_new_br9 | hard<br>rural<br>guard<br>girl<br>boss<br>demise<br>joy<br>improve<br>expand |  
-| bip_39_word_new_line1 | hard |  
-| bip_39_word_new_line10 | hard
+| bip_39_word_new_br_1 | hard |  
+| bip_39_word_new_br_10 | hard<br>rural<br>guard<br>girl<br>boss<br>demise<br>joy<br>improve<br>expand<br>name |  
+| bip_39_word_new_br_11 | hard<br>rural<br>guard<br>girl<br>boss<br>demise<br>joy<br>improve<br>expand<br>name<br>eager |  
+| bip_39_word_new_br_12 | hard<br>rural<br>guard<br>girl<br>boss<br>demise<br>joy<br>improve<br>expand<br>name<br>eager<br>any |  
+| bip_39_word_new_br_2 | hard<br>rural |  
+| bip_39_word_new_br_3 | hard<br>rural<br>guard |  
+| bip_39_word_new_br_4 | hard<br>rural<br>guard<br>girl |  
+| bip_39_word_new_br_5 | hard<br>rural<br>guard<br>girl<br>boss |  
+| bip_39_word_new_br_6 | hard<br>rural<br>guard<br>girl<br>boss<br>demise |  
+| bip_39_word_new_br_7 | hard<br>rural<br>guard<br>girl<br>boss<br>demise<br>joy |  
+| bip_39_word_new_br_8 | hard<br>rural<br>guard<br>girl<br>boss<br>demise<br>joy<br>improve |  
+| bip_39_word_new_br_9 | hard<br>rural<br>guard<br>girl<br>boss<br>demise<br>joy<br>improve<br>expand |  
+| bip_39_word_new_line_1 | hard |  
+| bip_39_word_new_line_10 | hard
 rural
 guard
 girl
@@ -55,7 +55,7 @@ joy
 improve
 expand
 name |  
-| bip_39_word_new_line11 | hard
+| bip_39_word_new_line_11 | hard
 rural
 guard
 girl
@@ -66,7 +66,7 @@ improve
 expand
 name
 eager |  
-| bip_39_word_new_line12 | hard
+| bip_39_word_new_line_12 | hard
 rural
 guard
 girl
@@ -78,34 +78,34 @@ expand
 name
 eager
 any |  
-| bip_39_word_new_line2 | hard
+| bip_39_word_new_line_2 | hard
 rural |  
-| bip_39_word_new_line3 | hard
+| bip_39_word_new_line_3 | hard
 rural
 guard |  
-| bip_39_word_new_line4 | hard
+| bip_39_word_new_line_4 | hard
 rural
 guard
 girl |  
-| bip_39_word_new_line5 | hard
+| bip_39_word_new_line_5 | hard
 rural
 guard
 girl
 boss |  
-| bip_39_word_new_line6 | hard
+| bip_39_word_new_line_6 | hard
 rural
 guard
 girl
 boss
 demise |  
-| bip_39_word_new_line7 | hard
+| bip_39_word_new_line_7 | hard
 rural
 guard
 girl
 boss
 demise
 joy |  
-| bip_39_word_new_line8 | hard
+| bip_39_word_new_line_8 | hard
 rural
 guard
 girl
@@ -113,7 +113,7 @@ boss
 demise
 joy
 improve |  
-| bip_39_word_new_line9 | hard
+| bip_39_word_new_line_9 | hard
 rural
 guard
 girl

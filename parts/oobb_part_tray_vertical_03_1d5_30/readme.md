@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | original |  
-| bip_39_word_new_br10 | original<br>yard<br>dumb<br>aerobic<br>under<br>room<br>south<br>blush<br>false<br>gorilla |  
-| bip_39_word_new_br11 | original<br>yard<br>dumb<br>aerobic<br>under<br>room<br>south<br>blush<br>false<br>gorilla<br>peace |  
-| bip_39_word_new_br12 | original<br>yard<br>dumb<br>aerobic<br>under<br>room<br>south<br>blush<br>false<br>gorilla<br>peace<br>alter |  
-| bip_39_word_new_br2 | original<br>yard |  
-| bip_39_word_new_br3 | original<br>yard<br>dumb |  
-| bip_39_word_new_br4 | original<br>yard<br>dumb<br>aerobic |  
-| bip_39_word_new_br5 | original<br>yard<br>dumb<br>aerobic<br>under |  
-| bip_39_word_new_br6 | original<br>yard<br>dumb<br>aerobic<br>under<br>room |  
-| bip_39_word_new_br7 | original<br>yard<br>dumb<br>aerobic<br>under<br>room<br>south |  
-| bip_39_word_new_br8 | original<br>yard<br>dumb<br>aerobic<br>under<br>room<br>south<br>blush |  
-| bip_39_word_new_br9 | original<br>yard<br>dumb<br>aerobic<br>under<br>room<br>south<br>blush<br>false |  
-| bip_39_word_new_line1 | original |  
-| bip_39_word_new_line10 | original
+| bip_39_word_new_br_1 | original |  
+| bip_39_word_new_br_10 | original<br>yard<br>dumb<br>aerobic<br>under<br>room<br>south<br>blush<br>false<br>gorilla |  
+| bip_39_word_new_br_11 | original<br>yard<br>dumb<br>aerobic<br>under<br>room<br>south<br>blush<br>false<br>gorilla<br>peace |  
+| bip_39_word_new_br_12 | original<br>yard<br>dumb<br>aerobic<br>under<br>room<br>south<br>blush<br>false<br>gorilla<br>peace<br>alter |  
+| bip_39_word_new_br_2 | original<br>yard |  
+| bip_39_word_new_br_3 | original<br>yard<br>dumb |  
+| bip_39_word_new_br_4 | original<br>yard<br>dumb<br>aerobic |  
+| bip_39_word_new_br_5 | original<br>yard<br>dumb<br>aerobic<br>under |  
+| bip_39_word_new_br_6 | original<br>yard<br>dumb<br>aerobic<br>under<br>room |  
+| bip_39_word_new_br_7 | original<br>yard<br>dumb<br>aerobic<br>under<br>room<br>south |  
+| bip_39_word_new_br_8 | original<br>yard<br>dumb<br>aerobic<br>under<br>room<br>south<br>blush |  
+| bip_39_word_new_br_9 | original<br>yard<br>dumb<br>aerobic<br>under<br>room<br>south<br>blush<br>false |  
+| bip_39_word_new_line_1 | original |  
+| bip_39_word_new_line_10 | original
 yard
 dumb
 aerobic
@@ -55,7 +55,7 @@ south
 blush
 false
 gorilla |  
-| bip_39_word_new_line11 | original
+| bip_39_word_new_line_11 | original
 yard
 dumb
 aerobic
@@ -66,7 +66,7 @@ blush
 false
 gorilla
 peace |  
-| bip_39_word_new_line12 | original
+| bip_39_word_new_line_12 | original
 yard
 dumb
 aerobic
@@ -78,34 +78,34 @@ false
 gorilla
 peace
 alter |  
-| bip_39_word_new_line2 | original
+| bip_39_word_new_line_2 | original
 yard |  
-| bip_39_word_new_line3 | original
+| bip_39_word_new_line_3 | original
 yard
 dumb |  
-| bip_39_word_new_line4 | original
+| bip_39_word_new_line_4 | original
 yard
 dumb
 aerobic |  
-| bip_39_word_new_line5 | original
+| bip_39_word_new_line_5 | original
 yard
 dumb
 aerobic
 under |  
-| bip_39_word_new_line6 | original
+| bip_39_word_new_line_6 | original
 yard
 dumb
 aerobic
 under
 room |  
-| bip_39_word_new_line7 | original
+| bip_39_word_new_line_7 | original
 yard
 dumb
 aerobic
 under
 room
 south |  
-| bip_39_word_new_line8 | original
+| bip_39_word_new_line_8 | original
 yard
 dumb
 aerobic
@@ -113,7 +113,7 @@ under
 room
 south
 blush |  
-| bip_39_word_new_line9 | original
+| bip_39_word_new_line_9 | original
 yard
 dumb
 aerobic

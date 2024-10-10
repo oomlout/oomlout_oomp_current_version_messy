@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cute |  
-| bip_39_word_new_br10 | cute<br>blast<br>stable<br>burst<br>cage<br>decline<br>excuse<br>security<br>crunch<br>guess |  
-| bip_39_word_new_br11 | cute<br>blast<br>stable<br>burst<br>cage<br>decline<br>excuse<br>security<br>crunch<br>guess<br>universe |  
-| bip_39_word_new_br12 | cute<br>blast<br>stable<br>burst<br>cage<br>decline<br>excuse<br>security<br>crunch<br>guess<br>universe<br>auto |  
-| bip_39_word_new_br2 | cute<br>blast |  
-| bip_39_word_new_br3 | cute<br>blast<br>stable |  
-| bip_39_word_new_br4 | cute<br>blast<br>stable<br>burst |  
-| bip_39_word_new_br5 | cute<br>blast<br>stable<br>burst<br>cage |  
-| bip_39_word_new_br6 | cute<br>blast<br>stable<br>burst<br>cage<br>decline |  
-| bip_39_word_new_br7 | cute<br>blast<br>stable<br>burst<br>cage<br>decline<br>excuse |  
-| bip_39_word_new_br8 | cute<br>blast<br>stable<br>burst<br>cage<br>decline<br>excuse<br>security |  
-| bip_39_word_new_br9 | cute<br>blast<br>stable<br>burst<br>cage<br>decline<br>excuse<br>security<br>crunch |  
-| bip_39_word_new_line1 | cute |  
-| bip_39_word_new_line10 | cute
+| bip_39_word_new_br_1 | cute |  
+| bip_39_word_new_br_10 | cute<br>blast<br>stable<br>burst<br>cage<br>decline<br>excuse<br>security<br>crunch<br>guess |  
+| bip_39_word_new_br_11 | cute<br>blast<br>stable<br>burst<br>cage<br>decline<br>excuse<br>security<br>crunch<br>guess<br>universe |  
+| bip_39_word_new_br_12 | cute<br>blast<br>stable<br>burst<br>cage<br>decline<br>excuse<br>security<br>crunch<br>guess<br>universe<br>auto |  
+| bip_39_word_new_br_2 | cute<br>blast |  
+| bip_39_word_new_br_3 | cute<br>blast<br>stable |  
+| bip_39_word_new_br_4 | cute<br>blast<br>stable<br>burst |  
+| bip_39_word_new_br_5 | cute<br>blast<br>stable<br>burst<br>cage |  
+| bip_39_word_new_br_6 | cute<br>blast<br>stable<br>burst<br>cage<br>decline |  
+| bip_39_word_new_br_7 | cute<br>blast<br>stable<br>burst<br>cage<br>decline<br>excuse |  
+| bip_39_word_new_br_8 | cute<br>blast<br>stable<br>burst<br>cage<br>decline<br>excuse<br>security |  
+| bip_39_word_new_br_9 | cute<br>blast<br>stable<br>burst<br>cage<br>decline<br>excuse<br>security<br>crunch |  
+| bip_39_word_new_line_1 | cute |  
+| bip_39_word_new_line_10 | cute
 blast
 stable
 burst
@@ -55,7 +55,7 @@ excuse
 security
 crunch
 guess |  
-| bip_39_word_new_line11 | cute
+| bip_39_word_new_line_11 | cute
 blast
 stable
 burst
@@ -66,7 +66,7 @@ security
 crunch
 guess
 universe |  
-| bip_39_word_new_line12 | cute
+| bip_39_word_new_line_12 | cute
 blast
 stable
 burst
@@ -78,34 +78,34 @@ crunch
 guess
 universe
 auto |  
-| bip_39_word_new_line2 | cute
+| bip_39_word_new_line_2 | cute
 blast |  
-| bip_39_word_new_line3 | cute
+| bip_39_word_new_line_3 | cute
 blast
 stable |  
-| bip_39_word_new_line4 | cute
+| bip_39_word_new_line_4 | cute
 blast
 stable
 burst |  
-| bip_39_word_new_line5 | cute
+| bip_39_word_new_line_5 | cute
 blast
 stable
 burst
 cage |  
-| bip_39_word_new_line6 | cute
+| bip_39_word_new_line_6 | cute
 blast
 stable
 burst
 cage
 decline |  
-| bip_39_word_new_line7 | cute
+| bip_39_word_new_line_7 | cute
 blast
 stable
 burst
 cage
 decline
 excuse |  
-| bip_39_word_new_line8 | cute
+| bip_39_word_new_line_8 | cute
 blast
 stable
 burst
@@ -113,7 +113,7 @@ cage
 decline
 excuse
 security |  
-| bip_39_word_new_line9 | cute
+| bip_39_word_new_line_9 | cute
 blast
 stable
 burst

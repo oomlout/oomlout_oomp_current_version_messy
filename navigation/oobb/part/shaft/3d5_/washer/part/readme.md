@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | scan |  
-| bip_39_word_new_br10 | scan<br>move<br>swift<br>satoshi<br>install<br>estate<br>clever<br>suffer<br>parent<br>harbor |  
-| bip_39_word_new_br11 | scan<br>move<br>swift<br>satoshi<br>install<br>estate<br>clever<br>suffer<br>parent<br>harbor<br>whale |  
-| bip_39_word_new_br12 | scan<br>move<br>swift<br>satoshi<br>install<br>estate<br>clever<br>suffer<br>parent<br>harbor<br>whale<br>ankle |  
-| bip_39_word_new_br2 | scan<br>move |  
-| bip_39_word_new_br3 | scan<br>move<br>swift |  
-| bip_39_word_new_br4 | scan<br>move<br>swift<br>satoshi |  
-| bip_39_word_new_br5 | scan<br>move<br>swift<br>satoshi<br>install |  
-| bip_39_word_new_br6 | scan<br>move<br>swift<br>satoshi<br>install<br>estate |  
-| bip_39_word_new_br7 | scan<br>move<br>swift<br>satoshi<br>install<br>estate<br>clever |  
-| bip_39_word_new_br8 | scan<br>move<br>swift<br>satoshi<br>install<br>estate<br>clever<br>suffer |  
-| bip_39_word_new_br9 | scan<br>move<br>swift<br>satoshi<br>install<br>estate<br>clever<br>suffer<br>parent |  
-| bip_39_word_new_line1 | scan |  
-| bip_39_word_new_line10 | scan
+| bip_39_word_new_br_1 | scan |  
+| bip_39_word_new_br_10 | scan<br>move<br>swift<br>satoshi<br>install<br>estate<br>clever<br>suffer<br>parent<br>harbor |  
+| bip_39_word_new_br_11 | scan<br>move<br>swift<br>satoshi<br>install<br>estate<br>clever<br>suffer<br>parent<br>harbor<br>whale |  
+| bip_39_word_new_br_12 | scan<br>move<br>swift<br>satoshi<br>install<br>estate<br>clever<br>suffer<br>parent<br>harbor<br>whale<br>ankle |  
+| bip_39_word_new_br_2 | scan<br>move |  
+| bip_39_word_new_br_3 | scan<br>move<br>swift |  
+| bip_39_word_new_br_4 | scan<br>move<br>swift<br>satoshi |  
+| bip_39_word_new_br_5 | scan<br>move<br>swift<br>satoshi<br>install |  
+| bip_39_word_new_br_6 | scan<br>move<br>swift<br>satoshi<br>install<br>estate |  
+| bip_39_word_new_br_7 | scan<br>move<br>swift<br>satoshi<br>install<br>estate<br>clever |  
+| bip_39_word_new_br_8 | scan<br>move<br>swift<br>satoshi<br>install<br>estate<br>clever<br>suffer |  
+| bip_39_word_new_br_9 | scan<br>move<br>swift<br>satoshi<br>install<br>estate<br>clever<br>suffer<br>parent |  
+| bip_39_word_new_line_1 | scan |  
+| bip_39_word_new_line_10 | scan
 move
 swift
 satoshi
@@ -55,7 +55,7 @@ clever
 suffer
 parent
 harbor |  
-| bip_39_word_new_line11 | scan
+| bip_39_word_new_line_11 | scan
 move
 swift
 satoshi
@@ -66,7 +66,7 @@ suffer
 parent
 harbor
 whale |  
-| bip_39_word_new_line12 | scan
+| bip_39_word_new_line_12 | scan
 move
 swift
 satoshi
@@ -78,34 +78,34 @@ parent
 harbor
 whale
 ankle |  
-| bip_39_word_new_line2 | scan
+| bip_39_word_new_line_2 | scan
 move |  
-| bip_39_word_new_line3 | scan
+| bip_39_word_new_line_3 | scan
 move
 swift |  
-| bip_39_word_new_line4 | scan
+| bip_39_word_new_line_4 | scan
 move
 swift
 satoshi |  
-| bip_39_word_new_line5 | scan
+| bip_39_word_new_line_5 | scan
 move
 swift
 satoshi
 install |  
-| bip_39_word_new_line6 | scan
+| bip_39_word_new_line_6 | scan
 move
 swift
 satoshi
 install
 estate |  
-| bip_39_word_new_line7 | scan
+| bip_39_word_new_line_7 | scan
 move
 swift
 satoshi
 install
 estate
 clever |  
-| bip_39_word_new_line8 | scan
+| bip_39_word_new_line_8 | scan
 move
 swift
 satoshi
@@ -113,7 +113,7 @@ install
 estate
 clever
 suffer |  
-| bip_39_word_new_line9 | scan
+| bip_39_word_new_line_9 | scan
 move
 swift
 satoshi

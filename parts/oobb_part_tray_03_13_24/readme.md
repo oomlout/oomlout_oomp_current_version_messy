@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | day |  
-| bip_39_word_new_br10 | day<br>mountain<br>hero<br>wealth<br>benefit<br>clump<br>check<br>burst<br>feature<br>shoulder |  
-| bip_39_word_new_br11 | day<br>mountain<br>hero<br>wealth<br>benefit<br>clump<br>check<br>burst<br>feature<br>shoulder<br>other |  
-| bip_39_word_new_br2 | day<br>mountain |  
-| bip_39_word_new_br3 | day<br>mountain<br>hero |  
-| bip_39_word_new_br4 | day<br>mountain<br>hero<br>wealth |  
-| bip_39_word_new_br5 | day<br>mountain<br>hero<br>wealth<br>benefit |  
-| bip_39_word_new_br6 | day<br>mountain<br>hero<br>wealth<br>benefit<br>clump |  
-| bip_39_word_new_br7 | day<br>mountain<br>hero<br>wealth<br>benefit<br>clump<br>check |  
-| bip_39_word_new_br8 | day<br>mountain<br>hero<br>wealth<br>benefit<br>clump<br>check<br>burst |  
-| bip_39_word_new_br9 | day<br>mountain<br>hero<br>wealth<br>benefit<br>clump<br>check<br>burst<br>feature |  
-| bip_39_word_new_line1 | day |  
-| bip_39_word_new_line10 | day
+| bip_39_word_new_br_1 | day |  
+| bip_39_word_new_br_10 | day<br>mountain<br>hero<br>wealth<br>benefit<br>clump<br>check<br>burst<br>feature<br>shoulder |  
+| bip_39_word_new_br_11 | day<br>mountain<br>hero<br>wealth<br>benefit<br>clump<br>check<br>burst<br>feature<br>shoulder<br>other |  
+| bip_39_word_new_br_2 | day<br>mountain |  
+| bip_39_word_new_br_3 | day<br>mountain<br>hero |  
+| bip_39_word_new_br_4 | day<br>mountain<br>hero<br>wealth |  
+| bip_39_word_new_br_5 | day<br>mountain<br>hero<br>wealth<br>benefit |  
+| bip_39_word_new_br_6 | day<br>mountain<br>hero<br>wealth<br>benefit<br>clump |  
+| bip_39_word_new_br_7 | day<br>mountain<br>hero<br>wealth<br>benefit<br>clump<br>check |  
+| bip_39_word_new_br_8 | day<br>mountain<br>hero<br>wealth<br>benefit<br>clump<br>check<br>burst |  
+| bip_39_word_new_br_9 | day<br>mountain<br>hero<br>wealth<br>benefit<br>clump<br>check<br>burst<br>feature |  
+| bip_39_word_new_line_1 | day |  
+| bip_39_word_new_line_10 | day
 mountain
 hero
 wealth
@@ -54,7 +54,7 @@ check
 burst
 feature
 shoulder |  
-| bip_39_word_new_line11 | day
+| bip_39_word_new_line_11 | day
 mountain
 hero
 wealth
@@ -65,34 +65,34 @@ burst
 feature
 shoulder
 other |  
-| bip_39_word_new_line2 | day
+| bip_39_word_new_line_2 | day
 mountain |  
-| bip_39_word_new_line3 | day
+| bip_39_word_new_line_3 | day
 mountain
 hero |  
-| bip_39_word_new_line4 | day
+| bip_39_word_new_line_4 | day
 mountain
 hero
 wealth |  
-| bip_39_word_new_line5 | day
+| bip_39_word_new_line_5 | day
 mountain
 hero
 wealth
 benefit |  
-| bip_39_word_new_line6 | day
+| bip_39_word_new_line_6 | day
 mountain
 hero
 wealth
 benefit
 clump |  
-| bip_39_word_new_line7 | day
+| bip_39_word_new_line_7 | day
 mountain
 hero
 wealth
 benefit
 clump
 check |  
-| bip_39_word_new_line8 | day
+| bip_39_word_new_line_8 | day
 mountain
 hero
 wealth
@@ -100,7 +100,7 @@ benefit
 clump
 check
 burst |  
-| bip_39_word_new_line9 | day
+| bip_39_word_new_line_9 | day
 mountain
 hero
 wealth

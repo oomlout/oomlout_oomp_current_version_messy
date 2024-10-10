@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | roof |  
-| bip_39_word_new_br10 | roof<br>light<br>silent<br>melt<br>awful<br>pilot<br>catch<br>relax<br>valid<br>travel |  
-| bip_39_word_new_br11 | roof<br>light<br>silent<br>melt<br>awful<br>pilot<br>catch<br>relax<br>valid<br>travel<br>ginger |  
-| bip_39_word_new_br12 | roof<br>light<br>silent<br>melt<br>awful<br>pilot<br>catch<br>relax<br>valid<br>travel<br>ginger<br>anxiety |  
-| bip_39_word_new_br2 | roof<br>light |  
-| bip_39_word_new_br3 | roof<br>light<br>silent |  
-| bip_39_word_new_br4 | roof<br>light<br>silent<br>melt |  
-| bip_39_word_new_br5 | roof<br>light<br>silent<br>melt<br>awful |  
-| bip_39_word_new_br6 | roof<br>light<br>silent<br>melt<br>awful<br>pilot |  
-| bip_39_word_new_br7 | roof<br>light<br>silent<br>melt<br>awful<br>pilot<br>catch |  
-| bip_39_word_new_br8 | roof<br>light<br>silent<br>melt<br>awful<br>pilot<br>catch<br>relax |  
-| bip_39_word_new_br9 | roof<br>light<br>silent<br>melt<br>awful<br>pilot<br>catch<br>relax<br>valid |  
-| bip_39_word_new_line1 | roof |  
-| bip_39_word_new_line10 | roof
+| bip_39_word_new_br_1 | roof |  
+| bip_39_word_new_br_10 | roof<br>light<br>silent<br>melt<br>awful<br>pilot<br>catch<br>relax<br>valid<br>travel |  
+| bip_39_word_new_br_11 | roof<br>light<br>silent<br>melt<br>awful<br>pilot<br>catch<br>relax<br>valid<br>travel<br>ginger |  
+| bip_39_word_new_br_12 | roof<br>light<br>silent<br>melt<br>awful<br>pilot<br>catch<br>relax<br>valid<br>travel<br>ginger<br>anxiety |  
+| bip_39_word_new_br_2 | roof<br>light |  
+| bip_39_word_new_br_3 | roof<br>light<br>silent |  
+| bip_39_word_new_br_4 | roof<br>light<br>silent<br>melt |  
+| bip_39_word_new_br_5 | roof<br>light<br>silent<br>melt<br>awful |  
+| bip_39_word_new_br_6 | roof<br>light<br>silent<br>melt<br>awful<br>pilot |  
+| bip_39_word_new_br_7 | roof<br>light<br>silent<br>melt<br>awful<br>pilot<br>catch |  
+| bip_39_word_new_br_8 | roof<br>light<br>silent<br>melt<br>awful<br>pilot<br>catch<br>relax |  
+| bip_39_word_new_br_9 | roof<br>light<br>silent<br>melt<br>awful<br>pilot<br>catch<br>relax<br>valid |  
+| bip_39_word_new_line_1 | roof |  
+| bip_39_word_new_line_10 | roof
 light
 silent
 melt
@@ -55,7 +55,7 @@ catch
 relax
 valid
 travel |  
-| bip_39_word_new_line11 | roof
+| bip_39_word_new_line_11 | roof
 light
 silent
 melt
@@ -66,7 +66,7 @@ relax
 valid
 travel
 ginger |  
-| bip_39_word_new_line12 | roof
+| bip_39_word_new_line_12 | roof
 light
 silent
 melt
@@ -78,34 +78,34 @@ valid
 travel
 ginger
 anxiety |  
-| bip_39_word_new_line2 | roof
+| bip_39_word_new_line_2 | roof
 light |  
-| bip_39_word_new_line3 | roof
+| bip_39_word_new_line_3 | roof
 light
 silent |  
-| bip_39_word_new_line4 | roof
+| bip_39_word_new_line_4 | roof
 light
 silent
 melt |  
-| bip_39_word_new_line5 | roof
+| bip_39_word_new_line_5 | roof
 light
 silent
 melt
 awful |  
-| bip_39_word_new_line6 | roof
+| bip_39_word_new_line_6 | roof
 light
 silent
 melt
 awful
 pilot |  
-| bip_39_word_new_line7 | roof
+| bip_39_word_new_line_7 | roof
 light
 silent
 melt
 awful
 pilot
 catch |  
-| bip_39_word_new_line8 | roof
+| bip_39_word_new_line_8 | roof
 light
 silent
 melt
@@ -113,7 +113,7 @@ awful
 pilot
 catch
 relax |  
-| bip_39_word_new_line9 | roof
+| bip_39_word_new_line_9 | roof
 light
 silent
 melt

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | segment |  
-| bip_39_word_new_br10 | segment<br>wrist<br>urban<br>grid<br>profit<br>execute<br>little<br>economy<br>small<br>jealous |  
-| bip_39_word_new_br11 | segment<br>wrist<br>urban<br>grid<br>profit<br>execute<br>little<br>economy<br>small<br>jealous<br>grit |  
-| bip_39_word_new_br12 | segment<br>wrist<br>urban<br>grid<br>profit<br>execute<br>little<br>economy<br>small<br>jealous<br>grit<br>another |  
-| bip_39_word_new_br2 | segment<br>wrist |  
-| bip_39_word_new_br3 | segment<br>wrist<br>urban |  
-| bip_39_word_new_br4 | segment<br>wrist<br>urban<br>grid |  
-| bip_39_word_new_br5 | segment<br>wrist<br>urban<br>grid<br>profit |  
-| bip_39_word_new_br6 | segment<br>wrist<br>urban<br>grid<br>profit<br>execute |  
-| bip_39_word_new_br7 | segment<br>wrist<br>urban<br>grid<br>profit<br>execute<br>little |  
-| bip_39_word_new_br8 | segment<br>wrist<br>urban<br>grid<br>profit<br>execute<br>little<br>economy |  
-| bip_39_word_new_br9 | segment<br>wrist<br>urban<br>grid<br>profit<br>execute<br>little<br>economy<br>small |  
-| bip_39_word_new_line1 | segment |  
-| bip_39_word_new_line10 | segment
+| bip_39_word_new_br_1 | segment |  
+| bip_39_word_new_br_10 | segment<br>wrist<br>urban<br>grid<br>profit<br>execute<br>little<br>economy<br>small<br>jealous |  
+| bip_39_word_new_br_11 | segment<br>wrist<br>urban<br>grid<br>profit<br>execute<br>little<br>economy<br>small<br>jealous<br>grit |  
+| bip_39_word_new_br_12 | segment<br>wrist<br>urban<br>grid<br>profit<br>execute<br>little<br>economy<br>small<br>jealous<br>grit<br>another |  
+| bip_39_word_new_br_2 | segment<br>wrist |  
+| bip_39_word_new_br_3 | segment<br>wrist<br>urban |  
+| bip_39_word_new_br_4 | segment<br>wrist<br>urban<br>grid |  
+| bip_39_word_new_br_5 | segment<br>wrist<br>urban<br>grid<br>profit |  
+| bip_39_word_new_br_6 | segment<br>wrist<br>urban<br>grid<br>profit<br>execute |  
+| bip_39_word_new_br_7 | segment<br>wrist<br>urban<br>grid<br>profit<br>execute<br>little |  
+| bip_39_word_new_br_8 | segment<br>wrist<br>urban<br>grid<br>profit<br>execute<br>little<br>economy |  
+| bip_39_word_new_br_9 | segment<br>wrist<br>urban<br>grid<br>profit<br>execute<br>little<br>economy<br>small |  
+| bip_39_word_new_line_1 | segment |  
+| bip_39_word_new_line_10 | segment
 wrist
 urban
 grid
@@ -55,7 +55,7 @@ little
 economy
 small
 jealous |  
-| bip_39_word_new_line11 | segment
+| bip_39_word_new_line_11 | segment
 wrist
 urban
 grid
@@ -66,7 +66,7 @@ economy
 small
 jealous
 grit |  
-| bip_39_word_new_line12 | segment
+| bip_39_word_new_line_12 | segment
 wrist
 urban
 grid
@@ -78,34 +78,34 @@ small
 jealous
 grit
 another |  
-| bip_39_word_new_line2 | segment
+| bip_39_word_new_line_2 | segment
 wrist |  
-| bip_39_word_new_line3 | segment
+| bip_39_word_new_line_3 | segment
 wrist
 urban |  
-| bip_39_word_new_line4 | segment
+| bip_39_word_new_line_4 | segment
 wrist
 urban
 grid |  
-| bip_39_word_new_line5 | segment
+| bip_39_word_new_line_5 | segment
 wrist
 urban
 grid
 profit |  
-| bip_39_word_new_line6 | segment
+| bip_39_word_new_line_6 | segment
 wrist
 urban
 grid
 profit
 execute |  
-| bip_39_word_new_line7 | segment
+| bip_39_word_new_line_7 | segment
 wrist
 urban
 grid
 profit
 execute
 little |  
-| bip_39_word_new_line8 | segment
+| bip_39_word_new_line_8 | segment
 wrist
 urban
 grid
@@ -113,7 +113,7 @@ profit
 execute
 little
 economy |  
-| bip_39_word_new_line9 | segment
+| bip_39_word_new_line_9 | segment
 wrist
 urban
 grid

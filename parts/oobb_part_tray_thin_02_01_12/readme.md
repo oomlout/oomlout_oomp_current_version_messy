@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | stereo |  
-| bip_39_word_new_br10 | stereo<br>risk<br>spawn<br>lady<br>rival<br>isolate<br>luxury<br>hurt<br>typical<br>wage |  
-| bip_39_word_new_br11 | stereo<br>risk<br>spawn<br>lady<br>rival<br>isolate<br>luxury<br>hurt<br>typical<br>wage<br>opera |  
-| bip_39_word_new_br12 | stereo<br>risk<br>spawn<br>lady<br>rival<br>isolate<br>luxury<br>hurt<br>typical<br>wage<br>opera<br>another |  
-| bip_39_word_new_br2 | stereo<br>risk |  
-| bip_39_word_new_br3 | stereo<br>risk<br>spawn |  
-| bip_39_word_new_br4 | stereo<br>risk<br>spawn<br>lady |  
-| bip_39_word_new_br5 | stereo<br>risk<br>spawn<br>lady<br>rival |  
-| bip_39_word_new_br6 | stereo<br>risk<br>spawn<br>lady<br>rival<br>isolate |  
-| bip_39_word_new_br7 | stereo<br>risk<br>spawn<br>lady<br>rival<br>isolate<br>luxury |  
-| bip_39_word_new_br8 | stereo<br>risk<br>spawn<br>lady<br>rival<br>isolate<br>luxury<br>hurt |  
-| bip_39_word_new_br9 | stereo<br>risk<br>spawn<br>lady<br>rival<br>isolate<br>luxury<br>hurt<br>typical |  
-| bip_39_word_new_line1 | stereo |  
-| bip_39_word_new_line10 | stereo
+| bip_39_word_new_br_1 | stereo |  
+| bip_39_word_new_br_10 | stereo<br>risk<br>spawn<br>lady<br>rival<br>isolate<br>luxury<br>hurt<br>typical<br>wage |  
+| bip_39_word_new_br_11 | stereo<br>risk<br>spawn<br>lady<br>rival<br>isolate<br>luxury<br>hurt<br>typical<br>wage<br>opera |  
+| bip_39_word_new_br_12 | stereo<br>risk<br>spawn<br>lady<br>rival<br>isolate<br>luxury<br>hurt<br>typical<br>wage<br>opera<br>another |  
+| bip_39_word_new_br_2 | stereo<br>risk |  
+| bip_39_word_new_br_3 | stereo<br>risk<br>spawn |  
+| bip_39_word_new_br_4 | stereo<br>risk<br>spawn<br>lady |  
+| bip_39_word_new_br_5 | stereo<br>risk<br>spawn<br>lady<br>rival |  
+| bip_39_word_new_br_6 | stereo<br>risk<br>spawn<br>lady<br>rival<br>isolate |  
+| bip_39_word_new_br_7 | stereo<br>risk<br>spawn<br>lady<br>rival<br>isolate<br>luxury |  
+| bip_39_word_new_br_8 | stereo<br>risk<br>spawn<br>lady<br>rival<br>isolate<br>luxury<br>hurt |  
+| bip_39_word_new_br_9 | stereo<br>risk<br>spawn<br>lady<br>rival<br>isolate<br>luxury<br>hurt<br>typical |  
+| bip_39_word_new_line_1 | stereo |  
+| bip_39_word_new_line_10 | stereo
 risk
 spawn
 lady
@@ -55,7 +55,7 @@ luxury
 hurt
 typical
 wage |  
-| bip_39_word_new_line11 | stereo
+| bip_39_word_new_line_11 | stereo
 risk
 spawn
 lady
@@ -66,7 +66,7 @@ hurt
 typical
 wage
 opera |  
-| bip_39_word_new_line12 | stereo
+| bip_39_word_new_line_12 | stereo
 risk
 spawn
 lady
@@ -78,34 +78,34 @@ typical
 wage
 opera
 another |  
-| bip_39_word_new_line2 | stereo
+| bip_39_word_new_line_2 | stereo
 risk |  
-| bip_39_word_new_line3 | stereo
+| bip_39_word_new_line_3 | stereo
 risk
 spawn |  
-| bip_39_word_new_line4 | stereo
+| bip_39_word_new_line_4 | stereo
 risk
 spawn
 lady |  
-| bip_39_word_new_line5 | stereo
+| bip_39_word_new_line_5 | stereo
 risk
 spawn
 lady
 rival |  
-| bip_39_word_new_line6 | stereo
+| bip_39_word_new_line_6 | stereo
 risk
 spawn
 lady
 rival
 isolate |  
-| bip_39_word_new_line7 | stereo
+| bip_39_word_new_line_7 | stereo
 risk
 spawn
 lady
 rival
 isolate
 luxury |  
-| bip_39_word_new_line8 | stereo
+| bip_39_word_new_line_8 | stereo
 risk
 spawn
 lady
@@ -113,7 +113,7 @@ rival
 isolate
 luxury
 hurt |  
-| bip_39_word_new_line9 | stereo
+| bip_39_word_new_line_9 | stereo
 risk
 spawn
 lady

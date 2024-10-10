@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | use |  
-| bip_39_word_new_br10 | use<br>swamp<br>diesel<br>social<br>rent<br>lift<br>hood<br>add<br>vote<br>brave |  
-| bip_39_word_new_br11 | use<br>swamp<br>diesel<br>social<br>rent<br>lift<br>hood<br>add<br>vote<br>brave<br>split |  
-| bip_39_word_new_br12 | use<br>swamp<br>diesel<br>social<br>rent<br>lift<br>hood<br>add<br>vote<br>brave<br>split<br>attend |  
-| bip_39_word_new_br2 | use<br>swamp |  
-| bip_39_word_new_br3 | use<br>swamp<br>diesel |  
-| bip_39_word_new_br4 | use<br>swamp<br>diesel<br>social |  
-| bip_39_word_new_br5 | use<br>swamp<br>diesel<br>social<br>rent |  
-| bip_39_word_new_br6 | use<br>swamp<br>diesel<br>social<br>rent<br>lift |  
-| bip_39_word_new_br7 | use<br>swamp<br>diesel<br>social<br>rent<br>lift<br>hood |  
-| bip_39_word_new_br8 | use<br>swamp<br>diesel<br>social<br>rent<br>lift<br>hood<br>add |  
-| bip_39_word_new_br9 | use<br>swamp<br>diesel<br>social<br>rent<br>lift<br>hood<br>add<br>vote |  
-| bip_39_word_new_line1 | use |  
-| bip_39_word_new_line10 | use
+| bip_39_word_new_br_1 | use |  
+| bip_39_word_new_br_10 | use<br>swamp<br>diesel<br>social<br>rent<br>lift<br>hood<br>add<br>vote<br>brave |  
+| bip_39_word_new_br_11 | use<br>swamp<br>diesel<br>social<br>rent<br>lift<br>hood<br>add<br>vote<br>brave<br>split |  
+| bip_39_word_new_br_12 | use<br>swamp<br>diesel<br>social<br>rent<br>lift<br>hood<br>add<br>vote<br>brave<br>split<br>attend |  
+| bip_39_word_new_br_2 | use<br>swamp |  
+| bip_39_word_new_br_3 | use<br>swamp<br>diesel |  
+| bip_39_word_new_br_4 | use<br>swamp<br>diesel<br>social |  
+| bip_39_word_new_br_5 | use<br>swamp<br>diesel<br>social<br>rent |  
+| bip_39_word_new_br_6 | use<br>swamp<br>diesel<br>social<br>rent<br>lift |  
+| bip_39_word_new_br_7 | use<br>swamp<br>diesel<br>social<br>rent<br>lift<br>hood |  
+| bip_39_word_new_br_8 | use<br>swamp<br>diesel<br>social<br>rent<br>lift<br>hood<br>add |  
+| bip_39_word_new_br_9 | use<br>swamp<br>diesel<br>social<br>rent<br>lift<br>hood<br>add<br>vote |  
+| bip_39_word_new_line_1 | use |  
+| bip_39_word_new_line_10 | use
 swamp
 diesel
 social
@@ -55,7 +55,7 @@ hood
 add
 vote
 brave |  
-| bip_39_word_new_line11 | use
+| bip_39_word_new_line_11 | use
 swamp
 diesel
 social
@@ -66,7 +66,7 @@ add
 vote
 brave
 split |  
-| bip_39_word_new_line12 | use
+| bip_39_word_new_line_12 | use
 swamp
 diesel
 social
@@ -78,34 +78,34 @@ vote
 brave
 split
 attend |  
-| bip_39_word_new_line2 | use
+| bip_39_word_new_line_2 | use
 swamp |  
-| bip_39_word_new_line3 | use
+| bip_39_word_new_line_3 | use
 swamp
 diesel |  
-| bip_39_word_new_line4 | use
+| bip_39_word_new_line_4 | use
 swamp
 diesel
 social |  
-| bip_39_word_new_line5 | use
+| bip_39_word_new_line_5 | use
 swamp
 diesel
 social
 rent |  
-| bip_39_word_new_line6 | use
+| bip_39_word_new_line_6 | use
 swamp
 diesel
 social
 rent
 lift |  
-| bip_39_word_new_line7 | use
+| bip_39_word_new_line_7 | use
 swamp
 diesel
 social
 rent
 lift
 hood |  
-| bip_39_word_new_line8 | use
+| bip_39_word_new_line_8 | use
 swamp
 diesel
 social
@@ -113,7 +113,7 @@ rent
 lift
 hood
 add |  
-| bip_39_word_new_line9 | use
+| bip_39_word_new_line_9 | use
 swamp
 diesel
 social

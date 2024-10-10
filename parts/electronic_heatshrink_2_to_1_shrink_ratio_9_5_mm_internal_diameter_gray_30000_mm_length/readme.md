@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | spatial |  
-| bip_39_word_new_br10 | spatial<br>chaos<br>wish<br>solution<br>argue<br>debate<br>pumpkin<br>bone<br>act<br>pen |  
-| bip_39_word_new_br11 | spatial<br>chaos<br>wish<br>solution<br>argue<br>debate<br>pumpkin<br>bone<br>act<br>pen<br>force |  
-| bip_39_word_new_br12 | spatial<br>chaos<br>wish<br>solution<br>argue<br>debate<br>pumpkin<br>bone<br>act<br>pen<br>force<br>assume |  
-| bip_39_word_new_br2 | spatial<br>chaos |  
-| bip_39_word_new_br3 | spatial<br>chaos<br>wish |  
-| bip_39_word_new_br4 | spatial<br>chaos<br>wish<br>solution |  
-| bip_39_word_new_br5 | spatial<br>chaos<br>wish<br>solution<br>argue |  
-| bip_39_word_new_br6 | spatial<br>chaos<br>wish<br>solution<br>argue<br>debate |  
-| bip_39_word_new_br7 | spatial<br>chaos<br>wish<br>solution<br>argue<br>debate<br>pumpkin |  
-| bip_39_word_new_br8 | spatial<br>chaos<br>wish<br>solution<br>argue<br>debate<br>pumpkin<br>bone |  
-| bip_39_word_new_br9 | spatial<br>chaos<br>wish<br>solution<br>argue<br>debate<br>pumpkin<br>bone<br>act |  
-| bip_39_word_new_line1 | spatial |  
-| bip_39_word_new_line10 | spatial
+| bip_39_word_new_br_1 | spatial |  
+| bip_39_word_new_br_10 | spatial<br>chaos<br>wish<br>solution<br>argue<br>debate<br>pumpkin<br>bone<br>act<br>pen |  
+| bip_39_word_new_br_11 | spatial<br>chaos<br>wish<br>solution<br>argue<br>debate<br>pumpkin<br>bone<br>act<br>pen<br>force |  
+| bip_39_word_new_br_12 | spatial<br>chaos<br>wish<br>solution<br>argue<br>debate<br>pumpkin<br>bone<br>act<br>pen<br>force<br>assume |  
+| bip_39_word_new_br_2 | spatial<br>chaos |  
+| bip_39_word_new_br_3 | spatial<br>chaos<br>wish |  
+| bip_39_word_new_br_4 | spatial<br>chaos<br>wish<br>solution |  
+| bip_39_word_new_br_5 | spatial<br>chaos<br>wish<br>solution<br>argue |  
+| bip_39_word_new_br_6 | spatial<br>chaos<br>wish<br>solution<br>argue<br>debate |  
+| bip_39_word_new_br_7 | spatial<br>chaos<br>wish<br>solution<br>argue<br>debate<br>pumpkin |  
+| bip_39_word_new_br_8 | spatial<br>chaos<br>wish<br>solution<br>argue<br>debate<br>pumpkin<br>bone |  
+| bip_39_word_new_br_9 | spatial<br>chaos<br>wish<br>solution<br>argue<br>debate<br>pumpkin<br>bone<br>act |  
+| bip_39_word_new_line_1 | spatial |  
+| bip_39_word_new_line_10 | spatial
 chaos
 wish
 solution
@@ -55,7 +55,7 @@ pumpkin
 bone
 act
 pen |  
-| bip_39_word_new_line11 | spatial
+| bip_39_word_new_line_11 | spatial
 chaos
 wish
 solution
@@ -66,7 +66,7 @@ bone
 act
 pen
 force |  
-| bip_39_word_new_line12 | spatial
+| bip_39_word_new_line_12 | spatial
 chaos
 wish
 solution
@@ -78,34 +78,34 @@ act
 pen
 force
 assume |  
-| bip_39_word_new_line2 | spatial
+| bip_39_word_new_line_2 | spatial
 chaos |  
-| bip_39_word_new_line3 | spatial
+| bip_39_word_new_line_3 | spatial
 chaos
 wish |  
-| bip_39_word_new_line4 | spatial
+| bip_39_word_new_line_4 | spatial
 chaos
 wish
 solution |  
-| bip_39_word_new_line5 | spatial
+| bip_39_word_new_line_5 | spatial
 chaos
 wish
 solution
 argue |  
-| bip_39_word_new_line6 | spatial
+| bip_39_word_new_line_6 | spatial
 chaos
 wish
 solution
 argue
 debate |  
-| bip_39_word_new_line7 | spatial
+| bip_39_word_new_line_7 | spatial
 chaos
 wish
 solution
 argue
 debate
 pumpkin |  
-| bip_39_word_new_line8 | spatial
+| bip_39_word_new_line_8 | spatial
 chaos
 wish
 solution
@@ -113,7 +113,7 @@ argue
 debate
 pumpkin
 bone |  
-| bip_39_word_new_line9 | spatial
+| bip_39_word_new_line_9 | spatial
 chaos
 wish
 solution

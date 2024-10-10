@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | slender |  
-| bip_39_word_new_br10 | slender<br>hero<br>goddess<br>transfer<br>display<br>tank<br>novel<br>peasant<br>journey<br>suffer |  
-| bip_39_word_new_br11 | slender<br>hero<br>goddess<br>transfer<br>display<br>tank<br>novel<br>peasant<br>journey<br>suffer<br>travel |  
-| bip_39_word_new_br12 | slender<br>hero<br>goddess<br>transfer<br>display<br>tank<br>novel<br>peasant<br>journey<br>suffer<br>travel<br>armor |  
-| bip_39_word_new_br2 | slender<br>hero |  
-| bip_39_word_new_br3 | slender<br>hero<br>goddess |  
-| bip_39_word_new_br4 | slender<br>hero<br>goddess<br>transfer |  
-| bip_39_word_new_br5 | slender<br>hero<br>goddess<br>transfer<br>display |  
-| bip_39_word_new_br6 | slender<br>hero<br>goddess<br>transfer<br>display<br>tank |  
-| bip_39_word_new_br7 | slender<br>hero<br>goddess<br>transfer<br>display<br>tank<br>novel |  
-| bip_39_word_new_br8 | slender<br>hero<br>goddess<br>transfer<br>display<br>tank<br>novel<br>peasant |  
-| bip_39_word_new_br9 | slender<br>hero<br>goddess<br>transfer<br>display<br>tank<br>novel<br>peasant<br>journey |  
-| bip_39_word_new_line1 | slender |  
-| bip_39_word_new_line10 | slender
+| bip_39_word_new_br_1 | slender |  
+| bip_39_word_new_br_10 | slender<br>hero<br>goddess<br>transfer<br>display<br>tank<br>novel<br>peasant<br>journey<br>suffer |  
+| bip_39_word_new_br_11 | slender<br>hero<br>goddess<br>transfer<br>display<br>tank<br>novel<br>peasant<br>journey<br>suffer<br>travel |  
+| bip_39_word_new_br_12 | slender<br>hero<br>goddess<br>transfer<br>display<br>tank<br>novel<br>peasant<br>journey<br>suffer<br>travel<br>armor |  
+| bip_39_word_new_br_2 | slender<br>hero |  
+| bip_39_word_new_br_3 | slender<br>hero<br>goddess |  
+| bip_39_word_new_br_4 | slender<br>hero<br>goddess<br>transfer |  
+| bip_39_word_new_br_5 | slender<br>hero<br>goddess<br>transfer<br>display |  
+| bip_39_word_new_br_6 | slender<br>hero<br>goddess<br>transfer<br>display<br>tank |  
+| bip_39_word_new_br_7 | slender<br>hero<br>goddess<br>transfer<br>display<br>tank<br>novel |  
+| bip_39_word_new_br_8 | slender<br>hero<br>goddess<br>transfer<br>display<br>tank<br>novel<br>peasant |  
+| bip_39_word_new_br_9 | slender<br>hero<br>goddess<br>transfer<br>display<br>tank<br>novel<br>peasant<br>journey |  
+| bip_39_word_new_line_1 | slender |  
+| bip_39_word_new_line_10 | slender
 hero
 goddess
 transfer
@@ -55,7 +55,7 @@ novel
 peasant
 journey
 suffer |  
-| bip_39_word_new_line11 | slender
+| bip_39_word_new_line_11 | slender
 hero
 goddess
 transfer
@@ -66,7 +66,7 @@ peasant
 journey
 suffer
 travel |  
-| bip_39_word_new_line12 | slender
+| bip_39_word_new_line_12 | slender
 hero
 goddess
 transfer
@@ -78,34 +78,34 @@ journey
 suffer
 travel
 armor |  
-| bip_39_word_new_line2 | slender
+| bip_39_word_new_line_2 | slender
 hero |  
-| bip_39_word_new_line3 | slender
+| bip_39_word_new_line_3 | slender
 hero
 goddess |  
-| bip_39_word_new_line4 | slender
+| bip_39_word_new_line_4 | slender
 hero
 goddess
 transfer |  
-| bip_39_word_new_line5 | slender
+| bip_39_word_new_line_5 | slender
 hero
 goddess
 transfer
 display |  
-| bip_39_word_new_line6 | slender
+| bip_39_word_new_line_6 | slender
 hero
 goddess
 transfer
 display
 tank |  
-| bip_39_word_new_line7 | slender
+| bip_39_word_new_line_7 | slender
 hero
 goddess
 transfer
 display
 tank
 novel |  
-| bip_39_word_new_line8 | slender
+| bip_39_word_new_line_8 | slender
 hero
 goddess
 transfer
@@ -113,7 +113,7 @@ display
 tank
 novel
 peasant |  
-| bip_39_word_new_line9 | slender
+| bip_39_word_new_line_9 | slender
 hero
 goddess
 transfer

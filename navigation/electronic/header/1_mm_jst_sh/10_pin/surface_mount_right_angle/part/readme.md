@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | chef |  
-| bip_39_word_new_br10 | chef<br>sphere<br>pupil<br>mandate<br>math<br>pluck<br>flat<br>craft<br>blade<br>glide |  
-| bip_39_word_new_br11 | chef<br>sphere<br>pupil<br>mandate<br>math<br>pluck<br>flat<br>craft<br>blade<br>glide<br>uncle |  
-| bip_39_word_new_br12 | chef<br>sphere<br>pupil<br>mandate<br>math<br>pluck<br>flat<br>craft<br>blade<br>glide<br>uncle<br>apart |  
-| bip_39_word_new_br2 | chef<br>sphere |  
-| bip_39_word_new_br3 | chef<br>sphere<br>pupil |  
-| bip_39_word_new_br4 | chef<br>sphere<br>pupil<br>mandate |  
-| bip_39_word_new_br5 | chef<br>sphere<br>pupil<br>mandate<br>math |  
-| bip_39_word_new_br6 | chef<br>sphere<br>pupil<br>mandate<br>math<br>pluck |  
-| bip_39_word_new_br7 | chef<br>sphere<br>pupil<br>mandate<br>math<br>pluck<br>flat |  
-| bip_39_word_new_br8 | chef<br>sphere<br>pupil<br>mandate<br>math<br>pluck<br>flat<br>craft |  
-| bip_39_word_new_br9 | chef<br>sphere<br>pupil<br>mandate<br>math<br>pluck<br>flat<br>craft<br>blade |  
-| bip_39_word_new_line1 | chef |  
-| bip_39_word_new_line10 | chef
+| bip_39_word_new_br_1 | chef |  
+| bip_39_word_new_br_10 | chef<br>sphere<br>pupil<br>mandate<br>math<br>pluck<br>flat<br>craft<br>blade<br>glide |  
+| bip_39_word_new_br_11 | chef<br>sphere<br>pupil<br>mandate<br>math<br>pluck<br>flat<br>craft<br>blade<br>glide<br>uncle |  
+| bip_39_word_new_br_12 | chef<br>sphere<br>pupil<br>mandate<br>math<br>pluck<br>flat<br>craft<br>blade<br>glide<br>uncle<br>apart |  
+| bip_39_word_new_br_2 | chef<br>sphere |  
+| bip_39_word_new_br_3 | chef<br>sphere<br>pupil |  
+| bip_39_word_new_br_4 | chef<br>sphere<br>pupil<br>mandate |  
+| bip_39_word_new_br_5 | chef<br>sphere<br>pupil<br>mandate<br>math |  
+| bip_39_word_new_br_6 | chef<br>sphere<br>pupil<br>mandate<br>math<br>pluck |  
+| bip_39_word_new_br_7 | chef<br>sphere<br>pupil<br>mandate<br>math<br>pluck<br>flat |  
+| bip_39_word_new_br_8 | chef<br>sphere<br>pupil<br>mandate<br>math<br>pluck<br>flat<br>craft |  
+| bip_39_word_new_br_9 | chef<br>sphere<br>pupil<br>mandate<br>math<br>pluck<br>flat<br>craft<br>blade |  
+| bip_39_word_new_line_1 | chef |  
+| bip_39_word_new_line_10 | chef
 sphere
 pupil
 mandate
@@ -55,7 +55,7 @@ flat
 craft
 blade
 glide |  
-| bip_39_word_new_line11 | chef
+| bip_39_word_new_line_11 | chef
 sphere
 pupil
 mandate
@@ -66,7 +66,7 @@ craft
 blade
 glide
 uncle |  
-| bip_39_word_new_line12 | chef
+| bip_39_word_new_line_12 | chef
 sphere
 pupil
 mandate
@@ -78,34 +78,34 @@ blade
 glide
 uncle
 apart |  
-| bip_39_word_new_line2 | chef
+| bip_39_word_new_line_2 | chef
 sphere |  
-| bip_39_word_new_line3 | chef
+| bip_39_word_new_line_3 | chef
 sphere
 pupil |  
-| bip_39_word_new_line4 | chef
+| bip_39_word_new_line_4 | chef
 sphere
 pupil
 mandate |  
-| bip_39_word_new_line5 | chef
+| bip_39_word_new_line_5 | chef
 sphere
 pupil
 mandate
 math |  
-| bip_39_word_new_line6 | chef
+| bip_39_word_new_line_6 | chef
 sphere
 pupil
 mandate
 math
 pluck |  
-| bip_39_word_new_line7 | chef
+| bip_39_word_new_line_7 | chef
 sphere
 pupil
 mandate
 math
 pluck
 flat |  
-| bip_39_word_new_line8 | chef
+| bip_39_word_new_line_8 | chef
 sphere
 pupil
 mandate
@@ -113,7 +113,7 @@ math
 pluck
 flat
 craft |  
-| bip_39_word_new_line9 | chef
+| bip_39_word_new_line_9 | chef
 sphere
 pupil
 mandate

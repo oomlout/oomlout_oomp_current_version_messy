@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | regular |  
-| bip_39_word_new_br10 | regular<br>reason<br>pledge<br>rebel<br>private<br>pig<br>filter<br>ridge<br>casual<br>load |  
-| bip_39_word_new_br11 | regular<br>reason<br>pledge<br>rebel<br>private<br>pig<br>filter<br>ridge<br>casual<br>load<br>cushion |  
-| bip_39_word_new_br12 | regular<br>reason<br>pledge<br>rebel<br>private<br>pig<br>filter<br>ridge<br>casual<br>load<br>cushion<br>august |  
-| bip_39_word_new_br2 | regular<br>reason |  
-| bip_39_word_new_br3 | regular<br>reason<br>pledge |  
-| bip_39_word_new_br4 | regular<br>reason<br>pledge<br>rebel |  
-| bip_39_word_new_br5 | regular<br>reason<br>pledge<br>rebel<br>private |  
-| bip_39_word_new_br6 | regular<br>reason<br>pledge<br>rebel<br>private<br>pig |  
-| bip_39_word_new_br7 | regular<br>reason<br>pledge<br>rebel<br>private<br>pig<br>filter |  
-| bip_39_word_new_br8 | regular<br>reason<br>pledge<br>rebel<br>private<br>pig<br>filter<br>ridge |  
-| bip_39_word_new_br9 | regular<br>reason<br>pledge<br>rebel<br>private<br>pig<br>filter<br>ridge<br>casual |  
-| bip_39_word_new_line1 | regular |  
-| bip_39_word_new_line10 | regular
+| bip_39_word_new_br_1 | regular |  
+| bip_39_word_new_br_10 | regular<br>reason<br>pledge<br>rebel<br>private<br>pig<br>filter<br>ridge<br>casual<br>load |  
+| bip_39_word_new_br_11 | regular<br>reason<br>pledge<br>rebel<br>private<br>pig<br>filter<br>ridge<br>casual<br>load<br>cushion |  
+| bip_39_word_new_br_12 | regular<br>reason<br>pledge<br>rebel<br>private<br>pig<br>filter<br>ridge<br>casual<br>load<br>cushion<br>august |  
+| bip_39_word_new_br_2 | regular<br>reason |  
+| bip_39_word_new_br_3 | regular<br>reason<br>pledge |  
+| bip_39_word_new_br_4 | regular<br>reason<br>pledge<br>rebel |  
+| bip_39_word_new_br_5 | regular<br>reason<br>pledge<br>rebel<br>private |  
+| bip_39_word_new_br_6 | regular<br>reason<br>pledge<br>rebel<br>private<br>pig |  
+| bip_39_word_new_br_7 | regular<br>reason<br>pledge<br>rebel<br>private<br>pig<br>filter |  
+| bip_39_word_new_br_8 | regular<br>reason<br>pledge<br>rebel<br>private<br>pig<br>filter<br>ridge |  
+| bip_39_word_new_br_9 | regular<br>reason<br>pledge<br>rebel<br>private<br>pig<br>filter<br>ridge<br>casual |  
+| bip_39_word_new_line_1 | regular |  
+| bip_39_word_new_line_10 | regular
 reason
 pledge
 rebel
@@ -55,7 +55,7 @@ filter
 ridge
 casual
 load |  
-| bip_39_word_new_line11 | regular
+| bip_39_word_new_line_11 | regular
 reason
 pledge
 rebel
@@ -66,7 +66,7 @@ ridge
 casual
 load
 cushion |  
-| bip_39_word_new_line12 | regular
+| bip_39_word_new_line_12 | regular
 reason
 pledge
 rebel
@@ -78,34 +78,34 @@ casual
 load
 cushion
 august |  
-| bip_39_word_new_line2 | regular
+| bip_39_word_new_line_2 | regular
 reason |  
-| bip_39_word_new_line3 | regular
+| bip_39_word_new_line_3 | regular
 reason
 pledge |  
-| bip_39_word_new_line4 | regular
+| bip_39_word_new_line_4 | regular
 reason
 pledge
 rebel |  
-| bip_39_word_new_line5 | regular
+| bip_39_word_new_line_5 | regular
 reason
 pledge
 rebel
 private |  
-| bip_39_word_new_line6 | regular
+| bip_39_word_new_line_6 | regular
 reason
 pledge
 rebel
 private
 pig |  
-| bip_39_word_new_line7 | regular
+| bip_39_word_new_line_7 | regular
 reason
 pledge
 rebel
 private
 pig
 filter |  
-| bip_39_word_new_line8 | regular
+| bip_39_word_new_line_8 | regular
 reason
 pledge
 rebel
@@ -113,7 +113,7 @@ private
 pig
 filter
 ridge |  
-| bip_39_word_new_line9 | regular
+| bip_39_word_new_line_9 | regular
 reason
 pledge
 rebel

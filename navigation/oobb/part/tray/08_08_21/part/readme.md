@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | tone |  
-| bip_39_word_new_br10 | tone<br>hold<br>ability<br>hockey<br>erase<br>shock<br>unit<br>ancient<br>artefact<br>exotic |  
-| bip_39_word_new_br11 | tone<br>hold<br>ability<br>hockey<br>erase<br>shock<br>unit<br>ancient<br>artefact<br>exotic<br>dismiss |  
-| bip_39_word_new_br12 | tone<br>hold<br>ability<br>hockey<br>erase<br>shock<br>unit<br>ancient<br>artefact<br>exotic<br>dismiss<br>art |  
-| bip_39_word_new_br2 | tone<br>hold |  
-| bip_39_word_new_br3 | tone<br>hold<br>ability |  
-| bip_39_word_new_br4 | tone<br>hold<br>ability<br>hockey |  
-| bip_39_word_new_br5 | tone<br>hold<br>ability<br>hockey<br>erase |  
-| bip_39_word_new_br6 | tone<br>hold<br>ability<br>hockey<br>erase<br>shock |  
-| bip_39_word_new_br7 | tone<br>hold<br>ability<br>hockey<br>erase<br>shock<br>unit |  
-| bip_39_word_new_br8 | tone<br>hold<br>ability<br>hockey<br>erase<br>shock<br>unit<br>ancient |  
-| bip_39_word_new_br9 | tone<br>hold<br>ability<br>hockey<br>erase<br>shock<br>unit<br>ancient<br>artefact |  
-| bip_39_word_new_line1 | tone |  
-| bip_39_word_new_line10 | tone
+| bip_39_word_new_br_1 | tone |  
+| bip_39_word_new_br_10 | tone<br>hold<br>ability<br>hockey<br>erase<br>shock<br>unit<br>ancient<br>artefact<br>exotic |  
+| bip_39_word_new_br_11 | tone<br>hold<br>ability<br>hockey<br>erase<br>shock<br>unit<br>ancient<br>artefact<br>exotic<br>dismiss |  
+| bip_39_word_new_br_12 | tone<br>hold<br>ability<br>hockey<br>erase<br>shock<br>unit<br>ancient<br>artefact<br>exotic<br>dismiss<br>art |  
+| bip_39_word_new_br_2 | tone<br>hold |  
+| bip_39_word_new_br_3 | tone<br>hold<br>ability |  
+| bip_39_word_new_br_4 | tone<br>hold<br>ability<br>hockey |  
+| bip_39_word_new_br_5 | tone<br>hold<br>ability<br>hockey<br>erase |  
+| bip_39_word_new_br_6 | tone<br>hold<br>ability<br>hockey<br>erase<br>shock |  
+| bip_39_word_new_br_7 | tone<br>hold<br>ability<br>hockey<br>erase<br>shock<br>unit |  
+| bip_39_word_new_br_8 | tone<br>hold<br>ability<br>hockey<br>erase<br>shock<br>unit<br>ancient |  
+| bip_39_word_new_br_9 | tone<br>hold<br>ability<br>hockey<br>erase<br>shock<br>unit<br>ancient<br>artefact |  
+| bip_39_word_new_line_1 | tone |  
+| bip_39_word_new_line_10 | tone
 hold
 ability
 hockey
@@ -55,7 +55,7 @@ unit
 ancient
 artefact
 exotic |  
-| bip_39_word_new_line11 | tone
+| bip_39_word_new_line_11 | tone
 hold
 ability
 hockey
@@ -66,7 +66,7 @@ ancient
 artefact
 exotic
 dismiss |  
-| bip_39_word_new_line12 | tone
+| bip_39_word_new_line_12 | tone
 hold
 ability
 hockey
@@ -78,34 +78,34 @@ artefact
 exotic
 dismiss
 art |  
-| bip_39_word_new_line2 | tone
+| bip_39_word_new_line_2 | tone
 hold |  
-| bip_39_word_new_line3 | tone
+| bip_39_word_new_line_3 | tone
 hold
 ability |  
-| bip_39_word_new_line4 | tone
+| bip_39_word_new_line_4 | tone
 hold
 ability
 hockey |  
-| bip_39_word_new_line5 | tone
+| bip_39_word_new_line_5 | tone
 hold
 ability
 hockey
 erase |  
-| bip_39_word_new_line6 | tone
+| bip_39_word_new_line_6 | tone
 hold
 ability
 hockey
 erase
 shock |  
-| bip_39_word_new_line7 | tone
+| bip_39_word_new_line_7 | tone
 hold
 ability
 hockey
 erase
 shock
 unit |  
-| bip_39_word_new_line8 | tone
+| bip_39_word_new_line_8 | tone
 hold
 ability
 hockey
@@ -113,7 +113,7 @@ erase
 shock
 unit
 ancient |  
-| bip_39_word_new_line9 | tone
+| bip_39_word_new_line_9 | tone
 hold
 ability
 hockey

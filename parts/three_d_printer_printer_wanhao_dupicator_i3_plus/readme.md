@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | logic |  
-| bip_39_word_new_br10 | logic<br>earth<br>butter<br>alpha<br>proof<br>swear<br>relax<br>club<br>marriage<br>outdoor |  
-| bip_39_word_new_br11 | logic<br>earth<br>butter<br>alpha<br>proof<br>swear<br>relax<br>club<br>marriage<br>outdoor<br>escape |  
-| bip_39_word_new_br12 | logic<br>earth<br>butter<br>alpha<br>proof<br>swear<br>relax<br>club<br>marriage<br>outdoor<br>escape<br>announce |  
-| bip_39_word_new_br2 | logic<br>earth |  
-| bip_39_word_new_br3 | logic<br>earth<br>butter |  
-| bip_39_word_new_br4 | logic<br>earth<br>butter<br>alpha |  
-| bip_39_word_new_br5 | logic<br>earth<br>butter<br>alpha<br>proof |  
-| bip_39_word_new_br6 | logic<br>earth<br>butter<br>alpha<br>proof<br>swear |  
-| bip_39_word_new_br7 | logic<br>earth<br>butter<br>alpha<br>proof<br>swear<br>relax |  
-| bip_39_word_new_br8 | logic<br>earth<br>butter<br>alpha<br>proof<br>swear<br>relax<br>club |  
-| bip_39_word_new_br9 | logic<br>earth<br>butter<br>alpha<br>proof<br>swear<br>relax<br>club<br>marriage |  
-| bip_39_word_new_line1 | logic |  
-| bip_39_word_new_line10 | logic
+| bip_39_word_new_br_1 | logic |  
+| bip_39_word_new_br_10 | logic<br>earth<br>butter<br>alpha<br>proof<br>swear<br>relax<br>club<br>marriage<br>outdoor |  
+| bip_39_word_new_br_11 | logic<br>earth<br>butter<br>alpha<br>proof<br>swear<br>relax<br>club<br>marriage<br>outdoor<br>escape |  
+| bip_39_word_new_br_12 | logic<br>earth<br>butter<br>alpha<br>proof<br>swear<br>relax<br>club<br>marriage<br>outdoor<br>escape<br>announce |  
+| bip_39_word_new_br_2 | logic<br>earth |  
+| bip_39_word_new_br_3 | logic<br>earth<br>butter |  
+| bip_39_word_new_br_4 | logic<br>earth<br>butter<br>alpha |  
+| bip_39_word_new_br_5 | logic<br>earth<br>butter<br>alpha<br>proof |  
+| bip_39_word_new_br_6 | logic<br>earth<br>butter<br>alpha<br>proof<br>swear |  
+| bip_39_word_new_br_7 | logic<br>earth<br>butter<br>alpha<br>proof<br>swear<br>relax |  
+| bip_39_word_new_br_8 | logic<br>earth<br>butter<br>alpha<br>proof<br>swear<br>relax<br>club |  
+| bip_39_word_new_br_9 | logic<br>earth<br>butter<br>alpha<br>proof<br>swear<br>relax<br>club<br>marriage |  
+| bip_39_word_new_line_1 | logic |  
+| bip_39_word_new_line_10 | logic
 earth
 butter
 alpha
@@ -55,7 +55,7 @@ relax
 club
 marriage
 outdoor |  
-| bip_39_word_new_line11 | logic
+| bip_39_word_new_line_11 | logic
 earth
 butter
 alpha
@@ -66,7 +66,7 @@ club
 marriage
 outdoor
 escape |  
-| bip_39_word_new_line12 | logic
+| bip_39_word_new_line_12 | logic
 earth
 butter
 alpha
@@ -78,34 +78,34 @@ marriage
 outdoor
 escape
 announce |  
-| bip_39_word_new_line2 | logic
+| bip_39_word_new_line_2 | logic
 earth |  
-| bip_39_word_new_line3 | logic
+| bip_39_word_new_line_3 | logic
 earth
 butter |  
-| bip_39_word_new_line4 | logic
+| bip_39_word_new_line_4 | logic
 earth
 butter
 alpha |  
-| bip_39_word_new_line5 | logic
+| bip_39_word_new_line_5 | logic
 earth
 butter
 alpha
 proof |  
-| bip_39_word_new_line6 | logic
+| bip_39_word_new_line_6 | logic
 earth
 butter
 alpha
 proof
 swear |  
-| bip_39_word_new_line7 | logic
+| bip_39_word_new_line_7 | logic
 earth
 butter
 alpha
 proof
 swear
 relax |  
-| bip_39_word_new_line8 | logic
+| bip_39_word_new_line_8 | logic
 earth
 butter
 alpha
@@ -113,7 +113,7 @@ proof
 swear
 relax
 club |  
-| bip_39_word_new_line9 | logic
+| bip_39_word_new_line_9 | logic
 earth
 butter
 alpha

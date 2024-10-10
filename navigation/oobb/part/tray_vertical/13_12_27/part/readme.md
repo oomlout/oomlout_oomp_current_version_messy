@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | tell |  
-| bip_39_word_new_br10 | tell<br>keen<br>clean<br>liar<br>sport<br>foam<br>blind<br>search<br>rule<br>nation |  
-| bip_39_word_new_br11 | tell<br>keen<br>clean<br>liar<br>sport<br>foam<br>blind<br>search<br>rule<br>nation<br>fix |  
-| bip_39_word_new_br12 | tell<br>keen<br>clean<br>liar<br>sport<br>foam<br>blind<br>search<br>rule<br>nation<br>fix<br>affair |  
-| bip_39_word_new_br2 | tell<br>keen |  
-| bip_39_word_new_br3 | tell<br>keen<br>clean |  
-| bip_39_word_new_br4 | tell<br>keen<br>clean<br>liar |  
-| bip_39_word_new_br5 | tell<br>keen<br>clean<br>liar<br>sport |  
-| bip_39_word_new_br6 | tell<br>keen<br>clean<br>liar<br>sport<br>foam |  
-| bip_39_word_new_br7 | tell<br>keen<br>clean<br>liar<br>sport<br>foam<br>blind |  
-| bip_39_word_new_br8 | tell<br>keen<br>clean<br>liar<br>sport<br>foam<br>blind<br>search |  
-| bip_39_word_new_br9 | tell<br>keen<br>clean<br>liar<br>sport<br>foam<br>blind<br>search<br>rule |  
-| bip_39_word_new_line1 | tell |  
-| bip_39_word_new_line10 | tell
+| bip_39_word_new_br_1 | tell |  
+| bip_39_word_new_br_10 | tell<br>keen<br>clean<br>liar<br>sport<br>foam<br>blind<br>search<br>rule<br>nation |  
+| bip_39_word_new_br_11 | tell<br>keen<br>clean<br>liar<br>sport<br>foam<br>blind<br>search<br>rule<br>nation<br>fix |  
+| bip_39_word_new_br_12 | tell<br>keen<br>clean<br>liar<br>sport<br>foam<br>blind<br>search<br>rule<br>nation<br>fix<br>affair |  
+| bip_39_word_new_br_2 | tell<br>keen |  
+| bip_39_word_new_br_3 | tell<br>keen<br>clean |  
+| bip_39_word_new_br_4 | tell<br>keen<br>clean<br>liar |  
+| bip_39_word_new_br_5 | tell<br>keen<br>clean<br>liar<br>sport |  
+| bip_39_word_new_br_6 | tell<br>keen<br>clean<br>liar<br>sport<br>foam |  
+| bip_39_word_new_br_7 | tell<br>keen<br>clean<br>liar<br>sport<br>foam<br>blind |  
+| bip_39_word_new_br_8 | tell<br>keen<br>clean<br>liar<br>sport<br>foam<br>blind<br>search |  
+| bip_39_word_new_br_9 | tell<br>keen<br>clean<br>liar<br>sport<br>foam<br>blind<br>search<br>rule |  
+| bip_39_word_new_line_1 | tell |  
+| bip_39_word_new_line_10 | tell
 keen
 clean
 liar
@@ -55,7 +55,7 @@ blind
 search
 rule
 nation |  
-| bip_39_word_new_line11 | tell
+| bip_39_word_new_line_11 | tell
 keen
 clean
 liar
@@ -66,7 +66,7 @@ search
 rule
 nation
 fix |  
-| bip_39_word_new_line12 | tell
+| bip_39_word_new_line_12 | tell
 keen
 clean
 liar
@@ -78,34 +78,34 @@ rule
 nation
 fix
 affair |  
-| bip_39_word_new_line2 | tell
+| bip_39_word_new_line_2 | tell
 keen |  
-| bip_39_word_new_line3 | tell
+| bip_39_word_new_line_3 | tell
 keen
 clean |  
-| bip_39_word_new_line4 | tell
+| bip_39_word_new_line_4 | tell
 keen
 clean
 liar |  
-| bip_39_word_new_line5 | tell
+| bip_39_word_new_line_5 | tell
 keen
 clean
 liar
 sport |  
-| bip_39_word_new_line6 | tell
+| bip_39_word_new_line_6 | tell
 keen
 clean
 liar
 sport
 foam |  
-| bip_39_word_new_line7 | tell
+| bip_39_word_new_line_7 | tell
 keen
 clean
 liar
 sport
 foam
 blind |  
-| bip_39_word_new_line8 | tell
+| bip_39_word_new_line_8 | tell
 keen
 clean
 liar
@@ -113,7 +113,7 @@ sport
 foam
 blind
 search |  
-| bip_39_word_new_line9 | tell
+| bip_39_word_new_line_9 | tell
 keen
 clean
 liar

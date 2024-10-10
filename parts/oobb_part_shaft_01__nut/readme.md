@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | guard |  
-| bip_39_word_new_br10 | guard<br>cancel<br>lake<br>ginger<br>razor<br>alien<br>episode<br>approve<br>shadow<br>tree |  
-| bip_39_word_new_br11 | guard<br>cancel<br>lake<br>ginger<br>razor<br>alien<br>episode<br>approve<br>shadow<br>tree<br>frog |  
-| bip_39_word_new_br12 | guard<br>cancel<br>lake<br>ginger<br>razor<br>alien<br>episode<br>approve<br>shadow<br>tree<br>frog<br>alter |  
-| bip_39_word_new_br2 | guard<br>cancel |  
-| bip_39_word_new_br3 | guard<br>cancel<br>lake |  
-| bip_39_word_new_br4 | guard<br>cancel<br>lake<br>ginger |  
-| bip_39_word_new_br5 | guard<br>cancel<br>lake<br>ginger<br>razor |  
-| bip_39_word_new_br6 | guard<br>cancel<br>lake<br>ginger<br>razor<br>alien |  
-| bip_39_word_new_br7 | guard<br>cancel<br>lake<br>ginger<br>razor<br>alien<br>episode |  
-| bip_39_word_new_br8 | guard<br>cancel<br>lake<br>ginger<br>razor<br>alien<br>episode<br>approve |  
-| bip_39_word_new_br9 | guard<br>cancel<br>lake<br>ginger<br>razor<br>alien<br>episode<br>approve<br>shadow |  
-| bip_39_word_new_line1 | guard |  
-| bip_39_word_new_line10 | guard
+| bip_39_word_new_br_1 | guard |  
+| bip_39_word_new_br_10 | guard<br>cancel<br>lake<br>ginger<br>razor<br>alien<br>episode<br>approve<br>shadow<br>tree |  
+| bip_39_word_new_br_11 | guard<br>cancel<br>lake<br>ginger<br>razor<br>alien<br>episode<br>approve<br>shadow<br>tree<br>frog |  
+| bip_39_word_new_br_12 | guard<br>cancel<br>lake<br>ginger<br>razor<br>alien<br>episode<br>approve<br>shadow<br>tree<br>frog<br>alter |  
+| bip_39_word_new_br_2 | guard<br>cancel |  
+| bip_39_word_new_br_3 | guard<br>cancel<br>lake |  
+| bip_39_word_new_br_4 | guard<br>cancel<br>lake<br>ginger |  
+| bip_39_word_new_br_5 | guard<br>cancel<br>lake<br>ginger<br>razor |  
+| bip_39_word_new_br_6 | guard<br>cancel<br>lake<br>ginger<br>razor<br>alien |  
+| bip_39_word_new_br_7 | guard<br>cancel<br>lake<br>ginger<br>razor<br>alien<br>episode |  
+| bip_39_word_new_br_8 | guard<br>cancel<br>lake<br>ginger<br>razor<br>alien<br>episode<br>approve |  
+| bip_39_word_new_br_9 | guard<br>cancel<br>lake<br>ginger<br>razor<br>alien<br>episode<br>approve<br>shadow |  
+| bip_39_word_new_line_1 | guard |  
+| bip_39_word_new_line_10 | guard
 cancel
 lake
 ginger
@@ -55,7 +55,7 @@ episode
 approve
 shadow
 tree |  
-| bip_39_word_new_line11 | guard
+| bip_39_word_new_line_11 | guard
 cancel
 lake
 ginger
@@ -66,7 +66,7 @@ approve
 shadow
 tree
 frog |  
-| bip_39_word_new_line12 | guard
+| bip_39_word_new_line_12 | guard
 cancel
 lake
 ginger
@@ -78,34 +78,34 @@ shadow
 tree
 frog
 alter |  
-| bip_39_word_new_line2 | guard
+| bip_39_word_new_line_2 | guard
 cancel |  
-| bip_39_word_new_line3 | guard
+| bip_39_word_new_line_3 | guard
 cancel
 lake |  
-| bip_39_word_new_line4 | guard
+| bip_39_word_new_line_4 | guard
 cancel
 lake
 ginger |  
-| bip_39_word_new_line5 | guard
+| bip_39_word_new_line_5 | guard
 cancel
 lake
 ginger
 razor |  
-| bip_39_word_new_line6 | guard
+| bip_39_word_new_line_6 | guard
 cancel
 lake
 ginger
 razor
 alien |  
-| bip_39_word_new_line7 | guard
+| bip_39_word_new_line_7 | guard
 cancel
 lake
 ginger
 razor
 alien
 episode |  
-| bip_39_word_new_line8 | guard
+| bip_39_word_new_line_8 | guard
 cancel
 lake
 ginger
@@ -113,7 +113,7 @@ razor
 alien
 episode
 approve |  
-| bip_39_word_new_line9 | guard
+| bip_39_word_new_line_9 | guard
 cancel
 lake
 ginger

@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | symptom |  
-| bip_39_word_new_br10 | symptom<br>coyote<br>pencil<br>seminar<br>tiny<br>move<br>axis<br>add<br>subject<br>cable |  
-| bip_39_word_new_br11 | symptom<br>coyote<br>pencil<br>seminar<br>tiny<br>move<br>axis<br>add<br>subject<br>cable<br>phrase |  
-| bip_39_word_new_br2 | symptom<br>coyote |  
-| bip_39_word_new_br3 | symptom<br>coyote<br>pencil |  
-| bip_39_word_new_br4 | symptom<br>coyote<br>pencil<br>seminar |  
-| bip_39_word_new_br5 | symptom<br>coyote<br>pencil<br>seminar<br>tiny |  
-| bip_39_word_new_br6 | symptom<br>coyote<br>pencil<br>seminar<br>tiny<br>move |  
-| bip_39_word_new_br7 | symptom<br>coyote<br>pencil<br>seminar<br>tiny<br>move<br>axis |  
-| bip_39_word_new_br8 | symptom<br>coyote<br>pencil<br>seminar<br>tiny<br>move<br>axis<br>add |  
-| bip_39_word_new_br9 | symptom<br>coyote<br>pencil<br>seminar<br>tiny<br>move<br>axis<br>add<br>subject |  
-| bip_39_word_new_line1 | symptom |  
-| bip_39_word_new_line10 | symptom
+| bip_39_word_new_br_1 | symptom |  
+| bip_39_word_new_br_10 | symptom<br>coyote<br>pencil<br>seminar<br>tiny<br>move<br>axis<br>add<br>subject<br>cable |  
+| bip_39_word_new_br_11 | symptom<br>coyote<br>pencil<br>seminar<br>tiny<br>move<br>axis<br>add<br>subject<br>cable<br>phrase |  
+| bip_39_word_new_br_2 | symptom<br>coyote |  
+| bip_39_word_new_br_3 | symptom<br>coyote<br>pencil |  
+| bip_39_word_new_br_4 | symptom<br>coyote<br>pencil<br>seminar |  
+| bip_39_word_new_br_5 | symptom<br>coyote<br>pencil<br>seminar<br>tiny |  
+| bip_39_word_new_br_6 | symptom<br>coyote<br>pencil<br>seminar<br>tiny<br>move |  
+| bip_39_word_new_br_7 | symptom<br>coyote<br>pencil<br>seminar<br>tiny<br>move<br>axis |  
+| bip_39_word_new_br_8 | symptom<br>coyote<br>pencil<br>seminar<br>tiny<br>move<br>axis<br>add |  
+| bip_39_word_new_br_9 | symptom<br>coyote<br>pencil<br>seminar<br>tiny<br>move<br>axis<br>add<br>subject |  
+| bip_39_word_new_line_1 | symptom |  
+| bip_39_word_new_line_10 | symptom
 coyote
 pencil
 seminar
@@ -54,7 +54,7 @@ axis
 add
 subject
 cable |  
-| bip_39_word_new_line11 | symptom
+| bip_39_word_new_line_11 | symptom
 coyote
 pencil
 seminar
@@ -65,34 +65,34 @@ add
 subject
 cable
 phrase |  
-| bip_39_word_new_line2 | symptom
+| bip_39_word_new_line_2 | symptom
 coyote |  
-| bip_39_word_new_line3 | symptom
+| bip_39_word_new_line_3 | symptom
 coyote
 pencil |  
-| bip_39_word_new_line4 | symptom
+| bip_39_word_new_line_4 | symptom
 coyote
 pencil
 seminar |  
-| bip_39_word_new_line5 | symptom
+| bip_39_word_new_line_5 | symptom
 coyote
 pencil
 seminar
 tiny |  
-| bip_39_word_new_line6 | symptom
+| bip_39_word_new_line_6 | symptom
 coyote
 pencil
 seminar
 tiny
 move |  
-| bip_39_word_new_line7 | symptom
+| bip_39_word_new_line_7 | symptom
 coyote
 pencil
 seminar
 tiny
 move
 axis |  
-| bip_39_word_new_line8 | symptom
+| bip_39_word_new_line_8 | symptom
 coyote
 pencil
 seminar
@@ -100,7 +100,7 @@ tiny
 move
 axis
 add |  
-| bip_39_word_new_line9 | symptom
+| bip_39_word_new_line_9 | symptom
 coyote
 pencil
 seminar

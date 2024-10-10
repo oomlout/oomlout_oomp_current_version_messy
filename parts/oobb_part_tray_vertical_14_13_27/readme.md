@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | enhance |  
-| bip_39_word_new_br10 | enhance<br>capital<br>absent<br>tip<br>develop<br>panic<br>enable<br>antenna<br>minimum<br>call |  
-| bip_39_word_new_br11 | enhance<br>capital<br>absent<br>tip<br>develop<br>panic<br>enable<br>antenna<br>minimum<br>call<br>you |  
-| bip_39_word_new_br12 | enhance<br>capital<br>absent<br>tip<br>develop<br>panic<br>enable<br>antenna<br>minimum<br>call<br>you<br>arrive |  
-| bip_39_word_new_br2 | enhance<br>capital |  
-| bip_39_word_new_br3 | enhance<br>capital<br>absent |  
-| bip_39_word_new_br4 | enhance<br>capital<br>absent<br>tip |  
-| bip_39_word_new_br5 | enhance<br>capital<br>absent<br>tip<br>develop |  
-| bip_39_word_new_br6 | enhance<br>capital<br>absent<br>tip<br>develop<br>panic |  
-| bip_39_word_new_br7 | enhance<br>capital<br>absent<br>tip<br>develop<br>panic<br>enable |  
-| bip_39_word_new_br8 | enhance<br>capital<br>absent<br>tip<br>develop<br>panic<br>enable<br>antenna |  
-| bip_39_word_new_br9 | enhance<br>capital<br>absent<br>tip<br>develop<br>panic<br>enable<br>antenna<br>minimum |  
-| bip_39_word_new_line1 | enhance |  
-| bip_39_word_new_line10 | enhance
+| bip_39_word_new_br_1 | enhance |  
+| bip_39_word_new_br_10 | enhance<br>capital<br>absent<br>tip<br>develop<br>panic<br>enable<br>antenna<br>minimum<br>call |  
+| bip_39_word_new_br_11 | enhance<br>capital<br>absent<br>tip<br>develop<br>panic<br>enable<br>antenna<br>minimum<br>call<br>you |  
+| bip_39_word_new_br_12 | enhance<br>capital<br>absent<br>tip<br>develop<br>panic<br>enable<br>antenna<br>minimum<br>call<br>you<br>arrive |  
+| bip_39_word_new_br_2 | enhance<br>capital |  
+| bip_39_word_new_br_3 | enhance<br>capital<br>absent |  
+| bip_39_word_new_br_4 | enhance<br>capital<br>absent<br>tip |  
+| bip_39_word_new_br_5 | enhance<br>capital<br>absent<br>tip<br>develop |  
+| bip_39_word_new_br_6 | enhance<br>capital<br>absent<br>tip<br>develop<br>panic |  
+| bip_39_word_new_br_7 | enhance<br>capital<br>absent<br>tip<br>develop<br>panic<br>enable |  
+| bip_39_word_new_br_8 | enhance<br>capital<br>absent<br>tip<br>develop<br>panic<br>enable<br>antenna |  
+| bip_39_word_new_br_9 | enhance<br>capital<br>absent<br>tip<br>develop<br>panic<br>enable<br>antenna<br>minimum |  
+| bip_39_word_new_line_1 | enhance |  
+| bip_39_word_new_line_10 | enhance
 capital
 absent
 tip
@@ -55,7 +55,7 @@ enable
 antenna
 minimum
 call |  
-| bip_39_word_new_line11 | enhance
+| bip_39_word_new_line_11 | enhance
 capital
 absent
 tip
@@ -66,7 +66,7 @@ antenna
 minimum
 call
 you |  
-| bip_39_word_new_line12 | enhance
+| bip_39_word_new_line_12 | enhance
 capital
 absent
 tip
@@ -78,34 +78,34 @@ minimum
 call
 you
 arrive |  
-| bip_39_word_new_line2 | enhance
+| bip_39_word_new_line_2 | enhance
 capital |  
-| bip_39_word_new_line3 | enhance
+| bip_39_word_new_line_3 | enhance
 capital
 absent |  
-| bip_39_word_new_line4 | enhance
+| bip_39_word_new_line_4 | enhance
 capital
 absent
 tip |  
-| bip_39_word_new_line5 | enhance
+| bip_39_word_new_line_5 | enhance
 capital
 absent
 tip
 develop |  
-| bip_39_word_new_line6 | enhance
+| bip_39_word_new_line_6 | enhance
 capital
 absent
 tip
 develop
 panic |  
-| bip_39_word_new_line7 | enhance
+| bip_39_word_new_line_7 | enhance
 capital
 absent
 tip
 develop
 panic
 enable |  
-| bip_39_word_new_line8 | enhance
+| bip_39_word_new_line_8 | enhance
 capital
 absent
 tip
@@ -113,7 +113,7 @@ develop
 panic
 enable
 antenna |  
-| bip_39_word_new_line9 | enhance
+| bip_39_word_new_line_9 | enhance
 capital
 absent
 tip

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rifle |  
-| bip_39_word_new_br10 | rifle<br>volcano<br>youth<br>struggle<br>robot<br>chef<br>toy<br>reason<br>spatial<br>half |  
-| bip_39_word_new_br11 | rifle<br>volcano<br>youth<br>struggle<br>robot<br>chef<br>toy<br>reason<br>spatial<br>half<br>hello |  
-| bip_39_word_new_br12 | rifle<br>volcano<br>youth<br>struggle<br>robot<br>chef<br>toy<br>reason<br>spatial<br>half<br>hello<br>avocado |  
-| bip_39_word_new_br2 | rifle<br>volcano |  
-| bip_39_word_new_br3 | rifle<br>volcano<br>youth |  
-| bip_39_word_new_br4 | rifle<br>volcano<br>youth<br>struggle |  
-| bip_39_word_new_br5 | rifle<br>volcano<br>youth<br>struggle<br>robot |  
-| bip_39_word_new_br6 | rifle<br>volcano<br>youth<br>struggle<br>robot<br>chef |  
-| bip_39_word_new_br7 | rifle<br>volcano<br>youth<br>struggle<br>robot<br>chef<br>toy |  
-| bip_39_word_new_br8 | rifle<br>volcano<br>youth<br>struggle<br>robot<br>chef<br>toy<br>reason |  
-| bip_39_word_new_br9 | rifle<br>volcano<br>youth<br>struggle<br>robot<br>chef<br>toy<br>reason<br>spatial |  
-| bip_39_word_new_line1 | rifle |  
-| bip_39_word_new_line10 | rifle
+| bip_39_word_new_br_1 | rifle |  
+| bip_39_word_new_br_10 | rifle<br>volcano<br>youth<br>struggle<br>robot<br>chef<br>toy<br>reason<br>spatial<br>half |  
+| bip_39_word_new_br_11 | rifle<br>volcano<br>youth<br>struggle<br>robot<br>chef<br>toy<br>reason<br>spatial<br>half<br>hello |  
+| bip_39_word_new_br_12 | rifle<br>volcano<br>youth<br>struggle<br>robot<br>chef<br>toy<br>reason<br>spatial<br>half<br>hello<br>avocado |  
+| bip_39_word_new_br_2 | rifle<br>volcano |  
+| bip_39_word_new_br_3 | rifle<br>volcano<br>youth |  
+| bip_39_word_new_br_4 | rifle<br>volcano<br>youth<br>struggle |  
+| bip_39_word_new_br_5 | rifle<br>volcano<br>youth<br>struggle<br>robot |  
+| bip_39_word_new_br_6 | rifle<br>volcano<br>youth<br>struggle<br>robot<br>chef |  
+| bip_39_word_new_br_7 | rifle<br>volcano<br>youth<br>struggle<br>robot<br>chef<br>toy |  
+| bip_39_word_new_br_8 | rifle<br>volcano<br>youth<br>struggle<br>robot<br>chef<br>toy<br>reason |  
+| bip_39_word_new_br_9 | rifle<br>volcano<br>youth<br>struggle<br>robot<br>chef<br>toy<br>reason<br>spatial |  
+| bip_39_word_new_line_1 | rifle |  
+| bip_39_word_new_line_10 | rifle
 volcano
 youth
 struggle
@@ -55,7 +55,7 @@ toy
 reason
 spatial
 half |  
-| bip_39_word_new_line11 | rifle
+| bip_39_word_new_line_11 | rifle
 volcano
 youth
 struggle
@@ -66,7 +66,7 @@ reason
 spatial
 half
 hello |  
-| bip_39_word_new_line12 | rifle
+| bip_39_word_new_line_12 | rifle
 volcano
 youth
 struggle
@@ -78,34 +78,34 @@ spatial
 half
 hello
 avocado |  
-| bip_39_word_new_line2 | rifle
+| bip_39_word_new_line_2 | rifle
 volcano |  
-| bip_39_word_new_line3 | rifle
+| bip_39_word_new_line_3 | rifle
 volcano
 youth |  
-| bip_39_word_new_line4 | rifle
+| bip_39_word_new_line_4 | rifle
 volcano
 youth
 struggle |  
-| bip_39_word_new_line5 | rifle
+| bip_39_word_new_line_5 | rifle
 volcano
 youth
 struggle
 robot |  
-| bip_39_word_new_line6 | rifle
+| bip_39_word_new_line_6 | rifle
 volcano
 youth
 struggle
 robot
 chef |  
-| bip_39_word_new_line7 | rifle
+| bip_39_word_new_line_7 | rifle
 volcano
 youth
 struggle
 robot
 chef
 toy |  
-| bip_39_word_new_line8 | rifle
+| bip_39_word_new_line_8 | rifle
 volcano
 youth
 struggle
@@ -113,7 +113,7 @@ robot
 chef
 toy
 reason |  
-| bip_39_word_new_line9 | rifle
+| bip_39_word_new_line_9 | rifle
 volcano
 youth
 struggle

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | stuff |  
-| bip_39_word_new_br10 | stuff<br>creek<br>hand<br>before<br>buzz<br>pitch<br>crush<br>step<br>trend<br>lottery |  
-| bip_39_word_new_br11 | stuff<br>creek<br>hand<br>before<br>buzz<br>pitch<br>crush<br>step<br>trend<br>lottery<br>business |  
-| bip_39_word_new_br12 | stuff<br>creek<br>hand<br>before<br>buzz<br>pitch<br>crush<br>step<br>trend<br>lottery<br>business<br>age |  
-| bip_39_word_new_br2 | stuff<br>creek |  
-| bip_39_word_new_br3 | stuff<br>creek<br>hand |  
-| bip_39_word_new_br4 | stuff<br>creek<br>hand<br>before |  
-| bip_39_word_new_br5 | stuff<br>creek<br>hand<br>before<br>buzz |  
-| bip_39_word_new_br6 | stuff<br>creek<br>hand<br>before<br>buzz<br>pitch |  
-| bip_39_word_new_br7 | stuff<br>creek<br>hand<br>before<br>buzz<br>pitch<br>crush |  
-| bip_39_word_new_br8 | stuff<br>creek<br>hand<br>before<br>buzz<br>pitch<br>crush<br>step |  
-| bip_39_word_new_br9 | stuff<br>creek<br>hand<br>before<br>buzz<br>pitch<br>crush<br>step<br>trend |  
-| bip_39_word_new_line1 | stuff |  
-| bip_39_word_new_line10 | stuff
+| bip_39_word_new_br_1 | stuff |  
+| bip_39_word_new_br_10 | stuff<br>creek<br>hand<br>before<br>buzz<br>pitch<br>crush<br>step<br>trend<br>lottery |  
+| bip_39_word_new_br_11 | stuff<br>creek<br>hand<br>before<br>buzz<br>pitch<br>crush<br>step<br>trend<br>lottery<br>business |  
+| bip_39_word_new_br_12 | stuff<br>creek<br>hand<br>before<br>buzz<br>pitch<br>crush<br>step<br>trend<br>lottery<br>business<br>age |  
+| bip_39_word_new_br_2 | stuff<br>creek |  
+| bip_39_word_new_br_3 | stuff<br>creek<br>hand |  
+| bip_39_word_new_br_4 | stuff<br>creek<br>hand<br>before |  
+| bip_39_word_new_br_5 | stuff<br>creek<br>hand<br>before<br>buzz |  
+| bip_39_word_new_br_6 | stuff<br>creek<br>hand<br>before<br>buzz<br>pitch |  
+| bip_39_word_new_br_7 | stuff<br>creek<br>hand<br>before<br>buzz<br>pitch<br>crush |  
+| bip_39_word_new_br_8 | stuff<br>creek<br>hand<br>before<br>buzz<br>pitch<br>crush<br>step |  
+| bip_39_word_new_br_9 | stuff<br>creek<br>hand<br>before<br>buzz<br>pitch<br>crush<br>step<br>trend |  
+| bip_39_word_new_line_1 | stuff |  
+| bip_39_word_new_line_10 | stuff
 creek
 hand
 before
@@ -55,7 +55,7 @@ crush
 step
 trend
 lottery |  
-| bip_39_word_new_line11 | stuff
+| bip_39_word_new_line_11 | stuff
 creek
 hand
 before
@@ -66,7 +66,7 @@ step
 trend
 lottery
 business |  
-| bip_39_word_new_line12 | stuff
+| bip_39_word_new_line_12 | stuff
 creek
 hand
 before
@@ -78,34 +78,34 @@ trend
 lottery
 business
 age |  
-| bip_39_word_new_line2 | stuff
+| bip_39_word_new_line_2 | stuff
 creek |  
-| bip_39_word_new_line3 | stuff
+| bip_39_word_new_line_3 | stuff
 creek
 hand |  
-| bip_39_word_new_line4 | stuff
+| bip_39_word_new_line_4 | stuff
 creek
 hand
 before |  
-| bip_39_word_new_line5 | stuff
+| bip_39_word_new_line_5 | stuff
 creek
 hand
 before
 buzz |  
-| bip_39_word_new_line6 | stuff
+| bip_39_word_new_line_6 | stuff
 creek
 hand
 before
 buzz
 pitch |  
-| bip_39_word_new_line7 | stuff
+| bip_39_word_new_line_7 | stuff
 creek
 hand
 before
 buzz
 pitch
 crush |  
-| bip_39_word_new_line8 | stuff
+| bip_39_word_new_line_8 | stuff
 creek
 hand
 before
@@ -113,7 +113,7 @@ buzz
 pitch
 crush
 step |  
-| bip_39_word_new_line9 | stuff
+| bip_39_word_new_line_9 | stuff
 creek
 hand
 before

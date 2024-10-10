@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | duty |  
-| bip_39_word_new_br10 | duty<br>lend<br>find<br>raccoon<br>exhibit<br>tragic<br>garlic<br>salt<br>leisure<br>car |  
-| bip_39_word_new_br11 | duty<br>lend<br>find<br>raccoon<br>exhibit<br>tragic<br>garlic<br>salt<br>leisure<br>car<br>place |  
-| bip_39_word_new_br12 | duty<br>lend<br>find<br>raccoon<br>exhibit<br>tragic<br>garlic<br>salt<br>leisure<br>car<br>place<br>add |  
-| bip_39_word_new_br2 | duty<br>lend |  
-| bip_39_word_new_br3 | duty<br>lend<br>find |  
-| bip_39_word_new_br4 | duty<br>lend<br>find<br>raccoon |  
-| bip_39_word_new_br5 | duty<br>lend<br>find<br>raccoon<br>exhibit |  
-| bip_39_word_new_br6 | duty<br>lend<br>find<br>raccoon<br>exhibit<br>tragic |  
-| bip_39_word_new_br7 | duty<br>lend<br>find<br>raccoon<br>exhibit<br>tragic<br>garlic |  
-| bip_39_word_new_br8 | duty<br>lend<br>find<br>raccoon<br>exhibit<br>tragic<br>garlic<br>salt |  
-| bip_39_word_new_br9 | duty<br>lend<br>find<br>raccoon<br>exhibit<br>tragic<br>garlic<br>salt<br>leisure |  
-| bip_39_word_new_line1 | duty |  
-| bip_39_word_new_line10 | duty
+| bip_39_word_new_br_1 | duty |  
+| bip_39_word_new_br_10 | duty<br>lend<br>find<br>raccoon<br>exhibit<br>tragic<br>garlic<br>salt<br>leisure<br>car |  
+| bip_39_word_new_br_11 | duty<br>lend<br>find<br>raccoon<br>exhibit<br>tragic<br>garlic<br>salt<br>leisure<br>car<br>place |  
+| bip_39_word_new_br_12 | duty<br>lend<br>find<br>raccoon<br>exhibit<br>tragic<br>garlic<br>salt<br>leisure<br>car<br>place<br>add |  
+| bip_39_word_new_br_2 | duty<br>lend |  
+| bip_39_word_new_br_3 | duty<br>lend<br>find |  
+| bip_39_word_new_br_4 | duty<br>lend<br>find<br>raccoon |  
+| bip_39_word_new_br_5 | duty<br>lend<br>find<br>raccoon<br>exhibit |  
+| bip_39_word_new_br_6 | duty<br>lend<br>find<br>raccoon<br>exhibit<br>tragic |  
+| bip_39_word_new_br_7 | duty<br>lend<br>find<br>raccoon<br>exhibit<br>tragic<br>garlic |  
+| bip_39_word_new_br_8 | duty<br>lend<br>find<br>raccoon<br>exhibit<br>tragic<br>garlic<br>salt |  
+| bip_39_word_new_br_9 | duty<br>lend<br>find<br>raccoon<br>exhibit<br>tragic<br>garlic<br>salt<br>leisure |  
+| bip_39_word_new_line_1 | duty |  
+| bip_39_word_new_line_10 | duty
 lend
 find
 raccoon
@@ -55,7 +55,7 @@ garlic
 salt
 leisure
 car |  
-| bip_39_word_new_line11 | duty
+| bip_39_word_new_line_11 | duty
 lend
 find
 raccoon
@@ -66,7 +66,7 @@ salt
 leisure
 car
 place |  
-| bip_39_word_new_line12 | duty
+| bip_39_word_new_line_12 | duty
 lend
 find
 raccoon
@@ -78,34 +78,34 @@ leisure
 car
 place
 add |  
-| bip_39_word_new_line2 | duty
+| bip_39_word_new_line_2 | duty
 lend |  
-| bip_39_word_new_line3 | duty
+| bip_39_word_new_line_3 | duty
 lend
 find |  
-| bip_39_word_new_line4 | duty
+| bip_39_word_new_line_4 | duty
 lend
 find
 raccoon |  
-| bip_39_word_new_line5 | duty
+| bip_39_word_new_line_5 | duty
 lend
 find
 raccoon
 exhibit |  
-| bip_39_word_new_line6 | duty
+| bip_39_word_new_line_6 | duty
 lend
 find
 raccoon
 exhibit
 tragic |  
-| bip_39_word_new_line7 | duty
+| bip_39_word_new_line_7 | duty
 lend
 find
 raccoon
 exhibit
 tragic
 garlic |  
-| bip_39_word_new_line8 | duty
+| bip_39_word_new_line_8 | duty
 lend
 find
 raccoon
@@ -113,7 +113,7 @@ exhibit
 tragic
 garlic
 salt |  
-| bip_39_word_new_line9 | duty
+| bip_39_word_new_line_9 | duty
 lend
 find
 raccoon

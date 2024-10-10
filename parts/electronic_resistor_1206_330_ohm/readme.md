@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wheel |  
-| bip_39_word_new_br10 | wheel<br>force<br>off<br>purity<br>choice<br>wage<br>sell<br>subject<br>rural<br>life |  
-| bip_39_word_new_br11 | wheel<br>force<br>off<br>purity<br>choice<br>wage<br>sell<br>subject<br>rural<br>life<br>logic |  
-| bip_39_word_new_br12 | wheel<br>force<br>off<br>purity<br>choice<br>wage<br>sell<br>subject<br>rural<br>life<br>logic<br>account |  
-| bip_39_word_new_br2 | wheel<br>force |  
-| bip_39_word_new_br3 | wheel<br>force<br>off |  
-| bip_39_word_new_br4 | wheel<br>force<br>off<br>purity |  
-| bip_39_word_new_br5 | wheel<br>force<br>off<br>purity<br>choice |  
-| bip_39_word_new_br6 | wheel<br>force<br>off<br>purity<br>choice<br>wage |  
-| bip_39_word_new_br7 | wheel<br>force<br>off<br>purity<br>choice<br>wage<br>sell |  
-| bip_39_word_new_br8 | wheel<br>force<br>off<br>purity<br>choice<br>wage<br>sell<br>subject |  
-| bip_39_word_new_br9 | wheel<br>force<br>off<br>purity<br>choice<br>wage<br>sell<br>subject<br>rural |  
-| bip_39_word_new_line1 | wheel |  
-| bip_39_word_new_line10 | wheel
+| bip_39_word_new_br_1 | wheel |  
+| bip_39_word_new_br_10 | wheel<br>force<br>off<br>purity<br>choice<br>wage<br>sell<br>subject<br>rural<br>life |  
+| bip_39_word_new_br_11 | wheel<br>force<br>off<br>purity<br>choice<br>wage<br>sell<br>subject<br>rural<br>life<br>logic |  
+| bip_39_word_new_br_12 | wheel<br>force<br>off<br>purity<br>choice<br>wage<br>sell<br>subject<br>rural<br>life<br>logic<br>account |  
+| bip_39_word_new_br_2 | wheel<br>force |  
+| bip_39_word_new_br_3 | wheel<br>force<br>off |  
+| bip_39_word_new_br_4 | wheel<br>force<br>off<br>purity |  
+| bip_39_word_new_br_5 | wheel<br>force<br>off<br>purity<br>choice |  
+| bip_39_word_new_br_6 | wheel<br>force<br>off<br>purity<br>choice<br>wage |  
+| bip_39_word_new_br_7 | wheel<br>force<br>off<br>purity<br>choice<br>wage<br>sell |  
+| bip_39_word_new_br_8 | wheel<br>force<br>off<br>purity<br>choice<br>wage<br>sell<br>subject |  
+| bip_39_word_new_br_9 | wheel<br>force<br>off<br>purity<br>choice<br>wage<br>sell<br>subject<br>rural |  
+| bip_39_word_new_line_1 | wheel |  
+| bip_39_word_new_line_10 | wheel
 force
 off
 purity
@@ -55,7 +55,7 @@ sell
 subject
 rural
 life |  
-| bip_39_word_new_line11 | wheel
+| bip_39_word_new_line_11 | wheel
 force
 off
 purity
@@ -66,7 +66,7 @@ subject
 rural
 life
 logic |  
-| bip_39_word_new_line12 | wheel
+| bip_39_word_new_line_12 | wheel
 force
 off
 purity
@@ -78,34 +78,34 @@ rural
 life
 logic
 account |  
-| bip_39_word_new_line2 | wheel
+| bip_39_word_new_line_2 | wheel
 force |  
-| bip_39_word_new_line3 | wheel
+| bip_39_word_new_line_3 | wheel
 force
 off |  
-| bip_39_word_new_line4 | wheel
+| bip_39_word_new_line_4 | wheel
 force
 off
 purity |  
-| bip_39_word_new_line5 | wheel
+| bip_39_word_new_line_5 | wheel
 force
 off
 purity
 choice |  
-| bip_39_word_new_line6 | wheel
+| bip_39_word_new_line_6 | wheel
 force
 off
 purity
 choice
 wage |  
-| bip_39_word_new_line7 | wheel
+| bip_39_word_new_line_7 | wheel
 force
 off
 purity
 choice
 wage
 sell |  
-| bip_39_word_new_line8 | wheel
+| bip_39_word_new_line_8 | wheel
 force
 off
 purity
@@ -113,7 +113,7 @@ choice
 wage
 sell
 subject |  
-| bip_39_word_new_line9 | wheel
+| bip_39_word_new_line_9 | wheel
 force
 off
 purity

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | insane |  
-| bip_39_word_new_br10 | insane<br>chuckle<br>spawn<br>boss<br>horse<br>very<br>gain<br>walk<br>inmate<br>cost |  
-| bip_39_word_new_br11 | insane<br>chuckle<br>spawn<br>boss<br>horse<br>very<br>gain<br>walk<br>inmate<br>cost<br>equal |  
-| bip_39_word_new_br12 | insane<br>chuckle<br>spawn<br>boss<br>horse<br>very<br>gain<br>walk<br>inmate<br>cost<br>equal<br>alarm |  
-| bip_39_word_new_br2 | insane<br>chuckle |  
-| bip_39_word_new_br3 | insane<br>chuckle<br>spawn |  
-| bip_39_word_new_br4 | insane<br>chuckle<br>spawn<br>boss |  
-| bip_39_word_new_br5 | insane<br>chuckle<br>spawn<br>boss<br>horse |  
-| bip_39_word_new_br6 | insane<br>chuckle<br>spawn<br>boss<br>horse<br>very |  
-| bip_39_word_new_br7 | insane<br>chuckle<br>spawn<br>boss<br>horse<br>very<br>gain |  
-| bip_39_word_new_br8 | insane<br>chuckle<br>spawn<br>boss<br>horse<br>very<br>gain<br>walk |  
-| bip_39_word_new_br9 | insane<br>chuckle<br>spawn<br>boss<br>horse<br>very<br>gain<br>walk<br>inmate |  
-| bip_39_word_new_line1 | insane |  
-| bip_39_word_new_line10 | insane
+| bip_39_word_new_br_1 | insane |  
+| bip_39_word_new_br_10 | insane<br>chuckle<br>spawn<br>boss<br>horse<br>very<br>gain<br>walk<br>inmate<br>cost |  
+| bip_39_word_new_br_11 | insane<br>chuckle<br>spawn<br>boss<br>horse<br>very<br>gain<br>walk<br>inmate<br>cost<br>equal |  
+| bip_39_word_new_br_12 | insane<br>chuckle<br>spawn<br>boss<br>horse<br>very<br>gain<br>walk<br>inmate<br>cost<br>equal<br>alarm |  
+| bip_39_word_new_br_2 | insane<br>chuckle |  
+| bip_39_word_new_br_3 | insane<br>chuckle<br>spawn |  
+| bip_39_word_new_br_4 | insane<br>chuckle<br>spawn<br>boss |  
+| bip_39_word_new_br_5 | insane<br>chuckle<br>spawn<br>boss<br>horse |  
+| bip_39_word_new_br_6 | insane<br>chuckle<br>spawn<br>boss<br>horse<br>very |  
+| bip_39_word_new_br_7 | insane<br>chuckle<br>spawn<br>boss<br>horse<br>very<br>gain |  
+| bip_39_word_new_br_8 | insane<br>chuckle<br>spawn<br>boss<br>horse<br>very<br>gain<br>walk |  
+| bip_39_word_new_br_9 | insane<br>chuckle<br>spawn<br>boss<br>horse<br>very<br>gain<br>walk<br>inmate |  
+| bip_39_word_new_line_1 | insane |  
+| bip_39_word_new_line_10 | insane
 chuckle
 spawn
 boss
@@ -55,7 +55,7 @@ gain
 walk
 inmate
 cost |  
-| bip_39_word_new_line11 | insane
+| bip_39_word_new_line_11 | insane
 chuckle
 spawn
 boss
@@ -66,7 +66,7 @@ walk
 inmate
 cost
 equal |  
-| bip_39_word_new_line12 | insane
+| bip_39_word_new_line_12 | insane
 chuckle
 spawn
 boss
@@ -78,34 +78,34 @@ inmate
 cost
 equal
 alarm |  
-| bip_39_word_new_line2 | insane
+| bip_39_word_new_line_2 | insane
 chuckle |  
-| bip_39_word_new_line3 | insane
+| bip_39_word_new_line_3 | insane
 chuckle
 spawn |  
-| bip_39_word_new_line4 | insane
+| bip_39_word_new_line_4 | insane
 chuckle
 spawn
 boss |  
-| bip_39_word_new_line5 | insane
+| bip_39_word_new_line_5 | insane
 chuckle
 spawn
 boss
 horse |  
-| bip_39_word_new_line6 | insane
+| bip_39_word_new_line_6 | insane
 chuckle
 spawn
 boss
 horse
 very |  
-| bip_39_word_new_line7 | insane
+| bip_39_word_new_line_7 | insane
 chuckle
 spawn
 boss
 horse
 very
 gain |  
-| bip_39_word_new_line8 | insane
+| bip_39_word_new_line_8 | insane
 chuckle
 spawn
 boss
@@ -113,7 +113,7 @@ horse
 very
 gain
 walk |  
-| bip_39_word_new_line9 | insane
+| bip_39_word_new_line_9 | insane
 chuckle
 spawn
 boss

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | athlete |  
-| bip_39_word_new_br10 | athlete<br>budget<br>combine<br>edit<br>catalog<br>siege<br>rotate<br>lyrics<br>pride<br>donkey |  
-| bip_39_word_new_br11 | athlete<br>budget<br>combine<br>edit<br>catalog<br>siege<br>rotate<br>lyrics<br>pride<br>donkey<br>grocery |  
-| bip_39_word_new_br12 | athlete<br>budget<br>combine<br>edit<br>catalog<br>siege<br>rotate<br>lyrics<br>pride<br>donkey<br>grocery<br>ask |  
-| bip_39_word_new_br2 | athlete<br>budget |  
-| bip_39_word_new_br3 | athlete<br>budget<br>combine |  
-| bip_39_word_new_br4 | athlete<br>budget<br>combine<br>edit |  
-| bip_39_word_new_br5 | athlete<br>budget<br>combine<br>edit<br>catalog |  
-| bip_39_word_new_br6 | athlete<br>budget<br>combine<br>edit<br>catalog<br>siege |  
-| bip_39_word_new_br7 | athlete<br>budget<br>combine<br>edit<br>catalog<br>siege<br>rotate |  
-| bip_39_word_new_br8 | athlete<br>budget<br>combine<br>edit<br>catalog<br>siege<br>rotate<br>lyrics |  
-| bip_39_word_new_br9 | athlete<br>budget<br>combine<br>edit<br>catalog<br>siege<br>rotate<br>lyrics<br>pride |  
-| bip_39_word_new_line1 | athlete |  
-| bip_39_word_new_line10 | athlete
+| bip_39_word_new_br_1 | athlete |  
+| bip_39_word_new_br_10 | athlete<br>budget<br>combine<br>edit<br>catalog<br>siege<br>rotate<br>lyrics<br>pride<br>donkey |  
+| bip_39_word_new_br_11 | athlete<br>budget<br>combine<br>edit<br>catalog<br>siege<br>rotate<br>lyrics<br>pride<br>donkey<br>grocery |  
+| bip_39_word_new_br_12 | athlete<br>budget<br>combine<br>edit<br>catalog<br>siege<br>rotate<br>lyrics<br>pride<br>donkey<br>grocery<br>ask |  
+| bip_39_word_new_br_2 | athlete<br>budget |  
+| bip_39_word_new_br_3 | athlete<br>budget<br>combine |  
+| bip_39_word_new_br_4 | athlete<br>budget<br>combine<br>edit |  
+| bip_39_word_new_br_5 | athlete<br>budget<br>combine<br>edit<br>catalog |  
+| bip_39_word_new_br_6 | athlete<br>budget<br>combine<br>edit<br>catalog<br>siege |  
+| bip_39_word_new_br_7 | athlete<br>budget<br>combine<br>edit<br>catalog<br>siege<br>rotate |  
+| bip_39_word_new_br_8 | athlete<br>budget<br>combine<br>edit<br>catalog<br>siege<br>rotate<br>lyrics |  
+| bip_39_word_new_br_9 | athlete<br>budget<br>combine<br>edit<br>catalog<br>siege<br>rotate<br>lyrics<br>pride |  
+| bip_39_word_new_line_1 | athlete |  
+| bip_39_word_new_line_10 | athlete
 budget
 combine
 edit
@@ -55,7 +55,7 @@ rotate
 lyrics
 pride
 donkey |  
-| bip_39_word_new_line11 | athlete
+| bip_39_word_new_line_11 | athlete
 budget
 combine
 edit
@@ -66,7 +66,7 @@ lyrics
 pride
 donkey
 grocery |  
-| bip_39_word_new_line12 | athlete
+| bip_39_word_new_line_12 | athlete
 budget
 combine
 edit
@@ -78,34 +78,34 @@ pride
 donkey
 grocery
 ask |  
-| bip_39_word_new_line2 | athlete
+| bip_39_word_new_line_2 | athlete
 budget |  
-| bip_39_word_new_line3 | athlete
+| bip_39_word_new_line_3 | athlete
 budget
 combine |  
-| bip_39_word_new_line4 | athlete
+| bip_39_word_new_line_4 | athlete
 budget
 combine
 edit |  
-| bip_39_word_new_line5 | athlete
+| bip_39_word_new_line_5 | athlete
 budget
 combine
 edit
 catalog |  
-| bip_39_word_new_line6 | athlete
+| bip_39_word_new_line_6 | athlete
 budget
 combine
 edit
 catalog
 siege |  
-| bip_39_word_new_line7 | athlete
+| bip_39_word_new_line_7 | athlete
 budget
 combine
 edit
 catalog
 siege
 rotate |  
-| bip_39_word_new_line8 | athlete
+| bip_39_word_new_line_8 | athlete
 budget
 combine
 edit
@@ -113,7 +113,7 @@ catalog
 siege
 rotate
 lyrics |  
-| bip_39_word_new_line9 | athlete
+| bip_39_word_new_line_9 | athlete
 budget
 combine
 edit

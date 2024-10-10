@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | nuclear |  
-| bip_39_word_new_br10 | nuclear<br>slam<br>brick<br>coil<br>mistake<br>near<br>noise<br>feed<br>return<br>mandate |  
-| bip_39_word_new_br11 | nuclear<br>slam<br>brick<br>coil<br>mistake<br>near<br>noise<br>feed<br>return<br>mandate<br>negative |  
-| bip_39_word_new_br12 | nuclear<br>slam<br>brick<br>coil<br>mistake<br>near<br>noise<br>feed<br>return<br>mandate<br>negative<br>average |  
-| bip_39_word_new_br2 | nuclear<br>slam |  
-| bip_39_word_new_br3 | nuclear<br>slam<br>brick |  
-| bip_39_word_new_br4 | nuclear<br>slam<br>brick<br>coil |  
-| bip_39_word_new_br5 | nuclear<br>slam<br>brick<br>coil<br>mistake |  
-| bip_39_word_new_br6 | nuclear<br>slam<br>brick<br>coil<br>mistake<br>near |  
-| bip_39_word_new_br7 | nuclear<br>slam<br>brick<br>coil<br>mistake<br>near<br>noise |  
-| bip_39_word_new_br8 | nuclear<br>slam<br>brick<br>coil<br>mistake<br>near<br>noise<br>feed |  
-| bip_39_word_new_br9 | nuclear<br>slam<br>brick<br>coil<br>mistake<br>near<br>noise<br>feed<br>return |  
-| bip_39_word_new_line1 | nuclear |  
-| bip_39_word_new_line10 | nuclear
+| bip_39_word_new_br_1 | nuclear |  
+| bip_39_word_new_br_10 | nuclear<br>slam<br>brick<br>coil<br>mistake<br>near<br>noise<br>feed<br>return<br>mandate |  
+| bip_39_word_new_br_11 | nuclear<br>slam<br>brick<br>coil<br>mistake<br>near<br>noise<br>feed<br>return<br>mandate<br>negative |  
+| bip_39_word_new_br_12 | nuclear<br>slam<br>brick<br>coil<br>mistake<br>near<br>noise<br>feed<br>return<br>mandate<br>negative<br>average |  
+| bip_39_word_new_br_2 | nuclear<br>slam |  
+| bip_39_word_new_br_3 | nuclear<br>slam<br>brick |  
+| bip_39_word_new_br_4 | nuclear<br>slam<br>brick<br>coil |  
+| bip_39_word_new_br_5 | nuclear<br>slam<br>brick<br>coil<br>mistake |  
+| bip_39_word_new_br_6 | nuclear<br>slam<br>brick<br>coil<br>mistake<br>near |  
+| bip_39_word_new_br_7 | nuclear<br>slam<br>brick<br>coil<br>mistake<br>near<br>noise |  
+| bip_39_word_new_br_8 | nuclear<br>slam<br>brick<br>coil<br>mistake<br>near<br>noise<br>feed |  
+| bip_39_word_new_br_9 | nuclear<br>slam<br>brick<br>coil<br>mistake<br>near<br>noise<br>feed<br>return |  
+| bip_39_word_new_line_1 | nuclear |  
+| bip_39_word_new_line_10 | nuclear
 slam
 brick
 coil
@@ -55,7 +55,7 @@ noise
 feed
 return
 mandate |  
-| bip_39_word_new_line11 | nuclear
+| bip_39_word_new_line_11 | nuclear
 slam
 brick
 coil
@@ -66,7 +66,7 @@ feed
 return
 mandate
 negative |  
-| bip_39_word_new_line12 | nuclear
+| bip_39_word_new_line_12 | nuclear
 slam
 brick
 coil
@@ -78,34 +78,34 @@ return
 mandate
 negative
 average |  
-| bip_39_word_new_line2 | nuclear
+| bip_39_word_new_line_2 | nuclear
 slam |  
-| bip_39_word_new_line3 | nuclear
+| bip_39_word_new_line_3 | nuclear
 slam
 brick |  
-| bip_39_word_new_line4 | nuclear
+| bip_39_word_new_line_4 | nuclear
 slam
 brick
 coil |  
-| bip_39_word_new_line5 | nuclear
+| bip_39_word_new_line_5 | nuclear
 slam
 brick
 coil
 mistake |  
-| bip_39_word_new_line6 | nuclear
+| bip_39_word_new_line_6 | nuclear
 slam
 brick
 coil
 mistake
 near |  
-| bip_39_word_new_line7 | nuclear
+| bip_39_word_new_line_7 | nuclear
 slam
 brick
 coil
 mistake
 near
 noise |  
-| bip_39_word_new_line8 | nuclear
+| bip_39_word_new_line_8 | nuclear
 slam
 brick
 coil
@@ -113,7 +113,7 @@ mistake
 near
 noise
 feed |  
-| bip_39_word_new_line9 | nuclear
+| bip_39_word_new_line_9 | nuclear
 slam
 brick
 coil

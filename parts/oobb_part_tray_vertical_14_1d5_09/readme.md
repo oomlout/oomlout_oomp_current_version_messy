@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pipe |  
-| bip_39_word_new_br10 | pipe<br>lecture<br>coin<br>alarm<br>right<br>pizza<br>floor<br>range<br>crush<br>zebra |  
-| bip_39_word_new_br11 | pipe<br>lecture<br>coin<br>alarm<br>right<br>pizza<br>floor<br>range<br>crush<br>zebra<br>congress |  
-| bip_39_word_new_br12 | pipe<br>lecture<br>coin<br>alarm<br>right<br>pizza<br>floor<br>range<br>crush<br>zebra<br>congress<br>alcohol |  
-| bip_39_word_new_br2 | pipe<br>lecture |  
-| bip_39_word_new_br3 | pipe<br>lecture<br>coin |  
-| bip_39_word_new_br4 | pipe<br>lecture<br>coin<br>alarm |  
-| bip_39_word_new_br5 | pipe<br>lecture<br>coin<br>alarm<br>right |  
-| bip_39_word_new_br6 | pipe<br>lecture<br>coin<br>alarm<br>right<br>pizza |  
-| bip_39_word_new_br7 | pipe<br>lecture<br>coin<br>alarm<br>right<br>pizza<br>floor |  
-| bip_39_word_new_br8 | pipe<br>lecture<br>coin<br>alarm<br>right<br>pizza<br>floor<br>range |  
-| bip_39_word_new_br9 | pipe<br>lecture<br>coin<br>alarm<br>right<br>pizza<br>floor<br>range<br>crush |  
-| bip_39_word_new_line1 | pipe |  
-| bip_39_word_new_line10 | pipe
+| bip_39_word_new_br_1 | pipe |  
+| bip_39_word_new_br_10 | pipe<br>lecture<br>coin<br>alarm<br>right<br>pizza<br>floor<br>range<br>crush<br>zebra |  
+| bip_39_word_new_br_11 | pipe<br>lecture<br>coin<br>alarm<br>right<br>pizza<br>floor<br>range<br>crush<br>zebra<br>congress |  
+| bip_39_word_new_br_12 | pipe<br>lecture<br>coin<br>alarm<br>right<br>pizza<br>floor<br>range<br>crush<br>zebra<br>congress<br>alcohol |  
+| bip_39_word_new_br_2 | pipe<br>lecture |  
+| bip_39_word_new_br_3 | pipe<br>lecture<br>coin |  
+| bip_39_word_new_br_4 | pipe<br>lecture<br>coin<br>alarm |  
+| bip_39_word_new_br_5 | pipe<br>lecture<br>coin<br>alarm<br>right |  
+| bip_39_word_new_br_6 | pipe<br>lecture<br>coin<br>alarm<br>right<br>pizza |  
+| bip_39_word_new_br_7 | pipe<br>lecture<br>coin<br>alarm<br>right<br>pizza<br>floor |  
+| bip_39_word_new_br_8 | pipe<br>lecture<br>coin<br>alarm<br>right<br>pizza<br>floor<br>range |  
+| bip_39_word_new_br_9 | pipe<br>lecture<br>coin<br>alarm<br>right<br>pizza<br>floor<br>range<br>crush |  
+| bip_39_word_new_line_1 | pipe |  
+| bip_39_word_new_line_10 | pipe
 lecture
 coin
 alarm
@@ -55,7 +55,7 @@ floor
 range
 crush
 zebra |  
-| bip_39_word_new_line11 | pipe
+| bip_39_word_new_line_11 | pipe
 lecture
 coin
 alarm
@@ -66,7 +66,7 @@ range
 crush
 zebra
 congress |  
-| bip_39_word_new_line12 | pipe
+| bip_39_word_new_line_12 | pipe
 lecture
 coin
 alarm
@@ -78,34 +78,34 @@ crush
 zebra
 congress
 alcohol |  
-| bip_39_word_new_line2 | pipe
+| bip_39_word_new_line_2 | pipe
 lecture |  
-| bip_39_word_new_line3 | pipe
+| bip_39_word_new_line_3 | pipe
 lecture
 coin |  
-| bip_39_word_new_line4 | pipe
+| bip_39_word_new_line_4 | pipe
 lecture
 coin
 alarm |  
-| bip_39_word_new_line5 | pipe
+| bip_39_word_new_line_5 | pipe
 lecture
 coin
 alarm
 right |  
-| bip_39_word_new_line6 | pipe
+| bip_39_word_new_line_6 | pipe
 lecture
 coin
 alarm
 right
 pizza |  
-| bip_39_word_new_line7 | pipe
+| bip_39_word_new_line_7 | pipe
 lecture
 coin
 alarm
 right
 pizza
 floor |  
-| bip_39_word_new_line8 | pipe
+| bip_39_word_new_line_8 | pipe
 lecture
 coin
 alarm
@@ -113,7 +113,7 @@ right
 pizza
 floor
 range |  
-| bip_39_word_new_line9 | pipe
+| bip_39_word_new_line_9 | pipe
 lecture
 coin
 alarm

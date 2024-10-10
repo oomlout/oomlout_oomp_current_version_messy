@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sea |  
-| bip_39_word_new_br10 | sea<br>bullet<br>defense<br>life<br>divert<br>chuckle<br>pass<br>puzzle<br>tilt<br>arena |  
-| bip_39_word_new_br11 | sea<br>bullet<br>defense<br>life<br>divert<br>chuckle<br>pass<br>puzzle<br>tilt<br>arena<br>upon |  
-| bip_39_word_new_br12 | sea<br>bullet<br>defense<br>life<br>divert<br>chuckle<br>pass<br>puzzle<br>tilt<br>arena<br>upon<br>already |  
-| bip_39_word_new_br2 | sea<br>bullet |  
-| bip_39_word_new_br3 | sea<br>bullet<br>defense |  
-| bip_39_word_new_br4 | sea<br>bullet<br>defense<br>life |  
-| bip_39_word_new_br5 | sea<br>bullet<br>defense<br>life<br>divert |  
-| bip_39_word_new_br6 | sea<br>bullet<br>defense<br>life<br>divert<br>chuckle |  
-| bip_39_word_new_br7 | sea<br>bullet<br>defense<br>life<br>divert<br>chuckle<br>pass |  
-| bip_39_word_new_br8 | sea<br>bullet<br>defense<br>life<br>divert<br>chuckle<br>pass<br>puzzle |  
-| bip_39_word_new_br9 | sea<br>bullet<br>defense<br>life<br>divert<br>chuckle<br>pass<br>puzzle<br>tilt |  
-| bip_39_word_new_line1 | sea |  
-| bip_39_word_new_line10 | sea
+| bip_39_word_new_br_1 | sea |  
+| bip_39_word_new_br_10 | sea<br>bullet<br>defense<br>life<br>divert<br>chuckle<br>pass<br>puzzle<br>tilt<br>arena |  
+| bip_39_word_new_br_11 | sea<br>bullet<br>defense<br>life<br>divert<br>chuckle<br>pass<br>puzzle<br>tilt<br>arena<br>upon |  
+| bip_39_word_new_br_12 | sea<br>bullet<br>defense<br>life<br>divert<br>chuckle<br>pass<br>puzzle<br>tilt<br>arena<br>upon<br>already |  
+| bip_39_word_new_br_2 | sea<br>bullet |  
+| bip_39_word_new_br_3 | sea<br>bullet<br>defense |  
+| bip_39_word_new_br_4 | sea<br>bullet<br>defense<br>life |  
+| bip_39_word_new_br_5 | sea<br>bullet<br>defense<br>life<br>divert |  
+| bip_39_word_new_br_6 | sea<br>bullet<br>defense<br>life<br>divert<br>chuckle |  
+| bip_39_word_new_br_7 | sea<br>bullet<br>defense<br>life<br>divert<br>chuckle<br>pass |  
+| bip_39_word_new_br_8 | sea<br>bullet<br>defense<br>life<br>divert<br>chuckle<br>pass<br>puzzle |  
+| bip_39_word_new_br_9 | sea<br>bullet<br>defense<br>life<br>divert<br>chuckle<br>pass<br>puzzle<br>tilt |  
+| bip_39_word_new_line_1 | sea |  
+| bip_39_word_new_line_10 | sea
 bullet
 defense
 life
@@ -55,7 +55,7 @@ pass
 puzzle
 tilt
 arena |  
-| bip_39_word_new_line11 | sea
+| bip_39_word_new_line_11 | sea
 bullet
 defense
 life
@@ -66,7 +66,7 @@ puzzle
 tilt
 arena
 upon |  
-| bip_39_word_new_line12 | sea
+| bip_39_word_new_line_12 | sea
 bullet
 defense
 life
@@ -78,34 +78,34 @@ tilt
 arena
 upon
 already |  
-| bip_39_word_new_line2 | sea
+| bip_39_word_new_line_2 | sea
 bullet |  
-| bip_39_word_new_line3 | sea
+| bip_39_word_new_line_3 | sea
 bullet
 defense |  
-| bip_39_word_new_line4 | sea
+| bip_39_word_new_line_4 | sea
 bullet
 defense
 life |  
-| bip_39_word_new_line5 | sea
+| bip_39_word_new_line_5 | sea
 bullet
 defense
 life
 divert |  
-| bip_39_word_new_line6 | sea
+| bip_39_word_new_line_6 | sea
 bullet
 defense
 life
 divert
 chuckle |  
-| bip_39_word_new_line7 | sea
+| bip_39_word_new_line_7 | sea
 bullet
 defense
 life
 divert
 chuckle
 pass |  
-| bip_39_word_new_line8 | sea
+| bip_39_word_new_line_8 | sea
 bullet
 defense
 life
@@ -113,7 +113,7 @@ divert
 chuckle
 pass
 puzzle |  
-| bip_39_word_new_line9 | sea
+| bip_39_word_new_line_9 | sea
 bullet
 defense
 life

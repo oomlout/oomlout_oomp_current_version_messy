@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gadget |  
-| bip_39_word_new_br10 | gadget<br>model<br>crazy<br>fancy<br>there<br>wing<br>old<br>attend<br>later<br>shy |  
-| bip_39_word_new_br11 | gadget<br>model<br>crazy<br>fancy<br>there<br>wing<br>old<br>attend<br>later<br>shy<br>assume |  
-| bip_39_word_new_br12 | gadget<br>model<br>crazy<br>fancy<br>there<br>wing<br>old<br>attend<br>later<br>shy<br>assume<br>approve |  
-| bip_39_word_new_br2 | gadget<br>model |  
-| bip_39_word_new_br3 | gadget<br>model<br>crazy |  
-| bip_39_word_new_br4 | gadget<br>model<br>crazy<br>fancy |  
-| bip_39_word_new_br5 | gadget<br>model<br>crazy<br>fancy<br>there |  
-| bip_39_word_new_br6 | gadget<br>model<br>crazy<br>fancy<br>there<br>wing |  
-| bip_39_word_new_br7 | gadget<br>model<br>crazy<br>fancy<br>there<br>wing<br>old |  
-| bip_39_word_new_br8 | gadget<br>model<br>crazy<br>fancy<br>there<br>wing<br>old<br>attend |  
-| bip_39_word_new_br9 | gadget<br>model<br>crazy<br>fancy<br>there<br>wing<br>old<br>attend<br>later |  
-| bip_39_word_new_line1 | gadget |  
-| bip_39_word_new_line10 | gadget
+| bip_39_word_new_br_1 | gadget |  
+| bip_39_word_new_br_10 | gadget<br>model<br>crazy<br>fancy<br>there<br>wing<br>old<br>attend<br>later<br>shy |  
+| bip_39_word_new_br_11 | gadget<br>model<br>crazy<br>fancy<br>there<br>wing<br>old<br>attend<br>later<br>shy<br>assume |  
+| bip_39_word_new_br_12 | gadget<br>model<br>crazy<br>fancy<br>there<br>wing<br>old<br>attend<br>later<br>shy<br>assume<br>approve |  
+| bip_39_word_new_br_2 | gadget<br>model |  
+| bip_39_word_new_br_3 | gadget<br>model<br>crazy |  
+| bip_39_word_new_br_4 | gadget<br>model<br>crazy<br>fancy |  
+| bip_39_word_new_br_5 | gadget<br>model<br>crazy<br>fancy<br>there |  
+| bip_39_word_new_br_6 | gadget<br>model<br>crazy<br>fancy<br>there<br>wing |  
+| bip_39_word_new_br_7 | gadget<br>model<br>crazy<br>fancy<br>there<br>wing<br>old |  
+| bip_39_word_new_br_8 | gadget<br>model<br>crazy<br>fancy<br>there<br>wing<br>old<br>attend |  
+| bip_39_word_new_br_9 | gadget<br>model<br>crazy<br>fancy<br>there<br>wing<br>old<br>attend<br>later |  
+| bip_39_word_new_line_1 | gadget |  
+| bip_39_word_new_line_10 | gadget
 model
 crazy
 fancy
@@ -55,7 +55,7 @@ old
 attend
 later
 shy |  
-| bip_39_word_new_line11 | gadget
+| bip_39_word_new_line_11 | gadget
 model
 crazy
 fancy
@@ -66,7 +66,7 @@ attend
 later
 shy
 assume |  
-| bip_39_word_new_line12 | gadget
+| bip_39_word_new_line_12 | gadget
 model
 crazy
 fancy
@@ -78,34 +78,34 @@ later
 shy
 assume
 approve |  
-| bip_39_word_new_line2 | gadget
+| bip_39_word_new_line_2 | gadget
 model |  
-| bip_39_word_new_line3 | gadget
+| bip_39_word_new_line_3 | gadget
 model
 crazy |  
-| bip_39_word_new_line4 | gadget
+| bip_39_word_new_line_4 | gadget
 model
 crazy
 fancy |  
-| bip_39_word_new_line5 | gadget
+| bip_39_word_new_line_5 | gadget
 model
 crazy
 fancy
 there |  
-| bip_39_word_new_line6 | gadget
+| bip_39_word_new_line_6 | gadget
 model
 crazy
 fancy
 there
 wing |  
-| bip_39_word_new_line7 | gadget
+| bip_39_word_new_line_7 | gadget
 model
 crazy
 fancy
 there
 wing
 old |  
-| bip_39_word_new_line8 | gadget
+| bip_39_word_new_line_8 | gadget
 model
 crazy
 fancy
@@ -113,7 +113,7 @@ there
 wing
 old
 attend |  
-| bip_39_word_new_line9 | gadget
+| bip_39_word_new_line_9 | gadget
 model
 crazy
 fancy

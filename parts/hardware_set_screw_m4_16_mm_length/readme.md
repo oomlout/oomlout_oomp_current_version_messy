@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cry |  
-| bip_39_word_new_br10 | cry<br>bless<br>base<br>kitten<br>glory<br>cost<br>science<br>bag<br>prefer<br>vacant |  
-| bip_39_word_new_br11 | cry<br>bless<br>base<br>kitten<br>glory<br>cost<br>science<br>bag<br>prefer<br>vacant<br>promote |  
-| bip_39_word_new_br12 | cry<br>bless<br>base<br>kitten<br>glory<br>cost<br>science<br>bag<br>prefer<br>vacant<br>promote<br>angry |  
-| bip_39_word_new_br2 | cry<br>bless |  
-| bip_39_word_new_br3 | cry<br>bless<br>base |  
-| bip_39_word_new_br4 | cry<br>bless<br>base<br>kitten |  
-| bip_39_word_new_br5 | cry<br>bless<br>base<br>kitten<br>glory |  
-| bip_39_word_new_br6 | cry<br>bless<br>base<br>kitten<br>glory<br>cost |  
-| bip_39_word_new_br7 | cry<br>bless<br>base<br>kitten<br>glory<br>cost<br>science |  
-| bip_39_word_new_br8 | cry<br>bless<br>base<br>kitten<br>glory<br>cost<br>science<br>bag |  
-| bip_39_word_new_br9 | cry<br>bless<br>base<br>kitten<br>glory<br>cost<br>science<br>bag<br>prefer |  
-| bip_39_word_new_line1 | cry |  
-| bip_39_word_new_line10 | cry
+| bip_39_word_new_br_1 | cry |  
+| bip_39_word_new_br_10 | cry<br>bless<br>base<br>kitten<br>glory<br>cost<br>science<br>bag<br>prefer<br>vacant |  
+| bip_39_word_new_br_11 | cry<br>bless<br>base<br>kitten<br>glory<br>cost<br>science<br>bag<br>prefer<br>vacant<br>promote |  
+| bip_39_word_new_br_12 | cry<br>bless<br>base<br>kitten<br>glory<br>cost<br>science<br>bag<br>prefer<br>vacant<br>promote<br>angry |  
+| bip_39_word_new_br_2 | cry<br>bless |  
+| bip_39_word_new_br_3 | cry<br>bless<br>base |  
+| bip_39_word_new_br_4 | cry<br>bless<br>base<br>kitten |  
+| bip_39_word_new_br_5 | cry<br>bless<br>base<br>kitten<br>glory |  
+| bip_39_word_new_br_6 | cry<br>bless<br>base<br>kitten<br>glory<br>cost |  
+| bip_39_word_new_br_7 | cry<br>bless<br>base<br>kitten<br>glory<br>cost<br>science |  
+| bip_39_word_new_br_8 | cry<br>bless<br>base<br>kitten<br>glory<br>cost<br>science<br>bag |  
+| bip_39_word_new_br_9 | cry<br>bless<br>base<br>kitten<br>glory<br>cost<br>science<br>bag<br>prefer |  
+| bip_39_word_new_line_1 | cry |  
+| bip_39_word_new_line_10 | cry
 bless
 base
 kitten
@@ -55,7 +55,7 @@ science
 bag
 prefer
 vacant |  
-| bip_39_word_new_line11 | cry
+| bip_39_word_new_line_11 | cry
 bless
 base
 kitten
@@ -66,7 +66,7 @@ bag
 prefer
 vacant
 promote |  
-| bip_39_word_new_line12 | cry
+| bip_39_word_new_line_12 | cry
 bless
 base
 kitten
@@ -78,34 +78,34 @@ prefer
 vacant
 promote
 angry |  
-| bip_39_word_new_line2 | cry
+| bip_39_word_new_line_2 | cry
 bless |  
-| bip_39_word_new_line3 | cry
+| bip_39_word_new_line_3 | cry
 bless
 base |  
-| bip_39_word_new_line4 | cry
+| bip_39_word_new_line_4 | cry
 bless
 base
 kitten |  
-| bip_39_word_new_line5 | cry
+| bip_39_word_new_line_5 | cry
 bless
 base
 kitten
 glory |  
-| bip_39_word_new_line6 | cry
+| bip_39_word_new_line_6 | cry
 bless
 base
 kitten
 glory
 cost |  
-| bip_39_word_new_line7 | cry
+| bip_39_word_new_line_7 | cry
 bless
 base
 kitten
 glory
 cost
 science |  
-| bip_39_word_new_line8 | cry
+| bip_39_word_new_line_8 | cry
 bless
 base
 kitten
@@ -113,7 +113,7 @@ glory
 cost
 science
 bag |  
-| bip_39_word_new_line9 | cry
+| bip_39_word_new_line_9 | cry
 bless
 base
 kitten

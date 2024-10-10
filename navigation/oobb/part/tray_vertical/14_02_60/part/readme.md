@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dumb |  
-| bip_39_word_new_br10 | dumb<br>utility<br>shell<br>marble<br>assault<br>amateur<br>rubber<br>wrist<br>trumpet<br>cover |  
-| bip_39_word_new_br11 | dumb<br>utility<br>shell<br>marble<br>assault<br>amateur<br>rubber<br>wrist<br>trumpet<br>cover<br>boat |  
-| bip_39_word_new_br12 | dumb<br>utility<br>shell<br>marble<br>assault<br>amateur<br>rubber<br>wrist<br>trumpet<br>cover<br>boat<br>affair |  
-| bip_39_word_new_br2 | dumb<br>utility |  
-| bip_39_word_new_br3 | dumb<br>utility<br>shell |  
-| bip_39_word_new_br4 | dumb<br>utility<br>shell<br>marble |  
-| bip_39_word_new_br5 | dumb<br>utility<br>shell<br>marble<br>assault |  
-| bip_39_word_new_br6 | dumb<br>utility<br>shell<br>marble<br>assault<br>amateur |  
-| bip_39_word_new_br7 | dumb<br>utility<br>shell<br>marble<br>assault<br>amateur<br>rubber |  
-| bip_39_word_new_br8 | dumb<br>utility<br>shell<br>marble<br>assault<br>amateur<br>rubber<br>wrist |  
-| bip_39_word_new_br9 | dumb<br>utility<br>shell<br>marble<br>assault<br>amateur<br>rubber<br>wrist<br>trumpet |  
-| bip_39_word_new_line1 | dumb |  
-| bip_39_word_new_line10 | dumb
+| bip_39_word_new_br_1 | dumb |  
+| bip_39_word_new_br_10 | dumb<br>utility<br>shell<br>marble<br>assault<br>amateur<br>rubber<br>wrist<br>trumpet<br>cover |  
+| bip_39_word_new_br_11 | dumb<br>utility<br>shell<br>marble<br>assault<br>amateur<br>rubber<br>wrist<br>trumpet<br>cover<br>boat |  
+| bip_39_word_new_br_12 | dumb<br>utility<br>shell<br>marble<br>assault<br>amateur<br>rubber<br>wrist<br>trumpet<br>cover<br>boat<br>affair |  
+| bip_39_word_new_br_2 | dumb<br>utility |  
+| bip_39_word_new_br_3 | dumb<br>utility<br>shell |  
+| bip_39_word_new_br_4 | dumb<br>utility<br>shell<br>marble |  
+| bip_39_word_new_br_5 | dumb<br>utility<br>shell<br>marble<br>assault |  
+| bip_39_word_new_br_6 | dumb<br>utility<br>shell<br>marble<br>assault<br>amateur |  
+| bip_39_word_new_br_7 | dumb<br>utility<br>shell<br>marble<br>assault<br>amateur<br>rubber |  
+| bip_39_word_new_br_8 | dumb<br>utility<br>shell<br>marble<br>assault<br>amateur<br>rubber<br>wrist |  
+| bip_39_word_new_br_9 | dumb<br>utility<br>shell<br>marble<br>assault<br>amateur<br>rubber<br>wrist<br>trumpet |  
+| bip_39_word_new_line_1 | dumb |  
+| bip_39_word_new_line_10 | dumb
 utility
 shell
 marble
@@ -55,7 +55,7 @@ rubber
 wrist
 trumpet
 cover |  
-| bip_39_word_new_line11 | dumb
+| bip_39_word_new_line_11 | dumb
 utility
 shell
 marble
@@ -66,7 +66,7 @@ wrist
 trumpet
 cover
 boat |  
-| bip_39_word_new_line12 | dumb
+| bip_39_word_new_line_12 | dumb
 utility
 shell
 marble
@@ -78,34 +78,34 @@ trumpet
 cover
 boat
 affair |  
-| bip_39_word_new_line2 | dumb
+| bip_39_word_new_line_2 | dumb
 utility |  
-| bip_39_word_new_line3 | dumb
+| bip_39_word_new_line_3 | dumb
 utility
 shell |  
-| bip_39_word_new_line4 | dumb
+| bip_39_word_new_line_4 | dumb
 utility
 shell
 marble |  
-| bip_39_word_new_line5 | dumb
+| bip_39_word_new_line_5 | dumb
 utility
 shell
 marble
 assault |  
-| bip_39_word_new_line6 | dumb
+| bip_39_word_new_line_6 | dumb
 utility
 shell
 marble
 assault
 amateur |  
-| bip_39_word_new_line7 | dumb
+| bip_39_word_new_line_7 | dumb
 utility
 shell
 marble
 assault
 amateur
 rubber |  
-| bip_39_word_new_line8 | dumb
+| bip_39_word_new_line_8 | dumb
 utility
 shell
 marble
@@ -113,7 +113,7 @@ assault
 amateur
 rubber
 wrist |  
-| bip_39_word_new_line9 | dumb
+| bip_39_word_new_line_9 | dumb
 utility
 shell
 marble

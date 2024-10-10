@@ -1,17 +1,17 @@
-bip_39_word_new_br1: meat
-bip_39_word_new_br10: meat<br>plate<br>soon<br>dice<br>much<br>kid<br>winter<br>slight<br>cruise<br>spread
-bip_39_word_new_br11: meat<br>plate<br>soon<br>dice<br>much<br>kid<br>winter<br>slight<br>cruise<br>spread<br>bacon
-bip_39_word_new_br12: meat<br>plate<br>soon<br>dice<br>much<br>kid<br>winter<br>slight<br>cruise<br>spread<br>bacon<br>ask
-bip_39_word_new_br2: meat<br>plate
-bip_39_word_new_br3: meat<br>plate<br>soon
-bip_39_word_new_br4: meat<br>plate<br>soon<br>dice
-bip_39_word_new_br5: meat<br>plate<br>soon<br>dice<br>much
-bip_39_word_new_br6: meat<br>plate<br>soon<br>dice<br>much<br>kid
-bip_39_word_new_br7: meat<br>plate<br>soon<br>dice<br>much<br>kid<br>winter
-bip_39_word_new_br8: meat<br>plate<br>soon<br>dice<br>much<br>kid<br>winter<br>slight
-bip_39_word_new_br9: meat<br>plate<br>soon<br>dice<br>much<br>kid<br>winter<br>slight<br>cruise
-bip_39_word_new_line1: meat
-bip_39_word_new_line10: 'meat
+bip_39_word_new_br_1: meat
+bip_39_word_new_br_10: meat<br>plate<br>soon<br>dice<br>much<br>kid<br>winter<br>slight<br>cruise<br>spread
+bip_39_word_new_br_11: meat<br>plate<br>soon<br>dice<br>much<br>kid<br>winter<br>slight<br>cruise<br>spread<br>bacon
+bip_39_word_new_br_12: meat<br>plate<br>soon<br>dice<br>much<br>kid<br>winter<br>slight<br>cruise<br>spread<br>bacon<br>ask
+bip_39_word_new_br_2: meat<br>plate
+bip_39_word_new_br_3: meat<br>plate<br>soon
+bip_39_word_new_br_4: meat<br>plate<br>soon<br>dice
+bip_39_word_new_br_5: meat<br>plate<br>soon<br>dice<br>much
+bip_39_word_new_br_6: meat<br>plate<br>soon<br>dice<br>much<br>kid
+bip_39_word_new_br_7: meat<br>plate<br>soon<br>dice<br>much<br>kid<br>winter
+bip_39_word_new_br_8: meat<br>plate<br>soon<br>dice<br>much<br>kid<br>winter<br>slight
+bip_39_word_new_br_9: meat<br>plate<br>soon<br>dice<br>much<br>kid<br>winter<br>slight<br>cruise
+bip_39_word_new_line_1: meat
+bip_39_word_new_line_10: 'meat
 
   plate
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'meat
   cruise
 
   spread'
-bip_39_word_new_line11: 'meat
+bip_39_word_new_line_11: 'meat
 
   plate
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'meat
   spread
 
   bacon'
-bip_39_word_new_line12: 'meat
+bip_39_word_new_line_12: 'meat
 
   plate
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'meat
   bacon
 
   ask'
-bip_39_word_new_line2: 'meat
+bip_39_word_new_line_2: 'meat
 
   plate'
-bip_39_word_new_line3: 'meat
+bip_39_word_new_line_3: 'meat
 
   plate
 
   soon'
-bip_39_word_new_line4: 'meat
+bip_39_word_new_line_4: 'meat
 
   plate
 
   soon
 
   dice'
-bip_39_word_new_line5: 'meat
+bip_39_word_new_line_5: 'meat
 
   plate
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'meat
   dice
 
   much'
-bip_39_word_new_line6: 'meat
+bip_39_word_new_line_6: 'meat
 
   plate
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'meat
   much
 
   kid'
-bip_39_word_new_line7: 'meat
+bip_39_word_new_line_7: 'meat
 
   plate
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'meat
   kid
 
   winter'
-bip_39_word_new_line8: 'meat
+bip_39_word_new_line_8: 'meat
 
   plate
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'meat
   winter
 
   slight'
-bip_39_word_new_line9: 'meat
+bip_39_word_new_line_9: 'meat
 
   plate
 

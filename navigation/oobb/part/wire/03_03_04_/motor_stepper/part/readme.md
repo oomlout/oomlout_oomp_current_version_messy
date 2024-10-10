@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | also |  
-| bip_39_word_new_br10 | also<br>ahead<br>praise<br>gospel<br>inch<br>purse<br>anxiety<br>since<br>matter<br>wheel |  
-| bip_39_word_new_br11 | also<br>ahead<br>praise<br>gospel<br>inch<br>purse<br>anxiety<br>since<br>matter<br>wheel<br>system |  
-| bip_39_word_new_br12 | also<br>ahead<br>praise<br>gospel<br>inch<br>purse<br>anxiety<br>since<br>matter<br>wheel<br>system<br>achieve |  
-| bip_39_word_new_br2 | also<br>ahead |  
-| bip_39_word_new_br3 | also<br>ahead<br>praise |  
-| bip_39_word_new_br4 | also<br>ahead<br>praise<br>gospel |  
-| bip_39_word_new_br5 | also<br>ahead<br>praise<br>gospel<br>inch |  
-| bip_39_word_new_br6 | also<br>ahead<br>praise<br>gospel<br>inch<br>purse |  
-| bip_39_word_new_br7 | also<br>ahead<br>praise<br>gospel<br>inch<br>purse<br>anxiety |  
-| bip_39_word_new_br8 | also<br>ahead<br>praise<br>gospel<br>inch<br>purse<br>anxiety<br>since |  
-| bip_39_word_new_br9 | also<br>ahead<br>praise<br>gospel<br>inch<br>purse<br>anxiety<br>since<br>matter |  
-| bip_39_word_new_line1 | also |  
-| bip_39_word_new_line10 | also
+| bip_39_word_new_br_1 | also |  
+| bip_39_word_new_br_10 | also<br>ahead<br>praise<br>gospel<br>inch<br>purse<br>anxiety<br>since<br>matter<br>wheel |  
+| bip_39_word_new_br_11 | also<br>ahead<br>praise<br>gospel<br>inch<br>purse<br>anxiety<br>since<br>matter<br>wheel<br>system |  
+| bip_39_word_new_br_12 | also<br>ahead<br>praise<br>gospel<br>inch<br>purse<br>anxiety<br>since<br>matter<br>wheel<br>system<br>achieve |  
+| bip_39_word_new_br_2 | also<br>ahead |  
+| bip_39_word_new_br_3 | also<br>ahead<br>praise |  
+| bip_39_word_new_br_4 | also<br>ahead<br>praise<br>gospel |  
+| bip_39_word_new_br_5 | also<br>ahead<br>praise<br>gospel<br>inch |  
+| bip_39_word_new_br_6 | also<br>ahead<br>praise<br>gospel<br>inch<br>purse |  
+| bip_39_word_new_br_7 | also<br>ahead<br>praise<br>gospel<br>inch<br>purse<br>anxiety |  
+| bip_39_word_new_br_8 | also<br>ahead<br>praise<br>gospel<br>inch<br>purse<br>anxiety<br>since |  
+| bip_39_word_new_br_9 | also<br>ahead<br>praise<br>gospel<br>inch<br>purse<br>anxiety<br>since<br>matter |  
+| bip_39_word_new_line_1 | also |  
+| bip_39_word_new_line_10 | also
 ahead
 praise
 gospel
@@ -55,7 +55,7 @@ anxiety
 since
 matter
 wheel |  
-| bip_39_word_new_line11 | also
+| bip_39_word_new_line_11 | also
 ahead
 praise
 gospel
@@ -66,7 +66,7 @@ since
 matter
 wheel
 system |  
-| bip_39_word_new_line12 | also
+| bip_39_word_new_line_12 | also
 ahead
 praise
 gospel
@@ -78,34 +78,34 @@ matter
 wheel
 system
 achieve |  
-| bip_39_word_new_line2 | also
+| bip_39_word_new_line_2 | also
 ahead |  
-| bip_39_word_new_line3 | also
+| bip_39_word_new_line_3 | also
 ahead
 praise |  
-| bip_39_word_new_line4 | also
+| bip_39_word_new_line_4 | also
 ahead
 praise
 gospel |  
-| bip_39_word_new_line5 | also
+| bip_39_word_new_line_5 | also
 ahead
 praise
 gospel
 inch |  
-| bip_39_word_new_line6 | also
+| bip_39_word_new_line_6 | also
 ahead
 praise
 gospel
 inch
 purse |  
-| bip_39_word_new_line7 | also
+| bip_39_word_new_line_7 | also
 ahead
 praise
 gospel
 inch
 purse
 anxiety |  
-| bip_39_word_new_line8 | also
+| bip_39_word_new_line_8 | also
 ahead
 praise
 gospel
@@ -113,7 +113,7 @@ inch
 purse
 anxiety
 since |  
-| bip_39_word_new_line9 | also
+| bip_39_word_new_line_9 | also
 ahead
 praise
 gospel

@@ -1,17 +1,17 @@
-bip_39_word_new_br1: mirror
-bip_39_word_new_br10: mirror<br>gym<br>fork<br>wrist<br>humble<br>adapt<br>attack<br>company<br>roast<br>solar
-bip_39_word_new_br11: mirror<br>gym<br>fork<br>wrist<br>humble<br>adapt<br>attack<br>company<br>roast<br>solar<br>trial
-bip_39_word_new_br12: mirror<br>gym<br>fork<br>wrist<br>humble<br>adapt<br>attack<br>company<br>roast<br>solar<br>trial<br>amount
-bip_39_word_new_br2: mirror<br>gym
-bip_39_word_new_br3: mirror<br>gym<br>fork
-bip_39_word_new_br4: mirror<br>gym<br>fork<br>wrist
-bip_39_word_new_br5: mirror<br>gym<br>fork<br>wrist<br>humble
-bip_39_word_new_br6: mirror<br>gym<br>fork<br>wrist<br>humble<br>adapt
-bip_39_word_new_br7: mirror<br>gym<br>fork<br>wrist<br>humble<br>adapt<br>attack
-bip_39_word_new_br8: mirror<br>gym<br>fork<br>wrist<br>humble<br>adapt<br>attack<br>company
-bip_39_word_new_br9: mirror<br>gym<br>fork<br>wrist<br>humble<br>adapt<br>attack<br>company<br>roast
-bip_39_word_new_line1: mirror
-bip_39_word_new_line10: 'mirror
+bip_39_word_new_br_1: mirror
+bip_39_word_new_br_10: mirror<br>gym<br>fork<br>wrist<br>humble<br>adapt<br>attack<br>company<br>roast<br>solar
+bip_39_word_new_br_11: mirror<br>gym<br>fork<br>wrist<br>humble<br>adapt<br>attack<br>company<br>roast<br>solar<br>trial
+bip_39_word_new_br_12: mirror<br>gym<br>fork<br>wrist<br>humble<br>adapt<br>attack<br>company<br>roast<br>solar<br>trial<br>amount
+bip_39_word_new_br_2: mirror<br>gym
+bip_39_word_new_br_3: mirror<br>gym<br>fork
+bip_39_word_new_br_4: mirror<br>gym<br>fork<br>wrist
+bip_39_word_new_br_5: mirror<br>gym<br>fork<br>wrist<br>humble
+bip_39_word_new_br_6: mirror<br>gym<br>fork<br>wrist<br>humble<br>adapt
+bip_39_word_new_br_7: mirror<br>gym<br>fork<br>wrist<br>humble<br>adapt<br>attack
+bip_39_word_new_br_8: mirror<br>gym<br>fork<br>wrist<br>humble<br>adapt<br>attack<br>company
+bip_39_word_new_br_9: mirror<br>gym<br>fork<br>wrist<br>humble<br>adapt<br>attack<br>company<br>roast
+bip_39_word_new_line_1: mirror
+bip_39_word_new_line_10: 'mirror
 
   gym
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'mirror
   roast
 
   solar'
-bip_39_word_new_line11: 'mirror
+bip_39_word_new_line_11: 'mirror
 
   gym
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'mirror
   solar
 
   trial'
-bip_39_word_new_line12: 'mirror
+bip_39_word_new_line_12: 'mirror
 
   gym
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'mirror
   trial
 
   amount'
-bip_39_word_new_line2: 'mirror
+bip_39_word_new_line_2: 'mirror
 
   gym'
-bip_39_word_new_line3: 'mirror
+bip_39_word_new_line_3: 'mirror
 
   gym
 
   fork'
-bip_39_word_new_line4: 'mirror
+bip_39_word_new_line_4: 'mirror
 
   gym
 
   fork
 
   wrist'
-bip_39_word_new_line5: 'mirror
+bip_39_word_new_line_5: 'mirror
 
   gym
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'mirror
   wrist
 
   humble'
-bip_39_word_new_line6: 'mirror
+bip_39_word_new_line_6: 'mirror
 
   gym
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'mirror
   humble
 
   adapt'
-bip_39_word_new_line7: 'mirror
+bip_39_word_new_line_7: 'mirror
 
   gym
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'mirror
   adapt
 
   attack'
-bip_39_word_new_line8: 'mirror
+bip_39_word_new_line_8: 'mirror
 
   gym
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'mirror
   attack
 
   company'
-bip_39_word_new_line9: 'mirror
+bip_39_word_new_line_9: 'mirror
 
   gym
 

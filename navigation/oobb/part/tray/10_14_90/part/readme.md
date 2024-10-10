@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | exact |  
-| bip_39_word_new_br10 | exact<br>purity<br>toy<br>attend<br>clap<br>boy<br>shift<br>enable<br>cliff<br>program |  
-| bip_39_word_new_br11 | exact<br>purity<br>toy<br>attend<br>clap<br>boy<br>shift<br>enable<br>cliff<br>program<br>thrive |  
-| bip_39_word_new_br12 | exact<br>purity<br>toy<br>attend<br>clap<br>boy<br>shift<br>enable<br>cliff<br>program<br>thrive<br>avocado |  
-| bip_39_word_new_br2 | exact<br>purity |  
-| bip_39_word_new_br3 | exact<br>purity<br>toy |  
-| bip_39_word_new_br4 | exact<br>purity<br>toy<br>attend |  
-| bip_39_word_new_br5 | exact<br>purity<br>toy<br>attend<br>clap |  
-| bip_39_word_new_br6 | exact<br>purity<br>toy<br>attend<br>clap<br>boy |  
-| bip_39_word_new_br7 | exact<br>purity<br>toy<br>attend<br>clap<br>boy<br>shift |  
-| bip_39_word_new_br8 | exact<br>purity<br>toy<br>attend<br>clap<br>boy<br>shift<br>enable |  
-| bip_39_word_new_br9 | exact<br>purity<br>toy<br>attend<br>clap<br>boy<br>shift<br>enable<br>cliff |  
-| bip_39_word_new_line1 | exact |  
-| bip_39_word_new_line10 | exact
+| bip_39_word_new_br_1 | exact |  
+| bip_39_word_new_br_10 | exact<br>purity<br>toy<br>attend<br>clap<br>boy<br>shift<br>enable<br>cliff<br>program |  
+| bip_39_word_new_br_11 | exact<br>purity<br>toy<br>attend<br>clap<br>boy<br>shift<br>enable<br>cliff<br>program<br>thrive |  
+| bip_39_word_new_br_12 | exact<br>purity<br>toy<br>attend<br>clap<br>boy<br>shift<br>enable<br>cliff<br>program<br>thrive<br>avocado |  
+| bip_39_word_new_br_2 | exact<br>purity |  
+| bip_39_word_new_br_3 | exact<br>purity<br>toy |  
+| bip_39_word_new_br_4 | exact<br>purity<br>toy<br>attend |  
+| bip_39_word_new_br_5 | exact<br>purity<br>toy<br>attend<br>clap |  
+| bip_39_word_new_br_6 | exact<br>purity<br>toy<br>attend<br>clap<br>boy |  
+| bip_39_word_new_br_7 | exact<br>purity<br>toy<br>attend<br>clap<br>boy<br>shift |  
+| bip_39_word_new_br_8 | exact<br>purity<br>toy<br>attend<br>clap<br>boy<br>shift<br>enable |  
+| bip_39_word_new_br_9 | exact<br>purity<br>toy<br>attend<br>clap<br>boy<br>shift<br>enable<br>cliff |  
+| bip_39_word_new_line_1 | exact |  
+| bip_39_word_new_line_10 | exact
 purity
 toy
 attend
@@ -55,7 +55,7 @@ shift
 enable
 cliff
 program |  
-| bip_39_word_new_line11 | exact
+| bip_39_word_new_line_11 | exact
 purity
 toy
 attend
@@ -66,7 +66,7 @@ enable
 cliff
 program
 thrive |  
-| bip_39_word_new_line12 | exact
+| bip_39_word_new_line_12 | exact
 purity
 toy
 attend
@@ -78,34 +78,34 @@ cliff
 program
 thrive
 avocado |  
-| bip_39_word_new_line2 | exact
+| bip_39_word_new_line_2 | exact
 purity |  
-| bip_39_word_new_line3 | exact
+| bip_39_word_new_line_3 | exact
 purity
 toy |  
-| bip_39_word_new_line4 | exact
+| bip_39_word_new_line_4 | exact
 purity
 toy
 attend |  
-| bip_39_word_new_line5 | exact
+| bip_39_word_new_line_5 | exact
 purity
 toy
 attend
 clap |  
-| bip_39_word_new_line6 | exact
+| bip_39_word_new_line_6 | exact
 purity
 toy
 attend
 clap
 boy |  
-| bip_39_word_new_line7 | exact
+| bip_39_word_new_line_7 | exact
 purity
 toy
 attend
 clap
 boy
 shift |  
-| bip_39_word_new_line8 | exact
+| bip_39_word_new_line_8 | exact
 purity
 toy
 attend
@@ -113,7 +113,7 @@ clap
 boy
 shift
 enable |  
-| bip_39_word_new_line9 | exact
+| bip_39_word_new_line_9 | exact
 purity
 toy
 attend

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bridge |  
-| bip_39_word_new_br10 | bridge<br>shell<br>chair<br>have<br>narrow<br>vintage<br>helmet<br>key<br>absent<br>resource |  
-| bip_39_word_new_br11 | bridge<br>shell<br>chair<br>have<br>narrow<br>vintage<br>helmet<br>key<br>absent<br>resource<br>feature |  
-| bip_39_word_new_br12 | bridge<br>shell<br>chair<br>have<br>narrow<br>vintage<br>helmet<br>key<br>absent<br>resource<br>feature<br>age |  
-| bip_39_word_new_br2 | bridge<br>shell |  
-| bip_39_word_new_br3 | bridge<br>shell<br>chair |  
-| bip_39_word_new_br4 | bridge<br>shell<br>chair<br>have |  
-| bip_39_word_new_br5 | bridge<br>shell<br>chair<br>have<br>narrow |  
-| bip_39_word_new_br6 | bridge<br>shell<br>chair<br>have<br>narrow<br>vintage |  
-| bip_39_word_new_br7 | bridge<br>shell<br>chair<br>have<br>narrow<br>vintage<br>helmet |  
-| bip_39_word_new_br8 | bridge<br>shell<br>chair<br>have<br>narrow<br>vintage<br>helmet<br>key |  
-| bip_39_word_new_br9 | bridge<br>shell<br>chair<br>have<br>narrow<br>vintage<br>helmet<br>key<br>absent |  
-| bip_39_word_new_line1 | bridge |  
-| bip_39_word_new_line10 | bridge
+| bip_39_word_new_br_1 | bridge |  
+| bip_39_word_new_br_10 | bridge<br>shell<br>chair<br>have<br>narrow<br>vintage<br>helmet<br>key<br>absent<br>resource |  
+| bip_39_word_new_br_11 | bridge<br>shell<br>chair<br>have<br>narrow<br>vintage<br>helmet<br>key<br>absent<br>resource<br>feature |  
+| bip_39_word_new_br_12 | bridge<br>shell<br>chair<br>have<br>narrow<br>vintage<br>helmet<br>key<br>absent<br>resource<br>feature<br>age |  
+| bip_39_word_new_br_2 | bridge<br>shell |  
+| bip_39_word_new_br_3 | bridge<br>shell<br>chair |  
+| bip_39_word_new_br_4 | bridge<br>shell<br>chair<br>have |  
+| bip_39_word_new_br_5 | bridge<br>shell<br>chair<br>have<br>narrow |  
+| bip_39_word_new_br_6 | bridge<br>shell<br>chair<br>have<br>narrow<br>vintage |  
+| bip_39_word_new_br_7 | bridge<br>shell<br>chair<br>have<br>narrow<br>vintage<br>helmet |  
+| bip_39_word_new_br_8 | bridge<br>shell<br>chair<br>have<br>narrow<br>vintage<br>helmet<br>key |  
+| bip_39_word_new_br_9 | bridge<br>shell<br>chair<br>have<br>narrow<br>vintage<br>helmet<br>key<br>absent |  
+| bip_39_word_new_line_1 | bridge |  
+| bip_39_word_new_line_10 | bridge
 shell
 chair
 have
@@ -55,7 +55,7 @@ helmet
 key
 absent
 resource |  
-| bip_39_word_new_line11 | bridge
+| bip_39_word_new_line_11 | bridge
 shell
 chair
 have
@@ -66,7 +66,7 @@ key
 absent
 resource
 feature |  
-| bip_39_word_new_line12 | bridge
+| bip_39_word_new_line_12 | bridge
 shell
 chair
 have
@@ -78,34 +78,34 @@ absent
 resource
 feature
 age |  
-| bip_39_word_new_line2 | bridge
+| bip_39_word_new_line_2 | bridge
 shell |  
-| bip_39_word_new_line3 | bridge
+| bip_39_word_new_line_3 | bridge
 shell
 chair |  
-| bip_39_word_new_line4 | bridge
+| bip_39_word_new_line_4 | bridge
 shell
 chair
 have |  
-| bip_39_word_new_line5 | bridge
+| bip_39_word_new_line_5 | bridge
 shell
 chair
 have
 narrow |  
-| bip_39_word_new_line6 | bridge
+| bip_39_word_new_line_6 | bridge
 shell
 chair
 have
 narrow
 vintage |  
-| bip_39_word_new_line7 | bridge
+| bip_39_word_new_line_7 | bridge
 shell
 chair
 have
 narrow
 vintage
 helmet |  
-| bip_39_word_new_line8 | bridge
+| bip_39_word_new_line_8 | bridge
 shell
 chair
 have
@@ -113,7 +113,7 @@ narrow
 vintage
 helmet
 key |  
-| bip_39_word_new_line9 | bridge
+| bip_39_word_new_line_9 | bridge
 shell
 chair
 have

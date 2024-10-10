@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | lazy |  
-| bip_39_word_new_br10 | lazy<br>draft<br>garden<br>spot<br>odor<br>loan<br>guide<br>castle<br>spider<br>arena |  
-| bip_39_word_new_br11 | lazy<br>draft<br>garden<br>spot<br>odor<br>loan<br>guide<br>castle<br>spider<br>arena<br>fringe |  
-| bip_39_word_new_br12 | lazy<br>draft<br>garden<br>spot<br>odor<br>loan<br>guide<br>castle<br>spider<br>arena<br>fringe<br>alpha |  
-| bip_39_word_new_br2 | lazy<br>draft |  
-| bip_39_word_new_br3 | lazy<br>draft<br>garden |  
-| bip_39_word_new_br4 | lazy<br>draft<br>garden<br>spot |  
-| bip_39_word_new_br5 | lazy<br>draft<br>garden<br>spot<br>odor |  
-| bip_39_word_new_br6 | lazy<br>draft<br>garden<br>spot<br>odor<br>loan |  
-| bip_39_word_new_br7 | lazy<br>draft<br>garden<br>spot<br>odor<br>loan<br>guide |  
-| bip_39_word_new_br8 | lazy<br>draft<br>garden<br>spot<br>odor<br>loan<br>guide<br>castle |  
-| bip_39_word_new_br9 | lazy<br>draft<br>garden<br>spot<br>odor<br>loan<br>guide<br>castle<br>spider |  
-| bip_39_word_new_line1 | lazy |  
-| bip_39_word_new_line10 | lazy
+| bip_39_word_new_br_1 | lazy |  
+| bip_39_word_new_br_10 | lazy<br>draft<br>garden<br>spot<br>odor<br>loan<br>guide<br>castle<br>spider<br>arena |  
+| bip_39_word_new_br_11 | lazy<br>draft<br>garden<br>spot<br>odor<br>loan<br>guide<br>castle<br>spider<br>arena<br>fringe |  
+| bip_39_word_new_br_12 | lazy<br>draft<br>garden<br>spot<br>odor<br>loan<br>guide<br>castle<br>spider<br>arena<br>fringe<br>alpha |  
+| bip_39_word_new_br_2 | lazy<br>draft |  
+| bip_39_word_new_br_3 | lazy<br>draft<br>garden |  
+| bip_39_word_new_br_4 | lazy<br>draft<br>garden<br>spot |  
+| bip_39_word_new_br_5 | lazy<br>draft<br>garden<br>spot<br>odor |  
+| bip_39_word_new_br_6 | lazy<br>draft<br>garden<br>spot<br>odor<br>loan |  
+| bip_39_word_new_br_7 | lazy<br>draft<br>garden<br>spot<br>odor<br>loan<br>guide |  
+| bip_39_word_new_br_8 | lazy<br>draft<br>garden<br>spot<br>odor<br>loan<br>guide<br>castle |  
+| bip_39_word_new_br_9 | lazy<br>draft<br>garden<br>spot<br>odor<br>loan<br>guide<br>castle<br>spider |  
+| bip_39_word_new_line_1 | lazy |  
+| bip_39_word_new_line_10 | lazy
 draft
 garden
 spot
@@ -55,7 +55,7 @@ guide
 castle
 spider
 arena |  
-| bip_39_word_new_line11 | lazy
+| bip_39_word_new_line_11 | lazy
 draft
 garden
 spot
@@ -66,7 +66,7 @@ castle
 spider
 arena
 fringe |  
-| bip_39_word_new_line12 | lazy
+| bip_39_word_new_line_12 | lazy
 draft
 garden
 spot
@@ -78,34 +78,34 @@ spider
 arena
 fringe
 alpha |  
-| bip_39_word_new_line2 | lazy
+| bip_39_word_new_line_2 | lazy
 draft |  
-| bip_39_word_new_line3 | lazy
+| bip_39_word_new_line_3 | lazy
 draft
 garden |  
-| bip_39_word_new_line4 | lazy
+| bip_39_word_new_line_4 | lazy
 draft
 garden
 spot |  
-| bip_39_word_new_line5 | lazy
+| bip_39_word_new_line_5 | lazy
 draft
 garden
 spot
 odor |  
-| bip_39_word_new_line6 | lazy
+| bip_39_word_new_line_6 | lazy
 draft
 garden
 spot
 odor
 loan |  
-| bip_39_word_new_line7 | lazy
+| bip_39_word_new_line_7 | lazy
 draft
 garden
 spot
 odor
 loan
 guide |  
-| bip_39_word_new_line8 | lazy
+| bip_39_word_new_line_8 | lazy
 draft
 garden
 spot
@@ -113,7 +113,7 @@ odor
 loan
 guide
 castle |  
-| bip_39_word_new_line9 | lazy
+| bip_39_word_new_line_9 | lazy
 draft
 garden
 spot

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wire |  
-| bip_39_word_new_br10 | wire<br>chaos<br>opera<br>blur<br>faculty<br>twin<br>run<br>uniform<br>trip<br>neck |  
-| bip_39_word_new_br11 | wire<br>chaos<br>opera<br>blur<br>faculty<br>twin<br>run<br>uniform<br>trip<br>neck<br>frequent |  
-| bip_39_word_new_br12 | wire<br>chaos<br>opera<br>blur<br>faculty<br>twin<br>run<br>uniform<br>trip<br>neck<br>frequent<br>attack |  
-| bip_39_word_new_br2 | wire<br>chaos |  
-| bip_39_word_new_br3 | wire<br>chaos<br>opera |  
-| bip_39_word_new_br4 | wire<br>chaos<br>opera<br>blur |  
-| bip_39_word_new_br5 | wire<br>chaos<br>opera<br>blur<br>faculty |  
-| bip_39_word_new_br6 | wire<br>chaos<br>opera<br>blur<br>faculty<br>twin |  
-| bip_39_word_new_br7 | wire<br>chaos<br>opera<br>blur<br>faculty<br>twin<br>run |  
-| bip_39_word_new_br8 | wire<br>chaos<br>opera<br>blur<br>faculty<br>twin<br>run<br>uniform |  
-| bip_39_word_new_br9 | wire<br>chaos<br>opera<br>blur<br>faculty<br>twin<br>run<br>uniform<br>trip |  
-| bip_39_word_new_line1 | wire |  
-| bip_39_word_new_line10 | wire
+| bip_39_word_new_br_1 | wire |  
+| bip_39_word_new_br_10 | wire<br>chaos<br>opera<br>blur<br>faculty<br>twin<br>run<br>uniform<br>trip<br>neck |  
+| bip_39_word_new_br_11 | wire<br>chaos<br>opera<br>blur<br>faculty<br>twin<br>run<br>uniform<br>trip<br>neck<br>frequent |  
+| bip_39_word_new_br_12 | wire<br>chaos<br>opera<br>blur<br>faculty<br>twin<br>run<br>uniform<br>trip<br>neck<br>frequent<br>attack |  
+| bip_39_word_new_br_2 | wire<br>chaos |  
+| bip_39_word_new_br_3 | wire<br>chaos<br>opera |  
+| bip_39_word_new_br_4 | wire<br>chaos<br>opera<br>blur |  
+| bip_39_word_new_br_5 | wire<br>chaos<br>opera<br>blur<br>faculty |  
+| bip_39_word_new_br_6 | wire<br>chaos<br>opera<br>blur<br>faculty<br>twin |  
+| bip_39_word_new_br_7 | wire<br>chaos<br>opera<br>blur<br>faculty<br>twin<br>run |  
+| bip_39_word_new_br_8 | wire<br>chaos<br>opera<br>blur<br>faculty<br>twin<br>run<br>uniform |  
+| bip_39_word_new_br_9 | wire<br>chaos<br>opera<br>blur<br>faculty<br>twin<br>run<br>uniform<br>trip |  
+| bip_39_word_new_line_1 | wire |  
+| bip_39_word_new_line_10 | wire
 chaos
 opera
 blur
@@ -55,7 +55,7 @@ run
 uniform
 trip
 neck |  
-| bip_39_word_new_line11 | wire
+| bip_39_word_new_line_11 | wire
 chaos
 opera
 blur
@@ -66,7 +66,7 @@ uniform
 trip
 neck
 frequent |  
-| bip_39_word_new_line12 | wire
+| bip_39_word_new_line_12 | wire
 chaos
 opera
 blur
@@ -78,34 +78,34 @@ trip
 neck
 frequent
 attack |  
-| bip_39_word_new_line2 | wire
+| bip_39_word_new_line_2 | wire
 chaos |  
-| bip_39_word_new_line3 | wire
+| bip_39_word_new_line_3 | wire
 chaos
 opera |  
-| bip_39_word_new_line4 | wire
+| bip_39_word_new_line_4 | wire
 chaos
 opera
 blur |  
-| bip_39_word_new_line5 | wire
+| bip_39_word_new_line_5 | wire
 chaos
 opera
 blur
 faculty |  
-| bip_39_word_new_line6 | wire
+| bip_39_word_new_line_6 | wire
 chaos
 opera
 blur
 faculty
 twin |  
-| bip_39_word_new_line7 | wire
+| bip_39_word_new_line_7 | wire
 chaos
 opera
 blur
 faculty
 twin
 run |  
-| bip_39_word_new_line8 | wire
+| bip_39_word_new_line_8 | wire
 chaos
 opera
 blur
@@ -113,7 +113,7 @@ faculty
 twin
 run
 uniform |  
-| bip_39_word_new_line9 | wire
+| bip_39_word_new_line_9 | wire
 chaos
 opera
 blur

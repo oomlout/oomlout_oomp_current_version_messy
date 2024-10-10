@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sketch |  
-| bip_39_word_new_br10 | sketch<br>bag<br>fox<br>husband<br>depend<br>force<br>call<br>comic<br>spare<br>wagon |  
-| bip_39_word_new_br11 | sketch<br>bag<br>fox<br>husband<br>depend<br>force<br>call<br>comic<br>spare<br>wagon<br>draft |  
-| bip_39_word_new_br12 | sketch<br>bag<br>fox<br>husband<br>depend<br>force<br>call<br>comic<br>spare<br>wagon<br>draft<br>amount |  
-| bip_39_word_new_br2 | sketch<br>bag |  
-| bip_39_word_new_br3 | sketch<br>bag<br>fox |  
-| bip_39_word_new_br4 | sketch<br>bag<br>fox<br>husband |  
-| bip_39_word_new_br5 | sketch<br>bag<br>fox<br>husband<br>depend |  
-| bip_39_word_new_br6 | sketch<br>bag<br>fox<br>husband<br>depend<br>force |  
-| bip_39_word_new_br7 | sketch<br>bag<br>fox<br>husband<br>depend<br>force<br>call |  
-| bip_39_word_new_br8 | sketch<br>bag<br>fox<br>husband<br>depend<br>force<br>call<br>comic |  
-| bip_39_word_new_br9 | sketch<br>bag<br>fox<br>husband<br>depend<br>force<br>call<br>comic<br>spare |  
-| bip_39_word_new_line1 | sketch |  
-| bip_39_word_new_line10 | sketch
+| bip_39_word_new_br_1 | sketch |  
+| bip_39_word_new_br_10 | sketch<br>bag<br>fox<br>husband<br>depend<br>force<br>call<br>comic<br>spare<br>wagon |  
+| bip_39_word_new_br_11 | sketch<br>bag<br>fox<br>husband<br>depend<br>force<br>call<br>comic<br>spare<br>wagon<br>draft |  
+| bip_39_word_new_br_12 | sketch<br>bag<br>fox<br>husband<br>depend<br>force<br>call<br>comic<br>spare<br>wagon<br>draft<br>amount |  
+| bip_39_word_new_br_2 | sketch<br>bag |  
+| bip_39_word_new_br_3 | sketch<br>bag<br>fox |  
+| bip_39_word_new_br_4 | sketch<br>bag<br>fox<br>husband |  
+| bip_39_word_new_br_5 | sketch<br>bag<br>fox<br>husband<br>depend |  
+| bip_39_word_new_br_6 | sketch<br>bag<br>fox<br>husband<br>depend<br>force |  
+| bip_39_word_new_br_7 | sketch<br>bag<br>fox<br>husband<br>depend<br>force<br>call |  
+| bip_39_word_new_br_8 | sketch<br>bag<br>fox<br>husband<br>depend<br>force<br>call<br>comic |  
+| bip_39_word_new_br_9 | sketch<br>bag<br>fox<br>husband<br>depend<br>force<br>call<br>comic<br>spare |  
+| bip_39_word_new_line_1 | sketch |  
+| bip_39_word_new_line_10 | sketch
 bag
 fox
 husband
@@ -55,7 +55,7 @@ call
 comic
 spare
 wagon |  
-| bip_39_word_new_line11 | sketch
+| bip_39_word_new_line_11 | sketch
 bag
 fox
 husband
@@ -66,7 +66,7 @@ comic
 spare
 wagon
 draft |  
-| bip_39_word_new_line12 | sketch
+| bip_39_word_new_line_12 | sketch
 bag
 fox
 husband
@@ -78,34 +78,34 @@ spare
 wagon
 draft
 amount |  
-| bip_39_word_new_line2 | sketch
+| bip_39_word_new_line_2 | sketch
 bag |  
-| bip_39_word_new_line3 | sketch
+| bip_39_word_new_line_3 | sketch
 bag
 fox |  
-| bip_39_word_new_line4 | sketch
+| bip_39_word_new_line_4 | sketch
 bag
 fox
 husband |  
-| bip_39_word_new_line5 | sketch
+| bip_39_word_new_line_5 | sketch
 bag
 fox
 husband
 depend |  
-| bip_39_word_new_line6 | sketch
+| bip_39_word_new_line_6 | sketch
 bag
 fox
 husband
 depend
 force |  
-| bip_39_word_new_line7 | sketch
+| bip_39_word_new_line_7 | sketch
 bag
 fox
 husband
 depend
 force
 call |  
-| bip_39_word_new_line8 | sketch
+| bip_39_word_new_line_8 | sketch
 bag
 fox
 husband
@@ -113,7 +113,7 @@ depend
 force
 call
 comic |  
-| bip_39_word_new_line9 | sketch
+| bip_39_word_new_line_9 | sketch
 bag
 fox
 husband

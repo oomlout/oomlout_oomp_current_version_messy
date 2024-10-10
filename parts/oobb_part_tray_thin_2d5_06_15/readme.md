@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | special |  
-| bip_39_word_new_br10 | special<br>pudding<br>casino<br>second<br>sunset<br>ten<br>physical<br>core<br>inhale<br>spray |  
-| bip_39_word_new_br11 | special<br>pudding<br>casino<br>second<br>sunset<br>ten<br>physical<br>core<br>inhale<br>spray<br>machine |  
-| bip_39_word_new_br12 | special<br>pudding<br>casino<br>second<br>sunset<br>ten<br>physical<br>core<br>inhale<br>spray<br>machine<br>artist |  
-| bip_39_word_new_br2 | special<br>pudding |  
-| bip_39_word_new_br3 | special<br>pudding<br>casino |  
-| bip_39_word_new_br4 | special<br>pudding<br>casino<br>second |  
-| bip_39_word_new_br5 | special<br>pudding<br>casino<br>second<br>sunset |  
-| bip_39_word_new_br6 | special<br>pudding<br>casino<br>second<br>sunset<br>ten |  
-| bip_39_word_new_br7 | special<br>pudding<br>casino<br>second<br>sunset<br>ten<br>physical |  
-| bip_39_word_new_br8 | special<br>pudding<br>casino<br>second<br>sunset<br>ten<br>physical<br>core |  
-| bip_39_word_new_br9 | special<br>pudding<br>casino<br>second<br>sunset<br>ten<br>physical<br>core<br>inhale |  
-| bip_39_word_new_line1 | special |  
-| bip_39_word_new_line10 | special
+| bip_39_word_new_br_1 | special |  
+| bip_39_word_new_br_10 | special<br>pudding<br>casino<br>second<br>sunset<br>ten<br>physical<br>core<br>inhale<br>spray |  
+| bip_39_word_new_br_11 | special<br>pudding<br>casino<br>second<br>sunset<br>ten<br>physical<br>core<br>inhale<br>spray<br>machine |  
+| bip_39_word_new_br_12 | special<br>pudding<br>casino<br>second<br>sunset<br>ten<br>physical<br>core<br>inhale<br>spray<br>machine<br>artist |  
+| bip_39_word_new_br_2 | special<br>pudding |  
+| bip_39_word_new_br_3 | special<br>pudding<br>casino |  
+| bip_39_word_new_br_4 | special<br>pudding<br>casino<br>second |  
+| bip_39_word_new_br_5 | special<br>pudding<br>casino<br>second<br>sunset |  
+| bip_39_word_new_br_6 | special<br>pudding<br>casino<br>second<br>sunset<br>ten |  
+| bip_39_word_new_br_7 | special<br>pudding<br>casino<br>second<br>sunset<br>ten<br>physical |  
+| bip_39_word_new_br_8 | special<br>pudding<br>casino<br>second<br>sunset<br>ten<br>physical<br>core |  
+| bip_39_word_new_br_9 | special<br>pudding<br>casino<br>second<br>sunset<br>ten<br>physical<br>core<br>inhale |  
+| bip_39_word_new_line_1 | special |  
+| bip_39_word_new_line_10 | special
 pudding
 casino
 second
@@ -55,7 +55,7 @@ physical
 core
 inhale
 spray |  
-| bip_39_word_new_line11 | special
+| bip_39_word_new_line_11 | special
 pudding
 casino
 second
@@ -66,7 +66,7 @@ core
 inhale
 spray
 machine |  
-| bip_39_word_new_line12 | special
+| bip_39_word_new_line_12 | special
 pudding
 casino
 second
@@ -78,34 +78,34 @@ inhale
 spray
 machine
 artist |  
-| bip_39_word_new_line2 | special
+| bip_39_word_new_line_2 | special
 pudding |  
-| bip_39_word_new_line3 | special
+| bip_39_word_new_line_3 | special
 pudding
 casino |  
-| bip_39_word_new_line4 | special
+| bip_39_word_new_line_4 | special
 pudding
 casino
 second |  
-| bip_39_word_new_line5 | special
+| bip_39_word_new_line_5 | special
 pudding
 casino
 second
 sunset |  
-| bip_39_word_new_line6 | special
+| bip_39_word_new_line_6 | special
 pudding
 casino
 second
 sunset
 ten |  
-| bip_39_word_new_line7 | special
+| bip_39_word_new_line_7 | special
 pudding
 casino
 second
 sunset
 ten
 physical |  
-| bip_39_word_new_line8 | special
+| bip_39_word_new_line_8 | special
 pudding
 casino
 second
@@ -113,7 +113,7 @@ sunset
 ten
 physical
 core |  
-| bip_39_word_new_line9 | special
+| bip_39_word_new_line_9 | special
 pudding
 casino
 second

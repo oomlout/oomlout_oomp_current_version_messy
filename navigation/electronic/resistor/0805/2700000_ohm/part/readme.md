@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | giant |  
-| bip_39_word_new_br10 | giant<br>two<br>alert<br>second<br>match<br>height<br>slab<br>assault<br>foot<br>tattoo |  
-| bip_39_word_new_br11 | giant<br>two<br>alert<br>second<br>match<br>height<br>slab<br>assault<br>foot<br>tattoo<br>relief |  
-| bip_39_word_new_br12 | giant<br>two<br>alert<br>second<br>match<br>height<br>slab<br>assault<br>foot<br>tattoo<br>relief<br>afraid |  
-| bip_39_word_new_br2 | giant<br>two |  
-| bip_39_word_new_br3 | giant<br>two<br>alert |  
-| bip_39_word_new_br4 | giant<br>two<br>alert<br>second |  
-| bip_39_word_new_br5 | giant<br>two<br>alert<br>second<br>match |  
-| bip_39_word_new_br6 | giant<br>two<br>alert<br>second<br>match<br>height |  
-| bip_39_word_new_br7 | giant<br>two<br>alert<br>second<br>match<br>height<br>slab |  
-| bip_39_word_new_br8 | giant<br>two<br>alert<br>second<br>match<br>height<br>slab<br>assault |  
-| bip_39_word_new_br9 | giant<br>two<br>alert<br>second<br>match<br>height<br>slab<br>assault<br>foot |  
-| bip_39_word_new_line1 | giant |  
-| bip_39_word_new_line10 | giant
+| bip_39_word_new_br_1 | giant |  
+| bip_39_word_new_br_10 | giant<br>two<br>alert<br>second<br>match<br>height<br>slab<br>assault<br>foot<br>tattoo |  
+| bip_39_word_new_br_11 | giant<br>two<br>alert<br>second<br>match<br>height<br>slab<br>assault<br>foot<br>tattoo<br>relief |  
+| bip_39_word_new_br_12 | giant<br>two<br>alert<br>second<br>match<br>height<br>slab<br>assault<br>foot<br>tattoo<br>relief<br>afraid |  
+| bip_39_word_new_br_2 | giant<br>two |  
+| bip_39_word_new_br_3 | giant<br>two<br>alert |  
+| bip_39_word_new_br_4 | giant<br>two<br>alert<br>second |  
+| bip_39_word_new_br_5 | giant<br>two<br>alert<br>second<br>match |  
+| bip_39_word_new_br_6 | giant<br>two<br>alert<br>second<br>match<br>height |  
+| bip_39_word_new_br_7 | giant<br>two<br>alert<br>second<br>match<br>height<br>slab |  
+| bip_39_word_new_br_8 | giant<br>two<br>alert<br>second<br>match<br>height<br>slab<br>assault |  
+| bip_39_word_new_br_9 | giant<br>two<br>alert<br>second<br>match<br>height<br>slab<br>assault<br>foot |  
+| bip_39_word_new_line_1 | giant |  
+| bip_39_word_new_line_10 | giant
 two
 alert
 second
@@ -55,7 +55,7 @@ slab
 assault
 foot
 tattoo |  
-| bip_39_word_new_line11 | giant
+| bip_39_word_new_line_11 | giant
 two
 alert
 second
@@ -66,7 +66,7 @@ assault
 foot
 tattoo
 relief |  
-| bip_39_word_new_line12 | giant
+| bip_39_word_new_line_12 | giant
 two
 alert
 second
@@ -78,34 +78,34 @@ foot
 tattoo
 relief
 afraid |  
-| bip_39_word_new_line2 | giant
+| bip_39_word_new_line_2 | giant
 two |  
-| bip_39_word_new_line3 | giant
+| bip_39_word_new_line_3 | giant
 two
 alert |  
-| bip_39_word_new_line4 | giant
+| bip_39_word_new_line_4 | giant
 two
 alert
 second |  
-| bip_39_word_new_line5 | giant
+| bip_39_word_new_line_5 | giant
 two
 alert
 second
 match |  
-| bip_39_word_new_line6 | giant
+| bip_39_word_new_line_6 | giant
 two
 alert
 second
 match
 height |  
-| bip_39_word_new_line7 | giant
+| bip_39_word_new_line_7 | giant
 two
 alert
 second
 match
 height
 slab |  
-| bip_39_word_new_line8 | giant
+| bip_39_word_new_line_8 | giant
 two
 alert
 second
@@ -113,7 +113,7 @@ match
 height
 slab
 assault |  
-| bip_39_word_new_line9 | giant
+| bip_39_word_new_line_9 | giant
 two
 alert
 second

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | slogan |  
-| bip_39_word_new_br10 | slogan<br>clog<br>south<br>pink<br>better<br>river<br>salad<br>reunion<br>observe<br>real |  
-| bip_39_word_new_br11 | slogan<br>clog<br>south<br>pink<br>better<br>river<br>salad<br>reunion<br>observe<br>real<br>wise |  
-| bip_39_word_new_br12 | slogan<br>clog<br>south<br>pink<br>better<br>river<br>salad<br>reunion<br>observe<br>real<br>wise<br>accuse |  
-| bip_39_word_new_br2 | slogan<br>clog |  
-| bip_39_word_new_br3 | slogan<br>clog<br>south |  
-| bip_39_word_new_br4 | slogan<br>clog<br>south<br>pink |  
-| bip_39_word_new_br5 | slogan<br>clog<br>south<br>pink<br>better |  
-| bip_39_word_new_br6 | slogan<br>clog<br>south<br>pink<br>better<br>river |  
-| bip_39_word_new_br7 | slogan<br>clog<br>south<br>pink<br>better<br>river<br>salad |  
-| bip_39_word_new_br8 | slogan<br>clog<br>south<br>pink<br>better<br>river<br>salad<br>reunion |  
-| bip_39_word_new_br9 | slogan<br>clog<br>south<br>pink<br>better<br>river<br>salad<br>reunion<br>observe |  
-| bip_39_word_new_line1 | slogan |  
-| bip_39_word_new_line10 | slogan
+| bip_39_word_new_br_1 | slogan |  
+| bip_39_word_new_br_10 | slogan<br>clog<br>south<br>pink<br>better<br>river<br>salad<br>reunion<br>observe<br>real |  
+| bip_39_word_new_br_11 | slogan<br>clog<br>south<br>pink<br>better<br>river<br>salad<br>reunion<br>observe<br>real<br>wise |  
+| bip_39_word_new_br_12 | slogan<br>clog<br>south<br>pink<br>better<br>river<br>salad<br>reunion<br>observe<br>real<br>wise<br>accuse |  
+| bip_39_word_new_br_2 | slogan<br>clog |  
+| bip_39_word_new_br_3 | slogan<br>clog<br>south |  
+| bip_39_word_new_br_4 | slogan<br>clog<br>south<br>pink |  
+| bip_39_word_new_br_5 | slogan<br>clog<br>south<br>pink<br>better |  
+| bip_39_word_new_br_6 | slogan<br>clog<br>south<br>pink<br>better<br>river |  
+| bip_39_word_new_br_7 | slogan<br>clog<br>south<br>pink<br>better<br>river<br>salad |  
+| bip_39_word_new_br_8 | slogan<br>clog<br>south<br>pink<br>better<br>river<br>salad<br>reunion |  
+| bip_39_word_new_br_9 | slogan<br>clog<br>south<br>pink<br>better<br>river<br>salad<br>reunion<br>observe |  
+| bip_39_word_new_line_1 | slogan |  
+| bip_39_word_new_line_10 | slogan
 clog
 south
 pink
@@ -55,7 +55,7 @@ salad
 reunion
 observe
 real |  
-| bip_39_word_new_line11 | slogan
+| bip_39_word_new_line_11 | slogan
 clog
 south
 pink
@@ -66,7 +66,7 @@ reunion
 observe
 real
 wise |  
-| bip_39_word_new_line12 | slogan
+| bip_39_word_new_line_12 | slogan
 clog
 south
 pink
@@ -78,34 +78,34 @@ observe
 real
 wise
 accuse |  
-| bip_39_word_new_line2 | slogan
+| bip_39_word_new_line_2 | slogan
 clog |  
-| bip_39_word_new_line3 | slogan
+| bip_39_word_new_line_3 | slogan
 clog
 south |  
-| bip_39_word_new_line4 | slogan
+| bip_39_word_new_line_4 | slogan
 clog
 south
 pink |  
-| bip_39_word_new_line5 | slogan
+| bip_39_word_new_line_5 | slogan
 clog
 south
 pink
 better |  
-| bip_39_word_new_line6 | slogan
+| bip_39_word_new_line_6 | slogan
 clog
 south
 pink
 better
 river |  
-| bip_39_word_new_line7 | slogan
+| bip_39_word_new_line_7 | slogan
 clog
 south
 pink
 better
 river
 salad |  
-| bip_39_word_new_line8 | slogan
+| bip_39_word_new_line_8 | slogan
 clog
 south
 pink
@@ -113,7 +113,7 @@ better
 river
 salad
 reunion |  
-| bip_39_word_new_line9 | slogan
+| bip_39_word_new_line_9 | slogan
 clog
 south
 pink

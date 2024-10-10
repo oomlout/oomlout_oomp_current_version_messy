@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | despair |  
-| bip_39_word_new_br10 | despair<br>oven<br>slot<br>inherit<br>also<br>autumn<br>warrior<br>desk<br>evoke<br>valid |  
-| bip_39_word_new_br11 | despair<br>oven<br>slot<br>inherit<br>also<br>autumn<br>warrior<br>desk<br>evoke<br>valid<br>raccoon |  
-| bip_39_word_new_br12 | despair<br>oven<br>slot<br>inherit<br>also<br>autumn<br>warrior<br>desk<br>evoke<br>valid<br>raccoon<br>apology |  
-| bip_39_word_new_br2 | despair<br>oven |  
-| bip_39_word_new_br3 | despair<br>oven<br>slot |  
-| bip_39_word_new_br4 | despair<br>oven<br>slot<br>inherit |  
-| bip_39_word_new_br5 | despair<br>oven<br>slot<br>inherit<br>also |  
-| bip_39_word_new_br6 | despair<br>oven<br>slot<br>inherit<br>also<br>autumn |  
-| bip_39_word_new_br7 | despair<br>oven<br>slot<br>inherit<br>also<br>autumn<br>warrior |  
-| bip_39_word_new_br8 | despair<br>oven<br>slot<br>inherit<br>also<br>autumn<br>warrior<br>desk |  
-| bip_39_word_new_br9 | despair<br>oven<br>slot<br>inherit<br>also<br>autumn<br>warrior<br>desk<br>evoke |  
-| bip_39_word_new_line1 | despair |  
-| bip_39_word_new_line10 | despair
+| bip_39_word_new_br_1 | despair |  
+| bip_39_word_new_br_10 | despair<br>oven<br>slot<br>inherit<br>also<br>autumn<br>warrior<br>desk<br>evoke<br>valid |  
+| bip_39_word_new_br_11 | despair<br>oven<br>slot<br>inherit<br>also<br>autumn<br>warrior<br>desk<br>evoke<br>valid<br>raccoon |  
+| bip_39_word_new_br_12 | despair<br>oven<br>slot<br>inherit<br>also<br>autumn<br>warrior<br>desk<br>evoke<br>valid<br>raccoon<br>apology |  
+| bip_39_word_new_br_2 | despair<br>oven |  
+| bip_39_word_new_br_3 | despair<br>oven<br>slot |  
+| bip_39_word_new_br_4 | despair<br>oven<br>slot<br>inherit |  
+| bip_39_word_new_br_5 | despair<br>oven<br>slot<br>inherit<br>also |  
+| bip_39_word_new_br_6 | despair<br>oven<br>slot<br>inherit<br>also<br>autumn |  
+| bip_39_word_new_br_7 | despair<br>oven<br>slot<br>inherit<br>also<br>autumn<br>warrior |  
+| bip_39_word_new_br_8 | despair<br>oven<br>slot<br>inherit<br>also<br>autumn<br>warrior<br>desk |  
+| bip_39_word_new_br_9 | despair<br>oven<br>slot<br>inherit<br>also<br>autumn<br>warrior<br>desk<br>evoke |  
+| bip_39_word_new_line_1 | despair |  
+| bip_39_word_new_line_10 | despair
 oven
 slot
 inherit
@@ -55,7 +55,7 @@ warrior
 desk
 evoke
 valid |  
-| bip_39_word_new_line11 | despair
+| bip_39_word_new_line_11 | despair
 oven
 slot
 inherit
@@ -66,7 +66,7 @@ desk
 evoke
 valid
 raccoon |  
-| bip_39_word_new_line12 | despair
+| bip_39_word_new_line_12 | despair
 oven
 slot
 inherit
@@ -78,34 +78,34 @@ evoke
 valid
 raccoon
 apology |  
-| bip_39_word_new_line2 | despair
+| bip_39_word_new_line_2 | despair
 oven |  
-| bip_39_word_new_line3 | despair
+| bip_39_word_new_line_3 | despair
 oven
 slot |  
-| bip_39_word_new_line4 | despair
+| bip_39_word_new_line_4 | despair
 oven
 slot
 inherit |  
-| bip_39_word_new_line5 | despair
+| bip_39_word_new_line_5 | despair
 oven
 slot
 inherit
 also |  
-| bip_39_word_new_line6 | despair
+| bip_39_word_new_line_6 | despair
 oven
 slot
 inherit
 also
 autumn |  
-| bip_39_word_new_line7 | despair
+| bip_39_word_new_line_7 | despair
 oven
 slot
 inherit
 also
 autumn
 warrior |  
-| bip_39_word_new_line8 | despair
+| bip_39_word_new_line_8 | despair
 oven
 slot
 inherit
@@ -113,7 +113,7 @@ also
 autumn
 warrior
 desk |  
-| bip_39_word_new_line9 | despair
+| bip_39_word_new_line_9 | despair
 oven
 slot
 inherit

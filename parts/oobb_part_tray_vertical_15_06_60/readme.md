@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | affair |  
-| bip_39_word_new_br10 | affair<br>tree<br>fossil<br>brave<br>tag<br>inhale<br>return<br>deputy<br>flee<br>skin |  
-| bip_39_word_new_br11 | affair<br>tree<br>fossil<br>brave<br>tag<br>inhale<br>return<br>deputy<br>flee<br>skin<br>brave |  
-| bip_39_word_new_br12 | affair<br>tree<br>fossil<br>brave<br>tag<br>inhale<br>return<br>deputy<br>flee<br>skin<br>brave<br>assist |  
-| bip_39_word_new_br2 | affair<br>tree |  
-| bip_39_word_new_br3 | affair<br>tree<br>fossil |  
-| bip_39_word_new_br4 | affair<br>tree<br>fossil<br>brave |  
-| bip_39_word_new_br5 | affair<br>tree<br>fossil<br>brave<br>tag |  
-| bip_39_word_new_br6 | affair<br>tree<br>fossil<br>brave<br>tag<br>inhale |  
-| bip_39_word_new_br7 | affair<br>tree<br>fossil<br>brave<br>tag<br>inhale<br>return |  
-| bip_39_word_new_br8 | affair<br>tree<br>fossil<br>brave<br>tag<br>inhale<br>return<br>deputy |  
-| bip_39_word_new_br9 | affair<br>tree<br>fossil<br>brave<br>tag<br>inhale<br>return<br>deputy<br>flee |  
-| bip_39_word_new_line1 | affair |  
-| bip_39_word_new_line10 | affair
+| bip_39_word_new_br_1 | affair |  
+| bip_39_word_new_br_10 | affair<br>tree<br>fossil<br>brave<br>tag<br>inhale<br>return<br>deputy<br>flee<br>skin |  
+| bip_39_word_new_br_11 | affair<br>tree<br>fossil<br>brave<br>tag<br>inhale<br>return<br>deputy<br>flee<br>skin<br>brave |  
+| bip_39_word_new_br_12 | affair<br>tree<br>fossil<br>brave<br>tag<br>inhale<br>return<br>deputy<br>flee<br>skin<br>brave<br>assist |  
+| bip_39_word_new_br_2 | affair<br>tree |  
+| bip_39_word_new_br_3 | affair<br>tree<br>fossil |  
+| bip_39_word_new_br_4 | affair<br>tree<br>fossil<br>brave |  
+| bip_39_word_new_br_5 | affair<br>tree<br>fossil<br>brave<br>tag |  
+| bip_39_word_new_br_6 | affair<br>tree<br>fossil<br>brave<br>tag<br>inhale |  
+| bip_39_word_new_br_7 | affair<br>tree<br>fossil<br>brave<br>tag<br>inhale<br>return |  
+| bip_39_word_new_br_8 | affair<br>tree<br>fossil<br>brave<br>tag<br>inhale<br>return<br>deputy |  
+| bip_39_word_new_br_9 | affair<br>tree<br>fossil<br>brave<br>tag<br>inhale<br>return<br>deputy<br>flee |  
+| bip_39_word_new_line_1 | affair |  
+| bip_39_word_new_line_10 | affair
 tree
 fossil
 brave
@@ -55,7 +55,7 @@ return
 deputy
 flee
 skin |  
-| bip_39_word_new_line11 | affair
+| bip_39_word_new_line_11 | affair
 tree
 fossil
 brave
@@ -66,7 +66,7 @@ deputy
 flee
 skin
 brave |  
-| bip_39_word_new_line12 | affair
+| bip_39_word_new_line_12 | affair
 tree
 fossil
 brave
@@ -78,34 +78,34 @@ flee
 skin
 brave
 assist |  
-| bip_39_word_new_line2 | affair
+| bip_39_word_new_line_2 | affair
 tree |  
-| bip_39_word_new_line3 | affair
+| bip_39_word_new_line_3 | affair
 tree
 fossil |  
-| bip_39_word_new_line4 | affair
+| bip_39_word_new_line_4 | affair
 tree
 fossil
 brave |  
-| bip_39_word_new_line5 | affair
+| bip_39_word_new_line_5 | affair
 tree
 fossil
 brave
 tag |  
-| bip_39_word_new_line6 | affair
+| bip_39_word_new_line_6 | affair
 tree
 fossil
 brave
 tag
 inhale |  
-| bip_39_word_new_line7 | affair
+| bip_39_word_new_line_7 | affair
 tree
 fossil
 brave
 tag
 inhale
 return |  
-| bip_39_word_new_line8 | affair
+| bip_39_word_new_line_8 | affair
 tree
 fossil
 brave
@@ -113,7 +113,7 @@ tag
 inhale
 return
 deputy |  
-| bip_39_word_new_line9 | affair
+| bip_39_word_new_line_9 | affair
 tree
 fossil
 brave

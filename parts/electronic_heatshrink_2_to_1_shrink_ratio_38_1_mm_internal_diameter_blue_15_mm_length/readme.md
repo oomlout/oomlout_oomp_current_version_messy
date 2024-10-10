@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | agree |  
-| bip_39_word_new_br10 | agree<br>valid<br>soda<br>unfair<br>giggle<br>illness<br>swallow<br>gym<br>scan<br>ten |  
-| bip_39_word_new_br11 | agree<br>valid<br>soda<br>unfair<br>giggle<br>illness<br>swallow<br>gym<br>scan<br>ten<br>flush |  
-| bip_39_word_new_br12 | agree<br>valid<br>soda<br>unfair<br>giggle<br>illness<br>swallow<br>gym<br>scan<br>ten<br>flush<br>absent |  
-| bip_39_word_new_br2 | agree<br>valid |  
-| bip_39_word_new_br3 | agree<br>valid<br>soda |  
-| bip_39_word_new_br4 | agree<br>valid<br>soda<br>unfair |  
-| bip_39_word_new_br5 | agree<br>valid<br>soda<br>unfair<br>giggle |  
-| bip_39_word_new_br6 | agree<br>valid<br>soda<br>unfair<br>giggle<br>illness |  
-| bip_39_word_new_br7 | agree<br>valid<br>soda<br>unfair<br>giggle<br>illness<br>swallow |  
-| bip_39_word_new_br8 | agree<br>valid<br>soda<br>unfair<br>giggle<br>illness<br>swallow<br>gym |  
-| bip_39_word_new_br9 | agree<br>valid<br>soda<br>unfair<br>giggle<br>illness<br>swallow<br>gym<br>scan |  
-| bip_39_word_new_line1 | agree |  
-| bip_39_word_new_line10 | agree
+| bip_39_word_new_br_1 | agree |  
+| bip_39_word_new_br_10 | agree<br>valid<br>soda<br>unfair<br>giggle<br>illness<br>swallow<br>gym<br>scan<br>ten |  
+| bip_39_word_new_br_11 | agree<br>valid<br>soda<br>unfair<br>giggle<br>illness<br>swallow<br>gym<br>scan<br>ten<br>flush |  
+| bip_39_word_new_br_12 | agree<br>valid<br>soda<br>unfair<br>giggle<br>illness<br>swallow<br>gym<br>scan<br>ten<br>flush<br>absent |  
+| bip_39_word_new_br_2 | agree<br>valid |  
+| bip_39_word_new_br_3 | agree<br>valid<br>soda |  
+| bip_39_word_new_br_4 | agree<br>valid<br>soda<br>unfair |  
+| bip_39_word_new_br_5 | agree<br>valid<br>soda<br>unfair<br>giggle |  
+| bip_39_word_new_br_6 | agree<br>valid<br>soda<br>unfair<br>giggle<br>illness |  
+| bip_39_word_new_br_7 | agree<br>valid<br>soda<br>unfair<br>giggle<br>illness<br>swallow |  
+| bip_39_word_new_br_8 | agree<br>valid<br>soda<br>unfair<br>giggle<br>illness<br>swallow<br>gym |  
+| bip_39_word_new_br_9 | agree<br>valid<br>soda<br>unfair<br>giggle<br>illness<br>swallow<br>gym<br>scan |  
+| bip_39_word_new_line_1 | agree |  
+| bip_39_word_new_line_10 | agree
 valid
 soda
 unfair
@@ -55,7 +55,7 @@ swallow
 gym
 scan
 ten |  
-| bip_39_word_new_line11 | agree
+| bip_39_word_new_line_11 | agree
 valid
 soda
 unfair
@@ -66,7 +66,7 @@ gym
 scan
 ten
 flush |  
-| bip_39_word_new_line12 | agree
+| bip_39_word_new_line_12 | agree
 valid
 soda
 unfair
@@ -78,34 +78,34 @@ scan
 ten
 flush
 absent |  
-| bip_39_word_new_line2 | agree
+| bip_39_word_new_line_2 | agree
 valid |  
-| bip_39_word_new_line3 | agree
+| bip_39_word_new_line_3 | agree
 valid
 soda |  
-| bip_39_word_new_line4 | agree
+| bip_39_word_new_line_4 | agree
 valid
 soda
 unfair |  
-| bip_39_word_new_line5 | agree
+| bip_39_word_new_line_5 | agree
 valid
 soda
 unfair
 giggle |  
-| bip_39_word_new_line6 | agree
+| bip_39_word_new_line_6 | agree
 valid
 soda
 unfair
 giggle
 illness |  
-| bip_39_word_new_line7 | agree
+| bip_39_word_new_line_7 | agree
 valid
 soda
 unfair
 giggle
 illness
 swallow |  
-| bip_39_word_new_line8 | agree
+| bip_39_word_new_line_8 | agree
 valid
 soda
 unfair
@@ -113,7 +113,7 @@ giggle
 illness
 swallow
 gym |  
-| bip_39_word_new_line9 | agree
+| bip_39_word_new_line_9 | agree
 valid
 soda
 unfair

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | slam |  
-| bip_39_word_new_br10 | slam<br>voyage<br>absent<br>snap<br>allow<br>opera<br>accident<br>enemy<br>room<br>kitchen |  
-| bip_39_word_new_br11 | slam<br>voyage<br>absent<br>snap<br>allow<br>opera<br>accident<br>enemy<br>room<br>kitchen<br>wife |  
-| bip_39_word_new_br12 | slam<br>voyage<br>absent<br>snap<br>allow<br>opera<br>accident<br>enemy<br>room<br>kitchen<br>wife<br>abuse |  
-| bip_39_word_new_br2 | slam<br>voyage |  
-| bip_39_word_new_br3 | slam<br>voyage<br>absent |  
-| bip_39_word_new_br4 | slam<br>voyage<br>absent<br>snap |  
-| bip_39_word_new_br5 | slam<br>voyage<br>absent<br>snap<br>allow |  
-| bip_39_word_new_br6 | slam<br>voyage<br>absent<br>snap<br>allow<br>opera |  
-| bip_39_word_new_br7 | slam<br>voyage<br>absent<br>snap<br>allow<br>opera<br>accident |  
-| bip_39_word_new_br8 | slam<br>voyage<br>absent<br>snap<br>allow<br>opera<br>accident<br>enemy |  
-| bip_39_word_new_br9 | slam<br>voyage<br>absent<br>snap<br>allow<br>opera<br>accident<br>enemy<br>room |  
-| bip_39_word_new_line1 | slam |  
-| bip_39_word_new_line10 | slam
+| bip_39_word_new_br_1 | slam |  
+| bip_39_word_new_br_10 | slam<br>voyage<br>absent<br>snap<br>allow<br>opera<br>accident<br>enemy<br>room<br>kitchen |  
+| bip_39_word_new_br_11 | slam<br>voyage<br>absent<br>snap<br>allow<br>opera<br>accident<br>enemy<br>room<br>kitchen<br>wife |  
+| bip_39_word_new_br_12 | slam<br>voyage<br>absent<br>snap<br>allow<br>opera<br>accident<br>enemy<br>room<br>kitchen<br>wife<br>abuse |  
+| bip_39_word_new_br_2 | slam<br>voyage |  
+| bip_39_word_new_br_3 | slam<br>voyage<br>absent |  
+| bip_39_word_new_br_4 | slam<br>voyage<br>absent<br>snap |  
+| bip_39_word_new_br_5 | slam<br>voyage<br>absent<br>snap<br>allow |  
+| bip_39_word_new_br_6 | slam<br>voyage<br>absent<br>snap<br>allow<br>opera |  
+| bip_39_word_new_br_7 | slam<br>voyage<br>absent<br>snap<br>allow<br>opera<br>accident |  
+| bip_39_word_new_br_8 | slam<br>voyage<br>absent<br>snap<br>allow<br>opera<br>accident<br>enemy |  
+| bip_39_word_new_br_9 | slam<br>voyage<br>absent<br>snap<br>allow<br>opera<br>accident<br>enemy<br>room |  
+| bip_39_word_new_line_1 | slam |  
+| bip_39_word_new_line_10 | slam
 voyage
 absent
 snap
@@ -55,7 +55,7 @@ accident
 enemy
 room
 kitchen |  
-| bip_39_word_new_line11 | slam
+| bip_39_word_new_line_11 | slam
 voyage
 absent
 snap
@@ -66,7 +66,7 @@ enemy
 room
 kitchen
 wife |  
-| bip_39_word_new_line12 | slam
+| bip_39_word_new_line_12 | slam
 voyage
 absent
 snap
@@ -78,34 +78,34 @@ room
 kitchen
 wife
 abuse |  
-| bip_39_word_new_line2 | slam
+| bip_39_word_new_line_2 | slam
 voyage |  
-| bip_39_word_new_line3 | slam
+| bip_39_word_new_line_3 | slam
 voyage
 absent |  
-| bip_39_word_new_line4 | slam
+| bip_39_word_new_line_4 | slam
 voyage
 absent
 snap |  
-| bip_39_word_new_line5 | slam
+| bip_39_word_new_line_5 | slam
 voyage
 absent
 snap
 allow |  
-| bip_39_word_new_line6 | slam
+| bip_39_word_new_line_6 | slam
 voyage
 absent
 snap
 allow
 opera |  
-| bip_39_word_new_line7 | slam
+| bip_39_word_new_line_7 | slam
 voyage
 absent
 snap
 allow
 opera
 accident |  
-| bip_39_word_new_line8 | slam
+| bip_39_word_new_line_8 | slam
 voyage
 absent
 snap
@@ -113,7 +113,7 @@ allow
 opera
 accident
 enemy |  
-| bip_39_word_new_line9 | slam
+| bip_39_word_new_line_9 | slam
 voyage
 absent
 snap

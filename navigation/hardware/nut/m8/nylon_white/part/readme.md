@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | early |  
-| bip_39_word_new_br10 | early<br>flip<br>soap<br>capable<br>reveal<br>volcano<br>mango<br>end<br>stadium<br>topple |  
-| bip_39_word_new_br11 | early<br>flip<br>soap<br>capable<br>reveal<br>volcano<br>mango<br>end<br>stadium<br>topple<br>ostrich |  
-| bip_39_word_new_br12 | early<br>flip<br>soap<br>capable<br>reveal<br>volcano<br>mango<br>end<br>stadium<br>topple<br>ostrich<br>actress |  
-| bip_39_word_new_br2 | early<br>flip |  
-| bip_39_word_new_br3 | early<br>flip<br>soap |  
-| bip_39_word_new_br4 | early<br>flip<br>soap<br>capable |  
-| bip_39_word_new_br5 | early<br>flip<br>soap<br>capable<br>reveal |  
-| bip_39_word_new_br6 | early<br>flip<br>soap<br>capable<br>reveal<br>volcano |  
-| bip_39_word_new_br7 | early<br>flip<br>soap<br>capable<br>reveal<br>volcano<br>mango |  
-| bip_39_word_new_br8 | early<br>flip<br>soap<br>capable<br>reveal<br>volcano<br>mango<br>end |  
-| bip_39_word_new_br9 | early<br>flip<br>soap<br>capable<br>reveal<br>volcano<br>mango<br>end<br>stadium |  
-| bip_39_word_new_line1 | early |  
-| bip_39_word_new_line10 | early
+| bip_39_word_new_br_1 | early |  
+| bip_39_word_new_br_10 | early<br>flip<br>soap<br>capable<br>reveal<br>volcano<br>mango<br>end<br>stadium<br>topple |  
+| bip_39_word_new_br_11 | early<br>flip<br>soap<br>capable<br>reveal<br>volcano<br>mango<br>end<br>stadium<br>topple<br>ostrich |  
+| bip_39_word_new_br_12 | early<br>flip<br>soap<br>capable<br>reveal<br>volcano<br>mango<br>end<br>stadium<br>topple<br>ostrich<br>actress |  
+| bip_39_word_new_br_2 | early<br>flip |  
+| bip_39_word_new_br_3 | early<br>flip<br>soap |  
+| bip_39_word_new_br_4 | early<br>flip<br>soap<br>capable |  
+| bip_39_word_new_br_5 | early<br>flip<br>soap<br>capable<br>reveal |  
+| bip_39_word_new_br_6 | early<br>flip<br>soap<br>capable<br>reveal<br>volcano |  
+| bip_39_word_new_br_7 | early<br>flip<br>soap<br>capable<br>reveal<br>volcano<br>mango |  
+| bip_39_word_new_br_8 | early<br>flip<br>soap<br>capable<br>reveal<br>volcano<br>mango<br>end |  
+| bip_39_word_new_br_9 | early<br>flip<br>soap<br>capable<br>reveal<br>volcano<br>mango<br>end<br>stadium |  
+| bip_39_word_new_line_1 | early |  
+| bip_39_word_new_line_10 | early
 flip
 soap
 capable
@@ -55,7 +55,7 @@ mango
 end
 stadium
 topple |  
-| bip_39_word_new_line11 | early
+| bip_39_word_new_line_11 | early
 flip
 soap
 capable
@@ -66,7 +66,7 @@ end
 stadium
 topple
 ostrich |  
-| bip_39_word_new_line12 | early
+| bip_39_word_new_line_12 | early
 flip
 soap
 capable
@@ -78,34 +78,34 @@ stadium
 topple
 ostrich
 actress |  
-| bip_39_word_new_line2 | early
+| bip_39_word_new_line_2 | early
 flip |  
-| bip_39_word_new_line3 | early
+| bip_39_word_new_line_3 | early
 flip
 soap |  
-| bip_39_word_new_line4 | early
+| bip_39_word_new_line_4 | early
 flip
 soap
 capable |  
-| bip_39_word_new_line5 | early
+| bip_39_word_new_line_5 | early
 flip
 soap
 capable
 reveal |  
-| bip_39_word_new_line6 | early
+| bip_39_word_new_line_6 | early
 flip
 soap
 capable
 reveal
 volcano |  
-| bip_39_word_new_line7 | early
+| bip_39_word_new_line_7 | early
 flip
 soap
 capable
 reveal
 volcano
 mango |  
-| bip_39_word_new_line8 | early
+| bip_39_word_new_line_8 | early
 flip
 soap
 capable
@@ -113,7 +113,7 @@ reveal
 volcano
 mango
 end |  
-| bip_39_word_new_line9 | early
+| bip_39_word_new_line_9 | early
 flip
 soap
 capable

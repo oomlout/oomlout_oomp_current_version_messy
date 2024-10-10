@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | traffic |  
-| bip_39_word_new_br10 | traffic<br>globe<br>parrot<br>thank<br>want<br>fame<br>glow<br>receive<br>clay<br>audit |  
-| bip_39_word_new_br11 | traffic<br>globe<br>parrot<br>thank<br>want<br>fame<br>glow<br>receive<br>clay<br>audit<br>slush |  
-| bip_39_word_new_br12 | traffic<br>globe<br>parrot<br>thank<br>want<br>fame<br>glow<br>receive<br>clay<br>audit<br>slush<br>adapt |  
-| bip_39_word_new_br2 | traffic<br>globe |  
-| bip_39_word_new_br3 | traffic<br>globe<br>parrot |  
-| bip_39_word_new_br4 | traffic<br>globe<br>parrot<br>thank |  
-| bip_39_word_new_br5 | traffic<br>globe<br>parrot<br>thank<br>want |  
-| bip_39_word_new_br6 | traffic<br>globe<br>parrot<br>thank<br>want<br>fame |  
-| bip_39_word_new_br7 | traffic<br>globe<br>parrot<br>thank<br>want<br>fame<br>glow |  
-| bip_39_word_new_br8 | traffic<br>globe<br>parrot<br>thank<br>want<br>fame<br>glow<br>receive |  
-| bip_39_word_new_br9 | traffic<br>globe<br>parrot<br>thank<br>want<br>fame<br>glow<br>receive<br>clay |  
-| bip_39_word_new_line1 | traffic |  
-| bip_39_word_new_line10 | traffic
+| bip_39_word_new_br_1 | traffic |  
+| bip_39_word_new_br_10 | traffic<br>globe<br>parrot<br>thank<br>want<br>fame<br>glow<br>receive<br>clay<br>audit |  
+| bip_39_word_new_br_11 | traffic<br>globe<br>parrot<br>thank<br>want<br>fame<br>glow<br>receive<br>clay<br>audit<br>slush |  
+| bip_39_word_new_br_12 | traffic<br>globe<br>parrot<br>thank<br>want<br>fame<br>glow<br>receive<br>clay<br>audit<br>slush<br>adapt |  
+| bip_39_word_new_br_2 | traffic<br>globe |  
+| bip_39_word_new_br_3 | traffic<br>globe<br>parrot |  
+| bip_39_word_new_br_4 | traffic<br>globe<br>parrot<br>thank |  
+| bip_39_word_new_br_5 | traffic<br>globe<br>parrot<br>thank<br>want |  
+| bip_39_word_new_br_6 | traffic<br>globe<br>parrot<br>thank<br>want<br>fame |  
+| bip_39_word_new_br_7 | traffic<br>globe<br>parrot<br>thank<br>want<br>fame<br>glow |  
+| bip_39_word_new_br_8 | traffic<br>globe<br>parrot<br>thank<br>want<br>fame<br>glow<br>receive |  
+| bip_39_word_new_br_9 | traffic<br>globe<br>parrot<br>thank<br>want<br>fame<br>glow<br>receive<br>clay |  
+| bip_39_word_new_line_1 | traffic |  
+| bip_39_word_new_line_10 | traffic
 globe
 parrot
 thank
@@ -55,7 +55,7 @@ glow
 receive
 clay
 audit |  
-| bip_39_word_new_line11 | traffic
+| bip_39_word_new_line_11 | traffic
 globe
 parrot
 thank
@@ -66,7 +66,7 @@ receive
 clay
 audit
 slush |  
-| bip_39_word_new_line12 | traffic
+| bip_39_word_new_line_12 | traffic
 globe
 parrot
 thank
@@ -78,34 +78,34 @@ clay
 audit
 slush
 adapt |  
-| bip_39_word_new_line2 | traffic
+| bip_39_word_new_line_2 | traffic
 globe |  
-| bip_39_word_new_line3 | traffic
+| bip_39_word_new_line_3 | traffic
 globe
 parrot |  
-| bip_39_word_new_line4 | traffic
+| bip_39_word_new_line_4 | traffic
 globe
 parrot
 thank |  
-| bip_39_word_new_line5 | traffic
+| bip_39_word_new_line_5 | traffic
 globe
 parrot
 thank
 want |  
-| bip_39_word_new_line6 | traffic
+| bip_39_word_new_line_6 | traffic
 globe
 parrot
 thank
 want
 fame |  
-| bip_39_word_new_line7 | traffic
+| bip_39_word_new_line_7 | traffic
 globe
 parrot
 thank
 want
 fame
 glow |  
-| bip_39_word_new_line8 | traffic
+| bip_39_word_new_line_8 | traffic
 globe
 parrot
 thank
@@ -113,7 +113,7 @@ want
 fame
 glow
 receive |  
-| bip_39_word_new_line9 | traffic
+| bip_39_word_new_line_9 | traffic
 globe
 parrot
 thank

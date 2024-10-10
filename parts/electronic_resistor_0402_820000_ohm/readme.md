@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | suit |  
-| bip_39_word_new_br10 | suit<br>canal<br>census<br>provide<br>cushion<br>web<br>bulb<br>notable<br>price<br>exile |  
-| bip_39_word_new_br11 | suit<br>canal<br>census<br>provide<br>cushion<br>web<br>bulb<br>notable<br>price<br>exile<br>gold |  
-| bip_39_word_new_br12 | suit<br>canal<br>census<br>provide<br>cushion<br>web<br>bulb<br>notable<br>price<br>exile<br>gold<br>approve |  
-| bip_39_word_new_br2 | suit<br>canal |  
-| bip_39_word_new_br3 | suit<br>canal<br>census |  
-| bip_39_word_new_br4 | suit<br>canal<br>census<br>provide |  
-| bip_39_word_new_br5 | suit<br>canal<br>census<br>provide<br>cushion |  
-| bip_39_word_new_br6 | suit<br>canal<br>census<br>provide<br>cushion<br>web |  
-| bip_39_word_new_br7 | suit<br>canal<br>census<br>provide<br>cushion<br>web<br>bulb |  
-| bip_39_word_new_br8 | suit<br>canal<br>census<br>provide<br>cushion<br>web<br>bulb<br>notable |  
-| bip_39_word_new_br9 | suit<br>canal<br>census<br>provide<br>cushion<br>web<br>bulb<br>notable<br>price |  
-| bip_39_word_new_line1 | suit |  
-| bip_39_word_new_line10 | suit
+| bip_39_word_new_br_1 | suit |  
+| bip_39_word_new_br_10 | suit<br>canal<br>census<br>provide<br>cushion<br>web<br>bulb<br>notable<br>price<br>exile |  
+| bip_39_word_new_br_11 | suit<br>canal<br>census<br>provide<br>cushion<br>web<br>bulb<br>notable<br>price<br>exile<br>gold |  
+| bip_39_word_new_br_12 | suit<br>canal<br>census<br>provide<br>cushion<br>web<br>bulb<br>notable<br>price<br>exile<br>gold<br>approve |  
+| bip_39_word_new_br_2 | suit<br>canal |  
+| bip_39_word_new_br_3 | suit<br>canal<br>census |  
+| bip_39_word_new_br_4 | suit<br>canal<br>census<br>provide |  
+| bip_39_word_new_br_5 | suit<br>canal<br>census<br>provide<br>cushion |  
+| bip_39_word_new_br_6 | suit<br>canal<br>census<br>provide<br>cushion<br>web |  
+| bip_39_word_new_br_7 | suit<br>canal<br>census<br>provide<br>cushion<br>web<br>bulb |  
+| bip_39_word_new_br_8 | suit<br>canal<br>census<br>provide<br>cushion<br>web<br>bulb<br>notable |  
+| bip_39_word_new_br_9 | suit<br>canal<br>census<br>provide<br>cushion<br>web<br>bulb<br>notable<br>price |  
+| bip_39_word_new_line_1 | suit |  
+| bip_39_word_new_line_10 | suit
 canal
 census
 provide
@@ -55,7 +55,7 @@ bulb
 notable
 price
 exile |  
-| bip_39_word_new_line11 | suit
+| bip_39_word_new_line_11 | suit
 canal
 census
 provide
@@ -66,7 +66,7 @@ notable
 price
 exile
 gold |  
-| bip_39_word_new_line12 | suit
+| bip_39_word_new_line_12 | suit
 canal
 census
 provide
@@ -78,34 +78,34 @@ price
 exile
 gold
 approve |  
-| bip_39_word_new_line2 | suit
+| bip_39_word_new_line_2 | suit
 canal |  
-| bip_39_word_new_line3 | suit
+| bip_39_word_new_line_3 | suit
 canal
 census |  
-| bip_39_word_new_line4 | suit
+| bip_39_word_new_line_4 | suit
 canal
 census
 provide |  
-| bip_39_word_new_line5 | suit
+| bip_39_word_new_line_5 | suit
 canal
 census
 provide
 cushion |  
-| bip_39_word_new_line6 | suit
+| bip_39_word_new_line_6 | suit
 canal
 census
 provide
 cushion
 web |  
-| bip_39_word_new_line7 | suit
+| bip_39_word_new_line_7 | suit
 canal
 census
 provide
 cushion
 web
 bulb |  
-| bip_39_word_new_line8 | suit
+| bip_39_word_new_line_8 | suit
 canal
 census
 provide
@@ -113,7 +113,7 @@ cushion
 web
 bulb
 notable |  
-| bip_39_word_new_line9 | suit
+| bip_39_word_new_line_9 | suit
 canal
 census
 provide

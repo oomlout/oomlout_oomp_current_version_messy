@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wide |  
-| bip_39_word_new_br10 | wide<br>spice<br>today<br>mosquito<br>salad<br>exclude<br>baby<br>screen<br>stay<br>actress |  
-| bip_39_word_new_br11 | wide<br>spice<br>today<br>mosquito<br>salad<br>exclude<br>baby<br>screen<br>stay<br>actress<br>consider |  
-| bip_39_word_new_br12 | wide<br>spice<br>today<br>mosquito<br>salad<br>exclude<br>baby<br>screen<br>stay<br>actress<br>consider<br>audit |  
-| bip_39_word_new_br2 | wide<br>spice |  
-| bip_39_word_new_br3 | wide<br>spice<br>today |  
-| bip_39_word_new_br4 | wide<br>spice<br>today<br>mosquito |  
-| bip_39_word_new_br5 | wide<br>spice<br>today<br>mosquito<br>salad |  
-| bip_39_word_new_br6 | wide<br>spice<br>today<br>mosquito<br>salad<br>exclude |  
-| bip_39_word_new_br7 | wide<br>spice<br>today<br>mosquito<br>salad<br>exclude<br>baby |  
-| bip_39_word_new_br8 | wide<br>spice<br>today<br>mosquito<br>salad<br>exclude<br>baby<br>screen |  
-| bip_39_word_new_br9 | wide<br>spice<br>today<br>mosquito<br>salad<br>exclude<br>baby<br>screen<br>stay |  
-| bip_39_word_new_line1 | wide |  
-| bip_39_word_new_line10 | wide
+| bip_39_word_new_br_1 | wide |  
+| bip_39_word_new_br_10 | wide<br>spice<br>today<br>mosquito<br>salad<br>exclude<br>baby<br>screen<br>stay<br>actress |  
+| bip_39_word_new_br_11 | wide<br>spice<br>today<br>mosquito<br>salad<br>exclude<br>baby<br>screen<br>stay<br>actress<br>consider |  
+| bip_39_word_new_br_12 | wide<br>spice<br>today<br>mosquito<br>salad<br>exclude<br>baby<br>screen<br>stay<br>actress<br>consider<br>audit |  
+| bip_39_word_new_br_2 | wide<br>spice |  
+| bip_39_word_new_br_3 | wide<br>spice<br>today |  
+| bip_39_word_new_br_4 | wide<br>spice<br>today<br>mosquito |  
+| bip_39_word_new_br_5 | wide<br>spice<br>today<br>mosquito<br>salad |  
+| bip_39_word_new_br_6 | wide<br>spice<br>today<br>mosquito<br>salad<br>exclude |  
+| bip_39_word_new_br_7 | wide<br>spice<br>today<br>mosquito<br>salad<br>exclude<br>baby |  
+| bip_39_word_new_br_8 | wide<br>spice<br>today<br>mosquito<br>salad<br>exclude<br>baby<br>screen |  
+| bip_39_word_new_br_9 | wide<br>spice<br>today<br>mosquito<br>salad<br>exclude<br>baby<br>screen<br>stay |  
+| bip_39_word_new_line_1 | wide |  
+| bip_39_word_new_line_10 | wide
 spice
 today
 mosquito
@@ -55,7 +55,7 @@ baby
 screen
 stay
 actress |  
-| bip_39_word_new_line11 | wide
+| bip_39_word_new_line_11 | wide
 spice
 today
 mosquito
@@ -66,7 +66,7 @@ screen
 stay
 actress
 consider |  
-| bip_39_word_new_line12 | wide
+| bip_39_word_new_line_12 | wide
 spice
 today
 mosquito
@@ -78,34 +78,34 @@ stay
 actress
 consider
 audit |  
-| bip_39_word_new_line2 | wide
+| bip_39_word_new_line_2 | wide
 spice |  
-| bip_39_word_new_line3 | wide
+| bip_39_word_new_line_3 | wide
 spice
 today |  
-| bip_39_word_new_line4 | wide
+| bip_39_word_new_line_4 | wide
 spice
 today
 mosquito |  
-| bip_39_word_new_line5 | wide
+| bip_39_word_new_line_5 | wide
 spice
 today
 mosquito
 salad |  
-| bip_39_word_new_line6 | wide
+| bip_39_word_new_line_6 | wide
 spice
 today
 mosquito
 salad
 exclude |  
-| bip_39_word_new_line7 | wide
+| bip_39_word_new_line_7 | wide
 spice
 today
 mosquito
 salad
 exclude
 baby |  
-| bip_39_word_new_line8 | wide
+| bip_39_word_new_line_8 | wide
 spice
 today
 mosquito
@@ -113,7 +113,7 @@ salad
 exclude
 baby
 screen |  
-| bip_39_word_new_line9 | wide
+| bip_39_word_new_line_9 | wide
 spice
 today
 mosquito

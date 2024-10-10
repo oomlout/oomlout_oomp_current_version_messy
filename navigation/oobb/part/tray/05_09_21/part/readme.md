@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | magic |  
-| bip_39_word_new_br10 | magic<br>sentence<br>trouble<br>just<br>march<br>diesel<br>rug<br>pig<br>fortune<br>twin |  
-| bip_39_word_new_br11 | magic<br>sentence<br>trouble<br>just<br>march<br>diesel<br>rug<br>pig<br>fortune<br>twin<br>great |  
-| bip_39_word_new_br12 | magic<br>sentence<br>trouble<br>just<br>march<br>diesel<br>rug<br>pig<br>fortune<br>twin<br>great<br>annual |  
-| bip_39_word_new_br2 | magic<br>sentence |  
-| bip_39_word_new_br3 | magic<br>sentence<br>trouble |  
-| bip_39_word_new_br4 | magic<br>sentence<br>trouble<br>just |  
-| bip_39_word_new_br5 | magic<br>sentence<br>trouble<br>just<br>march |  
-| bip_39_word_new_br6 | magic<br>sentence<br>trouble<br>just<br>march<br>diesel |  
-| bip_39_word_new_br7 | magic<br>sentence<br>trouble<br>just<br>march<br>diesel<br>rug |  
-| bip_39_word_new_br8 | magic<br>sentence<br>trouble<br>just<br>march<br>diesel<br>rug<br>pig |  
-| bip_39_word_new_br9 | magic<br>sentence<br>trouble<br>just<br>march<br>diesel<br>rug<br>pig<br>fortune |  
-| bip_39_word_new_line1 | magic |  
-| bip_39_word_new_line10 | magic
+| bip_39_word_new_br_1 | magic |  
+| bip_39_word_new_br_10 | magic<br>sentence<br>trouble<br>just<br>march<br>diesel<br>rug<br>pig<br>fortune<br>twin |  
+| bip_39_word_new_br_11 | magic<br>sentence<br>trouble<br>just<br>march<br>diesel<br>rug<br>pig<br>fortune<br>twin<br>great |  
+| bip_39_word_new_br_12 | magic<br>sentence<br>trouble<br>just<br>march<br>diesel<br>rug<br>pig<br>fortune<br>twin<br>great<br>annual |  
+| bip_39_word_new_br_2 | magic<br>sentence |  
+| bip_39_word_new_br_3 | magic<br>sentence<br>trouble |  
+| bip_39_word_new_br_4 | magic<br>sentence<br>trouble<br>just |  
+| bip_39_word_new_br_5 | magic<br>sentence<br>trouble<br>just<br>march |  
+| bip_39_word_new_br_6 | magic<br>sentence<br>trouble<br>just<br>march<br>diesel |  
+| bip_39_word_new_br_7 | magic<br>sentence<br>trouble<br>just<br>march<br>diesel<br>rug |  
+| bip_39_word_new_br_8 | magic<br>sentence<br>trouble<br>just<br>march<br>diesel<br>rug<br>pig |  
+| bip_39_word_new_br_9 | magic<br>sentence<br>trouble<br>just<br>march<br>diesel<br>rug<br>pig<br>fortune |  
+| bip_39_word_new_line_1 | magic |  
+| bip_39_word_new_line_10 | magic
 sentence
 trouble
 just
@@ -55,7 +55,7 @@ rug
 pig
 fortune
 twin |  
-| bip_39_word_new_line11 | magic
+| bip_39_word_new_line_11 | magic
 sentence
 trouble
 just
@@ -66,7 +66,7 @@ pig
 fortune
 twin
 great |  
-| bip_39_word_new_line12 | magic
+| bip_39_word_new_line_12 | magic
 sentence
 trouble
 just
@@ -78,34 +78,34 @@ fortune
 twin
 great
 annual |  
-| bip_39_word_new_line2 | magic
+| bip_39_word_new_line_2 | magic
 sentence |  
-| bip_39_word_new_line3 | magic
+| bip_39_word_new_line_3 | magic
 sentence
 trouble |  
-| bip_39_word_new_line4 | magic
+| bip_39_word_new_line_4 | magic
 sentence
 trouble
 just |  
-| bip_39_word_new_line5 | magic
+| bip_39_word_new_line_5 | magic
 sentence
 trouble
 just
 march |  
-| bip_39_word_new_line6 | magic
+| bip_39_word_new_line_6 | magic
 sentence
 trouble
 just
 march
 diesel |  
-| bip_39_word_new_line7 | magic
+| bip_39_word_new_line_7 | magic
 sentence
 trouble
 just
 march
 diesel
 rug |  
-| bip_39_word_new_line8 | magic
+| bip_39_word_new_line_8 | magic
 sentence
 trouble
 just
@@ -113,7 +113,7 @@ march
 diesel
 rug
 pig |  
-| bip_39_word_new_line9 | magic
+| bip_39_word_new_line_9 | magic
 sentence
 trouble
 just

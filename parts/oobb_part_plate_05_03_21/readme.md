@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hint |  
-| bip_39_word_new_br10 | hint<br>sniff<br>grant<br>lunar<br>screen<br>hazard<br>brain<br>just<br>depth<br>select |  
-| bip_39_word_new_br11 | hint<br>sniff<br>grant<br>lunar<br>screen<br>hazard<br>brain<br>just<br>depth<br>select<br>truth |  
-| bip_39_word_new_br12 | hint<br>sniff<br>grant<br>lunar<br>screen<br>hazard<br>brain<br>just<br>depth<br>select<br>truth<br>ability |  
-| bip_39_word_new_br2 | hint<br>sniff |  
-| bip_39_word_new_br3 | hint<br>sniff<br>grant |  
-| bip_39_word_new_br4 | hint<br>sniff<br>grant<br>lunar |  
-| bip_39_word_new_br5 | hint<br>sniff<br>grant<br>lunar<br>screen |  
-| bip_39_word_new_br6 | hint<br>sniff<br>grant<br>lunar<br>screen<br>hazard |  
-| bip_39_word_new_br7 | hint<br>sniff<br>grant<br>lunar<br>screen<br>hazard<br>brain |  
-| bip_39_word_new_br8 | hint<br>sniff<br>grant<br>lunar<br>screen<br>hazard<br>brain<br>just |  
-| bip_39_word_new_br9 | hint<br>sniff<br>grant<br>lunar<br>screen<br>hazard<br>brain<br>just<br>depth |  
-| bip_39_word_new_line1 | hint |  
-| bip_39_word_new_line10 | hint
+| bip_39_word_new_br_1 | hint |  
+| bip_39_word_new_br_10 | hint<br>sniff<br>grant<br>lunar<br>screen<br>hazard<br>brain<br>just<br>depth<br>select |  
+| bip_39_word_new_br_11 | hint<br>sniff<br>grant<br>lunar<br>screen<br>hazard<br>brain<br>just<br>depth<br>select<br>truth |  
+| bip_39_word_new_br_12 | hint<br>sniff<br>grant<br>lunar<br>screen<br>hazard<br>brain<br>just<br>depth<br>select<br>truth<br>ability |  
+| bip_39_word_new_br_2 | hint<br>sniff |  
+| bip_39_word_new_br_3 | hint<br>sniff<br>grant |  
+| bip_39_word_new_br_4 | hint<br>sniff<br>grant<br>lunar |  
+| bip_39_word_new_br_5 | hint<br>sniff<br>grant<br>lunar<br>screen |  
+| bip_39_word_new_br_6 | hint<br>sniff<br>grant<br>lunar<br>screen<br>hazard |  
+| bip_39_word_new_br_7 | hint<br>sniff<br>grant<br>lunar<br>screen<br>hazard<br>brain |  
+| bip_39_word_new_br_8 | hint<br>sniff<br>grant<br>lunar<br>screen<br>hazard<br>brain<br>just |  
+| bip_39_word_new_br_9 | hint<br>sniff<br>grant<br>lunar<br>screen<br>hazard<br>brain<br>just<br>depth |  
+| bip_39_word_new_line_1 | hint |  
+| bip_39_word_new_line_10 | hint
 sniff
 grant
 lunar
@@ -55,7 +55,7 @@ brain
 just
 depth
 select |  
-| bip_39_word_new_line11 | hint
+| bip_39_word_new_line_11 | hint
 sniff
 grant
 lunar
@@ -66,7 +66,7 @@ just
 depth
 select
 truth |  
-| bip_39_word_new_line12 | hint
+| bip_39_word_new_line_12 | hint
 sniff
 grant
 lunar
@@ -78,34 +78,34 @@ depth
 select
 truth
 ability |  
-| bip_39_word_new_line2 | hint
+| bip_39_word_new_line_2 | hint
 sniff |  
-| bip_39_word_new_line3 | hint
+| bip_39_word_new_line_3 | hint
 sniff
 grant |  
-| bip_39_word_new_line4 | hint
+| bip_39_word_new_line_4 | hint
 sniff
 grant
 lunar |  
-| bip_39_word_new_line5 | hint
+| bip_39_word_new_line_5 | hint
 sniff
 grant
 lunar
 screen |  
-| bip_39_word_new_line6 | hint
+| bip_39_word_new_line_6 | hint
 sniff
 grant
 lunar
 screen
 hazard |  
-| bip_39_word_new_line7 | hint
+| bip_39_word_new_line_7 | hint
 sniff
 grant
 lunar
 screen
 hazard
 brain |  
-| bip_39_word_new_line8 | hint
+| bip_39_word_new_line_8 | hint
 sniff
 grant
 lunar
@@ -113,7 +113,7 @@ screen
 hazard
 brain
 just |  
-| bip_39_word_new_line9 | hint
+| bip_39_word_new_line_9 | hint
 sniff
 grant
 lunar

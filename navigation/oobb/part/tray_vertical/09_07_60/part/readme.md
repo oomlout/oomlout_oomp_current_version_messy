@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | electric |  
-| bip_39_word_new_br10 | electric<br>north<br>box<br>usage<br>muscle<br>subject<br>toddler<br>execute<br>source<br>improve |  
-| bip_39_word_new_br11 | electric<br>north<br>box<br>usage<br>muscle<br>subject<br>toddler<br>execute<br>source<br>improve<br>turtle |  
-| bip_39_word_new_br12 | electric<br>north<br>box<br>usage<br>muscle<br>subject<br>toddler<br>execute<br>source<br>improve<br>turtle<br>amateur |  
-| bip_39_word_new_br2 | electric<br>north |  
-| bip_39_word_new_br3 | electric<br>north<br>box |  
-| bip_39_word_new_br4 | electric<br>north<br>box<br>usage |  
-| bip_39_word_new_br5 | electric<br>north<br>box<br>usage<br>muscle |  
-| bip_39_word_new_br6 | electric<br>north<br>box<br>usage<br>muscle<br>subject |  
-| bip_39_word_new_br7 | electric<br>north<br>box<br>usage<br>muscle<br>subject<br>toddler |  
-| bip_39_word_new_br8 | electric<br>north<br>box<br>usage<br>muscle<br>subject<br>toddler<br>execute |  
-| bip_39_word_new_br9 | electric<br>north<br>box<br>usage<br>muscle<br>subject<br>toddler<br>execute<br>source |  
-| bip_39_word_new_line1 | electric |  
-| bip_39_word_new_line10 | electric
+| bip_39_word_new_br_1 | electric |  
+| bip_39_word_new_br_10 | electric<br>north<br>box<br>usage<br>muscle<br>subject<br>toddler<br>execute<br>source<br>improve |  
+| bip_39_word_new_br_11 | electric<br>north<br>box<br>usage<br>muscle<br>subject<br>toddler<br>execute<br>source<br>improve<br>turtle |  
+| bip_39_word_new_br_12 | electric<br>north<br>box<br>usage<br>muscle<br>subject<br>toddler<br>execute<br>source<br>improve<br>turtle<br>amateur |  
+| bip_39_word_new_br_2 | electric<br>north |  
+| bip_39_word_new_br_3 | electric<br>north<br>box |  
+| bip_39_word_new_br_4 | electric<br>north<br>box<br>usage |  
+| bip_39_word_new_br_5 | electric<br>north<br>box<br>usage<br>muscle |  
+| bip_39_word_new_br_6 | electric<br>north<br>box<br>usage<br>muscle<br>subject |  
+| bip_39_word_new_br_7 | electric<br>north<br>box<br>usage<br>muscle<br>subject<br>toddler |  
+| bip_39_word_new_br_8 | electric<br>north<br>box<br>usage<br>muscle<br>subject<br>toddler<br>execute |  
+| bip_39_word_new_br_9 | electric<br>north<br>box<br>usage<br>muscle<br>subject<br>toddler<br>execute<br>source |  
+| bip_39_word_new_line_1 | electric |  
+| bip_39_word_new_line_10 | electric
 north
 box
 usage
@@ -55,7 +55,7 @@ toddler
 execute
 source
 improve |  
-| bip_39_word_new_line11 | electric
+| bip_39_word_new_line_11 | electric
 north
 box
 usage
@@ -66,7 +66,7 @@ execute
 source
 improve
 turtle |  
-| bip_39_word_new_line12 | electric
+| bip_39_word_new_line_12 | electric
 north
 box
 usage
@@ -78,34 +78,34 @@ source
 improve
 turtle
 amateur |  
-| bip_39_word_new_line2 | electric
+| bip_39_word_new_line_2 | electric
 north |  
-| bip_39_word_new_line3 | electric
+| bip_39_word_new_line_3 | electric
 north
 box |  
-| bip_39_word_new_line4 | electric
+| bip_39_word_new_line_4 | electric
 north
 box
 usage |  
-| bip_39_word_new_line5 | electric
+| bip_39_word_new_line_5 | electric
 north
 box
 usage
 muscle |  
-| bip_39_word_new_line6 | electric
+| bip_39_word_new_line_6 | electric
 north
 box
 usage
 muscle
 subject |  
-| bip_39_word_new_line7 | electric
+| bip_39_word_new_line_7 | electric
 north
 box
 usage
 muscle
 subject
 toddler |  
-| bip_39_word_new_line8 | electric
+| bip_39_word_new_line_8 | electric
 north
 box
 usage
@@ -113,7 +113,7 @@ muscle
 subject
 toddler
 execute |  
-| bip_39_word_new_line9 | electric
+| bip_39_word_new_line_9 | electric
 north
 box
 usage

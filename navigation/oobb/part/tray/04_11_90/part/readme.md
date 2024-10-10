@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | deny |  
-| bip_39_word_new_br10 | deny<br>since<br>waste<br>notice<br>ozone<br>crane<br>liquid<br>special<br>alley<br>coral |  
-| bip_39_word_new_br11 | deny<br>since<br>waste<br>notice<br>ozone<br>crane<br>liquid<br>special<br>alley<br>coral<br>truth |  
-| bip_39_word_new_br12 | deny<br>since<br>waste<br>notice<br>ozone<br>crane<br>liquid<br>special<br>alley<br>coral<br>truth<br>alert |  
-| bip_39_word_new_br2 | deny<br>since |  
-| bip_39_word_new_br3 | deny<br>since<br>waste |  
-| bip_39_word_new_br4 | deny<br>since<br>waste<br>notice |  
-| bip_39_word_new_br5 | deny<br>since<br>waste<br>notice<br>ozone |  
-| bip_39_word_new_br6 | deny<br>since<br>waste<br>notice<br>ozone<br>crane |  
-| bip_39_word_new_br7 | deny<br>since<br>waste<br>notice<br>ozone<br>crane<br>liquid |  
-| bip_39_word_new_br8 | deny<br>since<br>waste<br>notice<br>ozone<br>crane<br>liquid<br>special |  
-| bip_39_word_new_br9 | deny<br>since<br>waste<br>notice<br>ozone<br>crane<br>liquid<br>special<br>alley |  
-| bip_39_word_new_line1 | deny |  
-| bip_39_word_new_line10 | deny
+| bip_39_word_new_br_1 | deny |  
+| bip_39_word_new_br_10 | deny<br>since<br>waste<br>notice<br>ozone<br>crane<br>liquid<br>special<br>alley<br>coral |  
+| bip_39_word_new_br_11 | deny<br>since<br>waste<br>notice<br>ozone<br>crane<br>liquid<br>special<br>alley<br>coral<br>truth |  
+| bip_39_word_new_br_12 | deny<br>since<br>waste<br>notice<br>ozone<br>crane<br>liquid<br>special<br>alley<br>coral<br>truth<br>alert |  
+| bip_39_word_new_br_2 | deny<br>since |  
+| bip_39_word_new_br_3 | deny<br>since<br>waste |  
+| bip_39_word_new_br_4 | deny<br>since<br>waste<br>notice |  
+| bip_39_word_new_br_5 | deny<br>since<br>waste<br>notice<br>ozone |  
+| bip_39_word_new_br_6 | deny<br>since<br>waste<br>notice<br>ozone<br>crane |  
+| bip_39_word_new_br_7 | deny<br>since<br>waste<br>notice<br>ozone<br>crane<br>liquid |  
+| bip_39_word_new_br_8 | deny<br>since<br>waste<br>notice<br>ozone<br>crane<br>liquid<br>special |  
+| bip_39_word_new_br_9 | deny<br>since<br>waste<br>notice<br>ozone<br>crane<br>liquid<br>special<br>alley |  
+| bip_39_word_new_line_1 | deny |  
+| bip_39_word_new_line_10 | deny
 since
 waste
 notice
@@ -55,7 +55,7 @@ liquid
 special
 alley
 coral |  
-| bip_39_word_new_line11 | deny
+| bip_39_word_new_line_11 | deny
 since
 waste
 notice
@@ -66,7 +66,7 @@ special
 alley
 coral
 truth |  
-| bip_39_word_new_line12 | deny
+| bip_39_word_new_line_12 | deny
 since
 waste
 notice
@@ -78,34 +78,34 @@ alley
 coral
 truth
 alert |  
-| bip_39_word_new_line2 | deny
+| bip_39_word_new_line_2 | deny
 since |  
-| bip_39_word_new_line3 | deny
+| bip_39_word_new_line_3 | deny
 since
 waste |  
-| bip_39_word_new_line4 | deny
+| bip_39_word_new_line_4 | deny
 since
 waste
 notice |  
-| bip_39_word_new_line5 | deny
+| bip_39_word_new_line_5 | deny
 since
 waste
 notice
 ozone |  
-| bip_39_word_new_line6 | deny
+| bip_39_word_new_line_6 | deny
 since
 waste
 notice
 ozone
 crane |  
-| bip_39_word_new_line7 | deny
+| bip_39_word_new_line_7 | deny
 since
 waste
 notice
 ozone
 crane
 liquid |  
-| bip_39_word_new_line8 | deny
+| bip_39_word_new_line_8 | deny
 since
 waste
 notice
@@ -113,7 +113,7 @@ ozone
 crane
 liquid
 special |  
-| bip_39_word_new_line9 | deny
+| bip_39_word_new_line_9 | deny
 since
 waste
 notice

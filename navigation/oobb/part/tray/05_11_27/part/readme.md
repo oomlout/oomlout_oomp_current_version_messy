@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | boy |  
-| bip_39_word_new_br10 | boy<br>wink<br>spirit<br>humor<br>glance<br>neither<br>mother<br>blast<br>upper<br>chase |  
-| bip_39_word_new_br11 | boy<br>wink<br>spirit<br>humor<br>glance<br>neither<br>mother<br>blast<br>upper<br>chase<br>polar |  
-| bip_39_word_new_br12 | boy<br>wink<br>spirit<br>humor<br>glance<br>neither<br>mother<br>blast<br>upper<br>chase<br>polar<br>alone |  
-| bip_39_word_new_br2 | boy<br>wink |  
-| bip_39_word_new_br3 | boy<br>wink<br>spirit |  
-| bip_39_word_new_br4 | boy<br>wink<br>spirit<br>humor |  
-| bip_39_word_new_br5 | boy<br>wink<br>spirit<br>humor<br>glance |  
-| bip_39_word_new_br6 | boy<br>wink<br>spirit<br>humor<br>glance<br>neither |  
-| bip_39_word_new_br7 | boy<br>wink<br>spirit<br>humor<br>glance<br>neither<br>mother |  
-| bip_39_word_new_br8 | boy<br>wink<br>spirit<br>humor<br>glance<br>neither<br>mother<br>blast |  
-| bip_39_word_new_br9 | boy<br>wink<br>spirit<br>humor<br>glance<br>neither<br>mother<br>blast<br>upper |  
-| bip_39_word_new_line1 | boy |  
-| bip_39_word_new_line10 | boy
+| bip_39_word_new_br_1 | boy |  
+| bip_39_word_new_br_10 | boy<br>wink<br>spirit<br>humor<br>glance<br>neither<br>mother<br>blast<br>upper<br>chase |  
+| bip_39_word_new_br_11 | boy<br>wink<br>spirit<br>humor<br>glance<br>neither<br>mother<br>blast<br>upper<br>chase<br>polar |  
+| bip_39_word_new_br_12 | boy<br>wink<br>spirit<br>humor<br>glance<br>neither<br>mother<br>blast<br>upper<br>chase<br>polar<br>alone |  
+| bip_39_word_new_br_2 | boy<br>wink |  
+| bip_39_word_new_br_3 | boy<br>wink<br>spirit |  
+| bip_39_word_new_br_4 | boy<br>wink<br>spirit<br>humor |  
+| bip_39_word_new_br_5 | boy<br>wink<br>spirit<br>humor<br>glance |  
+| bip_39_word_new_br_6 | boy<br>wink<br>spirit<br>humor<br>glance<br>neither |  
+| bip_39_word_new_br_7 | boy<br>wink<br>spirit<br>humor<br>glance<br>neither<br>mother |  
+| bip_39_word_new_br_8 | boy<br>wink<br>spirit<br>humor<br>glance<br>neither<br>mother<br>blast |  
+| bip_39_word_new_br_9 | boy<br>wink<br>spirit<br>humor<br>glance<br>neither<br>mother<br>blast<br>upper |  
+| bip_39_word_new_line_1 | boy |  
+| bip_39_word_new_line_10 | boy
 wink
 spirit
 humor
@@ -55,7 +55,7 @@ mother
 blast
 upper
 chase |  
-| bip_39_word_new_line11 | boy
+| bip_39_word_new_line_11 | boy
 wink
 spirit
 humor
@@ -66,7 +66,7 @@ blast
 upper
 chase
 polar |  
-| bip_39_word_new_line12 | boy
+| bip_39_word_new_line_12 | boy
 wink
 spirit
 humor
@@ -78,34 +78,34 @@ upper
 chase
 polar
 alone |  
-| bip_39_word_new_line2 | boy
+| bip_39_word_new_line_2 | boy
 wink |  
-| bip_39_word_new_line3 | boy
+| bip_39_word_new_line_3 | boy
 wink
 spirit |  
-| bip_39_word_new_line4 | boy
+| bip_39_word_new_line_4 | boy
 wink
 spirit
 humor |  
-| bip_39_word_new_line5 | boy
+| bip_39_word_new_line_5 | boy
 wink
 spirit
 humor
 glance |  
-| bip_39_word_new_line6 | boy
+| bip_39_word_new_line_6 | boy
 wink
 spirit
 humor
 glance
 neither |  
-| bip_39_word_new_line7 | boy
+| bip_39_word_new_line_7 | boy
 wink
 spirit
 humor
 glance
 neither
 mother |  
-| bip_39_word_new_line8 | boy
+| bip_39_word_new_line_8 | boy
 wink
 spirit
 humor
@@ -113,7 +113,7 @@ glance
 neither
 mother
 blast |  
-| bip_39_word_new_line9 | boy
+| bip_39_word_new_line_9 | boy
 wink
 spirit
 humor

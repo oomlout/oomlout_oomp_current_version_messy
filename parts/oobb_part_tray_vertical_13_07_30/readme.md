@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | toe |  
-| bip_39_word_new_br10 | toe<br>strategy<br>sight<br>become<br>clip<br>pepper<br>parrot<br>deer<br>ill<br>define |  
-| bip_39_word_new_br11 | toe<br>strategy<br>sight<br>become<br>clip<br>pepper<br>parrot<br>deer<br>ill<br>define<br>school |  
-| bip_39_word_new_br12 | toe<br>strategy<br>sight<br>become<br>clip<br>pepper<br>parrot<br>deer<br>ill<br>define<br>school<br>able |  
-| bip_39_word_new_br2 | toe<br>strategy |  
-| bip_39_word_new_br3 | toe<br>strategy<br>sight |  
-| bip_39_word_new_br4 | toe<br>strategy<br>sight<br>become |  
-| bip_39_word_new_br5 | toe<br>strategy<br>sight<br>become<br>clip |  
-| bip_39_word_new_br6 | toe<br>strategy<br>sight<br>become<br>clip<br>pepper |  
-| bip_39_word_new_br7 | toe<br>strategy<br>sight<br>become<br>clip<br>pepper<br>parrot |  
-| bip_39_word_new_br8 | toe<br>strategy<br>sight<br>become<br>clip<br>pepper<br>parrot<br>deer |  
-| bip_39_word_new_br9 | toe<br>strategy<br>sight<br>become<br>clip<br>pepper<br>parrot<br>deer<br>ill |  
-| bip_39_word_new_line1 | toe |  
-| bip_39_word_new_line10 | toe
+| bip_39_word_new_br_1 | toe |  
+| bip_39_word_new_br_10 | toe<br>strategy<br>sight<br>become<br>clip<br>pepper<br>parrot<br>deer<br>ill<br>define |  
+| bip_39_word_new_br_11 | toe<br>strategy<br>sight<br>become<br>clip<br>pepper<br>parrot<br>deer<br>ill<br>define<br>school |  
+| bip_39_word_new_br_12 | toe<br>strategy<br>sight<br>become<br>clip<br>pepper<br>parrot<br>deer<br>ill<br>define<br>school<br>able |  
+| bip_39_word_new_br_2 | toe<br>strategy |  
+| bip_39_word_new_br_3 | toe<br>strategy<br>sight |  
+| bip_39_word_new_br_4 | toe<br>strategy<br>sight<br>become |  
+| bip_39_word_new_br_5 | toe<br>strategy<br>sight<br>become<br>clip |  
+| bip_39_word_new_br_6 | toe<br>strategy<br>sight<br>become<br>clip<br>pepper |  
+| bip_39_word_new_br_7 | toe<br>strategy<br>sight<br>become<br>clip<br>pepper<br>parrot |  
+| bip_39_word_new_br_8 | toe<br>strategy<br>sight<br>become<br>clip<br>pepper<br>parrot<br>deer |  
+| bip_39_word_new_br_9 | toe<br>strategy<br>sight<br>become<br>clip<br>pepper<br>parrot<br>deer<br>ill |  
+| bip_39_word_new_line_1 | toe |  
+| bip_39_word_new_line_10 | toe
 strategy
 sight
 become
@@ -55,7 +55,7 @@ parrot
 deer
 ill
 define |  
-| bip_39_word_new_line11 | toe
+| bip_39_word_new_line_11 | toe
 strategy
 sight
 become
@@ -66,7 +66,7 @@ deer
 ill
 define
 school |  
-| bip_39_word_new_line12 | toe
+| bip_39_word_new_line_12 | toe
 strategy
 sight
 become
@@ -78,34 +78,34 @@ ill
 define
 school
 able |  
-| bip_39_word_new_line2 | toe
+| bip_39_word_new_line_2 | toe
 strategy |  
-| bip_39_word_new_line3 | toe
+| bip_39_word_new_line_3 | toe
 strategy
 sight |  
-| bip_39_word_new_line4 | toe
+| bip_39_word_new_line_4 | toe
 strategy
 sight
 become |  
-| bip_39_word_new_line5 | toe
+| bip_39_word_new_line_5 | toe
 strategy
 sight
 become
 clip |  
-| bip_39_word_new_line6 | toe
+| bip_39_word_new_line_6 | toe
 strategy
 sight
 become
 clip
 pepper |  
-| bip_39_word_new_line7 | toe
+| bip_39_word_new_line_7 | toe
 strategy
 sight
 become
 clip
 pepper
 parrot |  
-| bip_39_word_new_line8 | toe
+| bip_39_word_new_line_8 | toe
 strategy
 sight
 become
@@ -113,7 +113,7 @@ clip
 pepper
 parrot
 deer |  
-| bip_39_word_new_line9 | toe
+| bip_39_word_new_line_9 | toe
 strategy
 sight
 become

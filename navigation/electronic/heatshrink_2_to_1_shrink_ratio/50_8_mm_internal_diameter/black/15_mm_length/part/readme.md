@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | target |  
-| bip_39_word_new_br10 | target<br>caught<br>doctor<br>range<br>canal<br>bright<br>spoon<br>end<br>dismiss<br>scissors |  
-| bip_39_word_new_br11 | target<br>caught<br>doctor<br>range<br>canal<br>bright<br>spoon<br>end<br>dismiss<br>scissors<br>collect |  
-| bip_39_word_new_br12 | target<br>caught<br>doctor<br>range<br>canal<br>bright<br>spoon<br>end<br>dismiss<br>scissors<br>collect<br>apple |  
-| bip_39_word_new_br2 | target<br>caught |  
-| bip_39_word_new_br3 | target<br>caught<br>doctor |  
-| bip_39_word_new_br4 | target<br>caught<br>doctor<br>range |  
-| bip_39_word_new_br5 | target<br>caught<br>doctor<br>range<br>canal |  
-| bip_39_word_new_br6 | target<br>caught<br>doctor<br>range<br>canal<br>bright |  
-| bip_39_word_new_br7 | target<br>caught<br>doctor<br>range<br>canal<br>bright<br>spoon |  
-| bip_39_word_new_br8 | target<br>caught<br>doctor<br>range<br>canal<br>bright<br>spoon<br>end |  
-| bip_39_word_new_br9 | target<br>caught<br>doctor<br>range<br>canal<br>bright<br>spoon<br>end<br>dismiss |  
-| bip_39_word_new_line1 | target |  
-| bip_39_word_new_line10 | target
+| bip_39_word_new_br_1 | target |  
+| bip_39_word_new_br_10 | target<br>caught<br>doctor<br>range<br>canal<br>bright<br>spoon<br>end<br>dismiss<br>scissors |  
+| bip_39_word_new_br_11 | target<br>caught<br>doctor<br>range<br>canal<br>bright<br>spoon<br>end<br>dismiss<br>scissors<br>collect |  
+| bip_39_word_new_br_12 | target<br>caught<br>doctor<br>range<br>canal<br>bright<br>spoon<br>end<br>dismiss<br>scissors<br>collect<br>apple |  
+| bip_39_word_new_br_2 | target<br>caught |  
+| bip_39_word_new_br_3 | target<br>caught<br>doctor |  
+| bip_39_word_new_br_4 | target<br>caught<br>doctor<br>range |  
+| bip_39_word_new_br_5 | target<br>caught<br>doctor<br>range<br>canal |  
+| bip_39_word_new_br_6 | target<br>caught<br>doctor<br>range<br>canal<br>bright |  
+| bip_39_word_new_br_7 | target<br>caught<br>doctor<br>range<br>canal<br>bright<br>spoon |  
+| bip_39_word_new_br_8 | target<br>caught<br>doctor<br>range<br>canal<br>bright<br>spoon<br>end |  
+| bip_39_word_new_br_9 | target<br>caught<br>doctor<br>range<br>canal<br>bright<br>spoon<br>end<br>dismiss |  
+| bip_39_word_new_line_1 | target |  
+| bip_39_word_new_line_10 | target
 caught
 doctor
 range
@@ -55,7 +55,7 @@ spoon
 end
 dismiss
 scissors |  
-| bip_39_word_new_line11 | target
+| bip_39_word_new_line_11 | target
 caught
 doctor
 range
@@ -66,7 +66,7 @@ end
 dismiss
 scissors
 collect |  
-| bip_39_word_new_line12 | target
+| bip_39_word_new_line_12 | target
 caught
 doctor
 range
@@ -78,34 +78,34 @@ dismiss
 scissors
 collect
 apple |  
-| bip_39_word_new_line2 | target
+| bip_39_word_new_line_2 | target
 caught |  
-| bip_39_word_new_line3 | target
+| bip_39_word_new_line_3 | target
 caught
 doctor |  
-| bip_39_word_new_line4 | target
+| bip_39_word_new_line_4 | target
 caught
 doctor
 range |  
-| bip_39_word_new_line5 | target
+| bip_39_word_new_line_5 | target
 caught
 doctor
 range
 canal |  
-| bip_39_word_new_line6 | target
+| bip_39_word_new_line_6 | target
 caught
 doctor
 range
 canal
 bright |  
-| bip_39_word_new_line7 | target
+| bip_39_word_new_line_7 | target
 caught
 doctor
 range
 canal
 bright
 spoon |  
-| bip_39_word_new_line8 | target
+| bip_39_word_new_line_8 | target
 caught
 doctor
 range
@@ -113,7 +113,7 @@ canal
 bright
 spoon
 end |  
-| bip_39_word_new_line9 | target
+| bip_39_word_new_line_9 | target
 caught
 doctor
 range

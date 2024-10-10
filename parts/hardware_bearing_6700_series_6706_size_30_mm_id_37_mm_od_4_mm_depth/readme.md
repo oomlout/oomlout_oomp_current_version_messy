@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | idea |  
-| bip_39_word_new_br10 | idea<br>senior<br>social<br>pass<br>square<br>clinic<br>together<br>either<br>slam<br>scan |  
-| bip_39_word_new_br11 | idea<br>senior<br>social<br>pass<br>square<br>clinic<br>together<br>either<br>slam<br>scan<br>cannon |  
-| bip_39_word_new_br12 | idea<br>senior<br>social<br>pass<br>square<br>clinic<br>together<br>either<br>slam<br>scan<br>cannon<br>ask |  
-| bip_39_word_new_br2 | idea<br>senior |  
-| bip_39_word_new_br3 | idea<br>senior<br>social |  
-| bip_39_word_new_br4 | idea<br>senior<br>social<br>pass |  
-| bip_39_word_new_br5 | idea<br>senior<br>social<br>pass<br>square |  
-| bip_39_word_new_br6 | idea<br>senior<br>social<br>pass<br>square<br>clinic |  
-| bip_39_word_new_br7 | idea<br>senior<br>social<br>pass<br>square<br>clinic<br>together |  
-| bip_39_word_new_br8 | idea<br>senior<br>social<br>pass<br>square<br>clinic<br>together<br>either |  
-| bip_39_word_new_br9 | idea<br>senior<br>social<br>pass<br>square<br>clinic<br>together<br>either<br>slam |  
-| bip_39_word_new_line1 | idea |  
-| bip_39_word_new_line10 | idea
+| bip_39_word_new_br_1 | idea |  
+| bip_39_word_new_br_10 | idea<br>senior<br>social<br>pass<br>square<br>clinic<br>together<br>either<br>slam<br>scan |  
+| bip_39_word_new_br_11 | idea<br>senior<br>social<br>pass<br>square<br>clinic<br>together<br>either<br>slam<br>scan<br>cannon |  
+| bip_39_word_new_br_12 | idea<br>senior<br>social<br>pass<br>square<br>clinic<br>together<br>either<br>slam<br>scan<br>cannon<br>ask |  
+| bip_39_word_new_br_2 | idea<br>senior |  
+| bip_39_word_new_br_3 | idea<br>senior<br>social |  
+| bip_39_word_new_br_4 | idea<br>senior<br>social<br>pass |  
+| bip_39_word_new_br_5 | idea<br>senior<br>social<br>pass<br>square |  
+| bip_39_word_new_br_6 | idea<br>senior<br>social<br>pass<br>square<br>clinic |  
+| bip_39_word_new_br_7 | idea<br>senior<br>social<br>pass<br>square<br>clinic<br>together |  
+| bip_39_word_new_br_8 | idea<br>senior<br>social<br>pass<br>square<br>clinic<br>together<br>either |  
+| bip_39_word_new_br_9 | idea<br>senior<br>social<br>pass<br>square<br>clinic<br>together<br>either<br>slam |  
+| bip_39_word_new_line_1 | idea |  
+| bip_39_word_new_line_10 | idea
 senior
 social
 pass
@@ -55,7 +55,7 @@ together
 either
 slam
 scan |  
-| bip_39_word_new_line11 | idea
+| bip_39_word_new_line_11 | idea
 senior
 social
 pass
@@ -66,7 +66,7 @@ either
 slam
 scan
 cannon |  
-| bip_39_word_new_line12 | idea
+| bip_39_word_new_line_12 | idea
 senior
 social
 pass
@@ -78,34 +78,34 @@ slam
 scan
 cannon
 ask |  
-| bip_39_word_new_line2 | idea
+| bip_39_word_new_line_2 | idea
 senior |  
-| bip_39_word_new_line3 | idea
+| bip_39_word_new_line_3 | idea
 senior
 social |  
-| bip_39_word_new_line4 | idea
+| bip_39_word_new_line_4 | idea
 senior
 social
 pass |  
-| bip_39_word_new_line5 | idea
+| bip_39_word_new_line_5 | idea
 senior
 social
 pass
 square |  
-| bip_39_word_new_line6 | idea
+| bip_39_word_new_line_6 | idea
 senior
 social
 pass
 square
 clinic |  
-| bip_39_word_new_line7 | idea
+| bip_39_word_new_line_7 | idea
 senior
 social
 pass
 square
 clinic
 together |  
-| bip_39_word_new_line8 | idea
+| bip_39_word_new_line_8 | idea
 senior
 social
 pass
@@ -113,7 +113,7 @@ square
 clinic
 together
 either |  
-| bip_39_word_new_line9 | idea
+| bip_39_word_new_line_9 | idea
 senior
 social
 pass

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | glimpse |  
-| bip_39_word_new_br10 | glimpse<br>hood<br>shoulder<br>body<br>critic<br>upgrade<br>glove<br>city<br>car<br>resemble |  
-| bip_39_word_new_br11 | glimpse<br>hood<br>shoulder<br>body<br>critic<br>upgrade<br>glove<br>city<br>car<br>resemble<br>insect |  
-| bip_39_word_new_br12 | glimpse<br>hood<br>shoulder<br>body<br>critic<br>upgrade<br>glove<br>city<br>car<br>resemble<br>insect<br>assume |  
-| bip_39_word_new_br2 | glimpse<br>hood |  
-| bip_39_word_new_br3 | glimpse<br>hood<br>shoulder |  
-| bip_39_word_new_br4 | glimpse<br>hood<br>shoulder<br>body |  
-| bip_39_word_new_br5 | glimpse<br>hood<br>shoulder<br>body<br>critic |  
-| bip_39_word_new_br6 | glimpse<br>hood<br>shoulder<br>body<br>critic<br>upgrade |  
-| bip_39_word_new_br7 | glimpse<br>hood<br>shoulder<br>body<br>critic<br>upgrade<br>glove |  
-| bip_39_word_new_br8 | glimpse<br>hood<br>shoulder<br>body<br>critic<br>upgrade<br>glove<br>city |  
-| bip_39_word_new_br9 | glimpse<br>hood<br>shoulder<br>body<br>critic<br>upgrade<br>glove<br>city<br>car |  
-| bip_39_word_new_line1 | glimpse |  
-| bip_39_word_new_line10 | glimpse
+| bip_39_word_new_br_1 | glimpse |  
+| bip_39_word_new_br_10 | glimpse<br>hood<br>shoulder<br>body<br>critic<br>upgrade<br>glove<br>city<br>car<br>resemble |  
+| bip_39_word_new_br_11 | glimpse<br>hood<br>shoulder<br>body<br>critic<br>upgrade<br>glove<br>city<br>car<br>resemble<br>insect |  
+| bip_39_word_new_br_12 | glimpse<br>hood<br>shoulder<br>body<br>critic<br>upgrade<br>glove<br>city<br>car<br>resemble<br>insect<br>assume |  
+| bip_39_word_new_br_2 | glimpse<br>hood |  
+| bip_39_word_new_br_3 | glimpse<br>hood<br>shoulder |  
+| bip_39_word_new_br_4 | glimpse<br>hood<br>shoulder<br>body |  
+| bip_39_word_new_br_5 | glimpse<br>hood<br>shoulder<br>body<br>critic |  
+| bip_39_word_new_br_6 | glimpse<br>hood<br>shoulder<br>body<br>critic<br>upgrade |  
+| bip_39_word_new_br_7 | glimpse<br>hood<br>shoulder<br>body<br>critic<br>upgrade<br>glove |  
+| bip_39_word_new_br_8 | glimpse<br>hood<br>shoulder<br>body<br>critic<br>upgrade<br>glove<br>city |  
+| bip_39_word_new_br_9 | glimpse<br>hood<br>shoulder<br>body<br>critic<br>upgrade<br>glove<br>city<br>car |  
+| bip_39_word_new_line_1 | glimpse |  
+| bip_39_word_new_line_10 | glimpse
 hood
 shoulder
 body
@@ -55,7 +55,7 @@ glove
 city
 car
 resemble |  
-| bip_39_word_new_line11 | glimpse
+| bip_39_word_new_line_11 | glimpse
 hood
 shoulder
 body
@@ -66,7 +66,7 @@ city
 car
 resemble
 insect |  
-| bip_39_word_new_line12 | glimpse
+| bip_39_word_new_line_12 | glimpse
 hood
 shoulder
 body
@@ -78,34 +78,34 @@ car
 resemble
 insect
 assume |  
-| bip_39_word_new_line2 | glimpse
+| bip_39_word_new_line_2 | glimpse
 hood |  
-| bip_39_word_new_line3 | glimpse
+| bip_39_word_new_line_3 | glimpse
 hood
 shoulder |  
-| bip_39_word_new_line4 | glimpse
+| bip_39_word_new_line_4 | glimpse
 hood
 shoulder
 body |  
-| bip_39_word_new_line5 | glimpse
+| bip_39_word_new_line_5 | glimpse
 hood
 shoulder
 body
 critic |  
-| bip_39_word_new_line6 | glimpse
+| bip_39_word_new_line_6 | glimpse
 hood
 shoulder
 body
 critic
 upgrade |  
-| bip_39_word_new_line7 | glimpse
+| bip_39_word_new_line_7 | glimpse
 hood
 shoulder
 body
 critic
 upgrade
 glove |  
-| bip_39_word_new_line8 | glimpse
+| bip_39_word_new_line_8 | glimpse
 hood
 shoulder
 body
@@ -113,7 +113,7 @@ critic
 upgrade
 glove
 city |  
-| bip_39_word_new_line9 | glimpse
+| bip_39_word_new_line_9 | glimpse
 hood
 shoulder
 body

@@ -1,17 +1,17 @@
-bip_39_word_new_br1: orange
-bip_39_word_new_br10: orange<br>luxury<br>better<br>miracle<br>amused<br>phrase<br>public<br>system<br>cloth<br>search
-bip_39_word_new_br11: orange<br>luxury<br>better<br>miracle<br>amused<br>phrase<br>public<br>system<br>cloth<br>search<br>pizza
-bip_39_word_new_br12: orange<br>luxury<br>better<br>miracle<br>amused<br>phrase<br>public<br>system<br>cloth<br>search<br>pizza<br>athlete
-bip_39_word_new_br2: orange<br>luxury
-bip_39_word_new_br3: orange<br>luxury<br>better
-bip_39_word_new_br4: orange<br>luxury<br>better<br>miracle
-bip_39_word_new_br5: orange<br>luxury<br>better<br>miracle<br>amused
-bip_39_word_new_br6: orange<br>luxury<br>better<br>miracle<br>amused<br>phrase
-bip_39_word_new_br7: orange<br>luxury<br>better<br>miracle<br>amused<br>phrase<br>public
-bip_39_word_new_br8: orange<br>luxury<br>better<br>miracle<br>amused<br>phrase<br>public<br>system
-bip_39_word_new_br9: orange<br>luxury<br>better<br>miracle<br>amused<br>phrase<br>public<br>system<br>cloth
-bip_39_word_new_line1: orange
-bip_39_word_new_line10: 'orange
+bip_39_word_new_br_1: orange
+bip_39_word_new_br_10: orange<br>luxury<br>better<br>miracle<br>amused<br>phrase<br>public<br>system<br>cloth<br>search
+bip_39_word_new_br_11: orange<br>luxury<br>better<br>miracle<br>amused<br>phrase<br>public<br>system<br>cloth<br>search<br>pizza
+bip_39_word_new_br_12: orange<br>luxury<br>better<br>miracle<br>amused<br>phrase<br>public<br>system<br>cloth<br>search<br>pizza<br>athlete
+bip_39_word_new_br_2: orange<br>luxury
+bip_39_word_new_br_3: orange<br>luxury<br>better
+bip_39_word_new_br_4: orange<br>luxury<br>better<br>miracle
+bip_39_word_new_br_5: orange<br>luxury<br>better<br>miracle<br>amused
+bip_39_word_new_br_6: orange<br>luxury<br>better<br>miracle<br>amused<br>phrase
+bip_39_word_new_br_7: orange<br>luxury<br>better<br>miracle<br>amused<br>phrase<br>public
+bip_39_word_new_br_8: orange<br>luxury<br>better<br>miracle<br>amused<br>phrase<br>public<br>system
+bip_39_word_new_br_9: orange<br>luxury<br>better<br>miracle<br>amused<br>phrase<br>public<br>system<br>cloth
+bip_39_word_new_line_1: orange
+bip_39_word_new_line_10: 'orange
 
   luxury
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'orange
   cloth
 
   search'
-bip_39_word_new_line11: 'orange
+bip_39_word_new_line_11: 'orange
 
   luxury
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'orange
   search
 
   pizza'
-bip_39_word_new_line12: 'orange
+bip_39_word_new_line_12: 'orange
 
   luxury
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'orange
   pizza
 
   athlete'
-bip_39_word_new_line2: 'orange
+bip_39_word_new_line_2: 'orange
 
   luxury'
-bip_39_word_new_line3: 'orange
+bip_39_word_new_line_3: 'orange
 
   luxury
 
   better'
-bip_39_word_new_line4: 'orange
+bip_39_word_new_line_4: 'orange
 
   luxury
 
   better
 
   miracle'
-bip_39_word_new_line5: 'orange
+bip_39_word_new_line_5: 'orange
 
   luxury
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'orange
   miracle
 
   amused'
-bip_39_word_new_line6: 'orange
+bip_39_word_new_line_6: 'orange
 
   luxury
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'orange
   amused
 
   phrase'
-bip_39_word_new_line7: 'orange
+bip_39_word_new_line_7: 'orange
 
   luxury
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'orange
   phrase
 
   public'
-bip_39_word_new_line8: 'orange
+bip_39_word_new_line_8: 'orange
 
   luxury
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'orange
   public
 
   system'
-bip_39_word_new_line9: 'orange
+bip_39_word_new_line_9: 'orange
 
   luxury
 

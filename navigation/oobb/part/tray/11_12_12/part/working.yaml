@@ -1,17 +1,17 @@
-bip_39_word_new_br1: visual
-bip_39_word_new_br10: visual<br>width<br>sudden<br>again<br>theme<br>pause<br>beauty<br>pumpkin<br>sorry<br>flower
-bip_39_word_new_br11: visual<br>width<br>sudden<br>again<br>theme<br>pause<br>beauty<br>pumpkin<br>sorry<br>flower<br>intact
-bip_39_word_new_br12: visual<br>width<br>sudden<br>again<br>theme<br>pause<br>beauty<br>pumpkin<br>sorry<br>flower<br>intact<br>abuse
-bip_39_word_new_br2: visual<br>width
-bip_39_word_new_br3: visual<br>width<br>sudden
-bip_39_word_new_br4: visual<br>width<br>sudden<br>again
-bip_39_word_new_br5: visual<br>width<br>sudden<br>again<br>theme
-bip_39_word_new_br6: visual<br>width<br>sudden<br>again<br>theme<br>pause
-bip_39_word_new_br7: visual<br>width<br>sudden<br>again<br>theme<br>pause<br>beauty
-bip_39_word_new_br8: visual<br>width<br>sudden<br>again<br>theme<br>pause<br>beauty<br>pumpkin
-bip_39_word_new_br9: visual<br>width<br>sudden<br>again<br>theme<br>pause<br>beauty<br>pumpkin<br>sorry
-bip_39_word_new_line1: visual
-bip_39_word_new_line10: 'visual
+bip_39_word_new_br_1: visual
+bip_39_word_new_br_10: visual<br>width<br>sudden<br>again<br>theme<br>pause<br>beauty<br>pumpkin<br>sorry<br>flower
+bip_39_word_new_br_11: visual<br>width<br>sudden<br>again<br>theme<br>pause<br>beauty<br>pumpkin<br>sorry<br>flower<br>intact
+bip_39_word_new_br_12: visual<br>width<br>sudden<br>again<br>theme<br>pause<br>beauty<br>pumpkin<br>sorry<br>flower<br>intact<br>abuse
+bip_39_word_new_br_2: visual<br>width
+bip_39_word_new_br_3: visual<br>width<br>sudden
+bip_39_word_new_br_4: visual<br>width<br>sudden<br>again
+bip_39_word_new_br_5: visual<br>width<br>sudden<br>again<br>theme
+bip_39_word_new_br_6: visual<br>width<br>sudden<br>again<br>theme<br>pause
+bip_39_word_new_br_7: visual<br>width<br>sudden<br>again<br>theme<br>pause<br>beauty
+bip_39_word_new_br_8: visual<br>width<br>sudden<br>again<br>theme<br>pause<br>beauty<br>pumpkin
+bip_39_word_new_br_9: visual<br>width<br>sudden<br>again<br>theme<br>pause<br>beauty<br>pumpkin<br>sorry
+bip_39_word_new_line_1: visual
+bip_39_word_new_line_10: 'visual
 
   width
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'visual
   sorry
 
   flower'
-bip_39_word_new_line11: 'visual
+bip_39_word_new_line_11: 'visual
 
   width
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'visual
   flower
 
   intact'
-bip_39_word_new_line12: 'visual
+bip_39_word_new_line_12: 'visual
 
   width
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'visual
   intact
 
   abuse'
-bip_39_word_new_line2: 'visual
+bip_39_word_new_line_2: 'visual
 
   width'
-bip_39_word_new_line3: 'visual
+bip_39_word_new_line_3: 'visual
 
   width
 
   sudden'
-bip_39_word_new_line4: 'visual
+bip_39_word_new_line_4: 'visual
 
   width
 
   sudden
 
   again'
-bip_39_word_new_line5: 'visual
+bip_39_word_new_line_5: 'visual
 
   width
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'visual
   again
 
   theme'
-bip_39_word_new_line6: 'visual
+bip_39_word_new_line_6: 'visual
 
   width
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'visual
   theme
 
   pause'
-bip_39_word_new_line7: 'visual
+bip_39_word_new_line_7: 'visual
 
   width
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'visual
   pause
 
   beauty'
-bip_39_word_new_line8: 'visual
+bip_39_word_new_line_8: 'visual
 
   width
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'visual
   beauty
 
   pumpkin'
-bip_39_word_new_line9: 'visual
+bip_39_word_new_line_9: 'visual
 
   width
 

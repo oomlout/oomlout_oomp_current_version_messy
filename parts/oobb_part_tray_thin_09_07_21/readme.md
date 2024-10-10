@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wave |  
-| bip_39_word_new_br10 | wave<br>cereal<br>gate<br>detail<br>cactus<br>prefer<br>decrease<br>rescue<br>syrup<br>pretty |  
-| bip_39_word_new_br11 | wave<br>cereal<br>gate<br>detail<br>cactus<br>prefer<br>decrease<br>rescue<br>syrup<br>pretty<br>elbow |  
-| bip_39_word_new_br12 | wave<br>cereal<br>gate<br>detail<br>cactus<br>prefer<br>decrease<br>rescue<br>syrup<br>pretty<br>elbow<br>attend |  
-| bip_39_word_new_br2 | wave<br>cereal |  
-| bip_39_word_new_br3 | wave<br>cereal<br>gate |  
-| bip_39_word_new_br4 | wave<br>cereal<br>gate<br>detail |  
-| bip_39_word_new_br5 | wave<br>cereal<br>gate<br>detail<br>cactus |  
-| bip_39_word_new_br6 | wave<br>cereal<br>gate<br>detail<br>cactus<br>prefer |  
-| bip_39_word_new_br7 | wave<br>cereal<br>gate<br>detail<br>cactus<br>prefer<br>decrease |  
-| bip_39_word_new_br8 | wave<br>cereal<br>gate<br>detail<br>cactus<br>prefer<br>decrease<br>rescue |  
-| bip_39_word_new_br9 | wave<br>cereal<br>gate<br>detail<br>cactus<br>prefer<br>decrease<br>rescue<br>syrup |  
-| bip_39_word_new_line1 | wave |  
-| bip_39_word_new_line10 | wave
+| bip_39_word_new_br_1 | wave |  
+| bip_39_word_new_br_10 | wave<br>cereal<br>gate<br>detail<br>cactus<br>prefer<br>decrease<br>rescue<br>syrup<br>pretty |  
+| bip_39_word_new_br_11 | wave<br>cereal<br>gate<br>detail<br>cactus<br>prefer<br>decrease<br>rescue<br>syrup<br>pretty<br>elbow |  
+| bip_39_word_new_br_12 | wave<br>cereal<br>gate<br>detail<br>cactus<br>prefer<br>decrease<br>rescue<br>syrup<br>pretty<br>elbow<br>attend |  
+| bip_39_word_new_br_2 | wave<br>cereal |  
+| bip_39_word_new_br_3 | wave<br>cereal<br>gate |  
+| bip_39_word_new_br_4 | wave<br>cereal<br>gate<br>detail |  
+| bip_39_word_new_br_5 | wave<br>cereal<br>gate<br>detail<br>cactus |  
+| bip_39_word_new_br_6 | wave<br>cereal<br>gate<br>detail<br>cactus<br>prefer |  
+| bip_39_word_new_br_7 | wave<br>cereal<br>gate<br>detail<br>cactus<br>prefer<br>decrease |  
+| bip_39_word_new_br_8 | wave<br>cereal<br>gate<br>detail<br>cactus<br>prefer<br>decrease<br>rescue |  
+| bip_39_word_new_br_9 | wave<br>cereal<br>gate<br>detail<br>cactus<br>prefer<br>decrease<br>rescue<br>syrup |  
+| bip_39_word_new_line_1 | wave |  
+| bip_39_word_new_line_10 | wave
 cereal
 gate
 detail
@@ -55,7 +55,7 @@ decrease
 rescue
 syrup
 pretty |  
-| bip_39_word_new_line11 | wave
+| bip_39_word_new_line_11 | wave
 cereal
 gate
 detail
@@ -66,7 +66,7 @@ rescue
 syrup
 pretty
 elbow |  
-| bip_39_word_new_line12 | wave
+| bip_39_word_new_line_12 | wave
 cereal
 gate
 detail
@@ -78,34 +78,34 @@ syrup
 pretty
 elbow
 attend |  
-| bip_39_word_new_line2 | wave
+| bip_39_word_new_line_2 | wave
 cereal |  
-| bip_39_word_new_line3 | wave
+| bip_39_word_new_line_3 | wave
 cereal
 gate |  
-| bip_39_word_new_line4 | wave
+| bip_39_word_new_line_4 | wave
 cereal
 gate
 detail |  
-| bip_39_word_new_line5 | wave
+| bip_39_word_new_line_5 | wave
 cereal
 gate
 detail
 cactus |  
-| bip_39_word_new_line6 | wave
+| bip_39_word_new_line_6 | wave
 cereal
 gate
 detail
 cactus
 prefer |  
-| bip_39_word_new_line7 | wave
+| bip_39_word_new_line_7 | wave
 cereal
 gate
 detail
 cactus
 prefer
 decrease |  
-| bip_39_word_new_line8 | wave
+| bip_39_word_new_line_8 | wave
 cereal
 gate
 detail
@@ -113,7 +113,7 @@ cactus
 prefer
 decrease
 rescue |  
-| bip_39_word_new_line9 | wave
+| bip_39_word_new_line_9 | wave
 cereal
 gate
 detail

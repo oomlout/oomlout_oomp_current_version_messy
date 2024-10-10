@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | trim |  
-| bip_39_word_new_br10 | trim<br>feed<br>churn<br>multiply<br>check<br>endorse<br>fortune<br>simple<br>burden<br>student |  
-| bip_39_word_new_br11 | trim<br>feed<br>churn<br>multiply<br>check<br>endorse<br>fortune<br>simple<br>burden<br>student<br>swamp |  
-| bip_39_word_new_br12 | trim<br>feed<br>churn<br>multiply<br>check<br>endorse<br>fortune<br>simple<br>burden<br>student<br>swamp<br>ahead |  
-| bip_39_word_new_br2 | trim<br>feed |  
-| bip_39_word_new_br3 | trim<br>feed<br>churn |  
-| bip_39_word_new_br4 | trim<br>feed<br>churn<br>multiply |  
-| bip_39_word_new_br5 | trim<br>feed<br>churn<br>multiply<br>check |  
-| bip_39_word_new_br6 | trim<br>feed<br>churn<br>multiply<br>check<br>endorse |  
-| bip_39_word_new_br7 | trim<br>feed<br>churn<br>multiply<br>check<br>endorse<br>fortune |  
-| bip_39_word_new_br8 | trim<br>feed<br>churn<br>multiply<br>check<br>endorse<br>fortune<br>simple |  
-| bip_39_word_new_br9 | trim<br>feed<br>churn<br>multiply<br>check<br>endorse<br>fortune<br>simple<br>burden |  
-| bip_39_word_new_line1 | trim |  
-| bip_39_word_new_line10 | trim
+| bip_39_word_new_br_1 | trim |  
+| bip_39_word_new_br_10 | trim<br>feed<br>churn<br>multiply<br>check<br>endorse<br>fortune<br>simple<br>burden<br>student |  
+| bip_39_word_new_br_11 | trim<br>feed<br>churn<br>multiply<br>check<br>endorse<br>fortune<br>simple<br>burden<br>student<br>swamp |  
+| bip_39_word_new_br_12 | trim<br>feed<br>churn<br>multiply<br>check<br>endorse<br>fortune<br>simple<br>burden<br>student<br>swamp<br>ahead |  
+| bip_39_word_new_br_2 | trim<br>feed |  
+| bip_39_word_new_br_3 | trim<br>feed<br>churn |  
+| bip_39_word_new_br_4 | trim<br>feed<br>churn<br>multiply |  
+| bip_39_word_new_br_5 | trim<br>feed<br>churn<br>multiply<br>check |  
+| bip_39_word_new_br_6 | trim<br>feed<br>churn<br>multiply<br>check<br>endorse |  
+| bip_39_word_new_br_7 | trim<br>feed<br>churn<br>multiply<br>check<br>endorse<br>fortune |  
+| bip_39_word_new_br_8 | trim<br>feed<br>churn<br>multiply<br>check<br>endorse<br>fortune<br>simple |  
+| bip_39_word_new_br_9 | trim<br>feed<br>churn<br>multiply<br>check<br>endorse<br>fortune<br>simple<br>burden |  
+| bip_39_word_new_line_1 | trim |  
+| bip_39_word_new_line_10 | trim
 feed
 churn
 multiply
@@ -55,7 +55,7 @@ fortune
 simple
 burden
 student |  
-| bip_39_word_new_line11 | trim
+| bip_39_word_new_line_11 | trim
 feed
 churn
 multiply
@@ -66,7 +66,7 @@ simple
 burden
 student
 swamp |  
-| bip_39_word_new_line12 | trim
+| bip_39_word_new_line_12 | trim
 feed
 churn
 multiply
@@ -78,34 +78,34 @@ burden
 student
 swamp
 ahead |  
-| bip_39_word_new_line2 | trim
+| bip_39_word_new_line_2 | trim
 feed |  
-| bip_39_word_new_line3 | trim
+| bip_39_word_new_line_3 | trim
 feed
 churn |  
-| bip_39_word_new_line4 | trim
+| bip_39_word_new_line_4 | trim
 feed
 churn
 multiply |  
-| bip_39_word_new_line5 | trim
+| bip_39_word_new_line_5 | trim
 feed
 churn
 multiply
 check |  
-| bip_39_word_new_line6 | trim
+| bip_39_word_new_line_6 | trim
 feed
 churn
 multiply
 check
 endorse |  
-| bip_39_word_new_line7 | trim
+| bip_39_word_new_line_7 | trim
 feed
 churn
 multiply
 check
 endorse
 fortune |  
-| bip_39_word_new_line8 | trim
+| bip_39_word_new_line_8 | trim
 feed
 churn
 multiply
@@ -113,7 +113,7 @@ check
 endorse
 fortune
 simple |  
-| bip_39_word_new_line9 | trim
+| bip_39_word_new_line_9 | trim
 feed
 churn
 multiply

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | exclude |  
-| bip_39_word_new_br10 | exclude<br>kick<br>artist<br>hundred<br>shrug<br>beyond<br>roof<br>wrap<br>relief<br>prepare |  
-| bip_39_word_new_br11 | exclude<br>kick<br>artist<br>hundred<br>shrug<br>beyond<br>roof<br>wrap<br>relief<br>prepare<br>frequent |  
-| bip_39_word_new_br12 | exclude<br>kick<br>artist<br>hundred<br>shrug<br>beyond<br>roof<br>wrap<br>relief<br>prepare<br>frequent<br>animal |  
-| bip_39_word_new_br2 | exclude<br>kick |  
-| bip_39_word_new_br3 | exclude<br>kick<br>artist |  
-| bip_39_word_new_br4 | exclude<br>kick<br>artist<br>hundred |  
-| bip_39_word_new_br5 | exclude<br>kick<br>artist<br>hundred<br>shrug |  
-| bip_39_word_new_br6 | exclude<br>kick<br>artist<br>hundred<br>shrug<br>beyond |  
-| bip_39_word_new_br7 | exclude<br>kick<br>artist<br>hundred<br>shrug<br>beyond<br>roof |  
-| bip_39_word_new_br8 | exclude<br>kick<br>artist<br>hundred<br>shrug<br>beyond<br>roof<br>wrap |  
-| bip_39_word_new_br9 | exclude<br>kick<br>artist<br>hundred<br>shrug<br>beyond<br>roof<br>wrap<br>relief |  
-| bip_39_word_new_line1 | exclude |  
-| bip_39_word_new_line10 | exclude
+| bip_39_word_new_br_1 | exclude |  
+| bip_39_word_new_br_10 | exclude<br>kick<br>artist<br>hundred<br>shrug<br>beyond<br>roof<br>wrap<br>relief<br>prepare |  
+| bip_39_word_new_br_11 | exclude<br>kick<br>artist<br>hundred<br>shrug<br>beyond<br>roof<br>wrap<br>relief<br>prepare<br>frequent |  
+| bip_39_word_new_br_12 | exclude<br>kick<br>artist<br>hundred<br>shrug<br>beyond<br>roof<br>wrap<br>relief<br>prepare<br>frequent<br>animal |  
+| bip_39_word_new_br_2 | exclude<br>kick |  
+| bip_39_word_new_br_3 | exclude<br>kick<br>artist |  
+| bip_39_word_new_br_4 | exclude<br>kick<br>artist<br>hundred |  
+| bip_39_word_new_br_5 | exclude<br>kick<br>artist<br>hundred<br>shrug |  
+| bip_39_word_new_br_6 | exclude<br>kick<br>artist<br>hundred<br>shrug<br>beyond |  
+| bip_39_word_new_br_7 | exclude<br>kick<br>artist<br>hundred<br>shrug<br>beyond<br>roof |  
+| bip_39_word_new_br_8 | exclude<br>kick<br>artist<br>hundred<br>shrug<br>beyond<br>roof<br>wrap |  
+| bip_39_word_new_br_9 | exclude<br>kick<br>artist<br>hundred<br>shrug<br>beyond<br>roof<br>wrap<br>relief |  
+| bip_39_word_new_line_1 | exclude |  
+| bip_39_word_new_line_10 | exclude
 kick
 artist
 hundred
@@ -55,7 +55,7 @@ roof
 wrap
 relief
 prepare |  
-| bip_39_word_new_line11 | exclude
+| bip_39_word_new_line_11 | exclude
 kick
 artist
 hundred
@@ -66,7 +66,7 @@ wrap
 relief
 prepare
 frequent |  
-| bip_39_word_new_line12 | exclude
+| bip_39_word_new_line_12 | exclude
 kick
 artist
 hundred
@@ -78,34 +78,34 @@ relief
 prepare
 frequent
 animal |  
-| bip_39_word_new_line2 | exclude
+| bip_39_word_new_line_2 | exclude
 kick |  
-| bip_39_word_new_line3 | exclude
+| bip_39_word_new_line_3 | exclude
 kick
 artist |  
-| bip_39_word_new_line4 | exclude
+| bip_39_word_new_line_4 | exclude
 kick
 artist
 hundred |  
-| bip_39_word_new_line5 | exclude
+| bip_39_word_new_line_5 | exclude
 kick
 artist
 hundred
 shrug |  
-| bip_39_word_new_line6 | exclude
+| bip_39_word_new_line_6 | exclude
 kick
 artist
 hundred
 shrug
 beyond |  
-| bip_39_word_new_line7 | exclude
+| bip_39_word_new_line_7 | exclude
 kick
 artist
 hundred
 shrug
 beyond
 roof |  
-| bip_39_word_new_line8 | exclude
+| bip_39_word_new_line_8 | exclude
 kick
 artist
 hundred
@@ -113,7 +113,7 @@ shrug
 beyond
 roof
 wrap |  
-| bip_39_word_new_line9 | exclude
+| bip_39_word_new_line_9 | exclude
 kick
 artist
 hundred

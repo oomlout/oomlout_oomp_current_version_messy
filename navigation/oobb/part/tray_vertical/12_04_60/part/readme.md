@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | blur |  
-| bip_39_word_new_br10 | blur<br>undo<br>runway<br>put<br>average<br>picnic<br>clerk<br>hover<br>minute<br>obscure |  
-| bip_39_word_new_br11 | blur<br>undo<br>runway<br>put<br>average<br>picnic<br>clerk<br>hover<br>minute<br>obscure<br>apple |  
-| bip_39_word_new_br12 | blur<br>undo<br>runway<br>put<br>average<br>picnic<br>clerk<br>hover<br>minute<br>obscure<br>apple<br>about |  
-| bip_39_word_new_br2 | blur<br>undo |  
-| bip_39_word_new_br3 | blur<br>undo<br>runway |  
-| bip_39_word_new_br4 | blur<br>undo<br>runway<br>put |  
-| bip_39_word_new_br5 | blur<br>undo<br>runway<br>put<br>average |  
-| bip_39_word_new_br6 | blur<br>undo<br>runway<br>put<br>average<br>picnic |  
-| bip_39_word_new_br7 | blur<br>undo<br>runway<br>put<br>average<br>picnic<br>clerk |  
-| bip_39_word_new_br8 | blur<br>undo<br>runway<br>put<br>average<br>picnic<br>clerk<br>hover |  
-| bip_39_word_new_br9 | blur<br>undo<br>runway<br>put<br>average<br>picnic<br>clerk<br>hover<br>minute |  
-| bip_39_word_new_line1 | blur |  
-| bip_39_word_new_line10 | blur
+| bip_39_word_new_br_1 | blur |  
+| bip_39_word_new_br_10 | blur<br>undo<br>runway<br>put<br>average<br>picnic<br>clerk<br>hover<br>minute<br>obscure |  
+| bip_39_word_new_br_11 | blur<br>undo<br>runway<br>put<br>average<br>picnic<br>clerk<br>hover<br>minute<br>obscure<br>apple |  
+| bip_39_word_new_br_12 | blur<br>undo<br>runway<br>put<br>average<br>picnic<br>clerk<br>hover<br>minute<br>obscure<br>apple<br>about |  
+| bip_39_word_new_br_2 | blur<br>undo |  
+| bip_39_word_new_br_3 | blur<br>undo<br>runway |  
+| bip_39_word_new_br_4 | blur<br>undo<br>runway<br>put |  
+| bip_39_word_new_br_5 | blur<br>undo<br>runway<br>put<br>average |  
+| bip_39_word_new_br_6 | blur<br>undo<br>runway<br>put<br>average<br>picnic |  
+| bip_39_word_new_br_7 | blur<br>undo<br>runway<br>put<br>average<br>picnic<br>clerk |  
+| bip_39_word_new_br_8 | blur<br>undo<br>runway<br>put<br>average<br>picnic<br>clerk<br>hover |  
+| bip_39_word_new_br_9 | blur<br>undo<br>runway<br>put<br>average<br>picnic<br>clerk<br>hover<br>minute |  
+| bip_39_word_new_line_1 | blur |  
+| bip_39_word_new_line_10 | blur
 undo
 runway
 put
@@ -55,7 +55,7 @@ clerk
 hover
 minute
 obscure |  
-| bip_39_word_new_line11 | blur
+| bip_39_word_new_line_11 | blur
 undo
 runway
 put
@@ -66,7 +66,7 @@ hover
 minute
 obscure
 apple |  
-| bip_39_word_new_line12 | blur
+| bip_39_word_new_line_12 | blur
 undo
 runway
 put
@@ -78,34 +78,34 @@ minute
 obscure
 apple
 about |  
-| bip_39_word_new_line2 | blur
+| bip_39_word_new_line_2 | blur
 undo |  
-| bip_39_word_new_line3 | blur
+| bip_39_word_new_line_3 | blur
 undo
 runway |  
-| bip_39_word_new_line4 | blur
+| bip_39_word_new_line_4 | blur
 undo
 runway
 put |  
-| bip_39_word_new_line5 | blur
+| bip_39_word_new_line_5 | blur
 undo
 runway
 put
 average |  
-| bip_39_word_new_line6 | blur
+| bip_39_word_new_line_6 | blur
 undo
 runway
 put
 average
 picnic |  
-| bip_39_word_new_line7 | blur
+| bip_39_word_new_line_7 | blur
 undo
 runway
 put
 average
 picnic
 clerk |  
-| bip_39_word_new_line8 | blur
+| bip_39_word_new_line_8 | blur
 undo
 runway
 put
@@ -113,7 +113,7 @@ average
 picnic
 clerk
 hover |  
-| bip_39_word_new_line9 | blur
+| bip_39_word_new_line_9 | blur
 undo
 runway
 put

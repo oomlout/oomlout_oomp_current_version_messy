@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dust |  
-| bip_39_word_new_br10 | dust<br>seek<br>elegant<br>camp<br>mule<br>sword<br>damp<br>movie<br>flip<br>system |  
-| bip_39_word_new_br11 | dust<br>seek<br>elegant<br>camp<br>mule<br>sword<br>damp<br>movie<br>flip<br>system<br>lift |  
-| bip_39_word_new_br12 | dust<br>seek<br>elegant<br>camp<br>mule<br>sword<br>damp<br>movie<br>flip<br>system<br>lift<br>arena |  
-| bip_39_word_new_br2 | dust<br>seek |  
-| bip_39_word_new_br3 | dust<br>seek<br>elegant |  
-| bip_39_word_new_br4 | dust<br>seek<br>elegant<br>camp |  
-| bip_39_word_new_br5 | dust<br>seek<br>elegant<br>camp<br>mule |  
-| bip_39_word_new_br6 | dust<br>seek<br>elegant<br>camp<br>mule<br>sword |  
-| bip_39_word_new_br7 | dust<br>seek<br>elegant<br>camp<br>mule<br>sword<br>damp |  
-| bip_39_word_new_br8 | dust<br>seek<br>elegant<br>camp<br>mule<br>sword<br>damp<br>movie |  
-| bip_39_word_new_br9 | dust<br>seek<br>elegant<br>camp<br>mule<br>sword<br>damp<br>movie<br>flip |  
-| bip_39_word_new_line1 | dust |  
-| bip_39_word_new_line10 | dust
+| bip_39_word_new_br_1 | dust |  
+| bip_39_word_new_br_10 | dust<br>seek<br>elegant<br>camp<br>mule<br>sword<br>damp<br>movie<br>flip<br>system |  
+| bip_39_word_new_br_11 | dust<br>seek<br>elegant<br>camp<br>mule<br>sword<br>damp<br>movie<br>flip<br>system<br>lift |  
+| bip_39_word_new_br_12 | dust<br>seek<br>elegant<br>camp<br>mule<br>sword<br>damp<br>movie<br>flip<br>system<br>lift<br>arena |  
+| bip_39_word_new_br_2 | dust<br>seek |  
+| bip_39_word_new_br_3 | dust<br>seek<br>elegant |  
+| bip_39_word_new_br_4 | dust<br>seek<br>elegant<br>camp |  
+| bip_39_word_new_br_5 | dust<br>seek<br>elegant<br>camp<br>mule |  
+| bip_39_word_new_br_6 | dust<br>seek<br>elegant<br>camp<br>mule<br>sword |  
+| bip_39_word_new_br_7 | dust<br>seek<br>elegant<br>camp<br>mule<br>sword<br>damp |  
+| bip_39_word_new_br_8 | dust<br>seek<br>elegant<br>camp<br>mule<br>sword<br>damp<br>movie |  
+| bip_39_word_new_br_9 | dust<br>seek<br>elegant<br>camp<br>mule<br>sword<br>damp<br>movie<br>flip |  
+| bip_39_word_new_line_1 | dust |  
+| bip_39_word_new_line_10 | dust
 seek
 elegant
 camp
@@ -55,7 +55,7 @@ damp
 movie
 flip
 system |  
-| bip_39_word_new_line11 | dust
+| bip_39_word_new_line_11 | dust
 seek
 elegant
 camp
@@ -66,7 +66,7 @@ movie
 flip
 system
 lift |  
-| bip_39_word_new_line12 | dust
+| bip_39_word_new_line_12 | dust
 seek
 elegant
 camp
@@ -78,34 +78,34 @@ flip
 system
 lift
 arena |  
-| bip_39_word_new_line2 | dust
+| bip_39_word_new_line_2 | dust
 seek |  
-| bip_39_word_new_line3 | dust
+| bip_39_word_new_line_3 | dust
 seek
 elegant |  
-| bip_39_word_new_line4 | dust
+| bip_39_word_new_line_4 | dust
 seek
 elegant
 camp |  
-| bip_39_word_new_line5 | dust
+| bip_39_word_new_line_5 | dust
 seek
 elegant
 camp
 mule |  
-| bip_39_word_new_line6 | dust
+| bip_39_word_new_line_6 | dust
 seek
 elegant
 camp
 mule
 sword |  
-| bip_39_word_new_line7 | dust
+| bip_39_word_new_line_7 | dust
 seek
 elegant
 camp
 mule
 sword
 damp |  
-| bip_39_word_new_line8 | dust
+| bip_39_word_new_line_8 | dust
 seek
 elegant
 camp
@@ -113,7 +113,7 @@ mule
 sword
 damp
 movie |  
-| bip_39_word_new_line9 | dust
+| bip_39_word_new_line_9 | dust
 seek
 elegant
 camp

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | squeeze |  
-| bip_39_word_new_br10 | squeeze<br>struggle<br>laugh<br>injury<br>afford<br>matter<br>float<br>dentist<br>mass<br>approve |  
-| bip_39_word_new_br11 | squeeze<br>struggle<br>laugh<br>injury<br>afford<br>matter<br>float<br>dentist<br>mass<br>approve<br>response |  
-| bip_39_word_new_br12 | squeeze<br>struggle<br>laugh<br>injury<br>afford<br>matter<br>float<br>dentist<br>mass<br>approve<br>response<br>analyst |  
-| bip_39_word_new_br2 | squeeze<br>struggle |  
-| bip_39_word_new_br3 | squeeze<br>struggle<br>laugh |  
-| bip_39_word_new_br4 | squeeze<br>struggle<br>laugh<br>injury |  
-| bip_39_word_new_br5 | squeeze<br>struggle<br>laugh<br>injury<br>afford |  
-| bip_39_word_new_br6 | squeeze<br>struggle<br>laugh<br>injury<br>afford<br>matter |  
-| bip_39_word_new_br7 | squeeze<br>struggle<br>laugh<br>injury<br>afford<br>matter<br>float |  
-| bip_39_word_new_br8 | squeeze<br>struggle<br>laugh<br>injury<br>afford<br>matter<br>float<br>dentist |  
-| bip_39_word_new_br9 | squeeze<br>struggle<br>laugh<br>injury<br>afford<br>matter<br>float<br>dentist<br>mass |  
-| bip_39_word_new_line1 | squeeze |  
-| bip_39_word_new_line10 | squeeze
+| bip_39_word_new_br_1 | squeeze |  
+| bip_39_word_new_br_10 | squeeze<br>struggle<br>laugh<br>injury<br>afford<br>matter<br>float<br>dentist<br>mass<br>approve |  
+| bip_39_word_new_br_11 | squeeze<br>struggle<br>laugh<br>injury<br>afford<br>matter<br>float<br>dentist<br>mass<br>approve<br>response |  
+| bip_39_word_new_br_12 | squeeze<br>struggle<br>laugh<br>injury<br>afford<br>matter<br>float<br>dentist<br>mass<br>approve<br>response<br>analyst |  
+| bip_39_word_new_br_2 | squeeze<br>struggle |  
+| bip_39_word_new_br_3 | squeeze<br>struggle<br>laugh |  
+| bip_39_word_new_br_4 | squeeze<br>struggle<br>laugh<br>injury |  
+| bip_39_word_new_br_5 | squeeze<br>struggle<br>laugh<br>injury<br>afford |  
+| bip_39_word_new_br_6 | squeeze<br>struggle<br>laugh<br>injury<br>afford<br>matter |  
+| bip_39_word_new_br_7 | squeeze<br>struggle<br>laugh<br>injury<br>afford<br>matter<br>float |  
+| bip_39_word_new_br_8 | squeeze<br>struggle<br>laugh<br>injury<br>afford<br>matter<br>float<br>dentist |  
+| bip_39_word_new_br_9 | squeeze<br>struggle<br>laugh<br>injury<br>afford<br>matter<br>float<br>dentist<br>mass |  
+| bip_39_word_new_line_1 | squeeze |  
+| bip_39_word_new_line_10 | squeeze
 struggle
 laugh
 injury
@@ -55,7 +55,7 @@ float
 dentist
 mass
 approve |  
-| bip_39_word_new_line11 | squeeze
+| bip_39_word_new_line_11 | squeeze
 struggle
 laugh
 injury
@@ -66,7 +66,7 @@ dentist
 mass
 approve
 response |  
-| bip_39_word_new_line12 | squeeze
+| bip_39_word_new_line_12 | squeeze
 struggle
 laugh
 injury
@@ -78,34 +78,34 @@ mass
 approve
 response
 analyst |  
-| bip_39_word_new_line2 | squeeze
+| bip_39_word_new_line_2 | squeeze
 struggle |  
-| bip_39_word_new_line3 | squeeze
+| bip_39_word_new_line_3 | squeeze
 struggle
 laugh |  
-| bip_39_word_new_line4 | squeeze
+| bip_39_word_new_line_4 | squeeze
 struggle
 laugh
 injury |  
-| bip_39_word_new_line5 | squeeze
+| bip_39_word_new_line_5 | squeeze
 struggle
 laugh
 injury
 afford |  
-| bip_39_word_new_line6 | squeeze
+| bip_39_word_new_line_6 | squeeze
 struggle
 laugh
 injury
 afford
 matter |  
-| bip_39_word_new_line7 | squeeze
+| bip_39_word_new_line_7 | squeeze
 struggle
 laugh
 injury
 afford
 matter
 float |  
-| bip_39_word_new_line8 | squeeze
+| bip_39_word_new_line_8 | squeeze
 struggle
 laugh
 injury
@@ -113,7 +113,7 @@ afford
 matter
 float
 dentist |  
-| bip_39_word_new_line9 | squeeze
+| bip_39_word_new_line_9 | squeeze
 struggle
 laugh
 injury

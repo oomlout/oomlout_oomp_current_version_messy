@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fence |  
-| bip_39_word_new_br10 | fence<br>tank<br>reject<br>thank<br>creek<br>slush<br>spend<br>riot<br>walk<br>steel |  
-| bip_39_word_new_br11 | fence<br>tank<br>reject<br>thank<br>creek<br>slush<br>spend<br>riot<br>walk<br>steel<br>elder |  
-| bip_39_word_new_br12 | fence<br>tank<br>reject<br>thank<br>creek<br>slush<br>spend<br>riot<br>walk<br>steel<br>elder<br>alpha |  
-| bip_39_word_new_br2 | fence<br>tank |  
-| bip_39_word_new_br3 | fence<br>tank<br>reject |  
-| bip_39_word_new_br4 | fence<br>tank<br>reject<br>thank |  
-| bip_39_word_new_br5 | fence<br>tank<br>reject<br>thank<br>creek |  
-| bip_39_word_new_br6 | fence<br>tank<br>reject<br>thank<br>creek<br>slush |  
-| bip_39_word_new_br7 | fence<br>tank<br>reject<br>thank<br>creek<br>slush<br>spend |  
-| bip_39_word_new_br8 | fence<br>tank<br>reject<br>thank<br>creek<br>slush<br>spend<br>riot |  
-| bip_39_word_new_br9 | fence<br>tank<br>reject<br>thank<br>creek<br>slush<br>spend<br>riot<br>walk |  
-| bip_39_word_new_line1 | fence |  
-| bip_39_word_new_line10 | fence
+| bip_39_word_new_br_1 | fence |  
+| bip_39_word_new_br_10 | fence<br>tank<br>reject<br>thank<br>creek<br>slush<br>spend<br>riot<br>walk<br>steel |  
+| bip_39_word_new_br_11 | fence<br>tank<br>reject<br>thank<br>creek<br>slush<br>spend<br>riot<br>walk<br>steel<br>elder |  
+| bip_39_word_new_br_12 | fence<br>tank<br>reject<br>thank<br>creek<br>slush<br>spend<br>riot<br>walk<br>steel<br>elder<br>alpha |  
+| bip_39_word_new_br_2 | fence<br>tank |  
+| bip_39_word_new_br_3 | fence<br>tank<br>reject |  
+| bip_39_word_new_br_4 | fence<br>tank<br>reject<br>thank |  
+| bip_39_word_new_br_5 | fence<br>tank<br>reject<br>thank<br>creek |  
+| bip_39_word_new_br_6 | fence<br>tank<br>reject<br>thank<br>creek<br>slush |  
+| bip_39_word_new_br_7 | fence<br>tank<br>reject<br>thank<br>creek<br>slush<br>spend |  
+| bip_39_word_new_br_8 | fence<br>tank<br>reject<br>thank<br>creek<br>slush<br>spend<br>riot |  
+| bip_39_word_new_br_9 | fence<br>tank<br>reject<br>thank<br>creek<br>slush<br>spend<br>riot<br>walk |  
+| bip_39_word_new_line_1 | fence |  
+| bip_39_word_new_line_10 | fence
 tank
 reject
 thank
@@ -55,7 +55,7 @@ spend
 riot
 walk
 steel |  
-| bip_39_word_new_line11 | fence
+| bip_39_word_new_line_11 | fence
 tank
 reject
 thank
@@ -66,7 +66,7 @@ riot
 walk
 steel
 elder |  
-| bip_39_word_new_line12 | fence
+| bip_39_word_new_line_12 | fence
 tank
 reject
 thank
@@ -78,34 +78,34 @@ walk
 steel
 elder
 alpha |  
-| bip_39_word_new_line2 | fence
+| bip_39_word_new_line_2 | fence
 tank |  
-| bip_39_word_new_line3 | fence
+| bip_39_word_new_line_3 | fence
 tank
 reject |  
-| bip_39_word_new_line4 | fence
+| bip_39_word_new_line_4 | fence
 tank
 reject
 thank |  
-| bip_39_word_new_line5 | fence
+| bip_39_word_new_line_5 | fence
 tank
 reject
 thank
 creek |  
-| bip_39_word_new_line6 | fence
+| bip_39_word_new_line_6 | fence
 tank
 reject
 thank
 creek
 slush |  
-| bip_39_word_new_line7 | fence
+| bip_39_word_new_line_7 | fence
 tank
 reject
 thank
 creek
 slush
 spend |  
-| bip_39_word_new_line8 | fence
+| bip_39_word_new_line_8 | fence
 tank
 reject
 thank
@@ -113,7 +113,7 @@ creek
 slush
 spend
 riot |  
-| bip_39_word_new_line9 | fence
+| bip_39_word_new_line_9 | fence
 tank
 reject
 thank

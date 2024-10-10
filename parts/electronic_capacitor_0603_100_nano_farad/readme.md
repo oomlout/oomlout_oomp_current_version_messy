@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | people |  
-| bip_39_word_new_br10 | people<br>refuse<br>they<br>note<br>online<br>strike<br>load<br>quantum<br>bird<br>elbow |  
-| bip_39_word_new_br11 | people<br>refuse<br>they<br>note<br>online<br>strike<br>load<br>quantum<br>bird<br>elbow<br>learn |  
-| bip_39_word_new_br12 | people<br>refuse<br>they<br>note<br>online<br>strike<br>load<br>quantum<br>bird<br>elbow<br>learn<br>angle |  
-| bip_39_word_new_br2 | people<br>refuse |  
-| bip_39_word_new_br3 | people<br>refuse<br>they |  
-| bip_39_word_new_br4 | people<br>refuse<br>they<br>note |  
-| bip_39_word_new_br5 | people<br>refuse<br>they<br>note<br>online |  
-| bip_39_word_new_br6 | people<br>refuse<br>they<br>note<br>online<br>strike |  
-| bip_39_word_new_br7 | people<br>refuse<br>they<br>note<br>online<br>strike<br>load |  
-| bip_39_word_new_br8 | people<br>refuse<br>they<br>note<br>online<br>strike<br>load<br>quantum |  
-| bip_39_word_new_br9 | people<br>refuse<br>they<br>note<br>online<br>strike<br>load<br>quantum<br>bird |  
-| bip_39_word_new_line1 | people |  
-| bip_39_word_new_line10 | people
+| bip_39_word_new_br_1 | people |  
+| bip_39_word_new_br_10 | people<br>refuse<br>they<br>note<br>online<br>strike<br>load<br>quantum<br>bird<br>elbow |  
+| bip_39_word_new_br_11 | people<br>refuse<br>they<br>note<br>online<br>strike<br>load<br>quantum<br>bird<br>elbow<br>learn |  
+| bip_39_word_new_br_12 | people<br>refuse<br>they<br>note<br>online<br>strike<br>load<br>quantum<br>bird<br>elbow<br>learn<br>angle |  
+| bip_39_word_new_br_2 | people<br>refuse |  
+| bip_39_word_new_br_3 | people<br>refuse<br>they |  
+| bip_39_word_new_br_4 | people<br>refuse<br>they<br>note |  
+| bip_39_word_new_br_5 | people<br>refuse<br>they<br>note<br>online |  
+| bip_39_word_new_br_6 | people<br>refuse<br>they<br>note<br>online<br>strike |  
+| bip_39_word_new_br_7 | people<br>refuse<br>they<br>note<br>online<br>strike<br>load |  
+| bip_39_word_new_br_8 | people<br>refuse<br>they<br>note<br>online<br>strike<br>load<br>quantum |  
+| bip_39_word_new_br_9 | people<br>refuse<br>they<br>note<br>online<br>strike<br>load<br>quantum<br>bird |  
+| bip_39_word_new_line_1 | people |  
+| bip_39_word_new_line_10 | people
 refuse
 they
 note
@@ -55,7 +55,7 @@ load
 quantum
 bird
 elbow |  
-| bip_39_word_new_line11 | people
+| bip_39_word_new_line_11 | people
 refuse
 they
 note
@@ -66,7 +66,7 @@ quantum
 bird
 elbow
 learn |  
-| bip_39_word_new_line12 | people
+| bip_39_word_new_line_12 | people
 refuse
 they
 note
@@ -78,34 +78,34 @@ bird
 elbow
 learn
 angle |  
-| bip_39_word_new_line2 | people
+| bip_39_word_new_line_2 | people
 refuse |  
-| bip_39_word_new_line3 | people
+| bip_39_word_new_line_3 | people
 refuse
 they |  
-| bip_39_word_new_line4 | people
+| bip_39_word_new_line_4 | people
 refuse
 they
 note |  
-| bip_39_word_new_line5 | people
+| bip_39_word_new_line_5 | people
 refuse
 they
 note
 online |  
-| bip_39_word_new_line6 | people
+| bip_39_word_new_line_6 | people
 refuse
 they
 note
 online
 strike |  
-| bip_39_word_new_line7 | people
+| bip_39_word_new_line_7 | people
 refuse
 they
 note
 online
 strike
 load |  
-| bip_39_word_new_line8 | people
+| bip_39_word_new_line_8 | people
 refuse
 they
 note
@@ -113,7 +113,7 @@ online
 strike
 load
 quantum |  
-| bip_39_word_new_line9 | people
+| bip_39_word_new_line_9 | people
 refuse
 they
 note

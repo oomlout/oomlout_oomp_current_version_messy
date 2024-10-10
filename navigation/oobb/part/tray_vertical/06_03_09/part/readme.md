@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | prosper |  
-| bip_39_word_new_br10 | prosper<br>inside<br>right<br>tank<br>have<br>win<br>rural<br>inner<br>beef<br>skate |  
-| bip_39_word_new_br11 | prosper<br>inside<br>right<br>tank<br>have<br>win<br>rural<br>inner<br>beef<br>skate<br>argue |  
-| bip_39_word_new_br12 | prosper<br>inside<br>right<br>tank<br>have<br>win<br>rural<br>inner<br>beef<br>skate<br>argue<br>alone |  
-| bip_39_word_new_br2 | prosper<br>inside |  
-| bip_39_word_new_br3 | prosper<br>inside<br>right |  
-| bip_39_word_new_br4 | prosper<br>inside<br>right<br>tank |  
-| bip_39_word_new_br5 | prosper<br>inside<br>right<br>tank<br>have |  
-| bip_39_word_new_br6 | prosper<br>inside<br>right<br>tank<br>have<br>win |  
-| bip_39_word_new_br7 | prosper<br>inside<br>right<br>tank<br>have<br>win<br>rural |  
-| bip_39_word_new_br8 | prosper<br>inside<br>right<br>tank<br>have<br>win<br>rural<br>inner |  
-| bip_39_word_new_br9 | prosper<br>inside<br>right<br>tank<br>have<br>win<br>rural<br>inner<br>beef |  
-| bip_39_word_new_line1 | prosper |  
-| bip_39_word_new_line10 | prosper
+| bip_39_word_new_br_1 | prosper |  
+| bip_39_word_new_br_10 | prosper<br>inside<br>right<br>tank<br>have<br>win<br>rural<br>inner<br>beef<br>skate |  
+| bip_39_word_new_br_11 | prosper<br>inside<br>right<br>tank<br>have<br>win<br>rural<br>inner<br>beef<br>skate<br>argue |  
+| bip_39_word_new_br_12 | prosper<br>inside<br>right<br>tank<br>have<br>win<br>rural<br>inner<br>beef<br>skate<br>argue<br>alone |  
+| bip_39_word_new_br_2 | prosper<br>inside |  
+| bip_39_word_new_br_3 | prosper<br>inside<br>right |  
+| bip_39_word_new_br_4 | prosper<br>inside<br>right<br>tank |  
+| bip_39_word_new_br_5 | prosper<br>inside<br>right<br>tank<br>have |  
+| bip_39_word_new_br_6 | prosper<br>inside<br>right<br>tank<br>have<br>win |  
+| bip_39_word_new_br_7 | prosper<br>inside<br>right<br>tank<br>have<br>win<br>rural |  
+| bip_39_word_new_br_8 | prosper<br>inside<br>right<br>tank<br>have<br>win<br>rural<br>inner |  
+| bip_39_word_new_br_9 | prosper<br>inside<br>right<br>tank<br>have<br>win<br>rural<br>inner<br>beef |  
+| bip_39_word_new_line_1 | prosper |  
+| bip_39_word_new_line_10 | prosper
 inside
 right
 tank
@@ -55,7 +55,7 @@ rural
 inner
 beef
 skate |  
-| bip_39_word_new_line11 | prosper
+| bip_39_word_new_line_11 | prosper
 inside
 right
 tank
@@ -66,7 +66,7 @@ inner
 beef
 skate
 argue |  
-| bip_39_word_new_line12 | prosper
+| bip_39_word_new_line_12 | prosper
 inside
 right
 tank
@@ -78,34 +78,34 @@ beef
 skate
 argue
 alone |  
-| bip_39_word_new_line2 | prosper
+| bip_39_word_new_line_2 | prosper
 inside |  
-| bip_39_word_new_line3 | prosper
+| bip_39_word_new_line_3 | prosper
 inside
 right |  
-| bip_39_word_new_line4 | prosper
+| bip_39_word_new_line_4 | prosper
 inside
 right
 tank |  
-| bip_39_word_new_line5 | prosper
+| bip_39_word_new_line_5 | prosper
 inside
 right
 tank
 have |  
-| bip_39_word_new_line6 | prosper
+| bip_39_word_new_line_6 | prosper
 inside
 right
 tank
 have
 win |  
-| bip_39_word_new_line7 | prosper
+| bip_39_word_new_line_7 | prosper
 inside
 right
 tank
 have
 win
 rural |  
-| bip_39_word_new_line8 | prosper
+| bip_39_word_new_line_8 | prosper
 inside
 right
 tank
@@ -113,7 +113,7 @@ have
 win
 rural
 inner |  
-| bip_39_word_new_line9 | prosper
+| bip_39_word_new_line_9 | prosper
 inside
 right
 tank

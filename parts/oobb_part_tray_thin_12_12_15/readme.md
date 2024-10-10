@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | exile |  
-| bip_39_word_new_br10 | exile<br>profit<br>myself<br>potato<br>neutral<br>weasel<br>unit<br>glue<br>sustain<br>parade |  
-| bip_39_word_new_br11 | exile<br>profit<br>myself<br>potato<br>neutral<br>weasel<br>unit<br>glue<br>sustain<br>parade<br>relief |  
-| bip_39_word_new_br12 | exile<br>profit<br>myself<br>potato<br>neutral<br>weasel<br>unit<br>glue<br>sustain<br>parade<br>relief<br>any |  
-| bip_39_word_new_br2 | exile<br>profit |  
-| bip_39_word_new_br3 | exile<br>profit<br>myself |  
-| bip_39_word_new_br4 | exile<br>profit<br>myself<br>potato |  
-| bip_39_word_new_br5 | exile<br>profit<br>myself<br>potato<br>neutral |  
-| bip_39_word_new_br6 | exile<br>profit<br>myself<br>potato<br>neutral<br>weasel |  
-| bip_39_word_new_br7 | exile<br>profit<br>myself<br>potato<br>neutral<br>weasel<br>unit |  
-| bip_39_word_new_br8 | exile<br>profit<br>myself<br>potato<br>neutral<br>weasel<br>unit<br>glue |  
-| bip_39_word_new_br9 | exile<br>profit<br>myself<br>potato<br>neutral<br>weasel<br>unit<br>glue<br>sustain |  
-| bip_39_word_new_line1 | exile |  
-| bip_39_word_new_line10 | exile
+| bip_39_word_new_br_1 | exile |  
+| bip_39_word_new_br_10 | exile<br>profit<br>myself<br>potato<br>neutral<br>weasel<br>unit<br>glue<br>sustain<br>parade |  
+| bip_39_word_new_br_11 | exile<br>profit<br>myself<br>potato<br>neutral<br>weasel<br>unit<br>glue<br>sustain<br>parade<br>relief |  
+| bip_39_word_new_br_12 | exile<br>profit<br>myself<br>potato<br>neutral<br>weasel<br>unit<br>glue<br>sustain<br>parade<br>relief<br>any |  
+| bip_39_word_new_br_2 | exile<br>profit |  
+| bip_39_word_new_br_3 | exile<br>profit<br>myself |  
+| bip_39_word_new_br_4 | exile<br>profit<br>myself<br>potato |  
+| bip_39_word_new_br_5 | exile<br>profit<br>myself<br>potato<br>neutral |  
+| bip_39_word_new_br_6 | exile<br>profit<br>myself<br>potato<br>neutral<br>weasel |  
+| bip_39_word_new_br_7 | exile<br>profit<br>myself<br>potato<br>neutral<br>weasel<br>unit |  
+| bip_39_word_new_br_8 | exile<br>profit<br>myself<br>potato<br>neutral<br>weasel<br>unit<br>glue |  
+| bip_39_word_new_br_9 | exile<br>profit<br>myself<br>potato<br>neutral<br>weasel<br>unit<br>glue<br>sustain |  
+| bip_39_word_new_line_1 | exile |  
+| bip_39_word_new_line_10 | exile
 profit
 myself
 potato
@@ -55,7 +55,7 @@ unit
 glue
 sustain
 parade |  
-| bip_39_word_new_line11 | exile
+| bip_39_word_new_line_11 | exile
 profit
 myself
 potato
@@ -66,7 +66,7 @@ glue
 sustain
 parade
 relief |  
-| bip_39_word_new_line12 | exile
+| bip_39_word_new_line_12 | exile
 profit
 myself
 potato
@@ -78,34 +78,34 @@ sustain
 parade
 relief
 any |  
-| bip_39_word_new_line2 | exile
+| bip_39_word_new_line_2 | exile
 profit |  
-| bip_39_word_new_line3 | exile
+| bip_39_word_new_line_3 | exile
 profit
 myself |  
-| bip_39_word_new_line4 | exile
+| bip_39_word_new_line_4 | exile
 profit
 myself
 potato |  
-| bip_39_word_new_line5 | exile
+| bip_39_word_new_line_5 | exile
 profit
 myself
 potato
 neutral |  
-| bip_39_word_new_line6 | exile
+| bip_39_word_new_line_6 | exile
 profit
 myself
 potato
 neutral
 weasel |  
-| bip_39_word_new_line7 | exile
+| bip_39_word_new_line_7 | exile
 profit
 myself
 potato
 neutral
 weasel
 unit |  
-| bip_39_word_new_line8 | exile
+| bip_39_word_new_line_8 | exile
 profit
 myself
 potato
@@ -113,7 +113,7 @@ neutral
 weasel
 unit
 glue |  
-| bip_39_word_new_line9 | exile
+| bip_39_word_new_line_9 | exile
 profit
 myself
 potato

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | settle |  
-| bip_39_word_new_br10 | settle<br>board<br>real<br>forget<br>physical<br>example<br>viable<br>brand<br>oppose<br>lesson |  
-| bip_39_word_new_br11 | settle<br>board<br>real<br>forget<br>physical<br>example<br>viable<br>brand<br>oppose<br>lesson<br>present |  
-| bip_39_word_new_br12 | settle<br>board<br>real<br>forget<br>physical<br>example<br>viable<br>brand<br>oppose<br>lesson<br>present<br>advance |  
-| bip_39_word_new_br2 | settle<br>board |  
-| bip_39_word_new_br3 | settle<br>board<br>real |  
-| bip_39_word_new_br4 | settle<br>board<br>real<br>forget |  
-| bip_39_word_new_br5 | settle<br>board<br>real<br>forget<br>physical |  
-| bip_39_word_new_br6 | settle<br>board<br>real<br>forget<br>physical<br>example |  
-| bip_39_word_new_br7 | settle<br>board<br>real<br>forget<br>physical<br>example<br>viable |  
-| bip_39_word_new_br8 | settle<br>board<br>real<br>forget<br>physical<br>example<br>viable<br>brand |  
-| bip_39_word_new_br9 | settle<br>board<br>real<br>forget<br>physical<br>example<br>viable<br>brand<br>oppose |  
-| bip_39_word_new_line1 | settle |  
-| bip_39_word_new_line10 | settle
+| bip_39_word_new_br_1 | settle |  
+| bip_39_word_new_br_10 | settle<br>board<br>real<br>forget<br>physical<br>example<br>viable<br>brand<br>oppose<br>lesson |  
+| bip_39_word_new_br_11 | settle<br>board<br>real<br>forget<br>physical<br>example<br>viable<br>brand<br>oppose<br>lesson<br>present |  
+| bip_39_word_new_br_12 | settle<br>board<br>real<br>forget<br>physical<br>example<br>viable<br>brand<br>oppose<br>lesson<br>present<br>advance |  
+| bip_39_word_new_br_2 | settle<br>board |  
+| bip_39_word_new_br_3 | settle<br>board<br>real |  
+| bip_39_word_new_br_4 | settle<br>board<br>real<br>forget |  
+| bip_39_word_new_br_5 | settle<br>board<br>real<br>forget<br>physical |  
+| bip_39_word_new_br_6 | settle<br>board<br>real<br>forget<br>physical<br>example |  
+| bip_39_word_new_br_7 | settle<br>board<br>real<br>forget<br>physical<br>example<br>viable |  
+| bip_39_word_new_br_8 | settle<br>board<br>real<br>forget<br>physical<br>example<br>viable<br>brand |  
+| bip_39_word_new_br_9 | settle<br>board<br>real<br>forget<br>physical<br>example<br>viable<br>brand<br>oppose |  
+| bip_39_word_new_line_1 | settle |  
+| bip_39_word_new_line_10 | settle
 board
 real
 forget
@@ -55,7 +55,7 @@ viable
 brand
 oppose
 lesson |  
-| bip_39_word_new_line11 | settle
+| bip_39_word_new_line_11 | settle
 board
 real
 forget
@@ -66,7 +66,7 @@ brand
 oppose
 lesson
 present |  
-| bip_39_word_new_line12 | settle
+| bip_39_word_new_line_12 | settle
 board
 real
 forget
@@ -78,34 +78,34 @@ oppose
 lesson
 present
 advance |  
-| bip_39_word_new_line2 | settle
+| bip_39_word_new_line_2 | settle
 board |  
-| bip_39_word_new_line3 | settle
+| bip_39_word_new_line_3 | settle
 board
 real |  
-| bip_39_word_new_line4 | settle
+| bip_39_word_new_line_4 | settle
 board
 real
 forget |  
-| bip_39_word_new_line5 | settle
+| bip_39_word_new_line_5 | settle
 board
 real
 forget
 physical |  
-| bip_39_word_new_line6 | settle
+| bip_39_word_new_line_6 | settle
 board
 real
 forget
 physical
 example |  
-| bip_39_word_new_line7 | settle
+| bip_39_word_new_line_7 | settle
 board
 real
 forget
 physical
 example
 viable |  
-| bip_39_word_new_line8 | settle
+| bip_39_word_new_line_8 | settle
 board
 real
 forget
@@ -113,7 +113,7 @@ physical
 example
 viable
 brand |  
-| bip_39_word_new_line9 | settle
+| bip_39_word_new_line_9 | settle
 board
 real
 forget

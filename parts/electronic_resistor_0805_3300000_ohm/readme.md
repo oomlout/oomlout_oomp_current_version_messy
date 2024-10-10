@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | exit |  
-| bip_39_word_new_br10 | exit<br>grain<br>patch<br>client<br>fat<br>cart<br>daring<br>work<br>inform<br>satoshi |  
-| bip_39_word_new_br11 | exit<br>grain<br>patch<br>client<br>fat<br>cart<br>daring<br>work<br>inform<br>satoshi<br>write |  
-| bip_39_word_new_br12 | exit<br>grain<br>patch<br>client<br>fat<br>cart<br>daring<br>work<br>inform<br>satoshi<br>write<br>adapt |  
-| bip_39_word_new_br2 | exit<br>grain |  
-| bip_39_word_new_br3 | exit<br>grain<br>patch |  
-| bip_39_word_new_br4 | exit<br>grain<br>patch<br>client |  
-| bip_39_word_new_br5 | exit<br>grain<br>patch<br>client<br>fat |  
-| bip_39_word_new_br6 | exit<br>grain<br>patch<br>client<br>fat<br>cart |  
-| bip_39_word_new_br7 | exit<br>grain<br>patch<br>client<br>fat<br>cart<br>daring |  
-| bip_39_word_new_br8 | exit<br>grain<br>patch<br>client<br>fat<br>cart<br>daring<br>work |  
-| bip_39_word_new_br9 | exit<br>grain<br>patch<br>client<br>fat<br>cart<br>daring<br>work<br>inform |  
-| bip_39_word_new_line1 | exit |  
-| bip_39_word_new_line10 | exit
+| bip_39_word_new_br_1 | exit |  
+| bip_39_word_new_br_10 | exit<br>grain<br>patch<br>client<br>fat<br>cart<br>daring<br>work<br>inform<br>satoshi |  
+| bip_39_word_new_br_11 | exit<br>grain<br>patch<br>client<br>fat<br>cart<br>daring<br>work<br>inform<br>satoshi<br>write |  
+| bip_39_word_new_br_12 | exit<br>grain<br>patch<br>client<br>fat<br>cart<br>daring<br>work<br>inform<br>satoshi<br>write<br>adapt |  
+| bip_39_word_new_br_2 | exit<br>grain |  
+| bip_39_word_new_br_3 | exit<br>grain<br>patch |  
+| bip_39_word_new_br_4 | exit<br>grain<br>patch<br>client |  
+| bip_39_word_new_br_5 | exit<br>grain<br>patch<br>client<br>fat |  
+| bip_39_word_new_br_6 | exit<br>grain<br>patch<br>client<br>fat<br>cart |  
+| bip_39_word_new_br_7 | exit<br>grain<br>patch<br>client<br>fat<br>cart<br>daring |  
+| bip_39_word_new_br_8 | exit<br>grain<br>patch<br>client<br>fat<br>cart<br>daring<br>work |  
+| bip_39_word_new_br_9 | exit<br>grain<br>patch<br>client<br>fat<br>cart<br>daring<br>work<br>inform |  
+| bip_39_word_new_line_1 | exit |  
+| bip_39_word_new_line_10 | exit
 grain
 patch
 client
@@ -55,7 +55,7 @@ daring
 work
 inform
 satoshi |  
-| bip_39_word_new_line11 | exit
+| bip_39_word_new_line_11 | exit
 grain
 patch
 client
@@ -66,7 +66,7 @@ work
 inform
 satoshi
 write |  
-| bip_39_word_new_line12 | exit
+| bip_39_word_new_line_12 | exit
 grain
 patch
 client
@@ -78,34 +78,34 @@ inform
 satoshi
 write
 adapt |  
-| bip_39_word_new_line2 | exit
+| bip_39_word_new_line_2 | exit
 grain |  
-| bip_39_word_new_line3 | exit
+| bip_39_word_new_line_3 | exit
 grain
 patch |  
-| bip_39_word_new_line4 | exit
+| bip_39_word_new_line_4 | exit
 grain
 patch
 client |  
-| bip_39_word_new_line5 | exit
+| bip_39_word_new_line_5 | exit
 grain
 patch
 client
 fat |  
-| bip_39_word_new_line6 | exit
+| bip_39_word_new_line_6 | exit
 grain
 patch
 client
 fat
 cart |  
-| bip_39_word_new_line7 | exit
+| bip_39_word_new_line_7 | exit
 grain
 patch
 client
 fat
 cart
 daring |  
-| bip_39_word_new_line8 | exit
+| bip_39_word_new_line_8 | exit
 grain
 patch
 client
@@ -113,7 +113,7 @@ fat
 cart
 daring
 work |  
-| bip_39_word_new_line9 | exit
+| bip_39_word_new_line_9 | exit
 grain
 patch
 client

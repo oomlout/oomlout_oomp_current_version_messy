@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | toward |  
-| bip_39_word_new_br10 | toward<br>robust<br>soccer<br>labor<br>stage<br>street<br>adjust<br>delay<br>pudding<br>usage |  
-| bip_39_word_new_br11 | toward<br>robust<br>soccer<br>labor<br>stage<br>street<br>adjust<br>delay<br>pudding<br>usage<br>tilt |  
-| bip_39_word_new_br12 | toward<br>robust<br>soccer<br>labor<br>stage<br>street<br>adjust<br>delay<br>pudding<br>usage<br>tilt<br>advance |  
-| bip_39_word_new_br2 | toward<br>robust |  
-| bip_39_word_new_br3 | toward<br>robust<br>soccer |  
-| bip_39_word_new_br4 | toward<br>robust<br>soccer<br>labor |  
-| bip_39_word_new_br5 | toward<br>robust<br>soccer<br>labor<br>stage |  
-| bip_39_word_new_br6 | toward<br>robust<br>soccer<br>labor<br>stage<br>street |  
-| bip_39_word_new_br7 | toward<br>robust<br>soccer<br>labor<br>stage<br>street<br>adjust |  
-| bip_39_word_new_br8 | toward<br>robust<br>soccer<br>labor<br>stage<br>street<br>adjust<br>delay |  
-| bip_39_word_new_br9 | toward<br>robust<br>soccer<br>labor<br>stage<br>street<br>adjust<br>delay<br>pudding |  
-| bip_39_word_new_line1 | toward |  
-| bip_39_word_new_line10 | toward
+| bip_39_word_new_br_1 | toward |  
+| bip_39_word_new_br_10 | toward<br>robust<br>soccer<br>labor<br>stage<br>street<br>adjust<br>delay<br>pudding<br>usage |  
+| bip_39_word_new_br_11 | toward<br>robust<br>soccer<br>labor<br>stage<br>street<br>adjust<br>delay<br>pudding<br>usage<br>tilt |  
+| bip_39_word_new_br_12 | toward<br>robust<br>soccer<br>labor<br>stage<br>street<br>adjust<br>delay<br>pudding<br>usage<br>tilt<br>advance |  
+| bip_39_word_new_br_2 | toward<br>robust |  
+| bip_39_word_new_br_3 | toward<br>robust<br>soccer |  
+| bip_39_word_new_br_4 | toward<br>robust<br>soccer<br>labor |  
+| bip_39_word_new_br_5 | toward<br>robust<br>soccer<br>labor<br>stage |  
+| bip_39_word_new_br_6 | toward<br>robust<br>soccer<br>labor<br>stage<br>street |  
+| bip_39_word_new_br_7 | toward<br>robust<br>soccer<br>labor<br>stage<br>street<br>adjust |  
+| bip_39_word_new_br_8 | toward<br>robust<br>soccer<br>labor<br>stage<br>street<br>adjust<br>delay |  
+| bip_39_word_new_br_9 | toward<br>robust<br>soccer<br>labor<br>stage<br>street<br>adjust<br>delay<br>pudding |  
+| bip_39_word_new_line_1 | toward |  
+| bip_39_word_new_line_10 | toward
 robust
 soccer
 labor
@@ -55,7 +55,7 @@ adjust
 delay
 pudding
 usage |  
-| bip_39_word_new_line11 | toward
+| bip_39_word_new_line_11 | toward
 robust
 soccer
 labor
@@ -66,7 +66,7 @@ delay
 pudding
 usage
 tilt |  
-| bip_39_word_new_line12 | toward
+| bip_39_word_new_line_12 | toward
 robust
 soccer
 labor
@@ -78,34 +78,34 @@ pudding
 usage
 tilt
 advance |  
-| bip_39_word_new_line2 | toward
+| bip_39_word_new_line_2 | toward
 robust |  
-| bip_39_word_new_line3 | toward
+| bip_39_word_new_line_3 | toward
 robust
 soccer |  
-| bip_39_word_new_line4 | toward
+| bip_39_word_new_line_4 | toward
 robust
 soccer
 labor |  
-| bip_39_word_new_line5 | toward
+| bip_39_word_new_line_5 | toward
 robust
 soccer
 labor
 stage |  
-| bip_39_word_new_line6 | toward
+| bip_39_word_new_line_6 | toward
 robust
 soccer
 labor
 stage
 street |  
-| bip_39_word_new_line7 | toward
+| bip_39_word_new_line_7 | toward
 robust
 soccer
 labor
 stage
 street
 adjust |  
-| bip_39_word_new_line8 | toward
+| bip_39_word_new_line_8 | toward
 robust
 soccer
 labor
@@ -113,7 +113,7 @@ stage
 street
 adjust
 delay |  
-| bip_39_word_new_line9 | toward
+| bip_39_word_new_line_9 | toward
 robust
 soccer
 labor

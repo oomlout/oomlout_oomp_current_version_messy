@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | profit |  
-| bip_39_word_new_br10 | profit<br>palm<br>hunt<br>verify<br>unusual<br>vintage<br>rich<br>capable<br>thunder<br>record |  
-| bip_39_word_new_br11 | profit<br>palm<br>hunt<br>verify<br>unusual<br>vintage<br>rich<br>capable<br>thunder<br>record<br>warm |  
-| bip_39_word_new_br12 | profit<br>palm<br>hunt<br>verify<br>unusual<br>vintage<br>rich<br>capable<br>thunder<br>record<br>warm<br>album |  
-| bip_39_word_new_br2 | profit<br>palm |  
-| bip_39_word_new_br3 | profit<br>palm<br>hunt |  
-| bip_39_word_new_br4 | profit<br>palm<br>hunt<br>verify |  
-| bip_39_word_new_br5 | profit<br>palm<br>hunt<br>verify<br>unusual |  
-| bip_39_word_new_br6 | profit<br>palm<br>hunt<br>verify<br>unusual<br>vintage |  
-| bip_39_word_new_br7 | profit<br>palm<br>hunt<br>verify<br>unusual<br>vintage<br>rich |  
-| bip_39_word_new_br8 | profit<br>palm<br>hunt<br>verify<br>unusual<br>vintage<br>rich<br>capable |  
-| bip_39_word_new_br9 | profit<br>palm<br>hunt<br>verify<br>unusual<br>vintage<br>rich<br>capable<br>thunder |  
-| bip_39_word_new_line1 | profit |  
-| bip_39_word_new_line10 | profit
+| bip_39_word_new_br_1 | profit |  
+| bip_39_word_new_br_10 | profit<br>palm<br>hunt<br>verify<br>unusual<br>vintage<br>rich<br>capable<br>thunder<br>record |  
+| bip_39_word_new_br_11 | profit<br>palm<br>hunt<br>verify<br>unusual<br>vintage<br>rich<br>capable<br>thunder<br>record<br>warm |  
+| bip_39_word_new_br_12 | profit<br>palm<br>hunt<br>verify<br>unusual<br>vintage<br>rich<br>capable<br>thunder<br>record<br>warm<br>album |  
+| bip_39_word_new_br_2 | profit<br>palm |  
+| bip_39_word_new_br_3 | profit<br>palm<br>hunt |  
+| bip_39_word_new_br_4 | profit<br>palm<br>hunt<br>verify |  
+| bip_39_word_new_br_5 | profit<br>palm<br>hunt<br>verify<br>unusual |  
+| bip_39_word_new_br_6 | profit<br>palm<br>hunt<br>verify<br>unusual<br>vintage |  
+| bip_39_word_new_br_7 | profit<br>palm<br>hunt<br>verify<br>unusual<br>vintage<br>rich |  
+| bip_39_word_new_br_8 | profit<br>palm<br>hunt<br>verify<br>unusual<br>vintage<br>rich<br>capable |  
+| bip_39_word_new_br_9 | profit<br>palm<br>hunt<br>verify<br>unusual<br>vintage<br>rich<br>capable<br>thunder |  
+| bip_39_word_new_line_1 | profit |  
+| bip_39_word_new_line_10 | profit
 palm
 hunt
 verify
@@ -55,7 +55,7 @@ rich
 capable
 thunder
 record |  
-| bip_39_word_new_line11 | profit
+| bip_39_word_new_line_11 | profit
 palm
 hunt
 verify
@@ -66,7 +66,7 @@ capable
 thunder
 record
 warm |  
-| bip_39_word_new_line12 | profit
+| bip_39_word_new_line_12 | profit
 palm
 hunt
 verify
@@ -78,34 +78,34 @@ thunder
 record
 warm
 album |  
-| bip_39_word_new_line2 | profit
+| bip_39_word_new_line_2 | profit
 palm |  
-| bip_39_word_new_line3 | profit
+| bip_39_word_new_line_3 | profit
 palm
 hunt |  
-| bip_39_word_new_line4 | profit
+| bip_39_word_new_line_4 | profit
 palm
 hunt
 verify |  
-| bip_39_word_new_line5 | profit
+| bip_39_word_new_line_5 | profit
 palm
 hunt
 verify
 unusual |  
-| bip_39_word_new_line6 | profit
+| bip_39_word_new_line_6 | profit
 palm
 hunt
 verify
 unusual
 vintage |  
-| bip_39_word_new_line7 | profit
+| bip_39_word_new_line_7 | profit
 palm
 hunt
 verify
 unusual
 vintage
 rich |  
-| bip_39_word_new_line8 | profit
+| bip_39_word_new_line_8 | profit
 palm
 hunt
 verify
@@ -113,7 +113,7 @@ unusual
 vintage
 rich
 capable |  
-| bip_39_word_new_line9 | profit
+| bip_39_word_new_line_9 | profit
 palm
 hunt
 verify

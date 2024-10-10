@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | illegal |  
-| bip_39_word_new_br10 | illegal<br>album<br>onion<br>awful<br>pony<br>zebra<br>bird<br>crush<br>strategy<br>keep |  
-| bip_39_word_new_br11 | illegal<br>album<br>onion<br>awful<br>pony<br>zebra<br>bird<br>crush<br>strategy<br>keep<br>deliver |  
-| bip_39_word_new_br12 | illegal<br>album<br>onion<br>awful<br>pony<br>zebra<br>bird<br>crush<br>strategy<br>keep<br>deliver<br>ankle |  
-| bip_39_word_new_br2 | illegal<br>album |  
-| bip_39_word_new_br3 | illegal<br>album<br>onion |  
-| bip_39_word_new_br4 | illegal<br>album<br>onion<br>awful |  
-| bip_39_word_new_br5 | illegal<br>album<br>onion<br>awful<br>pony |  
-| bip_39_word_new_br6 | illegal<br>album<br>onion<br>awful<br>pony<br>zebra |  
-| bip_39_word_new_br7 | illegal<br>album<br>onion<br>awful<br>pony<br>zebra<br>bird |  
-| bip_39_word_new_br8 | illegal<br>album<br>onion<br>awful<br>pony<br>zebra<br>bird<br>crush |  
-| bip_39_word_new_br9 | illegal<br>album<br>onion<br>awful<br>pony<br>zebra<br>bird<br>crush<br>strategy |  
-| bip_39_word_new_line1 | illegal |  
-| bip_39_word_new_line10 | illegal
+| bip_39_word_new_br_1 | illegal |  
+| bip_39_word_new_br_10 | illegal<br>album<br>onion<br>awful<br>pony<br>zebra<br>bird<br>crush<br>strategy<br>keep |  
+| bip_39_word_new_br_11 | illegal<br>album<br>onion<br>awful<br>pony<br>zebra<br>bird<br>crush<br>strategy<br>keep<br>deliver |  
+| bip_39_word_new_br_12 | illegal<br>album<br>onion<br>awful<br>pony<br>zebra<br>bird<br>crush<br>strategy<br>keep<br>deliver<br>ankle |  
+| bip_39_word_new_br_2 | illegal<br>album |  
+| bip_39_word_new_br_3 | illegal<br>album<br>onion |  
+| bip_39_word_new_br_4 | illegal<br>album<br>onion<br>awful |  
+| bip_39_word_new_br_5 | illegal<br>album<br>onion<br>awful<br>pony |  
+| bip_39_word_new_br_6 | illegal<br>album<br>onion<br>awful<br>pony<br>zebra |  
+| bip_39_word_new_br_7 | illegal<br>album<br>onion<br>awful<br>pony<br>zebra<br>bird |  
+| bip_39_word_new_br_8 | illegal<br>album<br>onion<br>awful<br>pony<br>zebra<br>bird<br>crush |  
+| bip_39_word_new_br_9 | illegal<br>album<br>onion<br>awful<br>pony<br>zebra<br>bird<br>crush<br>strategy |  
+| bip_39_word_new_line_1 | illegal |  
+| bip_39_word_new_line_10 | illegal
 album
 onion
 awful
@@ -55,7 +55,7 @@ bird
 crush
 strategy
 keep |  
-| bip_39_word_new_line11 | illegal
+| bip_39_word_new_line_11 | illegal
 album
 onion
 awful
@@ -66,7 +66,7 @@ crush
 strategy
 keep
 deliver |  
-| bip_39_word_new_line12 | illegal
+| bip_39_word_new_line_12 | illegal
 album
 onion
 awful
@@ -78,34 +78,34 @@ strategy
 keep
 deliver
 ankle |  
-| bip_39_word_new_line2 | illegal
+| bip_39_word_new_line_2 | illegal
 album |  
-| bip_39_word_new_line3 | illegal
+| bip_39_word_new_line_3 | illegal
 album
 onion |  
-| bip_39_word_new_line4 | illegal
+| bip_39_word_new_line_4 | illegal
 album
 onion
 awful |  
-| bip_39_word_new_line5 | illegal
+| bip_39_word_new_line_5 | illegal
 album
 onion
 awful
 pony |  
-| bip_39_word_new_line6 | illegal
+| bip_39_word_new_line_6 | illegal
 album
 onion
 awful
 pony
 zebra |  
-| bip_39_word_new_line7 | illegal
+| bip_39_word_new_line_7 | illegal
 album
 onion
 awful
 pony
 zebra
 bird |  
-| bip_39_word_new_line8 | illegal
+| bip_39_word_new_line_8 | illegal
 album
 onion
 awful
@@ -113,7 +113,7 @@ pony
 zebra
 bird
 crush |  
-| bip_39_word_new_line9 | illegal
+| bip_39_word_new_line_9 | illegal
 album
 onion
 awful

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | news |  
-| bip_39_word_new_br10 | news<br>since<br>fire<br>lizard<br>snap<br>black<br>coral<br>torch<br>cake<br>wood |  
-| bip_39_word_new_br11 | news<br>since<br>fire<br>lizard<br>snap<br>black<br>coral<br>torch<br>cake<br>wood<br>wise |  
-| bip_39_word_new_br12 | news<br>since<br>fire<br>lizard<br>snap<br>black<br>coral<br>torch<br>cake<br>wood<br>wise<br>average |  
-| bip_39_word_new_br2 | news<br>since |  
-| bip_39_word_new_br3 | news<br>since<br>fire |  
-| bip_39_word_new_br4 | news<br>since<br>fire<br>lizard |  
-| bip_39_word_new_br5 | news<br>since<br>fire<br>lizard<br>snap |  
-| bip_39_word_new_br6 | news<br>since<br>fire<br>lizard<br>snap<br>black |  
-| bip_39_word_new_br7 | news<br>since<br>fire<br>lizard<br>snap<br>black<br>coral |  
-| bip_39_word_new_br8 | news<br>since<br>fire<br>lizard<br>snap<br>black<br>coral<br>torch |  
-| bip_39_word_new_br9 | news<br>since<br>fire<br>lizard<br>snap<br>black<br>coral<br>torch<br>cake |  
-| bip_39_word_new_line1 | news |  
-| bip_39_word_new_line10 | news
+| bip_39_word_new_br_1 | news |  
+| bip_39_word_new_br_10 | news<br>since<br>fire<br>lizard<br>snap<br>black<br>coral<br>torch<br>cake<br>wood |  
+| bip_39_word_new_br_11 | news<br>since<br>fire<br>lizard<br>snap<br>black<br>coral<br>torch<br>cake<br>wood<br>wise |  
+| bip_39_word_new_br_12 | news<br>since<br>fire<br>lizard<br>snap<br>black<br>coral<br>torch<br>cake<br>wood<br>wise<br>average |  
+| bip_39_word_new_br_2 | news<br>since |  
+| bip_39_word_new_br_3 | news<br>since<br>fire |  
+| bip_39_word_new_br_4 | news<br>since<br>fire<br>lizard |  
+| bip_39_word_new_br_5 | news<br>since<br>fire<br>lizard<br>snap |  
+| bip_39_word_new_br_6 | news<br>since<br>fire<br>lizard<br>snap<br>black |  
+| bip_39_word_new_br_7 | news<br>since<br>fire<br>lizard<br>snap<br>black<br>coral |  
+| bip_39_word_new_br_8 | news<br>since<br>fire<br>lizard<br>snap<br>black<br>coral<br>torch |  
+| bip_39_word_new_br_9 | news<br>since<br>fire<br>lizard<br>snap<br>black<br>coral<br>torch<br>cake |  
+| bip_39_word_new_line_1 | news |  
+| bip_39_word_new_line_10 | news
 since
 fire
 lizard
@@ -55,7 +55,7 @@ coral
 torch
 cake
 wood |  
-| bip_39_word_new_line11 | news
+| bip_39_word_new_line_11 | news
 since
 fire
 lizard
@@ -66,7 +66,7 @@ torch
 cake
 wood
 wise |  
-| bip_39_word_new_line12 | news
+| bip_39_word_new_line_12 | news
 since
 fire
 lizard
@@ -78,34 +78,34 @@ cake
 wood
 wise
 average |  
-| bip_39_word_new_line2 | news
+| bip_39_word_new_line_2 | news
 since |  
-| bip_39_word_new_line3 | news
+| bip_39_word_new_line_3 | news
 since
 fire |  
-| bip_39_word_new_line4 | news
+| bip_39_word_new_line_4 | news
 since
 fire
 lizard |  
-| bip_39_word_new_line5 | news
+| bip_39_word_new_line_5 | news
 since
 fire
 lizard
 snap |  
-| bip_39_word_new_line6 | news
+| bip_39_word_new_line_6 | news
 since
 fire
 lizard
 snap
 black |  
-| bip_39_word_new_line7 | news
+| bip_39_word_new_line_7 | news
 since
 fire
 lizard
 snap
 black
 coral |  
-| bip_39_word_new_line8 | news
+| bip_39_word_new_line_8 | news
 since
 fire
 lizard
@@ -113,7 +113,7 @@ snap
 black
 coral
 torch |  
-| bip_39_word_new_line9 | news
+| bip_39_word_new_line_9 | news
 since
 fire
 lizard

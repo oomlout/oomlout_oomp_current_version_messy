@@ -1,17 +1,17 @@
-bip_39_word_new_br1: turn
-bip_39_word_new_br10: turn<br>differ<br>sunny<br>young<br>account<br>leave<br>square<br>dash<br>wood<br>dry
-bip_39_word_new_br11: turn<br>differ<br>sunny<br>young<br>account<br>leave<br>square<br>dash<br>wood<br>dry<br>ask
-bip_39_word_new_br12: turn<br>differ<br>sunny<br>young<br>account<br>leave<br>square<br>dash<br>wood<br>dry<br>ask<br>aerobic
-bip_39_word_new_br2: turn<br>differ
-bip_39_word_new_br3: turn<br>differ<br>sunny
-bip_39_word_new_br4: turn<br>differ<br>sunny<br>young
-bip_39_word_new_br5: turn<br>differ<br>sunny<br>young<br>account
-bip_39_word_new_br6: turn<br>differ<br>sunny<br>young<br>account<br>leave
-bip_39_word_new_br7: turn<br>differ<br>sunny<br>young<br>account<br>leave<br>square
-bip_39_word_new_br8: turn<br>differ<br>sunny<br>young<br>account<br>leave<br>square<br>dash
-bip_39_word_new_br9: turn<br>differ<br>sunny<br>young<br>account<br>leave<br>square<br>dash<br>wood
-bip_39_word_new_line1: turn
-bip_39_word_new_line10: 'turn
+bip_39_word_new_br_1: turn
+bip_39_word_new_br_10: turn<br>differ<br>sunny<br>young<br>account<br>leave<br>square<br>dash<br>wood<br>dry
+bip_39_word_new_br_11: turn<br>differ<br>sunny<br>young<br>account<br>leave<br>square<br>dash<br>wood<br>dry<br>ask
+bip_39_word_new_br_12: turn<br>differ<br>sunny<br>young<br>account<br>leave<br>square<br>dash<br>wood<br>dry<br>ask<br>aerobic
+bip_39_word_new_br_2: turn<br>differ
+bip_39_word_new_br_3: turn<br>differ<br>sunny
+bip_39_word_new_br_4: turn<br>differ<br>sunny<br>young
+bip_39_word_new_br_5: turn<br>differ<br>sunny<br>young<br>account
+bip_39_word_new_br_6: turn<br>differ<br>sunny<br>young<br>account<br>leave
+bip_39_word_new_br_7: turn<br>differ<br>sunny<br>young<br>account<br>leave<br>square
+bip_39_word_new_br_8: turn<br>differ<br>sunny<br>young<br>account<br>leave<br>square<br>dash
+bip_39_word_new_br_9: turn<br>differ<br>sunny<br>young<br>account<br>leave<br>square<br>dash<br>wood
+bip_39_word_new_line_1: turn
+bip_39_word_new_line_10: 'turn
 
   differ
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'turn
   wood
 
   dry'
-bip_39_word_new_line11: 'turn
+bip_39_word_new_line_11: 'turn
 
   differ
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'turn
   dry
 
   ask'
-bip_39_word_new_line12: 'turn
+bip_39_word_new_line_12: 'turn
 
   differ
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'turn
   ask
 
   aerobic'
-bip_39_word_new_line2: 'turn
+bip_39_word_new_line_2: 'turn
 
   differ'
-bip_39_word_new_line3: 'turn
+bip_39_word_new_line_3: 'turn
 
   differ
 
   sunny'
-bip_39_word_new_line4: 'turn
+bip_39_word_new_line_4: 'turn
 
   differ
 
   sunny
 
   young'
-bip_39_word_new_line5: 'turn
+bip_39_word_new_line_5: 'turn
 
   differ
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'turn
   young
 
   account'
-bip_39_word_new_line6: 'turn
+bip_39_word_new_line_6: 'turn
 
   differ
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'turn
   account
 
   leave'
-bip_39_word_new_line7: 'turn
+bip_39_word_new_line_7: 'turn
 
   differ
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'turn
   leave
 
   square'
-bip_39_word_new_line8: 'turn
+bip_39_word_new_line_8: 'turn
 
   differ
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'turn
   square
 
   dash'
-bip_39_word_new_line9: 'turn
+bip_39_word_new_line_9: 'turn
 
   differ
 

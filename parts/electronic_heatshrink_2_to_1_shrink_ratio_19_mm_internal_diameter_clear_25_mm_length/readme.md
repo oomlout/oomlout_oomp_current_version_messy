@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | floor |  
-| bip_39_word_new_br10 | floor<br>child<br>soap<br>snap<br>piece<br>jacket<br>banner<br>recipe<br>team<br>lazy |  
-| bip_39_word_new_br11 | floor<br>child<br>soap<br>snap<br>piece<br>jacket<br>banner<br>recipe<br>team<br>lazy<br>code |  
-| bip_39_word_new_br12 | floor<br>child<br>soap<br>snap<br>piece<br>jacket<br>banner<br>recipe<br>team<br>lazy<br>code<br>already |  
-| bip_39_word_new_br2 | floor<br>child |  
-| bip_39_word_new_br3 | floor<br>child<br>soap |  
-| bip_39_word_new_br4 | floor<br>child<br>soap<br>snap |  
-| bip_39_word_new_br5 | floor<br>child<br>soap<br>snap<br>piece |  
-| bip_39_word_new_br6 | floor<br>child<br>soap<br>snap<br>piece<br>jacket |  
-| bip_39_word_new_br7 | floor<br>child<br>soap<br>snap<br>piece<br>jacket<br>banner |  
-| bip_39_word_new_br8 | floor<br>child<br>soap<br>snap<br>piece<br>jacket<br>banner<br>recipe |  
-| bip_39_word_new_br9 | floor<br>child<br>soap<br>snap<br>piece<br>jacket<br>banner<br>recipe<br>team |  
-| bip_39_word_new_line1 | floor |  
-| bip_39_word_new_line10 | floor
+| bip_39_word_new_br_1 | floor |  
+| bip_39_word_new_br_10 | floor<br>child<br>soap<br>snap<br>piece<br>jacket<br>banner<br>recipe<br>team<br>lazy |  
+| bip_39_word_new_br_11 | floor<br>child<br>soap<br>snap<br>piece<br>jacket<br>banner<br>recipe<br>team<br>lazy<br>code |  
+| bip_39_word_new_br_12 | floor<br>child<br>soap<br>snap<br>piece<br>jacket<br>banner<br>recipe<br>team<br>lazy<br>code<br>already |  
+| bip_39_word_new_br_2 | floor<br>child |  
+| bip_39_word_new_br_3 | floor<br>child<br>soap |  
+| bip_39_word_new_br_4 | floor<br>child<br>soap<br>snap |  
+| bip_39_word_new_br_5 | floor<br>child<br>soap<br>snap<br>piece |  
+| bip_39_word_new_br_6 | floor<br>child<br>soap<br>snap<br>piece<br>jacket |  
+| bip_39_word_new_br_7 | floor<br>child<br>soap<br>snap<br>piece<br>jacket<br>banner |  
+| bip_39_word_new_br_8 | floor<br>child<br>soap<br>snap<br>piece<br>jacket<br>banner<br>recipe |  
+| bip_39_word_new_br_9 | floor<br>child<br>soap<br>snap<br>piece<br>jacket<br>banner<br>recipe<br>team |  
+| bip_39_word_new_line_1 | floor |  
+| bip_39_word_new_line_10 | floor
 child
 soap
 snap
@@ -55,7 +55,7 @@ banner
 recipe
 team
 lazy |  
-| bip_39_word_new_line11 | floor
+| bip_39_word_new_line_11 | floor
 child
 soap
 snap
@@ -66,7 +66,7 @@ recipe
 team
 lazy
 code |  
-| bip_39_word_new_line12 | floor
+| bip_39_word_new_line_12 | floor
 child
 soap
 snap
@@ -78,34 +78,34 @@ team
 lazy
 code
 already |  
-| bip_39_word_new_line2 | floor
+| bip_39_word_new_line_2 | floor
 child |  
-| bip_39_word_new_line3 | floor
+| bip_39_word_new_line_3 | floor
 child
 soap |  
-| bip_39_word_new_line4 | floor
+| bip_39_word_new_line_4 | floor
 child
 soap
 snap |  
-| bip_39_word_new_line5 | floor
+| bip_39_word_new_line_5 | floor
 child
 soap
 snap
 piece |  
-| bip_39_word_new_line6 | floor
+| bip_39_word_new_line_6 | floor
 child
 soap
 snap
 piece
 jacket |  
-| bip_39_word_new_line7 | floor
+| bip_39_word_new_line_7 | floor
 child
 soap
 snap
 piece
 jacket
 banner |  
-| bip_39_word_new_line8 | floor
+| bip_39_word_new_line_8 | floor
 child
 soap
 snap
@@ -113,7 +113,7 @@ piece
 jacket
 banner
 recipe |  
-| bip_39_word_new_line9 | floor
+| bip_39_word_new_line_9 | floor
 child
 soap
 snap

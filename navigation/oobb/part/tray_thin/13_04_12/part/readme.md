@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | front |  
-| bip_39_word_new_br10 | front<br>shock<br>duty<br>capital<br>nerve<br>situate<br>price<br>involve<br>raven<br>coin |  
-| bip_39_word_new_br11 | front<br>shock<br>duty<br>capital<br>nerve<br>situate<br>price<br>involve<br>raven<br>coin<br>diary |  
-| bip_39_word_new_br12 | front<br>shock<br>duty<br>capital<br>nerve<br>situate<br>price<br>involve<br>raven<br>coin<br>diary<br>art |  
-| bip_39_word_new_br2 | front<br>shock |  
-| bip_39_word_new_br3 | front<br>shock<br>duty |  
-| bip_39_word_new_br4 | front<br>shock<br>duty<br>capital |  
-| bip_39_word_new_br5 | front<br>shock<br>duty<br>capital<br>nerve |  
-| bip_39_word_new_br6 | front<br>shock<br>duty<br>capital<br>nerve<br>situate |  
-| bip_39_word_new_br7 | front<br>shock<br>duty<br>capital<br>nerve<br>situate<br>price |  
-| bip_39_word_new_br8 | front<br>shock<br>duty<br>capital<br>nerve<br>situate<br>price<br>involve |  
-| bip_39_word_new_br9 | front<br>shock<br>duty<br>capital<br>nerve<br>situate<br>price<br>involve<br>raven |  
-| bip_39_word_new_line1 | front |  
-| bip_39_word_new_line10 | front
+| bip_39_word_new_br_1 | front |  
+| bip_39_word_new_br_10 | front<br>shock<br>duty<br>capital<br>nerve<br>situate<br>price<br>involve<br>raven<br>coin |  
+| bip_39_word_new_br_11 | front<br>shock<br>duty<br>capital<br>nerve<br>situate<br>price<br>involve<br>raven<br>coin<br>diary |  
+| bip_39_word_new_br_12 | front<br>shock<br>duty<br>capital<br>nerve<br>situate<br>price<br>involve<br>raven<br>coin<br>diary<br>art |  
+| bip_39_word_new_br_2 | front<br>shock |  
+| bip_39_word_new_br_3 | front<br>shock<br>duty |  
+| bip_39_word_new_br_4 | front<br>shock<br>duty<br>capital |  
+| bip_39_word_new_br_5 | front<br>shock<br>duty<br>capital<br>nerve |  
+| bip_39_word_new_br_6 | front<br>shock<br>duty<br>capital<br>nerve<br>situate |  
+| bip_39_word_new_br_7 | front<br>shock<br>duty<br>capital<br>nerve<br>situate<br>price |  
+| bip_39_word_new_br_8 | front<br>shock<br>duty<br>capital<br>nerve<br>situate<br>price<br>involve |  
+| bip_39_word_new_br_9 | front<br>shock<br>duty<br>capital<br>nerve<br>situate<br>price<br>involve<br>raven |  
+| bip_39_word_new_line_1 | front |  
+| bip_39_word_new_line_10 | front
 shock
 duty
 capital
@@ -55,7 +55,7 @@ price
 involve
 raven
 coin |  
-| bip_39_word_new_line11 | front
+| bip_39_word_new_line_11 | front
 shock
 duty
 capital
@@ -66,7 +66,7 @@ involve
 raven
 coin
 diary |  
-| bip_39_word_new_line12 | front
+| bip_39_word_new_line_12 | front
 shock
 duty
 capital
@@ -78,34 +78,34 @@ raven
 coin
 diary
 art |  
-| bip_39_word_new_line2 | front
+| bip_39_word_new_line_2 | front
 shock |  
-| bip_39_word_new_line3 | front
+| bip_39_word_new_line_3 | front
 shock
 duty |  
-| bip_39_word_new_line4 | front
+| bip_39_word_new_line_4 | front
 shock
 duty
 capital |  
-| bip_39_word_new_line5 | front
+| bip_39_word_new_line_5 | front
 shock
 duty
 capital
 nerve |  
-| bip_39_word_new_line6 | front
+| bip_39_word_new_line_6 | front
 shock
 duty
 capital
 nerve
 situate |  
-| bip_39_word_new_line7 | front
+| bip_39_word_new_line_7 | front
 shock
 duty
 capital
 nerve
 situate
 price |  
-| bip_39_word_new_line8 | front
+| bip_39_word_new_line_8 | front
 shock
 duty
 capital
@@ -113,7 +113,7 @@ nerve
 situate
 price
 involve |  
-| bip_39_word_new_line9 | front
+| bip_39_word_new_line_9 | front
 shock
 duty
 capital

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | alien |  
-| bip_39_word_new_br10 | alien<br>borrow<br>glimpse<br>road<br>addict<br>bone<br>job<br>relax<br>hero<br>diet |  
-| bip_39_word_new_br11 | alien<br>borrow<br>glimpse<br>road<br>addict<br>bone<br>job<br>relax<br>hero<br>diet<br>broccoli |  
-| bip_39_word_new_br12 | alien<br>borrow<br>glimpse<br>road<br>addict<br>bone<br>job<br>relax<br>hero<br>diet<br>broccoli<br>anchor |  
-| bip_39_word_new_br2 | alien<br>borrow |  
-| bip_39_word_new_br3 | alien<br>borrow<br>glimpse |  
-| bip_39_word_new_br4 | alien<br>borrow<br>glimpse<br>road |  
-| bip_39_word_new_br5 | alien<br>borrow<br>glimpse<br>road<br>addict |  
-| bip_39_word_new_br6 | alien<br>borrow<br>glimpse<br>road<br>addict<br>bone |  
-| bip_39_word_new_br7 | alien<br>borrow<br>glimpse<br>road<br>addict<br>bone<br>job |  
-| bip_39_word_new_br8 | alien<br>borrow<br>glimpse<br>road<br>addict<br>bone<br>job<br>relax |  
-| bip_39_word_new_br9 | alien<br>borrow<br>glimpse<br>road<br>addict<br>bone<br>job<br>relax<br>hero |  
-| bip_39_word_new_line1 | alien |  
-| bip_39_word_new_line10 | alien
+| bip_39_word_new_br_1 | alien |  
+| bip_39_word_new_br_10 | alien<br>borrow<br>glimpse<br>road<br>addict<br>bone<br>job<br>relax<br>hero<br>diet |  
+| bip_39_word_new_br_11 | alien<br>borrow<br>glimpse<br>road<br>addict<br>bone<br>job<br>relax<br>hero<br>diet<br>broccoli |  
+| bip_39_word_new_br_12 | alien<br>borrow<br>glimpse<br>road<br>addict<br>bone<br>job<br>relax<br>hero<br>diet<br>broccoli<br>anchor |  
+| bip_39_word_new_br_2 | alien<br>borrow |  
+| bip_39_word_new_br_3 | alien<br>borrow<br>glimpse |  
+| bip_39_word_new_br_4 | alien<br>borrow<br>glimpse<br>road |  
+| bip_39_word_new_br_5 | alien<br>borrow<br>glimpse<br>road<br>addict |  
+| bip_39_word_new_br_6 | alien<br>borrow<br>glimpse<br>road<br>addict<br>bone |  
+| bip_39_word_new_br_7 | alien<br>borrow<br>glimpse<br>road<br>addict<br>bone<br>job |  
+| bip_39_word_new_br_8 | alien<br>borrow<br>glimpse<br>road<br>addict<br>bone<br>job<br>relax |  
+| bip_39_word_new_br_9 | alien<br>borrow<br>glimpse<br>road<br>addict<br>bone<br>job<br>relax<br>hero |  
+| bip_39_word_new_line_1 | alien |  
+| bip_39_word_new_line_10 | alien
 borrow
 glimpse
 road
@@ -55,7 +55,7 @@ job
 relax
 hero
 diet |  
-| bip_39_word_new_line11 | alien
+| bip_39_word_new_line_11 | alien
 borrow
 glimpse
 road
@@ -66,7 +66,7 @@ relax
 hero
 diet
 broccoli |  
-| bip_39_word_new_line12 | alien
+| bip_39_word_new_line_12 | alien
 borrow
 glimpse
 road
@@ -78,34 +78,34 @@ hero
 diet
 broccoli
 anchor |  
-| bip_39_word_new_line2 | alien
+| bip_39_word_new_line_2 | alien
 borrow |  
-| bip_39_word_new_line3 | alien
+| bip_39_word_new_line_3 | alien
 borrow
 glimpse |  
-| bip_39_word_new_line4 | alien
+| bip_39_word_new_line_4 | alien
 borrow
 glimpse
 road |  
-| bip_39_word_new_line5 | alien
+| bip_39_word_new_line_5 | alien
 borrow
 glimpse
 road
 addict |  
-| bip_39_word_new_line6 | alien
+| bip_39_word_new_line_6 | alien
 borrow
 glimpse
 road
 addict
 bone |  
-| bip_39_word_new_line7 | alien
+| bip_39_word_new_line_7 | alien
 borrow
 glimpse
 road
 addict
 bone
 job |  
-| bip_39_word_new_line8 | alien
+| bip_39_word_new_line_8 | alien
 borrow
 glimpse
 road
@@ -113,7 +113,7 @@ addict
 bone
 job
 relax |  
-| bip_39_word_new_line9 | alien
+| bip_39_word_new_line_9 | alien
 borrow
 glimpse
 road

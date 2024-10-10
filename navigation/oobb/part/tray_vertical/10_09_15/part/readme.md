@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | volcano |  
-| bip_39_word_new_br10 | volcano<br>satoshi<br>trick<br>brief<br>repair<br>crouch<br>romance<br>law<br>trust<br>jeans |  
-| bip_39_word_new_br11 | volcano<br>satoshi<br>trick<br>brief<br>repair<br>crouch<br>romance<br>law<br>trust<br>jeans<br>mobile |  
-| bip_39_word_new_br12 | volcano<br>satoshi<br>trick<br>brief<br>repair<br>crouch<br>romance<br>law<br>trust<br>jeans<br>mobile<br>alpha |  
-| bip_39_word_new_br2 | volcano<br>satoshi |  
-| bip_39_word_new_br3 | volcano<br>satoshi<br>trick |  
-| bip_39_word_new_br4 | volcano<br>satoshi<br>trick<br>brief |  
-| bip_39_word_new_br5 | volcano<br>satoshi<br>trick<br>brief<br>repair |  
-| bip_39_word_new_br6 | volcano<br>satoshi<br>trick<br>brief<br>repair<br>crouch |  
-| bip_39_word_new_br7 | volcano<br>satoshi<br>trick<br>brief<br>repair<br>crouch<br>romance |  
-| bip_39_word_new_br8 | volcano<br>satoshi<br>trick<br>brief<br>repair<br>crouch<br>romance<br>law |  
-| bip_39_word_new_br9 | volcano<br>satoshi<br>trick<br>brief<br>repair<br>crouch<br>romance<br>law<br>trust |  
-| bip_39_word_new_line1 | volcano |  
-| bip_39_word_new_line10 | volcano
+| bip_39_word_new_br_1 | volcano |  
+| bip_39_word_new_br_10 | volcano<br>satoshi<br>trick<br>brief<br>repair<br>crouch<br>romance<br>law<br>trust<br>jeans |  
+| bip_39_word_new_br_11 | volcano<br>satoshi<br>trick<br>brief<br>repair<br>crouch<br>romance<br>law<br>trust<br>jeans<br>mobile |  
+| bip_39_word_new_br_12 | volcano<br>satoshi<br>trick<br>brief<br>repair<br>crouch<br>romance<br>law<br>trust<br>jeans<br>mobile<br>alpha |  
+| bip_39_word_new_br_2 | volcano<br>satoshi |  
+| bip_39_word_new_br_3 | volcano<br>satoshi<br>trick |  
+| bip_39_word_new_br_4 | volcano<br>satoshi<br>trick<br>brief |  
+| bip_39_word_new_br_5 | volcano<br>satoshi<br>trick<br>brief<br>repair |  
+| bip_39_word_new_br_6 | volcano<br>satoshi<br>trick<br>brief<br>repair<br>crouch |  
+| bip_39_word_new_br_7 | volcano<br>satoshi<br>trick<br>brief<br>repair<br>crouch<br>romance |  
+| bip_39_word_new_br_8 | volcano<br>satoshi<br>trick<br>brief<br>repair<br>crouch<br>romance<br>law |  
+| bip_39_word_new_br_9 | volcano<br>satoshi<br>trick<br>brief<br>repair<br>crouch<br>romance<br>law<br>trust |  
+| bip_39_word_new_line_1 | volcano |  
+| bip_39_word_new_line_10 | volcano
 satoshi
 trick
 brief
@@ -55,7 +55,7 @@ romance
 law
 trust
 jeans |  
-| bip_39_word_new_line11 | volcano
+| bip_39_word_new_line_11 | volcano
 satoshi
 trick
 brief
@@ -66,7 +66,7 @@ law
 trust
 jeans
 mobile |  
-| bip_39_word_new_line12 | volcano
+| bip_39_word_new_line_12 | volcano
 satoshi
 trick
 brief
@@ -78,34 +78,34 @@ trust
 jeans
 mobile
 alpha |  
-| bip_39_word_new_line2 | volcano
+| bip_39_word_new_line_2 | volcano
 satoshi |  
-| bip_39_word_new_line3 | volcano
+| bip_39_word_new_line_3 | volcano
 satoshi
 trick |  
-| bip_39_word_new_line4 | volcano
+| bip_39_word_new_line_4 | volcano
 satoshi
 trick
 brief |  
-| bip_39_word_new_line5 | volcano
+| bip_39_word_new_line_5 | volcano
 satoshi
 trick
 brief
 repair |  
-| bip_39_word_new_line6 | volcano
+| bip_39_word_new_line_6 | volcano
 satoshi
 trick
 brief
 repair
 crouch |  
-| bip_39_word_new_line7 | volcano
+| bip_39_word_new_line_7 | volcano
 satoshi
 trick
 brief
 repair
 crouch
 romance |  
-| bip_39_word_new_line8 | volcano
+| bip_39_word_new_line_8 | volcano
 satoshi
 trick
 brief
@@ -113,7 +113,7 @@ repair
 crouch
 romance
 law |  
-| bip_39_word_new_line9 | volcano
+| bip_39_word_new_line_9 | volcano
 satoshi
 trick
 brief

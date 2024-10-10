@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | know |  
-| bip_39_word_new_br10 | know<br>connect<br>melt<br>outdoor<br>coil<br>come<br>fame<br>relax<br>rotate<br>beauty |  
-| bip_39_word_new_br11 | know<br>connect<br>melt<br>outdoor<br>coil<br>come<br>fame<br>relax<br>rotate<br>beauty<br>comic |  
-| bip_39_word_new_br12 | know<br>connect<br>melt<br>outdoor<br>coil<br>come<br>fame<br>relax<br>rotate<br>beauty<br>comic<br>around |  
-| bip_39_word_new_br2 | know<br>connect |  
-| bip_39_word_new_br3 | know<br>connect<br>melt |  
-| bip_39_word_new_br4 | know<br>connect<br>melt<br>outdoor |  
-| bip_39_word_new_br5 | know<br>connect<br>melt<br>outdoor<br>coil |  
-| bip_39_word_new_br6 | know<br>connect<br>melt<br>outdoor<br>coil<br>come |  
-| bip_39_word_new_br7 | know<br>connect<br>melt<br>outdoor<br>coil<br>come<br>fame |  
-| bip_39_word_new_br8 | know<br>connect<br>melt<br>outdoor<br>coil<br>come<br>fame<br>relax |  
-| bip_39_word_new_br9 | know<br>connect<br>melt<br>outdoor<br>coil<br>come<br>fame<br>relax<br>rotate |  
-| bip_39_word_new_line1 | know |  
-| bip_39_word_new_line10 | know
+| bip_39_word_new_br_1 | know |  
+| bip_39_word_new_br_10 | know<br>connect<br>melt<br>outdoor<br>coil<br>come<br>fame<br>relax<br>rotate<br>beauty |  
+| bip_39_word_new_br_11 | know<br>connect<br>melt<br>outdoor<br>coil<br>come<br>fame<br>relax<br>rotate<br>beauty<br>comic |  
+| bip_39_word_new_br_12 | know<br>connect<br>melt<br>outdoor<br>coil<br>come<br>fame<br>relax<br>rotate<br>beauty<br>comic<br>around |  
+| bip_39_word_new_br_2 | know<br>connect |  
+| bip_39_word_new_br_3 | know<br>connect<br>melt |  
+| bip_39_word_new_br_4 | know<br>connect<br>melt<br>outdoor |  
+| bip_39_word_new_br_5 | know<br>connect<br>melt<br>outdoor<br>coil |  
+| bip_39_word_new_br_6 | know<br>connect<br>melt<br>outdoor<br>coil<br>come |  
+| bip_39_word_new_br_7 | know<br>connect<br>melt<br>outdoor<br>coil<br>come<br>fame |  
+| bip_39_word_new_br_8 | know<br>connect<br>melt<br>outdoor<br>coil<br>come<br>fame<br>relax |  
+| bip_39_word_new_br_9 | know<br>connect<br>melt<br>outdoor<br>coil<br>come<br>fame<br>relax<br>rotate |  
+| bip_39_word_new_line_1 | know |  
+| bip_39_word_new_line_10 | know
 connect
 melt
 outdoor
@@ -55,7 +55,7 @@ fame
 relax
 rotate
 beauty |  
-| bip_39_word_new_line11 | know
+| bip_39_word_new_line_11 | know
 connect
 melt
 outdoor
@@ -66,7 +66,7 @@ relax
 rotate
 beauty
 comic |  
-| bip_39_word_new_line12 | know
+| bip_39_word_new_line_12 | know
 connect
 melt
 outdoor
@@ -78,34 +78,34 @@ rotate
 beauty
 comic
 around |  
-| bip_39_word_new_line2 | know
+| bip_39_word_new_line_2 | know
 connect |  
-| bip_39_word_new_line3 | know
+| bip_39_word_new_line_3 | know
 connect
 melt |  
-| bip_39_word_new_line4 | know
+| bip_39_word_new_line_4 | know
 connect
 melt
 outdoor |  
-| bip_39_word_new_line5 | know
+| bip_39_word_new_line_5 | know
 connect
 melt
 outdoor
 coil |  
-| bip_39_word_new_line6 | know
+| bip_39_word_new_line_6 | know
 connect
 melt
 outdoor
 coil
 come |  
-| bip_39_word_new_line7 | know
+| bip_39_word_new_line_7 | know
 connect
 melt
 outdoor
 coil
 come
 fame |  
-| bip_39_word_new_line8 | know
+| bip_39_word_new_line_8 | know
 connect
 melt
 outdoor
@@ -113,7 +113,7 @@ coil
 come
 fame
 relax |  
-| bip_39_word_new_line9 | know
+| bip_39_word_new_line_9 | know
 connect
 melt
 outdoor

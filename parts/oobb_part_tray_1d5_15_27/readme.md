@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | exile |  
-| bip_39_word_new_br10 | exile<br>rescue<br>trouble<br>purse<br>drop<br>inmate<br>carbon<br>family<br>trip<br>chair |  
-| bip_39_word_new_br11 | exile<br>rescue<br>trouble<br>purse<br>drop<br>inmate<br>carbon<br>family<br>trip<br>chair<br>ignore |  
-| bip_39_word_new_br12 | exile<br>rescue<br>trouble<br>purse<br>drop<br>inmate<br>carbon<br>family<br>trip<br>chair<br>ignore<br>aim |  
-| bip_39_word_new_br2 | exile<br>rescue |  
-| bip_39_word_new_br3 | exile<br>rescue<br>trouble |  
-| bip_39_word_new_br4 | exile<br>rescue<br>trouble<br>purse |  
-| bip_39_word_new_br5 | exile<br>rescue<br>trouble<br>purse<br>drop |  
-| bip_39_word_new_br6 | exile<br>rescue<br>trouble<br>purse<br>drop<br>inmate |  
-| bip_39_word_new_br7 | exile<br>rescue<br>trouble<br>purse<br>drop<br>inmate<br>carbon |  
-| bip_39_word_new_br8 | exile<br>rescue<br>trouble<br>purse<br>drop<br>inmate<br>carbon<br>family |  
-| bip_39_word_new_br9 | exile<br>rescue<br>trouble<br>purse<br>drop<br>inmate<br>carbon<br>family<br>trip |  
-| bip_39_word_new_line1 | exile |  
-| bip_39_word_new_line10 | exile
+| bip_39_word_new_br_1 | exile |  
+| bip_39_word_new_br_10 | exile<br>rescue<br>trouble<br>purse<br>drop<br>inmate<br>carbon<br>family<br>trip<br>chair |  
+| bip_39_word_new_br_11 | exile<br>rescue<br>trouble<br>purse<br>drop<br>inmate<br>carbon<br>family<br>trip<br>chair<br>ignore |  
+| bip_39_word_new_br_12 | exile<br>rescue<br>trouble<br>purse<br>drop<br>inmate<br>carbon<br>family<br>trip<br>chair<br>ignore<br>aim |  
+| bip_39_word_new_br_2 | exile<br>rescue |  
+| bip_39_word_new_br_3 | exile<br>rescue<br>trouble |  
+| bip_39_word_new_br_4 | exile<br>rescue<br>trouble<br>purse |  
+| bip_39_word_new_br_5 | exile<br>rescue<br>trouble<br>purse<br>drop |  
+| bip_39_word_new_br_6 | exile<br>rescue<br>trouble<br>purse<br>drop<br>inmate |  
+| bip_39_word_new_br_7 | exile<br>rescue<br>trouble<br>purse<br>drop<br>inmate<br>carbon |  
+| bip_39_word_new_br_8 | exile<br>rescue<br>trouble<br>purse<br>drop<br>inmate<br>carbon<br>family |  
+| bip_39_word_new_br_9 | exile<br>rescue<br>trouble<br>purse<br>drop<br>inmate<br>carbon<br>family<br>trip |  
+| bip_39_word_new_line_1 | exile |  
+| bip_39_word_new_line_10 | exile
 rescue
 trouble
 purse
@@ -55,7 +55,7 @@ carbon
 family
 trip
 chair |  
-| bip_39_word_new_line11 | exile
+| bip_39_word_new_line_11 | exile
 rescue
 trouble
 purse
@@ -66,7 +66,7 @@ family
 trip
 chair
 ignore |  
-| bip_39_word_new_line12 | exile
+| bip_39_word_new_line_12 | exile
 rescue
 trouble
 purse
@@ -78,34 +78,34 @@ trip
 chair
 ignore
 aim |  
-| bip_39_word_new_line2 | exile
+| bip_39_word_new_line_2 | exile
 rescue |  
-| bip_39_word_new_line3 | exile
+| bip_39_word_new_line_3 | exile
 rescue
 trouble |  
-| bip_39_word_new_line4 | exile
+| bip_39_word_new_line_4 | exile
 rescue
 trouble
 purse |  
-| bip_39_word_new_line5 | exile
+| bip_39_word_new_line_5 | exile
 rescue
 trouble
 purse
 drop |  
-| bip_39_word_new_line6 | exile
+| bip_39_word_new_line_6 | exile
 rescue
 trouble
 purse
 drop
 inmate |  
-| bip_39_word_new_line7 | exile
+| bip_39_word_new_line_7 | exile
 rescue
 trouble
 purse
 drop
 inmate
 carbon |  
-| bip_39_word_new_line8 | exile
+| bip_39_word_new_line_8 | exile
 rescue
 trouble
 purse
@@ -113,7 +113,7 @@ drop
 inmate
 carbon
 family |  
-| bip_39_word_new_line9 | exile
+| bip_39_word_new_line_9 | exile
 rescue
 trouble
 purse

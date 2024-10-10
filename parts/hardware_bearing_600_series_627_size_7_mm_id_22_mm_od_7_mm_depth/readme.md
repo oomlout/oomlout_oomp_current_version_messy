@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | arrange |  
-| bip_39_word_new_br10 | arrange<br>box<br>casual<br>release<br>remember<br>spread<br>curious<br>never<br>accident<br>unable |  
-| bip_39_word_new_br11 | arrange<br>box<br>casual<br>release<br>remember<br>spread<br>curious<br>never<br>accident<br>unable<br>boil |  
-| bip_39_word_new_br12 | arrange<br>box<br>casual<br>release<br>remember<br>spread<br>curious<br>never<br>accident<br>unable<br>boil<br>alone |  
-| bip_39_word_new_br2 | arrange<br>box |  
-| bip_39_word_new_br3 | arrange<br>box<br>casual |  
-| bip_39_word_new_br4 | arrange<br>box<br>casual<br>release |  
-| bip_39_word_new_br5 | arrange<br>box<br>casual<br>release<br>remember |  
-| bip_39_word_new_br6 | arrange<br>box<br>casual<br>release<br>remember<br>spread |  
-| bip_39_word_new_br7 | arrange<br>box<br>casual<br>release<br>remember<br>spread<br>curious |  
-| bip_39_word_new_br8 | arrange<br>box<br>casual<br>release<br>remember<br>spread<br>curious<br>never |  
-| bip_39_word_new_br9 | arrange<br>box<br>casual<br>release<br>remember<br>spread<br>curious<br>never<br>accident |  
-| bip_39_word_new_line1 | arrange |  
-| bip_39_word_new_line10 | arrange
+| bip_39_word_new_br_1 | arrange |  
+| bip_39_word_new_br_10 | arrange<br>box<br>casual<br>release<br>remember<br>spread<br>curious<br>never<br>accident<br>unable |  
+| bip_39_word_new_br_11 | arrange<br>box<br>casual<br>release<br>remember<br>spread<br>curious<br>never<br>accident<br>unable<br>boil |  
+| bip_39_word_new_br_12 | arrange<br>box<br>casual<br>release<br>remember<br>spread<br>curious<br>never<br>accident<br>unable<br>boil<br>alone |  
+| bip_39_word_new_br_2 | arrange<br>box |  
+| bip_39_word_new_br_3 | arrange<br>box<br>casual |  
+| bip_39_word_new_br_4 | arrange<br>box<br>casual<br>release |  
+| bip_39_word_new_br_5 | arrange<br>box<br>casual<br>release<br>remember |  
+| bip_39_word_new_br_6 | arrange<br>box<br>casual<br>release<br>remember<br>spread |  
+| bip_39_word_new_br_7 | arrange<br>box<br>casual<br>release<br>remember<br>spread<br>curious |  
+| bip_39_word_new_br_8 | arrange<br>box<br>casual<br>release<br>remember<br>spread<br>curious<br>never |  
+| bip_39_word_new_br_9 | arrange<br>box<br>casual<br>release<br>remember<br>spread<br>curious<br>never<br>accident |  
+| bip_39_word_new_line_1 | arrange |  
+| bip_39_word_new_line_10 | arrange
 box
 casual
 release
@@ -55,7 +55,7 @@ curious
 never
 accident
 unable |  
-| bip_39_word_new_line11 | arrange
+| bip_39_word_new_line_11 | arrange
 box
 casual
 release
@@ -66,7 +66,7 @@ never
 accident
 unable
 boil |  
-| bip_39_word_new_line12 | arrange
+| bip_39_word_new_line_12 | arrange
 box
 casual
 release
@@ -78,34 +78,34 @@ accident
 unable
 boil
 alone |  
-| bip_39_word_new_line2 | arrange
+| bip_39_word_new_line_2 | arrange
 box |  
-| bip_39_word_new_line3 | arrange
+| bip_39_word_new_line_3 | arrange
 box
 casual |  
-| bip_39_word_new_line4 | arrange
+| bip_39_word_new_line_4 | arrange
 box
 casual
 release |  
-| bip_39_word_new_line5 | arrange
+| bip_39_word_new_line_5 | arrange
 box
 casual
 release
 remember |  
-| bip_39_word_new_line6 | arrange
+| bip_39_word_new_line_6 | arrange
 box
 casual
 release
 remember
 spread |  
-| bip_39_word_new_line7 | arrange
+| bip_39_word_new_line_7 | arrange
 box
 casual
 release
 remember
 spread
 curious |  
-| bip_39_word_new_line8 | arrange
+| bip_39_word_new_line_8 | arrange
 box
 casual
 release
@@ -113,7 +113,7 @@ remember
 spread
 curious
 never |  
-| bip_39_word_new_line9 | arrange
+| bip_39_word_new_line_9 | arrange
 box
 casual
 release

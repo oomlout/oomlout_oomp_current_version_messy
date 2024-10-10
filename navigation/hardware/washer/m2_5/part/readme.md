@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | health |  
-| bip_39_word_new_br10 | health<br>frog<br>flee<br>endorse<br>empower<br>speak<br>soccer<br>kitchen<br>member<br>puppy |  
-| bip_39_word_new_br11 | health<br>frog<br>flee<br>endorse<br>empower<br>speak<br>soccer<br>kitchen<br>member<br>puppy<br>keen |  
-| bip_39_word_new_br12 | health<br>frog<br>flee<br>endorse<br>empower<br>speak<br>soccer<br>kitchen<br>member<br>puppy<br>keen<br>approve |  
-| bip_39_word_new_br2 | health<br>frog |  
-| bip_39_word_new_br3 | health<br>frog<br>flee |  
-| bip_39_word_new_br4 | health<br>frog<br>flee<br>endorse |  
-| bip_39_word_new_br5 | health<br>frog<br>flee<br>endorse<br>empower |  
-| bip_39_word_new_br6 | health<br>frog<br>flee<br>endorse<br>empower<br>speak |  
-| bip_39_word_new_br7 | health<br>frog<br>flee<br>endorse<br>empower<br>speak<br>soccer |  
-| bip_39_word_new_br8 | health<br>frog<br>flee<br>endorse<br>empower<br>speak<br>soccer<br>kitchen |  
-| bip_39_word_new_br9 | health<br>frog<br>flee<br>endorse<br>empower<br>speak<br>soccer<br>kitchen<br>member |  
-| bip_39_word_new_line1 | health |  
-| bip_39_word_new_line10 | health
+| bip_39_word_new_br_1 | health |  
+| bip_39_word_new_br_10 | health<br>frog<br>flee<br>endorse<br>empower<br>speak<br>soccer<br>kitchen<br>member<br>puppy |  
+| bip_39_word_new_br_11 | health<br>frog<br>flee<br>endorse<br>empower<br>speak<br>soccer<br>kitchen<br>member<br>puppy<br>keen |  
+| bip_39_word_new_br_12 | health<br>frog<br>flee<br>endorse<br>empower<br>speak<br>soccer<br>kitchen<br>member<br>puppy<br>keen<br>approve |  
+| bip_39_word_new_br_2 | health<br>frog |  
+| bip_39_word_new_br_3 | health<br>frog<br>flee |  
+| bip_39_word_new_br_4 | health<br>frog<br>flee<br>endorse |  
+| bip_39_word_new_br_5 | health<br>frog<br>flee<br>endorse<br>empower |  
+| bip_39_word_new_br_6 | health<br>frog<br>flee<br>endorse<br>empower<br>speak |  
+| bip_39_word_new_br_7 | health<br>frog<br>flee<br>endorse<br>empower<br>speak<br>soccer |  
+| bip_39_word_new_br_8 | health<br>frog<br>flee<br>endorse<br>empower<br>speak<br>soccer<br>kitchen |  
+| bip_39_word_new_br_9 | health<br>frog<br>flee<br>endorse<br>empower<br>speak<br>soccer<br>kitchen<br>member |  
+| bip_39_word_new_line_1 | health |  
+| bip_39_word_new_line_10 | health
 frog
 flee
 endorse
@@ -55,7 +55,7 @@ soccer
 kitchen
 member
 puppy |  
-| bip_39_word_new_line11 | health
+| bip_39_word_new_line_11 | health
 frog
 flee
 endorse
@@ -66,7 +66,7 @@ kitchen
 member
 puppy
 keen |  
-| bip_39_word_new_line12 | health
+| bip_39_word_new_line_12 | health
 frog
 flee
 endorse
@@ -78,34 +78,34 @@ member
 puppy
 keen
 approve |  
-| bip_39_word_new_line2 | health
+| bip_39_word_new_line_2 | health
 frog |  
-| bip_39_word_new_line3 | health
+| bip_39_word_new_line_3 | health
 frog
 flee |  
-| bip_39_word_new_line4 | health
+| bip_39_word_new_line_4 | health
 frog
 flee
 endorse |  
-| bip_39_word_new_line5 | health
+| bip_39_word_new_line_5 | health
 frog
 flee
 endorse
 empower |  
-| bip_39_word_new_line6 | health
+| bip_39_word_new_line_6 | health
 frog
 flee
 endorse
 empower
 speak |  
-| bip_39_word_new_line7 | health
+| bip_39_word_new_line_7 | health
 frog
 flee
 endorse
 empower
 speak
 soccer |  
-| bip_39_word_new_line8 | health
+| bip_39_word_new_line_8 | health
 frog
 flee
 endorse
@@ -113,7 +113,7 @@ empower
 speak
 soccer
 kitchen |  
-| bip_39_word_new_line9 | health
+| bip_39_word_new_line_9 | health
 frog
 flee
 endorse

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ten |  
-| bip_39_word_new_br10 | ten<br>found<br>ivory<br>vast<br>reunion<br>slight<br>belt<br>sleep<br>shell<br>know |  
-| bip_39_word_new_br11 | ten<br>found<br>ivory<br>vast<br>reunion<br>slight<br>belt<br>sleep<br>shell<br>know<br>fade |  
-| bip_39_word_new_br12 | ten<br>found<br>ivory<br>vast<br>reunion<br>slight<br>belt<br>sleep<br>shell<br>know<br>fade<br>ask |  
-| bip_39_word_new_br2 | ten<br>found |  
-| bip_39_word_new_br3 | ten<br>found<br>ivory |  
-| bip_39_word_new_br4 | ten<br>found<br>ivory<br>vast |  
-| bip_39_word_new_br5 | ten<br>found<br>ivory<br>vast<br>reunion |  
-| bip_39_word_new_br6 | ten<br>found<br>ivory<br>vast<br>reunion<br>slight |  
-| bip_39_word_new_br7 | ten<br>found<br>ivory<br>vast<br>reunion<br>slight<br>belt |  
-| bip_39_word_new_br8 | ten<br>found<br>ivory<br>vast<br>reunion<br>slight<br>belt<br>sleep |  
-| bip_39_word_new_br9 | ten<br>found<br>ivory<br>vast<br>reunion<br>slight<br>belt<br>sleep<br>shell |  
-| bip_39_word_new_line1 | ten |  
-| bip_39_word_new_line10 | ten
+| bip_39_word_new_br_1 | ten |  
+| bip_39_word_new_br_10 | ten<br>found<br>ivory<br>vast<br>reunion<br>slight<br>belt<br>sleep<br>shell<br>know |  
+| bip_39_word_new_br_11 | ten<br>found<br>ivory<br>vast<br>reunion<br>slight<br>belt<br>sleep<br>shell<br>know<br>fade |  
+| bip_39_word_new_br_12 | ten<br>found<br>ivory<br>vast<br>reunion<br>slight<br>belt<br>sleep<br>shell<br>know<br>fade<br>ask |  
+| bip_39_word_new_br_2 | ten<br>found |  
+| bip_39_word_new_br_3 | ten<br>found<br>ivory |  
+| bip_39_word_new_br_4 | ten<br>found<br>ivory<br>vast |  
+| bip_39_word_new_br_5 | ten<br>found<br>ivory<br>vast<br>reunion |  
+| bip_39_word_new_br_6 | ten<br>found<br>ivory<br>vast<br>reunion<br>slight |  
+| bip_39_word_new_br_7 | ten<br>found<br>ivory<br>vast<br>reunion<br>slight<br>belt |  
+| bip_39_word_new_br_8 | ten<br>found<br>ivory<br>vast<br>reunion<br>slight<br>belt<br>sleep |  
+| bip_39_word_new_br_9 | ten<br>found<br>ivory<br>vast<br>reunion<br>slight<br>belt<br>sleep<br>shell |  
+| bip_39_word_new_line_1 | ten |  
+| bip_39_word_new_line_10 | ten
 found
 ivory
 vast
@@ -55,7 +55,7 @@ belt
 sleep
 shell
 know |  
-| bip_39_word_new_line11 | ten
+| bip_39_word_new_line_11 | ten
 found
 ivory
 vast
@@ -66,7 +66,7 @@ sleep
 shell
 know
 fade |  
-| bip_39_word_new_line12 | ten
+| bip_39_word_new_line_12 | ten
 found
 ivory
 vast
@@ -78,34 +78,34 @@ shell
 know
 fade
 ask |  
-| bip_39_word_new_line2 | ten
+| bip_39_word_new_line_2 | ten
 found |  
-| bip_39_word_new_line3 | ten
+| bip_39_word_new_line_3 | ten
 found
 ivory |  
-| bip_39_word_new_line4 | ten
+| bip_39_word_new_line_4 | ten
 found
 ivory
 vast |  
-| bip_39_word_new_line5 | ten
+| bip_39_word_new_line_5 | ten
 found
 ivory
 vast
 reunion |  
-| bip_39_word_new_line6 | ten
+| bip_39_word_new_line_6 | ten
 found
 ivory
 vast
 reunion
 slight |  
-| bip_39_word_new_line7 | ten
+| bip_39_word_new_line_7 | ten
 found
 ivory
 vast
 reunion
 slight
 belt |  
-| bip_39_word_new_line8 | ten
+| bip_39_word_new_line_8 | ten
 found
 ivory
 vast
@@ -113,7 +113,7 @@ reunion
 slight
 belt
 sleep |  
-| bip_39_word_new_line9 | ten
+| bip_39_word_new_line_9 | ten
 found
 ivory
 vast

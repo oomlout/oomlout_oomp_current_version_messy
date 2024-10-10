@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | skirt |  
-| bip_39_word_new_br10 | skirt<br>rare<br>private<br>pretty<br>wave<br>eight<br>velvet<br>coast<br>pupil<br>front |  
-| bip_39_word_new_br11 | skirt<br>rare<br>private<br>pretty<br>wave<br>eight<br>velvet<br>coast<br>pupil<br>front<br>lazy |  
-| bip_39_word_new_br12 | skirt<br>rare<br>private<br>pretty<br>wave<br>eight<br>velvet<br>coast<br>pupil<br>front<br>lazy<br>apple |  
-| bip_39_word_new_br2 | skirt<br>rare |  
-| bip_39_word_new_br3 | skirt<br>rare<br>private |  
-| bip_39_word_new_br4 | skirt<br>rare<br>private<br>pretty |  
-| bip_39_word_new_br5 | skirt<br>rare<br>private<br>pretty<br>wave |  
-| bip_39_word_new_br6 | skirt<br>rare<br>private<br>pretty<br>wave<br>eight |  
-| bip_39_word_new_br7 | skirt<br>rare<br>private<br>pretty<br>wave<br>eight<br>velvet |  
-| bip_39_word_new_br8 | skirt<br>rare<br>private<br>pretty<br>wave<br>eight<br>velvet<br>coast |  
-| bip_39_word_new_br9 | skirt<br>rare<br>private<br>pretty<br>wave<br>eight<br>velvet<br>coast<br>pupil |  
-| bip_39_word_new_line1 | skirt |  
-| bip_39_word_new_line10 | skirt
+| bip_39_word_new_br_1 | skirt |  
+| bip_39_word_new_br_10 | skirt<br>rare<br>private<br>pretty<br>wave<br>eight<br>velvet<br>coast<br>pupil<br>front |  
+| bip_39_word_new_br_11 | skirt<br>rare<br>private<br>pretty<br>wave<br>eight<br>velvet<br>coast<br>pupil<br>front<br>lazy |  
+| bip_39_word_new_br_12 | skirt<br>rare<br>private<br>pretty<br>wave<br>eight<br>velvet<br>coast<br>pupil<br>front<br>lazy<br>apple |  
+| bip_39_word_new_br_2 | skirt<br>rare |  
+| bip_39_word_new_br_3 | skirt<br>rare<br>private |  
+| bip_39_word_new_br_4 | skirt<br>rare<br>private<br>pretty |  
+| bip_39_word_new_br_5 | skirt<br>rare<br>private<br>pretty<br>wave |  
+| bip_39_word_new_br_6 | skirt<br>rare<br>private<br>pretty<br>wave<br>eight |  
+| bip_39_word_new_br_7 | skirt<br>rare<br>private<br>pretty<br>wave<br>eight<br>velvet |  
+| bip_39_word_new_br_8 | skirt<br>rare<br>private<br>pretty<br>wave<br>eight<br>velvet<br>coast |  
+| bip_39_word_new_br_9 | skirt<br>rare<br>private<br>pretty<br>wave<br>eight<br>velvet<br>coast<br>pupil |  
+| bip_39_word_new_line_1 | skirt |  
+| bip_39_word_new_line_10 | skirt
 rare
 private
 pretty
@@ -55,7 +55,7 @@ velvet
 coast
 pupil
 front |  
-| bip_39_word_new_line11 | skirt
+| bip_39_word_new_line_11 | skirt
 rare
 private
 pretty
@@ -66,7 +66,7 @@ coast
 pupil
 front
 lazy |  
-| bip_39_word_new_line12 | skirt
+| bip_39_word_new_line_12 | skirt
 rare
 private
 pretty
@@ -78,34 +78,34 @@ pupil
 front
 lazy
 apple |  
-| bip_39_word_new_line2 | skirt
+| bip_39_word_new_line_2 | skirt
 rare |  
-| bip_39_word_new_line3 | skirt
+| bip_39_word_new_line_3 | skirt
 rare
 private |  
-| bip_39_word_new_line4 | skirt
+| bip_39_word_new_line_4 | skirt
 rare
 private
 pretty |  
-| bip_39_word_new_line5 | skirt
+| bip_39_word_new_line_5 | skirt
 rare
 private
 pretty
 wave |  
-| bip_39_word_new_line6 | skirt
+| bip_39_word_new_line_6 | skirt
 rare
 private
 pretty
 wave
 eight |  
-| bip_39_word_new_line7 | skirt
+| bip_39_word_new_line_7 | skirt
 rare
 private
 pretty
 wave
 eight
 velvet |  
-| bip_39_word_new_line8 | skirt
+| bip_39_word_new_line_8 | skirt
 rare
 private
 pretty
@@ -113,7 +113,7 @@ wave
 eight
 velvet
 coast |  
-| bip_39_word_new_line9 | skirt
+| bip_39_word_new_line_9 | skirt
 rare
 private
 pretty

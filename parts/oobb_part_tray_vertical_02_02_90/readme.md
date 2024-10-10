@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | plunge |  
-| bip_39_word_new_br10 | plunge<br>pattern<br>tree<br>gadget<br>crime<br>inject<br>behave<br>truly<br>access<br>click |  
-| bip_39_word_new_br11 | plunge<br>pattern<br>tree<br>gadget<br>crime<br>inject<br>behave<br>truly<br>access<br>click<br>repeat |  
-| bip_39_word_new_br12 | plunge<br>pattern<br>tree<br>gadget<br>crime<br>inject<br>behave<br>truly<br>access<br>click<br>repeat<br>attract |  
-| bip_39_word_new_br2 | plunge<br>pattern |  
-| bip_39_word_new_br3 | plunge<br>pattern<br>tree |  
-| bip_39_word_new_br4 | plunge<br>pattern<br>tree<br>gadget |  
-| bip_39_word_new_br5 | plunge<br>pattern<br>tree<br>gadget<br>crime |  
-| bip_39_word_new_br6 | plunge<br>pattern<br>tree<br>gadget<br>crime<br>inject |  
-| bip_39_word_new_br7 | plunge<br>pattern<br>tree<br>gadget<br>crime<br>inject<br>behave |  
-| bip_39_word_new_br8 | plunge<br>pattern<br>tree<br>gadget<br>crime<br>inject<br>behave<br>truly |  
-| bip_39_word_new_br9 | plunge<br>pattern<br>tree<br>gadget<br>crime<br>inject<br>behave<br>truly<br>access |  
-| bip_39_word_new_line1 | plunge |  
-| bip_39_word_new_line10 | plunge
+| bip_39_word_new_br_1 | plunge |  
+| bip_39_word_new_br_10 | plunge<br>pattern<br>tree<br>gadget<br>crime<br>inject<br>behave<br>truly<br>access<br>click |  
+| bip_39_word_new_br_11 | plunge<br>pattern<br>tree<br>gadget<br>crime<br>inject<br>behave<br>truly<br>access<br>click<br>repeat |  
+| bip_39_word_new_br_12 | plunge<br>pattern<br>tree<br>gadget<br>crime<br>inject<br>behave<br>truly<br>access<br>click<br>repeat<br>attract |  
+| bip_39_word_new_br_2 | plunge<br>pattern |  
+| bip_39_word_new_br_3 | plunge<br>pattern<br>tree |  
+| bip_39_word_new_br_4 | plunge<br>pattern<br>tree<br>gadget |  
+| bip_39_word_new_br_5 | plunge<br>pattern<br>tree<br>gadget<br>crime |  
+| bip_39_word_new_br_6 | plunge<br>pattern<br>tree<br>gadget<br>crime<br>inject |  
+| bip_39_word_new_br_7 | plunge<br>pattern<br>tree<br>gadget<br>crime<br>inject<br>behave |  
+| bip_39_word_new_br_8 | plunge<br>pattern<br>tree<br>gadget<br>crime<br>inject<br>behave<br>truly |  
+| bip_39_word_new_br_9 | plunge<br>pattern<br>tree<br>gadget<br>crime<br>inject<br>behave<br>truly<br>access |  
+| bip_39_word_new_line_1 | plunge |  
+| bip_39_word_new_line_10 | plunge
 pattern
 tree
 gadget
@@ -55,7 +55,7 @@ behave
 truly
 access
 click |  
-| bip_39_word_new_line11 | plunge
+| bip_39_word_new_line_11 | plunge
 pattern
 tree
 gadget
@@ -66,7 +66,7 @@ truly
 access
 click
 repeat |  
-| bip_39_word_new_line12 | plunge
+| bip_39_word_new_line_12 | plunge
 pattern
 tree
 gadget
@@ -78,34 +78,34 @@ access
 click
 repeat
 attract |  
-| bip_39_word_new_line2 | plunge
+| bip_39_word_new_line_2 | plunge
 pattern |  
-| bip_39_word_new_line3 | plunge
+| bip_39_word_new_line_3 | plunge
 pattern
 tree |  
-| bip_39_word_new_line4 | plunge
+| bip_39_word_new_line_4 | plunge
 pattern
 tree
 gadget |  
-| bip_39_word_new_line5 | plunge
+| bip_39_word_new_line_5 | plunge
 pattern
 tree
 gadget
 crime |  
-| bip_39_word_new_line6 | plunge
+| bip_39_word_new_line_6 | plunge
 pattern
 tree
 gadget
 crime
 inject |  
-| bip_39_word_new_line7 | plunge
+| bip_39_word_new_line_7 | plunge
 pattern
 tree
 gadget
 crime
 inject
 behave |  
-| bip_39_word_new_line8 | plunge
+| bip_39_word_new_line_8 | plunge
 pattern
 tree
 gadget
@@ -113,7 +113,7 @@ crime
 inject
 behave
 truly |  
-| bip_39_word_new_line9 | plunge
+| bip_39_word_new_line_9 | plunge
 pattern
 tree
 gadget

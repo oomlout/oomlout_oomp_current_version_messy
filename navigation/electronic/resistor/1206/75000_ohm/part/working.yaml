@@ -1,17 +1,17 @@
-bip_39_word_new_br1: access
-bip_39_word_new_br10: access<br>lyrics<br>dance<br>adult<br>among<br>moral<br>dutch<br>forum<br>evil<br>joy
-bip_39_word_new_br11: access<br>lyrics<br>dance<br>adult<br>among<br>moral<br>dutch<br>forum<br>evil<br>joy<br>middle
-bip_39_word_new_br12: access<br>lyrics<br>dance<br>adult<br>among<br>moral<br>dutch<br>forum<br>evil<br>joy<br>middle<br>amused
-bip_39_word_new_br2: access<br>lyrics
-bip_39_word_new_br3: access<br>lyrics<br>dance
-bip_39_word_new_br4: access<br>lyrics<br>dance<br>adult
-bip_39_word_new_br5: access<br>lyrics<br>dance<br>adult<br>among
-bip_39_word_new_br6: access<br>lyrics<br>dance<br>adult<br>among<br>moral
-bip_39_word_new_br7: access<br>lyrics<br>dance<br>adult<br>among<br>moral<br>dutch
-bip_39_word_new_br8: access<br>lyrics<br>dance<br>adult<br>among<br>moral<br>dutch<br>forum
-bip_39_word_new_br9: access<br>lyrics<br>dance<br>adult<br>among<br>moral<br>dutch<br>forum<br>evil
-bip_39_word_new_line1: access
-bip_39_word_new_line10: 'access
+bip_39_word_new_br_1: access
+bip_39_word_new_br_10: access<br>lyrics<br>dance<br>adult<br>among<br>moral<br>dutch<br>forum<br>evil<br>joy
+bip_39_word_new_br_11: access<br>lyrics<br>dance<br>adult<br>among<br>moral<br>dutch<br>forum<br>evil<br>joy<br>middle
+bip_39_word_new_br_12: access<br>lyrics<br>dance<br>adult<br>among<br>moral<br>dutch<br>forum<br>evil<br>joy<br>middle<br>amused
+bip_39_word_new_br_2: access<br>lyrics
+bip_39_word_new_br_3: access<br>lyrics<br>dance
+bip_39_word_new_br_4: access<br>lyrics<br>dance<br>adult
+bip_39_word_new_br_5: access<br>lyrics<br>dance<br>adult<br>among
+bip_39_word_new_br_6: access<br>lyrics<br>dance<br>adult<br>among<br>moral
+bip_39_word_new_br_7: access<br>lyrics<br>dance<br>adult<br>among<br>moral<br>dutch
+bip_39_word_new_br_8: access<br>lyrics<br>dance<br>adult<br>among<br>moral<br>dutch<br>forum
+bip_39_word_new_br_9: access<br>lyrics<br>dance<br>adult<br>among<br>moral<br>dutch<br>forum<br>evil
+bip_39_word_new_line_1: access
+bip_39_word_new_line_10: 'access
 
   lyrics
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'access
   evil
 
   joy'
-bip_39_word_new_line11: 'access
+bip_39_word_new_line_11: 'access
 
   lyrics
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'access
   joy
 
   middle'
-bip_39_word_new_line12: 'access
+bip_39_word_new_line_12: 'access
 
   lyrics
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'access
   middle
 
   amused'
-bip_39_word_new_line2: 'access
+bip_39_word_new_line_2: 'access
 
   lyrics'
-bip_39_word_new_line3: 'access
+bip_39_word_new_line_3: 'access
 
   lyrics
 
   dance'
-bip_39_word_new_line4: 'access
+bip_39_word_new_line_4: 'access
 
   lyrics
 
   dance
 
   adult'
-bip_39_word_new_line5: 'access
+bip_39_word_new_line_5: 'access
 
   lyrics
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'access
   adult
 
   among'
-bip_39_word_new_line6: 'access
+bip_39_word_new_line_6: 'access
 
   lyrics
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'access
   among
 
   moral'
-bip_39_word_new_line7: 'access
+bip_39_word_new_line_7: 'access
 
   lyrics
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'access
   moral
 
   dutch'
-bip_39_word_new_line8: 'access
+bip_39_word_new_line_8: 'access
 
   lyrics
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'access
   dutch
 
   forum'
-bip_39_word_new_line9: 'access
+bip_39_word_new_line_9: 'access
 
   lyrics
 

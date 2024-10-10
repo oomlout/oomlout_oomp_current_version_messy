@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | palace |  
-| bip_39_word_new_br10 | palace<br>provide<br>expand<br>beauty<br>erode<br>catch<br>soccer<br>tragic<br>erode<br>vocal |  
-| bip_39_word_new_br11 | palace<br>provide<br>expand<br>beauty<br>erode<br>catch<br>soccer<br>tragic<br>erode<br>vocal<br>orchard |  
-| bip_39_word_new_br2 | palace<br>provide |  
-| bip_39_word_new_br3 | palace<br>provide<br>expand |  
-| bip_39_word_new_br4 | palace<br>provide<br>expand<br>beauty |  
-| bip_39_word_new_br5 | palace<br>provide<br>expand<br>beauty<br>erode |  
-| bip_39_word_new_br6 | palace<br>provide<br>expand<br>beauty<br>erode<br>catch |  
-| bip_39_word_new_br7 | palace<br>provide<br>expand<br>beauty<br>erode<br>catch<br>soccer |  
-| bip_39_word_new_br8 | palace<br>provide<br>expand<br>beauty<br>erode<br>catch<br>soccer<br>tragic |  
-| bip_39_word_new_br9 | palace<br>provide<br>expand<br>beauty<br>erode<br>catch<br>soccer<br>tragic<br>erode |  
-| bip_39_word_new_line1 | palace |  
-| bip_39_word_new_line10 | palace
+| bip_39_word_new_br_1 | palace |  
+| bip_39_word_new_br_10 | palace<br>provide<br>expand<br>beauty<br>erode<br>catch<br>soccer<br>tragic<br>erode<br>vocal |  
+| bip_39_word_new_br_11 | palace<br>provide<br>expand<br>beauty<br>erode<br>catch<br>soccer<br>tragic<br>erode<br>vocal<br>orchard |  
+| bip_39_word_new_br_2 | palace<br>provide |  
+| bip_39_word_new_br_3 | palace<br>provide<br>expand |  
+| bip_39_word_new_br_4 | palace<br>provide<br>expand<br>beauty |  
+| bip_39_word_new_br_5 | palace<br>provide<br>expand<br>beauty<br>erode |  
+| bip_39_word_new_br_6 | palace<br>provide<br>expand<br>beauty<br>erode<br>catch |  
+| bip_39_word_new_br_7 | palace<br>provide<br>expand<br>beauty<br>erode<br>catch<br>soccer |  
+| bip_39_word_new_br_8 | palace<br>provide<br>expand<br>beauty<br>erode<br>catch<br>soccer<br>tragic |  
+| bip_39_word_new_br_9 | palace<br>provide<br>expand<br>beauty<br>erode<br>catch<br>soccer<br>tragic<br>erode |  
+| bip_39_word_new_line_1 | palace |  
+| bip_39_word_new_line_10 | palace
 provide
 expand
 beauty
@@ -54,7 +54,7 @@ soccer
 tragic
 erode
 vocal |  
-| bip_39_word_new_line11 | palace
+| bip_39_word_new_line_11 | palace
 provide
 expand
 beauty
@@ -65,34 +65,34 @@ tragic
 erode
 vocal
 orchard |  
-| bip_39_word_new_line2 | palace
+| bip_39_word_new_line_2 | palace
 provide |  
-| bip_39_word_new_line3 | palace
+| bip_39_word_new_line_3 | palace
 provide
 expand |  
-| bip_39_word_new_line4 | palace
+| bip_39_word_new_line_4 | palace
 provide
 expand
 beauty |  
-| bip_39_word_new_line5 | palace
+| bip_39_word_new_line_5 | palace
 provide
 expand
 beauty
 erode |  
-| bip_39_word_new_line6 | palace
+| bip_39_word_new_line_6 | palace
 provide
 expand
 beauty
 erode
 catch |  
-| bip_39_word_new_line7 | palace
+| bip_39_word_new_line_7 | palace
 provide
 expand
 beauty
 erode
 catch
 soccer |  
-| bip_39_word_new_line8 | palace
+| bip_39_word_new_line_8 | palace
 provide
 expand
 beauty
@@ -100,7 +100,7 @@ erode
 catch
 soccer
 tragic |  
-| bip_39_word_new_line9 | palace
+| bip_39_word_new_line_9 | palace
 provide
 expand
 beauty

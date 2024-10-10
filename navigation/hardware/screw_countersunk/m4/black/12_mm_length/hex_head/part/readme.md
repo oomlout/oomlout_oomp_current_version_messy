@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pledge |  
-| bip_39_word_new_br10 | pledge<br>shaft<br>cement<br>dove<br>cement<br>original<br>naive<br>coast<br>traffic<br>only |  
-| bip_39_word_new_br11 | pledge<br>shaft<br>cement<br>dove<br>cement<br>original<br>naive<br>coast<br>traffic<br>only<br>patient |  
-| bip_39_word_new_br12 | pledge<br>shaft<br>cement<br>dove<br>cement<br>original<br>naive<br>coast<br>traffic<br>only<br>patient<br>afford |  
-| bip_39_word_new_br2 | pledge<br>shaft |  
-| bip_39_word_new_br3 | pledge<br>shaft<br>cement |  
-| bip_39_word_new_br4 | pledge<br>shaft<br>cement<br>dove |  
-| bip_39_word_new_br5 | pledge<br>shaft<br>cement<br>dove<br>cement |  
-| bip_39_word_new_br6 | pledge<br>shaft<br>cement<br>dove<br>cement<br>original |  
-| bip_39_word_new_br7 | pledge<br>shaft<br>cement<br>dove<br>cement<br>original<br>naive |  
-| bip_39_word_new_br8 | pledge<br>shaft<br>cement<br>dove<br>cement<br>original<br>naive<br>coast |  
-| bip_39_word_new_br9 | pledge<br>shaft<br>cement<br>dove<br>cement<br>original<br>naive<br>coast<br>traffic |  
-| bip_39_word_new_line1 | pledge |  
-| bip_39_word_new_line10 | pledge
+| bip_39_word_new_br_1 | pledge |  
+| bip_39_word_new_br_10 | pledge<br>shaft<br>cement<br>dove<br>cement<br>original<br>naive<br>coast<br>traffic<br>only |  
+| bip_39_word_new_br_11 | pledge<br>shaft<br>cement<br>dove<br>cement<br>original<br>naive<br>coast<br>traffic<br>only<br>patient |  
+| bip_39_word_new_br_12 | pledge<br>shaft<br>cement<br>dove<br>cement<br>original<br>naive<br>coast<br>traffic<br>only<br>patient<br>afford |  
+| bip_39_word_new_br_2 | pledge<br>shaft |  
+| bip_39_word_new_br_3 | pledge<br>shaft<br>cement |  
+| bip_39_word_new_br_4 | pledge<br>shaft<br>cement<br>dove |  
+| bip_39_word_new_br_5 | pledge<br>shaft<br>cement<br>dove<br>cement |  
+| bip_39_word_new_br_6 | pledge<br>shaft<br>cement<br>dove<br>cement<br>original |  
+| bip_39_word_new_br_7 | pledge<br>shaft<br>cement<br>dove<br>cement<br>original<br>naive |  
+| bip_39_word_new_br_8 | pledge<br>shaft<br>cement<br>dove<br>cement<br>original<br>naive<br>coast |  
+| bip_39_word_new_br_9 | pledge<br>shaft<br>cement<br>dove<br>cement<br>original<br>naive<br>coast<br>traffic |  
+| bip_39_word_new_line_1 | pledge |  
+| bip_39_word_new_line_10 | pledge
 shaft
 cement
 dove
@@ -55,7 +55,7 @@ naive
 coast
 traffic
 only |  
-| bip_39_word_new_line11 | pledge
+| bip_39_word_new_line_11 | pledge
 shaft
 cement
 dove
@@ -66,7 +66,7 @@ coast
 traffic
 only
 patient |  
-| bip_39_word_new_line12 | pledge
+| bip_39_word_new_line_12 | pledge
 shaft
 cement
 dove
@@ -78,34 +78,34 @@ traffic
 only
 patient
 afford |  
-| bip_39_word_new_line2 | pledge
+| bip_39_word_new_line_2 | pledge
 shaft |  
-| bip_39_word_new_line3 | pledge
+| bip_39_word_new_line_3 | pledge
 shaft
 cement |  
-| bip_39_word_new_line4 | pledge
+| bip_39_word_new_line_4 | pledge
 shaft
 cement
 dove |  
-| bip_39_word_new_line5 | pledge
+| bip_39_word_new_line_5 | pledge
 shaft
 cement
 dove
 cement |  
-| bip_39_word_new_line6 | pledge
+| bip_39_word_new_line_6 | pledge
 shaft
 cement
 dove
 cement
 original |  
-| bip_39_word_new_line7 | pledge
+| bip_39_word_new_line_7 | pledge
 shaft
 cement
 dove
 cement
 original
 naive |  
-| bip_39_word_new_line8 | pledge
+| bip_39_word_new_line_8 | pledge
 shaft
 cement
 dove
@@ -113,7 +113,7 @@ cement
 original
 naive
 coast |  
-| bip_39_word_new_line9 | pledge
+| bip_39_word_new_line_9 | pledge
 shaft
 cement
 dove

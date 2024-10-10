@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wet |  
-| bip_39_word_new_br10 | wet<br>immune<br>alert<br>kangaroo<br>exile<br>wealth<br>margin<br>quiz<br>basic<br>they |  
-| bip_39_word_new_br11 | wet<br>immune<br>alert<br>kangaroo<br>exile<br>wealth<br>margin<br>quiz<br>basic<br>they<br>receive |  
-| bip_39_word_new_br12 | wet<br>immune<br>alert<br>kangaroo<br>exile<br>wealth<br>margin<br>quiz<br>basic<br>they<br>receive<br>about |  
-| bip_39_word_new_br2 | wet<br>immune |  
-| bip_39_word_new_br3 | wet<br>immune<br>alert |  
-| bip_39_word_new_br4 | wet<br>immune<br>alert<br>kangaroo |  
-| bip_39_word_new_br5 | wet<br>immune<br>alert<br>kangaroo<br>exile |  
-| bip_39_word_new_br6 | wet<br>immune<br>alert<br>kangaroo<br>exile<br>wealth |  
-| bip_39_word_new_br7 | wet<br>immune<br>alert<br>kangaroo<br>exile<br>wealth<br>margin |  
-| bip_39_word_new_br8 | wet<br>immune<br>alert<br>kangaroo<br>exile<br>wealth<br>margin<br>quiz |  
-| bip_39_word_new_br9 | wet<br>immune<br>alert<br>kangaroo<br>exile<br>wealth<br>margin<br>quiz<br>basic |  
-| bip_39_word_new_line1 | wet |  
-| bip_39_word_new_line10 | wet
+| bip_39_word_new_br_1 | wet |  
+| bip_39_word_new_br_10 | wet<br>immune<br>alert<br>kangaroo<br>exile<br>wealth<br>margin<br>quiz<br>basic<br>they |  
+| bip_39_word_new_br_11 | wet<br>immune<br>alert<br>kangaroo<br>exile<br>wealth<br>margin<br>quiz<br>basic<br>they<br>receive |  
+| bip_39_word_new_br_12 | wet<br>immune<br>alert<br>kangaroo<br>exile<br>wealth<br>margin<br>quiz<br>basic<br>they<br>receive<br>about |  
+| bip_39_word_new_br_2 | wet<br>immune |  
+| bip_39_word_new_br_3 | wet<br>immune<br>alert |  
+| bip_39_word_new_br_4 | wet<br>immune<br>alert<br>kangaroo |  
+| bip_39_word_new_br_5 | wet<br>immune<br>alert<br>kangaroo<br>exile |  
+| bip_39_word_new_br_6 | wet<br>immune<br>alert<br>kangaroo<br>exile<br>wealth |  
+| bip_39_word_new_br_7 | wet<br>immune<br>alert<br>kangaroo<br>exile<br>wealth<br>margin |  
+| bip_39_word_new_br_8 | wet<br>immune<br>alert<br>kangaroo<br>exile<br>wealth<br>margin<br>quiz |  
+| bip_39_word_new_br_9 | wet<br>immune<br>alert<br>kangaroo<br>exile<br>wealth<br>margin<br>quiz<br>basic |  
+| bip_39_word_new_line_1 | wet |  
+| bip_39_word_new_line_10 | wet
 immune
 alert
 kangaroo
@@ -55,7 +55,7 @@ margin
 quiz
 basic
 they |  
-| bip_39_word_new_line11 | wet
+| bip_39_word_new_line_11 | wet
 immune
 alert
 kangaroo
@@ -66,7 +66,7 @@ quiz
 basic
 they
 receive |  
-| bip_39_word_new_line12 | wet
+| bip_39_word_new_line_12 | wet
 immune
 alert
 kangaroo
@@ -78,34 +78,34 @@ basic
 they
 receive
 about |  
-| bip_39_word_new_line2 | wet
+| bip_39_word_new_line_2 | wet
 immune |  
-| bip_39_word_new_line3 | wet
+| bip_39_word_new_line_3 | wet
 immune
 alert |  
-| bip_39_word_new_line4 | wet
+| bip_39_word_new_line_4 | wet
 immune
 alert
 kangaroo |  
-| bip_39_word_new_line5 | wet
+| bip_39_word_new_line_5 | wet
 immune
 alert
 kangaroo
 exile |  
-| bip_39_word_new_line6 | wet
+| bip_39_word_new_line_6 | wet
 immune
 alert
 kangaroo
 exile
 wealth |  
-| bip_39_word_new_line7 | wet
+| bip_39_word_new_line_7 | wet
 immune
 alert
 kangaroo
 exile
 wealth
 margin |  
-| bip_39_word_new_line8 | wet
+| bip_39_word_new_line_8 | wet
 immune
 alert
 kangaroo
@@ -113,7 +113,7 @@ exile
 wealth
 margin
 quiz |  
-| bip_39_word_new_line9 | wet
+| bip_39_word_new_line_9 | wet
 immune
 alert
 kangaroo

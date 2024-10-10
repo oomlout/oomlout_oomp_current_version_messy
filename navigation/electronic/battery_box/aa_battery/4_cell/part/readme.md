@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | solve |  
-| bip_39_word_new_br10 | solve<br>blood<br>brave<br>seed<br>method<br>summer<br>outside<br>junior<br>pond<br>mouse |  
-| bip_39_word_new_br11 | solve<br>blood<br>brave<br>seed<br>method<br>summer<br>outside<br>junior<br>pond<br>mouse<br>verb |  
-| bip_39_word_new_br12 | solve<br>blood<br>brave<br>seed<br>method<br>summer<br>outside<br>junior<br>pond<br>mouse<br>verb<br>account |  
-| bip_39_word_new_br2 | solve<br>blood |  
-| bip_39_word_new_br3 | solve<br>blood<br>brave |  
-| bip_39_word_new_br4 | solve<br>blood<br>brave<br>seed |  
-| bip_39_word_new_br5 | solve<br>blood<br>brave<br>seed<br>method |  
-| bip_39_word_new_br6 | solve<br>blood<br>brave<br>seed<br>method<br>summer |  
-| bip_39_word_new_br7 | solve<br>blood<br>brave<br>seed<br>method<br>summer<br>outside |  
-| bip_39_word_new_br8 | solve<br>blood<br>brave<br>seed<br>method<br>summer<br>outside<br>junior |  
-| bip_39_word_new_br9 | solve<br>blood<br>brave<br>seed<br>method<br>summer<br>outside<br>junior<br>pond |  
-| bip_39_word_new_line1 | solve |  
-| bip_39_word_new_line10 | solve
+| bip_39_word_new_br_1 | solve |  
+| bip_39_word_new_br_10 | solve<br>blood<br>brave<br>seed<br>method<br>summer<br>outside<br>junior<br>pond<br>mouse |  
+| bip_39_word_new_br_11 | solve<br>blood<br>brave<br>seed<br>method<br>summer<br>outside<br>junior<br>pond<br>mouse<br>verb |  
+| bip_39_word_new_br_12 | solve<br>blood<br>brave<br>seed<br>method<br>summer<br>outside<br>junior<br>pond<br>mouse<br>verb<br>account |  
+| bip_39_word_new_br_2 | solve<br>blood |  
+| bip_39_word_new_br_3 | solve<br>blood<br>brave |  
+| bip_39_word_new_br_4 | solve<br>blood<br>brave<br>seed |  
+| bip_39_word_new_br_5 | solve<br>blood<br>brave<br>seed<br>method |  
+| bip_39_word_new_br_6 | solve<br>blood<br>brave<br>seed<br>method<br>summer |  
+| bip_39_word_new_br_7 | solve<br>blood<br>brave<br>seed<br>method<br>summer<br>outside |  
+| bip_39_word_new_br_8 | solve<br>blood<br>brave<br>seed<br>method<br>summer<br>outside<br>junior |  
+| bip_39_word_new_br_9 | solve<br>blood<br>brave<br>seed<br>method<br>summer<br>outside<br>junior<br>pond |  
+| bip_39_word_new_line_1 | solve |  
+| bip_39_word_new_line_10 | solve
 blood
 brave
 seed
@@ -55,7 +55,7 @@ outside
 junior
 pond
 mouse |  
-| bip_39_word_new_line11 | solve
+| bip_39_word_new_line_11 | solve
 blood
 brave
 seed
@@ -66,7 +66,7 @@ junior
 pond
 mouse
 verb |  
-| bip_39_word_new_line12 | solve
+| bip_39_word_new_line_12 | solve
 blood
 brave
 seed
@@ -78,34 +78,34 @@ pond
 mouse
 verb
 account |  
-| bip_39_word_new_line2 | solve
+| bip_39_word_new_line_2 | solve
 blood |  
-| bip_39_word_new_line3 | solve
+| bip_39_word_new_line_3 | solve
 blood
 brave |  
-| bip_39_word_new_line4 | solve
+| bip_39_word_new_line_4 | solve
 blood
 brave
 seed |  
-| bip_39_word_new_line5 | solve
+| bip_39_word_new_line_5 | solve
 blood
 brave
 seed
 method |  
-| bip_39_word_new_line6 | solve
+| bip_39_word_new_line_6 | solve
 blood
 brave
 seed
 method
 summer |  
-| bip_39_word_new_line7 | solve
+| bip_39_word_new_line_7 | solve
 blood
 brave
 seed
 method
 summer
 outside |  
-| bip_39_word_new_line8 | solve
+| bip_39_word_new_line_8 | solve
 blood
 brave
 seed
@@ -113,7 +113,7 @@ method
 summer
 outside
 junior |  
-| bip_39_word_new_line9 | solve
+| bip_39_word_new_line_9 | solve
 blood
 brave
 seed

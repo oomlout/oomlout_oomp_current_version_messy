@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | skull |  
-| bip_39_word_new_br10 | skull<br>voice<br>name<br>donkey<br>negative<br>eyebrow<br>music<br>remind<br>erase<br>mule |  
-| bip_39_word_new_br11 | skull<br>voice<br>name<br>donkey<br>negative<br>eyebrow<br>music<br>remind<br>erase<br>mule<br>mother |  
-| bip_39_word_new_br12 | skull<br>voice<br>name<br>donkey<br>negative<br>eyebrow<br>music<br>remind<br>erase<br>mule<br>mother<br>attend |  
-| bip_39_word_new_br2 | skull<br>voice |  
-| bip_39_word_new_br3 | skull<br>voice<br>name |  
-| bip_39_word_new_br4 | skull<br>voice<br>name<br>donkey |  
-| bip_39_word_new_br5 | skull<br>voice<br>name<br>donkey<br>negative |  
-| bip_39_word_new_br6 | skull<br>voice<br>name<br>donkey<br>negative<br>eyebrow |  
-| bip_39_word_new_br7 | skull<br>voice<br>name<br>donkey<br>negative<br>eyebrow<br>music |  
-| bip_39_word_new_br8 | skull<br>voice<br>name<br>donkey<br>negative<br>eyebrow<br>music<br>remind |  
-| bip_39_word_new_br9 | skull<br>voice<br>name<br>donkey<br>negative<br>eyebrow<br>music<br>remind<br>erase |  
-| bip_39_word_new_line1 | skull |  
-| bip_39_word_new_line10 | skull
+| bip_39_word_new_br_1 | skull |  
+| bip_39_word_new_br_10 | skull<br>voice<br>name<br>donkey<br>negative<br>eyebrow<br>music<br>remind<br>erase<br>mule |  
+| bip_39_word_new_br_11 | skull<br>voice<br>name<br>donkey<br>negative<br>eyebrow<br>music<br>remind<br>erase<br>mule<br>mother |  
+| bip_39_word_new_br_12 | skull<br>voice<br>name<br>donkey<br>negative<br>eyebrow<br>music<br>remind<br>erase<br>mule<br>mother<br>attend |  
+| bip_39_word_new_br_2 | skull<br>voice |  
+| bip_39_word_new_br_3 | skull<br>voice<br>name |  
+| bip_39_word_new_br_4 | skull<br>voice<br>name<br>donkey |  
+| bip_39_word_new_br_5 | skull<br>voice<br>name<br>donkey<br>negative |  
+| bip_39_word_new_br_6 | skull<br>voice<br>name<br>donkey<br>negative<br>eyebrow |  
+| bip_39_word_new_br_7 | skull<br>voice<br>name<br>donkey<br>negative<br>eyebrow<br>music |  
+| bip_39_word_new_br_8 | skull<br>voice<br>name<br>donkey<br>negative<br>eyebrow<br>music<br>remind |  
+| bip_39_word_new_br_9 | skull<br>voice<br>name<br>donkey<br>negative<br>eyebrow<br>music<br>remind<br>erase |  
+| bip_39_word_new_line_1 | skull |  
+| bip_39_word_new_line_10 | skull
 voice
 name
 donkey
@@ -55,7 +55,7 @@ music
 remind
 erase
 mule |  
-| bip_39_word_new_line11 | skull
+| bip_39_word_new_line_11 | skull
 voice
 name
 donkey
@@ -66,7 +66,7 @@ remind
 erase
 mule
 mother |  
-| bip_39_word_new_line12 | skull
+| bip_39_word_new_line_12 | skull
 voice
 name
 donkey
@@ -78,34 +78,34 @@ erase
 mule
 mother
 attend |  
-| bip_39_word_new_line2 | skull
+| bip_39_word_new_line_2 | skull
 voice |  
-| bip_39_word_new_line3 | skull
+| bip_39_word_new_line_3 | skull
 voice
 name |  
-| bip_39_word_new_line4 | skull
+| bip_39_word_new_line_4 | skull
 voice
 name
 donkey |  
-| bip_39_word_new_line5 | skull
+| bip_39_word_new_line_5 | skull
 voice
 name
 donkey
 negative |  
-| bip_39_word_new_line6 | skull
+| bip_39_word_new_line_6 | skull
 voice
 name
 donkey
 negative
 eyebrow |  
-| bip_39_word_new_line7 | skull
+| bip_39_word_new_line_7 | skull
 voice
 name
 donkey
 negative
 eyebrow
 music |  
-| bip_39_word_new_line8 | skull
+| bip_39_word_new_line_8 | skull
 voice
 name
 donkey
@@ -113,7 +113,7 @@ negative
 eyebrow
 music
 remind |  
-| bip_39_word_new_line9 | skull
+| bip_39_word_new_line_9 | skull
 voice
 name
 donkey

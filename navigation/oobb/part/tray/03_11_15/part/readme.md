@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | math |  
-| bip_39_word_new_br10 | math<br>fat<br>maid<br>long<br>feature<br>citizen<br>dream<br>shoe<br>camera<br>project |  
-| bip_39_word_new_br11 | math<br>fat<br>maid<br>long<br>feature<br>citizen<br>dream<br>shoe<br>camera<br>project<br>raccoon |  
-| bip_39_word_new_br12 | math<br>fat<br>maid<br>long<br>feature<br>citizen<br>dream<br>shoe<br>camera<br>project<br>raccoon<br>alpha |  
-| bip_39_word_new_br2 | math<br>fat |  
-| bip_39_word_new_br3 | math<br>fat<br>maid |  
-| bip_39_word_new_br4 | math<br>fat<br>maid<br>long |  
-| bip_39_word_new_br5 | math<br>fat<br>maid<br>long<br>feature |  
-| bip_39_word_new_br6 | math<br>fat<br>maid<br>long<br>feature<br>citizen |  
-| bip_39_word_new_br7 | math<br>fat<br>maid<br>long<br>feature<br>citizen<br>dream |  
-| bip_39_word_new_br8 | math<br>fat<br>maid<br>long<br>feature<br>citizen<br>dream<br>shoe |  
-| bip_39_word_new_br9 | math<br>fat<br>maid<br>long<br>feature<br>citizen<br>dream<br>shoe<br>camera |  
-| bip_39_word_new_line1 | math |  
-| bip_39_word_new_line10 | math
+| bip_39_word_new_br_1 | math |  
+| bip_39_word_new_br_10 | math<br>fat<br>maid<br>long<br>feature<br>citizen<br>dream<br>shoe<br>camera<br>project |  
+| bip_39_word_new_br_11 | math<br>fat<br>maid<br>long<br>feature<br>citizen<br>dream<br>shoe<br>camera<br>project<br>raccoon |  
+| bip_39_word_new_br_12 | math<br>fat<br>maid<br>long<br>feature<br>citizen<br>dream<br>shoe<br>camera<br>project<br>raccoon<br>alpha |  
+| bip_39_word_new_br_2 | math<br>fat |  
+| bip_39_word_new_br_3 | math<br>fat<br>maid |  
+| bip_39_word_new_br_4 | math<br>fat<br>maid<br>long |  
+| bip_39_word_new_br_5 | math<br>fat<br>maid<br>long<br>feature |  
+| bip_39_word_new_br_6 | math<br>fat<br>maid<br>long<br>feature<br>citizen |  
+| bip_39_word_new_br_7 | math<br>fat<br>maid<br>long<br>feature<br>citizen<br>dream |  
+| bip_39_word_new_br_8 | math<br>fat<br>maid<br>long<br>feature<br>citizen<br>dream<br>shoe |  
+| bip_39_word_new_br_9 | math<br>fat<br>maid<br>long<br>feature<br>citizen<br>dream<br>shoe<br>camera |  
+| bip_39_word_new_line_1 | math |  
+| bip_39_word_new_line_10 | math
 fat
 maid
 long
@@ -55,7 +55,7 @@ dream
 shoe
 camera
 project |  
-| bip_39_word_new_line11 | math
+| bip_39_word_new_line_11 | math
 fat
 maid
 long
@@ -66,7 +66,7 @@ shoe
 camera
 project
 raccoon |  
-| bip_39_word_new_line12 | math
+| bip_39_word_new_line_12 | math
 fat
 maid
 long
@@ -78,34 +78,34 @@ camera
 project
 raccoon
 alpha |  
-| bip_39_word_new_line2 | math
+| bip_39_word_new_line_2 | math
 fat |  
-| bip_39_word_new_line3 | math
+| bip_39_word_new_line_3 | math
 fat
 maid |  
-| bip_39_word_new_line4 | math
+| bip_39_word_new_line_4 | math
 fat
 maid
 long |  
-| bip_39_word_new_line5 | math
+| bip_39_word_new_line_5 | math
 fat
 maid
 long
 feature |  
-| bip_39_word_new_line6 | math
+| bip_39_word_new_line_6 | math
 fat
 maid
 long
 feature
 citizen |  
-| bip_39_word_new_line7 | math
+| bip_39_word_new_line_7 | math
 fat
 maid
 long
 feature
 citizen
 dream |  
-| bip_39_word_new_line8 | math
+| bip_39_word_new_line_8 | math
 fat
 maid
 long
@@ -113,7 +113,7 @@ feature
 citizen
 dream
 shoe |  
-| bip_39_word_new_line9 | math
+| bip_39_word_new_line_9 | math
 fat
 maid
 long

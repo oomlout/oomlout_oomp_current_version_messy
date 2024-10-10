@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sugar |  
-| bip_39_word_new_br10 | sugar<br>juice<br>stumble<br>february<br>poem<br>destroy<br>camera<br>series<br>category<br>bunker |  
-| bip_39_word_new_br11 | sugar<br>juice<br>stumble<br>february<br>poem<br>destroy<br>camera<br>series<br>category<br>bunker<br>minimum |  
-| bip_39_word_new_br12 | sugar<br>juice<br>stumble<br>february<br>poem<br>destroy<br>camera<br>series<br>category<br>bunker<br>minimum<br>acid |  
-| bip_39_word_new_br2 | sugar<br>juice |  
-| bip_39_word_new_br3 | sugar<br>juice<br>stumble |  
-| bip_39_word_new_br4 | sugar<br>juice<br>stumble<br>february |  
-| bip_39_word_new_br5 | sugar<br>juice<br>stumble<br>february<br>poem |  
-| bip_39_word_new_br6 | sugar<br>juice<br>stumble<br>february<br>poem<br>destroy |  
-| bip_39_word_new_br7 | sugar<br>juice<br>stumble<br>february<br>poem<br>destroy<br>camera |  
-| bip_39_word_new_br8 | sugar<br>juice<br>stumble<br>february<br>poem<br>destroy<br>camera<br>series |  
-| bip_39_word_new_br9 | sugar<br>juice<br>stumble<br>february<br>poem<br>destroy<br>camera<br>series<br>category |  
-| bip_39_word_new_line1 | sugar |  
-| bip_39_word_new_line10 | sugar
+| bip_39_word_new_br_1 | sugar |  
+| bip_39_word_new_br_10 | sugar<br>juice<br>stumble<br>february<br>poem<br>destroy<br>camera<br>series<br>category<br>bunker |  
+| bip_39_word_new_br_11 | sugar<br>juice<br>stumble<br>february<br>poem<br>destroy<br>camera<br>series<br>category<br>bunker<br>minimum |  
+| bip_39_word_new_br_12 | sugar<br>juice<br>stumble<br>february<br>poem<br>destroy<br>camera<br>series<br>category<br>bunker<br>minimum<br>acid |  
+| bip_39_word_new_br_2 | sugar<br>juice |  
+| bip_39_word_new_br_3 | sugar<br>juice<br>stumble |  
+| bip_39_word_new_br_4 | sugar<br>juice<br>stumble<br>february |  
+| bip_39_word_new_br_5 | sugar<br>juice<br>stumble<br>february<br>poem |  
+| bip_39_word_new_br_6 | sugar<br>juice<br>stumble<br>february<br>poem<br>destroy |  
+| bip_39_word_new_br_7 | sugar<br>juice<br>stumble<br>february<br>poem<br>destroy<br>camera |  
+| bip_39_word_new_br_8 | sugar<br>juice<br>stumble<br>february<br>poem<br>destroy<br>camera<br>series |  
+| bip_39_word_new_br_9 | sugar<br>juice<br>stumble<br>february<br>poem<br>destroy<br>camera<br>series<br>category |  
+| bip_39_word_new_line_1 | sugar |  
+| bip_39_word_new_line_10 | sugar
 juice
 stumble
 february
@@ -55,7 +55,7 @@ camera
 series
 category
 bunker |  
-| bip_39_word_new_line11 | sugar
+| bip_39_word_new_line_11 | sugar
 juice
 stumble
 february
@@ -66,7 +66,7 @@ series
 category
 bunker
 minimum |  
-| bip_39_word_new_line12 | sugar
+| bip_39_word_new_line_12 | sugar
 juice
 stumble
 february
@@ -78,34 +78,34 @@ category
 bunker
 minimum
 acid |  
-| bip_39_word_new_line2 | sugar
+| bip_39_word_new_line_2 | sugar
 juice |  
-| bip_39_word_new_line3 | sugar
+| bip_39_word_new_line_3 | sugar
 juice
 stumble |  
-| bip_39_word_new_line4 | sugar
+| bip_39_word_new_line_4 | sugar
 juice
 stumble
 february |  
-| bip_39_word_new_line5 | sugar
+| bip_39_word_new_line_5 | sugar
 juice
 stumble
 february
 poem |  
-| bip_39_word_new_line6 | sugar
+| bip_39_word_new_line_6 | sugar
 juice
 stumble
 february
 poem
 destroy |  
-| bip_39_word_new_line7 | sugar
+| bip_39_word_new_line_7 | sugar
 juice
 stumble
 february
 poem
 destroy
 camera |  
-| bip_39_word_new_line8 | sugar
+| bip_39_word_new_line_8 | sugar
 juice
 stumble
 february
@@ -113,7 +113,7 @@ poem
 destroy
 camera
 series |  
-| bip_39_word_new_line9 | sugar
+| bip_39_word_new_line_9 | sugar
 juice
 stumble
 february

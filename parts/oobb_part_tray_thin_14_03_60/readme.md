@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | usage |  
-| bip_39_word_new_br10 | usage<br>ankle<br>odor<br>surprise<br>bundle<br>way<br>artwork<br>easy<br>gadget<br>local |  
-| bip_39_word_new_br11 | usage<br>ankle<br>odor<br>surprise<br>bundle<br>way<br>artwork<br>easy<br>gadget<br>local<br>office |  
-| bip_39_word_new_br12 | usage<br>ankle<br>odor<br>surprise<br>bundle<br>way<br>artwork<br>easy<br>gadget<br>local<br>office<br>actress |  
-| bip_39_word_new_br2 | usage<br>ankle |  
-| bip_39_word_new_br3 | usage<br>ankle<br>odor |  
-| bip_39_word_new_br4 | usage<br>ankle<br>odor<br>surprise |  
-| bip_39_word_new_br5 | usage<br>ankle<br>odor<br>surprise<br>bundle |  
-| bip_39_word_new_br6 | usage<br>ankle<br>odor<br>surprise<br>bundle<br>way |  
-| bip_39_word_new_br7 | usage<br>ankle<br>odor<br>surprise<br>bundle<br>way<br>artwork |  
-| bip_39_word_new_br8 | usage<br>ankle<br>odor<br>surprise<br>bundle<br>way<br>artwork<br>easy |  
-| bip_39_word_new_br9 | usage<br>ankle<br>odor<br>surprise<br>bundle<br>way<br>artwork<br>easy<br>gadget |  
-| bip_39_word_new_line1 | usage |  
-| bip_39_word_new_line10 | usage
+| bip_39_word_new_br_1 | usage |  
+| bip_39_word_new_br_10 | usage<br>ankle<br>odor<br>surprise<br>bundle<br>way<br>artwork<br>easy<br>gadget<br>local |  
+| bip_39_word_new_br_11 | usage<br>ankle<br>odor<br>surprise<br>bundle<br>way<br>artwork<br>easy<br>gadget<br>local<br>office |  
+| bip_39_word_new_br_12 | usage<br>ankle<br>odor<br>surprise<br>bundle<br>way<br>artwork<br>easy<br>gadget<br>local<br>office<br>actress |  
+| bip_39_word_new_br_2 | usage<br>ankle |  
+| bip_39_word_new_br_3 | usage<br>ankle<br>odor |  
+| bip_39_word_new_br_4 | usage<br>ankle<br>odor<br>surprise |  
+| bip_39_word_new_br_5 | usage<br>ankle<br>odor<br>surprise<br>bundle |  
+| bip_39_word_new_br_6 | usage<br>ankle<br>odor<br>surprise<br>bundle<br>way |  
+| bip_39_word_new_br_7 | usage<br>ankle<br>odor<br>surprise<br>bundle<br>way<br>artwork |  
+| bip_39_word_new_br_8 | usage<br>ankle<br>odor<br>surprise<br>bundle<br>way<br>artwork<br>easy |  
+| bip_39_word_new_br_9 | usage<br>ankle<br>odor<br>surprise<br>bundle<br>way<br>artwork<br>easy<br>gadget |  
+| bip_39_word_new_line_1 | usage |  
+| bip_39_word_new_line_10 | usage
 ankle
 odor
 surprise
@@ -55,7 +55,7 @@ artwork
 easy
 gadget
 local |  
-| bip_39_word_new_line11 | usage
+| bip_39_word_new_line_11 | usage
 ankle
 odor
 surprise
@@ -66,7 +66,7 @@ easy
 gadget
 local
 office |  
-| bip_39_word_new_line12 | usage
+| bip_39_word_new_line_12 | usage
 ankle
 odor
 surprise
@@ -78,34 +78,34 @@ gadget
 local
 office
 actress |  
-| bip_39_word_new_line2 | usage
+| bip_39_word_new_line_2 | usage
 ankle |  
-| bip_39_word_new_line3 | usage
+| bip_39_word_new_line_3 | usage
 ankle
 odor |  
-| bip_39_word_new_line4 | usage
+| bip_39_word_new_line_4 | usage
 ankle
 odor
 surprise |  
-| bip_39_word_new_line5 | usage
+| bip_39_word_new_line_5 | usage
 ankle
 odor
 surprise
 bundle |  
-| bip_39_word_new_line6 | usage
+| bip_39_word_new_line_6 | usage
 ankle
 odor
 surprise
 bundle
 way |  
-| bip_39_word_new_line7 | usage
+| bip_39_word_new_line_7 | usage
 ankle
 odor
 surprise
 bundle
 way
 artwork |  
-| bip_39_word_new_line8 | usage
+| bip_39_word_new_line_8 | usage
 ankle
 odor
 surprise
@@ -113,7 +113,7 @@ bundle
 way
 artwork
 easy |  
-| bip_39_word_new_line9 | usage
+| bip_39_word_new_line_9 | usage
 ankle
 odor
 surprise

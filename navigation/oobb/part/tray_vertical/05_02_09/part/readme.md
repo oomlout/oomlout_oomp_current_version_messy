@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | loyal |  
-| bip_39_word_new_br10 | loyal<br>rebuild<br>shoulder<br>convince<br>judge<br>edit<br>gasp<br>chaos<br>room<br>fiber |  
-| bip_39_word_new_br11 | loyal<br>rebuild<br>shoulder<br>convince<br>judge<br>edit<br>gasp<br>chaos<br>room<br>fiber<br>sheriff |  
-| bip_39_word_new_br12 | loyal<br>rebuild<br>shoulder<br>convince<br>judge<br>edit<br>gasp<br>chaos<br>room<br>fiber<br>sheriff<br>armor |  
-| bip_39_word_new_br2 | loyal<br>rebuild |  
-| bip_39_word_new_br3 | loyal<br>rebuild<br>shoulder |  
-| bip_39_word_new_br4 | loyal<br>rebuild<br>shoulder<br>convince |  
-| bip_39_word_new_br5 | loyal<br>rebuild<br>shoulder<br>convince<br>judge |  
-| bip_39_word_new_br6 | loyal<br>rebuild<br>shoulder<br>convince<br>judge<br>edit |  
-| bip_39_word_new_br7 | loyal<br>rebuild<br>shoulder<br>convince<br>judge<br>edit<br>gasp |  
-| bip_39_word_new_br8 | loyal<br>rebuild<br>shoulder<br>convince<br>judge<br>edit<br>gasp<br>chaos |  
-| bip_39_word_new_br9 | loyal<br>rebuild<br>shoulder<br>convince<br>judge<br>edit<br>gasp<br>chaos<br>room |  
-| bip_39_word_new_line1 | loyal |  
-| bip_39_word_new_line10 | loyal
+| bip_39_word_new_br_1 | loyal |  
+| bip_39_word_new_br_10 | loyal<br>rebuild<br>shoulder<br>convince<br>judge<br>edit<br>gasp<br>chaos<br>room<br>fiber |  
+| bip_39_word_new_br_11 | loyal<br>rebuild<br>shoulder<br>convince<br>judge<br>edit<br>gasp<br>chaos<br>room<br>fiber<br>sheriff |  
+| bip_39_word_new_br_12 | loyal<br>rebuild<br>shoulder<br>convince<br>judge<br>edit<br>gasp<br>chaos<br>room<br>fiber<br>sheriff<br>armor |  
+| bip_39_word_new_br_2 | loyal<br>rebuild |  
+| bip_39_word_new_br_3 | loyal<br>rebuild<br>shoulder |  
+| bip_39_word_new_br_4 | loyal<br>rebuild<br>shoulder<br>convince |  
+| bip_39_word_new_br_5 | loyal<br>rebuild<br>shoulder<br>convince<br>judge |  
+| bip_39_word_new_br_6 | loyal<br>rebuild<br>shoulder<br>convince<br>judge<br>edit |  
+| bip_39_word_new_br_7 | loyal<br>rebuild<br>shoulder<br>convince<br>judge<br>edit<br>gasp |  
+| bip_39_word_new_br_8 | loyal<br>rebuild<br>shoulder<br>convince<br>judge<br>edit<br>gasp<br>chaos |  
+| bip_39_word_new_br_9 | loyal<br>rebuild<br>shoulder<br>convince<br>judge<br>edit<br>gasp<br>chaos<br>room |  
+| bip_39_word_new_line_1 | loyal |  
+| bip_39_word_new_line_10 | loyal
 rebuild
 shoulder
 convince
@@ -55,7 +55,7 @@ gasp
 chaos
 room
 fiber |  
-| bip_39_word_new_line11 | loyal
+| bip_39_word_new_line_11 | loyal
 rebuild
 shoulder
 convince
@@ -66,7 +66,7 @@ chaos
 room
 fiber
 sheriff |  
-| bip_39_word_new_line12 | loyal
+| bip_39_word_new_line_12 | loyal
 rebuild
 shoulder
 convince
@@ -78,34 +78,34 @@ room
 fiber
 sheriff
 armor |  
-| bip_39_word_new_line2 | loyal
+| bip_39_word_new_line_2 | loyal
 rebuild |  
-| bip_39_word_new_line3 | loyal
+| bip_39_word_new_line_3 | loyal
 rebuild
 shoulder |  
-| bip_39_word_new_line4 | loyal
+| bip_39_word_new_line_4 | loyal
 rebuild
 shoulder
 convince |  
-| bip_39_word_new_line5 | loyal
+| bip_39_word_new_line_5 | loyal
 rebuild
 shoulder
 convince
 judge |  
-| bip_39_word_new_line6 | loyal
+| bip_39_word_new_line_6 | loyal
 rebuild
 shoulder
 convince
 judge
 edit |  
-| bip_39_word_new_line7 | loyal
+| bip_39_word_new_line_7 | loyal
 rebuild
 shoulder
 convince
 judge
 edit
 gasp |  
-| bip_39_word_new_line8 | loyal
+| bip_39_word_new_line_8 | loyal
 rebuild
 shoulder
 convince
@@ -113,7 +113,7 @@ judge
 edit
 gasp
 chaos |  
-| bip_39_word_new_line9 | loyal
+| bip_39_word_new_line_9 | loyal
 rebuild
 shoulder
 convince

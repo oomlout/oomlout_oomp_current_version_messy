@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | absorb |  
-| bip_39_word_new_br10 | absorb<br>jacket<br>file<br>worry<br>depart<br>staff<br>this<br>pulse<br>purse<br>clump |  
-| bip_39_word_new_br11 | absorb<br>jacket<br>file<br>worry<br>depart<br>staff<br>this<br>pulse<br>purse<br>clump<br>stool |  
-| bip_39_word_new_br12 | absorb<br>jacket<br>file<br>worry<br>depart<br>staff<br>this<br>pulse<br>purse<br>clump<br>stool<br>anxiety |  
-| bip_39_word_new_br2 | absorb<br>jacket |  
-| bip_39_word_new_br3 | absorb<br>jacket<br>file |  
-| bip_39_word_new_br4 | absorb<br>jacket<br>file<br>worry |  
-| bip_39_word_new_br5 | absorb<br>jacket<br>file<br>worry<br>depart |  
-| bip_39_word_new_br6 | absorb<br>jacket<br>file<br>worry<br>depart<br>staff |  
-| bip_39_word_new_br7 | absorb<br>jacket<br>file<br>worry<br>depart<br>staff<br>this |  
-| bip_39_word_new_br8 | absorb<br>jacket<br>file<br>worry<br>depart<br>staff<br>this<br>pulse |  
-| bip_39_word_new_br9 | absorb<br>jacket<br>file<br>worry<br>depart<br>staff<br>this<br>pulse<br>purse |  
-| bip_39_word_new_line1 | absorb |  
-| bip_39_word_new_line10 | absorb
+| bip_39_word_new_br_1 | absorb |  
+| bip_39_word_new_br_10 | absorb<br>jacket<br>file<br>worry<br>depart<br>staff<br>this<br>pulse<br>purse<br>clump |  
+| bip_39_word_new_br_11 | absorb<br>jacket<br>file<br>worry<br>depart<br>staff<br>this<br>pulse<br>purse<br>clump<br>stool |  
+| bip_39_word_new_br_12 | absorb<br>jacket<br>file<br>worry<br>depart<br>staff<br>this<br>pulse<br>purse<br>clump<br>stool<br>anxiety |  
+| bip_39_word_new_br_2 | absorb<br>jacket |  
+| bip_39_word_new_br_3 | absorb<br>jacket<br>file |  
+| bip_39_word_new_br_4 | absorb<br>jacket<br>file<br>worry |  
+| bip_39_word_new_br_5 | absorb<br>jacket<br>file<br>worry<br>depart |  
+| bip_39_word_new_br_6 | absorb<br>jacket<br>file<br>worry<br>depart<br>staff |  
+| bip_39_word_new_br_7 | absorb<br>jacket<br>file<br>worry<br>depart<br>staff<br>this |  
+| bip_39_word_new_br_8 | absorb<br>jacket<br>file<br>worry<br>depart<br>staff<br>this<br>pulse |  
+| bip_39_word_new_br_9 | absorb<br>jacket<br>file<br>worry<br>depart<br>staff<br>this<br>pulse<br>purse |  
+| bip_39_word_new_line_1 | absorb |  
+| bip_39_word_new_line_10 | absorb
 jacket
 file
 worry
@@ -55,7 +55,7 @@ this
 pulse
 purse
 clump |  
-| bip_39_word_new_line11 | absorb
+| bip_39_word_new_line_11 | absorb
 jacket
 file
 worry
@@ -66,7 +66,7 @@ pulse
 purse
 clump
 stool |  
-| bip_39_word_new_line12 | absorb
+| bip_39_word_new_line_12 | absorb
 jacket
 file
 worry
@@ -78,34 +78,34 @@ purse
 clump
 stool
 anxiety |  
-| bip_39_word_new_line2 | absorb
+| bip_39_word_new_line_2 | absorb
 jacket |  
-| bip_39_word_new_line3 | absorb
+| bip_39_word_new_line_3 | absorb
 jacket
 file |  
-| bip_39_word_new_line4 | absorb
+| bip_39_word_new_line_4 | absorb
 jacket
 file
 worry |  
-| bip_39_word_new_line5 | absorb
+| bip_39_word_new_line_5 | absorb
 jacket
 file
 worry
 depart |  
-| bip_39_word_new_line6 | absorb
+| bip_39_word_new_line_6 | absorb
 jacket
 file
 worry
 depart
 staff |  
-| bip_39_word_new_line7 | absorb
+| bip_39_word_new_line_7 | absorb
 jacket
 file
 worry
 depart
 staff
 this |  
-| bip_39_word_new_line8 | absorb
+| bip_39_word_new_line_8 | absorb
 jacket
 file
 worry
@@ -113,7 +113,7 @@ depart
 staff
 this
 pulse |  
-| bip_39_word_new_line9 | absorb
+| bip_39_word_new_line_9 | absorb
 jacket
 file
 worry

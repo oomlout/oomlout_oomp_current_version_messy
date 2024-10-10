@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | midnight |  
-| bip_39_word_new_br10 | midnight<br>glance<br>denial<br>brave<br>brain<br>waste<br>mix<br>account<br>energy<br>defy |  
-| bip_39_word_new_br11 | midnight<br>glance<br>denial<br>brave<br>brain<br>waste<br>mix<br>account<br>energy<br>defy<br>indicate |  
-| bip_39_word_new_br12 | midnight<br>glance<br>denial<br>brave<br>brain<br>waste<br>mix<br>account<br>energy<br>defy<br>indicate<br>aunt |  
-| bip_39_word_new_br2 | midnight<br>glance |  
-| bip_39_word_new_br3 | midnight<br>glance<br>denial |  
-| bip_39_word_new_br4 | midnight<br>glance<br>denial<br>brave |  
-| bip_39_word_new_br5 | midnight<br>glance<br>denial<br>brave<br>brain |  
-| bip_39_word_new_br6 | midnight<br>glance<br>denial<br>brave<br>brain<br>waste |  
-| bip_39_word_new_br7 | midnight<br>glance<br>denial<br>brave<br>brain<br>waste<br>mix |  
-| bip_39_word_new_br8 | midnight<br>glance<br>denial<br>brave<br>brain<br>waste<br>mix<br>account |  
-| bip_39_word_new_br9 | midnight<br>glance<br>denial<br>brave<br>brain<br>waste<br>mix<br>account<br>energy |  
-| bip_39_word_new_line1 | midnight |  
-| bip_39_word_new_line10 | midnight
+| bip_39_word_new_br_1 | midnight |  
+| bip_39_word_new_br_10 | midnight<br>glance<br>denial<br>brave<br>brain<br>waste<br>mix<br>account<br>energy<br>defy |  
+| bip_39_word_new_br_11 | midnight<br>glance<br>denial<br>brave<br>brain<br>waste<br>mix<br>account<br>energy<br>defy<br>indicate |  
+| bip_39_word_new_br_12 | midnight<br>glance<br>denial<br>brave<br>brain<br>waste<br>mix<br>account<br>energy<br>defy<br>indicate<br>aunt |  
+| bip_39_word_new_br_2 | midnight<br>glance |  
+| bip_39_word_new_br_3 | midnight<br>glance<br>denial |  
+| bip_39_word_new_br_4 | midnight<br>glance<br>denial<br>brave |  
+| bip_39_word_new_br_5 | midnight<br>glance<br>denial<br>brave<br>brain |  
+| bip_39_word_new_br_6 | midnight<br>glance<br>denial<br>brave<br>brain<br>waste |  
+| bip_39_word_new_br_7 | midnight<br>glance<br>denial<br>brave<br>brain<br>waste<br>mix |  
+| bip_39_word_new_br_8 | midnight<br>glance<br>denial<br>brave<br>brain<br>waste<br>mix<br>account |  
+| bip_39_word_new_br_9 | midnight<br>glance<br>denial<br>brave<br>brain<br>waste<br>mix<br>account<br>energy |  
+| bip_39_word_new_line_1 | midnight |  
+| bip_39_word_new_line_10 | midnight
 glance
 denial
 brave
@@ -55,7 +55,7 @@ mix
 account
 energy
 defy |  
-| bip_39_word_new_line11 | midnight
+| bip_39_word_new_line_11 | midnight
 glance
 denial
 brave
@@ -66,7 +66,7 @@ account
 energy
 defy
 indicate |  
-| bip_39_word_new_line12 | midnight
+| bip_39_word_new_line_12 | midnight
 glance
 denial
 brave
@@ -78,34 +78,34 @@ energy
 defy
 indicate
 aunt |  
-| bip_39_word_new_line2 | midnight
+| bip_39_word_new_line_2 | midnight
 glance |  
-| bip_39_word_new_line3 | midnight
+| bip_39_word_new_line_3 | midnight
 glance
 denial |  
-| bip_39_word_new_line4 | midnight
+| bip_39_word_new_line_4 | midnight
 glance
 denial
 brave |  
-| bip_39_word_new_line5 | midnight
+| bip_39_word_new_line_5 | midnight
 glance
 denial
 brave
 brain |  
-| bip_39_word_new_line6 | midnight
+| bip_39_word_new_line_6 | midnight
 glance
 denial
 brave
 brain
 waste |  
-| bip_39_word_new_line7 | midnight
+| bip_39_word_new_line_7 | midnight
 glance
 denial
 brave
 brain
 waste
 mix |  
-| bip_39_word_new_line8 | midnight
+| bip_39_word_new_line_8 | midnight
 glance
 denial
 brave
@@ -113,7 +113,7 @@ brain
 waste
 mix
 account |  
-| bip_39_word_new_line9 | midnight
+| bip_39_word_new_line_9 | midnight
 glance
 denial
 brave

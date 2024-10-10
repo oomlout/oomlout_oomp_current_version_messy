@@ -1,17 +1,17 @@
-bip_39_word_new_br1: age
-bip_39_word_new_br10: age<br>stage<br>occur<br>stamp<br>obvious<br>audit<br>enemy<br>lounge<br>arrow<br>around
-bip_39_word_new_br11: age<br>stage<br>occur<br>stamp<br>obvious<br>audit<br>enemy<br>lounge<br>arrow<br>around<br>intact
-bip_39_word_new_br12: age<br>stage<br>occur<br>stamp<br>obvious<br>audit<br>enemy<br>lounge<br>arrow<br>around<br>intact<br>around
-bip_39_word_new_br2: age<br>stage
-bip_39_word_new_br3: age<br>stage<br>occur
-bip_39_word_new_br4: age<br>stage<br>occur<br>stamp
-bip_39_word_new_br5: age<br>stage<br>occur<br>stamp<br>obvious
-bip_39_word_new_br6: age<br>stage<br>occur<br>stamp<br>obvious<br>audit
-bip_39_word_new_br7: age<br>stage<br>occur<br>stamp<br>obvious<br>audit<br>enemy
-bip_39_word_new_br8: age<br>stage<br>occur<br>stamp<br>obvious<br>audit<br>enemy<br>lounge
-bip_39_word_new_br9: age<br>stage<br>occur<br>stamp<br>obvious<br>audit<br>enemy<br>lounge<br>arrow
-bip_39_word_new_line1: age
-bip_39_word_new_line10: 'age
+bip_39_word_new_br_1: age
+bip_39_word_new_br_10: age<br>stage<br>occur<br>stamp<br>obvious<br>audit<br>enemy<br>lounge<br>arrow<br>around
+bip_39_word_new_br_11: age<br>stage<br>occur<br>stamp<br>obvious<br>audit<br>enemy<br>lounge<br>arrow<br>around<br>intact
+bip_39_word_new_br_12: age<br>stage<br>occur<br>stamp<br>obvious<br>audit<br>enemy<br>lounge<br>arrow<br>around<br>intact<br>around
+bip_39_word_new_br_2: age<br>stage
+bip_39_word_new_br_3: age<br>stage<br>occur
+bip_39_word_new_br_4: age<br>stage<br>occur<br>stamp
+bip_39_word_new_br_5: age<br>stage<br>occur<br>stamp<br>obvious
+bip_39_word_new_br_6: age<br>stage<br>occur<br>stamp<br>obvious<br>audit
+bip_39_word_new_br_7: age<br>stage<br>occur<br>stamp<br>obvious<br>audit<br>enemy
+bip_39_word_new_br_8: age<br>stage<br>occur<br>stamp<br>obvious<br>audit<br>enemy<br>lounge
+bip_39_word_new_br_9: age<br>stage<br>occur<br>stamp<br>obvious<br>audit<br>enemy<br>lounge<br>arrow
+bip_39_word_new_line_1: age
+bip_39_word_new_line_10: 'age
 
   stage
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'age
   arrow
 
   around'
-bip_39_word_new_line11: 'age
+bip_39_word_new_line_11: 'age
 
   stage
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'age
   around
 
   intact'
-bip_39_word_new_line12: 'age
+bip_39_word_new_line_12: 'age
 
   stage
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'age
   intact
 
   around'
-bip_39_word_new_line2: 'age
+bip_39_word_new_line_2: 'age
 
   stage'
-bip_39_word_new_line3: 'age
+bip_39_word_new_line_3: 'age
 
   stage
 
   occur'
-bip_39_word_new_line4: 'age
+bip_39_word_new_line_4: 'age
 
   stage
 
   occur
 
   stamp'
-bip_39_word_new_line5: 'age
+bip_39_word_new_line_5: 'age
 
   stage
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'age
   stamp
 
   obvious'
-bip_39_word_new_line6: 'age
+bip_39_word_new_line_6: 'age
 
   stage
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'age
   obvious
 
   audit'
-bip_39_word_new_line7: 'age
+bip_39_word_new_line_7: 'age
 
   stage
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'age
   audit
 
   enemy'
-bip_39_word_new_line8: 'age
+bip_39_word_new_line_8: 'age
 
   stage
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'age
   enemy
 
   lounge'
-bip_39_word_new_line9: 'age
+bip_39_word_new_line_9: 'age
 
   stage
 

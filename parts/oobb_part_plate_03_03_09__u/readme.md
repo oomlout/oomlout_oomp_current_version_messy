@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mobile |  
-| bip_39_word_new_br10 | mobile<br>long<br>pepper<br>pave<br>lock<br>happy<br>page<br>length<br>follow<br>swing |  
-| bip_39_word_new_br11 | mobile<br>long<br>pepper<br>pave<br>lock<br>happy<br>page<br>length<br>follow<br>swing<br>infant |  
-| bip_39_word_new_br12 | mobile<br>long<br>pepper<br>pave<br>lock<br>happy<br>page<br>length<br>follow<br>swing<br>infant<br>above |  
-| bip_39_word_new_br2 | mobile<br>long |  
-| bip_39_word_new_br3 | mobile<br>long<br>pepper |  
-| bip_39_word_new_br4 | mobile<br>long<br>pepper<br>pave |  
-| bip_39_word_new_br5 | mobile<br>long<br>pepper<br>pave<br>lock |  
-| bip_39_word_new_br6 | mobile<br>long<br>pepper<br>pave<br>lock<br>happy |  
-| bip_39_word_new_br7 | mobile<br>long<br>pepper<br>pave<br>lock<br>happy<br>page |  
-| bip_39_word_new_br8 | mobile<br>long<br>pepper<br>pave<br>lock<br>happy<br>page<br>length |  
-| bip_39_word_new_br9 | mobile<br>long<br>pepper<br>pave<br>lock<br>happy<br>page<br>length<br>follow |  
-| bip_39_word_new_line1 | mobile |  
-| bip_39_word_new_line10 | mobile
+| bip_39_word_new_br_1 | mobile |  
+| bip_39_word_new_br_10 | mobile<br>long<br>pepper<br>pave<br>lock<br>happy<br>page<br>length<br>follow<br>swing |  
+| bip_39_word_new_br_11 | mobile<br>long<br>pepper<br>pave<br>lock<br>happy<br>page<br>length<br>follow<br>swing<br>infant |  
+| bip_39_word_new_br_12 | mobile<br>long<br>pepper<br>pave<br>lock<br>happy<br>page<br>length<br>follow<br>swing<br>infant<br>above |  
+| bip_39_word_new_br_2 | mobile<br>long |  
+| bip_39_word_new_br_3 | mobile<br>long<br>pepper |  
+| bip_39_word_new_br_4 | mobile<br>long<br>pepper<br>pave |  
+| bip_39_word_new_br_5 | mobile<br>long<br>pepper<br>pave<br>lock |  
+| bip_39_word_new_br_6 | mobile<br>long<br>pepper<br>pave<br>lock<br>happy |  
+| bip_39_word_new_br_7 | mobile<br>long<br>pepper<br>pave<br>lock<br>happy<br>page |  
+| bip_39_word_new_br_8 | mobile<br>long<br>pepper<br>pave<br>lock<br>happy<br>page<br>length |  
+| bip_39_word_new_br_9 | mobile<br>long<br>pepper<br>pave<br>lock<br>happy<br>page<br>length<br>follow |  
+| bip_39_word_new_line_1 | mobile |  
+| bip_39_word_new_line_10 | mobile
 long
 pepper
 pave
@@ -55,7 +55,7 @@ page
 length
 follow
 swing |  
-| bip_39_word_new_line11 | mobile
+| bip_39_word_new_line_11 | mobile
 long
 pepper
 pave
@@ -66,7 +66,7 @@ length
 follow
 swing
 infant |  
-| bip_39_word_new_line12 | mobile
+| bip_39_word_new_line_12 | mobile
 long
 pepper
 pave
@@ -78,34 +78,34 @@ follow
 swing
 infant
 above |  
-| bip_39_word_new_line2 | mobile
+| bip_39_word_new_line_2 | mobile
 long |  
-| bip_39_word_new_line3 | mobile
+| bip_39_word_new_line_3 | mobile
 long
 pepper |  
-| bip_39_word_new_line4 | mobile
+| bip_39_word_new_line_4 | mobile
 long
 pepper
 pave |  
-| bip_39_word_new_line5 | mobile
+| bip_39_word_new_line_5 | mobile
 long
 pepper
 pave
 lock |  
-| bip_39_word_new_line6 | mobile
+| bip_39_word_new_line_6 | mobile
 long
 pepper
 pave
 lock
 happy |  
-| bip_39_word_new_line7 | mobile
+| bip_39_word_new_line_7 | mobile
 long
 pepper
 pave
 lock
 happy
 page |  
-| bip_39_word_new_line8 | mobile
+| bip_39_word_new_line_8 | mobile
 long
 pepper
 pave
@@ -113,7 +113,7 @@ lock
 happy
 page
 length |  
-| bip_39_word_new_line9 | mobile
+| bip_39_word_new_line_9 | mobile
 long
 pepper
 pave

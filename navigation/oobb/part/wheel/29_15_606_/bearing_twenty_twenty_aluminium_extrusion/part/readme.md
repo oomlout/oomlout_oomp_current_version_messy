@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | yellow |  
-| bip_39_word_new_br10 | yellow<br>morning<br>edit<br>scan<br>skill<br>fall<br>identify<br>regular<br>decline<br>truck |  
-| bip_39_word_new_br11 | yellow<br>morning<br>edit<br>scan<br>skill<br>fall<br>identify<br>regular<br>decline<br>truck<br>husband |  
-| bip_39_word_new_br12 | yellow<br>morning<br>edit<br>scan<br>skill<br>fall<br>identify<br>regular<br>decline<br>truck<br>husband<br>all |  
-| bip_39_word_new_br2 | yellow<br>morning |  
-| bip_39_word_new_br3 | yellow<br>morning<br>edit |  
-| bip_39_word_new_br4 | yellow<br>morning<br>edit<br>scan |  
-| bip_39_word_new_br5 | yellow<br>morning<br>edit<br>scan<br>skill |  
-| bip_39_word_new_br6 | yellow<br>morning<br>edit<br>scan<br>skill<br>fall |  
-| bip_39_word_new_br7 | yellow<br>morning<br>edit<br>scan<br>skill<br>fall<br>identify |  
-| bip_39_word_new_br8 | yellow<br>morning<br>edit<br>scan<br>skill<br>fall<br>identify<br>regular |  
-| bip_39_word_new_br9 | yellow<br>morning<br>edit<br>scan<br>skill<br>fall<br>identify<br>regular<br>decline |  
-| bip_39_word_new_line1 | yellow |  
-| bip_39_word_new_line10 | yellow
+| bip_39_word_new_br_1 | yellow |  
+| bip_39_word_new_br_10 | yellow<br>morning<br>edit<br>scan<br>skill<br>fall<br>identify<br>regular<br>decline<br>truck |  
+| bip_39_word_new_br_11 | yellow<br>morning<br>edit<br>scan<br>skill<br>fall<br>identify<br>regular<br>decline<br>truck<br>husband |  
+| bip_39_word_new_br_12 | yellow<br>morning<br>edit<br>scan<br>skill<br>fall<br>identify<br>regular<br>decline<br>truck<br>husband<br>all |  
+| bip_39_word_new_br_2 | yellow<br>morning |  
+| bip_39_word_new_br_3 | yellow<br>morning<br>edit |  
+| bip_39_word_new_br_4 | yellow<br>morning<br>edit<br>scan |  
+| bip_39_word_new_br_5 | yellow<br>morning<br>edit<br>scan<br>skill |  
+| bip_39_word_new_br_6 | yellow<br>morning<br>edit<br>scan<br>skill<br>fall |  
+| bip_39_word_new_br_7 | yellow<br>morning<br>edit<br>scan<br>skill<br>fall<br>identify |  
+| bip_39_word_new_br_8 | yellow<br>morning<br>edit<br>scan<br>skill<br>fall<br>identify<br>regular |  
+| bip_39_word_new_br_9 | yellow<br>morning<br>edit<br>scan<br>skill<br>fall<br>identify<br>regular<br>decline |  
+| bip_39_word_new_line_1 | yellow |  
+| bip_39_word_new_line_10 | yellow
 morning
 edit
 scan
@@ -55,7 +55,7 @@ identify
 regular
 decline
 truck |  
-| bip_39_word_new_line11 | yellow
+| bip_39_word_new_line_11 | yellow
 morning
 edit
 scan
@@ -66,7 +66,7 @@ regular
 decline
 truck
 husband |  
-| bip_39_word_new_line12 | yellow
+| bip_39_word_new_line_12 | yellow
 morning
 edit
 scan
@@ -78,34 +78,34 @@ decline
 truck
 husband
 all |  
-| bip_39_word_new_line2 | yellow
+| bip_39_word_new_line_2 | yellow
 morning |  
-| bip_39_word_new_line3 | yellow
+| bip_39_word_new_line_3 | yellow
 morning
 edit |  
-| bip_39_word_new_line4 | yellow
+| bip_39_word_new_line_4 | yellow
 morning
 edit
 scan |  
-| bip_39_word_new_line5 | yellow
+| bip_39_word_new_line_5 | yellow
 morning
 edit
 scan
 skill |  
-| bip_39_word_new_line6 | yellow
+| bip_39_word_new_line_6 | yellow
 morning
 edit
 scan
 skill
 fall |  
-| bip_39_word_new_line7 | yellow
+| bip_39_word_new_line_7 | yellow
 morning
 edit
 scan
 skill
 fall
 identify |  
-| bip_39_word_new_line8 | yellow
+| bip_39_word_new_line_8 | yellow
 morning
 edit
 scan
@@ -113,7 +113,7 @@ skill
 fall
 identify
 regular |  
-| bip_39_word_new_line9 | yellow
+| bip_39_word_new_line_9 | yellow
 morning
 edit
 scan

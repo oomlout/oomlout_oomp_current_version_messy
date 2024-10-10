@@ -1,17 +1,17 @@
-bip_39_word_new_br1: omit
-bip_39_word_new_br10: omit<br>excess<br>moment<br>brisk<br>update<br>network<br>excite<br>kingdom<br>anger<br>once
-bip_39_word_new_br11: omit<br>excess<br>moment<br>brisk<br>update<br>network<br>excite<br>kingdom<br>anger<br>once<br>bridge
-bip_39_word_new_br12: omit<br>excess<br>moment<br>brisk<br>update<br>network<br>excite<br>kingdom<br>anger<br>once<br>bridge<br>apple
-bip_39_word_new_br2: omit<br>excess
-bip_39_word_new_br3: omit<br>excess<br>moment
-bip_39_word_new_br4: omit<br>excess<br>moment<br>brisk
-bip_39_word_new_br5: omit<br>excess<br>moment<br>brisk<br>update
-bip_39_word_new_br6: omit<br>excess<br>moment<br>brisk<br>update<br>network
-bip_39_word_new_br7: omit<br>excess<br>moment<br>brisk<br>update<br>network<br>excite
-bip_39_word_new_br8: omit<br>excess<br>moment<br>brisk<br>update<br>network<br>excite<br>kingdom
-bip_39_word_new_br9: omit<br>excess<br>moment<br>brisk<br>update<br>network<br>excite<br>kingdom<br>anger
-bip_39_word_new_line1: omit
-bip_39_word_new_line10: 'omit
+bip_39_word_new_br_1: omit
+bip_39_word_new_br_10: omit<br>excess<br>moment<br>brisk<br>update<br>network<br>excite<br>kingdom<br>anger<br>once
+bip_39_word_new_br_11: omit<br>excess<br>moment<br>brisk<br>update<br>network<br>excite<br>kingdom<br>anger<br>once<br>bridge
+bip_39_word_new_br_12: omit<br>excess<br>moment<br>brisk<br>update<br>network<br>excite<br>kingdom<br>anger<br>once<br>bridge<br>apple
+bip_39_word_new_br_2: omit<br>excess
+bip_39_word_new_br_3: omit<br>excess<br>moment
+bip_39_word_new_br_4: omit<br>excess<br>moment<br>brisk
+bip_39_word_new_br_5: omit<br>excess<br>moment<br>brisk<br>update
+bip_39_word_new_br_6: omit<br>excess<br>moment<br>brisk<br>update<br>network
+bip_39_word_new_br_7: omit<br>excess<br>moment<br>brisk<br>update<br>network<br>excite
+bip_39_word_new_br_8: omit<br>excess<br>moment<br>brisk<br>update<br>network<br>excite<br>kingdom
+bip_39_word_new_br_9: omit<br>excess<br>moment<br>brisk<br>update<br>network<br>excite<br>kingdom<br>anger
+bip_39_word_new_line_1: omit
+bip_39_word_new_line_10: 'omit
 
   excess
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'omit
   anger
 
   once'
-bip_39_word_new_line11: 'omit
+bip_39_word_new_line_11: 'omit
 
   excess
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'omit
   once
 
   bridge'
-bip_39_word_new_line12: 'omit
+bip_39_word_new_line_12: 'omit
 
   excess
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'omit
   bridge
 
   apple'
-bip_39_word_new_line2: 'omit
+bip_39_word_new_line_2: 'omit
 
   excess'
-bip_39_word_new_line3: 'omit
+bip_39_word_new_line_3: 'omit
 
   excess
 
   moment'
-bip_39_word_new_line4: 'omit
+bip_39_word_new_line_4: 'omit
 
   excess
 
   moment
 
   brisk'
-bip_39_word_new_line5: 'omit
+bip_39_word_new_line_5: 'omit
 
   excess
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'omit
   brisk
 
   update'
-bip_39_word_new_line6: 'omit
+bip_39_word_new_line_6: 'omit
 
   excess
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'omit
   update
 
   network'
-bip_39_word_new_line7: 'omit
+bip_39_word_new_line_7: 'omit
 
   excess
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'omit
   network
 
   excite'
-bip_39_word_new_line8: 'omit
+bip_39_word_new_line_8: 'omit
 
   excess
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'omit
   excite
 
   kingdom'
-bip_39_word_new_line9: 'omit
+bip_39_word_new_line_9: 'omit
 
   excess
 

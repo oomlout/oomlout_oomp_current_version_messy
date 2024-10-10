@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | keep |  
-| bip_39_word_new_br10 | keep<br>define<br>finger<br>theory<br>correct<br>brother<br>right<br>anchor<br>spin<br>mansion |  
-| bip_39_word_new_br11 | keep<br>define<br>finger<br>theory<br>correct<br>brother<br>right<br>anchor<br>spin<br>mansion<br>window |  
-| bip_39_word_new_br12 | keep<br>define<br>finger<br>theory<br>correct<br>brother<br>right<br>anchor<br>spin<br>mansion<br>window<br>able |  
-| bip_39_word_new_br2 | keep<br>define |  
-| bip_39_word_new_br3 | keep<br>define<br>finger |  
-| bip_39_word_new_br4 | keep<br>define<br>finger<br>theory |  
-| bip_39_word_new_br5 | keep<br>define<br>finger<br>theory<br>correct |  
-| bip_39_word_new_br6 | keep<br>define<br>finger<br>theory<br>correct<br>brother |  
-| bip_39_word_new_br7 | keep<br>define<br>finger<br>theory<br>correct<br>brother<br>right |  
-| bip_39_word_new_br8 | keep<br>define<br>finger<br>theory<br>correct<br>brother<br>right<br>anchor |  
-| bip_39_word_new_br9 | keep<br>define<br>finger<br>theory<br>correct<br>brother<br>right<br>anchor<br>spin |  
-| bip_39_word_new_line1 | keep |  
-| bip_39_word_new_line10 | keep
+| bip_39_word_new_br_1 | keep |  
+| bip_39_word_new_br_10 | keep<br>define<br>finger<br>theory<br>correct<br>brother<br>right<br>anchor<br>spin<br>mansion |  
+| bip_39_word_new_br_11 | keep<br>define<br>finger<br>theory<br>correct<br>brother<br>right<br>anchor<br>spin<br>mansion<br>window |  
+| bip_39_word_new_br_12 | keep<br>define<br>finger<br>theory<br>correct<br>brother<br>right<br>anchor<br>spin<br>mansion<br>window<br>able |  
+| bip_39_word_new_br_2 | keep<br>define |  
+| bip_39_word_new_br_3 | keep<br>define<br>finger |  
+| bip_39_word_new_br_4 | keep<br>define<br>finger<br>theory |  
+| bip_39_word_new_br_5 | keep<br>define<br>finger<br>theory<br>correct |  
+| bip_39_word_new_br_6 | keep<br>define<br>finger<br>theory<br>correct<br>brother |  
+| bip_39_word_new_br_7 | keep<br>define<br>finger<br>theory<br>correct<br>brother<br>right |  
+| bip_39_word_new_br_8 | keep<br>define<br>finger<br>theory<br>correct<br>brother<br>right<br>anchor |  
+| bip_39_word_new_br_9 | keep<br>define<br>finger<br>theory<br>correct<br>brother<br>right<br>anchor<br>spin |  
+| bip_39_word_new_line_1 | keep |  
+| bip_39_word_new_line_10 | keep
 define
 finger
 theory
@@ -55,7 +55,7 @@ right
 anchor
 spin
 mansion |  
-| bip_39_word_new_line11 | keep
+| bip_39_word_new_line_11 | keep
 define
 finger
 theory
@@ -66,7 +66,7 @@ anchor
 spin
 mansion
 window |  
-| bip_39_word_new_line12 | keep
+| bip_39_word_new_line_12 | keep
 define
 finger
 theory
@@ -78,34 +78,34 @@ spin
 mansion
 window
 able |  
-| bip_39_word_new_line2 | keep
+| bip_39_word_new_line_2 | keep
 define |  
-| bip_39_word_new_line3 | keep
+| bip_39_word_new_line_3 | keep
 define
 finger |  
-| bip_39_word_new_line4 | keep
+| bip_39_word_new_line_4 | keep
 define
 finger
 theory |  
-| bip_39_word_new_line5 | keep
+| bip_39_word_new_line_5 | keep
 define
 finger
 theory
 correct |  
-| bip_39_word_new_line6 | keep
+| bip_39_word_new_line_6 | keep
 define
 finger
 theory
 correct
 brother |  
-| bip_39_word_new_line7 | keep
+| bip_39_word_new_line_7 | keep
 define
 finger
 theory
 correct
 brother
 right |  
-| bip_39_word_new_line8 | keep
+| bip_39_word_new_line_8 | keep
 define
 finger
 theory
@@ -113,7 +113,7 @@ correct
 brother
 right
 anchor |  
-| bip_39_word_new_line9 | keep
+| bip_39_word_new_line_9 | keep
 define
 finger
 theory

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | despair |  
-| bip_39_word_new_br10 | despair<br>edit<br>supreme<br>coast<br>fame<br>supreme<br>peanut<br>define<br>neutral<br>side |  
-| bip_39_word_new_br11 | despair<br>edit<br>supreme<br>coast<br>fame<br>supreme<br>peanut<br>define<br>neutral<br>side<br>glow |  
-| bip_39_word_new_br12 | despair<br>edit<br>supreme<br>coast<br>fame<br>supreme<br>peanut<br>define<br>neutral<br>side<br>glow<br>across |  
-| bip_39_word_new_br2 | despair<br>edit |  
-| bip_39_word_new_br3 | despair<br>edit<br>supreme |  
-| bip_39_word_new_br4 | despair<br>edit<br>supreme<br>coast |  
-| bip_39_word_new_br5 | despair<br>edit<br>supreme<br>coast<br>fame |  
-| bip_39_word_new_br6 | despair<br>edit<br>supreme<br>coast<br>fame<br>supreme |  
-| bip_39_word_new_br7 | despair<br>edit<br>supreme<br>coast<br>fame<br>supreme<br>peanut |  
-| bip_39_word_new_br8 | despair<br>edit<br>supreme<br>coast<br>fame<br>supreme<br>peanut<br>define |  
-| bip_39_word_new_br9 | despair<br>edit<br>supreme<br>coast<br>fame<br>supreme<br>peanut<br>define<br>neutral |  
-| bip_39_word_new_line1 | despair |  
-| bip_39_word_new_line10 | despair
+| bip_39_word_new_br_1 | despair |  
+| bip_39_word_new_br_10 | despair<br>edit<br>supreme<br>coast<br>fame<br>supreme<br>peanut<br>define<br>neutral<br>side |  
+| bip_39_word_new_br_11 | despair<br>edit<br>supreme<br>coast<br>fame<br>supreme<br>peanut<br>define<br>neutral<br>side<br>glow |  
+| bip_39_word_new_br_12 | despair<br>edit<br>supreme<br>coast<br>fame<br>supreme<br>peanut<br>define<br>neutral<br>side<br>glow<br>across |  
+| bip_39_word_new_br_2 | despair<br>edit |  
+| bip_39_word_new_br_3 | despair<br>edit<br>supreme |  
+| bip_39_word_new_br_4 | despair<br>edit<br>supreme<br>coast |  
+| bip_39_word_new_br_5 | despair<br>edit<br>supreme<br>coast<br>fame |  
+| bip_39_word_new_br_6 | despair<br>edit<br>supreme<br>coast<br>fame<br>supreme |  
+| bip_39_word_new_br_7 | despair<br>edit<br>supreme<br>coast<br>fame<br>supreme<br>peanut |  
+| bip_39_word_new_br_8 | despair<br>edit<br>supreme<br>coast<br>fame<br>supreme<br>peanut<br>define |  
+| bip_39_word_new_br_9 | despair<br>edit<br>supreme<br>coast<br>fame<br>supreme<br>peanut<br>define<br>neutral |  
+| bip_39_word_new_line_1 | despair |  
+| bip_39_word_new_line_10 | despair
 edit
 supreme
 coast
@@ -55,7 +55,7 @@ peanut
 define
 neutral
 side |  
-| bip_39_word_new_line11 | despair
+| bip_39_word_new_line_11 | despair
 edit
 supreme
 coast
@@ -66,7 +66,7 @@ define
 neutral
 side
 glow |  
-| bip_39_word_new_line12 | despair
+| bip_39_word_new_line_12 | despair
 edit
 supreme
 coast
@@ -78,34 +78,34 @@ neutral
 side
 glow
 across |  
-| bip_39_word_new_line2 | despair
+| bip_39_word_new_line_2 | despair
 edit |  
-| bip_39_word_new_line3 | despair
+| bip_39_word_new_line_3 | despair
 edit
 supreme |  
-| bip_39_word_new_line4 | despair
+| bip_39_word_new_line_4 | despair
 edit
 supreme
 coast |  
-| bip_39_word_new_line5 | despair
+| bip_39_word_new_line_5 | despair
 edit
 supreme
 coast
 fame |  
-| bip_39_word_new_line6 | despair
+| bip_39_word_new_line_6 | despair
 edit
 supreme
 coast
 fame
 supreme |  
-| bip_39_word_new_line7 | despair
+| bip_39_word_new_line_7 | despair
 edit
 supreme
 coast
 fame
 supreme
 peanut |  
-| bip_39_word_new_line8 | despair
+| bip_39_word_new_line_8 | despair
 edit
 supreme
 coast
@@ -113,7 +113,7 @@ fame
 supreme
 peanut
 define |  
-| bip_39_word_new_line9 | despair
+| bip_39_word_new_line_9 | despair
 edit
 supreme
 coast

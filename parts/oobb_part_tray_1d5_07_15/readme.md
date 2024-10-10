@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | scale |  
-| bip_39_word_new_br10 | scale<br>drink<br>creek<br>input<br>margin<br>embark<br>swear<br>asset<br>observe<br>crane |  
-| bip_39_word_new_br11 | scale<br>drink<br>creek<br>input<br>margin<br>embark<br>swear<br>asset<br>observe<br>crane<br>oblige |  
-| bip_39_word_new_br12 | scale<br>drink<br>creek<br>input<br>margin<br>embark<br>swear<br>asset<br>observe<br>crane<br>oblige<br>around |  
-| bip_39_word_new_br2 | scale<br>drink |  
-| bip_39_word_new_br3 | scale<br>drink<br>creek |  
-| bip_39_word_new_br4 | scale<br>drink<br>creek<br>input |  
-| bip_39_word_new_br5 | scale<br>drink<br>creek<br>input<br>margin |  
-| bip_39_word_new_br6 | scale<br>drink<br>creek<br>input<br>margin<br>embark |  
-| bip_39_word_new_br7 | scale<br>drink<br>creek<br>input<br>margin<br>embark<br>swear |  
-| bip_39_word_new_br8 | scale<br>drink<br>creek<br>input<br>margin<br>embark<br>swear<br>asset |  
-| bip_39_word_new_br9 | scale<br>drink<br>creek<br>input<br>margin<br>embark<br>swear<br>asset<br>observe |  
-| bip_39_word_new_line1 | scale |  
-| bip_39_word_new_line10 | scale
+| bip_39_word_new_br_1 | scale |  
+| bip_39_word_new_br_10 | scale<br>drink<br>creek<br>input<br>margin<br>embark<br>swear<br>asset<br>observe<br>crane |  
+| bip_39_word_new_br_11 | scale<br>drink<br>creek<br>input<br>margin<br>embark<br>swear<br>asset<br>observe<br>crane<br>oblige |  
+| bip_39_word_new_br_12 | scale<br>drink<br>creek<br>input<br>margin<br>embark<br>swear<br>asset<br>observe<br>crane<br>oblige<br>around |  
+| bip_39_word_new_br_2 | scale<br>drink |  
+| bip_39_word_new_br_3 | scale<br>drink<br>creek |  
+| bip_39_word_new_br_4 | scale<br>drink<br>creek<br>input |  
+| bip_39_word_new_br_5 | scale<br>drink<br>creek<br>input<br>margin |  
+| bip_39_word_new_br_6 | scale<br>drink<br>creek<br>input<br>margin<br>embark |  
+| bip_39_word_new_br_7 | scale<br>drink<br>creek<br>input<br>margin<br>embark<br>swear |  
+| bip_39_word_new_br_8 | scale<br>drink<br>creek<br>input<br>margin<br>embark<br>swear<br>asset |  
+| bip_39_word_new_br_9 | scale<br>drink<br>creek<br>input<br>margin<br>embark<br>swear<br>asset<br>observe |  
+| bip_39_word_new_line_1 | scale |  
+| bip_39_word_new_line_10 | scale
 drink
 creek
 input
@@ -55,7 +55,7 @@ swear
 asset
 observe
 crane |  
-| bip_39_word_new_line11 | scale
+| bip_39_word_new_line_11 | scale
 drink
 creek
 input
@@ -66,7 +66,7 @@ asset
 observe
 crane
 oblige |  
-| bip_39_word_new_line12 | scale
+| bip_39_word_new_line_12 | scale
 drink
 creek
 input
@@ -78,34 +78,34 @@ observe
 crane
 oblige
 around |  
-| bip_39_word_new_line2 | scale
+| bip_39_word_new_line_2 | scale
 drink |  
-| bip_39_word_new_line3 | scale
+| bip_39_word_new_line_3 | scale
 drink
 creek |  
-| bip_39_word_new_line4 | scale
+| bip_39_word_new_line_4 | scale
 drink
 creek
 input |  
-| bip_39_word_new_line5 | scale
+| bip_39_word_new_line_5 | scale
 drink
 creek
 input
 margin |  
-| bip_39_word_new_line6 | scale
+| bip_39_word_new_line_6 | scale
 drink
 creek
 input
 margin
 embark |  
-| bip_39_word_new_line7 | scale
+| bip_39_word_new_line_7 | scale
 drink
 creek
 input
 margin
 embark
 swear |  
-| bip_39_word_new_line8 | scale
+| bip_39_word_new_line_8 | scale
 drink
 creek
 input
@@ -113,7 +113,7 @@ margin
 embark
 swear
 asset |  
-| bip_39_word_new_line9 | scale
+| bip_39_word_new_line_9 | scale
 drink
 creek
 input

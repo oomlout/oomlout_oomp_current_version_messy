@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | phone |  
-| bip_39_word_new_br10 | phone<br>cabin<br>anchor<br>inquiry<br>grief<br>pumpkin<br>jelly<br>tongue<br>because<br>void |  
-| bip_39_word_new_br11 | phone<br>cabin<br>anchor<br>inquiry<br>grief<br>pumpkin<br>jelly<br>tongue<br>because<br>void<br>address |  
-| bip_39_word_new_br12 | phone<br>cabin<br>anchor<br>inquiry<br>grief<br>pumpkin<br>jelly<br>tongue<br>because<br>void<br>address<br>ahead |  
-| bip_39_word_new_br2 | phone<br>cabin |  
-| bip_39_word_new_br3 | phone<br>cabin<br>anchor |  
-| bip_39_word_new_br4 | phone<br>cabin<br>anchor<br>inquiry |  
-| bip_39_word_new_br5 | phone<br>cabin<br>anchor<br>inquiry<br>grief |  
-| bip_39_word_new_br6 | phone<br>cabin<br>anchor<br>inquiry<br>grief<br>pumpkin |  
-| bip_39_word_new_br7 | phone<br>cabin<br>anchor<br>inquiry<br>grief<br>pumpkin<br>jelly |  
-| bip_39_word_new_br8 | phone<br>cabin<br>anchor<br>inquiry<br>grief<br>pumpkin<br>jelly<br>tongue |  
-| bip_39_word_new_br9 | phone<br>cabin<br>anchor<br>inquiry<br>grief<br>pumpkin<br>jelly<br>tongue<br>because |  
-| bip_39_word_new_line1 | phone |  
-| bip_39_word_new_line10 | phone
+| bip_39_word_new_br_1 | phone |  
+| bip_39_word_new_br_10 | phone<br>cabin<br>anchor<br>inquiry<br>grief<br>pumpkin<br>jelly<br>tongue<br>because<br>void |  
+| bip_39_word_new_br_11 | phone<br>cabin<br>anchor<br>inquiry<br>grief<br>pumpkin<br>jelly<br>tongue<br>because<br>void<br>address |  
+| bip_39_word_new_br_12 | phone<br>cabin<br>anchor<br>inquiry<br>grief<br>pumpkin<br>jelly<br>tongue<br>because<br>void<br>address<br>ahead |  
+| bip_39_word_new_br_2 | phone<br>cabin |  
+| bip_39_word_new_br_3 | phone<br>cabin<br>anchor |  
+| bip_39_word_new_br_4 | phone<br>cabin<br>anchor<br>inquiry |  
+| bip_39_word_new_br_5 | phone<br>cabin<br>anchor<br>inquiry<br>grief |  
+| bip_39_word_new_br_6 | phone<br>cabin<br>anchor<br>inquiry<br>grief<br>pumpkin |  
+| bip_39_word_new_br_7 | phone<br>cabin<br>anchor<br>inquiry<br>grief<br>pumpkin<br>jelly |  
+| bip_39_word_new_br_8 | phone<br>cabin<br>anchor<br>inquiry<br>grief<br>pumpkin<br>jelly<br>tongue |  
+| bip_39_word_new_br_9 | phone<br>cabin<br>anchor<br>inquiry<br>grief<br>pumpkin<br>jelly<br>tongue<br>because |  
+| bip_39_word_new_line_1 | phone |  
+| bip_39_word_new_line_10 | phone
 cabin
 anchor
 inquiry
@@ -55,7 +55,7 @@ jelly
 tongue
 because
 void |  
-| bip_39_word_new_line11 | phone
+| bip_39_word_new_line_11 | phone
 cabin
 anchor
 inquiry
@@ -66,7 +66,7 @@ tongue
 because
 void
 address |  
-| bip_39_word_new_line12 | phone
+| bip_39_word_new_line_12 | phone
 cabin
 anchor
 inquiry
@@ -78,34 +78,34 @@ because
 void
 address
 ahead |  
-| bip_39_word_new_line2 | phone
+| bip_39_word_new_line_2 | phone
 cabin |  
-| bip_39_word_new_line3 | phone
+| bip_39_word_new_line_3 | phone
 cabin
 anchor |  
-| bip_39_word_new_line4 | phone
+| bip_39_word_new_line_4 | phone
 cabin
 anchor
 inquiry |  
-| bip_39_word_new_line5 | phone
+| bip_39_word_new_line_5 | phone
 cabin
 anchor
 inquiry
 grief |  
-| bip_39_word_new_line6 | phone
+| bip_39_word_new_line_6 | phone
 cabin
 anchor
 inquiry
 grief
 pumpkin |  
-| bip_39_word_new_line7 | phone
+| bip_39_word_new_line_7 | phone
 cabin
 anchor
 inquiry
 grief
 pumpkin
 jelly |  
-| bip_39_word_new_line8 | phone
+| bip_39_word_new_line_8 | phone
 cabin
 anchor
 inquiry
@@ -113,7 +113,7 @@ grief
 pumpkin
 jelly
 tongue |  
-| bip_39_word_new_line9 | phone
+| bip_39_word_new_line_9 | phone
 cabin
 anchor
 inquiry

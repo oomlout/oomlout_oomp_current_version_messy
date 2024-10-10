@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | canoe |  
-| bip_39_word_new_br10 | canoe<br>output<br>rain<br>lift<br>patient<br>best<br>extra<br>craft<br>near<br>liar |  
-| bip_39_word_new_br11 | canoe<br>output<br>rain<br>lift<br>patient<br>best<br>extra<br>craft<br>near<br>liar<br>across |  
-| bip_39_word_new_br12 | canoe<br>output<br>rain<br>lift<br>patient<br>best<br>extra<br>craft<br>near<br>liar<br>across<br>actor |  
-| bip_39_word_new_br2 | canoe<br>output |  
-| bip_39_word_new_br3 | canoe<br>output<br>rain |  
-| bip_39_word_new_br4 | canoe<br>output<br>rain<br>lift |  
-| bip_39_word_new_br5 | canoe<br>output<br>rain<br>lift<br>patient |  
-| bip_39_word_new_br6 | canoe<br>output<br>rain<br>lift<br>patient<br>best |  
-| bip_39_word_new_br7 | canoe<br>output<br>rain<br>lift<br>patient<br>best<br>extra |  
-| bip_39_word_new_br8 | canoe<br>output<br>rain<br>lift<br>patient<br>best<br>extra<br>craft |  
-| bip_39_word_new_br9 | canoe<br>output<br>rain<br>lift<br>patient<br>best<br>extra<br>craft<br>near |  
-| bip_39_word_new_line1 | canoe |  
-| bip_39_word_new_line10 | canoe
+| bip_39_word_new_br_1 | canoe |  
+| bip_39_word_new_br_10 | canoe<br>output<br>rain<br>lift<br>patient<br>best<br>extra<br>craft<br>near<br>liar |  
+| bip_39_word_new_br_11 | canoe<br>output<br>rain<br>lift<br>patient<br>best<br>extra<br>craft<br>near<br>liar<br>across |  
+| bip_39_word_new_br_12 | canoe<br>output<br>rain<br>lift<br>patient<br>best<br>extra<br>craft<br>near<br>liar<br>across<br>actor |  
+| bip_39_word_new_br_2 | canoe<br>output |  
+| bip_39_word_new_br_3 | canoe<br>output<br>rain |  
+| bip_39_word_new_br_4 | canoe<br>output<br>rain<br>lift |  
+| bip_39_word_new_br_5 | canoe<br>output<br>rain<br>lift<br>patient |  
+| bip_39_word_new_br_6 | canoe<br>output<br>rain<br>lift<br>patient<br>best |  
+| bip_39_word_new_br_7 | canoe<br>output<br>rain<br>lift<br>patient<br>best<br>extra |  
+| bip_39_word_new_br_8 | canoe<br>output<br>rain<br>lift<br>patient<br>best<br>extra<br>craft |  
+| bip_39_word_new_br_9 | canoe<br>output<br>rain<br>lift<br>patient<br>best<br>extra<br>craft<br>near |  
+| bip_39_word_new_line_1 | canoe |  
+| bip_39_word_new_line_10 | canoe
 output
 rain
 lift
@@ -55,7 +55,7 @@ extra
 craft
 near
 liar |  
-| bip_39_word_new_line11 | canoe
+| bip_39_word_new_line_11 | canoe
 output
 rain
 lift
@@ -66,7 +66,7 @@ craft
 near
 liar
 across |  
-| bip_39_word_new_line12 | canoe
+| bip_39_word_new_line_12 | canoe
 output
 rain
 lift
@@ -78,34 +78,34 @@ near
 liar
 across
 actor |  
-| bip_39_word_new_line2 | canoe
+| bip_39_word_new_line_2 | canoe
 output |  
-| bip_39_word_new_line3 | canoe
+| bip_39_word_new_line_3 | canoe
 output
 rain |  
-| bip_39_word_new_line4 | canoe
+| bip_39_word_new_line_4 | canoe
 output
 rain
 lift |  
-| bip_39_word_new_line5 | canoe
+| bip_39_word_new_line_5 | canoe
 output
 rain
 lift
 patient |  
-| bip_39_word_new_line6 | canoe
+| bip_39_word_new_line_6 | canoe
 output
 rain
 lift
 patient
 best |  
-| bip_39_word_new_line7 | canoe
+| bip_39_word_new_line_7 | canoe
 output
 rain
 lift
 patient
 best
 extra |  
-| bip_39_word_new_line8 | canoe
+| bip_39_word_new_line_8 | canoe
 output
 rain
 lift
@@ -113,7 +113,7 @@ patient
 best
 extra
 craft |  
-| bip_39_word_new_line9 | canoe
+| bip_39_word_new_line_9 | canoe
 output
 rain
 lift

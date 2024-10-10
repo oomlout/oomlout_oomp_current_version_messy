@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | minor |  
-| bip_39_word_new_br10 | minor<br>limit<br>total<br>humble<br>legend<br>random<br>choose<br>must<br>notice<br>useful |  
-| bip_39_word_new_br11 | minor<br>limit<br>total<br>humble<br>legend<br>random<br>choose<br>must<br>notice<br>useful<br>erosion |  
-| bip_39_word_new_br12 | minor<br>limit<br>total<br>humble<br>legend<br>random<br>choose<br>must<br>notice<br>useful<br>erosion<br>annual |  
-| bip_39_word_new_br2 | minor<br>limit |  
-| bip_39_word_new_br3 | minor<br>limit<br>total |  
-| bip_39_word_new_br4 | minor<br>limit<br>total<br>humble |  
-| bip_39_word_new_br5 | minor<br>limit<br>total<br>humble<br>legend |  
-| bip_39_word_new_br6 | minor<br>limit<br>total<br>humble<br>legend<br>random |  
-| bip_39_word_new_br7 | minor<br>limit<br>total<br>humble<br>legend<br>random<br>choose |  
-| bip_39_word_new_br8 | minor<br>limit<br>total<br>humble<br>legend<br>random<br>choose<br>must |  
-| bip_39_word_new_br9 | minor<br>limit<br>total<br>humble<br>legend<br>random<br>choose<br>must<br>notice |  
-| bip_39_word_new_line1 | minor |  
-| bip_39_word_new_line10 | minor
+| bip_39_word_new_br_1 | minor |  
+| bip_39_word_new_br_10 | minor<br>limit<br>total<br>humble<br>legend<br>random<br>choose<br>must<br>notice<br>useful |  
+| bip_39_word_new_br_11 | minor<br>limit<br>total<br>humble<br>legend<br>random<br>choose<br>must<br>notice<br>useful<br>erosion |  
+| bip_39_word_new_br_12 | minor<br>limit<br>total<br>humble<br>legend<br>random<br>choose<br>must<br>notice<br>useful<br>erosion<br>annual |  
+| bip_39_word_new_br_2 | minor<br>limit |  
+| bip_39_word_new_br_3 | minor<br>limit<br>total |  
+| bip_39_word_new_br_4 | minor<br>limit<br>total<br>humble |  
+| bip_39_word_new_br_5 | minor<br>limit<br>total<br>humble<br>legend |  
+| bip_39_word_new_br_6 | minor<br>limit<br>total<br>humble<br>legend<br>random |  
+| bip_39_word_new_br_7 | minor<br>limit<br>total<br>humble<br>legend<br>random<br>choose |  
+| bip_39_word_new_br_8 | minor<br>limit<br>total<br>humble<br>legend<br>random<br>choose<br>must |  
+| bip_39_word_new_br_9 | minor<br>limit<br>total<br>humble<br>legend<br>random<br>choose<br>must<br>notice |  
+| bip_39_word_new_line_1 | minor |  
+| bip_39_word_new_line_10 | minor
 limit
 total
 humble
@@ -55,7 +55,7 @@ choose
 must
 notice
 useful |  
-| bip_39_word_new_line11 | minor
+| bip_39_word_new_line_11 | minor
 limit
 total
 humble
@@ -66,7 +66,7 @@ must
 notice
 useful
 erosion |  
-| bip_39_word_new_line12 | minor
+| bip_39_word_new_line_12 | minor
 limit
 total
 humble
@@ -78,34 +78,34 @@ notice
 useful
 erosion
 annual |  
-| bip_39_word_new_line2 | minor
+| bip_39_word_new_line_2 | minor
 limit |  
-| bip_39_word_new_line3 | minor
+| bip_39_word_new_line_3 | minor
 limit
 total |  
-| bip_39_word_new_line4 | minor
+| bip_39_word_new_line_4 | minor
 limit
 total
 humble |  
-| bip_39_word_new_line5 | minor
+| bip_39_word_new_line_5 | minor
 limit
 total
 humble
 legend |  
-| bip_39_word_new_line6 | minor
+| bip_39_word_new_line_6 | minor
 limit
 total
 humble
 legend
 random |  
-| bip_39_word_new_line7 | minor
+| bip_39_word_new_line_7 | minor
 limit
 total
 humble
 legend
 random
 choose |  
-| bip_39_word_new_line8 | minor
+| bip_39_word_new_line_8 | minor
 limit
 total
 humble
@@ -113,7 +113,7 @@ legend
 random
 choose
 must |  
-| bip_39_word_new_line9 | minor
+| bip_39_word_new_line_9 | minor
 limit
 total
 humble

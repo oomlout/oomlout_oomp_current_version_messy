@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wool |  
-| bip_39_word_new_br10 | wool<br>sniff<br>north<br>note<br>run<br>sustain<br>control<br>arch<br>segment<br>inherit |  
-| bip_39_word_new_br11 | wool<br>sniff<br>north<br>note<br>run<br>sustain<br>control<br>arch<br>segment<br>inherit<br>glass |  
-| bip_39_word_new_br12 | wool<br>sniff<br>north<br>note<br>run<br>sustain<br>control<br>arch<br>segment<br>inherit<br>glass<br>admit |  
-| bip_39_word_new_br2 | wool<br>sniff |  
-| bip_39_word_new_br3 | wool<br>sniff<br>north |  
-| bip_39_word_new_br4 | wool<br>sniff<br>north<br>note |  
-| bip_39_word_new_br5 | wool<br>sniff<br>north<br>note<br>run |  
-| bip_39_word_new_br6 | wool<br>sniff<br>north<br>note<br>run<br>sustain |  
-| bip_39_word_new_br7 | wool<br>sniff<br>north<br>note<br>run<br>sustain<br>control |  
-| bip_39_word_new_br8 | wool<br>sniff<br>north<br>note<br>run<br>sustain<br>control<br>arch |  
-| bip_39_word_new_br9 | wool<br>sniff<br>north<br>note<br>run<br>sustain<br>control<br>arch<br>segment |  
-| bip_39_word_new_line1 | wool |  
-| bip_39_word_new_line10 | wool
+| bip_39_word_new_br_1 | wool |  
+| bip_39_word_new_br_10 | wool<br>sniff<br>north<br>note<br>run<br>sustain<br>control<br>arch<br>segment<br>inherit |  
+| bip_39_word_new_br_11 | wool<br>sniff<br>north<br>note<br>run<br>sustain<br>control<br>arch<br>segment<br>inherit<br>glass |  
+| bip_39_word_new_br_12 | wool<br>sniff<br>north<br>note<br>run<br>sustain<br>control<br>arch<br>segment<br>inherit<br>glass<br>admit |  
+| bip_39_word_new_br_2 | wool<br>sniff |  
+| bip_39_word_new_br_3 | wool<br>sniff<br>north |  
+| bip_39_word_new_br_4 | wool<br>sniff<br>north<br>note |  
+| bip_39_word_new_br_5 | wool<br>sniff<br>north<br>note<br>run |  
+| bip_39_word_new_br_6 | wool<br>sniff<br>north<br>note<br>run<br>sustain |  
+| bip_39_word_new_br_7 | wool<br>sniff<br>north<br>note<br>run<br>sustain<br>control |  
+| bip_39_word_new_br_8 | wool<br>sniff<br>north<br>note<br>run<br>sustain<br>control<br>arch |  
+| bip_39_word_new_br_9 | wool<br>sniff<br>north<br>note<br>run<br>sustain<br>control<br>arch<br>segment |  
+| bip_39_word_new_line_1 | wool |  
+| bip_39_word_new_line_10 | wool
 sniff
 north
 note
@@ -55,7 +55,7 @@ control
 arch
 segment
 inherit |  
-| bip_39_word_new_line11 | wool
+| bip_39_word_new_line_11 | wool
 sniff
 north
 note
@@ -66,7 +66,7 @@ arch
 segment
 inherit
 glass |  
-| bip_39_word_new_line12 | wool
+| bip_39_word_new_line_12 | wool
 sniff
 north
 note
@@ -78,34 +78,34 @@ segment
 inherit
 glass
 admit |  
-| bip_39_word_new_line2 | wool
+| bip_39_word_new_line_2 | wool
 sniff |  
-| bip_39_word_new_line3 | wool
+| bip_39_word_new_line_3 | wool
 sniff
 north |  
-| bip_39_word_new_line4 | wool
+| bip_39_word_new_line_4 | wool
 sniff
 north
 note |  
-| bip_39_word_new_line5 | wool
+| bip_39_word_new_line_5 | wool
 sniff
 north
 note
 run |  
-| bip_39_word_new_line6 | wool
+| bip_39_word_new_line_6 | wool
 sniff
 north
 note
 run
 sustain |  
-| bip_39_word_new_line7 | wool
+| bip_39_word_new_line_7 | wool
 sniff
 north
 note
 run
 sustain
 control |  
-| bip_39_word_new_line8 | wool
+| bip_39_word_new_line_8 | wool
 sniff
 north
 note
@@ -113,7 +113,7 @@ run
 sustain
 control
 arch |  
-| bip_39_word_new_line9 | wool
+| bip_39_word_new_line_9 | wool
 sniff
 north
 note

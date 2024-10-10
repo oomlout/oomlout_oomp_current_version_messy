@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | lava |  
-| bip_39_word_new_br10 | lava<br>delay<br>turtle<br>coin<br>idle<br>detect<br>mercy<br>route<br>desert<br>swamp |  
-| bip_39_word_new_br11 | lava<br>delay<br>turtle<br>coin<br>idle<br>detect<br>mercy<br>route<br>desert<br>swamp<br>hen |  
-| bip_39_word_new_br12 | lava<br>delay<br>turtle<br>coin<br>idle<br>detect<br>mercy<br>route<br>desert<br>swamp<br>hen<br>air |  
-| bip_39_word_new_br2 | lava<br>delay |  
-| bip_39_word_new_br3 | lava<br>delay<br>turtle |  
-| bip_39_word_new_br4 | lava<br>delay<br>turtle<br>coin |  
-| bip_39_word_new_br5 | lava<br>delay<br>turtle<br>coin<br>idle |  
-| bip_39_word_new_br6 | lava<br>delay<br>turtle<br>coin<br>idle<br>detect |  
-| bip_39_word_new_br7 | lava<br>delay<br>turtle<br>coin<br>idle<br>detect<br>mercy |  
-| bip_39_word_new_br8 | lava<br>delay<br>turtle<br>coin<br>idle<br>detect<br>mercy<br>route |  
-| bip_39_word_new_br9 | lava<br>delay<br>turtle<br>coin<br>idle<br>detect<br>mercy<br>route<br>desert |  
-| bip_39_word_new_line1 | lava |  
-| bip_39_word_new_line10 | lava
+| bip_39_word_new_br_1 | lava |  
+| bip_39_word_new_br_10 | lava<br>delay<br>turtle<br>coin<br>idle<br>detect<br>mercy<br>route<br>desert<br>swamp |  
+| bip_39_word_new_br_11 | lava<br>delay<br>turtle<br>coin<br>idle<br>detect<br>mercy<br>route<br>desert<br>swamp<br>hen |  
+| bip_39_word_new_br_12 | lava<br>delay<br>turtle<br>coin<br>idle<br>detect<br>mercy<br>route<br>desert<br>swamp<br>hen<br>air |  
+| bip_39_word_new_br_2 | lava<br>delay |  
+| bip_39_word_new_br_3 | lava<br>delay<br>turtle |  
+| bip_39_word_new_br_4 | lava<br>delay<br>turtle<br>coin |  
+| bip_39_word_new_br_5 | lava<br>delay<br>turtle<br>coin<br>idle |  
+| bip_39_word_new_br_6 | lava<br>delay<br>turtle<br>coin<br>idle<br>detect |  
+| bip_39_word_new_br_7 | lava<br>delay<br>turtle<br>coin<br>idle<br>detect<br>mercy |  
+| bip_39_word_new_br_8 | lava<br>delay<br>turtle<br>coin<br>idle<br>detect<br>mercy<br>route |  
+| bip_39_word_new_br_9 | lava<br>delay<br>turtle<br>coin<br>idle<br>detect<br>mercy<br>route<br>desert |  
+| bip_39_word_new_line_1 | lava |  
+| bip_39_word_new_line_10 | lava
 delay
 turtle
 coin
@@ -55,7 +55,7 @@ mercy
 route
 desert
 swamp |  
-| bip_39_word_new_line11 | lava
+| bip_39_word_new_line_11 | lava
 delay
 turtle
 coin
@@ -66,7 +66,7 @@ route
 desert
 swamp
 hen |  
-| bip_39_word_new_line12 | lava
+| bip_39_word_new_line_12 | lava
 delay
 turtle
 coin
@@ -78,34 +78,34 @@ desert
 swamp
 hen
 air |  
-| bip_39_word_new_line2 | lava
+| bip_39_word_new_line_2 | lava
 delay |  
-| bip_39_word_new_line3 | lava
+| bip_39_word_new_line_3 | lava
 delay
 turtle |  
-| bip_39_word_new_line4 | lava
+| bip_39_word_new_line_4 | lava
 delay
 turtle
 coin |  
-| bip_39_word_new_line5 | lava
+| bip_39_word_new_line_5 | lava
 delay
 turtle
 coin
 idle |  
-| bip_39_word_new_line6 | lava
+| bip_39_word_new_line_6 | lava
 delay
 turtle
 coin
 idle
 detect |  
-| bip_39_word_new_line7 | lava
+| bip_39_word_new_line_7 | lava
 delay
 turtle
 coin
 idle
 detect
 mercy |  
-| bip_39_word_new_line8 | lava
+| bip_39_word_new_line_8 | lava
 delay
 turtle
 coin
@@ -113,7 +113,7 @@ idle
 detect
 mercy
 route |  
-| bip_39_word_new_line9 | lava
+| bip_39_word_new_line_9 | lava
 delay
 turtle
 coin

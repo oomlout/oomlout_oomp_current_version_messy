@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | winter |  
-| bip_39_word_new_br10 | winter<br>wealth<br>bamboo<br>visit<br>chicken<br>grass<br>repeat<br>grass<br>nuclear<br>raccoon |  
-| bip_39_word_new_br11 | winter<br>wealth<br>bamboo<br>visit<br>chicken<br>grass<br>repeat<br>grass<br>nuclear<br>raccoon<br>west |  
-| bip_39_word_new_br12 | winter<br>wealth<br>bamboo<br>visit<br>chicken<br>grass<br>repeat<br>grass<br>nuclear<br>raccoon<br>west<br>ahead |  
-| bip_39_word_new_br2 | winter<br>wealth |  
-| bip_39_word_new_br3 | winter<br>wealth<br>bamboo |  
-| bip_39_word_new_br4 | winter<br>wealth<br>bamboo<br>visit |  
-| bip_39_word_new_br5 | winter<br>wealth<br>bamboo<br>visit<br>chicken |  
-| bip_39_word_new_br6 | winter<br>wealth<br>bamboo<br>visit<br>chicken<br>grass |  
-| bip_39_word_new_br7 | winter<br>wealth<br>bamboo<br>visit<br>chicken<br>grass<br>repeat |  
-| bip_39_word_new_br8 | winter<br>wealth<br>bamboo<br>visit<br>chicken<br>grass<br>repeat<br>grass |  
-| bip_39_word_new_br9 | winter<br>wealth<br>bamboo<br>visit<br>chicken<br>grass<br>repeat<br>grass<br>nuclear |  
-| bip_39_word_new_line1 | winter |  
-| bip_39_word_new_line10 | winter
+| bip_39_word_new_br_1 | winter |  
+| bip_39_word_new_br_10 | winter<br>wealth<br>bamboo<br>visit<br>chicken<br>grass<br>repeat<br>grass<br>nuclear<br>raccoon |  
+| bip_39_word_new_br_11 | winter<br>wealth<br>bamboo<br>visit<br>chicken<br>grass<br>repeat<br>grass<br>nuclear<br>raccoon<br>west |  
+| bip_39_word_new_br_12 | winter<br>wealth<br>bamboo<br>visit<br>chicken<br>grass<br>repeat<br>grass<br>nuclear<br>raccoon<br>west<br>ahead |  
+| bip_39_word_new_br_2 | winter<br>wealth |  
+| bip_39_word_new_br_3 | winter<br>wealth<br>bamboo |  
+| bip_39_word_new_br_4 | winter<br>wealth<br>bamboo<br>visit |  
+| bip_39_word_new_br_5 | winter<br>wealth<br>bamboo<br>visit<br>chicken |  
+| bip_39_word_new_br_6 | winter<br>wealth<br>bamboo<br>visit<br>chicken<br>grass |  
+| bip_39_word_new_br_7 | winter<br>wealth<br>bamboo<br>visit<br>chicken<br>grass<br>repeat |  
+| bip_39_word_new_br_8 | winter<br>wealth<br>bamboo<br>visit<br>chicken<br>grass<br>repeat<br>grass |  
+| bip_39_word_new_br_9 | winter<br>wealth<br>bamboo<br>visit<br>chicken<br>grass<br>repeat<br>grass<br>nuclear |  
+| bip_39_word_new_line_1 | winter |  
+| bip_39_word_new_line_10 | winter
 wealth
 bamboo
 visit
@@ -55,7 +55,7 @@ repeat
 grass
 nuclear
 raccoon |  
-| bip_39_word_new_line11 | winter
+| bip_39_word_new_line_11 | winter
 wealth
 bamboo
 visit
@@ -66,7 +66,7 @@ grass
 nuclear
 raccoon
 west |  
-| bip_39_word_new_line12 | winter
+| bip_39_word_new_line_12 | winter
 wealth
 bamboo
 visit
@@ -78,34 +78,34 @@ nuclear
 raccoon
 west
 ahead |  
-| bip_39_word_new_line2 | winter
+| bip_39_word_new_line_2 | winter
 wealth |  
-| bip_39_word_new_line3 | winter
+| bip_39_word_new_line_3 | winter
 wealth
 bamboo |  
-| bip_39_word_new_line4 | winter
+| bip_39_word_new_line_4 | winter
 wealth
 bamboo
 visit |  
-| bip_39_word_new_line5 | winter
+| bip_39_word_new_line_5 | winter
 wealth
 bamboo
 visit
 chicken |  
-| bip_39_word_new_line6 | winter
+| bip_39_word_new_line_6 | winter
 wealth
 bamboo
 visit
 chicken
 grass |  
-| bip_39_word_new_line7 | winter
+| bip_39_word_new_line_7 | winter
 wealth
 bamboo
 visit
 chicken
 grass
 repeat |  
-| bip_39_word_new_line8 | winter
+| bip_39_word_new_line_8 | winter
 wealth
 bamboo
 visit
@@ -113,7 +113,7 @@ chicken
 grass
 repeat
 grass |  
-| bip_39_word_new_line9 | winter
+| bip_39_word_new_line_9 | winter
 wealth
 bamboo
 visit

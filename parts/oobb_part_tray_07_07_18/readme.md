@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | disagree |  
-| bip_39_word_new_br10 | disagree<br>trip<br>glue<br>virtual<br>climb<br>pool<br>morning<br>base<br>merit<br>primary |  
-| bip_39_word_new_br11 | disagree<br>trip<br>glue<br>virtual<br>climb<br>pool<br>morning<br>base<br>merit<br>primary<br>detail |  
-| bip_39_word_new_br12 | disagree<br>trip<br>glue<br>virtual<br>climb<br>pool<br>morning<br>base<br>merit<br>primary<br>detail<br>absent |  
-| bip_39_word_new_br2 | disagree<br>trip |  
-| bip_39_word_new_br3 | disagree<br>trip<br>glue |  
-| bip_39_word_new_br4 | disagree<br>trip<br>glue<br>virtual |  
-| bip_39_word_new_br5 | disagree<br>trip<br>glue<br>virtual<br>climb |  
-| bip_39_word_new_br6 | disagree<br>trip<br>glue<br>virtual<br>climb<br>pool |  
-| bip_39_word_new_br7 | disagree<br>trip<br>glue<br>virtual<br>climb<br>pool<br>morning |  
-| bip_39_word_new_br8 | disagree<br>trip<br>glue<br>virtual<br>climb<br>pool<br>morning<br>base |  
-| bip_39_word_new_br9 | disagree<br>trip<br>glue<br>virtual<br>climb<br>pool<br>morning<br>base<br>merit |  
-| bip_39_word_new_line1 | disagree |  
-| bip_39_word_new_line10 | disagree
+| bip_39_word_new_br_1 | disagree |  
+| bip_39_word_new_br_10 | disagree<br>trip<br>glue<br>virtual<br>climb<br>pool<br>morning<br>base<br>merit<br>primary |  
+| bip_39_word_new_br_11 | disagree<br>trip<br>glue<br>virtual<br>climb<br>pool<br>morning<br>base<br>merit<br>primary<br>detail |  
+| bip_39_word_new_br_12 | disagree<br>trip<br>glue<br>virtual<br>climb<br>pool<br>morning<br>base<br>merit<br>primary<br>detail<br>absent |  
+| bip_39_word_new_br_2 | disagree<br>trip |  
+| bip_39_word_new_br_3 | disagree<br>trip<br>glue |  
+| bip_39_word_new_br_4 | disagree<br>trip<br>glue<br>virtual |  
+| bip_39_word_new_br_5 | disagree<br>trip<br>glue<br>virtual<br>climb |  
+| bip_39_word_new_br_6 | disagree<br>trip<br>glue<br>virtual<br>climb<br>pool |  
+| bip_39_word_new_br_7 | disagree<br>trip<br>glue<br>virtual<br>climb<br>pool<br>morning |  
+| bip_39_word_new_br_8 | disagree<br>trip<br>glue<br>virtual<br>climb<br>pool<br>morning<br>base |  
+| bip_39_word_new_br_9 | disagree<br>trip<br>glue<br>virtual<br>climb<br>pool<br>morning<br>base<br>merit |  
+| bip_39_word_new_line_1 | disagree |  
+| bip_39_word_new_line_10 | disagree
 trip
 glue
 virtual
@@ -55,7 +55,7 @@ morning
 base
 merit
 primary |  
-| bip_39_word_new_line11 | disagree
+| bip_39_word_new_line_11 | disagree
 trip
 glue
 virtual
@@ -66,7 +66,7 @@ base
 merit
 primary
 detail |  
-| bip_39_word_new_line12 | disagree
+| bip_39_word_new_line_12 | disagree
 trip
 glue
 virtual
@@ -78,34 +78,34 @@ merit
 primary
 detail
 absent |  
-| bip_39_word_new_line2 | disagree
+| bip_39_word_new_line_2 | disagree
 trip |  
-| bip_39_word_new_line3 | disagree
+| bip_39_word_new_line_3 | disagree
 trip
 glue |  
-| bip_39_word_new_line4 | disagree
+| bip_39_word_new_line_4 | disagree
 trip
 glue
 virtual |  
-| bip_39_word_new_line5 | disagree
+| bip_39_word_new_line_5 | disagree
 trip
 glue
 virtual
 climb |  
-| bip_39_word_new_line6 | disagree
+| bip_39_word_new_line_6 | disagree
 trip
 glue
 virtual
 climb
 pool |  
-| bip_39_word_new_line7 | disagree
+| bip_39_word_new_line_7 | disagree
 trip
 glue
 virtual
 climb
 pool
 morning |  
-| bip_39_word_new_line8 | disagree
+| bip_39_word_new_line_8 | disagree
 trip
 glue
 virtual
@@ -113,7 +113,7 @@ climb
 pool
 morning
 base |  
-| bip_39_word_new_line9 | disagree
+| bip_39_word_new_line_9 | disagree
 trip
 glue
 virtual

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | zero |  
-| bip_39_word_new_br10 | zero<br>spot<br>cinnamon<br>round<br>captain<br>inspire<br>spot<br>reject<br>behave<br>razor |  
-| bip_39_word_new_br11 | zero<br>spot<br>cinnamon<br>round<br>captain<br>inspire<br>spot<br>reject<br>behave<br>razor<br>amused |  
-| bip_39_word_new_br12 | zero<br>spot<br>cinnamon<br>round<br>captain<br>inspire<br>spot<br>reject<br>behave<br>razor<br>amused<br>acid |  
-| bip_39_word_new_br2 | zero<br>spot |  
-| bip_39_word_new_br3 | zero<br>spot<br>cinnamon |  
-| bip_39_word_new_br4 | zero<br>spot<br>cinnamon<br>round |  
-| bip_39_word_new_br5 | zero<br>spot<br>cinnamon<br>round<br>captain |  
-| bip_39_word_new_br6 | zero<br>spot<br>cinnamon<br>round<br>captain<br>inspire |  
-| bip_39_word_new_br7 | zero<br>spot<br>cinnamon<br>round<br>captain<br>inspire<br>spot |  
-| bip_39_word_new_br8 | zero<br>spot<br>cinnamon<br>round<br>captain<br>inspire<br>spot<br>reject |  
-| bip_39_word_new_br9 | zero<br>spot<br>cinnamon<br>round<br>captain<br>inspire<br>spot<br>reject<br>behave |  
-| bip_39_word_new_line1 | zero |  
-| bip_39_word_new_line10 | zero
+| bip_39_word_new_br_1 | zero |  
+| bip_39_word_new_br_10 | zero<br>spot<br>cinnamon<br>round<br>captain<br>inspire<br>spot<br>reject<br>behave<br>razor |  
+| bip_39_word_new_br_11 | zero<br>spot<br>cinnamon<br>round<br>captain<br>inspire<br>spot<br>reject<br>behave<br>razor<br>amused |  
+| bip_39_word_new_br_12 | zero<br>spot<br>cinnamon<br>round<br>captain<br>inspire<br>spot<br>reject<br>behave<br>razor<br>amused<br>acid |  
+| bip_39_word_new_br_2 | zero<br>spot |  
+| bip_39_word_new_br_3 | zero<br>spot<br>cinnamon |  
+| bip_39_word_new_br_4 | zero<br>spot<br>cinnamon<br>round |  
+| bip_39_word_new_br_5 | zero<br>spot<br>cinnamon<br>round<br>captain |  
+| bip_39_word_new_br_6 | zero<br>spot<br>cinnamon<br>round<br>captain<br>inspire |  
+| bip_39_word_new_br_7 | zero<br>spot<br>cinnamon<br>round<br>captain<br>inspire<br>spot |  
+| bip_39_word_new_br_8 | zero<br>spot<br>cinnamon<br>round<br>captain<br>inspire<br>spot<br>reject |  
+| bip_39_word_new_br_9 | zero<br>spot<br>cinnamon<br>round<br>captain<br>inspire<br>spot<br>reject<br>behave |  
+| bip_39_word_new_line_1 | zero |  
+| bip_39_word_new_line_10 | zero
 spot
 cinnamon
 round
@@ -55,7 +55,7 @@ spot
 reject
 behave
 razor |  
-| bip_39_word_new_line11 | zero
+| bip_39_word_new_line_11 | zero
 spot
 cinnamon
 round
@@ -66,7 +66,7 @@ reject
 behave
 razor
 amused |  
-| bip_39_word_new_line12 | zero
+| bip_39_word_new_line_12 | zero
 spot
 cinnamon
 round
@@ -78,34 +78,34 @@ behave
 razor
 amused
 acid |  
-| bip_39_word_new_line2 | zero
+| bip_39_word_new_line_2 | zero
 spot |  
-| bip_39_word_new_line3 | zero
+| bip_39_word_new_line_3 | zero
 spot
 cinnamon |  
-| bip_39_word_new_line4 | zero
+| bip_39_word_new_line_4 | zero
 spot
 cinnamon
 round |  
-| bip_39_word_new_line5 | zero
+| bip_39_word_new_line_5 | zero
 spot
 cinnamon
 round
 captain |  
-| bip_39_word_new_line6 | zero
+| bip_39_word_new_line_6 | zero
 spot
 cinnamon
 round
 captain
 inspire |  
-| bip_39_word_new_line7 | zero
+| bip_39_word_new_line_7 | zero
 spot
 cinnamon
 round
 captain
 inspire
 spot |  
-| bip_39_word_new_line8 | zero
+| bip_39_word_new_line_8 | zero
 spot
 cinnamon
 round
@@ -113,7 +113,7 @@ captain
 inspire
 spot
 reject |  
-| bip_39_word_new_line9 | zero
+| bip_39_word_new_line_9 | zero
 spot
 cinnamon
 round

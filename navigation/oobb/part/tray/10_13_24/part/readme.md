@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | simple |  
-| bip_39_word_new_br10 | simple<br>once<br>pepper<br>border<br>seat<br>release<br>nuclear<br>snow<br>kick<br>dust |  
-| bip_39_word_new_br11 | simple<br>once<br>pepper<br>border<br>seat<br>release<br>nuclear<br>snow<br>kick<br>dust<br>brass |  
-| bip_39_word_new_br12 | simple<br>once<br>pepper<br>border<br>seat<br>release<br>nuclear<br>snow<br>kick<br>dust<br>brass<br>argue |  
-| bip_39_word_new_br2 | simple<br>once |  
-| bip_39_word_new_br3 | simple<br>once<br>pepper |  
-| bip_39_word_new_br4 | simple<br>once<br>pepper<br>border |  
-| bip_39_word_new_br5 | simple<br>once<br>pepper<br>border<br>seat |  
-| bip_39_word_new_br6 | simple<br>once<br>pepper<br>border<br>seat<br>release |  
-| bip_39_word_new_br7 | simple<br>once<br>pepper<br>border<br>seat<br>release<br>nuclear |  
-| bip_39_word_new_br8 | simple<br>once<br>pepper<br>border<br>seat<br>release<br>nuclear<br>snow |  
-| bip_39_word_new_br9 | simple<br>once<br>pepper<br>border<br>seat<br>release<br>nuclear<br>snow<br>kick |  
-| bip_39_word_new_line1 | simple |  
-| bip_39_word_new_line10 | simple
+| bip_39_word_new_br_1 | simple |  
+| bip_39_word_new_br_10 | simple<br>once<br>pepper<br>border<br>seat<br>release<br>nuclear<br>snow<br>kick<br>dust |  
+| bip_39_word_new_br_11 | simple<br>once<br>pepper<br>border<br>seat<br>release<br>nuclear<br>snow<br>kick<br>dust<br>brass |  
+| bip_39_word_new_br_12 | simple<br>once<br>pepper<br>border<br>seat<br>release<br>nuclear<br>snow<br>kick<br>dust<br>brass<br>argue |  
+| bip_39_word_new_br_2 | simple<br>once |  
+| bip_39_word_new_br_3 | simple<br>once<br>pepper |  
+| bip_39_word_new_br_4 | simple<br>once<br>pepper<br>border |  
+| bip_39_word_new_br_5 | simple<br>once<br>pepper<br>border<br>seat |  
+| bip_39_word_new_br_6 | simple<br>once<br>pepper<br>border<br>seat<br>release |  
+| bip_39_word_new_br_7 | simple<br>once<br>pepper<br>border<br>seat<br>release<br>nuclear |  
+| bip_39_word_new_br_8 | simple<br>once<br>pepper<br>border<br>seat<br>release<br>nuclear<br>snow |  
+| bip_39_word_new_br_9 | simple<br>once<br>pepper<br>border<br>seat<br>release<br>nuclear<br>snow<br>kick |  
+| bip_39_word_new_line_1 | simple |  
+| bip_39_word_new_line_10 | simple
 once
 pepper
 border
@@ -55,7 +55,7 @@ nuclear
 snow
 kick
 dust |  
-| bip_39_word_new_line11 | simple
+| bip_39_word_new_line_11 | simple
 once
 pepper
 border
@@ -66,7 +66,7 @@ snow
 kick
 dust
 brass |  
-| bip_39_word_new_line12 | simple
+| bip_39_word_new_line_12 | simple
 once
 pepper
 border
@@ -78,34 +78,34 @@ kick
 dust
 brass
 argue |  
-| bip_39_word_new_line2 | simple
+| bip_39_word_new_line_2 | simple
 once |  
-| bip_39_word_new_line3 | simple
+| bip_39_word_new_line_3 | simple
 once
 pepper |  
-| bip_39_word_new_line4 | simple
+| bip_39_word_new_line_4 | simple
 once
 pepper
 border |  
-| bip_39_word_new_line5 | simple
+| bip_39_word_new_line_5 | simple
 once
 pepper
 border
 seat |  
-| bip_39_word_new_line6 | simple
+| bip_39_word_new_line_6 | simple
 once
 pepper
 border
 seat
 release |  
-| bip_39_word_new_line7 | simple
+| bip_39_word_new_line_7 | simple
 once
 pepper
 border
 seat
 release
 nuclear |  
-| bip_39_word_new_line8 | simple
+| bip_39_word_new_line_8 | simple
 once
 pepper
 border
@@ -113,7 +113,7 @@ seat
 release
 nuclear
 snow |  
-| bip_39_word_new_line9 | simple
+| bip_39_word_new_line_9 | simple
 once
 pepper
 border

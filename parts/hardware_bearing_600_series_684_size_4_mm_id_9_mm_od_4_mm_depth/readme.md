@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | awake |  
-| bip_39_word_new_br10 | awake<br>shoulder<br>then<br>wreck<br>collect<br>cube<br>own<br>camp<br>fly<br>sausage |  
-| bip_39_word_new_br11 | awake<br>shoulder<br>then<br>wreck<br>collect<br>cube<br>own<br>camp<br>fly<br>sausage<br>eight |  
-| bip_39_word_new_br12 | awake<br>shoulder<br>then<br>wreck<br>collect<br>cube<br>own<br>camp<br>fly<br>sausage<br>eight<br>apart |  
-| bip_39_word_new_br2 | awake<br>shoulder |  
-| bip_39_word_new_br3 | awake<br>shoulder<br>then |  
-| bip_39_word_new_br4 | awake<br>shoulder<br>then<br>wreck |  
-| bip_39_word_new_br5 | awake<br>shoulder<br>then<br>wreck<br>collect |  
-| bip_39_word_new_br6 | awake<br>shoulder<br>then<br>wreck<br>collect<br>cube |  
-| bip_39_word_new_br7 | awake<br>shoulder<br>then<br>wreck<br>collect<br>cube<br>own |  
-| bip_39_word_new_br8 | awake<br>shoulder<br>then<br>wreck<br>collect<br>cube<br>own<br>camp |  
-| bip_39_word_new_br9 | awake<br>shoulder<br>then<br>wreck<br>collect<br>cube<br>own<br>camp<br>fly |  
-| bip_39_word_new_line1 | awake |  
-| bip_39_word_new_line10 | awake
+| bip_39_word_new_br_1 | awake |  
+| bip_39_word_new_br_10 | awake<br>shoulder<br>then<br>wreck<br>collect<br>cube<br>own<br>camp<br>fly<br>sausage |  
+| bip_39_word_new_br_11 | awake<br>shoulder<br>then<br>wreck<br>collect<br>cube<br>own<br>camp<br>fly<br>sausage<br>eight |  
+| bip_39_word_new_br_12 | awake<br>shoulder<br>then<br>wreck<br>collect<br>cube<br>own<br>camp<br>fly<br>sausage<br>eight<br>apart |  
+| bip_39_word_new_br_2 | awake<br>shoulder |  
+| bip_39_word_new_br_3 | awake<br>shoulder<br>then |  
+| bip_39_word_new_br_4 | awake<br>shoulder<br>then<br>wreck |  
+| bip_39_word_new_br_5 | awake<br>shoulder<br>then<br>wreck<br>collect |  
+| bip_39_word_new_br_6 | awake<br>shoulder<br>then<br>wreck<br>collect<br>cube |  
+| bip_39_word_new_br_7 | awake<br>shoulder<br>then<br>wreck<br>collect<br>cube<br>own |  
+| bip_39_word_new_br_8 | awake<br>shoulder<br>then<br>wreck<br>collect<br>cube<br>own<br>camp |  
+| bip_39_word_new_br_9 | awake<br>shoulder<br>then<br>wreck<br>collect<br>cube<br>own<br>camp<br>fly |  
+| bip_39_word_new_line_1 | awake |  
+| bip_39_word_new_line_10 | awake
 shoulder
 then
 wreck
@@ -55,7 +55,7 @@ own
 camp
 fly
 sausage |  
-| bip_39_word_new_line11 | awake
+| bip_39_word_new_line_11 | awake
 shoulder
 then
 wreck
@@ -66,7 +66,7 @@ camp
 fly
 sausage
 eight |  
-| bip_39_word_new_line12 | awake
+| bip_39_word_new_line_12 | awake
 shoulder
 then
 wreck
@@ -78,34 +78,34 @@ fly
 sausage
 eight
 apart |  
-| bip_39_word_new_line2 | awake
+| bip_39_word_new_line_2 | awake
 shoulder |  
-| bip_39_word_new_line3 | awake
+| bip_39_word_new_line_3 | awake
 shoulder
 then |  
-| bip_39_word_new_line4 | awake
+| bip_39_word_new_line_4 | awake
 shoulder
 then
 wreck |  
-| bip_39_word_new_line5 | awake
+| bip_39_word_new_line_5 | awake
 shoulder
 then
 wreck
 collect |  
-| bip_39_word_new_line6 | awake
+| bip_39_word_new_line_6 | awake
 shoulder
 then
 wreck
 collect
 cube |  
-| bip_39_word_new_line7 | awake
+| bip_39_word_new_line_7 | awake
 shoulder
 then
 wreck
 collect
 cube
 own |  
-| bip_39_word_new_line8 | awake
+| bip_39_word_new_line_8 | awake
 shoulder
 then
 wreck
@@ -113,7 +113,7 @@ collect
 cube
 own
 camp |  
-| bip_39_word_new_line9 | awake
+| bip_39_word_new_line_9 | awake
 shoulder
 then
 wreck

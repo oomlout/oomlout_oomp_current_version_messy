@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sure |  
-| bip_39_word_new_br10 | sure<br>small<br>arena<br>portion<br>patrol<br>object<br>now<br>knee<br>frequent<br>surround |  
-| bip_39_word_new_br11 | sure<br>small<br>arena<br>portion<br>patrol<br>object<br>now<br>knee<br>frequent<br>surround<br>capable |  
-| bip_39_word_new_br12 | sure<br>small<br>arena<br>portion<br>patrol<br>object<br>now<br>knee<br>frequent<br>surround<br>capable<br>apple |  
-| bip_39_word_new_br2 | sure<br>small |  
-| bip_39_word_new_br3 | sure<br>small<br>arena |  
-| bip_39_word_new_br4 | sure<br>small<br>arena<br>portion |  
-| bip_39_word_new_br5 | sure<br>small<br>arena<br>portion<br>patrol |  
-| bip_39_word_new_br6 | sure<br>small<br>arena<br>portion<br>patrol<br>object |  
-| bip_39_word_new_br7 | sure<br>small<br>arena<br>portion<br>patrol<br>object<br>now |  
-| bip_39_word_new_br8 | sure<br>small<br>arena<br>portion<br>patrol<br>object<br>now<br>knee |  
-| bip_39_word_new_br9 | sure<br>small<br>arena<br>portion<br>patrol<br>object<br>now<br>knee<br>frequent |  
-| bip_39_word_new_line1 | sure |  
-| bip_39_word_new_line10 | sure
+| bip_39_word_new_br_1 | sure |  
+| bip_39_word_new_br_10 | sure<br>small<br>arena<br>portion<br>patrol<br>object<br>now<br>knee<br>frequent<br>surround |  
+| bip_39_word_new_br_11 | sure<br>small<br>arena<br>portion<br>patrol<br>object<br>now<br>knee<br>frequent<br>surround<br>capable |  
+| bip_39_word_new_br_12 | sure<br>small<br>arena<br>portion<br>patrol<br>object<br>now<br>knee<br>frequent<br>surround<br>capable<br>apple |  
+| bip_39_word_new_br_2 | sure<br>small |  
+| bip_39_word_new_br_3 | sure<br>small<br>arena |  
+| bip_39_word_new_br_4 | sure<br>small<br>arena<br>portion |  
+| bip_39_word_new_br_5 | sure<br>small<br>arena<br>portion<br>patrol |  
+| bip_39_word_new_br_6 | sure<br>small<br>arena<br>portion<br>patrol<br>object |  
+| bip_39_word_new_br_7 | sure<br>small<br>arena<br>portion<br>patrol<br>object<br>now |  
+| bip_39_word_new_br_8 | sure<br>small<br>arena<br>portion<br>patrol<br>object<br>now<br>knee |  
+| bip_39_word_new_br_9 | sure<br>small<br>arena<br>portion<br>patrol<br>object<br>now<br>knee<br>frequent |  
+| bip_39_word_new_line_1 | sure |  
+| bip_39_word_new_line_10 | sure
 small
 arena
 portion
@@ -55,7 +55,7 @@ now
 knee
 frequent
 surround |  
-| bip_39_word_new_line11 | sure
+| bip_39_word_new_line_11 | sure
 small
 arena
 portion
@@ -66,7 +66,7 @@ knee
 frequent
 surround
 capable |  
-| bip_39_word_new_line12 | sure
+| bip_39_word_new_line_12 | sure
 small
 arena
 portion
@@ -78,34 +78,34 @@ frequent
 surround
 capable
 apple |  
-| bip_39_word_new_line2 | sure
+| bip_39_word_new_line_2 | sure
 small |  
-| bip_39_word_new_line3 | sure
+| bip_39_word_new_line_3 | sure
 small
 arena |  
-| bip_39_word_new_line4 | sure
+| bip_39_word_new_line_4 | sure
 small
 arena
 portion |  
-| bip_39_word_new_line5 | sure
+| bip_39_word_new_line_5 | sure
 small
 arena
 portion
 patrol |  
-| bip_39_word_new_line6 | sure
+| bip_39_word_new_line_6 | sure
 small
 arena
 portion
 patrol
 object |  
-| bip_39_word_new_line7 | sure
+| bip_39_word_new_line_7 | sure
 small
 arena
 portion
 patrol
 object
 now |  
-| bip_39_word_new_line8 | sure
+| bip_39_word_new_line_8 | sure
 small
 arena
 portion
@@ -113,7 +113,7 @@ patrol
 object
 now
 knee |  
-| bip_39_word_new_line9 | sure
+| bip_39_word_new_line_9 | sure
 small
 arena
 portion

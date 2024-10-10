@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | diary |  
-| bip_39_word_new_br10 | diary<br>slab<br>mistake<br>narrow<br>flavor<br>toss<br>word<br>increase<br>economy<br>cricket |  
-| bip_39_word_new_br11 | diary<br>slab<br>mistake<br>narrow<br>flavor<br>toss<br>word<br>increase<br>economy<br>cricket<br>visual |  
-| bip_39_word_new_br12 | diary<br>slab<br>mistake<br>narrow<br>flavor<br>toss<br>word<br>increase<br>economy<br>cricket<br>visual<br>asset |  
-| bip_39_word_new_br2 | diary<br>slab |  
-| bip_39_word_new_br3 | diary<br>slab<br>mistake |  
-| bip_39_word_new_br4 | diary<br>slab<br>mistake<br>narrow |  
-| bip_39_word_new_br5 | diary<br>slab<br>mistake<br>narrow<br>flavor |  
-| bip_39_word_new_br6 | diary<br>slab<br>mistake<br>narrow<br>flavor<br>toss |  
-| bip_39_word_new_br7 | diary<br>slab<br>mistake<br>narrow<br>flavor<br>toss<br>word |  
-| bip_39_word_new_br8 | diary<br>slab<br>mistake<br>narrow<br>flavor<br>toss<br>word<br>increase |  
-| bip_39_word_new_br9 | diary<br>slab<br>mistake<br>narrow<br>flavor<br>toss<br>word<br>increase<br>economy |  
-| bip_39_word_new_line1 | diary |  
-| bip_39_word_new_line10 | diary
+| bip_39_word_new_br_1 | diary |  
+| bip_39_word_new_br_10 | diary<br>slab<br>mistake<br>narrow<br>flavor<br>toss<br>word<br>increase<br>economy<br>cricket |  
+| bip_39_word_new_br_11 | diary<br>slab<br>mistake<br>narrow<br>flavor<br>toss<br>word<br>increase<br>economy<br>cricket<br>visual |  
+| bip_39_word_new_br_12 | diary<br>slab<br>mistake<br>narrow<br>flavor<br>toss<br>word<br>increase<br>economy<br>cricket<br>visual<br>asset |  
+| bip_39_word_new_br_2 | diary<br>slab |  
+| bip_39_word_new_br_3 | diary<br>slab<br>mistake |  
+| bip_39_word_new_br_4 | diary<br>slab<br>mistake<br>narrow |  
+| bip_39_word_new_br_5 | diary<br>slab<br>mistake<br>narrow<br>flavor |  
+| bip_39_word_new_br_6 | diary<br>slab<br>mistake<br>narrow<br>flavor<br>toss |  
+| bip_39_word_new_br_7 | diary<br>slab<br>mistake<br>narrow<br>flavor<br>toss<br>word |  
+| bip_39_word_new_br_8 | diary<br>slab<br>mistake<br>narrow<br>flavor<br>toss<br>word<br>increase |  
+| bip_39_word_new_br_9 | diary<br>slab<br>mistake<br>narrow<br>flavor<br>toss<br>word<br>increase<br>economy |  
+| bip_39_word_new_line_1 | diary |  
+| bip_39_word_new_line_10 | diary
 slab
 mistake
 narrow
@@ -55,7 +55,7 @@ word
 increase
 economy
 cricket |  
-| bip_39_word_new_line11 | diary
+| bip_39_word_new_line_11 | diary
 slab
 mistake
 narrow
@@ -66,7 +66,7 @@ increase
 economy
 cricket
 visual |  
-| bip_39_word_new_line12 | diary
+| bip_39_word_new_line_12 | diary
 slab
 mistake
 narrow
@@ -78,34 +78,34 @@ economy
 cricket
 visual
 asset |  
-| bip_39_word_new_line2 | diary
+| bip_39_word_new_line_2 | diary
 slab |  
-| bip_39_word_new_line3 | diary
+| bip_39_word_new_line_3 | diary
 slab
 mistake |  
-| bip_39_word_new_line4 | diary
+| bip_39_word_new_line_4 | diary
 slab
 mistake
 narrow |  
-| bip_39_word_new_line5 | diary
+| bip_39_word_new_line_5 | diary
 slab
 mistake
 narrow
 flavor |  
-| bip_39_word_new_line6 | diary
+| bip_39_word_new_line_6 | diary
 slab
 mistake
 narrow
 flavor
 toss |  
-| bip_39_word_new_line7 | diary
+| bip_39_word_new_line_7 | diary
 slab
 mistake
 narrow
 flavor
 toss
 word |  
-| bip_39_word_new_line8 | diary
+| bip_39_word_new_line_8 | diary
 slab
 mistake
 narrow
@@ -113,7 +113,7 @@ flavor
 toss
 word
 increase |  
-| bip_39_word_new_line9 | diary
+| bip_39_word_new_line_9 | diary
 slab
 mistake
 narrow

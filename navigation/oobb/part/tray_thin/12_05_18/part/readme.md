@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hurdle |  
-| bip_39_word_new_br10 | hurdle<br>floor<br>debate<br>planet<br>point<br>science<br>access<br>apart<br>toast<br>female |  
-| bip_39_word_new_br11 | hurdle<br>floor<br>debate<br>planet<br>point<br>science<br>access<br>apart<br>toast<br>female<br>give |  
-| bip_39_word_new_br12 | hurdle<br>floor<br>debate<br>planet<br>point<br>science<br>access<br>apart<br>toast<br>female<br>give<br>artist |  
-| bip_39_word_new_br2 | hurdle<br>floor |  
-| bip_39_word_new_br3 | hurdle<br>floor<br>debate |  
-| bip_39_word_new_br4 | hurdle<br>floor<br>debate<br>planet |  
-| bip_39_word_new_br5 | hurdle<br>floor<br>debate<br>planet<br>point |  
-| bip_39_word_new_br6 | hurdle<br>floor<br>debate<br>planet<br>point<br>science |  
-| bip_39_word_new_br7 | hurdle<br>floor<br>debate<br>planet<br>point<br>science<br>access |  
-| bip_39_word_new_br8 | hurdle<br>floor<br>debate<br>planet<br>point<br>science<br>access<br>apart |  
-| bip_39_word_new_br9 | hurdle<br>floor<br>debate<br>planet<br>point<br>science<br>access<br>apart<br>toast |  
-| bip_39_word_new_line1 | hurdle |  
-| bip_39_word_new_line10 | hurdle
+| bip_39_word_new_br_1 | hurdle |  
+| bip_39_word_new_br_10 | hurdle<br>floor<br>debate<br>planet<br>point<br>science<br>access<br>apart<br>toast<br>female |  
+| bip_39_word_new_br_11 | hurdle<br>floor<br>debate<br>planet<br>point<br>science<br>access<br>apart<br>toast<br>female<br>give |  
+| bip_39_word_new_br_12 | hurdle<br>floor<br>debate<br>planet<br>point<br>science<br>access<br>apart<br>toast<br>female<br>give<br>artist |  
+| bip_39_word_new_br_2 | hurdle<br>floor |  
+| bip_39_word_new_br_3 | hurdle<br>floor<br>debate |  
+| bip_39_word_new_br_4 | hurdle<br>floor<br>debate<br>planet |  
+| bip_39_word_new_br_5 | hurdle<br>floor<br>debate<br>planet<br>point |  
+| bip_39_word_new_br_6 | hurdle<br>floor<br>debate<br>planet<br>point<br>science |  
+| bip_39_word_new_br_7 | hurdle<br>floor<br>debate<br>planet<br>point<br>science<br>access |  
+| bip_39_word_new_br_8 | hurdle<br>floor<br>debate<br>planet<br>point<br>science<br>access<br>apart |  
+| bip_39_word_new_br_9 | hurdle<br>floor<br>debate<br>planet<br>point<br>science<br>access<br>apart<br>toast |  
+| bip_39_word_new_line_1 | hurdle |  
+| bip_39_word_new_line_10 | hurdle
 floor
 debate
 planet
@@ -55,7 +55,7 @@ access
 apart
 toast
 female |  
-| bip_39_word_new_line11 | hurdle
+| bip_39_word_new_line_11 | hurdle
 floor
 debate
 planet
@@ -66,7 +66,7 @@ apart
 toast
 female
 give |  
-| bip_39_word_new_line12 | hurdle
+| bip_39_word_new_line_12 | hurdle
 floor
 debate
 planet
@@ -78,34 +78,34 @@ toast
 female
 give
 artist |  
-| bip_39_word_new_line2 | hurdle
+| bip_39_word_new_line_2 | hurdle
 floor |  
-| bip_39_word_new_line3 | hurdle
+| bip_39_word_new_line_3 | hurdle
 floor
 debate |  
-| bip_39_word_new_line4 | hurdle
+| bip_39_word_new_line_4 | hurdle
 floor
 debate
 planet |  
-| bip_39_word_new_line5 | hurdle
+| bip_39_word_new_line_5 | hurdle
 floor
 debate
 planet
 point |  
-| bip_39_word_new_line6 | hurdle
+| bip_39_word_new_line_6 | hurdle
 floor
 debate
 planet
 point
 science |  
-| bip_39_word_new_line7 | hurdle
+| bip_39_word_new_line_7 | hurdle
 floor
 debate
 planet
 point
 science
 access |  
-| bip_39_word_new_line8 | hurdle
+| bip_39_word_new_line_8 | hurdle
 floor
 debate
 planet
@@ -113,7 +113,7 @@ point
 science
 access
 apart |  
-| bip_39_word_new_line9 | hurdle
+| bip_39_word_new_line_9 | hurdle
 floor
 debate
 planet

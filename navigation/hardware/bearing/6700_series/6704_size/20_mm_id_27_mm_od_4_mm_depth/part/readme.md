@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | reward |  
-| bip_39_word_new_br10 | reward<br>question<br>digital<br>aim<br>secret<br>travel<br>caught<br>enforce<br>age<br>drastic |  
-| bip_39_word_new_br11 | reward<br>question<br>digital<br>aim<br>secret<br>travel<br>caught<br>enforce<br>age<br>drastic<br>hub |  
-| bip_39_word_new_br12 | reward<br>question<br>digital<br>aim<br>secret<br>travel<br>caught<br>enforce<br>age<br>drastic<br>hub<br>among |  
-| bip_39_word_new_br2 | reward<br>question |  
-| bip_39_word_new_br3 | reward<br>question<br>digital |  
-| bip_39_word_new_br4 | reward<br>question<br>digital<br>aim |  
-| bip_39_word_new_br5 | reward<br>question<br>digital<br>aim<br>secret |  
-| bip_39_word_new_br6 | reward<br>question<br>digital<br>aim<br>secret<br>travel |  
-| bip_39_word_new_br7 | reward<br>question<br>digital<br>aim<br>secret<br>travel<br>caught |  
-| bip_39_word_new_br8 | reward<br>question<br>digital<br>aim<br>secret<br>travel<br>caught<br>enforce |  
-| bip_39_word_new_br9 | reward<br>question<br>digital<br>aim<br>secret<br>travel<br>caught<br>enforce<br>age |  
-| bip_39_word_new_line1 | reward |  
-| bip_39_word_new_line10 | reward
+| bip_39_word_new_br_1 | reward |  
+| bip_39_word_new_br_10 | reward<br>question<br>digital<br>aim<br>secret<br>travel<br>caught<br>enforce<br>age<br>drastic |  
+| bip_39_word_new_br_11 | reward<br>question<br>digital<br>aim<br>secret<br>travel<br>caught<br>enforce<br>age<br>drastic<br>hub |  
+| bip_39_word_new_br_12 | reward<br>question<br>digital<br>aim<br>secret<br>travel<br>caught<br>enforce<br>age<br>drastic<br>hub<br>among |  
+| bip_39_word_new_br_2 | reward<br>question |  
+| bip_39_word_new_br_3 | reward<br>question<br>digital |  
+| bip_39_word_new_br_4 | reward<br>question<br>digital<br>aim |  
+| bip_39_word_new_br_5 | reward<br>question<br>digital<br>aim<br>secret |  
+| bip_39_word_new_br_6 | reward<br>question<br>digital<br>aim<br>secret<br>travel |  
+| bip_39_word_new_br_7 | reward<br>question<br>digital<br>aim<br>secret<br>travel<br>caught |  
+| bip_39_word_new_br_8 | reward<br>question<br>digital<br>aim<br>secret<br>travel<br>caught<br>enforce |  
+| bip_39_word_new_br_9 | reward<br>question<br>digital<br>aim<br>secret<br>travel<br>caught<br>enforce<br>age |  
+| bip_39_word_new_line_1 | reward |  
+| bip_39_word_new_line_10 | reward
 question
 digital
 aim
@@ -55,7 +55,7 @@ caught
 enforce
 age
 drastic |  
-| bip_39_word_new_line11 | reward
+| bip_39_word_new_line_11 | reward
 question
 digital
 aim
@@ -66,7 +66,7 @@ enforce
 age
 drastic
 hub |  
-| bip_39_word_new_line12 | reward
+| bip_39_word_new_line_12 | reward
 question
 digital
 aim
@@ -78,34 +78,34 @@ age
 drastic
 hub
 among |  
-| bip_39_word_new_line2 | reward
+| bip_39_word_new_line_2 | reward
 question |  
-| bip_39_word_new_line3 | reward
+| bip_39_word_new_line_3 | reward
 question
 digital |  
-| bip_39_word_new_line4 | reward
+| bip_39_word_new_line_4 | reward
 question
 digital
 aim |  
-| bip_39_word_new_line5 | reward
+| bip_39_word_new_line_5 | reward
 question
 digital
 aim
 secret |  
-| bip_39_word_new_line6 | reward
+| bip_39_word_new_line_6 | reward
 question
 digital
 aim
 secret
 travel |  
-| bip_39_word_new_line7 | reward
+| bip_39_word_new_line_7 | reward
 question
 digital
 aim
 secret
 travel
 caught |  
-| bip_39_word_new_line8 | reward
+| bip_39_word_new_line_8 | reward
 question
 digital
 aim
@@ -113,7 +113,7 @@ secret
 travel
 caught
 enforce |  
-| bip_39_word_new_line9 | reward
+| bip_39_word_new_line_9 | reward
 question
 digital
 aim

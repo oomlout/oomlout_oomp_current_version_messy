@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | catch |  
-| bip_39_word_new_br10 | catch<br>shaft<br>soft<br>same<br>soap<br>genre<br>popular<br>long<br>nose<br>mosquito |  
-| bip_39_word_new_br11 | catch<br>shaft<br>soft<br>same<br>soap<br>genre<br>popular<br>long<br>nose<br>mosquito<br>any |  
-| bip_39_word_new_br12 | catch<br>shaft<br>soft<br>same<br>soap<br>genre<br>popular<br>long<br>nose<br>mosquito<br>any<br>action |  
-| bip_39_word_new_br2 | catch<br>shaft |  
-| bip_39_word_new_br3 | catch<br>shaft<br>soft |  
-| bip_39_word_new_br4 | catch<br>shaft<br>soft<br>same |  
-| bip_39_word_new_br5 | catch<br>shaft<br>soft<br>same<br>soap |  
-| bip_39_word_new_br6 | catch<br>shaft<br>soft<br>same<br>soap<br>genre |  
-| bip_39_word_new_br7 | catch<br>shaft<br>soft<br>same<br>soap<br>genre<br>popular |  
-| bip_39_word_new_br8 | catch<br>shaft<br>soft<br>same<br>soap<br>genre<br>popular<br>long |  
-| bip_39_word_new_br9 | catch<br>shaft<br>soft<br>same<br>soap<br>genre<br>popular<br>long<br>nose |  
-| bip_39_word_new_line1 | catch |  
-| bip_39_word_new_line10 | catch
+| bip_39_word_new_br_1 | catch |  
+| bip_39_word_new_br_10 | catch<br>shaft<br>soft<br>same<br>soap<br>genre<br>popular<br>long<br>nose<br>mosquito |  
+| bip_39_word_new_br_11 | catch<br>shaft<br>soft<br>same<br>soap<br>genre<br>popular<br>long<br>nose<br>mosquito<br>any |  
+| bip_39_word_new_br_12 | catch<br>shaft<br>soft<br>same<br>soap<br>genre<br>popular<br>long<br>nose<br>mosquito<br>any<br>action |  
+| bip_39_word_new_br_2 | catch<br>shaft |  
+| bip_39_word_new_br_3 | catch<br>shaft<br>soft |  
+| bip_39_word_new_br_4 | catch<br>shaft<br>soft<br>same |  
+| bip_39_word_new_br_5 | catch<br>shaft<br>soft<br>same<br>soap |  
+| bip_39_word_new_br_6 | catch<br>shaft<br>soft<br>same<br>soap<br>genre |  
+| bip_39_word_new_br_7 | catch<br>shaft<br>soft<br>same<br>soap<br>genre<br>popular |  
+| bip_39_word_new_br_8 | catch<br>shaft<br>soft<br>same<br>soap<br>genre<br>popular<br>long |  
+| bip_39_word_new_br_9 | catch<br>shaft<br>soft<br>same<br>soap<br>genre<br>popular<br>long<br>nose |  
+| bip_39_word_new_line_1 | catch |  
+| bip_39_word_new_line_10 | catch
 shaft
 soft
 same
@@ -55,7 +55,7 @@ popular
 long
 nose
 mosquito |  
-| bip_39_word_new_line11 | catch
+| bip_39_word_new_line_11 | catch
 shaft
 soft
 same
@@ -66,7 +66,7 @@ long
 nose
 mosquito
 any |  
-| bip_39_word_new_line12 | catch
+| bip_39_word_new_line_12 | catch
 shaft
 soft
 same
@@ -78,34 +78,34 @@ nose
 mosquito
 any
 action |  
-| bip_39_word_new_line2 | catch
+| bip_39_word_new_line_2 | catch
 shaft |  
-| bip_39_word_new_line3 | catch
+| bip_39_word_new_line_3 | catch
 shaft
 soft |  
-| bip_39_word_new_line4 | catch
+| bip_39_word_new_line_4 | catch
 shaft
 soft
 same |  
-| bip_39_word_new_line5 | catch
+| bip_39_word_new_line_5 | catch
 shaft
 soft
 same
 soap |  
-| bip_39_word_new_line6 | catch
+| bip_39_word_new_line_6 | catch
 shaft
 soft
 same
 soap
 genre |  
-| bip_39_word_new_line7 | catch
+| bip_39_word_new_line_7 | catch
 shaft
 soft
 same
 soap
 genre
 popular |  
-| bip_39_word_new_line8 | catch
+| bip_39_word_new_line_8 | catch
 shaft
 soft
 same
@@ -113,7 +113,7 @@ soap
 genre
 popular
 long |  
-| bip_39_word_new_line9 | catch
+| bip_39_word_new_line_9 | catch
 shaft
 soft
 same

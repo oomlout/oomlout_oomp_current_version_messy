@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | slice |  
-| bip_39_word_new_br10 | slice<br>brown<br>awful<br>youth<br>science<br>clean<br>stove<br>junk<br>carry<br>toddler |  
-| bip_39_word_new_br11 | slice<br>brown<br>awful<br>youth<br>science<br>clean<br>stove<br>junk<br>carry<br>toddler<br>drink |  
-| bip_39_word_new_br12 | slice<br>brown<br>awful<br>youth<br>science<br>clean<br>stove<br>junk<br>carry<br>toddler<br>drink<br>assist |  
-| bip_39_word_new_br2 | slice<br>brown |  
-| bip_39_word_new_br3 | slice<br>brown<br>awful |  
-| bip_39_word_new_br4 | slice<br>brown<br>awful<br>youth |  
-| bip_39_word_new_br5 | slice<br>brown<br>awful<br>youth<br>science |  
-| bip_39_word_new_br6 | slice<br>brown<br>awful<br>youth<br>science<br>clean |  
-| bip_39_word_new_br7 | slice<br>brown<br>awful<br>youth<br>science<br>clean<br>stove |  
-| bip_39_word_new_br8 | slice<br>brown<br>awful<br>youth<br>science<br>clean<br>stove<br>junk |  
-| bip_39_word_new_br9 | slice<br>brown<br>awful<br>youth<br>science<br>clean<br>stove<br>junk<br>carry |  
-| bip_39_word_new_line1 | slice |  
-| bip_39_word_new_line10 | slice
+| bip_39_word_new_br_1 | slice |  
+| bip_39_word_new_br_10 | slice<br>brown<br>awful<br>youth<br>science<br>clean<br>stove<br>junk<br>carry<br>toddler |  
+| bip_39_word_new_br_11 | slice<br>brown<br>awful<br>youth<br>science<br>clean<br>stove<br>junk<br>carry<br>toddler<br>drink |  
+| bip_39_word_new_br_12 | slice<br>brown<br>awful<br>youth<br>science<br>clean<br>stove<br>junk<br>carry<br>toddler<br>drink<br>assist |  
+| bip_39_word_new_br_2 | slice<br>brown |  
+| bip_39_word_new_br_3 | slice<br>brown<br>awful |  
+| bip_39_word_new_br_4 | slice<br>brown<br>awful<br>youth |  
+| bip_39_word_new_br_5 | slice<br>brown<br>awful<br>youth<br>science |  
+| bip_39_word_new_br_6 | slice<br>brown<br>awful<br>youth<br>science<br>clean |  
+| bip_39_word_new_br_7 | slice<br>brown<br>awful<br>youth<br>science<br>clean<br>stove |  
+| bip_39_word_new_br_8 | slice<br>brown<br>awful<br>youth<br>science<br>clean<br>stove<br>junk |  
+| bip_39_word_new_br_9 | slice<br>brown<br>awful<br>youth<br>science<br>clean<br>stove<br>junk<br>carry |  
+| bip_39_word_new_line_1 | slice |  
+| bip_39_word_new_line_10 | slice
 brown
 awful
 youth
@@ -55,7 +55,7 @@ stove
 junk
 carry
 toddler |  
-| bip_39_word_new_line11 | slice
+| bip_39_word_new_line_11 | slice
 brown
 awful
 youth
@@ -66,7 +66,7 @@ junk
 carry
 toddler
 drink |  
-| bip_39_word_new_line12 | slice
+| bip_39_word_new_line_12 | slice
 brown
 awful
 youth
@@ -78,34 +78,34 @@ carry
 toddler
 drink
 assist |  
-| bip_39_word_new_line2 | slice
+| bip_39_word_new_line_2 | slice
 brown |  
-| bip_39_word_new_line3 | slice
+| bip_39_word_new_line_3 | slice
 brown
 awful |  
-| bip_39_word_new_line4 | slice
+| bip_39_word_new_line_4 | slice
 brown
 awful
 youth |  
-| bip_39_word_new_line5 | slice
+| bip_39_word_new_line_5 | slice
 brown
 awful
 youth
 science |  
-| bip_39_word_new_line6 | slice
+| bip_39_word_new_line_6 | slice
 brown
 awful
 youth
 science
 clean |  
-| bip_39_word_new_line7 | slice
+| bip_39_word_new_line_7 | slice
 brown
 awful
 youth
 science
 clean
 stove |  
-| bip_39_word_new_line8 | slice
+| bip_39_word_new_line_8 | slice
 brown
 awful
 youth
@@ -113,7 +113,7 @@ science
 clean
 stove
 junk |  
-| bip_39_word_new_line9 | slice
+| bip_39_word_new_line_9 | slice
 brown
 awful
 youth

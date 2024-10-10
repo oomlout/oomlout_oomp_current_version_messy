@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | utility |  
-| bip_39_word_new_br10 | utility<br>impose<br>attract<br>undo<br>improve<br>excess<br>inflict<br>minor<br>fitness<br>pet |  
-| bip_39_word_new_br11 | utility<br>impose<br>attract<br>undo<br>improve<br>excess<br>inflict<br>minor<br>fitness<br>pet<br>search |  
-| bip_39_word_new_br12 | utility<br>impose<br>attract<br>undo<br>improve<br>excess<br>inflict<br>minor<br>fitness<br>pet<br>search<br>ankle |  
-| bip_39_word_new_br2 | utility<br>impose |  
-| bip_39_word_new_br3 | utility<br>impose<br>attract |  
-| bip_39_word_new_br4 | utility<br>impose<br>attract<br>undo |  
-| bip_39_word_new_br5 | utility<br>impose<br>attract<br>undo<br>improve |  
-| bip_39_word_new_br6 | utility<br>impose<br>attract<br>undo<br>improve<br>excess |  
-| bip_39_word_new_br7 | utility<br>impose<br>attract<br>undo<br>improve<br>excess<br>inflict |  
-| bip_39_word_new_br8 | utility<br>impose<br>attract<br>undo<br>improve<br>excess<br>inflict<br>minor |  
-| bip_39_word_new_br9 | utility<br>impose<br>attract<br>undo<br>improve<br>excess<br>inflict<br>minor<br>fitness |  
-| bip_39_word_new_line1 | utility |  
-| bip_39_word_new_line10 | utility
+| bip_39_word_new_br_1 | utility |  
+| bip_39_word_new_br_10 | utility<br>impose<br>attract<br>undo<br>improve<br>excess<br>inflict<br>minor<br>fitness<br>pet |  
+| bip_39_word_new_br_11 | utility<br>impose<br>attract<br>undo<br>improve<br>excess<br>inflict<br>minor<br>fitness<br>pet<br>search |  
+| bip_39_word_new_br_12 | utility<br>impose<br>attract<br>undo<br>improve<br>excess<br>inflict<br>minor<br>fitness<br>pet<br>search<br>ankle |  
+| bip_39_word_new_br_2 | utility<br>impose |  
+| bip_39_word_new_br_3 | utility<br>impose<br>attract |  
+| bip_39_word_new_br_4 | utility<br>impose<br>attract<br>undo |  
+| bip_39_word_new_br_5 | utility<br>impose<br>attract<br>undo<br>improve |  
+| bip_39_word_new_br_6 | utility<br>impose<br>attract<br>undo<br>improve<br>excess |  
+| bip_39_word_new_br_7 | utility<br>impose<br>attract<br>undo<br>improve<br>excess<br>inflict |  
+| bip_39_word_new_br_8 | utility<br>impose<br>attract<br>undo<br>improve<br>excess<br>inflict<br>minor |  
+| bip_39_word_new_br_9 | utility<br>impose<br>attract<br>undo<br>improve<br>excess<br>inflict<br>minor<br>fitness |  
+| bip_39_word_new_line_1 | utility |  
+| bip_39_word_new_line_10 | utility
 impose
 attract
 undo
@@ -55,7 +55,7 @@ inflict
 minor
 fitness
 pet |  
-| bip_39_word_new_line11 | utility
+| bip_39_word_new_line_11 | utility
 impose
 attract
 undo
@@ -66,7 +66,7 @@ minor
 fitness
 pet
 search |  
-| bip_39_word_new_line12 | utility
+| bip_39_word_new_line_12 | utility
 impose
 attract
 undo
@@ -78,34 +78,34 @@ fitness
 pet
 search
 ankle |  
-| bip_39_word_new_line2 | utility
+| bip_39_word_new_line_2 | utility
 impose |  
-| bip_39_word_new_line3 | utility
+| bip_39_word_new_line_3 | utility
 impose
 attract |  
-| bip_39_word_new_line4 | utility
+| bip_39_word_new_line_4 | utility
 impose
 attract
 undo |  
-| bip_39_word_new_line5 | utility
+| bip_39_word_new_line_5 | utility
 impose
 attract
 undo
 improve |  
-| bip_39_word_new_line6 | utility
+| bip_39_word_new_line_6 | utility
 impose
 attract
 undo
 improve
 excess |  
-| bip_39_word_new_line7 | utility
+| bip_39_word_new_line_7 | utility
 impose
 attract
 undo
 improve
 excess
 inflict |  
-| bip_39_word_new_line8 | utility
+| bip_39_word_new_line_8 | utility
 impose
 attract
 undo
@@ -113,7 +113,7 @@ improve
 excess
 inflict
 minor |  
-| bip_39_word_new_line9 | utility
+| bip_39_word_new_line_9 | utility
 impose
 attract
 undo

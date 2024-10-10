@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | correct |  
-| bip_39_word_new_br10 | correct<br>engine<br>monster<br>fall<br>ordinary<br>file<br>gentle<br>rug<br>guide<br>palm |  
-| bip_39_word_new_br11 | correct<br>engine<br>monster<br>fall<br>ordinary<br>file<br>gentle<br>rug<br>guide<br>palm<br>caution |  
-| bip_39_word_new_br12 | correct<br>engine<br>monster<br>fall<br>ordinary<br>file<br>gentle<br>rug<br>guide<br>palm<br>caution<br>another |  
-| bip_39_word_new_br2 | correct<br>engine |  
-| bip_39_word_new_br3 | correct<br>engine<br>monster |  
-| bip_39_word_new_br4 | correct<br>engine<br>monster<br>fall |  
-| bip_39_word_new_br5 | correct<br>engine<br>monster<br>fall<br>ordinary |  
-| bip_39_word_new_br6 | correct<br>engine<br>monster<br>fall<br>ordinary<br>file |  
-| bip_39_word_new_br7 | correct<br>engine<br>monster<br>fall<br>ordinary<br>file<br>gentle |  
-| bip_39_word_new_br8 | correct<br>engine<br>monster<br>fall<br>ordinary<br>file<br>gentle<br>rug |  
-| bip_39_word_new_br9 | correct<br>engine<br>monster<br>fall<br>ordinary<br>file<br>gentle<br>rug<br>guide |  
-| bip_39_word_new_line1 | correct |  
-| bip_39_word_new_line10 | correct
+| bip_39_word_new_br_1 | correct |  
+| bip_39_word_new_br_10 | correct<br>engine<br>monster<br>fall<br>ordinary<br>file<br>gentle<br>rug<br>guide<br>palm |  
+| bip_39_word_new_br_11 | correct<br>engine<br>monster<br>fall<br>ordinary<br>file<br>gentle<br>rug<br>guide<br>palm<br>caution |  
+| bip_39_word_new_br_12 | correct<br>engine<br>monster<br>fall<br>ordinary<br>file<br>gentle<br>rug<br>guide<br>palm<br>caution<br>another |  
+| bip_39_word_new_br_2 | correct<br>engine |  
+| bip_39_word_new_br_3 | correct<br>engine<br>monster |  
+| bip_39_word_new_br_4 | correct<br>engine<br>monster<br>fall |  
+| bip_39_word_new_br_5 | correct<br>engine<br>monster<br>fall<br>ordinary |  
+| bip_39_word_new_br_6 | correct<br>engine<br>monster<br>fall<br>ordinary<br>file |  
+| bip_39_word_new_br_7 | correct<br>engine<br>monster<br>fall<br>ordinary<br>file<br>gentle |  
+| bip_39_word_new_br_8 | correct<br>engine<br>monster<br>fall<br>ordinary<br>file<br>gentle<br>rug |  
+| bip_39_word_new_br_9 | correct<br>engine<br>monster<br>fall<br>ordinary<br>file<br>gentle<br>rug<br>guide |  
+| bip_39_word_new_line_1 | correct |  
+| bip_39_word_new_line_10 | correct
 engine
 monster
 fall
@@ -55,7 +55,7 @@ gentle
 rug
 guide
 palm |  
-| bip_39_word_new_line11 | correct
+| bip_39_word_new_line_11 | correct
 engine
 monster
 fall
@@ -66,7 +66,7 @@ rug
 guide
 palm
 caution |  
-| bip_39_word_new_line12 | correct
+| bip_39_word_new_line_12 | correct
 engine
 monster
 fall
@@ -78,34 +78,34 @@ guide
 palm
 caution
 another |  
-| bip_39_word_new_line2 | correct
+| bip_39_word_new_line_2 | correct
 engine |  
-| bip_39_word_new_line3 | correct
+| bip_39_word_new_line_3 | correct
 engine
 monster |  
-| bip_39_word_new_line4 | correct
+| bip_39_word_new_line_4 | correct
 engine
 monster
 fall |  
-| bip_39_word_new_line5 | correct
+| bip_39_word_new_line_5 | correct
 engine
 monster
 fall
 ordinary |  
-| bip_39_word_new_line6 | correct
+| bip_39_word_new_line_6 | correct
 engine
 monster
 fall
 ordinary
 file |  
-| bip_39_word_new_line7 | correct
+| bip_39_word_new_line_7 | correct
 engine
 monster
 fall
 ordinary
 file
 gentle |  
-| bip_39_word_new_line8 | correct
+| bip_39_word_new_line_8 | correct
 engine
 monster
 fall
@@ -113,7 +113,7 @@ ordinary
 file
 gentle
 rug |  
-| bip_39_word_new_line9 | correct
+| bip_39_word_new_line_9 | correct
 engine
 monster
 fall

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | resource |  
-| bip_39_word_new_br10 | resource<br>turn<br>mention<br>vocal<br>ridge<br>toe<br>lawsuit<br>where<br>present<br>moment |  
-| bip_39_word_new_br11 | resource<br>turn<br>mention<br>vocal<br>ridge<br>toe<br>lawsuit<br>where<br>present<br>moment<br>unfair |  
-| bip_39_word_new_br12 | resource<br>turn<br>mention<br>vocal<br>ridge<br>toe<br>lawsuit<br>where<br>present<br>moment<br>unfair<br>amount |  
-| bip_39_word_new_br2 | resource<br>turn |  
-| bip_39_word_new_br3 | resource<br>turn<br>mention |  
-| bip_39_word_new_br4 | resource<br>turn<br>mention<br>vocal |  
-| bip_39_word_new_br5 | resource<br>turn<br>mention<br>vocal<br>ridge |  
-| bip_39_word_new_br6 | resource<br>turn<br>mention<br>vocal<br>ridge<br>toe |  
-| bip_39_word_new_br7 | resource<br>turn<br>mention<br>vocal<br>ridge<br>toe<br>lawsuit |  
-| bip_39_word_new_br8 | resource<br>turn<br>mention<br>vocal<br>ridge<br>toe<br>lawsuit<br>where |  
-| bip_39_word_new_br9 | resource<br>turn<br>mention<br>vocal<br>ridge<br>toe<br>lawsuit<br>where<br>present |  
-| bip_39_word_new_line1 | resource |  
-| bip_39_word_new_line10 | resource
+| bip_39_word_new_br_1 | resource |  
+| bip_39_word_new_br_10 | resource<br>turn<br>mention<br>vocal<br>ridge<br>toe<br>lawsuit<br>where<br>present<br>moment |  
+| bip_39_word_new_br_11 | resource<br>turn<br>mention<br>vocal<br>ridge<br>toe<br>lawsuit<br>where<br>present<br>moment<br>unfair |  
+| bip_39_word_new_br_12 | resource<br>turn<br>mention<br>vocal<br>ridge<br>toe<br>lawsuit<br>where<br>present<br>moment<br>unfair<br>amount |  
+| bip_39_word_new_br_2 | resource<br>turn |  
+| bip_39_word_new_br_3 | resource<br>turn<br>mention |  
+| bip_39_word_new_br_4 | resource<br>turn<br>mention<br>vocal |  
+| bip_39_word_new_br_5 | resource<br>turn<br>mention<br>vocal<br>ridge |  
+| bip_39_word_new_br_6 | resource<br>turn<br>mention<br>vocal<br>ridge<br>toe |  
+| bip_39_word_new_br_7 | resource<br>turn<br>mention<br>vocal<br>ridge<br>toe<br>lawsuit |  
+| bip_39_word_new_br_8 | resource<br>turn<br>mention<br>vocal<br>ridge<br>toe<br>lawsuit<br>where |  
+| bip_39_word_new_br_9 | resource<br>turn<br>mention<br>vocal<br>ridge<br>toe<br>lawsuit<br>where<br>present |  
+| bip_39_word_new_line_1 | resource |  
+| bip_39_word_new_line_10 | resource
 turn
 mention
 vocal
@@ -55,7 +55,7 @@ lawsuit
 where
 present
 moment |  
-| bip_39_word_new_line11 | resource
+| bip_39_word_new_line_11 | resource
 turn
 mention
 vocal
@@ -66,7 +66,7 @@ where
 present
 moment
 unfair |  
-| bip_39_word_new_line12 | resource
+| bip_39_word_new_line_12 | resource
 turn
 mention
 vocal
@@ -78,34 +78,34 @@ present
 moment
 unfair
 amount |  
-| bip_39_word_new_line2 | resource
+| bip_39_word_new_line_2 | resource
 turn |  
-| bip_39_word_new_line3 | resource
+| bip_39_word_new_line_3 | resource
 turn
 mention |  
-| bip_39_word_new_line4 | resource
+| bip_39_word_new_line_4 | resource
 turn
 mention
 vocal |  
-| bip_39_word_new_line5 | resource
+| bip_39_word_new_line_5 | resource
 turn
 mention
 vocal
 ridge |  
-| bip_39_word_new_line6 | resource
+| bip_39_word_new_line_6 | resource
 turn
 mention
 vocal
 ridge
 toe |  
-| bip_39_word_new_line7 | resource
+| bip_39_word_new_line_7 | resource
 turn
 mention
 vocal
 ridge
 toe
 lawsuit |  
-| bip_39_word_new_line8 | resource
+| bip_39_word_new_line_8 | resource
 turn
 mention
 vocal
@@ -113,7 +113,7 @@ ridge
 toe
 lawsuit
 where |  
-| bip_39_word_new_line9 | resource
+| bip_39_word_new_line_9 | resource
 turn
 mention
 vocal

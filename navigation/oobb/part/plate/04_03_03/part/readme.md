@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | crisp |  
-| bip_39_word_new_br10 | crisp<br>admit<br>student<br>output<br>exact<br>stone<br>tired<br>wheat<br>regular<br>joke |  
-| bip_39_word_new_br11 | crisp<br>admit<br>student<br>output<br>exact<br>stone<br>tired<br>wheat<br>regular<br>joke<br>cage |  
-| bip_39_word_new_br12 | crisp<br>admit<br>student<br>output<br>exact<br>stone<br>tired<br>wheat<br>regular<br>joke<br>cage<br>afraid |  
-| bip_39_word_new_br2 | crisp<br>admit |  
-| bip_39_word_new_br3 | crisp<br>admit<br>student |  
-| bip_39_word_new_br4 | crisp<br>admit<br>student<br>output |  
-| bip_39_word_new_br5 | crisp<br>admit<br>student<br>output<br>exact |  
-| bip_39_word_new_br6 | crisp<br>admit<br>student<br>output<br>exact<br>stone |  
-| bip_39_word_new_br7 | crisp<br>admit<br>student<br>output<br>exact<br>stone<br>tired |  
-| bip_39_word_new_br8 | crisp<br>admit<br>student<br>output<br>exact<br>stone<br>tired<br>wheat |  
-| bip_39_word_new_br9 | crisp<br>admit<br>student<br>output<br>exact<br>stone<br>tired<br>wheat<br>regular |  
-| bip_39_word_new_line1 | crisp |  
-| bip_39_word_new_line10 | crisp
+| bip_39_word_new_br_1 | crisp |  
+| bip_39_word_new_br_10 | crisp<br>admit<br>student<br>output<br>exact<br>stone<br>tired<br>wheat<br>regular<br>joke |  
+| bip_39_word_new_br_11 | crisp<br>admit<br>student<br>output<br>exact<br>stone<br>tired<br>wheat<br>regular<br>joke<br>cage |  
+| bip_39_word_new_br_12 | crisp<br>admit<br>student<br>output<br>exact<br>stone<br>tired<br>wheat<br>regular<br>joke<br>cage<br>afraid |  
+| bip_39_word_new_br_2 | crisp<br>admit |  
+| bip_39_word_new_br_3 | crisp<br>admit<br>student |  
+| bip_39_word_new_br_4 | crisp<br>admit<br>student<br>output |  
+| bip_39_word_new_br_5 | crisp<br>admit<br>student<br>output<br>exact |  
+| bip_39_word_new_br_6 | crisp<br>admit<br>student<br>output<br>exact<br>stone |  
+| bip_39_word_new_br_7 | crisp<br>admit<br>student<br>output<br>exact<br>stone<br>tired |  
+| bip_39_word_new_br_8 | crisp<br>admit<br>student<br>output<br>exact<br>stone<br>tired<br>wheat |  
+| bip_39_word_new_br_9 | crisp<br>admit<br>student<br>output<br>exact<br>stone<br>tired<br>wheat<br>regular |  
+| bip_39_word_new_line_1 | crisp |  
+| bip_39_word_new_line_10 | crisp
 admit
 student
 output
@@ -55,7 +55,7 @@ tired
 wheat
 regular
 joke |  
-| bip_39_word_new_line11 | crisp
+| bip_39_word_new_line_11 | crisp
 admit
 student
 output
@@ -66,7 +66,7 @@ wheat
 regular
 joke
 cage |  
-| bip_39_word_new_line12 | crisp
+| bip_39_word_new_line_12 | crisp
 admit
 student
 output
@@ -78,34 +78,34 @@ regular
 joke
 cage
 afraid |  
-| bip_39_word_new_line2 | crisp
+| bip_39_word_new_line_2 | crisp
 admit |  
-| bip_39_word_new_line3 | crisp
+| bip_39_word_new_line_3 | crisp
 admit
 student |  
-| bip_39_word_new_line4 | crisp
+| bip_39_word_new_line_4 | crisp
 admit
 student
 output |  
-| bip_39_word_new_line5 | crisp
+| bip_39_word_new_line_5 | crisp
 admit
 student
 output
 exact |  
-| bip_39_word_new_line6 | crisp
+| bip_39_word_new_line_6 | crisp
 admit
 student
 output
 exact
 stone |  
-| bip_39_word_new_line7 | crisp
+| bip_39_word_new_line_7 | crisp
 admit
 student
 output
 exact
 stone
 tired |  
-| bip_39_word_new_line8 | crisp
+| bip_39_word_new_line_8 | crisp
 admit
 student
 output
@@ -113,7 +113,7 @@ exact
 stone
 tired
 wheat |  
-| bip_39_word_new_line9 | crisp
+| bip_39_word_new_line_9 | crisp
 admit
 student
 output

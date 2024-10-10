@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ghost |  
-| bip_39_word_new_br10 | ghost<br>decade<br>torch<br>spring<br>toilet<br>whisper<br>inside<br>sentence<br>apart<br>second |  
-| bip_39_word_new_br11 | ghost<br>decade<br>torch<br>spring<br>toilet<br>whisper<br>inside<br>sentence<br>apart<br>second<br>grief |  
-| bip_39_word_new_br12 | ghost<br>decade<br>torch<br>spring<br>toilet<br>whisper<br>inside<br>sentence<br>apart<br>second<br>grief<br>assist |  
-| bip_39_word_new_br2 | ghost<br>decade |  
-| bip_39_word_new_br3 | ghost<br>decade<br>torch |  
-| bip_39_word_new_br4 | ghost<br>decade<br>torch<br>spring |  
-| bip_39_word_new_br5 | ghost<br>decade<br>torch<br>spring<br>toilet |  
-| bip_39_word_new_br6 | ghost<br>decade<br>torch<br>spring<br>toilet<br>whisper |  
-| bip_39_word_new_br7 | ghost<br>decade<br>torch<br>spring<br>toilet<br>whisper<br>inside |  
-| bip_39_word_new_br8 | ghost<br>decade<br>torch<br>spring<br>toilet<br>whisper<br>inside<br>sentence |  
-| bip_39_word_new_br9 | ghost<br>decade<br>torch<br>spring<br>toilet<br>whisper<br>inside<br>sentence<br>apart |  
-| bip_39_word_new_line1 | ghost |  
-| bip_39_word_new_line10 | ghost
+| bip_39_word_new_br_1 | ghost |  
+| bip_39_word_new_br_10 | ghost<br>decade<br>torch<br>spring<br>toilet<br>whisper<br>inside<br>sentence<br>apart<br>second |  
+| bip_39_word_new_br_11 | ghost<br>decade<br>torch<br>spring<br>toilet<br>whisper<br>inside<br>sentence<br>apart<br>second<br>grief |  
+| bip_39_word_new_br_12 | ghost<br>decade<br>torch<br>spring<br>toilet<br>whisper<br>inside<br>sentence<br>apart<br>second<br>grief<br>assist |  
+| bip_39_word_new_br_2 | ghost<br>decade |  
+| bip_39_word_new_br_3 | ghost<br>decade<br>torch |  
+| bip_39_word_new_br_4 | ghost<br>decade<br>torch<br>spring |  
+| bip_39_word_new_br_5 | ghost<br>decade<br>torch<br>spring<br>toilet |  
+| bip_39_word_new_br_6 | ghost<br>decade<br>torch<br>spring<br>toilet<br>whisper |  
+| bip_39_word_new_br_7 | ghost<br>decade<br>torch<br>spring<br>toilet<br>whisper<br>inside |  
+| bip_39_word_new_br_8 | ghost<br>decade<br>torch<br>spring<br>toilet<br>whisper<br>inside<br>sentence |  
+| bip_39_word_new_br_9 | ghost<br>decade<br>torch<br>spring<br>toilet<br>whisper<br>inside<br>sentence<br>apart |  
+| bip_39_word_new_line_1 | ghost |  
+| bip_39_word_new_line_10 | ghost
 decade
 torch
 spring
@@ -55,7 +55,7 @@ inside
 sentence
 apart
 second |  
-| bip_39_word_new_line11 | ghost
+| bip_39_word_new_line_11 | ghost
 decade
 torch
 spring
@@ -66,7 +66,7 @@ sentence
 apart
 second
 grief |  
-| bip_39_word_new_line12 | ghost
+| bip_39_word_new_line_12 | ghost
 decade
 torch
 spring
@@ -78,34 +78,34 @@ apart
 second
 grief
 assist |  
-| bip_39_word_new_line2 | ghost
+| bip_39_word_new_line_2 | ghost
 decade |  
-| bip_39_word_new_line3 | ghost
+| bip_39_word_new_line_3 | ghost
 decade
 torch |  
-| bip_39_word_new_line4 | ghost
+| bip_39_word_new_line_4 | ghost
 decade
 torch
 spring |  
-| bip_39_word_new_line5 | ghost
+| bip_39_word_new_line_5 | ghost
 decade
 torch
 spring
 toilet |  
-| bip_39_word_new_line6 | ghost
+| bip_39_word_new_line_6 | ghost
 decade
 torch
 spring
 toilet
 whisper |  
-| bip_39_word_new_line7 | ghost
+| bip_39_word_new_line_7 | ghost
 decade
 torch
 spring
 toilet
 whisper
 inside |  
-| bip_39_word_new_line8 | ghost
+| bip_39_word_new_line_8 | ghost
 decade
 torch
 spring
@@ -113,7 +113,7 @@ toilet
 whisper
 inside
 sentence |  
-| bip_39_word_new_line9 | ghost
+| bip_39_word_new_line_9 | ghost
 decade
 torch
 spring

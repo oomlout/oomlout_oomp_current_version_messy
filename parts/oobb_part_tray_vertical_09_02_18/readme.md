@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fruit |  
-| bip_39_word_new_br10 | fruit<br>lizard<br>chunk<br>asset<br>rubber<br>shy<br>mesh<br>pond<br>mom<br>issue |  
-| bip_39_word_new_br11 | fruit<br>lizard<br>chunk<br>asset<br>rubber<br>shy<br>mesh<br>pond<br>mom<br>issue<br>bounce |  
-| bip_39_word_new_br12 | fruit<br>lizard<br>chunk<br>asset<br>rubber<br>shy<br>mesh<br>pond<br>mom<br>issue<br>bounce<br>arctic |  
-| bip_39_word_new_br2 | fruit<br>lizard |  
-| bip_39_word_new_br3 | fruit<br>lizard<br>chunk |  
-| bip_39_word_new_br4 | fruit<br>lizard<br>chunk<br>asset |  
-| bip_39_word_new_br5 | fruit<br>lizard<br>chunk<br>asset<br>rubber |  
-| bip_39_word_new_br6 | fruit<br>lizard<br>chunk<br>asset<br>rubber<br>shy |  
-| bip_39_word_new_br7 | fruit<br>lizard<br>chunk<br>asset<br>rubber<br>shy<br>mesh |  
-| bip_39_word_new_br8 | fruit<br>lizard<br>chunk<br>asset<br>rubber<br>shy<br>mesh<br>pond |  
-| bip_39_word_new_br9 | fruit<br>lizard<br>chunk<br>asset<br>rubber<br>shy<br>mesh<br>pond<br>mom |  
-| bip_39_word_new_line1 | fruit |  
-| bip_39_word_new_line10 | fruit
+| bip_39_word_new_br_1 | fruit |  
+| bip_39_word_new_br_10 | fruit<br>lizard<br>chunk<br>asset<br>rubber<br>shy<br>mesh<br>pond<br>mom<br>issue |  
+| bip_39_word_new_br_11 | fruit<br>lizard<br>chunk<br>asset<br>rubber<br>shy<br>mesh<br>pond<br>mom<br>issue<br>bounce |  
+| bip_39_word_new_br_12 | fruit<br>lizard<br>chunk<br>asset<br>rubber<br>shy<br>mesh<br>pond<br>mom<br>issue<br>bounce<br>arctic |  
+| bip_39_word_new_br_2 | fruit<br>lizard |  
+| bip_39_word_new_br_3 | fruit<br>lizard<br>chunk |  
+| bip_39_word_new_br_4 | fruit<br>lizard<br>chunk<br>asset |  
+| bip_39_word_new_br_5 | fruit<br>lizard<br>chunk<br>asset<br>rubber |  
+| bip_39_word_new_br_6 | fruit<br>lizard<br>chunk<br>asset<br>rubber<br>shy |  
+| bip_39_word_new_br_7 | fruit<br>lizard<br>chunk<br>asset<br>rubber<br>shy<br>mesh |  
+| bip_39_word_new_br_8 | fruit<br>lizard<br>chunk<br>asset<br>rubber<br>shy<br>mesh<br>pond |  
+| bip_39_word_new_br_9 | fruit<br>lizard<br>chunk<br>asset<br>rubber<br>shy<br>mesh<br>pond<br>mom |  
+| bip_39_word_new_line_1 | fruit |  
+| bip_39_word_new_line_10 | fruit
 lizard
 chunk
 asset
@@ -55,7 +55,7 @@ mesh
 pond
 mom
 issue |  
-| bip_39_word_new_line11 | fruit
+| bip_39_word_new_line_11 | fruit
 lizard
 chunk
 asset
@@ -66,7 +66,7 @@ pond
 mom
 issue
 bounce |  
-| bip_39_word_new_line12 | fruit
+| bip_39_word_new_line_12 | fruit
 lizard
 chunk
 asset
@@ -78,34 +78,34 @@ mom
 issue
 bounce
 arctic |  
-| bip_39_word_new_line2 | fruit
+| bip_39_word_new_line_2 | fruit
 lizard |  
-| bip_39_word_new_line3 | fruit
+| bip_39_word_new_line_3 | fruit
 lizard
 chunk |  
-| bip_39_word_new_line4 | fruit
+| bip_39_word_new_line_4 | fruit
 lizard
 chunk
 asset |  
-| bip_39_word_new_line5 | fruit
+| bip_39_word_new_line_5 | fruit
 lizard
 chunk
 asset
 rubber |  
-| bip_39_word_new_line6 | fruit
+| bip_39_word_new_line_6 | fruit
 lizard
 chunk
 asset
 rubber
 shy |  
-| bip_39_word_new_line7 | fruit
+| bip_39_word_new_line_7 | fruit
 lizard
 chunk
 asset
 rubber
 shy
 mesh |  
-| bip_39_word_new_line8 | fruit
+| bip_39_word_new_line_8 | fruit
 lizard
 chunk
 asset
@@ -113,7 +113,7 @@ rubber
 shy
 mesh
 pond |  
-| bip_39_word_new_line9 | fruit
+| bip_39_word_new_line_9 | fruit
 lizard
 chunk
 asset

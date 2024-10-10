@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | trick |  
-| bip_39_word_new_br10 | trick<br>note<br>unusual<br>public<br>fancy<br>butter<br>proud<br>emerge<br>chef<br>violin |  
-| bip_39_word_new_br11 | trick<br>note<br>unusual<br>public<br>fancy<br>butter<br>proud<br>emerge<br>chef<br>violin<br>recall |  
-| bip_39_word_new_br12 | trick<br>note<br>unusual<br>public<br>fancy<br>butter<br>proud<br>emerge<br>chef<br>violin<br>recall<br>armed |  
-| bip_39_word_new_br2 | trick<br>note |  
-| bip_39_word_new_br3 | trick<br>note<br>unusual |  
-| bip_39_word_new_br4 | trick<br>note<br>unusual<br>public |  
-| bip_39_word_new_br5 | trick<br>note<br>unusual<br>public<br>fancy |  
-| bip_39_word_new_br6 | trick<br>note<br>unusual<br>public<br>fancy<br>butter |  
-| bip_39_word_new_br7 | trick<br>note<br>unusual<br>public<br>fancy<br>butter<br>proud |  
-| bip_39_word_new_br8 | trick<br>note<br>unusual<br>public<br>fancy<br>butter<br>proud<br>emerge |  
-| bip_39_word_new_br9 | trick<br>note<br>unusual<br>public<br>fancy<br>butter<br>proud<br>emerge<br>chef |  
-| bip_39_word_new_line1 | trick |  
-| bip_39_word_new_line10 | trick
+| bip_39_word_new_br_1 | trick |  
+| bip_39_word_new_br_10 | trick<br>note<br>unusual<br>public<br>fancy<br>butter<br>proud<br>emerge<br>chef<br>violin |  
+| bip_39_word_new_br_11 | trick<br>note<br>unusual<br>public<br>fancy<br>butter<br>proud<br>emerge<br>chef<br>violin<br>recall |  
+| bip_39_word_new_br_12 | trick<br>note<br>unusual<br>public<br>fancy<br>butter<br>proud<br>emerge<br>chef<br>violin<br>recall<br>armed |  
+| bip_39_word_new_br_2 | trick<br>note |  
+| bip_39_word_new_br_3 | trick<br>note<br>unusual |  
+| bip_39_word_new_br_4 | trick<br>note<br>unusual<br>public |  
+| bip_39_word_new_br_5 | trick<br>note<br>unusual<br>public<br>fancy |  
+| bip_39_word_new_br_6 | trick<br>note<br>unusual<br>public<br>fancy<br>butter |  
+| bip_39_word_new_br_7 | trick<br>note<br>unusual<br>public<br>fancy<br>butter<br>proud |  
+| bip_39_word_new_br_8 | trick<br>note<br>unusual<br>public<br>fancy<br>butter<br>proud<br>emerge |  
+| bip_39_word_new_br_9 | trick<br>note<br>unusual<br>public<br>fancy<br>butter<br>proud<br>emerge<br>chef |  
+| bip_39_word_new_line_1 | trick |  
+| bip_39_word_new_line_10 | trick
 note
 unusual
 public
@@ -55,7 +55,7 @@ proud
 emerge
 chef
 violin |  
-| bip_39_word_new_line11 | trick
+| bip_39_word_new_line_11 | trick
 note
 unusual
 public
@@ -66,7 +66,7 @@ emerge
 chef
 violin
 recall |  
-| bip_39_word_new_line12 | trick
+| bip_39_word_new_line_12 | trick
 note
 unusual
 public
@@ -78,34 +78,34 @@ chef
 violin
 recall
 armed |  
-| bip_39_word_new_line2 | trick
+| bip_39_word_new_line_2 | trick
 note |  
-| bip_39_word_new_line3 | trick
+| bip_39_word_new_line_3 | trick
 note
 unusual |  
-| bip_39_word_new_line4 | trick
+| bip_39_word_new_line_4 | trick
 note
 unusual
 public |  
-| bip_39_word_new_line5 | trick
+| bip_39_word_new_line_5 | trick
 note
 unusual
 public
 fancy |  
-| bip_39_word_new_line6 | trick
+| bip_39_word_new_line_6 | trick
 note
 unusual
 public
 fancy
 butter |  
-| bip_39_word_new_line7 | trick
+| bip_39_word_new_line_7 | trick
 note
 unusual
 public
 fancy
 butter
 proud |  
-| bip_39_word_new_line8 | trick
+| bip_39_word_new_line_8 | trick
 note
 unusual
 public
@@ -113,7 +113,7 @@ fancy
 butter
 proud
 emerge |  
-| bip_39_word_new_line9 | trick
+| bip_39_word_new_line_9 | trick
 note
 unusual
 public

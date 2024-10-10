@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sting |  
-| bip_39_word_new_br10 | sting<br>flight<br>quarter<br>poverty<br>grunt<br>stick<br>slim<br>inject<br>coin<br>patrol |  
-| bip_39_word_new_br11 | sting<br>flight<br>quarter<br>poverty<br>grunt<br>stick<br>slim<br>inject<br>coin<br>patrol<br>combine |  
-| bip_39_word_new_br12 | sting<br>flight<br>quarter<br>poverty<br>grunt<br>stick<br>slim<br>inject<br>coin<br>patrol<br>combine<br>advice |  
-| bip_39_word_new_br2 | sting<br>flight |  
-| bip_39_word_new_br3 | sting<br>flight<br>quarter |  
-| bip_39_word_new_br4 | sting<br>flight<br>quarter<br>poverty |  
-| bip_39_word_new_br5 | sting<br>flight<br>quarter<br>poverty<br>grunt |  
-| bip_39_word_new_br6 | sting<br>flight<br>quarter<br>poverty<br>grunt<br>stick |  
-| bip_39_word_new_br7 | sting<br>flight<br>quarter<br>poverty<br>grunt<br>stick<br>slim |  
-| bip_39_word_new_br8 | sting<br>flight<br>quarter<br>poverty<br>grunt<br>stick<br>slim<br>inject |  
-| bip_39_word_new_br9 | sting<br>flight<br>quarter<br>poverty<br>grunt<br>stick<br>slim<br>inject<br>coin |  
-| bip_39_word_new_line1 | sting |  
-| bip_39_word_new_line10 | sting
+| bip_39_word_new_br_1 | sting |  
+| bip_39_word_new_br_10 | sting<br>flight<br>quarter<br>poverty<br>grunt<br>stick<br>slim<br>inject<br>coin<br>patrol |  
+| bip_39_word_new_br_11 | sting<br>flight<br>quarter<br>poverty<br>grunt<br>stick<br>slim<br>inject<br>coin<br>patrol<br>combine |  
+| bip_39_word_new_br_12 | sting<br>flight<br>quarter<br>poverty<br>grunt<br>stick<br>slim<br>inject<br>coin<br>patrol<br>combine<br>advice |  
+| bip_39_word_new_br_2 | sting<br>flight |  
+| bip_39_word_new_br_3 | sting<br>flight<br>quarter |  
+| bip_39_word_new_br_4 | sting<br>flight<br>quarter<br>poverty |  
+| bip_39_word_new_br_5 | sting<br>flight<br>quarter<br>poverty<br>grunt |  
+| bip_39_word_new_br_6 | sting<br>flight<br>quarter<br>poverty<br>grunt<br>stick |  
+| bip_39_word_new_br_7 | sting<br>flight<br>quarter<br>poverty<br>grunt<br>stick<br>slim |  
+| bip_39_word_new_br_8 | sting<br>flight<br>quarter<br>poverty<br>grunt<br>stick<br>slim<br>inject |  
+| bip_39_word_new_br_9 | sting<br>flight<br>quarter<br>poverty<br>grunt<br>stick<br>slim<br>inject<br>coin |  
+| bip_39_word_new_line_1 | sting |  
+| bip_39_word_new_line_10 | sting
 flight
 quarter
 poverty
@@ -55,7 +55,7 @@ slim
 inject
 coin
 patrol |  
-| bip_39_word_new_line11 | sting
+| bip_39_word_new_line_11 | sting
 flight
 quarter
 poverty
@@ -66,7 +66,7 @@ inject
 coin
 patrol
 combine |  
-| bip_39_word_new_line12 | sting
+| bip_39_word_new_line_12 | sting
 flight
 quarter
 poverty
@@ -78,34 +78,34 @@ coin
 patrol
 combine
 advice |  
-| bip_39_word_new_line2 | sting
+| bip_39_word_new_line_2 | sting
 flight |  
-| bip_39_word_new_line3 | sting
+| bip_39_word_new_line_3 | sting
 flight
 quarter |  
-| bip_39_word_new_line4 | sting
+| bip_39_word_new_line_4 | sting
 flight
 quarter
 poverty |  
-| bip_39_word_new_line5 | sting
+| bip_39_word_new_line_5 | sting
 flight
 quarter
 poverty
 grunt |  
-| bip_39_word_new_line6 | sting
+| bip_39_word_new_line_6 | sting
 flight
 quarter
 poverty
 grunt
 stick |  
-| bip_39_word_new_line7 | sting
+| bip_39_word_new_line_7 | sting
 flight
 quarter
 poverty
 grunt
 stick
 slim |  
-| bip_39_word_new_line8 | sting
+| bip_39_word_new_line_8 | sting
 flight
 quarter
 poverty
@@ -113,7 +113,7 @@ grunt
 stick
 slim
 inject |  
-| bip_39_word_new_line9 | sting
+| bip_39_word_new_line_9 | sting
 flight
 quarter
 poverty

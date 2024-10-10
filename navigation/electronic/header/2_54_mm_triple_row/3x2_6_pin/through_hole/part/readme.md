@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | okay |  
-| bip_39_word_new_br10 | okay<br>august<br>buyer<br>art<br>tell<br>emerge<br>trigger<br>illness<br>gospel<br>trash |  
-| bip_39_word_new_br11 | okay<br>august<br>buyer<br>art<br>tell<br>emerge<br>trigger<br>illness<br>gospel<br>trash<br>grape |  
-| bip_39_word_new_br12 | okay<br>august<br>buyer<br>art<br>tell<br>emerge<br>trigger<br>illness<br>gospel<br>trash<br>grape<br>abstract |  
-| bip_39_word_new_br2 | okay<br>august |  
-| bip_39_word_new_br3 | okay<br>august<br>buyer |  
-| bip_39_word_new_br4 | okay<br>august<br>buyer<br>art |  
-| bip_39_word_new_br5 | okay<br>august<br>buyer<br>art<br>tell |  
-| bip_39_word_new_br6 | okay<br>august<br>buyer<br>art<br>tell<br>emerge |  
-| bip_39_word_new_br7 | okay<br>august<br>buyer<br>art<br>tell<br>emerge<br>trigger |  
-| bip_39_word_new_br8 | okay<br>august<br>buyer<br>art<br>tell<br>emerge<br>trigger<br>illness |  
-| bip_39_word_new_br9 | okay<br>august<br>buyer<br>art<br>tell<br>emerge<br>trigger<br>illness<br>gospel |  
-| bip_39_word_new_line1 | okay |  
-| bip_39_word_new_line10 | okay
+| bip_39_word_new_br_1 | okay |  
+| bip_39_word_new_br_10 | okay<br>august<br>buyer<br>art<br>tell<br>emerge<br>trigger<br>illness<br>gospel<br>trash |  
+| bip_39_word_new_br_11 | okay<br>august<br>buyer<br>art<br>tell<br>emerge<br>trigger<br>illness<br>gospel<br>trash<br>grape |  
+| bip_39_word_new_br_12 | okay<br>august<br>buyer<br>art<br>tell<br>emerge<br>trigger<br>illness<br>gospel<br>trash<br>grape<br>abstract |  
+| bip_39_word_new_br_2 | okay<br>august |  
+| bip_39_word_new_br_3 | okay<br>august<br>buyer |  
+| bip_39_word_new_br_4 | okay<br>august<br>buyer<br>art |  
+| bip_39_word_new_br_5 | okay<br>august<br>buyer<br>art<br>tell |  
+| bip_39_word_new_br_6 | okay<br>august<br>buyer<br>art<br>tell<br>emerge |  
+| bip_39_word_new_br_7 | okay<br>august<br>buyer<br>art<br>tell<br>emerge<br>trigger |  
+| bip_39_word_new_br_8 | okay<br>august<br>buyer<br>art<br>tell<br>emerge<br>trigger<br>illness |  
+| bip_39_word_new_br_9 | okay<br>august<br>buyer<br>art<br>tell<br>emerge<br>trigger<br>illness<br>gospel |  
+| bip_39_word_new_line_1 | okay |  
+| bip_39_word_new_line_10 | okay
 august
 buyer
 art
@@ -55,7 +55,7 @@ trigger
 illness
 gospel
 trash |  
-| bip_39_word_new_line11 | okay
+| bip_39_word_new_line_11 | okay
 august
 buyer
 art
@@ -66,7 +66,7 @@ illness
 gospel
 trash
 grape |  
-| bip_39_word_new_line12 | okay
+| bip_39_word_new_line_12 | okay
 august
 buyer
 art
@@ -78,34 +78,34 @@ gospel
 trash
 grape
 abstract |  
-| bip_39_word_new_line2 | okay
+| bip_39_word_new_line_2 | okay
 august |  
-| bip_39_word_new_line3 | okay
+| bip_39_word_new_line_3 | okay
 august
 buyer |  
-| bip_39_word_new_line4 | okay
+| bip_39_word_new_line_4 | okay
 august
 buyer
 art |  
-| bip_39_word_new_line5 | okay
+| bip_39_word_new_line_5 | okay
 august
 buyer
 art
 tell |  
-| bip_39_word_new_line6 | okay
+| bip_39_word_new_line_6 | okay
 august
 buyer
 art
 tell
 emerge |  
-| bip_39_word_new_line7 | okay
+| bip_39_word_new_line_7 | okay
 august
 buyer
 art
 tell
 emerge
 trigger |  
-| bip_39_word_new_line8 | okay
+| bip_39_word_new_line_8 | okay
 august
 buyer
 art
@@ -113,7 +113,7 @@ tell
 emerge
 trigger
 illness |  
-| bip_39_word_new_line9 | okay
+| bip_39_word_new_line_9 | okay
 august
 buyer
 art

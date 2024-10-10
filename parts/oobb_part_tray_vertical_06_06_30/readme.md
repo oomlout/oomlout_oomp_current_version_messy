@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | desk |  
-| bip_39_word_new_br10 | desk<br>net<br>segment<br>stamp<br>physical<br>avocado<br>strike<br>mix<br>thumb<br>frog |  
-| bip_39_word_new_br11 | desk<br>net<br>segment<br>stamp<br>physical<br>avocado<br>strike<br>mix<br>thumb<br>frog<br>galaxy |  
-| bip_39_word_new_br12 | desk<br>net<br>segment<br>stamp<br>physical<br>avocado<br>strike<br>mix<br>thumb<br>frog<br>galaxy<br>adult |  
-| bip_39_word_new_br2 | desk<br>net |  
-| bip_39_word_new_br3 | desk<br>net<br>segment |  
-| bip_39_word_new_br4 | desk<br>net<br>segment<br>stamp |  
-| bip_39_word_new_br5 | desk<br>net<br>segment<br>stamp<br>physical |  
-| bip_39_word_new_br6 | desk<br>net<br>segment<br>stamp<br>physical<br>avocado |  
-| bip_39_word_new_br7 | desk<br>net<br>segment<br>stamp<br>physical<br>avocado<br>strike |  
-| bip_39_word_new_br8 | desk<br>net<br>segment<br>stamp<br>physical<br>avocado<br>strike<br>mix |  
-| bip_39_word_new_br9 | desk<br>net<br>segment<br>stamp<br>physical<br>avocado<br>strike<br>mix<br>thumb |  
-| bip_39_word_new_line1 | desk |  
-| bip_39_word_new_line10 | desk
+| bip_39_word_new_br_1 | desk |  
+| bip_39_word_new_br_10 | desk<br>net<br>segment<br>stamp<br>physical<br>avocado<br>strike<br>mix<br>thumb<br>frog |  
+| bip_39_word_new_br_11 | desk<br>net<br>segment<br>stamp<br>physical<br>avocado<br>strike<br>mix<br>thumb<br>frog<br>galaxy |  
+| bip_39_word_new_br_12 | desk<br>net<br>segment<br>stamp<br>physical<br>avocado<br>strike<br>mix<br>thumb<br>frog<br>galaxy<br>adult |  
+| bip_39_word_new_br_2 | desk<br>net |  
+| bip_39_word_new_br_3 | desk<br>net<br>segment |  
+| bip_39_word_new_br_4 | desk<br>net<br>segment<br>stamp |  
+| bip_39_word_new_br_5 | desk<br>net<br>segment<br>stamp<br>physical |  
+| bip_39_word_new_br_6 | desk<br>net<br>segment<br>stamp<br>physical<br>avocado |  
+| bip_39_word_new_br_7 | desk<br>net<br>segment<br>stamp<br>physical<br>avocado<br>strike |  
+| bip_39_word_new_br_8 | desk<br>net<br>segment<br>stamp<br>physical<br>avocado<br>strike<br>mix |  
+| bip_39_word_new_br_9 | desk<br>net<br>segment<br>stamp<br>physical<br>avocado<br>strike<br>mix<br>thumb |  
+| bip_39_word_new_line_1 | desk |  
+| bip_39_word_new_line_10 | desk
 net
 segment
 stamp
@@ -55,7 +55,7 @@ strike
 mix
 thumb
 frog |  
-| bip_39_word_new_line11 | desk
+| bip_39_word_new_line_11 | desk
 net
 segment
 stamp
@@ -66,7 +66,7 @@ mix
 thumb
 frog
 galaxy |  
-| bip_39_word_new_line12 | desk
+| bip_39_word_new_line_12 | desk
 net
 segment
 stamp
@@ -78,34 +78,34 @@ thumb
 frog
 galaxy
 adult |  
-| bip_39_word_new_line2 | desk
+| bip_39_word_new_line_2 | desk
 net |  
-| bip_39_word_new_line3 | desk
+| bip_39_word_new_line_3 | desk
 net
 segment |  
-| bip_39_word_new_line4 | desk
+| bip_39_word_new_line_4 | desk
 net
 segment
 stamp |  
-| bip_39_word_new_line5 | desk
+| bip_39_word_new_line_5 | desk
 net
 segment
 stamp
 physical |  
-| bip_39_word_new_line6 | desk
+| bip_39_word_new_line_6 | desk
 net
 segment
 stamp
 physical
 avocado |  
-| bip_39_word_new_line7 | desk
+| bip_39_word_new_line_7 | desk
 net
 segment
 stamp
 physical
 avocado
 strike |  
-| bip_39_word_new_line8 | desk
+| bip_39_word_new_line_8 | desk
 net
 segment
 stamp
@@ -113,7 +113,7 @@ physical
 avocado
 strike
 mix |  
-| bip_39_word_new_line9 | desk
+| bip_39_word_new_line_9 | desk
 net
 segment
 stamp

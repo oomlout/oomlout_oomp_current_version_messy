@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bag |  
-| bip_39_word_new_br10 | bag<br>loan<br>pilot<br>outdoor<br>gown<br>olympic<br>shy<br>decade<br>great<br>seminar |  
-| bip_39_word_new_br11 | bag<br>loan<br>pilot<br>outdoor<br>gown<br>olympic<br>shy<br>decade<br>great<br>seminar<br>buyer |  
-| bip_39_word_new_br12 | bag<br>loan<br>pilot<br>outdoor<br>gown<br>olympic<br>shy<br>decade<br>great<br>seminar<br>buyer<br>audit |  
-| bip_39_word_new_br2 | bag<br>loan |  
-| bip_39_word_new_br3 | bag<br>loan<br>pilot |  
-| bip_39_word_new_br4 | bag<br>loan<br>pilot<br>outdoor |  
-| bip_39_word_new_br5 | bag<br>loan<br>pilot<br>outdoor<br>gown |  
-| bip_39_word_new_br6 | bag<br>loan<br>pilot<br>outdoor<br>gown<br>olympic |  
-| bip_39_word_new_br7 | bag<br>loan<br>pilot<br>outdoor<br>gown<br>olympic<br>shy |  
-| bip_39_word_new_br8 | bag<br>loan<br>pilot<br>outdoor<br>gown<br>olympic<br>shy<br>decade |  
-| bip_39_word_new_br9 | bag<br>loan<br>pilot<br>outdoor<br>gown<br>olympic<br>shy<br>decade<br>great |  
-| bip_39_word_new_line1 | bag |  
-| bip_39_word_new_line10 | bag
+| bip_39_word_new_br_1 | bag |  
+| bip_39_word_new_br_10 | bag<br>loan<br>pilot<br>outdoor<br>gown<br>olympic<br>shy<br>decade<br>great<br>seminar |  
+| bip_39_word_new_br_11 | bag<br>loan<br>pilot<br>outdoor<br>gown<br>olympic<br>shy<br>decade<br>great<br>seminar<br>buyer |  
+| bip_39_word_new_br_12 | bag<br>loan<br>pilot<br>outdoor<br>gown<br>olympic<br>shy<br>decade<br>great<br>seminar<br>buyer<br>audit |  
+| bip_39_word_new_br_2 | bag<br>loan |  
+| bip_39_word_new_br_3 | bag<br>loan<br>pilot |  
+| bip_39_word_new_br_4 | bag<br>loan<br>pilot<br>outdoor |  
+| bip_39_word_new_br_5 | bag<br>loan<br>pilot<br>outdoor<br>gown |  
+| bip_39_word_new_br_6 | bag<br>loan<br>pilot<br>outdoor<br>gown<br>olympic |  
+| bip_39_word_new_br_7 | bag<br>loan<br>pilot<br>outdoor<br>gown<br>olympic<br>shy |  
+| bip_39_word_new_br_8 | bag<br>loan<br>pilot<br>outdoor<br>gown<br>olympic<br>shy<br>decade |  
+| bip_39_word_new_br_9 | bag<br>loan<br>pilot<br>outdoor<br>gown<br>olympic<br>shy<br>decade<br>great |  
+| bip_39_word_new_line_1 | bag |  
+| bip_39_word_new_line_10 | bag
 loan
 pilot
 outdoor
@@ -55,7 +55,7 @@ shy
 decade
 great
 seminar |  
-| bip_39_word_new_line11 | bag
+| bip_39_word_new_line_11 | bag
 loan
 pilot
 outdoor
@@ -66,7 +66,7 @@ decade
 great
 seminar
 buyer |  
-| bip_39_word_new_line12 | bag
+| bip_39_word_new_line_12 | bag
 loan
 pilot
 outdoor
@@ -78,34 +78,34 @@ great
 seminar
 buyer
 audit |  
-| bip_39_word_new_line2 | bag
+| bip_39_word_new_line_2 | bag
 loan |  
-| bip_39_word_new_line3 | bag
+| bip_39_word_new_line_3 | bag
 loan
 pilot |  
-| bip_39_word_new_line4 | bag
+| bip_39_word_new_line_4 | bag
 loan
 pilot
 outdoor |  
-| bip_39_word_new_line5 | bag
+| bip_39_word_new_line_5 | bag
 loan
 pilot
 outdoor
 gown |  
-| bip_39_word_new_line6 | bag
+| bip_39_word_new_line_6 | bag
 loan
 pilot
 outdoor
 gown
 olympic |  
-| bip_39_word_new_line7 | bag
+| bip_39_word_new_line_7 | bag
 loan
 pilot
 outdoor
 gown
 olympic
 shy |  
-| bip_39_word_new_line8 | bag
+| bip_39_word_new_line_8 | bag
 loan
 pilot
 outdoor
@@ -113,7 +113,7 @@ gown
 olympic
 shy
 decade |  
-| bip_39_word_new_line9 | bag
+| bip_39_word_new_line_9 | bag
 loan
 pilot
 outdoor

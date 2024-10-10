@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | tone |  
-| bip_39_word_new_br10 | tone<br>valley<br>pepper<br>hockey<br>invite<br>pelican<br>curve<br>ticket<br>diesel<br>penalty |  
-| bip_39_word_new_br11 | tone<br>valley<br>pepper<br>hockey<br>invite<br>pelican<br>curve<br>ticket<br>diesel<br>penalty<br>crawl |  
-| bip_39_word_new_br12 | tone<br>valley<br>pepper<br>hockey<br>invite<br>pelican<br>curve<br>ticket<br>diesel<br>penalty<br>crawl<br>alter |  
-| bip_39_word_new_br2 | tone<br>valley |  
-| bip_39_word_new_br3 | tone<br>valley<br>pepper |  
-| bip_39_word_new_br4 | tone<br>valley<br>pepper<br>hockey |  
-| bip_39_word_new_br5 | tone<br>valley<br>pepper<br>hockey<br>invite |  
-| bip_39_word_new_br6 | tone<br>valley<br>pepper<br>hockey<br>invite<br>pelican |  
-| bip_39_word_new_br7 | tone<br>valley<br>pepper<br>hockey<br>invite<br>pelican<br>curve |  
-| bip_39_word_new_br8 | tone<br>valley<br>pepper<br>hockey<br>invite<br>pelican<br>curve<br>ticket |  
-| bip_39_word_new_br9 | tone<br>valley<br>pepper<br>hockey<br>invite<br>pelican<br>curve<br>ticket<br>diesel |  
-| bip_39_word_new_line1 | tone |  
-| bip_39_word_new_line10 | tone
+| bip_39_word_new_br_1 | tone |  
+| bip_39_word_new_br_10 | tone<br>valley<br>pepper<br>hockey<br>invite<br>pelican<br>curve<br>ticket<br>diesel<br>penalty |  
+| bip_39_word_new_br_11 | tone<br>valley<br>pepper<br>hockey<br>invite<br>pelican<br>curve<br>ticket<br>diesel<br>penalty<br>crawl |  
+| bip_39_word_new_br_12 | tone<br>valley<br>pepper<br>hockey<br>invite<br>pelican<br>curve<br>ticket<br>diesel<br>penalty<br>crawl<br>alter |  
+| bip_39_word_new_br_2 | tone<br>valley |  
+| bip_39_word_new_br_3 | tone<br>valley<br>pepper |  
+| bip_39_word_new_br_4 | tone<br>valley<br>pepper<br>hockey |  
+| bip_39_word_new_br_5 | tone<br>valley<br>pepper<br>hockey<br>invite |  
+| bip_39_word_new_br_6 | tone<br>valley<br>pepper<br>hockey<br>invite<br>pelican |  
+| bip_39_word_new_br_7 | tone<br>valley<br>pepper<br>hockey<br>invite<br>pelican<br>curve |  
+| bip_39_word_new_br_8 | tone<br>valley<br>pepper<br>hockey<br>invite<br>pelican<br>curve<br>ticket |  
+| bip_39_word_new_br_9 | tone<br>valley<br>pepper<br>hockey<br>invite<br>pelican<br>curve<br>ticket<br>diesel |  
+| bip_39_word_new_line_1 | tone |  
+| bip_39_word_new_line_10 | tone
 valley
 pepper
 hockey
@@ -55,7 +55,7 @@ curve
 ticket
 diesel
 penalty |  
-| bip_39_word_new_line11 | tone
+| bip_39_word_new_line_11 | tone
 valley
 pepper
 hockey
@@ -66,7 +66,7 @@ ticket
 diesel
 penalty
 crawl |  
-| bip_39_word_new_line12 | tone
+| bip_39_word_new_line_12 | tone
 valley
 pepper
 hockey
@@ -78,34 +78,34 @@ diesel
 penalty
 crawl
 alter |  
-| bip_39_word_new_line2 | tone
+| bip_39_word_new_line_2 | tone
 valley |  
-| bip_39_word_new_line3 | tone
+| bip_39_word_new_line_3 | tone
 valley
 pepper |  
-| bip_39_word_new_line4 | tone
+| bip_39_word_new_line_4 | tone
 valley
 pepper
 hockey |  
-| bip_39_word_new_line5 | tone
+| bip_39_word_new_line_5 | tone
 valley
 pepper
 hockey
 invite |  
-| bip_39_word_new_line6 | tone
+| bip_39_word_new_line_6 | tone
 valley
 pepper
 hockey
 invite
 pelican |  
-| bip_39_word_new_line7 | tone
+| bip_39_word_new_line_7 | tone
 valley
 pepper
 hockey
 invite
 pelican
 curve |  
-| bip_39_word_new_line8 | tone
+| bip_39_word_new_line_8 | tone
 valley
 pepper
 hockey
@@ -113,7 +113,7 @@ invite
 pelican
 curve
 ticket |  
-| bip_39_word_new_line9 | tone
+| bip_39_word_new_line_9 | tone
 valley
 pepper
 hockey

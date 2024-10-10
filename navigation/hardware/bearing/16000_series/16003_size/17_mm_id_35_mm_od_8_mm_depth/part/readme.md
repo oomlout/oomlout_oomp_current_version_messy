@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | system |  
-| bip_39_word_new_br10 | system<br>void<br>rent<br>coral<br>name<br>load<br>fatigue<br>spot<br>powder<br>flock |  
-| bip_39_word_new_br11 | system<br>void<br>rent<br>coral<br>name<br>load<br>fatigue<br>spot<br>powder<br>flock<br>unit |  
-| bip_39_word_new_br12 | system<br>void<br>rent<br>coral<br>name<br>load<br>fatigue<br>spot<br>powder<br>flock<br>unit<br>athlete |  
-| bip_39_word_new_br2 | system<br>void |  
-| bip_39_word_new_br3 | system<br>void<br>rent |  
-| bip_39_word_new_br4 | system<br>void<br>rent<br>coral |  
-| bip_39_word_new_br5 | system<br>void<br>rent<br>coral<br>name |  
-| bip_39_word_new_br6 | system<br>void<br>rent<br>coral<br>name<br>load |  
-| bip_39_word_new_br7 | system<br>void<br>rent<br>coral<br>name<br>load<br>fatigue |  
-| bip_39_word_new_br8 | system<br>void<br>rent<br>coral<br>name<br>load<br>fatigue<br>spot |  
-| bip_39_word_new_br9 | system<br>void<br>rent<br>coral<br>name<br>load<br>fatigue<br>spot<br>powder |  
-| bip_39_word_new_line1 | system |  
-| bip_39_word_new_line10 | system
+| bip_39_word_new_br_1 | system |  
+| bip_39_word_new_br_10 | system<br>void<br>rent<br>coral<br>name<br>load<br>fatigue<br>spot<br>powder<br>flock |  
+| bip_39_word_new_br_11 | system<br>void<br>rent<br>coral<br>name<br>load<br>fatigue<br>spot<br>powder<br>flock<br>unit |  
+| bip_39_word_new_br_12 | system<br>void<br>rent<br>coral<br>name<br>load<br>fatigue<br>spot<br>powder<br>flock<br>unit<br>athlete |  
+| bip_39_word_new_br_2 | system<br>void |  
+| bip_39_word_new_br_3 | system<br>void<br>rent |  
+| bip_39_word_new_br_4 | system<br>void<br>rent<br>coral |  
+| bip_39_word_new_br_5 | system<br>void<br>rent<br>coral<br>name |  
+| bip_39_word_new_br_6 | system<br>void<br>rent<br>coral<br>name<br>load |  
+| bip_39_word_new_br_7 | system<br>void<br>rent<br>coral<br>name<br>load<br>fatigue |  
+| bip_39_word_new_br_8 | system<br>void<br>rent<br>coral<br>name<br>load<br>fatigue<br>spot |  
+| bip_39_word_new_br_9 | system<br>void<br>rent<br>coral<br>name<br>load<br>fatigue<br>spot<br>powder |  
+| bip_39_word_new_line_1 | system |  
+| bip_39_word_new_line_10 | system
 void
 rent
 coral
@@ -55,7 +55,7 @@ fatigue
 spot
 powder
 flock |  
-| bip_39_word_new_line11 | system
+| bip_39_word_new_line_11 | system
 void
 rent
 coral
@@ -66,7 +66,7 @@ spot
 powder
 flock
 unit |  
-| bip_39_word_new_line12 | system
+| bip_39_word_new_line_12 | system
 void
 rent
 coral
@@ -78,34 +78,34 @@ powder
 flock
 unit
 athlete |  
-| bip_39_word_new_line2 | system
+| bip_39_word_new_line_2 | system
 void |  
-| bip_39_word_new_line3 | system
+| bip_39_word_new_line_3 | system
 void
 rent |  
-| bip_39_word_new_line4 | system
+| bip_39_word_new_line_4 | system
 void
 rent
 coral |  
-| bip_39_word_new_line5 | system
+| bip_39_word_new_line_5 | system
 void
 rent
 coral
 name |  
-| bip_39_word_new_line6 | system
+| bip_39_word_new_line_6 | system
 void
 rent
 coral
 name
 load |  
-| bip_39_word_new_line7 | system
+| bip_39_word_new_line_7 | system
 void
 rent
 coral
 name
 load
 fatigue |  
-| bip_39_word_new_line8 | system
+| bip_39_word_new_line_8 | system
 void
 rent
 coral
@@ -113,7 +113,7 @@ name
 load
 fatigue
 spot |  
-| bip_39_word_new_line9 | system
+| bip_39_word_new_line_9 | system
 void
 rent
 coral

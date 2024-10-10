@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bounce |  
-| bip_39_word_new_br10 | bounce<br>picnic<br>try<br>width<br>sleep<br>unaware<br>blind<br>physical<br>alley<br>adjust |  
-| bip_39_word_new_br11 | bounce<br>picnic<br>try<br>width<br>sleep<br>unaware<br>blind<br>physical<br>alley<br>adjust<br>clutch |  
-| bip_39_word_new_br12 | bounce<br>picnic<br>try<br>width<br>sleep<br>unaware<br>blind<br>physical<br>alley<br>adjust<br>clutch<br>allow |  
-| bip_39_word_new_br2 | bounce<br>picnic |  
-| bip_39_word_new_br3 | bounce<br>picnic<br>try |  
-| bip_39_word_new_br4 | bounce<br>picnic<br>try<br>width |  
-| bip_39_word_new_br5 | bounce<br>picnic<br>try<br>width<br>sleep |  
-| bip_39_word_new_br6 | bounce<br>picnic<br>try<br>width<br>sleep<br>unaware |  
-| bip_39_word_new_br7 | bounce<br>picnic<br>try<br>width<br>sleep<br>unaware<br>blind |  
-| bip_39_word_new_br8 | bounce<br>picnic<br>try<br>width<br>sleep<br>unaware<br>blind<br>physical |  
-| bip_39_word_new_br9 | bounce<br>picnic<br>try<br>width<br>sleep<br>unaware<br>blind<br>physical<br>alley |  
-| bip_39_word_new_line1 | bounce |  
-| bip_39_word_new_line10 | bounce
+| bip_39_word_new_br_1 | bounce |  
+| bip_39_word_new_br_10 | bounce<br>picnic<br>try<br>width<br>sleep<br>unaware<br>blind<br>physical<br>alley<br>adjust |  
+| bip_39_word_new_br_11 | bounce<br>picnic<br>try<br>width<br>sleep<br>unaware<br>blind<br>physical<br>alley<br>adjust<br>clutch |  
+| bip_39_word_new_br_12 | bounce<br>picnic<br>try<br>width<br>sleep<br>unaware<br>blind<br>physical<br>alley<br>adjust<br>clutch<br>allow |  
+| bip_39_word_new_br_2 | bounce<br>picnic |  
+| bip_39_word_new_br_3 | bounce<br>picnic<br>try |  
+| bip_39_word_new_br_4 | bounce<br>picnic<br>try<br>width |  
+| bip_39_word_new_br_5 | bounce<br>picnic<br>try<br>width<br>sleep |  
+| bip_39_word_new_br_6 | bounce<br>picnic<br>try<br>width<br>sleep<br>unaware |  
+| bip_39_word_new_br_7 | bounce<br>picnic<br>try<br>width<br>sleep<br>unaware<br>blind |  
+| bip_39_word_new_br_8 | bounce<br>picnic<br>try<br>width<br>sleep<br>unaware<br>blind<br>physical |  
+| bip_39_word_new_br_9 | bounce<br>picnic<br>try<br>width<br>sleep<br>unaware<br>blind<br>physical<br>alley |  
+| bip_39_word_new_line_1 | bounce |  
+| bip_39_word_new_line_10 | bounce
 picnic
 try
 width
@@ -55,7 +55,7 @@ blind
 physical
 alley
 adjust |  
-| bip_39_word_new_line11 | bounce
+| bip_39_word_new_line_11 | bounce
 picnic
 try
 width
@@ -66,7 +66,7 @@ physical
 alley
 adjust
 clutch |  
-| bip_39_word_new_line12 | bounce
+| bip_39_word_new_line_12 | bounce
 picnic
 try
 width
@@ -78,34 +78,34 @@ alley
 adjust
 clutch
 allow |  
-| bip_39_word_new_line2 | bounce
+| bip_39_word_new_line_2 | bounce
 picnic |  
-| bip_39_word_new_line3 | bounce
+| bip_39_word_new_line_3 | bounce
 picnic
 try |  
-| bip_39_word_new_line4 | bounce
+| bip_39_word_new_line_4 | bounce
 picnic
 try
 width |  
-| bip_39_word_new_line5 | bounce
+| bip_39_word_new_line_5 | bounce
 picnic
 try
 width
 sleep |  
-| bip_39_word_new_line6 | bounce
+| bip_39_word_new_line_6 | bounce
 picnic
 try
 width
 sleep
 unaware |  
-| bip_39_word_new_line7 | bounce
+| bip_39_word_new_line_7 | bounce
 picnic
 try
 width
 sleep
 unaware
 blind |  
-| bip_39_word_new_line8 | bounce
+| bip_39_word_new_line_8 | bounce
 picnic
 try
 width
@@ -113,7 +113,7 @@ sleep
 unaware
 blind
 physical |  
-| bip_39_word_new_line9 | bounce
+| bip_39_word_new_line_9 | bounce
 picnic
 try
 width

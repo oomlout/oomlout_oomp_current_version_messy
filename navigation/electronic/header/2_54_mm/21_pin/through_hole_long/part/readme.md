@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | blood |  
-| bip_39_word_new_br10 | blood<br>wait<br>impose<br>artwork<br>illegal<br>member<br>expose<br>myth<br>federal<br>great |  
-| bip_39_word_new_br11 | blood<br>wait<br>impose<br>artwork<br>illegal<br>member<br>expose<br>myth<br>federal<br>great<br>spy |  
-| bip_39_word_new_br12 | blood<br>wait<br>impose<br>artwork<br>illegal<br>member<br>expose<br>myth<br>federal<br>great<br>spy<br>ancient |  
-| bip_39_word_new_br2 | blood<br>wait |  
-| bip_39_word_new_br3 | blood<br>wait<br>impose |  
-| bip_39_word_new_br4 | blood<br>wait<br>impose<br>artwork |  
-| bip_39_word_new_br5 | blood<br>wait<br>impose<br>artwork<br>illegal |  
-| bip_39_word_new_br6 | blood<br>wait<br>impose<br>artwork<br>illegal<br>member |  
-| bip_39_word_new_br7 | blood<br>wait<br>impose<br>artwork<br>illegal<br>member<br>expose |  
-| bip_39_word_new_br8 | blood<br>wait<br>impose<br>artwork<br>illegal<br>member<br>expose<br>myth |  
-| bip_39_word_new_br9 | blood<br>wait<br>impose<br>artwork<br>illegal<br>member<br>expose<br>myth<br>federal |  
-| bip_39_word_new_line1 | blood |  
-| bip_39_word_new_line10 | blood
+| bip_39_word_new_br_1 | blood |  
+| bip_39_word_new_br_10 | blood<br>wait<br>impose<br>artwork<br>illegal<br>member<br>expose<br>myth<br>federal<br>great |  
+| bip_39_word_new_br_11 | blood<br>wait<br>impose<br>artwork<br>illegal<br>member<br>expose<br>myth<br>federal<br>great<br>spy |  
+| bip_39_word_new_br_12 | blood<br>wait<br>impose<br>artwork<br>illegal<br>member<br>expose<br>myth<br>federal<br>great<br>spy<br>ancient |  
+| bip_39_word_new_br_2 | blood<br>wait |  
+| bip_39_word_new_br_3 | blood<br>wait<br>impose |  
+| bip_39_word_new_br_4 | blood<br>wait<br>impose<br>artwork |  
+| bip_39_word_new_br_5 | blood<br>wait<br>impose<br>artwork<br>illegal |  
+| bip_39_word_new_br_6 | blood<br>wait<br>impose<br>artwork<br>illegal<br>member |  
+| bip_39_word_new_br_7 | blood<br>wait<br>impose<br>artwork<br>illegal<br>member<br>expose |  
+| bip_39_word_new_br_8 | blood<br>wait<br>impose<br>artwork<br>illegal<br>member<br>expose<br>myth |  
+| bip_39_word_new_br_9 | blood<br>wait<br>impose<br>artwork<br>illegal<br>member<br>expose<br>myth<br>federal |  
+| bip_39_word_new_line_1 | blood |  
+| bip_39_word_new_line_10 | blood
 wait
 impose
 artwork
@@ -55,7 +55,7 @@ expose
 myth
 federal
 great |  
-| bip_39_word_new_line11 | blood
+| bip_39_word_new_line_11 | blood
 wait
 impose
 artwork
@@ -66,7 +66,7 @@ myth
 federal
 great
 spy |  
-| bip_39_word_new_line12 | blood
+| bip_39_word_new_line_12 | blood
 wait
 impose
 artwork
@@ -78,34 +78,34 @@ federal
 great
 spy
 ancient |  
-| bip_39_word_new_line2 | blood
+| bip_39_word_new_line_2 | blood
 wait |  
-| bip_39_word_new_line3 | blood
+| bip_39_word_new_line_3 | blood
 wait
 impose |  
-| bip_39_word_new_line4 | blood
+| bip_39_word_new_line_4 | blood
 wait
 impose
 artwork |  
-| bip_39_word_new_line5 | blood
+| bip_39_word_new_line_5 | blood
 wait
 impose
 artwork
 illegal |  
-| bip_39_word_new_line6 | blood
+| bip_39_word_new_line_6 | blood
 wait
 impose
 artwork
 illegal
 member |  
-| bip_39_word_new_line7 | blood
+| bip_39_word_new_line_7 | blood
 wait
 impose
 artwork
 illegal
 member
 expose |  
-| bip_39_word_new_line8 | blood
+| bip_39_word_new_line_8 | blood
 wait
 impose
 artwork
@@ -113,7 +113,7 @@ illegal
 member
 expose
 myth |  
-| bip_39_word_new_line9 | blood
+| bip_39_word_new_line_9 | blood
 wait
 impose
 artwork

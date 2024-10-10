@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gravity |  
-| bip_39_word_new_br10 | gravity<br>pond<br>board<br>maple<br>enrich<br>escape<br>crush<br>hip<br>minimum<br>observe |  
-| bip_39_word_new_br11 | gravity<br>pond<br>board<br>maple<br>enrich<br>escape<br>crush<br>hip<br>minimum<br>observe<br>hungry |  
-| bip_39_word_new_br12 | gravity<br>pond<br>board<br>maple<br>enrich<br>escape<br>crush<br>hip<br>minimum<br>observe<br>hungry<br>accuse |  
-| bip_39_word_new_br2 | gravity<br>pond |  
-| bip_39_word_new_br3 | gravity<br>pond<br>board |  
-| bip_39_word_new_br4 | gravity<br>pond<br>board<br>maple |  
-| bip_39_word_new_br5 | gravity<br>pond<br>board<br>maple<br>enrich |  
-| bip_39_word_new_br6 | gravity<br>pond<br>board<br>maple<br>enrich<br>escape |  
-| bip_39_word_new_br7 | gravity<br>pond<br>board<br>maple<br>enrich<br>escape<br>crush |  
-| bip_39_word_new_br8 | gravity<br>pond<br>board<br>maple<br>enrich<br>escape<br>crush<br>hip |  
-| bip_39_word_new_br9 | gravity<br>pond<br>board<br>maple<br>enrich<br>escape<br>crush<br>hip<br>minimum |  
-| bip_39_word_new_line1 | gravity |  
-| bip_39_word_new_line10 | gravity
+| bip_39_word_new_br_1 | gravity |  
+| bip_39_word_new_br_10 | gravity<br>pond<br>board<br>maple<br>enrich<br>escape<br>crush<br>hip<br>minimum<br>observe |  
+| bip_39_word_new_br_11 | gravity<br>pond<br>board<br>maple<br>enrich<br>escape<br>crush<br>hip<br>minimum<br>observe<br>hungry |  
+| bip_39_word_new_br_12 | gravity<br>pond<br>board<br>maple<br>enrich<br>escape<br>crush<br>hip<br>minimum<br>observe<br>hungry<br>accuse |  
+| bip_39_word_new_br_2 | gravity<br>pond |  
+| bip_39_word_new_br_3 | gravity<br>pond<br>board |  
+| bip_39_word_new_br_4 | gravity<br>pond<br>board<br>maple |  
+| bip_39_word_new_br_5 | gravity<br>pond<br>board<br>maple<br>enrich |  
+| bip_39_word_new_br_6 | gravity<br>pond<br>board<br>maple<br>enrich<br>escape |  
+| bip_39_word_new_br_7 | gravity<br>pond<br>board<br>maple<br>enrich<br>escape<br>crush |  
+| bip_39_word_new_br_8 | gravity<br>pond<br>board<br>maple<br>enrich<br>escape<br>crush<br>hip |  
+| bip_39_word_new_br_9 | gravity<br>pond<br>board<br>maple<br>enrich<br>escape<br>crush<br>hip<br>minimum |  
+| bip_39_word_new_line_1 | gravity |  
+| bip_39_word_new_line_10 | gravity
 pond
 board
 maple
@@ -55,7 +55,7 @@ crush
 hip
 minimum
 observe |  
-| bip_39_word_new_line11 | gravity
+| bip_39_word_new_line_11 | gravity
 pond
 board
 maple
@@ -66,7 +66,7 @@ hip
 minimum
 observe
 hungry |  
-| bip_39_word_new_line12 | gravity
+| bip_39_word_new_line_12 | gravity
 pond
 board
 maple
@@ -78,34 +78,34 @@ minimum
 observe
 hungry
 accuse |  
-| bip_39_word_new_line2 | gravity
+| bip_39_word_new_line_2 | gravity
 pond |  
-| bip_39_word_new_line3 | gravity
+| bip_39_word_new_line_3 | gravity
 pond
 board |  
-| bip_39_word_new_line4 | gravity
+| bip_39_word_new_line_4 | gravity
 pond
 board
 maple |  
-| bip_39_word_new_line5 | gravity
+| bip_39_word_new_line_5 | gravity
 pond
 board
 maple
 enrich |  
-| bip_39_word_new_line6 | gravity
+| bip_39_word_new_line_6 | gravity
 pond
 board
 maple
 enrich
 escape |  
-| bip_39_word_new_line7 | gravity
+| bip_39_word_new_line_7 | gravity
 pond
 board
 maple
 enrich
 escape
 crush |  
-| bip_39_word_new_line8 | gravity
+| bip_39_word_new_line_8 | gravity
 pond
 board
 maple
@@ -113,7 +113,7 @@ enrich
 escape
 crush
 hip |  
-| bip_39_word_new_line9 | gravity
+| bip_39_word_new_line_9 | gravity
 pond
 board
 maple

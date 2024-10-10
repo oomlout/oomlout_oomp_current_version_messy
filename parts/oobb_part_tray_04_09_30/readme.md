@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rate |  
-| bip_39_word_new_br10 | rate<br>person<br>enforce<br>flat<br>impact<br>public<br>prize<br>problem<br>exit<br>primary |  
-| bip_39_word_new_br11 | rate<br>person<br>enforce<br>flat<br>impact<br>public<br>prize<br>problem<br>exit<br>primary<br>naive |  
-| bip_39_word_new_br12 | rate<br>person<br>enforce<br>flat<br>impact<br>public<br>prize<br>problem<br>exit<br>primary<br>naive<br>animal |  
-| bip_39_word_new_br2 | rate<br>person |  
-| bip_39_word_new_br3 | rate<br>person<br>enforce |  
-| bip_39_word_new_br4 | rate<br>person<br>enforce<br>flat |  
-| bip_39_word_new_br5 | rate<br>person<br>enforce<br>flat<br>impact |  
-| bip_39_word_new_br6 | rate<br>person<br>enforce<br>flat<br>impact<br>public |  
-| bip_39_word_new_br7 | rate<br>person<br>enforce<br>flat<br>impact<br>public<br>prize |  
-| bip_39_word_new_br8 | rate<br>person<br>enforce<br>flat<br>impact<br>public<br>prize<br>problem |  
-| bip_39_word_new_br9 | rate<br>person<br>enforce<br>flat<br>impact<br>public<br>prize<br>problem<br>exit |  
-| bip_39_word_new_line1 | rate |  
-| bip_39_word_new_line10 | rate
+| bip_39_word_new_br_1 | rate |  
+| bip_39_word_new_br_10 | rate<br>person<br>enforce<br>flat<br>impact<br>public<br>prize<br>problem<br>exit<br>primary |  
+| bip_39_word_new_br_11 | rate<br>person<br>enforce<br>flat<br>impact<br>public<br>prize<br>problem<br>exit<br>primary<br>naive |  
+| bip_39_word_new_br_12 | rate<br>person<br>enforce<br>flat<br>impact<br>public<br>prize<br>problem<br>exit<br>primary<br>naive<br>animal |  
+| bip_39_word_new_br_2 | rate<br>person |  
+| bip_39_word_new_br_3 | rate<br>person<br>enforce |  
+| bip_39_word_new_br_4 | rate<br>person<br>enforce<br>flat |  
+| bip_39_word_new_br_5 | rate<br>person<br>enforce<br>flat<br>impact |  
+| bip_39_word_new_br_6 | rate<br>person<br>enforce<br>flat<br>impact<br>public |  
+| bip_39_word_new_br_7 | rate<br>person<br>enforce<br>flat<br>impact<br>public<br>prize |  
+| bip_39_word_new_br_8 | rate<br>person<br>enforce<br>flat<br>impact<br>public<br>prize<br>problem |  
+| bip_39_word_new_br_9 | rate<br>person<br>enforce<br>flat<br>impact<br>public<br>prize<br>problem<br>exit |  
+| bip_39_word_new_line_1 | rate |  
+| bip_39_word_new_line_10 | rate
 person
 enforce
 flat
@@ -55,7 +55,7 @@ prize
 problem
 exit
 primary |  
-| bip_39_word_new_line11 | rate
+| bip_39_word_new_line_11 | rate
 person
 enforce
 flat
@@ -66,7 +66,7 @@ problem
 exit
 primary
 naive |  
-| bip_39_word_new_line12 | rate
+| bip_39_word_new_line_12 | rate
 person
 enforce
 flat
@@ -78,34 +78,34 @@ exit
 primary
 naive
 animal |  
-| bip_39_word_new_line2 | rate
+| bip_39_word_new_line_2 | rate
 person |  
-| bip_39_word_new_line3 | rate
+| bip_39_word_new_line_3 | rate
 person
 enforce |  
-| bip_39_word_new_line4 | rate
+| bip_39_word_new_line_4 | rate
 person
 enforce
 flat |  
-| bip_39_word_new_line5 | rate
+| bip_39_word_new_line_5 | rate
 person
 enforce
 flat
 impact |  
-| bip_39_word_new_line6 | rate
+| bip_39_word_new_line_6 | rate
 person
 enforce
 flat
 impact
 public |  
-| bip_39_word_new_line7 | rate
+| bip_39_word_new_line_7 | rate
 person
 enforce
 flat
 impact
 public
 prize |  
-| bip_39_word_new_line8 | rate
+| bip_39_word_new_line_8 | rate
 person
 enforce
 flat
@@ -113,7 +113,7 @@ impact
 public
 prize
 problem |  
-| bip_39_word_new_line9 | rate
+| bip_39_word_new_line_9 | rate
 person
 enforce
 flat

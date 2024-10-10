@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | scrub |  
-| bip_39_word_new_br10 | scrub<br>toss<br>copy<br>can<br>aunt<br>stand<br>plug<br>inquiry<br>vote<br>furnace |  
-| bip_39_word_new_br11 | scrub<br>toss<br>copy<br>can<br>aunt<br>stand<br>plug<br>inquiry<br>vote<br>furnace<br>amount |  
-| bip_39_word_new_br12 | scrub<br>toss<br>copy<br>can<br>aunt<br>stand<br>plug<br>inquiry<br>vote<br>furnace<br>amount<br>asset |  
-| bip_39_word_new_br2 | scrub<br>toss |  
-| bip_39_word_new_br3 | scrub<br>toss<br>copy |  
-| bip_39_word_new_br4 | scrub<br>toss<br>copy<br>can |  
-| bip_39_word_new_br5 | scrub<br>toss<br>copy<br>can<br>aunt |  
-| bip_39_word_new_br6 | scrub<br>toss<br>copy<br>can<br>aunt<br>stand |  
-| bip_39_word_new_br7 | scrub<br>toss<br>copy<br>can<br>aunt<br>stand<br>plug |  
-| bip_39_word_new_br8 | scrub<br>toss<br>copy<br>can<br>aunt<br>stand<br>plug<br>inquiry |  
-| bip_39_word_new_br9 | scrub<br>toss<br>copy<br>can<br>aunt<br>stand<br>plug<br>inquiry<br>vote |  
-| bip_39_word_new_line1 | scrub |  
-| bip_39_word_new_line10 | scrub
+| bip_39_word_new_br_1 | scrub |  
+| bip_39_word_new_br_10 | scrub<br>toss<br>copy<br>can<br>aunt<br>stand<br>plug<br>inquiry<br>vote<br>furnace |  
+| bip_39_word_new_br_11 | scrub<br>toss<br>copy<br>can<br>aunt<br>stand<br>plug<br>inquiry<br>vote<br>furnace<br>amount |  
+| bip_39_word_new_br_12 | scrub<br>toss<br>copy<br>can<br>aunt<br>stand<br>plug<br>inquiry<br>vote<br>furnace<br>amount<br>asset |  
+| bip_39_word_new_br_2 | scrub<br>toss |  
+| bip_39_word_new_br_3 | scrub<br>toss<br>copy |  
+| bip_39_word_new_br_4 | scrub<br>toss<br>copy<br>can |  
+| bip_39_word_new_br_5 | scrub<br>toss<br>copy<br>can<br>aunt |  
+| bip_39_word_new_br_6 | scrub<br>toss<br>copy<br>can<br>aunt<br>stand |  
+| bip_39_word_new_br_7 | scrub<br>toss<br>copy<br>can<br>aunt<br>stand<br>plug |  
+| bip_39_word_new_br_8 | scrub<br>toss<br>copy<br>can<br>aunt<br>stand<br>plug<br>inquiry |  
+| bip_39_word_new_br_9 | scrub<br>toss<br>copy<br>can<br>aunt<br>stand<br>plug<br>inquiry<br>vote |  
+| bip_39_word_new_line_1 | scrub |  
+| bip_39_word_new_line_10 | scrub
 toss
 copy
 can
@@ -55,7 +55,7 @@ plug
 inquiry
 vote
 furnace |  
-| bip_39_word_new_line11 | scrub
+| bip_39_word_new_line_11 | scrub
 toss
 copy
 can
@@ -66,7 +66,7 @@ inquiry
 vote
 furnace
 amount |  
-| bip_39_word_new_line12 | scrub
+| bip_39_word_new_line_12 | scrub
 toss
 copy
 can
@@ -78,34 +78,34 @@ vote
 furnace
 amount
 asset |  
-| bip_39_word_new_line2 | scrub
+| bip_39_word_new_line_2 | scrub
 toss |  
-| bip_39_word_new_line3 | scrub
+| bip_39_word_new_line_3 | scrub
 toss
 copy |  
-| bip_39_word_new_line4 | scrub
+| bip_39_word_new_line_4 | scrub
 toss
 copy
 can |  
-| bip_39_word_new_line5 | scrub
+| bip_39_word_new_line_5 | scrub
 toss
 copy
 can
 aunt |  
-| bip_39_word_new_line6 | scrub
+| bip_39_word_new_line_6 | scrub
 toss
 copy
 can
 aunt
 stand |  
-| bip_39_word_new_line7 | scrub
+| bip_39_word_new_line_7 | scrub
 toss
 copy
 can
 aunt
 stand
 plug |  
-| bip_39_word_new_line8 | scrub
+| bip_39_word_new_line_8 | scrub
 toss
 copy
 can
@@ -113,7 +113,7 @@ aunt
 stand
 plug
 inquiry |  
-| bip_39_word_new_line9 | scrub
+| bip_39_word_new_line_9 | scrub
 toss
 copy
 can

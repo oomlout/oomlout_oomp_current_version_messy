@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | divorce |  
-| bip_39_word_new_br10 | divorce<br>frame<br>always<br>foster<br>accident<br>scene<br>spider<br>excite<br>arrow<br>early |  
-| bip_39_word_new_br11 | divorce<br>frame<br>always<br>foster<br>accident<br>scene<br>spider<br>excite<br>arrow<br>early<br>program |  
-| bip_39_word_new_br12 | divorce<br>frame<br>always<br>foster<br>accident<br>scene<br>spider<br>excite<br>arrow<br>early<br>program<br>attract |  
-| bip_39_word_new_br2 | divorce<br>frame |  
-| bip_39_word_new_br3 | divorce<br>frame<br>always |  
-| bip_39_word_new_br4 | divorce<br>frame<br>always<br>foster |  
-| bip_39_word_new_br5 | divorce<br>frame<br>always<br>foster<br>accident |  
-| bip_39_word_new_br6 | divorce<br>frame<br>always<br>foster<br>accident<br>scene |  
-| bip_39_word_new_br7 | divorce<br>frame<br>always<br>foster<br>accident<br>scene<br>spider |  
-| bip_39_word_new_br8 | divorce<br>frame<br>always<br>foster<br>accident<br>scene<br>spider<br>excite |  
-| bip_39_word_new_br9 | divorce<br>frame<br>always<br>foster<br>accident<br>scene<br>spider<br>excite<br>arrow |  
-| bip_39_word_new_line1 | divorce |  
-| bip_39_word_new_line10 | divorce
+| bip_39_word_new_br_1 | divorce |  
+| bip_39_word_new_br_10 | divorce<br>frame<br>always<br>foster<br>accident<br>scene<br>spider<br>excite<br>arrow<br>early |  
+| bip_39_word_new_br_11 | divorce<br>frame<br>always<br>foster<br>accident<br>scene<br>spider<br>excite<br>arrow<br>early<br>program |  
+| bip_39_word_new_br_12 | divorce<br>frame<br>always<br>foster<br>accident<br>scene<br>spider<br>excite<br>arrow<br>early<br>program<br>attract |  
+| bip_39_word_new_br_2 | divorce<br>frame |  
+| bip_39_word_new_br_3 | divorce<br>frame<br>always |  
+| bip_39_word_new_br_4 | divorce<br>frame<br>always<br>foster |  
+| bip_39_word_new_br_5 | divorce<br>frame<br>always<br>foster<br>accident |  
+| bip_39_word_new_br_6 | divorce<br>frame<br>always<br>foster<br>accident<br>scene |  
+| bip_39_word_new_br_7 | divorce<br>frame<br>always<br>foster<br>accident<br>scene<br>spider |  
+| bip_39_word_new_br_8 | divorce<br>frame<br>always<br>foster<br>accident<br>scene<br>spider<br>excite |  
+| bip_39_word_new_br_9 | divorce<br>frame<br>always<br>foster<br>accident<br>scene<br>spider<br>excite<br>arrow |  
+| bip_39_word_new_line_1 | divorce |  
+| bip_39_word_new_line_10 | divorce
 frame
 always
 foster
@@ -55,7 +55,7 @@ spider
 excite
 arrow
 early |  
-| bip_39_word_new_line11 | divorce
+| bip_39_word_new_line_11 | divorce
 frame
 always
 foster
@@ -66,7 +66,7 @@ excite
 arrow
 early
 program |  
-| bip_39_word_new_line12 | divorce
+| bip_39_word_new_line_12 | divorce
 frame
 always
 foster
@@ -78,34 +78,34 @@ arrow
 early
 program
 attract |  
-| bip_39_word_new_line2 | divorce
+| bip_39_word_new_line_2 | divorce
 frame |  
-| bip_39_word_new_line3 | divorce
+| bip_39_word_new_line_3 | divorce
 frame
 always |  
-| bip_39_word_new_line4 | divorce
+| bip_39_word_new_line_4 | divorce
 frame
 always
 foster |  
-| bip_39_word_new_line5 | divorce
+| bip_39_word_new_line_5 | divorce
 frame
 always
 foster
 accident |  
-| bip_39_word_new_line6 | divorce
+| bip_39_word_new_line_6 | divorce
 frame
 always
 foster
 accident
 scene |  
-| bip_39_word_new_line7 | divorce
+| bip_39_word_new_line_7 | divorce
 frame
 always
 foster
 accident
 scene
 spider |  
-| bip_39_word_new_line8 | divorce
+| bip_39_word_new_line_8 | divorce
 frame
 always
 foster
@@ -113,7 +113,7 @@ accident
 scene
 spider
 excite |  
-| bip_39_word_new_line9 | divorce
+| bip_39_word_new_line_9 | divorce
 frame
 always
 foster

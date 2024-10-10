@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | refuse |  
-| bip_39_word_new_br10 | refuse<br>inflict<br>employ<br>census<br>shy<br>distance<br>hint<br>bench<br>social<br>humble |  
-| bip_39_word_new_br11 | refuse<br>inflict<br>employ<br>census<br>shy<br>distance<br>hint<br>bench<br>social<br>humble<br>answer |  
-| bip_39_word_new_br12 | refuse<br>inflict<br>employ<br>census<br>shy<br>distance<br>hint<br>bench<br>social<br>humble<br>answer<br>angle |  
-| bip_39_word_new_br2 | refuse<br>inflict |  
-| bip_39_word_new_br3 | refuse<br>inflict<br>employ |  
-| bip_39_word_new_br4 | refuse<br>inflict<br>employ<br>census |  
-| bip_39_word_new_br5 | refuse<br>inflict<br>employ<br>census<br>shy |  
-| bip_39_word_new_br6 | refuse<br>inflict<br>employ<br>census<br>shy<br>distance |  
-| bip_39_word_new_br7 | refuse<br>inflict<br>employ<br>census<br>shy<br>distance<br>hint |  
-| bip_39_word_new_br8 | refuse<br>inflict<br>employ<br>census<br>shy<br>distance<br>hint<br>bench |  
-| bip_39_word_new_br9 | refuse<br>inflict<br>employ<br>census<br>shy<br>distance<br>hint<br>bench<br>social |  
-| bip_39_word_new_line1 | refuse |  
-| bip_39_word_new_line10 | refuse
+| bip_39_word_new_br_1 | refuse |  
+| bip_39_word_new_br_10 | refuse<br>inflict<br>employ<br>census<br>shy<br>distance<br>hint<br>bench<br>social<br>humble |  
+| bip_39_word_new_br_11 | refuse<br>inflict<br>employ<br>census<br>shy<br>distance<br>hint<br>bench<br>social<br>humble<br>answer |  
+| bip_39_word_new_br_12 | refuse<br>inflict<br>employ<br>census<br>shy<br>distance<br>hint<br>bench<br>social<br>humble<br>answer<br>angle |  
+| bip_39_word_new_br_2 | refuse<br>inflict |  
+| bip_39_word_new_br_3 | refuse<br>inflict<br>employ |  
+| bip_39_word_new_br_4 | refuse<br>inflict<br>employ<br>census |  
+| bip_39_word_new_br_5 | refuse<br>inflict<br>employ<br>census<br>shy |  
+| bip_39_word_new_br_6 | refuse<br>inflict<br>employ<br>census<br>shy<br>distance |  
+| bip_39_word_new_br_7 | refuse<br>inflict<br>employ<br>census<br>shy<br>distance<br>hint |  
+| bip_39_word_new_br_8 | refuse<br>inflict<br>employ<br>census<br>shy<br>distance<br>hint<br>bench |  
+| bip_39_word_new_br_9 | refuse<br>inflict<br>employ<br>census<br>shy<br>distance<br>hint<br>bench<br>social |  
+| bip_39_word_new_line_1 | refuse |  
+| bip_39_word_new_line_10 | refuse
 inflict
 employ
 census
@@ -55,7 +55,7 @@ hint
 bench
 social
 humble |  
-| bip_39_word_new_line11 | refuse
+| bip_39_word_new_line_11 | refuse
 inflict
 employ
 census
@@ -66,7 +66,7 @@ bench
 social
 humble
 answer |  
-| bip_39_word_new_line12 | refuse
+| bip_39_word_new_line_12 | refuse
 inflict
 employ
 census
@@ -78,34 +78,34 @@ social
 humble
 answer
 angle |  
-| bip_39_word_new_line2 | refuse
+| bip_39_word_new_line_2 | refuse
 inflict |  
-| bip_39_word_new_line3 | refuse
+| bip_39_word_new_line_3 | refuse
 inflict
 employ |  
-| bip_39_word_new_line4 | refuse
+| bip_39_word_new_line_4 | refuse
 inflict
 employ
 census |  
-| bip_39_word_new_line5 | refuse
+| bip_39_word_new_line_5 | refuse
 inflict
 employ
 census
 shy |  
-| bip_39_word_new_line6 | refuse
+| bip_39_word_new_line_6 | refuse
 inflict
 employ
 census
 shy
 distance |  
-| bip_39_word_new_line7 | refuse
+| bip_39_word_new_line_7 | refuse
 inflict
 employ
 census
 shy
 distance
 hint |  
-| bip_39_word_new_line8 | refuse
+| bip_39_word_new_line_8 | refuse
 inflict
 employ
 census
@@ -113,7 +113,7 @@ shy
 distance
 hint
 bench |  
-| bip_39_word_new_line9 | refuse
+| bip_39_word_new_line_9 | refuse
 inflict
 employ
 census

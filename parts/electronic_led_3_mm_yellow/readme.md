@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fade |  
-| bip_39_word_new_br10 | fade<br>chest<br>exclude<br>talent<br>hawk<br>soldier<br>august<br>peasant<br>video<br>truth |  
-| bip_39_word_new_br11 | fade<br>chest<br>exclude<br>talent<br>hawk<br>soldier<br>august<br>peasant<br>video<br>truth<br>fashion |  
-| bip_39_word_new_br12 | fade<br>chest<br>exclude<br>talent<br>hawk<br>soldier<br>august<br>peasant<br>video<br>truth<br>fashion<br>afford |  
-| bip_39_word_new_br2 | fade<br>chest |  
-| bip_39_word_new_br3 | fade<br>chest<br>exclude |  
-| bip_39_word_new_br4 | fade<br>chest<br>exclude<br>talent |  
-| bip_39_word_new_br5 | fade<br>chest<br>exclude<br>talent<br>hawk |  
-| bip_39_word_new_br6 | fade<br>chest<br>exclude<br>talent<br>hawk<br>soldier |  
-| bip_39_word_new_br7 | fade<br>chest<br>exclude<br>talent<br>hawk<br>soldier<br>august |  
-| bip_39_word_new_br8 | fade<br>chest<br>exclude<br>talent<br>hawk<br>soldier<br>august<br>peasant |  
-| bip_39_word_new_br9 | fade<br>chest<br>exclude<br>talent<br>hawk<br>soldier<br>august<br>peasant<br>video |  
-| bip_39_word_new_line1 | fade |  
-| bip_39_word_new_line10 | fade
+| bip_39_word_new_br_1 | fade |  
+| bip_39_word_new_br_10 | fade<br>chest<br>exclude<br>talent<br>hawk<br>soldier<br>august<br>peasant<br>video<br>truth |  
+| bip_39_word_new_br_11 | fade<br>chest<br>exclude<br>talent<br>hawk<br>soldier<br>august<br>peasant<br>video<br>truth<br>fashion |  
+| bip_39_word_new_br_12 | fade<br>chest<br>exclude<br>talent<br>hawk<br>soldier<br>august<br>peasant<br>video<br>truth<br>fashion<br>afford |  
+| bip_39_word_new_br_2 | fade<br>chest |  
+| bip_39_word_new_br_3 | fade<br>chest<br>exclude |  
+| bip_39_word_new_br_4 | fade<br>chest<br>exclude<br>talent |  
+| bip_39_word_new_br_5 | fade<br>chest<br>exclude<br>talent<br>hawk |  
+| bip_39_word_new_br_6 | fade<br>chest<br>exclude<br>talent<br>hawk<br>soldier |  
+| bip_39_word_new_br_7 | fade<br>chest<br>exclude<br>talent<br>hawk<br>soldier<br>august |  
+| bip_39_word_new_br_8 | fade<br>chest<br>exclude<br>talent<br>hawk<br>soldier<br>august<br>peasant |  
+| bip_39_word_new_br_9 | fade<br>chest<br>exclude<br>talent<br>hawk<br>soldier<br>august<br>peasant<br>video |  
+| bip_39_word_new_line_1 | fade |  
+| bip_39_word_new_line_10 | fade
 chest
 exclude
 talent
@@ -55,7 +55,7 @@ august
 peasant
 video
 truth |  
-| bip_39_word_new_line11 | fade
+| bip_39_word_new_line_11 | fade
 chest
 exclude
 talent
@@ -66,7 +66,7 @@ peasant
 video
 truth
 fashion |  
-| bip_39_word_new_line12 | fade
+| bip_39_word_new_line_12 | fade
 chest
 exclude
 talent
@@ -78,34 +78,34 @@ video
 truth
 fashion
 afford |  
-| bip_39_word_new_line2 | fade
+| bip_39_word_new_line_2 | fade
 chest |  
-| bip_39_word_new_line3 | fade
+| bip_39_word_new_line_3 | fade
 chest
 exclude |  
-| bip_39_word_new_line4 | fade
+| bip_39_word_new_line_4 | fade
 chest
 exclude
 talent |  
-| bip_39_word_new_line5 | fade
+| bip_39_word_new_line_5 | fade
 chest
 exclude
 talent
 hawk |  
-| bip_39_word_new_line6 | fade
+| bip_39_word_new_line_6 | fade
 chest
 exclude
 talent
 hawk
 soldier |  
-| bip_39_word_new_line7 | fade
+| bip_39_word_new_line_7 | fade
 chest
 exclude
 talent
 hawk
 soldier
 august |  
-| bip_39_word_new_line8 | fade
+| bip_39_word_new_line_8 | fade
 chest
 exclude
 talent
@@ -113,7 +113,7 @@ hawk
 soldier
 august
 peasant |  
-| bip_39_word_new_line9 | fade
+| bip_39_word_new_line_9 | fade
 chest
 exclude
 talent

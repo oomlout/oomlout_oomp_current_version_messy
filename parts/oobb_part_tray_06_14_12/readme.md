@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | approve |  
-| bip_39_word_new_br10 | approve<br>mask<br>inside<br>spider<br>soul<br>bar<br>pepper<br>gain<br>charge<br>recall |  
-| bip_39_word_new_br11 | approve<br>mask<br>inside<br>spider<br>soul<br>bar<br>pepper<br>gain<br>charge<br>recall<br>beyond |  
-| bip_39_word_new_br12 | approve<br>mask<br>inside<br>spider<br>soul<br>bar<br>pepper<br>gain<br>charge<br>recall<br>beyond<br>adapt |  
-| bip_39_word_new_br2 | approve<br>mask |  
-| bip_39_word_new_br3 | approve<br>mask<br>inside |  
-| bip_39_word_new_br4 | approve<br>mask<br>inside<br>spider |  
-| bip_39_word_new_br5 | approve<br>mask<br>inside<br>spider<br>soul |  
-| bip_39_word_new_br6 | approve<br>mask<br>inside<br>spider<br>soul<br>bar |  
-| bip_39_word_new_br7 | approve<br>mask<br>inside<br>spider<br>soul<br>bar<br>pepper |  
-| bip_39_word_new_br8 | approve<br>mask<br>inside<br>spider<br>soul<br>bar<br>pepper<br>gain |  
-| bip_39_word_new_br9 | approve<br>mask<br>inside<br>spider<br>soul<br>bar<br>pepper<br>gain<br>charge |  
-| bip_39_word_new_line1 | approve |  
-| bip_39_word_new_line10 | approve
+| bip_39_word_new_br_1 | approve |  
+| bip_39_word_new_br_10 | approve<br>mask<br>inside<br>spider<br>soul<br>bar<br>pepper<br>gain<br>charge<br>recall |  
+| bip_39_word_new_br_11 | approve<br>mask<br>inside<br>spider<br>soul<br>bar<br>pepper<br>gain<br>charge<br>recall<br>beyond |  
+| bip_39_word_new_br_12 | approve<br>mask<br>inside<br>spider<br>soul<br>bar<br>pepper<br>gain<br>charge<br>recall<br>beyond<br>adapt |  
+| bip_39_word_new_br_2 | approve<br>mask |  
+| bip_39_word_new_br_3 | approve<br>mask<br>inside |  
+| bip_39_word_new_br_4 | approve<br>mask<br>inside<br>spider |  
+| bip_39_word_new_br_5 | approve<br>mask<br>inside<br>spider<br>soul |  
+| bip_39_word_new_br_6 | approve<br>mask<br>inside<br>spider<br>soul<br>bar |  
+| bip_39_word_new_br_7 | approve<br>mask<br>inside<br>spider<br>soul<br>bar<br>pepper |  
+| bip_39_word_new_br_8 | approve<br>mask<br>inside<br>spider<br>soul<br>bar<br>pepper<br>gain |  
+| bip_39_word_new_br_9 | approve<br>mask<br>inside<br>spider<br>soul<br>bar<br>pepper<br>gain<br>charge |  
+| bip_39_word_new_line_1 | approve |  
+| bip_39_word_new_line_10 | approve
 mask
 inside
 spider
@@ -55,7 +55,7 @@ pepper
 gain
 charge
 recall |  
-| bip_39_word_new_line11 | approve
+| bip_39_word_new_line_11 | approve
 mask
 inside
 spider
@@ -66,7 +66,7 @@ gain
 charge
 recall
 beyond |  
-| bip_39_word_new_line12 | approve
+| bip_39_word_new_line_12 | approve
 mask
 inside
 spider
@@ -78,34 +78,34 @@ charge
 recall
 beyond
 adapt |  
-| bip_39_word_new_line2 | approve
+| bip_39_word_new_line_2 | approve
 mask |  
-| bip_39_word_new_line3 | approve
+| bip_39_word_new_line_3 | approve
 mask
 inside |  
-| bip_39_word_new_line4 | approve
+| bip_39_word_new_line_4 | approve
 mask
 inside
 spider |  
-| bip_39_word_new_line5 | approve
+| bip_39_word_new_line_5 | approve
 mask
 inside
 spider
 soul |  
-| bip_39_word_new_line6 | approve
+| bip_39_word_new_line_6 | approve
 mask
 inside
 spider
 soul
 bar |  
-| bip_39_word_new_line7 | approve
+| bip_39_word_new_line_7 | approve
 mask
 inside
 spider
 soul
 bar
 pepper |  
-| bip_39_word_new_line8 | approve
+| bip_39_word_new_line_8 | approve
 mask
 inside
 spider
@@ -113,7 +113,7 @@ soul
 bar
 pepper
 gain |  
-| bip_39_word_new_line9 | approve
+| bip_39_word_new_line_9 | approve
 mask
 inside
 spider

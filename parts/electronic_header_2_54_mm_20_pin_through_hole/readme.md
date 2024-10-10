@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | custom |  
-| bip_39_word_new_br10 | custom<br>lab<br>desk<br>pluck<br>tree<br>general<br>oppose<br>defense<br>enroll<br>blast |  
-| bip_39_word_new_br11 | custom<br>lab<br>desk<br>pluck<br>tree<br>general<br>oppose<br>defense<br>enroll<br>blast<br>furnace |  
-| bip_39_word_new_br12 | custom<br>lab<br>desk<br>pluck<br>tree<br>general<br>oppose<br>defense<br>enroll<br>blast<br>furnace<br>attitude |  
-| bip_39_word_new_br2 | custom<br>lab |  
-| bip_39_word_new_br3 | custom<br>lab<br>desk |  
-| bip_39_word_new_br4 | custom<br>lab<br>desk<br>pluck |  
-| bip_39_word_new_br5 | custom<br>lab<br>desk<br>pluck<br>tree |  
-| bip_39_word_new_br6 | custom<br>lab<br>desk<br>pluck<br>tree<br>general |  
-| bip_39_word_new_br7 | custom<br>lab<br>desk<br>pluck<br>tree<br>general<br>oppose |  
-| bip_39_word_new_br8 | custom<br>lab<br>desk<br>pluck<br>tree<br>general<br>oppose<br>defense |  
-| bip_39_word_new_br9 | custom<br>lab<br>desk<br>pluck<br>tree<br>general<br>oppose<br>defense<br>enroll |  
-| bip_39_word_new_line1 | custom |  
-| bip_39_word_new_line10 | custom
+| bip_39_word_new_br_1 | custom |  
+| bip_39_word_new_br_10 | custom<br>lab<br>desk<br>pluck<br>tree<br>general<br>oppose<br>defense<br>enroll<br>blast |  
+| bip_39_word_new_br_11 | custom<br>lab<br>desk<br>pluck<br>tree<br>general<br>oppose<br>defense<br>enroll<br>blast<br>furnace |  
+| bip_39_word_new_br_12 | custom<br>lab<br>desk<br>pluck<br>tree<br>general<br>oppose<br>defense<br>enroll<br>blast<br>furnace<br>attitude |  
+| bip_39_word_new_br_2 | custom<br>lab |  
+| bip_39_word_new_br_3 | custom<br>lab<br>desk |  
+| bip_39_word_new_br_4 | custom<br>lab<br>desk<br>pluck |  
+| bip_39_word_new_br_5 | custom<br>lab<br>desk<br>pluck<br>tree |  
+| bip_39_word_new_br_6 | custom<br>lab<br>desk<br>pluck<br>tree<br>general |  
+| bip_39_word_new_br_7 | custom<br>lab<br>desk<br>pluck<br>tree<br>general<br>oppose |  
+| bip_39_word_new_br_8 | custom<br>lab<br>desk<br>pluck<br>tree<br>general<br>oppose<br>defense |  
+| bip_39_word_new_br_9 | custom<br>lab<br>desk<br>pluck<br>tree<br>general<br>oppose<br>defense<br>enroll |  
+| bip_39_word_new_line_1 | custom |  
+| bip_39_word_new_line_10 | custom
 lab
 desk
 pluck
@@ -55,7 +55,7 @@ oppose
 defense
 enroll
 blast |  
-| bip_39_word_new_line11 | custom
+| bip_39_word_new_line_11 | custom
 lab
 desk
 pluck
@@ -66,7 +66,7 @@ defense
 enroll
 blast
 furnace |  
-| bip_39_word_new_line12 | custom
+| bip_39_word_new_line_12 | custom
 lab
 desk
 pluck
@@ -78,34 +78,34 @@ enroll
 blast
 furnace
 attitude |  
-| bip_39_word_new_line2 | custom
+| bip_39_word_new_line_2 | custom
 lab |  
-| bip_39_word_new_line3 | custom
+| bip_39_word_new_line_3 | custom
 lab
 desk |  
-| bip_39_word_new_line4 | custom
+| bip_39_word_new_line_4 | custom
 lab
 desk
 pluck |  
-| bip_39_word_new_line5 | custom
+| bip_39_word_new_line_5 | custom
 lab
 desk
 pluck
 tree |  
-| bip_39_word_new_line6 | custom
+| bip_39_word_new_line_6 | custom
 lab
 desk
 pluck
 tree
 general |  
-| bip_39_word_new_line7 | custom
+| bip_39_word_new_line_7 | custom
 lab
 desk
 pluck
 tree
 general
 oppose |  
-| bip_39_word_new_line8 | custom
+| bip_39_word_new_line_8 | custom
 lab
 desk
 pluck
@@ -113,7 +113,7 @@ tree
 general
 oppose
 defense |  
-| bip_39_word_new_line9 | custom
+| bip_39_word_new_line_9 | custom
 lab
 desk
 pluck

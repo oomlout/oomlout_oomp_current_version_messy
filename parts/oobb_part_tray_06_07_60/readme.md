@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | clever |  
-| bip_39_word_new_br10 | clever<br>network<br>ring<br>chair<br>survey<br>finish<br>erupt<br>dad<br>first<br>cloud |  
-| bip_39_word_new_br11 | clever<br>network<br>ring<br>chair<br>survey<br>finish<br>erupt<br>dad<br>first<br>cloud<br>track |  
-| bip_39_word_new_br12 | clever<br>network<br>ring<br>chair<br>survey<br>finish<br>erupt<br>dad<br>first<br>cloud<br>track<br>approve |  
-| bip_39_word_new_br2 | clever<br>network |  
-| bip_39_word_new_br3 | clever<br>network<br>ring |  
-| bip_39_word_new_br4 | clever<br>network<br>ring<br>chair |  
-| bip_39_word_new_br5 | clever<br>network<br>ring<br>chair<br>survey |  
-| bip_39_word_new_br6 | clever<br>network<br>ring<br>chair<br>survey<br>finish |  
-| bip_39_word_new_br7 | clever<br>network<br>ring<br>chair<br>survey<br>finish<br>erupt |  
-| bip_39_word_new_br8 | clever<br>network<br>ring<br>chair<br>survey<br>finish<br>erupt<br>dad |  
-| bip_39_word_new_br9 | clever<br>network<br>ring<br>chair<br>survey<br>finish<br>erupt<br>dad<br>first |  
-| bip_39_word_new_line1 | clever |  
-| bip_39_word_new_line10 | clever
+| bip_39_word_new_br_1 | clever |  
+| bip_39_word_new_br_10 | clever<br>network<br>ring<br>chair<br>survey<br>finish<br>erupt<br>dad<br>first<br>cloud |  
+| bip_39_word_new_br_11 | clever<br>network<br>ring<br>chair<br>survey<br>finish<br>erupt<br>dad<br>first<br>cloud<br>track |  
+| bip_39_word_new_br_12 | clever<br>network<br>ring<br>chair<br>survey<br>finish<br>erupt<br>dad<br>first<br>cloud<br>track<br>approve |  
+| bip_39_word_new_br_2 | clever<br>network |  
+| bip_39_word_new_br_3 | clever<br>network<br>ring |  
+| bip_39_word_new_br_4 | clever<br>network<br>ring<br>chair |  
+| bip_39_word_new_br_5 | clever<br>network<br>ring<br>chair<br>survey |  
+| bip_39_word_new_br_6 | clever<br>network<br>ring<br>chair<br>survey<br>finish |  
+| bip_39_word_new_br_7 | clever<br>network<br>ring<br>chair<br>survey<br>finish<br>erupt |  
+| bip_39_word_new_br_8 | clever<br>network<br>ring<br>chair<br>survey<br>finish<br>erupt<br>dad |  
+| bip_39_word_new_br_9 | clever<br>network<br>ring<br>chair<br>survey<br>finish<br>erupt<br>dad<br>first |  
+| bip_39_word_new_line_1 | clever |  
+| bip_39_word_new_line_10 | clever
 network
 ring
 chair
@@ -55,7 +55,7 @@ erupt
 dad
 first
 cloud |  
-| bip_39_word_new_line11 | clever
+| bip_39_word_new_line_11 | clever
 network
 ring
 chair
@@ -66,7 +66,7 @@ dad
 first
 cloud
 track |  
-| bip_39_word_new_line12 | clever
+| bip_39_word_new_line_12 | clever
 network
 ring
 chair
@@ -78,34 +78,34 @@ first
 cloud
 track
 approve |  
-| bip_39_word_new_line2 | clever
+| bip_39_word_new_line_2 | clever
 network |  
-| bip_39_word_new_line3 | clever
+| bip_39_word_new_line_3 | clever
 network
 ring |  
-| bip_39_word_new_line4 | clever
+| bip_39_word_new_line_4 | clever
 network
 ring
 chair |  
-| bip_39_word_new_line5 | clever
+| bip_39_word_new_line_5 | clever
 network
 ring
 chair
 survey |  
-| bip_39_word_new_line6 | clever
+| bip_39_word_new_line_6 | clever
 network
 ring
 chair
 survey
 finish |  
-| bip_39_word_new_line7 | clever
+| bip_39_word_new_line_7 | clever
 network
 ring
 chair
 survey
 finish
 erupt |  
-| bip_39_word_new_line8 | clever
+| bip_39_word_new_line_8 | clever
 network
 ring
 chair
@@ -113,7 +113,7 @@ survey
 finish
 erupt
 dad |  
-| bip_39_word_new_line9 | clever
+| bip_39_word_new_line_9 | clever
 network
 ring
 chair

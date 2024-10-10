@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rubber |  
-| bip_39_word_new_br10 | rubber<br>leg<br>private<br>frost<br>mystery<br>earn<br>observe<br>pond<br>master<br>report |  
-| bip_39_word_new_br11 | rubber<br>leg<br>private<br>frost<br>mystery<br>earn<br>observe<br>pond<br>master<br>report<br>pioneer |  
-| bip_39_word_new_br12 | rubber<br>leg<br>private<br>frost<br>mystery<br>earn<br>observe<br>pond<br>master<br>report<br>pioneer<br>anxiety |  
-| bip_39_word_new_br2 | rubber<br>leg |  
-| bip_39_word_new_br3 | rubber<br>leg<br>private |  
-| bip_39_word_new_br4 | rubber<br>leg<br>private<br>frost |  
-| bip_39_word_new_br5 | rubber<br>leg<br>private<br>frost<br>mystery |  
-| bip_39_word_new_br6 | rubber<br>leg<br>private<br>frost<br>mystery<br>earn |  
-| bip_39_word_new_br7 | rubber<br>leg<br>private<br>frost<br>mystery<br>earn<br>observe |  
-| bip_39_word_new_br8 | rubber<br>leg<br>private<br>frost<br>mystery<br>earn<br>observe<br>pond |  
-| bip_39_word_new_br9 | rubber<br>leg<br>private<br>frost<br>mystery<br>earn<br>observe<br>pond<br>master |  
-| bip_39_word_new_line1 | rubber |  
-| bip_39_word_new_line10 | rubber
+| bip_39_word_new_br_1 | rubber |  
+| bip_39_word_new_br_10 | rubber<br>leg<br>private<br>frost<br>mystery<br>earn<br>observe<br>pond<br>master<br>report |  
+| bip_39_word_new_br_11 | rubber<br>leg<br>private<br>frost<br>mystery<br>earn<br>observe<br>pond<br>master<br>report<br>pioneer |  
+| bip_39_word_new_br_12 | rubber<br>leg<br>private<br>frost<br>mystery<br>earn<br>observe<br>pond<br>master<br>report<br>pioneer<br>anxiety |  
+| bip_39_word_new_br_2 | rubber<br>leg |  
+| bip_39_word_new_br_3 | rubber<br>leg<br>private |  
+| bip_39_word_new_br_4 | rubber<br>leg<br>private<br>frost |  
+| bip_39_word_new_br_5 | rubber<br>leg<br>private<br>frost<br>mystery |  
+| bip_39_word_new_br_6 | rubber<br>leg<br>private<br>frost<br>mystery<br>earn |  
+| bip_39_word_new_br_7 | rubber<br>leg<br>private<br>frost<br>mystery<br>earn<br>observe |  
+| bip_39_word_new_br_8 | rubber<br>leg<br>private<br>frost<br>mystery<br>earn<br>observe<br>pond |  
+| bip_39_word_new_br_9 | rubber<br>leg<br>private<br>frost<br>mystery<br>earn<br>observe<br>pond<br>master |  
+| bip_39_word_new_line_1 | rubber |  
+| bip_39_word_new_line_10 | rubber
 leg
 private
 frost
@@ -55,7 +55,7 @@ observe
 pond
 master
 report |  
-| bip_39_word_new_line11 | rubber
+| bip_39_word_new_line_11 | rubber
 leg
 private
 frost
@@ -66,7 +66,7 @@ pond
 master
 report
 pioneer |  
-| bip_39_word_new_line12 | rubber
+| bip_39_word_new_line_12 | rubber
 leg
 private
 frost
@@ -78,34 +78,34 @@ master
 report
 pioneer
 anxiety |  
-| bip_39_word_new_line2 | rubber
+| bip_39_word_new_line_2 | rubber
 leg |  
-| bip_39_word_new_line3 | rubber
+| bip_39_word_new_line_3 | rubber
 leg
 private |  
-| bip_39_word_new_line4 | rubber
+| bip_39_word_new_line_4 | rubber
 leg
 private
 frost |  
-| bip_39_word_new_line5 | rubber
+| bip_39_word_new_line_5 | rubber
 leg
 private
 frost
 mystery |  
-| bip_39_word_new_line6 | rubber
+| bip_39_word_new_line_6 | rubber
 leg
 private
 frost
 mystery
 earn |  
-| bip_39_word_new_line7 | rubber
+| bip_39_word_new_line_7 | rubber
 leg
 private
 frost
 mystery
 earn
 observe |  
-| bip_39_word_new_line8 | rubber
+| bip_39_word_new_line_8 | rubber
 leg
 private
 frost
@@ -113,7 +113,7 @@ mystery
 earn
 observe
 pond |  
-| bip_39_word_new_line9 | rubber
+| bip_39_word_new_line_9 | rubber
 leg
 private
 frost

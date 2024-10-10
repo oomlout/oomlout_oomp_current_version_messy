@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ski |  
-| bip_39_word_new_br10 | ski<br>excuse<br>exit<br>episode<br>angry<br>name<br>mango<br>jungle<br>basic<br>web |  
-| bip_39_word_new_br11 | ski<br>excuse<br>exit<br>episode<br>angry<br>name<br>mango<br>jungle<br>basic<br>web<br>noise |  
-| bip_39_word_new_br12 | ski<br>excuse<br>exit<br>episode<br>angry<br>name<br>mango<br>jungle<br>basic<br>web<br>noise<br>arrive |  
-| bip_39_word_new_br2 | ski<br>excuse |  
-| bip_39_word_new_br3 | ski<br>excuse<br>exit |  
-| bip_39_word_new_br4 | ski<br>excuse<br>exit<br>episode |  
-| bip_39_word_new_br5 | ski<br>excuse<br>exit<br>episode<br>angry |  
-| bip_39_word_new_br6 | ski<br>excuse<br>exit<br>episode<br>angry<br>name |  
-| bip_39_word_new_br7 | ski<br>excuse<br>exit<br>episode<br>angry<br>name<br>mango |  
-| bip_39_word_new_br8 | ski<br>excuse<br>exit<br>episode<br>angry<br>name<br>mango<br>jungle |  
-| bip_39_word_new_br9 | ski<br>excuse<br>exit<br>episode<br>angry<br>name<br>mango<br>jungle<br>basic |  
-| bip_39_word_new_line1 | ski |  
-| bip_39_word_new_line10 | ski
+| bip_39_word_new_br_1 | ski |  
+| bip_39_word_new_br_10 | ski<br>excuse<br>exit<br>episode<br>angry<br>name<br>mango<br>jungle<br>basic<br>web |  
+| bip_39_word_new_br_11 | ski<br>excuse<br>exit<br>episode<br>angry<br>name<br>mango<br>jungle<br>basic<br>web<br>noise |  
+| bip_39_word_new_br_12 | ski<br>excuse<br>exit<br>episode<br>angry<br>name<br>mango<br>jungle<br>basic<br>web<br>noise<br>arrive |  
+| bip_39_word_new_br_2 | ski<br>excuse |  
+| bip_39_word_new_br_3 | ski<br>excuse<br>exit |  
+| bip_39_word_new_br_4 | ski<br>excuse<br>exit<br>episode |  
+| bip_39_word_new_br_5 | ski<br>excuse<br>exit<br>episode<br>angry |  
+| bip_39_word_new_br_6 | ski<br>excuse<br>exit<br>episode<br>angry<br>name |  
+| bip_39_word_new_br_7 | ski<br>excuse<br>exit<br>episode<br>angry<br>name<br>mango |  
+| bip_39_word_new_br_8 | ski<br>excuse<br>exit<br>episode<br>angry<br>name<br>mango<br>jungle |  
+| bip_39_word_new_br_9 | ski<br>excuse<br>exit<br>episode<br>angry<br>name<br>mango<br>jungle<br>basic |  
+| bip_39_word_new_line_1 | ski |  
+| bip_39_word_new_line_10 | ski
 excuse
 exit
 episode
@@ -55,7 +55,7 @@ mango
 jungle
 basic
 web |  
-| bip_39_word_new_line11 | ski
+| bip_39_word_new_line_11 | ski
 excuse
 exit
 episode
@@ -66,7 +66,7 @@ jungle
 basic
 web
 noise |  
-| bip_39_word_new_line12 | ski
+| bip_39_word_new_line_12 | ski
 excuse
 exit
 episode
@@ -78,34 +78,34 @@ basic
 web
 noise
 arrive |  
-| bip_39_word_new_line2 | ski
+| bip_39_word_new_line_2 | ski
 excuse |  
-| bip_39_word_new_line3 | ski
+| bip_39_word_new_line_3 | ski
 excuse
 exit |  
-| bip_39_word_new_line4 | ski
+| bip_39_word_new_line_4 | ski
 excuse
 exit
 episode |  
-| bip_39_word_new_line5 | ski
+| bip_39_word_new_line_5 | ski
 excuse
 exit
 episode
 angry |  
-| bip_39_word_new_line6 | ski
+| bip_39_word_new_line_6 | ski
 excuse
 exit
 episode
 angry
 name |  
-| bip_39_word_new_line7 | ski
+| bip_39_word_new_line_7 | ski
 excuse
 exit
 episode
 angry
 name
 mango |  
-| bip_39_word_new_line8 | ski
+| bip_39_word_new_line_8 | ski
 excuse
 exit
 episode
@@ -113,7 +113,7 @@ angry
 name
 mango
 jungle |  
-| bip_39_word_new_line9 | ski
+| bip_39_word_new_line_9 | ski
 excuse
 exit
 episode

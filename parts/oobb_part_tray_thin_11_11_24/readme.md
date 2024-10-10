@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | era |  
-| bip_39_word_new_br10 | era<br>bird<br>neglect<br>kick<br>mask<br>news<br>metal<br>canoe<br>little<br>couch |  
-| bip_39_word_new_br11 | era<br>bird<br>neglect<br>kick<br>mask<br>news<br>metal<br>canoe<br>little<br>couch<br>decorate |  
-| bip_39_word_new_br12 | era<br>bird<br>neglect<br>kick<br>mask<br>news<br>metal<br>canoe<br>little<br>couch<br>decorate<br>above |  
-| bip_39_word_new_br2 | era<br>bird |  
-| bip_39_word_new_br3 | era<br>bird<br>neglect |  
-| bip_39_word_new_br4 | era<br>bird<br>neglect<br>kick |  
-| bip_39_word_new_br5 | era<br>bird<br>neglect<br>kick<br>mask |  
-| bip_39_word_new_br6 | era<br>bird<br>neglect<br>kick<br>mask<br>news |  
-| bip_39_word_new_br7 | era<br>bird<br>neglect<br>kick<br>mask<br>news<br>metal |  
-| bip_39_word_new_br8 | era<br>bird<br>neglect<br>kick<br>mask<br>news<br>metal<br>canoe |  
-| bip_39_word_new_br9 | era<br>bird<br>neglect<br>kick<br>mask<br>news<br>metal<br>canoe<br>little |  
-| bip_39_word_new_line1 | era |  
-| bip_39_word_new_line10 | era
+| bip_39_word_new_br_1 | era |  
+| bip_39_word_new_br_10 | era<br>bird<br>neglect<br>kick<br>mask<br>news<br>metal<br>canoe<br>little<br>couch |  
+| bip_39_word_new_br_11 | era<br>bird<br>neglect<br>kick<br>mask<br>news<br>metal<br>canoe<br>little<br>couch<br>decorate |  
+| bip_39_word_new_br_12 | era<br>bird<br>neglect<br>kick<br>mask<br>news<br>metal<br>canoe<br>little<br>couch<br>decorate<br>above |  
+| bip_39_word_new_br_2 | era<br>bird |  
+| bip_39_word_new_br_3 | era<br>bird<br>neglect |  
+| bip_39_word_new_br_4 | era<br>bird<br>neglect<br>kick |  
+| bip_39_word_new_br_5 | era<br>bird<br>neglect<br>kick<br>mask |  
+| bip_39_word_new_br_6 | era<br>bird<br>neglect<br>kick<br>mask<br>news |  
+| bip_39_word_new_br_7 | era<br>bird<br>neglect<br>kick<br>mask<br>news<br>metal |  
+| bip_39_word_new_br_8 | era<br>bird<br>neglect<br>kick<br>mask<br>news<br>metal<br>canoe |  
+| bip_39_word_new_br_9 | era<br>bird<br>neglect<br>kick<br>mask<br>news<br>metal<br>canoe<br>little |  
+| bip_39_word_new_line_1 | era |  
+| bip_39_word_new_line_10 | era
 bird
 neglect
 kick
@@ -55,7 +55,7 @@ metal
 canoe
 little
 couch |  
-| bip_39_word_new_line11 | era
+| bip_39_word_new_line_11 | era
 bird
 neglect
 kick
@@ -66,7 +66,7 @@ canoe
 little
 couch
 decorate |  
-| bip_39_word_new_line12 | era
+| bip_39_word_new_line_12 | era
 bird
 neglect
 kick
@@ -78,34 +78,34 @@ little
 couch
 decorate
 above |  
-| bip_39_word_new_line2 | era
+| bip_39_word_new_line_2 | era
 bird |  
-| bip_39_word_new_line3 | era
+| bip_39_word_new_line_3 | era
 bird
 neglect |  
-| bip_39_word_new_line4 | era
+| bip_39_word_new_line_4 | era
 bird
 neglect
 kick |  
-| bip_39_word_new_line5 | era
+| bip_39_word_new_line_5 | era
 bird
 neglect
 kick
 mask |  
-| bip_39_word_new_line6 | era
+| bip_39_word_new_line_6 | era
 bird
 neglect
 kick
 mask
 news |  
-| bip_39_word_new_line7 | era
+| bip_39_word_new_line_7 | era
 bird
 neglect
 kick
 mask
 news
 metal |  
-| bip_39_word_new_line8 | era
+| bip_39_word_new_line_8 | era
 bird
 neglect
 kick
@@ -113,7 +113,7 @@ mask
 news
 metal
 canoe |  
-| bip_39_word_new_line9 | era
+| bip_39_word_new_line_9 | era
 bird
 neglect
 kick

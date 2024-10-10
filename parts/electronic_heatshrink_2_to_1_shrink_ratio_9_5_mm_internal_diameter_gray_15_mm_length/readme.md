@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | renew |  
-| bip_39_word_new_br10 | renew<br>party<br>anger<br>either<br>rebel<br>march<br>bleak<br>brief<br>walk<br>slice |  
-| bip_39_word_new_br11 | renew<br>party<br>anger<br>either<br>rebel<br>march<br>bleak<br>brief<br>walk<br>slice<br>detail |  
-| bip_39_word_new_br12 | renew<br>party<br>anger<br>either<br>rebel<br>march<br>bleak<br>brief<br>walk<br>slice<br>detail<br>another |  
-| bip_39_word_new_br2 | renew<br>party |  
-| bip_39_word_new_br3 | renew<br>party<br>anger |  
-| bip_39_word_new_br4 | renew<br>party<br>anger<br>either |  
-| bip_39_word_new_br5 | renew<br>party<br>anger<br>either<br>rebel |  
-| bip_39_word_new_br6 | renew<br>party<br>anger<br>either<br>rebel<br>march |  
-| bip_39_word_new_br7 | renew<br>party<br>anger<br>either<br>rebel<br>march<br>bleak |  
-| bip_39_word_new_br8 | renew<br>party<br>anger<br>either<br>rebel<br>march<br>bleak<br>brief |  
-| bip_39_word_new_br9 | renew<br>party<br>anger<br>either<br>rebel<br>march<br>bleak<br>brief<br>walk |  
-| bip_39_word_new_line1 | renew |  
-| bip_39_word_new_line10 | renew
+| bip_39_word_new_br_1 | renew |  
+| bip_39_word_new_br_10 | renew<br>party<br>anger<br>either<br>rebel<br>march<br>bleak<br>brief<br>walk<br>slice |  
+| bip_39_word_new_br_11 | renew<br>party<br>anger<br>either<br>rebel<br>march<br>bleak<br>brief<br>walk<br>slice<br>detail |  
+| bip_39_word_new_br_12 | renew<br>party<br>anger<br>either<br>rebel<br>march<br>bleak<br>brief<br>walk<br>slice<br>detail<br>another |  
+| bip_39_word_new_br_2 | renew<br>party |  
+| bip_39_word_new_br_3 | renew<br>party<br>anger |  
+| bip_39_word_new_br_4 | renew<br>party<br>anger<br>either |  
+| bip_39_word_new_br_5 | renew<br>party<br>anger<br>either<br>rebel |  
+| bip_39_word_new_br_6 | renew<br>party<br>anger<br>either<br>rebel<br>march |  
+| bip_39_word_new_br_7 | renew<br>party<br>anger<br>either<br>rebel<br>march<br>bleak |  
+| bip_39_word_new_br_8 | renew<br>party<br>anger<br>either<br>rebel<br>march<br>bleak<br>brief |  
+| bip_39_word_new_br_9 | renew<br>party<br>anger<br>either<br>rebel<br>march<br>bleak<br>brief<br>walk |  
+| bip_39_word_new_line_1 | renew |  
+| bip_39_word_new_line_10 | renew
 party
 anger
 either
@@ -55,7 +55,7 @@ bleak
 brief
 walk
 slice |  
-| bip_39_word_new_line11 | renew
+| bip_39_word_new_line_11 | renew
 party
 anger
 either
@@ -66,7 +66,7 @@ brief
 walk
 slice
 detail |  
-| bip_39_word_new_line12 | renew
+| bip_39_word_new_line_12 | renew
 party
 anger
 either
@@ -78,34 +78,34 @@ walk
 slice
 detail
 another |  
-| bip_39_word_new_line2 | renew
+| bip_39_word_new_line_2 | renew
 party |  
-| bip_39_word_new_line3 | renew
+| bip_39_word_new_line_3 | renew
 party
 anger |  
-| bip_39_word_new_line4 | renew
+| bip_39_word_new_line_4 | renew
 party
 anger
 either |  
-| bip_39_word_new_line5 | renew
+| bip_39_word_new_line_5 | renew
 party
 anger
 either
 rebel |  
-| bip_39_word_new_line6 | renew
+| bip_39_word_new_line_6 | renew
 party
 anger
 either
 rebel
 march |  
-| bip_39_word_new_line7 | renew
+| bip_39_word_new_line_7 | renew
 party
 anger
 either
 rebel
 march
 bleak |  
-| bip_39_word_new_line8 | renew
+| bip_39_word_new_line_8 | renew
 party
 anger
 either
@@ -113,7 +113,7 @@ rebel
 march
 bleak
 brief |  
-| bip_39_word_new_line9 | renew
+| bip_39_word_new_line_9 | renew
 party
 anger
 either

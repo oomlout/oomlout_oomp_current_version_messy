@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | diet |  
-| bip_39_word_new_br10 | diet<br>logic<br>deposit<br>apple<br>burst<br>now<br>february<br>task<br>ability<br>giraffe |  
-| bip_39_word_new_br11 | diet<br>logic<br>deposit<br>apple<br>burst<br>now<br>february<br>task<br>ability<br>giraffe<br>shrug |  
-| bip_39_word_new_br12 | diet<br>logic<br>deposit<br>apple<br>burst<br>now<br>february<br>task<br>ability<br>giraffe<br>shrug<br>add |  
-| bip_39_word_new_br2 | diet<br>logic |  
-| bip_39_word_new_br3 | diet<br>logic<br>deposit |  
-| bip_39_word_new_br4 | diet<br>logic<br>deposit<br>apple |  
-| bip_39_word_new_br5 | diet<br>logic<br>deposit<br>apple<br>burst |  
-| bip_39_word_new_br6 | diet<br>logic<br>deposit<br>apple<br>burst<br>now |  
-| bip_39_word_new_br7 | diet<br>logic<br>deposit<br>apple<br>burst<br>now<br>february |  
-| bip_39_word_new_br8 | diet<br>logic<br>deposit<br>apple<br>burst<br>now<br>february<br>task |  
-| bip_39_word_new_br9 | diet<br>logic<br>deposit<br>apple<br>burst<br>now<br>february<br>task<br>ability |  
-| bip_39_word_new_line1 | diet |  
-| bip_39_word_new_line10 | diet
+| bip_39_word_new_br_1 | diet |  
+| bip_39_word_new_br_10 | diet<br>logic<br>deposit<br>apple<br>burst<br>now<br>february<br>task<br>ability<br>giraffe |  
+| bip_39_word_new_br_11 | diet<br>logic<br>deposit<br>apple<br>burst<br>now<br>february<br>task<br>ability<br>giraffe<br>shrug |  
+| bip_39_word_new_br_12 | diet<br>logic<br>deposit<br>apple<br>burst<br>now<br>february<br>task<br>ability<br>giraffe<br>shrug<br>add |  
+| bip_39_word_new_br_2 | diet<br>logic |  
+| bip_39_word_new_br_3 | diet<br>logic<br>deposit |  
+| bip_39_word_new_br_4 | diet<br>logic<br>deposit<br>apple |  
+| bip_39_word_new_br_5 | diet<br>logic<br>deposit<br>apple<br>burst |  
+| bip_39_word_new_br_6 | diet<br>logic<br>deposit<br>apple<br>burst<br>now |  
+| bip_39_word_new_br_7 | diet<br>logic<br>deposit<br>apple<br>burst<br>now<br>february |  
+| bip_39_word_new_br_8 | diet<br>logic<br>deposit<br>apple<br>burst<br>now<br>february<br>task |  
+| bip_39_word_new_br_9 | diet<br>logic<br>deposit<br>apple<br>burst<br>now<br>february<br>task<br>ability |  
+| bip_39_word_new_line_1 | diet |  
+| bip_39_word_new_line_10 | diet
 logic
 deposit
 apple
@@ -55,7 +55,7 @@ february
 task
 ability
 giraffe |  
-| bip_39_word_new_line11 | diet
+| bip_39_word_new_line_11 | diet
 logic
 deposit
 apple
@@ -66,7 +66,7 @@ task
 ability
 giraffe
 shrug |  
-| bip_39_word_new_line12 | diet
+| bip_39_word_new_line_12 | diet
 logic
 deposit
 apple
@@ -78,34 +78,34 @@ ability
 giraffe
 shrug
 add |  
-| bip_39_word_new_line2 | diet
+| bip_39_word_new_line_2 | diet
 logic |  
-| bip_39_word_new_line3 | diet
+| bip_39_word_new_line_3 | diet
 logic
 deposit |  
-| bip_39_word_new_line4 | diet
+| bip_39_word_new_line_4 | diet
 logic
 deposit
 apple |  
-| bip_39_word_new_line5 | diet
+| bip_39_word_new_line_5 | diet
 logic
 deposit
 apple
 burst |  
-| bip_39_word_new_line6 | diet
+| bip_39_word_new_line_6 | diet
 logic
 deposit
 apple
 burst
 now |  
-| bip_39_word_new_line7 | diet
+| bip_39_word_new_line_7 | diet
 logic
 deposit
 apple
 burst
 now
 february |  
-| bip_39_word_new_line8 | diet
+| bip_39_word_new_line_8 | diet
 logic
 deposit
 apple
@@ -113,7 +113,7 @@ burst
 now
 february
 task |  
-| bip_39_word_new_line9 | diet
+| bip_39_word_new_line_9 | diet
 logic
 deposit
 apple

@@ -1,17 +1,17 @@
-bip_39_word_new_br1: park
-bip_39_word_new_br10: park<br>garment<br>word<br>security<br>firm<br>spike<br>alarm<br>zero<br>bag<br>excuse
-bip_39_word_new_br11: park<br>garment<br>word<br>security<br>firm<br>spike<br>alarm<br>zero<br>bag<br>excuse<br>eight
-bip_39_word_new_br12: park<br>garment<br>word<br>security<br>firm<br>spike<br>alarm<br>zero<br>bag<br>excuse<br>eight<br>aunt
-bip_39_word_new_br2: park<br>garment
-bip_39_word_new_br3: park<br>garment<br>word
-bip_39_word_new_br4: park<br>garment<br>word<br>security
-bip_39_word_new_br5: park<br>garment<br>word<br>security<br>firm
-bip_39_word_new_br6: park<br>garment<br>word<br>security<br>firm<br>spike
-bip_39_word_new_br7: park<br>garment<br>word<br>security<br>firm<br>spike<br>alarm
-bip_39_word_new_br8: park<br>garment<br>word<br>security<br>firm<br>spike<br>alarm<br>zero
-bip_39_word_new_br9: park<br>garment<br>word<br>security<br>firm<br>spike<br>alarm<br>zero<br>bag
-bip_39_word_new_line1: park
-bip_39_word_new_line10: 'park
+bip_39_word_new_br_1: park
+bip_39_word_new_br_10: park<br>garment<br>word<br>security<br>firm<br>spike<br>alarm<br>zero<br>bag<br>excuse
+bip_39_word_new_br_11: park<br>garment<br>word<br>security<br>firm<br>spike<br>alarm<br>zero<br>bag<br>excuse<br>eight
+bip_39_word_new_br_12: park<br>garment<br>word<br>security<br>firm<br>spike<br>alarm<br>zero<br>bag<br>excuse<br>eight<br>aunt
+bip_39_word_new_br_2: park<br>garment
+bip_39_word_new_br_3: park<br>garment<br>word
+bip_39_word_new_br_4: park<br>garment<br>word<br>security
+bip_39_word_new_br_5: park<br>garment<br>word<br>security<br>firm
+bip_39_word_new_br_6: park<br>garment<br>word<br>security<br>firm<br>spike
+bip_39_word_new_br_7: park<br>garment<br>word<br>security<br>firm<br>spike<br>alarm
+bip_39_word_new_br_8: park<br>garment<br>word<br>security<br>firm<br>spike<br>alarm<br>zero
+bip_39_word_new_br_9: park<br>garment<br>word<br>security<br>firm<br>spike<br>alarm<br>zero<br>bag
+bip_39_word_new_line_1: park
+bip_39_word_new_line_10: 'park
 
   garment
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'park
   bag
 
   excuse'
-bip_39_word_new_line11: 'park
+bip_39_word_new_line_11: 'park
 
   garment
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'park
   excuse
 
   eight'
-bip_39_word_new_line12: 'park
+bip_39_word_new_line_12: 'park
 
   garment
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'park
   eight
 
   aunt'
-bip_39_word_new_line2: 'park
+bip_39_word_new_line_2: 'park
 
   garment'
-bip_39_word_new_line3: 'park
+bip_39_word_new_line_3: 'park
 
   garment
 
   word'
-bip_39_word_new_line4: 'park
+bip_39_word_new_line_4: 'park
 
   garment
 
   word
 
   security'
-bip_39_word_new_line5: 'park
+bip_39_word_new_line_5: 'park
 
   garment
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'park
   security
 
   firm'
-bip_39_word_new_line6: 'park
+bip_39_word_new_line_6: 'park
 
   garment
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'park
   firm
 
   spike'
-bip_39_word_new_line7: 'park
+bip_39_word_new_line_7: 'park
 
   garment
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'park
   spike
 
   alarm'
-bip_39_word_new_line8: 'park
+bip_39_word_new_line_8: 'park
 
   garment
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'park
   alarm
 
   zero'
-bip_39_word_new_line9: 'park
+bip_39_word_new_line_9: 'park
 
   garment
 

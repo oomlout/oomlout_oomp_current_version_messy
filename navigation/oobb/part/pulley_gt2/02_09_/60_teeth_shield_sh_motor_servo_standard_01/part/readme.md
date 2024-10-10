@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | royal |  
-| bip_39_word_new_br10 | royal<br>shy<br>rebel<br>hello<br>half<br>art<br>alien<br>furnace<br>cactus<br>faint |  
-| bip_39_word_new_br11 | royal<br>shy<br>rebel<br>hello<br>half<br>art<br>alien<br>furnace<br>cactus<br>faint<br>token |  
-| bip_39_word_new_br12 | royal<br>shy<br>rebel<br>hello<br>half<br>art<br>alien<br>furnace<br>cactus<br>faint<br>token<br>accident |  
-| bip_39_word_new_br2 | royal<br>shy |  
-| bip_39_word_new_br3 | royal<br>shy<br>rebel |  
-| bip_39_word_new_br4 | royal<br>shy<br>rebel<br>hello |  
-| bip_39_word_new_br5 | royal<br>shy<br>rebel<br>hello<br>half |  
-| bip_39_word_new_br6 | royal<br>shy<br>rebel<br>hello<br>half<br>art |  
-| bip_39_word_new_br7 | royal<br>shy<br>rebel<br>hello<br>half<br>art<br>alien |  
-| bip_39_word_new_br8 | royal<br>shy<br>rebel<br>hello<br>half<br>art<br>alien<br>furnace |  
-| bip_39_word_new_br9 | royal<br>shy<br>rebel<br>hello<br>half<br>art<br>alien<br>furnace<br>cactus |  
-| bip_39_word_new_line1 | royal |  
-| bip_39_word_new_line10 | royal
+| bip_39_word_new_br_1 | royal |  
+| bip_39_word_new_br_10 | royal<br>shy<br>rebel<br>hello<br>half<br>art<br>alien<br>furnace<br>cactus<br>faint |  
+| bip_39_word_new_br_11 | royal<br>shy<br>rebel<br>hello<br>half<br>art<br>alien<br>furnace<br>cactus<br>faint<br>token |  
+| bip_39_word_new_br_12 | royal<br>shy<br>rebel<br>hello<br>half<br>art<br>alien<br>furnace<br>cactus<br>faint<br>token<br>accident |  
+| bip_39_word_new_br_2 | royal<br>shy |  
+| bip_39_word_new_br_3 | royal<br>shy<br>rebel |  
+| bip_39_word_new_br_4 | royal<br>shy<br>rebel<br>hello |  
+| bip_39_word_new_br_5 | royal<br>shy<br>rebel<br>hello<br>half |  
+| bip_39_word_new_br_6 | royal<br>shy<br>rebel<br>hello<br>half<br>art |  
+| bip_39_word_new_br_7 | royal<br>shy<br>rebel<br>hello<br>half<br>art<br>alien |  
+| bip_39_word_new_br_8 | royal<br>shy<br>rebel<br>hello<br>half<br>art<br>alien<br>furnace |  
+| bip_39_word_new_br_9 | royal<br>shy<br>rebel<br>hello<br>half<br>art<br>alien<br>furnace<br>cactus |  
+| bip_39_word_new_line_1 | royal |  
+| bip_39_word_new_line_10 | royal
 shy
 rebel
 hello
@@ -55,7 +55,7 @@ alien
 furnace
 cactus
 faint |  
-| bip_39_word_new_line11 | royal
+| bip_39_word_new_line_11 | royal
 shy
 rebel
 hello
@@ -66,7 +66,7 @@ furnace
 cactus
 faint
 token |  
-| bip_39_word_new_line12 | royal
+| bip_39_word_new_line_12 | royal
 shy
 rebel
 hello
@@ -78,34 +78,34 @@ cactus
 faint
 token
 accident |  
-| bip_39_word_new_line2 | royal
+| bip_39_word_new_line_2 | royal
 shy |  
-| bip_39_word_new_line3 | royal
+| bip_39_word_new_line_3 | royal
 shy
 rebel |  
-| bip_39_word_new_line4 | royal
+| bip_39_word_new_line_4 | royal
 shy
 rebel
 hello |  
-| bip_39_word_new_line5 | royal
+| bip_39_word_new_line_5 | royal
 shy
 rebel
 hello
 half |  
-| bip_39_word_new_line6 | royal
+| bip_39_word_new_line_6 | royal
 shy
 rebel
 hello
 half
 art |  
-| bip_39_word_new_line7 | royal
+| bip_39_word_new_line_7 | royal
 shy
 rebel
 hello
 half
 art
 alien |  
-| bip_39_word_new_line8 | royal
+| bip_39_word_new_line_8 | royal
 shy
 rebel
 hello
@@ -113,7 +113,7 @@ half
 art
 alien
 furnace |  
-| bip_39_word_new_line9 | royal
+| bip_39_word_new_line_9 | royal
 shy
 rebel
 hello

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | maple |  
-| bip_39_word_new_br10 | maple<br>later<br>mix<br>timber<br>vacuum<br>brisk<br>hotel<br>sport<br>accuse<br>side |  
-| bip_39_word_new_br11 | maple<br>later<br>mix<br>timber<br>vacuum<br>brisk<br>hotel<br>sport<br>accuse<br>side<br>broccoli |  
-| bip_39_word_new_br12 | maple<br>later<br>mix<br>timber<br>vacuum<br>brisk<br>hotel<br>sport<br>accuse<br>side<br>broccoli<br>arctic |  
-| bip_39_word_new_br2 | maple<br>later |  
-| bip_39_word_new_br3 | maple<br>later<br>mix |  
-| bip_39_word_new_br4 | maple<br>later<br>mix<br>timber |  
-| bip_39_word_new_br5 | maple<br>later<br>mix<br>timber<br>vacuum |  
-| bip_39_word_new_br6 | maple<br>later<br>mix<br>timber<br>vacuum<br>brisk |  
-| bip_39_word_new_br7 | maple<br>later<br>mix<br>timber<br>vacuum<br>brisk<br>hotel |  
-| bip_39_word_new_br8 | maple<br>later<br>mix<br>timber<br>vacuum<br>brisk<br>hotel<br>sport |  
-| bip_39_word_new_br9 | maple<br>later<br>mix<br>timber<br>vacuum<br>brisk<br>hotel<br>sport<br>accuse |  
-| bip_39_word_new_line1 | maple |  
-| bip_39_word_new_line10 | maple
+| bip_39_word_new_br_1 | maple |  
+| bip_39_word_new_br_10 | maple<br>later<br>mix<br>timber<br>vacuum<br>brisk<br>hotel<br>sport<br>accuse<br>side |  
+| bip_39_word_new_br_11 | maple<br>later<br>mix<br>timber<br>vacuum<br>brisk<br>hotel<br>sport<br>accuse<br>side<br>broccoli |  
+| bip_39_word_new_br_12 | maple<br>later<br>mix<br>timber<br>vacuum<br>brisk<br>hotel<br>sport<br>accuse<br>side<br>broccoli<br>arctic |  
+| bip_39_word_new_br_2 | maple<br>later |  
+| bip_39_word_new_br_3 | maple<br>later<br>mix |  
+| bip_39_word_new_br_4 | maple<br>later<br>mix<br>timber |  
+| bip_39_word_new_br_5 | maple<br>later<br>mix<br>timber<br>vacuum |  
+| bip_39_word_new_br_6 | maple<br>later<br>mix<br>timber<br>vacuum<br>brisk |  
+| bip_39_word_new_br_7 | maple<br>later<br>mix<br>timber<br>vacuum<br>brisk<br>hotel |  
+| bip_39_word_new_br_8 | maple<br>later<br>mix<br>timber<br>vacuum<br>brisk<br>hotel<br>sport |  
+| bip_39_word_new_br_9 | maple<br>later<br>mix<br>timber<br>vacuum<br>brisk<br>hotel<br>sport<br>accuse |  
+| bip_39_word_new_line_1 | maple |  
+| bip_39_word_new_line_10 | maple
 later
 mix
 timber
@@ -55,7 +55,7 @@ hotel
 sport
 accuse
 side |  
-| bip_39_word_new_line11 | maple
+| bip_39_word_new_line_11 | maple
 later
 mix
 timber
@@ -66,7 +66,7 @@ sport
 accuse
 side
 broccoli |  
-| bip_39_word_new_line12 | maple
+| bip_39_word_new_line_12 | maple
 later
 mix
 timber
@@ -78,34 +78,34 @@ accuse
 side
 broccoli
 arctic |  
-| bip_39_word_new_line2 | maple
+| bip_39_word_new_line_2 | maple
 later |  
-| bip_39_word_new_line3 | maple
+| bip_39_word_new_line_3 | maple
 later
 mix |  
-| bip_39_word_new_line4 | maple
+| bip_39_word_new_line_4 | maple
 later
 mix
 timber |  
-| bip_39_word_new_line5 | maple
+| bip_39_word_new_line_5 | maple
 later
 mix
 timber
 vacuum |  
-| bip_39_word_new_line6 | maple
+| bip_39_word_new_line_6 | maple
 later
 mix
 timber
 vacuum
 brisk |  
-| bip_39_word_new_line7 | maple
+| bip_39_word_new_line_7 | maple
 later
 mix
 timber
 vacuum
 brisk
 hotel |  
-| bip_39_word_new_line8 | maple
+| bip_39_word_new_line_8 | maple
 later
 mix
 timber
@@ -113,7 +113,7 @@ vacuum
 brisk
 hotel
 sport |  
-| bip_39_word_new_line9 | maple
+| bip_39_word_new_line_9 | maple
 later
 mix
 timber

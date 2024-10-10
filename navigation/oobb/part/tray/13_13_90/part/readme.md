@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | present |  
-| bip_39_word_new_br10 | present<br>follow<br>company<br>wait<br>arrive<br>acid<br>abstract<br>boost<br>try<br>what |  
-| bip_39_word_new_br11 | present<br>follow<br>company<br>wait<br>arrive<br>acid<br>abstract<br>boost<br>try<br>what<br>tank |  
-| bip_39_word_new_br12 | present<br>follow<br>company<br>wait<br>arrive<br>acid<br>abstract<br>boost<br>try<br>what<br>tank<br>ahead |  
-| bip_39_word_new_br2 | present<br>follow |  
-| bip_39_word_new_br3 | present<br>follow<br>company |  
-| bip_39_word_new_br4 | present<br>follow<br>company<br>wait |  
-| bip_39_word_new_br5 | present<br>follow<br>company<br>wait<br>arrive |  
-| bip_39_word_new_br6 | present<br>follow<br>company<br>wait<br>arrive<br>acid |  
-| bip_39_word_new_br7 | present<br>follow<br>company<br>wait<br>arrive<br>acid<br>abstract |  
-| bip_39_word_new_br8 | present<br>follow<br>company<br>wait<br>arrive<br>acid<br>abstract<br>boost |  
-| bip_39_word_new_br9 | present<br>follow<br>company<br>wait<br>arrive<br>acid<br>abstract<br>boost<br>try |  
-| bip_39_word_new_line1 | present |  
-| bip_39_word_new_line10 | present
+| bip_39_word_new_br_1 | present |  
+| bip_39_word_new_br_10 | present<br>follow<br>company<br>wait<br>arrive<br>acid<br>abstract<br>boost<br>try<br>what |  
+| bip_39_word_new_br_11 | present<br>follow<br>company<br>wait<br>arrive<br>acid<br>abstract<br>boost<br>try<br>what<br>tank |  
+| bip_39_word_new_br_12 | present<br>follow<br>company<br>wait<br>arrive<br>acid<br>abstract<br>boost<br>try<br>what<br>tank<br>ahead |  
+| bip_39_word_new_br_2 | present<br>follow |  
+| bip_39_word_new_br_3 | present<br>follow<br>company |  
+| bip_39_word_new_br_4 | present<br>follow<br>company<br>wait |  
+| bip_39_word_new_br_5 | present<br>follow<br>company<br>wait<br>arrive |  
+| bip_39_word_new_br_6 | present<br>follow<br>company<br>wait<br>arrive<br>acid |  
+| bip_39_word_new_br_7 | present<br>follow<br>company<br>wait<br>arrive<br>acid<br>abstract |  
+| bip_39_word_new_br_8 | present<br>follow<br>company<br>wait<br>arrive<br>acid<br>abstract<br>boost |  
+| bip_39_word_new_br_9 | present<br>follow<br>company<br>wait<br>arrive<br>acid<br>abstract<br>boost<br>try |  
+| bip_39_word_new_line_1 | present |  
+| bip_39_word_new_line_10 | present
 follow
 company
 wait
@@ -55,7 +55,7 @@ abstract
 boost
 try
 what |  
-| bip_39_word_new_line11 | present
+| bip_39_word_new_line_11 | present
 follow
 company
 wait
@@ -66,7 +66,7 @@ boost
 try
 what
 tank |  
-| bip_39_word_new_line12 | present
+| bip_39_word_new_line_12 | present
 follow
 company
 wait
@@ -78,34 +78,34 @@ try
 what
 tank
 ahead |  
-| bip_39_word_new_line2 | present
+| bip_39_word_new_line_2 | present
 follow |  
-| bip_39_word_new_line3 | present
+| bip_39_word_new_line_3 | present
 follow
 company |  
-| bip_39_word_new_line4 | present
+| bip_39_word_new_line_4 | present
 follow
 company
 wait |  
-| bip_39_word_new_line5 | present
+| bip_39_word_new_line_5 | present
 follow
 company
 wait
 arrive |  
-| bip_39_word_new_line6 | present
+| bip_39_word_new_line_6 | present
 follow
 company
 wait
 arrive
 acid |  
-| bip_39_word_new_line7 | present
+| bip_39_word_new_line_7 | present
 follow
 company
 wait
 arrive
 acid
 abstract |  
-| bip_39_word_new_line8 | present
+| bip_39_word_new_line_8 | present
 follow
 company
 wait
@@ -113,7 +113,7 @@ arrive
 acid
 abstract
 boost |  
-| bip_39_word_new_line9 | present
+| bip_39_word_new_line_9 | present
 follow
 company
 wait

@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | decide |  
-| bip_39_word_new_br10 | decide<br>buddy<br>comfort<br>palm<br>uphold<br>way<br>december<br>estate<br>term<br>doll |  
-| bip_39_word_new_br11 | decide<br>buddy<br>comfort<br>palm<br>uphold<br>way<br>december<br>estate<br>term<br>doll<br>lunch |  
-| bip_39_word_new_br2 | decide<br>buddy |  
-| bip_39_word_new_br3 | decide<br>buddy<br>comfort |  
-| bip_39_word_new_br4 | decide<br>buddy<br>comfort<br>palm |  
-| bip_39_word_new_br5 | decide<br>buddy<br>comfort<br>palm<br>uphold |  
-| bip_39_word_new_br6 | decide<br>buddy<br>comfort<br>palm<br>uphold<br>way |  
-| bip_39_word_new_br7 | decide<br>buddy<br>comfort<br>palm<br>uphold<br>way<br>december |  
-| bip_39_word_new_br8 | decide<br>buddy<br>comfort<br>palm<br>uphold<br>way<br>december<br>estate |  
-| bip_39_word_new_br9 | decide<br>buddy<br>comfort<br>palm<br>uphold<br>way<br>december<br>estate<br>term |  
-| bip_39_word_new_line1 | decide |  
-| bip_39_word_new_line10 | decide
+| bip_39_word_new_br_1 | decide |  
+| bip_39_word_new_br_10 | decide<br>buddy<br>comfort<br>palm<br>uphold<br>way<br>december<br>estate<br>term<br>doll |  
+| bip_39_word_new_br_11 | decide<br>buddy<br>comfort<br>palm<br>uphold<br>way<br>december<br>estate<br>term<br>doll<br>lunch |  
+| bip_39_word_new_br_2 | decide<br>buddy |  
+| bip_39_word_new_br_3 | decide<br>buddy<br>comfort |  
+| bip_39_word_new_br_4 | decide<br>buddy<br>comfort<br>palm |  
+| bip_39_word_new_br_5 | decide<br>buddy<br>comfort<br>palm<br>uphold |  
+| bip_39_word_new_br_6 | decide<br>buddy<br>comfort<br>palm<br>uphold<br>way |  
+| bip_39_word_new_br_7 | decide<br>buddy<br>comfort<br>palm<br>uphold<br>way<br>december |  
+| bip_39_word_new_br_8 | decide<br>buddy<br>comfort<br>palm<br>uphold<br>way<br>december<br>estate |  
+| bip_39_word_new_br_9 | decide<br>buddy<br>comfort<br>palm<br>uphold<br>way<br>december<br>estate<br>term |  
+| bip_39_word_new_line_1 | decide |  
+| bip_39_word_new_line_10 | decide
 buddy
 comfort
 palm
@@ -54,7 +54,7 @@ december
 estate
 term
 doll |  
-| bip_39_word_new_line11 | decide
+| bip_39_word_new_line_11 | decide
 buddy
 comfort
 palm
@@ -65,34 +65,34 @@ estate
 term
 doll
 lunch |  
-| bip_39_word_new_line2 | decide
+| bip_39_word_new_line_2 | decide
 buddy |  
-| bip_39_word_new_line3 | decide
+| bip_39_word_new_line_3 | decide
 buddy
 comfort |  
-| bip_39_word_new_line4 | decide
+| bip_39_word_new_line_4 | decide
 buddy
 comfort
 palm |  
-| bip_39_word_new_line5 | decide
+| bip_39_word_new_line_5 | decide
 buddy
 comfort
 palm
 uphold |  
-| bip_39_word_new_line6 | decide
+| bip_39_word_new_line_6 | decide
 buddy
 comfort
 palm
 uphold
 way |  
-| bip_39_word_new_line7 | decide
+| bip_39_word_new_line_7 | decide
 buddy
 comfort
 palm
 uphold
 way
 december |  
-| bip_39_word_new_line8 | decide
+| bip_39_word_new_line_8 | decide
 buddy
 comfort
 palm
@@ -100,7 +100,7 @@ uphold
 way
 december
 estate |  
-| bip_39_word_new_line9 | decide
+| bip_39_word_new_line_9 | decide
 buddy
 comfort
 palm

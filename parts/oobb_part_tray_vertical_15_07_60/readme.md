@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | liberty |  
-| bip_39_word_new_br10 | liberty<br>black<br>update<br>excess<br>coil<br>craft<br>page<br>cheap<br>lonely<br>icon |  
-| bip_39_word_new_br11 | liberty<br>black<br>update<br>excess<br>coil<br>craft<br>page<br>cheap<br>lonely<br>icon<br>radio |  
-| bip_39_word_new_br12 | liberty<br>black<br>update<br>excess<br>coil<br>craft<br>page<br>cheap<br>lonely<br>icon<br>radio<br>audit |  
-| bip_39_word_new_br2 | liberty<br>black |  
-| bip_39_word_new_br3 | liberty<br>black<br>update |  
-| bip_39_word_new_br4 | liberty<br>black<br>update<br>excess |  
-| bip_39_word_new_br5 | liberty<br>black<br>update<br>excess<br>coil |  
-| bip_39_word_new_br6 | liberty<br>black<br>update<br>excess<br>coil<br>craft |  
-| bip_39_word_new_br7 | liberty<br>black<br>update<br>excess<br>coil<br>craft<br>page |  
-| bip_39_word_new_br8 | liberty<br>black<br>update<br>excess<br>coil<br>craft<br>page<br>cheap |  
-| bip_39_word_new_br9 | liberty<br>black<br>update<br>excess<br>coil<br>craft<br>page<br>cheap<br>lonely |  
-| bip_39_word_new_line1 | liberty |  
-| bip_39_word_new_line10 | liberty
+| bip_39_word_new_br_1 | liberty |  
+| bip_39_word_new_br_10 | liberty<br>black<br>update<br>excess<br>coil<br>craft<br>page<br>cheap<br>lonely<br>icon |  
+| bip_39_word_new_br_11 | liberty<br>black<br>update<br>excess<br>coil<br>craft<br>page<br>cheap<br>lonely<br>icon<br>radio |  
+| bip_39_word_new_br_12 | liberty<br>black<br>update<br>excess<br>coil<br>craft<br>page<br>cheap<br>lonely<br>icon<br>radio<br>audit |  
+| bip_39_word_new_br_2 | liberty<br>black |  
+| bip_39_word_new_br_3 | liberty<br>black<br>update |  
+| bip_39_word_new_br_4 | liberty<br>black<br>update<br>excess |  
+| bip_39_word_new_br_5 | liberty<br>black<br>update<br>excess<br>coil |  
+| bip_39_word_new_br_6 | liberty<br>black<br>update<br>excess<br>coil<br>craft |  
+| bip_39_word_new_br_7 | liberty<br>black<br>update<br>excess<br>coil<br>craft<br>page |  
+| bip_39_word_new_br_8 | liberty<br>black<br>update<br>excess<br>coil<br>craft<br>page<br>cheap |  
+| bip_39_word_new_br_9 | liberty<br>black<br>update<br>excess<br>coil<br>craft<br>page<br>cheap<br>lonely |  
+| bip_39_word_new_line_1 | liberty |  
+| bip_39_word_new_line_10 | liberty
 black
 update
 excess
@@ -55,7 +55,7 @@ page
 cheap
 lonely
 icon |  
-| bip_39_word_new_line11 | liberty
+| bip_39_word_new_line_11 | liberty
 black
 update
 excess
@@ -66,7 +66,7 @@ cheap
 lonely
 icon
 radio |  
-| bip_39_word_new_line12 | liberty
+| bip_39_word_new_line_12 | liberty
 black
 update
 excess
@@ -78,34 +78,34 @@ lonely
 icon
 radio
 audit |  
-| bip_39_word_new_line2 | liberty
+| bip_39_word_new_line_2 | liberty
 black |  
-| bip_39_word_new_line3 | liberty
+| bip_39_word_new_line_3 | liberty
 black
 update |  
-| bip_39_word_new_line4 | liberty
+| bip_39_word_new_line_4 | liberty
 black
 update
 excess |  
-| bip_39_word_new_line5 | liberty
+| bip_39_word_new_line_5 | liberty
 black
 update
 excess
 coil |  
-| bip_39_word_new_line6 | liberty
+| bip_39_word_new_line_6 | liberty
 black
 update
 excess
 coil
 craft |  
-| bip_39_word_new_line7 | liberty
+| bip_39_word_new_line_7 | liberty
 black
 update
 excess
 coil
 craft
 page |  
-| bip_39_word_new_line8 | liberty
+| bip_39_word_new_line_8 | liberty
 black
 update
 excess
@@ -113,7 +113,7 @@ coil
 craft
 page
 cheap |  
-| bip_39_word_new_line9 | liberty
+| bip_39_word_new_line_9 | liberty
 black
 update
 excess

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | shine |  
-| bip_39_word_new_br10 | shine<br>erode<br>shoulder<br>gravity<br>air<br>trial<br>meadow<br>mushroom<br>inhale<br>quarter |  
-| bip_39_word_new_br11 | shine<br>erode<br>shoulder<br>gravity<br>air<br>trial<br>meadow<br>mushroom<br>inhale<br>quarter<br>damp |  
-| bip_39_word_new_br12 | shine<br>erode<br>shoulder<br>gravity<br>air<br>trial<br>meadow<br>mushroom<br>inhale<br>quarter<br>damp<br>artefact |  
-| bip_39_word_new_br2 | shine<br>erode |  
-| bip_39_word_new_br3 | shine<br>erode<br>shoulder |  
-| bip_39_word_new_br4 | shine<br>erode<br>shoulder<br>gravity |  
-| bip_39_word_new_br5 | shine<br>erode<br>shoulder<br>gravity<br>air |  
-| bip_39_word_new_br6 | shine<br>erode<br>shoulder<br>gravity<br>air<br>trial |  
-| bip_39_word_new_br7 | shine<br>erode<br>shoulder<br>gravity<br>air<br>trial<br>meadow |  
-| bip_39_word_new_br8 | shine<br>erode<br>shoulder<br>gravity<br>air<br>trial<br>meadow<br>mushroom |  
-| bip_39_word_new_br9 | shine<br>erode<br>shoulder<br>gravity<br>air<br>trial<br>meadow<br>mushroom<br>inhale |  
-| bip_39_word_new_line1 | shine |  
-| bip_39_word_new_line10 | shine
+| bip_39_word_new_br_1 | shine |  
+| bip_39_word_new_br_10 | shine<br>erode<br>shoulder<br>gravity<br>air<br>trial<br>meadow<br>mushroom<br>inhale<br>quarter |  
+| bip_39_word_new_br_11 | shine<br>erode<br>shoulder<br>gravity<br>air<br>trial<br>meadow<br>mushroom<br>inhale<br>quarter<br>damp |  
+| bip_39_word_new_br_12 | shine<br>erode<br>shoulder<br>gravity<br>air<br>trial<br>meadow<br>mushroom<br>inhale<br>quarter<br>damp<br>artefact |  
+| bip_39_word_new_br_2 | shine<br>erode |  
+| bip_39_word_new_br_3 | shine<br>erode<br>shoulder |  
+| bip_39_word_new_br_4 | shine<br>erode<br>shoulder<br>gravity |  
+| bip_39_word_new_br_5 | shine<br>erode<br>shoulder<br>gravity<br>air |  
+| bip_39_word_new_br_6 | shine<br>erode<br>shoulder<br>gravity<br>air<br>trial |  
+| bip_39_word_new_br_7 | shine<br>erode<br>shoulder<br>gravity<br>air<br>trial<br>meadow |  
+| bip_39_word_new_br_8 | shine<br>erode<br>shoulder<br>gravity<br>air<br>trial<br>meadow<br>mushroom |  
+| bip_39_word_new_br_9 | shine<br>erode<br>shoulder<br>gravity<br>air<br>trial<br>meadow<br>mushroom<br>inhale |  
+| bip_39_word_new_line_1 | shine |  
+| bip_39_word_new_line_10 | shine
 erode
 shoulder
 gravity
@@ -55,7 +55,7 @@ meadow
 mushroom
 inhale
 quarter |  
-| bip_39_word_new_line11 | shine
+| bip_39_word_new_line_11 | shine
 erode
 shoulder
 gravity
@@ -66,7 +66,7 @@ mushroom
 inhale
 quarter
 damp |  
-| bip_39_word_new_line12 | shine
+| bip_39_word_new_line_12 | shine
 erode
 shoulder
 gravity
@@ -78,34 +78,34 @@ inhale
 quarter
 damp
 artefact |  
-| bip_39_word_new_line2 | shine
+| bip_39_word_new_line_2 | shine
 erode |  
-| bip_39_word_new_line3 | shine
+| bip_39_word_new_line_3 | shine
 erode
 shoulder |  
-| bip_39_word_new_line4 | shine
+| bip_39_word_new_line_4 | shine
 erode
 shoulder
 gravity |  
-| bip_39_word_new_line5 | shine
+| bip_39_word_new_line_5 | shine
 erode
 shoulder
 gravity
 air |  
-| bip_39_word_new_line6 | shine
+| bip_39_word_new_line_6 | shine
 erode
 shoulder
 gravity
 air
 trial |  
-| bip_39_word_new_line7 | shine
+| bip_39_word_new_line_7 | shine
 erode
 shoulder
 gravity
 air
 trial
 meadow |  
-| bip_39_word_new_line8 | shine
+| bip_39_word_new_line_8 | shine
 erode
 shoulder
 gravity
@@ -113,7 +113,7 @@ air
 trial
 meadow
 mushroom |  
-| bip_39_word_new_line9 | shine
+| bip_39_word_new_line_9 | shine
 erode
 shoulder
 gravity

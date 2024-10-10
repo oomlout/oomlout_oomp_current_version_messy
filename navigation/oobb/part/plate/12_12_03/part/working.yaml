@@ -1,17 +1,17 @@
-bip_39_word_new_br1: require
-bip_39_word_new_br10: require<br>palm<br>smoke<br>island<br>walk<br>february<br>ramp<br>demand<br>curve<br>attract
-bip_39_word_new_br11: require<br>palm<br>smoke<br>island<br>walk<br>february<br>ramp<br>demand<br>curve<br>attract<br>patrol
-bip_39_word_new_br12: require<br>palm<br>smoke<br>island<br>walk<br>february<br>ramp<br>demand<br>curve<br>attract<br>patrol<br>advance
-bip_39_word_new_br2: require<br>palm
-bip_39_word_new_br3: require<br>palm<br>smoke
-bip_39_word_new_br4: require<br>palm<br>smoke<br>island
-bip_39_word_new_br5: require<br>palm<br>smoke<br>island<br>walk
-bip_39_word_new_br6: require<br>palm<br>smoke<br>island<br>walk<br>february
-bip_39_word_new_br7: require<br>palm<br>smoke<br>island<br>walk<br>february<br>ramp
-bip_39_word_new_br8: require<br>palm<br>smoke<br>island<br>walk<br>february<br>ramp<br>demand
-bip_39_word_new_br9: require<br>palm<br>smoke<br>island<br>walk<br>february<br>ramp<br>demand<br>curve
-bip_39_word_new_line1: require
-bip_39_word_new_line10: 'require
+bip_39_word_new_br_1: require
+bip_39_word_new_br_10: require<br>palm<br>smoke<br>island<br>walk<br>february<br>ramp<br>demand<br>curve<br>attract
+bip_39_word_new_br_11: require<br>palm<br>smoke<br>island<br>walk<br>february<br>ramp<br>demand<br>curve<br>attract<br>patrol
+bip_39_word_new_br_12: require<br>palm<br>smoke<br>island<br>walk<br>february<br>ramp<br>demand<br>curve<br>attract<br>patrol<br>advance
+bip_39_word_new_br_2: require<br>palm
+bip_39_word_new_br_3: require<br>palm<br>smoke
+bip_39_word_new_br_4: require<br>palm<br>smoke<br>island
+bip_39_word_new_br_5: require<br>palm<br>smoke<br>island<br>walk
+bip_39_word_new_br_6: require<br>palm<br>smoke<br>island<br>walk<br>february
+bip_39_word_new_br_7: require<br>palm<br>smoke<br>island<br>walk<br>february<br>ramp
+bip_39_word_new_br_8: require<br>palm<br>smoke<br>island<br>walk<br>february<br>ramp<br>demand
+bip_39_word_new_br_9: require<br>palm<br>smoke<br>island<br>walk<br>february<br>ramp<br>demand<br>curve
+bip_39_word_new_line_1: require
+bip_39_word_new_line_10: 'require
 
   palm
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'require
   curve
 
   attract'
-bip_39_word_new_line11: 'require
+bip_39_word_new_line_11: 'require
 
   palm
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'require
   attract
 
   patrol'
-bip_39_word_new_line12: 'require
+bip_39_word_new_line_12: 'require
 
   palm
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'require
   patrol
 
   advance'
-bip_39_word_new_line2: 'require
+bip_39_word_new_line_2: 'require
 
   palm'
-bip_39_word_new_line3: 'require
+bip_39_word_new_line_3: 'require
 
   palm
 
   smoke'
-bip_39_word_new_line4: 'require
+bip_39_word_new_line_4: 'require
 
   palm
 
   smoke
 
   island'
-bip_39_word_new_line5: 'require
+bip_39_word_new_line_5: 'require
 
   palm
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'require
   island
 
   walk'
-bip_39_word_new_line6: 'require
+bip_39_word_new_line_6: 'require
 
   palm
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'require
   walk
 
   february'
-bip_39_word_new_line7: 'require
+bip_39_word_new_line_7: 'require
 
   palm
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'require
   february
 
   ramp'
-bip_39_word_new_line8: 'require
+bip_39_word_new_line_8: 'require
 
   palm
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'require
   ramp
 
   demand'
-bip_39_word_new_line9: 'require
+bip_39_word_new_line_9: 'require
 
   palm
 

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | decline |  
-| bip_39_word_new_br10 | decline<br>extra<br>curtain<br>panda<br>feel<br>blast<br>dash<br>stem<br>shrug<br>holiday |  
-| bip_39_word_new_br11 | decline<br>extra<br>curtain<br>panda<br>feel<br>blast<br>dash<br>stem<br>shrug<br>holiday<br>want |  
-| bip_39_word_new_br12 | decline<br>extra<br>curtain<br>panda<br>feel<br>blast<br>dash<br>stem<br>shrug<br>holiday<br>want<br>art |  
-| bip_39_word_new_br2 | decline<br>extra |  
-| bip_39_word_new_br3 | decline<br>extra<br>curtain |  
-| bip_39_word_new_br4 | decline<br>extra<br>curtain<br>panda |  
-| bip_39_word_new_br5 | decline<br>extra<br>curtain<br>panda<br>feel |  
-| bip_39_word_new_br6 | decline<br>extra<br>curtain<br>panda<br>feel<br>blast |  
-| bip_39_word_new_br7 | decline<br>extra<br>curtain<br>panda<br>feel<br>blast<br>dash |  
-| bip_39_word_new_br8 | decline<br>extra<br>curtain<br>panda<br>feel<br>blast<br>dash<br>stem |  
-| bip_39_word_new_br9 | decline<br>extra<br>curtain<br>panda<br>feel<br>blast<br>dash<br>stem<br>shrug |  
-| bip_39_word_new_line1 | decline |  
-| bip_39_word_new_line10 | decline
+| bip_39_word_new_br_1 | decline |  
+| bip_39_word_new_br_10 | decline<br>extra<br>curtain<br>panda<br>feel<br>blast<br>dash<br>stem<br>shrug<br>holiday |  
+| bip_39_word_new_br_11 | decline<br>extra<br>curtain<br>panda<br>feel<br>blast<br>dash<br>stem<br>shrug<br>holiday<br>want |  
+| bip_39_word_new_br_12 | decline<br>extra<br>curtain<br>panda<br>feel<br>blast<br>dash<br>stem<br>shrug<br>holiday<br>want<br>art |  
+| bip_39_word_new_br_2 | decline<br>extra |  
+| bip_39_word_new_br_3 | decline<br>extra<br>curtain |  
+| bip_39_word_new_br_4 | decline<br>extra<br>curtain<br>panda |  
+| bip_39_word_new_br_5 | decline<br>extra<br>curtain<br>panda<br>feel |  
+| bip_39_word_new_br_6 | decline<br>extra<br>curtain<br>panda<br>feel<br>blast |  
+| bip_39_word_new_br_7 | decline<br>extra<br>curtain<br>panda<br>feel<br>blast<br>dash |  
+| bip_39_word_new_br_8 | decline<br>extra<br>curtain<br>panda<br>feel<br>blast<br>dash<br>stem |  
+| bip_39_word_new_br_9 | decline<br>extra<br>curtain<br>panda<br>feel<br>blast<br>dash<br>stem<br>shrug |  
+| bip_39_word_new_line_1 | decline |  
+| bip_39_word_new_line_10 | decline
 extra
 curtain
 panda
@@ -55,7 +55,7 @@ dash
 stem
 shrug
 holiday |  
-| bip_39_word_new_line11 | decline
+| bip_39_word_new_line_11 | decline
 extra
 curtain
 panda
@@ -66,7 +66,7 @@ stem
 shrug
 holiday
 want |  
-| bip_39_word_new_line12 | decline
+| bip_39_word_new_line_12 | decline
 extra
 curtain
 panda
@@ -78,34 +78,34 @@ shrug
 holiday
 want
 art |  
-| bip_39_word_new_line2 | decline
+| bip_39_word_new_line_2 | decline
 extra |  
-| bip_39_word_new_line3 | decline
+| bip_39_word_new_line_3 | decline
 extra
 curtain |  
-| bip_39_word_new_line4 | decline
+| bip_39_word_new_line_4 | decline
 extra
 curtain
 panda |  
-| bip_39_word_new_line5 | decline
+| bip_39_word_new_line_5 | decline
 extra
 curtain
 panda
 feel |  
-| bip_39_word_new_line6 | decline
+| bip_39_word_new_line_6 | decline
 extra
 curtain
 panda
 feel
 blast |  
-| bip_39_word_new_line7 | decline
+| bip_39_word_new_line_7 | decline
 extra
 curtain
 panda
 feel
 blast
 dash |  
-| bip_39_word_new_line8 | decline
+| bip_39_word_new_line_8 | decline
 extra
 curtain
 panda
@@ -113,7 +113,7 @@ feel
 blast
 dash
 stem |  
-| bip_39_word_new_line9 | decline
+| bip_39_word_new_line_9 | decline
 extra
 curtain
 panda

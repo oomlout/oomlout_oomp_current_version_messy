@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | left |  
-| bip_39_word_new_br10 | left<br>mountain<br>top<br>evoke<br>sort<br>wash<br>cannon<br>uncle<br>satoshi<br>unaware |  
-| bip_39_word_new_br11 | left<br>mountain<br>top<br>evoke<br>sort<br>wash<br>cannon<br>uncle<br>satoshi<br>unaware<br>crew |  
-| bip_39_word_new_br12 | left<br>mountain<br>top<br>evoke<br>sort<br>wash<br>cannon<br>uncle<br>satoshi<br>unaware<br>crew<br>already |  
-| bip_39_word_new_br2 | left<br>mountain |  
-| bip_39_word_new_br3 | left<br>mountain<br>top |  
-| bip_39_word_new_br4 | left<br>mountain<br>top<br>evoke |  
-| bip_39_word_new_br5 | left<br>mountain<br>top<br>evoke<br>sort |  
-| bip_39_word_new_br6 | left<br>mountain<br>top<br>evoke<br>sort<br>wash |  
-| bip_39_word_new_br7 | left<br>mountain<br>top<br>evoke<br>sort<br>wash<br>cannon |  
-| bip_39_word_new_br8 | left<br>mountain<br>top<br>evoke<br>sort<br>wash<br>cannon<br>uncle |  
-| bip_39_word_new_br9 | left<br>mountain<br>top<br>evoke<br>sort<br>wash<br>cannon<br>uncle<br>satoshi |  
-| bip_39_word_new_line1 | left |  
-| bip_39_word_new_line10 | left
+| bip_39_word_new_br_1 | left |  
+| bip_39_word_new_br_10 | left<br>mountain<br>top<br>evoke<br>sort<br>wash<br>cannon<br>uncle<br>satoshi<br>unaware |  
+| bip_39_word_new_br_11 | left<br>mountain<br>top<br>evoke<br>sort<br>wash<br>cannon<br>uncle<br>satoshi<br>unaware<br>crew |  
+| bip_39_word_new_br_12 | left<br>mountain<br>top<br>evoke<br>sort<br>wash<br>cannon<br>uncle<br>satoshi<br>unaware<br>crew<br>already |  
+| bip_39_word_new_br_2 | left<br>mountain |  
+| bip_39_word_new_br_3 | left<br>mountain<br>top |  
+| bip_39_word_new_br_4 | left<br>mountain<br>top<br>evoke |  
+| bip_39_word_new_br_5 | left<br>mountain<br>top<br>evoke<br>sort |  
+| bip_39_word_new_br_6 | left<br>mountain<br>top<br>evoke<br>sort<br>wash |  
+| bip_39_word_new_br_7 | left<br>mountain<br>top<br>evoke<br>sort<br>wash<br>cannon |  
+| bip_39_word_new_br_8 | left<br>mountain<br>top<br>evoke<br>sort<br>wash<br>cannon<br>uncle |  
+| bip_39_word_new_br_9 | left<br>mountain<br>top<br>evoke<br>sort<br>wash<br>cannon<br>uncle<br>satoshi |  
+| bip_39_word_new_line_1 | left |  
+| bip_39_word_new_line_10 | left
 mountain
 top
 evoke
@@ -55,7 +55,7 @@ cannon
 uncle
 satoshi
 unaware |  
-| bip_39_word_new_line11 | left
+| bip_39_word_new_line_11 | left
 mountain
 top
 evoke
@@ -66,7 +66,7 @@ uncle
 satoshi
 unaware
 crew |  
-| bip_39_word_new_line12 | left
+| bip_39_word_new_line_12 | left
 mountain
 top
 evoke
@@ -78,34 +78,34 @@ satoshi
 unaware
 crew
 already |  
-| bip_39_word_new_line2 | left
+| bip_39_word_new_line_2 | left
 mountain |  
-| bip_39_word_new_line3 | left
+| bip_39_word_new_line_3 | left
 mountain
 top |  
-| bip_39_word_new_line4 | left
+| bip_39_word_new_line_4 | left
 mountain
 top
 evoke |  
-| bip_39_word_new_line5 | left
+| bip_39_word_new_line_5 | left
 mountain
 top
 evoke
 sort |  
-| bip_39_word_new_line6 | left
+| bip_39_word_new_line_6 | left
 mountain
 top
 evoke
 sort
 wash |  
-| bip_39_word_new_line7 | left
+| bip_39_word_new_line_7 | left
 mountain
 top
 evoke
 sort
 wash
 cannon |  
-| bip_39_word_new_line8 | left
+| bip_39_word_new_line_8 | left
 mountain
 top
 evoke
@@ -113,7 +113,7 @@ sort
 wash
 cannon
 uncle |  
-| bip_39_word_new_line9 | left
+| bip_39_word_new_line_9 | left
 mountain
 top
 evoke

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bomb |  
-| bip_39_word_new_br10 | bomb<br>gym<br>knee<br>giggle<br>know<br>taste<br>someone<br>feel<br>coast<br>mercy |  
-| bip_39_word_new_br11 | bomb<br>gym<br>knee<br>giggle<br>know<br>taste<br>someone<br>feel<br>coast<br>mercy<br>anxiety |  
-| bip_39_word_new_br12 | bomb<br>gym<br>knee<br>giggle<br>know<br>taste<br>someone<br>feel<br>coast<br>mercy<br>anxiety<br>august |  
-| bip_39_word_new_br2 | bomb<br>gym |  
-| bip_39_word_new_br3 | bomb<br>gym<br>knee |  
-| bip_39_word_new_br4 | bomb<br>gym<br>knee<br>giggle |  
-| bip_39_word_new_br5 | bomb<br>gym<br>knee<br>giggle<br>know |  
-| bip_39_word_new_br6 | bomb<br>gym<br>knee<br>giggle<br>know<br>taste |  
-| bip_39_word_new_br7 | bomb<br>gym<br>knee<br>giggle<br>know<br>taste<br>someone |  
-| bip_39_word_new_br8 | bomb<br>gym<br>knee<br>giggle<br>know<br>taste<br>someone<br>feel |  
-| bip_39_word_new_br9 | bomb<br>gym<br>knee<br>giggle<br>know<br>taste<br>someone<br>feel<br>coast |  
-| bip_39_word_new_line1 | bomb |  
-| bip_39_word_new_line10 | bomb
+| bip_39_word_new_br_1 | bomb |  
+| bip_39_word_new_br_10 | bomb<br>gym<br>knee<br>giggle<br>know<br>taste<br>someone<br>feel<br>coast<br>mercy |  
+| bip_39_word_new_br_11 | bomb<br>gym<br>knee<br>giggle<br>know<br>taste<br>someone<br>feel<br>coast<br>mercy<br>anxiety |  
+| bip_39_word_new_br_12 | bomb<br>gym<br>knee<br>giggle<br>know<br>taste<br>someone<br>feel<br>coast<br>mercy<br>anxiety<br>august |  
+| bip_39_word_new_br_2 | bomb<br>gym |  
+| bip_39_word_new_br_3 | bomb<br>gym<br>knee |  
+| bip_39_word_new_br_4 | bomb<br>gym<br>knee<br>giggle |  
+| bip_39_word_new_br_5 | bomb<br>gym<br>knee<br>giggle<br>know |  
+| bip_39_word_new_br_6 | bomb<br>gym<br>knee<br>giggle<br>know<br>taste |  
+| bip_39_word_new_br_7 | bomb<br>gym<br>knee<br>giggle<br>know<br>taste<br>someone |  
+| bip_39_word_new_br_8 | bomb<br>gym<br>knee<br>giggle<br>know<br>taste<br>someone<br>feel |  
+| bip_39_word_new_br_9 | bomb<br>gym<br>knee<br>giggle<br>know<br>taste<br>someone<br>feel<br>coast |  
+| bip_39_word_new_line_1 | bomb |  
+| bip_39_word_new_line_10 | bomb
 gym
 knee
 giggle
@@ -55,7 +55,7 @@ someone
 feel
 coast
 mercy |  
-| bip_39_word_new_line11 | bomb
+| bip_39_word_new_line_11 | bomb
 gym
 knee
 giggle
@@ -66,7 +66,7 @@ feel
 coast
 mercy
 anxiety |  
-| bip_39_word_new_line12 | bomb
+| bip_39_word_new_line_12 | bomb
 gym
 knee
 giggle
@@ -78,34 +78,34 @@ coast
 mercy
 anxiety
 august |  
-| bip_39_word_new_line2 | bomb
+| bip_39_word_new_line_2 | bomb
 gym |  
-| bip_39_word_new_line3 | bomb
+| bip_39_word_new_line_3 | bomb
 gym
 knee |  
-| bip_39_word_new_line4 | bomb
+| bip_39_word_new_line_4 | bomb
 gym
 knee
 giggle |  
-| bip_39_word_new_line5 | bomb
+| bip_39_word_new_line_5 | bomb
 gym
 knee
 giggle
 know |  
-| bip_39_word_new_line6 | bomb
+| bip_39_word_new_line_6 | bomb
 gym
 knee
 giggle
 know
 taste |  
-| bip_39_word_new_line7 | bomb
+| bip_39_word_new_line_7 | bomb
 gym
 knee
 giggle
 know
 taste
 someone |  
-| bip_39_word_new_line8 | bomb
+| bip_39_word_new_line_8 | bomb
 gym
 knee
 giggle
@@ -113,7 +113,7 @@ know
 taste
 someone
 feel |  
-| bip_39_word_new_line9 | bomb
+| bip_39_word_new_line_9 | bomb
 gym
 knee
 giggle

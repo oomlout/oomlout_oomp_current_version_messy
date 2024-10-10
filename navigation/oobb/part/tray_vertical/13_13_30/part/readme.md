@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | expose |  
-| bip_39_word_new_br10 | expose<br>decide<br>puzzle<br>youth<br>ozone<br>step<br>produce<br>route<br>sibling<br>mushroom |  
-| bip_39_word_new_br11 | expose<br>decide<br>puzzle<br>youth<br>ozone<br>step<br>produce<br>route<br>sibling<br>mushroom<br>film |  
-| bip_39_word_new_br12 | expose<br>decide<br>puzzle<br>youth<br>ozone<br>step<br>produce<br>route<br>sibling<br>mushroom<br>film<br>alcohol |  
-| bip_39_word_new_br2 | expose<br>decide |  
-| bip_39_word_new_br3 | expose<br>decide<br>puzzle |  
-| bip_39_word_new_br4 | expose<br>decide<br>puzzle<br>youth |  
-| bip_39_word_new_br5 | expose<br>decide<br>puzzle<br>youth<br>ozone |  
-| bip_39_word_new_br6 | expose<br>decide<br>puzzle<br>youth<br>ozone<br>step |  
-| bip_39_word_new_br7 | expose<br>decide<br>puzzle<br>youth<br>ozone<br>step<br>produce |  
-| bip_39_word_new_br8 | expose<br>decide<br>puzzle<br>youth<br>ozone<br>step<br>produce<br>route |  
-| bip_39_word_new_br9 | expose<br>decide<br>puzzle<br>youth<br>ozone<br>step<br>produce<br>route<br>sibling |  
-| bip_39_word_new_line1 | expose |  
-| bip_39_word_new_line10 | expose
+| bip_39_word_new_br_1 | expose |  
+| bip_39_word_new_br_10 | expose<br>decide<br>puzzle<br>youth<br>ozone<br>step<br>produce<br>route<br>sibling<br>mushroom |  
+| bip_39_word_new_br_11 | expose<br>decide<br>puzzle<br>youth<br>ozone<br>step<br>produce<br>route<br>sibling<br>mushroom<br>film |  
+| bip_39_word_new_br_12 | expose<br>decide<br>puzzle<br>youth<br>ozone<br>step<br>produce<br>route<br>sibling<br>mushroom<br>film<br>alcohol |  
+| bip_39_word_new_br_2 | expose<br>decide |  
+| bip_39_word_new_br_3 | expose<br>decide<br>puzzle |  
+| bip_39_word_new_br_4 | expose<br>decide<br>puzzle<br>youth |  
+| bip_39_word_new_br_5 | expose<br>decide<br>puzzle<br>youth<br>ozone |  
+| bip_39_word_new_br_6 | expose<br>decide<br>puzzle<br>youth<br>ozone<br>step |  
+| bip_39_word_new_br_7 | expose<br>decide<br>puzzle<br>youth<br>ozone<br>step<br>produce |  
+| bip_39_word_new_br_8 | expose<br>decide<br>puzzle<br>youth<br>ozone<br>step<br>produce<br>route |  
+| bip_39_word_new_br_9 | expose<br>decide<br>puzzle<br>youth<br>ozone<br>step<br>produce<br>route<br>sibling |  
+| bip_39_word_new_line_1 | expose |  
+| bip_39_word_new_line_10 | expose
 decide
 puzzle
 youth
@@ -55,7 +55,7 @@ produce
 route
 sibling
 mushroom |  
-| bip_39_word_new_line11 | expose
+| bip_39_word_new_line_11 | expose
 decide
 puzzle
 youth
@@ -66,7 +66,7 @@ route
 sibling
 mushroom
 film |  
-| bip_39_word_new_line12 | expose
+| bip_39_word_new_line_12 | expose
 decide
 puzzle
 youth
@@ -78,34 +78,34 @@ sibling
 mushroom
 film
 alcohol |  
-| bip_39_word_new_line2 | expose
+| bip_39_word_new_line_2 | expose
 decide |  
-| bip_39_word_new_line3 | expose
+| bip_39_word_new_line_3 | expose
 decide
 puzzle |  
-| bip_39_word_new_line4 | expose
+| bip_39_word_new_line_4 | expose
 decide
 puzzle
 youth |  
-| bip_39_word_new_line5 | expose
+| bip_39_word_new_line_5 | expose
 decide
 puzzle
 youth
 ozone |  
-| bip_39_word_new_line6 | expose
+| bip_39_word_new_line_6 | expose
 decide
 puzzle
 youth
 ozone
 step |  
-| bip_39_word_new_line7 | expose
+| bip_39_word_new_line_7 | expose
 decide
 puzzle
 youth
 ozone
 step
 produce |  
-| bip_39_word_new_line8 | expose
+| bip_39_word_new_line_8 | expose
 decide
 puzzle
 youth
@@ -113,7 +113,7 @@ ozone
 step
 produce
 route |  
-| bip_39_word_new_line9 | expose
+| bip_39_word_new_line_9 | expose
 decide
 puzzle
 youth

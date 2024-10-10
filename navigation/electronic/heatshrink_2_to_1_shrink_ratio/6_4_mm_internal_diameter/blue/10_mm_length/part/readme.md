@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | champion |  
-| bip_39_word_new_br10 | champion<br>potato<br>vital<br>involve<br>rate<br>trend<br>throw<br>tuna<br>shock<br>illness |  
-| bip_39_word_new_br11 | champion<br>potato<br>vital<br>involve<br>rate<br>trend<br>throw<br>tuna<br>shock<br>illness<br>subway |  
-| bip_39_word_new_br12 | champion<br>potato<br>vital<br>involve<br>rate<br>trend<br>throw<br>tuna<br>shock<br>illness<br>subway<br>antenna |  
-| bip_39_word_new_br2 | champion<br>potato |  
-| bip_39_word_new_br3 | champion<br>potato<br>vital |  
-| bip_39_word_new_br4 | champion<br>potato<br>vital<br>involve |  
-| bip_39_word_new_br5 | champion<br>potato<br>vital<br>involve<br>rate |  
-| bip_39_word_new_br6 | champion<br>potato<br>vital<br>involve<br>rate<br>trend |  
-| bip_39_word_new_br7 | champion<br>potato<br>vital<br>involve<br>rate<br>trend<br>throw |  
-| bip_39_word_new_br8 | champion<br>potato<br>vital<br>involve<br>rate<br>trend<br>throw<br>tuna |  
-| bip_39_word_new_br9 | champion<br>potato<br>vital<br>involve<br>rate<br>trend<br>throw<br>tuna<br>shock |  
-| bip_39_word_new_line1 | champion |  
-| bip_39_word_new_line10 | champion
+| bip_39_word_new_br_1 | champion |  
+| bip_39_word_new_br_10 | champion<br>potato<br>vital<br>involve<br>rate<br>trend<br>throw<br>tuna<br>shock<br>illness |  
+| bip_39_word_new_br_11 | champion<br>potato<br>vital<br>involve<br>rate<br>trend<br>throw<br>tuna<br>shock<br>illness<br>subway |  
+| bip_39_word_new_br_12 | champion<br>potato<br>vital<br>involve<br>rate<br>trend<br>throw<br>tuna<br>shock<br>illness<br>subway<br>antenna |  
+| bip_39_word_new_br_2 | champion<br>potato |  
+| bip_39_word_new_br_3 | champion<br>potato<br>vital |  
+| bip_39_word_new_br_4 | champion<br>potato<br>vital<br>involve |  
+| bip_39_word_new_br_5 | champion<br>potato<br>vital<br>involve<br>rate |  
+| bip_39_word_new_br_6 | champion<br>potato<br>vital<br>involve<br>rate<br>trend |  
+| bip_39_word_new_br_7 | champion<br>potato<br>vital<br>involve<br>rate<br>trend<br>throw |  
+| bip_39_word_new_br_8 | champion<br>potato<br>vital<br>involve<br>rate<br>trend<br>throw<br>tuna |  
+| bip_39_word_new_br_9 | champion<br>potato<br>vital<br>involve<br>rate<br>trend<br>throw<br>tuna<br>shock |  
+| bip_39_word_new_line_1 | champion |  
+| bip_39_word_new_line_10 | champion
 potato
 vital
 involve
@@ -55,7 +55,7 @@ throw
 tuna
 shock
 illness |  
-| bip_39_word_new_line11 | champion
+| bip_39_word_new_line_11 | champion
 potato
 vital
 involve
@@ -66,7 +66,7 @@ tuna
 shock
 illness
 subway |  
-| bip_39_word_new_line12 | champion
+| bip_39_word_new_line_12 | champion
 potato
 vital
 involve
@@ -78,34 +78,34 @@ shock
 illness
 subway
 antenna |  
-| bip_39_word_new_line2 | champion
+| bip_39_word_new_line_2 | champion
 potato |  
-| bip_39_word_new_line3 | champion
+| bip_39_word_new_line_3 | champion
 potato
 vital |  
-| bip_39_word_new_line4 | champion
+| bip_39_word_new_line_4 | champion
 potato
 vital
 involve |  
-| bip_39_word_new_line5 | champion
+| bip_39_word_new_line_5 | champion
 potato
 vital
 involve
 rate |  
-| bip_39_word_new_line6 | champion
+| bip_39_word_new_line_6 | champion
 potato
 vital
 involve
 rate
 trend |  
-| bip_39_word_new_line7 | champion
+| bip_39_word_new_line_7 | champion
 potato
 vital
 involve
 rate
 trend
 throw |  
-| bip_39_word_new_line8 | champion
+| bip_39_word_new_line_8 | champion
 potato
 vital
 involve
@@ -113,7 +113,7 @@ rate
 trend
 throw
 tuna |  
-| bip_39_word_new_line9 | champion
+| bip_39_word_new_line_9 | champion
 potato
 vital
 involve

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | brisk |  
-| bip_39_word_new_br10 | brisk<br>ship<br>usual<br>reward<br>cup<br>bomb<br>slide<br>drive<br>orbit<br>initial |  
-| bip_39_word_new_br11 | brisk<br>ship<br>usual<br>reward<br>cup<br>bomb<br>slide<br>drive<br>orbit<br>initial<br>cement |  
-| bip_39_word_new_br12 | brisk<br>ship<br>usual<br>reward<br>cup<br>bomb<br>slide<br>drive<br>orbit<br>initial<br>cement<br>actor |  
-| bip_39_word_new_br2 | brisk<br>ship |  
-| bip_39_word_new_br3 | brisk<br>ship<br>usual |  
-| bip_39_word_new_br4 | brisk<br>ship<br>usual<br>reward |  
-| bip_39_word_new_br5 | brisk<br>ship<br>usual<br>reward<br>cup |  
-| bip_39_word_new_br6 | brisk<br>ship<br>usual<br>reward<br>cup<br>bomb |  
-| bip_39_word_new_br7 | brisk<br>ship<br>usual<br>reward<br>cup<br>bomb<br>slide |  
-| bip_39_word_new_br8 | brisk<br>ship<br>usual<br>reward<br>cup<br>bomb<br>slide<br>drive |  
-| bip_39_word_new_br9 | brisk<br>ship<br>usual<br>reward<br>cup<br>bomb<br>slide<br>drive<br>orbit |  
-| bip_39_word_new_line1 | brisk |  
-| bip_39_word_new_line10 | brisk
+| bip_39_word_new_br_1 | brisk |  
+| bip_39_word_new_br_10 | brisk<br>ship<br>usual<br>reward<br>cup<br>bomb<br>slide<br>drive<br>orbit<br>initial |  
+| bip_39_word_new_br_11 | brisk<br>ship<br>usual<br>reward<br>cup<br>bomb<br>slide<br>drive<br>orbit<br>initial<br>cement |  
+| bip_39_word_new_br_12 | brisk<br>ship<br>usual<br>reward<br>cup<br>bomb<br>slide<br>drive<br>orbit<br>initial<br>cement<br>actor |  
+| bip_39_word_new_br_2 | brisk<br>ship |  
+| bip_39_word_new_br_3 | brisk<br>ship<br>usual |  
+| bip_39_word_new_br_4 | brisk<br>ship<br>usual<br>reward |  
+| bip_39_word_new_br_5 | brisk<br>ship<br>usual<br>reward<br>cup |  
+| bip_39_word_new_br_6 | brisk<br>ship<br>usual<br>reward<br>cup<br>bomb |  
+| bip_39_word_new_br_7 | brisk<br>ship<br>usual<br>reward<br>cup<br>bomb<br>slide |  
+| bip_39_word_new_br_8 | brisk<br>ship<br>usual<br>reward<br>cup<br>bomb<br>slide<br>drive |  
+| bip_39_word_new_br_9 | brisk<br>ship<br>usual<br>reward<br>cup<br>bomb<br>slide<br>drive<br>orbit |  
+| bip_39_word_new_line_1 | brisk |  
+| bip_39_word_new_line_10 | brisk
 ship
 usual
 reward
@@ -55,7 +55,7 @@ slide
 drive
 orbit
 initial |  
-| bip_39_word_new_line11 | brisk
+| bip_39_word_new_line_11 | brisk
 ship
 usual
 reward
@@ -66,7 +66,7 @@ drive
 orbit
 initial
 cement |  
-| bip_39_word_new_line12 | brisk
+| bip_39_word_new_line_12 | brisk
 ship
 usual
 reward
@@ -78,34 +78,34 @@ orbit
 initial
 cement
 actor |  
-| bip_39_word_new_line2 | brisk
+| bip_39_word_new_line_2 | brisk
 ship |  
-| bip_39_word_new_line3 | brisk
+| bip_39_word_new_line_3 | brisk
 ship
 usual |  
-| bip_39_word_new_line4 | brisk
+| bip_39_word_new_line_4 | brisk
 ship
 usual
 reward |  
-| bip_39_word_new_line5 | brisk
+| bip_39_word_new_line_5 | brisk
 ship
 usual
 reward
 cup |  
-| bip_39_word_new_line6 | brisk
+| bip_39_word_new_line_6 | brisk
 ship
 usual
 reward
 cup
 bomb |  
-| bip_39_word_new_line7 | brisk
+| bip_39_word_new_line_7 | brisk
 ship
 usual
 reward
 cup
 bomb
 slide |  
-| bip_39_word_new_line8 | brisk
+| bip_39_word_new_line_8 | brisk
 ship
 usual
 reward
@@ -113,7 +113,7 @@ cup
 bomb
 slide
 drive |  
-| bip_39_word_new_line9 | brisk
+| bip_39_word_new_line_9 | brisk
 ship
 usual
 reward

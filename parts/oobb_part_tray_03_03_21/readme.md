@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | organ |  
-| bip_39_word_new_br10 | organ<br>resource<br>success<br>negative<br>host<br>own<br>type<br>home<br>arena<br>juice |  
-| bip_39_word_new_br11 | organ<br>resource<br>success<br>negative<br>host<br>own<br>type<br>home<br>arena<br>juice<br>seat |  
-| bip_39_word_new_br12 | organ<br>resource<br>success<br>negative<br>host<br>own<br>type<br>home<br>arena<br>juice<br>seat<br>arrive |  
-| bip_39_word_new_br2 | organ<br>resource |  
-| bip_39_word_new_br3 | organ<br>resource<br>success |  
-| bip_39_word_new_br4 | organ<br>resource<br>success<br>negative |  
-| bip_39_word_new_br5 | organ<br>resource<br>success<br>negative<br>host |  
-| bip_39_word_new_br6 | organ<br>resource<br>success<br>negative<br>host<br>own |  
-| bip_39_word_new_br7 | organ<br>resource<br>success<br>negative<br>host<br>own<br>type |  
-| bip_39_word_new_br8 | organ<br>resource<br>success<br>negative<br>host<br>own<br>type<br>home |  
-| bip_39_word_new_br9 | organ<br>resource<br>success<br>negative<br>host<br>own<br>type<br>home<br>arena |  
-| bip_39_word_new_line1 | organ |  
-| bip_39_word_new_line10 | organ
+| bip_39_word_new_br_1 | organ |  
+| bip_39_word_new_br_10 | organ<br>resource<br>success<br>negative<br>host<br>own<br>type<br>home<br>arena<br>juice |  
+| bip_39_word_new_br_11 | organ<br>resource<br>success<br>negative<br>host<br>own<br>type<br>home<br>arena<br>juice<br>seat |  
+| bip_39_word_new_br_12 | organ<br>resource<br>success<br>negative<br>host<br>own<br>type<br>home<br>arena<br>juice<br>seat<br>arrive |  
+| bip_39_word_new_br_2 | organ<br>resource |  
+| bip_39_word_new_br_3 | organ<br>resource<br>success |  
+| bip_39_word_new_br_4 | organ<br>resource<br>success<br>negative |  
+| bip_39_word_new_br_5 | organ<br>resource<br>success<br>negative<br>host |  
+| bip_39_word_new_br_6 | organ<br>resource<br>success<br>negative<br>host<br>own |  
+| bip_39_word_new_br_7 | organ<br>resource<br>success<br>negative<br>host<br>own<br>type |  
+| bip_39_word_new_br_8 | organ<br>resource<br>success<br>negative<br>host<br>own<br>type<br>home |  
+| bip_39_word_new_br_9 | organ<br>resource<br>success<br>negative<br>host<br>own<br>type<br>home<br>arena |  
+| bip_39_word_new_line_1 | organ |  
+| bip_39_word_new_line_10 | organ
 resource
 success
 negative
@@ -55,7 +55,7 @@ type
 home
 arena
 juice |  
-| bip_39_word_new_line11 | organ
+| bip_39_word_new_line_11 | organ
 resource
 success
 negative
@@ -66,7 +66,7 @@ home
 arena
 juice
 seat |  
-| bip_39_word_new_line12 | organ
+| bip_39_word_new_line_12 | organ
 resource
 success
 negative
@@ -78,34 +78,34 @@ arena
 juice
 seat
 arrive |  
-| bip_39_word_new_line2 | organ
+| bip_39_word_new_line_2 | organ
 resource |  
-| bip_39_word_new_line3 | organ
+| bip_39_word_new_line_3 | organ
 resource
 success |  
-| bip_39_word_new_line4 | organ
+| bip_39_word_new_line_4 | organ
 resource
 success
 negative |  
-| bip_39_word_new_line5 | organ
+| bip_39_word_new_line_5 | organ
 resource
 success
 negative
 host |  
-| bip_39_word_new_line6 | organ
+| bip_39_word_new_line_6 | organ
 resource
 success
 negative
 host
 own |  
-| bip_39_word_new_line7 | organ
+| bip_39_word_new_line_7 | organ
 resource
 success
 negative
 host
 own
 type |  
-| bip_39_word_new_line8 | organ
+| bip_39_word_new_line_8 | organ
 resource
 success
 negative
@@ -113,7 +113,7 @@ host
 own
 type
 home |  
-| bip_39_word_new_line9 | organ
+| bip_39_word_new_line_9 | organ
 resource
 success
 negative

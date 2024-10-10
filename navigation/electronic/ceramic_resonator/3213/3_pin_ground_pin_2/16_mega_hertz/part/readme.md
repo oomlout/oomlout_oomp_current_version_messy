@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sense |  
-| bip_39_word_new_br10 | sense<br>dial<br>release<br>ignore<br>forest<br>minimum<br>tumble<br>gossip<br>iron<br>update |  
-| bip_39_word_new_br11 | sense<br>dial<br>release<br>ignore<br>forest<br>minimum<br>tumble<br>gossip<br>iron<br>update<br>struggle |  
-| bip_39_word_new_br12 | sense<br>dial<br>release<br>ignore<br>forest<br>minimum<br>tumble<br>gossip<br>iron<br>update<br>struggle<br>attitude |  
-| bip_39_word_new_br2 | sense<br>dial |  
-| bip_39_word_new_br3 | sense<br>dial<br>release |  
-| bip_39_word_new_br4 | sense<br>dial<br>release<br>ignore |  
-| bip_39_word_new_br5 | sense<br>dial<br>release<br>ignore<br>forest |  
-| bip_39_word_new_br6 | sense<br>dial<br>release<br>ignore<br>forest<br>minimum |  
-| bip_39_word_new_br7 | sense<br>dial<br>release<br>ignore<br>forest<br>minimum<br>tumble |  
-| bip_39_word_new_br8 | sense<br>dial<br>release<br>ignore<br>forest<br>minimum<br>tumble<br>gossip |  
-| bip_39_word_new_br9 | sense<br>dial<br>release<br>ignore<br>forest<br>minimum<br>tumble<br>gossip<br>iron |  
-| bip_39_word_new_line1 | sense |  
-| bip_39_word_new_line10 | sense
+| bip_39_word_new_br_1 | sense |  
+| bip_39_word_new_br_10 | sense<br>dial<br>release<br>ignore<br>forest<br>minimum<br>tumble<br>gossip<br>iron<br>update |  
+| bip_39_word_new_br_11 | sense<br>dial<br>release<br>ignore<br>forest<br>minimum<br>tumble<br>gossip<br>iron<br>update<br>struggle |  
+| bip_39_word_new_br_12 | sense<br>dial<br>release<br>ignore<br>forest<br>minimum<br>tumble<br>gossip<br>iron<br>update<br>struggle<br>attitude |  
+| bip_39_word_new_br_2 | sense<br>dial |  
+| bip_39_word_new_br_3 | sense<br>dial<br>release |  
+| bip_39_word_new_br_4 | sense<br>dial<br>release<br>ignore |  
+| bip_39_word_new_br_5 | sense<br>dial<br>release<br>ignore<br>forest |  
+| bip_39_word_new_br_6 | sense<br>dial<br>release<br>ignore<br>forest<br>minimum |  
+| bip_39_word_new_br_7 | sense<br>dial<br>release<br>ignore<br>forest<br>minimum<br>tumble |  
+| bip_39_word_new_br_8 | sense<br>dial<br>release<br>ignore<br>forest<br>minimum<br>tumble<br>gossip |  
+| bip_39_word_new_br_9 | sense<br>dial<br>release<br>ignore<br>forest<br>minimum<br>tumble<br>gossip<br>iron |  
+| bip_39_word_new_line_1 | sense |  
+| bip_39_word_new_line_10 | sense
 dial
 release
 ignore
@@ -55,7 +55,7 @@ tumble
 gossip
 iron
 update |  
-| bip_39_word_new_line11 | sense
+| bip_39_word_new_line_11 | sense
 dial
 release
 ignore
@@ -66,7 +66,7 @@ gossip
 iron
 update
 struggle |  
-| bip_39_word_new_line12 | sense
+| bip_39_word_new_line_12 | sense
 dial
 release
 ignore
@@ -78,34 +78,34 @@ iron
 update
 struggle
 attitude |  
-| bip_39_word_new_line2 | sense
+| bip_39_word_new_line_2 | sense
 dial |  
-| bip_39_word_new_line3 | sense
+| bip_39_word_new_line_3 | sense
 dial
 release |  
-| bip_39_word_new_line4 | sense
+| bip_39_word_new_line_4 | sense
 dial
 release
 ignore |  
-| bip_39_word_new_line5 | sense
+| bip_39_word_new_line_5 | sense
 dial
 release
 ignore
 forest |  
-| bip_39_word_new_line6 | sense
+| bip_39_word_new_line_6 | sense
 dial
 release
 ignore
 forest
 minimum |  
-| bip_39_word_new_line7 | sense
+| bip_39_word_new_line_7 | sense
 dial
 release
 ignore
 forest
 minimum
 tumble |  
-| bip_39_word_new_line8 | sense
+| bip_39_word_new_line_8 | sense
 dial
 release
 ignore
@@ -113,7 +113,7 @@ forest
 minimum
 tumble
 gossip |  
-| bip_39_word_new_line9 | sense
+| bip_39_word_new_line_9 | sense
 dial
 release
 ignore

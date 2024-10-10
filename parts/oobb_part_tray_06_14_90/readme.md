@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | universe |  
-| bip_39_word_new_br10 | universe<br>autumn<br>flip<br>sing<br>pair<br>topple<br>tourist<br>ostrich<br>egg<br>toddler |  
-| bip_39_word_new_br11 | universe<br>autumn<br>flip<br>sing<br>pair<br>topple<br>tourist<br>ostrich<br>egg<br>toddler<br>year |  
-| bip_39_word_new_br12 | universe<br>autumn<br>flip<br>sing<br>pair<br>topple<br>tourist<br>ostrich<br>egg<br>toddler<br>year<br>alter |  
-| bip_39_word_new_br2 | universe<br>autumn |  
-| bip_39_word_new_br3 | universe<br>autumn<br>flip |  
-| bip_39_word_new_br4 | universe<br>autumn<br>flip<br>sing |  
-| bip_39_word_new_br5 | universe<br>autumn<br>flip<br>sing<br>pair |  
-| bip_39_word_new_br6 | universe<br>autumn<br>flip<br>sing<br>pair<br>topple |  
-| bip_39_word_new_br7 | universe<br>autumn<br>flip<br>sing<br>pair<br>topple<br>tourist |  
-| bip_39_word_new_br8 | universe<br>autumn<br>flip<br>sing<br>pair<br>topple<br>tourist<br>ostrich |  
-| bip_39_word_new_br9 | universe<br>autumn<br>flip<br>sing<br>pair<br>topple<br>tourist<br>ostrich<br>egg |  
-| bip_39_word_new_line1 | universe |  
-| bip_39_word_new_line10 | universe
+| bip_39_word_new_br_1 | universe |  
+| bip_39_word_new_br_10 | universe<br>autumn<br>flip<br>sing<br>pair<br>topple<br>tourist<br>ostrich<br>egg<br>toddler |  
+| bip_39_word_new_br_11 | universe<br>autumn<br>flip<br>sing<br>pair<br>topple<br>tourist<br>ostrich<br>egg<br>toddler<br>year |  
+| bip_39_word_new_br_12 | universe<br>autumn<br>flip<br>sing<br>pair<br>topple<br>tourist<br>ostrich<br>egg<br>toddler<br>year<br>alter |  
+| bip_39_word_new_br_2 | universe<br>autumn |  
+| bip_39_word_new_br_3 | universe<br>autumn<br>flip |  
+| bip_39_word_new_br_4 | universe<br>autumn<br>flip<br>sing |  
+| bip_39_word_new_br_5 | universe<br>autumn<br>flip<br>sing<br>pair |  
+| bip_39_word_new_br_6 | universe<br>autumn<br>flip<br>sing<br>pair<br>topple |  
+| bip_39_word_new_br_7 | universe<br>autumn<br>flip<br>sing<br>pair<br>topple<br>tourist |  
+| bip_39_word_new_br_8 | universe<br>autumn<br>flip<br>sing<br>pair<br>topple<br>tourist<br>ostrich |  
+| bip_39_word_new_br_9 | universe<br>autumn<br>flip<br>sing<br>pair<br>topple<br>tourist<br>ostrich<br>egg |  
+| bip_39_word_new_line_1 | universe |  
+| bip_39_word_new_line_10 | universe
 autumn
 flip
 sing
@@ -55,7 +55,7 @@ tourist
 ostrich
 egg
 toddler |  
-| bip_39_word_new_line11 | universe
+| bip_39_word_new_line_11 | universe
 autumn
 flip
 sing
@@ -66,7 +66,7 @@ ostrich
 egg
 toddler
 year |  
-| bip_39_word_new_line12 | universe
+| bip_39_word_new_line_12 | universe
 autumn
 flip
 sing
@@ -78,34 +78,34 @@ egg
 toddler
 year
 alter |  
-| bip_39_word_new_line2 | universe
+| bip_39_word_new_line_2 | universe
 autumn |  
-| bip_39_word_new_line3 | universe
+| bip_39_word_new_line_3 | universe
 autumn
 flip |  
-| bip_39_word_new_line4 | universe
+| bip_39_word_new_line_4 | universe
 autumn
 flip
 sing |  
-| bip_39_word_new_line5 | universe
+| bip_39_word_new_line_5 | universe
 autumn
 flip
 sing
 pair |  
-| bip_39_word_new_line6 | universe
+| bip_39_word_new_line_6 | universe
 autumn
 flip
 sing
 pair
 topple |  
-| bip_39_word_new_line7 | universe
+| bip_39_word_new_line_7 | universe
 autumn
 flip
 sing
 pair
 topple
 tourist |  
-| bip_39_word_new_line8 | universe
+| bip_39_word_new_line_8 | universe
 autumn
 flip
 sing
@@ -113,7 +113,7 @@ pair
 topple
 tourist
 ostrich |  
-| bip_39_word_new_line9 | universe
+| bip_39_word_new_line_9 | universe
 autumn
 flip
 sing

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fiscal |  
-| bip_39_word_new_br10 | fiscal<br>aisle<br>boost<br>hazard<br>voice<br>tiny<br>way<br>wrong<br>alley<br>click |  
-| bip_39_word_new_br11 | fiscal<br>aisle<br>boost<br>hazard<br>voice<br>tiny<br>way<br>wrong<br>alley<br>click<br>swarm |  
-| bip_39_word_new_br12 | fiscal<br>aisle<br>boost<br>hazard<br>voice<br>tiny<br>way<br>wrong<br>alley<br>click<br>swarm<br>aunt |  
-| bip_39_word_new_br2 | fiscal<br>aisle |  
-| bip_39_word_new_br3 | fiscal<br>aisle<br>boost |  
-| bip_39_word_new_br4 | fiscal<br>aisle<br>boost<br>hazard |  
-| bip_39_word_new_br5 | fiscal<br>aisle<br>boost<br>hazard<br>voice |  
-| bip_39_word_new_br6 | fiscal<br>aisle<br>boost<br>hazard<br>voice<br>tiny |  
-| bip_39_word_new_br7 | fiscal<br>aisle<br>boost<br>hazard<br>voice<br>tiny<br>way |  
-| bip_39_word_new_br8 | fiscal<br>aisle<br>boost<br>hazard<br>voice<br>tiny<br>way<br>wrong |  
-| bip_39_word_new_br9 | fiscal<br>aisle<br>boost<br>hazard<br>voice<br>tiny<br>way<br>wrong<br>alley |  
-| bip_39_word_new_line1 | fiscal |  
-| bip_39_word_new_line10 | fiscal
+| bip_39_word_new_br_1 | fiscal |  
+| bip_39_word_new_br_10 | fiscal<br>aisle<br>boost<br>hazard<br>voice<br>tiny<br>way<br>wrong<br>alley<br>click |  
+| bip_39_word_new_br_11 | fiscal<br>aisle<br>boost<br>hazard<br>voice<br>tiny<br>way<br>wrong<br>alley<br>click<br>swarm |  
+| bip_39_word_new_br_12 | fiscal<br>aisle<br>boost<br>hazard<br>voice<br>tiny<br>way<br>wrong<br>alley<br>click<br>swarm<br>aunt |  
+| bip_39_word_new_br_2 | fiscal<br>aisle |  
+| bip_39_word_new_br_3 | fiscal<br>aisle<br>boost |  
+| bip_39_word_new_br_4 | fiscal<br>aisle<br>boost<br>hazard |  
+| bip_39_word_new_br_5 | fiscal<br>aisle<br>boost<br>hazard<br>voice |  
+| bip_39_word_new_br_6 | fiscal<br>aisle<br>boost<br>hazard<br>voice<br>tiny |  
+| bip_39_word_new_br_7 | fiscal<br>aisle<br>boost<br>hazard<br>voice<br>tiny<br>way |  
+| bip_39_word_new_br_8 | fiscal<br>aisle<br>boost<br>hazard<br>voice<br>tiny<br>way<br>wrong |  
+| bip_39_word_new_br_9 | fiscal<br>aisle<br>boost<br>hazard<br>voice<br>tiny<br>way<br>wrong<br>alley |  
+| bip_39_word_new_line_1 | fiscal |  
+| bip_39_word_new_line_10 | fiscal
 aisle
 boost
 hazard
@@ -55,7 +55,7 @@ way
 wrong
 alley
 click |  
-| bip_39_word_new_line11 | fiscal
+| bip_39_word_new_line_11 | fiscal
 aisle
 boost
 hazard
@@ -66,7 +66,7 @@ wrong
 alley
 click
 swarm |  
-| bip_39_word_new_line12 | fiscal
+| bip_39_word_new_line_12 | fiscal
 aisle
 boost
 hazard
@@ -78,34 +78,34 @@ alley
 click
 swarm
 aunt |  
-| bip_39_word_new_line2 | fiscal
+| bip_39_word_new_line_2 | fiscal
 aisle |  
-| bip_39_word_new_line3 | fiscal
+| bip_39_word_new_line_3 | fiscal
 aisle
 boost |  
-| bip_39_word_new_line4 | fiscal
+| bip_39_word_new_line_4 | fiscal
 aisle
 boost
 hazard |  
-| bip_39_word_new_line5 | fiscal
+| bip_39_word_new_line_5 | fiscal
 aisle
 boost
 hazard
 voice |  
-| bip_39_word_new_line6 | fiscal
+| bip_39_word_new_line_6 | fiscal
 aisle
 boost
 hazard
 voice
 tiny |  
-| bip_39_word_new_line7 | fiscal
+| bip_39_word_new_line_7 | fiscal
 aisle
 boost
 hazard
 voice
 tiny
 way |  
-| bip_39_word_new_line8 | fiscal
+| bip_39_word_new_line_8 | fiscal
 aisle
 boost
 hazard
@@ -113,7 +113,7 @@ voice
 tiny
 way
 wrong |  
-| bip_39_word_new_line9 | fiscal
+| bip_39_word_new_line_9 | fiscal
 aisle
 boost
 hazard

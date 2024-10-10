@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | enforce |  
-| bip_39_word_new_br10 | enforce<br>swallow<br>category<br>skull<br>panther<br>law<br>hope<br>federal<br>teach<br>noodle |  
-| bip_39_word_new_br11 | enforce<br>swallow<br>category<br>skull<br>panther<br>law<br>hope<br>federal<br>teach<br>noodle<br>buzz |  
-| bip_39_word_new_br12 | enforce<br>swallow<br>category<br>skull<br>panther<br>law<br>hope<br>federal<br>teach<br>noodle<br>buzz<br>actress |  
-| bip_39_word_new_br2 | enforce<br>swallow |  
-| bip_39_word_new_br3 | enforce<br>swallow<br>category |  
-| bip_39_word_new_br4 | enforce<br>swallow<br>category<br>skull |  
-| bip_39_word_new_br5 | enforce<br>swallow<br>category<br>skull<br>panther |  
-| bip_39_word_new_br6 | enforce<br>swallow<br>category<br>skull<br>panther<br>law |  
-| bip_39_word_new_br7 | enforce<br>swallow<br>category<br>skull<br>panther<br>law<br>hope |  
-| bip_39_word_new_br8 | enforce<br>swallow<br>category<br>skull<br>panther<br>law<br>hope<br>federal |  
-| bip_39_word_new_br9 | enforce<br>swallow<br>category<br>skull<br>panther<br>law<br>hope<br>federal<br>teach |  
-| bip_39_word_new_line1 | enforce |  
-| bip_39_word_new_line10 | enforce
+| bip_39_word_new_br_1 | enforce |  
+| bip_39_word_new_br_10 | enforce<br>swallow<br>category<br>skull<br>panther<br>law<br>hope<br>federal<br>teach<br>noodle |  
+| bip_39_word_new_br_11 | enforce<br>swallow<br>category<br>skull<br>panther<br>law<br>hope<br>federal<br>teach<br>noodle<br>buzz |  
+| bip_39_word_new_br_12 | enforce<br>swallow<br>category<br>skull<br>panther<br>law<br>hope<br>federal<br>teach<br>noodle<br>buzz<br>actress |  
+| bip_39_word_new_br_2 | enforce<br>swallow |  
+| bip_39_word_new_br_3 | enforce<br>swallow<br>category |  
+| bip_39_word_new_br_4 | enforce<br>swallow<br>category<br>skull |  
+| bip_39_word_new_br_5 | enforce<br>swallow<br>category<br>skull<br>panther |  
+| bip_39_word_new_br_6 | enforce<br>swallow<br>category<br>skull<br>panther<br>law |  
+| bip_39_word_new_br_7 | enforce<br>swallow<br>category<br>skull<br>panther<br>law<br>hope |  
+| bip_39_word_new_br_8 | enforce<br>swallow<br>category<br>skull<br>panther<br>law<br>hope<br>federal |  
+| bip_39_word_new_br_9 | enforce<br>swallow<br>category<br>skull<br>panther<br>law<br>hope<br>federal<br>teach |  
+| bip_39_word_new_line_1 | enforce |  
+| bip_39_word_new_line_10 | enforce
 swallow
 category
 skull
@@ -55,7 +55,7 @@ hope
 federal
 teach
 noodle |  
-| bip_39_word_new_line11 | enforce
+| bip_39_word_new_line_11 | enforce
 swallow
 category
 skull
@@ -66,7 +66,7 @@ federal
 teach
 noodle
 buzz |  
-| bip_39_word_new_line12 | enforce
+| bip_39_word_new_line_12 | enforce
 swallow
 category
 skull
@@ -78,34 +78,34 @@ teach
 noodle
 buzz
 actress |  
-| bip_39_word_new_line2 | enforce
+| bip_39_word_new_line_2 | enforce
 swallow |  
-| bip_39_word_new_line3 | enforce
+| bip_39_word_new_line_3 | enforce
 swallow
 category |  
-| bip_39_word_new_line4 | enforce
+| bip_39_word_new_line_4 | enforce
 swallow
 category
 skull |  
-| bip_39_word_new_line5 | enforce
+| bip_39_word_new_line_5 | enforce
 swallow
 category
 skull
 panther |  
-| bip_39_word_new_line6 | enforce
+| bip_39_word_new_line_6 | enforce
 swallow
 category
 skull
 panther
 law |  
-| bip_39_word_new_line7 | enforce
+| bip_39_word_new_line_7 | enforce
 swallow
 category
 skull
 panther
 law
 hope |  
-| bip_39_word_new_line8 | enforce
+| bip_39_word_new_line_8 | enforce
 swallow
 category
 skull
@@ -113,7 +113,7 @@ panther
 law
 hope
 federal |  
-| bip_39_word_new_line9 | enforce
+| bip_39_word_new_line_9 | enforce
 swallow
 category
 skull

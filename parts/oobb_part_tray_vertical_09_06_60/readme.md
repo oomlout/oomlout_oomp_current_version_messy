@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | snap |  
-| bip_39_word_new_br10 | snap<br>prize<br>sign<br>sister<br>ivory<br>essence<br>spirit<br>easy<br>erode<br>wing |  
-| bip_39_word_new_br11 | snap<br>prize<br>sign<br>sister<br>ivory<br>essence<br>spirit<br>easy<br>erode<br>wing<br>blush |  
-| bip_39_word_new_br12 | snap<br>prize<br>sign<br>sister<br>ivory<br>essence<br>spirit<br>easy<br>erode<br>wing<br>blush<br>animal |  
-| bip_39_word_new_br2 | snap<br>prize |  
-| bip_39_word_new_br3 | snap<br>prize<br>sign |  
-| bip_39_word_new_br4 | snap<br>prize<br>sign<br>sister |  
-| bip_39_word_new_br5 | snap<br>prize<br>sign<br>sister<br>ivory |  
-| bip_39_word_new_br6 | snap<br>prize<br>sign<br>sister<br>ivory<br>essence |  
-| bip_39_word_new_br7 | snap<br>prize<br>sign<br>sister<br>ivory<br>essence<br>spirit |  
-| bip_39_word_new_br8 | snap<br>prize<br>sign<br>sister<br>ivory<br>essence<br>spirit<br>easy |  
-| bip_39_word_new_br9 | snap<br>prize<br>sign<br>sister<br>ivory<br>essence<br>spirit<br>easy<br>erode |  
-| bip_39_word_new_line1 | snap |  
-| bip_39_word_new_line10 | snap
+| bip_39_word_new_br_1 | snap |  
+| bip_39_word_new_br_10 | snap<br>prize<br>sign<br>sister<br>ivory<br>essence<br>spirit<br>easy<br>erode<br>wing |  
+| bip_39_word_new_br_11 | snap<br>prize<br>sign<br>sister<br>ivory<br>essence<br>spirit<br>easy<br>erode<br>wing<br>blush |  
+| bip_39_word_new_br_12 | snap<br>prize<br>sign<br>sister<br>ivory<br>essence<br>spirit<br>easy<br>erode<br>wing<br>blush<br>animal |  
+| bip_39_word_new_br_2 | snap<br>prize |  
+| bip_39_word_new_br_3 | snap<br>prize<br>sign |  
+| bip_39_word_new_br_4 | snap<br>prize<br>sign<br>sister |  
+| bip_39_word_new_br_5 | snap<br>prize<br>sign<br>sister<br>ivory |  
+| bip_39_word_new_br_6 | snap<br>prize<br>sign<br>sister<br>ivory<br>essence |  
+| bip_39_word_new_br_7 | snap<br>prize<br>sign<br>sister<br>ivory<br>essence<br>spirit |  
+| bip_39_word_new_br_8 | snap<br>prize<br>sign<br>sister<br>ivory<br>essence<br>spirit<br>easy |  
+| bip_39_word_new_br_9 | snap<br>prize<br>sign<br>sister<br>ivory<br>essence<br>spirit<br>easy<br>erode |  
+| bip_39_word_new_line_1 | snap |  
+| bip_39_word_new_line_10 | snap
 prize
 sign
 sister
@@ -55,7 +55,7 @@ spirit
 easy
 erode
 wing |  
-| bip_39_word_new_line11 | snap
+| bip_39_word_new_line_11 | snap
 prize
 sign
 sister
@@ -66,7 +66,7 @@ easy
 erode
 wing
 blush |  
-| bip_39_word_new_line12 | snap
+| bip_39_word_new_line_12 | snap
 prize
 sign
 sister
@@ -78,34 +78,34 @@ erode
 wing
 blush
 animal |  
-| bip_39_word_new_line2 | snap
+| bip_39_word_new_line_2 | snap
 prize |  
-| bip_39_word_new_line3 | snap
+| bip_39_word_new_line_3 | snap
 prize
 sign |  
-| bip_39_word_new_line4 | snap
+| bip_39_word_new_line_4 | snap
 prize
 sign
 sister |  
-| bip_39_word_new_line5 | snap
+| bip_39_word_new_line_5 | snap
 prize
 sign
 sister
 ivory |  
-| bip_39_word_new_line6 | snap
+| bip_39_word_new_line_6 | snap
 prize
 sign
 sister
 ivory
 essence |  
-| bip_39_word_new_line7 | snap
+| bip_39_word_new_line_7 | snap
 prize
 sign
 sister
 ivory
 essence
 spirit |  
-| bip_39_word_new_line8 | snap
+| bip_39_word_new_line_8 | snap
 prize
 sign
 sister
@@ -113,7 +113,7 @@ ivory
 essence
 spirit
 easy |  
-| bip_39_word_new_line9 | snap
+| bip_39_word_new_line_9 | snap
 prize
 sign
 sister

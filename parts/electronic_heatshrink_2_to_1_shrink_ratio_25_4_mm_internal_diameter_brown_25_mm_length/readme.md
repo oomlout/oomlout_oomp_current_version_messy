@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | orient |  
-| bip_39_word_new_br10 | orient<br>clap<br>extend<br>empower<br>earn<br>fat<br>ankle<br>antenna<br>random<br>submit |  
-| bip_39_word_new_br11 | orient<br>clap<br>extend<br>empower<br>earn<br>fat<br>ankle<br>antenna<br>random<br>submit<br>claw |  
-| bip_39_word_new_br12 | orient<br>clap<br>extend<br>empower<br>earn<br>fat<br>ankle<br>antenna<br>random<br>submit<br>claw<br>allow |  
-| bip_39_word_new_br2 | orient<br>clap |  
-| bip_39_word_new_br3 | orient<br>clap<br>extend |  
-| bip_39_word_new_br4 | orient<br>clap<br>extend<br>empower |  
-| bip_39_word_new_br5 | orient<br>clap<br>extend<br>empower<br>earn |  
-| bip_39_word_new_br6 | orient<br>clap<br>extend<br>empower<br>earn<br>fat |  
-| bip_39_word_new_br7 | orient<br>clap<br>extend<br>empower<br>earn<br>fat<br>ankle |  
-| bip_39_word_new_br8 | orient<br>clap<br>extend<br>empower<br>earn<br>fat<br>ankle<br>antenna |  
-| bip_39_word_new_br9 | orient<br>clap<br>extend<br>empower<br>earn<br>fat<br>ankle<br>antenna<br>random |  
-| bip_39_word_new_line1 | orient |  
-| bip_39_word_new_line10 | orient
+| bip_39_word_new_br_1 | orient |  
+| bip_39_word_new_br_10 | orient<br>clap<br>extend<br>empower<br>earn<br>fat<br>ankle<br>antenna<br>random<br>submit |  
+| bip_39_word_new_br_11 | orient<br>clap<br>extend<br>empower<br>earn<br>fat<br>ankle<br>antenna<br>random<br>submit<br>claw |  
+| bip_39_word_new_br_12 | orient<br>clap<br>extend<br>empower<br>earn<br>fat<br>ankle<br>antenna<br>random<br>submit<br>claw<br>allow |  
+| bip_39_word_new_br_2 | orient<br>clap |  
+| bip_39_word_new_br_3 | orient<br>clap<br>extend |  
+| bip_39_word_new_br_4 | orient<br>clap<br>extend<br>empower |  
+| bip_39_word_new_br_5 | orient<br>clap<br>extend<br>empower<br>earn |  
+| bip_39_word_new_br_6 | orient<br>clap<br>extend<br>empower<br>earn<br>fat |  
+| bip_39_word_new_br_7 | orient<br>clap<br>extend<br>empower<br>earn<br>fat<br>ankle |  
+| bip_39_word_new_br_8 | orient<br>clap<br>extend<br>empower<br>earn<br>fat<br>ankle<br>antenna |  
+| bip_39_word_new_br_9 | orient<br>clap<br>extend<br>empower<br>earn<br>fat<br>ankle<br>antenna<br>random |  
+| bip_39_word_new_line_1 | orient |  
+| bip_39_word_new_line_10 | orient
 clap
 extend
 empower
@@ -55,7 +55,7 @@ ankle
 antenna
 random
 submit |  
-| bip_39_word_new_line11 | orient
+| bip_39_word_new_line_11 | orient
 clap
 extend
 empower
@@ -66,7 +66,7 @@ antenna
 random
 submit
 claw |  
-| bip_39_word_new_line12 | orient
+| bip_39_word_new_line_12 | orient
 clap
 extend
 empower
@@ -78,34 +78,34 @@ random
 submit
 claw
 allow |  
-| bip_39_word_new_line2 | orient
+| bip_39_word_new_line_2 | orient
 clap |  
-| bip_39_word_new_line3 | orient
+| bip_39_word_new_line_3 | orient
 clap
 extend |  
-| bip_39_word_new_line4 | orient
+| bip_39_word_new_line_4 | orient
 clap
 extend
 empower |  
-| bip_39_word_new_line5 | orient
+| bip_39_word_new_line_5 | orient
 clap
 extend
 empower
 earn |  
-| bip_39_word_new_line6 | orient
+| bip_39_word_new_line_6 | orient
 clap
 extend
 empower
 earn
 fat |  
-| bip_39_word_new_line7 | orient
+| bip_39_word_new_line_7 | orient
 clap
 extend
 empower
 earn
 fat
 ankle |  
-| bip_39_word_new_line8 | orient
+| bip_39_word_new_line_8 | orient
 clap
 extend
 empower
@@ -113,7 +113,7 @@ earn
 fat
 ankle
 antenna |  
-| bip_39_word_new_line9 | orient
+| bip_39_word_new_line_9 | orient
 clap
 extend
 empower

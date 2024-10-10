@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | correct |  
-| bip_39_word_new_br10 | correct<br>thought<br>blood<br>front<br>burden<br>celery<br>mansion<br>portion<br>cat<br>curious |  
-| bip_39_word_new_br11 | correct<br>thought<br>blood<br>front<br>burden<br>celery<br>mansion<br>portion<br>cat<br>curious<br>bright |  
-| bip_39_word_new_br12 | correct<br>thought<br>blood<br>front<br>burden<br>celery<br>mansion<br>portion<br>cat<br>curious<br>bright<br>arrest |  
-| bip_39_word_new_br2 | correct<br>thought |  
-| bip_39_word_new_br3 | correct<br>thought<br>blood |  
-| bip_39_word_new_br4 | correct<br>thought<br>blood<br>front |  
-| bip_39_word_new_br5 | correct<br>thought<br>blood<br>front<br>burden |  
-| bip_39_word_new_br6 | correct<br>thought<br>blood<br>front<br>burden<br>celery |  
-| bip_39_word_new_br7 | correct<br>thought<br>blood<br>front<br>burden<br>celery<br>mansion |  
-| bip_39_word_new_br8 | correct<br>thought<br>blood<br>front<br>burden<br>celery<br>mansion<br>portion |  
-| bip_39_word_new_br9 | correct<br>thought<br>blood<br>front<br>burden<br>celery<br>mansion<br>portion<br>cat |  
-| bip_39_word_new_line1 | correct |  
-| bip_39_word_new_line10 | correct
+| bip_39_word_new_br_1 | correct |  
+| bip_39_word_new_br_10 | correct<br>thought<br>blood<br>front<br>burden<br>celery<br>mansion<br>portion<br>cat<br>curious |  
+| bip_39_word_new_br_11 | correct<br>thought<br>blood<br>front<br>burden<br>celery<br>mansion<br>portion<br>cat<br>curious<br>bright |  
+| bip_39_word_new_br_12 | correct<br>thought<br>blood<br>front<br>burden<br>celery<br>mansion<br>portion<br>cat<br>curious<br>bright<br>arrest |  
+| bip_39_word_new_br_2 | correct<br>thought |  
+| bip_39_word_new_br_3 | correct<br>thought<br>blood |  
+| bip_39_word_new_br_4 | correct<br>thought<br>blood<br>front |  
+| bip_39_word_new_br_5 | correct<br>thought<br>blood<br>front<br>burden |  
+| bip_39_word_new_br_6 | correct<br>thought<br>blood<br>front<br>burden<br>celery |  
+| bip_39_word_new_br_7 | correct<br>thought<br>blood<br>front<br>burden<br>celery<br>mansion |  
+| bip_39_word_new_br_8 | correct<br>thought<br>blood<br>front<br>burden<br>celery<br>mansion<br>portion |  
+| bip_39_word_new_br_9 | correct<br>thought<br>blood<br>front<br>burden<br>celery<br>mansion<br>portion<br>cat |  
+| bip_39_word_new_line_1 | correct |  
+| bip_39_word_new_line_10 | correct
 thought
 blood
 front
@@ -55,7 +55,7 @@ mansion
 portion
 cat
 curious |  
-| bip_39_word_new_line11 | correct
+| bip_39_word_new_line_11 | correct
 thought
 blood
 front
@@ -66,7 +66,7 @@ portion
 cat
 curious
 bright |  
-| bip_39_word_new_line12 | correct
+| bip_39_word_new_line_12 | correct
 thought
 blood
 front
@@ -78,34 +78,34 @@ cat
 curious
 bright
 arrest |  
-| bip_39_word_new_line2 | correct
+| bip_39_word_new_line_2 | correct
 thought |  
-| bip_39_word_new_line3 | correct
+| bip_39_word_new_line_3 | correct
 thought
 blood |  
-| bip_39_word_new_line4 | correct
+| bip_39_word_new_line_4 | correct
 thought
 blood
 front |  
-| bip_39_word_new_line5 | correct
+| bip_39_word_new_line_5 | correct
 thought
 blood
 front
 burden |  
-| bip_39_word_new_line6 | correct
+| bip_39_word_new_line_6 | correct
 thought
 blood
 front
 burden
 celery |  
-| bip_39_word_new_line7 | correct
+| bip_39_word_new_line_7 | correct
 thought
 blood
 front
 burden
 celery
 mansion |  
-| bip_39_word_new_line8 | correct
+| bip_39_word_new_line_8 | correct
 thought
 blood
 front
@@ -113,7 +113,7 @@ burden
 celery
 mansion
 portion |  
-| bip_39_word_new_line9 | correct
+| bip_39_word_new_line_9 | correct
 thought
 blood
 front

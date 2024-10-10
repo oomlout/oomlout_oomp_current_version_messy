@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | casino |  
-| bip_39_word_new_br10 | casino<br>devote<br>minor<br>favorite<br>error<br>fly<br>valve<br>wet<br>sand<br>choice |  
-| bip_39_word_new_br11 | casino<br>devote<br>minor<br>favorite<br>error<br>fly<br>valve<br>wet<br>sand<br>choice<br>debate |  
-| bip_39_word_new_br12 | casino<br>devote<br>minor<br>favorite<br>error<br>fly<br>valve<br>wet<br>sand<br>choice<br>debate<br>approve |  
-| bip_39_word_new_br2 | casino<br>devote |  
-| bip_39_word_new_br3 | casino<br>devote<br>minor |  
-| bip_39_word_new_br4 | casino<br>devote<br>minor<br>favorite |  
-| bip_39_word_new_br5 | casino<br>devote<br>minor<br>favorite<br>error |  
-| bip_39_word_new_br6 | casino<br>devote<br>minor<br>favorite<br>error<br>fly |  
-| bip_39_word_new_br7 | casino<br>devote<br>minor<br>favorite<br>error<br>fly<br>valve |  
-| bip_39_word_new_br8 | casino<br>devote<br>minor<br>favorite<br>error<br>fly<br>valve<br>wet |  
-| bip_39_word_new_br9 | casino<br>devote<br>minor<br>favorite<br>error<br>fly<br>valve<br>wet<br>sand |  
-| bip_39_word_new_line1 | casino |  
-| bip_39_word_new_line10 | casino
+| bip_39_word_new_br_1 | casino |  
+| bip_39_word_new_br_10 | casino<br>devote<br>minor<br>favorite<br>error<br>fly<br>valve<br>wet<br>sand<br>choice |  
+| bip_39_word_new_br_11 | casino<br>devote<br>minor<br>favorite<br>error<br>fly<br>valve<br>wet<br>sand<br>choice<br>debate |  
+| bip_39_word_new_br_12 | casino<br>devote<br>minor<br>favorite<br>error<br>fly<br>valve<br>wet<br>sand<br>choice<br>debate<br>approve |  
+| bip_39_word_new_br_2 | casino<br>devote |  
+| bip_39_word_new_br_3 | casino<br>devote<br>minor |  
+| bip_39_word_new_br_4 | casino<br>devote<br>minor<br>favorite |  
+| bip_39_word_new_br_5 | casino<br>devote<br>minor<br>favorite<br>error |  
+| bip_39_word_new_br_6 | casino<br>devote<br>minor<br>favorite<br>error<br>fly |  
+| bip_39_word_new_br_7 | casino<br>devote<br>minor<br>favorite<br>error<br>fly<br>valve |  
+| bip_39_word_new_br_8 | casino<br>devote<br>minor<br>favorite<br>error<br>fly<br>valve<br>wet |  
+| bip_39_word_new_br_9 | casino<br>devote<br>minor<br>favorite<br>error<br>fly<br>valve<br>wet<br>sand |  
+| bip_39_word_new_line_1 | casino |  
+| bip_39_word_new_line_10 | casino
 devote
 minor
 favorite
@@ -55,7 +55,7 @@ valve
 wet
 sand
 choice |  
-| bip_39_word_new_line11 | casino
+| bip_39_word_new_line_11 | casino
 devote
 minor
 favorite
@@ -66,7 +66,7 @@ wet
 sand
 choice
 debate |  
-| bip_39_word_new_line12 | casino
+| bip_39_word_new_line_12 | casino
 devote
 minor
 favorite
@@ -78,34 +78,34 @@ sand
 choice
 debate
 approve |  
-| bip_39_word_new_line2 | casino
+| bip_39_word_new_line_2 | casino
 devote |  
-| bip_39_word_new_line3 | casino
+| bip_39_word_new_line_3 | casino
 devote
 minor |  
-| bip_39_word_new_line4 | casino
+| bip_39_word_new_line_4 | casino
 devote
 minor
 favorite |  
-| bip_39_word_new_line5 | casino
+| bip_39_word_new_line_5 | casino
 devote
 minor
 favorite
 error |  
-| bip_39_word_new_line6 | casino
+| bip_39_word_new_line_6 | casino
 devote
 minor
 favorite
 error
 fly |  
-| bip_39_word_new_line7 | casino
+| bip_39_word_new_line_7 | casino
 devote
 minor
 favorite
 error
 fly
 valve |  
-| bip_39_word_new_line8 | casino
+| bip_39_word_new_line_8 | casino
 devote
 minor
 favorite
@@ -113,7 +113,7 @@ error
 fly
 valve
 wet |  
-| bip_39_word_new_line9 | casino
+| bip_39_word_new_line_9 | casino
 devote
 minor
 favorite

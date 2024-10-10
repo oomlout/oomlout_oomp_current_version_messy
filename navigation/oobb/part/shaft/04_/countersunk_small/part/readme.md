@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | youth |  
-| bip_39_word_new_br10 | youth<br>crop<br>youth<br>omit<br>quote<br>depart<br>hill<br>soul<br>slush<br>bulk |  
-| bip_39_word_new_br11 | youth<br>crop<br>youth<br>omit<br>quote<br>depart<br>hill<br>soul<br>slush<br>bulk<br>seminar |  
-| bip_39_word_new_br12 | youth<br>crop<br>youth<br>omit<br>quote<br>depart<br>hill<br>soul<br>slush<br>bulk<br>seminar<br>accuse |  
-| bip_39_word_new_br2 | youth<br>crop |  
-| bip_39_word_new_br3 | youth<br>crop<br>youth |  
-| bip_39_word_new_br4 | youth<br>crop<br>youth<br>omit |  
-| bip_39_word_new_br5 | youth<br>crop<br>youth<br>omit<br>quote |  
-| bip_39_word_new_br6 | youth<br>crop<br>youth<br>omit<br>quote<br>depart |  
-| bip_39_word_new_br7 | youth<br>crop<br>youth<br>omit<br>quote<br>depart<br>hill |  
-| bip_39_word_new_br8 | youth<br>crop<br>youth<br>omit<br>quote<br>depart<br>hill<br>soul |  
-| bip_39_word_new_br9 | youth<br>crop<br>youth<br>omit<br>quote<br>depart<br>hill<br>soul<br>slush |  
-| bip_39_word_new_line1 | youth |  
-| bip_39_word_new_line10 | youth
+| bip_39_word_new_br_1 | youth |  
+| bip_39_word_new_br_10 | youth<br>crop<br>youth<br>omit<br>quote<br>depart<br>hill<br>soul<br>slush<br>bulk |  
+| bip_39_word_new_br_11 | youth<br>crop<br>youth<br>omit<br>quote<br>depart<br>hill<br>soul<br>slush<br>bulk<br>seminar |  
+| bip_39_word_new_br_12 | youth<br>crop<br>youth<br>omit<br>quote<br>depart<br>hill<br>soul<br>slush<br>bulk<br>seminar<br>accuse |  
+| bip_39_word_new_br_2 | youth<br>crop |  
+| bip_39_word_new_br_3 | youth<br>crop<br>youth |  
+| bip_39_word_new_br_4 | youth<br>crop<br>youth<br>omit |  
+| bip_39_word_new_br_5 | youth<br>crop<br>youth<br>omit<br>quote |  
+| bip_39_word_new_br_6 | youth<br>crop<br>youth<br>omit<br>quote<br>depart |  
+| bip_39_word_new_br_7 | youth<br>crop<br>youth<br>omit<br>quote<br>depart<br>hill |  
+| bip_39_word_new_br_8 | youth<br>crop<br>youth<br>omit<br>quote<br>depart<br>hill<br>soul |  
+| bip_39_word_new_br_9 | youth<br>crop<br>youth<br>omit<br>quote<br>depart<br>hill<br>soul<br>slush |  
+| bip_39_word_new_line_1 | youth |  
+| bip_39_word_new_line_10 | youth
 crop
 youth
 omit
@@ -55,7 +55,7 @@ hill
 soul
 slush
 bulk |  
-| bip_39_word_new_line11 | youth
+| bip_39_word_new_line_11 | youth
 crop
 youth
 omit
@@ -66,7 +66,7 @@ soul
 slush
 bulk
 seminar |  
-| bip_39_word_new_line12 | youth
+| bip_39_word_new_line_12 | youth
 crop
 youth
 omit
@@ -78,34 +78,34 @@ slush
 bulk
 seminar
 accuse |  
-| bip_39_word_new_line2 | youth
+| bip_39_word_new_line_2 | youth
 crop |  
-| bip_39_word_new_line3 | youth
+| bip_39_word_new_line_3 | youth
 crop
 youth |  
-| bip_39_word_new_line4 | youth
+| bip_39_word_new_line_4 | youth
 crop
 youth
 omit |  
-| bip_39_word_new_line5 | youth
+| bip_39_word_new_line_5 | youth
 crop
 youth
 omit
 quote |  
-| bip_39_word_new_line6 | youth
+| bip_39_word_new_line_6 | youth
 crop
 youth
 omit
 quote
 depart |  
-| bip_39_word_new_line7 | youth
+| bip_39_word_new_line_7 | youth
 crop
 youth
 omit
 quote
 depart
 hill |  
-| bip_39_word_new_line8 | youth
+| bip_39_word_new_line_8 | youth
 crop
 youth
 omit
@@ -113,7 +113,7 @@ quote
 depart
 hill
 soul |  
-| bip_39_word_new_line9 | youth
+| bip_39_word_new_line_9 | youth
 crop
 youth
 omit

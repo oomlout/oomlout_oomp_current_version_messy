@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | parade |  
-| bip_39_word_new_br10 | parade<br>depend<br>science<br>service<br>stand<br>spider<br>gap<br>welcome<br>attitude<br>warrior |  
-| bip_39_word_new_br11 | parade<br>depend<br>science<br>service<br>stand<br>spider<br>gap<br>welcome<br>attitude<br>warrior<br>tunnel |  
-| bip_39_word_new_br12 | parade<br>depend<br>science<br>service<br>stand<br>spider<br>gap<br>welcome<br>attitude<br>warrior<br>tunnel<br>affair |  
-| bip_39_word_new_br2 | parade<br>depend |  
-| bip_39_word_new_br3 | parade<br>depend<br>science |  
-| bip_39_word_new_br4 | parade<br>depend<br>science<br>service |  
-| bip_39_word_new_br5 | parade<br>depend<br>science<br>service<br>stand |  
-| bip_39_word_new_br6 | parade<br>depend<br>science<br>service<br>stand<br>spider |  
-| bip_39_word_new_br7 | parade<br>depend<br>science<br>service<br>stand<br>spider<br>gap |  
-| bip_39_word_new_br8 | parade<br>depend<br>science<br>service<br>stand<br>spider<br>gap<br>welcome |  
-| bip_39_word_new_br9 | parade<br>depend<br>science<br>service<br>stand<br>spider<br>gap<br>welcome<br>attitude |  
-| bip_39_word_new_line1 | parade |  
-| bip_39_word_new_line10 | parade
+| bip_39_word_new_br_1 | parade |  
+| bip_39_word_new_br_10 | parade<br>depend<br>science<br>service<br>stand<br>spider<br>gap<br>welcome<br>attitude<br>warrior |  
+| bip_39_word_new_br_11 | parade<br>depend<br>science<br>service<br>stand<br>spider<br>gap<br>welcome<br>attitude<br>warrior<br>tunnel |  
+| bip_39_word_new_br_12 | parade<br>depend<br>science<br>service<br>stand<br>spider<br>gap<br>welcome<br>attitude<br>warrior<br>tunnel<br>affair |  
+| bip_39_word_new_br_2 | parade<br>depend |  
+| bip_39_word_new_br_3 | parade<br>depend<br>science |  
+| bip_39_word_new_br_4 | parade<br>depend<br>science<br>service |  
+| bip_39_word_new_br_5 | parade<br>depend<br>science<br>service<br>stand |  
+| bip_39_word_new_br_6 | parade<br>depend<br>science<br>service<br>stand<br>spider |  
+| bip_39_word_new_br_7 | parade<br>depend<br>science<br>service<br>stand<br>spider<br>gap |  
+| bip_39_word_new_br_8 | parade<br>depend<br>science<br>service<br>stand<br>spider<br>gap<br>welcome |  
+| bip_39_word_new_br_9 | parade<br>depend<br>science<br>service<br>stand<br>spider<br>gap<br>welcome<br>attitude |  
+| bip_39_word_new_line_1 | parade |  
+| bip_39_word_new_line_10 | parade
 depend
 science
 service
@@ -55,7 +55,7 @@ gap
 welcome
 attitude
 warrior |  
-| bip_39_word_new_line11 | parade
+| bip_39_word_new_line_11 | parade
 depend
 science
 service
@@ -66,7 +66,7 @@ welcome
 attitude
 warrior
 tunnel |  
-| bip_39_word_new_line12 | parade
+| bip_39_word_new_line_12 | parade
 depend
 science
 service
@@ -78,34 +78,34 @@ attitude
 warrior
 tunnel
 affair |  
-| bip_39_word_new_line2 | parade
+| bip_39_word_new_line_2 | parade
 depend |  
-| bip_39_word_new_line3 | parade
+| bip_39_word_new_line_3 | parade
 depend
 science |  
-| bip_39_word_new_line4 | parade
+| bip_39_word_new_line_4 | parade
 depend
 science
 service |  
-| bip_39_word_new_line5 | parade
+| bip_39_word_new_line_5 | parade
 depend
 science
 service
 stand |  
-| bip_39_word_new_line6 | parade
+| bip_39_word_new_line_6 | parade
 depend
 science
 service
 stand
 spider |  
-| bip_39_word_new_line7 | parade
+| bip_39_word_new_line_7 | parade
 depend
 science
 service
 stand
 spider
 gap |  
-| bip_39_word_new_line8 | parade
+| bip_39_word_new_line_8 | parade
 depend
 science
 service
@@ -113,7 +113,7 @@ stand
 spider
 gap
 welcome |  
-| bip_39_word_new_line9 | parade
+| bip_39_word_new_line_9 | parade
 depend
 science
 service

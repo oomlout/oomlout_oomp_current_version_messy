@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | invest |  
-| bip_39_word_new_br10 | invest<br>tennis<br>amazing<br>fever<br>economy<br>gloom<br>lava<br>taxi<br>flip<br>scout |  
-| bip_39_word_new_br11 | invest<br>tennis<br>amazing<br>fever<br>economy<br>gloom<br>lava<br>taxi<br>flip<br>scout<br>solution |  
-| bip_39_word_new_br12 | invest<br>tennis<br>amazing<br>fever<br>economy<br>gloom<br>lava<br>taxi<br>flip<br>scout<br>solution<br>above |  
-| bip_39_word_new_br2 | invest<br>tennis |  
-| bip_39_word_new_br3 | invest<br>tennis<br>amazing |  
-| bip_39_word_new_br4 | invest<br>tennis<br>amazing<br>fever |  
-| bip_39_word_new_br5 | invest<br>tennis<br>amazing<br>fever<br>economy |  
-| bip_39_word_new_br6 | invest<br>tennis<br>amazing<br>fever<br>economy<br>gloom |  
-| bip_39_word_new_br7 | invest<br>tennis<br>amazing<br>fever<br>economy<br>gloom<br>lava |  
-| bip_39_word_new_br8 | invest<br>tennis<br>amazing<br>fever<br>economy<br>gloom<br>lava<br>taxi |  
-| bip_39_word_new_br9 | invest<br>tennis<br>amazing<br>fever<br>economy<br>gloom<br>lava<br>taxi<br>flip |  
-| bip_39_word_new_line1 | invest |  
-| bip_39_word_new_line10 | invest
+| bip_39_word_new_br_1 | invest |  
+| bip_39_word_new_br_10 | invest<br>tennis<br>amazing<br>fever<br>economy<br>gloom<br>lava<br>taxi<br>flip<br>scout |  
+| bip_39_word_new_br_11 | invest<br>tennis<br>amazing<br>fever<br>economy<br>gloom<br>lava<br>taxi<br>flip<br>scout<br>solution |  
+| bip_39_word_new_br_12 | invest<br>tennis<br>amazing<br>fever<br>economy<br>gloom<br>lava<br>taxi<br>flip<br>scout<br>solution<br>above |  
+| bip_39_word_new_br_2 | invest<br>tennis |  
+| bip_39_word_new_br_3 | invest<br>tennis<br>amazing |  
+| bip_39_word_new_br_4 | invest<br>tennis<br>amazing<br>fever |  
+| bip_39_word_new_br_5 | invest<br>tennis<br>amazing<br>fever<br>economy |  
+| bip_39_word_new_br_6 | invest<br>tennis<br>amazing<br>fever<br>economy<br>gloom |  
+| bip_39_word_new_br_7 | invest<br>tennis<br>amazing<br>fever<br>economy<br>gloom<br>lava |  
+| bip_39_word_new_br_8 | invest<br>tennis<br>amazing<br>fever<br>economy<br>gloom<br>lava<br>taxi |  
+| bip_39_word_new_br_9 | invest<br>tennis<br>amazing<br>fever<br>economy<br>gloom<br>lava<br>taxi<br>flip |  
+| bip_39_word_new_line_1 | invest |  
+| bip_39_word_new_line_10 | invest
 tennis
 amazing
 fever
@@ -55,7 +55,7 @@ lava
 taxi
 flip
 scout |  
-| bip_39_word_new_line11 | invest
+| bip_39_word_new_line_11 | invest
 tennis
 amazing
 fever
@@ -66,7 +66,7 @@ taxi
 flip
 scout
 solution |  
-| bip_39_word_new_line12 | invest
+| bip_39_word_new_line_12 | invest
 tennis
 amazing
 fever
@@ -78,34 +78,34 @@ flip
 scout
 solution
 above |  
-| bip_39_word_new_line2 | invest
+| bip_39_word_new_line_2 | invest
 tennis |  
-| bip_39_word_new_line3 | invest
+| bip_39_word_new_line_3 | invest
 tennis
 amazing |  
-| bip_39_word_new_line4 | invest
+| bip_39_word_new_line_4 | invest
 tennis
 amazing
 fever |  
-| bip_39_word_new_line5 | invest
+| bip_39_word_new_line_5 | invest
 tennis
 amazing
 fever
 economy |  
-| bip_39_word_new_line6 | invest
+| bip_39_word_new_line_6 | invest
 tennis
 amazing
 fever
 economy
 gloom |  
-| bip_39_word_new_line7 | invest
+| bip_39_word_new_line_7 | invest
 tennis
 amazing
 fever
 economy
 gloom
 lava |  
-| bip_39_word_new_line8 | invest
+| bip_39_word_new_line_8 | invest
 tennis
 amazing
 fever
@@ -113,7 +113,7 @@ economy
 gloom
 lava
 taxi |  
-| bip_39_word_new_line9 | invest
+| bip_39_word_new_line_9 | invest
 tennis
 amazing
 fever

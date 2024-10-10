@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | reject |  
-| bip_39_word_new_br10 | reject<br>spider<br>canyon<br>debris<br>crisp<br>huge<br>vacuum<br>grow<br>color<br>zoo |  
-| bip_39_word_new_br11 | reject<br>spider<br>canyon<br>debris<br>crisp<br>huge<br>vacuum<br>grow<br>color<br>zoo<br>stomach |  
-| bip_39_word_new_br12 | reject<br>spider<br>canyon<br>debris<br>crisp<br>huge<br>vacuum<br>grow<br>color<br>zoo<br>stomach<br>assume |  
-| bip_39_word_new_br2 | reject<br>spider |  
-| bip_39_word_new_br3 | reject<br>spider<br>canyon |  
-| bip_39_word_new_br4 | reject<br>spider<br>canyon<br>debris |  
-| bip_39_word_new_br5 | reject<br>spider<br>canyon<br>debris<br>crisp |  
-| bip_39_word_new_br6 | reject<br>spider<br>canyon<br>debris<br>crisp<br>huge |  
-| bip_39_word_new_br7 | reject<br>spider<br>canyon<br>debris<br>crisp<br>huge<br>vacuum |  
-| bip_39_word_new_br8 | reject<br>spider<br>canyon<br>debris<br>crisp<br>huge<br>vacuum<br>grow |  
-| bip_39_word_new_br9 | reject<br>spider<br>canyon<br>debris<br>crisp<br>huge<br>vacuum<br>grow<br>color |  
-| bip_39_word_new_line1 | reject |  
-| bip_39_word_new_line10 | reject
+| bip_39_word_new_br_1 | reject |  
+| bip_39_word_new_br_10 | reject<br>spider<br>canyon<br>debris<br>crisp<br>huge<br>vacuum<br>grow<br>color<br>zoo |  
+| bip_39_word_new_br_11 | reject<br>spider<br>canyon<br>debris<br>crisp<br>huge<br>vacuum<br>grow<br>color<br>zoo<br>stomach |  
+| bip_39_word_new_br_12 | reject<br>spider<br>canyon<br>debris<br>crisp<br>huge<br>vacuum<br>grow<br>color<br>zoo<br>stomach<br>assume |  
+| bip_39_word_new_br_2 | reject<br>spider |  
+| bip_39_word_new_br_3 | reject<br>spider<br>canyon |  
+| bip_39_word_new_br_4 | reject<br>spider<br>canyon<br>debris |  
+| bip_39_word_new_br_5 | reject<br>spider<br>canyon<br>debris<br>crisp |  
+| bip_39_word_new_br_6 | reject<br>spider<br>canyon<br>debris<br>crisp<br>huge |  
+| bip_39_word_new_br_7 | reject<br>spider<br>canyon<br>debris<br>crisp<br>huge<br>vacuum |  
+| bip_39_word_new_br_8 | reject<br>spider<br>canyon<br>debris<br>crisp<br>huge<br>vacuum<br>grow |  
+| bip_39_word_new_br_9 | reject<br>spider<br>canyon<br>debris<br>crisp<br>huge<br>vacuum<br>grow<br>color |  
+| bip_39_word_new_line_1 | reject |  
+| bip_39_word_new_line_10 | reject
 spider
 canyon
 debris
@@ -55,7 +55,7 @@ vacuum
 grow
 color
 zoo |  
-| bip_39_word_new_line11 | reject
+| bip_39_word_new_line_11 | reject
 spider
 canyon
 debris
@@ -66,7 +66,7 @@ grow
 color
 zoo
 stomach |  
-| bip_39_word_new_line12 | reject
+| bip_39_word_new_line_12 | reject
 spider
 canyon
 debris
@@ -78,34 +78,34 @@ color
 zoo
 stomach
 assume |  
-| bip_39_word_new_line2 | reject
+| bip_39_word_new_line_2 | reject
 spider |  
-| bip_39_word_new_line3 | reject
+| bip_39_word_new_line_3 | reject
 spider
 canyon |  
-| bip_39_word_new_line4 | reject
+| bip_39_word_new_line_4 | reject
 spider
 canyon
 debris |  
-| bip_39_word_new_line5 | reject
+| bip_39_word_new_line_5 | reject
 spider
 canyon
 debris
 crisp |  
-| bip_39_word_new_line6 | reject
+| bip_39_word_new_line_6 | reject
 spider
 canyon
 debris
 crisp
 huge |  
-| bip_39_word_new_line7 | reject
+| bip_39_word_new_line_7 | reject
 spider
 canyon
 debris
 crisp
 huge
 vacuum |  
-| bip_39_word_new_line8 | reject
+| bip_39_word_new_line_8 | reject
 spider
 canyon
 debris
@@ -113,7 +113,7 @@ crisp
 huge
 vacuum
 grow |  
-| bip_39_word_new_line9 | reject
+| bip_39_word_new_line_9 | reject
 spider
 canyon
 debris

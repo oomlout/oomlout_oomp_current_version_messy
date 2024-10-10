@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | radio |  
-| bip_39_word_new_br10 | radio<br>broccoli<br>cheap<br>grape<br>gasp<br>hire<br>kid<br>quit<br>spider<br>remove |  
-| bip_39_word_new_br11 | radio<br>broccoli<br>cheap<br>grape<br>gasp<br>hire<br>kid<br>quit<br>spider<br>remove<br>since |  
-| bip_39_word_new_br12 | radio<br>broccoli<br>cheap<br>grape<br>gasp<br>hire<br>kid<br>quit<br>spider<br>remove<br>since<br>again |  
-| bip_39_word_new_br2 | radio<br>broccoli |  
-| bip_39_word_new_br3 | radio<br>broccoli<br>cheap |  
-| bip_39_word_new_br4 | radio<br>broccoli<br>cheap<br>grape |  
-| bip_39_word_new_br5 | radio<br>broccoli<br>cheap<br>grape<br>gasp |  
-| bip_39_word_new_br6 | radio<br>broccoli<br>cheap<br>grape<br>gasp<br>hire |  
-| bip_39_word_new_br7 | radio<br>broccoli<br>cheap<br>grape<br>gasp<br>hire<br>kid |  
-| bip_39_word_new_br8 | radio<br>broccoli<br>cheap<br>grape<br>gasp<br>hire<br>kid<br>quit |  
-| bip_39_word_new_br9 | radio<br>broccoli<br>cheap<br>grape<br>gasp<br>hire<br>kid<br>quit<br>spider |  
-| bip_39_word_new_line1 | radio |  
-| bip_39_word_new_line10 | radio
+| bip_39_word_new_br_1 | radio |  
+| bip_39_word_new_br_10 | radio<br>broccoli<br>cheap<br>grape<br>gasp<br>hire<br>kid<br>quit<br>spider<br>remove |  
+| bip_39_word_new_br_11 | radio<br>broccoli<br>cheap<br>grape<br>gasp<br>hire<br>kid<br>quit<br>spider<br>remove<br>since |  
+| bip_39_word_new_br_12 | radio<br>broccoli<br>cheap<br>grape<br>gasp<br>hire<br>kid<br>quit<br>spider<br>remove<br>since<br>again |  
+| bip_39_word_new_br_2 | radio<br>broccoli |  
+| bip_39_word_new_br_3 | radio<br>broccoli<br>cheap |  
+| bip_39_word_new_br_4 | radio<br>broccoli<br>cheap<br>grape |  
+| bip_39_word_new_br_5 | radio<br>broccoli<br>cheap<br>grape<br>gasp |  
+| bip_39_word_new_br_6 | radio<br>broccoli<br>cheap<br>grape<br>gasp<br>hire |  
+| bip_39_word_new_br_7 | radio<br>broccoli<br>cheap<br>grape<br>gasp<br>hire<br>kid |  
+| bip_39_word_new_br_8 | radio<br>broccoli<br>cheap<br>grape<br>gasp<br>hire<br>kid<br>quit |  
+| bip_39_word_new_br_9 | radio<br>broccoli<br>cheap<br>grape<br>gasp<br>hire<br>kid<br>quit<br>spider |  
+| bip_39_word_new_line_1 | radio |  
+| bip_39_word_new_line_10 | radio
 broccoli
 cheap
 grape
@@ -55,7 +55,7 @@ kid
 quit
 spider
 remove |  
-| bip_39_word_new_line11 | radio
+| bip_39_word_new_line_11 | radio
 broccoli
 cheap
 grape
@@ -66,7 +66,7 @@ quit
 spider
 remove
 since |  
-| bip_39_word_new_line12 | radio
+| bip_39_word_new_line_12 | radio
 broccoli
 cheap
 grape
@@ -78,34 +78,34 @@ spider
 remove
 since
 again |  
-| bip_39_word_new_line2 | radio
+| bip_39_word_new_line_2 | radio
 broccoli |  
-| bip_39_word_new_line3 | radio
+| bip_39_word_new_line_3 | radio
 broccoli
 cheap |  
-| bip_39_word_new_line4 | radio
+| bip_39_word_new_line_4 | radio
 broccoli
 cheap
 grape |  
-| bip_39_word_new_line5 | radio
+| bip_39_word_new_line_5 | radio
 broccoli
 cheap
 grape
 gasp |  
-| bip_39_word_new_line6 | radio
+| bip_39_word_new_line_6 | radio
 broccoli
 cheap
 grape
 gasp
 hire |  
-| bip_39_word_new_line7 | radio
+| bip_39_word_new_line_7 | radio
 broccoli
 cheap
 grape
 gasp
 hire
 kid |  
-| bip_39_word_new_line8 | radio
+| bip_39_word_new_line_8 | radio
 broccoli
 cheap
 grape
@@ -113,7 +113,7 @@ gasp
 hire
 kid
 quit |  
-| bip_39_word_new_line9 | radio
+| bip_39_word_new_line_9 | radio
 broccoli
 cheap
 grape

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | adjust |  
-| bip_39_word_new_br10 | adjust<br>beach<br>trumpet<br>setup<br>sock<br>around<br>fiction<br>pyramid<br>erode<br>leisure |  
-| bip_39_word_new_br11 | adjust<br>beach<br>trumpet<br>setup<br>sock<br>around<br>fiction<br>pyramid<br>erode<br>leisure<br>inhale |  
-| bip_39_word_new_br12 | adjust<br>beach<br>trumpet<br>setup<br>sock<br>around<br>fiction<br>pyramid<br>erode<br>leisure<br>inhale<br>alien |  
-| bip_39_word_new_br2 | adjust<br>beach |  
-| bip_39_word_new_br3 | adjust<br>beach<br>trumpet |  
-| bip_39_word_new_br4 | adjust<br>beach<br>trumpet<br>setup |  
-| bip_39_word_new_br5 | adjust<br>beach<br>trumpet<br>setup<br>sock |  
-| bip_39_word_new_br6 | adjust<br>beach<br>trumpet<br>setup<br>sock<br>around |  
-| bip_39_word_new_br7 | adjust<br>beach<br>trumpet<br>setup<br>sock<br>around<br>fiction |  
-| bip_39_word_new_br8 | adjust<br>beach<br>trumpet<br>setup<br>sock<br>around<br>fiction<br>pyramid |  
-| bip_39_word_new_br9 | adjust<br>beach<br>trumpet<br>setup<br>sock<br>around<br>fiction<br>pyramid<br>erode |  
-| bip_39_word_new_line1 | adjust |  
-| bip_39_word_new_line10 | adjust
+| bip_39_word_new_br_1 | adjust |  
+| bip_39_word_new_br_10 | adjust<br>beach<br>trumpet<br>setup<br>sock<br>around<br>fiction<br>pyramid<br>erode<br>leisure |  
+| bip_39_word_new_br_11 | adjust<br>beach<br>trumpet<br>setup<br>sock<br>around<br>fiction<br>pyramid<br>erode<br>leisure<br>inhale |  
+| bip_39_word_new_br_12 | adjust<br>beach<br>trumpet<br>setup<br>sock<br>around<br>fiction<br>pyramid<br>erode<br>leisure<br>inhale<br>alien |  
+| bip_39_word_new_br_2 | adjust<br>beach |  
+| bip_39_word_new_br_3 | adjust<br>beach<br>trumpet |  
+| bip_39_word_new_br_4 | adjust<br>beach<br>trumpet<br>setup |  
+| bip_39_word_new_br_5 | adjust<br>beach<br>trumpet<br>setup<br>sock |  
+| bip_39_word_new_br_6 | adjust<br>beach<br>trumpet<br>setup<br>sock<br>around |  
+| bip_39_word_new_br_7 | adjust<br>beach<br>trumpet<br>setup<br>sock<br>around<br>fiction |  
+| bip_39_word_new_br_8 | adjust<br>beach<br>trumpet<br>setup<br>sock<br>around<br>fiction<br>pyramid |  
+| bip_39_word_new_br_9 | adjust<br>beach<br>trumpet<br>setup<br>sock<br>around<br>fiction<br>pyramid<br>erode |  
+| bip_39_word_new_line_1 | adjust |  
+| bip_39_word_new_line_10 | adjust
 beach
 trumpet
 setup
@@ -55,7 +55,7 @@ fiction
 pyramid
 erode
 leisure |  
-| bip_39_word_new_line11 | adjust
+| bip_39_word_new_line_11 | adjust
 beach
 trumpet
 setup
@@ -66,7 +66,7 @@ pyramid
 erode
 leisure
 inhale |  
-| bip_39_word_new_line12 | adjust
+| bip_39_word_new_line_12 | adjust
 beach
 trumpet
 setup
@@ -78,34 +78,34 @@ erode
 leisure
 inhale
 alien |  
-| bip_39_word_new_line2 | adjust
+| bip_39_word_new_line_2 | adjust
 beach |  
-| bip_39_word_new_line3 | adjust
+| bip_39_word_new_line_3 | adjust
 beach
 trumpet |  
-| bip_39_word_new_line4 | adjust
+| bip_39_word_new_line_4 | adjust
 beach
 trumpet
 setup |  
-| bip_39_word_new_line5 | adjust
+| bip_39_word_new_line_5 | adjust
 beach
 trumpet
 setup
 sock |  
-| bip_39_word_new_line6 | adjust
+| bip_39_word_new_line_6 | adjust
 beach
 trumpet
 setup
 sock
 around |  
-| bip_39_word_new_line7 | adjust
+| bip_39_word_new_line_7 | adjust
 beach
 trumpet
 setup
 sock
 around
 fiction |  
-| bip_39_word_new_line8 | adjust
+| bip_39_word_new_line_8 | adjust
 beach
 trumpet
 setup
@@ -113,7 +113,7 @@ sock
 around
 fiction
 pyramid |  
-| bip_39_word_new_line9 | adjust
+| bip_39_word_new_line_9 | adjust
 beach
 trumpet
 setup

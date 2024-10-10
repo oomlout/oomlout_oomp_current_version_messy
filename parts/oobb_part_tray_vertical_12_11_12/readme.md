@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | assume |  
-| bip_39_word_new_br10 | assume<br>force<br>amazing<br>lawn<br>gauge<br>print<br>marriage<br>shield<br>fragile<br>blast |  
-| bip_39_word_new_br11 | assume<br>force<br>amazing<br>lawn<br>gauge<br>print<br>marriage<br>shield<br>fragile<br>blast<br>sail |  
-| bip_39_word_new_br12 | assume<br>force<br>amazing<br>lawn<br>gauge<br>print<br>marriage<br>shield<br>fragile<br>blast<br>sail<br>armed |  
-| bip_39_word_new_br2 | assume<br>force |  
-| bip_39_word_new_br3 | assume<br>force<br>amazing |  
-| bip_39_word_new_br4 | assume<br>force<br>amazing<br>lawn |  
-| bip_39_word_new_br5 | assume<br>force<br>amazing<br>lawn<br>gauge |  
-| bip_39_word_new_br6 | assume<br>force<br>amazing<br>lawn<br>gauge<br>print |  
-| bip_39_word_new_br7 | assume<br>force<br>amazing<br>lawn<br>gauge<br>print<br>marriage |  
-| bip_39_word_new_br8 | assume<br>force<br>amazing<br>lawn<br>gauge<br>print<br>marriage<br>shield |  
-| bip_39_word_new_br9 | assume<br>force<br>amazing<br>lawn<br>gauge<br>print<br>marriage<br>shield<br>fragile |  
-| bip_39_word_new_line1 | assume |  
-| bip_39_word_new_line10 | assume
+| bip_39_word_new_br_1 | assume |  
+| bip_39_word_new_br_10 | assume<br>force<br>amazing<br>lawn<br>gauge<br>print<br>marriage<br>shield<br>fragile<br>blast |  
+| bip_39_word_new_br_11 | assume<br>force<br>amazing<br>lawn<br>gauge<br>print<br>marriage<br>shield<br>fragile<br>blast<br>sail |  
+| bip_39_word_new_br_12 | assume<br>force<br>amazing<br>lawn<br>gauge<br>print<br>marriage<br>shield<br>fragile<br>blast<br>sail<br>armed |  
+| bip_39_word_new_br_2 | assume<br>force |  
+| bip_39_word_new_br_3 | assume<br>force<br>amazing |  
+| bip_39_word_new_br_4 | assume<br>force<br>amazing<br>lawn |  
+| bip_39_word_new_br_5 | assume<br>force<br>amazing<br>lawn<br>gauge |  
+| bip_39_word_new_br_6 | assume<br>force<br>amazing<br>lawn<br>gauge<br>print |  
+| bip_39_word_new_br_7 | assume<br>force<br>amazing<br>lawn<br>gauge<br>print<br>marriage |  
+| bip_39_word_new_br_8 | assume<br>force<br>amazing<br>lawn<br>gauge<br>print<br>marriage<br>shield |  
+| bip_39_word_new_br_9 | assume<br>force<br>amazing<br>lawn<br>gauge<br>print<br>marriage<br>shield<br>fragile |  
+| bip_39_word_new_line_1 | assume |  
+| bip_39_word_new_line_10 | assume
 force
 amazing
 lawn
@@ -55,7 +55,7 @@ marriage
 shield
 fragile
 blast |  
-| bip_39_word_new_line11 | assume
+| bip_39_word_new_line_11 | assume
 force
 amazing
 lawn
@@ -66,7 +66,7 @@ shield
 fragile
 blast
 sail |  
-| bip_39_word_new_line12 | assume
+| bip_39_word_new_line_12 | assume
 force
 amazing
 lawn
@@ -78,34 +78,34 @@ fragile
 blast
 sail
 armed |  
-| bip_39_word_new_line2 | assume
+| bip_39_word_new_line_2 | assume
 force |  
-| bip_39_word_new_line3 | assume
+| bip_39_word_new_line_3 | assume
 force
 amazing |  
-| bip_39_word_new_line4 | assume
+| bip_39_word_new_line_4 | assume
 force
 amazing
 lawn |  
-| bip_39_word_new_line5 | assume
+| bip_39_word_new_line_5 | assume
 force
 amazing
 lawn
 gauge |  
-| bip_39_word_new_line6 | assume
+| bip_39_word_new_line_6 | assume
 force
 amazing
 lawn
 gauge
 print |  
-| bip_39_word_new_line7 | assume
+| bip_39_word_new_line_7 | assume
 force
 amazing
 lawn
 gauge
 print
 marriage |  
-| bip_39_word_new_line8 | assume
+| bip_39_word_new_line_8 | assume
 force
 amazing
 lawn
@@ -113,7 +113,7 @@ gauge
 print
 marriage
 shield |  
-| bip_39_word_new_line9 | assume
+| bip_39_word_new_line_9 | assume
 force
 amazing
 lawn

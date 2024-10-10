@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | destroy |  
-| bip_39_word_new_br10 | destroy<br>orphan<br>reform<br>sick<br>page<br>achieve<br>toe<br>story<br>little<br>scare |  
-| bip_39_word_new_br11 | destroy<br>orphan<br>reform<br>sick<br>page<br>achieve<br>toe<br>story<br>little<br>scare<br>garage |  
-| bip_39_word_new_br12 | destroy<br>orphan<br>reform<br>sick<br>page<br>achieve<br>toe<br>story<br>little<br>scare<br>garage<br>armed |  
-| bip_39_word_new_br2 | destroy<br>orphan |  
-| bip_39_word_new_br3 | destroy<br>orphan<br>reform |  
-| bip_39_word_new_br4 | destroy<br>orphan<br>reform<br>sick |  
-| bip_39_word_new_br5 | destroy<br>orphan<br>reform<br>sick<br>page |  
-| bip_39_word_new_br6 | destroy<br>orphan<br>reform<br>sick<br>page<br>achieve |  
-| bip_39_word_new_br7 | destroy<br>orphan<br>reform<br>sick<br>page<br>achieve<br>toe |  
-| bip_39_word_new_br8 | destroy<br>orphan<br>reform<br>sick<br>page<br>achieve<br>toe<br>story |  
-| bip_39_word_new_br9 | destroy<br>orphan<br>reform<br>sick<br>page<br>achieve<br>toe<br>story<br>little |  
-| bip_39_word_new_line1 | destroy |  
-| bip_39_word_new_line10 | destroy
+| bip_39_word_new_br_1 | destroy |  
+| bip_39_word_new_br_10 | destroy<br>orphan<br>reform<br>sick<br>page<br>achieve<br>toe<br>story<br>little<br>scare |  
+| bip_39_word_new_br_11 | destroy<br>orphan<br>reform<br>sick<br>page<br>achieve<br>toe<br>story<br>little<br>scare<br>garage |  
+| bip_39_word_new_br_12 | destroy<br>orphan<br>reform<br>sick<br>page<br>achieve<br>toe<br>story<br>little<br>scare<br>garage<br>armed |  
+| bip_39_word_new_br_2 | destroy<br>orphan |  
+| bip_39_word_new_br_3 | destroy<br>orphan<br>reform |  
+| bip_39_word_new_br_4 | destroy<br>orphan<br>reform<br>sick |  
+| bip_39_word_new_br_5 | destroy<br>orphan<br>reform<br>sick<br>page |  
+| bip_39_word_new_br_6 | destroy<br>orphan<br>reform<br>sick<br>page<br>achieve |  
+| bip_39_word_new_br_7 | destroy<br>orphan<br>reform<br>sick<br>page<br>achieve<br>toe |  
+| bip_39_word_new_br_8 | destroy<br>orphan<br>reform<br>sick<br>page<br>achieve<br>toe<br>story |  
+| bip_39_word_new_br_9 | destroy<br>orphan<br>reform<br>sick<br>page<br>achieve<br>toe<br>story<br>little |  
+| bip_39_word_new_line_1 | destroy |  
+| bip_39_word_new_line_10 | destroy
 orphan
 reform
 sick
@@ -55,7 +55,7 @@ toe
 story
 little
 scare |  
-| bip_39_word_new_line11 | destroy
+| bip_39_word_new_line_11 | destroy
 orphan
 reform
 sick
@@ -66,7 +66,7 @@ story
 little
 scare
 garage |  
-| bip_39_word_new_line12 | destroy
+| bip_39_word_new_line_12 | destroy
 orphan
 reform
 sick
@@ -78,34 +78,34 @@ little
 scare
 garage
 armed |  
-| bip_39_word_new_line2 | destroy
+| bip_39_word_new_line_2 | destroy
 orphan |  
-| bip_39_word_new_line3 | destroy
+| bip_39_word_new_line_3 | destroy
 orphan
 reform |  
-| bip_39_word_new_line4 | destroy
+| bip_39_word_new_line_4 | destroy
 orphan
 reform
 sick |  
-| bip_39_word_new_line5 | destroy
+| bip_39_word_new_line_5 | destroy
 orphan
 reform
 sick
 page |  
-| bip_39_word_new_line6 | destroy
+| bip_39_word_new_line_6 | destroy
 orphan
 reform
 sick
 page
 achieve |  
-| bip_39_word_new_line7 | destroy
+| bip_39_word_new_line_7 | destroy
 orphan
 reform
 sick
 page
 achieve
 toe |  
-| bip_39_word_new_line8 | destroy
+| bip_39_word_new_line_8 | destroy
 orphan
 reform
 sick
@@ -113,7 +113,7 @@ page
 achieve
 toe
 story |  
-| bip_39_word_new_line9 | destroy
+| bip_39_word_new_line_9 | destroy
 orphan
 reform
 sick

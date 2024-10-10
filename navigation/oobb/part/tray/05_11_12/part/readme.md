@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sign |  
-| bip_39_word_new_br10 | sign<br>onion<br>used<br>injury<br>reason<br>avocado<br>float<br>talent<br>nut<br>increase |  
-| bip_39_word_new_br11 | sign<br>onion<br>used<br>injury<br>reason<br>avocado<br>float<br>talent<br>nut<br>increase<br>just |  
-| bip_39_word_new_br12 | sign<br>onion<br>used<br>injury<br>reason<br>avocado<br>float<br>talent<br>nut<br>increase<br>just<br>appear |  
-| bip_39_word_new_br2 | sign<br>onion |  
-| bip_39_word_new_br3 | sign<br>onion<br>used |  
-| bip_39_word_new_br4 | sign<br>onion<br>used<br>injury |  
-| bip_39_word_new_br5 | sign<br>onion<br>used<br>injury<br>reason |  
-| bip_39_word_new_br6 | sign<br>onion<br>used<br>injury<br>reason<br>avocado |  
-| bip_39_word_new_br7 | sign<br>onion<br>used<br>injury<br>reason<br>avocado<br>float |  
-| bip_39_word_new_br8 | sign<br>onion<br>used<br>injury<br>reason<br>avocado<br>float<br>talent |  
-| bip_39_word_new_br9 | sign<br>onion<br>used<br>injury<br>reason<br>avocado<br>float<br>talent<br>nut |  
-| bip_39_word_new_line1 | sign |  
-| bip_39_word_new_line10 | sign
+| bip_39_word_new_br_1 | sign |  
+| bip_39_word_new_br_10 | sign<br>onion<br>used<br>injury<br>reason<br>avocado<br>float<br>talent<br>nut<br>increase |  
+| bip_39_word_new_br_11 | sign<br>onion<br>used<br>injury<br>reason<br>avocado<br>float<br>talent<br>nut<br>increase<br>just |  
+| bip_39_word_new_br_12 | sign<br>onion<br>used<br>injury<br>reason<br>avocado<br>float<br>talent<br>nut<br>increase<br>just<br>appear |  
+| bip_39_word_new_br_2 | sign<br>onion |  
+| bip_39_word_new_br_3 | sign<br>onion<br>used |  
+| bip_39_word_new_br_4 | sign<br>onion<br>used<br>injury |  
+| bip_39_word_new_br_5 | sign<br>onion<br>used<br>injury<br>reason |  
+| bip_39_word_new_br_6 | sign<br>onion<br>used<br>injury<br>reason<br>avocado |  
+| bip_39_word_new_br_7 | sign<br>onion<br>used<br>injury<br>reason<br>avocado<br>float |  
+| bip_39_word_new_br_8 | sign<br>onion<br>used<br>injury<br>reason<br>avocado<br>float<br>talent |  
+| bip_39_word_new_br_9 | sign<br>onion<br>used<br>injury<br>reason<br>avocado<br>float<br>talent<br>nut |  
+| bip_39_word_new_line_1 | sign |  
+| bip_39_word_new_line_10 | sign
 onion
 used
 injury
@@ -55,7 +55,7 @@ float
 talent
 nut
 increase |  
-| bip_39_word_new_line11 | sign
+| bip_39_word_new_line_11 | sign
 onion
 used
 injury
@@ -66,7 +66,7 @@ talent
 nut
 increase
 just |  
-| bip_39_word_new_line12 | sign
+| bip_39_word_new_line_12 | sign
 onion
 used
 injury
@@ -78,34 +78,34 @@ nut
 increase
 just
 appear |  
-| bip_39_word_new_line2 | sign
+| bip_39_word_new_line_2 | sign
 onion |  
-| bip_39_word_new_line3 | sign
+| bip_39_word_new_line_3 | sign
 onion
 used |  
-| bip_39_word_new_line4 | sign
+| bip_39_word_new_line_4 | sign
 onion
 used
 injury |  
-| bip_39_word_new_line5 | sign
+| bip_39_word_new_line_5 | sign
 onion
 used
 injury
 reason |  
-| bip_39_word_new_line6 | sign
+| bip_39_word_new_line_6 | sign
 onion
 used
 injury
 reason
 avocado |  
-| bip_39_word_new_line7 | sign
+| bip_39_word_new_line_7 | sign
 onion
 used
 injury
 reason
 avocado
 float |  
-| bip_39_word_new_line8 | sign
+| bip_39_word_new_line_8 | sign
 onion
 used
 injury
@@ -113,7 +113,7 @@ reason
 avocado
 float
 talent |  
-| bip_39_word_new_line9 | sign
+| bip_39_word_new_line_9 | sign
 onion
 used
 injury

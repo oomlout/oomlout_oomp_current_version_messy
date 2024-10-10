@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | planet |  
-| bip_39_word_new_br10 | planet<br>capable<br>double<br>vocal<br>way<br>special<br>pelican<br>manage<br>lady<br>check |  
-| bip_39_word_new_br11 | planet<br>capable<br>double<br>vocal<br>way<br>special<br>pelican<br>manage<br>lady<br>check<br>razor |  
-| bip_39_word_new_br12 | planet<br>capable<br>double<br>vocal<br>way<br>special<br>pelican<br>manage<br>lady<br>check<br>razor<br>aim |  
-| bip_39_word_new_br2 | planet<br>capable |  
-| bip_39_word_new_br3 | planet<br>capable<br>double |  
-| bip_39_word_new_br4 | planet<br>capable<br>double<br>vocal |  
-| bip_39_word_new_br5 | planet<br>capable<br>double<br>vocal<br>way |  
-| bip_39_word_new_br6 | planet<br>capable<br>double<br>vocal<br>way<br>special |  
-| bip_39_word_new_br7 | planet<br>capable<br>double<br>vocal<br>way<br>special<br>pelican |  
-| bip_39_word_new_br8 | planet<br>capable<br>double<br>vocal<br>way<br>special<br>pelican<br>manage |  
-| bip_39_word_new_br9 | planet<br>capable<br>double<br>vocal<br>way<br>special<br>pelican<br>manage<br>lady |  
-| bip_39_word_new_line1 | planet |  
-| bip_39_word_new_line10 | planet
+| bip_39_word_new_br_1 | planet |  
+| bip_39_word_new_br_10 | planet<br>capable<br>double<br>vocal<br>way<br>special<br>pelican<br>manage<br>lady<br>check |  
+| bip_39_word_new_br_11 | planet<br>capable<br>double<br>vocal<br>way<br>special<br>pelican<br>manage<br>lady<br>check<br>razor |  
+| bip_39_word_new_br_12 | planet<br>capable<br>double<br>vocal<br>way<br>special<br>pelican<br>manage<br>lady<br>check<br>razor<br>aim |  
+| bip_39_word_new_br_2 | planet<br>capable |  
+| bip_39_word_new_br_3 | planet<br>capable<br>double |  
+| bip_39_word_new_br_4 | planet<br>capable<br>double<br>vocal |  
+| bip_39_word_new_br_5 | planet<br>capable<br>double<br>vocal<br>way |  
+| bip_39_word_new_br_6 | planet<br>capable<br>double<br>vocal<br>way<br>special |  
+| bip_39_word_new_br_7 | planet<br>capable<br>double<br>vocal<br>way<br>special<br>pelican |  
+| bip_39_word_new_br_8 | planet<br>capable<br>double<br>vocal<br>way<br>special<br>pelican<br>manage |  
+| bip_39_word_new_br_9 | planet<br>capable<br>double<br>vocal<br>way<br>special<br>pelican<br>manage<br>lady |  
+| bip_39_word_new_line_1 | planet |  
+| bip_39_word_new_line_10 | planet
 capable
 double
 vocal
@@ -55,7 +55,7 @@ pelican
 manage
 lady
 check |  
-| bip_39_word_new_line11 | planet
+| bip_39_word_new_line_11 | planet
 capable
 double
 vocal
@@ -66,7 +66,7 @@ manage
 lady
 check
 razor |  
-| bip_39_word_new_line12 | planet
+| bip_39_word_new_line_12 | planet
 capable
 double
 vocal
@@ -78,34 +78,34 @@ lady
 check
 razor
 aim |  
-| bip_39_word_new_line2 | planet
+| bip_39_word_new_line_2 | planet
 capable |  
-| bip_39_word_new_line3 | planet
+| bip_39_word_new_line_3 | planet
 capable
 double |  
-| bip_39_word_new_line4 | planet
+| bip_39_word_new_line_4 | planet
 capable
 double
 vocal |  
-| bip_39_word_new_line5 | planet
+| bip_39_word_new_line_5 | planet
 capable
 double
 vocal
 way |  
-| bip_39_word_new_line6 | planet
+| bip_39_word_new_line_6 | planet
 capable
 double
 vocal
 way
 special |  
-| bip_39_word_new_line7 | planet
+| bip_39_word_new_line_7 | planet
 capable
 double
 vocal
 way
 special
 pelican |  
-| bip_39_word_new_line8 | planet
+| bip_39_word_new_line_8 | planet
 capable
 double
 vocal
@@ -113,7 +113,7 @@ way
 special
 pelican
 manage |  
-| bip_39_word_new_line9 | planet
+| bip_39_word_new_line_9 | planet
 capable
 double
 vocal

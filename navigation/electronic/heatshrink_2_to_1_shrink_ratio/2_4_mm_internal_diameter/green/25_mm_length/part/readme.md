@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | repeat |  
-| bip_39_word_new_br10 | repeat<br>minimum<br>tragic<br>planet<br>diesel<br>oblige<br>toilet<br>print<br>kind<br>blind |  
-| bip_39_word_new_br11 | repeat<br>minimum<br>tragic<br>planet<br>diesel<br>oblige<br>toilet<br>print<br>kind<br>blind<br>liar |  
-| bip_39_word_new_br12 | repeat<br>minimum<br>tragic<br>planet<br>diesel<br>oblige<br>toilet<br>print<br>kind<br>blind<br>liar<br>apart |  
-| bip_39_word_new_br2 | repeat<br>minimum |  
-| bip_39_word_new_br3 | repeat<br>minimum<br>tragic |  
-| bip_39_word_new_br4 | repeat<br>minimum<br>tragic<br>planet |  
-| bip_39_word_new_br5 | repeat<br>minimum<br>tragic<br>planet<br>diesel |  
-| bip_39_word_new_br6 | repeat<br>minimum<br>tragic<br>planet<br>diesel<br>oblige |  
-| bip_39_word_new_br7 | repeat<br>minimum<br>tragic<br>planet<br>diesel<br>oblige<br>toilet |  
-| bip_39_word_new_br8 | repeat<br>minimum<br>tragic<br>planet<br>diesel<br>oblige<br>toilet<br>print |  
-| bip_39_word_new_br9 | repeat<br>minimum<br>tragic<br>planet<br>diesel<br>oblige<br>toilet<br>print<br>kind |  
-| bip_39_word_new_line1 | repeat |  
-| bip_39_word_new_line10 | repeat
+| bip_39_word_new_br_1 | repeat |  
+| bip_39_word_new_br_10 | repeat<br>minimum<br>tragic<br>planet<br>diesel<br>oblige<br>toilet<br>print<br>kind<br>blind |  
+| bip_39_word_new_br_11 | repeat<br>minimum<br>tragic<br>planet<br>diesel<br>oblige<br>toilet<br>print<br>kind<br>blind<br>liar |  
+| bip_39_word_new_br_12 | repeat<br>minimum<br>tragic<br>planet<br>diesel<br>oblige<br>toilet<br>print<br>kind<br>blind<br>liar<br>apart |  
+| bip_39_word_new_br_2 | repeat<br>minimum |  
+| bip_39_word_new_br_3 | repeat<br>minimum<br>tragic |  
+| bip_39_word_new_br_4 | repeat<br>minimum<br>tragic<br>planet |  
+| bip_39_word_new_br_5 | repeat<br>minimum<br>tragic<br>planet<br>diesel |  
+| bip_39_word_new_br_6 | repeat<br>minimum<br>tragic<br>planet<br>diesel<br>oblige |  
+| bip_39_word_new_br_7 | repeat<br>minimum<br>tragic<br>planet<br>diesel<br>oblige<br>toilet |  
+| bip_39_word_new_br_8 | repeat<br>minimum<br>tragic<br>planet<br>diesel<br>oblige<br>toilet<br>print |  
+| bip_39_word_new_br_9 | repeat<br>minimum<br>tragic<br>planet<br>diesel<br>oblige<br>toilet<br>print<br>kind |  
+| bip_39_word_new_line_1 | repeat |  
+| bip_39_word_new_line_10 | repeat
 minimum
 tragic
 planet
@@ -55,7 +55,7 @@ toilet
 print
 kind
 blind |  
-| bip_39_word_new_line11 | repeat
+| bip_39_word_new_line_11 | repeat
 minimum
 tragic
 planet
@@ -66,7 +66,7 @@ print
 kind
 blind
 liar |  
-| bip_39_word_new_line12 | repeat
+| bip_39_word_new_line_12 | repeat
 minimum
 tragic
 planet
@@ -78,34 +78,34 @@ kind
 blind
 liar
 apart |  
-| bip_39_word_new_line2 | repeat
+| bip_39_word_new_line_2 | repeat
 minimum |  
-| bip_39_word_new_line3 | repeat
+| bip_39_word_new_line_3 | repeat
 minimum
 tragic |  
-| bip_39_word_new_line4 | repeat
+| bip_39_word_new_line_4 | repeat
 minimum
 tragic
 planet |  
-| bip_39_word_new_line5 | repeat
+| bip_39_word_new_line_5 | repeat
 minimum
 tragic
 planet
 diesel |  
-| bip_39_word_new_line6 | repeat
+| bip_39_word_new_line_6 | repeat
 minimum
 tragic
 planet
 diesel
 oblige |  
-| bip_39_word_new_line7 | repeat
+| bip_39_word_new_line_7 | repeat
 minimum
 tragic
 planet
 diesel
 oblige
 toilet |  
-| bip_39_word_new_line8 | repeat
+| bip_39_word_new_line_8 | repeat
 minimum
 tragic
 planet
@@ -113,7 +113,7 @@ diesel
 oblige
 toilet
 print |  
-| bip_39_word_new_line9 | repeat
+| bip_39_word_new_line_9 | repeat
 minimum
 tragic
 planet

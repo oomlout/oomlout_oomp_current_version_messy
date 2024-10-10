@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | choice |  
-| bip_39_word_new_br10 | choice<br>either<br>very<br>october<br>orient<br>target<br>hole<br>cereal<br>infant<br>dream |  
-| bip_39_word_new_br11 | choice<br>either<br>very<br>october<br>orient<br>target<br>hole<br>cereal<br>infant<br>dream<br>radio |  
-| bip_39_word_new_br12 | choice<br>either<br>very<br>october<br>orient<br>target<br>hole<br>cereal<br>infant<br>dream<br>radio<br>aspect |  
-| bip_39_word_new_br2 | choice<br>either |  
-| bip_39_word_new_br3 | choice<br>either<br>very |  
-| bip_39_word_new_br4 | choice<br>either<br>very<br>october |  
-| bip_39_word_new_br5 | choice<br>either<br>very<br>october<br>orient |  
-| bip_39_word_new_br6 | choice<br>either<br>very<br>october<br>orient<br>target |  
-| bip_39_word_new_br7 | choice<br>either<br>very<br>october<br>orient<br>target<br>hole |  
-| bip_39_word_new_br8 | choice<br>either<br>very<br>october<br>orient<br>target<br>hole<br>cereal |  
-| bip_39_word_new_br9 | choice<br>either<br>very<br>october<br>orient<br>target<br>hole<br>cereal<br>infant |  
-| bip_39_word_new_line1 | choice |  
-| bip_39_word_new_line10 | choice
+| bip_39_word_new_br_1 | choice |  
+| bip_39_word_new_br_10 | choice<br>either<br>very<br>october<br>orient<br>target<br>hole<br>cereal<br>infant<br>dream |  
+| bip_39_word_new_br_11 | choice<br>either<br>very<br>october<br>orient<br>target<br>hole<br>cereal<br>infant<br>dream<br>radio |  
+| bip_39_word_new_br_12 | choice<br>either<br>very<br>october<br>orient<br>target<br>hole<br>cereal<br>infant<br>dream<br>radio<br>aspect |  
+| bip_39_word_new_br_2 | choice<br>either |  
+| bip_39_word_new_br_3 | choice<br>either<br>very |  
+| bip_39_word_new_br_4 | choice<br>either<br>very<br>october |  
+| bip_39_word_new_br_5 | choice<br>either<br>very<br>october<br>orient |  
+| bip_39_word_new_br_6 | choice<br>either<br>very<br>october<br>orient<br>target |  
+| bip_39_word_new_br_7 | choice<br>either<br>very<br>october<br>orient<br>target<br>hole |  
+| bip_39_word_new_br_8 | choice<br>either<br>very<br>october<br>orient<br>target<br>hole<br>cereal |  
+| bip_39_word_new_br_9 | choice<br>either<br>very<br>october<br>orient<br>target<br>hole<br>cereal<br>infant |  
+| bip_39_word_new_line_1 | choice |  
+| bip_39_word_new_line_10 | choice
 either
 very
 october
@@ -55,7 +55,7 @@ hole
 cereal
 infant
 dream |  
-| bip_39_word_new_line11 | choice
+| bip_39_word_new_line_11 | choice
 either
 very
 october
@@ -66,7 +66,7 @@ cereal
 infant
 dream
 radio |  
-| bip_39_word_new_line12 | choice
+| bip_39_word_new_line_12 | choice
 either
 very
 october
@@ -78,34 +78,34 @@ infant
 dream
 radio
 aspect |  
-| bip_39_word_new_line2 | choice
+| bip_39_word_new_line_2 | choice
 either |  
-| bip_39_word_new_line3 | choice
+| bip_39_word_new_line_3 | choice
 either
 very |  
-| bip_39_word_new_line4 | choice
+| bip_39_word_new_line_4 | choice
 either
 very
 october |  
-| bip_39_word_new_line5 | choice
+| bip_39_word_new_line_5 | choice
 either
 very
 october
 orient |  
-| bip_39_word_new_line6 | choice
+| bip_39_word_new_line_6 | choice
 either
 very
 october
 orient
 target |  
-| bip_39_word_new_line7 | choice
+| bip_39_word_new_line_7 | choice
 either
 very
 october
 orient
 target
 hole |  
-| bip_39_word_new_line8 | choice
+| bip_39_word_new_line_8 | choice
 either
 very
 october
@@ -113,7 +113,7 @@ orient
 target
 hole
 cereal |  
-| bip_39_word_new_line9 | choice
+| bip_39_word_new_line_9 | choice
 either
 very
 october

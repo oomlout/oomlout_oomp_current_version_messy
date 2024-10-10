@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | staff |  
-| bip_39_word_new_br10 | staff<br>execute<br>dirt<br>parent<br>powder<br>average<br>manual<br>health<br>gate<br>hamster |  
-| bip_39_word_new_br11 | staff<br>execute<br>dirt<br>parent<br>powder<br>average<br>manual<br>health<br>gate<br>hamster<br>chief |  
-| bip_39_word_new_br12 | staff<br>execute<br>dirt<br>parent<br>powder<br>average<br>manual<br>health<br>gate<br>hamster<br>chief<br>artefact |  
-| bip_39_word_new_br2 | staff<br>execute |  
-| bip_39_word_new_br3 | staff<br>execute<br>dirt |  
-| bip_39_word_new_br4 | staff<br>execute<br>dirt<br>parent |  
-| bip_39_word_new_br5 | staff<br>execute<br>dirt<br>parent<br>powder |  
-| bip_39_word_new_br6 | staff<br>execute<br>dirt<br>parent<br>powder<br>average |  
-| bip_39_word_new_br7 | staff<br>execute<br>dirt<br>parent<br>powder<br>average<br>manual |  
-| bip_39_word_new_br8 | staff<br>execute<br>dirt<br>parent<br>powder<br>average<br>manual<br>health |  
-| bip_39_word_new_br9 | staff<br>execute<br>dirt<br>parent<br>powder<br>average<br>manual<br>health<br>gate |  
-| bip_39_word_new_line1 | staff |  
-| bip_39_word_new_line10 | staff
+| bip_39_word_new_br_1 | staff |  
+| bip_39_word_new_br_10 | staff<br>execute<br>dirt<br>parent<br>powder<br>average<br>manual<br>health<br>gate<br>hamster |  
+| bip_39_word_new_br_11 | staff<br>execute<br>dirt<br>parent<br>powder<br>average<br>manual<br>health<br>gate<br>hamster<br>chief |  
+| bip_39_word_new_br_12 | staff<br>execute<br>dirt<br>parent<br>powder<br>average<br>manual<br>health<br>gate<br>hamster<br>chief<br>artefact |  
+| bip_39_word_new_br_2 | staff<br>execute |  
+| bip_39_word_new_br_3 | staff<br>execute<br>dirt |  
+| bip_39_word_new_br_4 | staff<br>execute<br>dirt<br>parent |  
+| bip_39_word_new_br_5 | staff<br>execute<br>dirt<br>parent<br>powder |  
+| bip_39_word_new_br_6 | staff<br>execute<br>dirt<br>parent<br>powder<br>average |  
+| bip_39_word_new_br_7 | staff<br>execute<br>dirt<br>parent<br>powder<br>average<br>manual |  
+| bip_39_word_new_br_8 | staff<br>execute<br>dirt<br>parent<br>powder<br>average<br>manual<br>health |  
+| bip_39_word_new_br_9 | staff<br>execute<br>dirt<br>parent<br>powder<br>average<br>manual<br>health<br>gate |  
+| bip_39_word_new_line_1 | staff |  
+| bip_39_word_new_line_10 | staff
 execute
 dirt
 parent
@@ -55,7 +55,7 @@ manual
 health
 gate
 hamster |  
-| bip_39_word_new_line11 | staff
+| bip_39_word_new_line_11 | staff
 execute
 dirt
 parent
@@ -66,7 +66,7 @@ health
 gate
 hamster
 chief |  
-| bip_39_word_new_line12 | staff
+| bip_39_word_new_line_12 | staff
 execute
 dirt
 parent
@@ -78,34 +78,34 @@ gate
 hamster
 chief
 artefact |  
-| bip_39_word_new_line2 | staff
+| bip_39_word_new_line_2 | staff
 execute |  
-| bip_39_word_new_line3 | staff
+| bip_39_word_new_line_3 | staff
 execute
 dirt |  
-| bip_39_word_new_line4 | staff
+| bip_39_word_new_line_4 | staff
 execute
 dirt
 parent |  
-| bip_39_word_new_line5 | staff
+| bip_39_word_new_line_5 | staff
 execute
 dirt
 parent
 powder |  
-| bip_39_word_new_line6 | staff
+| bip_39_word_new_line_6 | staff
 execute
 dirt
 parent
 powder
 average |  
-| bip_39_word_new_line7 | staff
+| bip_39_word_new_line_7 | staff
 execute
 dirt
 parent
 powder
 average
 manual |  
-| bip_39_word_new_line8 | staff
+| bip_39_word_new_line_8 | staff
 execute
 dirt
 parent
@@ -113,7 +113,7 @@ powder
 average
 manual
 health |  
-| bip_39_word_new_line9 | staff
+| bip_39_word_new_line_9 | staff
 execute
 dirt
 parent

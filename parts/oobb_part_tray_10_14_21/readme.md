@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | federal |  
-| bip_39_word_new_br10 | federal<br>load<br>verify<br>horn<br>echo<br>area<br>glow<br>chaos<br>flush<br>syrup |  
-| bip_39_word_new_br11 | federal<br>load<br>verify<br>horn<br>echo<br>area<br>glow<br>chaos<br>flush<br>syrup<br>grain |  
-| bip_39_word_new_br12 | federal<br>load<br>verify<br>horn<br>echo<br>area<br>glow<br>chaos<br>flush<br>syrup<br>grain<br>annual |  
-| bip_39_word_new_br2 | federal<br>load |  
-| bip_39_word_new_br3 | federal<br>load<br>verify |  
-| bip_39_word_new_br4 | federal<br>load<br>verify<br>horn |  
-| bip_39_word_new_br5 | federal<br>load<br>verify<br>horn<br>echo |  
-| bip_39_word_new_br6 | federal<br>load<br>verify<br>horn<br>echo<br>area |  
-| bip_39_word_new_br7 | federal<br>load<br>verify<br>horn<br>echo<br>area<br>glow |  
-| bip_39_word_new_br8 | federal<br>load<br>verify<br>horn<br>echo<br>area<br>glow<br>chaos |  
-| bip_39_word_new_br9 | federal<br>load<br>verify<br>horn<br>echo<br>area<br>glow<br>chaos<br>flush |  
-| bip_39_word_new_line1 | federal |  
-| bip_39_word_new_line10 | federal
+| bip_39_word_new_br_1 | federal |  
+| bip_39_word_new_br_10 | federal<br>load<br>verify<br>horn<br>echo<br>area<br>glow<br>chaos<br>flush<br>syrup |  
+| bip_39_word_new_br_11 | federal<br>load<br>verify<br>horn<br>echo<br>area<br>glow<br>chaos<br>flush<br>syrup<br>grain |  
+| bip_39_word_new_br_12 | federal<br>load<br>verify<br>horn<br>echo<br>area<br>glow<br>chaos<br>flush<br>syrup<br>grain<br>annual |  
+| bip_39_word_new_br_2 | federal<br>load |  
+| bip_39_word_new_br_3 | federal<br>load<br>verify |  
+| bip_39_word_new_br_4 | federal<br>load<br>verify<br>horn |  
+| bip_39_word_new_br_5 | federal<br>load<br>verify<br>horn<br>echo |  
+| bip_39_word_new_br_6 | federal<br>load<br>verify<br>horn<br>echo<br>area |  
+| bip_39_word_new_br_7 | federal<br>load<br>verify<br>horn<br>echo<br>area<br>glow |  
+| bip_39_word_new_br_8 | federal<br>load<br>verify<br>horn<br>echo<br>area<br>glow<br>chaos |  
+| bip_39_word_new_br_9 | federal<br>load<br>verify<br>horn<br>echo<br>area<br>glow<br>chaos<br>flush |  
+| bip_39_word_new_line_1 | federal |  
+| bip_39_word_new_line_10 | federal
 load
 verify
 horn
@@ -55,7 +55,7 @@ glow
 chaos
 flush
 syrup |  
-| bip_39_word_new_line11 | federal
+| bip_39_word_new_line_11 | federal
 load
 verify
 horn
@@ -66,7 +66,7 @@ chaos
 flush
 syrup
 grain |  
-| bip_39_word_new_line12 | federal
+| bip_39_word_new_line_12 | federal
 load
 verify
 horn
@@ -78,34 +78,34 @@ flush
 syrup
 grain
 annual |  
-| bip_39_word_new_line2 | federal
+| bip_39_word_new_line_2 | federal
 load |  
-| bip_39_word_new_line3 | federal
+| bip_39_word_new_line_3 | federal
 load
 verify |  
-| bip_39_word_new_line4 | federal
+| bip_39_word_new_line_4 | federal
 load
 verify
 horn |  
-| bip_39_word_new_line5 | federal
+| bip_39_word_new_line_5 | federal
 load
 verify
 horn
 echo |  
-| bip_39_word_new_line6 | federal
+| bip_39_word_new_line_6 | federal
 load
 verify
 horn
 echo
 area |  
-| bip_39_word_new_line7 | federal
+| bip_39_word_new_line_7 | federal
 load
 verify
 horn
 echo
 area
 glow |  
-| bip_39_word_new_line8 | federal
+| bip_39_word_new_line_8 | federal
 load
 verify
 horn
@@ -113,7 +113,7 @@ echo
 area
 glow
 chaos |  
-| bip_39_word_new_line9 | federal
+| bip_39_word_new_line_9 | federal
 load
 verify
 horn

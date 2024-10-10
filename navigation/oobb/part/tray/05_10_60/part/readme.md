@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | puppy |  
-| bip_39_word_new_br10 | puppy<br>fragile<br>light<br>build<br>panther<br>void<br>shiver<br>frown<br>tennis<br>rain |  
-| bip_39_word_new_br11 | puppy<br>fragile<br>light<br>build<br>panther<br>void<br>shiver<br>frown<br>tennis<br>rain<br>scrap |  
-| bip_39_word_new_br12 | puppy<br>fragile<br>light<br>build<br>panther<br>void<br>shiver<br>frown<br>tennis<br>rain<br>scrap<br>almost |  
-| bip_39_word_new_br2 | puppy<br>fragile |  
-| bip_39_word_new_br3 | puppy<br>fragile<br>light |  
-| bip_39_word_new_br4 | puppy<br>fragile<br>light<br>build |  
-| bip_39_word_new_br5 | puppy<br>fragile<br>light<br>build<br>panther |  
-| bip_39_word_new_br6 | puppy<br>fragile<br>light<br>build<br>panther<br>void |  
-| bip_39_word_new_br7 | puppy<br>fragile<br>light<br>build<br>panther<br>void<br>shiver |  
-| bip_39_word_new_br8 | puppy<br>fragile<br>light<br>build<br>panther<br>void<br>shiver<br>frown |  
-| bip_39_word_new_br9 | puppy<br>fragile<br>light<br>build<br>panther<br>void<br>shiver<br>frown<br>tennis |  
-| bip_39_word_new_line1 | puppy |  
-| bip_39_word_new_line10 | puppy
+| bip_39_word_new_br_1 | puppy |  
+| bip_39_word_new_br_10 | puppy<br>fragile<br>light<br>build<br>panther<br>void<br>shiver<br>frown<br>tennis<br>rain |  
+| bip_39_word_new_br_11 | puppy<br>fragile<br>light<br>build<br>panther<br>void<br>shiver<br>frown<br>tennis<br>rain<br>scrap |  
+| bip_39_word_new_br_12 | puppy<br>fragile<br>light<br>build<br>panther<br>void<br>shiver<br>frown<br>tennis<br>rain<br>scrap<br>almost |  
+| bip_39_word_new_br_2 | puppy<br>fragile |  
+| bip_39_word_new_br_3 | puppy<br>fragile<br>light |  
+| bip_39_word_new_br_4 | puppy<br>fragile<br>light<br>build |  
+| bip_39_word_new_br_5 | puppy<br>fragile<br>light<br>build<br>panther |  
+| bip_39_word_new_br_6 | puppy<br>fragile<br>light<br>build<br>panther<br>void |  
+| bip_39_word_new_br_7 | puppy<br>fragile<br>light<br>build<br>panther<br>void<br>shiver |  
+| bip_39_word_new_br_8 | puppy<br>fragile<br>light<br>build<br>panther<br>void<br>shiver<br>frown |  
+| bip_39_word_new_br_9 | puppy<br>fragile<br>light<br>build<br>panther<br>void<br>shiver<br>frown<br>tennis |  
+| bip_39_word_new_line_1 | puppy |  
+| bip_39_word_new_line_10 | puppy
 fragile
 light
 build
@@ -55,7 +55,7 @@ shiver
 frown
 tennis
 rain |  
-| bip_39_word_new_line11 | puppy
+| bip_39_word_new_line_11 | puppy
 fragile
 light
 build
@@ -66,7 +66,7 @@ frown
 tennis
 rain
 scrap |  
-| bip_39_word_new_line12 | puppy
+| bip_39_word_new_line_12 | puppy
 fragile
 light
 build
@@ -78,34 +78,34 @@ tennis
 rain
 scrap
 almost |  
-| bip_39_word_new_line2 | puppy
+| bip_39_word_new_line_2 | puppy
 fragile |  
-| bip_39_word_new_line3 | puppy
+| bip_39_word_new_line_3 | puppy
 fragile
 light |  
-| bip_39_word_new_line4 | puppy
+| bip_39_word_new_line_4 | puppy
 fragile
 light
 build |  
-| bip_39_word_new_line5 | puppy
+| bip_39_word_new_line_5 | puppy
 fragile
 light
 build
 panther |  
-| bip_39_word_new_line6 | puppy
+| bip_39_word_new_line_6 | puppy
 fragile
 light
 build
 panther
 void |  
-| bip_39_word_new_line7 | puppy
+| bip_39_word_new_line_7 | puppy
 fragile
 light
 build
 panther
 void
 shiver |  
-| bip_39_word_new_line8 | puppy
+| bip_39_word_new_line_8 | puppy
 fragile
 light
 build
@@ -113,7 +113,7 @@ panther
 void
 shiver
 frown |  
-| bip_39_word_new_line9 | puppy
+| bip_39_word_new_line_9 | puppy
 fragile
 light
 build

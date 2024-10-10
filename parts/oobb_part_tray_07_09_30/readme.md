@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | table |  
-| bip_39_word_new_br10 | table<br>forest<br>broken<br>sick<br>short<br>alcohol<br>decrease<br>library<br>voice<br>whisper |  
-| bip_39_word_new_br11 | table<br>forest<br>broken<br>sick<br>short<br>alcohol<br>decrease<br>library<br>voice<br>whisper<br>federal |  
-| bip_39_word_new_br12 | table<br>forest<br>broken<br>sick<br>short<br>alcohol<br>decrease<br>library<br>voice<br>whisper<br>federal<br>attract |  
-| bip_39_word_new_br2 | table<br>forest |  
-| bip_39_word_new_br3 | table<br>forest<br>broken |  
-| bip_39_word_new_br4 | table<br>forest<br>broken<br>sick |  
-| bip_39_word_new_br5 | table<br>forest<br>broken<br>sick<br>short |  
-| bip_39_word_new_br6 | table<br>forest<br>broken<br>sick<br>short<br>alcohol |  
-| bip_39_word_new_br7 | table<br>forest<br>broken<br>sick<br>short<br>alcohol<br>decrease |  
-| bip_39_word_new_br8 | table<br>forest<br>broken<br>sick<br>short<br>alcohol<br>decrease<br>library |  
-| bip_39_word_new_br9 | table<br>forest<br>broken<br>sick<br>short<br>alcohol<br>decrease<br>library<br>voice |  
-| bip_39_word_new_line1 | table |  
-| bip_39_word_new_line10 | table
+| bip_39_word_new_br_1 | table |  
+| bip_39_word_new_br_10 | table<br>forest<br>broken<br>sick<br>short<br>alcohol<br>decrease<br>library<br>voice<br>whisper |  
+| bip_39_word_new_br_11 | table<br>forest<br>broken<br>sick<br>short<br>alcohol<br>decrease<br>library<br>voice<br>whisper<br>federal |  
+| bip_39_word_new_br_12 | table<br>forest<br>broken<br>sick<br>short<br>alcohol<br>decrease<br>library<br>voice<br>whisper<br>federal<br>attract |  
+| bip_39_word_new_br_2 | table<br>forest |  
+| bip_39_word_new_br_3 | table<br>forest<br>broken |  
+| bip_39_word_new_br_4 | table<br>forest<br>broken<br>sick |  
+| bip_39_word_new_br_5 | table<br>forest<br>broken<br>sick<br>short |  
+| bip_39_word_new_br_6 | table<br>forest<br>broken<br>sick<br>short<br>alcohol |  
+| bip_39_word_new_br_7 | table<br>forest<br>broken<br>sick<br>short<br>alcohol<br>decrease |  
+| bip_39_word_new_br_8 | table<br>forest<br>broken<br>sick<br>short<br>alcohol<br>decrease<br>library |  
+| bip_39_word_new_br_9 | table<br>forest<br>broken<br>sick<br>short<br>alcohol<br>decrease<br>library<br>voice |  
+| bip_39_word_new_line_1 | table |  
+| bip_39_word_new_line_10 | table
 forest
 broken
 sick
@@ -55,7 +55,7 @@ decrease
 library
 voice
 whisper |  
-| bip_39_word_new_line11 | table
+| bip_39_word_new_line_11 | table
 forest
 broken
 sick
@@ -66,7 +66,7 @@ library
 voice
 whisper
 federal |  
-| bip_39_word_new_line12 | table
+| bip_39_word_new_line_12 | table
 forest
 broken
 sick
@@ -78,34 +78,34 @@ voice
 whisper
 federal
 attract |  
-| bip_39_word_new_line2 | table
+| bip_39_word_new_line_2 | table
 forest |  
-| bip_39_word_new_line3 | table
+| bip_39_word_new_line_3 | table
 forest
 broken |  
-| bip_39_word_new_line4 | table
+| bip_39_word_new_line_4 | table
 forest
 broken
 sick |  
-| bip_39_word_new_line5 | table
+| bip_39_word_new_line_5 | table
 forest
 broken
 sick
 short |  
-| bip_39_word_new_line6 | table
+| bip_39_word_new_line_6 | table
 forest
 broken
 sick
 short
 alcohol |  
-| bip_39_word_new_line7 | table
+| bip_39_word_new_line_7 | table
 forest
 broken
 sick
 short
 alcohol
 decrease |  
-| bip_39_word_new_line8 | table
+| bip_39_word_new_line_8 | table
 forest
 broken
 sick
@@ -113,7 +113,7 @@ short
 alcohol
 decrease
 library |  
-| bip_39_word_new_line9 | table
+| bip_39_word_new_line_9 | table
 forest
 broken
 sick

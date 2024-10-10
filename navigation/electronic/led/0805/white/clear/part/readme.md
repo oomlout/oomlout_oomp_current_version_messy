@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | penalty |  
-| bip_39_word_new_br10 | penalty<br>fluid<br>cinnamon<br>worth<br>float<br>elite<br>wolf<br>runway<br>sea<br>truck |  
-| bip_39_word_new_br11 | penalty<br>fluid<br>cinnamon<br>worth<br>float<br>elite<br>wolf<br>runway<br>sea<br>truck<br>glove |  
-| bip_39_word_new_br12 | penalty<br>fluid<br>cinnamon<br>worth<br>float<br>elite<br>wolf<br>runway<br>sea<br>truck<br>glove<br>account |  
-| bip_39_word_new_br2 | penalty<br>fluid |  
-| bip_39_word_new_br3 | penalty<br>fluid<br>cinnamon |  
-| bip_39_word_new_br4 | penalty<br>fluid<br>cinnamon<br>worth |  
-| bip_39_word_new_br5 | penalty<br>fluid<br>cinnamon<br>worth<br>float |  
-| bip_39_word_new_br6 | penalty<br>fluid<br>cinnamon<br>worth<br>float<br>elite |  
-| bip_39_word_new_br7 | penalty<br>fluid<br>cinnamon<br>worth<br>float<br>elite<br>wolf |  
-| bip_39_word_new_br8 | penalty<br>fluid<br>cinnamon<br>worth<br>float<br>elite<br>wolf<br>runway |  
-| bip_39_word_new_br9 | penalty<br>fluid<br>cinnamon<br>worth<br>float<br>elite<br>wolf<br>runway<br>sea |  
-| bip_39_word_new_line1 | penalty |  
-| bip_39_word_new_line10 | penalty
+| bip_39_word_new_br_1 | penalty |  
+| bip_39_word_new_br_10 | penalty<br>fluid<br>cinnamon<br>worth<br>float<br>elite<br>wolf<br>runway<br>sea<br>truck |  
+| bip_39_word_new_br_11 | penalty<br>fluid<br>cinnamon<br>worth<br>float<br>elite<br>wolf<br>runway<br>sea<br>truck<br>glove |  
+| bip_39_word_new_br_12 | penalty<br>fluid<br>cinnamon<br>worth<br>float<br>elite<br>wolf<br>runway<br>sea<br>truck<br>glove<br>account |  
+| bip_39_word_new_br_2 | penalty<br>fluid |  
+| bip_39_word_new_br_3 | penalty<br>fluid<br>cinnamon |  
+| bip_39_word_new_br_4 | penalty<br>fluid<br>cinnamon<br>worth |  
+| bip_39_word_new_br_5 | penalty<br>fluid<br>cinnamon<br>worth<br>float |  
+| bip_39_word_new_br_6 | penalty<br>fluid<br>cinnamon<br>worth<br>float<br>elite |  
+| bip_39_word_new_br_7 | penalty<br>fluid<br>cinnamon<br>worth<br>float<br>elite<br>wolf |  
+| bip_39_word_new_br_8 | penalty<br>fluid<br>cinnamon<br>worth<br>float<br>elite<br>wolf<br>runway |  
+| bip_39_word_new_br_9 | penalty<br>fluid<br>cinnamon<br>worth<br>float<br>elite<br>wolf<br>runway<br>sea |  
+| bip_39_word_new_line_1 | penalty |  
+| bip_39_word_new_line_10 | penalty
 fluid
 cinnamon
 worth
@@ -55,7 +55,7 @@ wolf
 runway
 sea
 truck |  
-| bip_39_word_new_line11 | penalty
+| bip_39_word_new_line_11 | penalty
 fluid
 cinnamon
 worth
@@ -66,7 +66,7 @@ runway
 sea
 truck
 glove |  
-| bip_39_word_new_line12 | penalty
+| bip_39_word_new_line_12 | penalty
 fluid
 cinnamon
 worth
@@ -78,34 +78,34 @@ sea
 truck
 glove
 account |  
-| bip_39_word_new_line2 | penalty
+| bip_39_word_new_line_2 | penalty
 fluid |  
-| bip_39_word_new_line3 | penalty
+| bip_39_word_new_line_3 | penalty
 fluid
 cinnamon |  
-| bip_39_word_new_line4 | penalty
+| bip_39_word_new_line_4 | penalty
 fluid
 cinnamon
 worth |  
-| bip_39_word_new_line5 | penalty
+| bip_39_word_new_line_5 | penalty
 fluid
 cinnamon
 worth
 float |  
-| bip_39_word_new_line6 | penalty
+| bip_39_word_new_line_6 | penalty
 fluid
 cinnamon
 worth
 float
 elite |  
-| bip_39_word_new_line7 | penalty
+| bip_39_word_new_line_7 | penalty
 fluid
 cinnamon
 worth
 float
 elite
 wolf |  
-| bip_39_word_new_line8 | penalty
+| bip_39_word_new_line_8 | penalty
 fluid
 cinnamon
 worth
@@ -113,7 +113,7 @@ float
 elite
 wolf
 runway |  
-| bip_39_word_new_line9 | penalty
+| bip_39_word_new_line_9 | penalty
 fluid
 cinnamon
 worth

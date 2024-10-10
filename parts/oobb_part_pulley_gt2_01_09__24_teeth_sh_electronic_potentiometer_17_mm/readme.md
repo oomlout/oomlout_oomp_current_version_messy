@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | maximum |  
-| bip_39_word_new_br10 | maximum<br>cricket<br>impulse<br>trade<br>casino<br>patch<br>buffalo<br>left<br>calm<br>theory |  
-| bip_39_word_new_br11 | maximum<br>cricket<br>impulse<br>trade<br>casino<br>patch<br>buffalo<br>left<br>calm<br>theory<br>fire |  
-| bip_39_word_new_br12 | maximum<br>cricket<br>impulse<br>trade<br>casino<br>patch<br>buffalo<br>left<br>calm<br>theory<br>fire<br>asset |  
-| bip_39_word_new_br2 | maximum<br>cricket |  
-| bip_39_word_new_br3 | maximum<br>cricket<br>impulse |  
-| bip_39_word_new_br4 | maximum<br>cricket<br>impulse<br>trade |  
-| bip_39_word_new_br5 | maximum<br>cricket<br>impulse<br>trade<br>casino |  
-| bip_39_word_new_br6 | maximum<br>cricket<br>impulse<br>trade<br>casino<br>patch |  
-| bip_39_word_new_br7 | maximum<br>cricket<br>impulse<br>trade<br>casino<br>patch<br>buffalo |  
-| bip_39_word_new_br8 | maximum<br>cricket<br>impulse<br>trade<br>casino<br>patch<br>buffalo<br>left |  
-| bip_39_word_new_br9 | maximum<br>cricket<br>impulse<br>trade<br>casino<br>patch<br>buffalo<br>left<br>calm |  
-| bip_39_word_new_line1 | maximum |  
-| bip_39_word_new_line10 | maximum
+| bip_39_word_new_br_1 | maximum |  
+| bip_39_word_new_br_10 | maximum<br>cricket<br>impulse<br>trade<br>casino<br>patch<br>buffalo<br>left<br>calm<br>theory |  
+| bip_39_word_new_br_11 | maximum<br>cricket<br>impulse<br>trade<br>casino<br>patch<br>buffalo<br>left<br>calm<br>theory<br>fire |  
+| bip_39_word_new_br_12 | maximum<br>cricket<br>impulse<br>trade<br>casino<br>patch<br>buffalo<br>left<br>calm<br>theory<br>fire<br>asset |  
+| bip_39_word_new_br_2 | maximum<br>cricket |  
+| bip_39_word_new_br_3 | maximum<br>cricket<br>impulse |  
+| bip_39_word_new_br_4 | maximum<br>cricket<br>impulse<br>trade |  
+| bip_39_word_new_br_5 | maximum<br>cricket<br>impulse<br>trade<br>casino |  
+| bip_39_word_new_br_6 | maximum<br>cricket<br>impulse<br>trade<br>casino<br>patch |  
+| bip_39_word_new_br_7 | maximum<br>cricket<br>impulse<br>trade<br>casino<br>patch<br>buffalo |  
+| bip_39_word_new_br_8 | maximum<br>cricket<br>impulse<br>trade<br>casino<br>patch<br>buffalo<br>left |  
+| bip_39_word_new_br_9 | maximum<br>cricket<br>impulse<br>trade<br>casino<br>patch<br>buffalo<br>left<br>calm |  
+| bip_39_word_new_line_1 | maximum |  
+| bip_39_word_new_line_10 | maximum
 cricket
 impulse
 trade
@@ -55,7 +55,7 @@ buffalo
 left
 calm
 theory |  
-| bip_39_word_new_line11 | maximum
+| bip_39_word_new_line_11 | maximum
 cricket
 impulse
 trade
@@ -66,7 +66,7 @@ left
 calm
 theory
 fire |  
-| bip_39_word_new_line12 | maximum
+| bip_39_word_new_line_12 | maximum
 cricket
 impulse
 trade
@@ -78,34 +78,34 @@ calm
 theory
 fire
 asset |  
-| bip_39_word_new_line2 | maximum
+| bip_39_word_new_line_2 | maximum
 cricket |  
-| bip_39_word_new_line3 | maximum
+| bip_39_word_new_line_3 | maximum
 cricket
 impulse |  
-| bip_39_word_new_line4 | maximum
+| bip_39_word_new_line_4 | maximum
 cricket
 impulse
 trade |  
-| bip_39_word_new_line5 | maximum
+| bip_39_word_new_line_5 | maximum
 cricket
 impulse
 trade
 casino |  
-| bip_39_word_new_line6 | maximum
+| bip_39_word_new_line_6 | maximum
 cricket
 impulse
 trade
 casino
 patch |  
-| bip_39_word_new_line7 | maximum
+| bip_39_word_new_line_7 | maximum
 cricket
 impulse
 trade
 casino
 patch
 buffalo |  
-| bip_39_word_new_line8 | maximum
+| bip_39_word_new_line_8 | maximum
 cricket
 impulse
 trade
@@ -113,7 +113,7 @@ casino
 patch
 buffalo
 left |  
-| bip_39_word_new_line9 | maximum
+| bip_39_word_new_line_9 | maximum
 cricket
 impulse
 trade

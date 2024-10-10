@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | isolate |  
-| bip_39_word_new_br10 | isolate<br>vault<br>craft<br>tobacco<br>mercy<br>range<br>snow<br>winter<br>random<br>annual |  
-| bip_39_word_new_br11 | isolate<br>vault<br>craft<br>tobacco<br>mercy<br>range<br>snow<br>winter<br>random<br>annual<br>bachelor |  
-| bip_39_word_new_br12 | isolate<br>vault<br>craft<br>tobacco<br>mercy<br>range<br>snow<br>winter<br>random<br>annual<br>bachelor<br>amazing |  
-| bip_39_word_new_br2 | isolate<br>vault |  
-| bip_39_word_new_br3 | isolate<br>vault<br>craft |  
-| bip_39_word_new_br4 | isolate<br>vault<br>craft<br>tobacco |  
-| bip_39_word_new_br5 | isolate<br>vault<br>craft<br>tobacco<br>mercy |  
-| bip_39_word_new_br6 | isolate<br>vault<br>craft<br>tobacco<br>mercy<br>range |  
-| bip_39_word_new_br7 | isolate<br>vault<br>craft<br>tobacco<br>mercy<br>range<br>snow |  
-| bip_39_word_new_br8 | isolate<br>vault<br>craft<br>tobacco<br>mercy<br>range<br>snow<br>winter |  
-| bip_39_word_new_br9 | isolate<br>vault<br>craft<br>tobacco<br>mercy<br>range<br>snow<br>winter<br>random |  
-| bip_39_word_new_line1 | isolate |  
-| bip_39_word_new_line10 | isolate
+| bip_39_word_new_br_1 | isolate |  
+| bip_39_word_new_br_10 | isolate<br>vault<br>craft<br>tobacco<br>mercy<br>range<br>snow<br>winter<br>random<br>annual |  
+| bip_39_word_new_br_11 | isolate<br>vault<br>craft<br>tobacco<br>mercy<br>range<br>snow<br>winter<br>random<br>annual<br>bachelor |  
+| bip_39_word_new_br_12 | isolate<br>vault<br>craft<br>tobacco<br>mercy<br>range<br>snow<br>winter<br>random<br>annual<br>bachelor<br>amazing |  
+| bip_39_word_new_br_2 | isolate<br>vault |  
+| bip_39_word_new_br_3 | isolate<br>vault<br>craft |  
+| bip_39_word_new_br_4 | isolate<br>vault<br>craft<br>tobacco |  
+| bip_39_word_new_br_5 | isolate<br>vault<br>craft<br>tobacco<br>mercy |  
+| bip_39_word_new_br_6 | isolate<br>vault<br>craft<br>tobacco<br>mercy<br>range |  
+| bip_39_word_new_br_7 | isolate<br>vault<br>craft<br>tobacco<br>mercy<br>range<br>snow |  
+| bip_39_word_new_br_8 | isolate<br>vault<br>craft<br>tobacco<br>mercy<br>range<br>snow<br>winter |  
+| bip_39_word_new_br_9 | isolate<br>vault<br>craft<br>tobacco<br>mercy<br>range<br>snow<br>winter<br>random |  
+| bip_39_word_new_line_1 | isolate |  
+| bip_39_word_new_line_10 | isolate
 vault
 craft
 tobacco
@@ -55,7 +55,7 @@ snow
 winter
 random
 annual |  
-| bip_39_word_new_line11 | isolate
+| bip_39_word_new_line_11 | isolate
 vault
 craft
 tobacco
@@ -66,7 +66,7 @@ winter
 random
 annual
 bachelor |  
-| bip_39_word_new_line12 | isolate
+| bip_39_word_new_line_12 | isolate
 vault
 craft
 tobacco
@@ -78,34 +78,34 @@ random
 annual
 bachelor
 amazing |  
-| bip_39_word_new_line2 | isolate
+| bip_39_word_new_line_2 | isolate
 vault |  
-| bip_39_word_new_line3 | isolate
+| bip_39_word_new_line_3 | isolate
 vault
 craft |  
-| bip_39_word_new_line4 | isolate
+| bip_39_word_new_line_4 | isolate
 vault
 craft
 tobacco |  
-| bip_39_word_new_line5 | isolate
+| bip_39_word_new_line_5 | isolate
 vault
 craft
 tobacco
 mercy |  
-| bip_39_word_new_line6 | isolate
+| bip_39_word_new_line_6 | isolate
 vault
 craft
 tobacco
 mercy
 range |  
-| bip_39_word_new_line7 | isolate
+| bip_39_word_new_line_7 | isolate
 vault
 craft
 tobacco
 mercy
 range
 snow |  
-| bip_39_word_new_line8 | isolate
+| bip_39_word_new_line_8 | isolate
 vault
 craft
 tobacco
@@ -113,7 +113,7 @@ mercy
 range
 snow
 winter |  
-| bip_39_word_new_line9 | isolate
+| bip_39_word_new_line_9 | isolate
 vault
 craft
 tobacco

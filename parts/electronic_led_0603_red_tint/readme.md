@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | maze |  
-| bip_39_word_new_br10 | maze<br>debate<br>crush<br>summer<br>child<br>link<br>goose<br>time<br>vibrant<br>cigar |  
-| bip_39_word_new_br11 | maze<br>debate<br>crush<br>summer<br>child<br>link<br>goose<br>time<br>vibrant<br>cigar<br>around |  
-| bip_39_word_new_br12 | maze<br>debate<br>crush<br>summer<br>child<br>link<br>goose<br>time<br>vibrant<br>cigar<br>around<br>address |  
-| bip_39_word_new_br2 | maze<br>debate |  
-| bip_39_word_new_br3 | maze<br>debate<br>crush |  
-| bip_39_word_new_br4 | maze<br>debate<br>crush<br>summer |  
-| bip_39_word_new_br5 | maze<br>debate<br>crush<br>summer<br>child |  
-| bip_39_word_new_br6 | maze<br>debate<br>crush<br>summer<br>child<br>link |  
-| bip_39_word_new_br7 | maze<br>debate<br>crush<br>summer<br>child<br>link<br>goose |  
-| bip_39_word_new_br8 | maze<br>debate<br>crush<br>summer<br>child<br>link<br>goose<br>time |  
-| bip_39_word_new_br9 | maze<br>debate<br>crush<br>summer<br>child<br>link<br>goose<br>time<br>vibrant |  
-| bip_39_word_new_line1 | maze |  
-| bip_39_word_new_line10 | maze
+| bip_39_word_new_br_1 | maze |  
+| bip_39_word_new_br_10 | maze<br>debate<br>crush<br>summer<br>child<br>link<br>goose<br>time<br>vibrant<br>cigar |  
+| bip_39_word_new_br_11 | maze<br>debate<br>crush<br>summer<br>child<br>link<br>goose<br>time<br>vibrant<br>cigar<br>around |  
+| bip_39_word_new_br_12 | maze<br>debate<br>crush<br>summer<br>child<br>link<br>goose<br>time<br>vibrant<br>cigar<br>around<br>address |  
+| bip_39_word_new_br_2 | maze<br>debate |  
+| bip_39_word_new_br_3 | maze<br>debate<br>crush |  
+| bip_39_word_new_br_4 | maze<br>debate<br>crush<br>summer |  
+| bip_39_word_new_br_5 | maze<br>debate<br>crush<br>summer<br>child |  
+| bip_39_word_new_br_6 | maze<br>debate<br>crush<br>summer<br>child<br>link |  
+| bip_39_word_new_br_7 | maze<br>debate<br>crush<br>summer<br>child<br>link<br>goose |  
+| bip_39_word_new_br_8 | maze<br>debate<br>crush<br>summer<br>child<br>link<br>goose<br>time |  
+| bip_39_word_new_br_9 | maze<br>debate<br>crush<br>summer<br>child<br>link<br>goose<br>time<br>vibrant |  
+| bip_39_word_new_line_1 | maze |  
+| bip_39_word_new_line_10 | maze
 debate
 crush
 summer
@@ -55,7 +55,7 @@ goose
 time
 vibrant
 cigar |  
-| bip_39_word_new_line11 | maze
+| bip_39_word_new_line_11 | maze
 debate
 crush
 summer
@@ -66,7 +66,7 @@ time
 vibrant
 cigar
 around |  
-| bip_39_word_new_line12 | maze
+| bip_39_word_new_line_12 | maze
 debate
 crush
 summer
@@ -78,34 +78,34 @@ vibrant
 cigar
 around
 address |  
-| bip_39_word_new_line2 | maze
+| bip_39_word_new_line_2 | maze
 debate |  
-| bip_39_word_new_line3 | maze
+| bip_39_word_new_line_3 | maze
 debate
 crush |  
-| bip_39_word_new_line4 | maze
+| bip_39_word_new_line_4 | maze
 debate
 crush
 summer |  
-| bip_39_word_new_line5 | maze
+| bip_39_word_new_line_5 | maze
 debate
 crush
 summer
 child |  
-| bip_39_word_new_line6 | maze
+| bip_39_word_new_line_6 | maze
 debate
 crush
 summer
 child
 link |  
-| bip_39_word_new_line7 | maze
+| bip_39_word_new_line_7 | maze
 debate
 crush
 summer
 child
 link
 goose |  
-| bip_39_word_new_line8 | maze
+| bip_39_word_new_line_8 | maze
 debate
 crush
 summer
@@ -113,7 +113,7 @@ child
 link
 goose
 time |  
-| bip_39_word_new_line9 | maze
+| bip_39_word_new_line_9 | maze
 debate
 crush
 summer

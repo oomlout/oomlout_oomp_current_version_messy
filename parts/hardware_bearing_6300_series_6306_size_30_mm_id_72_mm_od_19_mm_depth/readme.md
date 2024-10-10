@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wing |  
-| bip_39_word_new_br10 | wing<br>find<br>elbow<br>kid<br>seminar<br>twist<br>wealth<br>piece<br>awake<br>suit |  
-| bip_39_word_new_br11 | wing<br>find<br>elbow<br>kid<br>seminar<br>twist<br>wealth<br>piece<br>awake<br>suit<br>firm |  
-| bip_39_word_new_br12 | wing<br>find<br>elbow<br>kid<br>seminar<br>twist<br>wealth<br>piece<br>awake<br>suit<br>firm<br>attract |  
-| bip_39_word_new_br2 | wing<br>find |  
-| bip_39_word_new_br3 | wing<br>find<br>elbow |  
-| bip_39_word_new_br4 | wing<br>find<br>elbow<br>kid |  
-| bip_39_word_new_br5 | wing<br>find<br>elbow<br>kid<br>seminar |  
-| bip_39_word_new_br6 | wing<br>find<br>elbow<br>kid<br>seminar<br>twist |  
-| bip_39_word_new_br7 | wing<br>find<br>elbow<br>kid<br>seminar<br>twist<br>wealth |  
-| bip_39_word_new_br8 | wing<br>find<br>elbow<br>kid<br>seminar<br>twist<br>wealth<br>piece |  
-| bip_39_word_new_br9 | wing<br>find<br>elbow<br>kid<br>seminar<br>twist<br>wealth<br>piece<br>awake |  
-| bip_39_word_new_line1 | wing |  
-| bip_39_word_new_line10 | wing
+| bip_39_word_new_br_1 | wing |  
+| bip_39_word_new_br_10 | wing<br>find<br>elbow<br>kid<br>seminar<br>twist<br>wealth<br>piece<br>awake<br>suit |  
+| bip_39_word_new_br_11 | wing<br>find<br>elbow<br>kid<br>seminar<br>twist<br>wealth<br>piece<br>awake<br>suit<br>firm |  
+| bip_39_word_new_br_12 | wing<br>find<br>elbow<br>kid<br>seminar<br>twist<br>wealth<br>piece<br>awake<br>suit<br>firm<br>attract |  
+| bip_39_word_new_br_2 | wing<br>find |  
+| bip_39_word_new_br_3 | wing<br>find<br>elbow |  
+| bip_39_word_new_br_4 | wing<br>find<br>elbow<br>kid |  
+| bip_39_word_new_br_5 | wing<br>find<br>elbow<br>kid<br>seminar |  
+| bip_39_word_new_br_6 | wing<br>find<br>elbow<br>kid<br>seminar<br>twist |  
+| bip_39_word_new_br_7 | wing<br>find<br>elbow<br>kid<br>seminar<br>twist<br>wealth |  
+| bip_39_word_new_br_8 | wing<br>find<br>elbow<br>kid<br>seminar<br>twist<br>wealth<br>piece |  
+| bip_39_word_new_br_9 | wing<br>find<br>elbow<br>kid<br>seminar<br>twist<br>wealth<br>piece<br>awake |  
+| bip_39_word_new_line_1 | wing |  
+| bip_39_word_new_line_10 | wing
 find
 elbow
 kid
@@ -55,7 +55,7 @@ wealth
 piece
 awake
 suit |  
-| bip_39_word_new_line11 | wing
+| bip_39_word_new_line_11 | wing
 find
 elbow
 kid
@@ -66,7 +66,7 @@ piece
 awake
 suit
 firm |  
-| bip_39_word_new_line12 | wing
+| bip_39_word_new_line_12 | wing
 find
 elbow
 kid
@@ -78,34 +78,34 @@ awake
 suit
 firm
 attract |  
-| bip_39_word_new_line2 | wing
+| bip_39_word_new_line_2 | wing
 find |  
-| bip_39_word_new_line3 | wing
+| bip_39_word_new_line_3 | wing
 find
 elbow |  
-| bip_39_word_new_line4 | wing
+| bip_39_word_new_line_4 | wing
 find
 elbow
 kid |  
-| bip_39_word_new_line5 | wing
+| bip_39_word_new_line_5 | wing
 find
 elbow
 kid
 seminar |  
-| bip_39_word_new_line6 | wing
+| bip_39_word_new_line_6 | wing
 find
 elbow
 kid
 seminar
 twist |  
-| bip_39_word_new_line7 | wing
+| bip_39_word_new_line_7 | wing
 find
 elbow
 kid
 seminar
 twist
 wealth |  
-| bip_39_word_new_line8 | wing
+| bip_39_word_new_line_8 | wing
 find
 elbow
 kid
@@ -113,7 +113,7 @@ seminar
 twist
 wealth
 piece |  
-| bip_39_word_new_line9 | wing
+| bip_39_word_new_line_9 | wing
 find
 elbow
 kid

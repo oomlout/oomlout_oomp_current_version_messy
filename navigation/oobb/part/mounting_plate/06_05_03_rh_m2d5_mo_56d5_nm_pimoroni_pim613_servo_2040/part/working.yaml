@@ -1,17 +1,17 @@
-bip_39_word_new_br1: few
-bip_39_word_new_br10: few<br>jacket<br>razor<br>coral<br>man<br>aunt<br>gaze<br>exist<br>bachelor<br>net
-bip_39_word_new_br11: few<br>jacket<br>razor<br>coral<br>man<br>aunt<br>gaze<br>exist<br>bachelor<br>net<br>vast
-bip_39_word_new_br12: few<br>jacket<br>razor<br>coral<br>man<br>aunt<br>gaze<br>exist<br>bachelor<br>net<br>vast<br>anxiety
-bip_39_word_new_br2: few<br>jacket
-bip_39_word_new_br3: few<br>jacket<br>razor
-bip_39_word_new_br4: few<br>jacket<br>razor<br>coral
-bip_39_word_new_br5: few<br>jacket<br>razor<br>coral<br>man
-bip_39_word_new_br6: few<br>jacket<br>razor<br>coral<br>man<br>aunt
-bip_39_word_new_br7: few<br>jacket<br>razor<br>coral<br>man<br>aunt<br>gaze
-bip_39_word_new_br8: few<br>jacket<br>razor<br>coral<br>man<br>aunt<br>gaze<br>exist
-bip_39_word_new_br9: few<br>jacket<br>razor<br>coral<br>man<br>aunt<br>gaze<br>exist<br>bachelor
-bip_39_word_new_line1: few
-bip_39_word_new_line10: 'few
+bip_39_word_new_br_1: few
+bip_39_word_new_br_10: few<br>jacket<br>razor<br>coral<br>man<br>aunt<br>gaze<br>exist<br>bachelor<br>net
+bip_39_word_new_br_11: few<br>jacket<br>razor<br>coral<br>man<br>aunt<br>gaze<br>exist<br>bachelor<br>net<br>vast
+bip_39_word_new_br_12: few<br>jacket<br>razor<br>coral<br>man<br>aunt<br>gaze<br>exist<br>bachelor<br>net<br>vast<br>anxiety
+bip_39_word_new_br_2: few<br>jacket
+bip_39_word_new_br_3: few<br>jacket<br>razor
+bip_39_word_new_br_4: few<br>jacket<br>razor<br>coral
+bip_39_word_new_br_5: few<br>jacket<br>razor<br>coral<br>man
+bip_39_word_new_br_6: few<br>jacket<br>razor<br>coral<br>man<br>aunt
+bip_39_word_new_br_7: few<br>jacket<br>razor<br>coral<br>man<br>aunt<br>gaze
+bip_39_word_new_br_8: few<br>jacket<br>razor<br>coral<br>man<br>aunt<br>gaze<br>exist
+bip_39_word_new_br_9: few<br>jacket<br>razor<br>coral<br>man<br>aunt<br>gaze<br>exist<br>bachelor
+bip_39_word_new_line_1: few
+bip_39_word_new_line_10: 'few
 
   jacket
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'few
   bachelor
 
   net'
-bip_39_word_new_line11: 'few
+bip_39_word_new_line_11: 'few
 
   jacket
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'few
   net
 
   vast'
-bip_39_word_new_line12: 'few
+bip_39_word_new_line_12: 'few
 
   jacket
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'few
   vast
 
   anxiety'
-bip_39_word_new_line2: 'few
+bip_39_word_new_line_2: 'few
 
   jacket'
-bip_39_word_new_line3: 'few
+bip_39_word_new_line_3: 'few
 
   jacket
 
   razor'
-bip_39_word_new_line4: 'few
+bip_39_word_new_line_4: 'few
 
   jacket
 
   razor
 
   coral'
-bip_39_word_new_line5: 'few
+bip_39_word_new_line_5: 'few
 
   jacket
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'few
   coral
 
   man'
-bip_39_word_new_line6: 'few
+bip_39_word_new_line_6: 'few
 
   jacket
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'few
   man
 
   aunt'
-bip_39_word_new_line7: 'few
+bip_39_word_new_line_7: 'few
 
   jacket
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'few
   aunt
 
   gaze'
-bip_39_word_new_line8: 'few
+bip_39_word_new_line_8: 'few
 
   jacket
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'few
   gaze
 
   exist'
-bip_39_word_new_line9: 'few
+bip_39_word_new_line_9: 'few
 
   jacket
 

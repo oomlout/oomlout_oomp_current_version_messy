@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | tribe |  
-| bip_39_word_new_br10 | tribe<br>claim<br>mushroom<br>surround<br>person<br>large<br>loan<br>galaxy<br>aim<br>wasp |  
-| bip_39_word_new_br11 | tribe<br>claim<br>mushroom<br>surround<br>person<br>large<br>loan<br>galaxy<br>aim<br>wasp<br>infant |  
-| bip_39_word_new_br12 | tribe<br>claim<br>mushroom<br>surround<br>person<br>large<br>loan<br>galaxy<br>aim<br>wasp<br>infant<br>about |  
-| bip_39_word_new_br2 | tribe<br>claim |  
-| bip_39_word_new_br3 | tribe<br>claim<br>mushroom |  
-| bip_39_word_new_br4 | tribe<br>claim<br>mushroom<br>surround |  
-| bip_39_word_new_br5 | tribe<br>claim<br>mushroom<br>surround<br>person |  
-| bip_39_word_new_br6 | tribe<br>claim<br>mushroom<br>surround<br>person<br>large |  
-| bip_39_word_new_br7 | tribe<br>claim<br>mushroom<br>surround<br>person<br>large<br>loan |  
-| bip_39_word_new_br8 | tribe<br>claim<br>mushroom<br>surround<br>person<br>large<br>loan<br>galaxy |  
-| bip_39_word_new_br9 | tribe<br>claim<br>mushroom<br>surround<br>person<br>large<br>loan<br>galaxy<br>aim |  
-| bip_39_word_new_line1 | tribe |  
-| bip_39_word_new_line10 | tribe
+| bip_39_word_new_br_1 | tribe |  
+| bip_39_word_new_br_10 | tribe<br>claim<br>mushroom<br>surround<br>person<br>large<br>loan<br>galaxy<br>aim<br>wasp |  
+| bip_39_word_new_br_11 | tribe<br>claim<br>mushroom<br>surround<br>person<br>large<br>loan<br>galaxy<br>aim<br>wasp<br>infant |  
+| bip_39_word_new_br_12 | tribe<br>claim<br>mushroom<br>surround<br>person<br>large<br>loan<br>galaxy<br>aim<br>wasp<br>infant<br>about |  
+| bip_39_word_new_br_2 | tribe<br>claim |  
+| bip_39_word_new_br_3 | tribe<br>claim<br>mushroom |  
+| bip_39_word_new_br_4 | tribe<br>claim<br>mushroom<br>surround |  
+| bip_39_word_new_br_5 | tribe<br>claim<br>mushroom<br>surround<br>person |  
+| bip_39_word_new_br_6 | tribe<br>claim<br>mushroom<br>surround<br>person<br>large |  
+| bip_39_word_new_br_7 | tribe<br>claim<br>mushroom<br>surround<br>person<br>large<br>loan |  
+| bip_39_word_new_br_8 | tribe<br>claim<br>mushroom<br>surround<br>person<br>large<br>loan<br>galaxy |  
+| bip_39_word_new_br_9 | tribe<br>claim<br>mushroom<br>surround<br>person<br>large<br>loan<br>galaxy<br>aim |  
+| bip_39_word_new_line_1 | tribe |  
+| bip_39_word_new_line_10 | tribe
 claim
 mushroom
 surround
@@ -55,7 +55,7 @@ loan
 galaxy
 aim
 wasp |  
-| bip_39_word_new_line11 | tribe
+| bip_39_word_new_line_11 | tribe
 claim
 mushroom
 surround
@@ -66,7 +66,7 @@ galaxy
 aim
 wasp
 infant |  
-| bip_39_word_new_line12 | tribe
+| bip_39_word_new_line_12 | tribe
 claim
 mushroom
 surround
@@ -78,34 +78,34 @@ aim
 wasp
 infant
 about |  
-| bip_39_word_new_line2 | tribe
+| bip_39_word_new_line_2 | tribe
 claim |  
-| bip_39_word_new_line3 | tribe
+| bip_39_word_new_line_3 | tribe
 claim
 mushroom |  
-| bip_39_word_new_line4 | tribe
+| bip_39_word_new_line_4 | tribe
 claim
 mushroom
 surround |  
-| bip_39_word_new_line5 | tribe
+| bip_39_word_new_line_5 | tribe
 claim
 mushroom
 surround
 person |  
-| bip_39_word_new_line6 | tribe
+| bip_39_word_new_line_6 | tribe
 claim
 mushroom
 surround
 person
 large |  
-| bip_39_word_new_line7 | tribe
+| bip_39_word_new_line_7 | tribe
 claim
 mushroom
 surround
 person
 large
 loan |  
-| bip_39_word_new_line8 | tribe
+| bip_39_word_new_line_8 | tribe
 claim
 mushroom
 surround
@@ -113,7 +113,7 @@ person
 large
 loan
 galaxy |  
-| bip_39_word_new_line9 | tribe
+| bip_39_word_new_line_9 | tribe
 claim
 mushroom
 surround

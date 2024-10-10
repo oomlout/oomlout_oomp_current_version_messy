@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mean |  
-| bip_39_word_new_br10 | mean<br>monster<br>cheap<br>awesome<br>unusual<br>wage<br>engage<br>release<br>design<br>boil |  
-| bip_39_word_new_br11 | mean<br>monster<br>cheap<br>awesome<br>unusual<br>wage<br>engage<br>release<br>design<br>boil<br>modify |  
-| bip_39_word_new_br12 | mean<br>monster<br>cheap<br>awesome<br>unusual<br>wage<br>engage<br>release<br>design<br>boil<br>modify<br>average |  
-| bip_39_word_new_br2 | mean<br>monster |  
-| bip_39_word_new_br3 | mean<br>monster<br>cheap |  
-| bip_39_word_new_br4 | mean<br>monster<br>cheap<br>awesome |  
-| bip_39_word_new_br5 | mean<br>monster<br>cheap<br>awesome<br>unusual |  
-| bip_39_word_new_br6 | mean<br>monster<br>cheap<br>awesome<br>unusual<br>wage |  
-| bip_39_word_new_br7 | mean<br>monster<br>cheap<br>awesome<br>unusual<br>wage<br>engage |  
-| bip_39_word_new_br8 | mean<br>monster<br>cheap<br>awesome<br>unusual<br>wage<br>engage<br>release |  
-| bip_39_word_new_br9 | mean<br>monster<br>cheap<br>awesome<br>unusual<br>wage<br>engage<br>release<br>design |  
-| bip_39_word_new_line1 | mean |  
-| bip_39_word_new_line10 | mean
+| bip_39_word_new_br_1 | mean |  
+| bip_39_word_new_br_10 | mean<br>monster<br>cheap<br>awesome<br>unusual<br>wage<br>engage<br>release<br>design<br>boil |  
+| bip_39_word_new_br_11 | mean<br>monster<br>cheap<br>awesome<br>unusual<br>wage<br>engage<br>release<br>design<br>boil<br>modify |  
+| bip_39_word_new_br_12 | mean<br>monster<br>cheap<br>awesome<br>unusual<br>wage<br>engage<br>release<br>design<br>boil<br>modify<br>average |  
+| bip_39_word_new_br_2 | mean<br>monster |  
+| bip_39_word_new_br_3 | mean<br>monster<br>cheap |  
+| bip_39_word_new_br_4 | mean<br>monster<br>cheap<br>awesome |  
+| bip_39_word_new_br_5 | mean<br>monster<br>cheap<br>awesome<br>unusual |  
+| bip_39_word_new_br_6 | mean<br>monster<br>cheap<br>awesome<br>unusual<br>wage |  
+| bip_39_word_new_br_7 | mean<br>monster<br>cheap<br>awesome<br>unusual<br>wage<br>engage |  
+| bip_39_word_new_br_8 | mean<br>monster<br>cheap<br>awesome<br>unusual<br>wage<br>engage<br>release |  
+| bip_39_word_new_br_9 | mean<br>monster<br>cheap<br>awesome<br>unusual<br>wage<br>engage<br>release<br>design |  
+| bip_39_word_new_line_1 | mean |  
+| bip_39_word_new_line_10 | mean
 monster
 cheap
 awesome
@@ -55,7 +55,7 @@ engage
 release
 design
 boil |  
-| bip_39_word_new_line11 | mean
+| bip_39_word_new_line_11 | mean
 monster
 cheap
 awesome
@@ -66,7 +66,7 @@ release
 design
 boil
 modify |  
-| bip_39_word_new_line12 | mean
+| bip_39_word_new_line_12 | mean
 monster
 cheap
 awesome
@@ -78,34 +78,34 @@ design
 boil
 modify
 average |  
-| bip_39_word_new_line2 | mean
+| bip_39_word_new_line_2 | mean
 monster |  
-| bip_39_word_new_line3 | mean
+| bip_39_word_new_line_3 | mean
 monster
 cheap |  
-| bip_39_word_new_line4 | mean
+| bip_39_word_new_line_4 | mean
 monster
 cheap
 awesome |  
-| bip_39_word_new_line5 | mean
+| bip_39_word_new_line_5 | mean
 monster
 cheap
 awesome
 unusual |  
-| bip_39_word_new_line6 | mean
+| bip_39_word_new_line_6 | mean
 monster
 cheap
 awesome
 unusual
 wage |  
-| bip_39_word_new_line7 | mean
+| bip_39_word_new_line_7 | mean
 monster
 cheap
 awesome
 unusual
 wage
 engage |  
-| bip_39_word_new_line8 | mean
+| bip_39_word_new_line_8 | mean
 monster
 cheap
 awesome
@@ -113,7 +113,7 @@ unusual
 wage
 engage
 release |  
-| bip_39_word_new_line9 | mean
+| bip_39_word_new_line_9 | mean
 monster
 cheap
 awesome

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | clarify |  
-| bip_39_word_new_br10 | clarify<br>decide<br>just<br>phone<br>clerk<br>luggage<br>humble<br>develop<br>sample<br>auction |  
-| bip_39_word_new_br11 | clarify<br>decide<br>just<br>phone<br>clerk<br>luggage<br>humble<br>develop<br>sample<br>auction<br>smile |  
-| bip_39_word_new_br12 | clarify<br>decide<br>just<br>phone<br>clerk<br>luggage<br>humble<br>develop<br>sample<br>auction<br>smile<br>again |  
-| bip_39_word_new_br2 | clarify<br>decide |  
-| bip_39_word_new_br3 | clarify<br>decide<br>just |  
-| bip_39_word_new_br4 | clarify<br>decide<br>just<br>phone |  
-| bip_39_word_new_br5 | clarify<br>decide<br>just<br>phone<br>clerk |  
-| bip_39_word_new_br6 | clarify<br>decide<br>just<br>phone<br>clerk<br>luggage |  
-| bip_39_word_new_br7 | clarify<br>decide<br>just<br>phone<br>clerk<br>luggage<br>humble |  
-| bip_39_word_new_br8 | clarify<br>decide<br>just<br>phone<br>clerk<br>luggage<br>humble<br>develop |  
-| bip_39_word_new_br9 | clarify<br>decide<br>just<br>phone<br>clerk<br>luggage<br>humble<br>develop<br>sample |  
-| bip_39_word_new_line1 | clarify |  
-| bip_39_word_new_line10 | clarify
+| bip_39_word_new_br_1 | clarify |  
+| bip_39_word_new_br_10 | clarify<br>decide<br>just<br>phone<br>clerk<br>luggage<br>humble<br>develop<br>sample<br>auction |  
+| bip_39_word_new_br_11 | clarify<br>decide<br>just<br>phone<br>clerk<br>luggage<br>humble<br>develop<br>sample<br>auction<br>smile |  
+| bip_39_word_new_br_12 | clarify<br>decide<br>just<br>phone<br>clerk<br>luggage<br>humble<br>develop<br>sample<br>auction<br>smile<br>again |  
+| bip_39_word_new_br_2 | clarify<br>decide |  
+| bip_39_word_new_br_3 | clarify<br>decide<br>just |  
+| bip_39_word_new_br_4 | clarify<br>decide<br>just<br>phone |  
+| bip_39_word_new_br_5 | clarify<br>decide<br>just<br>phone<br>clerk |  
+| bip_39_word_new_br_6 | clarify<br>decide<br>just<br>phone<br>clerk<br>luggage |  
+| bip_39_word_new_br_7 | clarify<br>decide<br>just<br>phone<br>clerk<br>luggage<br>humble |  
+| bip_39_word_new_br_8 | clarify<br>decide<br>just<br>phone<br>clerk<br>luggage<br>humble<br>develop |  
+| bip_39_word_new_br_9 | clarify<br>decide<br>just<br>phone<br>clerk<br>luggage<br>humble<br>develop<br>sample |  
+| bip_39_word_new_line_1 | clarify |  
+| bip_39_word_new_line_10 | clarify
 decide
 just
 phone
@@ -55,7 +55,7 @@ humble
 develop
 sample
 auction |  
-| bip_39_word_new_line11 | clarify
+| bip_39_word_new_line_11 | clarify
 decide
 just
 phone
@@ -66,7 +66,7 @@ develop
 sample
 auction
 smile |  
-| bip_39_word_new_line12 | clarify
+| bip_39_word_new_line_12 | clarify
 decide
 just
 phone
@@ -78,34 +78,34 @@ sample
 auction
 smile
 again |  
-| bip_39_word_new_line2 | clarify
+| bip_39_word_new_line_2 | clarify
 decide |  
-| bip_39_word_new_line3 | clarify
+| bip_39_word_new_line_3 | clarify
 decide
 just |  
-| bip_39_word_new_line4 | clarify
+| bip_39_word_new_line_4 | clarify
 decide
 just
 phone |  
-| bip_39_word_new_line5 | clarify
+| bip_39_word_new_line_5 | clarify
 decide
 just
 phone
 clerk |  
-| bip_39_word_new_line6 | clarify
+| bip_39_word_new_line_6 | clarify
 decide
 just
 phone
 clerk
 luggage |  
-| bip_39_word_new_line7 | clarify
+| bip_39_word_new_line_7 | clarify
 decide
 just
 phone
 clerk
 luggage
 humble |  
-| bip_39_word_new_line8 | clarify
+| bip_39_word_new_line_8 | clarify
 decide
 just
 phone
@@ -113,7 +113,7 @@ clerk
 luggage
 humble
 develop |  
-| bip_39_word_new_line9 | clarify
+| bip_39_word_new_line_9 | clarify
 decide
 just
 phone

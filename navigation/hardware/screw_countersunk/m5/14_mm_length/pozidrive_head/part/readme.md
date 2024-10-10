@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | surface |  
-| bip_39_word_new_br10 | surface<br>large<br>unable<br>subject<br>capital<br>person<br>lunar<br>praise<br>toss<br>horror |  
-| bip_39_word_new_br11 | surface<br>large<br>unable<br>subject<br>capital<br>person<br>lunar<br>praise<br>toss<br>horror<br>hat |  
-| bip_39_word_new_br12 | surface<br>large<br>unable<br>subject<br>capital<br>person<br>lunar<br>praise<br>toss<br>horror<br>hat<br>amateur |  
-| bip_39_word_new_br2 | surface<br>large |  
-| bip_39_word_new_br3 | surface<br>large<br>unable |  
-| bip_39_word_new_br4 | surface<br>large<br>unable<br>subject |  
-| bip_39_word_new_br5 | surface<br>large<br>unable<br>subject<br>capital |  
-| bip_39_word_new_br6 | surface<br>large<br>unable<br>subject<br>capital<br>person |  
-| bip_39_word_new_br7 | surface<br>large<br>unable<br>subject<br>capital<br>person<br>lunar |  
-| bip_39_word_new_br8 | surface<br>large<br>unable<br>subject<br>capital<br>person<br>lunar<br>praise |  
-| bip_39_word_new_br9 | surface<br>large<br>unable<br>subject<br>capital<br>person<br>lunar<br>praise<br>toss |  
-| bip_39_word_new_line1 | surface |  
-| bip_39_word_new_line10 | surface
+| bip_39_word_new_br_1 | surface |  
+| bip_39_word_new_br_10 | surface<br>large<br>unable<br>subject<br>capital<br>person<br>lunar<br>praise<br>toss<br>horror |  
+| bip_39_word_new_br_11 | surface<br>large<br>unable<br>subject<br>capital<br>person<br>lunar<br>praise<br>toss<br>horror<br>hat |  
+| bip_39_word_new_br_12 | surface<br>large<br>unable<br>subject<br>capital<br>person<br>lunar<br>praise<br>toss<br>horror<br>hat<br>amateur |  
+| bip_39_word_new_br_2 | surface<br>large |  
+| bip_39_word_new_br_3 | surface<br>large<br>unable |  
+| bip_39_word_new_br_4 | surface<br>large<br>unable<br>subject |  
+| bip_39_word_new_br_5 | surface<br>large<br>unable<br>subject<br>capital |  
+| bip_39_word_new_br_6 | surface<br>large<br>unable<br>subject<br>capital<br>person |  
+| bip_39_word_new_br_7 | surface<br>large<br>unable<br>subject<br>capital<br>person<br>lunar |  
+| bip_39_word_new_br_8 | surface<br>large<br>unable<br>subject<br>capital<br>person<br>lunar<br>praise |  
+| bip_39_word_new_br_9 | surface<br>large<br>unable<br>subject<br>capital<br>person<br>lunar<br>praise<br>toss |  
+| bip_39_word_new_line_1 | surface |  
+| bip_39_word_new_line_10 | surface
 large
 unable
 subject
@@ -55,7 +55,7 @@ lunar
 praise
 toss
 horror |  
-| bip_39_word_new_line11 | surface
+| bip_39_word_new_line_11 | surface
 large
 unable
 subject
@@ -66,7 +66,7 @@ praise
 toss
 horror
 hat |  
-| bip_39_word_new_line12 | surface
+| bip_39_word_new_line_12 | surface
 large
 unable
 subject
@@ -78,34 +78,34 @@ toss
 horror
 hat
 amateur |  
-| bip_39_word_new_line2 | surface
+| bip_39_word_new_line_2 | surface
 large |  
-| bip_39_word_new_line3 | surface
+| bip_39_word_new_line_3 | surface
 large
 unable |  
-| bip_39_word_new_line4 | surface
+| bip_39_word_new_line_4 | surface
 large
 unable
 subject |  
-| bip_39_word_new_line5 | surface
+| bip_39_word_new_line_5 | surface
 large
 unable
 subject
 capital |  
-| bip_39_word_new_line6 | surface
+| bip_39_word_new_line_6 | surface
 large
 unable
 subject
 capital
 person |  
-| bip_39_word_new_line7 | surface
+| bip_39_word_new_line_7 | surface
 large
 unable
 subject
 capital
 person
 lunar |  
-| bip_39_word_new_line8 | surface
+| bip_39_word_new_line_8 | surface
 large
 unable
 subject
@@ -113,7 +113,7 @@ capital
 person
 lunar
 praise |  
-| bip_39_word_new_line9 | surface
+| bip_39_word_new_line_9 | surface
 large
 unable
 subject

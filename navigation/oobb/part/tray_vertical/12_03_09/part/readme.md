@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rich |  
-| bip_39_word_new_br10 | rich<br>december<br>cruise<br>scorpion<br>entire<br>toilet<br>cradle<br>grow<br>settle<br>already |  
-| bip_39_word_new_br11 | rich<br>december<br>cruise<br>scorpion<br>entire<br>toilet<br>cradle<br>grow<br>settle<br>already<br>orchard |  
-| bip_39_word_new_br12 | rich<br>december<br>cruise<br>scorpion<br>entire<br>toilet<br>cradle<br>grow<br>settle<br>already<br>orchard<br>absorb |  
-| bip_39_word_new_br2 | rich<br>december |  
-| bip_39_word_new_br3 | rich<br>december<br>cruise |  
-| bip_39_word_new_br4 | rich<br>december<br>cruise<br>scorpion |  
-| bip_39_word_new_br5 | rich<br>december<br>cruise<br>scorpion<br>entire |  
-| bip_39_word_new_br6 | rich<br>december<br>cruise<br>scorpion<br>entire<br>toilet |  
-| bip_39_word_new_br7 | rich<br>december<br>cruise<br>scorpion<br>entire<br>toilet<br>cradle |  
-| bip_39_word_new_br8 | rich<br>december<br>cruise<br>scorpion<br>entire<br>toilet<br>cradle<br>grow |  
-| bip_39_word_new_br9 | rich<br>december<br>cruise<br>scorpion<br>entire<br>toilet<br>cradle<br>grow<br>settle |  
-| bip_39_word_new_line1 | rich |  
-| bip_39_word_new_line10 | rich
+| bip_39_word_new_br_1 | rich |  
+| bip_39_word_new_br_10 | rich<br>december<br>cruise<br>scorpion<br>entire<br>toilet<br>cradle<br>grow<br>settle<br>already |  
+| bip_39_word_new_br_11 | rich<br>december<br>cruise<br>scorpion<br>entire<br>toilet<br>cradle<br>grow<br>settle<br>already<br>orchard |  
+| bip_39_word_new_br_12 | rich<br>december<br>cruise<br>scorpion<br>entire<br>toilet<br>cradle<br>grow<br>settle<br>already<br>orchard<br>absorb |  
+| bip_39_word_new_br_2 | rich<br>december |  
+| bip_39_word_new_br_3 | rich<br>december<br>cruise |  
+| bip_39_word_new_br_4 | rich<br>december<br>cruise<br>scorpion |  
+| bip_39_word_new_br_5 | rich<br>december<br>cruise<br>scorpion<br>entire |  
+| bip_39_word_new_br_6 | rich<br>december<br>cruise<br>scorpion<br>entire<br>toilet |  
+| bip_39_word_new_br_7 | rich<br>december<br>cruise<br>scorpion<br>entire<br>toilet<br>cradle |  
+| bip_39_word_new_br_8 | rich<br>december<br>cruise<br>scorpion<br>entire<br>toilet<br>cradle<br>grow |  
+| bip_39_word_new_br_9 | rich<br>december<br>cruise<br>scorpion<br>entire<br>toilet<br>cradle<br>grow<br>settle |  
+| bip_39_word_new_line_1 | rich |  
+| bip_39_word_new_line_10 | rich
 december
 cruise
 scorpion
@@ -55,7 +55,7 @@ cradle
 grow
 settle
 already |  
-| bip_39_word_new_line11 | rich
+| bip_39_word_new_line_11 | rich
 december
 cruise
 scorpion
@@ -66,7 +66,7 @@ grow
 settle
 already
 orchard |  
-| bip_39_word_new_line12 | rich
+| bip_39_word_new_line_12 | rich
 december
 cruise
 scorpion
@@ -78,34 +78,34 @@ settle
 already
 orchard
 absorb |  
-| bip_39_word_new_line2 | rich
+| bip_39_word_new_line_2 | rich
 december |  
-| bip_39_word_new_line3 | rich
+| bip_39_word_new_line_3 | rich
 december
 cruise |  
-| bip_39_word_new_line4 | rich
+| bip_39_word_new_line_4 | rich
 december
 cruise
 scorpion |  
-| bip_39_word_new_line5 | rich
+| bip_39_word_new_line_5 | rich
 december
 cruise
 scorpion
 entire |  
-| bip_39_word_new_line6 | rich
+| bip_39_word_new_line_6 | rich
 december
 cruise
 scorpion
 entire
 toilet |  
-| bip_39_word_new_line7 | rich
+| bip_39_word_new_line_7 | rich
 december
 cruise
 scorpion
 entire
 toilet
 cradle |  
-| bip_39_word_new_line8 | rich
+| bip_39_word_new_line_8 | rich
 december
 cruise
 scorpion
@@ -113,7 +113,7 @@ entire
 toilet
 cradle
 grow |  
-| bip_39_word_new_line9 | rich
+| bip_39_word_new_line_9 | rich
 december
 cruise
 scorpion

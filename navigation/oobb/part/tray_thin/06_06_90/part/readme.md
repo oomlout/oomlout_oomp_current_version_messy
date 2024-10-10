@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | save |  
-| bip_39_word_new_br10 | save<br>cannon<br>heart<br>zoo<br>allow<br>icon<br>long<br>gap<br>memory<br>invest |  
-| bip_39_word_new_br11 | save<br>cannon<br>heart<br>zoo<br>allow<br>icon<br>long<br>gap<br>memory<br>invest<br>radio |  
-| bip_39_word_new_br12 | save<br>cannon<br>heart<br>zoo<br>allow<br>icon<br>long<br>gap<br>memory<br>invest<br>radio<br>arrest |  
-| bip_39_word_new_br2 | save<br>cannon |  
-| bip_39_word_new_br3 | save<br>cannon<br>heart |  
-| bip_39_word_new_br4 | save<br>cannon<br>heart<br>zoo |  
-| bip_39_word_new_br5 | save<br>cannon<br>heart<br>zoo<br>allow |  
-| bip_39_word_new_br6 | save<br>cannon<br>heart<br>zoo<br>allow<br>icon |  
-| bip_39_word_new_br7 | save<br>cannon<br>heart<br>zoo<br>allow<br>icon<br>long |  
-| bip_39_word_new_br8 | save<br>cannon<br>heart<br>zoo<br>allow<br>icon<br>long<br>gap |  
-| bip_39_word_new_br9 | save<br>cannon<br>heart<br>zoo<br>allow<br>icon<br>long<br>gap<br>memory |  
-| bip_39_word_new_line1 | save |  
-| bip_39_word_new_line10 | save
+| bip_39_word_new_br_1 | save |  
+| bip_39_word_new_br_10 | save<br>cannon<br>heart<br>zoo<br>allow<br>icon<br>long<br>gap<br>memory<br>invest |  
+| bip_39_word_new_br_11 | save<br>cannon<br>heart<br>zoo<br>allow<br>icon<br>long<br>gap<br>memory<br>invest<br>radio |  
+| bip_39_word_new_br_12 | save<br>cannon<br>heart<br>zoo<br>allow<br>icon<br>long<br>gap<br>memory<br>invest<br>radio<br>arrest |  
+| bip_39_word_new_br_2 | save<br>cannon |  
+| bip_39_word_new_br_3 | save<br>cannon<br>heart |  
+| bip_39_word_new_br_4 | save<br>cannon<br>heart<br>zoo |  
+| bip_39_word_new_br_5 | save<br>cannon<br>heart<br>zoo<br>allow |  
+| bip_39_word_new_br_6 | save<br>cannon<br>heart<br>zoo<br>allow<br>icon |  
+| bip_39_word_new_br_7 | save<br>cannon<br>heart<br>zoo<br>allow<br>icon<br>long |  
+| bip_39_word_new_br_8 | save<br>cannon<br>heart<br>zoo<br>allow<br>icon<br>long<br>gap |  
+| bip_39_word_new_br_9 | save<br>cannon<br>heart<br>zoo<br>allow<br>icon<br>long<br>gap<br>memory |  
+| bip_39_word_new_line_1 | save |  
+| bip_39_word_new_line_10 | save
 cannon
 heart
 zoo
@@ -55,7 +55,7 @@ long
 gap
 memory
 invest |  
-| bip_39_word_new_line11 | save
+| bip_39_word_new_line_11 | save
 cannon
 heart
 zoo
@@ -66,7 +66,7 @@ gap
 memory
 invest
 radio |  
-| bip_39_word_new_line12 | save
+| bip_39_word_new_line_12 | save
 cannon
 heart
 zoo
@@ -78,34 +78,34 @@ memory
 invest
 radio
 arrest |  
-| bip_39_word_new_line2 | save
+| bip_39_word_new_line_2 | save
 cannon |  
-| bip_39_word_new_line3 | save
+| bip_39_word_new_line_3 | save
 cannon
 heart |  
-| bip_39_word_new_line4 | save
+| bip_39_word_new_line_4 | save
 cannon
 heart
 zoo |  
-| bip_39_word_new_line5 | save
+| bip_39_word_new_line_5 | save
 cannon
 heart
 zoo
 allow |  
-| bip_39_word_new_line6 | save
+| bip_39_word_new_line_6 | save
 cannon
 heart
 zoo
 allow
 icon |  
-| bip_39_word_new_line7 | save
+| bip_39_word_new_line_7 | save
 cannon
 heart
 zoo
 allow
 icon
 long |  
-| bip_39_word_new_line8 | save
+| bip_39_word_new_line_8 | save
 cannon
 heart
 zoo
@@ -113,7 +113,7 @@ allow
 icon
 long
 gap |  
-| bip_39_word_new_line9 | save
+| bip_39_word_new_line_9 | save
 cannon
 heart
 zoo

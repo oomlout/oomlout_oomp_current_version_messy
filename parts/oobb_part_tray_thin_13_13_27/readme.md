@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rescue |  
-| bip_39_word_new_br10 | rescue<br>motor<br>visa<br>debate<br>river<br>valve<br>number<br>army<br>auction<br>payment |  
-| bip_39_word_new_br11 | rescue<br>motor<br>visa<br>debate<br>river<br>valve<br>number<br>army<br>auction<br>payment<br>term |  
-| bip_39_word_new_br12 | rescue<br>motor<br>visa<br>debate<br>river<br>valve<br>number<br>army<br>auction<br>payment<br>term<br>allow |  
-| bip_39_word_new_br2 | rescue<br>motor |  
-| bip_39_word_new_br3 | rescue<br>motor<br>visa |  
-| bip_39_word_new_br4 | rescue<br>motor<br>visa<br>debate |  
-| bip_39_word_new_br5 | rescue<br>motor<br>visa<br>debate<br>river |  
-| bip_39_word_new_br6 | rescue<br>motor<br>visa<br>debate<br>river<br>valve |  
-| bip_39_word_new_br7 | rescue<br>motor<br>visa<br>debate<br>river<br>valve<br>number |  
-| bip_39_word_new_br8 | rescue<br>motor<br>visa<br>debate<br>river<br>valve<br>number<br>army |  
-| bip_39_word_new_br9 | rescue<br>motor<br>visa<br>debate<br>river<br>valve<br>number<br>army<br>auction |  
-| bip_39_word_new_line1 | rescue |  
-| bip_39_word_new_line10 | rescue
+| bip_39_word_new_br_1 | rescue |  
+| bip_39_word_new_br_10 | rescue<br>motor<br>visa<br>debate<br>river<br>valve<br>number<br>army<br>auction<br>payment |  
+| bip_39_word_new_br_11 | rescue<br>motor<br>visa<br>debate<br>river<br>valve<br>number<br>army<br>auction<br>payment<br>term |  
+| bip_39_word_new_br_12 | rescue<br>motor<br>visa<br>debate<br>river<br>valve<br>number<br>army<br>auction<br>payment<br>term<br>allow |  
+| bip_39_word_new_br_2 | rescue<br>motor |  
+| bip_39_word_new_br_3 | rescue<br>motor<br>visa |  
+| bip_39_word_new_br_4 | rescue<br>motor<br>visa<br>debate |  
+| bip_39_word_new_br_5 | rescue<br>motor<br>visa<br>debate<br>river |  
+| bip_39_word_new_br_6 | rescue<br>motor<br>visa<br>debate<br>river<br>valve |  
+| bip_39_word_new_br_7 | rescue<br>motor<br>visa<br>debate<br>river<br>valve<br>number |  
+| bip_39_word_new_br_8 | rescue<br>motor<br>visa<br>debate<br>river<br>valve<br>number<br>army |  
+| bip_39_word_new_br_9 | rescue<br>motor<br>visa<br>debate<br>river<br>valve<br>number<br>army<br>auction |  
+| bip_39_word_new_line_1 | rescue |  
+| bip_39_word_new_line_10 | rescue
 motor
 visa
 debate
@@ -55,7 +55,7 @@ number
 army
 auction
 payment |  
-| bip_39_word_new_line11 | rescue
+| bip_39_word_new_line_11 | rescue
 motor
 visa
 debate
@@ -66,7 +66,7 @@ army
 auction
 payment
 term |  
-| bip_39_word_new_line12 | rescue
+| bip_39_word_new_line_12 | rescue
 motor
 visa
 debate
@@ -78,34 +78,34 @@ auction
 payment
 term
 allow |  
-| bip_39_word_new_line2 | rescue
+| bip_39_word_new_line_2 | rescue
 motor |  
-| bip_39_word_new_line3 | rescue
+| bip_39_word_new_line_3 | rescue
 motor
 visa |  
-| bip_39_word_new_line4 | rescue
+| bip_39_word_new_line_4 | rescue
 motor
 visa
 debate |  
-| bip_39_word_new_line5 | rescue
+| bip_39_word_new_line_5 | rescue
 motor
 visa
 debate
 river |  
-| bip_39_word_new_line6 | rescue
+| bip_39_word_new_line_6 | rescue
 motor
 visa
 debate
 river
 valve |  
-| bip_39_word_new_line7 | rescue
+| bip_39_word_new_line_7 | rescue
 motor
 visa
 debate
 river
 valve
 number |  
-| bip_39_word_new_line8 | rescue
+| bip_39_word_new_line_8 | rescue
 motor
 visa
 debate
@@ -113,7 +113,7 @@ river
 valve
 number
 army |  
-| bip_39_word_new_line9 | rescue
+| bip_39_word_new_line_9 | rescue
 motor
 visa
 debate

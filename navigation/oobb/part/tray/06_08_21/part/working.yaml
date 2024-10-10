@@ -1,17 +1,17 @@
-bip_39_word_new_br1: approve
-bip_39_word_new_br10: approve<br>random<br>ensure<br>mention<br>certain<br>that<br>adult<br>example<br>vendor<br>thank
-bip_39_word_new_br11: approve<br>random<br>ensure<br>mention<br>certain<br>that<br>adult<br>example<br>vendor<br>thank<br>ritual
-bip_39_word_new_br12: approve<br>random<br>ensure<br>mention<br>certain<br>that<br>adult<br>example<br>vendor<br>thank<br>ritual<br>almost
-bip_39_word_new_br2: approve<br>random
-bip_39_word_new_br3: approve<br>random<br>ensure
-bip_39_word_new_br4: approve<br>random<br>ensure<br>mention
-bip_39_word_new_br5: approve<br>random<br>ensure<br>mention<br>certain
-bip_39_word_new_br6: approve<br>random<br>ensure<br>mention<br>certain<br>that
-bip_39_word_new_br7: approve<br>random<br>ensure<br>mention<br>certain<br>that<br>adult
-bip_39_word_new_br8: approve<br>random<br>ensure<br>mention<br>certain<br>that<br>adult<br>example
-bip_39_word_new_br9: approve<br>random<br>ensure<br>mention<br>certain<br>that<br>adult<br>example<br>vendor
-bip_39_word_new_line1: approve
-bip_39_word_new_line10: 'approve
+bip_39_word_new_br_1: approve
+bip_39_word_new_br_10: approve<br>random<br>ensure<br>mention<br>certain<br>that<br>adult<br>example<br>vendor<br>thank
+bip_39_word_new_br_11: approve<br>random<br>ensure<br>mention<br>certain<br>that<br>adult<br>example<br>vendor<br>thank<br>ritual
+bip_39_word_new_br_12: approve<br>random<br>ensure<br>mention<br>certain<br>that<br>adult<br>example<br>vendor<br>thank<br>ritual<br>almost
+bip_39_word_new_br_2: approve<br>random
+bip_39_word_new_br_3: approve<br>random<br>ensure
+bip_39_word_new_br_4: approve<br>random<br>ensure<br>mention
+bip_39_word_new_br_5: approve<br>random<br>ensure<br>mention<br>certain
+bip_39_word_new_br_6: approve<br>random<br>ensure<br>mention<br>certain<br>that
+bip_39_word_new_br_7: approve<br>random<br>ensure<br>mention<br>certain<br>that<br>adult
+bip_39_word_new_br_8: approve<br>random<br>ensure<br>mention<br>certain<br>that<br>adult<br>example
+bip_39_word_new_br_9: approve<br>random<br>ensure<br>mention<br>certain<br>that<br>adult<br>example<br>vendor
+bip_39_word_new_line_1: approve
+bip_39_word_new_line_10: 'approve
 
   random
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'approve
   vendor
 
   thank'
-bip_39_word_new_line11: 'approve
+bip_39_word_new_line_11: 'approve
 
   random
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'approve
   thank
 
   ritual'
-bip_39_word_new_line12: 'approve
+bip_39_word_new_line_12: 'approve
 
   random
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'approve
   ritual
 
   almost'
-bip_39_word_new_line2: 'approve
+bip_39_word_new_line_2: 'approve
 
   random'
-bip_39_word_new_line3: 'approve
+bip_39_word_new_line_3: 'approve
 
   random
 
   ensure'
-bip_39_word_new_line4: 'approve
+bip_39_word_new_line_4: 'approve
 
   random
 
   ensure
 
   mention'
-bip_39_word_new_line5: 'approve
+bip_39_word_new_line_5: 'approve
 
   random
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'approve
   mention
 
   certain'
-bip_39_word_new_line6: 'approve
+bip_39_word_new_line_6: 'approve
 
   random
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'approve
   certain
 
   that'
-bip_39_word_new_line7: 'approve
+bip_39_word_new_line_7: 'approve
 
   random
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'approve
   that
 
   adult'
-bip_39_word_new_line8: 'approve
+bip_39_word_new_line_8: 'approve
 
   random
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'approve
   adult
 
   example'
-bip_39_word_new_line9: 'approve
+bip_39_word_new_line_9: 'approve
 
   random
 

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | observe |  
-| bip_39_word_new_br10 | observe<br>mind<br>exhibit<br>matrix<br>circle<br>discover<br>orbit<br>brand<br>economy<br>struggle |  
-| bip_39_word_new_br11 | observe<br>mind<br>exhibit<br>matrix<br>circle<br>discover<br>orbit<br>brand<br>economy<br>struggle<br>salmon |  
-| bip_39_word_new_br12 | observe<br>mind<br>exhibit<br>matrix<br>circle<br>discover<br>orbit<br>brand<br>economy<br>struggle<br>salmon<br>antenna |  
-| bip_39_word_new_br2 | observe<br>mind |  
-| bip_39_word_new_br3 | observe<br>mind<br>exhibit |  
-| bip_39_word_new_br4 | observe<br>mind<br>exhibit<br>matrix |  
-| bip_39_word_new_br5 | observe<br>mind<br>exhibit<br>matrix<br>circle |  
-| bip_39_word_new_br6 | observe<br>mind<br>exhibit<br>matrix<br>circle<br>discover |  
-| bip_39_word_new_br7 | observe<br>mind<br>exhibit<br>matrix<br>circle<br>discover<br>orbit |  
-| bip_39_word_new_br8 | observe<br>mind<br>exhibit<br>matrix<br>circle<br>discover<br>orbit<br>brand |  
-| bip_39_word_new_br9 | observe<br>mind<br>exhibit<br>matrix<br>circle<br>discover<br>orbit<br>brand<br>economy |  
-| bip_39_word_new_line1 | observe |  
-| bip_39_word_new_line10 | observe
+| bip_39_word_new_br_1 | observe |  
+| bip_39_word_new_br_10 | observe<br>mind<br>exhibit<br>matrix<br>circle<br>discover<br>orbit<br>brand<br>economy<br>struggle |  
+| bip_39_word_new_br_11 | observe<br>mind<br>exhibit<br>matrix<br>circle<br>discover<br>orbit<br>brand<br>economy<br>struggle<br>salmon |  
+| bip_39_word_new_br_12 | observe<br>mind<br>exhibit<br>matrix<br>circle<br>discover<br>orbit<br>brand<br>economy<br>struggle<br>salmon<br>antenna |  
+| bip_39_word_new_br_2 | observe<br>mind |  
+| bip_39_word_new_br_3 | observe<br>mind<br>exhibit |  
+| bip_39_word_new_br_4 | observe<br>mind<br>exhibit<br>matrix |  
+| bip_39_word_new_br_5 | observe<br>mind<br>exhibit<br>matrix<br>circle |  
+| bip_39_word_new_br_6 | observe<br>mind<br>exhibit<br>matrix<br>circle<br>discover |  
+| bip_39_word_new_br_7 | observe<br>mind<br>exhibit<br>matrix<br>circle<br>discover<br>orbit |  
+| bip_39_word_new_br_8 | observe<br>mind<br>exhibit<br>matrix<br>circle<br>discover<br>orbit<br>brand |  
+| bip_39_word_new_br_9 | observe<br>mind<br>exhibit<br>matrix<br>circle<br>discover<br>orbit<br>brand<br>economy |  
+| bip_39_word_new_line_1 | observe |  
+| bip_39_word_new_line_10 | observe
 mind
 exhibit
 matrix
@@ -55,7 +55,7 @@ orbit
 brand
 economy
 struggle |  
-| bip_39_word_new_line11 | observe
+| bip_39_word_new_line_11 | observe
 mind
 exhibit
 matrix
@@ -66,7 +66,7 @@ brand
 economy
 struggle
 salmon |  
-| bip_39_word_new_line12 | observe
+| bip_39_word_new_line_12 | observe
 mind
 exhibit
 matrix
@@ -78,34 +78,34 @@ economy
 struggle
 salmon
 antenna |  
-| bip_39_word_new_line2 | observe
+| bip_39_word_new_line_2 | observe
 mind |  
-| bip_39_word_new_line3 | observe
+| bip_39_word_new_line_3 | observe
 mind
 exhibit |  
-| bip_39_word_new_line4 | observe
+| bip_39_word_new_line_4 | observe
 mind
 exhibit
 matrix |  
-| bip_39_word_new_line5 | observe
+| bip_39_word_new_line_5 | observe
 mind
 exhibit
 matrix
 circle |  
-| bip_39_word_new_line6 | observe
+| bip_39_word_new_line_6 | observe
 mind
 exhibit
 matrix
 circle
 discover |  
-| bip_39_word_new_line7 | observe
+| bip_39_word_new_line_7 | observe
 mind
 exhibit
 matrix
 circle
 discover
 orbit |  
-| bip_39_word_new_line8 | observe
+| bip_39_word_new_line_8 | observe
 mind
 exhibit
 matrix
@@ -113,7 +113,7 @@ circle
 discover
 orbit
 brand |  
-| bip_39_word_new_line9 | observe
+| bip_39_word_new_line_9 | observe
 mind
 exhibit
 matrix

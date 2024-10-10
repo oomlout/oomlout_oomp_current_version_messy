@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cost |  
-| bip_39_word_new_br10 | cost<br>tunnel<br>tide<br>course<br>day<br>copper<br>seek<br>ice<br>book<br>staff |  
-| bip_39_word_new_br11 | cost<br>tunnel<br>tide<br>course<br>day<br>copper<br>seek<br>ice<br>book<br>staff<br>never |  
-| bip_39_word_new_br12 | cost<br>tunnel<br>tide<br>course<br>day<br>copper<br>seek<br>ice<br>book<br>staff<br>never<br>attack |  
-| bip_39_word_new_br2 | cost<br>tunnel |  
-| bip_39_word_new_br3 | cost<br>tunnel<br>tide |  
-| bip_39_word_new_br4 | cost<br>tunnel<br>tide<br>course |  
-| bip_39_word_new_br5 | cost<br>tunnel<br>tide<br>course<br>day |  
-| bip_39_word_new_br6 | cost<br>tunnel<br>tide<br>course<br>day<br>copper |  
-| bip_39_word_new_br7 | cost<br>tunnel<br>tide<br>course<br>day<br>copper<br>seek |  
-| bip_39_word_new_br8 | cost<br>tunnel<br>tide<br>course<br>day<br>copper<br>seek<br>ice |  
-| bip_39_word_new_br9 | cost<br>tunnel<br>tide<br>course<br>day<br>copper<br>seek<br>ice<br>book |  
-| bip_39_word_new_line1 | cost |  
-| bip_39_word_new_line10 | cost
+| bip_39_word_new_br_1 | cost |  
+| bip_39_word_new_br_10 | cost<br>tunnel<br>tide<br>course<br>day<br>copper<br>seek<br>ice<br>book<br>staff |  
+| bip_39_word_new_br_11 | cost<br>tunnel<br>tide<br>course<br>day<br>copper<br>seek<br>ice<br>book<br>staff<br>never |  
+| bip_39_word_new_br_12 | cost<br>tunnel<br>tide<br>course<br>day<br>copper<br>seek<br>ice<br>book<br>staff<br>never<br>attack |  
+| bip_39_word_new_br_2 | cost<br>tunnel |  
+| bip_39_word_new_br_3 | cost<br>tunnel<br>tide |  
+| bip_39_word_new_br_4 | cost<br>tunnel<br>tide<br>course |  
+| bip_39_word_new_br_5 | cost<br>tunnel<br>tide<br>course<br>day |  
+| bip_39_word_new_br_6 | cost<br>tunnel<br>tide<br>course<br>day<br>copper |  
+| bip_39_word_new_br_7 | cost<br>tunnel<br>tide<br>course<br>day<br>copper<br>seek |  
+| bip_39_word_new_br_8 | cost<br>tunnel<br>tide<br>course<br>day<br>copper<br>seek<br>ice |  
+| bip_39_word_new_br_9 | cost<br>tunnel<br>tide<br>course<br>day<br>copper<br>seek<br>ice<br>book |  
+| bip_39_word_new_line_1 | cost |  
+| bip_39_word_new_line_10 | cost
 tunnel
 tide
 course
@@ -55,7 +55,7 @@ seek
 ice
 book
 staff |  
-| bip_39_word_new_line11 | cost
+| bip_39_word_new_line_11 | cost
 tunnel
 tide
 course
@@ -66,7 +66,7 @@ ice
 book
 staff
 never |  
-| bip_39_word_new_line12 | cost
+| bip_39_word_new_line_12 | cost
 tunnel
 tide
 course
@@ -78,34 +78,34 @@ book
 staff
 never
 attack |  
-| bip_39_word_new_line2 | cost
+| bip_39_word_new_line_2 | cost
 tunnel |  
-| bip_39_word_new_line3 | cost
+| bip_39_word_new_line_3 | cost
 tunnel
 tide |  
-| bip_39_word_new_line4 | cost
+| bip_39_word_new_line_4 | cost
 tunnel
 tide
 course |  
-| bip_39_word_new_line5 | cost
+| bip_39_word_new_line_5 | cost
 tunnel
 tide
 course
 day |  
-| bip_39_word_new_line6 | cost
+| bip_39_word_new_line_6 | cost
 tunnel
 tide
 course
 day
 copper |  
-| bip_39_word_new_line7 | cost
+| bip_39_word_new_line_7 | cost
 tunnel
 tide
 course
 day
 copper
 seek |  
-| bip_39_word_new_line8 | cost
+| bip_39_word_new_line_8 | cost
 tunnel
 tide
 course
@@ -113,7 +113,7 @@ day
 copper
 seek
 ice |  
-| bip_39_word_new_line9 | cost
+| bip_39_word_new_line_9 | cost
 tunnel
 tide
 course

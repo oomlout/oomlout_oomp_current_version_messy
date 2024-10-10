@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | citizen |  
-| bip_39_word_new_br10 | citizen<br>inherit<br>range<br>uniform<br>deliver<br>dizzy<br>sure<br>mixture<br>brand<br>alcohol |  
-| bip_39_word_new_br11 | citizen<br>inherit<br>range<br>uniform<br>deliver<br>dizzy<br>sure<br>mixture<br>brand<br>alcohol<br>subject |  
-| bip_39_word_new_br12 | citizen<br>inherit<br>range<br>uniform<br>deliver<br>dizzy<br>sure<br>mixture<br>brand<br>alcohol<br>subject<br>amount |  
-| bip_39_word_new_br2 | citizen<br>inherit |  
-| bip_39_word_new_br3 | citizen<br>inherit<br>range |  
-| bip_39_word_new_br4 | citizen<br>inherit<br>range<br>uniform |  
-| bip_39_word_new_br5 | citizen<br>inherit<br>range<br>uniform<br>deliver |  
-| bip_39_word_new_br6 | citizen<br>inherit<br>range<br>uniform<br>deliver<br>dizzy |  
-| bip_39_word_new_br7 | citizen<br>inherit<br>range<br>uniform<br>deliver<br>dizzy<br>sure |  
-| bip_39_word_new_br8 | citizen<br>inherit<br>range<br>uniform<br>deliver<br>dizzy<br>sure<br>mixture |  
-| bip_39_word_new_br9 | citizen<br>inherit<br>range<br>uniform<br>deliver<br>dizzy<br>sure<br>mixture<br>brand |  
-| bip_39_word_new_line1 | citizen |  
-| bip_39_word_new_line10 | citizen
+| bip_39_word_new_br_1 | citizen |  
+| bip_39_word_new_br_10 | citizen<br>inherit<br>range<br>uniform<br>deliver<br>dizzy<br>sure<br>mixture<br>brand<br>alcohol |  
+| bip_39_word_new_br_11 | citizen<br>inherit<br>range<br>uniform<br>deliver<br>dizzy<br>sure<br>mixture<br>brand<br>alcohol<br>subject |  
+| bip_39_word_new_br_12 | citizen<br>inherit<br>range<br>uniform<br>deliver<br>dizzy<br>sure<br>mixture<br>brand<br>alcohol<br>subject<br>amount |  
+| bip_39_word_new_br_2 | citizen<br>inherit |  
+| bip_39_word_new_br_3 | citizen<br>inherit<br>range |  
+| bip_39_word_new_br_4 | citizen<br>inherit<br>range<br>uniform |  
+| bip_39_word_new_br_5 | citizen<br>inherit<br>range<br>uniform<br>deliver |  
+| bip_39_word_new_br_6 | citizen<br>inherit<br>range<br>uniform<br>deliver<br>dizzy |  
+| bip_39_word_new_br_7 | citizen<br>inherit<br>range<br>uniform<br>deliver<br>dizzy<br>sure |  
+| bip_39_word_new_br_8 | citizen<br>inherit<br>range<br>uniform<br>deliver<br>dizzy<br>sure<br>mixture |  
+| bip_39_word_new_br_9 | citizen<br>inherit<br>range<br>uniform<br>deliver<br>dizzy<br>sure<br>mixture<br>brand |  
+| bip_39_word_new_line_1 | citizen |  
+| bip_39_word_new_line_10 | citizen
 inherit
 range
 uniform
@@ -55,7 +55,7 @@ sure
 mixture
 brand
 alcohol |  
-| bip_39_word_new_line11 | citizen
+| bip_39_word_new_line_11 | citizen
 inherit
 range
 uniform
@@ -66,7 +66,7 @@ mixture
 brand
 alcohol
 subject |  
-| bip_39_word_new_line12 | citizen
+| bip_39_word_new_line_12 | citizen
 inherit
 range
 uniform
@@ -78,34 +78,34 @@ brand
 alcohol
 subject
 amount |  
-| bip_39_word_new_line2 | citizen
+| bip_39_word_new_line_2 | citizen
 inherit |  
-| bip_39_word_new_line3 | citizen
+| bip_39_word_new_line_3 | citizen
 inherit
 range |  
-| bip_39_word_new_line4 | citizen
+| bip_39_word_new_line_4 | citizen
 inherit
 range
 uniform |  
-| bip_39_word_new_line5 | citizen
+| bip_39_word_new_line_5 | citizen
 inherit
 range
 uniform
 deliver |  
-| bip_39_word_new_line6 | citizen
+| bip_39_word_new_line_6 | citizen
 inherit
 range
 uniform
 deliver
 dizzy |  
-| bip_39_word_new_line7 | citizen
+| bip_39_word_new_line_7 | citizen
 inherit
 range
 uniform
 deliver
 dizzy
 sure |  
-| bip_39_word_new_line8 | citizen
+| bip_39_word_new_line_8 | citizen
 inherit
 range
 uniform
@@ -113,7 +113,7 @@ deliver
 dizzy
 sure
 mixture |  
-| bip_39_word_new_line9 | citizen
+| bip_39_word_new_line_9 | citizen
 inherit
 range
 uniform

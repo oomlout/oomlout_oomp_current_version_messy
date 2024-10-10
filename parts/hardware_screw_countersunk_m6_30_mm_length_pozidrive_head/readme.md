@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | emerge |  
-| bip_39_word_new_br10 | emerge<br>cake<br>attend<br>noodle<br>bus<br>armor<br>gallery<br>very<br>team<br>corn |  
-| bip_39_word_new_br11 | emerge<br>cake<br>attend<br>noodle<br>bus<br>armor<br>gallery<br>very<br>team<br>corn<br>little |  
-| bip_39_word_new_br12 | emerge<br>cake<br>attend<br>noodle<br>bus<br>armor<br>gallery<br>very<br>team<br>corn<br>little<br>answer |  
-| bip_39_word_new_br2 | emerge<br>cake |  
-| bip_39_word_new_br3 | emerge<br>cake<br>attend |  
-| bip_39_word_new_br4 | emerge<br>cake<br>attend<br>noodle |  
-| bip_39_word_new_br5 | emerge<br>cake<br>attend<br>noodle<br>bus |  
-| bip_39_word_new_br6 | emerge<br>cake<br>attend<br>noodle<br>bus<br>armor |  
-| bip_39_word_new_br7 | emerge<br>cake<br>attend<br>noodle<br>bus<br>armor<br>gallery |  
-| bip_39_word_new_br8 | emerge<br>cake<br>attend<br>noodle<br>bus<br>armor<br>gallery<br>very |  
-| bip_39_word_new_br9 | emerge<br>cake<br>attend<br>noodle<br>bus<br>armor<br>gallery<br>very<br>team |  
-| bip_39_word_new_line1 | emerge |  
-| bip_39_word_new_line10 | emerge
+| bip_39_word_new_br_1 | emerge |  
+| bip_39_word_new_br_10 | emerge<br>cake<br>attend<br>noodle<br>bus<br>armor<br>gallery<br>very<br>team<br>corn |  
+| bip_39_word_new_br_11 | emerge<br>cake<br>attend<br>noodle<br>bus<br>armor<br>gallery<br>very<br>team<br>corn<br>little |  
+| bip_39_word_new_br_12 | emerge<br>cake<br>attend<br>noodle<br>bus<br>armor<br>gallery<br>very<br>team<br>corn<br>little<br>answer |  
+| bip_39_word_new_br_2 | emerge<br>cake |  
+| bip_39_word_new_br_3 | emerge<br>cake<br>attend |  
+| bip_39_word_new_br_4 | emerge<br>cake<br>attend<br>noodle |  
+| bip_39_word_new_br_5 | emerge<br>cake<br>attend<br>noodle<br>bus |  
+| bip_39_word_new_br_6 | emerge<br>cake<br>attend<br>noodle<br>bus<br>armor |  
+| bip_39_word_new_br_7 | emerge<br>cake<br>attend<br>noodle<br>bus<br>armor<br>gallery |  
+| bip_39_word_new_br_8 | emerge<br>cake<br>attend<br>noodle<br>bus<br>armor<br>gallery<br>very |  
+| bip_39_word_new_br_9 | emerge<br>cake<br>attend<br>noodle<br>bus<br>armor<br>gallery<br>very<br>team |  
+| bip_39_word_new_line_1 | emerge |  
+| bip_39_word_new_line_10 | emerge
 cake
 attend
 noodle
@@ -55,7 +55,7 @@ gallery
 very
 team
 corn |  
-| bip_39_word_new_line11 | emerge
+| bip_39_word_new_line_11 | emerge
 cake
 attend
 noodle
@@ -66,7 +66,7 @@ very
 team
 corn
 little |  
-| bip_39_word_new_line12 | emerge
+| bip_39_word_new_line_12 | emerge
 cake
 attend
 noodle
@@ -78,34 +78,34 @@ team
 corn
 little
 answer |  
-| bip_39_word_new_line2 | emerge
+| bip_39_word_new_line_2 | emerge
 cake |  
-| bip_39_word_new_line3 | emerge
+| bip_39_word_new_line_3 | emerge
 cake
 attend |  
-| bip_39_word_new_line4 | emerge
+| bip_39_word_new_line_4 | emerge
 cake
 attend
 noodle |  
-| bip_39_word_new_line5 | emerge
+| bip_39_word_new_line_5 | emerge
 cake
 attend
 noodle
 bus |  
-| bip_39_word_new_line6 | emerge
+| bip_39_word_new_line_6 | emerge
 cake
 attend
 noodle
 bus
 armor |  
-| bip_39_word_new_line7 | emerge
+| bip_39_word_new_line_7 | emerge
 cake
 attend
 noodle
 bus
 armor
 gallery |  
-| bip_39_word_new_line8 | emerge
+| bip_39_word_new_line_8 | emerge
 cake
 attend
 noodle
@@ -113,7 +113,7 @@ bus
 armor
 gallery
 very |  
-| bip_39_word_new_line9 | emerge
+| bip_39_word_new_line_9 | emerge
 cake
 attend
 noodle

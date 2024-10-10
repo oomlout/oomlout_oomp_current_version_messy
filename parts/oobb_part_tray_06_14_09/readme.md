@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | state |  
-| bip_39_word_new_br10 | state<br>twin<br>ostrich<br>fix<br>thumb<br>oven<br>divorce<br>clip<br>casino<br>north |  
-| bip_39_word_new_br11 | state<br>twin<br>ostrich<br>fix<br>thumb<br>oven<br>divorce<br>clip<br>casino<br>north<br>orient |  
-| bip_39_word_new_br12 | state<br>twin<br>ostrich<br>fix<br>thumb<br>oven<br>divorce<br>clip<br>casino<br>north<br>orient<br>armed |  
-| bip_39_word_new_br2 | state<br>twin |  
-| bip_39_word_new_br3 | state<br>twin<br>ostrich |  
-| bip_39_word_new_br4 | state<br>twin<br>ostrich<br>fix |  
-| bip_39_word_new_br5 | state<br>twin<br>ostrich<br>fix<br>thumb |  
-| bip_39_word_new_br6 | state<br>twin<br>ostrich<br>fix<br>thumb<br>oven |  
-| bip_39_word_new_br7 | state<br>twin<br>ostrich<br>fix<br>thumb<br>oven<br>divorce |  
-| bip_39_word_new_br8 | state<br>twin<br>ostrich<br>fix<br>thumb<br>oven<br>divorce<br>clip |  
-| bip_39_word_new_br9 | state<br>twin<br>ostrich<br>fix<br>thumb<br>oven<br>divorce<br>clip<br>casino |  
-| bip_39_word_new_line1 | state |  
-| bip_39_word_new_line10 | state
+| bip_39_word_new_br_1 | state |  
+| bip_39_word_new_br_10 | state<br>twin<br>ostrich<br>fix<br>thumb<br>oven<br>divorce<br>clip<br>casino<br>north |  
+| bip_39_word_new_br_11 | state<br>twin<br>ostrich<br>fix<br>thumb<br>oven<br>divorce<br>clip<br>casino<br>north<br>orient |  
+| bip_39_word_new_br_12 | state<br>twin<br>ostrich<br>fix<br>thumb<br>oven<br>divorce<br>clip<br>casino<br>north<br>orient<br>armed |  
+| bip_39_word_new_br_2 | state<br>twin |  
+| bip_39_word_new_br_3 | state<br>twin<br>ostrich |  
+| bip_39_word_new_br_4 | state<br>twin<br>ostrich<br>fix |  
+| bip_39_word_new_br_5 | state<br>twin<br>ostrich<br>fix<br>thumb |  
+| bip_39_word_new_br_6 | state<br>twin<br>ostrich<br>fix<br>thumb<br>oven |  
+| bip_39_word_new_br_7 | state<br>twin<br>ostrich<br>fix<br>thumb<br>oven<br>divorce |  
+| bip_39_word_new_br_8 | state<br>twin<br>ostrich<br>fix<br>thumb<br>oven<br>divorce<br>clip |  
+| bip_39_word_new_br_9 | state<br>twin<br>ostrich<br>fix<br>thumb<br>oven<br>divorce<br>clip<br>casino |  
+| bip_39_word_new_line_1 | state |  
+| bip_39_word_new_line_10 | state
 twin
 ostrich
 fix
@@ -55,7 +55,7 @@ divorce
 clip
 casino
 north |  
-| bip_39_word_new_line11 | state
+| bip_39_word_new_line_11 | state
 twin
 ostrich
 fix
@@ -66,7 +66,7 @@ clip
 casino
 north
 orient |  
-| bip_39_word_new_line12 | state
+| bip_39_word_new_line_12 | state
 twin
 ostrich
 fix
@@ -78,34 +78,34 @@ casino
 north
 orient
 armed |  
-| bip_39_word_new_line2 | state
+| bip_39_word_new_line_2 | state
 twin |  
-| bip_39_word_new_line3 | state
+| bip_39_word_new_line_3 | state
 twin
 ostrich |  
-| bip_39_word_new_line4 | state
+| bip_39_word_new_line_4 | state
 twin
 ostrich
 fix |  
-| bip_39_word_new_line5 | state
+| bip_39_word_new_line_5 | state
 twin
 ostrich
 fix
 thumb |  
-| bip_39_word_new_line6 | state
+| bip_39_word_new_line_6 | state
 twin
 ostrich
 fix
 thumb
 oven |  
-| bip_39_word_new_line7 | state
+| bip_39_word_new_line_7 | state
 twin
 ostrich
 fix
 thumb
 oven
 divorce |  
-| bip_39_word_new_line8 | state
+| bip_39_word_new_line_8 | state
 twin
 ostrich
 fix
@@ -113,7 +113,7 @@ thumb
 oven
 divorce
 clip |  
-| bip_39_word_new_line9 | state
+| bip_39_word_new_line_9 | state
 twin
 ostrich
 fix

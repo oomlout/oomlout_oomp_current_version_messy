@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | kid |  
-| bip_39_word_new_br10 | kid<br>sock<br>lounge<br>final<br>mobile<br>ignore<br>shove<br>globe<br>margin<br>argue |  
-| bip_39_word_new_br11 | kid<br>sock<br>lounge<br>final<br>mobile<br>ignore<br>shove<br>globe<br>margin<br>argue<br>library |  
-| bip_39_word_new_br12 | kid<br>sock<br>lounge<br>final<br>mobile<br>ignore<br>shove<br>globe<br>margin<br>argue<br>library<br>action |  
-| bip_39_word_new_br2 | kid<br>sock |  
-| bip_39_word_new_br3 | kid<br>sock<br>lounge |  
-| bip_39_word_new_br4 | kid<br>sock<br>lounge<br>final |  
-| bip_39_word_new_br5 | kid<br>sock<br>lounge<br>final<br>mobile |  
-| bip_39_word_new_br6 | kid<br>sock<br>lounge<br>final<br>mobile<br>ignore |  
-| bip_39_word_new_br7 | kid<br>sock<br>lounge<br>final<br>mobile<br>ignore<br>shove |  
-| bip_39_word_new_br8 | kid<br>sock<br>lounge<br>final<br>mobile<br>ignore<br>shove<br>globe |  
-| bip_39_word_new_br9 | kid<br>sock<br>lounge<br>final<br>mobile<br>ignore<br>shove<br>globe<br>margin |  
-| bip_39_word_new_line1 | kid |  
-| bip_39_word_new_line10 | kid
+| bip_39_word_new_br_1 | kid |  
+| bip_39_word_new_br_10 | kid<br>sock<br>lounge<br>final<br>mobile<br>ignore<br>shove<br>globe<br>margin<br>argue |  
+| bip_39_word_new_br_11 | kid<br>sock<br>lounge<br>final<br>mobile<br>ignore<br>shove<br>globe<br>margin<br>argue<br>library |  
+| bip_39_word_new_br_12 | kid<br>sock<br>lounge<br>final<br>mobile<br>ignore<br>shove<br>globe<br>margin<br>argue<br>library<br>action |  
+| bip_39_word_new_br_2 | kid<br>sock |  
+| bip_39_word_new_br_3 | kid<br>sock<br>lounge |  
+| bip_39_word_new_br_4 | kid<br>sock<br>lounge<br>final |  
+| bip_39_word_new_br_5 | kid<br>sock<br>lounge<br>final<br>mobile |  
+| bip_39_word_new_br_6 | kid<br>sock<br>lounge<br>final<br>mobile<br>ignore |  
+| bip_39_word_new_br_7 | kid<br>sock<br>lounge<br>final<br>mobile<br>ignore<br>shove |  
+| bip_39_word_new_br_8 | kid<br>sock<br>lounge<br>final<br>mobile<br>ignore<br>shove<br>globe |  
+| bip_39_word_new_br_9 | kid<br>sock<br>lounge<br>final<br>mobile<br>ignore<br>shove<br>globe<br>margin |  
+| bip_39_word_new_line_1 | kid |  
+| bip_39_word_new_line_10 | kid
 sock
 lounge
 final
@@ -55,7 +55,7 @@ shove
 globe
 margin
 argue |  
-| bip_39_word_new_line11 | kid
+| bip_39_word_new_line_11 | kid
 sock
 lounge
 final
@@ -66,7 +66,7 @@ globe
 margin
 argue
 library |  
-| bip_39_word_new_line12 | kid
+| bip_39_word_new_line_12 | kid
 sock
 lounge
 final
@@ -78,34 +78,34 @@ margin
 argue
 library
 action |  
-| bip_39_word_new_line2 | kid
+| bip_39_word_new_line_2 | kid
 sock |  
-| bip_39_word_new_line3 | kid
+| bip_39_word_new_line_3 | kid
 sock
 lounge |  
-| bip_39_word_new_line4 | kid
+| bip_39_word_new_line_4 | kid
 sock
 lounge
 final |  
-| bip_39_word_new_line5 | kid
+| bip_39_word_new_line_5 | kid
 sock
 lounge
 final
 mobile |  
-| bip_39_word_new_line6 | kid
+| bip_39_word_new_line_6 | kid
 sock
 lounge
 final
 mobile
 ignore |  
-| bip_39_word_new_line7 | kid
+| bip_39_word_new_line_7 | kid
 sock
 lounge
 final
 mobile
 ignore
 shove |  
-| bip_39_word_new_line8 | kid
+| bip_39_word_new_line_8 | kid
 sock
 lounge
 final
@@ -113,7 +113,7 @@ mobile
 ignore
 shove
 globe |  
-| bip_39_word_new_line9 | kid
+| bip_39_word_new_line_9 | kid
 sock
 lounge
 final

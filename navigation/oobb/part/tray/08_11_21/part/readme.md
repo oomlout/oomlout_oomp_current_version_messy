@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | argue |  
-| bip_39_word_new_br10 | argue<br>element<br>foam<br>height<br>key<br>wasp<br>fiscal<br>people<br>deal<br>exit |  
-| bip_39_word_new_br11 | argue<br>element<br>foam<br>height<br>key<br>wasp<br>fiscal<br>people<br>deal<br>exit<br>pig |  
-| bip_39_word_new_br12 | argue<br>element<br>foam<br>height<br>key<br>wasp<br>fiscal<br>people<br>deal<br>exit<br>pig<br>average |  
-| bip_39_word_new_br2 | argue<br>element |  
-| bip_39_word_new_br3 | argue<br>element<br>foam |  
-| bip_39_word_new_br4 | argue<br>element<br>foam<br>height |  
-| bip_39_word_new_br5 | argue<br>element<br>foam<br>height<br>key |  
-| bip_39_word_new_br6 | argue<br>element<br>foam<br>height<br>key<br>wasp |  
-| bip_39_word_new_br7 | argue<br>element<br>foam<br>height<br>key<br>wasp<br>fiscal |  
-| bip_39_word_new_br8 | argue<br>element<br>foam<br>height<br>key<br>wasp<br>fiscal<br>people |  
-| bip_39_word_new_br9 | argue<br>element<br>foam<br>height<br>key<br>wasp<br>fiscal<br>people<br>deal |  
-| bip_39_word_new_line1 | argue |  
-| bip_39_word_new_line10 | argue
+| bip_39_word_new_br_1 | argue |  
+| bip_39_word_new_br_10 | argue<br>element<br>foam<br>height<br>key<br>wasp<br>fiscal<br>people<br>deal<br>exit |  
+| bip_39_word_new_br_11 | argue<br>element<br>foam<br>height<br>key<br>wasp<br>fiscal<br>people<br>deal<br>exit<br>pig |  
+| bip_39_word_new_br_12 | argue<br>element<br>foam<br>height<br>key<br>wasp<br>fiscal<br>people<br>deal<br>exit<br>pig<br>average |  
+| bip_39_word_new_br_2 | argue<br>element |  
+| bip_39_word_new_br_3 | argue<br>element<br>foam |  
+| bip_39_word_new_br_4 | argue<br>element<br>foam<br>height |  
+| bip_39_word_new_br_5 | argue<br>element<br>foam<br>height<br>key |  
+| bip_39_word_new_br_6 | argue<br>element<br>foam<br>height<br>key<br>wasp |  
+| bip_39_word_new_br_7 | argue<br>element<br>foam<br>height<br>key<br>wasp<br>fiscal |  
+| bip_39_word_new_br_8 | argue<br>element<br>foam<br>height<br>key<br>wasp<br>fiscal<br>people |  
+| bip_39_word_new_br_9 | argue<br>element<br>foam<br>height<br>key<br>wasp<br>fiscal<br>people<br>deal |  
+| bip_39_word_new_line_1 | argue |  
+| bip_39_word_new_line_10 | argue
 element
 foam
 height
@@ -55,7 +55,7 @@ fiscal
 people
 deal
 exit |  
-| bip_39_word_new_line11 | argue
+| bip_39_word_new_line_11 | argue
 element
 foam
 height
@@ -66,7 +66,7 @@ people
 deal
 exit
 pig |  
-| bip_39_word_new_line12 | argue
+| bip_39_word_new_line_12 | argue
 element
 foam
 height
@@ -78,34 +78,34 @@ deal
 exit
 pig
 average |  
-| bip_39_word_new_line2 | argue
+| bip_39_word_new_line_2 | argue
 element |  
-| bip_39_word_new_line3 | argue
+| bip_39_word_new_line_3 | argue
 element
 foam |  
-| bip_39_word_new_line4 | argue
+| bip_39_word_new_line_4 | argue
 element
 foam
 height |  
-| bip_39_word_new_line5 | argue
+| bip_39_word_new_line_5 | argue
 element
 foam
 height
 key |  
-| bip_39_word_new_line6 | argue
+| bip_39_word_new_line_6 | argue
 element
 foam
 height
 key
 wasp |  
-| bip_39_word_new_line7 | argue
+| bip_39_word_new_line_7 | argue
 element
 foam
 height
 key
 wasp
 fiscal |  
-| bip_39_word_new_line8 | argue
+| bip_39_word_new_line_8 | argue
 element
 foam
 height
@@ -113,7 +113,7 @@ key
 wasp
 fiscal
 people |  
-| bip_39_word_new_line9 | argue
+| bip_39_word_new_line_9 | argue
 element
 foam
 height

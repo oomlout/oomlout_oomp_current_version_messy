@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | damage |  
-| bip_39_word_new_br10 | damage<br>grid<br>tornado<br>unknown<br>resist<br>someone<br>control<br>jealous<br>shuffle<br>coach |  
-| bip_39_word_new_br11 | damage<br>grid<br>tornado<br>unknown<br>resist<br>someone<br>control<br>jealous<br>shuffle<br>coach<br>step |  
-| bip_39_word_new_br12 | damage<br>grid<br>tornado<br>unknown<br>resist<br>someone<br>control<br>jealous<br>shuffle<br>coach<br>step<br>action |  
-| bip_39_word_new_br2 | damage<br>grid |  
-| bip_39_word_new_br3 | damage<br>grid<br>tornado |  
-| bip_39_word_new_br4 | damage<br>grid<br>tornado<br>unknown |  
-| bip_39_word_new_br5 | damage<br>grid<br>tornado<br>unknown<br>resist |  
-| bip_39_word_new_br6 | damage<br>grid<br>tornado<br>unknown<br>resist<br>someone |  
-| bip_39_word_new_br7 | damage<br>grid<br>tornado<br>unknown<br>resist<br>someone<br>control |  
-| bip_39_word_new_br8 | damage<br>grid<br>tornado<br>unknown<br>resist<br>someone<br>control<br>jealous |  
-| bip_39_word_new_br9 | damage<br>grid<br>tornado<br>unknown<br>resist<br>someone<br>control<br>jealous<br>shuffle |  
-| bip_39_word_new_line1 | damage |  
-| bip_39_word_new_line10 | damage
+| bip_39_word_new_br_1 | damage |  
+| bip_39_word_new_br_10 | damage<br>grid<br>tornado<br>unknown<br>resist<br>someone<br>control<br>jealous<br>shuffle<br>coach |  
+| bip_39_word_new_br_11 | damage<br>grid<br>tornado<br>unknown<br>resist<br>someone<br>control<br>jealous<br>shuffle<br>coach<br>step |  
+| bip_39_word_new_br_12 | damage<br>grid<br>tornado<br>unknown<br>resist<br>someone<br>control<br>jealous<br>shuffle<br>coach<br>step<br>action |  
+| bip_39_word_new_br_2 | damage<br>grid |  
+| bip_39_word_new_br_3 | damage<br>grid<br>tornado |  
+| bip_39_word_new_br_4 | damage<br>grid<br>tornado<br>unknown |  
+| bip_39_word_new_br_5 | damage<br>grid<br>tornado<br>unknown<br>resist |  
+| bip_39_word_new_br_6 | damage<br>grid<br>tornado<br>unknown<br>resist<br>someone |  
+| bip_39_word_new_br_7 | damage<br>grid<br>tornado<br>unknown<br>resist<br>someone<br>control |  
+| bip_39_word_new_br_8 | damage<br>grid<br>tornado<br>unknown<br>resist<br>someone<br>control<br>jealous |  
+| bip_39_word_new_br_9 | damage<br>grid<br>tornado<br>unknown<br>resist<br>someone<br>control<br>jealous<br>shuffle |  
+| bip_39_word_new_line_1 | damage |  
+| bip_39_word_new_line_10 | damage
 grid
 tornado
 unknown
@@ -55,7 +55,7 @@ control
 jealous
 shuffle
 coach |  
-| bip_39_word_new_line11 | damage
+| bip_39_word_new_line_11 | damage
 grid
 tornado
 unknown
@@ -66,7 +66,7 @@ jealous
 shuffle
 coach
 step |  
-| bip_39_word_new_line12 | damage
+| bip_39_word_new_line_12 | damage
 grid
 tornado
 unknown
@@ -78,34 +78,34 @@ shuffle
 coach
 step
 action |  
-| bip_39_word_new_line2 | damage
+| bip_39_word_new_line_2 | damage
 grid |  
-| bip_39_word_new_line3 | damage
+| bip_39_word_new_line_3 | damage
 grid
 tornado |  
-| bip_39_word_new_line4 | damage
+| bip_39_word_new_line_4 | damage
 grid
 tornado
 unknown |  
-| bip_39_word_new_line5 | damage
+| bip_39_word_new_line_5 | damage
 grid
 tornado
 unknown
 resist |  
-| bip_39_word_new_line6 | damage
+| bip_39_word_new_line_6 | damage
 grid
 tornado
 unknown
 resist
 someone |  
-| bip_39_word_new_line7 | damage
+| bip_39_word_new_line_7 | damage
 grid
 tornado
 unknown
 resist
 someone
 control |  
-| bip_39_word_new_line8 | damage
+| bip_39_word_new_line_8 | damage
 grid
 tornado
 unknown
@@ -113,7 +113,7 @@ resist
 someone
 control
 jealous |  
-| bip_39_word_new_line9 | damage
+| bip_39_word_new_line_9 | damage
 grid
 tornado
 unknown

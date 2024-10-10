@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mango |  
-| bip_39_word_new_br10 | mango<br>medal<br>funny<br>proud<br>core<br>father<br>fault<br>thrive<br>lift<br>broken |  
-| bip_39_word_new_br11 | mango<br>medal<br>funny<br>proud<br>core<br>father<br>fault<br>thrive<br>lift<br>broken<br>glow |  
-| bip_39_word_new_br12 | mango<br>medal<br>funny<br>proud<br>core<br>father<br>fault<br>thrive<br>lift<br>broken<br>glow<br>able |  
-| bip_39_word_new_br2 | mango<br>medal |  
-| bip_39_word_new_br3 | mango<br>medal<br>funny |  
-| bip_39_word_new_br4 | mango<br>medal<br>funny<br>proud |  
-| bip_39_word_new_br5 | mango<br>medal<br>funny<br>proud<br>core |  
-| bip_39_word_new_br6 | mango<br>medal<br>funny<br>proud<br>core<br>father |  
-| bip_39_word_new_br7 | mango<br>medal<br>funny<br>proud<br>core<br>father<br>fault |  
-| bip_39_word_new_br8 | mango<br>medal<br>funny<br>proud<br>core<br>father<br>fault<br>thrive |  
-| bip_39_word_new_br9 | mango<br>medal<br>funny<br>proud<br>core<br>father<br>fault<br>thrive<br>lift |  
-| bip_39_word_new_line1 | mango |  
-| bip_39_word_new_line10 | mango
+| bip_39_word_new_br_1 | mango |  
+| bip_39_word_new_br_10 | mango<br>medal<br>funny<br>proud<br>core<br>father<br>fault<br>thrive<br>lift<br>broken |  
+| bip_39_word_new_br_11 | mango<br>medal<br>funny<br>proud<br>core<br>father<br>fault<br>thrive<br>lift<br>broken<br>glow |  
+| bip_39_word_new_br_12 | mango<br>medal<br>funny<br>proud<br>core<br>father<br>fault<br>thrive<br>lift<br>broken<br>glow<br>able |  
+| bip_39_word_new_br_2 | mango<br>medal |  
+| bip_39_word_new_br_3 | mango<br>medal<br>funny |  
+| bip_39_word_new_br_4 | mango<br>medal<br>funny<br>proud |  
+| bip_39_word_new_br_5 | mango<br>medal<br>funny<br>proud<br>core |  
+| bip_39_word_new_br_6 | mango<br>medal<br>funny<br>proud<br>core<br>father |  
+| bip_39_word_new_br_7 | mango<br>medal<br>funny<br>proud<br>core<br>father<br>fault |  
+| bip_39_word_new_br_8 | mango<br>medal<br>funny<br>proud<br>core<br>father<br>fault<br>thrive |  
+| bip_39_word_new_br_9 | mango<br>medal<br>funny<br>proud<br>core<br>father<br>fault<br>thrive<br>lift |  
+| bip_39_word_new_line_1 | mango |  
+| bip_39_word_new_line_10 | mango
 medal
 funny
 proud
@@ -55,7 +55,7 @@ fault
 thrive
 lift
 broken |  
-| bip_39_word_new_line11 | mango
+| bip_39_word_new_line_11 | mango
 medal
 funny
 proud
@@ -66,7 +66,7 @@ thrive
 lift
 broken
 glow |  
-| bip_39_word_new_line12 | mango
+| bip_39_word_new_line_12 | mango
 medal
 funny
 proud
@@ -78,34 +78,34 @@ lift
 broken
 glow
 able |  
-| bip_39_word_new_line2 | mango
+| bip_39_word_new_line_2 | mango
 medal |  
-| bip_39_word_new_line3 | mango
+| bip_39_word_new_line_3 | mango
 medal
 funny |  
-| bip_39_word_new_line4 | mango
+| bip_39_word_new_line_4 | mango
 medal
 funny
 proud |  
-| bip_39_word_new_line5 | mango
+| bip_39_word_new_line_5 | mango
 medal
 funny
 proud
 core |  
-| bip_39_word_new_line6 | mango
+| bip_39_word_new_line_6 | mango
 medal
 funny
 proud
 core
 father |  
-| bip_39_word_new_line7 | mango
+| bip_39_word_new_line_7 | mango
 medal
 funny
 proud
 core
 father
 fault |  
-| bip_39_word_new_line8 | mango
+| bip_39_word_new_line_8 | mango
 medal
 funny
 proud
@@ -113,7 +113,7 @@ core
 father
 fault
 thrive |  
-| bip_39_word_new_line9 | mango
+| bip_39_word_new_line_9 | mango
 medal
 funny
 proud

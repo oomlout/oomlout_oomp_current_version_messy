@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | quantum |  
-| bip_39_word_new_br10 | quantum<br>grant<br>palm<br>wear<br>elevator<br>decade<br>flower<br>rely<br>core<br>force |  
-| bip_39_word_new_br11 | quantum<br>grant<br>palm<br>wear<br>elevator<br>decade<br>flower<br>rely<br>core<br>force<br>matter |  
-| bip_39_word_new_br12 | quantum<br>grant<br>palm<br>wear<br>elevator<br>decade<br>flower<br>rely<br>core<br>force<br>matter<br>amazing |  
-| bip_39_word_new_br2 | quantum<br>grant |  
-| bip_39_word_new_br3 | quantum<br>grant<br>palm |  
-| bip_39_word_new_br4 | quantum<br>grant<br>palm<br>wear |  
-| bip_39_word_new_br5 | quantum<br>grant<br>palm<br>wear<br>elevator |  
-| bip_39_word_new_br6 | quantum<br>grant<br>palm<br>wear<br>elevator<br>decade |  
-| bip_39_word_new_br7 | quantum<br>grant<br>palm<br>wear<br>elevator<br>decade<br>flower |  
-| bip_39_word_new_br8 | quantum<br>grant<br>palm<br>wear<br>elevator<br>decade<br>flower<br>rely |  
-| bip_39_word_new_br9 | quantum<br>grant<br>palm<br>wear<br>elevator<br>decade<br>flower<br>rely<br>core |  
-| bip_39_word_new_line1 | quantum |  
-| bip_39_word_new_line10 | quantum
+| bip_39_word_new_br_1 | quantum |  
+| bip_39_word_new_br_10 | quantum<br>grant<br>palm<br>wear<br>elevator<br>decade<br>flower<br>rely<br>core<br>force |  
+| bip_39_word_new_br_11 | quantum<br>grant<br>palm<br>wear<br>elevator<br>decade<br>flower<br>rely<br>core<br>force<br>matter |  
+| bip_39_word_new_br_12 | quantum<br>grant<br>palm<br>wear<br>elevator<br>decade<br>flower<br>rely<br>core<br>force<br>matter<br>amazing |  
+| bip_39_word_new_br_2 | quantum<br>grant |  
+| bip_39_word_new_br_3 | quantum<br>grant<br>palm |  
+| bip_39_word_new_br_4 | quantum<br>grant<br>palm<br>wear |  
+| bip_39_word_new_br_5 | quantum<br>grant<br>palm<br>wear<br>elevator |  
+| bip_39_word_new_br_6 | quantum<br>grant<br>palm<br>wear<br>elevator<br>decade |  
+| bip_39_word_new_br_7 | quantum<br>grant<br>palm<br>wear<br>elevator<br>decade<br>flower |  
+| bip_39_word_new_br_8 | quantum<br>grant<br>palm<br>wear<br>elevator<br>decade<br>flower<br>rely |  
+| bip_39_word_new_br_9 | quantum<br>grant<br>palm<br>wear<br>elevator<br>decade<br>flower<br>rely<br>core |  
+| bip_39_word_new_line_1 | quantum |  
+| bip_39_word_new_line_10 | quantum
 grant
 palm
 wear
@@ -55,7 +55,7 @@ flower
 rely
 core
 force |  
-| bip_39_word_new_line11 | quantum
+| bip_39_word_new_line_11 | quantum
 grant
 palm
 wear
@@ -66,7 +66,7 @@ rely
 core
 force
 matter |  
-| bip_39_word_new_line12 | quantum
+| bip_39_word_new_line_12 | quantum
 grant
 palm
 wear
@@ -78,34 +78,34 @@ core
 force
 matter
 amazing |  
-| bip_39_word_new_line2 | quantum
+| bip_39_word_new_line_2 | quantum
 grant |  
-| bip_39_word_new_line3 | quantum
+| bip_39_word_new_line_3 | quantum
 grant
 palm |  
-| bip_39_word_new_line4 | quantum
+| bip_39_word_new_line_4 | quantum
 grant
 palm
 wear |  
-| bip_39_word_new_line5 | quantum
+| bip_39_word_new_line_5 | quantum
 grant
 palm
 wear
 elevator |  
-| bip_39_word_new_line6 | quantum
+| bip_39_word_new_line_6 | quantum
 grant
 palm
 wear
 elevator
 decade |  
-| bip_39_word_new_line7 | quantum
+| bip_39_word_new_line_7 | quantum
 grant
 palm
 wear
 elevator
 decade
 flower |  
-| bip_39_word_new_line8 | quantum
+| bip_39_word_new_line_8 | quantum
 grant
 palm
 wear
@@ -113,7 +113,7 @@ elevator
 decade
 flower
 rely |  
-| bip_39_word_new_line9 | quantum
+| bip_39_word_new_line_9 | quantum
 grant
 palm
 wear

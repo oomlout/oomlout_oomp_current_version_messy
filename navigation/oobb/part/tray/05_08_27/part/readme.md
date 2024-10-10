@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | combine |  
-| bip_39_word_new_br10 | combine<br>cement<br>lesson<br>tent<br>category<br>jacket<br>crew<br>educate<br>fix<br>retire |  
-| bip_39_word_new_br11 | combine<br>cement<br>lesson<br>tent<br>category<br>jacket<br>crew<br>educate<br>fix<br>retire<br>lock |  
-| bip_39_word_new_br12 | combine<br>cement<br>lesson<br>tent<br>category<br>jacket<br>crew<br>educate<br>fix<br>retire<br>lock<br>account |  
-| bip_39_word_new_br2 | combine<br>cement |  
-| bip_39_word_new_br3 | combine<br>cement<br>lesson |  
-| bip_39_word_new_br4 | combine<br>cement<br>lesson<br>tent |  
-| bip_39_word_new_br5 | combine<br>cement<br>lesson<br>tent<br>category |  
-| bip_39_word_new_br6 | combine<br>cement<br>lesson<br>tent<br>category<br>jacket |  
-| bip_39_word_new_br7 | combine<br>cement<br>lesson<br>tent<br>category<br>jacket<br>crew |  
-| bip_39_word_new_br8 | combine<br>cement<br>lesson<br>tent<br>category<br>jacket<br>crew<br>educate |  
-| bip_39_word_new_br9 | combine<br>cement<br>lesson<br>tent<br>category<br>jacket<br>crew<br>educate<br>fix |  
-| bip_39_word_new_line1 | combine |  
-| bip_39_word_new_line10 | combine
+| bip_39_word_new_br_1 | combine |  
+| bip_39_word_new_br_10 | combine<br>cement<br>lesson<br>tent<br>category<br>jacket<br>crew<br>educate<br>fix<br>retire |  
+| bip_39_word_new_br_11 | combine<br>cement<br>lesson<br>tent<br>category<br>jacket<br>crew<br>educate<br>fix<br>retire<br>lock |  
+| bip_39_word_new_br_12 | combine<br>cement<br>lesson<br>tent<br>category<br>jacket<br>crew<br>educate<br>fix<br>retire<br>lock<br>account |  
+| bip_39_word_new_br_2 | combine<br>cement |  
+| bip_39_word_new_br_3 | combine<br>cement<br>lesson |  
+| bip_39_word_new_br_4 | combine<br>cement<br>lesson<br>tent |  
+| bip_39_word_new_br_5 | combine<br>cement<br>lesson<br>tent<br>category |  
+| bip_39_word_new_br_6 | combine<br>cement<br>lesson<br>tent<br>category<br>jacket |  
+| bip_39_word_new_br_7 | combine<br>cement<br>lesson<br>tent<br>category<br>jacket<br>crew |  
+| bip_39_word_new_br_8 | combine<br>cement<br>lesson<br>tent<br>category<br>jacket<br>crew<br>educate |  
+| bip_39_word_new_br_9 | combine<br>cement<br>lesson<br>tent<br>category<br>jacket<br>crew<br>educate<br>fix |  
+| bip_39_word_new_line_1 | combine |  
+| bip_39_word_new_line_10 | combine
 cement
 lesson
 tent
@@ -55,7 +55,7 @@ crew
 educate
 fix
 retire |  
-| bip_39_word_new_line11 | combine
+| bip_39_word_new_line_11 | combine
 cement
 lesson
 tent
@@ -66,7 +66,7 @@ educate
 fix
 retire
 lock |  
-| bip_39_word_new_line12 | combine
+| bip_39_word_new_line_12 | combine
 cement
 lesson
 tent
@@ -78,34 +78,34 @@ fix
 retire
 lock
 account |  
-| bip_39_word_new_line2 | combine
+| bip_39_word_new_line_2 | combine
 cement |  
-| bip_39_word_new_line3 | combine
+| bip_39_word_new_line_3 | combine
 cement
 lesson |  
-| bip_39_word_new_line4 | combine
+| bip_39_word_new_line_4 | combine
 cement
 lesson
 tent |  
-| bip_39_word_new_line5 | combine
+| bip_39_word_new_line_5 | combine
 cement
 lesson
 tent
 category |  
-| bip_39_word_new_line6 | combine
+| bip_39_word_new_line_6 | combine
 cement
 lesson
 tent
 category
 jacket |  
-| bip_39_word_new_line7 | combine
+| bip_39_word_new_line_7 | combine
 cement
 lesson
 tent
 category
 jacket
 crew |  
-| bip_39_word_new_line8 | combine
+| bip_39_word_new_line_8 | combine
 cement
 lesson
 tent
@@ -113,7 +113,7 @@ category
 jacket
 crew
 educate |  
-| bip_39_word_new_line9 | combine
+| bip_39_word_new_line_9 | combine
 cement
 lesson
 tent

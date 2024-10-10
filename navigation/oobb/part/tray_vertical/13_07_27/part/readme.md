@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | twin |  
-| bip_39_word_new_br10 | twin<br>panther<br>mixture<br>apology<br>bench<br>share<br>action<br>cloth<br>woman<br>spawn |  
-| bip_39_word_new_br11 | twin<br>panther<br>mixture<br>apology<br>bench<br>share<br>action<br>cloth<br>woman<br>spawn<br>course |  
-| bip_39_word_new_br12 | twin<br>panther<br>mixture<br>apology<br>bench<br>share<br>action<br>cloth<br>woman<br>spawn<br>course<br>arrow |  
-| bip_39_word_new_br2 | twin<br>panther |  
-| bip_39_word_new_br3 | twin<br>panther<br>mixture |  
-| bip_39_word_new_br4 | twin<br>panther<br>mixture<br>apology |  
-| bip_39_word_new_br5 | twin<br>panther<br>mixture<br>apology<br>bench |  
-| bip_39_word_new_br6 | twin<br>panther<br>mixture<br>apology<br>bench<br>share |  
-| bip_39_word_new_br7 | twin<br>panther<br>mixture<br>apology<br>bench<br>share<br>action |  
-| bip_39_word_new_br8 | twin<br>panther<br>mixture<br>apology<br>bench<br>share<br>action<br>cloth |  
-| bip_39_word_new_br9 | twin<br>panther<br>mixture<br>apology<br>bench<br>share<br>action<br>cloth<br>woman |  
-| bip_39_word_new_line1 | twin |  
-| bip_39_word_new_line10 | twin
+| bip_39_word_new_br_1 | twin |  
+| bip_39_word_new_br_10 | twin<br>panther<br>mixture<br>apology<br>bench<br>share<br>action<br>cloth<br>woman<br>spawn |  
+| bip_39_word_new_br_11 | twin<br>panther<br>mixture<br>apology<br>bench<br>share<br>action<br>cloth<br>woman<br>spawn<br>course |  
+| bip_39_word_new_br_12 | twin<br>panther<br>mixture<br>apology<br>bench<br>share<br>action<br>cloth<br>woman<br>spawn<br>course<br>arrow |  
+| bip_39_word_new_br_2 | twin<br>panther |  
+| bip_39_word_new_br_3 | twin<br>panther<br>mixture |  
+| bip_39_word_new_br_4 | twin<br>panther<br>mixture<br>apology |  
+| bip_39_word_new_br_5 | twin<br>panther<br>mixture<br>apology<br>bench |  
+| bip_39_word_new_br_6 | twin<br>panther<br>mixture<br>apology<br>bench<br>share |  
+| bip_39_word_new_br_7 | twin<br>panther<br>mixture<br>apology<br>bench<br>share<br>action |  
+| bip_39_word_new_br_8 | twin<br>panther<br>mixture<br>apology<br>bench<br>share<br>action<br>cloth |  
+| bip_39_word_new_br_9 | twin<br>panther<br>mixture<br>apology<br>bench<br>share<br>action<br>cloth<br>woman |  
+| bip_39_word_new_line_1 | twin |  
+| bip_39_word_new_line_10 | twin
 panther
 mixture
 apology
@@ -55,7 +55,7 @@ action
 cloth
 woman
 spawn |  
-| bip_39_word_new_line11 | twin
+| bip_39_word_new_line_11 | twin
 panther
 mixture
 apology
@@ -66,7 +66,7 @@ cloth
 woman
 spawn
 course |  
-| bip_39_word_new_line12 | twin
+| bip_39_word_new_line_12 | twin
 panther
 mixture
 apology
@@ -78,34 +78,34 @@ woman
 spawn
 course
 arrow |  
-| bip_39_word_new_line2 | twin
+| bip_39_word_new_line_2 | twin
 panther |  
-| bip_39_word_new_line3 | twin
+| bip_39_word_new_line_3 | twin
 panther
 mixture |  
-| bip_39_word_new_line4 | twin
+| bip_39_word_new_line_4 | twin
 panther
 mixture
 apology |  
-| bip_39_word_new_line5 | twin
+| bip_39_word_new_line_5 | twin
 panther
 mixture
 apology
 bench |  
-| bip_39_word_new_line6 | twin
+| bip_39_word_new_line_6 | twin
 panther
 mixture
 apology
 bench
 share |  
-| bip_39_word_new_line7 | twin
+| bip_39_word_new_line_7 | twin
 panther
 mixture
 apology
 bench
 share
 action |  
-| bip_39_word_new_line8 | twin
+| bip_39_word_new_line_8 | twin
 panther
 mixture
 apology
@@ -113,7 +113,7 @@ bench
 share
 action
 cloth |  
-| bip_39_word_new_line9 | twin
+| bip_39_word_new_line_9 | twin
 panther
 mixture
 apology

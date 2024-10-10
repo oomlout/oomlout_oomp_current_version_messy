@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | report |  
-| bip_39_word_new_br10 | report<br>armed<br>soda<br>figure<br>use<br>shift<br>use<br>next<br>dignity<br>extra |  
-| bip_39_word_new_br11 | report<br>armed<br>soda<br>figure<br>use<br>shift<br>use<br>next<br>dignity<br>extra<br>leisure |  
-| bip_39_word_new_br12 | report<br>armed<br>soda<br>figure<br>use<br>shift<br>use<br>next<br>dignity<br>extra<br>leisure<br>arch |  
-| bip_39_word_new_br2 | report<br>armed |  
-| bip_39_word_new_br3 | report<br>armed<br>soda |  
-| bip_39_word_new_br4 | report<br>armed<br>soda<br>figure |  
-| bip_39_word_new_br5 | report<br>armed<br>soda<br>figure<br>use |  
-| bip_39_word_new_br6 | report<br>armed<br>soda<br>figure<br>use<br>shift |  
-| bip_39_word_new_br7 | report<br>armed<br>soda<br>figure<br>use<br>shift<br>use |  
-| bip_39_word_new_br8 | report<br>armed<br>soda<br>figure<br>use<br>shift<br>use<br>next |  
-| bip_39_word_new_br9 | report<br>armed<br>soda<br>figure<br>use<br>shift<br>use<br>next<br>dignity |  
-| bip_39_word_new_line1 | report |  
-| bip_39_word_new_line10 | report
+| bip_39_word_new_br_1 | report |  
+| bip_39_word_new_br_10 | report<br>armed<br>soda<br>figure<br>use<br>shift<br>use<br>next<br>dignity<br>extra |  
+| bip_39_word_new_br_11 | report<br>armed<br>soda<br>figure<br>use<br>shift<br>use<br>next<br>dignity<br>extra<br>leisure |  
+| bip_39_word_new_br_12 | report<br>armed<br>soda<br>figure<br>use<br>shift<br>use<br>next<br>dignity<br>extra<br>leisure<br>arch |  
+| bip_39_word_new_br_2 | report<br>armed |  
+| bip_39_word_new_br_3 | report<br>armed<br>soda |  
+| bip_39_word_new_br_4 | report<br>armed<br>soda<br>figure |  
+| bip_39_word_new_br_5 | report<br>armed<br>soda<br>figure<br>use |  
+| bip_39_word_new_br_6 | report<br>armed<br>soda<br>figure<br>use<br>shift |  
+| bip_39_word_new_br_7 | report<br>armed<br>soda<br>figure<br>use<br>shift<br>use |  
+| bip_39_word_new_br_8 | report<br>armed<br>soda<br>figure<br>use<br>shift<br>use<br>next |  
+| bip_39_word_new_br_9 | report<br>armed<br>soda<br>figure<br>use<br>shift<br>use<br>next<br>dignity |  
+| bip_39_word_new_line_1 | report |  
+| bip_39_word_new_line_10 | report
 armed
 soda
 figure
@@ -55,7 +55,7 @@ use
 next
 dignity
 extra |  
-| bip_39_word_new_line11 | report
+| bip_39_word_new_line_11 | report
 armed
 soda
 figure
@@ -66,7 +66,7 @@ next
 dignity
 extra
 leisure |  
-| bip_39_word_new_line12 | report
+| bip_39_word_new_line_12 | report
 armed
 soda
 figure
@@ -78,34 +78,34 @@ dignity
 extra
 leisure
 arch |  
-| bip_39_word_new_line2 | report
+| bip_39_word_new_line_2 | report
 armed |  
-| bip_39_word_new_line3 | report
+| bip_39_word_new_line_3 | report
 armed
 soda |  
-| bip_39_word_new_line4 | report
+| bip_39_word_new_line_4 | report
 armed
 soda
 figure |  
-| bip_39_word_new_line5 | report
+| bip_39_word_new_line_5 | report
 armed
 soda
 figure
 use |  
-| bip_39_word_new_line6 | report
+| bip_39_word_new_line_6 | report
 armed
 soda
 figure
 use
 shift |  
-| bip_39_word_new_line7 | report
+| bip_39_word_new_line_7 | report
 armed
 soda
 figure
 use
 shift
 use |  
-| bip_39_word_new_line8 | report
+| bip_39_word_new_line_8 | report
 armed
 soda
 figure
@@ -113,7 +113,7 @@ use
 shift
 use
 next |  
-| bip_39_word_new_line9 | report
+| bip_39_word_new_line_9 | report
 armed
 soda
 figure

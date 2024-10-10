@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | spin |  
-| bip_39_word_new_br10 | spin<br>wagon<br>live<br>tube<br>frame<br>inmate<br>second<br>matter<br>flag<br>picnic |  
-| bip_39_word_new_br11 | spin<br>wagon<br>live<br>tube<br>frame<br>inmate<br>second<br>matter<br>flag<br>picnic<br>sell |  
-| bip_39_word_new_br12 | spin<br>wagon<br>live<br>tube<br>frame<br>inmate<br>second<br>matter<br>flag<br>picnic<br>sell<br>arrange |  
-| bip_39_word_new_br2 | spin<br>wagon |  
-| bip_39_word_new_br3 | spin<br>wagon<br>live |  
-| bip_39_word_new_br4 | spin<br>wagon<br>live<br>tube |  
-| bip_39_word_new_br5 | spin<br>wagon<br>live<br>tube<br>frame |  
-| bip_39_word_new_br6 | spin<br>wagon<br>live<br>tube<br>frame<br>inmate |  
-| bip_39_word_new_br7 | spin<br>wagon<br>live<br>tube<br>frame<br>inmate<br>second |  
-| bip_39_word_new_br8 | spin<br>wagon<br>live<br>tube<br>frame<br>inmate<br>second<br>matter |  
-| bip_39_word_new_br9 | spin<br>wagon<br>live<br>tube<br>frame<br>inmate<br>second<br>matter<br>flag |  
-| bip_39_word_new_line1 | spin |  
-| bip_39_word_new_line10 | spin
+| bip_39_word_new_br_1 | spin |  
+| bip_39_word_new_br_10 | spin<br>wagon<br>live<br>tube<br>frame<br>inmate<br>second<br>matter<br>flag<br>picnic |  
+| bip_39_word_new_br_11 | spin<br>wagon<br>live<br>tube<br>frame<br>inmate<br>second<br>matter<br>flag<br>picnic<br>sell |  
+| bip_39_word_new_br_12 | spin<br>wagon<br>live<br>tube<br>frame<br>inmate<br>second<br>matter<br>flag<br>picnic<br>sell<br>arrange |  
+| bip_39_word_new_br_2 | spin<br>wagon |  
+| bip_39_word_new_br_3 | spin<br>wagon<br>live |  
+| bip_39_word_new_br_4 | spin<br>wagon<br>live<br>tube |  
+| bip_39_word_new_br_5 | spin<br>wagon<br>live<br>tube<br>frame |  
+| bip_39_word_new_br_6 | spin<br>wagon<br>live<br>tube<br>frame<br>inmate |  
+| bip_39_word_new_br_7 | spin<br>wagon<br>live<br>tube<br>frame<br>inmate<br>second |  
+| bip_39_word_new_br_8 | spin<br>wagon<br>live<br>tube<br>frame<br>inmate<br>second<br>matter |  
+| bip_39_word_new_br_9 | spin<br>wagon<br>live<br>tube<br>frame<br>inmate<br>second<br>matter<br>flag |  
+| bip_39_word_new_line_1 | spin |  
+| bip_39_word_new_line_10 | spin
 wagon
 live
 tube
@@ -55,7 +55,7 @@ second
 matter
 flag
 picnic |  
-| bip_39_word_new_line11 | spin
+| bip_39_word_new_line_11 | spin
 wagon
 live
 tube
@@ -66,7 +66,7 @@ matter
 flag
 picnic
 sell |  
-| bip_39_word_new_line12 | spin
+| bip_39_word_new_line_12 | spin
 wagon
 live
 tube
@@ -78,34 +78,34 @@ flag
 picnic
 sell
 arrange |  
-| bip_39_word_new_line2 | spin
+| bip_39_word_new_line_2 | spin
 wagon |  
-| bip_39_word_new_line3 | spin
+| bip_39_word_new_line_3 | spin
 wagon
 live |  
-| bip_39_word_new_line4 | spin
+| bip_39_word_new_line_4 | spin
 wagon
 live
 tube |  
-| bip_39_word_new_line5 | spin
+| bip_39_word_new_line_5 | spin
 wagon
 live
 tube
 frame |  
-| bip_39_word_new_line6 | spin
+| bip_39_word_new_line_6 | spin
 wagon
 live
 tube
 frame
 inmate |  
-| bip_39_word_new_line7 | spin
+| bip_39_word_new_line_7 | spin
 wagon
 live
 tube
 frame
 inmate
 second |  
-| bip_39_word_new_line8 | spin
+| bip_39_word_new_line_8 | spin
 wagon
 live
 tube
@@ -113,7 +113,7 @@ frame
 inmate
 second
 matter |  
-| bip_39_word_new_line9 | spin
+| bip_39_word_new_line_9 | spin
 wagon
 live
 tube

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | calm |  
-| bip_39_word_new_br10 | calm<br>winter<br>level<br>tube<br>sadness<br>gauge<br>boost<br>dwarf<br>milk<br>tower |  
-| bip_39_word_new_br11 | calm<br>winter<br>level<br>tube<br>sadness<br>gauge<br>boost<br>dwarf<br>milk<br>tower<br>imitate |  
-| bip_39_word_new_br12 | calm<br>winter<br>level<br>tube<br>sadness<br>gauge<br>boost<br>dwarf<br>milk<br>tower<br>imitate<br>acquire |  
-| bip_39_word_new_br2 | calm<br>winter |  
-| bip_39_word_new_br3 | calm<br>winter<br>level |  
-| bip_39_word_new_br4 | calm<br>winter<br>level<br>tube |  
-| bip_39_word_new_br5 | calm<br>winter<br>level<br>tube<br>sadness |  
-| bip_39_word_new_br6 | calm<br>winter<br>level<br>tube<br>sadness<br>gauge |  
-| bip_39_word_new_br7 | calm<br>winter<br>level<br>tube<br>sadness<br>gauge<br>boost |  
-| bip_39_word_new_br8 | calm<br>winter<br>level<br>tube<br>sadness<br>gauge<br>boost<br>dwarf |  
-| bip_39_word_new_br9 | calm<br>winter<br>level<br>tube<br>sadness<br>gauge<br>boost<br>dwarf<br>milk |  
-| bip_39_word_new_line1 | calm |  
-| bip_39_word_new_line10 | calm
+| bip_39_word_new_br_1 | calm |  
+| bip_39_word_new_br_10 | calm<br>winter<br>level<br>tube<br>sadness<br>gauge<br>boost<br>dwarf<br>milk<br>tower |  
+| bip_39_word_new_br_11 | calm<br>winter<br>level<br>tube<br>sadness<br>gauge<br>boost<br>dwarf<br>milk<br>tower<br>imitate |  
+| bip_39_word_new_br_12 | calm<br>winter<br>level<br>tube<br>sadness<br>gauge<br>boost<br>dwarf<br>milk<br>tower<br>imitate<br>acquire |  
+| bip_39_word_new_br_2 | calm<br>winter |  
+| bip_39_word_new_br_3 | calm<br>winter<br>level |  
+| bip_39_word_new_br_4 | calm<br>winter<br>level<br>tube |  
+| bip_39_word_new_br_5 | calm<br>winter<br>level<br>tube<br>sadness |  
+| bip_39_word_new_br_6 | calm<br>winter<br>level<br>tube<br>sadness<br>gauge |  
+| bip_39_word_new_br_7 | calm<br>winter<br>level<br>tube<br>sadness<br>gauge<br>boost |  
+| bip_39_word_new_br_8 | calm<br>winter<br>level<br>tube<br>sadness<br>gauge<br>boost<br>dwarf |  
+| bip_39_word_new_br_9 | calm<br>winter<br>level<br>tube<br>sadness<br>gauge<br>boost<br>dwarf<br>milk |  
+| bip_39_word_new_line_1 | calm |  
+| bip_39_word_new_line_10 | calm
 winter
 level
 tube
@@ -55,7 +55,7 @@ boost
 dwarf
 milk
 tower |  
-| bip_39_word_new_line11 | calm
+| bip_39_word_new_line_11 | calm
 winter
 level
 tube
@@ -66,7 +66,7 @@ dwarf
 milk
 tower
 imitate |  
-| bip_39_word_new_line12 | calm
+| bip_39_word_new_line_12 | calm
 winter
 level
 tube
@@ -78,34 +78,34 @@ milk
 tower
 imitate
 acquire |  
-| bip_39_word_new_line2 | calm
+| bip_39_word_new_line_2 | calm
 winter |  
-| bip_39_word_new_line3 | calm
+| bip_39_word_new_line_3 | calm
 winter
 level |  
-| bip_39_word_new_line4 | calm
+| bip_39_word_new_line_4 | calm
 winter
 level
 tube |  
-| bip_39_word_new_line5 | calm
+| bip_39_word_new_line_5 | calm
 winter
 level
 tube
 sadness |  
-| bip_39_word_new_line6 | calm
+| bip_39_word_new_line_6 | calm
 winter
 level
 tube
 sadness
 gauge |  
-| bip_39_word_new_line7 | calm
+| bip_39_word_new_line_7 | calm
 winter
 level
 tube
 sadness
 gauge
 boost |  
-| bip_39_word_new_line8 | calm
+| bip_39_word_new_line_8 | calm
 winter
 level
 tube
@@ -113,7 +113,7 @@ sadness
 gauge
 boost
 dwarf |  
-| bip_39_word_new_line9 | calm
+| bip_39_word_new_line_9 | calm
 winter
 level
 tube

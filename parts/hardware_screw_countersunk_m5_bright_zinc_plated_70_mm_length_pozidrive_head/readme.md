@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | legend |  
-| bip_39_word_new_br10 | legend<br>faculty<br>action<br>light<br>bleak<br>nature<br>breeze<br>magnet<br>more<br>excess |  
-| bip_39_word_new_br11 | legend<br>faculty<br>action<br>light<br>bleak<br>nature<br>breeze<br>magnet<br>more<br>excess<br>kiss |  
-| bip_39_word_new_br12 | legend<br>faculty<br>action<br>light<br>bleak<br>nature<br>breeze<br>magnet<br>more<br>excess<br>kiss<br>album |  
-| bip_39_word_new_br2 | legend<br>faculty |  
-| bip_39_word_new_br3 | legend<br>faculty<br>action |  
-| bip_39_word_new_br4 | legend<br>faculty<br>action<br>light |  
-| bip_39_word_new_br5 | legend<br>faculty<br>action<br>light<br>bleak |  
-| bip_39_word_new_br6 | legend<br>faculty<br>action<br>light<br>bleak<br>nature |  
-| bip_39_word_new_br7 | legend<br>faculty<br>action<br>light<br>bleak<br>nature<br>breeze |  
-| bip_39_word_new_br8 | legend<br>faculty<br>action<br>light<br>bleak<br>nature<br>breeze<br>magnet |  
-| bip_39_word_new_br9 | legend<br>faculty<br>action<br>light<br>bleak<br>nature<br>breeze<br>magnet<br>more |  
-| bip_39_word_new_line1 | legend |  
-| bip_39_word_new_line10 | legend
+| bip_39_word_new_br_1 | legend |  
+| bip_39_word_new_br_10 | legend<br>faculty<br>action<br>light<br>bleak<br>nature<br>breeze<br>magnet<br>more<br>excess |  
+| bip_39_word_new_br_11 | legend<br>faculty<br>action<br>light<br>bleak<br>nature<br>breeze<br>magnet<br>more<br>excess<br>kiss |  
+| bip_39_word_new_br_12 | legend<br>faculty<br>action<br>light<br>bleak<br>nature<br>breeze<br>magnet<br>more<br>excess<br>kiss<br>album |  
+| bip_39_word_new_br_2 | legend<br>faculty |  
+| bip_39_word_new_br_3 | legend<br>faculty<br>action |  
+| bip_39_word_new_br_4 | legend<br>faculty<br>action<br>light |  
+| bip_39_word_new_br_5 | legend<br>faculty<br>action<br>light<br>bleak |  
+| bip_39_word_new_br_6 | legend<br>faculty<br>action<br>light<br>bleak<br>nature |  
+| bip_39_word_new_br_7 | legend<br>faculty<br>action<br>light<br>bleak<br>nature<br>breeze |  
+| bip_39_word_new_br_8 | legend<br>faculty<br>action<br>light<br>bleak<br>nature<br>breeze<br>magnet |  
+| bip_39_word_new_br_9 | legend<br>faculty<br>action<br>light<br>bleak<br>nature<br>breeze<br>magnet<br>more |  
+| bip_39_word_new_line_1 | legend |  
+| bip_39_word_new_line_10 | legend
 faculty
 action
 light
@@ -55,7 +55,7 @@ breeze
 magnet
 more
 excess |  
-| bip_39_word_new_line11 | legend
+| bip_39_word_new_line_11 | legend
 faculty
 action
 light
@@ -66,7 +66,7 @@ magnet
 more
 excess
 kiss |  
-| bip_39_word_new_line12 | legend
+| bip_39_word_new_line_12 | legend
 faculty
 action
 light
@@ -78,34 +78,34 @@ more
 excess
 kiss
 album |  
-| bip_39_word_new_line2 | legend
+| bip_39_word_new_line_2 | legend
 faculty |  
-| bip_39_word_new_line3 | legend
+| bip_39_word_new_line_3 | legend
 faculty
 action |  
-| bip_39_word_new_line4 | legend
+| bip_39_word_new_line_4 | legend
 faculty
 action
 light |  
-| bip_39_word_new_line5 | legend
+| bip_39_word_new_line_5 | legend
 faculty
 action
 light
 bleak |  
-| bip_39_word_new_line6 | legend
+| bip_39_word_new_line_6 | legend
 faculty
 action
 light
 bleak
 nature |  
-| bip_39_word_new_line7 | legend
+| bip_39_word_new_line_7 | legend
 faculty
 action
 light
 bleak
 nature
 breeze |  
-| bip_39_word_new_line8 | legend
+| bip_39_word_new_line_8 | legend
 faculty
 action
 light
@@ -113,7 +113,7 @@ bleak
 nature
 breeze
 magnet |  
-| bip_39_word_new_line9 | legend
+| bip_39_word_new_line_9 | legend
 faculty
 action
 light

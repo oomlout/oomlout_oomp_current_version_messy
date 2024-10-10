@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | neither |  
-| bip_39_word_new_br10 | neither<br>bottom<br>camera<br>wear<br>cousin<br>whisper<br>culture<br>hidden<br>ghost<br>horse |  
-| bip_39_word_new_br11 | neither<br>bottom<br>camera<br>wear<br>cousin<br>whisper<br>culture<br>hidden<br>ghost<br>horse<br>tube |  
-| bip_39_word_new_br12 | neither<br>bottom<br>camera<br>wear<br>cousin<br>whisper<br>culture<br>hidden<br>ghost<br>horse<br>tube<br>allow |  
-| bip_39_word_new_br2 | neither<br>bottom |  
-| bip_39_word_new_br3 | neither<br>bottom<br>camera |  
-| bip_39_word_new_br4 | neither<br>bottom<br>camera<br>wear |  
-| bip_39_word_new_br5 | neither<br>bottom<br>camera<br>wear<br>cousin |  
-| bip_39_word_new_br6 | neither<br>bottom<br>camera<br>wear<br>cousin<br>whisper |  
-| bip_39_word_new_br7 | neither<br>bottom<br>camera<br>wear<br>cousin<br>whisper<br>culture |  
-| bip_39_word_new_br8 | neither<br>bottom<br>camera<br>wear<br>cousin<br>whisper<br>culture<br>hidden |  
-| bip_39_word_new_br9 | neither<br>bottom<br>camera<br>wear<br>cousin<br>whisper<br>culture<br>hidden<br>ghost |  
-| bip_39_word_new_line1 | neither |  
-| bip_39_word_new_line10 | neither
+| bip_39_word_new_br_1 | neither |  
+| bip_39_word_new_br_10 | neither<br>bottom<br>camera<br>wear<br>cousin<br>whisper<br>culture<br>hidden<br>ghost<br>horse |  
+| bip_39_word_new_br_11 | neither<br>bottom<br>camera<br>wear<br>cousin<br>whisper<br>culture<br>hidden<br>ghost<br>horse<br>tube |  
+| bip_39_word_new_br_12 | neither<br>bottom<br>camera<br>wear<br>cousin<br>whisper<br>culture<br>hidden<br>ghost<br>horse<br>tube<br>allow |  
+| bip_39_word_new_br_2 | neither<br>bottom |  
+| bip_39_word_new_br_3 | neither<br>bottom<br>camera |  
+| bip_39_word_new_br_4 | neither<br>bottom<br>camera<br>wear |  
+| bip_39_word_new_br_5 | neither<br>bottom<br>camera<br>wear<br>cousin |  
+| bip_39_word_new_br_6 | neither<br>bottom<br>camera<br>wear<br>cousin<br>whisper |  
+| bip_39_word_new_br_7 | neither<br>bottom<br>camera<br>wear<br>cousin<br>whisper<br>culture |  
+| bip_39_word_new_br_8 | neither<br>bottom<br>camera<br>wear<br>cousin<br>whisper<br>culture<br>hidden |  
+| bip_39_word_new_br_9 | neither<br>bottom<br>camera<br>wear<br>cousin<br>whisper<br>culture<br>hidden<br>ghost |  
+| bip_39_word_new_line_1 | neither |  
+| bip_39_word_new_line_10 | neither
 bottom
 camera
 wear
@@ -55,7 +55,7 @@ culture
 hidden
 ghost
 horse |  
-| bip_39_word_new_line11 | neither
+| bip_39_word_new_line_11 | neither
 bottom
 camera
 wear
@@ -66,7 +66,7 @@ hidden
 ghost
 horse
 tube |  
-| bip_39_word_new_line12 | neither
+| bip_39_word_new_line_12 | neither
 bottom
 camera
 wear
@@ -78,34 +78,34 @@ ghost
 horse
 tube
 allow |  
-| bip_39_word_new_line2 | neither
+| bip_39_word_new_line_2 | neither
 bottom |  
-| bip_39_word_new_line3 | neither
+| bip_39_word_new_line_3 | neither
 bottom
 camera |  
-| bip_39_word_new_line4 | neither
+| bip_39_word_new_line_4 | neither
 bottom
 camera
 wear |  
-| bip_39_word_new_line5 | neither
+| bip_39_word_new_line_5 | neither
 bottom
 camera
 wear
 cousin |  
-| bip_39_word_new_line6 | neither
+| bip_39_word_new_line_6 | neither
 bottom
 camera
 wear
 cousin
 whisper |  
-| bip_39_word_new_line7 | neither
+| bip_39_word_new_line_7 | neither
 bottom
 camera
 wear
 cousin
 whisper
 culture |  
-| bip_39_word_new_line8 | neither
+| bip_39_word_new_line_8 | neither
 bottom
 camera
 wear
@@ -113,7 +113,7 @@ cousin
 whisper
 culture
 hidden |  
-| bip_39_word_new_line9 | neither
+| bip_39_word_new_line_9 | neither
 bottom
 camera
 wear

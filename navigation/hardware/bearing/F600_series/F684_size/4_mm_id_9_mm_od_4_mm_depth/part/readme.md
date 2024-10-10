@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | prize |  
-| bip_39_word_new_br10 | prize<br>donkey<br>scrub<br>media<br>degree<br>manage<br>borrow<br>series<br>repeat<br>conduct |  
-| bip_39_word_new_br11 | prize<br>donkey<br>scrub<br>media<br>degree<br>manage<br>borrow<br>series<br>repeat<br>conduct<br>couple |  
-| bip_39_word_new_br12 | prize<br>donkey<br>scrub<br>media<br>degree<br>manage<br>borrow<br>series<br>repeat<br>conduct<br>couple<br>amused |  
-| bip_39_word_new_br2 | prize<br>donkey |  
-| bip_39_word_new_br3 | prize<br>donkey<br>scrub |  
-| bip_39_word_new_br4 | prize<br>donkey<br>scrub<br>media |  
-| bip_39_word_new_br5 | prize<br>donkey<br>scrub<br>media<br>degree |  
-| bip_39_word_new_br6 | prize<br>donkey<br>scrub<br>media<br>degree<br>manage |  
-| bip_39_word_new_br7 | prize<br>donkey<br>scrub<br>media<br>degree<br>manage<br>borrow |  
-| bip_39_word_new_br8 | prize<br>donkey<br>scrub<br>media<br>degree<br>manage<br>borrow<br>series |  
-| bip_39_word_new_br9 | prize<br>donkey<br>scrub<br>media<br>degree<br>manage<br>borrow<br>series<br>repeat |  
-| bip_39_word_new_line1 | prize |  
-| bip_39_word_new_line10 | prize
+| bip_39_word_new_br_1 | prize |  
+| bip_39_word_new_br_10 | prize<br>donkey<br>scrub<br>media<br>degree<br>manage<br>borrow<br>series<br>repeat<br>conduct |  
+| bip_39_word_new_br_11 | prize<br>donkey<br>scrub<br>media<br>degree<br>manage<br>borrow<br>series<br>repeat<br>conduct<br>couple |  
+| bip_39_word_new_br_12 | prize<br>donkey<br>scrub<br>media<br>degree<br>manage<br>borrow<br>series<br>repeat<br>conduct<br>couple<br>amused |  
+| bip_39_word_new_br_2 | prize<br>donkey |  
+| bip_39_word_new_br_3 | prize<br>donkey<br>scrub |  
+| bip_39_word_new_br_4 | prize<br>donkey<br>scrub<br>media |  
+| bip_39_word_new_br_5 | prize<br>donkey<br>scrub<br>media<br>degree |  
+| bip_39_word_new_br_6 | prize<br>donkey<br>scrub<br>media<br>degree<br>manage |  
+| bip_39_word_new_br_7 | prize<br>donkey<br>scrub<br>media<br>degree<br>manage<br>borrow |  
+| bip_39_word_new_br_8 | prize<br>donkey<br>scrub<br>media<br>degree<br>manage<br>borrow<br>series |  
+| bip_39_word_new_br_9 | prize<br>donkey<br>scrub<br>media<br>degree<br>manage<br>borrow<br>series<br>repeat |  
+| bip_39_word_new_line_1 | prize |  
+| bip_39_word_new_line_10 | prize
 donkey
 scrub
 media
@@ -55,7 +55,7 @@ borrow
 series
 repeat
 conduct |  
-| bip_39_word_new_line11 | prize
+| bip_39_word_new_line_11 | prize
 donkey
 scrub
 media
@@ -66,7 +66,7 @@ series
 repeat
 conduct
 couple |  
-| bip_39_word_new_line12 | prize
+| bip_39_word_new_line_12 | prize
 donkey
 scrub
 media
@@ -78,34 +78,34 @@ repeat
 conduct
 couple
 amused |  
-| bip_39_word_new_line2 | prize
+| bip_39_word_new_line_2 | prize
 donkey |  
-| bip_39_word_new_line3 | prize
+| bip_39_word_new_line_3 | prize
 donkey
 scrub |  
-| bip_39_word_new_line4 | prize
+| bip_39_word_new_line_4 | prize
 donkey
 scrub
 media |  
-| bip_39_word_new_line5 | prize
+| bip_39_word_new_line_5 | prize
 donkey
 scrub
 media
 degree |  
-| bip_39_word_new_line6 | prize
+| bip_39_word_new_line_6 | prize
 donkey
 scrub
 media
 degree
 manage |  
-| bip_39_word_new_line7 | prize
+| bip_39_word_new_line_7 | prize
 donkey
 scrub
 media
 degree
 manage
 borrow |  
-| bip_39_word_new_line8 | prize
+| bip_39_word_new_line_8 | prize
 donkey
 scrub
 media
@@ -113,7 +113,7 @@ degree
 manage
 borrow
 series |  
-| bip_39_word_new_line9 | prize
+| bip_39_word_new_line_9 | prize
 donkey
 scrub
 media

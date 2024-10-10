@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | profit |  
-| bip_39_word_new_br10 | profit<br>umbrella<br>auto<br>disease<br>label<br>struggle<br>attitude<br>twelve<br>spring<br>sound |  
-| bip_39_word_new_br11 | profit<br>umbrella<br>auto<br>disease<br>label<br>struggle<br>attitude<br>twelve<br>spring<br>sound<br>soup |  
-| bip_39_word_new_br12 | profit<br>umbrella<br>auto<br>disease<br>label<br>struggle<br>attitude<br>twelve<br>spring<br>sound<br>soup<br>arch |  
-| bip_39_word_new_br2 | profit<br>umbrella |  
-| bip_39_word_new_br3 | profit<br>umbrella<br>auto |  
-| bip_39_word_new_br4 | profit<br>umbrella<br>auto<br>disease |  
-| bip_39_word_new_br5 | profit<br>umbrella<br>auto<br>disease<br>label |  
-| bip_39_word_new_br6 | profit<br>umbrella<br>auto<br>disease<br>label<br>struggle |  
-| bip_39_word_new_br7 | profit<br>umbrella<br>auto<br>disease<br>label<br>struggle<br>attitude |  
-| bip_39_word_new_br8 | profit<br>umbrella<br>auto<br>disease<br>label<br>struggle<br>attitude<br>twelve |  
-| bip_39_word_new_br9 | profit<br>umbrella<br>auto<br>disease<br>label<br>struggle<br>attitude<br>twelve<br>spring |  
-| bip_39_word_new_line1 | profit |  
-| bip_39_word_new_line10 | profit
+| bip_39_word_new_br_1 | profit |  
+| bip_39_word_new_br_10 | profit<br>umbrella<br>auto<br>disease<br>label<br>struggle<br>attitude<br>twelve<br>spring<br>sound |  
+| bip_39_word_new_br_11 | profit<br>umbrella<br>auto<br>disease<br>label<br>struggle<br>attitude<br>twelve<br>spring<br>sound<br>soup |  
+| bip_39_word_new_br_12 | profit<br>umbrella<br>auto<br>disease<br>label<br>struggle<br>attitude<br>twelve<br>spring<br>sound<br>soup<br>arch |  
+| bip_39_word_new_br_2 | profit<br>umbrella |  
+| bip_39_word_new_br_3 | profit<br>umbrella<br>auto |  
+| bip_39_word_new_br_4 | profit<br>umbrella<br>auto<br>disease |  
+| bip_39_word_new_br_5 | profit<br>umbrella<br>auto<br>disease<br>label |  
+| bip_39_word_new_br_6 | profit<br>umbrella<br>auto<br>disease<br>label<br>struggle |  
+| bip_39_word_new_br_7 | profit<br>umbrella<br>auto<br>disease<br>label<br>struggle<br>attitude |  
+| bip_39_word_new_br_8 | profit<br>umbrella<br>auto<br>disease<br>label<br>struggle<br>attitude<br>twelve |  
+| bip_39_word_new_br_9 | profit<br>umbrella<br>auto<br>disease<br>label<br>struggle<br>attitude<br>twelve<br>spring |  
+| bip_39_word_new_line_1 | profit |  
+| bip_39_word_new_line_10 | profit
 umbrella
 auto
 disease
@@ -55,7 +55,7 @@ attitude
 twelve
 spring
 sound |  
-| bip_39_word_new_line11 | profit
+| bip_39_word_new_line_11 | profit
 umbrella
 auto
 disease
@@ -66,7 +66,7 @@ twelve
 spring
 sound
 soup |  
-| bip_39_word_new_line12 | profit
+| bip_39_word_new_line_12 | profit
 umbrella
 auto
 disease
@@ -78,34 +78,34 @@ spring
 sound
 soup
 arch |  
-| bip_39_word_new_line2 | profit
+| bip_39_word_new_line_2 | profit
 umbrella |  
-| bip_39_word_new_line3 | profit
+| bip_39_word_new_line_3 | profit
 umbrella
 auto |  
-| bip_39_word_new_line4 | profit
+| bip_39_word_new_line_4 | profit
 umbrella
 auto
 disease |  
-| bip_39_word_new_line5 | profit
+| bip_39_word_new_line_5 | profit
 umbrella
 auto
 disease
 label |  
-| bip_39_word_new_line6 | profit
+| bip_39_word_new_line_6 | profit
 umbrella
 auto
 disease
 label
 struggle |  
-| bip_39_word_new_line7 | profit
+| bip_39_word_new_line_7 | profit
 umbrella
 auto
 disease
 label
 struggle
 attitude |  
-| bip_39_word_new_line8 | profit
+| bip_39_word_new_line_8 | profit
 umbrella
 auto
 disease
@@ -113,7 +113,7 @@ label
 struggle
 attitude
 twelve |  
-| bip_39_word_new_line9 | profit
+| bip_39_word_new_line_9 | profit
 umbrella
 auto
 disease

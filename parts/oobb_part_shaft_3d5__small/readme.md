@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | patrol |  
-| bip_39_word_new_br10 | patrol<br>alpha<br>real<br>defy<br>brother<br>chat<br>aunt<br>turn<br>question<br>main |  
-| bip_39_word_new_br11 | patrol<br>alpha<br>real<br>defy<br>brother<br>chat<br>aunt<br>turn<br>question<br>main<br>inspire |  
-| bip_39_word_new_br12 | patrol<br>alpha<br>real<br>defy<br>brother<br>chat<br>aunt<br>turn<br>question<br>main<br>inspire<br>actress |  
-| bip_39_word_new_br2 | patrol<br>alpha |  
-| bip_39_word_new_br3 | patrol<br>alpha<br>real |  
-| bip_39_word_new_br4 | patrol<br>alpha<br>real<br>defy |  
-| bip_39_word_new_br5 | patrol<br>alpha<br>real<br>defy<br>brother |  
-| bip_39_word_new_br6 | patrol<br>alpha<br>real<br>defy<br>brother<br>chat |  
-| bip_39_word_new_br7 | patrol<br>alpha<br>real<br>defy<br>brother<br>chat<br>aunt |  
-| bip_39_word_new_br8 | patrol<br>alpha<br>real<br>defy<br>brother<br>chat<br>aunt<br>turn |  
-| bip_39_word_new_br9 | patrol<br>alpha<br>real<br>defy<br>brother<br>chat<br>aunt<br>turn<br>question |  
-| bip_39_word_new_line1 | patrol |  
-| bip_39_word_new_line10 | patrol
+| bip_39_word_new_br_1 | patrol |  
+| bip_39_word_new_br_10 | patrol<br>alpha<br>real<br>defy<br>brother<br>chat<br>aunt<br>turn<br>question<br>main |  
+| bip_39_word_new_br_11 | patrol<br>alpha<br>real<br>defy<br>brother<br>chat<br>aunt<br>turn<br>question<br>main<br>inspire |  
+| bip_39_word_new_br_12 | patrol<br>alpha<br>real<br>defy<br>brother<br>chat<br>aunt<br>turn<br>question<br>main<br>inspire<br>actress |  
+| bip_39_word_new_br_2 | patrol<br>alpha |  
+| bip_39_word_new_br_3 | patrol<br>alpha<br>real |  
+| bip_39_word_new_br_4 | patrol<br>alpha<br>real<br>defy |  
+| bip_39_word_new_br_5 | patrol<br>alpha<br>real<br>defy<br>brother |  
+| bip_39_word_new_br_6 | patrol<br>alpha<br>real<br>defy<br>brother<br>chat |  
+| bip_39_word_new_br_7 | patrol<br>alpha<br>real<br>defy<br>brother<br>chat<br>aunt |  
+| bip_39_word_new_br_8 | patrol<br>alpha<br>real<br>defy<br>brother<br>chat<br>aunt<br>turn |  
+| bip_39_word_new_br_9 | patrol<br>alpha<br>real<br>defy<br>brother<br>chat<br>aunt<br>turn<br>question |  
+| bip_39_word_new_line_1 | patrol |  
+| bip_39_word_new_line_10 | patrol
 alpha
 real
 defy
@@ -55,7 +55,7 @@ aunt
 turn
 question
 main |  
-| bip_39_word_new_line11 | patrol
+| bip_39_word_new_line_11 | patrol
 alpha
 real
 defy
@@ -66,7 +66,7 @@ turn
 question
 main
 inspire |  
-| bip_39_word_new_line12 | patrol
+| bip_39_word_new_line_12 | patrol
 alpha
 real
 defy
@@ -78,34 +78,34 @@ question
 main
 inspire
 actress |  
-| bip_39_word_new_line2 | patrol
+| bip_39_word_new_line_2 | patrol
 alpha |  
-| bip_39_word_new_line3 | patrol
+| bip_39_word_new_line_3 | patrol
 alpha
 real |  
-| bip_39_word_new_line4 | patrol
+| bip_39_word_new_line_4 | patrol
 alpha
 real
 defy |  
-| bip_39_word_new_line5 | patrol
+| bip_39_word_new_line_5 | patrol
 alpha
 real
 defy
 brother |  
-| bip_39_word_new_line6 | patrol
+| bip_39_word_new_line_6 | patrol
 alpha
 real
 defy
 brother
 chat |  
-| bip_39_word_new_line7 | patrol
+| bip_39_word_new_line_7 | patrol
 alpha
 real
 defy
 brother
 chat
 aunt |  
-| bip_39_word_new_line8 | patrol
+| bip_39_word_new_line_8 | patrol
 alpha
 real
 defy
@@ -113,7 +113,7 @@ brother
 chat
 aunt
 turn |  
-| bip_39_word_new_line9 | patrol
+| bip_39_word_new_line_9 | patrol
 alpha
 real
 defy

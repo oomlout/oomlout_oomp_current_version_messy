@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | join |  
-| bip_39_word_new_br10 | join<br>verify<br>private<br>middle<br>across<br>call<br>pupil<br>radio<br>other<br>south |  
-| bip_39_word_new_br11 | join<br>verify<br>private<br>middle<br>across<br>call<br>pupil<br>radio<br>other<br>south<br>special |  
-| bip_39_word_new_br12 | join<br>verify<br>private<br>middle<br>across<br>call<br>pupil<br>radio<br>other<br>south<br>special<br>admit |  
-| bip_39_word_new_br2 | join<br>verify |  
-| bip_39_word_new_br3 | join<br>verify<br>private |  
-| bip_39_word_new_br4 | join<br>verify<br>private<br>middle |  
-| bip_39_word_new_br5 | join<br>verify<br>private<br>middle<br>across |  
-| bip_39_word_new_br6 | join<br>verify<br>private<br>middle<br>across<br>call |  
-| bip_39_word_new_br7 | join<br>verify<br>private<br>middle<br>across<br>call<br>pupil |  
-| bip_39_word_new_br8 | join<br>verify<br>private<br>middle<br>across<br>call<br>pupil<br>radio |  
-| bip_39_word_new_br9 | join<br>verify<br>private<br>middle<br>across<br>call<br>pupil<br>radio<br>other |  
-| bip_39_word_new_line1 | join |  
-| bip_39_word_new_line10 | join
+| bip_39_word_new_br_1 | join |  
+| bip_39_word_new_br_10 | join<br>verify<br>private<br>middle<br>across<br>call<br>pupil<br>radio<br>other<br>south |  
+| bip_39_word_new_br_11 | join<br>verify<br>private<br>middle<br>across<br>call<br>pupil<br>radio<br>other<br>south<br>special |  
+| bip_39_word_new_br_12 | join<br>verify<br>private<br>middle<br>across<br>call<br>pupil<br>radio<br>other<br>south<br>special<br>admit |  
+| bip_39_word_new_br_2 | join<br>verify |  
+| bip_39_word_new_br_3 | join<br>verify<br>private |  
+| bip_39_word_new_br_4 | join<br>verify<br>private<br>middle |  
+| bip_39_word_new_br_5 | join<br>verify<br>private<br>middle<br>across |  
+| bip_39_word_new_br_6 | join<br>verify<br>private<br>middle<br>across<br>call |  
+| bip_39_word_new_br_7 | join<br>verify<br>private<br>middle<br>across<br>call<br>pupil |  
+| bip_39_word_new_br_8 | join<br>verify<br>private<br>middle<br>across<br>call<br>pupil<br>radio |  
+| bip_39_word_new_br_9 | join<br>verify<br>private<br>middle<br>across<br>call<br>pupil<br>radio<br>other |  
+| bip_39_word_new_line_1 | join |  
+| bip_39_word_new_line_10 | join
 verify
 private
 middle
@@ -55,7 +55,7 @@ pupil
 radio
 other
 south |  
-| bip_39_word_new_line11 | join
+| bip_39_word_new_line_11 | join
 verify
 private
 middle
@@ -66,7 +66,7 @@ radio
 other
 south
 special |  
-| bip_39_word_new_line12 | join
+| bip_39_word_new_line_12 | join
 verify
 private
 middle
@@ -78,34 +78,34 @@ other
 south
 special
 admit |  
-| bip_39_word_new_line2 | join
+| bip_39_word_new_line_2 | join
 verify |  
-| bip_39_word_new_line3 | join
+| bip_39_word_new_line_3 | join
 verify
 private |  
-| bip_39_word_new_line4 | join
+| bip_39_word_new_line_4 | join
 verify
 private
 middle |  
-| bip_39_word_new_line5 | join
+| bip_39_word_new_line_5 | join
 verify
 private
 middle
 across |  
-| bip_39_word_new_line6 | join
+| bip_39_word_new_line_6 | join
 verify
 private
 middle
 across
 call |  
-| bip_39_word_new_line7 | join
+| bip_39_word_new_line_7 | join
 verify
 private
 middle
 across
 call
 pupil |  
-| bip_39_word_new_line8 | join
+| bip_39_word_new_line_8 | join
 verify
 private
 middle
@@ -113,7 +113,7 @@ across
 call
 pupil
 radio |  
-| bip_39_word_new_line9 | join
+| bip_39_word_new_line_9 | join
 verify
 private
 middle

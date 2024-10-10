@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | false |  
-| bip_39_word_new_br10 | false<br>scare<br>guitar<br>final<br>discover<br>depth<br>grid<br>poverty<br>tunnel<br>blouse |  
-| bip_39_word_new_br11 | false<br>scare<br>guitar<br>final<br>discover<br>depth<br>grid<br>poverty<br>tunnel<br>blouse<br>accident |  
-| bip_39_word_new_br12 | false<br>scare<br>guitar<br>final<br>discover<br>depth<br>grid<br>poverty<br>tunnel<br>blouse<br>accident<br>age |  
-| bip_39_word_new_br2 | false<br>scare |  
-| bip_39_word_new_br3 | false<br>scare<br>guitar |  
-| bip_39_word_new_br4 | false<br>scare<br>guitar<br>final |  
-| bip_39_word_new_br5 | false<br>scare<br>guitar<br>final<br>discover |  
-| bip_39_word_new_br6 | false<br>scare<br>guitar<br>final<br>discover<br>depth |  
-| bip_39_word_new_br7 | false<br>scare<br>guitar<br>final<br>discover<br>depth<br>grid |  
-| bip_39_word_new_br8 | false<br>scare<br>guitar<br>final<br>discover<br>depth<br>grid<br>poverty |  
-| bip_39_word_new_br9 | false<br>scare<br>guitar<br>final<br>discover<br>depth<br>grid<br>poverty<br>tunnel |  
-| bip_39_word_new_line1 | false |  
-| bip_39_word_new_line10 | false
+| bip_39_word_new_br_1 | false |  
+| bip_39_word_new_br_10 | false<br>scare<br>guitar<br>final<br>discover<br>depth<br>grid<br>poverty<br>tunnel<br>blouse |  
+| bip_39_word_new_br_11 | false<br>scare<br>guitar<br>final<br>discover<br>depth<br>grid<br>poverty<br>tunnel<br>blouse<br>accident |  
+| bip_39_word_new_br_12 | false<br>scare<br>guitar<br>final<br>discover<br>depth<br>grid<br>poverty<br>tunnel<br>blouse<br>accident<br>age |  
+| bip_39_word_new_br_2 | false<br>scare |  
+| bip_39_word_new_br_3 | false<br>scare<br>guitar |  
+| bip_39_word_new_br_4 | false<br>scare<br>guitar<br>final |  
+| bip_39_word_new_br_5 | false<br>scare<br>guitar<br>final<br>discover |  
+| bip_39_word_new_br_6 | false<br>scare<br>guitar<br>final<br>discover<br>depth |  
+| bip_39_word_new_br_7 | false<br>scare<br>guitar<br>final<br>discover<br>depth<br>grid |  
+| bip_39_word_new_br_8 | false<br>scare<br>guitar<br>final<br>discover<br>depth<br>grid<br>poverty |  
+| bip_39_word_new_br_9 | false<br>scare<br>guitar<br>final<br>discover<br>depth<br>grid<br>poverty<br>tunnel |  
+| bip_39_word_new_line_1 | false |  
+| bip_39_word_new_line_10 | false
 scare
 guitar
 final
@@ -55,7 +55,7 @@ grid
 poverty
 tunnel
 blouse |  
-| bip_39_word_new_line11 | false
+| bip_39_word_new_line_11 | false
 scare
 guitar
 final
@@ -66,7 +66,7 @@ poverty
 tunnel
 blouse
 accident |  
-| bip_39_word_new_line12 | false
+| bip_39_word_new_line_12 | false
 scare
 guitar
 final
@@ -78,34 +78,34 @@ tunnel
 blouse
 accident
 age |  
-| bip_39_word_new_line2 | false
+| bip_39_word_new_line_2 | false
 scare |  
-| bip_39_word_new_line3 | false
+| bip_39_word_new_line_3 | false
 scare
 guitar |  
-| bip_39_word_new_line4 | false
+| bip_39_word_new_line_4 | false
 scare
 guitar
 final |  
-| bip_39_word_new_line5 | false
+| bip_39_word_new_line_5 | false
 scare
 guitar
 final
 discover |  
-| bip_39_word_new_line6 | false
+| bip_39_word_new_line_6 | false
 scare
 guitar
 final
 discover
 depth |  
-| bip_39_word_new_line7 | false
+| bip_39_word_new_line_7 | false
 scare
 guitar
 final
 discover
 depth
 grid |  
-| bip_39_word_new_line8 | false
+| bip_39_word_new_line_8 | false
 scare
 guitar
 final
@@ -113,7 +113,7 @@ discover
 depth
 grid
 poverty |  
-| bip_39_word_new_line9 | false
+| bip_39_word_new_line_9 | false
 scare
 guitar
 final

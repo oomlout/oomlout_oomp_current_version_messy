@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gospel |  
-| bip_39_word_new_br10 | gospel<br>index<br>twin<br>silent<br>injury<br>key<br>resemble<br>culture<br>token<br>stumble |  
-| bip_39_word_new_br11 | gospel<br>index<br>twin<br>silent<br>injury<br>key<br>resemble<br>culture<br>token<br>stumble<br>frog |  
-| bip_39_word_new_br12 | gospel<br>index<br>twin<br>silent<br>injury<br>key<br>resemble<br>culture<br>token<br>stumble<br>frog<br>about |  
-| bip_39_word_new_br2 | gospel<br>index |  
-| bip_39_word_new_br3 | gospel<br>index<br>twin |  
-| bip_39_word_new_br4 | gospel<br>index<br>twin<br>silent |  
-| bip_39_word_new_br5 | gospel<br>index<br>twin<br>silent<br>injury |  
-| bip_39_word_new_br6 | gospel<br>index<br>twin<br>silent<br>injury<br>key |  
-| bip_39_word_new_br7 | gospel<br>index<br>twin<br>silent<br>injury<br>key<br>resemble |  
-| bip_39_word_new_br8 | gospel<br>index<br>twin<br>silent<br>injury<br>key<br>resemble<br>culture |  
-| bip_39_word_new_br9 | gospel<br>index<br>twin<br>silent<br>injury<br>key<br>resemble<br>culture<br>token |  
-| bip_39_word_new_line1 | gospel |  
-| bip_39_word_new_line10 | gospel
+| bip_39_word_new_br_1 | gospel |  
+| bip_39_word_new_br_10 | gospel<br>index<br>twin<br>silent<br>injury<br>key<br>resemble<br>culture<br>token<br>stumble |  
+| bip_39_word_new_br_11 | gospel<br>index<br>twin<br>silent<br>injury<br>key<br>resemble<br>culture<br>token<br>stumble<br>frog |  
+| bip_39_word_new_br_12 | gospel<br>index<br>twin<br>silent<br>injury<br>key<br>resemble<br>culture<br>token<br>stumble<br>frog<br>about |  
+| bip_39_word_new_br_2 | gospel<br>index |  
+| bip_39_word_new_br_3 | gospel<br>index<br>twin |  
+| bip_39_word_new_br_4 | gospel<br>index<br>twin<br>silent |  
+| bip_39_word_new_br_5 | gospel<br>index<br>twin<br>silent<br>injury |  
+| bip_39_word_new_br_6 | gospel<br>index<br>twin<br>silent<br>injury<br>key |  
+| bip_39_word_new_br_7 | gospel<br>index<br>twin<br>silent<br>injury<br>key<br>resemble |  
+| bip_39_word_new_br_8 | gospel<br>index<br>twin<br>silent<br>injury<br>key<br>resemble<br>culture |  
+| bip_39_word_new_br_9 | gospel<br>index<br>twin<br>silent<br>injury<br>key<br>resemble<br>culture<br>token |  
+| bip_39_word_new_line_1 | gospel |  
+| bip_39_word_new_line_10 | gospel
 index
 twin
 silent
@@ -55,7 +55,7 @@ resemble
 culture
 token
 stumble |  
-| bip_39_word_new_line11 | gospel
+| bip_39_word_new_line_11 | gospel
 index
 twin
 silent
@@ -66,7 +66,7 @@ culture
 token
 stumble
 frog |  
-| bip_39_word_new_line12 | gospel
+| bip_39_word_new_line_12 | gospel
 index
 twin
 silent
@@ -78,34 +78,34 @@ token
 stumble
 frog
 about |  
-| bip_39_word_new_line2 | gospel
+| bip_39_word_new_line_2 | gospel
 index |  
-| bip_39_word_new_line3 | gospel
+| bip_39_word_new_line_3 | gospel
 index
 twin |  
-| bip_39_word_new_line4 | gospel
+| bip_39_word_new_line_4 | gospel
 index
 twin
 silent |  
-| bip_39_word_new_line5 | gospel
+| bip_39_word_new_line_5 | gospel
 index
 twin
 silent
 injury |  
-| bip_39_word_new_line6 | gospel
+| bip_39_word_new_line_6 | gospel
 index
 twin
 silent
 injury
 key |  
-| bip_39_word_new_line7 | gospel
+| bip_39_word_new_line_7 | gospel
 index
 twin
 silent
 injury
 key
 resemble |  
-| bip_39_word_new_line8 | gospel
+| bip_39_word_new_line_8 | gospel
 index
 twin
 silent
@@ -113,7 +113,7 @@ injury
 key
 resemble
 culture |  
-| bip_39_word_new_line9 | gospel
+| bip_39_word_new_line_9 | gospel
 index
 twin
 silent

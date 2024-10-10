@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | quit |  
-| bip_39_word_new_br10 | quit<br>arena<br>mansion<br>game<br>fabric<br>ripple<br>range<br>able<br>ship<br>marriage |  
-| bip_39_word_new_br11 | quit<br>arena<br>mansion<br>game<br>fabric<br>ripple<br>range<br>able<br>ship<br>marriage<br>enact |  
-| bip_39_word_new_br12 | quit<br>arena<br>mansion<br>game<br>fabric<br>ripple<br>range<br>able<br>ship<br>marriage<br>enact<br>allow |  
-| bip_39_word_new_br2 | quit<br>arena |  
-| bip_39_word_new_br3 | quit<br>arena<br>mansion |  
-| bip_39_word_new_br4 | quit<br>arena<br>mansion<br>game |  
-| bip_39_word_new_br5 | quit<br>arena<br>mansion<br>game<br>fabric |  
-| bip_39_word_new_br6 | quit<br>arena<br>mansion<br>game<br>fabric<br>ripple |  
-| bip_39_word_new_br7 | quit<br>arena<br>mansion<br>game<br>fabric<br>ripple<br>range |  
-| bip_39_word_new_br8 | quit<br>arena<br>mansion<br>game<br>fabric<br>ripple<br>range<br>able |  
-| bip_39_word_new_br9 | quit<br>arena<br>mansion<br>game<br>fabric<br>ripple<br>range<br>able<br>ship |  
-| bip_39_word_new_line1 | quit |  
-| bip_39_word_new_line10 | quit
+| bip_39_word_new_br_1 | quit |  
+| bip_39_word_new_br_10 | quit<br>arena<br>mansion<br>game<br>fabric<br>ripple<br>range<br>able<br>ship<br>marriage |  
+| bip_39_word_new_br_11 | quit<br>arena<br>mansion<br>game<br>fabric<br>ripple<br>range<br>able<br>ship<br>marriage<br>enact |  
+| bip_39_word_new_br_12 | quit<br>arena<br>mansion<br>game<br>fabric<br>ripple<br>range<br>able<br>ship<br>marriage<br>enact<br>allow |  
+| bip_39_word_new_br_2 | quit<br>arena |  
+| bip_39_word_new_br_3 | quit<br>arena<br>mansion |  
+| bip_39_word_new_br_4 | quit<br>arena<br>mansion<br>game |  
+| bip_39_word_new_br_5 | quit<br>arena<br>mansion<br>game<br>fabric |  
+| bip_39_word_new_br_6 | quit<br>arena<br>mansion<br>game<br>fabric<br>ripple |  
+| bip_39_word_new_br_7 | quit<br>arena<br>mansion<br>game<br>fabric<br>ripple<br>range |  
+| bip_39_word_new_br_8 | quit<br>arena<br>mansion<br>game<br>fabric<br>ripple<br>range<br>able |  
+| bip_39_word_new_br_9 | quit<br>arena<br>mansion<br>game<br>fabric<br>ripple<br>range<br>able<br>ship |  
+| bip_39_word_new_line_1 | quit |  
+| bip_39_word_new_line_10 | quit
 arena
 mansion
 game
@@ -55,7 +55,7 @@ range
 able
 ship
 marriage |  
-| bip_39_word_new_line11 | quit
+| bip_39_word_new_line_11 | quit
 arena
 mansion
 game
@@ -66,7 +66,7 @@ able
 ship
 marriage
 enact |  
-| bip_39_word_new_line12 | quit
+| bip_39_word_new_line_12 | quit
 arena
 mansion
 game
@@ -78,34 +78,34 @@ ship
 marriage
 enact
 allow |  
-| bip_39_word_new_line2 | quit
+| bip_39_word_new_line_2 | quit
 arena |  
-| bip_39_word_new_line3 | quit
+| bip_39_word_new_line_3 | quit
 arena
 mansion |  
-| bip_39_word_new_line4 | quit
+| bip_39_word_new_line_4 | quit
 arena
 mansion
 game |  
-| bip_39_word_new_line5 | quit
+| bip_39_word_new_line_5 | quit
 arena
 mansion
 game
 fabric |  
-| bip_39_word_new_line6 | quit
+| bip_39_word_new_line_6 | quit
 arena
 mansion
 game
 fabric
 ripple |  
-| bip_39_word_new_line7 | quit
+| bip_39_word_new_line_7 | quit
 arena
 mansion
 game
 fabric
 ripple
 range |  
-| bip_39_word_new_line8 | quit
+| bip_39_word_new_line_8 | quit
 arena
 mansion
 game
@@ -113,7 +113,7 @@ fabric
 ripple
 range
 able |  
-| bip_39_word_new_line9 | quit
+| bip_39_word_new_line_9 | quit
 arena
 mansion
 game

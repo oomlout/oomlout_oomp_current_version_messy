@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | frost |  
-| bip_39_word_new_br10 | frost<br>sister<br>puppy<br>conduct<br>able<br>cattle<br>hollow<br>hire<br>used<br>deliver |  
-| bip_39_word_new_br11 | frost<br>sister<br>puppy<br>conduct<br>able<br>cattle<br>hollow<br>hire<br>used<br>deliver<br>sniff |  
-| bip_39_word_new_br12 | frost<br>sister<br>puppy<br>conduct<br>able<br>cattle<br>hollow<br>hire<br>used<br>deliver<br>sniff<br>allow |  
-| bip_39_word_new_br2 | frost<br>sister |  
-| bip_39_word_new_br3 | frost<br>sister<br>puppy |  
-| bip_39_word_new_br4 | frost<br>sister<br>puppy<br>conduct |  
-| bip_39_word_new_br5 | frost<br>sister<br>puppy<br>conduct<br>able |  
-| bip_39_word_new_br6 | frost<br>sister<br>puppy<br>conduct<br>able<br>cattle |  
-| bip_39_word_new_br7 | frost<br>sister<br>puppy<br>conduct<br>able<br>cattle<br>hollow |  
-| bip_39_word_new_br8 | frost<br>sister<br>puppy<br>conduct<br>able<br>cattle<br>hollow<br>hire |  
-| bip_39_word_new_br9 | frost<br>sister<br>puppy<br>conduct<br>able<br>cattle<br>hollow<br>hire<br>used |  
-| bip_39_word_new_line1 | frost |  
-| bip_39_word_new_line10 | frost
+| bip_39_word_new_br_1 | frost |  
+| bip_39_word_new_br_10 | frost<br>sister<br>puppy<br>conduct<br>able<br>cattle<br>hollow<br>hire<br>used<br>deliver |  
+| bip_39_word_new_br_11 | frost<br>sister<br>puppy<br>conduct<br>able<br>cattle<br>hollow<br>hire<br>used<br>deliver<br>sniff |  
+| bip_39_word_new_br_12 | frost<br>sister<br>puppy<br>conduct<br>able<br>cattle<br>hollow<br>hire<br>used<br>deliver<br>sniff<br>allow |  
+| bip_39_word_new_br_2 | frost<br>sister |  
+| bip_39_word_new_br_3 | frost<br>sister<br>puppy |  
+| bip_39_word_new_br_4 | frost<br>sister<br>puppy<br>conduct |  
+| bip_39_word_new_br_5 | frost<br>sister<br>puppy<br>conduct<br>able |  
+| bip_39_word_new_br_6 | frost<br>sister<br>puppy<br>conduct<br>able<br>cattle |  
+| bip_39_word_new_br_7 | frost<br>sister<br>puppy<br>conduct<br>able<br>cattle<br>hollow |  
+| bip_39_word_new_br_8 | frost<br>sister<br>puppy<br>conduct<br>able<br>cattle<br>hollow<br>hire |  
+| bip_39_word_new_br_9 | frost<br>sister<br>puppy<br>conduct<br>able<br>cattle<br>hollow<br>hire<br>used |  
+| bip_39_word_new_line_1 | frost |  
+| bip_39_word_new_line_10 | frost
 sister
 puppy
 conduct
@@ -55,7 +55,7 @@ hollow
 hire
 used
 deliver |  
-| bip_39_word_new_line11 | frost
+| bip_39_word_new_line_11 | frost
 sister
 puppy
 conduct
@@ -66,7 +66,7 @@ hire
 used
 deliver
 sniff |  
-| bip_39_word_new_line12 | frost
+| bip_39_word_new_line_12 | frost
 sister
 puppy
 conduct
@@ -78,34 +78,34 @@ used
 deliver
 sniff
 allow |  
-| bip_39_word_new_line2 | frost
+| bip_39_word_new_line_2 | frost
 sister |  
-| bip_39_word_new_line3 | frost
+| bip_39_word_new_line_3 | frost
 sister
 puppy |  
-| bip_39_word_new_line4 | frost
+| bip_39_word_new_line_4 | frost
 sister
 puppy
 conduct |  
-| bip_39_word_new_line5 | frost
+| bip_39_word_new_line_5 | frost
 sister
 puppy
 conduct
 able |  
-| bip_39_word_new_line6 | frost
+| bip_39_word_new_line_6 | frost
 sister
 puppy
 conduct
 able
 cattle |  
-| bip_39_word_new_line7 | frost
+| bip_39_word_new_line_7 | frost
 sister
 puppy
 conduct
 able
 cattle
 hollow |  
-| bip_39_word_new_line8 | frost
+| bip_39_word_new_line_8 | frost
 sister
 puppy
 conduct
@@ -113,7 +113,7 @@ able
 cattle
 hollow
 hire |  
-| bip_39_word_new_line9 | frost
+| bip_39_word_new_line_9 | frost
 sister
 puppy
 conduct

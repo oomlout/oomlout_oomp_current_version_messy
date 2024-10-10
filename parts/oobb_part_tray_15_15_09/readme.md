@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wash |  
-| bip_39_word_new_br10 | wash<br>antenna<br>waste<br>snack<br>airport<br>friend<br>tortoise<br>front<br>crew<br>family |  
-| bip_39_word_new_br11 | wash<br>antenna<br>waste<br>snack<br>airport<br>friend<br>tortoise<br>front<br>crew<br>family<br>energy |  
-| bip_39_word_new_br12 | wash<br>antenna<br>waste<br>snack<br>airport<br>friend<br>tortoise<br>front<br>crew<br>family<br>energy<br>absorb |  
-| bip_39_word_new_br2 | wash<br>antenna |  
-| bip_39_word_new_br3 | wash<br>antenna<br>waste |  
-| bip_39_word_new_br4 | wash<br>antenna<br>waste<br>snack |  
-| bip_39_word_new_br5 | wash<br>antenna<br>waste<br>snack<br>airport |  
-| bip_39_word_new_br6 | wash<br>antenna<br>waste<br>snack<br>airport<br>friend |  
-| bip_39_word_new_br7 | wash<br>antenna<br>waste<br>snack<br>airport<br>friend<br>tortoise |  
-| bip_39_word_new_br8 | wash<br>antenna<br>waste<br>snack<br>airport<br>friend<br>tortoise<br>front |  
-| bip_39_word_new_br9 | wash<br>antenna<br>waste<br>snack<br>airport<br>friend<br>tortoise<br>front<br>crew |  
-| bip_39_word_new_line1 | wash |  
-| bip_39_word_new_line10 | wash
+| bip_39_word_new_br_1 | wash |  
+| bip_39_word_new_br_10 | wash<br>antenna<br>waste<br>snack<br>airport<br>friend<br>tortoise<br>front<br>crew<br>family |  
+| bip_39_word_new_br_11 | wash<br>antenna<br>waste<br>snack<br>airport<br>friend<br>tortoise<br>front<br>crew<br>family<br>energy |  
+| bip_39_word_new_br_12 | wash<br>antenna<br>waste<br>snack<br>airport<br>friend<br>tortoise<br>front<br>crew<br>family<br>energy<br>absorb |  
+| bip_39_word_new_br_2 | wash<br>antenna |  
+| bip_39_word_new_br_3 | wash<br>antenna<br>waste |  
+| bip_39_word_new_br_4 | wash<br>antenna<br>waste<br>snack |  
+| bip_39_word_new_br_5 | wash<br>antenna<br>waste<br>snack<br>airport |  
+| bip_39_word_new_br_6 | wash<br>antenna<br>waste<br>snack<br>airport<br>friend |  
+| bip_39_word_new_br_7 | wash<br>antenna<br>waste<br>snack<br>airport<br>friend<br>tortoise |  
+| bip_39_word_new_br_8 | wash<br>antenna<br>waste<br>snack<br>airport<br>friend<br>tortoise<br>front |  
+| bip_39_word_new_br_9 | wash<br>antenna<br>waste<br>snack<br>airport<br>friend<br>tortoise<br>front<br>crew |  
+| bip_39_word_new_line_1 | wash |  
+| bip_39_word_new_line_10 | wash
 antenna
 waste
 snack
@@ -55,7 +55,7 @@ tortoise
 front
 crew
 family |  
-| bip_39_word_new_line11 | wash
+| bip_39_word_new_line_11 | wash
 antenna
 waste
 snack
@@ -66,7 +66,7 @@ front
 crew
 family
 energy |  
-| bip_39_word_new_line12 | wash
+| bip_39_word_new_line_12 | wash
 antenna
 waste
 snack
@@ -78,34 +78,34 @@ crew
 family
 energy
 absorb |  
-| bip_39_word_new_line2 | wash
+| bip_39_word_new_line_2 | wash
 antenna |  
-| bip_39_word_new_line3 | wash
+| bip_39_word_new_line_3 | wash
 antenna
 waste |  
-| bip_39_word_new_line4 | wash
+| bip_39_word_new_line_4 | wash
 antenna
 waste
 snack |  
-| bip_39_word_new_line5 | wash
+| bip_39_word_new_line_5 | wash
 antenna
 waste
 snack
 airport |  
-| bip_39_word_new_line6 | wash
+| bip_39_word_new_line_6 | wash
 antenna
 waste
 snack
 airport
 friend |  
-| bip_39_word_new_line7 | wash
+| bip_39_word_new_line_7 | wash
 antenna
 waste
 snack
 airport
 friend
 tortoise |  
-| bip_39_word_new_line8 | wash
+| bip_39_word_new_line_8 | wash
 antenna
 waste
 snack
@@ -113,7 +113,7 @@ airport
 friend
 tortoise
 front |  
-| bip_39_word_new_line9 | wash
+| bip_39_word_new_line_9 | wash
 antenna
 waste
 snack

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | buzz |  
-| bip_39_word_new_br10 | buzz<br>once<br>pool<br>across<br>zebra<br>acid<br>heart<br>urge<br>setup<br>forest |  
-| bip_39_word_new_br11 | buzz<br>once<br>pool<br>across<br>zebra<br>acid<br>heart<br>urge<br>setup<br>forest<br>mixture |  
-| bip_39_word_new_br12 | buzz<br>once<br>pool<br>across<br>zebra<br>acid<br>heart<br>urge<br>setup<br>forest<br>mixture<br>acid |  
-| bip_39_word_new_br2 | buzz<br>once |  
-| bip_39_word_new_br3 | buzz<br>once<br>pool |  
-| bip_39_word_new_br4 | buzz<br>once<br>pool<br>across |  
-| bip_39_word_new_br5 | buzz<br>once<br>pool<br>across<br>zebra |  
-| bip_39_word_new_br6 | buzz<br>once<br>pool<br>across<br>zebra<br>acid |  
-| bip_39_word_new_br7 | buzz<br>once<br>pool<br>across<br>zebra<br>acid<br>heart |  
-| bip_39_word_new_br8 | buzz<br>once<br>pool<br>across<br>zebra<br>acid<br>heart<br>urge |  
-| bip_39_word_new_br9 | buzz<br>once<br>pool<br>across<br>zebra<br>acid<br>heart<br>urge<br>setup |  
-| bip_39_word_new_line1 | buzz |  
-| bip_39_word_new_line10 | buzz
+| bip_39_word_new_br_1 | buzz |  
+| bip_39_word_new_br_10 | buzz<br>once<br>pool<br>across<br>zebra<br>acid<br>heart<br>urge<br>setup<br>forest |  
+| bip_39_word_new_br_11 | buzz<br>once<br>pool<br>across<br>zebra<br>acid<br>heart<br>urge<br>setup<br>forest<br>mixture |  
+| bip_39_word_new_br_12 | buzz<br>once<br>pool<br>across<br>zebra<br>acid<br>heart<br>urge<br>setup<br>forest<br>mixture<br>acid |  
+| bip_39_word_new_br_2 | buzz<br>once |  
+| bip_39_word_new_br_3 | buzz<br>once<br>pool |  
+| bip_39_word_new_br_4 | buzz<br>once<br>pool<br>across |  
+| bip_39_word_new_br_5 | buzz<br>once<br>pool<br>across<br>zebra |  
+| bip_39_word_new_br_6 | buzz<br>once<br>pool<br>across<br>zebra<br>acid |  
+| bip_39_word_new_br_7 | buzz<br>once<br>pool<br>across<br>zebra<br>acid<br>heart |  
+| bip_39_word_new_br_8 | buzz<br>once<br>pool<br>across<br>zebra<br>acid<br>heart<br>urge |  
+| bip_39_word_new_br_9 | buzz<br>once<br>pool<br>across<br>zebra<br>acid<br>heart<br>urge<br>setup |  
+| bip_39_word_new_line_1 | buzz |  
+| bip_39_word_new_line_10 | buzz
 once
 pool
 across
@@ -55,7 +55,7 @@ heart
 urge
 setup
 forest |  
-| bip_39_word_new_line11 | buzz
+| bip_39_word_new_line_11 | buzz
 once
 pool
 across
@@ -66,7 +66,7 @@ urge
 setup
 forest
 mixture |  
-| bip_39_word_new_line12 | buzz
+| bip_39_word_new_line_12 | buzz
 once
 pool
 across
@@ -78,34 +78,34 @@ setup
 forest
 mixture
 acid |  
-| bip_39_word_new_line2 | buzz
+| bip_39_word_new_line_2 | buzz
 once |  
-| bip_39_word_new_line3 | buzz
+| bip_39_word_new_line_3 | buzz
 once
 pool |  
-| bip_39_word_new_line4 | buzz
+| bip_39_word_new_line_4 | buzz
 once
 pool
 across |  
-| bip_39_word_new_line5 | buzz
+| bip_39_word_new_line_5 | buzz
 once
 pool
 across
 zebra |  
-| bip_39_word_new_line6 | buzz
+| bip_39_word_new_line_6 | buzz
 once
 pool
 across
 zebra
 acid |  
-| bip_39_word_new_line7 | buzz
+| bip_39_word_new_line_7 | buzz
 once
 pool
 across
 zebra
 acid
 heart |  
-| bip_39_word_new_line8 | buzz
+| bip_39_word_new_line_8 | buzz
 once
 pool
 across
@@ -113,7 +113,7 @@ zebra
 acid
 heart
 urge |  
-| bip_39_word_new_line9 | buzz
+| bip_39_word_new_line_9 | buzz
 once
 pool
 across

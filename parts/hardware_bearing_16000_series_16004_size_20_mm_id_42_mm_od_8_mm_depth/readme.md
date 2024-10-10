@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | click |  
-| bip_39_word_new_br10 | click<br>stage<br>lazy<br>visit<br>mimic<br>trick<br>focus<br>ring<br>tattoo<br>syrup |  
-| bip_39_word_new_br11 | click<br>stage<br>lazy<br>visit<br>mimic<br>trick<br>focus<br>ring<br>tattoo<br>syrup<br>earth |  
-| bip_39_word_new_br12 | click<br>stage<br>lazy<br>visit<br>mimic<br>trick<br>focus<br>ring<br>tattoo<br>syrup<br>earth<br>alter |  
-| bip_39_word_new_br2 | click<br>stage |  
-| bip_39_word_new_br3 | click<br>stage<br>lazy |  
-| bip_39_word_new_br4 | click<br>stage<br>lazy<br>visit |  
-| bip_39_word_new_br5 | click<br>stage<br>lazy<br>visit<br>mimic |  
-| bip_39_word_new_br6 | click<br>stage<br>lazy<br>visit<br>mimic<br>trick |  
-| bip_39_word_new_br7 | click<br>stage<br>lazy<br>visit<br>mimic<br>trick<br>focus |  
-| bip_39_word_new_br8 | click<br>stage<br>lazy<br>visit<br>mimic<br>trick<br>focus<br>ring |  
-| bip_39_word_new_br9 | click<br>stage<br>lazy<br>visit<br>mimic<br>trick<br>focus<br>ring<br>tattoo |  
-| bip_39_word_new_line1 | click |  
-| bip_39_word_new_line10 | click
+| bip_39_word_new_br_1 | click |  
+| bip_39_word_new_br_10 | click<br>stage<br>lazy<br>visit<br>mimic<br>trick<br>focus<br>ring<br>tattoo<br>syrup |  
+| bip_39_word_new_br_11 | click<br>stage<br>lazy<br>visit<br>mimic<br>trick<br>focus<br>ring<br>tattoo<br>syrup<br>earth |  
+| bip_39_word_new_br_12 | click<br>stage<br>lazy<br>visit<br>mimic<br>trick<br>focus<br>ring<br>tattoo<br>syrup<br>earth<br>alter |  
+| bip_39_word_new_br_2 | click<br>stage |  
+| bip_39_word_new_br_3 | click<br>stage<br>lazy |  
+| bip_39_word_new_br_4 | click<br>stage<br>lazy<br>visit |  
+| bip_39_word_new_br_5 | click<br>stage<br>lazy<br>visit<br>mimic |  
+| bip_39_word_new_br_6 | click<br>stage<br>lazy<br>visit<br>mimic<br>trick |  
+| bip_39_word_new_br_7 | click<br>stage<br>lazy<br>visit<br>mimic<br>trick<br>focus |  
+| bip_39_word_new_br_8 | click<br>stage<br>lazy<br>visit<br>mimic<br>trick<br>focus<br>ring |  
+| bip_39_word_new_br_9 | click<br>stage<br>lazy<br>visit<br>mimic<br>trick<br>focus<br>ring<br>tattoo |  
+| bip_39_word_new_line_1 | click |  
+| bip_39_word_new_line_10 | click
 stage
 lazy
 visit
@@ -55,7 +55,7 @@ focus
 ring
 tattoo
 syrup |  
-| bip_39_word_new_line11 | click
+| bip_39_word_new_line_11 | click
 stage
 lazy
 visit
@@ -66,7 +66,7 @@ ring
 tattoo
 syrup
 earth |  
-| bip_39_word_new_line12 | click
+| bip_39_word_new_line_12 | click
 stage
 lazy
 visit
@@ -78,34 +78,34 @@ tattoo
 syrup
 earth
 alter |  
-| bip_39_word_new_line2 | click
+| bip_39_word_new_line_2 | click
 stage |  
-| bip_39_word_new_line3 | click
+| bip_39_word_new_line_3 | click
 stage
 lazy |  
-| bip_39_word_new_line4 | click
+| bip_39_word_new_line_4 | click
 stage
 lazy
 visit |  
-| bip_39_word_new_line5 | click
+| bip_39_word_new_line_5 | click
 stage
 lazy
 visit
 mimic |  
-| bip_39_word_new_line6 | click
+| bip_39_word_new_line_6 | click
 stage
 lazy
 visit
 mimic
 trick |  
-| bip_39_word_new_line7 | click
+| bip_39_word_new_line_7 | click
 stage
 lazy
 visit
 mimic
 trick
 focus |  
-| bip_39_word_new_line8 | click
+| bip_39_word_new_line_8 | click
 stage
 lazy
 visit
@@ -113,7 +113,7 @@ mimic
 trick
 focus
 ring |  
-| bip_39_word_new_line9 | click
+| bip_39_word_new_line_9 | click
 stage
 lazy
 visit

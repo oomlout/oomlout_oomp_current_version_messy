@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | humor |  
-| bip_39_word_new_br10 | humor<br>penalty<br>method<br>tooth<br>shallow<br>cousin<br>rapid<br>join<br>easy<br>denial |  
-| bip_39_word_new_br11 | humor<br>penalty<br>method<br>tooth<br>shallow<br>cousin<br>rapid<br>join<br>easy<br>denial<br>tissue |  
-| bip_39_word_new_br12 | humor<br>penalty<br>method<br>tooth<br>shallow<br>cousin<br>rapid<br>join<br>easy<br>denial<br>tissue<br>absorb |  
-| bip_39_word_new_br2 | humor<br>penalty |  
-| bip_39_word_new_br3 | humor<br>penalty<br>method |  
-| bip_39_word_new_br4 | humor<br>penalty<br>method<br>tooth |  
-| bip_39_word_new_br5 | humor<br>penalty<br>method<br>tooth<br>shallow |  
-| bip_39_word_new_br6 | humor<br>penalty<br>method<br>tooth<br>shallow<br>cousin |  
-| bip_39_word_new_br7 | humor<br>penalty<br>method<br>tooth<br>shallow<br>cousin<br>rapid |  
-| bip_39_word_new_br8 | humor<br>penalty<br>method<br>tooth<br>shallow<br>cousin<br>rapid<br>join |  
-| bip_39_word_new_br9 | humor<br>penalty<br>method<br>tooth<br>shallow<br>cousin<br>rapid<br>join<br>easy |  
-| bip_39_word_new_line1 | humor |  
-| bip_39_word_new_line10 | humor
+| bip_39_word_new_br_1 | humor |  
+| bip_39_word_new_br_10 | humor<br>penalty<br>method<br>tooth<br>shallow<br>cousin<br>rapid<br>join<br>easy<br>denial |  
+| bip_39_word_new_br_11 | humor<br>penalty<br>method<br>tooth<br>shallow<br>cousin<br>rapid<br>join<br>easy<br>denial<br>tissue |  
+| bip_39_word_new_br_12 | humor<br>penalty<br>method<br>tooth<br>shallow<br>cousin<br>rapid<br>join<br>easy<br>denial<br>tissue<br>absorb |  
+| bip_39_word_new_br_2 | humor<br>penalty |  
+| bip_39_word_new_br_3 | humor<br>penalty<br>method |  
+| bip_39_word_new_br_4 | humor<br>penalty<br>method<br>tooth |  
+| bip_39_word_new_br_5 | humor<br>penalty<br>method<br>tooth<br>shallow |  
+| bip_39_word_new_br_6 | humor<br>penalty<br>method<br>tooth<br>shallow<br>cousin |  
+| bip_39_word_new_br_7 | humor<br>penalty<br>method<br>tooth<br>shallow<br>cousin<br>rapid |  
+| bip_39_word_new_br_8 | humor<br>penalty<br>method<br>tooth<br>shallow<br>cousin<br>rapid<br>join |  
+| bip_39_word_new_br_9 | humor<br>penalty<br>method<br>tooth<br>shallow<br>cousin<br>rapid<br>join<br>easy |  
+| bip_39_word_new_line_1 | humor |  
+| bip_39_word_new_line_10 | humor
 penalty
 method
 tooth
@@ -55,7 +55,7 @@ rapid
 join
 easy
 denial |  
-| bip_39_word_new_line11 | humor
+| bip_39_word_new_line_11 | humor
 penalty
 method
 tooth
@@ -66,7 +66,7 @@ join
 easy
 denial
 tissue |  
-| bip_39_word_new_line12 | humor
+| bip_39_word_new_line_12 | humor
 penalty
 method
 tooth
@@ -78,34 +78,34 @@ easy
 denial
 tissue
 absorb |  
-| bip_39_word_new_line2 | humor
+| bip_39_word_new_line_2 | humor
 penalty |  
-| bip_39_word_new_line3 | humor
+| bip_39_word_new_line_3 | humor
 penalty
 method |  
-| bip_39_word_new_line4 | humor
+| bip_39_word_new_line_4 | humor
 penalty
 method
 tooth |  
-| bip_39_word_new_line5 | humor
+| bip_39_word_new_line_5 | humor
 penalty
 method
 tooth
 shallow |  
-| bip_39_word_new_line6 | humor
+| bip_39_word_new_line_6 | humor
 penalty
 method
 tooth
 shallow
 cousin |  
-| bip_39_word_new_line7 | humor
+| bip_39_word_new_line_7 | humor
 penalty
 method
 tooth
 shallow
 cousin
 rapid |  
-| bip_39_word_new_line8 | humor
+| bip_39_word_new_line_8 | humor
 penalty
 method
 tooth
@@ -113,7 +113,7 @@ shallow
 cousin
 rapid
 join |  
-| bip_39_word_new_line9 | humor
+| bip_39_word_new_line_9 | humor
 penalty
 method
 tooth

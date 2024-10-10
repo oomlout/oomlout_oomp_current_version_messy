@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | debris |  
-| bip_39_word_new_br10 | debris<br>stadium<br>pair<br>shrimp<br>circle<br>opera<br>very<br>tag<br>loop<br>prison |  
-| bip_39_word_new_br11 | debris<br>stadium<br>pair<br>shrimp<br>circle<br>opera<br>very<br>tag<br>loop<br>prison<br>position |  
-| bip_39_word_new_br12 | debris<br>stadium<br>pair<br>shrimp<br>circle<br>opera<br>very<br>tag<br>loop<br>prison<br>position<br>arrive |  
-| bip_39_word_new_br2 | debris<br>stadium |  
-| bip_39_word_new_br3 | debris<br>stadium<br>pair |  
-| bip_39_word_new_br4 | debris<br>stadium<br>pair<br>shrimp |  
-| bip_39_word_new_br5 | debris<br>stadium<br>pair<br>shrimp<br>circle |  
-| bip_39_word_new_br6 | debris<br>stadium<br>pair<br>shrimp<br>circle<br>opera |  
-| bip_39_word_new_br7 | debris<br>stadium<br>pair<br>shrimp<br>circle<br>opera<br>very |  
-| bip_39_word_new_br8 | debris<br>stadium<br>pair<br>shrimp<br>circle<br>opera<br>very<br>tag |  
-| bip_39_word_new_br9 | debris<br>stadium<br>pair<br>shrimp<br>circle<br>opera<br>very<br>tag<br>loop |  
-| bip_39_word_new_line1 | debris |  
-| bip_39_word_new_line10 | debris
+| bip_39_word_new_br_1 | debris |  
+| bip_39_word_new_br_10 | debris<br>stadium<br>pair<br>shrimp<br>circle<br>opera<br>very<br>tag<br>loop<br>prison |  
+| bip_39_word_new_br_11 | debris<br>stadium<br>pair<br>shrimp<br>circle<br>opera<br>very<br>tag<br>loop<br>prison<br>position |  
+| bip_39_word_new_br_12 | debris<br>stadium<br>pair<br>shrimp<br>circle<br>opera<br>very<br>tag<br>loop<br>prison<br>position<br>arrive |  
+| bip_39_word_new_br_2 | debris<br>stadium |  
+| bip_39_word_new_br_3 | debris<br>stadium<br>pair |  
+| bip_39_word_new_br_4 | debris<br>stadium<br>pair<br>shrimp |  
+| bip_39_word_new_br_5 | debris<br>stadium<br>pair<br>shrimp<br>circle |  
+| bip_39_word_new_br_6 | debris<br>stadium<br>pair<br>shrimp<br>circle<br>opera |  
+| bip_39_word_new_br_7 | debris<br>stadium<br>pair<br>shrimp<br>circle<br>opera<br>very |  
+| bip_39_word_new_br_8 | debris<br>stadium<br>pair<br>shrimp<br>circle<br>opera<br>very<br>tag |  
+| bip_39_word_new_br_9 | debris<br>stadium<br>pair<br>shrimp<br>circle<br>opera<br>very<br>tag<br>loop |  
+| bip_39_word_new_line_1 | debris |  
+| bip_39_word_new_line_10 | debris
 stadium
 pair
 shrimp
@@ -55,7 +55,7 @@ very
 tag
 loop
 prison |  
-| bip_39_word_new_line11 | debris
+| bip_39_word_new_line_11 | debris
 stadium
 pair
 shrimp
@@ -66,7 +66,7 @@ tag
 loop
 prison
 position |  
-| bip_39_word_new_line12 | debris
+| bip_39_word_new_line_12 | debris
 stadium
 pair
 shrimp
@@ -78,34 +78,34 @@ loop
 prison
 position
 arrive |  
-| bip_39_word_new_line2 | debris
+| bip_39_word_new_line_2 | debris
 stadium |  
-| bip_39_word_new_line3 | debris
+| bip_39_word_new_line_3 | debris
 stadium
 pair |  
-| bip_39_word_new_line4 | debris
+| bip_39_word_new_line_4 | debris
 stadium
 pair
 shrimp |  
-| bip_39_word_new_line5 | debris
+| bip_39_word_new_line_5 | debris
 stadium
 pair
 shrimp
 circle |  
-| bip_39_word_new_line6 | debris
+| bip_39_word_new_line_6 | debris
 stadium
 pair
 shrimp
 circle
 opera |  
-| bip_39_word_new_line7 | debris
+| bip_39_word_new_line_7 | debris
 stadium
 pair
 shrimp
 circle
 opera
 very |  
-| bip_39_word_new_line8 | debris
+| bip_39_word_new_line_8 | debris
 stadium
 pair
 shrimp
@@ -113,7 +113,7 @@ circle
 opera
 very
 tag |  
-| bip_39_word_new_line9 | debris
+| bip_39_word_new_line_9 | debris
 stadium
 pair
 shrimp

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | winner |  
-| bip_39_word_new_br10 | winner<br>peace<br>merry<br>axis<br>stuff<br>old<br>canal<br>cloud<br>radar<br>vast |  
-| bip_39_word_new_br11 | winner<br>peace<br>merry<br>axis<br>stuff<br>old<br>canal<br>cloud<br>radar<br>vast<br>use |  
-| bip_39_word_new_br12 | winner<br>peace<br>merry<br>axis<br>stuff<br>old<br>canal<br>cloud<br>radar<br>vast<br>use<br>august |  
-| bip_39_word_new_br2 | winner<br>peace |  
-| bip_39_word_new_br3 | winner<br>peace<br>merry |  
-| bip_39_word_new_br4 | winner<br>peace<br>merry<br>axis |  
-| bip_39_word_new_br5 | winner<br>peace<br>merry<br>axis<br>stuff |  
-| bip_39_word_new_br6 | winner<br>peace<br>merry<br>axis<br>stuff<br>old |  
-| bip_39_word_new_br7 | winner<br>peace<br>merry<br>axis<br>stuff<br>old<br>canal |  
-| bip_39_word_new_br8 | winner<br>peace<br>merry<br>axis<br>stuff<br>old<br>canal<br>cloud |  
-| bip_39_word_new_br9 | winner<br>peace<br>merry<br>axis<br>stuff<br>old<br>canal<br>cloud<br>radar |  
-| bip_39_word_new_line1 | winner |  
-| bip_39_word_new_line10 | winner
+| bip_39_word_new_br_1 | winner |  
+| bip_39_word_new_br_10 | winner<br>peace<br>merry<br>axis<br>stuff<br>old<br>canal<br>cloud<br>radar<br>vast |  
+| bip_39_word_new_br_11 | winner<br>peace<br>merry<br>axis<br>stuff<br>old<br>canal<br>cloud<br>radar<br>vast<br>use |  
+| bip_39_word_new_br_12 | winner<br>peace<br>merry<br>axis<br>stuff<br>old<br>canal<br>cloud<br>radar<br>vast<br>use<br>august |  
+| bip_39_word_new_br_2 | winner<br>peace |  
+| bip_39_word_new_br_3 | winner<br>peace<br>merry |  
+| bip_39_word_new_br_4 | winner<br>peace<br>merry<br>axis |  
+| bip_39_word_new_br_5 | winner<br>peace<br>merry<br>axis<br>stuff |  
+| bip_39_word_new_br_6 | winner<br>peace<br>merry<br>axis<br>stuff<br>old |  
+| bip_39_word_new_br_7 | winner<br>peace<br>merry<br>axis<br>stuff<br>old<br>canal |  
+| bip_39_word_new_br_8 | winner<br>peace<br>merry<br>axis<br>stuff<br>old<br>canal<br>cloud |  
+| bip_39_word_new_br_9 | winner<br>peace<br>merry<br>axis<br>stuff<br>old<br>canal<br>cloud<br>radar |  
+| bip_39_word_new_line_1 | winner |  
+| bip_39_word_new_line_10 | winner
 peace
 merry
 axis
@@ -55,7 +55,7 @@ canal
 cloud
 radar
 vast |  
-| bip_39_word_new_line11 | winner
+| bip_39_word_new_line_11 | winner
 peace
 merry
 axis
@@ -66,7 +66,7 @@ cloud
 radar
 vast
 use |  
-| bip_39_word_new_line12 | winner
+| bip_39_word_new_line_12 | winner
 peace
 merry
 axis
@@ -78,34 +78,34 @@ radar
 vast
 use
 august |  
-| bip_39_word_new_line2 | winner
+| bip_39_word_new_line_2 | winner
 peace |  
-| bip_39_word_new_line3 | winner
+| bip_39_word_new_line_3 | winner
 peace
 merry |  
-| bip_39_word_new_line4 | winner
+| bip_39_word_new_line_4 | winner
 peace
 merry
 axis |  
-| bip_39_word_new_line5 | winner
+| bip_39_word_new_line_5 | winner
 peace
 merry
 axis
 stuff |  
-| bip_39_word_new_line6 | winner
+| bip_39_word_new_line_6 | winner
 peace
 merry
 axis
 stuff
 old |  
-| bip_39_word_new_line7 | winner
+| bip_39_word_new_line_7 | winner
 peace
 merry
 axis
 stuff
 old
 canal |  
-| bip_39_word_new_line8 | winner
+| bip_39_word_new_line_8 | winner
 peace
 merry
 axis
@@ -113,7 +113,7 @@ stuff
 old
 canal
 cloud |  
-| bip_39_word_new_line9 | winner
+| bip_39_word_new_line_9 | winner
 peace
 merry
 axis

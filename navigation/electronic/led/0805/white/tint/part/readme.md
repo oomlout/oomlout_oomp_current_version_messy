@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hobby |  
-| bip_39_word_new_br10 | hobby<br>wisdom<br>tissue<br>sausage<br>metal<br>script<br>salute<br>bachelor<br>diet<br>elbow |  
-| bip_39_word_new_br11 | hobby<br>wisdom<br>tissue<br>sausage<br>metal<br>script<br>salute<br>bachelor<br>diet<br>elbow<br>elbow |  
-| bip_39_word_new_br12 | hobby<br>wisdom<br>tissue<br>sausage<br>metal<br>script<br>salute<br>bachelor<br>diet<br>elbow<br>elbow<br>arena |  
-| bip_39_word_new_br2 | hobby<br>wisdom |  
-| bip_39_word_new_br3 | hobby<br>wisdom<br>tissue |  
-| bip_39_word_new_br4 | hobby<br>wisdom<br>tissue<br>sausage |  
-| bip_39_word_new_br5 | hobby<br>wisdom<br>tissue<br>sausage<br>metal |  
-| bip_39_word_new_br6 | hobby<br>wisdom<br>tissue<br>sausage<br>metal<br>script |  
-| bip_39_word_new_br7 | hobby<br>wisdom<br>tissue<br>sausage<br>metal<br>script<br>salute |  
-| bip_39_word_new_br8 | hobby<br>wisdom<br>tissue<br>sausage<br>metal<br>script<br>salute<br>bachelor |  
-| bip_39_word_new_br9 | hobby<br>wisdom<br>tissue<br>sausage<br>metal<br>script<br>salute<br>bachelor<br>diet |  
-| bip_39_word_new_line1 | hobby |  
-| bip_39_word_new_line10 | hobby
+| bip_39_word_new_br_1 | hobby |  
+| bip_39_word_new_br_10 | hobby<br>wisdom<br>tissue<br>sausage<br>metal<br>script<br>salute<br>bachelor<br>diet<br>elbow |  
+| bip_39_word_new_br_11 | hobby<br>wisdom<br>tissue<br>sausage<br>metal<br>script<br>salute<br>bachelor<br>diet<br>elbow<br>elbow |  
+| bip_39_word_new_br_12 | hobby<br>wisdom<br>tissue<br>sausage<br>metal<br>script<br>salute<br>bachelor<br>diet<br>elbow<br>elbow<br>arena |  
+| bip_39_word_new_br_2 | hobby<br>wisdom |  
+| bip_39_word_new_br_3 | hobby<br>wisdom<br>tissue |  
+| bip_39_word_new_br_4 | hobby<br>wisdom<br>tissue<br>sausage |  
+| bip_39_word_new_br_5 | hobby<br>wisdom<br>tissue<br>sausage<br>metal |  
+| bip_39_word_new_br_6 | hobby<br>wisdom<br>tissue<br>sausage<br>metal<br>script |  
+| bip_39_word_new_br_7 | hobby<br>wisdom<br>tissue<br>sausage<br>metal<br>script<br>salute |  
+| bip_39_word_new_br_8 | hobby<br>wisdom<br>tissue<br>sausage<br>metal<br>script<br>salute<br>bachelor |  
+| bip_39_word_new_br_9 | hobby<br>wisdom<br>tissue<br>sausage<br>metal<br>script<br>salute<br>bachelor<br>diet |  
+| bip_39_word_new_line_1 | hobby |  
+| bip_39_word_new_line_10 | hobby
 wisdom
 tissue
 sausage
@@ -55,7 +55,7 @@ salute
 bachelor
 diet
 elbow |  
-| bip_39_word_new_line11 | hobby
+| bip_39_word_new_line_11 | hobby
 wisdom
 tissue
 sausage
@@ -66,7 +66,7 @@ bachelor
 diet
 elbow
 elbow |  
-| bip_39_word_new_line12 | hobby
+| bip_39_word_new_line_12 | hobby
 wisdom
 tissue
 sausage
@@ -78,34 +78,34 @@ diet
 elbow
 elbow
 arena |  
-| bip_39_word_new_line2 | hobby
+| bip_39_word_new_line_2 | hobby
 wisdom |  
-| bip_39_word_new_line3 | hobby
+| bip_39_word_new_line_3 | hobby
 wisdom
 tissue |  
-| bip_39_word_new_line4 | hobby
+| bip_39_word_new_line_4 | hobby
 wisdom
 tissue
 sausage |  
-| bip_39_word_new_line5 | hobby
+| bip_39_word_new_line_5 | hobby
 wisdom
 tissue
 sausage
 metal |  
-| bip_39_word_new_line6 | hobby
+| bip_39_word_new_line_6 | hobby
 wisdom
 tissue
 sausage
 metal
 script |  
-| bip_39_word_new_line7 | hobby
+| bip_39_word_new_line_7 | hobby
 wisdom
 tissue
 sausage
 metal
 script
 salute |  
-| bip_39_word_new_line8 | hobby
+| bip_39_word_new_line_8 | hobby
 wisdom
 tissue
 sausage
@@ -113,7 +113,7 @@ metal
 script
 salute
 bachelor |  
-| bip_39_word_new_line9 | hobby
+| bip_39_word_new_line_9 | hobby
 wisdom
 tissue
 sausage

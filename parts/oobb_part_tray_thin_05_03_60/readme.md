@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | welcome |  
-| bip_39_word_new_br10 | welcome<br>inform<br>access<br>whisper<br>priority<br>address<br>supply<br>leisure<br>response<br>witness |  
-| bip_39_word_new_br11 | welcome<br>inform<br>access<br>whisper<br>priority<br>address<br>supply<br>leisure<br>response<br>witness<br>crowd |  
-| bip_39_word_new_br12 | welcome<br>inform<br>access<br>whisper<br>priority<br>address<br>supply<br>leisure<br>response<br>witness<br>crowd<br>alley |  
-| bip_39_word_new_br2 | welcome<br>inform |  
-| bip_39_word_new_br3 | welcome<br>inform<br>access |  
-| bip_39_word_new_br4 | welcome<br>inform<br>access<br>whisper |  
-| bip_39_word_new_br5 | welcome<br>inform<br>access<br>whisper<br>priority |  
-| bip_39_word_new_br6 | welcome<br>inform<br>access<br>whisper<br>priority<br>address |  
-| bip_39_word_new_br7 | welcome<br>inform<br>access<br>whisper<br>priority<br>address<br>supply |  
-| bip_39_word_new_br8 | welcome<br>inform<br>access<br>whisper<br>priority<br>address<br>supply<br>leisure |  
-| bip_39_word_new_br9 | welcome<br>inform<br>access<br>whisper<br>priority<br>address<br>supply<br>leisure<br>response |  
-| bip_39_word_new_line1 | welcome |  
-| bip_39_word_new_line10 | welcome
+| bip_39_word_new_br_1 | welcome |  
+| bip_39_word_new_br_10 | welcome<br>inform<br>access<br>whisper<br>priority<br>address<br>supply<br>leisure<br>response<br>witness |  
+| bip_39_word_new_br_11 | welcome<br>inform<br>access<br>whisper<br>priority<br>address<br>supply<br>leisure<br>response<br>witness<br>crowd |  
+| bip_39_word_new_br_12 | welcome<br>inform<br>access<br>whisper<br>priority<br>address<br>supply<br>leisure<br>response<br>witness<br>crowd<br>alley |  
+| bip_39_word_new_br_2 | welcome<br>inform |  
+| bip_39_word_new_br_3 | welcome<br>inform<br>access |  
+| bip_39_word_new_br_4 | welcome<br>inform<br>access<br>whisper |  
+| bip_39_word_new_br_5 | welcome<br>inform<br>access<br>whisper<br>priority |  
+| bip_39_word_new_br_6 | welcome<br>inform<br>access<br>whisper<br>priority<br>address |  
+| bip_39_word_new_br_7 | welcome<br>inform<br>access<br>whisper<br>priority<br>address<br>supply |  
+| bip_39_word_new_br_8 | welcome<br>inform<br>access<br>whisper<br>priority<br>address<br>supply<br>leisure |  
+| bip_39_word_new_br_9 | welcome<br>inform<br>access<br>whisper<br>priority<br>address<br>supply<br>leisure<br>response |  
+| bip_39_word_new_line_1 | welcome |  
+| bip_39_word_new_line_10 | welcome
 inform
 access
 whisper
@@ -55,7 +55,7 @@ supply
 leisure
 response
 witness |  
-| bip_39_word_new_line11 | welcome
+| bip_39_word_new_line_11 | welcome
 inform
 access
 whisper
@@ -66,7 +66,7 @@ leisure
 response
 witness
 crowd |  
-| bip_39_word_new_line12 | welcome
+| bip_39_word_new_line_12 | welcome
 inform
 access
 whisper
@@ -78,34 +78,34 @@ response
 witness
 crowd
 alley |  
-| bip_39_word_new_line2 | welcome
+| bip_39_word_new_line_2 | welcome
 inform |  
-| bip_39_word_new_line3 | welcome
+| bip_39_word_new_line_3 | welcome
 inform
 access |  
-| bip_39_word_new_line4 | welcome
+| bip_39_word_new_line_4 | welcome
 inform
 access
 whisper |  
-| bip_39_word_new_line5 | welcome
+| bip_39_word_new_line_5 | welcome
 inform
 access
 whisper
 priority |  
-| bip_39_word_new_line6 | welcome
+| bip_39_word_new_line_6 | welcome
 inform
 access
 whisper
 priority
 address |  
-| bip_39_word_new_line7 | welcome
+| bip_39_word_new_line_7 | welcome
 inform
 access
 whisper
 priority
 address
 supply |  
-| bip_39_word_new_line8 | welcome
+| bip_39_word_new_line_8 | welcome
 inform
 access
 whisper
@@ -113,7 +113,7 @@ priority
 address
 supply
 leisure |  
-| bip_39_word_new_line9 | welcome
+| bip_39_word_new_line_9 | welcome
 inform
 access
 whisper

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cool |  
-| bip_39_word_new_br10 | cool<br>liar<br>resemble<br>snack<br>real<br>valley<br>wild<br>electric<br>animal<br>concert |  
-| bip_39_word_new_br11 | cool<br>liar<br>resemble<br>snack<br>real<br>valley<br>wild<br>electric<br>animal<br>concert<br>write |  
-| bip_39_word_new_br12 | cool<br>liar<br>resemble<br>snack<br>real<br>valley<br>wild<br>electric<br>animal<br>concert<br>write<br>amount |  
-| bip_39_word_new_br2 | cool<br>liar |  
-| bip_39_word_new_br3 | cool<br>liar<br>resemble |  
-| bip_39_word_new_br4 | cool<br>liar<br>resemble<br>snack |  
-| bip_39_word_new_br5 | cool<br>liar<br>resemble<br>snack<br>real |  
-| bip_39_word_new_br6 | cool<br>liar<br>resemble<br>snack<br>real<br>valley |  
-| bip_39_word_new_br7 | cool<br>liar<br>resemble<br>snack<br>real<br>valley<br>wild |  
-| bip_39_word_new_br8 | cool<br>liar<br>resemble<br>snack<br>real<br>valley<br>wild<br>electric |  
-| bip_39_word_new_br9 | cool<br>liar<br>resemble<br>snack<br>real<br>valley<br>wild<br>electric<br>animal |  
-| bip_39_word_new_line1 | cool |  
-| bip_39_word_new_line10 | cool
+| bip_39_word_new_br_1 | cool |  
+| bip_39_word_new_br_10 | cool<br>liar<br>resemble<br>snack<br>real<br>valley<br>wild<br>electric<br>animal<br>concert |  
+| bip_39_word_new_br_11 | cool<br>liar<br>resemble<br>snack<br>real<br>valley<br>wild<br>electric<br>animal<br>concert<br>write |  
+| bip_39_word_new_br_12 | cool<br>liar<br>resemble<br>snack<br>real<br>valley<br>wild<br>electric<br>animal<br>concert<br>write<br>amount |  
+| bip_39_word_new_br_2 | cool<br>liar |  
+| bip_39_word_new_br_3 | cool<br>liar<br>resemble |  
+| bip_39_word_new_br_4 | cool<br>liar<br>resemble<br>snack |  
+| bip_39_word_new_br_5 | cool<br>liar<br>resemble<br>snack<br>real |  
+| bip_39_word_new_br_6 | cool<br>liar<br>resemble<br>snack<br>real<br>valley |  
+| bip_39_word_new_br_7 | cool<br>liar<br>resemble<br>snack<br>real<br>valley<br>wild |  
+| bip_39_word_new_br_8 | cool<br>liar<br>resemble<br>snack<br>real<br>valley<br>wild<br>electric |  
+| bip_39_word_new_br_9 | cool<br>liar<br>resemble<br>snack<br>real<br>valley<br>wild<br>electric<br>animal |  
+| bip_39_word_new_line_1 | cool |  
+| bip_39_word_new_line_10 | cool
 liar
 resemble
 snack
@@ -55,7 +55,7 @@ wild
 electric
 animal
 concert |  
-| bip_39_word_new_line11 | cool
+| bip_39_word_new_line_11 | cool
 liar
 resemble
 snack
@@ -66,7 +66,7 @@ electric
 animal
 concert
 write |  
-| bip_39_word_new_line12 | cool
+| bip_39_word_new_line_12 | cool
 liar
 resemble
 snack
@@ -78,34 +78,34 @@ animal
 concert
 write
 amount |  
-| bip_39_word_new_line2 | cool
+| bip_39_word_new_line_2 | cool
 liar |  
-| bip_39_word_new_line3 | cool
+| bip_39_word_new_line_3 | cool
 liar
 resemble |  
-| bip_39_word_new_line4 | cool
+| bip_39_word_new_line_4 | cool
 liar
 resemble
 snack |  
-| bip_39_word_new_line5 | cool
+| bip_39_word_new_line_5 | cool
 liar
 resemble
 snack
 real |  
-| bip_39_word_new_line6 | cool
+| bip_39_word_new_line_6 | cool
 liar
 resemble
 snack
 real
 valley |  
-| bip_39_word_new_line7 | cool
+| bip_39_word_new_line_7 | cool
 liar
 resemble
 snack
 real
 valley
 wild |  
-| bip_39_word_new_line8 | cool
+| bip_39_word_new_line_8 | cool
 liar
 resemble
 snack
@@ -113,7 +113,7 @@ real
 valley
 wild
 electric |  
-| bip_39_word_new_line9 | cool
+| bip_39_word_new_line_9 | cool
 liar
 resemble
 snack

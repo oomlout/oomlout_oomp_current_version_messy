@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | acid |  
-| bip_39_word_new_br10 | acid<br>sense<br>moment<br>angry<br>basic<br>waste<br>embrace<br>sunset<br>orange<br>quiz |  
-| bip_39_word_new_br11 | acid<br>sense<br>moment<br>angry<br>basic<br>waste<br>embrace<br>sunset<br>orange<br>quiz<br>grass |  
-| bip_39_word_new_br12 | acid<br>sense<br>moment<br>angry<br>basic<br>waste<br>embrace<br>sunset<br>orange<br>quiz<br>grass<br>aerobic |  
-| bip_39_word_new_br2 | acid<br>sense |  
-| bip_39_word_new_br3 | acid<br>sense<br>moment |  
-| bip_39_word_new_br4 | acid<br>sense<br>moment<br>angry |  
-| bip_39_word_new_br5 | acid<br>sense<br>moment<br>angry<br>basic |  
-| bip_39_word_new_br6 | acid<br>sense<br>moment<br>angry<br>basic<br>waste |  
-| bip_39_word_new_br7 | acid<br>sense<br>moment<br>angry<br>basic<br>waste<br>embrace |  
-| bip_39_word_new_br8 | acid<br>sense<br>moment<br>angry<br>basic<br>waste<br>embrace<br>sunset |  
-| bip_39_word_new_br9 | acid<br>sense<br>moment<br>angry<br>basic<br>waste<br>embrace<br>sunset<br>orange |  
-| bip_39_word_new_line1 | acid |  
-| bip_39_word_new_line10 | acid
+| bip_39_word_new_br_1 | acid |  
+| bip_39_word_new_br_10 | acid<br>sense<br>moment<br>angry<br>basic<br>waste<br>embrace<br>sunset<br>orange<br>quiz |  
+| bip_39_word_new_br_11 | acid<br>sense<br>moment<br>angry<br>basic<br>waste<br>embrace<br>sunset<br>orange<br>quiz<br>grass |  
+| bip_39_word_new_br_12 | acid<br>sense<br>moment<br>angry<br>basic<br>waste<br>embrace<br>sunset<br>orange<br>quiz<br>grass<br>aerobic |  
+| bip_39_word_new_br_2 | acid<br>sense |  
+| bip_39_word_new_br_3 | acid<br>sense<br>moment |  
+| bip_39_word_new_br_4 | acid<br>sense<br>moment<br>angry |  
+| bip_39_word_new_br_5 | acid<br>sense<br>moment<br>angry<br>basic |  
+| bip_39_word_new_br_6 | acid<br>sense<br>moment<br>angry<br>basic<br>waste |  
+| bip_39_word_new_br_7 | acid<br>sense<br>moment<br>angry<br>basic<br>waste<br>embrace |  
+| bip_39_word_new_br_8 | acid<br>sense<br>moment<br>angry<br>basic<br>waste<br>embrace<br>sunset |  
+| bip_39_word_new_br_9 | acid<br>sense<br>moment<br>angry<br>basic<br>waste<br>embrace<br>sunset<br>orange |  
+| bip_39_word_new_line_1 | acid |  
+| bip_39_word_new_line_10 | acid
 sense
 moment
 angry
@@ -55,7 +55,7 @@ embrace
 sunset
 orange
 quiz |  
-| bip_39_word_new_line11 | acid
+| bip_39_word_new_line_11 | acid
 sense
 moment
 angry
@@ -66,7 +66,7 @@ sunset
 orange
 quiz
 grass |  
-| bip_39_word_new_line12 | acid
+| bip_39_word_new_line_12 | acid
 sense
 moment
 angry
@@ -78,34 +78,34 @@ orange
 quiz
 grass
 aerobic |  
-| bip_39_word_new_line2 | acid
+| bip_39_word_new_line_2 | acid
 sense |  
-| bip_39_word_new_line3 | acid
+| bip_39_word_new_line_3 | acid
 sense
 moment |  
-| bip_39_word_new_line4 | acid
+| bip_39_word_new_line_4 | acid
 sense
 moment
 angry |  
-| bip_39_word_new_line5 | acid
+| bip_39_word_new_line_5 | acid
 sense
 moment
 angry
 basic |  
-| bip_39_word_new_line6 | acid
+| bip_39_word_new_line_6 | acid
 sense
 moment
 angry
 basic
 waste |  
-| bip_39_word_new_line7 | acid
+| bip_39_word_new_line_7 | acid
 sense
 moment
 angry
 basic
 waste
 embrace |  
-| bip_39_word_new_line8 | acid
+| bip_39_word_new_line_8 | acid
 sense
 moment
 angry
@@ -113,7 +113,7 @@ basic
 waste
 embrace
 sunset |  
-| bip_39_word_new_line9 | acid
+| bip_39_word_new_line_9 | acid
 sense
 moment
 angry

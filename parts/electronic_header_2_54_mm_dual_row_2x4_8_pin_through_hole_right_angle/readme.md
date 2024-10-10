@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | either |  
-| bip_39_word_new_br10 | either<br>ramp<br>daring<br>divide<br>unable<br>voice<br>million<br>warm<br>auto<br>mystery |  
-| bip_39_word_new_br11 | either<br>ramp<br>daring<br>divide<br>unable<br>voice<br>million<br>warm<br>auto<br>mystery<br>verb |  
-| bip_39_word_new_br12 | either<br>ramp<br>daring<br>divide<br>unable<br>voice<br>million<br>warm<br>auto<br>mystery<br>verb<br>ability |  
-| bip_39_word_new_br2 | either<br>ramp |  
-| bip_39_word_new_br3 | either<br>ramp<br>daring |  
-| bip_39_word_new_br4 | either<br>ramp<br>daring<br>divide |  
-| bip_39_word_new_br5 | either<br>ramp<br>daring<br>divide<br>unable |  
-| bip_39_word_new_br6 | either<br>ramp<br>daring<br>divide<br>unable<br>voice |  
-| bip_39_word_new_br7 | either<br>ramp<br>daring<br>divide<br>unable<br>voice<br>million |  
-| bip_39_word_new_br8 | either<br>ramp<br>daring<br>divide<br>unable<br>voice<br>million<br>warm |  
-| bip_39_word_new_br9 | either<br>ramp<br>daring<br>divide<br>unable<br>voice<br>million<br>warm<br>auto |  
-| bip_39_word_new_line1 | either |  
-| bip_39_word_new_line10 | either
+| bip_39_word_new_br_1 | either |  
+| bip_39_word_new_br_10 | either<br>ramp<br>daring<br>divide<br>unable<br>voice<br>million<br>warm<br>auto<br>mystery |  
+| bip_39_word_new_br_11 | either<br>ramp<br>daring<br>divide<br>unable<br>voice<br>million<br>warm<br>auto<br>mystery<br>verb |  
+| bip_39_word_new_br_12 | either<br>ramp<br>daring<br>divide<br>unable<br>voice<br>million<br>warm<br>auto<br>mystery<br>verb<br>ability |  
+| bip_39_word_new_br_2 | either<br>ramp |  
+| bip_39_word_new_br_3 | either<br>ramp<br>daring |  
+| bip_39_word_new_br_4 | either<br>ramp<br>daring<br>divide |  
+| bip_39_word_new_br_5 | either<br>ramp<br>daring<br>divide<br>unable |  
+| bip_39_word_new_br_6 | either<br>ramp<br>daring<br>divide<br>unable<br>voice |  
+| bip_39_word_new_br_7 | either<br>ramp<br>daring<br>divide<br>unable<br>voice<br>million |  
+| bip_39_word_new_br_8 | either<br>ramp<br>daring<br>divide<br>unable<br>voice<br>million<br>warm |  
+| bip_39_word_new_br_9 | either<br>ramp<br>daring<br>divide<br>unable<br>voice<br>million<br>warm<br>auto |  
+| bip_39_word_new_line_1 | either |  
+| bip_39_word_new_line_10 | either
 ramp
 daring
 divide
@@ -55,7 +55,7 @@ million
 warm
 auto
 mystery |  
-| bip_39_word_new_line11 | either
+| bip_39_word_new_line_11 | either
 ramp
 daring
 divide
@@ -66,7 +66,7 @@ warm
 auto
 mystery
 verb |  
-| bip_39_word_new_line12 | either
+| bip_39_word_new_line_12 | either
 ramp
 daring
 divide
@@ -78,34 +78,34 @@ auto
 mystery
 verb
 ability |  
-| bip_39_word_new_line2 | either
+| bip_39_word_new_line_2 | either
 ramp |  
-| bip_39_word_new_line3 | either
+| bip_39_word_new_line_3 | either
 ramp
 daring |  
-| bip_39_word_new_line4 | either
+| bip_39_word_new_line_4 | either
 ramp
 daring
 divide |  
-| bip_39_word_new_line5 | either
+| bip_39_word_new_line_5 | either
 ramp
 daring
 divide
 unable |  
-| bip_39_word_new_line6 | either
+| bip_39_word_new_line_6 | either
 ramp
 daring
 divide
 unable
 voice |  
-| bip_39_word_new_line7 | either
+| bip_39_word_new_line_7 | either
 ramp
 daring
 divide
 unable
 voice
 million |  
-| bip_39_word_new_line8 | either
+| bip_39_word_new_line_8 | either
 ramp
 daring
 divide
@@ -113,7 +113,7 @@ unable
 voice
 million
 warm |  
-| bip_39_word_new_line9 | either
+| bip_39_word_new_line_9 | either
 ramp
 daring
 divide

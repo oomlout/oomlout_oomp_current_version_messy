@@ -1,17 +1,17 @@
-bip_39_word_new_br1: boil
-bip_39_word_new_br10: boil<br>fruit<br>faculty<br>drop<br>test<br>shock<br>feature<br>stem<br>chief<br>banner
-bip_39_word_new_br11: boil<br>fruit<br>faculty<br>drop<br>test<br>shock<br>feature<br>stem<br>chief<br>banner<br>cousin
-bip_39_word_new_br12: boil<br>fruit<br>faculty<br>drop<br>test<br>shock<br>feature<br>stem<br>chief<br>banner<br>cousin<br>armor
-bip_39_word_new_br2: boil<br>fruit
-bip_39_word_new_br3: boil<br>fruit<br>faculty
-bip_39_word_new_br4: boil<br>fruit<br>faculty<br>drop
-bip_39_word_new_br5: boil<br>fruit<br>faculty<br>drop<br>test
-bip_39_word_new_br6: boil<br>fruit<br>faculty<br>drop<br>test<br>shock
-bip_39_word_new_br7: boil<br>fruit<br>faculty<br>drop<br>test<br>shock<br>feature
-bip_39_word_new_br8: boil<br>fruit<br>faculty<br>drop<br>test<br>shock<br>feature<br>stem
-bip_39_word_new_br9: boil<br>fruit<br>faculty<br>drop<br>test<br>shock<br>feature<br>stem<br>chief
-bip_39_word_new_line1: boil
-bip_39_word_new_line10: 'boil
+bip_39_word_new_br_1: boil
+bip_39_word_new_br_10: boil<br>fruit<br>faculty<br>drop<br>test<br>shock<br>feature<br>stem<br>chief<br>banner
+bip_39_word_new_br_11: boil<br>fruit<br>faculty<br>drop<br>test<br>shock<br>feature<br>stem<br>chief<br>banner<br>cousin
+bip_39_word_new_br_12: boil<br>fruit<br>faculty<br>drop<br>test<br>shock<br>feature<br>stem<br>chief<br>banner<br>cousin<br>armor
+bip_39_word_new_br_2: boil<br>fruit
+bip_39_word_new_br_3: boil<br>fruit<br>faculty
+bip_39_word_new_br_4: boil<br>fruit<br>faculty<br>drop
+bip_39_word_new_br_5: boil<br>fruit<br>faculty<br>drop<br>test
+bip_39_word_new_br_6: boil<br>fruit<br>faculty<br>drop<br>test<br>shock
+bip_39_word_new_br_7: boil<br>fruit<br>faculty<br>drop<br>test<br>shock<br>feature
+bip_39_word_new_br_8: boil<br>fruit<br>faculty<br>drop<br>test<br>shock<br>feature<br>stem
+bip_39_word_new_br_9: boil<br>fruit<br>faculty<br>drop<br>test<br>shock<br>feature<br>stem<br>chief
+bip_39_word_new_line_1: boil
+bip_39_word_new_line_10: 'boil
 
   fruit
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'boil
   chief
 
   banner'
-bip_39_word_new_line11: 'boil
+bip_39_word_new_line_11: 'boil
 
   fruit
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'boil
   banner
 
   cousin'
-bip_39_word_new_line12: 'boil
+bip_39_word_new_line_12: 'boil
 
   fruit
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'boil
   cousin
 
   armor'
-bip_39_word_new_line2: 'boil
+bip_39_word_new_line_2: 'boil
 
   fruit'
-bip_39_word_new_line3: 'boil
+bip_39_word_new_line_3: 'boil
 
   fruit
 
   faculty'
-bip_39_word_new_line4: 'boil
+bip_39_word_new_line_4: 'boil
 
   fruit
 
   faculty
 
   drop'
-bip_39_word_new_line5: 'boil
+bip_39_word_new_line_5: 'boil
 
   fruit
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'boil
   drop
 
   test'
-bip_39_word_new_line6: 'boil
+bip_39_word_new_line_6: 'boil
 
   fruit
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'boil
   test
 
   shock'
-bip_39_word_new_line7: 'boil
+bip_39_word_new_line_7: 'boil
 
   fruit
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'boil
   shock
 
   feature'
-bip_39_word_new_line8: 'boil
+bip_39_word_new_line_8: 'boil
 
   fruit
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'boil
   feature
 
   stem'
-bip_39_word_new_line9: 'boil
+bip_39_word_new_line_9: 'boil
 
   fruit
 

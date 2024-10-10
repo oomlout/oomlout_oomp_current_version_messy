@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | october |  
-| bip_39_word_new_br10 | october<br>public<br>oven<br>loop<br>purse<br>guilt<br>fiber<br>amazing<br>rug<br>breeze |  
-| bip_39_word_new_br11 | october<br>public<br>oven<br>loop<br>purse<br>guilt<br>fiber<br>amazing<br>rug<br>breeze<br>table |  
-| bip_39_word_new_br12 | october<br>public<br>oven<br>loop<br>purse<br>guilt<br>fiber<br>amazing<br>rug<br>breeze<br>table<br>alley |  
-| bip_39_word_new_br2 | october<br>public |  
-| bip_39_word_new_br3 | october<br>public<br>oven |  
-| bip_39_word_new_br4 | october<br>public<br>oven<br>loop |  
-| bip_39_word_new_br5 | october<br>public<br>oven<br>loop<br>purse |  
-| bip_39_word_new_br6 | october<br>public<br>oven<br>loop<br>purse<br>guilt |  
-| bip_39_word_new_br7 | october<br>public<br>oven<br>loop<br>purse<br>guilt<br>fiber |  
-| bip_39_word_new_br8 | october<br>public<br>oven<br>loop<br>purse<br>guilt<br>fiber<br>amazing |  
-| bip_39_word_new_br9 | october<br>public<br>oven<br>loop<br>purse<br>guilt<br>fiber<br>amazing<br>rug |  
-| bip_39_word_new_line1 | october |  
-| bip_39_word_new_line10 | october
+| bip_39_word_new_br_1 | october |  
+| bip_39_word_new_br_10 | october<br>public<br>oven<br>loop<br>purse<br>guilt<br>fiber<br>amazing<br>rug<br>breeze |  
+| bip_39_word_new_br_11 | october<br>public<br>oven<br>loop<br>purse<br>guilt<br>fiber<br>amazing<br>rug<br>breeze<br>table |  
+| bip_39_word_new_br_12 | october<br>public<br>oven<br>loop<br>purse<br>guilt<br>fiber<br>amazing<br>rug<br>breeze<br>table<br>alley |  
+| bip_39_word_new_br_2 | october<br>public |  
+| bip_39_word_new_br_3 | october<br>public<br>oven |  
+| bip_39_word_new_br_4 | october<br>public<br>oven<br>loop |  
+| bip_39_word_new_br_5 | october<br>public<br>oven<br>loop<br>purse |  
+| bip_39_word_new_br_6 | october<br>public<br>oven<br>loop<br>purse<br>guilt |  
+| bip_39_word_new_br_7 | october<br>public<br>oven<br>loop<br>purse<br>guilt<br>fiber |  
+| bip_39_word_new_br_8 | october<br>public<br>oven<br>loop<br>purse<br>guilt<br>fiber<br>amazing |  
+| bip_39_word_new_br_9 | october<br>public<br>oven<br>loop<br>purse<br>guilt<br>fiber<br>amazing<br>rug |  
+| bip_39_word_new_line_1 | october |  
+| bip_39_word_new_line_10 | october
 public
 oven
 loop
@@ -55,7 +55,7 @@ fiber
 amazing
 rug
 breeze |  
-| bip_39_word_new_line11 | october
+| bip_39_word_new_line_11 | october
 public
 oven
 loop
@@ -66,7 +66,7 @@ amazing
 rug
 breeze
 table |  
-| bip_39_word_new_line12 | october
+| bip_39_word_new_line_12 | october
 public
 oven
 loop
@@ -78,34 +78,34 @@ rug
 breeze
 table
 alley |  
-| bip_39_word_new_line2 | october
+| bip_39_word_new_line_2 | october
 public |  
-| bip_39_word_new_line3 | october
+| bip_39_word_new_line_3 | october
 public
 oven |  
-| bip_39_word_new_line4 | october
+| bip_39_word_new_line_4 | october
 public
 oven
 loop |  
-| bip_39_word_new_line5 | october
+| bip_39_word_new_line_5 | october
 public
 oven
 loop
 purse |  
-| bip_39_word_new_line6 | october
+| bip_39_word_new_line_6 | october
 public
 oven
 loop
 purse
 guilt |  
-| bip_39_word_new_line7 | october
+| bip_39_word_new_line_7 | october
 public
 oven
 loop
 purse
 guilt
 fiber |  
-| bip_39_word_new_line8 | october
+| bip_39_word_new_line_8 | october
 public
 oven
 loop
@@ -113,7 +113,7 @@ purse
 guilt
 fiber
 amazing |  
-| bip_39_word_new_line9 | october
+| bip_39_word_new_line_9 | october
 public
 oven
 loop

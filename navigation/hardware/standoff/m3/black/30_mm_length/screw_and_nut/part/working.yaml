@@ -1,17 +1,17 @@
-bip_39_word_new_br1: armor
-bip_39_word_new_br10: armor<br>stock<br>profit<br>river<br>box<br>limb<br>run<br>inside<br>blouse<br>knee
-bip_39_word_new_br11: armor<br>stock<br>profit<br>river<br>box<br>limb<br>run<br>inside<br>blouse<br>knee<br>melt
-bip_39_word_new_br12: armor<br>stock<br>profit<br>river<br>box<br>limb<br>run<br>inside<br>blouse<br>knee<br>melt<br>absorb
-bip_39_word_new_br2: armor<br>stock
-bip_39_word_new_br3: armor<br>stock<br>profit
-bip_39_word_new_br4: armor<br>stock<br>profit<br>river
-bip_39_word_new_br5: armor<br>stock<br>profit<br>river<br>box
-bip_39_word_new_br6: armor<br>stock<br>profit<br>river<br>box<br>limb
-bip_39_word_new_br7: armor<br>stock<br>profit<br>river<br>box<br>limb<br>run
-bip_39_word_new_br8: armor<br>stock<br>profit<br>river<br>box<br>limb<br>run<br>inside
-bip_39_word_new_br9: armor<br>stock<br>profit<br>river<br>box<br>limb<br>run<br>inside<br>blouse
-bip_39_word_new_line1: armor
-bip_39_word_new_line10: 'armor
+bip_39_word_new_br_1: armor
+bip_39_word_new_br_10: armor<br>stock<br>profit<br>river<br>box<br>limb<br>run<br>inside<br>blouse<br>knee
+bip_39_word_new_br_11: armor<br>stock<br>profit<br>river<br>box<br>limb<br>run<br>inside<br>blouse<br>knee<br>melt
+bip_39_word_new_br_12: armor<br>stock<br>profit<br>river<br>box<br>limb<br>run<br>inside<br>blouse<br>knee<br>melt<br>absorb
+bip_39_word_new_br_2: armor<br>stock
+bip_39_word_new_br_3: armor<br>stock<br>profit
+bip_39_word_new_br_4: armor<br>stock<br>profit<br>river
+bip_39_word_new_br_5: armor<br>stock<br>profit<br>river<br>box
+bip_39_word_new_br_6: armor<br>stock<br>profit<br>river<br>box<br>limb
+bip_39_word_new_br_7: armor<br>stock<br>profit<br>river<br>box<br>limb<br>run
+bip_39_word_new_br_8: armor<br>stock<br>profit<br>river<br>box<br>limb<br>run<br>inside
+bip_39_word_new_br_9: armor<br>stock<br>profit<br>river<br>box<br>limb<br>run<br>inside<br>blouse
+bip_39_word_new_line_1: armor
+bip_39_word_new_line_10: 'armor
 
   stock
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'armor
   blouse
 
   knee'
-bip_39_word_new_line11: 'armor
+bip_39_word_new_line_11: 'armor
 
   stock
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'armor
   knee
 
   melt'
-bip_39_word_new_line12: 'armor
+bip_39_word_new_line_12: 'armor
 
   stock
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'armor
   melt
 
   absorb'
-bip_39_word_new_line2: 'armor
+bip_39_word_new_line_2: 'armor
 
   stock'
-bip_39_word_new_line3: 'armor
+bip_39_word_new_line_3: 'armor
 
   stock
 
   profit'
-bip_39_word_new_line4: 'armor
+bip_39_word_new_line_4: 'armor
 
   stock
 
   profit
 
   river'
-bip_39_word_new_line5: 'armor
+bip_39_word_new_line_5: 'armor
 
   stock
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'armor
   river
 
   box'
-bip_39_word_new_line6: 'armor
+bip_39_word_new_line_6: 'armor
 
   stock
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'armor
   box
 
   limb'
-bip_39_word_new_line7: 'armor
+bip_39_word_new_line_7: 'armor
 
   stock
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'armor
   limb
 
   run'
-bip_39_word_new_line8: 'armor
+bip_39_word_new_line_8: 'armor
 
   stock
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'armor
   run
 
   inside'
-bip_39_word_new_line9: 'armor
+bip_39_word_new_line_9: 'armor
 
   stock
 

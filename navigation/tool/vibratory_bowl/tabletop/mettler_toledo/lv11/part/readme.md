@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | crime |  
-| bip_39_word_new_br10 | crime<br>wedding<br>satisfy<br>wisdom<br>fatigue<br>injury<br>twice<br>number<br>shoe<br>tired |  
-| bip_39_word_new_br11 | crime<br>wedding<br>satisfy<br>wisdom<br>fatigue<br>injury<br>twice<br>number<br>shoe<br>tired<br>know |  
-| bip_39_word_new_br12 | crime<br>wedding<br>satisfy<br>wisdom<br>fatigue<br>injury<br>twice<br>number<br>shoe<br>tired<br>know<br>armor |  
-| bip_39_word_new_br2 | crime<br>wedding |  
-| bip_39_word_new_br3 | crime<br>wedding<br>satisfy |  
-| bip_39_word_new_br4 | crime<br>wedding<br>satisfy<br>wisdom |  
-| bip_39_word_new_br5 | crime<br>wedding<br>satisfy<br>wisdom<br>fatigue |  
-| bip_39_word_new_br6 | crime<br>wedding<br>satisfy<br>wisdom<br>fatigue<br>injury |  
-| bip_39_word_new_br7 | crime<br>wedding<br>satisfy<br>wisdom<br>fatigue<br>injury<br>twice |  
-| bip_39_word_new_br8 | crime<br>wedding<br>satisfy<br>wisdom<br>fatigue<br>injury<br>twice<br>number |  
-| bip_39_word_new_br9 | crime<br>wedding<br>satisfy<br>wisdom<br>fatigue<br>injury<br>twice<br>number<br>shoe |  
-| bip_39_word_new_line1 | crime |  
-| bip_39_word_new_line10 | crime
+| bip_39_word_new_br_1 | crime |  
+| bip_39_word_new_br_10 | crime<br>wedding<br>satisfy<br>wisdom<br>fatigue<br>injury<br>twice<br>number<br>shoe<br>tired |  
+| bip_39_word_new_br_11 | crime<br>wedding<br>satisfy<br>wisdom<br>fatigue<br>injury<br>twice<br>number<br>shoe<br>tired<br>know |  
+| bip_39_word_new_br_12 | crime<br>wedding<br>satisfy<br>wisdom<br>fatigue<br>injury<br>twice<br>number<br>shoe<br>tired<br>know<br>armor |  
+| bip_39_word_new_br_2 | crime<br>wedding |  
+| bip_39_word_new_br_3 | crime<br>wedding<br>satisfy |  
+| bip_39_word_new_br_4 | crime<br>wedding<br>satisfy<br>wisdom |  
+| bip_39_word_new_br_5 | crime<br>wedding<br>satisfy<br>wisdom<br>fatigue |  
+| bip_39_word_new_br_6 | crime<br>wedding<br>satisfy<br>wisdom<br>fatigue<br>injury |  
+| bip_39_word_new_br_7 | crime<br>wedding<br>satisfy<br>wisdom<br>fatigue<br>injury<br>twice |  
+| bip_39_word_new_br_8 | crime<br>wedding<br>satisfy<br>wisdom<br>fatigue<br>injury<br>twice<br>number |  
+| bip_39_word_new_br_9 | crime<br>wedding<br>satisfy<br>wisdom<br>fatigue<br>injury<br>twice<br>number<br>shoe |  
+| bip_39_word_new_line_1 | crime |  
+| bip_39_word_new_line_10 | crime
 wedding
 satisfy
 wisdom
@@ -55,7 +55,7 @@ twice
 number
 shoe
 tired |  
-| bip_39_word_new_line11 | crime
+| bip_39_word_new_line_11 | crime
 wedding
 satisfy
 wisdom
@@ -66,7 +66,7 @@ number
 shoe
 tired
 know |  
-| bip_39_word_new_line12 | crime
+| bip_39_word_new_line_12 | crime
 wedding
 satisfy
 wisdom
@@ -78,34 +78,34 @@ shoe
 tired
 know
 armor |  
-| bip_39_word_new_line2 | crime
+| bip_39_word_new_line_2 | crime
 wedding |  
-| bip_39_word_new_line3 | crime
+| bip_39_word_new_line_3 | crime
 wedding
 satisfy |  
-| bip_39_word_new_line4 | crime
+| bip_39_word_new_line_4 | crime
 wedding
 satisfy
 wisdom |  
-| bip_39_word_new_line5 | crime
+| bip_39_word_new_line_5 | crime
 wedding
 satisfy
 wisdom
 fatigue |  
-| bip_39_word_new_line6 | crime
+| bip_39_word_new_line_6 | crime
 wedding
 satisfy
 wisdom
 fatigue
 injury |  
-| bip_39_word_new_line7 | crime
+| bip_39_word_new_line_7 | crime
 wedding
 satisfy
 wisdom
 fatigue
 injury
 twice |  
-| bip_39_word_new_line8 | crime
+| bip_39_word_new_line_8 | crime
 wedding
 satisfy
 wisdom
@@ -113,7 +113,7 @@ fatigue
 injury
 twice
 number |  
-| bip_39_word_new_line9 | crime
+| bip_39_word_new_line_9 | crime
 wedding
 satisfy
 wisdom

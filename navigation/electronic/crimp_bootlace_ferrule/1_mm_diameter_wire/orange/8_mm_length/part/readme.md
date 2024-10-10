@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | jelly |  
-| bip_39_word_new_br10 | jelly<br>build<br>huge<br>child<br>ozone<br>sick<br>melt<br>lens<br>city<br>embark |  
-| bip_39_word_new_br11 | jelly<br>build<br>huge<br>child<br>ozone<br>sick<br>melt<br>lens<br>city<br>embark<br>tourist |  
-| bip_39_word_new_br12 | jelly<br>build<br>huge<br>child<br>ozone<br>sick<br>melt<br>lens<br>city<br>embark<br>tourist<br>ability |  
-| bip_39_word_new_br2 | jelly<br>build |  
-| bip_39_word_new_br3 | jelly<br>build<br>huge |  
-| bip_39_word_new_br4 | jelly<br>build<br>huge<br>child |  
-| bip_39_word_new_br5 | jelly<br>build<br>huge<br>child<br>ozone |  
-| bip_39_word_new_br6 | jelly<br>build<br>huge<br>child<br>ozone<br>sick |  
-| bip_39_word_new_br7 | jelly<br>build<br>huge<br>child<br>ozone<br>sick<br>melt |  
-| bip_39_word_new_br8 | jelly<br>build<br>huge<br>child<br>ozone<br>sick<br>melt<br>lens |  
-| bip_39_word_new_br9 | jelly<br>build<br>huge<br>child<br>ozone<br>sick<br>melt<br>lens<br>city |  
-| bip_39_word_new_line1 | jelly |  
-| bip_39_word_new_line10 | jelly
+| bip_39_word_new_br_1 | jelly |  
+| bip_39_word_new_br_10 | jelly<br>build<br>huge<br>child<br>ozone<br>sick<br>melt<br>lens<br>city<br>embark |  
+| bip_39_word_new_br_11 | jelly<br>build<br>huge<br>child<br>ozone<br>sick<br>melt<br>lens<br>city<br>embark<br>tourist |  
+| bip_39_word_new_br_12 | jelly<br>build<br>huge<br>child<br>ozone<br>sick<br>melt<br>lens<br>city<br>embark<br>tourist<br>ability |  
+| bip_39_word_new_br_2 | jelly<br>build |  
+| bip_39_word_new_br_3 | jelly<br>build<br>huge |  
+| bip_39_word_new_br_4 | jelly<br>build<br>huge<br>child |  
+| bip_39_word_new_br_5 | jelly<br>build<br>huge<br>child<br>ozone |  
+| bip_39_word_new_br_6 | jelly<br>build<br>huge<br>child<br>ozone<br>sick |  
+| bip_39_word_new_br_7 | jelly<br>build<br>huge<br>child<br>ozone<br>sick<br>melt |  
+| bip_39_word_new_br_8 | jelly<br>build<br>huge<br>child<br>ozone<br>sick<br>melt<br>lens |  
+| bip_39_word_new_br_9 | jelly<br>build<br>huge<br>child<br>ozone<br>sick<br>melt<br>lens<br>city |  
+| bip_39_word_new_line_1 | jelly |  
+| bip_39_word_new_line_10 | jelly
 build
 huge
 child
@@ -55,7 +55,7 @@ melt
 lens
 city
 embark |  
-| bip_39_word_new_line11 | jelly
+| bip_39_word_new_line_11 | jelly
 build
 huge
 child
@@ -66,7 +66,7 @@ lens
 city
 embark
 tourist |  
-| bip_39_word_new_line12 | jelly
+| bip_39_word_new_line_12 | jelly
 build
 huge
 child
@@ -78,34 +78,34 @@ city
 embark
 tourist
 ability |  
-| bip_39_word_new_line2 | jelly
+| bip_39_word_new_line_2 | jelly
 build |  
-| bip_39_word_new_line3 | jelly
+| bip_39_word_new_line_3 | jelly
 build
 huge |  
-| bip_39_word_new_line4 | jelly
+| bip_39_word_new_line_4 | jelly
 build
 huge
 child |  
-| bip_39_word_new_line5 | jelly
+| bip_39_word_new_line_5 | jelly
 build
 huge
 child
 ozone |  
-| bip_39_word_new_line6 | jelly
+| bip_39_word_new_line_6 | jelly
 build
 huge
 child
 ozone
 sick |  
-| bip_39_word_new_line7 | jelly
+| bip_39_word_new_line_7 | jelly
 build
 huge
 child
 ozone
 sick
 melt |  
-| bip_39_word_new_line8 | jelly
+| bip_39_word_new_line_8 | jelly
 build
 huge
 child
@@ -113,7 +113,7 @@ ozone
 sick
 melt
 lens |  
-| bip_39_word_new_line9 | jelly
+| bip_39_word_new_line_9 | jelly
 build
 huge
 child

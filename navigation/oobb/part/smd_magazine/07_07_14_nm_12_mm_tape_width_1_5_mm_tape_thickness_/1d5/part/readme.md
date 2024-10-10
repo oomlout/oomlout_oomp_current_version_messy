@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | owner |  
-| bip_39_word_new_br10 | owner<br>midnight<br>napkin<br>humble<br>sport<br>wheel<br>good<br>sweet<br>bind<br>copper |  
-| bip_39_word_new_br11 | owner<br>midnight<br>napkin<br>humble<br>sport<br>wheel<br>good<br>sweet<br>bind<br>copper<br>person |  
-| bip_39_word_new_br12 | owner<br>midnight<br>napkin<br>humble<br>sport<br>wheel<br>good<br>sweet<br>bind<br>copper<br>person<br>antenna |  
-| bip_39_word_new_br2 | owner<br>midnight |  
-| bip_39_word_new_br3 | owner<br>midnight<br>napkin |  
-| bip_39_word_new_br4 | owner<br>midnight<br>napkin<br>humble |  
-| bip_39_word_new_br5 | owner<br>midnight<br>napkin<br>humble<br>sport |  
-| bip_39_word_new_br6 | owner<br>midnight<br>napkin<br>humble<br>sport<br>wheel |  
-| bip_39_word_new_br7 | owner<br>midnight<br>napkin<br>humble<br>sport<br>wheel<br>good |  
-| bip_39_word_new_br8 | owner<br>midnight<br>napkin<br>humble<br>sport<br>wheel<br>good<br>sweet |  
-| bip_39_word_new_br9 | owner<br>midnight<br>napkin<br>humble<br>sport<br>wheel<br>good<br>sweet<br>bind |  
-| bip_39_word_new_line1 | owner |  
-| bip_39_word_new_line10 | owner
+| bip_39_word_new_br_1 | owner |  
+| bip_39_word_new_br_10 | owner<br>midnight<br>napkin<br>humble<br>sport<br>wheel<br>good<br>sweet<br>bind<br>copper |  
+| bip_39_word_new_br_11 | owner<br>midnight<br>napkin<br>humble<br>sport<br>wheel<br>good<br>sweet<br>bind<br>copper<br>person |  
+| bip_39_word_new_br_12 | owner<br>midnight<br>napkin<br>humble<br>sport<br>wheel<br>good<br>sweet<br>bind<br>copper<br>person<br>antenna |  
+| bip_39_word_new_br_2 | owner<br>midnight |  
+| bip_39_word_new_br_3 | owner<br>midnight<br>napkin |  
+| bip_39_word_new_br_4 | owner<br>midnight<br>napkin<br>humble |  
+| bip_39_word_new_br_5 | owner<br>midnight<br>napkin<br>humble<br>sport |  
+| bip_39_word_new_br_6 | owner<br>midnight<br>napkin<br>humble<br>sport<br>wheel |  
+| bip_39_word_new_br_7 | owner<br>midnight<br>napkin<br>humble<br>sport<br>wheel<br>good |  
+| bip_39_word_new_br_8 | owner<br>midnight<br>napkin<br>humble<br>sport<br>wheel<br>good<br>sweet |  
+| bip_39_word_new_br_9 | owner<br>midnight<br>napkin<br>humble<br>sport<br>wheel<br>good<br>sweet<br>bind |  
+| bip_39_word_new_line_1 | owner |  
+| bip_39_word_new_line_10 | owner
 midnight
 napkin
 humble
@@ -55,7 +55,7 @@ good
 sweet
 bind
 copper |  
-| bip_39_word_new_line11 | owner
+| bip_39_word_new_line_11 | owner
 midnight
 napkin
 humble
@@ -66,7 +66,7 @@ sweet
 bind
 copper
 person |  
-| bip_39_word_new_line12 | owner
+| bip_39_word_new_line_12 | owner
 midnight
 napkin
 humble
@@ -78,34 +78,34 @@ bind
 copper
 person
 antenna |  
-| bip_39_word_new_line2 | owner
+| bip_39_word_new_line_2 | owner
 midnight |  
-| bip_39_word_new_line3 | owner
+| bip_39_word_new_line_3 | owner
 midnight
 napkin |  
-| bip_39_word_new_line4 | owner
+| bip_39_word_new_line_4 | owner
 midnight
 napkin
 humble |  
-| bip_39_word_new_line5 | owner
+| bip_39_word_new_line_5 | owner
 midnight
 napkin
 humble
 sport |  
-| bip_39_word_new_line6 | owner
+| bip_39_word_new_line_6 | owner
 midnight
 napkin
 humble
 sport
 wheel |  
-| bip_39_word_new_line7 | owner
+| bip_39_word_new_line_7 | owner
 midnight
 napkin
 humble
 sport
 wheel
 good |  
-| bip_39_word_new_line8 | owner
+| bip_39_word_new_line_8 | owner
 midnight
 napkin
 humble
@@ -113,7 +113,7 @@ sport
 wheel
 good
 sweet |  
-| bip_39_word_new_line9 | owner
+| bip_39_word_new_line_9 | owner
 midnight
 napkin
 humble

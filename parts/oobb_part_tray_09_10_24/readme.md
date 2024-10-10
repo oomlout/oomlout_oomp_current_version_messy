@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | taste |  
-| bip_39_word_new_br10 | taste<br>diagram<br>guide<br>cube<br>panic<br>magic<br>walk<br>pottery<br>pumpkin<br>thumb |  
-| bip_39_word_new_br11 | taste<br>diagram<br>guide<br>cube<br>panic<br>magic<br>walk<br>pottery<br>pumpkin<br>thumb<br>put |  
-| bip_39_word_new_br12 | taste<br>diagram<br>guide<br>cube<br>panic<br>magic<br>walk<br>pottery<br>pumpkin<br>thumb<br>put<br>artist |  
-| bip_39_word_new_br2 | taste<br>diagram |  
-| bip_39_word_new_br3 | taste<br>diagram<br>guide |  
-| bip_39_word_new_br4 | taste<br>diagram<br>guide<br>cube |  
-| bip_39_word_new_br5 | taste<br>diagram<br>guide<br>cube<br>panic |  
-| bip_39_word_new_br6 | taste<br>diagram<br>guide<br>cube<br>panic<br>magic |  
-| bip_39_word_new_br7 | taste<br>diagram<br>guide<br>cube<br>panic<br>magic<br>walk |  
-| bip_39_word_new_br8 | taste<br>diagram<br>guide<br>cube<br>panic<br>magic<br>walk<br>pottery |  
-| bip_39_word_new_br9 | taste<br>diagram<br>guide<br>cube<br>panic<br>magic<br>walk<br>pottery<br>pumpkin |  
-| bip_39_word_new_line1 | taste |  
-| bip_39_word_new_line10 | taste
+| bip_39_word_new_br_1 | taste |  
+| bip_39_word_new_br_10 | taste<br>diagram<br>guide<br>cube<br>panic<br>magic<br>walk<br>pottery<br>pumpkin<br>thumb |  
+| bip_39_word_new_br_11 | taste<br>diagram<br>guide<br>cube<br>panic<br>magic<br>walk<br>pottery<br>pumpkin<br>thumb<br>put |  
+| bip_39_word_new_br_12 | taste<br>diagram<br>guide<br>cube<br>panic<br>magic<br>walk<br>pottery<br>pumpkin<br>thumb<br>put<br>artist |  
+| bip_39_word_new_br_2 | taste<br>diagram |  
+| bip_39_word_new_br_3 | taste<br>diagram<br>guide |  
+| bip_39_word_new_br_4 | taste<br>diagram<br>guide<br>cube |  
+| bip_39_word_new_br_5 | taste<br>diagram<br>guide<br>cube<br>panic |  
+| bip_39_word_new_br_6 | taste<br>diagram<br>guide<br>cube<br>panic<br>magic |  
+| bip_39_word_new_br_7 | taste<br>diagram<br>guide<br>cube<br>panic<br>magic<br>walk |  
+| bip_39_word_new_br_8 | taste<br>diagram<br>guide<br>cube<br>panic<br>magic<br>walk<br>pottery |  
+| bip_39_word_new_br_9 | taste<br>diagram<br>guide<br>cube<br>panic<br>magic<br>walk<br>pottery<br>pumpkin |  
+| bip_39_word_new_line_1 | taste |  
+| bip_39_word_new_line_10 | taste
 diagram
 guide
 cube
@@ -55,7 +55,7 @@ walk
 pottery
 pumpkin
 thumb |  
-| bip_39_word_new_line11 | taste
+| bip_39_word_new_line_11 | taste
 diagram
 guide
 cube
@@ -66,7 +66,7 @@ pottery
 pumpkin
 thumb
 put |  
-| bip_39_word_new_line12 | taste
+| bip_39_word_new_line_12 | taste
 diagram
 guide
 cube
@@ -78,34 +78,34 @@ pumpkin
 thumb
 put
 artist |  
-| bip_39_word_new_line2 | taste
+| bip_39_word_new_line_2 | taste
 diagram |  
-| bip_39_word_new_line3 | taste
+| bip_39_word_new_line_3 | taste
 diagram
 guide |  
-| bip_39_word_new_line4 | taste
+| bip_39_word_new_line_4 | taste
 diagram
 guide
 cube |  
-| bip_39_word_new_line5 | taste
+| bip_39_word_new_line_5 | taste
 diagram
 guide
 cube
 panic |  
-| bip_39_word_new_line6 | taste
+| bip_39_word_new_line_6 | taste
 diagram
 guide
 cube
 panic
 magic |  
-| bip_39_word_new_line7 | taste
+| bip_39_word_new_line_7 | taste
 diagram
 guide
 cube
 panic
 magic
 walk |  
-| bip_39_word_new_line8 | taste
+| bip_39_word_new_line_8 | taste
 diagram
 guide
 cube
@@ -113,7 +113,7 @@ panic
 magic
 walk
 pottery |  
-| bip_39_word_new_line9 | taste
+| bip_39_word_new_line_9 | taste
 diagram
 guide
 cube

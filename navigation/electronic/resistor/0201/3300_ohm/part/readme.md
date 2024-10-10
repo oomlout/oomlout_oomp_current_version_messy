@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | trip |  
-| bip_39_word_new_br10 | trip<br>notice<br>script<br>pond<br>huge<br>license<br>inherit<br>snow<br>cotton<br>grace |  
-| bip_39_word_new_br11 | trip<br>notice<br>script<br>pond<br>huge<br>license<br>inherit<br>snow<br>cotton<br>grace<br>scissors |  
-| bip_39_word_new_br12 | trip<br>notice<br>script<br>pond<br>huge<br>license<br>inherit<br>snow<br>cotton<br>grace<br>scissors<br>amazing |  
-| bip_39_word_new_br2 | trip<br>notice |  
-| bip_39_word_new_br3 | trip<br>notice<br>script |  
-| bip_39_word_new_br4 | trip<br>notice<br>script<br>pond |  
-| bip_39_word_new_br5 | trip<br>notice<br>script<br>pond<br>huge |  
-| bip_39_word_new_br6 | trip<br>notice<br>script<br>pond<br>huge<br>license |  
-| bip_39_word_new_br7 | trip<br>notice<br>script<br>pond<br>huge<br>license<br>inherit |  
-| bip_39_word_new_br8 | trip<br>notice<br>script<br>pond<br>huge<br>license<br>inherit<br>snow |  
-| bip_39_word_new_br9 | trip<br>notice<br>script<br>pond<br>huge<br>license<br>inherit<br>snow<br>cotton |  
-| bip_39_word_new_line1 | trip |  
-| bip_39_word_new_line10 | trip
+| bip_39_word_new_br_1 | trip |  
+| bip_39_word_new_br_10 | trip<br>notice<br>script<br>pond<br>huge<br>license<br>inherit<br>snow<br>cotton<br>grace |  
+| bip_39_word_new_br_11 | trip<br>notice<br>script<br>pond<br>huge<br>license<br>inherit<br>snow<br>cotton<br>grace<br>scissors |  
+| bip_39_word_new_br_12 | trip<br>notice<br>script<br>pond<br>huge<br>license<br>inherit<br>snow<br>cotton<br>grace<br>scissors<br>amazing |  
+| bip_39_word_new_br_2 | trip<br>notice |  
+| bip_39_word_new_br_3 | trip<br>notice<br>script |  
+| bip_39_word_new_br_4 | trip<br>notice<br>script<br>pond |  
+| bip_39_word_new_br_5 | trip<br>notice<br>script<br>pond<br>huge |  
+| bip_39_word_new_br_6 | trip<br>notice<br>script<br>pond<br>huge<br>license |  
+| bip_39_word_new_br_7 | trip<br>notice<br>script<br>pond<br>huge<br>license<br>inherit |  
+| bip_39_word_new_br_8 | trip<br>notice<br>script<br>pond<br>huge<br>license<br>inherit<br>snow |  
+| bip_39_word_new_br_9 | trip<br>notice<br>script<br>pond<br>huge<br>license<br>inherit<br>snow<br>cotton |  
+| bip_39_word_new_line_1 | trip |  
+| bip_39_word_new_line_10 | trip
 notice
 script
 pond
@@ -55,7 +55,7 @@ inherit
 snow
 cotton
 grace |  
-| bip_39_word_new_line11 | trip
+| bip_39_word_new_line_11 | trip
 notice
 script
 pond
@@ -66,7 +66,7 @@ snow
 cotton
 grace
 scissors |  
-| bip_39_word_new_line12 | trip
+| bip_39_word_new_line_12 | trip
 notice
 script
 pond
@@ -78,34 +78,34 @@ cotton
 grace
 scissors
 amazing |  
-| bip_39_word_new_line2 | trip
+| bip_39_word_new_line_2 | trip
 notice |  
-| bip_39_word_new_line3 | trip
+| bip_39_word_new_line_3 | trip
 notice
 script |  
-| bip_39_word_new_line4 | trip
+| bip_39_word_new_line_4 | trip
 notice
 script
 pond |  
-| bip_39_word_new_line5 | trip
+| bip_39_word_new_line_5 | trip
 notice
 script
 pond
 huge |  
-| bip_39_word_new_line6 | trip
+| bip_39_word_new_line_6 | trip
 notice
 script
 pond
 huge
 license |  
-| bip_39_word_new_line7 | trip
+| bip_39_word_new_line_7 | trip
 notice
 script
 pond
 huge
 license
 inherit |  
-| bip_39_word_new_line8 | trip
+| bip_39_word_new_line_8 | trip
 notice
 script
 pond
@@ -113,7 +113,7 @@ huge
 license
 inherit
 snow |  
-| bip_39_word_new_line9 | trip
+| bip_39_word_new_line_9 | trip
 notice
 script
 pond

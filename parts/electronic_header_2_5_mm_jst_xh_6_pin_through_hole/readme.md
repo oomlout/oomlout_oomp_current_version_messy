@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cancel |  
-| bip_39_word_new_br10 | cancel<br>easily<br>cash<br>quality<br>oval<br>april<br>small<br>doctor<br>tooth<br>mystery |  
-| bip_39_word_new_br11 | cancel<br>easily<br>cash<br>quality<br>oval<br>april<br>small<br>doctor<br>tooth<br>mystery<br>success |  
-| bip_39_word_new_br12 | cancel<br>easily<br>cash<br>quality<br>oval<br>april<br>small<br>doctor<br>tooth<br>mystery<br>success<br>action |  
-| bip_39_word_new_br2 | cancel<br>easily |  
-| bip_39_word_new_br3 | cancel<br>easily<br>cash |  
-| bip_39_word_new_br4 | cancel<br>easily<br>cash<br>quality |  
-| bip_39_word_new_br5 | cancel<br>easily<br>cash<br>quality<br>oval |  
-| bip_39_word_new_br6 | cancel<br>easily<br>cash<br>quality<br>oval<br>april |  
-| bip_39_word_new_br7 | cancel<br>easily<br>cash<br>quality<br>oval<br>april<br>small |  
-| bip_39_word_new_br8 | cancel<br>easily<br>cash<br>quality<br>oval<br>april<br>small<br>doctor |  
-| bip_39_word_new_br9 | cancel<br>easily<br>cash<br>quality<br>oval<br>april<br>small<br>doctor<br>tooth |  
-| bip_39_word_new_line1 | cancel |  
-| bip_39_word_new_line10 | cancel
+| bip_39_word_new_br_1 | cancel |  
+| bip_39_word_new_br_10 | cancel<br>easily<br>cash<br>quality<br>oval<br>april<br>small<br>doctor<br>tooth<br>mystery |  
+| bip_39_word_new_br_11 | cancel<br>easily<br>cash<br>quality<br>oval<br>april<br>small<br>doctor<br>tooth<br>mystery<br>success |  
+| bip_39_word_new_br_12 | cancel<br>easily<br>cash<br>quality<br>oval<br>april<br>small<br>doctor<br>tooth<br>mystery<br>success<br>action |  
+| bip_39_word_new_br_2 | cancel<br>easily |  
+| bip_39_word_new_br_3 | cancel<br>easily<br>cash |  
+| bip_39_word_new_br_4 | cancel<br>easily<br>cash<br>quality |  
+| bip_39_word_new_br_5 | cancel<br>easily<br>cash<br>quality<br>oval |  
+| bip_39_word_new_br_6 | cancel<br>easily<br>cash<br>quality<br>oval<br>april |  
+| bip_39_word_new_br_7 | cancel<br>easily<br>cash<br>quality<br>oval<br>april<br>small |  
+| bip_39_word_new_br_8 | cancel<br>easily<br>cash<br>quality<br>oval<br>april<br>small<br>doctor |  
+| bip_39_word_new_br_9 | cancel<br>easily<br>cash<br>quality<br>oval<br>april<br>small<br>doctor<br>tooth |  
+| bip_39_word_new_line_1 | cancel |  
+| bip_39_word_new_line_10 | cancel
 easily
 cash
 quality
@@ -55,7 +55,7 @@ small
 doctor
 tooth
 mystery |  
-| bip_39_word_new_line11 | cancel
+| bip_39_word_new_line_11 | cancel
 easily
 cash
 quality
@@ -66,7 +66,7 @@ doctor
 tooth
 mystery
 success |  
-| bip_39_word_new_line12 | cancel
+| bip_39_word_new_line_12 | cancel
 easily
 cash
 quality
@@ -78,34 +78,34 @@ tooth
 mystery
 success
 action |  
-| bip_39_word_new_line2 | cancel
+| bip_39_word_new_line_2 | cancel
 easily |  
-| bip_39_word_new_line3 | cancel
+| bip_39_word_new_line_3 | cancel
 easily
 cash |  
-| bip_39_word_new_line4 | cancel
+| bip_39_word_new_line_4 | cancel
 easily
 cash
 quality |  
-| bip_39_word_new_line5 | cancel
+| bip_39_word_new_line_5 | cancel
 easily
 cash
 quality
 oval |  
-| bip_39_word_new_line6 | cancel
+| bip_39_word_new_line_6 | cancel
 easily
 cash
 quality
 oval
 april |  
-| bip_39_word_new_line7 | cancel
+| bip_39_word_new_line_7 | cancel
 easily
 cash
 quality
 oval
 april
 small |  
-| bip_39_word_new_line8 | cancel
+| bip_39_word_new_line_8 | cancel
 easily
 cash
 quality
@@ -113,7 +113,7 @@ oval
 april
 small
 doctor |  
-| bip_39_word_new_line9 | cancel
+| bip_39_word_new_line_9 | cancel
 easily
 cash
 quality

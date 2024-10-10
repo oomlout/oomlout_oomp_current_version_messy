@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | approve |  
-| bip_39_word_new_br10 | approve<br>harvest<br>science<br>leaf<br>easily<br>shadow<br>flower<br>eager<br>help<br>public |  
-| bip_39_word_new_br11 | approve<br>harvest<br>science<br>leaf<br>easily<br>shadow<br>flower<br>eager<br>help<br>public<br>print |  
-| bip_39_word_new_br12 | approve<br>harvest<br>science<br>leaf<br>easily<br>shadow<br>flower<br>eager<br>help<br>public<br>print<br>again |  
-| bip_39_word_new_br2 | approve<br>harvest |  
-| bip_39_word_new_br3 | approve<br>harvest<br>science |  
-| bip_39_word_new_br4 | approve<br>harvest<br>science<br>leaf |  
-| bip_39_word_new_br5 | approve<br>harvest<br>science<br>leaf<br>easily |  
-| bip_39_word_new_br6 | approve<br>harvest<br>science<br>leaf<br>easily<br>shadow |  
-| bip_39_word_new_br7 | approve<br>harvest<br>science<br>leaf<br>easily<br>shadow<br>flower |  
-| bip_39_word_new_br8 | approve<br>harvest<br>science<br>leaf<br>easily<br>shadow<br>flower<br>eager |  
-| bip_39_word_new_br9 | approve<br>harvest<br>science<br>leaf<br>easily<br>shadow<br>flower<br>eager<br>help |  
-| bip_39_word_new_line1 | approve |  
-| bip_39_word_new_line10 | approve
+| bip_39_word_new_br_1 | approve |  
+| bip_39_word_new_br_10 | approve<br>harvest<br>science<br>leaf<br>easily<br>shadow<br>flower<br>eager<br>help<br>public |  
+| bip_39_word_new_br_11 | approve<br>harvest<br>science<br>leaf<br>easily<br>shadow<br>flower<br>eager<br>help<br>public<br>print |  
+| bip_39_word_new_br_12 | approve<br>harvest<br>science<br>leaf<br>easily<br>shadow<br>flower<br>eager<br>help<br>public<br>print<br>again |  
+| bip_39_word_new_br_2 | approve<br>harvest |  
+| bip_39_word_new_br_3 | approve<br>harvest<br>science |  
+| bip_39_word_new_br_4 | approve<br>harvest<br>science<br>leaf |  
+| bip_39_word_new_br_5 | approve<br>harvest<br>science<br>leaf<br>easily |  
+| bip_39_word_new_br_6 | approve<br>harvest<br>science<br>leaf<br>easily<br>shadow |  
+| bip_39_word_new_br_7 | approve<br>harvest<br>science<br>leaf<br>easily<br>shadow<br>flower |  
+| bip_39_word_new_br_8 | approve<br>harvest<br>science<br>leaf<br>easily<br>shadow<br>flower<br>eager |  
+| bip_39_word_new_br_9 | approve<br>harvest<br>science<br>leaf<br>easily<br>shadow<br>flower<br>eager<br>help |  
+| bip_39_word_new_line_1 | approve |  
+| bip_39_word_new_line_10 | approve
 harvest
 science
 leaf
@@ -55,7 +55,7 @@ flower
 eager
 help
 public |  
-| bip_39_word_new_line11 | approve
+| bip_39_word_new_line_11 | approve
 harvest
 science
 leaf
@@ -66,7 +66,7 @@ eager
 help
 public
 print |  
-| bip_39_word_new_line12 | approve
+| bip_39_word_new_line_12 | approve
 harvest
 science
 leaf
@@ -78,34 +78,34 @@ help
 public
 print
 again |  
-| bip_39_word_new_line2 | approve
+| bip_39_word_new_line_2 | approve
 harvest |  
-| bip_39_word_new_line3 | approve
+| bip_39_word_new_line_3 | approve
 harvest
 science |  
-| bip_39_word_new_line4 | approve
+| bip_39_word_new_line_4 | approve
 harvest
 science
 leaf |  
-| bip_39_word_new_line5 | approve
+| bip_39_word_new_line_5 | approve
 harvest
 science
 leaf
 easily |  
-| bip_39_word_new_line6 | approve
+| bip_39_word_new_line_6 | approve
 harvest
 science
 leaf
 easily
 shadow |  
-| bip_39_word_new_line7 | approve
+| bip_39_word_new_line_7 | approve
 harvest
 science
 leaf
 easily
 shadow
 flower |  
-| bip_39_word_new_line8 | approve
+| bip_39_word_new_line_8 | approve
 harvest
 science
 leaf
@@ -113,7 +113,7 @@ easily
 shadow
 flower
 eager |  
-| bip_39_word_new_line9 | approve
+| bip_39_word_new_line_9 | approve
 harvest
 science
 leaf

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | adjust |  
-| bip_39_word_new_br10 | adjust<br>noise<br>dinosaur<br>trap<br>popular<br>gravity<br>nephew<br>ball<br>family<br>surprise |  
-| bip_39_word_new_br11 | adjust<br>noise<br>dinosaur<br>trap<br>popular<br>gravity<br>nephew<br>ball<br>family<br>surprise<br>furnace |  
-| bip_39_word_new_br12 | adjust<br>noise<br>dinosaur<br>trap<br>popular<br>gravity<br>nephew<br>ball<br>family<br>surprise<br>furnace<br>acoustic |  
-| bip_39_word_new_br2 | adjust<br>noise |  
-| bip_39_word_new_br3 | adjust<br>noise<br>dinosaur |  
-| bip_39_word_new_br4 | adjust<br>noise<br>dinosaur<br>trap |  
-| bip_39_word_new_br5 | adjust<br>noise<br>dinosaur<br>trap<br>popular |  
-| bip_39_word_new_br6 | adjust<br>noise<br>dinosaur<br>trap<br>popular<br>gravity |  
-| bip_39_word_new_br7 | adjust<br>noise<br>dinosaur<br>trap<br>popular<br>gravity<br>nephew |  
-| bip_39_word_new_br8 | adjust<br>noise<br>dinosaur<br>trap<br>popular<br>gravity<br>nephew<br>ball |  
-| bip_39_word_new_br9 | adjust<br>noise<br>dinosaur<br>trap<br>popular<br>gravity<br>nephew<br>ball<br>family |  
-| bip_39_word_new_line1 | adjust |  
-| bip_39_word_new_line10 | adjust
+| bip_39_word_new_br_1 | adjust |  
+| bip_39_word_new_br_10 | adjust<br>noise<br>dinosaur<br>trap<br>popular<br>gravity<br>nephew<br>ball<br>family<br>surprise |  
+| bip_39_word_new_br_11 | adjust<br>noise<br>dinosaur<br>trap<br>popular<br>gravity<br>nephew<br>ball<br>family<br>surprise<br>furnace |  
+| bip_39_word_new_br_12 | adjust<br>noise<br>dinosaur<br>trap<br>popular<br>gravity<br>nephew<br>ball<br>family<br>surprise<br>furnace<br>acoustic |  
+| bip_39_word_new_br_2 | adjust<br>noise |  
+| bip_39_word_new_br_3 | adjust<br>noise<br>dinosaur |  
+| bip_39_word_new_br_4 | adjust<br>noise<br>dinosaur<br>trap |  
+| bip_39_word_new_br_5 | adjust<br>noise<br>dinosaur<br>trap<br>popular |  
+| bip_39_word_new_br_6 | adjust<br>noise<br>dinosaur<br>trap<br>popular<br>gravity |  
+| bip_39_word_new_br_7 | adjust<br>noise<br>dinosaur<br>trap<br>popular<br>gravity<br>nephew |  
+| bip_39_word_new_br_8 | adjust<br>noise<br>dinosaur<br>trap<br>popular<br>gravity<br>nephew<br>ball |  
+| bip_39_word_new_br_9 | adjust<br>noise<br>dinosaur<br>trap<br>popular<br>gravity<br>nephew<br>ball<br>family |  
+| bip_39_word_new_line_1 | adjust |  
+| bip_39_word_new_line_10 | adjust
 noise
 dinosaur
 trap
@@ -55,7 +55,7 @@ nephew
 ball
 family
 surprise |  
-| bip_39_word_new_line11 | adjust
+| bip_39_word_new_line_11 | adjust
 noise
 dinosaur
 trap
@@ -66,7 +66,7 @@ ball
 family
 surprise
 furnace |  
-| bip_39_word_new_line12 | adjust
+| bip_39_word_new_line_12 | adjust
 noise
 dinosaur
 trap
@@ -78,34 +78,34 @@ family
 surprise
 furnace
 acoustic |  
-| bip_39_word_new_line2 | adjust
+| bip_39_word_new_line_2 | adjust
 noise |  
-| bip_39_word_new_line3 | adjust
+| bip_39_word_new_line_3 | adjust
 noise
 dinosaur |  
-| bip_39_word_new_line4 | adjust
+| bip_39_word_new_line_4 | adjust
 noise
 dinosaur
 trap |  
-| bip_39_word_new_line5 | adjust
+| bip_39_word_new_line_5 | adjust
 noise
 dinosaur
 trap
 popular |  
-| bip_39_word_new_line6 | adjust
+| bip_39_word_new_line_6 | adjust
 noise
 dinosaur
 trap
 popular
 gravity |  
-| bip_39_word_new_line7 | adjust
+| bip_39_word_new_line_7 | adjust
 noise
 dinosaur
 trap
 popular
 gravity
 nephew |  
-| bip_39_word_new_line8 | adjust
+| bip_39_word_new_line_8 | adjust
 noise
 dinosaur
 trap
@@ -113,7 +113,7 @@ popular
 gravity
 nephew
 ball |  
-| bip_39_word_new_line9 | adjust
+| bip_39_word_new_line_9 | adjust
 noise
 dinosaur
 trap

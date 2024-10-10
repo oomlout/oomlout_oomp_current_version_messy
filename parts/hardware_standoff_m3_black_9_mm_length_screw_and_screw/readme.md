@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | atom |  
-| bip_39_word_new_br10 | atom<br>online<br>follow<br>magnet<br>sausage<br>brain<br>easily<br>hunt<br>deer<br>monster |  
-| bip_39_word_new_br11 | atom<br>online<br>follow<br>magnet<br>sausage<br>brain<br>easily<br>hunt<br>deer<br>monster<br>turkey |  
-| bip_39_word_new_br12 | atom<br>online<br>follow<br>magnet<br>sausage<br>brain<br>easily<br>hunt<br>deer<br>monster<br>turkey<br>author |  
-| bip_39_word_new_br2 | atom<br>online |  
-| bip_39_word_new_br3 | atom<br>online<br>follow |  
-| bip_39_word_new_br4 | atom<br>online<br>follow<br>magnet |  
-| bip_39_word_new_br5 | atom<br>online<br>follow<br>magnet<br>sausage |  
-| bip_39_word_new_br6 | atom<br>online<br>follow<br>magnet<br>sausage<br>brain |  
-| bip_39_word_new_br7 | atom<br>online<br>follow<br>magnet<br>sausage<br>brain<br>easily |  
-| bip_39_word_new_br8 | atom<br>online<br>follow<br>magnet<br>sausage<br>brain<br>easily<br>hunt |  
-| bip_39_word_new_br9 | atom<br>online<br>follow<br>magnet<br>sausage<br>brain<br>easily<br>hunt<br>deer |  
-| bip_39_word_new_line1 | atom |  
-| bip_39_word_new_line10 | atom
+| bip_39_word_new_br_1 | atom |  
+| bip_39_word_new_br_10 | atom<br>online<br>follow<br>magnet<br>sausage<br>brain<br>easily<br>hunt<br>deer<br>monster |  
+| bip_39_word_new_br_11 | atom<br>online<br>follow<br>magnet<br>sausage<br>brain<br>easily<br>hunt<br>deer<br>monster<br>turkey |  
+| bip_39_word_new_br_12 | atom<br>online<br>follow<br>magnet<br>sausage<br>brain<br>easily<br>hunt<br>deer<br>monster<br>turkey<br>author |  
+| bip_39_word_new_br_2 | atom<br>online |  
+| bip_39_word_new_br_3 | atom<br>online<br>follow |  
+| bip_39_word_new_br_4 | atom<br>online<br>follow<br>magnet |  
+| bip_39_word_new_br_5 | atom<br>online<br>follow<br>magnet<br>sausage |  
+| bip_39_word_new_br_6 | atom<br>online<br>follow<br>magnet<br>sausage<br>brain |  
+| bip_39_word_new_br_7 | atom<br>online<br>follow<br>magnet<br>sausage<br>brain<br>easily |  
+| bip_39_word_new_br_8 | atom<br>online<br>follow<br>magnet<br>sausage<br>brain<br>easily<br>hunt |  
+| bip_39_word_new_br_9 | atom<br>online<br>follow<br>magnet<br>sausage<br>brain<br>easily<br>hunt<br>deer |  
+| bip_39_word_new_line_1 | atom |  
+| bip_39_word_new_line_10 | atom
 online
 follow
 magnet
@@ -55,7 +55,7 @@ easily
 hunt
 deer
 monster |  
-| bip_39_word_new_line11 | atom
+| bip_39_word_new_line_11 | atom
 online
 follow
 magnet
@@ -66,7 +66,7 @@ hunt
 deer
 monster
 turkey |  
-| bip_39_word_new_line12 | atom
+| bip_39_word_new_line_12 | atom
 online
 follow
 magnet
@@ -78,34 +78,34 @@ deer
 monster
 turkey
 author |  
-| bip_39_word_new_line2 | atom
+| bip_39_word_new_line_2 | atom
 online |  
-| bip_39_word_new_line3 | atom
+| bip_39_word_new_line_3 | atom
 online
 follow |  
-| bip_39_word_new_line4 | atom
+| bip_39_word_new_line_4 | atom
 online
 follow
 magnet |  
-| bip_39_word_new_line5 | atom
+| bip_39_word_new_line_5 | atom
 online
 follow
 magnet
 sausage |  
-| bip_39_word_new_line6 | atom
+| bip_39_word_new_line_6 | atom
 online
 follow
 magnet
 sausage
 brain |  
-| bip_39_word_new_line7 | atom
+| bip_39_word_new_line_7 | atom
 online
 follow
 magnet
 sausage
 brain
 easily |  
-| bip_39_word_new_line8 | atom
+| bip_39_word_new_line_8 | atom
 online
 follow
 magnet
@@ -113,7 +113,7 @@ sausage
 brain
 easily
 hunt |  
-| bip_39_word_new_line9 | atom
+| bip_39_word_new_line_9 | atom
 online
 follow
 magnet

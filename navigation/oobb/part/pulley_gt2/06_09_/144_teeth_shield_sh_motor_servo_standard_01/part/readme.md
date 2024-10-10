@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | organ |  
-| bip_39_word_new_br10 | organ<br>song<br>forum<br>buffalo<br>give<br>turtle<br>involve<br>corn<br>august<br>matrix |  
-| bip_39_word_new_br11 | organ<br>song<br>forum<br>buffalo<br>give<br>turtle<br>involve<br>corn<br>august<br>matrix<br>awkward |  
-| bip_39_word_new_br12 | organ<br>song<br>forum<br>buffalo<br>give<br>turtle<br>involve<br>corn<br>august<br>matrix<br>awkward<br>adjust |  
-| bip_39_word_new_br2 | organ<br>song |  
-| bip_39_word_new_br3 | organ<br>song<br>forum |  
-| bip_39_word_new_br4 | organ<br>song<br>forum<br>buffalo |  
-| bip_39_word_new_br5 | organ<br>song<br>forum<br>buffalo<br>give |  
-| bip_39_word_new_br6 | organ<br>song<br>forum<br>buffalo<br>give<br>turtle |  
-| bip_39_word_new_br7 | organ<br>song<br>forum<br>buffalo<br>give<br>turtle<br>involve |  
-| bip_39_word_new_br8 | organ<br>song<br>forum<br>buffalo<br>give<br>turtle<br>involve<br>corn |  
-| bip_39_word_new_br9 | organ<br>song<br>forum<br>buffalo<br>give<br>turtle<br>involve<br>corn<br>august |  
-| bip_39_word_new_line1 | organ |  
-| bip_39_word_new_line10 | organ
+| bip_39_word_new_br_1 | organ |  
+| bip_39_word_new_br_10 | organ<br>song<br>forum<br>buffalo<br>give<br>turtle<br>involve<br>corn<br>august<br>matrix |  
+| bip_39_word_new_br_11 | organ<br>song<br>forum<br>buffalo<br>give<br>turtle<br>involve<br>corn<br>august<br>matrix<br>awkward |  
+| bip_39_word_new_br_12 | organ<br>song<br>forum<br>buffalo<br>give<br>turtle<br>involve<br>corn<br>august<br>matrix<br>awkward<br>adjust |  
+| bip_39_word_new_br_2 | organ<br>song |  
+| bip_39_word_new_br_3 | organ<br>song<br>forum |  
+| bip_39_word_new_br_4 | organ<br>song<br>forum<br>buffalo |  
+| bip_39_word_new_br_5 | organ<br>song<br>forum<br>buffalo<br>give |  
+| bip_39_word_new_br_6 | organ<br>song<br>forum<br>buffalo<br>give<br>turtle |  
+| bip_39_word_new_br_7 | organ<br>song<br>forum<br>buffalo<br>give<br>turtle<br>involve |  
+| bip_39_word_new_br_8 | organ<br>song<br>forum<br>buffalo<br>give<br>turtle<br>involve<br>corn |  
+| bip_39_word_new_br_9 | organ<br>song<br>forum<br>buffalo<br>give<br>turtle<br>involve<br>corn<br>august |  
+| bip_39_word_new_line_1 | organ |  
+| bip_39_word_new_line_10 | organ
 song
 forum
 buffalo
@@ -55,7 +55,7 @@ involve
 corn
 august
 matrix |  
-| bip_39_word_new_line11 | organ
+| bip_39_word_new_line_11 | organ
 song
 forum
 buffalo
@@ -66,7 +66,7 @@ corn
 august
 matrix
 awkward |  
-| bip_39_word_new_line12 | organ
+| bip_39_word_new_line_12 | organ
 song
 forum
 buffalo
@@ -78,34 +78,34 @@ august
 matrix
 awkward
 adjust |  
-| bip_39_word_new_line2 | organ
+| bip_39_word_new_line_2 | organ
 song |  
-| bip_39_word_new_line3 | organ
+| bip_39_word_new_line_3 | organ
 song
 forum |  
-| bip_39_word_new_line4 | organ
+| bip_39_word_new_line_4 | organ
 song
 forum
 buffalo |  
-| bip_39_word_new_line5 | organ
+| bip_39_word_new_line_5 | organ
 song
 forum
 buffalo
 give |  
-| bip_39_word_new_line6 | organ
+| bip_39_word_new_line_6 | organ
 song
 forum
 buffalo
 give
 turtle |  
-| bip_39_word_new_line7 | organ
+| bip_39_word_new_line_7 | organ
 song
 forum
 buffalo
 give
 turtle
 involve |  
-| bip_39_word_new_line8 | organ
+| bip_39_word_new_line_8 | organ
 song
 forum
 buffalo
@@ -113,7 +113,7 @@ give
 turtle
 involve
 corn |  
-| bip_39_word_new_line9 | organ
+| bip_39_word_new_line_9 | organ
 song
 forum
 buffalo

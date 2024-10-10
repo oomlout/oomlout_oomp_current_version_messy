@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | social |  
-| bip_39_word_new_br10 | social<br>sword<br>audit<br>exclude<br>faculty<br>mean<br>wood<br>sunset<br>weather<br>swallow |  
-| bip_39_word_new_br11 | social<br>sword<br>audit<br>exclude<br>faculty<br>mean<br>wood<br>sunset<br>weather<br>swallow<br>home |  
-| bip_39_word_new_br12 | social<br>sword<br>audit<br>exclude<br>faculty<br>mean<br>wood<br>sunset<br>weather<br>swallow<br>home<br>ancient |  
-| bip_39_word_new_br2 | social<br>sword |  
-| bip_39_word_new_br3 | social<br>sword<br>audit |  
-| bip_39_word_new_br4 | social<br>sword<br>audit<br>exclude |  
-| bip_39_word_new_br5 | social<br>sword<br>audit<br>exclude<br>faculty |  
-| bip_39_word_new_br6 | social<br>sword<br>audit<br>exclude<br>faculty<br>mean |  
-| bip_39_word_new_br7 | social<br>sword<br>audit<br>exclude<br>faculty<br>mean<br>wood |  
-| bip_39_word_new_br8 | social<br>sword<br>audit<br>exclude<br>faculty<br>mean<br>wood<br>sunset |  
-| bip_39_word_new_br9 | social<br>sword<br>audit<br>exclude<br>faculty<br>mean<br>wood<br>sunset<br>weather |  
-| bip_39_word_new_line1 | social |  
-| bip_39_word_new_line10 | social
+| bip_39_word_new_br_1 | social |  
+| bip_39_word_new_br_10 | social<br>sword<br>audit<br>exclude<br>faculty<br>mean<br>wood<br>sunset<br>weather<br>swallow |  
+| bip_39_word_new_br_11 | social<br>sword<br>audit<br>exclude<br>faculty<br>mean<br>wood<br>sunset<br>weather<br>swallow<br>home |  
+| bip_39_word_new_br_12 | social<br>sword<br>audit<br>exclude<br>faculty<br>mean<br>wood<br>sunset<br>weather<br>swallow<br>home<br>ancient |  
+| bip_39_word_new_br_2 | social<br>sword |  
+| bip_39_word_new_br_3 | social<br>sword<br>audit |  
+| bip_39_word_new_br_4 | social<br>sword<br>audit<br>exclude |  
+| bip_39_word_new_br_5 | social<br>sword<br>audit<br>exclude<br>faculty |  
+| bip_39_word_new_br_6 | social<br>sword<br>audit<br>exclude<br>faculty<br>mean |  
+| bip_39_word_new_br_7 | social<br>sword<br>audit<br>exclude<br>faculty<br>mean<br>wood |  
+| bip_39_word_new_br_8 | social<br>sword<br>audit<br>exclude<br>faculty<br>mean<br>wood<br>sunset |  
+| bip_39_word_new_br_9 | social<br>sword<br>audit<br>exclude<br>faculty<br>mean<br>wood<br>sunset<br>weather |  
+| bip_39_word_new_line_1 | social |  
+| bip_39_word_new_line_10 | social
 sword
 audit
 exclude
@@ -55,7 +55,7 @@ wood
 sunset
 weather
 swallow |  
-| bip_39_word_new_line11 | social
+| bip_39_word_new_line_11 | social
 sword
 audit
 exclude
@@ -66,7 +66,7 @@ sunset
 weather
 swallow
 home |  
-| bip_39_word_new_line12 | social
+| bip_39_word_new_line_12 | social
 sword
 audit
 exclude
@@ -78,34 +78,34 @@ weather
 swallow
 home
 ancient |  
-| bip_39_word_new_line2 | social
+| bip_39_word_new_line_2 | social
 sword |  
-| bip_39_word_new_line3 | social
+| bip_39_word_new_line_3 | social
 sword
 audit |  
-| bip_39_word_new_line4 | social
+| bip_39_word_new_line_4 | social
 sword
 audit
 exclude |  
-| bip_39_word_new_line5 | social
+| bip_39_word_new_line_5 | social
 sword
 audit
 exclude
 faculty |  
-| bip_39_word_new_line6 | social
+| bip_39_word_new_line_6 | social
 sword
 audit
 exclude
 faculty
 mean |  
-| bip_39_word_new_line7 | social
+| bip_39_word_new_line_7 | social
 sword
 audit
 exclude
 faculty
 mean
 wood |  
-| bip_39_word_new_line8 | social
+| bip_39_word_new_line_8 | social
 sword
 audit
 exclude
@@ -113,7 +113,7 @@ faculty
 mean
 wood
 sunset |  
-| bip_39_word_new_line9 | social
+| bip_39_word_new_line_9 | social
 sword
 audit
 exclude

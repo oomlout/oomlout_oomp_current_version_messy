@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | tell |  
-| bip_39_word_new_br10 | tell<br>choice<br>manage<br>jacket<br>donor<br>infant<br>advice<br>bullet<br>street<br>stand |  
-| bip_39_word_new_br11 | tell<br>choice<br>manage<br>jacket<br>donor<br>infant<br>advice<br>bullet<br>street<br>stand<br>pony |  
-| bip_39_word_new_br12 | tell<br>choice<br>manage<br>jacket<br>donor<br>infant<br>advice<br>bullet<br>street<br>stand<br>pony<br>ask |  
-| bip_39_word_new_br2 | tell<br>choice |  
-| bip_39_word_new_br3 | tell<br>choice<br>manage |  
-| bip_39_word_new_br4 | tell<br>choice<br>manage<br>jacket |  
-| bip_39_word_new_br5 | tell<br>choice<br>manage<br>jacket<br>donor |  
-| bip_39_word_new_br6 | tell<br>choice<br>manage<br>jacket<br>donor<br>infant |  
-| bip_39_word_new_br7 | tell<br>choice<br>manage<br>jacket<br>donor<br>infant<br>advice |  
-| bip_39_word_new_br8 | tell<br>choice<br>manage<br>jacket<br>donor<br>infant<br>advice<br>bullet |  
-| bip_39_word_new_br9 | tell<br>choice<br>manage<br>jacket<br>donor<br>infant<br>advice<br>bullet<br>street |  
-| bip_39_word_new_line1 | tell |  
-| bip_39_word_new_line10 | tell
+| bip_39_word_new_br_1 | tell |  
+| bip_39_word_new_br_10 | tell<br>choice<br>manage<br>jacket<br>donor<br>infant<br>advice<br>bullet<br>street<br>stand |  
+| bip_39_word_new_br_11 | tell<br>choice<br>manage<br>jacket<br>donor<br>infant<br>advice<br>bullet<br>street<br>stand<br>pony |  
+| bip_39_word_new_br_12 | tell<br>choice<br>manage<br>jacket<br>donor<br>infant<br>advice<br>bullet<br>street<br>stand<br>pony<br>ask |  
+| bip_39_word_new_br_2 | tell<br>choice |  
+| bip_39_word_new_br_3 | tell<br>choice<br>manage |  
+| bip_39_word_new_br_4 | tell<br>choice<br>manage<br>jacket |  
+| bip_39_word_new_br_5 | tell<br>choice<br>manage<br>jacket<br>donor |  
+| bip_39_word_new_br_6 | tell<br>choice<br>manage<br>jacket<br>donor<br>infant |  
+| bip_39_word_new_br_7 | tell<br>choice<br>manage<br>jacket<br>donor<br>infant<br>advice |  
+| bip_39_word_new_br_8 | tell<br>choice<br>manage<br>jacket<br>donor<br>infant<br>advice<br>bullet |  
+| bip_39_word_new_br_9 | tell<br>choice<br>manage<br>jacket<br>donor<br>infant<br>advice<br>bullet<br>street |  
+| bip_39_word_new_line_1 | tell |  
+| bip_39_word_new_line_10 | tell
 choice
 manage
 jacket
@@ -55,7 +55,7 @@ advice
 bullet
 street
 stand |  
-| bip_39_word_new_line11 | tell
+| bip_39_word_new_line_11 | tell
 choice
 manage
 jacket
@@ -66,7 +66,7 @@ bullet
 street
 stand
 pony |  
-| bip_39_word_new_line12 | tell
+| bip_39_word_new_line_12 | tell
 choice
 manage
 jacket
@@ -78,34 +78,34 @@ street
 stand
 pony
 ask |  
-| bip_39_word_new_line2 | tell
+| bip_39_word_new_line_2 | tell
 choice |  
-| bip_39_word_new_line3 | tell
+| bip_39_word_new_line_3 | tell
 choice
 manage |  
-| bip_39_word_new_line4 | tell
+| bip_39_word_new_line_4 | tell
 choice
 manage
 jacket |  
-| bip_39_word_new_line5 | tell
+| bip_39_word_new_line_5 | tell
 choice
 manage
 jacket
 donor |  
-| bip_39_word_new_line6 | tell
+| bip_39_word_new_line_6 | tell
 choice
 manage
 jacket
 donor
 infant |  
-| bip_39_word_new_line7 | tell
+| bip_39_word_new_line_7 | tell
 choice
 manage
 jacket
 donor
 infant
 advice |  
-| bip_39_word_new_line8 | tell
+| bip_39_word_new_line_8 | tell
 choice
 manage
 jacket
@@ -113,7 +113,7 @@ donor
 infant
 advice
 bullet |  
-| bip_39_word_new_line9 | tell
+| bip_39_word_new_line_9 | tell
 choice
 manage
 jacket

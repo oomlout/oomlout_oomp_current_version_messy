@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | shadow |  
-| bip_39_word_new_br10 | shadow<br>such<br>sister<br>addict<br>glue<br>canal<br>describe<br>random<br>hawk<br>recall |  
-| bip_39_word_new_br11 | shadow<br>such<br>sister<br>addict<br>glue<br>canal<br>describe<br>random<br>hawk<br>recall<br>very |  
-| bip_39_word_new_br12 | shadow<br>such<br>sister<br>addict<br>glue<br>canal<br>describe<br>random<br>hawk<br>recall<br>very<br>alpha |  
-| bip_39_word_new_br2 | shadow<br>such |  
-| bip_39_word_new_br3 | shadow<br>such<br>sister |  
-| bip_39_word_new_br4 | shadow<br>such<br>sister<br>addict |  
-| bip_39_word_new_br5 | shadow<br>such<br>sister<br>addict<br>glue |  
-| bip_39_word_new_br6 | shadow<br>such<br>sister<br>addict<br>glue<br>canal |  
-| bip_39_word_new_br7 | shadow<br>such<br>sister<br>addict<br>glue<br>canal<br>describe |  
-| bip_39_word_new_br8 | shadow<br>such<br>sister<br>addict<br>glue<br>canal<br>describe<br>random |  
-| bip_39_word_new_br9 | shadow<br>such<br>sister<br>addict<br>glue<br>canal<br>describe<br>random<br>hawk |  
-| bip_39_word_new_line1 | shadow |  
-| bip_39_word_new_line10 | shadow
+| bip_39_word_new_br_1 | shadow |  
+| bip_39_word_new_br_10 | shadow<br>such<br>sister<br>addict<br>glue<br>canal<br>describe<br>random<br>hawk<br>recall |  
+| bip_39_word_new_br_11 | shadow<br>such<br>sister<br>addict<br>glue<br>canal<br>describe<br>random<br>hawk<br>recall<br>very |  
+| bip_39_word_new_br_12 | shadow<br>such<br>sister<br>addict<br>glue<br>canal<br>describe<br>random<br>hawk<br>recall<br>very<br>alpha |  
+| bip_39_word_new_br_2 | shadow<br>such |  
+| bip_39_word_new_br_3 | shadow<br>such<br>sister |  
+| bip_39_word_new_br_4 | shadow<br>such<br>sister<br>addict |  
+| bip_39_word_new_br_5 | shadow<br>such<br>sister<br>addict<br>glue |  
+| bip_39_word_new_br_6 | shadow<br>such<br>sister<br>addict<br>glue<br>canal |  
+| bip_39_word_new_br_7 | shadow<br>such<br>sister<br>addict<br>glue<br>canal<br>describe |  
+| bip_39_word_new_br_8 | shadow<br>such<br>sister<br>addict<br>glue<br>canal<br>describe<br>random |  
+| bip_39_word_new_br_9 | shadow<br>such<br>sister<br>addict<br>glue<br>canal<br>describe<br>random<br>hawk |  
+| bip_39_word_new_line_1 | shadow |  
+| bip_39_word_new_line_10 | shadow
 such
 sister
 addict
@@ -55,7 +55,7 @@ describe
 random
 hawk
 recall |  
-| bip_39_word_new_line11 | shadow
+| bip_39_word_new_line_11 | shadow
 such
 sister
 addict
@@ -66,7 +66,7 @@ random
 hawk
 recall
 very |  
-| bip_39_word_new_line12 | shadow
+| bip_39_word_new_line_12 | shadow
 such
 sister
 addict
@@ -78,34 +78,34 @@ hawk
 recall
 very
 alpha |  
-| bip_39_word_new_line2 | shadow
+| bip_39_word_new_line_2 | shadow
 such |  
-| bip_39_word_new_line3 | shadow
+| bip_39_word_new_line_3 | shadow
 such
 sister |  
-| bip_39_word_new_line4 | shadow
+| bip_39_word_new_line_4 | shadow
 such
 sister
 addict |  
-| bip_39_word_new_line5 | shadow
+| bip_39_word_new_line_5 | shadow
 such
 sister
 addict
 glue |  
-| bip_39_word_new_line6 | shadow
+| bip_39_word_new_line_6 | shadow
 such
 sister
 addict
 glue
 canal |  
-| bip_39_word_new_line7 | shadow
+| bip_39_word_new_line_7 | shadow
 such
 sister
 addict
 glue
 canal
 describe |  
-| bip_39_word_new_line8 | shadow
+| bip_39_word_new_line_8 | shadow
 such
 sister
 addict
@@ -113,7 +113,7 @@ glue
 canal
 describe
 random |  
-| bip_39_word_new_line9 | shadow
+| bip_39_word_new_line_9 | shadow
 such
 sister
 addict

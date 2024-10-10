@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | panther |  
-| bip_39_word_new_br10 | panther<br>into<br>artwork<br>circle<br>call<br>cup<br>surprise<br>capital<br>private<br>column |  
-| bip_39_word_new_br11 | panther<br>into<br>artwork<br>circle<br>call<br>cup<br>surprise<br>capital<br>private<br>column<br>razor |  
-| bip_39_word_new_br12 | panther<br>into<br>artwork<br>circle<br>call<br>cup<br>surprise<br>capital<br>private<br>column<br>razor<br>act |  
-| bip_39_word_new_br2 | panther<br>into |  
-| bip_39_word_new_br3 | panther<br>into<br>artwork |  
-| bip_39_word_new_br4 | panther<br>into<br>artwork<br>circle |  
-| bip_39_word_new_br5 | panther<br>into<br>artwork<br>circle<br>call |  
-| bip_39_word_new_br6 | panther<br>into<br>artwork<br>circle<br>call<br>cup |  
-| bip_39_word_new_br7 | panther<br>into<br>artwork<br>circle<br>call<br>cup<br>surprise |  
-| bip_39_word_new_br8 | panther<br>into<br>artwork<br>circle<br>call<br>cup<br>surprise<br>capital |  
-| bip_39_word_new_br9 | panther<br>into<br>artwork<br>circle<br>call<br>cup<br>surprise<br>capital<br>private |  
-| bip_39_word_new_line1 | panther |  
-| bip_39_word_new_line10 | panther
+| bip_39_word_new_br_1 | panther |  
+| bip_39_word_new_br_10 | panther<br>into<br>artwork<br>circle<br>call<br>cup<br>surprise<br>capital<br>private<br>column |  
+| bip_39_word_new_br_11 | panther<br>into<br>artwork<br>circle<br>call<br>cup<br>surprise<br>capital<br>private<br>column<br>razor |  
+| bip_39_word_new_br_12 | panther<br>into<br>artwork<br>circle<br>call<br>cup<br>surprise<br>capital<br>private<br>column<br>razor<br>act |  
+| bip_39_word_new_br_2 | panther<br>into |  
+| bip_39_word_new_br_3 | panther<br>into<br>artwork |  
+| bip_39_word_new_br_4 | panther<br>into<br>artwork<br>circle |  
+| bip_39_word_new_br_5 | panther<br>into<br>artwork<br>circle<br>call |  
+| bip_39_word_new_br_6 | panther<br>into<br>artwork<br>circle<br>call<br>cup |  
+| bip_39_word_new_br_7 | panther<br>into<br>artwork<br>circle<br>call<br>cup<br>surprise |  
+| bip_39_word_new_br_8 | panther<br>into<br>artwork<br>circle<br>call<br>cup<br>surprise<br>capital |  
+| bip_39_word_new_br_9 | panther<br>into<br>artwork<br>circle<br>call<br>cup<br>surprise<br>capital<br>private |  
+| bip_39_word_new_line_1 | panther |  
+| bip_39_word_new_line_10 | panther
 into
 artwork
 circle
@@ -55,7 +55,7 @@ surprise
 capital
 private
 column |  
-| bip_39_word_new_line11 | panther
+| bip_39_word_new_line_11 | panther
 into
 artwork
 circle
@@ -66,7 +66,7 @@ capital
 private
 column
 razor |  
-| bip_39_word_new_line12 | panther
+| bip_39_word_new_line_12 | panther
 into
 artwork
 circle
@@ -78,34 +78,34 @@ private
 column
 razor
 act |  
-| bip_39_word_new_line2 | panther
+| bip_39_word_new_line_2 | panther
 into |  
-| bip_39_word_new_line3 | panther
+| bip_39_word_new_line_3 | panther
 into
 artwork |  
-| bip_39_word_new_line4 | panther
+| bip_39_word_new_line_4 | panther
 into
 artwork
 circle |  
-| bip_39_word_new_line5 | panther
+| bip_39_word_new_line_5 | panther
 into
 artwork
 circle
 call |  
-| bip_39_word_new_line6 | panther
+| bip_39_word_new_line_6 | panther
 into
 artwork
 circle
 call
 cup |  
-| bip_39_word_new_line7 | panther
+| bip_39_word_new_line_7 | panther
 into
 artwork
 circle
 call
 cup
 surprise |  
-| bip_39_word_new_line8 | panther
+| bip_39_word_new_line_8 | panther
 into
 artwork
 circle
@@ -113,7 +113,7 @@ call
 cup
 surprise
 capital |  
-| bip_39_word_new_line9 | panther
+| bip_39_word_new_line_9 | panther
 into
 artwork
 circle

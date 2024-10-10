@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | endless |  
-| bip_39_word_new_br10 | endless<br>trip<br>prosper<br>remain<br>much<br>village<br>tired<br>head<br>slim<br>cattle |  
-| bip_39_word_new_br11 | endless<br>trip<br>prosper<br>remain<br>much<br>village<br>tired<br>head<br>slim<br>cattle<br>attack |  
-| bip_39_word_new_br12 | endless<br>trip<br>prosper<br>remain<br>much<br>village<br>tired<br>head<br>slim<br>cattle<br>attack<br>attend |  
-| bip_39_word_new_br2 | endless<br>trip |  
-| bip_39_word_new_br3 | endless<br>trip<br>prosper |  
-| bip_39_word_new_br4 | endless<br>trip<br>prosper<br>remain |  
-| bip_39_word_new_br5 | endless<br>trip<br>prosper<br>remain<br>much |  
-| bip_39_word_new_br6 | endless<br>trip<br>prosper<br>remain<br>much<br>village |  
-| bip_39_word_new_br7 | endless<br>trip<br>prosper<br>remain<br>much<br>village<br>tired |  
-| bip_39_word_new_br8 | endless<br>trip<br>prosper<br>remain<br>much<br>village<br>tired<br>head |  
-| bip_39_word_new_br9 | endless<br>trip<br>prosper<br>remain<br>much<br>village<br>tired<br>head<br>slim |  
-| bip_39_word_new_line1 | endless |  
-| bip_39_word_new_line10 | endless
+| bip_39_word_new_br_1 | endless |  
+| bip_39_word_new_br_10 | endless<br>trip<br>prosper<br>remain<br>much<br>village<br>tired<br>head<br>slim<br>cattle |  
+| bip_39_word_new_br_11 | endless<br>trip<br>prosper<br>remain<br>much<br>village<br>tired<br>head<br>slim<br>cattle<br>attack |  
+| bip_39_word_new_br_12 | endless<br>trip<br>prosper<br>remain<br>much<br>village<br>tired<br>head<br>slim<br>cattle<br>attack<br>attend |  
+| bip_39_word_new_br_2 | endless<br>trip |  
+| bip_39_word_new_br_3 | endless<br>trip<br>prosper |  
+| bip_39_word_new_br_4 | endless<br>trip<br>prosper<br>remain |  
+| bip_39_word_new_br_5 | endless<br>trip<br>prosper<br>remain<br>much |  
+| bip_39_word_new_br_6 | endless<br>trip<br>prosper<br>remain<br>much<br>village |  
+| bip_39_word_new_br_7 | endless<br>trip<br>prosper<br>remain<br>much<br>village<br>tired |  
+| bip_39_word_new_br_8 | endless<br>trip<br>prosper<br>remain<br>much<br>village<br>tired<br>head |  
+| bip_39_word_new_br_9 | endless<br>trip<br>prosper<br>remain<br>much<br>village<br>tired<br>head<br>slim |  
+| bip_39_word_new_line_1 | endless |  
+| bip_39_word_new_line_10 | endless
 trip
 prosper
 remain
@@ -55,7 +55,7 @@ tired
 head
 slim
 cattle |  
-| bip_39_word_new_line11 | endless
+| bip_39_word_new_line_11 | endless
 trip
 prosper
 remain
@@ -66,7 +66,7 @@ head
 slim
 cattle
 attack |  
-| bip_39_word_new_line12 | endless
+| bip_39_word_new_line_12 | endless
 trip
 prosper
 remain
@@ -78,34 +78,34 @@ slim
 cattle
 attack
 attend |  
-| bip_39_word_new_line2 | endless
+| bip_39_word_new_line_2 | endless
 trip |  
-| bip_39_word_new_line3 | endless
+| bip_39_word_new_line_3 | endless
 trip
 prosper |  
-| bip_39_word_new_line4 | endless
+| bip_39_word_new_line_4 | endless
 trip
 prosper
 remain |  
-| bip_39_word_new_line5 | endless
+| bip_39_word_new_line_5 | endless
 trip
 prosper
 remain
 much |  
-| bip_39_word_new_line6 | endless
+| bip_39_word_new_line_6 | endless
 trip
 prosper
 remain
 much
 village |  
-| bip_39_word_new_line7 | endless
+| bip_39_word_new_line_7 | endless
 trip
 prosper
 remain
 much
 village
 tired |  
-| bip_39_word_new_line8 | endless
+| bip_39_word_new_line_8 | endless
 trip
 prosper
 remain
@@ -113,7 +113,7 @@ much
 village
 tired
 head |  
-| bip_39_word_new_line9 | endless
+| bip_39_word_new_line_9 | endless
 trip
 prosper
 remain

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bronze |  
-| bip_39_word_new_br10 | bronze<br>rebuild<br>practice<br>inspire<br>segment<br>please<br>copy<br>fitness<br>gloom<br>struggle |  
-| bip_39_word_new_br11 | bronze<br>rebuild<br>practice<br>inspire<br>segment<br>please<br>copy<br>fitness<br>gloom<br>struggle<br>noise |  
-| bip_39_word_new_br12 | bronze<br>rebuild<br>practice<br>inspire<br>segment<br>please<br>copy<br>fitness<br>gloom<br>struggle<br>noise<br>average |  
-| bip_39_word_new_br2 | bronze<br>rebuild |  
-| bip_39_word_new_br3 | bronze<br>rebuild<br>practice |  
-| bip_39_word_new_br4 | bronze<br>rebuild<br>practice<br>inspire |  
-| bip_39_word_new_br5 | bronze<br>rebuild<br>practice<br>inspire<br>segment |  
-| bip_39_word_new_br6 | bronze<br>rebuild<br>practice<br>inspire<br>segment<br>please |  
-| bip_39_word_new_br7 | bronze<br>rebuild<br>practice<br>inspire<br>segment<br>please<br>copy |  
-| bip_39_word_new_br8 | bronze<br>rebuild<br>practice<br>inspire<br>segment<br>please<br>copy<br>fitness |  
-| bip_39_word_new_br9 | bronze<br>rebuild<br>practice<br>inspire<br>segment<br>please<br>copy<br>fitness<br>gloom |  
-| bip_39_word_new_line1 | bronze |  
-| bip_39_word_new_line10 | bronze
+| bip_39_word_new_br_1 | bronze |  
+| bip_39_word_new_br_10 | bronze<br>rebuild<br>practice<br>inspire<br>segment<br>please<br>copy<br>fitness<br>gloom<br>struggle |  
+| bip_39_word_new_br_11 | bronze<br>rebuild<br>practice<br>inspire<br>segment<br>please<br>copy<br>fitness<br>gloom<br>struggle<br>noise |  
+| bip_39_word_new_br_12 | bronze<br>rebuild<br>practice<br>inspire<br>segment<br>please<br>copy<br>fitness<br>gloom<br>struggle<br>noise<br>average |  
+| bip_39_word_new_br_2 | bronze<br>rebuild |  
+| bip_39_word_new_br_3 | bronze<br>rebuild<br>practice |  
+| bip_39_word_new_br_4 | bronze<br>rebuild<br>practice<br>inspire |  
+| bip_39_word_new_br_5 | bronze<br>rebuild<br>practice<br>inspire<br>segment |  
+| bip_39_word_new_br_6 | bronze<br>rebuild<br>practice<br>inspire<br>segment<br>please |  
+| bip_39_word_new_br_7 | bronze<br>rebuild<br>practice<br>inspire<br>segment<br>please<br>copy |  
+| bip_39_word_new_br_8 | bronze<br>rebuild<br>practice<br>inspire<br>segment<br>please<br>copy<br>fitness |  
+| bip_39_word_new_br_9 | bronze<br>rebuild<br>practice<br>inspire<br>segment<br>please<br>copy<br>fitness<br>gloom |  
+| bip_39_word_new_line_1 | bronze |  
+| bip_39_word_new_line_10 | bronze
 rebuild
 practice
 inspire
@@ -55,7 +55,7 @@ copy
 fitness
 gloom
 struggle |  
-| bip_39_word_new_line11 | bronze
+| bip_39_word_new_line_11 | bronze
 rebuild
 practice
 inspire
@@ -66,7 +66,7 @@ fitness
 gloom
 struggle
 noise |  
-| bip_39_word_new_line12 | bronze
+| bip_39_word_new_line_12 | bronze
 rebuild
 practice
 inspire
@@ -78,34 +78,34 @@ gloom
 struggle
 noise
 average |  
-| bip_39_word_new_line2 | bronze
+| bip_39_word_new_line_2 | bronze
 rebuild |  
-| bip_39_word_new_line3 | bronze
+| bip_39_word_new_line_3 | bronze
 rebuild
 practice |  
-| bip_39_word_new_line4 | bronze
+| bip_39_word_new_line_4 | bronze
 rebuild
 practice
 inspire |  
-| bip_39_word_new_line5 | bronze
+| bip_39_word_new_line_5 | bronze
 rebuild
 practice
 inspire
 segment |  
-| bip_39_word_new_line6 | bronze
+| bip_39_word_new_line_6 | bronze
 rebuild
 practice
 inspire
 segment
 please |  
-| bip_39_word_new_line7 | bronze
+| bip_39_word_new_line_7 | bronze
 rebuild
 practice
 inspire
 segment
 please
 copy |  
-| bip_39_word_new_line8 | bronze
+| bip_39_word_new_line_8 | bronze
 rebuild
 practice
 inspire
@@ -113,7 +113,7 @@ segment
 please
 copy
 fitness |  
-| bip_39_word_new_line9 | bronze
+| bip_39_word_new_line_9 | bronze
 rebuild
 practice
 inspire

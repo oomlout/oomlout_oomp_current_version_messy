@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | clump |  
-| bip_39_word_new_br10 | clump<br>sight<br>citizen<br>exhibit<br>tower<br>process<br>parent<br>they<br>next<br>happy |  
-| bip_39_word_new_br11 | clump<br>sight<br>citizen<br>exhibit<br>tower<br>process<br>parent<br>they<br>next<br>happy<br>desk |  
-| bip_39_word_new_br12 | clump<br>sight<br>citizen<br>exhibit<br>tower<br>process<br>parent<br>they<br>next<br>happy<br>desk<br>about |  
-| bip_39_word_new_br2 | clump<br>sight |  
-| bip_39_word_new_br3 | clump<br>sight<br>citizen |  
-| bip_39_word_new_br4 | clump<br>sight<br>citizen<br>exhibit |  
-| bip_39_word_new_br5 | clump<br>sight<br>citizen<br>exhibit<br>tower |  
-| bip_39_word_new_br6 | clump<br>sight<br>citizen<br>exhibit<br>tower<br>process |  
-| bip_39_word_new_br7 | clump<br>sight<br>citizen<br>exhibit<br>tower<br>process<br>parent |  
-| bip_39_word_new_br8 | clump<br>sight<br>citizen<br>exhibit<br>tower<br>process<br>parent<br>they |  
-| bip_39_word_new_br9 | clump<br>sight<br>citizen<br>exhibit<br>tower<br>process<br>parent<br>they<br>next |  
-| bip_39_word_new_line1 | clump |  
-| bip_39_word_new_line10 | clump
+| bip_39_word_new_br_1 | clump |  
+| bip_39_word_new_br_10 | clump<br>sight<br>citizen<br>exhibit<br>tower<br>process<br>parent<br>they<br>next<br>happy |  
+| bip_39_word_new_br_11 | clump<br>sight<br>citizen<br>exhibit<br>tower<br>process<br>parent<br>they<br>next<br>happy<br>desk |  
+| bip_39_word_new_br_12 | clump<br>sight<br>citizen<br>exhibit<br>tower<br>process<br>parent<br>they<br>next<br>happy<br>desk<br>about |  
+| bip_39_word_new_br_2 | clump<br>sight |  
+| bip_39_word_new_br_3 | clump<br>sight<br>citizen |  
+| bip_39_word_new_br_4 | clump<br>sight<br>citizen<br>exhibit |  
+| bip_39_word_new_br_5 | clump<br>sight<br>citizen<br>exhibit<br>tower |  
+| bip_39_word_new_br_6 | clump<br>sight<br>citizen<br>exhibit<br>tower<br>process |  
+| bip_39_word_new_br_7 | clump<br>sight<br>citizen<br>exhibit<br>tower<br>process<br>parent |  
+| bip_39_word_new_br_8 | clump<br>sight<br>citizen<br>exhibit<br>tower<br>process<br>parent<br>they |  
+| bip_39_word_new_br_9 | clump<br>sight<br>citizen<br>exhibit<br>tower<br>process<br>parent<br>they<br>next |  
+| bip_39_word_new_line_1 | clump |  
+| bip_39_word_new_line_10 | clump
 sight
 citizen
 exhibit
@@ -55,7 +55,7 @@ parent
 they
 next
 happy |  
-| bip_39_word_new_line11 | clump
+| bip_39_word_new_line_11 | clump
 sight
 citizen
 exhibit
@@ -66,7 +66,7 @@ they
 next
 happy
 desk |  
-| bip_39_word_new_line12 | clump
+| bip_39_word_new_line_12 | clump
 sight
 citizen
 exhibit
@@ -78,34 +78,34 @@ next
 happy
 desk
 about |  
-| bip_39_word_new_line2 | clump
+| bip_39_word_new_line_2 | clump
 sight |  
-| bip_39_word_new_line3 | clump
+| bip_39_word_new_line_3 | clump
 sight
 citizen |  
-| bip_39_word_new_line4 | clump
+| bip_39_word_new_line_4 | clump
 sight
 citizen
 exhibit |  
-| bip_39_word_new_line5 | clump
+| bip_39_word_new_line_5 | clump
 sight
 citizen
 exhibit
 tower |  
-| bip_39_word_new_line6 | clump
+| bip_39_word_new_line_6 | clump
 sight
 citizen
 exhibit
 tower
 process |  
-| bip_39_word_new_line7 | clump
+| bip_39_word_new_line_7 | clump
 sight
 citizen
 exhibit
 tower
 process
 parent |  
-| bip_39_word_new_line8 | clump
+| bip_39_word_new_line_8 | clump
 sight
 citizen
 exhibit
@@ -113,7 +113,7 @@ tower
 process
 parent
 they |  
-| bip_39_word_new_line9 | clump
+| bip_39_word_new_line_9 | clump
 sight
 citizen
 exhibit

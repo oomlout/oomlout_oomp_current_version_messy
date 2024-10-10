@@ -1,17 +1,17 @@
-bip_39_word_new_br1: dolphin
-bip_39_word_new_br10: dolphin<br>pottery<br>display<br>magic<br>insane<br>code<br>fresh<br>negative<br>basic<br>tail
-bip_39_word_new_br11: dolphin<br>pottery<br>display<br>magic<br>insane<br>code<br>fresh<br>negative<br>basic<br>tail<br>source
-bip_39_word_new_br12: dolphin<br>pottery<br>display<br>magic<br>insane<br>code<br>fresh<br>negative<br>basic<br>tail<br>source<br>atom
-bip_39_word_new_br2: dolphin<br>pottery
-bip_39_word_new_br3: dolphin<br>pottery<br>display
-bip_39_word_new_br4: dolphin<br>pottery<br>display<br>magic
-bip_39_word_new_br5: dolphin<br>pottery<br>display<br>magic<br>insane
-bip_39_word_new_br6: dolphin<br>pottery<br>display<br>magic<br>insane<br>code
-bip_39_word_new_br7: dolphin<br>pottery<br>display<br>magic<br>insane<br>code<br>fresh
-bip_39_word_new_br8: dolphin<br>pottery<br>display<br>magic<br>insane<br>code<br>fresh<br>negative
-bip_39_word_new_br9: dolphin<br>pottery<br>display<br>magic<br>insane<br>code<br>fresh<br>negative<br>basic
-bip_39_word_new_line1: dolphin
-bip_39_word_new_line10: 'dolphin
+bip_39_word_new_br_1: dolphin
+bip_39_word_new_br_10: dolphin<br>pottery<br>display<br>magic<br>insane<br>code<br>fresh<br>negative<br>basic<br>tail
+bip_39_word_new_br_11: dolphin<br>pottery<br>display<br>magic<br>insane<br>code<br>fresh<br>negative<br>basic<br>tail<br>source
+bip_39_word_new_br_12: dolphin<br>pottery<br>display<br>magic<br>insane<br>code<br>fresh<br>negative<br>basic<br>tail<br>source<br>atom
+bip_39_word_new_br_2: dolphin<br>pottery
+bip_39_word_new_br_3: dolphin<br>pottery<br>display
+bip_39_word_new_br_4: dolphin<br>pottery<br>display<br>magic
+bip_39_word_new_br_5: dolphin<br>pottery<br>display<br>magic<br>insane
+bip_39_word_new_br_6: dolphin<br>pottery<br>display<br>magic<br>insane<br>code
+bip_39_word_new_br_7: dolphin<br>pottery<br>display<br>magic<br>insane<br>code<br>fresh
+bip_39_word_new_br_8: dolphin<br>pottery<br>display<br>magic<br>insane<br>code<br>fresh<br>negative
+bip_39_word_new_br_9: dolphin<br>pottery<br>display<br>magic<br>insane<br>code<br>fresh<br>negative<br>basic
+bip_39_word_new_line_1: dolphin
+bip_39_word_new_line_10: 'dolphin
 
   pottery
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'dolphin
   basic
 
   tail'
-bip_39_word_new_line11: 'dolphin
+bip_39_word_new_line_11: 'dolphin
 
   pottery
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'dolphin
   tail
 
   source'
-bip_39_word_new_line12: 'dolphin
+bip_39_word_new_line_12: 'dolphin
 
   pottery
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'dolphin
   source
 
   atom'
-bip_39_word_new_line2: 'dolphin
+bip_39_word_new_line_2: 'dolphin
 
   pottery'
-bip_39_word_new_line3: 'dolphin
+bip_39_word_new_line_3: 'dolphin
 
   pottery
 
   display'
-bip_39_word_new_line4: 'dolphin
+bip_39_word_new_line_4: 'dolphin
 
   pottery
 
   display
 
   magic'
-bip_39_word_new_line5: 'dolphin
+bip_39_word_new_line_5: 'dolphin
 
   pottery
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'dolphin
   magic
 
   insane'
-bip_39_word_new_line6: 'dolphin
+bip_39_word_new_line_6: 'dolphin
 
   pottery
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'dolphin
   insane
 
   code'
-bip_39_word_new_line7: 'dolphin
+bip_39_word_new_line_7: 'dolphin
 
   pottery
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'dolphin
   code
 
   fresh'
-bip_39_word_new_line8: 'dolphin
+bip_39_word_new_line_8: 'dolphin
 
   pottery
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'dolphin
   fresh
 
   negative'
-bip_39_word_new_line9: 'dolphin
+bip_39_word_new_line_9: 'dolphin
 
   pottery
 

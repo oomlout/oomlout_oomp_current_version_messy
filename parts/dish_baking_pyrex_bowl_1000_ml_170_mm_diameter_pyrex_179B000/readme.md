@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | human |  
-| bip_39_word_new_br10 | human<br>avoid<br>genuine<br>culture<br>orient<br>fat<br>normal<br>between<br>myself<br>pen |  
-| bip_39_word_new_br11 | human<br>avoid<br>genuine<br>culture<br>orient<br>fat<br>normal<br>between<br>myself<br>pen<br>tiger |  
-| bip_39_word_new_br12 | human<br>avoid<br>genuine<br>culture<br>orient<br>fat<br>normal<br>between<br>myself<br>pen<br>tiger<br>alter |  
-| bip_39_word_new_br2 | human<br>avoid |  
-| bip_39_word_new_br3 | human<br>avoid<br>genuine |  
-| bip_39_word_new_br4 | human<br>avoid<br>genuine<br>culture |  
-| bip_39_word_new_br5 | human<br>avoid<br>genuine<br>culture<br>orient |  
-| bip_39_word_new_br6 | human<br>avoid<br>genuine<br>culture<br>orient<br>fat |  
-| bip_39_word_new_br7 | human<br>avoid<br>genuine<br>culture<br>orient<br>fat<br>normal |  
-| bip_39_word_new_br8 | human<br>avoid<br>genuine<br>culture<br>orient<br>fat<br>normal<br>between |  
-| bip_39_word_new_br9 | human<br>avoid<br>genuine<br>culture<br>orient<br>fat<br>normal<br>between<br>myself |  
-| bip_39_word_new_line1 | human |  
-| bip_39_word_new_line10 | human
+| bip_39_word_new_br_1 | human |  
+| bip_39_word_new_br_10 | human<br>avoid<br>genuine<br>culture<br>orient<br>fat<br>normal<br>between<br>myself<br>pen |  
+| bip_39_word_new_br_11 | human<br>avoid<br>genuine<br>culture<br>orient<br>fat<br>normal<br>between<br>myself<br>pen<br>tiger |  
+| bip_39_word_new_br_12 | human<br>avoid<br>genuine<br>culture<br>orient<br>fat<br>normal<br>between<br>myself<br>pen<br>tiger<br>alter |  
+| bip_39_word_new_br_2 | human<br>avoid |  
+| bip_39_word_new_br_3 | human<br>avoid<br>genuine |  
+| bip_39_word_new_br_4 | human<br>avoid<br>genuine<br>culture |  
+| bip_39_word_new_br_5 | human<br>avoid<br>genuine<br>culture<br>orient |  
+| bip_39_word_new_br_6 | human<br>avoid<br>genuine<br>culture<br>orient<br>fat |  
+| bip_39_word_new_br_7 | human<br>avoid<br>genuine<br>culture<br>orient<br>fat<br>normal |  
+| bip_39_word_new_br_8 | human<br>avoid<br>genuine<br>culture<br>orient<br>fat<br>normal<br>between |  
+| bip_39_word_new_br_9 | human<br>avoid<br>genuine<br>culture<br>orient<br>fat<br>normal<br>between<br>myself |  
+| bip_39_word_new_line_1 | human |  
+| bip_39_word_new_line_10 | human
 avoid
 genuine
 culture
@@ -55,7 +55,7 @@ normal
 between
 myself
 pen |  
-| bip_39_word_new_line11 | human
+| bip_39_word_new_line_11 | human
 avoid
 genuine
 culture
@@ -66,7 +66,7 @@ between
 myself
 pen
 tiger |  
-| bip_39_word_new_line12 | human
+| bip_39_word_new_line_12 | human
 avoid
 genuine
 culture
@@ -78,34 +78,34 @@ myself
 pen
 tiger
 alter |  
-| bip_39_word_new_line2 | human
+| bip_39_word_new_line_2 | human
 avoid |  
-| bip_39_word_new_line3 | human
+| bip_39_word_new_line_3 | human
 avoid
 genuine |  
-| bip_39_word_new_line4 | human
+| bip_39_word_new_line_4 | human
 avoid
 genuine
 culture |  
-| bip_39_word_new_line5 | human
+| bip_39_word_new_line_5 | human
 avoid
 genuine
 culture
 orient |  
-| bip_39_word_new_line6 | human
+| bip_39_word_new_line_6 | human
 avoid
 genuine
 culture
 orient
 fat |  
-| bip_39_word_new_line7 | human
+| bip_39_word_new_line_7 | human
 avoid
 genuine
 culture
 orient
 fat
 normal |  
-| bip_39_word_new_line8 | human
+| bip_39_word_new_line_8 | human
 avoid
 genuine
 culture
@@ -113,7 +113,7 @@ orient
 fat
 normal
 between |  
-| bip_39_word_new_line9 | human
+| bip_39_word_new_line_9 | human
 avoid
 genuine
 culture

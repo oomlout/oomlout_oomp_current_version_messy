@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | radar |  
-| bip_39_word_new_br10 | radar<br>enemy<br>floor<br>fog<br>leisure<br>gold<br>bike<br>pelican<br>cross<br>calm |  
-| bip_39_word_new_br11 | radar<br>enemy<br>floor<br>fog<br>leisure<br>gold<br>bike<br>pelican<br>cross<br>calm<br>used |  
-| bip_39_word_new_br12 | radar<br>enemy<br>floor<br>fog<br>leisure<br>gold<br>bike<br>pelican<br>cross<br>calm<br>used<br>aerobic |  
-| bip_39_word_new_br2 | radar<br>enemy |  
-| bip_39_word_new_br3 | radar<br>enemy<br>floor |  
-| bip_39_word_new_br4 | radar<br>enemy<br>floor<br>fog |  
-| bip_39_word_new_br5 | radar<br>enemy<br>floor<br>fog<br>leisure |  
-| bip_39_word_new_br6 | radar<br>enemy<br>floor<br>fog<br>leisure<br>gold |  
-| bip_39_word_new_br7 | radar<br>enemy<br>floor<br>fog<br>leisure<br>gold<br>bike |  
-| bip_39_word_new_br8 | radar<br>enemy<br>floor<br>fog<br>leisure<br>gold<br>bike<br>pelican |  
-| bip_39_word_new_br9 | radar<br>enemy<br>floor<br>fog<br>leisure<br>gold<br>bike<br>pelican<br>cross |  
-| bip_39_word_new_line1 | radar |  
-| bip_39_word_new_line10 | radar
+| bip_39_word_new_br_1 | radar |  
+| bip_39_word_new_br_10 | radar<br>enemy<br>floor<br>fog<br>leisure<br>gold<br>bike<br>pelican<br>cross<br>calm |  
+| bip_39_word_new_br_11 | radar<br>enemy<br>floor<br>fog<br>leisure<br>gold<br>bike<br>pelican<br>cross<br>calm<br>used |  
+| bip_39_word_new_br_12 | radar<br>enemy<br>floor<br>fog<br>leisure<br>gold<br>bike<br>pelican<br>cross<br>calm<br>used<br>aerobic |  
+| bip_39_word_new_br_2 | radar<br>enemy |  
+| bip_39_word_new_br_3 | radar<br>enemy<br>floor |  
+| bip_39_word_new_br_4 | radar<br>enemy<br>floor<br>fog |  
+| bip_39_word_new_br_5 | radar<br>enemy<br>floor<br>fog<br>leisure |  
+| bip_39_word_new_br_6 | radar<br>enemy<br>floor<br>fog<br>leisure<br>gold |  
+| bip_39_word_new_br_7 | radar<br>enemy<br>floor<br>fog<br>leisure<br>gold<br>bike |  
+| bip_39_word_new_br_8 | radar<br>enemy<br>floor<br>fog<br>leisure<br>gold<br>bike<br>pelican |  
+| bip_39_word_new_br_9 | radar<br>enemy<br>floor<br>fog<br>leisure<br>gold<br>bike<br>pelican<br>cross |  
+| bip_39_word_new_line_1 | radar |  
+| bip_39_word_new_line_10 | radar
 enemy
 floor
 fog
@@ -55,7 +55,7 @@ bike
 pelican
 cross
 calm |  
-| bip_39_word_new_line11 | radar
+| bip_39_word_new_line_11 | radar
 enemy
 floor
 fog
@@ -66,7 +66,7 @@ pelican
 cross
 calm
 used |  
-| bip_39_word_new_line12 | radar
+| bip_39_word_new_line_12 | radar
 enemy
 floor
 fog
@@ -78,34 +78,34 @@ cross
 calm
 used
 aerobic |  
-| bip_39_word_new_line2 | radar
+| bip_39_word_new_line_2 | radar
 enemy |  
-| bip_39_word_new_line3 | radar
+| bip_39_word_new_line_3 | radar
 enemy
 floor |  
-| bip_39_word_new_line4 | radar
+| bip_39_word_new_line_4 | radar
 enemy
 floor
 fog |  
-| bip_39_word_new_line5 | radar
+| bip_39_word_new_line_5 | radar
 enemy
 floor
 fog
 leisure |  
-| bip_39_word_new_line6 | radar
+| bip_39_word_new_line_6 | radar
 enemy
 floor
 fog
 leisure
 gold |  
-| bip_39_word_new_line7 | radar
+| bip_39_word_new_line_7 | radar
 enemy
 floor
 fog
 leisure
 gold
 bike |  
-| bip_39_word_new_line8 | radar
+| bip_39_word_new_line_8 | radar
 enemy
 floor
 fog
@@ -113,7 +113,7 @@ leisure
 gold
 bike
 pelican |  
-| bip_39_word_new_line9 | radar
+| bip_39_word_new_line_9 | radar
 enemy
 floor
 fog

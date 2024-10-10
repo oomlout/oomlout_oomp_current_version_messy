@@ -1,17 +1,17 @@
-bip_39_word_new_br1: flame
-bip_39_word_new_br10: flame<br>simple<br>luxury<br>humor<br>process<br>salute<br>patch<br>bubble<br>dynamic<br>soda
-bip_39_word_new_br11: flame<br>simple<br>luxury<br>humor<br>process<br>salute<br>patch<br>bubble<br>dynamic<br>soda<br>better
-bip_39_word_new_br12: flame<br>simple<br>luxury<br>humor<br>process<br>salute<br>patch<br>bubble<br>dynamic<br>soda<br>better<br>absorb
-bip_39_word_new_br2: flame<br>simple
-bip_39_word_new_br3: flame<br>simple<br>luxury
-bip_39_word_new_br4: flame<br>simple<br>luxury<br>humor
-bip_39_word_new_br5: flame<br>simple<br>luxury<br>humor<br>process
-bip_39_word_new_br6: flame<br>simple<br>luxury<br>humor<br>process<br>salute
-bip_39_word_new_br7: flame<br>simple<br>luxury<br>humor<br>process<br>salute<br>patch
-bip_39_word_new_br8: flame<br>simple<br>luxury<br>humor<br>process<br>salute<br>patch<br>bubble
-bip_39_word_new_br9: flame<br>simple<br>luxury<br>humor<br>process<br>salute<br>patch<br>bubble<br>dynamic
-bip_39_word_new_line1: flame
-bip_39_word_new_line10: 'flame
+bip_39_word_new_br_1: flame
+bip_39_word_new_br_10: flame<br>simple<br>luxury<br>humor<br>process<br>salute<br>patch<br>bubble<br>dynamic<br>soda
+bip_39_word_new_br_11: flame<br>simple<br>luxury<br>humor<br>process<br>salute<br>patch<br>bubble<br>dynamic<br>soda<br>better
+bip_39_word_new_br_12: flame<br>simple<br>luxury<br>humor<br>process<br>salute<br>patch<br>bubble<br>dynamic<br>soda<br>better<br>absorb
+bip_39_word_new_br_2: flame<br>simple
+bip_39_word_new_br_3: flame<br>simple<br>luxury
+bip_39_word_new_br_4: flame<br>simple<br>luxury<br>humor
+bip_39_word_new_br_5: flame<br>simple<br>luxury<br>humor<br>process
+bip_39_word_new_br_6: flame<br>simple<br>luxury<br>humor<br>process<br>salute
+bip_39_word_new_br_7: flame<br>simple<br>luxury<br>humor<br>process<br>salute<br>patch
+bip_39_word_new_br_8: flame<br>simple<br>luxury<br>humor<br>process<br>salute<br>patch<br>bubble
+bip_39_word_new_br_9: flame<br>simple<br>luxury<br>humor<br>process<br>salute<br>patch<br>bubble<br>dynamic
+bip_39_word_new_line_1: flame
+bip_39_word_new_line_10: 'flame
 
   simple
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'flame
   dynamic
 
   soda'
-bip_39_word_new_line11: 'flame
+bip_39_word_new_line_11: 'flame
 
   simple
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'flame
   soda
 
   better'
-bip_39_word_new_line12: 'flame
+bip_39_word_new_line_12: 'flame
 
   simple
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'flame
   better
 
   absorb'
-bip_39_word_new_line2: 'flame
+bip_39_word_new_line_2: 'flame
 
   simple'
-bip_39_word_new_line3: 'flame
+bip_39_word_new_line_3: 'flame
 
   simple
 
   luxury'
-bip_39_word_new_line4: 'flame
+bip_39_word_new_line_4: 'flame
 
   simple
 
   luxury
 
   humor'
-bip_39_word_new_line5: 'flame
+bip_39_word_new_line_5: 'flame
 
   simple
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'flame
   humor
 
   process'
-bip_39_word_new_line6: 'flame
+bip_39_word_new_line_6: 'flame
 
   simple
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'flame
   process
 
   salute'
-bip_39_word_new_line7: 'flame
+bip_39_word_new_line_7: 'flame
 
   simple
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'flame
   salute
 
   patch'
-bip_39_word_new_line8: 'flame
+bip_39_word_new_line_8: 'flame
 
   simple
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'flame
   patch
 
   bubble'
-bip_39_word_new_line9: 'flame
+bip_39_word_new_line_9: 'flame
 
   simple
 

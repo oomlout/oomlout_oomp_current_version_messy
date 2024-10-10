@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | regret |  
-| bip_39_word_new_br10 | regret<br>quarter<br>holiday<br>pipe<br>coast<br>scare<br>chuckle<br>usual<br>fever<br>ice |  
-| bip_39_word_new_br11 | regret<br>quarter<br>holiday<br>pipe<br>coast<br>scare<br>chuckle<br>usual<br>fever<br>ice<br>update |  
-| bip_39_word_new_br12 | regret<br>quarter<br>holiday<br>pipe<br>coast<br>scare<br>chuckle<br>usual<br>fever<br>ice<br>update<br>athlete |  
-| bip_39_word_new_br2 | regret<br>quarter |  
-| bip_39_word_new_br3 | regret<br>quarter<br>holiday |  
-| bip_39_word_new_br4 | regret<br>quarter<br>holiday<br>pipe |  
-| bip_39_word_new_br5 | regret<br>quarter<br>holiday<br>pipe<br>coast |  
-| bip_39_word_new_br6 | regret<br>quarter<br>holiday<br>pipe<br>coast<br>scare |  
-| bip_39_word_new_br7 | regret<br>quarter<br>holiday<br>pipe<br>coast<br>scare<br>chuckle |  
-| bip_39_word_new_br8 | regret<br>quarter<br>holiday<br>pipe<br>coast<br>scare<br>chuckle<br>usual |  
-| bip_39_word_new_br9 | regret<br>quarter<br>holiday<br>pipe<br>coast<br>scare<br>chuckle<br>usual<br>fever |  
-| bip_39_word_new_line1 | regret |  
-| bip_39_word_new_line10 | regret
+| bip_39_word_new_br_1 | regret |  
+| bip_39_word_new_br_10 | regret<br>quarter<br>holiday<br>pipe<br>coast<br>scare<br>chuckle<br>usual<br>fever<br>ice |  
+| bip_39_word_new_br_11 | regret<br>quarter<br>holiday<br>pipe<br>coast<br>scare<br>chuckle<br>usual<br>fever<br>ice<br>update |  
+| bip_39_word_new_br_12 | regret<br>quarter<br>holiday<br>pipe<br>coast<br>scare<br>chuckle<br>usual<br>fever<br>ice<br>update<br>athlete |  
+| bip_39_word_new_br_2 | regret<br>quarter |  
+| bip_39_word_new_br_3 | regret<br>quarter<br>holiday |  
+| bip_39_word_new_br_4 | regret<br>quarter<br>holiday<br>pipe |  
+| bip_39_word_new_br_5 | regret<br>quarter<br>holiday<br>pipe<br>coast |  
+| bip_39_word_new_br_6 | regret<br>quarter<br>holiday<br>pipe<br>coast<br>scare |  
+| bip_39_word_new_br_7 | regret<br>quarter<br>holiday<br>pipe<br>coast<br>scare<br>chuckle |  
+| bip_39_word_new_br_8 | regret<br>quarter<br>holiday<br>pipe<br>coast<br>scare<br>chuckle<br>usual |  
+| bip_39_word_new_br_9 | regret<br>quarter<br>holiday<br>pipe<br>coast<br>scare<br>chuckle<br>usual<br>fever |  
+| bip_39_word_new_line_1 | regret |  
+| bip_39_word_new_line_10 | regret
 quarter
 holiday
 pipe
@@ -55,7 +55,7 @@ chuckle
 usual
 fever
 ice |  
-| bip_39_word_new_line11 | regret
+| bip_39_word_new_line_11 | regret
 quarter
 holiday
 pipe
@@ -66,7 +66,7 @@ usual
 fever
 ice
 update |  
-| bip_39_word_new_line12 | regret
+| bip_39_word_new_line_12 | regret
 quarter
 holiday
 pipe
@@ -78,34 +78,34 @@ fever
 ice
 update
 athlete |  
-| bip_39_word_new_line2 | regret
+| bip_39_word_new_line_2 | regret
 quarter |  
-| bip_39_word_new_line3 | regret
+| bip_39_word_new_line_3 | regret
 quarter
 holiday |  
-| bip_39_word_new_line4 | regret
+| bip_39_word_new_line_4 | regret
 quarter
 holiday
 pipe |  
-| bip_39_word_new_line5 | regret
+| bip_39_word_new_line_5 | regret
 quarter
 holiday
 pipe
 coast |  
-| bip_39_word_new_line6 | regret
+| bip_39_word_new_line_6 | regret
 quarter
 holiday
 pipe
 coast
 scare |  
-| bip_39_word_new_line7 | regret
+| bip_39_word_new_line_7 | regret
 quarter
 holiday
 pipe
 coast
 scare
 chuckle |  
-| bip_39_word_new_line8 | regret
+| bip_39_word_new_line_8 | regret
 quarter
 holiday
 pipe
@@ -113,7 +113,7 @@ coast
 scare
 chuckle
 usual |  
-| bip_39_word_new_line9 | regret
+| bip_39_word_new_line_9 | regret
 quarter
 holiday
 pipe

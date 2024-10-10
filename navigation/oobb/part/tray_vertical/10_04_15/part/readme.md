@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hazard |  
-| bip_39_word_new_br10 | hazard<br>kind<br>print<br>cactus<br>ignore<br>fatal<br>barely<br>silk<br>easily<br>swim |  
-| bip_39_word_new_br11 | hazard<br>kind<br>print<br>cactus<br>ignore<br>fatal<br>barely<br>silk<br>easily<br>swim<br>print |  
-| bip_39_word_new_br12 | hazard<br>kind<br>print<br>cactus<br>ignore<br>fatal<br>barely<br>silk<br>easily<br>swim<br>print<br>april |  
-| bip_39_word_new_br2 | hazard<br>kind |  
-| bip_39_word_new_br3 | hazard<br>kind<br>print |  
-| bip_39_word_new_br4 | hazard<br>kind<br>print<br>cactus |  
-| bip_39_word_new_br5 | hazard<br>kind<br>print<br>cactus<br>ignore |  
-| bip_39_word_new_br6 | hazard<br>kind<br>print<br>cactus<br>ignore<br>fatal |  
-| bip_39_word_new_br7 | hazard<br>kind<br>print<br>cactus<br>ignore<br>fatal<br>barely |  
-| bip_39_word_new_br8 | hazard<br>kind<br>print<br>cactus<br>ignore<br>fatal<br>barely<br>silk |  
-| bip_39_word_new_br9 | hazard<br>kind<br>print<br>cactus<br>ignore<br>fatal<br>barely<br>silk<br>easily |  
-| bip_39_word_new_line1 | hazard |  
-| bip_39_word_new_line10 | hazard
+| bip_39_word_new_br_1 | hazard |  
+| bip_39_word_new_br_10 | hazard<br>kind<br>print<br>cactus<br>ignore<br>fatal<br>barely<br>silk<br>easily<br>swim |  
+| bip_39_word_new_br_11 | hazard<br>kind<br>print<br>cactus<br>ignore<br>fatal<br>barely<br>silk<br>easily<br>swim<br>print |  
+| bip_39_word_new_br_12 | hazard<br>kind<br>print<br>cactus<br>ignore<br>fatal<br>barely<br>silk<br>easily<br>swim<br>print<br>april |  
+| bip_39_word_new_br_2 | hazard<br>kind |  
+| bip_39_word_new_br_3 | hazard<br>kind<br>print |  
+| bip_39_word_new_br_4 | hazard<br>kind<br>print<br>cactus |  
+| bip_39_word_new_br_5 | hazard<br>kind<br>print<br>cactus<br>ignore |  
+| bip_39_word_new_br_6 | hazard<br>kind<br>print<br>cactus<br>ignore<br>fatal |  
+| bip_39_word_new_br_7 | hazard<br>kind<br>print<br>cactus<br>ignore<br>fatal<br>barely |  
+| bip_39_word_new_br_8 | hazard<br>kind<br>print<br>cactus<br>ignore<br>fatal<br>barely<br>silk |  
+| bip_39_word_new_br_9 | hazard<br>kind<br>print<br>cactus<br>ignore<br>fatal<br>barely<br>silk<br>easily |  
+| bip_39_word_new_line_1 | hazard |  
+| bip_39_word_new_line_10 | hazard
 kind
 print
 cactus
@@ -55,7 +55,7 @@ barely
 silk
 easily
 swim |  
-| bip_39_word_new_line11 | hazard
+| bip_39_word_new_line_11 | hazard
 kind
 print
 cactus
@@ -66,7 +66,7 @@ silk
 easily
 swim
 print |  
-| bip_39_word_new_line12 | hazard
+| bip_39_word_new_line_12 | hazard
 kind
 print
 cactus
@@ -78,34 +78,34 @@ easily
 swim
 print
 april |  
-| bip_39_word_new_line2 | hazard
+| bip_39_word_new_line_2 | hazard
 kind |  
-| bip_39_word_new_line3 | hazard
+| bip_39_word_new_line_3 | hazard
 kind
 print |  
-| bip_39_word_new_line4 | hazard
+| bip_39_word_new_line_4 | hazard
 kind
 print
 cactus |  
-| bip_39_word_new_line5 | hazard
+| bip_39_word_new_line_5 | hazard
 kind
 print
 cactus
 ignore |  
-| bip_39_word_new_line6 | hazard
+| bip_39_word_new_line_6 | hazard
 kind
 print
 cactus
 ignore
 fatal |  
-| bip_39_word_new_line7 | hazard
+| bip_39_word_new_line_7 | hazard
 kind
 print
 cactus
 ignore
 fatal
 barely |  
-| bip_39_word_new_line8 | hazard
+| bip_39_word_new_line_8 | hazard
 kind
 print
 cactus
@@ -113,7 +113,7 @@ ignore
 fatal
 barely
 silk |  
-| bip_39_word_new_line9 | hazard
+| bip_39_word_new_line_9 | hazard
 kind
 print
 cactus

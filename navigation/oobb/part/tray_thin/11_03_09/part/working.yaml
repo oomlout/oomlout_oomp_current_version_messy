@@ -1,17 +1,17 @@
-bip_39_word_new_br1: fault
-bip_39_word_new_br10: fault<br>bind<br>whale<br>laundry<br>faint<br>twenty<br>affair<br>relax<br>tired<br>love
-bip_39_word_new_br11: fault<br>bind<br>whale<br>laundry<br>faint<br>twenty<br>affair<br>relax<br>tired<br>love<br>trick
-bip_39_word_new_br12: fault<br>bind<br>whale<br>laundry<br>faint<br>twenty<br>affair<br>relax<br>tired<br>love<br>trick<br>athlete
-bip_39_word_new_br2: fault<br>bind
-bip_39_word_new_br3: fault<br>bind<br>whale
-bip_39_word_new_br4: fault<br>bind<br>whale<br>laundry
-bip_39_word_new_br5: fault<br>bind<br>whale<br>laundry<br>faint
-bip_39_word_new_br6: fault<br>bind<br>whale<br>laundry<br>faint<br>twenty
-bip_39_word_new_br7: fault<br>bind<br>whale<br>laundry<br>faint<br>twenty<br>affair
-bip_39_word_new_br8: fault<br>bind<br>whale<br>laundry<br>faint<br>twenty<br>affair<br>relax
-bip_39_word_new_br9: fault<br>bind<br>whale<br>laundry<br>faint<br>twenty<br>affair<br>relax<br>tired
-bip_39_word_new_line1: fault
-bip_39_word_new_line10: 'fault
+bip_39_word_new_br_1: fault
+bip_39_word_new_br_10: fault<br>bind<br>whale<br>laundry<br>faint<br>twenty<br>affair<br>relax<br>tired<br>love
+bip_39_word_new_br_11: fault<br>bind<br>whale<br>laundry<br>faint<br>twenty<br>affair<br>relax<br>tired<br>love<br>trick
+bip_39_word_new_br_12: fault<br>bind<br>whale<br>laundry<br>faint<br>twenty<br>affair<br>relax<br>tired<br>love<br>trick<br>athlete
+bip_39_word_new_br_2: fault<br>bind
+bip_39_word_new_br_3: fault<br>bind<br>whale
+bip_39_word_new_br_4: fault<br>bind<br>whale<br>laundry
+bip_39_word_new_br_5: fault<br>bind<br>whale<br>laundry<br>faint
+bip_39_word_new_br_6: fault<br>bind<br>whale<br>laundry<br>faint<br>twenty
+bip_39_word_new_br_7: fault<br>bind<br>whale<br>laundry<br>faint<br>twenty<br>affair
+bip_39_word_new_br_8: fault<br>bind<br>whale<br>laundry<br>faint<br>twenty<br>affair<br>relax
+bip_39_word_new_br_9: fault<br>bind<br>whale<br>laundry<br>faint<br>twenty<br>affair<br>relax<br>tired
+bip_39_word_new_line_1: fault
+bip_39_word_new_line_10: 'fault
 
   bind
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'fault
   tired
 
   love'
-bip_39_word_new_line11: 'fault
+bip_39_word_new_line_11: 'fault
 
   bind
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'fault
   love
 
   trick'
-bip_39_word_new_line12: 'fault
+bip_39_word_new_line_12: 'fault
 
   bind
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'fault
   trick
 
   athlete'
-bip_39_word_new_line2: 'fault
+bip_39_word_new_line_2: 'fault
 
   bind'
-bip_39_word_new_line3: 'fault
+bip_39_word_new_line_3: 'fault
 
   bind
 
   whale'
-bip_39_word_new_line4: 'fault
+bip_39_word_new_line_4: 'fault
 
   bind
 
   whale
 
   laundry'
-bip_39_word_new_line5: 'fault
+bip_39_word_new_line_5: 'fault
 
   bind
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'fault
   laundry
 
   faint'
-bip_39_word_new_line6: 'fault
+bip_39_word_new_line_6: 'fault
 
   bind
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'fault
   faint
 
   twenty'
-bip_39_word_new_line7: 'fault
+bip_39_word_new_line_7: 'fault
 
   bind
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'fault
   twenty
 
   affair'
-bip_39_word_new_line8: 'fault
+bip_39_word_new_line_8: 'fault
 
   bind
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'fault
   affair
 
   relax'
-bip_39_word_new_line9: 'fault
+bip_39_word_new_line_9: 'fault
 
   bind
 

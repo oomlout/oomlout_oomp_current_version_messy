@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | oppose |  
-| bip_39_word_new_br10 | oppose<br>sadness<br>napkin<br>just<br>reveal<br>fly<br>coin<br>write<br>term<br>junior |  
-| bip_39_word_new_br11 | oppose<br>sadness<br>napkin<br>just<br>reveal<br>fly<br>coin<br>write<br>term<br>junior<br>maid |  
-| bip_39_word_new_br12 | oppose<br>sadness<br>napkin<br>just<br>reveal<br>fly<br>coin<br>write<br>term<br>junior<br>maid<br>almost |  
-| bip_39_word_new_br2 | oppose<br>sadness |  
-| bip_39_word_new_br3 | oppose<br>sadness<br>napkin |  
-| bip_39_word_new_br4 | oppose<br>sadness<br>napkin<br>just |  
-| bip_39_word_new_br5 | oppose<br>sadness<br>napkin<br>just<br>reveal |  
-| bip_39_word_new_br6 | oppose<br>sadness<br>napkin<br>just<br>reveal<br>fly |  
-| bip_39_word_new_br7 | oppose<br>sadness<br>napkin<br>just<br>reveal<br>fly<br>coin |  
-| bip_39_word_new_br8 | oppose<br>sadness<br>napkin<br>just<br>reveal<br>fly<br>coin<br>write |  
-| bip_39_word_new_br9 | oppose<br>sadness<br>napkin<br>just<br>reveal<br>fly<br>coin<br>write<br>term |  
-| bip_39_word_new_line1 | oppose |  
-| bip_39_word_new_line10 | oppose
+| bip_39_word_new_br_1 | oppose |  
+| bip_39_word_new_br_10 | oppose<br>sadness<br>napkin<br>just<br>reveal<br>fly<br>coin<br>write<br>term<br>junior |  
+| bip_39_word_new_br_11 | oppose<br>sadness<br>napkin<br>just<br>reveal<br>fly<br>coin<br>write<br>term<br>junior<br>maid |  
+| bip_39_word_new_br_12 | oppose<br>sadness<br>napkin<br>just<br>reveal<br>fly<br>coin<br>write<br>term<br>junior<br>maid<br>almost |  
+| bip_39_word_new_br_2 | oppose<br>sadness |  
+| bip_39_word_new_br_3 | oppose<br>sadness<br>napkin |  
+| bip_39_word_new_br_4 | oppose<br>sadness<br>napkin<br>just |  
+| bip_39_word_new_br_5 | oppose<br>sadness<br>napkin<br>just<br>reveal |  
+| bip_39_word_new_br_6 | oppose<br>sadness<br>napkin<br>just<br>reveal<br>fly |  
+| bip_39_word_new_br_7 | oppose<br>sadness<br>napkin<br>just<br>reveal<br>fly<br>coin |  
+| bip_39_word_new_br_8 | oppose<br>sadness<br>napkin<br>just<br>reveal<br>fly<br>coin<br>write |  
+| bip_39_word_new_br_9 | oppose<br>sadness<br>napkin<br>just<br>reveal<br>fly<br>coin<br>write<br>term |  
+| bip_39_word_new_line_1 | oppose |  
+| bip_39_word_new_line_10 | oppose
 sadness
 napkin
 just
@@ -55,7 +55,7 @@ coin
 write
 term
 junior |  
-| bip_39_word_new_line11 | oppose
+| bip_39_word_new_line_11 | oppose
 sadness
 napkin
 just
@@ -66,7 +66,7 @@ write
 term
 junior
 maid |  
-| bip_39_word_new_line12 | oppose
+| bip_39_word_new_line_12 | oppose
 sadness
 napkin
 just
@@ -78,34 +78,34 @@ term
 junior
 maid
 almost |  
-| bip_39_word_new_line2 | oppose
+| bip_39_word_new_line_2 | oppose
 sadness |  
-| bip_39_word_new_line3 | oppose
+| bip_39_word_new_line_3 | oppose
 sadness
 napkin |  
-| bip_39_word_new_line4 | oppose
+| bip_39_word_new_line_4 | oppose
 sadness
 napkin
 just |  
-| bip_39_word_new_line5 | oppose
+| bip_39_word_new_line_5 | oppose
 sadness
 napkin
 just
 reveal |  
-| bip_39_word_new_line6 | oppose
+| bip_39_word_new_line_6 | oppose
 sadness
 napkin
 just
 reveal
 fly |  
-| bip_39_word_new_line7 | oppose
+| bip_39_word_new_line_7 | oppose
 sadness
 napkin
 just
 reveal
 fly
 coin |  
-| bip_39_word_new_line8 | oppose
+| bip_39_word_new_line_8 | oppose
 sadness
 napkin
 just
@@ -113,7 +113,7 @@ reveal
 fly
 coin
 write |  
-| bip_39_word_new_line9 | oppose
+| bip_39_word_new_line_9 | oppose
 sadness
 napkin
 just

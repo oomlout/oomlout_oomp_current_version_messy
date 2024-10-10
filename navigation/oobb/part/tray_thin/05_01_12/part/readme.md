@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | asthma |  
-| bip_39_word_new_br10 | asthma<br>fluid<br>young<br>reunion<br>travel<br>supply<br>ethics<br>dog<br>item<br>decline |  
-| bip_39_word_new_br11 | asthma<br>fluid<br>young<br>reunion<br>travel<br>supply<br>ethics<br>dog<br>item<br>decline<br>luxury |  
-| bip_39_word_new_br12 | asthma<br>fluid<br>young<br>reunion<br>travel<br>supply<br>ethics<br>dog<br>item<br>decline<br>luxury<br>arctic |  
-| bip_39_word_new_br2 | asthma<br>fluid |  
-| bip_39_word_new_br3 | asthma<br>fluid<br>young |  
-| bip_39_word_new_br4 | asthma<br>fluid<br>young<br>reunion |  
-| bip_39_word_new_br5 | asthma<br>fluid<br>young<br>reunion<br>travel |  
-| bip_39_word_new_br6 | asthma<br>fluid<br>young<br>reunion<br>travel<br>supply |  
-| bip_39_word_new_br7 | asthma<br>fluid<br>young<br>reunion<br>travel<br>supply<br>ethics |  
-| bip_39_word_new_br8 | asthma<br>fluid<br>young<br>reunion<br>travel<br>supply<br>ethics<br>dog |  
-| bip_39_word_new_br9 | asthma<br>fluid<br>young<br>reunion<br>travel<br>supply<br>ethics<br>dog<br>item |  
-| bip_39_word_new_line1 | asthma |  
-| bip_39_word_new_line10 | asthma
+| bip_39_word_new_br_1 | asthma |  
+| bip_39_word_new_br_10 | asthma<br>fluid<br>young<br>reunion<br>travel<br>supply<br>ethics<br>dog<br>item<br>decline |  
+| bip_39_word_new_br_11 | asthma<br>fluid<br>young<br>reunion<br>travel<br>supply<br>ethics<br>dog<br>item<br>decline<br>luxury |  
+| bip_39_word_new_br_12 | asthma<br>fluid<br>young<br>reunion<br>travel<br>supply<br>ethics<br>dog<br>item<br>decline<br>luxury<br>arctic |  
+| bip_39_word_new_br_2 | asthma<br>fluid |  
+| bip_39_word_new_br_3 | asthma<br>fluid<br>young |  
+| bip_39_word_new_br_4 | asthma<br>fluid<br>young<br>reunion |  
+| bip_39_word_new_br_5 | asthma<br>fluid<br>young<br>reunion<br>travel |  
+| bip_39_word_new_br_6 | asthma<br>fluid<br>young<br>reunion<br>travel<br>supply |  
+| bip_39_word_new_br_7 | asthma<br>fluid<br>young<br>reunion<br>travel<br>supply<br>ethics |  
+| bip_39_word_new_br_8 | asthma<br>fluid<br>young<br>reunion<br>travel<br>supply<br>ethics<br>dog |  
+| bip_39_word_new_br_9 | asthma<br>fluid<br>young<br>reunion<br>travel<br>supply<br>ethics<br>dog<br>item |  
+| bip_39_word_new_line_1 | asthma |  
+| bip_39_word_new_line_10 | asthma
 fluid
 young
 reunion
@@ -55,7 +55,7 @@ ethics
 dog
 item
 decline |  
-| bip_39_word_new_line11 | asthma
+| bip_39_word_new_line_11 | asthma
 fluid
 young
 reunion
@@ -66,7 +66,7 @@ dog
 item
 decline
 luxury |  
-| bip_39_word_new_line12 | asthma
+| bip_39_word_new_line_12 | asthma
 fluid
 young
 reunion
@@ -78,34 +78,34 @@ item
 decline
 luxury
 arctic |  
-| bip_39_word_new_line2 | asthma
+| bip_39_word_new_line_2 | asthma
 fluid |  
-| bip_39_word_new_line3 | asthma
+| bip_39_word_new_line_3 | asthma
 fluid
 young |  
-| bip_39_word_new_line4 | asthma
+| bip_39_word_new_line_4 | asthma
 fluid
 young
 reunion |  
-| bip_39_word_new_line5 | asthma
+| bip_39_word_new_line_5 | asthma
 fluid
 young
 reunion
 travel |  
-| bip_39_word_new_line6 | asthma
+| bip_39_word_new_line_6 | asthma
 fluid
 young
 reunion
 travel
 supply |  
-| bip_39_word_new_line7 | asthma
+| bip_39_word_new_line_7 | asthma
 fluid
 young
 reunion
 travel
 supply
 ethics |  
-| bip_39_word_new_line8 | asthma
+| bip_39_word_new_line_8 | asthma
 fluid
 young
 reunion
@@ -113,7 +113,7 @@ travel
 supply
 ethics
 dog |  
-| bip_39_word_new_line9 | asthma
+| bip_39_word_new_line_9 | asthma
 fluid
 young
 reunion

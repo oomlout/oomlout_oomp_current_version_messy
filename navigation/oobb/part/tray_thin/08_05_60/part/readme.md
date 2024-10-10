@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | total |  
-| bip_39_word_new_br10 | total<br>stairs<br>pledge<br>fortune<br>direct<br>machine<br>merry<br>guard<br>what<br>stove |  
-| bip_39_word_new_br11 | total<br>stairs<br>pledge<br>fortune<br>direct<br>machine<br>merry<br>guard<br>what<br>stove<br>match |  
-| bip_39_word_new_br12 | total<br>stairs<br>pledge<br>fortune<br>direct<br>machine<br>merry<br>guard<br>what<br>stove<br>match<br>addict |  
-| bip_39_word_new_br2 | total<br>stairs |  
-| bip_39_word_new_br3 | total<br>stairs<br>pledge |  
-| bip_39_word_new_br4 | total<br>stairs<br>pledge<br>fortune |  
-| bip_39_word_new_br5 | total<br>stairs<br>pledge<br>fortune<br>direct |  
-| bip_39_word_new_br6 | total<br>stairs<br>pledge<br>fortune<br>direct<br>machine |  
-| bip_39_word_new_br7 | total<br>stairs<br>pledge<br>fortune<br>direct<br>machine<br>merry |  
-| bip_39_word_new_br8 | total<br>stairs<br>pledge<br>fortune<br>direct<br>machine<br>merry<br>guard |  
-| bip_39_word_new_br9 | total<br>stairs<br>pledge<br>fortune<br>direct<br>machine<br>merry<br>guard<br>what |  
-| bip_39_word_new_line1 | total |  
-| bip_39_word_new_line10 | total
+| bip_39_word_new_br_1 | total |  
+| bip_39_word_new_br_10 | total<br>stairs<br>pledge<br>fortune<br>direct<br>machine<br>merry<br>guard<br>what<br>stove |  
+| bip_39_word_new_br_11 | total<br>stairs<br>pledge<br>fortune<br>direct<br>machine<br>merry<br>guard<br>what<br>stove<br>match |  
+| bip_39_word_new_br_12 | total<br>stairs<br>pledge<br>fortune<br>direct<br>machine<br>merry<br>guard<br>what<br>stove<br>match<br>addict |  
+| bip_39_word_new_br_2 | total<br>stairs |  
+| bip_39_word_new_br_3 | total<br>stairs<br>pledge |  
+| bip_39_word_new_br_4 | total<br>stairs<br>pledge<br>fortune |  
+| bip_39_word_new_br_5 | total<br>stairs<br>pledge<br>fortune<br>direct |  
+| bip_39_word_new_br_6 | total<br>stairs<br>pledge<br>fortune<br>direct<br>machine |  
+| bip_39_word_new_br_7 | total<br>stairs<br>pledge<br>fortune<br>direct<br>machine<br>merry |  
+| bip_39_word_new_br_8 | total<br>stairs<br>pledge<br>fortune<br>direct<br>machine<br>merry<br>guard |  
+| bip_39_word_new_br_9 | total<br>stairs<br>pledge<br>fortune<br>direct<br>machine<br>merry<br>guard<br>what |  
+| bip_39_word_new_line_1 | total |  
+| bip_39_word_new_line_10 | total
 stairs
 pledge
 fortune
@@ -55,7 +55,7 @@ merry
 guard
 what
 stove |  
-| bip_39_word_new_line11 | total
+| bip_39_word_new_line_11 | total
 stairs
 pledge
 fortune
@@ -66,7 +66,7 @@ guard
 what
 stove
 match |  
-| bip_39_word_new_line12 | total
+| bip_39_word_new_line_12 | total
 stairs
 pledge
 fortune
@@ -78,34 +78,34 @@ what
 stove
 match
 addict |  
-| bip_39_word_new_line2 | total
+| bip_39_word_new_line_2 | total
 stairs |  
-| bip_39_word_new_line3 | total
+| bip_39_word_new_line_3 | total
 stairs
 pledge |  
-| bip_39_word_new_line4 | total
+| bip_39_word_new_line_4 | total
 stairs
 pledge
 fortune |  
-| bip_39_word_new_line5 | total
+| bip_39_word_new_line_5 | total
 stairs
 pledge
 fortune
 direct |  
-| bip_39_word_new_line6 | total
+| bip_39_word_new_line_6 | total
 stairs
 pledge
 fortune
 direct
 machine |  
-| bip_39_word_new_line7 | total
+| bip_39_word_new_line_7 | total
 stairs
 pledge
 fortune
 direct
 machine
 merry |  
-| bip_39_word_new_line8 | total
+| bip_39_word_new_line_8 | total
 stairs
 pledge
 fortune
@@ -113,7 +113,7 @@ direct
 machine
 merry
 guard |  
-| bip_39_word_new_line9 | total
+| bip_39_word_new_line_9 | total
 stairs
 pledge
 fortune

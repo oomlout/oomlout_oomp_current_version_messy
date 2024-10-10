@@ -1,17 +1,17 @@
-bip_39_word_new_br1: print
-bip_39_word_new_br10: print<br>federal<br>hen<br>wood<br>near<br>climb<br>follow<br>nice<br>foster<br>fire
-bip_39_word_new_br11: print<br>federal<br>hen<br>wood<br>near<br>climb<br>follow<br>nice<br>foster<br>fire<br>trap
-bip_39_word_new_br12: print<br>federal<br>hen<br>wood<br>near<br>climb<br>follow<br>nice<br>foster<br>fire<br>trap<br>achieve
-bip_39_word_new_br2: print<br>federal
-bip_39_word_new_br3: print<br>federal<br>hen
-bip_39_word_new_br4: print<br>federal<br>hen<br>wood
-bip_39_word_new_br5: print<br>federal<br>hen<br>wood<br>near
-bip_39_word_new_br6: print<br>federal<br>hen<br>wood<br>near<br>climb
-bip_39_word_new_br7: print<br>federal<br>hen<br>wood<br>near<br>climb<br>follow
-bip_39_word_new_br8: print<br>federal<br>hen<br>wood<br>near<br>climb<br>follow<br>nice
-bip_39_word_new_br9: print<br>federal<br>hen<br>wood<br>near<br>climb<br>follow<br>nice<br>foster
-bip_39_word_new_line1: print
-bip_39_word_new_line10: 'print
+bip_39_word_new_br_1: print
+bip_39_word_new_br_10: print<br>federal<br>hen<br>wood<br>near<br>climb<br>follow<br>nice<br>foster<br>fire
+bip_39_word_new_br_11: print<br>federal<br>hen<br>wood<br>near<br>climb<br>follow<br>nice<br>foster<br>fire<br>trap
+bip_39_word_new_br_12: print<br>federal<br>hen<br>wood<br>near<br>climb<br>follow<br>nice<br>foster<br>fire<br>trap<br>achieve
+bip_39_word_new_br_2: print<br>federal
+bip_39_word_new_br_3: print<br>federal<br>hen
+bip_39_word_new_br_4: print<br>federal<br>hen<br>wood
+bip_39_word_new_br_5: print<br>federal<br>hen<br>wood<br>near
+bip_39_word_new_br_6: print<br>federal<br>hen<br>wood<br>near<br>climb
+bip_39_word_new_br_7: print<br>federal<br>hen<br>wood<br>near<br>climb<br>follow
+bip_39_word_new_br_8: print<br>federal<br>hen<br>wood<br>near<br>climb<br>follow<br>nice
+bip_39_word_new_br_9: print<br>federal<br>hen<br>wood<br>near<br>climb<br>follow<br>nice<br>foster
+bip_39_word_new_line_1: print
+bip_39_word_new_line_10: 'print
 
   federal
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'print
   foster
 
   fire'
-bip_39_word_new_line11: 'print
+bip_39_word_new_line_11: 'print
 
   federal
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'print
   fire
 
   trap'
-bip_39_word_new_line12: 'print
+bip_39_word_new_line_12: 'print
 
   federal
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'print
   trap
 
   achieve'
-bip_39_word_new_line2: 'print
+bip_39_word_new_line_2: 'print
 
   federal'
-bip_39_word_new_line3: 'print
+bip_39_word_new_line_3: 'print
 
   federal
 
   hen'
-bip_39_word_new_line4: 'print
+bip_39_word_new_line_4: 'print
 
   federal
 
   hen
 
   wood'
-bip_39_word_new_line5: 'print
+bip_39_word_new_line_5: 'print
 
   federal
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'print
   wood
 
   near'
-bip_39_word_new_line6: 'print
+bip_39_word_new_line_6: 'print
 
   federal
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'print
   near
 
   climb'
-bip_39_word_new_line7: 'print
+bip_39_word_new_line_7: 'print
 
   federal
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'print
   climb
 
   follow'
-bip_39_word_new_line8: 'print
+bip_39_word_new_line_8: 'print
 
   federal
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'print
   follow
 
   nice'
-bip_39_word_new_line9: 'print
+bip_39_word_new_line_9: 'print
 
   federal
 

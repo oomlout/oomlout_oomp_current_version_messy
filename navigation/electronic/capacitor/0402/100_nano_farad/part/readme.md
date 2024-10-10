@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | symbol |  
-| bip_39_word_new_br10 | symbol<br>aspect<br>quarter<br>effort<br>sea<br>sound<br>critic<br>walnut<br>great<br>illegal |  
-| bip_39_word_new_br11 | symbol<br>aspect<br>quarter<br>effort<br>sea<br>sound<br>critic<br>walnut<br>great<br>illegal<br>romance |  
-| bip_39_word_new_br12 | symbol<br>aspect<br>quarter<br>effort<br>sea<br>sound<br>critic<br>walnut<br>great<br>illegal<br>romance<br>airport |  
-| bip_39_word_new_br2 | symbol<br>aspect |  
-| bip_39_word_new_br3 | symbol<br>aspect<br>quarter |  
-| bip_39_word_new_br4 | symbol<br>aspect<br>quarter<br>effort |  
-| bip_39_word_new_br5 | symbol<br>aspect<br>quarter<br>effort<br>sea |  
-| bip_39_word_new_br6 | symbol<br>aspect<br>quarter<br>effort<br>sea<br>sound |  
-| bip_39_word_new_br7 | symbol<br>aspect<br>quarter<br>effort<br>sea<br>sound<br>critic |  
-| bip_39_word_new_br8 | symbol<br>aspect<br>quarter<br>effort<br>sea<br>sound<br>critic<br>walnut |  
-| bip_39_word_new_br9 | symbol<br>aspect<br>quarter<br>effort<br>sea<br>sound<br>critic<br>walnut<br>great |  
-| bip_39_word_new_line1 | symbol |  
-| bip_39_word_new_line10 | symbol
+| bip_39_word_new_br_1 | symbol |  
+| bip_39_word_new_br_10 | symbol<br>aspect<br>quarter<br>effort<br>sea<br>sound<br>critic<br>walnut<br>great<br>illegal |  
+| bip_39_word_new_br_11 | symbol<br>aspect<br>quarter<br>effort<br>sea<br>sound<br>critic<br>walnut<br>great<br>illegal<br>romance |  
+| bip_39_word_new_br_12 | symbol<br>aspect<br>quarter<br>effort<br>sea<br>sound<br>critic<br>walnut<br>great<br>illegal<br>romance<br>airport |  
+| bip_39_word_new_br_2 | symbol<br>aspect |  
+| bip_39_word_new_br_3 | symbol<br>aspect<br>quarter |  
+| bip_39_word_new_br_4 | symbol<br>aspect<br>quarter<br>effort |  
+| bip_39_word_new_br_5 | symbol<br>aspect<br>quarter<br>effort<br>sea |  
+| bip_39_word_new_br_6 | symbol<br>aspect<br>quarter<br>effort<br>sea<br>sound |  
+| bip_39_word_new_br_7 | symbol<br>aspect<br>quarter<br>effort<br>sea<br>sound<br>critic |  
+| bip_39_word_new_br_8 | symbol<br>aspect<br>quarter<br>effort<br>sea<br>sound<br>critic<br>walnut |  
+| bip_39_word_new_br_9 | symbol<br>aspect<br>quarter<br>effort<br>sea<br>sound<br>critic<br>walnut<br>great |  
+| bip_39_word_new_line_1 | symbol |  
+| bip_39_word_new_line_10 | symbol
 aspect
 quarter
 effort
@@ -55,7 +55,7 @@ critic
 walnut
 great
 illegal |  
-| bip_39_word_new_line11 | symbol
+| bip_39_word_new_line_11 | symbol
 aspect
 quarter
 effort
@@ -66,7 +66,7 @@ walnut
 great
 illegal
 romance |  
-| bip_39_word_new_line12 | symbol
+| bip_39_word_new_line_12 | symbol
 aspect
 quarter
 effort
@@ -78,34 +78,34 @@ great
 illegal
 romance
 airport |  
-| bip_39_word_new_line2 | symbol
+| bip_39_word_new_line_2 | symbol
 aspect |  
-| bip_39_word_new_line3 | symbol
+| bip_39_word_new_line_3 | symbol
 aspect
 quarter |  
-| bip_39_word_new_line4 | symbol
+| bip_39_word_new_line_4 | symbol
 aspect
 quarter
 effort |  
-| bip_39_word_new_line5 | symbol
+| bip_39_word_new_line_5 | symbol
 aspect
 quarter
 effort
 sea |  
-| bip_39_word_new_line6 | symbol
+| bip_39_word_new_line_6 | symbol
 aspect
 quarter
 effort
 sea
 sound |  
-| bip_39_word_new_line7 | symbol
+| bip_39_word_new_line_7 | symbol
 aspect
 quarter
 effort
 sea
 sound
 critic |  
-| bip_39_word_new_line8 | symbol
+| bip_39_word_new_line_8 | symbol
 aspect
 quarter
 effort
@@ -113,7 +113,7 @@ sea
 sound
 critic
 walnut |  
-| bip_39_word_new_line9 | symbol
+| bip_39_word_new_line_9 | symbol
 aspect
 quarter
 effort

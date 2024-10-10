@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bamboo |  
-| bip_39_word_new_br10 | bamboo<br>glare<br>can<br>start<br>front<br>code<br>group<br>proof<br>inform<br>stairs |  
-| bip_39_word_new_br11 | bamboo<br>glare<br>can<br>start<br>front<br>code<br>group<br>proof<br>inform<br>stairs<br>oxygen |  
-| bip_39_word_new_br12 | bamboo<br>glare<br>can<br>start<br>front<br>code<br>group<br>proof<br>inform<br>stairs<br>oxygen<br>acoustic |  
-| bip_39_word_new_br2 | bamboo<br>glare |  
-| bip_39_word_new_br3 | bamboo<br>glare<br>can |  
-| bip_39_word_new_br4 | bamboo<br>glare<br>can<br>start |  
-| bip_39_word_new_br5 | bamboo<br>glare<br>can<br>start<br>front |  
-| bip_39_word_new_br6 | bamboo<br>glare<br>can<br>start<br>front<br>code |  
-| bip_39_word_new_br7 | bamboo<br>glare<br>can<br>start<br>front<br>code<br>group |  
-| bip_39_word_new_br8 | bamboo<br>glare<br>can<br>start<br>front<br>code<br>group<br>proof |  
-| bip_39_word_new_br9 | bamboo<br>glare<br>can<br>start<br>front<br>code<br>group<br>proof<br>inform |  
-| bip_39_word_new_line1 | bamboo |  
-| bip_39_word_new_line10 | bamboo
+| bip_39_word_new_br_1 | bamboo |  
+| bip_39_word_new_br_10 | bamboo<br>glare<br>can<br>start<br>front<br>code<br>group<br>proof<br>inform<br>stairs |  
+| bip_39_word_new_br_11 | bamboo<br>glare<br>can<br>start<br>front<br>code<br>group<br>proof<br>inform<br>stairs<br>oxygen |  
+| bip_39_word_new_br_12 | bamboo<br>glare<br>can<br>start<br>front<br>code<br>group<br>proof<br>inform<br>stairs<br>oxygen<br>acoustic |  
+| bip_39_word_new_br_2 | bamboo<br>glare |  
+| bip_39_word_new_br_3 | bamboo<br>glare<br>can |  
+| bip_39_word_new_br_4 | bamboo<br>glare<br>can<br>start |  
+| bip_39_word_new_br_5 | bamboo<br>glare<br>can<br>start<br>front |  
+| bip_39_word_new_br_6 | bamboo<br>glare<br>can<br>start<br>front<br>code |  
+| bip_39_word_new_br_7 | bamboo<br>glare<br>can<br>start<br>front<br>code<br>group |  
+| bip_39_word_new_br_8 | bamboo<br>glare<br>can<br>start<br>front<br>code<br>group<br>proof |  
+| bip_39_word_new_br_9 | bamboo<br>glare<br>can<br>start<br>front<br>code<br>group<br>proof<br>inform |  
+| bip_39_word_new_line_1 | bamboo |  
+| bip_39_word_new_line_10 | bamboo
 glare
 can
 start
@@ -55,7 +55,7 @@ group
 proof
 inform
 stairs |  
-| bip_39_word_new_line11 | bamboo
+| bip_39_word_new_line_11 | bamboo
 glare
 can
 start
@@ -66,7 +66,7 @@ proof
 inform
 stairs
 oxygen |  
-| bip_39_word_new_line12 | bamboo
+| bip_39_word_new_line_12 | bamboo
 glare
 can
 start
@@ -78,34 +78,34 @@ inform
 stairs
 oxygen
 acoustic |  
-| bip_39_word_new_line2 | bamboo
+| bip_39_word_new_line_2 | bamboo
 glare |  
-| bip_39_word_new_line3 | bamboo
+| bip_39_word_new_line_3 | bamboo
 glare
 can |  
-| bip_39_word_new_line4 | bamboo
+| bip_39_word_new_line_4 | bamboo
 glare
 can
 start |  
-| bip_39_word_new_line5 | bamboo
+| bip_39_word_new_line_5 | bamboo
 glare
 can
 start
 front |  
-| bip_39_word_new_line6 | bamboo
+| bip_39_word_new_line_6 | bamboo
 glare
 can
 start
 front
 code |  
-| bip_39_word_new_line7 | bamboo
+| bip_39_word_new_line_7 | bamboo
 glare
 can
 start
 front
 code
 group |  
-| bip_39_word_new_line8 | bamboo
+| bip_39_word_new_line_8 | bamboo
 glare
 can
 start
@@ -113,7 +113,7 @@ front
 code
 group
 proof |  
-| bip_39_word_new_line9 | bamboo
+| bip_39_word_new_line_9 | bamboo
 glare
 can
 start

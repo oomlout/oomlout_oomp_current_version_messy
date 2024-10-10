@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | script |  
-| bip_39_word_new_br10 | script<br>cabin<br>stem<br>fuel<br>attitude<br>auto<br>pepper<br>settle<br>warm<br>assault |  
-| bip_39_word_new_br11 | script<br>cabin<br>stem<br>fuel<br>attitude<br>auto<br>pepper<br>settle<br>warm<br>assault<br>vacuum |  
-| bip_39_word_new_br12 | script<br>cabin<br>stem<br>fuel<br>attitude<br>auto<br>pepper<br>settle<br>warm<br>assault<br>vacuum<br>asthma |  
-| bip_39_word_new_br2 | script<br>cabin |  
-| bip_39_word_new_br3 | script<br>cabin<br>stem |  
-| bip_39_word_new_br4 | script<br>cabin<br>stem<br>fuel |  
-| bip_39_word_new_br5 | script<br>cabin<br>stem<br>fuel<br>attitude |  
-| bip_39_word_new_br6 | script<br>cabin<br>stem<br>fuel<br>attitude<br>auto |  
-| bip_39_word_new_br7 | script<br>cabin<br>stem<br>fuel<br>attitude<br>auto<br>pepper |  
-| bip_39_word_new_br8 | script<br>cabin<br>stem<br>fuel<br>attitude<br>auto<br>pepper<br>settle |  
-| bip_39_word_new_br9 | script<br>cabin<br>stem<br>fuel<br>attitude<br>auto<br>pepper<br>settle<br>warm |  
-| bip_39_word_new_line1 | script |  
-| bip_39_word_new_line10 | script
+| bip_39_word_new_br_1 | script |  
+| bip_39_word_new_br_10 | script<br>cabin<br>stem<br>fuel<br>attitude<br>auto<br>pepper<br>settle<br>warm<br>assault |  
+| bip_39_word_new_br_11 | script<br>cabin<br>stem<br>fuel<br>attitude<br>auto<br>pepper<br>settle<br>warm<br>assault<br>vacuum |  
+| bip_39_word_new_br_12 | script<br>cabin<br>stem<br>fuel<br>attitude<br>auto<br>pepper<br>settle<br>warm<br>assault<br>vacuum<br>asthma |  
+| bip_39_word_new_br_2 | script<br>cabin |  
+| bip_39_word_new_br_3 | script<br>cabin<br>stem |  
+| bip_39_word_new_br_4 | script<br>cabin<br>stem<br>fuel |  
+| bip_39_word_new_br_5 | script<br>cabin<br>stem<br>fuel<br>attitude |  
+| bip_39_word_new_br_6 | script<br>cabin<br>stem<br>fuel<br>attitude<br>auto |  
+| bip_39_word_new_br_7 | script<br>cabin<br>stem<br>fuel<br>attitude<br>auto<br>pepper |  
+| bip_39_word_new_br_8 | script<br>cabin<br>stem<br>fuel<br>attitude<br>auto<br>pepper<br>settle |  
+| bip_39_word_new_br_9 | script<br>cabin<br>stem<br>fuel<br>attitude<br>auto<br>pepper<br>settle<br>warm |  
+| bip_39_word_new_line_1 | script |  
+| bip_39_word_new_line_10 | script
 cabin
 stem
 fuel
@@ -55,7 +55,7 @@ pepper
 settle
 warm
 assault |  
-| bip_39_word_new_line11 | script
+| bip_39_word_new_line_11 | script
 cabin
 stem
 fuel
@@ -66,7 +66,7 @@ settle
 warm
 assault
 vacuum |  
-| bip_39_word_new_line12 | script
+| bip_39_word_new_line_12 | script
 cabin
 stem
 fuel
@@ -78,34 +78,34 @@ warm
 assault
 vacuum
 asthma |  
-| bip_39_word_new_line2 | script
+| bip_39_word_new_line_2 | script
 cabin |  
-| bip_39_word_new_line3 | script
+| bip_39_word_new_line_3 | script
 cabin
 stem |  
-| bip_39_word_new_line4 | script
+| bip_39_word_new_line_4 | script
 cabin
 stem
 fuel |  
-| bip_39_word_new_line5 | script
+| bip_39_word_new_line_5 | script
 cabin
 stem
 fuel
 attitude |  
-| bip_39_word_new_line6 | script
+| bip_39_word_new_line_6 | script
 cabin
 stem
 fuel
 attitude
 auto |  
-| bip_39_word_new_line7 | script
+| bip_39_word_new_line_7 | script
 cabin
 stem
 fuel
 attitude
 auto
 pepper |  
-| bip_39_word_new_line8 | script
+| bip_39_word_new_line_8 | script
 cabin
 stem
 fuel
@@ -113,7 +113,7 @@ attitude
 auto
 pepper
 settle |  
-| bip_39_word_new_line9 | script
+| bip_39_word_new_line_9 | script
 cabin
 stem
 fuel

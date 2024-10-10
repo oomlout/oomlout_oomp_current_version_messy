@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fine |  
-| bip_39_word_new_br10 | fine<br>void<br>hawk<br>first<br>second<br>gather<br>brother<br>fresh<br>attend<br>bounce |  
-| bip_39_word_new_br11 | fine<br>void<br>hawk<br>first<br>second<br>gather<br>brother<br>fresh<br>attend<br>bounce<br>submit |  
-| bip_39_word_new_br12 | fine<br>void<br>hawk<br>first<br>second<br>gather<br>brother<br>fresh<br>attend<br>bounce<br>submit<br>air |  
-| bip_39_word_new_br2 | fine<br>void |  
-| bip_39_word_new_br3 | fine<br>void<br>hawk |  
-| bip_39_word_new_br4 | fine<br>void<br>hawk<br>first |  
-| bip_39_word_new_br5 | fine<br>void<br>hawk<br>first<br>second |  
-| bip_39_word_new_br6 | fine<br>void<br>hawk<br>first<br>second<br>gather |  
-| bip_39_word_new_br7 | fine<br>void<br>hawk<br>first<br>second<br>gather<br>brother |  
-| bip_39_word_new_br8 | fine<br>void<br>hawk<br>first<br>second<br>gather<br>brother<br>fresh |  
-| bip_39_word_new_br9 | fine<br>void<br>hawk<br>first<br>second<br>gather<br>brother<br>fresh<br>attend |  
-| bip_39_word_new_line1 | fine |  
-| bip_39_word_new_line10 | fine
+| bip_39_word_new_br_1 | fine |  
+| bip_39_word_new_br_10 | fine<br>void<br>hawk<br>first<br>second<br>gather<br>brother<br>fresh<br>attend<br>bounce |  
+| bip_39_word_new_br_11 | fine<br>void<br>hawk<br>first<br>second<br>gather<br>brother<br>fresh<br>attend<br>bounce<br>submit |  
+| bip_39_word_new_br_12 | fine<br>void<br>hawk<br>first<br>second<br>gather<br>brother<br>fresh<br>attend<br>bounce<br>submit<br>air |  
+| bip_39_word_new_br_2 | fine<br>void |  
+| bip_39_word_new_br_3 | fine<br>void<br>hawk |  
+| bip_39_word_new_br_4 | fine<br>void<br>hawk<br>first |  
+| bip_39_word_new_br_5 | fine<br>void<br>hawk<br>first<br>second |  
+| bip_39_word_new_br_6 | fine<br>void<br>hawk<br>first<br>second<br>gather |  
+| bip_39_word_new_br_7 | fine<br>void<br>hawk<br>first<br>second<br>gather<br>brother |  
+| bip_39_word_new_br_8 | fine<br>void<br>hawk<br>first<br>second<br>gather<br>brother<br>fresh |  
+| bip_39_word_new_br_9 | fine<br>void<br>hawk<br>first<br>second<br>gather<br>brother<br>fresh<br>attend |  
+| bip_39_word_new_line_1 | fine |  
+| bip_39_word_new_line_10 | fine
 void
 hawk
 first
@@ -55,7 +55,7 @@ brother
 fresh
 attend
 bounce |  
-| bip_39_word_new_line11 | fine
+| bip_39_word_new_line_11 | fine
 void
 hawk
 first
@@ -66,7 +66,7 @@ fresh
 attend
 bounce
 submit |  
-| bip_39_word_new_line12 | fine
+| bip_39_word_new_line_12 | fine
 void
 hawk
 first
@@ -78,34 +78,34 @@ attend
 bounce
 submit
 air |  
-| bip_39_word_new_line2 | fine
+| bip_39_word_new_line_2 | fine
 void |  
-| bip_39_word_new_line3 | fine
+| bip_39_word_new_line_3 | fine
 void
 hawk |  
-| bip_39_word_new_line4 | fine
+| bip_39_word_new_line_4 | fine
 void
 hawk
 first |  
-| bip_39_word_new_line5 | fine
+| bip_39_word_new_line_5 | fine
 void
 hawk
 first
 second |  
-| bip_39_word_new_line6 | fine
+| bip_39_word_new_line_6 | fine
 void
 hawk
 first
 second
 gather |  
-| bip_39_word_new_line7 | fine
+| bip_39_word_new_line_7 | fine
 void
 hawk
 first
 second
 gather
 brother |  
-| bip_39_word_new_line8 | fine
+| bip_39_word_new_line_8 | fine
 void
 hawk
 first
@@ -113,7 +113,7 @@ second
 gather
 brother
 fresh |  
-| bip_39_word_new_line9 | fine
+| bip_39_word_new_line_9 | fine
 void
 hawk
 first

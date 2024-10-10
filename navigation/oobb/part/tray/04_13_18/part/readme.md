@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | slide |  
-| bip_39_word_new_br10 | slide<br>elder<br>verify<br>solar<br>educate<br>close<br>gorilla<br>audit<br>math<br>nerve |  
-| bip_39_word_new_br11 | slide<br>elder<br>verify<br>solar<br>educate<br>close<br>gorilla<br>audit<br>math<br>nerve<br>farm |  
-| bip_39_word_new_br12 | slide<br>elder<br>verify<br>solar<br>educate<br>close<br>gorilla<br>audit<br>math<br>nerve<br>farm<br>arctic |  
-| bip_39_word_new_br2 | slide<br>elder |  
-| bip_39_word_new_br3 | slide<br>elder<br>verify |  
-| bip_39_word_new_br4 | slide<br>elder<br>verify<br>solar |  
-| bip_39_word_new_br5 | slide<br>elder<br>verify<br>solar<br>educate |  
-| bip_39_word_new_br6 | slide<br>elder<br>verify<br>solar<br>educate<br>close |  
-| bip_39_word_new_br7 | slide<br>elder<br>verify<br>solar<br>educate<br>close<br>gorilla |  
-| bip_39_word_new_br8 | slide<br>elder<br>verify<br>solar<br>educate<br>close<br>gorilla<br>audit |  
-| bip_39_word_new_br9 | slide<br>elder<br>verify<br>solar<br>educate<br>close<br>gorilla<br>audit<br>math |  
-| bip_39_word_new_line1 | slide |  
-| bip_39_word_new_line10 | slide
+| bip_39_word_new_br_1 | slide |  
+| bip_39_word_new_br_10 | slide<br>elder<br>verify<br>solar<br>educate<br>close<br>gorilla<br>audit<br>math<br>nerve |  
+| bip_39_word_new_br_11 | slide<br>elder<br>verify<br>solar<br>educate<br>close<br>gorilla<br>audit<br>math<br>nerve<br>farm |  
+| bip_39_word_new_br_12 | slide<br>elder<br>verify<br>solar<br>educate<br>close<br>gorilla<br>audit<br>math<br>nerve<br>farm<br>arctic |  
+| bip_39_word_new_br_2 | slide<br>elder |  
+| bip_39_word_new_br_3 | slide<br>elder<br>verify |  
+| bip_39_word_new_br_4 | slide<br>elder<br>verify<br>solar |  
+| bip_39_word_new_br_5 | slide<br>elder<br>verify<br>solar<br>educate |  
+| bip_39_word_new_br_6 | slide<br>elder<br>verify<br>solar<br>educate<br>close |  
+| bip_39_word_new_br_7 | slide<br>elder<br>verify<br>solar<br>educate<br>close<br>gorilla |  
+| bip_39_word_new_br_8 | slide<br>elder<br>verify<br>solar<br>educate<br>close<br>gorilla<br>audit |  
+| bip_39_word_new_br_9 | slide<br>elder<br>verify<br>solar<br>educate<br>close<br>gorilla<br>audit<br>math |  
+| bip_39_word_new_line_1 | slide |  
+| bip_39_word_new_line_10 | slide
 elder
 verify
 solar
@@ -55,7 +55,7 @@ gorilla
 audit
 math
 nerve |  
-| bip_39_word_new_line11 | slide
+| bip_39_word_new_line_11 | slide
 elder
 verify
 solar
@@ -66,7 +66,7 @@ audit
 math
 nerve
 farm |  
-| bip_39_word_new_line12 | slide
+| bip_39_word_new_line_12 | slide
 elder
 verify
 solar
@@ -78,34 +78,34 @@ math
 nerve
 farm
 arctic |  
-| bip_39_word_new_line2 | slide
+| bip_39_word_new_line_2 | slide
 elder |  
-| bip_39_word_new_line3 | slide
+| bip_39_word_new_line_3 | slide
 elder
 verify |  
-| bip_39_word_new_line4 | slide
+| bip_39_word_new_line_4 | slide
 elder
 verify
 solar |  
-| bip_39_word_new_line5 | slide
+| bip_39_word_new_line_5 | slide
 elder
 verify
 solar
 educate |  
-| bip_39_word_new_line6 | slide
+| bip_39_word_new_line_6 | slide
 elder
 verify
 solar
 educate
 close |  
-| bip_39_word_new_line7 | slide
+| bip_39_word_new_line_7 | slide
 elder
 verify
 solar
 educate
 close
 gorilla |  
-| bip_39_word_new_line8 | slide
+| bip_39_word_new_line_8 | slide
 elder
 verify
 solar
@@ -113,7 +113,7 @@ educate
 close
 gorilla
 audit |  
-| bip_39_word_new_line9 | slide
+| bip_39_word_new_line_9 | slide
 elder
 verify
 solar

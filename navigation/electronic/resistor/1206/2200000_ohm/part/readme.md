@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | figure |  
-| bip_39_word_new_br10 | figure<br>water<br>please<br>stable<br>satoshi<br>gaze<br>fringe<br>faint<br>they<br>power |  
-| bip_39_word_new_br11 | figure<br>water<br>please<br>stable<br>satoshi<br>gaze<br>fringe<br>faint<br>they<br>power<br>radar |  
-| bip_39_word_new_br12 | figure<br>water<br>please<br>stable<br>satoshi<br>gaze<br>fringe<br>faint<br>they<br>power<br>radar<br>any |  
-| bip_39_word_new_br2 | figure<br>water |  
-| bip_39_word_new_br3 | figure<br>water<br>please |  
-| bip_39_word_new_br4 | figure<br>water<br>please<br>stable |  
-| bip_39_word_new_br5 | figure<br>water<br>please<br>stable<br>satoshi |  
-| bip_39_word_new_br6 | figure<br>water<br>please<br>stable<br>satoshi<br>gaze |  
-| bip_39_word_new_br7 | figure<br>water<br>please<br>stable<br>satoshi<br>gaze<br>fringe |  
-| bip_39_word_new_br8 | figure<br>water<br>please<br>stable<br>satoshi<br>gaze<br>fringe<br>faint |  
-| bip_39_word_new_br9 | figure<br>water<br>please<br>stable<br>satoshi<br>gaze<br>fringe<br>faint<br>they |  
-| bip_39_word_new_line1 | figure |  
-| bip_39_word_new_line10 | figure
+| bip_39_word_new_br_1 | figure |  
+| bip_39_word_new_br_10 | figure<br>water<br>please<br>stable<br>satoshi<br>gaze<br>fringe<br>faint<br>they<br>power |  
+| bip_39_word_new_br_11 | figure<br>water<br>please<br>stable<br>satoshi<br>gaze<br>fringe<br>faint<br>they<br>power<br>radar |  
+| bip_39_word_new_br_12 | figure<br>water<br>please<br>stable<br>satoshi<br>gaze<br>fringe<br>faint<br>they<br>power<br>radar<br>any |  
+| bip_39_word_new_br_2 | figure<br>water |  
+| bip_39_word_new_br_3 | figure<br>water<br>please |  
+| bip_39_word_new_br_4 | figure<br>water<br>please<br>stable |  
+| bip_39_word_new_br_5 | figure<br>water<br>please<br>stable<br>satoshi |  
+| bip_39_word_new_br_6 | figure<br>water<br>please<br>stable<br>satoshi<br>gaze |  
+| bip_39_word_new_br_7 | figure<br>water<br>please<br>stable<br>satoshi<br>gaze<br>fringe |  
+| bip_39_word_new_br_8 | figure<br>water<br>please<br>stable<br>satoshi<br>gaze<br>fringe<br>faint |  
+| bip_39_word_new_br_9 | figure<br>water<br>please<br>stable<br>satoshi<br>gaze<br>fringe<br>faint<br>they |  
+| bip_39_word_new_line_1 | figure |  
+| bip_39_word_new_line_10 | figure
 water
 please
 stable
@@ -55,7 +55,7 @@ fringe
 faint
 they
 power |  
-| bip_39_word_new_line11 | figure
+| bip_39_word_new_line_11 | figure
 water
 please
 stable
@@ -66,7 +66,7 @@ faint
 they
 power
 radar |  
-| bip_39_word_new_line12 | figure
+| bip_39_word_new_line_12 | figure
 water
 please
 stable
@@ -78,34 +78,34 @@ they
 power
 radar
 any |  
-| bip_39_word_new_line2 | figure
+| bip_39_word_new_line_2 | figure
 water |  
-| bip_39_word_new_line3 | figure
+| bip_39_word_new_line_3 | figure
 water
 please |  
-| bip_39_word_new_line4 | figure
+| bip_39_word_new_line_4 | figure
 water
 please
 stable |  
-| bip_39_word_new_line5 | figure
+| bip_39_word_new_line_5 | figure
 water
 please
 stable
 satoshi |  
-| bip_39_word_new_line6 | figure
+| bip_39_word_new_line_6 | figure
 water
 please
 stable
 satoshi
 gaze |  
-| bip_39_word_new_line7 | figure
+| bip_39_word_new_line_7 | figure
 water
 please
 stable
 satoshi
 gaze
 fringe |  
-| bip_39_word_new_line8 | figure
+| bip_39_word_new_line_8 | figure
 water
 please
 stable
@@ -113,7 +113,7 @@ satoshi
 gaze
 fringe
 faint |  
-| bip_39_word_new_line9 | figure
+| bip_39_word_new_line_9 | figure
 water
 please
 stable

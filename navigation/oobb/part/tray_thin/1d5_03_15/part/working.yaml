@@ -1,17 +1,17 @@
-bip_39_word_new_br1: door
-bip_39_word_new_br10: door<br>behind<br>silver<br>bone<br>scorpion<br>unfold<br>opera<br>claim<br>barrel<br>inflict
-bip_39_word_new_br11: door<br>behind<br>silver<br>bone<br>scorpion<br>unfold<br>opera<br>claim<br>barrel<br>inflict<br>envelope
-bip_39_word_new_br12: door<br>behind<br>silver<br>bone<br>scorpion<br>unfold<br>opera<br>claim<br>barrel<br>inflict<br>envelope<br>artwork
-bip_39_word_new_br2: door<br>behind
-bip_39_word_new_br3: door<br>behind<br>silver
-bip_39_word_new_br4: door<br>behind<br>silver<br>bone
-bip_39_word_new_br5: door<br>behind<br>silver<br>bone<br>scorpion
-bip_39_word_new_br6: door<br>behind<br>silver<br>bone<br>scorpion<br>unfold
-bip_39_word_new_br7: door<br>behind<br>silver<br>bone<br>scorpion<br>unfold<br>opera
-bip_39_word_new_br8: door<br>behind<br>silver<br>bone<br>scorpion<br>unfold<br>opera<br>claim
-bip_39_word_new_br9: door<br>behind<br>silver<br>bone<br>scorpion<br>unfold<br>opera<br>claim<br>barrel
-bip_39_word_new_line1: door
-bip_39_word_new_line10: 'door
+bip_39_word_new_br_1: door
+bip_39_word_new_br_10: door<br>behind<br>silver<br>bone<br>scorpion<br>unfold<br>opera<br>claim<br>barrel<br>inflict
+bip_39_word_new_br_11: door<br>behind<br>silver<br>bone<br>scorpion<br>unfold<br>opera<br>claim<br>barrel<br>inflict<br>envelope
+bip_39_word_new_br_12: door<br>behind<br>silver<br>bone<br>scorpion<br>unfold<br>opera<br>claim<br>barrel<br>inflict<br>envelope<br>artwork
+bip_39_word_new_br_2: door<br>behind
+bip_39_word_new_br_3: door<br>behind<br>silver
+bip_39_word_new_br_4: door<br>behind<br>silver<br>bone
+bip_39_word_new_br_5: door<br>behind<br>silver<br>bone<br>scorpion
+bip_39_word_new_br_6: door<br>behind<br>silver<br>bone<br>scorpion<br>unfold
+bip_39_word_new_br_7: door<br>behind<br>silver<br>bone<br>scorpion<br>unfold<br>opera
+bip_39_word_new_br_8: door<br>behind<br>silver<br>bone<br>scorpion<br>unfold<br>opera<br>claim
+bip_39_word_new_br_9: door<br>behind<br>silver<br>bone<br>scorpion<br>unfold<br>opera<br>claim<br>barrel
+bip_39_word_new_line_1: door
+bip_39_word_new_line_10: 'door
 
   behind
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'door
   barrel
 
   inflict'
-bip_39_word_new_line11: 'door
+bip_39_word_new_line_11: 'door
 
   behind
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'door
   inflict
 
   envelope'
-bip_39_word_new_line12: 'door
+bip_39_word_new_line_12: 'door
 
   behind
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'door
   envelope
 
   artwork'
-bip_39_word_new_line2: 'door
+bip_39_word_new_line_2: 'door
 
   behind'
-bip_39_word_new_line3: 'door
+bip_39_word_new_line_3: 'door
 
   behind
 
   silver'
-bip_39_word_new_line4: 'door
+bip_39_word_new_line_4: 'door
 
   behind
 
   silver
 
   bone'
-bip_39_word_new_line5: 'door
+bip_39_word_new_line_5: 'door
 
   behind
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'door
   bone
 
   scorpion'
-bip_39_word_new_line6: 'door
+bip_39_word_new_line_6: 'door
 
   behind
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'door
   scorpion
 
   unfold'
-bip_39_word_new_line7: 'door
+bip_39_word_new_line_7: 'door
 
   behind
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'door
   unfold
 
   opera'
-bip_39_word_new_line8: 'door
+bip_39_word_new_line_8: 'door
 
   behind
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'door
   opera
 
   claim'
-bip_39_word_new_line9: 'door
+bip_39_word_new_line_9: 'door
 
   behind
 

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | shoe |  
-| bip_39_word_new_br10 | shoe<br>bread<br>rare<br>misery<br>work<br>mouse<br>nasty<br>length<br>hunt<br>corn |  
-| bip_39_word_new_br11 | shoe<br>bread<br>rare<br>misery<br>work<br>mouse<br>nasty<br>length<br>hunt<br>corn<br>hawk |  
-| bip_39_word_new_br12 | shoe<br>bread<br>rare<br>misery<br>work<br>mouse<br>nasty<br>length<br>hunt<br>corn<br>hawk<br>acid |  
-| bip_39_word_new_br2 | shoe<br>bread |  
-| bip_39_word_new_br3 | shoe<br>bread<br>rare |  
-| bip_39_word_new_br4 | shoe<br>bread<br>rare<br>misery |  
-| bip_39_word_new_br5 | shoe<br>bread<br>rare<br>misery<br>work |  
-| bip_39_word_new_br6 | shoe<br>bread<br>rare<br>misery<br>work<br>mouse |  
-| bip_39_word_new_br7 | shoe<br>bread<br>rare<br>misery<br>work<br>mouse<br>nasty |  
-| bip_39_word_new_br8 | shoe<br>bread<br>rare<br>misery<br>work<br>mouse<br>nasty<br>length |  
-| bip_39_word_new_br9 | shoe<br>bread<br>rare<br>misery<br>work<br>mouse<br>nasty<br>length<br>hunt |  
-| bip_39_word_new_line1 | shoe |  
-| bip_39_word_new_line10 | shoe
+| bip_39_word_new_br_1 | shoe |  
+| bip_39_word_new_br_10 | shoe<br>bread<br>rare<br>misery<br>work<br>mouse<br>nasty<br>length<br>hunt<br>corn |  
+| bip_39_word_new_br_11 | shoe<br>bread<br>rare<br>misery<br>work<br>mouse<br>nasty<br>length<br>hunt<br>corn<br>hawk |  
+| bip_39_word_new_br_12 | shoe<br>bread<br>rare<br>misery<br>work<br>mouse<br>nasty<br>length<br>hunt<br>corn<br>hawk<br>acid |  
+| bip_39_word_new_br_2 | shoe<br>bread |  
+| bip_39_word_new_br_3 | shoe<br>bread<br>rare |  
+| bip_39_word_new_br_4 | shoe<br>bread<br>rare<br>misery |  
+| bip_39_word_new_br_5 | shoe<br>bread<br>rare<br>misery<br>work |  
+| bip_39_word_new_br_6 | shoe<br>bread<br>rare<br>misery<br>work<br>mouse |  
+| bip_39_word_new_br_7 | shoe<br>bread<br>rare<br>misery<br>work<br>mouse<br>nasty |  
+| bip_39_word_new_br_8 | shoe<br>bread<br>rare<br>misery<br>work<br>mouse<br>nasty<br>length |  
+| bip_39_word_new_br_9 | shoe<br>bread<br>rare<br>misery<br>work<br>mouse<br>nasty<br>length<br>hunt |  
+| bip_39_word_new_line_1 | shoe |  
+| bip_39_word_new_line_10 | shoe
 bread
 rare
 misery
@@ -55,7 +55,7 @@ nasty
 length
 hunt
 corn |  
-| bip_39_word_new_line11 | shoe
+| bip_39_word_new_line_11 | shoe
 bread
 rare
 misery
@@ -66,7 +66,7 @@ length
 hunt
 corn
 hawk |  
-| bip_39_word_new_line12 | shoe
+| bip_39_word_new_line_12 | shoe
 bread
 rare
 misery
@@ -78,34 +78,34 @@ hunt
 corn
 hawk
 acid |  
-| bip_39_word_new_line2 | shoe
+| bip_39_word_new_line_2 | shoe
 bread |  
-| bip_39_word_new_line3 | shoe
+| bip_39_word_new_line_3 | shoe
 bread
 rare |  
-| bip_39_word_new_line4 | shoe
+| bip_39_word_new_line_4 | shoe
 bread
 rare
 misery |  
-| bip_39_word_new_line5 | shoe
+| bip_39_word_new_line_5 | shoe
 bread
 rare
 misery
 work |  
-| bip_39_word_new_line6 | shoe
+| bip_39_word_new_line_6 | shoe
 bread
 rare
 misery
 work
 mouse |  
-| bip_39_word_new_line7 | shoe
+| bip_39_word_new_line_7 | shoe
 bread
 rare
 misery
 work
 mouse
 nasty |  
-| bip_39_word_new_line8 | shoe
+| bip_39_word_new_line_8 | shoe
 bread
 rare
 misery
@@ -113,7 +113,7 @@ work
 mouse
 nasty
 length |  
-| bip_39_word_new_line9 | shoe
+| bip_39_word_new_line_9 | shoe
 bread
 rare
 misery

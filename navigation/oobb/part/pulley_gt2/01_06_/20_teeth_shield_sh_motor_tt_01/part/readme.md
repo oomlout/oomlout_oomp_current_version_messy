@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | supply |  
-| bip_39_word_new_br10 | supply<br>art<br>census<br>domain<br>pudding<br>toast<br>umbrella<br>word<br>cheese<br>inherit |  
-| bip_39_word_new_br11 | supply<br>art<br>census<br>domain<br>pudding<br>toast<br>umbrella<br>word<br>cheese<br>inherit<br>noise |  
-| bip_39_word_new_br12 | supply<br>art<br>census<br>domain<br>pudding<br>toast<br>umbrella<br>word<br>cheese<br>inherit<br>noise<br>arctic |  
-| bip_39_word_new_br2 | supply<br>art |  
-| bip_39_word_new_br3 | supply<br>art<br>census |  
-| bip_39_word_new_br4 | supply<br>art<br>census<br>domain |  
-| bip_39_word_new_br5 | supply<br>art<br>census<br>domain<br>pudding |  
-| bip_39_word_new_br6 | supply<br>art<br>census<br>domain<br>pudding<br>toast |  
-| bip_39_word_new_br7 | supply<br>art<br>census<br>domain<br>pudding<br>toast<br>umbrella |  
-| bip_39_word_new_br8 | supply<br>art<br>census<br>domain<br>pudding<br>toast<br>umbrella<br>word |  
-| bip_39_word_new_br9 | supply<br>art<br>census<br>domain<br>pudding<br>toast<br>umbrella<br>word<br>cheese |  
-| bip_39_word_new_line1 | supply |  
-| bip_39_word_new_line10 | supply
+| bip_39_word_new_br_1 | supply |  
+| bip_39_word_new_br_10 | supply<br>art<br>census<br>domain<br>pudding<br>toast<br>umbrella<br>word<br>cheese<br>inherit |  
+| bip_39_word_new_br_11 | supply<br>art<br>census<br>domain<br>pudding<br>toast<br>umbrella<br>word<br>cheese<br>inherit<br>noise |  
+| bip_39_word_new_br_12 | supply<br>art<br>census<br>domain<br>pudding<br>toast<br>umbrella<br>word<br>cheese<br>inherit<br>noise<br>arctic |  
+| bip_39_word_new_br_2 | supply<br>art |  
+| bip_39_word_new_br_3 | supply<br>art<br>census |  
+| bip_39_word_new_br_4 | supply<br>art<br>census<br>domain |  
+| bip_39_word_new_br_5 | supply<br>art<br>census<br>domain<br>pudding |  
+| bip_39_word_new_br_6 | supply<br>art<br>census<br>domain<br>pudding<br>toast |  
+| bip_39_word_new_br_7 | supply<br>art<br>census<br>domain<br>pudding<br>toast<br>umbrella |  
+| bip_39_word_new_br_8 | supply<br>art<br>census<br>domain<br>pudding<br>toast<br>umbrella<br>word |  
+| bip_39_word_new_br_9 | supply<br>art<br>census<br>domain<br>pudding<br>toast<br>umbrella<br>word<br>cheese |  
+| bip_39_word_new_line_1 | supply |  
+| bip_39_word_new_line_10 | supply
 art
 census
 domain
@@ -55,7 +55,7 @@ umbrella
 word
 cheese
 inherit |  
-| bip_39_word_new_line11 | supply
+| bip_39_word_new_line_11 | supply
 art
 census
 domain
@@ -66,7 +66,7 @@ word
 cheese
 inherit
 noise |  
-| bip_39_word_new_line12 | supply
+| bip_39_word_new_line_12 | supply
 art
 census
 domain
@@ -78,34 +78,34 @@ cheese
 inherit
 noise
 arctic |  
-| bip_39_word_new_line2 | supply
+| bip_39_word_new_line_2 | supply
 art |  
-| bip_39_word_new_line3 | supply
+| bip_39_word_new_line_3 | supply
 art
 census |  
-| bip_39_word_new_line4 | supply
+| bip_39_word_new_line_4 | supply
 art
 census
 domain |  
-| bip_39_word_new_line5 | supply
+| bip_39_word_new_line_5 | supply
 art
 census
 domain
 pudding |  
-| bip_39_word_new_line6 | supply
+| bip_39_word_new_line_6 | supply
 art
 census
 domain
 pudding
 toast |  
-| bip_39_word_new_line7 | supply
+| bip_39_word_new_line_7 | supply
 art
 census
 domain
 pudding
 toast
 umbrella |  
-| bip_39_word_new_line8 | supply
+| bip_39_word_new_line_8 | supply
 art
 census
 domain
@@ -113,7 +113,7 @@ pudding
 toast
 umbrella
 word |  
-| bip_39_word_new_line9 | supply
+| bip_39_word_new_line_9 | supply
 art
 census
 domain

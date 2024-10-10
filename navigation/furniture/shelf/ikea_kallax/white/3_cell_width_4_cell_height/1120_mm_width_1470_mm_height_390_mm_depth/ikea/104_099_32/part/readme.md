@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | swift |  
-| bip_39_word_new_br10 | swift<br>loan<br>erupt<br>cream<br>chat<br>indoor<br>away<br>result<br>aerobic<br>frame |  
-| bip_39_word_new_br11 | swift<br>loan<br>erupt<br>cream<br>chat<br>indoor<br>away<br>result<br>aerobic<br>frame<br>tell |  
-| bip_39_word_new_br12 | swift<br>loan<br>erupt<br>cream<br>chat<br>indoor<br>away<br>result<br>aerobic<br>frame<br>tell<br>among |  
-| bip_39_word_new_br2 | swift<br>loan |  
-| bip_39_word_new_br3 | swift<br>loan<br>erupt |  
-| bip_39_word_new_br4 | swift<br>loan<br>erupt<br>cream |  
-| bip_39_word_new_br5 | swift<br>loan<br>erupt<br>cream<br>chat |  
-| bip_39_word_new_br6 | swift<br>loan<br>erupt<br>cream<br>chat<br>indoor |  
-| bip_39_word_new_br7 | swift<br>loan<br>erupt<br>cream<br>chat<br>indoor<br>away |  
-| bip_39_word_new_br8 | swift<br>loan<br>erupt<br>cream<br>chat<br>indoor<br>away<br>result |  
-| bip_39_word_new_br9 | swift<br>loan<br>erupt<br>cream<br>chat<br>indoor<br>away<br>result<br>aerobic |  
-| bip_39_word_new_line1 | swift |  
-| bip_39_word_new_line10 | swift
+| bip_39_word_new_br_1 | swift |  
+| bip_39_word_new_br_10 | swift<br>loan<br>erupt<br>cream<br>chat<br>indoor<br>away<br>result<br>aerobic<br>frame |  
+| bip_39_word_new_br_11 | swift<br>loan<br>erupt<br>cream<br>chat<br>indoor<br>away<br>result<br>aerobic<br>frame<br>tell |  
+| bip_39_word_new_br_12 | swift<br>loan<br>erupt<br>cream<br>chat<br>indoor<br>away<br>result<br>aerobic<br>frame<br>tell<br>among |  
+| bip_39_word_new_br_2 | swift<br>loan |  
+| bip_39_word_new_br_3 | swift<br>loan<br>erupt |  
+| bip_39_word_new_br_4 | swift<br>loan<br>erupt<br>cream |  
+| bip_39_word_new_br_5 | swift<br>loan<br>erupt<br>cream<br>chat |  
+| bip_39_word_new_br_6 | swift<br>loan<br>erupt<br>cream<br>chat<br>indoor |  
+| bip_39_word_new_br_7 | swift<br>loan<br>erupt<br>cream<br>chat<br>indoor<br>away |  
+| bip_39_word_new_br_8 | swift<br>loan<br>erupt<br>cream<br>chat<br>indoor<br>away<br>result |  
+| bip_39_word_new_br_9 | swift<br>loan<br>erupt<br>cream<br>chat<br>indoor<br>away<br>result<br>aerobic |  
+| bip_39_word_new_line_1 | swift |  
+| bip_39_word_new_line_10 | swift
 loan
 erupt
 cream
@@ -55,7 +55,7 @@ away
 result
 aerobic
 frame |  
-| bip_39_word_new_line11 | swift
+| bip_39_word_new_line_11 | swift
 loan
 erupt
 cream
@@ -66,7 +66,7 @@ result
 aerobic
 frame
 tell |  
-| bip_39_word_new_line12 | swift
+| bip_39_word_new_line_12 | swift
 loan
 erupt
 cream
@@ -78,34 +78,34 @@ aerobic
 frame
 tell
 among |  
-| bip_39_word_new_line2 | swift
+| bip_39_word_new_line_2 | swift
 loan |  
-| bip_39_word_new_line3 | swift
+| bip_39_word_new_line_3 | swift
 loan
 erupt |  
-| bip_39_word_new_line4 | swift
+| bip_39_word_new_line_4 | swift
 loan
 erupt
 cream |  
-| bip_39_word_new_line5 | swift
+| bip_39_word_new_line_5 | swift
 loan
 erupt
 cream
 chat |  
-| bip_39_word_new_line6 | swift
+| bip_39_word_new_line_6 | swift
 loan
 erupt
 cream
 chat
 indoor |  
-| bip_39_word_new_line7 | swift
+| bip_39_word_new_line_7 | swift
 loan
 erupt
 cream
 chat
 indoor
 away |  
-| bip_39_word_new_line8 | swift
+| bip_39_word_new_line_8 | swift
 loan
 erupt
 cream
@@ -113,7 +113,7 @@ chat
 indoor
 away
 result |  
-| bip_39_word_new_line9 | swift
+| bip_39_word_new_line_9 | swift
 loan
 erupt
 cream

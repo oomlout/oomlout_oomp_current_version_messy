@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | energy |  
-| bip_39_word_new_br10 | energy<br>unit<br>column<br>lecture<br>cake<br>enough<br>sense<br>tunnel<br>gun<br>actor |  
-| bip_39_word_new_br11 | energy<br>unit<br>column<br>lecture<br>cake<br>enough<br>sense<br>tunnel<br>gun<br>actor<br>either |  
-| bip_39_word_new_br12 | energy<br>unit<br>column<br>lecture<br>cake<br>enough<br>sense<br>tunnel<br>gun<br>actor<br>either<br>apart |  
-| bip_39_word_new_br2 | energy<br>unit |  
-| bip_39_word_new_br3 | energy<br>unit<br>column |  
-| bip_39_word_new_br4 | energy<br>unit<br>column<br>lecture |  
-| bip_39_word_new_br5 | energy<br>unit<br>column<br>lecture<br>cake |  
-| bip_39_word_new_br6 | energy<br>unit<br>column<br>lecture<br>cake<br>enough |  
-| bip_39_word_new_br7 | energy<br>unit<br>column<br>lecture<br>cake<br>enough<br>sense |  
-| bip_39_word_new_br8 | energy<br>unit<br>column<br>lecture<br>cake<br>enough<br>sense<br>tunnel |  
-| bip_39_word_new_br9 | energy<br>unit<br>column<br>lecture<br>cake<br>enough<br>sense<br>tunnel<br>gun |  
-| bip_39_word_new_line1 | energy |  
-| bip_39_word_new_line10 | energy
+| bip_39_word_new_br_1 | energy |  
+| bip_39_word_new_br_10 | energy<br>unit<br>column<br>lecture<br>cake<br>enough<br>sense<br>tunnel<br>gun<br>actor |  
+| bip_39_word_new_br_11 | energy<br>unit<br>column<br>lecture<br>cake<br>enough<br>sense<br>tunnel<br>gun<br>actor<br>either |  
+| bip_39_word_new_br_12 | energy<br>unit<br>column<br>lecture<br>cake<br>enough<br>sense<br>tunnel<br>gun<br>actor<br>either<br>apart |  
+| bip_39_word_new_br_2 | energy<br>unit |  
+| bip_39_word_new_br_3 | energy<br>unit<br>column |  
+| bip_39_word_new_br_4 | energy<br>unit<br>column<br>lecture |  
+| bip_39_word_new_br_5 | energy<br>unit<br>column<br>lecture<br>cake |  
+| bip_39_word_new_br_6 | energy<br>unit<br>column<br>lecture<br>cake<br>enough |  
+| bip_39_word_new_br_7 | energy<br>unit<br>column<br>lecture<br>cake<br>enough<br>sense |  
+| bip_39_word_new_br_8 | energy<br>unit<br>column<br>lecture<br>cake<br>enough<br>sense<br>tunnel |  
+| bip_39_word_new_br_9 | energy<br>unit<br>column<br>lecture<br>cake<br>enough<br>sense<br>tunnel<br>gun |  
+| bip_39_word_new_line_1 | energy |  
+| bip_39_word_new_line_10 | energy
 unit
 column
 lecture
@@ -55,7 +55,7 @@ sense
 tunnel
 gun
 actor |  
-| bip_39_word_new_line11 | energy
+| bip_39_word_new_line_11 | energy
 unit
 column
 lecture
@@ -66,7 +66,7 @@ tunnel
 gun
 actor
 either |  
-| bip_39_word_new_line12 | energy
+| bip_39_word_new_line_12 | energy
 unit
 column
 lecture
@@ -78,34 +78,34 @@ gun
 actor
 either
 apart |  
-| bip_39_word_new_line2 | energy
+| bip_39_word_new_line_2 | energy
 unit |  
-| bip_39_word_new_line3 | energy
+| bip_39_word_new_line_3 | energy
 unit
 column |  
-| bip_39_word_new_line4 | energy
+| bip_39_word_new_line_4 | energy
 unit
 column
 lecture |  
-| bip_39_word_new_line5 | energy
+| bip_39_word_new_line_5 | energy
 unit
 column
 lecture
 cake |  
-| bip_39_word_new_line6 | energy
+| bip_39_word_new_line_6 | energy
 unit
 column
 lecture
 cake
 enough |  
-| bip_39_word_new_line7 | energy
+| bip_39_word_new_line_7 | energy
 unit
 column
 lecture
 cake
 enough
 sense |  
-| bip_39_word_new_line8 | energy
+| bip_39_word_new_line_8 | energy
 unit
 column
 lecture
@@ -113,7 +113,7 @@ cake
 enough
 sense
 tunnel |  
-| bip_39_word_new_line9 | energy
+| bip_39_word_new_line_9 | energy
 unit
 column
 lecture

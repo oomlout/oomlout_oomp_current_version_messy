@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | easy |  
-| bip_39_word_new_br10 | easy<br>mother<br>winter<br>poem<br>life<br>census<br>vast<br>sad<br>smart<br>unusual |  
-| bip_39_word_new_br11 | easy<br>mother<br>winter<br>poem<br>life<br>census<br>vast<br>sad<br>smart<br>unusual<br>goose |  
-| bip_39_word_new_br12 | easy<br>mother<br>winter<br>poem<br>life<br>census<br>vast<br>sad<br>smart<br>unusual<br>goose<br>avocado |  
-| bip_39_word_new_br2 | easy<br>mother |  
-| bip_39_word_new_br3 | easy<br>mother<br>winter |  
-| bip_39_word_new_br4 | easy<br>mother<br>winter<br>poem |  
-| bip_39_word_new_br5 | easy<br>mother<br>winter<br>poem<br>life |  
-| bip_39_word_new_br6 | easy<br>mother<br>winter<br>poem<br>life<br>census |  
-| bip_39_word_new_br7 | easy<br>mother<br>winter<br>poem<br>life<br>census<br>vast |  
-| bip_39_word_new_br8 | easy<br>mother<br>winter<br>poem<br>life<br>census<br>vast<br>sad |  
-| bip_39_word_new_br9 | easy<br>mother<br>winter<br>poem<br>life<br>census<br>vast<br>sad<br>smart |  
-| bip_39_word_new_line1 | easy |  
-| bip_39_word_new_line10 | easy
+| bip_39_word_new_br_1 | easy |  
+| bip_39_word_new_br_10 | easy<br>mother<br>winter<br>poem<br>life<br>census<br>vast<br>sad<br>smart<br>unusual |  
+| bip_39_word_new_br_11 | easy<br>mother<br>winter<br>poem<br>life<br>census<br>vast<br>sad<br>smart<br>unusual<br>goose |  
+| bip_39_word_new_br_12 | easy<br>mother<br>winter<br>poem<br>life<br>census<br>vast<br>sad<br>smart<br>unusual<br>goose<br>avocado |  
+| bip_39_word_new_br_2 | easy<br>mother |  
+| bip_39_word_new_br_3 | easy<br>mother<br>winter |  
+| bip_39_word_new_br_4 | easy<br>mother<br>winter<br>poem |  
+| bip_39_word_new_br_5 | easy<br>mother<br>winter<br>poem<br>life |  
+| bip_39_word_new_br_6 | easy<br>mother<br>winter<br>poem<br>life<br>census |  
+| bip_39_word_new_br_7 | easy<br>mother<br>winter<br>poem<br>life<br>census<br>vast |  
+| bip_39_word_new_br_8 | easy<br>mother<br>winter<br>poem<br>life<br>census<br>vast<br>sad |  
+| bip_39_word_new_br_9 | easy<br>mother<br>winter<br>poem<br>life<br>census<br>vast<br>sad<br>smart |  
+| bip_39_word_new_line_1 | easy |  
+| bip_39_word_new_line_10 | easy
 mother
 winter
 poem
@@ -55,7 +55,7 @@ vast
 sad
 smart
 unusual |  
-| bip_39_word_new_line11 | easy
+| bip_39_word_new_line_11 | easy
 mother
 winter
 poem
@@ -66,7 +66,7 @@ sad
 smart
 unusual
 goose |  
-| bip_39_word_new_line12 | easy
+| bip_39_word_new_line_12 | easy
 mother
 winter
 poem
@@ -78,34 +78,34 @@ smart
 unusual
 goose
 avocado |  
-| bip_39_word_new_line2 | easy
+| bip_39_word_new_line_2 | easy
 mother |  
-| bip_39_word_new_line3 | easy
+| bip_39_word_new_line_3 | easy
 mother
 winter |  
-| bip_39_word_new_line4 | easy
+| bip_39_word_new_line_4 | easy
 mother
 winter
 poem |  
-| bip_39_word_new_line5 | easy
+| bip_39_word_new_line_5 | easy
 mother
 winter
 poem
 life |  
-| bip_39_word_new_line6 | easy
+| bip_39_word_new_line_6 | easy
 mother
 winter
 poem
 life
 census |  
-| bip_39_word_new_line7 | easy
+| bip_39_word_new_line_7 | easy
 mother
 winter
 poem
 life
 census
 vast |  
-| bip_39_word_new_line8 | easy
+| bip_39_word_new_line_8 | easy
 mother
 winter
 poem
@@ -113,7 +113,7 @@ life
 census
 vast
 sad |  
-| bip_39_word_new_line9 | easy
+| bip_39_word_new_line_9 | easy
 mother
 winter
 poem

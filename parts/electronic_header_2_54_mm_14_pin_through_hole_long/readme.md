@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | adapt |  
-| bip_39_word_new_br10 | adapt<br>breeze<br>ball<br>palm<br>west<br>champion<br>fox<br>giraffe<br>school<br>enjoy |  
-| bip_39_word_new_br11 | adapt<br>breeze<br>ball<br>palm<br>west<br>champion<br>fox<br>giraffe<br>school<br>enjoy<br>trial |  
-| bip_39_word_new_br12 | adapt<br>breeze<br>ball<br>palm<br>west<br>champion<br>fox<br>giraffe<br>school<br>enjoy<br>trial<br>absorb |  
-| bip_39_word_new_br2 | adapt<br>breeze |  
-| bip_39_word_new_br3 | adapt<br>breeze<br>ball |  
-| bip_39_word_new_br4 | adapt<br>breeze<br>ball<br>palm |  
-| bip_39_word_new_br5 | adapt<br>breeze<br>ball<br>palm<br>west |  
-| bip_39_word_new_br6 | adapt<br>breeze<br>ball<br>palm<br>west<br>champion |  
-| bip_39_word_new_br7 | adapt<br>breeze<br>ball<br>palm<br>west<br>champion<br>fox |  
-| bip_39_word_new_br8 | adapt<br>breeze<br>ball<br>palm<br>west<br>champion<br>fox<br>giraffe |  
-| bip_39_word_new_br9 | adapt<br>breeze<br>ball<br>palm<br>west<br>champion<br>fox<br>giraffe<br>school |  
-| bip_39_word_new_line1 | adapt |  
-| bip_39_word_new_line10 | adapt
+| bip_39_word_new_br_1 | adapt |  
+| bip_39_word_new_br_10 | adapt<br>breeze<br>ball<br>palm<br>west<br>champion<br>fox<br>giraffe<br>school<br>enjoy |  
+| bip_39_word_new_br_11 | adapt<br>breeze<br>ball<br>palm<br>west<br>champion<br>fox<br>giraffe<br>school<br>enjoy<br>trial |  
+| bip_39_word_new_br_12 | adapt<br>breeze<br>ball<br>palm<br>west<br>champion<br>fox<br>giraffe<br>school<br>enjoy<br>trial<br>absorb |  
+| bip_39_word_new_br_2 | adapt<br>breeze |  
+| bip_39_word_new_br_3 | adapt<br>breeze<br>ball |  
+| bip_39_word_new_br_4 | adapt<br>breeze<br>ball<br>palm |  
+| bip_39_word_new_br_5 | adapt<br>breeze<br>ball<br>palm<br>west |  
+| bip_39_word_new_br_6 | adapt<br>breeze<br>ball<br>palm<br>west<br>champion |  
+| bip_39_word_new_br_7 | adapt<br>breeze<br>ball<br>palm<br>west<br>champion<br>fox |  
+| bip_39_word_new_br_8 | adapt<br>breeze<br>ball<br>palm<br>west<br>champion<br>fox<br>giraffe |  
+| bip_39_word_new_br_9 | adapt<br>breeze<br>ball<br>palm<br>west<br>champion<br>fox<br>giraffe<br>school |  
+| bip_39_word_new_line_1 | adapt |  
+| bip_39_word_new_line_10 | adapt
 breeze
 ball
 palm
@@ -55,7 +55,7 @@ fox
 giraffe
 school
 enjoy |  
-| bip_39_word_new_line11 | adapt
+| bip_39_word_new_line_11 | adapt
 breeze
 ball
 palm
@@ -66,7 +66,7 @@ giraffe
 school
 enjoy
 trial |  
-| bip_39_word_new_line12 | adapt
+| bip_39_word_new_line_12 | adapt
 breeze
 ball
 palm
@@ -78,34 +78,34 @@ school
 enjoy
 trial
 absorb |  
-| bip_39_word_new_line2 | adapt
+| bip_39_word_new_line_2 | adapt
 breeze |  
-| bip_39_word_new_line3 | adapt
+| bip_39_word_new_line_3 | adapt
 breeze
 ball |  
-| bip_39_word_new_line4 | adapt
+| bip_39_word_new_line_4 | adapt
 breeze
 ball
 palm |  
-| bip_39_word_new_line5 | adapt
+| bip_39_word_new_line_5 | adapt
 breeze
 ball
 palm
 west |  
-| bip_39_word_new_line6 | adapt
+| bip_39_word_new_line_6 | adapt
 breeze
 ball
 palm
 west
 champion |  
-| bip_39_word_new_line7 | adapt
+| bip_39_word_new_line_7 | adapt
 breeze
 ball
 palm
 west
 champion
 fox |  
-| bip_39_word_new_line8 | adapt
+| bip_39_word_new_line_8 | adapt
 breeze
 ball
 palm
@@ -113,7 +113,7 @@ west
 champion
 fox
 giraffe |  
-| bip_39_word_new_line9 | adapt
+| bip_39_word_new_line_9 | adapt
 breeze
 ball
 palm

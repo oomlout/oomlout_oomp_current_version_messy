@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | patch |  
-| bip_39_word_new_br10 | patch<br>assist<br>duck<br>edge<br>omit<br>dash<br>critic<br>train<br>attend<br>expand |  
-| bip_39_word_new_br11 | patch<br>assist<br>duck<br>edge<br>omit<br>dash<br>critic<br>train<br>attend<br>expand<br>poem |  
-| bip_39_word_new_br12 | patch<br>assist<br>duck<br>edge<br>omit<br>dash<br>critic<br>train<br>attend<br>expand<br>poem<br>actress |  
-| bip_39_word_new_br2 | patch<br>assist |  
-| bip_39_word_new_br3 | patch<br>assist<br>duck |  
-| bip_39_word_new_br4 | patch<br>assist<br>duck<br>edge |  
-| bip_39_word_new_br5 | patch<br>assist<br>duck<br>edge<br>omit |  
-| bip_39_word_new_br6 | patch<br>assist<br>duck<br>edge<br>omit<br>dash |  
-| bip_39_word_new_br7 | patch<br>assist<br>duck<br>edge<br>omit<br>dash<br>critic |  
-| bip_39_word_new_br8 | patch<br>assist<br>duck<br>edge<br>omit<br>dash<br>critic<br>train |  
-| bip_39_word_new_br9 | patch<br>assist<br>duck<br>edge<br>omit<br>dash<br>critic<br>train<br>attend |  
-| bip_39_word_new_line1 | patch |  
-| bip_39_word_new_line10 | patch
+| bip_39_word_new_br_1 | patch |  
+| bip_39_word_new_br_10 | patch<br>assist<br>duck<br>edge<br>omit<br>dash<br>critic<br>train<br>attend<br>expand |  
+| bip_39_word_new_br_11 | patch<br>assist<br>duck<br>edge<br>omit<br>dash<br>critic<br>train<br>attend<br>expand<br>poem |  
+| bip_39_word_new_br_12 | patch<br>assist<br>duck<br>edge<br>omit<br>dash<br>critic<br>train<br>attend<br>expand<br>poem<br>actress |  
+| bip_39_word_new_br_2 | patch<br>assist |  
+| bip_39_word_new_br_3 | patch<br>assist<br>duck |  
+| bip_39_word_new_br_4 | patch<br>assist<br>duck<br>edge |  
+| bip_39_word_new_br_5 | patch<br>assist<br>duck<br>edge<br>omit |  
+| bip_39_word_new_br_6 | patch<br>assist<br>duck<br>edge<br>omit<br>dash |  
+| bip_39_word_new_br_7 | patch<br>assist<br>duck<br>edge<br>omit<br>dash<br>critic |  
+| bip_39_word_new_br_8 | patch<br>assist<br>duck<br>edge<br>omit<br>dash<br>critic<br>train |  
+| bip_39_word_new_br_9 | patch<br>assist<br>duck<br>edge<br>omit<br>dash<br>critic<br>train<br>attend |  
+| bip_39_word_new_line_1 | patch |  
+| bip_39_word_new_line_10 | patch
 assist
 duck
 edge
@@ -55,7 +55,7 @@ critic
 train
 attend
 expand |  
-| bip_39_word_new_line11 | patch
+| bip_39_word_new_line_11 | patch
 assist
 duck
 edge
@@ -66,7 +66,7 @@ train
 attend
 expand
 poem |  
-| bip_39_word_new_line12 | patch
+| bip_39_word_new_line_12 | patch
 assist
 duck
 edge
@@ -78,34 +78,34 @@ attend
 expand
 poem
 actress |  
-| bip_39_word_new_line2 | patch
+| bip_39_word_new_line_2 | patch
 assist |  
-| bip_39_word_new_line3 | patch
+| bip_39_word_new_line_3 | patch
 assist
 duck |  
-| bip_39_word_new_line4 | patch
+| bip_39_word_new_line_4 | patch
 assist
 duck
 edge |  
-| bip_39_word_new_line5 | patch
+| bip_39_word_new_line_5 | patch
 assist
 duck
 edge
 omit |  
-| bip_39_word_new_line6 | patch
+| bip_39_word_new_line_6 | patch
 assist
 duck
 edge
 omit
 dash |  
-| bip_39_word_new_line7 | patch
+| bip_39_word_new_line_7 | patch
 assist
 duck
 edge
 omit
 dash
 critic |  
-| bip_39_word_new_line8 | patch
+| bip_39_word_new_line_8 | patch
 assist
 duck
 edge
@@ -113,7 +113,7 @@ omit
 dash
 critic
 train |  
-| bip_39_word_new_line9 | patch
+| bip_39_word_new_line_9 | patch
 assist
 duck
 edge

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | shop |  
-| bip_39_word_new_br10 | shop<br>flip<br>shell<br>video<br>jelly<br>click<br>comfort<br>arm<br>blue<br>inmate |  
-| bip_39_word_new_br11 | shop<br>flip<br>shell<br>video<br>jelly<br>click<br>comfort<br>arm<br>blue<br>inmate<br>egg |  
-| bip_39_word_new_br12 | shop<br>flip<br>shell<br>video<br>jelly<br>click<br>comfort<br>arm<br>blue<br>inmate<br>egg<br>alarm |  
-| bip_39_word_new_br2 | shop<br>flip |  
-| bip_39_word_new_br3 | shop<br>flip<br>shell |  
-| bip_39_word_new_br4 | shop<br>flip<br>shell<br>video |  
-| bip_39_word_new_br5 | shop<br>flip<br>shell<br>video<br>jelly |  
-| bip_39_word_new_br6 | shop<br>flip<br>shell<br>video<br>jelly<br>click |  
-| bip_39_word_new_br7 | shop<br>flip<br>shell<br>video<br>jelly<br>click<br>comfort |  
-| bip_39_word_new_br8 | shop<br>flip<br>shell<br>video<br>jelly<br>click<br>comfort<br>arm |  
-| bip_39_word_new_br9 | shop<br>flip<br>shell<br>video<br>jelly<br>click<br>comfort<br>arm<br>blue |  
-| bip_39_word_new_line1 | shop |  
-| bip_39_word_new_line10 | shop
+| bip_39_word_new_br_1 | shop |  
+| bip_39_word_new_br_10 | shop<br>flip<br>shell<br>video<br>jelly<br>click<br>comfort<br>arm<br>blue<br>inmate |  
+| bip_39_word_new_br_11 | shop<br>flip<br>shell<br>video<br>jelly<br>click<br>comfort<br>arm<br>blue<br>inmate<br>egg |  
+| bip_39_word_new_br_12 | shop<br>flip<br>shell<br>video<br>jelly<br>click<br>comfort<br>arm<br>blue<br>inmate<br>egg<br>alarm |  
+| bip_39_word_new_br_2 | shop<br>flip |  
+| bip_39_word_new_br_3 | shop<br>flip<br>shell |  
+| bip_39_word_new_br_4 | shop<br>flip<br>shell<br>video |  
+| bip_39_word_new_br_5 | shop<br>flip<br>shell<br>video<br>jelly |  
+| bip_39_word_new_br_6 | shop<br>flip<br>shell<br>video<br>jelly<br>click |  
+| bip_39_word_new_br_7 | shop<br>flip<br>shell<br>video<br>jelly<br>click<br>comfort |  
+| bip_39_word_new_br_8 | shop<br>flip<br>shell<br>video<br>jelly<br>click<br>comfort<br>arm |  
+| bip_39_word_new_br_9 | shop<br>flip<br>shell<br>video<br>jelly<br>click<br>comfort<br>arm<br>blue |  
+| bip_39_word_new_line_1 | shop |  
+| bip_39_word_new_line_10 | shop
 flip
 shell
 video
@@ -55,7 +55,7 @@ comfort
 arm
 blue
 inmate |  
-| bip_39_word_new_line11 | shop
+| bip_39_word_new_line_11 | shop
 flip
 shell
 video
@@ -66,7 +66,7 @@ arm
 blue
 inmate
 egg |  
-| bip_39_word_new_line12 | shop
+| bip_39_word_new_line_12 | shop
 flip
 shell
 video
@@ -78,34 +78,34 @@ blue
 inmate
 egg
 alarm |  
-| bip_39_word_new_line2 | shop
+| bip_39_word_new_line_2 | shop
 flip |  
-| bip_39_word_new_line3 | shop
+| bip_39_word_new_line_3 | shop
 flip
 shell |  
-| bip_39_word_new_line4 | shop
+| bip_39_word_new_line_4 | shop
 flip
 shell
 video |  
-| bip_39_word_new_line5 | shop
+| bip_39_word_new_line_5 | shop
 flip
 shell
 video
 jelly |  
-| bip_39_word_new_line6 | shop
+| bip_39_word_new_line_6 | shop
 flip
 shell
 video
 jelly
 click |  
-| bip_39_word_new_line7 | shop
+| bip_39_word_new_line_7 | shop
 flip
 shell
 video
 jelly
 click
 comfort |  
-| bip_39_word_new_line8 | shop
+| bip_39_word_new_line_8 | shop
 flip
 shell
 video
@@ -113,7 +113,7 @@ jelly
 click
 comfort
 arm |  
-| bip_39_word_new_line9 | shop
+| bip_39_word_new_line_9 | shop
 flip
 shell
 video

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | lyrics |  
-| bip_39_word_new_br10 | lyrics<br>point<br>engage<br>chaos<br>moral<br>foot<br>pact<br>cruel<br>orange<br>shrimp |  
-| bip_39_word_new_br11 | lyrics<br>point<br>engage<br>chaos<br>moral<br>foot<br>pact<br>cruel<br>orange<br>shrimp<br>tragic |  
-| bip_39_word_new_br12 | lyrics<br>point<br>engage<br>chaos<br>moral<br>foot<br>pact<br>cruel<br>orange<br>shrimp<br>tragic<br>antenna |  
-| bip_39_word_new_br2 | lyrics<br>point |  
-| bip_39_word_new_br3 | lyrics<br>point<br>engage |  
-| bip_39_word_new_br4 | lyrics<br>point<br>engage<br>chaos |  
-| bip_39_word_new_br5 | lyrics<br>point<br>engage<br>chaos<br>moral |  
-| bip_39_word_new_br6 | lyrics<br>point<br>engage<br>chaos<br>moral<br>foot |  
-| bip_39_word_new_br7 | lyrics<br>point<br>engage<br>chaos<br>moral<br>foot<br>pact |  
-| bip_39_word_new_br8 | lyrics<br>point<br>engage<br>chaos<br>moral<br>foot<br>pact<br>cruel |  
-| bip_39_word_new_br9 | lyrics<br>point<br>engage<br>chaos<br>moral<br>foot<br>pact<br>cruel<br>orange |  
-| bip_39_word_new_line1 | lyrics |  
-| bip_39_word_new_line10 | lyrics
+| bip_39_word_new_br_1 | lyrics |  
+| bip_39_word_new_br_10 | lyrics<br>point<br>engage<br>chaos<br>moral<br>foot<br>pact<br>cruel<br>orange<br>shrimp |  
+| bip_39_word_new_br_11 | lyrics<br>point<br>engage<br>chaos<br>moral<br>foot<br>pact<br>cruel<br>orange<br>shrimp<br>tragic |  
+| bip_39_word_new_br_12 | lyrics<br>point<br>engage<br>chaos<br>moral<br>foot<br>pact<br>cruel<br>orange<br>shrimp<br>tragic<br>antenna |  
+| bip_39_word_new_br_2 | lyrics<br>point |  
+| bip_39_word_new_br_3 | lyrics<br>point<br>engage |  
+| bip_39_word_new_br_4 | lyrics<br>point<br>engage<br>chaos |  
+| bip_39_word_new_br_5 | lyrics<br>point<br>engage<br>chaos<br>moral |  
+| bip_39_word_new_br_6 | lyrics<br>point<br>engage<br>chaos<br>moral<br>foot |  
+| bip_39_word_new_br_7 | lyrics<br>point<br>engage<br>chaos<br>moral<br>foot<br>pact |  
+| bip_39_word_new_br_8 | lyrics<br>point<br>engage<br>chaos<br>moral<br>foot<br>pact<br>cruel |  
+| bip_39_word_new_br_9 | lyrics<br>point<br>engage<br>chaos<br>moral<br>foot<br>pact<br>cruel<br>orange |  
+| bip_39_word_new_line_1 | lyrics |  
+| bip_39_word_new_line_10 | lyrics
 point
 engage
 chaos
@@ -55,7 +55,7 @@ pact
 cruel
 orange
 shrimp |  
-| bip_39_word_new_line11 | lyrics
+| bip_39_word_new_line_11 | lyrics
 point
 engage
 chaos
@@ -66,7 +66,7 @@ cruel
 orange
 shrimp
 tragic |  
-| bip_39_word_new_line12 | lyrics
+| bip_39_word_new_line_12 | lyrics
 point
 engage
 chaos
@@ -78,34 +78,34 @@ orange
 shrimp
 tragic
 antenna |  
-| bip_39_word_new_line2 | lyrics
+| bip_39_word_new_line_2 | lyrics
 point |  
-| bip_39_word_new_line3 | lyrics
+| bip_39_word_new_line_3 | lyrics
 point
 engage |  
-| bip_39_word_new_line4 | lyrics
+| bip_39_word_new_line_4 | lyrics
 point
 engage
 chaos |  
-| bip_39_word_new_line5 | lyrics
+| bip_39_word_new_line_5 | lyrics
 point
 engage
 chaos
 moral |  
-| bip_39_word_new_line6 | lyrics
+| bip_39_word_new_line_6 | lyrics
 point
 engage
 chaos
 moral
 foot |  
-| bip_39_word_new_line7 | lyrics
+| bip_39_word_new_line_7 | lyrics
 point
 engage
 chaos
 moral
 foot
 pact |  
-| bip_39_word_new_line8 | lyrics
+| bip_39_word_new_line_8 | lyrics
 point
 engage
 chaos
@@ -113,7 +113,7 @@ moral
 foot
 pact
 cruel |  
-| bip_39_word_new_line9 | lyrics
+| bip_39_word_new_line_9 | lyrics
 point
 engage
 chaos

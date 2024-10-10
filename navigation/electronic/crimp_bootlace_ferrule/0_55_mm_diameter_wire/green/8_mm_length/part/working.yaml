@@ -1,17 +1,17 @@
-bip_39_word_new_br1: join
-bip_39_word_new_br10: join<br>access<br>rifle<br>vacant<br>valve<br>gain<br>oil<br>flat<br>exhaust<br>hand
-bip_39_word_new_br11: join<br>access<br>rifle<br>vacant<br>valve<br>gain<br>oil<br>flat<br>exhaust<br>hand<br>unknown
-bip_39_word_new_br12: join<br>access<br>rifle<br>vacant<br>valve<br>gain<br>oil<br>flat<br>exhaust<br>hand<br>unknown<br>abuse
-bip_39_word_new_br2: join<br>access
-bip_39_word_new_br3: join<br>access<br>rifle
-bip_39_word_new_br4: join<br>access<br>rifle<br>vacant
-bip_39_word_new_br5: join<br>access<br>rifle<br>vacant<br>valve
-bip_39_word_new_br6: join<br>access<br>rifle<br>vacant<br>valve<br>gain
-bip_39_word_new_br7: join<br>access<br>rifle<br>vacant<br>valve<br>gain<br>oil
-bip_39_word_new_br8: join<br>access<br>rifle<br>vacant<br>valve<br>gain<br>oil<br>flat
-bip_39_word_new_br9: join<br>access<br>rifle<br>vacant<br>valve<br>gain<br>oil<br>flat<br>exhaust
-bip_39_word_new_line1: join
-bip_39_word_new_line10: 'join
+bip_39_word_new_br_1: join
+bip_39_word_new_br_10: join<br>access<br>rifle<br>vacant<br>valve<br>gain<br>oil<br>flat<br>exhaust<br>hand
+bip_39_word_new_br_11: join<br>access<br>rifle<br>vacant<br>valve<br>gain<br>oil<br>flat<br>exhaust<br>hand<br>unknown
+bip_39_word_new_br_12: join<br>access<br>rifle<br>vacant<br>valve<br>gain<br>oil<br>flat<br>exhaust<br>hand<br>unknown<br>abuse
+bip_39_word_new_br_2: join<br>access
+bip_39_word_new_br_3: join<br>access<br>rifle
+bip_39_word_new_br_4: join<br>access<br>rifle<br>vacant
+bip_39_word_new_br_5: join<br>access<br>rifle<br>vacant<br>valve
+bip_39_word_new_br_6: join<br>access<br>rifle<br>vacant<br>valve<br>gain
+bip_39_word_new_br_7: join<br>access<br>rifle<br>vacant<br>valve<br>gain<br>oil
+bip_39_word_new_br_8: join<br>access<br>rifle<br>vacant<br>valve<br>gain<br>oil<br>flat
+bip_39_word_new_br_9: join<br>access<br>rifle<br>vacant<br>valve<br>gain<br>oil<br>flat<br>exhaust
+bip_39_word_new_line_1: join
+bip_39_word_new_line_10: 'join
 
   access
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'join
   exhaust
 
   hand'
-bip_39_word_new_line11: 'join
+bip_39_word_new_line_11: 'join
 
   access
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'join
   hand
 
   unknown'
-bip_39_word_new_line12: 'join
+bip_39_word_new_line_12: 'join
 
   access
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'join
   unknown
 
   abuse'
-bip_39_word_new_line2: 'join
+bip_39_word_new_line_2: 'join
 
   access'
-bip_39_word_new_line3: 'join
+bip_39_word_new_line_3: 'join
 
   access
 
   rifle'
-bip_39_word_new_line4: 'join
+bip_39_word_new_line_4: 'join
 
   access
 
   rifle
 
   vacant'
-bip_39_word_new_line5: 'join
+bip_39_word_new_line_5: 'join
 
   access
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'join
   vacant
 
   valve'
-bip_39_word_new_line6: 'join
+bip_39_word_new_line_6: 'join
 
   access
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'join
   valve
 
   gain'
-bip_39_word_new_line7: 'join
+bip_39_word_new_line_7: 'join
 
   access
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'join
   gain
 
   oil'
-bip_39_word_new_line8: 'join
+bip_39_word_new_line_8: 'join
 
   access
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'join
   oil
 
   flat'
-bip_39_word_new_line9: 'join
+bip_39_word_new_line_9: 'join
 
   access
 

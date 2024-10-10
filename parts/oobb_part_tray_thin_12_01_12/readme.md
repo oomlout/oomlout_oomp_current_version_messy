@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | news |  
-| bip_39_word_new_br10 | news<br>stamp<br>rigid<br>input<br>ocean<br>impose<br>strategy<br>wait<br>husband<br>want |  
-| bip_39_word_new_br11 | news<br>stamp<br>rigid<br>input<br>ocean<br>impose<br>strategy<br>wait<br>husband<br>want<br>license |  
-| bip_39_word_new_br12 | news<br>stamp<br>rigid<br>input<br>ocean<br>impose<br>strategy<br>wait<br>husband<br>want<br>license<br>all |  
-| bip_39_word_new_br2 | news<br>stamp |  
-| bip_39_word_new_br3 | news<br>stamp<br>rigid |  
-| bip_39_word_new_br4 | news<br>stamp<br>rigid<br>input |  
-| bip_39_word_new_br5 | news<br>stamp<br>rigid<br>input<br>ocean |  
-| bip_39_word_new_br6 | news<br>stamp<br>rigid<br>input<br>ocean<br>impose |  
-| bip_39_word_new_br7 | news<br>stamp<br>rigid<br>input<br>ocean<br>impose<br>strategy |  
-| bip_39_word_new_br8 | news<br>stamp<br>rigid<br>input<br>ocean<br>impose<br>strategy<br>wait |  
-| bip_39_word_new_br9 | news<br>stamp<br>rigid<br>input<br>ocean<br>impose<br>strategy<br>wait<br>husband |  
-| bip_39_word_new_line1 | news |  
-| bip_39_word_new_line10 | news
+| bip_39_word_new_br_1 | news |  
+| bip_39_word_new_br_10 | news<br>stamp<br>rigid<br>input<br>ocean<br>impose<br>strategy<br>wait<br>husband<br>want |  
+| bip_39_word_new_br_11 | news<br>stamp<br>rigid<br>input<br>ocean<br>impose<br>strategy<br>wait<br>husband<br>want<br>license |  
+| bip_39_word_new_br_12 | news<br>stamp<br>rigid<br>input<br>ocean<br>impose<br>strategy<br>wait<br>husband<br>want<br>license<br>all |  
+| bip_39_word_new_br_2 | news<br>stamp |  
+| bip_39_word_new_br_3 | news<br>stamp<br>rigid |  
+| bip_39_word_new_br_4 | news<br>stamp<br>rigid<br>input |  
+| bip_39_word_new_br_5 | news<br>stamp<br>rigid<br>input<br>ocean |  
+| bip_39_word_new_br_6 | news<br>stamp<br>rigid<br>input<br>ocean<br>impose |  
+| bip_39_word_new_br_7 | news<br>stamp<br>rigid<br>input<br>ocean<br>impose<br>strategy |  
+| bip_39_word_new_br_8 | news<br>stamp<br>rigid<br>input<br>ocean<br>impose<br>strategy<br>wait |  
+| bip_39_word_new_br_9 | news<br>stamp<br>rigid<br>input<br>ocean<br>impose<br>strategy<br>wait<br>husband |  
+| bip_39_word_new_line_1 | news |  
+| bip_39_word_new_line_10 | news
 stamp
 rigid
 input
@@ -55,7 +55,7 @@ strategy
 wait
 husband
 want |  
-| bip_39_word_new_line11 | news
+| bip_39_word_new_line_11 | news
 stamp
 rigid
 input
@@ -66,7 +66,7 @@ wait
 husband
 want
 license |  
-| bip_39_word_new_line12 | news
+| bip_39_word_new_line_12 | news
 stamp
 rigid
 input
@@ -78,34 +78,34 @@ husband
 want
 license
 all |  
-| bip_39_word_new_line2 | news
+| bip_39_word_new_line_2 | news
 stamp |  
-| bip_39_word_new_line3 | news
+| bip_39_word_new_line_3 | news
 stamp
 rigid |  
-| bip_39_word_new_line4 | news
+| bip_39_word_new_line_4 | news
 stamp
 rigid
 input |  
-| bip_39_word_new_line5 | news
+| bip_39_word_new_line_5 | news
 stamp
 rigid
 input
 ocean |  
-| bip_39_word_new_line6 | news
+| bip_39_word_new_line_6 | news
 stamp
 rigid
 input
 ocean
 impose |  
-| bip_39_word_new_line7 | news
+| bip_39_word_new_line_7 | news
 stamp
 rigid
 input
 ocean
 impose
 strategy |  
-| bip_39_word_new_line8 | news
+| bip_39_word_new_line_8 | news
 stamp
 rigid
 input
@@ -113,7 +113,7 @@ ocean
 impose
 strategy
 wait |  
-| bip_39_word_new_line9 | news
+| bip_39_word_new_line_9 | news
 stamp
 rigid
 input

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | tone |  
-| bip_39_word_new_br10 | tone<br>assault<br>suggest<br>smile<br>coral<br>output<br>old<br>topic<br>grocery<br>pudding |  
-| bip_39_word_new_br11 | tone<br>assault<br>suggest<br>smile<br>coral<br>output<br>old<br>topic<br>grocery<br>pudding<br>quiz |  
-| bip_39_word_new_br12 | tone<br>assault<br>suggest<br>smile<br>coral<br>output<br>old<br>topic<br>grocery<br>pudding<br>quiz<br>attract |  
-| bip_39_word_new_br2 | tone<br>assault |  
-| bip_39_word_new_br3 | tone<br>assault<br>suggest |  
-| bip_39_word_new_br4 | tone<br>assault<br>suggest<br>smile |  
-| bip_39_word_new_br5 | tone<br>assault<br>suggest<br>smile<br>coral |  
-| bip_39_word_new_br6 | tone<br>assault<br>suggest<br>smile<br>coral<br>output |  
-| bip_39_word_new_br7 | tone<br>assault<br>suggest<br>smile<br>coral<br>output<br>old |  
-| bip_39_word_new_br8 | tone<br>assault<br>suggest<br>smile<br>coral<br>output<br>old<br>topic |  
-| bip_39_word_new_br9 | tone<br>assault<br>suggest<br>smile<br>coral<br>output<br>old<br>topic<br>grocery |  
-| bip_39_word_new_line1 | tone |  
-| bip_39_word_new_line10 | tone
+| bip_39_word_new_br_1 | tone |  
+| bip_39_word_new_br_10 | tone<br>assault<br>suggest<br>smile<br>coral<br>output<br>old<br>topic<br>grocery<br>pudding |  
+| bip_39_word_new_br_11 | tone<br>assault<br>suggest<br>smile<br>coral<br>output<br>old<br>topic<br>grocery<br>pudding<br>quiz |  
+| bip_39_word_new_br_12 | tone<br>assault<br>suggest<br>smile<br>coral<br>output<br>old<br>topic<br>grocery<br>pudding<br>quiz<br>attract |  
+| bip_39_word_new_br_2 | tone<br>assault |  
+| bip_39_word_new_br_3 | tone<br>assault<br>suggest |  
+| bip_39_word_new_br_4 | tone<br>assault<br>suggest<br>smile |  
+| bip_39_word_new_br_5 | tone<br>assault<br>suggest<br>smile<br>coral |  
+| bip_39_word_new_br_6 | tone<br>assault<br>suggest<br>smile<br>coral<br>output |  
+| bip_39_word_new_br_7 | tone<br>assault<br>suggest<br>smile<br>coral<br>output<br>old |  
+| bip_39_word_new_br_8 | tone<br>assault<br>suggest<br>smile<br>coral<br>output<br>old<br>topic |  
+| bip_39_word_new_br_9 | tone<br>assault<br>suggest<br>smile<br>coral<br>output<br>old<br>topic<br>grocery |  
+| bip_39_word_new_line_1 | tone |  
+| bip_39_word_new_line_10 | tone
 assault
 suggest
 smile
@@ -55,7 +55,7 @@ old
 topic
 grocery
 pudding |  
-| bip_39_word_new_line11 | tone
+| bip_39_word_new_line_11 | tone
 assault
 suggest
 smile
@@ -66,7 +66,7 @@ topic
 grocery
 pudding
 quiz |  
-| bip_39_word_new_line12 | tone
+| bip_39_word_new_line_12 | tone
 assault
 suggest
 smile
@@ -78,34 +78,34 @@ grocery
 pudding
 quiz
 attract |  
-| bip_39_word_new_line2 | tone
+| bip_39_word_new_line_2 | tone
 assault |  
-| bip_39_word_new_line3 | tone
+| bip_39_word_new_line_3 | tone
 assault
 suggest |  
-| bip_39_word_new_line4 | tone
+| bip_39_word_new_line_4 | tone
 assault
 suggest
 smile |  
-| bip_39_word_new_line5 | tone
+| bip_39_word_new_line_5 | tone
 assault
 suggest
 smile
 coral |  
-| bip_39_word_new_line6 | tone
+| bip_39_word_new_line_6 | tone
 assault
 suggest
 smile
 coral
 output |  
-| bip_39_word_new_line7 | tone
+| bip_39_word_new_line_7 | tone
 assault
 suggest
 smile
 coral
 output
 old |  
-| bip_39_word_new_line8 | tone
+| bip_39_word_new_line_8 | tone
 assault
 suggest
 smile
@@ -113,7 +113,7 @@ coral
 output
 old
 topic |  
-| bip_39_word_new_line9 | tone
+| bip_39_word_new_line_9 | tone
 assault
 suggest
 smile

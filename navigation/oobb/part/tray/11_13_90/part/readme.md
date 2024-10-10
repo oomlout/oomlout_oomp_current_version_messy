@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | disease |  
-| bip_39_word_new_br10 | disease<br>floor<br>derive<br>cricket<br>this<br>ethics<br>later<br>donkey<br>ill<br>elder |  
-| bip_39_word_new_br11 | disease<br>floor<br>derive<br>cricket<br>this<br>ethics<br>later<br>donkey<br>ill<br>elder<br>mule |  
-| bip_39_word_new_br12 | disease<br>floor<br>derive<br>cricket<br>this<br>ethics<br>later<br>donkey<br>ill<br>elder<br>mule<br>address |  
-| bip_39_word_new_br2 | disease<br>floor |  
-| bip_39_word_new_br3 | disease<br>floor<br>derive |  
-| bip_39_word_new_br4 | disease<br>floor<br>derive<br>cricket |  
-| bip_39_word_new_br5 | disease<br>floor<br>derive<br>cricket<br>this |  
-| bip_39_word_new_br6 | disease<br>floor<br>derive<br>cricket<br>this<br>ethics |  
-| bip_39_word_new_br7 | disease<br>floor<br>derive<br>cricket<br>this<br>ethics<br>later |  
-| bip_39_word_new_br8 | disease<br>floor<br>derive<br>cricket<br>this<br>ethics<br>later<br>donkey |  
-| bip_39_word_new_br9 | disease<br>floor<br>derive<br>cricket<br>this<br>ethics<br>later<br>donkey<br>ill |  
-| bip_39_word_new_line1 | disease |  
-| bip_39_word_new_line10 | disease
+| bip_39_word_new_br_1 | disease |  
+| bip_39_word_new_br_10 | disease<br>floor<br>derive<br>cricket<br>this<br>ethics<br>later<br>donkey<br>ill<br>elder |  
+| bip_39_word_new_br_11 | disease<br>floor<br>derive<br>cricket<br>this<br>ethics<br>later<br>donkey<br>ill<br>elder<br>mule |  
+| bip_39_word_new_br_12 | disease<br>floor<br>derive<br>cricket<br>this<br>ethics<br>later<br>donkey<br>ill<br>elder<br>mule<br>address |  
+| bip_39_word_new_br_2 | disease<br>floor |  
+| bip_39_word_new_br_3 | disease<br>floor<br>derive |  
+| bip_39_word_new_br_4 | disease<br>floor<br>derive<br>cricket |  
+| bip_39_word_new_br_5 | disease<br>floor<br>derive<br>cricket<br>this |  
+| bip_39_word_new_br_6 | disease<br>floor<br>derive<br>cricket<br>this<br>ethics |  
+| bip_39_word_new_br_7 | disease<br>floor<br>derive<br>cricket<br>this<br>ethics<br>later |  
+| bip_39_word_new_br_8 | disease<br>floor<br>derive<br>cricket<br>this<br>ethics<br>later<br>donkey |  
+| bip_39_word_new_br_9 | disease<br>floor<br>derive<br>cricket<br>this<br>ethics<br>later<br>donkey<br>ill |  
+| bip_39_word_new_line_1 | disease |  
+| bip_39_word_new_line_10 | disease
 floor
 derive
 cricket
@@ -55,7 +55,7 @@ later
 donkey
 ill
 elder |  
-| bip_39_word_new_line11 | disease
+| bip_39_word_new_line_11 | disease
 floor
 derive
 cricket
@@ -66,7 +66,7 @@ donkey
 ill
 elder
 mule |  
-| bip_39_word_new_line12 | disease
+| bip_39_word_new_line_12 | disease
 floor
 derive
 cricket
@@ -78,34 +78,34 @@ ill
 elder
 mule
 address |  
-| bip_39_word_new_line2 | disease
+| bip_39_word_new_line_2 | disease
 floor |  
-| bip_39_word_new_line3 | disease
+| bip_39_word_new_line_3 | disease
 floor
 derive |  
-| bip_39_word_new_line4 | disease
+| bip_39_word_new_line_4 | disease
 floor
 derive
 cricket |  
-| bip_39_word_new_line5 | disease
+| bip_39_word_new_line_5 | disease
 floor
 derive
 cricket
 this |  
-| bip_39_word_new_line6 | disease
+| bip_39_word_new_line_6 | disease
 floor
 derive
 cricket
 this
 ethics |  
-| bip_39_word_new_line7 | disease
+| bip_39_word_new_line_7 | disease
 floor
 derive
 cricket
 this
 ethics
 later |  
-| bip_39_word_new_line8 | disease
+| bip_39_word_new_line_8 | disease
 floor
 derive
 cricket
@@ -113,7 +113,7 @@ this
 ethics
 later
 donkey |  
-| bip_39_word_new_line9 | disease
+| bip_39_word_new_line_9 | disease
 floor
 derive
 cricket

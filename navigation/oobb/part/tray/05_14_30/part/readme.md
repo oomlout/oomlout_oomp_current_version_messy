@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ramp |  
-| bip_39_word_new_br10 | ramp<br>uncover<br>divert<br>phone<br>feature<br>call<br>couch<br>list<br>olympic<br>motion |  
-| bip_39_word_new_br11 | ramp<br>uncover<br>divert<br>phone<br>feature<br>call<br>couch<br>list<br>olympic<br>motion<br>another |  
-| bip_39_word_new_br12 | ramp<br>uncover<br>divert<br>phone<br>feature<br>call<br>couch<br>list<br>olympic<br>motion<br>another<br>arm |  
-| bip_39_word_new_br2 | ramp<br>uncover |  
-| bip_39_word_new_br3 | ramp<br>uncover<br>divert |  
-| bip_39_word_new_br4 | ramp<br>uncover<br>divert<br>phone |  
-| bip_39_word_new_br5 | ramp<br>uncover<br>divert<br>phone<br>feature |  
-| bip_39_word_new_br6 | ramp<br>uncover<br>divert<br>phone<br>feature<br>call |  
-| bip_39_word_new_br7 | ramp<br>uncover<br>divert<br>phone<br>feature<br>call<br>couch |  
-| bip_39_word_new_br8 | ramp<br>uncover<br>divert<br>phone<br>feature<br>call<br>couch<br>list |  
-| bip_39_word_new_br9 | ramp<br>uncover<br>divert<br>phone<br>feature<br>call<br>couch<br>list<br>olympic |  
-| bip_39_word_new_line1 | ramp |  
-| bip_39_word_new_line10 | ramp
+| bip_39_word_new_br_1 | ramp |  
+| bip_39_word_new_br_10 | ramp<br>uncover<br>divert<br>phone<br>feature<br>call<br>couch<br>list<br>olympic<br>motion |  
+| bip_39_word_new_br_11 | ramp<br>uncover<br>divert<br>phone<br>feature<br>call<br>couch<br>list<br>olympic<br>motion<br>another |  
+| bip_39_word_new_br_12 | ramp<br>uncover<br>divert<br>phone<br>feature<br>call<br>couch<br>list<br>olympic<br>motion<br>another<br>arm |  
+| bip_39_word_new_br_2 | ramp<br>uncover |  
+| bip_39_word_new_br_3 | ramp<br>uncover<br>divert |  
+| bip_39_word_new_br_4 | ramp<br>uncover<br>divert<br>phone |  
+| bip_39_word_new_br_5 | ramp<br>uncover<br>divert<br>phone<br>feature |  
+| bip_39_word_new_br_6 | ramp<br>uncover<br>divert<br>phone<br>feature<br>call |  
+| bip_39_word_new_br_7 | ramp<br>uncover<br>divert<br>phone<br>feature<br>call<br>couch |  
+| bip_39_word_new_br_8 | ramp<br>uncover<br>divert<br>phone<br>feature<br>call<br>couch<br>list |  
+| bip_39_word_new_br_9 | ramp<br>uncover<br>divert<br>phone<br>feature<br>call<br>couch<br>list<br>olympic |  
+| bip_39_word_new_line_1 | ramp |  
+| bip_39_word_new_line_10 | ramp
 uncover
 divert
 phone
@@ -55,7 +55,7 @@ couch
 list
 olympic
 motion |  
-| bip_39_word_new_line11 | ramp
+| bip_39_word_new_line_11 | ramp
 uncover
 divert
 phone
@@ -66,7 +66,7 @@ list
 olympic
 motion
 another |  
-| bip_39_word_new_line12 | ramp
+| bip_39_word_new_line_12 | ramp
 uncover
 divert
 phone
@@ -78,34 +78,34 @@ olympic
 motion
 another
 arm |  
-| bip_39_word_new_line2 | ramp
+| bip_39_word_new_line_2 | ramp
 uncover |  
-| bip_39_word_new_line3 | ramp
+| bip_39_word_new_line_3 | ramp
 uncover
 divert |  
-| bip_39_word_new_line4 | ramp
+| bip_39_word_new_line_4 | ramp
 uncover
 divert
 phone |  
-| bip_39_word_new_line5 | ramp
+| bip_39_word_new_line_5 | ramp
 uncover
 divert
 phone
 feature |  
-| bip_39_word_new_line6 | ramp
+| bip_39_word_new_line_6 | ramp
 uncover
 divert
 phone
 feature
 call |  
-| bip_39_word_new_line7 | ramp
+| bip_39_word_new_line_7 | ramp
 uncover
 divert
 phone
 feature
 call
 couch |  
-| bip_39_word_new_line8 | ramp
+| bip_39_word_new_line_8 | ramp
 uncover
 divert
 phone
@@ -113,7 +113,7 @@ feature
 call
 couch
 list |  
-| bip_39_word_new_line9 | ramp
+| bip_39_word_new_line_9 | ramp
 uncover
 divert
 phone

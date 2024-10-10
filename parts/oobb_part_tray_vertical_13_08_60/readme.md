@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | shock |  
-| bip_39_word_new_br10 | shock<br>spring<br>loop<br>energy<br>capable<br>voice<br>pair<br>quick<br>baby<br>soda |  
-| bip_39_word_new_br11 | shock<br>spring<br>loop<br>energy<br>capable<br>voice<br>pair<br>quick<br>baby<br>soda<br>biology |  
-| bip_39_word_new_br12 | shock<br>spring<br>loop<br>energy<br>capable<br>voice<br>pair<br>quick<br>baby<br>soda<br>biology<br>antique |  
-| bip_39_word_new_br2 | shock<br>spring |  
-| bip_39_word_new_br3 | shock<br>spring<br>loop |  
-| bip_39_word_new_br4 | shock<br>spring<br>loop<br>energy |  
-| bip_39_word_new_br5 | shock<br>spring<br>loop<br>energy<br>capable |  
-| bip_39_word_new_br6 | shock<br>spring<br>loop<br>energy<br>capable<br>voice |  
-| bip_39_word_new_br7 | shock<br>spring<br>loop<br>energy<br>capable<br>voice<br>pair |  
-| bip_39_word_new_br8 | shock<br>spring<br>loop<br>energy<br>capable<br>voice<br>pair<br>quick |  
-| bip_39_word_new_br9 | shock<br>spring<br>loop<br>energy<br>capable<br>voice<br>pair<br>quick<br>baby |  
-| bip_39_word_new_line1 | shock |  
-| bip_39_word_new_line10 | shock
+| bip_39_word_new_br_1 | shock |  
+| bip_39_word_new_br_10 | shock<br>spring<br>loop<br>energy<br>capable<br>voice<br>pair<br>quick<br>baby<br>soda |  
+| bip_39_word_new_br_11 | shock<br>spring<br>loop<br>energy<br>capable<br>voice<br>pair<br>quick<br>baby<br>soda<br>biology |  
+| bip_39_word_new_br_12 | shock<br>spring<br>loop<br>energy<br>capable<br>voice<br>pair<br>quick<br>baby<br>soda<br>biology<br>antique |  
+| bip_39_word_new_br_2 | shock<br>spring |  
+| bip_39_word_new_br_3 | shock<br>spring<br>loop |  
+| bip_39_word_new_br_4 | shock<br>spring<br>loop<br>energy |  
+| bip_39_word_new_br_5 | shock<br>spring<br>loop<br>energy<br>capable |  
+| bip_39_word_new_br_6 | shock<br>spring<br>loop<br>energy<br>capable<br>voice |  
+| bip_39_word_new_br_7 | shock<br>spring<br>loop<br>energy<br>capable<br>voice<br>pair |  
+| bip_39_word_new_br_8 | shock<br>spring<br>loop<br>energy<br>capable<br>voice<br>pair<br>quick |  
+| bip_39_word_new_br_9 | shock<br>spring<br>loop<br>energy<br>capable<br>voice<br>pair<br>quick<br>baby |  
+| bip_39_word_new_line_1 | shock |  
+| bip_39_word_new_line_10 | shock
 spring
 loop
 energy
@@ -55,7 +55,7 @@ pair
 quick
 baby
 soda |  
-| bip_39_word_new_line11 | shock
+| bip_39_word_new_line_11 | shock
 spring
 loop
 energy
@@ -66,7 +66,7 @@ quick
 baby
 soda
 biology |  
-| bip_39_word_new_line12 | shock
+| bip_39_word_new_line_12 | shock
 spring
 loop
 energy
@@ -78,34 +78,34 @@ baby
 soda
 biology
 antique |  
-| bip_39_word_new_line2 | shock
+| bip_39_word_new_line_2 | shock
 spring |  
-| bip_39_word_new_line3 | shock
+| bip_39_word_new_line_3 | shock
 spring
 loop |  
-| bip_39_word_new_line4 | shock
+| bip_39_word_new_line_4 | shock
 spring
 loop
 energy |  
-| bip_39_word_new_line5 | shock
+| bip_39_word_new_line_5 | shock
 spring
 loop
 energy
 capable |  
-| bip_39_word_new_line6 | shock
+| bip_39_word_new_line_6 | shock
 spring
 loop
 energy
 capable
 voice |  
-| bip_39_word_new_line7 | shock
+| bip_39_word_new_line_7 | shock
 spring
 loop
 energy
 capable
 voice
 pair |  
-| bip_39_word_new_line8 | shock
+| bip_39_word_new_line_8 | shock
 spring
 loop
 energy
@@ -113,7 +113,7 @@ capable
 voice
 pair
 quick |  
-| bip_39_word_new_line9 | shock
+| bip_39_word_new_line_9 | shock
 spring
 loop
 energy

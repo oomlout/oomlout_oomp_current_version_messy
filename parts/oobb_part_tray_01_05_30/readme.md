@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | allow |  
-| bip_39_word_new_br10 | allow<br>fantasy<br>muscle<br>message<br>ski<br>city<br>ridge<br>virtual<br>caught<br>mad |  
-| bip_39_word_new_br11 | allow<br>fantasy<br>muscle<br>message<br>ski<br>city<br>ridge<br>virtual<br>caught<br>mad<br>include |  
-| bip_39_word_new_br12 | allow<br>fantasy<br>muscle<br>message<br>ski<br>city<br>ridge<br>virtual<br>caught<br>mad<br>include<br>address |  
-| bip_39_word_new_br2 | allow<br>fantasy |  
-| bip_39_word_new_br3 | allow<br>fantasy<br>muscle |  
-| bip_39_word_new_br4 | allow<br>fantasy<br>muscle<br>message |  
-| bip_39_word_new_br5 | allow<br>fantasy<br>muscle<br>message<br>ski |  
-| bip_39_word_new_br6 | allow<br>fantasy<br>muscle<br>message<br>ski<br>city |  
-| bip_39_word_new_br7 | allow<br>fantasy<br>muscle<br>message<br>ski<br>city<br>ridge |  
-| bip_39_word_new_br8 | allow<br>fantasy<br>muscle<br>message<br>ski<br>city<br>ridge<br>virtual |  
-| bip_39_word_new_br9 | allow<br>fantasy<br>muscle<br>message<br>ski<br>city<br>ridge<br>virtual<br>caught |  
-| bip_39_word_new_line1 | allow |  
-| bip_39_word_new_line10 | allow
+| bip_39_word_new_br_1 | allow |  
+| bip_39_word_new_br_10 | allow<br>fantasy<br>muscle<br>message<br>ski<br>city<br>ridge<br>virtual<br>caught<br>mad |  
+| bip_39_word_new_br_11 | allow<br>fantasy<br>muscle<br>message<br>ski<br>city<br>ridge<br>virtual<br>caught<br>mad<br>include |  
+| bip_39_word_new_br_12 | allow<br>fantasy<br>muscle<br>message<br>ski<br>city<br>ridge<br>virtual<br>caught<br>mad<br>include<br>address |  
+| bip_39_word_new_br_2 | allow<br>fantasy |  
+| bip_39_word_new_br_3 | allow<br>fantasy<br>muscle |  
+| bip_39_word_new_br_4 | allow<br>fantasy<br>muscle<br>message |  
+| bip_39_word_new_br_5 | allow<br>fantasy<br>muscle<br>message<br>ski |  
+| bip_39_word_new_br_6 | allow<br>fantasy<br>muscle<br>message<br>ski<br>city |  
+| bip_39_word_new_br_7 | allow<br>fantasy<br>muscle<br>message<br>ski<br>city<br>ridge |  
+| bip_39_word_new_br_8 | allow<br>fantasy<br>muscle<br>message<br>ski<br>city<br>ridge<br>virtual |  
+| bip_39_word_new_br_9 | allow<br>fantasy<br>muscle<br>message<br>ski<br>city<br>ridge<br>virtual<br>caught |  
+| bip_39_word_new_line_1 | allow |  
+| bip_39_word_new_line_10 | allow
 fantasy
 muscle
 message
@@ -55,7 +55,7 @@ ridge
 virtual
 caught
 mad |  
-| bip_39_word_new_line11 | allow
+| bip_39_word_new_line_11 | allow
 fantasy
 muscle
 message
@@ -66,7 +66,7 @@ virtual
 caught
 mad
 include |  
-| bip_39_word_new_line12 | allow
+| bip_39_word_new_line_12 | allow
 fantasy
 muscle
 message
@@ -78,34 +78,34 @@ caught
 mad
 include
 address |  
-| bip_39_word_new_line2 | allow
+| bip_39_word_new_line_2 | allow
 fantasy |  
-| bip_39_word_new_line3 | allow
+| bip_39_word_new_line_3 | allow
 fantasy
 muscle |  
-| bip_39_word_new_line4 | allow
+| bip_39_word_new_line_4 | allow
 fantasy
 muscle
 message |  
-| bip_39_word_new_line5 | allow
+| bip_39_word_new_line_5 | allow
 fantasy
 muscle
 message
 ski |  
-| bip_39_word_new_line6 | allow
+| bip_39_word_new_line_6 | allow
 fantasy
 muscle
 message
 ski
 city |  
-| bip_39_word_new_line7 | allow
+| bip_39_word_new_line_7 | allow
 fantasy
 muscle
 message
 ski
 city
 ridge |  
-| bip_39_word_new_line8 | allow
+| bip_39_word_new_line_8 | allow
 fantasy
 muscle
 message
@@ -113,7 +113,7 @@ ski
 city
 ridge
 virtual |  
-| bip_39_word_new_line9 | allow
+| bip_39_word_new_line_9 | allow
 fantasy
 muscle
 message

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | leave |  
-| bip_39_word_new_br10 | leave<br>vague<br>modify<br>physical<br>fetch<br>trend<br>short<br>thing<br>debris<br>over |  
-| bip_39_word_new_br11 | leave<br>vague<br>modify<br>physical<br>fetch<br>trend<br>short<br>thing<br>debris<br>over<br>vote |  
-| bip_39_word_new_br12 | leave<br>vague<br>modify<br>physical<br>fetch<br>trend<br>short<br>thing<br>debris<br>over<br>vote<br>alien |  
-| bip_39_word_new_br2 | leave<br>vague |  
-| bip_39_word_new_br3 | leave<br>vague<br>modify |  
-| bip_39_word_new_br4 | leave<br>vague<br>modify<br>physical |  
-| bip_39_word_new_br5 | leave<br>vague<br>modify<br>physical<br>fetch |  
-| bip_39_word_new_br6 | leave<br>vague<br>modify<br>physical<br>fetch<br>trend |  
-| bip_39_word_new_br7 | leave<br>vague<br>modify<br>physical<br>fetch<br>trend<br>short |  
-| bip_39_word_new_br8 | leave<br>vague<br>modify<br>physical<br>fetch<br>trend<br>short<br>thing |  
-| bip_39_word_new_br9 | leave<br>vague<br>modify<br>physical<br>fetch<br>trend<br>short<br>thing<br>debris |  
-| bip_39_word_new_line1 | leave |  
-| bip_39_word_new_line10 | leave
+| bip_39_word_new_br_1 | leave |  
+| bip_39_word_new_br_10 | leave<br>vague<br>modify<br>physical<br>fetch<br>trend<br>short<br>thing<br>debris<br>over |  
+| bip_39_word_new_br_11 | leave<br>vague<br>modify<br>physical<br>fetch<br>trend<br>short<br>thing<br>debris<br>over<br>vote |  
+| bip_39_word_new_br_12 | leave<br>vague<br>modify<br>physical<br>fetch<br>trend<br>short<br>thing<br>debris<br>over<br>vote<br>alien |  
+| bip_39_word_new_br_2 | leave<br>vague |  
+| bip_39_word_new_br_3 | leave<br>vague<br>modify |  
+| bip_39_word_new_br_4 | leave<br>vague<br>modify<br>physical |  
+| bip_39_word_new_br_5 | leave<br>vague<br>modify<br>physical<br>fetch |  
+| bip_39_word_new_br_6 | leave<br>vague<br>modify<br>physical<br>fetch<br>trend |  
+| bip_39_word_new_br_7 | leave<br>vague<br>modify<br>physical<br>fetch<br>trend<br>short |  
+| bip_39_word_new_br_8 | leave<br>vague<br>modify<br>physical<br>fetch<br>trend<br>short<br>thing |  
+| bip_39_word_new_br_9 | leave<br>vague<br>modify<br>physical<br>fetch<br>trend<br>short<br>thing<br>debris |  
+| bip_39_word_new_line_1 | leave |  
+| bip_39_word_new_line_10 | leave
 vague
 modify
 physical
@@ -55,7 +55,7 @@ short
 thing
 debris
 over |  
-| bip_39_word_new_line11 | leave
+| bip_39_word_new_line_11 | leave
 vague
 modify
 physical
@@ -66,7 +66,7 @@ thing
 debris
 over
 vote |  
-| bip_39_word_new_line12 | leave
+| bip_39_word_new_line_12 | leave
 vague
 modify
 physical
@@ -78,34 +78,34 @@ debris
 over
 vote
 alien |  
-| bip_39_word_new_line2 | leave
+| bip_39_word_new_line_2 | leave
 vague |  
-| bip_39_word_new_line3 | leave
+| bip_39_word_new_line_3 | leave
 vague
 modify |  
-| bip_39_word_new_line4 | leave
+| bip_39_word_new_line_4 | leave
 vague
 modify
 physical |  
-| bip_39_word_new_line5 | leave
+| bip_39_word_new_line_5 | leave
 vague
 modify
 physical
 fetch |  
-| bip_39_word_new_line6 | leave
+| bip_39_word_new_line_6 | leave
 vague
 modify
 physical
 fetch
 trend |  
-| bip_39_word_new_line7 | leave
+| bip_39_word_new_line_7 | leave
 vague
 modify
 physical
 fetch
 trend
 short |  
-| bip_39_word_new_line8 | leave
+| bip_39_word_new_line_8 | leave
 vague
 modify
 physical
@@ -113,7 +113,7 @@ fetch
 trend
 short
 thing |  
-| bip_39_word_new_line9 | leave
+| bip_39_word_new_line_9 | leave
 vague
 modify
 physical

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | shaft |  
-| bip_39_word_new_br10 | shaft<br>belt<br>suffer<br>blast<br>praise<br>family<br>jeans<br>later<br>price<br>sleep |  
-| bip_39_word_new_br11 | shaft<br>belt<br>suffer<br>blast<br>praise<br>family<br>jeans<br>later<br>price<br>sleep<br>jeans |  
-| bip_39_word_new_br12 | shaft<br>belt<br>suffer<br>blast<br>praise<br>family<br>jeans<br>later<br>price<br>sleep<br>jeans<br>airport |  
-| bip_39_word_new_br2 | shaft<br>belt |  
-| bip_39_word_new_br3 | shaft<br>belt<br>suffer |  
-| bip_39_word_new_br4 | shaft<br>belt<br>suffer<br>blast |  
-| bip_39_word_new_br5 | shaft<br>belt<br>suffer<br>blast<br>praise |  
-| bip_39_word_new_br6 | shaft<br>belt<br>suffer<br>blast<br>praise<br>family |  
-| bip_39_word_new_br7 | shaft<br>belt<br>suffer<br>blast<br>praise<br>family<br>jeans |  
-| bip_39_word_new_br8 | shaft<br>belt<br>suffer<br>blast<br>praise<br>family<br>jeans<br>later |  
-| bip_39_word_new_br9 | shaft<br>belt<br>suffer<br>blast<br>praise<br>family<br>jeans<br>later<br>price |  
-| bip_39_word_new_line1 | shaft |  
-| bip_39_word_new_line10 | shaft
+| bip_39_word_new_br_1 | shaft |  
+| bip_39_word_new_br_10 | shaft<br>belt<br>suffer<br>blast<br>praise<br>family<br>jeans<br>later<br>price<br>sleep |  
+| bip_39_word_new_br_11 | shaft<br>belt<br>suffer<br>blast<br>praise<br>family<br>jeans<br>later<br>price<br>sleep<br>jeans |  
+| bip_39_word_new_br_12 | shaft<br>belt<br>suffer<br>blast<br>praise<br>family<br>jeans<br>later<br>price<br>sleep<br>jeans<br>airport |  
+| bip_39_word_new_br_2 | shaft<br>belt |  
+| bip_39_word_new_br_3 | shaft<br>belt<br>suffer |  
+| bip_39_word_new_br_4 | shaft<br>belt<br>suffer<br>blast |  
+| bip_39_word_new_br_5 | shaft<br>belt<br>suffer<br>blast<br>praise |  
+| bip_39_word_new_br_6 | shaft<br>belt<br>suffer<br>blast<br>praise<br>family |  
+| bip_39_word_new_br_7 | shaft<br>belt<br>suffer<br>blast<br>praise<br>family<br>jeans |  
+| bip_39_word_new_br_8 | shaft<br>belt<br>suffer<br>blast<br>praise<br>family<br>jeans<br>later |  
+| bip_39_word_new_br_9 | shaft<br>belt<br>suffer<br>blast<br>praise<br>family<br>jeans<br>later<br>price |  
+| bip_39_word_new_line_1 | shaft |  
+| bip_39_word_new_line_10 | shaft
 belt
 suffer
 blast
@@ -55,7 +55,7 @@ jeans
 later
 price
 sleep |  
-| bip_39_word_new_line11 | shaft
+| bip_39_word_new_line_11 | shaft
 belt
 suffer
 blast
@@ -66,7 +66,7 @@ later
 price
 sleep
 jeans |  
-| bip_39_word_new_line12 | shaft
+| bip_39_word_new_line_12 | shaft
 belt
 suffer
 blast
@@ -78,34 +78,34 @@ price
 sleep
 jeans
 airport |  
-| bip_39_word_new_line2 | shaft
+| bip_39_word_new_line_2 | shaft
 belt |  
-| bip_39_word_new_line3 | shaft
+| bip_39_word_new_line_3 | shaft
 belt
 suffer |  
-| bip_39_word_new_line4 | shaft
+| bip_39_word_new_line_4 | shaft
 belt
 suffer
 blast |  
-| bip_39_word_new_line5 | shaft
+| bip_39_word_new_line_5 | shaft
 belt
 suffer
 blast
 praise |  
-| bip_39_word_new_line6 | shaft
+| bip_39_word_new_line_6 | shaft
 belt
 suffer
 blast
 praise
 family |  
-| bip_39_word_new_line7 | shaft
+| bip_39_word_new_line_7 | shaft
 belt
 suffer
 blast
 praise
 family
 jeans |  
-| bip_39_word_new_line8 | shaft
+| bip_39_word_new_line_8 | shaft
 belt
 suffer
 blast
@@ -113,7 +113,7 @@ praise
 family
 jeans
 later |  
-| bip_39_word_new_line9 | shaft
+| bip_39_word_new_line_9 | shaft
 belt
 suffer
 blast

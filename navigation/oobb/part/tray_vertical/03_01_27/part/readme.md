@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | industry |  
-| bip_39_word_new_br10 | industry<br>illegal<br>genre<br>legal<br>ask<br>stick<br>supreme<br>view<br>please<br>explain |  
-| bip_39_word_new_br11 | industry<br>illegal<br>genre<br>legal<br>ask<br>stick<br>supreme<br>view<br>please<br>explain<br>aware |  
-| bip_39_word_new_br12 | industry<br>illegal<br>genre<br>legal<br>ask<br>stick<br>supreme<br>view<br>please<br>explain<br>aware<br>actor |  
-| bip_39_word_new_br2 | industry<br>illegal |  
-| bip_39_word_new_br3 | industry<br>illegal<br>genre |  
-| bip_39_word_new_br4 | industry<br>illegal<br>genre<br>legal |  
-| bip_39_word_new_br5 | industry<br>illegal<br>genre<br>legal<br>ask |  
-| bip_39_word_new_br6 | industry<br>illegal<br>genre<br>legal<br>ask<br>stick |  
-| bip_39_word_new_br7 | industry<br>illegal<br>genre<br>legal<br>ask<br>stick<br>supreme |  
-| bip_39_word_new_br8 | industry<br>illegal<br>genre<br>legal<br>ask<br>stick<br>supreme<br>view |  
-| bip_39_word_new_br9 | industry<br>illegal<br>genre<br>legal<br>ask<br>stick<br>supreme<br>view<br>please |  
-| bip_39_word_new_line1 | industry |  
-| bip_39_word_new_line10 | industry
+| bip_39_word_new_br_1 | industry |  
+| bip_39_word_new_br_10 | industry<br>illegal<br>genre<br>legal<br>ask<br>stick<br>supreme<br>view<br>please<br>explain |  
+| bip_39_word_new_br_11 | industry<br>illegal<br>genre<br>legal<br>ask<br>stick<br>supreme<br>view<br>please<br>explain<br>aware |  
+| bip_39_word_new_br_12 | industry<br>illegal<br>genre<br>legal<br>ask<br>stick<br>supreme<br>view<br>please<br>explain<br>aware<br>actor |  
+| bip_39_word_new_br_2 | industry<br>illegal |  
+| bip_39_word_new_br_3 | industry<br>illegal<br>genre |  
+| bip_39_word_new_br_4 | industry<br>illegal<br>genre<br>legal |  
+| bip_39_word_new_br_5 | industry<br>illegal<br>genre<br>legal<br>ask |  
+| bip_39_word_new_br_6 | industry<br>illegal<br>genre<br>legal<br>ask<br>stick |  
+| bip_39_word_new_br_7 | industry<br>illegal<br>genre<br>legal<br>ask<br>stick<br>supreme |  
+| bip_39_word_new_br_8 | industry<br>illegal<br>genre<br>legal<br>ask<br>stick<br>supreme<br>view |  
+| bip_39_word_new_br_9 | industry<br>illegal<br>genre<br>legal<br>ask<br>stick<br>supreme<br>view<br>please |  
+| bip_39_word_new_line_1 | industry |  
+| bip_39_word_new_line_10 | industry
 illegal
 genre
 legal
@@ -55,7 +55,7 @@ supreme
 view
 please
 explain |  
-| bip_39_word_new_line11 | industry
+| bip_39_word_new_line_11 | industry
 illegal
 genre
 legal
@@ -66,7 +66,7 @@ view
 please
 explain
 aware |  
-| bip_39_word_new_line12 | industry
+| bip_39_word_new_line_12 | industry
 illegal
 genre
 legal
@@ -78,34 +78,34 @@ please
 explain
 aware
 actor |  
-| bip_39_word_new_line2 | industry
+| bip_39_word_new_line_2 | industry
 illegal |  
-| bip_39_word_new_line3 | industry
+| bip_39_word_new_line_3 | industry
 illegal
 genre |  
-| bip_39_word_new_line4 | industry
+| bip_39_word_new_line_4 | industry
 illegal
 genre
 legal |  
-| bip_39_word_new_line5 | industry
+| bip_39_word_new_line_5 | industry
 illegal
 genre
 legal
 ask |  
-| bip_39_word_new_line6 | industry
+| bip_39_word_new_line_6 | industry
 illegal
 genre
 legal
 ask
 stick |  
-| bip_39_word_new_line7 | industry
+| bip_39_word_new_line_7 | industry
 illegal
 genre
 legal
 ask
 stick
 supreme |  
-| bip_39_word_new_line8 | industry
+| bip_39_word_new_line_8 | industry
 illegal
 genre
 legal
@@ -113,7 +113,7 @@ ask
 stick
 supreme
 view |  
-| bip_39_word_new_line9 | industry
+| bip_39_word_new_line_9 | industry
 illegal
 genre
 legal

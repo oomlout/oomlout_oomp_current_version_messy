@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | crucial |  
-| bip_39_word_new_br10 | crucial<br>miracle<br>abandon<br>police<br>stove<br>boost<br>merge<br>beef<br>behave<br>struggle |  
-| bip_39_word_new_br11 | crucial<br>miracle<br>abandon<br>police<br>stove<br>boost<br>merge<br>beef<br>behave<br>struggle<br>exhibit |  
-| bip_39_word_new_br12 | crucial<br>miracle<br>abandon<br>police<br>stove<br>boost<br>merge<br>beef<br>behave<br>struggle<br>exhibit<br>area |  
-| bip_39_word_new_br2 | crucial<br>miracle |  
-| bip_39_word_new_br3 | crucial<br>miracle<br>abandon |  
-| bip_39_word_new_br4 | crucial<br>miracle<br>abandon<br>police |  
-| bip_39_word_new_br5 | crucial<br>miracle<br>abandon<br>police<br>stove |  
-| bip_39_word_new_br6 | crucial<br>miracle<br>abandon<br>police<br>stove<br>boost |  
-| bip_39_word_new_br7 | crucial<br>miracle<br>abandon<br>police<br>stove<br>boost<br>merge |  
-| bip_39_word_new_br8 | crucial<br>miracle<br>abandon<br>police<br>stove<br>boost<br>merge<br>beef |  
-| bip_39_word_new_br9 | crucial<br>miracle<br>abandon<br>police<br>stove<br>boost<br>merge<br>beef<br>behave |  
-| bip_39_word_new_line1 | crucial |  
-| bip_39_word_new_line10 | crucial
+| bip_39_word_new_br_1 | crucial |  
+| bip_39_word_new_br_10 | crucial<br>miracle<br>abandon<br>police<br>stove<br>boost<br>merge<br>beef<br>behave<br>struggle |  
+| bip_39_word_new_br_11 | crucial<br>miracle<br>abandon<br>police<br>stove<br>boost<br>merge<br>beef<br>behave<br>struggle<br>exhibit |  
+| bip_39_word_new_br_12 | crucial<br>miracle<br>abandon<br>police<br>stove<br>boost<br>merge<br>beef<br>behave<br>struggle<br>exhibit<br>area |  
+| bip_39_word_new_br_2 | crucial<br>miracle |  
+| bip_39_word_new_br_3 | crucial<br>miracle<br>abandon |  
+| bip_39_word_new_br_4 | crucial<br>miracle<br>abandon<br>police |  
+| bip_39_word_new_br_5 | crucial<br>miracle<br>abandon<br>police<br>stove |  
+| bip_39_word_new_br_6 | crucial<br>miracle<br>abandon<br>police<br>stove<br>boost |  
+| bip_39_word_new_br_7 | crucial<br>miracle<br>abandon<br>police<br>stove<br>boost<br>merge |  
+| bip_39_word_new_br_8 | crucial<br>miracle<br>abandon<br>police<br>stove<br>boost<br>merge<br>beef |  
+| bip_39_word_new_br_9 | crucial<br>miracle<br>abandon<br>police<br>stove<br>boost<br>merge<br>beef<br>behave |  
+| bip_39_word_new_line_1 | crucial |  
+| bip_39_word_new_line_10 | crucial
 miracle
 abandon
 police
@@ -55,7 +55,7 @@ merge
 beef
 behave
 struggle |  
-| bip_39_word_new_line11 | crucial
+| bip_39_word_new_line_11 | crucial
 miracle
 abandon
 police
@@ -66,7 +66,7 @@ beef
 behave
 struggle
 exhibit |  
-| bip_39_word_new_line12 | crucial
+| bip_39_word_new_line_12 | crucial
 miracle
 abandon
 police
@@ -78,34 +78,34 @@ behave
 struggle
 exhibit
 area |  
-| bip_39_word_new_line2 | crucial
+| bip_39_word_new_line_2 | crucial
 miracle |  
-| bip_39_word_new_line3 | crucial
+| bip_39_word_new_line_3 | crucial
 miracle
 abandon |  
-| bip_39_word_new_line4 | crucial
+| bip_39_word_new_line_4 | crucial
 miracle
 abandon
 police |  
-| bip_39_word_new_line5 | crucial
+| bip_39_word_new_line_5 | crucial
 miracle
 abandon
 police
 stove |  
-| bip_39_word_new_line6 | crucial
+| bip_39_word_new_line_6 | crucial
 miracle
 abandon
 police
 stove
 boost |  
-| bip_39_word_new_line7 | crucial
+| bip_39_word_new_line_7 | crucial
 miracle
 abandon
 police
 stove
 boost
 merge |  
-| bip_39_word_new_line8 | crucial
+| bip_39_word_new_line_8 | crucial
 miracle
 abandon
 police
@@ -113,7 +113,7 @@ stove
 boost
 merge
 beef |  
-| bip_39_word_new_line9 | crucial
+| bip_39_word_new_line_9 | crucial
 miracle
 abandon
 police

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | will |  
-| bip_39_word_new_br10 | will<br>foot<br>begin<br>nasty<br>prison<br>despair<br>mandate<br>stamp<br>bless<br>region |  
-| bip_39_word_new_br11 | will<br>foot<br>begin<br>nasty<br>prison<br>despair<br>mandate<br>stamp<br>bless<br>region<br>crazy |  
-| bip_39_word_new_br12 | will<br>foot<br>begin<br>nasty<br>prison<br>despair<br>mandate<br>stamp<br>bless<br>region<br>crazy<br>ask |  
-| bip_39_word_new_br2 | will<br>foot |  
-| bip_39_word_new_br3 | will<br>foot<br>begin |  
-| bip_39_word_new_br4 | will<br>foot<br>begin<br>nasty |  
-| bip_39_word_new_br5 | will<br>foot<br>begin<br>nasty<br>prison |  
-| bip_39_word_new_br6 | will<br>foot<br>begin<br>nasty<br>prison<br>despair |  
-| bip_39_word_new_br7 | will<br>foot<br>begin<br>nasty<br>prison<br>despair<br>mandate |  
-| bip_39_word_new_br8 | will<br>foot<br>begin<br>nasty<br>prison<br>despair<br>mandate<br>stamp |  
-| bip_39_word_new_br9 | will<br>foot<br>begin<br>nasty<br>prison<br>despair<br>mandate<br>stamp<br>bless |  
-| bip_39_word_new_line1 | will |  
-| bip_39_word_new_line10 | will
+| bip_39_word_new_br_1 | will |  
+| bip_39_word_new_br_10 | will<br>foot<br>begin<br>nasty<br>prison<br>despair<br>mandate<br>stamp<br>bless<br>region |  
+| bip_39_word_new_br_11 | will<br>foot<br>begin<br>nasty<br>prison<br>despair<br>mandate<br>stamp<br>bless<br>region<br>crazy |  
+| bip_39_word_new_br_12 | will<br>foot<br>begin<br>nasty<br>prison<br>despair<br>mandate<br>stamp<br>bless<br>region<br>crazy<br>ask |  
+| bip_39_word_new_br_2 | will<br>foot |  
+| bip_39_word_new_br_3 | will<br>foot<br>begin |  
+| bip_39_word_new_br_4 | will<br>foot<br>begin<br>nasty |  
+| bip_39_word_new_br_5 | will<br>foot<br>begin<br>nasty<br>prison |  
+| bip_39_word_new_br_6 | will<br>foot<br>begin<br>nasty<br>prison<br>despair |  
+| bip_39_word_new_br_7 | will<br>foot<br>begin<br>nasty<br>prison<br>despair<br>mandate |  
+| bip_39_word_new_br_8 | will<br>foot<br>begin<br>nasty<br>prison<br>despair<br>mandate<br>stamp |  
+| bip_39_word_new_br_9 | will<br>foot<br>begin<br>nasty<br>prison<br>despair<br>mandate<br>stamp<br>bless |  
+| bip_39_word_new_line_1 | will |  
+| bip_39_word_new_line_10 | will
 foot
 begin
 nasty
@@ -55,7 +55,7 @@ mandate
 stamp
 bless
 region |  
-| bip_39_word_new_line11 | will
+| bip_39_word_new_line_11 | will
 foot
 begin
 nasty
@@ -66,7 +66,7 @@ stamp
 bless
 region
 crazy |  
-| bip_39_word_new_line12 | will
+| bip_39_word_new_line_12 | will
 foot
 begin
 nasty
@@ -78,34 +78,34 @@ bless
 region
 crazy
 ask |  
-| bip_39_word_new_line2 | will
+| bip_39_word_new_line_2 | will
 foot |  
-| bip_39_word_new_line3 | will
+| bip_39_word_new_line_3 | will
 foot
 begin |  
-| bip_39_word_new_line4 | will
+| bip_39_word_new_line_4 | will
 foot
 begin
 nasty |  
-| bip_39_word_new_line5 | will
+| bip_39_word_new_line_5 | will
 foot
 begin
 nasty
 prison |  
-| bip_39_word_new_line6 | will
+| bip_39_word_new_line_6 | will
 foot
 begin
 nasty
 prison
 despair |  
-| bip_39_word_new_line7 | will
+| bip_39_word_new_line_7 | will
 foot
 begin
 nasty
 prison
 despair
 mandate |  
-| bip_39_word_new_line8 | will
+| bip_39_word_new_line_8 | will
 foot
 begin
 nasty
@@ -113,7 +113,7 @@ prison
 despair
 mandate
 stamp |  
-| bip_39_word_new_line9 | will
+| bip_39_word_new_line_9 | will
 foot
 begin
 nasty

@@ -1,17 +1,17 @@
-bip_39_word_new_br1: approve
-bip_39_word_new_br10: approve<br>vehicle<br>river<br>act<br>badge<br>pulse<br>citizen<br>dad<br>clinic<br>angle
-bip_39_word_new_br11: approve<br>vehicle<br>river<br>act<br>badge<br>pulse<br>citizen<br>dad<br>clinic<br>angle<br>youth
-bip_39_word_new_br12: approve<br>vehicle<br>river<br>act<br>badge<br>pulse<br>citizen<br>dad<br>clinic<br>angle<br>youth<br>abuse
-bip_39_word_new_br2: approve<br>vehicle
-bip_39_word_new_br3: approve<br>vehicle<br>river
-bip_39_word_new_br4: approve<br>vehicle<br>river<br>act
-bip_39_word_new_br5: approve<br>vehicle<br>river<br>act<br>badge
-bip_39_word_new_br6: approve<br>vehicle<br>river<br>act<br>badge<br>pulse
-bip_39_word_new_br7: approve<br>vehicle<br>river<br>act<br>badge<br>pulse<br>citizen
-bip_39_word_new_br8: approve<br>vehicle<br>river<br>act<br>badge<br>pulse<br>citizen<br>dad
-bip_39_word_new_br9: approve<br>vehicle<br>river<br>act<br>badge<br>pulse<br>citizen<br>dad<br>clinic
-bip_39_word_new_line1: approve
-bip_39_word_new_line10: 'approve
+bip_39_word_new_br_1: approve
+bip_39_word_new_br_10: approve<br>vehicle<br>river<br>act<br>badge<br>pulse<br>citizen<br>dad<br>clinic<br>angle
+bip_39_word_new_br_11: approve<br>vehicle<br>river<br>act<br>badge<br>pulse<br>citizen<br>dad<br>clinic<br>angle<br>youth
+bip_39_word_new_br_12: approve<br>vehicle<br>river<br>act<br>badge<br>pulse<br>citizen<br>dad<br>clinic<br>angle<br>youth<br>abuse
+bip_39_word_new_br_2: approve<br>vehicle
+bip_39_word_new_br_3: approve<br>vehicle<br>river
+bip_39_word_new_br_4: approve<br>vehicle<br>river<br>act
+bip_39_word_new_br_5: approve<br>vehicle<br>river<br>act<br>badge
+bip_39_word_new_br_6: approve<br>vehicle<br>river<br>act<br>badge<br>pulse
+bip_39_word_new_br_7: approve<br>vehicle<br>river<br>act<br>badge<br>pulse<br>citizen
+bip_39_word_new_br_8: approve<br>vehicle<br>river<br>act<br>badge<br>pulse<br>citizen<br>dad
+bip_39_word_new_br_9: approve<br>vehicle<br>river<br>act<br>badge<br>pulse<br>citizen<br>dad<br>clinic
+bip_39_word_new_line_1: approve
+bip_39_word_new_line_10: 'approve
 
   vehicle
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'approve
   clinic
 
   angle'
-bip_39_word_new_line11: 'approve
+bip_39_word_new_line_11: 'approve
 
   vehicle
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'approve
   angle
 
   youth'
-bip_39_word_new_line12: 'approve
+bip_39_word_new_line_12: 'approve
 
   vehicle
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'approve
   youth
 
   abuse'
-bip_39_word_new_line2: 'approve
+bip_39_word_new_line_2: 'approve
 
   vehicle'
-bip_39_word_new_line3: 'approve
+bip_39_word_new_line_3: 'approve
 
   vehicle
 
   river'
-bip_39_word_new_line4: 'approve
+bip_39_word_new_line_4: 'approve
 
   vehicle
 
   river
 
   act'
-bip_39_word_new_line5: 'approve
+bip_39_word_new_line_5: 'approve
 
   vehicle
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'approve
   act
 
   badge'
-bip_39_word_new_line6: 'approve
+bip_39_word_new_line_6: 'approve
 
   vehicle
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'approve
   badge
 
   pulse'
-bip_39_word_new_line7: 'approve
+bip_39_word_new_line_7: 'approve
 
   vehicle
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'approve
   pulse
 
   citizen'
-bip_39_word_new_line8: 'approve
+bip_39_word_new_line_8: 'approve
 
   vehicle
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'approve
   citizen
 
   dad'
-bip_39_word_new_line9: 'approve
+bip_39_word_new_line_9: 'approve
 
   vehicle
 

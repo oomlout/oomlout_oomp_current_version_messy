@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | modify |  
-| bip_39_word_new_br10 | modify<br>ivory<br>wise<br>never<br>ocean<br>tuition<br>decide<br>shop<br>inflict<br>execute |  
-| bip_39_word_new_br11 | modify<br>ivory<br>wise<br>never<br>ocean<br>tuition<br>decide<br>shop<br>inflict<br>execute<br>income |  
-| bip_39_word_new_br12 | modify<br>ivory<br>wise<br>never<br>ocean<br>tuition<br>decide<br>shop<br>inflict<br>execute<br>income<br>act |  
-| bip_39_word_new_br2 | modify<br>ivory |  
-| bip_39_word_new_br3 | modify<br>ivory<br>wise |  
-| bip_39_word_new_br4 | modify<br>ivory<br>wise<br>never |  
-| bip_39_word_new_br5 | modify<br>ivory<br>wise<br>never<br>ocean |  
-| bip_39_word_new_br6 | modify<br>ivory<br>wise<br>never<br>ocean<br>tuition |  
-| bip_39_word_new_br7 | modify<br>ivory<br>wise<br>never<br>ocean<br>tuition<br>decide |  
-| bip_39_word_new_br8 | modify<br>ivory<br>wise<br>never<br>ocean<br>tuition<br>decide<br>shop |  
-| bip_39_word_new_br9 | modify<br>ivory<br>wise<br>never<br>ocean<br>tuition<br>decide<br>shop<br>inflict |  
-| bip_39_word_new_line1 | modify |  
-| bip_39_word_new_line10 | modify
+| bip_39_word_new_br_1 | modify |  
+| bip_39_word_new_br_10 | modify<br>ivory<br>wise<br>never<br>ocean<br>tuition<br>decide<br>shop<br>inflict<br>execute |  
+| bip_39_word_new_br_11 | modify<br>ivory<br>wise<br>never<br>ocean<br>tuition<br>decide<br>shop<br>inflict<br>execute<br>income |  
+| bip_39_word_new_br_12 | modify<br>ivory<br>wise<br>never<br>ocean<br>tuition<br>decide<br>shop<br>inflict<br>execute<br>income<br>act |  
+| bip_39_word_new_br_2 | modify<br>ivory |  
+| bip_39_word_new_br_3 | modify<br>ivory<br>wise |  
+| bip_39_word_new_br_4 | modify<br>ivory<br>wise<br>never |  
+| bip_39_word_new_br_5 | modify<br>ivory<br>wise<br>never<br>ocean |  
+| bip_39_word_new_br_6 | modify<br>ivory<br>wise<br>never<br>ocean<br>tuition |  
+| bip_39_word_new_br_7 | modify<br>ivory<br>wise<br>never<br>ocean<br>tuition<br>decide |  
+| bip_39_word_new_br_8 | modify<br>ivory<br>wise<br>never<br>ocean<br>tuition<br>decide<br>shop |  
+| bip_39_word_new_br_9 | modify<br>ivory<br>wise<br>never<br>ocean<br>tuition<br>decide<br>shop<br>inflict |  
+| bip_39_word_new_line_1 | modify |  
+| bip_39_word_new_line_10 | modify
 ivory
 wise
 never
@@ -55,7 +55,7 @@ decide
 shop
 inflict
 execute |  
-| bip_39_word_new_line11 | modify
+| bip_39_word_new_line_11 | modify
 ivory
 wise
 never
@@ -66,7 +66,7 @@ shop
 inflict
 execute
 income |  
-| bip_39_word_new_line12 | modify
+| bip_39_word_new_line_12 | modify
 ivory
 wise
 never
@@ -78,34 +78,34 @@ inflict
 execute
 income
 act |  
-| bip_39_word_new_line2 | modify
+| bip_39_word_new_line_2 | modify
 ivory |  
-| bip_39_word_new_line3 | modify
+| bip_39_word_new_line_3 | modify
 ivory
 wise |  
-| bip_39_word_new_line4 | modify
+| bip_39_word_new_line_4 | modify
 ivory
 wise
 never |  
-| bip_39_word_new_line5 | modify
+| bip_39_word_new_line_5 | modify
 ivory
 wise
 never
 ocean |  
-| bip_39_word_new_line6 | modify
+| bip_39_word_new_line_6 | modify
 ivory
 wise
 never
 ocean
 tuition |  
-| bip_39_word_new_line7 | modify
+| bip_39_word_new_line_7 | modify
 ivory
 wise
 never
 ocean
 tuition
 decide |  
-| bip_39_word_new_line8 | modify
+| bip_39_word_new_line_8 | modify
 ivory
 wise
 never
@@ -113,7 +113,7 @@ ocean
 tuition
 decide
 shop |  
-| bip_39_word_new_line9 | modify
+| bip_39_word_new_line_9 | modify
 ivory
 wise
 never

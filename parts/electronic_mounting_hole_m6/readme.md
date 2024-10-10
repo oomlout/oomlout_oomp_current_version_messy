@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | kick |  
-| bip_39_word_new_br10 | kick<br>surface<br>absurd<br>spray<br>faculty<br>prepare<br>ankle<br>local<br>novel<br>network |  
-| bip_39_word_new_br11 | kick<br>surface<br>absurd<br>spray<br>faculty<br>prepare<br>ankle<br>local<br>novel<br>network<br>vivid |  
-| bip_39_word_new_br12 | kick<br>surface<br>absurd<br>spray<br>faculty<br>prepare<br>ankle<br>local<br>novel<br>network<br>vivid<br>autumn |  
-| bip_39_word_new_br2 | kick<br>surface |  
-| bip_39_word_new_br3 | kick<br>surface<br>absurd |  
-| bip_39_word_new_br4 | kick<br>surface<br>absurd<br>spray |  
-| bip_39_word_new_br5 | kick<br>surface<br>absurd<br>spray<br>faculty |  
-| bip_39_word_new_br6 | kick<br>surface<br>absurd<br>spray<br>faculty<br>prepare |  
-| bip_39_word_new_br7 | kick<br>surface<br>absurd<br>spray<br>faculty<br>prepare<br>ankle |  
-| bip_39_word_new_br8 | kick<br>surface<br>absurd<br>spray<br>faculty<br>prepare<br>ankle<br>local |  
-| bip_39_word_new_br9 | kick<br>surface<br>absurd<br>spray<br>faculty<br>prepare<br>ankle<br>local<br>novel |  
-| bip_39_word_new_line1 | kick |  
-| bip_39_word_new_line10 | kick
+| bip_39_word_new_br_1 | kick |  
+| bip_39_word_new_br_10 | kick<br>surface<br>absurd<br>spray<br>faculty<br>prepare<br>ankle<br>local<br>novel<br>network |  
+| bip_39_word_new_br_11 | kick<br>surface<br>absurd<br>spray<br>faculty<br>prepare<br>ankle<br>local<br>novel<br>network<br>vivid |  
+| bip_39_word_new_br_12 | kick<br>surface<br>absurd<br>spray<br>faculty<br>prepare<br>ankle<br>local<br>novel<br>network<br>vivid<br>autumn |  
+| bip_39_word_new_br_2 | kick<br>surface |  
+| bip_39_word_new_br_3 | kick<br>surface<br>absurd |  
+| bip_39_word_new_br_4 | kick<br>surface<br>absurd<br>spray |  
+| bip_39_word_new_br_5 | kick<br>surface<br>absurd<br>spray<br>faculty |  
+| bip_39_word_new_br_6 | kick<br>surface<br>absurd<br>spray<br>faculty<br>prepare |  
+| bip_39_word_new_br_7 | kick<br>surface<br>absurd<br>spray<br>faculty<br>prepare<br>ankle |  
+| bip_39_word_new_br_8 | kick<br>surface<br>absurd<br>spray<br>faculty<br>prepare<br>ankle<br>local |  
+| bip_39_word_new_br_9 | kick<br>surface<br>absurd<br>spray<br>faculty<br>prepare<br>ankle<br>local<br>novel |  
+| bip_39_word_new_line_1 | kick |  
+| bip_39_word_new_line_10 | kick
 surface
 absurd
 spray
@@ -55,7 +55,7 @@ ankle
 local
 novel
 network |  
-| bip_39_word_new_line11 | kick
+| bip_39_word_new_line_11 | kick
 surface
 absurd
 spray
@@ -66,7 +66,7 @@ local
 novel
 network
 vivid |  
-| bip_39_word_new_line12 | kick
+| bip_39_word_new_line_12 | kick
 surface
 absurd
 spray
@@ -78,34 +78,34 @@ novel
 network
 vivid
 autumn |  
-| bip_39_word_new_line2 | kick
+| bip_39_word_new_line_2 | kick
 surface |  
-| bip_39_word_new_line3 | kick
+| bip_39_word_new_line_3 | kick
 surface
 absurd |  
-| bip_39_word_new_line4 | kick
+| bip_39_word_new_line_4 | kick
 surface
 absurd
 spray |  
-| bip_39_word_new_line5 | kick
+| bip_39_word_new_line_5 | kick
 surface
 absurd
 spray
 faculty |  
-| bip_39_word_new_line6 | kick
+| bip_39_word_new_line_6 | kick
 surface
 absurd
 spray
 faculty
 prepare |  
-| bip_39_word_new_line7 | kick
+| bip_39_word_new_line_7 | kick
 surface
 absurd
 spray
 faculty
 prepare
 ankle |  
-| bip_39_word_new_line8 | kick
+| bip_39_word_new_line_8 | kick
 surface
 absurd
 spray
@@ -113,7 +113,7 @@ faculty
 prepare
 ankle
 local |  
-| bip_39_word_new_line9 | kick
+| bip_39_word_new_line_9 | kick
 surface
 absurd
 spray

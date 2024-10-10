@@ -1,17 +1,17 @@
-bip_39_word_new_br1: sun
-bip_39_word_new_br10: sun<br>glue<br>walk<br>novel<br>mutual<br>urban<br>idle<br>gloom<br>dust<br>verb
-bip_39_word_new_br11: sun<br>glue<br>walk<br>novel<br>mutual<br>urban<br>idle<br>gloom<br>dust<br>verb<br>random
-bip_39_word_new_br12: sun<br>glue<br>walk<br>novel<br>mutual<br>urban<br>idle<br>gloom<br>dust<br>verb<br>random<br>artwork
-bip_39_word_new_br2: sun<br>glue
-bip_39_word_new_br3: sun<br>glue<br>walk
-bip_39_word_new_br4: sun<br>glue<br>walk<br>novel
-bip_39_word_new_br5: sun<br>glue<br>walk<br>novel<br>mutual
-bip_39_word_new_br6: sun<br>glue<br>walk<br>novel<br>mutual<br>urban
-bip_39_word_new_br7: sun<br>glue<br>walk<br>novel<br>mutual<br>urban<br>idle
-bip_39_word_new_br8: sun<br>glue<br>walk<br>novel<br>mutual<br>urban<br>idle<br>gloom
-bip_39_word_new_br9: sun<br>glue<br>walk<br>novel<br>mutual<br>urban<br>idle<br>gloom<br>dust
-bip_39_word_new_line1: sun
-bip_39_word_new_line10: 'sun
+bip_39_word_new_br_1: sun
+bip_39_word_new_br_10: sun<br>glue<br>walk<br>novel<br>mutual<br>urban<br>idle<br>gloom<br>dust<br>verb
+bip_39_word_new_br_11: sun<br>glue<br>walk<br>novel<br>mutual<br>urban<br>idle<br>gloom<br>dust<br>verb<br>random
+bip_39_word_new_br_12: sun<br>glue<br>walk<br>novel<br>mutual<br>urban<br>idle<br>gloom<br>dust<br>verb<br>random<br>artwork
+bip_39_word_new_br_2: sun<br>glue
+bip_39_word_new_br_3: sun<br>glue<br>walk
+bip_39_word_new_br_4: sun<br>glue<br>walk<br>novel
+bip_39_word_new_br_5: sun<br>glue<br>walk<br>novel<br>mutual
+bip_39_word_new_br_6: sun<br>glue<br>walk<br>novel<br>mutual<br>urban
+bip_39_word_new_br_7: sun<br>glue<br>walk<br>novel<br>mutual<br>urban<br>idle
+bip_39_word_new_br_8: sun<br>glue<br>walk<br>novel<br>mutual<br>urban<br>idle<br>gloom
+bip_39_word_new_br_9: sun<br>glue<br>walk<br>novel<br>mutual<br>urban<br>idle<br>gloom<br>dust
+bip_39_word_new_line_1: sun
+bip_39_word_new_line_10: 'sun
 
   glue
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'sun
   dust
 
   verb'
-bip_39_word_new_line11: 'sun
+bip_39_word_new_line_11: 'sun
 
   glue
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'sun
   verb
 
   random'
-bip_39_word_new_line12: 'sun
+bip_39_word_new_line_12: 'sun
 
   glue
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'sun
   random
 
   artwork'
-bip_39_word_new_line2: 'sun
+bip_39_word_new_line_2: 'sun
 
   glue'
-bip_39_word_new_line3: 'sun
+bip_39_word_new_line_3: 'sun
 
   glue
 
   walk'
-bip_39_word_new_line4: 'sun
+bip_39_word_new_line_4: 'sun
 
   glue
 
   walk
 
   novel'
-bip_39_word_new_line5: 'sun
+bip_39_word_new_line_5: 'sun
 
   glue
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'sun
   novel
 
   mutual'
-bip_39_word_new_line6: 'sun
+bip_39_word_new_line_6: 'sun
 
   glue
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'sun
   mutual
 
   urban'
-bip_39_word_new_line7: 'sun
+bip_39_word_new_line_7: 'sun
 
   glue
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'sun
   urban
 
   idle'
-bip_39_word_new_line8: 'sun
+bip_39_word_new_line_8: 'sun
 
   glue
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'sun
   idle
 
   gloom'
-bip_39_word_new_line9: 'sun
+bip_39_word_new_line_9: 'sun
 
   glue
 

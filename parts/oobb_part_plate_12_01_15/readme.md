@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | empower |  
-| bip_39_word_new_br10 | empower<br>display<br>unfair<br>popular<br>mix<br>engine<br>mystery<br>blast<br>noble<br>give |  
-| bip_39_word_new_br11 | empower<br>display<br>unfair<br>popular<br>mix<br>engine<br>mystery<br>blast<br>noble<br>give<br>green |  
-| bip_39_word_new_br12 | empower<br>display<br>unfair<br>popular<br>mix<br>engine<br>mystery<br>blast<br>noble<br>give<br>green<br>action |  
-| bip_39_word_new_br2 | empower<br>display |  
-| bip_39_word_new_br3 | empower<br>display<br>unfair |  
-| bip_39_word_new_br4 | empower<br>display<br>unfair<br>popular |  
-| bip_39_word_new_br5 | empower<br>display<br>unfair<br>popular<br>mix |  
-| bip_39_word_new_br6 | empower<br>display<br>unfair<br>popular<br>mix<br>engine |  
-| bip_39_word_new_br7 | empower<br>display<br>unfair<br>popular<br>mix<br>engine<br>mystery |  
-| bip_39_word_new_br8 | empower<br>display<br>unfair<br>popular<br>mix<br>engine<br>mystery<br>blast |  
-| bip_39_word_new_br9 | empower<br>display<br>unfair<br>popular<br>mix<br>engine<br>mystery<br>blast<br>noble |  
-| bip_39_word_new_line1 | empower |  
-| bip_39_word_new_line10 | empower
+| bip_39_word_new_br_1 | empower |  
+| bip_39_word_new_br_10 | empower<br>display<br>unfair<br>popular<br>mix<br>engine<br>mystery<br>blast<br>noble<br>give |  
+| bip_39_word_new_br_11 | empower<br>display<br>unfair<br>popular<br>mix<br>engine<br>mystery<br>blast<br>noble<br>give<br>green |  
+| bip_39_word_new_br_12 | empower<br>display<br>unfair<br>popular<br>mix<br>engine<br>mystery<br>blast<br>noble<br>give<br>green<br>action |  
+| bip_39_word_new_br_2 | empower<br>display |  
+| bip_39_word_new_br_3 | empower<br>display<br>unfair |  
+| bip_39_word_new_br_4 | empower<br>display<br>unfair<br>popular |  
+| bip_39_word_new_br_5 | empower<br>display<br>unfair<br>popular<br>mix |  
+| bip_39_word_new_br_6 | empower<br>display<br>unfair<br>popular<br>mix<br>engine |  
+| bip_39_word_new_br_7 | empower<br>display<br>unfair<br>popular<br>mix<br>engine<br>mystery |  
+| bip_39_word_new_br_8 | empower<br>display<br>unfair<br>popular<br>mix<br>engine<br>mystery<br>blast |  
+| bip_39_word_new_br_9 | empower<br>display<br>unfair<br>popular<br>mix<br>engine<br>mystery<br>blast<br>noble |  
+| bip_39_word_new_line_1 | empower |  
+| bip_39_word_new_line_10 | empower
 display
 unfair
 popular
@@ -55,7 +55,7 @@ mystery
 blast
 noble
 give |  
-| bip_39_word_new_line11 | empower
+| bip_39_word_new_line_11 | empower
 display
 unfair
 popular
@@ -66,7 +66,7 @@ blast
 noble
 give
 green |  
-| bip_39_word_new_line12 | empower
+| bip_39_word_new_line_12 | empower
 display
 unfair
 popular
@@ -78,34 +78,34 @@ noble
 give
 green
 action |  
-| bip_39_word_new_line2 | empower
+| bip_39_word_new_line_2 | empower
 display |  
-| bip_39_word_new_line3 | empower
+| bip_39_word_new_line_3 | empower
 display
 unfair |  
-| bip_39_word_new_line4 | empower
+| bip_39_word_new_line_4 | empower
 display
 unfair
 popular |  
-| bip_39_word_new_line5 | empower
+| bip_39_word_new_line_5 | empower
 display
 unfair
 popular
 mix |  
-| bip_39_word_new_line6 | empower
+| bip_39_word_new_line_6 | empower
 display
 unfair
 popular
 mix
 engine |  
-| bip_39_word_new_line7 | empower
+| bip_39_word_new_line_7 | empower
 display
 unfair
 popular
 mix
 engine
 mystery |  
-| bip_39_word_new_line8 | empower
+| bip_39_word_new_line_8 | empower
 display
 unfair
 popular
@@ -113,7 +113,7 @@ mix
 engine
 mystery
 blast |  
-| bip_39_word_new_line9 | empower
+| bip_39_word_new_line_9 | empower
 display
 unfair
 popular

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | speed |  
-| bip_39_word_new_br10 | speed<br>flee<br>uncle<br>forget<br>umbrella<br>forest<br>impulse<br>phrase<br>cluster<br>cost |  
-| bip_39_word_new_br11 | speed<br>flee<br>uncle<br>forget<br>umbrella<br>forest<br>impulse<br>phrase<br>cluster<br>cost<br>crew |  
-| bip_39_word_new_br12 | speed<br>flee<br>uncle<br>forget<br>umbrella<br>forest<br>impulse<br>phrase<br>cluster<br>cost<br>crew<br>address |  
-| bip_39_word_new_br2 | speed<br>flee |  
-| bip_39_word_new_br3 | speed<br>flee<br>uncle |  
-| bip_39_word_new_br4 | speed<br>flee<br>uncle<br>forget |  
-| bip_39_word_new_br5 | speed<br>flee<br>uncle<br>forget<br>umbrella |  
-| bip_39_word_new_br6 | speed<br>flee<br>uncle<br>forget<br>umbrella<br>forest |  
-| bip_39_word_new_br7 | speed<br>flee<br>uncle<br>forget<br>umbrella<br>forest<br>impulse |  
-| bip_39_word_new_br8 | speed<br>flee<br>uncle<br>forget<br>umbrella<br>forest<br>impulse<br>phrase |  
-| bip_39_word_new_br9 | speed<br>flee<br>uncle<br>forget<br>umbrella<br>forest<br>impulse<br>phrase<br>cluster |  
-| bip_39_word_new_line1 | speed |  
-| bip_39_word_new_line10 | speed
+| bip_39_word_new_br_1 | speed |  
+| bip_39_word_new_br_10 | speed<br>flee<br>uncle<br>forget<br>umbrella<br>forest<br>impulse<br>phrase<br>cluster<br>cost |  
+| bip_39_word_new_br_11 | speed<br>flee<br>uncle<br>forget<br>umbrella<br>forest<br>impulse<br>phrase<br>cluster<br>cost<br>crew |  
+| bip_39_word_new_br_12 | speed<br>flee<br>uncle<br>forget<br>umbrella<br>forest<br>impulse<br>phrase<br>cluster<br>cost<br>crew<br>address |  
+| bip_39_word_new_br_2 | speed<br>flee |  
+| bip_39_word_new_br_3 | speed<br>flee<br>uncle |  
+| bip_39_word_new_br_4 | speed<br>flee<br>uncle<br>forget |  
+| bip_39_word_new_br_5 | speed<br>flee<br>uncle<br>forget<br>umbrella |  
+| bip_39_word_new_br_6 | speed<br>flee<br>uncle<br>forget<br>umbrella<br>forest |  
+| bip_39_word_new_br_7 | speed<br>flee<br>uncle<br>forget<br>umbrella<br>forest<br>impulse |  
+| bip_39_word_new_br_8 | speed<br>flee<br>uncle<br>forget<br>umbrella<br>forest<br>impulse<br>phrase |  
+| bip_39_word_new_br_9 | speed<br>flee<br>uncle<br>forget<br>umbrella<br>forest<br>impulse<br>phrase<br>cluster |  
+| bip_39_word_new_line_1 | speed |  
+| bip_39_word_new_line_10 | speed
 flee
 uncle
 forget
@@ -55,7 +55,7 @@ impulse
 phrase
 cluster
 cost |  
-| bip_39_word_new_line11 | speed
+| bip_39_word_new_line_11 | speed
 flee
 uncle
 forget
@@ -66,7 +66,7 @@ phrase
 cluster
 cost
 crew |  
-| bip_39_word_new_line12 | speed
+| bip_39_word_new_line_12 | speed
 flee
 uncle
 forget
@@ -78,34 +78,34 @@ cluster
 cost
 crew
 address |  
-| bip_39_word_new_line2 | speed
+| bip_39_word_new_line_2 | speed
 flee |  
-| bip_39_word_new_line3 | speed
+| bip_39_word_new_line_3 | speed
 flee
 uncle |  
-| bip_39_word_new_line4 | speed
+| bip_39_word_new_line_4 | speed
 flee
 uncle
 forget |  
-| bip_39_word_new_line5 | speed
+| bip_39_word_new_line_5 | speed
 flee
 uncle
 forget
 umbrella |  
-| bip_39_word_new_line6 | speed
+| bip_39_word_new_line_6 | speed
 flee
 uncle
 forget
 umbrella
 forest |  
-| bip_39_word_new_line7 | speed
+| bip_39_word_new_line_7 | speed
 flee
 uncle
 forget
 umbrella
 forest
 impulse |  
-| bip_39_word_new_line8 | speed
+| bip_39_word_new_line_8 | speed
 flee
 uncle
 forget
@@ -113,7 +113,7 @@ umbrella
 forest
 impulse
 phrase |  
-| bip_39_word_new_line9 | speed
+| bip_39_word_new_line_9 | speed
 flee
 uncle
 forget

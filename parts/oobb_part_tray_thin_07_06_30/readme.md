@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | awkward |  
-| bip_39_word_new_br10 | awkward<br>access<br>churn<br>candy<br>kiss<br>play<br>car<br>zoo<br>sniff<br>shoot |  
-| bip_39_word_new_br11 | awkward<br>access<br>churn<br>candy<br>kiss<br>play<br>car<br>zoo<br>sniff<br>shoot<br>tide |  
-| bip_39_word_new_br12 | awkward<br>access<br>churn<br>candy<br>kiss<br>play<br>car<br>zoo<br>sniff<br>shoot<br>tide<br>ancient |  
-| bip_39_word_new_br2 | awkward<br>access |  
-| bip_39_word_new_br3 | awkward<br>access<br>churn |  
-| bip_39_word_new_br4 | awkward<br>access<br>churn<br>candy |  
-| bip_39_word_new_br5 | awkward<br>access<br>churn<br>candy<br>kiss |  
-| bip_39_word_new_br6 | awkward<br>access<br>churn<br>candy<br>kiss<br>play |  
-| bip_39_word_new_br7 | awkward<br>access<br>churn<br>candy<br>kiss<br>play<br>car |  
-| bip_39_word_new_br8 | awkward<br>access<br>churn<br>candy<br>kiss<br>play<br>car<br>zoo |  
-| bip_39_word_new_br9 | awkward<br>access<br>churn<br>candy<br>kiss<br>play<br>car<br>zoo<br>sniff |  
-| bip_39_word_new_line1 | awkward |  
-| bip_39_word_new_line10 | awkward
+| bip_39_word_new_br_1 | awkward |  
+| bip_39_word_new_br_10 | awkward<br>access<br>churn<br>candy<br>kiss<br>play<br>car<br>zoo<br>sniff<br>shoot |  
+| bip_39_word_new_br_11 | awkward<br>access<br>churn<br>candy<br>kiss<br>play<br>car<br>zoo<br>sniff<br>shoot<br>tide |  
+| bip_39_word_new_br_12 | awkward<br>access<br>churn<br>candy<br>kiss<br>play<br>car<br>zoo<br>sniff<br>shoot<br>tide<br>ancient |  
+| bip_39_word_new_br_2 | awkward<br>access |  
+| bip_39_word_new_br_3 | awkward<br>access<br>churn |  
+| bip_39_word_new_br_4 | awkward<br>access<br>churn<br>candy |  
+| bip_39_word_new_br_5 | awkward<br>access<br>churn<br>candy<br>kiss |  
+| bip_39_word_new_br_6 | awkward<br>access<br>churn<br>candy<br>kiss<br>play |  
+| bip_39_word_new_br_7 | awkward<br>access<br>churn<br>candy<br>kiss<br>play<br>car |  
+| bip_39_word_new_br_8 | awkward<br>access<br>churn<br>candy<br>kiss<br>play<br>car<br>zoo |  
+| bip_39_word_new_br_9 | awkward<br>access<br>churn<br>candy<br>kiss<br>play<br>car<br>zoo<br>sniff |  
+| bip_39_word_new_line_1 | awkward |  
+| bip_39_word_new_line_10 | awkward
 access
 churn
 candy
@@ -55,7 +55,7 @@ car
 zoo
 sniff
 shoot |  
-| bip_39_word_new_line11 | awkward
+| bip_39_word_new_line_11 | awkward
 access
 churn
 candy
@@ -66,7 +66,7 @@ zoo
 sniff
 shoot
 tide |  
-| bip_39_word_new_line12 | awkward
+| bip_39_word_new_line_12 | awkward
 access
 churn
 candy
@@ -78,34 +78,34 @@ sniff
 shoot
 tide
 ancient |  
-| bip_39_word_new_line2 | awkward
+| bip_39_word_new_line_2 | awkward
 access |  
-| bip_39_word_new_line3 | awkward
+| bip_39_word_new_line_3 | awkward
 access
 churn |  
-| bip_39_word_new_line4 | awkward
+| bip_39_word_new_line_4 | awkward
 access
 churn
 candy |  
-| bip_39_word_new_line5 | awkward
+| bip_39_word_new_line_5 | awkward
 access
 churn
 candy
 kiss |  
-| bip_39_word_new_line6 | awkward
+| bip_39_word_new_line_6 | awkward
 access
 churn
 candy
 kiss
 play |  
-| bip_39_word_new_line7 | awkward
+| bip_39_word_new_line_7 | awkward
 access
 churn
 candy
 kiss
 play
 car |  
-| bip_39_word_new_line8 | awkward
+| bip_39_word_new_line_8 | awkward
 access
 churn
 candy
@@ -113,7 +113,7 @@ kiss
 play
 car
 zoo |  
-| bip_39_word_new_line9 | awkward
+| bip_39_word_new_line_9 | awkward
 access
 churn
 candy

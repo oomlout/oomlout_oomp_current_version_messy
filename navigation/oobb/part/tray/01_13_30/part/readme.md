@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mimic |  
-| bip_39_word_new_br10 | mimic<br>label<br>glad<br>cost<br>tragic<br>someone<br>spoil<br>shed<br>awake<br>awful |  
-| bip_39_word_new_br11 | mimic<br>label<br>glad<br>cost<br>tragic<br>someone<br>spoil<br>shed<br>awake<br>awful<br>mobile |  
-| bip_39_word_new_br12 | mimic<br>label<br>glad<br>cost<br>tragic<br>someone<br>spoil<br>shed<br>awake<br>awful<br>mobile<br>attend |  
-| bip_39_word_new_br2 | mimic<br>label |  
-| bip_39_word_new_br3 | mimic<br>label<br>glad |  
-| bip_39_word_new_br4 | mimic<br>label<br>glad<br>cost |  
-| bip_39_word_new_br5 | mimic<br>label<br>glad<br>cost<br>tragic |  
-| bip_39_word_new_br6 | mimic<br>label<br>glad<br>cost<br>tragic<br>someone |  
-| bip_39_word_new_br7 | mimic<br>label<br>glad<br>cost<br>tragic<br>someone<br>spoil |  
-| bip_39_word_new_br8 | mimic<br>label<br>glad<br>cost<br>tragic<br>someone<br>spoil<br>shed |  
-| bip_39_word_new_br9 | mimic<br>label<br>glad<br>cost<br>tragic<br>someone<br>spoil<br>shed<br>awake |  
-| bip_39_word_new_line1 | mimic |  
-| bip_39_word_new_line10 | mimic
+| bip_39_word_new_br_1 | mimic |  
+| bip_39_word_new_br_10 | mimic<br>label<br>glad<br>cost<br>tragic<br>someone<br>spoil<br>shed<br>awake<br>awful |  
+| bip_39_word_new_br_11 | mimic<br>label<br>glad<br>cost<br>tragic<br>someone<br>spoil<br>shed<br>awake<br>awful<br>mobile |  
+| bip_39_word_new_br_12 | mimic<br>label<br>glad<br>cost<br>tragic<br>someone<br>spoil<br>shed<br>awake<br>awful<br>mobile<br>attend |  
+| bip_39_word_new_br_2 | mimic<br>label |  
+| bip_39_word_new_br_3 | mimic<br>label<br>glad |  
+| bip_39_word_new_br_4 | mimic<br>label<br>glad<br>cost |  
+| bip_39_word_new_br_5 | mimic<br>label<br>glad<br>cost<br>tragic |  
+| bip_39_word_new_br_6 | mimic<br>label<br>glad<br>cost<br>tragic<br>someone |  
+| bip_39_word_new_br_7 | mimic<br>label<br>glad<br>cost<br>tragic<br>someone<br>spoil |  
+| bip_39_word_new_br_8 | mimic<br>label<br>glad<br>cost<br>tragic<br>someone<br>spoil<br>shed |  
+| bip_39_word_new_br_9 | mimic<br>label<br>glad<br>cost<br>tragic<br>someone<br>spoil<br>shed<br>awake |  
+| bip_39_word_new_line_1 | mimic |  
+| bip_39_word_new_line_10 | mimic
 label
 glad
 cost
@@ -55,7 +55,7 @@ spoil
 shed
 awake
 awful |  
-| bip_39_word_new_line11 | mimic
+| bip_39_word_new_line_11 | mimic
 label
 glad
 cost
@@ -66,7 +66,7 @@ shed
 awake
 awful
 mobile |  
-| bip_39_word_new_line12 | mimic
+| bip_39_word_new_line_12 | mimic
 label
 glad
 cost
@@ -78,34 +78,34 @@ awake
 awful
 mobile
 attend |  
-| bip_39_word_new_line2 | mimic
+| bip_39_word_new_line_2 | mimic
 label |  
-| bip_39_word_new_line3 | mimic
+| bip_39_word_new_line_3 | mimic
 label
 glad |  
-| bip_39_word_new_line4 | mimic
+| bip_39_word_new_line_4 | mimic
 label
 glad
 cost |  
-| bip_39_word_new_line5 | mimic
+| bip_39_word_new_line_5 | mimic
 label
 glad
 cost
 tragic |  
-| bip_39_word_new_line6 | mimic
+| bip_39_word_new_line_6 | mimic
 label
 glad
 cost
 tragic
 someone |  
-| bip_39_word_new_line7 | mimic
+| bip_39_word_new_line_7 | mimic
 label
 glad
 cost
 tragic
 someone
 spoil |  
-| bip_39_word_new_line8 | mimic
+| bip_39_word_new_line_8 | mimic
 label
 glad
 cost
@@ -113,7 +113,7 @@ tragic
 someone
 spoil
 shed |  
-| bip_39_word_new_line9 | mimic
+| bip_39_word_new_line_9 | mimic
 label
 glad
 cost

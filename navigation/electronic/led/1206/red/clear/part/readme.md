@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wait |  
-| bip_39_word_new_br10 | wait<br>round<br>view<br>clinic<br>film<br>entire<br>ostrich<br>ancient<br>twenty<br>snack |  
-| bip_39_word_new_br11 | wait<br>round<br>view<br>clinic<br>film<br>entire<br>ostrich<br>ancient<br>twenty<br>snack<br>basic |  
-| bip_39_word_new_br12 | wait<br>round<br>view<br>clinic<br>film<br>entire<br>ostrich<br>ancient<br>twenty<br>snack<br>basic<br>addict |  
-| bip_39_word_new_br2 | wait<br>round |  
-| bip_39_word_new_br3 | wait<br>round<br>view |  
-| bip_39_word_new_br4 | wait<br>round<br>view<br>clinic |  
-| bip_39_word_new_br5 | wait<br>round<br>view<br>clinic<br>film |  
-| bip_39_word_new_br6 | wait<br>round<br>view<br>clinic<br>film<br>entire |  
-| bip_39_word_new_br7 | wait<br>round<br>view<br>clinic<br>film<br>entire<br>ostrich |  
-| bip_39_word_new_br8 | wait<br>round<br>view<br>clinic<br>film<br>entire<br>ostrich<br>ancient |  
-| bip_39_word_new_br9 | wait<br>round<br>view<br>clinic<br>film<br>entire<br>ostrich<br>ancient<br>twenty |  
-| bip_39_word_new_line1 | wait |  
-| bip_39_word_new_line10 | wait
+| bip_39_word_new_br_1 | wait |  
+| bip_39_word_new_br_10 | wait<br>round<br>view<br>clinic<br>film<br>entire<br>ostrich<br>ancient<br>twenty<br>snack |  
+| bip_39_word_new_br_11 | wait<br>round<br>view<br>clinic<br>film<br>entire<br>ostrich<br>ancient<br>twenty<br>snack<br>basic |  
+| bip_39_word_new_br_12 | wait<br>round<br>view<br>clinic<br>film<br>entire<br>ostrich<br>ancient<br>twenty<br>snack<br>basic<br>addict |  
+| bip_39_word_new_br_2 | wait<br>round |  
+| bip_39_word_new_br_3 | wait<br>round<br>view |  
+| bip_39_word_new_br_4 | wait<br>round<br>view<br>clinic |  
+| bip_39_word_new_br_5 | wait<br>round<br>view<br>clinic<br>film |  
+| bip_39_word_new_br_6 | wait<br>round<br>view<br>clinic<br>film<br>entire |  
+| bip_39_word_new_br_7 | wait<br>round<br>view<br>clinic<br>film<br>entire<br>ostrich |  
+| bip_39_word_new_br_8 | wait<br>round<br>view<br>clinic<br>film<br>entire<br>ostrich<br>ancient |  
+| bip_39_word_new_br_9 | wait<br>round<br>view<br>clinic<br>film<br>entire<br>ostrich<br>ancient<br>twenty |  
+| bip_39_word_new_line_1 | wait |  
+| bip_39_word_new_line_10 | wait
 round
 view
 clinic
@@ -55,7 +55,7 @@ ostrich
 ancient
 twenty
 snack |  
-| bip_39_word_new_line11 | wait
+| bip_39_word_new_line_11 | wait
 round
 view
 clinic
@@ -66,7 +66,7 @@ ancient
 twenty
 snack
 basic |  
-| bip_39_word_new_line12 | wait
+| bip_39_word_new_line_12 | wait
 round
 view
 clinic
@@ -78,34 +78,34 @@ twenty
 snack
 basic
 addict |  
-| bip_39_word_new_line2 | wait
+| bip_39_word_new_line_2 | wait
 round |  
-| bip_39_word_new_line3 | wait
+| bip_39_word_new_line_3 | wait
 round
 view |  
-| bip_39_word_new_line4 | wait
+| bip_39_word_new_line_4 | wait
 round
 view
 clinic |  
-| bip_39_word_new_line5 | wait
+| bip_39_word_new_line_5 | wait
 round
 view
 clinic
 film |  
-| bip_39_word_new_line6 | wait
+| bip_39_word_new_line_6 | wait
 round
 view
 clinic
 film
 entire |  
-| bip_39_word_new_line7 | wait
+| bip_39_word_new_line_7 | wait
 round
 view
 clinic
 film
 entire
 ostrich |  
-| bip_39_word_new_line8 | wait
+| bip_39_word_new_line_8 | wait
 round
 view
 clinic
@@ -113,7 +113,7 @@ film
 entire
 ostrich
 ancient |  
-| bip_39_word_new_line9 | wait
+| bip_39_word_new_line_9 | wait
 round
 view
 clinic

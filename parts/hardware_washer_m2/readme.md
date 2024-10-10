@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | agree |  
-| bip_39_word_new_br10 | agree<br>victory<br>choice<br>bread<br>double<br>sport<br>horse<br>warm<br>raise<br>catch |  
-| bip_39_word_new_br11 | agree<br>victory<br>choice<br>bread<br>double<br>sport<br>horse<br>warm<br>raise<br>catch<br>estate |  
-| bip_39_word_new_br12 | agree<br>victory<br>choice<br>bread<br>double<br>sport<br>horse<br>warm<br>raise<br>catch<br>estate<br>appear |  
-| bip_39_word_new_br2 | agree<br>victory |  
-| bip_39_word_new_br3 | agree<br>victory<br>choice |  
-| bip_39_word_new_br4 | agree<br>victory<br>choice<br>bread |  
-| bip_39_word_new_br5 | agree<br>victory<br>choice<br>bread<br>double |  
-| bip_39_word_new_br6 | agree<br>victory<br>choice<br>bread<br>double<br>sport |  
-| bip_39_word_new_br7 | agree<br>victory<br>choice<br>bread<br>double<br>sport<br>horse |  
-| bip_39_word_new_br8 | agree<br>victory<br>choice<br>bread<br>double<br>sport<br>horse<br>warm |  
-| bip_39_word_new_br9 | agree<br>victory<br>choice<br>bread<br>double<br>sport<br>horse<br>warm<br>raise |  
-| bip_39_word_new_line1 | agree |  
-| bip_39_word_new_line10 | agree
+| bip_39_word_new_br_1 | agree |  
+| bip_39_word_new_br_10 | agree<br>victory<br>choice<br>bread<br>double<br>sport<br>horse<br>warm<br>raise<br>catch |  
+| bip_39_word_new_br_11 | agree<br>victory<br>choice<br>bread<br>double<br>sport<br>horse<br>warm<br>raise<br>catch<br>estate |  
+| bip_39_word_new_br_12 | agree<br>victory<br>choice<br>bread<br>double<br>sport<br>horse<br>warm<br>raise<br>catch<br>estate<br>appear |  
+| bip_39_word_new_br_2 | agree<br>victory |  
+| bip_39_word_new_br_3 | agree<br>victory<br>choice |  
+| bip_39_word_new_br_4 | agree<br>victory<br>choice<br>bread |  
+| bip_39_word_new_br_5 | agree<br>victory<br>choice<br>bread<br>double |  
+| bip_39_word_new_br_6 | agree<br>victory<br>choice<br>bread<br>double<br>sport |  
+| bip_39_word_new_br_7 | agree<br>victory<br>choice<br>bread<br>double<br>sport<br>horse |  
+| bip_39_word_new_br_8 | agree<br>victory<br>choice<br>bread<br>double<br>sport<br>horse<br>warm |  
+| bip_39_word_new_br_9 | agree<br>victory<br>choice<br>bread<br>double<br>sport<br>horse<br>warm<br>raise |  
+| bip_39_word_new_line_1 | agree |  
+| bip_39_word_new_line_10 | agree
 victory
 choice
 bread
@@ -55,7 +55,7 @@ horse
 warm
 raise
 catch |  
-| bip_39_word_new_line11 | agree
+| bip_39_word_new_line_11 | agree
 victory
 choice
 bread
@@ -66,7 +66,7 @@ warm
 raise
 catch
 estate |  
-| bip_39_word_new_line12 | agree
+| bip_39_word_new_line_12 | agree
 victory
 choice
 bread
@@ -78,34 +78,34 @@ raise
 catch
 estate
 appear |  
-| bip_39_word_new_line2 | agree
+| bip_39_word_new_line_2 | agree
 victory |  
-| bip_39_word_new_line3 | agree
+| bip_39_word_new_line_3 | agree
 victory
 choice |  
-| bip_39_word_new_line4 | agree
+| bip_39_word_new_line_4 | agree
 victory
 choice
 bread |  
-| bip_39_word_new_line5 | agree
+| bip_39_word_new_line_5 | agree
 victory
 choice
 bread
 double |  
-| bip_39_word_new_line6 | agree
+| bip_39_word_new_line_6 | agree
 victory
 choice
 bread
 double
 sport |  
-| bip_39_word_new_line7 | agree
+| bip_39_word_new_line_7 | agree
 victory
 choice
 bread
 double
 sport
 horse |  
-| bip_39_word_new_line8 | agree
+| bip_39_word_new_line_8 | agree
 victory
 choice
 bread
@@ -113,7 +113,7 @@ double
 sport
 horse
 warm |  
-| bip_39_word_new_line9 | agree
+| bip_39_word_new_line_9 | agree
 victory
 choice
 bread

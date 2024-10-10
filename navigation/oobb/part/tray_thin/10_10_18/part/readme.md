@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | goat |  
-| bip_39_word_new_br10 | goat<br>unknown<br>era<br>grace<br>regret<br>craft<br>marble<br>flee<br>theme<br>update |  
-| bip_39_word_new_br11 | goat<br>unknown<br>era<br>grace<br>regret<br>craft<br>marble<br>flee<br>theme<br>update<br>host |  
-| bip_39_word_new_br12 | goat<br>unknown<br>era<br>grace<br>regret<br>craft<br>marble<br>flee<br>theme<br>update<br>host<br>acid |  
-| bip_39_word_new_br2 | goat<br>unknown |  
-| bip_39_word_new_br3 | goat<br>unknown<br>era |  
-| bip_39_word_new_br4 | goat<br>unknown<br>era<br>grace |  
-| bip_39_word_new_br5 | goat<br>unknown<br>era<br>grace<br>regret |  
-| bip_39_word_new_br6 | goat<br>unknown<br>era<br>grace<br>regret<br>craft |  
-| bip_39_word_new_br7 | goat<br>unknown<br>era<br>grace<br>regret<br>craft<br>marble |  
-| bip_39_word_new_br8 | goat<br>unknown<br>era<br>grace<br>regret<br>craft<br>marble<br>flee |  
-| bip_39_word_new_br9 | goat<br>unknown<br>era<br>grace<br>regret<br>craft<br>marble<br>flee<br>theme |  
-| bip_39_word_new_line1 | goat |  
-| bip_39_word_new_line10 | goat
+| bip_39_word_new_br_1 | goat |  
+| bip_39_word_new_br_10 | goat<br>unknown<br>era<br>grace<br>regret<br>craft<br>marble<br>flee<br>theme<br>update |  
+| bip_39_word_new_br_11 | goat<br>unknown<br>era<br>grace<br>regret<br>craft<br>marble<br>flee<br>theme<br>update<br>host |  
+| bip_39_word_new_br_12 | goat<br>unknown<br>era<br>grace<br>regret<br>craft<br>marble<br>flee<br>theme<br>update<br>host<br>acid |  
+| bip_39_word_new_br_2 | goat<br>unknown |  
+| bip_39_word_new_br_3 | goat<br>unknown<br>era |  
+| bip_39_word_new_br_4 | goat<br>unknown<br>era<br>grace |  
+| bip_39_word_new_br_5 | goat<br>unknown<br>era<br>grace<br>regret |  
+| bip_39_word_new_br_6 | goat<br>unknown<br>era<br>grace<br>regret<br>craft |  
+| bip_39_word_new_br_7 | goat<br>unknown<br>era<br>grace<br>regret<br>craft<br>marble |  
+| bip_39_word_new_br_8 | goat<br>unknown<br>era<br>grace<br>regret<br>craft<br>marble<br>flee |  
+| bip_39_word_new_br_9 | goat<br>unknown<br>era<br>grace<br>regret<br>craft<br>marble<br>flee<br>theme |  
+| bip_39_word_new_line_1 | goat |  
+| bip_39_word_new_line_10 | goat
 unknown
 era
 grace
@@ -55,7 +55,7 @@ marble
 flee
 theme
 update |  
-| bip_39_word_new_line11 | goat
+| bip_39_word_new_line_11 | goat
 unknown
 era
 grace
@@ -66,7 +66,7 @@ flee
 theme
 update
 host |  
-| bip_39_word_new_line12 | goat
+| bip_39_word_new_line_12 | goat
 unknown
 era
 grace
@@ -78,34 +78,34 @@ theme
 update
 host
 acid |  
-| bip_39_word_new_line2 | goat
+| bip_39_word_new_line_2 | goat
 unknown |  
-| bip_39_word_new_line3 | goat
+| bip_39_word_new_line_3 | goat
 unknown
 era |  
-| bip_39_word_new_line4 | goat
+| bip_39_word_new_line_4 | goat
 unknown
 era
 grace |  
-| bip_39_word_new_line5 | goat
+| bip_39_word_new_line_5 | goat
 unknown
 era
 grace
 regret |  
-| bip_39_word_new_line6 | goat
+| bip_39_word_new_line_6 | goat
 unknown
 era
 grace
 regret
 craft |  
-| bip_39_word_new_line7 | goat
+| bip_39_word_new_line_7 | goat
 unknown
 era
 grace
 regret
 craft
 marble |  
-| bip_39_word_new_line8 | goat
+| bip_39_word_new_line_8 | goat
 unknown
 era
 grace
@@ -113,7 +113,7 @@ regret
 craft
 marble
 flee |  
-| bip_39_word_new_line9 | goat
+| bip_39_word_new_line_9 | goat
 unknown
 era
 grace

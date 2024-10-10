@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | seminar |  
-| bip_39_word_new_br10 | seminar<br>camp<br>tortoise<br>mechanic<br>champion<br>deer<br>window<br>oyster<br>ahead<br>coyote |  
-| bip_39_word_new_br11 | seminar<br>camp<br>tortoise<br>mechanic<br>champion<br>deer<br>window<br>oyster<br>ahead<br>coyote<br>glove |  
-| bip_39_word_new_br12 | seminar<br>camp<br>tortoise<br>mechanic<br>champion<br>deer<br>window<br>oyster<br>ahead<br>coyote<br>glove<br>abuse |  
-| bip_39_word_new_br2 | seminar<br>camp |  
-| bip_39_word_new_br3 | seminar<br>camp<br>tortoise |  
-| bip_39_word_new_br4 | seminar<br>camp<br>tortoise<br>mechanic |  
-| bip_39_word_new_br5 | seminar<br>camp<br>tortoise<br>mechanic<br>champion |  
-| bip_39_word_new_br6 | seminar<br>camp<br>tortoise<br>mechanic<br>champion<br>deer |  
-| bip_39_word_new_br7 | seminar<br>camp<br>tortoise<br>mechanic<br>champion<br>deer<br>window |  
-| bip_39_word_new_br8 | seminar<br>camp<br>tortoise<br>mechanic<br>champion<br>deer<br>window<br>oyster |  
-| bip_39_word_new_br9 | seminar<br>camp<br>tortoise<br>mechanic<br>champion<br>deer<br>window<br>oyster<br>ahead |  
-| bip_39_word_new_line1 | seminar |  
-| bip_39_word_new_line10 | seminar
+| bip_39_word_new_br_1 | seminar |  
+| bip_39_word_new_br_10 | seminar<br>camp<br>tortoise<br>mechanic<br>champion<br>deer<br>window<br>oyster<br>ahead<br>coyote |  
+| bip_39_word_new_br_11 | seminar<br>camp<br>tortoise<br>mechanic<br>champion<br>deer<br>window<br>oyster<br>ahead<br>coyote<br>glove |  
+| bip_39_word_new_br_12 | seminar<br>camp<br>tortoise<br>mechanic<br>champion<br>deer<br>window<br>oyster<br>ahead<br>coyote<br>glove<br>abuse |  
+| bip_39_word_new_br_2 | seminar<br>camp |  
+| bip_39_word_new_br_3 | seminar<br>camp<br>tortoise |  
+| bip_39_word_new_br_4 | seminar<br>camp<br>tortoise<br>mechanic |  
+| bip_39_word_new_br_5 | seminar<br>camp<br>tortoise<br>mechanic<br>champion |  
+| bip_39_word_new_br_6 | seminar<br>camp<br>tortoise<br>mechanic<br>champion<br>deer |  
+| bip_39_word_new_br_7 | seminar<br>camp<br>tortoise<br>mechanic<br>champion<br>deer<br>window |  
+| bip_39_word_new_br_8 | seminar<br>camp<br>tortoise<br>mechanic<br>champion<br>deer<br>window<br>oyster |  
+| bip_39_word_new_br_9 | seminar<br>camp<br>tortoise<br>mechanic<br>champion<br>deer<br>window<br>oyster<br>ahead |  
+| bip_39_word_new_line_1 | seminar |  
+| bip_39_word_new_line_10 | seminar
 camp
 tortoise
 mechanic
@@ -55,7 +55,7 @@ window
 oyster
 ahead
 coyote |  
-| bip_39_word_new_line11 | seminar
+| bip_39_word_new_line_11 | seminar
 camp
 tortoise
 mechanic
@@ -66,7 +66,7 @@ oyster
 ahead
 coyote
 glove |  
-| bip_39_word_new_line12 | seminar
+| bip_39_word_new_line_12 | seminar
 camp
 tortoise
 mechanic
@@ -78,34 +78,34 @@ ahead
 coyote
 glove
 abuse |  
-| bip_39_word_new_line2 | seminar
+| bip_39_word_new_line_2 | seminar
 camp |  
-| bip_39_word_new_line3 | seminar
+| bip_39_word_new_line_3 | seminar
 camp
 tortoise |  
-| bip_39_word_new_line4 | seminar
+| bip_39_word_new_line_4 | seminar
 camp
 tortoise
 mechanic |  
-| bip_39_word_new_line5 | seminar
+| bip_39_word_new_line_5 | seminar
 camp
 tortoise
 mechanic
 champion |  
-| bip_39_word_new_line6 | seminar
+| bip_39_word_new_line_6 | seminar
 camp
 tortoise
 mechanic
 champion
 deer |  
-| bip_39_word_new_line7 | seminar
+| bip_39_word_new_line_7 | seminar
 camp
 tortoise
 mechanic
 champion
 deer
 window |  
-| bip_39_word_new_line8 | seminar
+| bip_39_word_new_line_8 | seminar
 camp
 tortoise
 mechanic
@@ -113,7 +113,7 @@ champion
 deer
 window
 oyster |  
-| bip_39_word_new_line9 | seminar
+| bip_39_word_new_line_9 | seminar
 camp
 tortoise
 mechanic

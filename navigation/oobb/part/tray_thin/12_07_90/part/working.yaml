@@ -1,17 +1,17 @@
-bip_39_word_new_br1: neither
-bip_39_word_new_br10: neither<br>casino<br>legend<br>liar<br>donkey<br>ensure<br>nature<br>maximum<br>install<br>conduct
-bip_39_word_new_br11: neither<br>casino<br>legend<br>liar<br>donkey<br>ensure<br>nature<br>maximum<br>install<br>conduct<br>banner
-bip_39_word_new_br12: neither<br>casino<br>legend<br>liar<br>donkey<br>ensure<br>nature<br>maximum<br>install<br>conduct<br>banner<br>above
-bip_39_word_new_br2: neither<br>casino
-bip_39_word_new_br3: neither<br>casino<br>legend
-bip_39_word_new_br4: neither<br>casino<br>legend<br>liar
-bip_39_word_new_br5: neither<br>casino<br>legend<br>liar<br>donkey
-bip_39_word_new_br6: neither<br>casino<br>legend<br>liar<br>donkey<br>ensure
-bip_39_word_new_br7: neither<br>casino<br>legend<br>liar<br>donkey<br>ensure<br>nature
-bip_39_word_new_br8: neither<br>casino<br>legend<br>liar<br>donkey<br>ensure<br>nature<br>maximum
-bip_39_word_new_br9: neither<br>casino<br>legend<br>liar<br>donkey<br>ensure<br>nature<br>maximum<br>install
-bip_39_word_new_line1: neither
-bip_39_word_new_line10: 'neither
+bip_39_word_new_br_1: neither
+bip_39_word_new_br_10: neither<br>casino<br>legend<br>liar<br>donkey<br>ensure<br>nature<br>maximum<br>install<br>conduct
+bip_39_word_new_br_11: neither<br>casino<br>legend<br>liar<br>donkey<br>ensure<br>nature<br>maximum<br>install<br>conduct<br>banner
+bip_39_word_new_br_12: neither<br>casino<br>legend<br>liar<br>donkey<br>ensure<br>nature<br>maximum<br>install<br>conduct<br>banner<br>above
+bip_39_word_new_br_2: neither<br>casino
+bip_39_word_new_br_3: neither<br>casino<br>legend
+bip_39_word_new_br_4: neither<br>casino<br>legend<br>liar
+bip_39_word_new_br_5: neither<br>casino<br>legend<br>liar<br>donkey
+bip_39_word_new_br_6: neither<br>casino<br>legend<br>liar<br>donkey<br>ensure
+bip_39_word_new_br_7: neither<br>casino<br>legend<br>liar<br>donkey<br>ensure<br>nature
+bip_39_word_new_br_8: neither<br>casino<br>legend<br>liar<br>donkey<br>ensure<br>nature<br>maximum
+bip_39_word_new_br_9: neither<br>casino<br>legend<br>liar<br>donkey<br>ensure<br>nature<br>maximum<br>install
+bip_39_word_new_line_1: neither
+bip_39_word_new_line_10: 'neither
 
   casino
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'neither
   install
 
   conduct'
-bip_39_word_new_line11: 'neither
+bip_39_word_new_line_11: 'neither
 
   casino
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'neither
   conduct
 
   banner'
-bip_39_word_new_line12: 'neither
+bip_39_word_new_line_12: 'neither
 
   casino
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'neither
   banner
 
   above'
-bip_39_word_new_line2: 'neither
+bip_39_word_new_line_2: 'neither
 
   casino'
-bip_39_word_new_line3: 'neither
+bip_39_word_new_line_3: 'neither
 
   casino
 
   legend'
-bip_39_word_new_line4: 'neither
+bip_39_word_new_line_4: 'neither
 
   casino
 
   legend
 
   liar'
-bip_39_word_new_line5: 'neither
+bip_39_word_new_line_5: 'neither
 
   casino
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'neither
   liar
 
   donkey'
-bip_39_word_new_line6: 'neither
+bip_39_word_new_line_6: 'neither
 
   casino
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'neither
   donkey
 
   ensure'
-bip_39_word_new_line7: 'neither
+bip_39_word_new_line_7: 'neither
 
   casino
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'neither
   ensure
 
   nature'
-bip_39_word_new_line8: 'neither
+bip_39_word_new_line_8: 'neither
 
   casino
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'neither
   nature
 
   maximum'
-bip_39_word_new_line9: 'neither
+bip_39_word_new_line_9: 'neither
 
   casino
 

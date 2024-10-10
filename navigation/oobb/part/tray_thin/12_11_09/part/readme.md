@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | lottery |  
-| bip_39_word_new_br10 | lottery<br>hidden<br>solid<br>visa<br>object<br>oppose<br>stove<br>notable<br>bounce<br>pen |  
-| bip_39_word_new_br11 | lottery<br>hidden<br>solid<br>visa<br>object<br>oppose<br>stove<br>notable<br>bounce<br>pen<br>visual |  
-| bip_39_word_new_br12 | lottery<br>hidden<br>solid<br>visa<br>object<br>oppose<br>stove<br>notable<br>bounce<br>pen<br>visual<br>arm |  
-| bip_39_word_new_br2 | lottery<br>hidden |  
-| bip_39_word_new_br3 | lottery<br>hidden<br>solid |  
-| bip_39_word_new_br4 | lottery<br>hidden<br>solid<br>visa |  
-| bip_39_word_new_br5 | lottery<br>hidden<br>solid<br>visa<br>object |  
-| bip_39_word_new_br6 | lottery<br>hidden<br>solid<br>visa<br>object<br>oppose |  
-| bip_39_word_new_br7 | lottery<br>hidden<br>solid<br>visa<br>object<br>oppose<br>stove |  
-| bip_39_word_new_br8 | lottery<br>hidden<br>solid<br>visa<br>object<br>oppose<br>stove<br>notable |  
-| bip_39_word_new_br9 | lottery<br>hidden<br>solid<br>visa<br>object<br>oppose<br>stove<br>notable<br>bounce |  
-| bip_39_word_new_line1 | lottery |  
-| bip_39_word_new_line10 | lottery
+| bip_39_word_new_br_1 | lottery |  
+| bip_39_word_new_br_10 | lottery<br>hidden<br>solid<br>visa<br>object<br>oppose<br>stove<br>notable<br>bounce<br>pen |  
+| bip_39_word_new_br_11 | lottery<br>hidden<br>solid<br>visa<br>object<br>oppose<br>stove<br>notable<br>bounce<br>pen<br>visual |  
+| bip_39_word_new_br_12 | lottery<br>hidden<br>solid<br>visa<br>object<br>oppose<br>stove<br>notable<br>bounce<br>pen<br>visual<br>arm |  
+| bip_39_word_new_br_2 | lottery<br>hidden |  
+| bip_39_word_new_br_3 | lottery<br>hidden<br>solid |  
+| bip_39_word_new_br_4 | lottery<br>hidden<br>solid<br>visa |  
+| bip_39_word_new_br_5 | lottery<br>hidden<br>solid<br>visa<br>object |  
+| bip_39_word_new_br_6 | lottery<br>hidden<br>solid<br>visa<br>object<br>oppose |  
+| bip_39_word_new_br_7 | lottery<br>hidden<br>solid<br>visa<br>object<br>oppose<br>stove |  
+| bip_39_word_new_br_8 | lottery<br>hidden<br>solid<br>visa<br>object<br>oppose<br>stove<br>notable |  
+| bip_39_word_new_br_9 | lottery<br>hidden<br>solid<br>visa<br>object<br>oppose<br>stove<br>notable<br>bounce |  
+| bip_39_word_new_line_1 | lottery |  
+| bip_39_word_new_line_10 | lottery
 hidden
 solid
 visa
@@ -55,7 +55,7 @@ stove
 notable
 bounce
 pen |  
-| bip_39_word_new_line11 | lottery
+| bip_39_word_new_line_11 | lottery
 hidden
 solid
 visa
@@ -66,7 +66,7 @@ notable
 bounce
 pen
 visual |  
-| bip_39_word_new_line12 | lottery
+| bip_39_word_new_line_12 | lottery
 hidden
 solid
 visa
@@ -78,34 +78,34 @@ bounce
 pen
 visual
 arm |  
-| bip_39_word_new_line2 | lottery
+| bip_39_word_new_line_2 | lottery
 hidden |  
-| bip_39_word_new_line3 | lottery
+| bip_39_word_new_line_3 | lottery
 hidden
 solid |  
-| bip_39_word_new_line4 | lottery
+| bip_39_word_new_line_4 | lottery
 hidden
 solid
 visa |  
-| bip_39_word_new_line5 | lottery
+| bip_39_word_new_line_5 | lottery
 hidden
 solid
 visa
 object |  
-| bip_39_word_new_line6 | lottery
+| bip_39_word_new_line_6 | lottery
 hidden
 solid
 visa
 object
 oppose |  
-| bip_39_word_new_line7 | lottery
+| bip_39_word_new_line_7 | lottery
 hidden
 solid
 visa
 object
 oppose
 stove |  
-| bip_39_word_new_line8 | lottery
+| bip_39_word_new_line_8 | lottery
 hidden
 solid
 visa
@@ -113,7 +113,7 @@ object
 oppose
 stove
 notable |  
-| bip_39_word_new_line9 | lottery
+| bip_39_word_new_line_9 | lottery
 hidden
 solid
 visa

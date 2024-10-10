@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pony |  
-| bip_39_word_new_br10 | pony<br>example<br>ice<br>spend<br>steel<br>subway<br>notice<br>file<br>torch<br>plug |  
-| bip_39_word_new_br11 | pony<br>example<br>ice<br>spend<br>steel<br>subway<br>notice<br>file<br>torch<br>plug<br>card |  
-| bip_39_word_new_br12 | pony<br>example<br>ice<br>spend<br>steel<br>subway<br>notice<br>file<br>torch<br>plug<br>card<br>ask |  
-| bip_39_word_new_br2 | pony<br>example |  
-| bip_39_word_new_br3 | pony<br>example<br>ice |  
-| bip_39_word_new_br4 | pony<br>example<br>ice<br>spend |  
-| bip_39_word_new_br5 | pony<br>example<br>ice<br>spend<br>steel |  
-| bip_39_word_new_br6 | pony<br>example<br>ice<br>spend<br>steel<br>subway |  
-| bip_39_word_new_br7 | pony<br>example<br>ice<br>spend<br>steel<br>subway<br>notice |  
-| bip_39_word_new_br8 | pony<br>example<br>ice<br>spend<br>steel<br>subway<br>notice<br>file |  
-| bip_39_word_new_br9 | pony<br>example<br>ice<br>spend<br>steel<br>subway<br>notice<br>file<br>torch |  
-| bip_39_word_new_line1 | pony |  
-| bip_39_word_new_line10 | pony
+| bip_39_word_new_br_1 | pony |  
+| bip_39_word_new_br_10 | pony<br>example<br>ice<br>spend<br>steel<br>subway<br>notice<br>file<br>torch<br>plug |  
+| bip_39_word_new_br_11 | pony<br>example<br>ice<br>spend<br>steel<br>subway<br>notice<br>file<br>torch<br>plug<br>card |  
+| bip_39_word_new_br_12 | pony<br>example<br>ice<br>spend<br>steel<br>subway<br>notice<br>file<br>torch<br>plug<br>card<br>ask |  
+| bip_39_word_new_br_2 | pony<br>example |  
+| bip_39_word_new_br_3 | pony<br>example<br>ice |  
+| bip_39_word_new_br_4 | pony<br>example<br>ice<br>spend |  
+| bip_39_word_new_br_5 | pony<br>example<br>ice<br>spend<br>steel |  
+| bip_39_word_new_br_6 | pony<br>example<br>ice<br>spend<br>steel<br>subway |  
+| bip_39_word_new_br_7 | pony<br>example<br>ice<br>spend<br>steel<br>subway<br>notice |  
+| bip_39_word_new_br_8 | pony<br>example<br>ice<br>spend<br>steel<br>subway<br>notice<br>file |  
+| bip_39_word_new_br_9 | pony<br>example<br>ice<br>spend<br>steel<br>subway<br>notice<br>file<br>torch |  
+| bip_39_word_new_line_1 | pony |  
+| bip_39_word_new_line_10 | pony
 example
 ice
 spend
@@ -55,7 +55,7 @@ notice
 file
 torch
 plug |  
-| bip_39_word_new_line11 | pony
+| bip_39_word_new_line_11 | pony
 example
 ice
 spend
@@ -66,7 +66,7 @@ file
 torch
 plug
 card |  
-| bip_39_word_new_line12 | pony
+| bip_39_word_new_line_12 | pony
 example
 ice
 spend
@@ -78,34 +78,34 @@ torch
 plug
 card
 ask |  
-| bip_39_word_new_line2 | pony
+| bip_39_word_new_line_2 | pony
 example |  
-| bip_39_word_new_line3 | pony
+| bip_39_word_new_line_3 | pony
 example
 ice |  
-| bip_39_word_new_line4 | pony
+| bip_39_word_new_line_4 | pony
 example
 ice
 spend |  
-| bip_39_word_new_line5 | pony
+| bip_39_word_new_line_5 | pony
 example
 ice
 spend
 steel |  
-| bip_39_word_new_line6 | pony
+| bip_39_word_new_line_6 | pony
 example
 ice
 spend
 steel
 subway |  
-| bip_39_word_new_line7 | pony
+| bip_39_word_new_line_7 | pony
 example
 ice
 spend
 steel
 subway
 notice |  
-| bip_39_word_new_line8 | pony
+| bip_39_word_new_line_8 | pony
 example
 ice
 spend
@@ -113,7 +113,7 @@ steel
 subway
 notice
 file |  
-| bip_39_word_new_line9 | pony
+| bip_39_word_new_line_9 | pony
 example
 ice
 spend

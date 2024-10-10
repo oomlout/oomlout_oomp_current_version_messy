@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | plastic |  
-| bip_39_word_new_br10 | plastic<br>skin<br>initial<br>entire<br>need<br>relief<br>old<br>fossil<br>tone<br>asset |  
-| bip_39_word_new_br11 | plastic<br>skin<br>initial<br>entire<br>need<br>relief<br>old<br>fossil<br>tone<br>asset<br>local |  
-| bip_39_word_new_br12 | plastic<br>skin<br>initial<br>entire<br>need<br>relief<br>old<br>fossil<br>tone<br>asset<br>local<br>always |  
-| bip_39_word_new_br2 | plastic<br>skin |  
-| bip_39_word_new_br3 | plastic<br>skin<br>initial |  
-| bip_39_word_new_br4 | plastic<br>skin<br>initial<br>entire |  
-| bip_39_word_new_br5 | plastic<br>skin<br>initial<br>entire<br>need |  
-| bip_39_word_new_br6 | plastic<br>skin<br>initial<br>entire<br>need<br>relief |  
-| bip_39_word_new_br7 | plastic<br>skin<br>initial<br>entire<br>need<br>relief<br>old |  
-| bip_39_word_new_br8 | plastic<br>skin<br>initial<br>entire<br>need<br>relief<br>old<br>fossil |  
-| bip_39_word_new_br9 | plastic<br>skin<br>initial<br>entire<br>need<br>relief<br>old<br>fossil<br>tone |  
-| bip_39_word_new_line1 | plastic |  
-| bip_39_word_new_line10 | plastic
+| bip_39_word_new_br_1 | plastic |  
+| bip_39_word_new_br_10 | plastic<br>skin<br>initial<br>entire<br>need<br>relief<br>old<br>fossil<br>tone<br>asset |  
+| bip_39_word_new_br_11 | plastic<br>skin<br>initial<br>entire<br>need<br>relief<br>old<br>fossil<br>tone<br>asset<br>local |  
+| bip_39_word_new_br_12 | plastic<br>skin<br>initial<br>entire<br>need<br>relief<br>old<br>fossil<br>tone<br>asset<br>local<br>always |  
+| bip_39_word_new_br_2 | plastic<br>skin |  
+| bip_39_word_new_br_3 | plastic<br>skin<br>initial |  
+| bip_39_word_new_br_4 | plastic<br>skin<br>initial<br>entire |  
+| bip_39_word_new_br_5 | plastic<br>skin<br>initial<br>entire<br>need |  
+| bip_39_word_new_br_6 | plastic<br>skin<br>initial<br>entire<br>need<br>relief |  
+| bip_39_word_new_br_7 | plastic<br>skin<br>initial<br>entire<br>need<br>relief<br>old |  
+| bip_39_word_new_br_8 | plastic<br>skin<br>initial<br>entire<br>need<br>relief<br>old<br>fossil |  
+| bip_39_word_new_br_9 | plastic<br>skin<br>initial<br>entire<br>need<br>relief<br>old<br>fossil<br>tone |  
+| bip_39_word_new_line_1 | plastic |  
+| bip_39_word_new_line_10 | plastic
 skin
 initial
 entire
@@ -55,7 +55,7 @@ old
 fossil
 tone
 asset |  
-| bip_39_word_new_line11 | plastic
+| bip_39_word_new_line_11 | plastic
 skin
 initial
 entire
@@ -66,7 +66,7 @@ fossil
 tone
 asset
 local |  
-| bip_39_word_new_line12 | plastic
+| bip_39_word_new_line_12 | plastic
 skin
 initial
 entire
@@ -78,34 +78,34 @@ tone
 asset
 local
 always |  
-| bip_39_word_new_line2 | plastic
+| bip_39_word_new_line_2 | plastic
 skin |  
-| bip_39_word_new_line3 | plastic
+| bip_39_word_new_line_3 | plastic
 skin
 initial |  
-| bip_39_word_new_line4 | plastic
+| bip_39_word_new_line_4 | plastic
 skin
 initial
 entire |  
-| bip_39_word_new_line5 | plastic
+| bip_39_word_new_line_5 | plastic
 skin
 initial
 entire
 need |  
-| bip_39_word_new_line6 | plastic
+| bip_39_word_new_line_6 | plastic
 skin
 initial
 entire
 need
 relief |  
-| bip_39_word_new_line7 | plastic
+| bip_39_word_new_line_7 | plastic
 skin
 initial
 entire
 need
 relief
 old |  
-| bip_39_word_new_line8 | plastic
+| bip_39_word_new_line_8 | plastic
 skin
 initial
 entire
@@ -113,7 +113,7 @@ need
 relief
 old
 fossil |  
-| bip_39_word_new_line9 | plastic
+| bip_39_word_new_line_9 | plastic
 skin
 initial
 entire

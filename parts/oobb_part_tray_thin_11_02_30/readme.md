@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | squirrel |  
-| bip_39_word_new_br10 | squirrel<br>appear<br>shine<br>gravity<br>absorb<br>birth<br>arrest<br>board<br>play<br>soda |  
-| bip_39_word_new_br11 | squirrel<br>appear<br>shine<br>gravity<br>absorb<br>birth<br>arrest<br>board<br>play<br>soda<br>about |  
-| bip_39_word_new_br12 | squirrel<br>appear<br>shine<br>gravity<br>absorb<br>birth<br>arrest<br>board<br>play<br>soda<br>about<br>abuse |  
-| bip_39_word_new_br2 | squirrel<br>appear |  
-| bip_39_word_new_br3 | squirrel<br>appear<br>shine |  
-| bip_39_word_new_br4 | squirrel<br>appear<br>shine<br>gravity |  
-| bip_39_word_new_br5 | squirrel<br>appear<br>shine<br>gravity<br>absorb |  
-| bip_39_word_new_br6 | squirrel<br>appear<br>shine<br>gravity<br>absorb<br>birth |  
-| bip_39_word_new_br7 | squirrel<br>appear<br>shine<br>gravity<br>absorb<br>birth<br>arrest |  
-| bip_39_word_new_br8 | squirrel<br>appear<br>shine<br>gravity<br>absorb<br>birth<br>arrest<br>board |  
-| bip_39_word_new_br9 | squirrel<br>appear<br>shine<br>gravity<br>absorb<br>birth<br>arrest<br>board<br>play |  
-| bip_39_word_new_line1 | squirrel |  
-| bip_39_word_new_line10 | squirrel
+| bip_39_word_new_br_1 | squirrel |  
+| bip_39_word_new_br_10 | squirrel<br>appear<br>shine<br>gravity<br>absorb<br>birth<br>arrest<br>board<br>play<br>soda |  
+| bip_39_word_new_br_11 | squirrel<br>appear<br>shine<br>gravity<br>absorb<br>birth<br>arrest<br>board<br>play<br>soda<br>about |  
+| bip_39_word_new_br_12 | squirrel<br>appear<br>shine<br>gravity<br>absorb<br>birth<br>arrest<br>board<br>play<br>soda<br>about<br>abuse |  
+| bip_39_word_new_br_2 | squirrel<br>appear |  
+| bip_39_word_new_br_3 | squirrel<br>appear<br>shine |  
+| bip_39_word_new_br_4 | squirrel<br>appear<br>shine<br>gravity |  
+| bip_39_word_new_br_5 | squirrel<br>appear<br>shine<br>gravity<br>absorb |  
+| bip_39_word_new_br_6 | squirrel<br>appear<br>shine<br>gravity<br>absorb<br>birth |  
+| bip_39_word_new_br_7 | squirrel<br>appear<br>shine<br>gravity<br>absorb<br>birth<br>arrest |  
+| bip_39_word_new_br_8 | squirrel<br>appear<br>shine<br>gravity<br>absorb<br>birth<br>arrest<br>board |  
+| bip_39_word_new_br_9 | squirrel<br>appear<br>shine<br>gravity<br>absorb<br>birth<br>arrest<br>board<br>play |  
+| bip_39_word_new_line_1 | squirrel |  
+| bip_39_word_new_line_10 | squirrel
 appear
 shine
 gravity
@@ -55,7 +55,7 @@ arrest
 board
 play
 soda |  
-| bip_39_word_new_line11 | squirrel
+| bip_39_word_new_line_11 | squirrel
 appear
 shine
 gravity
@@ -66,7 +66,7 @@ board
 play
 soda
 about |  
-| bip_39_word_new_line12 | squirrel
+| bip_39_word_new_line_12 | squirrel
 appear
 shine
 gravity
@@ -78,34 +78,34 @@ play
 soda
 about
 abuse |  
-| bip_39_word_new_line2 | squirrel
+| bip_39_word_new_line_2 | squirrel
 appear |  
-| bip_39_word_new_line3 | squirrel
+| bip_39_word_new_line_3 | squirrel
 appear
 shine |  
-| bip_39_word_new_line4 | squirrel
+| bip_39_word_new_line_4 | squirrel
 appear
 shine
 gravity |  
-| bip_39_word_new_line5 | squirrel
+| bip_39_word_new_line_5 | squirrel
 appear
 shine
 gravity
 absorb |  
-| bip_39_word_new_line6 | squirrel
+| bip_39_word_new_line_6 | squirrel
 appear
 shine
 gravity
 absorb
 birth |  
-| bip_39_word_new_line7 | squirrel
+| bip_39_word_new_line_7 | squirrel
 appear
 shine
 gravity
 absorb
 birth
 arrest |  
-| bip_39_word_new_line8 | squirrel
+| bip_39_word_new_line_8 | squirrel
 appear
 shine
 gravity
@@ -113,7 +113,7 @@ absorb
 birth
 arrest
 board |  
-| bip_39_word_new_line9 | squirrel
+| bip_39_word_new_line_9 | squirrel
 appear
 shine
 gravity

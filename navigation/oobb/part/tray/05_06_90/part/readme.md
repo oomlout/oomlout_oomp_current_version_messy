@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | deposit |  
-| bip_39_word_new_br10 | deposit<br>bread<br>discover<br>hair<br>boring<br>picnic<br>strong<br>credit<br>stay<br>flame |  
-| bip_39_word_new_br11 | deposit<br>bread<br>discover<br>hair<br>boring<br>picnic<br>strong<br>credit<br>stay<br>flame<br>cream |  
-| bip_39_word_new_br12 | deposit<br>bread<br>discover<br>hair<br>boring<br>picnic<br>strong<br>credit<br>stay<br>flame<br>cream<br>asset |  
-| bip_39_word_new_br2 | deposit<br>bread |  
-| bip_39_word_new_br3 | deposit<br>bread<br>discover |  
-| bip_39_word_new_br4 | deposit<br>bread<br>discover<br>hair |  
-| bip_39_word_new_br5 | deposit<br>bread<br>discover<br>hair<br>boring |  
-| bip_39_word_new_br6 | deposit<br>bread<br>discover<br>hair<br>boring<br>picnic |  
-| bip_39_word_new_br7 | deposit<br>bread<br>discover<br>hair<br>boring<br>picnic<br>strong |  
-| bip_39_word_new_br8 | deposit<br>bread<br>discover<br>hair<br>boring<br>picnic<br>strong<br>credit |  
-| bip_39_word_new_br9 | deposit<br>bread<br>discover<br>hair<br>boring<br>picnic<br>strong<br>credit<br>stay |  
-| bip_39_word_new_line1 | deposit |  
-| bip_39_word_new_line10 | deposit
+| bip_39_word_new_br_1 | deposit |  
+| bip_39_word_new_br_10 | deposit<br>bread<br>discover<br>hair<br>boring<br>picnic<br>strong<br>credit<br>stay<br>flame |  
+| bip_39_word_new_br_11 | deposit<br>bread<br>discover<br>hair<br>boring<br>picnic<br>strong<br>credit<br>stay<br>flame<br>cream |  
+| bip_39_word_new_br_12 | deposit<br>bread<br>discover<br>hair<br>boring<br>picnic<br>strong<br>credit<br>stay<br>flame<br>cream<br>asset |  
+| bip_39_word_new_br_2 | deposit<br>bread |  
+| bip_39_word_new_br_3 | deposit<br>bread<br>discover |  
+| bip_39_word_new_br_4 | deposit<br>bread<br>discover<br>hair |  
+| bip_39_word_new_br_5 | deposit<br>bread<br>discover<br>hair<br>boring |  
+| bip_39_word_new_br_6 | deposit<br>bread<br>discover<br>hair<br>boring<br>picnic |  
+| bip_39_word_new_br_7 | deposit<br>bread<br>discover<br>hair<br>boring<br>picnic<br>strong |  
+| bip_39_word_new_br_8 | deposit<br>bread<br>discover<br>hair<br>boring<br>picnic<br>strong<br>credit |  
+| bip_39_word_new_br_9 | deposit<br>bread<br>discover<br>hair<br>boring<br>picnic<br>strong<br>credit<br>stay |  
+| bip_39_word_new_line_1 | deposit |  
+| bip_39_word_new_line_10 | deposit
 bread
 discover
 hair
@@ -55,7 +55,7 @@ strong
 credit
 stay
 flame |  
-| bip_39_word_new_line11 | deposit
+| bip_39_word_new_line_11 | deposit
 bread
 discover
 hair
@@ -66,7 +66,7 @@ credit
 stay
 flame
 cream |  
-| bip_39_word_new_line12 | deposit
+| bip_39_word_new_line_12 | deposit
 bread
 discover
 hair
@@ -78,34 +78,34 @@ stay
 flame
 cream
 asset |  
-| bip_39_word_new_line2 | deposit
+| bip_39_word_new_line_2 | deposit
 bread |  
-| bip_39_word_new_line3 | deposit
+| bip_39_word_new_line_3 | deposit
 bread
 discover |  
-| bip_39_word_new_line4 | deposit
+| bip_39_word_new_line_4 | deposit
 bread
 discover
 hair |  
-| bip_39_word_new_line5 | deposit
+| bip_39_word_new_line_5 | deposit
 bread
 discover
 hair
 boring |  
-| bip_39_word_new_line6 | deposit
+| bip_39_word_new_line_6 | deposit
 bread
 discover
 hair
 boring
 picnic |  
-| bip_39_word_new_line7 | deposit
+| bip_39_word_new_line_7 | deposit
 bread
 discover
 hair
 boring
 picnic
 strong |  
-| bip_39_word_new_line8 | deposit
+| bip_39_word_new_line_8 | deposit
 bread
 discover
 hair
@@ -113,7 +113,7 @@ boring
 picnic
 strong
 credit |  
-| bip_39_word_new_line9 | deposit
+| bip_39_word_new_line_9 | deposit
 bread
 discover
 hair

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | provide |  
-| bip_39_word_new_br10 | provide<br>eye<br>notice<br>outer<br>pulp<br>wing<br>output<br>stem<br>ketchup<br>disagree |  
-| bip_39_word_new_br11 | provide<br>eye<br>notice<br>outer<br>pulp<br>wing<br>output<br>stem<br>ketchup<br>disagree<br>hazard |  
-| bip_39_word_new_br12 | provide<br>eye<br>notice<br>outer<br>pulp<br>wing<br>output<br>stem<br>ketchup<br>disagree<br>hazard<br>antenna |  
-| bip_39_word_new_br2 | provide<br>eye |  
-| bip_39_word_new_br3 | provide<br>eye<br>notice |  
-| bip_39_word_new_br4 | provide<br>eye<br>notice<br>outer |  
-| bip_39_word_new_br5 | provide<br>eye<br>notice<br>outer<br>pulp |  
-| bip_39_word_new_br6 | provide<br>eye<br>notice<br>outer<br>pulp<br>wing |  
-| bip_39_word_new_br7 | provide<br>eye<br>notice<br>outer<br>pulp<br>wing<br>output |  
-| bip_39_word_new_br8 | provide<br>eye<br>notice<br>outer<br>pulp<br>wing<br>output<br>stem |  
-| bip_39_word_new_br9 | provide<br>eye<br>notice<br>outer<br>pulp<br>wing<br>output<br>stem<br>ketchup |  
-| bip_39_word_new_line1 | provide |  
-| bip_39_word_new_line10 | provide
+| bip_39_word_new_br_1 | provide |  
+| bip_39_word_new_br_10 | provide<br>eye<br>notice<br>outer<br>pulp<br>wing<br>output<br>stem<br>ketchup<br>disagree |  
+| bip_39_word_new_br_11 | provide<br>eye<br>notice<br>outer<br>pulp<br>wing<br>output<br>stem<br>ketchup<br>disagree<br>hazard |  
+| bip_39_word_new_br_12 | provide<br>eye<br>notice<br>outer<br>pulp<br>wing<br>output<br>stem<br>ketchup<br>disagree<br>hazard<br>antenna |  
+| bip_39_word_new_br_2 | provide<br>eye |  
+| bip_39_word_new_br_3 | provide<br>eye<br>notice |  
+| bip_39_word_new_br_4 | provide<br>eye<br>notice<br>outer |  
+| bip_39_word_new_br_5 | provide<br>eye<br>notice<br>outer<br>pulp |  
+| bip_39_word_new_br_6 | provide<br>eye<br>notice<br>outer<br>pulp<br>wing |  
+| bip_39_word_new_br_7 | provide<br>eye<br>notice<br>outer<br>pulp<br>wing<br>output |  
+| bip_39_word_new_br_8 | provide<br>eye<br>notice<br>outer<br>pulp<br>wing<br>output<br>stem |  
+| bip_39_word_new_br_9 | provide<br>eye<br>notice<br>outer<br>pulp<br>wing<br>output<br>stem<br>ketchup |  
+| bip_39_word_new_line_1 | provide |  
+| bip_39_word_new_line_10 | provide
 eye
 notice
 outer
@@ -55,7 +55,7 @@ output
 stem
 ketchup
 disagree |  
-| bip_39_word_new_line11 | provide
+| bip_39_word_new_line_11 | provide
 eye
 notice
 outer
@@ -66,7 +66,7 @@ stem
 ketchup
 disagree
 hazard |  
-| bip_39_word_new_line12 | provide
+| bip_39_word_new_line_12 | provide
 eye
 notice
 outer
@@ -78,34 +78,34 @@ ketchup
 disagree
 hazard
 antenna |  
-| bip_39_word_new_line2 | provide
+| bip_39_word_new_line_2 | provide
 eye |  
-| bip_39_word_new_line3 | provide
+| bip_39_word_new_line_3 | provide
 eye
 notice |  
-| bip_39_word_new_line4 | provide
+| bip_39_word_new_line_4 | provide
 eye
 notice
 outer |  
-| bip_39_word_new_line5 | provide
+| bip_39_word_new_line_5 | provide
 eye
 notice
 outer
 pulp |  
-| bip_39_word_new_line6 | provide
+| bip_39_word_new_line_6 | provide
 eye
 notice
 outer
 pulp
 wing |  
-| bip_39_word_new_line7 | provide
+| bip_39_word_new_line_7 | provide
 eye
 notice
 outer
 pulp
 wing
 output |  
-| bip_39_word_new_line8 | provide
+| bip_39_word_new_line_8 | provide
 eye
 notice
 outer
@@ -113,7 +113,7 @@ pulp
 wing
 output
 stem |  
-| bip_39_word_new_line9 | provide
+| bip_39_word_new_line_9 | provide
 eye
 notice
 outer

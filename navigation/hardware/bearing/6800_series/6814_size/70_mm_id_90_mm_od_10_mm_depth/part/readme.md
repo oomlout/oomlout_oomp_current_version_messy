@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | welcome |  
-| bip_39_word_new_br10 | welcome<br>rely<br>memory<br>force<br>rebuild<br>dog<br>ship<br>fetch<br>also<br>arena |  
-| bip_39_word_new_br11 | welcome<br>rely<br>memory<br>force<br>rebuild<br>dog<br>ship<br>fetch<br>also<br>arena<br>bar |  
-| bip_39_word_new_br12 | welcome<br>rely<br>memory<br>force<br>rebuild<br>dog<br>ship<br>fetch<br>also<br>arena<br>bar<br>access |  
-| bip_39_word_new_br2 | welcome<br>rely |  
-| bip_39_word_new_br3 | welcome<br>rely<br>memory |  
-| bip_39_word_new_br4 | welcome<br>rely<br>memory<br>force |  
-| bip_39_word_new_br5 | welcome<br>rely<br>memory<br>force<br>rebuild |  
-| bip_39_word_new_br6 | welcome<br>rely<br>memory<br>force<br>rebuild<br>dog |  
-| bip_39_word_new_br7 | welcome<br>rely<br>memory<br>force<br>rebuild<br>dog<br>ship |  
-| bip_39_word_new_br8 | welcome<br>rely<br>memory<br>force<br>rebuild<br>dog<br>ship<br>fetch |  
-| bip_39_word_new_br9 | welcome<br>rely<br>memory<br>force<br>rebuild<br>dog<br>ship<br>fetch<br>also |  
-| bip_39_word_new_line1 | welcome |  
-| bip_39_word_new_line10 | welcome
+| bip_39_word_new_br_1 | welcome |  
+| bip_39_word_new_br_10 | welcome<br>rely<br>memory<br>force<br>rebuild<br>dog<br>ship<br>fetch<br>also<br>arena |  
+| bip_39_word_new_br_11 | welcome<br>rely<br>memory<br>force<br>rebuild<br>dog<br>ship<br>fetch<br>also<br>arena<br>bar |  
+| bip_39_word_new_br_12 | welcome<br>rely<br>memory<br>force<br>rebuild<br>dog<br>ship<br>fetch<br>also<br>arena<br>bar<br>access |  
+| bip_39_word_new_br_2 | welcome<br>rely |  
+| bip_39_word_new_br_3 | welcome<br>rely<br>memory |  
+| bip_39_word_new_br_4 | welcome<br>rely<br>memory<br>force |  
+| bip_39_word_new_br_5 | welcome<br>rely<br>memory<br>force<br>rebuild |  
+| bip_39_word_new_br_6 | welcome<br>rely<br>memory<br>force<br>rebuild<br>dog |  
+| bip_39_word_new_br_7 | welcome<br>rely<br>memory<br>force<br>rebuild<br>dog<br>ship |  
+| bip_39_word_new_br_8 | welcome<br>rely<br>memory<br>force<br>rebuild<br>dog<br>ship<br>fetch |  
+| bip_39_word_new_br_9 | welcome<br>rely<br>memory<br>force<br>rebuild<br>dog<br>ship<br>fetch<br>also |  
+| bip_39_word_new_line_1 | welcome |  
+| bip_39_word_new_line_10 | welcome
 rely
 memory
 force
@@ -55,7 +55,7 @@ ship
 fetch
 also
 arena |  
-| bip_39_word_new_line11 | welcome
+| bip_39_word_new_line_11 | welcome
 rely
 memory
 force
@@ -66,7 +66,7 @@ fetch
 also
 arena
 bar |  
-| bip_39_word_new_line12 | welcome
+| bip_39_word_new_line_12 | welcome
 rely
 memory
 force
@@ -78,34 +78,34 @@ also
 arena
 bar
 access |  
-| bip_39_word_new_line2 | welcome
+| bip_39_word_new_line_2 | welcome
 rely |  
-| bip_39_word_new_line3 | welcome
+| bip_39_word_new_line_3 | welcome
 rely
 memory |  
-| bip_39_word_new_line4 | welcome
+| bip_39_word_new_line_4 | welcome
 rely
 memory
 force |  
-| bip_39_word_new_line5 | welcome
+| bip_39_word_new_line_5 | welcome
 rely
 memory
 force
 rebuild |  
-| bip_39_word_new_line6 | welcome
+| bip_39_word_new_line_6 | welcome
 rely
 memory
 force
 rebuild
 dog |  
-| bip_39_word_new_line7 | welcome
+| bip_39_word_new_line_7 | welcome
 rely
 memory
 force
 rebuild
 dog
 ship |  
-| bip_39_word_new_line8 | welcome
+| bip_39_word_new_line_8 | welcome
 rely
 memory
 force
@@ -113,7 +113,7 @@ rebuild
 dog
 ship
 fetch |  
-| bip_39_word_new_line9 | welcome
+| bip_39_word_new_line_9 | welcome
 rely
 memory
 force

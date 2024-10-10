@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | result |  
-| bip_39_word_new_br10 | result<br>action<br>return<br>machine<br>screen<br>fiction<br>plastic<br>retreat<br>buzz<br>pepper |  
-| bip_39_word_new_br11 | result<br>action<br>return<br>machine<br>screen<br>fiction<br>plastic<br>retreat<br>buzz<br>pepper<br>shed |  
-| bip_39_word_new_br12 | result<br>action<br>return<br>machine<br>screen<br>fiction<br>plastic<br>retreat<br>buzz<br>pepper<br>shed<br>anger |  
-| bip_39_word_new_br2 | result<br>action |  
-| bip_39_word_new_br3 | result<br>action<br>return |  
-| bip_39_word_new_br4 | result<br>action<br>return<br>machine |  
-| bip_39_word_new_br5 | result<br>action<br>return<br>machine<br>screen |  
-| bip_39_word_new_br6 | result<br>action<br>return<br>machine<br>screen<br>fiction |  
-| bip_39_word_new_br7 | result<br>action<br>return<br>machine<br>screen<br>fiction<br>plastic |  
-| bip_39_word_new_br8 | result<br>action<br>return<br>machine<br>screen<br>fiction<br>plastic<br>retreat |  
-| bip_39_word_new_br9 | result<br>action<br>return<br>machine<br>screen<br>fiction<br>plastic<br>retreat<br>buzz |  
-| bip_39_word_new_line1 | result |  
-| bip_39_word_new_line10 | result
+| bip_39_word_new_br_1 | result |  
+| bip_39_word_new_br_10 | result<br>action<br>return<br>machine<br>screen<br>fiction<br>plastic<br>retreat<br>buzz<br>pepper |  
+| bip_39_word_new_br_11 | result<br>action<br>return<br>machine<br>screen<br>fiction<br>plastic<br>retreat<br>buzz<br>pepper<br>shed |  
+| bip_39_word_new_br_12 | result<br>action<br>return<br>machine<br>screen<br>fiction<br>plastic<br>retreat<br>buzz<br>pepper<br>shed<br>anger |  
+| bip_39_word_new_br_2 | result<br>action |  
+| bip_39_word_new_br_3 | result<br>action<br>return |  
+| bip_39_word_new_br_4 | result<br>action<br>return<br>machine |  
+| bip_39_word_new_br_5 | result<br>action<br>return<br>machine<br>screen |  
+| bip_39_word_new_br_6 | result<br>action<br>return<br>machine<br>screen<br>fiction |  
+| bip_39_word_new_br_7 | result<br>action<br>return<br>machine<br>screen<br>fiction<br>plastic |  
+| bip_39_word_new_br_8 | result<br>action<br>return<br>machine<br>screen<br>fiction<br>plastic<br>retreat |  
+| bip_39_word_new_br_9 | result<br>action<br>return<br>machine<br>screen<br>fiction<br>plastic<br>retreat<br>buzz |  
+| bip_39_word_new_line_1 | result |  
+| bip_39_word_new_line_10 | result
 action
 return
 machine
@@ -55,7 +55,7 @@ plastic
 retreat
 buzz
 pepper |  
-| bip_39_word_new_line11 | result
+| bip_39_word_new_line_11 | result
 action
 return
 machine
@@ -66,7 +66,7 @@ retreat
 buzz
 pepper
 shed |  
-| bip_39_word_new_line12 | result
+| bip_39_word_new_line_12 | result
 action
 return
 machine
@@ -78,34 +78,34 @@ buzz
 pepper
 shed
 anger |  
-| bip_39_word_new_line2 | result
+| bip_39_word_new_line_2 | result
 action |  
-| bip_39_word_new_line3 | result
+| bip_39_word_new_line_3 | result
 action
 return |  
-| bip_39_word_new_line4 | result
+| bip_39_word_new_line_4 | result
 action
 return
 machine |  
-| bip_39_word_new_line5 | result
+| bip_39_word_new_line_5 | result
 action
 return
 machine
 screen |  
-| bip_39_word_new_line6 | result
+| bip_39_word_new_line_6 | result
 action
 return
 machine
 screen
 fiction |  
-| bip_39_word_new_line7 | result
+| bip_39_word_new_line_7 | result
 action
 return
 machine
 screen
 fiction
 plastic |  
-| bip_39_word_new_line8 | result
+| bip_39_word_new_line_8 | result
 action
 return
 machine
@@ -113,7 +113,7 @@ screen
 fiction
 plastic
 retreat |  
-| bip_39_word_new_line9 | result
+| bip_39_word_new_line_9 | result
 action
 return
 machine

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | easy |  
-| bip_39_word_new_br10 | easy<br>donor<br>notice<br>swarm<br>rescue<br>accuse<br>stable<br>account<br>trash<br>rug |  
-| bip_39_word_new_br11 | easy<br>donor<br>notice<br>swarm<br>rescue<br>accuse<br>stable<br>account<br>trash<br>rug<br>dolphin |  
-| bip_39_word_new_br12 | easy<br>donor<br>notice<br>swarm<br>rescue<br>accuse<br>stable<br>account<br>trash<br>rug<br>dolphin<br>apart |  
-| bip_39_word_new_br2 | easy<br>donor |  
-| bip_39_word_new_br3 | easy<br>donor<br>notice |  
-| bip_39_word_new_br4 | easy<br>donor<br>notice<br>swarm |  
-| bip_39_word_new_br5 | easy<br>donor<br>notice<br>swarm<br>rescue |  
-| bip_39_word_new_br6 | easy<br>donor<br>notice<br>swarm<br>rescue<br>accuse |  
-| bip_39_word_new_br7 | easy<br>donor<br>notice<br>swarm<br>rescue<br>accuse<br>stable |  
-| bip_39_word_new_br8 | easy<br>donor<br>notice<br>swarm<br>rescue<br>accuse<br>stable<br>account |  
-| bip_39_word_new_br9 | easy<br>donor<br>notice<br>swarm<br>rescue<br>accuse<br>stable<br>account<br>trash |  
-| bip_39_word_new_line1 | easy |  
-| bip_39_word_new_line10 | easy
+| bip_39_word_new_br_1 | easy |  
+| bip_39_word_new_br_10 | easy<br>donor<br>notice<br>swarm<br>rescue<br>accuse<br>stable<br>account<br>trash<br>rug |  
+| bip_39_word_new_br_11 | easy<br>donor<br>notice<br>swarm<br>rescue<br>accuse<br>stable<br>account<br>trash<br>rug<br>dolphin |  
+| bip_39_word_new_br_12 | easy<br>donor<br>notice<br>swarm<br>rescue<br>accuse<br>stable<br>account<br>trash<br>rug<br>dolphin<br>apart |  
+| bip_39_word_new_br_2 | easy<br>donor |  
+| bip_39_word_new_br_3 | easy<br>donor<br>notice |  
+| bip_39_word_new_br_4 | easy<br>donor<br>notice<br>swarm |  
+| bip_39_word_new_br_5 | easy<br>donor<br>notice<br>swarm<br>rescue |  
+| bip_39_word_new_br_6 | easy<br>donor<br>notice<br>swarm<br>rescue<br>accuse |  
+| bip_39_word_new_br_7 | easy<br>donor<br>notice<br>swarm<br>rescue<br>accuse<br>stable |  
+| bip_39_word_new_br_8 | easy<br>donor<br>notice<br>swarm<br>rescue<br>accuse<br>stable<br>account |  
+| bip_39_word_new_br_9 | easy<br>donor<br>notice<br>swarm<br>rescue<br>accuse<br>stable<br>account<br>trash |  
+| bip_39_word_new_line_1 | easy |  
+| bip_39_word_new_line_10 | easy
 donor
 notice
 swarm
@@ -55,7 +55,7 @@ stable
 account
 trash
 rug |  
-| bip_39_word_new_line11 | easy
+| bip_39_word_new_line_11 | easy
 donor
 notice
 swarm
@@ -66,7 +66,7 @@ account
 trash
 rug
 dolphin |  
-| bip_39_word_new_line12 | easy
+| bip_39_word_new_line_12 | easy
 donor
 notice
 swarm
@@ -78,34 +78,34 @@ trash
 rug
 dolphin
 apart |  
-| bip_39_word_new_line2 | easy
+| bip_39_word_new_line_2 | easy
 donor |  
-| bip_39_word_new_line3 | easy
+| bip_39_word_new_line_3 | easy
 donor
 notice |  
-| bip_39_word_new_line4 | easy
+| bip_39_word_new_line_4 | easy
 donor
 notice
 swarm |  
-| bip_39_word_new_line5 | easy
+| bip_39_word_new_line_5 | easy
 donor
 notice
 swarm
 rescue |  
-| bip_39_word_new_line6 | easy
+| bip_39_word_new_line_6 | easy
 donor
 notice
 swarm
 rescue
 accuse |  
-| bip_39_word_new_line7 | easy
+| bip_39_word_new_line_7 | easy
 donor
 notice
 swarm
 rescue
 accuse
 stable |  
-| bip_39_word_new_line8 | easy
+| bip_39_word_new_line_8 | easy
 donor
 notice
 swarm
@@ -113,7 +113,7 @@ rescue
 accuse
 stable
 account |  
-| bip_39_word_new_line9 | easy
+| bip_39_word_new_line_9 | easy
 donor
 notice
 swarm

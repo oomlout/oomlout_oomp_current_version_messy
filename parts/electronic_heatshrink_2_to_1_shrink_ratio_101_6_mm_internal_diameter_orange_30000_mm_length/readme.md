@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | enforce |  
-| bip_39_word_new_br10 | enforce<br>account<br>grief<br>first<br>silent<br>zone<br>pear<br>letter<br>boat<br>dash |  
-| bip_39_word_new_br11 | enforce<br>account<br>grief<br>first<br>silent<br>zone<br>pear<br>letter<br>boat<br>dash<br>trouble |  
-| bip_39_word_new_br12 | enforce<br>account<br>grief<br>first<br>silent<br>zone<br>pear<br>letter<br>boat<br>dash<br>trouble<br>avocado |  
-| bip_39_word_new_br2 | enforce<br>account |  
-| bip_39_word_new_br3 | enforce<br>account<br>grief |  
-| bip_39_word_new_br4 | enforce<br>account<br>grief<br>first |  
-| bip_39_word_new_br5 | enforce<br>account<br>grief<br>first<br>silent |  
-| bip_39_word_new_br6 | enforce<br>account<br>grief<br>first<br>silent<br>zone |  
-| bip_39_word_new_br7 | enforce<br>account<br>grief<br>first<br>silent<br>zone<br>pear |  
-| bip_39_word_new_br8 | enforce<br>account<br>grief<br>first<br>silent<br>zone<br>pear<br>letter |  
-| bip_39_word_new_br9 | enforce<br>account<br>grief<br>first<br>silent<br>zone<br>pear<br>letter<br>boat |  
-| bip_39_word_new_line1 | enforce |  
-| bip_39_word_new_line10 | enforce
+| bip_39_word_new_br_1 | enforce |  
+| bip_39_word_new_br_10 | enforce<br>account<br>grief<br>first<br>silent<br>zone<br>pear<br>letter<br>boat<br>dash |  
+| bip_39_word_new_br_11 | enforce<br>account<br>grief<br>first<br>silent<br>zone<br>pear<br>letter<br>boat<br>dash<br>trouble |  
+| bip_39_word_new_br_12 | enforce<br>account<br>grief<br>first<br>silent<br>zone<br>pear<br>letter<br>boat<br>dash<br>trouble<br>avocado |  
+| bip_39_word_new_br_2 | enforce<br>account |  
+| bip_39_word_new_br_3 | enforce<br>account<br>grief |  
+| bip_39_word_new_br_4 | enforce<br>account<br>grief<br>first |  
+| bip_39_word_new_br_5 | enforce<br>account<br>grief<br>first<br>silent |  
+| bip_39_word_new_br_6 | enforce<br>account<br>grief<br>first<br>silent<br>zone |  
+| bip_39_word_new_br_7 | enforce<br>account<br>grief<br>first<br>silent<br>zone<br>pear |  
+| bip_39_word_new_br_8 | enforce<br>account<br>grief<br>first<br>silent<br>zone<br>pear<br>letter |  
+| bip_39_word_new_br_9 | enforce<br>account<br>grief<br>first<br>silent<br>zone<br>pear<br>letter<br>boat |  
+| bip_39_word_new_line_1 | enforce |  
+| bip_39_word_new_line_10 | enforce
 account
 grief
 first
@@ -55,7 +55,7 @@ pear
 letter
 boat
 dash |  
-| bip_39_word_new_line11 | enforce
+| bip_39_word_new_line_11 | enforce
 account
 grief
 first
@@ -66,7 +66,7 @@ letter
 boat
 dash
 trouble |  
-| bip_39_word_new_line12 | enforce
+| bip_39_word_new_line_12 | enforce
 account
 grief
 first
@@ -78,34 +78,34 @@ boat
 dash
 trouble
 avocado |  
-| bip_39_word_new_line2 | enforce
+| bip_39_word_new_line_2 | enforce
 account |  
-| bip_39_word_new_line3 | enforce
+| bip_39_word_new_line_3 | enforce
 account
 grief |  
-| bip_39_word_new_line4 | enforce
+| bip_39_word_new_line_4 | enforce
 account
 grief
 first |  
-| bip_39_word_new_line5 | enforce
+| bip_39_word_new_line_5 | enforce
 account
 grief
 first
 silent |  
-| bip_39_word_new_line6 | enforce
+| bip_39_word_new_line_6 | enforce
 account
 grief
 first
 silent
 zone |  
-| bip_39_word_new_line7 | enforce
+| bip_39_word_new_line_7 | enforce
 account
 grief
 first
 silent
 zone
 pear |  
-| bip_39_word_new_line8 | enforce
+| bip_39_word_new_line_8 | enforce
 account
 grief
 first
@@ -113,7 +113,7 @@ silent
 zone
 pear
 letter |  
-| bip_39_word_new_line9 | enforce
+| bip_39_word_new_line_9 | enforce
 account
 grief
 first

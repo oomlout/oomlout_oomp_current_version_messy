@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | supply |  
-| bip_39_word_new_br10 | supply<br>tuna<br>panic<br>youth<br>fan<br>leg<br>vicious<br>shaft<br>journey<br>matter |  
-| bip_39_word_new_br11 | supply<br>tuna<br>panic<br>youth<br>fan<br>leg<br>vicious<br>shaft<br>journey<br>matter<br>coast |  
-| bip_39_word_new_br12 | supply<br>tuna<br>panic<br>youth<br>fan<br>leg<br>vicious<br>shaft<br>journey<br>matter<br>coast<br>album |  
-| bip_39_word_new_br2 | supply<br>tuna |  
-| bip_39_word_new_br3 | supply<br>tuna<br>panic |  
-| bip_39_word_new_br4 | supply<br>tuna<br>panic<br>youth |  
-| bip_39_word_new_br5 | supply<br>tuna<br>panic<br>youth<br>fan |  
-| bip_39_word_new_br6 | supply<br>tuna<br>panic<br>youth<br>fan<br>leg |  
-| bip_39_word_new_br7 | supply<br>tuna<br>panic<br>youth<br>fan<br>leg<br>vicious |  
-| bip_39_word_new_br8 | supply<br>tuna<br>panic<br>youth<br>fan<br>leg<br>vicious<br>shaft |  
-| bip_39_word_new_br9 | supply<br>tuna<br>panic<br>youth<br>fan<br>leg<br>vicious<br>shaft<br>journey |  
-| bip_39_word_new_line1 | supply |  
-| bip_39_word_new_line10 | supply
+| bip_39_word_new_br_1 | supply |  
+| bip_39_word_new_br_10 | supply<br>tuna<br>panic<br>youth<br>fan<br>leg<br>vicious<br>shaft<br>journey<br>matter |  
+| bip_39_word_new_br_11 | supply<br>tuna<br>panic<br>youth<br>fan<br>leg<br>vicious<br>shaft<br>journey<br>matter<br>coast |  
+| bip_39_word_new_br_12 | supply<br>tuna<br>panic<br>youth<br>fan<br>leg<br>vicious<br>shaft<br>journey<br>matter<br>coast<br>album |  
+| bip_39_word_new_br_2 | supply<br>tuna |  
+| bip_39_word_new_br_3 | supply<br>tuna<br>panic |  
+| bip_39_word_new_br_4 | supply<br>tuna<br>panic<br>youth |  
+| bip_39_word_new_br_5 | supply<br>tuna<br>panic<br>youth<br>fan |  
+| bip_39_word_new_br_6 | supply<br>tuna<br>panic<br>youth<br>fan<br>leg |  
+| bip_39_word_new_br_7 | supply<br>tuna<br>panic<br>youth<br>fan<br>leg<br>vicious |  
+| bip_39_word_new_br_8 | supply<br>tuna<br>panic<br>youth<br>fan<br>leg<br>vicious<br>shaft |  
+| bip_39_word_new_br_9 | supply<br>tuna<br>panic<br>youth<br>fan<br>leg<br>vicious<br>shaft<br>journey |  
+| bip_39_word_new_line_1 | supply |  
+| bip_39_word_new_line_10 | supply
 tuna
 panic
 youth
@@ -55,7 +55,7 @@ vicious
 shaft
 journey
 matter |  
-| bip_39_word_new_line11 | supply
+| bip_39_word_new_line_11 | supply
 tuna
 panic
 youth
@@ -66,7 +66,7 @@ shaft
 journey
 matter
 coast |  
-| bip_39_word_new_line12 | supply
+| bip_39_word_new_line_12 | supply
 tuna
 panic
 youth
@@ -78,34 +78,34 @@ journey
 matter
 coast
 album |  
-| bip_39_word_new_line2 | supply
+| bip_39_word_new_line_2 | supply
 tuna |  
-| bip_39_word_new_line3 | supply
+| bip_39_word_new_line_3 | supply
 tuna
 panic |  
-| bip_39_word_new_line4 | supply
+| bip_39_word_new_line_4 | supply
 tuna
 panic
 youth |  
-| bip_39_word_new_line5 | supply
+| bip_39_word_new_line_5 | supply
 tuna
 panic
 youth
 fan |  
-| bip_39_word_new_line6 | supply
+| bip_39_word_new_line_6 | supply
 tuna
 panic
 youth
 fan
 leg |  
-| bip_39_word_new_line7 | supply
+| bip_39_word_new_line_7 | supply
 tuna
 panic
 youth
 fan
 leg
 vicious |  
-| bip_39_word_new_line8 | supply
+| bip_39_word_new_line_8 | supply
 tuna
 panic
 youth
@@ -113,7 +113,7 @@ fan
 leg
 vicious
 shaft |  
-| bip_39_word_new_line9 | supply
+| bip_39_word_new_line_9 | supply
 tuna
 panic
 youth

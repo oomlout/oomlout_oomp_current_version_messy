@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | better |  
-| bip_39_word_new_br10 | better<br>token<br>prize<br>census<br>response<br>proof<br>jar<br>pyramid<br>lawn<br>provide |  
-| bip_39_word_new_br11 | better<br>token<br>prize<br>census<br>response<br>proof<br>jar<br>pyramid<br>lawn<br>provide<br>close |  
-| bip_39_word_new_br12 | better<br>token<br>prize<br>census<br>response<br>proof<br>jar<br>pyramid<br>lawn<br>provide<br>close<br>arm |  
-| bip_39_word_new_br2 | better<br>token |  
-| bip_39_word_new_br3 | better<br>token<br>prize |  
-| bip_39_word_new_br4 | better<br>token<br>prize<br>census |  
-| bip_39_word_new_br5 | better<br>token<br>prize<br>census<br>response |  
-| bip_39_word_new_br6 | better<br>token<br>prize<br>census<br>response<br>proof |  
-| bip_39_word_new_br7 | better<br>token<br>prize<br>census<br>response<br>proof<br>jar |  
-| bip_39_word_new_br8 | better<br>token<br>prize<br>census<br>response<br>proof<br>jar<br>pyramid |  
-| bip_39_word_new_br9 | better<br>token<br>prize<br>census<br>response<br>proof<br>jar<br>pyramid<br>lawn |  
-| bip_39_word_new_line1 | better |  
-| bip_39_word_new_line10 | better
+| bip_39_word_new_br_1 | better |  
+| bip_39_word_new_br_10 | better<br>token<br>prize<br>census<br>response<br>proof<br>jar<br>pyramid<br>lawn<br>provide |  
+| bip_39_word_new_br_11 | better<br>token<br>prize<br>census<br>response<br>proof<br>jar<br>pyramid<br>lawn<br>provide<br>close |  
+| bip_39_word_new_br_12 | better<br>token<br>prize<br>census<br>response<br>proof<br>jar<br>pyramid<br>lawn<br>provide<br>close<br>arm |  
+| bip_39_word_new_br_2 | better<br>token |  
+| bip_39_word_new_br_3 | better<br>token<br>prize |  
+| bip_39_word_new_br_4 | better<br>token<br>prize<br>census |  
+| bip_39_word_new_br_5 | better<br>token<br>prize<br>census<br>response |  
+| bip_39_word_new_br_6 | better<br>token<br>prize<br>census<br>response<br>proof |  
+| bip_39_word_new_br_7 | better<br>token<br>prize<br>census<br>response<br>proof<br>jar |  
+| bip_39_word_new_br_8 | better<br>token<br>prize<br>census<br>response<br>proof<br>jar<br>pyramid |  
+| bip_39_word_new_br_9 | better<br>token<br>prize<br>census<br>response<br>proof<br>jar<br>pyramid<br>lawn |  
+| bip_39_word_new_line_1 | better |  
+| bip_39_word_new_line_10 | better
 token
 prize
 census
@@ -55,7 +55,7 @@ jar
 pyramid
 lawn
 provide |  
-| bip_39_word_new_line11 | better
+| bip_39_word_new_line_11 | better
 token
 prize
 census
@@ -66,7 +66,7 @@ pyramid
 lawn
 provide
 close |  
-| bip_39_word_new_line12 | better
+| bip_39_word_new_line_12 | better
 token
 prize
 census
@@ -78,34 +78,34 @@ lawn
 provide
 close
 arm |  
-| bip_39_word_new_line2 | better
+| bip_39_word_new_line_2 | better
 token |  
-| bip_39_word_new_line3 | better
+| bip_39_word_new_line_3 | better
 token
 prize |  
-| bip_39_word_new_line4 | better
+| bip_39_word_new_line_4 | better
 token
 prize
 census |  
-| bip_39_word_new_line5 | better
+| bip_39_word_new_line_5 | better
 token
 prize
 census
 response |  
-| bip_39_word_new_line6 | better
+| bip_39_word_new_line_6 | better
 token
 prize
 census
 response
 proof |  
-| bip_39_word_new_line7 | better
+| bip_39_word_new_line_7 | better
 token
 prize
 census
 response
 proof
 jar |  
-| bip_39_word_new_line8 | better
+| bip_39_word_new_line_8 | better
 token
 prize
 census
@@ -113,7 +113,7 @@ response
 proof
 jar
 pyramid |  
-| bip_39_word_new_line9 | better
+| bip_39_word_new_line_9 | better
 token
 prize
 census

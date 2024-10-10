@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | illegal |  
-| bip_39_word_new_br10 | illegal<br>rug<br>wedding<br>emerge<br>pencil<br>rule<br>obtain<br>tide<br>replace<br>ketchup |  
-| bip_39_word_new_br11 | illegal<br>rug<br>wedding<br>emerge<br>pencil<br>rule<br>obtain<br>tide<br>replace<br>ketchup<br>champion |  
-| bip_39_word_new_br12 | illegal<br>rug<br>wedding<br>emerge<br>pencil<br>rule<br>obtain<br>tide<br>replace<br>ketchup<br>champion<br>air |  
-| bip_39_word_new_br2 | illegal<br>rug |  
-| bip_39_word_new_br3 | illegal<br>rug<br>wedding |  
-| bip_39_word_new_br4 | illegal<br>rug<br>wedding<br>emerge |  
-| bip_39_word_new_br5 | illegal<br>rug<br>wedding<br>emerge<br>pencil |  
-| bip_39_word_new_br6 | illegal<br>rug<br>wedding<br>emerge<br>pencil<br>rule |  
-| bip_39_word_new_br7 | illegal<br>rug<br>wedding<br>emerge<br>pencil<br>rule<br>obtain |  
-| bip_39_word_new_br8 | illegal<br>rug<br>wedding<br>emerge<br>pencil<br>rule<br>obtain<br>tide |  
-| bip_39_word_new_br9 | illegal<br>rug<br>wedding<br>emerge<br>pencil<br>rule<br>obtain<br>tide<br>replace |  
-| bip_39_word_new_line1 | illegal |  
-| bip_39_word_new_line10 | illegal
+| bip_39_word_new_br_1 | illegal |  
+| bip_39_word_new_br_10 | illegal<br>rug<br>wedding<br>emerge<br>pencil<br>rule<br>obtain<br>tide<br>replace<br>ketchup |  
+| bip_39_word_new_br_11 | illegal<br>rug<br>wedding<br>emerge<br>pencil<br>rule<br>obtain<br>tide<br>replace<br>ketchup<br>champion |  
+| bip_39_word_new_br_12 | illegal<br>rug<br>wedding<br>emerge<br>pencil<br>rule<br>obtain<br>tide<br>replace<br>ketchup<br>champion<br>air |  
+| bip_39_word_new_br_2 | illegal<br>rug |  
+| bip_39_word_new_br_3 | illegal<br>rug<br>wedding |  
+| bip_39_word_new_br_4 | illegal<br>rug<br>wedding<br>emerge |  
+| bip_39_word_new_br_5 | illegal<br>rug<br>wedding<br>emerge<br>pencil |  
+| bip_39_word_new_br_6 | illegal<br>rug<br>wedding<br>emerge<br>pencil<br>rule |  
+| bip_39_word_new_br_7 | illegal<br>rug<br>wedding<br>emerge<br>pencil<br>rule<br>obtain |  
+| bip_39_word_new_br_8 | illegal<br>rug<br>wedding<br>emerge<br>pencil<br>rule<br>obtain<br>tide |  
+| bip_39_word_new_br_9 | illegal<br>rug<br>wedding<br>emerge<br>pencil<br>rule<br>obtain<br>tide<br>replace |  
+| bip_39_word_new_line_1 | illegal |  
+| bip_39_word_new_line_10 | illegal
 rug
 wedding
 emerge
@@ -55,7 +55,7 @@ obtain
 tide
 replace
 ketchup |  
-| bip_39_word_new_line11 | illegal
+| bip_39_word_new_line_11 | illegal
 rug
 wedding
 emerge
@@ -66,7 +66,7 @@ tide
 replace
 ketchup
 champion |  
-| bip_39_word_new_line12 | illegal
+| bip_39_word_new_line_12 | illegal
 rug
 wedding
 emerge
@@ -78,34 +78,34 @@ replace
 ketchup
 champion
 air |  
-| bip_39_word_new_line2 | illegal
+| bip_39_word_new_line_2 | illegal
 rug |  
-| bip_39_word_new_line3 | illegal
+| bip_39_word_new_line_3 | illegal
 rug
 wedding |  
-| bip_39_word_new_line4 | illegal
+| bip_39_word_new_line_4 | illegal
 rug
 wedding
 emerge |  
-| bip_39_word_new_line5 | illegal
+| bip_39_word_new_line_5 | illegal
 rug
 wedding
 emerge
 pencil |  
-| bip_39_word_new_line6 | illegal
+| bip_39_word_new_line_6 | illegal
 rug
 wedding
 emerge
 pencil
 rule |  
-| bip_39_word_new_line7 | illegal
+| bip_39_word_new_line_7 | illegal
 rug
 wedding
 emerge
 pencil
 rule
 obtain |  
-| bip_39_word_new_line8 | illegal
+| bip_39_word_new_line_8 | illegal
 rug
 wedding
 emerge
@@ -113,7 +113,7 @@ pencil
 rule
 obtain
 tide |  
-| bip_39_word_new_line9 | illegal
+| bip_39_word_new_line_9 | illegal
 rug
 wedding
 emerge

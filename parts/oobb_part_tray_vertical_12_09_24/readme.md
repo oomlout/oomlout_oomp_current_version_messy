@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | tail |  
-| bip_39_word_new_br10 | tail<br>cat<br>hawk<br>traffic<br>couple<br>silly<br>habit<br>reason<br>actual<br>begin |  
-| bip_39_word_new_br11 | tail<br>cat<br>hawk<br>traffic<br>couple<br>silly<br>habit<br>reason<br>actual<br>begin<br>little |  
-| bip_39_word_new_br12 | tail<br>cat<br>hawk<br>traffic<br>couple<br>silly<br>habit<br>reason<br>actual<br>begin<br>little<br>acid |  
-| bip_39_word_new_br2 | tail<br>cat |  
-| bip_39_word_new_br3 | tail<br>cat<br>hawk |  
-| bip_39_word_new_br4 | tail<br>cat<br>hawk<br>traffic |  
-| bip_39_word_new_br5 | tail<br>cat<br>hawk<br>traffic<br>couple |  
-| bip_39_word_new_br6 | tail<br>cat<br>hawk<br>traffic<br>couple<br>silly |  
-| bip_39_word_new_br7 | tail<br>cat<br>hawk<br>traffic<br>couple<br>silly<br>habit |  
-| bip_39_word_new_br8 | tail<br>cat<br>hawk<br>traffic<br>couple<br>silly<br>habit<br>reason |  
-| bip_39_word_new_br9 | tail<br>cat<br>hawk<br>traffic<br>couple<br>silly<br>habit<br>reason<br>actual |  
-| bip_39_word_new_line1 | tail |  
-| bip_39_word_new_line10 | tail
+| bip_39_word_new_br_1 | tail |  
+| bip_39_word_new_br_10 | tail<br>cat<br>hawk<br>traffic<br>couple<br>silly<br>habit<br>reason<br>actual<br>begin |  
+| bip_39_word_new_br_11 | tail<br>cat<br>hawk<br>traffic<br>couple<br>silly<br>habit<br>reason<br>actual<br>begin<br>little |  
+| bip_39_word_new_br_12 | tail<br>cat<br>hawk<br>traffic<br>couple<br>silly<br>habit<br>reason<br>actual<br>begin<br>little<br>acid |  
+| bip_39_word_new_br_2 | tail<br>cat |  
+| bip_39_word_new_br_3 | tail<br>cat<br>hawk |  
+| bip_39_word_new_br_4 | tail<br>cat<br>hawk<br>traffic |  
+| bip_39_word_new_br_5 | tail<br>cat<br>hawk<br>traffic<br>couple |  
+| bip_39_word_new_br_6 | tail<br>cat<br>hawk<br>traffic<br>couple<br>silly |  
+| bip_39_word_new_br_7 | tail<br>cat<br>hawk<br>traffic<br>couple<br>silly<br>habit |  
+| bip_39_word_new_br_8 | tail<br>cat<br>hawk<br>traffic<br>couple<br>silly<br>habit<br>reason |  
+| bip_39_word_new_br_9 | tail<br>cat<br>hawk<br>traffic<br>couple<br>silly<br>habit<br>reason<br>actual |  
+| bip_39_word_new_line_1 | tail |  
+| bip_39_word_new_line_10 | tail
 cat
 hawk
 traffic
@@ -55,7 +55,7 @@ habit
 reason
 actual
 begin |  
-| bip_39_word_new_line11 | tail
+| bip_39_word_new_line_11 | tail
 cat
 hawk
 traffic
@@ -66,7 +66,7 @@ reason
 actual
 begin
 little |  
-| bip_39_word_new_line12 | tail
+| bip_39_word_new_line_12 | tail
 cat
 hawk
 traffic
@@ -78,34 +78,34 @@ actual
 begin
 little
 acid |  
-| bip_39_word_new_line2 | tail
+| bip_39_word_new_line_2 | tail
 cat |  
-| bip_39_word_new_line3 | tail
+| bip_39_word_new_line_3 | tail
 cat
 hawk |  
-| bip_39_word_new_line4 | tail
+| bip_39_word_new_line_4 | tail
 cat
 hawk
 traffic |  
-| bip_39_word_new_line5 | tail
+| bip_39_word_new_line_5 | tail
 cat
 hawk
 traffic
 couple |  
-| bip_39_word_new_line6 | tail
+| bip_39_word_new_line_6 | tail
 cat
 hawk
 traffic
 couple
 silly |  
-| bip_39_word_new_line7 | tail
+| bip_39_word_new_line_7 | tail
 cat
 hawk
 traffic
 couple
 silly
 habit |  
-| bip_39_word_new_line8 | tail
+| bip_39_word_new_line_8 | tail
 cat
 hawk
 traffic
@@ -113,7 +113,7 @@ couple
 silly
 habit
 reason |  
-| bip_39_word_new_line9 | tail
+| bip_39_word_new_line_9 | tail
 cat
 hawk
 traffic

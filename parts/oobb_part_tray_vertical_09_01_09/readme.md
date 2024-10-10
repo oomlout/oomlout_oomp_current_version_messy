@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | very |  
-| bip_39_word_new_br10 | very<br>barrel<br>sail<br>egg<br>obtain<br>gesture<br>jar<br>recycle<br>pencil<br>shop |  
-| bip_39_word_new_br11 | very<br>barrel<br>sail<br>egg<br>obtain<br>gesture<br>jar<br>recycle<br>pencil<br>shop<br>camp |  
-| bip_39_word_new_br12 | very<br>barrel<br>sail<br>egg<br>obtain<br>gesture<br>jar<br>recycle<br>pencil<br>shop<br>camp<br>afford |  
-| bip_39_word_new_br2 | very<br>barrel |  
-| bip_39_word_new_br3 | very<br>barrel<br>sail |  
-| bip_39_word_new_br4 | very<br>barrel<br>sail<br>egg |  
-| bip_39_word_new_br5 | very<br>barrel<br>sail<br>egg<br>obtain |  
-| bip_39_word_new_br6 | very<br>barrel<br>sail<br>egg<br>obtain<br>gesture |  
-| bip_39_word_new_br7 | very<br>barrel<br>sail<br>egg<br>obtain<br>gesture<br>jar |  
-| bip_39_word_new_br8 | very<br>barrel<br>sail<br>egg<br>obtain<br>gesture<br>jar<br>recycle |  
-| bip_39_word_new_br9 | very<br>barrel<br>sail<br>egg<br>obtain<br>gesture<br>jar<br>recycle<br>pencil |  
-| bip_39_word_new_line1 | very |  
-| bip_39_word_new_line10 | very
+| bip_39_word_new_br_1 | very |  
+| bip_39_word_new_br_10 | very<br>barrel<br>sail<br>egg<br>obtain<br>gesture<br>jar<br>recycle<br>pencil<br>shop |  
+| bip_39_word_new_br_11 | very<br>barrel<br>sail<br>egg<br>obtain<br>gesture<br>jar<br>recycle<br>pencil<br>shop<br>camp |  
+| bip_39_word_new_br_12 | very<br>barrel<br>sail<br>egg<br>obtain<br>gesture<br>jar<br>recycle<br>pencil<br>shop<br>camp<br>afford |  
+| bip_39_word_new_br_2 | very<br>barrel |  
+| bip_39_word_new_br_3 | very<br>barrel<br>sail |  
+| bip_39_word_new_br_4 | very<br>barrel<br>sail<br>egg |  
+| bip_39_word_new_br_5 | very<br>barrel<br>sail<br>egg<br>obtain |  
+| bip_39_word_new_br_6 | very<br>barrel<br>sail<br>egg<br>obtain<br>gesture |  
+| bip_39_word_new_br_7 | very<br>barrel<br>sail<br>egg<br>obtain<br>gesture<br>jar |  
+| bip_39_word_new_br_8 | very<br>barrel<br>sail<br>egg<br>obtain<br>gesture<br>jar<br>recycle |  
+| bip_39_word_new_br_9 | very<br>barrel<br>sail<br>egg<br>obtain<br>gesture<br>jar<br>recycle<br>pencil |  
+| bip_39_word_new_line_1 | very |  
+| bip_39_word_new_line_10 | very
 barrel
 sail
 egg
@@ -55,7 +55,7 @@ jar
 recycle
 pencil
 shop |  
-| bip_39_word_new_line11 | very
+| bip_39_word_new_line_11 | very
 barrel
 sail
 egg
@@ -66,7 +66,7 @@ recycle
 pencil
 shop
 camp |  
-| bip_39_word_new_line12 | very
+| bip_39_word_new_line_12 | very
 barrel
 sail
 egg
@@ -78,34 +78,34 @@ pencil
 shop
 camp
 afford |  
-| bip_39_word_new_line2 | very
+| bip_39_word_new_line_2 | very
 barrel |  
-| bip_39_word_new_line3 | very
+| bip_39_word_new_line_3 | very
 barrel
 sail |  
-| bip_39_word_new_line4 | very
+| bip_39_word_new_line_4 | very
 barrel
 sail
 egg |  
-| bip_39_word_new_line5 | very
+| bip_39_word_new_line_5 | very
 barrel
 sail
 egg
 obtain |  
-| bip_39_word_new_line6 | very
+| bip_39_word_new_line_6 | very
 barrel
 sail
 egg
 obtain
 gesture |  
-| bip_39_word_new_line7 | very
+| bip_39_word_new_line_7 | very
 barrel
 sail
 egg
 obtain
 gesture
 jar |  
-| bip_39_word_new_line8 | very
+| bip_39_word_new_line_8 | very
 barrel
 sail
 egg
@@ -113,7 +113,7 @@ obtain
 gesture
 jar
 recycle |  
-| bip_39_word_new_line9 | very
+| bip_39_word_new_line_9 | very
 barrel
 sail
 egg

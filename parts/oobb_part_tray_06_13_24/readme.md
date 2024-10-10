@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | decline |  
-| bip_39_word_new_br10 | decline<br>swamp<br>toast<br>scene<br>tooth<br>hope<br>sea<br>book<br>cover<br>caution |  
-| bip_39_word_new_br11 | decline<br>swamp<br>toast<br>scene<br>tooth<br>hope<br>sea<br>book<br>cover<br>caution<br>gesture |  
-| bip_39_word_new_br12 | decline<br>swamp<br>toast<br>scene<br>tooth<br>hope<br>sea<br>book<br>cover<br>caution<br>gesture<br>amused |  
-| bip_39_word_new_br2 | decline<br>swamp |  
-| bip_39_word_new_br3 | decline<br>swamp<br>toast |  
-| bip_39_word_new_br4 | decline<br>swamp<br>toast<br>scene |  
-| bip_39_word_new_br5 | decline<br>swamp<br>toast<br>scene<br>tooth |  
-| bip_39_word_new_br6 | decline<br>swamp<br>toast<br>scene<br>tooth<br>hope |  
-| bip_39_word_new_br7 | decline<br>swamp<br>toast<br>scene<br>tooth<br>hope<br>sea |  
-| bip_39_word_new_br8 | decline<br>swamp<br>toast<br>scene<br>tooth<br>hope<br>sea<br>book |  
-| bip_39_word_new_br9 | decline<br>swamp<br>toast<br>scene<br>tooth<br>hope<br>sea<br>book<br>cover |  
-| bip_39_word_new_line1 | decline |  
-| bip_39_word_new_line10 | decline
+| bip_39_word_new_br_1 | decline |  
+| bip_39_word_new_br_10 | decline<br>swamp<br>toast<br>scene<br>tooth<br>hope<br>sea<br>book<br>cover<br>caution |  
+| bip_39_word_new_br_11 | decline<br>swamp<br>toast<br>scene<br>tooth<br>hope<br>sea<br>book<br>cover<br>caution<br>gesture |  
+| bip_39_word_new_br_12 | decline<br>swamp<br>toast<br>scene<br>tooth<br>hope<br>sea<br>book<br>cover<br>caution<br>gesture<br>amused |  
+| bip_39_word_new_br_2 | decline<br>swamp |  
+| bip_39_word_new_br_3 | decline<br>swamp<br>toast |  
+| bip_39_word_new_br_4 | decline<br>swamp<br>toast<br>scene |  
+| bip_39_word_new_br_5 | decline<br>swamp<br>toast<br>scene<br>tooth |  
+| bip_39_word_new_br_6 | decline<br>swamp<br>toast<br>scene<br>tooth<br>hope |  
+| bip_39_word_new_br_7 | decline<br>swamp<br>toast<br>scene<br>tooth<br>hope<br>sea |  
+| bip_39_word_new_br_8 | decline<br>swamp<br>toast<br>scene<br>tooth<br>hope<br>sea<br>book |  
+| bip_39_word_new_br_9 | decline<br>swamp<br>toast<br>scene<br>tooth<br>hope<br>sea<br>book<br>cover |  
+| bip_39_word_new_line_1 | decline |  
+| bip_39_word_new_line_10 | decline
 swamp
 toast
 scene
@@ -55,7 +55,7 @@ sea
 book
 cover
 caution |  
-| bip_39_word_new_line11 | decline
+| bip_39_word_new_line_11 | decline
 swamp
 toast
 scene
@@ -66,7 +66,7 @@ book
 cover
 caution
 gesture |  
-| bip_39_word_new_line12 | decline
+| bip_39_word_new_line_12 | decline
 swamp
 toast
 scene
@@ -78,34 +78,34 @@ cover
 caution
 gesture
 amused |  
-| bip_39_word_new_line2 | decline
+| bip_39_word_new_line_2 | decline
 swamp |  
-| bip_39_word_new_line3 | decline
+| bip_39_word_new_line_3 | decline
 swamp
 toast |  
-| bip_39_word_new_line4 | decline
+| bip_39_word_new_line_4 | decline
 swamp
 toast
 scene |  
-| bip_39_word_new_line5 | decline
+| bip_39_word_new_line_5 | decline
 swamp
 toast
 scene
 tooth |  
-| bip_39_word_new_line6 | decline
+| bip_39_word_new_line_6 | decline
 swamp
 toast
 scene
 tooth
 hope |  
-| bip_39_word_new_line7 | decline
+| bip_39_word_new_line_7 | decline
 swamp
 toast
 scene
 tooth
 hope
 sea |  
-| bip_39_word_new_line8 | decline
+| bip_39_word_new_line_8 | decline
 swamp
 toast
 scene
@@ -113,7 +113,7 @@ tooth
 hope
 sea
 book |  
-| bip_39_word_new_line9 | decline
+| bip_39_word_new_line_9 | decline
 swamp
 toast
 scene

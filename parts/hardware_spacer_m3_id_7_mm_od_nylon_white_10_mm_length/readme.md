@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | trim |  
-| bip_39_word_new_br10 | trim<br>other<br>verify<br>stadium<br>castle<br>undo<br>begin<br>menu<br>shield<br>ensure |  
-| bip_39_word_new_br11 | trim<br>other<br>verify<br>stadium<br>castle<br>undo<br>begin<br>menu<br>shield<br>ensure<br>allow |  
-| bip_39_word_new_br12 | trim<br>other<br>verify<br>stadium<br>castle<br>undo<br>begin<br>menu<br>shield<br>ensure<br>allow<br>approve |  
-| bip_39_word_new_br2 | trim<br>other |  
-| bip_39_word_new_br3 | trim<br>other<br>verify |  
-| bip_39_word_new_br4 | trim<br>other<br>verify<br>stadium |  
-| bip_39_word_new_br5 | trim<br>other<br>verify<br>stadium<br>castle |  
-| bip_39_word_new_br6 | trim<br>other<br>verify<br>stadium<br>castle<br>undo |  
-| bip_39_word_new_br7 | trim<br>other<br>verify<br>stadium<br>castle<br>undo<br>begin |  
-| bip_39_word_new_br8 | trim<br>other<br>verify<br>stadium<br>castle<br>undo<br>begin<br>menu |  
-| bip_39_word_new_br9 | trim<br>other<br>verify<br>stadium<br>castle<br>undo<br>begin<br>menu<br>shield |  
-| bip_39_word_new_line1 | trim |  
-| bip_39_word_new_line10 | trim
+| bip_39_word_new_br_1 | trim |  
+| bip_39_word_new_br_10 | trim<br>other<br>verify<br>stadium<br>castle<br>undo<br>begin<br>menu<br>shield<br>ensure |  
+| bip_39_word_new_br_11 | trim<br>other<br>verify<br>stadium<br>castle<br>undo<br>begin<br>menu<br>shield<br>ensure<br>allow |  
+| bip_39_word_new_br_12 | trim<br>other<br>verify<br>stadium<br>castle<br>undo<br>begin<br>menu<br>shield<br>ensure<br>allow<br>approve |  
+| bip_39_word_new_br_2 | trim<br>other |  
+| bip_39_word_new_br_3 | trim<br>other<br>verify |  
+| bip_39_word_new_br_4 | trim<br>other<br>verify<br>stadium |  
+| bip_39_word_new_br_5 | trim<br>other<br>verify<br>stadium<br>castle |  
+| bip_39_word_new_br_6 | trim<br>other<br>verify<br>stadium<br>castle<br>undo |  
+| bip_39_word_new_br_7 | trim<br>other<br>verify<br>stadium<br>castle<br>undo<br>begin |  
+| bip_39_word_new_br_8 | trim<br>other<br>verify<br>stadium<br>castle<br>undo<br>begin<br>menu |  
+| bip_39_word_new_br_9 | trim<br>other<br>verify<br>stadium<br>castle<br>undo<br>begin<br>menu<br>shield |  
+| bip_39_word_new_line_1 | trim |  
+| bip_39_word_new_line_10 | trim
 other
 verify
 stadium
@@ -55,7 +55,7 @@ begin
 menu
 shield
 ensure |  
-| bip_39_word_new_line11 | trim
+| bip_39_word_new_line_11 | trim
 other
 verify
 stadium
@@ -66,7 +66,7 @@ menu
 shield
 ensure
 allow |  
-| bip_39_word_new_line12 | trim
+| bip_39_word_new_line_12 | trim
 other
 verify
 stadium
@@ -78,34 +78,34 @@ shield
 ensure
 allow
 approve |  
-| bip_39_word_new_line2 | trim
+| bip_39_word_new_line_2 | trim
 other |  
-| bip_39_word_new_line3 | trim
+| bip_39_word_new_line_3 | trim
 other
 verify |  
-| bip_39_word_new_line4 | trim
+| bip_39_word_new_line_4 | trim
 other
 verify
 stadium |  
-| bip_39_word_new_line5 | trim
+| bip_39_word_new_line_5 | trim
 other
 verify
 stadium
 castle |  
-| bip_39_word_new_line6 | trim
+| bip_39_word_new_line_6 | trim
 other
 verify
 stadium
 castle
 undo |  
-| bip_39_word_new_line7 | trim
+| bip_39_word_new_line_7 | trim
 other
 verify
 stadium
 castle
 undo
 begin |  
-| bip_39_word_new_line8 | trim
+| bip_39_word_new_line_8 | trim
 other
 verify
 stadium
@@ -113,7 +113,7 @@ castle
 undo
 begin
 menu |  
-| bip_39_word_new_line9 | trim
+| bip_39_word_new_line_9 | trim
 other
 verify
 stadium

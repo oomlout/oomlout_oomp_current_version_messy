@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fat |  
-| bip_39_word_new_br10 | fat<br>electric<br>laundry<br>across<br>attend<br>cruise<br>ensure<br>output<br>acquire<br>forum |  
-| bip_39_word_new_br11 | fat<br>electric<br>laundry<br>across<br>attend<br>cruise<br>ensure<br>output<br>acquire<br>forum<br>invite |  
-| bip_39_word_new_br12 | fat<br>electric<br>laundry<br>across<br>attend<br>cruise<br>ensure<br>output<br>acquire<br>forum<br>invite<br>actress |  
-| bip_39_word_new_br2 | fat<br>electric |  
-| bip_39_word_new_br3 | fat<br>electric<br>laundry |  
-| bip_39_word_new_br4 | fat<br>electric<br>laundry<br>across |  
-| bip_39_word_new_br5 | fat<br>electric<br>laundry<br>across<br>attend |  
-| bip_39_word_new_br6 | fat<br>electric<br>laundry<br>across<br>attend<br>cruise |  
-| bip_39_word_new_br7 | fat<br>electric<br>laundry<br>across<br>attend<br>cruise<br>ensure |  
-| bip_39_word_new_br8 | fat<br>electric<br>laundry<br>across<br>attend<br>cruise<br>ensure<br>output |  
-| bip_39_word_new_br9 | fat<br>electric<br>laundry<br>across<br>attend<br>cruise<br>ensure<br>output<br>acquire |  
-| bip_39_word_new_line1 | fat |  
-| bip_39_word_new_line10 | fat
+| bip_39_word_new_br_1 | fat |  
+| bip_39_word_new_br_10 | fat<br>electric<br>laundry<br>across<br>attend<br>cruise<br>ensure<br>output<br>acquire<br>forum |  
+| bip_39_word_new_br_11 | fat<br>electric<br>laundry<br>across<br>attend<br>cruise<br>ensure<br>output<br>acquire<br>forum<br>invite |  
+| bip_39_word_new_br_12 | fat<br>electric<br>laundry<br>across<br>attend<br>cruise<br>ensure<br>output<br>acquire<br>forum<br>invite<br>actress |  
+| bip_39_word_new_br_2 | fat<br>electric |  
+| bip_39_word_new_br_3 | fat<br>electric<br>laundry |  
+| bip_39_word_new_br_4 | fat<br>electric<br>laundry<br>across |  
+| bip_39_word_new_br_5 | fat<br>electric<br>laundry<br>across<br>attend |  
+| bip_39_word_new_br_6 | fat<br>electric<br>laundry<br>across<br>attend<br>cruise |  
+| bip_39_word_new_br_7 | fat<br>electric<br>laundry<br>across<br>attend<br>cruise<br>ensure |  
+| bip_39_word_new_br_8 | fat<br>electric<br>laundry<br>across<br>attend<br>cruise<br>ensure<br>output |  
+| bip_39_word_new_br_9 | fat<br>electric<br>laundry<br>across<br>attend<br>cruise<br>ensure<br>output<br>acquire |  
+| bip_39_word_new_line_1 | fat |  
+| bip_39_word_new_line_10 | fat
 electric
 laundry
 across
@@ -55,7 +55,7 @@ ensure
 output
 acquire
 forum |  
-| bip_39_word_new_line11 | fat
+| bip_39_word_new_line_11 | fat
 electric
 laundry
 across
@@ -66,7 +66,7 @@ output
 acquire
 forum
 invite |  
-| bip_39_word_new_line12 | fat
+| bip_39_word_new_line_12 | fat
 electric
 laundry
 across
@@ -78,34 +78,34 @@ acquire
 forum
 invite
 actress |  
-| bip_39_word_new_line2 | fat
+| bip_39_word_new_line_2 | fat
 electric |  
-| bip_39_word_new_line3 | fat
+| bip_39_word_new_line_3 | fat
 electric
 laundry |  
-| bip_39_word_new_line4 | fat
+| bip_39_word_new_line_4 | fat
 electric
 laundry
 across |  
-| bip_39_word_new_line5 | fat
+| bip_39_word_new_line_5 | fat
 electric
 laundry
 across
 attend |  
-| bip_39_word_new_line6 | fat
+| bip_39_word_new_line_6 | fat
 electric
 laundry
 across
 attend
 cruise |  
-| bip_39_word_new_line7 | fat
+| bip_39_word_new_line_7 | fat
 electric
 laundry
 across
 attend
 cruise
 ensure |  
-| bip_39_word_new_line8 | fat
+| bip_39_word_new_line_8 | fat
 electric
 laundry
 across
@@ -113,7 +113,7 @@ attend
 cruise
 ensure
 output |  
-| bip_39_word_new_line9 | fat
+| bip_39_word_new_line_9 | fat
 electric
 laundry
 across

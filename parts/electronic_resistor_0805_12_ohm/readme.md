@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rice |  
-| bip_39_word_new_br10 | rice<br>peasant<br>account<br>wire<br>shock<br>actual<br>resist<br>daring<br>enrich<br>someone |  
-| bip_39_word_new_br11 | rice<br>peasant<br>account<br>wire<br>shock<br>actual<br>resist<br>daring<br>enrich<br>someone<br>mountain |  
-| bip_39_word_new_br12 | rice<br>peasant<br>account<br>wire<br>shock<br>actual<br>resist<br>daring<br>enrich<br>someone<br>mountain<br>above |  
-| bip_39_word_new_br2 | rice<br>peasant |  
-| bip_39_word_new_br3 | rice<br>peasant<br>account |  
-| bip_39_word_new_br4 | rice<br>peasant<br>account<br>wire |  
-| bip_39_word_new_br5 | rice<br>peasant<br>account<br>wire<br>shock |  
-| bip_39_word_new_br6 | rice<br>peasant<br>account<br>wire<br>shock<br>actual |  
-| bip_39_word_new_br7 | rice<br>peasant<br>account<br>wire<br>shock<br>actual<br>resist |  
-| bip_39_word_new_br8 | rice<br>peasant<br>account<br>wire<br>shock<br>actual<br>resist<br>daring |  
-| bip_39_word_new_br9 | rice<br>peasant<br>account<br>wire<br>shock<br>actual<br>resist<br>daring<br>enrich |  
-| bip_39_word_new_line1 | rice |  
-| bip_39_word_new_line10 | rice
+| bip_39_word_new_br_1 | rice |  
+| bip_39_word_new_br_10 | rice<br>peasant<br>account<br>wire<br>shock<br>actual<br>resist<br>daring<br>enrich<br>someone |  
+| bip_39_word_new_br_11 | rice<br>peasant<br>account<br>wire<br>shock<br>actual<br>resist<br>daring<br>enrich<br>someone<br>mountain |  
+| bip_39_word_new_br_12 | rice<br>peasant<br>account<br>wire<br>shock<br>actual<br>resist<br>daring<br>enrich<br>someone<br>mountain<br>above |  
+| bip_39_word_new_br_2 | rice<br>peasant |  
+| bip_39_word_new_br_3 | rice<br>peasant<br>account |  
+| bip_39_word_new_br_4 | rice<br>peasant<br>account<br>wire |  
+| bip_39_word_new_br_5 | rice<br>peasant<br>account<br>wire<br>shock |  
+| bip_39_word_new_br_6 | rice<br>peasant<br>account<br>wire<br>shock<br>actual |  
+| bip_39_word_new_br_7 | rice<br>peasant<br>account<br>wire<br>shock<br>actual<br>resist |  
+| bip_39_word_new_br_8 | rice<br>peasant<br>account<br>wire<br>shock<br>actual<br>resist<br>daring |  
+| bip_39_word_new_br_9 | rice<br>peasant<br>account<br>wire<br>shock<br>actual<br>resist<br>daring<br>enrich |  
+| bip_39_word_new_line_1 | rice |  
+| bip_39_word_new_line_10 | rice
 peasant
 account
 wire
@@ -55,7 +55,7 @@ resist
 daring
 enrich
 someone |  
-| bip_39_word_new_line11 | rice
+| bip_39_word_new_line_11 | rice
 peasant
 account
 wire
@@ -66,7 +66,7 @@ daring
 enrich
 someone
 mountain |  
-| bip_39_word_new_line12 | rice
+| bip_39_word_new_line_12 | rice
 peasant
 account
 wire
@@ -78,34 +78,34 @@ enrich
 someone
 mountain
 above |  
-| bip_39_word_new_line2 | rice
+| bip_39_word_new_line_2 | rice
 peasant |  
-| bip_39_word_new_line3 | rice
+| bip_39_word_new_line_3 | rice
 peasant
 account |  
-| bip_39_word_new_line4 | rice
+| bip_39_word_new_line_4 | rice
 peasant
 account
 wire |  
-| bip_39_word_new_line5 | rice
+| bip_39_word_new_line_5 | rice
 peasant
 account
 wire
 shock |  
-| bip_39_word_new_line6 | rice
+| bip_39_word_new_line_6 | rice
 peasant
 account
 wire
 shock
 actual |  
-| bip_39_word_new_line7 | rice
+| bip_39_word_new_line_7 | rice
 peasant
 account
 wire
 shock
 actual
 resist |  
-| bip_39_word_new_line8 | rice
+| bip_39_word_new_line_8 | rice
 peasant
 account
 wire
@@ -113,7 +113,7 @@ shock
 actual
 resist
 daring |  
-| bip_39_word_new_line9 | rice
+| bip_39_word_new_line_9 | rice
 peasant
 account
 wire

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | copy |  
-| bip_39_word_new_br10 | copy<br>snap<br>foam<br>ensure<br>tide<br>smile<br>detect<br>cement<br>wagon<br>better |  
-| bip_39_word_new_br11 | copy<br>snap<br>foam<br>ensure<br>tide<br>smile<br>detect<br>cement<br>wagon<br>better<br>equip |  
-| bip_39_word_new_br12 | copy<br>snap<br>foam<br>ensure<br>tide<br>smile<br>detect<br>cement<br>wagon<br>better<br>equip<br>album |  
-| bip_39_word_new_br2 | copy<br>snap |  
-| bip_39_word_new_br3 | copy<br>snap<br>foam |  
-| bip_39_word_new_br4 | copy<br>snap<br>foam<br>ensure |  
-| bip_39_word_new_br5 | copy<br>snap<br>foam<br>ensure<br>tide |  
-| bip_39_word_new_br6 | copy<br>snap<br>foam<br>ensure<br>tide<br>smile |  
-| bip_39_word_new_br7 | copy<br>snap<br>foam<br>ensure<br>tide<br>smile<br>detect |  
-| bip_39_word_new_br8 | copy<br>snap<br>foam<br>ensure<br>tide<br>smile<br>detect<br>cement |  
-| bip_39_word_new_br9 | copy<br>snap<br>foam<br>ensure<br>tide<br>smile<br>detect<br>cement<br>wagon |  
-| bip_39_word_new_line1 | copy |  
-| bip_39_word_new_line10 | copy
+| bip_39_word_new_br_1 | copy |  
+| bip_39_word_new_br_10 | copy<br>snap<br>foam<br>ensure<br>tide<br>smile<br>detect<br>cement<br>wagon<br>better |  
+| bip_39_word_new_br_11 | copy<br>snap<br>foam<br>ensure<br>tide<br>smile<br>detect<br>cement<br>wagon<br>better<br>equip |  
+| bip_39_word_new_br_12 | copy<br>snap<br>foam<br>ensure<br>tide<br>smile<br>detect<br>cement<br>wagon<br>better<br>equip<br>album |  
+| bip_39_word_new_br_2 | copy<br>snap |  
+| bip_39_word_new_br_3 | copy<br>snap<br>foam |  
+| bip_39_word_new_br_4 | copy<br>snap<br>foam<br>ensure |  
+| bip_39_word_new_br_5 | copy<br>snap<br>foam<br>ensure<br>tide |  
+| bip_39_word_new_br_6 | copy<br>snap<br>foam<br>ensure<br>tide<br>smile |  
+| bip_39_word_new_br_7 | copy<br>snap<br>foam<br>ensure<br>tide<br>smile<br>detect |  
+| bip_39_word_new_br_8 | copy<br>snap<br>foam<br>ensure<br>tide<br>smile<br>detect<br>cement |  
+| bip_39_word_new_br_9 | copy<br>snap<br>foam<br>ensure<br>tide<br>smile<br>detect<br>cement<br>wagon |  
+| bip_39_word_new_line_1 | copy |  
+| bip_39_word_new_line_10 | copy
 snap
 foam
 ensure
@@ -55,7 +55,7 @@ detect
 cement
 wagon
 better |  
-| bip_39_word_new_line11 | copy
+| bip_39_word_new_line_11 | copy
 snap
 foam
 ensure
@@ -66,7 +66,7 @@ cement
 wagon
 better
 equip |  
-| bip_39_word_new_line12 | copy
+| bip_39_word_new_line_12 | copy
 snap
 foam
 ensure
@@ -78,34 +78,34 @@ wagon
 better
 equip
 album |  
-| bip_39_word_new_line2 | copy
+| bip_39_word_new_line_2 | copy
 snap |  
-| bip_39_word_new_line3 | copy
+| bip_39_word_new_line_3 | copy
 snap
 foam |  
-| bip_39_word_new_line4 | copy
+| bip_39_word_new_line_4 | copy
 snap
 foam
 ensure |  
-| bip_39_word_new_line5 | copy
+| bip_39_word_new_line_5 | copy
 snap
 foam
 ensure
 tide |  
-| bip_39_word_new_line6 | copy
+| bip_39_word_new_line_6 | copy
 snap
 foam
 ensure
 tide
 smile |  
-| bip_39_word_new_line7 | copy
+| bip_39_word_new_line_7 | copy
 snap
 foam
 ensure
 tide
 smile
 detect |  
-| bip_39_word_new_line8 | copy
+| bip_39_word_new_line_8 | copy
 snap
 foam
 ensure
@@ -113,7 +113,7 @@ tide
 smile
 detect
 cement |  
-| bip_39_word_new_line9 | copy
+| bip_39_word_new_line_9 | copy
 snap
 foam
 ensure

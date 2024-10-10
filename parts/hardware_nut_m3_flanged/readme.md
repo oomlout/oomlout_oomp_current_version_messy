@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | enact |  
-| bip_39_word_new_br10 | enact<br>goddess<br>match<br>twelve<br>match<br>surround<br>symbol<br>hello<br>chaos<br>opera |  
-| bip_39_word_new_br11 | enact<br>goddess<br>match<br>twelve<br>match<br>surround<br>symbol<br>hello<br>chaos<br>opera<br>output |  
-| bip_39_word_new_br12 | enact<br>goddess<br>match<br>twelve<br>match<br>surround<br>symbol<br>hello<br>chaos<br>opera<br>output<br>air |  
-| bip_39_word_new_br2 | enact<br>goddess |  
-| bip_39_word_new_br3 | enact<br>goddess<br>match |  
-| bip_39_word_new_br4 | enact<br>goddess<br>match<br>twelve |  
-| bip_39_word_new_br5 | enact<br>goddess<br>match<br>twelve<br>match |  
-| bip_39_word_new_br6 | enact<br>goddess<br>match<br>twelve<br>match<br>surround |  
-| bip_39_word_new_br7 | enact<br>goddess<br>match<br>twelve<br>match<br>surround<br>symbol |  
-| bip_39_word_new_br8 | enact<br>goddess<br>match<br>twelve<br>match<br>surround<br>symbol<br>hello |  
-| bip_39_word_new_br9 | enact<br>goddess<br>match<br>twelve<br>match<br>surround<br>symbol<br>hello<br>chaos |  
-| bip_39_word_new_line1 | enact |  
-| bip_39_word_new_line10 | enact
+| bip_39_word_new_br_1 | enact |  
+| bip_39_word_new_br_10 | enact<br>goddess<br>match<br>twelve<br>match<br>surround<br>symbol<br>hello<br>chaos<br>opera |  
+| bip_39_word_new_br_11 | enact<br>goddess<br>match<br>twelve<br>match<br>surround<br>symbol<br>hello<br>chaos<br>opera<br>output |  
+| bip_39_word_new_br_12 | enact<br>goddess<br>match<br>twelve<br>match<br>surround<br>symbol<br>hello<br>chaos<br>opera<br>output<br>air |  
+| bip_39_word_new_br_2 | enact<br>goddess |  
+| bip_39_word_new_br_3 | enact<br>goddess<br>match |  
+| bip_39_word_new_br_4 | enact<br>goddess<br>match<br>twelve |  
+| bip_39_word_new_br_5 | enact<br>goddess<br>match<br>twelve<br>match |  
+| bip_39_word_new_br_6 | enact<br>goddess<br>match<br>twelve<br>match<br>surround |  
+| bip_39_word_new_br_7 | enact<br>goddess<br>match<br>twelve<br>match<br>surround<br>symbol |  
+| bip_39_word_new_br_8 | enact<br>goddess<br>match<br>twelve<br>match<br>surround<br>symbol<br>hello |  
+| bip_39_word_new_br_9 | enact<br>goddess<br>match<br>twelve<br>match<br>surround<br>symbol<br>hello<br>chaos |  
+| bip_39_word_new_line_1 | enact |  
+| bip_39_word_new_line_10 | enact
 goddess
 match
 twelve
@@ -55,7 +55,7 @@ symbol
 hello
 chaos
 opera |  
-| bip_39_word_new_line11 | enact
+| bip_39_word_new_line_11 | enact
 goddess
 match
 twelve
@@ -66,7 +66,7 @@ hello
 chaos
 opera
 output |  
-| bip_39_word_new_line12 | enact
+| bip_39_word_new_line_12 | enact
 goddess
 match
 twelve
@@ -78,34 +78,34 @@ chaos
 opera
 output
 air |  
-| bip_39_word_new_line2 | enact
+| bip_39_word_new_line_2 | enact
 goddess |  
-| bip_39_word_new_line3 | enact
+| bip_39_word_new_line_3 | enact
 goddess
 match |  
-| bip_39_word_new_line4 | enact
+| bip_39_word_new_line_4 | enact
 goddess
 match
 twelve |  
-| bip_39_word_new_line5 | enact
+| bip_39_word_new_line_5 | enact
 goddess
 match
 twelve
 match |  
-| bip_39_word_new_line6 | enact
+| bip_39_word_new_line_6 | enact
 goddess
 match
 twelve
 match
 surround |  
-| bip_39_word_new_line7 | enact
+| bip_39_word_new_line_7 | enact
 goddess
 match
 twelve
 match
 surround
 symbol |  
-| bip_39_word_new_line8 | enact
+| bip_39_word_new_line_8 | enact
 goddess
 match
 twelve
@@ -113,7 +113,7 @@ match
 surround
 symbol
 hello |  
-| bip_39_word_new_line9 | enact
+| bip_39_word_new_line_9 | enact
 goddess
 match
 twelve

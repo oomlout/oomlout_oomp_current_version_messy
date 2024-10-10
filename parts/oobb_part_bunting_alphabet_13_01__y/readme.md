@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | suggest |  
-| bip_39_word_new_br10 | suggest<br>rigid<br>climb<br>insane<br>permit<br>shoulder<br>awful<br>loyal<br>where<br>put |  
-| bip_39_word_new_br11 | suggest<br>rigid<br>climb<br>insane<br>permit<br>shoulder<br>awful<br>loyal<br>where<br>put<br>hen |  
-| bip_39_word_new_br12 | suggest<br>rigid<br>climb<br>insane<br>permit<br>shoulder<br>awful<br>loyal<br>where<br>put<br>hen<br>agree |  
-| bip_39_word_new_br2 | suggest<br>rigid |  
-| bip_39_word_new_br3 | suggest<br>rigid<br>climb |  
-| bip_39_word_new_br4 | suggest<br>rigid<br>climb<br>insane |  
-| bip_39_word_new_br5 | suggest<br>rigid<br>climb<br>insane<br>permit |  
-| bip_39_word_new_br6 | suggest<br>rigid<br>climb<br>insane<br>permit<br>shoulder |  
-| bip_39_word_new_br7 | suggest<br>rigid<br>climb<br>insane<br>permit<br>shoulder<br>awful |  
-| bip_39_word_new_br8 | suggest<br>rigid<br>climb<br>insane<br>permit<br>shoulder<br>awful<br>loyal |  
-| bip_39_word_new_br9 | suggest<br>rigid<br>climb<br>insane<br>permit<br>shoulder<br>awful<br>loyal<br>where |  
-| bip_39_word_new_line1 | suggest |  
-| bip_39_word_new_line10 | suggest
+| bip_39_word_new_br_1 | suggest |  
+| bip_39_word_new_br_10 | suggest<br>rigid<br>climb<br>insane<br>permit<br>shoulder<br>awful<br>loyal<br>where<br>put |  
+| bip_39_word_new_br_11 | suggest<br>rigid<br>climb<br>insane<br>permit<br>shoulder<br>awful<br>loyal<br>where<br>put<br>hen |  
+| bip_39_word_new_br_12 | suggest<br>rigid<br>climb<br>insane<br>permit<br>shoulder<br>awful<br>loyal<br>where<br>put<br>hen<br>agree |  
+| bip_39_word_new_br_2 | suggest<br>rigid |  
+| bip_39_word_new_br_3 | suggest<br>rigid<br>climb |  
+| bip_39_word_new_br_4 | suggest<br>rigid<br>climb<br>insane |  
+| bip_39_word_new_br_5 | suggest<br>rigid<br>climb<br>insane<br>permit |  
+| bip_39_word_new_br_6 | suggest<br>rigid<br>climb<br>insane<br>permit<br>shoulder |  
+| bip_39_word_new_br_7 | suggest<br>rigid<br>climb<br>insane<br>permit<br>shoulder<br>awful |  
+| bip_39_word_new_br_8 | suggest<br>rigid<br>climb<br>insane<br>permit<br>shoulder<br>awful<br>loyal |  
+| bip_39_word_new_br_9 | suggest<br>rigid<br>climb<br>insane<br>permit<br>shoulder<br>awful<br>loyal<br>where |  
+| bip_39_word_new_line_1 | suggest |  
+| bip_39_word_new_line_10 | suggest
 rigid
 climb
 insane
@@ -55,7 +55,7 @@ awful
 loyal
 where
 put |  
-| bip_39_word_new_line11 | suggest
+| bip_39_word_new_line_11 | suggest
 rigid
 climb
 insane
@@ -66,7 +66,7 @@ loyal
 where
 put
 hen |  
-| bip_39_word_new_line12 | suggest
+| bip_39_word_new_line_12 | suggest
 rigid
 climb
 insane
@@ -78,34 +78,34 @@ where
 put
 hen
 agree |  
-| bip_39_word_new_line2 | suggest
+| bip_39_word_new_line_2 | suggest
 rigid |  
-| bip_39_word_new_line3 | suggest
+| bip_39_word_new_line_3 | suggest
 rigid
 climb |  
-| bip_39_word_new_line4 | suggest
+| bip_39_word_new_line_4 | suggest
 rigid
 climb
 insane |  
-| bip_39_word_new_line5 | suggest
+| bip_39_word_new_line_5 | suggest
 rigid
 climb
 insane
 permit |  
-| bip_39_word_new_line6 | suggest
+| bip_39_word_new_line_6 | suggest
 rigid
 climb
 insane
 permit
 shoulder |  
-| bip_39_word_new_line7 | suggest
+| bip_39_word_new_line_7 | suggest
 rigid
 climb
 insane
 permit
 shoulder
 awful |  
-| bip_39_word_new_line8 | suggest
+| bip_39_word_new_line_8 | suggest
 rigid
 climb
 insane
@@ -113,7 +113,7 @@ permit
 shoulder
 awful
 loyal |  
-| bip_39_word_new_line9 | suggest
+| bip_39_word_new_line_9 | suggest
 rigid
 climb
 insane

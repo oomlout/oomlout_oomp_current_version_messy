@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bargain |  
-| bip_39_word_new_br10 | bargain<br>flower<br>wild<br>like<br>require<br>trade<br>adult<br>rely<br>fire<br>able |  
-| bip_39_word_new_br11 | bargain<br>flower<br>wild<br>like<br>require<br>trade<br>adult<br>rely<br>fire<br>able<br>alarm |  
-| bip_39_word_new_br12 | bargain<br>flower<br>wild<br>like<br>require<br>trade<br>adult<br>rely<br>fire<br>able<br>alarm<br>antenna |  
-| bip_39_word_new_br2 | bargain<br>flower |  
-| bip_39_word_new_br3 | bargain<br>flower<br>wild |  
-| bip_39_word_new_br4 | bargain<br>flower<br>wild<br>like |  
-| bip_39_word_new_br5 | bargain<br>flower<br>wild<br>like<br>require |  
-| bip_39_word_new_br6 | bargain<br>flower<br>wild<br>like<br>require<br>trade |  
-| bip_39_word_new_br7 | bargain<br>flower<br>wild<br>like<br>require<br>trade<br>adult |  
-| bip_39_word_new_br8 | bargain<br>flower<br>wild<br>like<br>require<br>trade<br>adult<br>rely |  
-| bip_39_word_new_br9 | bargain<br>flower<br>wild<br>like<br>require<br>trade<br>adult<br>rely<br>fire |  
-| bip_39_word_new_line1 | bargain |  
-| bip_39_word_new_line10 | bargain
+| bip_39_word_new_br_1 | bargain |  
+| bip_39_word_new_br_10 | bargain<br>flower<br>wild<br>like<br>require<br>trade<br>adult<br>rely<br>fire<br>able |  
+| bip_39_word_new_br_11 | bargain<br>flower<br>wild<br>like<br>require<br>trade<br>adult<br>rely<br>fire<br>able<br>alarm |  
+| bip_39_word_new_br_12 | bargain<br>flower<br>wild<br>like<br>require<br>trade<br>adult<br>rely<br>fire<br>able<br>alarm<br>antenna |  
+| bip_39_word_new_br_2 | bargain<br>flower |  
+| bip_39_word_new_br_3 | bargain<br>flower<br>wild |  
+| bip_39_word_new_br_4 | bargain<br>flower<br>wild<br>like |  
+| bip_39_word_new_br_5 | bargain<br>flower<br>wild<br>like<br>require |  
+| bip_39_word_new_br_6 | bargain<br>flower<br>wild<br>like<br>require<br>trade |  
+| bip_39_word_new_br_7 | bargain<br>flower<br>wild<br>like<br>require<br>trade<br>adult |  
+| bip_39_word_new_br_8 | bargain<br>flower<br>wild<br>like<br>require<br>trade<br>adult<br>rely |  
+| bip_39_word_new_br_9 | bargain<br>flower<br>wild<br>like<br>require<br>trade<br>adult<br>rely<br>fire |  
+| bip_39_word_new_line_1 | bargain |  
+| bip_39_word_new_line_10 | bargain
 flower
 wild
 like
@@ -55,7 +55,7 @@ adult
 rely
 fire
 able |  
-| bip_39_word_new_line11 | bargain
+| bip_39_word_new_line_11 | bargain
 flower
 wild
 like
@@ -66,7 +66,7 @@ rely
 fire
 able
 alarm |  
-| bip_39_word_new_line12 | bargain
+| bip_39_word_new_line_12 | bargain
 flower
 wild
 like
@@ -78,34 +78,34 @@ fire
 able
 alarm
 antenna |  
-| bip_39_word_new_line2 | bargain
+| bip_39_word_new_line_2 | bargain
 flower |  
-| bip_39_word_new_line3 | bargain
+| bip_39_word_new_line_3 | bargain
 flower
 wild |  
-| bip_39_word_new_line4 | bargain
+| bip_39_word_new_line_4 | bargain
 flower
 wild
 like |  
-| bip_39_word_new_line5 | bargain
+| bip_39_word_new_line_5 | bargain
 flower
 wild
 like
 require |  
-| bip_39_word_new_line6 | bargain
+| bip_39_word_new_line_6 | bargain
 flower
 wild
 like
 require
 trade |  
-| bip_39_word_new_line7 | bargain
+| bip_39_word_new_line_7 | bargain
 flower
 wild
 like
 require
 trade
 adult |  
-| bip_39_word_new_line8 | bargain
+| bip_39_word_new_line_8 | bargain
 flower
 wild
 like
@@ -113,7 +113,7 @@ require
 trade
 adult
 rely |  
-| bip_39_word_new_line9 | bargain
+| bip_39_word_new_line_9 | bargain
 flower
 wild
 like

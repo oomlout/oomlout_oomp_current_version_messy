@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fiber |  
-| bip_39_word_new_br10 | fiber<br>glory<br>crowd<br>swear<br>detail<br>dilemma<br>breeze<br>rural<br>tobacco<br>sniff |  
-| bip_39_word_new_br11 | fiber<br>glory<br>crowd<br>swear<br>detail<br>dilemma<br>breeze<br>rural<br>tobacco<br>sniff<br>blind |  
-| bip_39_word_new_br12 | fiber<br>glory<br>crowd<br>swear<br>detail<br>dilemma<br>breeze<br>rural<br>tobacco<br>sniff<br>blind<br>all |  
-| bip_39_word_new_br2 | fiber<br>glory |  
-| bip_39_word_new_br3 | fiber<br>glory<br>crowd |  
-| bip_39_word_new_br4 | fiber<br>glory<br>crowd<br>swear |  
-| bip_39_word_new_br5 | fiber<br>glory<br>crowd<br>swear<br>detail |  
-| bip_39_word_new_br6 | fiber<br>glory<br>crowd<br>swear<br>detail<br>dilemma |  
-| bip_39_word_new_br7 | fiber<br>glory<br>crowd<br>swear<br>detail<br>dilemma<br>breeze |  
-| bip_39_word_new_br8 | fiber<br>glory<br>crowd<br>swear<br>detail<br>dilemma<br>breeze<br>rural |  
-| bip_39_word_new_br9 | fiber<br>glory<br>crowd<br>swear<br>detail<br>dilemma<br>breeze<br>rural<br>tobacco |  
-| bip_39_word_new_line1 | fiber |  
-| bip_39_word_new_line10 | fiber
+| bip_39_word_new_br_1 | fiber |  
+| bip_39_word_new_br_10 | fiber<br>glory<br>crowd<br>swear<br>detail<br>dilemma<br>breeze<br>rural<br>tobacco<br>sniff |  
+| bip_39_word_new_br_11 | fiber<br>glory<br>crowd<br>swear<br>detail<br>dilemma<br>breeze<br>rural<br>tobacco<br>sniff<br>blind |  
+| bip_39_word_new_br_12 | fiber<br>glory<br>crowd<br>swear<br>detail<br>dilemma<br>breeze<br>rural<br>tobacco<br>sniff<br>blind<br>all |  
+| bip_39_word_new_br_2 | fiber<br>glory |  
+| bip_39_word_new_br_3 | fiber<br>glory<br>crowd |  
+| bip_39_word_new_br_4 | fiber<br>glory<br>crowd<br>swear |  
+| bip_39_word_new_br_5 | fiber<br>glory<br>crowd<br>swear<br>detail |  
+| bip_39_word_new_br_6 | fiber<br>glory<br>crowd<br>swear<br>detail<br>dilemma |  
+| bip_39_word_new_br_7 | fiber<br>glory<br>crowd<br>swear<br>detail<br>dilemma<br>breeze |  
+| bip_39_word_new_br_8 | fiber<br>glory<br>crowd<br>swear<br>detail<br>dilemma<br>breeze<br>rural |  
+| bip_39_word_new_br_9 | fiber<br>glory<br>crowd<br>swear<br>detail<br>dilemma<br>breeze<br>rural<br>tobacco |  
+| bip_39_word_new_line_1 | fiber |  
+| bip_39_word_new_line_10 | fiber
 glory
 crowd
 swear
@@ -55,7 +55,7 @@ breeze
 rural
 tobacco
 sniff |  
-| bip_39_word_new_line11 | fiber
+| bip_39_word_new_line_11 | fiber
 glory
 crowd
 swear
@@ -66,7 +66,7 @@ rural
 tobacco
 sniff
 blind |  
-| bip_39_word_new_line12 | fiber
+| bip_39_word_new_line_12 | fiber
 glory
 crowd
 swear
@@ -78,34 +78,34 @@ tobacco
 sniff
 blind
 all |  
-| bip_39_word_new_line2 | fiber
+| bip_39_word_new_line_2 | fiber
 glory |  
-| bip_39_word_new_line3 | fiber
+| bip_39_word_new_line_3 | fiber
 glory
 crowd |  
-| bip_39_word_new_line4 | fiber
+| bip_39_word_new_line_4 | fiber
 glory
 crowd
 swear |  
-| bip_39_word_new_line5 | fiber
+| bip_39_word_new_line_5 | fiber
 glory
 crowd
 swear
 detail |  
-| bip_39_word_new_line6 | fiber
+| bip_39_word_new_line_6 | fiber
 glory
 crowd
 swear
 detail
 dilemma |  
-| bip_39_word_new_line7 | fiber
+| bip_39_word_new_line_7 | fiber
 glory
 crowd
 swear
 detail
 dilemma
 breeze |  
-| bip_39_word_new_line8 | fiber
+| bip_39_word_new_line_8 | fiber
 glory
 crowd
 swear
@@ -113,7 +113,7 @@ detail
 dilemma
 breeze
 rural |  
-| bip_39_word_new_line9 | fiber
+| bip_39_word_new_line_9 | fiber
 glory
 crowd
 swear

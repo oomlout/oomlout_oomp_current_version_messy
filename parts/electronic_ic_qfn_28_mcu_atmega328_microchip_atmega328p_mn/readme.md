@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rule |  
-| bip_39_word_new_br10 | rule<br>ceiling<br>run<br>nut<br>palm<br>gravity<br>release<br>slice<br>page<br>quality |  
-| bip_39_word_new_br11 | rule<br>ceiling<br>run<br>nut<br>palm<br>gravity<br>release<br>slice<br>page<br>quality<br>bunker |  
-| bip_39_word_new_br12 | rule<br>ceiling<br>run<br>nut<br>palm<br>gravity<br>release<br>slice<br>page<br>quality<br>bunker<br>agent |  
-| bip_39_word_new_br2 | rule<br>ceiling |  
-| bip_39_word_new_br3 | rule<br>ceiling<br>run |  
-| bip_39_word_new_br4 | rule<br>ceiling<br>run<br>nut |  
-| bip_39_word_new_br5 | rule<br>ceiling<br>run<br>nut<br>palm |  
-| bip_39_word_new_br6 | rule<br>ceiling<br>run<br>nut<br>palm<br>gravity |  
-| bip_39_word_new_br7 | rule<br>ceiling<br>run<br>nut<br>palm<br>gravity<br>release |  
-| bip_39_word_new_br8 | rule<br>ceiling<br>run<br>nut<br>palm<br>gravity<br>release<br>slice |  
-| bip_39_word_new_br9 | rule<br>ceiling<br>run<br>nut<br>palm<br>gravity<br>release<br>slice<br>page |  
-| bip_39_word_new_line1 | rule |  
-| bip_39_word_new_line10 | rule
+| bip_39_word_new_br_1 | rule |  
+| bip_39_word_new_br_10 | rule<br>ceiling<br>run<br>nut<br>palm<br>gravity<br>release<br>slice<br>page<br>quality |  
+| bip_39_word_new_br_11 | rule<br>ceiling<br>run<br>nut<br>palm<br>gravity<br>release<br>slice<br>page<br>quality<br>bunker |  
+| bip_39_word_new_br_12 | rule<br>ceiling<br>run<br>nut<br>palm<br>gravity<br>release<br>slice<br>page<br>quality<br>bunker<br>agent |  
+| bip_39_word_new_br_2 | rule<br>ceiling |  
+| bip_39_word_new_br_3 | rule<br>ceiling<br>run |  
+| bip_39_word_new_br_4 | rule<br>ceiling<br>run<br>nut |  
+| bip_39_word_new_br_5 | rule<br>ceiling<br>run<br>nut<br>palm |  
+| bip_39_word_new_br_6 | rule<br>ceiling<br>run<br>nut<br>palm<br>gravity |  
+| bip_39_word_new_br_7 | rule<br>ceiling<br>run<br>nut<br>palm<br>gravity<br>release |  
+| bip_39_word_new_br_8 | rule<br>ceiling<br>run<br>nut<br>palm<br>gravity<br>release<br>slice |  
+| bip_39_word_new_br_9 | rule<br>ceiling<br>run<br>nut<br>palm<br>gravity<br>release<br>slice<br>page |  
+| bip_39_word_new_line_1 | rule |  
+| bip_39_word_new_line_10 | rule
 ceiling
 run
 nut
@@ -55,7 +55,7 @@ release
 slice
 page
 quality |  
-| bip_39_word_new_line11 | rule
+| bip_39_word_new_line_11 | rule
 ceiling
 run
 nut
@@ -66,7 +66,7 @@ slice
 page
 quality
 bunker |  
-| bip_39_word_new_line12 | rule
+| bip_39_word_new_line_12 | rule
 ceiling
 run
 nut
@@ -78,34 +78,34 @@ page
 quality
 bunker
 agent |  
-| bip_39_word_new_line2 | rule
+| bip_39_word_new_line_2 | rule
 ceiling |  
-| bip_39_word_new_line3 | rule
+| bip_39_word_new_line_3 | rule
 ceiling
 run |  
-| bip_39_word_new_line4 | rule
+| bip_39_word_new_line_4 | rule
 ceiling
 run
 nut |  
-| bip_39_word_new_line5 | rule
+| bip_39_word_new_line_5 | rule
 ceiling
 run
 nut
 palm |  
-| bip_39_word_new_line6 | rule
+| bip_39_word_new_line_6 | rule
 ceiling
 run
 nut
 palm
 gravity |  
-| bip_39_word_new_line7 | rule
+| bip_39_word_new_line_7 | rule
 ceiling
 run
 nut
 palm
 gravity
 release |  
-| bip_39_word_new_line8 | rule
+| bip_39_word_new_line_8 | rule
 ceiling
 run
 nut
@@ -113,7 +113,7 @@ palm
 gravity
 release
 slice |  
-| bip_39_word_new_line9 | rule
+| bip_39_word_new_line_9 | rule
 ceiling
 run
 nut

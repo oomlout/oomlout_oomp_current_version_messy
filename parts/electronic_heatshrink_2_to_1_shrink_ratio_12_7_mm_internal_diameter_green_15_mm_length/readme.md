@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | alien |  
-| bip_39_word_new_br10 | alien<br>step<br>diary<br>enter<br>turkey<br>hamster<br>gift<br>melody<br>donkey<br>adjust |  
-| bip_39_word_new_br11 | alien<br>step<br>diary<br>enter<br>turkey<br>hamster<br>gift<br>melody<br>donkey<br>adjust<br>cupboard |  
-| bip_39_word_new_br12 | alien<br>step<br>diary<br>enter<br>turkey<br>hamster<br>gift<br>melody<br>donkey<br>adjust<br>cupboard<br>arrive |  
-| bip_39_word_new_br2 | alien<br>step |  
-| bip_39_word_new_br3 | alien<br>step<br>diary |  
-| bip_39_word_new_br4 | alien<br>step<br>diary<br>enter |  
-| bip_39_word_new_br5 | alien<br>step<br>diary<br>enter<br>turkey |  
-| bip_39_word_new_br6 | alien<br>step<br>diary<br>enter<br>turkey<br>hamster |  
-| bip_39_word_new_br7 | alien<br>step<br>diary<br>enter<br>turkey<br>hamster<br>gift |  
-| bip_39_word_new_br8 | alien<br>step<br>diary<br>enter<br>turkey<br>hamster<br>gift<br>melody |  
-| bip_39_word_new_br9 | alien<br>step<br>diary<br>enter<br>turkey<br>hamster<br>gift<br>melody<br>donkey |  
-| bip_39_word_new_line1 | alien |  
-| bip_39_word_new_line10 | alien
+| bip_39_word_new_br_1 | alien |  
+| bip_39_word_new_br_10 | alien<br>step<br>diary<br>enter<br>turkey<br>hamster<br>gift<br>melody<br>donkey<br>adjust |  
+| bip_39_word_new_br_11 | alien<br>step<br>diary<br>enter<br>turkey<br>hamster<br>gift<br>melody<br>donkey<br>adjust<br>cupboard |  
+| bip_39_word_new_br_12 | alien<br>step<br>diary<br>enter<br>turkey<br>hamster<br>gift<br>melody<br>donkey<br>adjust<br>cupboard<br>arrive |  
+| bip_39_word_new_br_2 | alien<br>step |  
+| bip_39_word_new_br_3 | alien<br>step<br>diary |  
+| bip_39_word_new_br_4 | alien<br>step<br>diary<br>enter |  
+| bip_39_word_new_br_5 | alien<br>step<br>diary<br>enter<br>turkey |  
+| bip_39_word_new_br_6 | alien<br>step<br>diary<br>enter<br>turkey<br>hamster |  
+| bip_39_word_new_br_7 | alien<br>step<br>diary<br>enter<br>turkey<br>hamster<br>gift |  
+| bip_39_word_new_br_8 | alien<br>step<br>diary<br>enter<br>turkey<br>hamster<br>gift<br>melody |  
+| bip_39_word_new_br_9 | alien<br>step<br>diary<br>enter<br>turkey<br>hamster<br>gift<br>melody<br>donkey |  
+| bip_39_word_new_line_1 | alien |  
+| bip_39_word_new_line_10 | alien
 step
 diary
 enter
@@ -55,7 +55,7 @@ gift
 melody
 donkey
 adjust |  
-| bip_39_word_new_line11 | alien
+| bip_39_word_new_line_11 | alien
 step
 diary
 enter
@@ -66,7 +66,7 @@ melody
 donkey
 adjust
 cupboard |  
-| bip_39_word_new_line12 | alien
+| bip_39_word_new_line_12 | alien
 step
 diary
 enter
@@ -78,34 +78,34 @@ donkey
 adjust
 cupboard
 arrive |  
-| bip_39_word_new_line2 | alien
+| bip_39_word_new_line_2 | alien
 step |  
-| bip_39_word_new_line3 | alien
+| bip_39_word_new_line_3 | alien
 step
 diary |  
-| bip_39_word_new_line4 | alien
+| bip_39_word_new_line_4 | alien
 step
 diary
 enter |  
-| bip_39_word_new_line5 | alien
+| bip_39_word_new_line_5 | alien
 step
 diary
 enter
 turkey |  
-| bip_39_word_new_line6 | alien
+| bip_39_word_new_line_6 | alien
 step
 diary
 enter
 turkey
 hamster |  
-| bip_39_word_new_line7 | alien
+| bip_39_word_new_line_7 | alien
 step
 diary
 enter
 turkey
 hamster
 gift |  
-| bip_39_word_new_line8 | alien
+| bip_39_word_new_line_8 | alien
 step
 diary
 enter
@@ -113,7 +113,7 @@ turkey
 hamster
 gift
 melody |  
-| bip_39_word_new_line9 | alien
+| bip_39_word_new_line_9 | alien
 step
 diary
 enter

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | alpha |  
-| bip_39_word_new_br10 | alpha<br>either<br>first<br>bottom<br>matrix<br>control<br>state<br>fruit<br>motion<br>hub |  
-| bip_39_word_new_br11 | alpha<br>either<br>first<br>bottom<br>matrix<br>control<br>state<br>fruit<br>motion<br>hub<br>snack |  
-| bip_39_word_new_br12 | alpha<br>either<br>first<br>bottom<br>matrix<br>control<br>state<br>fruit<br>motion<br>hub<br>snack<br>artefact |  
-| bip_39_word_new_br2 | alpha<br>either |  
-| bip_39_word_new_br3 | alpha<br>either<br>first |  
-| bip_39_word_new_br4 | alpha<br>either<br>first<br>bottom |  
-| bip_39_word_new_br5 | alpha<br>either<br>first<br>bottom<br>matrix |  
-| bip_39_word_new_br6 | alpha<br>either<br>first<br>bottom<br>matrix<br>control |  
-| bip_39_word_new_br7 | alpha<br>either<br>first<br>bottom<br>matrix<br>control<br>state |  
-| bip_39_word_new_br8 | alpha<br>either<br>first<br>bottom<br>matrix<br>control<br>state<br>fruit |  
-| bip_39_word_new_br9 | alpha<br>either<br>first<br>bottom<br>matrix<br>control<br>state<br>fruit<br>motion |  
-| bip_39_word_new_line1 | alpha |  
-| bip_39_word_new_line10 | alpha
+| bip_39_word_new_br_1 | alpha |  
+| bip_39_word_new_br_10 | alpha<br>either<br>first<br>bottom<br>matrix<br>control<br>state<br>fruit<br>motion<br>hub |  
+| bip_39_word_new_br_11 | alpha<br>either<br>first<br>bottom<br>matrix<br>control<br>state<br>fruit<br>motion<br>hub<br>snack |  
+| bip_39_word_new_br_12 | alpha<br>either<br>first<br>bottom<br>matrix<br>control<br>state<br>fruit<br>motion<br>hub<br>snack<br>artefact |  
+| bip_39_word_new_br_2 | alpha<br>either |  
+| bip_39_word_new_br_3 | alpha<br>either<br>first |  
+| bip_39_word_new_br_4 | alpha<br>either<br>first<br>bottom |  
+| bip_39_word_new_br_5 | alpha<br>either<br>first<br>bottom<br>matrix |  
+| bip_39_word_new_br_6 | alpha<br>either<br>first<br>bottom<br>matrix<br>control |  
+| bip_39_word_new_br_7 | alpha<br>either<br>first<br>bottom<br>matrix<br>control<br>state |  
+| bip_39_word_new_br_8 | alpha<br>either<br>first<br>bottom<br>matrix<br>control<br>state<br>fruit |  
+| bip_39_word_new_br_9 | alpha<br>either<br>first<br>bottom<br>matrix<br>control<br>state<br>fruit<br>motion |  
+| bip_39_word_new_line_1 | alpha |  
+| bip_39_word_new_line_10 | alpha
 either
 first
 bottom
@@ -55,7 +55,7 @@ state
 fruit
 motion
 hub |  
-| bip_39_word_new_line11 | alpha
+| bip_39_word_new_line_11 | alpha
 either
 first
 bottom
@@ -66,7 +66,7 @@ fruit
 motion
 hub
 snack |  
-| bip_39_word_new_line12 | alpha
+| bip_39_word_new_line_12 | alpha
 either
 first
 bottom
@@ -78,34 +78,34 @@ motion
 hub
 snack
 artefact |  
-| bip_39_word_new_line2 | alpha
+| bip_39_word_new_line_2 | alpha
 either |  
-| bip_39_word_new_line3 | alpha
+| bip_39_word_new_line_3 | alpha
 either
 first |  
-| bip_39_word_new_line4 | alpha
+| bip_39_word_new_line_4 | alpha
 either
 first
 bottom |  
-| bip_39_word_new_line5 | alpha
+| bip_39_word_new_line_5 | alpha
 either
 first
 bottom
 matrix |  
-| bip_39_word_new_line6 | alpha
+| bip_39_word_new_line_6 | alpha
 either
 first
 bottom
 matrix
 control |  
-| bip_39_word_new_line7 | alpha
+| bip_39_word_new_line_7 | alpha
 either
 first
 bottom
 matrix
 control
 state |  
-| bip_39_word_new_line8 | alpha
+| bip_39_word_new_line_8 | alpha
 either
 first
 bottom
@@ -113,7 +113,7 @@ matrix
 control
 state
 fruit |  
-| bip_39_word_new_line9 | alpha
+| bip_39_word_new_line_9 | alpha
 either
 first
 bottom

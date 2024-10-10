@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | age |  
-| bip_39_word_new_br10 | age<br>usage<br>super<br>voice<br>verify<br>danger<br>fury<br>merit<br>bounce<br>rug |  
-| bip_39_word_new_br11 | age<br>usage<br>super<br>voice<br>verify<br>danger<br>fury<br>merit<br>bounce<br>rug<br>predict |  
-| bip_39_word_new_br12 | age<br>usage<br>super<br>voice<br>verify<br>danger<br>fury<br>merit<br>bounce<br>rug<br>predict<br>athlete |  
-| bip_39_word_new_br2 | age<br>usage |  
-| bip_39_word_new_br3 | age<br>usage<br>super |  
-| bip_39_word_new_br4 | age<br>usage<br>super<br>voice |  
-| bip_39_word_new_br5 | age<br>usage<br>super<br>voice<br>verify |  
-| bip_39_word_new_br6 | age<br>usage<br>super<br>voice<br>verify<br>danger |  
-| bip_39_word_new_br7 | age<br>usage<br>super<br>voice<br>verify<br>danger<br>fury |  
-| bip_39_word_new_br8 | age<br>usage<br>super<br>voice<br>verify<br>danger<br>fury<br>merit |  
-| bip_39_word_new_br9 | age<br>usage<br>super<br>voice<br>verify<br>danger<br>fury<br>merit<br>bounce |  
-| bip_39_word_new_line1 | age |  
-| bip_39_word_new_line10 | age
+| bip_39_word_new_br_1 | age |  
+| bip_39_word_new_br_10 | age<br>usage<br>super<br>voice<br>verify<br>danger<br>fury<br>merit<br>bounce<br>rug |  
+| bip_39_word_new_br_11 | age<br>usage<br>super<br>voice<br>verify<br>danger<br>fury<br>merit<br>bounce<br>rug<br>predict |  
+| bip_39_word_new_br_12 | age<br>usage<br>super<br>voice<br>verify<br>danger<br>fury<br>merit<br>bounce<br>rug<br>predict<br>athlete |  
+| bip_39_word_new_br_2 | age<br>usage |  
+| bip_39_word_new_br_3 | age<br>usage<br>super |  
+| bip_39_word_new_br_4 | age<br>usage<br>super<br>voice |  
+| bip_39_word_new_br_5 | age<br>usage<br>super<br>voice<br>verify |  
+| bip_39_word_new_br_6 | age<br>usage<br>super<br>voice<br>verify<br>danger |  
+| bip_39_word_new_br_7 | age<br>usage<br>super<br>voice<br>verify<br>danger<br>fury |  
+| bip_39_word_new_br_8 | age<br>usage<br>super<br>voice<br>verify<br>danger<br>fury<br>merit |  
+| bip_39_word_new_br_9 | age<br>usage<br>super<br>voice<br>verify<br>danger<br>fury<br>merit<br>bounce |  
+| bip_39_word_new_line_1 | age |  
+| bip_39_word_new_line_10 | age
 usage
 super
 voice
@@ -55,7 +55,7 @@ fury
 merit
 bounce
 rug |  
-| bip_39_word_new_line11 | age
+| bip_39_word_new_line_11 | age
 usage
 super
 voice
@@ -66,7 +66,7 @@ merit
 bounce
 rug
 predict |  
-| bip_39_word_new_line12 | age
+| bip_39_word_new_line_12 | age
 usage
 super
 voice
@@ -78,34 +78,34 @@ bounce
 rug
 predict
 athlete |  
-| bip_39_word_new_line2 | age
+| bip_39_word_new_line_2 | age
 usage |  
-| bip_39_word_new_line3 | age
+| bip_39_word_new_line_3 | age
 usage
 super |  
-| bip_39_word_new_line4 | age
+| bip_39_word_new_line_4 | age
 usage
 super
 voice |  
-| bip_39_word_new_line5 | age
+| bip_39_word_new_line_5 | age
 usage
 super
 voice
 verify |  
-| bip_39_word_new_line6 | age
+| bip_39_word_new_line_6 | age
 usage
 super
 voice
 verify
 danger |  
-| bip_39_word_new_line7 | age
+| bip_39_word_new_line_7 | age
 usage
 super
 voice
 verify
 danger
 fury |  
-| bip_39_word_new_line8 | age
+| bip_39_word_new_line_8 | age
 usage
 super
 voice
@@ -113,7 +113,7 @@ verify
 danger
 fury
 merit |  
-| bip_39_word_new_line9 | age
+| bip_39_word_new_line_9 | age
 usage
 super
 voice

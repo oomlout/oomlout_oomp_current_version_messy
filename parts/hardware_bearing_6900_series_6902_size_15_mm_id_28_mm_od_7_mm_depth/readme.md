@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pole |  
-| bip_39_word_new_br10 | pole<br>reveal<br>broccoli<br>quality<br>good<br>patch<br>tiny<br>custom<br>venue<br>canyon |  
-| bip_39_word_new_br11 | pole<br>reveal<br>broccoli<br>quality<br>good<br>patch<br>tiny<br>custom<br>venue<br>canyon<br>steak |  
-| bip_39_word_new_br12 | pole<br>reveal<br>broccoli<br>quality<br>good<br>patch<br>tiny<br>custom<br>venue<br>canyon<br>steak<br>attack |  
-| bip_39_word_new_br2 | pole<br>reveal |  
-| bip_39_word_new_br3 | pole<br>reveal<br>broccoli |  
-| bip_39_word_new_br4 | pole<br>reveal<br>broccoli<br>quality |  
-| bip_39_word_new_br5 | pole<br>reveal<br>broccoli<br>quality<br>good |  
-| bip_39_word_new_br6 | pole<br>reveal<br>broccoli<br>quality<br>good<br>patch |  
-| bip_39_word_new_br7 | pole<br>reveal<br>broccoli<br>quality<br>good<br>patch<br>tiny |  
-| bip_39_word_new_br8 | pole<br>reveal<br>broccoli<br>quality<br>good<br>patch<br>tiny<br>custom |  
-| bip_39_word_new_br9 | pole<br>reveal<br>broccoli<br>quality<br>good<br>patch<br>tiny<br>custom<br>venue |  
-| bip_39_word_new_line1 | pole |  
-| bip_39_word_new_line10 | pole
+| bip_39_word_new_br_1 | pole |  
+| bip_39_word_new_br_10 | pole<br>reveal<br>broccoli<br>quality<br>good<br>patch<br>tiny<br>custom<br>venue<br>canyon |  
+| bip_39_word_new_br_11 | pole<br>reveal<br>broccoli<br>quality<br>good<br>patch<br>tiny<br>custom<br>venue<br>canyon<br>steak |  
+| bip_39_word_new_br_12 | pole<br>reveal<br>broccoli<br>quality<br>good<br>patch<br>tiny<br>custom<br>venue<br>canyon<br>steak<br>attack |  
+| bip_39_word_new_br_2 | pole<br>reveal |  
+| bip_39_word_new_br_3 | pole<br>reveal<br>broccoli |  
+| bip_39_word_new_br_4 | pole<br>reveal<br>broccoli<br>quality |  
+| bip_39_word_new_br_5 | pole<br>reveal<br>broccoli<br>quality<br>good |  
+| bip_39_word_new_br_6 | pole<br>reveal<br>broccoli<br>quality<br>good<br>patch |  
+| bip_39_word_new_br_7 | pole<br>reveal<br>broccoli<br>quality<br>good<br>patch<br>tiny |  
+| bip_39_word_new_br_8 | pole<br>reveal<br>broccoli<br>quality<br>good<br>patch<br>tiny<br>custom |  
+| bip_39_word_new_br_9 | pole<br>reveal<br>broccoli<br>quality<br>good<br>patch<br>tiny<br>custom<br>venue |  
+| bip_39_word_new_line_1 | pole |  
+| bip_39_word_new_line_10 | pole
 reveal
 broccoli
 quality
@@ -55,7 +55,7 @@ tiny
 custom
 venue
 canyon |  
-| bip_39_word_new_line11 | pole
+| bip_39_word_new_line_11 | pole
 reveal
 broccoli
 quality
@@ -66,7 +66,7 @@ custom
 venue
 canyon
 steak |  
-| bip_39_word_new_line12 | pole
+| bip_39_word_new_line_12 | pole
 reveal
 broccoli
 quality
@@ -78,34 +78,34 @@ venue
 canyon
 steak
 attack |  
-| bip_39_word_new_line2 | pole
+| bip_39_word_new_line_2 | pole
 reveal |  
-| bip_39_word_new_line3 | pole
+| bip_39_word_new_line_3 | pole
 reveal
 broccoli |  
-| bip_39_word_new_line4 | pole
+| bip_39_word_new_line_4 | pole
 reveal
 broccoli
 quality |  
-| bip_39_word_new_line5 | pole
+| bip_39_word_new_line_5 | pole
 reveal
 broccoli
 quality
 good |  
-| bip_39_word_new_line6 | pole
+| bip_39_word_new_line_6 | pole
 reveal
 broccoli
 quality
 good
 patch |  
-| bip_39_word_new_line7 | pole
+| bip_39_word_new_line_7 | pole
 reveal
 broccoli
 quality
 good
 patch
 tiny |  
-| bip_39_word_new_line8 | pole
+| bip_39_word_new_line_8 | pole
 reveal
 broccoli
 quality
@@ -113,7 +113,7 @@ good
 patch
 tiny
 custom |  
-| bip_39_word_new_line9 | pole
+| bip_39_word_new_line_9 | pole
 reveal
 broccoli
 quality

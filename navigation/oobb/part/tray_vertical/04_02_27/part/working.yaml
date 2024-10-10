@@ -1,17 +1,17 @@
-bip_39_word_new_br1: now
-bip_39_word_new_br10: now<br>salt<br>friend<br>resist<br>spawn<br>metal<br>lend<br>wheat<br>wheat<br>cute
-bip_39_word_new_br11: now<br>salt<br>friend<br>resist<br>spawn<br>metal<br>lend<br>wheat<br>wheat<br>cute<br>blossom
-bip_39_word_new_br12: now<br>salt<br>friend<br>resist<br>spawn<br>metal<br>lend<br>wheat<br>wheat<br>cute<br>blossom<br>amount
-bip_39_word_new_br2: now<br>salt
-bip_39_word_new_br3: now<br>salt<br>friend
-bip_39_word_new_br4: now<br>salt<br>friend<br>resist
-bip_39_word_new_br5: now<br>salt<br>friend<br>resist<br>spawn
-bip_39_word_new_br6: now<br>salt<br>friend<br>resist<br>spawn<br>metal
-bip_39_word_new_br7: now<br>salt<br>friend<br>resist<br>spawn<br>metal<br>lend
-bip_39_word_new_br8: now<br>salt<br>friend<br>resist<br>spawn<br>metal<br>lend<br>wheat
-bip_39_word_new_br9: now<br>salt<br>friend<br>resist<br>spawn<br>metal<br>lend<br>wheat<br>wheat
-bip_39_word_new_line1: now
-bip_39_word_new_line10: 'now
+bip_39_word_new_br_1: now
+bip_39_word_new_br_10: now<br>salt<br>friend<br>resist<br>spawn<br>metal<br>lend<br>wheat<br>wheat<br>cute
+bip_39_word_new_br_11: now<br>salt<br>friend<br>resist<br>spawn<br>metal<br>lend<br>wheat<br>wheat<br>cute<br>blossom
+bip_39_word_new_br_12: now<br>salt<br>friend<br>resist<br>spawn<br>metal<br>lend<br>wheat<br>wheat<br>cute<br>blossom<br>amount
+bip_39_word_new_br_2: now<br>salt
+bip_39_word_new_br_3: now<br>salt<br>friend
+bip_39_word_new_br_4: now<br>salt<br>friend<br>resist
+bip_39_word_new_br_5: now<br>salt<br>friend<br>resist<br>spawn
+bip_39_word_new_br_6: now<br>salt<br>friend<br>resist<br>spawn<br>metal
+bip_39_word_new_br_7: now<br>salt<br>friend<br>resist<br>spawn<br>metal<br>lend
+bip_39_word_new_br_8: now<br>salt<br>friend<br>resist<br>spawn<br>metal<br>lend<br>wheat
+bip_39_word_new_br_9: now<br>salt<br>friend<br>resist<br>spawn<br>metal<br>lend<br>wheat<br>wheat
+bip_39_word_new_line_1: now
+bip_39_word_new_line_10: 'now
 
   salt
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'now
   wheat
 
   cute'
-bip_39_word_new_line11: 'now
+bip_39_word_new_line_11: 'now
 
   salt
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'now
   cute
 
   blossom'
-bip_39_word_new_line12: 'now
+bip_39_word_new_line_12: 'now
 
   salt
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'now
   blossom
 
   amount'
-bip_39_word_new_line2: 'now
+bip_39_word_new_line_2: 'now
 
   salt'
-bip_39_word_new_line3: 'now
+bip_39_word_new_line_3: 'now
 
   salt
 
   friend'
-bip_39_word_new_line4: 'now
+bip_39_word_new_line_4: 'now
 
   salt
 
   friend
 
   resist'
-bip_39_word_new_line5: 'now
+bip_39_word_new_line_5: 'now
 
   salt
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'now
   resist
 
   spawn'
-bip_39_word_new_line6: 'now
+bip_39_word_new_line_6: 'now
 
   salt
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'now
   spawn
 
   metal'
-bip_39_word_new_line7: 'now
+bip_39_word_new_line_7: 'now
 
   salt
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'now
   metal
 
   lend'
-bip_39_word_new_line8: 'now
+bip_39_word_new_line_8: 'now
 
   salt
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'now
   lend
 
   wheat'
-bip_39_word_new_line9: 'now
+bip_39_word_new_line_9: 'now
 
   salt
 

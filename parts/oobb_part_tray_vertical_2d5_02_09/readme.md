@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gospel |  
-| bip_39_word_new_br10 | gospel<br>autumn<br>blouse<br>reopen<br>surface<br>gravity<br>pill<br>mirror<br>ten<br>unfair |  
-| bip_39_word_new_br11 | gospel<br>autumn<br>blouse<br>reopen<br>surface<br>gravity<br>pill<br>mirror<br>ten<br>unfair<br>solve |  
-| bip_39_word_new_br12 | gospel<br>autumn<br>blouse<br>reopen<br>surface<br>gravity<br>pill<br>mirror<br>ten<br>unfair<br>solve<br>agree |  
-| bip_39_word_new_br2 | gospel<br>autumn |  
-| bip_39_word_new_br3 | gospel<br>autumn<br>blouse |  
-| bip_39_word_new_br4 | gospel<br>autumn<br>blouse<br>reopen |  
-| bip_39_word_new_br5 | gospel<br>autumn<br>blouse<br>reopen<br>surface |  
-| bip_39_word_new_br6 | gospel<br>autumn<br>blouse<br>reopen<br>surface<br>gravity |  
-| bip_39_word_new_br7 | gospel<br>autumn<br>blouse<br>reopen<br>surface<br>gravity<br>pill |  
-| bip_39_word_new_br8 | gospel<br>autumn<br>blouse<br>reopen<br>surface<br>gravity<br>pill<br>mirror |  
-| bip_39_word_new_br9 | gospel<br>autumn<br>blouse<br>reopen<br>surface<br>gravity<br>pill<br>mirror<br>ten |  
-| bip_39_word_new_line1 | gospel |  
-| bip_39_word_new_line10 | gospel
+| bip_39_word_new_br_1 | gospel |  
+| bip_39_word_new_br_10 | gospel<br>autumn<br>blouse<br>reopen<br>surface<br>gravity<br>pill<br>mirror<br>ten<br>unfair |  
+| bip_39_word_new_br_11 | gospel<br>autumn<br>blouse<br>reopen<br>surface<br>gravity<br>pill<br>mirror<br>ten<br>unfair<br>solve |  
+| bip_39_word_new_br_12 | gospel<br>autumn<br>blouse<br>reopen<br>surface<br>gravity<br>pill<br>mirror<br>ten<br>unfair<br>solve<br>agree |  
+| bip_39_word_new_br_2 | gospel<br>autumn |  
+| bip_39_word_new_br_3 | gospel<br>autumn<br>blouse |  
+| bip_39_word_new_br_4 | gospel<br>autumn<br>blouse<br>reopen |  
+| bip_39_word_new_br_5 | gospel<br>autumn<br>blouse<br>reopen<br>surface |  
+| bip_39_word_new_br_6 | gospel<br>autumn<br>blouse<br>reopen<br>surface<br>gravity |  
+| bip_39_word_new_br_7 | gospel<br>autumn<br>blouse<br>reopen<br>surface<br>gravity<br>pill |  
+| bip_39_word_new_br_8 | gospel<br>autumn<br>blouse<br>reopen<br>surface<br>gravity<br>pill<br>mirror |  
+| bip_39_word_new_br_9 | gospel<br>autumn<br>blouse<br>reopen<br>surface<br>gravity<br>pill<br>mirror<br>ten |  
+| bip_39_word_new_line_1 | gospel |  
+| bip_39_word_new_line_10 | gospel
 autumn
 blouse
 reopen
@@ -55,7 +55,7 @@ pill
 mirror
 ten
 unfair |  
-| bip_39_word_new_line11 | gospel
+| bip_39_word_new_line_11 | gospel
 autumn
 blouse
 reopen
@@ -66,7 +66,7 @@ mirror
 ten
 unfair
 solve |  
-| bip_39_word_new_line12 | gospel
+| bip_39_word_new_line_12 | gospel
 autumn
 blouse
 reopen
@@ -78,34 +78,34 @@ ten
 unfair
 solve
 agree |  
-| bip_39_word_new_line2 | gospel
+| bip_39_word_new_line_2 | gospel
 autumn |  
-| bip_39_word_new_line3 | gospel
+| bip_39_word_new_line_3 | gospel
 autumn
 blouse |  
-| bip_39_word_new_line4 | gospel
+| bip_39_word_new_line_4 | gospel
 autumn
 blouse
 reopen |  
-| bip_39_word_new_line5 | gospel
+| bip_39_word_new_line_5 | gospel
 autumn
 blouse
 reopen
 surface |  
-| bip_39_word_new_line6 | gospel
+| bip_39_word_new_line_6 | gospel
 autumn
 blouse
 reopen
 surface
 gravity |  
-| bip_39_word_new_line7 | gospel
+| bip_39_word_new_line_7 | gospel
 autumn
 blouse
 reopen
 surface
 gravity
 pill |  
-| bip_39_word_new_line8 | gospel
+| bip_39_word_new_line_8 | gospel
 autumn
 blouse
 reopen
@@ -113,7 +113,7 @@ surface
 gravity
 pill
 mirror |  
-| bip_39_word_new_line9 | gospel
+| bip_39_word_new_line_9 | gospel
 autumn
 blouse
 reopen

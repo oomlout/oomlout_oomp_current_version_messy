@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cross |  
-| bip_39_word_new_br10 | cross<br>fix<br>trap<br>task<br>humble<br>cup<br>lobster<br>impulse<br>uphold<br>figure |  
-| bip_39_word_new_br11 | cross<br>fix<br>trap<br>task<br>humble<br>cup<br>lobster<br>impulse<br>uphold<br>figure<br>half |  
-| bip_39_word_new_br12 | cross<br>fix<br>trap<br>task<br>humble<br>cup<br>lobster<br>impulse<br>uphold<br>figure<br>half<br>accident |  
-| bip_39_word_new_br2 | cross<br>fix |  
-| bip_39_word_new_br3 | cross<br>fix<br>trap |  
-| bip_39_word_new_br4 | cross<br>fix<br>trap<br>task |  
-| bip_39_word_new_br5 | cross<br>fix<br>trap<br>task<br>humble |  
-| bip_39_word_new_br6 | cross<br>fix<br>trap<br>task<br>humble<br>cup |  
-| bip_39_word_new_br7 | cross<br>fix<br>trap<br>task<br>humble<br>cup<br>lobster |  
-| bip_39_word_new_br8 | cross<br>fix<br>trap<br>task<br>humble<br>cup<br>lobster<br>impulse |  
-| bip_39_word_new_br9 | cross<br>fix<br>trap<br>task<br>humble<br>cup<br>lobster<br>impulse<br>uphold |  
-| bip_39_word_new_line1 | cross |  
-| bip_39_word_new_line10 | cross
+| bip_39_word_new_br_1 | cross |  
+| bip_39_word_new_br_10 | cross<br>fix<br>trap<br>task<br>humble<br>cup<br>lobster<br>impulse<br>uphold<br>figure |  
+| bip_39_word_new_br_11 | cross<br>fix<br>trap<br>task<br>humble<br>cup<br>lobster<br>impulse<br>uphold<br>figure<br>half |  
+| bip_39_word_new_br_12 | cross<br>fix<br>trap<br>task<br>humble<br>cup<br>lobster<br>impulse<br>uphold<br>figure<br>half<br>accident |  
+| bip_39_word_new_br_2 | cross<br>fix |  
+| bip_39_word_new_br_3 | cross<br>fix<br>trap |  
+| bip_39_word_new_br_4 | cross<br>fix<br>trap<br>task |  
+| bip_39_word_new_br_5 | cross<br>fix<br>trap<br>task<br>humble |  
+| bip_39_word_new_br_6 | cross<br>fix<br>trap<br>task<br>humble<br>cup |  
+| bip_39_word_new_br_7 | cross<br>fix<br>trap<br>task<br>humble<br>cup<br>lobster |  
+| bip_39_word_new_br_8 | cross<br>fix<br>trap<br>task<br>humble<br>cup<br>lobster<br>impulse |  
+| bip_39_word_new_br_9 | cross<br>fix<br>trap<br>task<br>humble<br>cup<br>lobster<br>impulse<br>uphold |  
+| bip_39_word_new_line_1 | cross |  
+| bip_39_word_new_line_10 | cross
 fix
 trap
 task
@@ -55,7 +55,7 @@ lobster
 impulse
 uphold
 figure |  
-| bip_39_word_new_line11 | cross
+| bip_39_word_new_line_11 | cross
 fix
 trap
 task
@@ -66,7 +66,7 @@ impulse
 uphold
 figure
 half |  
-| bip_39_word_new_line12 | cross
+| bip_39_word_new_line_12 | cross
 fix
 trap
 task
@@ -78,34 +78,34 @@ uphold
 figure
 half
 accident |  
-| bip_39_word_new_line2 | cross
+| bip_39_word_new_line_2 | cross
 fix |  
-| bip_39_word_new_line3 | cross
+| bip_39_word_new_line_3 | cross
 fix
 trap |  
-| bip_39_word_new_line4 | cross
+| bip_39_word_new_line_4 | cross
 fix
 trap
 task |  
-| bip_39_word_new_line5 | cross
+| bip_39_word_new_line_5 | cross
 fix
 trap
 task
 humble |  
-| bip_39_word_new_line6 | cross
+| bip_39_word_new_line_6 | cross
 fix
 trap
 task
 humble
 cup |  
-| bip_39_word_new_line7 | cross
+| bip_39_word_new_line_7 | cross
 fix
 trap
 task
 humble
 cup
 lobster |  
-| bip_39_word_new_line8 | cross
+| bip_39_word_new_line_8 | cross
 fix
 trap
 task
@@ -113,7 +113,7 @@ humble
 cup
 lobster
 impulse |  
-| bip_39_word_new_line9 | cross
+| bip_39_word_new_line_9 | cross
 fix
 trap
 task

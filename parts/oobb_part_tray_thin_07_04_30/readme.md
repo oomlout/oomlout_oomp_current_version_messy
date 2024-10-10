@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | artist |  
-| bip_39_word_new_br10 | artist<br>lock<br>rough<br>duck<br>struggle<br>napkin<br>steel<br>wool<br>marble<br>safe |  
-| bip_39_word_new_br11 | artist<br>lock<br>rough<br>duck<br>struggle<br>napkin<br>steel<br>wool<br>marble<br>safe<br>damp |  
-| bip_39_word_new_br12 | artist<br>lock<br>rough<br>duck<br>struggle<br>napkin<br>steel<br>wool<br>marble<br>safe<br>damp<br>actual |  
-| bip_39_word_new_br2 | artist<br>lock |  
-| bip_39_word_new_br3 | artist<br>lock<br>rough |  
-| bip_39_word_new_br4 | artist<br>lock<br>rough<br>duck |  
-| bip_39_word_new_br5 | artist<br>lock<br>rough<br>duck<br>struggle |  
-| bip_39_word_new_br6 | artist<br>lock<br>rough<br>duck<br>struggle<br>napkin |  
-| bip_39_word_new_br7 | artist<br>lock<br>rough<br>duck<br>struggle<br>napkin<br>steel |  
-| bip_39_word_new_br8 | artist<br>lock<br>rough<br>duck<br>struggle<br>napkin<br>steel<br>wool |  
-| bip_39_word_new_br9 | artist<br>lock<br>rough<br>duck<br>struggle<br>napkin<br>steel<br>wool<br>marble |  
-| bip_39_word_new_line1 | artist |  
-| bip_39_word_new_line10 | artist
+| bip_39_word_new_br_1 | artist |  
+| bip_39_word_new_br_10 | artist<br>lock<br>rough<br>duck<br>struggle<br>napkin<br>steel<br>wool<br>marble<br>safe |  
+| bip_39_word_new_br_11 | artist<br>lock<br>rough<br>duck<br>struggle<br>napkin<br>steel<br>wool<br>marble<br>safe<br>damp |  
+| bip_39_word_new_br_12 | artist<br>lock<br>rough<br>duck<br>struggle<br>napkin<br>steel<br>wool<br>marble<br>safe<br>damp<br>actual |  
+| bip_39_word_new_br_2 | artist<br>lock |  
+| bip_39_word_new_br_3 | artist<br>lock<br>rough |  
+| bip_39_word_new_br_4 | artist<br>lock<br>rough<br>duck |  
+| bip_39_word_new_br_5 | artist<br>lock<br>rough<br>duck<br>struggle |  
+| bip_39_word_new_br_6 | artist<br>lock<br>rough<br>duck<br>struggle<br>napkin |  
+| bip_39_word_new_br_7 | artist<br>lock<br>rough<br>duck<br>struggle<br>napkin<br>steel |  
+| bip_39_word_new_br_8 | artist<br>lock<br>rough<br>duck<br>struggle<br>napkin<br>steel<br>wool |  
+| bip_39_word_new_br_9 | artist<br>lock<br>rough<br>duck<br>struggle<br>napkin<br>steel<br>wool<br>marble |  
+| bip_39_word_new_line_1 | artist |  
+| bip_39_word_new_line_10 | artist
 lock
 rough
 duck
@@ -55,7 +55,7 @@ steel
 wool
 marble
 safe |  
-| bip_39_word_new_line11 | artist
+| bip_39_word_new_line_11 | artist
 lock
 rough
 duck
@@ -66,7 +66,7 @@ wool
 marble
 safe
 damp |  
-| bip_39_word_new_line12 | artist
+| bip_39_word_new_line_12 | artist
 lock
 rough
 duck
@@ -78,34 +78,34 @@ marble
 safe
 damp
 actual |  
-| bip_39_word_new_line2 | artist
+| bip_39_word_new_line_2 | artist
 lock |  
-| bip_39_word_new_line3 | artist
+| bip_39_word_new_line_3 | artist
 lock
 rough |  
-| bip_39_word_new_line4 | artist
+| bip_39_word_new_line_4 | artist
 lock
 rough
 duck |  
-| bip_39_word_new_line5 | artist
+| bip_39_word_new_line_5 | artist
 lock
 rough
 duck
 struggle |  
-| bip_39_word_new_line6 | artist
+| bip_39_word_new_line_6 | artist
 lock
 rough
 duck
 struggle
 napkin |  
-| bip_39_word_new_line7 | artist
+| bip_39_word_new_line_7 | artist
 lock
 rough
 duck
 struggle
 napkin
 steel |  
-| bip_39_word_new_line8 | artist
+| bip_39_word_new_line_8 | artist
 lock
 rough
 duck
@@ -113,7 +113,7 @@ struggle
 napkin
 steel
 wool |  
-| bip_39_word_new_line9 | artist
+| bip_39_word_new_line_9 | artist
 lock
 rough
 duck

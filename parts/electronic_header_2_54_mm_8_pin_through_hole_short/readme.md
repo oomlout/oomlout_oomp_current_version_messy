@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | identify |  
-| bip_39_word_new_br10 | identify<br>weather<br>biology<br>dial<br>other<br>language<br>basic<br>awake<br>silent<br>edge |  
-| bip_39_word_new_br11 | identify<br>weather<br>biology<br>dial<br>other<br>language<br>basic<br>awake<br>silent<br>edge<br>shift |  
-| bip_39_word_new_br12 | identify<br>weather<br>biology<br>dial<br>other<br>language<br>basic<br>awake<br>silent<br>edge<br>shift<br>air |  
-| bip_39_word_new_br2 | identify<br>weather |  
-| bip_39_word_new_br3 | identify<br>weather<br>biology |  
-| bip_39_word_new_br4 | identify<br>weather<br>biology<br>dial |  
-| bip_39_word_new_br5 | identify<br>weather<br>biology<br>dial<br>other |  
-| bip_39_word_new_br6 | identify<br>weather<br>biology<br>dial<br>other<br>language |  
-| bip_39_word_new_br7 | identify<br>weather<br>biology<br>dial<br>other<br>language<br>basic |  
-| bip_39_word_new_br8 | identify<br>weather<br>biology<br>dial<br>other<br>language<br>basic<br>awake |  
-| bip_39_word_new_br9 | identify<br>weather<br>biology<br>dial<br>other<br>language<br>basic<br>awake<br>silent |  
-| bip_39_word_new_line1 | identify |  
-| bip_39_word_new_line10 | identify
+| bip_39_word_new_br_1 | identify |  
+| bip_39_word_new_br_10 | identify<br>weather<br>biology<br>dial<br>other<br>language<br>basic<br>awake<br>silent<br>edge |  
+| bip_39_word_new_br_11 | identify<br>weather<br>biology<br>dial<br>other<br>language<br>basic<br>awake<br>silent<br>edge<br>shift |  
+| bip_39_word_new_br_12 | identify<br>weather<br>biology<br>dial<br>other<br>language<br>basic<br>awake<br>silent<br>edge<br>shift<br>air |  
+| bip_39_word_new_br_2 | identify<br>weather |  
+| bip_39_word_new_br_3 | identify<br>weather<br>biology |  
+| bip_39_word_new_br_4 | identify<br>weather<br>biology<br>dial |  
+| bip_39_word_new_br_5 | identify<br>weather<br>biology<br>dial<br>other |  
+| bip_39_word_new_br_6 | identify<br>weather<br>biology<br>dial<br>other<br>language |  
+| bip_39_word_new_br_7 | identify<br>weather<br>biology<br>dial<br>other<br>language<br>basic |  
+| bip_39_word_new_br_8 | identify<br>weather<br>biology<br>dial<br>other<br>language<br>basic<br>awake |  
+| bip_39_word_new_br_9 | identify<br>weather<br>biology<br>dial<br>other<br>language<br>basic<br>awake<br>silent |  
+| bip_39_word_new_line_1 | identify |  
+| bip_39_word_new_line_10 | identify
 weather
 biology
 dial
@@ -55,7 +55,7 @@ basic
 awake
 silent
 edge |  
-| bip_39_word_new_line11 | identify
+| bip_39_word_new_line_11 | identify
 weather
 biology
 dial
@@ -66,7 +66,7 @@ awake
 silent
 edge
 shift |  
-| bip_39_word_new_line12 | identify
+| bip_39_word_new_line_12 | identify
 weather
 biology
 dial
@@ -78,34 +78,34 @@ silent
 edge
 shift
 air |  
-| bip_39_word_new_line2 | identify
+| bip_39_word_new_line_2 | identify
 weather |  
-| bip_39_word_new_line3 | identify
+| bip_39_word_new_line_3 | identify
 weather
 biology |  
-| bip_39_word_new_line4 | identify
+| bip_39_word_new_line_4 | identify
 weather
 biology
 dial |  
-| bip_39_word_new_line5 | identify
+| bip_39_word_new_line_5 | identify
 weather
 biology
 dial
 other |  
-| bip_39_word_new_line6 | identify
+| bip_39_word_new_line_6 | identify
 weather
 biology
 dial
 other
 language |  
-| bip_39_word_new_line7 | identify
+| bip_39_word_new_line_7 | identify
 weather
 biology
 dial
 other
 language
 basic |  
-| bip_39_word_new_line8 | identify
+| bip_39_word_new_line_8 | identify
 weather
 biology
 dial
@@ -113,7 +113,7 @@ other
 language
 basic
 awake |  
-| bip_39_word_new_line9 | identify
+| bip_39_word_new_line_9 | identify
 weather
 biology
 dial

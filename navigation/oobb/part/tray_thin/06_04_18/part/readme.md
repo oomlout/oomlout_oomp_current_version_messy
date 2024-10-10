@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pizza |  
-| bip_39_word_new_br10 | pizza<br>mule<br>clarify<br>grunt<br>spirit<br>exhaust<br>cotton<br>mansion<br>explain<br>project |  
-| bip_39_word_new_br11 | pizza<br>mule<br>clarify<br>grunt<br>spirit<br>exhaust<br>cotton<br>mansion<br>explain<br>project<br>depth |  
-| bip_39_word_new_br12 | pizza<br>mule<br>clarify<br>grunt<br>spirit<br>exhaust<br>cotton<br>mansion<br>explain<br>project<br>depth<br>admit |  
-| bip_39_word_new_br2 | pizza<br>mule |  
-| bip_39_word_new_br3 | pizza<br>mule<br>clarify |  
-| bip_39_word_new_br4 | pizza<br>mule<br>clarify<br>grunt |  
-| bip_39_word_new_br5 | pizza<br>mule<br>clarify<br>grunt<br>spirit |  
-| bip_39_word_new_br6 | pizza<br>mule<br>clarify<br>grunt<br>spirit<br>exhaust |  
-| bip_39_word_new_br7 | pizza<br>mule<br>clarify<br>grunt<br>spirit<br>exhaust<br>cotton |  
-| bip_39_word_new_br8 | pizza<br>mule<br>clarify<br>grunt<br>spirit<br>exhaust<br>cotton<br>mansion |  
-| bip_39_word_new_br9 | pizza<br>mule<br>clarify<br>grunt<br>spirit<br>exhaust<br>cotton<br>mansion<br>explain |  
-| bip_39_word_new_line1 | pizza |  
-| bip_39_word_new_line10 | pizza
+| bip_39_word_new_br_1 | pizza |  
+| bip_39_word_new_br_10 | pizza<br>mule<br>clarify<br>grunt<br>spirit<br>exhaust<br>cotton<br>mansion<br>explain<br>project |  
+| bip_39_word_new_br_11 | pizza<br>mule<br>clarify<br>grunt<br>spirit<br>exhaust<br>cotton<br>mansion<br>explain<br>project<br>depth |  
+| bip_39_word_new_br_12 | pizza<br>mule<br>clarify<br>grunt<br>spirit<br>exhaust<br>cotton<br>mansion<br>explain<br>project<br>depth<br>admit |  
+| bip_39_word_new_br_2 | pizza<br>mule |  
+| bip_39_word_new_br_3 | pizza<br>mule<br>clarify |  
+| bip_39_word_new_br_4 | pizza<br>mule<br>clarify<br>grunt |  
+| bip_39_word_new_br_5 | pizza<br>mule<br>clarify<br>grunt<br>spirit |  
+| bip_39_word_new_br_6 | pizza<br>mule<br>clarify<br>grunt<br>spirit<br>exhaust |  
+| bip_39_word_new_br_7 | pizza<br>mule<br>clarify<br>grunt<br>spirit<br>exhaust<br>cotton |  
+| bip_39_word_new_br_8 | pizza<br>mule<br>clarify<br>grunt<br>spirit<br>exhaust<br>cotton<br>mansion |  
+| bip_39_word_new_br_9 | pizza<br>mule<br>clarify<br>grunt<br>spirit<br>exhaust<br>cotton<br>mansion<br>explain |  
+| bip_39_word_new_line_1 | pizza |  
+| bip_39_word_new_line_10 | pizza
 mule
 clarify
 grunt
@@ -55,7 +55,7 @@ cotton
 mansion
 explain
 project |  
-| bip_39_word_new_line11 | pizza
+| bip_39_word_new_line_11 | pizza
 mule
 clarify
 grunt
@@ -66,7 +66,7 @@ mansion
 explain
 project
 depth |  
-| bip_39_word_new_line12 | pizza
+| bip_39_word_new_line_12 | pizza
 mule
 clarify
 grunt
@@ -78,34 +78,34 @@ explain
 project
 depth
 admit |  
-| bip_39_word_new_line2 | pizza
+| bip_39_word_new_line_2 | pizza
 mule |  
-| bip_39_word_new_line3 | pizza
+| bip_39_word_new_line_3 | pizza
 mule
 clarify |  
-| bip_39_word_new_line4 | pizza
+| bip_39_word_new_line_4 | pizza
 mule
 clarify
 grunt |  
-| bip_39_word_new_line5 | pizza
+| bip_39_word_new_line_5 | pizza
 mule
 clarify
 grunt
 spirit |  
-| bip_39_word_new_line6 | pizza
+| bip_39_word_new_line_6 | pizza
 mule
 clarify
 grunt
 spirit
 exhaust |  
-| bip_39_word_new_line7 | pizza
+| bip_39_word_new_line_7 | pizza
 mule
 clarify
 grunt
 spirit
 exhaust
 cotton |  
-| bip_39_word_new_line8 | pizza
+| bip_39_word_new_line_8 | pizza
 mule
 clarify
 grunt
@@ -113,7 +113,7 @@ spirit
 exhaust
 cotton
 mansion |  
-| bip_39_word_new_line9 | pizza
+| bip_39_word_new_line_9 | pizza
 mule
 clarify
 grunt

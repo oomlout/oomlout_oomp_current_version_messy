@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | select |  
-| bip_39_word_new_br10 | select<br>buddy<br>armed<br>timber<br>off<br>sunset<br>skin<br>success<br>erode<br>mansion |  
-| bip_39_word_new_br11 | select<br>buddy<br>armed<br>timber<br>off<br>sunset<br>skin<br>success<br>erode<br>mansion<br>clip |  
-| bip_39_word_new_br12 | select<br>buddy<br>armed<br>timber<br>off<br>sunset<br>skin<br>success<br>erode<br>mansion<br>clip<br>asset |  
-| bip_39_word_new_br2 | select<br>buddy |  
-| bip_39_word_new_br3 | select<br>buddy<br>armed |  
-| bip_39_word_new_br4 | select<br>buddy<br>armed<br>timber |  
-| bip_39_word_new_br5 | select<br>buddy<br>armed<br>timber<br>off |  
-| bip_39_word_new_br6 | select<br>buddy<br>armed<br>timber<br>off<br>sunset |  
-| bip_39_word_new_br7 | select<br>buddy<br>armed<br>timber<br>off<br>sunset<br>skin |  
-| bip_39_word_new_br8 | select<br>buddy<br>armed<br>timber<br>off<br>sunset<br>skin<br>success |  
-| bip_39_word_new_br9 | select<br>buddy<br>armed<br>timber<br>off<br>sunset<br>skin<br>success<br>erode |  
-| bip_39_word_new_line1 | select |  
-| bip_39_word_new_line10 | select
+| bip_39_word_new_br_1 | select |  
+| bip_39_word_new_br_10 | select<br>buddy<br>armed<br>timber<br>off<br>sunset<br>skin<br>success<br>erode<br>mansion |  
+| bip_39_word_new_br_11 | select<br>buddy<br>armed<br>timber<br>off<br>sunset<br>skin<br>success<br>erode<br>mansion<br>clip |  
+| bip_39_word_new_br_12 | select<br>buddy<br>armed<br>timber<br>off<br>sunset<br>skin<br>success<br>erode<br>mansion<br>clip<br>asset |  
+| bip_39_word_new_br_2 | select<br>buddy |  
+| bip_39_word_new_br_3 | select<br>buddy<br>armed |  
+| bip_39_word_new_br_4 | select<br>buddy<br>armed<br>timber |  
+| bip_39_word_new_br_5 | select<br>buddy<br>armed<br>timber<br>off |  
+| bip_39_word_new_br_6 | select<br>buddy<br>armed<br>timber<br>off<br>sunset |  
+| bip_39_word_new_br_7 | select<br>buddy<br>armed<br>timber<br>off<br>sunset<br>skin |  
+| bip_39_word_new_br_8 | select<br>buddy<br>armed<br>timber<br>off<br>sunset<br>skin<br>success |  
+| bip_39_word_new_br_9 | select<br>buddy<br>armed<br>timber<br>off<br>sunset<br>skin<br>success<br>erode |  
+| bip_39_word_new_line_1 | select |  
+| bip_39_word_new_line_10 | select
 buddy
 armed
 timber
@@ -55,7 +55,7 @@ skin
 success
 erode
 mansion |  
-| bip_39_word_new_line11 | select
+| bip_39_word_new_line_11 | select
 buddy
 armed
 timber
@@ -66,7 +66,7 @@ success
 erode
 mansion
 clip |  
-| bip_39_word_new_line12 | select
+| bip_39_word_new_line_12 | select
 buddy
 armed
 timber
@@ -78,34 +78,34 @@ erode
 mansion
 clip
 asset |  
-| bip_39_word_new_line2 | select
+| bip_39_word_new_line_2 | select
 buddy |  
-| bip_39_word_new_line3 | select
+| bip_39_word_new_line_3 | select
 buddy
 armed |  
-| bip_39_word_new_line4 | select
+| bip_39_word_new_line_4 | select
 buddy
 armed
 timber |  
-| bip_39_word_new_line5 | select
+| bip_39_word_new_line_5 | select
 buddy
 armed
 timber
 off |  
-| bip_39_word_new_line6 | select
+| bip_39_word_new_line_6 | select
 buddy
 armed
 timber
 off
 sunset |  
-| bip_39_word_new_line7 | select
+| bip_39_word_new_line_7 | select
 buddy
 armed
 timber
 off
 sunset
 skin |  
-| bip_39_word_new_line8 | select
+| bip_39_word_new_line_8 | select
 buddy
 armed
 timber
@@ -113,7 +113,7 @@ off
 sunset
 skin
 success |  
-| bip_39_word_new_line9 | select
+| bip_39_word_new_line_9 | select
 buddy
 armed
 timber

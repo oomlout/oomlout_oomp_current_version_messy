@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | close |  
-| bip_39_word_new_br10 | close<br>consider<br>nominee<br>brief<br>onion<br>planet<br>churn<br>ask<br>omit<br>margin |  
-| bip_39_word_new_br11 | close<br>consider<br>nominee<br>brief<br>onion<br>planet<br>churn<br>ask<br>omit<br>margin<br>aunt |  
-| bip_39_word_new_br12 | close<br>consider<br>nominee<br>brief<br>onion<br>planet<br>churn<br>ask<br>omit<br>margin<br>aunt<br>apple |  
-| bip_39_word_new_br2 | close<br>consider |  
-| bip_39_word_new_br3 | close<br>consider<br>nominee |  
-| bip_39_word_new_br4 | close<br>consider<br>nominee<br>brief |  
-| bip_39_word_new_br5 | close<br>consider<br>nominee<br>brief<br>onion |  
-| bip_39_word_new_br6 | close<br>consider<br>nominee<br>brief<br>onion<br>planet |  
-| bip_39_word_new_br7 | close<br>consider<br>nominee<br>brief<br>onion<br>planet<br>churn |  
-| bip_39_word_new_br8 | close<br>consider<br>nominee<br>brief<br>onion<br>planet<br>churn<br>ask |  
-| bip_39_word_new_br9 | close<br>consider<br>nominee<br>brief<br>onion<br>planet<br>churn<br>ask<br>omit |  
-| bip_39_word_new_line1 | close |  
-| bip_39_word_new_line10 | close
+| bip_39_word_new_br_1 | close |  
+| bip_39_word_new_br_10 | close<br>consider<br>nominee<br>brief<br>onion<br>planet<br>churn<br>ask<br>omit<br>margin |  
+| bip_39_word_new_br_11 | close<br>consider<br>nominee<br>brief<br>onion<br>planet<br>churn<br>ask<br>omit<br>margin<br>aunt |  
+| bip_39_word_new_br_12 | close<br>consider<br>nominee<br>brief<br>onion<br>planet<br>churn<br>ask<br>omit<br>margin<br>aunt<br>apple |  
+| bip_39_word_new_br_2 | close<br>consider |  
+| bip_39_word_new_br_3 | close<br>consider<br>nominee |  
+| bip_39_word_new_br_4 | close<br>consider<br>nominee<br>brief |  
+| bip_39_word_new_br_5 | close<br>consider<br>nominee<br>brief<br>onion |  
+| bip_39_word_new_br_6 | close<br>consider<br>nominee<br>brief<br>onion<br>planet |  
+| bip_39_word_new_br_7 | close<br>consider<br>nominee<br>brief<br>onion<br>planet<br>churn |  
+| bip_39_word_new_br_8 | close<br>consider<br>nominee<br>brief<br>onion<br>planet<br>churn<br>ask |  
+| bip_39_word_new_br_9 | close<br>consider<br>nominee<br>brief<br>onion<br>planet<br>churn<br>ask<br>omit |  
+| bip_39_word_new_line_1 | close |  
+| bip_39_word_new_line_10 | close
 consider
 nominee
 brief
@@ -55,7 +55,7 @@ churn
 ask
 omit
 margin |  
-| bip_39_word_new_line11 | close
+| bip_39_word_new_line_11 | close
 consider
 nominee
 brief
@@ -66,7 +66,7 @@ ask
 omit
 margin
 aunt |  
-| bip_39_word_new_line12 | close
+| bip_39_word_new_line_12 | close
 consider
 nominee
 brief
@@ -78,34 +78,34 @@ omit
 margin
 aunt
 apple |  
-| bip_39_word_new_line2 | close
+| bip_39_word_new_line_2 | close
 consider |  
-| bip_39_word_new_line3 | close
+| bip_39_word_new_line_3 | close
 consider
 nominee |  
-| bip_39_word_new_line4 | close
+| bip_39_word_new_line_4 | close
 consider
 nominee
 brief |  
-| bip_39_word_new_line5 | close
+| bip_39_word_new_line_5 | close
 consider
 nominee
 brief
 onion |  
-| bip_39_word_new_line6 | close
+| bip_39_word_new_line_6 | close
 consider
 nominee
 brief
 onion
 planet |  
-| bip_39_word_new_line7 | close
+| bip_39_word_new_line_7 | close
 consider
 nominee
 brief
 onion
 planet
 churn |  
-| bip_39_word_new_line8 | close
+| bip_39_word_new_line_8 | close
 consider
 nominee
 brief
@@ -113,7 +113,7 @@ onion
 planet
 churn
 ask |  
-| bip_39_word_new_line9 | close
+| bip_39_word_new_line_9 | close
 consider
 nominee
 brief

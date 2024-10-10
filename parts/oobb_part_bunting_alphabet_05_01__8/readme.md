@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | birth |  
-| bip_39_word_new_br10 | birth<br>sense<br>enforce<br>question<br>eight<br>raccoon<br>scatter<br>property<br>return<br>recall |  
-| bip_39_word_new_br11 | birth<br>sense<br>enforce<br>question<br>eight<br>raccoon<br>scatter<br>property<br>return<br>recall<br>lumber |  
-| bip_39_word_new_br12 | birth<br>sense<br>enforce<br>question<br>eight<br>raccoon<br>scatter<br>property<br>return<br>recall<br>lumber<br>audit |  
-| bip_39_word_new_br2 | birth<br>sense |  
-| bip_39_word_new_br3 | birth<br>sense<br>enforce |  
-| bip_39_word_new_br4 | birth<br>sense<br>enforce<br>question |  
-| bip_39_word_new_br5 | birth<br>sense<br>enforce<br>question<br>eight |  
-| bip_39_word_new_br6 | birth<br>sense<br>enforce<br>question<br>eight<br>raccoon |  
-| bip_39_word_new_br7 | birth<br>sense<br>enforce<br>question<br>eight<br>raccoon<br>scatter |  
-| bip_39_word_new_br8 | birth<br>sense<br>enforce<br>question<br>eight<br>raccoon<br>scatter<br>property |  
-| bip_39_word_new_br9 | birth<br>sense<br>enforce<br>question<br>eight<br>raccoon<br>scatter<br>property<br>return |  
-| bip_39_word_new_line1 | birth |  
-| bip_39_word_new_line10 | birth
+| bip_39_word_new_br_1 | birth |  
+| bip_39_word_new_br_10 | birth<br>sense<br>enforce<br>question<br>eight<br>raccoon<br>scatter<br>property<br>return<br>recall |  
+| bip_39_word_new_br_11 | birth<br>sense<br>enforce<br>question<br>eight<br>raccoon<br>scatter<br>property<br>return<br>recall<br>lumber |  
+| bip_39_word_new_br_12 | birth<br>sense<br>enforce<br>question<br>eight<br>raccoon<br>scatter<br>property<br>return<br>recall<br>lumber<br>audit |  
+| bip_39_word_new_br_2 | birth<br>sense |  
+| bip_39_word_new_br_3 | birth<br>sense<br>enforce |  
+| bip_39_word_new_br_4 | birth<br>sense<br>enforce<br>question |  
+| bip_39_word_new_br_5 | birth<br>sense<br>enforce<br>question<br>eight |  
+| bip_39_word_new_br_6 | birth<br>sense<br>enforce<br>question<br>eight<br>raccoon |  
+| bip_39_word_new_br_7 | birth<br>sense<br>enforce<br>question<br>eight<br>raccoon<br>scatter |  
+| bip_39_word_new_br_8 | birth<br>sense<br>enforce<br>question<br>eight<br>raccoon<br>scatter<br>property |  
+| bip_39_word_new_br_9 | birth<br>sense<br>enforce<br>question<br>eight<br>raccoon<br>scatter<br>property<br>return |  
+| bip_39_word_new_line_1 | birth |  
+| bip_39_word_new_line_10 | birth
 sense
 enforce
 question
@@ -55,7 +55,7 @@ scatter
 property
 return
 recall |  
-| bip_39_word_new_line11 | birth
+| bip_39_word_new_line_11 | birth
 sense
 enforce
 question
@@ -66,7 +66,7 @@ property
 return
 recall
 lumber |  
-| bip_39_word_new_line12 | birth
+| bip_39_word_new_line_12 | birth
 sense
 enforce
 question
@@ -78,34 +78,34 @@ return
 recall
 lumber
 audit |  
-| bip_39_word_new_line2 | birth
+| bip_39_word_new_line_2 | birth
 sense |  
-| bip_39_word_new_line3 | birth
+| bip_39_word_new_line_3 | birth
 sense
 enforce |  
-| bip_39_word_new_line4 | birth
+| bip_39_word_new_line_4 | birth
 sense
 enforce
 question |  
-| bip_39_word_new_line5 | birth
+| bip_39_word_new_line_5 | birth
 sense
 enforce
 question
 eight |  
-| bip_39_word_new_line6 | birth
+| bip_39_word_new_line_6 | birth
 sense
 enforce
 question
 eight
 raccoon |  
-| bip_39_word_new_line7 | birth
+| bip_39_word_new_line_7 | birth
 sense
 enforce
 question
 eight
 raccoon
 scatter |  
-| bip_39_word_new_line8 | birth
+| bip_39_word_new_line_8 | birth
 sense
 enforce
 question
@@ -113,7 +113,7 @@ eight
 raccoon
 scatter
 property |  
-| bip_39_word_new_line9 | birth
+| bip_39_word_new_line_9 | birth
 sense
 enforce
 question

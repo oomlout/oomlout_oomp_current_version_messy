@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bottom |  
-| bip_39_word_new_br10 | bottom<br>fix<br>village<br>number<br>victory<br>maximum<br>actress<br>armed<br>afraid<br>when |  
-| bip_39_word_new_br11 | bottom<br>fix<br>village<br>number<br>victory<br>maximum<br>actress<br>armed<br>afraid<br>when<br>ecology |  
-| bip_39_word_new_br12 | bottom<br>fix<br>village<br>number<br>victory<br>maximum<br>actress<br>armed<br>afraid<br>when<br>ecology<br>ancient |  
-| bip_39_word_new_br2 | bottom<br>fix |  
-| bip_39_word_new_br3 | bottom<br>fix<br>village |  
-| bip_39_word_new_br4 | bottom<br>fix<br>village<br>number |  
-| bip_39_word_new_br5 | bottom<br>fix<br>village<br>number<br>victory |  
-| bip_39_word_new_br6 | bottom<br>fix<br>village<br>number<br>victory<br>maximum |  
-| bip_39_word_new_br7 | bottom<br>fix<br>village<br>number<br>victory<br>maximum<br>actress |  
-| bip_39_word_new_br8 | bottom<br>fix<br>village<br>number<br>victory<br>maximum<br>actress<br>armed |  
-| bip_39_word_new_br9 | bottom<br>fix<br>village<br>number<br>victory<br>maximum<br>actress<br>armed<br>afraid |  
-| bip_39_word_new_line1 | bottom |  
-| bip_39_word_new_line10 | bottom
+| bip_39_word_new_br_1 | bottom |  
+| bip_39_word_new_br_10 | bottom<br>fix<br>village<br>number<br>victory<br>maximum<br>actress<br>armed<br>afraid<br>when |  
+| bip_39_word_new_br_11 | bottom<br>fix<br>village<br>number<br>victory<br>maximum<br>actress<br>armed<br>afraid<br>when<br>ecology |  
+| bip_39_word_new_br_12 | bottom<br>fix<br>village<br>number<br>victory<br>maximum<br>actress<br>armed<br>afraid<br>when<br>ecology<br>ancient |  
+| bip_39_word_new_br_2 | bottom<br>fix |  
+| bip_39_word_new_br_3 | bottom<br>fix<br>village |  
+| bip_39_word_new_br_4 | bottom<br>fix<br>village<br>number |  
+| bip_39_word_new_br_5 | bottom<br>fix<br>village<br>number<br>victory |  
+| bip_39_word_new_br_6 | bottom<br>fix<br>village<br>number<br>victory<br>maximum |  
+| bip_39_word_new_br_7 | bottom<br>fix<br>village<br>number<br>victory<br>maximum<br>actress |  
+| bip_39_word_new_br_8 | bottom<br>fix<br>village<br>number<br>victory<br>maximum<br>actress<br>armed |  
+| bip_39_word_new_br_9 | bottom<br>fix<br>village<br>number<br>victory<br>maximum<br>actress<br>armed<br>afraid |  
+| bip_39_word_new_line_1 | bottom |  
+| bip_39_word_new_line_10 | bottom
 fix
 village
 number
@@ -55,7 +55,7 @@ actress
 armed
 afraid
 when |  
-| bip_39_word_new_line11 | bottom
+| bip_39_word_new_line_11 | bottom
 fix
 village
 number
@@ -66,7 +66,7 @@ armed
 afraid
 when
 ecology |  
-| bip_39_word_new_line12 | bottom
+| bip_39_word_new_line_12 | bottom
 fix
 village
 number
@@ -78,34 +78,34 @@ afraid
 when
 ecology
 ancient |  
-| bip_39_word_new_line2 | bottom
+| bip_39_word_new_line_2 | bottom
 fix |  
-| bip_39_word_new_line3 | bottom
+| bip_39_word_new_line_3 | bottom
 fix
 village |  
-| bip_39_word_new_line4 | bottom
+| bip_39_word_new_line_4 | bottom
 fix
 village
 number |  
-| bip_39_word_new_line5 | bottom
+| bip_39_word_new_line_5 | bottom
 fix
 village
 number
 victory |  
-| bip_39_word_new_line6 | bottom
+| bip_39_word_new_line_6 | bottom
 fix
 village
 number
 victory
 maximum |  
-| bip_39_word_new_line7 | bottom
+| bip_39_word_new_line_7 | bottom
 fix
 village
 number
 victory
 maximum
 actress |  
-| bip_39_word_new_line8 | bottom
+| bip_39_word_new_line_8 | bottom
 fix
 village
 number
@@ -113,7 +113,7 @@ victory
 maximum
 actress
 armed |  
-| bip_39_word_new_line9 | bottom
+| bip_39_word_new_line_9 | bottom
 fix
 village
 number

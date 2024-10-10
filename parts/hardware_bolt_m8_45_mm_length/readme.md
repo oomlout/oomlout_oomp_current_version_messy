@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | present |  
-| bip_39_word_new_br10 | present<br>seminar<br>claim<br>version<br>kit<br>outdoor<br>used<br>wing<br>such<br>mirror |  
-| bip_39_word_new_br11 | present<br>seminar<br>claim<br>version<br>kit<br>outdoor<br>used<br>wing<br>such<br>mirror<br>deposit |  
-| bip_39_word_new_br12 | present<br>seminar<br>claim<br>version<br>kit<br>outdoor<br>used<br>wing<br>such<br>mirror<br>deposit<br>angle |  
-| bip_39_word_new_br2 | present<br>seminar |  
-| bip_39_word_new_br3 | present<br>seminar<br>claim |  
-| bip_39_word_new_br4 | present<br>seminar<br>claim<br>version |  
-| bip_39_word_new_br5 | present<br>seminar<br>claim<br>version<br>kit |  
-| bip_39_word_new_br6 | present<br>seminar<br>claim<br>version<br>kit<br>outdoor |  
-| bip_39_word_new_br7 | present<br>seminar<br>claim<br>version<br>kit<br>outdoor<br>used |  
-| bip_39_word_new_br8 | present<br>seminar<br>claim<br>version<br>kit<br>outdoor<br>used<br>wing |  
-| bip_39_word_new_br9 | present<br>seminar<br>claim<br>version<br>kit<br>outdoor<br>used<br>wing<br>such |  
-| bip_39_word_new_line1 | present |  
-| bip_39_word_new_line10 | present
+| bip_39_word_new_br_1 | present |  
+| bip_39_word_new_br_10 | present<br>seminar<br>claim<br>version<br>kit<br>outdoor<br>used<br>wing<br>such<br>mirror |  
+| bip_39_word_new_br_11 | present<br>seminar<br>claim<br>version<br>kit<br>outdoor<br>used<br>wing<br>such<br>mirror<br>deposit |  
+| bip_39_word_new_br_12 | present<br>seminar<br>claim<br>version<br>kit<br>outdoor<br>used<br>wing<br>such<br>mirror<br>deposit<br>angle |  
+| bip_39_word_new_br_2 | present<br>seminar |  
+| bip_39_word_new_br_3 | present<br>seminar<br>claim |  
+| bip_39_word_new_br_4 | present<br>seminar<br>claim<br>version |  
+| bip_39_word_new_br_5 | present<br>seminar<br>claim<br>version<br>kit |  
+| bip_39_word_new_br_6 | present<br>seminar<br>claim<br>version<br>kit<br>outdoor |  
+| bip_39_word_new_br_7 | present<br>seminar<br>claim<br>version<br>kit<br>outdoor<br>used |  
+| bip_39_word_new_br_8 | present<br>seminar<br>claim<br>version<br>kit<br>outdoor<br>used<br>wing |  
+| bip_39_word_new_br_9 | present<br>seminar<br>claim<br>version<br>kit<br>outdoor<br>used<br>wing<br>such |  
+| bip_39_word_new_line_1 | present |  
+| bip_39_word_new_line_10 | present
 seminar
 claim
 version
@@ -55,7 +55,7 @@ used
 wing
 such
 mirror |  
-| bip_39_word_new_line11 | present
+| bip_39_word_new_line_11 | present
 seminar
 claim
 version
@@ -66,7 +66,7 @@ wing
 such
 mirror
 deposit |  
-| bip_39_word_new_line12 | present
+| bip_39_word_new_line_12 | present
 seminar
 claim
 version
@@ -78,34 +78,34 @@ such
 mirror
 deposit
 angle |  
-| bip_39_word_new_line2 | present
+| bip_39_word_new_line_2 | present
 seminar |  
-| bip_39_word_new_line3 | present
+| bip_39_word_new_line_3 | present
 seminar
 claim |  
-| bip_39_word_new_line4 | present
+| bip_39_word_new_line_4 | present
 seminar
 claim
 version |  
-| bip_39_word_new_line5 | present
+| bip_39_word_new_line_5 | present
 seminar
 claim
 version
 kit |  
-| bip_39_word_new_line6 | present
+| bip_39_word_new_line_6 | present
 seminar
 claim
 version
 kit
 outdoor |  
-| bip_39_word_new_line7 | present
+| bip_39_word_new_line_7 | present
 seminar
 claim
 version
 kit
 outdoor
 used |  
-| bip_39_word_new_line8 | present
+| bip_39_word_new_line_8 | present
 seminar
 claim
 version
@@ -113,7 +113,7 @@ kit
 outdoor
 used
 wing |  
-| bip_39_word_new_line9 | present
+| bip_39_word_new_line_9 | present
 seminar
 claim
 version

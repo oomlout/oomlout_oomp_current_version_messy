@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | select |  
-| bip_39_word_new_br10 | select<br>example<br>east<br>salon<br>dry<br>letter<br>hint<br>gesture<br>dragon<br>peasant |  
-| bip_39_word_new_br11 | select<br>example<br>east<br>salon<br>dry<br>letter<br>hint<br>gesture<br>dragon<br>peasant<br>intact |  
-| bip_39_word_new_br12 | select<br>example<br>east<br>salon<br>dry<br>letter<br>hint<br>gesture<br>dragon<br>peasant<br>intact<br>arrest |  
-| bip_39_word_new_br2 | select<br>example |  
-| bip_39_word_new_br3 | select<br>example<br>east |  
-| bip_39_word_new_br4 | select<br>example<br>east<br>salon |  
-| bip_39_word_new_br5 | select<br>example<br>east<br>salon<br>dry |  
-| bip_39_word_new_br6 | select<br>example<br>east<br>salon<br>dry<br>letter |  
-| bip_39_word_new_br7 | select<br>example<br>east<br>salon<br>dry<br>letter<br>hint |  
-| bip_39_word_new_br8 | select<br>example<br>east<br>salon<br>dry<br>letter<br>hint<br>gesture |  
-| bip_39_word_new_br9 | select<br>example<br>east<br>salon<br>dry<br>letter<br>hint<br>gesture<br>dragon |  
-| bip_39_word_new_line1 | select |  
-| bip_39_word_new_line10 | select
+| bip_39_word_new_br_1 | select |  
+| bip_39_word_new_br_10 | select<br>example<br>east<br>salon<br>dry<br>letter<br>hint<br>gesture<br>dragon<br>peasant |  
+| bip_39_word_new_br_11 | select<br>example<br>east<br>salon<br>dry<br>letter<br>hint<br>gesture<br>dragon<br>peasant<br>intact |  
+| bip_39_word_new_br_12 | select<br>example<br>east<br>salon<br>dry<br>letter<br>hint<br>gesture<br>dragon<br>peasant<br>intact<br>arrest |  
+| bip_39_word_new_br_2 | select<br>example |  
+| bip_39_word_new_br_3 | select<br>example<br>east |  
+| bip_39_word_new_br_4 | select<br>example<br>east<br>salon |  
+| bip_39_word_new_br_5 | select<br>example<br>east<br>salon<br>dry |  
+| bip_39_word_new_br_6 | select<br>example<br>east<br>salon<br>dry<br>letter |  
+| bip_39_word_new_br_7 | select<br>example<br>east<br>salon<br>dry<br>letter<br>hint |  
+| bip_39_word_new_br_8 | select<br>example<br>east<br>salon<br>dry<br>letter<br>hint<br>gesture |  
+| bip_39_word_new_br_9 | select<br>example<br>east<br>salon<br>dry<br>letter<br>hint<br>gesture<br>dragon |  
+| bip_39_word_new_line_1 | select |  
+| bip_39_word_new_line_10 | select
 example
 east
 salon
@@ -55,7 +55,7 @@ hint
 gesture
 dragon
 peasant |  
-| bip_39_word_new_line11 | select
+| bip_39_word_new_line_11 | select
 example
 east
 salon
@@ -66,7 +66,7 @@ gesture
 dragon
 peasant
 intact |  
-| bip_39_word_new_line12 | select
+| bip_39_word_new_line_12 | select
 example
 east
 salon
@@ -78,34 +78,34 @@ dragon
 peasant
 intact
 arrest |  
-| bip_39_word_new_line2 | select
+| bip_39_word_new_line_2 | select
 example |  
-| bip_39_word_new_line3 | select
+| bip_39_word_new_line_3 | select
 example
 east |  
-| bip_39_word_new_line4 | select
+| bip_39_word_new_line_4 | select
 example
 east
 salon |  
-| bip_39_word_new_line5 | select
+| bip_39_word_new_line_5 | select
 example
 east
 salon
 dry |  
-| bip_39_word_new_line6 | select
+| bip_39_word_new_line_6 | select
 example
 east
 salon
 dry
 letter |  
-| bip_39_word_new_line7 | select
+| bip_39_word_new_line_7 | select
 example
 east
 salon
 dry
 letter
 hint |  
-| bip_39_word_new_line8 | select
+| bip_39_word_new_line_8 | select
 example
 east
 salon
@@ -113,7 +113,7 @@ dry
 letter
 hint
 gesture |  
-| bip_39_word_new_line9 | select
+| bip_39_word_new_line_9 | select
 example
 east
 salon

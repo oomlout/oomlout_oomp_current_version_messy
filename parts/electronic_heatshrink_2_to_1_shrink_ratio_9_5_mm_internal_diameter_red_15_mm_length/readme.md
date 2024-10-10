@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dirt |  
-| bip_39_word_new_br10 | dirt<br>range<br>annual<br>when<br>trip<br>car<br>awake<br>tongue<br>harsh<br>misery |  
-| bip_39_word_new_br11 | dirt<br>range<br>annual<br>when<br>trip<br>car<br>awake<br>tongue<br>harsh<br>misery<br>walk |  
-| bip_39_word_new_br12 | dirt<br>range<br>annual<br>when<br>trip<br>car<br>awake<br>tongue<br>harsh<br>misery<br>walk<br>actor |  
-| bip_39_word_new_br2 | dirt<br>range |  
-| bip_39_word_new_br3 | dirt<br>range<br>annual |  
-| bip_39_word_new_br4 | dirt<br>range<br>annual<br>when |  
-| bip_39_word_new_br5 | dirt<br>range<br>annual<br>when<br>trip |  
-| bip_39_word_new_br6 | dirt<br>range<br>annual<br>when<br>trip<br>car |  
-| bip_39_word_new_br7 | dirt<br>range<br>annual<br>when<br>trip<br>car<br>awake |  
-| bip_39_word_new_br8 | dirt<br>range<br>annual<br>when<br>trip<br>car<br>awake<br>tongue |  
-| bip_39_word_new_br9 | dirt<br>range<br>annual<br>when<br>trip<br>car<br>awake<br>tongue<br>harsh |  
-| bip_39_word_new_line1 | dirt |  
-| bip_39_word_new_line10 | dirt
+| bip_39_word_new_br_1 | dirt |  
+| bip_39_word_new_br_10 | dirt<br>range<br>annual<br>when<br>trip<br>car<br>awake<br>tongue<br>harsh<br>misery |  
+| bip_39_word_new_br_11 | dirt<br>range<br>annual<br>when<br>trip<br>car<br>awake<br>tongue<br>harsh<br>misery<br>walk |  
+| bip_39_word_new_br_12 | dirt<br>range<br>annual<br>when<br>trip<br>car<br>awake<br>tongue<br>harsh<br>misery<br>walk<br>actor |  
+| bip_39_word_new_br_2 | dirt<br>range |  
+| bip_39_word_new_br_3 | dirt<br>range<br>annual |  
+| bip_39_word_new_br_4 | dirt<br>range<br>annual<br>when |  
+| bip_39_word_new_br_5 | dirt<br>range<br>annual<br>when<br>trip |  
+| bip_39_word_new_br_6 | dirt<br>range<br>annual<br>when<br>trip<br>car |  
+| bip_39_word_new_br_7 | dirt<br>range<br>annual<br>when<br>trip<br>car<br>awake |  
+| bip_39_word_new_br_8 | dirt<br>range<br>annual<br>when<br>trip<br>car<br>awake<br>tongue |  
+| bip_39_word_new_br_9 | dirt<br>range<br>annual<br>when<br>trip<br>car<br>awake<br>tongue<br>harsh |  
+| bip_39_word_new_line_1 | dirt |  
+| bip_39_word_new_line_10 | dirt
 range
 annual
 when
@@ -55,7 +55,7 @@ awake
 tongue
 harsh
 misery |  
-| bip_39_word_new_line11 | dirt
+| bip_39_word_new_line_11 | dirt
 range
 annual
 when
@@ -66,7 +66,7 @@ tongue
 harsh
 misery
 walk |  
-| bip_39_word_new_line12 | dirt
+| bip_39_word_new_line_12 | dirt
 range
 annual
 when
@@ -78,34 +78,34 @@ harsh
 misery
 walk
 actor |  
-| bip_39_word_new_line2 | dirt
+| bip_39_word_new_line_2 | dirt
 range |  
-| bip_39_word_new_line3 | dirt
+| bip_39_word_new_line_3 | dirt
 range
 annual |  
-| bip_39_word_new_line4 | dirt
+| bip_39_word_new_line_4 | dirt
 range
 annual
 when |  
-| bip_39_word_new_line5 | dirt
+| bip_39_word_new_line_5 | dirt
 range
 annual
 when
 trip |  
-| bip_39_word_new_line6 | dirt
+| bip_39_word_new_line_6 | dirt
 range
 annual
 when
 trip
 car |  
-| bip_39_word_new_line7 | dirt
+| bip_39_word_new_line_7 | dirt
 range
 annual
 when
 trip
 car
 awake |  
-| bip_39_word_new_line8 | dirt
+| bip_39_word_new_line_8 | dirt
 range
 annual
 when
@@ -113,7 +113,7 @@ trip
 car
 awake
 tongue |  
-| bip_39_word_new_line9 | dirt
+| bip_39_word_new_line_9 | dirt
 range
 annual
 when

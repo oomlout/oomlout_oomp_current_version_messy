@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | skull |  
-| bip_39_word_new_br10 | skull<br>idle<br>web<br>material<br>offer<br>capital<br>never<br>divert<br>embark<br>fish |  
-| bip_39_word_new_br11 | skull<br>idle<br>web<br>material<br>offer<br>capital<br>never<br>divert<br>embark<br>fish<br>genius |  
-| bip_39_word_new_br12 | skull<br>idle<br>web<br>material<br>offer<br>capital<br>never<br>divert<br>embark<br>fish<br>genius<br>audit |  
-| bip_39_word_new_br2 | skull<br>idle |  
-| bip_39_word_new_br3 | skull<br>idle<br>web |  
-| bip_39_word_new_br4 | skull<br>idle<br>web<br>material |  
-| bip_39_word_new_br5 | skull<br>idle<br>web<br>material<br>offer |  
-| bip_39_word_new_br6 | skull<br>idle<br>web<br>material<br>offer<br>capital |  
-| bip_39_word_new_br7 | skull<br>idle<br>web<br>material<br>offer<br>capital<br>never |  
-| bip_39_word_new_br8 | skull<br>idle<br>web<br>material<br>offer<br>capital<br>never<br>divert |  
-| bip_39_word_new_br9 | skull<br>idle<br>web<br>material<br>offer<br>capital<br>never<br>divert<br>embark |  
-| bip_39_word_new_line1 | skull |  
-| bip_39_word_new_line10 | skull
+| bip_39_word_new_br_1 | skull |  
+| bip_39_word_new_br_10 | skull<br>idle<br>web<br>material<br>offer<br>capital<br>never<br>divert<br>embark<br>fish |  
+| bip_39_word_new_br_11 | skull<br>idle<br>web<br>material<br>offer<br>capital<br>never<br>divert<br>embark<br>fish<br>genius |  
+| bip_39_word_new_br_12 | skull<br>idle<br>web<br>material<br>offer<br>capital<br>never<br>divert<br>embark<br>fish<br>genius<br>audit |  
+| bip_39_word_new_br_2 | skull<br>idle |  
+| bip_39_word_new_br_3 | skull<br>idle<br>web |  
+| bip_39_word_new_br_4 | skull<br>idle<br>web<br>material |  
+| bip_39_word_new_br_5 | skull<br>idle<br>web<br>material<br>offer |  
+| bip_39_word_new_br_6 | skull<br>idle<br>web<br>material<br>offer<br>capital |  
+| bip_39_word_new_br_7 | skull<br>idle<br>web<br>material<br>offer<br>capital<br>never |  
+| bip_39_word_new_br_8 | skull<br>idle<br>web<br>material<br>offer<br>capital<br>never<br>divert |  
+| bip_39_word_new_br_9 | skull<br>idle<br>web<br>material<br>offer<br>capital<br>never<br>divert<br>embark |  
+| bip_39_word_new_line_1 | skull |  
+| bip_39_word_new_line_10 | skull
 idle
 web
 material
@@ -55,7 +55,7 @@ never
 divert
 embark
 fish |  
-| bip_39_word_new_line11 | skull
+| bip_39_word_new_line_11 | skull
 idle
 web
 material
@@ -66,7 +66,7 @@ divert
 embark
 fish
 genius |  
-| bip_39_word_new_line12 | skull
+| bip_39_word_new_line_12 | skull
 idle
 web
 material
@@ -78,34 +78,34 @@ embark
 fish
 genius
 audit |  
-| bip_39_word_new_line2 | skull
+| bip_39_word_new_line_2 | skull
 idle |  
-| bip_39_word_new_line3 | skull
+| bip_39_word_new_line_3 | skull
 idle
 web |  
-| bip_39_word_new_line4 | skull
+| bip_39_word_new_line_4 | skull
 idle
 web
 material |  
-| bip_39_word_new_line5 | skull
+| bip_39_word_new_line_5 | skull
 idle
 web
 material
 offer |  
-| bip_39_word_new_line6 | skull
+| bip_39_word_new_line_6 | skull
 idle
 web
 material
 offer
 capital |  
-| bip_39_word_new_line7 | skull
+| bip_39_word_new_line_7 | skull
 idle
 web
 material
 offer
 capital
 never |  
-| bip_39_word_new_line8 | skull
+| bip_39_word_new_line_8 | skull
 idle
 web
 material
@@ -113,7 +113,7 @@ offer
 capital
 never
 divert |  
-| bip_39_word_new_line9 | skull
+| bip_39_word_new_line_9 | skull
 idle
 web
 material

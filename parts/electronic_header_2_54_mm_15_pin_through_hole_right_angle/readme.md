@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | useless |  
-| bip_39_word_new_br10 | useless<br>chest<br>view<br>leave<br>disorder<br>ancient<br>faint<br>expire<br>hard<br>curtain |  
-| bip_39_word_new_br11 | useless<br>chest<br>view<br>leave<br>disorder<br>ancient<br>faint<br>expire<br>hard<br>curtain<br>album |  
-| bip_39_word_new_br12 | useless<br>chest<br>view<br>leave<br>disorder<br>ancient<br>faint<br>expire<br>hard<br>curtain<br>album<br>armed |  
-| bip_39_word_new_br2 | useless<br>chest |  
-| bip_39_word_new_br3 | useless<br>chest<br>view |  
-| bip_39_word_new_br4 | useless<br>chest<br>view<br>leave |  
-| bip_39_word_new_br5 | useless<br>chest<br>view<br>leave<br>disorder |  
-| bip_39_word_new_br6 | useless<br>chest<br>view<br>leave<br>disorder<br>ancient |  
-| bip_39_word_new_br7 | useless<br>chest<br>view<br>leave<br>disorder<br>ancient<br>faint |  
-| bip_39_word_new_br8 | useless<br>chest<br>view<br>leave<br>disorder<br>ancient<br>faint<br>expire |  
-| bip_39_word_new_br9 | useless<br>chest<br>view<br>leave<br>disorder<br>ancient<br>faint<br>expire<br>hard |  
-| bip_39_word_new_line1 | useless |  
-| bip_39_word_new_line10 | useless
+| bip_39_word_new_br_1 | useless |  
+| bip_39_word_new_br_10 | useless<br>chest<br>view<br>leave<br>disorder<br>ancient<br>faint<br>expire<br>hard<br>curtain |  
+| bip_39_word_new_br_11 | useless<br>chest<br>view<br>leave<br>disorder<br>ancient<br>faint<br>expire<br>hard<br>curtain<br>album |  
+| bip_39_word_new_br_12 | useless<br>chest<br>view<br>leave<br>disorder<br>ancient<br>faint<br>expire<br>hard<br>curtain<br>album<br>armed |  
+| bip_39_word_new_br_2 | useless<br>chest |  
+| bip_39_word_new_br_3 | useless<br>chest<br>view |  
+| bip_39_word_new_br_4 | useless<br>chest<br>view<br>leave |  
+| bip_39_word_new_br_5 | useless<br>chest<br>view<br>leave<br>disorder |  
+| bip_39_word_new_br_6 | useless<br>chest<br>view<br>leave<br>disorder<br>ancient |  
+| bip_39_word_new_br_7 | useless<br>chest<br>view<br>leave<br>disorder<br>ancient<br>faint |  
+| bip_39_word_new_br_8 | useless<br>chest<br>view<br>leave<br>disorder<br>ancient<br>faint<br>expire |  
+| bip_39_word_new_br_9 | useless<br>chest<br>view<br>leave<br>disorder<br>ancient<br>faint<br>expire<br>hard |  
+| bip_39_word_new_line_1 | useless |  
+| bip_39_word_new_line_10 | useless
 chest
 view
 leave
@@ -55,7 +55,7 @@ faint
 expire
 hard
 curtain |  
-| bip_39_word_new_line11 | useless
+| bip_39_word_new_line_11 | useless
 chest
 view
 leave
@@ -66,7 +66,7 @@ expire
 hard
 curtain
 album |  
-| bip_39_word_new_line12 | useless
+| bip_39_word_new_line_12 | useless
 chest
 view
 leave
@@ -78,34 +78,34 @@ hard
 curtain
 album
 armed |  
-| bip_39_word_new_line2 | useless
+| bip_39_word_new_line_2 | useless
 chest |  
-| bip_39_word_new_line3 | useless
+| bip_39_word_new_line_3 | useless
 chest
 view |  
-| bip_39_word_new_line4 | useless
+| bip_39_word_new_line_4 | useless
 chest
 view
 leave |  
-| bip_39_word_new_line5 | useless
+| bip_39_word_new_line_5 | useless
 chest
 view
 leave
 disorder |  
-| bip_39_word_new_line6 | useless
+| bip_39_word_new_line_6 | useless
 chest
 view
 leave
 disorder
 ancient |  
-| bip_39_word_new_line7 | useless
+| bip_39_word_new_line_7 | useless
 chest
 view
 leave
 disorder
 ancient
 faint |  
-| bip_39_word_new_line8 | useless
+| bip_39_word_new_line_8 | useless
 chest
 view
 leave
@@ -113,7 +113,7 @@ disorder
 ancient
 faint
 expire |  
-| bip_39_word_new_line9 | useless
+| bip_39_word_new_line_9 | useless
 chest
 view
 leave

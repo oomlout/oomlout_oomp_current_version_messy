@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | two |  
-| bip_39_word_new_br10 | two<br>spawn<br>recipe<br>host<br>damage<br>where<br>sell<br>such<br>furnace<br>shop |  
-| bip_39_word_new_br11 | two<br>spawn<br>recipe<br>host<br>damage<br>where<br>sell<br>such<br>furnace<br>shop<br>matter |  
-| bip_39_word_new_br12 | two<br>spawn<br>recipe<br>host<br>damage<br>where<br>sell<br>such<br>furnace<br>shop<br>matter<br>all |  
-| bip_39_word_new_br2 | two<br>spawn |  
-| bip_39_word_new_br3 | two<br>spawn<br>recipe |  
-| bip_39_word_new_br4 | two<br>spawn<br>recipe<br>host |  
-| bip_39_word_new_br5 | two<br>spawn<br>recipe<br>host<br>damage |  
-| bip_39_word_new_br6 | two<br>spawn<br>recipe<br>host<br>damage<br>where |  
-| bip_39_word_new_br7 | two<br>spawn<br>recipe<br>host<br>damage<br>where<br>sell |  
-| bip_39_word_new_br8 | two<br>spawn<br>recipe<br>host<br>damage<br>where<br>sell<br>such |  
-| bip_39_word_new_br9 | two<br>spawn<br>recipe<br>host<br>damage<br>where<br>sell<br>such<br>furnace |  
-| bip_39_word_new_line1 | two |  
-| bip_39_word_new_line10 | two
+| bip_39_word_new_br_1 | two |  
+| bip_39_word_new_br_10 | two<br>spawn<br>recipe<br>host<br>damage<br>where<br>sell<br>such<br>furnace<br>shop |  
+| bip_39_word_new_br_11 | two<br>spawn<br>recipe<br>host<br>damage<br>where<br>sell<br>such<br>furnace<br>shop<br>matter |  
+| bip_39_word_new_br_12 | two<br>spawn<br>recipe<br>host<br>damage<br>where<br>sell<br>such<br>furnace<br>shop<br>matter<br>all |  
+| bip_39_word_new_br_2 | two<br>spawn |  
+| bip_39_word_new_br_3 | two<br>spawn<br>recipe |  
+| bip_39_word_new_br_4 | two<br>spawn<br>recipe<br>host |  
+| bip_39_word_new_br_5 | two<br>spawn<br>recipe<br>host<br>damage |  
+| bip_39_word_new_br_6 | two<br>spawn<br>recipe<br>host<br>damage<br>where |  
+| bip_39_word_new_br_7 | two<br>spawn<br>recipe<br>host<br>damage<br>where<br>sell |  
+| bip_39_word_new_br_8 | two<br>spawn<br>recipe<br>host<br>damage<br>where<br>sell<br>such |  
+| bip_39_word_new_br_9 | two<br>spawn<br>recipe<br>host<br>damage<br>where<br>sell<br>such<br>furnace |  
+| bip_39_word_new_line_1 | two |  
+| bip_39_word_new_line_10 | two
 spawn
 recipe
 host
@@ -55,7 +55,7 @@ sell
 such
 furnace
 shop |  
-| bip_39_word_new_line11 | two
+| bip_39_word_new_line_11 | two
 spawn
 recipe
 host
@@ -66,7 +66,7 @@ such
 furnace
 shop
 matter |  
-| bip_39_word_new_line12 | two
+| bip_39_word_new_line_12 | two
 spawn
 recipe
 host
@@ -78,34 +78,34 @@ furnace
 shop
 matter
 all |  
-| bip_39_word_new_line2 | two
+| bip_39_word_new_line_2 | two
 spawn |  
-| bip_39_word_new_line3 | two
+| bip_39_word_new_line_3 | two
 spawn
 recipe |  
-| bip_39_word_new_line4 | two
+| bip_39_word_new_line_4 | two
 spawn
 recipe
 host |  
-| bip_39_word_new_line5 | two
+| bip_39_word_new_line_5 | two
 spawn
 recipe
 host
 damage |  
-| bip_39_word_new_line6 | two
+| bip_39_word_new_line_6 | two
 spawn
 recipe
 host
 damage
 where |  
-| bip_39_word_new_line7 | two
+| bip_39_word_new_line_7 | two
 spawn
 recipe
 host
 damage
 where
 sell |  
-| bip_39_word_new_line8 | two
+| bip_39_word_new_line_8 | two
 spawn
 recipe
 host
@@ -113,7 +113,7 @@ damage
 where
 sell
 such |  
-| bip_39_word_new_line9 | two
+| bip_39_word_new_line_9 | two
 spawn
 recipe
 host

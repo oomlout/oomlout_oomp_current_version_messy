@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dumb |  
-| bip_39_word_new_br10 | dumb<br>tower<br>gold<br>sentence<br>success<br>card<br>snack<br>special<br>left<br>deny |  
-| bip_39_word_new_br11 | dumb<br>tower<br>gold<br>sentence<br>success<br>card<br>snack<br>special<br>left<br>deny<br>try |  
-| bip_39_word_new_br12 | dumb<br>tower<br>gold<br>sentence<br>success<br>card<br>snack<br>special<br>left<br>deny<br>try<br>amateur |  
-| bip_39_word_new_br2 | dumb<br>tower |  
-| bip_39_word_new_br3 | dumb<br>tower<br>gold |  
-| bip_39_word_new_br4 | dumb<br>tower<br>gold<br>sentence |  
-| bip_39_word_new_br5 | dumb<br>tower<br>gold<br>sentence<br>success |  
-| bip_39_word_new_br6 | dumb<br>tower<br>gold<br>sentence<br>success<br>card |  
-| bip_39_word_new_br7 | dumb<br>tower<br>gold<br>sentence<br>success<br>card<br>snack |  
-| bip_39_word_new_br8 | dumb<br>tower<br>gold<br>sentence<br>success<br>card<br>snack<br>special |  
-| bip_39_word_new_br9 | dumb<br>tower<br>gold<br>sentence<br>success<br>card<br>snack<br>special<br>left |  
-| bip_39_word_new_line1 | dumb |  
-| bip_39_word_new_line10 | dumb
+| bip_39_word_new_br_1 | dumb |  
+| bip_39_word_new_br_10 | dumb<br>tower<br>gold<br>sentence<br>success<br>card<br>snack<br>special<br>left<br>deny |  
+| bip_39_word_new_br_11 | dumb<br>tower<br>gold<br>sentence<br>success<br>card<br>snack<br>special<br>left<br>deny<br>try |  
+| bip_39_word_new_br_12 | dumb<br>tower<br>gold<br>sentence<br>success<br>card<br>snack<br>special<br>left<br>deny<br>try<br>amateur |  
+| bip_39_word_new_br_2 | dumb<br>tower |  
+| bip_39_word_new_br_3 | dumb<br>tower<br>gold |  
+| bip_39_word_new_br_4 | dumb<br>tower<br>gold<br>sentence |  
+| bip_39_word_new_br_5 | dumb<br>tower<br>gold<br>sentence<br>success |  
+| bip_39_word_new_br_6 | dumb<br>tower<br>gold<br>sentence<br>success<br>card |  
+| bip_39_word_new_br_7 | dumb<br>tower<br>gold<br>sentence<br>success<br>card<br>snack |  
+| bip_39_word_new_br_8 | dumb<br>tower<br>gold<br>sentence<br>success<br>card<br>snack<br>special |  
+| bip_39_word_new_br_9 | dumb<br>tower<br>gold<br>sentence<br>success<br>card<br>snack<br>special<br>left |  
+| bip_39_word_new_line_1 | dumb |  
+| bip_39_word_new_line_10 | dumb
 tower
 gold
 sentence
@@ -55,7 +55,7 @@ snack
 special
 left
 deny |  
-| bip_39_word_new_line11 | dumb
+| bip_39_word_new_line_11 | dumb
 tower
 gold
 sentence
@@ -66,7 +66,7 @@ special
 left
 deny
 try |  
-| bip_39_word_new_line12 | dumb
+| bip_39_word_new_line_12 | dumb
 tower
 gold
 sentence
@@ -78,34 +78,34 @@ left
 deny
 try
 amateur |  
-| bip_39_word_new_line2 | dumb
+| bip_39_word_new_line_2 | dumb
 tower |  
-| bip_39_word_new_line3 | dumb
+| bip_39_word_new_line_3 | dumb
 tower
 gold |  
-| bip_39_word_new_line4 | dumb
+| bip_39_word_new_line_4 | dumb
 tower
 gold
 sentence |  
-| bip_39_word_new_line5 | dumb
+| bip_39_word_new_line_5 | dumb
 tower
 gold
 sentence
 success |  
-| bip_39_word_new_line6 | dumb
+| bip_39_word_new_line_6 | dumb
 tower
 gold
 sentence
 success
 card |  
-| bip_39_word_new_line7 | dumb
+| bip_39_word_new_line_7 | dumb
 tower
 gold
 sentence
 success
 card
 snack |  
-| bip_39_word_new_line8 | dumb
+| bip_39_word_new_line_8 | dumb
 tower
 gold
 sentence
@@ -113,7 +113,7 @@ success
 card
 snack
 special |  
-| bip_39_word_new_line9 | dumb
+| bip_39_word_new_line_9 | dumb
 tower
 gold
 sentence

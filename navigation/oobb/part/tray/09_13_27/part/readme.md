@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | worth |  
-| bip_39_word_new_br10 | worth<br>sound<br>ivory<br>number<br>rapid<br>clinic<br>chalk<br>bus<br>tiger<br>fuel |  
-| bip_39_word_new_br11 | worth<br>sound<br>ivory<br>number<br>rapid<br>clinic<br>chalk<br>bus<br>tiger<br>fuel<br>ramp |  
-| bip_39_word_new_br12 | worth<br>sound<br>ivory<br>number<br>rapid<br>clinic<br>chalk<br>bus<br>tiger<br>fuel<br>ramp<br>always |  
-| bip_39_word_new_br2 | worth<br>sound |  
-| bip_39_word_new_br3 | worth<br>sound<br>ivory |  
-| bip_39_word_new_br4 | worth<br>sound<br>ivory<br>number |  
-| bip_39_word_new_br5 | worth<br>sound<br>ivory<br>number<br>rapid |  
-| bip_39_word_new_br6 | worth<br>sound<br>ivory<br>number<br>rapid<br>clinic |  
-| bip_39_word_new_br7 | worth<br>sound<br>ivory<br>number<br>rapid<br>clinic<br>chalk |  
-| bip_39_word_new_br8 | worth<br>sound<br>ivory<br>number<br>rapid<br>clinic<br>chalk<br>bus |  
-| bip_39_word_new_br9 | worth<br>sound<br>ivory<br>number<br>rapid<br>clinic<br>chalk<br>bus<br>tiger |  
-| bip_39_word_new_line1 | worth |  
-| bip_39_word_new_line10 | worth
+| bip_39_word_new_br_1 | worth |  
+| bip_39_word_new_br_10 | worth<br>sound<br>ivory<br>number<br>rapid<br>clinic<br>chalk<br>bus<br>tiger<br>fuel |  
+| bip_39_word_new_br_11 | worth<br>sound<br>ivory<br>number<br>rapid<br>clinic<br>chalk<br>bus<br>tiger<br>fuel<br>ramp |  
+| bip_39_word_new_br_12 | worth<br>sound<br>ivory<br>number<br>rapid<br>clinic<br>chalk<br>bus<br>tiger<br>fuel<br>ramp<br>always |  
+| bip_39_word_new_br_2 | worth<br>sound |  
+| bip_39_word_new_br_3 | worth<br>sound<br>ivory |  
+| bip_39_word_new_br_4 | worth<br>sound<br>ivory<br>number |  
+| bip_39_word_new_br_5 | worth<br>sound<br>ivory<br>number<br>rapid |  
+| bip_39_word_new_br_6 | worth<br>sound<br>ivory<br>number<br>rapid<br>clinic |  
+| bip_39_word_new_br_7 | worth<br>sound<br>ivory<br>number<br>rapid<br>clinic<br>chalk |  
+| bip_39_word_new_br_8 | worth<br>sound<br>ivory<br>number<br>rapid<br>clinic<br>chalk<br>bus |  
+| bip_39_word_new_br_9 | worth<br>sound<br>ivory<br>number<br>rapid<br>clinic<br>chalk<br>bus<br>tiger |  
+| bip_39_word_new_line_1 | worth |  
+| bip_39_word_new_line_10 | worth
 sound
 ivory
 number
@@ -55,7 +55,7 @@ chalk
 bus
 tiger
 fuel |  
-| bip_39_word_new_line11 | worth
+| bip_39_word_new_line_11 | worth
 sound
 ivory
 number
@@ -66,7 +66,7 @@ bus
 tiger
 fuel
 ramp |  
-| bip_39_word_new_line12 | worth
+| bip_39_word_new_line_12 | worth
 sound
 ivory
 number
@@ -78,34 +78,34 @@ tiger
 fuel
 ramp
 always |  
-| bip_39_word_new_line2 | worth
+| bip_39_word_new_line_2 | worth
 sound |  
-| bip_39_word_new_line3 | worth
+| bip_39_word_new_line_3 | worth
 sound
 ivory |  
-| bip_39_word_new_line4 | worth
+| bip_39_word_new_line_4 | worth
 sound
 ivory
 number |  
-| bip_39_word_new_line5 | worth
+| bip_39_word_new_line_5 | worth
 sound
 ivory
 number
 rapid |  
-| bip_39_word_new_line6 | worth
+| bip_39_word_new_line_6 | worth
 sound
 ivory
 number
 rapid
 clinic |  
-| bip_39_word_new_line7 | worth
+| bip_39_word_new_line_7 | worth
 sound
 ivory
 number
 rapid
 clinic
 chalk |  
-| bip_39_word_new_line8 | worth
+| bip_39_word_new_line_8 | worth
 sound
 ivory
 number
@@ -113,7 +113,7 @@ rapid
 clinic
 chalk
 bus |  
-| bip_39_word_new_line9 | worth
+| bip_39_word_new_line_9 | worth
 sound
 ivory
 number

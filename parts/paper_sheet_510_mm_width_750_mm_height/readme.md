@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | shine |  
-| bip_39_word_new_br10 | shine<br>client<br>bacon<br>lawn<br>degree<br>diamond<br>taxi<br>derive<br>chief<br>loyal |  
-| bip_39_word_new_br11 | shine<br>client<br>bacon<br>lawn<br>degree<br>diamond<br>taxi<br>derive<br>chief<br>loyal<br>thunder |  
-| bip_39_word_new_br12 | shine<br>client<br>bacon<br>lawn<br>degree<br>diamond<br>taxi<br>derive<br>chief<br>loyal<br>thunder<br>absorb |  
-| bip_39_word_new_br2 | shine<br>client |  
-| bip_39_word_new_br3 | shine<br>client<br>bacon |  
-| bip_39_word_new_br4 | shine<br>client<br>bacon<br>lawn |  
-| bip_39_word_new_br5 | shine<br>client<br>bacon<br>lawn<br>degree |  
-| bip_39_word_new_br6 | shine<br>client<br>bacon<br>lawn<br>degree<br>diamond |  
-| bip_39_word_new_br7 | shine<br>client<br>bacon<br>lawn<br>degree<br>diamond<br>taxi |  
-| bip_39_word_new_br8 | shine<br>client<br>bacon<br>lawn<br>degree<br>diamond<br>taxi<br>derive |  
-| bip_39_word_new_br9 | shine<br>client<br>bacon<br>lawn<br>degree<br>diamond<br>taxi<br>derive<br>chief |  
-| bip_39_word_new_line1 | shine |  
-| bip_39_word_new_line10 | shine
+| bip_39_word_new_br_1 | shine |  
+| bip_39_word_new_br_10 | shine<br>client<br>bacon<br>lawn<br>degree<br>diamond<br>taxi<br>derive<br>chief<br>loyal |  
+| bip_39_word_new_br_11 | shine<br>client<br>bacon<br>lawn<br>degree<br>diamond<br>taxi<br>derive<br>chief<br>loyal<br>thunder |  
+| bip_39_word_new_br_12 | shine<br>client<br>bacon<br>lawn<br>degree<br>diamond<br>taxi<br>derive<br>chief<br>loyal<br>thunder<br>absorb |  
+| bip_39_word_new_br_2 | shine<br>client |  
+| bip_39_word_new_br_3 | shine<br>client<br>bacon |  
+| bip_39_word_new_br_4 | shine<br>client<br>bacon<br>lawn |  
+| bip_39_word_new_br_5 | shine<br>client<br>bacon<br>lawn<br>degree |  
+| bip_39_word_new_br_6 | shine<br>client<br>bacon<br>lawn<br>degree<br>diamond |  
+| bip_39_word_new_br_7 | shine<br>client<br>bacon<br>lawn<br>degree<br>diamond<br>taxi |  
+| bip_39_word_new_br_8 | shine<br>client<br>bacon<br>lawn<br>degree<br>diamond<br>taxi<br>derive |  
+| bip_39_word_new_br_9 | shine<br>client<br>bacon<br>lawn<br>degree<br>diamond<br>taxi<br>derive<br>chief |  
+| bip_39_word_new_line_1 | shine |  
+| bip_39_word_new_line_10 | shine
 client
 bacon
 lawn
@@ -55,7 +55,7 @@ taxi
 derive
 chief
 loyal |  
-| bip_39_word_new_line11 | shine
+| bip_39_word_new_line_11 | shine
 client
 bacon
 lawn
@@ -66,7 +66,7 @@ derive
 chief
 loyal
 thunder |  
-| bip_39_word_new_line12 | shine
+| bip_39_word_new_line_12 | shine
 client
 bacon
 lawn
@@ -78,34 +78,34 @@ chief
 loyal
 thunder
 absorb |  
-| bip_39_word_new_line2 | shine
+| bip_39_word_new_line_2 | shine
 client |  
-| bip_39_word_new_line3 | shine
+| bip_39_word_new_line_3 | shine
 client
 bacon |  
-| bip_39_word_new_line4 | shine
+| bip_39_word_new_line_4 | shine
 client
 bacon
 lawn |  
-| bip_39_word_new_line5 | shine
+| bip_39_word_new_line_5 | shine
 client
 bacon
 lawn
 degree |  
-| bip_39_word_new_line6 | shine
+| bip_39_word_new_line_6 | shine
 client
 bacon
 lawn
 degree
 diamond |  
-| bip_39_word_new_line7 | shine
+| bip_39_word_new_line_7 | shine
 client
 bacon
 lawn
 degree
 diamond
 taxi |  
-| bip_39_word_new_line8 | shine
+| bip_39_word_new_line_8 | shine
 client
 bacon
 lawn
@@ -113,7 +113,7 @@ degree
 diamond
 taxi
 derive |  
-| bip_39_word_new_line9 | shine
+| bip_39_word_new_line_9 | shine
 client
 bacon
 lawn

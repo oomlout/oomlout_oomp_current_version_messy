@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | skate |  
-| bip_39_word_new_br10 | skate<br>galaxy<br>elephant<br>wish<br>trade<br>album<br>burger<br>collect<br>orbit<br>two |  
-| bip_39_word_new_br11 | skate<br>galaxy<br>elephant<br>wish<br>trade<br>album<br>burger<br>collect<br>orbit<br>two<br>fiscal |  
-| bip_39_word_new_br12 | skate<br>galaxy<br>elephant<br>wish<br>trade<br>album<br>burger<br>collect<br>orbit<br>two<br>fiscal<br>arrange |  
-| bip_39_word_new_br2 | skate<br>galaxy |  
-| bip_39_word_new_br3 | skate<br>galaxy<br>elephant |  
-| bip_39_word_new_br4 | skate<br>galaxy<br>elephant<br>wish |  
-| bip_39_word_new_br5 | skate<br>galaxy<br>elephant<br>wish<br>trade |  
-| bip_39_word_new_br6 | skate<br>galaxy<br>elephant<br>wish<br>trade<br>album |  
-| bip_39_word_new_br7 | skate<br>galaxy<br>elephant<br>wish<br>trade<br>album<br>burger |  
-| bip_39_word_new_br8 | skate<br>galaxy<br>elephant<br>wish<br>trade<br>album<br>burger<br>collect |  
-| bip_39_word_new_br9 | skate<br>galaxy<br>elephant<br>wish<br>trade<br>album<br>burger<br>collect<br>orbit |  
-| bip_39_word_new_line1 | skate |  
-| bip_39_word_new_line10 | skate
+| bip_39_word_new_br_1 | skate |  
+| bip_39_word_new_br_10 | skate<br>galaxy<br>elephant<br>wish<br>trade<br>album<br>burger<br>collect<br>orbit<br>two |  
+| bip_39_word_new_br_11 | skate<br>galaxy<br>elephant<br>wish<br>trade<br>album<br>burger<br>collect<br>orbit<br>two<br>fiscal |  
+| bip_39_word_new_br_12 | skate<br>galaxy<br>elephant<br>wish<br>trade<br>album<br>burger<br>collect<br>orbit<br>two<br>fiscal<br>arrange |  
+| bip_39_word_new_br_2 | skate<br>galaxy |  
+| bip_39_word_new_br_3 | skate<br>galaxy<br>elephant |  
+| bip_39_word_new_br_4 | skate<br>galaxy<br>elephant<br>wish |  
+| bip_39_word_new_br_5 | skate<br>galaxy<br>elephant<br>wish<br>trade |  
+| bip_39_word_new_br_6 | skate<br>galaxy<br>elephant<br>wish<br>trade<br>album |  
+| bip_39_word_new_br_7 | skate<br>galaxy<br>elephant<br>wish<br>trade<br>album<br>burger |  
+| bip_39_word_new_br_8 | skate<br>galaxy<br>elephant<br>wish<br>trade<br>album<br>burger<br>collect |  
+| bip_39_word_new_br_9 | skate<br>galaxy<br>elephant<br>wish<br>trade<br>album<br>burger<br>collect<br>orbit |  
+| bip_39_word_new_line_1 | skate |  
+| bip_39_word_new_line_10 | skate
 galaxy
 elephant
 wish
@@ -55,7 +55,7 @@ burger
 collect
 orbit
 two |  
-| bip_39_word_new_line11 | skate
+| bip_39_word_new_line_11 | skate
 galaxy
 elephant
 wish
@@ -66,7 +66,7 @@ collect
 orbit
 two
 fiscal |  
-| bip_39_word_new_line12 | skate
+| bip_39_word_new_line_12 | skate
 galaxy
 elephant
 wish
@@ -78,34 +78,34 @@ orbit
 two
 fiscal
 arrange |  
-| bip_39_word_new_line2 | skate
+| bip_39_word_new_line_2 | skate
 galaxy |  
-| bip_39_word_new_line3 | skate
+| bip_39_word_new_line_3 | skate
 galaxy
 elephant |  
-| bip_39_word_new_line4 | skate
+| bip_39_word_new_line_4 | skate
 galaxy
 elephant
 wish |  
-| bip_39_word_new_line5 | skate
+| bip_39_word_new_line_5 | skate
 galaxy
 elephant
 wish
 trade |  
-| bip_39_word_new_line6 | skate
+| bip_39_word_new_line_6 | skate
 galaxy
 elephant
 wish
 trade
 album |  
-| bip_39_word_new_line7 | skate
+| bip_39_word_new_line_7 | skate
 galaxy
 elephant
 wish
 trade
 album
 burger |  
-| bip_39_word_new_line8 | skate
+| bip_39_word_new_line_8 | skate
 galaxy
 elephant
 wish
@@ -113,7 +113,7 @@ trade
 album
 burger
 collect |  
-| bip_39_word_new_line9 | skate
+| bip_39_word_new_line_9 | skate
 galaxy
 elephant
 wish

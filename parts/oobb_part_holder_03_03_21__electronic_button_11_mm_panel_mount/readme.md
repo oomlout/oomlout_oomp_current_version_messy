@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ripple |  
-| bip_39_word_new_br10 | ripple<br>powder<br>force<br>narrow<br>parent<br>solution<br>danger<br>gain<br>smile<br>wool |  
-| bip_39_word_new_br11 | ripple<br>powder<br>force<br>narrow<br>parent<br>solution<br>danger<br>gain<br>smile<br>wool<br>flat |  
-| bip_39_word_new_br12 | ripple<br>powder<br>force<br>narrow<br>parent<br>solution<br>danger<br>gain<br>smile<br>wool<br>flat<br>among |  
-| bip_39_word_new_br2 | ripple<br>powder |  
-| bip_39_word_new_br3 | ripple<br>powder<br>force |  
-| bip_39_word_new_br4 | ripple<br>powder<br>force<br>narrow |  
-| bip_39_word_new_br5 | ripple<br>powder<br>force<br>narrow<br>parent |  
-| bip_39_word_new_br6 | ripple<br>powder<br>force<br>narrow<br>parent<br>solution |  
-| bip_39_word_new_br7 | ripple<br>powder<br>force<br>narrow<br>parent<br>solution<br>danger |  
-| bip_39_word_new_br8 | ripple<br>powder<br>force<br>narrow<br>parent<br>solution<br>danger<br>gain |  
-| bip_39_word_new_br9 | ripple<br>powder<br>force<br>narrow<br>parent<br>solution<br>danger<br>gain<br>smile |  
-| bip_39_word_new_line1 | ripple |  
-| bip_39_word_new_line10 | ripple
+| bip_39_word_new_br_1 | ripple |  
+| bip_39_word_new_br_10 | ripple<br>powder<br>force<br>narrow<br>parent<br>solution<br>danger<br>gain<br>smile<br>wool |  
+| bip_39_word_new_br_11 | ripple<br>powder<br>force<br>narrow<br>parent<br>solution<br>danger<br>gain<br>smile<br>wool<br>flat |  
+| bip_39_word_new_br_12 | ripple<br>powder<br>force<br>narrow<br>parent<br>solution<br>danger<br>gain<br>smile<br>wool<br>flat<br>among |  
+| bip_39_word_new_br_2 | ripple<br>powder |  
+| bip_39_word_new_br_3 | ripple<br>powder<br>force |  
+| bip_39_word_new_br_4 | ripple<br>powder<br>force<br>narrow |  
+| bip_39_word_new_br_5 | ripple<br>powder<br>force<br>narrow<br>parent |  
+| bip_39_word_new_br_6 | ripple<br>powder<br>force<br>narrow<br>parent<br>solution |  
+| bip_39_word_new_br_7 | ripple<br>powder<br>force<br>narrow<br>parent<br>solution<br>danger |  
+| bip_39_word_new_br_8 | ripple<br>powder<br>force<br>narrow<br>parent<br>solution<br>danger<br>gain |  
+| bip_39_word_new_br_9 | ripple<br>powder<br>force<br>narrow<br>parent<br>solution<br>danger<br>gain<br>smile |  
+| bip_39_word_new_line_1 | ripple |  
+| bip_39_word_new_line_10 | ripple
 powder
 force
 narrow
@@ -55,7 +55,7 @@ danger
 gain
 smile
 wool |  
-| bip_39_word_new_line11 | ripple
+| bip_39_word_new_line_11 | ripple
 powder
 force
 narrow
@@ -66,7 +66,7 @@ gain
 smile
 wool
 flat |  
-| bip_39_word_new_line12 | ripple
+| bip_39_word_new_line_12 | ripple
 powder
 force
 narrow
@@ -78,34 +78,34 @@ smile
 wool
 flat
 among |  
-| bip_39_word_new_line2 | ripple
+| bip_39_word_new_line_2 | ripple
 powder |  
-| bip_39_word_new_line3 | ripple
+| bip_39_word_new_line_3 | ripple
 powder
 force |  
-| bip_39_word_new_line4 | ripple
+| bip_39_word_new_line_4 | ripple
 powder
 force
 narrow |  
-| bip_39_word_new_line5 | ripple
+| bip_39_word_new_line_5 | ripple
 powder
 force
 narrow
 parent |  
-| bip_39_word_new_line6 | ripple
+| bip_39_word_new_line_6 | ripple
 powder
 force
 narrow
 parent
 solution |  
-| bip_39_word_new_line7 | ripple
+| bip_39_word_new_line_7 | ripple
 powder
 force
 narrow
 parent
 solution
 danger |  
-| bip_39_word_new_line8 | ripple
+| bip_39_word_new_line_8 | ripple
 powder
 force
 narrow
@@ -113,7 +113,7 @@ parent
 solution
 danger
 gain |  
-| bip_39_word_new_line9 | ripple
+| bip_39_word_new_line_9 | ripple
 powder
 force
 narrow

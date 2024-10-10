@@ -1,17 +1,17 @@
-bip_39_word_new_br1: regret
-bip_39_word_new_br10: regret<br>impose<br>nuclear<br>pretty<br>feel<br>appear<br>mule<br>world<br>vibrant<br>pony
-bip_39_word_new_br11: regret<br>impose<br>nuclear<br>pretty<br>feel<br>appear<br>mule<br>world<br>vibrant<br>pony<br>cigar
-bip_39_word_new_br12: regret<br>impose<br>nuclear<br>pretty<br>feel<br>appear<br>mule<br>world<br>vibrant<br>pony<br>cigar<br>arrow
-bip_39_word_new_br2: regret<br>impose
-bip_39_word_new_br3: regret<br>impose<br>nuclear
-bip_39_word_new_br4: regret<br>impose<br>nuclear<br>pretty
-bip_39_word_new_br5: regret<br>impose<br>nuclear<br>pretty<br>feel
-bip_39_word_new_br6: regret<br>impose<br>nuclear<br>pretty<br>feel<br>appear
-bip_39_word_new_br7: regret<br>impose<br>nuclear<br>pretty<br>feel<br>appear<br>mule
-bip_39_word_new_br8: regret<br>impose<br>nuclear<br>pretty<br>feel<br>appear<br>mule<br>world
-bip_39_word_new_br9: regret<br>impose<br>nuclear<br>pretty<br>feel<br>appear<br>mule<br>world<br>vibrant
-bip_39_word_new_line1: regret
-bip_39_word_new_line10: 'regret
+bip_39_word_new_br_1: regret
+bip_39_word_new_br_10: regret<br>impose<br>nuclear<br>pretty<br>feel<br>appear<br>mule<br>world<br>vibrant<br>pony
+bip_39_word_new_br_11: regret<br>impose<br>nuclear<br>pretty<br>feel<br>appear<br>mule<br>world<br>vibrant<br>pony<br>cigar
+bip_39_word_new_br_12: regret<br>impose<br>nuclear<br>pretty<br>feel<br>appear<br>mule<br>world<br>vibrant<br>pony<br>cigar<br>arrow
+bip_39_word_new_br_2: regret<br>impose
+bip_39_word_new_br_3: regret<br>impose<br>nuclear
+bip_39_word_new_br_4: regret<br>impose<br>nuclear<br>pretty
+bip_39_word_new_br_5: regret<br>impose<br>nuclear<br>pretty<br>feel
+bip_39_word_new_br_6: regret<br>impose<br>nuclear<br>pretty<br>feel<br>appear
+bip_39_word_new_br_7: regret<br>impose<br>nuclear<br>pretty<br>feel<br>appear<br>mule
+bip_39_word_new_br_8: regret<br>impose<br>nuclear<br>pretty<br>feel<br>appear<br>mule<br>world
+bip_39_word_new_br_9: regret<br>impose<br>nuclear<br>pretty<br>feel<br>appear<br>mule<br>world<br>vibrant
+bip_39_word_new_line_1: regret
+bip_39_word_new_line_10: 'regret
 
   impose
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'regret
   vibrant
 
   pony'
-bip_39_word_new_line11: 'regret
+bip_39_word_new_line_11: 'regret
 
   impose
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'regret
   pony
 
   cigar'
-bip_39_word_new_line12: 'regret
+bip_39_word_new_line_12: 'regret
 
   impose
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'regret
   cigar
 
   arrow'
-bip_39_word_new_line2: 'regret
+bip_39_word_new_line_2: 'regret
 
   impose'
-bip_39_word_new_line3: 'regret
+bip_39_word_new_line_3: 'regret
 
   impose
 
   nuclear'
-bip_39_word_new_line4: 'regret
+bip_39_word_new_line_4: 'regret
 
   impose
 
   nuclear
 
   pretty'
-bip_39_word_new_line5: 'regret
+bip_39_word_new_line_5: 'regret
 
   impose
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'regret
   pretty
 
   feel'
-bip_39_word_new_line6: 'regret
+bip_39_word_new_line_6: 'regret
 
   impose
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'regret
   feel
 
   appear'
-bip_39_word_new_line7: 'regret
+bip_39_word_new_line_7: 'regret
 
   impose
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'regret
   appear
 
   mule'
-bip_39_word_new_line8: 'regret
+bip_39_word_new_line_8: 'regret
 
   impose
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'regret
   mule
 
   world'
-bip_39_word_new_line9: 'regret
+bip_39_word_new_line_9: 'regret
 
   impose
 

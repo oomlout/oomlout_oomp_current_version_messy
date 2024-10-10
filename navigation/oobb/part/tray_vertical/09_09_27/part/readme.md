@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | burden |  
-| bip_39_word_new_br10 | burden<br>oak<br>two<br>industry<br>waste<br>flower<br>ripple<br>fee<br>spy<br>sunny |  
-| bip_39_word_new_br11 | burden<br>oak<br>two<br>industry<br>waste<br>flower<br>ripple<br>fee<br>spy<br>sunny<br>minor |  
-| bip_39_word_new_br12 | burden<br>oak<br>two<br>industry<br>waste<br>flower<br>ripple<br>fee<br>spy<br>sunny<br>minor<br>average |  
-| bip_39_word_new_br2 | burden<br>oak |  
-| bip_39_word_new_br3 | burden<br>oak<br>two |  
-| bip_39_word_new_br4 | burden<br>oak<br>two<br>industry |  
-| bip_39_word_new_br5 | burden<br>oak<br>two<br>industry<br>waste |  
-| bip_39_word_new_br6 | burden<br>oak<br>two<br>industry<br>waste<br>flower |  
-| bip_39_word_new_br7 | burden<br>oak<br>two<br>industry<br>waste<br>flower<br>ripple |  
-| bip_39_word_new_br8 | burden<br>oak<br>two<br>industry<br>waste<br>flower<br>ripple<br>fee |  
-| bip_39_word_new_br9 | burden<br>oak<br>two<br>industry<br>waste<br>flower<br>ripple<br>fee<br>spy |  
-| bip_39_word_new_line1 | burden |  
-| bip_39_word_new_line10 | burden
+| bip_39_word_new_br_1 | burden |  
+| bip_39_word_new_br_10 | burden<br>oak<br>two<br>industry<br>waste<br>flower<br>ripple<br>fee<br>spy<br>sunny |  
+| bip_39_word_new_br_11 | burden<br>oak<br>two<br>industry<br>waste<br>flower<br>ripple<br>fee<br>spy<br>sunny<br>minor |  
+| bip_39_word_new_br_12 | burden<br>oak<br>two<br>industry<br>waste<br>flower<br>ripple<br>fee<br>spy<br>sunny<br>minor<br>average |  
+| bip_39_word_new_br_2 | burden<br>oak |  
+| bip_39_word_new_br_3 | burden<br>oak<br>two |  
+| bip_39_word_new_br_4 | burden<br>oak<br>two<br>industry |  
+| bip_39_word_new_br_5 | burden<br>oak<br>two<br>industry<br>waste |  
+| bip_39_word_new_br_6 | burden<br>oak<br>two<br>industry<br>waste<br>flower |  
+| bip_39_word_new_br_7 | burden<br>oak<br>two<br>industry<br>waste<br>flower<br>ripple |  
+| bip_39_word_new_br_8 | burden<br>oak<br>two<br>industry<br>waste<br>flower<br>ripple<br>fee |  
+| bip_39_word_new_br_9 | burden<br>oak<br>two<br>industry<br>waste<br>flower<br>ripple<br>fee<br>spy |  
+| bip_39_word_new_line_1 | burden |  
+| bip_39_word_new_line_10 | burden
 oak
 two
 industry
@@ -55,7 +55,7 @@ ripple
 fee
 spy
 sunny |  
-| bip_39_word_new_line11 | burden
+| bip_39_word_new_line_11 | burden
 oak
 two
 industry
@@ -66,7 +66,7 @@ fee
 spy
 sunny
 minor |  
-| bip_39_word_new_line12 | burden
+| bip_39_word_new_line_12 | burden
 oak
 two
 industry
@@ -78,34 +78,34 @@ spy
 sunny
 minor
 average |  
-| bip_39_word_new_line2 | burden
+| bip_39_word_new_line_2 | burden
 oak |  
-| bip_39_word_new_line3 | burden
+| bip_39_word_new_line_3 | burden
 oak
 two |  
-| bip_39_word_new_line4 | burden
+| bip_39_word_new_line_4 | burden
 oak
 two
 industry |  
-| bip_39_word_new_line5 | burden
+| bip_39_word_new_line_5 | burden
 oak
 two
 industry
 waste |  
-| bip_39_word_new_line6 | burden
+| bip_39_word_new_line_6 | burden
 oak
 two
 industry
 waste
 flower |  
-| bip_39_word_new_line7 | burden
+| bip_39_word_new_line_7 | burden
 oak
 two
 industry
 waste
 flower
 ripple |  
-| bip_39_word_new_line8 | burden
+| bip_39_word_new_line_8 | burden
 oak
 two
 industry
@@ -113,7 +113,7 @@ waste
 flower
 ripple
 fee |  
-| bip_39_word_new_line9 | burden
+| bip_39_word_new_line_9 | burden
 oak
 two
 industry

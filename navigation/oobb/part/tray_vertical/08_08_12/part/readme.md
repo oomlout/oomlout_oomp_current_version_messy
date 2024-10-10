@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | square |  
-| bip_39_word_new_br10 | square<br>mail<br>blood<br>this<br>rigid<br>skull<br>asset<br>trade<br>atom<br>hill |  
-| bip_39_word_new_br11 | square<br>mail<br>blood<br>this<br>rigid<br>skull<br>asset<br>trade<br>atom<br>hill<br>category |  
-| bip_39_word_new_br12 | square<br>mail<br>blood<br>this<br>rigid<br>skull<br>asset<br>trade<br>atom<br>hill<br>category<br>amount |  
-| bip_39_word_new_br2 | square<br>mail |  
-| bip_39_word_new_br3 | square<br>mail<br>blood |  
-| bip_39_word_new_br4 | square<br>mail<br>blood<br>this |  
-| bip_39_word_new_br5 | square<br>mail<br>blood<br>this<br>rigid |  
-| bip_39_word_new_br6 | square<br>mail<br>blood<br>this<br>rigid<br>skull |  
-| bip_39_word_new_br7 | square<br>mail<br>blood<br>this<br>rigid<br>skull<br>asset |  
-| bip_39_word_new_br8 | square<br>mail<br>blood<br>this<br>rigid<br>skull<br>asset<br>trade |  
-| bip_39_word_new_br9 | square<br>mail<br>blood<br>this<br>rigid<br>skull<br>asset<br>trade<br>atom |  
-| bip_39_word_new_line1 | square |  
-| bip_39_word_new_line10 | square
+| bip_39_word_new_br_1 | square |  
+| bip_39_word_new_br_10 | square<br>mail<br>blood<br>this<br>rigid<br>skull<br>asset<br>trade<br>atom<br>hill |  
+| bip_39_word_new_br_11 | square<br>mail<br>blood<br>this<br>rigid<br>skull<br>asset<br>trade<br>atom<br>hill<br>category |  
+| bip_39_word_new_br_12 | square<br>mail<br>blood<br>this<br>rigid<br>skull<br>asset<br>trade<br>atom<br>hill<br>category<br>amount |  
+| bip_39_word_new_br_2 | square<br>mail |  
+| bip_39_word_new_br_3 | square<br>mail<br>blood |  
+| bip_39_word_new_br_4 | square<br>mail<br>blood<br>this |  
+| bip_39_word_new_br_5 | square<br>mail<br>blood<br>this<br>rigid |  
+| bip_39_word_new_br_6 | square<br>mail<br>blood<br>this<br>rigid<br>skull |  
+| bip_39_word_new_br_7 | square<br>mail<br>blood<br>this<br>rigid<br>skull<br>asset |  
+| bip_39_word_new_br_8 | square<br>mail<br>blood<br>this<br>rigid<br>skull<br>asset<br>trade |  
+| bip_39_word_new_br_9 | square<br>mail<br>blood<br>this<br>rigid<br>skull<br>asset<br>trade<br>atom |  
+| bip_39_word_new_line_1 | square |  
+| bip_39_word_new_line_10 | square
 mail
 blood
 this
@@ -55,7 +55,7 @@ asset
 trade
 atom
 hill |  
-| bip_39_word_new_line11 | square
+| bip_39_word_new_line_11 | square
 mail
 blood
 this
@@ -66,7 +66,7 @@ trade
 atom
 hill
 category |  
-| bip_39_word_new_line12 | square
+| bip_39_word_new_line_12 | square
 mail
 blood
 this
@@ -78,34 +78,34 @@ atom
 hill
 category
 amount |  
-| bip_39_word_new_line2 | square
+| bip_39_word_new_line_2 | square
 mail |  
-| bip_39_word_new_line3 | square
+| bip_39_word_new_line_3 | square
 mail
 blood |  
-| bip_39_word_new_line4 | square
+| bip_39_word_new_line_4 | square
 mail
 blood
 this |  
-| bip_39_word_new_line5 | square
+| bip_39_word_new_line_5 | square
 mail
 blood
 this
 rigid |  
-| bip_39_word_new_line6 | square
+| bip_39_word_new_line_6 | square
 mail
 blood
 this
 rigid
 skull |  
-| bip_39_word_new_line7 | square
+| bip_39_word_new_line_7 | square
 mail
 blood
 this
 rigid
 skull
 asset |  
-| bip_39_word_new_line8 | square
+| bip_39_word_new_line_8 | square
 mail
 blood
 this
@@ -113,7 +113,7 @@ rigid
 skull
 asset
 trade |  
-| bip_39_word_new_line9 | square
+| bip_39_word_new_line_9 | square
 mail
 blood
 this

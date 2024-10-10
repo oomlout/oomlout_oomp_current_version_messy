@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pattern |  
-| bip_39_word_new_br10 | pattern<br>knock<br>acid<br>powder<br>layer<br>between<br>ethics<br>acid<br>sound<br>spend |  
-| bip_39_word_new_br11 | pattern<br>knock<br>acid<br>powder<br>layer<br>between<br>ethics<br>acid<br>sound<br>spend<br>material |  
-| bip_39_word_new_br12 | pattern<br>knock<br>acid<br>powder<br>layer<br>between<br>ethics<br>acid<br>sound<br>spend<br>material<br>addict |  
-| bip_39_word_new_br2 | pattern<br>knock |  
-| bip_39_word_new_br3 | pattern<br>knock<br>acid |  
-| bip_39_word_new_br4 | pattern<br>knock<br>acid<br>powder |  
-| bip_39_word_new_br5 | pattern<br>knock<br>acid<br>powder<br>layer |  
-| bip_39_word_new_br6 | pattern<br>knock<br>acid<br>powder<br>layer<br>between |  
-| bip_39_word_new_br7 | pattern<br>knock<br>acid<br>powder<br>layer<br>between<br>ethics |  
-| bip_39_word_new_br8 | pattern<br>knock<br>acid<br>powder<br>layer<br>between<br>ethics<br>acid |  
-| bip_39_word_new_br9 | pattern<br>knock<br>acid<br>powder<br>layer<br>between<br>ethics<br>acid<br>sound |  
-| bip_39_word_new_line1 | pattern |  
-| bip_39_word_new_line10 | pattern
+| bip_39_word_new_br_1 | pattern |  
+| bip_39_word_new_br_10 | pattern<br>knock<br>acid<br>powder<br>layer<br>between<br>ethics<br>acid<br>sound<br>spend |  
+| bip_39_word_new_br_11 | pattern<br>knock<br>acid<br>powder<br>layer<br>between<br>ethics<br>acid<br>sound<br>spend<br>material |  
+| bip_39_word_new_br_12 | pattern<br>knock<br>acid<br>powder<br>layer<br>between<br>ethics<br>acid<br>sound<br>spend<br>material<br>addict |  
+| bip_39_word_new_br_2 | pattern<br>knock |  
+| bip_39_word_new_br_3 | pattern<br>knock<br>acid |  
+| bip_39_word_new_br_4 | pattern<br>knock<br>acid<br>powder |  
+| bip_39_word_new_br_5 | pattern<br>knock<br>acid<br>powder<br>layer |  
+| bip_39_word_new_br_6 | pattern<br>knock<br>acid<br>powder<br>layer<br>between |  
+| bip_39_word_new_br_7 | pattern<br>knock<br>acid<br>powder<br>layer<br>between<br>ethics |  
+| bip_39_word_new_br_8 | pattern<br>knock<br>acid<br>powder<br>layer<br>between<br>ethics<br>acid |  
+| bip_39_word_new_br_9 | pattern<br>knock<br>acid<br>powder<br>layer<br>between<br>ethics<br>acid<br>sound |  
+| bip_39_word_new_line_1 | pattern |  
+| bip_39_word_new_line_10 | pattern
 knock
 acid
 powder
@@ -55,7 +55,7 @@ ethics
 acid
 sound
 spend |  
-| bip_39_word_new_line11 | pattern
+| bip_39_word_new_line_11 | pattern
 knock
 acid
 powder
@@ -66,7 +66,7 @@ acid
 sound
 spend
 material |  
-| bip_39_word_new_line12 | pattern
+| bip_39_word_new_line_12 | pattern
 knock
 acid
 powder
@@ -78,34 +78,34 @@ sound
 spend
 material
 addict |  
-| bip_39_word_new_line2 | pattern
+| bip_39_word_new_line_2 | pattern
 knock |  
-| bip_39_word_new_line3 | pattern
+| bip_39_word_new_line_3 | pattern
 knock
 acid |  
-| bip_39_word_new_line4 | pattern
+| bip_39_word_new_line_4 | pattern
 knock
 acid
 powder |  
-| bip_39_word_new_line5 | pattern
+| bip_39_word_new_line_5 | pattern
 knock
 acid
 powder
 layer |  
-| bip_39_word_new_line6 | pattern
+| bip_39_word_new_line_6 | pattern
 knock
 acid
 powder
 layer
 between |  
-| bip_39_word_new_line7 | pattern
+| bip_39_word_new_line_7 | pattern
 knock
 acid
 powder
 layer
 between
 ethics |  
-| bip_39_word_new_line8 | pattern
+| bip_39_word_new_line_8 | pattern
 knock
 acid
 powder
@@ -113,7 +113,7 @@ layer
 between
 ethics
 acid |  
-| bip_39_word_new_line9 | pattern
+| bip_39_word_new_line_9 | pattern
 knock
 acid
 powder

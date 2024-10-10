@@ -1,17 +1,17 @@
-bip_39_word_new_br1: high
-bip_39_word_new_br10: high<br>action<br>now<br>season<br>place<br>quantum<br>security<br>industry<br>pass<br>quote
-bip_39_word_new_br11: high<br>action<br>now<br>season<br>place<br>quantum<br>security<br>industry<br>pass<br>quote<br>weapon
-bip_39_word_new_br12: high<br>action<br>now<br>season<br>place<br>quantum<br>security<br>industry<br>pass<br>quote<br>weapon<br>air
-bip_39_word_new_br2: high<br>action
-bip_39_word_new_br3: high<br>action<br>now
-bip_39_word_new_br4: high<br>action<br>now<br>season
-bip_39_word_new_br5: high<br>action<br>now<br>season<br>place
-bip_39_word_new_br6: high<br>action<br>now<br>season<br>place<br>quantum
-bip_39_word_new_br7: high<br>action<br>now<br>season<br>place<br>quantum<br>security
-bip_39_word_new_br8: high<br>action<br>now<br>season<br>place<br>quantum<br>security<br>industry
-bip_39_word_new_br9: high<br>action<br>now<br>season<br>place<br>quantum<br>security<br>industry<br>pass
-bip_39_word_new_line1: high
-bip_39_word_new_line10: 'high
+bip_39_word_new_br_1: high
+bip_39_word_new_br_10: high<br>action<br>now<br>season<br>place<br>quantum<br>security<br>industry<br>pass<br>quote
+bip_39_word_new_br_11: high<br>action<br>now<br>season<br>place<br>quantum<br>security<br>industry<br>pass<br>quote<br>weapon
+bip_39_word_new_br_12: high<br>action<br>now<br>season<br>place<br>quantum<br>security<br>industry<br>pass<br>quote<br>weapon<br>air
+bip_39_word_new_br_2: high<br>action
+bip_39_word_new_br_3: high<br>action<br>now
+bip_39_word_new_br_4: high<br>action<br>now<br>season
+bip_39_word_new_br_5: high<br>action<br>now<br>season<br>place
+bip_39_word_new_br_6: high<br>action<br>now<br>season<br>place<br>quantum
+bip_39_word_new_br_7: high<br>action<br>now<br>season<br>place<br>quantum<br>security
+bip_39_word_new_br_8: high<br>action<br>now<br>season<br>place<br>quantum<br>security<br>industry
+bip_39_word_new_br_9: high<br>action<br>now<br>season<br>place<br>quantum<br>security<br>industry<br>pass
+bip_39_word_new_line_1: high
+bip_39_word_new_line_10: 'high
 
   action
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'high
   pass
 
   quote'
-bip_39_word_new_line11: 'high
+bip_39_word_new_line_11: 'high
 
   action
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'high
   quote
 
   weapon'
-bip_39_word_new_line12: 'high
+bip_39_word_new_line_12: 'high
 
   action
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'high
   weapon
 
   air'
-bip_39_word_new_line2: 'high
+bip_39_word_new_line_2: 'high
 
   action'
-bip_39_word_new_line3: 'high
+bip_39_word_new_line_3: 'high
 
   action
 
   now'
-bip_39_word_new_line4: 'high
+bip_39_word_new_line_4: 'high
 
   action
 
   now
 
   season'
-bip_39_word_new_line5: 'high
+bip_39_word_new_line_5: 'high
 
   action
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'high
   season
 
   place'
-bip_39_word_new_line6: 'high
+bip_39_word_new_line_6: 'high
 
   action
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'high
   place
 
   quantum'
-bip_39_word_new_line7: 'high
+bip_39_word_new_line_7: 'high
 
   action
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'high
   quantum
 
   security'
-bip_39_word_new_line8: 'high
+bip_39_word_new_line_8: 'high
 
   action
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'high
   security
 
   industry'
-bip_39_word_new_line9: 'high
+bip_39_word_new_line_9: 'high
 
   action
 

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | alley |  
-| bip_39_word_new_br10 | alley<br>false<br>aerobic<br>hockey<br>insect<br>excite<br>soon<br>swim<br>leg<br>gentle |  
-| bip_39_word_new_br11 | alley<br>false<br>aerobic<br>hockey<br>insect<br>excite<br>soon<br>swim<br>leg<br>gentle<br>crime |  
-| bip_39_word_new_br12 | alley<br>false<br>aerobic<br>hockey<br>insect<br>excite<br>soon<br>swim<br>leg<br>gentle<br>crime<br>admit |  
-| bip_39_word_new_br2 | alley<br>false |  
-| bip_39_word_new_br3 | alley<br>false<br>aerobic |  
-| bip_39_word_new_br4 | alley<br>false<br>aerobic<br>hockey |  
-| bip_39_word_new_br5 | alley<br>false<br>aerobic<br>hockey<br>insect |  
-| bip_39_word_new_br6 | alley<br>false<br>aerobic<br>hockey<br>insect<br>excite |  
-| bip_39_word_new_br7 | alley<br>false<br>aerobic<br>hockey<br>insect<br>excite<br>soon |  
-| bip_39_word_new_br8 | alley<br>false<br>aerobic<br>hockey<br>insect<br>excite<br>soon<br>swim |  
-| bip_39_word_new_br9 | alley<br>false<br>aerobic<br>hockey<br>insect<br>excite<br>soon<br>swim<br>leg |  
-| bip_39_word_new_line1 | alley |  
-| bip_39_word_new_line10 | alley
+| bip_39_word_new_br_1 | alley |  
+| bip_39_word_new_br_10 | alley<br>false<br>aerobic<br>hockey<br>insect<br>excite<br>soon<br>swim<br>leg<br>gentle |  
+| bip_39_word_new_br_11 | alley<br>false<br>aerobic<br>hockey<br>insect<br>excite<br>soon<br>swim<br>leg<br>gentle<br>crime |  
+| bip_39_word_new_br_12 | alley<br>false<br>aerobic<br>hockey<br>insect<br>excite<br>soon<br>swim<br>leg<br>gentle<br>crime<br>admit |  
+| bip_39_word_new_br_2 | alley<br>false |  
+| bip_39_word_new_br_3 | alley<br>false<br>aerobic |  
+| bip_39_word_new_br_4 | alley<br>false<br>aerobic<br>hockey |  
+| bip_39_word_new_br_5 | alley<br>false<br>aerobic<br>hockey<br>insect |  
+| bip_39_word_new_br_6 | alley<br>false<br>aerobic<br>hockey<br>insect<br>excite |  
+| bip_39_word_new_br_7 | alley<br>false<br>aerobic<br>hockey<br>insect<br>excite<br>soon |  
+| bip_39_word_new_br_8 | alley<br>false<br>aerobic<br>hockey<br>insect<br>excite<br>soon<br>swim |  
+| bip_39_word_new_br_9 | alley<br>false<br>aerobic<br>hockey<br>insect<br>excite<br>soon<br>swim<br>leg |  
+| bip_39_word_new_line_1 | alley |  
+| bip_39_word_new_line_10 | alley
 false
 aerobic
 hockey
@@ -55,7 +55,7 @@ soon
 swim
 leg
 gentle |  
-| bip_39_word_new_line11 | alley
+| bip_39_word_new_line_11 | alley
 false
 aerobic
 hockey
@@ -66,7 +66,7 @@ swim
 leg
 gentle
 crime |  
-| bip_39_word_new_line12 | alley
+| bip_39_word_new_line_12 | alley
 false
 aerobic
 hockey
@@ -78,34 +78,34 @@ leg
 gentle
 crime
 admit |  
-| bip_39_word_new_line2 | alley
+| bip_39_word_new_line_2 | alley
 false |  
-| bip_39_word_new_line3 | alley
+| bip_39_word_new_line_3 | alley
 false
 aerobic |  
-| bip_39_word_new_line4 | alley
+| bip_39_word_new_line_4 | alley
 false
 aerobic
 hockey |  
-| bip_39_word_new_line5 | alley
+| bip_39_word_new_line_5 | alley
 false
 aerobic
 hockey
 insect |  
-| bip_39_word_new_line6 | alley
+| bip_39_word_new_line_6 | alley
 false
 aerobic
 hockey
 insect
 excite |  
-| bip_39_word_new_line7 | alley
+| bip_39_word_new_line_7 | alley
 false
 aerobic
 hockey
 insect
 excite
 soon |  
-| bip_39_word_new_line8 | alley
+| bip_39_word_new_line_8 | alley
 false
 aerobic
 hockey
@@ -113,7 +113,7 @@ insect
 excite
 soon
 swim |  
-| bip_39_word_new_line9 | alley
+| bip_39_word_new_line_9 | alley
 false
 aerobic
 hockey

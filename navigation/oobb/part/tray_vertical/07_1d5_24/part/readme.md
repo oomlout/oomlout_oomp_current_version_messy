@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | neglect |  
-| bip_39_word_new_br10 | neglect<br>smoke<br>camera<br>device<br>fault<br>ahead<br>party<br>tower<br>language<br>cave |  
-| bip_39_word_new_br11 | neglect<br>smoke<br>camera<br>device<br>fault<br>ahead<br>party<br>tower<br>language<br>cave<br>march |  
-| bip_39_word_new_br12 | neglect<br>smoke<br>camera<br>device<br>fault<br>ahead<br>party<br>tower<br>language<br>cave<br>march<br>arctic |  
-| bip_39_word_new_br2 | neglect<br>smoke |  
-| bip_39_word_new_br3 | neglect<br>smoke<br>camera |  
-| bip_39_word_new_br4 | neglect<br>smoke<br>camera<br>device |  
-| bip_39_word_new_br5 | neglect<br>smoke<br>camera<br>device<br>fault |  
-| bip_39_word_new_br6 | neglect<br>smoke<br>camera<br>device<br>fault<br>ahead |  
-| bip_39_word_new_br7 | neglect<br>smoke<br>camera<br>device<br>fault<br>ahead<br>party |  
-| bip_39_word_new_br8 | neglect<br>smoke<br>camera<br>device<br>fault<br>ahead<br>party<br>tower |  
-| bip_39_word_new_br9 | neglect<br>smoke<br>camera<br>device<br>fault<br>ahead<br>party<br>tower<br>language |  
-| bip_39_word_new_line1 | neglect |  
-| bip_39_word_new_line10 | neglect
+| bip_39_word_new_br_1 | neglect |  
+| bip_39_word_new_br_10 | neglect<br>smoke<br>camera<br>device<br>fault<br>ahead<br>party<br>tower<br>language<br>cave |  
+| bip_39_word_new_br_11 | neglect<br>smoke<br>camera<br>device<br>fault<br>ahead<br>party<br>tower<br>language<br>cave<br>march |  
+| bip_39_word_new_br_12 | neglect<br>smoke<br>camera<br>device<br>fault<br>ahead<br>party<br>tower<br>language<br>cave<br>march<br>arctic |  
+| bip_39_word_new_br_2 | neglect<br>smoke |  
+| bip_39_word_new_br_3 | neglect<br>smoke<br>camera |  
+| bip_39_word_new_br_4 | neglect<br>smoke<br>camera<br>device |  
+| bip_39_word_new_br_5 | neglect<br>smoke<br>camera<br>device<br>fault |  
+| bip_39_word_new_br_6 | neglect<br>smoke<br>camera<br>device<br>fault<br>ahead |  
+| bip_39_word_new_br_7 | neglect<br>smoke<br>camera<br>device<br>fault<br>ahead<br>party |  
+| bip_39_word_new_br_8 | neglect<br>smoke<br>camera<br>device<br>fault<br>ahead<br>party<br>tower |  
+| bip_39_word_new_br_9 | neglect<br>smoke<br>camera<br>device<br>fault<br>ahead<br>party<br>tower<br>language |  
+| bip_39_word_new_line_1 | neglect |  
+| bip_39_word_new_line_10 | neglect
 smoke
 camera
 device
@@ -55,7 +55,7 @@ party
 tower
 language
 cave |  
-| bip_39_word_new_line11 | neglect
+| bip_39_word_new_line_11 | neglect
 smoke
 camera
 device
@@ -66,7 +66,7 @@ tower
 language
 cave
 march |  
-| bip_39_word_new_line12 | neglect
+| bip_39_word_new_line_12 | neglect
 smoke
 camera
 device
@@ -78,34 +78,34 @@ language
 cave
 march
 arctic |  
-| bip_39_word_new_line2 | neglect
+| bip_39_word_new_line_2 | neglect
 smoke |  
-| bip_39_word_new_line3 | neglect
+| bip_39_word_new_line_3 | neglect
 smoke
 camera |  
-| bip_39_word_new_line4 | neglect
+| bip_39_word_new_line_4 | neglect
 smoke
 camera
 device |  
-| bip_39_word_new_line5 | neglect
+| bip_39_word_new_line_5 | neglect
 smoke
 camera
 device
 fault |  
-| bip_39_word_new_line6 | neglect
+| bip_39_word_new_line_6 | neglect
 smoke
 camera
 device
 fault
 ahead |  
-| bip_39_word_new_line7 | neglect
+| bip_39_word_new_line_7 | neglect
 smoke
 camera
 device
 fault
 ahead
 party |  
-| bip_39_word_new_line8 | neglect
+| bip_39_word_new_line_8 | neglect
 smoke
 camera
 device
@@ -113,7 +113,7 @@ fault
 ahead
 party
 tower |  
-| bip_39_word_new_line9 | neglect
+| bip_39_word_new_line_9 | neglect
 smoke
 camera
 device

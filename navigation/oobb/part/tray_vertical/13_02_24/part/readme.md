@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gate |  
-| bip_39_word_new_br10 | gate<br>erosion<br>better<br>diet<br>frost<br>kit<br>broken<br>attitude<br>want<br>connect |  
-| bip_39_word_new_br11 | gate<br>erosion<br>better<br>diet<br>frost<br>kit<br>broken<br>attitude<br>want<br>connect<br>nephew |  
-| bip_39_word_new_br12 | gate<br>erosion<br>better<br>diet<br>frost<br>kit<br>broken<br>attitude<br>want<br>connect<br>nephew<br>antique |  
-| bip_39_word_new_br2 | gate<br>erosion |  
-| bip_39_word_new_br3 | gate<br>erosion<br>better |  
-| bip_39_word_new_br4 | gate<br>erosion<br>better<br>diet |  
-| bip_39_word_new_br5 | gate<br>erosion<br>better<br>diet<br>frost |  
-| bip_39_word_new_br6 | gate<br>erosion<br>better<br>diet<br>frost<br>kit |  
-| bip_39_word_new_br7 | gate<br>erosion<br>better<br>diet<br>frost<br>kit<br>broken |  
-| bip_39_word_new_br8 | gate<br>erosion<br>better<br>diet<br>frost<br>kit<br>broken<br>attitude |  
-| bip_39_word_new_br9 | gate<br>erosion<br>better<br>diet<br>frost<br>kit<br>broken<br>attitude<br>want |  
-| bip_39_word_new_line1 | gate |  
-| bip_39_word_new_line10 | gate
+| bip_39_word_new_br_1 | gate |  
+| bip_39_word_new_br_10 | gate<br>erosion<br>better<br>diet<br>frost<br>kit<br>broken<br>attitude<br>want<br>connect |  
+| bip_39_word_new_br_11 | gate<br>erosion<br>better<br>diet<br>frost<br>kit<br>broken<br>attitude<br>want<br>connect<br>nephew |  
+| bip_39_word_new_br_12 | gate<br>erosion<br>better<br>diet<br>frost<br>kit<br>broken<br>attitude<br>want<br>connect<br>nephew<br>antique |  
+| bip_39_word_new_br_2 | gate<br>erosion |  
+| bip_39_word_new_br_3 | gate<br>erosion<br>better |  
+| bip_39_word_new_br_4 | gate<br>erosion<br>better<br>diet |  
+| bip_39_word_new_br_5 | gate<br>erosion<br>better<br>diet<br>frost |  
+| bip_39_word_new_br_6 | gate<br>erosion<br>better<br>diet<br>frost<br>kit |  
+| bip_39_word_new_br_7 | gate<br>erosion<br>better<br>diet<br>frost<br>kit<br>broken |  
+| bip_39_word_new_br_8 | gate<br>erosion<br>better<br>diet<br>frost<br>kit<br>broken<br>attitude |  
+| bip_39_word_new_br_9 | gate<br>erosion<br>better<br>diet<br>frost<br>kit<br>broken<br>attitude<br>want |  
+| bip_39_word_new_line_1 | gate |  
+| bip_39_word_new_line_10 | gate
 erosion
 better
 diet
@@ -55,7 +55,7 @@ broken
 attitude
 want
 connect |  
-| bip_39_word_new_line11 | gate
+| bip_39_word_new_line_11 | gate
 erosion
 better
 diet
@@ -66,7 +66,7 @@ attitude
 want
 connect
 nephew |  
-| bip_39_word_new_line12 | gate
+| bip_39_word_new_line_12 | gate
 erosion
 better
 diet
@@ -78,34 +78,34 @@ want
 connect
 nephew
 antique |  
-| bip_39_word_new_line2 | gate
+| bip_39_word_new_line_2 | gate
 erosion |  
-| bip_39_word_new_line3 | gate
+| bip_39_word_new_line_3 | gate
 erosion
 better |  
-| bip_39_word_new_line4 | gate
+| bip_39_word_new_line_4 | gate
 erosion
 better
 diet |  
-| bip_39_word_new_line5 | gate
+| bip_39_word_new_line_5 | gate
 erosion
 better
 diet
 frost |  
-| bip_39_word_new_line6 | gate
+| bip_39_word_new_line_6 | gate
 erosion
 better
 diet
 frost
 kit |  
-| bip_39_word_new_line7 | gate
+| bip_39_word_new_line_7 | gate
 erosion
 better
 diet
 frost
 kit
 broken |  
-| bip_39_word_new_line8 | gate
+| bip_39_word_new_line_8 | gate
 erosion
 better
 diet
@@ -113,7 +113,7 @@ frost
 kit
 broken
 attitude |  
-| bip_39_word_new_line9 | gate
+| bip_39_word_new_line_9 | gate
 erosion
 better
 diet

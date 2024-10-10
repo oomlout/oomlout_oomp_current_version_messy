@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sustain |  
-| bip_39_word_new_br10 | sustain<br>output<br>joy<br>clay<br>census<br>tiny<br>okay<br>car<br>give<br>parrot |  
-| bip_39_word_new_br11 | sustain<br>output<br>joy<br>clay<br>census<br>tiny<br>okay<br>car<br>give<br>parrot<br>forget |  
-| bip_39_word_new_br12 | sustain<br>output<br>joy<br>clay<br>census<br>tiny<br>okay<br>car<br>give<br>parrot<br>forget<br>asset |  
-| bip_39_word_new_br2 | sustain<br>output |  
-| bip_39_word_new_br3 | sustain<br>output<br>joy |  
-| bip_39_word_new_br4 | sustain<br>output<br>joy<br>clay |  
-| bip_39_word_new_br5 | sustain<br>output<br>joy<br>clay<br>census |  
-| bip_39_word_new_br6 | sustain<br>output<br>joy<br>clay<br>census<br>tiny |  
-| bip_39_word_new_br7 | sustain<br>output<br>joy<br>clay<br>census<br>tiny<br>okay |  
-| bip_39_word_new_br8 | sustain<br>output<br>joy<br>clay<br>census<br>tiny<br>okay<br>car |  
-| bip_39_word_new_br9 | sustain<br>output<br>joy<br>clay<br>census<br>tiny<br>okay<br>car<br>give |  
-| bip_39_word_new_line1 | sustain |  
-| bip_39_word_new_line10 | sustain
+| bip_39_word_new_br_1 | sustain |  
+| bip_39_word_new_br_10 | sustain<br>output<br>joy<br>clay<br>census<br>tiny<br>okay<br>car<br>give<br>parrot |  
+| bip_39_word_new_br_11 | sustain<br>output<br>joy<br>clay<br>census<br>tiny<br>okay<br>car<br>give<br>parrot<br>forget |  
+| bip_39_word_new_br_12 | sustain<br>output<br>joy<br>clay<br>census<br>tiny<br>okay<br>car<br>give<br>parrot<br>forget<br>asset |  
+| bip_39_word_new_br_2 | sustain<br>output |  
+| bip_39_word_new_br_3 | sustain<br>output<br>joy |  
+| bip_39_word_new_br_4 | sustain<br>output<br>joy<br>clay |  
+| bip_39_word_new_br_5 | sustain<br>output<br>joy<br>clay<br>census |  
+| bip_39_word_new_br_6 | sustain<br>output<br>joy<br>clay<br>census<br>tiny |  
+| bip_39_word_new_br_7 | sustain<br>output<br>joy<br>clay<br>census<br>tiny<br>okay |  
+| bip_39_word_new_br_8 | sustain<br>output<br>joy<br>clay<br>census<br>tiny<br>okay<br>car |  
+| bip_39_word_new_br_9 | sustain<br>output<br>joy<br>clay<br>census<br>tiny<br>okay<br>car<br>give |  
+| bip_39_word_new_line_1 | sustain |  
+| bip_39_word_new_line_10 | sustain
 output
 joy
 clay
@@ -55,7 +55,7 @@ okay
 car
 give
 parrot |  
-| bip_39_word_new_line11 | sustain
+| bip_39_word_new_line_11 | sustain
 output
 joy
 clay
@@ -66,7 +66,7 @@ car
 give
 parrot
 forget |  
-| bip_39_word_new_line12 | sustain
+| bip_39_word_new_line_12 | sustain
 output
 joy
 clay
@@ -78,34 +78,34 @@ give
 parrot
 forget
 asset |  
-| bip_39_word_new_line2 | sustain
+| bip_39_word_new_line_2 | sustain
 output |  
-| bip_39_word_new_line3 | sustain
+| bip_39_word_new_line_3 | sustain
 output
 joy |  
-| bip_39_word_new_line4 | sustain
+| bip_39_word_new_line_4 | sustain
 output
 joy
 clay |  
-| bip_39_word_new_line5 | sustain
+| bip_39_word_new_line_5 | sustain
 output
 joy
 clay
 census |  
-| bip_39_word_new_line6 | sustain
+| bip_39_word_new_line_6 | sustain
 output
 joy
 clay
 census
 tiny |  
-| bip_39_word_new_line7 | sustain
+| bip_39_word_new_line_7 | sustain
 output
 joy
 clay
 census
 tiny
 okay |  
-| bip_39_word_new_line8 | sustain
+| bip_39_word_new_line_8 | sustain
 output
 joy
 clay
@@ -113,7 +113,7 @@ census
 tiny
 okay
 car |  
-| bip_39_word_new_line9 | sustain
+| bip_39_word_new_line_9 | sustain
 output
 joy
 clay

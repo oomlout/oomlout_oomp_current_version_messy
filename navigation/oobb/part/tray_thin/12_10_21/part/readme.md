@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | obscure |  
-| bip_39_word_new_br10 | obscure<br>salad<br>relief<br>system<br>radar<br>practice<br>front<br>gown<br>drop<br>ghost |  
-| bip_39_word_new_br11 | obscure<br>salad<br>relief<br>system<br>radar<br>practice<br>front<br>gown<br>drop<br>ghost<br>pride |  
-| bip_39_word_new_br12 | obscure<br>salad<br>relief<br>system<br>radar<br>practice<br>front<br>gown<br>drop<br>ghost<br>pride<br>accident |  
-| bip_39_word_new_br2 | obscure<br>salad |  
-| bip_39_word_new_br3 | obscure<br>salad<br>relief |  
-| bip_39_word_new_br4 | obscure<br>salad<br>relief<br>system |  
-| bip_39_word_new_br5 | obscure<br>salad<br>relief<br>system<br>radar |  
-| bip_39_word_new_br6 | obscure<br>salad<br>relief<br>system<br>radar<br>practice |  
-| bip_39_word_new_br7 | obscure<br>salad<br>relief<br>system<br>radar<br>practice<br>front |  
-| bip_39_word_new_br8 | obscure<br>salad<br>relief<br>system<br>radar<br>practice<br>front<br>gown |  
-| bip_39_word_new_br9 | obscure<br>salad<br>relief<br>system<br>radar<br>practice<br>front<br>gown<br>drop |  
-| bip_39_word_new_line1 | obscure |  
-| bip_39_word_new_line10 | obscure
+| bip_39_word_new_br_1 | obscure |  
+| bip_39_word_new_br_10 | obscure<br>salad<br>relief<br>system<br>radar<br>practice<br>front<br>gown<br>drop<br>ghost |  
+| bip_39_word_new_br_11 | obscure<br>salad<br>relief<br>system<br>radar<br>practice<br>front<br>gown<br>drop<br>ghost<br>pride |  
+| bip_39_word_new_br_12 | obscure<br>salad<br>relief<br>system<br>radar<br>practice<br>front<br>gown<br>drop<br>ghost<br>pride<br>accident |  
+| bip_39_word_new_br_2 | obscure<br>salad |  
+| bip_39_word_new_br_3 | obscure<br>salad<br>relief |  
+| bip_39_word_new_br_4 | obscure<br>salad<br>relief<br>system |  
+| bip_39_word_new_br_5 | obscure<br>salad<br>relief<br>system<br>radar |  
+| bip_39_word_new_br_6 | obscure<br>salad<br>relief<br>system<br>radar<br>practice |  
+| bip_39_word_new_br_7 | obscure<br>salad<br>relief<br>system<br>radar<br>practice<br>front |  
+| bip_39_word_new_br_8 | obscure<br>salad<br>relief<br>system<br>radar<br>practice<br>front<br>gown |  
+| bip_39_word_new_br_9 | obscure<br>salad<br>relief<br>system<br>radar<br>practice<br>front<br>gown<br>drop |  
+| bip_39_word_new_line_1 | obscure |  
+| bip_39_word_new_line_10 | obscure
 salad
 relief
 system
@@ -55,7 +55,7 @@ front
 gown
 drop
 ghost |  
-| bip_39_word_new_line11 | obscure
+| bip_39_word_new_line_11 | obscure
 salad
 relief
 system
@@ -66,7 +66,7 @@ gown
 drop
 ghost
 pride |  
-| bip_39_word_new_line12 | obscure
+| bip_39_word_new_line_12 | obscure
 salad
 relief
 system
@@ -78,34 +78,34 @@ drop
 ghost
 pride
 accident |  
-| bip_39_word_new_line2 | obscure
+| bip_39_word_new_line_2 | obscure
 salad |  
-| bip_39_word_new_line3 | obscure
+| bip_39_word_new_line_3 | obscure
 salad
 relief |  
-| bip_39_word_new_line4 | obscure
+| bip_39_word_new_line_4 | obscure
 salad
 relief
 system |  
-| bip_39_word_new_line5 | obscure
+| bip_39_word_new_line_5 | obscure
 salad
 relief
 system
 radar |  
-| bip_39_word_new_line6 | obscure
+| bip_39_word_new_line_6 | obscure
 salad
 relief
 system
 radar
 practice |  
-| bip_39_word_new_line7 | obscure
+| bip_39_word_new_line_7 | obscure
 salad
 relief
 system
 radar
 practice
 front |  
-| bip_39_word_new_line8 | obscure
+| bip_39_word_new_line_8 | obscure
 salad
 relief
 system
@@ -113,7 +113,7 @@ radar
 practice
 front
 gown |  
-| bip_39_word_new_line9 | obscure
+| bip_39_word_new_line_9 | obscure
 salad
 relief
 system

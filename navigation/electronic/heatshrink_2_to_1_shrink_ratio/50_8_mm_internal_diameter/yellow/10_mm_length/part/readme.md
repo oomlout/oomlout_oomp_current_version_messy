@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | safe |  
-| bip_39_word_new_br10 | safe<br>level<br>swing<br>hurt<br>okay<br>rent<br>burst<br>dance<br>verb<br>velvet |  
-| bip_39_word_new_br11 | safe<br>level<br>swing<br>hurt<br>okay<br>rent<br>burst<br>dance<br>verb<br>velvet<br>stage |  
-| bip_39_word_new_br12 | safe<br>level<br>swing<br>hurt<br>okay<br>rent<br>burst<br>dance<br>verb<br>velvet<br>stage<br>among |  
-| bip_39_word_new_br2 | safe<br>level |  
-| bip_39_word_new_br3 | safe<br>level<br>swing |  
-| bip_39_word_new_br4 | safe<br>level<br>swing<br>hurt |  
-| bip_39_word_new_br5 | safe<br>level<br>swing<br>hurt<br>okay |  
-| bip_39_word_new_br6 | safe<br>level<br>swing<br>hurt<br>okay<br>rent |  
-| bip_39_word_new_br7 | safe<br>level<br>swing<br>hurt<br>okay<br>rent<br>burst |  
-| bip_39_word_new_br8 | safe<br>level<br>swing<br>hurt<br>okay<br>rent<br>burst<br>dance |  
-| bip_39_word_new_br9 | safe<br>level<br>swing<br>hurt<br>okay<br>rent<br>burst<br>dance<br>verb |  
-| bip_39_word_new_line1 | safe |  
-| bip_39_word_new_line10 | safe
+| bip_39_word_new_br_1 | safe |  
+| bip_39_word_new_br_10 | safe<br>level<br>swing<br>hurt<br>okay<br>rent<br>burst<br>dance<br>verb<br>velvet |  
+| bip_39_word_new_br_11 | safe<br>level<br>swing<br>hurt<br>okay<br>rent<br>burst<br>dance<br>verb<br>velvet<br>stage |  
+| bip_39_word_new_br_12 | safe<br>level<br>swing<br>hurt<br>okay<br>rent<br>burst<br>dance<br>verb<br>velvet<br>stage<br>among |  
+| bip_39_word_new_br_2 | safe<br>level |  
+| bip_39_word_new_br_3 | safe<br>level<br>swing |  
+| bip_39_word_new_br_4 | safe<br>level<br>swing<br>hurt |  
+| bip_39_word_new_br_5 | safe<br>level<br>swing<br>hurt<br>okay |  
+| bip_39_word_new_br_6 | safe<br>level<br>swing<br>hurt<br>okay<br>rent |  
+| bip_39_word_new_br_7 | safe<br>level<br>swing<br>hurt<br>okay<br>rent<br>burst |  
+| bip_39_word_new_br_8 | safe<br>level<br>swing<br>hurt<br>okay<br>rent<br>burst<br>dance |  
+| bip_39_word_new_br_9 | safe<br>level<br>swing<br>hurt<br>okay<br>rent<br>burst<br>dance<br>verb |  
+| bip_39_word_new_line_1 | safe |  
+| bip_39_word_new_line_10 | safe
 level
 swing
 hurt
@@ -55,7 +55,7 @@ burst
 dance
 verb
 velvet |  
-| bip_39_word_new_line11 | safe
+| bip_39_word_new_line_11 | safe
 level
 swing
 hurt
@@ -66,7 +66,7 @@ dance
 verb
 velvet
 stage |  
-| bip_39_word_new_line12 | safe
+| bip_39_word_new_line_12 | safe
 level
 swing
 hurt
@@ -78,34 +78,34 @@ verb
 velvet
 stage
 among |  
-| bip_39_word_new_line2 | safe
+| bip_39_word_new_line_2 | safe
 level |  
-| bip_39_word_new_line3 | safe
+| bip_39_word_new_line_3 | safe
 level
 swing |  
-| bip_39_word_new_line4 | safe
+| bip_39_word_new_line_4 | safe
 level
 swing
 hurt |  
-| bip_39_word_new_line5 | safe
+| bip_39_word_new_line_5 | safe
 level
 swing
 hurt
 okay |  
-| bip_39_word_new_line6 | safe
+| bip_39_word_new_line_6 | safe
 level
 swing
 hurt
 okay
 rent |  
-| bip_39_word_new_line7 | safe
+| bip_39_word_new_line_7 | safe
 level
 swing
 hurt
 okay
 rent
 burst |  
-| bip_39_word_new_line8 | safe
+| bip_39_word_new_line_8 | safe
 level
 swing
 hurt
@@ -113,7 +113,7 @@ okay
 rent
 burst
 dance |  
-| bip_39_word_new_line9 | safe
+| bip_39_word_new_line_9 | safe
 level
 swing
 hurt

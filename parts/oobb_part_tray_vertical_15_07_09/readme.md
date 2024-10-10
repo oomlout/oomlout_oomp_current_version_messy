@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ill |  
-| bip_39_word_new_br10 | ill<br>brain<br>dizzy<br>depth<br>gym<br>polar<br>ticket<br>merit<br>tree<br>icon |  
-| bip_39_word_new_br11 | ill<br>brain<br>dizzy<br>depth<br>gym<br>polar<br>ticket<br>merit<br>tree<br>icon<br>skirt |  
-| bip_39_word_new_br12 | ill<br>brain<br>dizzy<br>depth<br>gym<br>polar<br>ticket<br>merit<br>tree<br>icon<br>skirt<br>actual |  
-| bip_39_word_new_br2 | ill<br>brain |  
-| bip_39_word_new_br3 | ill<br>brain<br>dizzy |  
-| bip_39_word_new_br4 | ill<br>brain<br>dizzy<br>depth |  
-| bip_39_word_new_br5 | ill<br>brain<br>dizzy<br>depth<br>gym |  
-| bip_39_word_new_br6 | ill<br>brain<br>dizzy<br>depth<br>gym<br>polar |  
-| bip_39_word_new_br7 | ill<br>brain<br>dizzy<br>depth<br>gym<br>polar<br>ticket |  
-| bip_39_word_new_br8 | ill<br>brain<br>dizzy<br>depth<br>gym<br>polar<br>ticket<br>merit |  
-| bip_39_word_new_br9 | ill<br>brain<br>dizzy<br>depth<br>gym<br>polar<br>ticket<br>merit<br>tree |  
-| bip_39_word_new_line1 | ill |  
-| bip_39_word_new_line10 | ill
+| bip_39_word_new_br_1 | ill |  
+| bip_39_word_new_br_10 | ill<br>brain<br>dizzy<br>depth<br>gym<br>polar<br>ticket<br>merit<br>tree<br>icon |  
+| bip_39_word_new_br_11 | ill<br>brain<br>dizzy<br>depth<br>gym<br>polar<br>ticket<br>merit<br>tree<br>icon<br>skirt |  
+| bip_39_word_new_br_12 | ill<br>brain<br>dizzy<br>depth<br>gym<br>polar<br>ticket<br>merit<br>tree<br>icon<br>skirt<br>actual |  
+| bip_39_word_new_br_2 | ill<br>brain |  
+| bip_39_word_new_br_3 | ill<br>brain<br>dizzy |  
+| bip_39_word_new_br_4 | ill<br>brain<br>dizzy<br>depth |  
+| bip_39_word_new_br_5 | ill<br>brain<br>dizzy<br>depth<br>gym |  
+| bip_39_word_new_br_6 | ill<br>brain<br>dizzy<br>depth<br>gym<br>polar |  
+| bip_39_word_new_br_7 | ill<br>brain<br>dizzy<br>depth<br>gym<br>polar<br>ticket |  
+| bip_39_word_new_br_8 | ill<br>brain<br>dizzy<br>depth<br>gym<br>polar<br>ticket<br>merit |  
+| bip_39_word_new_br_9 | ill<br>brain<br>dizzy<br>depth<br>gym<br>polar<br>ticket<br>merit<br>tree |  
+| bip_39_word_new_line_1 | ill |  
+| bip_39_word_new_line_10 | ill
 brain
 dizzy
 depth
@@ -55,7 +55,7 @@ ticket
 merit
 tree
 icon |  
-| bip_39_word_new_line11 | ill
+| bip_39_word_new_line_11 | ill
 brain
 dizzy
 depth
@@ -66,7 +66,7 @@ merit
 tree
 icon
 skirt |  
-| bip_39_word_new_line12 | ill
+| bip_39_word_new_line_12 | ill
 brain
 dizzy
 depth
@@ -78,34 +78,34 @@ tree
 icon
 skirt
 actual |  
-| bip_39_word_new_line2 | ill
+| bip_39_word_new_line_2 | ill
 brain |  
-| bip_39_word_new_line3 | ill
+| bip_39_word_new_line_3 | ill
 brain
 dizzy |  
-| bip_39_word_new_line4 | ill
+| bip_39_word_new_line_4 | ill
 brain
 dizzy
 depth |  
-| bip_39_word_new_line5 | ill
+| bip_39_word_new_line_5 | ill
 brain
 dizzy
 depth
 gym |  
-| bip_39_word_new_line6 | ill
+| bip_39_word_new_line_6 | ill
 brain
 dizzy
 depth
 gym
 polar |  
-| bip_39_word_new_line7 | ill
+| bip_39_word_new_line_7 | ill
 brain
 dizzy
 depth
 gym
 polar
 ticket |  
-| bip_39_word_new_line8 | ill
+| bip_39_word_new_line_8 | ill
 brain
 dizzy
 depth
@@ -113,7 +113,7 @@ gym
 polar
 ticket
 merit |  
-| bip_39_word_new_line9 | ill
+| bip_39_word_new_line_9 | ill
 brain
 dizzy
 depth

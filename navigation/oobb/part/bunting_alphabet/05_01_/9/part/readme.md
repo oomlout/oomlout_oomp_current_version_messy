@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | donate |  
-| bip_39_word_new_br10 | donate<br>tornado<br>warfare<br>afford<br>vehicle<br>reopen<br>item<br>scatter<br>chair<br>fortune |  
-| bip_39_word_new_br11 | donate<br>tornado<br>warfare<br>afford<br>vehicle<br>reopen<br>item<br>scatter<br>chair<br>fortune<br>nominee |  
-| bip_39_word_new_br12 | donate<br>tornado<br>warfare<br>afford<br>vehicle<br>reopen<br>item<br>scatter<br>chair<br>fortune<br>nominee<br>afraid |  
-| bip_39_word_new_br2 | donate<br>tornado |  
-| bip_39_word_new_br3 | donate<br>tornado<br>warfare |  
-| bip_39_word_new_br4 | donate<br>tornado<br>warfare<br>afford |  
-| bip_39_word_new_br5 | donate<br>tornado<br>warfare<br>afford<br>vehicle |  
-| bip_39_word_new_br6 | donate<br>tornado<br>warfare<br>afford<br>vehicle<br>reopen |  
-| bip_39_word_new_br7 | donate<br>tornado<br>warfare<br>afford<br>vehicle<br>reopen<br>item |  
-| bip_39_word_new_br8 | donate<br>tornado<br>warfare<br>afford<br>vehicle<br>reopen<br>item<br>scatter |  
-| bip_39_word_new_br9 | donate<br>tornado<br>warfare<br>afford<br>vehicle<br>reopen<br>item<br>scatter<br>chair |  
-| bip_39_word_new_line1 | donate |  
-| bip_39_word_new_line10 | donate
+| bip_39_word_new_br_1 | donate |  
+| bip_39_word_new_br_10 | donate<br>tornado<br>warfare<br>afford<br>vehicle<br>reopen<br>item<br>scatter<br>chair<br>fortune |  
+| bip_39_word_new_br_11 | donate<br>tornado<br>warfare<br>afford<br>vehicle<br>reopen<br>item<br>scatter<br>chair<br>fortune<br>nominee |  
+| bip_39_word_new_br_12 | donate<br>tornado<br>warfare<br>afford<br>vehicle<br>reopen<br>item<br>scatter<br>chair<br>fortune<br>nominee<br>afraid |  
+| bip_39_word_new_br_2 | donate<br>tornado |  
+| bip_39_word_new_br_3 | donate<br>tornado<br>warfare |  
+| bip_39_word_new_br_4 | donate<br>tornado<br>warfare<br>afford |  
+| bip_39_word_new_br_5 | donate<br>tornado<br>warfare<br>afford<br>vehicle |  
+| bip_39_word_new_br_6 | donate<br>tornado<br>warfare<br>afford<br>vehicle<br>reopen |  
+| bip_39_word_new_br_7 | donate<br>tornado<br>warfare<br>afford<br>vehicle<br>reopen<br>item |  
+| bip_39_word_new_br_8 | donate<br>tornado<br>warfare<br>afford<br>vehicle<br>reopen<br>item<br>scatter |  
+| bip_39_word_new_br_9 | donate<br>tornado<br>warfare<br>afford<br>vehicle<br>reopen<br>item<br>scatter<br>chair |  
+| bip_39_word_new_line_1 | donate |  
+| bip_39_word_new_line_10 | donate
 tornado
 warfare
 afford
@@ -55,7 +55,7 @@ item
 scatter
 chair
 fortune |  
-| bip_39_word_new_line11 | donate
+| bip_39_word_new_line_11 | donate
 tornado
 warfare
 afford
@@ -66,7 +66,7 @@ scatter
 chair
 fortune
 nominee |  
-| bip_39_word_new_line12 | donate
+| bip_39_word_new_line_12 | donate
 tornado
 warfare
 afford
@@ -78,34 +78,34 @@ chair
 fortune
 nominee
 afraid |  
-| bip_39_word_new_line2 | donate
+| bip_39_word_new_line_2 | donate
 tornado |  
-| bip_39_word_new_line3 | donate
+| bip_39_word_new_line_3 | donate
 tornado
 warfare |  
-| bip_39_word_new_line4 | donate
+| bip_39_word_new_line_4 | donate
 tornado
 warfare
 afford |  
-| bip_39_word_new_line5 | donate
+| bip_39_word_new_line_5 | donate
 tornado
 warfare
 afford
 vehicle |  
-| bip_39_word_new_line6 | donate
+| bip_39_word_new_line_6 | donate
 tornado
 warfare
 afford
 vehicle
 reopen |  
-| bip_39_word_new_line7 | donate
+| bip_39_word_new_line_7 | donate
 tornado
 warfare
 afford
 vehicle
 reopen
 item |  
-| bip_39_word_new_line8 | donate
+| bip_39_word_new_line_8 | donate
 tornado
 warfare
 afford
@@ -113,7 +113,7 @@ vehicle
 reopen
 item
 scatter |  
-| bip_39_word_new_line9 | donate
+| bip_39_word_new_line_9 | donate
 tornado
 warfare
 afford

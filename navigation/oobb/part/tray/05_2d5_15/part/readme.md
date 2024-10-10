@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | warfare |  
-| bip_39_word_new_br10 | warfare<br>script<br>baby<br>negative<br>cancel<br>supply<br>giraffe<br>file<br>plunge<br>avocado |  
-| bip_39_word_new_br11 | warfare<br>script<br>baby<br>negative<br>cancel<br>supply<br>giraffe<br>file<br>plunge<br>avocado<br>throw |  
-| bip_39_word_new_br12 | warfare<br>script<br>baby<br>negative<br>cancel<br>supply<br>giraffe<br>file<br>plunge<br>avocado<br>throw<br>any |  
-| bip_39_word_new_br2 | warfare<br>script |  
-| bip_39_word_new_br3 | warfare<br>script<br>baby |  
-| bip_39_word_new_br4 | warfare<br>script<br>baby<br>negative |  
-| bip_39_word_new_br5 | warfare<br>script<br>baby<br>negative<br>cancel |  
-| bip_39_word_new_br6 | warfare<br>script<br>baby<br>negative<br>cancel<br>supply |  
-| bip_39_word_new_br7 | warfare<br>script<br>baby<br>negative<br>cancel<br>supply<br>giraffe |  
-| bip_39_word_new_br8 | warfare<br>script<br>baby<br>negative<br>cancel<br>supply<br>giraffe<br>file |  
-| bip_39_word_new_br9 | warfare<br>script<br>baby<br>negative<br>cancel<br>supply<br>giraffe<br>file<br>plunge |  
-| bip_39_word_new_line1 | warfare |  
-| bip_39_word_new_line10 | warfare
+| bip_39_word_new_br_1 | warfare |  
+| bip_39_word_new_br_10 | warfare<br>script<br>baby<br>negative<br>cancel<br>supply<br>giraffe<br>file<br>plunge<br>avocado |  
+| bip_39_word_new_br_11 | warfare<br>script<br>baby<br>negative<br>cancel<br>supply<br>giraffe<br>file<br>plunge<br>avocado<br>throw |  
+| bip_39_word_new_br_12 | warfare<br>script<br>baby<br>negative<br>cancel<br>supply<br>giraffe<br>file<br>plunge<br>avocado<br>throw<br>any |  
+| bip_39_word_new_br_2 | warfare<br>script |  
+| bip_39_word_new_br_3 | warfare<br>script<br>baby |  
+| bip_39_word_new_br_4 | warfare<br>script<br>baby<br>negative |  
+| bip_39_word_new_br_5 | warfare<br>script<br>baby<br>negative<br>cancel |  
+| bip_39_word_new_br_6 | warfare<br>script<br>baby<br>negative<br>cancel<br>supply |  
+| bip_39_word_new_br_7 | warfare<br>script<br>baby<br>negative<br>cancel<br>supply<br>giraffe |  
+| bip_39_word_new_br_8 | warfare<br>script<br>baby<br>negative<br>cancel<br>supply<br>giraffe<br>file |  
+| bip_39_word_new_br_9 | warfare<br>script<br>baby<br>negative<br>cancel<br>supply<br>giraffe<br>file<br>plunge |  
+| bip_39_word_new_line_1 | warfare |  
+| bip_39_word_new_line_10 | warfare
 script
 baby
 negative
@@ -55,7 +55,7 @@ giraffe
 file
 plunge
 avocado |  
-| bip_39_word_new_line11 | warfare
+| bip_39_word_new_line_11 | warfare
 script
 baby
 negative
@@ -66,7 +66,7 @@ file
 plunge
 avocado
 throw |  
-| bip_39_word_new_line12 | warfare
+| bip_39_word_new_line_12 | warfare
 script
 baby
 negative
@@ -78,34 +78,34 @@ plunge
 avocado
 throw
 any |  
-| bip_39_word_new_line2 | warfare
+| bip_39_word_new_line_2 | warfare
 script |  
-| bip_39_word_new_line3 | warfare
+| bip_39_word_new_line_3 | warfare
 script
 baby |  
-| bip_39_word_new_line4 | warfare
+| bip_39_word_new_line_4 | warfare
 script
 baby
 negative |  
-| bip_39_word_new_line5 | warfare
+| bip_39_word_new_line_5 | warfare
 script
 baby
 negative
 cancel |  
-| bip_39_word_new_line6 | warfare
+| bip_39_word_new_line_6 | warfare
 script
 baby
 negative
 cancel
 supply |  
-| bip_39_word_new_line7 | warfare
+| bip_39_word_new_line_7 | warfare
 script
 baby
 negative
 cancel
 supply
 giraffe |  
-| bip_39_word_new_line8 | warfare
+| bip_39_word_new_line_8 | warfare
 script
 baby
 negative
@@ -113,7 +113,7 @@ cancel
 supply
 giraffe
 file |  
-| bip_39_word_new_line9 | warfare
+| bip_39_word_new_line_9 | warfare
 script
 baby
 negative

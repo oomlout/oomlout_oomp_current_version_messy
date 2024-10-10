@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | silver |  
-| bip_39_word_new_br10 | silver<br>tornado<br>illness<br>age<br>prison<br>settle<br>expose<br>stereo<br>baby<br>assault |  
-| bip_39_word_new_br11 | silver<br>tornado<br>illness<br>age<br>prison<br>settle<br>expose<br>stereo<br>baby<br>assault<br>midnight |  
-| bip_39_word_new_br12 | silver<br>tornado<br>illness<br>age<br>prison<br>settle<br>expose<br>stereo<br>baby<br>assault<br>midnight<br>absent |  
-| bip_39_word_new_br2 | silver<br>tornado |  
-| bip_39_word_new_br3 | silver<br>tornado<br>illness |  
-| bip_39_word_new_br4 | silver<br>tornado<br>illness<br>age |  
-| bip_39_word_new_br5 | silver<br>tornado<br>illness<br>age<br>prison |  
-| bip_39_word_new_br6 | silver<br>tornado<br>illness<br>age<br>prison<br>settle |  
-| bip_39_word_new_br7 | silver<br>tornado<br>illness<br>age<br>prison<br>settle<br>expose |  
-| bip_39_word_new_br8 | silver<br>tornado<br>illness<br>age<br>prison<br>settle<br>expose<br>stereo |  
-| bip_39_word_new_br9 | silver<br>tornado<br>illness<br>age<br>prison<br>settle<br>expose<br>stereo<br>baby |  
-| bip_39_word_new_line1 | silver |  
-| bip_39_word_new_line10 | silver
+| bip_39_word_new_br_1 | silver |  
+| bip_39_word_new_br_10 | silver<br>tornado<br>illness<br>age<br>prison<br>settle<br>expose<br>stereo<br>baby<br>assault |  
+| bip_39_word_new_br_11 | silver<br>tornado<br>illness<br>age<br>prison<br>settle<br>expose<br>stereo<br>baby<br>assault<br>midnight |  
+| bip_39_word_new_br_12 | silver<br>tornado<br>illness<br>age<br>prison<br>settle<br>expose<br>stereo<br>baby<br>assault<br>midnight<br>absent |  
+| bip_39_word_new_br_2 | silver<br>tornado |  
+| bip_39_word_new_br_3 | silver<br>tornado<br>illness |  
+| bip_39_word_new_br_4 | silver<br>tornado<br>illness<br>age |  
+| bip_39_word_new_br_5 | silver<br>tornado<br>illness<br>age<br>prison |  
+| bip_39_word_new_br_6 | silver<br>tornado<br>illness<br>age<br>prison<br>settle |  
+| bip_39_word_new_br_7 | silver<br>tornado<br>illness<br>age<br>prison<br>settle<br>expose |  
+| bip_39_word_new_br_8 | silver<br>tornado<br>illness<br>age<br>prison<br>settle<br>expose<br>stereo |  
+| bip_39_word_new_br_9 | silver<br>tornado<br>illness<br>age<br>prison<br>settle<br>expose<br>stereo<br>baby |  
+| bip_39_word_new_line_1 | silver |  
+| bip_39_word_new_line_10 | silver
 tornado
 illness
 age
@@ -55,7 +55,7 @@ expose
 stereo
 baby
 assault |  
-| bip_39_word_new_line11 | silver
+| bip_39_word_new_line_11 | silver
 tornado
 illness
 age
@@ -66,7 +66,7 @@ stereo
 baby
 assault
 midnight |  
-| bip_39_word_new_line12 | silver
+| bip_39_word_new_line_12 | silver
 tornado
 illness
 age
@@ -78,34 +78,34 @@ baby
 assault
 midnight
 absent |  
-| bip_39_word_new_line2 | silver
+| bip_39_word_new_line_2 | silver
 tornado |  
-| bip_39_word_new_line3 | silver
+| bip_39_word_new_line_3 | silver
 tornado
 illness |  
-| bip_39_word_new_line4 | silver
+| bip_39_word_new_line_4 | silver
 tornado
 illness
 age |  
-| bip_39_word_new_line5 | silver
+| bip_39_word_new_line_5 | silver
 tornado
 illness
 age
 prison |  
-| bip_39_word_new_line6 | silver
+| bip_39_word_new_line_6 | silver
 tornado
 illness
 age
 prison
 settle |  
-| bip_39_word_new_line7 | silver
+| bip_39_word_new_line_7 | silver
 tornado
 illness
 age
 prison
 settle
 expose |  
-| bip_39_word_new_line8 | silver
+| bip_39_word_new_line_8 | silver
 tornado
 illness
 age
@@ -113,7 +113,7 @@ prison
 settle
 expose
 stereo |  
-| bip_39_word_new_line9 | silver
+| bip_39_word_new_line_9 | silver
 tornado
 illness
 age

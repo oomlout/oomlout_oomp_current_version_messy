@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | magnet |  
-| bip_39_word_new_br10 | magnet<br>gentle<br>critic<br>praise<br>arm<br>cloud<br>cloth<br>twenty<br>price<br>math |  
-| bip_39_word_new_br11 | magnet<br>gentle<br>critic<br>praise<br>arm<br>cloud<br>cloth<br>twenty<br>price<br>math<br>child |  
-| bip_39_word_new_br12 | magnet<br>gentle<br>critic<br>praise<br>arm<br>cloud<br>cloth<br>twenty<br>price<br>math<br>child<br>aerobic |  
-| bip_39_word_new_br2 | magnet<br>gentle |  
-| bip_39_word_new_br3 | magnet<br>gentle<br>critic |  
-| bip_39_word_new_br4 | magnet<br>gentle<br>critic<br>praise |  
-| bip_39_word_new_br5 | magnet<br>gentle<br>critic<br>praise<br>arm |  
-| bip_39_word_new_br6 | magnet<br>gentle<br>critic<br>praise<br>arm<br>cloud |  
-| bip_39_word_new_br7 | magnet<br>gentle<br>critic<br>praise<br>arm<br>cloud<br>cloth |  
-| bip_39_word_new_br8 | magnet<br>gentle<br>critic<br>praise<br>arm<br>cloud<br>cloth<br>twenty |  
-| bip_39_word_new_br9 | magnet<br>gentle<br>critic<br>praise<br>arm<br>cloud<br>cloth<br>twenty<br>price |  
-| bip_39_word_new_line1 | magnet |  
-| bip_39_word_new_line10 | magnet
+| bip_39_word_new_br_1 | magnet |  
+| bip_39_word_new_br_10 | magnet<br>gentle<br>critic<br>praise<br>arm<br>cloud<br>cloth<br>twenty<br>price<br>math |  
+| bip_39_word_new_br_11 | magnet<br>gentle<br>critic<br>praise<br>arm<br>cloud<br>cloth<br>twenty<br>price<br>math<br>child |  
+| bip_39_word_new_br_12 | magnet<br>gentle<br>critic<br>praise<br>arm<br>cloud<br>cloth<br>twenty<br>price<br>math<br>child<br>aerobic |  
+| bip_39_word_new_br_2 | magnet<br>gentle |  
+| bip_39_word_new_br_3 | magnet<br>gentle<br>critic |  
+| bip_39_word_new_br_4 | magnet<br>gentle<br>critic<br>praise |  
+| bip_39_word_new_br_5 | magnet<br>gentle<br>critic<br>praise<br>arm |  
+| bip_39_word_new_br_6 | magnet<br>gentle<br>critic<br>praise<br>arm<br>cloud |  
+| bip_39_word_new_br_7 | magnet<br>gentle<br>critic<br>praise<br>arm<br>cloud<br>cloth |  
+| bip_39_word_new_br_8 | magnet<br>gentle<br>critic<br>praise<br>arm<br>cloud<br>cloth<br>twenty |  
+| bip_39_word_new_br_9 | magnet<br>gentle<br>critic<br>praise<br>arm<br>cloud<br>cloth<br>twenty<br>price |  
+| bip_39_word_new_line_1 | magnet |  
+| bip_39_word_new_line_10 | magnet
 gentle
 critic
 praise
@@ -55,7 +55,7 @@ cloth
 twenty
 price
 math |  
-| bip_39_word_new_line11 | magnet
+| bip_39_word_new_line_11 | magnet
 gentle
 critic
 praise
@@ -66,7 +66,7 @@ twenty
 price
 math
 child |  
-| bip_39_word_new_line12 | magnet
+| bip_39_word_new_line_12 | magnet
 gentle
 critic
 praise
@@ -78,34 +78,34 @@ price
 math
 child
 aerobic |  
-| bip_39_word_new_line2 | magnet
+| bip_39_word_new_line_2 | magnet
 gentle |  
-| bip_39_word_new_line3 | magnet
+| bip_39_word_new_line_3 | magnet
 gentle
 critic |  
-| bip_39_word_new_line4 | magnet
+| bip_39_word_new_line_4 | magnet
 gentle
 critic
 praise |  
-| bip_39_word_new_line5 | magnet
+| bip_39_word_new_line_5 | magnet
 gentle
 critic
 praise
 arm |  
-| bip_39_word_new_line6 | magnet
+| bip_39_word_new_line_6 | magnet
 gentle
 critic
 praise
 arm
 cloud |  
-| bip_39_word_new_line7 | magnet
+| bip_39_word_new_line_7 | magnet
 gentle
 critic
 praise
 arm
 cloud
 cloth |  
-| bip_39_word_new_line8 | magnet
+| bip_39_word_new_line_8 | magnet
 gentle
 critic
 praise
@@ -113,7 +113,7 @@ arm
 cloud
 cloth
 twenty |  
-| bip_39_word_new_line9 | magnet
+| bip_39_word_new_line_9 | magnet
 gentle
 critic
 praise

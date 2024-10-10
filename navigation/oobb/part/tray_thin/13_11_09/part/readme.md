@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | smart |  
-| bip_39_word_new_br10 | smart<br>humble<br>become<br>promote<br>shrug<br>feel<br>pony<br>brain<br>media<br>cloth |  
-| bip_39_word_new_br11 | smart<br>humble<br>become<br>promote<br>shrug<br>feel<br>pony<br>brain<br>media<br>cloth<br>dawn |  
-| bip_39_word_new_br12 | smart<br>humble<br>become<br>promote<br>shrug<br>feel<br>pony<br>brain<br>media<br>cloth<br>dawn<br>among |  
-| bip_39_word_new_br2 | smart<br>humble |  
-| bip_39_word_new_br3 | smart<br>humble<br>become |  
-| bip_39_word_new_br4 | smart<br>humble<br>become<br>promote |  
-| bip_39_word_new_br5 | smart<br>humble<br>become<br>promote<br>shrug |  
-| bip_39_word_new_br6 | smart<br>humble<br>become<br>promote<br>shrug<br>feel |  
-| bip_39_word_new_br7 | smart<br>humble<br>become<br>promote<br>shrug<br>feel<br>pony |  
-| bip_39_word_new_br8 | smart<br>humble<br>become<br>promote<br>shrug<br>feel<br>pony<br>brain |  
-| bip_39_word_new_br9 | smart<br>humble<br>become<br>promote<br>shrug<br>feel<br>pony<br>brain<br>media |  
-| bip_39_word_new_line1 | smart |  
-| bip_39_word_new_line10 | smart
+| bip_39_word_new_br_1 | smart |  
+| bip_39_word_new_br_10 | smart<br>humble<br>become<br>promote<br>shrug<br>feel<br>pony<br>brain<br>media<br>cloth |  
+| bip_39_word_new_br_11 | smart<br>humble<br>become<br>promote<br>shrug<br>feel<br>pony<br>brain<br>media<br>cloth<br>dawn |  
+| bip_39_word_new_br_12 | smart<br>humble<br>become<br>promote<br>shrug<br>feel<br>pony<br>brain<br>media<br>cloth<br>dawn<br>among |  
+| bip_39_word_new_br_2 | smart<br>humble |  
+| bip_39_word_new_br_3 | smart<br>humble<br>become |  
+| bip_39_word_new_br_4 | smart<br>humble<br>become<br>promote |  
+| bip_39_word_new_br_5 | smart<br>humble<br>become<br>promote<br>shrug |  
+| bip_39_word_new_br_6 | smart<br>humble<br>become<br>promote<br>shrug<br>feel |  
+| bip_39_word_new_br_7 | smart<br>humble<br>become<br>promote<br>shrug<br>feel<br>pony |  
+| bip_39_word_new_br_8 | smart<br>humble<br>become<br>promote<br>shrug<br>feel<br>pony<br>brain |  
+| bip_39_word_new_br_9 | smart<br>humble<br>become<br>promote<br>shrug<br>feel<br>pony<br>brain<br>media |  
+| bip_39_word_new_line_1 | smart |  
+| bip_39_word_new_line_10 | smart
 humble
 become
 promote
@@ -55,7 +55,7 @@ pony
 brain
 media
 cloth |  
-| bip_39_word_new_line11 | smart
+| bip_39_word_new_line_11 | smart
 humble
 become
 promote
@@ -66,7 +66,7 @@ brain
 media
 cloth
 dawn |  
-| bip_39_word_new_line12 | smart
+| bip_39_word_new_line_12 | smart
 humble
 become
 promote
@@ -78,34 +78,34 @@ media
 cloth
 dawn
 among |  
-| bip_39_word_new_line2 | smart
+| bip_39_word_new_line_2 | smart
 humble |  
-| bip_39_word_new_line3 | smart
+| bip_39_word_new_line_3 | smart
 humble
 become |  
-| bip_39_word_new_line4 | smart
+| bip_39_word_new_line_4 | smart
 humble
 become
 promote |  
-| bip_39_word_new_line5 | smart
+| bip_39_word_new_line_5 | smart
 humble
 become
 promote
 shrug |  
-| bip_39_word_new_line6 | smart
+| bip_39_word_new_line_6 | smart
 humble
 become
 promote
 shrug
 feel |  
-| bip_39_word_new_line7 | smart
+| bip_39_word_new_line_7 | smart
 humble
 become
 promote
 shrug
 feel
 pony |  
-| bip_39_word_new_line8 | smart
+| bip_39_word_new_line_8 | smart
 humble
 become
 promote
@@ -113,7 +113,7 @@ shrug
 feel
 pony
 brain |  
-| bip_39_word_new_line9 | smart
+| bip_39_word_new_line_9 | smart
 humble
 become
 promote

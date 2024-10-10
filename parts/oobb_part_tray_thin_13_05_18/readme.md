@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | aspect |  
-| bip_39_word_new_br10 | aspect<br>toward<br>service<br>couple<br>album<br>chase<br>december<br>purity<br>token<br>buzz |  
-| bip_39_word_new_br11 | aspect<br>toward<br>service<br>couple<br>album<br>chase<br>december<br>purity<br>token<br>buzz<br>bird |  
-| bip_39_word_new_br12 | aspect<br>toward<br>service<br>couple<br>album<br>chase<br>december<br>purity<br>token<br>buzz<br>bird<br>artwork |  
-| bip_39_word_new_br2 | aspect<br>toward |  
-| bip_39_word_new_br3 | aspect<br>toward<br>service |  
-| bip_39_word_new_br4 | aspect<br>toward<br>service<br>couple |  
-| bip_39_word_new_br5 | aspect<br>toward<br>service<br>couple<br>album |  
-| bip_39_word_new_br6 | aspect<br>toward<br>service<br>couple<br>album<br>chase |  
-| bip_39_word_new_br7 | aspect<br>toward<br>service<br>couple<br>album<br>chase<br>december |  
-| bip_39_word_new_br8 | aspect<br>toward<br>service<br>couple<br>album<br>chase<br>december<br>purity |  
-| bip_39_word_new_br9 | aspect<br>toward<br>service<br>couple<br>album<br>chase<br>december<br>purity<br>token |  
-| bip_39_word_new_line1 | aspect |  
-| bip_39_word_new_line10 | aspect
+| bip_39_word_new_br_1 | aspect |  
+| bip_39_word_new_br_10 | aspect<br>toward<br>service<br>couple<br>album<br>chase<br>december<br>purity<br>token<br>buzz |  
+| bip_39_word_new_br_11 | aspect<br>toward<br>service<br>couple<br>album<br>chase<br>december<br>purity<br>token<br>buzz<br>bird |  
+| bip_39_word_new_br_12 | aspect<br>toward<br>service<br>couple<br>album<br>chase<br>december<br>purity<br>token<br>buzz<br>bird<br>artwork |  
+| bip_39_word_new_br_2 | aspect<br>toward |  
+| bip_39_word_new_br_3 | aspect<br>toward<br>service |  
+| bip_39_word_new_br_4 | aspect<br>toward<br>service<br>couple |  
+| bip_39_word_new_br_5 | aspect<br>toward<br>service<br>couple<br>album |  
+| bip_39_word_new_br_6 | aspect<br>toward<br>service<br>couple<br>album<br>chase |  
+| bip_39_word_new_br_7 | aspect<br>toward<br>service<br>couple<br>album<br>chase<br>december |  
+| bip_39_word_new_br_8 | aspect<br>toward<br>service<br>couple<br>album<br>chase<br>december<br>purity |  
+| bip_39_word_new_br_9 | aspect<br>toward<br>service<br>couple<br>album<br>chase<br>december<br>purity<br>token |  
+| bip_39_word_new_line_1 | aspect |  
+| bip_39_word_new_line_10 | aspect
 toward
 service
 couple
@@ -55,7 +55,7 @@ december
 purity
 token
 buzz |  
-| bip_39_word_new_line11 | aspect
+| bip_39_word_new_line_11 | aspect
 toward
 service
 couple
@@ -66,7 +66,7 @@ purity
 token
 buzz
 bird |  
-| bip_39_word_new_line12 | aspect
+| bip_39_word_new_line_12 | aspect
 toward
 service
 couple
@@ -78,34 +78,34 @@ token
 buzz
 bird
 artwork |  
-| bip_39_word_new_line2 | aspect
+| bip_39_word_new_line_2 | aspect
 toward |  
-| bip_39_word_new_line3 | aspect
+| bip_39_word_new_line_3 | aspect
 toward
 service |  
-| bip_39_word_new_line4 | aspect
+| bip_39_word_new_line_4 | aspect
 toward
 service
 couple |  
-| bip_39_word_new_line5 | aspect
+| bip_39_word_new_line_5 | aspect
 toward
 service
 couple
 album |  
-| bip_39_word_new_line6 | aspect
+| bip_39_word_new_line_6 | aspect
 toward
 service
 couple
 album
 chase |  
-| bip_39_word_new_line7 | aspect
+| bip_39_word_new_line_7 | aspect
 toward
 service
 couple
 album
 chase
 december |  
-| bip_39_word_new_line8 | aspect
+| bip_39_word_new_line_8 | aspect
 toward
 service
 couple
@@ -113,7 +113,7 @@ album
 chase
 december
 purity |  
-| bip_39_word_new_line9 | aspect
+| bip_39_word_new_line_9 | aspect
 toward
 service
 couple

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | vacant |  
-| bip_39_word_new_br10 | vacant<br>wave<br>clump<br>affair<br>gesture<br>defy<br>shock<br>manual<br>found<br>thunder |  
-| bip_39_word_new_br11 | vacant<br>wave<br>clump<br>affair<br>gesture<br>defy<br>shock<br>manual<br>found<br>thunder<br>again |  
-| bip_39_word_new_br12 | vacant<br>wave<br>clump<br>affair<br>gesture<br>defy<br>shock<br>manual<br>found<br>thunder<br>again<br>apology |  
-| bip_39_word_new_br2 | vacant<br>wave |  
-| bip_39_word_new_br3 | vacant<br>wave<br>clump |  
-| bip_39_word_new_br4 | vacant<br>wave<br>clump<br>affair |  
-| bip_39_word_new_br5 | vacant<br>wave<br>clump<br>affair<br>gesture |  
-| bip_39_word_new_br6 | vacant<br>wave<br>clump<br>affair<br>gesture<br>defy |  
-| bip_39_word_new_br7 | vacant<br>wave<br>clump<br>affair<br>gesture<br>defy<br>shock |  
-| bip_39_word_new_br8 | vacant<br>wave<br>clump<br>affair<br>gesture<br>defy<br>shock<br>manual |  
-| bip_39_word_new_br9 | vacant<br>wave<br>clump<br>affair<br>gesture<br>defy<br>shock<br>manual<br>found |  
-| bip_39_word_new_line1 | vacant |  
-| bip_39_word_new_line10 | vacant
+| bip_39_word_new_br_1 | vacant |  
+| bip_39_word_new_br_10 | vacant<br>wave<br>clump<br>affair<br>gesture<br>defy<br>shock<br>manual<br>found<br>thunder |  
+| bip_39_word_new_br_11 | vacant<br>wave<br>clump<br>affair<br>gesture<br>defy<br>shock<br>manual<br>found<br>thunder<br>again |  
+| bip_39_word_new_br_12 | vacant<br>wave<br>clump<br>affair<br>gesture<br>defy<br>shock<br>manual<br>found<br>thunder<br>again<br>apology |  
+| bip_39_word_new_br_2 | vacant<br>wave |  
+| bip_39_word_new_br_3 | vacant<br>wave<br>clump |  
+| bip_39_word_new_br_4 | vacant<br>wave<br>clump<br>affair |  
+| bip_39_word_new_br_5 | vacant<br>wave<br>clump<br>affair<br>gesture |  
+| bip_39_word_new_br_6 | vacant<br>wave<br>clump<br>affair<br>gesture<br>defy |  
+| bip_39_word_new_br_7 | vacant<br>wave<br>clump<br>affair<br>gesture<br>defy<br>shock |  
+| bip_39_word_new_br_8 | vacant<br>wave<br>clump<br>affair<br>gesture<br>defy<br>shock<br>manual |  
+| bip_39_word_new_br_9 | vacant<br>wave<br>clump<br>affair<br>gesture<br>defy<br>shock<br>manual<br>found |  
+| bip_39_word_new_line_1 | vacant |  
+| bip_39_word_new_line_10 | vacant
 wave
 clump
 affair
@@ -55,7 +55,7 @@ shock
 manual
 found
 thunder |  
-| bip_39_word_new_line11 | vacant
+| bip_39_word_new_line_11 | vacant
 wave
 clump
 affair
@@ -66,7 +66,7 @@ manual
 found
 thunder
 again |  
-| bip_39_word_new_line12 | vacant
+| bip_39_word_new_line_12 | vacant
 wave
 clump
 affair
@@ -78,34 +78,34 @@ found
 thunder
 again
 apology |  
-| bip_39_word_new_line2 | vacant
+| bip_39_word_new_line_2 | vacant
 wave |  
-| bip_39_word_new_line3 | vacant
+| bip_39_word_new_line_3 | vacant
 wave
 clump |  
-| bip_39_word_new_line4 | vacant
+| bip_39_word_new_line_4 | vacant
 wave
 clump
 affair |  
-| bip_39_word_new_line5 | vacant
+| bip_39_word_new_line_5 | vacant
 wave
 clump
 affair
 gesture |  
-| bip_39_word_new_line6 | vacant
+| bip_39_word_new_line_6 | vacant
 wave
 clump
 affair
 gesture
 defy |  
-| bip_39_word_new_line7 | vacant
+| bip_39_word_new_line_7 | vacant
 wave
 clump
 affair
 gesture
 defy
 shock |  
-| bip_39_word_new_line8 | vacant
+| bip_39_word_new_line_8 | vacant
 wave
 clump
 affair
@@ -113,7 +113,7 @@ gesture
 defy
 shock
 manual |  
-| bip_39_word_new_line9 | vacant
+| bip_39_word_new_line_9 | vacant
 wave
 clump
 affair

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | age |  
-| bip_39_word_new_br10 | age<br>toddler<br>pizza<br>vacuum<br>melt<br>multiply<br>squirrel<br>manual<br>piece<br>range |  
-| bip_39_word_new_br11 | age<br>toddler<br>pizza<br>vacuum<br>melt<br>multiply<br>squirrel<br>manual<br>piece<br>range<br>note |  
-| bip_39_word_new_br12 | age<br>toddler<br>pizza<br>vacuum<br>melt<br>multiply<br>squirrel<br>manual<br>piece<br>range<br>note<br>alley |  
-| bip_39_word_new_br2 | age<br>toddler |  
-| bip_39_word_new_br3 | age<br>toddler<br>pizza |  
-| bip_39_word_new_br4 | age<br>toddler<br>pizza<br>vacuum |  
-| bip_39_word_new_br5 | age<br>toddler<br>pizza<br>vacuum<br>melt |  
-| bip_39_word_new_br6 | age<br>toddler<br>pizza<br>vacuum<br>melt<br>multiply |  
-| bip_39_word_new_br7 | age<br>toddler<br>pizza<br>vacuum<br>melt<br>multiply<br>squirrel |  
-| bip_39_word_new_br8 | age<br>toddler<br>pizza<br>vacuum<br>melt<br>multiply<br>squirrel<br>manual |  
-| bip_39_word_new_br9 | age<br>toddler<br>pizza<br>vacuum<br>melt<br>multiply<br>squirrel<br>manual<br>piece |  
-| bip_39_word_new_line1 | age |  
-| bip_39_word_new_line10 | age
+| bip_39_word_new_br_1 | age |  
+| bip_39_word_new_br_10 | age<br>toddler<br>pizza<br>vacuum<br>melt<br>multiply<br>squirrel<br>manual<br>piece<br>range |  
+| bip_39_word_new_br_11 | age<br>toddler<br>pizza<br>vacuum<br>melt<br>multiply<br>squirrel<br>manual<br>piece<br>range<br>note |  
+| bip_39_word_new_br_12 | age<br>toddler<br>pizza<br>vacuum<br>melt<br>multiply<br>squirrel<br>manual<br>piece<br>range<br>note<br>alley |  
+| bip_39_word_new_br_2 | age<br>toddler |  
+| bip_39_word_new_br_3 | age<br>toddler<br>pizza |  
+| bip_39_word_new_br_4 | age<br>toddler<br>pizza<br>vacuum |  
+| bip_39_word_new_br_5 | age<br>toddler<br>pizza<br>vacuum<br>melt |  
+| bip_39_word_new_br_6 | age<br>toddler<br>pizza<br>vacuum<br>melt<br>multiply |  
+| bip_39_word_new_br_7 | age<br>toddler<br>pizza<br>vacuum<br>melt<br>multiply<br>squirrel |  
+| bip_39_word_new_br_8 | age<br>toddler<br>pizza<br>vacuum<br>melt<br>multiply<br>squirrel<br>manual |  
+| bip_39_word_new_br_9 | age<br>toddler<br>pizza<br>vacuum<br>melt<br>multiply<br>squirrel<br>manual<br>piece |  
+| bip_39_word_new_line_1 | age |  
+| bip_39_word_new_line_10 | age
 toddler
 pizza
 vacuum
@@ -55,7 +55,7 @@ squirrel
 manual
 piece
 range |  
-| bip_39_word_new_line11 | age
+| bip_39_word_new_line_11 | age
 toddler
 pizza
 vacuum
@@ -66,7 +66,7 @@ manual
 piece
 range
 note |  
-| bip_39_word_new_line12 | age
+| bip_39_word_new_line_12 | age
 toddler
 pizza
 vacuum
@@ -78,34 +78,34 @@ piece
 range
 note
 alley |  
-| bip_39_word_new_line2 | age
+| bip_39_word_new_line_2 | age
 toddler |  
-| bip_39_word_new_line3 | age
+| bip_39_word_new_line_3 | age
 toddler
 pizza |  
-| bip_39_word_new_line4 | age
+| bip_39_word_new_line_4 | age
 toddler
 pizza
 vacuum |  
-| bip_39_word_new_line5 | age
+| bip_39_word_new_line_5 | age
 toddler
 pizza
 vacuum
 melt |  
-| bip_39_word_new_line6 | age
+| bip_39_word_new_line_6 | age
 toddler
 pizza
 vacuum
 melt
 multiply |  
-| bip_39_word_new_line7 | age
+| bip_39_word_new_line_7 | age
 toddler
 pizza
 vacuum
 melt
 multiply
 squirrel |  
-| bip_39_word_new_line8 | age
+| bip_39_word_new_line_8 | age
 toddler
 pizza
 vacuum
@@ -113,7 +113,7 @@ melt
 multiply
 squirrel
 manual |  
-| bip_39_word_new_line9 | age
+| bip_39_word_new_line_9 | age
 toddler
 pizza
 vacuum

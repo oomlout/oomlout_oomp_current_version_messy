@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | job |  
-| bip_39_word_new_br10 | job<br>slide<br>until<br>artwork<br>arctic<br>marble<br>plug<br>swear<br>benefit<br>vague |  
-| bip_39_word_new_br11 | job<br>slide<br>until<br>artwork<br>arctic<br>marble<br>plug<br>swear<br>benefit<br>vague<br>seminar |  
-| bip_39_word_new_br12 | job<br>slide<br>until<br>artwork<br>arctic<br>marble<br>plug<br>swear<br>benefit<br>vague<br>seminar<br>anger |  
-| bip_39_word_new_br2 | job<br>slide |  
-| bip_39_word_new_br3 | job<br>slide<br>until |  
-| bip_39_word_new_br4 | job<br>slide<br>until<br>artwork |  
-| bip_39_word_new_br5 | job<br>slide<br>until<br>artwork<br>arctic |  
-| bip_39_word_new_br6 | job<br>slide<br>until<br>artwork<br>arctic<br>marble |  
-| bip_39_word_new_br7 | job<br>slide<br>until<br>artwork<br>arctic<br>marble<br>plug |  
-| bip_39_word_new_br8 | job<br>slide<br>until<br>artwork<br>arctic<br>marble<br>plug<br>swear |  
-| bip_39_word_new_br9 | job<br>slide<br>until<br>artwork<br>arctic<br>marble<br>plug<br>swear<br>benefit |  
-| bip_39_word_new_line1 | job |  
-| bip_39_word_new_line10 | job
+| bip_39_word_new_br_1 | job |  
+| bip_39_word_new_br_10 | job<br>slide<br>until<br>artwork<br>arctic<br>marble<br>plug<br>swear<br>benefit<br>vague |  
+| bip_39_word_new_br_11 | job<br>slide<br>until<br>artwork<br>arctic<br>marble<br>plug<br>swear<br>benefit<br>vague<br>seminar |  
+| bip_39_word_new_br_12 | job<br>slide<br>until<br>artwork<br>arctic<br>marble<br>plug<br>swear<br>benefit<br>vague<br>seminar<br>anger |  
+| bip_39_word_new_br_2 | job<br>slide |  
+| bip_39_word_new_br_3 | job<br>slide<br>until |  
+| bip_39_word_new_br_4 | job<br>slide<br>until<br>artwork |  
+| bip_39_word_new_br_5 | job<br>slide<br>until<br>artwork<br>arctic |  
+| bip_39_word_new_br_6 | job<br>slide<br>until<br>artwork<br>arctic<br>marble |  
+| bip_39_word_new_br_7 | job<br>slide<br>until<br>artwork<br>arctic<br>marble<br>plug |  
+| bip_39_word_new_br_8 | job<br>slide<br>until<br>artwork<br>arctic<br>marble<br>plug<br>swear |  
+| bip_39_word_new_br_9 | job<br>slide<br>until<br>artwork<br>arctic<br>marble<br>plug<br>swear<br>benefit |  
+| bip_39_word_new_line_1 | job |  
+| bip_39_word_new_line_10 | job
 slide
 until
 artwork
@@ -55,7 +55,7 @@ plug
 swear
 benefit
 vague |  
-| bip_39_word_new_line11 | job
+| bip_39_word_new_line_11 | job
 slide
 until
 artwork
@@ -66,7 +66,7 @@ swear
 benefit
 vague
 seminar |  
-| bip_39_word_new_line12 | job
+| bip_39_word_new_line_12 | job
 slide
 until
 artwork
@@ -78,34 +78,34 @@ benefit
 vague
 seminar
 anger |  
-| bip_39_word_new_line2 | job
+| bip_39_word_new_line_2 | job
 slide |  
-| bip_39_word_new_line3 | job
+| bip_39_word_new_line_3 | job
 slide
 until |  
-| bip_39_word_new_line4 | job
+| bip_39_word_new_line_4 | job
 slide
 until
 artwork |  
-| bip_39_word_new_line5 | job
+| bip_39_word_new_line_5 | job
 slide
 until
 artwork
 arctic |  
-| bip_39_word_new_line6 | job
+| bip_39_word_new_line_6 | job
 slide
 until
 artwork
 arctic
 marble |  
-| bip_39_word_new_line7 | job
+| bip_39_word_new_line_7 | job
 slide
 until
 artwork
 arctic
 marble
 plug |  
-| bip_39_word_new_line8 | job
+| bip_39_word_new_line_8 | job
 slide
 until
 artwork
@@ -113,7 +113,7 @@ arctic
 marble
 plug
 swear |  
-| bip_39_word_new_line9 | job
+| bip_39_word_new_line_9 | job
 slide
 until
 artwork

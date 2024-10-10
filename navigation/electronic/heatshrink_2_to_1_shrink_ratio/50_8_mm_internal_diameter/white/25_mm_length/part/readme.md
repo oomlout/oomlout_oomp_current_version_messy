@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | brick |  
-| bip_39_word_new_br10 | brick<br>mad<br>major<br>monster<br>team<br>supply<br>replace<br>tide<br>about<br>sibling |  
-| bip_39_word_new_br11 | brick<br>mad<br>major<br>monster<br>team<br>supply<br>replace<br>tide<br>about<br>sibling<br>entire |  
-| bip_39_word_new_br12 | brick<br>mad<br>major<br>monster<br>team<br>supply<br>replace<br>tide<br>about<br>sibling<br>entire<br>assume |  
-| bip_39_word_new_br2 | brick<br>mad |  
-| bip_39_word_new_br3 | brick<br>mad<br>major |  
-| bip_39_word_new_br4 | brick<br>mad<br>major<br>monster |  
-| bip_39_word_new_br5 | brick<br>mad<br>major<br>monster<br>team |  
-| bip_39_word_new_br6 | brick<br>mad<br>major<br>monster<br>team<br>supply |  
-| bip_39_word_new_br7 | brick<br>mad<br>major<br>monster<br>team<br>supply<br>replace |  
-| bip_39_word_new_br8 | brick<br>mad<br>major<br>monster<br>team<br>supply<br>replace<br>tide |  
-| bip_39_word_new_br9 | brick<br>mad<br>major<br>monster<br>team<br>supply<br>replace<br>tide<br>about |  
-| bip_39_word_new_line1 | brick |  
-| bip_39_word_new_line10 | brick
+| bip_39_word_new_br_1 | brick |  
+| bip_39_word_new_br_10 | brick<br>mad<br>major<br>monster<br>team<br>supply<br>replace<br>tide<br>about<br>sibling |  
+| bip_39_word_new_br_11 | brick<br>mad<br>major<br>monster<br>team<br>supply<br>replace<br>tide<br>about<br>sibling<br>entire |  
+| bip_39_word_new_br_12 | brick<br>mad<br>major<br>monster<br>team<br>supply<br>replace<br>tide<br>about<br>sibling<br>entire<br>assume |  
+| bip_39_word_new_br_2 | brick<br>mad |  
+| bip_39_word_new_br_3 | brick<br>mad<br>major |  
+| bip_39_word_new_br_4 | brick<br>mad<br>major<br>monster |  
+| bip_39_word_new_br_5 | brick<br>mad<br>major<br>monster<br>team |  
+| bip_39_word_new_br_6 | brick<br>mad<br>major<br>monster<br>team<br>supply |  
+| bip_39_word_new_br_7 | brick<br>mad<br>major<br>monster<br>team<br>supply<br>replace |  
+| bip_39_word_new_br_8 | brick<br>mad<br>major<br>monster<br>team<br>supply<br>replace<br>tide |  
+| bip_39_word_new_br_9 | brick<br>mad<br>major<br>monster<br>team<br>supply<br>replace<br>tide<br>about |  
+| bip_39_word_new_line_1 | brick |  
+| bip_39_word_new_line_10 | brick
 mad
 major
 monster
@@ -55,7 +55,7 @@ replace
 tide
 about
 sibling |  
-| bip_39_word_new_line11 | brick
+| bip_39_word_new_line_11 | brick
 mad
 major
 monster
@@ -66,7 +66,7 @@ tide
 about
 sibling
 entire |  
-| bip_39_word_new_line12 | brick
+| bip_39_word_new_line_12 | brick
 mad
 major
 monster
@@ -78,34 +78,34 @@ about
 sibling
 entire
 assume |  
-| bip_39_word_new_line2 | brick
+| bip_39_word_new_line_2 | brick
 mad |  
-| bip_39_word_new_line3 | brick
+| bip_39_word_new_line_3 | brick
 mad
 major |  
-| bip_39_word_new_line4 | brick
+| bip_39_word_new_line_4 | brick
 mad
 major
 monster |  
-| bip_39_word_new_line5 | brick
+| bip_39_word_new_line_5 | brick
 mad
 major
 monster
 team |  
-| bip_39_word_new_line6 | brick
+| bip_39_word_new_line_6 | brick
 mad
 major
 monster
 team
 supply |  
-| bip_39_word_new_line7 | brick
+| bip_39_word_new_line_7 | brick
 mad
 major
 monster
 team
 supply
 replace |  
-| bip_39_word_new_line8 | brick
+| bip_39_word_new_line_8 | brick
 mad
 major
 monster
@@ -113,7 +113,7 @@ team
 supply
 replace
 tide |  
-| bip_39_word_new_line9 | brick
+| bip_39_word_new_line_9 | brick
 mad
 major
 monster

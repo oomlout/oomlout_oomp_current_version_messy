@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | style |  
-| bip_39_word_new_br10 | style<br>tide<br>skull<br>dentist<br>knock<br>laugh<br>various<br>cupboard<br>dice<br>fluid |  
-| bip_39_word_new_br11 | style<br>tide<br>skull<br>dentist<br>knock<br>laugh<br>various<br>cupboard<br>dice<br>fluid<br>faith |  
-| bip_39_word_new_br12 | style<br>tide<br>skull<br>dentist<br>knock<br>laugh<br>various<br>cupboard<br>dice<br>fluid<br>faith<br>announce |  
-| bip_39_word_new_br2 | style<br>tide |  
-| bip_39_word_new_br3 | style<br>tide<br>skull |  
-| bip_39_word_new_br4 | style<br>tide<br>skull<br>dentist |  
-| bip_39_word_new_br5 | style<br>tide<br>skull<br>dentist<br>knock |  
-| bip_39_word_new_br6 | style<br>tide<br>skull<br>dentist<br>knock<br>laugh |  
-| bip_39_word_new_br7 | style<br>tide<br>skull<br>dentist<br>knock<br>laugh<br>various |  
-| bip_39_word_new_br8 | style<br>tide<br>skull<br>dentist<br>knock<br>laugh<br>various<br>cupboard |  
-| bip_39_word_new_br9 | style<br>tide<br>skull<br>dentist<br>knock<br>laugh<br>various<br>cupboard<br>dice |  
-| bip_39_word_new_line1 | style |  
-| bip_39_word_new_line10 | style
+| bip_39_word_new_br_1 | style |  
+| bip_39_word_new_br_10 | style<br>tide<br>skull<br>dentist<br>knock<br>laugh<br>various<br>cupboard<br>dice<br>fluid |  
+| bip_39_word_new_br_11 | style<br>tide<br>skull<br>dentist<br>knock<br>laugh<br>various<br>cupboard<br>dice<br>fluid<br>faith |  
+| bip_39_word_new_br_12 | style<br>tide<br>skull<br>dentist<br>knock<br>laugh<br>various<br>cupboard<br>dice<br>fluid<br>faith<br>announce |  
+| bip_39_word_new_br_2 | style<br>tide |  
+| bip_39_word_new_br_3 | style<br>tide<br>skull |  
+| bip_39_word_new_br_4 | style<br>tide<br>skull<br>dentist |  
+| bip_39_word_new_br_5 | style<br>tide<br>skull<br>dentist<br>knock |  
+| bip_39_word_new_br_6 | style<br>tide<br>skull<br>dentist<br>knock<br>laugh |  
+| bip_39_word_new_br_7 | style<br>tide<br>skull<br>dentist<br>knock<br>laugh<br>various |  
+| bip_39_word_new_br_8 | style<br>tide<br>skull<br>dentist<br>knock<br>laugh<br>various<br>cupboard |  
+| bip_39_word_new_br_9 | style<br>tide<br>skull<br>dentist<br>knock<br>laugh<br>various<br>cupboard<br>dice |  
+| bip_39_word_new_line_1 | style |  
+| bip_39_word_new_line_10 | style
 tide
 skull
 dentist
@@ -55,7 +55,7 @@ various
 cupboard
 dice
 fluid |  
-| bip_39_word_new_line11 | style
+| bip_39_word_new_line_11 | style
 tide
 skull
 dentist
@@ -66,7 +66,7 @@ cupboard
 dice
 fluid
 faith |  
-| bip_39_word_new_line12 | style
+| bip_39_word_new_line_12 | style
 tide
 skull
 dentist
@@ -78,34 +78,34 @@ dice
 fluid
 faith
 announce |  
-| bip_39_word_new_line2 | style
+| bip_39_word_new_line_2 | style
 tide |  
-| bip_39_word_new_line3 | style
+| bip_39_word_new_line_3 | style
 tide
 skull |  
-| bip_39_word_new_line4 | style
+| bip_39_word_new_line_4 | style
 tide
 skull
 dentist |  
-| bip_39_word_new_line5 | style
+| bip_39_word_new_line_5 | style
 tide
 skull
 dentist
 knock |  
-| bip_39_word_new_line6 | style
+| bip_39_word_new_line_6 | style
 tide
 skull
 dentist
 knock
 laugh |  
-| bip_39_word_new_line7 | style
+| bip_39_word_new_line_7 | style
 tide
 skull
 dentist
 knock
 laugh
 various |  
-| bip_39_word_new_line8 | style
+| bip_39_word_new_line_8 | style
 tide
 skull
 dentist
@@ -113,7 +113,7 @@ knock
 laugh
 various
 cupboard |  
-| bip_39_word_new_line9 | style
+| bip_39_word_new_line_9 | style
 tide
 skull
 dentist

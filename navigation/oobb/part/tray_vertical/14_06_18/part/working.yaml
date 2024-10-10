@@ -1,17 +1,17 @@
-bip_39_word_new_br1: prison
-bip_39_word_new_br10: prison<br>surround<br>try<br>fever<br>truth<br>champion<br>female<br>length<br>walnut<br>dose
-bip_39_word_new_br11: prison<br>surround<br>try<br>fever<br>truth<br>champion<br>female<br>length<br>walnut<br>dose<br>bright
-bip_39_word_new_br12: prison<br>surround<br>try<br>fever<br>truth<br>champion<br>female<br>length<br>walnut<br>dose<br>bright<br>addict
-bip_39_word_new_br2: prison<br>surround
-bip_39_word_new_br3: prison<br>surround<br>try
-bip_39_word_new_br4: prison<br>surround<br>try<br>fever
-bip_39_word_new_br5: prison<br>surround<br>try<br>fever<br>truth
-bip_39_word_new_br6: prison<br>surround<br>try<br>fever<br>truth<br>champion
-bip_39_word_new_br7: prison<br>surround<br>try<br>fever<br>truth<br>champion<br>female
-bip_39_word_new_br8: prison<br>surround<br>try<br>fever<br>truth<br>champion<br>female<br>length
-bip_39_word_new_br9: prison<br>surround<br>try<br>fever<br>truth<br>champion<br>female<br>length<br>walnut
-bip_39_word_new_line1: prison
-bip_39_word_new_line10: 'prison
+bip_39_word_new_br_1: prison
+bip_39_word_new_br_10: prison<br>surround<br>try<br>fever<br>truth<br>champion<br>female<br>length<br>walnut<br>dose
+bip_39_word_new_br_11: prison<br>surround<br>try<br>fever<br>truth<br>champion<br>female<br>length<br>walnut<br>dose<br>bright
+bip_39_word_new_br_12: prison<br>surround<br>try<br>fever<br>truth<br>champion<br>female<br>length<br>walnut<br>dose<br>bright<br>addict
+bip_39_word_new_br_2: prison<br>surround
+bip_39_word_new_br_3: prison<br>surround<br>try
+bip_39_word_new_br_4: prison<br>surround<br>try<br>fever
+bip_39_word_new_br_5: prison<br>surround<br>try<br>fever<br>truth
+bip_39_word_new_br_6: prison<br>surround<br>try<br>fever<br>truth<br>champion
+bip_39_word_new_br_7: prison<br>surround<br>try<br>fever<br>truth<br>champion<br>female
+bip_39_word_new_br_8: prison<br>surround<br>try<br>fever<br>truth<br>champion<br>female<br>length
+bip_39_word_new_br_9: prison<br>surround<br>try<br>fever<br>truth<br>champion<br>female<br>length<br>walnut
+bip_39_word_new_line_1: prison
+bip_39_word_new_line_10: 'prison
 
   surround
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'prison
   walnut
 
   dose'
-bip_39_word_new_line11: 'prison
+bip_39_word_new_line_11: 'prison
 
   surround
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'prison
   dose
 
   bright'
-bip_39_word_new_line12: 'prison
+bip_39_word_new_line_12: 'prison
 
   surround
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'prison
   bright
 
   addict'
-bip_39_word_new_line2: 'prison
+bip_39_word_new_line_2: 'prison
 
   surround'
-bip_39_word_new_line3: 'prison
+bip_39_word_new_line_3: 'prison
 
   surround
 
   try'
-bip_39_word_new_line4: 'prison
+bip_39_word_new_line_4: 'prison
 
   surround
 
   try
 
   fever'
-bip_39_word_new_line5: 'prison
+bip_39_word_new_line_5: 'prison
 
   surround
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'prison
   fever
 
   truth'
-bip_39_word_new_line6: 'prison
+bip_39_word_new_line_6: 'prison
 
   surround
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'prison
   truth
 
   champion'
-bip_39_word_new_line7: 'prison
+bip_39_word_new_line_7: 'prison
 
   surround
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'prison
   champion
 
   female'
-bip_39_word_new_line8: 'prison
+bip_39_word_new_line_8: 'prison
 
   surround
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'prison
   female
 
   length'
-bip_39_word_new_line9: 'prison
+bip_39_word_new_line_9: 'prison
 
   surround
 

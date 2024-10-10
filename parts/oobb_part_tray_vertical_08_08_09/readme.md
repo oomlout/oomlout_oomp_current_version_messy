@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | idea |  
-| bip_39_word_new_br10 | idea<br>weird<br>pink<br>blame<br>ghost<br>trip<br>salt<br>next<br>aisle<br>case |  
-| bip_39_word_new_br11 | idea<br>weird<br>pink<br>blame<br>ghost<br>trip<br>salt<br>next<br>aisle<br>case<br>ramp |  
-| bip_39_word_new_br12 | idea<br>weird<br>pink<br>blame<br>ghost<br>trip<br>salt<br>next<br>aisle<br>case<br>ramp<br>about |  
-| bip_39_word_new_br2 | idea<br>weird |  
-| bip_39_word_new_br3 | idea<br>weird<br>pink |  
-| bip_39_word_new_br4 | idea<br>weird<br>pink<br>blame |  
-| bip_39_word_new_br5 | idea<br>weird<br>pink<br>blame<br>ghost |  
-| bip_39_word_new_br6 | idea<br>weird<br>pink<br>blame<br>ghost<br>trip |  
-| bip_39_word_new_br7 | idea<br>weird<br>pink<br>blame<br>ghost<br>trip<br>salt |  
-| bip_39_word_new_br8 | idea<br>weird<br>pink<br>blame<br>ghost<br>trip<br>salt<br>next |  
-| bip_39_word_new_br9 | idea<br>weird<br>pink<br>blame<br>ghost<br>trip<br>salt<br>next<br>aisle |  
-| bip_39_word_new_line1 | idea |  
-| bip_39_word_new_line10 | idea
+| bip_39_word_new_br_1 | idea |  
+| bip_39_word_new_br_10 | idea<br>weird<br>pink<br>blame<br>ghost<br>trip<br>salt<br>next<br>aisle<br>case |  
+| bip_39_word_new_br_11 | idea<br>weird<br>pink<br>blame<br>ghost<br>trip<br>salt<br>next<br>aisle<br>case<br>ramp |  
+| bip_39_word_new_br_12 | idea<br>weird<br>pink<br>blame<br>ghost<br>trip<br>salt<br>next<br>aisle<br>case<br>ramp<br>about |  
+| bip_39_word_new_br_2 | idea<br>weird |  
+| bip_39_word_new_br_3 | idea<br>weird<br>pink |  
+| bip_39_word_new_br_4 | idea<br>weird<br>pink<br>blame |  
+| bip_39_word_new_br_5 | idea<br>weird<br>pink<br>blame<br>ghost |  
+| bip_39_word_new_br_6 | idea<br>weird<br>pink<br>blame<br>ghost<br>trip |  
+| bip_39_word_new_br_7 | idea<br>weird<br>pink<br>blame<br>ghost<br>trip<br>salt |  
+| bip_39_word_new_br_8 | idea<br>weird<br>pink<br>blame<br>ghost<br>trip<br>salt<br>next |  
+| bip_39_word_new_br_9 | idea<br>weird<br>pink<br>blame<br>ghost<br>trip<br>salt<br>next<br>aisle |  
+| bip_39_word_new_line_1 | idea |  
+| bip_39_word_new_line_10 | idea
 weird
 pink
 blame
@@ -55,7 +55,7 @@ salt
 next
 aisle
 case |  
-| bip_39_word_new_line11 | idea
+| bip_39_word_new_line_11 | idea
 weird
 pink
 blame
@@ -66,7 +66,7 @@ next
 aisle
 case
 ramp |  
-| bip_39_word_new_line12 | idea
+| bip_39_word_new_line_12 | idea
 weird
 pink
 blame
@@ -78,34 +78,34 @@ aisle
 case
 ramp
 about |  
-| bip_39_word_new_line2 | idea
+| bip_39_word_new_line_2 | idea
 weird |  
-| bip_39_word_new_line3 | idea
+| bip_39_word_new_line_3 | idea
 weird
 pink |  
-| bip_39_word_new_line4 | idea
+| bip_39_word_new_line_4 | idea
 weird
 pink
 blame |  
-| bip_39_word_new_line5 | idea
+| bip_39_word_new_line_5 | idea
 weird
 pink
 blame
 ghost |  
-| bip_39_word_new_line6 | idea
+| bip_39_word_new_line_6 | idea
 weird
 pink
 blame
 ghost
 trip |  
-| bip_39_word_new_line7 | idea
+| bip_39_word_new_line_7 | idea
 weird
 pink
 blame
 ghost
 trip
 salt |  
-| bip_39_word_new_line8 | idea
+| bip_39_word_new_line_8 | idea
 weird
 pink
 blame
@@ -113,7 +113,7 @@ ghost
 trip
 salt
 next |  
-| bip_39_word_new_line9 | idea
+| bip_39_word_new_line_9 | idea
 weird
 pink
 blame

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mind |  
-| bip_39_word_new_br10 | mind<br>cart<br>viable<br>element<br>material<br>once<br>erupt<br>you<br>narrow<br>burger |  
-| bip_39_word_new_br11 | mind<br>cart<br>viable<br>element<br>material<br>once<br>erupt<br>you<br>narrow<br>burger<br>fiber |  
-| bip_39_word_new_br12 | mind<br>cart<br>viable<br>element<br>material<br>once<br>erupt<br>you<br>narrow<br>burger<br>fiber<br>audit |  
-| bip_39_word_new_br2 | mind<br>cart |  
-| bip_39_word_new_br3 | mind<br>cart<br>viable |  
-| bip_39_word_new_br4 | mind<br>cart<br>viable<br>element |  
-| bip_39_word_new_br5 | mind<br>cart<br>viable<br>element<br>material |  
-| bip_39_word_new_br6 | mind<br>cart<br>viable<br>element<br>material<br>once |  
-| bip_39_word_new_br7 | mind<br>cart<br>viable<br>element<br>material<br>once<br>erupt |  
-| bip_39_word_new_br8 | mind<br>cart<br>viable<br>element<br>material<br>once<br>erupt<br>you |  
-| bip_39_word_new_br9 | mind<br>cart<br>viable<br>element<br>material<br>once<br>erupt<br>you<br>narrow |  
-| bip_39_word_new_line1 | mind |  
-| bip_39_word_new_line10 | mind
+| bip_39_word_new_br_1 | mind |  
+| bip_39_word_new_br_10 | mind<br>cart<br>viable<br>element<br>material<br>once<br>erupt<br>you<br>narrow<br>burger |  
+| bip_39_word_new_br_11 | mind<br>cart<br>viable<br>element<br>material<br>once<br>erupt<br>you<br>narrow<br>burger<br>fiber |  
+| bip_39_word_new_br_12 | mind<br>cart<br>viable<br>element<br>material<br>once<br>erupt<br>you<br>narrow<br>burger<br>fiber<br>audit |  
+| bip_39_word_new_br_2 | mind<br>cart |  
+| bip_39_word_new_br_3 | mind<br>cart<br>viable |  
+| bip_39_word_new_br_4 | mind<br>cart<br>viable<br>element |  
+| bip_39_word_new_br_5 | mind<br>cart<br>viable<br>element<br>material |  
+| bip_39_word_new_br_6 | mind<br>cart<br>viable<br>element<br>material<br>once |  
+| bip_39_word_new_br_7 | mind<br>cart<br>viable<br>element<br>material<br>once<br>erupt |  
+| bip_39_word_new_br_8 | mind<br>cart<br>viable<br>element<br>material<br>once<br>erupt<br>you |  
+| bip_39_word_new_br_9 | mind<br>cart<br>viable<br>element<br>material<br>once<br>erupt<br>you<br>narrow |  
+| bip_39_word_new_line_1 | mind |  
+| bip_39_word_new_line_10 | mind
 cart
 viable
 element
@@ -55,7 +55,7 @@ erupt
 you
 narrow
 burger |  
-| bip_39_word_new_line11 | mind
+| bip_39_word_new_line_11 | mind
 cart
 viable
 element
@@ -66,7 +66,7 @@ you
 narrow
 burger
 fiber |  
-| bip_39_word_new_line12 | mind
+| bip_39_word_new_line_12 | mind
 cart
 viable
 element
@@ -78,34 +78,34 @@ narrow
 burger
 fiber
 audit |  
-| bip_39_word_new_line2 | mind
+| bip_39_word_new_line_2 | mind
 cart |  
-| bip_39_word_new_line3 | mind
+| bip_39_word_new_line_3 | mind
 cart
 viable |  
-| bip_39_word_new_line4 | mind
+| bip_39_word_new_line_4 | mind
 cart
 viable
 element |  
-| bip_39_word_new_line5 | mind
+| bip_39_word_new_line_5 | mind
 cart
 viable
 element
 material |  
-| bip_39_word_new_line6 | mind
+| bip_39_word_new_line_6 | mind
 cart
 viable
 element
 material
 once |  
-| bip_39_word_new_line7 | mind
+| bip_39_word_new_line_7 | mind
 cart
 viable
 element
 material
 once
 erupt |  
-| bip_39_word_new_line8 | mind
+| bip_39_word_new_line_8 | mind
 cart
 viable
 element
@@ -113,7 +113,7 @@ material
 once
 erupt
 you |  
-| bip_39_word_new_line9 | mind
+| bip_39_word_new_line_9 | mind
 cart
 viable
 element

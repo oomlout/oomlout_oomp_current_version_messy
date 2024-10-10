@@ -1,17 +1,17 @@
-bip_39_word_new_br1: pretty
-bip_39_word_new_br10: pretty<br>blast<br>recycle<br>city<br>divorce<br>radio<br>grace<br>industry<br>tray<br>only
-bip_39_word_new_br11: pretty<br>blast<br>recycle<br>city<br>divorce<br>radio<br>grace<br>industry<br>tray<br>only<br>issue
-bip_39_word_new_br12: pretty<br>blast<br>recycle<br>city<br>divorce<br>radio<br>grace<br>industry<br>tray<br>only<br>issue<br>affair
-bip_39_word_new_br2: pretty<br>blast
-bip_39_word_new_br3: pretty<br>blast<br>recycle
-bip_39_word_new_br4: pretty<br>blast<br>recycle<br>city
-bip_39_word_new_br5: pretty<br>blast<br>recycle<br>city<br>divorce
-bip_39_word_new_br6: pretty<br>blast<br>recycle<br>city<br>divorce<br>radio
-bip_39_word_new_br7: pretty<br>blast<br>recycle<br>city<br>divorce<br>radio<br>grace
-bip_39_word_new_br8: pretty<br>blast<br>recycle<br>city<br>divorce<br>radio<br>grace<br>industry
-bip_39_word_new_br9: pretty<br>blast<br>recycle<br>city<br>divorce<br>radio<br>grace<br>industry<br>tray
-bip_39_word_new_line1: pretty
-bip_39_word_new_line10: 'pretty
+bip_39_word_new_br_1: pretty
+bip_39_word_new_br_10: pretty<br>blast<br>recycle<br>city<br>divorce<br>radio<br>grace<br>industry<br>tray<br>only
+bip_39_word_new_br_11: pretty<br>blast<br>recycle<br>city<br>divorce<br>radio<br>grace<br>industry<br>tray<br>only<br>issue
+bip_39_word_new_br_12: pretty<br>blast<br>recycle<br>city<br>divorce<br>radio<br>grace<br>industry<br>tray<br>only<br>issue<br>affair
+bip_39_word_new_br_2: pretty<br>blast
+bip_39_word_new_br_3: pretty<br>blast<br>recycle
+bip_39_word_new_br_4: pretty<br>blast<br>recycle<br>city
+bip_39_word_new_br_5: pretty<br>blast<br>recycle<br>city<br>divorce
+bip_39_word_new_br_6: pretty<br>blast<br>recycle<br>city<br>divorce<br>radio
+bip_39_word_new_br_7: pretty<br>blast<br>recycle<br>city<br>divorce<br>radio<br>grace
+bip_39_word_new_br_8: pretty<br>blast<br>recycle<br>city<br>divorce<br>radio<br>grace<br>industry
+bip_39_word_new_br_9: pretty<br>blast<br>recycle<br>city<br>divorce<br>radio<br>grace<br>industry<br>tray
+bip_39_word_new_line_1: pretty
+bip_39_word_new_line_10: 'pretty
 
   blast
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'pretty
   tray
 
   only'
-bip_39_word_new_line11: 'pretty
+bip_39_word_new_line_11: 'pretty
 
   blast
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'pretty
   only
 
   issue'
-bip_39_word_new_line12: 'pretty
+bip_39_word_new_line_12: 'pretty
 
   blast
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'pretty
   issue
 
   affair'
-bip_39_word_new_line2: 'pretty
+bip_39_word_new_line_2: 'pretty
 
   blast'
-bip_39_word_new_line3: 'pretty
+bip_39_word_new_line_3: 'pretty
 
   blast
 
   recycle'
-bip_39_word_new_line4: 'pretty
+bip_39_word_new_line_4: 'pretty
 
   blast
 
   recycle
 
   city'
-bip_39_word_new_line5: 'pretty
+bip_39_word_new_line_5: 'pretty
 
   blast
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'pretty
   city
 
   divorce'
-bip_39_word_new_line6: 'pretty
+bip_39_word_new_line_6: 'pretty
 
   blast
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'pretty
   divorce
 
   radio'
-bip_39_word_new_line7: 'pretty
+bip_39_word_new_line_7: 'pretty
 
   blast
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'pretty
   radio
 
   grace'
-bip_39_word_new_line8: 'pretty
+bip_39_word_new_line_8: 'pretty
 
   blast
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'pretty
   grace
 
   industry'
-bip_39_word_new_line9: 'pretty
+bip_39_word_new_line_9: 'pretty
 
   blast
 

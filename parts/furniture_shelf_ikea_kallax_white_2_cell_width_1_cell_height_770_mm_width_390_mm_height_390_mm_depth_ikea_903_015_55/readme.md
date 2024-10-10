@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | inmate |  
-| bip_39_word_new_br10 | inmate<br>repair<br>hold<br>regular<br>habit<br>borrow<br>december<br>damage<br>narrow<br>maze |  
-| bip_39_word_new_br11 | inmate<br>repair<br>hold<br>regular<br>habit<br>borrow<br>december<br>damage<br>narrow<br>maze<br>aisle |  
-| bip_39_word_new_br12 | inmate<br>repair<br>hold<br>regular<br>habit<br>borrow<br>december<br>damage<br>narrow<br>maze<br>aisle<br>alpha |  
-| bip_39_word_new_br2 | inmate<br>repair |  
-| bip_39_word_new_br3 | inmate<br>repair<br>hold |  
-| bip_39_word_new_br4 | inmate<br>repair<br>hold<br>regular |  
-| bip_39_word_new_br5 | inmate<br>repair<br>hold<br>regular<br>habit |  
-| bip_39_word_new_br6 | inmate<br>repair<br>hold<br>regular<br>habit<br>borrow |  
-| bip_39_word_new_br7 | inmate<br>repair<br>hold<br>regular<br>habit<br>borrow<br>december |  
-| bip_39_word_new_br8 | inmate<br>repair<br>hold<br>regular<br>habit<br>borrow<br>december<br>damage |  
-| bip_39_word_new_br9 | inmate<br>repair<br>hold<br>regular<br>habit<br>borrow<br>december<br>damage<br>narrow |  
-| bip_39_word_new_line1 | inmate |  
-| bip_39_word_new_line10 | inmate
+| bip_39_word_new_br_1 | inmate |  
+| bip_39_word_new_br_10 | inmate<br>repair<br>hold<br>regular<br>habit<br>borrow<br>december<br>damage<br>narrow<br>maze |  
+| bip_39_word_new_br_11 | inmate<br>repair<br>hold<br>regular<br>habit<br>borrow<br>december<br>damage<br>narrow<br>maze<br>aisle |  
+| bip_39_word_new_br_12 | inmate<br>repair<br>hold<br>regular<br>habit<br>borrow<br>december<br>damage<br>narrow<br>maze<br>aisle<br>alpha |  
+| bip_39_word_new_br_2 | inmate<br>repair |  
+| bip_39_word_new_br_3 | inmate<br>repair<br>hold |  
+| bip_39_word_new_br_4 | inmate<br>repair<br>hold<br>regular |  
+| bip_39_word_new_br_5 | inmate<br>repair<br>hold<br>regular<br>habit |  
+| bip_39_word_new_br_6 | inmate<br>repair<br>hold<br>regular<br>habit<br>borrow |  
+| bip_39_word_new_br_7 | inmate<br>repair<br>hold<br>regular<br>habit<br>borrow<br>december |  
+| bip_39_word_new_br_8 | inmate<br>repair<br>hold<br>regular<br>habit<br>borrow<br>december<br>damage |  
+| bip_39_word_new_br_9 | inmate<br>repair<br>hold<br>regular<br>habit<br>borrow<br>december<br>damage<br>narrow |  
+| bip_39_word_new_line_1 | inmate |  
+| bip_39_word_new_line_10 | inmate
 repair
 hold
 regular
@@ -55,7 +55,7 @@ december
 damage
 narrow
 maze |  
-| bip_39_word_new_line11 | inmate
+| bip_39_word_new_line_11 | inmate
 repair
 hold
 regular
@@ -66,7 +66,7 @@ damage
 narrow
 maze
 aisle |  
-| bip_39_word_new_line12 | inmate
+| bip_39_word_new_line_12 | inmate
 repair
 hold
 regular
@@ -78,34 +78,34 @@ narrow
 maze
 aisle
 alpha |  
-| bip_39_word_new_line2 | inmate
+| bip_39_word_new_line_2 | inmate
 repair |  
-| bip_39_word_new_line3 | inmate
+| bip_39_word_new_line_3 | inmate
 repair
 hold |  
-| bip_39_word_new_line4 | inmate
+| bip_39_word_new_line_4 | inmate
 repair
 hold
 regular |  
-| bip_39_word_new_line5 | inmate
+| bip_39_word_new_line_5 | inmate
 repair
 hold
 regular
 habit |  
-| bip_39_word_new_line6 | inmate
+| bip_39_word_new_line_6 | inmate
 repair
 hold
 regular
 habit
 borrow |  
-| bip_39_word_new_line7 | inmate
+| bip_39_word_new_line_7 | inmate
 repair
 hold
 regular
 habit
 borrow
 december |  
-| bip_39_word_new_line8 | inmate
+| bip_39_word_new_line_8 | inmate
 repair
 hold
 regular
@@ -113,7 +113,7 @@ habit
 borrow
 december
 damage |  
-| bip_39_word_new_line9 | inmate
+| bip_39_word_new_line_9 | inmate
 repair
 hold
 regular

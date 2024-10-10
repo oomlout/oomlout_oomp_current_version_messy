@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | affair |  
-| bip_39_word_new_br10 | affair<br>arrive<br>never<br>advice<br>detect<br>unknown<br>plate<br>battle<br>crime<br>capable |  
-| bip_39_word_new_br11 | affair<br>arrive<br>never<br>advice<br>detect<br>unknown<br>plate<br>battle<br>crime<br>capable<br>include |  
-| bip_39_word_new_br12 | affair<br>arrive<br>never<br>advice<br>detect<br>unknown<br>plate<br>battle<br>crime<br>capable<br>include<br>announce |  
-| bip_39_word_new_br2 | affair<br>arrive |  
-| bip_39_word_new_br3 | affair<br>arrive<br>never |  
-| bip_39_word_new_br4 | affair<br>arrive<br>never<br>advice |  
-| bip_39_word_new_br5 | affair<br>arrive<br>never<br>advice<br>detect |  
-| bip_39_word_new_br6 | affair<br>arrive<br>never<br>advice<br>detect<br>unknown |  
-| bip_39_word_new_br7 | affair<br>arrive<br>never<br>advice<br>detect<br>unknown<br>plate |  
-| bip_39_word_new_br8 | affair<br>arrive<br>never<br>advice<br>detect<br>unknown<br>plate<br>battle |  
-| bip_39_word_new_br9 | affair<br>arrive<br>never<br>advice<br>detect<br>unknown<br>plate<br>battle<br>crime |  
-| bip_39_word_new_line1 | affair |  
-| bip_39_word_new_line10 | affair
+| bip_39_word_new_br_1 | affair |  
+| bip_39_word_new_br_10 | affair<br>arrive<br>never<br>advice<br>detect<br>unknown<br>plate<br>battle<br>crime<br>capable |  
+| bip_39_word_new_br_11 | affair<br>arrive<br>never<br>advice<br>detect<br>unknown<br>plate<br>battle<br>crime<br>capable<br>include |  
+| bip_39_word_new_br_12 | affair<br>arrive<br>never<br>advice<br>detect<br>unknown<br>plate<br>battle<br>crime<br>capable<br>include<br>announce |  
+| bip_39_word_new_br_2 | affair<br>arrive |  
+| bip_39_word_new_br_3 | affair<br>arrive<br>never |  
+| bip_39_word_new_br_4 | affair<br>arrive<br>never<br>advice |  
+| bip_39_word_new_br_5 | affair<br>arrive<br>never<br>advice<br>detect |  
+| bip_39_word_new_br_6 | affair<br>arrive<br>never<br>advice<br>detect<br>unknown |  
+| bip_39_word_new_br_7 | affair<br>arrive<br>never<br>advice<br>detect<br>unknown<br>plate |  
+| bip_39_word_new_br_8 | affair<br>arrive<br>never<br>advice<br>detect<br>unknown<br>plate<br>battle |  
+| bip_39_word_new_br_9 | affair<br>arrive<br>never<br>advice<br>detect<br>unknown<br>plate<br>battle<br>crime |  
+| bip_39_word_new_line_1 | affair |  
+| bip_39_word_new_line_10 | affair
 arrive
 never
 advice
@@ -55,7 +55,7 @@ plate
 battle
 crime
 capable |  
-| bip_39_word_new_line11 | affair
+| bip_39_word_new_line_11 | affair
 arrive
 never
 advice
@@ -66,7 +66,7 @@ battle
 crime
 capable
 include |  
-| bip_39_word_new_line12 | affair
+| bip_39_word_new_line_12 | affair
 arrive
 never
 advice
@@ -78,34 +78,34 @@ crime
 capable
 include
 announce |  
-| bip_39_word_new_line2 | affair
+| bip_39_word_new_line_2 | affair
 arrive |  
-| bip_39_word_new_line3 | affair
+| bip_39_word_new_line_3 | affair
 arrive
 never |  
-| bip_39_word_new_line4 | affair
+| bip_39_word_new_line_4 | affair
 arrive
 never
 advice |  
-| bip_39_word_new_line5 | affair
+| bip_39_word_new_line_5 | affair
 arrive
 never
 advice
 detect |  
-| bip_39_word_new_line6 | affair
+| bip_39_word_new_line_6 | affair
 arrive
 never
 advice
 detect
 unknown |  
-| bip_39_word_new_line7 | affair
+| bip_39_word_new_line_7 | affair
 arrive
 never
 advice
 detect
 unknown
 plate |  
-| bip_39_word_new_line8 | affair
+| bip_39_word_new_line_8 | affair
 arrive
 never
 advice
@@ -113,7 +113,7 @@ detect
 unknown
 plate
 battle |  
-| bip_39_word_new_line9 | affair
+| bip_39_word_new_line_9 | affair
 arrive
 never
 advice

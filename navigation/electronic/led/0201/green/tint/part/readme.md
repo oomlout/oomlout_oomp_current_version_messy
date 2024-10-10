@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | panda |  
-| bip_39_word_new_br10 | panda<br>skate<br>cluster<br>earth<br>assume<br>notice<br>library<br>orange<br>piano<br>bleak |  
-| bip_39_word_new_br11 | panda<br>skate<br>cluster<br>earth<br>assume<br>notice<br>library<br>orange<br>piano<br>bleak<br>survey |  
-| bip_39_word_new_br12 | panda<br>skate<br>cluster<br>earth<br>assume<br>notice<br>library<br>orange<br>piano<br>bleak<br>survey<br>aerobic |  
-| bip_39_word_new_br2 | panda<br>skate |  
-| bip_39_word_new_br3 | panda<br>skate<br>cluster |  
-| bip_39_word_new_br4 | panda<br>skate<br>cluster<br>earth |  
-| bip_39_word_new_br5 | panda<br>skate<br>cluster<br>earth<br>assume |  
-| bip_39_word_new_br6 | panda<br>skate<br>cluster<br>earth<br>assume<br>notice |  
-| bip_39_word_new_br7 | panda<br>skate<br>cluster<br>earth<br>assume<br>notice<br>library |  
-| bip_39_word_new_br8 | panda<br>skate<br>cluster<br>earth<br>assume<br>notice<br>library<br>orange |  
-| bip_39_word_new_br9 | panda<br>skate<br>cluster<br>earth<br>assume<br>notice<br>library<br>orange<br>piano |  
-| bip_39_word_new_line1 | panda |  
-| bip_39_word_new_line10 | panda
+| bip_39_word_new_br_1 | panda |  
+| bip_39_word_new_br_10 | panda<br>skate<br>cluster<br>earth<br>assume<br>notice<br>library<br>orange<br>piano<br>bleak |  
+| bip_39_word_new_br_11 | panda<br>skate<br>cluster<br>earth<br>assume<br>notice<br>library<br>orange<br>piano<br>bleak<br>survey |  
+| bip_39_word_new_br_12 | panda<br>skate<br>cluster<br>earth<br>assume<br>notice<br>library<br>orange<br>piano<br>bleak<br>survey<br>aerobic |  
+| bip_39_word_new_br_2 | panda<br>skate |  
+| bip_39_word_new_br_3 | panda<br>skate<br>cluster |  
+| bip_39_word_new_br_4 | panda<br>skate<br>cluster<br>earth |  
+| bip_39_word_new_br_5 | panda<br>skate<br>cluster<br>earth<br>assume |  
+| bip_39_word_new_br_6 | panda<br>skate<br>cluster<br>earth<br>assume<br>notice |  
+| bip_39_word_new_br_7 | panda<br>skate<br>cluster<br>earth<br>assume<br>notice<br>library |  
+| bip_39_word_new_br_8 | panda<br>skate<br>cluster<br>earth<br>assume<br>notice<br>library<br>orange |  
+| bip_39_word_new_br_9 | panda<br>skate<br>cluster<br>earth<br>assume<br>notice<br>library<br>orange<br>piano |  
+| bip_39_word_new_line_1 | panda |  
+| bip_39_word_new_line_10 | panda
 skate
 cluster
 earth
@@ -55,7 +55,7 @@ library
 orange
 piano
 bleak |  
-| bip_39_word_new_line11 | panda
+| bip_39_word_new_line_11 | panda
 skate
 cluster
 earth
@@ -66,7 +66,7 @@ orange
 piano
 bleak
 survey |  
-| bip_39_word_new_line12 | panda
+| bip_39_word_new_line_12 | panda
 skate
 cluster
 earth
@@ -78,34 +78,34 @@ piano
 bleak
 survey
 aerobic |  
-| bip_39_word_new_line2 | panda
+| bip_39_word_new_line_2 | panda
 skate |  
-| bip_39_word_new_line3 | panda
+| bip_39_word_new_line_3 | panda
 skate
 cluster |  
-| bip_39_word_new_line4 | panda
+| bip_39_word_new_line_4 | panda
 skate
 cluster
 earth |  
-| bip_39_word_new_line5 | panda
+| bip_39_word_new_line_5 | panda
 skate
 cluster
 earth
 assume |  
-| bip_39_word_new_line6 | panda
+| bip_39_word_new_line_6 | panda
 skate
 cluster
 earth
 assume
 notice |  
-| bip_39_word_new_line7 | panda
+| bip_39_word_new_line_7 | panda
 skate
 cluster
 earth
 assume
 notice
 library |  
-| bip_39_word_new_line8 | panda
+| bip_39_word_new_line_8 | panda
 skate
 cluster
 earth
@@ -113,7 +113,7 @@ assume
 notice
 library
 orange |  
-| bip_39_word_new_line9 | panda
+| bip_39_word_new_line_9 | panda
 skate
 cluster
 earth

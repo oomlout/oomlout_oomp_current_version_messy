@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | jar |  
-| bip_39_word_new_br10 | jar<br>skill<br>found<br>hotel<br>original<br>cloth<br>tiny<br>quit<br>lyrics<br>forest |  
-| bip_39_word_new_br11 | jar<br>skill<br>found<br>hotel<br>original<br>cloth<br>tiny<br>quit<br>lyrics<br>forest<br>mind |  
-| bip_39_word_new_br12 | jar<br>skill<br>found<br>hotel<br>original<br>cloth<br>tiny<br>quit<br>lyrics<br>forest<br>mind<br>about |  
-| bip_39_word_new_br2 | jar<br>skill |  
-| bip_39_word_new_br3 | jar<br>skill<br>found |  
-| bip_39_word_new_br4 | jar<br>skill<br>found<br>hotel |  
-| bip_39_word_new_br5 | jar<br>skill<br>found<br>hotel<br>original |  
-| bip_39_word_new_br6 | jar<br>skill<br>found<br>hotel<br>original<br>cloth |  
-| bip_39_word_new_br7 | jar<br>skill<br>found<br>hotel<br>original<br>cloth<br>tiny |  
-| bip_39_word_new_br8 | jar<br>skill<br>found<br>hotel<br>original<br>cloth<br>tiny<br>quit |  
-| bip_39_word_new_br9 | jar<br>skill<br>found<br>hotel<br>original<br>cloth<br>tiny<br>quit<br>lyrics |  
-| bip_39_word_new_line1 | jar |  
-| bip_39_word_new_line10 | jar
+| bip_39_word_new_br_1 | jar |  
+| bip_39_word_new_br_10 | jar<br>skill<br>found<br>hotel<br>original<br>cloth<br>tiny<br>quit<br>lyrics<br>forest |  
+| bip_39_word_new_br_11 | jar<br>skill<br>found<br>hotel<br>original<br>cloth<br>tiny<br>quit<br>lyrics<br>forest<br>mind |  
+| bip_39_word_new_br_12 | jar<br>skill<br>found<br>hotel<br>original<br>cloth<br>tiny<br>quit<br>lyrics<br>forest<br>mind<br>about |  
+| bip_39_word_new_br_2 | jar<br>skill |  
+| bip_39_word_new_br_3 | jar<br>skill<br>found |  
+| bip_39_word_new_br_4 | jar<br>skill<br>found<br>hotel |  
+| bip_39_word_new_br_5 | jar<br>skill<br>found<br>hotel<br>original |  
+| bip_39_word_new_br_6 | jar<br>skill<br>found<br>hotel<br>original<br>cloth |  
+| bip_39_word_new_br_7 | jar<br>skill<br>found<br>hotel<br>original<br>cloth<br>tiny |  
+| bip_39_word_new_br_8 | jar<br>skill<br>found<br>hotel<br>original<br>cloth<br>tiny<br>quit |  
+| bip_39_word_new_br_9 | jar<br>skill<br>found<br>hotel<br>original<br>cloth<br>tiny<br>quit<br>lyrics |  
+| bip_39_word_new_line_1 | jar |  
+| bip_39_word_new_line_10 | jar
 skill
 found
 hotel
@@ -55,7 +55,7 @@ tiny
 quit
 lyrics
 forest |  
-| bip_39_word_new_line11 | jar
+| bip_39_word_new_line_11 | jar
 skill
 found
 hotel
@@ -66,7 +66,7 @@ quit
 lyrics
 forest
 mind |  
-| bip_39_word_new_line12 | jar
+| bip_39_word_new_line_12 | jar
 skill
 found
 hotel
@@ -78,34 +78,34 @@ lyrics
 forest
 mind
 about |  
-| bip_39_word_new_line2 | jar
+| bip_39_word_new_line_2 | jar
 skill |  
-| bip_39_word_new_line3 | jar
+| bip_39_word_new_line_3 | jar
 skill
 found |  
-| bip_39_word_new_line4 | jar
+| bip_39_word_new_line_4 | jar
 skill
 found
 hotel |  
-| bip_39_word_new_line5 | jar
+| bip_39_word_new_line_5 | jar
 skill
 found
 hotel
 original |  
-| bip_39_word_new_line6 | jar
+| bip_39_word_new_line_6 | jar
 skill
 found
 hotel
 original
 cloth |  
-| bip_39_word_new_line7 | jar
+| bip_39_word_new_line_7 | jar
 skill
 found
 hotel
 original
 cloth
 tiny |  
-| bip_39_word_new_line8 | jar
+| bip_39_word_new_line_8 | jar
 skill
 found
 hotel
@@ -113,7 +113,7 @@ original
 cloth
 tiny
 quit |  
-| bip_39_word_new_line9 | jar
+| bip_39_word_new_line_9 | jar
 skill
 found
 hotel

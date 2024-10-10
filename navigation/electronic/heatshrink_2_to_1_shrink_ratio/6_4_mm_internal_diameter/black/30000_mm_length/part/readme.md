@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | humble |  
-| bip_39_word_new_br10 | humble<br>remind<br>inner<br>solar<br>stadium<br>exact<br>online<br>glide<br>curve<br>thank |  
-| bip_39_word_new_br11 | humble<br>remind<br>inner<br>solar<br>stadium<br>exact<br>online<br>glide<br>curve<br>thank<br>satoshi |  
-| bip_39_word_new_br12 | humble<br>remind<br>inner<br>solar<br>stadium<br>exact<br>online<br>glide<br>curve<br>thank<br>satoshi<br>anchor |  
-| bip_39_word_new_br2 | humble<br>remind |  
-| bip_39_word_new_br3 | humble<br>remind<br>inner |  
-| bip_39_word_new_br4 | humble<br>remind<br>inner<br>solar |  
-| bip_39_word_new_br5 | humble<br>remind<br>inner<br>solar<br>stadium |  
-| bip_39_word_new_br6 | humble<br>remind<br>inner<br>solar<br>stadium<br>exact |  
-| bip_39_word_new_br7 | humble<br>remind<br>inner<br>solar<br>stadium<br>exact<br>online |  
-| bip_39_word_new_br8 | humble<br>remind<br>inner<br>solar<br>stadium<br>exact<br>online<br>glide |  
-| bip_39_word_new_br9 | humble<br>remind<br>inner<br>solar<br>stadium<br>exact<br>online<br>glide<br>curve |  
-| bip_39_word_new_line1 | humble |  
-| bip_39_word_new_line10 | humble
+| bip_39_word_new_br_1 | humble |  
+| bip_39_word_new_br_10 | humble<br>remind<br>inner<br>solar<br>stadium<br>exact<br>online<br>glide<br>curve<br>thank |  
+| bip_39_word_new_br_11 | humble<br>remind<br>inner<br>solar<br>stadium<br>exact<br>online<br>glide<br>curve<br>thank<br>satoshi |  
+| bip_39_word_new_br_12 | humble<br>remind<br>inner<br>solar<br>stadium<br>exact<br>online<br>glide<br>curve<br>thank<br>satoshi<br>anchor |  
+| bip_39_word_new_br_2 | humble<br>remind |  
+| bip_39_word_new_br_3 | humble<br>remind<br>inner |  
+| bip_39_word_new_br_4 | humble<br>remind<br>inner<br>solar |  
+| bip_39_word_new_br_5 | humble<br>remind<br>inner<br>solar<br>stadium |  
+| bip_39_word_new_br_6 | humble<br>remind<br>inner<br>solar<br>stadium<br>exact |  
+| bip_39_word_new_br_7 | humble<br>remind<br>inner<br>solar<br>stadium<br>exact<br>online |  
+| bip_39_word_new_br_8 | humble<br>remind<br>inner<br>solar<br>stadium<br>exact<br>online<br>glide |  
+| bip_39_word_new_br_9 | humble<br>remind<br>inner<br>solar<br>stadium<br>exact<br>online<br>glide<br>curve |  
+| bip_39_word_new_line_1 | humble |  
+| bip_39_word_new_line_10 | humble
 remind
 inner
 solar
@@ -55,7 +55,7 @@ online
 glide
 curve
 thank |  
-| bip_39_word_new_line11 | humble
+| bip_39_word_new_line_11 | humble
 remind
 inner
 solar
@@ -66,7 +66,7 @@ glide
 curve
 thank
 satoshi |  
-| bip_39_word_new_line12 | humble
+| bip_39_word_new_line_12 | humble
 remind
 inner
 solar
@@ -78,34 +78,34 @@ curve
 thank
 satoshi
 anchor |  
-| bip_39_word_new_line2 | humble
+| bip_39_word_new_line_2 | humble
 remind |  
-| bip_39_word_new_line3 | humble
+| bip_39_word_new_line_3 | humble
 remind
 inner |  
-| bip_39_word_new_line4 | humble
+| bip_39_word_new_line_4 | humble
 remind
 inner
 solar |  
-| bip_39_word_new_line5 | humble
+| bip_39_word_new_line_5 | humble
 remind
 inner
 solar
 stadium |  
-| bip_39_word_new_line6 | humble
+| bip_39_word_new_line_6 | humble
 remind
 inner
 solar
 stadium
 exact |  
-| bip_39_word_new_line7 | humble
+| bip_39_word_new_line_7 | humble
 remind
 inner
 solar
 stadium
 exact
 online |  
-| bip_39_word_new_line8 | humble
+| bip_39_word_new_line_8 | humble
 remind
 inner
 solar
@@ -113,7 +113,7 @@ stadium
 exact
 online
 glide |  
-| bip_39_word_new_line9 | humble
+| bip_39_word_new_line_9 | humble
 remind
 inner
 solar

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ladder |  
-| bip_39_word_new_br10 | ladder<br>great<br>code<br>host<br>damage<br>balance<br>empower<br>turtle<br>exhaust<br>crime |  
-| bip_39_word_new_br11 | ladder<br>great<br>code<br>host<br>damage<br>balance<br>empower<br>turtle<br>exhaust<br>crime<br>cloth |  
-| bip_39_word_new_br12 | ladder<br>great<br>code<br>host<br>damage<br>balance<br>empower<br>turtle<br>exhaust<br>crime<br>cloth<br>adapt |  
-| bip_39_word_new_br2 | ladder<br>great |  
-| bip_39_word_new_br3 | ladder<br>great<br>code |  
-| bip_39_word_new_br4 | ladder<br>great<br>code<br>host |  
-| bip_39_word_new_br5 | ladder<br>great<br>code<br>host<br>damage |  
-| bip_39_word_new_br6 | ladder<br>great<br>code<br>host<br>damage<br>balance |  
-| bip_39_word_new_br7 | ladder<br>great<br>code<br>host<br>damage<br>balance<br>empower |  
-| bip_39_word_new_br8 | ladder<br>great<br>code<br>host<br>damage<br>balance<br>empower<br>turtle |  
-| bip_39_word_new_br9 | ladder<br>great<br>code<br>host<br>damage<br>balance<br>empower<br>turtle<br>exhaust |  
-| bip_39_word_new_line1 | ladder |  
-| bip_39_word_new_line10 | ladder
+| bip_39_word_new_br_1 | ladder |  
+| bip_39_word_new_br_10 | ladder<br>great<br>code<br>host<br>damage<br>balance<br>empower<br>turtle<br>exhaust<br>crime |  
+| bip_39_word_new_br_11 | ladder<br>great<br>code<br>host<br>damage<br>balance<br>empower<br>turtle<br>exhaust<br>crime<br>cloth |  
+| bip_39_word_new_br_12 | ladder<br>great<br>code<br>host<br>damage<br>balance<br>empower<br>turtle<br>exhaust<br>crime<br>cloth<br>adapt |  
+| bip_39_word_new_br_2 | ladder<br>great |  
+| bip_39_word_new_br_3 | ladder<br>great<br>code |  
+| bip_39_word_new_br_4 | ladder<br>great<br>code<br>host |  
+| bip_39_word_new_br_5 | ladder<br>great<br>code<br>host<br>damage |  
+| bip_39_word_new_br_6 | ladder<br>great<br>code<br>host<br>damage<br>balance |  
+| bip_39_word_new_br_7 | ladder<br>great<br>code<br>host<br>damage<br>balance<br>empower |  
+| bip_39_word_new_br_8 | ladder<br>great<br>code<br>host<br>damage<br>balance<br>empower<br>turtle |  
+| bip_39_word_new_br_9 | ladder<br>great<br>code<br>host<br>damage<br>balance<br>empower<br>turtle<br>exhaust |  
+| bip_39_word_new_line_1 | ladder |  
+| bip_39_word_new_line_10 | ladder
 great
 code
 host
@@ -55,7 +55,7 @@ empower
 turtle
 exhaust
 crime |  
-| bip_39_word_new_line11 | ladder
+| bip_39_word_new_line_11 | ladder
 great
 code
 host
@@ -66,7 +66,7 @@ turtle
 exhaust
 crime
 cloth |  
-| bip_39_word_new_line12 | ladder
+| bip_39_word_new_line_12 | ladder
 great
 code
 host
@@ -78,34 +78,34 @@ exhaust
 crime
 cloth
 adapt |  
-| bip_39_word_new_line2 | ladder
+| bip_39_word_new_line_2 | ladder
 great |  
-| bip_39_word_new_line3 | ladder
+| bip_39_word_new_line_3 | ladder
 great
 code |  
-| bip_39_word_new_line4 | ladder
+| bip_39_word_new_line_4 | ladder
 great
 code
 host |  
-| bip_39_word_new_line5 | ladder
+| bip_39_word_new_line_5 | ladder
 great
 code
 host
 damage |  
-| bip_39_word_new_line6 | ladder
+| bip_39_word_new_line_6 | ladder
 great
 code
 host
 damage
 balance |  
-| bip_39_word_new_line7 | ladder
+| bip_39_word_new_line_7 | ladder
 great
 code
 host
 damage
 balance
 empower |  
-| bip_39_word_new_line8 | ladder
+| bip_39_word_new_line_8 | ladder
 great
 code
 host
@@ -113,7 +113,7 @@ damage
 balance
 empower
 turtle |  
-| bip_39_word_new_line9 | ladder
+| bip_39_word_new_line_9 | ladder
 great
 code
 host

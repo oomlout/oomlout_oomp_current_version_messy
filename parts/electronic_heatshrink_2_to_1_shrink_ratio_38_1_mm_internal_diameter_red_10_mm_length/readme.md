@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | echo |  
-| bip_39_word_new_br10 | echo<br>debris<br>text<br>window<br>fetch<br>purpose<br>tattoo<br>high<br>coil<br>army |  
-| bip_39_word_new_br11 | echo<br>debris<br>text<br>window<br>fetch<br>purpose<br>tattoo<br>high<br>coil<br>army<br>sister |  
-| bip_39_word_new_br12 | echo<br>debris<br>text<br>window<br>fetch<br>purpose<br>tattoo<br>high<br>coil<br>army<br>sister<br>arrow |  
-| bip_39_word_new_br2 | echo<br>debris |  
-| bip_39_word_new_br3 | echo<br>debris<br>text |  
-| bip_39_word_new_br4 | echo<br>debris<br>text<br>window |  
-| bip_39_word_new_br5 | echo<br>debris<br>text<br>window<br>fetch |  
-| bip_39_word_new_br6 | echo<br>debris<br>text<br>window<br>fetch<br>purpose |  
-| bip_39_word_new_br7 | echo<br>debris<br>text<br>window<br>fetch<br>purpose<br>tattoo |  
-| bip_39_word_new_br8 | echo<br>debris<br>text<br>window<br>fetch<br>purpose<br>tattoo<br>high |  
-| bip_39_word_new_br9 | echo<br>debris<br>text<br>window<br>fetch<br>purpose<br>tattoo<br>high<br>coil |  
-| bip_39_word_new_line1 | echo |  
-| bip_39_word_new_line10 | echo
+| bip_39_word_new_br_1 | echo |  
+| bip_39_word_new_br_10 | echo<br>debris<br>text<br>window<br>fetch<br>purpose<br>tattoo<br>high<br>coil<br>army |  
+| bip_39_word_new_br_11 | echo<br>debris<br>text<br>window<br>fetch<br>purpose<br>tattoo<br>high<br>coil<br>army<br>sister |  
+| bip_39_word_new_br_12 | echo<br>debris<br>text<br>window<br>fetch<br>purpose<br>tattoo<br>high<br>coil<br>army<br>sister<br>arrow |  
+| bip_39_word_new_br_2 | echo<br>debris |  
+| bip_39_word_new_br_3 | echo<br>debris<br>text |  
+| bip_39_word_new_br_4 | echo<br>debris<br>text<br>window |  
+| bip_39_word_new_br_5 | echo<br>debris<br>text<br>window<br>fetch |  
+| bip_39_word_new_br_6 | echo<br>debris<br>text<br>window<br>fetch<br>purpose |  
+| bip_39_word_new_br_7 | echo<br>debris<br>text<br>window<br>fetch<br>purpose<br>tattoo |  
+| bip_39_word_new_br_8 | echo<br>debris<br>text<br>window<br>fetch<br>purpose<br>tattoo<br>high |  
+| bip_39_word_new_br_9 | echo<br>debris<br>text<br>window<br>fetch<br>purpose<br>tattoo<br>high<br>coil |  
+| bip_39_word_new_line_1 | echo |  
+| bip_39_word_new_line_10 | echo
 debris
 text
 window
@@ -55,7 +55,7 @@ tattoo
 high
 coil
 army |  
-| bip_39_word_new_line11 | echo
+| bip_39_word_new_line_11 | echo
 debris
 text
 window
@@ -66,7 +66,7 @@ high
 coil
 army
 sister |  
-| bip_39_word_new_line12 | echo
+| bip_39_word_new_line_12 | echo
 debris
 text
 window
@@ -78,34 +78,34 @@ coil
 army
 sister
 arrow |  
-| bip_39_word_new_line2 | echo
+| bip_39_word_new_line_2 | echo
 debris |  
-| bip_39_word_new_line3 | echo
+| bip_39_word_new_line_3 | echo
 debris
 text |  
-| bip_39_word_new_line4 | echo
+| bip_39_word_new_line_4 | echo
 debris
 text
 window |  
-| bip_39_word_new_line5 | echo
+| bip_39_word_new_line_5 | echo
 debris
 text
 window
 fetch |  
-| bip_39_word_new_line6 | echo
+| bip_39_word_new_line_6 | echo
 debris
 text
 window
 fetch
 purpose |  
-| bip_39_word_new_line7 | echo
+| bip_39_word_new_line_7 | echo
 debris
 text
 window
 fetch
 purpose
 tattoo |  
-| bip_39_word_new_line8 | echo
+| bip_39_word_new_line_8 | echo
 debris
 text
 window
@@ -113,7 +113,7 @@ fetch
 purpose
 tattoo
 high |  
-| bip_39_word_new_line9 | echo
+| bip_39_word_new_line_9 | echo
 debris
 text
 window

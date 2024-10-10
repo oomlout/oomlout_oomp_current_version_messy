@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | good |  
-| bip_39_word_new_br10 | good<br>erase<br>idle<br>velvet<br>desk<br>will<br>noise<br>impact<br>angry<br>child |  
-| bip_39_word_new_br11 | good<br>erase<br>idle<br>velvet<br>desk<br>will<br>noise<br>impact<br>angry<br>child<br>vacuum |  
-| bip_39_word_new_br12 | good<br>erase<br>idle<br>velvet<br>desk<br>will<br>noise<br>impact<br>angry<br>child<br>vacuum<br>announce |  
-| bip_39_word_new_br2 | good<br>erase |  
-| bip_39_word_new_br3 | good<br>erase<br>idle |  
-| bip_39_word_new_br4 | good<br>erase<br>idle<br>velvet |  
-| bip_39_word_new_br5 | good<br>erase<br>idle<br>velvet<br>desk |  
-| bip_39_word_new_br6 | good<br>erase<br>idle<br>velvet<br>desk<br>will |  
-| bip_39_word_new_br7 | good<br>erase<br>idle<br>velvet<br>desk<br>will<br>noise |  
-| bip_39_word_new_br8 | good<br>erase<br>idle<br>velvet<br>desk<br>will<br>noise<br>impact |  
-| bip_39_word_new_br9 | good<br>erase<br>idle<br>velvet<br>desk<br>will<br>noise<br>impact<br>angry |  
-| bip_39_word_new_line1 | good |  
-| bip_39_word_new_line10 | good
+| bip_39_word_new_br_1 | good |  
+| bip_39_word_new_br_10 | good<br>erase<br>idle<br>velvet<br>desk<br>will<br>noise<br>impact<br>angry<br>child |  
+| bip_39_word_new_br_11 | good<br>erase<br>idle<br>velvet<br>desk<br>will<br>noise<br>impact<br>angry<br>child<br>vacuum |  
+| bip_39_word_new_br_12 | good<br>erase<br>idle<br>velvet<br>desk<br>will<br>noise<br>impact<br>angry<br>child<br>vacuum<br>announce |  
+| bip_39_word_new_br_2 | good<br>erase |  
+| bip_39_word_new_br_3 | good<br>erase<br>idle |  
+| bip_39_word_new_br_4 | good<br>erase<br>idle<br>velvet |  
+| bip_39_word_new_br_5 | good<br>erase<br>idle<br>velvet<br>desk |  
+| bip_39_word_new_br_6 | good<br>erase<br>idle<br>velvet<br>desk<br>will |  
+| bip_39_word_new_br_7 | good<br>erase<br>idle<br>velvet<br>desk<br>will<br>noise |  
+| bip_39_word_new_br_8 | good<br>erase<br>idle<br>velvet<br>desk<br>will<br>noise<br>impact |  
+| bip_39_word_new_br_9 | good<br>erase<br>idle<br>velvet<br>desk<br>will<br>noise<br>impact<br>angry |  
+| bip_39_word_new_line_1 | good |  
+| bip_39_word_new_line_10 | good
 erase
 idle
 velvet
@@ -55,7 +55,7 @@ noise
 impact
 angry
 child |  
-| bip_39_word_new_line11 | good
+| bip_39_word_new_line_11 | good
 erase
 idle
 velvet
@@ -66,7 +66,7 @@ impact
 angry
 child
 vacuum |  
-| bip_39_word_new_line12 | good
+| bip_39_word_new_line_12 | good
 erase
 idle
 velvet
@@ -78,34 +78,34 @@ angry
 child
 vacuum
 announce |  
-| bip_39_word_new_line2 | good
+| bip_39_word_new_line_2 | good
 erase |  
-| bip_39_word_new_line3 | good
+| bip_39_word_new_line_3 | good
 erase
 idle |  
-| bip_39_word_new_line4 | good
+| bip_39_word_new_line_4 | good
 erase
 idle
 velvet |  
-| bip_39_word_new_line5 | good
+| bip_39_word_new_line_5 | good
 erase
 idle
 velvet
 desk |  
-| bip_39_word_new_line6 | good
+| bip_39_word_new_line_6 | good
 erase
 idle
 velvet
 desk
 will |  
-| bip_39_word_new_line7 | good
+| bip_39_word_new_line_7 | good
 erase
 idle
 velvet
 desk
 will
 noise |  
-| bip_39_word_new_line8 | good
+| bip_39_word_new_line_8 | good
 erase
 idle
 velvet
@@ -113,7 +113,7 @@ desk
 will
 noise
 impact |  
-| bip_39_word_new_line9 | good
+| bip_39_word_new_line_9 | good
 erase
 idle
 velvet

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ask |  
-| bip_39_word_new_br10 | ask<br>satoshi<br>screen<br>rack<br>candy<br>blanket<br>tired<br>job<br>such<br>page |  
-| bip_39_word_new_br11 | ask<br>satoshi<br>screen<br>rack<br>candy<br>blanket<br>tired<br>job<br>such<br>page<br>two |  
-| bip_39_word_new_br12 | ask<br>satoshi<br>screen<br>rack<br>candy<br>blanket<br>tired<br>job<br>such<br>page<br>two<br>august |  
-| bip_39_word_new_br2 | ask<br>satoshi |  
-| bip_39_word_new_br3 | ask<br>satoshi<br>screen |  
-| bip_39_word_new_br4 | ask<br>satoshi<br>screen<br>rack |  
-| bip_39_word_new_br5 | ask<br>satoshi<br>screen<br>rack<br>candy |  
-| bip_39_word_new_br6 | ask<br>satoshi<br>screen<br>rack<br>candy<br>blanket |  
-| bip_39_word_new_br7 | ask<br>satoshi<br>screen<br>rack<br>candy<br>blanket<br>tired |  
-| bip_39_word_new_br8 | ask<br>satoshi<br>screen<br>rack<br>candy<br>blanket<br>tired<br>job |  
-| bip_39_word_new_br9 | ask<br>satoshi<br>screen<br>rack<br>candy<br>blanket<br>tired<br>job<br>such |  
-| bip_39_word_new_line1 | ask |  
-| bip_39_word_new_line10 | ask
+| bip_39_word_new_br_1 | ask |  
+| bip_39_word_new_br_10 | ask<br>satoshi<br>screen<br>rack<br>candy<br>blanket<br>tired<br>job<br>such<br>page |  
+| bip_39_word_new_br_11 | ask<br>satoshi<br>screen<br>rack<br>candy<br>blanket<br>tired<br>job<br>such<br>page<br>two |  
+| bip_39_word_new_br_12 | ask<br>satoshi<br>screen<br>rack<br>candy<br>blanket<br>tired<br>job<br>such<br>page<br>two<br>august |  
+| bip_39_word_new_br_2 | ask<br>satoshi |  
+| bip_39_word_new_br_3 | ask<br>satoshi<br>screen |  
+| bip_39_word_new_br_4 | ask<br>satoshi<br>screen<br>rack |  
+| bip_39_word_new_br_5 | ask<br>satoshi<br>screen<br>rack<br>candy |  
+| bip_39_word_new_br_6 | ask<br>satoshi<br>screen<br>rack<br>candy<br>blanket |  
+| bip_39_word_new_br_7 | ask<br>satoshi<br>screen<br>rack<br>candy<br>blanket<br>tired |  
+| bip_39_word_new_br_8 | ask<br>satoshi<br>screen<br>rack<br>candy<br>blanket<br>tired<br>job |  
+| bip_39_word_new_br_9 | ask<br>satoshi<br>screen<br>rack<br>candy<br>blanket<br>tired<br>job<br>such |  
+| bip_39_word_new_line_1 | ask |  
+| bip_39_word_new_line_10 | ask
 satoshi
 screen
 rack
@@ -55,7 +55,7 @@ tired
 job
 such
 page |  
-| bip_39_word_new_line11 | ask
+| bip_39_word_new_line_11 | ask
 satoshi
 screen
 rack
@@ -66,7 +66,7 @@ job
 such
 page
 two |  
-| bip_39_word_new_line12 | ask
+| bip_39_word_new_line_12 | ask
 satoshi
 screen
 rack
@@ -78,34 +78,34 @@ such
 page
 two
 august |  
-| bip_39_word_new_line2 | ask
+| bip_39_word_new_line_2 | ask
 satoshi |  
-| bip_39_word_new_line3 | ask
+| bip_39_word_new_line_3 | ask
 satoshi
 screen |  
-| bip_39_word_new_line4 | ask
+| bip_39_word_new_line_4 | ask
 satoshi
 screen
 rack |  
-| bip_39_word_new_line5 | ask
+| bip_39_word_new_line_5 | ask
 satoshi
 screen
 rack
 candy |  
-| bip_39_word_new_line6 | ask
+| bip_39_word_new_line_6 | ask
 satoshi
 screen
 rack
 candy
 blanket |  
-| bip_39_word_new_line7 | ask
+| bip_39_word_new_line_7 | ask
 satoshi
 screen
 rack
 candy
 blanket
 tired |  
-| bip_39_word_new_line8 | ask
+| bip_39_word_new_line_8 | ask
 satoshi
 screen
 rack
@@ -113,7 +113,7 @@ candy
 blanket
 tired
 job |  
-| bip_39_word_new_line9 | ask
+| bip_39_word_new_line_9 | ask
 satoshi
 screen
 rack

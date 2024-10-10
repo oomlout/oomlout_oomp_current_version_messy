@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | album |  
-| bip_39_word_new_br10 | album<br>version<br>echo<br>result<br>thumb<br>dad<br>gate<br>turn<br>bless<br>erode |  
-| bip_39_word_new_br11 | album<br>version<br>echo<br>result<br>thumb<br>dad<br>gate<br>turn<br>bless<br>erode<br>build |  
-| bip_39_word_new_br12 | album<br>version<br>echo<br>result<br>thumb<br>dad<br>gate<br>turn<br>bless<br>erode<br>build<br>asthma |  
-| bip_39_word_new_br2 | album<br>version |  
-| bip_39_word_new_br3 | album<br>version<br>echo |  
-| bip_39_word_new_br4 | album<br>version<br>echo<br>result |  
-| bip_39_word_new_br5 | album<br>version<br>echo<br>result<br>thumb |  
-| bip_39_word_new_br6 | album<br>version<br>echo<br>result<br>thumb<br>dad |  
-| bip_39_word_new_br7 | album<br>version<br>echo<br>result<br>thumb<br>dad<br>gate |  
-| bip_39_word_new_br8 | album<br>version<br>echo<br>result<br>thumb<br>dad<br>gate<br>turn |  
-| bip_39_word_new_br9 | album<br>version<br>echo<br>result<br>thumb<br>dad<br>gate<br>turn<br>bless |  
-| bip_39_word_new_line1 | album |  
-| bip_39_word_new_line10 | album
+| bip_39_word_new_br_1 | album |  
+| bip_39_word_new_br_10 | album<br>version<br>echo<br>result<br>thumb<br>dad<br>gate<br>turn<br>bless<br>erode |  
+| bip_39_word_new_br_11 | album<br>version<br>echo<br>result<br>thumb<br>dad<br>gate<br>turn<br>bless<br>erode<br>build |  
+| bip_39_word_new_br_12 | album<br>version<br>echo<br>result<br>thumb<br>dad<br>gate<br>turn<br>bless<br>erode<br>build<br>asthma |  
+| bip_39_word_new_br_2 | album<br>version |  
+| bip_39_word_new_br_3 | album<br>version<br>echo |  
+| bip_39_word_new_br_4 | album<br>version<br>echo<br>result |  
+| bip_39_word_new_br_5 | album<br>version<br>echo<br>result<br>thumb |  
+| bip_39_word_new_br_6 | album<br>version<br>echo<br>result<br>thumb<br>dad |  
+| bip_39_word_new_br_7 | album<br>version<br>echo<br>result<br>thumb<br>dad<br>gate |  
+| bip_39_word_new_br_8 | album<br>version<br>echo<br>result<br>thumb<br>dad<br>gate<br>turn |  
+| bip_39_word_new_br_9 | album<br>version<br>echo<br>result<br>thumb<br>dad<br>gate<br>turn<br>bless |  
+| bip_39_word_new_line_1 | album |  
+| bip_39_word_new_line_10 | album
 version
 echo
 result
@@ -55,7 +55,7 @@ gate
 turn
 bless
 erode |  
-| bip_39_word_new_line11 | album
+| bip_39_word_new_line_11 | album
 version
 echo
 result
@@ -66,7 +66,7 @@ turn
 bless
 erode
 build |  
-| bip_39_word_new_line12 | album
+| bip_39_word_new_line_12 | album
 version
 echo
 result
@@ -78,34 +78,34 @@ bless
 erode
 build
 asthma |  
-| bip_39_word_new_line2 | album
+| bip_39_word_new_line_2 | album
 version |  
-| bip_39_word_new_line3 | album
+| bip_39_word_new_line_3 | album
 version
 echo |  
-| bip_39_word_new_line4 | album
+| bip_39_word_new_line_4 | album
 version
 echo
 result |  
-| bip_39_word_new_line5 | album
+| bip_39_word_new_line_5 | album
 version
 echo
 result
 thumb |  
-| bip_39_word_new_line6 | album
+| bip_39_word_new_line_6 | album
 version
 echo
 result
 thumb
 dad |  
-| bip_39_word_new_line7 | album
+| bip_39_word_new_line_7 | album
 version
 echo
 result
 thumb
 dad
 gate |  
-| bip_39_word_new_line8 | album
+| bip_39_word_new_line_8 | album
 version
 echo
 result
@@ -113,7 +113,7 @@ thumb
 dad
 gate
 turn |  
-| bip_39_word_new_line9 | album
+| bip_39_word_new_line_9 | album
 version
 echo
 result

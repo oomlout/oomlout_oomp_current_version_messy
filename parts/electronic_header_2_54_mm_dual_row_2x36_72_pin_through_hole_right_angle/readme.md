@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | speed |  
-| bip_39_word_new_br10 | speed<br>gasp<br>dutch<br>pupil<br>van<br>history<br>puzzle<br>sunset<br>wire<br>awful |  
-| bip_39_word_new_br11 | speed<br>gasp<br>dutch<br>pupil<br>van<br>history<br>puzzle<br>sunset<br>wire<br>awful<br>trash |  
-| bip_39_word_new_br12 | speed<br>gasp<br>dutch<br>pupil<br>van<br>history<br>puzzle<br>sunset<br>wire<br>awful<br>trash<br>allow |  
-| bip_39_word_new_br2 | speed<br>gasp |  
-| bip_39_word_new_br3 | speed<br>gasp<br>dutch |  
-| bip_39_word_new_br4 | speed<br>gasp<br>dutch<br>pupil |  
-| bip_39_word_new_br5 | speed<br>gasp<br>dutch<br>pupil<br>van |  
-| bip_39_word_new_br6 | speed<br>gasp<br>dutch<br>pupil<br>van<br>history |  
-| bip_39_word_new_br7 | speed<br>gasp<br>dutch<br>pupil<br>van<br>history<br>puzzle |  
-| bip_39_word_new_br8 | speed<br>gasp<br>dutch<br>pupil<br>van<br>history<br>puzzle<br>sunset |  
-| bip_39_word_new_br9 | speed<br>gasp<br>dutch<br>pupil<br>van<br>history<br>puzzle<br>sunset<br>wire |  
-| bip_39_word_new_line1 | speed |  
-| bip_39_word_new_line10 | speed
+| bip_39_word_new_br_1 | speed |  
+| bip_39_word_new_br_10 | speed<br>gasp<br>dutch<br>pupil<br>van<br>history<br>puzzle<br>sunset<br>wire<br>awful |  
+| bip_39_word_new_br_11 | speed<br>gasp<br>dutch<br>pupil<br>van<br>history<br>puzzle<br>sunset<br>wire<br>awful<br>trash |  
+| bip_39_word_new_br_12 | speed<br>gasp<br>dutch<br>pupil<br>van<br>history<br>puzzle<br>sunset<br>wire<br>awful<br>trash<br>allow |  
+| bip_39_word_new_br_2 | speed<br>gasp |  
+| bip_39_word_new_br_3 | speed<br>gasp<br>dutch |  
+| bip_39_word_new_br_4 | speed<br>gasp<br>dutch<br>pupil |  
+| bip_39_word_new_br_5 | speed<br>gasp<br>dutch<br>pupil<br>van |  
+| bip_39_word_new_br_6 | speed<br>gasp<br>dutch<br>pupil<br>van<br>history |  
+| bip_39_word_new_br_7 | speed<br>gasp<br>dutch<br>pupil<br>van<br>history<br>puzzle |  
+| bip_39_word_new_br_8 | speed<br>gasp<br>dutch<br>pupil<br>van<br>history<br>puzzle<br>sunset |  
+| bip_39_word_new_br_9 | speed<br>gasp<br>dutch<br>pupil<br>van<br>history<br>puzzle<br>sunset<br>wire |  
+| bip_39_word_new_line_1 | speed |  
+| bip_39_word_new_line_10 | speed
 gasp
 dutch
 pupil
@@ -55,7 +55,7 @@ puzzle
 sunset
 wire
 awful |  
-| bip_39_word_new_line11 | speed
+| bip_39_word_new_line_11 | speed
 gasp
 dutch
 pupil
@@ -66,7 +66,7 @@ sunset
 wire
 awful
 trash |  
-| bip_39_word_new_line12 | speed
+| bip_39_word_new_line_12 | speed
 gasp
 dutch
 pupil
@@ -78,34 +78,34 @@ wire
 awful
 trash
 allow |  
-| bip_39_word_new_line2 | speed
+| bip_39_word_new_line_2 | speed
 gasp |  
-| bip_39_word_new_line3 | speed
+| bip_39_word_new_line_3 | speed
 gasp
 dutch |  
-| bip_39_word_new_line4 | speed
+| bip_39_word_new_line_4 | speed
 gasp
 dutch
 pupil |  
-| bip_39_word_new_line5 | speed
+| bip_39_word_new_line_5 | speed
 gasp
 dutch
 pupil
 van |  
-| bip_39_word_new_line6 | speed
+| bip_39_word_new_line_6 | speed
 gasp
 dutch
 pupil
 van
 history |  
-| bip_39_word_new_line7 | speed
+| bip_39_word_new_line_7 | speed
 gasp
 dutch
 pupil
 van
 history
 puzzle |  
-| bip_39_word_new_line8 | speed
+| bip_39_word_new_line_8 | speed
 gasp
 dutch
 pupil
@@ -113,7 +113,7 @@ van
 history
 puzzle
 sunset |  
-| bip_39_word_new_line9 | speed
+| bip_39_word_new_line_9 | speed
 gasp
 dutch
 pupil

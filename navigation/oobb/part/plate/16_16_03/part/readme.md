@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | eternal |  
-| bip_39_word_new_br10 | eternal<br>ecology<br>slot<br>carry<br>success<br>frog<br>grid<br>happy<br>crack<br>document |  
-| bip_39_word_new_br11 | eternal<br>ecology<br>slot<br>carry<br>success<br>frog<br>grid<br>happy<br>crack<br>document<br>broccoli |  
-| bip_39_word_new_br12 | eternal<br>ecology<br>slot<br>carry<br>success<br>frog<br>grid<br>happy<br>crack<br>document<br>broccoli<br>amazing |  
-| bip_39_word_new_br2 | eternal<br>ecology |  
-| bip_39_word_new_br3 | eternal<br>ecology<br>slot |  
-| bip_39_word_new_br4 | eternal<br>ecology<br>slot<br>carry |  
-| bip_39_word_new_br5 | eternal<br>ecology<br>slot<br>carry<br>success |  
-| bip_39_word_new_br6 | eternal<br>ecology<br>slot<br>carry<br>success<br>frog |  
-| bip_39_word_new_br7 | eternal<br>ecology<br>slot<br>carry<br>success<br>frog<br>grid |  
-| bip_39_word_new_br8 | eternal<br>ecology<br>slot<br>carry<br>success<br>frog<br>grid<br>happy |  
-| bip_39_word_new_br9 | eternal<br>ecology<br>slot<br>carry<br>success<br>frog<br>grid<br>happy<br>crack |  
-| bip_39_word_new_line1 | eternal |  
-| bip_39_word_new_line10 | eternal
+| bip_39_word_new_br_1 | eternal |  
+| bip_39_word_new_br_10 | eternal<br>ecology<br>slot<br>carry<br>success<br>frog<br>grid<br>happy<br>crack<br>document |  
+| bip_39_word_new_br_11 | eternal<br>ecology<br>slot<br>carry<br>success<br>frog<br>grid<br>happy<br>crack<br>document<br>broccoli |  
+| bip_39_word_new_br_12 | eternal<br>ecology<br>slot<br>carry<br>success<br>frog<br>grid<br>happy<br>crack<br>document<br>broccoli<br>amazing |  
+| bip_39_word_new_br_2 | eternal<br>ecology |  
+| bip_39_word_new_br_3 | eternal<br>ecology<br>slot |  
+| bip_39_word_new_br_4 | eternal<br>ecology<br>slot<br>carry |  
+| bip_39_word_new_br_5 | eternal<br>ecology<br>slot<br>carry<br>success |  
+| bip_39_word_new_br_6 | eternal<br>ecology<br>slot<br>carry<br>success<br>frog |  
+| bip_39_word_new_br_7 | eternal<br>ecology<br>slot<br>carry<br>success<br>frog<br>grid |  
+| bip_39_word_new_br_8 | eternal<br>ecology<br>slot<br>carry<br>success<br>frog<br>grid<br>happy |  
+| bip_39_word_new_br_9 | eternal<br>ecology<br>slot<br>carry<br>success<br>frog<br>grid<br>happy<br>crack |  
+| bip_39_word_new_line_1 | eternal |  
+| bip_39_word_new_line_10 | eternal
 ecology
 slot
 carry
@@ -55,7 +55,7 @@ grid
 happy
 crack
 document |  
-| bip_39_word_new_line11 | eternal
+| bip_39_word_new_line_11 | eternal
 ecology
 slot
 carry
@@ -66,7 +66,7 @@ happy
 crack
 document
 broccoli |  
-| bip_39_word_new_line12 | eternal
+| bip_39_word_new_line_12 | eternal
 ecology
 slot
 carry
@@ -78,34 +78,34 @@ crack
 document
 broccoli
 amazing |  
-| bip_39_word_new_line2 | eternal
+| bip_39_word_new_line_2 | eternal
 ecology |  
-| bip_39_word_new_line3 | eternal
+| bip_39_word_new_line_3 | eternal
 ecology
 slot |  
-| bip_39_word_new_line4 | eternal
+| bip_39_word_new_line_4 | eternal
 ecology
 slot
 carry |  
-| bip_39_word_new_line5 | eternal
+| bip_39_word_new_line_5 | eternal
 ecology
 slot
 carry
 success |  
-| bip_39_word_new_line6 | eternal
+| bip_39_word_new_line_6 | eternal
 ecology
 slot
 carry
 success
 frog |  
-| bip_39_word_new_line7 | eternal
+| bip_39_word_new_line_7 | eternal
 ecology
 slot
 carry
 success
 frog
 grid |  
-| bip_39_word_new_line8 | eternal
+| bip_39_word_new_line_8 | eternal
 ecology
 slot
 carry
@@ -113,7 +113,7 @@ success
 frog
 grid
 happy |  
-| bip_39_word_new_line9 | eternal
+| bip_39_word_new_line_9 | eternal
 ecology
 slot
 carry

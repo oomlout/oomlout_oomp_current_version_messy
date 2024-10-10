@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fan |  
-| bip_39_word_new_br10 | fan<br>fatal<br>village<br>mail<br>actress<br>garment<br>aware<br>confirm<br>royal<br>reveal |  
-| bip_39_word_new_br11 | fan<br>fatal<br>village<br>mail<br>actress<br>garment<br>aware<br>confirm<br>royal<br>reveal<br>rose |  
-| bip_39_word_new_br12 | fan<br>fatal<br>village<br>mail<br>actress<br>garment<br>aware<br>confirm<br>royal<br>reveal<br>rose<br>aerobic |  
-| bip_39_word_new_br2 | fan<br>fatal |  
-| bip_39_word_new_br3 | fan<br>fatal<br>village |  
-| bip_39_word_new_br4 | fan<br>fatal<br>village<br>mail |  
-| bip_39_word_new_br5 | fan<br>fatal<br>village<br>mail<br>actress |  
-| bip_39_word_new_br6 | fan<br>fatal<br>village<br>mail<br>actress<br>garment |  
-| bip_39_word_new_br7 | fan<br>fatal<br>village<br>mail<br>actress<br>garment<br>aware |  
-| bip_39_word_new_br8 | fan<br>fatal<br>village<br>mail<br>actress<br>garment<br>aware<br>confirm |  
-| bip_39_word_new_br9 | fan<br>fatal<br>village<br>mail<br>actress<br>garment<br>aware<br>confirm<br>royal |  
-| bip_39_word_new_line1 | fan |  
-| bip_39_word_new_line10 | fan
+| bip_39_word_new_br_1 | fan |  
+| bip_39_word_new_br_10 | fan<br>fatal<br>village<br>mail<br>actress<br>garment<br>aware<br>confirm<br>royal<br>reveal |  
+| bip_39_word_new_br_11 | fan<br>fatal<br>village<br>mail<br>actress<br>garment<br>aware<br>confirm<br>royal<br>reveal<br>rose |  
+| bip_39_word_new_br_12 | fan<br>fatal<br>village<br>mail<br>actress<br>garment<br>aware<br>confirm<br>royal<br>reveal<br>rose<br>aerobic |  
+| bip_39_word_new_br_2 | fan<br>fatal |  
+| bip_39_word_new_br_3 | fan<br>fatal<br>village |  
+| bip_39_word_new_br_4 | fan<br>fatal<br>village<br>mail |  
+| bip_39_word_new_br_5 | fan<br>fatal<br>village<br>mail<br>actress |  
+| bip_39_word_new_br_6 | fan<br>fatal<br>village<br>mail<br>actress<br>garment |  
+| bip_39_word_new_br_7 | fan<br>fatal<br>village<br>mail<br>actress<br>garment<br>aware |  
+| bip_39_word_new_br_8 | fan<br>fatal<br>village<br>mail<br>actress<br>garment<br>aware<br>confirm |  
+| bip_39_word_new_br_9 | fan<br>fatal<br>village<br>mail<br>actress<br>garment<br>aware<br>confirm<br>royal |  
+| bip_39_word_new_line_1 | fan |  
+| bip_39_word_new_line_10 | fan
 fatal
 village
 mail
@@ -55,7 +55,7 @@ aware
 confirm
 royal
 reveal |  
-| bip_39_word_new_line11 | fan
+| bip_39_word_new_line_11 | fan
 fatal
 village
 mail
@@ -66,7 +66,7 @@ confirm
 royal
 reveal
 rose |  
-| bip_39_word_new_line12 | fan
+| bip_39_word_new_line_12 | fan
 fatal
 village
 mail
@@ -78,34 +78,34 @@ royal
 reveal
 rose
 aerobic |  
-| bip_39_word_new_line2 | fan
+| bip_39_word_new_line_2 | fan
 fatal |  
-| bip_39_word_new_line3 | fan
+| bip_39_word_new_line_3 | fan
 fatal
 village |  
-| bip_39_word_new_line4 | fan
+| bip_39_word_new_line_4 | fan
 fatal
 village
 mail |  
-| bip_39_word_new_line5 | fan
+| bip_39_word_new_line_5 | fan
 fatal
 village
 mail
 actress |  
-| bip_39_word_new_line6 | fan
+| bip_39_word_new_line_6 | fan
 fatal
 village
 mail
 actress
 garment |  
-| bip_39_word_new_line7 | fan
+| bip_39_word_new_line_7 | fan
 fatal
 village
 mail
 actress
 garment
 aware |  
-| bip_39_word_new_line8 | fan
+| bip_39_word_new_line_8 | fan
 fatal
 village
 mail
@@ -113,7 +113,7 @@ actress
 garment
 aware
 confirm |  
-| bip_39_word_new_line9 | fan
+| bip_39_word_new_line_9 | fan
 fatal
 village
 mail

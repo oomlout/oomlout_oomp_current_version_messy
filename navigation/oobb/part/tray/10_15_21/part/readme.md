@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bronze |  
-| bip_39_word_new_br10 | bronze<br>pipe<br>nature<br>critic<br>blossom<br>harbor<br>iron<br>news<br>blast<br>sand |  
-| bip_39_word_new_br11 | bronze<br>pipe<br>nature<br>critic<br>blossom<br>harbor<br>iron<br>news<br>blast<br>sand<br>shoe |  
-| bip_39_word_new_br12 | bronze<br>pipe<br>nature<br>critic<br>blossom<br>harbor<br>iron<br>news<br>blast<br>sand<br>shoe<br>amount |  
-| bip_39_word_new_br2 | bronze<br>pipe |  
-| bip_39_word_new_br3 | bronze<br>pipe<br>nature |  
-| bip_39_word_new_br4 | bronze<br>pipe<br>nature<br>critic |  
-| bip_39_word_new_br5 | bronze<br>pipe<br>nature<br>critic<br>blossom |  
-| bip_39_word_new_br6 | bronze<br>pipe<br>nature<br>critic<br>blossom<br>harbor |  
-| bip_39_word_new_br7 | bronze<br>pipe<br>nature<br>critic<br>blossom<br>harbor<br>iron |  
-| bip_39_word_new_br8 | bronze<br>pipe<br>nature<br>critic<br>blossom<br>harbor<br>iron<br>news |  
-| bip_39_word_new_br9 | bronze<br>pipe<br>nature<br>critic<br>blossom<br>harbor<br>iron<br>news<br>blast |  
-| bip_39_word_new_line1 | bronze |  
-| bip_39_word_new_line10 | bronze
+| bip_39_word_new_br_1 | bronze |  
+| bip_39_word_new_br_10 | bronze<br>pipe<br>nature<br>critic<br>blossom<br>harbor<br>iron<br>news<br>blast<br>sand |  
+| bip_39_word_new_br_11 | bronze<br>pipe<br>nature<br>critic<br>blossom<br>harbor<br>iron<br>news<br>blast<br>sand<br>shoe |  
+| bip_39_word_new_br_12 | bronze<br>pipe<br>nature<br>critic<br>blossom<br>harbor<br>iron<br>news<br>blast<br>sand<br>shoe<br>amount |  
+| bip_39_word_new_br_2 | bronze<br>pipe |  
+| bip_39_word_new_br_3 | bronze<br>pipe<br>nature |  
+| bip_39_word_new_br_4 | bronze<br>pipe<br>nature<br>critic |  
+| bip_39_word_new_br_5 | bronze<br>pipe<br>nature<br>critic<br>blossom |  
+| bip_39_word_new_br_6 | bronze<br>pipe<br>nature<br>critic<br>blossom<br>harbor |  
+| bip_39_word_new_br_7 | bronze<br>pipe<br>nature<br>critic<br>blossom<br>harbor<br>iron |  
+| bip_39_word_new_br_8 | bronze<br>pipe<br>nature<br>critic<br>blossom<br>harbor<br>iron<br>news |  
+| bip_39_word_new_br_9 | bronze<br>pipe<br>nature<br>critic<br>blossom<br>harbor<br>iron<br>news<br>blast |  
+| bip_39_word_new_line_1 | bronze |  
+| bip_39_word_new_line_10 | bronze
 pipe
 nature
 critic
@@ -55,7 +55,7 @@ iron
 news
 blast
 sand |  
-| bip_39_word_new_line11 | bronze
+| bip_39_word_new_line_11 | bronze
 pipe
 nature
 critic
@@ -66,7 +66,7 @@ news
 blast
 sand
 shoe |  
-| bip_39_word_new_line12 | bronze
+| bip_39_word_new_line_12 | bronze
 pipe
 nature
 critic
@@ -78,34 +78,34 @@ blast
 sand
 shoe
 amount |  
-| bip_39_word_new_line2 | bronze
+| bip_39_word_new_line_2 | bronze
 pipe |  
-| bip_39_word_new_line3 | bronze
+| bip_39_word_new_line_3 | bronze
 pipe
 nature |  
-| bip_39_word_new_line4 | bronze
+| bip_39_word_new_line_4 | bronze
 pipe
 nature
 critic |  
-| bip_39_word_new_line5 | bronze
+| bip_39_word_new_line_5 | bronze
 pipe
 nature
 critic
 blossom |  
-| bip_39_word_new_line6 | bronze
+| bip_39_word_new_line_6 | bronze
 pipe
 nature
 critic
 blossom
 harbor |  
-| bip_39_word_new_line7 | bronze
+| bip_39_word_new_line_7 | bronze
 pipe
 nature
 critic
 blossom
 harbor
 iron |  
-| bip_39_word_new_line8 | bronze
+| bip_39_word_new_line_8 | bronze
 pipe
 nature
 critic
@@ -113,7 +113,7 @@ blossom
 harbor
 iron
 news |  
-| bip_39_word_new_line9 | bronze
+| bip_39_word_new_line_9 | bronze
 pipe
 nature
 critic

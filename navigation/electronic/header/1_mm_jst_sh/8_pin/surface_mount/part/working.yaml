@@ -1,17 +1,17 @@
-bip_39_word_new_br1: kind
-bip_39_word_new_br10: kind<br>travel<br>soda<br>hip<br>blood<br>winter<br>cook<br>vacant<br>wild<br>mandate
-bip_39_word_new_br11: kind<br>travel<br>soda<br>hip<br>blood<br>winter<br>cook<br>vacant<br>wild<br>mandate<br>obvious
-bip_39_word_new_br12: kind<br>travel<br>soda<br>hip<br>blood<br>winter<br>cook<br>vacant<br>wild<br>mandate<br>obvious<br>avocado
-bip_39_word_new_br2: kind<br>travel
-bip_39_word_new_br3: kind<br>travel<br>soda
-bip_39_word_new_br4: kind<br>travel<br>soda<br>hip
-bip_39_word_new_br5: kind<br>travel<br>soda<br>hip<br>blood
-bip_39_word_new_br6: kind<br>travel<br>soda<br>hip<br>blood<br>winter
-bip_39_word_new_br7: kind<br>travel<br>soda<br>hip<br>blood<br>winter<br>cook
-bip_39_word_new_br8: kind<br>travel<br>soda<br>hip<br>blood<br>winter<br>cook<br>vacant
-bip_39_word_new_br9: kind<br>travel<br>soda<br>hip<br>blood<br>winter<br>cook<br>vacant<br>wild
-bip_39_word_new_line1: kind
-bip_39_word_new_line10: 'kind
+bip_39_word_new_br_1: kind
+bip_39_word_new_br_10: kind<br>travel<br>soda<br>hip<br>blood<br>winter<br>cook<br>vacant<br>wild<br>mandate
+bip_39_word_new_br_11: kind<br>travel<br>soda<br>hip<br>blood<br>winter<br>cook<br>vacant<br>wild<br>mandate<br>obvious
+bip_39_word_new_br_12: kind<br>travel<br>soda<br>hip<br>blood<br>winter<br>cook<br>vacant<br>wild<br>mandate<br>obvious<br>avocado
+bip_39_word_new_br_2: kind<br>travel
+bip_39_word_new_br_3: kind<br>travel<br>soda
+bip_39_word_new_br_4: kind<br>travel<br>soda<br>hip
+bip_39_word_new_br_5: kind<br>travel<br>soda<br>hip<br>blood
+bip_39_word_new_br_6: kind<br>travel<br>soda<br>hip<br>blood<br>winter
+bip_39_word_new_br_7: kind<br>travel<br>soda<br>hip<br>blood<br>winter<br>cook
+bip_39_word_new_br_8: kind<br>travel<br>soda<br>hip<br>blood<br>winter<br>cook<br>vacant
+bip_39_word_new_br_9: kind<br>travel<br>soda<br>hip<br>blood<br>winter<br>cook<br>vacant<br>wild
+bip_39_word_new_line_1: kind
+bip_39_word_new_line_10: 'kind
 
   travel
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'kind
   wild
 
   mandate'
-bip_39_word_new_line11: 'kind
+bip_39_word_new_line_11: 'kind
 
   travel
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'kind
   mandate
 
   obvious'
-bip_39_word_new_line12: 'kind
+bip_39_word_new_line_12: 'kind
 
   travel
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'kind
   obvious
 
   avocado'
-bip_39_word_new_line2: 'kind
+bip_39_word_new_line_2: 'kind
 
   travel'
-bip_39_word_new_line3: 'kind
+bip_39_word_new_line_3: 'kind
 
   travel
 
   soda'
-bip_39_word_new_line4: 'kind
+bip_39_word_new_line_4: 'kind
 
   travel
 
   soda
 
   hip'
-bip_39_word_new_line5: 'kind
+bip_39_word_new_line_5: 'kind
 
   travel
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'kind
   hip
 
   blood'
-bip_39_word_new_line6: 'kind
+bip_39_word_new_line_6: 'kind
 
   travel
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'kind
   blood
 
   winter'
-bip_39_word_new_line7: 'kind
+bip_39_word_new_line_7: 'kind
 
   travel
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'kind
   winter
 
   cook'
-bip_39_word_new_line8: 'kind
+bip_39_word_new_line_8: 'kind
 
   travel
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'kind
   cook
 
   vacant'
-bip_39_word_new_line9: 'kind
+bip_39_word_new_line_9: 'kind
 
   travel
 

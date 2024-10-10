@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | antique |  
-| bip_39_word_new_br10 | antique<br>try<br>indicate<br>east<br>affair<br>round<br>can<br>magnet<br>clump<br>find |  
-| bip_39_word_new_br11 | antique<br>try<br>indicate<br>east<br>affair<br>round<br>can<br>magnet<br>clump<br>find<br>alcohol |  
-| bip_39_word_new_br12 | antique<br>try<br>indicate<br>east<br>affair<br>round<br>can<br>magnet<br>clump<br>find<br>alcohol<br>analyst |  
-| bip_39_word_new_br2 | antique<br>try |  
-| bip_39_word_new_br3 | antique<br>try<br>indicate |  
-| bip_39_word_new_br4 | antique<br>try<br>indicate<br>east |  
-| bip_39_word_new_br5 | antique<br>try<br>indicate<br>east<br>affair |  
-| bip_39_word_new_br6 | antique<br>try<br>indicate<br>east<br>affair<br>round |  
-| bip_39_word_new_br7 | antique<br>try<br>indicate<br>east<br>affair<br>round<br>can |  
-| bip_39_word_new_br8 | antique<br>try<br>indicate<br>east<br>affair<br>round<br>can<br>magnet |  
-| bip_39_word_new_br9 | antique<br>try<br>indicate<br>east<br>affair<br>round<br>can<br>magnet<br>clump |  
-| bip_39_word_new_line1 | antique |  
-| bip_39_word_new_line10 | antique
+| bip_39_word_new_br_1 | antique |  
+| bip_39_word_new_br_10 | antique<br>try<br>indicate<br>east<br>affair<br>round<br>can<br>magnet<br>clump<br>find |  
+| bip_39_word_new_br_11 | antique<br>try<br>indicate<br>east<br>affair<br>round<br>can<br>magnet<br>clump<br>find<br>alcohol |  
+| bip_39_word_new_br_12 | antique<br>try<br>indicate<br>east<br>affair<br>round<br>can<br>magnet<br>clump<br>find<br>alcohol<br>analyst |  
+| bip_39_word_new_br_2 | antique<br>try |  
+| bip_39_word_new_br_3 | antique<br>try<br>indicate |  
+| bip_39_word_new_br_4 | antique<br>try<br>indicate<br>east |  
+| bip_39_word_new_br_5 | antique<br>try<br>indicate<br>east<br>affair |  
+| bip_39_word_new_br_6 | antique<br>try<br>indicate<br>east<br>affair<br>round |  
+| bip_39_word_new_br_7 | antique<br>try<br>indicate<br>east<br>affair<br>round<br>can |  
+| bip_39_word_new_br_8 | antique<br>try<br>indicate<br>east<br>affair<br>round<br>can<br>magnet |  
+| bip_39_word_new_br_9 | antique<br>try<br>indicate<br>east<br>affair<br>round<br>can<br>magnet<br>clump |  
+| bip_39_word_new_line_1 | antique |  
+| bip_39_word_new_line_10 | antique
 try
 indicate
 east
@@ -55,7 +55,7 @@ can
 magnet
 clump
 find |  
-| bip_39_word_new_line11 | antique
+| bip_39_word_new_line_11 | antique
 try
 indicate
 east
@@ -66,7 +66,7 @@ magnet
 clump
 find
 alcohol |  
-| bip_39_word_new_line12 | antique
+| bip_39_word_new_line_12 | antique
 try
 indicate
 east
@@ -78,34 +78,34 @@ clump
 find
 alcohol
 analyst |  
-| bip_39_word_new_line2 | antique
+| bip_39_word_new_line_2 | antique
 try |  
-| bip_39_word_new_line3 | antique
+| bip_39_word_new_line_3 | antique
 try
 indicate |  
-| bip_39_word_new_line4 | antique
+| bip_39_word_new_line_4 | antique
 try
 indicate
 east |  
-| bip_39_word_new_line5 | antique
+| bip_39_word_new_line_5 | antique
 try
 indicate
 east
 affair |  
-| bip_39_word_new_line6 | antique
+| bip_39_word_new_line_6 | antique
 try
 indicate
 east
 affair
 round |  
-| bip_39_word_new_line7 | antique
+| bip_39_word_new_line_7 | antique
 try
 indicate
 east
 affair
 round
 can |  
-| bip_39_word_new_line8 | antique
+| bip_39_word_new_line_8 | antique
 try
 indicate
 east
@@ -113,7 +113,7 @@ affair
 round
 can
 magnet |  
-| bip_39_word_new_line9 | antique
+| bip_39_word_new_line_9 | antique
 try
 indicate
 east

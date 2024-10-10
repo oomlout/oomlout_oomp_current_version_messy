@@ -1,17 +1,17 @@
-bip_39_word_new_br1: fold
-bip_39_word_new_br10: fold<br>skirt<br>snake<br>oppose<br>bounce<br>worth<br>myself<br>fit<br>science<br>rifle
-bip_39_word_new_br11: fold<br>skirt<br>snake<br>oppose<br>bounce<br>worth<br>myself<br>fit<br>science<br>rifle<br>north
-bip_39_word_new_br12: fold<br>skirt<br>snake<br>oppose<br>bounce<br>worth<br>myself<br>fit<br>science<br>rifle<br>north<br>act
-bip_39_word_new_br2: fold<br>skirt
-bip_39_word_new_br3: fold<br>skirt<br>snake
-bip_39_word_new_br4: fold<br>skirt<br>snake<br>oppose
-bip_39_word_new_br5: fold<br>skirt<br>snake<br>oppose<br>bounce
-bip_39_word_new_br6: fold<br>skirt<br>snake<br>oppose<br>bounce<br>worth
-bip_39_word_new_br7: fold<br>skirt<br>snake<br>oppose<br>bounce<br>worth<br>myself
-bip_39_word_new_br8: fold<br>skirt<br>snake<br>oppose<br>bounce<br>worth<br>myself<br>fit
-bip_39_word_new_br9: fold<br>skirt<br>snake<br>oppose<br>bounce<br>worth<br>myself<br>fit<br>science
-bip_39_word_new_line1: fold
-bip_39_word_new_line10: 'fold
+bip_39_word_new_br_1: fold
+bip_39_word_new_br_10: fold<br>skirt<br>snake<br>oppose<br>bounce<br>worth<br>myself<br>fit<br>science<br>rifle
+bip_39_word_new_br_11: fold<br>skirt<br>snake<br>oppose<br>bounce<br>worth<br>myself<br>fit<br>science<br>rifle<br>north
+bip_39_word_new_br_12: fold<br>skirt<br>snake<br>oppose<br>bounce<br>worth<br>myself<br>fit<br>science<br>rifle<br>north<br>act
+bip_39_word_new_br_2: fold<br>skirt
+bip_39_word_new_br_3: fold<br>skirt<br>snake
+bip_39_word_new_br_4: fold<br>skirt<br>snake<br>oppose
+bip_39_word_new_br_5: fold<br>skirt<br>snake<br>oppose<br>bounce
+bip_39_word_new_br_6: fold<br>skirt<br>snake<br>oppose<br>bounce<br>worth
+bip_39_word_new_br_7: fold<br>skirt<br>snake<br>oppose<br>bounce<br>worth<br>myself
+bip_39_word_new_br_8: fold<br>skirt<br>snake<br>oppose<br>bounce<br>worth<br>myself<br>fit
+bip_39_word_new_br_9: fold<br>skirt<br>snake<br>oppose<br>bounce<br>worth<br>myself<br>fit<br>science
+bip_39_word_new_line_1: fold
+bip_39_word_new_line_10: 'fold
 
   skirt
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'fold
   science
 
   rifle'
-bip_39_word_new_line11: 'fold
+bip_39_word_new_line_11: 'fold
 
   skirt
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'fold
   rifle
 
   north'
-bip_39_word_new_line12: 'fold
+bip_39_word_new_line_12: 'fold
 
   skirt
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'fold
   north
 
   act'
-bip_39_word_new_line2: 'fold
+bip_39_word_new_line_2: 'fold
 
   skirt'
-bip_39_word_new_line3: 'fold
+bip_39_word_new_line_3: 'fold
 
   skirt
 
   snake'
-bip_39_word_new_line4: 'fold
+bip_39_word_new_line_4: 'fold
 
   skirt
 
   snake
 
   oppose'
-bip_39_word_new_line5: 'fold
+bip_39_word_new_line_5: 'fold
 
   skirt
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'fold
   oppose
 
   bounce'
-bip_39_word_new_line6: 'fold
+bip_39_word_new_line_6: 'fold
 
   skirt
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'fold
   bounce
 
   worth'
-bip_39_word_new_line7: 'fold
+bip_39_word_new_line_7: 'fold
 
   skirt
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'fold
   worth
 
   myself'
-bip_39_word_new_line8: 'fold
+bip_39_word_new_line_8: 'fold
 
   skirt
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'fold
   myself
 
   fit'
-bip_39_word_new_line9: 'fold
+bip_39_word_new_line_9: 'fold
 
   skirt
 

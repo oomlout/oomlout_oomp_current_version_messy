@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | crumble |  
-| bip_39_word_new_br10 | crumble<br>better<br>rib<br>figure<br>toy<br>kitchen<br>service<br>extend<br>merit<br>tongue |  
-| bip_39_word_new_br11 | crumble<br>better<br>rib<br>figure<br>toy<br>kitchen<br>service<br>extend<br>merit<br>tongue<br>knee |  
-| bip_39_word_new_br12 | crumble<br>better<br>rib<br>figure<br>toy<br>kitchen<br>service<br>extend<br>merit<br>tongue<br>knee<br>alley |  
-| bip_39_word_new_br2 | crumble<br>better |  
-| bip_39_word_new_br3 | crumble<br>better<br>rib |  
-| bip_39_word_new_br4 | crumble<br>better<br>rib<br>figure |  
-| bip_39_word_new_br5 | crumble<br>better<br>rib<br>figure<br>toy |  
-| bip_39_word_new_br6 | crumble<br>better<br>rib<br>figure<br>toy<br>kitchen |  
-| bip_39_word_new_br7 | crumble<br>better<br>rib<br>figure<br>toy<br>kitchen<br>service |  
-| bip_39_word_new_br8 | crumble<br>better<br>rib<br>figure<br>toy<br>kitchen<br>service<br>extend |  
-| bip_39_word_new_br9 | crumble<br>better<br>rib<br>figure<br>toy<br>kitchen<br>service<br>extend<br>merit |  
-| bip_39_word_new_line1 | crumble |  
-| bip_39_word_new_line10 | crumble
+| bip_39_word_new_br_1 | crumble |  
+| bip_39_word_new_br_10 | crumble<br>better<br>rib<br>figure<br>toy<br>kitchen<br>service<br>extend<br>merit<br>tongue |  
+| bip_39_word_new_br_11 | crumble<br>better<br>rib<br>figure<br>toy<br>kitchen<br>service<br>extend<br>merit<br>tongue<br>knee |  
+| bip_39_word_new_br_12 | crumble<br>better<br>rib<br>figure<br>toy<br>kitchen<br>service<br>extend<br>merit<br>tongue<br>knee<br>alley |  
+| bip_39_word_new_br_2 | crumble<br>better |  
+| bip_39_word_new_br_3 | crumble<br>better<br>rib |  
+| bip_39_word_new_br_4 | crumble<br>better<br>rib<br>figure |  
+| bip_39_word_new_br_5 | crumble<br>better<br>rib<br>figure<br>toy |  
+| bip_39_word_new_br_6 | crumble<br>better<br>rib<br>figure<br>toy<br>kitchen |  
+| bip_39_word_new_br_7 | crumble<br>better<br>rib<br>figure<br>toy<br>kitchen<br>service |  
+| bip_39_word_new_br_8 | crumble<br>better<br>rib<br>figure<br>toy<br>kitchen<br>service<br>extend |  
+| bip_39_word_new_br_9 | crumble<br>better<br>rib<br>figure<br>toy<br>kitchen<br>service<br>extend<br>merit |  
+| bip_39_word_new_line_1 | crumble |  
+| bip_39_word_new_line_10 | crumble
 better
 rib
 figure
@@ -55,7 +55,7 @@ service
 extend
 merit
 tongue |  
-| bip_39_word_new_line11 | crumble
+| bip_39_word_new_line_11 | crumble
 better
 rib
 figure
@@ -66,7 +66,7 @@ extend
 merit
 tongue
 knee |  
-| bip_39_word_new_line12 | crumble
+| bip_39_word_new_line_12 | crumble
 better
 rib
 figure
@@ -78,34 +78,34 @@ merit
 tongue
 knee
 alley |  
-| bip_39_word_new_line2 | crumble
+| bip_39_word_new_line_2 | crumble
 better |  
-| bip_39_word_new_line3 | crumble
+| bip_39_word_new_line_3 | crumble
 better
 rib |  
-| bip_39_word_new_line4 | crumble
+| bip_39_word_new_line_4 | crumble
 better
 rib
 figure |  
-| bip_39_word_new_line5 | crumble
+| bip_39_word_new_line_5 | crumble
 better
 rib
 figure
 toy |  
-| bip_39_word_new_line6 | crumble
+| bip_39_word_new_line_6 | crumble
 better
 rib
 figure
 toy
 kitchen |  
-| bip_39_word_new_line7 | crumble
+| bip_39_word_new_line_7 | crumble
 better
 rib
 figure
 toy
 kitchen
 service |  
-| bip_39_word_new_line8 | crumble
+| bip_39_word_new_line_8 | crumble
 better
 rib
 figure
@@ -113,7 +113,7 @@ toy
 kitchen
 service
 extend |  
-| bip_39_word_new_line9 | crumble
+| bip_39_word_new_line_9 | crumble
 better
 rib
 figure

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | truly |  
-| bip_39_word_new_br10 | truly<br>sight<br>erase<br>flock<br>rabbit<br>blast<br>mass<br>trash<br>intact<br>cancel |  
-| bip_39_word_new_br11 | truly<br>sight<br>erase<br>flock<br>rabbit<br>blast<br>mass<br>trash<br>intact<br>cancel<br>put |  
-| bip_39_word_new_br12 | truly<br>sight<br>erase<br>flock<br>rabbit<br>blast<br>mass<br>trash<br>intact<br>cancel<br>put<br>advice |  
-| bip_39_word_new_br2 | truly<br>sight |  
-| bip_39_word_new_br3 | truly<br>sight<br>erase |  
-| bip_39_word_new_br4 | truly<br>sight<br>erase<br>flock |  
-| bip_39_word_new_br5 | truly<br>sight<br>erase<br>flock<br>rabbit |  
-| bip_39_word_new_br6 | truly<br>sight<br>erase<br>flock<br>rabbit<br>blast |  
-| bip_39_word_new_br7 | truly<br>sight<br>erase<br>flock<br>rabbit<br>blast<br>mass |  
-| bip_39_word_new_br8 | truly<br>sight<br>erase<br>flock<br>rabbit<br>blast<br>mass<br>trash |  
-| bip_39_word_new_br9 | truly<br>sight<br>erase<br>flock<br>rabbit<br>blast<br>mass<br>trash<br>intact |  
-| bip_39_word_new_line1 | truly |  
-| bip_39_word_new_line10 | truly
+| bip_39_word_new_br_1 | truly |  
+| bip_39_word_new_br_10 | truly<br>sight<br>erase<br>flock<br>rabbit<br>blast<br>mass<br>trash<br>intact<br>cancel |  
+| bip_39_word_new_br_11 | truly<br>sight<br>erase<br>flock<br>rabbit<br>blast<br>mass<br>trash<br>intact<br>cancel<br>put |  
+| bip_39_word_new_br_12 | truly<br>sight<br>erase<br>flock<br>rabbit<br>blast<br>mass<br>trash<br>intact<br>cancel<br>put<br>advice |  
+| bip_39_word_new_br_2 | truly<br>sight |  
+| bip_39_word_new_br_3 | truly<br>sight<br>erase |  
+| bip_39_word_new_br_4 | truly<br>sight<br>erase<br>flock |  
+| bip_39_word_new_br_5 | truly<br>sight<br>erase<br>flock<br>rabbit |  
+| bip_39_word_new_br_6 | truly<br>sight<br>erase<br>flock<br>rabbit<br>blast |  
+| bip_39_word_new_br_7 | truly<br>sight<br>erase<br>flock<br>rabbit<br>blast<br>mass |  
+| bip_39_word_new_br_8 | truly<br>sight<br>erase<br>flock<br>rabbit<br>blast<br>mass<br>trash |  
+| bip_39_word_new_br_9 | truly<br>sight<br>erase<br>flock<br>rabbit<br>blast<br>mass<br>trash<br>intact |  
+| bip_39_word_new_line_1 | truly |  
+| bip_39_word_new_line_10 | truly
 sight
 erase
 flock
@@ -55,7 +55,7 @@ mass
 trash
 intact
 cancel |  
-| bip_39_word_new_line11 | truly
+| bip_39_word_new_line_11 | truly
 sight
 erase
 flock
@@ -66,7 +66,7 @@ trash
 intact
 cancel
 put |  
-| bip_39_word_new_line12 | truly
+| bip_39_word_new_line_12 | truly
 sight
 erase
 flock
@@ -78,34 +78,34 @@ intact
 cancel
 put
 advice |  
-| bip_39_word_new_line2 | truly
+| bip_39_word_new_line_2 | truly
 sight |  
-| bip_39_word_new_line3 | truly
+| bip_39_word_new_line_3 | truly
 sight
 erase |  
-| bip_39_word_new_line4 | truly
+| bip_39_word_new_line_4 | truly
 sight
 erase
 flock |  
-| bip_39_word_new_line5 | truly
+| bip_39_word_new_line_5 | truly
 sight
 erase
 flock
 rabbit |  
-| bip_39_word_new_line6 | truly
+| bip_39_word_new_line_6 | truly
 sight
 erase
 flock
 rabbit
 blast |  
-| bip_39_word_new_line7 | truly
+| bip_39_word_new_line_7 | truly
 sight
 erase
 flock
 rabbit
 blast
 mass |  
-| bip_39_word_new_line8 | truly
+| bip_39_word_new_line_8 | truly
 sight
 erase
 flock
@@ -113,7 +113,7 @@ rabbit
 blast
 mass
 trash |  
-| bip_39_word_new_line9 | truly
+| bip_39_word_new_line_9 | truly
 sight
 erase
 flock

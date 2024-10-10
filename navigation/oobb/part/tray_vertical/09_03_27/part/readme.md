@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | earth |  
-| bip_39_word_new_br10 | earth<br>equal<br>viable<br>believe<br>alcohol<br>suffer<br>acquire<br>since<br>dumb<br>brand |  
-| bip_39_word_new_br11 | earth<br>equal<br>viable<br>believe<br>alcohol<br>suffer<br>acquire<br>since<br>dumb<br>brand<br>blur |  
-| bip_39_word_new_br12 | earth<br>equal<br>viable<br>believe<br>alcohol<br>suffer<br>acquire<br>since<br>dumb<br>brand<br>blur<br>always |  
-| bip_39_word_new_br2 | earth<br>equal |  
-| bip_39_word_new_br3 | earth<br>equal<br>viable |  
-| bip_39_word_new_br4 | earth<br>equal<br>viable<br>believe |  
-| bip_39_word_new_br5 | earth<br>equal<br>viable<br>believe<br>alcohol |  
-| bip_39_word_new_br6 | earth<br>equal<br>viable<br>believe<br>alcohol<br>suffer |  
-| bip_39_word_new_br7 | earth<br>equal<br>viable<br>believe<br>alcohol<br>suffer<br>acquire |  
-| bip_39_word_new_br8 | earth<br>equal<br>viable<br>believe<br>alcohol<br>suffer<br>acquire<br>since |  
-| bip_39_word_new_br9 | earth<br>equal<br>viable<br>believe<br>alcohol<br>suffer<br>acquire<br>since<br>dumb |  
-| bip_39_word_new_line1 | earth |  
-| bip_39_word_new_line10 | earth
+| bip_39_word_new_br_1 | earth |  
+| bip_39_word_new_br_10 | earth<br>equal<br>viable<br>believe<br>alcohol<br>suffer<br>acquire<br>since<br>dumb<br>brand |  
+| bip_39_word_new_br_11 | earth<br>equal<br>viable<br>believe<br>alcohol<br>suffer<br>acquire<br>since<br>dumb<br>brand<br>blur |  
+| bip_39_word_new_br_12 | earth<br>equal<br>viable<br>believe<br>alcohol<br>suffer<br>acquire<br>since<br>dumb<br>brand<br>blur<br>always |  
+| bip_39_word_new_br_2 | earth<br>equal |  
+| bip_39_word_new_br_3 | earth<br>equal<br>viable |  
+| bip_39_word_new_br_4 | earth<br>equal<br>viable<br>believe |  
+| bip_39_word_new_br_5 | earth<br>equal<br>viable<br>believe<br>alcohol |  
+| bip_39_word_new_br_6 | earth<br>equal<br>viable<br>believe<br>alcohol<br>suffer |  
+| bip_39_word_new_br_7 | earth<br>equal<br>viable<br>believe<br>alcohol<br>suffer<br>acquire |  
+| bip_39_word_new_br_8 | earth<br>equal<br>viable<br>believe<br>alcohol<br>suffer<br>acquire<br>since |  
+| bip_39_word_new_br_9 | earth<br>equal<br>viable<br>believe<br>alcohol<br>suffer<br>acquire<br>since<br>dumb |  
+| bip_39_word_new_line_1 | earth |  
+| bip_39_word_new_line_10 | earth
 equal
 viable
 believe
@@ -55,7 +55,7 @@ acquire
 since
 dumb
 brand |  
-| bip_39_word_new_line11 | earth
+| bip_39_word_new_line_11 | earth
 equal
 viable
 believe
@@ -66,7 +66,7 @@ since
 dumb
 brand
 blur |  
-| bip_39_word_new_line12 | earth
+| bip_39_word_new_line_12 | earth
 equal
 viable
 believe
@@ -78,34 +78,34 @@ dumb
 brand
 blur
 always |  
-| bip_39_word_new_line2 | earth
+| bip_39_word_new_line_2 | earth
 equal |  
-| bip_39_word_new_line3 | earth
+| bip_39_word_new_line_3 | earth
 equal
 viable |  
-| bip_39_word_new_line4 | earth
+| bip_39_word_new_line_4 | earth
 equal
 viable
 believe |  
-| bip_39_word_new_line5 | earth
+| bip_39_word_new_line_5 | earth
 equal
 viable
 believe
 alcohol |  
-| bip_39_word_new_line6 | earth
+| bip_39_word_new_line_6 | earth
 equal
 viable
 believe
 alcohol
 suffer |  
-| bip_39_word_new_line7 | earth
+| bip_39_word_new_line_7 | earth
 equal
 viable
 believe
 alcohol
 suffer
 acquire |  
-| bip_39_word_new_line8 | earth
+| bip_39_word_new_line_8 | earth
 equal
 viable
 believe
@@ -113,7 +113,7 @@ alcohol
 suffer
 acquire
 since |  
-| bip_39_word_new_line9 | earth
+| bip_39_word_new_line_9 | earth
 equal
 viable
 believe

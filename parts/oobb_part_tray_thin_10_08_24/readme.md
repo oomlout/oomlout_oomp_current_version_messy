@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | believe |  
-| bip_39_word_new_br10 | believe<br>face<br>conduct<br>shaft<br>adapt<br>slush<br>beef<br>end<br>jar<br>embrace |  
-| bip_39_word_new_br11 | believe<br>face<br>conduct<br>shaft<br>adapt<br>slush<br>beef<br>end<br>jar<br>embrace<br>inject |  
-| bip_39_word_new_br12 | believe<br>face<br>conduct<br>shaft<br>adapt<br>slush<br>beef<br>end<br>jar<br>embrace<br>inject<br>alley |  
-| bip_39_word_new_br2 | believe<br>face |  
-| bip_39_word_new_br3 | believe<br>face<br>conduct |  
-| bip_39_word_new_br4 | believe<br>face<br>conduct<br>shaft |  
-| bip_39_word_new_br5 | believe<br>face<br>conduct<br>shaft<br>adapt |  
-| bip_39_word_new_br6 | believe<br>face<br>conduct<br>shaft<br>adapt<br>slush |  
-| bip_39_word_new_br7 | believe<br>face<br>conduct<br>shaft<br>adapt<br>slush<br>beef |  
-| bip_39_word_new_br8 | believe<br>face<br>conduct<br>shaft<br>adapt<br>slush<br>beef<br>end |  
-| bip_39_word_new_br9 | believe<br>face<br>conduct<br>shaft<br>adapt<br>slush<br>beef<br>end<br>jar |  
-| bip_39_word_new_line1 | believe |  
-| bip_39_word_new_line10 | believe
+| bip_39_word_new_br_1 | believe |  
+| bip_39_word_new_br_10 | believe<br>face<br>conduct<br>shaft<br>adapt<br>slush<br>beef<br>end<br>jar<br>embrace |  
+| bip_39_word_new_br_11 | believe<br>face<br>conduct<br>shaft<br>adapt<br>slush<br>beef<br>end<br>jar<br>embrace<br>inject |  
+| bip_39_word_new_br_12 | believe<br>face<br>conduct<br>shaft<br>adapt<br>slush<br>beef<br>end<br>jar<br>embrace<br>inject<br>alley |  
+| bip_39_word_new_br_2 | believe<br>face |  
+| bip_39_word_new_br_3 | believe<br>face<br>conduct |  
+| bip_39_word_new_br_4 | believe<br>face<br>conduct<br>shaft |  
+| bip_39_word_new_br_5 | believe<br>face<br>conduct<br>shaft<br>adapt |  
+| bip_39_word_new_br_6 | believe<br>face<br>conduct<br>shaft<br>adapt<br>slush |  
+| bip_39_word_new_br_7 | believe<br>face<br>conduct<br>shaft<br>adapt<br>slush<br>beef |  
+| bip_39_word_new_br_8 | believe<br>face<br>conduct<br>shaft<br>adapt<br>slush<br>beef<br>end |  
+| bip_39_word_new_br_9 | believe<br>face<br>conduct<br>shaft<br>adapt<br>slush<br>beef<br>end<br>jar |  
+| bip_39_word_new_line_1 | believe |  
+| bip_39_word_new_line_10 | believe
 face
 conduct
 shaft
@@ -55,7 +55,7 @@ beef
 end
 jar
 embrace |  
-| bip_39_word_new_line11 | believe
+| bip_39_word_new_line_11 | believe
 face
 conduct
 shaft
@@ -66,7 +66,7 @@ end
 jar
 embrace
 inject |  
-| bip_39_word_new_line12 | believe
+| bip_39_word_new_line_12 | believe
 face
 conduct
 shaft
@@ -78,34 +78,34 @@ jar
 embrace
 inject
 alley |  
-| bip_39_word_new_line2 | believe
+| bip_39_word_new_line_2 | believe
 face |  
-| bip_39_word_new_line3 | believe
+| bip_39_word_new_line_3 | believe
 face
 conduct |  
-| bip_39_word_new_line4 | believe
+| bip_39_word_new_line_4 | believe
 face
 conduct
 shaft |  
-| bip_39_word_new_line5 | believe
+| bip_39_word_new_line_5 | believe
 face
 conduct
 shaft
 adapt |  
-| bip_39_word_new_line6 | believe
+| bip_39_word_new_line_6 | believe
 face
 conduct
 shaft
 adapt
 slush |  
-| bip_39_word_new_line7 | believe
+| bip_39_word_new_line_7 | believe
 face
 conduct
 shaft
 adapt
 slush
 beef |  
-| bip_39_word_new_line8 | believe
+| bip_39_word_new_line_8 | believe
 face
 conduct
 shaft
@@ -113,7 +113,7 @@ adapt
 slush
 beef
 end |  
-| bip_39_word_new_line9 | believe
+| bip_39_word_new_line_9 | believe
 face
 conduct
 shaft

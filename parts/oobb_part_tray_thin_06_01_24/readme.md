@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | average |  
-| bip_39_word_new_br10 | average<br>panic<br>cup<br>bullet<br>fossil<br>sock<br>dice<br>ability<br>muffin<br>pigeon |  
-| bip_39_word_new_br11 | average<br>panic<br>cup<br>bullet<br>fossil<br>sock<br>dice<br>ability<br>muffin<br>pigeon<br>mirror |  
-| bip_39_word_new_br12 | average<br>panic<br>cup<br>bullet<br>fossil<br>sock<br>dice<br>ability<br>muffin<br>pigeon<br>mirror<br>abuse |  
-| bip_39_word_new_br2 | average<br>panic |  
-| bip_39_word_new_br3 | average<br>panic<br>cup |  
-| bip_39_word_new_br4 | average<br>panic<br>cup<br>bullet |  
-| bip_39_word_new_br5 | average<br>panic<br>cup<br>bullet<br>fossil |  
-| bip_39_word_new_br6 | average<br>panic<br>cup<br>bullet<br>fossil<br>sock |  
-| bip_39_word_new_br7 | average<br>panic<br>cup<br>bullet<br>fossil<br>sock<br>dice |  
-| bip_39_word_new_br8 | average<br>panic<br>cup<br>bullet<br>fossil<br>sock<br>dice<br>ability |  
-| bip_39_word_new_br9 | average<br>panic<br>cup<br>bullet<br>fossil<br>sock<br>dice<br>ability<br>muffin |  
-| bip_39_word_new_line1 | average |  
-| bip_39_word_new_line10 | average
+| bip_39_word_new_br_1 | average |  
+| bip_39_word_new_br_10 | average<br>panic<br>cup<br>bullet<br>fossil<br>sock<br>dice<br>ability<br>muffin<br>pigeon |  
+| bip_39_word_new_br_11 | average<br>panic<br>cup<br>bullet<br>fossil<br>sock<br>dice<br>ability<br>muffin<br>pigeon<br>mirror |  
+| bip_39_word_new_br_12 | average<br>panic<br>cup<br>bullet<br>fossil<br>sock<br>dice<br>ability<br>muffin<br>pigeon<br>mirror<br>abuse |  
+| bip_39_word_new_br_2 | average<br>panic |  
+| bip_39_word_new_br_3 | average<br>panic<br>cup |  
+| bip_39_word_new_br_4 | average<br>panic<br>cup<br>bullet |  
+| bip_39_word_new_br_5 | average<br>panic<br>cup<br>bullet<br>fossil |  
+| bip_39_word_new_br_6 | average<br>panic<br>cup<br>bullet<br>fossil<br>sock |  
+| bip_39_word_new_br_7 | average<br>panic<br>cup<br>bullet<br>fossil<br>sock<br>dice |  
+| bip_39_word_new_br_8 | average<br>panic<br>cup<br>bullet<br>fossil<br>sock<br>dice<br>ability |  
+| bip_39_word_new_br_9 | average<br>panic<br>cup<br>bullet<br>fossil<br>sock<br>dice<br>ability<br>muffin |  
+| bip_39_word_new_line_1 | average |  
+| bip_39_word_new_line_10 | average
 panic
 cup
 bullet
@@ -55,7 +55,7 @@ dice
 ability
 muffin
 pigeon |  
-| bip_39_word_new_line11 | average
+| bip_39_word_new_line_11 | average
 panic
 cup
 bullet
@@ -66,7 +66,7 @@ ability
 muffin
 pigeon
 mirror |  
-| bip_39_word_new_line12 | average
+| bip_39_word_new_line_12 | average
 panic
 cup
 bullet
@@ -78,34 +78,34 @@ muffin
 pigeon
 mirror
 abuse |  
-| bip_39_word_new_line2 | average
+| bip_39_word_new_line_2 | average
 panic |  
-| bip_39_word_new_line3 | average
+| bip_39_word_new_line_3 | average
 panic
 cup |  
-| bip_39_word_new_line4 | average
+| bip_39_word_new_line_4 | average
 panic
 cup
 bullet |  
-| bip_39_word_new_line5 | average
+| bip_39_word_new_line_5 | average
 panic
 cup
 bullet
 fossil |  
-| bip_39_word_new_line6 | average
+| bip_39_word_new_line_6 | average
 panic
 cup
 bullet
 fossil
 sock |  
-| bip_39_word_new_line7 | average
+| bip_39_word_new_line_7 | average
 panic
 cup
 bullet
 fossil
 sock
 dice |  
-| bip_39_word_new_line8 | average
+| bip_39_word_new_line_8 | average
 panic
 cup
 bullet
@@ -113,7 +113,7 @@ fossil
 sock
 dice
 ability |  
-| bip_39_word_new_line9 | average
+| bip_39_word_new_line_9 | average
 panic
 cup
 bullet

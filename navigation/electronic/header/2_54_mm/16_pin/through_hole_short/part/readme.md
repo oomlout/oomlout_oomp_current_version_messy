@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | chapter |  
-| bip_39_word_new_br10 | chapter<br>move<br>paper<br>main<br>badge<br>roast<br>token<br>sure<br>brother<br>tortoise |  
-| bip_39_word_new_br11 | chapter<br>move<br>paper<br>main<br>badge<br>roast<br>token<br>sure<br>brother<br>tortoise<br>average |  
-| bip_39_word_new_br12 | chapter<br>move<br>paper<br>main<br>badge<br>roast<br>token<br>sure<br>brother<br>tortoise<br>average<br>across |  
-| bip_39_word_new_br2 | chapter<br>move |  
-| bip_39_word_new_br3 | chapter<br>move<br>paper |  
-| bip_39_word_new_br4 | chapter<br>move<br>paper<br>main |  
-| bip_39_word_new_br5 | chapter<br>move<br>paper<br>main<br>badge |  
-| bip_39_word_new_br6 | chapter<br>move<br>paper<br>main<br>badge<br>roast |  
-| bip_39_word_new_br7 | chapter<br>move<br>paper<br>main<br>badge<br>roast<br>token |  
-| bip_39_word_new_br8 | chapter<br>move<br>paper<br>main<br>badge<br>roast<br>token<br>sure |  
-| bip_39_word_new_br9 | chapter<br>move<br>paper<br>main<br>badge<br>roast<br>token<br>sure<br>brother |  
-| bip_39_word_new_line1 | chapter |  
-| bip_39_word_new_line10 | chapter
+| bip_39_word_new_br_1 | chapter |  
+| bip_39_word_new_br_10 | chapter<br>move<br>paper<br>main<br>badge<br>roast<br>token<br>sure<br>brother<br>tortoise |  
+| bip_39_word_new_br_11 | chapter<br>move<br>paper<br>main<br>badge<br>roast<br>token<br>sure<br>brother<br>tortoise<br>average |  
+| bip_39_word_new_br_12 | chapter<br>move<br>paper<br>main<br>badge<br>roast<br>token<br>sure<br>brother<br>tortoise<br>average<br>across |  
+| bip_39_word_new_br_2 | chapter<br>move |  
+| bip_39_word_new_br_3 | chapter<br>move<br>paper |  
+| bip_39_word_new_br_4 | chapter<br>move<br>paper<br>main |  
+| bip_39_word_new_br_5 | chapter<br>move<br>paper<br>main<br>badge |  
+| bip_39_word_new_br_6 | chapter<br>move<br>paper<br>main<br>badge<br>roast |  
+| bip_39_word_new_br_7 | chapter<br>move<br>paper<br>main<br>badge<br>roast<br>token |  
+| bip_39_word_new_br_8 | chapter<br>move<br>paper<br>main<br>badge<br>roast<br>token<br>sure |  
+| bip_39_word_new_br_9 | chapter<br>move<br>paper<br>main<br>badge<br>roast<br>token<br>sure<br>brother |  
+| bip_39_word_new_line_1 | chapter |  
+| bip_39_word_new_line_10 | chapter
 move
 paper
 main
@@ -55,7 +55,7 @@ token
 sure
 brother
 tortoise |  
-| bip_39_word_new_line11 | chapter
+| bip_39_word_new_line_11 | chapter
 move
 paper
 main
@@ -66,7 +66,7 @@ sure
 brother
 tortoise
 average |  
-| bip_39_word_new_line12 | chapter
+| bip_39_word_new_line_12 | chapter
 move
 paper
 main
@@ -78,34 +78,34 @@ brother
 tortoise
 average
 across |  
-| bip_39_word_new_line2 | chapter
+| bip_39_word_new_line_2 | chapter
 move |  
-| bip_39_word_new_line3 | chapter
+| bip_39_word_new_line_3 | chapter
 move
 paper |  
-| bip_39_word_new_line4 | chapter
+| bip_39_word_new_line_4 | chapter
 move
 paper
 main |  
-| bip_39_word_new_line5 | chapter
+| bip_39_word_new_line_5 | chapter
 move
 paper
 main
 badge |  
-| bip_39_word_new_line6 | chapter
+| bip_39_word_new_line_6 | chapter
 move
 paper
 main
 badge
 roast |  
-| bip_39_word_new_line7 | chapter
+| bip_39_word_new_line_7 | chapter
 move
 paper
 main
 badge
 roast
 token |  
-| bip_39_word_new_line8 | chapter
+| bip_39_word_new_line_8 | chapter
 move
 paper
 main
@@ -113,7 +113,7 @@ badge
 roast
 token
 sure |  
-| bip_39_word_new_line9 | chapter
+| bip_39_word_new_line_9 | chapter
 move
 paper
 main

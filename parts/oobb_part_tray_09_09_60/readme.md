@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | man |  
-| bip_39_word_new_br10 | man<br>lemon<br>vote<br>tennis<br>point<br>rely<br>purity<br>advance<br>rate<br>claw |  
-| bip_39_word_new_br11 | man<br>lemon<br>vote<br>tennis<br>point<br>rely<br>purity<br>advance<br>rate<br>claw<br>casino |  
-| bip_39_word_new_br12 | man<br>lemon<br>vote<br>tennis<br>point<br>rely<br>purity<br>advance<br>rate<br>claw<br>casino<br>accident |  
-| bip_39_word_new_br2 | man<br>lemon |  
-| bip_39_word_new_br3 | man<br>lemon<br>vote |  
-| bip_39_word_new_br4 | man<br>lemon<br>vote<br>tennis |  
-| bip_39_word_new_br5 | man<br>lemon<br>vote<br>tennis<br>point |  
-| bip_39_word_new_br6 | man<br>lemon<br>vote<br>tennis<br>point<br>rely |  
-| bip_39_word_new_br7 | man<br>lemon<br>vote<br>tennis<br>point<br>rely<br>purity |  
-| bip_39_word_new_br8 | man<br>lemon<br>vote<br>tennis<br>point<br>rely<br>purity<br>advance |  
-| bip_39_word_new_br9 | man<br>lemon<br>vote<br>tennis<br>point<br>rely<br>purity<br>advance<br>rate |  
-| bip_39_word_new_line1 | man |  
-| bip_39_word_new_line10 | man
+| bip_39_word_new_br_1 | man |  
+| bip_39_word_new_br_10 | man<br>lemon<br>vote<br>tennis<br>point<br>rely<br>purity<br>advance<br>rate<br>claw |  
+| bip_39_word_new_br_11 | man<br>lemon<br>vote<br>tennis<br>point<br>rely<br>purity<br>advance<br>rate<br>claw<br>casino |  
+| bip_39_word_new_br_12 | man<br>lemon<br>vote<br>tennis<br>point<br>rely<br>purity<br>advance<br>rate<br>claw<br>casino<br>accident |  
+| bip_39_word_new_br_2 | man<br>lemon |  
+| bip_39_word_new_br_3 | man<br>lemon<br>vote |  
+| bip_39_word_new_br_4 | man<br>lemon<br>vote<br>tennis |  
+| bip_39_word_new_br_5 | man<br>lemon<br>vote<br>tennis<br>point |  
+| bip_39_word_new_br_6 | man<br>lemon<br>vote<br>tennis<br>point<br>rely |  
+| bip_39_word_new_br_7 | man<br>lemon<br>vote<br>tennis<br>point<br>rely<br>purity |  
+| bip_39_word_new_br_8 | man<br>lemon<br>vote<br>tennis<br>point<br>rely<br>purity<br>advance |  
+| bip_39_word_new_br_9 | man<br>lemon<br>vote<br>tennis<br>point<br>rely<br>purity<br>advance<br>rate |  
+| bip_39_word_new_line_1 | man |  
+| bip_39_word_new_line_10 | man
 lemon
 vote
 tennis
@@ -55,7 +55,7 @@ purity
 advance
 rate
 claw |  
-| bip_39_word_new_line11 | man
+| bip_39_word_new_line_11 | man
 lemon
 vote
 tennis
@@ -66,7 +66,7 @@ advance
 rate
 claw
 casino |  
-| bip_39_word_new_line12 | man
+| bip_39_word_new_line_12 | man
 lemon
 vote
 tennis
@@ -78,34 +78,34 @@ rate
 claw
 casino
 accident |  
-| bip_39_word_new_line2 | man
+| bip_39_word_new_line_2 | man
 lemon |  
-| bip_39_word_new_line3 | man
+| bip_39_word_new_line_3 | man
 lemon
 vote |  
-| bip_39_word_new_line4 | man
+| bip_39_word_new_line_4 | man
 lemon
 vote
 tennis |  
-| bip_39_word_new_line5 | man
+| bip_39_word_new_line_5 | man
 lemon
 vote
 tennis
 point |  
-| bip_39_word_new_line6 | man
+| bip_39_word_new_line_6 | man
 lemon
 vote
 tennis
 point
 rely |  
-| bip_39_word_new_line7 | man
+| bip_39_word_new_line_7 | man
 lemon
 vote
 tennis
 point
 rely
 purity |  
-| bip_39_word_new_line8 | man
+| bip_39_word_new_line_8 | man
 lemon
 vote
 tennis
@@ -113,7 +113,7 @@ point
 rely
 purity
 advance |  
-| bip_39_word_new_line9 | man
+| bip_39_word_new_line_9 | man
 lemon
 vote
 tennis

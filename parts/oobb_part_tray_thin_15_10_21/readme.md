@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mass |  
-| bip_39_word_new_br10 | mass<br>circle<br>wing<br>opinion<br>glory<br>exact<br>roast<br>coffee<br>wink<br>crumble |  
-| bip_39_word_new_br11 | mass<br>circle<br>wing<br>opinion<br>glory<br>exact<br>roast<br>coffee<br>wink<br>crumble<br>machine |  
-| bip_39_word_new_br12 | mass<br>circle<br>wing<br>opinion<br>glory<br>exact<br>roast<br>coffee<br>wink<br>crumble<br>machine<br>above |  
-| bip_39_word_new_br2 | mass<br>circle |  
-| bip_39_word_new_br3 | mass<br>circle<br>wing |  
-| bip_39_word_new_br4 | mass<br>circle<br>wing<br>opinion |  
-| bip_39_word_new_br5 | mass<br>circle<br>wing<br>opinion<br>glory |  
-| bip_39_word_new_br6 | mass<br>circle<br>wing<br>opinion<br>glory<br>exact |  
-| bip_39_word_new_br7 | mass<br>circle<br>wing<br>opinion<br>glory<br>exact<br>roast |  
-| bip_39_word_new_br8 | mass<br>circle<br>wing<br>opinion<br>glory<br>exact<br>roast<br>coffee |  
-| bip_39_word_new_br9 | mass<br>circle<br>wing<br>opinion<br>glory<br>exact<br>roast<br>coffee<br>wink |  
-| bip_39_word_new_line1 | mass |  
-| bip_39_word_new_line10 | mass
+| bip_39_word_new_br_1 | mass |  
+| bip_39_word_new_br_10 | mass<br>circle<br>wing<br>opinion<br>glory<br>exact<br>roast<br>coffee<br>wink<br>crumble |  
+| bip_39_word_new_br_11 | mass<br>circle<br>wing<br>opinion<br>glory<br>exact<br>roast<br>coffee<br>wink<br>crumble<br>machine |  
+| bip_39_word_new_br_12 | mass<br>circle<br>wing<br>opinion<br>glory<br>exact<br>roast<br>coffee<br>wink<br>crumble<br>machine<br>above |  
+| bip_39_word_new_br_2 | mass<br>circle |  
+| bip_39_word_new_br_3 | mass<br>circle<br>wing |  
+| bip_39_word_new_br_4 | mass<br>circle<br>wing<br>opinion |  
+| bip_39_word_new_br_5 | mass<br>circle<br>wing<br>opinion<br>glory |  
+| bip_39_word_new_br_6 | mass<br>circle<br>wing<br>opinion<br>glory<br>exact |  
+| bip_39_word_new_br_7 | mass<br>circle<br>wing<br>opinion<br>glory<br>exact<br>roast |  
+| bip_39_word_new_br_8 | mass<br>circle<br>wing<br>opinion<br>glory<br>exact<br>roast<br>coffee |  
+| bip_39_word_new_br_9 | mass<br>circle<br>wing<br>opinion<br>glory<br>exact<br>roast<br>coffee<br>wink |  
+| bip_39_word_new_line_1 | mass |  
+| bip_39_word_new_line_10 | mass
 circle
 wing
 opinion
@@ -55,7 +55,7 @@ roast
 coffee
 wink
 crumble |  
-| bip_39_word_new_line11 | mass
+| bip_39_word_new_line_11 | mass
 circle
 wing
 opinion
@@ -66,7 +66,7 @@ coffee
 wink
 crumble
 machine |  
-| bip_39_word_new_line12 | mass
+| bip_39_word_new_line_12 | mass
 circle
 wing
 opinion
@@ -78,34 +78,34 @@ wink
 crumble
 machine
 above |  
-| bip_39_word_new_line2 | mass
+| bip_39_word_new_line_2 | mass
 circle |  
-| bip_39_word_new_line3 | mass
+| bip_39_word_new_line_3 | mass
 circle
 wing |  
-| bip_39_word_new_line4 | mass
+| bip_39_word_new_line_4 | mass
 circle
 wing
 opinion |  
-| bip_39_word_new_line5 | mass
+| bip_39_word_new_line_5 | mass
 circle
 wing
 opinion
 glory |  
-| bip_39_word_new_line6 | mass
+| bip_39_word_new_line_6 | mass
 circle
 wing
 opinion
 glory
 exact |  
-| bip_39_word_new_line7 | mass
+| bip_39_word_new_line_7 | mass
 circle
 wing
 opinion
 glory
 exact
 roast |  
-| bip_39_word_new_line8 | mass
+| bip_39_word_new_line_8 | mass
 circle
 wing
 opinion
@@ -113,7 +113,7 @@ glory
 exact
 roast
 coffee |  
-| bip_39_word_new_line9 | mass
+| bip_39_word_new_line_9 | mass
 circle
 wing
 opinion

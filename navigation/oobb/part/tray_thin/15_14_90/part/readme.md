@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | clump |  
-| bip_39_word_new_br10 | clump<br>giggle<br>scissors<br>donate<br>sunset<br>average<br>glove<br>kitten<br>scare<br>pipe |  
-| bip_39_word_new_br11 | clump<br>giggle<br>scissors<br>donate<br>sunset<br>average<br>glove<br>kitten<br>scare<br>pipe<br>nice |  
-| bip_39_word_new_br12 | clump<br>giggle<br>scissors<br>donate<br>sunset<br>average<br>glove<br>kitten<br>scare<br>pipe<br>nice<br>acid |  
-| bip_39_word_new_br2 | clump<br>giggle |  
-| bip_39_word_new_br3 | clump<br>giggle<br>scissors |  
-| bip_39_word_new_br4 | clump<br>giggle<br>scissors<br>donate |  
-| bip_39_word_new_br5 | clump<br>giggle<br>scissors<br>donate<br>sunset |  
-| bip_39_word_new_br6 | clump<br>giggle<br>scissors<br>donate<br>sunset<br>average |  
-| bip_39_word_new_br7 | clump<br>giggle<br>scissors<br>donate<br>sunset<br>average<br>glove |  
-| bip_39_word_new_br8 | clump<br>giggle<br>scissors<br>donate<br>sunset<br>average<br>glove<br>kitten |  
-| bip_39_word_new_br9 | clump<br>giggle<br>scissors<br>donate<br>sunset<br>average<br>glove<br>kitten<br>scare |  
-| bip_39_word_new_line1 | clump |  
-| bip_39_word_new_line10 | clump
+| bip_39_word_new_br_1 | clump |  
+| bip_39_word_new_br_10 | clump<br>giggle<br>scissors<br>donate<br>sunset<br>average<br>glove<br>kitten<br>scare<br>pipe |  
+| bip_39_word_new_br_11 | clump<br>giggle<br>scissors<br>donate<br>sunset<br>average<br>glove<br>kitten<br>scare<br>pipe<br>nice |  
+| bip_39_word_new_br_12 | clump<br>giggle<br>scissors<br>donate<br>sunset<br>average<br>glove<br>kitten<br>scare<br>pipe<br>nice<br>acid |  
+| bip_39_word_new_br_2 | clump<br>giggle |  
+| bip_39_word_new_br_3 | clump<br>giggle<br>scissors |  
+| bip_39_word_new_br_4 | clump<br>giggle<br>scissors<br>donate |  
+| bip_39_word_new_br_5 | clump<br>giggle<br>scissors<br>donate<br>sunset |  
+| bip_39_word_new_br_6 | clump<br>giggle<br>scissors<br>donate<br>sunset<br>average |  
+| bip_39_word_new_br_7 | clump<br>giggle<br>scissors<br>donate<br>sunset<br>average<br>glove |  
+| bip_39_word_new_br_8 | clump<br>giggle<br>scissors<br>donate<br>sunset<br>average<br>glove<br>kitten |  
+| bip_39_word_new_br_9 | clump<br>giggle<br>scissors<br>donate<br>sunset<br>average<br>glove<br>kitten<br>scare |  
+| bip_39_word_new_line_1 | clump |  
+| bip_39_word_new_line_10 | clump
 giggle
 scissors
 donate
@@ -55,7 +55,7 @@ glove
 kitten
 scare
 pipe |  
-| bip_39_word_new_line11 | clump
+| bip_39_word_new_line_11 | clump
 giggle
 scissors
 donate
@@ -66,7 +66,7 @@ kitten
 scare
 pipe
 nice |  
-| bip_39_word_new_line12 | clump
+| bip_39_word_new_line_12 | clump
 giggle
 scissors
 donate
@@ -78,34 +78,34 @@ scare
 pipe
 nice
 acid |  
-| bip_39_word_new_line2 | clump
+| bip_39_word_new_line_2 | clump
 giggle |  
-| bip_39_word_new_line3 | clump
+| bip_39_word_new_line_3 | clump
 giggle
 scissors |  
-| bip_39_word_new_line4 | clump
+| bip_39_word_new_line_4 | clump
 giggle
 scissors
 donate |  
-| bip_39_word_new_line5 | clump
+| bip_39_word_new_line_5 | clump
 giggle
 scissors
 donate
 sunset |  
-| bip_39_word_new_line6 | clump
+| bip_39_word_new_line_6 | clump
 giggle
 scissors
 donate
 sunset
 average |  
-| bip_39_word_new_line7 | clump
+| bip_39_word_new_line_7 | clump
 giggle
 scissors
 donate
 sunset
 average
 glove |  
-| bip_39_word_new_line8 | clump
+| bip_39_word_new_line_8 | clump
 giggle
 scissors
 donate
@@ -113,7 +113,7 @@ sunset
 average
 glove
 kitten |  
-| bip_39_word_new_line9 | clump
+| bip_39_word_new_line_9 | clump
 giggle
 scissors
 donate

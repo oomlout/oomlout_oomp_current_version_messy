@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | waste |  
-| bip_39_word_new_br10 | waste<br>absent<br>wonder<br>youth<br>similar<br>tank<br>legend<br>soccer<br>era<br>spawn |  
-| bip_39_word_new_br11 | waste<br>absent<br>wonder<br>youth<br>similar<br>tank<br>legend<br>soccer<br>era<br>spawn<br>learn |  
-| bip_39_word_new_br12 | waste<br>absent<br>wonder<br>youth<br>similar<br>tank<br>legend<br>soccer<br>era<br>spawn<br>learn<br>allow |  
-| bip_39_word_new_br2 | waste<br>absent |  
-| bip_39_word_new_br3 | waste<br>absent<br>wonder |  
-| bip_39_word_new_br4 | waste<br>absent<br>wonder<br>youth |  
-| bip_39_word_new_br5 | waste<br>absent<br>wonder<br>youth<br>similar |  
-| bip_39_word_new_br6 | waste<br>absent<br>wonder<br>youth<br>similar<br>tank |  
-| bip_39_word_new_br7 | waste<br>absent<br>wonder<br>youth<br>similar<br>tank<br>legend |  
-| bip_39_word_new_br8 | waste<br>absent<br>wonder<br>youth<br>similar<br>tank<br>legend<br>soccer |  
-| bip_39_word_new_br9 | waste<br>absent<br>wonder<br>youth<br>similar<br>tank<br>legend<br>soccer<br>era |  
-| bip_39_word_new_line1 | waste |  
-| bip_39_word_new_line10 | waste
+| bip_39_word_new_br_1 | waste |  
+| bip_39_word_new_br_10 | waste<br>absent<br>wonder<br>youth<br>similar<br>tank<br>legend<br>soccer<br>era<br>spawn |  
+| bip_39_word_new_br_11 | waste<br>absent<br>wonder<br>youth<br>similar<br>tank<br>legend<br>soccer<br>era<br>spawn<br>learn |  
+| bip_39_word_new_br_12 | waste<br>absent<br>wonder<br>youth<br>similar<br>tank<br>legend<br>soccer<br>era<br>spawn<br>learn<br>allow |  
+| bip_39_word_new_br_2 | waste<br>absent |  
+| bip_39_word_new_br_3 | waste<br>absent<br>wonder |  
+| bip_39_word_new_br_4 | waste<br>absent<br>wonder<br>youth |  
+| bip_39_word_new_br_5 | waste<br>absent<br>wonder<br>youth<br>similar |  
+| bip_39_word_new_br_6 | waste<br>absent<br>wonder<br>youth<br>similar<br>tank |  
+| bip_39_word_new_br_7 | waste<br>absent<br>wonder<br>youth<br>similar<br>tank<br>legend |  
+| bip_39_word_new_br_8 | waste<br>absent<br>wonder<br>youth<br>similar<br>tank<br>legend<br>soccer |  
+| bip_39_word_new_br_9 | waste<br>absent<br>wonder<br>youth<br>similar<br>tank<br>legend<br>soccer<br>era |  
+| bip_39_word_new_line_1 | waste |  
+| bip_39_word_new_line_10 | waste
 absent
 wonder
 youth
@@ -55,7 +55,7 @@ legend
 soccer
 era
 spawn |  
-| bip_39_word_new_line11 | waste
+| bip_39_word_new_line_11 | waste
 absent
 wonder
 youth
@@ -66,7 +66,7 @@ soccer
 era
 spawn
 learn |  
-| bip_39_word_new_line12 | waste
+| bip_39_word_new_line_12 | waste
 absent
 wonder
 youth
@@ -78,34 +78,34 @@ era
 spawn
 learn
 allow |  
-| bip_39_word_new_line2 | waste
+| bip_39_word_new_line_2 | waste
 absent |  
-| bip_39_word_new_line3 | waste
+| bip_39_word_new_line_3 | waste
 absent
 wonder |  
-| bip_39_word_new_line4 | waste
+| bip_39_word_new_line_4 | waste
 absent
 wonder
 youth |  
-| bip_39_word_new_line5 | waste
+| bip_39_word_new_line_5 | waste
 absent
 wonder
 youth
 similar |  
-| bip_39_word_new_line6 | waste
+| bip_39_word_new_line_6 | waste
 absent
 wonder
 youth
 similar
 tank |  
-| bip_39_word_new_line7 | waste
+| bip_39_word_new_line_7 | waste
 absent
 wonder
 youth
 similar
 tank
 legend |  
-| bip_39_word_new_line8 | waste
+| bip_39_word_new_line_8 | waste
 absent
 wonder
 youth
@@ -113,7 +113,7 @@ similar
 tank
 legend
 soccer |  
-| bip_39_word_new_line9 | waste
+| bip_39_word_new_line_9 | waste
 absent
 wonder
 youth

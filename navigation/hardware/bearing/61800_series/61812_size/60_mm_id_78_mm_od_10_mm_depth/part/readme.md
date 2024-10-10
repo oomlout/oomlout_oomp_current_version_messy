@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | inner |  
-| bip_39_word_new_br10 | inner<br>voice<br>violin<br>attract<br>pill<br>brief<br>enhance<br>always<br>believe<br>strong |  
-| bip_39_word_new_br11 | inner<br>voice<br>violin<br>attract<br>pill<br>brief<br>enhance<br>always<br>believe<br>strong<br>accuse |  
-| bip_39_word_new_br12 | inner<br>voice<br>violin<br>attract<br>pill<br>brief<br>enhance<br>always<br>believe<br>strong<br>accuse<br>attend |  
-| bip_39_word_new_br2 | inner<br>voice |  
-| bip_39_word_new_br3 | inner<br>voice<br>violin |  
-| bip_39_word_new_br4 | inner<br>voice<br>violin<br>attract |  
-| bip_39_word_new_br5 | inner<br>voice<br>violin<br>attract<br>pill |  
-| bip_39_word_new_br6 | inner<br>voice<br>violin<br>attract<br>pill<br>brief |  
-| bip_39_word_new_br7 | inner<br>voice<br>violin<br>attract<br>pill<br>brief<br>enhance |  
-| bip_39_word_new_br8 | inner<br>voice<br>violin<br>attract<br>pill<br>brief<br>enhance<br>always |  
-| bip_39_word_new_br9 | inner<br>voice<br>violin<br>attract<br>pill<br>brief<br>enhance<br>always<br>believe |  
-| bip_39_word_new_line1 | inner |  
-| bip_39_word_new_line10 | inner
+| bip_39_word_new_br_1 | inner |  
+| bip_39_word_new_br_10 | inner<br>voice<br>violin<br>attract<br>pill<br>brief<br>enhance<br>always<br>believe<br>strong |  
+| bip_39_word_new_br_11 | inner<br>voice<br>violin<br>attract<br>pill<br>brief<br>enhance<br>always<br>believe<br>strong<br>accuse |  
+| bip_39_word_new_br_12 | inner<br>voice<br>violin<br>attract<br>pill<br>brief<br>enhance<br>always<br>believe<br>strong<br>accuse<br>attend |  
+| bip_39_word_new_br_2 | inner<br>voice |  
+| bip_39_word_new_br_3 | inner<br>voice<br>violin |  
+| bip_39_word_new_br_4 | inner<br>voice<br>violin<br>attract |  
+| bip_39_word_new_br_5 | inner<br>voice<br>violin<br>attract<br>pill |  
+| bip_39_word_new_br_6 | inner<br>voice<br>violin<br>attract<br>pill<br>brief |  
+| bip_39_word_new_br_7 | inner<br>voice<br>violin<br>attract<br>pill<br>brief<br>enhance |  
+| bip_39_word_new_br_8 | inner<br>voice<br>violin<br>attract<br>pill<br>brief<br>enhance<br>always |  
+| bip_39_word_new_br_9 | inner<br>voice<br>violin<br>attract<br>pill<br>brief<br>enhance<br>always<br>believe |  
+| bip_39_word_new_line_1 | inner |  
+| bip_39_word_new_line_10 | inner
 voice
 violin
 attract
@@ -55,7 +55,7 @@ enhance
 always
 believe
 strong |  
-| bip_39_word_new_line11 | inner
+| bip_39_word_new_line_11 | inner
 voice
 violin
 attract
@@ -66,7 +66,7 @@ always
 believe
 strong
 accuse |  
-| bip_39_word_new_line12 | inner
+| bip_39_word_new_line_12 | inner
 voice
 violin
 attract
@@ -78,34 +78,34 @@ believe
 strong
 accuse
 attend |  
-| bip_39_word_new_line2 | inner
+| bip_39_word_new_line_2 | inner
 voice |  
-| bip_39_word_new_line3 | inner
+| bip_39_word_new_line_3 | inner
 voice
 violin |  
-| bip_39_word_new_line4 | inner
+| bip_39_word_new_line_4 | inner
 voice
 violin
 attract |  
-| bip_39_word_new_line5 | inner
+| bip_39_word_new_line_5 | inner
 voice
 violin
 attract
 pill |  
-| bip_39_word_new_line6 | inner
+| bip_39_word_new_line_6 | inner
 voice
 violin
 attract
 pill
 brief |  
-| bip_39_word_new_line7 | inner
+| bip_39_word_new_line_7 | inner
 voice
 violin
 attract
 pill
 brief
 enhance |  
-| bip_39_word_new_line8 | inner
+| bip_39_word_new_line_8 | inner
 voice
 violin
 attract
@@ -113,7 +113,7 @@ pill
 brief
 enhance
 always |  
-| bip_39_word_new_line9 | inner
+| bip_39_word_new_line_9 | inner
 voice
 violin
 attract

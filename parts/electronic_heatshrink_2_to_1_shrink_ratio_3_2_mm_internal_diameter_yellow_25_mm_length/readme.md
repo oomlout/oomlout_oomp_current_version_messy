@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | leg |  
-| bip_39_word_new_br10 | leg<br>spray<br>index<br>drop<br>subject<br>insane<br>rose<br>laptop<br>busy<br>ahead |  
-| bip_39_word_new_br11 | leg<br>spray<br>index<br>drop<br>subject<br>insane<br>rose<br>laptop<br>busy<br>ahead<br>people |  
-| bip_39_word_new_br12 | leg<br>spray<br>index<br>drop<br>subject<br>insane<br>rose<br>laptop<br>busy<br>ahead<br>people<br>argue |  
-| bip_39_word_new_br2 | leg<br>spray |  
-| bip_39_word_new_br3 | leg<br>spray<br>index |  
-| bip_39_word_new_br4 | leg<br>spray<br>index<br>drop |  
-| bip_39_word_new_br5 | leg<br>spray<br>index<br>drop<br>subject |  
-| bip_39_word_new_br6 | leg<br>spray<br>index<br>drop<br>subject<br>insane |  
-| bip_39_word_new_br7 | leg<br>spray<br>index<br>drop<br>subject<br>insane<br>rose |  
-| bip_39_word_new_br8 | leg<br>spray<br>index<br>drop<br>subject<br>insane<br>rose<br>laptop |  
-| bip_39_word_new_br9 | leg<br>spray<br>index<br>drop<br>subject<br>insane<br>rose<br>laptop<br>busy |  
-| bip_39_word_new_line1 | leg |  
-| bip_39_word_new_line10 | leg
+| bip_39_word_new_br_1 | leg |  
+| bip_39_word_new_br_10 | leg<br>spray<br>index<br>drop<br>subject<br>insane<br>rose<br>laptop<br>busy<br>ahead |  
+| bip_39_word_new_br_11 | leg<br>spray<br>index<br>drop<br>subject<br>insane<br>rose<br>laptop<br>busy<br>ahead<br>people |  
+| bip_39_word_new_br_12 | leg<br>spray<br>index<br>drop<br>subject<br>insane<br>rose<br>laptop<br>busy<br>ahead<br>people<br>argue |  
+| bip_39_word_new_br_2 | leg<br>spray |  
+| bip_39_word_new_br_3 | leg<br>spray<br>index |  
+| bip_39_word_new_br_4 | leg<br>spray<br>index<br>drop |  
+| bip_39_word_new_br_5 | leg<br>spray<br>index<br>drop<br>subject |  
+| bip_39_word_new_br_6 | leg<br>spray<br>index<br>drop<br>subject<br>insane |  
+| bip_39_word_new_br_7 | leg<br>spray<br>index<br>drop<br>subject<br>insane<br>rose |  
+| bip_39_word_new_br_8 | leg<br>spray<br>index<br>drop<br>subject<br>insane<br>rose<br>laptop |  
+| bip_39_word_new_br_9 | leg<br>spray<br>index<br>drop<br>subject<br>insane<br>rose<br>laptop<br>busy |  
+| bip_39_word_new_line_1 | leg |  
+| bip_39_word_new_line_10 | leg
 spray
 index
 drop
@@ -55,7 +55,7 @@ rose
 laptop
 busy
 ahead |  
-| bip_39_word_new_line11 | leg
+| bip_39_word_new_line_11 | leg
 spray
 index
 drop
@@ -66,7 +66,7 @@ laptop
 busy
 ahead
 people |  
-| bip_39_word_new_line12 | leg
+| bip_39_word_new_line_12 | leg
 spray
 index
 drop
@@ -78,34 +78,34 @@ busy
 ahead
 people
 argue |  
-| bip_39_word_new_line2 | leg
+| bip_39_word_new_line_2 | leg
 spray |  
-| bip_39_word_new_line3 | leg
+| bip_39_word_new_line_3 | leg
 spray
 index |  
-| bip_39_word_new_line4 | leg
+| bip_39_word_new_line_4 | leg
 spray
 index
 drop |  
-| bip_39_word_new_line5 | leg
+| bip_39_word_new_line_5 | leg
 spray
 index
 drop
 subject |  
-| bip_39_word_new_line6 | leg
+| bip_39_word_new_line_6 | leg
 spray
 index
 drop
 subject
 insane |  
-| bip_39_word_new_line7 | leg
+| bip_39_word_new_line_7 | leg
 spray
 index
 drop
 subject
 insane
 rose |  
-| bip_39_word_new_line8 | leg
+| bip_39_word_new_line_8 | leg
 spray
 index
 drop
@@ -113,7 +113,7 @@ subject
 insane
 rose
 laptop |  
-| bip_39_word_new_line9 | leg
+| bip_39_word_new_line_9 | leg
 spray
 index
 drop

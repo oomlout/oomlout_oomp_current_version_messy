@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | grass |  
-| bip_39_word_new_br10 | grass<br>quiz<br>rare<br>process<br>gift<br>able<br>cheese<br>devote<br>flock<br>impulse |  
-| bip_39_word_new_br11 | grass<br>quiz<br>rare<br>process<br>gift<br>able<br>cheese<br>devote<br>flock<br>impulse<br>office |  
-| bip_39_word_new_br12 | grass<br>quiz<br>rare<br>process<br>gift<br>able<br>cheese<br>devote<br>flock<br>impulse<br>office<br>armor |  
-| bip_39_word_new_br2 | grass<br>quiz |  
-| bip_39_word_new_br3 | grass<br>quiz<br>rare |  
-| bip_39_word_new_br4 | grass<br>quiz<br>rare<br>process |  
-| bip_39_word_new_br5 | grass<br>quiz<br>rare<br>process<br>gift |  
-| bip_39_word_new_br6 | grass<br>quiz<br>rare<br>process<br>gift<br>able |  
-| bip_39_word_new_br7 | grass<br>quiz<br>rare<br>process<br>gift<br>able<br>cheese |  
-| bip_39_word_new_br8 | grass<br>quiz<br>rare<br>process<br>gift<br>able<br>cheese<br>devote |  
-| bip_39_word_new_br9 | grass<br>quiz<br>rare<br>process<br>gift<br>able<br>cheese<br>devote<br>flock |  
-| bip_39_word_new_line1 | grass |  
-| bip_39_word_new_line10 | grass
+| bip_39_word_new_br_1 | grass |  
+| bip_39_word_new_br_10 | grass<br>quiz<br>rare<br>process<br>gift<br>able<br>cheese<br>devote<br>flock<br>impulse |  
+| bip_39_word_new_br_11 | grass<br>quiz<br>rare<br>process<br>gift<br>able<br>cheese<br>devote<br>flock<br>impulse<br>office |  
+| bip_39_word_new_br_12 | grass<br>quiz<br>rare<br>process<br>gift<br>able<br>cheese<br>devote<br>flock<br>impulse<br>office<br>armor |  
+| bip_39_word_new_br_2 | grass<br>quiz |  
+| bip_39_word_new_br_3 | grass<br>quiz<br>rare |  
+| bip_39_word_new_br_4 | grass<br>quiz<br>rare<br>process |  
+| bip_39_word_new_br_5 | grass<br>quiz<br>rare<br>process<br>gift |  
+| bip_39_word_new_br_6 | grass<br>quiz<br>rare<br>process<br>gift<br>able |  
+| bip_39_word_new_br_7 | grass<br>quiz<br>rare<br>process<br>gift<br>able<br>cheese |  
+| bip_39_word_new_br_8 | grass<br>quiz<br>rare<br>process<br>gift<br>able<br>cheese<br>devote |  
+| bip_39_word_new_br_9 | grass<br>quiz<br>rare<br>process<br>gift<br>able<br>cheese<br>devote<br>flock |  
+| bip_39_word_new_line_1 | grass |  
+| bip_39_word_new_line_10 | grass
 quiz
 rare
 process
@@ -55,7 +55,7 @@ cheese
 devote
 flock
 impulse |  
-| bip_39_word_new_line11 | grass
+| bip_39_word_new_line_11 | grass
 quiz
 rare
 process
@@ -66,7 +66,7 @@ devote
 flock
 impulse
 office |  
-| bip_39_word_new_line12 | grass
+| bip_39_word_new_line_12 | grass
 quiz
 rare
 process
@@ -78,34 +78,34 @@ flock
 impulse
 office
 armor |  
-| bip_39_word_new_line2 | grass
+| bip_39_word_new_line_2 | grass
 quiz |  
-| bip_39_word_new_line3 | grass
+| bip_39_word_new_line_3 | grass
 quiz
 rare |  
-| bip_39_word_new_line4 | grass
+| bip_39_word_new_line_4 | grass
 quiz
 rare
 process |  
-| bip_39_word_new_line5 | grass
+| bip_39_word_new_line_5 | grass
 quiz
 rare
 process
 gift |  
-| bip_39_word_new_line6 | grass
+| bip_39_word_new_line_6 | grass
 quiz
 rare
 process
 gift
 able |  
-| bip_39_word_new_line7 | grass
+| bip_39_word_new_line_7 | grass
 quiz
 rare
 process
 gift
 able
 cheese |  
-| bip_39_word_new_line8 | grass
+| bip_39_word_new_line_8 | grass
 quiz
 rare
 process
@@ -113,7 +113,7 @@ gift
 able
 cheese
 devote |  
-| bip_39_word_new_line9 | grass
+| bip_39_word_new_line_9 | grass
 quiz
 rare
 process

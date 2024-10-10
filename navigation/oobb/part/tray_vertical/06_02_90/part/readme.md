@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | advice |  
-| bip_39_word_new_br10 | advice<br>fever<br>uphold<br>target<br>giggle<br>note<br>gorilla<br>gospel<br>scout<br>teach |  
-| bip_39_word_new_br11 | advice<br>fever<br>uphold<br>target<br>giggle<br>note<br>gorilla<br>gospel<br>scout<br>teach<br>denial |  
-| bip_39_word_new_br12 | advice<br>fever<br>uphold<br>target<br>giggle<br>note<br>gorilla<br>gospel<br>scout<br>teach<br>denial<br>also |  
-| bip_39_word_new_br2 | advice<br>fever |  
-| bip_39_word_new_br3 | advice<br>fever<br>uphold |  
-| bip_39_word_new_br4 | advice<br>fever<br>uphold<br>target |  
-| bip_39_word_new_br5 | advice<br>fever<br>uphold<br>target<br>giggle |  
-| bip_39_word_new_br6 | advice<br>fever<br>uphold<br>target<br>giggle<br>note |  
-| bip_39_word_new_br7 | advice<br>fever<br>uphold<br>target<br>giggle<br>note<br>gorilla |  
-| bip_39_word_new_br8 | advice<br>fever<br>uphold<br>target<br>giggle<br>note<br>gorilla<br>gospel |  
-| bip_39_word_new_br9 | advice<br>fever<br>uphold<br>target<br>giggle<br>note<br>gorilla<br>gospel<br>scout |  
-| bip_39_word_new_line1 | advice |  
-| bip_39_word_new_line10 | advice
+| bip_39_word_new_br_1 | advice |  
+| bip_39_word_new_br_10 | advice<br>fever<br>uphold<br>target<br>giggle<br>note<br>gorilla<br>gospel<br>scout<br>teach |  
+| bip_39_word_new_br_11 | advice<br>fever<br>uphold<br>target<br>giggle<br>note<br>gorilla<br>gospel<br>scout<br>teach<br>denial |  
+| bip_39_word_new_br_12 | advice<br>fever<br>uphold<br>target<br>giggle<br>note<br>gorilla<br>gospel<br>scout<br>teach<br>denial<br>also |  
+| bip_39_word_new_br_2 | advice<br>fever |  
+| bip_39_word_new_br_3 | advice<br>fever<br>uphold |  
+| bip_39_word_new_br_4 | advice<br>fever<br>uphold<br>target |  
+| bip_39_word_new_br_5 | advice<br>fever<br>uphold<br>target<br>giggle |  
+| bip_39_word_new_br_6 | advice<br>fever<br>uphold<br>target<br>giggle<br>note |  
+| bip_39_word_new_br_7 | advice<br>fever<br>uphold<br>target<br>giggle<br>note<br>gorilla |  
+| bip_39_word_new_br_8 | advice<br>fever<br>uphold<br>target<br>giggle<br>note<br>gorilla<br>gospel |  
+| bip_39_word_new_br_9 | advice<br>fever<br>uphold<br>target<br>giggle<br>note<br>gorilla<br>gospel<br>scout |  
+| bip_39_word_new_line_1 | advice |  
+| bip_39_word_new_line_10 | advice
 fever
 uphold
 target
@@ -55,7 +55,7 @@ gorilla
 gospel
 scout
 teach |  
-| bip_39_word_new_line11 | advice
+| bip_39_word_new_line_11 | advice
 fever
 uphold
 target
@@ -66,7 +66,7 @@ gospel
 scout
 teach
 denial |  
-| bip_39_word_new_line12 | advice
+| bip_39_word_new_line_12 | advice
 fever
 uphold
 target
@@ -78,34 +78,34 @@ scout
 teach
 denial
 also |  
-| bip_39_word_new_line2 | advice
+| bip_39_word_new_line_2 | advice
 fever |  
-| bip_39_word_new_line3 | advice
+| bip_39_word_new_line_3 | advice
 fever
 uphold |  
-| bip_39_word_new_line4 | advice
+| bip_39_word_new_line_4 | advice
 fever
 uphold
 target |  
-| bip_39_word_new_line5 | advice
+| bip_39_word_new_line_5 | advice
 fever
 uphold
 target
 giggle |  
-| bip_39_word_new_line6 | advice
+| bip_39_word_new_line_6 | advice
 fever
 uphold
 target
 giggle
 note |  
-| bip_39_word_new_line7 | advice
+| bip_39_word_new_line_7 | advice
 fever
 uphold
 target
 giggle
 note
 gorilla |  
-| bip_39_word_new_line8 | advice
+| bip_39_word_new_line_8 | advice
 fever
 uphold
 target
@@ -113,7 +113,7 @@ giggle
 note
 gorilla
 gospel |  
-| bip_39_word_new_line9 | advice
+| bip_39_word_new_line_9 | advice
 fever
 uphold
 target

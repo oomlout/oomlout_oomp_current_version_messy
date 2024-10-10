@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | attitude |  
-| bip_39_word_new_br10 | attitude<br>upper<br>payment<br>churn<br>client<br>excite<br>trust<br>pear<br>love<br>high |  
-| bip_39_word_new_br11 | attitude<br>upper<br>payment<br>churn<br>client<br>excite<br>trust<br>pear<br>love<br>high<br>repeat |  
-| bip_39_word_new_br12 | attitude<br>upper<br>payment<br>churn<br>client<br>excite<br>trust<br>pear<br>love<br>high<br>repeat<br>aunt |  
-| bip_39_word_new_br2 | attitude<br>upper |  
-| bip_39_word_new_br3 | attitude<br>upper<br>payment |  
-| bip_39_word_new_br4 | attitude<br>upper<br>payment<br>churn |  
-| bip_39_word_new_br5 | attitude<br>upper<br>payment<br>churn<br>client |  
-| bip_39_word_new_br6 | attitude<br>upper<br>payment<br>churn<br>client<br>excite |  
-| bip_39_word_new_br7 | attitude<br>upper<br>payment<br>churn<br>client<br>excite<br>trust |  
-| bip_39_word_new_br8 | attitude<br>upper<br>payment<br>churn<br>client<br>excite<br>trust<br>pear |  
-| bip_39_word_new_br9 | attitude<br>upper<br>payment<br>churn<br>client<br>excite<br>trust<br>pear<br>love |  
-| bip_39_word_new_line1 | attitude |  
-| bip_39_word_new_line10 | attitude
+| bip_39_word_new_br_1 | attitude |  
+| bip_39_word_new_br_10 | attitude<br>upper<br>payment<br>churn<br>client<br>excite<br>trust<br>pear<br>love<br>high |  
+| bip_39_word_new_br_11 | attitude<br>upper<br>payment<br>churn<br>client<br>excite<br>trust<br>pear<br>love<br>high<br>repeat |  
+| bip_39_word_new_br_12 | attitude<br>upper<br>payment<br>churn<br>client<br>excite<br>trust<br>pear<br>love<br>high<br>repeat<br>aunt |  
+| bip_39_word_new_br_2 | attitude<br>upper |  
+| bip_39_word_new_br_3 | attitude<br>upper<br>payment |  
+| bip_39_word_new_br_4 | attitude<br>upper<br>payment<br>churn |  
+| bip_39_word_new_br_5 | attitude<br>upper<br>payment<br>churn<br>client |  
+| bip_39_word_new_br_6 | attitude<br>upper<br>payment<br>churn<br>client<br>excite |  
+| bip_39_word_new_br_7 | attitude<br>upper<br>payment<br>churn<br>client<br>excite<br>trust |  
+| bip_39_word_new_br_8 | attitude<br>upper<br>payment<br>churn<br>client<br>excite<br>trust<br>pear |  
+| bip_39_word_new_br_9 | attitude<br>upper<br>payment<br>churn<br>client<br>excite<br>trust<br>pear<br>love |  
+| bip_39_word_new_line_1 | attitude |  
+| bip_39_word_new_line_10 | attitude
 upper
 payment
 churn
@@ -55,7 +55,7 @@ trust
 pear
 love
 high |  
-| bip_39_word_new_line11 | attitude
+| bip_39_word_new_line_11 | attitude
 upper
 payment
 churn
@@ -66,7 +66,7 @@ pear
 love
 high
 repeat |  
-| bip_39_word_new_line12 | attitude
+| bip_39_word_new_line_12 | attitude
 upper
 payment
 churn
@@ -78,34 +78,34 @@ love
 high
 repeat
 aunt |  
-| bip_39_word_new_line2 | attitude
+| bip_39_word_new_line_2 | attitude
 upper |  
-| bip_39_word_new_line3 | attitude
+| bip_39_word_new_line_3 | attitude
 upper
 payment |  
-| bip_39_word_new_line4 | attitude
+| bip_39_word_new_line_4 | attitude
 upper
 payment
 churn |  
-| bip_39_word_new_line5 | attitude
+| bip_39_word_new_line_5 | attitude
 upper
 payment
 churn
 client |  
-| bip_39_word_new_line6 | attitude
+| bip_39_word_new_line_6 | attitude
 upper
 payment
 churn
 client
 excite |  
-| bip_39_word_new_line7 | attitude
+| bip_39_word_new_line_7 | attitude
 upper
 payment
 churn
 client
 excite
 trust |  
-| bip_39_word_new_line8 | attitude
+| bip_39_word_new_line_8 | attitude
 upper
 payment
 churn
@@ -113,7 +113,7 @@ client
 excite
 trust
 pear |  
-| bip_39_word_new_line9 | attitude
+| bip_39_word_new_line_9 | attitude
 upper
 payment
 churn

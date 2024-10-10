@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hidden |  
-| bip_39_word_new_br10 | hidden<br>element<br>blossom<br>year<br>evolve<br>wink<br>pave<br>news<br>flat<br>course |  
-| bip_39_word_new_br11 | hidden<br>element<br>blossom<br>year<br>evolve<br>wink<br>pave<br>news<br>flat<br>course<br>video |  
-| bip_39_word_new_br12 | hidden<br>element<br>blossom<br>year<br>evolve<br>wink<br>pave<br>news<br>flat<br>course<br>video<br>announce |  
-| bip_39_word_new_br2 | hidden<br>element |  
-| bip_39_word_new_br3 | hidden<br>element<br>blossom |  
-| bip_39_word_new_br4 | hidden<br>element<br>blossom<br>year |  
-| bip_39_word_new_br5 | hidden<br>element<br>blossom<br>year<br>evolve |  
-| bip_39_word_new_br6 | hidden<br>element<br>blossom<br>year<br>evolve<br>wink |  
-| bip_39_word_new_br7 | hidden<br>element<br>blossom<br>year<br>evolve<br>wink<br>pave |  
-| bip_39_word_new_br8 | hidden<br>element<br>blossom<br>year<br>evolve<br>wink<br>pave<br>news |  
-| bip_39_word_new_br9 | hidden<br>element<br>blossom<br>year<br>evolve<br>wink<br>pave<br>news<br>flat |  
-| bip_39_word_new_line1 | hidden |  
-| bip_39_word_new_line10 | hidden
+| bip_39_word_new_br_1 | hidden |  
+| bip_39_word_new_br_10 | hidden<br>element<br>blossom<br>year<br>evolve<br>wink<br>pave<br>news<br>flat<br>course |  
+| bip_39_word_new_br_11 | hidden<br>element<br>blossom<br>year<br>evolve<br>wink<br>pave<br>news<br>flat<br>course<br>video |  
+| bip_39_word_new_br_12 | hidden<br>element<br>blossom<br>year<br>evolve<br>wink<br>pave<br>news<br>flat<br>course<br>video<br>announce |  
+| bip_39_word_new_br_2 | hidden<br>element |  
+| bip_39_word_new_br_3 | hidden<br>element<br>blossom |  
+| bip_39_word_new_br_4 | hidden<br>element<br>blossom<br>year |  
+| bip_39_word_new_br_5 | hidden<br>element<br>blossom<br>year<br>evolve |  
+| bip_39_word_new_br_6 | hidden<br>element<br>blossom<br>year<br>evolve<br>wink |  
+| bip_39_word_new_br_7 | hidden<br>element<br>blossom<br>year<br>evolve<br>wink<br>pave |  
+| bip_39_word_new_br_8 | hidden<br>element<br>blossom<br>year<br>evolve<br>wink<br>pave<br>news |  
+| bip_39_word_new_br_9 | hidden<br>element<br>blossom<br>year<br>evolve<br>wink<br>pave<br>news<br>flat |  
+| bip_39_word_new_line_1 | hidden |  
+| bip_39_word_new_line_10 | hidden
 element
 blossom
 year
@@ -55,7 +55,7 @@ pave
 news
 flat
 course |  
-| bip_39_word_new_line11 | hidden
+| bip_39_word_new_line_11 | hidden
 element
 blossom
 year
@@ -66,7 +66,7 @@ news
 flat
 course
 video |  
-| bip_39_word_new_line12 | hidden
+| bip_39_word_new_line_12 | hidden
 element
 blossom
 year
@@ -78,34 +78,34 @@ flat
 course
 video
 announce |  
-| bip_39_word_new_line2 | hidden
+| bip_39_word_new_line_2 | hidden
 element |  
-| bip_39_word_new_line3 | hidden
+| bip_39_word_new_line_3 | hidden
 element
 blossom |  
-| bip_39_word_new_line4 | hidden
+| bip_39_word_new_line_4 | hidden
 element
 blossom
 year |  
-| bip_39_word_new_line5 | hidden
+| bip_39_word_new_line_5 | hidden
 element
 blossom
 year
 evolve |  
-| bip_39_word_new_line6 | hidden
+| bip_39_word_new_line_6 | hidden
 element
 blossom
 year
 evolve
 wink |  
-| bip_39_word_new_line7 | hidden
+| bip_39_word_new_line_7 | hidden
 element
 blossom
 year
 evolve
 wink
 pave |  
-| bip_39_word_new_line8 | hidden
+| bip_39_word_new_line_8 | hidden
 element
 blossom
 year
@@ -113,7 +113,7 @@ evolve
 wink
 pave
 news |  
-| bip_39_word_new_line9 | hidden
+| bip_39_word_new_line_9 | hidden
 element
 blossom
 year

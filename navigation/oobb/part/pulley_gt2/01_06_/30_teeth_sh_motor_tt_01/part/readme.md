@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | method |  
-| bip_39_word_new_br10 | method<br>alpha<br>asthma<br>onion<br>business<br>motor<br>area<br>calm<br>receive<br>occur |  
-| bip_39_word_new_br11 | method<br>alpha<br>asthma<br>onion<br>business<br>motor<br>area<br>calm<br>receive<br>occur<br>maximum |  
-| bip_39_word_new_br12 | method<br>alpha<br>asthma<br>onion<br>business<br>motor<br>area<br>calm<br>receive<br>occur<br>maximum<br>again |  
-| bip_39_word_new_br2 | method<br>alpha |  
-| bip_39_word_new_br3 | method<br>alpha<br>asthma |  
-| bip_39_word_new_br4 | method<br>alpha<br>asthma<br>onion |  
-| bip_39_word_new_br5 | method<br>alpha<br>asthma<br>onion<br>business |  
-| bip_39_word_new_br6 | method<br>alpha<br>asthma<br>onion<br>business<br>motor |  
-| bip_39_word_new_br7 | method<br>alpha<br>asthma<br>onion<br>business<br>motor<br>area |  
-| bip_39_word_new_br8 | method<br>alpha<br>asthma<br>onion<br>business<br>motor<br>area<br>calm |  
-| bip_39_word_new_br9 | method<br>alpha<br>asthma<br>onion<br>business<br>motor<br>area<br>calm<br>receive |  
-| bip_39_word_new_line1 | method |  
-| bip_39_word_new_line10 | method
+| bip_39_word_new_br_1 | method |  
+| bip_39_word_new_br_10 | method<br>alpha<br>asthma<br>onion<br>business<br>motor<br>area<br>calm<br>receive<br>occur |  
+| bip_39_word_new_br_11 | method<br>alpha<br>asthma<br>onion<br>business<br>motor<br>area<br>calm<br>receive<br>occur<br>maximum |  
+| bip_39_word_new_br_12 | method<br>alpha<br>asthma<br>onion<br>business<br>motor<br>area<br>calm<br>receive<br>occur<br>maximum<br>again |  
+| bip_39_word_new_br_2 | method<br>alpha |  
+| bip_39_word_new_br_3 | method<br>alpha<br>asthma |  
+| bip_39_word_new_br_4 | method<br>alpha<br>asthma<br>onion |  
+| bip_39_word_new_br_5 | method<br>alpha<br>asthma<br>onion<br>business |  
+| bip_39_word_new_br_6 | method<br>alpha<br>asthma<br>onion<br>business<br>motor |  
+| bip_39_word_new_br_7 | method<br>alpha<br>asthma<br>onion<br>business<br>motor<br>area |  
+| bip_39_word_new_br_8 | method<br>alpha<br>asthma<br>onion<br>business<br>motor<br>area<br>calm |  
+| bip_39_word_new_br_9 | method<br>alpha<br>asthma<br>onion<br>business<br>motor<br>area<br>calm<br>receive |  
+| bip_39_word_new_line_1 | method |  
+| bip_39_word_new_line_10 | method
 alpha
 asthma
 onion
@@ -55,7 +55,7 @@ area
 calm
 receive
 occur |  
-| bip_39_word_new_line11 | method
+| bip_39_word_new_line_11 | method
 alpha
 asthma
 onion
@@ -66,7 +66,7 @@ calm
 receive
 occur
 maximum |  
-| bip_39_word_new_line12 | method
+| bip_39_word_new_line_12 | method
 alpha
 asthma
 onion
@@ -78,34 +78,34 @@ receive
 occur
 maximum
 again |  
-| bip_39_word_new_line2 | method
+| bip_39_word_new_line_2 | method
 alpha |  
-| bip_39_word_new_line3 | method
+| bip_39_word_new_line_3 | method
 alpha
 asthma |  
-| bip_39_word_new_line4 | method
+| bip_39_word_new_line_4 | method
 alpha
 asthma
 onion |  
-| bip_39_word_new_line5 | method
+| bip_39_word_new_line_5 | method
 alpha
 asthma
 onion
 business |  
-| bip_39_word_new_line6 | method
+| bip_39_word_new_line_6 | method
 alpha
 asthma
 onion
 business
 motor |  
-| bip_39_word_new_line7 | method
+| bip_39_word_new_line_7 | method
 alpha
 asthma
 onion
 business
 motor
 area |  
-| bip_39_word_new_line8 | method
+| bip_39_word_new_line_8 | method
 alpha
 asthma
 onion
@@ -113,7 +113,7 @@ business
 motor
 area
 calm |  
-| bip_39_word_new_line9 | method
+| bip_39_word_new_line_9 | method
 alpha
 asthma
 onion

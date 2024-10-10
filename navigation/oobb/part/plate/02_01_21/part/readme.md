@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | casual |  
-| bip_39_word_new_br10 | casual<br>junior<br>ill<br>letter<br>uncle<br>spirit<br>bridge<br>angle<br>metal<br>force |  
-| bip_39_word_new_br11 | casual<br>junior<br>ill<br>letter<br>uncle<br>spirit<br>bridge<br>angle<br>metal<br>force<br>neutral |  
-| bip_39_word_new_br12 | casual<br>junior<br>ill<br>letter<br>uncle<br>spirit<br>bridge<br>angle<br>metal<br>force<br>neutral<br>anger |  
-| bip_39_word_new_br2 | casual<br>junior |  
-| bip_39_word_new_br3 | casual<br>junior<br>ill |  
-| bip_39_word_new_br4 | casual<br>junior<br>ill<br>letter |  
-| bip_39_word_new_br5 | casual<br>junior<br>ill<br>letter<br>uncle |  
-| bip_39_word_new_br6 | casual<br>junior<br>ill<br>letter<br>uncle<br>spirit |  
-| bip_39_word_new_br7 | casual<br>junior<br>ill<br>letter<br>uncle<br>spirit<br>bridge |  
-| bip_39_word_new_br8 | casual<br>junior<br>ill<br>letter<br>uncle<br>spirit<br>bridge<br>angle |  
-| bip_39_word_new_br9 | casual<br>junior<br>ill<br>letter<br>uncle<br>spirit<br>bridge<br>angle<br>metal |  
-| bip_39_word_new_line1 | casual |  
-| bip_39_word_new_line10 | casual
+| bip_39_word_new_br_1 | casual |  
+| bip_39_word_new_br_10 | casual<br>junior<br>ill<br>letter<br>uncle<br>spirit<br>bridge<br>angle<br>metal<br>force |  
+| bip_39_word_new_br_11 | casual<br>junior<br>ill<br>letter<br>uncle<br>spirit<br>bridge<br>angle<br>metal<br>force<br>neutral |  
+| bip_39_word_new_br_12 | casual<br>junior<br>ill<br>letter<br>uncle<br>spirit<br>bridge<br>angle<br>metal<br>force<br>neutral<br>anger |  
+| bip_39_word_new_br_2 | casual<br>junior |  
+| bip_39_word_new_br_3 | casual<br>junior<br>ill |  
+| bip_39_word_new_br_4 | casual<br>junior<br>ill<br>letter |  
+| bip_39_word_new_br_5 | casual<br>junior<br>ill<br>letter<br>uncle |  
+| bip_39_word_new_br_6 | casual<br>junior<br>ill<br>letter<br>uncle<br>spirit |  
+| bip_39_word_new_br_7 | casual<br>junior<br>ill<br>letter<br>uncle<br>spirit<br>bridge |  
+| bip_39_word_new_br_8 | casual<br>junior<br>ill<br>letter<br>uncle<br>spirit<br>bridge<br>angle |  
+| bip_39_word_new_br_9 | casual<br>junior<br>ill<br>letter<br>uncle<br>spirit<br>bridge<br>angle<br>metal |  
+| bip_39_word_new_line_1 | casual |  
+| bip_39_word_new_line_10 | casual
 junior
 ill
 letter
@@ -55,7 +55,7 @@ bridge
 angle
 metal
 force |  
-| bip_39_word_new_line11 | casual
+| bip_39_word_new_line_11 | casual
 junior
 ill
 letter
@@ -66,7 +66,7 @@ angle
 metal
 force
 neutral |  
-| bip_39_word_new_line12 | casual
+| bip_39_word_new_line_12 | casual
 junior
 ill
 letter
@@ -78,34 +78,34 @@ metal
 force
 neutral
 anger |  
-| bip_39_word_new_line2 | casual
+| bip_39_word_new_line_2 | casual
 junior |  
-| bip_39_word_new_line3 | casual
+| bip_39_word_new_line_3 | casual
 junior
 ill |  
-| bip_39_word_new_line4 | casual
+| bip_39_word_new_line_4 | casual
 junior
 ill
 letter |  
-| bip_39_word_new_line5 | casual
+| bip_39_word_new_line_5 | casual
 junior
 ill
 letter
 uncle |  
-| bip_39_word_new_line6 | casual
+| bip_39_word_new_line_6 | casual
 junior
 ill
 letter
 uncle
 spirit |  
-| bip_39_word_new_line7 | casual
+| bip_39_word_new_line_7 | casual
 junior
 ill
 letter
 uncle
 spirit
 bridge |  
-| bip_39_word_new_line8 | casual
+| bip_39_word_new_line_8 | casual
 junior
 ill
 letter
@@ -113,7 +113,7 @@ uncle
 spirit
 bridge
 angle |  
-| bip_39_word_new_line9 | casual
+| bip_39_word_new_line_9 | casual
 junior
 ill
 letter

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | uncover |  
-| bip_39_word_new_br10 | uncover<br>best<br>favorite<br>code<br>chicken<br>city<br>differ<br>civil<br>useful<br>language |  
-| bip_39_word_new_br11 | uncover<br>best<br>favorite<br>code<br>chicken<br>city<br>differ<br>civil<br>useful<br>language<br>fringe |  
-| bip_39_word_new_br12 | uncover<br>best<br>favorite<br>code<br>chicken<br>city<br>differ<br>civil<br>useful<br>language<br>fringe<br>absorb |  
-| bip_39_word_new_br2 | uncover<br>best |  
-| bip_39_word_new_br3 | uncover<br>best<br>favorite |  
-| bip_39_word_new_br4 | uncover<br>best<br>favorite<br>code |  
-| bip_39_word_new_br5 | uncover<br>best<br>favorite<br>code<br>chicken |  
-| bip_39_word_new_br6 | uncover<br>best<br>favorite<br>code<br>chicken<br>city |  
-| bip_39_word_new_br7 | uncover<br>best<br>favorite<br>code<br>chicken<br>city<br>differ |  
-| bip_39_word_new_br8 | uncover<br>best<br>favorite<br>code<br>chicken<br>city<br>differ<br>civil |  
-| bip_39_word_new_br9 | uncover<br>best<br>favorite<br>code<br>chicken<br>city<br>differ<br>civil<br>useful |  
-| bip_39_word_new_line1 | uncover |  
-| bip_39_word_new_line10 | uncover
+| bip_39_word_new_br_1 | uncover |  
+| bip_39_word_new_br_10 | uncover<br>best<br>favorite<br>code<br>chicken<br>city<br>differ<br>civil<br>useful<br>language |  
+| bip_39_word_new_br_11 | uncover<br>best<br>favorite<br>code<br>chicken<br>city<br>differ<br>civil<br>useful<br>language<br>fringe |  
+| bip_39_word_new_br_12 | uncover<br>best<br>favorite<br>code<br>chicken<br>city<br>differ<br>civil<br>useful<br>language<br>fringe<br>absorb |  
+| bip_39_word_new_br_2 | uncover<br>best |  
+| bip_39_word_new_br_3 | uncover<br>best<br>favorite |  
+| bip_39_word_new_br_4 | uncover<br>best<br>favorite<br>code |  
+| bip_39_word_new_br_5 | uncover<br>best<br>favorite<br>code<br>chicken |  
+| bip_39_word_new_br_6 | uncover<br>best<br>favorite<br>code<br>chicken<br>city |  
+| bip_39_word_new_br_7 | uncover<br>best<br>favorite<br>code<br>chicken<br>city<br>differ |  
+| bip_39_word_new_br_8 | uncover<br>best<br>favorite<br>code<br>chicken<br>city<br>differ<br>civil |  
+| bip_39_word_new_br_9 | uncover<br>best<br>favorite<br>code<br>chicken<br>city<br>differ<br>civil<br>useful |  
+| bip_39_word_new_line_1 | uncover |  
+| bip_39_word_new_line_10 | uncover
 best
 favorite
 code
@@ -55,7 +55,7 @@ differ
 civil
 useful
 language |  
-| bip_39_word_new_line11 | uncover
+| bip_39_word_new_line_11 | uncover
 best
 favorite
 code
@@ -66,7 +66,7 @@ civil
 useful
 language
 fringe |  
-| bip_39_word_new_line12 | uncover
+| bip_39_word_new_line_12 | uncover
 best
 favorite
 code
@@ -78,34 +78,34 @@ useful
 language
 fringe
 absorb |  
-| bip_39_word_new_line2 | uncover
+| bip_39_word_new_line_2 | uncover
 best |  
-| bip_39_word_new_line3 | uncover
+| bip_39_word_new_line_3 | uncover
 best
 favorite |  
-| bip_39_word_new_line4 | uncover
+| bip_39_word_new_line_4 | uncover
 best
 favorite
 code |  
-| bip_39_word_new_line5 | uncover
+| bip_39_word_new_line_5 | uncover
 best
 favorite
 code
 chicken |  
-| bip_39_word_new_line6 | uncover
+| bip_39_word_new_line_6 | uncover
 best
 favorite
 code
 chicken
 city |  
-| bip_39_word_new_line7 | uncover
+| bip_39_word_new_line_7 | uncover
 best
 favorite
 code
 chicken
 city
 differ |  
-| bip_39_word_new_line8 | uncover
+| bip_39_word_new_line_8 | uncover
 best
 favorite
 code
@@ -113,7 +113,7 @@ chicken
 city
 differ
 civil |  
-| bip_39_word_new_line9 | uncover
+| bip_39_word_new_line_9 | uncover
 best
 favorite
 code

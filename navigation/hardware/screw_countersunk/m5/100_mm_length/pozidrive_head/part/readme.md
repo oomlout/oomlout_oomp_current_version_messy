@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fit |  
-| bip_39_word_new_br10 | fit<br>decade<br>sick<br>sound<br>moral<br>decorate<br>base<br>uphold<br>rigid<br>gravity |  
-| bip_39_word_new_br11 | fit<br>decade<br>sick<br>sound<br>moral<br>decorate<br>base<br>uphold<br>rigid<br>gravity<br>hole |  
-| bip_39_word_new_br12 | fit<br>decade<br>sick<br>sound<br>moral<br>decorate<br>base<br>uphold<br>rigid<br>gravity<br>hole<br>atom |  
-| bip_39_word_new_br2 | fit<br>decade |  
-| bip_39_word_new_br3 | fit<br>decade<br>sick |  
-| bip_39_word_new_br4 | fit<br>decade<br>sick<br>sound |  
-| bip_39_word_new_br5 | fit<br>decade<br>sick<br>sound<br>moral |  
-| bip_39_word_new_br6 | fit<br>decade<br>sick<br>sound<br>moral<br>decorate |  
-| bip_39_word_new_br7 | fit<br>decade<br>sick<br>sound<br>moral<br>decorate<br>base |  
-| bip_39_word_new_br8 | fit<br>decade<br>sick<br>sound<br>moral<br>decorate<br>base<br>uphold |  
-| bip_39_word_new_br9 | fit<br>decade<br>sick<br>sound<br>moral<br>decorate<br>base<br>uphold<br>rigid |  
-| bip_39_word_new_line1 | fit |  
-| bip_39_word_new_line10 | fit
+| bip_39_word_new_br_1 | fit |  
+| bip_39_word_new_br_10 | fit<br>decade<br>sick<br>sound<br>moral<br>decorate<br>base<br>uphold<br>rigid<br>gravity |  
+| bip_39_word_new_br_11 | fit<br>decade<br>sick<br>sound<br>moral<br>decorate<br>base<br>uphold<br>rigid<br>gravity<br>hole |  
+| bip_39_word_new_br_12 | fit<br>decade<br>sick<br>sound<br>moral<br>decorate<br>base<br>uphold<br>rigid<br>gravity<br>hole<br>atom |  
+| bip_39_word_new_br_2 | fit<br>decade |  
+| bip_39_word_new_br_3 | fit<br>decade<br>sick |  
+| bip_39_word_new_br_4 | fit<br>decade<br>sick<br>sound |  
+| bip_39_word_new_br_5 | fit<br>decade<br>sick<br>sound<br>moral |  
+| bip_39_word_new_br_6 | fit<br>decade<br>sick<br>sound<br>moral<br>decorate |  
+| bip_39_word_new_br_7 | fit<br>decade<br>sick<br>sound<br>moral<br>decorate<br>base |  
+| bip_39_word_new_br_8 | fit<br>decade<br>sick<br>sound<br>moral<br>decorate<br>base<br>uphold |  
+| bip_39_word_new_br_9 | fit<br>decade<br>sick<br>sound<br>moral<br>decorate<br>base<br>uphold<br>rigid |  
+| bip_39_word_new_line_1 | fit |  
+| bip_39_word_new_line_10 | fit
 decade
 sick
 sound
@@ -55,7 +55,7 @@ base
 uphold
 rigid
 gravity |  
-| bip_39_word_new_line11 | fit
+| bip_39_word_new_line_11 | fit
 decade
 sick
 sound
@@ -66,7 +66,7 @@ uphold
 rigid
 gravity
 hole |  
-| bip_39_word_new_line12 | fit
+| bip_39_word_new_line_12 | fit
 decade
 sick
 sound
@@ -78,34 +78,34 @@ rigid
 gravity
 hole
 atom |  
-| bip_39_word_new_line2 | fit
+| bip_39_word_new_line_2 | fit
 decade |  
-| bip_39_word_new_line3 | fit
+| bip_39_word_new_line_3 | fit
 decade
 sick |  
-| bip_39_word_new_line4 | fit
+| bip_39_word_new_line_4 | fit
 decade
 sick
 sound |  
-| bip_39_word_new_line5 | fit
+| bip_39_word_new_line_5 | fit
 decade
 sick
 sound
 moral |  
-| bip_39_word_new_line6 | fit
+| bip_39_word_new_line_6 | fit
 decade
 sick
 sound
 moral
 decorate |  
-| bip_39_word_new_line7 | fit
+| bip_39_word_new_line_7 | fit
 decade
 sick
 sound
 moral
 decorate
 base |  
-| bip_39_word_new_line8 | fit
+| bip_39_word_new_line_8 | fit
 decade
 sick
 sound
@@ -113,7 +113,7 @@ moral
 decorate
 base
 uphold |  
-| bip_39_word_new_line9 | fit
+| bip_39_word_new_line_9 | fit
 decade
 sick
 sound

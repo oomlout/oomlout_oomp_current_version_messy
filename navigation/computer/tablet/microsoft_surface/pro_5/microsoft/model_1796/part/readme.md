@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | robust |  
-| bip_39_word_new_br10 | robust<br>wool<br>point<br>vicious<br>visit<br>explain<br>bright<br>cover<br>jaguar<br>fantasy |  
-| bip_39_word_new_br11 | robust<br>wool<br>point<br>vicious<br>visit<br>explain<br>bright<br>cover<br>jaguar<br>fantasy<br>child |  
-| bip_39_word_new_br12 | robust<br>wool<br>point<br>vicious<br>visit<br>explain<br>bright<br>cover<br>jaguar<br>fantasy<br>child<br>army |  
-| bip_39_word_new_br2 | robust<br>wool |  
-| bip_39_word_new_br3 | robust<br>wool<br>point |  
-| bip_39_word_new_br4 | robust<br>wool<br>point<br>vicious |  
-| bip_39_word_new_br5 | robust<br>wool<br>point<br>vicious<br>visit |  
-| bip_39_word_new_br6 | robust<br>wool<br>point<br>vicious<br>visit<br>explain |  
-| bip_39_word_new_br7 | robust<br>wool<br>point<br>vicious<br>visit<br>explain<br>bright |  
-| bip_39_word_new_br8 | robust<br>wool<br>point<br>vicious<br>visit<br>explain<br>bright<br>cover |  
-| bip_39_word_new_br9 | robust<br>wool<br>point<br>vicious<br>visit<br>explain<br>bright<br>cover<br>jaguar |  
-| bip_39_word_new_line1 | robust |  
-| bip_39_word_new_line10 | robust
+| bip_39_word_new_br_1 | robust |  
+| bip_39_word_new_br_10 | robust<br>wool<br>point<br>vicious<br>visit<br>explain<br>bright<br>cover<br>jaguar<br>fantasy |  
+| bip_39_word_new_br_11 | robust<br>wool<br>point<br>vicious<br>visit<br>explain<br>bright<br>cover<br>jaguar<br>fantasy<br>child |  
+| bip_39_word_new_br_12 | robust<br>wool<br>point<br>vicious<br>visit<br>explain<br>bright<br>cover<br>jaguar<br>fantasy<br>child<br>army |  
+| bip_39_word_new_br_2 | robust<br>wool |  
+| bip_39_word_new_br_3 | robust<br>wool<br>point |  
+| bip_39_word_new_br_4 | robust<br>wool<br>point<br>vicious |  
+| bip_39_word_new_br_5 | robust<br>wool<br>point<br>vicious<br>visit |  
+| bip_39_word_new_br_6 | robust<br>wool<br>point<br>vicious<br>visit<br>explain |  
+| bip_39_word_new_br_7 | robust<br>wool<br>point<br>vicious<br>visit<br>explain<br>bright |  
+| bip_39_word_new_br_8 | robust<br>wool<br>point<br>vicious<br>visit<br>explain<br>bright<br>cover |  
+| bip_39_word_new_br_9 | robust<br>wool<br>point<br>vicious<br>visit<br>explain<br>bright<br>cover<br>jaguar |  
+| bip_39_word_new_line_1 | robust |  
+| bip_39_word_new_line_10 | robust
 wool
 point
 vicious
@@ -55,7 +55,7 @@ bright
 cover
 jaguar
 fantasy |  
-| bip_39_word_new_line11 | robust
+| bip_39_word_new_line_11 | robust
 wool
 point
 vicious
@@ -66,7 +66,7 @@ cover
 jaguar
 fantasy
 child |  
-| bip_39_word_new_line12 | robust
+| bip_39_word_new_line_12 | robust
 wool
 point
 vicious
@@ -78,34 +78,34 @@ jaguar
 fantasy
 child
 army |  
-| bip_39_word_new_line2 | robust
+| bip_39_word_new_line_2 | robust
 wool |  
-| bip_39_word_new_line3 | robust
+| bip_39_word_new_line_3 | robust
 wool
 point |  
-| bip_39_word_new_line4 | robust
+| bip_39_word_new_line_4 | robust
 wool
 point
 vicious |  
-| bip_39_word_new_line5 | robust
+| bip_39_word_new_line_5 | robust
 wool
 point
 vicious
 visit |  
-| bip_39_word_new_line6 | robust
+| bip_39_word_new_line_6 | robust
 wool
 point
 vicious
 visit
 explain |  
-| bip_39_word_new_line7 | robust
+| bip_39_word_new_line_7 | robust
 wool
 point
 vicious
 visit
 explain
 bright |  
-| bip_39_word_new_line8 | robust
+| bip_39_word_new_line_8 | robust
 wool
 point
 vicious
@@ -113,7 +113,7 @@ visit
 explain
 bright
 cover |  
-| bip_39_word_new_line9 | robust
+| bip_39_word_new_line_9 | robust
 wool
 point
 vicious

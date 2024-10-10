@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | tennis |  
-| bip_39_word_new_br10 | tennis<br>put<br>chair<br>master<br>settle<br>image<br>cricket<br>cross<br>misery<br>sample |  
-| bip_39_word_new_br11 | tennis<br>put<br>chair<br>master<br>settle<br>image<br>cricket<br>cross<br>misery<br>sample<br>army |  
-| bip_39_word_new_br12 | tennis<br>put<br>chair<br>master<br>settle<br>image<br>cricket<br>cross<br>misery<br>sample<br>army<br>attract |  
-| bip_39_word_new_br2 | tennis<br>put |  
-| bip_39_word_new_br3 | tennis<br>put<br>chair |  
-| bip_39_word_new_br4 | tennis<br>put<br>chair<br>master |  
-| bip_39_word_new_br5 | tennis<br>put<br>chair<br>master<br>settle |  
-| bip_39_word_new_br6 | tennis<br>put<br>chair<br>master<br>settle<br>image |  
-| bip_39_word_new_br7 | tennis<br>put<br>chair<br>master<br>settle<br>image<br>cricket |  
-| bip_39_word_new_br8 | tennis<br>put<br>chair<br>master<br>settle<br>image<br>cricket<br>cross |  
-| bip_39_word_new_br9 | tennis<br>put<br>chair<br>master<br>settle<br>image<br>cricket<br>cross<br>misery |  
-| bip_39_word_new_line1 | tennis |  
-| bip_39_word_new_line10 | tennis
+| bip_39_word_new_br_1 | tennis |  
+| bip_39_word_new_br_10 | tennis<br>put<br>chair<br>master<br>settle<br>image<br>cricket<br>cross<br>misery<br>sample |  
+| bip_39_word_new_br_11 | tennis<br>put<br>chair<br>master<br>settle<br>image<br>cricket<br>cross<br>misery<br>sample<br>army |  
+| bip_39_word_new_br_12 | tennis<br>put<br>chair<br>master<br>settle<br>image<br>cricket<br>cross<br>misery<br>sample<br>army<br>attract |  
+| bip_39_word_new_br_2 | tennis<br>put |  
+| bip_39_word_new_br_3 | tennis<br>put<br>chair |  
+| bip_39_word_new_br_4 | tennis<br>put<br>chair<br>master |  
+| bip_39_word_new_br_5 | tennis<br>put<br>chair<br>master<br>settle |  
+| bip_39_word_new_br_6 | tennis<br>put<br>chair<br>master<br>settle<br>image |  
+| bip_39_word_new_br_7 | tennis<br>put<br>chair<br>master<br>settle<br>image<br>cricket |  
+| bip_39_word_new_br_8 | tennis<br>put<br>chair<br>master<br>settle<br>image<br>cricket<br>cross |  
+| bip_39_word_new_br_9 | tennis<br>put<br>chair<br>master<br>settle<br>image<br>cricket<br>cross<br>misery |  
+| bip_39_word_new_line_1 | tennis |  
+| bip_39_word_new_line_10 | tennis
 put
 chair
 master
@@ -55,7 +55,7 @@ cricket
 cross
 misery
 sample |  
-| bip_39_word_new_line11 | tennis
+| bip_39_word_new_line_11 | tennis
 put
 chair
 master
@@ -66,7 +66,7 @@ cross
 misery
 sample
 army |  
-| bip_39_word_new_line12 | tennis
+| bip_39_word_new_line_12 | tennis
 put
 chair
 master
@@ -78,34 +78,34 @@ misery
 sample
 army
 attract |  
-| bip_39_word_new_line2 | tennis
+| bip_39_word_new_line_2 | tennis
 put |  
-| bip_39_word_new_line3 | tennis
+| bip_39_word_new_line_3 | tennis
 put
 chair |  
-| bip_39_word_new_line4 | tennis
+| bip_39_word_new_line_4 | tennis
 put
 chair
 master |  
-| bip_39_word_new_line5 | tennis
+| bip_39_word_new_line_5 | tennis
 put
 chair
 master
 settle |  
-| bip_39_word_new_line6 | tennis
+| bip_39_word_new_line_6 | tennis
 put
 chair
 master
 settle
 image |  
-| bip_39_word_new_line7 | tennis
+| bip_39_word_new_line_7 | tennis
 put
 chair
 master
 settle
 image
 cricket |  
-| bip_39_word_new_line8 | tennis
+| bip_39_word_new_line_8 | tennis
 put
 chair
 master
@@ -113,7 +113,7 @@ settle
 image
 cricket
 cross |  
-| bip_39_word_new_line9 | tennis
+| bip_39_word_new_line_9 | tennis
 put
 chair
 master

@@ -33,20 +33,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | advance |  
-| bip_39_word_new_br10 | advance<br>cart<br>relax<br>inspire<br>nut<br>vocal<br>swing<br>aware<br>help<br>brave |  
-| bip_39_word_new_br11 | advance<br>cart<br>relax<br>inspire<br>nut<br>vocal<br>swing<br>aware<br>help<br>brave<br>typical |  
-| bip_39_word_new_br12 | advance<br>cart<br>relax<br>inspire<br>nut<br>vocal<br>swing<br>aware<br>help<br>brave<br>typical<br>avocado |  
-| bip_39_word_new_br2 | advance<br>cart |  
-| bip_39_word_new_br3 | advance<br>cart<br>relax |  
-| bip_39_word_new_br4 | advance<br>cart<br>relax<br>inspire |  
-| bip_39_word_new_br5 | advance<br>cart<br>relax<br>inspire<br>nut |  
-| bip_39_word_new_br6 | advance<br>cart<br>relax<br>inspire<br>nut<br>vocal |  
-| bip_39_word_new_br7 | advance<br>cart<br>relax<br>inspire<br>nut<br>vocal<br>swing |  
-| bip_39_word_new_br8 | advance<br>cart<br>relax<br>inspire<br>nut<br>vocal<br>swing<br>aware |  
-| bip_39_word_new_br9 | advance<br>cart<br>relax<br>inspire<br>nut<br>vocal<br>swing<br>aware<br>help |  
-| bip_39_word_new_line1 | advance |  
-| bip_39_word_new_line10 | advance
+| bip_39_word_new_br_1 | advance |  
+| bip_39_word_new_br_10 | advance<br>cart<br>relax<br>inspire<br>nut<br>vocal<br>swing<br>aware<br>help<br>brave |  
+| bip_39_word_new_br_11 | advance<br>cart<br>relax<br>inspire<br>nut<br>vocal<br>swing<br>aware<br>help<br>brave<br>typical |  
+| bip_39_word_new_br_12 | advance<br>cart<br>relax<br>inspire<br>nut<br>vocal<br>swing<br>aware<br>help<br>brave<br>typical<br>avocado |  
+| bip_39_word_new_br_2 | advance<br>cart |  
+| bip_39_word_new_br_3 | advance<br>cart<br>relax |  
+| bip_39_word_new_br_4 | advance<br>cart<br>relax<br>inspire |  
+| bip_39_word_new_br_5 | advance<br>cart<br>relax<br>inspire<br>nut |  
+| bip_39_word_new_br_6 | advance<br>cart<br>relax<br>inspire<br>nut<br>vocal |  
+| bip_39_word_new_br_7 | advance<br>cart<br>relax<br>inspire<br>nut<br>vocal<br>swing |  
+| bip_39_word_new_br_8 | advance<br>cart<br>relax<br>inspire<br>nut<br>vocal<br>swing<br>aware |  
+| bip_39_word_new_br_9 | advance<br>cart<br>relax<br>inspire<br>nut<br>vocal<br>swing<br>aware<br>help |  
+| bip_39_word_new_line_1 | advance |  
+| bip_39_word_new_line_10 | advance
 cart
 relax
 inspire
@@ -56,7 +56,7 @@ swing
 aware
 help
 brave |  
-| bip_39_word_new_line11 | advance
+| bip_39_word_new_line_11 | advance
 cart
 relax
 inspire
@@ -67,7 +67,7 @@ aware
 help
 brave
 typical |  
-| bip_39_word_new_line12 | advance
+| bip_39_word_new_line_12 | advance
 cart
 relax
 inspire
@@ -79,34 +79,34 @@ help
 brave
 typical
 avocado |  
-| bip_39_word_new_line2 | advance
+| bip_39_word_new_line_2 | advance
 cart |  
-| bip_39_word_new_line3 | advance
+| bip_39_word_new_line_3 | advance
 cart
 relax |  
-| bip_39_word_new_line4 | advance
+| bip_39_word_new_line_4 | advance
 cart
 relax
 inspire |  
-| bip_39_word_new_line5 | advance
+| bip_39_word_new_line_5 | advance
 cart
 relax
 inspire
 nut |  
-| bip_39_word_new_line6 | advance
+| bip_39_word_new_line_6 | advance
 cart
 relax
 inspire
 nut
 vocal |  
-| bip_39_word_new_line7 | advance
+| bip_39_word_new_line_7 | advance
 cart
 relax
 inspire
 nut
 vocal
 swing |  
-| bip_39_word_new_line8 | advance
+| bip_39_word_new_line_8 | advance
 cart
 relax
 inspire
@@ -114,7 +114,7 @@ nut
 vocal
 swing
 aware |  
-| bip_39_word_new_line9 | advance
+| bip_39_word_new_line_9 | advance
 cart
 relax
 inspire

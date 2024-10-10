@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | first |  
-| bip_39_word_new_br10 | first<br>vehicle<br>zebra<br>buddy<br>shy<br>glory<br>lumber<br>whip<br>goat<br>fashion |  
-| bip_39_word_new_br11 | first<br>vehicle<br>zebra<br>buddy<br>shy<br>glory<br>lumber<br>whip<br>goat<br>fashion<br>key |  
-| bip_39_word_new_br12 | first<br>vehicle<br>zebra<br>buddy<br>shy<br>glory<br>lumber<br>whip<br>goat<br>fashion<br>key<br>album |  
-| bip_39_word_new_br2 | first<br>vehicle |  
-| bip_39_word_new_br3 | first<br>vehicle<br>zebra |  
-| bip_39_word_new_br4 | first<br>vehicle<br>zebra<br>buddy |  
-| bip_39_word_new_br5 | first<br>vehicle<br>zebra<br>buddy<br>shy |  
-| bip_39_word_new_br6 | first<br>vehicle<br>zebra<br>buddy<br>shy<br>glory |  
-| bip_39_word_new_br7 | first<br>vehicle<br>zebra<br>buddy<br>shy<br>glory<br>lumber |  
-| bip_39_word_new_br8 | first<br>vehicle<br>zebra<br>buddy<br>shy<br>glory<br>lumber<br>whip |  
-| bip_39_word_new_br9 | first<br>vehicle<br>zebra<br>buddy<br>shy<br>glory<br>lumber<br>whip<br>goat |  
-| bip_39_word_new_line1 | first |  
-| bip_39_word_new_line10 | first
+| bip_39_word_new_br_1 | first |  
+| bip_39_word_new_br_10 | first<br>vehicle<br>zebra<br>buddy<br>shy<br>glory<br>lumber<br>whip<br>goat<br>fashion |  
+| bip_39_word_new_br_11 | first<br>vehicle<br>zebra<br>buddy<br>shy<br>glory<br>lumber<br>whip<br>goat<br>fashion<br>key |  
+| bip_39_word_new_br_12 | first<br>vehicle<br>zebra<br>buddy<br>shy<br>glory<br>lumber<br>whip<br>goat<br>fashion<br>key<br>album |  
+| bip_39_word_new_br_2 | first<br>vehicle |  
+| bip_39_word_new_br_3 | first<br>vehicle<br>zebra |  
+| bip_39_word_new_br_4 | first<br>vehicle<br>zebra<br>buddy |  
+| bip_39_word_new_br_5 | first<br>vehicle<br>zebra<br>buddy<br>shy |  
+| bip_39_word_new_br_6 | first<br>vehicle<br>zebra<br>buddy<br>shy<br>glory |  
+| bip_39_word_new_br_7 | first<br>vehicle<br>zebra<br>buddy<br>shy<br>glory<br>lumber |  
+| bip_39_word_new_br_8 | first<br>vehicle<br>zebra<br>buddy<br>shy<br>glory<br>lumber<br>whip |  
+| bip_39_word_new_br_9 | first<br>vehicle<br>zebra<br>buddy<br>shy<br>glory<br>lumber<br>whip<br>goat |  
+| bip_39_word_new_line_1 | first |  
+| bip_39_word_new_line_10 | first
 vehicle
 zebra
 buddy
@@ -55,7 +55,7 @@ lumber
 whip
 goat
 fashion |  
-| bip_39_word_new_line11 | first
+| bip_39_word_new_line_11 | first
 vehicle
 zebra
 buddy
@@ -66,7 +66,7 @@ whip
 goat
 fashion
 key |  
-| bip_39_word_new_line12 | first
+| bip_39_word_new_line_12 | first
 vehicle
 zebra
 buddy
@@ -78,34 +78,34 @@ goat
 fashion
 key
 album |  
-| bip_39_word_new_line2 | first
+| bip_39_word_new_line_2 | first
 vehicle |  
-| bip_39_word_new_line3 | first
+| bip_39_word_new_line_3 | first
 vehicle
 zebra |  
-| bip_39_word_new_line4 | first
+| bip_39_word_new_line_4 | first
 vehicle
 zebra
 buddy |  
-| bip_39_word_new_line5 | first
+| bip_39_word_new_line_5 | first
 vehicle
 zebra
 buddy
 shy |  
-| bip_39_word_new_line6 | first
+| bip_39_word_new_line_6 | first
 vehicle
 zebra
 buddy
 shy
 glory |  
-| bip_39_word_new_line7 | first
+| bip_39_word_new_line_7 | first
 vehicle
 zebra
 buddy
 shy
 glory
 lumber |  
-| bip_39_word_new_line8 | first
+| bip_39_word_new_line_8 | first
 vehicle
 zebra
 buddy
@@ -113,7 +113,7 @@ shy
 glory
 lumber
 whip |  
-| bip_39_word_new_line9 | first
+| bip_39_word_new_line_9 | first
 vehicle
 zebra
 buddy

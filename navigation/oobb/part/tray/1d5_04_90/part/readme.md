@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | develop |  
-| bip_39_word_new_br10 | develop<br>ready<br>ramp<br>emerge<br>bleak<br>traffic<br>armor<br>north<br>stuff<br>mind |  
-| bip_39_word_new_br11 | develop<br>ready<br>ramp<br>emerge<br>bleak<br>traffic<br>armor<br>north<br>stuff<br>mind<br>actress |  
-| bip_39_word_new_br12 | develop<br>ready<br>ramp<br>emerge<br>bleak<br>traffic<br>armor<br>north<br>stuff<br>mind<br>actress<br>amount |  
-| bip_39_word_new_br2 | develop<br>ready |  
-| bip_39_word_new_br3 | develop<br>ready<br>ramp |  
-| bip_39_word_new_br4 | develop<br>ready<br>ramp<br>emerge |  
-| bip_39_word_new_br5 | develop<br>ready<br>ramp<br>emerge<br>bleak |  
-| bip_39_word_new_br6 | develop<br>ready<br>ramp<br>emerge<br>bleak<br>traffic |  
-| bip_39_word_new_br7 | develop<br>ready<br>ramp<br>emerge<br>bleak<br>traffic<br>armor |  
-| bip_39_word_new_br8 | develop<br>ready<br>ramp<br>emerge<br>bleak<br>traffic<br>armor<br>north |  
-| bip_39_word_new_br9 | develop<br>ready<br>ramp<br>emerge<br>bleak<br>traffic<br>armor<br>north<br>stuff |  
-| bip_39_word_new_line1 | develop |  
-| bip_39_word_new_line10 | develop
+| bip_39_word_new_br_1 | develop |  
+| bip_39_word_new_br_10 | develop<br>ready<br>ramp<br>emerge<br>bleak<br>traffic<br>armor<br>north<br>stuff<br>mind |  
+| bip_39_word_new_br_11 | develop<br>ready<br>ramp<br>emerge<br>bleak<br>traffic<br>armor<br>north<br>stuff<br>mind<br>actress |  
+| bip_39_word_new_br_12 | develop<br>ready<br>ramp<br>emerge<br>bleak<br>traffic<br>armor<br>north<br>stuff<br>mind<br>actress<br>amount |  
+| bip_39_word_new_br_2 | develop<br>ready |  
+| bip_39_word_new_br_3 | develop<br>ready<br>ramp |  
+| bip_39_word_new_br_4 | develop<br>ready<br>ramp<br>emerge |  
+| bip_39_word_new_br_5 | develop<br>ready<br>ramp<br>emerge<br>bleak |  
+| bip_39_word_new_br_6 | develop<br>ready<br>ramp<br>emerge<br>bleak<br>traffic |  
+| bip_39_word_new_br_7 | develop<br>ready<br>ramp<br>emerge<br>bleak<br>traffic<br>armor |  
+| bip_39_word_new_br_8 | develop<br>ready<br>ramp<br>emerge<br>bleak<br>traffic<br>armor<br>north |  
+| bip_39_word_new_br_9 | develop<br>ready<br>ramp<br>emerge<br>bleak<br>traffic<br>armor<br>north<br>stuff |  
+| bip_39_word_new_line_1 | develop |  
+| bip_39_word_new_line_10 | develop
 ready
 ramp
 emerge
@@ -55,7 +55,7 @@ armor
 north
 stuff
 mind |  
-| bip_39_word_new_line11 | develop
+| bip_39_word_new_line_11 | develop
 ready
 ramp
 emerge
@@ -66,7 +66,7 @@ north
 stuff
 mind
 actress |  
-| bip_39_word_new_line12 | develop
+| bip_39_word_new_line_12 | develop
 ready
 ramp
 emerge
@@ -78,34 +78,34 @@ stuff
 mind
 actress
 amount |  
-| bip_39_word_new_line2 | develop
+| bip_39_word_new_line_2 | develop
 ready |  
-| bip_39_word_new_line3 | develop
+| bip_39_word_new_line_3 | develop
 ready
 ramp |  
-| bip_39_word_new_line4 | develop
+| bip_39_word_new_line_4 | develop
 ready
 ramp
 emerge |  
-| bip_39_word_new_line5 | develop
+| bip_39_word_new_line_5 | develop
 ready
 ramp
 emerge
 bleak |  
-| bip_39_word_new_line6 | develop
+| bip_39_word_new_line_6 | develop
 ready
 ramp
 emerge
 bleak
 traffic |  
-| bip_39_word_new_line7 | develop
+| bip_39_word_new_line_7 | develop
 ready
 ramp
 emerge
 bleak
 traffic
 armor |  
-| bip_39_word_new_line8 | develop
+| bip_39_word_new_line_8 | develop
 ready
 ramp
 emerge
@@ -113,7 +113,7 @@ bleak
 traffic
 armor
 north |  
-| bip_39_word_new_line9 | develop
+| bip_39_word_new_line_9 | develop
 ready
 ramp
 emerge

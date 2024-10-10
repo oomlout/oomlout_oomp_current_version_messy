@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | buyer |  
-| bip_39_word_new_br10 | buyer<br>shiver<br>day<br>bean<br>tiny<br>action<br>hungry<br>usage<br>flower<br>cross |  
-| bip_39_word_new_br11 | buyer<br>shiver<br>day<br>bean<br>tiny<br>action<br>hungry<br>usage<br>flower<br>cross<br>citizen |  
-| bip_39_word_new_br12 | buyer<br>shiver<br>day<br>bean<br>tiny<br>action<br>hungry<br>usage<br>flower<br>cross<br>citizen<br>angry |  
-| bip_39_word_new_br2 | buyer<br>shiver |  
-| bip_39_word_new_br3 | buyer<br>shiver<br>day |  
-| bip_39_word_new_br4 | buyer<br>shiver<br>day<br>bean |  
-| bip_39_word_new_br5 | buyer<br>shiver<br>day<br>bean<br>tiny |  
-| bip_39_word_new_br6 | buyer<br>shiver<br>day<br>bean<br>tiny<br>action |  
-| bip_39_word_new_br7 | buyer<br>shiver<br>day<br>bean<br>tiny<br>action<br>hungry |  
-| bip_39_word_new_br8 | buyer<br>shiver<br>day<br>bean<br>tiny<br>action<br>hungry<br>usage |  
-| bip_39_word_new_br9 | buyer<br>shiver<br>day<br>bean<br>tiny<br>action<br>hungry<br>usage<br>flower |  
-| bip_39_word_new_line1 | buyer |  
-| bip_39_word_new_line10 | buyer
+| bip_39_word_new_br_1 | buyer |  
+| bip_39_word_new_br_10 | buyer<br>shiver<br>day<br>bean<br>tiny<br>action<br>hungry<br>usage<br>flower<br>cross |  
+| bip_39_word_new_br_11 | buyer<br>shiver<br>day<br>bean<br>tiny<br>action<br>hungry<br>usage<br>flower<br>cross<br>citizen |  
+| bip_39_word_new_br_12 | buyer<br>shiver<br>day<br>bean<br>tiny<br>action<br>hungry<br>usage<br>flower<br>cross<br>citizen<br>angry |  
+| bip_39_word_new_br_2 | buyer<br>shiver |  
+| bip_39_word_new_br_3 | buyer<br>shiver<br>day |  
+| bip_39_word_new_br_4 | buyer<br>shiver<br>day<br>bean |  
+| bip_39_word_new_br_5 | buyer<br>shiver<br>day<br>bean<br>tiny |  
+| bip_39_word_new_br_6 | buyer<br>shiver<br>day<br>bean<br>tiny<br>action |  
+| bip_39_word_new_br_7 | buyer<br>shiver<br>day<br>bean<br>tiny<br>action<br>hungry |  
+| bip_39_word_new_br_8 | buyer<br>shiver<br>day<br>bean<br>tiny<br>action<br>hungry<br>usage |  
+| bip_39_word_new_br_9 | buyer<br>shiver<br>day<br>bean<br>tiny<br>action<br>hungry<br>usage<br>flower |  
+| bip_39_word_new_line_1 | buyer |  
+| bip_39_word_new_line_10 | buyer
 shiver
 day
 bean
@@ -55,7 +55,7 @@ hungry
 usage
 flower
 cross |  
-| bip_39_word_new_line11 | buyer
+| bip_39_word_new_line_11 | buyer
 shiver
 day
 bean
@@ -66,7 +66,7 @@ usage
 flower
 cross
 citizen |  
-| bip_39_word_new_line12 | buyer
+| bip_39_word_new_line_12 | buyer
 shiver
 day
 bean
@@ -78,34 +78,34 @@ flower
 cross
 citizen
 angry |  
-| bip_39_word_new_line2 | buyer
+| bip_39_word_new_line_2 | buyer
 shiver |  
-| bip_39_word_new_line3 | buyer
+| bip_39_word_new_line_3 | buyer
 shiver
 day |  
-| bip_39_word_new_line4 | buyer
+| bip_39_word_new_line_4 | buyer
 shiver
 day
 bean |  
-| bip_39_word_new_line5 | buyer
+| bip_39_word_new_line_5 | buyer
 shiver
 day
 bean
 tiny |  
-| bip_39_word_new_line6 | buyer
+| bip_39_word_new_line_6 | buyer
 shiver
 day
 bean
 tiny
 action |  
-| bip_39_word_new_line7 | buyer
+| bip_39_word_new_line_7 | buyer
 shiver
 day
 bean
 tiny
 action
 hungry |  
-| bip_39_word_new_line8 | buyer
+| bip_39_word_new_line_8 | buyer
 shiver
 day
 bean
@@ -113,7 +113,7 @@ tiny
 action
 hungry
 usage |  
-| bip_39_word_new_line9 | buyer
+| bip_39_word_new_line_9 | buyer
 shiver
 day
 bean

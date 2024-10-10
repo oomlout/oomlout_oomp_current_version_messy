@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pistol |  
-| bip_39_word_new_br10 | pistol<br>obscure<br>recall<br>tool<br>ill<br>talk<br>offer<br>erase<br>clean<br>best |  
-| bip_39_word_new_br11 | pistol<br>obscure<br>recall<br>tool<br>ill<br>talk<br>offer<br>erase<br>clean<br>best<br>lava |  
-| bip_39_word_new_br12 | pistol<br>obscure<br>recall<br>tool<br>ill<br>talk<br>offer<br>erase<br>clean<br>best<br>lava<br>attack |  
-| bip_39_word_new_br2 | pistol<br>obscure |  
-| bip_39_word_new_br3 | pistol<br>obscure<br>recall |  
-| bip_39_word_new_br4 | pistol<br>obscure<br>recall<br>tool |  
-| bip_39_word_new_br5 | pistol<br>obscure<br>recall<br>tool<br>ill |  
-| bip_39_word_new_br6 | pistol<br>obscure<br>recall<br>tool<br>ill<br>talk |  
-| bip_39_word_new_br7 | pistol<br>obscure<br>recall<br>tool<br>ill<br>talk<br>offer |  
-| bip_39_word_new_br8 | pistol<br>obscure<br>recall<br>tool<br>ill<br>talk<br>offer<br>erase |  
-| bip_39_word_new_br9 | pistol<br>obscure<br>recall<br>tool<br>ill<br>talk<br>offer<br>erase<br>clean |  
-| bip_39_word_new_line1 | pistol |  
-| bip_39_word_new_line10 | pistol
+| bip_39_word_new_br_1 | pistol |  
+| bip_39_word_new_br_10 | pistol<br>obscure<br>recall<br>tool<br>ill<br>talk<br>offer<br>erase<br>clean<br>best |  
+| bip_39_word_new_br_11 | pistol<br>obscure<br>recall<br>tool<br>ill<br>talk<br>offer<br>erase<br>clean<br>best<br>lava |  
+| bip_39_word_new_br_12 | pistol<br>obscure<br>recall<br>tool<br>ill<br>talk<br>offer<br>erase<br>clean<br>best<br>lava<br>attack |  
+| bip_39_word_new_br_2 | pistol<br>obscure |  
+| bip_39_word_new_br_3 | pistol<br>obscure<br>recall |  
+| bip_39_word_new_br_4 | pistol<br>obscure<br>recall<br>tool |  
+| bip_39_word_new_br_5 | pistol<br>obscure<br>recall<br>tool<br>ill |  
+| bip_39_word_new_br_6 | pistol<br>obscure<br>recall<br>tool<br>ill<br>talk |  
+| bip_39_word_new_br_7 | pistol<br>obscure<br>recall<br>tool<br>ill<br>talk<br>offer |  
+| bip_39_word_new_br_8 | pistol<br>obscure<br>recall<br>tool<br>ill<br>talk<br>offer<br>erase |  
+| bip_39_word_new_br_9 | pistol<br>obscure<br>recall<br>tool<br>ill<br>talk<br>offer<br>erase<br>clean |  
+| bip_39_word_new_line_1 | pistol |  
+| bip_39_word_new_line_10 | pistol
 obscure
 recall
 tool
@@ -55,7 +55,7 @@ offer
 erase
 clean
 best |  
-| bip_39_word_new_line11 | pistol
+| bip_39_word_new_line_11 | pistol
 obscure
 recall
 tool
@@ -66,7 +66,7 @@ erase
 clean
 best
 lava |  
-| bip_39_word_new_line12 | pistol
+| bip_39_word_new_line_12 | pistol
 obscure
 recall
 tool
@@ -78,34 +78,34 @@ clean
 best
 lava
 attack |  
-| bip_39_word_new_line2 | pistol
+| bip_39_word_new_line_2 | pistol
 obscure |  
-| bip_39_word_new_line3 | pistol
+| bip_39_word_new_line_3 | pistol
 obscure
 recall |  
-| bip_39_word_new_line4 | pistol
+| bip_39_word_new_line_4 | pistol
 obscure
 recall
 tool |  
-| bip_39_word_new_line5 | pistol
+| bip_39_word_new_line_5 | pistol
 obscure
 recall
 tool
 ill |  
-| bip_39_word_new_line6 | pistol
+| bip_39_word_new_line_6 | pistol
 obscure
 recall
 tool
 ill
 talk |  
-| bip_39_word_new_line7 | pistol
+| bip_39_word_new_line_7 | pistol
 obscure
 recall
 tool
 ill
 talk
 offer |  
-| bip_39_word_new_line8 | pistol
+| bip_39_word_new_line_8 | pistol
 obscure
 recall
 tool
@@ -113,7 +113,7 @@ ill
 talk
 offer
 erase |  
-| bip_39_word_new_line9 | pistol
+| bip_39_word_new_line_9 | pistol
 obscure
 recall
 tool

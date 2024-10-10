@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | used |  
-| bip_39_word_new_br10 | used<br>soap<br>ketchup<br>rare<br>total<br>gravity<br>property<br>session<br>ugly<br>hollow |  
-| bip_39_word_new_br11 | used<br>soap<br>ketchup<br>rare<br>total<br>gravity<br>property<br>session<br>ugly<br>hollow<br>birth |  
-| bip_39_word_new_br12 | used<br>soap<br>ketchup<br>rare<br>total<br>gravity<br>property<br>session<br>ugly<br>hollow<br>birth<br>actor |  
-| bip_39_word_new_br2 | used<br>soap |  
-| bip_39_word_new_br3 | used<br>soap<br>ketchup |  
-| bip_39_word_new_br4 | used<br>soap<br>ketchup<br>rare |  
-| bip_39_word_new_br5 | used<br>soap<br>ketchup<br>rare<br>total |  
-| bip_39_word_new_br6 | used<br>soap<br>ketchup<br>rare<br>total<br>gravity |  
-| bip_39_word_new_br7 | used<br>soap<br>ketchup<br>rare<br>total<br>gravity<br>property |  
-| bip_39_word_new_br8 | used<br>soap<br>ketchup<br>rare<br>total<br>gravity<br>property<br>session |  
-| bip_39_word_new_br9 | used<br>soap<br>ketchup<br>rare<br>total<br>gravity<br>property<br>session<br>ugly |  
-| bip_39_word_new_line1 | used |  
-| bip_39_word_new_line10 | used
+| bip_39_word_new_br_1 | used |  
+| bip_39_word_new_br_10 | used<br>soap<br>ketchup<br>rare<br>total<br>gravity<br>property<br>session<br>ugly<br>hollow |  
+| bip_39_word_new_br_11 | used<br>soap<br>ketchup<br>rare<br>total<br>gravity<br>property<br>session<br>ugly<br>hollow<br>birth |  
+| bip_39_word_new_br_12 | used<br>soap<br>ketchup<br>rare<br>total<br>gravity<br>property<br>session<br>ugly<br>hollow<br>birth<br>actor |  
+| bip_39_word_new_br_2 | used<br>soap |  
+| bip_39_word_new_br_3 | used<br>soap<br>ketchup |  
+| bip_39_word_new_br_4 | used<br>soap<br>ketchup<br>rare |  
+| bip_39_word_new_br_5 | used<br>soap<br>ketchup<br>rare<br>total |  
+| bip_39_word_new_br_6 | used<br>soap<br>ketchup<br>rare<br>total<br>gravity |  
+| bip_39_word_new_br_7 | used<br>soap<br>ketchup<br>rare<br>total<br>gravity<br>property |  
+| bip_39_word_new_br_8 | used<br>soap<br>ketchup<br>rare<br>total<br>gravity<br>property<br>session |  
+| bip_39_word_new_br_9 | used<br>soap<br>ketchup<br>rare<br>total<br>gravity<br>property<br>session<br>ugly |  
+| bip_39_word_new_line_1 | used |  
+| bip_39_word_new_line_10 | used
 soap
 ketchup
 rare
@@ -55,7 +55,7 @@ property
 session
 ugly
 hollow |  
-| bip_39_word_new_line11 | used
+| bip_39_word_new_line_11 | used
 soap
 ketchup
 rare
@@ -66,7 +66,7 @@ session
 ugly
 hollow
 birth |  
-| bip_39_word_new_line12 | used
+| bip_39_word_new_line_12 | used
 soap
 ketchup
 rare
@@ -78,34 +78,34 @@ ugly
 hollow
 birth
 actor |  
-| bip_39_word_new_line2 | used
+| bip_39_word_new_line_2 | used
 soap |  
-| bip_39_word_new_line3 | used
+| bip_39_word_new_line_3 | used
 soap
 ketchup |  
-| bip_39_word_new_line4 | used
+| bip_39_word_new_line_4 | used
 soap
 ketchup
 rare |  
-| bip_39_word_new_line5 | used
+| bip_39_word_new_line_5 | used
 soap
 ketchup
 rare
 total |  
-| bip_39_word_new_line6 | used
+| bip_39_word_new_line_6 | used
 soap
 ketchup
 rare
 total
 gravity |  
-| bip_39_word_new_line7 | used
+| bip_39_word_new_line_7 | used
 soap
 ketchup
 rare
 total
 gravity
 property |  
-| bip_39_word_new_line8 | used
+| bip_39_word_new_line_8 | used
 soap
 ketchup
 rare
@@ -113,7 +113,7 @@ total
 gravity
 property
 session |  
-| bip_39_word_new_line9 | used
+| bip_39_word_new_line_9 | used
 soap
 ketchup
 rare

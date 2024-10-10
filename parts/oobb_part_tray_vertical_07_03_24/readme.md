@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | clutch |  
-| bip_39_word_new_br10 | clutch<br>pizza<br>dilemma<br>general<br>remain<br>begin<br>pretty<br>save<br>subway<br>essay |  
-| bip_39_word_new_br11 | clutch<br>pizza<br>dilemma<br>general<br>remain<br>begin<br>pretty<br>save<br>subway<br>essay<br>club |  
-| bip_39_word_new_br12 | clutch<br>pizza<br>dilemma<br>general<br>remain<br>begin<br>pretty<br>save<br>subway<br>essay<br>club<br>antique |  
-| bip_39_word_new_br2 | clutch<br>pizza |  
-| bip_39_word_new_br3 | clutch<br>pizza<br>dilemma |  
-| bip_39_word_new_br4 | clutch<br>pizza<br>dilemma<br>general |  
-| bip_39_word_new_br5 | clutch<br>pizza<br>dilemma<br>general<br>remain |  
-| bip_39_word_new_br6 | clutch<br>pizza<br>dilemma<br>general<br>remain<br>begin |  
-| bip_39_word_new_br7 | clutch<br>pizza<br>dilemma<br>general<br>remain<br>begin<br>pretty |  
-| bip_39_word_new_br8 | clutch<br>pizza<br>dilemma<br>general<br>remain<br>begin<br>pretty<br>save |  
-| bip_39_word_new_br9 | clutch<br>pizza<br>dilemma<br>general<br>remain<br>begin<br>pretty<br>save<br>subway |  
-| bip_39_word_new_line1 | clutch |  
-| bip_39_word_new_line10 | clutch
+| bip_39_word_new_br_1 | clutch |  
+| bip_39_word_new_br_10 | clutch<br>pizza<br>dilemma<br>general<br>remain<br>begin<br>pretty<br>save<br>subway<br>essay |  
+| bip_39_word_new_br_11 | clutch<br>pizza<br>dilemma<br>general<br>remain<br>begin<br>pretty<br>save<br>subway<br>essay<br>club |  
+| bip_39_word_new_br_12 | clutch<br>pizza<br>dilemma<br>general<br>remain<br>begin<br>pretty<br>save<br>subway<br>essay<br>club<br>antique |  
+| bip_39_word_new_br_2 | clutch<br>pizza |  
+| bip_39_word_new_br_3 | clutch<br>pizza<br>dilemma |  
+| bip_39_word_new_br_4 | clutch<br>pizza<br>dilemma<br>general |  
+| bip_39_word_new_br_5 | clutch<br>pizza<br>dilemma<br>general<br>remain |  
+| bip_39_word_new_br_6 | clutch<br>pizza<br>dilemma<br>general<br>remain<br>begin |  
+| bip_39_word_new_br_7 | clutch<br>pizza<br>dilemma<br>general<br>remain<br>begin<br>pretty |  
+| bip_39_word_new_br_8 | clutch<br>pizza<br>dilemma<br>general<br>remain<br>begin<br>pretty<br>save |  
+| bip_39_word_new_br_9 | clutch<br>pizza<br>dilemma<br>general<br>remain<br>begin<br>pretty<br>save<br>subway |  
+| bip_39_word_new_line_1 | clutch |  
+| bip_39_word_new_line_10 | clutch
 pizza
 dilemma
 general
@@ -55,7 +55,7 @@ pretty
 save
 subway
 essay |  
-| bip_39_word_new_line11 | clutch
+| bip_39_word_new_line_11 | clutch
 pizza
 dilemma
 general
@@ -66,7 +66,7 @@ save
 subway
 essay
 club |  
-| bip_39_word_new_line12 | clutch
+| bip_39_word_new_line_12 | clutch
 pizza
 dilemma
 general
@@ -78,34 +78,34 @@ subway
 essay
 club
 antique |  
-| bip_39_word_new_line2 | clutch
+| bip_39_word_new_line_2 | clutch
 pizza |  
-| bip_39_word_new_line3 | clutch
+| bip_39_word_new_line_3 | clutch
 pizza
 dilemma |  
-| bip_39_word_new_line4 | clutch
+| bip_39_word_new_line_4 | clutch
 pizza
 dilemma
 general |  
-| bip_39_word_new_line5 | clutch
+| bip_39_word_new_line_5 | clutch
 pizza
 dilemma
 general
 remain |  
-| bip_39_word_new_line6 | clutch
+| bip_39_word_new_line_6 | clutch
 pizza
 dilemma
 general
 remain
 begin |  
-| bip_39_word_new_line7 | clutch
+| bip_39_word_new_line_7 | clutch
 pizza
 dilemma
 general
 remain
 begin
 pretty |  
-| bip_39_word_new_line8 | clutch
+| bip_39_word_new_line_8 | clutch
 pizza
 dilemma
 general
@@ -113,7 +113,7 @@ remain
 begin
 pretty
 save |  
-| bip_39_word_new_line9 | clutch
+| bip_39_word_new_line_9 | clutch
 pizza
 dilemma
 general

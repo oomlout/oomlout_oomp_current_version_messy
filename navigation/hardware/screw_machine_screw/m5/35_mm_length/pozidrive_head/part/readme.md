@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | they |  
-| bip_39_word_new_br10 | they<br>setup<br>apple<br>sting<br>pen<br>pact<br>begin<br>digital<br>sign<br>below |  
-| bip_39_word_new_br11 | they<br>setup<br>apple<br>sting<br>pen<br>pact<br>begin<br>digital<br>sign<br>below<br>question |  
-| bip_39_word_new_br12 | they<br>setup<br>apple<br>sting<br>pen<br>pact<br>begin<br>digital<br>sign<br>below<br>question<br>alter |  
-| bip_39_word_new_br2 | they<br>setup |  
-| bip_39_word_new_br3 | they<br>setup<br>apple |  
-| bip_39_word_new_br4 | they<br>setup<br>apple<br>sting |  
-| bip_39_word_new_br5 | they<br>setup<br>apple<br>sting<br>pen |  
-| bip_39_word_new_br6 | they<br>setup<br>apple<br>sting<br>pen<br>pact |  
-| bip_39_word_new_br7 | they<br>setup<br>apple<br>sting<br>pen<br>pact<br>begin |  
-| bip_39_word_new_br8 | they<br>setup<br>apple<br>sting<br>pen<br>pact<br>begin<br>digital |  
-| bip_39_word_new_br9 | they<br>setup<br>apple<br>sting<br>pen<br>pact<br>begin<br>digital<br>sign |  
-| bip_39_word_new_line1 | they |  
-| bip_39_word_new_line10 | they
+| bip_39_word_new_br_1 | they |  
+| bip_39_word_new_br_10 | they<br>setup<br>apple<br>sting<br>pen<br>pact<br>begin<br>digital<br>sign<br>below |  
+| bip_39_word_new_br_11 | they<br>setup<br>apple<br>sting<br>pen<br>pact<br>begin<br>digital<br>sign<br>below<br>question |  
+| bip_39_word_new_br_12 | they<br>setup<br>apple<br>sting<br>pen<br>pact<br>begin<br>digital<br>sign<br>below<br>question<br>alter |  
+| bip_39_word_new_br_2 | they<br>setup |  
+| bip_39_word_new_br_3 | they<br>setup<br>apple |  
+| bip_39_word_new_br_4 | they<br>setup<br>apple<br>sting |  
+| bip_39_word_new_br_5 | they<br>setup<br>apple<br>sting<br>pen |  
+| bip_39_word_new_br_6 | they<br>setup<br>apple<br>sting<br>pen<br>pact |  
+| bip_39_word_new_br_7 | they<br>setup<br>apple<br>sting<br>pen<br>pact<br>begin |  
+| bip_39_word_new_br_8 | they<br>setup<br>apple<br>sting<br>pen<br>pact<br>begin<br>digital |  
+| bip_39_word_new_br_9 | they<br>setup<br>apple<br>sting<br>pen<br>pact<br>begin<br>digital<br>sign |  
+| bip_39_word_new_line_1 | they |  
+| bip_39_word_new_line_10 | they
 setup
 apple
 sting
@@ -55,7 +55,7 @@ begin
 digital
 sign
 below |  
-| bip_39_word_new_line11 | they
+| bip_39_word_new_line_11 | they
 setup
 apple
 sting
@@ -66,7 +66,7 @@ digital
 sign
 below
 question |  
-| bip_39_word_new_line12 | they
+| bip_39_word_new_line_12 | they
 setup
 apple
 sting
@@ -78,34 +78,34 @@ sign
 below
 question
 alter |  
-| bip_39_word_new_line2 | they
+| bip_39_word_new_line_2 | they
 setup |  
-| bip_39_word_new_line3 | they
+| bip_39_word_new_line_3 | they
 setup
 apple |  
-| bip_39_word_new_line4 | they
+| bip_39_word_new_line_4 | they
 setup
 apple
 sting |  
-| bip_39_word_new_line5 | they
+| bip_39_word_new_line_5 | they
 setup
 apple
 sting
 pen |  
-| bip_39_word_new_line6 | they
+| bip_39_word_new_line_6 | they
 setup
 apple
 sting
 pen
 pact |  
-| bip_39_word_new_line7 | they
+| bip_39_word_new_line_7 | they
 setup
 apple
 sting
 pen
 pact
 begin |  
-| bip_39_word_new_line8 | they
+| bip_39_word_new_line_8 | they
 setup
 apple
 sting
@@ -113,7 +113,7 @@ pen
 pact
 begin
 digital |  
-| bip_39_word_new_line9 | they
+| bip_39_word_new_line_9 | they
 setup
 apple
 sting

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | unaware |  
-| bip_39_word_new_br10 | unaware<br>inject<br>abandon<br>canvas<br>vicious<br>dish<br>cluster<br>profit<br>elevator<br>trouble |  
-| bip_39_word_new_br11 | unaware<br>inject<br>abandon<br>canvas<br>vicious<br>dish<br>cluster<br>profit<br>elevator<br>trouble<br>leisure |  
-| bip_39_word_new_br12 | unaware<br>inject<br>abandon<br>canvas<br>vicious<br>dish<br>cluster<br>profit<br>elevator<br>trouble<br>leisure<br>avocado |  
-| bip_39_word_new_br2 | unaware<br>inject |  
-| bip_39_word_new_br3 | unaware<br>inject<br>abandon |  
-| bip_39_word_new_br4 | unaware<br>inject<br>abandon<br>canvas |  
-| bip_39_word_new_br5 | unaware<br>inject<br>abandon<br>canvas<br>vicious |  
-| bip_39_word_new_br6 | unaware<br>inject<br>abandon<br>canvas<br>vicious<br>dish |  
-| bip_39_word_new_br7 | unaware<br>inject<br>abandon<br>canvas<br>vicious<br>dish<br>cluster |  
-| bip_39_word_new_br8 | unaware<br>inject<br>abandon<br>canvas<br>vicious<br>dish<br>cluster<br>profit |  
-| bip_39_word_new_br9 | unaware<br>inject<br>abandon<br>canvas<br>vicious<br>dish<br>cluster<br>profit<br>elevator |  
-| bip_39_word_new_line1 | unaware |  
-| bip_39_word_new_line10 | unaware
+| bip_39_word_new_br_1 | unaware |  
+| bip_39_word_new_br_10 | unaware<br>inject<br>abandon<br>canvas<br>vicious<br>dish<br>cluster<br>profit<br>elevator<br>trouble |  
+| bip_39_word_new_br_11 | unaware<br>inject<br>abandon<br>canvas<br>vicious<br>dish<br>cluster<br>profit<br>elevator<br>trouble<br>leisure |  
+| bip_39_word_new_br_12 | unaware<br>inject<br>abandon<br>canvas<br>vicious<br>dish<br>cluster<br>profit<br>elevator<br>trouble<br>leisure<br>avocado |  
+| bip_39_word_new_br_2 | unaware<br>inject |  
+| bip_39_word_new_br_3 | unaware<br>inject<br>abandon |  
+| bip_39_word_new_br_4 | unaware<br>inject<br>abandon<br>canvas |  
+| bip_39_word_new_br_5 | unaware<br>inject<br>abandon<br>canvas<br>vicious |  
+| bip_39_word_new_br_6 | unaware<br>inject<br>abandon<br>canvas<br>vicious<br>dish |  
+| bip_39_word_new_br_7 | unaware<br>inject<br>abandon<br>canvas<br>vicious<br>dish<br>cluster |  
+| bip_39_word_new_br_8 | unaware<br>inject<br>abandon<br>canvas<br>vicious<br>dish<br>cluster<br>profit |  
+| bip_39_word_new_br_9 | unaware<br>inject<br>abandon<br>canvas<br>vicious<br>dish<br>cluster<br>profit<br>elevator |  
+| bip_39_word_new_line_1 | unaware |  
+| bip_39_word_new_line_10 | unaware
 inject
 abandon
 canvas
@@ -55,7 +55,7 @@ cluster
 profit
 elevator
 trouble |  
-| bip_39_word_new_line11 | unaware
+| bip_39_word_new_line_11 | unaware
 inject
 abandon
 canvas
@@ -66,7 +66,7 @@ profit
 elevator
 trouble
 leisure |  
-| bip_39_word_new_line12 | unaware
+| bip_39_word_new_line_12 | unaware
 inject
 abandon
 canvas
@@ -78,34 +78,34 @@ elevator
 trouble
 leisure
 avocado |  
-| bip_39_word_new_line2 | unaware
+| bip_39_word_new_line_2 | unaware
 inject |  
-| bip_39_word_new_line3 | unaware
+| bip_39_word_new_line_3 | unaware
 inject
 abandon |  
-| bip_39_word_new_line4 | unaware
+| bip_39_word_new_line_4 | unaware
 inject
 abandon
 canvas |  
-| bip_39_word_new_line5 | unaware
+| bip_39_word_new_line_5 | unaware
 inject
 abandon
 canvas
 vicious |  
-| bip_39_word_new_line6 | unaware
+| bip_39_word_new_line_6 | unaware
 inject
 abandon
 canvas
 vicious
 dish |  
-| bip_39_word_new_line7 | unaware
+| bip_39_word_new_line_7 | unaware
 inject
 abandon
 canvas
 vicious
 dish
 cluster |  
-| bip_39_word_new_line8 | unaware
+| bip_39_word_new_line_8 | unaware
 inject
 abandon
 canvas
@@ -113,7 +113,7 @@ vicious
 dish
 cluster
 profit |  
-| bip_39_word_new_line9 | unaware
+| bip_39_word_new_line_9 | unaware
 inject
 abandon
 canvas

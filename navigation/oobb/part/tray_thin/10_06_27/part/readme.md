@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | innocent |  
-| bip_39_word_new_br10 | innocent<br>gospel<br>truly<br>client<br>daring<br>embark<br>citizen<br>silly<br>venture<br>echo |  
-| bip_39_word_new_br11 | innocent<br>gospel<br>truly<br>client<br>daring<br>embark<br>citizen<br>silly<br>venture<br>echo<br>shoe |  
-| bip_39_word_new_br12 | innocent<br>gospel<br>truly<br>client<br>daring<br>embark<br>citizen<br>silly<br>venture<br>echo<br>shoe<br>amused |  
-| bip_39_word_new_br2 | innocent<br>gospel |  
-| bip_39_word_new_br3 | innocent<br>gospel<br>truly |  
-| bip_39_word_new_br4 | innocent<br>gospel<br>truly<br>client |  
-| bip_39_word_new_br5 | innocent<br>gospel<br>truly<br>client<br>daring |  
-| bip_39_word_new_br6 | innocent<br>gospel<br>truly<br>client<br>daring<br>embark |  
-| bip_39_word_new_br7 | innocent<br>gospel<br>truly<br>client<br>daring<br>embark<br>citizen |  
-| bip_39_word_new_br8 | innocent<br>gospel<br>truly<br>client<br>daring<br>embark<br>citizen<br>silly |  
-| bip_39_word_new_br9 | innocent<br>gospel<br>truly<br>client<br>daring<br>embark<br>citizen<br>silly<br>venture |  
-| bip_39_word_new_line1 | innocent |  
-| bip_39_word_new_line10 | innocent
+| bip_39_word_new_br_1 | innocent |  
+| bip_39_word_new_br_10 | innocent<br>gospel<br>truly<br>client<br>daring<br>embark<br>citizen<br>silly<br>venture<br>echo |  
+| bip_39_word_new_br_11 | innocent<br>gospel<br>truly<br>client<br>daring<br>embark<br>citizen<br>silly<br>venture<br>echo<br>shoe |  
+| bip_39_word_new_br_12 | innocent<br>gospel<br>truly<br>client<br>daring<br>embark<br>citizen<br>silly<br>venture<br>echo<br>shoe<br>amused |  
+| bip_39_word_new_br_2 | innocent<br>gospel |  
+| bip_39_word_new_br_3 | innocent<br>gospel<br>truly |  
+| bip_39_word_new_br_4 | innocent<br>gospel<br>truly<br>client |  
+| bip_39_word_new_br_5 | innocent<br>gospel<br>truly<br>client<br>daring |  
+| bip_39_word_new_br_6 | innocent<br>gospel<br>truly<br>client<br>daring<br>embark |  
+| bip_39_word_new_br_7 | innocent<br>gospel<br>truly<br>client<br>daring<br>embark<br>citizen |  
+| bip_39_word_new_br_8 | innocent<br>gospel<br>truly<br>client<br>daring<br>embark<br>citizen<br>silly |  
+| bip_39_word_new_br_9 | innocent<br>gospel<br>truly<br>client<br>daring<br>embark<br>citizen<br>silly<br>venture |  
+| bip_39_word_new_line_1 | innocent |  
+| bip_39_word_new_line_10 | innocent
 gospel
 truly
 client
@@ -55,7 +55,7 @@ citizen
 silly
 venture
 echo |  
-| bip_39_word_new_line11 | innocent
+| bip_39_word_new_line_11 | innocent
 gospel
 truly
 client
@@ -66,7 +66,7 @@ silly
 venture
 echo
 shoe |  
-| bip_39_word_new_line12 | innocent
+| bip_39_word_new_line_12 | innocent
 gospel
 truly
 client
@@ -78,34 +78,34 @@ venture
 echo
 shoe
 amused |  
-| bip_39_word_new_line2 | innocent
+| bip_39_word_new_line_2 | innocent
 gospel |  
-| bip_39_word_new_line3 | innocent
+| bip_39_word_new_line_3 | innocent
 gospel
 truly |  
-| bip_39_word_new_line4 | innocent
+| bip_39_word_new_line_4 | innocent
 gospel
 truly
 client |  
-| bip_39_word_new_line5 | innocent
+| bip_39_word_new_line_5 | innocent
 gospel
 truly
 client
 daring |  
-| bip_39_word_new_line6 | innocent
+| bip_39_word_new_line_6 | innocent
 gospel
 truly
 client
 daring
 embark |  
-| bip_39_word_new_line7 | innocent
+| bip_39_word_new_line_7 | innocent
 gospel
 truly
 client
 daring
 embark
 citizen |  
-| bip_39_word_new_line8 | innocent
+| bip_39_word_new_line_8 | innocent
 gospel
 truly
 client
@@ -113,7 +113,7 @@ daring
 embark
 citizen
 silly |  
-| bip_39_word_new_line9 | innocent
+| bip_39_word_new_line_9 | innocent
 gospel
 truly
 client

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | derive |  
-| bip_39_word_new_br10 | derive<br>already<br>skull<br>tuition<br>black<br>kid<br>absurd<br>increase<br>choice<br>inside |  
-| bip_39_word_new_br11 | derive<br>already<br>skull<br>tuition<br>black<br>kid<br>absurd<br>increase<br>choice<br>inside<br>edit |  
-| bip_39_word_new_br12 | derive<br>already<br>skull<br>tuition<br>black<br>kid<br>absurd<br>increase<br>choice<br>inside<br>edit<br>amount |  
-| bip_39_word_new_br2 | derive<br>already |  
-| bip_39_word_new_br3 | derive<br>already<br>skull |  
-| bip_39_word_new_br4 | derive<br>already<br>skull<br>tuition |  
-| bip_39_word_new_br5 | derive<br>already<br>skull<br>tuition<br>black |  
-| bip_39_word_new_br6 | derive<br>already<br>skull<br>tuition<br>black<br>kid |  
-| bip_39_word_new_br7 | derive<br>already<br>skull<br>tuition<br>black<br>kid<br>absurd |  
-| bip_39_word_new_br8 | derive<br>already<br>skull<br>tuition<br>black<br>kid<br>absurd<br>increase |  
-| bip_39_word_new_br9 | derive<br>already<br>skull<br>tuition<br>black<br>kid<br>absurd<br>increase<br>choice |  
-| bip_39_word_new_line1 | derive |  
-| bip_39_word_new_line10 | derive
+| bip_39_word_new_br_1 | derive |  
+| bip_39_word_new_br_10 | derive<br>already<br>skull<br>tuition<br>black<br>kid<br>absurd<br>increase<br>choice<br>inside |  
+| bip_39_word_new_br_11 | derive<br>already<br>skull<br>tuition<br>black<br>kid<br>absurd<br>increase<br>choice<br>inside<br>edit |  
+| bip_39_word_new_br_12 | derive<br>already<br>skull<br>tuition<br>black<br>kid<br>absurd<br>increase<br>choice<br>inside<br>edit<br>amount |  
+| bip_39_word_new_br_2 | derive<br>already |  
+| bip_39_word_new_br_3 | derive<br>already<br>skull |  
+| bip_39_word_new_br_4 | derive<br>already<br>skull<br>tuition |  
+| bip_39_word_new_br_5 | derive<br>already<br>skull<br>tuition<br>black |  
+| bip_39_word_new_br_6 | derive<br>already<br>skull<br>tuition<br>black<br>kid |  
+| bip_39_word_new_br_7 | derive<br>already<br>skull<br>tuition<br>black<br>kid<br>absurd |  
+| bip_39_word_new_br_8 | derive<br>already<br>skull<br>tuition<br>black<br>kid<br>absurd<br>increase |  
+| bip_39_word_new_br_9 | derive<br>already<br>skull<br>tuition<br>black<br>kid<br>absurd<br>increase<br>choice |  
+| bip_39_word_new_line_1 | derive |  
+| bip_39_word_new_line_10 | derive
 already
 skull
 tuition
@@ -55,7 +55,7 @@ absurd
 increase
 choice
 inside |  
-| bip_39_word_new_line11 | derive
+| bip_39_word_new_line_11 | derive
 already
 skull
 tuition
@@ -66,7 +66,7 @@ increase
 choice
 inside
 edit |  
-| bip_39_word_new_line12 | derive
+| bip_39_word_new_line_12 | derive
 already
 skull
 tuition
@@ -78,34 +78,34 @@ choice
 inside
 edit
 amount |  
-| bip_39_word_new_line2 | derive
+| bip_39_word_new_line_2 | derive
 already |  
-| bip_39_word_new_line3 | derive
+| bip_39_word_new_line_3 | derive
 already
 skull |  
-| bip_39_word_new_line4 | derive
+| bip_39_word_new_line_4 | derive
 already
 skull
 tuition |  
-| bip_39_word_new_line5 | derive
+| bip_39_word_new_line_5 | derive
 already
 skull
 tuition
 black |  
-| bip_39_word_new_line6 | derive
+| bip_39_word_new_line_6 | derive
 already
 skull
 tuition
 black
 kid |  
-| bip_39_word_new_line7 | derive
+| bip_39_word_new_line_7 | derive
 already
 skull
 tuition
 black
 kid
 absurd |  
-| bip_39_word_new_line8 | derive
+| bip_39_word_new_line_8 | derive
 already
 skull
 tuition
@@ -113,7 +113,7 @@ black
 kid
 absurd
 increase |  
-| bip_39_word_new_line9 | derive
+| bip_39_word_new_line_9 | derive
 already
 skull
 tuition

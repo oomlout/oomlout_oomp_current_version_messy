@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | banana |  
-| bip_39_word_new_br10 | banana<br>junk<br>solution<br>juice<br>liquid<br>educate<br>town<br>scout<br>prison<br>fee |  
-| bip_39_word_new_br11 | banana<br>junk<br>solution<br>juice<br>liquid<br>educate<br>town<br>scout<br>prison<br>fee<br>struggle |  
-| bip_39_word_new_br12 | banana<br>junk<br>solution<br>juice<br>liquid<br>educate<br>town<br>scout<br>prison<br>fee<br>struggle<br>arrow |  
-| bip_39_word_new_br2 | banana<br>junk |  
-| bip_39_word_new_br3 | banana<br>junk<br>solution |  
-| bip_39_word_new_br4 | banana<br>junk<br>solution<br>juice |  
-| bip_39_word_new_br5 | banana<br>junk<br>solution<br>juice<br>liquid |  
-| bip_39_word_new_br6 | banana<br>junk<br>solution<br>juice<br>liquid<br>educate |  
-| bip_39_word_new_br7 | banana<br>junk<br>solution<br>juice<br>liquid<br>educate<br>town |  
-| bip_39_word_new_br8 | banana<br>junk<br>solution<br>juice<br>liquid<br>educate<br>town<br>scout |  
-| bip_39_word_new_br9 | banana<br>junk<br>solution<br>juice<br>liquid<br>educate<br>town<br>scout<br>prison |  
-| bip_39_word_new_line1 | banana |  
-| bip_39_word_new_line10 | banana
+| bip_39_word_new_br_1 | banana |  
+| bip_39_word_new_br_10 | banana<br>junk<br>solution<br>juice<br>liquid<br>educate<br>town<br>scout<br>prison<br>fee |  
+| bip_39_word_new_br_11 | banana<br>junk<br>solution<br>juice<br>liquid<br>educate<br>town<br>scout<br>prison<br>fee<br>struggle |  
+| bip_39_word_new_br_12 | banana<br>junk<br>solution<br>juice<br>liquid<br>educate<br>town<br>scout<br>prison<br>fee<br>struggle<br>arrow |  
+| bip_39_word_new_br_2 | banana<br>junk |  
+| bip_39_word_new_br_3 | banana<br>junk<br>solution |  
+| bip_39_word_new_br_4 | banana<br>junk<br>solution<br>juice |  
+| bip_39_word_new_br_5 | banana<br>junk<br>solution<br>juice<br>liquid |  
+| bip_39_word_new_br_6 | banana<br>junk<br>solution<br>juice<br>liquid<br>educate |  
+| bip_39_word_new_br_7 | banana<br>junk<br>solution<br>juice<br>liquid<br>educate<br>town |  
+| bip_39_word_new_br_8 | banana<br>junk<br>solution<br>juice<br>liquid<br>educate<br>town<br>scout |  
+| bip_39_word_new_br_9 | banana<br>junk<br>solution<br>juice<br>liquid<br>educate<br>town<br>scout<br>prison |  
+| bip_39_word_new_line_1 | banana |  
+| bip_39_word_new_line_10 | banana
 junk
 solution
 juice
@@ -55,7 +55,7 @@ town
 scout
 prison
 fee |  
-| bip_39_word_new_line11 | banana
+| bip_39_word_new_line_11 | banana
 junk
 solution
 juice
@@ -66,7 +66,7 @@ scout
 prison
 fee
 struggle |  
-| bip_39_word_new_line12 | banana
+| bip_39_word_new_line_12 | banana
 junk
 solution
 juice
@@ -78,34 +78,34 @@ prison
 fee
 struggle
 arrow |  
-| bip_39_word_new_line2 | banana
+| bip_39_word_new_line_2 | banana
 junk |  
-| bip_39_word_new_line3 | banana
+| bip_39_word_new_line_3 | banana
 junk
 solution |  
-| bip_39_word_new_line4 | banana
+| bip_39_word_new_line_4 | banana
 junk
 solution
 juice |  
-| bip_39_word_new_line5 | banana
+| bip_39_word_new_line_5 | banana
 junk
 solution
 juice
 liquid |  
-| bip_39_word_new_line6 | banana
+| bip_39_word_new_line_6 | banana
 junk
 solution
 juice
 liquid
 educate |  
-| bip_39_word_new_line7 | banana
+| bip_39_word_new_line_7 | banana
 junk
 solution
 juice
 liquid
 educate
 town |  
-| bip_39_word_new_line8 | banana
+| bip_39_word_new_line_8 | banana
 junk
 solution
 juice
@@ -113,7 +113,7 @@ liquid
 educate
 town
 scout |  
-| bip_39_word_new_line9 | banana
+| bip_39_word_new_line_9 | banana
 junk
 solution
 juice

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | green |  
-| bip_39_word_new_br10 | green<br>disorder<br>various<br>ostrich<br>genius<br>notice<br>mobile<br>find<br>travel<br>turn |  
-| bip_39_word_new_br11 | green<br>disorder<br>various<br>ostrich<br>genius<br>notice<br>mobile<br>find<br>travel<br>turn<br>icon |  
-| bip_39_word_new_br12 | green<br>disorder<br>various<br>ostrich<br>genius<br>notice<br>mobile<br>find<br>travel<br>turn<br>icon<br>able |  
-| bip_39_word_new_br2 | green<br>disorder |  
-| bip_39_word_new_br3 | green<br>disorder<br>various |  
-| bip_39_word_new_br4 | green<br>disorder<br>various<br>ostrich |  
-| bip_39_word_new_br5 | green<br>disorder<br>various<br>ostrich<br>genius |  
-| bip_39_word_new_br6 | green<br>disorder<br>various<br>ostrich<br>genius<br>notice |  
-| bip_39_word_new_br7 | green<br>disorder<br>various<br>ostrich<br>genius<br>notice<br>mobile |  
-| bip_39_word_new_br8 | green<br>disorder<br>various<br>ostrich<br>genius<br>notice<br>mobile<br>find |  
-| bip_39_word_new_br9 | green<br>disorder<br>various<br>ostrich<br>genius<br>notice<br>mobile<br>find<br>travel |  
-| bip_39_word_new_line1 | green |  
-| bip_39_word_new_line10 | green
+| bip_39_word_new_br_1 | green |  
+| bip_39_word_new_br_10 | green<br>disorder<br>various<br>ostrich<br>genius<br>notice<br>mobile<br>find<br>travel<br>turn |  
+| bip_39_word_new_br_11 | green<br>disorder<br>various<br>ostrich<br>genius<br>notice<br>mobile<br>find<br>travel<br>turn<br>icon |  
+| bip_39_word_new_br_12 | green<br>disorder<br>various<br>ostrich<br>genius<br>notice<br>mobile<br>find<br>travel<br>turn<br>icon<br>able |  
+| bip_39_word_new_br_2 | green<br>disorder |  
+| bip_39_word_new_br_3 | green<br>disorder<br>various |  
+| bip_39_word_new_br_4 | green<br>disorder<br>various<br>ostrich |  
+| bip_39_word_new_br_5 | green<br>disorder<br>various<br>ostrich<br>genius |  
+| bip_39_word_new_br_6 | green<br>disorder<br>various<br>ostrich<br>genius<br>notice |  
+| bip_39_word_new_br_7 | green<br>disorder<br>various<br>ostrich<br>genius<br>notice<br>mobile |  
+| bip_39_word_new_br_8 | green<br>disorder<br>various<br>ostrich<br>genius<br>notice<br>mobile<br>find |  
+| bip_39_word_new_br_9 | green<br>disorder<br>various<br>ostrich<br>genius<br>notice<br>mobile<br>find<br>travel |  
+| bip_39_word_new_line_1 | green |  
+| bip_39_word_new_line_10 | green
 disorder
 various
 ostrich
@@ -55,7 +55,7 @@ mobile
 find
 travel
 turn |  
-| bip_39_word_new_line11 | green
+| bip_39_word_new_line_11 | green
 disorder
 various
 ostrich
@@ -66,7 +66,7 @@ find
 travel
 turn
 icon |  
-| bip_39_word_new_line12 | green
+| bip_39_word_new_line_12 | green
 disorder
 various
 ostrich
@@ -78,34 +78,34 @@ travel
 turn
 icon
 able |  
-| bip_39_word_new_line2 | green
+| bip_39_word_new_line_2 | green
 disorder |  
-| bip_39_word_new_line3 | green
+| bip_39_word_new_line_3 | green
 disorder
 various |  
-| bip_39_word_new_line4 | green
+| bip_39_word_new_line_4 | green
 disorder
 various
 ostrich |  
-| bip_39_word_new_line5 | green
+| bip_39_word_new_line_5 | green
 disorder
 various
 ostrich
 genius |  
-| bip_39_word_new_line6 | green
+| bip_39_word_new_line_6 | green
 disorder
 various
 ostrich
 genius
 notice |  
-| bip_39_word_new_line7 | green
+| bip_39_word_new_line_7 | green
 disorder
 various
 ostrich
 genius
 notice
 mobile |  
-| bip_39_word_new_line8 | green
+| bip_39_word_new_line_8 | green
 disorder
 various
 ostrich
@@ -113,7 +113,7 @@ genius
 notice
 mobile
 find |  
-| bip_39_word_new_line9 | green
+| bip_39_word_new_line_9 | green
 disorder
 various
 ostrich

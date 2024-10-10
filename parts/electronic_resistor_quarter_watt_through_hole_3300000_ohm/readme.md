@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | shaft |  
-| bip_39_word_new_br10 | shaft<br>jump<br>purity<br>dutch<br>chase<br>gift<br>parade<br>fan<br>already<br>half |  
-| bip_39_word_new_br11 | shaft<br>jump<br>purity<br>dutch<br>chase<br>gift<br>parade<br>fan<br>already<br>half<br>hospital |  
-| bip_39_word_new_br12 | shaft<br>jump<br>purity<br>dutch<br>chase<br>gift<br>parade<br>fan<br>already<br>half<br>hospital<br>account |  
-| bip_39_word_new_br2 | shaft<br>jump |  
-| bip_39_word_new_br3 | shaft<br>jump<br>purity |  
-| bip_39_word_new_br4 | shaft<br>jump<br>purity<br>dutch |  
-| bip_39_word_new_br5 | shaft<br>jump<br>purity<br>dutch<br>chase |  
-| bip_39_word_new_br6 | shaft<br>jump<br>purity<br>dutch<br>chase<br>gift |  
-| bip_39_word_new_br7 | shaft<br>jump<br>purity<br>dutch<br>chase<br>gift<br>parade |  
-| bip_39_word_new_br8 | shaft<br>jump<br>purity<br>dutch<br>chase<br>gift<br>parade<br>fan |  
-| bip_39_word_new_br9 | shaft<br>jump<br>purity<br>dutch<br>chase<br>gift<br>parade<br>fan<br>already |  
-| bip_39_word_new_line1 | shaft |  
-| bip_39_word_new_line10 | shaft
+| bip_39_word_new_br_1 | shaft |  
+| bip_39_word_new_br_10 | shaft<br>jump<br>purity<br>dutch<br>chase<br>gift<br>parade<br>fan<br>already<br>half |  
+| bip_39_word_new_br_11 | shaft<br>jump<br>purity<br>dutch<br>chase<br>gift<br>parade<br>fan<br>already<br>half<br>hospital |  
+| bip_39_word_new_br_12 | shaft<br>jump<br>purity<br>dutch<br>chase<br>gift<br>parade<br>fan<br>already<br>half<br>hospital<br>account |  
+| bip_39_word_new_br_2 | shaft<br>jump |  
+| bip_39_word_new_br_3 | shaft<br>jump<br>purity |  
+| bip_39_word_new_br_4 | shaft<br>jump<br>purity<br>dutch |  
+| bip_39_word_new_br_5 | shaft<br>jump<br>purity<br>dutch<br>chase |  
+| bip_39_word_new_br_6 | shaft<br>jump<br>purity<br>dutch<br>chase<br>gift |  
+| bip_39_word_new_br_7 | shaft<br>jump<br>purity<br>dutch<br>chase<br>gift<br>parade |  
+| bip_39_word_new_br_8 | shaft<br>jump<br>purity<br>dutch<br>chase<br>gift<br>parade<br>fan |  
+| bip_39_word_new_br_9 | shaft<br>jump<br>purity<br>dutch<br>chase<br>gift<br>parade<br>fan<br>already |  
+| bip_39_word_new_line_1 | shaft |  
+| bip_39_word_new_line_10 | shaft
 jump
 purity
 dutch
@@ -55,7 +55,7 @@ parade
 fan
 already
 half |  
-| bip_39_word_new_line11 | shaft
+| bip_39_word_new_line_11 | shaft
 jump
 purity
 dutch
@@ -66,7 +66,7 @@ fan
 already
 half
 hospital |  
-| bip_39_word_new_line12 | shaft
+| bip_39_word_new_line_12 | shaft
 jump
 purity
 dutch
@@ -78,34 +78,34 @@ already
 half
 hospital
 account |  
-| bip_39_word_new_line2 | shaft
+| bip_39_word_new_line_2 | shaft
 jump |  
-| bip_39_word_new_line3 | shaft
+| bip_39_word_new_line_3 | shaft
 jump
 purity |  
-| bip_39_word_new_line4 | shaft
+| bip_39_word_new_line_4 | shaft
 jump
 purity
 dutch |  
-| bip_39_word_new_line5 | shaft
+| bip_39_word_new_line_5 | shaft
 jump
 purity
 dutch
 chase |  
-| bip_39_word_new_line6 | shaft
+| bip_39_word_new_line_6 | shaft
 jump
 purity
 dutch
 chase
 gift |  
-| bip_39_word_new_line7 | shaft
+| bip_39_word_new_line_7 | shaft
 jump
 purity
 dutch
 chase
 gift
 parade |  
-| bip_39_word_new_line8 | shaft
+| bip_39_word_new_line_8 | shaft
 jump
 purity
 dutch
@@ -113,7 +113,7 @@ chase
 gift
 parade
 fan |  
-| bip_39_word_new_line9 | shaft
+| bip_39_word_new_line_9 | shaft
 jump
 purity
 dutch

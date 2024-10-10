@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | clip |  
-| bip_39_word_new_br10 | clip<br>season<br>aspect<br>divide<br>jungle<br>text<br>duty<br>rule<br>awesome<br>fee |  
-| bip_39_word_new_br11 | clip<br>season<br>aspect<br>divide<br>jungle<br>text<br>duty<br>rule<br>awesome<br>fee<br>demise |  
-| bip_39_word_new_br12 | clip<br>season<br>aspect<br>divide<br>jungle<br>text<br>duty<br>rule<br>awesome<br>fee<br>demise<br>arrow |  
-| bip_39_word_new_br2 | clip<br>season |  
-| bip_39_word_new_br3 | clip<br>season<br>aspect |  
-| bip_39_word_new_br4 | clip<br>season<br>aspect<br>divide |  
-| bip_39_word_new_br5 | clip<br>season<br>aspect<br>divide<br>jungle |  
-| bip_39_word_new_br6 | clip<br>season<br>aspect<br>divide<br>jungle<br>text |  
-| bip_39_word_new_br7 | clip<br>season<br>aspect<br>divide<br>jungle<br>text<br>duty |  
-| bip_39_word_new_br8 | clip<br>season<br>aspect<br>divide<br>jungle<br>text<br>duty<br>rule |  
-| bip_39_word_new_br9 | clip<br>season<br>aspect<br>divide<br>jungle<br>text<br>duty<br>rule<br>awesome |  
-| bip_39_word_new_line1 | clip |  
-| bip_39_word_new_line10 | clip
+| bip_39_word_new_br_1 | clip |  
+| bip_39_word_new_br_10 | clip<br>season<br>aspect<br>divide<br>jungle<br>text<br>duty<br>rule<br>awesome<br>fee |  
+| bip_39_word_new_br_11 | clip<br>season<br>aspect<br>divide<br>jungle<br>text<br>duty<br>rule<br>awesome<br>fee<br>demise |  
+| bip_39_word_new_br_12 | clip<br>season<br>aspect<br>divide<br>jungle<br>text<br>duty<br>rule<br>awesome<br>fee<br>demise<br>arrow |  
+| bip_39_word_new_br_2 | clip<br>season |  
+| bip_39_word_new_br_3 | clip<br>season<br>aspect |  
+| bip_39_word_new_br_4 | clip<br>season<br>aspect<br>divide |  
+| bip_39_word_new_br_5 | clip<br>season<br>aspect<br>divide<br>jungle |  
+| bip_39_word_new_br_6 | clip<br>season<br>aspect<br>divide<br>jungle<br>text |  
+| bip_39_word_new_br_7 | clip<br>season<br>aspect<br>divide<br>jungle<br>text<br>duty |  
+| bip_39_word_new_br_8 | clip<br>season<br>aspect<br>divide<br>jungle<br>text<br>duty<br>rule |  
+| bip_39_word_new_br_9 | clip<br>season<br>aspect<br>divide<br>jungle<br>text<br>duty<br>rule<br>awesome |  
+| bip_39_word_new_line_1 | clip |  
+| bip_39_word_new_line_10 | clip
 season
 aspect
 divide
@@ -55,7 +55,7 @@ duty
 rule
 awesome
 fee |  
-| bip_39_word_new_line11 | clip
+| bip_39_word_new_line_11 | clip
 season
 aspect
 divide
@@ -66,7 +66,7 @@ rule
 awesome
 fee
 demise |  
-| bip_39_word_new_line12 | clip
+| bip_39_word_new_line_12 | clip
 season
 aspect
 divide
@@ -78,34 +78,34 @@ awesome
 fee
 demise
 arrow |  
-| bip_39_word_new_line2 | clip
+| bip_39_word_new_line_2 | clip
 season |  
-| bip_39_word_new_line3 | clip
+| bip_39_word_new_line_3 | clip
 season
 aspect |  
-| bip_39_word_new_line4 | clip
+| bip_39_word_new_line_4 | clip
 season
 aspect
 divide |  
-| bip_39_word_new_line5 | clip
+| bip_39_word_new_line_5 | clip
 season
 aspect
 divide
 jungle |  
-| bip_39_word_new_line6 | clip
+| bip_39_word_new_line_6 | clip
 season
 aspect
 divide
 jungle
 text |  
-| bip_39_word_new_line7 | clip
+| bip_39_word_new_line_7 | clip
 season
 aspect
 divide
 jungle
 text
 duty |  
-| bip_39_word_new_line8 | clip
+| bip_39_word_new_line_8 | clip
 season
 aspect
 divide
@@ -113,7 +113,7 @@ jungle
 text
 duty
 rule |  
-| bip_39_word_new_line9 | clip
+| bip_39_word_new_line_9 | clip
 season
 aspect
 divide

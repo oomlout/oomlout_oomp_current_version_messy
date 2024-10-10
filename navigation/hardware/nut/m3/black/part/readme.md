@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | island |  
-| bip_39_word_new_br10 | island<br>slender<br>second<br>mandate<br>disagree<br>bargain<br>cricket<br>soup<br>snake<br>nurse |  
-| bip_39_word_new_br11 | island<br>slender<br>second<br>mandate<br>disagree<br>bargain<br>cricket<br>soup<br>snake<br>nurse<br>soda |  
-| bip_39_word_new_br12 | island<br>slender<br>second<br>mandate<br>disagree<br>bargain<br>cricket<br>soup<br>snake<br>nurse<br>soda<br>august |  
-| bip_39_word_new_br2 | island<br>slender |  
-| bip_39_word_new_br3 | island<br>slender<br>second |  
-| bip_39_word_new_br4 | island<br>slender<br>second<br>mandate |  
-| bip_39_word_new_br5 | island<br>slender<br>second<br>mandate<br>disagree |  
-| bip_39_word_new_br6 | island<br>slender<br>second<br>mandate<br>disagree<br>bargain |  
-| bip_39_word_new_br7 | island<br>slender<br>second<br>mandate<br>disagree<br>bargain<br>cricket |  
-| bip_39_word_new_br8 | island<br>slender<br>second<br>mandate<br>disagree<br>bargain<br>cricket<br>soup |  
-| bip_39_word_new_br9 | island<br>slender<br>second<br>mandate<br>disagree<br>bargain<br>cricket<br>soup<br>snake |  
-| bip_39_word_new_line1 | island |  
-| bip_39_word_new_line10 | island
+| bip_39_word_new_br_1 | island |  
+| bip_39_word_new_br_10 | island<br>slender<br>second<br>mandate<br>disagree<br>bargain<br>cricket<br>soup<br>snake<br>nurse |  
+| bip_39_word_new_br_11 | island<br>slender<br>second<br>mandate<br>disagree<br>bargain<br>cricket<br>soup<br>snake<br>nurse<br>soda |  
+| bip_39_word_new_br_12 | island<br>slender<br>second<br>mandate<br>disagree<br>bargain<br>cricket<br>soup<br>snake<br>nurse<br>soda<br>august |  
+| bip_39_word_new_br_2 | island<br>slender |  
+| bip_39_word_new_br_3 | island<br>slender<br>second |  
+| bip_39_word_new_br_4 | island<br>slender<br>second<br>mandate |  
+| bip_39_word_new_br_5 | island<br>slender<br>second<br>mandate<br>disagree |  
+| bip_39_word_new_br_6 | island<br>slender<br>second<br>mandate<br>disagree<br>bargain |  
+| bip_39_word_new_br_7 | island<br>slender<br>second<br>mandate<br>disagree<br>bargain<br>cricket |  
+| bip_39_word_new_br_8 | island<br>slender<br>second<br>mandate<br>disagree<br>bargain<br>cricket<br>soup |  
+| bip_39_word_new_br_9 | island<br>slender<br>second<br>mandate<br>disagree<br>bargain<br>cricket<br>soup<br>snake |  
+| bip_39_word_new_line_1 | island |  
+| bip_39_word_new_line_10 | island
 slender
 second
 mandate
@@ -55,7 +55,7 @@ cricket
 soup
 snake
 nurse |  
-| bip_39_word_new_line11 | island
+| bip_39_word_new_line_11 | island
 slender
 second
 mandate
@@ -66,7 +66,7 @@ soup
 snake
 nurse
 soda |  
-| bip_39_word_new_line12 | island
+| bip_39_word_new_line_12 | island
 slender
 second
 mandate
@@ -78,34 +78,34 @@ snake
 nurse
 soda
 august |  
-| bip_39_word_new_line2 | island
+| bip_39_word_new_line_2 | island
 slender |  
-| bip_39_word_new_line3 | island
+| bip_39_word_new_line_3 | island
 slender
 second |  
-| bip_39_word_new_line4 | island
+| bip_39_word_new_line_4 | island
 slender
 second
 mandate |  
-| bip_39_word_new_line5 | island
+| bip_39_word_new_line_5 | island
 slender
 second
 mandate
 disagree |  
-| bip_39_word_new_line6 | island
+| bip_39_word_new_line_6 | island
 slender
 second
 mandate
 disagree
 bargain |  
-| bip_39_word_new_line7 | island
+| bip_39_word_new_line_7 | island
 slender
 second
 mandate
 disagree
 bargain
 cricket |  
-| bip_39_word_new_line8 | island
+| bip_39_word_new_line_8 | island
 slender
 second
 mandate
@@ -113,7 +113,7 @@ disagree
 bargain
 cricket
 soup |  
-| bip_39_word_new_line9 | island
+| bip_39_word_new_line_9 | island
 slender
 second
 mandate

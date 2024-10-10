@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | spin |  
-| bip_39_word_new_br10 | spin<br>coffee<br>delay<br>salute<br>music<br>clay<br>kick<br>truck<br>run<br>virtual |  
-| bip_39_word_new_br11 | spin<br>coffee<br>delay<br>salute<br>music<br>clay<br>kick<br>truck<br>run<br>virtual<br>ball |  
-| bip_39_word_new_br12 | spin<br>coffee<br>delay<br>salute<br>music<br>clay<br>kick<br>truck<br>run<br>virtual<br>ball<br>about |  
-| bip_39_word_new_br2 | spin<br>coffee |  
-| bip_39_word_new_br3 | spin<br>coffee<br>delay |  
-| bip_39_word_new_br4 | spin<br>coffee<br>delay<br>salute |  
-| bip_39_word_new_br5 | spin<br>coffee<br>delay<br>salute<br>music |  
-| bip_39_word_new_br6 | spin<br>coffee<br>delay<br>salute<br>music<br>clay |  
-| bip_39_word_new_br7 | spin<br>coffee<br>delay<br>salute<br>music<br>clay<br>kick |  
-| bip_39_word_new_br8 | spin<br>coffee<br>delay<br>salute<br>music<br>clay<br>kick<br>truck |  
-| bip_39_word_new_br9 | spin<br>coffee<br>delay<br>salute<br>music<br>clay<br>kick<br>truck<br>run |  
-| bip_39_word_new_line1 | spin |  
-| bip_39_word_new_line10 | spin
+| bip_39_word_new_br_1 | spin |  
+| bip_39_word_new_br_10 | spin<br>coffee<br>delay<br>salute<br>music<br>clay<br>kick<br>truck<br>run<br>virtual |  
+| bip_39_word_new_br_11 | spin<br>coffee<br>delay<br>salute<br>music<br>clay<br>kick<br>truck<br>run<br>virtual<br>ball |  
+| bip_39_word_new_br_12 | spin<br>coffee<br>delay<br>salute<br>music<br>clay<br>kick<br>truck<br>run<br>virtual<br>ball<br>about |  
+| bip_39_word_new_br_2 | spin<br>coffee |  
+| bip_39_word_new_br_3 | spin<br>coffee<br>delay |  
+| bip_39_word_new_br_4 | spin<br>coffee<br>delay<br>salute |  
+| bip_39_word_new_br_5 | spin<br>coffee<br>delay<br>salute<br>music |  
+| bip_39_word_new_br_6 | spin<br>coffee<br>delay<br>salute<br>music<br>clay |  
+| bip_39_word_new_br_7 | spin<br>coffee<br>delay<br>salute<br>music<br>clay<br>kick |  
+| bip_39_word_new_br_8 | spin<br>coffee<br>delay<br>salute<br>music<br>clay<br>kick<br>truck |  
+| bip_39_word_new_br_9 | spin<br>coffee<br>delay<br>salute<br>music<br>clay<br>kick<br>truck<br>run |  
+| bip_39_word_new_line_1 | spin |  
+| bip_39_word_new_line_10 | spin
 coffee
 delay
 salute
@@ -55,7 +55,7 @@ kick
 truck
 run
 virtual |  
-| bip_39_word_new_line11 | spin
+| bip_39_word_new_line_11 | spin
 coffee
 delay
 salute
@@ -66,7 +66,7 @@ truck
 run
 virtual
 ball |  
-| bip_39_word_new_line12 | spin
+| bip_39_word_new_line_12 | spin
 coffee
 delay
 salute
@@ -78,34 +78,34 @@ run
 virtual
 ball
 about |  
-| bip_39_word_new_line2 | spin
+| bip_39_word_new_line_2 | spin
 coffee |  
-| bip_39_word_new_line3 | spin
+| bip_39_word_new_line_3 | spin
 coffee
 delay |  
-| bip_39_word_new_line4 | spin
+| bip_39_word_new_line_4 | spin
 coffee
 delay
 salute |  
-| bip_39_word_new_line5 | spin
+| bip_39_word_new_line_5 | spin
 coffee
 delay
 salute
 music |  
-| bip_39_word_new_line6 | spin
+| bip_39_word_new_line_6 | spin
 coffee
 delay
 salute
 music
 clay |  
-| bip_39_word_new_line7 | spin
+| bip_39_word_new_line_7 | spin
 coffee
 delay
 salute
 music
 clay
 kick |  
-| bip_39_word_new_line8 | spin
+| bip_39_word_new_line_8 | spin
 coffee
 delay
 salute
@@ -113,7 +113,7 @@ music
 clay
 kick
 truck |  
-| bip_39_word_new_line9 | spin
+| bip_39_word_new_line_9 | spin
 coffee
 delay
 salute

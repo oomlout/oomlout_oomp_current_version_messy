@@ -1,17 +1,17 @@
-bip_39_word_new_br1: song
-bip_39_word_new_br10: song<br>ancient<br>wrong<br>project<br>receive<br>regular<br>wood<br>wait<br>donkey<br>mail
-bip_39_word_new_br11: song<br>ancient<br>wrong<br>project<br>receive<br>regular<br>wood<br>wait<br>donkey<br>mail<br>release
-bip_39_word_new_br12: song<br>ancient<br>wrong<br>project<br>receive<br>regular<br>wood<br>wait<br>donkey<br>mail<br>release<br>apart
-bip_39_word_new_br2: song<br>ancient
-bip_39_word_new_br3: song<br>ancient<br>wrong
-bip_39_word_new_br4: song<br>ancient<br>wrong<br>project
-bip_39_word_new_br5: song<br>ancient<br>wrong<br>project<br>receive
-bip_39_word_new_br6: song<br>ancient<br>wrong<br>project<br>receive<br>regular
-bip_39_word_new_br7: song<br>ancient<br>wrong<br>project<br>receive<br>regular<br>wood
-bip_39_word_new_br8: song<br>ancient<br>wrong<br>project<br>receive<br>regular<br>wood<br>wait
-bip_39_word_new_br9: song<br>ancient<br>wrong<br>project<br>receive<br>regular<br>wood<br>wait<br>donkey
-bip_39_word_new_line1: song
-bip_39_word_new_line10: 'song
+bip_39_word_new_br_1: song
+bip_39_word_new_br_10: song<br>ancient<br>wrong<br>project<br>receive<br>regular<br>wood<br>wait<br>donkey<br>mail
+bip_39_word_new_br_11: song<br>ancient<br>wrong<br>project<br>receive<br>regular<br>wood<br>wait<br>donkey<br>mail<br>release
+bip_39_word_new_br_12: song<br>ancient<br>wrong<br>project<br>receive<br>regular<br>wood<br>wait<br>donkey<br>mail<br>release<br>apart
+bip_39_word_new_br_2: song<br>ancient
+bip_39_word_new_br_3: song<br>ancient<br>wrong
+bip_39_word_new_br_4: song<br>ancient<br>wrong<br>project
+bip_39_word_new_br_5: song<br>ancient<br>wrong<br>project<br>receive
+bip_39_word_new_br_6: song<br>ancient<br>wrong<br>project<br>receive<br>regular
+bip_39_word_new_br_7: song<br>ancient<br>wrong<br>project<br>receive<br>regular<br>wood
+bip_39_word_new_br_8: song<br>ancient<br>wrong<br>project<br>receive<br>regular<br>wood<br>wait
+bip_39_word_new_br_9: song<br>ancient<br>wrong<br>project<br>receive<br>regular<br>wood<br>wait<br>donkey
+bip_39_word_new_line_1: song
+bip_39_word_new_line_10: 'song
 
   ancient
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'song
   donkey
 
   mail'
-bip_39_word_new_line11: 'song
+bip_39_word_new_line_11: 'song
 
   ancient
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'song
   mail
 
   release'
-bip_39_word_new_line12: 'song
+bip_39_word_new_line_12: 'song
 
   ancient
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'song
   release
 
   apart'
-bip_39_word_new_line2: 'song
+bip_39_word_new_line_2: 'song
 
   ancient'
-bip_39_word_new_line3: 'song
+bip_39_word_new_line_3: 'song
 
   ancient
 
   wrong'
-bip_39_word_new_line4: 'song
+bip_39_word_new_line_4: 'song
 
   ancient
 
   wrong
 
   project'
-bip_39_word_new_line5: 'song
+bip_39_word_new_line_5: 'song
 
   ancient
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'song
   project
 
   receive'
-bip_39_word_new_line6: 'song
+bip_39_word_new_line_6: 'song
 
   ancient
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'song
   receive
 
   regular'
-bip_39_word_new_line7: 'song
+bip_39_word_new_line_7: 'song
 
   ancient
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'song
   regular
 
   wood'
-bip_39_word_new_line8: 'song
+bip_39_word_new_line_8: 'song
 
   ancient
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'song
   wood
 
   wait'
-bip_39_word_new_line9: 'song
+bip_39_word_new_line_9: 'song
 
   ancient
 

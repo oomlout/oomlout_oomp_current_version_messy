@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | normal |  
-| bip_39_word_new_br10 | normal<br>adult<br>gate<br>already<br>message<br>inherit<br>top<br>office<br>fatigue<br>voice |  
-| bip_39_word_new_br11 | normal<br>adult<br>gate<br>already<br>message<br>inherit<br>top<br>office<br>fatigue<br>voice<br>upon |  
-| bip_39_word_new_br12 | normal<br>adult<br>gate<br>already<br>message<br>inherit<br>top<br>office<br>fatigue<br>voice<br>upon<br>alien |  
-| bip_39_word_new_br2 | normal<br>adult |  
-| bip_39_word_new_br3 | normal<br>adult<br>gate |  
-| bip_39_word_new_br4 | normal<br>adult<br>gate<br>already |  
-| bip_39_word_new_br5 | normal<br>adult<br>gate<br>already<br>message |  
-| bip_39_word_new_br6 | normal<br>adult<br>gate<br>already<br>message<br>inherit |  
-| bip_39_word_new_br7 | normal<br>adult<br>gate<br>already<br>message<br>inherit<br>top |  
-| bip_39_word_new_br8 | normal<br>adult<br>gate<br>already<br>message<br>inherit<br>top<br>office |  
-| bip_39_word_new_br9 | normal<br>adult<br>gate<br>already<br>message<br>inherit<br>top<br>office<br>fatigue |  
-| bip_39_word_new_line1 | normal |  
-| bip_39_word_new_line10 | normal
+| bip_39_word_new_br_1 | normal |  
+| bip_39_word_new_br_10 | normal<br>adult<br>gate<br>already<br>message<br>inherit<br>top<br>office<br>fatigue<br>voice |  
+| bip_39_word_new_br_11 | normal<br>adult<br>gate<br>already<br>message<br>inherit<br>top<br>office<br>fatigue<br>voice<br>upon |  
+| bip_39_word_new_br_12 | normal<br>adult<br>gate<br>already<br>message<br>inherit<br>top<br>office<br>fatigue<br>voice<br>upon<br>alien |  
+| bip_39_word_new_br_2 | normal<br>adult |  
+| bip_39_word_new_br_3 | normal<br>adult<br>gate |  
+| bip_39_word_new_br_4 | normal<br>adult<br>gate<br>already |  
+| bip_39_word_new_br_5 | normal<br>adult<br>gate<br>already<br>message |  
+| bip_39_word_new_br_6 | normal<br>adult<br>gate<br>already<br>message<br>inherit |  
+| bip_39_word_new_br_7 | normal<br>adult<br>gate<br>already<br>message<br>inherit<br>top |  
+| bip_39_word_new_br_8 | normal<br>adult<br>gate<br>already<br>message<br>inherit<br>top<br>office |  
+| bip_39_word_new_br_9 | normal<br>adult<br>gate<br>already<br>message<br>inherit<br>top<br>office<br>fatigue |  
+| bip_39_word_new_line_1 | normal |  
+| bip_39_word_new_line_10 | normal
 adult
 gate
 already
@@ -55,7 +55,7 @@ top
 office
 fatigue
 voice |  
-| bip_39_word_new_line11 | normal
+| bip_39_word_new_line_11 | normal
 adult
 gate
 already
@@ -66,7 +66,7 @@ office
 fatigue
 voice
 upon |  
-| bip_39_word_new_line12 | normal
+| bip_39_word_new_line_12 | normal
 adult
 gate
 already
@@ -78,34 +78,34 @@ fatigue
 voice
 upon
 alien |  
-| bip_39_word_new_line2 | normal
+| bip_39_word_new_line_2 | normal
 adult |  
-| bip_39_word_new_line3 | normal
+| bip_39_word_new_line_3 | normal
 adult
 gate |  
-| bip_39_word_new_line4 | normal
+| bip_39_word_new_line_4 | normal
 adult
 gate
 already |  
-| bip_39_word_new_line5 | normal
+| bip_39_word_new_line_5 | normal
 adult
 gate
 already
 message |  
-| bip_39_word_new_line6 | normal
+| bip_39_word_new_line_6 | normal
 adult
 gate
 already
 message
 inherit |  
-| bip_39_word_new_line7 | normal
+| bip_39_word_new_line_7 | normal
 adult
 gate
 already
 message
 inherit
 top |  
-| bip_39_word_new_line8 | normal
+| bip_39_word_new_line_8 | normal
 adult
 gate
 already
@@ -113,7 +113,7 @@ message
 inherit
 top
 office |  
-| bip_39_word_new_line9 | normal
+| bip_39_word_new_line_9 | normal
 adult
 gate
 already

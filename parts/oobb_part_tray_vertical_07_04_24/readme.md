@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | patch |  
-| bip_39_word_new_br10 | patch<br>satoshi<br>cave<br>polar<br>promote<br>broom<br>fiber<br>impulse<br>erosion<br>explain |  
-| bip_39_word_new_br11 | patch<br>satoshi<br>cave<br>polar<br>promote<br>broom<br>fiber<br>impulse<br>erosion<br>explain<br>lend |  
-| bip_39_word_new_br12 | patch<br>satoshi<br>cave<br>polar<br>promote<br>broom<br>fiber<br>impulse<br>erosion<br>explain<br>lend<br>advice |  
-| bip_39_word_new_br2 | patch<br>satoshi |  
-| bip_39_word_new_br3 | patch<br>satoshi<br>cave |  
-| bip_39_word_new_br4 | patch<br>satoshi<br>cave<br>polar |  
-| bip_39_word_new_br5 | patch<br>satoshi<br>cave<br>polar<br>promote |  
-| bip_39_word_new_br6 | patch<br>satoshi<br>cave<br>polar<br>promote<br>broom |  
-| bip_39_word_new_br7 | patch<br>satoshi<br>cave<br>polar<br>promote<br>broom<br>fiber |  
-| bip_39_word_new_br8 | patch<br>satoshi<br>cave<br>polar<br>promote<br>broom<br>fiber<br>impulse |  
-| bip_39_word_new_br9 | patch<br>satoshi<br>cave<br>polar<br>promote<br>broom<br>fiber<br>impulse<br>erosion |  
-| bip_39_word_new_line1 | patch |  
-| bip_39_word_new_line10 | patch
+| bip_39_word_new_br_1 | patch |  
+| bip_39_word_new_br_10 | patch<br>satoshi<br>cave<br>polar<br>promote<br>broom<br>fiber<br>impulse<br>erosion<br>explain |  
+| bip_39_word_new_br_11 | patch<br>satoshi<br>cave<br>polar<br>promote<br>broom<br>fiber<br>impulse<br>erosion<br>explain<br>lend |  
+| bip_39_word_new_br_12 | patch<br>satoshi<br>cave<br>polar<br>promote<br>broom<br>fiber<br>impulse<br>erosion<br>explain<br>lend<br>advice |  
+| bip_39_word_new_br_2 | patch<br>satoshi |  
+| bip_39_word_new_br_3 | patch<br>satoshi<br>cave |  
+| bip_39_word_new_br_4 | patch<br>satoshi<br>cave<br>polar |  
+| bip_39_word_new_br_5 | patch<br>satoshi<br>cave<br>polar<br>promote |  
+| bip_39_word_new_br_6 | patch<br>satoshi<br>cave<br>polar<br>promote<br>broom |  
+| bip_39_word_new_br_7 | patch<br>satoshi<br>cave<br>polar<br>promote<br>broom<br>fiber |  
+| bip_39_word_new_br_8 | patch<br>satoshi<br>cave<br>polar<br>promote<br>broom<br>fiber<br>impulse |  
+| bip_39_word_new_br_9 | patch<br>satoshi<br>cave<br>polar<br>promote<br>broom<br>fiber<br>impulse<br>erosion |  
+| bip_39_word_new_line_1 | patch |  
+| bip_39_word_new_line_10 | patch
 satoshi
 cave
 polar
@@ -55,7 +55,7 @@ fiber
 impulse
 erosion
 explain |  
-| bip_39_word_new_line11 | patch
+| bip_39_word_new_line_11 | patch
 satoshi
 cave
 polar
@@ -66,7 +66,7 @@ impulse
 erosion
 explain
 lend |  
-| bip_39_word_new_line12 | patch
+| bip_39_word_new_line_12 | patch
 satoshi
 cave
 polar
@@ -78,34 +78,34 @@ erosion
 explain
 lend
 advice |  
-| bip_39_word_new_line2 | patch
+| bip_39_word_new_line_2 | patch
 satoshi |  
-| bip_39_word_new_line3 | patch
+| bip_39_word_new_line_3 | patch
 satoshi
 cave |  
-| bip_39_word_new_line4 | patch
+| bip_39_word_new_line_4 | patch
 satoshi
 cave
 polar |  
-| bip_39_word_new_line5 | patch
+| bip_39_word_new_line_5 | patch
 satoshi
 cave
 polar
 promote |  
-| bip_39_word_new_line6 | patch
+| bip_39_word_new_line_6 | patch
 satoshi
 cave
 polar
 promote
 broom |  
-| bip_39_word_new_line7 | patch
+| bip_39_word_new_line_7 | patch
 satoshi
 cave
 polar
 promote
 broom
 fiber |  
-| bip_39_word_new_line8 | patch
+| bip_39_word_new_line_8 | patch
 satoshi
 cave
 polar
@@ -113,7 +113,7 @@ promote
 broom
 fiber
 impulse |  
-| bip_39_word_new_line9 | patch
+| bip_39_word_new_line_9 | patch
 satoshi
 cave
 polar

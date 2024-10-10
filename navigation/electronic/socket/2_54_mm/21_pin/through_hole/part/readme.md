@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | crater |  
-| bip_39_word_new_br10 | crater<br>broccoli<br>educate<br>sand<br>antique<br>comfort<br>whip<br>urge<br>duty<br>calm |  
-| bip_39_word_new_br11 | crater<br>broccoli<br>educate<br>sand<br>antique<br>comfort<br>whip<br>urge<br>duty<br>calm<br>kid |  
-| bip_39_word_new_br12 | crater<br>broccoli<br>educate<br>sand<br>antique<br>comfort<br>whip<br>urge<br>duty<br>calm<br>kid<br>army |  
-| bip_39_word_new_br2 | crater<br>broccoli |  
-| bip_39_word_new_br3 | crater<br>broccoli<br>educate |  
-| bip_39_word_new_br4 | crater<br>broccoli<br>educate<br>sand |  
-| bip_39_word_new_br5 | crater<br>broccoli<br>educate<br>sand<br>antique |  
-| bip_39_word_new_br6 | crater<br>broccoli<br>educate<br>sand<br>antique<br>comfort |  
-| bip_39_word_new_br7 | crater<br>broccoli<br>educate<br>sand<br>antique<br>comfort<br>whip |  
-| bip_39_word_new_br8 | crater<br>broccoli<br>educate<br>sand<br>antique<br>comfort<br>whip<br>urge |  
-| bip_39_word_new_br9 | crater<br>broccoli<br>educate<br>sand<br>antique<br>comfort<br>whip<br>urge<br>duty |  
-| bip_39_word_new_line1 | crater |  
-| bip_39_word_new_line10 | crater
+| bip_39_word_new_br_1 | crater |  
+| bip_39_word_new_br_10 | crater<br>broccoli<br>educate<br>sand<br>antique<br>comfort<br>whip<br>urge<br>duty<br>calm |  
+| bip_39_word_new_br_11 | crater<br>broccoli<br>educate<br>sand<br>antique<br>comfort<br>whip<br>urge<br>duty<br>calm<br>kid |  
+| bip_39_word_new_br_12 | crater<br>broccoli<br>educate<br>sand<br>antique<br>comfort<br>whip<br>urge<br>duty<br>calm<br>kid<br>army |  
+| bip_39_word_new_br_2 | crater<br>broccoli |  
+| bip_39_word_new_br_3 | crater<br>broccoli<br>educate |  
+| bip_39_word_new_br_4 | crater<br>broccoli<br>educate<br>sand |  
+| bip_39_word_new_br_5 | crater<br>broccoli<br>educate<br>sand<br>antique |  
+| bip_39_word_new_br_6 | crater<br>broccoli<br>educate<br>sand<br>antique<br>comfort |  
+| bip_39_word_new_br_7 | crater<br>broccoli<br>educate<br>sand<br>antique<br>comfort<br>whip |  
+| bip_39_word_new_br_8 | crater<br>broccoli<br>educate<br>sand<br>antique<br>comfort<br>whip<br>urge |  
+| bip_39_word_new_br_9 | crater<br>broccoli<br>educate<br>sand<br>antique<br>comfort<br>whip<br>urge<br>duty |  
+| bip_39_word_new_line_1 | crater |  
+| bip_39_word_new_line_10 | crater
 broccoli
 educate
 sand
@@ -55,7 +55,7 @@ whip
 urge
 duty
 calm |  
-| bip_39_word_new_line11 | crater
+| bip_39_word_new_line_11 | crater
 broccoli
 educate
 sand
@@ -66,7 +66,7 @@ urge
 duty
 calm
 kid |  
-| bip_39_word_new_line12 | crater
+| bip_39_word_new_line_12 | crater
 broccoli
 educate
 sand
@@ -78,34 +78,34 @@ duty
 calm
 kid
 army |  
-| bip_39_word_new_line2 | crater
+| bip_39_word_new_line_2 | crater
 broccoli |  
-| bip_39_word_new_line3 | crater
+| bip_39_word_new_line_3 | crater
 broccoli
 educate |  
-| bip_39_word_new_line4 | crater
+| bip_39_word_new_line_4 | crater
 broccoli
 educate
 sand |  
-| bip_39_word_new_line5 | crater
+| bip_39_word_new_line_5 | crater
 broccoli
 educate
 sand
 antique |  
-| bip_39_word_new_line6 | crater
+| bip_39_word_new_line_6 | crater
 broccoli
 educate
 sand
 antique
 comfort |  
-| bip_39_word_new_line7 | crater
+| bip_39_word_new_line_7 | crater
 broccoli
 educate
 sand
 antique
 comfort
 whip |  
-| bip_39_word_new_line8 | crater
+| bip_39_word_new_line_8 | crater
 broccoli
 educate
 sand
@@ -113,7 +113,7 @@ antique
 comfort
 whip
 urge |  
-| bip_39_word_new_line9 | crater
+| bip_39_word_new_line_9 | crater
 broccoli
 educate
 sand

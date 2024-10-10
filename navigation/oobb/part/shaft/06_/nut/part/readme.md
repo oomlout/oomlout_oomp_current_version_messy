@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | clean |  
-| bip_39_word_new_br10 | clean<br>emotion<br>love<br>asset<br>helmet<br>royal<br>suspect<br>steak<br>town<br>call |  
-| bip_39_word_new_br11 | clean<br>emotion<br>love<br>asset<br>helmet<br>royal<br>suspect<br>steak<br>town<br>call<br>suggest |  
-| bip_39_word_new_br12 | clean<br>emotion<br>love<br>asset<br>helmet<br>royal<br>suspect<br>steak<br>town<br>call<br>suggest<br>ankle |  
-| bip_39_word_new_br2 | clean<br>emotion |  
-| bip_39_word_new_br3 | clean<br>emotion<br>love |  
-| bip_39_word_new_br4 | clean<br>emotion<br>love<br>asset |  
-| bip_39_word_new_br5 | clean<br>emotion<br>love<br>asset<br>helmet |  
-| bip_39_word_new_br6 | clean<br>emotion<br>love<br>asset<br>helmet<br>royal |  
-| bip_39_word_new_br7 | clean<br>emotion<br>love<br>asset<br>helmet<br>royal<br>suspect |  
-| bip_39_word_new_br8 | clean<br>emotion<br>love<br>asset<br>helmet<br>royal<br>suspect<br>steak |  
-| bip_39_word_new_br9 | clean<br>emotion<br>love<br>asset<br>helmet<br>royal<br>suspect<br>steak<br>town |  
-| bip_39_word_new_line1 | clean |  
-| bip_39_word_new_line10 | clean
+| bip_39_word_new_br_1 | clean |  
+| bip_39_word_new_br_10 | clean<br>emotion<br>love<br>asset<br>helmet<br>royal<br>suspect<br>steak<br>town<br>call |  
+| bip_39_word_new_br_11 | clean<br>emotion<br>love<br>asset<br>helmet<br>royal<br>suspect<br>steak<br>town<br>call<br>suggest |  
+| bip_39_word_new_br_12 | clean<br>emotion<br>love<br>asset<br>helmet<br>royal<br>suspect<br>steak<br>town<br>call<br>suggest<br>ankle |  
+| bip_39_word_new_br_2 | clean<br>emotion |  
+| bip_39_word_new_br_3 | clean<br>emotion<br>love |  
+| bip_39_word_new_br_4 | clean<br>emotion<br>love<br>asset |  
+| bip_39_word_new_br_5 | clean<br>emotion<br>love<br>asset<br>helmet |  
+| bip_39_word_new_br_6 | clean<br>emotion<br>love<br>asset<br>helmet<br>royal |  
+| bip_39_word_new_br_7 | clean<br>emotion<br>love<br>asset<br>helmet<br>royal<br>suspect |  
+| bip_39_word_new_br_8 | clean<br>emotion<br>love<br>asset<br>helmet<br>royal<br>suspect<br>steak |  
+| bip_39_word_new_br_9 | clean<br>emotion<br>love<br>asset<br>helmet<br>royal<br>suspect<br>steak<br>town |  
+| bip_39_word_new_line_1 | clean |  
+| bip_39_word_new_line_10 | clean
 emotion
 love
 asset
@@ -55,7 +55,7 @@ suspect
 steak
 town
 call |  
-| bip_39_word_new_line11 | clean
+| bip_39_word_new_line_11 | clean
 emotion
 love
 asset
@@ -66,7 +66,7 @@ steak
 town
 call
 suggest |  
-| bip_39_word_new_line12 | clean
+| bip_39_word_new_line_12 | clean
 emotion
 love
 asset
@@ -78,34 +78,34 @@ town
 call
 suggest
 ankle |  
-| bip_39_word_new_line2 | clean
+| bip_39_word_new_line_2 | clean
 emotion |  
-| bip_39_word_new_line3 | clean
+| bip_39_word_new_line_3 | clean
 emotion
 love |  
-| bip_39_word_new_line4 | clean
+| bip_39_word_new_line_4 | clean
 emotion
 love
 asset |  
-| bip_39_word_new_line5 | clean
+| bip_39_word_new_line_5 | clean
 emotion
 love
 asset
 helmet |  
-| bip_39_word_new_line6 | clean
+| bip_39_word_new_line_6 | clean
 emotion
 love
 asset
 helmet
 royal |  
-| bip_39_word_new_line7 | clean
+| bip_39_word_new_line_7 | clean
 emotion
 love
 asset
 helmet
 royal
 suspect |  
-| bip_39_word_new_line8 | clean
+| bip_39_word_new_line_8 | clean
 emotion
 love
 asset
@@ -113,7 +113,7 @@ helmet
 royal
 suspect
 steak |  
-| bip_39_word_new_line9 | clean
+| bip_39_word_new_line_9 | clean
 emotion
 love
 asset

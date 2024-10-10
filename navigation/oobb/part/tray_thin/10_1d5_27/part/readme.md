@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | obscure |  
-| bip_39_word_new_br10 | obscure<br>sweet<br>code<br>agent<br>liberty<br>genre<br>armed<br>spoon<br>mention<br>scatter |  
-| bip_39_word_new_br11 | obscure<br>sweet<br>code<br>agent<br>liberty<br>genre<br>armed<br>spoon<br>mention<br>scatter<br>dish |  
-| bip_39_word_new_br12 | obscure<br>sweet<br>code<br>agent<br>liberty<br>genre<br>armed<br>spoon<br>mention<br>scatter<br>dish<br>alarm |  
-| bip_39_word_new_br2 | obscure<br>sweet |  
-| bip_39_word_new_br3 | obscure<br>sweet<br>code |  
-| bip_39_word_new_br4 | obscure<br>sweet<br>code<br>agent |  
-| bip_39_word_new_br5 | obscure<br>sweet<br>code<br>agent<br>liberty |  
-| bip_39_word_new_br6 | obscure<br>sweet<br>code<br>agent<br>liberty<br>genre |  
-| bip_39_word_new_br7 | obscure<br>sweet<br>code<br>agent<br>liberty<br>genre<br>armed |  
-| bip_39_word_new_br8 | obscure<br>sweet<br>code<br>agent<br>liberty<br>genre<br>armed<br>spoon |  
-| bip_39_word_new_br9 | obscure<br>sweet<br>code<br>agent<br>liberty<br>genre<br>armed<br>spoon<br>mention |  
-| bip_39_word_new_line1 | obscure |  
-| bip_39_word_new_line10 | obscure
+| bip_39_word_new_br_1 | obscure |  
+| bip_39_word_new_br_10 | obscure<br>sweet<br>code<br>agent<br>liberty<br>genre<br>armed<br>spoon<br>mention<br>scatter |  
+| bip_39_word_new_br_11 | obscure<br>sweet<br>code<br>agent<br>liberty<br>genre<br>armed<br>spoon<br>mention<br>scatter<br>dish |  
+| bip_39_word_new_br_12 | obscure<br>sweet<br>code<br>agent<br>liberty<br>genre<br>armed<br>spoon<br>mention<br>scatter<br>dish<br>alarm |  
+| bip_39_word_new_br_2 | obscure<br>sweet |  
+| bip_39_word_new_br_3 | obscure<br>sweet<br>code |  
+| bip_39_word_new_br_4 | obscure<br>sweet<br>code<br>agent |  
+| bip_39_word_new_br_5 | obscure<br>sweet<br>code<br>agent<br>liberty |  
+| bip_39_word_new_br_6 | obscure<br>sweet<br>code<br>agent<br>liberty<br>genre |  
+| bip_39_word_new_br_7 | obscure<br>sweet<br>code<br>agent<br>liberty<br>genre<br>armed |  
+| bip_39_word_new_br_8 | obscure<br>sweet<br>code<br>agent<br>liberty<br>genre<br>armed<br>spoon |  
+| bip_39_word_new_br_9 | obscure<br>sweet<br>code<br>agent<br>liberty<br>genre<br>armed<br>spoon<br>mention |  
+| bip_39_word_new_line_1 | obscure |  
+| bip_39_word_new_line_10 | obscure
 sweet
 code
 agent
@@ -55,7 +55,7 @@ armed
 spoon
 mention
 scatter |  
-| bip_39_word_new_line11 | obscure
+| bip_39_word_new_line_11 | obscure
 sweet
 code
 agent
@@ -66,7 +66,7 @@ spoon
 mention
 scatter
 dish |  
-| bip_39_word_new_line12 | obscure
+| bip_39_word_new_line_12 | obscure
 sweet
 code
 agent
@@ -78,34 +78,34 @@ mention
 scatter
 dish
 alarm |  
-| bip_39_word_new_line2 | obscure
+| bip_39_word_new_line_2 | obscure
 sweet |  
-| bip_39_word_new_line3 | obscure
+| bip_39_word_new_line_3 | obscure
 sweet
 code |  
-| bip_39_word_new_line4 | obscure
+| bip_39_word_new_line_4 | obscure
 sweet
 code
 agent |  
-| bip_39_word_new_line5 | obscure
+| bip_39_word_new_line_5 | obscure
 sweet
 code
 agent
 liberty |  
-| bip_39_word_new_line6 | obscure
+| bip_39_word_new_line_6 | obscure
 sweet
 code
 agent
 liberty
 genre |  
-| bip_39_word_new_line7 | obscure
+| bip_39_word_new_line_7 | obscure
 sweet
 code
 agent
 liberty
 genre
 armed |  
-| bip_39_word_new_line8 | obscure
+| bip_39_word_new_line_8 | obscure
 sweet
 code
 agent
@@ -113,7 +113,7 @@ liberty
 genre
 armed
 spoon |  
-| bip_39_word_new_line9 | obscure
+| bip_39_word_new_line_9 | obscure
 sweet
 code
 agent

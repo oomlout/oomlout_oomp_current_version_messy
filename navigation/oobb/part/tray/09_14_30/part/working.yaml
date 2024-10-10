@@ -1,17 +1,17 @@
-bip_39_word_new_br1: vital
-bip_39_word_new_br10: vital<br>egg<br>disagree<br>bicycle<br>sketch<br>bargain<br>van<br>crouch<br>long<br>harbor
-bip_39_word_new_br11: vital<br>egg<br>disagree<br>bicycle<br>sketch<br>bargain<br>van<br>crouch<br>long<br>harbor<br>damage
-bip_39_word_new_br12: vital<br>egg<br>disagree<br>bicycle<br>sketch<br>bargain<br>van<br>crouch<br>long<br>harbor<br>damage<br>art
-bip_39_word_new_br2: vital<br>egg
-bip_39_word_new_br3: vital<br>egg<br>disagree
-bip_39_word_new_br4: vital<br>egg<br>disagree<br>bicycle
-bip_39_word_new_br5: vital<br>egg<br>disagree<br>bicycle<br>sketch
-bip_39_word_new_br6: vital<br>egg<br>disagree<br>bicycle<br>sketch<br>bargain
-bip_39_word_new_br7: vital<br>egg<br>disagree<br>bicycle<br>sketch<br>bargain<br>van
-bip_39_word_new_br8: vital<br>egg<br>disagree<br>bicycle<br>sketch<br>bargain<br>van<br>crouch
-bip_39_word_new_br9: vital<br>egg<br>disagree<br>bicycle<br>sketch<br>bargain<br>van<br>crouch<br>long
-bip_39_word_new_line1: vital
-bip_39_word_new_line10: 'vital
+bip_39_word_new_br_1: vital
+bip_39_word_new_br_10: vital<br>egg<br>disagree<br>bicycle<br>sketch<br>bargain<br>van<br>crouch<br>long<br>harbor
+bip_39_word_new_br_11: vital<br>egg<br>disagree<br>bicycle<br>sketch<br>bargain<br>van<br>crouch<br>long<br>harbor<br>damage
+bip_39_word_new_br_12: vital<br>egg<br>disagree<br>bicycle<br>sketch<br>bargain<br>van<br>crouch<br>long<br>harbor<br>damage<br>art
+bip_39_word_new_br_2: vital<br>egg
+bip_39_word_new_br_3: vital<br>egg<br>disagree
+bip_39_word_new_br_4: vital<br>egg<br>disagree<br>bicycle
+bip_39_word_new_br_5: vital<br>egg<br>disagree<br>bicycle<br>sketch
+bip_39_word_new_br_6: vital<br>egg<br>disagree<br>bicycle<br>sketch<br>bargain
+bip_39_word_new_br_7: vital<br>egg<br>disagree<br>bicycle<br>sketch<br>bargain<br>van
+bip_39_word_new_br_8: vital<br>egg<br>disagree<br>bicycle<br>sketch<br>bargain<br>van<br>crouch
+bip_39_word_new_br_9: vital<br>egg<br>disagree<br>bicycle<br>sketch<br>bargain<br>van<br>crouch<br>long
+bip_39_word_new_line_1: vital
+bip_39_word_new_line_10: 'vital
 
   egg
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'vital
   long
 
   harbor'
-bip_39_word_new_line11: 'vital
+bip_39_word_new_line_11: 'vital
 
   egg
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'vital
   harbor
 
   damage'
-bip_39_word_new_line12: 'vital
+bip_39_word_new_line_12: 'vital
 
   egg
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'vital
   damage
 
   art'
-bip_39_word_new_line2: 'vital
+bip_39_word_new_line_2: 'vital
 
   egg'
-bip_39_word_new_line3: 'vital
+bip_39_word_new_line_3: 'vital
 
   egg
 
   disagree'
-bip_39_word_new_line4: 'vital
+bip_39_word_new_line_4: 'vital
 
   egg
 
   disagree
 
   bicycle'
-bip_39_word_new_line5: 'vital
+bip_39_word_new_line_5: 'vital
 
   egg
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'vital
   bicycle
 
   sketch'
-bip_39_word_new_line6: 'vital
+bip_39_word_new_line_6: 'vital
 
   egg
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'vital
   sketch
 
   bargain'
-bip_39_word_new_line7: 'vital
+bip_39_word_new_line_7: 'vital
 
   egg
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'vital
   bargain
 
   van'
-bip_39_word_new_line8: 'vital
+bip_39_word_new_line_8: 'vital
 
   egg
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'vital
   van
 
   crouch'
-bip_39_word_new_line9: 'vital
+bip_39_word_new_line_9: 'vital
 
   egg
 

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sword |  
-| bip_39_word_new_br10 | sword<br>able<br>ketchup<br>parrot<br>slender<br>more<br>safe<br>defense<br>slim<br>blood |  
-| bip_39_word_new_br11 | sword<br>able<br>ketchup<br>parrot<br>slender<br>more<br>safe<br>defense<br>slim<br>blood<br>payment |  
-| bip_39_word_new_br12 | sword<br>able<br>ketchup<br>parrot<br>slender<br>more<br>safe<br>defense<br>slim<br>blood<br>payment<br>alert |  
-| bip_39_word_new_br2 | sword<br>able |  
-| bip_39_word_new_br3 | sword<br>able<br>ketchup |  
-| bip_39_word_new_br4 | sword<br>able<br>ketchup<br>parrot |  
-| bip_39_word_new_br5 | sword<br>able<br>ketchup<br>parrot<br>slender |  
-| bip_39_word_new_br6 | sword<br>able<br>ketchup<br>parrot<br>slender<br>more |  
-| bip_39_word_new_br7 | sword<br>able<br>ketchup<br>parrot<br>slender<br>more<br>safe |  
-| bip_39_word_new_br8 | sword<br>able<br>ketchup<br>parrot<br>slender<br>more<br>safe<br>defense |  
-| bip_39_word_new_br9 | sword<br>able<br>ketchup<br>parrot<br>slender<br>more<br>safe<br>defense<br>slim |  
-| bip_39_word_new_line1 | sword |  
-| bip_39_word_new_line10 | sword
+| bip_39_word_new_br_1 | sword |  
+| bip_39_word_new_br_10 | sword<br>able<br>ketchup<br>parrot<br>slender<br>more<br>safe<br>defense<br>slim<br>blood |  
+| bip_39_word_new_br_11 | sword<br>able<br>ketchup<br>parrot<br>slender<br>more<br>safe<br>defense<br>slim<br>blood<br>payment |  
+| bip_39_word_new_br_12 | sword<br>able<br>ketchup<br>parrot<br>slender<br>more<br>safe<br>defense<br>slim<br>blood<br>payment<br>alert |  
+| bip_39_word_new_br_2 | sword<br>able |  
+| bip_39_word_new_br_3 | sword<br>able<br>ketchup |  
+| bip_39_word_new_br_4 | sword<br>able<br>ketchup<br>parrot |  
+| bip_39_word_new_br_5 | sword<br>able<br>ketchup<br>parrot<br>slender |  
+| bip_39_word_new_br_6 | sword<br>able<br>ketchup<br>parrot<br>slender<br>more |  
+| bip_39_word_new_br_7 | sword<br>able<br>ketchup<br>parrot<br>slender<br>more<br>safe |  
+| bip_39_word_new_br_8 | sword<br>able<br>ketchup<br>parrot<br>slender<br>more<br>safe<br>defense |  
+| bip_39_word_new_br_9 | sword<br>able<br>ketchup<br>parrot<br>slender<br>more<br>safe<br>defense<br>slim |  
+| bip_39_word_new_line_1 | sword |  
+| bip_39_word_new_line_10 | sword
 able
 ketchup
 parrot
@@ -55,7 +55,7 @@ safe
 defense
 slim
 blood |  
-| bip_39_word_new_line11 | sword
+| bip_39_word_new_line_11 | sword
 able
 ketchup
 parrot
@@ -66,7 +66,7 @@ defense
 slim
 blood
 payment |  
-| bip_39_word_new_line12 | sword
+| bip_39_word_new_line_12 | sword
 able
 ketchup
 parrot
@@ -78,34 +78,34 @@ slim
 blood
 payment
 alert |  
-| bip_39_word_new_line2 | sword
+| bip_39_word_new_line_2 | sword
 able |  
-| bip_39_word_new_line3 | sword
+| bip_39_word_new_line_3 | sword
 able
 ketchup |  
-| bip_39_word_new_line4 | sword
+| bip_39_word_new_line_4 | sword
 able
 ketchup
 parrot |  
-| bip_39_word_new_line5 | sword
+| bip_39_word_new_line_5 | sword
 able
 ketchup
 parrot
 slender |  
-| bip_39_word_new_line6 | sword
+| bip_39_word_new_line_6 | sword
 able
 ketchup
 parrot
 slender
 more |  
-| bip_39_word_new_line7 | sword
+| bip_39_word_new_line_7 | sword
 able
 ketchup
 parrot
 slender
 more
 safe |  
-| bip_39_word_new_line8 | sword
+| bip_39_word_new_line_8 | sword
 able
 ketchup
 parrot
@@ -113,7 +113,7 @@ slender
 more
 safe
 defense |  
-| bip_39_word_new_line9 | sword
+| bip_39_word_new_line_9 | sword
 able
 ketchup
 parrot

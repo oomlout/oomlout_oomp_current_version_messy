@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | today |  
-| bip_39_word_new_br10 | today<br>reflect<br>bubble<br>impact<br>snack<br>tent<br>occur<br>maple<br>fiscal<br>usage |  
-| bip_39_word_new_br11 | today<br>reflect<br>bubble<br>impact<br>snack<br>tent<br>occur<br>maple<br>fiscal<br>usage<br>capital |  
-| bip_39_word_new_br12 | today<br>reflect<br>bubble<br>impact<br>snack<br>tent<br>occur<br>maple<br>fiscal<br>usage<br>capital<br>attend |  
-| bip_39_word_new_br2 | today<br>reflect |  
-| bip_39_word_new_br3 | today<br>reflect<br>bubble |  
-| bip_39_word_new_br4 | today<br>reflect<br>bubble<br>impact |  
-| bip_39_word_new_br5 | today<br>reflect<br>bubble<br>impact<br>snack |  
-| bip_39_word_new_br6 | today<br>reflect<br>bubble<br>impact<br>snack<br>tent |  
-| bip_39_word_new_br7 | today<br>reflect<br>bubble<br>impact<br>snack<br>tent<br>occur |  
-| bip_39_word_new_br8 | today<br>reflect<br>bubble<br>impact<br>snack<br>tent<br>occur<br>maple |  
-| bip_39_word_new_br9 | today<br>reflect<br>bubble<br>impact<br>snack<br>tent<br>occur<br>maple<br>fiscal |  
-| bip_39_word_new_line1 | today |  
-| bip_39_word_new_line10 | today
+| bip_39_word_new_br_1 | today |  
+| bip_39_word_new_br_10 | today<br>reflect<br>bubble<br>impact<br>snack<br>tent<br>occur<br>maple<br>fiscal<br>usage |  
+| bip_39_word_new_br_11 | today<br>reflect<br>bubble<br>impact<br>snack<br>tent<br>occur<br>maple<br>fiscal<br>usage<br>capital |  
+| bip_39_word_new_br_12 | today<br>reflect<br>bubble<br>impact<br>snack<br>tent<br>occur<br>maple<br>fiscal<br>usage<br>capital<br>attend |  
+| bip_39_word_new_br_2 | today<br>reflect |  
+| bip_39_word_new_br_3 | today<br>reflect<br>bubble |  
+| bip_39_word_new_br_4 | today<br>reflect<br>bubble<br>impact |  
+| bip_39_word_new_br_5 | today<br>reflect<br>bubble<br>impact<br>snack |  
+| bip_39_word_new_br_6 | today<br>reflect<br>bubble<br>impact<br>snack<br>tent |  
+| bip_39_word_new_br_7 | today<br>reflect<br>bubble<br>impact<br>snack<br>tent<br>occur |  
+| bip_39_word_new_br_8 | today<br>reflect<br>bubble<br>impact<br>snack<br>tent<br>occur<br>maple |  
+| bip_39_word_new_br_9 | today<br>reflect<br>bubble<br>impact<br>snack<br>tent<br>occur<br>maple<br>fiscal |  
+| bip_39_word_new_line_1 | today |  
+| bip_39_word_new_line_10 | today
 reflect
 bubble
 impact
@@ -55,7 +55,7 @@ occur
 maple
 fiscal
 usage |  
-| bip_39_word_new_line11 | today
+| bip_39_word_new_line_11 | today
 reflect
 bubble
 impact
@@ -66,7 +66,7 @@ maple
 fiscal
 usage
 capital |  
-| bip_39_word_new_line12 | today
+| bip_39_word_new_line_12 | today
 reflect
 bubble
 impact
@@ -78,34 +78,34 @@ fiscal
 usage
 capital
 attend |  
-| bip_39_word_new_line2 | today
+| bip_39_word_new_line_2 | today
 reflect |  
-| bip_39_word_new_line3 | today
+| bip_39_word_new_line_3 | today
 reflect
 bubble |  
-| bip_39_word_new_line4 | today
+| bip_39_word_new_line_4 | today
 reflect
 bubble
 impact |  
-| bip_39_word_new_line5 | today
+| bip_39_word_new_line_5 | today
 reflect
 bubble
 impact
 snack |  
-| bip_39_word_new_line6 | today
+| bip_39_word_new_line_6 | today
 reflect
 bubble
 impact
 snack
 tent |  
-| bip_39_word_new_line7 | today
+| bip_39_word_new_line_7 | today
 reflect
 bubble
 impact
 snack
 tent
 occur |  
-| bip_39_word_new_line8 | today
+| bip_39_word_new_line_8 | today
 reflect
 bubble
 impact
@@ -113,7 +113,7 @@ snack
 tent
 occur
 maple |  
-| bip_39_word_new_line9 | today
+| bip_39_word_new_line_9 | today
 reflect
 bubble
 impact

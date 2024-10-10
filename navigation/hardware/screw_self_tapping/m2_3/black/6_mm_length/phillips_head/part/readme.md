@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | athlete |  
-| bip_39_word_new_br10 | athlete<br>image<br>belt<br>brass<br>narrow<br>orient<br>split<br>chronic<br>polar<br>pool |  
-| bip_39_word_new_br11 | athlete<br>image<br>belt<br>brass<br>narrow<br>orient<br>split<br>chronic<br>polar<br>pool<br>goat |  
-| bip_39_word_new_br12 | athlete<br>image<br>belt<br>brass<br>narrow<br>orient<br>split<br>chronic<br>polar<br>pool<br>goat<br>avocado |  
-| bip_39_word_new_br2 | athlete<br>image |  
-| bip_39_word_new_br3 | athlete<br>image<br>belt |  
-| bip_39_word_new_br4 | athlete<br>image<br>belt<br>brass |  
-| bip_39_word_new_br5 | athlete<br>image<br>belt<br>brass<br>narrow |  
-| bip_39_word_new_br6 | athlete<br>image<br>belt<br>brass<br>narrow<br>orient |  
-| bip_39_word_new_br7 | athlete<br>image<br>belt<br>brass<br>narrow<br>orient<br>split |  
-| bip_39_word_new_br8 | athlete<br>image<br>belt<br>brass<br>narrow<br>orient<br>split<br>chronic |  
-| bip_39_word_new_br9 | athlete<br>image<br>belt<br>brass<br>narrow<br>orient<br>split<br>chronic<br>polar |  
-| bip_39_word_new_line1 | athlete |  
-| bip_39_word_new_line10 | athlete
+| bip_39_word_new_br_1 | athlete |  
+| bip_39_word_new_br_10 | athlete<br>image<br>belt<br>brass<br>narrow<br>orient<br>split<br>chronic<br>polar<br>pool |  
+| bip_39_word_new_br_11 | athlete<br>image<br>belt<br>brass<br>narrow<br>orient<br>split<br>chronic<br>polar<br>pool<br>goat |  
+| bip_39_word_new_br_12 | athlete<br>image<br>belt<br>brass<br>narrow<br>orient<br>split<br>chronic<br>polar<br>pool<br>goat<br>avocado |  
+| bip_39_word_new_br_2 | athlete<br>image |  
+| bip_39_word_new_br_3 | athlete<br>image<br>belt |  
+| bip_39_word_new_br_4 | athlete<br>image<br>belt<br>brass |  
+| bip_39_word_new_br_5 | athlete<br>image<br>belt<br>brass<br>narrow |  
+| bip_39_word_new_br_6 | athlete<br>image<br>belt<br>brass<br>narrow<br>orient |  
+| bip_39_word_new_br_7 | athlete<br>image<br>belt<br>brass<br>narrow<br>orient<br>split |  
+| bip_39_word_new_br_8 | athlete<br>image<br>belt<br>brass<br>narrow<br>orient<br>split<br>chronic |  
+| bip_39_word_new_br_9 | athlete<br>image<br>belt<br>brass<br>narrow<br>orient<br>split<br>chronic<br>polar |  
+| bip_39_word_new_line_1 | athlete |  
+| bip_39_word_new_line_10 | athlete
 image
 belt
 brass
@@ -55,7 +55,7 @@ split
 chronic
 polar
 pool |  
-| bip_39_word_new_line11 | athlete
+| bip_39_word_new_line_11 | athlete
 image
 belt
 brass
@@ -66,7 +66,7 @@ chronic
 polar
 pool
 goat |  
-| bip_39_word_new_line12 | athlete
+| bip_39_word_new_line_12 | athlete
 image
 belt
 brass
@@ -78,34 +78,34 @@ polar
 pool
 goat
 avocado |  
-| bip_39_word_new_line2 | athlete
+| bip_39_word_new_line_2 | athlete
 image |  
-| bip_39_word_new_line3 | athlete
+| bip_39_word_new_line_3 | athlete
 image
 belt |  
-| bip_39_word_new_line4 | athlete
+| bip_39_word_new_line_4 | athlete
 image
 belt
 brass |  
-| bip_39_word_new_line5 | athlete
+| bip_39_word_new_line_5 | athlete
 image
 belt
 brass
 narrow |  
-| bip_39_word_new_line6 | athlete
+| bip_39_word_new_line_6 | athlete
 image
 belt
 brass
 narrow
 orient |  
-| bip_39_word_new_line7 | athlete
+| bip_39_word_new_line_7 | athlete
 image
 belt
 brass
 narrow
 orient
 split |  
-| bip_39_word_new_line8 | athlete
+| bip_39_word_new_line_8 | athlete
 image
 belt
 brass
@@ -113,7 +113,7 @@ narrow
 orient
 split
 chronic |  
-| bip_39_word_new_line9 | athlete
+| bip_39_word_new_line_9 | athlete
 image
 belt
 brass

@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | judge |  
-| bip_39_word_new_br10 | judge<br>harbor<br>vote<br>breeze<br>where<br>fox<br>save<br>photo<br>recycle<br>try |  
-| bip_39_word_new_br11 | judge<br>harbor<br>vote<br>breeze<br>where<br>fox<br>save<br>photo<br>recycle<br>try<br>craft |  
-| bip_39_word_new_br2 | judge<br>harbor |  
-| bip_39_word_new_br3 | judge<br>harbor<br>vote |  
-| bip_39_word_new_br4 | judge<br>harbor<br>vote<br>breeze |  
-| bip_39_word_new_br5 | judge<br>harbor<br>vote<br>breeze<br>where |  
-| bip_39_word_new_br6 | judge<br>harbor<br>vote<br>breeze<br>where<br>fox |  
-| bip_39_word_new_br7 | judge<br>harbor<br>vote<br>breeze<br>where<br>fox<br>save |  
-| bip_39_word_new_br8 | judge<br>harbor<br>vote<br>breeze<br>where<br>fox<br>save<br>photo |  
-| bip_39_word_new_br9 | judge<br>harbor<br>vote<br>breeze<br>where<br>fox<br>save<br>photo<br>recycle |  
-| bip_39_word_new_line1 | judge |  
-| bip_39_word_new_line10 | judge
+| bip_39_word_new_br_1 | judge |  
+| bip_39_word_new_br_10 | judge<br>harbor<br>vote<br>breeze<br>where<br>fox<br>save<br>photo<br>recycle<br>try |  
+| bip_39_word_new_br_11 | judge<br>harbor<br>vote<br>breeze<br>where<br>fox<br>save<br>photo<br>recycle<br>try<br>craft |  
+| bip_39_word_new_br_2 | judge<br>harbor |  
+| bip_39_word_new_br_3 | judge<br>harbor<br>vote |  
+| bip_39_word_new_br_4 | judge<br>harbor<br>vote<br>breeze |  
+| bip_39_word_new_br_5 | judge<br>harbor<br>vote<br>breeze<br>where |  
+| bip_39_word_new_br_6 | judge<br>harbor<br>vote<br>breeze<br>where<br>fox |  
+| bip_39_word_new_br_7 | judge<br>harbor<br>vote<br>breeze<br>where<br>fox<br>save |  
+| bip_39_word_new_br_8 | judge<br>harbor<br>vote<br>breeze<br>where<br>fox<br>save<br>photo |  
+| bip_39_word_new_br_9 | judge<br>harbor<br>vote<br>breeze<br>where<br>fox<br>save<br>photo<br>recycle |  
+| bip_39_word_new_line_1 | judge |  
+| bip_39_word_new_line_10 | judge
 harbor
 vote
 breeze
@@ -54,7 +54,7 @@ save
 photo
 recycle
 try |  
-| bip_39_word_new_line11 | judge
+| bip_39_word_new_line_11 | judge
 harbor
 vote
 breeze
@@ -65,34 +65,34 @@ photo
 recycle
 try
 craft |  
-| bip_39_word_new_line2 | judge
+| bip_39_word_new_line_2 | judge
 harbor |  
-| bip_39_word_new_line3 | judge
+| bip_39_word_new_line_3 | judge
 harbor
 vote |  
-| bip_39_word_new_line4 | judge
+| bip_39_word_new_line_4 | judge
 harbor
 vote
 breeze |  
-| bip_39_word_new_line5 | judge
+| bip_39_word_new_line_5 | judge
 harbor
 vote
 breeze
 where |  
-| bip_39_word_new_line6 | judge
+| bip_39_word_new_line_6 | judge
 harbor
 vote
 breeze
 where
 fox |  
-| bip_39_word_new_line7 | judge
+| bip_39_word_new_line_7 | judge
 harbor
 vote
 breeze
 where
 fox
 save |  
-| bip_39_word_new_line8 | judge
+| bip_39_word_new_line_8 | judge
 harbor
 vote
 breeze
@@ -100,7 +100,7 @@ where
 fox
 save
 photo |  
-| bip_39_word_new_line9 | judge
+| bip_39_word_new_line_9 | judge
 harbor
 vote
 breeze

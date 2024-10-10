@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | math |  
-| bip_39_word_new_br10 | math<br>flight<br>insect<br>share<br>slice<br>angry<br>damp<br>carbon<br>police<br>hip |  
-| bip_39_word_new_br11 | math<br>flight<br>insect<br>share<br>slice<br>angry<br>damp<br>carbon<br>police<br>hip<br>kit |  
-| bip_39_word_new_br12 | math<br>flight<br>insect<br>share<br>slice<br>angry<br>damp<br>carbon<br>police<br>hip<br>kit<br>atom |  
-| bip_39_word_new_br2 | math<br>flight |  
-| bip_39_word_new_br3 | math<br>flight<br>insect |  
-| bip_39_word_new_br4 | math<br>flight<br>insect<br>share |  
-| bip_39_word_new_br5 | math<br>flight<br>insect<br>share<br>slice |  
-| bip_39_word_new_br6 | math<br>flight<br>insect<br>share<br>slice<br>angry |  
-| bip_39_word_new_br7 | math<br>flight<br>insect<br>share<br>slice<br>angry<br>damp |  
-| bip_39_word_new_br8 | math<br>flight<br>insect<br>share<br>slice<br>angry<br>damp<br>carbon |  
-| bip_39_word_new_br9 | math<br>flight<br>insect<br>share<br>slice<br>angry<br>damp<br>carbon<br>police |  
-| bip_39_word_new_line1 | math |  
-| bip_39_word_new_line10 | math
+| bip_39_word_new_br_1 | math |  
+| bip_39_word_new_br_10 | math<br>flight<br>insect<br>share<br>slice<br>angry<br>damp<br>carbon<br>police<br>hip |  
+| bip_39_word_new_br_11 | math<br>flight<br>insect<br>share<br>slice<br>angry<br>damp<br>carbon<br>police<br>hip<br>kit |  
+| bip_39_word_new_br_12 | math<br>flight<br>insect<br>share<br>slice<br>angry<br>damp<br>carbon<br>police<br>hip<br>kit<br>atom |  
+| bip_39_word_new_br_2 | math<br>flight |  
+| bip_39_word_new_br_3 | math<br>flight<br>insect |  
+| bip_39_word_new_br_4 | math<br>flight<br>insect<br>share |  
+| bip_39_word_new_br_5 | math<br>flight<br>insect<br>share<br>slice |  
+| bip_39_word_new_br_6 | math<br>flight<br>insect<br>share<br>slice<br>angry |  
+| bip_39_word_new_br_7 | math<br>flight<br>insect<br>share<br>slice<br>angry<br>damp |  
+| bip_39_word_new_br_8 | math<br>flight<br>insect<br>share<br>slice<br>angry<br>damp<br>carbon |  
+| bip_39_word_new_br_9 | math<br>flight<br>insect<br>share<br>slice<br>angry<br>damp<br>carbon<br>police |  
+| bip_39_word_new_line_1 | math |  
+| bip_39_word_new_line_10 | math
 flight
 insect
 share
@@ -55,7 +55,7 @@ damp
 carbon
 police
 hip |  
-| bip_39_word_new_line11 | math
+| bip_39_word_new_line_11 | math
 flight
 insect
 share
@@ -66,7 +66,7 @@ carbon
 police
 hip
 kit |  
-| bip_39_word_new_line12 | math
+| bip_39_word_new_line_12 | math
 flight
 insect
 share
@@ -78,34 +78,34 @@ police
 hip
 kit
 atom |  
-| bip_39_word_new_line2 | math
+| bip_39_word_new_line_2 | math
 flight |  
-| bip_39_word_new_line3 | math
+| bip_39_word_new_line_3 | math
 flight
 insect |  
-| bip_39_word_new_line4 | math
+| bip_39_word_new_line_4 | math
 flight
 insect
 share |  
-| bip_39_word_new_line5 | math
+| bip_39_word_new_line_5 | math
 flight
 insect
 share
 slice |  
-| bip_39_word_new_line6 | math
+| bip_39_word_new_line_6 | math
 flight
 insect
 share
 slice
 angry |  
-| bip_39_word_new_line7 | math
+| bip_39_word_new_line_7 | math
 flight
 insect
 share
 slice
 angry
 damp |  
-| bip_39_word_new_line8 | math
+| bip_39_word_new_line_8 | math
 flight
 insect
 share
@@ -113,7 +113,7 @@ slice
 angry
 damp
 carbon |  
-| bip_39_word_new_line9 | math
+| bip_39_word_new_line_9 | math
 flight
 insect
 share

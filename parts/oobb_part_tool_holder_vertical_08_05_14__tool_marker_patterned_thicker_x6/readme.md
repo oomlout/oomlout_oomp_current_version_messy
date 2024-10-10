@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | chef |  
-| bip_39_word_new_br10 | chef<br>vacuum<br>original<br>ski<br>faculty<br>kid<br>erase<br>broken<br>smile<br>embark |  
-| bip_39_word_new_br11 | chef<br>vacuum<br>original<br>ski<br>faculty<br>kid<br>erase<br>broken<br>smile<br>embark<br>drive |  
-| bip_39_word_new_br12 | chef<br>vacuum<br>original<br>ski<br>faculty<br>kid<br>erase<br>broken<br>smile<br>embark<br>drive<br>album |  
-| bip_39_word_new_br2 | chef<br>vacuum |  
-| bip_39_word_new_br3 | chef<br>vacuum<br>original |  
-| bip_39_word_new_br4 | chef<br>vacuum<br>original<br>ski |  
-| bip_39_word_new_br5 | chef<br>vacuum<br>original<br>ski<br>faculty |  
-| bip_39_word_new_br6 | chef<br>vacuum<br>original<br>ski<br>faculty<br>kid |  
-| bip_39_word_new_br7 | chef<br>vacuum<br>original<br>ski<br>faculty<br>kid<br>erase |  
-| bip_39_word_new_br8 | chef<br>vacuum<br>original<br>ski<br>faculty<br>kid<br>erase<br>broken |  
-| bip_39_word_new_br9 | chef<br>vacuum<br>original<br>ski<br>faculty<br>kid<br>erase<br>broken<br>smile |  
-| bip_39_word_new_line1 | chef |  
-| bip_39_word_new_line10 | chef
+| bip_39_word_new_br_1 | chef |  
+| bip_39_word_new_br_10 | chef<br>vacuum<br>original<br>ski<br>faculty<br>kid<br>erase<br>broken<br>smile<br>embark |  
+| bip_39_word_new_br_11 | chef<br>vacuum<br>original<br>ski<br>faculty<br>kid<br>erase<br>broken<br>smile<br>embark<br>drive |  
+| bip_39_word_new_br_12 | chef<br>vacuum<br>original<br>ski<br>faculty<br>kid<br>erase<br>broken<br>smile<br>embark<br>drive<br>album |  
+| bip_39_word_new_br_2 | chef<br>vacuum |  
+| bip_39_word_new_br_3 | chef<br>vacuum<br>original |  
+| bip_39_word_new_br_4 | chef<br>vacuum<br>original<br>ski |  
+| bip_39_word_new_br_5 | chef<br>vacuum<br>original<br>ski<br>faculty |  
+| bip_39_word_new_br_6 | chef<br>vacuum<br>original<br>ski<br>faculty<br>kid |  
+| bip_39_word_new_br_7 | chef<br>vacuum<br>original<br>ski<br>faculty<br>kid<br>erase |  
+| bip_39_word_new_br_8 | chef<br>vacuum<br>original<br>ski<br>faculty<br>kid<br>erase<br>broken |  
+| bip_39_word_new_br_9 | chef<br>vacuum<br>original<br>ski<br>faculty<br>kid<br>erase<br>broken<br>smile |  
+| bip_39_word_new_line_1 | chef |  
+| bip_39_word_new_line_10 | chef
 vacuum
 original
 ski
@@ -55,7 +55,7 @@ erase
 broken
 smile
 embark |  
-| bip_39_word_new_line11 | chef
+| bip_39_word_new_line_11 | chef
 vacuum
 original
 ski
@@ -66,7 +66,7 @@ broken
 smile
 embark
 drive |  
-| bip_39_word_new_line12 | chef
+| bip_39_word_new_line_12 | chef
 vacuum
 original
 ski
@@ -78,34 +78,34 @@ smile
 embark
 drive
 album |  
-| bip_39_word_new_line2 | chef
+| bip_39_word_new_line_2 | chef
 vacuum |  
-| bip_39_word_new_line3 | chef
+| bip_39_word_new_line_3 | chef
 vacuum
 original |  
-| bip_39_word_new_line4 | chef
+| bip_39_word_new_line_4 | chef
 vacuum
 original
 ski |  
-| bip_39_word_new_line5 | chef
+| bip_39_word_new_line_5 | chef
 vacuum
 original
 ski
 faculty |  
-| bip_39_word_new_line6 | chef
+| bip_39_word_new_line_6 | chef
 vacuum
 original
 ski
 faculty
 kid |  
-| bip_39_word_new_line7 | chef
+| bip_39_word_new_line_7 | chef
 vacuum
 original
 ski
 faculty
 kid
 erase |  
-| bip_39_word_new_line8 | chef
+| bip_39_word_new_line_8 | chef
 vacuum
 original
 ski
@@ -113,7 +113,7 @@ faculty
 kid
 erase
 broken |  
-| bip_39_word_new_line9 | chef
+| bip_39_word_new_line_9 | chef
 vacuum
 original
 ski

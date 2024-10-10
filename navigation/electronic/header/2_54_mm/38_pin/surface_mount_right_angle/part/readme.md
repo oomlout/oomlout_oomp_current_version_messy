@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | check |  
-| bip_39_word_new_br10 | check<br>artist<br>power<br>nose<br>flower<br>panda<br>submit<br>clown<br>owner<br>permit |  
-| bip_39_word_new_br11 | check<br>artist<br>power<br>nose<br>flower<br>panda<br>submit<br>clown<br>owner<br>permit<br>order |  
-| bip_39_word_new_br12 | check<br>artist<br>power<br>nose<br>flower<br>panda<br>submit<br>clown<br>owner<br>permit<br>order<br>album |  
-| bip_39_word_new_br2 | check<br>artist |  
-| bip_39_word_new_br3 | check<br>artist<br>power |  
-| bip_39_word_new_br4 | check<br>artist<br>power<br>nose |  
-| bip_39_word_new_br5 | check<br>artist<br>power<br>nose<br>flower |  
-| bip_39_word_new_br6 | check<br>artist<br>power<br>nose<br>flower<br>panda |  
-| bip_39_word_new_br7 | check<br>artist<br>power<br>nose<br>flower<br>panda<br>submit |  
-| bip_39_word_new_br8 | check<br>artist<br>power<br>nose<br>flower<br>panda<br>submit<br>clown |  
-| bip_39_word_new_br9 | check<br>artist<br>power<br>nose<br>flower<br>panda<br>submit<br>clown<br>owner |  
-| bip_39_word_new_line1 | check |  
-| bip_39_word_new_line10 | check
+| bip_39_word_new_br_1 | check |  
+| bip_39_word_new_br_10 | check<br>artist<br>power<br>nose<br>flower<br>panda<br>submit<br>clown<br>owner<br>permit |  
+| bip_39_word_new_br_11 | check<br>artist<br>power<br>nose<br>flower<br>panda<br>submit<br>clown<br>owner<br>permit<br>order |  
+| bip_39_word_new_br_12 | check<br>artist<br>power<br>nose<br>flower<br>panda<br>submit<br>clown<br>owner<br>permit<br>order<br>album |  
+| bip_39_word_new_br_2 | check<br>artist |  
+| bip_39_word_new_br_3 | check<br>artist<br>power |  
+| bip_39_word_new_br_4 | check<br>artist<br>power<br>nose |  
+| bip_39_word_new_br_5 | check<br>artist<br>power<br>nose<br>flower |  
+| bip_39_word_new_br_6 | check<br>artist<br>power<br>nose<br>flower<br>panda |  
+| bip_39_word_new_br_7 | check<br>artist<br>power<br>nose<br>flower<br>panda<br>submit |  
+| bip_39_word_new_br_8 | check<br>artist<br>power<br>nose<br>flower<br>panda<br>submit<br>clown |  
+| bip_39_word_new_br_9 | check<br>artist<br>power<br>nose<br>flower<br>panda<br>submit<br>clown<br>owner |  
+| bip_39_word_new_line_1 | check |  
+| bip_39_word_new_line_10 | check
 artist
 power
 nose
@@ -55,7 +55,7 @@ submit
 clown
 owner
 permit |  
-| bip_39_word_new_line11 | check
+| bip_39_word_new_line_11 | check
 artist
 power
 nose
@@ -66,7 +66,7 @@ clown
 owner
 permit
 order |  
-| bip_39_word_new_line12 | check
+| bip_39_word_new_line_12 | check
 artist
 power
 nose
@@ -78,34 +78,34 @@ owner
 permit
 order
 album |  
-| bip_39_word_new_line2 | check
+| bip_39_word_new_line_2 | check
 artist |  
-| bip_39_word_new_line3 | check
+| bip_39_word_new_line_3 | check
 artist
 power |  
-| bip_39_word_new_line4 | check
+| bip_39_word_new_line_4 | check
 artist
 power
 nose |  
-| bip_39_word_new_line5 | check
+| bip_39_word_new_line_5 | check
 artist
 power
 nose
 flower |  
-| bip_39_word_new_line6 | check
+| bip_39_word_new_line_6 | check
 artist
 power
 nose
 flower
 panda |  
-| bip_39_word_new_line7 | check
+| bip_39_word_new_line_7 | check
 artist
 power
 nose
 flower
 panda
 submit |  
-| bip_39_word_new_line8 | check
+| bip_39_word_new_line_8 | check
 artist
 power
 nose
@@ -113,7 +113,7 @@ flower
 panda
 submit
 clown |  
-| bip_39_word_new_line9 | check
+| bip_39_word_new_line_9 | check
 artist
 power
 nose

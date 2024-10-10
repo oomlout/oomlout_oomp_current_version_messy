@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | school |  
-| bip_39_word_new_br10 | school<br>inch<br>alcohol<br>wet<br>income<br>frequent<br>loud<br>cattle<br>shoe<br>actual |  
-| bip_39_word_new_br11 | school<br>inch<br>alcohol<br>wet<br>income<br>frequent<br>loud<br>cattle<br>shoe<br>actual<br>glass |  
-| bip_39_word_new_br12 | school<br>inch<br>alcohol<br>wet<br>income<br>frequent<br>loud<br>cattle<br>shoe<br>actual<br>glass<br>addict |  
-| bip_39_word_new_br2 | school<br>inch |  
-| bip_39_word_new_br3 | school<br>inch<br>alcohol |  
-| bip_39_word_new_br4 | school<br>inch<br>alcohol<br>wet |  
-| bip_39_word_new_br5 | school<br>inch<br>alcohol<br>wet<br>income |  
-| bip_39_word_new_br6 | school<br>inch<br>alcohol<br>wet<br>income<br>frequent |  
-| bip_39_word_new_br7 | school<br>inch<br>alcohol<br>wet<br>income<br>frequent<br>loud |  
-| bip_39_word_new_br8 | school<br>inch<br>alcohol<br>wet<br>income<br>frequent<br>loud<br>cattle |  
-| bip_39_word_new_br9 | school<br>inch<br>alcohol<br>wet<br>income<br>frequent<br>loud<br>cattle<br>shoe |  
-| bip_39_word_new_line1 | school |  
-| bip_39_word_new_line10 | school
+| bip_39_word_new_br_1 | school |  
+| bip_39_word_new_br_10 | school<br>inch<br>alcohol<br>wet<br>income<br>frequent<br>loud<br>cattle<br>shoe<br>actual |  
+| bip_39_word_new_br_11 | school<br>inch<br>alcohol<br>wet<br>income<br>frequent<br>loud<br>cattle<br>shoe<br>actual<br>glass |  
+| bip_39_word_new_br_12 | school<br>inch<br>alcohol<br>wet<br>income<br>frequent<br>loud<br>cattle<br>shoe<br>actual<br>glass<br>addict |  
+| bip_39_word_new_br_2 | school<br>inch |  
+| bip_39_word_new_br_3 | school<br>inch<br>alcohol |  
+| bip_39_word_new_br_4 | school<br>inch<br>alcohol<br>wet |  
+| bip_39_word_new_br_5 | school<br>inch<br>alcohol<br>wet<br>income |  
+| bip_39_word_new_br_6 | school<br>inch<br>alcohol<br>wet<br>income<br>frequent |  
+| bip_39_word_new_br_7 | school<br>inch<br>alcohol<br>wet<br>income<br>frequent<br>loud |  
+| bip_39_word_new_br_8 | school<br>inch<br>alcohol<br>wet<br>income<br>frequent<br>loud<br>cattle |  
+| bip_39_word_new_br_9 | school<br>inch<br>alcohol<br>wet<br>income<br>frequent<br>loud<br>cattle<br>shoe |  
+| bip_39_word_new_line_1 | school |  
+| bip_39_word_new_line_10 | school
 inch
 alcohol
 wet
@@ -55,7 +55,7 @@ loud
 cattle
 shoe
 actual |  
-| bip_39_word_new_line11 | school
+| bip_39_word_new_line_11 | school
 inch
 alcohol
 wet
@@ -66,7 +66,7 @@ cattle
 shoe
 actual
 glass |  
-| bip_39_word_new_line12 | school
+| bip_39_word_new_line_12 | school
 inch
 alcohol
 wet
@@ -78,34 +78,34 @@ shoe
 actual
 glass
 addict |  
-| bip_39_word_new_line2 | school
+| bip_39_word_new_line_2 | school
 inch |  
-| bip_39_word_new_line3 | school
+| bip_39_word_new_line_3 | school
 inch
 alcohol |  
-| bip_39_word_new_line4 | school
+| bip_39_word_new_line_4 | school
 inch
 alcohol
 wet |  
-| bip_39_word_new_line5 | school
+| bip_39_word_new_line_5 | school
 inch
 alcohol
 wet
 income |  
-| bip_39_word_new_line6 | school
+| bip_39_word_new_line_6 | school
 inch
 alcohol
 wet
 income
 frequent |  
-| bip_39_word_new_line7 | school
+| bip_39_word_new_line_7 | school
 inch
 alcohol
 wet
 income
 frequent
 loud |  
-| bip_39_word_new_line8 | school
+| bip_39_word_new_line_8 | school
 inch
 alcohol
 wet
@@ -113,7 +113,7 @@ income
 frequent
 loud
 cattle |  
-| bip_39_word_new_line9 | school
+| bip_39_word_new_line_9 | school
 inch
 alcohol
 wet

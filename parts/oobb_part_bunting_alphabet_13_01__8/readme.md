@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | abandon |  
-| bip_39_word_new_br10 | abandon<br>belt<br>waste<br>tape<br>alcohol<br>friend<br>doctor<br>boss<br>deliver<br>scorpion |  
-| bip_39_word_new_br11 | abandon<br>belt<br>waste<br>tape<br>alcohol<br>friend<br>doctor<br>boss<br>deliver<br>scorpion<br>tube |  
-| bip_39_word_new_br12 | abandon<br>belt<br>waste<br>tape<br>alcohol<br>friend<br>doctor<br>boss<br>deliver<br>scorpion<br>tube<br>attack |  
-| bip_39_word_new_br2 | abandon<br>belt |  
-| bip_39_word_new_br3 | abandon<br>belt<br>waste |  
-| bip_39_word_new_br4 | abandon<br>belt<br>waste<br>tape |  
-| bip_39_word_new_br5 | abandon<br>belt<br>waste<br>tape<br>alcohol |  
-| bip_39_word_new_br6 | abandon<br>belt<br>waste<br>tape<br>alcohol<br>friend |  
-| bip_39_word_new_br7 | abandon<br>belt<br>waste<br>tape<br>alcohol<br>friend<br>doctor |  
-| bip_39_word_new_br8 | abandon<br>belt<br>waste<br>tape<br>alcohol<br>friend<br>doctor<br>boss |  
-| bip_39_word_new_br9 | abandon<br>belt<br>waste<br>tape<br>alcohol<br>friend<br>doctor<br>boss<br>deliver |  
-| bip_39_word_new_line1 | abandon |  
-| bip_39_word_new_line10 | abandon
+| bip_39_word_new_br_1 | abandon |  
+| bip_39_word_new_br_10 | abandon<br>belt<br>waste<br>tape<br>alcohol<br>friend<br>doctor<br>boss<br>deliver<br>scorpion |  
+| bip_39_word_new_br_11 | abandon<br>belt<br>waste<br>tape<br>alcohol<br>friend<br>doctor<br>boss<br>deliver<br>scorpion<br>tube |  
+| bip_39_word_new_br_12 | abandon<br>belt<br>waste<br>tape<br>alcohol<br>friend<br>doctor<br>boss<br>deliver<br>scorpion<br>tube<br>attack |  
+| bip_39_word_new_br_2 | abandon<br>belt |  
+| bip_39_word_new_br_3 | abandon<br>belt<br>waste |  
+| bip_39_word_new_br_4 | abandon<br>belt<br>waste<br>tape |  
+| bip_39_word_new_br_5 | abandon<br>belt<br>waste<br>tape<br>alcohol |  
+| bip_39_word_new_br_6 | abandon<br>belt<br>waste<br>tape<br>alcohol<br>friend |  
+| bip_39_word_new_br_7 | abandon<br>belt<br>waste<br>tape<br>alcohol<br>friend<br>doctor |  
+| bip_39_word_new_br_8 | abandon<br>belt<br>waste<br>tape<br>alcohol<br>friend<br>doctor<br>boss |  
+| bip_39_word_new_br_9 | abandon<br>belt<br>waste<br>tape<br>alcohol<br>friend<br>doctor<br>boss<br>deliver |  
+| bip_39_word_new_line_1 | abandon |  
+| bip_39_word_new_line_10 | abandon
 belt
 waste
 tape
@@ -55,7 +55,7 @@ doctor
 boss
 deliver
 scorpion |  
-| bip_39_word_new_line11 | abandon
+| bip_39_word_new_line_11 | abandon
 belt
 waste
 tape
@@ -66,7 +66,7 @@ boss
 deliver
 scorpion
 tube |  
-| bip_39_word_new_line12 | abandon
+| bip_39_word_new_line_12 | abandon
 belt
 waste
 tape
@@ -78,34 +78,34 @@ deliver
 scorpion
 tube
 attack |  
-| bip_39_word_new_line2 | abandon
+| bip_39_word_new_line_2 | abandon
 belt |  
-| bip_39_word_new_line3 | abandon
+| bip_39_word_new_line_3 | abandon
 belt
 waste |  
-| bip_39_word_new_line4 | abandon
+| bip_39_word_new_line_4 | abandon
 belt
 waste
 tape |  
-| bip_39_word_new_line5 | abandon
+| bip_39_word_new_line_5 | abandon
 belt
 waste
 tape
 alcohol |  
-| bip_39_word_new_line6 | abandon
+| bip_39_word_new_line_6 | abandon
 belt
 waste
 tape
 alcohol
 friend |  
-| bip_39_word_new_line7 | abandon
+| bip_39_word_new_line_7 | abandon
 belt
 waste
 tape
 alcohol
 friend
 doctor |  
-| bip_39_word_new_line8 | abandon
+| bip_39_word_new_line_8 | abandon
 belt
 waste
 tape
@@ -113,7 +113,7 @@ alcohol
 friend
 doctor
 boss |  
-| bip_39_word_new_line9 | abandon
+| bip_39_word_new_line_9 | abandon
 belt
 waste
 tape

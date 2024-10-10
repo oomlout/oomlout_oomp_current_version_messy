@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gossip |  
-| bip_39_word_new_br10 | gossip<br>hotel<br>fluid<br>gold<br>kind<br>more<br>adapt<br>logic<br>blame<br>iron |  
-| bip_39_word_new_br11 | gossip<br>hotel<br>fluid<br>gold<br>kind<br>more<br>adapt<br>logic<br>blame<br>iron<br>usual |  
-| bip_39_word_new_br12 | gossip<br>hotel<br>fluid<br>gold<br>kind<br>more<br>adapt<br>logic<br>blame<br>iron<br>usual<br>ask |  
-| bip_39_word_new_br2 | gossip<br>hotel |  
-| bip_39_word_new_br3 | gossip<br>hotel<br>fluid |  
-| bip_39_word_new_br4 | gossip<br>hotel<br>fluid<br>gold |  
-| bip_39_word_new_br5 | gossip<br>hotel<br>fluid<br>gold<br>kind |  
-| bip_39_word_new_br6 | gossip<br>hotel<br>fluid<br>gold<br>kind<br>more |  
-| bip_39_word_new_br7 | gossip<br>hotel<br>fluid<br>gold<br>kind<br>more<br>adapt |  
-| bip_39_word_new_br8 | gossip<br>hotel<br>fluid<br>gold<br>kind<br>more<br>adapt<br>logic |  
-| bip_39_word_new_br9 | gossip<br>hotel<br>fluid<br>gold<br>kind<br>more<br>adapt<br>logic<br>blame |  
-| bip_39_word_new_line1 | gossip |  
-| bip_39_word_new_line10 | gossip
+| bip_39_word_new_br_1 | gossip |  
+| bip_39_word_new_br_10 | gossip<br>hotel<br>fluid<br>gold<br>kind<br>more<br>adapt<br>logic<br>blame<br>iron |  
+| bip_39_word_new_br_11 | gossip<br>hotel<br>fluid<br>gold<br>kind<br>more<br>adapt<br>logic<br>blame<br>iron<br>usual |  
+| bip_39_word_new_br_12 | gossip<br>hotel<br>fluid<br>gold<br>kind<br>more<br>adapt<br>logic<br>blame<br>iron<br>usual<br>ask |  
+| bip_39_word_new_br_2 | gossip<br>hotel |  
+| bip_39_word_new_br_3 | gossip<br>hotel<br>fluid |  
+| bip_39_word_new_br_4 | gossip<br>hotel<br>fluid<br>gold |  
+| bip_39_word_new_br_5 | gossip<br>hotel<br>fluid<br>gold<br>kind |  
+| bip_39_word_new_br_6 | gossip<br>hotel<br>fluid<br>gold<br>kind<br>more |  
+| bip_39_word_new_br_7 | gossip<br>hotel<br>fluid<br>gold<br>kind<br>more<br>adapt |  
+| bip_39_word_new_br_8 | gossip<br>hotel<br>fluid<br>gold<br>kind<br>more<br>adapt<br>logic |  
+| bip_39_word_new_br_9 | gossip<br>hotel<br>fluid<br>gold<br>kind<br>more<br>adapt<br>logic<br>blame |  
+| bip_39_word_new_line_1 | gossip |  
+| bip_39_word_new_line_10 | gossip
 hotel
 fluid
 gold
@@ -55,7 +55,7 @@ adapt
 logic
 blame
 iron |  
-| bip_39_word_new_line11 | gossip
+| bip_39_word_new_line_11 | gossip
 hotel
 fluid
 gold
@@ -66,7 +66,7 @@ logic
 blame
 iron
 usual |  
-| bip_39_word_new_line12 | gossip
+| bip_39_word_new_line_12 | gossip
 hotel
 fluid
 gold
@@ -78,34 +78,34 @@ blame
 iron
 usual
 ask |  
-| bip_39_word_new_line2 | gossip
+| bip_39_word_new_line_2 | gossip
 hotel |  
-| bip_39_word_new_line3 | gossip
+| bip_39_word_new_line_3 | gossip
 hotel
 fluid |  
-| bip_39_word_new_line4 | gossip
+| bip_39_word_new_line_4 | gossip
 hotel
 fluid
 gold |  
-| bip_39_word_new_line5 | gossip
+| bip_39_word_new_line_5 | gossip
 hotel
 fluid
 gold
 kind |  
-| bip_39_word_new_line6 | gossip
+| bip_39_word_new_line_6 | gossip
 hotel
 fluid
 gold
 kind
 more |  
-| bip_39_word_new_line7 | gossip
+| bip_39_word_new_line_7 | gossip
 hotel
 fluid
 gold
 kind
 more
 adapt |  
-| bip_39_word_new_line8 | gossip
+| bip_39_word_new_line_8 | gossip
 hotel
 fluid
 gold
@@ -113,7 +113,7 @@ kind
 more
 adapt
 logic |  
-| bip_39_word_new_line9 | gossip
+| bip_39_word_new_line_9 | gossip
 hotel
 fluid
 gold

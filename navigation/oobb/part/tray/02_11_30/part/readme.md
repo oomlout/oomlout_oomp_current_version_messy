@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | resemble |  
-| bip_39_word_new_br10 | resemble<br>giraffe<br>raise<br>green<br>foil<br>oven<br>chef<br>witness<br>hunt<br>rebuild |  
-| bip_39_word_new_br11 | resemble<br>giraffe<br>raise<br>green<br>foil<br>oven<br>chef<br>witness<br>hunt<br>rebuild<br>inform |  
-| bip_39_word_new_br12 | resemble<br>giraffe<br>raise<br>green<br>foil<br>oven<br>chef<br>witness<br>hunt<br>rebuild<br>inform<br>accuse |  
-| bip_39_word_new_br2 | resemble<br>giraffe |  
-| bip_39_word_new_br3 | resemble<br>giraffe<br>raise |  
-| bip_39_word_new_br4 | resemble<br>giraffe<br>raise<br>green |  
-| bip_39_word_new_br5 | resemble<br>giraffe<br>raise<br>green<br>foil |  
-| bip_39_word_new_br6 | resemble<br>giraffe<br>raise<br>green<br>foil<br>oven |  
-| bip_39_word_new_br7 | resemble<br>giraffe<br>raise<br>green<br>foil<br>oven<br>chef |  
-| bip_39_word_new_br8 | resemble<br>giraffe<br>raise<br>green<br>foil<br>oven<br>chef<br>witness |  
-| bip_39_word_new_br9 | resemble<br>giraffe<br>raise<br>green<br>foil<br>oven<br>chef<br>witness<br>hunt |  
-| bip_39_word_new_line1 | resemble |  
-| bip_39_word_new_line10 | resemble
+| bip_39_word_new_br_1 | resemble |  
+| bip_39_word_new_br_10 | resemble<br>giraffe<br>raise<br>green<br>foil<br>oven<br>chef<br>witness<br>hunt<br>rebuild |  
+| bip_39_word_new_br_11 | resemble<br>giraffe<br>raise<br>green<br>foil<br>oven<br>chef<br>witness<br>hunt<br>rebuild<br>inform |  
+| bip_39_word_new_br_12 | resemble<br>giraffe<br>raise<br>green<br>foil<br>oven<br>chef<br>witness<br>hunt<br>rebuild<br>inform<br>accuse |  
+| bip_39_word_new_br_2 | resemble<br>giraffe |  
+| bip_39_word_new_br_3 | resemble<br>giraffe<br>raise |  
+| bip_39_word_new_br_4 | resemble<br>giraffe<br>raise<br>green |  
+| bip_39_word_new_br_5 | resemble<br>giraffe<br>raise<br>green<br>foil |  
+| bip_39_word_new_br_6 | resemble<br>giraffe<br>raise<br>green<br>foil<br>oven |  
+| bip_39_word_new_br_7 | resemble<br>giraffe<br>raise<br>green<br>foil<br>oven<br>chef |  
+| bip_39_word_new_br_8 | resemble<br>giraffe<br>raise<br>green<br>foil<br>oven<br>chef<br>witness |  
+| bip_39_word_new_br_9 | resemble<br>giraffe<br>raise<br>green<br>foil<br>oven<br>chef<br>witness<br>hunt |  
+| bip_39_word_new_line_1 | resemble |  
+| bip_39_word_new_line_10 | resemble
 giraffe
 raise
 green
@@ -55,7 +55,7 @@ chef
 witness
 hunt
 rebuild |  
-| bip_39_word_new_line11 | resemble
+| bip_39_word_new_line_11 | resemble
 giraffe
 raise
 green
@@ -66,7 +66,7 @@ witness
 hunt
 rebuild
 inform |  
-| bip_39_word_new_line12 | resemble
+| bip_39_word_new_line_12 | resemble
 giraffe
 raise
 green
@@ -78,34 +78,34 @@ hunt
 rebuild
 inform
 accuse |  
-| bip_39_word_new_line2 | resemble
+| bip_39_word_new_line_2 | resemble
 giraffe |  
-| bip_39_word_new_line3 | resemble
+| bip_39_word_new_line_3 | resemble
 giraffe
 raise |  
-| bip_39_word_new_line4 | resemble
+| bip_39_word_new_line_4 | resemble
 giraffe
 raise
 green |  
-| bip_39_word_new_line5 | resemble
+| bip_39_word_new_line_5 | resemble
 giraffe
 raise
 green
 foil |  
-| bip_39_word_new_line6 | resemble
+| bip_39_word_new_line_6 | resemble
 giraffe
 raise
 green
 foil
 oven |  
-| bip_39_word_new_line7 | resemble
+| bip_39_word_new_line_7 | resemble
 giraffe
 raise
 green
 foil
 oven
 chef |  
-| bip_39_word_new_line8 | resemble
+| bip_39_word_new_line_8 | resemble
 giraffe
 raise
 green
@@ -113,7 +113,7 @@ foil
 oven
 chef
 witness |  
-| bip_39_word_new_line9 | resemble
+| bip_39_word_new_line_9 | resemble
 giraffe
 raise
 green

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | defy |  
-| bip_39_word_new_br10 | defy<br>debris<br>stove<br>bind<br>album<br>grass<br>member<br>round<br>away<br>neutral |  
-| bip_39_word_new_br11 | defy<br>debris<br>stove<br>bind<br>album<br>grass<br>member<br>round<br>away<br>neutral<br>dumb |  
-| bip_39_word_new_br12 | defy<br>debris<br>stove<br>bind<br>album<br>grass<br>member<br>round<br>away<br>neutral<br>dumb<br>arrange |  
-| bip_39_word_new_br2 | defy<br>debris |  
-| bip_39_word_new_br3 | defy<br>debris<br>stove |  
-| bip_39_word_new_br4 | defy<br>debris<br>stove<br>bind |  
-| bip_39_word_new_br5 | defy<br>debris<br>stove<br>bind<br>album |  
-| bip_39_word_new_br6 | defy<br>debris<br>stove<br>bind<br>album<br>grass |  
-| bip_39_word_new_br7 | defy<br>debris<br>stove<br>bind<br>album<br>grass<br>member |  
-| bip_39_word_new_br8 | defy<br>debris<br>stove<br>bind<br>album<br>grass<br>member<br>round |  
-| bip_39_word_new_br9 | defy<br>debris<br>stove<br>bind<br>album<br>grass<br>member<br>round<br>away |  
-| bip_39_word_new_line1 | defy |  
-| bip_39_word_new_line10 | defy
+| bip_39_word_new_br_1 | defy |  
+| bip_39_word_new_br_10 | defy<br>debris<br>stove<br>bind<br>album<br>grass<br>member<br>round<br>away<br>neutral |  
+| bip_39_word_new_br_11 | defy<br>debris<br>stove<br>bind<br>album<br>grass<br>member<br>round<br>away<br>neutral<br>dumb |  
+| bip_39_word_new_br_12 | defy<br>debris<br>stove<br>bind<br>album<br>grass<br>member<br>round<br>away<br>neutral<br>dumb<br>arrange |  
+| bip_39_word_new_br_2 | defy<br>debris |  
+| bip_39_word_new_br_3 | defy<br>debris<br>stove |  
+| bip_39_word_new_br_4 | defy<br>debris<br>stove<br>bind |  
+| bip_39_word_new_br_5 | defy<br>debris<br>stove<br>bind<br>album |  
+| bip_39_word_new_br_6 | defy<br>debris<br>stove<br>bind<br>album<br>grass |  
+| bip_39_word_new_br_7 | defy<br>debris<br>stove<br>bind<br>album<br>grass<br>member |  
+| bip_39_word_new_br_8 | defy<br>debris<br>stove<br>bind<br>album<br>grass<br>member<br>round |  
+| bip_39_word_new_br_9 | defy<br>debris<br>stove<br>bind<br>album<br>grass<br>member<br>round<br>away |  
+| bip_39_word_new_line_1 | defy |  
+| bip_39_word_new_line_10 | defy
 debris
 stove
 bind
@@ -55,7 +55,7 @@ member
 round
 away
 neutral |  
-| bip_39_word_new_line11 | defy
+| bip_39_word_new_line_11 | defy
 debris
 stove
 bind
@@ -66,7 +66,7 @@ round
 away
 neutral
 dumb |  
-| bip_39_word_new_line12 | defy
+| bip_39_word_new_line_12 | defy
 debris
 stove
 bind
@@ -78,34 +78,34 @@ away
 neutral
 dumb
 arrange |  
-| bip_39_word_new_line2 | defy
+| bip_39_word_new_line_2 | defy
 debris |  
-| bip_39_word_new_line3 | defy
+| bip_39_word_new_line_3 | defy
 debris
 stove |  
-| bip_39_word_new_line4 | defy
+| bip_39_word_new_line_4 | defy
 debris
 stove
 bind |  
-| bip_39_word_new_line5 | defy
+| bip_39_word_new_line_5 | defy
 debris
 stove
 bind
 album |  
-| bip_39_word_new_line6 | defy
+| bip_39_word_new_line_6 | defy
 debris
 stove
 bind
 album
 grass |  
-| bip_39_word_new_line7 | defy
+| bip_39_word_new_line_7 | defy
 debris
 stove
 bind
 album
 grass
 member |  
-| bip_39_word_new_line8 | defy
+| bip_39_word_new_line_8 | defy
 debris
 stove
 bind
@@ -113,7 +113,7 @@ album
 grass
 member
 round |  
-| bip_39_word_new_line9 | defy
+| bip_39_word_new_line_9 | defy
 debris
 stove
 bind

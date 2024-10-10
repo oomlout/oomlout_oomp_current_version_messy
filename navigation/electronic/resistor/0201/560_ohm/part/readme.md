@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | like |  
-| bip_39_word_new_br10 | like<br>initial<br>palace<br>history<br>rely<br>snake<br>before<br>lumber<br>surge<br>curve |  
-| bip_39_word_new_br11 | like<br>initial<br>palace<br>history<br>rely<br>snake<br>before<br>lumber<br>surge<br>curve<br>bacon |  
-| bip_39_word_new_br12 | like<br>initial<br>palace<br>history<br>rely<br>snake<br>before<br>lumber<br>surge<br>curve<br>bacon<br>acid |  
-| bip_39_word_new_br2 | like<br>initial |  
-| bip_39_word_new_br3 | like<br>initial<br>palace |  
-| bip_39_word_new_br4 | like<br>initial<br>palace<br>history |  
-| bip_39_word_new_br5 | like<br>initial<br>palace<br>history<br>rely |  
-| bip_39_word_new_br6 | like<br>initial<br>palace<br>history<br>rely<br>snake |  
-| bip_39_word_new_br7 | like<br>initial<br>palace<br>history<br>rely<br>snake<br>before |  
-| bip_39_word_new_br8 | like<br>initial<br>palace<br>history<br>rely<br>snake<br>before<br>lumber |  
-| bip_39_word_new_br9 | like<br>initial<br>palace<br>history<br>rely<br>snake<br>before<br>lumber<br>surge |  
-| bip_39_word_new_line1 | like |  
-| bip_39_word_new_line10 | like
+| bip_39_word_new_br_1 | like |  
+| bip_39_word_new_br_10 | like<br>initial<br>palace<br>history<br>rely<br>snake<br>before<br>lumber<br>surge<br>curve |  
+| bip_39_word_new_br_11 | like<br>initial<br>palace<br>history<br>rely<br>snake<br>before<br>lumber<br>surge<br>curve<br>bacon |  
+| bip_39_word_new_br_12 | like<br>initial<br>palace<br>history<br>rely<br>snake<br>before<br>lumber<br>surge<br>curve<br>bacon<br>acid |  
+| bip_39_word_new_br_2 | like<br>initial |  
+| bip_39_word_new_br_3 | like<br>initial<br>palace |  
+| bip_39_word_new_br_4 | like<br>initial<br>palace<br>history |  
+| bip_39_word_new_br_5 | like<br>initial<br>palace<br>history<br>rely |  
+| bip_39_word_new_br_6 | like<br>initial<br>palace<br>history<br>rely<br>snake |  
+| bip_39_word_new_br_7 | like<br>initial<br>palace<br>history<br>rely<br>snake<br>before |  
+| bip_39_word_new_br_8 | like<br>initial<br>palace<br>history<br>rely<br>snake<br>before<br>lumber |  
+| bip_39_word_new_br_9 | like<br>initial<br>palace<br>history<br>rely<br>snake<br>before<br>lumber<br>surge |  
+| bip_39_word_new_line_1 | like |  
+| bip_39_word_new_line_10 | like
 initial
 palace
 history
@@ -55,7 +55,7 @@ before
 lumber
 surge
 curve |  
-| bip_39_word_new_line11 | like
+| bip_39_word_new_line_11 | like
 initial
 palace
 history
@@ -66,7 +66,7 @@ lumber
 surge
 curve
 bacon |  
-| bip_39_word_new_line12 | like
+| bip_39_word_new_line_12 | like
 initial
 palace
 history
@@ -78,34 +78,34 @@ surge
 curve
 bacon
 acid |  
-| bip_39_word_new_line2 | like
+| bip_39_word_new_line_2 | like
 initial |  
-| bip_39_word_new_line3 | like
+| bip_39_word_new_line_3 | like
 initial
 palace |  
-| bip_39_word_new_line4 | like
+| bip_39_word_new_line_4 | like
 initial
 palace
 history |  
-| bip_39_word_new_line5 | like
+| bip_39_word_new_line_5 | like
 initial
 palace
 history
 rely |  
-| bip_39_word_new_line6 | like
+| bip_39_word_new_line_6 | like
 initial
 palace
 history
 rely
 snake |  
-| bip_39_word_new_line7 | like
+| bip_39_word_new_line_7 | like
 initial
 palace
 history
 rely
 snake
 before |  
-| bip_39_word_new_line8 | like
+| bip_39_word_new_line_8 | like
 initial
 palace
 history
@@ -113,7 +113,7 @@ rely
 snake
 before
 lumber |  
-| bip_39_word_new_line9 | like
+| bip_39_word_new_line_9 | like
 initial
 palace
 history

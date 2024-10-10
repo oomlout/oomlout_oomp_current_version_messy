@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sugar |  
-| bip_39_word_new_br10 | sugar<br>guard<br>glance<br>sing<br>lonely<br>actress<br>either<br>melt<br>sauce<br>end |  
-| bip_39_word_new_br11 | sugar<br>guard<br>glance<br>sing<br>lonely<br>actress<br>either<br>melt<br>sauce<br>end<br>dinner |  
-| bip_39_word_new_br12 | sugar<br>guard<br>glance<br>sing<br>lonely<br>actress<br>either<br>melt<br>sauce<br>end<br>dinner<br>antique |  
-| bip_39_word_new_br2 | sugar<br>guard |  
-| bip_39_word_new_br3 | sugar<br>guard<br>glance |  
-| bip_39_word_new_br4 | sugar<br>guard<br>glance<br>sing |  
-| bip_39_word_new_br5 | sugar<br>guard<br>glance<br>sing<br>lonely |  
-| bip_39_word_new_br6 | sugar<br>guard<br>glance<br>sing<br>lonely<br>actress |  
-| bip_39_word_new_br7 | sugar<br>guard<br>glance<br>sing<br>lonely<br>actress<br>either |  
-| bip_39_word_new_br8 | sugar<br>guard<br>glance<br>sing<br>lonely<br>actress<br>either<br>melt |  
-| bip_39_word_new_br9 | sugar<br>guard<br>glance<br>sing<br>lonely<br>actress<br>either<br>melt<br>sauce |  
-| bip_39_word_new_line1 | sugar |  
-| bip_39_word_new_line10 | sugar
+| bip_39_word_new_br_1 | sugar |  
+| bip_39_word_new_br_10 | sugar<br>guard<br>glance<br>sing<br>lonely<br>actress<br>either<br>melt<br>sauce<br>end |  
+| bip_39_word_new_br_11 | sugar<br>guard<br>glance<br>sing<br>lonely<br>actress<br>either<br>melt<br>sauce<br>end<br>dinner |  
+| bip_39_word_new_br_12 | sugar<br>guard<br>glance<br>sing<br>lonely<br>actress<br>either<br>melt<br>sauce<br>end<br>dinner<br>antique |  
+| bip_39_word_new_br_2 | sugar<br>guard |  
+| bip_39_word_new_br_3 | sugar<br>guard<br>glance |  
+| bip_39_word_new_br_4 | sugar<br>guard<br>glance<br>sing |  
+| bip_39_word_new_br_5 | sugar<br>guard<br>glance<br>sing<br>lonely |  
+| bip_39_word_new_br_6 | sugar<br>guard<br>glance<br>sing<br>lonely<br>actress |  
+| bip_39_word_new_br_7 | sugar<br>guard<br>glance<br>sing<br>lonely<br>actress<br>either |  
+| bip_39_word_new_br_8 | sugar<br>guard<br>glance<br>sing<br>lonely<br>actress<br>either<br>melt |  
+| bip_39_word_new_br_9 | sugar<br>guard<br>glance<br>sing<br>lonely<br>actress<br>either<br>melt<br>sauce |  
+| bip_39_word_new_line_1 | sugar |  
+| bip_39_word_new_line_10 | sugar
 guard
 glance
 sing
@@ -55,7 +55,7 @@ either
 melt
 sauce
 end |  
-| bip_39_word_new_line11 | sugar
+| bip_39_word_new_line_11 | sugar
 guard
 glance
 sing
@@ -66,7 +66,7 @@ melt
 sauce
 end
 dinner |  
-| bip_39_word_new_line12 | sugar
+| bip_39_word_new_line_12 | sugar
 guard
 glance
 sing
@@ -78,34 +78,34 @@ sauce
 end
 dinner
 antique |  
-| bip_39_word_new_line2 | sugar
+| bip_39_word_new_line_2 | sugar
 guard |  
-| bip_39_word_new_line3 | sugar
+| bip_39_word_new_line_3 | sugar
 guard
 glance |  
-| bip_39_word_new_line4 | sugar
+| bip_39_word_new_line_4 | sugar
 guard
 glance
 sing |  
-| bip_39_word_new_line5 | sugar
+| bip_39_word_new_line_5 | sugar
 guard
 glance
 sing
 lonely |  
-| bip_39_word_new_line6 | sugar
+| bip_39_word_new_line_6 | sugar
 guard
 glance
 sing
 lonely
 actress |  
-| bip_39_word_new_line7 | sugar
+| bip_39_word_new_line_7 | sugar
 guard
 glance
 sing
 lonely
 actress
 either |  
-| bip_39_word_new_line8 | sugar
+| bip_39_word_new_line_8 | sugar
 guard
 glance
 sing
@@ -113,7 +113,7 @@ lonely
 actress
 either
 melt |  
-| bip_39_word_new_line9 | sugar
+| bip_39_word_new_line_9 | sugar
 guard
 glance
 sing

@@ -1,17 +1,17 @@
-bip_39_word_new_br1: enter
-bip_39_word_new_br10: enter<br>confirm<br>panther<br>bacon<br>guard<br>kick<br>royal<br>always<br>brown<br>always
-bip_39_word_new_br11: enter<br>confirm<br>panther<br>bacon<br>guard<br>kick<br>royal<br>always<br>brown<br>always<br>another
-bip_39_word_new_br12: enter<br>confirm<br>panther<br>bacon<br>guard<br>kick<br>royal<br>always<br>brown<br>always<br>another<br>attitude
-bip_39_word_new_br2: enter<br>confirm
-bip_39_word_new_br3: enter<br>confirm<br>panther
-bip_39_word_new_br4: enter<br>confirm<br>panther<br>bacon
-bip_39_word_new_br5: enter<br>confirm<br>panther<br>bacon<br>guard
-bip_39_word_new_br6: enter<br>confirm<br>panther<br>bacon<br>guard<br>kick
-bip_39_word_new_br7: enter<br>confirm<br>panther<br>bacon<br>guard<br>kick<br>royal
-bip_39_word_new_br8: enter<br>confirm<br>panther<br>bacon<br>guard<br>kick<br>royal<br>always
-bip_39_word_new_br9: enter<br>confirm<br>panther<br>bacon<br>guard<br>kick<br>royal<br>always<br>brown
-bip_39_word_new_line1: enter
-bip_39_word_new_line10: 'enter
+bip_39_word_new_br_1: enter
+bip_39_word_new_br_10: enter<br>confirm<br>panther<br>bacon<br>guard<br>kick<br>royal<br>always<br>brown<br>always
+bip_39_word_new_br_11: enter<br>confirm<br>panther<br>bacon<br>guard<br>kick<br>royal<br>always<br>brown<br>always<br>another
+bip_39_word_new_br_12: enter<br>confirm<br>panther<br>bacon<br>guard<br>kick<br>royal<br>always<br>brown<br>always<br>another<br>attitude
+bip_39_word_new_br_2: enter<br>confirm
+bip_39_word_new_br_3: enter<br>confirm<br>panther
+bip_39_word_new_br_4: enter<br>confirm<br>panther<br>bacon
+bip_39_word_new_br_5: enter<br>confirm<br>panther<br>bacon<br>guard
+bip_39_word_new_br_6: enter<br>confirm<br>panther<br>bacon<br>guard<br>kick
+bip_39_word_new_br_7: enter<br>confirm<br>panther<br>bacon<br>guard<br>kick<br>royal
+bip_39_word_new_br_8: enter<br>confirm<br>panther<br>bacon<br>guard<br>kick<br>royal<br>always
+bip_39_word_new_br_9: enter<br>confirm<br>panther<br>bacon<br>guard<br>kick<br>royal<br>always<br>brown
+bip_39_word_new_line_1: enter
+bip_39_word_new_line_10: 'enter
 
   confirm
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'enter
   brown
 
   always'
-bip_39_word_new_line11: 'enter
+bip_39_word_new_line_11: 'enter
 
   confirm
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'enter
   always
 
   another'
-bip_39_word_new_line12: 'enter
+bip_39_word_new_line_12: 'enter
 
   confirm
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'enter
   another
 
   attitude'
-bip_39_word_new_line2: 'enter
+bip_39_word_new_line_2: 'enter
 
   confirm'
-bip_39_word_new_line3: 'enter
+bip_39_word_new_line_3: 'enter
 
   confirm
 
   panther'
-bip_39_word_new_line4: 'enter
+bip_39_word_new_line_4: 'enter
 
   confirm
 
   panther
 
   bacon'
-bip_39_word_new_line5: 'enter
+bip_39_word_new_line_5: 'enter
 
   confirm
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'enter
   bacon
 
   guard'
-bip_39_word_new_line6: 'enter
+bip_39_word_new_line_6: 'enter
 
   confirm
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'enter
   guard
 
   kick'
-bip_39_word_new_line7: 'enter
+bip_39_word_new_line_7: 'enter
 
   confirm
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'enter
   kick
 
   royal'
-bip_39_word_new_line8: 'enter
+bip_39_word_new_line_8: 'enter
 
   confirm
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'enter
   royal
 
   always'
-bip_39_word_new_line9: 'enter
+bip_39_word_new_line_9: 'enter
 
   confirm
 

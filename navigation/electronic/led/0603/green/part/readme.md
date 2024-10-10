@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bridge |  
-| bip_39_word_new_br10 | bridge<br>betray<br>gloom<br>sketch<br>weekend<br>twin<br>tribe<br>become<br>ordinary<br>miracle |  
-| bip_39_word_new_br11 | bridge<br>betray<br>gloom<br>sketch<br>weekend<br>twin<br>tribe<br>become<br>ordinary<br>miracle<br>inject |  
-| bip_39_word_new_br12 | bridge<br>betray<br>gloom<br>sketch<br>weekend<br>twin<br>tribe<br>become<br>ordinary<br>miracle<br>inject<br>area |  
-| bip_39_word_new_br2 | bridge<br>betray |  
-| bip_39_word_new_br3 | bridge<br>betray<br>gloom |  
-| bip_39_word_new_br4 | bridge<br>betray<br>gloom<br>sketch |  
-| bip_39_word_new_br5 | bridge<br>betray<br>gloom<br>sketch<br>weekend |  
-| bip_39_word_new_br6 | bridge<br>betray<br>gloom<br>sketch<br>weekend<br>twin |  
-| bip_39_word_new_br7 | bridge<br>betray<br>gloom<br>sketch<br>weekend<br>twin<br>tribe |  
-| bip_39_word_new_br8 | bridge<br>betray<br>gloom<br>sketch<br>weekend<br>twin<br>tribe<br>become |  
-| bip_39_word_new_br9 | bridge<br>betray<br>gloom<br>sketch<br>weekend<br>twin<br>tribe<br>become<br>ordinary |  
-| bip_39_word_new_line1 | bridge |  
-| bip_39_word_new_line10 | bridge
+| bip_39_word_new_br_1 | bridge |  
+| bip_39_word_new_br_10 | bridge<br>betray<br>gloom<br>sketch<br>weekend<br>twin<br>tribe<br>become<br>ordinary<br>miracle |  
+| bip_39_word_new_br_11 | bridge<br>betray<br>gloom<br>sketch<br>weekend<br>twin<br>tribe<br>become<br>ordinary<br>miracle<br>inject |  
+| bip_39_word_new_br_12 | bridge<br>betray<br>gloom<br>sketch<br>weekend<br>twin<br>tribe<br>become<br>ordinary<br>miracle<br>inject<br>area |  
+| bip_39_word_new_br_2 | bridge<br>betray |  
+| bip_39_word_new_br_3 | bridge<br>betray<br>gloom |  
+| bip_39_word_new_br_4 | bridge<br>betray<br>gloom<br>sketch |  
+| bip_39_word_new_br_5 | bridge<br>betray<br>gloom<br>sketch<br>weekend |  
+| bip_39_word_new_br_6 | bridge<br>betray<br>gloom<br>sketch<br>weekend<br>twin |  
+| bip_39_word_new_br_7 | bridge<br>betray<br>gloom<br>sketch<br>weekend<br>twin<br>tribe |  
+| bip_39_word_new_br_8 | bridge<br>betray<br>gloom<br>sketch<br>weekend<br>twin<br>tribe<br>become |  
+| bip_39_word_new_br_9 | bridge<br>betray<br>gloom<br>sketch<br>weekend<br>twin<br>tribe<br>become<br>ordinary |  
+| bip_39_word_new_line_1 | bridge |  
+| bip_39_word_new_line_10 | bridge
 betray
 gloom
 sketch
@@ -55,7 +55,7 @@ tribe
 become
 ordinary
 miracle |  
-| bip_39_word_new_line11 | bridge
+| bip_39_word_new_line_11 | bridge
 betray
 gloom
 sketch
@@ -66,7 +66,7 @@ become
 ordinary
 miracle
 inject |  
-| bip_39_word_new_line12 | bridge
+| bip_39_word_new_line_12 | bridge
 betray
 gloom
 sketch
@@ -78,34 +78,34 @@ ordinary
 miracle
 inject
 area |  
-| bip_39_word_new_line2 | bridge
+| bip_39_word_new_line_2 | bridge
 betray |  
-| bip_39_word_new_line3 | bridge
+| bip_39_word_new_line_3 | bridge
 betray
 gloom |  
-| bip_39_word_new_line4 | bridge
+| bip_39_word_new_line_4 | bridge
 betray
 gloom
 sketch |  
-| bip_39_word_new_line5 | bridge
+| bip_39_word_new_line_5 | bridge
 betray
 gloom
 sketch
 weekend |  
-| bip_39_word_new_line6 | bridge
+| bip_39_word_new_line_6 | bridge
 betray
 gloom
 sketch
 weekend
 twin |  
-| bip_39_word_new_line7 | bridge
+| bip_39_word_new_line_7 | bridge
 betray
 gloom
 sketch
 weekend
 twin
 tribe |  
-| bip_39_word_new_line8 | bridge
+| bip_39_word_new_line_8 | bridge
 betray
 gloom
 sketch
@@ -113,7 +113,7 @@ weekend
 twin
 tribe
 become |  
-| bip_39_word_new_line9 | bridge
+| bip_39_word_new_line_9 | bridge
 betray
 gloom
 sketch

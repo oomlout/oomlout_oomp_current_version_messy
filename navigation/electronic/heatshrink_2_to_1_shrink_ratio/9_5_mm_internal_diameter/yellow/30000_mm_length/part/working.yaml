@@ -1,17 +1,17 @@
-bip_39_word_new_br1: install
-bip_39_word_new_br10: install<br>limit<br>inspire<br>explain<br>lobster<br>dinosaur<br>document<br>upset<br>tiny<br>hurry
-bip_39_word_new_br11: install<br>limit<br>inspire<br>explain<br>lobster<br>dinosaur<br>document<br>upset<br>tiny<br>hurry<br>open
-bip_39_word_new_br12: install<br>limit<br>inspire<br>explain<br>lobster<br>dinosaur<br>document<br>upset<br>tiny<br>hurry<br>open<br>arctic
-bip_39_word_new_br2: install<br>limit
-bip_39_word_new_br3: install<br>limit<br>inspire
-bip_39_word_new_br4: install<br>limit<br>inspire<br>explain
-bip_39_word_new_br5: install<br>limit<br>inspire<br>explain<br>lobster
-bip_39_word_new_br6: install<br>limit<br>inspire<br>explain<br>lobster<br>dinosaur
-bip_39_word_new_br7: install<br>limit<br>inspire<br>explain<br>lobster<br>dinosaur<br>document
-bip_39_word_new_br8: install<br>limit<br>inspire<br>explain<br>lobster<br>dinosaur<br>document<br>upset
-bip_39_word_new_br9: install<br>limit<br>inspire<br>explain<br>lobster<br>dinosaur<br>document<br>upset<br>tiny
-bip_39_word_new_line1: install
-bip_39_word_new_line10: 'install
+bip_39_word_new_br_1: install
+bip_39_word_new_br_10: install<br>limit<br>inspire<br>explain<br>lobster<br>dinosaur<br>document<br>upset<br>tiny<br>hurry
+bip_39_word_new_br_11: install<br>limit<br>inspire<br>explain<br>lobster<br>dinosaur<br>document<br>upset<br>tiny<br>hurry<br>open
+bip_39_word_new_br_12: install<br>limit<br>inspire<br>explain<br>lobster<br>dinosaur<br>document<br>upset<br>tiny<br>hurry<br>open<br>arctic
+bip_39_word_new_br_2: install<br>limit
+bip_39_word_new_br_3: install<br>limit<br>inspire
+bip_39_word_new_br_4: install<br>limit<br>inspire<br>explain
+bip_39_word_new_br_5: install<br>limit<br>inspire<br>explain<br>lobster
+bip_39_word_new_br_6: install<br>limit<br>inspire<br>explain<br>lobster<br>dinosaur
+bip_39_word_new_br_7: install<br>limit<br>inspire<br>explain<br>lobster<br>dinosaur<br>document
+bip_39_word_new_br_8: install<br>limit<br>inspire<br>explain<br>lobster<br>dinosaur<br>document<br>upset
+bip_39_word_new_br_9: install<br>limit<br>inspire<br>explain<br>lobster<br>dinosaur<br>document<br>upset<br>tiny
+bip_39_word_new_line_1: install
+bip_39_word_new_line_10: 'install
 
   limit
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'install
   tiny
 
   hurry'
-bip_39_word_new_line11: 'install
+bip_39_word_new_line_11: 'install
 
   limit
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'install
   hurry
 
   open'
-bip_39_word_new_line12: 'install
+bip_39_word_new_line_12: 'install
 
   limit
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'install
   open
 
   arctic'
-bip_39_word_new_line2: 'install
+bip_39_word_new_line_2: 'install
 
   limit'
-bip_39_word_new_line3: 'install
+bip_39_word_new_line_3: 'install
 
   limit
 
   inspire'
-bip_39_word_new_line4: 'install
+bip_39_word_new_line_4: 'install
 
   limit
 
   inspire
 
   explain'
-bip_39_word_new_line5: 'install
+bip_39_word_new_line_5: 'install
 
   limit
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'install
   explain
 
   lobster'
-bip_39_word_new_line6: 'install
+bip_39_word_new_line_6: 'install
 
   limit
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'install
   lobster
 
   dinosaur'
-bip_39_word_new_line7: 'install
+bip_39_word_new_line_7: 'install
 
   limit
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'install
   dinosaur
 
   document'
-bip_39_word_new_line8: 'install
+bip_39_word_new_line_8: 'install
 
   limit
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'install
   document
 
   upset'
-bip_39_word_new_line9: 'install
+bip_39_word_new_line_9: 'install
 
   limit
 

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | exclude |  
-| bip_39_word_new_br10 | exclude<br>purpose<br>start<br>seven<br>oppose<br>debate<br>praise<br>wasp<br>helmet<br>scheme |  
-| bip_39_word_new_br11 | exclude<br>purpose<br>start<br>seven<br>oppose<br>debate<br>praise<br>wasp<br>helmet<br>scheme<br>pizza |  
-| bip_39_word_new_br12 | exclude<br>purpose<br>start<br>seven<br>oppose<br>debate<br>praise<br>wasp<br>helmet<br>scheme<br>pizza<br>appear |  
-| bip_39_word_new_br2 | exclude<br>purpose |  
-| bip_39_word_new_br3 | exclude<br>purpose<br>start |  
-| bip_39_word_new_br4 | exclude<br>purpose<br>start<br>seven |  
-| bip_39_word_new_br5 | exclude<br>purpose<br>start<br>seven<br>oppose |  
-| bip_39_word_new_br6 | exclude<br>purpose<br>start<br>seven<br>oppose<br>debate |  
-| bip_39_word_new_br7 | exclude<br>purpose<br>start<br>seven<br>oppose<br>debate<br>praise |  
-| bip_39_word_new_br8 | exclude<br>purpose<br>start<br>seven<br>oppose<br>debate<br>praise<br>wasp |  
-| bip_39_word_new_br9 | exclude<br>purpose<br>start<br>seven<br>oppose<br>debate<br>praise<br>wasp<br>helmet |  
-| bip_39_word_new_line1 | exclude |  
-| bip_39_word_new_line10 | exclude
+| bip_39_word_new_br_1 | exclude |  
+| bip_39_word_new_br_10 | exclude<br>purpose<br>start<br>seven<br>oppose<br>debate<br>praise<br>wasp<br>helmet<br>scheme |  
+| bip_39_word_new_br_11 | exclude<br>purpose<br>start<br>seven<br>oppose<br>debate<br>praise<br>wasp<br>helmet<br>scheme<br>pizza |  
+| bip_39_word_new_br_12 | exclude<br>purpose<br>start<br>seven<br>oppose<br>debate<br>praise<br>wasp<br>helmet<br>scheme<br>pizza<br>appear |  
+| bip_39_word_new_br_2 | exclude<br>purpose |  
+| bip_39_word_new_br_3 | exclude<br>purpose<br>start |  
+| bip_39_word_new_br_4 | exclude<br>purpose<br>start<br>seven |  
+| bip_39_word_new_br_5 | exclude<br>purpose<br>start<br>seven<br>oppose |  
+| bip_39_word_new_br_6 | exclude<br>purpose<br>start<br>seven<br>oppose<br>debate |  
+| bip_39_word_new_br_7 | exclude<br>purpose<br>start<br>seven<br>oppose<br>debate<br>praise |  
+| bip_39_word_new_br_8 | exclude<br>purpose<br>start<br>seven<br>oppose<br>debate<br>praise<br>wasp |  
+| bip_39_word_new_br_9 | exclude<br>purpose<br>start<br>seven<br>oppose<br>debate<br>praise<br>wasp<br>helmet |  
+| bip_39_word_new_line_1 | exclude |  
+| bip_39_word_new_line_10 | exclude
 purpose
 start
 seven
@@ -55,7 +55,7 @@ praise
 wasp
 helmet
 scheme |  
-| bip_39_word_new_line11 | exclude
+| bip_39_word_new_line_11 | exclude
 purpose
 start
 seven
@@ -66,7 +66,7 @@ wasp
 helmet
 scheme
 pizza |  
-| bip_39_word_new_line12 | exclude
+| bip_39_word_new_line_12 | exclude
 purpose
 start
 seven
@@ -78,34 +78,34 @@ helmet
 scheme
 pizza
 appear |  
-| bip_39_word_new_line2 | exclude
+| bip_39_word_new_line_2 | exclude
 purpose |  
-| bip_39_word_new_line3 | exclude
+| bip_39_word_new_line_3 | exclude
 purpose
 start |  
-| bip_39_word_new_line4 | exclude
+| bip_39_word_new_line_4 | exclude
 purpose
 start
 seven |  
-| bip_39_word_new_line5 | exclude
+| bip_39_word_new_line_5 | exclude
 purpose
 start
 seven
 oppose |  
-| bip_39_word_new_line6 | exclude
+| bip_39_word_new_line_6 | exclude
 purpose
 start
 seven
 oppose
 debate |  
-| bip_39_word_new_line7 | exclude
+| bip_39_word_new_line_7 | exclude
 purpose
 start
 seven
 oppose
 debate
 praise |  
-| bip_39_word_new_line8 | exclude
+| bip_39_word_new_line_8 | exclude
 purpose
 start
 seven
@@ -113,7 +113,7 @@ oppose
 debate
 praise
 wasp |  
-| bip_39_word_new_line9 | exclude
+| bip_39_word_new_line_9 | exclude
 purpose
 start
 seven

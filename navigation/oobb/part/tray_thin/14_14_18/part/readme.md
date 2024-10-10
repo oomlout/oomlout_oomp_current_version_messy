@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ritual |  
-| bip_39_word_new_br10 | ritual<br>drink<br>burger<br>today<br>sustain<br>dune<br>knock<br>inside<br>snake<br>bracket |  
-| bip_39_word_new_br11 | ritual<br>drink<br>burger<br>today<br>sustain<br>dune<br>knock<br>inside<br>snake<br>bracket<br>inquiry |  
-| bip_39_word_new_br12 | ritual<br>drink<br>burger<br>today<br>sustain<br>dune<br>knock<br>inside<br>snake<br>bracket<br>inquiry<br>appear |  
-| bip_39_word_new_br2 | ritual<br>drink |  
-| bip_39_word_new_br3 | ritual<br>drink<br>burger |  
-| bip_39_word_new_br4 | ritual<br>drink<br>burger<br>today |  
-| bip_39_word_new_br5 | ritual<br>drink<br>burger<br>today<br>sustain |  
-| bip_39_word_new_br6 | ritual<br>drink<br>burger<br>today<br>sustain<br>dune |  
-| bip_39_word_new_br7 | ritual<br>drink<br>burger<br>today<br>sustain<br>dune<br>knock |  
-| bip_39_word_new_br8 | ritual<br>drink<br>burger<br>today<br>sustain<br>dune<br>knock<br>inside |  
-| bip_39_word_new_br9 | ritual<br>drink<br>burger<br>today<br>sustain<br>dune<br>knock<br>inside<br>snake |  
-| bip_39_word_new_line1 | ritual |  
-| bip_39_word_new_line10 | ritual
+| bip_39_word_new_br_1 | ritual |  
+| bip_39_word_new_br_10 | ritual<br>drink<br>burger<br>today<br>sustain<br>dune<br>knock<br>inside<br>snake<br>bracket |  
+| bip_39_word_new_br_11 | ritual<br>drink<br>burger<br>today<br>sustain<br>dune<br>knock<br>inside<br>snake<br>bracket<br>inquiry |  
+| bip_39_word_new_br_12 | ritual<br>drink<br>burger<br>today<br>sustain<br>dune<br>knock<br>inside<br>snake<br>bracket<br>inquiry<br>appear |  
+| bip_39_word_new_br_2 | ritual<br>drink |  
+| bip_39_word_new_br_3 | ritual<br>drink<br>burger |  
+| bip_39_word_new_br_4 | ritual<br>drink<br>burger<br>today |  
+| bip_39_word_new_br_5 | ritual<br>drink<br>burger<br>today<br>sustain |  
+| bip_39_word_new_br_6 | ritual<br>drink<br>burger<br>today<br>sustain<br>dune |  
+| bip_39_word_new_br_7 | ritual<br>drink<br>burger<br>today<br>sustain<br>dune<br>knock |  
+| bip_39_word_new_br_8 | ritual<br>drink<br>burger<br>today<br>sustain<br>dune<br>knock<br>inside |  
+| bip_39_word_new_br_9 | ritual<br>drink<br>burger<br>today<br>sustain<br>dune<br>knock<br>inside<br>snake |  
+| bip_39_word_new_line_1 | ritual |  
+| bip_39_word_new_line_10 | ritual
 drink
 burger
 today
@@ -55,7 +55,7 @@ knock
 inside
 snake
 bracket |  
-| bip_39_word_new_line11 | ritual
+| bip_39_word_new_line_11 | ritual
 drink
 burger
 today
@@ -66,7 +66,7 @@ inside
 snake
 bracket
 inquiry |  
-| bip_39_word_new_line12 | ritual
+| bip_39_word_new_line_12 | ritual
 drink
 burger
 today
@@ -78,34 +78,34 @@ snake
 bracket
 inquiry
 appear |  
-| bip_39_word_new_line2 | ritual
+| bip_39_word_new_line_2 | ritual
 drink |  
-| bip_39_word_new_line3 | ritual
+| bip_39_word_new_line_3 | ritual
 drink
 burger |  
-| bip_39_word_new_line4 | ritual
+| bip_39_word_new_line_4 | ritual
 drink
 burger
 today |  
-| bip_39_word_new_line5 | ritual
+| bip_39_word_new_line_5 | ritual
 drink
 burger
 today
 sustain |  
-| bip_39_word_new_line6 | ritual
+| bip_39_word_new_line_6 | ritual
 drink
 burger
 today
 sustain
 dune |  
-| bip_39_word_new_line7 | ritual
+| bip_39_word_new_line_7 | ritual
 drink
 burger
 today
 sustain
 dune
 knock |  
-| bip_39_word_new_line8 | ritual
+| bip_39_word_new_line_8 | ritual
 drink
 burger
 today
@@ -113,7 +113,7 @@ sustain
 dune
 knock
 inside |  
-| bip_39_word_new_line9 | ritual
+| bip_39_word_new_line_9 | ritual
 drink
 burger
 today

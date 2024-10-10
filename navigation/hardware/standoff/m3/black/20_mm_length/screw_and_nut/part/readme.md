@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | finish |  
-| bip_39_word_new_br10 | finish<br>buffalo<br>jacket<br>broom<br>omit<br>tool<br>grace<br>hip<br>magnet<br>salad |  
-| bip_39_word_new_br11 | finish<br>buffalo<br>jacket<br>broom<br>omit<br>tool<br>grace<br>hip<br>magnet<br>salad<br>weapon |  
-| bip_39_word_new_br12 | finish<br>buffalo<br>jacket<br>broom<br>omit<br>tool<br>grace<br>hip<br>magnet<br>salad<br>weapon<br>ankle |  
-| bip_39_word_new_br2 | finish<br>buffalo |  
-| bip_39_word_new_br3 | finish<br>buffalo<br>jacket |  
-| bip_39_word_new_br4 | finish<br>buffalo<br>jacket<br>broom |  
-| bip_39_word_new_br5 | finish<br>buffalo<br>jacket<br>broom<br>omit |  
-| bip_39_word_new_br6 | finish<br>buffalo<br>jacket<br>broom<br>omit<br>tool |  
-| bip_39_word_new_br7 | finish<br>buffalo<br>jacket<br>broom<br>omit<br>tool<br>grace |  
-| bip_39_word_new_br8 | finish<br>buffalo<br>jacket<br>broom<br>omit<br>tool<br>grace<br>hip |  
-| bip_39_word_new_br9 | finish<br>buffalo<br>jacket<br>broom<br>omit<br>tool<br>grace<br>hip<br>magnet |  
-| bip_39_word_new_line1 | finish |  
-| bip_39_word_new_line10 | finish
+| bip_39_word_new_br_1 | finish |  
+| bip_39_word_new_br_10 | finish<br>buffalo<br>jacket<br>broom<br>omit<br>tool<br>grace<br>hip<br>magnet<br>salad |  
+| bip_39_word_new_br_11 | finish<br>buffalo<br>jacket<br>broom<br>omit<br>tool<br>grace<br>hip<br>magnet<br>salad<br>weapon |  
+| bip_39_word_new_br_12 | finish<br>buffalo<br>jacket<br>broom<br>omit<br>tool<br>grace<br>hip<br>magnet<br>salad<br>weapon<br>ankle |  
+| bip_39_word_new_br_2 | finish<br>buffalo |  
+| bip_39_word_new_br_3 | finish<br>buffalo<br>jacket |  
+| bip_39_word_new_br_4 | finish<br>buffalo<br>jacket<br>broom |  
+| bip_39_word_new_br_5 | finish<br>buffalo<br>jacket<br>broom<br>omit |  
+| bip_39_word_new_br_6 | finish<br>buffalo<br>jacket<br>broom<br>omit<br>tool |  
+| bip_39_word_new_br_7 | finish<br>buffalo<br>jacket<br>broom<br>omit<br>tool<br>grace |  
+| bip_39_word_new_br_8 | finish<br>buffalo<br>jacket<br>broom<br>omit<br>tool<br>grace<br>hip |  
+| bip_39_word_new_br_9 | finish<br>buffalo<br>jacket<br>broom<br>omit<br>tool<br>grace<br>hip<br>magnet |  
+| bip_39_word_new_line_1 | finish |  
+| bip_39_word_new_line_10 | finish
 buffalo
 jacket
 broom
@@ -55,7 +55,7 @@ grace
 hip
 magnet
 salad |  
-| bip_39_word_new_line11 | finish
+| bip_39_word_new_line_11 | finish
 buffalo
 jacket
 broom
@@ -66,7 +66,7 @@ hip
 magnet
 salad
 weapon |  
-| bip_39_word_new_line12 | finish
+| bip_39_word_new_line_12 | finish
 buffalo
 jacket
 broom
@@ -78,34 +78,34 @@ magnet
 salad
 weapon
 ankle |  
-| bip_39_word_new_line2 | finish
+| bip_39_word_new_line_2 | finish
 buffalo |  
-| bip_39_word_new_line3 | finish
+| bip_39_word_new_line_3 | finish
 buffalo
 jacket |  
-| bip_39_word_new_line4 | finish
+| bip_39_word_new_line_4 | finish
 buffalo
 jacket
 broom |  
-| bip_39_word_new_line5 | finish
+| bip_39_word_new_line_5 | finish
 buffalo
 jacket
 broom
 omit |  
-| bip_39_word_new_line6 | finish
+| bip_39_word_new_line_6 | finish
 buffalo
 jacket
 broom
 omit
 tool |  
-| bip_39_word_new_line7 | finish
+| bip_39_word_new_line_7 | finish
 buffalo
 jacket
 broom
 omit
 tool
 grace |  
-| bip_39_word_new_line8 | finish
+| bip_39_word_new_line_8 | finish
 buffalo
 jacket
 broom
@@ -113,7 +113,7 @@ omit
 tool
 grace
 hip |  
-| bip_39_word_new_line9 | finish
+| bip_39_word_new_line_9 | finish
 buffalo
 jacket
 broom

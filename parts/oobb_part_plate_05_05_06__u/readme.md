@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | control |  
-| bip_39_word_new_br10 | control<br>master<br>ready<br>write<br>urge<br>attitude<br>love<br>duty<br>voice<br>slide |  
-| bip_39_word_new_br11 | control<br>master<br>ready<br>write<br>urge<br>attitude<br>love<br>duty<br>voice<br>slide<br>shop |  
-| bip_39_word_new_br12 | control<br>master<br>ready<br>write<br>urge<br>attitude<br>love<br>duty<br>voice<br>slide<br>shop<br>album |  
-| bip_39_word_new_br2 | control<br>master |  
-| bip_39_word_new_br3 | control<br>master<br>ready |  
-| bip_39_word_new_br4 | control<br>master<br>ready<br>write |  
-| bip_39_word_new_br5 | control<br>master<br>ready<br>write<br>urge |  
-| bip_39_word_new_br6 | control<br>master<br>ready<br>write<br>urge<br>attitude |  
-| bip_39_word_new_br7 | control<br>master<br>ready<br>write<br>urge<br>attitude<br>love |  
-| bip_39_word_new_br8 | control<br>master<br>ready<br>write<br>urge<br>attitude<br>love<br>duty |  
-| bip_39_word_new_br9 | control<br>master<br>ready<br>write<br>urge<br>attitude<br>love<br>duty<br>voice |  
-| bip_39_word_new_line1 | control |  
-| bip_39_word_new_line10 | control
+| bip_39_word_new_br_1 | control |  
+| bip_39_word_new_br_10 | control<br>master<br>ready<br>write<br>urge<br>attitude<br>love<br>duty<br>voice<br>slide |  
+| bip_39_word_new_br_11 | control<br>master<br>ready<br>write<br>urge<br>attitude<br>love<br>duty<br>voice<br>slide<br>shop |  
+| bip_39_word_new_br_12 | control<br>master<br>ready<br>write<br>urge<br>attitude<br>love<br>duty<br>voice<br>slide<br>shop<br>album |  
+| bip_39_word_new_br_2 | control<br>master |  
+| bip_39_word_new_br_3 | control<br>master<br>ready |  
+| bip_39_word_new_br_4 | control<br>master<br>ready<br>write |  
+| bip_39_word_new_br_5 | control<br>master<br>ready<br>write<br>urge |  
+| bip_39_word_new_br_6 | control<br>master<br>ready<br>write<br>urge<br>attitude |  
+| bip_39_word_new_br_7 | control<br>master<br>ready<br>write<br>urge<br>attitude<br>love |  
+| bip_39_word_new_br_8 | control<br>master<br>ready<br>write<br>urge<br>attitude<br>love<br>duty |  
+| bip_39_word_new_br_9 | control<br>master<br>ready<br>write<br>urge<br>attitude<br>love<br>duty<br>voice |  
+| bip_39_word_new_line_1 | control |  
+| bip_39_word_new_line_10 | control
 master
 ready
 write
@@ -55,7 +55,7 @@ love
 duty
 voice
 slide |  
-| bip_39_word_new_line11 | control
+| bip_39_word_new_line_11 | control
 master
 ready
 write
@@ -66,7 +66,7 @@ duty
 voice
 slide
 shop |  
-| bip_39_word_new_line12 | control
+| bip_39_word_new_line_12 | control
 master
 ready
 write
@@ -78,34 +78,34 @@ voice
 slide
 shop
 album |  
-| bip_39_word_new_line2 | control
+| bip_39_word_new_line_2 | control
 master |  
-| bip_39_word_new_line3 | control
+| bip_39_word_new_line_3 | control
 master
 ready |  
-| bip_39_word_new_line4 | control
+| bip_39_word_new_line_4 | control
 master
 ready
 write |  
-| bip_39_word_new_line5 | control
+| bip_39_word_new_line_5 | control
 master
 ready
 write
 urge |  
-| bip_39_word_new_line6 | control
+| bip_39_word_new_line_6 | control
 master
 ready
 write
 urge
 attitude |  
-| bip_39_word_new_line7 | control
+| bip_39_word_new_line_7 | control
 master
 ready
 write
 urge
 attitude
 love |  
-| bip_39_word_new_line8 | control
+| bip_39_word_new_line_8 | control
 master
 ready
 write
@@ -113,7 +113,7 @@ urge
 attitude
 love
 duty |  
-| bip_39_word_new_line9 | control
+| bip_39_word_new_line_9 | control
 master
 ready
 write

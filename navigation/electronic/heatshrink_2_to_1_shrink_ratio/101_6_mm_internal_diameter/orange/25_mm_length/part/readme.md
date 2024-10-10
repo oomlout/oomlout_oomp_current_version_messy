@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wire |  
-| bip_39_word_new_br10 | wire<br>depth<br>nuclear<br>tenant<br>brisk<br>actor<br>bean<br>strong<br>wire<br>desk |  
-| bip_39_word_new_br11 | wire<br>depth<br>nuclear<br>tenant<br>brisk<br>actor<br>bean<br>strong<br>wire<br>desk<br>tiger |  
-| bip_39_word_new_br12 | wire<br>depth<br>nuclear<br>tenant<br>brisk<br>actor<br>bean<br>strong<br>wire<br>desk<br>tiger<br>absent |  
-| bip_39_word_new_br2 | wire<br>depth |  
-| bip_39_word_new_br3 | wire<br>depth<br>nuclear |  
-| bip_39_word_new_br4 | wire<br>depth<br>nuclear<br>tenant |  
-| bip_39_word_new_br5 | wire<br>depth<br>nuclear<br>tenant<br>brisk |  
-| bip_39_word_new_br6 | wire<br>depth<br>nuclear<br>tenant<br>brisk<br>actor |  
-| bip_39_word_new_br7 | wire<br>depth<br>nuclear<br>tenant<br>brisk<br>actor<br>bean |  
-| bip_39_word_new_br8 | wire<br>depth<br>nuclear<br>tenant<br>brisk<br>actor<br>bean<br>strong |  
-| bip_39_word_new_br9 | wire<br>depth<br>nuclear<br>tenant<br>brisk<br>actor<br>bean<br>strong<br>wire |  
-| bip_39_word_new_line1 | wire |  
-| bip_39_word_new_line10 | wire
+| bip_39_word_new_br_1 | wire |  
+| bip_39_word_new_br_10 | wire<br>depth<br>nuclear<br>tenant<br>brisk<br>actor<br>bean<br>strong<br>wire<br>desk |  
+| bip_39_word_new_br_11 | wire<br>depth<br>nuclear<br>tenant<br>brisk<br>actor<br>bean<br>strong<br>wire<br>desk<br>tiger |  
+| bip_39_word_new_br_12 | wire<br>depth<br>nuclear<br>tenant<br>brisk<br>actor<br>bean<br>strong<br>wire<br>desk<br>tiger<br>absent |  
+| bip_39_word_new_br_2 | wire<br>depth |  
+| bip_39_word_new_br_3 | wire<br>depth<br>nuclear |  
+| bip_39_word_new_br_4 | wire<br>depth<br>nuclear<br>tenant |  
+| bip_39_word_new_br_5 | wire<br>depth<br>nuclear<br>tenant<br>brisk |  
+| bip_39_word_new_br_6 | wire<br>depth<br>nuclear<br>tenant<br>brisk<br>actor |  
+| bip_39_word_new_br_7 | wire<br>depth<br>nuclear<br>tenant<br>brisk<br>actor<br>bean |  
+| bip_39_word_new_br_8 | wire<br>depth<br>nuclear<br>tenant<br>brisk<br>actor<br>bean<br>strong |  
+| bip_39_word_new_br_9 | wire<br>depth<br>nuclear<br>tenant<br>brisk<br>actor<br>bean<br>strong<br>wire |  
+| bip_39_word_new_line_1 | wire |  
+| bip_39_word_new_line_10 | wire
 depth
 nuclear
 tenant
@@ -55,7 +55,7 @@ bean
 strong
 wire
 desk |  
-| bip_39_word_new_line11 | wire
+| bip_39_word_new_line_11 | wire
 depth
 nuclear
 tenant
@@ -66,7 +66,7 @@ strong
 wire
 desk
 tiger |  
-| bip_39_word_new_line12 | wire
+| bip_39_word_new_line_12 | wire
 depth
 nuclear
 tenant
@@ -78,34 +78,34 @@ wire
 desk
 tiger
 absent |  
-| bip_39_word_new_line2 | wire
+| bip_39_word_new_line_2 | wire
 depth |  
-| bip_39_word_new_line3 | wire
+| bip_39_word_new_line_3 | wire
 depth
 nuclear |  
-| bip_39_word_new_line4 | wire
+| bip_39_word_new_line_4 | wire
 depth
 nuclear
 tenant |  
-| bip_39_word_new_line5 | wire
+| bip_39_word_new_line_5 | wire
 depth
 nuclear
 tenant
 brisk |  
-| bip_39_word_new_line6 | wire
+| bip_39_word_new_line_6 | wire
 depth
 nuclear
 tenant
 brisk
 actor |  
-| bip_39_word_new_line7 | wire
+| bip_39_word_new_line_7 | wire
 depth
 nuclear
 tenant
 brisk
 actor
 bean |  
-| bip_39_word_new_line8 | wire
+| bip_39_word_new_line_8 | wire
 depth
 nuclear
 tenant
@@ -113,7 +113,7 @@ brisk
 actor
 bean
 strong |  
-| bip_39_word_new_line9 | wire
+| bip_39_word_new_line_9 | wire
 depth
 nuclear
 tenant

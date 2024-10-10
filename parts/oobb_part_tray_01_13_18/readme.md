@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | total |  
-| bip_39_word_new_br10 | total<br>morning<br>tomorrow<br>cement<br>art<br>wet<br>camp<br>horse<br>wear<br>ocean |  
-| bip_39_word_new_br11 | total<br>morning<br>tomorrow<br>cement<br>art<br>wet<br>camp<br>horse<br>wear<br>ocean<br>cheap |  
-| bip_39_word_new_br12 | total<br>morning<br>tomorrow<br>cement<br>art<br>wet<br>camp<br>horse<br>wear<br>ocean<br>cheap<br>access |  
-| bip_39_word_new_br2 | total<br>morning |  
-| bip_39_word_new_br3 | total<br>morning<br>tomorrow |  
-| bip_39_word_new_br4 | total<br>morning<br>tomorrow<br>cement |  
-| bip_39_word_new_br5 | total<br>morning<br>tomorrow<br>cement<br>art |  
-| bip_39_word_new_br6 | total<br>morning<br>tomorrow<br>cement<br>art<br>wet |  
-| bip_39_word_new_br7 | total<br>morning<br>tomorrow<br>cement<br>art<br>wet<br>camp |  
-| bip_39_word_new_br8 | total<br>morning<br>tomorrow<br>cement<br>art<br>wet<br>camp<br>horse |  
-| bip_39_word_new_br9 | total<br>morning<br>tomorrow<br>cement<br>art<br>wet<br>camp<br>horse<br>wear |  
-| bip_39_word_new_line1 | total |  
-| bip_39_word_new_line10 | total
+| bip_39_word_new_br_1 | total |  
+| bip_39_word_new_br_10 | total<br>morning<br>tomorrow<br>cement<br>art<br>wet<br>camp<br>horse<br>wear<br>ocean |  
+| bip_39_word_new_br_11 | total<br>morning<br>tomorrow<br>cement<br>art<br>wet<br>camp<br>horse<br>wear<br>ocean<br>cheap |  
+| bip_39_word_new_br_12 | total<br>morning<br>tomorrow<br>cement<br>art<br>wet<br>camp<br>horse<br>wear<br>ocean<br>cheap<br>access |  
+| bip_39_word_new_br_2 | total<br>morning |  
+| bip_39_word_new_br_3 | total<br>morning<br>tomorrow |  
+| bip_39_word_new_br_4 | total<br>morning<br>tomorrow<br>cement |  
+| bip_39_word_new_br_5 | total<br>morning<br>tomorrow<br>cement<br>art |  
+| bip_39_word_new_br_6 | total<br>morning<br>tomorrow<br>cement<br>art<br>wet |  
+| bip_39_word_new_br_7 | total<br>morning<br>tomorrow<br>cement<br>art<br>wet<br>camp |  
+| bip_39_word_new_br_8 | total<br>morning<br>tomorrow<br>cement<br>art<br>wet<br>camp<br>horse |  
+| bip_39_word_new_br_9 | total<br>morning<br>tomorrow<br>cement<br>art<br>wet<br>camp<br>horse<br>wear |  
+| bip_39_word_new_line_1 | total |  
+| bip_39_word_new_line_10 | total
 morning
 tomorrow
 cement
@@ -55,7 +55,7 @@ camp
 horse
 wear
 ocean |  
-| bip_39_word_new_line11 | total
+| bip_39_word_new_line_11 | total
 morning
 tomorrow
 cement
@@ -66,7 +66,7 @@ horse
 wear
 ocean
 cheap |  
-| bip_39_word_new_line12 | total
+| bip_39_word_new_line_12 | total
 morning
 tomorrow
 cement
@@ -78,34 +78,34 @@ wear
 ocean
 cheap
 access |  
-| bip_39_word_new_line2 | total
+| bip_39_word_new_line_2 | total
 morning |  
-| bip_39_word_new_line3 | total
+| bip_39_word_new_line_3 | total
 morning
 tomorrow |  
-| bip_39_word_new_line4 | total
+| bip_39_word_new_line_4 | total
 morning
 tomorrow
 cement |  
-| bip_39_word_new_line5 | total
+| bip_39_word_new_line_5 | total
 morning
 tomorrow
 cement
 art |  
-| bip_39_word_new_line6 | total
+| bip_39_word_new_line_6 | total
 morning
 tomorrow
 cement
 art
 wet |  
-| bip_39_word_new_line7 | total
+| bip_39_word_new_line_7 | total
 morning
 tomorrow
 cement
 art
 wet
 camp |  
-| bip_39_word_new_line8 | total
+| bip_39_word_new_line_8 | total
 morning
 tomorrow
 cement
@@ -113,7 +113,7 @@ art
 wet
 camp
 horse |  
-| bip_39_word_new_line9 | total
+| bip_39_word_new_line_9 | total
 morning
 tomorrow
 cement

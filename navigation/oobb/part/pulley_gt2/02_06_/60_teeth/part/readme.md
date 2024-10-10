@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | want |  
-| bip_39_word_new_br10 | want<br>swap<br>key<br>kitten<br>include<br>swear<br>drink<br>seek<br>cabbage<br>benefit |  
-| bip_39_word_new_br11 | want<br>swap<br>key<br>kitten<br>include<br>swear<br>drink<br>seek<br>cabbage<br>benefit<br>knee |  
-| bip_39_word_new_br12 | want<br>swap<br>key<br>kitten<br>include<br>swear<br>drink<br>seek<br>cabbage<br>benefit<br>knee<br>agent |  
-| bip_39_word_new_br2 | want<br>swap |  
-| bip_39_word_new_br3 | want<br>swap<br>key |  
-| bip_39_word_new_br4 | want<br>swap<br>key<br>kitten |  
-| bip_39_word_new_br5 | want<br>swap<br>key<br>kitten<br>include |  
-| bip_39_word_new_br6 | want<br>swap<br>key<br>kitten<br>include<br>swear |  
-| bip_39_word_new_br7 | want<br>swap<br>key<br>kitten<br>include<br>swear<br>drink |  
-| bip_39_word_new_br8 | want<br>swap<br>key<br>kitten<br>include<br>swear<br>drink<br>seek |  
-| bip_39_word_new_br9 | want<br>swap<br>key<br>kitten<br>include<br>swear<br>drink<br>seek<br>cabbage |  
-| bip_39_word_new_line1 | want |  
-| bip_39_word_new_line10 | want
+| bip_39_word_new_br_1 | want |  
+| bip_39_word_new_br_10 | want<br>swap<br>key<br>kitten<br>include<br>swear<br>drink<br>seek<br>cabbage<br>benefit |  
+| bip_39_word_new_br_11 | want<br>swap<br>key<br>kitten<br>include<br>swear<br>drink<br>seek<br>cabbage<br>benefit<br>knee |  
+| bip_39_word_new_br_12 | want<br>swap<br>key<br>kitten<br>include<br>swear<br>drink<br>seek<br>cabbage<br>benefit<br>knee<br>agent |  
+| bip_39_word_new_br_2 | want<br>swap |  
+| bip_39_word_new_br_3 | want<br>swap<br>key |  
+| bip_39_word_new_br_4 | want<br>swap<br>key<br>kitten |  
+| bip_39_word_new_br_5 | want<br>swap<br>key<br>kitten<br>include |  
+| bip_39_word_new_br_6 | want<br>swap<br>key<br>kitten<br>include<br>swear |  
+| bip_39_word_new_br_7 | want<br>swap<br>key<br>kitten<br>include<br>swear<br>drink |  
+| bip_39_word_new_br_8 | want<br>swap<br>key<br>kitten<br>include<br>swear<br>drink<br>seek |  
+| bip_39_word_new_br_9 | want<br>swap<br>key<br>kitten<br>include<br>swear<br>drink<br>seek<br>cabbage |  
+| bip_39_word_new_line_1 | want |  
+| bip_39_word_new_line_10 | want
 swap
 key
 kitten
@@ -55,7 +55,7 @@ drink
 seek
 cabbage
 benefit |  
-| bip_39_word_new_line11 | want
+| bip_39_word_new_line_11 | want
 swap
 key
 kitten
@@ -66,7 +66,7 @@ seek
 cabbage
 benefit
 knee |  
-| bip_39_word_new_line12 | want
+| bip_39_word_new_line_12 | want
 swap
 key
 kitten
@@ -78,34 +78,34 @@ cabbage
 benefit
 knee
 agent |  
-| bip_39_word_new_line2 | want
+| bip_39_word_new_line_2 | want
 swap |  
-| bip_39_word_new_line3 | want
+| bip_39_word_new_line_3 | want
 swap
 key |  
-| bip_39_word_new_line4 | want
+| bip_39_word_new_line_4 | want
 swap
 key
 kitten |  
-| bip_39_word_new_line5 | want
+| bip_39_word_new_line_5 | want
 swap
 key
 kitten
 include |  
-| bip_39_word_new_line6 | want
+| bip_39_word_new_line_6 | want
 swap
 key
 kitten
 include
 swear |  
-| bip_39_word_new_line7 | want
+| bip_39_word_new_line_7 | want
 swap
 key
 kitten
 include
 swear
 drink |  
-| bip_39_word_new_line8 | want
+| bip_39_word_new_line_8 | want
 swap
 key
 kitten
@@ -113,7 +113,7 @@ include
 swear
 drink
 seek |  
-| bip_39_word_new_line9 | want
+| bip_39_word_new_line_9 | want
 swap
 key
 kitten

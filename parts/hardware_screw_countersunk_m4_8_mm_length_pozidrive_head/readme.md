@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sniff |  
-| bip_39_word_new_br10 | sniff<br>squeeze<br>news<br>nuclear<br>matter<br>together<br>dolphin<br>number<br>crisp<br>damage |  
-| bip_39_word_new_br11 | sniff<br>squeeze<br>news<br>nuclear<br>matter<br>together<br>dolphin<br>number<br>crisp<br>damage<br>wash |  
-| bip_39_word_new_br12 | sniff<br>squeeze<br>news<br>nuclear<br>matter<br>together<br>dolphin<br>number<br>crisp<br>damage<br>wash<br>afraid |  
-| bip_39_word_new_br2 | sniff<br>squeeze |  
-| bip_39_word_new_br3 | sniff<br>squeeze<br>news |  
-| bip_39_word_new_br4 | sniff<br>squeeze<br>news<br>nuclear |  
-| bip_39_word_new_br5 | sniff<br>squeeze<br>news<br>nuclear<br>matter |  
-| bip_39_word_new_br6 | sniff<br>squeeze<br>news<br>nuclear<br>matter<br>together |  
-| bip_39_word_new_br7 | sniff<br>squeeze<br>news<br>nuclear<br>matter<br>together<br>dolphin |  
-| bip_39_word_new_br8 | sniff<br>squeeze<br>news<br>nuclear<br>matter<br>together<br>dolphin<br>number |  
-| bip_39_word_new_br9 | sniff<br>squeeze<br>news<br>nuclear<br>matter<br>together<br>dolphin<br>number<br>crisp |  
-| bip_39_word_new_line1 | sniff |  
-| bip_39_word_new_line10 | sniff
+| bip_39_word_new_br_1 | sniff |  
+| bip_39_word_new_br_10 | sniff<br>squeeze<br>news<br>nuclear<br>matter<br>together<br>dolphin<br>number<br>crisp<br>damage |  
+| bip_39_word_new_br_11 | sniff<br>squeeze<br>news<br>nuclear<br>matter<br>together<br>dolphin<br>number<br>crisp<br>damage<br>wash |  
+| bip_39_word_new_br_12 | sniff<br>squeeze<br>news<br>nuclear<br>matter<br>together<br>dolphin<br>number<br>crisp<br>damage<br>wash<br>afraid |  
+| bip_39_word_new_br_2 | sniff<br>squeeze |  
+| bip_39_word_new_br_3 | sniff<br>squeeze<br>news |  
+| bip_39_word_new_br_4 | sniff<br>squeeze<br>news<br>nuclear |  
+| bip_39_word_new_br_5 | sniff<br>squeeze<br>news<br>nuclear<br>matter |  
+| bip_39_word_new_br_6 | sniff<br>squeeze<br>news<br>nuclear<br>matter<br>together |  
+| bip_39_word_new_br_7 | sniff<br>squeeze<br>news<br>nuclear<br>matter<br>together<br>dolphin |  
+| bip_39_word_new_br_8 | sniff<br>squeeze<br>news<br>nuclear<br>matter<br>together<br>dolphin<br>number |  
+| bip_39_word_new_br_9 | sniff<br>squeeze<br>news<br>nuclear<br>matter<br>together<br>dolphin<br>number<br>crisp |  
+| bip_39_word_new_line_1 | sniff |  
+| bip_39_word_new_line_10 | sniff
 squeeze
 news
 nuclear
@@ -55,7 +55,7 @@ dolphin
 number
 crisp
 damage |  
-| bip_39_word_new_line11 | sniff
+| bip_39_word_new_line_11 | sniff
 squeeze
 news
 nuclear
@@ -66,7 +66,7 @@ number
 crisp
 damage
 wash |  
-| bip_39_word_new_line12 | sniff
+| bip_39_word_new_line_12 | sniff
 squeeze
 news
 nuclear
@@ -78,34 +78,34 @@ crisp
 damage
 wash
 afraid |  
-| bip_39_word_new_line2 | sniff
+| bip_39_word_new_line_2 | sniff
 squeeze |  
-| bip_39_word_new_line3 | sniff
+| bip_39_word_new_line_3 | sniff
 squeeze
 news |  
-| bip_39_word_new_line4 | sniff
+| bip_39_word_new_line_4 | sniff
 squeeze
 news
 nuclear |  
-| bip_39_word_new_line5 | sniff
+| bip_39_word_new_line_5 | sniff
 squeeze
 news
 nuclear
 matter |  
-| bip_39_word_new_line6 | sniff
+| bip_39_word_new_line_6 | sniff
 squeeze
 news
 nuclear
 matter
 together |  
-| bip_39_word_new_line7 | sniff
+| bip_39_word_new_line_7 | sniff
 squeeze
 news
 nuclear
 matter
 together
 dolphin |  
-| bip_39_word_new_line8 | sniff
+| bip_39_word_new_line_8 | sniff
 squeeze
 news
 nuclear
@@ -113,7 +113,7 @@ matter
 together
 dolphin
 number |  
-| bip_39_word_new_line9 | sniff
+| bip_39_word_new_line_9 | sniff
 squeeze
 news
 nuclear

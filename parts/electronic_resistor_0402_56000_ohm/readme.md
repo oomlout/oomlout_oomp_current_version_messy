@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | water |  
-| bip_39_word_new_br10 | water<br>shoot<br>phone<br>matrix<br>skate<br>relax<br>spider<br>depend<br>victory<br>slab |  
-| bip_39_word_new_br11 | water<br>shoot<br>phone<br>matrix<br>skate<br>relax<br>spider<br>depend<br>victory<br>slab<br>west |  
-| bip_39_word_new_br12 | water<br>shoot<br>phone<br>matrix<br>skate<br>relax<br>spider<br>depend<br>victory<br>slab<br>west<br>admit |  
-| bip_39_word_new_br2 | water<br>shoot |  
-| bip_39_word_new_br3 | water<br>shoot<br>phone |  
-| bip_39_word_new_br4 | water<br>shoot<br>phone<br>matrix |  
-| bip_39_word_new_br5 | water<br>shoot<br>phone<br>matrix<br>skate |  
-| bip_39_word_new_br6 | water<br>shoot<br>phone<br>matrix<br>skate<br>relax |  
-| bip_39_word_new_br7 | water<br>shoot<br>phone<br>matrix<br>skate<br>relax<br>spider |  
-| bip_39_word_new_br8 | water<br>shoot<br>phone<br>matrix<br>skate<br>relax<br>spider<br>depend |  
-| bip_39_word_new_br9 | water<br>shoot<br>phone<br>matrix<br>skate<br>relax<br>spider<br>depend<br>victory |  
-| bip_39_word_new_line1 | water |  
-| bip_39_word_new_line10 | water
+| bip_39_word_new_br_1 | water |  
+| bip_39_word_new_br_10 | water<br>shoot<br>phone<br>matrix<br>skate<br>relax<br>spider<br>depend<br>victory<br>slab |  
+| bip_39_word_new_br_11 | water<br>shoot<br>phone<br>matrix<br>skate<br>relax<br>spider<br>depend<br>victory<br>slab<br>west |  
+| bip_39_word_new_br_12 | water<br>shoot<br>phone<br>matrix<br>skate<br>relax<br>spider<br>depend<br>victory<br>slab<br>west<br>admit |  
+| bip_39_word_new_br_2 | water<br>shoot |  
+| bip_39_word_new_br_3 | water<br>shoot<br>phone |  
+| bip_39_word_new_br_4 | water<br>shoot<br>phone<br>matrix |  
+| bip_39_word_new_br_5 | water<br>shoot<br>phone<br>matrix<br>skate |  
+| bip_39_word_new_br_6 | water<br>shoot<br>phone<br>matrix<br>skate<br>relax |  
+| bip_39_word_new_br_7 | water<br>shoot<br>phone<br>matrix<br>skate<br>relax<br>spider |  
+| bip_39_word_new_br_8 | water<br>shoot<br>phone<br>matrix<br>skate<br>relax<br>spider<br>depend |  
+| bip_39_word_new_br_9 | water<br>shoot<br>phone<br>matrix<br>skate<br>relax<br>spider<br>depend<br>victory |  
+| bip_39_word_new_line_1 | water |  
+| bip_39_word_new_line_10 | water
 shoot
 phone
 matrix
@@ -55,7 +55,7 @@ spider
 depend
 victory
 slab |  
-| bip_39_word_new_line11 | water
+| bip_39_word_new_line_11 | water
 shoot
 phone
 matrix
@@ -66,7 +66,7 @@ depend
 victory
 slab
 west |  
-| bip_39_word_new_line12 | water
+| bip_39_word_new_line_12 | water
 shoot
 phone
 matrix
@@ -78,34 +78,34 @@ victory
 slab
 west
 admit |  
-| bip_39_word_new_line2 | water
+| bip_39_word_new_line_2 | water
 shoot |  
-| bip_39_word_new_line3 | water
+| bip_39_word_new_line_3 | water
 shoot
 phone |  
-| bip_39_word_new_line4 | water
+| bip_39_word_new_line_4 | water
 shoot
 phone
 matrix |  
-| bip_39_word_new_line5 | water
+| bip_39_word_new_line_5 | water
 shoot
 phone
 matrix
 skate |  
-| bip_39_word_new_line6 | water
+| bip_39_word_new_line_6 | water
 shoot
 phone
 matrix
 skate
 relax |  
-| bip_39_word_new_line7 | water
+| bip_39_word_new_line_7 | water
 shoot
 phone
 matrix
 skate
 relax
 spider |  
-| bip_39_word_new_line8 | water
+| bip_39_word_new_line_8 | water
 shoot
 phone
 matrix
@@ -113,7 +113,7 @@ skate
 relax
 spider
 depend |  
-| bip_39_word_new_line9 | water
+| bip_39_word_new_line_9 | water
 shoot
 phone
 matrix

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rigid |  
-| bip_39_word_new_br10 | rigid<br>between<br>sunset<br>gym<br>crime<br>spatial<br>scare<br>labor<br>knee<br>girl |  
-| bip_39_word_new_br11 | rigid<br>between<br>sunset<br>gym<br>crime<br>spatial<br>scare<br>labor<br>knee<br>girl<br>tobacco |  
-| bip_39_word_new_br12 | rigid<br>between<br>sunset<br>gym<br>crime<br>spatial<br>scare<br>labor<br>knee<br>girl<br>tobacco<br>allow |  
-| bip_39_word_new_br2 | rigid<br>between |  
-| bip_39_word_new_br3 | rigid<br>between<br>sunset |  
-| bip_39_word_new_br4 | rigid<br>between<br>sunset<br>gym |  
-| bip_39_word_new_br5 | rigid<br>between<br>sunset<br>gym<br>crime |  
-| bip_39_word_new_br6 | rigid<br>between<br>sunset<br>gym<br>crime<br>spatial |  
-| bip_39_word_new_br7 | rigid<br>between<br>sunset<br>gym<br>crime<br>spatial<br>scare |  
-| bip_39_word_new_br8 | rigid<br>between<br>sunset<br>gym<br>crime<br>spatial<br>scare<br>labor |  
-| bip_39_word_new_br9 | rigid<br>between<br>sunset<br>gym<br>crime<br>spatial<br>scare<br>labor<br>knee |  
-| bip_39_word_new_line1 | rigid |  
-| bip_39_word_new_line10 | rigid
+| bip_39_word_new_br_1 | rigid |  
+| bip_39_word_new_br_10 | rigid<br>between<br>sunset<br>gym<br>crime<br>spatial<br>scare<br>labor<br>knee<br>girl |  
+| bip_39_word_new_br_11 | rigid<br>between<br>sunset<br>gym<br>crime<br>spatial<br>scare<br>labor<br>knee<br>girl<br>tobacco |  
+| bip_39_word_new_br_12 | rigid<br>between<br>sunset<br>gym<br>crime<br>spatial<br>scare<br>labor<br>knee<br>girl<br>tobacco<br>allow |  
+| bip_39_word_new_br_2 | rigid<br>between |  
+| bip_39_word_new_br_3 | rigid<br>between<br>sunset |  
+| bip_39_word_new_br_4 | rigid<br>between<br>sunset<br>gym |  
+| bip_39_word_new_br_5 | rigid<br>between<br>sunset<br>gym<br>crime |  
+| bip_39_word_new_br_6 | rigid<br>between<br>sunset<br>gym<br>crime<br>spatial |  
+| bip_39_word_new_br_7 | rigid<br>between<br>sunset<br>gym<br>crime<br>spatial<br>scare |  
+| bip_39_word_new_br_8 | rigid<br>between<br>sunset<br>gym<br>crime<br>spatial<br>scare<br>labor |  
+| bip_39_word_new_br_9 | rigid<br>between<br>sunset<br>gym<br>crime<br>spatial<br>scare<br>labor<br>knee |  
+| bip_39_word_new_line_1 | rigid |  
+| bip_39_word_new_line_10 | rigid
 between
 sunset
 gym
@@ -55,7 +55,7 @@ scare
 labor
 knee
 girl |  
-| bip_39_word_new_line11 | rigid
+| bip_39_word_new_line_11 | rigid
 between
 sunset
 gym
@@ -66,7 +66,7 @@ labor
 knee
 girl
 tobacco |  
-| bip_39_word_new_line12 | rigid
+| bip_39_word_new_line_12 | rigid
 between
 sunset
 gym
@@ -78,34 +78,34 @@ knee
 girl
 tobacco
 allow |  
-| bip_39_word_new_line2 | rigid
+| bip_39_word_new_line_2 | rigid
 between |  
-| bip_39_word_new_line3 | rigid
+| bip_39_word_new_line_3 | rigid
 between
 sunset |  
-| bip_39_word_new_line4 | rigid
+| bip_39_word_new_line_4 | rigid
 between
 sunset
 gym |  
-| bip_39_word_new_line5 | rigid
+| bip_39_word_new_line_5 | rigid
 between
 sunset
 gym
 crime |  
-| bip_39_word_new_line6 | rigid
+| bip_39_word_new_line_6 | rigid
 between
 sunset
 gym
 crime
 spatial |  
-| bip_39_word_new_line7 | rigid
+| bip_39_word_new_line_7 | rigid
 between
 sunset
 gym
 crime
 spatial
 scare |  
-| bip_39_word_new_line8 | rigid
+| bip_39_word_new_line_8 | rigid
 between
 sunset
 gym
@@ -113,7 +113,7 @@ crime
 spatial
 scare
 labor |  
-| bip_39_word_new_line9 | rigid
+| bip_39_word_new_line_9 | rigid
 between
 sunset
 gym

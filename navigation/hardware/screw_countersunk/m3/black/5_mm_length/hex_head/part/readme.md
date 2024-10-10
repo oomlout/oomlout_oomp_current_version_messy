@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cry |  
-| bip_39_word_new_br10 | cry<br>sugar<br>two<br>mango<br>random<br>foam<br>essence<br>recycle<br>test<br>repair |  
-| bip_39_word_new_br11 | cry<br>sugar<br>two<br>mango<br>random<br>foam<br>essence<br>recycle<br>test<br>repair<br>sea |  
-| bip_39_word_new_br12 | cry<br>sugar<br>two<br>mango<br>random<br>foam<br>essence<br>recycle<br>test<br>repair<br>sea<br>acid |  
-| bip_39_word_new_br2 | cry<br>sugar |  
-| bip_39_word_new_br3 | cry<br>sugar<br>two |  
-| bip_39_word_new_br4 | cry<br>sugar<br>two<br>mango |  
-| bip_39_word_new_br5 | cry<br>sugar<br>two<br>mango<br>random |  
-| bip_39_word_new_br6 | cry<br>sugar<br>two<br>mango<br>random<br>foam |  
-| bip_39_word_new_br7 | cry<br>sugar<br>two<br>mango<br>random<br>foam<br>essence |  
-| bip_39_word_new_br8 | cry<br>sugar<br>two<br>mango<br>random<br>foam<br>essence<br>recycle |  
-| bip_39_word_new_br9 | cry<br>sugar<br>two<br>mango<br>random<br>foam<br>essence<br>recycle<br>test |  
-| bip_39_word_new_line1 | cry |  
-| bip_39_word_new_line10 | cry
+| bip_39_word_new_br_1 | cry |  
+| bip_39_word_new_br_10 | cry<br>sugar<br>two<br>mango<br>random<br>foam<br>essence<br>recycle<br>test<br>repair |  
+| bip_39_word_new_br_11 | cry<br>sugar<br>two<br>mango<br>random<br>foam<br>essence<br>recycle<br>test<br>repair<br>sea |  
+| bip_39_word_new_br_12 | cry<br>sugar<br>two<br>mango<br>random<br>foam<br>essence<br>recycle<br>test<br>repair<br>sea<br>acid |  
+| bip_39_word_new_br_2 | cry<br>sugar |  
+| bip_39_word_new_br_3 | cry<br>sugar<br>two |  
+| bip_39_word_new_br_4 | cry<br>sugar<br>two<br>mango |  
+| bip_39_word_new_br_5 | cry<br>sugar<br>two<br>mango<br>random |  
+| bip_39_word_new_br_6 | cry<br>sugar<br>two<br>mango<br>random<br>foam |  
+| bip_39_word_new_br_7 | cry<br>sugar<br>two<br>mango<br>random<br>foam<br>essence |  
+| bip_39_word_new_br_8 | cry<br>sugar<br>two<br>mango<br>random<br>foam<br>essence<br>recycle |  
+| bip_39_word_new_br_9 | cry<br>sugar<br>two<br>mango<br>random<br>foam<br>essence<br>recycle<br>test |  
+| bip_39_word_new_line_1 | cry |  
+| bip_39_word_new_line_10 | cry
 sugar
 two
 mango
@@ -55,7 +55,7 @@ essence
 recycle
 test
 repair |  
-| bip_39_word_new_line11 | cry
+| bip_39_word_new_line_11 | cry
 sugar
 two
 mango
@@ -66,7 +66,7 @@ recycle
 test
 repair
 sea |  
-| bip_39_word_new_line12 | cry
+| bip_39_word_new_line_12 | cry
 sugar
 two
 mango
@@ -78,34 +78,34 @@ test
 repair
 sea
 acid |  
-| bip_39_word_new_line2 | cry
+| bip_39_word_new_line_2 | cry
 sugar |  
-| bip_39_word_new_line3 | cry
+| bip_39_word_new_line_3 | cry
 sugar
 two |  
-| bip_39_word_new_line4 | cry
+| bip_39_word_new_line_4 | cry
 sugar
 two
 mango |  
-| bip_39_word_new_line5 | cry
+| bip_39_word_new_line_5 | cry
 sugar
 two
 mango
 random |  
-| bip_39_word_new_line6 | cry
+| bip_39_word_new_line_6 | cry
 sugar
 two
 mango
 random
 foam |  
-| bip_39_word_new_line7 | cry
+| bip_39_word_new_line_7 | cry
 sugar
 two
 mango
 random
 foam
 essence |  
-| bip_39_word_new_line8 | cry
+| bip_39_word_new_line_8 | cry
 sugar
 two
 mango
@@ -113,7 +113,7 @@ random
 foam
 essence
 recycle |  
-| bip_39_word_new_line9 | cry
+| bip_39_word_new_line_9 | cry
 sugar
 two
 mango

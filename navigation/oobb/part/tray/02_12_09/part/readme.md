@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | taxi |  
-| bip_39_word_new_br10 | taxi<br>injury<br>parrot<br>boy<br>monkey<br>achieve<br>drop<br>polar<br>erase<br>wife |  
-| bip_39_word_new_br11 | taxi<br>injury<br>parrot<br>boy<br>monkey<br>achieve<br>drop<br>polar<br>erase<br>wife<br>minute |  
-| bip_39_word_new_br12 | taxi<br>injury<br>parrot<br>boy<br>monkey<br>achieve<br>drop<br>polar<br>erase<br>wife<br>minute<br>access |  
-| bip_39_word_new_br2 | taxi<br>injury |  
-| bip_39_word_new_br3 | taxi<br>injury<br>parrot |  
-| bip_39_word_new_br4 | taxi<br>injury<br>parrot<br>boy |  
-| bip_39_word_new_br5 | taxi<br>injury<br>parrot<br>boy<br>monkey |  
-| bip_39_word_new_br6 | taxi<br>injury<br>parrot<br>boy<br>monkey<br>achieve |  
-| bip_39_word_new_br7 | taxi<br>injury<br>parrot<br>boy<br>monkey<br>achieve<br>drop |  
-| bip_39_word_new_br8 | taxi<br>injury<br>parrot<br>boy<br>monkey<br>achieve<br>drop<br>polar |  
-| bip_39_word_new_br9 | taxi<br>injury<br>parrot<br>boy<br>monkey<br>achieve<br>drop<br>polar<br>erase |  
-| bip_39_word_new_line1 | taxi |  
-| bip_39_word_new_line10 | taxi
+| bip_39_word_new_br_1 | taxi |  
+| bip_39_word_new_br_10 | taxi<br>injury<br>parrot<br>boy<br>monkey<br>achieve<br>drop<br>polar<br>erase<br>wife |  
+| bip_39_word_new_br_11 | taxi<br>injury<br>parrot<br>boy<br>monkey<br>achieve<br>drop<br>polar<br>erase<br>wife<br>minute |  
+| bip_39_word_new_br_12 | taxi<br>injury<br>parrot<br>boy<br>monkey<br>achieve<br>drop<br>polar<br>erase<br>wife<br>minute<br>access |  
+| bip_39_word_new_br_2 | taxi<br>injury |  
+| bip_39_word_new_br_3 | taxi<br>injury<br>parrot |  
+| bip_39_word_new_br_4 | taxi<br>injury<br>parrot<br>boy |  
+| bip_39_word_new_br_5 | taxi<br>injury<br>parrot<br>boy<br>monkey |  
+| bip_39_word_new_br_6 | taxi<br>injury<br>parrot<br>boy<br>monkey<br>achieve |  
+| bip_39_word_new_br_7 | taxi<br>injury<br>parrot<br>boy<br>monkey<br>achieve<br>drop |  
+| bip_39_word_new_br_8 | taxi<br>injury<br>parrot<br>boy<br>monkey<br>achieve<br>drop<br>polar |  
+| bip_39_word_new_br_9 | taxi<br>injury<br>parrot<br>boy<br>monkey<br>achieve<br>drop<br>polar<br>erase |  
+| bip_39_word_new_line_1 | taxi |  
+| bip_39_word_new_line_10 | taxi
 injury
 parrot
 boy
@@ -55,7 +55,7 @@ drop
 polar
 erase
 wife |  
-| bip_39_word_new_line11 | taxi
+| bip_39_word_new_line_11 | taxi
 injury
 parrot
 boy
@@ -66,7 +66,7 @@ polar
 erase
 wife
 minute |  
-| bip_39_word_new_line12 | taxi
+| bip_39_word_new_line_12 | taxi
 injury
 parrot
 boy
@@ -78,34 +78,34 @@ erase
 wife
 minute
 access |  
-| bip_39_word_new_line2 | taxi
+| bip_39_word_new_line_2 | taxi
 injury |  
-| bip_39_word_new_line3 | taxi
+| bip_39_word_new_line_3 | taxi
 injury
 parrot |  
-| bip_39_word_new_line4 | taxi
+| bip_39_word_new_line_4 | taxi
 injury
 parrot
 boy |  
-| bip_39_word_new_line5 | taxi
+| bip_39_word_new_line_5 | taxi
 injury
 parrot
 boy
 monkey |  
-| bip_39_word_new_line6 | taxi
+| bip_39_word_new_line_6 | taxi
 injury
 parrot
 boy
 monkey
 achieve |  
-| bip_39_word_new_line7 | taxi
+| bip_39_word_new_line_7 | taxi
 injury
 parrot
 boy
 monkey
 achieve
 drop |  
-| bip_39_word_new_line8 | taxi
+| bip_39_word_new_line_8 | taxi
 injury
 parrot
 boy
@@ -113,7 +113,7 @@ monkey
 achieve
 drop
 polar |  
-| bip_39_word_new_line9 | taxi
+| bip_39_word_new_line_9 | taxi
 injury
 parrot
 boy

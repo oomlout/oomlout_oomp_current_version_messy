@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | broken |  
-| bip_39_word_new_br10 | broken<br>friend<br>erosion<br>sweet<br>ship<br>tattoo<br>oil<br>silk<br>erode<br>gloom |  
-| bip_39_word_new_br11 | broken<br>friend<br>erosion<br>sweet<br>ship<br>tattoo<br>oil<br>silk<br>erode<br>gloom<br>toilet |  
-| bip_39_word_new_br12 | broken<br>friend<br>erosion<br>sweet<br>ship<br>tattoo<br>oil<br>silk<br>erode<br>gloom<br>toilet<br>antique |  
-| bip_39_word_new_br2 | broken<br>friend |  
-| bip_39_word_new_br3 | broken<br>friend<br>erosion |  
-| bip_39_word_new_br4 | broken<br>friend<br>erosion<br>sweet |  
-| bip_39_word_new_br5 | broken<br>friend<br>erosion<br>sweet<br>ship |  
-| bip_39_word_new_br6 | broken<br>friend<br>erosion<br>sweet<br>ship<br>tattoo |  
-| bip_39_word_new_br7 | broken<br>friend<br>erosion<br>sweet<br>ship<br>tattoo<br>oil |  
-| bip_39_word_new_br8 | broken<br>friend<br>erosion<br>sweet<br>ship<br>tattoo<br>oil<br>silk |  
-| bip_39_word_new_br9 | broken<br>friend<br>erosion<br>sweet<br>ship<br>tattoo<br>oil<br>silk<br>erode |  
-| bip_39_word_new_line1 | broken |  
-| bip_39_word_new_line10 | broken
+| bip_39_word_new_br_1 | broken |  
+| bip_39_word_new_br_10 | broken<br>friend<br>erosion<br>sweet<br>ship<br>tattoo<br>oil<br>silk<br>erode<br>gloom |  
+| bip_39_word_new_br_11 | broken<br>friend<br>erosion<br>sweet<br>ship<br>tattoo<br>oil<br>silk<br>erode<br>gloom<br>toilet |  
+| bip_39_word_new_br_12 | broken<br>friend<br>erosion<br>sweet<br>ship<br>tattoo<br>oil<br>silk<br>erode<br>gloom<br>toilet<br>antique |  
+| bip_39_word_new_br_2 | broken<br>friend |  
+| bip_39_word_new_br_3 | broken<br>friend<br>erosion |  
+| bip_39_word_new_br_4 | broken<br>friend<br>erosion<br>sweet |  
+| bip_39_word_new_br_5 | broken<br>friend<br>erosion<br>sweet<br>ship |  
+| bip_39_word_new_br_6 | broken<br>friend<br>erosion<br>sweet<br>ship<br>tattoo |  
+| bip_39_word_new_br_7 | broken<br>friend<br>erosion<br>sweet<br>ship<br>tattoo<br>oil |  
+| bip_39_word_new_br_8 | broken<br>friend<br>erosion<br>sweet<br>ship<br>tattoo<br>oil<br>silk |  
+| bip_39_word_new_br_9 | broken<br>friend<br>erosion<br>sweet<br>ship<br>tattoo<br>oil<br>silk<br>erode |  
+| bip_39_word_new_line_1 | broken |  
+| bip_39_word_new_line_10 | broken
 friend
 erosion
 sweet
@@ -55,7 +55,7 @@ oil
 silk
 erode
 gloom |  
-| bip_39_word_new_line11 | broken
+| bip_39_word_new_line_11 | broken
 friend
 erosion
 sweet
@@ -66,7 +66,7 @@ silk
 erode
 gloom
 toilet |  
-| bip_39_word_new_line12 | broken
+| bip_39_word_new_line_12 | broken
 friend
 erosion
 sweet
@@ -78,34 +78,34 @@ erode
 gloom
 toilet
 antique |  
-| bip_39_word_new_line2 | broken
+| bip_39_word_new_line_2 | broken
 friend |  
-| bip_39_word_new_line3 | broken
+| bip_39_word_new_line_3 | broken
 friend
 erosion |  
-| bip_39_word_new_line4 | broken
+| bip_39_word_new_line_4 | broken
 friend
 erosion
 sweet |  
-| bip_39_word_new_line5 | broken
+| bip_39_word_new_line_5 | broken
 friend
 erosion
 sweet
 ship |  
-| bip_39_word_new_line6 | broken
+| bip_39_word_new_line_6 | broken
 friend
 erosion
 sweet
 ship
 tattoo |  
-| bip_39_word_new_line7 | broken
+| bip_39_word_new_line_7 | broken
 friend
 erosion
 sweet
 ship
 tattoo
 oil |  
-| bip_39_word_new_line8 | broken
+| bip_39_word_new_line_8 | broken
 friend
 erosion
 sweet
@@ -113,7 +113,7 @@ ship
 tattoo
 oil
 silk |  
-| bip_39_word_new_line9 | broken
+| bip_39_word_new_line_9 | broken
 friend
 erosion
 sweet

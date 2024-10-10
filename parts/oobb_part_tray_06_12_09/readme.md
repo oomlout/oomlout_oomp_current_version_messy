@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dentist |  
-| bip_39_word_new_br10 | dentist<br>advance<br>six<br>frozen<br>humor<br>frequent<br>valley<br>banner<br>illegal<br>cry |  
-| bip_39_word_new_br11 | dentist<br>advance<br>six<br>frozen<br>humor<br>frequent<br>valley<br>banner<br>illegal<br>cry<br>blue |  
-| bip_39_word_new_br12 | dentist<br>advance<br>six<br>frozen<br>humor<br>frequent<br>valley<br>banner<br>illegal<br>cry<br>blue<br>april |  
-| bip_39_word_new_br2 | dentist<br>advance |  
-| bip_39_word_new_br3 | dentist<br>advance<br>six |  
-| bip_39_word_new_br4 | dentist<br>advance<br>six<br>frozen |  
-| bip_39_word_new_br5 | dentist<br>advance<br>six<br>frozen<br>humor |  
-| bip_39_word_new_br6 | dentist<br>advance<br>six<br>frozen<br>humor<br>frequent |  
-| bip_39_word_new_br7 | dentist<br>advance<br>six<br>frozen<br>humor<br>frequent<br>valley |  
-| bip_39_word_new_br8 | dentist<br>advance<br>six<br>frozen<br>humor<br>frequent<br>valley<br>banner |  
-| bip_39_word_new_br9 | dentist<br>advance<br>six<br>frozen<br>humor<br>frequent<br>valley<br>banner<br>illegal |  
-| bip_39_word_new_line1 | dentist |  
-| bip_39_word_new_line10 | dentist
+| bip_39_word_new_br_1 | dentist |  
+| bip_39_word_new_br_10 | dentist<br>advance<br>six<br>frozen<br>humor<br>frequent<br>valley<br>banner<br>illegal<br>cry |  
+| bip_39_word_new_br_11 | dentist<br>advance<br>six<br>frozen<br>humor<br>frequent<br>valley<br>banner<br>illegal<br>cry<br>blue |  
+| bip_39_word_new_br_12 | dentist<br>advance<br>six<br>frozen<br>humor<br>frequent<br>valley<br>banner<br>illegal<br>cry<br>blue<br>april |  
+| bip_39_word_new_br_2 | dentist<br>advance |  
+| bip_39_word_new_br_3 | dentist<br>advance<br>six |  
+| bip_39_word_new_br_4 | dentist<br>advance<br>six<br>frozen |  
+| bip_39_word_new_br_5 | dentist<br>advance<br>six<br>frozen<br>humor |  
+| bip_39_word_new_br_6 | dentist<br>advance<br>six<br>frozen<br>humor<br>frequent |  
+| bip_39_word_new_br_7 | dentist<br>advance<br>six<br>frozen<br>humor<br>frequent<br>valley |  
+| bip_39_word_new_br_8 | dentist<br>advance<br>six<br>frozen<br>humor<br>frequent<br>valley<br>banner |  
+| bip_39_word_new_br_9 | dentist<br>advance<br>six<br>frozen<br>humor<br>frequent<br>valley<br>banner<br>illegal |  
+| bip_39_word_new_line_1 | dentist |  
+| bip_39_word_new_line_10 | dentist
 advance
 six
 frozen
@@ -55,7 +55,7 @@ valley
 banner
 illegal
 cry |  
-| bip_39_word_new_line11 | dentist
+| bip_39_word_new_line_11 | dentist
 advance
 six
 frozen
@@ -66,7 +66,7 @@ banner
 illegal
 cry
 blue |  
-| bip_39_word_new_line12 | dentist
+| bip_39_word_new_line_12 | dentist
 advance
 six
 frozen
@@ -78,34 +78,34 @@ illegal
 cry
 blue
 april |  
-| bip_39_word_new_line2 | dentist
+| bip_39_word_new_line_2 | dentist
 advance |  
-| bip_39_word_new_line3 | dentist
+| bip_39_word_new_line_3 | dentist
 advance
 six |  
-| bip_39_word_new_line4 | dentist
+| bip_39_word_new_line_4 | dentist
 advance
 six
 frozen |  
-| bip_39_word_new_line5 | dentist
+| bip_39_word_new_line_5 | dentist
 advance
 six
 frozen
 humor |  
-| bip_39_word_new_line6 | dentist
+| bip_39_word_new_line_6 | dentist
 advance
 six
 frozen
 humor
 frequent |  
-| bip_39_word_new_line7 | dentist
+| bip_39_word_new_line_7 | dentist
 advance
 six
 frozen
 humor
 frequent
 valley |  
-| bip_39_word_new_line8 | dentist
+| bip_39_word_new_line_8 | dentist
 advance
 six
 frozen
@@ -113,7 +113,7 @@ humor
 frequent
 valley
 banner |  
-| bip_39_word_new_line9 | dentist
+| bip_39_word_new_line_9 | dentist
 advance
 six
 frozen

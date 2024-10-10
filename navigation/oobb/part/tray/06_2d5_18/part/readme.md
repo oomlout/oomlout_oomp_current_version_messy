@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pen |  
-| bip_39_word_new_br10 | pen<br>mobile<br>media<br>visa<br>ridge<br>maid<br>always<br>amount<br>clown<br>hobby |  
-| bip_39_word_new_br11 | pen<br>mobile<br>media<br>visa<br>ridge<br>maid<br>always<br>amount<br>clown<br>hobby<br>again |  
-| bip_39_word_new_br12 | pen<br>mobile<br>media<br>visa<br>ridge<br>maid<br>always<br>amount<br>clown<br>hobby<br>again<br>argue |  
-| bip_39_word_new_br2 | pen<br>mobile |  
-| bip_39_word_new_br3 | pen<br>mobile<br>media |  
-| bip_39_word_new_br4 | pen<br>mobile<br>media<br>visa |  
-| bip_39_word_new_br5 | pen<br>mobile<br>media<br>visa<br>ridge |  
-| bip_39_word_new_br6 | pen<br>mobile<br>media<br>visa<br>ridge<br>maid |  
-| bip_39_word_new_br7 | pen<br>mobile<br>media<br>visa<br>ridge<br>maid<br>always |  
-| bip_39_word_new_br8 | pen<br>mobile<br>media<br>visa<br>ridge<br>maid<br>always<br>amount |  
-| bip_39_word_new_br9 | pen<br>mobile<br>media<br>visa<br>ridge<br>maid<br>always<br>amount<br>clown |  
-| bip_39_word_new_line1 | pen |  
-| bip_39_word_new_line10 | pen
+| bip_39_word_new_br_1 | pen |  
+| bip_39_word_new_br_10 | pen<br>mobile<br>media<br>visa<br>ridge<br>maid<br>always<br>amount<br>clown<br>hobby |  
+| bip_39_word_new_br_11 | pen<br>mobile<br>media<br>visa<br>ridge<br>maid<br>always<br>amount<br>clown<br>hobby<br>again |  
+| bip_39_word_new_br_12 | pen<br>mobile<br>media<br>visa<br>ridge<br>maid<br>always<br>amount<br>clown<br>hobby<br>again<br>argue |  
+| bip_39_word_new_br_2 | pen<br>mobile |  
+| bip_39_word_new_br_3 | pen<br>mobile<br>media |  
+| bip_39_word_new_br_4 | pen<br>mobile<br>media<br>visa |  
+| bip_39_word_new_br_5 | pen<br>mobile<br>media<br>visa<br>ridge |  
+| bip_39_word_new_br_6 | pen<br>mobile<br>media<br>visa<br>ridge<br>maid |  
+| bip_39_word_new_br_7 | pen<br>mobile<br>media<br>visa<br>ridge<br>maid<br>always |  
+| bip_39_word_new_br_8 | pen<br>mobile<br>media<br>visa<br>ridge<br>maid<br>always<br>amount |  
+| bip_39_word_new_br_9 | pen<br>mobile<br>media<br>visa<br>ridge<br>maid<br>always<br>amount<br>clown |  
+| bip_39_word_new_line_1 | pen |  
+| bip_39_word_new_line_10 | pen
 mobile
 media
 visa
@@ -55,7 +55,7 @@ always
 amount
 clown
 hobby |  
-| bip_39_word_new_line11 | pen
+| bip_39_word_new_line_11 | pen
 mobile
 media
 visa
@@ -66,7 +66,7 @@ amount
 clown
 hobby
 again |  
-| bip_39_word_new_line12 | pen
+| bip_39_word_new_line_12 | pen
 mobile
 media
 visa
@@ -78,34 +78,34 @@ clown
 hobby
 again
 argue |  
-| bip_39_word_new_line2 | pen
+| bip_39_word_new_line_2 | pen
 mobile |  
-| bip_39_word_new_line3 | pen
+| bip_39_word_new_line_3 | pen
 mobile
 media |  
-| bip_39_word_new_line4 | pen
+| bip_39_word_new_line_4 | pen
 mobile
 media
 visa |  
-| bip_39_word_new_line5 | pen
+| bip_39_word_new_line_5 | pen
 mobile
 media
 visa
 ridge |  
-| bip_39_word_new_line6 | pen
+| bip_39_word_new_line_6 | pen
 mobile
 media
 visa
 ridge
 maid |  
-| bip_39_word_new_line7 | pen
+| bip_39_word_new_line_7 | pen
 mobile
 media
 visa
 ridge
 maid
 always |  
-| bip_39_word_new_line8 | pen
+| bip_39_word_new_line_8 | pen
 mobile
 media
 visa
@@ -113,7 +113,7 @@ ridge
 maid
 always
 amount |  
-| bip_39_word_new_line9 | pen
+| bip_39_word_new_line_9 | pen
 mobile
 media
 visa

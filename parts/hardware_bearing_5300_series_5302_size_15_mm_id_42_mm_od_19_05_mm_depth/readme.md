@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fine |  
-| bip_39_word_new_br10 | fine<br>weasel<br>apart<br>learn<br>devote<br>hire<br>board<br>task<br>grant<br>any |  
-| bip_39_word_new_br11 | fine<br>weasel<br>apart<br>learn<br>devote<br>hire<br>board<br>task<br>grant<br>any<br>allow |  
-| bip_39_word_new_br12 | fine<br>weasel<br>apart<br>learn<br>devote<br>hire<br>board<br>task<br>grant<br>any<br>allow<br>author |  
-| bip_39_word_new_br2 | fine<br>weasel |  
-| bip_39_word_new_br3 | fine<br>weasel<br>apart |  
-| bip_39_word_new_br4 | fine<br>weasel<br>apart<br>learn |  
-| bip_39_word_new_br5 | fine<br>weasel<br>apart<br>learn<br>devote |  
-| bip_39_word_new_br6 | fine<br>weasel<br>apart<br>learn<br>devote<br>hire |  
-| bip_39_word_new_br7 | fine<br>weasel<br>apart<br>learn<br>devote<br>hire<br>board |  
-| bip_39_word_new_br8 | fine<br>weasel<br>apart<br>learn<br>devote<br>hire<br>board<br>task |  
-| bip_39_word_new_br9 | fine<br>weasel<br>apart<br>learn<br>devote<br>hire<br>board<br>task<br>grant |  
-| bip_39_word_new_line1 | fine |  
-| bip_39_word_new_line10 | fine
+| bip_39_word_new_br_1 | fine |  
+| bip_39_word_new_br_10 | fine<br>weasel<br>apart<br>learn<br>devote<br>hire<br>board<br>task<br>grant<br>any |  
+| bip_39_word_new_br_11 | fine<br>weasel<br>apart<br>learn<br>devote<br>hire<br>board<br>task<br>grant<br>any<br>allow |  
+| bip_39_word_new_br_12 | fine<br>weasel<br>apart<br>learn<br>devote<br>hire<br>board<br>task<br>grant<br>any<br>allow<br>author |  
+| bip_39_word_new_br_2 | fine<br>weasel |  
+| bip_39_word_new_br_3 | fine<br>weasel<br>apart |  
+| bip_39_word_new_br_4 | fine<br>weasel<br>apart<br>learn |  
+| bip_39_word_new_br_5 | fine<br>weasel<br>apart<br>learn<br>devote |  
+| bip_39_word_new_br_6 | fine<br>weasel<br>apart<br>learn<br>devote<br>hire |  
+| bip_39_word_new_br_7 | fine<br>weasel<br>apart<br>learn<br>devote<br>hire<br>board |  
+| bip_39_word_new_br_8 | fine<br>weasel<br>apart<br>learn<br>devote<br>hire<br>board<br>task |  
+| bip_39_word_new_br_9 | fine<br>weasel<br>apart<br>learn<br>devote<br>hire<br>board<br>task<br>grant |  
+| bip_39_word_new_line_1 | fine |  
+| bip_39_word_new_line_10 | fine
 weasel
 apart
 learn
@@ -55,7 +55,7 @@ board
 task
 grant
 any |  
-| bip_39_word_new_line11 | fine
+| bip_39_word_new_line_11 | fine
 weasel
 apart
 learn
@@ -66,7 +66,7 @@ task
 grant
 any
 allow |  
-| bip_39_word_new_line12 | fine
+| bip_39_word_new_line_12 | fine
 weasel
 apart
 learn
@@ -78,34 +78,34 @@ grant
 any
 allow
 author |  
-| bip_39_word_new_line2 | fine
+| bip_39_word_new_line_2 | fine
 weasel |  
-| bip_39_word_new_line3 | fine
+| bip_39_word_new_line_3 | fine
 weasel
 apart |  
-| bip_39_word_new_line4 | fine
+| bip_39_word_new_line_4 | fine
 weasel
 apart
 learn |  
-| bip_39_word_new_line5 | fine
+| bip_39_word_new_line_5 | fine
 weasel
 apart
 learn
 devote |  
-| bip_39_word_new_line6 | fine
+| bip_39_word_new_line_6 | fine
 weasel
 apart
 learn
 devote
 hire |  
-| bip_39_word_new_line7 | fine
+| bip_39_word_new_line_7 | fine
 weasel
 apart
 learn
 devote
 hire
 board |  
-| bip_39_word_new_line8 | fine
+| bip_39_word_new_line_8 | fine
 weasel
 apart
 learn
@@ -113,7 +113,7 @@ devote
 hire
 board
 task |  
-| bip_39_word_new_line9 | fine
+| bip_39_word_new_line_9 | fine
 weasel
 apart
 learn

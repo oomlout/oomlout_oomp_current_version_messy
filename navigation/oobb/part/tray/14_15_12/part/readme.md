@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pride |  
-| bip_39_word_new_br10 | pride<br>inmate<br>action<br>fit<br>sugar<br>shock<br>obvious<br>silver<br>walnut<br>try |  
-| bip_39_word_new_br11 | pride<br>inmate<br>action<br>fit<br>sugar<br>shock<br>obvious<br>silver<br>walnut<br>try<br>arrest |  
-| bip_39_word_new_br12 | pride<br>inmate<br>action<br>fit<br>sugar<br>shock<br>obvious<br>silver<br>walnut<br>try<br>arrest<br>about |  
-| bip_39_word_new_br2 | pride<br>inmate |  
-| bip_39_word_new_br3 | pride<br>inmate<br>action |  
-| bip_39_word_new_br4 | pride<br>inmate<br>action<br>fit |  
-| bip_39_word_new_br5 | pride<br>inmate<br>action<br>fit<br>sugar |  
-| bip_39_word_new_br6 | pride<br>inmate<br>action<br>fit<br>sugar<br>shock |  
-| bip_39_word_new_br7 | pride<br>inmate<br>action<br>fit<br>sugar<br>shock<br>obvious |  
-| bip_39_word_new_br8 | pride<br>inmate<br>action<br>fit<br>sugar<br>shock<br>obvious<br>silver |  
-| bip_39_word_new_br9 | pride<br>inmate<br>action<br>fit<br>sugar<br>shock<br>obvious<br>silver<br>walnut |  
-| bip_39_word_new_line1 | pride |  
-| bip_39_word_new_line10 | pride
+| bip_39_word_new_br_1 | pride |  
+| bip_39_word_new_br_10 | pride<br>inmate<br>action<br>fit<br>sugar<br>shock<br>obvious<br>silver<br>walnut<br>try |  
+| bip_39_word_new_br_11 | pride<br>inmate<br>action<br>fit<br>sugar<br>shock<br>obvious<br>silver<br>walnut<br>try<br>arrest |  
+| bip_39_word_new_br_12 | pride<br>inmate<br>action<br>fit<br>sugar<br>shock<br>obvious<br>silver<br>walnut<br>try<br>arrest<br>about |  
+| bip_39_word_new_br_2 | pride<br>inmate |  
+| bip_39_word_new_br_3 | pride<br>inmate<br>action |  
+| bip_39_word_new_br_4 | pride<br>inmate<br>action<br>fit |  
+| bip_39_word_new_br_5 | pride<br>inmate<br>action<br>fit<br>sugar |  
+| bip_39_word_new_br_6 | pride<br>inmate<br>action<br>fit<br>sugar<br>shock |  
+| bip_39_word_new_br_7 | pride<br>inmate<br>action<br>fit<br>sugar<br>shock<br>obvious |  
+| bip_39_word_new_br_8 | pride<br>inmate<br>action<br>fit<br>sugar<br>shock<br>obvious<br>silver |  
+| bip_39_word_new_br_9 | pride<br>inmate<br>action<br>fit<br>sugar<br>shock<br>obvious<br>silver<br>walnut |  
+| bip_39_word_new_line_1 | pride |  
+| bip_39_word_new_line_10 | pride
 inmate
 action
 fit
@@ -55,7 +55,7 @@ obvious
 silver
 walnut
 try |  
-| bip_39_word_new_line11 | pride
+| bip_39_word_new_line_11 | pride
 inmate
 action
 fit
@@ -66,7 +66,7 @@ silver
 walnut
 try
 arrest |  
-| bip_39_word_new_line12 | pride
+| bip_39_word_new_line_12 | pride
 inmate
 action
 fit
@@ -78,34 +78,34 @@ walnut
 try
 arrest
 about |  
-| bip_39_word_new_line2 | pride
+| bip_39_word_new_line_2 | pride
 inmate |  
-| bip_39_word_new_line3 | pride
+| bip_39_word_new_line_3 | pride
 inmate
 action |  
-| bip_39_word_new_line4 | pride
+| bip_39_word_new_line_4 | pride
 inmate
 action
 fit |  
-| bip_39_word_new_line5 | pride
+| bip_39_word_new_line_5 | pride
 inmate
 action
 fit
 sugar |  
-| bip_39_word_new_line6 | pride
+| bip_39_word_new_line_6 | pride
 inmate
 action
 fit
 sugar
 shock |  
-| bip_39_word_new_line7 | pride
+| bip_39_word_new_line_7 | pride
 inmate
 action
 fit
 sugar
 shock
 obvious |  
-| bip_39_word_new_line8 | pride
+| bip_39_word_new_line_8 | pride
 inmate
 action
 fit
@@ -113,7 +113,7 @@ sugar
 shock
 obvious
 silver |  
-| bip_39_word_new_line9 | pride
+| bip_39_word_new_line_9 | pride
 inmate
 action
 fit

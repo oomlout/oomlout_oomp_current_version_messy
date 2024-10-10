@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | salt |  
-| bip_39_word_new_br10 | salt<br>walnut<br>oppose<br>evil<br>deer<br>list<br>giraffe<br>select<br>eyebrow<br>current |  
-| bip_39_word_new_br11 | salt<br>walnut<br>oppose<br>evil<br>deer<br>list<br>giraffe<br>select<br>eyebrow<br>current<br>fish |  
-| bip_39_word_new_br12 | salt<br>walnut<br>oppose<br>evil<br>deer<br>list<br>giraffe<br>select<br>eyebrow<br>current<br>fish<br>air |  
-| bip_39_word_new_br2 | salt<br>walnut |  
-| bip_39_word_new_br3 | salt<br>walnut<br>oppose |  
-| bip_39_word_new_br4 | salt<br>walnut<br>oppose<br>evil |  
-| bip_39_word_new_br5 | salt<br>walnut<br>oppose<br>evil<br>deer |  
-| bip_39_word_new_br6 | salt<br>walnut<br>oppose<br>evil<br>deer<br>list |  
-| bip_39_word_new_br7 | salt<br>walnut<br>oppose<br>evil<br>deer<br>list<br>giraffe |  
-| bip_39_word_new_br8 | salt<br>walnut<br>oppose<br>evil<br>deer<br>list<br>giraffe<br>select |  
-| bip_39_word_new_br9 | salt<br>walnut<br>oppose<br>evil<br>deer<br>list<br>giraffe<br>select<br>eyebrow |  
-| bip_39_word_new_line1 | salt |  
-| bip_39_word_new_line10 | salt
+| bip_39_word_new_br_1 | salt |  
+| bip_39_word_new_br_10 | salt<br>walnut<br>oppose<br>evil<br>deer<br>list<br>giraffe<br>select<br>eyebrow<br>current |  
+| bip_39_word_new_br_11 | salt<br>walnut<br>oppose<br>evil<br>deer<br>list<br>giraffe<br>select<br>eyebrow<br>current<br>fish |  
+| bip_39_word_new_br_12 | salt<br>walnut<br>oppose<br>evil<br>deer<br>list<br>giraffe<br>select<br>eyebrow<br>current<br>fish<br>air |  
+| bip_39_word_new_br_2 | salt<br>walnut |  
+| bip_39_word_new_br_3 | salt<br>walnut<br>oppose |  
+| bip_39_word_new_br_4 | salt<br>walnut<br>oppose<br>evil |  
+| bip_39_word_new_br_5 | salt<br>walnut<br>oppose<br>evil<br>deer |  
+| bip_39_word_new_br_6 | salt<br>walnut<br>oppose<br>evil<br>deer<br>list |  
+| bip_39_word_new_br_7 | salt<br>walnut<br>oppose<br>evil<br>deer<br>list<br>giraffe |  
+| bip_39_word_new_br_8 | salt<br>walnut<br>oppose<br>evil<br>deer<br>list<br>giraffe<br>select |  
+| bip_39_word_new_br_9 | salt<br>walnut<br>oppose<br>evil<br>deer<br>list<br>giraffe<br>select<br>eyebrow |  
+| bip_39_word_new_line_1 | salt |  
+| bip_39_word_new_line_10 | salt
 walnut
 oppose
 evil
@@ -55,7 +55,7 @@ giraffe
 select
 eyebrow
 current |  
-| bip_39_word_new_line11 | salt
+| bip_39_word_new_line_11 | salt
 walnut
 oppose
 evil
@@ -66,7 +66,7 @@ select
 eyebrow
 current
 fish |  
-| bip_39_word_new_line12 | salt
+| bip_39_word_new_line_12 | salt
 walnut
 oppose
 evil
@@ -78,34 +78,34 @@ eyebrow
 current
 fish
 air |  
-| bip_39_word_new_line2 | salt
+| bip_39_word_new_line_2 | salt
 walnut |  
-| bip_39_word_new_line3 | salt
+| bip_39_word_new_line_3 | salt
 walnut
 oppose |  
-| bip_39_word_new_line4 | salt
+| bip_39_word_new_line_4 | salt
 walnut
 oppose
 evil |  
-| bip_39_word_new_line5 | salt
+| bip_39_word_new_line_5 | salt
 walnut
 oppose
 evil
 deer |  
-| bip_39_word_new_line6 | salt
+| bip_39_word_new_line_6 | salt
 walnut
 oppose
 evil
 deer
 list |  
-| bip_39_word_new_line7 | salt
+| bip_39_word_new_line_7 | salt
 walnut
 oppose
 evil
 deer
 list
 giraffe |  
-| bip_39_word_new_line8 | salt
+| bip_39_word_new_line_8 | salt
 walnut
 oppose
 evil
@@ -113,7 +113,7 @@ deer
 list
 giraffe
 select |  
-| bip_39_word_new_line9 | salt
+| bip_39_word_new_line_9 | salt
 walnut
 oppose
 evil

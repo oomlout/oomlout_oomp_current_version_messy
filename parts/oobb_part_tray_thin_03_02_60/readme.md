@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | father |  
-| bip_39_word_new_br10 | father<br>exclude<br>upgrade<br>bless<br>bid<br>weapon<br>feel<br>excite<br>fashion<br>sight |  
-| bip_39_word_new_br11 | father<br>exclude<br>upgrade<br>bless<br>bid<br>weapon<br>feel<br>excite<br>fashion<br>sight<br>absorb |  
-| bip_39_word_new_br12 | father<br>exclude<br>upgrade<br>bless<br>bid<br>weapon<br>feel<br>excite<br>fashion<br>sight<br>absorb<br>angry |  
-| bip_39_word_new_br2 | father<br>exclude |  
-| bip_39_word_new_br3 | father<br>exclude<br>upgrade |  
-| bip_39_word_new_br4 | father<br>exclude<br>upgrade<br>bless |  
-| bip_39_word_new_br5 | father<br>exclude<br>upgrade<br>bless<br>bid |  
-| bip_39_word_new_br6 | father<br>exclude<br>upgrade<br>bless<br>bid<br>weapon |  
-| bip_39_word_new_br7 | father<br>exclude<br>upgrade<br>bless<br>bid<br>weapon<br>feel |  
-| bip_39_word_new_br8 | father<br>exclude<br>upgrade<br>bless<br>bid<br>weapon<br>feel<br>excite |  
-| bip_39_word_new_br9 | father<br>exclude<br>upgrade<br>bless<br>bid<br>weapon<br>feel<br>excite<br>fashion |  
-| bip_39_word_new_line1 | father |  
-| bip_39_word_new_line10 | father
+| bip_39_word_new_br_1 | father |  
+| bip_39_word_new_br_10 | father<br>exclude<br>upgrade<br>bless<br>bid<br>weapon<br>feel<br>excite<br>fashion<br>sight |  
+| bip_39_word_new_br_11 | father<br>exclude<br>upgrade<br>bless<br>bid<br>weapon<br>feel<br>excite<br>fashion<br>sight<br>absorb |  
+| bip_39_word_new_br_12 | father<br>exclude<br>upgrade<br>bless<br>bid<br>weapon<br>feel<br>excite<br>fashion<br>sight<br>absorb<br>angry |  
+| bip_39_word_new_br_2 | father<br>exclude |  
+| bip_39_word_new_br_3 | father<br>exclude<br>upgrade |  
+| bip_39_word_new_br_4 | father<br>exclude<br>upgrade<br>bless |  
+| bip_39_word_new_br_5 | father<br>exclude<br>upgrade<br>bless<br>bid |  
+| bip_39_word_new_br_6 | father<br>exclude<br>upgrade<br>bless<br>bid<br>weapon |  
+| bip_39_word_new_br_7 | father<br>exclude<br>upgrade<br>bless<br>bid<br>weapon<br>feel |  
+| bip_39_word_new_br_8 | father<br>exclude<br>upgrade<br>bless<br>bid<br>weapon<br>feel<br>excite |  
+| bip_39_word_new_br_9 | father<br>exclude<br>upgrade<br>bless<br>bid<br>weapon<br>feel<br>excite<br>fashion |  
+| bip_39_word_new_line_1 | father |  
+| bip_39_word_new_line_10 | father
 exclude
 upgrade
 bless
@@ -55,7 +55,7 @@ feel
 excite
 fashion
 sight |  
-| bip_39_word_new_line11 | father
+| bip_39_word_new_line_11 | father
 exclude
 upgrade
 bless
@@ -66,7 +66,7 @@ excite
 fashion
 sight
 absorb |  
-| bip_39_word_new_line12 | father
+| bip_39_word_new_line_12 | father
 exclude
 upgrade
 bless
@@ -78,34 +78,34 @@ fashion
 sight
 absorb
 angry |  
-| bip_39_word_new_line2 | father
+| bip_39_word_new_line_2 | father
 exclude |  
-| bip_39_word_new_line3 | father
+| bip_39_word_new_line_3 | father
 exclude
 upgrade |  
-| bip_39_word_new_line4 | father
+| bip_39_word_new_line_4 | father
 exclude
 upgrade
 bless |  
-| bip_39_word_new_line5 | father
+| bip_39_word_new_line_5 | father
 exclude
 upgrade
 bless
 bid |  
-| bip_39_word_new_line6 | father
+| bip_39_word_new_line_6 | father
 exclude
 upgrade
 bless
 bid
 weapon |  
-| bip_39_word_new_line7 | father
+| bip_39_word_new_line_7 | father
 exclude
 upgrade
 bless
 bid
 weapon
 feel |  
-| bip_39_word_new_line8 | father
+| bip_39_word_new_line_8 | father
 exclude
 upgrade
 bless
@@ -113,7 +113,7 @@ bid
 weapon
 feel
 excite |  
-| bip_39_word_new_line9 | father
+| bip_39_word_new_line_9 | father
 exclude
 upgrade
 bless

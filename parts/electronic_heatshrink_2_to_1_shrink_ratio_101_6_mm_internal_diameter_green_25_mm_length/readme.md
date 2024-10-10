@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | deny |  
-| bip_39_word_new_br10 | deny<br>rude<br>arm<br>erosion<br>crack<br>frozen<br>window<br>define<br>peasant<br>crouch |  
-| bip_39_word_new_br11 | deny<br>rude<br>arm<br>erosion<br>crack<br>frozen<br>window<br>define<br>peasant<br>crouch<br>cruel |  
-| bip_39_word_new_br12 | deny<br>rude<br>arm<br>erosion<br>crack<br>frozen<br>window<br>define<br>peasant<br>crouch<br>cruel<br>answer |  
-| bip_39_word_new_br2 | deny<br>rude |  
-| bip_39_word_new_br3 | deny<br>rude<br>arm |  
-| bip_39_word_new_br4 | deny<br>rude<br>arm<br>erosion |  
-| bip_39_word_new_br5 | deny<br>rude<br>arm<br>erosion<br>crack |  
-| bip_39_word_new_br6 | deny<br>rude<br>arm<br>erosion<br>crack<br>frozen |  
-| bip_39_word_new_br7 | deny<br>rude<br>arm<br>erosion<br>crack<br>frozen<br>window |  
-| bip_39_word_new_br8 | deny<br>rude<br>arm<br>erosion<br>crack<br>frozen<br>window<br>define |  
-| bip_39_word_new_br9 | deny<br>rude<br>arm<br>erosion<br>crack<br>frozen<br>window<br>define<br>peasant |  
-| bip_39_word_new_line1 | deny |  
-| bip_39_word_new_line10 | deny
+| bip_39_word_new_br_1 | deny |  
+| bip_39_word_new_br_10 | deny<br>rude<br>arm<br>erosion<br>crack<br>frozen<br>window<br>define<br>peasant<br>crouch |  
+| bip_39_word_new_br_11 | deny<br>rude<br>arm<br>erosion<br>crack<br>frozen<br>window<br>define<br>peasant<br>crouch<br>cruel |  
+| bip_39_word_new_br_12 | deny<br>rude<br>arm<br>erosion<br>crack<br>frozen<br>window<br>define<br>peasant<br>crouch<br>cruel<br>answer |  
+| bip_39_word_new_br_2 | deny<br>rude |  
+| bip_39_word_new_br_3 | deny<br>rude<br>arm |  
+| bip_39_word_new_br_4 | deny<br>rude<br>arm<br>erosion |  
+| bip_39_word_new_br_5 | deny<br>rude<br>arm<br>erosion<br>crack |  
+| bip_39_word_new_br_6 | deny<br>rude<br>arm<br>erosion<br>crack<br>frozen |  
+| bip_39_word_new_br_7 | deny<br>rude<br>arm<br>erosion<br>crack<br>frozen<br>window |  
+| bip_39_word_new_br_8 | deny<br>rude<br>arm<br>erosion<br>crack<br>frozen<br>window<br>define |  
+| bip_39_word_new_br_9 | deny<br>rude<br>arm<br>erosion<br>crack<br>frozen<br>window<br>define<br>peasant |  
+| bip_39_word_new_line_1 | deny |  
+| bip_39_word_new_line_10 | deny
 rude
 arm
 erosion
@@ -55,7 +55,7 @@ window
 define
 peasant
 crouch |  
-| bip_39_word_new_line11 | deny
+| bip_39_word_new_line_11 | deny
 rude
 arm
 erosion
@@ -66,7 +66,7 @@ define
 peasant
 crouch
 cruel |  
-| bip_39_word_new_line12 | deny
+| bip_39_word_new_line_12 | deny
 rude
 arm
 erosion
@@ -78,34 +78,34 @@ peasant
 crouch
 cruel
 answer |  
-| bip_39_word_new_line2 | deny
+| bip_39_word_new_line_2 | deny
 rude |  
-| bip_39_word_new_line3 | deny
+| bip_39_word_new_line_3 | deny
 rude
 arm |  
-| bip_39_word_new_line4 | deny
+| bip_39_word_new_line_4 | deny
 rude
 arm
 erosion |  
-| bip_39_word_new_line5 | deny
+| bip_39_word_new_line_5 | deny
 rude
 arm
 erosion
 crack |  
-| bip_39_word_new_line6 | deny
+| bip_39_word_new_line_6 | deny
 rude
 arm
 erosion
 crack
 frozen |  
-| bip_39_word_new_line7 | deny
+| bip_39_word_new_line_7 | deny
 rude
 arm
 erosion
 crack
 frozen
 window |  
-| bip_39_word_new_line8 | deny
+| bip_39_word_new_line_8 | deny
 rude
 arm
 erosion
@@ -113,7 +113,7 @@ crack
 frozen
 window
 define |  
-| bip_39_word_new_line9 | deny
+| bip_39_word_new_line_9 | deny
 rude
 arm
 erosion

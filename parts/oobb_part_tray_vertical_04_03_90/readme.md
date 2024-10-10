@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | apple |  
-| bip_39_word_new_br10 | apple<br>express<br>squirrel<br>daring<br>olive<br>original<br>diet<br>goat<br>need<br>snow |  
-| bip_39_word_new_br11 | apple<br>express<br>squirrel<br>daring<br>olive<br>original<br>diet<br>goat<br>need<br>snow<br>possible |  
-| bip_39_word_new_br12 | apple<br>express<br>squirrel<br>daring<br>olive<br>original<br>diet<br>goat<br>need<br>snow<br>possible<br>among |  
-| bip_39_word_new_br2 | apple<br>express |  
-| bip_39_word_new_br3 | apple<br>express<br>squirrel |  
-| bip_39_word_new_br4 | apple<br>express<br>squirrel<br>daring |  
-| bip_39_word_new_br5 | apple<br>express<br>squirrel<br>daring<br>olive |  
-| bip_39_word_new_br6 | apple<br>express<br>squirrel<br>daring<br>olive<br>original |  
-| bip_39_word_new_br7 | apple<br>express<br>squirrel<br>daring<br>olive<br>original<br>diet |  
-| bip_39_word_new_br8 | apple<br>express<br>squirrel<br>daring<br>olive<br>original<br>diet<br>goat |  
-| bip_39_word_new_br9 | apple<br>express<br>squirrel<br>daring<br>olive<br>original<br>diet<br>goat<br>need |  
-| bip_39_word_new_line1 | apple |  
-| bip_39_word_new_line10 | apple
+| bip_39_word_new_br_1 | apple |  
+| bip_39_word_new_br_10 | apple<br>express<br>squirrel<br>daring<br>olive<br>original<br>diet<br>goat<br>need<br>snow |  
+| bip_39_word_new_br_11 | apple<br>express<br>squirrel<br>daring<br>olive<br>original<br>diet<br>goat<br>need<br>snow<br>possible |  
+| bip_39_word_new_br_12 | apple<br>express<br>squirrel<br>daring<br>olive<br>original<br>diet<br>goat<br>need<br>snow<br>possible<br>among |  
+| bip_39_word_new_br_2 | apple<br>express |  
+| bip_39_word_new_br_3 | apple<br>express<br>squirrel |  
+| bip_39_word_new_br_4 | apple<br>express<br>squirrel<br>daring |  
+| bip_39_word_new_br_5 | apple<br>express<br>squirrel<br>daring<br>olive |  
+| bip_39_word_new_br_6 | apple<br>express<br>squirrel<br>daring<br>olive<br>original |  
+| bip_39_word_new_br_7 | apple<br>express<br>squirrel<br>daring<br>olive<br>original<br>diet |  
+| bip_39_word_new_br_8 | apple<br>express<br>squirrel<br>daring<br>olive<br>original<br>diet<br>goat |  
+| bip_39_word_new_br_9 | apple<br>express<br>squirrel<br>daring<br>olive<br>original<br>diet<br>goat<br>need |  
+| bip_39_word_new_line_1 | apple |  
+| bip_39_word_new_line_10 | apple
 express
 squirrel
 daring
@@ -55,7 +55,7 @@ diet
 goat
 need
 snow |  
-| bip_39_word_new_line11 | apple
+| bip_39_word_new_line_11 | apple
 express
 squirrel
 daring
@@ -66,7 +66,7 @@ goat
 need
 snow
 possible |  
-| bip_39_word_new_line12 | apple
+| bip_39_word_new_line_12 | apple
 express
 squirrel
 daring
@@ -78,34 +78,34 @@ need
 snow
 possible
 among |  
-| bip_39_word_new_line2 | apple
+| bip_39_word_new_line_2 | apple
 express |  
-| bip_39_word_new_line3 | apple
+| bip_39_word_new_line_3 | apple
 express
 squirrel |  
-| bip_39_word_new_line4 | apple
+| bip_39_word_new_line_4 | apple
 express
 squirrel
 daring |  
-| bip_39_word_new_line5 | apple
+| bip_39_word_new_line_5 | apple
 express
 squirrel
 daring
 olive |  
-| bip_39_word_new_line6 | apple
+| bip_39_word_new_line_6 | apple
 express
 squirrel
 daring
 olive
 original |  
-| bip_39_word_new_line7 | apple
+| bip_39_word_new_line_7 | apple
 express
 squirrel
 daring
 olive
 original
 diet |  
-| bip_39_word_new_line8 | apple
+| bip_39_word_new_line_8 | apple
 express
 squirrel
 daring
@@ -113,7 +113,7 @@ olive
 original
 diet
 goat |  
-| bip_39_word_new_line9 | apple
+| bip_39_word_new_line_9 | apple
 express
 squirrel
 daring

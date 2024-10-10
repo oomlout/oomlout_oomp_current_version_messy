@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | always |  
-| bip_39_word_new_br10 | always<br>twist<br>urge<br>reopen<br>cash<br>quick<br>second<br>urge<br>silver<br>cushion |  
-| bip_39_word_new_br11 | always<br>twist<br>urge<br>reopen<br>cash<br>quick<br>second<br>urge<br>silver<br>cushion<br>pizza |  
-| bip_39_word_new_br12 | always<br>twist<br>urge<br>reopen<br>cash<br>quick<br>second<br>urge<br>silver<br>cushion<br>pizza<br>add |  
-| bip_39_word_new_br2 | always<br>twist |  
-| bip_39_word_new_br3 | always<br>twist<br>urge |  
-| bip_39_word_new_br4 | always<br>twist<br>urge<br>reopen |  
-| bip_39_word_new_br5 | always<br>twist<br>urge<br>reopen<br>cash |  
-| bip_39_word_new_br6 | always<br>twist<br>urge<br>reopen<br>cash<br>quick |  
-| bip_39_word_new_br7 | always<br>twist<br>urge<br>reopen<br>cash<br>quick<br>second |  
-| bip_39_word_new_br8 | always<br>twist<br>urge<br>reopen<br>cash<br>quick<br>second<br>urge |  
-| bip_39_word_new_br9 | always<br>twist<br>urge<br>reopen<br>cash<br>quick<br>second<br>urge<br>silver |  
-| bip_39_word_new_line1 | always |  
-| bip_39_word_new_line10 | always
+| bip_39_word_new_br_1 | always |  
+| bip_39_word_new_br_10 | always<br>twist<br>urge<br>reopen<br>cash<br>quick<br>second<br>urge<br>silver<br>cushion |  
+| bip_39_word_new_br_11 | always<br>twist<br>urge<br>reopen<br>cash<br>quick<br>second<br>urge<br>silver<br>cushion<br>pizza |  
+| bip_39_word_new_br_12 | always<br>twist<br>urge<br>reopen<br>cash<br>quick<br>second<br>urge<br>silver<br>cushion<br>pizza<br>add |  
+| bip_39_word_new_br_2 | always<br>twist |  
+| bip_39_word_new_br_3 | always<br>twist<br>urge |  
+| bip_39_word_new_br_4 | always<br>twist<br>urge<br>reopen |  
+| bip_39_word_new_br_5 | always<br>twist<br>urge<br>reopen<br>cash |  
+| bip_39_word_new_br_6 | always<br>twist<br>urge<br>reopen<br>cash<br>quick |  
+| bip_39_word_new_br_7 | always<br>twist<br>urge<br>reopen<br>cash<br>quick<br>second |  
+| bip_39_word_new_br_8 | always<br>twist<br>urge<br>reopen<br>cash<br>quick<br>second<br>urge |  
+| bip_39_word_new_br_9 | always<br>twist<br>urge<br>reopen<br>cash<br>quick<br>second<br>urge<br>silver |  
+| bip_39_word_new_line_1 | always |  
+| bip_39_word_new_line_10 | always
 twist
 urge
 reopen
@@ -55,7 +55,7 @@ second
 urge
 silver
 cushion |  
-| bip_39_word_new_line11 | always
+| bip_39_word_new_line_11 | always
 twist
 urge
 reopen
@@ -66,7 +66,7 @@ urge
 silver
 cushion
 pizza |  
-| bip_39_word_new_line12 | always
+| bip_39_word_new_line_12 | always
 twist
 urge
 reopen
@@ -78,34 +78,34 @@ silver
 cushion
 pizza
 add |  
-| bip_39_word_new_line2 | always
+| bip_39_word_new_line_2 | always
 twist |  
-| bip_39_word_new_line3 | always
+| bip_39_word_new_line_3 | always
 twist
 urge |  
-| bip_39_word_new_line4 | always
+| bip_39_word_new_line_4 | always
 twist
 urge
 reopen |  
-| bip_39_word_new_line5 | always
+| bip_39_word_new_line_5 | always
 twist
 urge
 reopen
 cash |  
-| bip_39_word_new_line6 | always
+| bip_39_word_new_line_6 | always
 twist
 urge
 reopen
 cash
 quick |  
-| bip_39_word_new_line7 | always
+| bip_39_word_new_line_7 | always
 twist
 urge
 reopen
 cash
 quick
 second |  
-| bip_39_word_new_line8 | always
+| bip_39_word_new_line_8 | always
 twist
 urge
 reopen
@@ -113,7 +113,7 @@ cash
 quick
 second
 urge |  
-| bip_39_word_new_line9 | always
+| bip_39_word_new_line_9 | always
 twist
 urge
 reopen

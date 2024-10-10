@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wrist |  
-| bip_39_word_new_br10 | wrist<br>bachelor<br>path<br>device<br>reject<br>rotate<br>fork<br>about<br>exotic<br>cycle |  
-| bip_39_word_new_br11 | wrist<br>bachelor<br>path<br>device<br>reject<br>rotate<br>fork<br>about<br>exotic<br>cycle<br>room |  
-| bip_39_word_new_br12 | wrist<br>bachelor<br>path<br>device<br>reject<br>rotate<br>fork<br>about<br>exotic<br>cycle<br>room<br>air |  
-| bip_39_word_new_br2 | wrist<br>bachelor |  
-| bip_39_word_new_br3 | wrist<br>bachelor<br>path |  
-| bip_39_word_new_br4 | wrist<br>bachelor<br>path<br>device |  
-| bip_39_word_new_br5 | wrist<br>bachelor<br>path<br>device<br>reject |  
-| bip_39_word_new_br6 | wrist<br>bachelor<br>path<br>device<br>reject<br>rotate |  
-| bip_39_word_new_br7 | wrist<br>bachelor<br>path<br>device<br>reject<br>rotate<br>fork |  
-| bip_39_word_new_br8 | wrist<br>bachelor<br>path<br>device<br>reject<br>rotate<br>fork<br>about |  
-| bip_39_word_new_br9 | wrist<br>bachelor<br>path<br>device<br>reject<br>rotate<br>fork<br>about<br>exotic |  
-| bip_39_word_new_line1 | wrist |  
-| bip_39_word_new_line10 | wrist
+| bip_39_word_new_br_1 | wrist |  
+| bip_39_word_new_br_10 | wrist<br>bachelor<br>path<br>device<br>reject<br>rotate<br>fork<br>about<br>exotic<br>cycle |  
+| bip_39_word_new_br_11 | wrist<br>bachelor<br>path<br>device<br>reject<br>rotate<br>fork<br>about<br>exotic<br>cycle<br>room |  
+| bip_39_word_new_br_12 | wrist<br>bachelor<br>path<br>device<br>reject<br>rotate<br>fork<br>about<br>exotic<br>cycle<br>room<br>air |  
+| bip_39_word_new_br_2 | wrist<br>bachelor |  
+| bip_39_word_new_br_3 | wrist<br>bachelor<br>path |  
+| bip_39_word_new_br_4 | wrist<br>bachelor<br>path<br>device |  
+| bip_39_word_new_br_5 | wrist<br>bachelor<br>path<br>device<br>reject |  
+| bip_39_word_new_br_6 | wrist<br>bachelor<br>path<br>device<br>reject<br>rotate |  
+| bip_39_word_new_br_7 | wrist<br>bachelor<br>path<br>device<br>reject<br>rotate<br>fork |  
+| bip_39_word_new_br_8 | wrist<br>bachelor<br>path<br>device<br>reject<br>rotate<br>fork<br>about |  
+| bip_39_word_new_br_9 | wrist<br>bachelor<br>path<br>device<br>reject<br>rotate<br>fork<br>about<br>exotic |  
+| bip_39_word_new_line_1 | wrist |  
+| bip_39_word_new_line_10 | wrist
 bachelor
 path
 device
@@ -55,7 +55,7 @@ fork
 about
 exotic
 cycle |  
-| bip_39_word_new_line11 | wrist
+| bip_39_word_new_line_11 | wrist
 bachelor
 path
 device
@@ -66,7 +66,7 @@ about
 exotic
 cycle
 room |  
-| bip_39_word_new_line12 | wrist
+| bip_39_word_new_line_12 | wrist
 bachelor
 path
 device
@@ -78,34 +78,34 @@ exotic
 cycle
 room
 air |  
-| bip_39_word_new_line2 | wrist
+| bip_39_word_new_line_2 | wrist
 bachelor |  
-| bip_39_word_new_line3 | wrist
+| bip_39_word_new_line_3 | wrist
 bachelor
 path |  
-| bip_39_word_new_line4 | wrist
+| bip_39_word_new_line_4 | wrist
 bachelor
 path
 device |  
-| bip_39_word_new_line5 | wrist
+| bip_39_word_new_line_5 | wrist
 bachelor
 path
 device
 reject |  
-| bip_39_word_new_line6 | wrist
+| bip_39_word_new_line_6 | wrist
 bachelor
 path
 device
 reject
 rotate |  
-| bip_39_word_new_line7 | wrist
+| bip_39_word_new_line_7 | wrist
 bachelor
 path
 device
 reject
 rotate
 fork |  
-| bip_39_word_new_line8 | wrist
+| bip_39_word_new_line_8 | wrist
 bachelor
 path
 device
@@ -113,7 +113,7 @@ reject
 rotate
 fork
 about |  
-| bip_39_word_new_line9 | wrist
+| bip_39_word_new_line_9 | wrist
 bachelor
 path
 device

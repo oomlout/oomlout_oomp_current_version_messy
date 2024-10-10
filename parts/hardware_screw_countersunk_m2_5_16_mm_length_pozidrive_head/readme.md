@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | physical |  
-| bip_39_word_new_br10 | physical<br>vibrant<br>skill<br>lift<br>art<br>pig<br>village<br>surprise<br>aim<br>ocean |  
-| bip_39_word_new_br11 | physical<br>vibrant<br>skill<br>lift<br>art<br>pig<br>village<br>surprise<br>aim<br>ocean<br>belt |  
-| bip_39_word_new_br12 | physical<br>vibrant<br>skill<br>lift<br>art<br>pig<br>village<br>surprise<br>aim<br>ocean<br>belt<br>acid |  
-| bip_39_word_new_br2 | physical<br>vibrant |  
-| bip_39_word_new_br3 | physical<br>vibrant<br>skill |  
-| bip_39_word_new_br4 | physical<br>vibrant<br>skill<br>lift |  
-| bip_39_word_new_br5 | physical<br>vibrant<br>skill<br>lift<br>art |  
-| bip_39_word_new_br6 | physical<br>vibrant<br>skill<br>lift<br>art<br>pig |  
-| bip_39_word_new_br7 | physical<br>vibrant<br>skill<br>lift<br>art<br>pig<br>village |  
-| bip_39_word_new_br8 | physical<br>vibrant<br>skill<br>lift<br>art<br>pig<br>village<br>surprise |  
-| bip_39_word_new_br9 | physical<br>vibrant<br>skill<br>lift<br>art<br>pig<br>village<br>surprise<br>aim |  
-| bip_39_word_new_line1 | physical |  
-| bip_39_word_new_line10 | physical
+| bip_39_word_new_br_1 | physical |  
+| bip_39_word_new_br_10 | physical<br>vibrant<br>skill<br>lift<br>art<br>pig<br>village<br>surprise<br>aim<br>ocean |  
+| bip_39_word_new_br_11 | physical<br>vibrant<br>skill<br>lift<br>art<br>pig<br>village<br>surprise<br>aim<br>ocean<br>belt |  
+| bip_39_word_new_br_12 | physical<br>vibrant<br>skill<br>lift<br>art<br>pig<br>village<br>surprise<br>aim<br>ocean<br>belt<br>acid |  
+| bip_39_word_new_br_2 | physical<br>vibrant |  
+| bip_39_word_new_br_3 | physical<br>vibrant<br>skill |  
+| bip_39_word_new_br_4 | physical<br>vibrant<br>skill<br>lift |  
+| bip_39_word_new_br_5 | physical<br>vibrant<br>skill<br>lift<br>art |  
+| bip_39_word_new_br_6 | physical<br>vibrant<br>skill<br>lift<br>art<br>pig |  
+| bip_39_word_new_br_7 | physical<br>vibrant<br>skill<br>lift<br>art<br>pig<br>village |  
+| bip_39_word_new_br_8 | physical<br>vibrant<br>skill<br>lift<br>art<br>pig<br>village<br>surprise |  
+| bip_39_word_new_br_9 | physical<br>vibrant<br>skill<br>lift<br>art<br>pig<br>village<br>surprise<br>aim |  
+| bip_39_word_new_line_1 | physical |  
+| bip_39_word_new_line_10 | physical
 vibrant
 skill
 lift
@@ -55,7 +55,7 @@ village
 surprise
 aim
 ocean |  
-| bip_39_word_new_line11 | physical
+| bip_39_word_new_line_11 | physical
 vibrant
 skill
 lift
@@ -66,7 +66,7 @@ surprise
 aim
 ocean
 belt |  
-| bip_39_word_new_line12 | physical
+| bip_39_word_new_line_12 | physical
 vibrant
 skill
 lift
@@ -78,34 +78,34 @@ aim
 ocean
 belt
 acid |  
-| bip_39_word_new_line2 | physical
+| bip_39_word_new_line_2 | physical
 vibrant |  
-| bip_39_word_new_line3 | physical
+| bip_39_word_new_line_3 | physical
 vibrant
 skill |  
-| bip_39_word_new_line4 | physical
+| bip_39_word_new_line_4 | physical
 vibrant
 skill
 lift |  
-| bip_39_word_new_line5 | physical
+| bip_39_word_new_line_5 | physical
 vibrant
 skill
 lift
 art |  
-| bip_39_word_new_line6 | physical
+| bip_39_word_new_line_6 | physical
 vibrant
 skill
 lift
 art
 pig |  
-| bip_39_word_new_line7 | physical
+| bip_39_word_new_line_7 | physical
 vibrant
 skill
 lift
 art
 pig
 village |  
-| bip_39_word_new_line8 | physical
+| bip_39_word_new_line_8 | physical
 vibrant
 skill
 lift
@@ -113,7 +113,7 @@ art
 pig
 village
 surprise |  
-| bip_39_word_new_line9 | physical
+| bip_39_word_new_line_9 | physical
 vibrant
 skill
 lift

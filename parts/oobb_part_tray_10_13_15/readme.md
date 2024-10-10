@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | segment |  
-| bip_39_word_new_br10 | segment<br>vault<br>accuse<br>someone<br>furnace<br>trial<br>enact<br>dawn<br>fix<br>acquire |  
-| bip_39_word_new_br11 | segment<br>vault<br>accuse<br>someone<br>furnace<br>trial<br>enact<br>dawn<br>fix<br>acquire<br>exhaust |  
-| bip_39_word_new_br12 | segment<br>vault<br>accuse<br>someone<br>furnace<br>trial<br>enact<br>dawn<br>fix<br>acquire<br>exhaust<br>asset |  
-| bip_39_word_new_br2 | segment<br>vault |  
-| bip_39_word_new_br3 | segment<br>vault<br>accuse |  
-| bip_39_word_new_br4 | segment<br>vault<br>accuse<br>someone |  
-| bip_39_word_new_br5 | segment<br>vault<br>accuse<br>someone<br>furnace |  
-| bip_39_word_new_br6 | segment<br>vault<br>accuse<br>someone<br>furnace<br>trial |  
-| bip_39_word_new_br7 | segment<br>vault<br>accuse<br>someone<br>furnace<br>trial<br>enact |  
-| bip_39_word_new_br8 | segment<br>vault<br>accuse<br>someone<br>furnace<br>trial<br>enact<br>dawn |  
-| bip_39_word_new_br9 | segment<br>vault<br>accuse<br>someone<br>furnace<br>trial<br>enact<br>dawn<br>fix |  
-| bip_39_word_new_line1 | segment |  
-| bip_39_word_new_line10 | segment
+| bip_39_word_new_br_1 | segment |  
+| bip_39_word_new_br_10 | segment<br>vault<br>accuse<br>someone<br>furnace<br>trial<br>enact<br>dawn<br>fix<br>acquire |  
+| bip_39_word_new_br_11 | segment<br>vault<br>accuse<br>someone<br>furnace<br>trial<br>enact<br>dawn<br>fix<br>acquire<br>exhaust |  
+| bip_39_word_new_br_12 | segment<br>vault<br>accuse<br>someone<br>furnace<br>trial<br>enact<br>dawn<br>fix<br>acquire<br>exhaust<br>asset |  
+| bip_39_word_new_br_2 | segment<br>vault |  
+| bip_39_word_new_br_3 | segment<br>vault<br>accuse |  
+| bip_39_word_new_br_4 | segment<br>vault<br>accuse<br>someone |  
+| bip_39_word_new_br_5 | segment<br>vault<br>accuse<br>someone<br>furnace |  
+| bip_39_word_new_br_6 | segment<br>vault<br>accuse<br>someone<br>furnace<br>trial |  
+| bip_39_word_new_br_7 | segment<br>vault<br>accuse<br>someone<br>furnace<br>trial<br>enact |  
+| bip_39_word_new_br_8 | segment<br>vault<br>accuse<br>someone<br>furnace<br>trial<br>enact<br>dawn |  
+| bip_39_word_new_br_9 | segment<br>vault<br>accuse<br>someone<br>furnace<br>trial<br>enact<br>dawn<br>fix |  
+| bip_39_word_new_line_1 | segment |  
+| bip_39_word_new_line_10 | segment
 vault
 accuse
 someone
@@ -55,7 +55,7 @@ enact
 dawn
 fix
 acquire |  
-| bip_39_word_new_line11 | segment
+| bip_39_word_new_line_11 | segment
 vault
 accuse
 someone
@@ -66,7 +66,7 @@ dawn
 fix
 acquire
 exhaust |  
-| bip_39_word_new_line12 | segment
+| bip_39_word_new_line_12 | segment
 vault
 accuse
 someone
@@ -78,34 +78,34 @@ fix
 acquire
 exhaust
 asset |  
-| bip_39_word_new_line2 | segment
+| bip_39_word_new_line_2 | segment
 vault |  
-| bip_39_word_new_line3 | segment
+| bip_39_word_new_line_3 | segment
 vault
 accuse |  
-| bip_39_word_new_line4 | segment
+| bip_39_word_new_line_4 | segment
 vault
 accuse
 someone |  
-| bip_39_word_new_line5 | segment
+| bip_39_word_new_line_5 | segment
 vault
 accuse
 someone
 furnace |  
-| bip_39_word_new_line6 | segment
+| bip_39_word_new_line_6 | segment
 vault
 accuse
 someone
 furnace
 trial |  
-| bip_39_word_new_line7 | segment
+| bip_39_word_new_line_7 | segment
 vault
 accuse
 someone
 furnace
 trial
 enact |  
-| bip_39_word_new_line8 | segment
+| bip_39_word_new_line_8 | segment
 vault
 accuse
 someone
@@ -113,7 +113,7 @@ furnace
 trial
 enact
 dawn |  
-| bip_39_word_new_line9 | segment
+| bip_39_word_new_line_9 | segment
 vault
 accuse
 someone

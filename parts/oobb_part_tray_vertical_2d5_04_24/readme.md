@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | anger |  
-| bip_39_word_new_br10 | anger<br>naive<br>logic<br>crash<br>mystery<br>blue<br>style<br>edit<br>pioneer<br>bid |  
-| bip_39_word_new_br11 | anger<br>naive<br>logic<br>crash<br>mystery<br>blue<br>style<br>edit<br>pioneer<br>bid<br>autumn |  
-| bip_39_word_new_br12 | anger<br>naive<br>logic<br>crash<br>mystery<br>blue<br>style<br>edit<br>pioneer<br>bid<br>autumn<br>almost |  
-| bip_39_word_new_br2 | anger<br>naive |  
-| bip_39_word_new_br3 | anger<br>naive<br>logic |  
-| bip_39_word_new_br4 | anger<br>naive<br>logic<br>crash |  
-| bip_39_word_new_br5 | anger<br>naive<br>logic<br>crash<br>mystery |  
-| bip_39_word_new_br6 | anger<br>naive<br>logic<br>crash<br>mystery<br>blue |  
-| bip_39_word_new_br7 | anger<br>naive<br>logic<br>crash<br>mystery<br>blue<br>style |  
-| bip_39_word_new_br8 | anger<br>naive<br>logic<br>crash<br>mystery<br>blue<br>style<br>edit |  
-| bip_39_word_new_br9 | anger<br>naive<br>logic<br>crash<br>mystery<br>blue<br>style<br>edit<br>pioneer |  
-| bip_39_word_new_line1 | anger |  
-| bip_39_word_new_line10 | anger
+| bip_39_word_new_br_1 | anger |  
+| bip_39_word_new_br_10 | anger<br>naive<br>logic<br>crash<br>mystery<br>blue<br>style<br>edit<br>pioneer<br>bid |  
+| bip_39_word_new_br_11 | anger<br>naive<br>logic<br>crash<br>mystery<br>blue<br>style<br>edit<br>pioneer<br>bid<br>autumn |  
+| bip_39_word_new_br_12 | anger<br>naive<br>logic<br>crash<br>mystery<br>blue<br>style<br>edit<br>pioneer<br>bid<br>autumn<br>almost |  
+| bip_39_word_new_br_2 | anger<br>naive |  
+| bip_39_word_new_br_3 | anger<br>naive<br>logic |  
+| bip_39_word_new_br_4 | anger<br>naive<br>logic<br>crash |  
+| bip_39_word_new_br_5 | anger<br>naive<br>logic<br>crash<br>mystery |  
+| bip_39_word_new_br_6 | anger<br>naive<br>logic<br>crash<br>mystery<br>blue |  
+| bip_39_word_new_br_7 | anger<br>naive<br>logic<br>crash<br>mystery<br>blue<br>style |  
+| bip_39_word_new_br_8 | anger<br>naive<br>logic<br>crash<br>mystery<br>blue<br>style<br>edit |  
+| bip_39_word_new_br_9 | anger<br>naive<br>logic<br>crash<br>mystery<br>blue<br>style<br>edit<br>pioneer |  
+| bip_39_word_new_line_1 | anger |  
+| bip_39_word_new_line_10 | anger
 naive
 logic
 crash
@@ -55,7 +55,7 @@ style
 edit
 pioneer
 bid |  
-| bip_39_word_new_line11 | anger
+| bip_39_word_new_line_11 | anger
 naive
 logic
 crash
@@ -66,7 +66,7 @@ edit
 pioneer
 bid
 autumn |  
-| bip_39_word_new_line12 | anger
+| bip_39_word_new_line_12 | anger
 naive
 logic
 crash
@@ -78,34 +78,34 @@ pioneer
 bid
 autumn
 almost |  
-| bip_39_word_new_line2 | anger
+| bip_39_word_new_line_2 | anger
 naive |  
-| bip_39_word_new_line3 | anger
+| bip_39_word_new_line_3 | anger
 naive
 logic |  
-| bip_39_word_new_line4 | anger
+| bip_39_word_new_line_4 | anger
 naive
 logic
 crash |  
-| bip_39_word_new_line5 | anger
+| bip_39_word_new_line_5 | anger
 naive
 logic
 crash
 mystery |  
-| bip_39_word_new_line6 | anger
+| bip_39_word_new_line_6 | anger
 naive
 logic
 crash
 mystery
 blue |  
-| bip_39_word_new_line7 | anger
+| bip_39_word_new_line_7 | anger
 naive
 logic
 crash
 mystery
 blue
 style |  
-| bip_39_word_new_line8 | anger
+| bip_39_word_new_line_8 | anger
 naive
 logic
 crash
@@ -113,7 +113,7 @@ mystery
 blue
 style
 edit |  
-| bip_39_word_new_line9 | anger
+| bip_39_word_new_line_9 | anger
 naive
 logic
 crash

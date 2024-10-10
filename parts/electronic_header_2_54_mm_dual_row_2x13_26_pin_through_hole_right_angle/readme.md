@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | lava |  
-| bip_39_word_new_br10 | lava<br>clerk<br>spare<br>move<br>jealous<br>noodle<br>quarter<br>wrestle<br>assault<br>script |  
-| bip_39_word_new_br11 | lava<br>clerk<br>spare<br>move<br>jealous<br>noodle<br>quarter<br>wrestle<br>assault<br>script<br>senior |  
-| bip_39_word_new_br12 | lava<br>clerk<br>spare<br>move<br>jealous<br>noodle<br>quarter<br>wrestle<br>assault<br>script<br>senior<br>address |  
-| bip_39_word_new_br2 | lava<br>clerk |  
-| bip_39_word_new_br3 | lava<br>clerk<br>spare |  
-| bip_39_word_new_br4 | lava<br>clerk<br>spare<br>move |  
-| bip_39_word_new_br5 | lava<br>clerk<br>spare<br>move<br>jealous |  
-| bip_39_word_new_br6 | lava<br>clerk<br>spare<br>move<br>jealous<br>noodle |  
-| bip_39_word_new_br7 | lava<br>clerk<br>spare<br>move<br>jealous<br>noodle<br>quarter |  
-| bip_39_word_new_br8 | lava<br>clerk<br>spare<br>move<br>jealous<br>noodle<br>quarter<br>wrestle |  
-| bip_39_word_new_br9 | lava<br>clerk<br>spare<br>move<br>jealous<br>noodle<br>quarter<br>wrestle<br>assault |  
-| bip_39_word_new_line1 | lava |  
-| bip_39_word_new_line10 | lava
+| bip_39_word_new_br_1 | lava |  
+| bip_39_word_new_br_10 | lava<br>clerk<br>spare<br>move<br>jealous<br>noodle<br>quarter<br>wrestle<br>assault<br>script |  
+| bip_39_word_new_br_11 | lava<br>clerk<br>spare<br>move<br>jealous<br>noodle<br>quarter<br>wrestle<br>assault<br>script<br>senior |  
+| bip_39_word_new_br_12 | lava<br>clerk<br>spare<br>move<br>jealous<br>noodle<br>quarter<br>wrestle<br>assault<br>script<br>senior<br>address |  
+| bip_39_word_new_br_2 | lava<br>clerk |  
+| bip_39_word_new_br_3 | lava<br>clerk<br>spare |  
+| bip_39_word_new_br_4 | lava<br>clerk<br>spare<br>move |  
+| bip_39_word_new_br_5 | lava<br>clerk<br>spare<br>move<br>jealous |  
+| bip_39_word_new_br_6 | lava<br>clerk<br>spare<br>move<br>jealous<br>noodle |  
+| bip_39_word_new_br_7 | lava<br>clerk<br>spare<br>move<br>jealous<br>noodle<br>quarter |  
+| bip_39_word_new_br_8 | lava<br>clerk<br>spare<br>move<br>jealous<br>noodle<br>quarter<br>wrestle |  
+| bip_39_word_new_br_9 | lava<br>clerk<br>spare<br>move<br>jealous<br>noodle<br>quarter<br>wrestle<br>assault |  
+| bip_39_word_new_line_1 | lava |  
+| bip_39_word_new_line_10 | lava
 clerk
 spare
 move
@@ -55,7 +55,7 @@ quarter
 wrestle
 assault
 script |  
-| bip_39_word_new_line11 | lava
+| bip_39_word_new_line_11 | lava
 clerk
 spare
 move
@@ -66,7 +66,7 @@ wrestle
 assault
 script
 senior |  
-| bip_39_word_new_line12 | lava
+| bip_39_word_new_line_12 | lava
 clerk
 spare
 move
@@ -78,34 +78,34 @@ assault
 script
 senior
 address |  
-| bip_39_word_new_line2 | lava
+| bip_39_word_new_line_2 | lava
 clerk |  
-| bip_39_word_new_line3 | lava
+| bip_39_word_new_line_3 | lava
 clerk
 spare |  
-| bip_39_word_new_line4 | lava
+| bip_39_word_new_line_4 | lava
 clerk
 spare
 move |  
-| bip_39_word_new_line5 | lava
+| bip_39_word_new_line_5 | lava
 clerk
 spare
 move
 jealous |  
-| bip_39_word_new_line6 | lava
+| bip_39_word_new_line_6 | lava
 clerk
 spare
 move
 jealous
 noodle |  
-| bip_39_word_new_line7 | lava
+| bip_39_word_new_line_7 | lava
 clerk
 spare
 move
 jealous
 noodle
 quarter |  
-| bip_39_word_new_line8 | lava
+| bip_39_word_new_line_8 | lava
 clerk
 spare
 move
@@ -113,7 +113,7 @@ jealous
 noodle
 quarter
 wrestle |  
-| bip_39_word_new_line9 | lava
+| bip_39_word_new_line_9 | lava
 clerk
 spare
 move

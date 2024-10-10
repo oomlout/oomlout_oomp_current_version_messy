@@ -1,17 +1,17 @@
-bip_39_word_new_br1: thought
-bip_39_word_new_br10: thought<br>hole<br>crop<br>because<br>omit<br>enough<br>rubber<br>blame<br>road<br>patch
-bip_39_word_new_br11: thought<br>hole<br>crop<br>because<br>omit<br>enough<br>rubber<br>blame<br>road<br>patch<br>notable
-bip_39_word_new_br12: thought<br>hole<br>crop<br>because<br>omit<br>enough<br>rubber<br>blame<br>road<br>patch<br>notable<br>accuse
-bip_39_word_new_br2: thought<br>hole
-bip_39_word_new_br3: thought<br>hole<br>crop
-bip_39_word_new_br4: thought<br>hole<br>crop<br>because
-bip_39_word_new_br5: thought<br>hole<br>crop<br>because<br>omit
-bip_39_word_new_br6: thought<br>hole<br>crop<br>because<br>omit<br>enough
-bip_39_word_new_br7: thought<br>hole<br>crop<br>because<br>omit<br>enough<br>rubber
-bip_39_word_new_br8: thought<br>hole<br>crop<br>because<br>omit<br>enough<br>rubber<br>blame
-bip_39_word_new_br9: thought<br>hole<br>crop<br>because<br>omit<br>enough<br>rubber<br>blame<br>road
-bip_39_word_new_line1: thought
-bip_39_word_new_line10: 'thought
+bip_39_word_new_br_1: thought
+bip_39_word_new_br_10: thought<br>hole<br>crop<br>because<br>omit<br>enough<br>rubber<br>blame<br>road<br>patch
+bip_39_word_new_br_11: thought<br>hole<br>crop<br>because<br>omit<br>enough<br>rubber<br>blame<br>road<br>patch<br>notable
+bip_39_word_new_br_12: thought<br>hole<br>crop<br>because<br>omit<br>enough<br>rubber<br>blame<br>road<br>patch<br>notable<br>accuse
+bip_39_word_new_br_2: thought<br>hole
+bip_39_word_new_br_3: thought<br>hole<br>crop
+bip_39_word_new_br_4: thought<br>hole<br>crop<br>because
+bip_39_word_new_br_5: thought<br>hole<br>crop<br>because<br>omit
+bip_39_word_new_br_6: thought<br>hole<br>crop<br>because<br>omit<br>enough
+bip_39_word_new_br_7: thought<br>hole<br>crop<br>because<br>omit<br>enough<br>rubber
+bip_39_word_new_br_8: thought<br>hole<br>crop<br>because<br>omit<br>enough<br>rubber<br>blame
+bip_39_word_new_br_9: thought<br>hole<br>crop<br>because<br>omit<br>enough<br>rubber<br>blame<br>road
+bip_39_word_new_line_1: thought
+bip_39_word_new_line_10: 'thought
 
   hole
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'thought
   road
 
   patch'
-bip_39_word_new_line11: 'thought
+bip_39_word_new_line_11: 'thought
 
   hole
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'thought
   patch
 
   notable'
-bip_39_word_new_line12: 'thought
+bip_39_word_new_line_12: 'thought
 
   hole
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'thought
   notable
 
   accuse'
-bip_39_word_new_line2: 'thought
+bip_39_word_new_line_2: 'thought
 
   hole'
-bip_39_word_new_line3: 'thought
+bip_39_word_new_line_3: 'thought
 
   hole
 
   crop'
-bip_39_word_new_line4: 'thought
+bip_39_word_new_line_4: 'thought
 
   hole
 
   crop
 
   because'
-bip_39_word_new_line5: 'thought
+bip_39_word_new_line_5: 'thought
 
   hole
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'thought
   because
 
   omit'
-bip_39_word_new_line6: 'thought
+bip_39_word_new_line_6: 'thought
 
   hole
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'thought
   omit
 
   enough'
-bip_39_word_new_line7: 'thought
+bip_39_word_new_line_7: 'thought
 
   hole
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'thought
   enough
 
   rubber'
-bip_39_word_new_line8: 'thought
+bip_39_word_new_line_8: 'thought
 
   hole
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'thought
   rubber
 
   blame'
-bip_39_word_new_line9: 'thought
+bip_39_word_new_line_9: 'thought
 
   hole
 

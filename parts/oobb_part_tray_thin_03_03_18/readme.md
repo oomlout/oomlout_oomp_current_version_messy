@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | educate |  
-| bip_39_word_new_br10 | educate<br>lonely<br>radio<br>fee<br>cereal<br>reopen<br>brisk<br>regular<br>stereo<br>rural |  
-| bip_39_word_new_br11 | educate<br>lonely<br>radio<br>fee<br>cereal<br>reopen<br>brisk<br>regular<br>stereo<br>rural<br>social |  
-| bip_39_word_new_br12 | educate<br>lonely<br>radio<br>fee<br>cereal<br>reopen<br>brisk<br>regular<br>stereo<br>rural<br>social<br>address |  
-| bip_39_word_new_br2 | educate<br>lonely |  
-| bip_39_word_new_br3 | educate<br>lonely<br>radio |  
-| bip_39_word_new_br4 | educate<br>lonely<br>radio<br>fee |  
-| bip_39_word_new_br5 | educate<br>lonely<br>radio<br>fee<br>cereal |  
-| bip_39_word_new_br6 | educate<br>lonely<br>radio<br>fee<br>cereal<br>reopen |  
-| bip_39_word_new_br7 | educate<br>lonely<br>radio<br>fee<br>cereal<br>reopen<br>brisk |  
-| bip_39_word_new_br8 | educate<br>lonely<br>radio<br>fee<br>cereal<br>reopen<br>brisk<br>regular |  
-| bip_39_word_new_br9 | educate<br>lonely<br>radio<br>fee<br>cereal<br>reopen<br>brisk<br>regular<br>stereo |  
-| bip_39_word_new_line1 | educate |  
-| bip_39_word_new_line10 | educate
+| bip_39_word_new_br_1 | educate |  
+| bip_39_word_new_br_10 | educate<br>lonely<br>radio<br>fee<br>cereal<br>reopen<br>brisk<br>regular<br>stereo<br>rural |  
+| bip_39_word_new_br_11 | educate<br>lonely<br>radio<br>fee<br>cereal<br>reopen<br>brisk<br>regular<br>stereo<br>rural<br>social |  
+| bip_39_word_new_br_12 | educate<br>lonely<br>radio<br>fee<br>cereal<br>reopen<br>brisk<br>regular<br>stereo<br>rural<br>social<br>address |  
+| bip_39_word_new_br_2 | educate<br>lonely |  
+| bip_39_word_new_br_3 | educate<br>lonely<br>radio |  
+| bip_39_word_new_br_4 | educate<br>lonely<br>radio<br>fee |  
+| bip_39_word_new_br_5 | educate<br>lonely<br>radio<br>fee<br>cereal |  
+| bip_39_word_new_br_6 | educate<br>lonely<br>radio<br>fee<br>cereal<br>reopen |  
+| bip_39_word_new_br_7 | educate<br>lonely<br>radio<br>fee<br>cereal<br>reopen<br>brisk |  
+| bip_39_word_new_br_8 | educate<br>lonely<br>radio<br>fee<br>cereal<br>reopen<br>brisk<br>regular |  
+| bip_39_word_new_br_9 | educate<br>lonely<br>radio<br>fee<br>cereal<br>reopen<br>brisk<br>regular<br>stereo |  
+| bip_39_word_new_line_1 | educate |  
+| bip_39_word_new_line_10 | educate
 lonely
 radio
 fee
@@ -55,7 +55,7 @@ brisk
 regular
 stereo
 rural |  
-| bip_39_word_new_line11 | educate
+| bip_39_word_new_line_11 | educate
 lonely
 radio
 fee
@@ -66,7 +66,7 @@ regular
 stereo
 rural
 social |  
-| bip_39_word_new_line12 | educate
+| bip_39_word_new_line_12 | educate
 lonely
 radio
 fee
@@ -78,34 +78,34 @@ stereo
 rural
 social
 address |  
-| bip_39_word_new_line2 | educate
+| bip_39_word_new_line_2 | educate
 lonely |  
-| bip_39_word_new_line3 | educate
+| bip_39_word_new_line_3 | educate
 lonely
 radio |  
-| bip_39_word_new_line4 | educate
+| bip_39_word_new_line_4 | educate
 lonely
 radio
 fee |  
-| bip_39_word_new_line5 | educate
+| bip_39_word_new_line_5 | educate
 lonely
 radio
 fee
 cereal |  
-| bip_39_word_new_line6 | educate
+| bip_39_word_new_line_6 | educate
 lonely
 radio
 fee
 cereal
 reopen |  
-| bip_39_word_new_line7 | educate
+| bip_39_word_new_line_7 | educate
 lonely
 radio
 fee
 cereal
 reopen
 brisk |  
-| bip_39_word_new_line8 | educate
+| bip_39_word_new_line_8 | educate
 lonely
 radio
 fee
@@ -113,7 +113,7 @@ cereal
 reopen
 brisk
 regular |  
-| bip_39_word_new_line9 | educate
+| bip_39_word_new_line_9 | educate
 lonely
 radio
 fee

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | few |  
-| bip_39_word_new_br10 | few<br>seminar<br>pioneer<br>curtain<br>print<br>gorilla<br>plunge<br>feed<br>ivory<br>valley |  
-| bip_39_word_new_br11 | few<br>seminar<br>pioneer<br>curtain<br>print<br>gorilla<br>plunge<br>feed<br>ivory<br>valley<br>glance |  
-| bip_39_word_new_br12 | few<br>seminar<br>pioneer<br>curtain<br>print<br>gorilla<br>plunge<br>feed<br>ivory<br>valley<br>glance<br>already |  
-| bip_39_word_new_br2 | few<br>seminar |  
-| bip_39_word_new_br3 | few<br>seminar<br>pioneer |  
-| bip_39_word_new_br4 | few<br>seminar<br>pioneer<br>curtain |  
-| bip_39_word_new_br5 | few<br>seminar<br>pioneer<br>curtain<br>print |  
-| bip_39_word_new_br6 | few<br>seminar<br>pioneer<br>curtain<br>print<br>gorilla |  
-| bip_39_word_new_br7 | few<br>seminar<br>pioneer<br>curtain<br>print<br>gorilla<br>plunge |  
-| bip_39_word_new_br8 | few<br>seminar<br>pioneer<br>curtain<br>print<br>gorilla<br>plunge<br>feed |  
-| bip_39_word_new_br9 | few<br>seminar<br>pioneer<br>curtain<br>print<br>gorilla<br>plunge<br>feed<br>ivory |  
-| bip_39_word_new_line1 | few |  
-| bip_39_word_new_line10 | few
+| bip_39_word_new_br_1 | few |  
+| bip_39_word_new_br_10 | few<br>seminar<br>pioneer<br>curtain<br>print<br>gorilla<br>plunge<br>feed<br>ivory<br>valley |  
+| bip_39_word_new_br_11 | few<br>seminar<br>pioneer<br>curtain<br>print<br>gorilla<br>plunge<br>feed<br>ivory<br>valley<br>glance |  
+| bip_39_word_new_br_12 | few<br>seminar<br>pioneer<br>curtain<br>print<br>gorilla<br>plunge<br>feed<br>ivory<br>valley<br>glance<br>already |  
+| bip_39_word_new_br_2 | few<br>seminar |  
+| bip_39_word_new_br_3 | few<br>seminar<br>pioneer |  
+| bip_39_word_new_br_4 | few<br>seminar<br>pioneer<br>curtain |  
+| bip_39_word_new_br_5 | few<br>seminar<br>pioneer<br>curtain<br>print |  
+| bip_39_word_new_br_6 | few<br>seminar<br>pioneer<br>curtain<br>print<br>gorilla |  
+| bip_39_word_new_br_7 | few<br>seminar<br>pioneer<br>curtain<br>print<br>gorilla<br>plunge |  
+| bip_39_word_new_br_8 | few<br>seminar<br>pioneer<br>curtain<br>print<br>gorilla<br>plunge<br>feed |  
+| bip_39_word_new_br_9 | few<br>seminar<br>pioneer<br>curtain<br>print<br>gorilla<br>plunge<br>feed<br>ivory |  
+| bip_39_word_new_line_1 | few |  
+| bip_39_word_new_line_10 | few
 seminar
 pioneer
 curtain
@@ -55,7 +55,7 @@ plunge
 feed
 ivory
 valley |  
-| bip_39_word_new_line11 | few
+| bip_39_word_new_line_11 | few
 seminar
 pioneer
 curtain
@@ -66,7 +66,7 @@ feed
 ivory
 valley
 glance |  
-| bip_39_word_new_line12 | few
+| bip_39_word_new_line_12 | few
 seminar
 pioneer
 curtain
@@ -78,34 +78,34 @@ ivory
 valley
 glance
 already |  
-| bip_39_word_new_line2 | few
+| bip_39_word_new_line_2 | few
 seminar |  
-| bip_39_word_new_line3 | few
+| bip_39_word_new_line_3 | few
 seminar
 pioneer |  
-| bip_39_word_new_line4 | few
+| bip_39_word_new_line_4 | few
 seminar
 pioneer
 curtain |  
-| bip_39_word_new_line5 | few
+| bip_39_word_new_line_5 | few
 seminar
 pioneer
 curtain
 print |  
-| bip_39_word_new_line6 | few
+| bip_39_word_new_line_6 | few
 seminar
 pioneer
 curtain
 print
 gorilla |  
-| bip_39_word_new_line7 | few
+| bip_39_word_new_line_7 | few
 seminar
 pioneer
 curtain
 print
 gorilla
 plunge |  
-| bip_39_word_new_line8 | few
+| bip_39_word_new_line_8 | few
 seminar
 pioneer
 curtain
@@ -113,7 +113,7 @@ print
 gorilla
 plunge
 feed |  
-| bip_39_word_new_line9 | few
+| bip_39_word_new_line_9 | few
 seminar
 pioneer
 curtain

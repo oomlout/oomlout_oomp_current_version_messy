@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | upper |  
-| bip_39_word_new_br10 | upper<br>accident<br>access<br>weird<br>virtual<br>lesson<br>circle<br>vehicle<br>castle<br>humor |  
-| bip_39_word_new_br11 | upper<br>accident<br>access<br>weird<br>virtual<br>lesson<br>circle<br>vehicle<br>castle<br>humor<br>seed |  
-| bip_39_word_new_br12 | upper<br>accident<br>access<br>weird<br>virtual<br>lesson<br>circle<br>vehicle<br>castle<br>humor<br>seed<br>afford |  
-| bip_39_word_new_br2 | upper<br>accident |  
-| bip_39_word_new_br3 | upper<br>accident<br>access |  
-| bip_39_word_new_br4 | upper<br>accident<br>access<br>weird |  
-| bip_39_word_new_br5 | upper<br>accident<br>access<br>weird<br>virtual |  
-| bip_39_word_new_br6 | upper<br>accident<br>access<br>weird<br>virtual<br>lesson |  
-| bip_39_word_new_br7 | upper<br>accident<br>access<br>weird<br>virtual<br>lesson<br>circle |  
-| bip_39_word_new_br8 | upper<br>accident<br>access<br>weird<br>virtual<br>lesson<br>circle<br>vehicle |  
-| bip_39_word_new_br9 | upper<br>accident<br>access<br>weird<br>virtual<br>lesson<br>circle<br>vehicle<br>castle |  
-| bip_39_word_new_line1 | upper |  
-| bip_39_word_new_line10 | upper
+| bip_39_word_new_br_1 | upper |  
+| bip_39_word_new_br_10 | upper<br>accident<br>access<br>weird<br>virtual<br>lesson<br>circle<br>vehicle<br>castle<br>humor |  
+| bip_39_word_new_br_11 | upper<br>accident<br>access<br>weird<br>virtual<br>lesson<br>circle<br>vehicle<br>castle<br>humor<br>seed |  
+| bip_39_word_new_br_12 | upper<br>accident<br>access<br>weird<br>virtual<br>lesson<br>circle<br>vehicle<br>castle<br>humor<br>seed<br>afford |  
+| bip_39_word_new_br_2 | upper<br>accident |  
+| bip_39_word_new_br_3 | upper<br>accident<br>access |  
+| bip_39_word_new_br_4 | upper<br>accident<br>access<br>weird |  
+| bip_39_word_new_br_5 | upper<br>accident<br>access<br>weird<br>virtual |  
+| bip_39_word_new_br_6 | upper<br>accident<br>access<br>weird<br>virtual<br>lesson |  
+| bip_39_word_new_br_7 | upper<br>accident<br>access<br>weird<br>virtual<br>lesson<br>circle |  
+| bip_39_word_new_br_8 | upper<br>accident<br>access<br>weird<br>virtual<br>lesson<br>circle<br>vehicle |  
+| bip_39_word_new_br_9 | upper<br>accident<br>access<br>weird<br>virtual<br>lesson<br>circle<br>vehicle<br>castle |  
+| bip_39_word_new_line_1 | upper |  
+| bip_39_word_new_line_10 | upper
 accident
 access
 weird
@@ -55,7 +55,7 @@ circle
 vehicle
 castle
 humor |  
-| bip_39_word_new_line11 | upper
+| bip_39_word_new_line_11 | upper
 accident
 access
 weird
@@ -66,7 +66,7 @@ vehicle
 castle
 humor
 seed |  
-| bip_39_word_new_line12 | upper
+| bip_39_word_new_line_12 | upper
 accident
 access
 weird
@@ -78,34 +78,34 @@ castle
 humor
 seed
 afford |  
-| bip_39_word_new_line2 | upper
+| bip_39_word_new_line_2 | upper
 accident |  
-| bip_39_word_new_line3 | upper
+| bip_39_word_new_line_3 | upper
 accident
 access |  
-| bip_39_word_new_line4 | upper
+| bip_39_word_new_line_4 | upper
 accident
 access
 weird |  
-| bip_39_word_new_line5 | upper
+| bip_39_word_new_line_5 | upper
 accident
 access
 weird
 virtual |  
-| bip_39_word_new_line6 | upper
+| bip_39_word_new_line_6 | upper
 accident
 access
 weird
 virtual
 lesson |  
-| bip_39_word_new_line7 | upper
+| bip_39_word_new_line_7 | upper
 accident
 access
 weird
 virtual
 lesson
 circle |  
-| bip_39_word_new_line8 | upper
+| bip_39_word_new_line_8 | upper
 accident
 access
 weird
@@ -113,7 +113,7 @@ virtual
 lesson
 circle
 vehicle |  
-| bip_39_word_new_line9 | upper
+| bip_39_word_new_line_9 | upper
 accident
 access
 weird

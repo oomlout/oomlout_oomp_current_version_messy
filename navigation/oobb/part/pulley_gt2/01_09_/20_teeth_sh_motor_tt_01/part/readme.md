@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fade |  
-| bip_39_word_new_br10 | fade<br>bonus<br>govern<br>young<br>extend<br>title<br>august<br>episode<br>minute<br>blossom |  
-| bip_39_word_new_br11 | fade<br>bonus<br>govern<br>young<br>extend<br>title<br>august<br>episode<br>minute<br>blossom<br>fade |  
-| bip_39_word_new_br12 | fade<br>bonus<br>govern<br>young<br>extend<br>title<br>august<br>episode<br>minute<br>blossom<br>fade<br>apple |  
-| bip_39_word_new_br2 | fade<br>bonus |  
-| bip_39_word_new_br3 | fade<br>bonus<br>govern |  
-| bip_39_word_new_br4 | fade<br>bonus<br>govern<br>young |  
-| bip_39_word_new_br5 | fade<br>bonus<br>govern<br>young<br>extend |  
-| bip_39_word_new_br6 | fade<br>bonus<br>govern<br>young<br>extend<br>title |  
-| bip_39_word_new_br7 | fade<br>bonus<br>govern<br>young<br>extend<br>title<br>august |  
-| bip_39_word_new_br8 | fade<br>bonus<br>govern<br>young<br>extend<br>title<br>august<br>episode |  
-| bip_39_word_new_br9 | fade<br>bonus<br>govern<br>young<br>extend<br>title<br>august<br>episode<br>minute |  
-| bip_39_word_new_line1 | fade |  
-| bip_39_word_new_line10 | fade
+| bip_39_word_new_br_1 | fade |  
+| bip_39_word_new_br_10 | fade<br>bonus<br>govern<br>young<br>extend<br>title<br>august<br>episode<br>minute<br>blossom |  
+| bip_39_word_new_br_11 | fade<br>bonus<br>govern<br>young<br>extend<br>title<br>august<br>episode<br>minute<br>blossom<br>fade |  
+| bip_39_word_new_br_12 | fade<br>bonus<br>govern<br>young<br>extend<br>title<br>august<br>episode<br>minute<br>blossom<br>fade<br>apple |  
+| bip_39_word_new_br_2 | fade<br>bonus |  
+| bip_39_word_new_br_3 | fade<br>bonus<br>govern |  
+| bip_39_word_new_br_4 | fade<br>bonus<br>govern<br>young |  
+| bip_39_word_new_br_5 | fade<br>bonus<br>govern<br>young<br>extend |  
+| bip_39_word_new_br_6 | fade<br>bonus<br>govern<br>young<br>extend<br>title |  
+| bip_39_word_new_br_7 | fade<br>bonus<br>govern<br>young<br>extend<br>title<br>august |  
+| bip_39_word_new_br_8 | fade<br>bonus<br>govern<br>young<br>extend<br>title<br>august<br>episode |  
+| bip_39_word_new_br_9 | fade<br>bonus<br>govern<br>young<br>extend<br>title<br>august<br>episode<br>minute |  
+| bip_39_word_new_line_1 | fade |  
+| bip_39_word_new_line_10 | fade
 bonus
 govern
 young
@@ -55,7 +55,7 @@ august
 episode
 minute
 blossom |  
-| bip_39_word_new_line11 | fade
+| bip_39_word_new_line_11 | fade
 bonus
 govern
 young
@@ -66,7 +66,7 @@ episode
 minute
 blossom
 fade |  
-| bip_39_word_new_line12 | fade
+| bip_39_word_new_line_12 | fade
 bonus
 govern
 young
@@ -78,34 +78,34 @@ minute
 blossom
 fade
 apple |  
-| bip_39_word_new_line2 | fade
+| bip_39_word_new_line_2 | fade
 bonus |  
-| bip_39_word_new_line3 | fade
+| bip_39_word_new_line_3 | fade
 bonus
 govern |  
-| bip_39_word_new_line4 | fade
+| bip_39_word_new_line_4 | fade
 bonus
 govern
 young |  
-| bip_39_word_new_line5 | fade
+| bip_39_word_new_line_5 | fade
 bonus
 govern
 young
 extend |  
-| bip_39_word_new_line6 | fade
+| bip_39_word_new_line_6 | fade
 bonus
 govern
 young
 extend
 title |  
-| bip_39_word_new_line7 | fade
+| bip_39_word_new_line_7 | fade
 bonus
 govern
 young
 extend
 title
 august |  
-| bip_39_word_new_line8 | fade
+| bip_39_word_new_line_8 | fade
 bonus
 govern
 young
@@ -113,7 +113,7 @@ extend
 title
 august
 episode |  
-| bip_39_word_new_line9 | fade
+| bip_39_word_new_line_9 | fade
 bonus
 govern
 young

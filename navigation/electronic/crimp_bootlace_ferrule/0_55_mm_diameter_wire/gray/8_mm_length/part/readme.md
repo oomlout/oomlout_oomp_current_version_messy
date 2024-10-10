@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | smile |  
-| bip_39_word_new_br10 | smile<br>wage<br>best<br>loud<br>foil<br>essay<br>sniff<br>summer<br>fashion<br>very |  
-| bip_39_word_new_br11 | smile<br>wage<br>best<br>loud<br>foil<br>essay<br>sniff<br>summer<br>fashion<br>very<br>mercy |  
-| bip_39_word_new_br12 | smile<br>wage<br>best<br>loud<br>foil<br>essay<br>sniff<br>summer<br>fashion<br>very<br>mercy<br>alter |  
-| bip_39_word_new_br2 | smile<br>wage |  
-| bip_39_word_new_br3 | smile<br>wage<br>best |  
-| bip_39_word_new_br4 | smile<br>wage<br>best<br>loud |  
-| bip_39_word_new_br5 | smile<br>wage<br>best<br>loud<br>foil |  
-| bip_39_word_new_br6 | smile<br>wage<br>best<br>loud<br>foil<br>essay |  
-| bip_39_word_new_br7 | smile<br>wage<br>best<br>loud<br>foil<br>essay<br>sniff |  
-| bip_39_word_new_br8 | smile<br>wage<br>best<br>loud<br>foil<br>essay<br>sniff<br>summer |  
-| bip_39_word_new_br9 | smile<br>wage<br>best<br>loud<br>foil<br>essay<br>sniff<br>summer<br>fashion |  
-| bip_39_word_new_line1 | smile |  
-| bip_39_word_new_line10 | smile
+| bip_39_word_new_br_1 | smile |  
+| bip_39_word_new_br_10 | smile<br>wage<br>best<br>loud<br>foil<br>essay<br>sniff<br>summer<br>fashion<br>very |  
+| bip_39_word_new_br_11 | smile<br>wage<br>best<br>loud<br>foil<br>essay<br>sniff<br>summer<br>fashion<br>very<br>mercy |  
+| bip_39_word_new_br_12 | smile<br>wage<br>best<br>loud<br>foil<br>essay<br>sniff<br>summer<br>fashion<br>very<br>mercy<br>alter |  
+| bip_39_word_new_br_2 | smile<br>wage |  
+| bip_39_word_new_br_3 | smile<br>wage<br>best |  
+| bip_39_word_new_br_4 | smile<br>wage<br>best<br>loud |  
+| bip_39_word_new_br_5 | smile<br>wage<br>best<br>loud<br>foil |  
+| bip_39_word_new_br_6 | smile<br>wage<br>best<br>loud<br>foil<br>essay |  
+| bip_39_word_new_br_7 | smile<br>wage<br>best<br>loud<br>foil<br>essay<br>sniff |  
+| bip_39_word_new_br_8 | smile<br>wage<br>best<br>loud<br>foil<br>essay<br>sniff<br>summer |  
+| bip_39_word_new_br_9 | smile<br>wage<br>best<br>loud<br>foil<br>essay<br>sniff<br>summer<br>fashion |  
+| bip_39_word_new_line_1 | smile |  
+| bip_39_word_new_line_10 | smile
 wage
 best
 loud
@@ -55,7 +55,7 @@ sniff
 summer
 fashion
 very |  
-| bip_39_word_new_line11 | smile
+| bip_39_word_new_line_11 | smile
 wage
 best
 loud
@@ -66,7 +66,7 @@ summer
 fashion
 very
 mercy |  
-| bip_39_word_new_line12 | smile
+| bip_39_word_new_line_12 | smile
 wage
 best
 loud
@@ -78,34 +78,34 @@ fashion
 very
 mercy
 alter |  
-| bip_39_word_new_line2 | smile
+| bip_39_word_new_line_2 | smile
 wage |  
-| bip_39_word_new_line3 | smile
+| bip_39_word_new_line_3 | smile
 wage
 best |  
-| bip_39_word_new_line4 | smile
+| bip_39_word_new_line_4 | smile
 wage
 best
 loud |  
-| bip_39_word_new_line5 | smile
+| bip_39_word_new_line_5 | smile
 wage
 best
 loud
 foil |  
-| bip_39_word_new_line6 | smile
+| bip_39_word_new_line_6 | smile
 wage
 best
 loud
 foil
 essay |  
-| bip_39_word_new_line7 | smile
+| bip_39_word_new_line_7 | smile
 wage
 best
 loud
 foil
 essay
 sniff |  
-| bip_39_word_new_line8 | smile
+| bip_39_word_new_line_8 | smile
 wage
 best
 loud
@@ -113,7 +113,7 @@ foil
 essay
 sniff
 summer |  
-| bip_39_word_new_line9 | smile
+| bip_39_word_new_line_9 | smile
 wage
 best
 loud

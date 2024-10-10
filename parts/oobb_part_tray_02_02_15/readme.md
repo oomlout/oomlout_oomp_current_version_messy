@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | illegal |  
-| bip_39_word_new_br10 | illegal<br>trim<br>dinner<br>relief<br>clown<br>expect<br>apple<br>write<br>connect<br>patient |  
-| bip_39_word_new_br11 | illegal<br>trim<br>dinner<br>relief<br>clown<br>expect<br>apple<br>write<br>connect<br>patient<br>lab |  
-| bip_39_word_new_br12 | illegal<br>trim<br>dinner<br>relief<br>clown<br>expect<br>apple<br>write<br>connect<br>patient<br>lab<br>assist |  
-| bip_39_word_new_br2 | illegal<br>trim |  
-| bip_39_word_new_br3 | illegal<br>trim<br>dinner |  
-| bip_39_word_new_br4 | illegal<br>trim<br>dinner<br>relief |  
-| bip_39_word_new_br5 | illegal<br>trim<br>dinner<br>relief<br>clown |  
-| bip_39_word_new_br6 | illegal<br>trim<br>dinner<br>relief<br>clown<br>expect |  
-| bip_39_word_new_br7 | illegal<br>trim<br>dinner<br>relief<br>clown<br>expect<br>apple |  
-| bip_39_word_new_br8 | illegal<br>trim<br>dinner<br>relief<br>clown<br>expect<br>apple<br>write |  
-| bip_39_word_new_br9 | illegal<br>trim<br>dinner<br>relief<br>clown<br>expect<br>apple<br>write<br>connect |  
-| bip_39_word_new_line1 | illegal |  
-| bip_39_word_new_line10 | illegal
+| bip_39_word_new_br_1 | illegal |  
+| bip_39_word_new_br_10 | illegal<br>trim<br>dinner<br>relief<br>clown<br>expect<br>apple<br>write<br>connect<br>patient |  
+| bip_39_word_new_br_11 | illegal<br>trim<br>dinner<br>relief<br>clown<br>expect<br>apple<br>write<br>connect<br>patient<br>lab |  
+| bip_39_word_new_br_12 | illegal<br>trim<br>dinner<br>relief<br>clown<br>expect<br>apple<br>write<br>connect<br>patient<br>lab<br>assist |  
+| bip_39_word_new_br_2 | illegal<br>trim |  
+| bip_39_word_new_br_3 | illegal<br>trim<br>dinner |  
+| bip_39_word_new_br_4 | illegal<br>trim<br>dinner<br>relief |  
+| bip_39_word_new_br_5 | illegal<br>trim<br>dinner<br>relief<br>clown |  
+| bip_39_word_new_br_6 | illegal<br>trim<br>dinner<br>relief<br>clown<br>expect |  
+| bip_39_word_new_br_7 | illegal<br>trim<br>dinner<br>relief<br>clown<br>expect<br>apple |  
+| bip_39_word_new_br_8 | illegal<br>trim<br>dinner<br>relief<br>clown<br>expect<br>apple<br>write |  
+| bip_39_word_new_br_9 | illegal<br>trim<br>dinner<br>relief<br>clown<br>expect<br>apple<br>write<br>connect |  
+| bip_39_word_new_line_1 | illegal |  
+| bip_39_word_new_line_10 | illegal
 trim
 dinner
 relief
@@ -55,7 +55,7 @@ apple
 write
 connect
 patient |  
-| bip_39_word_new_line11 | illegal
+| bip_39_word_new_line_11 | illegal
 trim
 dinner
 relief
@@ -66,7 +66,7 @@ write
 connect
 patient
 lab |  
-| bip_39_word_new_line12 | illegal
+| bip_39_word_new_line_12 | illegal
 trim
 dinner
 relief
@@ -78,34 +78,34 @@ connect
 patient
 lab
 assist |  
-| bip_39_word_new_line2 | illegal
+| bip_39_word_new_line_2 | illegal
 trim |  
-| bip_39_word_new_line3 | illegal
+| bip_39_word_new_line_3 | illegal
 trim
 dinner |  
-| bip_39_word_new_line4 | illegal
+| bip_39_word_new_line_4 | illegal
 trim
 dinner
 relief |  
-| bip_39_word_new_line5 | illegal
+| bip_39_word_new_line_5 | illegal
 trim
 dinner
 relief
 clown |  
-| bip_39_word_new_line6 | illegal
+| bip_39_word_new_line_6 | illegal
 trim
 dinner
 relief
 clown
 expect |  
-| bip_39_word_new_line7 | illegal
+| bip_39_word_new_line_7 | illegal
 trim
 dinner
 relief
 clown
 expect
 apple |  
-| bip_39_word_new_line8 | illegal
+| bip_39_word_new_line_8 | illegal
 trim
 dinner
 relief
@@ -113,7 +113,7 @@ clown
 expect
 apple
 write |  
-| bip_39_word_new_line9 | illegal
+| bip_39_word_new_line_9 | illegal
 trim
 dinner
 relief

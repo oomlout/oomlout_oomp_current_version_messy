@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | anchor |  
-| bip_39_word_new_br10 | anchor<br>gloom<br>envelope<br>wing<br>damage<br>author<br>van<br>mean<br>start<br>auto |  
-| bip_39_word_new_br11 | anchor<br>gloom<br>envelope<br>wing<br>damage<br>author<br>van<br>mean<br>start<br>auto<br>thunder |  
-| bip_39_word_new_br12 | anchor<br>gloom<br>envelope<br>wing<br>damage<br>author<br>van<br>mean<br>start<br>auto<br>thunder<br>audit |  
-| bip_39_word_new_br2 | anchor<br>gloom |  
-| bip_39_word_new_br3 | anchor<br>gloom<br>envelope |  
-| bip_39_word_new_br4 | anchor<br>gloom<br>envelope<br>wing |  
-| bip_39_word_new_br5 | anchor<br>gloom<br>envelope<br>wing<br>damage |  
-| bip_39_word_new_br6 | anchor<br>gloom<br>envelope<br>wing<br>damage<br>author |  
-| bip_39_word_new_br7 | anchor<br>gloom<br>envelope<br>wing<br>damage<br>author<br>van |  
-| bip_39_word_new_br8 | anchor<br>gloom<br>envelope<br>wing<br>damage<br>author<br>van<br>mean |  
-| bip_39_word_new_br9 | anchor<br>gloom<br>envelope<br>wing<br>damage<br>author<br>van<br>mean<br>start |  
-| bip_39_word_new_line1 | anchor |  
-| bip_39_word_new_line10 | anchor
+| bip_39_word_new_br_1 | anchor |  
+| bip_39_word_new_br_10 | anchor<br>gloom<br>envelope<br>wing<br>damage<br>author<br>van<br>mean<br>start<br>auto |  
+| bip_39_word_new_br_11 | anchor<br>gloom<br>envelope<br>wing<br>damage<br>author<br>van<br>mean<br>start<br>auto<br>thunder |  
+| bip_39_word_new_br_12 | anchor<br>gloom<br>envelope<br>wing<br>damage<br>author<br>van<br>mean<br>start<br>auto<br>thunder<br>audit |  
+| bip_39_word_new_br_2 | anchor<br>gloom |  
+| bip_39_word_new_br_3 | anchor<br>gloom<br>envelope |  
+| bip_39_word_new_br_4 | anchor<br>gloom<br>envelope<br>wing |  
+| bip_39_word_new_br_5 | anchor<br>gloom<br>envelope<br>wing<br>damage |  
+| bip_39_word_new_br_6 | anchor<br>gloom<br>envelope<br>wing<br>damage<br>author |  
+| bip_39_word_new_br_7 | anchor<br>gloom<br>envelope<br>wing<br>damage<br>author<br>van |  
+| bip_39_word_new_br_8 | anchor<br>gloom<br>envelope<br>wing<br>damage<br>author<br>van<br>mean |  
+| bip_39_word_new_br_9 | anchor<br>gloom<br>envelope<br>wing<br>damage<br>author<br>van<br>mean<br>start |  
+| bip_39_word_new_line_1 | anchor |  
+| bip_39_word_new_line_10 | anchor
 gloom
 envelope
 wing
@@ -55,7 +55,7 @@ van
 mean
 start
 auto |  
-| bip_39_word_new_line11 | anchor
+| bip_39_word_new_line_11 | anchor
 gloom
 envelope
 wing
@@ -66,7 +66,7 @@ mean
 start
 auto
 thunder |  
-| bip_39_word_new_line12 | anchor
+| bip_39_word_new_line_12 | anchor
 gloom
 envelope
 wing
@@ -78,34 +78,34 @@ start
 auto
 thunder
 audit |  
-| bip_39_word_new_line2 | anchor
+| bip_39_word_new_line_2 | anchor
 gloom |  
-| bip_39_word_new_line3 | anchor
+| bip_39_word_new_line_3 | anchor
 gloom
 envelope |  
-| bip_39_word_new_line4 | anchor
+| bip_39_word_new_line_4 | anchor
 gloom
 envelope
 wing |  
-| bip_39_word_new_line5 | anchor
+| bip_39_word_new_line_5 | anchor
 gloom
 envelope
 wing
 damage |  
-| bip_39_word_new_line6 | anchor
+| bip_39_word_new_line_6 | anchor
 gloom
 envelope
 wing
 damage
 author |  
-| bip_39_word_new_line7 | anchor
+| bip_39_word_new_line_7 | anchor
 gloom
 envelope
 wing
 damage
 author
 van |  
-| bip_39_word_new_line8 | anchor
+| bip_39_word_new_line_8 | anchor
 gloom
 envelope
 wing
@@ -113,7 +113,7 @@ damage
 author
 van
 mean |  
-| bip_39_word_new_line9 | anchor
+| bip_39_word_new_line_9 | anchor
 gloom
 envelope
 wing

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | aim |  
-| bip_39_word_new_br10 | aim<br>finish<br>genius<br>antique<br>stage<br>nuclear<br>shrug<br>patrol<br>excite<br>wealth |  
-| bip_39_word_new_br11 | aim<br>finish<br>genius<br>antique<br>stage<br>nuclear<br>shrug<br>patrol<br>excite<br>wealth<br>strong |  
-| bip_39_word_new_br12 | aim<br>finish<br>genius<br>antique<br>stage<br>nuclear<br>shrug<br>patrol<br>excite<br>wealth<br>strong<br>aisle |  
-| bip_39_word_new_br2 | aim<br>finish |  
-| bip_39_word_new_br3 | aim<br>finish<br>genius |  
-| bip_39_word_new_br4 | aim<br>finish<br>genius<br>antique |  
-| bip_39_word_new_br5 | aim<br>finish<br>genius<br>antique<br>stage |  
-| bip_39_word_new_br6 | aim<br>finish<br>genius<br>antique<br>stage<br>nuclear |  
-| bip_39_word_new_br7 | aim<br>finish<br>genius<br>antique<br>stage<br>nuclear<br>shrug |  
-| bip_39_word_new_br8 | aim<br>finish<br>genius<br>antique<br>stage<br>nuclear<br>shrug<br>patrol |  
-| bip_39_word_new_br9 | aim<br>finish<br>genius<br>antique<br>stage<br>nuclear<br>shrug<br>patrol<br>excite |  
-| bip_39_word_new_line1 | aim |  
-| bip_39_word_new_line10 | aim
+| bip_39_word_new_br_1 | aim |  
+| bip_39_word_new_br_10 | aim<br>finish<br>genius<br>antique<br>stage<br>nuclear<br>shrug<br>patrol<br>excite<br>wealth |  
+| bip_39_word_new_br_11 | aim<br>finish<br>genius<br>antique<br>stage<br>nuclear<br>shrug<br>patrol<br>excite<br>wealth<br>strong |  
+| bip_39_word_new_br_12 | aim<br>finish<br>genius<br>antique<br>stage<br>nuclear<br>shrug<br>patrol<br>excite<br>wealth<br>strong<br>aisle |  
+| bip_39_word_new_br_2 | aim<br>finish |  
+| bip_39_word_new_br_3 | aim<br>finish<br>genius |  
+| bip_39_word_new_br_4 | aim<br>finish<br>genius<br>antique |  
+| bip_39_word_new_br_5 | aim<br>finish<br>genius<br>antique<br>stage |  
+| bip_39_word_new_br_6 | aim<br>finish<br>genius<br>antique<br>stage<br>nuclear |  
+| bip_39_word_new_br_7 | aim<br>finish<br>genius<br>antique<br>stage<br>nuclear<br>shrug |  
+| bip_39_word_new_br_8 | aim<br>finish<br>genius<br>antique<br>stage<br>nuclear<br>shrug<br>patrol |  
+| bip_39_word_new_br_9 | aim<br>finish<br>genius<br>antique<br>stage<br>nuclear<br>shrug<br>patrol<br>excite |  
+| bip_39_word_new_line_1 | aim |  
+| bip_39_word_new_line_10 | aim
 finish
 genius
 antique
@@ -55,7 +55,7 @@ shrug
 patrol
 excite
 wealth |  
-| bip_39_word_new_line11 | aim
+| bip_39_word_new_line_11 | aim
 finish
 genius
 antique
@@ -66,7 +66,7 @@ patrol
 excite
 wealth
 strong |  
-| bip_39_word_new_line12 | aim
+| bip_39_word_new_line_12 | aim
 finish
 genius
 antique
@@ -78,34 +78,34 @@ excite
 wealth
 strong
 aisle |  
-| bip_39_word_new_line2 | aim
+| bip_39_word_new_line_2 | aim
 finish |  
-| bip_39_word_new_line3 | aim
+| bip_39_word_new_line_3 | aim
 finish
 genius |  
-| bip_39_word_new_line4 | aim
+| bip_39_word_new_line_4 | aim
 finish
 genius
 antique |  
-| bip_39_word_new_line5 | aim
+| bip_39_word_new_line_5 | aim
 finish
 genius
 antique
 stage |  
-| bip_39_word_new_line6 | aim
+| bip_39_word_new_line_6 | aim
 finish
 genius
 antique
 stage
 nuclear |  
-| bip_39_word_new_line7 | aim
+| bip_39_word_new_line_7 | aim
 finish
 genius
 antique
 stage
 nuclear
 shrug |  
-| bip_39_word_new_line8 | aim
+| bip_39_word_new_line_8 | aim
 finish
 genius
 antique
@@ -113,7 +113,7 @@ stage
 nuclear
 shrug
 patrol |  
-| bip_39_word_new_line9 | aim
+| bip_39_word_new_line_9 | aim
 finish
 genius
 antique

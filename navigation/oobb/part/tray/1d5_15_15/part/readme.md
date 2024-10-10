@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | little |  
-| bip_39_word_new_br10 | little<br>unaware<br>crane<br>crunch<br>cabin<br>dish<br>remove<br>inspire<br>again<br>vote |  
-| bip_39_word_new_br11 | little<br>unaware<br>crane<br>crunch<br>cabin<br>dish<br>remove<br>inspire<br>again<br>vote<br>pill |  
-| bip_39_word_new_br12 | little<br>unaware<br>crane<br>crunch<br>cabin<br>dish<br>remove<br>inspire<br>again<br>vote<br>pill<br>acoustic |  
-| bip_39_word_new_br2 | little<br>unaware |  
-| bip_39_word_new_br3 | little<br>unaware<br>crane |  
-| bip_39_word_new_br4 | little<br>unaware<br>crane<br>crunch |  
-| bip_39_word_new_br5 | little<br>unaware<br>crane<br>crunch<br>cabin |  
-| bip_39_word_new_br6 | little<br>unaware<br>crane<br>crunch<br>cabin<br>dish |  
-| bip_39_word_new_br7 | little<br>unaware<br>crane<br>crunch<br>cabin<br>dish<br>remove |  
-| bip_39_word_new_br8 | little<br>unaware<br>crane<br>crunch<br>cabin<br>dish<br>remove<br>inspire |  
-| bip_39_word_new_br9 | little<br>unaware<br>crane<br>crunch<br>cabin<br>dish<br>remove<br>inspire<br>again |  
-| bip_39_word_new_line1 | little |  
-| bip_39_word_new_line10 | little
+| bip_39_word_new_br_1 | little |  
+| bip_39_word_new_br_10 | little<br>unaware<br>crane<br>crunch<br>cabin<br>dish<br>remove<br>inspire<br>again<br>vote |  
+| bip_39_word_new_br_11 | little<br>unaware<br>crane<br>crunch<br>cabin<br>dish<br>remove<br>inspire<br>again<br>vote<br>pill |  
+| bip_39_word_new_br_12 | little<br>unaware<br>crane<br>crunch<br>cabin<br>dish<br>remove<br>inspire<br>again<br>vote<br>pill<br>acoustic |  
+| bip_39_word_new_br_2 | little<br>unaware |  
+| bip_39_word_new_br_3 | little<br>unaware<br>crane |  
+| bip_39_word_new_br_4 | little<br>unaware<br>crane<br>crunch |  
+| bip_39_word_new_br_5 | little<br>unaware<br>crane<br>crunch<br>cabin |  
+| bip_39_word_new_br_6 | little<br>unaware<br>crane<br>crunch<br>cabin<br>dish |  
+| bip_39_word_new_br_7 | little<br>unaware<br>crane<br>crunch<br>cabin<br>dish<br>remove |  
+| bip_39_word_new_br_8 | little<br>unaware<br>crane<br>crunch<br>cabin<br>dish<br>remove<br>inspire |  
+| bip_39_word_new_br_9 | little<br>unaware<br>crane<br>crunch<br>cabin<br>dish<br>remove<br>inspire<br>again |  
+| bip_39_word_new_line_1 | little |  
+| bip_39_word_new_line_10 | little
 unaware
 crane
 crunch
@@ -55,7 +55,7 @@ remove
 inspire
 again
 vote |  
-| bip_39_word_new_line11 | little
+| bip_39_word_new_line_11 | little
 unaware
 crane
 crunch
@@ -66,7 +66,7 @@ inspire
 again
 vote
 pill |  
-| bip_39_word_new_line12 | little
+| bip_39_word_new_line_12 | little
 unaware
 crane
 crunch
@@ -78,34 +78,34 @@ again
 vote
 pill
 acoustic |  
-| bip_39_word_new_line2 | little
+| bip_39_word_new_line_2 | little
 unaware |  
-| bip_39_word_new_line3 | little
+| bip_39_word_new_line_3 | little
 unaware
 crane |  
-| bip_39_word_new_line4 | little
+| bip_39_word_new_line_4 | little
 unaware
 crane
 crunch |  
-| bip_39_word_new_line5 | little
+| bip_39_word_new_line_5 | little
 unaware
 crane
 crunch
 cabin |  
-| bip_39_word_new_line6 | little
+| bip_39_word_new_line_6 | little
 unaware
 crane
 crunch
 cabin
 dish |  
-| bip_39_word_new_line7 | little
+| bip_39_word_new_line_7 | little
 unaware
 crane
 crunch
 cabin
 dish
 remove |  
-| bip_39_word_new_line8 | little
+| bip_39_word_new_line_8 | little
 unaware
 crane
 crunch
@@ -113,7 +113,7 @@ cabin
 dish
 remove
 inspire |  
-| bip_39_word_new_line9 | little
+| bip_39_word_new_line_9 | little
 unaware
 crane
 crunch

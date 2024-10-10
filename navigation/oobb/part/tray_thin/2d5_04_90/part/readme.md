@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | nice |  
-| bip_39_word_new_br10 | nice<br>inquiry<br>drop<br>notable<br>share<br>logic<br>gas<br>abuse<br>august<br>chapter |  
-| bip_39_word_new_br11 | nice<br>inquiry<br>drop<br>notable<br>share<br>logic<br>gas<br>abuse<br>august<br>chapter<br>topic |  
-| bip_39_word_new_br12 | nice<br>inquiry<br>drop<br>notable<br>share<br>logic<br>gas<br>abuse<br>august<br>chapter<br>topic<br>almost |  
-| bip_39_word_new_br2 | nice<br>inquiry |  
-| bip_39_word_new_br3 | nice<br>inquiry<br>drop |  
-| bip_39_word_new_br4 | nice<br>inquiry<br>drop<br>notable |  
-| bip_39_word_new_br5 | nice<br>inquiry<br>drop<br>notable<br>share |  
-| bip_39_word_new_br6 | nice<br>inquiry<br>drop<br>notable<br>share<br>logic |  
-| bip_39_word_new_br7 | nice<br>inquiry<br>drop<br>notable<br>share<br>logic<br>gas |  
-| bip_39_word_new_br8 | nice<br>inquiry<br>drop<br>notable<br>share<br>logic<br>gas<br>abuse |  
-| bip_39_word_new_br9 | nice<br>inquiry<br>drop<br>notable<br>share<br>logic<br>gas<br>abuse<br>august |  
-| bip_39_word_new_line1 | nice |  
-| bip_39_word_new_line10 | nice
+| bip_39_word_new_br_1 | nice |  
+| bip_39_word_new_br_10 | nice<br>inquiry<br>drop<br>notable<br>share<br>logic<br>gas<br>abuse<br>august<br>chapter |  
+| bip_39_word_new_br_11 | nice<br>inquiry<br>drop<br>notable<br>share<br>logic<br>gas<br>abuse<br>august<br>chapter<br>topic |  
+| bip_39_word_new_br_12 | nice<br>inquiry<br>drop<br>notable<br>share<br>logic<br>gas<br>abuse<br>august<br>chapter<br>topic<br>almost |  
+| bip_39_word_new_br_2 | nice<br>inquiry |  
+| bip_39_word_new_br_3 | nice<br>inquiry<br>drop |  
+| bip_39_word_new_br_4 | nice<br>inquiry<br>drop<br>notable |  
+| bip_39_word_new_br_5 | nice<br>inquiry<br>drop<br>notable<br>share |  
+| bip_39_word_new_br_6 | nice<br>inquiry<br>drop<br>notable<br>share<br>logic |  
+| bip_39_word_new_br_7 | nice<br>inquiry<br>drop<br>notable<br>share<br>logic<br>gas |  
+| bip_39_word_new_br_8 | nice<br>inquiry<br>drop<br>notable<br>share<br>logic<br>gas<br>abuse |  
+| bip_39_word_new_br_9 | nice<br>inquiry<br>drop<br>notable<br>share<br>logic<br>gas<br>abuse<br>august |  
+| bip_39_word_new_line_1 | nice |  
+| bip_39_word_new_line_10 | nice
 inquiry
 drop
 notable
@@ -55,7 +55,7 @@ gas
 abuse
 august
 chapter |  
-| bip_39_word_new_line11 | nice
+| bip_39_word_new_line_11 | nice
 inquiry
 drop
 notable
@@ -66,7 +66,7 @@ abuse
 august
 chapter
 topic |  
-| bip_39_word_new_line12 | nice
+| bip_39_word_new_line_12 | nice
 inquiry
 drop
 notable
@@ -78,34 +78,34 @@ august
 chapter
 topic
 almost |  
-| bip_39_word_new_line2 | nice
+| bip_39_word_new_line_2 | nice
 inquiry |  
-| bip_39_word_new_line3 | nice
+| bip_39_word_new_line_3 | nice
 inquiry
 drop |  
-| bip_39_word_new_line4 | nice
+| bip_39_word_new_line_4 | nice
 inquiry
 drop
 notable |  
-| bip_39_word_new_line5 | nice
+| bip_39_word_new_line_5 | nice
 inquiry
 drop
 notable
 share |  
-| bip_39_word_new_line6 | nice
+| bip_39_word_new_line_6 | nice
 inquiry
 drop
 notable
 share
 logic |  
-| bip_39_word_new_line7 | nice
+| bip_39_word_new_line_7 | nice
 inquiry
 drop
 notable
 share
 logic
 gas |  
-| bip_39_word_new_line8 | nice
+| bip_39_word_new_line_8 | nice
 inquiry
 drop
 notable
@@ -113,7 +113,7 @@ share
 logic
 gas
 abuse |  
-| bip_39_word_new_line9 | nice
+| bip_39_word_new_line_9 | nice
 inquiry
 drop
 notable

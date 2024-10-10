@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | reflect |  
-| bip_39_word_new_br10 | reflect<br>large<br>neck<br>normal<br>purity<br>rate<br>nephew<br>copy<br>magnet<br>patient |  
-| bip_39_word_new_br11 | reflect<br>large<br>neck<br>normal<br>purity<br>rate<br>nephew<br>copy<br>magnet<br>patient<br>idea |  
-| bip_39_word_new_br12 | reflect<br>large<br>neck<br>normal<br>purity<br>rate<br>nephew<br>copy<br>magnet<br>patient<br>idea<br>across |  
-| bip_39_word_new_br2 | reflect<br>large |  
-| bip_39_word_new_br3 | reflect<br>large<br>neck |  
-| bip_39_word_new_br4 | reflect<br>large<br>neck<br>normal |  
-| bip_39_word_new_br5 | reflect<br>large<br>neck<br>normal<br>purity |  
-| bip_39_word_new_br6 | reflect<br>large<br>neck<br>normal<br>purity<br>rate |  
-| bip_39_word_new_br7 | reflect<br>large<br>neck<br>normal<br>purity<br>rate<br>nephew |  
-| bip_39_word_new_br8 | reflect<br>large<br>neck<br>normal<br>purity<br>rate<br>nephew<br>copy |  
-| bip_39_word_new_br9 | reflect<br>large<br>neck<br>normal<br>purity<br>rate<br>nephew<br>copy<br>magnet |  
-| bip_39_word_new_line1 | reflect |  
-| bip_39_word_new_line10 | reflect
+| bip_39_word_new_br_1 | reflect |  
+| bip_39_word_new_br_10 | reflect<br>large<br>neck<br>normal<br>purity<br>rate<br>nephew<br>copy<br>magnet<br>patient |  
+| bip_39_word_new_br_11 | reflect<br>large<br>neck<br>normal<br>purity<br>rate<br>nephew<br>copy<br>magnet<br>patient<br>idea |  
+| bip_39_word_new_br_12 | reflect<br>large<br>neck<br>normal<br>purity<br>rate<br>nephew<br>copy<br>magnet<br>patient<br>idea<br>across |  
+| bip_39_word_new_br_2 | reflect<br>large |  
+| bip_39_word_new_br_3 | reflect<br>large<br>neck |  
+| bip_39_word_new_br_4 | reflect<br>large<br>neck<br>normal |  
+| bip_39_word_new_br_5 | reflect<br>large<br>neck<br>normal<br>purity |  
+| bip_39_word_new_br_6 | reflect<br>large<br>neck<br>normal<br>purity<br>rate |  
+| bip_39_word_new_br_7 | reflect<br>large<br>neck<br>normal<br>purity<br>rate<br>nephew |  
+| bip_39_word_new_br_8 | reflect<br>large<br>neck<br>normal<br>purity<br>rate<br>nephew<br>copy |  
+| bip_39_word_new_br_9 | reflect<br>large<br>neck<br>normal<br>purity<br>rate<br>nephew<br>copy<br>magnet |  
+| bip_39_word_new_line_1 | reflect |  
+| bip_39_word_new_line_10 | reflect
 large
 neck
 normal
@@ -55,7 +55,7 @@ nephew
 copy
 magnet
 patient |  
-| bip_39_word_new_line11 | reflect
+| bip_39_word_new_line_11 | reflect
 large
 neck
 normal
@@ -66,7 +66,7 @@ copy
 magnet
 patient
 idea |  
-| bip_39_word_new_line12 | reflect
+| bip_39_word_new_line_12 | reflect
 large
 neck
 normal
@@ -78,34 +78,34 @@ magnet
 patient
 idea
 across |  
-| bip_39_word_new_line2 | reflect
+| bip_39_word_new_line_2 | reflect
 large |  
-| bip_39_word_new_line3 | reflect
+| bip_39_word_new_line_3 | reflect
 large
 neck |  
-| bip_39_word_new_line4 | reflect
+| bip_39_word_new_line_4 | reflect
 large
 neck
 normal |  
-| bip_39_word_new_line5 | reflect
+| bip_39_word_new_line_5 | reflect
 large
 neck
 normal
 purity |  
-| bip_39_word_new_line6 | reflect
+| bip_39_word_new_line_6 | reflect
 large
 neck
 normal
 purity
 rate |  
-| bip_39_word_new_line7 | reflect
+| bip_39_word_new_line_7 | reflect
 large
 neck
 normal
 purity
 rate
 nephew |  
-| bip_39_word_new_line8 | reflect
+| bip_39_word_new_line_8 | reflect
 large
 neck
 normal
@@ -113,7 +113,7 @@ purity
 rate
 nephew
 copy |  
-| bip_39_word_new_line9 | reflect
+| bip_39_word_new_line_9 | reflect
 large
 neck
 normal

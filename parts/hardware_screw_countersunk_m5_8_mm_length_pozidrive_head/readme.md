@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | lady |  
-| bip_39_word_new_br10 | lady<br>away<br>three<br>mirror<br>miss<br>sell<br>flash<br>seek<br>heavy<br>subject |  
-| bip_39_word_new_br11 | lady<br>away<br>three<br>mirror<br>miss<br>sell<br>flash<br>seek<br>heavy<br>subject<br>voyage |  
-| bip_39_word_new_br12 | lady<br>away<br>three<br>mirror<br>miss<br>sell<br>flash<br>seek<br>heavy<br>subject<br>voyage<br>amazing |  
-| bip_39_word_new_br2 | lady<br>away |  
-| bip_39_word_new_br3 | lady<br>away<br>three |  
-| bip_39_word_new_br4 | lady<br>away<br>three<br>mirror |  
-| bip_39_word_new_br5 | lady<br>away<br>three<br>mirror<br>miss |  
-| bip_39_word_new_br6 | lady<br>away<br>three<br>mirror<br>miss<br>sell |  
-| bip_39_word_new_br7 | lady<br>away<br>three<br>mirror<br>miss<br>sell<br>flash |  
-| bip_39_word_new_br8 | lady<br>away<br>three<br>mirror<br>miss<br>sell<br>flash<br>seek |  
-| bip_39_word_new_br9 | lady<br>away<br>three<br>mirror<br>miss<br>sell<br>flash<br>seek<br>heavy |  
-| bip_39_word_new_line1 | lady |  
-| bip_39_word_new_line10 | lady
+| bip_39_word_new_br_1 | lady |  
+| bip_39_word_new_br_10 | lady<br>away<br>three<br>mirror<br>miss<br>sell<br>flash<br>seek<br>heavy<br>subject |  
+| bip_39_word_new_br_11 | lady<br>away<br>three<br>mirror<br>miss<br>sell<br>flash<br>seek<br>heavy<br>subject<br>voyage |  
+| bip_39_word_new_br_12 | lady<br>away<br>three<br>mirror<br>miss<br>sell<br>flash<br>seek<br>heavy<br>subject<br>voyage<br>amazing |  
+| bip_39_word_new_br_2 | lady<br>away |  
+| bip_39_word_new_br_3 | lady<br>away<br>three |  
+| bip_39_word_new_br_4 | lady<br>away<br>three<br>mirror |  
+| bip_39_word_new_br_5 | lady<br>away<br>three<br>mirror<br>miss |  
+| bip_39_word_new_br_6 | lady<br>away<br>three<br>mirror<br>miss<br>sell |  
+| bip_39_word_new_br_7 | lady<br>away<br>three<br>mirror<br>miss<br>sell<br>flash |  
+| bip_39_word_new_br_8 | lady<br>away<br>three<br>mirror<br>miss<br>sell<br>flash<br>seek |  
+| bip_39_word_new_br_9 | lady<br>away<br>three<br>mirror<br>miss<br>sell<br>flash<br>seek<br>heavy |  
+| bip_39_word_new_line_1 | lady |  
+| bip_39_word_new_line_10 | lady
 away
 three
 mirror
@@ -55,7 +55,7 @@ flash
 seek
 heavy
 subject |  
-| bip_39_word_new_line11 | lady
+| bip_39_word_new_line_11 | lady
 away
 three
 mirror
@@ -66,7 +66,7 @@ seek
 heavy
 subject
 voyage |  
-| bip_39_word_new_line12 | lady
+| bip_39_word_new_line_12 | lady
 away
 three
 mirror
@@ -78,34 +78,34 @@ heavy
 subject
 voyage
 amazing |  
-| bip_39_word_new_line2 | lady
+| bip_39_word_new_line_2 | lady
 away |  
-| bip_39_word_new_line3 | lady
+| bip_39_word_new_line_3 | lady
 away
 three |  
-| bip_39_word_new_line4 | lady
+| bip_39_word_new_line_4 | lady
 away
 three
 mirror |  
-| bip_39_word_new_line5 | lady
+| bip_39_word_new_line_5 | lady
 away
 three
 mirror
 miss |  
-| bip_39_word_new_line6 | lady
+| bip_39_word_new_line_6 | lady
 away
 three
 mirror
 miss
 sell |  
-| bip_39_word_new_line7 | lady
+| bip_39_word_new_line_7 | lady
 away
 three
 mirror
 miss
 sell
 flash |  
-| bip_39_word_new_line8 | lady
+| bip_39_word_new_line_8 | lady
 away
 three
 mirror
@@ -113,7 +113,7 @@ miss
 sell
 flash
 seek |  
-| bip_39_word_new_line9 | lady
+| bip_39_word_new_line_9 | lady
 away
 three
 mirror

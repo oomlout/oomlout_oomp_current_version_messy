@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | weapon |  
-| bip_39_word_new_br10 | weapon<br>another<br>stamp<br>method<br>antique<br>genuine<br>cushion<br>dinosaur<br>hold<br>nothing |  
-| bip_39_word_new_br11 | weapon<br>another<br>stamp<br>method<br>antique<br>genuine<br>cushion<br>dinosaur<br>hold<br>nothing<br>mother |  
-| bip_39_word_new_br12 | weapon<br>another<br>stamp<br>method<br>antique<br>genuine<br>cushion<br>dinosaur<br>hold<br>nothing<br>mother<br>artist |  
-| bip_39_word_new_br2 | weapon<br>another |  
-| bip_39_word_new_br3 | weapon<br>another<br>stamp |  
-| bip_39_word_new_br4 | weapon<br>another<br>stamp<br>method |  
-| bip_39_word_new_br5 | weapon<br>another<br>stamp<br>method<br>antique |  
-| bip_39_word_new_br6 | weapon<br>another<br>stamp<br>method<br>antique<br>genuine |  
-| bip_39_word_new_br7 | weapon<br>another<br>stamp<br>method<br>antique<br>genuine<br>cushion |  
-| bip_39_word_new_br8 | weapon<br>another<br>stamp<br>method<br>antique<br>genuine<br>cushion<br>dinosaur |  
-| bip_39_word_new_br9 | weapon<br>another<br>stamp<br>method<br>antique<br>genuine<br>cushion<br>dinosaur<br>hold |  
-| bip_39_word_new_line1 | weapon |  
-| bip_39_word_new_line10 | weapon
+| bip_39_word_new_br_1 | weapon |  
+| bip_39_word_new_br_10 | weapon<br>another<br>stamp<br>method<br>antique<br>genuine<br>cushion<br>dinosaur<br>hold<br>nothing |  
+| bip_39_word_new_br_11 | weapon<br>another<br>stamp<br>method<br>antique<br>genuine<br>cushion<br>dinosaur<br>hold<br>nothing<br>mother |  
+| bip_39_word_new_br_12 | weapon<br>another<br>stamp<br>method<br>antique<br>genuine<br>cushion<br>dinosaur<br>hold<br>nothing<br>mother<br>artist |  
+| bip_39_word_new_br_2 | weapon<br>another |  
+| bip_39_word_new_br_3 | weapon<br>another<br>stamp |  
+| bip_39_word_new_br_4 | weapon<br>another<br>stamp<br>method |  
+| bip_39_word_new_br_5 | weapon<br>another<br>stamp<br>method<br>antique |  
+| bip_39_word_new_br_6 | weapon<br>another<br>stamp<br>method<br>antique<br>genuine |  
+| bip_39_word_new_br_7 | weapon<br>another<br>stamp<br>method<br>antique<br>genuine<br>cushion |  
+| bip_39_word_new_br_8 | weapon<br>another<br>stamp<br>method<br>antique<br>genuine<br>cushion<br>dinosaur |  
+| bip_39_word_new_br_9 | weapon<br>another<br>stamp<br>method<br>antique<br>genuine<br>cushion<br>dinosaur<br>hold |  
+| bip_39_word_new_line_1 | weapon |  
+| bip_39_word_new_line_10 | weapon
 another
 stamp
 method
@@ -55,7 +55,7 @@ cushion
 dinosaur
 hold
 nothing |  
-| bip_39_word_new_line11 | weapon
+| bip_39_word_new_line_11 | weapon
 another
 stamp
 method
@@ -66,7 +66,7 @@ dinosaur
 hold
 nothing
 mother |  
-| bip_39_word_new_line12 | weapon
+| bip_39_word_new_line_12 | weapon
 another
 stamp
 method
@@ -78,34 +78,34 @@ hold
 nothing
 mother
 artist |  
-| bip_39_word_new_line2 | weapon
+| bip_39_word_new_line_2 | weapon
 another |  
-| bip_39_word_new_line3 | weapon
+| bip_39_word_new_line_3 | weapon
 another
 stamp |  
-| bip_39_word_new_line4 | weapon
+| bip_39_word_new_line_4 | weapon
 another
 stamp
 method |  
-| bip_39_word_new_line5 | weapon
+| bip_39_word_new_line_5 | weapon
 another
 stamp
 method
 antique |  
-| bip_39_word_new_line6 | weapon
+| bip_39_word_new_line_6 | weapon
 another
 stamp
 method
 antique
 genuine |  
-| bip_39_word_new_line7 | weapon
+| bip_39_word_new_line_7 | weapon
 another
 stamp
 method
 antique
 genuine
 cushion |  
-| bip_39_word_new_line8 | weapon
+| bip_39_word_new_line_8 | weapon
 another
 stamp
 method
@@ -113,7 +113,7 @@ antique
 genuine
 cushion
 dinosaur |  
-| bip_39_word_new_line9 | weapon
+| bip_39_word_new_line_9 | weapon
 another
 stamp
 method

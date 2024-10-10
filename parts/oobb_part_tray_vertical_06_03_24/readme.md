@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | entire |  
-| bip_39_word_new_br10 | entire<br>ski<br>razor<br>acquire<br>reform<br>cliff<br>manual<br>enter<br>city<br>term |  
-| bip_39_word_new_br11 | entire<br>ski<br>razor<br>acquire<br>reform<br>cliff<br>manual<br>enter<br>city<br>term<br>birth |  
-| bip_39_word_new_br12 | entire<br>ski<br>razor<br>acquire<br>reform<br>cliff<br>manual<br>enter<br>city<br>term<br>birth<br>admit |  
-| bip_39_word_new_br2 | entire<br>ski |  
-| bip_39_word_new_br3 | entire<br>ski<br>razor |  
-| bip_39_word_new_br4 | entire<br>ski<br>razor<br>acquire |  
-| bip_39_word_new_br5 | entire<br>ski<br>razor<br>acquire<br>reform |  
-| bip_39_word_new_br6 | entire<br>ski<br>razor<br>acquire<br>reform<br>cliff |  
-| bip_39_word_new_br7 | entire<br>ski<br>razor<br>acquire<br>reform<br>cliff<br>manual |  
-| bip_39_word_new_br8 | entire<br>ski<br>razor<br>acquire<br>reform<br>cliff<br>manual<br>enter |  
-| bip_39_word_new_br9 | entire<br>ski<br>razor<br>acquire<br>reform<br>cliff<br>manual<br>enter<br>city |  
-| bip_39_word_new_line1 | entire |  
-| bip_39_word_new_line10 | entire
+| bip_39_word_new_br_1 | entire |  
+| bip_39_word_new_br_10 | entire<br>ski<br>razor<br>acquire<br>reform<br>cliff<br>manual<br>enter<br>city<br>term |  
+| bip_39_word_new_br_11 | entire<br>ski<br>razor<br>acquire<br>reform<br>cliff<br>manual<br>enter<br>city<br>term<br>birth |  
+| bip_39_word_new_br_12 | entire<br>ski<br>razor<br>acquire<br>reform<br>cliff<br>manual<br>enter<br>city<br>term<br>birth<br>admit |  
+| bip_39_word_new_br_2 | entire<br>ski |  
+| bip_39_word_new_br_3 | entire<br>ski<br>razor |  
+| bip_39_word_new_br_4 | entire<br>ski<br>razor<br>acquire |  
+| bip_39_word_new_br_5 | entire<br>ski<br>razor<br>acquire<br>reform |  
+| bip_39_word_new_br_6 | entire<br>ski<br>razor<br>acquire<br>reform<br>cliff |  
+| bip_39_word_new_br_7 | entire<br>ski<br>razor<br>acquire<br>reform<br>cliff<br>manual |  
+| bip_39_word_new_br_8 | entire<br>ski<br>razor<br>acquire<br>reform<br>cliff<br>manual<br>enter |  
+| bip_39_word_new_br_9 | entire<br>ski<br>razor<br>acquire<br>reform<br>cliff<br>manual<br>enter<br>city |  
+| bip_39_word_new_line_1 | entire |  
+| bip_39_word_new_line_10 | entire
 ski
 razor
 acquire
@@ -55,7 +55,7 @@ manual
 enter
 city
 term |  
-| bip_39_word_new_line11 | entire
+| bip_39_word_new_line_11 | entire
 ski
 razor
 acquire
@@ -66,7 +66,7 @@ enter
 city
 term
 birth |  
-| bip_39_word_new_line12 | entire
+| bip_39_word_new_line_12 | entire
 ski
 razor
 acquire
@@ -78,34 +78,34 @@ city
 term
 birth
 admit |  
-| bip_39_word_new_line2 | entire
+| bip_39_word_new_line_2 | entire
 ski |  
-| bip_39_word_new_line3 | entire
+| bip_39_word_new_line_3 | entire
 ski
 razor |  
-| bip_39_word_new_line4 | entire
+| bip_39_word_new_line_4 | entire
 ski
 razor
 acquire |  
-| bip_39_word_new_line5 | entire
+| bip_39_word_new_line_5 | entire
 ski
 razor
 acquire
 reform |  
-| bip_39_word_new_line6 | entire
+| bip_39_word_new_line_6 | entire
 ski
 razor
 acquire
 reform
 cliff |  
-| bip_39_word_new_line7 | entire
+| bip_39_word_new_line_7 | entire
 ski
 razor
 acquire
 reform
 cliff
 manual |  
-| bip_39_word_new_line8 | entire
+| bip_39_word_new_line_8 | entire
 ski
 razor
 acquire
@@ -113,7 +113,7 @@ reform
 cliff
 manual
 enter |  
-| bip_39_word_new_line9 | entire
+| bip_39_word_new_line_9 | entire
 ski
 razor
 acquire

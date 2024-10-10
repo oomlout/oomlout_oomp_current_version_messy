@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | brave |  
-| bip_39_word_new_br10 | brave<br>tell<br>home<br>thank<br>example<br>border<br>system<br>price<br>elite<br>relax |  
-| bip_39_word_new_br11 | brave<br>tell<br>home<br>thank<br>example<br>border<br>system<br>price<br>elite<br>relax<br>giant |  
-| bip_39_word_new_br12 | brave<br>tell<br>home<br>thank<br>example<br>border<br>system<br>price<br>elite<br>relax<br>giant<br>autumn |  
-| bip_39_word_new_br2 | brave<br>tell |  
-| bip_39_word_new_br3 | brave<br>tell<br>home |  
-| bip_39_word_new_br4 | brave<br>tell<br>home<br>thank |  
-| bip_39_word_new_br5 | brave<br>tell<br>home<br>thank<br>example |  
-| bip_39_word_new_br6 | brave<br>tell<br>home<br>thank<br>example<br>border |  
-| bip_39_word_new_br7 | brave<br>tell<br>home<br>thank<br>example<br>border<br>system |  
-| bip_39_word_new_br8 | brave<br>tell<br>home<br>thank<br>example<br>border<br>system<br>price |  
-| bip_39_word_new_br9 | brave<br>tell<br>home<br>thank<br>example<br>border<br>system<br>price<br>elite |  
-| bip_39_word_new_line1 | brave |  
-| bip_39_word_new_line10 | brave
+| bip_39_word_new_br_1 | brave |  
+| bip_39_word_new_br_10 | brave<br>tell<br>home<br>thank<br>example<br>border<br>system<br>price<br>elite<br>relax |  
+| bip_39_word_new_br_11 | brave<br>tell<br>home<br>thank<br>example<br>border<br>system<br>price<br>elite<br>relax<br>giant |  
+| bip_39_word_new_br_12 | brave<br>tell<br>home<br>thank<br>example<br>border<br>system<br>price<br>elite<br>relax<br>giant<br>autumn |  
+| bip_39_word_new_br_2 | brave<br>tell |  
+| bip_39_word_new_br_3 | brave<br>tell<br>home |  
+| bip_39_word_new_br_4 | brave<br>tell<br>home<br>thank |  
+| bip_39_word_new_br_5 | brave<br>tell<br>home<br>thank<br>example |  
+| bip_39_word_new_br_6 | brave<br>tell<br>home<br>thank<br>example<br>border |  
+| bip_39_word_new_br_7 | brave<br>tell<br>home<br>thank<br>example<br>border<br>system |  
+| bip_39_word_new_br_8 | brave<br>tell<br>home<br>thank<br>example<br>border<br>system<br>price |  
+| bip_39_word_new_br_9 | brave<br>tell<br>home<br>thank<br>example<br>border<br>system<br>price<br>elite |  
+| bip_39_word_new_line_1 | brave |  
+| bip_39_word_new_line_10 | brave
 tell
 home
 thank
@@ -55,7 +55,7 @@ system
 price
 elite
 relax |  
-| bip_39_word_new_line11 | brave
+| bip_39_word_new_line_11 | brave
 tell
 home
 thank
@@ -66,7 +66,7 @@ price
 elite
 relax
 giant |  
-| bip_39_word_new_line12 | brave
+| bip_39_word_new_line_12 | brave
 tell
 home
 thank
@@ -78,34 +78,34 @@ elite
 relax
 giant
 autumn |  
-| bip_39_word_new_line2 | brave
+| bip_39_word_new_line_2 | brave
 tell |  
-| bip_39_word_new_line3 | brave
+| bip_39_word_new_line_3 | brave
 tell
 home |  
-| bip_39_word_new_line4 | brave
+| bip_39_word_new_line_4 | brave
 tell
 home
 thank |  
-| bip_39_word_new_line5 | brave
+| bip_39_word_new_line_5 | brave
 tell
 home
 thank
 example |  
-| bip_39_word_new_line6 | brave
+| bip_39_word_new_line_6 | brave
 tell
 home
 thank
 example
 border |  
-| bip_39_word_new_line7 | brave
+| bip_39_word_new_line_7 | brave
 tell
 home
 thank
 example
 border
 system |  
-| bip_39_word_new_line8 | brave
+| bip_39_word_new_line_8 | brave
 tell
 home
 thank
@@ -113,7 +113,7 @@ example
 border
 system
 price |  
-| bip_39_word_new_line9 | brave
+| bip_39_word_new_line_9 | brave
 tell
 home
 thank

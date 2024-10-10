@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | river |  
-| bip_39_word_new_br10 | river<br>pattern<br>rack<br>devote<br>worry<br>misery<br>chief<br>trophy<br>roast<br>bitter |  
-| bip_39_word_new_br11 | river<br>pattern<br>rack<br>devote<br>worry<br>misery<br>chief<br>trophy<br>roast<br>bitter<br>one |  
-| bip_39_word_new_br12 | river<br>pattern<br>rack<br>devote<br>worry<br>misery<br>chief<br>trophy<br>roast<br>bitter<br>one<br>animal |  
-| bip_39_word_new_br2 | river<br>pattern |  
-| bip_39_word_new_br3 | river<br>pattern<br>rack |  
-| bip_39_word_new_br4 | river<br>pattern<br>rack<br>devote |  
-| bip_39_word_new_br5 | river<br>pattern<br>rack<br>devote<br>worry |  
-| bip_39_word_new_br6 | river<br>pattern<br>rack<br>devote<br>worry<br>misery |  
-| bip_39_word_new_br7 | river<br>pattern<br>rack<br>devote<br>worry<br>misery<br>chief |  
-| bip_39_word_new_br8 | river<br>pattern<br>rack<br>devote<br>worry<br>misery<br>chief<br>trophy |  
-| bip_39_word_new_br9 | river<br>pattern<br>rack<br>devote<br>worry<br>misery<br>chief<br>trophy<br>roast |  
-| bip_39_word_new_line1 | river |  
-| bip_39_word_new_line10 | river
+| bip_39_word_new_br_1 | river |  
+| bip_39_word_new_br_10 | river<br>pattern<br>rack<br>devote<br>worry<br>misery<br>chief<br>trophy<br>roast<br>bitter |  
+| bip_39_word_new_br_11 | river<br>pattern<br>rack<br>devote<br>worry<br>misery<br>chief<br>trophy<br>roast<br>bitter<br>one |  
+| bip_39_word_new_br_12 | river<br>pattern<br>rack<br>devote<br>worry<br>misery<br>chief<br>trophy<br>roast<br>bitter<br>one<br>animal |  
+| bip_39_word_new_br_2 | river<br>pattern |  
+| bip_39_word_new_br_3 | river<br>pattern<br>rack |  
+| bip_39_word_new_br_4 | river<br>pattern<br>rack<br>devote |  
+| bip_39_word_new_br_5 | river<br>pattern<br>rack<br>devote<br>worry |  
+| bip_39_word_new_br_6 | river<br>pattern<br>rack<br>devote<br>worry<br>misery |  
+| bip_39_word_new_br_7 | river<br>pattern<br>rack<br>devote<br>worry<br>misery<br>chief |  
+| bip_39_word_new_br_8 | river<br>pattern<br>rack<br>devote<br>worry<br>misery<br>chief<br>trophy |  
+| bip_39_word_new_br_9 | river<br>pattern<br>rack<br>devote<br>worry<br>misery<br>chief<br>trophy<br>roast |  
+| bip_39_word_new_line_1 | river |  
+| bip_39_word_new_line_10 | river
 pattern
 rack
 devote
@@ -55,7 +55,7 @@ chief
 trophy
 roast
 bitter |  
-| bip_39_word_new_line11 | river
+| bip_39_word_new_line_11 | river
 pattern
 rack
 devote
@@ -66,7 +66,7 @@ trophy
 roast
 bitter
 one |  
-| bip_39_word_new_line12 | river
+| bip_39_word_new_line_12 | river
 pattern
 rack
 devote
@@ -78,34 +78,34 @@ roast
 bitter
 one
 animal |  
-| bip_39_word_new_line2 | river
+| bip_39_word_new_line_2 | river
 pattern |  
-| bip_39_word_new_line3 | river
+| bip_39_word_new_line_3 | river
 pattern
 rack |  
-| bip_39_word_new_line4 | river
+| bip_39_word_new_line_4 | river
 pattern
 rack
 devote |  
-| bip_39_word_new_line5 | river
+| bip_39_word_new_line_5 | river
 pattern
 rack
 devote
 worry |  
-| bip_39_word_new_line6 | river
+| bip_39_word_new_line_6 | river
 pattern
 rack
 devote
 worry
 misery |  
-| bip_39_word_new_line7 | river
+| bip_39_word_new_line_7 | river
 pattern
 rack
 devote
 worry
 misery
 chief |  
-| bip_39_word_new_line8 | river
+| bip_39_word_new_line_8 | river
 pattern
 rack
 devote
@@ -113,7 +113,7 @@ worry
 misery
 chief
 trophy |  
-| bip_39_word_new_line9 | river
+| bip_39_word_new_line_9 | river
 pattern
 rack
 devote

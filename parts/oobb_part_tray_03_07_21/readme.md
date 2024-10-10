@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ring |  
-| bip_39_word_new_br10 | ring<br>fox<br>loan<br>rigid<br>equal<br>street<br>lonely<br>hair<br>immune<br>document |  
-| bip_39_word_new_br11 | ring<br>fox<br>loan<br>rigid<br>equal<br>street<br>lonely<br>hair<br>immune<br>document<br>island |  
-| bip_39_word_new_br12 | ring<br>fox<br>loan<br>rigid<br>equal<br>street<br>lonely<br>hair<br>immune<br>document<br>island<br>artist |  
-| bip_39_word_new_br2 | ring<br>fox |  
-| bip_39_word_new_br3 | ring<br>fox<br>loan |  
-| bip_39_word_new_br4 | ring<br>fox<br>loan<br>rigid |  
-| bip_39_word_new_br5 | ring<br>fox<br>loan<br>rigid<br>equal |  
-| bip_39_word_new_br6 | ring<br>fox<br>loan<br>rigid<br>equal<br>street |  
-| bip_39_word_new_br7 | ring<br>fox<br>loan<br>rigid<br>equal<br>street<br>lonely |  
-| bip_39_word_new_br8 | ring<br>fox<br>loan<br>rigid<br>equal<br>street<br>lonely<br>hair |  
-| bip_39_word_new_br9 | ring<br>fox<br>loan<br>rigid<br>equal<br>street<br>lonely<br>hair<br>immune |  
-| bip_39_word_new_line1 | ring |  
-| bip_39_word_new_line10 | ring
+| bip_39_word_new_br_1 | ring |  
+| bip_39_word_new_br_10 | ring<br>fox<br>loan<br>rigid<br>equal<br>street<br>lonely<br>hair<br>immune<br>document |  
+| bip_39_word_new_br_11 | ring<br>fox<br>loan<br>rigid<br>equal<br>street<br>lonely<br>hair<br>immune<br>document<br>island |  
+| bip_39_word_new_br_12 | ring<br>fox<br>loan<br>rigid<br>equal<br>street<br>lonely<br>hair<br>immune<br>document<br>island<br>artist |  
+| bip_39_word_new_br_2 | ring<br>fox |  
+| bip_39_word_new_br_3 | ring<br>fox<br>loan |  
+| bip_39_word_new_br_4 | ring<br>fox<br>loan<br>rigid |  
+| bip_39_word_new_br_5 | ring<br>fox<br>loan<br>rigid<br>equal |  
+| bip_39_word_new_br_6 | ring<br>fox<br>loan<br>rigid<br>equal<br>street |  
+| bip_39_word_new_br_7 | ring<br>fox<br>loan<br>rigid<br>equal<br>street<br>lonely |  
+| bip_39_word_new_br_8 | ring<br>fox<br>loan<br>rigid<br>equal<br>street<br>lonely<br>hair |  
+| bip_39_word_new_br_9 | ring<br>fox<br>loan<br>rigid<br>equal<br>street<br>lonely<br>hair<br>immune |  
+| bip_39_word_new_line_1 | ring |  
+| bip_39_word_new_line_10 | ring
 fox
 loan
 rigid
@@ -55,7 +55,7 @@ lonely
 hair
 immune
 document |  
-| bip_39_word_new_line11 | ring
+| bip_39_word_new_line_11 | ring
 fox
 loan
 rigid
@@ -66,7 +66,7 @@ hair
 immune
 document
 island |  
-| bip_39_word_new_line12 | ring
+| bip_39_word_new_line_12 | ring
 fox
 loan
 rigid
@@ -78,34 +78,34 @@ immune
 document
 island
 artist |  
-| bip_39_word_new_line2 | ring
+| bip_39_word_new_line_2 | ring
 fox |  
-| bip_39_word_new_line3 | ring
+| bip_39_word_new_line_3 | ring
 fox
 loan |  
-| bip_39_word_new_line4 | ring
+| bip_39_word_new_line_4 | ring
 fox
 loan
 rigid |  
-| bip_39_word_new_line5 | ring
+| bip_39_word_new_line_5 | ring
 fox
 loan
 rigid
 equal |  
-| bip_39_word_new_line6 | ring
+| bip_39_word_new_line_6 | ring
 fox
 loan
 rigid
 equal
 street |  
-| bip_39_word_new_line7 | ring
+| bip_39_word_new_line_7 | ring
 fox
 loan
 rigid
 equal
 street
 lonely |  
-| bip_39_word_new_line8 | ring
+| bip_39_word_new_line_8 | ring
 fox
 loan
 rigid
@@ -113,7 +113,7 @@ equal
 street
 lonely
 hair |  
-| bip_39_word_new_line9 | ring
+| bip_39_word_new_line_9 | ring
 fox
 loan
 rigid

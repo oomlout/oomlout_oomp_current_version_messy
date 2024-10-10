@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | announce |  
-| bip_39_word_new_br10 | announce<br>ancient<br>ill<br>badge<br>snack<br>spot<br>dust<br>fringe<br>shine<br>gentle |  
-| bip_39_word_new_br11 | announce<br>ancient<br>ill<br>badge<br>snack<br>spot<br>dust<br>fringe<br>shine<br>gentle<br>able |  
-| bip_39_word_new_br12 | announce<br>ancient<br>ill<br>badge<br>snack<br>spot<br>dust<br>fringe<br>shine<br>gentle<br>able<br>author |  
-| bip_39_word_new_br2 | announce<br>ancient |  
-| bip_39_word_new_br3 | announce<br>ancient<br>ill |  
-| bip_39_word_new_br4 | announce<br>ancient<br>ill<br>badge |  
-| bip_39_word_new_br5 | announce<br>ancient<br>ill<br>badge<br>snack |  
-| bip_39_word_new_br6 | announce<br>ancient<br>ill<br>badge<br>snack<br>spot |  
-| bip_39_word_new_br7 | announce<br>ancient<br>ill<br>badge<br>snack<br>spot<br>dust |  
-| bip_39_word_new_br8 | announce<br>ancient<br>ill<br>badge<br>snack<br>spot<br>dust<br>fringe |  
-| bip_39_word_new_br9 | announce<br>ancient<br>ill<br>badge<br>snack<br>spot<br>dust<br>fringe<br>shine |  
-| bip_39_word_new_line1 | announce |  
-| bip_39_word_new_line10 | announce
+| bip_39_word_new_br_1 | announce |  
+| bip_39_word_new_br_10 | announce<br>ancient<br>ill<br>badge<br>snack<br>spot<br>dust<br>fringe<br>shine<br>gentle |  
+| bip_39_word_new_br_11 | announce<br>ancient<br>ill<br>badge<br>snack<br>spot<br>dust<br>fringe<br>shine<br>gentle<br>able |  
+| bip_39_word_new_br_12 | announce<br>ancient<br>ill<br>badge<br>snack<br>spot<br>dust<br>fringe<br>shine<br>gentle<br>able<br>author |  
+| bip_39_word_new_br_2 | announce<br>ancient |  
+| bip_39_word_new_br_3 | announce<br>ancient<br>ill |  
+| bip_39_word_new_br_4 | announce<br>ancient<br>ill<br>badge |  
+| bip_39_word_new_br_5 | announce<br>ancient<br>ill<br>badge<br>snack |  
+| bip_39_word_new_br_6 | announce<br>ancient<br>ill<br>badge<br>snack<br>spot |  
+| bip_39_word_new_br_7 | announce<br>ancient<br>ill<br>badge<br>snack<br>spot<br>dust |  
+| bip_39_word_new_br_8 | announce<br>ancient<br>ill<br>badge<br>snack<br>spot<br>dust<br>fringe |  
+| bip_39_word_new_br_9 | announce<br>ancient<br>ill<br>badge<br>snack<br>spot<br>dust<br>fringe<br>shine |  
+| bip_39_word_new_line_1 | announce |  
+| bip_39_word_new_line_10 | announce
 ancient
 ill
 badge
@@ -55,7 +55,7 @@ dust
 fringe
 shine
 gentle |  
-| bip_39_word_new_line11 | announce
+| bip_39_word_new_line_11 | announce
 ancient
 ill
 badge
@@ -66,7 +66,7 @@ fringe
 shine
 gentle
 able |  
-| bip_39_word_new_line12 | announce
+| bip_39_word_new_line_12 | announce
 ancient
 ill
 badge
@@ -78,34 +78,34 @@ shine
 gentle
 able
 author |  
-| bip_39_word_new_line2 | announce
+| bip_39_word_new_line_2 | announce
 ancient |  
-| bip_39_word_new_line3 | announce
+| bip_39_word_new_line_3 | announce
 ancient
 ill |  
-| bip_39_word_new_line4 | announce
+| bip_39_word_new_line_4 | announce
 ancient
 ill
 badge |  
-| bip_39_word_new_line5 | announce
+| bip_39_word_new_line_5 | announce
 ancient
 ill
 badge
 snack |  
-| bip_39_word_new_line6 | announce
+| bip_39_word_new_line_6 | announce
 ancient
 ill
 badge
 snack
 spot |  
-| bip_39_word_new_line7 | announce
+| bip_39_word_new_line_7 | announce
 ancient
 ill
 badge
 snack
 spot
 dust |  
-| bip_39_word_new_line8 | announce
+| bip_39_word_new_line_8 | announce
 ancient
 ill
 badge
@@ -113,7 +113,7 @@ snack
 spot
 dust
 fringe |  
-| bip_39_word_new_line9 | announce
+| bip_39_word_new_line_9 | announce
 ancient
 ill
 badge

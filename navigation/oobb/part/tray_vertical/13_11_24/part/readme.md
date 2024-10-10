@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cheap |  
-| bip_39_word_new_br10 | cheap<br>negative<br>stem<br>enter<br>stage<br>choice<br>divide<br>insane<br>elevator<br>dry |  
-| bip_39_word_new_br11 | cheap<br>negative<br>stem<br>enter<br>stage<br>choice<br>divide<br>insane<br>elevator<br>dry<br>pave |  
-| bip_39_word_new_br12 | cheap<br>negative<br>stem<br>enter<br>stage<br>choice<br>divide<br>insane<br>elevator<br>dry<br>pave<br>apple |  
-| bip_39_word_new_br2 | cheap<br>negative |  
-| bip_39_word_new_br3 | cheap<br>negative<br>stem |  
-| bip_39_word_new_br4 | cheap<br>negative<br>stem<br>enter |  
-| bip_39_word_new_br5 | cheap<br>negative<br>stem<br>enter<br>stage |  
-| bip_39_word_new_br6 | cheap<br>negative<br>stem<br>enter<br>stage<br>choice |  
-| bip_39_word_new_br7 | cheap<br>negative<br>stem<br>enter<br>stage<br>choice<br>divide |  
-| bip_39_word_new_br8 | cheap<br>negative<br>stem<br>enter<br>stage<br>choice<br>divide<br>insane |  
-| bip_39_word_new_br9 | cheap<br>negative<br>stem<br>enter<br>stage<br>choice<br>divide<br>insane<br>elevator |  
-| bip_39_word_new_line1 | cheap |  
-| bip_39_word_new_line10 | cheap
+| bip_39_word_new_br_1 | cheap |  
+| bip_39_word_new_br_10 | cheap<br>negative<br>stem<br>enter<br>stage<br>choice<br>divide<br>insane<br>elevator<br>dry |  
+| bip_39_word_new_br_11 | cheap<br>negative<br>stem<br>enter<br>stage<br>choice<br>divide<br>insane<br>elevator<br>dry<br>pave |  
+| bip_39_word_new_br_12 | cheap<br>negative<br>stem<br>enter<br>stage<br>choice<br>divide<br>insane<br>elevator<br>dry<br>pave<br>apple |  
+| bip_39_word_new_br_2 | cheap<br>negative |  
+| bip_39_word_new_br_3 | cheap<br>negative<br>stem |  
+| bip_39_word_new_br_4 | cheap<br>negative<br>stem<br>enter |  
+| bip_39_word_new_br_5 | cheap<br>negative<br>stem<br>enter<br>stage |  
+| bip_39_word_new_br_6 | cheap<br>negative<br>stem<br>enter<br>stage<br>choice |  
+| bip_39_word_new_br_7 | cheap<br>negative<br>stem<br>enter<br>stage<br>choice<br>divide |  
+| bip_39_word_new_br_8 | cheap<br>negative<br>stem<br>enter<br>stage<br>choice<br>divide<br>insane |  
+| bip_39_word_new_br_9 | cheap<br>negative<br>stem<br>enter<br>stage<br>choice<br>divide<br>insane<br>elevator |  
+| bip_39_word_new_line_1 | cheap |  
+| bip_39_word_new_line_10 | cheap
 negative
 stem
 enter
@@ -55,7 +55,7 @@ divide
 insane
 elevator
 dry |  
-| bip_39_word_new_line11 | cheap
+| bip_39_word_new_line_11 | cheap
 negative
 stem
 enter
@@ -66,7 +66,7 @@ insane
 elevator
 dry
 pave |  
-| bip_39_word_new_line12 | cheap
+| bip_39_word_new_line_12 | cheap
 negative
 stem
 enter
@@ -78,34 +78,34 @@ elevator
 dry
 pave
 apple |  
-| bip_39_word_new_line2 | cheap
+| bip_39_word_new_line_2 | cheap
 negative |  
-| bip_39_word_new_line3 | cheap
+| bip_39_word_new_line_3 | cheap
 negative
 stem |  
-| bip_39_word_new_line4 | cheap
+| bip_39_word_new_line_4 | cheap
 negative
 stem
 enter |  
-| bip_39_word_new_line5 | cheap
+| bip_39_word_new_line_5 | cheap
 negative
 stem
 enter
 stage |  
-| bip_39_word_new_line6 | cheap
+| bip_39_word_new_line_6 | cheap
 negative
 stem
 enter
 stage
 choice |  
-| bip_39_word_new_line7 | cheap
+| bip_39_word_new_line_7 | cheap
 negative
 stem
 enter
 stage
 choice
 divide |  
-| bip_39_word_new_line8 | cheap
+| bip_39_word_new_line_8 | cheap
 negative
 stem
 enter
@@ -113,7 +113,7 @@ stage
 choice
 divide
 insane |  
-| bip_39_word_new_line9 | cheap
+| bip_39_word_new_line_9 | cheap
 negative
 stem
 enter

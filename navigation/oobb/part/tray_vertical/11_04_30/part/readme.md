@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | regret |  
-| bip_39_word_new_br10 | regret<br>enact<br>twenty<br>limb<br>chase<br>course<br>blood<br>charge<br>peace<br>hockey |  
-| bip_39_word_new_br11 | regret<br>enact<br>twenty<br>limb<br>chase<br>course<br>blood<br>charge<br>peace<br>hockey<br>actor |  
-| bip_39_word_new_br12 | regret<br>enact<br>twenty<br>limb<br>chase<br>course<br>blood<br>charge<br>peace<br>hockey<br>actor<br>angry |  
-| bip_39_word_new_br2 | regret<br>enact |  
-| bip_39_word_new_br3 | regret<br>enact<br>twenty |  
-| bip_39_word_new_br4 | regret<br>enact<br>twenty<br>limb |  
-| bip_39_word_new_br5 | regret<br>enact<br>twenty<br>limb<br>chase |  
-| bip_39_word_new_br6 | regret<br>enact<br>twenty<br>limb<br>chase<br>course |  
-| bip_39_word_new_br7 | regret<br>enact<br>twenty<br>limb<br>chase<br>course<br>blood |  
-| bip_39_word_new_br8 | regret<br>enact<br>twenty<br>limb<br>chase<br>course<br>blood<br>charge |  
-| bip_39_word_new_br9 | regret<br>enact<br>twenty<br>limb<br>chase<br>course<br>blood<br>charge<br>peace |  
-| bip_39_word_new_line1 | regret |  
-| bip_39_word_new_line10 | regret
+| bip_39_word_new_br_1 | regret |  
+| bip_39_word_new_br_10 | regret<br>enact<br>twenty<br>limb<br>chase<br>course<br>blood<br>charge<br>peace<br>hockey |  
+| bip_39_word_new_br_11 | regret<br>enact<br>twenty<br>limb<br>chase<br>course<br>blood<br>charge<br>peace<br>hockey<br>actor |  
+| bip_39_word_new_br_12 | regret<br>enact<br>twenty<br>limb<br>chase<br>course<br>blood<br>charge<br>peace<br>hockey<br>actor<br>angry |  
+| bip_39_word_new_br_2 | regret<br>enact |  
+| bip_39_word_new_br_3 | regret<br>enact<br>twenty |  
+| bip_39_word_new_br_4 | regret<br>enact<br>twenty<br>limb |  
+| bip_39_word_new_br_5 | regret<br>enact<br>twenty<br>limb<br>chase |  
+| bip_39_word_new_br_6 | regret<br>enact<br>twenty<br>limb<br>chase<br>course |  
+| bip_39_word_new_br_7 | regret<br>enact<br>twenty<br>limb<br>chase<br>course<br>blood |  
+| bip_39_word_new_br_8 | regret<br>enact<br>twenty<br>limb<br>chase<br>course<br>blood<br>charge |  
+| bip_39_word_new_br_9 | regret<br>enact<br>twenty<br>limb<br>chase<br>course<br>blood<br>charge<br>peace |  
+| bip_39_word_new_line_1 | regret |  
+| bip_39_word_new_line_10 | regret
 enact
 twenty
 limb
@@ -55,7 +55,7 @@ blood
 charge
 peace
 hockey |  
-| bip_39_word_new_line11 | regret
+| bip_39_word_new_line_11 | regret
 enact
 twenty
 limb
@@ -66,7 +66,7 @@ charge
 peace
 hockey
 actor |  
-| bip_39_word_new_line12 | regret
+| bip_39_word_new_line_12 | regret
 enact
 twenty
 limb
@@ -78,34 +78,34 @@ peace
 hockey
 actor
 angry |  
-| bip_39_word_new_line2 | regret
+| bip_39_word_new_line_2 | regret
 enact |  
-| bip_39_word_new_line3 | regret
+| bip_39_word_new_line_3 | regret
 enact
 twenty |  
-| bip_39_word_new_line4 | regret
+| bip_39_word_new_line_4 | regret
 enact
 twenty
 limb |  
-| bip_39_word_new_line5 | regret
+| bip_39_word_new_line_5 | regret
 enact
 twenty
 limb
 chase |  
-| bip_39_word_new_line6 | regret
+| bip_39_word_new_line_6 | regret
 enact
 twenty
 limb
 chase
 course |  
-| bip_39_word_new_line7 | regret
+| bip_39_word_new_line_7 | regret
 enact
 twenty
 limb
 chase
 course
 blood |  
-| bip_39_word_new_line8 | regret
+| bip_39_word_new_line_8 | regret
 enact
 twenty
 limb
@@ -113,7 +113,7 @@ chase
 course
 blood
 charge |  
-| bip_39_word_new_line9 | regret
+| bip_39_word_new_line_9 | regret
 enact
 twenty
 limb

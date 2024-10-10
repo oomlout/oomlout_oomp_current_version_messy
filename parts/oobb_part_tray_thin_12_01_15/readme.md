@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | flush |  
-| bip_39_word_new_br10 | flush<br>tide<br>announce<br>receive<br>reduce<br>guilt<br>review<br>nerve<br>patient<br>prevent |  
-| bip_39_word_new_br11 | flush<br>tide<br>announce<br>receive<br>reduce<br>guilt<br>review<br>nerve<br>patient<br>prevent<br>omit |  
-| bip_39_word_new_br12 | flush<br>tide<br>announce<br>receive<br>reduce<br>guilt<br>review<br>nerve<br>patient<br>prevent<br>omit<br>alley |  
-| bip_39_word_new_br2 | flush<br>tide |  
-| bip_39_word_new_br3 | flush<br>tide<br>announce |  
-| bip_39_word_new_br4 | flush<br>tide<br>announce<br>receive |  
-| bip_39_word_new_br5 | flush<br>tide<br>announce<br>receive<br>reduce |  
-| bip_39_word_new_br6 | flush<br>tide<br>announce<br>receive<br>reduce<br>guilt |  
-| bip_39_word_new_br7 | flush<br>tide<br>announce<br>receive<br>reduce<br>guilt<br>review |  
-| bip_39_word_new_br8 | flush<br>tide<br>announce<br>receive<br>reduce<br>guilt<br>review<br>nerve |  
-| bip_39_word_new_br9 | flush<br>tide<br>announce<br>receive<br>reduce<br>guilt<br>review<br>nerve<br>patient |  
-| bip_39_word_new_line1 | flush |  
-| bip_39_word_new_line10 | flush
+| bip_39_word_new_br_1 | flush |  
+| bip_39_word_new_br_10 | flush<br>tide<br>announce<br>receive<br>reduce<br>guilt<br>review<br>nerve<br>patient<br>prevent |  
+| bip_39_word_new_br_11 | flush<br>tide<br>announce<br>receive<br>reduce<br>guilt<br>review<br>nerve<br>patient<br>prevent<br>omit |  
+| bip_39_word_new_br_12 | flush<br>tide<br>announce<br>receive<br>reduce<br>guilt<br>review<br>nerve<br>patient<br>prevent<br>omit<br>alley |  
+| bip_39_word_new_br_2 | flush<br>tide |  
+| bip_39_word_new_br_3 | flush<br>tide<br>announce |  
+| bip_39_word_new_br_4 | flush<br>tide<br>announce<br>receive |  
+| bip_39_word_new_br_5 | flush<br>tide<br>announce<br>receive<br>reduce |  
+| bip_39_word_new_br_6 | flush<br>tide<br>announce<br>receive<br>reduce<br>guilt |  
+| bip_39_word_new_br_7 | flush<br>tide<br>announce<br>receive<br>reduce<br>guilt<br>review |  
+| bip_39_word_new_br_8 | flush<br>tide<br>announce<br>receive<br>reduce<br>guilt<br>review<br>nerve |  
+| bip_39_word_new_br_9 | flush<br>tide<br>announce<br>receive<br>reduce<br>guilt<br>review<br>nerve<br>patient |  
+| bip_39_word_new_line_1 | flush |  
+| bip_39_word_new_line_10 | flush
 tide
 announce
 receive
@@ -55,7 +55,7 @@ review
 nerve
 patient
 prevent |  
-| bip_39_word_new_line11 | flush
+| bip_39_word_new_line_11 | flush
 tide
 announce
 receive
@@ -66,7 +66,7 @@ nerve
 patient
 prevent
 omit |  
-| bip_39_word_new_line12 | flush
+| bip_39_word_new_line_12 | flush
 tide
 announce
 receive
@@ -78,34 +78,34 @@ patient
 prevent
 omit
 alley |  
-| bip_39_word_new_line2 | flush
+| bip_39_word_new_line_2 | flush
 tide |  
-| bip_39_word_new_line3 | flush
+| bip_39_word_new_line_3 | flush
 tide
 announce |  
-| bip_39_word_new_line4 | flush
+| bip_39_word_new_line_4 | flush
 tide
 announce
 receive |  
-| bip_39_word_new_line5 | flush
+| bip_39_word_new_line_5 | flush
 tide
 announce
 receive
 reduce |  
-| bip_39_word_new_line6 | flush
+| bip_39_word_new_line_6 | flush
 tide
 announce
 receive
 reduce
 guilt |  
-| bip_39_word_new_line7 | flush
+| bip_39_word_new_line_7 | flush
 tide
 announce
 receive
 reduce
 guilt
 review |  
-| bip_39_word_new_line8 | flush
+| bip_39_word_new_line_8 | flush
 tide
 announce
 receive
@@ -113,7 +113,7 @@ reduce
 guilt
 review
 nerve |  
-| bip_39_word_new_line9 | flush
+| bip_39_word_new_line_9 | flush
 tide
 announce
 receive

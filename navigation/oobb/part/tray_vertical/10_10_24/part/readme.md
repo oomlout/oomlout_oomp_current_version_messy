@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | human |  
-| bip_39_word_new_br10 | human<br>mechanic<br>ask<br>armed<br>mixed<br>size<br>name<br>miracle<br>trend<br>baby |  
-| bip_39_word_new_br11 | human<br>mechanic<br>ask<br>armed<br>mixed<br>size<br>name<br>miracle<br>trend<br>baby<br>daughter |  
-| bip_39_word_new_br12 | human<br>mechanic<br>ask<br>armed<br>mixed<br>size<br>name<br>miracle<br>trend<br>baby<br>daughter<br>acquire |  
-| bip_39_word_new_br2 | human<br>mechanic |  
-| bip_39_word_new_br3 | human<br>mechanic<br>ask |  
-| bip_39_word_new_br4 | human<br>mechanic<br>ask<br>armed |  
-| bip_39_word_new_br5 | human<br>mechanic<br>ask<br>armed<br>mixed |  
-| bip_39_word_new_br6 | human<br>mechanic<br>ask<br>armed<br>mixed<br>size |  
-| bip_39_word_new_br7 | human<br>mechanic<br>ask<br>armed<br>mixed<br>size<br>name |  
-| bip_39_word_new_br8 | human<br>mechanic<br>ask<br>armed<br>mixed<br>size<br>name<br>miracle |  
-| bip_39_word_new_br9 | human<br>mechanic<br>ask<br>armed<br>mixed<br>size<br>name<br>miracle<br>trend |  
-| bip_39_word_new_line1 | human |  
-| bip_39_word_new_line10 | human
+| bip_39_word_new_br_1 | human |  
+| bip_39_word_new_br_10 | human<br>mechanic<br>ask<br>armed<br>mixed<br>size<br>name<br>miracle<br>trend<br>baby |  
+| bip_39_word_new_br_11 | human<br>mechanic<br>ask<br>armed<br>mixed<br>size<br>name<br>miracle<br>trend<br>baby<br>daughter |  
+| bip_39_word_new_br_12 | human<br>mechanic<br>ask<br>armed<br>mixed<br>size<br>name<br>miracle<br>trend<br>baby<br>daughter<br>acquire |  
+| bip_39_word_new_br_2 | human<br>mechanic |  
+| bip_39_word_new_br_3 | human<br>mechanic<br>ask |  
+| bip_39_word_new_br_4 | human<br>mechanic<br>ask<br>armed |  
+| bip_39_word_new_br_5 | human<br>mechanic<br>ask<br>armed<br>mixed |  
+| bip_39_word_new_br_6 | human<br>mechanic<br>ask<br>armed<br>mixed<br>size |  
+| bip_39_word_new_br_7 | human<br>mechanic<br>ask<br>armed<br>mixed<br>size<br>name |  
+| bip_39_word_new_br_8 | human<br>mechanic<br>ask<br>armed<br>mixed<br>size<br>name<br>miracle |  
+| bip_39_word_new_br_9 | human<br>mechanic<br>ask<br>armed<br>mixed<br>size<br>name<br>miracle<br>trend |  
+| bip_39_word_new_line_1 | human |  
+| bip_39_word_new_line_10 | human
 mechanic
 ask
 armed
@@ -55,7 +55,7 @@ name
 miracle
 trend
 baby |  
-| bip_39_word_new_line11 | human
+| bip_39_word_new_line_11 | human
 mechanic
 ask
 armed
@@ -66,7 +66,7 @@ miracle
 trend
 baby
 daughter |  
-| bip_39_word_new_line12 | human
+| bip_39_word_new_line_12 | human
 mechanic
 ask
 armed
@@ -78,34 +78,34 @@ trend
 baby
 daughter
 acquire |  
-| bip_39_word_new_line2 | human
+| bip_39_word_new_line_2 | human
 mechanic |  
-| bip_39_word_new_line3 | human
+| bip_39_word_new_line_3 | human
 mechanic
 ask |  
-| bip_39_word_new_line4 | human
+| bip_39_word_new_line_4 | human
 mechanic
 ask
 armed |  
-| bip_39_word_new_line5 | human
+| bip_39_word_new_line_5 | human
 mechanic
 ask
 armed
 mixed |  
-| bip_39_word_new_line6 | human
+| bip_39_word_new_line_6 | human
 mechanic
 ask
 armed
 mixed
 size |  
-| bip_39_word_new_line7 | human
+| bip_39_word_new_line_7 | human
 mechanic
 ask
 armed
 mixed
 size
 name |  
-| bip_39_word_new_line8 | human
+| bip_39_word_new_line_8 | human
 mechanic
 ask
 armed
@@ -113,7 +113,7 @@ mixed
 size
 name
 miracle |  
-| bip_39_word_new_line9 | human
+| bip_39_word_new_line_9 | human
 mechanic
 ask
 armed

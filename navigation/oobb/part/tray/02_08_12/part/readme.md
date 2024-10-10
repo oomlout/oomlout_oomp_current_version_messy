@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | point |  
-| bip_39_word_new_br10 | point<br>volcano<br>child<br>arm<br>fun<br>alone<br>smooth<br>lemon<br>pony<br>base |  
-| bip_39_word_new_br11 | point<br>volcano<br>child<br>arm<br>fun<br>alone<br>smooth<br>lemon<br>pony<br>base<br>fragile |  
-| bip_39_word_new_br12 | point<br>volcano<br>child<br>arm<br>fun<br>alone<br>smooth<br>lemon<br>pony<br>base<br>fragile<br>access |  
-| bip_39_word_new_br2 | point<br>volcano |  
-| bip_39_word_new_br3 | point<br>volcano<br>child |  
-| bip_39_word_new_br4 | point<br>volcano<br>child<br>arm |  
-| bip_39_word_new_br5 | point<br>volcano<br>child<br>arm<br>fun |  
-| bip_39_word_new_br6 | point<br>volcano<br>child<br>arm<br>fun<br>alone |  
-| bip_39_word_new_br7 | point<br>volcano<br>child<br>arm<br>fun<br>alone<br>smooth |  
-| bip_39_word_new_br8 | point<br>volcano<br>child<br>arm<br>fun<br>alone<br>smooth<br>lemon |  
-| bip_39_word_new_br9 | point<br>volcano<br>child<br>arm<br>fun<br>alone<br>smooth<br>lemon<br>pony |  
-| bip_39_word_new_line1 | point |  
-| bip_39_word_new_line10 | point
+| bip_39_word_new_br_1 | point |  
+| bip_39_word_new_br_10 | point<br>volcano<br>child<br>arm<br>fun<br>alone<br>smooth<br>lemon<br>pony<br>base |  
+| bip_39_word_new_br_11 | point<br>volcano<br>child<br>arm<br>fun<br>alone<br>smooth<br>lemon<br>pony<br>base<br>fragile |  
+| bip_39_word_new_br_12 | point<br>volcano<br>child<br>arm<br>fun<br>alone<br>smooth<br>lemon<br>pony<br>base<br>fragile<br>access |  
+| bip_39_word_new_br_2 | point<br>volcano |  
+| bip_39_word_new_br_3 | point<br>volcano<br>child |  
+| bip_39_word_new_br_4 | point<br>volcano<br>child<br>arm |  
+| bip_39_word_new_br_5 | point<br>volcano<br>child<br>arm<br>fun |  
+| bip_39_word_new_br_6 | point<br>volcano<br>child<br>arm<br>fun<br>alone |  
+| bip_39_word_new_br_7 | point<br>volcano<br>child<br>arm<br>fun<br>alone<br>smooth |  
+| bip_39_word_new_br_8 | point<br>volcano<br>child<br>arm<br>fun<br>alone<br>smooth<br>lemon |  
+| bip_39_word_new_br_9 | point<br>volcano<br>child<br>arm<br>fun<br>alone<br>smooth<br>lemon<br>pony |  
+| bip_39_word_new_line_1 | point |  
+| bip_39_word_new_line_10 | point
 volcano
 child
 arm
@@ -55,7 +55,7 @@ smooth
 lemon
 pony
 base |  
-| bip_39_word_new_line11 | point
+| bip_39_word_new_line_11 | point
 volcano
 child
 arm
@@ -66,7 +66,7 @@ lemon
 pony
 base
 fragile |  
-| bip_39_word_new_line12 | point
+| bip_39_word_new_line_12 | point
 volcano
 child
 arm
@@ -78,34 +78,34 @@ pony
 base
 fragile
 access |  
-| bip_39_word_new_line2 | point
+| bip_39_word_new_line_2 | point
 volcano |  
-| bip_39_word_new_line3 | point
+| bip_39_word_new_line_3 | point
 volcano
 child |  
-| bip_39_word_new_line4 | point
+| bip_39_word_new_line_4 | point
 volcano
 child
 arm |  
-| bip_39_word_new_line5 | point
+| bip_39_word_new_line_5 | point
 volcano
 child
 arm
 fun |  
-| bip_39_word_new_line6 | point
+| bip_39_word_new_line_6 | point
 volcano
 child
 arm
 fun
 alone |  
-| bip_39_word_new_line7 | point
+| bip_39_word_new_line_7 | point
 volcano
 child
 arm
 fun
 alone
 smooth |  
-| bip_39_word_new_line8 | point
+| bip_39_word_new_line_8 | point
 volcano
 child
 arm
@@ -113,7 +113,7 @@ fun
 alone
 smooth
 lemon |  
-| bip_39_word_new_line9 | point
+| bip_39_word_new_line_9 | point
 volcano
 child
 arm

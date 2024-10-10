@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | capable |  
-| bip_39_word_new_br10 | capable<br>soul<br>special<br>deposit<br>expire<br>hint<br>scrub<br>refuse<br>arm<br>skirt |  
-| bip_39_word_new_br11 | capable<br>soul<br>special<br>deposit<br>expire<br>hint<br>scrub<br>refuse<br>arm<br>skirt<br>under |  
-| bip_39_word_new_br12 | capable<br>soul<br>special<br>deposit<br>expire<br>hint<br>scrub<br>refuse<br>arm<br>skirt<br>under<br>attitude |  
-| bip_39_word_new_br2 | capable<br>soul |  
-| bip_39_word_new_br3 | capable<br>soul<br>special |  
-| bip_39_word_new_br4 | capable<br>soul<br>special<br>deposit |  
-| bip_39_word_new_br5 | capable<br>soul<br>special<br>deposit<br>expire |  
-| bip_39_word_new_br6 | capable<br>soul<br>special<br>deposit<br>expire<br>hint |  
-| bip_39_word_new_br7 | capable<br>soul<br>special<br>deposit<br>expire<br>hint<br>scrub |  
-| bip_39_word_new_br8 | capable<br>soul<br>special<br>deposit<br>expire<br>hint<br>scrub<br>refuse |  
-| bip_39_word_new_br9 | capable<br>soul<br>special<br>deposit<br>expire<br>hint<br>scrub<br>refuse<br>arm |  
-| bip_39_word_new_line1 | capable |  
-| bip_39_word_new_line10 | capable
+| bip_39_word_new_br_1 | capable |  
+| bip_39_word_new_br_10 | capable<br>soul<br>special<br>deposit<br>expire<br>hint<br>scrub<br>refuse<br>arm<br>skirt |  
+| bip_39_word_new_br_11 | capable<br>soul<br>special<br>deposit<br>expire<br>hint<br>scrub<br>refuse<br>arm<br>skirt<br>under |  
+| bip_39_word_new_br_12 | capable<br>soul<br>special<br>deposit<br>expire<br>hint<br>scrub<br>refuse<br>arm<br>skirt<br>under<br>attitude |  
+| bip_39_word_new_br_2 | capable<br>soul |  
+| bip_39_word_new_br_3 | capable<br>soul<br>special |  
+| bip_39_word_new_br_4 | capable<br>soul<br>special<br>deposit |  
+| bip_39_word_new_br_5 | capable<br>soul<br>special<br>deposit<br>expire |  
+| bip_39_word_new_br_6 | capable<br>soul<br>special<br>deposit<br>expire<br>hint |  
+| bip_39_word_new_br_7 | capable<br>soul<br>special<br>deposit<br>expire<br>hint<br>scrub |  
+| bip_39_word_new_br_8 | capable<br>soul<br>special<br>deposit<br>expire<br>hint<br>scrub<br>refuse |  
+| bip_39_word_new_br_9 | capable<br>soul<br>special<br>deposit<br>expire<br>hint<br>scrub<br>refuse<br>arm |  
+| bip_39_word_new_line_1 | capable |  
+| bip_39_word_new_line_10 | capable
 soul
 special
 deposit
@@ -55,7 +55,7 @@ scrub
 refuse
 arm
 skirt |  
-| bip_39_word_new_line11 | capable
+| bip_39_word_new_line_11 | capable
 soul
 special
 deposit
@@ -66,7 +66,7 @@ refuse
 arm
 skirt
 under |  
-| bip_39_word_new_line12 | capable
+| bip_39_word_new_line_12 | capable
 soul
 special
 deposit
@@ -78,34 +78,34 @@ arm
 skirt
 under
 attitude |  
-| bip_39_word_new_line2 | capable
+| bip_39_word_new_line_2 | capable
 soul |  
-| bip_39_word_new_line3 | capable
+| bip_39_word_new_line_3 | capable
 soul
 special |  
-| bip_39_word_new_line4 | capable
+| bip_39_word_new_line_4 | capable
 soul
 special
 deposit |  
-| bip_39_word_new_line5 | capable
+| bip_39_word_new_line_5 | capable
 soul
 special
 deposit
 expire |  
-| bip_39_word_new_line6 | capable
+| bip_39_word_new_line_6 | capable
 soul
 special
 deposit
 expire
 hint |  
-| bip_39_word_new_line7 | capable
+| bip_39_word_new_line_7 | capable
 soul
 special
 deposit
 expire
 hint
 scrub |  
-| bip_39_word_new_line8 | capable
+| bip_39_word_new_line_8 | capable
 soul
 special
 deposit
@@ -113,7 +113,7 @@ expire
 hint
 scrub
 refuse |  
-| bip_39_word_new_line9 | capable
+| bip_39_word_new_line_9 | capable
 soul
 special
 deposit

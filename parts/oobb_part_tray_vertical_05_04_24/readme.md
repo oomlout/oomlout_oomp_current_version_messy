@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | must |  
-| bip_39_word_new_br10 | must<br>maze<br>rare<br>much<br>physical<br>ranch<br>real<br>clown<br>wait<br>session |  
-| bip_39_word_new_br11 | must<br>maze<br>rare<br>much<br>physical<br>ranch<br>real<br>clown<br>wait<br>session<br>noise |  
-| bip_39_word_new_br12 | must<br>maze<br>rare<br>much<br>physical<br>ranch<br>real<br>clown<br>wait<br>session<br>noise<br>alone |  
-| bip_39_word_new_br2 | must<br>maze |  
-| bip_39_word_new_br3 | must<br>maze<br>rare |  
-| bip_39_word_new_br4 | must<br>maze<br>rare<br>much |  
-| bip_39_word_new_br5 | must<br>maze<br>rare<br>much<br>physical |  
-| bip_39_word_new_br6 | must<br>maze<br>rare<br>much<br>physical<br>ranch |  
-| bip_39_word_new_br7 | must<br>maze<br>rare<br>much<br>physical<br>ranch<br>real |  
-| bip_39_word_new_br8 | must<br>maze<br>rare<br>much<br>physical<br>ranch<br>real<br>clown |  
-| bip_39_word_new_br9 | must<br>maze<br>rare<br>much<br>physical<br>ranch<br>real<br>clown<br>wait |  
-| bip_39_word_new_line1 | must |  
-| bip_39_word_new_line10 | must
+| bip_39_word_new_br_1 | must |  
+| bip_39_word_new_br_10 | must<br>maze<br>rare<br>much<br>physical<br>ranch<br>real<br>clown<br>wait<br>session |  
+| bip_39_word_new_br_11 | must<br>maze<br>rare<br>much<br>physical<br>ranch<br>real<br>clown<br>wait<br>session<br>noise |  
+| bip_39_word_new_br_12 | must<br>maze<br>rare<br>much<br>physical<br>ranch<br>real<br>clown<br>wait<br>session<br>noise<br>alone |  
+| bip_39_word_new_br_2 | must<br>maze |  
+| bip_39_word_new_br_3 | must<br>maze<br>rare |  
+| bip_39_word_new_br_4 | must<br>maze<br>rare<br>much |  
+| bip_39_word_new_br_5 | must<br>maze<br>rare<br>much<br>physical |  
+| bip_39_word_new_br_6 | must<br>maze<br>rare<br>much<br>physical<br>ranch |  
+| bip_39_word_new_br_7 | must<br>maze<br>rare<br>much<br>physical<br>ranch<br>real |  
+| bip_39_word_new_br_8 | must<br>maze<br>rare<br>much<br>physical<br>ranch<br>real<br>clown |  
+| bip_39_word_new_br_9 | must<br>maze<br>rare<br>much<br>physical<br>ranch<br>real<br>clown<br>wait |  
+| bip_39_word_new_line_1 | must |  
+| bip_39_word_new_line_10 | must
 maze
 rare
 much
@@ -55,7 +55,7 @@ real
 clown
 wait
 session |  
-| bip_39_word_new_line11 | must
+| bip_39_word_new_line_11 | must
 maze
 rare
 much
@@ -66,7 +66,7 @@ clown
 wait
 session
 noise |  
-| bip_39_word_new_line12 | must
+| bip_39_word_new_line_12 | must
 maze
 rare
 much
@@ -78,34 +78,34 @@ wait
 session
 noise
 alone |  
-| bip_39_word_new_line2 | must
+| bip_39_word_new_line_2 | must
 maze |  
-| bip_39_word_new_line3 | must
+| bip_39_word_new_line_3 | must
 maze
 rare |  
-| bip_39_word_new_line4 | must
+| bip_39_word_new_line_4 | must
 maze
 rare
 much |  
-| bip_39_word_new_line5 | must
+| bip_39_word_new_line_5 | must
 maze
 rare
 much
 physical |  
-| bip_39_word_new_line6 | must
+| bip_39_word_new_line_6 | must
 maze
 rare
 much
 physical
 ranch |  
-| bip_39_word_new_line7 | must
+| bip_39_word_new_line_7 | must
 maze
 rare
 much
 physical
 ranch
 real |  
-| bip_39_word_new_line8 | must
+| bip_39_word_new_line_8 | must
 maze
 rare
 much
@@ -113,7 +113,7 @@ physical
 ranch
 real
 clown |  
-| bip_39_word_new_line9 | must
+| bip_39_word_new_line_9 | must
 maze
 rare
 much

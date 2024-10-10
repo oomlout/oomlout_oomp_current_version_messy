@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | assume |  
-| bip_39_word_new_br10 | assume<br>hospital<br>hole<br>clutch<br>typical<br>device<br>jacket<br>embody<br>balance<br>tag |  
-| bip_39_word_new_br11 | assume<br>hospital<br>hole<br>clutch<br>typical<br>device<br>jacket<br>embody<br>balance<br>tag<br>wine |  
-| bip_39_word_new_br12 | assume<br>hospital<br>hole<br>clutch<br>typical<br>device<br>jacket<br>embody<br>balance<br>tag<br>wine<br>anxiety |  
-| bip_39_word_new_br2 | assume<br>hospital |  
-| bip_39_word_new_br3 | assume<br>hospital<br>hole |  
-| bip_39_word_new_br4 | assume<br>hospital<br>hole<br>clutch |  
-| bip_39_word_new_br5 | assume<br>hospital<br>hole<br>clutch<br>typical |  
-| bip_39_word_new_br6 | assume<br>hospital<br>hole<br>clutch<br>typical<br>device |  
-| bip_39_word_new_br7 | assume<br>hospital<br>hole<br>clutch<br>typical<br>device<br>jacket |  
-| bip_39_word_new_br8 | assume<br>hospital<br>hole<br>clutch<br>typical<br>device<br>jacket<br>embody |  
-| bip_39_word_new_br9 | assume<br>hospital<br>hole<br>clutch<br>typical<br>device<br>jacket<br>embody<br>balance |  
-| bip_39_word_new_line1 | assume |  
-| bip_39_word_new_line10 | assume
+| bip_39_word_new_br_1 | assume |  
+| bip_39_word_new_br_10 | assume<br>hospital<br>hole<br>clutch<br>typical<br>device<br>jacket<br>embody<br>balance<br>tag |  
+| bip_39_word_new_br_11 | assume<br>hospital<br>hole<br>clutch<br>typical<br>device<br>jacket<br>embody<br>balance<br>tag<br>wine |  
+| bip_39_word_new_br_12 | assume<br>hospital<br>hole<br>clutch<br>typical<br>device<br>jacket<br>embody<br>balance<br>tag<br>wine<br>anxiety |  
+| bip_39_word_new_br_2 | assume<br>hospital |  
+| bip_39_word_new_br_3 | assume<br>hospital<br>hole |  
+| bip_39_word_new_br_4 | assume<br>hospital<br>hole<br>clutch |  
+| bip_39_word_new_br_5 | assume<br>hospital<br>hole<br>clutch<br>typical |  
+| bip_39_word_new_br_6 | assume<br>hospital<br>hole<br>clutch<br>typical<br>device |  
+| bip_39_word_new_br_7 | assume<br>hospital<br>hole<br>clutch<br>typical<br>device<br>jacket |  
+| bip_39_word_new_br_8 | assume<br>hospital<br>hole<br>clutch<br>typical<br>device<br>jacket<br>embody |  
+| bip_39_word_new_br_9 | assume<br>hospital<br>hole<br>clutch<br>typical<br>device<br>jacket<br>embody<br>balance |  
+| bip_39_word_new_line_1 | assume |  
+| bip_39_word_new_line_10 | assume
 hospital
 hole
 clutch
@@ -55,7 +55,7 @@ jacket
 embody
 balance
 tag |  
-| bip_39_word_new_line11 | assume
+| bip_39_word_new_line_11 | assume
 hospital
 hole
 clutch
@@ -66,7 +66,7 @@ embody
 balance
 tag
 wine |  
-| bip_39_word_new_line12 | assume
+| bip_39_word_new_line_12 | assume
 hospital
 hole
 clutch
@@ -78,34 +78,34 @@ balance
 tag
 wine
 anxiety |  
-| bip_39_word_new_line2 | assume
+| bip_39_word_new_line_2 | assume
 hospital |  
-| bip_39_word_new_line3 | assume
+| bip_39_word_new_line_3 | assume
 hospital
 hole |  
-| bip_39_word_new_line4 | assume
+| bip_39_word_new_line_4 | assume
 hospital
 hole
 clutch |  
-| bip_39_word_new_line5 | assume
+| bip_39_word_new_line_5 | assume
 hospital
 hole
 clutch
 typical |  
-| bip_39_word_new_line6 | assume
+| bip_39_word_new_line_6 | assume
 hospital
 hole
 clutch
 typical
 device |  
-| bip_39_word_new_line7 | assume
+| bip_39_word_new_line_7 | assume
 hospital
 hole
 clutch
 typical
 device
 jacket |  
-| bip_39_word_new_line8 | assume
+| bip_39_word_new_line_8 | assume
 hospital
 hole
 clutch
@@ -113,7 +113,7 @@ typical
 device
 jacket
 embody |  
-| bip_39_word_new_line9 | assume
+| bip_39_word_new_line_9 | assume
 hospital
 hole
 clutch

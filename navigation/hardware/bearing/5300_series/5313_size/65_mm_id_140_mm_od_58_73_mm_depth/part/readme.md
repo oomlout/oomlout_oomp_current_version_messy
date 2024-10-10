@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | capital |  
-| bip_39_word_new_br10 | capital<br>uphold<br>impulse<br>head<br>goat<br>neglect<br>behind<br>surge<br>deliver<br>model |  
-| bip_39_word_new_br11 | capital<br>uphold<br>impulse<br>head<br>goat<br>neglect<br>behind<br>surge<br>deliver<br>model<br>rally |  
-| bip_39_word_new_br12 | capital<br>uphold<br>impulse<br>head<br>goat<br>neglect<br>behind<br>surge<br>deliver<br>model<br>rally<br>arena |  
-| bip_39_word_new_br2 | capital<br>uphold |  
-| bip_39_word_new_br3 | capital<br>uphold<br>impulse |  
-| bip_39_word_new_br4 | capital<br>uphold<br>impulse<br>head |  
-| bip_39_word_new_br5 | capital<br>uphold<br>impulse<br>head<br>goat |  
-| bip_39_word_new_br6 | capital<br>uphold<br>impulse<br>head<br>goat<br>neglect |  
-| bip_39_word_new_br7 | capital<br>uphold<br>impulse<br>head<br>goat<br>neglect<br>behind |  
-| bip_39_word_new_br8 | capital<br>uphold<br>impulse<br>head<br>goat<br>neglect<br>behind<br>surge |  
-| bip_39_word_new_br9 | capital<br>uphold<br>impulse<br>head<br>goat<br>neglect<br>behind<br>surge<br>deliver |  
-| bip_39_word_new_line1 | capital |  
-| bip_39_word_new_line10 | capital
+| bip_39_word_new_br_1 | capital |  
+| bip_39_word_new_br_10 | capital<br>uphold<br>impulse<br>head<br>goat<br>neglect<br>behind<br>surge<br>deliver<br>model |  
+| bip_39_word_new_br_11 | capital<br>uphold<br>impulse<br>head<br>goat<br>neglect<br>behind<br>surge<br>deliver<br>model<br>rally |  
+| bip_39_word_new_br_12 | capital<br>uphold<br>impulse<br>head<br>goat<br>neglect<br>behind<br>surge<br>deliver<br>model<br>rally<br>arena |  
+| bip_39_word_new_br_2 | capital<br>uphold |  
+| bip_39_word_new_br_3 | capital<br>uphold<br>impulse |  
+| bip_39_word_new_br_4 | capital<br>uphold<br>impulse<br>head |  
+| bip_39_word_new_br_5 | capital<br>uphold<br>impulse<br>head<br>goat |  
+| bip_39_word_new_br_6 | capital<br>uphold<br>impulse<br>head<br>goat<br>neglect |  
+| bip_39_word_new_br_7 | capital<br>uphold<br>impulse<br>head<br>goat<br>neglect<br>behind |  
+| bip_39_word_new_br_8 | capital<br>uphold<br>impulse<br>head<br>goat<br>neglect<br>behind<br>surge |  
+| bip_39_word_new_br_9 | capital<br>uphold<br>impulse<br>head<br>goat<br>neglect<br>behind<br>surge<br>deliver |  
+| bip_39_word_new_line_1 | capital |  
+| bip_39_word_new_line_10 | capital
 uphold
 impulse
 head
@@ -55,7 +55,7 @@ behind
 surge
 deliver
 model |  
-| bip_39_word_new_line11 | capital
+| bip_39_word_new_line_11 | capital
 uphold
 impulse
 head
@@ -66,7 +66,7 @@ surge
 deliver
 model
 rally |  
-| bip_39_word_new_line12 | capital
+| bip_39_word_new_line_12 | capital
 uphold
 impulse
 head
@@ -78,34 +78,34 @@ deliver
 model
 rally
 arena |  
-| bip_39_word_new_line2 | capital
+| bip_39_word_new_line_2 | capital
 uphold |  
-| bip_39_word_new_line3 | capital
+| bip_39_word_new_line_3 | capital
 uphold
 impulse |  
-| bip_39_word_new_line4 | capital
+| bip_39_word_new_line_4 | capital
 uphold
 impulse
 head |  
-| bip_39_word_new_line5 | capital
+| bip_39_word_new_line_5 | capital
 uphold
 impulse
 head
 goat |  
-| bip_39_word_new_line6 | capital
+| bip_39_word_new_line_6 | capital
 uphold
 impulse
 head
 goat
 neglect |  
-| bip_39_word_new_line7 | capital
+| bip_39_word_new_line_7 | capital
 uphold
 impulse
 head
 goat
 neglect
 behind |  
-| bip_39_word_new_line8 | capital
+| bip_39_word_new_line_8 | capital
 uphold
 impulse
 head
@@ -113,7 +113,7 @@ goat
 neglect
 behind
 surge |  
-| bip_39_word_new_line9 | capital
+| bip_39_word_new_line_9 | capital
 uphold
 impulse
 head

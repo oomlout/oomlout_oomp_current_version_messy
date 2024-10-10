@@ -1,17 +1,17 @@
-bip_39_word_new_br1: park
-bip_39_word_new_br10: park<br>above<br>sun<br>divorce<br>denial<br>better<br>mirror<br>suit<br>display<br>year
-bip_39_word_new_br11: park<br>above<br>sun<br>divorce<br>denial<br>better<br>mirror<br>suit<br>display<br>year<br>chef
-bip_39_word_new_br12: park<br>above<br>sun<br>divorce<br>denial<br>better<br>mirror<br>suit<br>display<br>year<br>chef<br>accident
-bip_39_word_new_br2: park<br>above
-bip_39_word_new_br3: park<br>above<br>sun
-bip_39_word_new_br4: park<br>above<br>sun<br>divorce
-bip_39_word_new_br5: park<br>above<br>sun<br>divorce<br>denial
-bip_39_word_new_br6: park<br>above<br>sun<br>divorce<br>denial<br>better
-bip_39_word_new_br7: park<br>above<br>sun<br>divorce<br>denial<br>better<br>mirror
-bip_39_word_new_br8: park<br>above<br>sun<br>divorce<br>denial<br>better<br>mirror<br>suit
-bip_39_word_new_br9: park<br>above<br>sun<br>divorce<br>denial<br>better<br>mirror<br>suit<br>display
-bip_39_word_new_line1: park
-bip_39_word_new_line10: 'park
+bip_39_word_new_br_1: park
+bip_39_word_new_br_10: park<br>above<br>sun<br>divorce<br>denial<br>better<br>mirror<br>suit<br>display<br>year
+bip_39_word_new_br_11: park<br>above<br>sun<br>divorce<br>denial<br>better<br>mirror<br>suit<br>display<br>year<br>chef
+bip_39_word_new_br_12: park<br>above<br>sun<br>divorce<br>denial<br>better<br>mirror<br>suit<br>display<br>year<br>chef<br>accident
+bip_39_word_new_br_2: park<br>above
+bip_39_word_new_br_3: park<br>above<br>sun
+bip_39_word_new_br_4: park<br>above<br>sun<br>divorce
+bip_39_word_new_br_5: park<br>above<br>sun<br>divorce<br>denial
+bip_39_word_new_br_6: park<br>above<br>sun<br>divorce<br>denial<br>better
+bip_39_word_new_br_7: park<br>above<br>sun<br>divorce<br>denial<br>better<br>mirror
+bip_39_word_new_br_8: park<br>above<br>sun<br>divorce<br>denial<br>better<br>mirror<br>suit
+bip_39_word_new_br_9: park<br>above<br>sun<br>divorce<br>denial<br>better<br>mirror<br>suit<br>display
+bip_39_word_new_line_1: park
+bip_39_word_new_line_10: 'park
 
   above
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'park
   display
 
   year'
-bip_39_word_new_line11: 'park
+bip_39_word_new_line_11: 'park
 
   above
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'park
   year
 
   chef'
-bip_39_word_new_line12: 'park
+bip_39_word_new_line_12: 'park
 
   above
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'park
   chef
 
   accident'
-bip_39_word_new_line2: 'park
+bip_39_word_new_line_2: 'park
 
   above'
-bip_39_word_new_line3: 'park
+bip_39_word_new_line_3: 'park
 
   above
 
   sun'
-bip_39_word_new_line4: 'park
+bip_39_word_new_line_4: 'park
 
   above
 
   sun
 
   divorce'
-bip_39_word_new_line5: 'park
+bip_39_word_new_line_5: 'park
 
   above
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'park
   divorce
 
   denial'
-bip_39_word_new_line6: 'park
+bip_39_word_new_line_6: 'park
 
   above
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'park
   denial
 
   better'
-bip_39_word_new_line7: 'park
+bip_39_word_new_line_7: 'park
 
   above
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'park
   better
 
   mirror'
-bip_39_word_new_line8: 'park
+bip_39_word_new_line_8: 'park
 
   above
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'park
   mirror
 
   suit'
-bip_39_word_new_line9: 'park
+bip_39_word_new_line_9: 'park
 
   above
 

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | anger |  
-| bip_39_word_new_br10 | anger<br>camp<br>track<br>lion<br>scout<br>tiny<br>core<br>give<br>install<br>script |  
-| bip_39_word_new_br11 | anger<br>camp<br>track<br>lion<br>scout<br>tiny<br>core<br>give<br>install<br>script<br>carry |  
-| bip_39_word_new_br12 | anger<br>camp<br>track<br>lion<br>scout<br>tiny<br>core<br>give<br>install<br>script<br>carry<br>action |  
-| bip_39_word_new_br2 | anger<br>camp |  
-| bip_39_word_new_br3 | anger<br>camp<br>track |  
-| bip_39_word_new_br4 | anger<br>camp<br>track<br>lion |  
-| bip_39_word_new_br5 | anger<br>camp<br>track<br>lion<br>scout |  
-| bip_39_word_new_br6 | anger<br>camp<br>track<br>lion<br>scout<br>tiny |  
-| bip_39_word_new_br7 | anger<br>camp<br>track<br>lion<br>scout<br>tiny<br>core |  
-| bip_39_word_new_br8 | anger<br>camp<br>track<br>lion<br>scout<br>tiny<br>core<br>give |  
-| bip_39_word_new_br9 | anger<br>camp<br>track<br>lion<br>scout<br>tiny<br>core<br>give<br>install |  
-| bip_39_word_new_line1 | anger |  
-| bip_39_word_new_line10 | anger
+| bip_39_word_new_br_1 | anger |  
+| bip_39_word_new_br_10 | anger<br>camp<br>track<br>lion<br>scout<br>tiny<br>core<br>give<br>install<br>script |  
+| bip_39_word_new_br_11 | anger<br>camp<br>track<br>lion<br>scout<br>tiny<br>core<br>give<br>install<br>script<br>carry |  
+| bip_39_word_new_br_12 | anger<br>camp<br>track<br>lion<br>scout<br>tiny<br>core<br>give<br>install<br>script<br>carry<br>action |  
+| bip_39_word_new_br_2 | anger<br>camp |  
+| bip_39_word_new_br_3 | anger<br>camp<br>track |  
+| bip_39_word_new_br_4 | anger<br>camp<br>track<br>lion |  
+| bip_39_word_new_br_5 | anger<br>camp<br>track<br>lion<br>scout |  
+| bip_39_word_new_br_6 | anger<br>camp<br>track<br>lion<br>scout<br>tiny |  
+| bip_39_word_new_br_7 | anger<br>camp<br>track<br>lion<br>scout<br>tiny<br>core |  
+| bip_39_word_new_br_8 | anger<br>camp<br>track<br>lion<br>scout<br>tiny<br>core<br>give |  
+| bip_39_word_new_br_9 | anger<br>camp<br>track<br>lion<br>scout<br>tiny<br>core<br>give<br>install |  
+| bip_39_word_new_line_1 | anger |  
+| bip_39_word_new_line_10 | anger
 camp
 track
 lion
@@ -55,7 +55,7 @@ core
 give
 install
 script |  
-| bip_39_word_new_line11 | anger
+| bip_39_word_new_line_11 | anger
 camp
 track
 lion
@@ -66,7 +66,7 @@ give
 install
 script
 carry |  
-| bip_39_word_new_line12 | anger
+| bip_39_word_new_line_12 | anger
 camp
 track
 lion
@@ -78,34 +78,34 @@ install
 script
 carry
 action |  
-| bip_39_word_new_line2 | anger
+| bip_39_word_new_line_2 | anger
 camp |  
-| bip_39_word_new_line3 | anger
+| bip_39_word_new_line_3 | anger
 camp
 track |  
-| bip_39_word_new_line4 | anger
+| bip_39_word_new_line_4 | anger
 camp
 track
 lion |  
-| bip_39_word_new_line5 | anger
+| bip_39_word_new_line_5 | anger
 camp
 track
 lion
 scout |  
-| bip_39_word_new_line6 | anger
+| bip_39_word_new_line_6 | anger
 camp
 track
 lion
 scout
 tiny |  
-| bip_39_word_new_line7 | anger
+| bip_39_word_new_line_7 | anger
 camp
 track
 lion
 scout
 tiny
 core |  
-| bip_39_word_new_line8 | anger
+| bip_39_word_new_line_8 | anger
 camp
 track
 lion
@@ -113,7 +113,7 @@ scout
 tiny
 core
 give |  
-| bip_39_word_new_line9 | anger
+| bip_39_word_new_line_9 | anger
 camp
 track
 lion

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rug |  
-| bip_39_word_new_br10 | rug<br>scissors<br>replace<br>famous<br>glimpse<br>nerve<br>treat<br>adult<br>enhance<br>ten |  
-| bip_39_word_new_br11 | rug<br>scissors<br>replace<br>famous<br>glimpse<br>nerve<br>treat<br>adult<br>enhance<br>ten<br>purity |  
-| bip_39_word_new_br12 | rug<br>scissors<br>replace<br>famous<br>glimpse<br>nerve<br>treat<br>adult<br>enhance<br>ten<br>purity<br>absent |  
-| bip_39_word_new_br2 | rug<br>scissors |  
-| bip_39_word_new_br3 | rug<br>scissors<br>replace |  
-| bip_39_word_new_br4 | rug<br>scissors<br>replace<br>famous |  
-| bip_39_word_new_br5 | rug<br>scissors<br>replace<br>famous<br>glimpse |  
-| bip_39_word_new_br6 | rug<br>scissors<br>replace<br>famous<br>glimpse<br>nerve |  
-| bip_39_word_new_br7 | rug<br>scissors<br>replace<br>famous<br>glimpse<br>nerve<br>treat |  
-| bip_39_word_new_br8 | rug<br>scissors<br>replace<br>famous<br>glimpse<br>nerve<br>treat<br>adult |  
-| bip_39_word_new_br9 | rug<br>scissors<br>replace<br>famous<br>glimpse<br>nerve<br>treat<br>adult<br>enhance |  
-| bip_39_word_new_line1 | rug |  
-| bip_39_word_new_line10 | rug
+| bip_39_word_new_br_1 | rug |  
+| bip_39_word_new_br_10 | rug<br>scissors<br>replace<br>famous<br>glimpse<br>nerve<br>treat<br>adult<br>enhance<br>ten |  
+| bip_39_word_new_br_11 | rug<br>scissors<br>replace<br>famous<br>glimpse<br>nerve<br>treat<br>adult<br>enhance<br>ten<br>purity |  
+| bip_39_word_new_br_12 | rug<br>scissors<br>replace<br>famous<br>glimpse<br>nerve<br>treat<br>adult<br>enhance<br>ten<br>purity<br>absent |  
+| bip_39_word_new_br_2 | rug<br>scissors |  
+| bip_39_word_new_br_3 | rug<br>scissors<br>replace |  
+| bip_39_word_new_br_4 | rug<br>scissors<br>replace<br>famous |  
+| bip_39_word_new_br_5 | rug<br>scissors<br>replace<br>famous<br>glimpse |  
+| bip_39_word_new_br_6 | rug<br>scissors<br>replace<br>famous<br>glimpse<br>nerve |  
+| bip_39_word_new_br_7 | rug<br>scissors<br>replace<br>famous<br>glimpse<br>nerve<br>treat |  
+| bip_39_word_new_br_8 | rug<br>scissors<br>replace<br>famous<br>glimpse<br>nerve<br>treat<br>adult |  
+| bip_39_word_new_br_9 | rug<br>scissors<br>replace<br>famous<br>glimpse<br>nerve<br>treat<br>adult<br>enhance |  
+| bip_39_word_new_line_1 | rug |  
+| bip_39_word_new_line_10 | rug
 scissors
 replace
 famous
@@ -55,7 +55,7 @@ treat
 adult
 enhance
 ten |  
-| bip_39_word_new_line11 | rug
+| bip_39_word_new_line_11 | rug
 scissors
 replace
 famous
@@ -66,7 +66,7 @@ adult
 enhance
 ten
 purity |  
-| bip_39_word_new_line12 | rug
+| bip_39_word_new_line_12 | rug
 scissors
 replace
 famous
@@ -78,34 +78,34 @@ enhance
 ten
 purity
 absent |  
-| bip_39_word_new_line2 | rug
+| bip_39_word_new_line_2 | rug
 scissors |  
-| bip_39_word_new_line3 | rug
+| bip_39_word_new_line_3 | rug
 scissors
 replace |  
-| bip_39_word_new_line4 | rug
+| bip_39_word_new_line_4 | rug
 scissors
 replace
 famous |  
-| bip_39_word_new_line5 | rug
+| bip_39_word_new_line_5 | rug
 scissors
 replace
 famous
 glimpse |  
-| bip_39_word_new_line6 | rug
+| bip_39_word_new_line_6 | rug
 scissors
 replace
 famous
 glimpse
 nerve |  
-| bip_39_word_new_line7 | rug
+| bip_39_word_new_line_7 | rug
 scissors
 replace
 famous
 glimpse
 nerve
 treat |  
-| bip_39_word_new_line8 | rug
+| bip_39_word_new_line_8 | rug
 scissors
 replace
 famous
@@ -113,7 +113,7 @@ glimpse
 nerve
 treat
 adult |  
-| bip_39_word_new_line9 | rug
+| bip_39_word_new_line_9 | rug
 scissors
 replace
 famous

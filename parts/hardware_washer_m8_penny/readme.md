@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wall |  
-| bip_39_word_new_br10 | wall<br>hurry<br>sphere<br>vendor<br>yard<br>blouse<br>vibrant<br>jelly<br>abandon<br>insane |  
-| bip_39_word_new_br11 | wall<br>hurry<br>sphere<br>vendor<br>yard<br>blouse<br>vibrant<br>jelly<br>abandon<br>insane<br>swing |  
-| bip_39_word_new_br12 | wall<br>hurry<br>sphere<br>vendor<br>yard<br>blouse<br>vibrant<br>jelly<br>abandon<br>insane<br>swing<br>advice |  
-| bip_39_word_new_br2 | wall<br>hurry |  
-| bip_39_word_new_br3 | wall<br>hurry<br>sphere |  
-| bip_39_word_new_br4 | wall<br>hurry<br>sphere<br>vendor |  
-| bip_39_word_new_br5 | wall<br>hurry<br>sphere<br>vendor<br>yard |  
-| bip_39_word_new_br6 | wall<br>hurry<br>sphere<br>vendor<br>yard<br>blouse |  
-| bip_39_word_new_br7 | wall<br>hurry<br>sphere<br>vendor<br>yard<br>blouse<br>vibrant |  
-| bip_39_word_new_br8 | wall<br>hurry<br>sphere<br>vendor<br>yard<br>blouse<br>vibrant<br>jelly |  
-| bip_39_word_new_br9 | wall<br>hurry<br>sphere<br>vendor<br>yard<br>blouse<br>vibrant<br>jelly<br>abandon |  
-| bip_39_word_new_line1 | wall |  
-| bip_39_word_new_line10 | wall
+| bip_39_word_new_br_1 | wall |  
+| bip_39_word_new_br_10 | wall<br>hurry<br>sphere<br>vendor<br>yard<br>blouse<br>vibrant<br>jelly<br>abandon<br>insane |  
+| bip_39_word_new_br_11 | wall<br>hurry<br>sphere<br>vendor<br>yard<br>blouse<br>vibrant<br>jelly<br>abandon<br>insane<br>swing |  
+| bip_39_word_new_br_12 | wall<br>hurry<br>sphere<br>vendor<br>yard<br>blouse<br>vibrant<br>jelly<br>abandon<br>insane<br>swing<br>advice |  
+| bip_39_word_new_br_2 | wall<br>hurry |  
+| bip_39_word_new_br_3 | wall<br>hurry<br>sphere |  
+| bip_39_word_new_br_4 | wall<br>hurry<br>sphere<br>vendor |  
+| bip_39_word_new_br_5 | wall<br>hurry<br>sphere<br>vendor<br>yard |  
+| bip_39_word_new_br_6 | wall<br>hurry<br>sphere<br>vendor<br>yard<br>blouse |  
+| bip_39_word_new_br_7 | wall<br>hurry<br>sphere<br>vendor<br>yard<br>blouse<br>vibrant |  
+| bip_39_word_new_br_8 | wall<br>hurry<br>sphere<br>vendor<br>yard<br>blouse<br>vibrant<br>jelly |  
+| bip_39_word_new_br_9 | wall<br>hurry<br>sphere<br>vendor<br>yard<br>blouse<br>vibrant<br>jelly<br>abandon |  
+| bip_39_word_new_line_1 | wall |  
+| bip_39_word_new_line_10 | wall
 hurry
 sphere
 vendor
@@ -55,7 +55,7 @@ vibrant
 jelly
 abandon
 insane |  
-| bip_39_word_new_line11 | wall
+| bip_39_word_new_line_11 | wall
 hurry
 sphere
 vendor
@@ -66,7 +66,7 @@ jelly
 abandon
 insane
 swing |  
-| bip_39_word_new_line12 | wall
+| bip_39_word_new_line_12 | wall
 hurry
 sphere
 vendor
@@ -78,34 +78,34 @@ abandon
 insane
 swing
 advice |  
-| bip_39_word_new_line2 | wall
+| bip_39_word_new_line_2 | wall
 hurry |  
-| bip_39_word_new_line3 | wall
+| bip_39_word_new_line_3 | wall
 hurry
 sphere |  
-| bip_39_word_new_line4 | wall
+| bip_39_word_new_line_4 | wall
 hurry
 sphere
 vendor |  
-| bip_39_word_new_line5 | wall
+| bip_39_word_new_line_5 | wall
 hurry
 sphere
 vendor
 yard |  
-| bip_39_word_new_line6 | wall
+| bip_39_word_new_line_6 | wall
 hurry
 sphere
 vendor
 yard
 blouse |  
-| bip_39_word_new_line7 | wall
+| bip_39_word_new_line_7 | wall
 hurry
 sphere
 vendor
 yard
 blouse
 vibrant |  
-| bip_39_word_new_line8 | wall
+| bip_39_word_new_line_8 | wall
 hurry
 sphere
 vendor
@@ -113,7 +113,7 @@ yard
 blouse
 vibrant
 jelly |  
-| bip_39_word_new_line9 | wall
+| bip_39_word_new_line_9 | wall
 hurry
 sphere
 vendor

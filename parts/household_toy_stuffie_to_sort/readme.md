@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | vintage |  
-| bip_39_word_new_br10 | vintage<br>cotton<br>puzzle<br>poverty<br>hospital<br>turtle<br>soccer<br>payment<br>owner<br>coil |  
-| bip_39_word_new_br11 | vintage<br>cotton<br>puzzle<br>poverty<br>hospital<br>turtle<br>soccer<br>payment<br>owner<br>coil<br>pluck |  
-| bip_39_word_new_br12 | vintage<br>cotton<br>puzzle<br>poverty<br>hospital<br>turtle<br>soccer<br>payment<br>owner<br>coil<br>pluck<br>average |  
-| bip_39_word_new_br2 | vintage<br>cotton |  
-| bip_39_word_new_br3 | vintage<br>cotton<br>puzzle |  
-| bip_39_word_new_br4 | vintage<br>cotton<br>puzzle<br>poverty |  
-| bip_39_word_new_br5 | vintage<br>cotton<br>puzzle<br>poverty<br>hospital |  
-| bip_39_word_new_br6 | vintage<br>cotton<br>puzzle<br>poverty<br>hospital<br>turtle |  
-| bip_39_word_new_br7 | vintage<br>cotton<br>puzzle<br>poverty<br>hospital<br>turtle<br>soccer |  
-| bip_39_word_new_br8 | vintage<br>cotton<br>puzzle<br>poverty<br>hospital<br>turtle<br>soccer<br>payment |  
-| bip_39_word_new_br9 | vintage<br>cotton<br>puzzle<br>poverty<br>hospital<br>turtle<br>soccer<br>payment<br>owner |  
-| bip_39_word_new_line1 | vintage |  
-| bip_39_word_new_line10 | vintage
+| bip_39_word_new_br_1 | vintage |  
+| bip_39_word_new_br_10 | vintage<br>cotton<br>puzzle<br>poverty<br>hospital<br>turtle<br>soccer<br>payment<br>owner<br>coil |  
+| bip_39_word_new_br_11 | vintage<br>cotton<br>puzzle<br>poverty<br>hospital<br>turtle<br>soccer<br>payment<br>owner<br>coil<br>pluck |  
+| bip_39_word_new_br_12 | vintage<br>cotton<br>puzzle<br>poverty<br>hospital<br>turtle<br>soccer<br>payment<br>owner<br>coil<br>pluck<br>average |  
+| bip_39_word_new_br_2 | vintage<br>cotton |  
+| bip_39_word_new_br_3 | vintage<br>cotton<br>puzzle |  
+| bip_39_word_new_br_4 | vintage<br>cotton<br>puzzle<br>poverty |  
+| bip_39_word_new_br_5 | vintage<br>cotton<br>puzzle<br>poverty<br>hospital |  
+| bip_39_word_new_br_6 | vintage<br>cotton<br>puzzle<br>poverty<br>hospital<br>turtle |  
+| bip_39_word_new_br_7 | vintage<br>cotton<br>puzzle<br>poverty<br>hospital<br>turtle<br>soccer |  
+| bip_39_word_new_br_8 | vintage<br>cotton<br>puzzle<br>poverty<br>hospital<br>turtle<br>soccer<br>payment |  
+| bip_39_word_new_br_9 | vintage<br>cotton<br>puzzle<br>poverty<br>hospital<br>turtle<br>soccer<br>payment<br>owner |  
+| bip_39_word_new_line_1 | vintage |  
+| bip_39_word_new_line_10 | vintage
 cotton
 puzzle
 poverty
@@ -55,7 +55,7 @@ soccer
 payment
 owner
 coil |  
-| bip_39_word_new_line11 | vintage
+| bip_39_word_new_line_11 | vintage
 cotton
 puzzle
 poverty
@@ -66,7 +66,7 @@ payment
 owner
 coil
 pluck |  
-| bip_39_word_new_line12 | vintage
+| bip_39_word_new_line_12 | vintage
 cotton
 puzzle
 poverty
@@ -78,34 +78,34 @@ owner
 coil
 pluck
 average |  
-| bip_39_word_new_line2 | vintage
+| bip_39_word_new_line_2 | vintage
 cotton |  
-| bip_39_word_new_line3 | vintage
+| bip_39_word_new_line_3 | vintage
 cotton
 puzzle |  
-| bip_39_word_new_line4 | vintage
+| bip_39_word_new_line_4 | vintage
 cotton
 puzzle
 poverty |  
-| bip_39_word_new_line5 | vintage
+| bip_39_word_new_line_5 | vintage
 cotton
 puzzle
 poverty
 hospital |  
-| bip_39_word_new_line6 | vintage
+| bip_39_word_new_line_6 | vintage
 cotton
 puzzle
 poverty
 hospital
 turtle |  
-| bip_39_word_new_line7 | vintage
+| bip_39_word_new_line_7 | vintage
 cotton
 puzzle
 poverty
 hospital
 turtle
 soccer |  
-| bip_39_word_new_line8 | vintage
+| bip_39_word_new_line_8 | vintage
 cotton
 puzzle
 poverty
@@ -113,7 +113,7 @@ hospital
 turtle
 soccer
 payment |  
-| bip_39_word_new_line9 | vintage
+| bip_39_word_new_line_9 | vintage
 cotton
 puzzle
 poverty

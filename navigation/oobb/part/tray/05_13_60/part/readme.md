@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | scale |  
-| bip_39_word_new_br10 | scale<br>forget<br>caught<br>ahead<br>pig<br>hybrid<br>version<br>ability<br>inherit<br>left |  
-| bip_39_word_new_br11 | scale<br>forget<br>caught<br>ahead<br>pig<br>hybrid<br>version<br>ability<br>inherit<br>left<br>have |  
-| bip_39_word_new_br12 | scale<br>forget<br>caught<br>ahead<br>pig<br>hybrid<br>version<br>ability<br>inherit<br>left<br>have<br>album |  
-| bip_39_word_new_br2 | scale<br>forget |  
-| bip_39_word_new_br3 | scale<br>forget<br>caught |  
-| bip_39_word_new_br4 | scale<br>forget<br>caught<br>ahead |  
-| bip_39_word_new_br5 | scale<br>forget<br>caught<br>ahead<br>pig |  
-| bip_39_word_new_br6 | scale<br>forget<br>caught<br>ahead<br>pig<br>hybrid |  
-| bip_39_word_new_br7 | scale<br>forget<br>caught<br>ahead<br>pig<br>hybrid<br>version |  
-| bip_39_word_new_br8 | scale<br>forget<br>caught<br>ahead<br>pig<br>hybrid<br>version<br>ability |  
-| bip_39_word_new_br9 | scale<br>forget<br>caught<br>ahead<br>pig<br>hybrid<br>version<br>ability<br>inherit |  
-| bip_39_word_new_line1 | scale |  
-| bip_39_word_new_line10 | scale
+| bip_39_word_new_br_1 | scale |  
+| bip_39_word_new_br_10 | scale<br>forget<br>caught<br>ahead<br>pig<br>hybrid<br>version<br>ability<br>inherit<br>left |  
+| bip_39_word_new_br_11 | scale<br>forget<br>caught<br>ahead<br>pig<br>hybrid<br>version<br>ability<br>inherit<br>left<br>have |  
+| bip_39_word_new_br_12 | scale<br>forget<br>caught<br>ahead<br>pig<br>hybrid<br>version<br>ability<br>inherit<br>left<br>have<br>album |  
+| bip_39_word_new_br_2 | scale<br>forget |  
+| bip_39_word_new_br_3 | scale<br>forget<br>caught |  
+| bip_39_word_new_br_4 | scale<br>forget<br>caught<br>ahead |  
+| bip_39_word_new_br_5 | scale<br>forget<br>caught<br>ahead<br>pig |  
+| bip_39_word_new_br_6 | scale<br>forget<br>caught<br>ahead<br>pig<br>hybrid |  
+| bip_39_word_new_br_7 | scale<br>forget<br>caught<br>ahead<br>pig<br>hybrid<br>version |  
+| bip_39_word_new_br_8 | scale<br>forget<br>caught<br>ahead<br>pig<br>hybrid<br>version<br>ability |  
+| bip_39_word_new_br_9 | scale<br>forget<br>caught<br>ahead<br>pig<br>hybrid<br>version<br>ability<br>inherit |  
+| bip_39_word_new_line_1 | scale |  
+| bip_39_word_new_line_10 | scale
 forget
 caught
 ahead
@@ -55,7 +55,7 @@ version
 ability
 inherit
 left |  
-| bip_39_word_new_line11 | scale
+| bip_39_word_new_line_11 | scale
 forget
 caught
 ahead
@@ -66,7 +66,7 @@ ability
 inherit
 left
 have |  
-| bip_39_word_new_line12 | scale
+| bip_39_word_new_line_12 | scale
 forget
 caught
 ahead
@@ -78,34 +78,34 @@ inherit
 left
 have
 album |  
-| bip_39_word_new_line2 | scale
+| bip_39_word_new_line_2 | scale
 forget |  
-| bip_39_word_new_line3 | scale
+| bip_39_word_new_line_3 | scale
 forget
 caught |  
-| bip_39_word_new_line4 | scale
+| bip_39_word_new_line_4 | scale
 forget
 caught
 ahead |  
-| bip_39_word_new_line5 | scale
+| bip_39_word_new_line_5 | scale
 forget
 caught
 ahead
 pig |  
-| bip_39_word_new_line6 | scale
+| bip_39_word_new_line_6 | scale
 forget
 caught
 ahead
 pig
 hybrid |  
-| bip_39_word_new_line7 | scale
+| bip_39_word_new_line_7 | scale
 forget
 caught
 ahead
 pig
 hybrid
 version |  
-| bip_39_word_new_line8 | scale
+| bip_39_word_new_line_8 | scale
 forget
 caught
 ahead
@@ -113,7 +113,7 @@ pig
 hybrid
 version
 ability |  
-| bip_39_word_new_line9 | scale
+| bip_39_word_new_line_9 | scale
 forget
 caught
 ahead

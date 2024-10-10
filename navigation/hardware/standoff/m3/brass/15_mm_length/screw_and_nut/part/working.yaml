@@ -1,17 +1,17 @@
-bip_39_word_new_br1: cream
-bip_39_word_new_br10: cream<br>stadium<br>measure<br>pony<br>plunge<br>begin<br>pottery<br>clean<br>flush<br>remind
-bip_39_word_new_br11: cream<br>stadium<br>measure<br>pony<br>plunge<br>begin<br>pottery<br>clean<br>flush<br>remind<br>slam
-bip_39_word_new_br12: cream<br>stadium<br>measure<br>pony<br>plunge<br>begin<br>pottery<br>clean<br>flush<br>remind<br>slam<br>already
-bip_39_word_new_br2: cream<br>stadium
-bip_39_word_new_br3: cream<br>stadium<br>measure
-bip_39_word_new_br4: cream<br>stadium<br>measure<br>pony
-bip_39_word_new_br5: cream<br>stadium<br>measure<br>pony<br>plunge
-bip_39_word_new_br6: cream<br>stadium<br>measure<br>pony<br>plunge<br>begin
-bip_39_word_new_br7: cream<br>stadium<br>measure<br>pony<br>plunge<br>begin<br>pottery
-bip_39_word_new_br8: cream<br>stadium<br>measure<br>pony<br>plunge<br>begin<br>pottery<br>clean
-bip_39_word_new_br9: cream<br>stadium<br>measure<br>pony<br>plunge<br>begin<br>pottery<br>clean<br>flush
-bip_39_word_new_line1: cream
-bip_39_word_new_line10: 'cream
+bip_39_word_new_br_1: cream
+bip_39_word_new_br_10: cream<br>stadium<br>measure<br>pony<br>plunge<br>begin<br>pottery<br>clean<br>flush<br>remind
+bip_39_word_new_br_11: cream<br>stadium<br>measure<br>pony<br>plunge<br>begin<br>pottery<br>clean<br>flush<br>remind<br>slam
+bip_39_word_new_br_12: cream<br>stadium<br>measure<br>pony<br>plunge<br>begin<br>pottery<br>clean<br>flush<br>remind<br>slam<br>already
+bip_39_word_new_br_2: cream<br>stadium
+bip_39_word_new_br_3: cream<br>stadium<br>measure
+bip_39_word_new_br_4: cream<br>stadium<br>measure<br>pony
+bip_39_word_new_br_5: cream<br>stadium<br>measure<br>pony<br>plunge
+bip_39_word_new_br_6: cream<br>stadium<br>measure<br>pony<br>plunge<br>begin
+bip_39_word_new_br_7: cream<br>stadium<br>measure<br>pony<br>plunge<br>begin<br>pottery
+bip_39_word_new_br_8: cream<br>stadium<br>measure<br>pony<br>plunge<br>begin<br>pottery<br>clean
+bip_39_word_new_br_9: cream<br>stadium<br>measure<br>pony<br>plunge<br>begin<br>pottery<br>clean<br>flush
+bip_39_word_new_line_1: cream
+bip_39_word_new_line_10: 'cream
 
   stadium
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'cream
   flush
 
   remind'
-bip_39_word_new_line11: 'cream
+bip_39_word_new_line_11: 'cream
 
   stadium
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'cream
   remind
 
   slam'
-bip_39_word_new_line12: 'cream
+bip_39_word_new_line_12: 'cream
 
   stadium
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'cream
   slam
 
   already'
-bip_39_word_new_line2: 'cream
+bip_39_word_new_line_2: 'cream
 
   stadium'
-bip_39_word_new_line3: 'cream
+bip_39_word_new_line_3: 'cream
 
   stadium
 
   measure'
-bip_39_word_new_line4: 'cream
+bip_39_word_new_line_4: 'cream
 
   stadium
 
   measure
 
   pony'
-bip_39_word_new_line5: 'cream
+bip_39_word_new_line_5: 'cream
 
   stadium
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'cream
   pony
 
   plunge'
-bip_39_word_new_line6: 'cream
+bip_39_word_new_line_6: 'cream
 
   stadium
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'cream
   plunge
 
   begin'
-bip_39_word_new_line7: 'cream
+bip_39_word_new_line_7: 'cream
 
   stadium
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'cream
   begin
 
   pottery'
-bip_39_word_new_line8: 'cream
+bip_39_word_new_line_8: 'cream
 
   stadium
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'cream
   pottery
 
   clean'
-bip_39_word_new_line9: 'cream
+bip_39_word_new_line_9: 'cream
 
   stadium
 

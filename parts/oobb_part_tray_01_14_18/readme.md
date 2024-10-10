@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | stand |  
-| bip_39_word_new_br10 | stand<br>viable<br>pigeon<br>subway<br>soup<br>reduce<br>armed<br>sand<br>liar<br>defy |  
-| bip_39_word_new_br11 | stand<br>viable<br>pigeon<br>subway<br>soup<br>reduce<br>armed<br>sand<br>liar<br>defy<br>shove |  
-| bip_39_word_new_br12 | stand<br>viable<br>pigeon<br>subway<br>soup<br>reduce<br>armed<br>sand<br>liar<br>defy<br>shove<br>absent |  
-| bip_39_word_new_br2 | stand<br>viable |  
-| bip_39_word_new_br3 | stand<br>viable<br>pigeon |  
-| bip_39_word_new_br4 | stand<br>viable<br>pigeon<br>subway |  
-| bip_39_word_new_br5 | stand<br>viable<br>pigeon<br>subway<br>soup |  
-| bip_39_word_new_br6 | stand<br>viable<br>pigeon<br>subway<br>soup<br>reduce |  
-| bip_39_word_new_br7 | stand<br>viable<br>pigeon<br>subway<br>soup<br>reduce<br>armed |  
-| bip_39_word_new_br8 | stand<br>viable<br>pigeon<br>subway<br>soup<br>reduce<br>armed<br>sand |  
-| bip_39_word_new_br9 | stand<br>viable<br>pigeon<br>subway<br>soup<br>reduce<br>armed<br>sand<br>liar |  
-| bip_39_word_new_line1 | stand |  
-| bip_39_word_new_line10 | stand
+| bip_39_word_new_br_1 | stand |  
+| bip_39_word_new_br_10 | stand<br>viable<br>pigeon<br>subway<br>soup<br>reduce<br>armed<br>sand<br>liar<br>defy |  
+| bip_39_word_new_br_11 | stand<br>viable<br>pigeon<br>subway<br>soup<br>reduce<br>armed<br>sand<br>liar<br>defy<br>shove |  
+| bip_39_word_new_br_12 | stand<br>viable<br>pigeon<br>subway<br>soup<br>reduce<br>armed<br>sand<br>liar<br>defy<br>shove<br>absent |  
+| bip_39_word_new_br_2 | stand<br>viable |  
+| bip_39_word_new_br_3 | stand<br>viable<br>pigeon |  
+| bip_39_word_new_br_4 | stand<br>viable<br>pigeon<br>subway |  
+| bip_39_word_new_br_5 | stand<br>viable<br>pigeon<br>subway<br>soup |  
+| bip_39_word_new_br_6 | stand<br>viable<br>pigeon<br>subway<br>soup<br>reduce |  
+| bip_39_word_new_br_7 | stand<br>viable<br>pigeon<br>subway<br>soup<br>reduce<br>armed |  
+| bip_39_word_new_br_8 | stand<br>viable<br>pigeon<br>subway<br>soup<br>reduce<br>armed<br>sand |  
+| bip_39_word_new_br_9 | stand<br>viable<br>pigeon<br>subway<br>soup<br>reduce<br>armed<br>sand<br>liar |  
+| bip_39_word_new_line_1 | stand |  
+| bip_39_word_new_line_10 | stand
 viable
 pigeon
 subway
@@ -55,7 +55,7 @@ armed
 sand
 liar
 defy |  
-| bip_39_word_new_line11 | stand
+| bip_39_word_new_line_11 | stand
 viable
 pigeon
 subway
@@ -66,7 +66,7 @@ sand
 liar
 defy
 shove |  
-| bip_39_word_new_line12 | stand
+| bip_39_word_new_line_12 | stand
 viable
 pigeon
 subway
@@ -78,34 +78,34 @@ liar
 defy
 shove
 absent |  
-| bip_39_word_new_line2 | stand
+| bip_39_word_new_line_2 | stand
 viable |  
-| bip_39_word_new_line3 | stand
+| bip_39_word_new_line_3 | stand
 viable
 pigeon |  
-| bip_39_word_new_line4 | stand
+| bip_39_word_new_line_4 | stand
 viable
 pigeon
 subway |  
-| bip_39_word_new_line5 | stand
+| bip_39_word_new_line_5 | stand
 viable
 pigeon
 subway
 soup |  
-| bip_39_word_new_line6 | stand
+| bip_39_word_new_line_6 | stand
 viable
 pigeon
 subway
 soup
 reduce |  
-| bip_39_word_new_line7 | stand
+| bip_39_word_new_line_7 | stand
 viable
 pigeon
 subway
 soup
 reduce
 armed |  
-| bip_39_word_new_line8 | stand
+| bip_39_word_new_line_8 | stand
 viable
 pigeon
 subway
@@ -113,7 +113,7 @@ soup
 reduce
 armed
 sand |  
-| bip_39_word_new_line9 | stand
+| bip_39_word_new_line_9 | stand
 viable
 pigeon
 subway

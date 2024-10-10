@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | glance |  
-| bip_39_word_new_br10 | glance<br>guess<br>term<br>ankle<br>item<br>matter<br>advance<br>cat<br>logic<br>focus |  
-| bip_39_word_new_br11 | glance<br>guess<br>term<br>ankle<br>item<br>matter<br>advance<br>cat<br>logic<br>focus<br>length |  
-| bip_39_word_new_br12 | glance<br>guess<br>term<br>ankle<br>item<br>matter<br>advance<br>cat<br>logic<br>focus<br>length<br>apart |  
-| bip_39_word_new_br2 | glance<br>guess |  
-| bip_39_word_new_br3 | glance<br>guess<br>term |  
-| bip_39_word_new_br4 | glance<br>guess<br>term<br>ankle |  
-| bip_39_word_new_br5 | glance<br>guess<br>term<br>ankle<br>item |  
-| bip_39_word_new_br6 | glance<br>guess<br>term<br>ankle<br>item<br>matter |  
-| bip_39_word_new_br7 | glance<br>guess<br>term<br>ankle<br>item<br>matter<br>advance |  
-| bip_39_word_new_br8 | glance<br>guess<br>term<br>ankle<br>item<br>matter<br>advance<br>cat |  
-| bip_39_word_new_br9 | glance<br>guess<br>term<br>ankle<br>item<br>matter<br>advance<br>cat<br>logic |  
-| bip_39_word_new_line1 | glance |  
-| bip_39_word_new_line10 | glance
+| bip_39_word_new_br_1 | glance |  
+| bip_39_word_new_br_10 | glance<br>guess<br>term<br>ankle<br>item<br>matter<br>advance<br>cat<br>logic<br>focus |  
+| bip_39_word_new_br_11 | glance<br>guess<br>term<br>ankle<br>item<br>matter<br>advance<br>cat<br>logic<br>focus<br>length |  
+| bip_39_word_new_br_12 | glance<br>guess<br>term<br>ankle<br>item<br>matter<br>advance<br>cat<br>logic<br>focus<br>length<br>apart |  
+| bip_39_word_new_br_2 | glance<br>guess |  
+| bip_39_word_new_br_3 | glance<br>guess<br>term |  
+| bip_39_word_new_br_4 | glance<br>guess<br>term<br>ankle |  
+| bip_39_word_new_br_5 | glance<br>guess<br>term<br>ankle<br>item |  
+| bip_39_word_new_br_6 | glance<br>guess<br>term<br>ankle<br>item<br>matter |  
+| bip_39_word_new_br_7 | glance<br>guess<br>term<br>ankle<br>item<br>matter<br>advance |  
+| bip_39_word_new_br_8 | glance<br>guess<br>term<br>ankle<br>item<br>matter<br>advance<br>cat |  
+| bip_39_word_new_br_9 | glance<br>guess<br>term<br>ankle<br>item<br>matter<br>advance<br>cat<br>logic |  
+| bip_39_word_new_line_1 | glance |  
+| bip_39_word_new_line_10 | glance
 guess
 term
 ankle
@@ -55,7 +55,7 @@ advance
 cat
 logic
 focus |  
-| bip_39_word_new_line11 | glance
+| bip_39_word_new_line_11 | glance
 guess
 term
 ankle
@@ -66,7 +66,7 @@ cat
 logic
 focus
 length |  
-| bip_39_word_new_line12 | glance
+| bip_39_word_new_line_12 | glance
 guess
 term
 ankle
@@ -78,34 +78,34 @@ logic
 focus
 length
 apart |  
-| bip_39_word_new_line2 | glance
+| bip_39_word_new_line_2 | glance
 guess |  
-| bip_39_word_new_line3 | glance
+| bip_39_word_new_line_3 | glance
 guess
 term |  
-| bip_39_word_new_line4 | glance
+| bip_39_word_new_line_4 | glance
 guess
 term
 ankle |  
-| bip_39_word_new_line5 | glance
+| bip_39_word_new_line_5 | glance
 guess
 term
 ankle
 item |  
-| bip_39_word_new_line6 | glance
+| bip_39_word_new_line_6 | glance
 guess
 term
 ankle
 item
 matter |  
-| bip_39_word_new_line7 | glance
+| bip_39_word_new_line_7 | glance
 guess
 term
 ankle
 item
 matter
 advance |  
-| bip_39_word_new_line8 | glance
+| bip_39_word_new_line_8 | glance
 guess
 term
 ankle
@@ -113,7 +113,7 @@ item
 matter
 advance
 cat |  
-| bip_39_word_new_line9 | glance
+| bip_39_word_new_line_9 | glance
 guess
 term
 ankle

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | section |  
-| bip_39_word_new_br10 | section<br>seminar<br>stone<br>endless<br>beyond<br>asset<br>badge<br>velvet<br>south<br>latin |  
-| bip_39_word_new_br11 | section<br>seminar<br>stone<br>endless<br>beyond<br>asset<br>badge<br>velvet<br>south<br>latin<br>poet |  
-| bip_39_word_new_br12 | section<br>seminar<br>stone<br>endless<br>beyond<br>asset<br>badge<br>velvet<br>south<br>latin<br>poet<br>accident |  
-| bip_39_word_new_br2 | section<br>seminar |  
-| bip_39_word_new_br3 | section<br>seminar<br>stone |  
-| bip_39_word_new_br4 | section<br>seminar<br>stone<br>endless |  
-| bip_39_word_new_br5 | section<br>seminar<br>stone<br>endless<br>beyond |  
-| bip_39_word_new_br6 | section<br>seminar<br>stone<br>endless<br>beyond<br>asset |  
-| bip_39_word_new_br7 | section<br>seminar<br>stone<br>endless<br>beyond<br>asset<br>badge |  
-| bip_39_word_new_br8 | section<br>seminar<br>stone<br>endless<br>beyond<br>asset<br>badge<br>velvet |  
-| bip_39_word_new_br9 | section<br>seminar<br>stone<br>endless<br>beyond<br>asset<br>badge<br>velvet<br>south |  
-| bip_39_word_new_line1 | section |  
-| bip_39_word_new_line10 | section
+| bip_39_word_new_br_1 | section |  
+| bip_39_word_new_br_10 | section<br>seminar<br>stone<br>endless<br>beyond<br>asset<br>badge<br>velvet<br>south<br>latin |  
+| bip_39_word_new_br_11 | section<br>seminar<br>stone<br>endless<br>beyond<br>asset<br>badge<br>velvet<br>south<br>latin<br>poet |  
+| bip_39_word_new_br_12 | section<br>seminar<br>stone<br>endless<br>beyond<br>asset<br>badge<br>velvet<br>south<br>latin<br>poet<br>accident |  
+| bip_39_word_new_br_2 | section<br>seminar |  
+| bip_39_word_new_br_3 | section<br>seminar<br>stone |  
+| bip_39_word_new_br_4 | section<br>seminar<br>stone<br>endless |  
+| bip_39_word_new_br_5 | section<br>seminar<br>stone<br>endless<br>beyond |  
+| bip_39_word_new_br_6 | section<br>seminar<br>stone<br>endless<br>beyond<br>asset |  
+| bip_39_word_new_br_7 | section<br>seminar<br>stone<br>endless<br>beyond<br>asset<br>badge |  
+| bip_39_word_new_br_8 | section<br>seminar<br>stone<br>endless<br>beyond<br>asset<br>badge<br>velvet |  
+| bip_39_word_new_br_9 | section<br>seminar<br>stone<br>endless<br>beyond<br>asset<br>badge<br>velvet<br>south |  
+| bip_39_word_new_line_1 | section |  
+| bip_39_word_new_line_10 | section
 seminar
 stone
 endless
@@ -55,7 +55,7 @@ badge
 velvet
 south
 latin |  
-| bip_39_word_new_line11 | section
+| bip_39_word_new_line_11 | section
 seminar
 stone
 endless
@@ -66,7 +66,7 @@ velvet
 south
 latin
 poet |  
-| bip_39_word_new_line12 | section
+| bip_39_word_new_line_12 | section
 seminar
 stone
 endless
@@ -78,34 +78,34 @@ south
 latin
 poet
 accident |  
-| bip_39_word_new_line2 | section
+| bip_39_word_new_line_2 | section
 seminar |  
-| bip_39_word_new_line3 | section
+| bip_39_word_new_line_3 | section
 seminar
 stone |  
-| bip_39_word_new_line4 | section
+| bip_39_word_new_line_4 | section
 seminar
 stone
 endless |  
-| bip_39_word_new_line5 | section
+| bip_39_word_new_line_5 | section
 seminar
 stone
 endless
 beyond |  
-| bip_39_word_new_line6 | section
+| bip_39_word_new_line_6 | section
 seminar
 stone
 endless
 beyond
 asset |  
-| bip_39_word_new_line7 | section
+| bip_39_word_new_line_7 | section
 seminar
 stone
 endless
 beyond
 asset
 badge |  
-| bip_39_word_new_line8 | section
+| bip_39_word_new_line_8 | section
 seminar
 stone
 endless
@@ -113,7 +113,7 @@ beyond
 asset
 badge
 velvet |  
-| bip_39_word_new_line9 | section
+| bip_39_word_new_line_9 | section
 seminar
 stone
 endless

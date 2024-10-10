@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wisdom |  
-| bip_39_word_new_br10 | wisdom<br>team<br>loop<br>confirm<br>drum<br>affair<br>analyst<br>stomach<br>aunt<br>ticket |  
-| bip_39_word_new_br11 | wisdom<br>team<br>loop<br>confirm<br>drum<br>affair<br>analyst<br>stomach<br>aunt<br>ticket<br>badge |  
-| bip_39_word_new_br12 | wisdom<br>team<br>loop<br>confirm<br>drum<br>affair<br>analyst<br>stomach<br>aunt<br>ticket<br>badge<br>author |  
-| bip_39_word_new_br2 | wisdom<br>team |  
-| bip_39_word_new_br3 | wisdom<br>team<br>loop |  
-| bip_39_word_new_br4 | wisdom<br>team<br>loop<br>confirm |  
-| bip_39_word_new_br5 | wisdom<br>team<br>loop<br>confirm<br>drum |  
-| bip_39_word_new_br6 | wisdom<br>team<br>loop<br>confirm<br>drum<br>affair |  
-| bip_39_word_new_br7 | wisdom<br>team<br>loop<br>confirm<br>drum<br>affair<br>analyst |  
-| bip_39_word_new_br8 | wisdom<br>team<br>loop<br>confirm<br>drum<br>affair<br>analyst<br>stomach |  
-| bip_39_word_new_br9 | wisdom<br>team<br>loop<br>confirm<br>drum<br>affair<br>analyst<br>stomach<br>aunt |  
-| bip_39_word_new_line1 | wisdom |  
-| bip_39_word_new_line10 | wisdom
+| bip_39_word_new_br_1 | wisdom |  
+| bip_39_word_new_br_10 | wisdom<br>team<br>loop<br>confirm<br>drum<br>affair<br>analyst<br>stomach<br>aunt<br>ticket |  
+| bip_39_word_new_br_11 | wisdom<br>team<br>loop<br>confirm<br>drum<br>affair<br>analyst<br>stomach<br>aunt<br>ticket<br>badge |  
+| bip_39_word_new_br_12 | wisdom<br>team<br>loop<br>confirm<br>drum<br>affair<br>analyst<br>stomach<br>aunt<br>ticket<br>badge<br>author |  
+| bip_39_word_new_br_2 | wisdom<br>team |  
+| bip_39_word_new_br_3 | wisdom<br>team<br>loop |  
+| bip_39_word_new_br_4 | wisdom<br>team<br>loop<br>confirm |  
+| bip_39_word_new_br_5 | wisdom<br>team<br>loop<br>confirm<br>drum |  
+| bip_39_word_new_br_6 | wisdom<br>team<br>loop<br>confirm<br>drum<br>affair |  
+| bip_39_word_new_br_7 | wisdom<br>team<br>loop<br>confirm<br>drum<br>affair<br>analyst |  
+| bip_39_word_new_br_8 | wisdom<br>team<br>loop<br>confirm<br>drum<br>affair<br>analyst<br>stomach |  
+| bip_39_word_new_br_9 | wisdom<br>team<br>loop<br>confirm<br>drum<br>affair<br>analyst<br>stomach<br>aunt |  
+| bip_39_word_new_line_1 | wisdom |  
+| bip_39_word_new_line_10 | wisdom
 team
 loop
 confirm
@@ -55,7 +55,7 @@ analyst
 stomach
 aunt
 ticket |  
-| bip_39_word_new_line11 | wisdom
+| bip_39_word_new_line_11 | wisdom
 team
 loop
 confirm
@@ -66,7 +66,7 @@ stomach
 aunt
 ticket
 badge |  
-| bip_39_word_new_line12 | wisdom
+| bip_39_word_new_line_12 | wisdom
 team
 loop
 confirm
@@ -78,34 +78,34 @@ aunt
 ticket
 badge
 author |  
-| bip_39_word_new_line2 | wisdom
+| bip_39_word_new_line_2 | wisdom
 team |  
-| bip_39_word_new_line3 | wisdom
+| bip_39_word_new_line_3 | wisdom
 team
 loop |  
-| bip_39_word_new_line4 | wisdom
+| bip_39_word_new_line_4 | wisdom
 team
 loop
 confirm |  
-| bip_39_word_new_line5 | wisdom
+| bip_39_word_new_line_5 | wisdom
 team
 loop
 confirm
 drum |  
-| bip_39_word_new_line6 | wisdom
+| bip_39_word_new_line_6 | wisdom
 team
 loop
 confirm
 drum
 affair |  
-| bip_39_word_new_line7 | wisdom
+| bip_39_word_new_line_7 | wisdom
 team
 loop
 confirm
 drum
 affair
 analyst |  
-| bip_39_word_new_line8 | wisdom
+| bip_39_word_new_line_8 | wisdom
 team
 loop
 confirm
@@ -113,7 +113,7 @@ drum
 affair
 analyst
 stomach |  
-| bip_39_word_new_line9 | wisdom
+| bip_39_word_new_line_9 | wisdom
 team
 loop
 confirm

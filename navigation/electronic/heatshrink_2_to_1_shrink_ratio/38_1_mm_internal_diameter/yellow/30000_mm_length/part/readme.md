@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | title |  
-| bip_39_word_new_br10 | title<br>zebra<br>guitar<br>exist<br>install<br>fragile<br>arrive<br>satoshi<br>spend<br>tired |  
-| bip_39_word_new_br11 | title<br>zebra<br>guitar<br>exist<br>install<br>fragile<br>arrive<br>satoshi<br>spend<br>tired<br>canal |  
-| bip_39_word_new_br12 | title<br>zebra<br>guitar<br>exist<br>install<br>fragile<br>arrive<br>satoshi<br>spend<br>tired<br>canal<br>acquire |  
-| bip_39_word_new_br2 | title<br>zebra |  
-| bip_39_word_new_br3 | title<br>zebra<br>guitar |  
-| bip_39_word_new_br4 | title<br>zebra<br>guitar<br>exist |  
-| bip_39_word_new_br5 | title<br>zebra<br>guitar<br>exist<br>install |  
-| bip_39_word_new_br6 | title<br>zebra<br>guitar<br>exist<br>install<br>fragile |  
-| bip_39_word_new_br7 | title<br>zebra<br>guitar<br>exist<br>install<br>fragile<br>arrive |  
-| bip_39_word_new_br8 | title<br>zebra<br>guitar<br>exist<br>install<br>fragile<br>arrive<br>satoshi |  
-| bip_39_word_new_br9 | title<br>zebra<br>guitar<br>exist<br>install<br>fragile<br>arrive<br>satoshi<br>spend |  
-| bip_39_word_new_line1 | title |  
-| bip_39_word_new_line10 | title
+| bip_39_word_new_br_1 | title |  
+| bip_39_word_new_br_10 | title<br>zebra<br>guitar<br>exist<br>install<br>fragile<br>arrive<br>satoshi<br>spend<br>tired |  
+| bip_39_word_new_br_11 | title<br>zebra<br>guitar<br>exist<br>install<br>fragile<br>arrive<br>satoshi<br>spend<br>tired<br>canal |  
+| bip_39_word_new_br_12 | title<br>zebra<br>guitar<br>exist<br>install<br>fragile<br>arrive<br>satoshi<br>spend<br>tired<br>canal<br>acquire |  
+| bip_39_word_new_br_2 | title<br>zebra |  
+| bip_39_word_new_br_3 | title<br>zebra<br>guitar |  
+| bip_39_word_new_br_4 | title<br>zebra<br>guitar<br>exist |  
+| bip_39_word_new_br_5 | title<br>zebra<br>guitar<br>exist<br>install |  
+| bip_39_word_new_br_6 | title<br>zebra<br>guitar<br>exist<br>install<br>fragile |  
+| bip_39_word_new_br_7 | title<br>zebra<br>guitar<br>exist<br>install<br>fragile<br>arrive |  
+| bip_39_word_new_br_8 | title<br>zebra<br>guitar<br>exist<br>install<br>fragile<br>arrive<br>satoshi |  
+| bip_39_word_new_br_9 | title<br>zebra<br>guitar<br>exist<br>install<br>fragile<br>arrive<br>satoshi<br>spend |  
+| bip_39_word_new_line_1 | title |  
+| bip_39_word_new_line_10 | title
 zebra
 guitar
 exist
@@ -55,7 +55,7 @@ arrive
 satoshi
 spend
 tired |  
-| bip_39_word_new_line11 | title
+| bip_39_word_new_line_11 | title
 zebra
 guitar
 exist
@@ -66,7 +66,7 @@ satoshi
 spend
 tired
 canal |  
-| bip_39_word_new_line12 | title
+| bip_39_word_new_line_12 | title
 zebra
 guitar
 exist
@@ -78,34 +78,34 @@ spend
 tired
 canal
 acquire |  
-| bip_39_word_new_line2 | title
+| bip_39_word_new_line_2 | title
 zebra |  
-| bip_39_word_new_line3 | title
+| bip_39_word_new_line_3 | title
 zebra
 guitar |  
-| bip_39_word_new_line4 | title
+| bip_39_word_new_line_4 | title
 zebra
 guitar
 exist |  
-| bip_39_word_new_line5 | title
+| bip_39_word_new_line_5 | title
 zebra
 guitar
 exist
 install |  
-| bip_39_word_new_line6 | title
+| bip_39_word_new_line_6 | title
 zebra
 guitar
 exist
 install
 fragile |  
-| bip_39_word_new_line7 | title
+| bip_39_word_new_line_7 | title
 zebra
 guitar
 exist
 install
 fragile
 arrive |  
-| bip_39_word_new_line8 | title
+| bip_39_word_new_line_8 | title
 zebra
 guitar
 exist
@@ -113,7 +113,7 @@ install
 fragile
 arrive
 satoshi |  
-| bip_39_word_new_line9 | title
+| bip_39_word_new_line_9 | title
 zebra
 guitar
 exist

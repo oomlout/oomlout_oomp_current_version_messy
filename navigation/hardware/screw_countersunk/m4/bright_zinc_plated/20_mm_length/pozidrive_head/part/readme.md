@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | raise |  
-| bip_39_word_new_br10 | raise<br>tunnel<br>nice<br>evolve<br>spend<br>remove<br>gap<br>eagle<br>share<br>shove |  
-| bip_39_word_new_br11 | raise<br>tunnel<br>nice<br>evolve<br>spend<br>remove<br>gap<br>eagle<br>share<br>shove<br>use |  
-| bip_39_word_new_br12 | raise<br>tunnel<br>nice<br>evolve<br>spend<br>remove<br>gap<br>eagle<br>share<br>shove<br>use<br>asset |  
-| bip_39_word_new_br2 | raise<br>tunnel |  
-| bip_39_word_new_br3 | raise<br>tunnel<br>nice |  
-| bip_39_word_new_br4 | raise<br>tunnel<br>nice<br>evolve |  
-| bip_39_word_new_br5 | raise<br>tunnel<br>nice<br>evolve<br>spend |  
-| bip_39_word_new_br6 | raise<br>tunnel<br>nice<br>evolve<br>spend<br>remove |  
-| bip_39_word_new_br7 | raise<br>tunnel<br>nice<br>evolve<br>spend<br>remove<br>gap |  
-| bip_39_word_new_br8 | raise<br>tunnel<br>nice<br>evolve<br>spend<br>remove<br>gap<br>eagle |  
-| bip_39_word_new_br9 | raise<br>tunnel<br>nice<br>evolve<br>spend<br>remove<br>gap<br>eagle<br>share |  
-| bip_39_word_new_line1 | raise |  
-| bip_39_word_new_line10 | raise
+| bip_39_word_new_br_1 | raise |  
+| bip_39_word_new_br_10 | raise<br>tunnel<br>nice<br>evolve<br>spend<br>remove<br>gap<br>eagle<br>share<br>shove |  
+| bip_39_word_new_br_11 | raise<br>tunnel<br>nice<br>evolve<br>spend<br>remove<br>gap<br>eagle<br>share<br>shove<br>use |  
+| bip_39_word_new_br_12 | raise<br>tunnel<br>nice<br>evolve<br>spend<br>remove<br>gap<br>eagle<br>share<br>shove<br>use<br>asset |  
+| bip_39_word_new_br_2 | raise<br>tunnel |  
+| bip_39_word_new_br_3 | raise<br>tunnel<br>nice |  
+| bip_39_word_new_br_4 | raise<br>tunnel<br>nice<br>evolve |  
+| bip_39_word_new_br_5 | raise<br>tunnel<br>nice<br>evolve<br>spend |  
+| bip_39_word_new_br_6 | raise<br>tunnel<br>nice<br>evolve<br>spend<br>remove |  
+| bip_39_word_new_br_7 | raise<br>tunnel<br>nice<br>evolve<br>spend<br>remove<br>gap |  
+| bip_39_word_new_br_8 | raise<br>tunnel<br>nice<br>evolve<br>spend<br>remove<br>gap<br>eagle |  
+| bip_39_word_new_br_9 | raise<br>tunnel<br>nice<br>evolve<br>spend<br>remove<br>gap<br>eagle<br>share |  
+| bip_39_word_new_line_1 | raise |  
+| bip_39_word_new_line_10 | raise
 tunnel
 nice
 evolve
@@ -55,7 +55,7 @@ gap
 eagle
 share
 shove |  
-| bip_39_word_new_line11 | raise
+| bip_39_word_new_line_11 | raise
 tunnel
 nice
 evolve
@@ -66,7 +66,7 @@ eagle
 share
 shove
 use |  
-| bip_39_word_new_line12 | raise
+| bip_39_word_new_line_12 | raise
 tunnel
 nice
 evolve
@@ -78,34 +78,34 @@ share
 shove
 use
 asset |  
-| bip_39_word_new_line2 | raise
+| bip_39_word_new_line_2 | raise
 tunnel |  
-| bip_39_word_new_line3 | raise
+| bip_39_word_new_line_3 | raise
 tunnel
 nice |  
-| bip_39_word_new_line4 | raise
+| bip_39_word_new_line_4 | raise
 tunnel
 nice
 evolve |  
-| bip_39_word_new_line5 | raise
+| bip_39_word_new_line_5 | raise
 tunnel
 nice
 evolve
 spend |  
-| bip_39_word_new_line6 | raise
+| bip_39_word_new_line_6 | raise
 tunnel
 nice
 evolve
 spend
 remove |  
-| bip_39_word_new_line7 | raise
+| bip_39_word_new_line_7 | raise
 tunnel
 nice
 evolve
 spend
 remove
 gap |  
-| bip_39_word_new_line8 | raise
+| bip_39_word_new_line_8 | raise
 tunnel
 nice
 evolve
@@ -113,7 +113,7 @@ spend
 remove
 gap
 eagle |  
-| bip_39_word_new_line9 | raise
+| bip_39_word_new_line_9 | raise
 tunnel
 nice
 evolve

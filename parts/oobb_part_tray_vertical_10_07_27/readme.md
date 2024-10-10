@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dial |  
-| bip_39_word_new_br10 | dial<br>main<br>ill<br>panda<br>super<br>betray<br>foot<br>figure<br>sail<br>grunt |  
-| bip_39_word_new_br11 | dial<br>main<br>ill<br>panda<br>super<br>betray<br>foot<br>figure<br>sail<br>grunt<br>agree |  
-| bip_39_word_new_br12 | dial<br>main<br>ill<br>panda<br>super<br>betray<br>foot<br>figure<br>sail<br>grunt<br>agree<br>april |  
-| bip_39_word_new_br2 | dial<br>main |  
-| bip_39_word_new_br3 | dial<br>main<br>ill |  
-| bip_39_word_new_br4 | dial<br>main<br>ill<br>panda |  
-| bip_39_word_new_br5 | dial<br>main<br>ill<br>panda<br>super |  
-| bip_39_word_new_br6 | dial<br>main<br>ill<br>panda<br>super<br>betray |  
-| bip_39_word_new_br7 | dial<br>main<br>ill<br>panda<br>super<br>betray<br>foot |  
-| bip_39_word_new_br8 | dial<br>main<br>ill<br>panda<br>super<br>betray<br>foot<br>figure |  
-| bip_39_word_new_br9 | dial<br>main<br>ill<br>panda<br>super<br>betray<br>foot<br>figure<br>sail |  
-| bip_39_word_new_line1 | dial |  
-| bip_39_word_new_line10 | dial
+| bip_39_word_new_br_1 | dial |  
+| bip_39_word_new_br_10 | dial<br>main<br>ill<br>panda<br>super<br>betray<br>foot<br>figure<br>sail<br>grunt |  
+| bip_39_word_new_br_11 | dial<br>main<br>ill<br>panda<br>super<br>betray<br>foot<br>figure<br>sail<br>grunt<br>agree |  
+| bip_39_word_new_br_12 | dial<br>main<br>ill<br>panda<br>super<br>betray<br>foot<br>figure<br>sail<br>grunt<br>agree<br>april |  
+| bip_39_word_new_br_2 | dial<br>main |  
+| bip_39_word_new_br_3 | dial<br>main<br>ill |  
+| bip_39_word_new_br_4 | dial<br>main<br>ill<br>panda |  
+| bip_39_word_new_br_5 | dial<br>main<br>ill<br>panda<br>super |  
+| bip_39_word_new_br_6 | dial<br>main<br>ill<br>panda<br>super<br>betray |  
+| bip_39_word_new_br_7 | dial<br>main<br>ill<br>panda<br>super<br>betray<br>foot |  
+| bip_39_word_new_br_8 | dial<br>main<br>ill<br>panda<br>super<br>betray<br>foot<br>figure |  
+| bip_39_word_new_br_9 | dial<br>main<br>ill<br>panda<br>super<br>betray<br>foot<br>figure<br>sail |  
+| bip_39_word_new_line_1 | dial |  
+| bip_39_word_new_line_10 | dial
 main
 ill
 panda
@@ -55,7 +55,7 @@ foot
 figure
 sail
 grunt |  
-| bip_39_word_new_line11 | dial
+| bip_39_word_new_line_11 | dial
 main
 ill
 panda
@@ -66,7 +66,7 @@ figure
 sail
 grunt
 agree |  
-| bip_39_word_new_line12 | dial
+| bip_39_word_new_line_12 | dial
 main
 ill
 panda
@@ -78,34 +78,34 @@ sail
 grunt
 agree
 april |  
-| bip_39_word_new_line2 | dial
+| bip_39_word_new_line_2 | dial
 main |  
-| bip_39_word_new_line3 | dial
+| bip_39_word_new_line_3 | dial
 main
 ill |  
-| bip_39_word_new_line4 | dial
+| bip_39_word_new_line_4 | dial
 main
 ill
 panda |  
-| bip_39_word_new_line5 | dial
+| bip_39_word_new_line_5 | dial
 main
 ill
 panda
 super |  
-| bip_39_word_new_line6 | dial
+| bip_39_word_new_line_6 | dial
 main
 ill
 panda
 super
 betray |  
-| bip_39_word_new_line7 | dial
+| bip_39_word_new_line_7 | dial
 main
 ill
 panda
 super
 betray
 foot |  
-| bip_39_word_new_line8 | dial
+| bip_39_word_new_line_8 | dial
 main
 ill
 panda
@@ -113,7 +113,7 @@ super
 betray
 foot
 figure |  
-| bip_39_word_new_line9 | dial
+| bip_39_word_new_line_9 | dial
 main
 ill
 panda

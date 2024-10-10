@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | soft |  
-| bip_39_word_new_br10 | soft<br>million<br>uncover<br>admit<br>birth<br>siren<br>blame<br>shuffle<br>tuition<br>attitude |  
-| bip_39_word_new_br11 | soft<br>million<br>uncover<br>admit<br>birth<br>siren<br>blame<br>shuffle<br>tuition<br>attitude<br>kiss |  
-| bip_39_word_new_br12 | soft<br>million<br>uncover<br>admit<br>birth<br>siren<br>blame<br>shuffle<br>tuition<br>attitude<br>kiss<br>again |  
-| bip_39_word_new_br2 | soft<br>million |  
-| bip_39_word_new_br3 | soft<br>million<br>uncover |  
-| bip_39_word_new_br4 | soft<br>million<br>uncover<br>admit |  
-| bip_39_word_new_br5 | soft<br>million<br>uncover<br>admit<br>birth |  
-| bip_39_word_new_br6 | soft<br>million<br>uncover<br>admit<br>birth<br>siren |  
-| bip_39_word_new_br7 | soft<br>million<br>uncover<br>admit<br>birth<br>siren<br>blame |  
-| bip_39_word_new_br8 | soft<br>million<br>uncover<br>admit<br>birth<br>siren<br>blame<br>shuffle |  
-| bip_39_word_new_br9 | soft<br>million<br>uncover<br>admit<br>birth<br>siren<br>blame<br>shuffle<br>tuition |  
-| bip_39_word_new_line1 | soft |  
-| bip_39_word_new_line10 | soft
+| bip_39_word_new_br_1 | soft |  
+| bip_39_word_new_br_10 | soft<br>million<br>uncover<br>admit<br>birth<br>siren<br>blame<br>shuffle<br>tuition<br>attitude |  
+| bip_39_word_new_br_11 | soft<br>million<br>uncover<br>admit<br>birth<br>siren<br>blame<br>shuffle<br>tuition<br>attitude<br>kiss |  
+| bip_39_word_new_br_12 | soft<br>million<br>uncover<br>admit<br>birth<br>siren<br>blame<br>shuffle<br>tuition<br>attitude<br>kiss<br>again |  
+| bip_39_word_new_br_2 | soft<br>million |  
+| bip_39_word_new_br_3 | soft<br>million<br>uncover |  
+| bip_39_word_new_br_4 | soft<br>million<br>uncover<br>admit |  
+| bip_39_word_new_br_5 | soft<br>million<br>uncover<br>admit<br>birth |  
+| bip_39_word_new_br_6 | soft<br>million<br>uncover<br>admit<br>birth<br>siren |  
+| bip_39_word_new_br_7 | soft<br>million<br>uncover<br>admit<br>birth<br>siren<br>blame |  
+| bip_39_word_new_br_8 | soft<br>million<br>uncover<br>admit<br>birth<br>siren<br>blame<br>shuffle |  
+| bip_39_word_new_br_9 | soft<br>million<br>uncover<br>admit<br>birth<br>siren<br>blame<br>shuffle<br>tuition |  
+| bip_39_word_new_line_1 | soft |  
+| bip_39_word_new_line_10 | soft
 million
 uncover
 admit
@@ -55,7 +55,7 @@ blame
 shuffle
 tuition
 attitude |  
-| bip_39_word_new_line11 | soft
+| bip_39_word_new_line_11 | soft
 million
 uncover
 admit
@@ -66,7 +66,7 @@ shuffle
 tuition
 attitude
 kiss |  
-| bip_39_word_new_line12 | soft
+| bip_39_word_new_line_12 | soft
 million
 uncover
 admit
@@ -78,34 +78,34 @@ tuition
 attitude
 kiss
 again |  
-| bip_39_word_new_line2 | soft
+| bip_39_word_new_line_2 | soft
 million |  
-| bip_39_word_new_line3 | soft
+| bip_39_word_new_line_3 | soft
 million
 uncover |  
-| bip_39_word_new_line4 | soft
+| bip_39_word_new_line_4 | soft
 million
 uncover
 admit |  
-| bip_39_word_new_line5 | soft
+| bip_39_word_new_line_5 | soft
 million
 uncover
 admit
 birth |  
-| bip_39_word_new_line6 | soft
+| bip_39_word_new_line_6 | soft
 million
 uncover
 admit
 birth
 siren |  
-| bip_39_word_new_line7 | soft
+| bip_39_word_new_line_7 | soft
 million
 uncover
 admit
 birth
 siren
 blame |  
-| bip_39_word_new_line8 | soft
+| bip_39_word_new_line_8 | soft
 million
 uncover
 admit
@@ -113,7 +113,7 @@ birth
 siren
 blame
 shuffle |  
-| bip_39_word_new_line9 | soft
+| bip_39_word_new_line_9 | soft
 million
 uncover
 admit

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | stage |  
-| bip_39_word_new_br10 | stage<br>local<br>giggle<br>clown<br>animal<br>tool<br>pink<br>humor<br>leisure<br>happy |  
-| bip_39_word_new_br11 | stage<br>local<br>giggle<br>clown<br>animal<br>tool<br>pink<br>humor<br>leisure<br>happy<br>claw |  
-| bip_39_word_new_br12 | stage<br>local<br>giggle<br>clown<br>animal<br>tool<br>pink<br>humor<br>leisure<br>happy<br>claw<br>agent |  
-| bip_39_word_new_br2 | stage<br>local |  
-| bip_39_word_new_br3 | stage<br>local<br>giggle |  
-| bip_39_word_new_br4 | stage<br>local<br>giggle<br>clown |  
-| bip_39_word_new_br5 | stage<br>local<br>giggle<br>clown<br>animal |  
-| bip_39_word_new_br6 | stage<br>local<br>giggle<br>clown<br>animal<br>tool |  
-| bip_39_word_new_br7 | stage<br>local<br>giggle<br>clown<br>animal<br>tool<br>pink |  
-| bip_39_word_new_br8 | stage<br>local<br>giggle<br>clown<br>animal<br>tool<br>pink<br>humor |  
-| bip_39_word_new_br9 | stage<br>local<br>giggle<br>clown<br>animal<br>tool<br>pink<br>humor<br>leisure |  
-| bip_39_word_new_line1 | stage |  
-| bip_39_word_new_line10 | stage
+| bip_39_word_new_br_1 | stage |  
+| bip_39_word_new_br_10 | stage<br>local<br>giggle<br>clown<br>animal<br>tool<br>pink<br>humor<br>leisure<br>happy |  
+| bip_39_word_new_br_11 | stage<br>local<br>giggle<br>clown<br>animal<br>tool<br>pink<br>humor<br>leisure<br>happy<br>claw |  
+| bip_39_word_new_br_12 | stage<br>local<br>giggle<br>clown<br>animal<br>tool<br>pink<br>humor<br>leisure<br>happy<br>claw<br>agent |  
+| bip_39_word_new_br_2 | stage<br>local |  
+| bip_39_word_new_br_3 | stage<br>local<br>giggle |  
+| bip_39_word_new_br_4 | stage<br>local<br>giggle<br>clown |  
+| bip_39_word_new_br_5 | stage<br>local<br>giggle<br>clown<br>animal |  
+| bip_39_word_new_br_6 | stage<br>local<br>giggle<br>clown<br>animal<br>tool |  
+| bip_39_word_new_br_7 | stage<br>local<br>giggle<br>clown<br>animal<br>tool<br>pink |  
+| bip_39_word_new_br_8 | stage<br>local<br>giggle<br>clown<br>animal<br>tool<br>pink<br>humor |  
+| bip_39_word_new_br_9 | stage<br>local<br>giggle<br>clown<br>animal<br>tool<br>pink<br>humor<br>leisure |  
+| bip_39_word_new_line_1 | stage |  
+| bip_39_word_new_line_10 | stage
 local
 giggle
 clown
@@ -55,7 +55,7 @@ pink
 humor
 leisure
 happy |  
-| bip_39_word_new_line11 | stage
+| bip_39_word_new_line_11 | stage
 local
 giggle
 clown
@@ -66,7 +66,7 @@ humor
 leisure
 happy
 claw |  
-| bip_39_word_new_line12 | stage
+| bip_39_word_new_line_12 | stage
 local
 giggle
 clown
@@ -78,34 +78,34 @@ leisure
 happy
 claw
 agent |  
-| bip_39_word_new_line2 | stage
+| bip_39_word_new_line_2 | stage
 local |  
-| bip_39_word_new_line3 | stage
+| bip_39_word_new_line_3 | stage
 local
 giggle |  
-| bip_39_word_new_line4 | stage
+| bip_39_word_new_line_4 | stage
 local
 giggle
 clown |  
-| bip_39_word_new_line5 | stage
+| bip_39_word_new_line_5 | stage
 local
 giggle
 clown
 animal |  
-| bip_39_word_new_line6 | stage
+| bip_39_word_new_line_6 | stage
 local
 giggle
 clown
 animal
 tool |  
-| bip_39_word_new_line7 | stage
+| bip_39_word_new_line_7 | stage
 local
 giggle
 clown
 animal
 tool
 pink |  
-| bip_39_word_new_line8 | stage
+| bip_39_word_new_line_8 | stage
 local
 giggle
 clown
@@ -113,7 +113,7 @@ animal
 tool
 pink
 humor |  
-| bip_39_word_new_line9 | stage
+| bip_39_word_new_line_9 | stage
 local
 giggle
 clown

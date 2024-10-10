@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | depend |  
-| bip_39_word_new_br10 | depend<br>foil<br>voyage<br>purity<br>script<br>lobster<br>diary<br>frozen<br>direct<br>physical |  
-| bip_39_word_new_br11 | depend<br>foil<br>voyage<br>purity<br>script<br>lobster<br>diary<br>frozen<br>direct<br>physical<br>lion |  
-| bip_39_word_new_br12 | depend<br>foil<br>voyage<br>purity<br>script<br>lobster<br>diary<br>frozen<br>direct<br>physical<br>lion<br>alcohol |  
-| bip_39_word_new_br2 | depend<br>foil |  
-| bip_39_word_new_br3 | depend<br>foil<br>voyage |  
-| bip_39_word_new_br4 | depend<br>foil<br>voyage<br>purity |  
-| bip_39_word_new_br5 | depend<br>foil<br>voyage<br>purity<br>script |  
-| bip_39_word_new_br6 | depend<br>foil<br>voyage<br>purity<br>script<br>lobster |  
-| bip_39_word_new_br7 | depend<br>foil<br>voyage<br>purity<br>script<br>lobster<br>diary |  
-| bip_39_word_new_br8 | depend<br>foil<br>voyage<br>purity<br>script<br>lobster<br>diary<br>frozen |  
-| bip_39_word_new_br9 | depend<br>foil<br>voyage<br>purity<br>script<br>lobster<br>diary<br>frozen<br>direct |  
-| bip_39_word_new_line1 | depend |  
-| bip_39_word_new_line10 | depend
+| bip_39_word_new_br_1 | depend |  
+| bip_39_word_new_br_10 | depend<br>foil<br>voyage<br>purity<br>script<br>lobster<br>diary<br>frozen<br>direct<br>physical |  
+| bip_39_word_new_br_11 | depend<br>foil<br>voyage<br>purity<br>script<br>lobster<br>diary<br>frozen<br>direct<br>physical<br>lion |  
+| bip_39_word_new_br_12 | depend<br>foil<br>voyage<br>purity<br>script<br>lobster<br>diary<br>frozen<br>direct<br>physical<br>lion<br>alcohol |  
+| bip_39_word_new_br_2 | depend<br>foil |  
+| bip_39_word_new_br_3 | depend<br>foil<br>voyage |  
+| bip_39_word_new_br_4 | depend<br>foil<br>voyage<br>purity |  
+| bip_39_word_new_br_5 | depend<br>foil<br>voyage<br>purity<br>script |  
+| bip_39_word_new_br_6 | depend<br>foil<br>voyage<br>purity<br>script<br>lobster |  
+| bip_39_word_new_br_7 | depend<br>foil<br>voyage<br>purity<br>script<br>lobster<br>diary |  
+| bip_39_word_new_br_8 | depend<br>foil<br>voyage<br>purity<br>script<br>lobster<br>diary<br>frozen |  
+| bip_39_word_new_br_9 | depend<br>foil<br>voyage<br>purity<br>script<br>lobster<br>diary<br>frozen<br>direct |  
+| bip_39_word_new_line_1 | depend |  
+| bip_39_word_new_line_10 | depend
 foil
 voyage
 purity
@@ -55,7 +55,7 @@ diary
 frozen
 direct
 physical |  
-| bip_39_word_new_line11 | depend
+| bip_39_word_new_line_11 | depend
 foil
 voyage
 purity
@@ -66,7 +66,7 @@ frozen
 direct
 physical
 lion |  
-| bip_39_word_new_line12 | depend
+| bip_39_word_new_line_12 | depend
 foil
 voyage
 purity
@@ -78,34 +78,34 @@ direct
 physical
 lion
 alcohol |  
-| bip_39_word_new_line2 | depend
+| bip_39_word_new_line_2 | depend
 foil |  
-| bip_39_word_new_line3 | depend
+| bip_39_word_new_line_3 | depend
 foil
 voyage |  
-| bip_39_word_new_line4 | depend
+| bip_39_word_new_line_4 | depend
 foil
 voyage
 purity |  
-| bip_39_word_new_line5 | depend
+| bip_39_word_new_line_5 | depend
 foil
 voyage
 purity
 script |  
-| bip_39_word_new_line6 | depend
+| bip_39_word_new_line_6 | depend
 foil
 voyage
 purity
 script
 lobster |  
-| bip_39_word_new_line7 | depend
+| bip_39_word_new_line_7 | depend
 foil
 voyage
 purity
 script
 lobster
 diary |  
-| bip_39_word_new_line8 | depend
+| bip_39_word_new_line_8 | depend
 foil
 voyage
 purity
@@ -113,7 +113,7 @@ script
 lobster
 diary
 frozen |  
-| bip_39_word_new_line9 | depend
+| bip_39_word_new_line_9 | depend
 foil
 voyage
 purity

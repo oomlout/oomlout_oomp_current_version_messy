@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rocket |  
-| bip_39_word_new_br10 | rocket<br>zone<br>cube<br>lottery<br>oppose<br>lava<br>captain<br>science<br>image<br>organ |  
-| bip_39_word_new_br11 | rocket<br>zone<br>cube<br>lottery<br>oppose<br>lava<br>captain<br>science<br>image<br>organ<br>lamp |  
-| bip_39_word_new_br12 | rocket<br>zone<br>cube<br>lottery<br>oppose<br>lava<br>captain<br>science<br>image<br>organ<br>lamp<br>announce |  
-| bip_39_word_new_br2 | rocket<br>zone |  
-| bip_39_word_new_br3 | rocket<br>zone<br>cube |  
-| bip_39_word_new_br4 | rocket<br>zone<br>cube<br>lottery |  
-| bip_39_word_new_br5 | rocket<br>zone<br>cube<br>lottery<br>oppose |  
-| bip_39_word_new_br6 | rocket<br>zone<br>cube<br>lottery<br>oppose<br>lava |  
-| bip_39_word_new_br7 | rocket<br>zone<br>cube<br>lottery<br>oppose<br>lava<br>captain |  
-| bip_39_word_new_br8 | rocket<br>zone<br>cube<br>lottery<br>oppose<br>lava<br>captain<br>science |  
-| bip_39_word_new_br9 | rocket<br>zone<br>cube<br>lottery<br>oppose<br>lava<br>captain<br>science<br>image |  
-| bip_39_word_new_line1 | rocket |  
-| bip_39_word_new_line10 | rocket
+| bip_39_word_new_br_1 | rocket |  
+| bip_39_word_new_br_10 | rocket<br>zone<br>cube<br>lottery<br>oppose<br>lava<br>captain<br>science<br>image<br>organ |  
+| bip_39_word_new_br_11 | rocket<br>zone<br>cube<br>lottery<br>oppose<br>lava<br>captain<br>science<br>image<br>organ<br>lamp |  
+| bip_39_word_new_br_12 | rocket<br>zone<br>cube<br>lottery<br>oppose<br>lava<br>captain<br>science<br>image<br>organ<br>lamp<br>announce |  
+| bip_39_word_new_br_2 | rocket<br>zone |  
+| bip_39_word_new_br_3 | rocket<br>zone<br>cube |  
+| bip_39_word_new_br_4 | rocket<br>zone<br>cube<br>lottery |  
+| bip_39_word_new_br_5 | rocket<br>zone<br>cube<br>lottery<br>oppose |  
+| bip_39_word_new_br_6 | rocket<br>zone<br>cube<br>lottery<br>oppose<br>lava |  
+| bip_39_word_new_br_7 | rocket<br>zone<br>cube<br>lottery<br>oppose<br>lava<br>captain |  
+| bip_39_word_new_br_8 | rocket<br>zone<br>cube<br>lottery<br>oppose<br>lava<br>captain<br>science |  
+| bip_39_word_new_br_9 | rocket<br>zone<br>cube<br>lottery<br>oppose<br>lava<br>captain<br>science<br>image |  
+| bip_39_word_new_line_1 | rocket |  
+| bip_39_word_new_line_10 | rocket
 zone
 cube
 lottery
@@ -55,7 +55,7 @@ captain
 science
 image
 organ |  
-| bip_39_word_new_line11 | rocket
+| bip_39_word_new_line_11 | rocket
 zone
 cube
 lottery
@@ -66,7 +66,7 @@ science
 image
 organ
 lamp |  
-| bip_39_word_new_line12 | rocket
+| bip_39_word_new_line_12 | rocket
 zone
 cube
 lottery
@@ -78,34 +78,34 @@ image
 organ
 lamp
 announce |  
-| bip_39_word_new_line2 | rocket
+| bip_39_word_new_line_2 | rocket
 zone |  
-| bip_39_word_new_line3 | rocket
+| bip_39_word_new_line_3 | rocket
 zone
 cube |  
-| bip_39_word_new_line4 | rocket
+| bip_39_word_new_line_4 | rocket
 zone
 cube
 lottery |  
-| bip_39_word_new_line5 | rocket
+| bip_39_word_new_line_5 | rocket
 zone
 cube
 lottery
 oppose |  
-| bip_39_word_new_line6 | rocket
+| bip_39_word_new_line_6 | rocket
 zone
 cube
 lottery
 oppose
 lava |  
-| bip_39_word_new_line7 | rocket
+| bip_39_word_new_line_7 | rocket
 zone
 cube
 lottery
 oppose
 lava
 captain |  
-| bip_39_word_new_line8 | rocket
+| bip_39_word_new_line_8 | rocket
 zone
 cube
 lottery
@@ -113,7 +113,7 @@ oppose
 lava
 captain
 science |  
-| bip_39_word_new_line9 | rocket
+| bip_39_word_new_line_9 | rocket
 zone
 cube
 lottery

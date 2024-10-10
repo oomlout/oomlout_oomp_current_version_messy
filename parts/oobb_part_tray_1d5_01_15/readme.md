@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | crisp |  
-| bip_39_word_new_br10 | crisp<br>say<br>motor<br>one<br>cluster<br>grid<br>glimpse<br>huge<br>hour<br>bid |  
-| bip_39_word_new_br11 | crisp<br>say<br>motor<br>one<br>cluster<br>grid<br>glimpse<br>huge<br>hour<br>bid<br>title |  
-| bip_39_word_new_br12 | crisp<br>say<br>motor<br>one<br>cluster<br>grid<br>glimpse<br>huge<br>hour<br>bid<br>title<br>achieve |  
-| bip_39_word_new_br2 | crisp<br>say |  
-| bip_39_word_new_br3 | crisp<br>say<br>motor |  
-| bip_39_word_new_br4 | crisp<br>say<br>motor<br>one |  
-| bip_39_word_new_br5 | crisp<br>say<br>motor<br>one<br>cluster |  
-| bip_39_word_new_br6 | crisp<br>say<br>motor<br>one<br>cluster<br>grid |  
-| bip_39_word_new_br7 | crisp<br>say<br>motor<br>one<br>cluster<br>grid<br>glimpse |  
-| bip_39_word_new_br8 | crisp<br>say<br>motor<br>one<br>cluster<br>grid<br>glimpse<br>huge |  
-| bip_39_word_new_br9 | crisp<br>say<br>motor<br>one<br>cluster<br>grid<br>glimpse<br>huge<br>hour |  
-| bip_39_word_new_line1 | crisp |  
-| bip_39_word_new_line10 | crisp
+| bip_39_word_new_br_1 | crisp |  
+| bip_39_word_new_br_10 | crisp<br>say<br>motor<br>one<br>cluster<br>grid<br>glimpse<br>huge<br>hour<br>bid |  
+| bip_39_word_new_br_11 | crisp<br>say<br>motor<br>one<br>cluster<br>grid<br>glimpse<br>huge<br>hour<br>bid<br>title |  
+| bip_39_word_new_br_12 | crisp<br>say<br>motor<br>one<br>cluster<br>grid<br>glimpse<br>huge<br>hour<br>bid<br>title<br>achieve |  
+| bip_39_word_new_br_2 | crisp<br>say |  
+| bip_39_word_new_br_3 | crisp<br>say<br>motor |  
+| bip_39_word_new_br_4 | crisp<br>say<br>motor<br>one |  
+| bip_39_word_new_br_5 | crisp<br>say<br>motor<br>one<br>cluster |  
+| bip_39_word_new_br_6 | crisp<br>say<br>motor<br>one<br>cluster<br>grid |  
+| bip_39_word_new_br_7 | crisp<br>say<br>motor<br>one<br>cluster<br>grid<br>glimpse |  
+| bip_39_word_new_br_8 | crisp<br>say<br>motor<br>one<br>cluster<br>grid<br>glimpse<br>huge |  
+| bip_39_word_new_br_9 | crisp<br>say<br>motor<br>one<br>cluster<br>grid<br>glimpse<br>huge<br>hour |  
+| bip_39_word_new_line_1 | crisp |  
+| bip_39_word_new_line_10 | crisp
 say
 motor
 one
@@ -55,7 +55,7 @@ glimpse
 huge
 hour
 bid |  
-| bip_39_word_new_line11 | crisp
+| bip_39_word_new_line_11 | crisp
 say
 motor
 one
@@ -66,7 +66,7 @@ huge
 hour
 bid
 title |  
-| bip_39_word_new_line12 | crisp
+| bip_39_word_new_line_12 | crisp
 say
 motor
 one
@@ -78,34 +78,34 @@ hour
 bid
 title
 achieve |  
-| bip_39_word_new_line2 | crisp
+| bip_39_word_new_line_2 | crisp
 say |  
-| bip_39_word_new_line3 | crisp
+| bip_39_word_new_line_3 | crisp
 say
 motor |  
-| bip_39_word_new_line4 | crisp
+| bip_39_word_new_line_4 | crisp
 say
 motor
 one |  
-| bip_39_word_new_line5 | crisp
+| bip_39_word_new_line_5 | crisp
 say
 motor
 one
 cluster |  
-| bip_39_word_new_line6 | crisp
+| bip_39_word_new_line_6 | crisp
 say
 motor
 one
 cluster
 grid |  
-| bip_39_word_new_line7 | crisp
+| bip_39_word_new_line_7 | crisp
 say
 motor
 one
 cluster
 grid
 glimpse |  
-| bip_39_word_new_line8 | crisp
+| bip_39_word_new_line_8 | crisp
 say
 motor
 one
@@ -113,7 +113,7 @@ cluster
 grid
 glimpse
 huge |  
-| bip_39_word_new_line9 | crisp
+| bip_39_word_new_line_9 | crisp
 say
 motor
 one

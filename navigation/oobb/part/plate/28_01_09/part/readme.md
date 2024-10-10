@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | beauty |  
-| bip_39_word_new_br10 | beauty<br>choose<br>ill<br>embrace<br>garment<br>dial<br>version<br>cube<br>sorry<br>neglect |  
-| bip_39_word_new_br11 | beauty<br>choose<br>ill<br>embrace<br>garment<br>dial<br>version<br>cube<br>sorry<br>neglect<br>impulse |  
-| bip_39_word_new_br12 | beauty<br>choose<br>ill<br>embrace<br>garment<br>dial<br>version<br>cube<br>sorry<br>neglect<br>impulse<br>advice |  
-| bip_39_word_new_br2 | beauty<br>choose |  
-| bip_39_word_new_br3 | beauty<br>choose<br>ill |  
-| bip_39_word_new_br4 | beauty<br>choose<br>ill<br>embrace |  
-| bip_39_word_new_br5 | beauty<br>choose<br>ill<br>embrace<br>garment |  
-| bip_39_word_new_br6 | beauty<br>choose<br>ill<br>embrace<br>garment<br>dial |  
-| bip_39_word_new_br7 | beauty<br>choose<br>ill<br>embrace<br>garment<br>dial<br>version |  
-| bip_39_word_new_br8 | beauty<br>choose<br>ill<br>embrace<br>garment<br>dial<br>version<br>cube |  
-| bip_39_word_new_br9 | beauty<br>choose<br>ill<br>embrace<br>garment<br>dial<br>version<br>cube<br>sorry |  
-| bip_39_word_new_line1 | beauty |  
-| bip_39_word_new_line10 | beauty
+| bip_39_word_new_br_1 | beauty |  
+| bip_39_word_new_br_10 | beauty<br>choose<br>ill<br>embrace<br>garment<br>dial<br>version<br>cube<br>sorry<br>neglect |  
+| bip_39_word_new_br_11 | beauty<br>choose<br>ill<br>embrace<br>garment<br>dial<br>version<br>cube<br>sorry<br>neglect<br>impulse |  
+| bip_39_word_new_br_12 | beauty<br>choose<br>ill<br>embrace<br>garment<br>dial<br>version<br>cube<br>sorry<br>neglect<br>impulse<br>advice |  
+| bip_39_word_new_br_2 | beauty<br>choose |  
+| bip_39_word_new_br_3 | beauty<br>choose<br>ill |  
+| bip_39_word_new_br_4 | beauty<br>choose<br>ill<br>embrace |  
+| bip_39_word_new_br_5 | beauty<br>choose<br>ill<br>embrace<br>garment |  
+| bip_39_word_new_br_6 | beauty<br>choose<br>ill<br>embrace<br>garment<br>dial |  
+| bip_39_word_new_br_7 | beauty<br>choose<br>ill<br>embrace<br>garment<br>dial<br>version |  
+| bip_39_word_new_br_8 | beauty<br>choose<br>ill<br>embrace<br>garment<br>dial<br>version<br>cube |  
+| bip_39_word_new_br_9 | beauty<br>choose<br>ill<br>embrace<br>garment<br>dial<br>version<br>cube<br>sorry |  
+| bip_39_word_new_line_1 | beauty |  
+| bip_39_word_new_line_10 | beauty
 choose
 ill
 embrace
@@ -55,7 +55,7 @@ version
 cube
 sorry
 neglect |  
-| bip_39_word_new_line11 | beauty
+| bip_39_word_new_line_11 | beauty
 choose
 ill
 embrace
@@ -66,7 +66,7 @@ cube
 sorry
 neglect
 impulse |  
-| bip_39_word_new_line12 | beauty
+| bip_39_word_new_line_12 | beauty
 choose
 ill
 embrace
@@ -78,34 +78,34 @@ sorry
 neglect
 impulse
 advice |  
-| bip_39_word_new_line2 | beauty
+| bip_39_word_new_line_2 | beauty
 choose |  
-| bip_39_word_new_line3 | beauty
+| bip_39_word_new_line_3 | beauty
 choose
 ill |  
-| bip_39_word_new_line4 | beauty
+| bip_39_word_new_line_4 | beauty
 choose
 ill
 embrace |  
-| bip_39_word_new_line5 | beauty
+| bip_39_word_new_line_5 | beauty
 choose
 ill
 embrace
 garment |  
-| bip_39_word_new_line6 | beauty
+| bip_39_word_new_line_6 | beauty
 choose
 ill
 embrace
 garment
 dial |  
-| bip_39_word_new_line7 | beauty
+| bip_39_word_new_line_7 | beauty
 choose
 ill
 embrace
 garment
 dial
 version |  
-| bip_39_word_new_line8 | beauty
+| bip_39_word_new_line_8 | beauty
 choose
 ill
 embrace
@@ -113,7 +113,7 @@ garment
 dial
 version
 cube |  
-| bip_39_word_new_line9 | beauty
+| bip_39_word_new_line_9 | beauty
 choose
 ill
 embrace

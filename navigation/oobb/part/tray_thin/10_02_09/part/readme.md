@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fetch |  
-| bip_39_word_new_br10 | fetch<br>shine<br>hurry<br>truth<br>arctic<br>shift<br>orphan<br>scorpion<br>credit<br>enhance |  
-| bip_39_word_new_br11 | fetch<br>shine<br>hurry<br>truth<br>arctic<br>shift<br>orphan<br>scorpion<br>credit<br>enhance<br>stage |  
-| bip_39_word_new_br12 | fetch<br>shine<br>hurry<br>truth<br>arctic<br>shift<br>orphan<br>scorpion<br>credit<br>enhance<br>stage<br>ask |  
-| bip_39_word_new_br2 | fetch<br>shine |  
-| bip_39_word_new_br3 | fetch<br>shine<br>hurry |  
-| bip_39_word_new_br4 | fetch<br>shine<br>hurry<br>truth |  
-| bip_39_word_new_br5 | fetch<br>shine<br>hurry<br>truth<br>arctic |  
-| bip_39_word_new_br6 | fetch<br>shine<br>hurry<br>truth<br>arctic<br>shift |  
-| bip_39_word_new_br7 | fetch<br>shine<br>hurry<br>truth<br>arctic<br>shift<br>orphan |  
-| bip_39_word_new_br8 | fetch<br>shine<br>hurry<br>truth<br>arctic<br>shift<br>orphan<br>scorpion |  
-| bip_39_word_new_br9 | fetch<br>shine<br>hurry<br>truth<br>arctic<br>shift<br>orphan<br>scorpion<br>credit |  
-| bip_39_word_new_line1 | fetch |  
-| bip_39_word_new_line10 | fetch
+| bip_39_word_new_br_1 | fetch |  
+| bip_39_word_new_br_10 | fetch<br>shine<br>hurry<br>truth<br>arctic<br>shift<br>orphan<br>scorpion<br>credit<br>enhance |  
+| bip_39_word_new_br_11 | fetch<br>shine<br>hurry<br>truth<br>arctic<br>shift<br>orphan<br>scorpion<br>credit<br>enhance<br>stage |  
+| bip_39_word_new_br_12 | fetch<br>shine<br>hurry<br>truth<br>arctic<br>shift<br>orphan<br>scorpion<br>credit<br>enhance<br>stage<br>ask |  
+| bip_39_word_new_br_2 | fetch<br>shine |  
+| bip_39_word_new_br_3 | fetch<br>shine<br>hurry |  
+| bip_39_word_new_br_4 | fetch<br>shine<br>hurry<br>truth |  
+| bip_39_word_new_br_5 | fetch<br>shine<br>hurry<br>truth<br>arctic |  
+| bip_39_word_new_br_6 | fetch<br>shine<br>hurry<br>truth<br>arctic<br>shift |  
+| bip_39_word_new_br_7 | fetch<br>shine<br>hurry<br>truth<br>arctic<br>shift<br>orphan |  
+| bip_39_word_new_br_8 | fetch<br>shine<br>hurry<br>truth<br>arctic<br>shift<br>orphan<br>scorpion |  
+| bip_39_word_new_br_9 | fetch<br>shine<br>hurry<br>truth<br>arctic<br>shift<br>orphan<br>scorpion<br>credit |  
+| bip_39_word_new_line_1 | fetch |  
+| bip_39_word_new_line_10 | fetch
 shine
 hurry
 truth
@@ -55,7 +55,7 @@ orphan
 scorpion
 credit
 enhance |  
-| bip_39_word_new_line11 | fetch
+| bip_39_word_new_line_11 | fetch
 shine
 hurry
 truth
@@ -66,7 +66,7 @@ scorpion
 credit
 enhance
 stage |  
-| bip_39_word_new_line12 | fetch
+| bip_39_word_new_line_12 | fetch
 shine
 hurry
 truth
@@ -78,34 +78,34 @@ credit
 enhance
 stage
 ask |  
-| bip_39_word_new_line2 | fetch
+| bip_39_word_new_line_2 | fetch
 shine |  
-| bip_39_word_new_line3 | fetch
+| bip_39_word_new_line_3 | fetch
 shine
 hurry |  
-| bip_39_word_new_line4 | fetch
+| bip_39_word_new_line_4 | fetch
 shine
 hurry
 truth |  
-| bip_39_word_new_line5 | fetch
+| bip_39_word_new_line_5 | fetch
 shine
 hurry
 truth
 arctic |  
-| bip_39_word_new_line6 | fetch
+| bip_39_word_new_line_6 | fetch
 shine
 hurry
 truth
 arctic
 shift |  
-| bip_39_word_new_line7 | fetch
+| bip_39_word_new_line_7 | fetch
 shine
 hurry
 truth
 arctic
 shift
 orphan |  
-| bip_39_word_new_line8 | fetch
+| bip_39_word_new_line_8 | fetch
 shine
 hurry
 truth
@@ -113,7 +113,7 @@ arctic
 shift
 orphan
 scorpion |  
-| bip_39_word_new_line9 | fetch
+| bip_39_word_new_line_9 | fetch
 shine
 hurry
 truth

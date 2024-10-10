@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gadget |  
-| bip_39_word_new_br10 | gadget<br>extra<br>fall<br>cruel<br>decrease<br>ask<br>dirt<br>wet<br>design<br>bird |  
-| bip_39_word_new_br11 | gadget<br>extra<br>fall<br>cruel<br>decrease<br>ask<br>dirt<br>wet<br>design<br>bird<br>use |  
-| bip_39_word_new_br12 | gadget<br>extra<br>fall<br>cruel<br>decrease<br>ask<br>dirt<br>wet<br>design<br>bird<br>use<br>angle |  
-| bip_39_word_new_br2 | gadget<br>extra |  
-| bip_39_word_new_br3 | gadget<br>extra<br>fall |  
-| bip_39_word_new_br4 | gadget<br>extra<br>fall<br>cruel |  
-| bip_39_word_new_br5 | gadget<br>extra<br>fall<br>cruel<br>decrease |  
-| bip_39_word_new_br6 | gadget<br>extra<br>fall<br>cruel<br>decrease<br>ask |  
-| bip_39_word_new_br7 | gadget<br>extra<br>fall<br>cruel<br>decrease<br>ask<br>dirt |  
-| bip_39_word_new_br8 | gadget<br>extra<br>fall<br>cruel<br>decrease<br>ask<br>dirt<br>wet |  
-| bip_39_word_new_br9 | gadget<br>extra<br>fall<br>cruel<br>decrease<br>ask<br>dirt<br>wet<br>design |  
-| bip_39_word_new_line1 | gadget |  
-| bip_39_word_new_line10 | gadget
+| bip_39_word_new_br_1 | gadget |  
+| bip_39_word_new_br_10 | gadget<br>extra<br>fall<br>cruel<br>decrease<br>ask<br>dirt<br>wet<br>design<br>bird |  
+| bip_39_word_new_br_11 | gadget<br>extra<br>fall<br>cruel<br>decrease<br>ask<br>dirt<br>wet<br>design<br>bird<br>use |  
+| bip_39_word_new_br_12 | gadget<br>extra<br>fall<br>cruel<br>decrease<br>ask<br>dirt<br>wet<br>design<br>bird<br>use<br>angle |  
+| bip_39_word_new_br_2 | gadget<br>extra |  
+| bip_39_word_new_br_3 | gadget<br>extra<br>fall |  
+| bip_39_word_new_br_4 | gadget<br>extra<br>fall<br>cruel |  
+| bip_39_word_new_br_5 | gadget<br>extra<br>fall<br>cruel<br>decrease |  
+| bip_39_word_new_br_6 | gadget<br>extra<br>fall<br>cruel<br>decrease<br>ask |  
+| bip_39_word_new_br_7 | gadget<br>extra<br>fall<br>cruel<br>decrease<br>ask<br>dirt |  
+| bip_39_word_new_br_8 | gadget<br>extra<br>fall<br>cruel<br>decrease<br>ask<br>dirt<br>wet |  
+| bip_39_word_new_br_9 | gadget<br>extra<br>fall<br>cruel<br>decrease<br>ask<br>dirt<br>wet<br>design |  
+| bip_39_word_new_line_1 | gadget |  
+| bip_39_word_new_line_10 | gadget
 extra
 fall
 cruel
@@ -55,7 +55,7 @@ dirt
 wet
 design
 bird |  
-| bip_39_word_new_line11 | gadget
+| bip_39_word_new_line_11 | gadget
 extra
 fall
 cruel
@@ -66,7 +66,7 @@ wet
 design
 bird
 use |  
-| bip_39_word_new_line12 | gadget
+| bip_39_word_new_line_12 | gadget
 extra
 fall
 cruel
@@ -78,34 +78,34 @@ design
 bird
 use
 angle |  
-| bip_39_word_new_line2 | gadget
+| bip_39_word_new_line_2 | gadget
 extra |  
-| bip_39_word_new_line3 | gadget
+| bip_39_word_new_line_3 | gadget
 extra
 fall |  
-| bip_39_word_new_line4 | gadget
+| bip_39_word_new_line_4 | gadget
 extra
 fall
 cruel |  
-| bip_39_word_new_line5 | gadget
+| bip_39_word_new_line_5 | gadget
 extra
 fall
 cruel
 decrease |  
-| bip_39_word_new_line6 | gadget
+| bip_39_word_new_line_6 | gadget
 extra
 fall
 cruel
 decrease
 ask |  
-| bip_39_word_new_line7 | gadget
+| bip_39_word_new_line_7 | gadget
 extra
 fall
 cruel
 decrease
 ask
 dirt |  
-| bip_39_word_new_line8 | gadget
+| bip_39_word_new_line_8 | gadget
 extra
 fall
 cruel
@@ -113,7 +113,7 @@ decrease
 ask
 dirt
 wet |  
-| bip_39_word_new_line9 | gadget
+| bip_39_word_new_line_9 | gadget
 extra
 fall
 cruel

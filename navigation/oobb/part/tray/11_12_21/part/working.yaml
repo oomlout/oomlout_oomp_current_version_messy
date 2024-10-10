@@ -1,17 +1,17 @@
-bip_39_word_new_br1: gossip
-bip_39_word_new_br10: gossip<br>column<br>way<br>swear<br>letter<br>kitchen<br>boil<br>follow<br>edge<br>slim
-bip_39_word_new_br11: gossip<br>column<br>way<br>swear<br>letter<br>kitchen<br>boil<br>follow<br>edge<br>slim<br>night
-bip_39_word_new_br12: gossip<br>column<br>way<br>swear<br>letter<br>kitchen<br>boil<br>follow<br>edge<br>slim<br>night<br>affair
-bip_39_word_new_br2: gossip<br>column
-bip_39_word_new_br3: gossip<br>column<br>way
-bip_39_word_new_br4: gossip<br>column<br>way<br>swear
-bip_39_word_new_br5: gossip<br>column<br>way<br>swear<br>letter
-bip_39_word_new_br6: gossip<br>column<br>way<br>swear<br>letter<br>kitchen
-bip_39_word_new_br7: gossip<br>column<br>way<br>swear<br>letter<br>kitchen<br>boil
-bip_39_word_new_br8: gossip<br>column<br>way<br>swear<br>letter<br>kitchen<br>boil<br>follow
-bip_39_word_new_br9: gossip<br>column<br>way<br>swear<br>letter<br>kitchen<br>boil<br>follow<br>edge
-bip_39_word_new_line1: gossip
-bip_39_word_new_line10: 'gossip
+bip_39_word_new_br_1: gossip
+bip_39_word_new_br_10: gossip<br>column<br>way<br>swear<br>letter<br>kitchen<br>boil<br>follow<br>edge<br>slim
+bip_39_word_new_br_11: gossip<br>column<br>way<br>swear<br>letter<br>kitchen<br>boil<br>follow<br>edge<br>slim<br>night
+bip_39_word_new_br_12: gossip<br>column<br>way<br>swear<br>letter<br>kitchen<br>boil<br>follow<br>edge<br>slim<br>night<br>affair
+bip_39_word_new_br_2: gossip<br>column
+bip_39_word_new_br_3: gossip<br>column<br>way
+bip_39_word_new_br_4: gossip<br>column<br>way<br>swear
+bip_39_word_new_br_5: gossip<br>column<br>way<br>swear<br>letter
+bip_39_word_new_br_6: gossip<br>column<br>way<br>swear<br>letter<br>kitchen
+bip_39_word_new_br_7: gossip<br>column<br>way<br>swear<br>letter<br>kitchen<br>boil
+bip_39_word_new_br_8: gossip<br>column<br>way<br>swear<br>letter<br>kitchen<br>boil<br>follow
+bip_39_word_new_br_9: gossip<br>column<br>way<br>swear<br>letter<br>kitchen<br>boil<br>follow<br>edge
+bip_39_word_new_line_1: gossip
+bip_39_word_new_line_10: 'gossip
 
   column
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'gossip
   edge
 
   slim'
-bip_39_word_new_line11: 'gossip
+bip_39_word_new_line_11: 'gossip
 
   column
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'gossip
   slim
 
   night'
-bip_39_word_new_line12: 'gossip
+bip_39_word_new_line_12: 'gossip
 
   column
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'gossip
   night
 
   affair'
-bip_39_word_new_line2: 'gossip
+bip_39_word_new_line_2: 'gossip
 
   column'
-bip_39_word_new_line3: 'gossip
+bip_39_word_new_line_3: 'gossip
 
   column
 
   way'
-bip_39_word_new_line4: 'gossip
+bip_39_word_new_line_4: 'gossip
 
   column
 
   way
 
   swear'
-bip_39_word_new_line5: 'gossip
+bip_39_word_new_line_5: 'gossip
 
   column
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'gossip
   swear
 
   letter'
-bip_39_word_new_line6: 'gossip
+bip_39_word_new_line_6: 'gossip
 
   column
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'gossip
   letter
 
   kitchen'
-bip_39_word_new_line7: 'gossip
+bip_39_word_new_line_7: 'gossip
 
   column
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'gossip
   kitchen
 
   boil'
-bip_39_word_new_line8: 'gossip
+bip_39_word_new_line_8: 'gossip
 
   column
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'gossip
   boil
 
   follow'
-bip_39_word_new_line9: 'gossip
+bip_39_word_new_line_9: 'gossip
 
   column
 

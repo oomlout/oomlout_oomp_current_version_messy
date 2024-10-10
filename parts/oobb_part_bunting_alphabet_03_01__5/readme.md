@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | buffalo |  
-| bip_39_word_new_br10 | buffalo<br>swarm<br>mobile<br>arch<br>ethics<br>jeans<br>exact<br>link<br>pony<br>dwarf |  
-| bip_39_word_new_br11 | buffalo<br>swarm<br>mobile<br>arch<br>ethics<br>jeans<br>exact<br>link<br>pony<br>dwarf<br>address |  
-| bip_39_word_new_br12 | buffalo<br>swarm<br>mobile<br>arch<br>ethics<br>jeans<br>exact<br>link<br>pony<br>dwarf<br>address<br>actor |  
-| bip_39_word_new_br2 | buffalo<br>swarm |  
-| bip_39_word_new_br3 | buffalo<br>swarm<br>mobile |  
-| bip_39_word_new_br4 | buffalo<br>swarm<br>mobile<br>arch |  
-| bip_39_word_new_br5 | buffalo<br>swarm<br>mobile<br>arch<br>ethics |  
-| bip_39_word_new_br6 | buffalo<br>swarm<br>mobile<br>arch<br>ethics<br>jeans |  
-| bip_39_word_new_br7 | buffalo<br>swarm<br>mobile<br>arch<br>ethics<br>jeans<br>exact |  
-| bip_39_word_new_br8 | buffalo<br>swarm<br>mobile<br>arch<br>ethics<br>jeans<br>exact<br>link |  
-| bip_39_word_new_br9 | buffalo<br>swarm<br>mobile<br>arch<br>ethics<br>jeans<br>exact<br>link<br>pony |  
-| bip_39_word_new_line1 | buffalo |  
-| bip_39_word_new_line10 | buffalo
+| bip_39_word_new_br_1 | buffalo |  
+| bip_39_word_new_br_10 | buffalo<br>swarm<br>mobile<br>arch<br>ethics<br>jeans<br>exact<br>link<br>pony<br>dwarf |  
+| bip_39_word_new_br_11 | buffalo<br>swarm<br>mobile<br>arch<br>ethics<br>jeans<br>exact<br>link<br>pony<br>dwarf<br>address |  
+| bip_39_word_new_br_12 | buffalo<br>swarm<br>mobile<br>arch<br>ethics<br>jeans<br>exact<br>link<br>pony<br>dwarf<br>address<br>actor |  
+| bip_39_word_new_br_2 | buffalo<br>swarm |  
+| bip_39_word_new_br_3 | buffalo<br>swarm<br>mobile |  
+| bip_39_word_new_br_4 | buffalo<br>swarm<br>mobile<br>arch |  
+| bip_39_word_new_br_5 | buffalo<br>swarm<br>mobile<br>arch<br>ethics |  
+| bip_39_word_new_br_6 | buffalo<br>swarm<br>mobile<br>arch<br>ethics<br>jeans |  
+| bip_39_word_new_br_7 | buffalo<br>swarm<br>mobile<br>arch<br>ethics<br>jeans<br>exact |  
+| bip_39_word_new_br_8 | buffalo<br>swarm<br>mobile<br>arch<br>ethics<br>jeans<br>exact<br>link |  
+| bip_39_word_new_br_9 | buffalo<br>swarm<br>mobile<br>arch<br>ethics<br>jeans<br>exact<br>link<br>pony |  
+| bip_39_word_new_line_1 | buffalo |  
+| bip_39_word_new_line_10 | buffalo
 swarm
 mobile
 arch
@@ -55,7 +55,7 @@ exact
 link
 pony
 dwarf |  
-| bip_39_word_new_line11 | buffalo
+| bip_39_word_new_line_11 | buffalo
 swarm
 mobile
 arch
@@ -66,7 +66,7 @@ link
 pony
 dwarf
 address |  
-| bip_39_word_new_line12 | buffalo
+| bip_39_word_new_line_12 | buffalo
 swarm
 mobile
 arch
@@ -78,34 +78,34 @@ pony
 dwarf
 address
 actor |  
-| bip_39_word_new_line2 | buffalo
+| bip_39_word_new_line_2 | buffalo
 swarm |  
-| bip_39_word_new_line3 | buffalo
+| bip_39_word_new_line_3 | buffalo
 swarm
 mobile |  
-| bip_39_word_new_line4 | buffalo
+| bip_39_word_new_line_4 | buffalo
 swarm
 mobile
 arch |  
-| bip_39_word_new_line5 | buffalo
+| bip_39_word_new_line_5 | buffalo
 swarm
 mobile
 arch
 ethics |  
-| bip_39_word_new_line6 | buffalo
+| bip_39_word_new_line_6 | buffalo
 swarm
 mobile
 arch
 ethics
 jeans |  
-| bip_39_word_new_line7 | buffalo
+| bip_39_word_new_line_7 | buffalo
 swarm
 mobile
 arch
 ethics
 jeans
 exact |  
-| bip_39_word_new_line8 | buffalo
+| bip_39_word_new_line_8 | buffalo
 swarm
 mobile
 arch
@@ -113,7 +113,7 @@ ethics
 jeans
 exact
 link |  
-| bip_39_word_new_line9 | buffalo
+| bip_39_word_new_line_9 | buffalo
 swarm
 mobile
 arch

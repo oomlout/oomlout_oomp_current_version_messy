@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | exotic |  
-| bip_39_word_new_br10 | exotic<br>marble<br>forward<br>penalty<br>online<br>web<br>rigid<br>firm<br>help<br>valley |  
-| bip_39_word_new_br11 | exotic<br>marble<br>forward<br>penalty<br>online<br>web<br>rigid<br>firm<br>help<br>valley<br>region |  
-| bip_39_word_new_br12 | exotic<br>marble<br>forward<br>penalty<br>online<br>web<br>rigid<br>firm<br>help<br>valley<br>region<br>alarm |  
-| bip_39_word_new_br2 | exotic<br>marble |  
-| bip_39_word_new_br3 | exotic<br>marble<br>forward |  
-| bip_39_word_new_br4 | exotic<br>marble<br>forward<br>penalty |  
-| bip_39_word_new_br5 | exotic<br>marble<br>forward<br>penalty<br>online |  
-| bip_39_word_new_br6 | exotic<br>marble<br>forward<br>penalty<br>online<br>web |  
-| bip_39_word_new_br7 | exotic<br>marble<br>forward<br>penalty<br>online<br>web<br>rigid |  
-| bip_39_word_new_br8 | exotic<br>marble<br>forward<br>penalty<br>online<br>web<br>rigid<br>firm |  
-| bip_39_word_new_br9 | exotic<br>marble<br>forward<br>penalty<br>online<br>web<br>rigid<br>firm<br>help |  
-| bip_39_word_new_line1 | exotic |  
-| bip_39_word_new_line10 | exotic
+| bip_39_word_new_br_1 | exotic |  
+| bip_39_word_new_br_10 | exotic<br>marble<br>forward<br>penalty<br>online<br>web<br>rigid<br>firm<br>help<br>valley |  
+| bip_39_word_new_br_11 | exotic<br>marble<br>forward<br>penalty<br>online<br>web<br>rigid<br>firm<br>help<br>valley<br>region |  
+| bip_39_word_new_br_12 | exotic<br>marble<br>forward<br>penalty<br>online<br>web<br>rigid<br>firm<br>help<br>valley<br>region<br>alarm |  
+| bip_39_word_new_br_2 | exotic<br>marble |  
+| bip_39_word_new_br_3 | exotic<br>marble<br>forward |  
+| bip_39_word_new_br_4 | exotic<br>marble<br>forward<br>penalty |  
+| bip_39_word_new_br_5 | exotic<br>marble<br>forward<br>penalty<br>online |  
+| bip_39_word_new_br_6 | exotic<br>marble<br>forward<br>penalty<br>online<br>web |  
+| bip_39_word_new_br_7 | exotic<br>marble<br>forward<br>penalty<br>online<br>web<br>rigid |  
+| bip_39_word_new_br_8 | exotic<br>marble<br>forward<br>penalty<br>online<br>web<br>rigid<br>firm |  
+| bip_39_word_new_br_9 | exotic<br>marble<br>forward<br>penalty<br>online<br>web<br>rigid<br>firm<br>help |  
+| bip_39_word_new_line_1 | exotic |  
+| bip_39_word_new_line_10 | exotic
 marble
 forward
 penalty
@@ -55,7 +55,7 @@ rigid
 firm
 help
 valley |  
-| bip_39_word_new_line11 | exotic
+| bip_39_word_new_line_11 | exotic
 marble
 forward
 penalty
@@ -66,7 +66,7 @@ firm
 help
 valley
 region |  
-| bip_39_word_new_line12 | exotic
+| bip_39_word_new_line_12 | exotic
 marble
 forward
 penalty
@@ -78,34 +78,34 @@ help
 valley
 region
 alarm |  
-| bip_39_word_new_line2 | exotic
+| bip_39_word_new_line_2 | exotic
 marble |  
-| bip_39_word_new_line3 | exotic
+| bip_39_word_new_line_3 | exotic
 marble
 forward |  
-| bip_39_word_new_line4 | exotic
+| bip_39_word_new_line_4 | exotic
 marble
 forward
 penalty |  
-| bip_39_word_new_line5 | exotic
+| bip_39_word_new_line_5 | exotic
 marble
 forward
 penalty
 online |  
-| bip_39_word_new_line6 | exotic
+| bip_39_word_new_line_6 | exotic
 marble
 forward
 penalty
 online
 web |  
-| bip_39_word_new_line7 | exotic
+| bip_39_word_new_line_7 | exotic
 marble
 forward
 penalty
 online
 web
 rigid |  
-| bip_39_word_new_line8 | exotic
+| bip_39_word_new_line_8 | exotic
 marble
 forward
 penalty
@@ -113,7 +113,7 @@ online
 web
 rigid
 firm |  
-| bip_39_word_new_line9 | exotic
+| bip_39_word_new_line_9 | exotic
 marble
 forward
 penalty

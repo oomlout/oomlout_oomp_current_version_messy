@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hotel |  
-| bip_39_word_new_br10 | hotel<br>smooth<br>kiwi<br>piano<br>ride<br>street<br>double<br>extra<br>bounce<br>account |  
-| bip_39_word_new_br11 | hotel<br>smooth<br>kiwi<br>piano<br>ride<br>street<br>double<br>extra<br>bounce<br>account<br>monitor |  
-| bip_39_word_new_br12 | hotel<br>smooth<br>kiwi<br>piano<br>ride<br>street<br>double<br>extra<br>bounce<br>account<br>monitor<br>airport |  
-| bip_39_word_new_br2 | hotel<br>smooth |  
-| bip_39_word_new_br3 | hotel<br>smooth<br>kiwi |  
-| bip_39_word_new_br4 | hotel<br>smooth<br>kiwi<br>piano |  
-| bip_39_word_new_br5 | hotel<br>smooth<br>kiwi<br>piano<br>ride |  
-| bip_39_word_new_br6 | hotel<br>smooth<br>kiwi<br>piano<br>ride<br>street |  
-| bip_39_word_new_br7 | hotel<br>smooth<br>kiwi<br>piano<br>ride<br>street<br>double |  
-| bip_39_word_new_br8 | hotel<br>smooth<br>kiwi<br>piano<br>ride<br>street<br>double<br>extra |  
-| bip_39_word_new_br9 | hotel<br>smooth<br>kiwi<br>piano<br>ride<br>street<br>double<br>extra<br>bounce |  
-| bip_39_word_new_line1 | hotel |  
-| bip_39_word_new_line10 | hotel
+| bip_39_word_new_br_1 | hotel |  
+| bip_39_word_new_br_10 | hotel<br>smooth<br>kiwi<br>piano<br>ride<br>street<br>double<br>extra<br>bounce<br>account |  
+| bip_39_word_new_br_11 | hotel<br>smooth<br>kiwi<br>piano<br>ride<br>street<br>double<br>extra<br>bounce<br>account<br>monitor |  
+| bip_39_word_new_br_12 | hotel<br>smooth<br>kiwi<br>piano<br>ride<br>street<br>double<br>extra<br>bounce<br>account<br>monitor<br>airport |  
+| bip_39_word_new_br_2 | hotel<br>smooth |  
+| bip_39_word_new_br_3 | hotel<br>smooth<br>kiwi |  
+| bip_39_word_new_br_4 | hotel<br>smooth<br>kiwi<br>piano |  
+| bip_39_word_new_br_5 | hotel<br>smooth<br>kiwi<br>piano<br>ride |  
+| bip_39_word_new_br_6 | hotel<br>smooth<br>kiwi<br>piano<br>ride<br>street |  
+| bip_39_word_new_br_7 | hotel<br>smooth<br>kiwi<br>piano<br>ride<br>street<br>double |  
+| bip_39_word_new_br_8 | hotel<br>smooth<br>kiwi<br>piano<br>ride<br>street<br>double<br>extra |  
+| bip_39_word_new_br_9 | hotel<br>smooth<br>kiwi<br>piano<br>ride<br>street<br>double<br>extra<br>bounce |  
+| bip_39_word_new_line_1 | hotel |  
+| bip_39_word_new_line_10 | hotel
 smooth
 kiwi
 piano
@@ -55,7 +55,7 @@ double
 extra
 bounce
 account |  
-| bip_39_word_new_line11 | hotel
+| bip_39_word_new_line_11 | hotel
 smooth
 kiwi
 piano
@@ -66,7 +66,7 @@ extra
 bounce
 account
 monitor |  
-| bip_39_word_new_line12 | hotel
+| bip_39_word_new_line_12 | hotel
 smooth
 kiwi
 piano
@@ -78,34 +78,34 @@ bounce
 account
 monitor
 airport |  
-| bip_39_word_new_line2 | hotel
+| bip_39_word_new_line_2 | hotel
 smooth |  
-| bip_39_word_new_line3 | hotel
+| bip_39_word_new_line_3 | hotel
 smooth
 kiwi |  
-| bip_39_word_new_line4 | hotel
+| bip_39_word_new_line_4 | hotel
 smooth
 kiwi
 piano |  
-| bip_39_word_new_line5 | hotel
+| bip_39_word_new_line_5 | hotel
 smooth
 kiwi
 piano
 ride |  
-| bip_39_word_new_line6 | hotel
+| bip_39_word_new_line_6 | hotel
 smooth
 kiwi
 piano
 ride
 street |  
-| bip_39_word_new_line7 | hotel
+| bip_39_word_new_line_7 | hotel
 smooth
 kiwi
 piano
 ride
 street
 double |  
-| bip_39_word_new_line8 | hotel
+| bip_39_word_new_line_8 | hotel
 smooth
 kiwi
 piano
@@ -113,7 +113,7 @@ ride
 street
 double
 extra |  
-| bip_39_word_new_line9 | hotel
+| bip_39_word_new_line_9 | hotel
 smooth
 kiwi
 piano

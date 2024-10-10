@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | youth |  
-| bip_39_word_new_br10 | youth<br>liberty<br>attract<br>plunge<br>envelope<br>merry<br>frozen<br>vessel<br>clever<br>explain |  
-| bip_39_word_new_br11 | youth<br>liberty<br>attract<br>plunge<br>envelope<br>merry<br>frozen<br>vessel<br>clever<br>explain<br>clever |  
-| bip_39_word_new_br12 | youth<br>liberty<br>attract<br>plunge<br>envelope<br>merry<br>frozen<br>vessel<br>clever<br>explain<br>clever<br>attend |  
-| bip_39_word_new_br2 | youth<br>liberty |  
-| bip_39_word_new_br3 | youth<br>liberty<br>attract |  
-| bip_39_word_new_br4 | youth<br>liberty<br>attract<br>plunge |  
-| bip_39_word_new_br5 | youth<br>liberty<br>attract<br>plunge<br>envelope |  
-| bip_39_word_new_br6 | youth<br>liberty<br>attract<br>plunge<br>envelope<br>merry |  
-| bip_39_word_new_br7 | youth<br>liberty<br>attract<br>plunge<br>envelope<br>merry<br>frozen |  
-| bip_39_word_new_br8 | youth<br>liberty<br>attract<br>plunge<br>envelope<br>merry<br>frozen<br>vessel |  
-| bip_39_word_new_br9 | youth<br>liberty<br>attract<br>plunge<br>envelope<br>merry<br>frozen<br>vessel<br>clever |  
-| bip_39_word_new_line1 | youth |  
-| bip_39_word_new_line10 | youth
+| bip_39_word_new_br_1 | youth |  
+| bip_39_word_new_br_10 | youth<br>liberty<br>attract<br>plunge<br>envelope<br>merry<br>frozen<br>vessel<br>clever<br>explain |  
+| bip_39_word_new_br_11 | youth<br>liberty<br>attract<br>plunge<br>envelope<br>merry<br>frozen<br>vessel<br>clever<br>explain<br>clever |  
+| bip_39_word_new_br_12 | youth<br>liberty<br>attract<br>plunge<br>envelope<br>merry<br>frozen<br>vessel<br>clever<br>explain<br>clever<br>attend |  
+| bip_39_word_new_br_2 | youth<br>liberty |  
+| bip_39_word_new_br_3 | youth<br>liberty<br>attract |  
+| bip_39_word_new_br_4 | youth<br>liberty<br>attract<br>plunge |  
+| bip_39_word_new_br_5 | youth<br>liberty<br>attract<br>plunge<br>envelope |  
+| bip_39_word_new_br_6 | youth<br>liberty<br>attract<br>plunge<br>envelope<br>merry |  
+| bip_39_word_new_br_7 | youth<br>liberty<br>attract<br>plunge<br>envelope<br>merry<br>frozen |  
+| bip_39_word_new_br_8 | youth<br>liberty<br>attract<br>plunge<br>envelope<br>merry<br>frozen<br>vessel |  
+| bip_39_word_new_br_9 | youth<br>liberty<br>attract<br>plunge<br>envelope<br>merry<br>frozen<br>vessel<br>clever |  
+| bip_39_word_new_line_1 | youth |  
+| bip_39_word_new_line_10 | youth
 liberty
 attract
 plunge
@@ -55,7 +55,7 @@ frozen
 vessel
 clever
 explain |  
-| bip_39_word_new_line11 | youth
+| bip_39_word_new_line_11 | youth
 liberty
 attract
 plunge
@@ -66,7 +66,7 @@ vessel
 clever
 explain
 clever |  
-| bip_39_word_new_line12 | youth
+| bip_39_word_new_line_12 | youth
 liberty
 attract
 plunge
@@ -78,34 +78,34 @@ clever
 explain
 clever
 attend |  
-| bip_39_word_new_line2 | youth
+| bip_39_word_new_line_2 | youth
 liberty |  
-| bip_39_word_new_line3 | youth
+| bip_39_word_new_line_3 | youth
 liberty
 attract |  
-| bip_39_word_new_line4 | youth
+| bip_39_word_new_line_4 | youth
 liberty
 attract
 plunge |  
-| bip_39_word_new_line5 | youth
+| bip_39_word_new_line_5 | youth
 liberty
 attract
 plunge
 envelope |  
-| bip_39_word_new_line6 | youth
+| bip_39_word_new_line_6 | youth
 liberty
 attract
 plunge
 envelope
 merry |  
-| bip_39_word_new_line7 | youth
+| bip_39_word_new_line_7 | youth
 liberty
 attract
 plunge
 envelope
 merry
 frozen |  
-| bip_39_word_new_line8 | youth
+| bip_39_word_new_line_8 | youth
 liberty
 attract
 plunge
@@ -113,7 +113,7 @@ envelope
 merry
 frozen
 vessel |  
-| bip_39_word_new_line9 | youth
+| bip_39_word_new_line_9 | youth
 liberty
 attract
 plunge

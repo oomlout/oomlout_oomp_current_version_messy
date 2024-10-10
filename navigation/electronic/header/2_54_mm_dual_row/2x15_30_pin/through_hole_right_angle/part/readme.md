@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | remember |  
-| bip_39_word_new_br10 | remember<br>powder<br>rude<br>myself<br>sweet<br>badge<br>boat<br>sick<br>rug<br>such |  
-| bip_39_word_new_br11 | remember<br>powder<br>rude<br>myself<br>sweet<br>badge<br>boat<br>sick<br>rug<br>such<br>senior |  
-| bip_39_word_new_br12 | remember<br>powder<br>rude<br>myself<br>sweet<br>badge<br>boat<br>sick<br>rug<br>such<br>senior<br>age |  
-| bip_39_word_new_br2 | remember<br>powder |  
-| bip_39_word_new_br3 | remember<br>powder<br>rude |  
-| bip_39_word_new_br4 | remember<br>powder<br>rude<br>myself |  
-| bip_39_word_new_br5 | remember<br>powder<br>rude<br>myself<br>sweet |  
-| bip_39_word_new_br6 | remember<br>powder<br>rude<br>myself<br>sweet<br>badge |  
-| bip_39_word_new_br7 | remember<br>powder<br>rude<br>myself<br>sweet<br>badge<br>boat |  
-| bip_39_word_new_br8 | remember<br>powder<br>rude<br>myself<br>sweet<br>badge<br>boat<br>sick |  
-| bip_39_word_new_br9 | remember<br>powder<br>rude<br>myself<br>sweet<br>badge<br>boat<br>sick<br>rug |  
-| bip_39_word_new_line1 | remember |  
-| bip_39_word_new_line10 | remember
+| bip_39_word_new_br_1 | remember |  
+| bip_39_word_new_br_10 | remember<br>powder<br>rude<br>myself<br>sweet<br>badge<br>boat<br>sick<br>rug<br>such |  
+| bip_39_word_new_br_11 | remember<br>powder<br>rude<br>myself<br>sweet<br>badge<br>boat<br>sick<br>rug<br>such<br>senior |  
+| bip_39_word_new_br_12 | remember<br>powder<br>rude<br>myself<br>sweet<br>badge<br>boat<br>sick<br>rug<br>such<br>senior<br>age |  
+| bip_39_word_new_br_2 | remember<br>powder |  
+| bip_39_word_new_br_3 | remember<br>powder<br>rude |  
+| bip_39_word_new_br_4 | remember<br>powder<br>rude<br>myself |  
+| bip_39_word_new_br_5 | remember<br>powder<br>rude<br>myself<br>sweet |  
+| bip_39_word_new_br_6 | remember<br>powder<br>rude<br>myself<br>sweet<br>badge |  
+| bip_39_word_new_br_7 | remember<br>powder<br>rude<br>myself<br>sweet<br>badge<br>boat |  
+| bip_39_word_new_br_8 | remember<br>powder<br>rude<br>myself<br>sweet<br>badge<br>boat<br>sick |  
+| bip_39_word_new_br_9 | remember<br>powder<br>rude<br>myself<br>sweet<br>badge<br>boat<br>sick<br>rug |  
+| bip_39_word_new_line_1 | remember |  
+| bip_39_word_new_line_10 | remember
 powder
 rude
 myself
@@ -55,7 +55,7 @@ boat
 sick
 rug
 such |  
-| bip_39_word_new_line11 | remember
+| bip_39_word_new_line_11 | remember
 powder
 rude
 myself
@@ -66,7 +66,7 @@ sick
 rug
 such
 senior |  
-| bip_39_word_new_line12 | remember
+| bip_39_word_new_line_12 | remember
 powder
 rude
 myself
@@ -78,34 +78,34 @@ rug
 such
 senior
 age |  
-| bip_39_word_new_line2 | remember
+| bip_39_word_new_line_2 | remember
 powder |  
-| bip_39_word_new_line3 | remember
+| bip_39_word_new_line_3 | remember
 powder
 rude |  
-| bip_39_word_new_line4 | remember
+| bip_39_word_new_line_4 | remember
 powder
 rude
 myself |  
-| bip_39_word_new_line5 | remember
+| bip_39_word_new_line_5 | remember
 powder
 rude
 myself
 sweet |  
-| bip_39_word_new_line6 | remember
+| bip_39_word_new_line_6 | remember
 powder
 rude
 myself
 sweet
 badge |  
-| bip_39_word_new_line7 | remember
+| bip_39_word_new_line_7 | remember
 powder
 rude
 myself
 sweet
 badge
 boat |  
-| bip_39_word_new_line8 | remember
+| bip_39_word_new_line_8 | remember
 powder
 rude
 myself
@@ -113,7 +113,7 @@ sweet
 badge
 boat
 sick |  
-| bip_39_word_new_line9 | remember
+| bip_39_word_new_line_9 | remember
 powder
 rude
 myself

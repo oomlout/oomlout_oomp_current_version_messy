@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | total |  
-| bip_39_word_new_br10 | total<br>someone<br>visa<br>profit<br>chair<br>oblige<br>match<br>soap<br>music<br>sock |  
-| bip_39_word_new_br11 | total<br>someone<br>visa<br>profit<br>chair<br>oblige<br>match<br>soap<br>music<br>sock<br>stone |  
-| bip_39_word_new_br12 | total<br>someone<br>visa<br>profit<br>chair<br>oblige<br>match<br>soap<br>music<br>sock<br>stone<br>accident |  
-| bip_39_word_new_br2 | total<br>someone |  
-| bip_39_word_new_br3 | total<br>someone<br>visa |  
-| bip_39_word_new_br4 | total<br>someone<br>visa<br>profit |  
-| bip_39_word_new_br5 | total<br>someone<br>visa<br>profit<br>chair |  
-| bip_39_word_new_br6 | total<br>someone<br>visa<br>profit<br>chair<br>oblige |  
-| bip_39_word_new_br7 | total<br>someone<br>visa<br>profit<br>chair<br>oblige<br>match |  
-| bip_39_word_new_br8 | total<br>someone<br>visa<br>profit<br>chair<br>oblige<br>match<br>soap |  
-| bip_39_word_new_br9 | total<br>someone<br>visa<br>profit<br>chair<br>oblige<br>match<br>soap<br>music |  
-| bip_39_word_new_line1 | total |  
-| bip_39_word_new_line10 | total
+| bip_39_word_new_br_1 | total |  
+| bip_39_word_new_br_10 | total<br>someone<br>visa<br>profit<br>chair<br>oblige<br>match<br>soap<br>music<br>sock |  
+| bip_39_word_new_br_11 | total<br>someone<br>visa<br>profit<br>chair<br>oblige<br>match<br>soap<br>music<br>sock<br>stone |  
+| bip_39_word_new_br_12 | total<br>someone<br>visa<br>profit<br>chair<br>oblige<br>match<br>soap<br>music<br>sock<br>stone<br>accident |  
+| bip_39_word_new_br_2 | total<br>someone |  
+| bip_39_word_new_br_3 | total<br>someone<br>visa |  
+| bip_39_word_new_br_4 | total<br>someone<br>visa<br>profit |  
+| bip_39_word_new_br_5 | total<br>someone<br>visa<br>profit<br>chair |  
+| bip_39_word_new_br_6 | total<br>someone<br>visa<br>profit<br>chair<br>oblige |  
+| bip_39_word_new_br_7 | total<br>someone<br>visa<br>profit<br>chair<br>oblige<br>match |  
+| bip_39_word_new_br_8 | total<br>someone<br>visa<br>profit<br>chair<br>oblige<br>match<br>soap |  
+| bip_39_word_new_br_9 | total<br>someone<br>visa<br>profit<br>chair<br>oblige<br>match<br>soap<br>music |  
+| bip_39_word_new_line_1 | total |  
+| bip_39_word_new_line_10 | total
 someone
 visa
 profit
@@ -55,7 +55,7 @@ match
 soap
 music
 sock |  
-| bip_39_word_new_line11 | total
+| bip_39_word_new_line_11 | total
 someone
 visa
 profit
@@ -66,7 +66,7 @@ soap
 music
 sock
 stone |  
-| bip_39_word_new_line12 | total
+| bip_39_word_new_line_12 | total
 someone
 visa
 profit
@@ -78,34 +78,34 @@ music
 sock
 stone
 accident |  
-| bip_39_word_new_line2 | total
+| bip_39_word_new_line_2 | total
 someone |  
-| bip_39_word_new_line3 | total
+| bip_39_word_new_line_3 | total
 someone
 visa |  
-| bip_39_word_new_line4 | total
+| bip_39_word_new_line_4 | total
 someone
 visa
 profit |  
-| bip_39_word_new_line5 | total
+| bip_39_word_new_line_5 | total
 someone
 visa
 profit
 chair |  
-| bip_39_word_new_line6 | total
+| bip_39_word_new_line_6 | total
 someone
 visa
 profit
 chair
 oblige |  
-| bip_39_word_new_line7 | total
+| bip_39_word_new_line_7 | total
 someone
 visa
 profit
 chair
 oblige
 match |  
-| bip_39_word_new_line8 | total
+| bip_39_word_new_line_8 | total
 someone
 visa
 profit
@@ -113,7 +113,7 @@ chair
 oblige
 match
 soap |  
-| bip_39_word_new_line9 | total
+| bip_39_word_new_line_9 | total
 someone
 visa
 profit

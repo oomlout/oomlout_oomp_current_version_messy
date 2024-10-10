@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | system |  
-| bip_39_word_new_br10 | system<br>possible<br>illness<br>property<br>ozone<br>sun<br>cruel<br>orient<br>ill<br>catalog |  
-| bip_39_word_new_br11 | system<br>possible<br>illness<br>property<br>ozone<br>sun<br>cruel<br>orient<br>ill<br>catalog<br>drink |  
-| bip_39_word_new_br12 | system<br>possible<br>illness<br>property<br>ozone<br>sun<br>cruel<br>orient<br>ill<br>catalog<br>drink<br>armor |  
-| bip_39_word_new_br2 | system<br>possible |  
-| bip_39_word_new_br3 | system<br>possible<br>illness |  
-| bip_39_word_new_br4 | system<br>possible<br>illness<br>property |  
-| bip_39_word_new_br5 | system<br>possible<br>illness<br>property<br>ozone |  
-| bip_39_word_new_br6 | system<br>possible<br>illness<br>property<br>ozone<br>sun |  
-| bip_39_word_new_br7 | system<br>possible<br>illness<br>property<br>ozone<br>sun<br>cruel |  
-| bip_39_word_new_br8 | system<br>possible<br>illness<br>property<br>ozone<br>sun<br>cruel<br>orient |  
-| bip_39_word_new_br9 | system<br>possible<br>illness<br>property<br>ozone<br>sun<br>cruel<br>orient<br>ill |  
-| bip_39_word_new_line1 | system |  
-| bip_39_word_new_line10 | system
+| bip_39_word_new_br_1 | system |  
+| bip_39_word_new_br_10 | system<br>possible<br>illness<br>property<br>ozone<br>sun<br>cruel<br>orient<br>ill<br>catalog |  
+| bip_39_word_new_br_11 | system<br>possible<br>illness<br>property<br>ozone<br>sun<br>cruel<br>orient<br>ill<br>catalog<br>drink |  
+| bip_39_word_new_br_12 | system<br>possible<br>illness<br>property<br>ozone<br>sun<br>cruel<br>orient<br>ill<br>catalog<br>drink<br>armor |  
+| bip_39_word_new_br_2 | system<br>possible |  
+| bip_39_word_new_br_3 | system<br>possible<br>illness |  
+| bip_39_word_new_br_4 | system<br>possible<br>illness<br>property |  
+| bip_39_word_new_br_5 | system<br>possible<br>illness<br>property<br>ozone |  
+| bip_39_word_new_br_6 | system<br>possible<br>illness<br>property<br>ozone<br>sun |  
+| bip_39_word_new_br_7 | system<br>possible<br>illness<br>property<br>ozone<br>sun<br>cruel |  
+| bip_39_word_new_br_8 | system<br>possible<br>illness<br>property<br>ozone<br>sun<br>cruel<br>orient |  
+| bip_39_word_new_br_9 | system<br>possible<br>illness<br>property<br>ozone<br>sun<br>cruel<br>orient<br>ill |  
+| bip_39_word_new_line_1 | system |  
+| bip_39_word_new_line_10 | system
 possible
 illness
 property
@@ -55,7 +55,7 @@ cruel
 orient
 ill
 catalog |  
-| bip_39_word_new_line11 | system
+| bip_39_word_new_line_11 | system
 possible
 illness
 property
@@ -66,7 +66,7 @@ orient
 ill
 catalog
 drink |  
-| bip_39_word_new_line12 | system
+| bip_39_word_new_line_12 | system
 possible
 illness
 property
@@ -78,34 +78,34 @@ ill
 catalog
 drink
 armor |  
-| bip_39_word_new_line2 | system
+| bip_39_word_new_line_2 | system
 possible |  
-| bip_39_word_new_line3 | system
+| bip_39_word_new_line_3 | system
 possible
 illness |  
-| bip_39_word_new_line4 | system
+| bip_39_word_new_line_4 | system
 possible
 illness
 property |  
-| bip_39_word_new_line5 | system
+| bip_39_word_new_line_5 | system
 possible
 illness
 property
 ozone |  
-| bip_39_word_new_line6 | system
+| bip_39_word_new_line_6 | system
 possible
 illness
 property
 ozone
 sun |  
-| bip_39_word_new_line7 | system
+| bip_39_word_new_line_7 | system
 possible
 illness
 property
 ozone
 sun
 cruel |  
-| bip_39_word_new_line8 | system
+| bip_39_word_new_line_8 | system
 possible
 illness
 property
@@ -113,7 +113,7 @@ ozone
 sun
 cruel
 orient |  
-| bip_39_word_new_line9 | system
+| bip_39_word_new_line_9 | system
 possible
 illness
 property

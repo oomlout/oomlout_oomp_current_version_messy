@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sponsor |  
-| bip_39_word_new_br10 | sponsor<br>copy<br>life<br>goose<br>tenant<br>panic<br>thing<br>chase<br>boost<br>wear |  
-| bip_39_word_new_br11 | sponsor<br>copy<br>life<br>goose<br>tenant<br>panic<br>thing<br>chase<br>boost<br>wear<br>all |  
-| bip_39_word_new_br12 | sponsor<br>copy<br>life<br>goose<br>tenant<br>panic<br>thing<br>chase<br>boost<br>wear<br>all<br>above |  
-| bip_39_word_new_br2 | sponsor<br>copy |  
-| bip_39_word_new_br3 | sponsor<br>copy<br>life |  
-| bip_39_word_new_br4 | sponsor<br>copy<br>life<br>goose |  
-| bip_39_word_new_br5 | sponsor<br>copy<br>life<br>goose<br>tenant |  
-| bip_39_word_new_br6 | sponsor<br>copy<br>life<br>goose<br>tenant<br>panic |  
-| bip_39_word_new_br7 | sponsor<br>copy<br>life<br>goose<br>tenant<br>panic<br>thing |  
-| bip_39_word_new_br8 | sponsor<br>copy<br>life<br>goose<br>tenant<br>panic<br>thing<br>chase |  
-| bip_39_word_new_br9 | sponsor<br>copy<br>life<br>goose<br>tenant<br>panic<br>thing<br>chase<br>boost |  
-| bip_39_word_new_line1 | sponsor |  
-| bip_39_word_new_line10 | sponsor
+| bip_39_word_new_br_1 | sponsor |  
+| bip_39_word_new_br_10 | sponsor<br>copy<br>life<br>goose<br>tenant<br>panic<br>thing<br>chase<br>boost<br>wear |  
+| bip_39_word_new_br_11 | sponsor<br>copy<br>life<br>goose<br>tenant<br>panic<br>thing<br>chase<br>boost<br>wear<br>all |  
+| bip_39_word_new_br_12 | sponsor<br>copy<br>life<br>goose<br>tenant<br>panic<br>thing<br>chase<br>boost<br>wear<br>all<br>above |  
+| bip_39_word_new_br_2 | sponsor<br>copy |  
+| bip_39_word_new_br_3 | sponsor<br>copy<br>life |  
+| bip_39_word_new_br_4 | sponsor<br>copy<br>life<br>goose |  
+| bip_39_word_new_br_5 | sponsor<br>copy<br>life<br>goose<br>tenant |  
+| bip_39_word_new_br_6 | sponsor<br>copy<br>life<br>goose<br>tenant<br>panic |  
+| bip_39_word_new_br_7 | sponsor<br>copy<br>life<br>goose<br>tenant<br>panic<br>thing |  
+| bip_39_word_new_br_8 | sponsor<br>copy<br>life<br>goose<br>tenant<br>panic<br>thing<br>chase |  
+| bip_39_word_new_br_9 | sponsor<br>copy<br>life<br>goose<br>tenant<br>panic<br>thing<br>chase<br>boost |  
+| bip_39_word_new_line_1 | sponsor |  
+| bip_39_word_new_line_10 | sponsor
 copy
 life
 goose
@@ -55,7 +55,7 @@ thing
 chase
 boost
 wear |  
-| bip_39_word_new_line11 | sponsor
+| bip_39_word_new_line_11 | sponsor
 copy
 life
 goose
@@ -66,7 +66,7 @@ chase
 boost
 wear
 all |  
-| bip_39_word_new_line12 | sponsor
+| bip_39_word_new_line_12 | sponsor
 copy
 life
 goose
@@ -78,34 +78,34 @@ boost
 wear
 all
 above |  
-| bip_39_word_new_line2 | sponsor
+| bip_39_word_new_line_2 | sponsor
 copy |  
-| bip_39_word_new_line3 | sponsor
+| bip_39_word_new_line_3 | sponsor
 copy
 life |  
-| bip_39_word_new_line4 | sponsor
+| bip_39_word_new_line_4 | sponsor
 copy
 life
 goose |  
-| bip_39_word_new_line5 | sponsor
+| bip_39_word_new_line_5 | sponsor
 copy
 life
 goose
 tenant |  
-| bip_39_word_new_line6 | sponsor
+| bip_39_word_new_line_6 | sponsor
 copy
 life
 goose
 tenant
 panic |  
-| bip_39_word_new_line7 | sponsor
+| bip_39_word_new_line_7 | sponsor
 copy
 life
 goose
 tenant
 panic
 thing |  
-| bip_39_word_new_line8 | sponsor
+| bip_39_word_new_line_8 | sponsor
 copy
 life
 goose
@@ -113,7 +113,7 @@ tenant
 panic
 thing
 chase |  
-| bip_39_word_new_line9 | sponsor
+| bip_39_word_new_line_9 | sponsor
 copy
 life
 goose

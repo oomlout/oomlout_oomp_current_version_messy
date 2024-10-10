@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | myth |  
-| bip_39_word_new_br10 | myth<br>cry<br>purity<br>space<br>rude<br>output<br>faculty<br>moon<br>word<br>piano |  
-| bip_39_word_new_br11 | myth<br>cry<br>purity<br>space<br>rude<br>output<br>faculty<br>moon<br>word<br>piano<br>dial |  
-| bip_39_word_new_br12 | myth<br>cry<br>purity<br>space<br>rude<br>output<br>faculty<br>moon<br>word<br>piano<br>dial<br>acid |  
-| bip_39_word_new_br2 | myth<br>cry |  
-| bip_39_word_new_br3 | myth<br>cry<br>purity |  
-| bip_39_word_new_br4 | myth<br>cry<br>purity<br>space |  
-| bip_39_word_new_br5 | myth<br>cry<br>purity<br>space<br>rude |  
-| bip_39_word_new_br6 | myth<br>cry<br>purity<br>space<br>rude<br>output |  
-| bip_39_word_new_br7 | myth<br>cry<br>purity<br>space<br>rude<br>output<br>faculty |  
-| bip_39_word_new_br8 | myth<br>cry<br>purity<br>space<br>rude<br>output<br>faculty<br>moon |  
-| bip_39_word_new_br9 | myth<br>cry<br>purity<br>space<br>rude<br>output<br>faculty<br>moon<br>word |  
-| bip_39_word_new_line1 | myth |  
-| bip_39_word_new_line10 | myth
+| bip_39_word_new_br_1 | myth |  
+| bip_39_word_new_br_10 | myth<br>cry<br>purity<br>space<br>rude<br>output<br>faculty<br>moon<br>word<br>piano |  
+| bip_39_word_new_br_11 | myth<br>cry<br>purity<br>space<br>rude<br>output<br>faculty<br>moon<br>word<br>piano<br>dial |  
+| bip_39_word_new_br_12 | myth<br>cry<br>purity<br>space<br>rude<br>output<br>faculty<br>moon<br>word<br>piano<br>dial<br>acid |  
+| bip_39_word_new_br_2 | myth<br>cry |  
+| bip_39_word_new_br_3 | myth<br>cry<br>purity |  
+| bip_39_word_new_br_4 | myth<br>cry<br>purity<br>space |  
+| bip_39_word_new_br_5 | myth<br>cry<br>purity<br>space<br>rude |  
+| bip_39_word_new_br_6 | myth<br>cry<br>purity<br>space<br>rude<br>output |  
+| bip_39_word_new_br_7 | myth<br>cry<br>purity<br>space<br>rude<br>output<br>faculty |  
+| bip_39_word_new_br_8 | myth<br>cry<br>purity<br>space<br>rude<br>output<br>faculty<br>moon |  
+| bip_39_word_new_br_9 | myth<br>cry<br>purity<br>space<br>rude<br>output<br>faculty<br>moon<br>word |  
+| bip_39_word_new_line_1 | myth |  
+| bip_39_word_new_line_10 | myth
 cry
 purity
 space
@@ -55,7 +55,7 @@ faculty
 moon
 word
 piano |  
-| bip_39_word_new_line11 | myth
+| bip_39_word_new_line_11 | myth
 cry
 purity
 space
@@ -66,7 +66,7 @@ moon
 word
 piano
 dial |  
-| bip_39_word_new_line12 | myth
+| bip_39_word_new_line_12 | myth
 cry
 purity
 space
@@ -78,34 +78,34 @@ word
 piano
 dial
 acid |  
-| bip_39_word_new_line2 | myth
+| bip_39_word_new_line_2 | myth
 cry |  
-| bip_39_word_new_line3 | myth
+| bip_39_word_new_line_3 | myth
 cry
 purity |  
-| bip_39_word_new_line4 | myth
+| bip_39_word_new_line_4 | myth
 cry
 purity
 space |  
-| bip_39_word_new_line5 | myth
+| bip_39_word_new_line_5 | myth
 cry
 purity
 space
 rude |  
-| bip_39_word_new_line6 | myth
+| bip_39_word_new_line_6 | myth
 cry
 purity
 space
 rude
 output |  
-| bip_39_word_new_line7 | myth
+| bip_39_word_new_line_7 | myth
 cry
 purity
 space
 rude
 output
 faculty |  
-| bip_39_word_new_line8 | myth
+| bip_39_word_new_line_8 | myth
 cry
 purity
 space
@@ -113,7 +113,7 @@ rude
 output
 faculty
 moon |  
-| bip_39_word_new_line9 | myth
+| bip_39_word_new_line_9 | myth
 cry
 purity
 space

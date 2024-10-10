@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pair |  
-| bip_39_word_new_br10 | pair<br>crane<br>vicious<br>thumb<br>village<br>judge<br>ladder<br>cupboard<br>focus<br>diet |  
-| bip_39_word_new_br11 | pair<br>crane<br>vicious<br>thumb<br>village<br>judge<br>ladder<br>cupboard<br>focus<br>diet<br>jungle |  
-| bip_39_word_new_br12 | pair<br>crane<br>vicious<br>thumb<br>village<br>judge<br>ladder<br>cupboard<br>focus<br>diet<br>jungle<br>ability |  
-| bip_39_word_new_br2 | pair<br>crane |  
-| bip_39_word_new_br3 | pair<br>crane<br>vicious |  
-| bip_39_word_new_br4 | pair<br>crane<br>vicious<br>thumb |  
-| bip_39_word_new_br5 | pair<br>crane<br>vicious<br>thumb<br>village |  
-| bip_39_word_new_br6 | pair<br>crane<br>vicious<br>thumb<br>village<br>judge |  
-| bip_39_word_new_br7 | pair<br>crane<br>vicious<br>thumb<br>village<br>judge<br>ladder |  
-| bip_39_word_new_br8 | pair<br>crane<br>vicious<br>thumb<br>village<br>judge<br>ladder<br>cupboard |  
-| bip_39_word_new_br9 | pair<br>crane<br>vicious<br>thumb<br>village<br>judge<br>ladder<br>cupboard<br>focus |  
-| bip_39_word_new_line1 | pair |  
-| bip_39_word_new_line10 | pair
+| bip_39_word_new_br_1 | pair |  
+| bip_39_word_new_br_10 | pair<br>crane<br>vicious<br>thumb<br>village<br>judge<br>ladder<br>cupboard<br>focus<br>diet |  
+| bip_39_word_new_br_11 | pair<br>crane<br>vicious<br>thumb<br>village<br>judge<br>ladder<br>cupboard<br>focus<br>diet<br>jungle |  
+| bip_39_word_new_br_12 | pair<br>crane<br>vicious<br>thumb<br>village<br>judge<br>ladder<br>cupboard<br>focus<br>diet<br>jungle<br>ability |  
+| bip_39_word_new_br_2 | pair<br>crane |  
+| bip_39_word_new_br_3 | pair<br>crane<br>vicious |  
+| bip_39_word_new_br_4 | pair<br>crane<br>vicious<br>thumb |  
+| bip_39_word_new_br_5 | pair<br>crane<br>vicious<br>thumb<br>village |  
+| bip_39_word_new_br_6 | pair<br>crane<br>vicious<br>thumb<br>village<br>judge |  
+| bip_39_word_new_br_7 | pair<br>crane<br>vicious<br>thumb<br>village<br>judge<br>ladder |  
+| bip_39_word_new_br_8 | pair<br>crane<br>vicious<br>thumb<br>village<br>judge<br>ladder<br>cupboard |  
+| bip_39_word_new_br_9 | pair<br>crane<br>vicious<br>thumb<br>village<br>judge<br>ladder<br>cupboard<br>focus |  
+| bip_39_word_new_line_1 | pair |  
+| bip_39_word_new_line_10 | pair
 crane
 vicious
 thumb
@@ -55,7 +55,7 @@ ladder
 cupboard
 focus
 diet |  
-| bip_39_word_new_line11 | pair
+| bip_39_word_new_line_11 | pair
 crane
 vicious
 thumb
@@ -66,7 +66,7 @@ cupboard
 focus
 diet
 jungle |  
-| bip_39_word_new_line12 | pair
+| bip_39_word_new_line_12 | pair
 crane
 vicious
 thumb
@@ -78,34 +78,34 @@ focus
 diet
 jungle
 ability |  
-| bip_39_word_new_line2 | pair
+| bip_39_word_new_line_2 | pair
 crane |  
-| bip_39_word_new_line3 | pair
+| bip_39_word_new_line_3 | pair
 crane
 vicious |  
-| bip_39_word_new_line4 | pair
+| bip_39_word_new_line_4 | pair
 crane
 vicious
 thumb |  
-| bip_39_word_new_line5 | pair
+| bip_39_word_new_line_5 | pair
 crane
 vicious
 thumb
 village |  
-| bip_39_word_new_line6 | pair
+| bip_39_word_new_line_6 | pair
 crane
 vicious
 thumb
 village
 judge |  
-| bip_39_word_new_line7 | pair
+| bip_39_word_new_line_7 | pair
 crane
 vicious
 thumb
 village
 judge
 ladder |  
-| bip_39_word_new_line8 | pair
+| bip_39_word_new_line_8 | pair
 crane
 vicious
 thumb
@@ -113,7 +113,7 @@ village
 judge
 ladder
 cupboard |  
-| bip_39_word_new_line9 | pair
+| bip_39_word_new_line_9 | pair
 crane
 vicious
 thumb

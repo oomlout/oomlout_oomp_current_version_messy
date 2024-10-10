@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | network |  
-| bip_39_word_new_br10 | network<br>bronze<br>sun<br>ring<br>speed<br>bean<br>supply<br>cool<br>recall<br>prison |  
-| bip_39_word_new_br11 | network<br>bronze<br>sun<br>ring<br>speed<br>bean<br>supply<br>cool<br>recall<br>prison<br>credit |  
-| bip_39_word_new_br12 | network<br>bronze<br>sun<br>ring<br>speed<br>bean<br>supply<br>cool<br>recall<br>prison<br>credit<br>average |  
-| bip_39_word_new_br2 | network<br>bronze |  
-| bip_39_word_new_br3 | network<br>bronze<br>sun |  
-| bip_39_word_new_br4 | network<br>bronze<br>sun<br>ring |  
-| bip_39_word_new_br5 | network<br>bronze<br>sun<br>ring<br>speed |  
-| bip_39_word_new_br6 | network<br>bronze<br>sun<br>ring<br>speed<br>bean |  
-| bip_39_word_new_br7 | network<br>bronze<br>sun<br>ring<br>speed<br>bean<br>supply |  
-| bip_39_word_new_br8 | network<br>bronze<br>sun<br>ring<br>speed<br>bean<br>supply<br>cool |  
-| bip_39_word_new_br9 | network<br>bronze<br>sun<br>ring<br>speed<br>bean<br>supply<br>cool<br>recall |  
-| bip_39_word_new_line1 | network |  
-| bip_39_word_new_line10 | network
+| bip_39_word_new_br_1 | network |  
+| bip_39_word_new_br_10 | network<br>bronze<br>sun<br>ring<br>speed<br>bean<br>supply<br>cool<br>recall<br>prison |  
+| bip_39_word_new_br_11 | network<br>bronze<br>sun<br>ring<br>speed<br>bean<br>supply<br>cool<br>recall<br>prison<br>credit |  
+| bip_39_word_new_br_12 | network<br>bronze<br>sun<br>ring<br>speed<br>bean<br>supply<br>cool<br>recall<br>prison<br>credit<br>average |  
+| bip_39_word_new_br_2 | network<br>bronze |  
+| bip_39_word_new_br_3 | network<br>bronze<br>sun |  
+| bip_39_word_new_br_4 | network<br>bronze<br>sun<br>ring |  
+| bip_39_word_new_br_5 | network<br>bronze<br>sun<br>ring<br>speed |  
+| bip_39_word_new_br_6 | network<br>bronze<br>sun<br>ring<br>speed<br>bean |  
+| bip_39_word_new_br_7 | network<br>bronze<br>sun<br>ring<br>speed<br>bean<br>supply |  
+| bip_39_word_new_br_8 | network<br>bronze<br>sun<br>ring<br>speed<br>bean<br>supply<br>cool |  
+| bip_39_word_new_br_9 | network<br>bronze<br>sun<br>ring<br>speed<br>bean<br>supply<br>cool<br>recall |  
+| bip_39_word_new_line_1 | network |  
+| bip_39_word_new_line_10 | network
 bronze
 sun
 ring
@@ -55,7 +55,7 @@ supply
 cool
 recall
 prison |  
-| bip_39_word_new_line11 | network
+| bip_39_word_new_line_11 | network
 bronze
 sun
 ring
@@ -66,7 +66,7 @@ cool
 recall
 prison
 credit |  
-| bip_39_word_new_line12 | network
+| bip_39_word_new_line_12 | network
 bronze
 sun
 ring
@@ -78,34 +78,34 @@ recall
 prison
 credit
 average |  
-| bip_39_word_new_line2 | network
+| bip_39_word_new_line_2 | network
 bronze |  
-| bip_39_word_new_line3 | network
+| bip_39_word_new_line_3 | network
 bronze
 sun |  
-| bip_39_word_new_line4 | network
+| bip_39_word_new_line_4 | network
 bronze
 sun
 ring |  
-| bip_39_word_new_line5 | network
+| bip_39_word_new_line_5 | network
 bronze
 sun
 ring
 speed |  
-| bip_39_word_new_line6 | network
+| bip_39_word_new_line_6 | network
 bronze
 sun
 ring
 speed
 bean |  
-| bip_39_word_new_line7 | network
+| bip_39_word_new_line_7 | network
 bronze
 sun
 ring
 speed
 bean
 supply |  
-| bip_39_word_new_line8 | network
+| bip_39_word_new_line_8 | network
 bronze
 sun
 ring
@@ -113,7 +113,7 @@ speed
 bean
 supply
 cool |  
-| bip_39_word_new_line9 | network
+| bip_39_word_new_line_9 | network
 bronze
 sun
 ring

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | second |  
-| bip_39_word_new_br10 | second<br>school<br>trip<br>fun<br>zebra<br>actor<br>amateur<br>analyst<br>basic<br>area |  
-| bip_39_word_new_br11 | second<br>school<br>trip<br>fun<br>zebra<br>actor<br>amateur<br>analyst<br>basic<br>area<br>menu |  
-| bip_39_word_new_br12 | second<br>school<br>trip<br>fun<br>zebra<br>actor<br>amateur<br>analyst<br>basic<br>area<br>menu<br>assault |  
-| bip_39_word_new_br2 | second<br>school |  
-| bip_39_word_new_br3 | second<br>school<br>trip |  
-| bip_39_word_new_br4 | second<br>school<br>trip<br>fun |  
-| bip_39_word_new_br5 | second<br>school<br>trip<br>fun<br>zebra |  
-| bip_39_word_new_br6 | second<br>school<br>trip<br>fun<br>zebra<br>actor |  
-| bip_39_word_new_br7 | second<br>school<br>trip<br>fun<br>zebra<br>actor<br>amateur |  
-| bip_39_word_new_br8 | second<br>school<br>trip<br>fun<br>zebra<br>actor<br>amateur<br>analyst |  
-| bip_39_word_new_br9 | second<br>school<br>trip<br>fun<br>zebra<br>actor<br>amateur<br>analyst<br>basic |  
-| bip_39_word_new_line1 | second |  
-| bip_39_word_new_line10 | second
+| bip_39_word_new_br_1 | second |  
+| bip_39_word_new_br_10 | second<br>school<br>trip<br>fun<br>zebra<br>actor<br>amateur<br>analyst<br>basic<br>area |  
+| bip_39_word_new_br_11 | second<br>school<br>trip<br>fun<br>zebra<br>actor<br>amateur<br>analyst<br>basic<br>area<br>menu |  
+| bip_39_word_new_br_12 | second<br>school<br>trip<br>fun<br>zebra<br>actor<br>amateur<br>analyst<br>basic<br>area<br>menu<br>assault |  
+| bip_39_word_new_br_2 | second<br>school |  
+| bip_39_word_new_br_3 | second<br>school<br>trip |  
+| bip_39_word_new_br_4 | second<br>school<br>trip<br>fun |  
+| bip_39_word_new_br_5 | second<br>school<br>trip<br>fun<br>zebra |  
+| bip_39_word_new_br_6 | second<br>school<br>trip<br>fun<br>zebra<br>actor |  
+| bip_39_word_new_br_7 | second<br>school<br>trip<br>fun<br>zebra<br>actor<br>amateur |  
+| bip_39_word_new_br_8 | second<br>school<br>trip<br>fun<br>zebra<br>actor<br>amateur<br>analyst |  
+| bip_39_word_new_br_9 | second<br>school<br>trip<br>fun<br>zebra<br>actor<br>amateur<br>analyst<br>basic |  
+| bip_39_word_new_line_1 | second |  
+| bip_39_word_new_line_10 | second
 school
 trip
 fun
@@ -55,7 +55,7 @@ amateur
 analyst
 basic
 area |  
-| bip_39_word_new_line11 | second
+| bip_39_word_new_line_11 | second
 school
 trip
 fun
@@ -66,7 +66,7 @@ analyst
 basic
 area
 menu |  
-| bip_39_word_new_line12 | second
+| bip_39_word_new_line_12 | second
 school
 trip
 fun
@@ -78,34 +78,34 @@ basic
 area
 menu
 assault |  
-| bip_39_word_new_line2 | second
+| bip_39_word_new_line_2 | second
 school |  
-| bip_39_word_new_line3 | second
+| bip_39_word_new_line_3 | second
 school
 trip |  
-| bip_39_word_new_line4 | second
+| bip_39_word_new_line_4 | second
 school
 trip
 fun |  
-| bip_39_word_new_line5 | second
+| bip_39_word_new_line_5 | second
 school
 trip
 fun
 zebra |  
-| bip_39_word_new_line6 | second
+| bip_39_word_new_line_6 | second
 school
 trip
 fun
 zebra
 actor |  
-| bip_39_word_new_line7 | second
+| bip_39_word_new_line_7 | second
 school
 trip
 fun
 zebra
 actor
 amateur |  
-| bip_39_word_new_line8 | second
+| bip_39_word_new_line_8 | second
 school
 trip
 fun
@@ -113,7 +113,7 @@ zebra
 actor
 amateur
 analyst |  
-| bip_39_word_new_line9 | second
+| bip_39_word_new_line_9 | second
 school
 trip
 fun

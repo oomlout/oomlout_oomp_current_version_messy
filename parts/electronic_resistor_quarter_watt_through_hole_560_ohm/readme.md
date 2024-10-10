@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | until |  
-| bip_39_word_new_br10 | until<br>social<br>damp<br>business<br>general<br>timber<br>twist<br>cheap<br>super<br>ecology |  
-| bip_39_word_new_br11 | until<br>social<br>damp<br>business<br>general<br>timber<br>twist<br>cheap<br>super<br>ecology<br>update |  
-| bip_39_word_new_br12 | until<br>social<br>damp<br>business<br>general<br>timber<br>twist<br>cheap<br>super<br>ecology<br>update<br>actress |  
-| bip_39_word_new_br2 | until<br>social |  
-| bip_39_word_new_br3 | until<br>social<br>damp |  
-| bip_39_word_new_br4 | until<br>social<br>damp<br>business |  
-| bip_39_word_new_br5 | until<br>social<br>damp<br>business<br>general |  
-| bip_39_word_new_br6 | until<br>social<br>damp<br>business<br>general<br>timber |  
-| bip_39_word_new_br7 | until<br>social<br>damp<br>business<br>general<br>timber<br>twist |  
-| bip_39_word_new_br8 | until<br>social<br>damp<br>business<br>general<br>timber<br>twist<br>cheap |  
-| bip_39_word_new_br9 | until<br>social<br>damp<br>business<br>general<br>timber<br>twist<br>cheap<br>super |  
-| bip_39_word_new_line1 | until |  
-| bip_39_word_new_line10 | until
+| bip_39_word_new_br_1 | until |  
+| bip_39_word_new_br_10 | until<br>social<br>damp<br>business<br>general<br>timber<br>twist<br>cheap<br>super<br>ecology |  
+| bip_39_word_new_br_11 | until<br>social<br>damp<br>business<br>general<br>timber<br>twist<br>cheap<br>super<br>ecology<br>update |  
+| bip_39_word_new_br_12 | until<br>social<br>damp<br>business<br>general<br>timber<br>twist<br>cheap<br>super<br>ecology<br>update<br>actress |  
+| bip_39_word_new_br_2 | until<br>social |  
+| bip_39_word_new_br_3 | until<br>social<br>damp |  
+| bip_39_word_new_br_4 | until<br>social<br>damp<br>business |  
+| bip_39_word_new_br_5 | until<br>social<br>damp<br>business<br>general |  
+| bip_39_word_new_br_6 | until<br>social<br>damp<br>business<br>general<br>timber |  
+| bip_39_word_new_br_7 | until<br>social<br>damp<br>business<br>general<br>timber<br>twist |  
+| bip_39_word_new_br_8 | until<br>social<br>damp<br>business<br>general<br>timber<br>twist<br>cheap |  
+| bip_39_word_new_br_9 | until<br>social<br>damp<br>business<br>general<br>timber<br>twist<br>cheap<br>super |  
+| bip_39_word_new_line_1 | until |  
+| bip_39_word_new_line_10 | until
 social
 damp
 business
@@ -55,7 +55,7 @@ twist
 cheap
 super
 ecology |  
-| bip_39_word_new_line11 | until
+| bip_39_word_new_line_11 | until
 social
 damp
 business
@@ -66,7 +66,7 @@ cheap
 super
 ecology
 update |  
-| bip_39_word_new_line12 | until
+| bip_39_word_new_line_12 | until
 social
 damp
 business
@@ -78,34 +78,34 @@ super
 ecology
 update
 actress |  
-| bip_39_word_new_line2 | until
+| bip_39_word_new_line_2 | until
 social |  
-| bip_39_word_new_line3 | until
+| bip_39_word_new_line_3 | until
 social
 damp |  
-| bip_39_word_new_line4 | until
+| bip_39_word_new_line_4 | until
 social
 damp
 business |  
-| bip_39_word_new_line5 | until
+| bip_39_word_new_line_5 | until
 social
 damp
 business
 general |  
-| bip_39_word_new_line6 | until
+| bip_39_word_new_line_6 | until
 social
 damp
 business
 general
 timber |  
-| bip_39_word_new_line7 | until
+| bip_39_word_new_line_7 | until
 social
 damp
 business
 general
 timber
 twist |  
-| bip_39_word_new_line8 | until
+| bip_39_word_new_line_8 | until
 social
 damp
 business
@@ -113,7 +113,7 @@ general
 timber
 twist
 cheap |  
-| bip_39_word_new_line9 | until
+| bip_39_word_new_line_9 | until
 social
 damp
 business

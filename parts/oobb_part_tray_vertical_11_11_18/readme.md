@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | divert |  
-| bip_39_word_new_br10 | divert<br>carbon<br>bird<br>mad<br>paddle<br>fall<br>buffalo<br>robust<br>senior<br>elite |  
-| bip_39_word_new_br11 | divert<br>carbon<br>bird<br>mad<br>paddle<br>fall<br>buffalo<br>robust<br>senior<br>elite<br>recipe |  
-| bip_39_word_new_br12 | divert<br>carbon<br>bird<br>mad<br>paddle<br>fall<br>buffalo<br>robust<br>senior<br>elite<br>recipe<br>ability |  
-| bip_39_word_new_br2 | divert<br>carbon |  
-| bip_39_word_new_br3 | divert<br>carbon<br>bird |  
-| bip_39_word_new_br4 | divert<br>carbon<br>bird<br>mad |  
-| bip_39_word_new_br5 | divert<br>carbon<br>bird<br>mad<br>paddle |  
-| bip_39_word_new_br6 | divert<br>carbon<br>bird<br>mad<br>paddle<br>fall |  
-| bip_39_word_new_br7 | divert<br>carbon<br>bird<br>mad<br>paddle<br>fall<br>buffalo |  
-| bip_39_word_new_br8 | divert<br>carbon<br>bird<br>mad<br>paddle<br>fall<br>buffalo<br>robust |  
-| bip_39_word_new_br9 | divert<br>carbon<br>bird<br>mad<br>paddle<br>fall<br>buffalo<br>robust<br>senior |  
-| bip_39_word_new_line1 | divert |  
-| bip_39_word_new_line10 | divert
+| bip_39_word_new_br_1 | divert |  
+| bip_39_word_new_br_10 | divert<br>carbon<br>bird<br>mad<br>paddle<br>fall<br>buffalo<br>robust<br>senior<br>elite |  
+| bip_39_word_new_br_11 | divert<br>carbon<br>bird<br>mad<br>paddle<br>fall<br>buffalo<br>robust<br>senior<br>elite<br>recipe |  
+| bip_39_word_new_br_12 | divert<br>carbon<br>bird<br>mad<br>paddle<br>fall<br>buffalo<br>robust<br>senior<br>elite<br>recipe<br>ability |  
+| bip_39_word_new_br_2 | divert<br>carbon |  
+| bip_39_word_new_br_3 | divert<br>carbon<br>bird |  
+| bip_39_word_new_br_4 | divert<br>carbon<br>bird<br>mad |  
+| bip_39_word_new_br_5 | divert<br>carbon<br>bird<br>mad<br>paddle |  
+| bip_39_word_new_br_6 | divert<br>carbon<br>bird<br>mad<br>paddle<br>fall |  
+| bip_39_word_new_br_7 | divert<br>carbon<br>bird<br>mad<br>paddle<br>fall<br>buffalo |  
+| bip_39_word_new_br_8 | divert<br>carbon<br>bird<br>mad<br>paddle<br>fall<br>buffalo<br>robust |  
+| bip_39_word_new_br_9 | divert<br>carbon<br>bird<br>mad<br>paddle<br>fall<br>buffalo<br>robust<br>senior |  
+| bip_39_word_new_line_1 | divert |  
+| bip_39_word_new_line_10 | divert
 carbon
 bird
 mad
@@ -55,7 +55,7 @@ buffalo
 robust
 senior
 elite |  
-| bip_39_word_new_line11 | divert
+| bip_39_word_new_line_11 | divert
 carbon
 bird
 mad
@@ -66,7 +66,7 @@ robust
 senior
 elite
 recipe |  
-| bip_39_word_new_line12 | divert
+| bip_39_word_new_line_12 | divert
 carbon
 bird
 mad
@@ -78,34 +78,34 @@ senior
 elite
 recipe
 ability |  
-| bip_39_word_new_line2 | divert
+| bip_39_word_new_line_2 | divert
 carbon |  
-| bip_39_word_new_line3 | divert
+| bip_39_word_new_line_3 | divert
 carbon
 bird |  
-| bip_39_word_new_line4 | divert
+| bip_39_word_new_line_4 | divert
 carbon
 bird
 mad |  
-| bip_39_word_new_line5 | divert
+| bip_39_word_new_line_5 | divert
 carbon
 bird
 mad
 paddle |  
-| bip_39_word_new_line6 | divert
+| bip_39_word_new_line_6 | divert
 carbon
 bird
 mad
 paddle
 fall |  
-| bip_39_word_new_line7 | divert
+| bip_39_word_new_line_7 | divert
 carbon
 bird
 mad
 paddle
 fall
 buffalo |  
-| bip_39_word_new_line8 | divert
+| bip_39_word_new_line_8 | divert
 carbon
 bird
 mad
@@ -113,7 +113,7 @@ paddle
 fall
 buffalo
 robust |  
-| bip_39_word_new_line9 | divert
+| bip_39_word_new_line_9 | divert
 carbon
 bird
 mad

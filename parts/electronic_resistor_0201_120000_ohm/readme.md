@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | glue |  
-| bip_39_word_new_br10 | glue<br>visa<br>frost<br>slice<br>nurse<br>broccoli<br>sing<br>cradle<br>park<br>index |  
-| bip_39_word_new_br11 | glue<br>visa<br>frost<br>slice<br>nurse<br>broccoli<br>sing<br>cradle<br>park<br>index<br>pudding |  
-| bip_39_word_new_br12 | glue<br>visa<br>frost<br>slice<br>nurse<br>broccoli<br>sing<br>cradle<br>park<br>index<br>pudding<br>admit |  
-| bip_39_word_new_br2 | glue<br>visa |  
-| bip_39_word_new_br3 | glue<br>visa<br>frost |  
-| bip_39_word_new_br4 | glue<br>visa<br>frost<br>slice |  
-| bip_39_word_new_br5 | glue<br>visa<br>frost<br>slice<br>nurse |  
-| bip_39_word_new_br6 | glue<br>visa<br>frost<br>slice<br>nurse<br>broccoli |  
-| bip_39_word_new_br7 | glue<br>visa<br>frost<br>slice<br>nurse<br>broccoli<br>sing |  
-| bip_39_word_new_br8 | glue<br>visa<br>frost<br>slice<br>nurse<br>broccoli<br>sing<br>cradle |  
-| bip_39_word_new_br9 | glue<br>visa<br>frost<br>slice<br>nurse<br>broccoli<br>sing<br>cradle<br>park |  
-| bip_39_word_new_line1 | glue |  
-| bip_39_word_new_line10 | glue
+| bip_39_word_new_br_1 | glue |  
+| bip_39_word_new_br_10 | glue<br>visa<br>frost<br>slice<br>nurse<br>broccoli<br>sing<br>cradle<br>park<br>index |  
+| bip_39_word_new_br_11 | glue<br>visa<br>frost<br>slice<br>nurse<br>broccoli<br>sing<br>cradle<br>park<br>index<br>pudding |  
+| bip_39_word_new_br_12 | glue<br>visa<br>frost<br>slice<br>nurse<br>broccoli<br>sing<br>cradle<br>park<br>index<br>pudding<br>admit |  
+| bip_39_word_new_br_2 | glue<br>visa |  
+| bip_39_word_new_br_3 | glue<br>visa<br>frost |  
+| bip_39_word_new_br_4 | glue<br>visa<br>frost<br>slice |  
+| bip_39_word_new_br_5 | glue<br>visa<br>frost<br>slice<br>nurse |  
+| bip_39_word_new_br_6 | glue<br>visa<br>frost<br>slice<br>nurse<br>broccoli |  
+| bip_39_word_new_br_7 | glue<br>visa<br>frost<br>slice<br>nurse<br>broccoli<br>sing |  
+| bip_39_word_new_br_8 | glue<br>visa<br>frost<br>slice<br>nurse<br>broccoli<br>sing<br>cradle |  
+| bip_39_word_new_br_9 | glue<br>visa<br>frost<br>slice<br>nurse<br>broccoli<br>sing<br>cradle<br>park |  
+| bip_39_word_new_line_1 | glue |  
+| bip_39_word_new_line_10 | glue
 visa
 frost
 slice
@@ -55,7 +55,7 @@ sing
 cradle
 park
 index |  
-| bip_39_word_new_line11 | glue
+| bip_39_word_new_line_11 | glue
 visa
 frost
 slice
@@ -66,7 +66,7 @@ cradle
 park
 index
 pudding |  
-| bip_39_word_new_line12 | glue
+| bip_39_word_new_line_12 | glue
 visa
 frost
 slice
@@ -78,34 +78,34 @@ park
 index
 pudding
 admit |  
-| bip_39_word_new_line2 | glue
+| bip_39_word_new_line_2 | glue
 visa |  
-| bip_39_word_new_line3 | glue
+| bip_39_word_new_line_3 | glue
 visa
 frost |  
-| bip_39_word_new_line4 | glue
+| bip_39_word_new_line_4 | glue
 visa
 frost
 slice |  
-| bip_39_word_new_line5 | glue
+| bip_39_word_new_line_5 | glue
 visa
 frost
 slice
 nurse |  
-| bip_39_word_new_line6 | glue
+| bip_39_word_new_line_6 | glue
 visa
 frost
 slice
 nurse
 broccoli |  
-| bip_39_word_new_line7 | glue
+| bip_39_word_new_line_7 | glue
 visa
 frost
 slice
 nurse
 broccoli
 sing |  
-| bip_39_word_new_line8 | glue
+| bip_39_word_new_line_8 | glue
 visa
 frost
 slice
@@ -113,7 +113,7 @@ nurse
 broccoli
 sing
 cradle |  
-| bip_39_word_new_line9 | glue
+| bip_39_word_new_line_9 | glue
 visa
 frost
 slice

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | vanish |  
-| bip_39_word_new_br10 | vanish<br>simple<br>comfort<br>afford<br>can<br>cloth<br>quality<br>moral<br>census<br>impact |  
-| bip_39_word_new_br11 | vanish<br>simple<br>comfort<br>afford<br>can<br>cloth<br>quality<br>moral<br>census<br>impact<br>mule |  
-| bip_39_word_new_br12 | vanish<br>simple<br>comfort<br>afford<br>can<br>cloth<br>quality<br>moral<br>census<br>impact<br>mule<br>arrow |  
-| bip_39_word_new_br2 | vanish<br>simple |  
-| bip_39_word_new_br3 | vanish<br>simple<br>comfort |  
-| bip_39_word_new_br4 | vanish<br>simple<br>comfort<br>afford |  
-| bip_39_word_new_br5 | vanish<br>simple<br>comfort<br>afford<br>can |  
-| bip_39_word_new_br6 | vanish<br>simple<br>comfort<br>afford<br>can<br>cloth |  
-| bip_39_word_new_br7 | vanish<br>simple<br>comfort<br>afford<br>can<br>cloth<br>quality |  
-| bip_39_word_new_br8 | vanish<br>simple<br>comfort<br>afford<br>can<br>cloth<br>quality<br>moral |  
-| bip_39_word_new_br9 | vanish<br>simple<br>comfort<br>afford<br>can<br>cloth<br>quality<br>moral<br>census |  
-| bip_39_word_new_line1 | vanish |  
-| bip_39_word_new_line10 | vanish
+| bip_39_word_new_br_1 | vanish |  
+| bip_39_word_new_br_10 | vanish<br>simple<br>comfort<br>afford<br>can<br>cloth<br>quality<br>moral<br>census<br>impact |  
+| bip_39_word_new_br_11 | vanish<br>simple<br>comfort<br>afford<br>can<br>cloth<br>quality<br>moral<br>census<br>impact<br>mule |  
+| bip_39_word_new_br_12 | vanish<br>simple<br>comfort<br>afford<br>can<br>cloth<br>quality<br>moral<br>census<br>impact<br>mule<br>arrow |  
+| bip_39_word_new_br_2 | vanish<br>simple |  
+| bip_39_word_new_br_3 | vanish<br>simple<br>comfort |  
+| bip_39_word_new_br_4 | vanish<br>simple<br>comfort<br>afford |  
+| bip_39_word_new_br_5 | vanish<br>simple<br>comfort<br>afford<br>can |  
+| bip_39_word_new_br_6 | vanish<br>simple<br>comfort<br>afford<br>can<br>cloth |  
+| bip_39_word_new_br_7 | vanish<br>simple<br>comfort<br>afford<br>can<br>cloth<br>quality |  
+| bip_39_word_new_br_8 | vanish<br>simple<br>comfort<br>afford<br>can<br>cloth<br>quality<br>moral |  
+| bip_39_word_new_br_9 | vanish<br>simple<br>comfort<br>afford<br>can<br>cloth<br>quality<br>moral<br>census |  
+| bip_39_word_new_line_1 | vanish |  
+| bip_39_word_new_line_10 | vanish
 simple
 comfort
 afford
@@ -55,7 +55,7 @@ quality
 moral
 census
 impact |  
-| bip_39_word_new_line11 | vanish
+| bip_39_word_new_line_11 | vanish
 simple
 comfort
 afford
@@ -66,7 +66,7 @@ moral
 census
 impact
 mule |  
-| bip_39_word_new_line12 | vanish
+| bip_39_word_new_line_12 | vanish
 simple
 comfort
 afford
@@ -78,34 +78,34 @@ census
 impact
 mule
 arrow |  
-| bip_39_word_new_line2 | vanish
+| bip_39_word_new_line_2 | vanish
 simple |  
-| bip_39_word_new_line3 | vanish
+| bip_39_word_new_line_3 | vanish
 simple
 comfort |  
-| bip_39_word_new_line4 | vanish
+| bip_39_word_new_line_4 | vanish
 simple
 comfort
 afford |  
-| bip_39_word_new_line5 | vanish
+| bip_39_word_new_line_5 | vanish
 simple
 comfort
 afford
 can |  
-| bip_39_word_new_line6 | vanish
+| bip_39_word_new_line_6 | vanish
 simple
 comfort
 afford
 can
 cloth |  
-| bip_39_word_new_line7 | vanish
+| bip_39_word_new_line_7 | vanish
 simple
 comfort
 afford
 can
 cloth
 quality |  
-| bip_39_word_new_line8 | vanish
+| bip_39_word_new_line_8 | vanish
 simple
 comfort
 afford
@@ -113,7 +113,7 @@ can
 cloth
 quality
 moral |  
-| bip_39_word_new_line9 | vanish
+| bip_39_word_new_line_9 | vanish
 simple
 comfort
 afford

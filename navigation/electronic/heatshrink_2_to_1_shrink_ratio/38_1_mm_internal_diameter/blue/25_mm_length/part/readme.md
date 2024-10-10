@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | borrow |  
-| bip_39_word_new_br10 | borrow<br>alter<br>swear<br>exhibit<br>orchard<br>ostrich<br>luggage<br>ceiling<br>valve<br>depth |  
-| bip_39_word_new_br11 | borrow<br>alter<br>swear<br>exhibit<br>orchard<br>ostrich<br>luggage<br>ceiling<br>valve<br>depth<br>isolate |  
-| bip_39_word_new_br12 | borrow<br>alter<br>swear<br>exhibit<br>orchard<br>ostrich<br>luggage<br>ceiling<br>valve<br>depth<br>isolate<br>alien |  
-| bip_39_word_new_br2 | borrow<br>alter |  
-| bip_39_word_new_br3 | borrow<br>alter<br>swear |  
-| bip_39_word_new_br4 | borrow<br>alter<br>swear<br>exhibit |  
-| bip_39_word_new_br5 | borrow<br>alter<br>swear<br>exhibit<br>orchard |  
-| bip_39_word_new_br6 | borrow<br>alter<br>swear<br>exhibit<br>orchard<br>ostrich |  
-| bip_39_word_new_br7 | borrow<br>alter<br>swear<br>exhibit<br>orchard<br>ostrich<br>luggage |  
-| bip_39_word_new_br8 | borrow<br>alter<br>swear<br>exhibit<br>orchard<br>ostrich<br>luggage<br>ceiling |  
-| bip_39_word_new_br9 | borrow<br>alter<br>swear<br>exhibit<br>orchard<br>ostrich<br>luggage<br>ceiling<br>valve |  
-| bip_39_word_new_line1 | borrow |  
-| bip_39_word_new_line10 | borrow
+| bip_39_word_new_br_1 | borrow |  
+| bip_39_word_new_br_10 | borrow<br>alter<br>swear<br>exhibit<br>orchard<br>ostrich<br>luggage<br>ceiling<br>valve<br>depth |  
+| bip_39_word_new_br_11 | borrow<br>alter<br>swear<br>exhibit<br>orchard<br>ostrich<br>luggage<br>ceiling<br>valve<br>depth<br>isolate |  
+| bip_39_word_new_br_12 | borrow<br>alter<br>swear<br>exhibit<br>orchard<br>ostrich<br>luggage<br>ceiling<br>valve<br>depth<br>isolate<br>alien |  
+| bip_39_word_new_br_2 | borrow<br>alter |  
+| bip_39_word_new_br_3 | borrow<br>alter<br>swear |  
+| bip_39_word_new_br_4 | borrow<br>alter<br>swear<br>exhibit |  
+| bip_39_word_new_br_5 | borrow<br>alter<br>swear<br>exhibit<br>orchard |  
+| bip_39_word_new_br_6 | borrow<br>alter<br>swear<br>exhibit<br>orchard<br>ostrich |  
+| bip_39_word_new_br_7 | borrow<br>alter<br>swear<br>exhibit<br>orchard<br>ostrich<br>luggage |  
+| bip_39_word_new_br_8 | borrow<br>alter<br>swear<br>exhibit<br>orchard<br>ostrich<br>luggage<br>ceiling |  
+| bip_39_word_new_br_9 | borrow<br>alter<br>swear<br>exhibit<br>orchard<br>ostrich<br>luggage<br>ceiling<br>valve |  
+| bip_39_word_new_line_1 | borrow |  
+| bip_39_word_new_line_10 | borrow
 alter
 swear
 exhibit
@@ -55,7 +55,7 @@ luggage
 ceiling
 valve
 depth |  
-| bip_39_word_new_line11 | borrow
+| bip_39_word_new_line_11 | borrow
 alter
 swear
 exhibit
@@ -66,7 +66,7 @@ ceiling
 valve
 depth
 isolate |  
-| bip_39_word_new_line12 | borrow
+| bip_39_word_new_line_12 | borrow
 alter
 swear
 exhibit
@@ -78,34 +78,34 @@ valve
 depth
 isolate
 alien |  
-| bip_39_word_new_line2 | borrow
+| bip_39_word_new_line_2 | borrow
 alter |  
-| bip_39_word_new_line3 | borrow
+| bip_39_word_new_line_3 | borrow
 alter
 swear |  
-| bip_39_word_new_line4 | borrow
+| bip_39_word_new_line_4 | borrow
 alter
 swear
 exhibit |  
-| bip_39_word_new_line5 | borrow
+| bip_39_word_new_line_5 | borrow
 alter
 swear
 exhibit
 orchard |  
-| bip_39_word_new_line6 | borrow
+| bip_39_word_new_line_6 | borrow
 alter
 swear
 exhibit
 orchard
 ostrich |  
-| bip_39_word_new_line7 | borrow
+| bip_39_word_new_line_7 | borrow
 alter
 swear
 exhibit
 orchard
 ostrich
 luggage |  
-| bip_39_word_new_line8 | borrow
+| bip_39_word_new_line_8 | borrow
 alter
 swear
 exhibit
@@ -113,7 +113,7 @@ orchard
 ostrich
 luggage
 ceiling |  
-| bip_39_word_new_line9 | borrow
+| bip_39_word_new_line_9 | borrow
 alter
 swear
 exhibit

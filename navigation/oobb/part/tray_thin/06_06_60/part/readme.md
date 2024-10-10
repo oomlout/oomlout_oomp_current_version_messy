@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | include |  
-| bip_39_word_new_br10 | include<br>manual<br>daring<br>banana<br>mercy<br>lizard<br>pupil<br>ugly<br>enough<br>unfair |  
-| bip_39_word_new_br11 | include<br>manual<br>daring<br>banana<br>mercy<br>lizard<br>pupil<br>ugly<br>enough<br>unfair<br>predict |  
-| bip_39_word_new_br12 | include<br>manual<br>daring<br>banana<br>mercy<br>lizard<br>pupil<br>ugly<br>enough<br>unfair<br>predict<br>army |  
-| bip_39_word_new_br2 | include<br>manual |  
-| bip_39_word_new_br3 | include<br>manual<br>daring |  
-| bip_39_word_new_br4 | include<br>manual<br>daring<br>banana |  
-| bip_39_word_new_br5 | include<br>manual<br>daring<br>banana<br>mercy |  
-| bip_39_word_new_br6 | include<br>manual<br>daring<br>banana<br>mercy<br>lizard |  
-| bip_39_word_new_br7 | include<br>manual<br>daring<br>banana<br>mercy<br>lizard<br>pupil |  
-| bip_39_word_new_br8 | include<br>manual<br>daring<br>banana<br>mercy<br>lizard<br>pupil<br>ugly |  
-| bip_39_word_new_br9 | include<br>manual<br>daring<br>banana<br>mercy<br>lizard<br>pupil<br>ugly<br>enough |  
-| bip_39_word_new_line1 | include |  
-| bip_39_word_new_line10 | include
+| bip_39_word_new_br_1 | include |  
+| bip_39_word_new_br_10 | include<br>manual<br>daring<br>banana<br>mercy<br>lizard<br>pupil<br>ugly<br>enough<br>unfair |  
+| bip_39_word_new_br_11 | include<br>manual<br>daring<br>banana<br>mercy<br>lizard<br>pupil<br>ugly<br>enough<br>unfair<br>predict |  
+| bip_39_word_new_br_12 | include<br>manual<br>daring<br>banana<br>mercy<br>lizard<br>pupil<br>ugly<br>enough<br>unfair<br>predict<br>army |  
+| bip_39_word_new_br_2 | include<br>manual |  
+| bip_39_word_new_br_3 | include<br>manual<br>daring |  
+| bip_39_word_new_br_4 | include<br>manual<br>daring<br>banana |  
+| bip_39_word_new_br_5 | include<br>manual<br>daring<br>banana<br>mercy |  
+| bip_39_word_new_br_6 | include<br>manual<br>daring<br>banana<br>mercy<br>lizard |  
+| bip_39_word_new_br_7 | include<br>manual<br>daring<br>banana<br>mercy<br>lizard<br>pupil |  
+| bip_39_word_new_br_8 | include<br>manual<br>daring<br>banana<br>mercy<br>lizard<br>pupil<br>ugly |  
+| bip_39_word_new_br_9 | include<br>manual<br>daring<br>banana<br>mercy<br>lizard<br>pupil<br>ugly<br>enough |  
+| bip_39_word_new_line_1 | include |  
+| bip_39_word_new_line_10 | include
 manual
 daring
 banana
@@ -55,7 +55,7 @@ pupil
 ugly
 enough
 unfair |  
-| bip_39_word_new_line11 | include
+| bip_39_word_new_line_11 | include
 manual
 daring
 banana
@@ -66,7 +66,7 @@ ugly
 enough
 unfair
 predict |  
-| bip_39_word_new_line12 | include
+| bip_39_word_new_line_12 | include
 manual
 daring
 banana
@@ -78,34 +78,34 @@ enough
 unfair
 predict
 army |  
-| bip_39_word_new_line2 | include
+| bip_39_word_new_line_2 | include
 manual |  
-| bip_39_word_new_line3 | include
+| bip_39_word_new_line_3 | include
 manual
 daring |  
-| bip_39_word_new_line4 | include
+| bip_39_word_new_line_4 | include
 manual
 daring
 banana |  
-| bip_39_word_new_line5 | include
+| bip_39_word_new_line_5 | include
 manual
 daring
 banana
 mercy |  
-| bip_39_word_new_line6 | include
+| bip_39_word_new_line_6 | include
 manual
 daring
 banana
 mercy
 lizard |  
-| bip_39_word_new_line7 | include
+| bip_39_word_new_line_7 | include
 manual
 daring
 banana
 mercy
 lizard
 pupil |  
-| bip_39_word_new_line8 | include
+| bip_39_word_new_line_8 | include
 manual
 daring
 banana
@@ -113,7 +113,7 @@ mercy
 lizard
 pupil
 ugly |  
-| bip_39_word_new_line9 | include
+| bip_39_word_new_line_9 | include
 manual
 daring
 banana

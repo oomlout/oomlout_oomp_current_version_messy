@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sure |  
-| bip_39_word_new_br10 | sure<br>cause<br>tiny<br>false<br>glass<br>permit<br>occur<br>candy<br>boss<br>soft |  
-| bip_39_word_new_br11 | sure<br>cause<br>tiny<br>false<br>glass<br>permit<br>occur<br>candy<br>boss<br>soft<br>around |  
-| bip_39_word_new_br12 | sure<br>cause<br>tiny<br>false<br>glass<br>permit<br>occur<br>candy<br>boss<br>soft<br>around<br>animal |  
-| bip_39_word_new_br2 | sure<br>cause |  
-| bip_39_word_new_br3 | sure<br>cause<br>tiny |  
-| bip_39_word_new_br4 | sure<br>cause<br>tiny<br>false |  
-| bip_39_word_new_br5 | sure<br>cause<br>tiny<br>false<br>glass |  
-| bip_39_word_new_br6 | sure<br>cause<br>tiny<br>false<br>glass<br>permit |  
-| bip_39_word_new_br7 | sure<br>cause<br>tiny<br>false<br>glass<br>permit<br>occur |  
-| bip_39_word_new_br8 | sure<br>cause<br>tiny<br>false<br>glass<br>permit<br>occur<br>candy |  
-| bip_39_word_new_br9 | sure<br>cause<br>tiny<br>false<br>glass<br>permit<br>occur<br>candy<br>boss |  
-| bip_39_word_new_line1 | sure |  
-| bip_39_word_new_line10 | sure
+| bip_39_word_new_br_1 | sure |  
+| bip_39_word_new_br_10 | sure<br>cause<br>tiny<br>false<br>glass<br>permit<br>occur<br>candy<br>boss<br>soft |  
+| bip_39_word_new_br_11 | sure<br>cause<br>tiny<br>false<br>glass<br>permit<br>occur<br>candy<br>boss<br>soft<br>around |  
+| bip_39_word_new_br_12 | sure<br>cause<br>tiny<br>false<br>glass<br>permit<br>occur<br>candy<br>boss<br>soft<br>around<br>animal |  
+| bip_39_word_new_br_2 | sure<br>cause |  
+| bip_39_word_new_br_3 | sure<br>cause<br>tiny |  
+| bip_39_word_new_br_4 | sure<br>cause<br>tiny<br>false |  
+| bip_39_word_new_br_5 | sure<br>cause<br>tiny<br>false<br>glass |  
+| bip_39_word_new_br_6 | sure<br>cause<br>tiny<br>false<br>glass<br>permit |  
+| bip_39_word_new_br_7 | sure<br>cause<br>tiny<br>false<br>glass<br>permit<br>occur |  
+| bip_39_word_new_br_8 | sure<br>cause<br>tiny<br>false<br>glass<br>permit<br>occur<br>candy |  
+| bip_39_word_new_br_9 | sure<br>cause<br>tiny<br>false<br>glass<br>permit<br>occur<br>candy<br>boss |  
+| bip_39_word_new_line_1 | sure |  
+| bip_39_word_new_line_10 | sure
 cause
 tiny
 false
@@ -55,7 +55,7 @@ occur
 candy
 boss
 soft |  
-| bip_39_word_new_line11 | sure
+| bip_39_word_new_line_11 | sure
 cause
 tiny
 false
@@ -66,7 +66,7 @@ candy
 boss
 soft
 around |  
-| bip_39_word_new_line12 | sure
+| bip_39_word_new_line_12 | sure
 cause
 tiny
 false
@@ -78,34 +78,34 @@ boss
 soft
 around
 animal |  
-| bip_39_word_new_line2 | sure
+| bip_39_word_new_line_2 | sure
 cause |  
-| bip_39_word_new_line3 | sure
+| bip_39_word_new_line_3 | sure
 cause
 tiny |  
-| bip_39_word_new_line4 | sure
+| bip_39_word_new_line_4 | sure
 cause
 tiny
 false |  
-| bip_39_word_new_line5 | sure
+| bip_39_word_new_line_5 | sure
 cause
 tiny
 false
 glass |  
-| bip_39_word_new_line6 | sure
+| bip_39_word_new_line_6 | sure
 cause
 tiny
 false
 glass
 permit |  
-| bip_39_word_new_line7 | sure
+| bip_39_word_new_line_7 | sure
 cause
 tiny
 false
 glass
 permit
 occur |  
-| bip_39_word_new_line8 | sure
+| bip_39_word_new_line_8 | sure
 cause
 tiny
 false
@@ -113,7 +113,7 @@ glass
 permit
 occur
 candy |  
-| bip_39_word_new_line9 | sure
+| bip_39_word_new_line_9 | sure
 cause
 tiny
 false

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | silk |  
-| bip_39_word_new_br10 | silk<br>author<br>guard<br>onion<br>minor<br>chest<br>industry<br>crime<br>banana<br>stumble |  
-| bip_39_word_new_br11 | silk<br>author<br>guard<br>onion<br>minor<br>chest<br>industry<br>crime<br>banana<br>stumble<br>peasant |  
-| bip_39_word_new_br12 | silk<br>author<br>guard<br>onion<br>minor<br>chest<br>industry<br>crime<br>banana<br>stumble<br>peasant<br>alpha |  
-| bip_39_word_new_br2 | silk<br>author |  
-| bip_39_word_new_br3 | silk<br>author<br>guard |  
-| bip_39_word_new_br4 | silk<br>author<br>guard<br>onion |  
-| bip_39_word_new_br5 | silk<br>author<br>guard<br>onion<br>minor |  
-| bip_39_word_new_br6 | silk<br>author<br>guard<br>onion<br>minor<br>chest |  
-| bip_39_word_new_br7 | silk<br>author<br>guard<br>onion<br>minor<br>chest<br>industry |  
-| bip_39_word_new_br8 | silk<br>author<br>guard<br>onion<br>minor<br>chest<br>industry<br>crime |  
-| bip_39_word_new_br9 | silk<br>author<br>guard<br>onion<br>minor<br>chest<br>industry<br>crime<br>banana |  
-| bip_39_word_new_line1 | silk |  
-| bip_39_word_new_line10 | silk
+| bip_39_word_new_br_1 | silk |  
+| bip_39_word_new_br_10 | silk<br>author<br>guard<br>onion<br>minor<br>chest<br>industry<br>crime<br>banana<br>stumble |  
+| bip_39_word_new_br_11 | silk<br>author<br>guard<br>onion<br>minor<br>chest<br>industry<br>crime<br>banana<br>stumble<br>peasant |  
+| bip_39_word_new_br_12 | silk<br>author<br>guard<br>onion<br>minor<br>chest<br>industry<br>crime<br>banana<br>stumble<br>peasant<br>alpha |  
+| bip_39_word_new_br_2 | silk<br>author |  
+| bip_39_word_new_br_3 | silk<br>author<br>guard |  
+| bip_39_word_new_br_4 | silk<br>author<br>guard<br>onion |  
+| bip_39_word_new_br_5 | silk<br>author<br>guard<br>onion<br>minor |  
+| bip_39_word_new_br_6 | silk<br>author<br>guard<br>onion<br>minor<br>chest |  
+| bip_39_word_new_br_7 | silk<br>author<br>guard<br>onion<br>minor<br>chest<br>industry |  
+| bip_39_word_new_br_8 | silk<br>author<br>guard<br>onion<br>minor<br>chest<br>industry<br>crime |  
+| bip_39_word_new_br_9 | silk<br>author<br>guard<br>onion<br>minor<br>chest<br>industry<br>crime<br>banana |  
+| bip_39_word_new_line_1 | silk |  
+| bip_39_word_new_line_10 | silk
 author
 guard
 onion
@@ -55,7 +55,7 @@ industry
 crime
 banana
 stumble |  
-| bip_39_word_new_line11 | silk
+| bip_39_word_new_line_11 | silk
 author
 guard
 onion
@@ -66,7 +66,7 @@ crime
 banana
 stumble
 peasant |  
-| bip_39_word_new_line12 | silk
+| bip_39_word_new_line_12 | silk
 author
 guard
 onion
@@ -78,34 +78,34 @@ banana
 stumble
 peasant
 alpha |  
-| bip_39_word_new_line2 | silk
+| bip_39_word_new_line_2 | silk
 author |  
-| bip_39_word_new_line3 | silk
+| bip_39_word_new_line_3 | silk
 author
 guard |  
-| bip_39_word_new_line4 | silk
+| bip_39_word_new_line_4 | silk
 author
 guard
 onion |  
-| bip_39_word_new_line5 | silk
+| bip_39_word_new_line_5 | silk
 author
 guard
 onion
 minor |  
-| bip_39_word_new_line6 | silk
+| bip_39_word_new_line_6 | silk
 author
 guard
 onion
 minor
 chest |  
-| bip_39_word_new_line7 | silk
+| bip_39_word_new_line_7 | silk
 author
 guard
 onion
 minor
 chest
 industry |  
-| bip_39_word_new_line8 | silk
+| bip_39_word_new_line_8 | silk
 author
 guard
 onion
@@ -113,7 +113,7 @@ minor
 chest
 industry
 crime |  
-| bip_39_word_new_line9 | silk
+| bip_39_word_new_line_9 | silk
 author
 guard
 onion

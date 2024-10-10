@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | old |  
-| bip_39_word_new_br10 | old<br>fringe<br>derive<br>glove<br>poverty<br>radio<br>ripple<br>two<br>choose<br>judge |  
-| bip_39_word_new_br11 | old<br>fringe<br>derive<br>glove<br>poverty<br>radio<br>ripple<br>two<br>choose<br>judge<br>theme |  
-| bip_39_word_new_br12 | old<br>fringe<br>derive<br>glove<br>poverty<br>radio<br>ripple<br>two<br>choose<br>judge<br>theme<br>auction |  
-| bip_39_word_new_br2 | old<br>fringe |  
-| bip_39_word_new_br3 | old<br>fringe<br>derive |  
-| bip_39_word_new_br4 | old<br>fringe<br>derive<br>glove |  
-| bip_39_word_new_br5 | old<br>fringe<br>derive<br>glove<br>poverty |  
-| bip_39_word_new_br6 | old<br>fringe<br>derive<br>glove<br>poverty<br>radio |  
-| bip_39_word_new_br7 | old<br>fringe<br>derive<br>glove<br>poverty<br>radio<br>ripple |  
-| bip_39_word_new_br8 | old<br>fringe<br>derive<br>glove<br>poverty<br>radio<br>ripple<br>two |  
-| bip_39_word_new_br9 | old<br>fringe<br>derive<br>glove<br>poverty<br>radio<br>ripple<br>two<br>choose |  
-| bip_39_word_new_line1 | old |  
-| bip_39_word_new_line10 | old
+| bip_39_word_new_br_1 | old |  
+| bip_39_word_new_br_10 | old<br>fringe<br>derive<br>glove<br>poverty<br>radio<br>ripple<br>two<br>choose<br>judge |  
+| bip_39_word_new_br_11 | old<br>fringe<br>derive<br>glove<br>poverty<br>radio<br>ripple<br>two<br>choose<br>judge<br>theme |  
+| bip_39_word_new_br_12 | old<br>fringe<br>derive<br>glove<br>poverty<br>radio<br>ripple<br>two<br>choose<br>judge<br>theme<br>auction |  
+| bip_39_word_new_br_2 | old<br>fringe |  
+| bip_39_word_new_br_3 | old<br>fringe<br>derive |  
+| bip_39_word_new_br_4 | old<br>fringe<br>derive<br>glove |  
+| bip_39_word_new_br_5 | old<br>fringe<br>derive<br>glove<br>poverty |  
+| bip_39_word_new_br_6 | old<br>fringe<br>derive<br>glove<br>poverty<br>radio |  
+| bip_39_word_new_br_7 | old<br>fringe<br>derive<br>glove<br>poverty<br>radio<br>ripple |  
+| bip_39_word_new_br_8 | old<br>fringe<br>derive<br>glove<br>poverty<br>radio<br>ripple<br>two |  
+| bip_39_word_new_br_9 | old<br>fringe<br>derive<br>glove<br>poverty<br>radio<br>ripple<br>two<br>choose |  
+| bip_39_word_new_line_1 | old |  
+| bip_39_word_new_line_10 | old
 fringe
 derive
 glove
@@ -55,7 +55,7 @@ ripple
 two
 choose
 judge |  
-| bip_39_word_new_line11 | old
+| bip_39_word_new_line_11 | old
 fringe
 derive
 glove
@@ -66,7 +66,7 @@ two
 choose
 judge
 theme |  
-| bip_39_word_new_line12 | old
+| bip_39_word_new_line_12 | old
 fringe
 derive
 glove
@@ -78,34 +78,34 @@ choose
 judge
 theme
 auction |  
-| bip_39_word_new_line2 | old
+| bip_39_word_new_line_2 | old
 fringe |  
-| bip_39_word_new_line3 | old
+| bip_39_word_new_line_3 | old
 fringe
 derive |  
-| bip_39_word_new_line4 | old
+| bip_39_word_new_line_4 | old
 fringe
 derive
 glove |  
-| bip_39_word_new_line5 | old
+| bip_39_word_new_line_5 | old
 fringe
 derive
 glove
 poverty |  
-| bip_39_word_new_line6 | old
+| bip_39_word_new_line_6 | old
 fringe
 derive
 glove
 poverty
 radio |  
-| bip_39_word_new_line7 | old
+| bip_39_word_new_line_7 | old
 fringe
 derive
 glove
 poverty
 radio
 ripple |  
-| bip_39_word_new_line8 | old
+| bip_39_word_new_line_8 | old
 fringe
 derive
 glove
@@ -113,7 +113,7 @@ poverty
 radio
 ripple
 two |  
-| bip_39_word_new_line9 | old
+| bip_39_word_new_line_9 | old
 fringe
 derive
 glove

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | load |  
-| bip_39_word_new_br10 | load<br>anchor<br>inhale<br>like<br>material<br>breeze<br>lunch<br>match<br>erase<br>warrior |  
-| bip_39_word_new_br11 | load<br>anchor<br>inhale<br>like<br>material<br>breeze<br>lunch<br>match<br>erase<br>warrior<br>wool |  
-| bip_39_word_new_br12 | load<br>anchor<br>inhale<br>like<br>material<br>breeze<br>lunch<br>match<br>erase<br>warrior<br>wool<br>acid |  
-| bip_39_word_new_br2 | load<br>anchor |  
-| bip_39_word_new_br3 | load<br>anchor<br>inhale |  
-| bip_39_word_new_br4 | load<br>anchor<br>inhale<br>like |  
-| bip_39_word_new_br5 | load<br>anchor<br>inhale<br>like<br>material |  
-| bip_39_word_new_br6 | load<br>anchor<br>inhale<br>like<br>material<br>breeze |  
-| bip_39_word_new_br7 | load<br>anchor<br>inhale<br>like<br>material<br>breeze<br>lunch |  
-| bip_39_word_new_br8 | load<br>anchor<br>inhale<br>like<br>material<br>breeze<br>lunch<br>match |  
-| bip_39_word_new_br9 | load<br>anchor<br>inhale<br>like<br>material<br>breeze<br>lunch<br>match<br>erase |  
-| bip_39_word_new_line1 | load |  
-| bip_39_word_new_line10 | load
+| bip_39_word_new_br_1 | load |  
+| bip_39_word_new_br_10 | load<br>anchor<br>inhale<br>like<br>material<br>breeze<br>lunch<br>match<br>erase<br>warrior |  
+| bip_39_word_new_br_11 | load<br>anchor<br>inhale<br>like<br>material<br>breeze<br>lunch<br>match<br>erase<br>warrior<br>wool |  
+| bip_39_word_new_br_12 | load<br>anchor<br>inhale<br>like<br>material<br>breeze<br>lunch<br>match<br>erase<br>warrior<br>wool<br>acid |  
+| bip_39_word_new_br_2 | load<br>anchor |  
+| bip_39_word_new_br_3 | load<br>anchor<br>inhale |  
+| bip_39_word_new_br_4 | load<br>anchor<br>inhale<br>like |  
+| bip_39_word_new_br_5 | load<br>anchor<br>inhale<br>like<br>material |  
+| bip_39_word_new_br_6 | load<br>anchor<br>inhale<br>like<br>material<br>breeze |  
+| bip_39_word_new_br_7 | load<br>anchor<br>inhale<br>like<br>material<br>breeze<br>lunch |  
+| bip_39_word_new_br_8 | load<br>anchor<br>inhale<br>like<br>material<br>breeze<br>lunch<br>match |  
+| bip_39_word_new_br_9 | load<br>anchor<br>inhale<br>like<br>material<br>breeze<br>lunch<br>match<br>erase |  
+| bip_39_word_new_line_1 | load |  
+| bip_39_word_new_line_10 | load
 anchor
 inhale
 like
@@ -55,7 +55,7 @@ lunch
 match
 erase
 warrior |  
-| bip_39_word_new_line11 | load
+| bip_39_word_new_line_11 | load
 anchor
 inhale
 like
@@ -66,7 +66,7 @@ match
 erase
 warrior
 wool |  
-| bip_39_word_new_line12 | load
+| bip_39_word_new_line_12 | load
 anchor
 inhale
 like
@@ -78,34 +78,34 @@ erase
 warrior
 wool
 acid |  
-| bip_39_word_new_line2 | load
+| bip_39_word_new_line_2 | load
 anchor |  
-| bip_39_word_new_line3 | load
+| bip_39_word_new_line_3 | load
 anchor
 inhale |  
-| bip_39_word_new_line4 | load
+| bip_39_word_new_line_4 | load
 anchor
 inhale
 like |  
-| bip_39_word_new_line5 | load
+| bip_39_word_new_line_5 | load
 anchor
 inhale
 like
 material |  
-| bip_39_word_new_line6 | load
+| bip_39_word_new_line_6 | load
 anchor
 inhale
 like
 material
 breeze |  
-| bip_39_word_new_line7 | load
+| bip_39_word_new_line_7 | load
 anchor
 inhale
 like
 material
 breeze
 lunch |  
-| bip_39_word_new_line8 | load
+| bip_39_word_new_line_8 | load
 anchor
 inhale
 like
@@ -113,7 +113,7 @@ material
 breeze
 lunch
 match |  
-| bip_39_word_new_line9 | load
+| bip_39_word_new_line_9 | load
 anchor
 inhale
 like

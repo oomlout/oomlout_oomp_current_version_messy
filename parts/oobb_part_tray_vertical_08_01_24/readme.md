@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | six |  
-| bip_39_word_new_br10 | six<br>ensure<br>oblige<br>wood<br>mandate<br>what<br>degree<br>cream<br>retreat<br>armed |  
-| bip_39_word_new_br11 | six<br>ensure<br>oblige<br>wood<br>mandate<br>what<br>degree<br>cream<br>retreat<br>armed<br>ivory |  
-| bip_39_word_new_br12 | six<br>ensure<br>oblige<br>wood<br>mandate<br>what<br>degree<br>cream<br>retreat<br>armed<br>ivory<br>achieve |  
-| bip_39_word_new_br2 | six<br>ensure |  
-| bip_39_word_new_br3 | six<br>ensure<br>oblige |  
-| bip_39_word_new_br4 | six<br>ensure<br>oblige<br>wood |  
-| bip_39_word_new_br5 | six<br>ensure<br>oblige<br>wood<br>mandate |  
-| bip_39_word_new_br6 | six<br>ensure<br>oblige<br>wood<br>mandate<br>what |  
-| bip_39_word_new_br7 | six<br>ensure<br>oblige<br>wood<br>mandate<br>what<br>degree |  
-| bip_39_word_new_br8 | six<br>ensure<br>oblige<br>wood<br>mandate<br>what<br>degree<br>cream |  
-| bip_39_word_new_br9 | six<br>ensure<br>oblige<br>wood<br>mandate<br>what<br>degree<br>cream<br>retreat |  
-| bip_39_word_new_line1 | six |  
-| bip_39_word_new_line10 | six
+| bip_39_word_new_br_1 | six |  
+| bip_39_word_new_br_10 | six<br>ensure<br>oblige<br>wood<br>mandate<br>what<br>degree<br>cream<br>retreat<br>armed |  
+| bip_39_word_new_br_11 | six<br>ensure<br>oblige<br>wood<br>mandate<br>what<br>degree<br>cream<br>retreat<br>armed<br>ivory |  
+| bip_39_word_new_br_12 | six<br>ensure<br>oblige<br>wood<br>mandate<br>what<br>degree<br>cream<br>retreat<br>armed<br>ivory<br>achieve |  
+| bip_39_word_new_br_2 | six<br>ensure |  
+| bip_39_word_new_br_3 | six<br>ensure<br>oblige |  
+| bip_39_word_new_br_4 | six<br>ensure<br>oblige<br>wood |  
+| bip_39_word_new_br_5 | six<br>ensure<br>oblige<br>wood<br>mandate |  
+| bip_39_word_new_br_6 | six<br>ensure<br>oblige<br>wood<br>mandate<br>what |  
+| bip_39_word_new_br_7 | six<br>ensure<br>oblige<br>wood<br>mandate<br>what<br>degree |  
+| bip_39_word_new_br_8 | six<br>ensure<br>oblige<br>wood<br>mandate<br>what<br>degree<br>cream |  
+| bip_39_word_new_br_9 | six<br>ensure<br>oblige<br>wood<br>mandate<br>what<br>degree<br>cream<br>retreat |  
+| bip_39_word_new_line_1 | six |  
+| bip_39_word_new_line_10 | six
 ensure
 oblige
 wood
@@ -55,7 +55,7 @@ degree
 cream
 retreat
 armed |  
-| bip_39_word_new_line11 | six
+| bip_39_word_new_line_11 | six
 ensure
 oblige
 wood
@@ -66,7 +66,7 @@ cream
 retreat
 armed
 ivory |  
-| bip_39_word_new_line12 | six
+| bip_39_word_new_line_12 | six
 ensure
 oblige
 wood
@@ -78,34 +78,34 @@ retreat
 armed
 ivory
 achieve |  
-| bip_39_word_new_line2 | six
+| bip_39_word_new_line_2 | six
 ensure |  
-| bip_39_word_new_line3 | six
+| bip_39_word_new_line_3 | six
 ensure
 oblige |  
-| bip_39_word_new_line4 | six
+| bip_39_word_new_line_4 | six
 ensure
 oblige
 wood |  
-| bip_39_word_new_line5 | six
+| bip_39_word_new_line_5 | six
 ensure
 oblige
 wood
 mandate |  
-| bip_39_word_new_line6 | six
+| bip_39_word_new_line_6 | six
 ensure
 oblige
 wood
 mandate
 what |  
-| bip_39_word_new_line7 | six
+| bip_39_word_new_line_7 | six
 ensure
 oblige
 wood
 mandate
 what
 degree |  
-| bip_39_word_new_line8 | six
+| bip_39_word_new_line_8 | six
 ensure
 oblige
 wood
@@ -113,7 +113,7 @@ mandate
 what
 degree
 cream |  
-| bip_39_word_new_line9 | six
+| bip_39_word_new_line_9 | six
 ensure
 oblige
 wood

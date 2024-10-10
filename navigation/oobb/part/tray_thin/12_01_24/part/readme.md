@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ritual |  
-| bip_39_word_new_br10 | ritual<br>giraffe<br>raw<br>range<br>shoot<br>rib<br>romance<br>over<br>knee<br>gloom |  
-| bip_39_word_new_br11 | ritual<br>giraffe<br>raw<br>range<br>shoot<br>rib<br>romance<br>over<br>knee<br>gloom<br>grocery |  
-| bip_39_word_new_br12 | ritual<br>giraffe<br>raw<br>range<br>shoot<br>rib<br>romance<br>over<br>knee<br>gloom<br>grocery<br>actual |  
-| bip_39_word_new_br2 | ritual<br>giraffe |  
-| bip_39_word_new_br3 | ritual<br>giraffe<br>raw |  
-| bip_39_word_new_br4 | ritual<br>giraffe<br>raw<br>range |  
-| bip_39_word_new_br5 | ritual<br>giraffe<br>raw<br>range<br>shoot |  
-| bip_39_word_new_br6 | ritual<br>giraffe<br>raw<br>range<br>shoot<br>rib |  
-| bip_39_word_new_br7 | ritual<br>giraffe<br>raw<br>range<br>shoot<br>rib<br>romance |  
-| bip_39_word_new_br8 | ritual<br>giraffe<br>raw<br>range<br>shoot<br>rib<br>romance<br>over |  
-| bip_39_word_new_br9 | ritual<br>giraffe<br>raw<br>range<br>shoot<br>rib<br>romance<br>over<br>knee |  
-| bip_39_word_new_line1 | ritual |  
-| bip_39_word_new_line10 | ritual
+| bip_39_word_new_br_1 | ritual |  
+| bip_39_word_new_br_10 | ritual<br>giraffe<br>raw<br>range<br>shoot<br>rib<br>romance<br>over<br>knee<br>gloom |  
+| bip_39_word_new_br_11 | ritual<br>giraffe<br>raw<br>range<br>shoot<br>rib<br>romance<br>over<br>knee<br>gloom<br>grocery |  
+| bip_39_word_new_br_12 | ritual<br>giraffe<br>raw<br>range<br>shoot<br>rib<br>romance<br>over<br>knee<br>gloom<br>grocery<br>actual |  
+| bip_39_word_new_br_2 | ritual<br>giraffe |  
+| bip_39_word_new_br_3 | ritual<br>giraffe<br>raw |  
+| bip_39_word_new_br_4 | ritual<br>giraffe<br>raw<br>range |  
+| bip_39_word_new_br_5 | ritual<br>giraffe<br>raw<br>range<br>shoot |  
+| bip_39_word_new_br_6 | ritual<br>giraffe<br>raw<br>range<br>shoot<br>rib |  
+| bip_39_word_new_br_7 | ritual<br>giraffe<br>raw<br>range<br>shoot<br>rib<br>romance |  
+| bip_39_word_new_br_8 | ritual<br>giraffe<br>raw<br>range<br>shoot<br>rib<br>romance<br>over |  
+| bip_39_word_new_br_9 | ritual<br>giraffe<br>raw<br>range<br>shoot<br>rib<br>romance<br>over<br>knee |  
+| bip_39_word_new_line_1 | ritual |  
+| bip_39_word_new_line_10 | ritual
 giraffe
 raw
 range
@@ -55,7 +55,7 @@ romance
 over
 knee
 gloom |  
-| bip_39_word_new_line11 | ritual
+| bip_39_word_new_line_11 | ritual
 giraffe
 raw
 range
@@ -66,7 +66,7 @@ over
 knee
 gloom
 grocery |  
-| bip_39_word_new_line12 | ritual
+| bip_39_word_new_line_12 | ritual
 giraffe
 raw
 range
@@ -78,34 +78,34 @@ knee
 gloom
 grocery
 actual |  
-| bip_39_word_new_line2 | ritual
+| bip_39_word_new_line_2 | ritual
 giraffe |  
-| bip_39_word_new_line3 | ritual
+| bip_39_word_new_line_3 | ritual
 giraffe
 raw |  
-| bip_39_word_new_line4 | ritual
+| bip_39_word_new_line_4 | ritual
 giraffe
 raw
 range |  
-| bip_39_word_new_line5 | ritual
+| bip_39_word_new_line_5 | ritual
 giraffe
 raw
 range
 shoot |  
-| bip_39_word_new_line6 | ritual
+| bip_39_word_new_line_6 | ritual
 giraffe
 raw
 range
 shoot
 rib |  
-| bip_39_word_new_line7 | ritual
+| bip_39_word_new_line_7 | ritual
 giraffe
 raw
 range
 shoot
 rib
 romance |  
-| bip_39_word_new_line8 | ritual
+| bip_39_word_new_line_8 | ritual
 giraffe
 raw
 range
@@ -113,7 +113,7 @@ shoot
 rib
 romance
 over |  
-| bip_39_word_new_line9 | ritual
+| bip_39_word_new_line_9 | ritual
 giraffe
 raw
 range

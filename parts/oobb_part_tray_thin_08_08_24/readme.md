@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | habit |  
-| bip_39_word_new_br10 | habit<br>immense<br>space<br>century<br>develop<br>kit<br>squirrel<br>vibrant<br>charge<br>define |  
-| bip_39_word_new_br11 | habit<br>immense<br>space<br>century<br>develop<br>kit<br>squirrel<br>vibrant<br>charge<br>define<br>sting |  
-| bip_39_word_new_br12 | habit<br>immense<br>space<br>century<br>develop<br>kit<br>squirrel<br>vibrant<br>charge<br>define<br>sting<br>assume |  
-| bip_39_word_new_br2 | habit<br>immense |  
-| bip_39_word_new_br3 | habit<br>immense<br>space |  
-| bip_39_word_new_br4 | habit<br>immense<br>space<br>century |  
-| bip_39_word_new_br5 | habit<br>immense<br>space<br>century<br>develop |  
-| bip_39_word_new_br6 | habit<br>immense<br>space<br>century<br>develop<br>kit |  
-| bip_39_word_new_br7 | habit<br>immense<br>space<br>century<br>develop<br>kit<br>squirrel |  
-| bip_39_word_new_br8 | habit<br>immense<br>space<br>century<br>develop<br>kit<br>squirrel<br>vibrant |  
-| bip_39_word_new_br9 | habit<br>immense<br>space<br>century<br>develop<br>kit<br>squirrel<br>vibrant<br>charge |  
-| bip_39_word_new_line1 | habit |  
-| bip_39_word_new_line10 | habit
+| bip_39_word_new_br_1 | habit |  
+| bip_39_word_new_br_10 | habit<br>immense<br>space<br>century<br>develop<br>kit<br>squirrel<br>vibrant<br>charge<br>define |  
+| bip_39_word_new_br_11 | habit<br>immense<br>space<br>century<br>develop<br>kit<br>squirrel<br>vibrant<br>charge<br>define<br>sting |  
+| bip_39_word_new_br_12 | habit<br>immense<br>space<br>century<br>develop<br>kit<br>squirrel<br>vibrant<br>charge<br>define<br>sting<br>assume |  
+| bip_39_word_new_br_2 | habit<br>immense |  
+| bip_39_word_new_br_3 | habit<br>immense<br>space |  
+| bip_39_word_new_br_4 | habit<br>immense<br>space<br>century |  
+| bip_39_word_new_br_5 | habit<br>immense<br>space<br>century<br>develop |  
+| bip_39_word_new_br_6 | habit<br>immense<br>space<br>century<br>develop<br>kit |  
+| bip_39_word_new_br_7 | habit<br>immense<br>space<br>century<br>develop<br>kit<br>squirrel |  
+| bip_39_word_new_br_8 | habit<br>immense<br>space<br>century<br>develop<br>kit<br>squirrel<br>vibrant |  
+| bip_39_word_new_br_9 | habit<br>immense<br>space<br>century<br>develop<br>kit<br>squirrel<br>vibrant<br>charge |  
+| bip_39_word_new_line_1 | habit |  
+| bip_39_word_new_line_10 | habit
 immense
 space
 century
@@ -55,7 +55,7 @@ squirrel
 vibrant
 charge
 define |  
-| bip_39_word_new_line11 | habit
+| bip_39_word_new_line_11 | habit
 immense
 space
 century
@@ -66,7 +66,7 @@ vibrant
 charge
 define
 sting |  
-| bip_39_word_new_line12 | habit
+| bip_39_word_new_line_12 | habit
 immense
 space
 century
@@ -78,34 +78,34 @@ charge
 define
 sting
 assume |  
-| bip_39_word_new_line2 | habit
+| bip_39_word_new_line_2 | habit
 immense |  
-| bip_39_word_new_line3 | habit
+| bip_39_word_new_line_3 | habit
 immense
 space |  
-| bip_39_word_new_line4 | habit
+| bip_39_word_new_line_4 | habit
 immense
 space
 century |  
-| bip_39_word_new_line5 | habit
+| bip_39_word_new_line_5 | habit
 immense
 space
 century
 develop |  
-| bip_39_word_new_line6 | habit
+| bip_39_word_new_line_6 | habit
 immense
 space
 century
 develop
 kit |  
-| bip_39_word_new_line7 | habit
+| bip_39_word_new_line_7 | habit
 immense
 space
 century
 develop
 kit
 squirrel |  
-| bip_39_word_new_line8 | habit
+| bip_39_word_new_line_8 | habit
 immense
 space
 century
@@ -113,7 +113,7 @@ develop
 kit
 squirrel
 vibrant |  
-| bip_39_word_new_line9 | habit
+| bip_39_word_new_line_9 | habit
 immense
 space
 century

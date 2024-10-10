@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | awesome |  
-| bip_39_word_new_br10 | awesome<br>cluster<br>front<br>erosion<br>rule<br>diet<br>that<br>wish<br>long<br>cube |  
-| bip_39_word_new_br11 | awesome<br>cluster<br>front<br>erosion<br>rule<br>diet<br>that<br>wish<br>long<br>cube<br>fantasy |  
-| bip_39_word_new_br12 | awesome<br>cluster<br>front<br>erosion<br>rule<br>diet<br>that<br>wish<br>long<br>cube<br>fantasy<br>analyst |  
-| bip_39_word_new_br2 | awesome<br>cluster |  
-| bip_39_word_new_br3 | awesome<br>cluster<br>front |  
-| bip_39_word_new_br4 | awesome<br>cluster<br>front<br>erosion |  
-| bip_39_word_new_br5 | awesome<br>cluster<br>front<br>erosion<br>rule |  
-| bip_39_word_new_br6 | awesome<br>cluster<br>front<br>erosion<br>rule<br>diet |  
-| bip_39_word_new_br7 | awesome<br>cluster<br>front<br>erosion<br>rule<br>diet<br>that |  
-| bip_39_word_new_br8 | awesome<br>cluster<br>front<br>erosion<br>rule<br>diet<br>that<br>wish |  
-| bip_39_word_new_br9 | awesome<br>cluster<br>front<br>erosion<br>rule<br>diet<br>that<br>wish<br>long |  
-| bip_39_word_new_line1 | awesome |  
-| bip_39_word_new_line10 | awesome
+| bip_39_word_new_br_1 | awesome |  
+| bip_39_word_new_br_10 | awesome<br>cluster<br>front<br>erosion<br>rule<br>diet<br>that<br>wish<br>long<br>cube |  
+| bip_39_word_new_br_11 | awesome<br>cluster<br>front<br>erosion<br>rule<br>diet<br>that<br>wish<br>long<br>cube<br>fantasy |  
+| bip_39_word_new_br_12 | awesome<br>cluster<br>front<br>erosion<br>rule<br>diet<br>that<br>wish<br>long<br>cube<br>fantasy<br>analyst |  
+| bip_39_word_new_br_2 | awesome<br>cluster |  
+| bip_39_word_new_br_3 | awesome<br>cluster<br>front |  
+| bip_39_word_new_br_4 | awesome<br>cluster<br>front<br>erosion |  
+| bip_39_word_new_br_5 | awesome<br>cluster<br>front<br>erosion<br>rule |  
+| bip_39_word_new_br_6 | awesome<br>cluster<br>front<br>erosion<br>rule<br>diet |  
+| bip_39_word_new_br_7 | awesome<br>cluster<br>front<br>erosion<br>rule<br>diet<br>that |  
+| bip_39_word_new_br_8 | awesome<br>cluster<br>front<br>erosion<br>rule<br>diet<br>that<br>wish |  
+| bip_39_word_new_br_9 | awesome<br>cluster<br>front<br>erosion<br>rule<br>diet<br>that<br>wish<br>long |  
+| bip_39_word_new_line_1 | awesome |  
+| bip_39_word_new_line_10 | awesome
 cluster
 front
 erosion
@@ -55,7 +55,7 @@ that
 wish
 long
 cube |  
-| bip_39_word_new_line11 | awesome
+| bip_39_word_new_line_11 | awesome
 cluster
 front
 erosion
@@ -66,7 +66,7 @@ wish
 long
 cube
 fantasy |  
-| bip_39_word_new_line12 | awesome
+| bip_39_word_new_line_12 | awesome
 cluster
 front
 erosion
@@ -78,34 +78,34 @@ long
 cube
 fantasy
 analyst |  
-| bip_39_word_new_line2 | awesome
+| bip_39_word_new_line_2 | awesome
 cluster |  
-| bip_39_word_new_line3 | awesome
+| bip_39_word_new_line_3 | awesome
 cluster
 front |  
-| bip_39_word_new_line4 | awesome
+| bip_39_word_new_line_4 | awesome
 cluster
 front
 erosion |  
-| bip_39_word_new_line5 | awesome
+| bip_39_word_new_line_5 | awesome
 cluster
 front
 erosion
 rule |  
-| bip_39_word_new_line6 | awesome
+| bip_39_word_new_line_6 | awesome
 cluster
 front
 erosion
 rule
 diet |  
-| bip_39_word_new_line7 | awesome
+| bip_39_word_new_line_7 | awesome
 cluster
 front
 erosion
 rule
 diet
 that |  
-| bip_39_word_new_line8 | awesome
+| bip_39_word_new_line_8 | awesome
 cluster
 front
 erosion
@@ -113,7 +113,7 @@ rule
 diet
 that
 wish |  
-| bip_39_word_new_line9 | awesome
+| bip_39_word_new_line_9 | awesome
 cluster
 front
 erosion

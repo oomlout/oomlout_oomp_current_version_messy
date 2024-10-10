@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | divide |  
-| bip_39_word_new_br10 | divide<br>section<br>seat<br>wolf<br>dune<br>tornado<br>stay<br>weekend<br>capable<br>diet |  
-| bip_39_word_new_br11 | divide<br>section<br>seat<br>wolf<br>dune<br>tornado<br>stay<br>weekend<br>capable<br>diet<br>hedgehog |  
-| bip_39_word_new_br12 | divide<br>section<br>seat<br>wolf<br>dune<br>tornado<br>stay<br>weekend<br>capable<br>diet<br>hedgehog<br>adapt |  
-| bip_39_word_new_br2 | divide<br>section |  
-| bip_39_word_new_br3 | divide<br>section<br>seat |  
-| bip_39_word_new_br4 | divide<br>section<br>seat<br>wolf |  
-| bip_39_word_new_br5 | divide<br>section<br>seat<br>wolf<br>dune |  
-| bip_39_word_new_br6 | divide<br>section<br>seat<br>wolf<br>dune<br>tornado |  
-| bip_39_word_new_br7 | divide<br>section<br>seat<br>wolf<br>dune<br>tornado<br>stay |  
-| bip_39_word_new_br8 | divide<br>section<br>seat<br>wolf<br>dune<br>tornado<br>stay<br>weekend |  
-| bip_39_word_new_br9 | divide<br>section<br>seat<br>wolf<br>dune<br>tornado<br>stay<br>weekend<br>capable |  
-| bip_39_word_new_line1 | divide |  
-| bip_39_word_new_line10 | divide
+| bip_39_word_new_br_1 | divide |  
+| bip_39_word_new_br_10 | divide<br>section<br>seat<br>wolf<br>dune<br>tornado<br>stay<br>weekend<br>capable<br>diet |  
+| bip_39_word_new_br_11 | divide<br>section<br>seat<br>wolf<br>dune<br>tornado<br>stay<br>weekend<br>capable<br>diet<br>hedgehog |  
+| bip_39_word_new_br_12 | divide<br>section<br>seat<br>wolf<br>dune<br>tornado<br>stay<br>weekend<br>capable<br>diet<br>hedgehog<br>adapt |  
+| bip_39_word_new_br_2 | divide<br>section |  
+| bip_39_word_new_br_3 | divide<br>section<br>seat |  
+| bip_39_word_new_br_4 | divide<br>section<br>seat<br>wolf |  
+| bip_39_word_new_br_5 | divide<br>section<br>seat<br>wolf<br>dune |  
+| bip_39_word_new_br_6 | divide<br>section<br>seat<br>wolf<br>dune<br>tornado |  
+| bip_39_word_new_br_7 | divide<br>section<br>seat<br>wolf<br>dune<br>tornado<br>stay |  
+| bip_39_word_new_br_8 | divide<br>section<br>seat<br>wolf<br>dune<br>tornado<br>stay<br>weekend |  
+| bip_39_word_new_br_9 | divide<br>section<br>seat<br>wolf<br>dune<br>tornado<br>stay<br>weekend<br>capable |  
+| bip_39_word_new_line_1 | divide |  
+| bip_39_word_new_line_10 | divide
 section
 seat
 wolf
@@ -55,7 +55,7 @@ stay
 weekend
 capable
 diet |  
-| bip_39_word_new_line11 | divide
+| bip_39_word_new_line_11 | divide
 section
 seat
 wolf
@@ -66,7 +66,7 @@ weekend
 capable
 diet
 hedgehog |  
-| bip_39_word_new_line12 | divide
+| bip_39_word_new_line_12 | divide
 section
 seat
 wolf
@@ -78,34 +78,34 @@ capable
 diet
 hedgehog
 adapt |  
-| bip_39_word_new_line2 | divide
+| bip_39_word_new_line_2 | divide
 section |  
-| bip_39_word_new_line3 | divide
+| bip_39_word_new_line_3 | divide
 section
 seat |  
-| bip_39_word_new_line4 | divide
+| bip_39_word_new_line_4 | divide
 section
 seat
 wolf |  
-| bip_39_word_new_line5 | divide
+| bip_39_word_new_line_5 | divide
 section
 seat
 wolf
 dune |  
-| bip_39_word_new_line6 | divide
+| bip_39_word_new_line_6 | divide
 section
 seat
 wolf
 dune
 tornado |  
-| bip_39_word_new_line7 | divide
+| bip_39_word_new_line_7 | divide
 section
 seat
 wolf
 dune
 tornado
 stay |  
-| bip_39_word_new_line8 | divide
+| bip_39_word_new_line_8 | divide
 section
 seat
 wolf
@@ -113,7 +113,7 @@ dune
 tornado
 stay
 weekend |  
-| bip_39_word_new_line9 | divide
+| bip_39_word_new_line_9 | divide
 section
 seat
 wolf

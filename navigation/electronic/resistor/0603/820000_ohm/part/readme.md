@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gloom |  
-| bip_39_word_new_br10 | gloom<br>high<br>oxygen<br>wise<br>license<br>share<br>daring<br>illness<br>mercy<br>right |  
-| bip_39_word_new_br11 | gloom<br>high<br>oxygen<br>wise<br>license<br>share<br>daring<br>illness<br>mercy<br>right<br>project |  
-| bip_39_word_new_br12 | gloom<br>high<br>oxygen<br>wise<br>license<br>share<br>daring<br>illness<br>mercy<br>right<br>project<br>auto |  
-| bip_39_word_new_br2 | gloom<br>high |  
-| bip_39_word_new_br3 | gloom<br>high<br>oxygen |  
-| bip_39_word_new_br4 | gloom<br>high<br>oxygen<br>wise |  
-| bip_39_word_new_br5 | gloom<br>high<br>oxygen<br>wise<br>license |  
-| bip_39_word_new_br6 | gloom<br>high<br>oxygen<br>wise<br>license<br>share |  
-| bip_39_word_new_br7 | gloom<br>high<br>oxygen<br>wise<br>license<br>share<br>daring |  
-| bip_39_word_new_br8 | gloom<br>high<br>oxygen<br>wise<br>license<br>share<br>daring<br>illness |  
-| bip_39_word_new_br9 | gloom<br>high<br>oxygen<br>wise<br>license<br>share<br>daring<br>illness<br>mercy |  
-| bip_39_word_new_line1 | gloom |  
-| bip_39_word_new_line10 | gloom
+| bip_39_word_new_br_1 | gloom |  
+| bip_39_word_new_br_10 | gloom<br>high<br>oxygen<br>wise<br>license<br>share<br>daring<br>illness<br>mercy<br>right |  
+| bip_39_word_new_br_11 | gloom<br>high<br>oxygen<br>wise<br>license<br>share<br>daring<br>illness<br>mercy<br>right<br>project |  
+| bip_39_word_new_br_12 | gloom<br>high<br>oxygen<br>wise<br>license<br>share<br>daring<br>illness<br>mercy<br>right<br>project<br>auto |  
+| bip_39_word_new_br_2 | gloom<br>high |  
+| bip_39_word_new_br_3 | gloom<br>high<br>oxygen |  
+| bip_39_word_new_br_4 | gloom<br>high<br>oxygen<br>wise |  
+| bip_39_word_new_br_5 | gloom<br>high<br>oxygen<br>wise<br>license |  
+| bip_39_word_new_br_6 | gloom<br>high<br>oxygen<br>wise<br>license<br>share |  
+| bip_39_word_new_br_7 | gloom<br>high<br>oxygen<br>wise<br>license<br>share<br>daring |  
+| bip_39_word_new_br_8 | gloom<br>high<br>oxygen<br>wise<br>license<br>share<br>daring<br>illness |  
+| bip_39_word_new_br_9 | gloom<br>high<br>oxygen<br>wise<br>license<br>share<br>daring<br>illness<br>mercy |  
+| bip_39_word_new_line_1 | gloom |  
+| bip_39_word_new_line_10 | gloom
 high
 oxygen
 wise
@@ -55,7 +55,7 @@ daring
 illness
 mercy
 right |  
-| bip_39_word_new_line11 | gloom
+| bip_39_word_new_line_11 | gloom
 high
 oxygen
 wise
@@ -66,7 +66,7 @@ illness
 mercy
 right
 project |  
-| bip_39_word_new_line12 | gloom
+| bip_39_word_new_line_12 | gloom
 high
 oxygen
 wise
@@ -78,34 +78,34 @@ mercy
 right
 project
 auto |  
-| bip_39_word_new_line2 | gloom
+| bip_39_word_new_line_2 | gloom
 high |  
-| bip_39_word_new_line3 | gloom
+| bip_39_word_new_line_3 | gloom
 high
 oxygen |  
-| bip_39_word_new_line4 | gloom
+| bip_39_word_new_line_4 | gloom
 high
 oxygen
 wise |  
-| bip_39_word_new_line5 | gloom
+| bip_39_word_new_line_5 | gloom
 high
 oxygen
 wise
 license |  
-| bip_39_word_new_line6 | gloom
+| bip_39_word_new_line_6 | gloom
 high
 oxygen
 wise
 license
 share |  
-| bip_39_word_new_line7 | gloom
+| bip_39_word_new_line_7 | gloom
 high
 oxygen
 wise
 license
 share
 daring |  
-| bip_39_word_new_line8 | gloom
+| bip_39_word_new_line_8 | gloom
 high
 oxygen
 wise
@@ -113,7 +113,7 @@ license
 share
 daring
 illness |  
-| bip_39_word_new_line9 | gloom
+| bip_39_word_new_line_9 | gloom
 high
 oxygen
 wise

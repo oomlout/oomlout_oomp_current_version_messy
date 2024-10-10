@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | regular |  
-| bip_39_word_new_br10 | regular<br>dog<br>oven<br>long<br>upset<br>champion<br>property<br>sight<br>legal<br>news |  
-| bip_39_word_new_br11 | regular<br>dog<br>oven<br>long<br>upset<br>champion<br>property<br>sight<br>legal<br>news<br>noise |  
-| bip_39_word_new_br12 | regular<br>dog<br>oven<br>long<br>upset<br>champion<br>property<br>sight<br>legal<br>news<br>noise<br>animal |  
-| bip_39_word_new_br2 | regular<br>dog |  
-| bip_39_word_new_br3 | regular<br>dog<br>oven |  
-| bip_39_word_new_br4 | regular<br>dog<br>oven<br>long |  
-| bip_39_word_new_br5 | regular<br>dog<br>oven<br>long<br>upset |  
-| bip_39_word_new_br6 | regular<br>dog<br>oven<br>long<br>upset<br>champion |  
-| bip_39_word_new_br7 | regular<br>dog<br>oven<br>long<br>upset<br>champion<br>property |  
-| bip_39_word_new_br8 | regular<br>dog<br>oven<br>long<br>upset<br>champion<br>property<br>sight |  
-| bip_39_word_new_br9 | regular<br>dog<br>oven<br>long<br>upset<br>champion<br>property<br>sight<br>legal |  
-| bip_39_word_new_line1 | regular |  
-| bip_39_word_new_line10 | regular
+| bip_39_word_new_br_1 | regular |  
+| bip_39_word_new_br_10 | regular<br>dog<br>oven<br>long<br>upset<br>champion<br>property<br>sight<br>legal<br>news |  
+| bip_39_word_new_br_11 | regular<br>dog<br>oven<br>long<br>upset<br>champion<br>property<br>sight<br>legal<br>news<br>noise |  
+| bip_39_word_new_br_12 | regular<br>dog<br>oven<br>long<br>upset<br>champion<br>property<br>sight<br>legal<br>news<br>noise<br>animal |  
+| bip_39_word_new_br_2 | regular<br>dog |  
+| bip_39_word_new_br_3 | regular<br>dog<br>oven |  
+| bip_39_word_new_br_4 | regular<br>dog<br>oven<br>long |  
+| bip_39_word_new_br_5 | regular<br>dog<br>oven<br>long<br>upset |  
+| bip_39_word_new_br_6 | regular<br>dog<br>oven<br>long<br>upset<br>champion |  
+| bip_39_word_new_br_7 | regular<br>dog<br>oven<br>long<br>upset<br>champion<br>property |  
+| bip_39_word_new_br_8 | regular<br>dog<br>oven<br>long<br>upset<br>champion<br>property<br>sight |  
+| bip_39_word_new_br_9 | regular<br>dog<br>oven<br>long<br>upset<br>champion<br>property<br>sight<br>legal |  
+| bip_39_word_new_line_1 | regular |  
+| bip_39_word_new_line_10 | regular
 dog
 oven
 long
@@ -55,7 +55,7 @@ property
 sight
 legal
 news |  
-| bip_39_word_new_line11 | regular
+| bip_39_word_new_line_11 | regular
 dog
 oven
 long
@@ -66,7 +66,7 @@ sight
 legal
 news
 noise |  
-| bip_39_word_new_line12 | regular
+| bip_39_word_new_line_12 | regular
 dog
 oven
 long
@@ -78,34 +78,34 @@ legal
 news
 noise
 animal |  
-| bip_39_word_new_line2 | regular
+| bip_39_word_new_line_2 | regular
 dog |  
-| bip_39_word_new_line3 | regular
+| bip_39_word_new_line_3 | regular
 dog
 oven |  
-| bip_39_word_new_line4 | regular
+| bip_39_word_new_line_4 | regular
 dog
 oven
 long |  
-| bip_39_word_new_line5 | regular
+| bip_39_word_new_line_5 | regular
 dog
 oven
 long
 upset |  
-| bip_39_word_new_line6 | regular
+| bip_39_word_new_line_6 | regular
 dog
 oven
 long
 upset
 champion |  
-| bip_39_word_new_line7 | regular
+| bip_39_word_new_line_7 | regular
 dog
 oven
 long
 upset
 champion
 property |  
-| bip_39_word_new_line8 | regular
+| bip_39_word_new_line_8 | regular
 dog
 oven
 long
@@ -113,7 +113,7 @@ upset
 champion
 property
 sight |  
-| bip_39_word_new_line9 | regular
+| bip_39_word_new_line_9 | regular
 dog
 oven
 long

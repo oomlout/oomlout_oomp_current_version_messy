@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | explain |  
-| bip_39_word_new_br10 | explain<br>army<br>lawn<br>area<br>cargo<br>busy<br>bus<br>verify<br>engine<br>fork |  
-| bip_39_word_new_br11 | explain<br>army<br>lawn<br>area<br>cargo<br>busy<br>bus<br>verify<br>engine<br>fork<br>squeeze |  
-| bip_39_word_new_br12 | explain<br>army<br>lawn<br>area<br>cargo<br>busy<br>bus<br>verify<br>engine<br>fork<br>squeeze<br>amateur |  
-| bip_39_word_new_br2 | explain<br>army |  
-| bip_39_word_new_br3 | explain<br>army<br>lawn |  
-| bip_39_word_new_br4 | explain<br>army<br>lawn<br>area |  
-| bip_39_word_new_br5 | explain<br>army<br>lawn<br>area<br>cargo |  
-| bip_39_word_new_br6 | explain<br>army<br>lawn<br>area<br>cargo<br>busy |  
-| bip_39_word_new_br7 | explain<br>army<br>lawn<br>area<br>cargo<br>busy<br>bus |  
-| bip_39_word_new_br8 | explain<br>army<br>lawn<br>area<br>cargo<br>busy<br>bus<br>verify |  
-| bip_39_word_new_br9 | explain<br>army<br>lawn<br>area<br>cargo<br>busy<br>bus<br>verify<br>engine |  
-| bip_39_word_new_line1 | explain |  
-| bip_39_word_new_line10 | explain
+| bip_39_word_new_br_1 | explain |  
+| bip_39_word_new_br_10 | explain<br>army<br>lawn<br>area<br>cargo<br>busy<br>bus<br>verify<br>engine<br>fork |  
+| bip_39_word_new_br_11 | explain<br>army<br>lawn<br>area<br>cargo<br>busy<br>bus<br>verify<br>engine<br>fork<br>squeeze |  
+| bip_39_word_new_br_12 | explain<br>army<br>lawn<br>area<br>cargo<br>busy<br>bus<br>verify<br>engine<br>fork<br>squeeze<br>amateur |  
+| bip_39_word_new_br_2 | explain<br>army |  
+| bip_39_word_new_br_3 | explain<br>army<br>lawn |  
+| bip_39_word_new_br_4 | explain<br>army<br>lawn<br>area |  
+| bip_39_word_new_br_5 | explain<br>army<br>lawn<br>area<br>cargo |  
+| bip_39_word_new_br_6 | explain<br>army<br>lawn<br>area<br>cargo<br>busy |  
+| bip_39_word_new_br_7 | explain<br>army<br>lawn<br>area<br>cargo<br>busy<br>bus |  
+| bip_39_word_new_br_8 | explain<br>army<br>lawn<br>area<br>cargo<br>busy<br>bus<br>verify |  
+| bip_39_word_new_br_9 | explain<br>army<br>lawn<br>area<br>cargo<br>busy<br>bus<br>verify<br>engine |  
+| bip_39_word_new_line_1 | explain |  
+| bip_39_word_new_line_10 | explain
 army
 lawn
 area
@@ -55,7 +55,7 @@ bus
 verify
 engine
 fork |  
-| bip_39_word_new_line11 | explain
+| bip_39_word_new_line_11 | explain
 army
 lawn
 area
@@ -66,7 +66,7 @@ verify
 engine
 fork
 squeeze |  
-| bip_39_word_new_line12 | explain
+| bip_39_word_new_line_12 | explain
 army
 lawn
 area
@@ -78,34 +78,34 @@ engine
 fork
 squeeze
 amateur |  
-| bip_39_word_new_line2 | explain
+| bip_39_word_new_line_2 | explain
 army |  
-| bip_39_word_new_line3 | explain
+| bip_39_word_new_line_3 | explain
 army
 lawn |  
-| bip_39_word_new_line4 | explain
+| bip_39_word_new_line_4 | explain
 army
 lawn
 area |  
-| bip_39_word_new_line5 | explain
+| bip_39_word_new_line_5 | explain
 army
 lawn
 area
 cargo |  
-| bip_39_word_new_line6 | explain
+| bip_39_word_new_line_6 | explain
 army
 lawn
 area
 cargo
 busy |  
-| bip_39_word_new_line7 | explain
+| bip_39_word_new_line_7 | explain
 army
 lawn
 area
 cargo
 busy
 bus |  
-| bip_39_word_new_line8 | explain
+| bip_39_word_new_line_8 | explain
 army
 lawn
 area
@@ -113,7 +113,7 @@ cargo
 busy
 bus
 verify |  
-| bip_39_word_new_line9 | explain
+| bip_39_word_new_line_9 | explain
 army
 lawn
 area

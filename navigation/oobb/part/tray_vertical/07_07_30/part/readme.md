@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | boat |  
-| bip_39_word_new_br10 | boat<br>old<br>giant<br>bone<br>bullet<br>hour<br>zone<br>wool<br>glare<br>alcohol |  
-| bip_39_word_new_br11 | boat<br>old<br>giant<br>bone<br>bullet<br>hour<br>zone<br>wool<br>glare<br>alcohol<br>duck |  
-| bip_39_word_new_br12 | boat<br>old<br>giant<br>bone<br>bullet<br>hour<br>zone<br>wool<br>glare<br>alcohol<br>duck<br>acquire |  
-| bip_39_word_new_br2 | boat<br>old |  
-| bip_39_word_new_br3 | boat<br>old<br>giant |  
-| bip_39_word_new_br4 | boat<br>old<br>giant<br>bone |  
-| bip_39_word_new_br5 | boat<br>old<br>giant<br>bone<br>bullet |  
-| bip_39_word_new_br6 | boat<br>old<br>giant<br>bone<br>bullet<br>hour |  
-| bip_39_word_new_br7 | boat<br>old<br>giant<br>bone<br>bullet<br>hour<br>zone |  
-| bip_39_word_new_br8 | boat<br>old<br>giant<br>bone<br>bullet<br>hour<br>zone<br>wool |  
-| bip_39_word_new_br9 | boat<br>old<br>giant<br>bone<br>bullet<br>hour<br>zone<br>wool<br>glare |  
-| bip_39_word_new_line1 | boat |  
-| bip_39_word_new_line10 | boat
+| bip_39_word_new_br_1 | boat |  
+| bip_39_word_new_br_10 | boat<br>old<br>giant<br>bone<br>bullet<br>hour<br>zone<br>wool<br>glare<br>alcohol |  
+| bip_39_word_new_br_11 | boat<br>old<br>giant<br>bone<br>bullet<br>hour<br>zone<br>wool<br>glare<br>alcohol<br>duck |  
+| bip_39_word_new_br_12 | boat<br>old<br>giant<br>bone<br>bullet<br>hour<br>zone<br>wool<br>glare<br>alcohol<br>duck<br>acquire |  
+| bip_39_word_new_br_2 | boat<br>old |  
+| bip_39_word_new_br_3 | boat<br>old<br>giant |  
+| bip_39_word_new_br_4 | boat<br>old<br>giant<br>bone |  
+| bip_39_word_new_br_5 | boat<br>old<br>giant<br>bone<br>bullet |  
+| bip_39_word_new_br_6 | boat<br>old<br>giant<br>bone<br>bullet<br>hour |  
+| bip_39_word_new_br_7 | boat<br>old<br>giant<br>bone<br>bullet<br>hour<br>zone |  
+| bip_39_word_new_br_8 | boat<br>old<br>giant<br>bone<br>bullet<br>hour<br>zone<br>wool |  
+| bip_39_word_new_br_9 | boat<br>old<br>giant<br>bone<br>bullet<br>hour<br>zone<br>wool<br>glare |  
+| bip_39_word_new_line_1 | boat |  
+| bip_39_word_new_line_10 | boat
 old
 giant
 bone
@@ -55,7 +55,7 @@ zone
 wool
 glare
 alcohol |  
-| bip_39_word_new_line11 | boat
+| bip_39_word_new_line_11 | boat
 old
 giant
 bone
@@ -66,7 +66,7 @@ wool
 glare
 alcohol
 duck |  
-| bip_39_word_new_line12 | boat
+| bip_39_word_new_line_12 | boat
 old
 giant
 bone
@@ -78,34 +78,34 @@ glare
 alcohol
 duck
 acquire |  
-| bip_39_word_new_line2 | boat
+| bip_39_word_new_line_2 | boat
 old |  
-| bip_39_word_new_line3 | boat
+| bip_39_word_new_line_3 | boat
 old
 giant |  
-| bip_39_word_new_line4 | boat
+| bip_39_word_new_line_4 | boat
 old
 giant
 bone |  
-| bip_39_word_new_line5 | boat
+| bip_39_word_new_line_5 | boat
 old
 giant
 bone
 bullet |  
-| bip_39_word_new_line6 | boat
+| bip_39_word_new_line_6 | boat
 old
 giant
 bone
 bullet
 hour |  
-| bip_39_word_new_line7 | boat
+| bip_39_word_new_line_7 | boat
 old
 giant
 bone
 bullet
 hour
 zone |  
-| bip_39_word_new_line8 | boat
+| bip_39_word_new_line_8 | boat
 old
 giant
 bone
@@ -113,7 +113,7 @@ bullet
 hour
 zone
 wool |  
-| bip_39_word_new_line9 | boat
+| bip_39_word_new_line_9 | boat
 old
 giant
 bone

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pudding |  
-| bip_39_word_new_br10 | pudding<br>noble<br>minor<br>spawn<br>piece<br>pole<br>panda<br>media<br>speak<br>load |  
-| bip_39_word_new_br11 | pudding<br>noble<br>minor<br>spawn<br>piece<br>pole<br>panda<br>media<br>speak<br>load<br>miracle |  
-| bip_39_word_new_br12 | pudding<br>noble<br>minor<br>spawn<br>piece<br>pole<br>panda<br>media<br>speak<br>load<br>miracle<br>alert |  
-| bip_39_word_new_br2 | pudding<br>noble |  
-| bip_39_word_new_br3 | pudding<br>noble<br>minor |  
-| bip_39_word_new_br4 | pudding<br>noble<br>minor<br>spawn |  
-| bip_39_word_new_br5 | pudding<br>noble<br>minor<br>spawn<br>piece |  
-| bip_39_word_new_br6 | pudding<br>noble<br>minor<br>spawn<br>piece<br>pole |  
-| bip_39_word_new_br7 | pudding<br>noble<br>minor<br>spawn<br>piece<br>pole<br>panda |  
-| bip_39_word_new_br8 | pudding<br>noble<br>minor<br>spawn<br>piece<br>pole<br>panda<br>media |  
-| bip_39_word_new_br9 | pudding<br>noble<br>minor<br>spawn<br>piece<br>pole<br>panda<br>media<br>speak |  
-| bip_39_word_new_line1 | pudding |  
-| bip_39_word_new_line10 | pudding
+| bip_39_word_new_br_1 | pudding |  
+| bip_39_word_new_br_10 | pudding<br>noble<br>minor<br>spawn<br>piece<br>pole<br>panda<br>media<br>speak<br>load |  
+| bip_39_word_new_br_11 | pudding<br>noble<br>minor<br>spawn<br>piece<br>pole<br>panda<br>media<br>speak<br>load<br>miracle |  
+| bip_39_word_new_br_12 | pudding<br>noble<br>minor<br>spawn<br>piece<br>pole<br>panda<br>media<br>speak<br>load<br>miracle<br>alert |  
+| bip_39_word_new_br_2 | pudding<br>noble |  
+| bip_39_word_new_br_3 | pudding<br>noble<br>minor |  
+| bip_39_word_new_br_4 | pudding<br>noble<br>minor<br>spawn |  
+| bip_39_word_new_br_5 | pudding<br>noble<br>minor<br>spawn<br>piece |  
+| bip_39_word_new_br_6 | pudding<br>noble<br>minor<br>spawn<br>piece<br>pole |  
+| bip_39_word_new_br_7 | pudding<br>noble<br>minor<br>spawn<br>piece<br>pole<br>panda |  
+| bip_39_word_new_br_8 | pudding<br>noble<br>minor<br>spawn<br>piece<br>pole<br>panda<br>media |  
+| bip_39_word_new_br_9 | pudding<br>noble<br>minor<br>spawn<br>piece<br>pole<br>panda<br>media<br>speak |  
+| bip_39_word_new_line_1 | pudding |  
+| bip_39_word_new_line_10 | pudding
 noble
 minor
 spawn
@@ -55,7 +55,7 @@ panda
 media
 speak
 load |  
-| bip_39_word_new_line11 | pudding
+| bip_39_word_new_line_11 | pudding
 noble
 minor
 spawn
@@ -66,7 +66,7 @@ media
 speak
 load
 miracle |  
-| bip_39_word_new_line12 | pudding
+| bip_39_word_new_line_12 | pudding
 noble
 minor
 spawn
@@ -78,34 +78,34 @@ speak
 load
 miracle
 alert |  
-| bip_39_word_new_line2 | pudding
+| bip_39_word_new_line_2 | pudding
 noble |  
-| bip_39_word_new_line3 | pudding
+| bip_39_word_new_line_3 | pudding
 noble
 minor |  
-| bip_39_word_new_line4 | pudding
+| bip_39_word_new_line_4 | pudding
 noble
 minor
 spawn |  
-| bip_39_word_new_line5 | pudding
+| bip_39_word_new_line_5 | pudding
 noble
 minor
 spawn
 piece |  
-| bip_39_word_new_line6 | pudding
+| bip_39_word_new_line_6 | pudding
 noble
 minor
 spawn
 piece
 pole |  
-| bip_39_word_new_line7 | pudding
+| bip_39_word_new_line_7 | pudding
 noble
 minor
 spawn
 piece
 pole
 panda |  
-| bip_39_word_new_line8 | pudding
+| bip_39_word_new_line_8 | pudding
 noble
 minor
 spawn
@@ -113,7 +113,7 @@ piece
 pole
 panda
 media |  
-| bip_39_word_new_line9 | pudding
+| bip_39_word_new_line_9 | pudding
 noble
 minor
 spawn

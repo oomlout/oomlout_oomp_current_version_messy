@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | creek |  
-| bip_39_word_new_br10 | creek<br>solar<br>gadget<br>mixture<br>gossip<br>egg<br>cute<br>want<br>artist<br>sun |  
-| bip_39_word_new_br11 | creek<br>solar<br>gadget<br>mixture<br>gossip<br>egg<br>cute<br>want<br>artist<br>sun<br>wheat |  
-| bip_39_word_new_br12 | creek<br>solar<br>gadget<br>mixture<br>gossip<br>egg<br>cute<br>want<br>artist<br>sun<br>wheat<br>artefact |  
-| bip_39_word_new_br2 | creek<br>solar |  
-| bip_39_word_new_br3 | creek<br>solar<br>gadget |  
-| bip_39_word_new_br4 | creek<br>solar<br>gadget<br>mixture |  
-| bip_39_word_new_br5 | creek<br>solar<br>gadget<br>mixture<br>gossip |  
-| bip_39_word_new_br6 | creek<br>solar<br>gadget<br>mixture<br>gossip<br>egg |  
-| bip_39_word_new_br7 | creek<br>solar<br>gadget<br>mixture<br>gossip<br>egg<br>cute |  
-| bip_39_word_new_br8 | creek<br>solar<br>gadget<br>mixture<br>gossip<br>egg<br>cute<br>want |  
-| bip_39_word_new_br9 | creek<br>solar<br>gadget<br>mixture<br>gossip<br>egg<br>cute<br>want<br>artist |  
-| bip_39_word_new_line1 | creek |  
-| bip_39_word_new_line10 | creek
+| bip_39_word_new_br_1 | creek |  
+| bip_39_word_new_br_10 | creek<br>solar<br>gadget<br>mixture<br>gossip<br>egg<br>cute<br>want<br>artist<br>sun |  
+| bip_39_word_new_br_11 | creek<br>solar<br>gadget<br>mixture<br>gossip<br>egg<br>cute<br>want<br>artist<br>sun<br>wheat |  
+| bip_39_word_new_br_12 | creek<br>solar<br>gadget<br>mixture<br>gossip<br>egg<br>cute<br>want<br>artist<br>sun<br>wheat<br>artefact |  
+| bip_39_word_new_br_2 | creek<br>solar |  
+| bip_39_word_new_br_3 | creek<br>solar<br>gadget |  
+| bip_39_word_new_br_4 | creek<br>solar<br>gadget<br>mixture |  
+| bip_39_word_new_br_5 | creek<br>solar<br>gadget<br>mixture<br>gossip |  
+| bip_39_word_new_br_6 | creek<br>solar<br>gadget<br>mixture<br>gossip<br>egg |  
+| bip_39_word_new_br_7 | creek<br>solar<br>gadget<br>mixture<br>gossip<br>egg<br>cute |  
+| bip_39_word_new_br_8 | creek<br>solar<br>gadget<br>mixture<br>gossip<br>egg<br>cute<br>want |  
+| bip_39_word_new_br_9 | creek<br>solar<br>gadget<br>mixture<br>gossip<br>egg<br>cute<br>want<br>artist |  
+| bip_39_word_new_line_1 | creek |  
+| bip_39_word_new_line_10 | creek
 solar
 gadget
 mixture
@@ -55,7 +55,7 @@ cute
 want
 artist
 sun |  
-| bip_39_word_new_line11 | creek
+| bip_39_word_new_line_11 | creek
 solar
 gadget
 mixture
@@ -66,7 +66,7 @@ want
 artist
 sun
 wheat |  
-| bip_39_word_new_line12 | creek
+| bip_39_word_new_line_12 | creek
 solar
 gadget
 mixture
@@ -78,34 +78,34 @@ artist
 sun
 wheat
 artefact |  
-| bip_39_word_new_line2 | creek
+| bip_39_word_new_line_2 | creek
 solar |  
-| bip_39_word_new_line3 | creek
+| bip_39_word_new_line_3 | creek
 solar
 gadget |  
-| bip_39_word_new_line4 | creek
+| bip_39_word_new_line_4 | creek
 solar
 gadget
 mixture |  
-| bip_39_word_new_line5 | creek
+| bip_39_word_new_line_5 | creek
 solar
 gadget
 mixture
 gossip |  
-| bip_39_word_new_line6 | creek
+| bip_39_word_new_line_6 | creek
 solar
 gadget
 mixture
 gossip
 egg |  
-| bip_39_word_new_line7 | creek
+| bip_39_word_new_line_7 | creek
 solar
 gadget
 mixture
 gossip
 egg
 cute |  
-| bip_39_word_new_line8 | creek
+| bip_39_word_new_line_8 | creek
 solar
 gadget
 mixture
@@ -113,7 +113,7 @@ gossip
 egg
 cute
 want |  
-| bip_39_word_new_line9 | creek
+| bip_39_word_new_line_9 | creek
 solar
 gadget
 mixture

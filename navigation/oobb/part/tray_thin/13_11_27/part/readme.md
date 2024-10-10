@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hole |  
-| bip_39_word_new_br10 | hole<br>coast<br>stage<br>act<br>initial<br>leisure<br>bulb<br>swim<br>taste<br>cabbage |  
-| bip_39_word_new_br11 | hole<br>coast<br>stage<br>act<br>initial<br>leisure<br>bulb<br>swim<br>taste<br>cabbage<br>throw |  
-| bip_39_word_new_br12 | hole<br>coast<br>stage<br>act<br>initial<br>leisure<br>bulb<br>swim<br>taste<br>cabbage<br>throw<br>aerobic |  
-| bip_39_word_new_br2 | hole<br>coast |  
-| bip_39_word_new_br3 | hole<br>coast<br>stage |  
-| bip_39_word_new_br4 | hole<br>coast<br>stage<br>act |  
-| bip_39_word_new_br5 | hole<br>coast<br>stage<br>act<br>initial |  
-| bip_39_word_new_br6 | hole<br>coast<br>stage<br>act<br>initial<br>leisure |  
-| bip_39_word_new_br7 | hole<br>coast<br>stage<br>act<br>initial<br>leisure<br>bulb |  
-| bip_39_word_new_br8 | hole<br>coast<br>stage<br>act<br>initial<br>leisure<br>bulb<br>swim |  
-| bip_39_word_new_br9 | hole<br>coast<br>stage<br>act<br>initial<br>leisure<br>bulb<br>swim<br>taste |  
-| bip_39_word_new_line1 | hole |  
-| bip_39_word_new_line10 | hole
+| bip_39_word_new_br_1 | hole |  
+| bip_39_word_new_br_10 | hole<br>coast<br>stage<br>act<br>initial<br>leisure<br>bulb<br>swim<br>taste<br>cabbage |  
+| bip_39_word_new_br_11 | hole<br>coast<br>stage<br>act<br>initial<br>leisure<br>bulb<br>swim<br>taste<br>cabbage<br>throw |  
+| bip_39_word_new_br_12 | hole<br>coast<br>stage<br>act<br>initial<br>leisure<br>bulb<br>swim<br>taste<br>cabbage<br>throw<br>aerobic |  
+| bip_39_word_new_br_2 | hole<br>coast |  
+| bip_39_word_new_br_3 | hole<br>coast<br>stage |  
+| bip_39_word_new_br_4 | hole<br>coast<br>stage<br>act |  
+| bip_39_word_new_br_5 | hole<br>coast<br>stage<br>act<br>initial |  
+| bip_39_word_new_br_6 | hole<br>coast<br>stage<br>act<br>initial<br>leisure |  
+| bip_39_word_new_br_7 | hole<br>coast<br>stage<br>act<br>initial<br>leisure<br>bulb |  
+| bip_39_word_new_br_8 | hole<br>coast<br>stage<br>act<br>initial<br>leisure<br>bulb<br>swim |  
+| bip_39_word_new_br_9 | hole<br>coast<br>stage<br>act<br>initial<br>leisure<br>bulb<br>swim<br>taste |  
+| bip_39_word_new_line_1 | hole |  
+| bip_39_word_new_line_10 | hole
 coast
 stage
 act
@@ -55,7 +55,7 @@ bulb
 swim
 taste
 cabbage |  
-| bip_39_word_new_line11 | hole
+| bip_39_word_new_line_11 | hole
 coast
 stage
 act
@@ -66,7 +66,7 @@ swim
 taste
 cabbage
 throw |  
-| bip_39_word_new_line12 | hole
+| bip_39_word_new_line_12 | hole
 coast
 stage
 act
@@ -78,34 +78,34 @@ taste
 cabbage
 throw
 aerobic |  
-| bip_39_word_new_line2 | hole
+| bip_39_word_new_line_2 | hole
 coast |  
-| bip_39_word_new_line3 | hole
+| bip_39_word_new_line_3 | hole
 coast
 stage |  
-| bip_39_word_new_line4 | hole
+| bip_39_word_new_line_4 | hole
 coast
 stage
 act |  
-| bip_39_word_new_line5 | hole
+| bip_39_word_new_line_5 | hole
 coast
 stage
 act
 initial |  
-| bip_39_word_new_line6 | hole
+| bip_39_word_new_line_6 | hole
 coast
 stage
 act
 initial
 leisure |  
-| bip_39_word_new_line7 | hole
+| bip_39_word_new_line_7 | hole
 coast
 stage
 act
 initial
 leisure
 bulb |  
-| bip_39_word_new_line8 | hole
+| bip_39_word_new_line_8 | hole
 coast
 stage
 act
@@ -113,7 +113,7 @@ initial
 leisure
 bulb
 swim |  
-| bip_39_word_new_line9 | hole
+| bip_39_word_new_line_9 | hole
 coast
 stage
 act

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | trouble |  
-| bip_39_word_new_br10 | trouble<br>misery<br>life<br>frog<br>raven<br>damage<br>peasant<br>concert<br>rent<br>base |  
-| bip_39_word_new_br11 | trouble<br>misery<br>life<br>frog<br>raven<br>damage<br>peasant<br>concert<br>rent<br>base<br>security |  
-| bip_39_word_new_br12 | trouble<br>misery<br>life<br>frog<br>raven<br>damage<br>peasant<br>concert<br>rent<br>base<br>security<br>aim |  
-| bip_39_word_new_br2 | trouble<br>misery |  
-| bip_39_word_new_br3 | trouble<br>misery<br>life |  
-| bip_39_word_new_br4 | trouble<br>misery<br>life<br>frog |  
-| bip_39_word_new_br5 | trouble<br>misery<br>life<br>frog<br>raven |  
-| bip_39_word_new_br6 | trouble<br>misery<br>life<br>frog<br>raven<br>damage |  
-| bip_39_word_new_br7 | trouble<br>misery<br>life<br>frog<br>raven<br>damage<br>peasant |  
-| bip_39_word_new_br8 | trouble<br>misery<br>life<br>frog<br>raven<br>damage<br>peasant<br>concert |  
-| bip_39_word_new_br9 | trouble<br>misery<br>life<br>frog<br>raven<br>damage<br>peasant<br>concert<br>rent |  
-| bip_39_word_new_line1 | trouble |  
-| bip_39_word_new_line10 | trouble
+| bip_39_word_new_br_1 | trouble |  
+| bip_39_word_new_br_10 | trouble<br>misery<br>life<br>frog<br>raven<br>damage<br>peasant<br>concert<br>rent<br>base |  
+| bip_39_word_new_br_11 | trouble<br>misery<br>life<br>frog<br>raven<br>damage<br>peasant<br>concert<br>rent<br>base<br>security |  
+| bip_39_word_new_br_12 | trouble<br>misery<br>life<br>frog<br>raven<br>damage<br>peasant<br>concert<br>rent<br>base<br>security<br>aim |  
+| bip_39_word_new_br_2 | trouble<br>misery |  
+| bip_39_word_new_br_3 | trouble<br>misery<br>life |  
+| bip_39_word_new_br_4 | trouble<br>misery<br>life<br>frog |  
+| bip_39_word_new_br_5 | trouble<br>misery<br>life<br>frog<br>raven |  
+| bip_39_word_new_br_6 | trouble<br>misery<br>life<br>frog<br>raven<br>damage |  
+| bip_39_word_new_br_7 | trouble<br>misery<br>life<br>frog<br>raven<br>damage<br>peasant |  
+| bip_39_word_new_br_8 | trouble<br>misery<br>life<br>frog<br>raven<br>damage<br>peasant<br>concert |  
+| bip_39_word_new_br_9 | trouble<br>misery<br>life<br>frog<br>raven<br>damage<br>peasant<br>concert<br>rent |  
+| bip_39_word_new_line_1 | trouble |  
+| bip_39_word_new_line_10 | trouble
 misery
 life
 frog
@@ -55,7 +55,7 @@ peasant
 concert
 rent
 base |  
-| bip_39_word_new_line11 | trouble
+| bip_39_word_new_line_11 | trouble
 misery
 life
 frog
@@ -66,7 +66,7 @@ concert
 rent
 base
 security |  
-| bip_39_word_new_line12 | trouble
+| bip_39_word_new_line_12 | trouble
 misery
 life
 frog
@@ -78,34 +78,34 @@ rent
 base
 security
 aim |  
-| bip_39_word_new_line2 | trouble
+| bip_39_word_new_line_2 | trouble
 misery |  
-| bip_39_word_new_line3 | trouble
+| bip_39_word_new_line_3 | trouble
 misery
 life |  
-| bip_39_word_new_line4 | trouble
+| bip_39_word_new_line_4 | trouble
 misery
 life
 frog |  
-| bip_39_word_new_line5 | trouble
+| bip_39_word_new_line_5 | trouble
 misery
 life
 frog
 raven |  
-| bip_39_word_new_line6 | trouble
+| bip_39_word_new_line_6 | trouble
 misery
 life
 frog
 raven
 damage |  
-| bip_39_word_new_line7 | trouble
+| bip_39_word_new_line_7 | trouble
 misery
 life
 frog
 raven
 damage
 peasant |  
-| bip_39_word_new_line8 | trouble
+| bip_39_word_new_line_8 | trouble
 misery
 life
 frog
@@ -113,7 +113,7 @@ raven
 damage
 peasant
 concert |  
-| bip_39_word_new_line9 | trouble
+| bip_39_word_new_line_9 | trouble
 misery
 life
 frog

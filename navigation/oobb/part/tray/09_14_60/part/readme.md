@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | convince |  
-| bip_39_word_new_br10 | convince<br>solar<br>crater<br>miss<br>noodle<br>range<br>spawn<br>hen<br>refuse<br>joy |  
-| bip_39_word_new_br11 | convince<br>solar<br>crater<br>miss<br>noodle<br>range<br>spawn<br>hen<br>refuse<br>joy<br>innocent |  
-| bip_39_word_new_br12 | convince<br>solar<br>crater<br>miss<br>noodle<br>range<br>spawn<br>hen<br>refuse<br>joy<br>innocent<br>action |  
-| bip_39_word_new_br2 | convince<br>solar |  
-| bip_39_word_new_br3 | convince<br>solar<br>crater |  
-| bip_39_word_new_br4 | convince<br>solar<br>crater<br>miss |  
-| bip_39_word_new_br5 | convince<br>solar<br>crater<br>miss<br>noodle |  
-| bip_39_word_new_br6 | convince<br>solar<br>crater<br>miss<br>noodle<br>range |  
-| bip_39_word_new_br7 | convince<br>solar<br>crater<br>miss<br>noodle<br>range<br>spawn |  
-| bip_39_word_new_br8 | convince<br>solar<br>crater<br>miss<br>noodle<br>range<br>spawn<br>hen |  
-| bip_39_word_new_br9 | convince<br>solar<br>crater<br>miss<br>noodle<br>range<br>spawn<br>hen<br>refuse |  
-| bip_39_word_new_line1 | convince |  
-| bip_39_word_new_line10 | convince
+| bip_39_word_new_br_1 | convince |  
+| bip_39_word_new_br_10 | convince<br>solar<br>crater<br>miss<br>noodle<br>range<br>spawn<br>hen<br>refuse<br>joy |  
+| bip_39_word_new_br_11 | convince<br>solar<br>crater<br>miss<br>noodle<br>range<br>spawn<br>hen<br>refuse<br>joy<br>innocent |  
+| bip_39_word_new_br_12 | convince<br>solar<br>crater<br>miss<br>noodle<br>range<br>spawn<br>hen<br>refuse<br>joy<br>innocent<br>action |  
+| bip_39_word_new_br_2 | convince<br>solar |  
+| bip_39_word_new_br_3 | convince<br>solar<br>crater |  
+| bip_39_word_new_br_4 | convince<br>solar<br>crater<br>miss |  
+| bip_39_word_new_br_5 | convince<br>solar<br>crater<br>miss<br>noodle |  
+| bip_39_word_new_br_6 | convince<br>solar<br>crater<br>miss<br>noodle<br>range |  
+| bip_39_word_new_br_7 | convince<br>solar<br>crater<br>miss<br>noodle<br>range<br>spawn |  
+| bip_39_word_new_br_8 | convince<br>solar<br>crater<br>miss<br>noodle<br>range<br>spawn<br>hen |  
+| bip_39_word_new_br_9 | convince<br>solar<br>crater<br>miss<br>noodle<br>range<br>spawn<br>hen<br>refuse |  
+| bip_39_word_new_line_1 | convince |  
+| bip_39_word_new_line_10 | convince
 solar
 crater
 miss
@@ -55,7 +55,7 @@ spawn
 hen
 refuse
 joy |  
-| bip_39_word_new_line11 | convince
+| bip_39_word_new_line_11 | convince
 solar
 crater
 miss
@@ -66,7 +66,7 @@ hen
 refuse
 joy
 innocent |  
-| bip_39_word_new_line12 | convince
+| bip_39_word_new_line_12 | convince
 solar
 crater
 miss
@@ -78,34 +78,34 @@ refuse
 joy
 innocent
 action |  
-| bip_39_word_new_line2 | convince
+| bip_39_word_new_line_2 | convince
 solar |  
-| bip_39_word_new_line3 | convince
+| bip_39_word_new_line_3 | convince
 solar
 crater |  
-| bip_39_word_new_line4 | convince
+| bip_39_word_new_line_4 | convince
 solar
 crater
 miss |  
-| bip_39_word_new_line5 | convince
+| bip_39_word_new_line_5 | convince
 solar
 crater
 miss
 noodle |  
-| bip_39_word_new_line6 | convince
+| bip_39_word_new_line_6 | convince
 solar
 crater
 miss
 noodle
 range |  
-| bip_39_word_new_line7 | convince
+| bip_39_word_new_line_7 | convince
 solar
 crater
 miss
 noodle
 range
 spawn |  
-| bip_39_word_new_line8 | convince
+| bip_39_word_new_line_8 | convince
 solar
 crater
 miss
@@ -113,7 +113,7 @@ noodle
 range
 spawn
 hen |  
-| bip_39_word_new_line9 | convince
+| bip_39_word_new_line_9 | convince
 solar
 crater
 miss

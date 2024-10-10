@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | remember |  
-| bip_39_word_new_br10 | remember<br>shock<br>rain<br>elephant<br>sock<br>remind<br>page<br>shock<br>tiger<br>cheap |  
-| bip_39_word_new_br11 | remember<br>shock<br>rain<br>elephant<br>sock<br>remind<br>page<br>shock<br>tiger<br>cheap<br>scrub |  
-| bip_39_word_new_br12 | remember<br>shock<br>rain<br>elephant<br>sock<br>remind<br>page<br>shock<br>tiger<br>cheap<br>scrub<br>autumn |  
-| bip_39_word_new_br2 | remember<br>shock |  
-| bip_39_word_new_br3 | remember<br>shock<br>rain |  
-| bip_39_word_new_br4 | remember<br>shock<br>rain<br>elephant |  
-| bip_39_word_new_br5 | remember<br>shock<br>rain<br>elephant<br>sock |  
-| bip_39_word_new_br6 | remember<br>shock<br>rain<br>elephant<br>sock<br>remind |  
-| bip_39_word_new_br7 | remember<br>shock<br>rain<br>elephant<br>sock<br>remind<br>page |  
-| bip_39_word_new_br8 | remember<br>shock<br>rain<br>elephant<br>sock<br>remind<br>page<br>shock |  
-| bip_39_word_new_br9 | remember<br>shock<br>rain<br>elephant<br>sock<br>remind<br>page<br>shock<br>tiger |  
-| bip_39_word_new_line1 | remember |  
-| bip_39_word_new_line10 | remember
+| bip_39_word_new_br_1 | remember |  
+| bip_39_word_new_br_10 | remember<br>shock<br>rain<br>elephant<br>sock<br>remind<br>page<br>shock<br>tiger<br>cheap |  
+| bip_39_word_new_br_11 | remember<br>shock<br>rain<br>elephant<br>sock<br>remind<br>page<br>shock<br>tiger<br>cheap<br>scrub |  
+| bip_39_word_new_br_12 | remember<br>shock<br>rain<br>elephant<br>sock<br>remind<br>page<br>shock<br>tiger<br>cheap<br>scrub<br>autumn |  
+| bip_39_word_new_br_2 | remember<br>shock |  
+| bip_39_word_new_br_3 | remember<br>shock<br>rain |  
+| bip_39_word_new_br_4 | remember<br>shock<br>rain<br>elephant |  
+| bip_39_word_new_br_5 | remember<br>shock<br>rain<br>elephant<br>sock |  
+| bip_39_word_new_br_6 | remember<br>shock<br>rain<br>elephant<br>sock<br>remind |  
+| bip_39_word_new_br_7 | remember<br>shock<br>rain<br>elephant<br>sock<br>remind<br>page |  
+| bip_39_word_new_br_8 | remember<br>shock<br>rain<br>elephant<br>sock<br>remind<br>page<br>shock |  
+| bip_39_word_new_br_9 | remember<br>shock<br>rain<br>elephant<br>sock<br>remind<br>page<br>shock<br>tiger |  
+| bip_39_word_new_line_1 | remember |  
+| bip_39_word_new_line_10 | remember
 shock
 rain
 elephant
@@ -55,7 +55,7 @@ page
 shock
 tiger
 cheap |  
-| bip_39_word_new_line11 | remember
+| bip_39_word_new_line_11 | remember
 shock
 rain
 elephant
@@ -66,7 +66,7 @@ shock
 tiger
 cheap
 scrub |  
-| bip_39_word_new_line12 | remember
+| bip_39_word_new_line_12 | remember
 shock
 rain
 elephant
@@ -78,34 +78,34 @@ tiger
 cheap
 scrub
 autumn |  
-| bip_39_word_new_line2 | remember
+| bip_39_word_new_line_2 | remember
 shock |  
-| bip_39_word_new_line3 | remember
+| bip_39_word_new_line_3 | remember
 shock
 rain |  
-| bip_39_word_new_line4 | remember
+| bip_39_word_new_line_4 | remember
 shock
 rain
 elephant |  
-| bip_39_word_new_line5 | remember
+| bip_39_word_new_line_5 | remember
 shock
 rain
 elephant
 sock |  
-| bip_39_word_new_line6 | remember
+| bip_39_word_new_line_6 | remember
 shock
 rain
 elephant
 sock
 remind |  
-| bip_39_word_new_line7 | remember
+| bip_39_word_new_line_7 | remember
 shock
 rain
 elephant
 sock
 remind
 page |  
-| bip_39_word_new_line8 | remember
+| bip_39_word_new_line_8 | remember
 shock
 rain
 elephant
@@ -113,7 +113,7 @@ sock
 remind
 page
 shock |  
-| bip_39_word_new_line9 | remember
+| bip_39_word_new_line_9 | remember
 shock
 rain
 elephant

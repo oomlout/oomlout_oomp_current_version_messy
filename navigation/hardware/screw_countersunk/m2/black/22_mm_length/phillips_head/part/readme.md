@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | risk |  
-| bip_39_word_new_br10 | risk<br>just<br>room<br>ignore<br>grid<br>angle<br>defense<br>street<br>void<br>author |  
-| bip_39_word_new_br11 | risk<br>just<br>room<br>ignore<br>grid<br>angle<br>defense<br>street<br>void<br>author<br>sock |  
-| bip_39_word_new_br12 | risk<br>just<br>room<br>ignore<br>grid<br>angle<br>defense<br>street<br>void<br>author<br>sock<br>aspect |  
-| bip_39_word_new_br2 | risk<br>just |  
-| bip_39_word_new_br3 | risk<br>just<br>room |  
-| bip_39_word_new_br4 | risk<br>just<br>room<br>ignore |  
-| bip_39_word_new_br5 | risk<br>just<br>room<br>ignore<br>grid |  
-| bip_39_word_new_br6 | risk<br>just<br>room<br>ignore<br>grid<br>angle |  
-| bip_39_word_new_br7 | risk<br>just<br>room<br>ignore<br>grid<br>angle<br>defense |  
-| bip_39_word_new_br8 | risk<br>just<br>room<br>ignore<br>grid<br>angle<br>defense<br>street |  
-| bip_39_word_new_br9 | risk<br>just<br>room<br>ignore<br>grid<br>angle<br>defense<br>street<br>void |  
-| bip_39_word_new_line1 | risk |  
-| bip_39_word_new_line10 | risk
+| bip_39_word_new_br_1 | risk |  
+| bip_39_word_new_br_10 | risk<br>just<br>room<br>ignore<br>grid<br>angle<br>defense<br>street<br>void<br>author |  
+| bip_39_word_new_br_11 | risk<br>just<br>room<br>ignore<br>grid<br>angle<br>defense<br>street<br>void<br>author<br>sock |  
+| bip_39_word_new_br_12 | risk<br>just<br>room<br>ignore<br>grid<br>angle<br>defense<br>street<br>void<br>author<br>sock<br>aspect |  
+| bip_39_word_new_br_2 | risk<br>just |  
+| bip_39_word_new_br_3 | risk<br>just<br>room |  
+| bip_39_word_new_br_4 | risk<br>just<br>room<br>ignore |  
+| bip_39_word_new_br_5 | risk<br>just<br>room<br>ignore<br>grid |  
+| bip_39_word_new_br_6 | risk<br>just<br>room<br>ignore<br>grid<br>angle |  
+| bip_39_word_new_br_7 | risk<br>just<br>room<br>ignore<br>grid<br>angle<br>defense |  
+| bip_39_word_new_br_8 | risk<br>just<br>room<br>ignore<br>grid<br>angle<br>defense<br>street |  
+| bip_39_word_new_br_9 | risk<br>just<br>room<br>ignore<br>grid<br>angle<br>defense<br>street<br>void |  
+| bip_39_word_new_line_1 | risk |  
+| bip_39_word_new_line_10 | risk
 just
 room
 ignore
@@ -55,7 +55,7 @@ defense
 street
 void
 author |  
-| bip_39_word_new_line11 | risk
+| bip_39_word_new_line_11 | risk
 just
 room
 ignore
@@ -66,7 +66,7 @@ street
 void
 author
 sock |  
-| bip_39_word_new_line12 | risk
+| bip_39_word_new_line_12 | risk
 just
 room
 ignore
@@ -78,34 +78,34 @@ void
 author
 sock
 aspect |  
-| bip_39_word_new_line2 | risk
+| bip_39_word_new_line_2 | risk
 just |  
-| bip_39_word_new_line3 | risk
+| bip_39_word_new_line_3 | risk
 just
 room |  
-| bip_39_word_new_line4 | risk
+| bip_39_word_new_line_4 | risk
 just
 room
 ignore |  
-| bip_39_word_new_line5 | risk
+| bip_39_word_new_line_5 | risk
 just
 room
 ignore
 grid |  
-| bip_39_word_new_line6 | risk
+| bip_39_word_new_line_6 | risk
 just
 room
 ignore
 grid
 angle |  
-| bip_39_word_new_line7 | risk
+| bip_39_word_new_line_7 | risk
 just
 room
 ignore
 grid
 angle
 defense |  
-| bip_39_word_new_line8 | risk
+| bip_39_word_new_line_8 | risk
 just
 room
 ignore
@@ -113,7 +113,7 @@ grid
 angle
 defense
 street |  
-| bip_39_word_new_line9 | risk
+| bip_39_word_new_line_9 | risk
 just
 room
 ignore

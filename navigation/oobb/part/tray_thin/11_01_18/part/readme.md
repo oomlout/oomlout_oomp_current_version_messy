@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | physical |  
-| bip_39_word_new_br10 | physical<br>bottom<br>spatial<br>rubber<br>expect<br>mosquito<br>camera<br>nominee<br>solution<br>health |  
-| bip_39_word_new_br11 | physical<br>bottom<br>spatial<br>rubber<br>expect<br>mosquito<br>camera<br>nominee<br>solution<br>health<br>trouble |  
-| bip_39_word_new_br12 | physical<br>bottom<br>spatial<br>rubber<br>expect<br>mosquito<br>camera<br>nominee<br>solution<br>health<br>trouble<br>audit |  
-| bip_39_word_new_br2 | physical<br>bottom |  
-| bip_39_word_new_br3 | physical<br>bottom<br>spatial |  
-| bip_39_word_new_br4 | physical<br>bottom<br>spatial<br>rubber |  
-| bip_39_word_new_br5 | physical<br>bottom<br>spatial<br>rubber<br>expect |  
-| bip_39_word_new_br6 | physical<br>bottom<br>spatial<br>rubber<br>expect<br>mosquito |  
-| bip_39_word_new_br7 | physical<br>bottom<br>spatial<br>rubber<br>expect<br>mosquito<br>camera |  
-| bip_39_word_new_br8 | physical<br>bottom<br>spatial<br>rubber<br>expect<br>mosquito<br>camera<br>nominee |  
-| bip_39_word_new_br9 | physical<br>bottom<br>spatial<br>rubber<br>expect<br>mosquito<br>camera<br>nominee<br>solution |  
-| bip_39_word_new_line1 | physical |  
-| bip_39_word_new_line10 | physical
+| bip_39_word_new_br_1 | physical |  
+| bip_39_word_new_br_10 | physical<br>bottom<br>spatial<br>rubber<br>expect<br>mosquito<br>camera<br>nominee<br>solution<br>health |  
+| bip_39_word_new_br_11 | physical<br>bottom<br>spatial<br>rubber<br>expect<br>mosquito<br>camera<br>nominee<br>solution<br>health<br>trouble |  
+| bip_39_word_new_br_12 | physical<br>bottom<br>spatial<br>rubber<br>expect<br>mosquito<br>camera<br>nominee<br>solution<br>health<br>trouble<br>audit |  
+| bip_39_word_new_br_2 | physical<br>bottom |  
+| bip_39_word_new_br_3 | physical<br>bottom<br>spatial |  
+| bip_39_word_new_br_4 | physical<br>bottom<br>spatial<br>rubber |  
+| bip_39_word_new_br_5 | physical<br>bottom<br>spatial<br>rubber<br>expect |  
+| bip_39_word_new_br_6 | physical<br>bottom<br>spatial<br>rubber<br>expect<br>mosquito |  
+| bip_39_word_new_br_7 | physical<br>bottom<br>spatial<br>rubber<br>expect<br>mosquito<br>camera |  
+| bip_39_word_new_br_8 | physical<br>bottom<br>spatial<br>rubber<br>expect<br>mosquito<br>camera<br>nominee |  
+| bip_39_word_new_br_9 | physical<br>bottom<br>spatial<br>rubber<br>expect<br>mosquito<br>camera<br>nominee<br>solution |  
+| bip_39_word_new_line_1 | physical |  
+| bip_39_word_new_line_10 | physical
 bottom
 spatial
 rubber
@@ -55,7 +55,7 @@ camera
 nominee
 solution
 health |  
-| bip_39_word_new_line11 | physical
+| bip_39_word_new_line_11 | physical
 bottom
 spatial
 rubber
@@ -66,7 +66,7 @@ nominee
 solution
 health
 trouble |  
-| bip_39_word_new_line12 | physical
+| bip_39_word_new_line_12 | physical
 bottom
 spatial
 rubber
@@ -78,34 +78,34 @@ solution
 health
 trouble
 audit |  
-| bip_39_word_new_line2 | physical
+| bip_39_word_new_line_2 | physical
 bottom |  
-| bip_39_word_new_line3 | physical
+| bip_39_word_new_line_3 | physical
 bottom
 spatial |  
-| bip_39_word_new_line4 | physical
+| bip_39_word_new_line_4 | physical
 bottom
 spatial
 rubber |  
-| bip_39_word_new_line5 | physical
+| bip_39_word_new_line_5 | physical
 bottom
 spatial
 rubber
 expect |  
-| bip_39_word_new_line6 | physical
+| bip_39_word_new_line_6 | physical
 bottom
 spatial
 rubber
 expect
 mosquito |  
-| bip_39_word_new_line7 | physical
+| bip_39_word_new_line_7 | physical
 bottom
 spatial
 rubber
 expect
 mosquito
 camera |  
-| bip_39_word_new_line8 | physical
+| bip_39_word_new_line_8 | physical
 bottom
 spatial
 rubber
@@ -113,7 +113,7 @@ expect
 mosquito
 camera
 nominee |  
-| bip_39_word_new_line9 | physical
+| bip_39_word_new_line_9 | physical
 bottom
 spatial
 rubber

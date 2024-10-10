@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | diamond |  
-| bip_39_word_new_br10 | diamond<br>enter<br>borrow<br>swamp<br>host<br>stable<br>second<br>various<br>ostrich<br>patient |  
-| bip_39_word_new_br11 | diamond<br>enter<br>borrow<br>swamp<br>host<br>stable<br>second<br>various<br>ostrich<br>patient<br>actual |  
-| bip_39_word_new_br12 | diamond<br>enter<br>borrow<br>swamp<br>host<br>stable<br>second<br>various<br>ostrich<br>patient<br>actual<br>alert |  
-| bip_39_word_new_br2 | diamond<br>enter |  
-| bip_39_word_new_br3 | diamond<br>enter<br>borrow |  
-| bip_39_word_new_br4 | diamond<br>enter<br>borrow<br>swamp |  
-| bip_39_word_new_br5 | diamond<br>enter<br>borrow<br>swamp<br>host |  
-| bip_39_word_new_br6 | diamond<br>enter<br>borrow<br>swamp<br>host<br>stable |  
-| bip_39_word_new_br7 | diamond<br>enter<br>borrow<br>swamp<br>host<br>stable<br>second |  
-| bip_39_word_new_br8 | diamond<br>enter<br>borrow<br>swamp<br>host<br>stable<br>second<br>various |  
-| bip_39_word_new_br9 | diamond<br>enter<br>borrow<br>swamp<br>host<br>stable<br>second<br>various<br>ostrich |  
-| bip_39_word_new_line1 | diamond |  
-| bip_39_word_new_line10 | diamond
+| bip_39_word_new_br_1 | diamond |  
+| bip_39_word_new_br_10 | diamond<br>enter<br>borrow<br>swamp<br>host<br>stable<br>second<br>various<br>ostrich<br>patient |  
+| bip_39_word_new_br_11 | diamond<br>enter<br>borrow<br>swamp<br>host<br>stable<br>second<br>various<br>ostrich<br>patient<br>actual |  
+| bip_39_word_new_br_12 | diamond<br>enter<br>borrow<br>swamp<br>host<br>stable<br>second<br>various<br>ostrich<br>patient<br>actual<br>alert |  
+| bip_39_word_new_br_2 | diamond<br>enter |  
+| bip_39_word_new_br_3 | diamond<br>enter<br>borrow |  
+| bip_39_word_new_br_4 | diamond<br>enter<br>borrow<br>swamp |  
+| bip_39_word_new_br_5 | diamond<br>enter<br>borrow<br>swamp<br>host |  
+| bip_39_word_new_br_6 | diamond<br>enter<br>borrow<br>swamp<br>host<br>stable |  
+| bip_39_word_new_br_7 | diamond<br>enter<br>borrow<br>swamp<br>host<br>stable<br>second |  
+| bip_39_word_new_br_8 | diamond<br>enter<br>borrow<br>swamp<br>host<br>stable<br>second<br>various |  
+| bip_39_word_new_br_9 | diamond<br>enter<br>borrow<br>swamp<br>host<br>stable<br>second<br>various<br>ostrich |  
+| bip_39_word_new_line_1 | diamond |  
+| bip_39_word_new_line_10 | diamond
 enter
 borrow
 swamp
@@ -55,7 +55,7 @@ second
 various
 ostrich
 patient |  
-| bip_39_word_new_line11 | diamond
+| bip_39_word_new_line_11 | diamond
 enter
 borrow
 swamp
@@ -66,7 +66,7 @@ various
 ostrich
 patient
 actual |  
-| bip_39_word_new_line12 | diamond
+| bip_39_word_new_line_12 | diamond
 enter
 borrow
 swamp
@@ -78,34 +78,34 @@ ostrich
 patient
 actual
 alert |  
-| bip_39_word_new_line2 | diamond
+| bip_39_word_new_line_2 | diamond
 enter |  
-| bip_39_word_new_line3 | diamond
+| bip_39_word_new_line_3 | diamond
 enter
 borrow |  
-| bip_39_word_new_line4 | diamond
+| bip_39_word_new_line_4 | diamond
 enter
 borrow
 swamp |  
-| bip_39_word_new_line5 | diamond
+| bip_39_word_new_line_5 | diamond
 enter
 borrow
 swamp
 host |  
-| bip_39_word_new_line6 | diamond
+| bip_39_word_new_line_6 | diamond
 enter
 borrow
 swamp
 host
 stable |  
-| bip_39_word_new_line7 | diamond
+| bip_39_word_new_line_7 | diamond
 enter
 borrow
 swamp
 host
 stable
 second |  
-| bip_39_word_new_line8 | diamond
+| bip_39_word_new_line_8 | diamond
 enter
 borrow
 swamp
@@ -113,7 +113,7 @@ host
 stable
 second
 various |  
-| bip_39_word_new_line9 | diamond
+| bip_39_word_new_line_9 | diamond
 enter
 borrow
 swamp

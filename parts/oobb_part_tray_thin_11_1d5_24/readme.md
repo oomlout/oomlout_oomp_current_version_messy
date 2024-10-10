@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | logic |  
-| bip_39_word_new_br10 | logic<br>hover<br>swarm<br>wage<br>case<br>skirt<br>common<br>pepper<br>inflict<br>virus |  
-| bip_39_word_new_br11 | logic<br>hover<br>swarm<br>wage<br>case<br>skirt<br>common<br>pepper<br>inflict<br>virus<br>duck |  
-| bip_39_word_new_br12 | logic<br>hover<br>swarm<br>wage<br>case<br>skirt<br>common<br>pepper<br>inflict<br>virus<br>duck<br>anchor |  
-| bip_39_word_new_br2 | logic<br>hover |  
-| bip_39_word_new_br3 | logic<br>hover<br>swarm |  
-| bip_39_word_new_br4 | logic<br>hover<br>swarm<br>wage |  
-| bip_39_word_new_br5 | logic<br>hover<br>swarm<br>wage<br>case |  
-| bip_39_word_new_br6 | logic<br>hover<br>swarm<br>wage<br>case<br>skirt |  
-| bip_39_word_new_br7 | logic<br>hover<br>swarm<br>wage<br>case<br>skirt<br>common |  
-| bip_39_word_new_br8 | logic<br>hover<br>swarm<br>wage<br>case<br>skirt<br>common<br>pepper |  
-| bip_39_word_new_br9 | logic<br>hover<br>swarm<br>wage<br>case<br>skirt<br>common<br>pepper<br>inflict |  
-| bip_39_word_new_line1 | logic |  
-| bip_39_word_new_line10 | logic
+| bip_39_word_new_br_1 | logic |  
+| bip_39_word_new_br_10 | logic<br>hover<br>swarm<br>wage<br>case<br>skirt<br>common<br>pepper<br>inflict<br>virus |  
+| bip_39_word_new_br_11 | logic<br>hover<br>swarm<br>wage<br>case<br>skirt<br>common<br>pepper<br>inflict<br>virus<br>duck |  
+| bip_39_word_new_br_12 | logic<br>hover<br>swarm<br>wage<br>case<br>skirt<br>common<br>pepper<br>inflict<br>virus<br>duck<br>anchor |  
+| bip_39_word_new_br_2 | logic<br>hover |  
+| bip_39_word_new_br_3 | logic<br>hover<br>swarm |  
+| bip_39_word_new_br_4 | logic<br>hover<br>swarm<br>wage |  
+| bip_39_word_new_br_5 | logic<br>hover<br>swarm<br>wage<br>case |  
+| bip_39_word_new_br_6 | logic<br>hover<br>swarm<br>wage<br>case<br>skirt |  
+| bip_39_word_new_br_7 | logic<br>hover<br>swarm<br>wage<br>case<br>skirt<br>common |  
+| bip_39_word_new_br_8 | logic<br>hover<br>swarm<br>wage<br>case<br>skirt<br>common<br>pepper |  
+| bip_39_word_new_br_9 | logic<br>hover<br>swarm<br>wage<br>case<br>skirt<br>common<br>pepper<br>inflict |  
+| bip_39_word_new_line_1 | logic |  
+| bip_39_word_new_line_10 | logic
 hover
 swarm
 wage
@@ -55,7 +55,7 @@ common
 pepper
 inflict
 virus |  
-| bip_39_word_new_line11 | logic
+| bip_39_word_new_line_11 | logic
 hover
 swarm
 wage
@@ -66,7 +66,7 @@ pepper
 inflict
 virus
 duck |  
-| bip_39_word_new_line12 | logic
+| bip_39_word_new_line_12 | logic
 hover
 swarm
 wage
@@ -78,34 +78,34 @@ inflict
 virus
 duck
 anchor |  
-| bip_39_word_new_line2 | logic
+| bip_39_word_new_line_2 | logic
 hover |  
-| bip_39_word_new_line3 | logic
+| bip_39_word_new_line_3 | logic
 hover
 swarm |  
-| bip_39_word_new_line4 | logic
+| bip_39_word_new_line_4 | logic
 hover
 swarm
 wage |  
-| bip_39_word_new_line5 | logic
+| bip_39_word_new_line_5 | logic
 hover
 swarm
 wage
 case |  
-| bip_39_word_new_line6 | logic
+| bip_39_word_new_line_6 | logic
 hover
 swarm
 wage
 case
 skirt |  
-| bip_39_word_new_line7 | logic
+| bip_39_word_new_line_7 | logic
 hover
 swarm
 wage
 case
 skirt
 common |  
-| bip_39_word_new_line8 | logic
+| bip_39_word_new_line_8 | logic
 hover
 swarm
 wage
@@ -113,7 +113,7 @@ case
 skirt
 common
 pepper |  
-| bip_39_word_new_line9 | logic
+| bip_39_word_new_line_9 | logic
 hover
 swarm
 wage

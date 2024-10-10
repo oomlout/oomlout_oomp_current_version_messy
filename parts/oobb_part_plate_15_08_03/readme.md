@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | decorate |  
-| bip_39_word_new_br10 | decorate<br>layer<br>fog<br>glimpse<br>enemy<br>gaze<br>walk<br>tattoo<br>drift<br>crisp |  
-| bip_39_word_new_br11 | decorate<br>layer<br>fog<br>glimpse<br>enemy<br>gaze<br>walk<br>tattoo<br>drift<br>crisp<br>squeeze |  
-| bip_39_word_new_br12 | decorate<br>layer<br>fog<br>glimpse<br>enemy<br>gaze<br>walk<br>tattoo<br>drift<br>crisp<br>squeeze<br>abstract |  
-| bip_39_word_new_br2 | decorate<br>layer |  
-| bip_39_word_new_br3 | decorate<br>layer<br>fog |  
-| bip_39_word_new_br4 | decorate<br>layer<br>fog<br>glimpse |  
-| bip_39_word_new_br5 | decorate<br>layer<br>fog<br>glimpse<br>enemy |  
-| bip_39_word_new_br6 | decorate<br>layer<br>fog<br>glimpse<br>enemy<br>gaze |  
-| bip_39_word_new_br7 | decorate<br>layer<br>fog<br>glimpse<br>enemy<br>gaze<br>walk |  
-| bip_39_word_new_br8 | decorate<br>layer<br>fog<br>glimpse<br>enemy<br>gaze<br>walk<br>tattoo |  
-| bip_39_word_new_br9 | decorate<br>layer<br>fog<br>glimpse<br>enemy<br>gaze<br>walk<br>tattoo<br>drift |  
-| bip_39_word_new_line1 | decorate |  
-| bip_39_word_new_line10 | decorate
+| bip_39_word_new_br_1 | decorate |  
+| bip_39_word_new_br_10 | decorate<br>layer<br>fog<br>glimpse<br>enemy<br>gaze<br>walk<br>tattoo<br>drift<br>crisp |  
+| bip_39_word_new_br_11 | decorate<br>layer<br>fog<br>glimpse<br>enemy<br>gaze<br>walk<br>tattoo<br>drift<br>crisp<br>squeeze |  
+| bip_39_word_new_br_12 | decorate<br>layer<br>fog<br>glimpse<br>enemy<br>gaze<br>walk<br>tattoo<br>drift<br>crisp<br>squeeze<br>abstract |  
+| bip_39_word_new_br_2 | decorate<br>layer |  
+| bip_39_word_new_br_3 | decorate<br>layer<br>fog |  
+| bip_39_word_new_br_4 | decorate<br>layer<br>fog<br>glimpse |  
+| bip_39_word_new_br_5 | decorate<br>layer<br>fog<br>glimpse<br>enemy |  
+| bip_39_word_new_br_6 | decorate<br>layer<br>fog<br>glimpse<br>enemy<br>gaze |  
+| bip_39_word_new_br_7 | decorate<br>layer<br>fog<br>glimpse<br>enemy<br>gaze<br>walk |  
+| bip_39_word_new_br_8 | decorate<br>layer<br>fog<br>glimpse<br>enemy<br>gaze<br>walk<br>tattoo |  
+| bip_39_word_new_br_9 | decorate<br>layer<br>fog<br>glimpse<br>enemy<br>gaze<br>walk<br>tattoo<br>drift |  
+| bip_39_word_new_line_1 | decorate |  
+| bip_39_word_new_line_10 | decorate
 layer
 fog
 glimpse
@@ -55,7 +55,7 @@ walk
 tattoo
 drift
 crisp |  
-| bip_39_word_new_line11 | decorate
+| bip_39_word_new_line_11 | decorate
 layer
 fog
 glimpse
@@ -66,7 +66,7 @@ tattoo
 drift
 crisp
 squeeze |  
-| bip_39_word_new_line12 | decorate
+| bip_39_word_new_line_12 | decorate
 layer
 fog
 glimpse
@@ -78,34 +78,34 @@ drift
 crisp
 squeeze
 abstract |  
-| bip_39_word_new_line2 | decorate
+| bip_39_word_new_line_2 | decorate
 layer |  
-| bip_39_word_new_line3 | decorate
+| bip_39_word_new_line_3 | decorate
 layer
 fog |  
-| bip_39_word_new_line4 | decorate
+| bip_39_word_new_line_4 | decorate
 layer
 fog
 glimpse |  
-| bip_39_word_new_line5 | decorate
+| bip_39_word_new_line_5 | decorate
 layer
 fog
 glimpse
 enemy |  
-| bip_39_word_new_line6 | decorate
+| bip_39_word_new_line_6 | decorate
 layer
 fog
 glimpse
 enemy
 gaze |  
-| bip_39_word_new_line7 | decorate
+| bip_39_word_new_line_7 | decorate
 layer
 fog
 glimpse
 enemy
 gaze
 walk |  
-| bip_39_word_new_line8 | decorate
+| bip_39_word_new_line_8 | decorate
 layer
 fog
 glimpse
@@ -113,7 +113,7 @@ enemy
 gaze
 walk
 tattoo |  
-| bip_39_word_new_line9 | decorate
+| bip_39_word_new_line_9 | decorate
 layer
 fog
 glimpse

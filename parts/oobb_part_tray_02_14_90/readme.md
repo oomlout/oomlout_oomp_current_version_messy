@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pull |  
-| bip_39_word_new_br10 | pull<br>nominee<br>gesture<br>spot<br>impose<br>city<br>sentence<br>sausage<br>rally<br>ask |  
-| bip_39_word_new_br11 | pull<br>nominee<br>gesture<br>spot<br>impose<br>city<br>sentence<br>sausage<br>rally<br>ask<br>hobby |  
-| bip_39_word_new_br12 | pull<br>nominee<br>gesture<br>spot<br>impose<br>city<br>sentence<br>sausage<br>rally<br>ask<br>hobby<br>animal |  
-| bip_39_word_new_br2 | pull<br>nominee |  
-| bip_39_word_new_br3 | pull<br>nominee<br>gesture |  
-| bip_39_word_new_br4 | pull<br>nominee<br>gesture<br>spot |  
-| bip_39_word_new_br5 | pull<br>nominee<br>gesture<br>spot<br>impose |  
-| bip_39_word_new_br6 | pull<br>nominee<br>gesture<br>spot<br>impose<br>city |  
-| bip_39_word_new_br7 | pull<br>nominee<br>gesture<br>spot<br>impose<br>city<br>sentence |  
-| bip_39_word_new_br8 | pull<br>nominee<br>gesture<br>spot<br>impose<br>city<br>sentence<br>sausage |  
-| bip_39_word_new_br9 | pull<br>nominee<br>gesture<br>spot<br>impose<br>city<br>sentence<br>sausage<br>rally |  
-| bip_39_word_new_line1 | pull |  
-| bip_39_word_new_line10 | pull
+| bip_39_word_new_br_1 | pull |  
+| bip_39_word_new_br_10 | pull<br>nominee<br>gesture<br>spot<br>impose<br>city<br>sentence<br>sausage<br>rally<br>ask |  
+| bip_39_word_new_br_11 | pull<br>nominee<br>gesture<br>spot<br>impose<br>city<br>sentence<br>sausage<br>rally<br>ask<br>hobby |  
+| bip_39_word_new_br_12 | pull<br>nominee<br>gesture<br>spot<br>impose<br>city<br>sentence<br>sausage<br>rally<br>ask<br>hobby<br>animal |  
+| bip_39_word_new_br_2 | pull<br>nominee |  
+| bip_39_word_new_br_3 | pull<br>nominee<br>gesture |  
+| bip_39_word_new_br_4 | pull<br>nominee<br>gesture<br>spot |  
+| bip_39_word_new_br_5 | pull<br>nominee<br>gesture<br>spot<br>impose |  
+| bip_39_word_new_br_6 | pull<br>nominee<br>gesture<br>spot<br>impose<br>city |  
+| bip_39_word_new_br_7 | pull<br>nominee<br>gesture<br>spot<br>impose<br>city<br>sentence |  
+| bip_39_word_new_br_8 | pull<br>nominee<br>gesture<br>spot<br>impose<br>city<br>sentence<br>sausage |  
+| bip_39_word_new_br_9 | pull<br>nominee<br>gesture<br>spot<br>impose<br>city<br>sentence<br>sausage<br>rally |  
+| bip_39_word_new_line_1 | pull |  
+| bip_39_word_new_line_10 | pull
 nominee
 gesture
 spot
@@ -55,7 +55,7 @@ sentence
 sausage
 rally
 ask |  
-| bip_39_word_new_line11 | pull
+| bip_39_word_new_line_11 | pull
 nominee
 gesture
 spot
@@ -66,7 +66,7 @@ sausage
 rally
 ask
 hobby |  
-| bip_39_word_new_line12 | pull
+| bip_39_word_new_line_12 | pull
 nominee
 gesture
 spot
@@ -78,34 +78,34 @@ rally
 ask
 hobby
 animal |  
-| bip_39_word_new_line2 | pull
+| bip_39_word_new_line_2 | pull
 nominee |  
-| bip_39_word_new_line3 | pull
+| bip_39_word_new_line_3 | pull
 nominee
 gesture |  
-| bip_39_word_new_line4 | pull
+| bip_39_word_new_line_4 | pull
 nominee
 gesture
 spot |  
-| bip_39_word_new_line5 | pull
+| bip_39_word_new_line_5 | pull
 nominee
 gesture
 spot
 impose |  
-| bip_39_word_new_line6 | pull
+| bip_39_word_new_line_6 | pull
 nominee
 gesture
 spot
 impose
 city |  
-| bip_39_word_new_line7 | pull
+| bip_39_word_new_line_7 | pull
 nominee
 gesture
 spot
 impose
 city
 sentence |  
-| bip_39_word_new_line8 | pull
+| bip_39_word_new_line_8 | pull
 nominee
 gesture
 spot
@@ -113,7 +113,7 @@ impose
 city
 sentence
 sausage |  
-| bip_39_word_new_line9 | pull
+| bip_39_word_new_line_9 | pull
 nominee
 gesture
 spot

@@ -1,17 +1,17 @@
-bip_39_word_new_br1: vapor
-bip_39_word_new_br10: vapor<br>humble<br>obtain<br>silk<br>reopen<br>puzzle<br>runway<br>sentence<br>regret<br>unfold
-bip_39_word_new_br11: vapor<br>humble<br>obtain<br>silk<br>reopen<br>puzzle<br>runway<br>sentence<br>regret<br>unfold<br>decorate
-bip_39_word_new_br12: vapor<br>humble<br>obtain<br>silk<br>reopen<br>puzzle<br>runway<br>sentence<br>regret<br>unfold<br>decorate<br>already
-bip_39_word_new_br2: vapor<br>humble
-bip_39_word_new_br3: vapor<br>humble<br>obtain
-bip_39_word_new_br4: vapor<br>humble<br>obtain<br>silk
-bip_39_word_new_br5: vapor<br>humble<br>obtain<br>silk<br>reopen
-bip_39_word_new_br6: vapor<br>humble<br>obtain<br>silk<br>reopen<br>puzzle
-bip_39_word_new_br7: vapor<br>humble<br>obtain<br>silk<br>reopen<br>puzzle<br>runway
-bip_39_word_new_br8: vapor<br>humble<br>obtain<br>silk<br>reopen<br>puzzle<br>runway<br>sentence
-bip_39_word_new_br9: vapor<br>humble<br>obtain<br>silk<br>reopen<br>puzzle<br>runway<br>sentence<br>regret
-bip_39_word_new_line1: vapor
-bip_39_word_new_line10: 'vapor
+bip_39_word_new_br_1: vapor
+bip_39_word_new_br_10: vapor<br>humble<br>obtain<br>silk<br>reopen<br>puzzle<br>runway<br>sentence<br>regret<br>unfold
+bip_39_word_new_br_11: vapor<br>humble<br>obtain<br>silk<br>reopen<br>puzzle<br>runway<br>sentence<br>regret<br>unfold<br>decorate
+bip_39_word_new_br_12: vapor<br>humble<br>obtain<br>silk<br>reopen<br>puzzle<br>runway<br>sentence<br>regret<br>unfold<br>decorate<br>already
+bip_39_word_new_br_2: vapor<br>humble
+bip_39_word_new_br_3: vapor<br>humble<br>obtain
+bip_39_word_new_br_4: vapor<br>humble<br>obtain<br>silk
+bip_39_word_new_br_5: vapor<br>humble<br>obtain<br>silk<br>reopen
+bip_39_word_new_br_6: vapor<br>humble<br>obtain<br>silk<br>reopen<br>puzzle
+bip_39_word_new_br_7: vapor<br>humble<br>obtain<br>silk<br>reopen<br>puzzle<br>runway
+bip_39_word_new_br_8: vapor<br>humble<br>obtain<br>silk<br>reopen<br>puzzle<br>runway<br>sentence
+bip_39_word_new_br_9: vapor<br>humble<br>obtain<br>silk<br>reopen<br>puzzle<br>runway<br>sentence<br>regret
+bip_39_word_new_line_1: vapor
+bip_39_word_new_line_10: 'vapor
 
   humble
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'vapor
   regret
 
   unfold'
-bip_39_word_new_line11: 'vapor
+bip_39_word_new_line_11: 'vapor
 
   humble
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'vapor
   unfold
 
   decorate'
-bip_39_word_new_line12: 'vapor
+bip_39_word_new_line_12: 'vapor
 
   humble
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'vapor
   decorate
 
   already'
-bip_39_word_new_line2: 'vapor
+bip_39_word_new_line_2: 'vapor
 
   humble'
-bip_39_word_new_line3: 'vapor
+bip_39_word_new_line_3: 'vapor
 
   humble
 
   obtain'
-bip_39_word_new_line4: 'vapor
+bip_39_word_new_line_4: 'vapor
 
   humble
 
   obtain
 
   silk'
-bip_39_word_new_line5: 'vapor
+bip_39_word_new_line_5: 'vapor
 
   humble
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'vapor
   silk
 
   reopen'
-bip_39_word_new_line6: 'vapor
+bip_39_word_new_line_6: 'vapor
 
   humble
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'vapor
   reopen
 
   puzzle'
-bip_39_word_new_line7: 'vapor
+bip_39_word_new_line_7: 'vapor
 
   humble
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'vapor
   puzzle
 
   runway'
-bip_39_word_new_line8: 'vapor
+bip_39_word_new_line_8: 'vapor
 
   humble
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'vapor
   runway
 
   sentence'
-bip_39_word_new_line9: 'vapor
+bip_39_word_new_line_9: 'vapor
 
   humble
 

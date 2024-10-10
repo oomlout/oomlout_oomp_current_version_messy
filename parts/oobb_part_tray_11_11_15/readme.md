@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | census |  
-| bip_39_word_new_br10 | census<br>question<br>enough<br>lizard<br>number<br>barely<br>indicate<br>speak<br>chaos<br>ribbon |  
-| bip_39_word_new_br11 | census<br>question<br>enough<br>lizard<br>number<br>barely<br>indicate<br>speak<br>chaos<br>ribbon<br>odor |  
-| bip_39_word_new_br12 | census<br>question<br>enough<br>lizard<br>number<br>barely<br>indicate<br>speak<br>chaos<br>ribbon<br>odor<br>approve |  
-| bip_39_word_new_br2 | census<br>question |  
-| bip_39_word_new_br3 | census<br>question<br>enough |  
-| bip_39_word_new_br4 | census<br>question<br>enough<br>lizard |  
-| bip_39_word_new_br5 | census<br>question<br>enough<br>lizard<br>number |  
-| bip_39_word_new_br6 | census<br>question<br>enough<br>lizard<br>number<br>barely |  
-| bip_39_word_new_br7 | census<br>question<br>enough<br>lizard<br>number<br>barely<br>indicate |  
-| bip_39_word_new_br8 | census<br>question<br>enough<br>lizard<br>number<br>barely<br>indicate<br>speak |  
-| bip_39_word_new_br9 | census<br>question<br>enough<br>lizard<br>number<br>barely<br>indicate<br>speak<br>chaos |  
-| bip_39_word_new_line1 | census |  
-| bip_39_word_new_line10 | census
+| bip_39_word_new_br_1 | census |  
+| bip_39_word_new_br_10 | census<br>question<br>enough<br>lizard<br>number<br>barely<br>indicate<br>speak<br>chaos<br>ribbon |  
+| bip_39_word_new_br_11 | census<br>question<br>enough<br>lizard<br>number<br>barely<br>indicate<br>speak<br>chaos<br>ribbon<br>odor |  
+| bip_39_word_new_br_12 | census<br>question<br>enough<br>lizard<br>number<br>barely<br>indicate<br>speak<br>chaos<br>ribbon<br>odor<br>approve |  
+| bip_39_word_new_br_2 | census<br>question |  
+| bip_39_word_new_br_3 | census<br>question<br>enough |  
+| bip_39_word_new_br_4 | census<br>question<br>enough<br>lizard |  
+| bip_39_word_new_br_5 | census<br>question<br>enough<br>lizard<br>number |  
+| bip_39_word_new_br_6 | census<br>question<br>enough<br>lizard<br>number<br>barely |  
+| bip_39_word_new_br_7 | census<br>question<br>enough<br>lizard<br>number<br>barely<br>indicate |  
+| bip_39_word_new_br_8 | census<br>question<br>enough<br>lizard<br>number<br>barely<br>indicate<br>speak |  
+| bip_39_word_new_br_9 | census<br>question<br>enough<br>lizard<br>number<br>barely<br>indicate<br>speak<br>chaos |  
+| bip_39_word_new_line_1 | census |  
+| bip_39_word_new_line_10 | census
 question
 enough
 lizard
@@ -55,7 +55,7 @@ indicate
 speak
 chaos
 ribbon |  
-| bip_39_word_new_line11 | census
+| bip_39_word_new_line_11 | census
 question
 enough
 lizard
@@ -66,7 +66,7 @@ speak
 chaos
 ribbon
 odor |  
-| bip_39_word_new_line12 | census
+| bip_39_word_new_line_12 | census
 question
 enough
 lizard
@@ -78,34 +78,34 @@ chaos
 ribbon
 odor
 approve |  
-| bip_39_word_new_line2 | census
+| bip_39_word_new_line_2 | census
 question |  
-| bip_39_word_new_line3 | census
+| bip_39_word_new_line_3 | census
 question
 enough |  
-| bip_39_word_new_line4 | census
+| bip_39_word_new_line_4 | census
 question
 enough
 lizard |  
-| bip_39_word_new_line5 | census
+| bip_39_word_new_line_5 | census
 question
 enough
 lizard
 number |  
-| bip_39_word_new_line6 | census
+| bip_39_word_new_line_6 | census
 question
 enough
 lizard
 number
 barely |  
-| bip_39_word_new_line7 | census
+| bip_39_word_new_line_7 | census
 question
 enough
 lizard
 number
 barely
 indicate |  
-| bip_39_word_new_line8 | census
+| bip_39_word_new_line_8 | census
 question
 enough
 lizard
@@ -113,7 +113,7 @@ number
 barely
 indicate
 speak |  
-| bip_39_word_new_line9 | census
+| bip_39_word_new_line_9 | census
 question
 enough
 lizard

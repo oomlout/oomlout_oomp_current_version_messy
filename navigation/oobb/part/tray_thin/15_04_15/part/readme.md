@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wish |  
-| bip_39_word_new_br10 | wish<br>worry<br>surge<br>kidney<br>prize<br>crane<br>trap<br>dragon<br>since<br>fancy |  
-| bip_39_word_new_br11 | wish<br>worry<br>surge<br>kidney<br>prize<br>crane<br>trap<br>dragon<br>since<br>fancy<br>daughter |  
-| bip_39_word_new_br12 | wish<br>worry<br>surge<br>kidney<br>prize<br>crane<br>trap<br>dragon<br>since<br>fancy<br>daughter<br>access |  
-| bip_39_word_new_br2 | wish<br>worry |  
-| bip_39_word_new_br3 | wish<br>worry<br>surge |  
-| bip_39_word_new_br4 | wish<br>worry<br>surge<br>kidney |  
-| bip_39_word_new_br5 | wish<br>worry<br>surge<br>kidney<br>prize |  
-| bip_39_word_new_br6 | wish<br>worry<br>surge<br>kidney<br>prize<br>crane |  
-| bip_39_word_new_br7 | wish<br>worry<br>surge<br>kidney<br>prize<br>crane<br>trap |  
-| bip_39_word_new_br8 | wish<br>worry<br>surge<br>kidney<br>prize<br>crane<br>trap<br>dragon |  
-| bip_39_word_new_br9 | wish<br>worry<br>surge<br>kidney<br>prize<br>crane<br>trap<br>dragon<br>since |  
-| bip_39_word_new_line1 | wish |  
-| bip_39_word_new_line10 | wish
+| bip_39_word_new_br_1 | wish |  
+| bip_39_word_new_br_10 | wish<br>worry<br>surge<br>kidney<br>prize<br>crane<br>trap<br>dragon<br>since<br>fancy |  
+| bip_39_word_new_br_11 | wish<br>worry<br>surge<br>kidney<br>prize<br>crane<br>trap<br>dragon<br>since<br>fancy<br>daughter |  
+| bip_39_word_new_br_12 | wish<br>worry<br>surge<br>kidney<br>prize<br>crane<br>trap<br>dragon<br>since<br>fancy<br>daughter<br>access |  
+| bip_39_word_new_br_2 | wish<br>worry |  
+| bip_39_word_new_br_3 | wish<br>worry<br>surge |  
+| bip_39_word_new_br_4 | wish<br>worry<br>surge<br>kidney |  
+| bip_39_word_new_br_5 | wish<br>worry<br>surge<br>kidney<br>prize |  
+| bip_39_word_new_br_6 | wish<br>worry<br>surge<br>kidney<br>prize<br>crane |  
+| bip_39_word_new_br_7 | wish<br>worry<br>surge<br>kidney<br>prize<br>crane<br>trap |  
+| bip_39_word_new_br_8 | wish<br>worry<br>surge<br>kidney<br>prize<br>crane<br>trap<br>dragon |  
+| bip_39_word_new_br_9 | wish<br>worry<br>surge<br>kidney<br>prize<br>crane<br>trap<br>dragon<br>since |  
+| bip_39_word_new_line_1 | wish |  
+| bip_39_word_new_line_10 | wish
 worry
 surge
 kidney
@@ -55,7 +55,7 @@ trap
 dragon
 since
 fancy |  
-| bip_39_word_new_line11 | wish
+| bip_39_word_new_line_11 | wish
 worry
 surge
 kidney
@@ -66,7 +66,7 @@ dragon
 since
 fancy
 daughter |  
-| bip_39_word_new_line12 | wish
+| bip_39_word_new_line_12 | wish
 worry
 surge
 kidney
@@ -78,34 +78,34 @@ since
 fancy
 daughter
 access |  
-| bip_39_word_new_line2 | wish
+| bip_39_word_new_line_2 | wish
 worry |  
-| bip_39_word_new_line3 | wish
+| bip_39_word_new_line_3 | wish
 worry
 surge |  
-| bip_39_word_new_line4 | wish
+| bip_39_word_new_line_4 | wish
 worry
 surge
 kidney |  
-| bip_39_word_new_line5 | wish
+| bip_39_word_new_line_5 | wish
 worry
 surge
 kidney
 prize |  
-| bip_39_word_new_line6 | wish
+| bip_39_word_new_line_6 | wish
 worry
 surge
 kidney
 prize
 crane |  
-| bip_39_word_new_line7 | wish
+| bip_39_word_new_line_7 | wish
 worry
 surge
 kidney
 prize
 crane
 trap |  
-| bip_39_word_new_line8 | wish
+| bip_39_word_new_line_8 | wish
 worry
 surge
 kidney
@@ -113,7 +113,7 @@ prize
 crane
 trap
 dragon |  
-| bip_39_word_new_line9 | wish
+| bip_39_word_new_line_9 | wish
 worry
 surge
 kidney

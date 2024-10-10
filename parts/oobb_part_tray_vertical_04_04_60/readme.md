@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | trade |  
-| bip_39_word_new_br10 | trade<br>junior<br>elephant<br>lake<br>fade<br>satoshi<br>race<br>witness<br>curve<br>arrive |  
-| bip_39_word_new_br11 | trade<br>junior<br>elephant<br>lake<br>fade<br>satoshi<br>race<br>witness<br>curve<br>arrive<br>demise |  
-| bip_39_word_new_br12 | trade<br>junior<br>elephant<br>lake<br>fade<br>satoshi<br>race<br>witness<br>curve<br>arrive<br>demise<br>advance |  
-| bip_39_word_new_br2 | trade<br>junior |  
-| bip_39_word_new_br3 | trade<br>junior<br>elephant |  
-| bip_39_word_new_br4 | trade<br>junior<br>elephant<br>lake |  
-| bip_39_word_new_br5 | trade<br>junior<br>elephant<br>lake<br>fade |  
-| bip_39_word_new_br6 | trade<br>junior<br>elephant<br>lake<br>fade<br>satoshi |  
-| bip_39_word_new_br7 | trade<br>junior<br>elephant<br>lake<br>fade<br>satoshi<br>race |  
-| bip_39_word_new_br8 | trade<br>junior<br>elephant<br>lake<br>fade<br>satoshi<br>race<br>witness |  
-| bip_39_word_new_br9 | trade<br>junior<br>elephant<br>lake<br>fade<br>satoshi<br>race<br>witness<br>curve |  
-| bip_39_word_new_line1 | trade |  
-| bip_39_word_new_line10 | trade
+| bip_39_word_new_br_1 | trade |  
+| bip_39_word_new_br_10 | trade<br>junior<br>elephant<br>lake<br>fade<br>satoshi<br>race<br>witness<br>curve<br>arrive |  
+| bip_39_word_new_br_11 | trade<br>junior<br>elephant<br>lake<br>fade<br>satoshi<br>race<br>witness<br>curve<br>arrive<br>demise |  
+| bip_39_word_new_br_12 | trade<br>junior<br>elephant<br>lake<br>fade<br>satoshi<br>race<br>witness<br>curve<br>arrive<br>demise<br>advance |  
+| bip_39_word_new_br_2 | trade<br>junior |  
+| bip_39_word_new_br_3 | trade<br>junior<br>elephant |  
+| bip_39_word_new_br_4 | trade<br>junior<br>elephant<br>lake |  
+| bip_39_word_new_br_5 | trade<br>junior<br>elephant<br>lake<br>fade |  
+| bip_39_word_new_br_6 | trade<br>junior<br>elephant<br>lake<br>fade<br>satoshi |  
+| bip_39_word_new_br_7 | trade<br>junior<br>elephant<br>lake<br>fade<br>satoshi<br>race |  
+| bip_39_word_new_br_8 | trade<br>junior<br>elephant<br>lake<br>fade<br>satoshi<br>race<br>witness |  
+| bip_39_word_new_br_9 | trade<br>junior<br>elephant<br>lake<br>fade<br>satoshi<br>race<br>witness<br>curve |  
+| bip_39_word_new_line_1 | trade |  
+| bip_39_word_new_line_10 | trade
 junior
 elephant
 lake
@@ -55,7 +55,7 @@ race
 witness
 curve
 arrive |  
-| bip_39_word_new_line11 | trade
+| bip_39_word_new_line_11 | trade
 junior
 elephant
 lake
@@ -66,7 +66,7 @@ witness
 curve
 arrive
 demise |  
-| bip_39_word_new_line12 | trade
+| bip_39_word_new_line_12 | trade
 junior
 elephant
 lake
@@ -78,34 +78,34 @@ curve
 arrive
 demise
 advance |  
-| bip_39_word_new_line2 | trade
+| bip_39_word_new_line_2 | trade
 junior |  
-| bip_39_word_new_line3 | trade
+| bip_39_word_new_line_3 | trade
 junior
 elephant |  
-| bip_39_word_new_line4 | trade
+| bip_39_word_new_line_4 | trade
 junior
 elephant
 lake |  
-| bip_39_word_new_line5 | trade
+| bip_39_word_new_line_5 | trade
 junior
 elephant
 lake
 fade |  
-| bip_39_word_new_line6 | trade
+| bip_39_word_new_line_6 | trade
 junior
 elephant
 lake
 fade
 satoshi |  
-| bip_39_word_new_line7 | trade
+| bip_39_word_new_line_7 | trade
 junior
 elephant
 lake
 fade
 satoshi
 race |  
-| bip_39_word_new_line8 | trade
+| bip_39_word_new_line_8 | trade
 junior
 elephant
 lake
@@ -113,7 +113,7 @@ fade
 satoshi
 race
 witness |  
-| bip_39_word_new_line9 | trade
+| bip_39_word_new_line_9 | trade
 junior
 elephant
 lake

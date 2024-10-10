@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cross |  
-| bip_39_word_new_br10 | cross<br>bird<br>slab<br>spike<br>nest<br>latin<br>picnic<br>truck<br>sea<br>focus |  
-| bip_39_word_new_br11 | cross<br>bird<br>slab<br>spike<br>nest<br>latin<br>picnic<br>truck<br>sea<br>focus<br>erupt |  
-| bip_39_word_new_br12 | cross<br>bird<br>slab<br>spike<br>nest<br>latin<br>picnic<br>truck<br>sea<br>focus<br>erupt<br>announce |  
-| bip_39_word_new_br2 | cross<br>bird |  
-| bip_39_word_new_br3 | cross<br>bird<br>slab |  
-| bip_39_word_new_br4 | cross<br>bird<br>slab<br>spike |  
-| bip_39_word_new_br5 | cross<br>bird<br>slab<br>spike<br>nest |  
-| bip_39_word_new_br6 | cross<br>bird<br>slab<br>spike<br>nest<br>latin |  
-| bip_39_word_new_br7 | cross<br>bird<br>slab<br>spike<br>nest<br>latin<br>picnic |  
-| bip_39_word_new_br8 | cross<br>bird<br>slab<br>spike<br>nest<br>latin<br>picnic<br>truck |  
-| bip_39_word_new_br9 | cross<br>bird<br>slab<br>spike<br>nest<br>latin<br>picnic<br>truck<br>sea |  
-| bip_39_word_new_line1 | cross |  
-| bip_39_word_new_line10 | cross
+| bip_39_word_new_br_1 | cross |  
+| bip_39_word_new_br_10 | cross<br>bird<br>slab<br>spike<br>nest<br>latin<br>picnic<br>truck<br>sea<br>focus |  
+| bip_39_word_new_br_11 | cross<br>bird<br>slab<br>spike<br>nest<br>latin<br>picnic<br>truck<br>sea<br>focus<br>erupt |  
+| bip_39_word_new_br_12 | cross<br>bird<br>slab<br>spike<br>nest<br>latin<br>picnic<br>truck<br>sea<br>focus<br>erupt<br>announce |  
+| bip_39_word_new_br_2 | cross<br>bird |  
+| bip_39_word_new_br_3 | cross<br>bird<br>slab |  
+| bip_39_word_new_br_4 | cross<br>bird<br>slab<br>spike |  
+| bip_39_word_new_br_5 | cross<br>bird<br>slab<br>spike<br>nest |  
+| bip_39_word_new_br_6 | cross<br>bird<br>slab<br>spike<br>nest<br>latin |  
+| bip_39_word_new_br_7 | cross<br>bird<br>slab<br>spike<br>nest<br>latin<br>picnic |  
+| bip_39_word_new_br_8 | cross<br>bird<br>slab<br>spike<br>nest<br>latin<br>picnic<br>truck |  
+| bip_39_word_new_br_9 | cross<br>bird<br>slab<br>spike<br>nest<br>latin<br>picnic<br>truck<br>sea |  
+| bip_39_word_new_line_1 | cross |  
+| bip_39_word_new_line_10 | cross
 bird
 slab
 spike
@@ -55,7 +55,7 @@ picnic
 truck
 sea
 focus |  
-| bip_39_word_new_line11 | cross
+| bip_39_word_new_line_11 | cross
 bird
 slab
 spike
@@ -66,7 +66,7 @@ truck
 sea
 focus
 erupt |  
-| bip_39_word_new_line12 | cross
+| bip_39_word_new_line_12 | cross
 bird
 slab
 spike
@@ -78,34 +78,34 @@ sea
 focus
 erupt
 announce |  
-| bip_39_word_new_line2 | cross
+| bip_39_word_new_line_2 | cross
 bird |  
-| bip_39_word_new_line3 | cross
+| bip_39_word_new_line_3 | cross
 bird
 slab |  
-| bip_39_word_new_line4 | cross
+| bip_39_word_new_line_4 | cross
 bird
 slab
 spike |  
-| bip_39_word_new_line5 | cross
+| bip_39_word_new_line_5 | cross
 bird
 slab
 spike
 nest |  
-| bip_39_word_new_line6 | cross
+| bip_39_word_new_line_6 | cross
 bird
 slab
 spike
 nest
 latin |  
-| bip_39_word_new_line7 | cross
+| bip_39_word_new_line_7 | cross
 bird
 slab
 spike
 nest
 latin
 picnic |  
-| bip_39_word_new_line8 | cross
+| bip_39_word_new_line_8 | cross
 bird
 slab
 spike
@@ -113,7 +113,7 @@ nest
 latin
 picnic
 truck |  
-| bip_39_word_new_line9 | cross
+| bip_39_word_new_line_9 | cross
 bird
 slab
 spike

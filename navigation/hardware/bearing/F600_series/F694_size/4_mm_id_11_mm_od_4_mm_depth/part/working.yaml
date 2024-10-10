@@ -1,17 +1,17 @@
-bip_39_word_new_br1: ill
-bip_39_word_new_br10: ill<br>rescue<br>ride<br>food<br>domain<br>burden<br>uncle<br>glove<br>cup<br>glad
-bip_39_word_new_br11: ill<br>rescue<br>ride<br>food<br>domain<br>burden<br>uncle<br>glove<br>cup<br>glad<br>latin
-bip_39_word_new_br12: ill<br>rescue<br>ride<br>food<br>domain<br>burden<br>uncle<br>glove<br>cup<br>glad<br>latin<br>another
-bip_39_word_new_br2: ill<br>rescue
-bip_39_word_new_br3: ill<br>rescue<br>ride
-bip_39_word_new_br4: ill<br>rescue<br>ride<br>food
-bip_39_word_new_br5: ill<br>rescue<br>ride<br>food<br>domain
-bip_39_word_new_br6: ill<br>rescue<br>ride<br>food<br>domain<br>burden
-bip_39_word_new_br7: ill<br>rescue<br>ride<br>food<br>domain<br>burden<br>uncle
-bip_39_word_new_br8: ill<br>rescue<br>ride<br>food<br>domain<br>burden<br>uncle<br>glove
-bip_39_word_new_br9: ill<br>rescue<br>ride<br>food<br>domain<br>burden<br>uncle<br>glove<br>cup
-bip_39_word_new_line1: ill
-bip_39_word_new_line10: 'ill
+bip_39_word_new_br_1: ill
+bip_39_word_new_br_10: ill<br>rescue<br>ride<br>food<br>domain<br>burden<br>uncle<br>glove<br>cup<br>glad
+bip_39_word_new_br_11: ill<br>rescue<br>ride<br>food<br>domain<br>burden<br>uncle<br>glove<br>cup<br>glad<br>latin
+bip_39_word_new_br_12: ill<br>rescue<br>ride<br>food<br>domain<br>burden<br>uncle<br>glove<br>cup<br>glad<br>latin<br>another
+bip_39_word_new_br_2: ill<br>rescue
+bip_39_word_new_br_3: ill<br>rescue<br>ride
+bip_39_word_new_br_4: ill<br>rescue<br>ride<br>food
+bip_39_word_new_br_5: ill<br>rescue<br>ride<br>food<br>domain
+bip_39_word_new_br_6: ill<br>rescue<br>ride<br>food<br>domain<br>burden
+bip_39_word_new_br_7: ill<br>rescue<br>ride<br>food<br>domain<br>burden<br>uncle
+bip_39_word_new_br_8: ill<br>rescue<br>ride<br>food<br>domain<br>burden<br>uncle<br>glove
+bip_39_word_new_br_9: ill<br>rescue<br>ride<br>food<br>domain<br>burden<br>uncle<br>glove<br>cup
+bip_39_word_new_line_1: ill
+bip_39_word_new_line_10: 'ill
 
   rescue
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'ill
   cup
 
   glad'
-bip_39_word_new_line11: 'ill
+bip_39_word_new_line_11: 'ill
 
   rescue
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'ill
   glad
 
   latin'
-bip_39_word_new_line12: 'ill
+bip_39_word_new_line_12: 'ill
 
   rescue
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'ill
   latin
 
   another'
-bip_39_word_new_line2: 'ill
+bip_39_word_new_line_2: 'ill
 
   rescue'
-bip_39_word_new_line3: 'ill
+bip_39_word_new_line_3: 'ill
 
   rescue
 
   ride'
-bip_39_word_new_line4: 'ill
+bip_39_word_new_line_4: 'ill
 
   rescue
 
   ride
 
   food'
-bip_39_word_new_line5: 'ill
+bip_39_word_new_line_5: 'ill
 
   rescue
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'ill
   food
 
   domain'
-bip_39_word_new_line6: 'ill
+bip_39_word_new_line_6: 'ill
 
   rescue
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'ill
   domain
 
   burden'
-bip_39_word_new_line7: 'ill
+bip_39_word_new_line_7: 'ill
 
   rescue
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'ill
   burden
 
   uncle'
-bip_39_word_new_line8: 'ill
+bip_39_word_new_line_8: 'ill
 
   rescue
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'ill
   uncle
 
   glove'
-bip_39_word_new_line9: 'ill
+bip_39_word_new_line_9: 'ill
 
   rescue
 

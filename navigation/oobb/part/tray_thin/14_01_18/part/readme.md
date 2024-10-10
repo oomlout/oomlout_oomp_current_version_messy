@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ten |  
-| bip_39_word_new_br10 | ten<br>weather<br>task<br>snap<br>modify<br>caught<br>canvas<br>gun<br>uncle<br>pond |  
-| bip_39_word_new_br11 | ten<br>weather<br>task<br>snap<br>modify<br>caught<br>canvas<br>gun<br>uncle<br>pond<br>art |  
-| bip_39_word_new_br12 | ten<br>weather<br>task<br>snap<br>modify<br>caught<br>canvas<br>gun<br>uncle<br>pond<br>art<br>arm |  
-| bip_39_word_new_br2 | ten<br>weather |  
-| bip_39_word_new_br3 | ten<br>weather<br>task |  
-| bip_39_word_new_br4 | ten<br>weather<br>task<br>snap |  
-| bip_39_word_new_br5 | ten<br>weather<br>task<br>snap<br>modify |  
-| bip_39_word_new_br6 | ten<br>weather<br>task<br>snap<br>modify<br>caught |  
-| bip_39_word_new_br7 | ten<br>weather<br>task<br>snap<br>modify<br>caught<br>canvas |  
-| bip_39_word_new_br8 | ten<br>weather<br>task<br>snap<br>modify<br>caught<br>canvas<br>gun |  
-| bip_39_word_new_br9 | ten<br>weather<br>task<br>snap<br>modify<br>caught<br>canvas<br>gun<br>uncle |  
-| bip_39_word_new_line1 | ten |  
-| bip_39_word_new_line10 | ten
+| bip_39_word_new_br_1 | ten |  
+| bip_39_word_new_br_10 | ten<br>weather<br>task<br>snap<br>modify<br>caught<br>canvas<br>gun<br>uncle<br>pond |  
+| bip_39_word_new_br_11 | ten<br>weather<br>task<br>snap<br>modify<br>caught<br>canvas<br>gun<br>uncle<br>pond<br>art |  
+| bip_39_word_new_br_12 | ten<br>weather<br>task<br>snap<br>modify<br>caught<br>canvas<br>gun<br>uncle<br>pond<br>art<br>arm |  
+| bip_39_word_new_br_2 | ten<br>weather |  
+| bip_39_word_new_br_3 | ten<br>weather<br>task |  
+| bip_39_word_new_br_4 | ten<br>weather<br>task<br>snap |  
+| bip_39_word_new_br_5 | ten<br>weather<br>task<br>snap<br>modify |  
+| bip_39_word_new_br_6 | ten<br>weather<br>task<br>snap<br>modify<br>caught |  
+| bip_39_word_new_br_7 | ten<br>weather<br>task<br>snap<br>modify<br>caught<br>canvas |  
+| bip_39_word_new_br_8 | ten<br>weather<br>task<br>snap<br>modify<br>caught<br>canvas<br>gun |  
+| bip_39_word_new_br_9 | ten<br>weather<br>task<br>snap<br>modify<br>caught<br>canvas<br>gun<br>uncle |  
+| bip_39_word_new_line_1 | ten |  
+| bip_39_word_new_line_10 | ten
 weather
 task
 snap
@@ -55,7 +55,7 @@ canvas
 gun
 uncle
 pond |  
-| bip_39_word_new_line11 | ten
+| bip_39_word_new_line_11 | ten
 weather
 task
 snap
@@ -66,7 +66,7 @@ gun
 uncle
 pond
 art |  
-| bip_39_word_new_line12 | ten
+| bip_39_word_new_line_12 | ten
 weather
 task
 snap
@@ -78,34 +78,34 @@ uncle
 pond
 art
 arm |  
-| bip_39_word_new_line2 | ten
+| bip_39_word_new_line_2 | ten
 weather |  
-| bip_39_word_new_line3 | ten
+| bip_39_word_new_line_3 | ten
 weather
 task |  
-| bip_39_word_new_line4 | ten
+| bip_39_word_new_line_4 | ten
 weather
 task
 snap |  
-| bip_39_word_new_line5 | ten
+| bip_39_word_new_line_5 | ten
 weather
 task
 snap
 modify |  
-| bip_39_word_new_line6 | ten
+| bip_39_word_new_line_6 | ten
 weather
 task
 snap
 modify
 caught |  
-| bip_39_word_new_line7 | ten
+| bip_39_word_new_line_7 | ten
 weather
 task
 snap
 modify
 caught
 canvas |  
-| bip_39_word_new_line8 | ten
+| bip_39_word_new_line_8 | ten
 weather
 task
 snap
@@ -113,7 +113,7 @@ modify
 caught
 canvas
 gun |  
-| bip_39_word_new_line9 | ten
+| bip_39_word_new_line_9 | ten
 weather
 task
 snap

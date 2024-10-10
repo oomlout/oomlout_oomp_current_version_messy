@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | luxury |  
-| bip_39_word_new_br10 | luxury<br>trigger<br>ethics<br>brass<br>price<br>enact<br>pool<br>dinosaur<br>wife<br>glad |  
-| bip_39_word_new_br11 | luxury<br>trigger<br>ethics<br>brass<br>price<br>enact<br>pool<br>dinosaur<br>wife<br>glad<br>recycle |  
-| bip_39_word_new_br12 | luxury<br>trigger<br>ethics<br>brass<br>price<br>enact<br>pool<br>dinosaur<br>wife<br>glad<br>recycle<br>aisle |  
-| bip_39_word_new_br2 | luxury<br>trigger |  
-| bip_39_word_new_br3 | luxury<br>trigger<br>ethics |  
-| bip_39_word_new_br4 | luxury<br>trigger<br>ethics<br>brass |  
-| bip_39_word_new_br5 | luxury<br>trigger<br>ethics<br>brass<br>price |  
-| bip_39_word_new_br6 | luxury<br>trigger<br>ethics<br>brass<br>price<br>enact |  
-| bip_39_word_new_br7 | luxury<br>trigger<br>ethics<br>brass<br>price<br>enact<br>pool |  
-| bip_39_word_new_br8 | luxury<br>trigger<br>ethics<br>brass<br>price<br>enact<br>pool<br>dinosaur |  
-| bip_39_word_new_br9 | luxury<br>trigger<br>ethics<br>brass<br>price<br>enact<br>pool<br>dinosaur<br>wife |  
-| bip_39_word_new_line1 | luxury |  
-| bip_39_word_new_line10 | luxury
+| bip_39_word_new_br_1 | luxury |  
+| bip_39_word_new_br_10 | luxury<br>trigger<br>ethics<br>brass<br>price<br>enact<br>pool<br>dinosaur<br>wife<br>glad |  
+| bip_39_word_new_br_11 | luxury<br>trigger<br>ethics<br>brass<br>price<br>enact<br>pool<br>dinosaur<br>wife<br>glad<br>recycle |  
+| bip_39_word_new_br_12 | luxury<br>trigger<br>ethics<br>brass<br>price<br>enact<br>pool<br>dinosaur<br>wife<br>glad<br>recycle<br>aisle |  
+| bip_39_word_new_br_2 | luxury<br>trigger |  
+| bip_39_word_new_br_3 | luxury<br>trigger<br>ethics |  
+| bip_39_word_new_br_4 | luxury<br>trigger<br>ethics<br>brass |  
+| bip_39_word_new_br_5 | luxury<br>trigger<br>ethics<br>brass<br>price |  
+| bip_39_word_new_br_6 | luxury<br>trigger<br>ethics<br>brass<br>price<br>enact |  
+| bip_39_word_new_br_7 | luxury<br>trigger<br>ethics<br>brass<br>price<br>enact<br>pool |  
+| bip_39_word_new_br_8 | luxury<br>trigger<br>ethics<br>brass<br>price<br>enact<br>pool<br>dinosaur |  
+| bip_39_word_new_br_9 | luxury<br>trigger<br>ethics<br>brass<br>price<br>enact<br>pool<br>dinosaur<br>wife |  
+| bip_39_word_new_line_1 | luxury |  
+| bip_39_word_new_line_10 | luxury
 trigger
 ethics
 brass
@@ -55,7 +55,7 @@ pool
 dinosaur
 wife
 glad |  
-| bip_39_word_new_line11 | luxury
+| bip_39_word_new_line_11 | luxury
 trigger
 ethics
 brass
@@ -66,7 +66,7 @@ dinosaur
 wife
 glad
 recycle |  
-| bip_39_word_new_line12 | luxury
+| bip_39_word_new_line_12 | luxury
 trigger
 ethics
 brass
@@ -78,34 +78,34 @@ wife
 glad
 recycle
 aisle |  
-| bip_39_word_new_line2 | luxury
+| bip_39_word_new_line_2 | luxury
 trigger |  
-| bip_39_word_new_line3 | luxury
+| bip_39_word_new_line_3 | luxury
 trigger
 ethics |  
-| bip_39_word_new_line4 | luxury
+| bip_39_word_new_line_4 | luxury
 trigger
 ethics
 brass |  
-| bip_39_word_new_line5 | luxury
+| bip_39_word_new_line_5 | luxury
 trigger
 ethics
 brass
 price |  
-| bip_39_word_new_line6 | luxury
+| bip_39_word_new_line_6 | luxury
 trigger
 ethics
 brass
 price
 enact |  
-| bip_39_word_new_line7 | luxury
+| bip_39_word_new_line_7 | luxury
 trigger
 ethics
 brass
 price
 enact
 pool |  
-| bip_39_word_new_line8 | luxury
+| bip_39_word_new_line_8 | luxury
 trigger
 ethics
 brass
@@ -113,7 +113,7 @@ price
 enact
 pool
 dinosaur |  
-| bip_39_word_new_line9 | luxury
+| bip_39_word_new_line_9 | luxury
 trigger
 ethics
 brass

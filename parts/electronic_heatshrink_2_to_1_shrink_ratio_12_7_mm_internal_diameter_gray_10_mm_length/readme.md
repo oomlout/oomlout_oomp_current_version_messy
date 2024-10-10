@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | discover |  
-| bip_39_word_new_br10 | discover<br>cost<br>feed<br>bid<br>honey<br>token<br>brain<br>uncle<br>sniff<br>you |  
-| bip_39_word_new_br11 | discover<br>cost<br>feed<br>bid<br>honey<br>token<br>brain<br>uncle<br>sniff<br>you<br>predict |  
-| bip_39_word_new_br12 | discover<br>cost<br>feed<br>bid<br>honey<br>token<br>brain<br>uncle<br>sniff<br>you<br>predict<br>amount |  
-| bip_39_word_new_br2 | discover<br>cost |  
-| bip_39_word_new_br3 | discover<br>cost<br>feed |  
-| bip_39_word_new_br4 | discover<br>cost<br>feed<br>bid |  
-| bip_39_word_new_br5 | discover<br>cost<br>feed<br>bid<br>honey |  
-| bip_39_word_new_br6 | discover<br>cost<br>feed<br>bid<br>honey<br>token |  
-| bip_39_word_new_br7 | discover<br>cost<br>feed<br>bid<br>honey<br>token<br>brain |  
-| bip_39_word_new_br8 | discover<br>cost<br>feed<br>bid<br>honey<br>token<br>brain<br>uncle |  
-| bip_39_word_new_br9 | discover<br>cost<br>feed<br>bid<br>honey<br>token<br>brain<br>uncle<br>sniff |  
-| bip_39_word_new_line1 | discover |  
-| bip_39_word_new_line10 | discover
+| bip_39_word_new_br_1 | discover |  
+| bip_39_word_new_br_10 | discover<br>cost<br>feed<br>bid<br>honey<br>token<br>brain<br>uncle<br>sniff<br>you |  
+| bip_39_word_new_br_11 | discover<br>cost<br>feed<br>bid<br>honey<br>token<br>brain<br>uncle<br>sniff<br>you<br>predict |  
+| bip_39_word_new_br_12 | discover<br>cost<br>feed<br>bid<br>honey<br>token<br>brain<br>uncle<br>sniff<br>you<br>predict<br>amount |  
+| bip_39_word_new_br_2 | discover<br>cost |  
+| bip_39_word_new_br_3 | discover<br>cost<br>feed |  
+| bip_39_word_new_br_4 | discover<br>cost<br>feed<br>bid |  
+| bip_39_word_new_br_5 | discover<br>cost<br>feed<br>bid<br>honey |  
+| bip_39_word_new_br_6 | discover<br>cost<br>feed<br>bid<br>honey<br>token |  
+| bip_39_word_new_br_7 | discover<br>cost<br>feed<br>bid<br>honey<br>token<br>brain |  
+| bip_39_word_new_br_8 | discover<br>cost<br>feed<br>bid<br>honey<br>token<br>brain<br>uncle |  
+| bip_39_word_new_br_9 | discover<br>cost<br>feed<br>bid<br>honey<br>token<br>brain<br>uncle<br>sniff |  
+| bip_39_word_new_line_1 | discover |  
+| bip_39_word_new_line_10 | discover
 cost
 feed
 bid
@@ -55,7 +55,7 @@ brain
 uncle
 sniff
 you |  
-| bip_39_word_new_line11 | discover
+| bip_39_word_new_line_11 | discover
 cost
 feed
 bid
@@ -66,7 +66,7 @@ uncle
 sniff
 you
 predict |  
-| bip_39_word_new_line12 | discover
+| bip_39_word_new_line_12 | discover
 cost
 feed
 bid
@@ -78,34 +78,34 @@ sniff
 you
 predict
 amount |  
-| bip_39_word_new_line2 | discover
+| bip_39_word_new_line_2 | discover
 cost |  
-| bip_39_word_new_line3 | discover
+| bip_39_word_new_line_3 | discover
 cost
 feed |  
-| bip_39_word_new_line4 | discover
+| bip_39_word_new_line_4 | discover
 cost
 feed
 bid |  
-| bip_39_word_new_line5 | discover
+| bip_39_word_new_line_5 | discover
 cost
 feed
 bid
 honey |  
-| bip_39_word_new_line6 | discover
+| bip_39_word_new_line_6 | discover
 cost
 feed
 bid
 honey
 token |  
-| bip_39_word_new_line7 | discover
+| bip_39_word_new_line_7 | discover
 cost
 feed
 bid
 honey
 token
 brain |  
-| bip_39_word_new_line8 | discover
+| bip_39_word_new_line_8 | discover
 cost
 feed
 bid
@@ -113,7 +113,7 @@ honey
 token
 brain
 uncle |  
-| bip_39_word_new_line9 | discover
+| bip_39_word_new_line_9 | discover
 cost
 feed
 bid

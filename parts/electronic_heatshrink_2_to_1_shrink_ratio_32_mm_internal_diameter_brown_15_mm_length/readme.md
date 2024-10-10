@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | april |  
-| bip_39_word_new_br10 | april<br>fatigue<br>group<br>crack<br>empty<br>annual<br>slim<br>fury<br>surge<br>infant |  
-| bip_39_word_new_br11 | april<br>fatigue<br>group<br>crack<br>empty<br>annual<br>slim<br>fury<br>surge<br>infant<br>lamp |  
-| bip_39_word_new_br12 | april<br>fatigue<br>group<br>crack<br>empty<br>annual<br>slim<br>fury<br>surge<br>infant<br>lamp<br>argue |  
-| bip_39_word_new_br2 | april<br>fatigue |  
-| bip_39_word_new_br3 | april<br>fatigue<br>group |  
-| bip_39_word_new_br4 | april<br>fatigue<br>group<br>crack |  
-| bip_39_word_new_br5 | april<br>fatigue<br>group<br>crack<br>empty |  
-| bip_39_word_new_br6 | april<br>fatigue<br>group<br>crack<br>empty<br>annual |  
-| bip_39_word_new_br7 | april<br>fatigue<br>group<br>crack<br>empty<br>annual<br>slim |  
-| bip_39_word_new_br8 | april<br>fatigue<br>group<br>crack<br>empty<br>annual<br>slim<br>fury |  
-| bip_39_word_new_br9 | april<br>fatigue<br>group<br>crack<br>empty<br>annual<br>slim<br>fury<br>surge |  
-| bip_39_word_new_line1 | april |  
-| bip_39_word_new_line10 | april
+| bip_39_word_new_br_1 | april |  
+| bip_39_word_new_br_10 | april<br>fatigue<br>group<br>crack<br>empty<br>annual<br>slim<br>fury<br>surge<br>infant |  
+| bip_39_word_new_br_11 | april<br>fatigue<br>group<br>crack<br>empty<br>annual<br>slim<br>fury<br>surge<br>infant<br>lamp |  
+| bip_39_word_new_br_12 | april<br>fatigue<br>group<br>crack<br>empty<br>annual<br>slim<br>fury<br>surge<br>infant<br>lamp<br>argue |  
+| bip_39_word_new_br_2 | april<br>fatigue |  
+| bip_39_word_new_br_3 | april<br>fatigue<br>group |  
+| bip_39_word_new_br_4 | april<br>fatigue<br>group<br>crack |  
+| bip_39_word_new_br_5 | april<br>fatigue<br>group<br>crack<br>empty |  
+| bip_39_word_new_br_6 | april<br>fatigue<br>group<br>crack<br>empty<br>annual |  
+| bip_39_word_new_br_7 | april<br>fatigue<br>group<br>crack<br>empty<br>annual<br>slim |  
+| bip_39_word_new_br_8 | april<br>fatigue<br>group<br>crack<br>empty<br>annual<br>slim<br>fury |  
+| bip_39_word_new_br_9 | april<br>fatigue<br>group<br>crack<br>empty<br>annual<br>slim<br>fury<br>surge |  
+| bip_39_word_new_line_1 | april |  
+| bip_39_word_new_line_10 | april
 fatigue
 group
 crack
@@ -55,7 +55,7 @@ slim
 fury
 surge
 infant |  
-| bip_39_word_new_line11 | april
+| bip_39_word_new_line_11 | april
 fatigue
 group
 crack
@@ -66,7 +66,7 @@ fury
 surge
 infant
 lamp |  
-| bip_39_word_new_line12 | april
+| bip_39_word_new_line_12 | april
 fatigue
 group
 crack
@@ -78,34 +78,34 @@ surge
 infant
 lamp
 argue |  
-| bip_39_word_new_line2 | april
+| bip_39_word_new_line_2 | april
 fatigue |  
-| bip_39_word_new_line3 | april
+| bip_39_word_new_line_3 | april
 fatigue
 group |  
-| bip_39_word_new_line4 | april
+| bip_39_word_new_line_4 | april
 fatigue
 group
 crack |  
-| bip_39_word_new_line5 | april
+| bip_39_word_new_line_5 | april
 fatigue
 group
 crack
 empty |  
-| bip_39_word_new_line6 | april
+| bip_39_word_new_line_6 | april
 fatigue
 group
 crack
 empty
 annual |  
-| bip_39_word_new_line7 | april
+| bip_39_word_new_line_7 | april
 fatigue
 group
 crack
 empty
 annual
 slim |  
-| bip_39_word_new_line8 | april
+| bip_39_word_new_line_8 | april
 fatigue
 group
 crack
@@ -113,7 +113,7 @@ empty
 annual
 slim
 fury |  
-| bip_39_word_new_line9 | april
+| bip_39_word_new_line_9 | april
 fatigue
 group
 crack

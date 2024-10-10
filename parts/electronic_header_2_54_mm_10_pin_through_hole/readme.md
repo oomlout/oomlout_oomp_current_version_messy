@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | intact |  
-| bip_39_word_new_br10 | intact<br>vendor<br>speed<br>maid<br>need<br>hello<br>industry<br>law<br>need<br>crater |  
-| bip_39_word_new_br11 | intact<br>vendor<br>speed<br>maid<br>need<br>hello<br>industry<br>law<br>need<br>crater<br>cube |  
-| bip_39_word_new_br12 | intact<br>vendor<br>speed<br>maid<br>need<br>hello<br>industry<br>law<br>need<br>crater<br>cube<br>auction |  
-| bip_39_word_new_br2 | intact<br>vendor |  
-| bip_39_word_new_br3 | intact<br>vendor<br>speed |  
-| bip_39_word_new_br4 | intact<br>vendor<br>speed<br>maid |  
-| bip_39_word_new_br5 | intact<br>vendor<br>speed<br>maid<br>need |  
-| bip_39_word_new_br6 | intact<br>vendor<br>speed<br>maid<br>need<br>hello |  
-| bip_39_word_new_br7 | intact<br>vendor<br>speed<br>maid<br>need<br>hello<br>industry |  
-| bip_39_word_new_br8 | intact<br>vendor<br>speed<br>maid<br>need<br>hello<br>industry<br>law |  
-| bip_39_word_new_br9 | intact<br>vendor<br>speed<br>maid<br>need<br>hello<br>industry<br>law<br>need |  
-| bip_39_word_new_line1 | intact |  
-| bip_39_word_new_line10 | intact
+| bip_39_word_new_br_1 | intact |  
+| bip_39_word_new_br_10 | intact<br>vendor<br>speed<br>maid<br>need<br>hello<br>industry<br>law<br>need<br>crater |  
+| bip_39_word_new_br_11 | intact<br>vendor<br>speed<br>maid<br>need<br>hello<br>industry<br>law<br>need<br>crater<br>cube |  
+| bip_39_word_new_br_12 | intact<br>vendor<br>speed<br>maid<br>need<br>hello<br>industry<br>law<br>need<br>crater<br>cube<br>auction |  
+| bip_39_word_new_br_2 | intact<br>vendor |  
+| bip_39_word_new_br_3 | intact<br>vendor<br>speed |  
+| bip_39_word_new_br_4 | intact<br>vendor<br>speed<br>maid |  
+| bip_39_word_new_br_5 | intact<br>vendor<br>speed<br>maid<br>need |  
+| bip_39_word_new_br_6 | intact<br>vendor<br>speed<br>maid<br>need<br>hello |  
+| bip_39_word_new_br_7 | intact<br>vendor<br>speed<br>maid<br>need<br>hello<br>industry |  
+| bip_39_word_new_br_8 | intact<br>vendor<br>speed<br>maid<br>need<br>hello<br>industry<br>law |  
+| bip_39_word_new_br_9 | intact<br>vendor<br>speed<br>maid<br>need<br>hello<br>industry<br>law<br>need |  
+| bip_39_word_new_line_1 | intact |  
+| bip_39_word_new_line_10 | intact
 vendor
 speed
 maid
@@ -55,7 +55,7 @@ industry
 law
 need
 crater |  
-| bip_39_word_new_line11 | intact
+| bip_39_word_new_line_11 | intact
 vendor
 speed
 maid
@@ -66,7 +66,7 @@ law
 need
 crater
 cube |  
-| bip_39_word_new_line12 | intact
+| bip_39_word_new_line_12 | intact
 vendor
 speed
 maid
@@ -78,34 +78,34 @@ need
 crater
 cube
 auction |  
-| bip_39_word_new_line2 | intact
+| bip_39_word_new_line_2 | intact
 vendor |  
-| bip_39_word_new_line3 | intact
+| bip_39_word_new_line_3 | intact
 vendor
 speed |  
-| bip_39_word_new_line4 | intact
+| bip_39_word_new_line_4 | intact
 vendor
 speed
 maid |  
-| bip_39_word_new_line5 | intact
+| bip_39_word_new_line_5 | intact
 vendor
 speed
 maid
 need |  
-| bip_39_word_new_line6 | intact
+| bip_39_word_new_line_6 | intact
 vendor
 speed
 maid
 need
 hello |  
-| bip_39_word_new_line7 | intact
+| bip_39_word_new_line_7 | intact
 vendor
 speed
 maid
 need
 hello
 industry |  
-| bip_39_word_new_line8 | intact
+| bip_39_word_new_line_8 | intact
 vendor
 speed
 maid
@@ -113,7 +113,7 @@ need
 hello
 industry
 law |  
-| bip_39_word_new_line9 | intact
+| bip_39_word_new_line_9 | intact
 vendor
 speed
 maid

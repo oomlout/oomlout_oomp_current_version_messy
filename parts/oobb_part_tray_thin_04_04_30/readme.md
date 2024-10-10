@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gospel |  
-| bip_39_word_new_br10 | gospel<br>addict<br>also<br>come<br>inhale<br>focus<br>stadium<br>little<br>eyebrow<br>banana |  
-| bip_39_word_new_br11 | gospel<br>addict<br>also<br>come<br>inhale<br>focus<br>stadium<br>little<br>eyebrow<br>banana<br>gesture |  
-| bip_39_word_new_br12 | gospel<br>addict<br>also<br>come<br>inhale<br>focus<br>stadium<br>little<br>eyebrow<br>banana<br>gesture<br>attitude |  
-| bip_39_word_new_br2 | gospel<br>addict |  
-| bip_39_word_new_br3 | gospel<br>addict<br>also |  
-| bip_39_word_new_br4 | gospel<br>addict<br>also<br>come |  
-| bip_39_word_new_br5 | gospel<br>addict<br>also<br>come<br>inhale |  
-| bip_39_word_new_br6 | gospel<br>addict<br>also<br>come<br>inhale<br>focus |  
-| bip_39_word_new_br7 | gospel<br>addict<br>also<br>come<br>inhale<br>focus<br>stadium |  
-| bip_39_word_new_br8 | gospel<br>addict<br>also<br>come<br>inhale<br>focus<br>stadium<br>little |  
-| bip_39_word_new_br9 | gospel<br>addict<br>also<br>come<br>inhale<br>focus<br>stadium<br>little<br>eyebrow |  
-| bip_39_word_new_line1 | gospel |  
-| bip_39_word_new_line10 | gospel
+| bip_39_word_new_br_1 | gospel |  
+| bip_39_word_new_br_10 | gospel<br>addict<br>also<br>come<br>inhale<br>focus<br>stadium<br>little<br>eyebrow<br>banana |  
+| bip_39_word_new_br_11 | gospel<br>addict<br>also<br>come<br>inhale<br>focus<br>stadium<br>little<br>eyebrow<br>banana<br>gesture |  
+| bip_39_word_new_br_12 | gospel<br>addict<br>also<br>come<br>inhale<br>focus<br>stadium<br>little<br>eyebrow<br>banana<br>gesture<br>attitude |  
+| bip_39_word_new_br_2 | gospel<br>addict |  
+| bip_39_word_new_br_3 | gospel<br>addict<br>also |  
+| bip_39_word_new_br_4 | gospel<br>addict<br>also<br>come |  
+| bip_39_word_new_br_5 | gospel<br>addict<br>also<br>come<br>inhale |  
+| bip_39_word_new_br_6 | gospel<br>addict<br>also<br>come<br>inhale<br>focus |  
+| bip_39_word_new_br_7 | gospel<br>addict<br>also<br>come<br>inhale<br>focus<br>stadium |  
+| bip_39_word_new_br_8 | gospel<br>addict<br>also<br>come<br>inhale<br>focus<br>stadium<br>little |  
+| bip_39_word_new_br_9 | gospel<br>addict<br>also<br>come<br>inhale<br>focus<br>stadium<br>little<br>eyebrow |  
+| bip_39_word_new_line_1 | gospel |  
+| bip_39_word_new_line_10 | gospel
 addict
 also
 come
@@ -55,7 +55,7 @@ stadium
 little
 eyebrow
 banana |  
-| bip_39_word_new_line11 | gospel
+| bip_39_word_new_line_11 | gospel
 addict
 also
 come
@@ -66,7 +66,7 @@ little
 eyebrow
 banana
 gesture |  
-| bip_39_word_new_line12 | gospel
+| bip_39_word_new_line_12 | gospel
 addict
 also
 come
@@ -78,34 +78,34 @@ eyebrow
 banana
 gesture
 attitude |  
-| bip_39_word_new_line2 | gospel
+| bip_39_word_new_line_2 | gospel
 addict |  
-| bip_39_word_new_line3 | gospel
+| bip_39_word_new_line_3 | gospel
 addict
 also |  
-| bip_39_word_new_line4 | gospel
+| bip_39_word_new_line_4 | gospel
 addict
 also
 come |  
-| bip_39_word_new_line5 | gospel
+| bip_39_word_new_line_5 | gospel
 addict
 also
 come
 inhale |  
-| bip_39_word_new_line6 | gospel
+| bip_39_word_new_line_6 | gospel
 addict
 also
 come
 inhale
 focus |  
-| bip_39_word_new_line7 | gospel
+| bip_39_word_new_line_7 | gospel
 addict
 also
 come
 inhale
 focus
 stadium |  
-| bip_39_word_new_line8 | gospel
+| bip_39_word_new_line_8 | gospel
 addict
 also
 come
@@ -113,7 +113,7 @@ inhale
 focus
 stadium
 little |  
-| bip_39_word_new_line9 | gospel
+| bip_39_word_new_line_9 | gospel
 addict
 also
 come

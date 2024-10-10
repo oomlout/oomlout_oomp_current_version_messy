@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rule |  
-| bip_39_word_new_br10 | rule<br>sun<br>bamboo<br>prison<br>gain<br>shove<br>hazard<br>choice<br>tip<br>seven |  
-| bip_39_word_new_br11 | rule<br>sun<br>bamboo<br>prison<br>gain<br>shove<br>hazard<br>choice<br>tip<br>seven<br>merge |  
-| bip_39_word_new_br12 | rule<br>sun<br>bamboo<br>prison<br>gain<br>shove<br>hazard<br>choice<br>tip<br>seven<br>merge<br>amateur |  
-| bip_39_word_new_br2 | rule<br>sun |  
-| bip_39_word_new_br3 | rule<br>sun<br>bamboo |  
-| bip_39_word_new_br4 | rule<br>sun<br>bamboo<br>prison |  
-| bip_39_word_new_br5 | rule<br>sun<br>bamboo<br>prison<br>gain |  
-| bip_39_word_new_br6 | rule<br>sun<br>bamboo<br>prison<br>gain<br>shove |  
-| bip_39_word_new_br7 | rule<br>sun<br>bamboo<br>prison<br>gain<br>shove<br>hazard |  
-| bip_39_word_new_br8 | rule<br>sun<br>bamboo<br>prison<br>gain<br>shove<br>hazard<br>choice |  
-| bip_39_word_new_br9 | rule<br>sun<br>bamboo<br>prison<br>gain<br>shove<br>hazard<br>choice<br>tip |  
-| bip_39_word_new_line1 | rule |  
-| bip_39_word_new_line10 | rule
+| bip_39_word_new_br_1 | rule |  
+| bip_39_word_new_br_10 | rule<br>sun<br>bamboo<br>prison<br>gain<br>shove<br>hazard<br>choice<br>tip<br>seven |  
+| bip_39_word_new_br_11 | rule<br>sun<br>bamboo<br>prison<br>gain<br>shove<br>hazard<br>choice<br>tip<br>seven<br>merge |  
+| bip_39_word_new_br_12 | rule<br>sun<br>bamboo<br>prison<br>gain<br>shove<br>hazard<br>choice<br>tip<br>seven<br>merge<br>amateur |  
+| bip_39_word_new_br_2 | rule<br>sun |  
+| bip_39_word_new_br_3 | rule<br>sun<br>bamboo |  
+| bip_39_word_new_br_4 | rule<br>sun<br>bamboo<br>prison |  
+| bip_39_word_new_br_5 | rule<br>sun<br>bamboo<br>prison<br>gain |  
+| bip_39_word_new_br_6 | rule<br>sun<br>bamboo<br>prison<br>gain<br>shove |  
+| bip_39_word_new_br_7 | rule<br>sun<br>bamboo<br>prison<br>gain<br>shove<br>hazard |  
+| bip_39_word_new_br_8 | rule<br>sun<br>bamboo<br>prison<br>gain<br>shove<br>hazard<br>choice |  
+| bip_39_word_new_br_9 | rule<br>sun<br>bamboo<br>prison<br>gain<br>shove<br>hazard<br>choice<br>tip |  
+| bip_39_word_new_line_1 | rule |  
+| bip_39_word_new_line_10 | rule
 sun
 bamboo
 prison
@@ -55,7 +55,7 @@ hazard
 choice
 tip
 seven |  
-| bip_39_word_new_line11 | rule
+| bip_39_word_new_line_11 | rule
 sun
 bamboo
 prison
@@ -66,7 +66,7 @@ choice
 tip
 seven
 merge |  
-| bip_39_word_new_line12 | rule
+| bip_39_word_new_line_12 | rule
 sun
 bamboo
 prison
@@ -78,34 +78,34 @@ tip
 seven
 merge
 amateur |  
-| bip_39_word_new_line2 | rule
+| bip_39_word_new_line_2 | rule
 sun |  
-| bip_39_word_new_line3 | rule
+| bip_39_word_new_line_3 | rule
 sun
 bamboo |  
-| bip_39_word_new_line4 | rule
+| bip_39_word_new_line_4 | rule
 sun
 bamboo
 prison |  
-| bip_39_word_new_line5 | rule
+| bip_39_word_new_line_5 | rule
 sun
 bamboo
 prison
 gain |  
-| bip_39_word_new_line6 | rule
+| bip_39_word_new_line_6 | rule
 sun
 bamboo
 prison
 gain
 shove |  
-| bip_39_word_new_line7 | rule
+| bip_39_word_new_line_7 | rule
 sun
 bamboo
 prison
 gain
 shove
 hazard |  
-| bip_39_word_new_line8 | rule
+| bip_39_word_new_line_8 | rule
 sun
 bamboo
 prison
@@ -113,7 +113,7 @@ gain
 shove
 hazard
 choice |  
-| bip_39_word_new_line9 | rule
+| bip_39_word_new_line_9 | rule
 sun
 bamboo
 prison

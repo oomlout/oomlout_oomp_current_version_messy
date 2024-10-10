@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ankle |  
-| bip_39_word_new_br10 | ankle<br>razor<br>load<br>hurdle<br>teach<br>welcome<br>nice<br>want<br>net<br>suggest |  
-| bip_39_word_new_br11 | ankle<br>razor<br>load<br>hurdle<br>teach<br>welcome<br>nice<br>want<br>net<br>suggest<br>similar |  
-| bip_39_word_new_br12 | ankle<br>razor<br>load<br>hurdle<br>teach<br>welcome<br>nice<br>want<br>net<br>suggest<br>similar<br>armed |  
-| bip_39_word_new_br2 | ankle<br>razor |  
-| bip_39_word_new_br3 | ankle<br>razor<br>load |  
-| bip_39_word_new_br4 | ankle<br>razor<br>load<br>hurdle |  
-| bip_39_word_new_br5 | ankle<br>razor<br>load<br>hurdle<br>teach |  
-| bip_39_word_new_br6 | ankle<br>razor<br>load<br>hurdle<br>teach<br>welcome |  
-| bip_39_word_new_br7 | ankle<br>razor<br>load<br>hurdle<br>teach<br>welcome<br>nice |  
-| bip_39_word_new_br8 | ankle<br>razor<br>load<br>hurdle<br>teach<br>welcome<br>nice<br>want |  
-| bip_39_word_new_br9 | ankle<br>razor<br>load<br>hurdle<br>teach<br>welcome<br>nice<br>want<br>net |  
-| bip_39_word_new_line1 | ankle |  
-| bip_39_word_new_line10 | ankle
+| bip_39_word_new_br_1 | ankle |  
+| bip_39_word_new_br_10 | ankle<br>razor<br>load<br>hurdle<br>teach<br>welcome<br>nice<br>want<br>net<br>suggest |  
+| bip_39_word_new_br_11 | ankle<br>razor<br>load<br>hurdle<br>teach<br>welcome<br>nice<br>want<br>net<br>suggest<br>similar |  
+| bip_39_word_new_br_12 | ankle<br>razor<br>load<br>hurdle<br>teach<br>welcome<br>nice<br>want<br>net<br>suggest<br>similar<br>armed |  
+| bip_39_word_new_br_2 | ankle<br>razor |  
+| bip_39_word_new_br_3 | ankle<br>razor<br>load |  
+| bip_39_word_new_br_4 | ankle<br>razor<br>load<br>hurdle |  
+| bip_39_word_new_br_5 | ankle<br>razor<br>load<br>hurdle<br>teach |  
+| bip_39_word_new_br_6 | ankle<br>razor<br>load<br>hurdle<br>teach<br>welcome |  
+| bip_39_word_new_br_7 | ankle<br>razor<br>load<br>hurdle<br>teach<br>welcome<br>nice |  
+| bip_39_word_new_br_8 | ankle<br>razor<br>load<br>hurdle<br>teach<br>welcome<br>nice<br>want |  
+| bip_39_word_new_br_9 | ankle<br>razor<br>load<br>hurdle<br>teach<br>welcome<br>nice<br>want<br>net |  
+| bip_39_word_new_line_1 | ankle |  
+| bip_39_word_new_line_10 | ankle
 razor
 load
 hurdle
@@ -55,7 +55,7 @@ nice
 want
 net
 suggest |  
-| bip_39_word_new_line11 | ankle
+| bip_39_word_new_line_11 | ankle
 razor
 load
 hurdle
@@ -66,7 +66,7 @@ want
 net
 suggest
 similar |  
-| bip_39_word_new_line12 | ankle
+| bip_39_word_new_line_12 | ankle
 razor
 load
 hurdle
@@ -78,34 +78,34 @@ net
 suggest
 similar
 armed |  
-| bip_39_word_new_line2 | ankle
+| bip_39_word_new_line_2 | ankle
 razor |  
-| bip_39_word_new_line3 | ankle
+| bip_39_word_new_line_3 | ankle
 razor
 load |  
-| bip_39_word_new_line4 | ankle
+| bip_39_word_new_line_4 | ankle
 razor
 load
 hurdle |  
-| bip_39_word_new_line5 | ankle
+| bip_39_word_new_line_5 | ankle
 razor
 load
 hurdle
 teach |  
-| bip_39_word_new_line6 | ankle
+| bip_39_word_new_line_6 | ankle
 razor
 load
 hurdle
 teach
 welcome |  
-| bip_39_word_new_line7 | ankle
+| bip_39_word_new_line_7 | ankle
 razor
 load
 hurdle
 teach
 welcome
 nice |  
-| bip_39_word_new_line8 | ankle
+| bip_39_word_new_line_8 | ankle
 razor
 load
 hurdle
@@ -113,7 +113,7 @@ teach
 welcome
 nice
 want |  
-| bip_39_word_new_line9 | ankle
+| bip_39_word_new_line_9 | ankle
 razor
 load
 hurdle

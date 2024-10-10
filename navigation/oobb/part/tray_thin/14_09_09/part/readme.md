@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | merge |  
-| bip_39_word_new_br10 | merge<br>response<br>shallow<br>camp<br>inquiry<br>release<br>science<br>abstract<br>enforce<br>kid |  
-| bip_39_word_new_br11 | merge<br>response<br>shallow<br>camp<br>inquiry<br>release<br>science<br>abstract<br>enforce<br>kid<br>soldier |  
-| bip_39_word_new_br12 | merge<br>response<br>shallow<br>camp<br>inquiry<br>release<br>science<br>abstract<br>enforce<br>kid<br>soldier<br>aerobic |  
-| bip_39_word_new_br2 | merge<br>response |  
-| bip_39_word_new_br3 | merge<br>response<br>shallow |  
-| bip_39_word_new_br4 | merge<br>response<br>shallow<br>camp |  
-| bip_39_word_new_br5 | merge<br>response<br>shallow<br>camp<br>inquiry |  
-| bip_39_word_new_br6 | merge<br>response<br>shallow<br>camp<br>inquiry<br>release |  
-| bip_39_word_new_br7 | merge<br>response<br>shallow<br>camp<br>inquiry<br>release<br>science |  
-| bip_39_word_new_br8 | merge<br>response<br>shallow<br>camp<br>inquiry<br>release<br>science<br>abstract |  
-| bip_39_word_new_br9 | merge<br>response<br>shallow<br>camp<br>inquiry<br>release<br>science<br>abstract<br>enforce |  
-| bip_39_word_new_line1 | merge |  
-| bip_39_word_new_line10 | merge
+| bip_39_word_new_br_1 | merge |  
+| bip_39_word_new_br_10 | merge<br>response<br>shallow<br>camp<br>inquiry<br>release<br>science<br>abstract<br>enforce<br>kid |  
+| bip_39_word_new_br_11 | merge<br>response<br>shallow<br>camp<br>inquiry<br>release<br>science<br>abstract<br>enforce<br>kid<br>soldier |  
+| bip_39_word_new_br_12 | merge<br>response<br>shallow<br>camp<br>inquiry<br>release<br>science<br>abstract<br>enforce<br>kid<br>soldier<br>aerobic |  
+| bip_39_word_new_br_2 | merge<br>response |  
+| bip_39_word_new_br_3 | merge<br>response<br>shallow |  
+| bip_39_word_new_br_4 | merge<br>response<br>shallow<br>camp |  
+| bip_39_word_new_br_5 | merge<br>response<br>shallow<br>camp<br>inquiry |  
+| bip_39_word_new_br_6 | merge<br>response<br>shallow<br>camp<br>inquiry<br>release |  
+| bip_39_word_new_br_7 | merge<br>response<br>shallow<br>camp<br>inquiry<br>release<br>science |  
+| bip_39_word_new_br_8 | merge<br>response<br>shallow<br>camp<br>inquiry<br>release<br>science<br>abstract |  
+| bip_39_word_new_br_9 | merge<br>response<br>shallow<br>camp<br>inquiry<br>release<br>science<br>abstract<br>enforce |  
+| bip_39_word_new_line_1 | merge |  
+| bip_39_word_new_line_10 | merge
 response
 shallow
 camp
@@ -55,7 +55,7 @@ science
 abstract
 enforce
 kid |  
-| bip_39_word_new_line11 | merge
+| bip_39_word_new_line_11 | merge
 response
 shallow
 camp
@@ -66,7 +66,7 @@ abstract
 enforce
 kid
 soldier |  
-| bip_39_word_new_line12 | merge
+| bip_39_word_new_line_12 | merge
 response
 shallow
 camp
@@ -78,34 +78,34 @@ enforce
 kid
 soldier
 aerobic |  
-| bip_39_word_new_line2 | merge
+| bip_39_word_new_line_2 | merge
 response |  
-| bip_39_word_new_line3 | merge
+| bip_39_word_new_line_3 | merge
 response
 shallow |  
-| bip_39_word_new_line4 | merge
+| bip_39_word_new_line_4 | merge
 response
 shallow
 camp |  
-| bip_39_word_new_line5 | merge
+| bip_39_word_new_line_5 | merge
 response
 shallow
 camp
 inquiry |  
-| bip_39_word_new_line6 | merge
+| bip_39_word_new_line_6 | merge
 response
 shallow
 camp
 inquiry
 release |  
-| bip_39_word_new_line7 | merge
+| bip_39_word_new_line_7 | merge
 response
 shallow
 camp
 inquiry
 release
 science |  
-| bip_39_word_new_line8 | merge
+| bip_39_word_new_line_8 | merge
 response
 shallow
 camp
@@ -113,7 +113,7 @@ inquiry
 release
 science
 abstract |  
-| bip_39_word_new_line9 | merge
+| bip_39_word_new_line_9 | merge
 response
 shallow
 camp

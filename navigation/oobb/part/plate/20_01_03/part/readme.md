@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | extra |  
-| bip_39_word_new_br10 | extra<br>shrug<br>torch<br>unable<br>clever<br>peasant<br>pill<br>shy<br>weapon<br>worth |  
-| bip_39_word_new_br11 | extra<br>shrug<br>torch<br>unable<br>clever<br>peasant<br>pill<br>shy<br>weapon<br>worth<br>bulb |  
-| bip_39_word_new_br12 | extra<br>shrug<br>torch<br>unable<br>clever<br>peasant<br>pill<br>shy<br>weapon<br>worth<br>bulb<br>assist |  
-| bip_39_word_new_br2 | extra<br>shrug |  
-| bip_39_word_new_br3 | extra<br>shrug<br>torch |  
-| bip_39_word_new_br4 | extra<br>shrug<br>torch<br>unable |  
-| bip_39_word_new_br5 | extra<br>shrug<br>torch<br>unable<br>clever |  
-| bip_39_word_new_br6 | extra<br>shrug<br>torch<br>unable<br>clever<br>peasant |  
-| bip_39_word_new_br7 | extra<br>shrug<br>torch<br>unable<br>clever<br>peasant<br>pill |  
-| bip_39_word_new_br8 | extra<br>shrug<br>torch<br>unable<br>clever<br>peasant<br>pill<br>shy |  
-| bip_39_word_new_br9 | extra<br>shrug<br>torch<br>unable<br>clever<br>peasant<br>pill<br>shy<br>weapon |  
-| bip_39_word_new_line1 | extra |  
-| bip_39_word_new_line10 | extra
+| bip_39_word_new_br_1 | extra |  
+| bip_39_word_new_br_10 | extra<br>shrug<br>torch<br>unable<br>clever<br>peasant<br>pill<br>shy<br>weapon<br>worth |  
+| bip_39_word_new_br_11 | extra<br>shrug<br>torch<br>unable<br>clever<br>peasant<br>pill<br>shy<br>weapon<br>worth<br>bulb |  
+| bip_39_word_new_br_12 | extra<br>shrug<br>torch<br>unable<br>clever<br>peasant<br>pill<br>shy<br>weapon<br>worth<br>bulb<br>assist |  
+| bip_39_word_new_br_2 | extra<br>shrug |  
+| bip_39_word_new_br_3 | extra<br>shrug<br>torch |  
+| bip_39_word_new_br_4 | extra<br>shrug<br>torch<br>unable |  
+| bip_39_word_new_br_5 | extra<br>shrug<br>torch<br>unable<br>clever |  
+| bip_39_word_new_br_6 | extra<br>shrug<br>torch<br>unable<br>clever<br>peasant |  
+| bip_39_word_new_br_7 | extra<br>shrug<br>torch<br>unable<br>clever<br>peasant<br>pill |  
+| bip_39_word_new_br_8 | extra<br>shrug<br>torch<br>unable<br>clever<br>peasant<br>pill<br>shy |  
+| bip_39_word_new_br_9 | extra<br>shrug<br>torch<br>unable<br>clever<br>peasant<br>pill<br>shy<br>weapon |  
+| bip_39_word_new_line_1 | extra |  
+| bip_39_word_new_line_10 | extra
 shrug
 torch
 unable
@@ -55,7 +55,7 @@ pill
 shy
 weapon
 worth |  
-| bip_39_word_new_line11 | extra
+| bip_39_word_new_line_11 | extra
 shrug
 torch
 unable
@@ -66,7 +66,7 @@ shy
 weapon
 worth
 bulb |  
-| bip_39_word_new_line12 | extra
+| bip_39_word_new_line_12 | extra
 shrug
 torch
 unable
@@ -78,34 +78,34 @@ weapon
 worth
 bulb
 assist |  
-| bip_39_word_new_line2 | extra
+| bip_39_word_new_line_2 | extra
 shrug |  
-| bip_39_word_new_line3 | extra
+| bip_39_word_new_line_3 | extra
 shrug
 torch |  
-| bip_39_word_new_line4 | extra
+| bip_39_word_new_line_4 | extra
 shrug
 torch
 unable |  
-| bip_39_word_new_line5 | extra
+| bip_39_word_new_line_5 | extra
 shrug
 torch
 unable
 clever |  
-| bip_39_word_new_line6 | extra
+| bip_39_word_new_line_6 | extra
 shrug
 torch
 unable
 clever
 peasant |  
-| bip_39_word_new_line7 | extra
+| bip_39_word_new_line_7 | extra
 shrug
 torch
 unable
 clever
 peasant
 pill |  
-| bip_39_word_new_line8 | extra
+| bip_39_word_new_line_8 | extra
 shrug
 torch
 unable
@@ -113,7 +113,7 @@ clever
 peasant
 pill
 shy |  
-| bip_39_word_new_line9 | extra
+| bip_39_word_new_line_9 | extra
 shrug
 torch
 unable

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bag |  
-| bip_39_word_new_br10 | bag<br>head<br>day<br>impulse<br>popular<br>plunge<br>unveil<br>open<br>bleak<br>host |  
-| bip_39_word_new_br11 | bag<br>head<br>day<br>impulse<br>popular<br>plunge<br>unveil<br>open<br>bleak<br>host<br>property |  
-| bip_39_word_new_br12 | bag<br>head<br>day<br>impulse<br>popular<br>plunge<br>unveil<br>open<br>bleak<br>host<br>property<br>alarm |  
-| bip_39_word_new_br2 | bag<br>head |  
-| bip_39_word_new_br3 | bag<br>head<br>day |  
-| bip_39_word_new_br4 | bag<br>head<br>day<br>impulse |  
-| bip_39_word_new_br5 | bag<br>head<br>day<br>impulse<br>popular |  
-| bip_39_word_new_br6 | bag<br>head<br>day<br>impulse<br>popular<br>plunge |  
-| bip_39_word_new_br7 | bag<br>head<br>day<br>impulse<br>popular<br>plunge<br>unveil |  
-| bip_39_word_new_br8 | bag<br>head<br>day<br>impulse<br>popular<br>plunge<br>unveil<br>open |  
-| bip_39_word_new_br9 | bag<br>head<br>day<br>impulse<br>popular<br>plunge<br>unveil<br>open<br>bleak |  
-| bip_39_word_new_line1 | bag |  
-| bip_39_word_new_line10 | bag
+| bip_39_word_new_br_1 | bag |  
+| bip_39_word_new_br_10 | bag<br>head<br>day<br>impulse<br>popular<br>plunge<br>unveil<br>open<br>bleak<br>host |  
+| bip_39_word_new_br_11 | bag<br>head<br>day<br>impulse<br>popular<br>plunge<br>unveil<br>open<br>bleak<br>host<br>property |  
+| bip_39_word_new_br_12 | bag<br>head<br>day<br>impulse<br>popular<br>plunge<br>unveil<br>open<br>bleak<br>host<br>property<br>alarm |  
+| bip_39_word_new_br_2 | bag<br>head |  
+| bip_39_word_new_br_3 | bag<br>head<br>day |  
+| bip_39_word_new_br_4 | bag<br>head<br>day<br>impulse |  
+| bip_39_word_new_br_5 | bag<br>head<br>day<br>impulse<br>popular |  
+| bip_39_word_new_br_6 | bag<br>head<br>day<br>impulse<br>popular<br>plunge |  
+| bip_39_word_new_br_7 | bag<br>head<br>day<br>impulse<br>popular<br>plunge<br>unveil |  
+| bip_39_word_new_br_8 | bag<br>head<br>day<br>impulse<br>popular<br>plunge<br>unveil<br>open |  
+| bip_39_word_new_br_9 | bag<br>head<br>day<br>impulse<br>popular<br>plunge<br>unveil<br>open<br>bleak |  
+| bip_39_word_new_line_1 | bag |  
+| bip_39_word_new_line_10 | bag
 head
 day
 impulse
@@ -55,7 +55,7 @@ unveil
 open
 bleak
 host |  
-| bip_39_word_new_line11 | bag
+| bip_39_word_new_line_11 | bag
 head
 day
 impulse
@@ -66,7 +66,7 @@ open
 bleak
 host
 property |  
-| bip_39_word_new_line12 | bag
+| bip_39_word_new_line_12 | bag
 head
 day
 impulse
@@ -78,34 +78,34 @@ bleak
 host
 property
 alarm |  
-| bip_39_word_new_line2 | bag
+| bip_39_word_new_line_2 | bag
 head |  
-| bip_39_word_new_line3 | bag
+| bip_39_word_new_line_3 | bag
 head
 day |  
-| bip_39_word_new_line4 | bag
+| bip_39_word_new_line_4 | bag
 head
 day
 impulse |  
-| bip_39_word_new_line5 | bag
+| bip_39_word_new_line_5 | bag
 head
 day
 impulse
 popular |  
-| bip_39_word_new_line6 | bag
+| bip_39_word_new_line_6 | bag
 head
 day
 impulse
 popular
 plunge |  
-| bip_39_word_new_line7 | bag
+| bip_39_word_new_line_7 | bag
 head
 day
 impulse
 popular
 plunge
 unveil |  
-| bip_39_word_new_line8 | bag
+| bip_39_word_new_line_8 | bag
 head
 day
 impulse
@@ -113,7 +113,7 @@ popular
 plunge
 unveil
 open |  
-| bip_39_word_new_line9 | bag
+| bip_39_word_new_line_9 | bag
 head
 day
 impulse

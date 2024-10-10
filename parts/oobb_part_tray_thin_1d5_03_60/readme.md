@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rebel |  
-| bip_39_word_new_br10 | rebel<br>magnet<br>uncover<br>quarter<br>shoe<br>scale<br>help<br>noble<br>grape<br>later |  
-| bip_39_word_new_br11 | rebel<br>magnet<br>uncover<br>quarter<br>shoe<br>scale<br>help<br>noble<br>grape<br>later<br>crime |  
-| bip_39_word_new_br12 | rebel<br>magnet<br>uncover<br>quarter<br>shoe<br>scale<br>help<br>noble<br>grape<br>later<br>crime<br>asthma |  
-| bip_39_word_new_br2 | rebel<br>magnet |  
-| bip_39_word_new_br3 | rebel<br>magnet<br>uncover |  
-| bip_39_word_new_br4 | rebel<br>magnet<br>uncover<br>quarter |  
-| bip_39_word_new_br5 | rebel<br>magnet<br>uncover<br>quarter<br>shoe |  
-| bip_39_word_new_br6 | rebel<br>magnet<br>uncover<br>quarter<br>shoe<br>scale |  
-| bip_39_word_new_br7 | rebel<br>magnet<br>uncover<br>quarter<br>shoe<br>scale<br>help |  
-| bip_39_word_new_br8 | rebel<br>magnet<br>uncover<br>quarter<br>shoe<br>scale<br>help<br>noble |  
-| bip_39_word_new_br9 | rebel<br>magnet<br>uncover<br>quarter<br>shoe<br>scale<br>help<br>noble<br>grape |  
-| bip_39_word_new_line1 | rebel |  
-| bip_39_word_new_line10 | rebel
+| bip_39_word_new_br_1 | rebel |  
+| bip_39_word_new_br_10 | rebel<br>magnet<br>uncover<br>quarter<br>shoe<br>scale<br>help<br>noble<br>grape<br>later |  
+| bip_39_word_new_br_11 | rebel<br>magnet<br>uncover<br>quarter<br>shoe<br>scale<br>help<br>noble<br>grape<br>later<br>crime |  
+| bip_39_word_new_br_12 | rebel<br>magnet<br>uncover<br>quarter<br>shoe<br>scale<br>help<br>noble<br>grape<br>later<br>crime<br>asthma |  
+| bip_39_word_new_br_2 | rebel<br>magnet |  
+| bip_39_word_new_br_3 | rebel<br>magnet<br>uncover |  
+| bip_39_word_new_br_4 | rebel<br>magnet<br>uncover<br>quarter |  
+| bip_39_word_new_br_5 | rebel<br>magnet<br>uncover<br>quarter<br>shoe |  
+| bip_39_word_new_br_6 | rebel<br>magnet<br>uncover<br>quarter<br>shoe<br>scale |  
+| bip_39_word_new_br_7 | rebel<br>magnet<br>uncover<br>quarter<br>shoe<br>scale<br>help |  
+| bip_39_word_new_br_8 | rebel<br>magnet<br>uncover<br>quarter<br>shoe<br>scale<br>help<br>noble |  
+| bip_39_word_new_br_9 | rebel<br>magnet<br>uncover<br>quarter<br>shoe<br>scale<br>help<br>noble<br>grape |  
+| bip_39_word_new_line_1 | rebel |  
+| bip_39_word_new_line_10 | rebel
 magnet
 uncover
 quarter
@@ -55,7 +55,7 @@ help
 noble
 grape
 later |  
-| bip_39_word_new_line11 | rebel
+| bip_39_word_new_line_11 | rebel
 magnet
 uncover
 quarter
@@ -66,7 +66,7 @@ noble
 grape
 later
 crime |  
-| bip_39_word_new_line12 | rebel
+| bip_39_word_new_line_12 | rebel
 magnet
 uncover
 quarter
@@ -78,34 +78,34 @@ grape
 later
 crime
 asthma |  
-| bip_39_word_new_line2 | rebel
+| bip_39_word_new_line_2 | rebel
 magnet |  
-| bip_39_word_new_line3 | rebel
+| bip_39_word_new_line_3 | rebel
 magnet
 uncover |  
-| bip_39_word_new_line4 | rebel
+| bip_39_word_new_line_4 | rebel
 magnet
 uncover
 quarter |  
-| bip_39_word_new_line5 | rebel
+| bip_39_word_new_line_5 | rebel
 magnet
 uncover
 quarter
 shoe |  
-| bip_39_word_new_line6 | rebel
+| bip_39_word_new_line_6 | rebel
 magnet
 uncover
 quarter
 shoe
 scale |  
-| bip_39_word_new_line7 | rebel
+| bip_39_word_new_line_7 | rebel
 magnet
 uncover
 quarter
 shoe
 scale
 help |  
-| bip_39_word_new_line8 | rebel
+| bip_39_word_new_line_8 | rebel
 magnet
 uncover
 quarter
@@ -113,7 +113,7 @@ shoe
 scale
 help
 noble |  
-| bip_39_word_new_line9 | rebel
+| bip_39_word_new_line_9 | rebel
 magnet
 uncover
 quarter

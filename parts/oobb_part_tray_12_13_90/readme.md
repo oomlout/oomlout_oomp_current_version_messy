@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pass |  
-| bip_39_word_new_br10 | pass<br>million<br>female<br>parade<br>library<br>ribbon<br>aerobic<br>unlock<br>artist<br>sword |  
-| bip_39_word_new_br11 | pass<br>million<br>female<br>parade<br>library<br>ribbon<br>aerobic<br>unlock<br>artist<br>sword<br>alcohol |  
-| bip_39_word_new_br12 | pass<br>million<br>female<br>parade<br>library<br>ribbon<br>aerobic<br>unlock<br>artist<br>sword<br>alcohol<br>alcohol |  
-| bip_39_word_new_br2 | pass<br>million |  
-| bip_39_word_new_br3 | pass<br>million<br>female |  
-| bip_39_word_new_br4 | pass<br>million<br>female<br>parade |  
-| bip_39_word_new_br5 | pass<br>million<br>female<br>parade<br>library |  
-| bip_39_word_new_br6 | pass<br>million<br>female<br>parade<br>library<br>ribbon |  
-| bip_39_word_new_br7 | pass<br>million<br>female<br>parade<br>library<br>ribbon<br>aerobic |  
-| bip_39_word_new_br8 | pass<br>million<br>female<br>parade<br>library<br>ribbon<br>aerobic<br>unlock |  
-| bip_39_word_new_br9 | pass<br>million<br>female<br>parade<br>library<br>ribbon<br>aerobic<br>unlock<br>artist |  
-| bip_39_word_new_line1 | pass |  
-| bip_39_word_new_line10 | pass
+| bip_39_word_new_br_1 | pass |  
+| bip_39_word_new_br_10 | pass<br>million<br>female<br>parade<br>library<br>ribbon<br>aerobic<br>unlock<br>artist<br>sword |  
+| bip_39_word_new_br_11 | pass<br>million<br>female<br>parade<br>library<br>ribbon<br>aerobic<br>unlock<br>artist<br>sword<br>alcohol |  
+| bip_39_word_new_br_12 | pass<br>million<br>female<br>parade<br>library<br>ribbon<br>aerobic<br>unlock<br>artist<br>sword<br>alcohol<br>alcohol |  
+| bip_39_word_new_br_2 | pass<br>million |  
+| bip_39_word_new_br_3 | pass<br>million<br>female |  
+| bip_39_word_new_br_4 | pass<br>million<br>female<br>parade |  
+| bip_39_word_new_br_5 | pass<br>million<br>female<br>parade<br>library |  
+| bip_39_word_new_br_6 | pass<br>million<br>female<br>parade<br>library<br>ribbon |  
+| bip_39_word_new_br_7 | pass<br>million<br>female<br>parade<br>library<br>ribbon<br>aerobic |  
+| bip_39_word_new_br_8 | pass<br>million<br>female<br>parade<br>library<br>ribbon<br>aerobic<br>unlock |  
+| bip_39_word_new_br_9 | pass<br>million<br>female<br>parade<br>library<br>ribbon<br>aerobic<br>unlock<br>artist |  
+| bip_39_word_new_line_1 | pass |  
+| bip_39_word_new_line_10 | pass
 million
 female
 parade
@@ -55,7 +55,7 @@ aerobic
 unlock
 artist
 sword |  
-| bip_39_word_new_line11 | pass
+| bip_39_word_new_line_11 | pass
 million
 female
 parade
@@ -66,7 +66,7 @@ unlock
 artist
 sword
 alcohol |  
-| bip_39_word_new_line12 | pass
+| bip_39_word_new_line_12 | pass
 million
 female
 parade
@@ -78,34 +78,34 @@ artist
 sword
 alcohol
 alcohol |  
-| bip_39_word_new_line2 | pass
+| bip_39_word_new_line_2 | pass
 million |  
-| bip_39_word_new_line3 | pass
+| bip_39_word_new_line_3 | pass
 million
 female |  
-| bip_39_word_new_line4 | pass
+| bip_39_word_new_line_4 | pass
 million
 female
 parade |  
-| bip_39_word_new_line5 | pass
+| bip_39_word_new_line_5 | pass
 million
 female
 parade
 library |  
-| bip_39_word_new_line6 | pass
+| bip_39_word_new_line_6 | pass
 million
 female
 parade
 library
 ribbon |  
-| bip_39_word_new_line7 | pass
+| bip_39_word_new_line_7 | pass
 million
 female
 parade
 library
 ribbon
 aerobic |  
-| bip_39_word_new_line8 | pass
+| bip_39_word_new_line_8 | pass
 million
 female
 parade
@@ -113,7 +113,7 @@ library
 ribbon
 aerobic
 unlock |  
-| bip_39_word_new_line9 | pass
+| bip_39_word_new_line_9 | pass
 million
 female
 parade

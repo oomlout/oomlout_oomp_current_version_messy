@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | heavy |  
-| bip_39_word_new_br10 | heavy<br>water<br>alert<br>current<br>pyramid<br>flight<br>budget<br>initial<br>sausage<br>medal |  
-| bip_39_word_new_br11 | heavy<br>water<br>alert<br>current<br>pyramid<br>flight<br>budget<br>initial<br>sausage<br>medal<br>gentle |  
-| bip_39_word_new_br12 | heavy<br>water<br>alert<br>current<br>pyramid<br>flight<br>budget<br>initial<br>sausage<br>medal<br>gentle<br>abstract |  
-| bip_39_word_new_br2 | heavy<br>water |  
-| bip_39_word_new_br3 | heavy<br>water<br>alert |  
-| bip_39_word_new_br4 | heavy<br>water<br>alert<br>current |  
-| bip_39_word_new_br5 | heavy<br>water<br>alert<br>current<br>pyramid |  
-| bip_39_word_new_br6 | heavy<br>water<br>alert<br>current<br>pyramid<br>flight |  
-| bip_39_word_new_br7 | heavy<br>water<br>alert<br>current<br>pyramid<br>flight<br>budget |  
-| bip_39_word_new_br8 | heavy<br>water<br>alert<br>current<br>pyramid<br>flight<br>budget<br>initial |  
-| bip_39_word_new_br9 | heavy<br>water<br>alert<br>current<br>pyramid<br>flight<br>budget<br>initial<br>sausage |  
-| bip_39_word_new_line1 | heavy |  
-| bip_39_word_new_line10 | heavy
+| bip_39_word_new_br_1 | heavy |  
+| bip_39_word_new_br_10 | heavy<br>water<br>alert<br>current<br>pyramid<br>flight<br>budget<br>initial<br>sausage<br>medal |  
+| bip_39_word_new_br_11 | heavy<br>water<br>alert<br>current<br>pyramid<br>flight<br>budget<br>initial<br>sausage<br>medal<br>gentle |  
+| bip_39_word_new_br_12 | heavy<br>water<br>alert<br>current<br>pyramid<br>flight<br>budget<br>initial<br>sausage<br>medal<br>gentle<br>abstract |  
+| bip_39_word_new_br_2 | heavy<br>water |  
+| bip_39_word_new_br_3 | heavy<br>water<br>alert |  
+| bip_39_word_new_br_4 | heavy<br>water<br>alert<br>current |  
+| bip_39_word_new_br_5 | heavy<br>water<br>alert<br>current<br>pyramid |  
+| bip_39_word_new_br_6 | heavy<br>water<br>alert<br>current<br>pyramid<br>flight |  
+| bip_39_word_new_br_7 | heavy<br>water<br>alert<br>current<br>pyramid<br>flight<br>budget |  
+| bip_39_word_new_br_8 | heavy<br>water<br>alert<br>current<br>pyramid<br>flight<br>budget<br>initial |  
+| bip_39_word_new_br_9 | heavy<br>water<br>alert<br>current<br>pyramid<br>flight<br>budget<br>initial<br>sausage |  
+| bip_39_word_new_line_1 | heavy |  
+| bip_39_word_new_line_10 | heavy
 water
 alert
 current
@@ -55,7 +55,7 @@ budget
 initial
 sausage
 medal |  
-| bip_39_word_new_line11 | heavy
+| bip_39_word_new_line_11 | heavy
 water
 alert
 current
@@ -66,7 +66,7 @@ initial
 sausage
 medal
 gentle |  
-| bip_39_word_new_line12 | heavy
+| bip_39_word_new_line_12 | heavy
 water
 alert
 current
@@ -78,34 +78,34 @@ sausage
 medal
 gentle
 abstract |  
-| bip_39_word_new_line2 | heavy
+| bip_39_word_new_line_2 | heavy
 water |  
-| bip_39_word_new_line3 | heavy
+| bip_39_word_new_line_3 | heavy
 water
 alert |  
-| bip_39_word_new_line4 | heavy
+| bip_39_word_new_line_4 | heavy
 water
 alert
 current |  
-| bip_39_word_new_line5 | heavy
+| bip_39_word_new_line_5 | heavy
 water
 alert
 current
 pyramid |  
-| bip_39_word_new_line6 | heavy
+| bip_39_word_new_line_6 | heavy
 water
 alert
 current
 pyramid
 flight |  
-| bip_39_word_new_line7 | heavy
+| bip_39_word_new_line_7 | heavy
 water
 alert
 current
 pyramid
 flight
 budget |  
-| bip_39_word_new_line8 | heavy
+| bip_39_word_new_line_8 | heavy
 water
 alert
 current
@@ -113,7 +113,7 @@ pyramid
 flight
 budget
 initial |  
-| bip_39_word_new_line9 | heavy
+| bip_39_word_new_line_9 | heavy
 water
 alert
 current

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | strong |  
-| bip_39_word_new_br10 | strong<br>frozen<br>group<br>visa<br>mystery<br>cry<br>dash<br>version<br>suspect<br>vital |  
-| bip_39_word_new_br11 | strong<br>frozen<br>group<br>visa<br>mystery<br>cry<br>dash<br>version<br>suspect<br>vital<br>street |  
-| bip_39_word_new_br12 | strong<br>frozen<br>group<br>visa<br>mystery<br>cry<br>dash<br>version<br>suspect<br>vital<br>street<br>absent |  
-| bip_39_word_new_br2 | strong<br>frozen |  
-| bip_39_word_new_br3 | strong<br>frozen<br>group |  
-| bip_39_word_new_br4 | strong<br>frozen<br>group<br>visa |  
-| bip_39_word_new_br5 | strong<br>frozen<br>group<br>visa<br>mystery |  
-| bip_39_word_new_br6 | strong<br>frozen<br>group<br>visa<br>mystery<br>cry |  
-| bip_39_word_new_br7 | strong<br>frozen<br>group<br>visa<br>mystery<br>cry<br>dash |  
-| bip_39_word_new_br8 | strong<br>frozen<br>group<br>visa<br>mystery<br>cry<br>dash<br>version |  
-| bip_39_word_new_br9 | strong<br>frozen<br>group<br>visa<br>mystery<br>cry<br>dash<br>version<br>suspect |  
-| bip_39_word_new_line1 | strong |  
-| bip_39_word_new_line10 | strong
+| bip_39_word_new_br_1 | strong |  
+| bip_39_word_new_br_10 | strong<br>frozen<br>group<br>visa<br>mystery<br>cry<br>dash<br>version<br>suspect<br>vital |  
+| bip_39_word_new_br_11 | strong<br>frozen<br>group<br>visa<br>mystery<br>cry<br>dash<br>version<br>suspect<br>vital<br>street |  
+| bip_39_word_new_br_12 | strong<br>frozen<br>group<br>visa<br>mystery<br>cry<br>dash<br>version<br>suspect<br>vital<br>street<br>absent |  
+| bip_39_word_new_br_2 | strong<br>frozen |  
+| bip_39_word_new_br_3 | strong<br>frozen<br>group |  
+| bip_39_word_new_br_4 | strong<br>frozen<br>group<br>visa |  
+| bip_39_word_new_br_5 | strong<br>frozen<br>group<br>visa<br>mystery |  
+| bip_39_word_new_br_6 | strong<br>frozen<br>group<br>visa<br>mystery<br>cry |  
+| bip_39_word_new_br_7 | strong<br>frozen<br>group<br>visa<br>mystery<br>cry<br>dash |  
+| bip_39_word_new_br_8 | strong<br>frozen<br>group<br>visa<br>mystery<br>cry<br>dash<br>version |  
+| bip_39_word_new_br_9 | strong<br>frozen<br>group<br>visa<br>mystery<br>cry<br>dash<br>version<br>suspect |  
+| bip_39_word_new_line_1 | strong |  
+| bip_39_word_new_line_10 | strong
 frozen
 group
 visa
@@ -55,7 +55,7 @@ dash
 version
 suspect
 vital |  
-| bip_39_word_new_line11 | strong
+| bip_39_word_new_line_11 | strong
 frozen
 group
 visa
@@ -66,7 +66,7 @@ version
 suspect
 vital
 street |  
-| bip_39_word_new_line12 | strong
+| bip_39_word_new_line_12 | strong
 frozen
 group
 visa
@@ -78,34 +78,34 @@ suspect
 vital
 street
 absent |  
-| bip_39_word_new_line2 | strong
+| bip_39_word_new_line_2 | strong
 frozen |  
-| bip_39_word_new_line3 | strong
+| bip_39_word_new_line_3 | strong
 frozen
 group |  
-| bip_39_word_new_line4 | strong
+| bip_39_word_new_line_4 | strong
 frozen
 group
 visa |  
-| bip_39_word_new_line5 | strong
+| bip_39_word_new_line_5 | strong
 frozen
 group
 visa
 mystery |  
-| bip_39_word_new_line6 | strong
+| bip_39_word_new_line_6 | strong
 frozen
 group
 visa
 mystery
 cry |  
-| bip_39_word_new_line7 | strong
+| bip_39_word_new_line_7 | strong
 frozen
 group
 visa
 mystery
 cry
 dash |  
-| bip_39_word_new_line8 | strong
+| bip_39_word_new_line_8 | strong
 frozen
 group
 visa
@@ -113,7 +113,7 @@ mystery
 cry
 dash
 version |  
-| bip_39_word_new_line9 | strong
+| bip_39_word_new_line_9 | strong
 frozen
 group
 visa

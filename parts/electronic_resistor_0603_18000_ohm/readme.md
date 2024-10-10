@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | globe |  
-| bip_39_word_new_br10 | globe<br>shield<br>input<br>sock<br>shoot<br>head<br>exhaust<br>erase<br>into<br>emerge |  
-| bip_39_word_new_br11 | globe<br>shield<br>input<br>sock<br>shoot<br>head<br>exhaust<br>erase<br>into<br>emerge<br>base |  
-| bip_39_word_new_br12 | globe<br>shield<br>input<br>sock<br>shoot<br>head<br>exhaust<br>erase<br>into<br>emerge<br>base<br>autumn |  
-| bip_39_word_new_br2 | globe<br>shield |  
-| bip_39_word_new_br3 | globe<br>shield<br>input |  
-| bip_39_word_new_br4 | globe<br>shield<br>input<br>sock |  
-| bip_39_word_new_br5 | globe<br>shield<br>input<br>sock<br>shoot |  
-| bip_39_word_new_br6 | globe<br>shield<br>input<br>sock<br>shoot<br>head |  
-| bip_39_word_new_br7 | globe<br>shield<br>input<br>sock<br>shoot<br>head<br>exhaust |  
-| bip_39_word_new_br8 | globe<br>shield<br>input<br>sock<br>shoot<br>head<br>exhaust<br>erase |  
-| bip_39_word_new_br9 | globe<br>shield<br>input<br>sock<br>shoot<br>head<br>exhaust<br>erase<br>into |  
-| bip_39_word_new_line1 | globe |  
-| bip_39_word_new_line10 | globe
+| bip_39_word_new_br_1 | globe |  
+| bip_39_word_new_br_10 | globe<br>shield<br>input<br>sock<br>shoot<br>head<br>exhaust<br>erase<br>into<br>emerge |  
+| bip_39_word_new_br_11 | globe<br>shield<br>input<br>sock<br>shoot<br>head<br>exhaust<br>erase<br>into<br>emerge<br>base |  
+| bip_39_word_new_br_12 | globe<br>shield<br>input<br>sock<br>shoot<br>head<br>exhaust<br>erase<br>into<br>emerge<br>base<br>autumn |  
+| bip_39_word_new_br_2 | globe<br>shield |  
+| bip_39_word_new_br_3 | globe<br>shield<br>input |  
+| bip_39_word_new_br_4 | globe<br>shield<br>input<br>sock |  
+| bip_39_word_new_br_5 | globe<br>shield<br>input<br>sock<br>shoot |  
+| bip_39_word_new_br_6 | globe<br>shield<br>input<br>sock<br>shoot<br>head |  
+| bip_39_word_new_br_7 | globe<br>shield<br>input<br>sock<br>shoot<br>head<br>exhaust |  
+| bip_39_word_new_br_8 | globe<br>shield<br>input<br>sock<br>shoot<br>head<br>exhaust<br>erase |  
+| bip_39_word_new_br_9 | globe<br>shield<br>input<br>sock<br>shoot<br>head<br>exhaust<br>erase<br>into |  
+| bip_39_word_new_line_1 | globe |  
+| bip_39_word_new_line_10 | globe
 shield
 input
 sock
@@ -55,7 +55,7 @@ exhaust
 erase
 into
 emerge |  
-| bip_39_word_new_line11 | globe
+| bip_39_word_new_line_11 | globe
 shield
 input
 sock
@@ -66,7 +66,7 @@ erase
 into
 emerge
 base |  
-| bip_39_word_new_line12 | globe
+| bip_39_word_new_line_12 | globe
 shield
 input
 sock
@@ -78,34 +78,34 @@ into
 emerge
 base
 autumn |  
-| bip_39_word_new_line2 | globe
+| bip_39_word_new_line_2 | globe
 shield |  
-| bip_39_word_new_line3 | globe
+| bip_39_word_new_line_3 | globe
 shield
 input |  
-| bip_39_word_new_line4 | globe
+| bip_39_word_new_line_4 | globe
 shield
 input
 sock |  
-| bip_39_word_new_line5 | globe
+| bip_39_word_new_line_5 | globe
 shield
 input
 sock
 shoot |  
-| bip_39_word_new_line6 | globe
+| bip_39_word_new_line_6 | globe
 shield
 input
 sock
 shoot
 head |  
-| bip_39_word_new_line7 | globe
+| bip_39_word_new_line_7 | globe
 shield
 input
 sock
 shoot
 head
 exhaust |  
-| bip_39_word_new_line8 | globe
+| bip_39_word_new_line_8 | globe
 shield
 input
 sock
@@ -113,7 +113,7 @@ shoot
 head
 exhaust
 erase |  
-| bip_39_word_new_line9 | globe
+| bip_39_word_new_line_9 | globe
 shield
 input
 sock

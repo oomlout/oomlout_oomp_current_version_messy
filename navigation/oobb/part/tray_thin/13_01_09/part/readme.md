@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | false |  
-| bip_39_word_new_br10 | false<br>gown<br>cherry<br>library<br>drop<br>angry<br>idle<br>ice<br>forget<br>pupil |  
-| bip_39_word_new_br11 | false<br>gown<br>cherry<br>library<br>drop<br>angry<br>idle<br>ice<br>forget<br>pupil<br>feed |  
-| bip_39_word_new_br12 | false<br>gown<br>cherry<br>library<br>drop<br>angry<br>idle<br>ice<br>forget<br>pupil<br>feed<br>afford |  
-| bip_39_word_new_br2 | false<br>gown |  
-| bip_39_word_new_br3 | false<br>gown<br>cherry |  
-| bip_39_word_new_br4 | false<br>gown<br>cherry<br>library |  
-| bip_39_word_new_br5 | false<br>gown<br>cherry<br>library<br>drop |  
-| bip_39_word_new_br6 | false<br>gown<br>cherry<br>library<br>drop<br>angry |  
-| bip_39_word_new_br7 | false<br>gown<br>cherry<br>library<br>drop<br>angry<br>idle |  
-| bip_39_word_new_br8 | false<br>gown<br>cherry<br>library<br>drop<br>angry<br>idle<br>ice |  
-| bip_39_word_new_br9 | false<br>gown<br>cherry<br>library<br>drop<br>angry<br>idle<br>ice<br>forget |  
-| bip_39_word_new_line1 | false |  
-| bip_39_word_new_line10 | false
+| bip_39_word_new_br_1 | false |  
+| bip_39_word_new_br_10 | false<br>gown<br>cherry<br>library<br>drop<br>angry<br>idle<br>ice<br>forget<br>pupil |  
+| bip_39_word_new_br_11 | false<br>gown<br>cherry<br>library<br>drop<br>angry<br>idle<br>ice<br>forget<br>pupil<br>feed |  
+| bip_39_word_new_br_12 | false<br>gown<br>cherry<br>library<br>drop<br>angry<br>idle<br>ice<br>forget<br>pupil<br>feed<br>afford |  
+| bip_39_word_new_br_2 | false<br>gown |  
+| bip_39_word_new_br_3 | false<br>gown<br>cherry |  
+| bip_39_word_new_br_4 | false<br>gown<br>cherry<br>library |  
+| bip_39_word_new_br_5 | false<br>gown<br>cherry<br>library<br>drop |  
+| bip_39_word_new_br_6 | false<br>gown<br>cherry<br>library<br>drop<br>angry |  
+| bip_39_word_new_br_7 | false<br>gown<br>cherry<br>library<br>drop<br>angry<br>idle |  
+| bip_39_word_new_br_8 | false<br>gown<br>cherry<br>library<br>drop<br>angry<br>idle<br>ice |  
+| bip_39_word_new_br_9 | false<br>gown<br>cherry<br>library<br>drop<br>angry<br>idle<br>ice<br>forget |  
+| bip_39_word_new_line_1 | false |  
+| bip_39_word_new_line_10 | false
 gown
 cherry
 library
@@ -55,7 +55,7 @@ idle
 ice
 forget
 pupil |  
-| bip_39_word_new_line11 | false
+| bip_39_word_new_line_11 | false
 gown
 cherry
 library
@@ -66,7 +66,7 @@ ice
 forget
 pupil
 feed |  
-| bip_39_word_new_line12 | false
+| bip_39_word_new_line_12 | false
 gown
 cherry
 library
@@ -78,34 +78,34 @@ forget
 pupil
 feed
 afford |  
-| bip_39_word_new_line2 | false
+| bip_39_word_new_line_2 | false
 gown |  
-| bip_39_word_new_line3 | false
+| bip_39_word_new_line_3 | false
 gown
 cherry |  
-| bip_39_word_new_line4 | false
+| bip_39_word_new_line_4 | false
 gown
 cherry
 library |  
-| bip_39_word_new_line5 | false
+| bip_39_word_new_line_5 | false
 gown
 cherry
 library
 drop |  
-| bip_39_word_new_line6 | false
+| bip_39_word_new_line_6 | false
 gown
 cherry
 library
 drop
 angry |  
-| bip_39_word_new_line7 | false
+| bip_39_word_new_line_7 | false
 gown
 cherry
 library
 drop
 angry
 idle |  
-| bip_39_word_new_line8 | false
+| bip_39_word_new_line_8 | false
 gown
 cherry
 library
@@ -113,7 +113,7 @@ drop
 angry
 idle
 ice |  
-| bip_39_word_new_line9 | false
+| bip_39_word_new_line_9 | false
 gown
 cherry
 library

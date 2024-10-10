@@ -1,17 +1,17 @@
-bip_39_word_new_br1: provide
-bip_39_word_new_br10: provide<br>mom<br>barrel<br>pilot<br>horror<br>slogan<br>unable<br>female<br>connect<br>early
-bip_39_word_new_br11: provide<br>mom<br>barrel<br>pilot<br>horror<br>slogan<br>unable<br>female<br>connect<br>early<br>occur
-bip_39_word_new_br12: provide<br>mom<br>barrel<br>pilot<br>horror<br>slogan<br>unable<br>female<br>connect<br>early<br>occur<br>alter
-bip_39_word_new_br2: provide<br>mom
-bip_39_word_new_br3: provide<br>mom<br>barrel
-bip_39_word_new_br4: provide<br>mom<br>barrel<br>pilot
-bip_39_word_new_br5: provide<br>mom<br>barrel<br>pilot<br>horror
-bip_39_word_new_br6: provide<br>mom<br>barrel<br>pilot<br>horror<br>slogan
-bip_39_word_new_br7: provide<br>mom<br>barrel<br>pilot<br>horror<br>slogan<br>unable
-bip_39_word_new_br8: provide<br>mom<br>barrel<br>pilot<br>horror<br>slogan<br>unable<br>female
-bip_39_word_new_br9: provide<br>mom<br>barrel<br>pilot<br>horror<br>slogan<br>unable<br>female<br>connect
-bip_39_word_new_line1: provide
-bip_39_word_new_line10: 'provide
+bip_39_word_new_br_1: provide
+bip_39_word_new_br_10: provide<br>mom<br>barrel<br>pilot<br>horror<br>slogan<br>unable<br>female<br>connect<br>early
+bip_39_word_new_br_11: provide<br>mom<br>barrel<br>pilot<br>horror<br>slogan<br>unable<br>female<br>connect<br>early<br>occur
+bip_39_word_new_br_12: provide<br>mom<br>barrel<br>pilot<br>horror<br>slogan<br>unable<br>female<br>connect<br>early<br>occur<br>alter
+bip_39_word_new_br_2: provide<br>mom
+bip_39_word_new_br_3: provide<br>mom<br>barrel
+bip_39_word_new_br_4: provide<br>mom<br>barrel<br>pilot
+bip_39_word_new_br_5: provide<br>mom<br>barrel<br>pilot<br>horror
+bip_39_word_new_br_6: provide<br>mom<br>barrel<br>pilot<br>horror<br>slogan
+bip_39_word_new_br_7: provide<br>mom<br>barrel<br>pilot<br>horror<br>slogan<br>unable
+bip_39_word_new_br_8: provide<br>mom<br>barrel<br>pilot<br>horror<br>slogan<br>unable<br>female
+bip_39_word_new_br_9: provide<br>mom<br>barrel<br>pilot<br>horror<br>slogan<br>unable<br>female<br>connect
+bip_39_word_new_line_1: provide
+bip_39_word_new_line_10: 'provide
 
   mom
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'provide
   connect
 
   early'
-bip_39_word_new_line11: 'provide
+bip_39_word_new_line_11: 'provide
 
   mom
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'provide
   early
 
   occur'
-bip_39_word_new_line12: 'provide
+bip_39_word_new_line_12: 'provide
 
   mom
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'provide
   occur
 
   alter'
-bip_39_word_new_line2: 'provide
+bip_39_word_new_line_2: 'provide
 
   mom'
-bip_39_word_new_line3: 'provide
+bip_39_word_new_line_3: 'provide
 
   mom
 
   barrel'
-bip_39_word_new_line4: 'provide
+bip_39_word_new_line_4: 'provide
 
   mom
 
   barrel
 
   pilot'
-bip_39_word_new_line5: 'provide
+bip_39_word_new_line_5: 'provide
 
   mom
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'provide
   pilot
 
   horror'
-bip_39_word_new_line6: 'provide
+bip_39_word_new_line_6: 'provide
 
   mom
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'provide
   horror
 
   slogan'
-bip_39_word_new_line7: 'provide
+bip_39_word_new_line_7: 'provide
 
   mom
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'provide
   slogan
 
   unable'
-bip_39_word_new_line8: 'provide
+bip_39_word_new_line_8: 'provide
 
   mom
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'provide
   unable
 
   female'
-bip_39_word_new_line9: 'provide
+bip_39_word_new_line_9: 'provide
 
   mom
 

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | region |  
-| bip_39_word_new_br10 | region<br>bitter<br>scene<br>number<br>game<br>alpha<br>lend<br>apology<br>helmet<br>repair |  
-| bip_39_word_new_br11 | region<br>bitter<br>scene<br>number<br>game<br>alpha<br>lend<br>apology<br>helmet<br>repair<br>border |  
-| bip_39_word_new_br12 | region<br>bitter<br>scene<br>number<br>game<br>alpha<br>lend<br>apology<br>helmet<br>repair<br>border<br>amateur |  
-| bip_39_word_new_br2 | region<br>bitter |  
-| bip_39_word_new_br3 | region<br>bitter<br>scene |  
-| bip_39_word_new_br4 | region<br>bitter<br>scene<br>number |  
-| bip_39_word_new_br5 | region<br>bitter<br>scene<br>number<br>game |  
-| bip_39_word_new_br6 | region<br>bitter<br>scene<br>number<br>game<br>alpha |  
-| bip_39_word_new_br7 | region<br>bitter<br>scene<br>number<br>game<br>alpha<br>lend |  
-| bip_39_word_new_br8 | region<br>bitter<br>scene<br>number<br>game<br>alpha<br>lend<br>apology |  
-| bip_39_word_new_br9 | region<br>bitter<br>scene<br>number<br>game<br>alpha<br>lend<br>apology<br>helmet |  
-| bip_39_word_new_line1 | region |  
-| bip_39_word_new_line10 | region
+| bip_39_word_new_br_1 | region |  
+| bip_39_word_new_br_10 | region<br>bitter<br>scene<br>number<br>game<br>alpha<br>lend<br>apology<br>helmet<br>repair |  
+| bip_39_word_new_br_11 | region<br>bitter<br>scene<br>number<br>game<br>alpha<br>lend<br>apology<br>helmet<br>repair<br>border |  
+| bip_39_word_new_br_12 | region<br>bitter<br>scene<br>number<br>game<br>alpha<br>lend<br>apology<br>helmet<br>repair<br>border<br>amateur |  
+| bip_39_word_new_br_2 | region<br>bitter |  
+| bip_39_word_new_br_3 | region<br>bitter<br>scene |  
+| bip_39_word_new_br_4 | region<br>bitter<br>scene<br>number |  
+| bip_39_word_new_br_5 | region<br>bitter<br>scene<br>number<br>game |  
+| bip_39_word_new_br_6 | region<br>bitter<br>scene<br>number<br>game<br>alpha |  
+| bip_39_word_new_br_7 | region<br>bitter<br>scene<br>number<br>game<br>alpha<br>lend |  
+| bip_39_word_new_br_8 | region<br>bitter<br>scene<br>number<br>game<br>alpha<br>lend<br>apology |  
+| bip_39_word_new_br_9 | region<br>bitter<br>scene<br>number<br>game<br>alpha<br>lend<br>apology<br>helmet |  
+| bip_39_word_new_line_1 | region |  
+| bip_39_word_new_line_10 | region
 bitter
 scene
 number
@@ -55,7 +55,7 @@ lend
 apology
 helmet
 repair |  
-| bip_39_word_new_line11 | region
+| bip_39_word_new_line_11 | region
 bitter
 scene
 number
@@ -66,7 +66,7 @@ apology
 helmet
 repair
 border |  
-| bip_39_word_new_line12 | region
+| bip_39_word_new_line_12 | region
 bitter
 scene
 number
@@ -78,34 +78,34 @@ helmet
 repair
 border
 amateur |  
-| bip_39_word_new_line2 | region
+| bip_39_word_new_line_2 | region
 bitter |  
-| bip_39_word_new_line3 | region
+| bip_39_word_new_line_3 | region
 bitter
 scene |  
-| bip_39_word_new_line4 | region
+| bip_39_word_new_line_4 | region
 bitter
 scene
 number |  
-| bip_39_word_new_line5 | region
+| bip_39_word_new_line_5 | region
 bitter
 scene
 number
 game |  
-| bip_39_word_new_line6 | region
+| bip_39_word_new_line_6 | region
 bitter
 scene
 number
 game
 alpha |  
-| bip_39_word_new_line7 | region
+| bip_39_word_new_line_7 | region
 bitter
 scene
 number
 game
 alpha
 lend |  
-| bip_39_word_new_line8 | region
+| bip_39_word_new_line_8 | region
 bitter
 scene
 number
@@ -113,7 +113,7 @@ game
 alpha
 lend
 apology |  
-| bip_39_word_new_line9 | region
+| bip_39_word_new_line_9 | region
 bitter
 scene
 number

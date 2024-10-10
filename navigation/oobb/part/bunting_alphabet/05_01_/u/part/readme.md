@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | general |  
-| bip_39_word_new_br10 | general<br>pool<br>leader<br>patrol<br>fat<br>oxygen<br>virus<br>lunch<br>clay<br>base |  
-| bip_39_word_new_br11 | general<br>pool<br>leader<br>patrol<br>fat<br>oxygen<br>virus<br>lunch<br>clay<br>base<br>host |  
-| bip_39_word_new_br12 | general<br>pool<br>leader<br>patrol<br>fat<br>oxygen<br>virus<br>lunch<br>clay<br>base<br>host<br>artist |  
-| bip_39_word_new_br2 | general<br>pool |  
-| bip_39_word_new_br3 | general<br>pool<br>leader |  
-| bip_39_word_new_br4 | general<br>pool<br>leader<br>patrol |  
-| bip_39_word_new_br5 | general<br>pool<br>leader<br>patrol<br>fat |  
-| bip_39_word_new_br6 | general<br>pool<br>leader<br>patrol<br>fat<br>oxygen |  
-| bip_39_word_new_br7 | general<br>pool<br>leader<br>patrol<br>fat<br>oxygen<br>virus |  
-| bip_39_word_new_br8 | general<br>pool<br>leader<br>patrol<br>fat<br>oxygen<br>virus<br>lunch |  
-| bip_39_word_new_br9 | general<br>pool<br>leader<br>patrol<br>fat<br>oxygen<br>virus<br>lunch<br>clay |  
-| bip_39_word_new_line1 | general |  
-| bip_39_word_new_line10 | general
+| bip_39_word_new_br_1 | general |  
+| bip_39_word_new_br_10 | general<br>pool<br>leader<br>patrol<br>fat<br>oxygen<br>virus<br>lunch<br>clay<br>base |  
+| bip_39_word_new_br_11 | general<br>pool<br>leader<br>patrol<br>fat<br>oxygen<br>virus<br>lunch<br>clay<br>base<br>host |  
+| bip_39_word_new_br_12 | general<br>pool<br>leader<br>patrol<br>fat<br>oxygen<br>virus<br>lunch<br>clay<br>base<br>host<br>artist |  
+| bip_39_word_new_br_2 | general<br>pool |  
+| bip_39_word_new_br_3 | general<br>pool<br>leader |  
+| bip_39_word_new_br_4 | general<br>pool<br>leader<br>patrol |  
+| bip_39_word_new_br_5 | general<br>pool<br>leader<br>patrol<br>fat |  
+| bip_39_word_new_br_6 | general<br>pool<br>leader<br>patrol<br>fat<br>oxygen |  
+| bip_39_word_new_br_7 | general<br>pool<br>leader<br>patrol<br>fat<br>oxygen<br>virus |  
+| bip_39_word_new_br_8 | general<br>pool<br>leader<br>patrol<br>fat<br>oxygen<br>virus<br>lunch |  
+| bip_39_word_new_br_9 | general<br>pool<br>leader<br>patrol<br>fat<br>oxygen<br>virus<br>lunch<br>clay |  
+| bip_39_word_new_line_1 | general |  
+| bip_39_word_new_line_10 | general
 pool
 leader
 patrol
@@ -55,7 +55,7 @@ virus
 lunch
 clay
 base |  
-| bip_39_word_new_line11 | general
+| bip_39_word_new_line_11 | general
 pool
 leader
 patrol
@@ -66,7 +66,7 @@ lunch
 clay
 base
 host |  
-| bip_39_word_new_line12 | general
+| bip_39_word_new_line_12 | general
 pool
 leader
 patrol
@@ -78,34 +78,34 @@ clay
 base
 host
 artist |  
-| bip_39_word_new_line2 | general
+| bip_39_word_new_line_2 | general
 pool |  
-| bip_39_word_new_line3 | general
+| bip_39_word_new_line_3 | general
 pool
 leader |  
-| bip_39_word_new_line4 | general
+| bip_39_word_new_line_4 | general
 pool
 leader
 patrol |  
-| bip_39_word_new_line5 | general
+| bip_39_word_new_line_5 | general
 pool
 leader
 patrol
 fat |  
-| bip_39_word_new_line6 | general
+| bip_39_word_new_line_6 | general
 pool
 leader
 patrol
 fat
 oxygen |  
-| bip_39_word_new_line7 | general
+| bip_39_word_new_line_7 | general
 pool
 leader
 patrol
 fat
 oxygen
 virus |  
-| bip_39_word_new_line8 | general
+| bip_39_word_new_line_8 | general
 pool
 leader
 patrol
@@ -113,7 +113,7 @@ fat
 oxygen
 virus
 lunch |  
-| bip_39_word_new_line9 | general
+| bip_39_word_new_line_9 | general
 pool
 leader
 patrol

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | thumb |  
-| bip_39_word_new_br10 | thumb<br>team<br>control<br>only<br>sense<br>priority<br>unlock<br>excuse<br>parrot<br>such |  
-| bip_39_word_new_br11 | thumb<br>team<br>control<br>only<br>sense<br>priority<br>unlock<br>excuse<br>parrot<br>such<br>clog |  
-| bip_39_word_new_br12 | thumb<br>team<br>control<br>only<br>sense<br>priority<br>unlock<br>excuse<br>parrot<br>such<br>clog<br>armor |  
-| bip_39_word_new_br2 | thumb<br>team |  
-| bip_39_word_new_br3 | thumb<br>team<br>control |  
-| bip_39_word_new_br4 | thumb<br>team<br>control<br>only |  
-| bip_39_word_new_br5 | thumb<br>team<br>control<br>only<br>sense |  
-| bip_39_word_new_br6 | thumb<br>team<br>control<br>only<br>sense<br>priority |  
-| bip_39_word_new_br7 | thumb<br>team<br>control<br>only<br>sense<br>priority<br>unlock |  
-| bip_39_word_new_br8 | thumb<br>team<br>control<br>only<br>sense<br>priority<br>unlock<br>excuse |  
-| bip_39_word_new_br9 | thumb<br>team<br>control<br>only<br>sense<br>priority<br>unlock<br>excuse<br>parrot |  
-| bip_39_word_new_line1 | thumb |  
-| bip_39_word_new_line10 | thumb
+| bip_39_word_new_br_1 | thumb |  
+| bip_39_word_new_br_10 | thumb<br>team<br>control<br>only<br>sense<br>priority<br>unlock<br>excuse<br>parrot<br>such |  
+| bip_39_word_new_br_11 | thumb<br>team<br>control<br>only<br>sense<br>priority<br>unlock<br>excuse<br>parrot<br>such<br>clog |  
+| bip_39_word_new_br_12 | thumb<br>team<br>control<br>only<br>sense<br>priority<br>unlock<br>excuse<br>parrot<br>such<br>clog<br>armor |  
+| bip_39_word_new_br_2 | thumb<br>team |  
+| bip_39_word_new_br_3 | thumb<br>team<br>control |  
+| bip_39_word_new_br_4 | thumb<br>team<br>control<br>only |  
+| bip_39_word_new_br_5 | thumb<br>team<br>control<br>only<br>sense |  
+| bip_39_word_new_br_6 | thumb<br>team<br>control<br>only<br>sense<br>priority |  
+| bip_39_word_new_br_7 | thumb<br>team<br>control<br>only<br>sense<br>priority<br>unlock |  
+| bip_39_word_new_br_8 | thumb<br>team<br>control<br>only<br>sense<br>priority<br>unlock<br>excuse |  
+| bip_39_word_new_br_9 | thumb<br>team<br>control<br>only<br>sense<br>priority<br>unlock<br>excuse<br>parrot |  
+| bip_39_word_new_line_1 | thumb |  
+| bip_39_word_new_line_10 | thumb
 team
 control
 only
@@ -55,7 +55,7 @@ unlock
 excuse
 parrot
 such |  
-| bip_39_word_new_line11 | thumb
+| bip_39_word_new_line_11 | thumb
 team
 control
 only
@@ -66,7 +66,7 @@ excuse
 parrot
 such
 clog |  
-| bip_39_word_new_line12 | thumb
+| bip_39_word_new_line_12 | thumb
 team
 control
 only
@@ -78,34 +78,34 @@ parrot
 such
 clog
 armor |  
-| bip_39_word_new_line2 | thumb
+| bip_39_word_new_line_2 | thumb
 team |  
-| bip_39_word_new_line3 | thumb
+| bip_39_word_new_line_3 | thumb
 team
 control |  
-| bip_39_word_new_line4 | thumb
+| bip_39_word_new_line_4 | thumb
 team
 control
 only |  
-| bip_39_word_new_line5 | thumb
+| bip_39_word_new_line_5 | thumb
 team
 control
 only
 sense |  
-| bip_39_word_new_line6 | thumb
+| bip_39_word_new_line_6 | thumb
 team
 control
 only
 sense
 priority |  
-| bip_39_word_new_line7 | thumb
+| bip_39_word_new_line_7 | thumb
 team
 control
 only
 sense
 priority
 unlock |  
-| bip_39_word_new_line8 | thumb
+| bip_39_word_new_line_8 | thumb
 team
 control
 only
@@ -113,7 +113,7 @@ sense
 priority
 unlock
 excuse |  
-| bip_39_word_new_line9 | thumb
+| bip_39_word_new_line_9 | thumb
 team
 control
 only

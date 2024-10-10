@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | inner |  
-| bip_39_word_new_br10 | inner<br>grain<br>left<br>gas<br>merry<br>time<br>kiwi<br>mule<br>uncle<br>deer |  
-| bip_39_word_new_br11 | inner<br>grain<br>left<br>gas<br>merry<br>time<br>kiwi<br>mule<br>uncle<br>deer<br>theory |  
-| bip_39_word_new_br12 | inner<br>grain<br>left<br>gas<br>merry<br>time<br>kiwi<br>mule<br>uncle<br>deer<br>theory<br>average |  
-| bip_39_word_new_br2 | inner<br>grain |  
-| bip_39_word_new_br3 | inner<br>grain<br>left |  
-| bip_39_word_new_br4 | inner<br>grain<br>left<br>gas |  
-| bip_39_word_new_br5 | inner<br>grain<br>left<br>gas<br>merry |  
-| bip_39_word_new_br6 | inner<br>grain<br>left<br>gas<br>merry<br>time |  
-| bip_39_word_new_br7 | inner<br>grain<br>left<br>gas<br>merry<br>time<br>kiwi |  
-| bip_39_word_new_br8 | inner<br>grain<br>left<br>gas<br>merry<br>time<br>kiwi<br>mule |  
-| bip_39_word_new_br9 | inner<br>grain<br>left<br>gas<br>merry<br>time<br>kiwi<br>mule<br>uncle |  
-| bip_39_word_new_line1 | inner |  
-| bip_39_word_new_line10 | inner
+| bip_39_word_new_br_1 | inner |  
+| bip_39_word_new_br_10 | inner<br>grain<br>left<br>gas<br>merry<br>time<br>kiwi<br>mule<br>uncle<br>deer |  
+| bip_39_word_new_br_11 | inner<br>grain<br>left<br>gas<br>merry<br>time<br>kiwi<br>mule<br>uncle<br>deer<br>theory |  
+| bip_39_word_new_br_12 | inner<br>grain<br>left<br>gas<br>merry<br>time<br>kiwi<br>mule<br>uncle<br>deer<br>theory<br>average |  
+| bip_39_word_new_br_2 | inner<br>grain |  
+| bip_39_word_new_br_3 | inner<br>grain<br>left |  
+| bip_39_word_new_br_4 | inner<br>grain<br>left<br>gas |  
+| bip_39_word_new_br_5 | inner<br>grain<br>left<br>gas<br>merry |  
+| bip_39_word_new_br_6 | inner<br>grain<br>left<br>gas<br>merry<br>time |  
+| bip_39_word_new_br_7 | inner<br>grain<br>left<br>gas<br>merry<br>time<br>kiwi |  
+| bip_39_word_new_br_8 | inner<br>grain<br>left<br>gas<br>merry<br>time<br>kiwi<br>mule |  
+| bip_39_word_new_br_9 | inner<br>grain<br>left<br>gas<br>merry<br>time<br>kiwi<br>mule<br>uncle |  
+| bip_39_word_new_line_1 | inner |  
+| bip_39_word_new_line_10 | inner
 grain
 left
 gas
@@ -55,7 +55,7 @@ kiwi
 mule
 uncle
 deer |  
-| bip_39_word_new_line11 | inner
+| bip_39_word_new_line_11 | inner
 grain
 left
 gas
@@ -66,7 +66,7 @@ mule
 uncle
 deer
 theory |  
-| bip_39_word_new_line12 | inner
+| bip_39_word_new_line_12 | inner
 grain
 left
 gas
@@ -78,34 +78,34 @@ uncle
 deer
 theory
 average |  
-| bip_39_word_new_line2 | inner
+| bip_39_word_new_line_2 | inner
 grain |  
-| bip_39_word_new_line3 | inner
+| bip_39_word_new_line_3 | inner
 grain
 left |  
-| bip_39_word_new_line4 | inner
+| bip_39_word_new_line_4 | inner
 grain
 left
 gas |  
-| bip_39_word_new_line5 | inner
+| bip_39_word_new_line_5 | inner
 grain
 left
 gas
 merry |  
-| bip_39_word_new_line6 | inner
+| bip_39_word_new_line_6 | inner
 grain
 left
 gas
 merry
 time |  
-| bip_39_word_new_line7 | inner
+| bip_39_word_new_line_7 | inner
 grain
 left
 gas
 merry
 time
 kiwi |  
-| bip_39_word_new_line8 | inner
+| bip_39_word_new_line_8 | inner
 grain
 left
 gas
@@ -113,7 +113,7 @@ merry
 time
 kiwi
 mule |  
-| bip_39_word_new_line9 | inner
+| bip_39_word_new_line_9 | inner
 grain
 left
 gas

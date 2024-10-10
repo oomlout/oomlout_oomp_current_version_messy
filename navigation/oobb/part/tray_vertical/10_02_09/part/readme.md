@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gun |  
-| bip_39_word_new_br10 | gun<br>inmate<br>foam<br>hedgehog<br>coast<br>raccoon<br>camp<br>aspect<br>stadium<br>rival |  
-| bip_39_word_new_br11 | gun<br>inmate<br>foam<br>hedgehog<br>coast<br>raccoon<br>camp<br>aspect<br>stadium<br>rival<br>library |  
-| bip_39_word_new_br12 | gun<br>inmate<br>foam<br>hedgehog<br>coast<br>raccoon<br>camp<br>aspect<br>stadium<br>rival<br>library<br>accuse |  
-| bip_39_word_new_br2 | gun<br>inmate |  
-| bip_39_word_new_br3 | gun<br>inmate<br>foam |  
-| bip_39_word_new_br4 | gun<br>inmate<br>foam<br>hedgehog |  
-| bip_39_word_new_br5 | gun<br>inmate<br>foam<br>hedgehog<br>coast |  
-| bip_39_word_new_br6 | gun<br>inmate<br>foam<br>hedgehog<br>coast<br>raccoon |  
-| bip_39_word_new_br7 | gun<br>inmate<br>foam<br>hedgehog<br>coast<br>raccoon<br>camp |  
-| bip_39_word_new_br8 | gun<br>inmate<br>foam<br>hedgehog<br>coast<br>raccoon<br>camp<br>aspect |  
-| bip_39_word_new_br9 | gun<br>inmate<br>foam<br>hedgehog<br>coast<br>raccoon<br>camp<br>aspect<br>stadium |  
-| bip_39_word_new_line1 | gun |  
-| bip_39_word_new_line10 | gun
+| bip_39_word_new_br_1 | gun |  
+| bip_39_word_new_br_10 | gun<br>inmate<br>foam<br>hedgehog<br>coast<br>raccoon<br>camp<br>aspect<br>stadium<br>rival |  
+| bip_39_word_new_br_11 | gun<br>inmate<br>foam<br>hedgehog<br>coast<br>raccoon<br>camp<br>aspect<br>stadium<br>rival<br>library |  
+| bip_39_word_new_br_12 | gun<br>inmate<br>foam<br>hedgehog<br>coast<br>raccoon<br>camp<br>aspect<br>stadium<br>rival<br>library<br>accuse |  
+| bip_39_word_new_br_2 | gun<br>inmate |  
+| bip_39_word_new_br_3 | gun<br>inmate<br>foam |  
+| bip_39_word_new_br_4 | gun<br>inmate<br>foam<br>hedgehog |  
+| bip_39_word_new_br_5 | gun<br>inmate<br>foam<br>hedgehog<br>coast |  
+| bip_39_word_new_br_6 | gun<br>inmate<br>foam<br>hedgehog<br>coast<br>raccoon |  
+| bip_39_word_new_br_7 | gun<br>inmate<br>foam<br>hedgehog<br>coast<br>raccoon<br>camp |  
+| bip_39_word_new_br_8 | gun<br>inmate<br>foam<br>hedgehog<br>coast<br>raccoon<br>camp<br>aspect |  
+| bip_39_word_new_br_9 | gun<br>inmate<br>foam<br>hedgehog<br>coast<br>raccoon<br>camp<br>aspect<br>stadium |  
+| bip_39_word_new_line_1 | gun |  
+| bip_39_word_new_line_10 | gun
 inmate
 foam
 hedgehog
@@ -55,7 +55,7 @@ camp
 aspect
 stadium
 rival |  
-| bip_39_word_new_line11 | gun
+| bip_39_word_new_line_11 | gun
 inmate
 foam
 hedgehog
@@ -66,7 +66,7 @@ aspect
 stadium
 rival
 library |  
-| bip_39_word_new_line12 | gun
+| bip_39_word_new_line_12 | gun
 inmate
 foam
 hedgehog
@@ -78,34 +78,34 @@ stadium
 rival
 library
 accuse |  
-| bip_39_word_new_line2 | gun
+| bip_39_word_new_line_2 | gun
 inmate |  
-| bip_39_word_new_line3 | gun
+| bip_39_word_new_line_3 | gun
 inmate
 foam |  
-| bip_39_word_new_line4 | gun
+| bip_39_word_new_line_4 | gun
 inmate
 foam
 hedgehog |  
-| bip_39_word_new_line5 | gun
+| bip_39_word_new_line_5 | gun
 inmate
 foam
 hedgehog
 coast |  
-| bip_39_word_new_line6 | gun
+| bip_39_word_new_line_6 | gun
 inmate
 foam
 hedgehog
 coast
 raccoon |  
-| bip_39_word_new_line7 | gun
+| bip_39_word_new_line_7 | gun
 inmate
 foam
 hedgehog
 coast
 raccoon
 camp |  
-| bip_39_word_new_line8 | gun
+| bip_39_word_new_line_8 | gun
 inmate
 foam
 hedgehog
@@ -113,7 +113,7 @@ coast
 raccoon
 camp
 aspect |  
-| bip_39_word_new_line9 | gun
+| bip_39_word_new_line_9 | gun
 inmate
 foam
 hedgehog

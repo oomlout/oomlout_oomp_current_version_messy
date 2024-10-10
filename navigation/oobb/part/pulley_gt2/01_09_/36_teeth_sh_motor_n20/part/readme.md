@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | diary |  
-| bip_39_word_new_br10 | diary<br>charge<br>genius<br>lock<br>library<br>priority<br>destroy<br>dutch<br>jazz<br>humor |  
-| bip_39_word_new_br11 | diary<br>charge<br>genius<br>lock<br>library<br>priority<br>destroy<br>dutch<br>jazz<br>humor<br>feed |  
-| bip_39_word_new_br12 | diary<br>charge<br>genius<br>lock<br>library<br>priority<br>destroy<br>dutch<br>jazz<br>humor<br>feed<br>arrive |  
-| bip_39_word_new_br2 | diary<br>charge |  
-| bip_39_word_new_br3 | diary<br>charge<br>genius |  
-| bip_39_word_new_br4 | diary<br>charge<br>genius<br>lock |  
-| bip_39_word_new_br5 | diary<br>charge<br>genius<br>lock<br>library |  
-| bip_39_word_new_br6 | diary<br>charge<br>genius<br>lock<br>library<br>priority |  
-| bip_39_word_new_br7 | diary<br>charge<br>genius<br>lock<br>library<br>priority<br>destroy |  
-| bip_39_word_new_br8 | diary<br>charge<br>genius<br>lock<br>library<br>priority<br>destroy<br>dutch |  
-| bip_39_word_new_br9 | diary<br>charge<br>genius<br>lock<br>library<br>priority<br>destroy<br>dutch<br>jazz |  
-| bip_39_word_new_line1 | diary |  
-| bip_39_word_new_line10 | diary
+| bip_39_word_new_br_1 | diary |  
+| bip_39_word_new_br_10 | diary<br>charge<br>genius<br>lock<br>library<br>priority<br>destroy<br>dutch<br>jazz<br>humor |  
+| bip_39_word_new_br_11 | diary<br>charge<br>genius<br>lock<br>library<br>priority<br>destroy<br>dutch<br>jazz<br>humor<br>feed |  
+| bip_39_word_new_br_12 | diary<br>charge<br>genius<br>lock<br>library<br>priority<br>destroy<br>dutch<br>jazz<br>humor<br>feed<br>arrive |  
+| bip_39_word_new_br_2 | diary<br>charge |  
+| bip_39_word_new_br_3 | diary<br>charge<br>genius |  
+| bip_39_word_new_br_4 | diary<br>charge<br>genius<br>lock |  
+| bip_39_word_new_br_5 | diary<br>charge<br>genius<br>lock<br>library |  
+| bip_39_word_new_br_6 | diary<br>charge<br>genius<br>lock<br>library<br>priority |  
+| bip_39_word_new_br_7 | diary<br>charge<br>genius<br>lock<br>library<br>priority<br>destroy |  
+| bip_39_word_new_br_8 | diary<br>charge<br>genius<br>lock<br>library<br>priority<br>destroy<br>dutch |  
+| bip_39_word_new_br_9 | diary<br>charge<br>genius<br>lock<br>library<br>priority<br>destroy<br>dutch<br>jazz |  
+| bip_39_word_new_line_1 | diary |  
+| bip_39_word_new_line_10 | diary
 charge
 genius
 lock
@@ -55,7 +55,7 @@ destroy
 dutch
 jazz
 humor |  
-| bip_39_word_new_line11 | diary
+| bip_39_word_new_line_11 | diary
 charge
 genius
 lock
@@ -66,7 +66,7 @@ dutch
 jazz
 humor
 feed |  
-| bip_39_word_new_line12 | diary
+| bip_39_word_new_line_12 | diary
 charge
 genius
 lock
@@ -78,34 +78,34 @@ jazz
 humor
 feed
 arrive |  
-| bip_39_word_new_line2 | diary
+| bip_39_word_new_line_2 | diary
 charge |  
-| bip_39_word_new_line3 | diary
+| bip_39_word_new_line_3 | diary
 charge
 genius |  
-| bip_39_word_new_line4 | diary
+| bip_39_word_new_line_4 | diary
 charge
 genius
 lock |  
-| bip_39_word_new_line5 | diary
+| bip_39_word_new_line_5 | diary
 charge
 genius
 lock
 library |  
-| bip_39_word_new_line6 | diary
+| bip_39_word_new_line_6 | diary
 charge
 genius
 lock
 library
 priority |  
-| bip_39_word_new_line7 | diary
+| bip_39_word_new_line_7 | diary
 charge
 genius
 lock
 library
 priority
 destroy |  
-| bip_39_word_new_line8 | diary
+| bip_39_word_new_line_8 | diary
 charge
 genius
 lock
@@ -113,7 +113,7 @@ library
 priority
 destroy
 dutch |  
-| bip_39_word_new_line9 | diary
+| bip_39_word_new_line_9 | diary
 charge
 genius
 lock

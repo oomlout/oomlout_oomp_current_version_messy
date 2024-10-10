@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | riot |  
-| bip_39_word_new_br10 | riot<br>boy<br>lake<br>rare<br>flock<br>future<br>fruit<br>sunset<br>sample<br>liquid |  
-| bip_39_word_new_br11 | riot<br>boy<br>lake<br>rare<br>flock<br>future<br>fruit<br>sunset<br>sample<br>liquid<br>bone |  
-| bip_39_word_new_br12 | riot<br>boy<br>lake<br>rare<br>flock<br>future<br>fruit<br>sunset<br>sample<br>liquid<br>bone<br>absorb |  
-| bip_39_word_new_br2 | riot<br>boy |  
-| bip_39_word_new_br3 | riot<br>boy<br>lake |  
-| bip_39_word_new_br4 | riot<br>boy<br>lake<br>rare |  
-| bip_39_word_new_br5 | riot<br>boy<br>lake<br>rare<br>flock |  
-| bip_39_word_new_br6 | riot<br>boy<br>lake<br>rare<br>flock<br>future |  
-| bip_39_word_new_br7 | riot<br>boy<br>lake<br>rare<br>flock<br>future<br>fruit |  
-| bip_39_word_new_br8 | riot<br>boy<br>lake<br>rare<br>flock<br>future<br>fruit<br>sunset |  
-| bip_39_word_new_br9 | riot<br>boy<br>lake<br>rare<br>flock<br>future<br>fruit<br>sunset<br>sample |  
-| bip_39_word_new_line1 | riot |  
-| bip_39_word_new_line10 | riot
+| bip_39_word_new_br_1 | riot |  
+| bip_39_word_new_br_10 | riot<br>boy<br>lake<br>rare<br>flock<br>future<br>fruit<br>sunset<br>sample<br>liquid |  
+| bip_39_word_new_br_11 | riot<br>boy<br>lake<br>rare<br>flock<br>future<br>fruit<br>sunset<br>sample<br>liquid<br>bone |  
+| bip_39_word_new_br_12 | riot<br>boy<br>lake<br>rare<br>flock<br>future<br>fruit<br>sunset<br>sample<br>liquid<br>bone<br>absorb |  
+| bip_39_word_new_br_2 | riot<br>boy |  
+| bip_39_word_new_br_3 | riot<br>boy<br>lake |  
+| bip_39_word_new_br_4 | riot<br>boy<br>lake<br>rare |  
+| bip_39_word_new_br_5 | riot<br>boy<br>lake<br>rare<br>flock |  
+| bip_39_word_new_br_6 | riot<br>boy<br>lake<br>rare<br>flock<br>future |  
+| bip_39_word_new_br_7 | riot<br>boy<br>lake<br>rare<br>flock<br>future<br>fruit |  
+| bip_39_word_new_br_8 | riot<br>boy<br>lake<br>rare<br>flock<br>future<br>fruit<br>sunset |  
+| bip_39_word_new_br_9 | riot<br>boy<br>lake<br>rare<br>flock<br>future<br>fruit<br>sunset<br>sample |  
+| bip_39_word_new_line_1 | riot |  
+| bip_39_word_new_line_10 | riot
 boy
 lake
 rare
@@ -55,7 +55,7 @@ fruit
 sunset
 sample
 liquid |  
-| bip_39_word_new_line11 | riot
+| bip_39_word_new_line_11 | riot
 boy
 lake
 rare
@@ -66,7 +66,7 @@ sunset
 sample
 liquid
 bone |  
-| bip_39_word_new_line12 | riot
+| bip_39_word_new_line_12 | riot
 boy
 lake
 rare
@@ -78,34 +78,34 @@ sample
 liquid
 bone
 absorb |  
-| bip_39_word_new_line2 | riot
+| bip_39_word_new_line_2 | riot
 boy |  
-| bip_39_word_new_line3 | riot
+| bip_39_word_new_line_3 | riot
 boy
 lake |  
-| bip_39_word_new_line4 | riot
+| bip_39_word_new_line_4 | riot
 boy
 lake
 rare |  
-| bip_39_word_new_line5 | riot
+| bip_39_word_new_line_5 | riot
 boy
 lake
 rare
 flock |  
-| bip_39_word_new_line6 | riot
+| bip_39_word_new_line_6 | riot
 boy
 lake
 rare
 flock
 future |  
-| bip_39_word_new_line7 | riot
+| bip_39_word_new_line_7 | riot
 boy
 lake
 rare
 flock
 future
 fruit |  
-| bip_39_word_new_line8 | riot
+| bip_39_word_new_line_8 | riot
 boy
 lake
 rare
@@ -113,7 +113,7 @@ flock
 future
 fruit
 sunset |  
-| bip_39_word_new_line9 | riot
+| bip_39_word_new_line_9 | riot
 boy
 lake
 rare

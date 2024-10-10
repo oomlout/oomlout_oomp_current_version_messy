@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | idle |  
-| bip_39_word_new_br10 | idle<br>twice<br>bread<br>auto<br>forest<br>quick<br>govern<br>seed<br>matter<br>bleak |  
-| bip_39_word_new_br11 | idle<br>twice<br>bread<br>auto<br>forest<br>quick<br>govern<br>seed<br>matter<br>bleak<br>about |  
-| bip_39_word_new_br12 | idle<br>twice<br>bread<br>auto<br>forest<br>quick<br>govern<br>seed<br>matter<br>bleak<br>about<br>asset |  
-| bip_39_word_new_br2 | idle<br>twice |  
-| bip_39_word_new_br3 | idle<br>twice<br>bread |  
-| bip_39_word_new_br4 | idle<br>twice<br>bread<br>auto |  
-| bip_39_word_new_br5 | idle<br>twice<br>bread<br>auto<br>forest |  
-| bip_39_word_new_br6 | idle<br>twice<br>bread<br>auto<br>forest<br>quick |  
-| bip_39_word_new_br7 | idle<br>twice<br>bread<br>auto<br>forest<br>quick<br>govern |  
-| bip_39_word_new_br8 | idle<br>twice<br>bread<br>auto<br>forest<br>quick<br>govern<br>seed |  
-| bip_39_word_new_br9 | idle<br>twice<br>bread<br>auto<br>forest<br>quick<br>govern<br>seed<br>matter |  
-| bip_39_word_new_line1 | idle |  
-| bip_39_word_new_line10 | idle
+| bip_39_word_new_br_1 | idle |  
+| bip_39_word_new_br_10 | idle<br>twice<br>bread<br>auto<br>forest<br>quick<br>govern<br>seed<br>matter<br>bleak |  
+| bip_39_word_new_br_11 | idle<br>twice<br>bread<br>auto<br>forest<br>quick<br>govern<br>seed<br>matter<br>bleak<br>about |  
+| bip_39_word_new_br_12 | idle<br>twice<br>bread<br>auto<br>forest<br>quick<br>govern<br>seed<br>matter<br>bleak<br>about<br>asset |  
+| bip_39_word_new_br_2 | idle<br>twice |  
+| bip_39_word_new_br_3 | idle<br>twice<br>bread |  
+| bip_39_word_new_br_4 | idle<br>twice<br>bread<br>auto |  
+| bip_39_word_new_br_5 | idle<br>twice<br>bread<br>auto<br>forest |  
+| bip_39_word_new_br_6 | idle<br>twice<br>bread<br>auto<br>forest<br>quick |  
+| bip_39_word_new_br_7 | idle<br>twice<br>bread<br>auto<br>forest<br>quick<br>govern |  
+| bip_39_word_new_br_8 | idle<br>twice<br>bread<br>auto<br>forest<br>quick<br>govern<br>seed |  
+| bip_39_word_new_br_9 | idle<br>twice<br>bread<br>auto<br>forest<br>quick<br>govern<br>seed<br>matter |  
+| bip_39_word_new_line_1 | idle |  
+| bip_39_word_new_line_10 | idle
 twice
 bread
 auto
@@ -55,7 +55,7 @@ govern
 seed
 matter
 bleak |  
-| bip_39_word_new_line11 | idle
+| bip_39_word_new_line_11 | idle
 twice
 bread
 auto
@@ -66,7 +66,7 @@ seed
 matter
 bleak
 about |  
-| bip_39_word_new_line12 | idle
+| bip_39_word_new_line_12 | idle
 twice
 bread
 auto
@@ -78,34 +78,34 @@ matter
 bleak
 about
 asset |  
-| bip_39_word_new_line2 | idle
+| bip_39_word_new_line_2 | idle
 twice |  
-| bip_39_word_new_line3 | idle
+| bip_39_word_new_line_3 | idle
 twice
 bread |  
-| bip_39_word_new_line4 | idle
+| bip_39_word_new_line_4 | idle
 twice
 bread
 auto |  
-| bip_39_word_new_line5 | idle
+| bip_39_word_new_line_5 | idle
 twice
 bread
 auto
 forest |  
-| bip_39_word_new_line6 | idle
+| bip_39_word_new_line_6 | idle
 twice
 bread
 auto
 forest
 quick |  
-| bip_39_word_new_line7 | idle
+| bip_39_word_new_line_7 | idle
 twice
 bread
 auto
 forest
 quick
 govern |  
-| bip_39_word_new_line8 | idle
+| bip_39_word_new_line_8 | idle
 twice
 bread
 auto
@@ -113,7 +113,7 @@ forest
 quick
 govern
 seed |  
-| bip_39_word_new_line9 | idle
+| bip_39_word_new_line_9 | idle
 twice
 bread
 auto

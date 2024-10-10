@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | radar |  
-| bip_39_word_new_br10 | radar<br>glue<br>blind<br>private<br>reopen<br>about<br>uncle<br>divert<br>knife<br>amazing |  
-| bip_39_word_new_br11 | radar<br>glue<br>blind<br>private<br>reopen<br>about<br>uncle<br>divert<br>knife<br>amazing<br>casino |  
-| bip_39_word_new_br12 | radar<br>glue<br>blind<br>private<br>reopen<br>about<br>uncle<br>divert<br>knife<br>amazing<br>casino<br>afraid |  
-| bip_39_word_new_br2 | radar<br>glue |  
-| bip_39_word_new_br3 | radar<br>glue<br>blind |  
-| bip_39_word_new_br4 | radar<br>glue<br>blind<br>private |  
-| bip_39_word_new_br5 | radar<br>glue<br>blind<br>private<br>reopen |  
-| bip_39_word_new_br6 | radar<br>glue<br>blind<br>private<br>reopen<br>about |  
-| bip_39_word_new_br7 | radar<br>glue<br>blind<br>private<br>reopen<br>about<br>uncle |  
-| bip_39_word_new_br8 | radar<br>glue<br>blind<br>private<br>reopen<br>about<br>uncle<br>divert |  
-| bip_39_word_new_br9 | radar<br>glue<br>blind<br>private<br>reopen<br>about<br>uncle<br>divert<br>knife |  
-| bip_39_word_new_line1 | radar |  
-| bip_39_word_new_line10 | radar
+| bip_39_word_new_br_1 | radar |  
+| bip_39_word_new_br_10 | radar<br>glue<br>blind<br>private<br>reopen<br>about<br>uncle<br>divert<br>knife<br>amazing |  
+| bip_39_word_new_br_11 | radar<br>glue<br>blind<br>private<br>reopen<br>about<br>uncle<br>divert<br>knife<br>amazing<br>casino |  
+| bip_39_word_new_br_12 | radar<br>glue<br>blind<br>private<br>reopen<br>about<br>uncle<br>divert<br>knife<br>amazing<br>casino<br>afraid |  
+| bip_39_word_new_br_2 | radar<br>glue |  
+| bip_39_word_new_br_3 | radar<br>glue<br>blind |  
+| bip_39_word_new_br_4 | radar<br>glue<br>blind<br>private |  
+| bip_39_word_new_br_5 | radar<br>glue<br>blind<br>private<br>reopen |  
+| bip_39_word_new_br_6 | radar<br>glue<br>blind<br>private<br>reopen<br>about |  
+| bip_39_word_new_br_7 | radar<br>glue<br>blind<br>private<br>reopen<br>about<br>uncle |  
+| bip_39_word_new_br_8 | radar<br>glue<br>blind<br>private<br>reopen<br>about<br>uncle<br>divert |  
+| bip_39_word_new_br_9 | radar<br>glue<br>blind<br>private<br>reopen<br>about<br>uncle<br>divert<br>knife |  
+| bip_39_word_new_line_1 | radar |  
+| bip_39_word_new_line_10 | radar
 glue
 blind
 private
@@ -55,7 +55,7 @@ uncle
 divert
 knife
 amazing |  
-| bip_39_word_new_line11 | radar
+| bip_39_word_new_line_11 | radar
 glue
 blind
 private
@@ -66,7 +66,7 @@ divert
 knife
 amazing
 casino |  
-| bip_39_word_new_line12 | radar
+| bip_39_word_new_line_12 | radar
 glue
 blind
 private
@@ -78,34 +78,34 @@ knife
 amazing
 casino
 afraid |  
-| bip_39_word_new_line2 | radar
+| bip_39_word_new_line_2 | radar
 glue |  
-| bip_39_word_new_line3 | radar
+| bip_39_word_new_line_3 | radar
 glue
 blind |  
-| bip_39_word_new_line4 | radar
+| bip_39_word_new_line_4 | radar
 glue
 blind
 private |  
-| bip_39_word_new_line5 | radar
+| bip_39_word_new_line_5 | radar
 glue
 blind
 private
 reopen |  
-| bip_39_word_new_line6 | radar
+| bip_39_word_new_line_6 | radar
 glue
 blind
 private
 reopen
 about |  
-| bip_39_word_new_line7 | radar
+| bip_39_word_new_line_7 | radar
 glue
 blind
 private
 reopen
 about
 uncle |  
-| bip_39_word_new_line8 | radar
+| bip_39_word_new_line_8 | radar
 glue
 blind
 private
@@ -113,7 +113,7 @@ reopen
 about
 uncle
 divert |  
-| bip_39_word_new_line9 | radar
+| bip_39_word_new_line_9 | radar
 glue
 blind
 private

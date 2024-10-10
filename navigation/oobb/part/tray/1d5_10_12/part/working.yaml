@@ -1,17 +1,17 @@
-bip_39_word_new_br1: daring
-bip_39_word_new_br10: daring<br>patient<br>demand<br>next<br>smart<br>anxiety<br>crisp<br>tragic<br>rail<br>pudding
-bip_39_word_new_br11: daring<br>patient<br>demand<br>next<br>smart<br>anxiety<br>crisp<br>tragic<br>rail<br>pudding<br>chapter
-bip_39_word_new_br12: daring<br>patient<br>demand<br>next<br>smart<br>anxiety<br>crisp<br>tragic<br>rail<br>pudding<br>chapter<br>assist
-bip_39_word_new_br2: daring<br>patient
-bip_39_word_new_br3: daring<br>patient<br>demand
-bip_39_word_new_br4: daring<br>patient<br>demand<br>next
-bip_39_word_new_br5: daring<br>patient<br>demand<br>next<br>smart
-bip_39_word_new_br6: daring<br>patient<br>demand<br>next<br>smart<br>anxiety
-bip_39_word_new_br7: daring<br>patient<br>demand<br>next<br>smart<br>anxiety<br>crisp
-bip_39_word_new_br8: daring<br>patient<br>demand<br>next<br>smart<br>anxiety<br>crisp<br>tragic
-bip_39_word_new_br9: daring<br>patient<br>demand<br>next<br>smart<br>anxiety<br>crisp<br>tragic<br>rail
-bip_39_word_new_line1: daring
-bip_39_word_new_line10: 'daring
+bip_39_word_new_br_1: daring
+bip_39_word_new_br_10: daring<br>patient<br>demand<br>next<br>smart<br>anxiety<br>crisp<br>tragic<br>rail<br>pudding
+bip_39_word_new_br_11: daring<br>patient<br>demand<br>next<br>smart<br>anxiety<br>crisp<br>tragic<br>rail<br>pudding<br>chapter
+bip_39_word_new_br_12: daring<br>patient<br>demand<br>next<br>smart<br>anxiety<br>crisp<br>tragic<br>rail<br>pudding<br>chapter<br>assist
+bip_39_word_new_br_2: daring<br>patient
+bip_39_word_new_br_3: daring<br>patient<br>demand
+bip_39_word_new_br_4: daring<br>patient<br>demand<br>next
+bip_39_word_new_br_5: daring<br>patient<br>demand<br>next<br>smart
+bip_39_word_new_br_6: daring<br>patient<br>demand<br>next<br>smart<br>anxiety
+bip_39_word_new_br_7: daring<br>patient<br>demand<br>next<br>smart<br>anxiety<br>crisp
+bip_39_word_new_br_8: daring<br>patient<br>demand<br>next<br>smart<br>anxiety<br>crisp<br>tragic
+bip_39_word_new_br_9: daring<br>patient<br>demand<br>next<br>smart<br>anxiety<br>crisp<br>tragic<br>rail
+bip_39_word_new_line_1: daring
+bip_39_word_new_line_10: 'daring
 
   patient
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'daring
   rail
 
   pudding'
-bip_39_word_new_line11: 'daring
+bip_39_word_new_line_11: 'daring
 
   patient
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'daring
   pudding
 
   chapter'
-bip_39_word_new_line12: 'daring
+bip_39_word_new_line_12: 'daring
 
   patient
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'daring
   chapter
 
   assist'
-bip_39_word_new_line2: 'daring
+bip_39_word_new_line_2: 'daring
 
   patient'
-bip_39_word_new_line3: 'daring
+bip_39_word_new_line_3: 'daring
 
   patient
 
   demand'
-bip_39_word_new_line4: 'daring
+bip_39_word_new_line_4: 'daring
 
   patient
 
   demand
 
   next'
-bip_39_word_new_line5: 'daring
+bip_39_word_new_line_5: 'daring
 
   patient
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'daring
   next
 
   smart'
-bip_39_word_new_line6: 'daring
+bip_39_word_new_line_6: 'daring
 
   patient
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'daring
   smart
 
   anxiety'
-bip_39_word_new_line7: 'daring
+bip_39_word_new_line_7: 'daring
 
   patient
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'daring
   anxiety
 
   crisp'
-bip_39_word_new_line8: 'daring
+bip_39_word_new_line_8: 'daring
 
   patient
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'daring
   crisp
 
   tragic'
-bip_39_word_new_line9: 'daring
+bip_39_word_new_line_9: 'daring
 
   patient
 

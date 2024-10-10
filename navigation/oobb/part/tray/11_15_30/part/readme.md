@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | lottery |  
-| bip_39_word_new_br10 | lottery<br>practice<br>quit<br>odor<br>whip<br>test<br>loop<br>crazy<br>shell<br>regular |  
-| bip_39_word_new_br11 | lottery<br>practice<br>quit<br>odor<br>whip<br>test<br>loop<br>crazy<br>shell<br>regular<br>struggle |  
-| bip_39_word_new_br12 | lottery<br>practice<br>quit<br>odor<br>whip<br>test<br>loop<br>crazy<br>shell<br>regular<br>struggle<br>acoustic |  
-| bip_39_word_new_br2 | lottery<br>practice |  
-| bip_39_word_new_br3 | lottery<br>practice<br>quit |  
-| bip_39_word_new_br4 | lottery<br>practice<br>quit<br>odor |  
-| bip_39_word_new_br5 | lottery<br>practice<br>quit<br>odor<br>whip |  
-| bip_39_word_new_br6 | lottery<br>practice<br>quit<br>odor<br>whip<br>test |  
-| bip_39_word_new_br7 | lottery<br>practice<br>quit<br>odor<br>whip<br>test<br>loop |  
-| bip_39_word_new_br8 | lottery<br>practice<br>quit<br>odor<br>whip<br>test<br>loop<br>crazy |  
-| bip_39_word_new_br9 | lottery<br>practice<br>quit<br>odor<br>whip<br>test<br>loop<br>crazy<br>shell |  
-| bip_39_word_new_line1 | lottery |  
-| bip_39_word_new_line10 | lottery
+| bip_39_word_new_br_1 | lottery |  
+| bip_39_word_new_br_10 | lottery<br>practice<br>quit<br>odor<br>whip<br>test<br>loop<br>crazy<br>shell<br>regular |  
+| bip_39_word_new_br_11 | lottery<br>practice<br>quit<br>odor<br>whip<br>test<br>loop<br>crazy<br>shell<br>regular<br>struggle |  
+| bip_39_word_new_br_12 | lottery<br>practice<br>quit<br>odor<br>whip<br>test<br>loop<br>crazy<br>shell<br>regular<br>struggle<br>acoustic |  
+| bip_39_word_new_br_2 | lottery<br>practice |  
+| bip_39_word_new_br_3 | lottery<br>practice<br>quit |  
+| bip_39_word_new_br_4 | lottery<br>practice<br>quit<br>odor |  
+| bip_39_word_new_br_5 | lottery<br>practice<br>quit<br>odor<br>whip |  
+| bip_39_word_new_br_6 | lottery<br>practice<br>quit<br>odor<br>whip<br>test |  
+| bip_39_word_new_br_7 | lottery<br>practice<br>quit<br>odor<br>whip<br>test<br>loop |  
+| bip_39_word_new_br_8 | lottery<br>practice<br>quit<br>odor<br>whip<br>test<br>loop<br>crazy |  
+| bip_39_word_new_br_9 | lottery<br>practice<br>quit<br>odor<br>whip<br>test<br>loop<br>crazy<br>shell |  
+| bip_39_word_new_line_1 | lottery |  
+| bip_39_word_new_line_10 | lottery
 practice
 quit
 odor
@@ -55,7 +55,7 @@ loop
 crazy
 shell
 regular |  
-| bip_39_word_new_line11 | lottery
+| bip_39_word_new_line_11 | lottery
 practice
 quit
 odor
@@ -66,7 +66,7 @@ crazy
 shell
 regular
 struggle |  
-| bip_39_word_new_line12 | lottery
+| bip_39_word_new_line_12 | lottery
 practice
 quit
 odor
@@ -78,34 +78,34 @@ shell
 regular
 struggle
 acoustic |  
-| bip_39_word_new_line2 | lottery
+| bip_39_word_new_line_2 | lottery
 practice |  
-| bip_39_word_new_line3 | lottery
+| bip_39_word_new_line_3 | lottery
 practice
 quit |  
-| bip_39_word_new_line4 | lottery
+| bip_39_word_new_line_4 | lottery
 practice
 quit
 odor |  
-| bip_39_word_new_line5 | lottery
+| bip_39_word_new_line_5 | lottery
 practice
 quit
 odor
 whip |  
-| bip_39_word_new_line6 | lottery
+| bip_39_word_new_line_6 | lottery
 practice
 quit
 odor
 whip
 test |  
-| bip_39_word_new_line7 | lottery
+| bip_39_word_new_line_7 | lottery
 practice
 quit
 odor
 whip
 test
 loop |  
-| bip_39_word_new_line8 | lottery
+| bip_39_word_new_line_8 | lottery
 practice
 quit
 odor
@@ -113,7 +113,7 @@ whip
 test
 loop
 crazy |  
-| bip_39_word_new_line9 | lottery
+| bip_39_word_new_line_9 | lottery
 practice
 quit
 odor

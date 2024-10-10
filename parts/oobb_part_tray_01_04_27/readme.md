@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | diamond |  
-| bip_39_word_new_br10 | diamond<br>magic<br>depth<br>theory<br>cruise<br>merit<br>feel<br>couch<br>copy<br>allow |  
-| bip_39_word_new_br11 | diamond<br>magic<br>depth<br>theory<br>cruise<br>merit<br>feel<br>couch<br>copy<br>allow<br>forward |  
-| bip_39_word_new_br12 | diamond<br>magic<br>depth<br>theory<br>cruise<br>merit<br>feel<br>couch<br>copy<br>allow<br>forward<br>about |  
-| bip_39_word_new_br2 | diamond<br>magic |  
-| bip_39_word_new_br3 | diamond<br>magic<br>depth |  
-| bip_39_word_new_br4 | diamond<br>magic<br>depth<br>theory |  
-| bip_39_word_new_br5 | diamond<br>magic<br>depth<br>theory<br>cruise |  
-| bip_39_word_new_br6 | diamond<br>magic<br>depth<br>theory<br>cruise<br>merit |  
-| bip_39_word_new_br7 | diamond<br>magic<br>depth<br>theory<br>cruise<br>merit<br>feel |  
-| bip_39_word_new_br8 | diamond<br>magic<br>depth<br>theory<br>cruise<br>merit<br>feel<br>couch |  
-| bip_39_word_new_br9 | diamond<br>magic<br>depth<br>theory<br>cruise<br>merit<br>feel<br>couch<br>copy |  
-| bip_39_word_new_line1 | diamond |  
-| bip_39_word_new_line10 | diamond
+| bip_39_word_new_br_1 | diamond |  
+| bip_39_word_new_br_10 | diamond<br>magic<br>depth<br>theory<br>cruise<br>merit<br>feel<br>couch<br>copy<br>allow |  
+| bip_39_word_new_br_11 | diamond<br>magic<br>depth<br>theory<br>cruise<br>merit<br>feel<br>couch<br>copy<br>allow<br>forward |  
+| bip_39_word_new_br_12 | diamond<br>magic<br>depth<br>theory<br>cruise<br>merit<br>feel<br>couch<br>copy<br>allow<br>forward<br>about |  
+| bip_39_word_new_br_2 | diamond<br>magic |  
+| bip_39_word_new_br_3 | diamond<br>magic<br>depth |  
+| bip_39_word_new_br_4 | diamond<br>magic<br>depth<br>theory |  
+| bip_39_word_new_br_5 | diamond<br>magic<br>depth<br>theory<br>cruise |  
+| bip_39_word_new_br_6 | diamond<br>magic<br>depth<br>theory<br>cruise<br>merit |  
+| bip_39_word_new_br_7 | diamond<br>magic<br>depth<br>theory<br>cruise<br>merit<br>feel |  
+| bip_39_word_new_br_8 | diamond<br>magic<br>depth<br>theory<br>cruise<br>merit<br>feel<br>couch |  
+| bip_39_word_new_br_9 | diamond<br>magic<br>depth<br>theory<br>cruise<br>merit<br>feel<br>couch<br>copy |  
+| bip_39_word_new_line_1 | diamond |  
+| bip_39_word_new_line_10 | diamond
 magic
 depth
 theory
@@ -55,7 +55,7 @@ feel
 couch
 copy
 allow |  
-| bip_39_word_new_line11 | diamond
+| bip_39_word_new_line_11 | diamond
 magic
 depth
 theory
@@ -66,7 +66,7 @@ couch
 copy
 allow
 forward |  
-| bip_39_word_new_line12 | diamond
+| bip_39_word_new_line_12 | diamond
 magic
 depth
 theory
@@ -78,34 +78,34 @@ copy
 allow
 forward
 about |  
-| bip_39_word_new_line2 | diamond
+| bip_39_word_new_line_2 | diamond
 magic |  
-| bip_39_word_new_line3 | diamond
+| bip_39_word_new_line_3 | diamond
 magic
 depth |  
-| bip_39_word_new_line4 | diamond
+| bip_39_word_new_line_4 | diamond
 magic
 depth
 theory |  
-| bip_39_word_new_line5 | diamond
+| bip_39_word_new_line_5 | diamond
 magic
 depth
 theory
 cruise |  
-| bip_39_word_new_line6 | diamond
+| bip_39_word_new_line_6 | diamond
 magic
 depth
 theory
 cruise
 merit |  
-| bip_39_word_new_line7 | diamond
+| bip_39_word_new_line_7 | diamond
 magic
 depth
 theory
 cruise
 merit
 feel |  
-| bip_39_word_new_line8 | diamond
+| bip_39_word_new_line_8 | diamond
 magic
 depth
 theory
@@ -113,7 +113,7 @@ cruise
 merit
 feel
 couch |  
-| bip_39_word_new_line9 | diamond
+| bip_39_word_new_line_9 | diamond
 magic
 depth
 theory

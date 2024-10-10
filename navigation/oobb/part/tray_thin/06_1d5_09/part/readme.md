@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | property |  
-| bip_39_word_new_br10 | property<br>august<br>hood<br>three<br>oppose<br>film<br>execute<br>script<br>shoe<br>unusual |  
-| bip_39_word_new_br11 | property<br>august<br>hood<br>three<br>oppose<br>film<br>execute<br>script<br>shoe<br>unusual<br>logic |  
-| bip_39_word_new_br12 | property<br>august<br>hood<br>three<br>oppose<br>film<br>execute<br>script<br>shoe<br>unusual<br>logic<br>artist |  
-| bip_39_word_new_br2 | property<br>august |  
-| bip_39_word_new_br3 | property<br>august<br>hood |  
-| bip_39_word_new_br4 | property<br>august<br>hood<br>three |  
-| bip_39_word_new_br5 | property<br>august<br>hood<br>three<br>oppose |  
-| bip_39_word_new_br6 | property<br>august<br>hood<br>three<br>oppose<br>film |  
-| bip_39_word_new_br7 | property<br>august<br>hood<br>three<br>oppose<br>film<br>execute |  
-| bip_39_word_new_br8 | property<br>august<br>hood<br>three<br>oppose<br>film<br>execute<br>script |  
-| bip_39_word_new_br9 | property<br>august<br>hood<br>three<br>oppose<br>film<br>execute<br>script<br>shoe |  
-| bip_39_word_new_line1 | property |  
-| bip_39_word_new_line10 | property
+| bip_39_word_new_br_1 | property |  
+| bip_39_word_new_br_10 | property<br>august<br>hood<br>three<br>oppose<br>film<br>execute<br>script<br>shoe<br>unusual |  
+| bip_39_word_new_br_11 | property<br>august<br>hood<br>three<br>oppose<br>film<br>execute<br>script<br>shoe<br>unusual<br>logic |  
+| bip_39_word_new_br_12 | property<br>august<br>hood<br>three<br>oppose<br>film<br>execute<br>script<br>shoe<br>unusual<br>logic<br>artist |  
+| bip_39_word_new_br_2 | property<br>august |  
+| bip_39_word_new_br_3 | property<br>august<br>hood |  
+| bip_39_word_new_br_4 | property<br>august<br>hood<br>three |  
+| bip_39_word_new_br_5 | property<br>august<br>hood<br>three<br>oppose |  
+| bip_39_word_new_br_6 | property<br>august<br>hood<br>three<br>oppose<br>film |  
+| bip_39_word_new_br_7 | property<br>august<br>hood<br>three<br>oppose<br>film<br>execute |  
+| bip_39_word_new_br_8 | property<br>august<br>hood<br>three<br>oppose<br>film<br>execute<br>script |  
+| bip_39_word_new_br_9 | property<br>august<br>hood<br>three<br>oppose<br>film<br>execute<br>script<br>shoe |  
+| bip_39_word_new_line_1 | property |  
+| bip_39_word_new_line_10 | property
 august
 hood
 three
@@ -55,7 +55,7 @@ execute
 script
 shoe
 unusual |  
-| bip_39_word_new_line11 | property
+| bip_39_word_new_line_11 | property
 august
 hood
 three
@@ -66,7 +66,7 @@ script
 shoe
 unusual
 logic |  
-| bip_39_word_new_line12 | property
+| bip_39_word_new_line_12 | property
 august
 hood
 three
@@ -78,34 +78,34 @@ shoe
 unusual
 logic
 artist |  
-| bip_39_word_new_line2 | property
+| bip_39_word_new_line_2 | property
 august |  
-| bip_39_word_new_line3 | property
+| bip_39_word_new_line_3 | property
 august
 hood |  
-| bip_39_word_new_line4 | property
+| bip_39_word_new_line_4 | property
 august
 hood
 three |  
-| bip_39_word_new_line5 | property
+| bip_39_word_new_line_5 | property
 august
 hood
 three
 oppose |  
-| bip_39_word_new_line6 | property
+| bip_39_word_new_line_6 | property
 august
 hood
 three
 oppose
 film |  
-| bip_39_word_new_line7 | property
+| bip_39_word_new_line_7 | property
 august
 hood
 three
 oppose
 film
 execute |  
-| bip_39_word_new_line8 | property
+| bip_39_word_new_line_8 | property
 august
 hood
 three
@@ -113,7 +113,7 @@ oppose
 film
 execute
 script |  
-| bip_39_word_new_line9 | property
+| bip_39_word_new_line_9 | property
 august
 hood
 three

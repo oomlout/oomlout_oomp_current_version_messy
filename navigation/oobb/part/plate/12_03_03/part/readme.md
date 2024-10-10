@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | keen |  
-| bip_39_word_new_br10 | keen<br>scatter<br>prefer<br>shrug<br>cupboard<br>hurt<br>cage<br>hungry<br>cheap<br>lock |  
-| bip_39_word_new_br11 | keen<br>scatter<br>prefer<br>shrug<br>cupboard<br>hurt<br>cage<br>hungry<br>cheap<br>lock<br>knock |  
-| bip_39_word_new_br12 | keen<br>scatter<br>prefer<br>shrug<br>cupboard<br>hurt<br>cage<br>hungry<br>cheap<br>lock<br>knock<br>adjust |  
-| bip_39_word_new_br2 | keen<br>scatter |  
-| bip_39_word_new_br3 | keen<br>scatter<br>prefer |  
-| bip_39_word_new_br4 | keen<br>scatter<br>prefer<br>shrug |  
-| bip_39_word_new_br5 | keen<br>scatter<br>prefer<br>shrug<br>cupboard |  
-| bip_39_word_new_br6 | keen<br>scatter<br>prefer<br>shrug<br>cupboard<br>hurt |  
-| bip_39_word_new_br7 | keen<br>scatter<br>prefer<br>shrug<br>cupboard<br>hurt<br>cage |  
-| bip_39_word_new_br8 | keen<br>scatter<br>prefer<br>shrug<br>cupboard<br>hurt<br>cage<br>hungry |  
-| bip_39_word_new_br9 | keen<br>scatter<br>prefer<br>shrug<br>cupboard<br>hurt<br>cage<br>hungry<br>cheap |  
-| bip_39_word_new_line1 | keen |  
-| bip_39_word_new_line10 | keen
+| bip_39_word_new_br_1 | keen |  
+| bip_39_word_new_br_10 | keen<br>scatter<br>prefer<br>shrug<br>cupboard<br>hurt<br>cage<br>hungry<br>cheap<br>lock |  
+| bip_39_word_new_br_11 | keen<br>scatter<br>prefer<br>shrug<br>cupboard<br>hurt<br>cage<br>hungry<br>cheap<br>lock<br>knock |  
+| bip_39_word_new_br_12 | keen<br>scatter<br>prefer<br>shrug<br>cupboard<br>hurt<br>cage<br>hungry<br>cheap<br>lock<br>knock<br>adjust |  
+| bip_39_word_new_br_2 | keen<br>scatter |  
+| bip_39_word_new_br_3 | keen<br>scatter<br>prefer |  
+| bip_39_word_new_br_4 | keen<br>scatter<br>prefer<br>shrug |  
+| bip_39_word_new_br_5 | keen<br>scatter<br>prefer<br>shrug<br>cupboard |  
+| bip_39_word_new_br_6 | keen<br>scatter<br>prefer<br>shrug<br>cupboard<br>hurt |  
+| bip_39_word_new_br_7 | keen<br>scatter<br>prefer<br>shrug<br>cupboard<br>hurt<br>cage |  
+| bip_39_word_new_br_8 | keen<br>scatter<br>prefer<br>shrug<br>cupboard<br>hurt<br>cage<br>hungry |  
+| bip_39_word_new_br_9 | keen<br>scatter<br>prefer<br>shrug<br>cupboard<br>hurt<br>cage<br>hungry<br>cheap |  
+| bip_39_word_new_line_1 | keen |  
+| bip_39_word_new_line_10 | keen
 scatter
 prefer
 shrug
@@ -55,7 +55,7 @@ cage
 hungry
 cheap
 lock |  
-| bip_39_word_new_line11 | keen
+| bip_39_word_new_line_11 | keen
 scatter
 prefer
 shrug
@@ -66,7 +66,7 @@ hungry
 cheap
 lock
 knock |  
-| bip_39_word_new_line12 | keen
+| bip_39_word_new_line_12 | keen
 scatter
 prefer
 shrug
@@ -78,34 +78,34 @@ cheap
 lock
 knock
 adjust |  
-| bip_39_word_new_line2 | keen
+| bip_39_word_new_line_2 | keen
 scatter |  
-| bip_39_word_new_line3 | keen
+| bip_39_word_new_line_3 | keen
 scatter
 prefer |  
-| bip_39_word_new_line4 | keen
+| bip_39_word_new_line_4 | keen
 scatter
 prefer
 shrug |  
-| bip_39_word_new_line5 | keen
+| bip_39_word_new_line_5 | keen
 scatter
 prefer
 shrug
 cupboard |  
-| bip_39_word_new_line6 | keen
+| bip_39_word_new_line_6 | keen
 scatter
 prefer
 shrug
 cupboard
 hurt |  
-| bip_39_word_new_line7 | keen
+| bip_39_word_new_line_7 | keen
 scatter
 prefer
 shrug
 cupboard
 hurt
 cage |  
-| bip_39_word_new_line8 | keen
+| bip_39_word_new_line_8 | keen
 scatter
 prefer
 shrug
@@ -113,7 +113,7 @@ cupboard
 hurt
 cage
 hungry |  
-| bip_39_word_new_line9 | keen
+| bip_39_word_new_line_9 | keen
 scatter
 prefer
 shrug

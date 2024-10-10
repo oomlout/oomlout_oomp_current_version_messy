@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | else |  
-| bip_39_word_new_br10 | else<br>sad<br>antique<br>exhaust<br>shine<br>life<br>water<br>shine<br>trick<br>group |  
-| bip_39_word_new_br11 | else<br>sad<br>antique<br>exhaust<br>shine<br>life<br>water<br>shine<br>trick<br>group<br>obscure |  
-| bip_39_word_new_br12 | else<br>sad<br>antique<br>exhaust<br>shine<br>life<br>water<br>shine<br>trick<br>group<br>obscure<br>atom |  
-| bip_39_word_new_br2 | else<br>sad |  
-| bip_39_word_new_br3 | else<br>sad<br>antique |  
-| bip_39_word_new_br4 | else<br>sad<br>antique<br>exhaust |  
-| bip_39_word_new_br5 | else<br>sad<br>antique<br>exhaust<br>shine |  
-| bip_39_word_new_br6 | else<br>sad<br>antique<br>exhaust<br>shine<br>life |  
-| bip_39_word_new_br7 | else<br>sad<br>antique<br>exhaust<br>shine<br>life<br>water |  
-| bip_39_word_new_br8 | else<br>sad<br>antique<br>exhaust<br>shine<br>life<br>water<br>shine |  
-| bip_39_word_new_br9 | else<br>sad<br>antique<br>exhaust<br>shine<br>life<br>water<br>shine<br>trick |  
-| bip_39_word_new_line1 | else |  
-| bip_39_word_new_line10 | else
+| bip_39_word_new_br_1 | else |  
+| bip_39_word_new_br_10 | else<br>sad<br>antique<br>exhaust<br>shine<br>life<br>water<br>shine<br>trick<br>group |  
+| bip_39_word_new_br_11 | else<br>sad<br>antique<br>exhaust<br>shine<br>life<br>water<br>shine<br>trick<br>group<br>obscure |  
+| bip_39_word_new_br_12 | else<br>sad<br>antique<br>exhaust<br>shine<br>life<br>water<br>shine<br>trick<br>group<br>obscure<br>atom |  
+| bip_39_word_new_br_2 | else<br>sad |  
+| bip_39_word_new_br_3 | else<br>sad<br>antique |  
+| bip_39_word_new_br_4 | else<br>sad<br>antique<br>exhaust |  
+| bip_39_word_new_br_5 | else<br>sad<br>antique<br>exhaust<br>shine |  
+| bip_39_word_new_br_6 | else<br>sad<br>antique<br>exhaust<br>shine<br>life |  
+| bip_39_word_new_br_7 | else<br>sad<br>antique<br>exhaust<br>shine<br>life<br>water |  
+| bip_39_word_new_br_8 | else<br>sad<br>antique<br>exhaust<br>shine<br>life<br>water<br>shine |  
+| bip_39_word_new_br_9 | else<br>sad<br>antique<br>exhaust<br>shine<br>life<br>water<br>shine<br>trick |  
+| bip_39_word_new_line_1 | else |  
+| bip_39_word_new_line_10 | else
 sad
 antique
 exhaust
@@ -55,7 +55,7 @@ water
 shine
 trick
 group |  
-| bip_39_word_new_line11 | else
+| bip_39_word_new_line_11 | else
 sad
 antique
 exhaust
@@ -66,7 +66,7 @@ shine
 trick
 group
 obscure |  
-| bip_39_word_new_line12 | else
+| bip_39_word_new_line_12 | else
 sad
 antique
 exhaust
@@ -78,34 +78,34 @@ trick
 group
 obscure
 atom |  
-| bip_39_word_new_line2 | else
+| bip_39_word_new_line_2 | else
 sad |  
-| bip_39_word_new_line3 | else
+| bip_39_word_new_line_3 | else
 sad
 antique |  
-| bip_39_word_new_line4 | else
+| bip_39_word_new_line_4 | else
 sad
 antique
 exhaust |  
-| bip_39_word_new_line5 | else
+| bip_39_word_new_line_5 | else
 sad
 antique
 exhaust
 shine |  
-| bip_39_word_new_line6 | else
+| bip_39_word_new_line_6 | else
 sad
 antique
 exhaust
 shine
 life |  
-| bip_39_word_new_line7 | else
+| bip_39_word_new_line_7 | else
 sad
 antique
 exhaust
 shine
 life
 water |  
-| bip_39_word_new_line8 | else
+| bip_39_word_new_line_8 | else
 sad
 antique
 exhaust
@@ -113,7 +113,7 @@ shine
 life
 water
 shine |  
-| bip_39_word_new_line9 | else
+| bip_39_word_new_line_9 | else
 sad
 antique
 exhaust

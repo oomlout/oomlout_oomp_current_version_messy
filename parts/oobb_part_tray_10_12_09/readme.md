@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | impulse |  
-| bip_39_word_new_br10 | impulse<br>gossip<br>replace<br>prison<br>broccoli<br>merge<br>rule<br>thumb<br>wash<br>setup |  
-| bip_39_word_new_br11 | impulse<br>gossip<br>replace<br>prison<br>broccoli<br>merge<br>rule<br>thumb<br>wash<br>setup<br>casino |  
-| bip_39_word_new_br12 | impulse<br>gossip<br>replace<br>prison<br>broccoli<br>merge<br>rule<br>thumb<br>wash<br>setup<br>casino<br>arena |  
-| bip_39_word_new_br2 | impulse<br>gossip |  
-| bip_39_word_new_br3 | impulse<br>gossip<br>replace |  
-| bip_39_word_new_br4 | impulse<br>gossip<br>replace<br>prison |  
-| bip_39_word_new_br5 | impulse<br>gossip<br>replace<br>prison<br>broccoli |  
-| bip_39_word_new_br6 | impulse<br>gossip<br>replace<br>prison<br>broccoli<br>merge |  
-| bip_39_word_new_br7 | impulse<br>gossip<br>replace<br>prison<br>broccoli<br>merge<br>rule |  
-| bip_39_word_new_br8 | impulse<br>gossip<br>replace<br>prison<br>broccoli<br>merge<br>rule<br>thumb |  
-| bip_39_word_new_br9 | impulse<br>gossip<br>replace<br>prison<br>broccoli<br>merge<br>rule<br>thumb<br>wash |  
-| bip_39_word_new_line1 | impulse |  
-| bip_39_word_new_line10 | impulse
+| bip_39_word_new_br_1 | impulse |  
+| bip_39_word_new_br_10 | impulse<br>gossip<br>replace<br>prison<br>broccoli<br>merge<br>rule<br>thumb<br>wash<br>setup |  
+| bip_39_word_new_br_11 | impulse<br>gossip<br>replace<br>prison<br>broccoli<br>merge<br>rule<br>thumb<br>wash<br>setup<br>casino |  
+| bip_39_word_new_br_12 | impulse<br>gossip<br>replace<br>prison<br>broccoli<br>merge<br>rule<br>thumb<br>wash<br>setup<br>casino<br>arena |  
+| bip_39_word_new_br_2 | impulse<br>gossip |  
+| bip_39_word_new_br_3 | impulse<br>gossip<br>replace |  
+| bip_39_word_new_br_4 | impulse<br>gossip<br>replace<br>prison |  
+| bip_39_word_new_br_5 | impulse<br>gossip<br>replace<br>prison<br>broccoli |  
+| bip_39_word_new_br_6 | impulse<br>gossip<br>replace<br>prison<br>broccoli<br>merge |  
+| bip_39_word_new_br_7 | impulse<br>gossip<br>replace<br>prison<br>broccoli<br>merge<br>rule |  
+| bip_39_word_new_br_8 | impulse<br>gossip<br>replace<br>prison<br>broccoli<br>merge<br>rule<br>thumb |  
+| bip_39_word_new_br_9 | impulse<br>gossip<br>replace<br>prison<br>broccoli<br>merge<br>rule<br>thumb<br>wash |  
+| bip_39_word_new_line_1 | impulse |  
+| bip_39_word_new_line_10 | impulse
 gossip
 replace
 prison
@@ -55,7 +55,7 @@ rule
 thumb
 wash
 setup |  
-| bip_39_word_new_line11 | impulse
+| bip_39_word_new_line_11 | impulse
 gossip
 replace
 prison
@@ -66,7 +66,7 @@ thumb
 wash
 setup
 casino |  
-| bip_39_word_new_line12 | impulse
+| bip_39_word_new_line_12 | impulse
 gossip
 replace
 prison
@@ -78,34 +78,34 @@ wash
 setup
 casino
 arena |  
-| bip_39_word_new_line2 | impulse
+| bip_39_word_new_line_2 | impulse
 gossip |  
-| bip_39_word_new_line3 | impulse
+| bip_39_word_new_line_3 | impulse
 gossip
 replace |  
-| bip_39_word_new_line4 | impulse
+| bip_39_word_new_line_4 | impulse
 gossip
 replace
 prison |  
-| bip_39_word_new_line5 | impulse
+| bip_39_word_new_line_5 | impulse
 gossip
 replace
 prison
 broccoli |  
-| bip_39_word_new_line6 | impulse
+| bip_39_word_new_line_6 | impulse
 gossip
 replace
 prison
 broccoli
 merge |  
-| bip_39_word_new_line7 | impulse
+| bip_39_word_new_line_7 | impulse
 gossip
 replace
 prison
 broccoli
 merge
 rule |  
-| bip_39_word_new_line8 | impulse
+| bip_39_word_new_line_8 | impulse
 gossip
 replace
 prison
@@ -113,7 +113,7 @@ broccoli
 merge
 rule
 thumb |  
-| bip_39_word_new_line9 | impulse
+| bip_39_word_new_line_9 | impulse
 gossip
 replace
 prison

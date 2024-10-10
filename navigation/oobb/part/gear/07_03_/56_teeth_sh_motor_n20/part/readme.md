@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | useful |  
-| bip_39_word_new_br10 | useful<br>obey<br>adjust<br>sail<br>clinic<br>churn<br>snake<br>bike<br>foil<br>portion |  
-| bip_39_word_new_br11 | useful<br>obey<br>adjust<br>sail<br>clinic<br>churn<br>snake<br>bike<br>foil<br>portion<br>dose |  
-| bip_39_word_new_br12 | useful<br>obey<br>adjust<br>sail<br>clinic<br>churn<br>snake<br>bike<br>foil<br>portion<br>dose<br>accuse |  
-| bip_39_word_new_br2 | useful<br>obey |  
-| bip_39_word_new_br3 | useful<br>obey<br>adjust |  
-| bip_39_word_new_br4 | useful<br>obey<br>adjust<br>sail |  
-| bip_39_word_new_br5 | useful<br>obey<br>adjust<br>sail<br>clinic |  
-| bip_39_word_new_br6 | useful<br>obey<br>adjust<br>sail<br>clinic<br>churn |  
-| bip_39_word_new_br7 | useful<br>obey<br>adjust<br>sail<br>clinic<br>churn<br>snake |  
-| bip_39_word_new_br8 | useful<br>obey<br>adjust<br>sail<br>clinic<br>churn<br>snake<br>bike |  
-| bip_39_word_new_br9 | useful<br>obey<br>adjust<br>sail<br>clinic<br>churn<br>snake<br>bike<br>foil |  
-| bip_39_word_new_line1 | useful |  
-| bip_39_word_new_line10 | useful
+| bip_39_word_new_br_1 | useful |  
+| bip_39_word_new_br_10 | useful<br>obey<br>adjust<br>sail<br>clinic<br>churn<br>snake<br>bike<br>foil<br>portion |  
+| bip_39_word_new_br_11 | useful<br>obey<br>adjust<br>sail<br>clinic<br>churn<br>snake<br>bike<br>foil<br>portion<br>dose |  
+| bip_39_word_new_br_12 | useful<br>obey<br>adjust<br>sail<br>clinic<br>churn<br>snake<br>bike<br>foil<br>portion<br>dose<br>accuse |  
+| bip_39_word_new_br_2 | useful<br>obey |  
+| bip_39_word_new_br_3 | useful<br>obey<br>adjust |  
+| bip_39_word_new_br_4 | useful<br>obey<br>adjust<br>sail |  
+| bip_39_word_new_br_5 | useful<br>obey<br>adjust<br>sail<br>clinic |  
+| bip_39_word_new_br_6 | useful<br>obey<br>adjust<br>sail<br>clinic<br>churn |  
+| bip_39_word_new_br_7 | useful<br>obey<br>adjust<br>sail<br>clinic<br>churn<br>snake |  
+| bip_39_word_new_br_8 | useful<br>obey<br>adjust<br>sail<br>clinic<br>churn<br>snake<br>bike |  
+| bip_39_word_new_br_9 | useful<br>obey<br>adjust<br>sail<br>clinic<br>churn<br>snake<br>bike<br>foil |  
+| bip_39_word_new_line_1 | useful |  
+| bip_39_word_new_line_10 | useful
 obey
 adjust
 sail
@@ -55,7 +55,7 @@ snake
 bike
 foil
 portion |  
-| bip_39_word_new_line11 | useful
+| bip_39_word_new_line_11 | useful
 obey
 adjust
 sail
@@ -66,7 +66,7 @@ bike
 foil
 portion
 dose |  
-| bip_39_word_new_line12 | useful
+| bip_39_word_new_line_12 | useful
 obey
 adjust
 sail
@@ -78,34 +78,34 @@ foil
 portion
 dose
 accuse |  
-| bip_39_word_new_line2 | useful
+| bip_39_word_new_line_2 | useful
 obey |  
-| bip_39_word_new_line3 | useful
+| bip_39_word_new_line_3 | useful
 obey
 adjust |  
-| bip_39_word_new_line4 | useful
+| bip_39_word_new_line_4 | useful
 obey
 adjust
 sail |  
-| bip_39_word_new_line5 | useful
+| bip_39_word_new_line_5 | useful
 obey
 adjust
 sail
 clinic |  
-| bip_39_word_new_line6 | useful
+| bip_39_word_new_line_6 | useful
 obey
 adjust
 sail
 clinic
 churn |  
-| bip_39_word_new_line7 | useful
+| bip_39_word_new_line_7 | useful
 obey
 adjust
 sail
 clinic
 churn
 snake |  
-| bip_39_word_new_line8 | useful
+| bip_39_word_new_line_8 | useful
 obey
 adjust
 sail
@@ -113,7 +113,7 @@ clinic
 churn
 snake
 bike |  
-| bip_39_word_new_line9 | useful
+| bip_39_word_new_line_9 | useful
 obey
 adjust
 sail

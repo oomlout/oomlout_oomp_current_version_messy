@@ -1,17 +1,17 @@
-bip_39_word_new_br1: twelve
-bip_39_word_new_br10: twelve<br>model<br>just<br>fruit<br>grace<br>raise<br>blouse<br>pledge<br>already<br>opinion
-bip_39_word_new_br11: twelve<br>model<br>just<br>fruit<br>grace<br>raise<br>blouse<br>pledge<br>already<br>opinion<br>twelve
-bip_39_word_new_br12: twelve<br>model<br>just<br>fruit<br>grace<br>raise<br>blouse<br>pledge<br>already<br>opinion<br>twelve<br>ankle
-bip_39_word_new_br2: twelve<br>model
-bip_39_word_new_br3: twelve<br>model<br>just
-bip_39_word_new_br4: twelve<br>model<br>just<br>fruit
-bip_39_word_new_br5: twelve<br>model<br>just<br>fruit<br>grace
-bip_39_word_new_br6: twelve<br>model<br>just<br>fruit<br>grace<br>raise
-bip_39_word_new_br7: twelve<br>model<br>just<br>fruit<br>grace<br>raise<br>blouse
-bip_39_word_new_br8: twelve<br>model<br>just<br>fruit<br>grace<br>raise<br>blouse<br>pledge
-bip_39_word_new_br9: twelve<br>model<br>just<br>fruit<br>grace<br>raise<br>blouse<br>pledge<br>already
-bip_39_word_new_line1: twelve
-bip_39_word_new_line10: 'twelve
+bip_39_word_new_br_1: twelve
+bip_39_word_new_br_10: twelve<br>model<br>just<br>fruit<br>grace<br>raise<br>blouse<br>pledge<br>already<br>opinion
+bip_39_word_new_br_11: twelve<br>model<br>just<br>fruit<br>grace<br>raise<br>blouse<br>pledge<br>already<br>opinion<br>twelve
+bip_39_word_new_br_12: twelve<br>model<br>just<br>fruit<br>grace<br>raise<br>blouse<br>pledge<br>already<br>opinion<br>twelve<br>ankle
+bip_39_word_new_br_2: twelve<br>model
+bip_39_word_new_br_3: twelve<br>model<br>just
+bip_39_word_new_br_4: twelve<br>model<br>just<br>fruit
+bip_39_word_new_br_5: twelve<br>model<br>just<br>fruit<br>grace
+bip_39_word_new_br_6: twelve<br>model<br>just<br>fruit<br>grace<br>raise
+bip_39_word_new_br_7: twelve<br>model<br>just<br>fruit<br>grace<br>raise<br>blouse
+bip_39_word_new_br_8: twelve<br>model<br>just<br>fruit<br>grace<br>raise<br>blouse<br>pledge
+bip_39_word_new_br_9: twelve<br>model<br>just<br>fruit<br>grace<br>raise<br>blouse<br>pledge<br>already
+bip_39_word_new_line_1: twelve
+bip_39_word_new_line_10: 'twelve
 
   model
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'twelve
   already
 
   opinion'
-bip_39_word_new_line11: 'twelve
+bip_39_word_new_line_11: 'twelve
 
   model
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'twelve
   opinion
 
   twelve'
-bip_39_word_new_line12: 'twelve
+bip_39_word_new_line_12: 'twelve
 
   model
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'twelve
   twelve
 
   ankle'
-bip_39_word_new_line2: 'twelve
+bip_39_word_new_line_2: 'twelve
 
   model'
-bip_39_word_new_line3: 'twelve
+bip_39_word_new_line_3: 'twelve
 
   model
 
   just'
-bip_39_word_new_line4: 'twelve
+bip_39_word_new_line_4: 'twelve
 
   model
 
   just
 
   fruit'
-bip_39_word_new_line5: 'twelve
+bip_39_word_new_line_5: 'twelve
 
   model
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'twelve
   fruit
 
   grace'
-bip_39_word_new_line6: 'twelve
+bip_39_word_new_line_6: 'twelve
 
   model
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'twelve
   grace
 
   raise'
-bip_39_word_new_line7: 'twelve
+bip_39_word_new_line_7: 'twelve
 
   model
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'twelve
   raise
 
   blouse'
-bip_39_word_new_line8: 'twelve
+bip_39_word_new_line_8: 'twelve
 
   model
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'twelve
   blouse
 
   pledge'
-bip_39_word_new_line9: 'twelve
+bip_39_word_new_line_9: 'twelve
 
   model
 

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mass |  
-| bip_39_word_new_br10 | mass<br>disease<br>neck<br>claim<br>write<br>entry<br>loop<br>hurt<br>faint<br>axis |  
-| bip_39_word_new_br11 | mass<br>disease<br>neck<br>claim<br>write<br>entry<br>loop<br>hurt<br>faint<br>axis<br>coffee |  
-| bip_39_word_new_br12 | mass<br>disease<br>neck<br>claim<br>write<br>entry<br>loop<br>hurt<br>faint<br>axis<br>coffee<br>apart |  
-| bip_39_word_new_br2 | mass<br>disease |  
-| bip_39_word_new_br3 | mass<br>disease<br>neck |  
-| bip_39_word_new_br4 | mass<br>disease<br>neck<br>claim |  
-| bip_39_word_new_br5 | mass<br>disease<br>neck<br>claim<br>write |  
-| bip_39_word_new_br6 | mass<br>disease<br>neck<br>claim<br>write<br>entry |  
-| bip_39_word_new_br7 | mass<br>disease<br>neck<br>claim<br>write<br>entry<br>loop |  
-| bip_39_word_new_br8 | mass<br>disease<br>neck<br>claim<br>write<br>entry<br>loop<br>hurt |  
-| bip_39_word_new_br9 | mass<br>disease<br>neck<br>claim<br>write<br>entry<br>loop<br>hurt<br>faint |  
-| bip_39_word_new_line1 | mass |  
-| bip_39_word_new_line10 | mass
+| bip_39_word_new_br_1 | mass |  
+| bip_39_word_new_br_10 | mass<br>disease<br>neck<br>claim<br>write<br>entry<br>loop<br>hurt<br>faint<br>axis |  
+| bip_39_word_new_br_11 | mass<br>disease<br>neck<br>claim<br>write<br>entry<br>loop<br>hurt<br>faint<br>axis<br>coffee |  
+| bip_39_word_new_br_12 | mass<br>disease<br>neck<br>claim<br>write<br>entry<br>loop<br>hurt<br>faint<br>axis<br>coffee<br>apart |  
+| bip_39_word_new_br_2 | mass<br>disease |  
+| bip_39_word_new_br_3 | mass<br>disease<br>neck |  
+| bip_39_word_new_br_4 | mass<br>disease<br>neck<br>claim |  
+| bip_39_word_new_br_5 | mass<br>disease<br>neck<br>claim<br>write |  
+| bip_39_word_new_br_6 | mass<br>disease<br>neck<br>claim<br>write<br>entry |  
+| bip_39_word_new_br_7 | mass<br>disease<br>neck<br>claim<br>write<br>entry<br>loop |  
+| bip_39_word_new_br_8 | mass<br>disease<br>neck<br>claim<br>write<br>entry<br>loop<br>hurt |  
+| bip_39_word_new_br_9 | mass<br>disease<br>neck<br>claim<br>write<br>entry<br>loop<br>hurt<br>faint |  
+| bip_39_word_new_line_1 | mass |  
+| bip_39_word_new_line_10 | mass
 disease
 neck
 claim
@@ -55,7 +55,7 @@ loop
 hurt
 faint
 axis |  
-| bip_39_word_new_line11 | mass
+| bip_39_word_new_line_11 | mass
 disease
 neck
 claim
@@ -66,7 +66,7 @@ hurt
 faint
 axis
 coffee |  
-| bip_39_word_new_line12 | mass
+| bip_39_word_new_line_12 | mass
 disease
 neck
 claim
@@ -78,34 +78,34 @@ faint
 axis
 coffee
 apart |  
-| bip_39_word_new_line2 | mass
+| bip_39_word_new_line_2 | mass
 disease |  
-| bip_39_word_new_line3 | mass
+| bip_39_word_new_line_3 | mass
 disease
 neck |  
-| bip_39_word_new_line4 | mass
+| bip_39_word_new_line_4 | mass
 disease
 neck
 claim |  
-| bip_39_word_new_line5 | mass
+| bip_39_word_new_line_5 | mass
 disease
 neck
 claim
 write |  
-| bip_39_word_new_line6 | mass
+| bip_39_word_new_line_6 | mass
 disease
 neck
 claim
 write
 entry |  
-| bip_39_word_new_line7 | mass
+| bip_39_word_new_line_7 | mass
 disease
 neck
 claim
 write
 entry
 loop |  
-| bip_39_word_new_line8 | mass
+| bip_39_word_new_line_8 | mass
 disease
 neck
 claim
@@ -113,7 +113,7 @@ write
 entry
 loop
 hurt |  
-| bip_39_word_new_line9 | mass
+| bip_39_word_new_line_9 | mass
 disease
 neck
 claim

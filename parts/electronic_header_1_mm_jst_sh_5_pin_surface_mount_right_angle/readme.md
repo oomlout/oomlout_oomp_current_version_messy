@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | reduce |  
-| bip_39_word_new_br10 | reduce<br>distance<br>brother<br>noble<br>addict<br>cage<br>evidence<br>topic<br>hunt<br>custom |  
-| bip_39_word_new_br11 | reduce<br>distance<br>brother<br>noble<br>addict<br>cage<br>evidence<br>topic<br>hunt<br>custom<br>primary |  
-| bip_39_word_new_br12 | reduce<br>distance<br>brother<br>noble<br>addict<br>cage<br>evidence<br>topic<br>hunt<br>custom<br>primary<br>april |  
-| bip_39_word_new_br2 | reduce<br>distance |  
-| bip_39_word_new_br3 | reduce<br>distance<br>brother |  
-| bip_39_word_new_br4 | reduce<br>distance<br>brother<br>noble |  
-| bip_39_word_new_br5 | reduce<br>distance<br>brother<br>noble<br>addict |  
-| bip_39_word_new_br6 | reduce<br>distance<br>brother<br>noble<br>addict<br>cage |  
-| bip_39_word_new_br7 | reduce<br>distance<br>brother<br>noble<br>addict<br>cage<br>evidence |  
-| bip_39_word_new_br8 | reduce<br>distance<br>brother<br>noble<br>addict<br>cage<br>evidence<br>topic |  
-| bip_39_word_new_br9 | reduce<br>distance<br>brother<br>noble<br>addict<br>cage<br>evidence<br>topic<br>hunt |  
-| bip_39_word_new_line1 | reduce |  
-| bip_39_word_new_line10 | reduce
+| bip_39_word_new_br_1 | reduce |  
+| bip_39_word_new_br_10 | reduce<br>distance<br>brother<br>noble<br>addict<br>cage<br>evidence<br>topic<br>hunt<br>custom |  
+| bip_39_word_new_br_11 | reduce<br>distance<br>brother<br>noble<br>addict<br>cage<br>evidence<br>topic<br>hunt<br>custom<br>primary |  
+| bip_39_word_new_br_12 | reduce<br>distance<br>brother<br>noble<br>addict<br>cage<br>evidence<br>topic<br>hunt<br>custom<br>primary<br>april |  
+| bip_39_word_new_br_2 | reduce<br>distance |  
+| bip_39_word_new_br_3 | reduce<br>distance<br>brother |  
+| bip_39_word_new_br_4 | reduce<br>distance<br>brother<br>noble |  
+| bip_39_word_new_br_5 | reduce<br>distance<br>brother<br>noble<br>addict |  
+| bip_39_word_new_br_6 | reduce<br>distance<br>brother<br>noble<br>addict<br>cage |  
+| bip_39_word_new_br_7 | reduce<br>distance<br>brother<br>noble<br>addict<br>cage<br>evidence |  
+| bip_39_word_new_br_8 | reduce<br>distance<br>brother<br>noble<br>addict<br>cage<br>evidence<br>topic |  
+| bip_39_word_new_br_9 | reduce<br>distance<br>brother<br>noble<br>addict<br>cage<br>evidence<br>topic<br>hunt |  
+| bip_39_word_new_line_1 | reduce |  
+| bip_39_word_new_line_10 | reduce
 distance
 brother
 noble
@@ -55,7 +55,7 @@ evidence
 topic
 hunt
 custom |  
-| bip_39_word_new_line11 | reduce
+| bip_39_word_new_line_11 | reduce
 distance
 brother
 noble
@@ -66,7 +66,7 @@ topic
 hunt
 custom
 primary |  
-| bip_39_word_new_line12 | reduce
+| bip_39_word_new_line_12 | reduce
 distance
 brother
 noble
@@ -78,34 +78,34 @@ hunt
 custom
 primary
 april |  
-| bip_39_word_new_line2 | reduce
+| bip_39_word_new_line_2 | reduce
 distance |  
-| bip_39_word_new_line3 | reduce
+| bip_39_word_new_line_3 | reduce
 distance
 brother |  
-| bip_39_word_new_line4 | reduce
+| bip_39_word_new_line_4 | reduce
 distance
 brother
 noble |  
-| bip_39_word_new_line5 | reduce
+| bip_39_word_new_line_5 | reduce
 distance
 brother
 noble
 addict |  
-| bip_39_word_new_line6 | reduce
+| bip_39_word_new_line_6 | reduce
 distance
 brother
 noble
 addict
 cage |  
-| bip_39_word_new_line7 | reduce
+| bip_39_word_new_line_7 | reduce
 distance
 brother
 noble
 addict
 cage
 evidence |  
-| bip_39_word_new_line8 | reduce
+| bip_39_word_new_line_8 | reduce
 distance
 brother
 noble
@@ -113,7 +113,7 @@ addict
 cage
 evidence
 topic |  
-| bip_39_word_new_line9 | reduce
+| bip_39_word_new_line_9 | reduce
 distance
 brother
 noble

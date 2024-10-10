@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | motion |  
-| bip_39_word_new_br10 | motion<br>brick<br>island<br>spray<br>quantum<br>people<br>comic<br>collect<br>pizza<br>decline |  
-| bip_39_word_new_br11 | motion<br>brick<br>island<br>spray<br>quantum<br>people<br>comic<br>collect<br>pizza<br>decline<br>asset |  
-| bip_39_word_new_br12 | motion<br>brick<br>island<br>spray<br>quantum<br>people<br>comic<br>collect<br>pizza<br>decline<br>asset<br>asset |  
-| bip_39_word_new_br2 | motion<br>brick |  
-| bip_39_word_new_br3 | motion<br>brick<br>island |  
-| bip_39_word_new_br4 | motion<br>brick<br>island<br>spray |  
-| bip_39_word_new_br5 | motion<br>brick<br>island<br>spray<br>quantum |  
-| bip_39_word_new_br6 | motion<br>brick<br>island<br>spray<br>quantum<br>people |  
-| bip_39_word_new_br7 | motion<br>brick<br>island<br>spray<br>quantum<br>people<br>comic |  
-| bip_39_word_new_br8 | motion<br>brick<br>island<br>spray<br>quantum<br>people<br>comic<br>collect |  
-| bip_39_word_new_br9 | motion<br>brick<br>island<br>spray<br>quantum<br>people<br>comic<br>collect<br>pizza |  
-| bip_39_word_new_line1 | motion |  
-| bip_39_word_new_line10 | motion
+| bip_39_word_new_br_1 | motion |  
+| bip_39_word_new_br_10 | motion<br>brick<br>island<br>spray<br>quantum<br>people<br>comic<br>collect<br>pizza<br>decline |  
+| bip_39_word_new_br_11 | motion<br>brick<br>island<br>spray<br>quantum<br>people<br>comic<br>collect<br>pizza<br>decline<br>asset |  
+| bip_39_word_new_br_12 | motion<br>brick<br>island<br>spray<br>quantum<br>people<br>comic<br>collect<br>pizza<br>decline<br>asset<br>asset |  
+| bip_39_word_new_br_2 | motion<br>brick |  
+| bip_39_word_new_br_3 | motion<br>brick<br>island |  
+| bip_39_word_new_br_4 | motion<br>brick<br>island<br>spray |  
+| bip_39_word_new_br_5 | motion<br>brick<br>island<br>spray<br>quantum |  
+| bip_39_word_new_br_6 | motion<br>brick<br>island<br>spray<br>quantum<br>people |  
+| bip_39_word_new_br_7 | motion<br>brick<br>island<br>spray<br>quantum<br>people<br>comic |  
+| bip_39_word_new_br_8 | motion<br>brick<br>island<br>spray<br>quantum<br>people<br>comic<br>collect |  
+| bip_39_word_new_br_9 | motion<br>brick<br>island<br>spray<br>quantum<br>people<br>comic<br>collect<br>pizza |  
+| bip_39_word_new_line_1 | motion |  
+| bip_39_word_new_line_10 | motion
 brick
 island
 spray
@@ -55,7 +55,7 @@ comic
 collect
 pizza
 decline |  
-| bip_39_word_new_line11 | motion
+| bip_39_word_new_line_11 | motion
 brick
 island
 spray
@@ -66,7 +66,7 @@ collect
 pizza
 decline
 asset |  
-| bip_39_word_new_line12 | motion
+| bip_39_word_new_line_12 | motion
 brick
 island
 spray
@@ -78,34 +78,34 @@ pizza
 decline
 asset
 asset |  
-| bip_39_word_new_line2 | motion
+| bip_39_word_new_line_2 | motion
 brick |  
-| bip_39_word_new_line3 | motion
+| bip_39_word_new_line_3 | motion
 brick
 island |  
-| bip_39_word_new_line4 | motion
+| bip_39_word_new_line_4 | motion
 brick
 island
 spray |  
-| bip_39_word_new_line5 | motion
+| bip_39_word_new_line_5 | motion
 brick
 island
 spray
 quantum |  
-| bip_39_word_new_line6 | motion
+| bip_39_word_new_line_6 | motion
 brick
 island
 spray
 quantum
 people |  
-| bip_39_word_new_line7 | motion
+| bip_39_word_new_line_7 | motion
 brick
 island
 spray
 quantum
 people
 comic |  
-| bip_39_word_new_line8 | motion
+| bip_39_word_new_line_8 | motion
 brick
 island
 spray
@@ -113,7 +113,7 @@ quantum
 people
 comic
 collect |  
-| bip_39_word_new_line9 | motion
+| bip_39_word_new_line_9 | motion
 brick
 island
 spray

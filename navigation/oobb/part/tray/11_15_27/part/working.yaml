@@ -1,17 +1,17 @@
-bip_39_word_new_br1: visit
-bip_39_word_new_br10: visit<br>little<br>steel<br>today<br>club<br>vault<br>envelope<br>drift<br>cinnamon<br>decrease
-bip_39_word_new_br11: visit<br>little<br>steel<br>today<br>club<br>vault<br>envelope<br>drift<br>cinnamon<br>decrease<br>venture
-bip_39_word_new_br12: visit<br>little<br>steel<br>today<br>club<br>vault<br>envelope<br>drift<br>cinnamon<br>decrease<br>venture<br>argue
-bip_39_word_new_br2: visit<br>little
-bip_39_word_new_br3: visit<br>little<br>steel
-bip_39_word_new_br4: visit<br>little<br>steel<br>today
-bip_39_word_new_br5: visit<br>little<br>steel<br>today<br>club
-bip_39_word_new_br6: visit<br>little<br>steel<br>today<br>club<br>vault
-bip_39_word_new_br7: visit<br>little<br>steel<br>today<br>club<br>vault<br>envelope
-bip_39_word_new_br8: visit<br>little<br>steel<br>today<br>club<br>vault<br>envelope<br>drift
-bip_39_word_new_br9: visit<br>little<br>steel<br>today<br>club<br>vault<br>envelope<br>drift<br>cinnamon
-bip_39_word_new_line1: visit
-bip_39_word_new_line10: 'visit
+bip_39_word_new_br_1: visit
+bip_39_word_new_br_10: visit<br>little<br>steel<br>today<br>club<br>vault<br>envelope<br>drift<br>cinnamon<br>decrease
+bip_39_word_new_br_11: visit<br>little<br>steel<br>today<br>club<br>vault<br>envelope<br>drift<br>cinnamon<br>decrease<br>venture
+bip_39_word_new_br_12: visit<br>little<br>steel<br>today<br>club<br>vault<br>envelope<br>drift<br>cinnamon<br>decrease<br>venture<br>argue
+bip_39_word_new_br_2: visit<br>little
+bip_39_word_new_br_3: visit<br>little<br>steel
+bip_39_word_new_br_4: visit<br>little<br>steel<br>today
+bip_39_word_new_br_5: visit<br>little<br>steel<br>today<br>club
+bip_39_word_new_br_6: visit<br>little<br>steel<br>today<br>club<br>vault
+bip_39_word_new_br_7: visit<br>little<br>steel<br>today<br>club<br>vault<br>envelope
+bip_39_word_new_br_8: visit<br>little<br>steel<br>today<br>club<br>vault<br>envelope<br>drift
+bip_39_word_new_br_9: visit<br>little<br>steel<br>today<br>club<br>vault<br>envelope<br>drift<br>cinnamon
+bip_39_word_new_line_1: visit
+bip_39_word_new_line_10: 'visit
 
   little
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'visit
   cinnamon
 
   decrease'
-bip_39_word_new_line11: 'visit
+bip_39_word_new_line_11: 'visit
 
   little
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'visit
   decrease
 
   venture'
-bip_39_word_new_line12: 'visit
+bip_39_word_new_line_12: 'visit
 
   little
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'visit
   venture
 
   argue'
-bip_39_word_new_line2: 'visit
+bip_39_word_new_line_2: 'visit
 
   little'
-bip_39_word_new_line3: 'visit
+bip_39_word_new_line_3: 'visit
 
   little
 
   steel'
-bip_39_word_new_line4: 'visit
+bip_39_word_new_line_4: 'visit
 
   little
 
   steel
 
   today'
-bip_39_word_new_line5: 'visit
+bip_39_word_new_line_5: 'visit
 
   little
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'visit
   today
 
   club'
-bip_39_word_new_line6: 'visit
+bip_39_word_new_line_6: 'visit
 
   little
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'visit
   club
 
   vault'
-bip_39_word_new_line7: 'visit
+bip_39_word_new_line_7: 'visit
 
   little
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'visit
   vault
 
   envelope'
-bip_39_word_new_line8: 'visit
+bip_39_word_new_line_8: 'visit
 
   little
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'visit
   envelope
 
   drift'
-bip_39_word_new_line9: 'visit
+bip_39_word_new_line_9: 'visit
 
   little
 

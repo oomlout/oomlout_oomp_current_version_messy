@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | symbol |  
-| bip_39_word_new_br10 | symbol<br>ten<br>law<br>work<br>vague<br>right<br>faith<br>good<br>sudden<br>sail |  
-| bip_39_word_new_br11 | symbol<br>ten<br>law<br>work<br>vague<br>right<br>faith<br>good<br>sudden<br>sail<br>faint |  
-| bip_39_word_new_br12 | symbol<br>ten<br>law<br>work<br>vague<br>right<br>faith<br>good<br>sudden<br>sail<br>faint<br>absurd |  
-| bip_39_word_new_br2 | symbol<br>ten |  
-| bip_39_word_new_br3 | symbol<br>ten<br>law |  
-| bip_39_word_new_br4 | symbol<br>ten<br>law<br>work |  
-| bip_39_word_new_br5 | symbol<br>ten<br>law<br>work<br>vague |  
-| bip_39_word_new_br6 | symbol<br>ten<br>law<br>work<br>vague<br>right |  
-| bip_39_word_new_br7 | symbol<br>ten<br>law<br>work<br>vague<br>right<br>faith |  
-| bip_39_word_new_br8 | symbol<br>ten<br>law<br>work<br>vague<br>right<br>faith<br>good |  
-| bip_39_word_new_br9 | symbol<br>ten<br>law<br>work<br>vague<br>right<br>faith<br>good<br>sudden |  
-| bip_39_word_new_line1 | symbol |  
-| bip_39_word_new_line10 | symbol
+| bip_39_word_new_br_1 | symbol |  
+| bip_39_word_new_br_10 | symbol<br>ten<br>law<br>work<br>vague<br>right<br>faith<br>good<br>sudden<br>sail |  
+| bip_39_word_new_br_11 | symbol<br>ten<br>law<br>work<br>vague<br>right<br>faith<br>good<br>sudden<br>sail<br>faint |  
+| bip_39_word_new_br_12 | symbol<br>ten<br>law<br>work<br>vague<br>right<br>faith<br>good<br>sudden<br>sail<br>faint<br>absurd |  
+| bip_39_word_new_br_2 | symbol<br>ten |  
+| bip_39_word_new_br_3 | symbol<br>ten<br>law |  
+| bip_39_word_new_br_4 | symbol<br>ten<br>law<br>work |  
+| bip_39_word_new_br_5 | symbol<br>ten<br>law<br>work<br>vague |  
+| bip_39_word_new_br_6 | symbol<br>ten<br>law<br>work<br>vague<br>right |  
+| bip_39_word_new_br_7 | symbol<br>ten<br>law<br>work<br>vague<br>right<br>faith |  
+| bip_39_word_new_br_8 | symbol<br>ten<br>law<br>work<br>vague<br>right<br>faith<br>good |  
+| bip_39_word_new_br_9 | symbol<br>ten<br>law<br>work<br>vague<br>right<br>faith<br>good<br>sudden |  
+| bip_39_word_new_line_1 | symbol |  
+| bip_39_word_new_line_10 | symbol
 ten
 law
 work
@@ -55,7 +55,7 @@ faith
 good
 sudden
 sail |  
-| bip_39_word_new_line11 | symbol
+| bip_39_word_new_line_11 | symbol
 ten
 law
 work
@@ -66,7 +66,7 @@ good
 sudden
 sail
 faint |  
-| bip_39_word_new_line12 | symbol
+| bip_39_word_new_line_12 | symbol
 ten
 law
 work
@@ -78,34 +78,34 @@ sudden
 sail
 faint
 absurd |  
-| bip_39_word_new_line2 | symbol
+| bip_39_word_new_line_2 | symbol
 ten |  
-| bip_39_word_new_line3 | symbol
+| bip_39_word_new_line_3 | symbol
 ten
 law |  
-| bip_39_word_new_line4 | symbol
+| bip_39_word_new_line_4 | symbol
 ten
 law
 work |  
-| bip_39_word_new_line5 | symbol
+| bip_39_word_new_line_5 | symbol
 ten
 law
 work
 vague |  
-| bip_39_word_new_line6 | symbol
+| bip_39_word_new_line_6 | symbol
 ten
 law
 work
 vague
 right |  
-| bip_39_word_new_line7 | symbol
+| bip_39_word_new_line_7 | symbol
 ten
 law
 work
 vague
 right
 faith |  
-| bip_39_word_new_line8 | symbol
+| bip_39_word_new_line_8 | symbol
 ten
 law
 work
@@ -113,7 +113,7 @@ vague
 right
 faith
 good |  
-| bip_39_word_new_line9 | symbol
+| bip_39_word_new_line_9 | symbol
 ten
 law
 work

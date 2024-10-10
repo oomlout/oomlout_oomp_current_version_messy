@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | usage |  
-| bip_39_word_new_br10 | usage<br>accident<br>harbor<br>document<br>discover<br>coil<br>enable<br>orbit<br>aspect<br>game |  
-| bip_39_word_new_br11 | usage<br>accident<br>harbor<br>document<br>discover<br>coil<br>enable<br>orbit<br>aspect<br>game<br>slot |  
-| bip_39_word_new_br12 | usage<br>accident<br>harbor<br>document<br>discover<br>coil<br>enable<br>orbit<br>aspect<br>game<br>slot<br>apology |  
-| bip_39_word_new_br2 | usage<br>accident |  
-| bip_39_word_new_br3 | usage<br>accident<br>harbor |  
-| bip_39_word_new_br4 | usage<br>accident<br>harbor<br>document |  
-| bip_39_word_new_br5 | usage<br>accident<br>harbor<br>document<br>discover |  
-| bip_39_word_new_br6 | usage<br>accident<br>harbor<br>document<br>discover<br>coil |  
-| bip_39_word_new_br7 | usage<br>accident<br>harbor<br>document<br>discover<br>coil<br>enable |  
-| bip_39_word_new_br8 | usage<br>accident<br>harbor<br>document<br>discover<br>coil<br>enable<br>orbit |  
-| bip_39_word_new_br9 | usage<br>accident<br>harbor<br>document<br>discover<br>coil<br>enable<br>orbit<br>aspect |  
-| bip_39_word_new_line1 | usage |  
-| bip_39_word_new_line10 | usage
+| bip_39_word_new_br_1 | usage |  
+| bip_39_word_new_br_10 | usage<br>accident<br>harbor<br>document<br>discover<br>coil<br>enable<br>orbit<br>aspect<br>game |  
+| bip_39_word_new_br_11 | usage<br>accident<br>harbor<br>document<br>discover<br>coil<br>enable<br>orbit<br>aspect<br>game<br>slot |  
+| bip_39_word_new_br_12 | usage<br>accident<br>harbor<br>document<br>discover<br>coil<br>enable<br>orbit<br>aspect<br>game<br>slot<br>apology |  
+| bip_39_word_new_br_2 | usage<br>accident |  
+| bip_39_word_new_br_3 | usage<br>accident<br>harbor |  
+| bip_39_word_new_br_4 | usage<br>accident<br>harbor<br>document |  
+| bip_39_word_new_br_5 | usage<br>accident<br>harbor<br>document<br>discover |  
+| bip_39_word_new_br_6 | usage<br>accident<br>harbor<br>document<br>discover<br>coil |  
+| bip_39_word_new_br_7 | usage<br>accident<br>harbor<br>document<br>discover<br>coil<br>enable |  
+| bip_39_word_new_br_8 | usage<br>accident<br>harbor<br>document<br>discover<br>coil<br>enable<br>orbit |  
+| bip_39_word_new_br_9 | usage<br>accident<br>harbor<br>document<br>discover<br>coil<br>enable<br>orbit<br>aspect |  
+| bip_39_word_new_line_1 | usage |  
+| bip_39_word_new_line_10 | usage
 accident
 harbor
 document
@@ -55,7 +55,7 @@ enable
 orbit
 aspect
 game |  
-| bip_39_word_new_line11 | usage
+| bip_39_word_new_line_11 | usage
 accident
 harbor
 document
@@ -66,7 +66,7 @@ orbit
 aspect
 game
 slot |  
-| bip_39_word_new_line12 | usage
+| bip_39_word_new_line_12 | usage
 accident
 harbor
 document
@@ -78,34 +78,34 @@ aspect
 game
 slot
 apology |  
-| bip_39_word_new_line2 | usage
+| bip_39_word_new_line_2 | usage
 accident |  
-| bip_39_word_new_line3 | usage
+| bip_39_word_new_line_3 | usage
 accident
 harbor |  
-| bip_39_word_new_line4 | usage
+| bip_39_word_new_line_4 | usage
 accident
 harbor
 document |  
-| bip_39_word_new_line5 | usage
+| bip_39_word_new_line_5 | usage
 accident
 harbor
 document
 discover |  
-| bip_39_word_new_line6 | usage
+| bip_39_word_new_line_6 | usage
 accident
 harbor
 document
 discover
 coil |  
-| bip_39_word_new_line7 | usage
+| bip_39_word_new_line_7 | usage
 accident
 harbor
 document
 discover
 coil
 enable |  
-| bip_39_word_new_line8 | usage
+| bip_39_word_new_line_8 | usage
 accident
 harbor
 document
@@ -113,7 +113,7 @@ discover
 coil
 enable
 orbit |  
-| bip_39_word_new_line9 | usage
+| bip_39_word_new_line_9 | usage
 accident
 harbor
 document

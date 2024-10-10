@@ -1,17 +1,17 @@
-bip_39_word_new_br1: skirt
-bip_39_word_new_br10: skirt<br>modify<br>genre<br>initial<br>setup<br>annual<br>stable<br>auto<br>giant<br>guitar
-bip_39_word_new_br11: skirt<br>modify<br>genre<br>initial<br>setup<br>annual<br>stable<br>auto<br>giant<br>guitar<br>mouse
-bip_39_word_new_br12: skirt<br>modify<br>genre<br>initial<br>setup<br>annual<br>stable<br>auto<br>giant<br>guitar<br>mouse<br>among
-bip_39_word_new_br2: skirt<br>modify
-bip_39_word_new_br3: skirt<br>modify<br>genre
-bip_39_word_new_br4: skirt<br>modify<br>genre<br>initial
-bip_39_word_new_br5: skirt<br>modify<br>genre<br>initial<br>setup
-bip_39_word_new_br6: skirt<br>modify<br>genre<br>initial<br>setup<br>annual
-bip_39_word_new_br7: skirt<br>modify<br>genre<br>initial<br>setup<br>annual<br>stable
-bip_39_word_new_br8: skirt<br>modify<br>genre<br>initial<br>setup<br>annual<br>stable<br>auto
-bip_39_word_new_br9: skirt<br>modify<br>genre<br>initial<br>setup<br>annual<br>stable<br>auto<br>giant
-bip_39_word_new_line1: skirt
-bip_39_word_new_line10: 'skirt
+bip_39_word_new_br_1: skirt
+bip_39_word_new_br_10: skirt<br>modify<br>genre<br>initial<br>setup<br>annual<br>stable<br>auto<br>giant<br>guitar
+bip_39_word_new_br_11: skirt<br>modify<br>genre<br>initial<br>setup<br>annual<br>stable<br>auto<br>giant<br>guitar<br>mouse
+bip_39_word_new_br_12: skirt<br>modify<br>genre<br>initial<br>setup<br>annual<br>stable<br>auto<br>giant<br>guitar<br>mouse<br>among
+bip_39_word_new_br_2: skirt<br>modify
+bip_39_word_new_br_3: skirt<br>modify<br>genre
+bip_39_word_new_br_4: skirt<br>modify<br>genre<br>initial
+bip_39_word_new_br_5: skirt<br>modify<br>genre<br>initial<br>setup
+bip_39_word_new_br_6: skirt<br>modify<br>genre<br>initial<br>setup<br>annual
+bip_39_word_new_br_7: skirt<br>modify<br>genre<br>initial<br>setup<br>annual<br>stable
+bip_39_word_new_br_8: skirt<br>modify<br>genre<br>initial<br>setup<br>annual<br>stable<br>auto
+bip_39_word_new_br_9: skirt<br>modify<br>genre<br>initial<br>setup<br>annual<br>stable<br>auto<br>giant
+bip_39_word_new_line_1: skirt
+bip_39_word_new_line_10: 'skirt
 
   modify
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'skirt
   giant
 
   guitar'
-bip_39_word_new_line11: 'skirt
+bip_39_word_new_line_11: 'skirt
 
   modify
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'skirt
   guitar
 
   mouse'
-bip_39_word_new_line12: 'skirt
+bip_39_word_new_line_12: 'skirt
 
   modify
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'skirt
   mouse
 
   among'
-bip_39_word_new_line2: 'skirt
+bip_39_word_new_line_2: 'skirt
 
   modify'
-bip_39_word_new_line3: 'skirt
+bip_39_word_new_line_3: 'skirt
 
   modify
 
   genre'
-bip_39_word_new_line4: 'skirt
+bip_39_word_new_line_4: 'skirt
 
   modify
 
   genre
 
   initial'
-bip_39_word_new_line5: 'skirt
+bip_39_word_new_line_5: 'skirt
 
   modify
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'skirt
   initial
 
   setup'
-bip_39_word_new_line6: 'skirt
+bip_39_word_new_line_6: 'skirt
 
   modify
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'skirt
   setup
 
   annual'
-bip_39_word_new_line7: 'skirt
+bip_39_word_new_line_7: 'skirt
 
   modify
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'skirt
   annual
 
   stable'
-bip_39_word_new_line8: 'skirt
+bip_39_word_new_line_8: 'skirt
 
   modify
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'skirt
   stable
 
   auto'
-bip_39_word_new_line9: 'skirt
+bip_39_word_new_line_9: 'skirt
 
   modify
 

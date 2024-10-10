@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fee |  
-| bip_39_word_new_br10 | fee<br>token<br>waste<br>depth<br>inspire<br>pass<br>rapid<br>glory<br>spend<br>clock |  
-| bip_39_word_new_br11 | fee<br>token<br>waste<br>depth<br>inspire<br>pass<br>rapid<br>glory<br>spend<br>clock<br>table |  
-| bip_39_word_new_br12 | fee<br>token<br>waste<br>depth<br>inspire<br>pass<br>rapid<br>glory<br>spend<br>clock<br>table<br>annual |  
-| bip_39_word_new_br2 | fee<br>token |  
-| bip_39_word_new_br3 | fee<br>token<br>waste |  
-| bip_39_word_new_br4 | fee<br>token<br>waste<br>depth |  
-| bip_39_word_new_br5 | fee<br>token<br>waste<br>depth<br>inspire |  
-| bip_39_word_new_br6 | fee<br>token<br>waste<br>depth<br>inspire<br>pass |  
-| bip_39_word_new_br7 | fee<br>token<br>waste<br>depth<br>inspire<br>pass<br>rapid |  
-| bip_39_word_new_br8 | fee<br>token<br>waste<br>depth<br>inspire<br>pass<br>rapid<br>glory |  
-| bip_39_word_new_br9 | fee<br>token<br>waste<br>depth<br>inspire<br>pass<br>rapid<br>glory<br>spend |  
-| bip_39_word_new_line1 | fee |  
-| bip_39_word_new_line10 | fee
+| bip_39_word_new_br_1 | fee |  
+| bip_39_word_new_br_10 | fee<br>token<br>waste<br>depth<br>inspire<br>pass<br>rapid<br>glory<br>spend<br>clock |  
+| bip_39_word_new_br_11 | fee<br>token<br>waste<br>depth<br>inspire<br>pass<br>rapid<br>glory<br>spend<br>clock<br>table |  
+| bip_39_word_new_br_12 | fee<br>token<br>waste<br>depth<br>inspire<br>pass<br>rapid<br>glory<br>spend<br>clock<br>table<br>annual |  
+| bip_39_word_new_br_2 | fee<br>token |  
+| bip_39_word_new_br_3 | fee<br>token<br>waste |  
+| bip_39_word_new_br_4 | fee<br>token<br>waste<br>depth |  
+| bip_39_word_new_br_5 | fee<br>token<br>waste<br>depth<br>inspire |  
+| bip_39_word_new_br_6 | fee<br>token<br>waste<br>depth<br>inspire<br>pass |  
+| bip_39_word_new_br_7 | fee<br>token<br>waste<br>depth<br>inspire<br>pass<br>rapid |  
+| bip_39_word_new_br_8 | fee<br>token<br>waste<br>depth<br>inspire<br>pass<br>rapid<br>glory |  
+| bip_39_word_new_br_9 | fee<br>token<br>waste<br>depth<br>inspire<br>pass<br>rapid<br>glory<br>spend |  
+| bip_39_word_new_line_1 | fee |  
+| bip_39_word_new_line_10 | fee
 token
 waste
 depth
@@ -55,7 +55,7 @@ rapid
 glory
 spend
 clock |  
-| bip_39_word_new_line11 | fee
+| bip_39_word_new_line_11 | fee
 token
 waste
 depth
@@ -66,7 +66,7 @@ glory
 spend
 clock
 table |  
-| bip_39_word_new_line12 | fee
+| bip_39_word_new_line_12 | fee
 token
 waste
 depth
@@ -78,34 +78,34 @@ spend
 clock
 table
 annual |  
-| bip_39_word_new_line2 | fee
+| bip_39_word_new_line_2 | fee
 token |  
-| bip_39_word_new_line3 | fee
+| bip_39_word_new_line_3 | fee
 token
 waste |  
-| bip_39_word_new_line4 | fee
+| bip_39_word_new_line_4 | fee
 token
 waste
 depth |  
-| bip_39_word_new_line5 | fee
+| bip_39_word_new_line_5 | fee
 token
 waste
 depth
 inspire |  
-| bip_39_word_new_line6 | fee
+| bip_39_word_new_line_6 | fee
 token
 waste
 depth
 inspire
 pass |  
-| bip_39_word_new_line7 | fee
+| bip_39_word_new_line_7 | fee
 token
 waste
 depth
 inspire
 pass
 rapid |  
-| bip_39_word_new_line8 | fee
+| bip_39_word_new_line_8 | fee
 token
 waste
 depth
@@ -113,7 +113,7 @@ inspire
 pass
 rapid
 glory |  
-| bip_39_word_new_line9 | fee
+| bip_39_word_new_line_9 | fee
 token
 waste
 depth

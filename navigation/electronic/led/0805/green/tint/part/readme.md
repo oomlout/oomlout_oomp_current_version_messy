@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | worry |  
-| bip_39_word_new_br10 | worry<br>warfare<br>mobile<br>wrestle<br>slogan<br>despair<br>job<br>toast<br>visual<br>found |  
-| bip_39_word_new_br11 | worry<br>warfare<br>mobile<br>wrestle<br>slogan<br>despair<br>job<br>toast<br>visual<br>found<br>cannon |  
-| bip_39_word_new_br12 | worry<br>warfare<br>mobile<br>wrestle<br>slogan<br>despair<br>job<br>toast<br>visual<br>found<br>cannon<br>acid |  
-| bip_39_word_new_br2 | worry<br>warfare |  
-| bip_39_word_new_br3 | worry<br>warfare<br>mobile |  
-| bip_39_word_new_br4 | worry<br>warfare<br>mobile<br>wrestle |  
-| bip_39_word_new_br5 | worry<br>warfare<br>mobile<br>wrestle<br>slogan |  
-| bip_39_word_new_br6 | worry<br>warfare<br>mobile<br>wrestle<br>slogan<br>despair |  
-| bip_39_word_new_br7 | worry<br>warfare<br>mobile<br>wrestle<br>slogan<br>despair<br>job |  
-| bip_39_word_new_br8 | worry<br>warfare<br>mobile<br>wrestle<br>slogan<br>despair<br>job<br>toast |  
-| bip_39_word_new_br9 | worry<br>warfare<br>mobile<br>wrestle<br>slogan<br>despair<br>job<br>toast<br>visual |  
-| bip_39_word_new_line1 | worry |  
-| bip_39_word_new_line10 | worry
+| bip_39_word_new_br_1 | worry |  
+| bip_39_word_new_br_10 | worry<br>warfare<br>mobile<br>wrestle<br>slogan<br>despair<br>job<br>toast<br>visual<br>found |  
+| bip_39_word_new_br_11 | worry<br>warfare<br>mobile<br>wrestle<br>slogan<br>despair<br>job<br>toast<br>visual<br>found<br>cannon |  
+| bip_39_word_new_br_12 | worry<br>warfare<br>mobile<br>wrestle<br>slogan<br>despair<br>job<br>toast<br>visual<br>found<br>cannon<br>acid |  
+| bip_39_word_new_br_2 | worry<br>warfare |  
+| bip_39_word_new_br_3 | worry<br>warfare<br>mobile |  
+| bip_39_word_new_br_4 | worry<br>warfare<br>mobile<br>wrestle |  
+| bip_39_word_new_br_5 | worry<br>warfare<br>mobile<br>wrestle<br>slogan |  
+| bip_39_word_new_br_6 | worry<br>warfare<br>mobile<br>wrestle<br>slogan<br>despair |  
+| bip_39_word_new_br_7 | worry<br>warfare<br>mobile<br>wrestle<br>slogan<br>despair<br>job |  
+| bip_39_word_new_br_8 | worry<br>warfare<br>mobile<br>wrestle<br>slogan<br>despair<br>job<br>toast |  
+| bip_39_word_new_br_9 | worry<br>warfare<br>mobile<br>wrestle<br>slogan<br>despair<br>job<br>toast<br>visual |  
+| bip_39_word_new_line_1 | worry |  
+| bip_39_word_new_line_10 | worry
 warfare
 mobile
 wrestle
@@ -55,7 +55,7 @@ job
 toast
 visual
 found |  
-| bip_39_word_new_line11 | worry
+| bip_39_word_new_line_11 | worry
 warfare
 mobile
 wrestle
@@ -66,7 +66,7 @@ toast
 visual
 found
 cannon |  
-| bip_39_word_new_line12 | worry
+| bip_39_word_new_line_12 | worry
 warfare
 mobile
 wrestle
@@ -78,34 +78,34 @@ visual
 found
 cannon
 acid |  
-| bip_39_word_new_line2 | worry
+| bip_39_word_new_line_2 | worry
 warfare |  
-| bip_39_word_new_line3 | worry
+| bip_39_word_new_line_3 | worry
 warfare
 mobile |  
-| bip_39_word_new_line4 | worry
+| bip_39_word_new_line_4 | worry
 warfare
 mobile
 wrestle |  
-| bip_39_word_new_line5 | worry
+| bip_39_word_new_line_5 | worry
 warfare
 mobile
 wrestle
 slogan |  
-| bip_39_word_new_line6 | worry
+| bip_39_word_new_line_6 | worry
 warfare
 mobile
 wrestle
 slogan
 despair |  
-| bip_39_word_new_line7 | worry
+| bip_39_word_new_line_7 | worry
 warfare
 mobile
 wrestle
 slogan
 despair
 job |  
-| bip_39_word_new_line8 | worry
+| bip_39_word_new_line_8 | worry
 warfare
 mobile
 wrestle
@@ -113,7 +113,7 @@ slogan
 despair
 job
 toast |  
-| bip_39_word_new_line9 | worry
+| bip_39_word_new_line_9 | worry
 warfare
 mobile
 wrestle

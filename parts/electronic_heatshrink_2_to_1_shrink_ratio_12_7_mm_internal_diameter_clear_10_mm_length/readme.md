@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | choose |  
-| bip_39_word_new_br10 | choose<br>small<br>teach<br>deer<br>drink<br>between<br>guitar<br>protect<br>bulk<br>consider |  
-| bip_39_word_new_br11 | choose<br>small<br>teach<br>deer<br>drink<br>between<br>guitar<br>protect<br>bulk<br>consider<br>follow |  
-| bip_39_word_new_br12 | choose<br>small<br>teach<br>deer<br>drink<br>between<br>guitar<br>protect<br>bulk<br>consider<br>follow<br>atom |  
-| bip_39_word_new_br2 | choose<br>small |  
-| bip_39_word_new_br3 | choose<br>small<br>teach |  
-| bip_39_word_new_br4 | choose<br>small<br>teach<br>deer |  
-| bip_39_word_new_br5 | choose<br>small<br>teach<br>deer<br>drink |  
-| bip_39_word_new_br6 | choose<br>small<br>teach<br>deer<br>drink<br>between |  
-| bip_39_word_new_br7 | choose<br>small<br>teach<br>deer<br>drink<br>between<br>guitar |  
-| bip_39_word_new_br8 | choose<br>small<br>teach<br>deer<br>drink<br>between<br>guitar<br>protect |  
-| bip_39_word_new_br9 | choose<br>small<br>teach<br>deer<br>drink<br>between<br>guitar<br>protect<br>bulk |  
-| bip_39_word_new_line1 | choose |  
-| bip_39_word_new_line10 | choose
+| bip_39_word_new_br_1 | choose |  
+| bip_39_word_new_br_10 | choose<br>small<br>teach<br>deer<br>drink<br>between<br>guitar<br>protect<br>bulk<br>consider |  
+| bip_39_word_new_br_11 | choose<br>small<br>teach<br>deer<br>drink<br>between<br>guitar<br>protect<br>bulk<br>consider<br>follow |  
+| bip_39_word_new_br_12 | choose<br>small<br>teach<br>deer<br>drink<br>between<br>guitar<br>protect<br>bulk<br>consider<br>follow<br>atom |  
+| bip_39_word_new_br_2 | choose<br>small |  
+| bip_39_word_new_br_3 | choose<br>small<br>teach |  
+| bip_39_word_new_br_4 | choose<br>small<br>teach<br>deer |  
+| bip_39_word_new_br_5 | choose<br>small<br>teach<br>deer<br>drink |  
+| bip_39_word_new_br_6 | choose<br>small<br>teach<br>deer<br>drink<br>between |  
+| bip_39_word_new_br_7 | choose<br>small<br>teach<br>deer<br>drink<br>between<br>guitar |  
+| bip_39_word_new_br_8 | choose<br>small<br>teach<br>deer<br>drink<br>between<br>guitar<br>protect |  
+| bip_39_word_new_br_9 | choose<br>small<br>teach<br>deer<br>drink<br>between<br>guitar<br>protect<br>bulk |  
+| bip_39_word_new_line_1 | choose |  
+| bip_39_word_new_line_10 | choose
 small
 teach
 deer
@@ -55,7 +55,7 @@ guitar
 protect
 bulk
 consider |  
-| bip_39_word_new_line11 | choose
+| bip_39_word_new_line_11 | choose
 small
 teach
 deer
@@ -66,7 +66,7 @@ protect
 bulk
 consider
 follow |  
-| bip_39_word_new_line12 | choose
+| bip_39_word_new_line_12 | choose
 small
 teach
 deer
@@ -78,34 +78,34 @@ bulk
 consider
 follow
 atom |  
-| bip_39_word_new_line2 | choose
+| bip_39_word_new_line_2 | choose
 small |  
-| bip_39_word_new_line3 | choose
+| bip_39_word_new_line_3 | choose
 small
 teach |  
-| bip_39_word_new_line4 | choose
+| bip_39_word_new_line_4 | choose
 small
 teach
 deer |  
-| bip_39_word_new_line5 | choose
+| bip_39_word_new_line_5 | choose
 small
 teach
 deer
 drink |  
-| bip_39_word_new_line6 | choose
+| bip_39_word_new_line_6 | choose
 small
 teach
 deer
 drink
 between |  
-| bip_39_word_new_line7 | choose
+| bip_39_word_new_line_7 | choose
 small
 teach
 deer
 drink
 between
 guitar |  
-| bip_39_word_new_line8 | choose
+| bip_39_word_new_line_8 | choose
 small
 teach
 deer
@@ -113,7 +113,7 @@ drink
 between
 guitar
 protect |  
-| bip_39_word_new_line9 | choose
+| bip_39_word_new_line_9 | choose
 small
 teach
 deer

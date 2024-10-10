@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | diet |  
-| bip_39_word_new_br10 | diet<br>sun<br>clown<br>vanish<br>rail<br>tip<br>crawl<br>barely<br>huge<br>oval |  
-| bip_39_word_new_br11 | diet<br>sun<br>clown<br>vanish<br>rail<br>tip<br>crawl<br>barely<br>huge<br>oval<br>steel |  
-| bip_39_word_new_br12 | diet<br>sun<br>clown<br>vanish<br>rail<br>tip<br>crawl<br>barely<br>huge<br>oval<br>steel<br>assist |  
-| bip_39_word_new_br2 | diet<br>sun |  
-| bip_39_word_new_br3 | diet<br>sun<br>clown |  
-| bip_39_word_new_br4 | diet<br>sun<br>clown<br>vanish |  
-| bip_39_word_new_br5 | diet<br>sun<br>clown<br>vanish<br>rail |  
-| bip_39_word_new_br6 | diet<br>sun<br>clown<br>vanish<br>rail<br>tip |  
-| bip_39_word_new_br7 | diet<br>sun<br>clown<br>vanish<br>rail<br>tip<br>crawl |  
-| bip_39_word_new_br8 | diet<br>sun<br>clown<br>vanish<br>rail<br>tip<br>crawl<br>barely |  
-| bip_39_word_new_br9 | diet<br>sun<br>clown<br>vanish<br>rail<br>tip<br>crawl<br>barely<br>huge |  
-| bip_39_word_new_line1 | diet |  
-| bip_39_word_new_line10 | diet
+| bip_39_word_new_br_1 | diet |  
+| bip_39_word_new_br_10 | diet<br>sun<br>clown<br>vanish<br>rail<br>tip<br>crawl<br>barely<br>huge<br>oval |  
+| bip_39_word_new_br_11 | diet<br>sun<br>clown<br>vanish<br>rail<br>tip<br>crawl<br>barely<br>huge<br>oval<br>steel |  
+| bip_39_word_new_br_12 | diet<br>sun<br>clown<br>vanish<br>rail<br>tip<br>crawl<br>barely<br>huge<br>oval<br>steel<br>assist |  
+| bip_39_word_new_br_2 | diet<br>sun |  
+| bip_39_word_new_br_3 | diet<br>sun<br>clown |  
+| bip_39_word_new_br_4 | diet<br>sun<br>clown<br>vanish |  
+| bip_39_word_new_br_5 | diet<br>sun<br>clown<br>vanish<br>rail |  
+| bip_39_word_new_br_6 | diet<br>sun<br>clown<br>vanish<br>rail<br>tip |  
+| bip_39_word_new_br_7 | diet<br>sun<br>clown<br>vanish<br>rail<br>tip<br>crawl |  
+| bip_39_word_new_br_8 | diet<br>sun<br>clown<br>vanish<br>rail<br>tip<br>crawl<br>barely |  
+| bip_39_word_new_br_9 | diet<br>sun<br>clown<br>vanish<br>rail<br>tip<br>crawl<br>barely<br>huge |  
+| bip_39_word_new_line_1 | diet |  
+| bip_39_word_new_line_10 | diet
 sun
 clown
 vanish
@@ -55,7 +55,7 @@ crawl
 barely
 huge
 oval |  
-| bip_39_word_new_line11 | diet
+| bip_39_word_new_line_11 | diet
 sun
 clown
 vanish
@@ -66,7 +66,7 @@ barely
 huge
 oval
 steel |  
-| bip_39_word_new_line12 | diet
+| bip_39_word_new_line_12 | diet
 sun
 clown
 vanish
@@ -78,34 +78,34 @@ huge
 oval
 steel
 assist |  
-| bip_39_word_new_line2 | diet
+| bip_39_word_new_line_2 | diet
 sun |  
-| bip_39_word_new_line3 | diet
+| bip_39_word_new_line_3 | diet
 sun
 clown |  
-| bip_39_word_new_line4 | diet
+| bip_39_word_new_line_4 | diet
 sun
 clown
 vanish |  
-| bip_39_word_new_line5 | diet
+| bip_39_word_new_line_5 | diet
 sun
 clown
 vanish
 rail |  
-| bip_39_word_new_line6 | diet
+| bip_39_word_new_line_6 | diet
 sun
 clown
 vanish
 rail
 tip |  
-| bip_39_word_new_line7 | diet
+| bip_39_word_new_line_7 | diet
 sun
 clown
 vanish
 rail
 tip
 crawl |  
-| bip_39_word_new_line8 | diet
+| bip_39_word_new_line_8 | diet
 sun
 clown
 vanish
@@ -113,7 +113,7 @@ rail
 tip
 crawl
 barely |  
-| bip_39_word_new_line9 | diet
+| bip_39_word_new_line_9 | diet
 sun
 clown
 vanish

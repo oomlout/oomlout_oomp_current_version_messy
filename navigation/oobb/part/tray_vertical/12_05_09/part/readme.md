@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ancient |  
-| bip_39_word_new_br10 | ancient<br>crawl<br>organ<br>cattle<br>forum<br>chat<br>color<br>waste<br>again<br>gather |  
-| bip_39_word_new_br11 | ancient<br>crawl<br>organ<br>cattle<br>forum<br>chat<br>color<br>waste<br>again<br>gather<br>nose |  
-| bip_39_word_new_br12 | ancient<br>crawl<br>organ<br>cattle<br>forum<br>chat<br>color<br>waste<br>again<br>gather<br>nose<br>alcohol |  
-| bip_39_word_new_br2 | ancient<br>crawl |  
-| bip_39_word_new_br3 | ancient<br>crawl<br>organ |  
-| bip_39_word_new_br4 | ancient<br>crawl<br>organ<br>cattle |  
-| bip_39_word_new_br5 | ancient<br>crawl<br>organ<br>cattle<br>forum |  
-| bip_39_word_new_br6 | ancient<br>crawl<br>organ<br>cattle<br>forum<br>chat |  
-| bip_39_word_new_br7 | ancient<br>crawl<br>organ<br>cattle<br>forum<br>chat<br>color |  
-| bip_39_word_new_br8 | ancient<br>crawl<br>organ<br>cattle<br>forum<br>chat<br>color<br>waste |  
-| bip_39_word_new_br9 | ancient<br>crawl<br>organ<br>cattle<br>forum<br>chat<br>color<br>waste<br>again |  
-| bip_39_word_new_line1 | ancient |  
-| bip_39_word_new_line10 | ancient
+| bip_39_word_new_br_1 | ancient |  
+| bip_39_word_new_br_10 | ancient<br>crawl<br>organ<br>cattle<br>forum<br>chat<br>color<br>waste<br>again<br>gather |  
+| bip_39_word_new_br_11 | ancient<br>crawl<br>organ<br>cattle<br>forum<br>chat<br>color<br>waste<br>again<br>gather<br>nose |  
+| bip_39_word_new_br_12 | ancient<br>crawl<br>organ<br>cattle<br>forum<br>chat<br>color<br>waste<br>again<br>gather<br>nose<br>alcohol |  
+| bip_39_word_new_br_2 | ancient<br>crawl |  
+| bip_39_word_new_br_3 | ancient<br>crawl<br>organ |  
+| bip_39_word_new_br_4 | ancient<br>crawl<br>organ<br>cattle |  
+| bip_39_word_new_br_5 | ancient<br>crawl<br>organ<br>cattle<br>forum |  
+| bip_39_word_new_br_6 | ancient<br>crawl<br>organ<br>cattle<br>forum<br>chat |  
+| bip_39_word_new_br_7 | ancient<br>crawl<br>organ<br>cattle<br>forum<br>chat<br>color |  
+| bip_39_word_new_br_8 | ancient<br>crawl<br>organ<br>cattle<br>forum<br>chat<br>color<br>waste |  
+| bip_39_word_new_br_9 | ancient<br>crawl<br>organ<br>cattle<br>forum<br>chat<br>color<br>waste<br>again |  
+| bip_39_word_new_line_1 | ancient |  
+| bip_39_word_new_line_10 | ancient
 crawl
 organ
 cattle
@@ -55,7 +55,7 @@ color
 waste
 again
 gather |  
-| bip_39_word_new_line11 | ancient
+| bip_39_word_new_line_11 | ancient
 crawl
 organ
 cattle
@@ -66,7 +66,7 @@ waste
 again
 gather
 nose |  
-| bip_39_word_new_line12 | ancient
+| bip_39_word_new_line_12 | ancient
 crawl
 organ
 cattle
@@ -78,34 +78,34 @@ again
 gather
 nose
 alcohol |  
-| bip_39_word_new_line2 | ancient
+| bip_39_word_new_line_2 | ancient
 crawl |  
-| bip_39_word_new_line3 | ancient
+| bip_39_word_new_line_3 | ancient
 crawl
 organ |  
-| bip_39_word_new_line4 | ancient
+| bip_39_word_new_line_4 | ancient
 crawl
 organ
 cattle |  
-| bip_39_word_new_line5 | ancient
+| bip_39_word_new_line_5 | ancient
 crawl
 organ
 cattle
 forum |  
-| bip_39_word_new_line6 | ancient
+| bip_39_word_new_line_6 | ancient
 crawl
 organ
 cattle
 forum
 chat |  
-| bip_39_word_new_line7 | ancient
+| bip_39_word_new_line_7 | ancient
 crawl
 organ
 cattle
 forum
 chat
 color |  
-| bip_39_word_new_line8 | ancient
+| bip_39_word_new_line_8 | ancient
 crawl
 organ
 cattle
@@ -113,7 +113,7 @@ forum
 chat
 color
 waste |  
-| bip_39_word_new_line9 | ancient
+| bip_39_word_new_line_9 | ancient
 crawl
 organ
 cattle

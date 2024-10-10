@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | analyst |  
-| bip_39_word_new_br10 | analyst<br>check<br>match<br>fantasy<br>same<br>equip<br>concert<br>opinion<br>gossip<br>behave |  
-| bip_39_word_new_br11 | analyst<br>check<br>match<br>fantasy<br>same<br>equip<br>concert<br>opinion<br>gossip<br>behave<br>goddess |  
-| bip_39_word_new_br12 | analyst<br>check<br>match<br>fantasy<br>same<br>equip<br>concert<br>opinion<br>gossip<br>behave<br>goddess<br>achieve |  
-| bip_39_word_new_br2 | analyst<br>check |  
-| bip_39_word_new_br3 | analyst<br>check<br>match |  
-| bip_39_word_new_br4 | analyst<br>check<br>match<br>fantasy |  
-| bip_39_word_new_br5 | analyst<br>check<br>match<br>fantasy<br>same |  
-| bip_39_word_new_br6 | analyst<br>check<br>match<br>fantasy<br>same<br>equip |  
-| bip_39_word_new_br7 | analyst<br>check<br>match<br>fantasy<br>same<br>equip<br>concert |  
-| bip_39_word_new_br8 | analyst<br>check<br>match<br>fantasy<br>same<br>equip<br>concert<br>opinion |  
-| bip_39_word_new_br9 | analyst<br>check<br>match<br>fantasy<br>same<br>equip<br>concert<br>opinion<br>gossip |  
-| bip_39_word_new_line1 | analyst |  
-| bip_39_word_new_line10 | analyst
+| bip_39_word_new_br_1 | analyst |  
+| bip_39_word_new_br_10 | analyst<br>check<br>match<br>fantasy<br>same<br>equip<br>concert<br>opinion<br>gossip<br>behave |  
+| bip_39_word_new_br_11 | analyst<br>check<br>match<br>fantasy<br>same<br>equip<br>concert<br>opinion<br>gossip<br>behave<br>goddess |  
+| bip_39_word_new_br_12 | analyst<br>check<br>match<br>fantasy<br>same<br>equip<br>concert<br>opinion<br>gossip<br>behave<br>goddess<br>achieve |  
+| bip_39_word_new_br_2 | analyst<br>check |  
+| bip_39_word_new_br_3 | analyst<br>check<br>match |  
+| bip_39_word_new_br_4 | analyst<br>check<br>match<br>fantasy |  
+| bip_39_word_new_br_5 | analyst<br>check<br>match<br>fantasy<br>same |  
+| bip_39_word_new_br_6 | analyst<br>check<br>match<br>fantasy<br>same<br>equip |  
+| bip_39_word_new_br_7 | analyst<br>check<br>match<br>fantasy<br>same<br>equip<br>concert |  
+| bip_39_word_new_br_8 | analyst<br>check<br>match<br>fantasy<br>same<br>equip<br>concert<br>opinion |  
+| bip_39_word_new_br_9 | analyst<br>check<br>match<br>fantasy<br>same<br>equip<br>concert<br>opinion<br>gossip |  
+| bip_39_word_new_line_1 | analyst |  
+| bip_39_word_new_line_10 | analyst
 check
 match
 fantasy
@@ -55,7 +55,7 @@ concert
 opinion
 gossip
 behave |  
-| bip_39_word_new_line11 | analyst
+| bip_39_word_new_line_11 | analyst
 check
 match
 fantasy
@@ -66,7 +66,7 @@ opinion
 gossip
 behave
 goddess |  
-| bip_39_word_new_line12 | analyst
+| bip_39_word_new_line_12 | analyst
 check
 match
 fantasy
@@ -78,34 +78,34 @@ gossip
 behave
 goddess
 achieve |  
-| bip_39_word_new_line2 | analyst
+| bip_39_word_new_line_2 | analyst
 check |  
-| bip_39_word_new_line3 | analyst
+| bip_39_word_new_line_3 | analyst
 check
 match |  
-| bip_39_word_new_line4 | analyst
+| bip_39_word_new_line_4 | analyst
 check
 match
 fantasy |  
-| bip_39_word_new_line5 | analyst
+| bip_39_word_new_line_5 | analyst
 check
 match
 fantasy
 same |  
-| bip_39_word_new_line6 | analyst
+| bip_39_word_new_line_6 | analyst
 check
 match
 fantasy
 same
 equip |  
-| bip_39_word_new_line7 | analyst
+| bip_39_word_new_line_7 | analyst
 check
 match
 fantasy
 same
 equip
 concert |  
-| bip_39_word_new_line8 | analyst
+| bip_39_word_new_line_8 | analyst
 check
 match
 fantasy
@@ -113,7 +113,7 @@ same
 equip
 concert
 opinion |  
-| bip_39_word_new_line9 | analyst
+| bip_39_word_new_line_9 | analyst
 check
 match
 fantasy

@@ -1,17 +1,17 @@
-bip_39_word_new_br1: document
-bip_39_word_new_br10: document<br>fruit<br>predict<br>project<br>blood<br>blue<br>primary<br>host<br>dish<br>spread
-bip_39_word_new_br11: document<br>fruit<br>predict<br>project<br>blood<br>blue<br>primary<br>host<br>dish<br>spread<br>pull
-bip_39_word_new_br12: document<br>fruit<br>predict<br>project<br>blood<br>blue<br>primary<br>host<br>dish<br>spread<br>pull<br>again
-bip_39_word_new_br2: document<br>fruit
-bip_39_word_new_br3: document<br>fruit<br>predict
-bip_39_word_new_br4: document<br>fruit<br>predict<br>project
-bip_39_word_new_br5: document<br>fruit<br>predict<br>project<br>blood
-bip_39_word_new_br6: document<br>fruit<br>predict<br>project<br>blood<br>blue
-bip_39_word_new_br7: document<br>fruit<br>predict<br>project<br>blood<br>blue<br>primary
-bip_39_word_new_br8: document<br>fruit<br>predict<br>project<br>blood<br>blue<br>primary<br>host
-bip_39_word_new_br9: document<br>fruit<br>predict<br>project<br>blood<br>blue<br>primary<br>host<br>dish
-bip_39_word_new_line1: document
-bip_39_word_new_line10: 'document
+bip_39_word_new_br_1: document
+bip_39_word_new_br_10: document<br>fruit<br>predict<br>project<br>blood<br>blue<br>primary<br>host<br>dish<br>spread
+bip_39_word_new_br_11: document<br>fruit<br>predict<br>project<br>blood<br>blue<br>primary<br>host<br>dish<br>spread<br>pull
+bip_39_word_new_br_12: document<br>fruit<br>predict<br>project<br>blood<br>blue<br>primary<br>host<br>dish<br>spread<br>pull<br>again
+bip_39_word_new_br_2: document<br>fruit
+bip_39_word_new_br_3: document<br>fruit<br>predict
+bip_39_word_new_br_4: document<br>fruit<br>predict<br>project
+bip_39_word_new_br_5: document<br>fruit<br>predict<br>project<br>blood
+bip_39_word_new_br_6: document<br>fruit<br>predict<br>project<br>blood<br>blue
+bip_39_word_new_br_7: document<br>fruit<br>predict<br>project<br>blood<br>blue<br>primary
+bip_39_word_new_br_8: document<br>fruit<br>predict<br>project<br>blood<br>blue<br>primary<br>host
+bip_39_word_new_br_9: document<br>fruit<br>predict<br>project<br>blood<br>blue<br>primary<br>host<br>dish
+bip_39_word_new_line_1: document
+bip_39_word_new_line_10: 'document
 
   fruit
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'document
   dish
 
   spread'
-bip_39_word_new_line11: 'document
+bip_39_word_new_line_11: 'document
 
   fruit
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'document
   spread
 
   pull'
-bip_39_word_new_line12: 'document
+bip_39_word_new_line_12: 'document
 
   fruit
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'document
   pull
 
   again'
-bip_39_word_new_line2: 'document
+bip_39_word_new_line_2: 'document
 
   fruit'
-bip_39_word_new_line3: 'document
+bip_39_word_new_line_3: 'document
 
   fruit
 
   predict'
-bip_39_word_new_line4: 'document
+bip_39_word_new_line_4: 'document
 
   fruit
 
   predict
 
   project'
-bip_39_word_new_line5: 'document
+bip_39_word_new_line_5: 'document
 
   fruit
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'document
   project
 
   blood'
-bip_39_word_new_line6: 'document
+bip_39_word_new_line_6: 'document
 
   fruit
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'document
   blood
 
   blue'
-bip_39_word_new_line7: 'document
+bip_39_word_new_line_7: 'document
 
   fruit
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'document
   blue
 
   primary'
-bip_39_word_new_line8: 'document
+bip_39_word_new_line_8: 'document
 
   fruit
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'document
   primary
 
   host'
-bip_39_word_new_line9: 'document
+bip_39_word_new_line_9: 'document
 
   fruit
 

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | way |  
-| bip_39_word_new_br10 | way<br>feel<br>rely<br>clog<br>crush<br>topic<br>argue<br>bring<br>miracle<br>worry |  
-| bip_39_word_new_br11 | way<br>feel<br>rely<br>clog<br>crush<br>topic<br>argue<br>bring<br>miracle<br>worry<br>only |  
-| bip_39_word_new_br12 | way<br>feel<br>rely<br>clog<br>crush<br>topic<br>argue<br>bring<br>miracle<br>worry<br>only<br>acoustic |  
-| bip_39_word_new_br2 | way<br>feel |  
-| bip_39_word_new_br3 | way<br>feel<br>rely |  
-| bip_39_word_new_br4 | way<br>feel<br>rely<br>clog |  
-| bip_39_word_new_br5 | way<br>feel<br>rely<br>clog<br>crush |  
-| bip_39_word_new_br6 | way<br>feel<br>rely<br>clog<br>crush<br>topic |  
-| bip_39_word_new_br7 | way<br>feel<br>rely<br>clog<br>crush<br>topic<br>argue |  
-| bip_39_word_new_br8 | way<br>feel<br>rely<br>clog<br>crush<br>topic<br>argue<br>bring |  
-| bip_39_word_new_br9 | way<br>feel<br>rely<br>clog<br>crush<br>topic<br>argue<br>bring<br>miracle |  
-| bip_39_word_new_line1 | way |  
-| bip_39_word_new_line10 | way
+| bip_39_word_new_br_1 | way |  
+| bip_39_word_new_br_10 | way<br>feel<br>rely<br>clog<br>crush<br>topic<br>argue<br>bring<br>miracle<br>worry |  
+| bip_39_word_new_br_11 | way<br>feel<br>rely<br>clog<br>crush<br>topic<br>argue<br>bring<br>miracle<br>worry<br>only |  
+| bip_39_word_new_br_12 | way<br>feel<br>rely<br>clog<br>crush<br>topic<br>argue<br>bring<br>miracle<br>worry<br>only<br>acoustic |  
+| bip_39_word_new_br_2 | way<br>feel |  
+| bip_39_word_new_br_3 | way<br>feel<br>rely |  
+| bip_39_word_new_br_4 | way<br>feel<br>rely<br>clog |  
+| bip_39_word_new_br_5 | way<br>feel<br>rely<br>clog<br>crush |  
+| bip_39_word_new_br_6 | way<br>feel<br>rely<br>clog<br>crush<br>topic |  
+| bip_39_word_new_br_7 | way<br>feel<br>rely<br>clog<br>crush<br>topic<br>argue |  
+| bip_39_word_new_br_8 | way<br>feel<br>rely<br>clog<br>crush<br>topic<br>argue<br>bring |  
+| bip_39_word_new_br_9 | way<br>feel<br>rely<br>clog<br>crush<br>topic<br>argue<br>bring<br>miracle |  
+| bip_39_word_new_line_1 | way |  
+| bip_39_word_new_line_10 | way
 feel
 rely
 clog
@@ -55,7 +55,7 @@ argue
 bring
 miracle
 worry |  
-| bip_39_word_new_line11 | way
+| bip_39_word_new_line_11 | way
 feel
 rely
 clog
@@ -66,7 +66,7 @@ bring
 miracle
 worry
 only |  
-| bip_39_word_new_line12 | way
+| bip_39_word_new_line_12 | way
 feel
 rely
 clog
@@ -78,34 +78,34 @@ miracle
 worry
 only
 acoustic |  
-| bip_39_word_new_line2 | way
+| bip_39_word_new_line_2 | way
 feel |  
-| bip_39_word_new_line3 | way
+| bip_39_word_new_line_3 | way
 feel
 rely |  
-| bip_39_word_new_line4 | way
+| bip_39_word_new_line_4 | way
 feel
 rely
 clog |  
-| bip_39_word_new_line5 | way
+| bip_39_word_new_line_5 | way
 feel
 rely
 clog
 crush |  
-| bip_39_word_new_line6 | way
+| bip_39_word_new_line_6 | way
 feel
 rely
 clog
 crush
 topic |  
-| bip_39_word_new_line7 | way
+| bip_39_word_new_line_7 | way
 feel
 rely
 clog
 crush
 topic
 argue |  
-| bip_39_word_new_line8 | way
+| bip_39_word_new_line_8 | way
 feel
 rely
 clog
@@ -113,7 +113,7 @@ crush
 topic
 argue
 bring |  
-| bip_39_word_new_line9 | way
+| bip_39_word_new_line_9 | way
 feel
 rely
 clog

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fabric |  
-| bip_39_word_new_br10 | fabric<br>evil<br>tank<br>early<br>avoid<br>tide<br>ankle<br>weapon<br>better<br>hurdle |  
-| bip_39_word_new_br11 | fabric<br>evil<br>tank<br>early<br>avoid<br>tide<br>ankle<br>weapon<br>better<br>hurdle<br>catch |  
-| bip_39_word_new_br12 | fabric<br>evil<br>tank<br>early<br>avoid<br>tide<br>ankle<br>weapon<br>better<br>hurdle<br>catch<br>anchor |  
-| bip_39_word_new_br2 | fabric<br>evil |  
-| bip_39_word_new_br3 | fabric<br>evil<br>tank |  
-| bip_39_word_new_br4 | fabric<br>evil<br>tank<br>early |  
-| bip_39_word_new_br5 | fabric<br>evil<br>tank<br>early<br>avoid |  
-| bip_39_word_new_br6 | fabric<br>evil<br>tank<br>early<br>avoid<br>tide |  
-| bip_39_word_new_br7 | fabric<br>evil<br>tank<br>early<br>avoid<br>tide<br>ankle |  
-| bip_39_word_new_br8 | fabric<br>evil<br>tank<br>early<br>avoid<br>tide<br>ankle<br>weapon |  
-| bip_39_word_new_br9 | fabric<br>evil<br>tank<br>early<br>avoid<br>tide<br>ankle<br>weapon<br>better |  
-| bip_39_word_new_line1 | fabric |  
-| bip_39_word_new_line10 | fabric
+| bip_39_word_new_br_1 | fabric |  
+| bip_39_word_new_br_10 | fabric<br>evil<br>tank<br>early<br>avoid<br>tide<br>ankle<br>weapon<br>better<br>hurdle |  
+| bip_39_word_new_br_11 | fabric<br>evil<br>tank<br>early<br>avoid<br>tide<br>ankle<br>weapon<br>better<br>hurdle<br>catch |  
+| bip_39_word_new_br_12 | fabric<br>evil<br>tank<br>early<br>avoid<br>tide<br>ankle<br>weapon<br>better<br>hurdle<br>catch<br>anchor |  
+| bip_39_word_new_br_2 | fabric<br>evil |  
+| bip_39_word_new_br_3 | fabric<br>evil<br>tank |  
+| bip_39_word_new_br_4 | fabric<br>evil<br>tank<br>early |  
+| bip_39_word_new_br_5 | fabric<br>evil<br>tank<br>early<br>avoid |  
+| bip_39_word_new_br_6 | fabric<br>evil<br>tank<br>early<br>avoid<br>tide |  
+| bip_39_word_new_br_7 | fabric<br>evil<br>tank<br>early<br>avoid<br>tide<br>ankle |  
+| bip_39_word_new_br_8 | fabric<br>evil<br>tank<br>early<br>avoid<br>tide<br>ankle<br>weapon |  
+| bip_39_word_new_br_9 | fabric<br>evil<br>tank<br>early<br>avoid<br>tide<br>ankle<br>weapon<br>better |  
+| bip_39_word_new_line_1 | fabric |  
+| bip_39_word_new_line_10 | fabric
 evil
 tank
 early
@@ -55,7 +55,7 @@ ankle
 weapon
 better
 hurdle |  
-| bip_39_word_new_line11 | fabric
+| bip_39_word_new_line_11 | fabric
 evil
 tank
 early
@@ -66,7 +66,7 @@ weapon
 better
 hurdle
 catch |  
-| bip_39_word_new_line12 | fabric
+| bip_39_word_new_line_12 | fabric
 evil
 tank
 early
@@ -78,34 +78,34 @@ better
 hurdle
 catch
 anchor |  
-| bip_39_word_new_line2 | fabric
+| bip_39_word_new_line_2 | fabric
 evil |  
-| bip_39_word_new_line3 | fabric
+| bip_39_word_new_line_3 | fabric
 evil
 tank |  
-| bip_39_word_new_line4 | fabric
+| bip_39_word_new_line_4 | fabric
 evil
 tank
 early |  
-| bip_39_word_new_line5 | fabric
+| bip_39_word_new_line_5 | fabric
 evil
 tank
 early
 avoid |  
-| bip_39_word_new_line6 | fabric
+| bip_39_word_new_line_6 | fabric
 evil
 tank
 early
 avoid
 tide |  
-| bip_39_word_new_line7 | fabric
+| bip_39_word_new_line_7 | fabric
 evil
 tank
 early
 avoid
 tide
 ankle |  
-| bip_39_word_new_line8 | fabric
+| bip_39_word_new_line_8 | fabric
 evil
 tank
 early
@@ -113,7 +113,7 @@ avoid
 tide
 ankle
 weapon |  
-| bip_39_word_new_line9 | fabric
+| bip_39_word_new_line_9 | fabric
 evil
 tank
 early

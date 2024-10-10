@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | absurd |  
-| bip_39_word_new_br10 | absurd<br>north<br>check<br>head<br>north<br>sister<br>sport<br>cloth<br>size<br>riot |  
-| bip_39_word_new_br11 | absurd<br>north<br>check<br>head<br>north<br>sister<br>sport<br>cloth<br>size<br>riot<br>plastic |  
-| bip_39_word_new_br12 | absurd<br>north<br>check<br>head<br>north<br>sister<br>sport<br>cloth<br>size<br>riot<br>plastic<br>arch |  
-| bip_39_word_new_br2 | absurd<br>north |  
-| bip_39_word_new_br3 | absurd<br>north<br>check |  
-| bip_39_word_new_br4 | absurd<br>north<br>check<br>head |  
-| bip_39_word_new_br5 | absurd<br>north<br>check<br>head<br>north |  
-| bip_39_word_new_br6 | absurd<br>north<br>check<br>head<br>north<br>sister |  
-| bip_39_word_new_br7 | absurd<br>north<br>check<br>head<br>north<br>sister<br>sport |  
-| bip_39_word_new_br8 | absurd<br>north<br>check<br>head<br>north<br>sister<br>sport<br>cloth |  
-| bip_39_word_new_br9 | absurd<br>north<br>check<br>head<br>north<br>sister<br>sport<br>cloth<br>size |  
-| bip_39_word_new_line1 | absurd |  
-| bip_39_word_new_line10 | absurd
+| bip_39_word_new_br_1 | absurd |  
+| bip_39_word_new_br_10 | absurd<br>north<br>check<br>head<br>north<br>sister<br>sport<br>cloth<br>size<br>riot |  
+| bip_39_word_new_br_11 | absurd<br>north<br>check<br>head<br>north<br>sister<br>sport<br>cloth<br>size<br>riot<br>plastic |  
+| bip_39_word_new_br_12 | absurd<br>north<br>check<br>head<br>north<br>sister<br>sport<br>cloth<br>size<br>riot<br>plastic<br>arch |  
+| bip_39_word_new_br_2 | absurd<br>north |  
+| bip_39_word_new_br_3 | absurd<br>north<br>check |  
+| bip_39_word_new_br_4 | absurd<br>north<br>check<br>head |  
+| bip_39_word_new_br_5 | absurd<br>north<br>check<br>head<br>north |  
+| bip_39_word_new_br_6 | absurd<br>north<br>check<br>head<br>north<br>sister |  
+| bip_39_word_new_br_7 | absurd<br>north<br>check<br>head<br>north<br>sister<br>sport |  
+| bip_39_word_new_br_8 | absurd<br>north<br>check<br>head<br>north<br>sister<br>sport<br>cloth |  
+| bip_39_word_new_br_9 | absurd<br>north<br>check<br>head<br>north<br>sister<br>sport<br>cloth<br>size |  
+| bip_39_word_new_line_1 | absurd |  
+| bip_39_word_new_line_10 | absurd
 north
 check
 head
@@ -55,7 +55,7 @@ sport
 cloth
 size
 riot |  
-| bip_39_word_new_line11 | absurd
+| bip_39_word_new_line_11 | absurd
 north
 check
 head
@@ -66,7 +66,7 @@ cloth
 size
 riot
 plastic |  
-| bip_39_word_new_line12 | absurd
+| bip_39_word_new_line_12 | absurd
 north
 check
 head
@@ -78,34 +78,34 @@ size
 riot
 plastic
 arch |  
-| bip_39_word_new_line2 | absurd
+| bip_39_word_new_line_2 | absurd
 north |  
-| bip_39_word_new_line3 | absurd
+| bip_39_word_new_line_3 | absurd
 north
 check |  
-| bip_39_word_new_line4 | absurd
+| bip_39_word_new_line_4 | absurd
 north
 check
 head |  
-| bip_39_word_new_line5 | absurd
+| bip_39_word_new_line_5 | absurd
 north
 check
 head
 north |  
-| bip_39_word_new_line6 | absurd
+| bip_39_word_new_line_6 | absurd
 north
 check
 head
 north
 sister |  
-| bip_39_word_new_line7 | absurd
+| bip_39_word_new_line_7 | absurd
 north
 check
 head
 north
 sister
 sport |  
-| bip_39_word_new_line8 | absurd
+| bip_39_word_new_line_8 | absurd
 north
 check
 head
@@ -113,7 +113,7 @@ north
 sister
 sport
 cloth |  
-| bip_39_word_new_line9 | absurd
+| bip_39_word_new_line_9 | absurd
 north
 check
 head

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | often |  
-| bip_39_word_new_br10 | often<br>venture<br>barrel<br>ozone<br>north<br>alarm<br>make<br>guitar<br>typical<br>test |  
-| bip_39_word_new_br11 | often<br>venture<br>barrel<br>ozone<br>north<br>alarm<br>make<br>guitar<br>typical<br>test<br>certain |  
-| bip_39_word_new_br12 | often<br>venture<br>barrel<br>ozone<br>north<br>alarm<br>make<br>guitar<br>typical<br>test<br>certain<br>afford |  
-| bip_39_word_new_br2 | often<br>venture |  
-| bip_39_word_new_br3 | often<br>venture<br>barrel |  
-| bip_39_word_new_br4 | often<br>venture<br>barrel<br>ozone |  
-| bip_39_word_new_br5 | often<br>venture<br>barrel<br>ozone<br>north |  
-| bip_39_word_new_br6 | often<br>venture<br>barrel<br>ozone<br>north<br>alarm |  
-| bip_39_word_new_br7 | often<br>venture<br>barrel<br>ozone<br>north<br>alarm<br>make |  
-| bip_39_word_new_br8 | often<br>venture<br>barrel<br>ozone<br>north<br>alarm<br>make<br>guitar |  
-| bip_39_word_new_br9 | often<br>venture<br>barrel<br>ozone<br>north<br>alarm<br>make<br>guitar<br>typical |  
-| bip_39_word_new_line1 | often |  
-| bip_39_word_new_line10 | often
+| bip_39_word_new_br_1 | often |  
+| bip_39_word_new_br_10 | often<br>venture<br>barrel<br>ozone<br>north<br>alarm<br>make<br>guitar<br>typical<br>test |  
+| bip_39_word_new_br_11 | often<br>venture<br>barrel<br>ozone<br>north<br>alarm<br>make<br>guitar<br>typical<br>test<br>certain |  
+| bip_39_word_new_br_12 | often<br>venture<br>barrel<br>ozone<br>north<br>alarm<br>make<br>guitar<br>typical<br>test<br>certain<br>afford |  
+| bip_39_word_new_br_2 | often<br>venture |  
+| bip_39_word_new_br_3 | often<br>venture<br>barrel |  
+| bip_39_word_new_br_4 | often<br>venture<br>barrel<br>ozone |  
+| bip_39_word_new_br_5 | often<br>venture<br>barrel<br>ozone<br>north |  
+| bip_39_word_new_br_6 | often<br>venture<br>barrel<br>ozone<br>north<br>alarm |  
+| bip_39_word_new_br_7 | often<br>venture<br>barrel<br>ozone<br>north<br>alarm<br>make |  
+| bip_39_word_new_br_8 | often<br>venture<br>barrel<br>ozone<br>north<br>alarm<br>make<br>guitar |  
+| bip_39_word_new_br_9 | often<br>venture<br>barrel<br>ozone<br>north<br>alarm<br>make<br>guitar<br>typical |  
+| bip_39_word_new_line_1 | often |  
+| bip_39_word_new_line_10 | often
 venture
 barrel
 ozone
@@ -55,7 +55,7 @@ make
 guitar
 typical
 test |  
-| bip_39_word_new_line11 | often
+| bip_39_word_new_line_11 | often
 venture
 barrel
 ozone
@@ -66,7 +66,7 @@ guitar
 typical
 test
 certain |  
-| bip_39_word_new_line12 | often
+| bip_39_word_new_line_12 | often
 venture
 barrel
 ozone
@@ -78,34 +78,34 @@ typical
 test
 certain
 afford |  
-| bip_39_word_new_line2 | often
+| bip_39_word_new_line_2 | often
 venture |  
-| bip_39_word_new_line3 | often
+| bip_39_word_new_line_3 | often
 venture
 barrel |  
-| bip_39_word_new_line4 | often
+| bip_39_word_new_line_4 | often
 venture
 barrel
 ozone |  
-| bip_39_word_new_line5 | often
+| bip_39_word_new_line_5 | often
 venture
 barrel
 ozone
 north |  
-| bip_39_word_new_line6 | often
+| bip_39_word_new_line_6 | often
 venture
 barrel
 ozone
 north
 alarm |  
-| bip_39_word_new_line7 | often
+| bip_39_word_new_line_7 | often
 venture
 barrel
 ozone
 north
 alarm
 make |  
-| bip_39_word_new_line8 | often
+| bip_39_word_new_line_8 | often
 venture
 barrel
 ozone
@@ -113,7 +113,7 @@ north
 alarm
 make
 guitar |  
-| bip_39_word_new_line9 | often
+| bip_39_word_new_line_9 | often
 venture
 barrel
 ozone

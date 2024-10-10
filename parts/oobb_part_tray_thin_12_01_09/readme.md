@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | small |  
-| bip_39_word_new_br10 | small<br>wing<br>reason<br>stairs<br>infant<br>remind<br>angle<br>measure<br>wild<br>embody |  
-| bip_39_word_new_br11 | small<br>wing<br>reason<br>stairs<br>infant<br>remind<br>angle<br>measure<br>wild<br>embody<br>venue |  
-| bip_39_word_new_br12 | small<br>wing<br>reason<br>stairs<br>infant<br>remind<br>angle<br>measure<br>wild<br>embody<br>venue<br>arch |  
-| bip_39_word_new_br2 | small<br>wing |  
-| bip_39_word_new_br3 | small<br>wing<br>reason |  
-| bip_39_word_new_br4 | small<br>wing<br>reason<br>stairs |  
-| bip_39_word_new_br5 | small<br>wing<br>reason<br>stairs<br>infant |  
-| bip_39_word_new_br6 | small<br>wing<br>reason<br>stairs<br>infant<br>remind |  
-| bip_39_word_new_br7 | small<br>wing<br>reason<br>stairs<br>infant<br>remind<br>angle |  
-| bip_39_word_new_br8 | small<br>wing<br>reason<br>stairs<br>infant<br>remind<br>angle<br>measure |  
-| bip_39_word_new_br9 | small<br>wing<br>reason<br>stairs<br>infant<br>remind<br>angle<br>measure<br>wild |  
-| bip_39_word_new_line1 | small |  
-| bip_39_word_new_line10 | small
+| bip_39_word_new_br_1 | small |  
+| bip_39_word_new_br_10 | small<br>wing<br>reason<br>stairs<br>infant<br>remind<br>angle<br>measure<br>wild<br>embody |  
+| bip_39_word_new_br_11 | small<br>wing<br>reason<br>stairs<br>infant<br>remind<br>angle<br>measure<br>wild<br>embody<br>venue |  
+| bip_39_word_new_br_12 | small<br>wing<br>reason<br>stairs<br>infant<br>remind<br>angle<br>measure<br>wild<br>embody<br>venue<br>arch |  
+| bip_39_word_new_br_2 | small<br>wing |  
+| bip_39_word_new_br_3 | small<br>wing<br>reason |  
+| bip_39_word_new_br_4 | small<br>wing<br>reason<br>stairs |  
+| bip_39_word_new_br_5 | small<br>wing<br>reason<br>stairs<br>infant |  
+| bip_39_word_new_br_6 | small<br>wing<br>reason<br>stairs<br>infant<br>remind |  
+| bip_39_word_new_br_7 | small<br>wing<br>reason<br>stairs<br>infant<br>remind<br>angle |  
+| bip_39_word_new_br_8 | small<br>wing<br>reason<br>stairs<br>infant<br>remind<br>angle<br>measure |  
+| bip_39_word_new_br_9 | small<br>wing<br>reason<br>stairs<br>infant<br>remind<br>angle<br>measure<br>wild |  
+| bip_39_word_new_line_1 | small |  
+| bip_39_word_new_line_10 | small
 wing
 reason
 stairs
@@ -55,7 +55,7 @@ angle
 measure
 wild
 embody |  
-| bip_39_word_new_line11 | small
+| bip_39_word_new_line_11 | small
 wing
 reason
 stairs
@@ -66,7 +66,7 @@ measure
 wild
 embody
 venue |  
-| bip_39_word_new_line12 | small
+| bip_39_word_new_line_12 | small
 wing
 reason
 stairs
@@ -78,34 +78,34 @@ wild
 embody
 venue
 arch |  
-| bip_39_word_new_line2 | small
+| bip_39_word_new_line_2 | small
 wing |  
-| bip_39_word_new_line3 | small
+| bip_39_word_new_line_3 | small
 wing
 reason |  
-| bip_39_word_new_line4 | small
+| bip_39_word_new_line_4 | small
 wing
 reason
 stairs |  
-| bip_39_word_new_line5 | small
+| bip_39_word_new_line_5 | small
 wing
 reason
 stairs
 infant |  
-| bip_39_word_new_line6 | small
+| bip_39_word_new_line_6 | small
 wing
 reason
 stairs
 infant
 remind |  
-| bip_39_word_new_line7 | small
+| bip_39_word_new_line_7 | small
 wing
 reason
 stairs
 infant
 remind
 angle |  
-| bip_39_word_new_line8 | small
+| bip_39_word_new_line_8 | small
 wing
 reason
 stairs
@@ -113,7 +113,7 @@ infant
 remind
 angle
 measure |  
-| bip_39_word_new_line9 | small
+| bip_39_word_new_line_9 | small
 wing
 reason
 stairs

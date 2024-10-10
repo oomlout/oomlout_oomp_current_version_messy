@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | visual |  
-| bip_39_word_new_br10 | visual<br>machine<br>tray<br>fold<br>thought<br>task<br>fame<br>discover<br>annual<br>twin |  
-| bip_39_word_new_br11 | visual<br>machine<br>tray<br>fold<br>thought<br>task<br>fame<br>discover<br>annual<br>twin<br>follow |  
-| bip_39_word_new_br12 | visual<br>machine<br>tray<br>fold<br>thought<br>task<br>fame<br>discover<br>annual<br>twin<br>follow<br>afraid |  
-| bip_39_word_new_br2 | visual<br>machine |  
-| bip_39_word_new_br3 | visual<br>machine<br>tray |  
-| bip_39_word_new_br4 | visual<br>machine<br>tray<br>fold |  
-| bip_39_word_new_br5 | visual<br>machine<br>tray<br>fold<br>thought |  
-| bip_39_word_new_br6 | visual<br>machine<br>tray<br>fold<br>thought<br>task |  
-| bip_39_word_new_br7 | visual<br>machine<br>tray<br>fold<br>thought<br>task<br>fame |  
-| bip_39_word_new_br8 | visual<br>machine<br>tray<br>fold<br>thought<br>task<br>fame<br>discover |  
-| bip_39_word_new_br9 | visual<br>machine<br>tray<br>fold<br>thought<br>task<br>fame<br>discover<br>annual |  
-| bip_39_word_new_line1 | visual |  
-| bip_39_word_new_line10 | visual
+| bip_39_word_new_br_1 | visual |  
+| bip_39_word_new_br_10 | visual<br>machine<br>tray<br>fold<br>thought<br>task<br>fame<br>discover<br>annual<br>twin |  
+| bip_39_word_new_br_11 | visual<br>machine<br>tray<br>fold<br>thought<br>task<br>fame<br>discover<br>annual<br>twin<br>follow |  
+| bip_39_word_new_br_12 | visual<br>machine<br>tray<br>fold<br>thought<br>task<br>fame<br>discover<br>annual<br>twin<br>follow<br>afraid |  
+| bip_39_word_new_br_2 | visual<br>machine |  
+| bip_39_word_new_br_3 | visual<br>machine<br>tray |  
+| bip_39_word_new_br_4 | visual<br>machine<br>tray<br>fold |  
+| bip_39_word_new_br_5 | visual<br>machine<br>tray<br>fold<br>thought |  
+| bip_39_word_new_br_6 | visual<br>machine<br>tray<br>fold<br>thought<br>task |  
+| bip_39_word_new_br_7 | visual<br>machine<br>tray<br>fold<br>thought<br>task<br>fame |  
+| bip_39_word_new_br_8 | visual<br>machine<br>tray<br>fold<br>thought<br>task<br>fame<br>discover |  
+| bip_39_word_new_br_9 | visual<br>machine<br>tray<br>fold<br>thought<br>task<br>fame<br>discover<br>annual |  
+| bip_39_word_new_line_1 | visual |  
+| bip_39_word_new_line_10 | visual
 machine
 tray
 fold
@@ -55,7 +55,7 @@ fame
 discover
 annual
 twin |  
-| bip_39_word_new_line11 | visual
+| bip_39_word_new_line_11 | visual
 machine
 tray
 fold
@@ -66,7 +66,7 @@ discover
 annual
 twin
 follow |  
-| bip_39_word_new_line12 | visual
+| bip_39_word_new_line_12 | visual
 machine
 tray
 fold
@@ -78,34 +78,34 @@ annual
 twin
 follow
 afraid |  
-| bip_39_word_new_line2 | visual
+| bip_39_word_new_line_2 | visual
 machine |  
-| bip_39_word_new_line3 | visual
+| bip_39_word_new_line_3 | visual
 machine
 tray |  
-| bip_39_word_new_line4 | visual
+| bip_39_word_new_line_4 | visual
 machine
 tray
 fold |  
-| bip_39_word_new_line5 | visual
+| bip_39_word_new_line_5 | visual
 machine
 tray
 fold
 thought |  
-| bip_39_word_new_line6 | visual
+| bip_39_word_new_line_6 | visual
 machine
 tray
 fold
 thought
 task |  
-| bip_39_word_new_line7 | visual
+| bip_39_word_new_line_7 | visual
 machine
 tray
 fold
 thought
 task
 fame |  
-| bip_39_word_new_line8 | visual
+| bip_39_word_new_line_8 | visual
 machine
 tray
 fold
@@ -113,7 +113,7 @@ thought
 task
 fame
 discover |  
-| bip_39_word_new_line9 | visual
+| bip_39_word_new_line_9 | visual
 machine
 tray
 fold

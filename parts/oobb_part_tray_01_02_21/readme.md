@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wave |  
-| bip_39_word_new_br10 | wave<br>hollow<br>fringe<br>dignity<br>lounge<br>use<br>lens<br>machine<br>garlic<br>winter |  
-| bip_39_word_new_br11 | wave<br>hollow<br>fringe<br>dignity<br>lounge<br>use<br>lens<br>machine<br>garlic<br>winter<br>unable |  
-| bip_39_word_new_br12 | wave<br>hollow<br>fringe<br>dignity<br>lounge<br>use<br>lens<br>machine<br>garlic<br>winter<br>unable<br>attitude |  
-| bip_39_word_new_br2 | wave<br>hollow |  
-| bip_39_word_new_br3 | wave<br>hollow<br>fringe |  
-| bip_39_word_new_br4 | wave<br>hollow<br>fringe<br>dignity |  
-| bip_39_word_new_br5 | wave<br>hollow<br>fringe<br>dignity<br>lounge |  
-| bip_39_word_new_br6 | wave<br>hollow<br>fringe<br>dignity<br>lounge<br>use |  
-| bip_39_word_new_br7 | wave<br>hollow<br>fringe<br>dignity<br>lounge<br>use<br>lens |  
-| bip_39_word_new_br8 | wave<br>hollow<br>fringe<br>dignity<br>lounge<br>use<br>lens<br>machine |  
-| bip_39_word_new_br9 | wave<br>hollow<br>fringe<br>dignity<br>lounge<br>use<br>lens<br>machine<br>garlic |  
-| bip_39_word_new_line1 | wave |  
-| bip_39_word_new_line10 | wave
+| bip_39_word_new_br_1 | wave |  
+| bip_39_word_new_br_10 | wave<br>hollow<br>fringe<br>dignity<br>lounge<br>use<br>lens<br>machine<br>garlic<br>winter |  
+| bip_39_word_new_br_11 | wave<br>hollow<br>fringe<br>dignity<br>lounge<br>use<br>lens<br>machine<br>garlic<br>winter<br>unable |  
+| bip_39_word_new_br_12 | wave<br>hollow<br>fringe<br>dignity<br>lounge<br>use<br>lens<br>machine<br>garlic<br>winter<br>unable<br>attitude |  
+| bip_39_word_new_br_2 | wave<br>hollow |  
+| bip_39_word_new_br_3 | wave<br>hollow<br>fringe |  
+| bip_39_word_new_br_4 | wave<br>hollow<br>fringe<br>dignity |  
+| bip_39_word_new_br_5 | wave<br>hollow<br>fringe<br>dignity<br>lounge |  
+| bip_39_word_new_br_6 | wave<br>hollow<br>fringe<br>dignity<br>lounge<br>use |  
+| bip_39_word_new_br_7 | wave<br>hollow<br>fringe<br>dignity<br>lounge<br>use<br>lens |  
+| bip_39_word_new_br_8 | wave<br>hollow<br>fringe<br>dignity<br>lounge<br>use<br>lens<br>machine |  
+| bip_39_word_new_br_9 | wave<br>hollow<br>fringe<br>dignity<br>lounge<br>use<br>lens<br>machine<br>garlic |  
+| bip_39_word_new_line_1 | wave |  
+| bip_39_word_new_line_10 | wave
 hollow
 fringe
 dignity
@@ -55,7 +55,7 @@ lens
 machine
 garlic
 winter |  
-| bip_39_word_new_line11 | wave
+| bip_39_word_new_line_11 | wave
 hollow
 fringe
 dignity
@@ -66,7 +66,7 @@ machine
 garlic
 winter
 unable |  
-| bip_39_word_new_line12 | wave
+| bip_39_word_new_line_12 | wave
 hollow
 fringe
 dignity
@@ -78,34 +78,34 @@ garlic
 winter
 unable
 attitude |  
-| bip_39_word_new_line2 | wave
+| bip_39_word_new_line_2 | wave
 hollow |  
-| bip_39_word_new_line3 | wave
+| bip_39_word_new_line_3 | wave
 hollow
 fringe |  
-| bip_39_word_new_line4 | wave
+| bip_39_word_new_line_4 | wave
 hollow
 fringe
 dignity |  
-| bip_39_word_new_line5 | wave
+| bip_39_word_new_line_5 | wave
 hollow
 fringe
 dignity
 lounge |  
-| bip_39_word_new_line6 | wave
+| bip_39_word_new_line_6 | wave
 hollow
 fringe
 dignity
 lounge
 use |  
-| bip_39_word_new_line7 | wave
+| bip_39_word_new_line_7 | wave
 hollow
 fringe
 dignity
 lounge
 use
 lens |  
-| bip_39_word_new_line8 | wave
+| bip_39_word_new_line_8 | wave
 hollow
 fringe
 dignity
@@ -113,7 +113,7 @@ lounge
 use
 lens
 machine |  
-| bip_39_word_new_line9 | wave
+| bip_39_word_new_line_9 | wave
 hollow
 fringe
 dignity

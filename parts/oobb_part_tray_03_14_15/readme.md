@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ladder |  
-| bip_39_word_new_br10 | ladder<br>pact<br>fruit<br>brother<br>stable<br>genuine<br>analyst<br>already<br>common<br>wool |  
-| bip_39_word_new_br11 | ladder<br>pact<br>fruit<br>brother<br>stable<br>genuine<br>analyst<br>already<br>common<br>wool<br>strategy |  
-| bip_39_word_new_br12 | ladder<br>pact<br>fruit<br>brother<br>stable<br>genuine<br>analyst<br>already<br>common<br>wool<br>strategy<br>apple |  
-| bip_39_word_new_br2 | ladder<br>pact |  
-| bip_39_word_new_br3 | ladder<br>pact<br>fruit |  
-| bip_39_word_new_br4 | ladder<br>pact<br>fruit<br>brother |  
-| bip_39_word_new_br5 | ladder<br>pact<br>fruit<br>brother<br>stable |  
-| bip_39_word_new_br6 | ladder<br>pact<br>fruit<br>brother<br>stable<br>genuine |  
-| bip_39_word_new_br7 | ladder<br>pact<br>fruit<br>brother<br>stable<br>genuine<br>analyst |  
-| bip_39_word_new_br8 | ladder<br>pact<br>fruit<br>brother<br>stable<br>genuine<br>analyst<br>already |  
-| bip_39_word_new_br9 | ladder<br>pact<br>fruit<br>brother<br>stable<br>genuine<br>analyst<br>already<br>common |  
-| bip_39_word_new_line1 | ladder |  
-| bip_39_word_new_line10 | ladder
+| bip_39_word_new_br_1 | ladder |  
+| bip_39_word_new_br_10 | ladder<br>pact<br>fruit<br>brother<br>stable<br>genuine<br>analyst<br>already<br>common<br>wool |  
+| bip_39_word_new_br_11 | ladder<br>pact<br>fruit<br>brother<br>stable<br>genuine<br>analyst<br>already<br>common<br>wool<br>strategy |  
+| bip_39_word_new_br_12 | ladder<br>pact<br>fruit<br>brother<br>stable<br>genuine<br>analyst<br>already<br>common<br>wool<br>strategy<br>apple |  
+| bip_39_word_new_br_2 | ladder<br>pact |  
+| bip_39_word_new_br_3 | ladder<br>pact<br>fruit |  
+| bip_39_word_new_br_4 | ladder<br>pact<br>fruit<br>brother |  
+| bip_39_word_new_br_5 | ladder<br>pact<br>fruit<br>brother<br>stable |  
+| bip_39_word_new_br_6 | ladder<br>pact<br>fruit<br>brother<br>stable<br>genuine |  
+| bip_39_word_new_br_7 | ladder<br>pact<br>fruit<br>brother<br>stable<br>genuine<br>analyst |  
+| bip_39_word_new_br_8 | ladder<br>pact<br>fruit<br>brother<br>stable<br>genuine<br>analyst<br>already |  
+| bip_39_word_new_br_9 | ladder<br>pact<br>fruit<br>brother<br>stable<br>genuine<br>analyst<br>already<br>common |  
+| bip_39_word_new_line_1 | ladder |  
+| bip_39_word_new_line_10 | ladder
 pact
 fruit
 brother
@@ -55,7 +55,7 @@ analyst
 already
 common
 wool |  
-| bip_39_word_new_line11 | ladder
+| bip_39_word_new_line_11 | ladder
 pact
 fruit
 brother
@@ -66,7 +66,7 @@ already
 common
 wool
 strategy |  
-| bip_39_word_new_line12 | ladder
+| bip_39_word_new_line_12 | ladder
 pact
 fruit
 brother
@@ -78,34 +78,34 @@ common
 wool
 strategy
 apple |  
-| bip_39_word_new_line2 | ladder
+| bip_39_word_new_line_2 | ladder
 pact |  
-| bip_39_word_new_line3 | ladder
+| bip_39_word_new_line_3 | ladder
 pact
 fruit |  
-| bip_39_word_new_line4 | ladder
+| bip_39_word_new_line_4 | ladder
 pact
 fruit
 brother |  
-| bip_39_word_new_line5 | ladder
+| bip_39_word_new_line_5 | ladder
 pact
 fruit
 brother
 stable |  
-| bip_39_word_new_line6 | ladder
+| bip_39_word_new_line_6 | ladder
 pact
 fruit
 brother
 stable
 genuine |  
-| bip_39_word_new_line7 | ladder
+| bip_39_word_new_line_7 | ladder
 pact
 fruit
 brother
 stable
 genuine
 analyst |  
-| bip_39_word_new_line8 | ladder
+| bip_39_word_new_line_8 | ladder
 pact
 fruit
 brother
@@ -113,7 +113,7 @@ stable
 genuine
 analyst
 already |  
-| bip_39_word_new_line9 | ladder
+| bip_39_word_new_line_9 | ladder
 pact
 fruit
 brother

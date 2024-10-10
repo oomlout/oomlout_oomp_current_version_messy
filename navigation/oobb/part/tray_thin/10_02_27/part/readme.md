@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mountain |  
-| bip_39_word_new_br10 | mountain<br>frame<br>write<br>sound<br>duck<br>truth<br>current<br>galaxy<br>van<br>half |  
-| bip_39_word_new_br11 | mountain<br>frame<br>write<br>sound<br>duck<br>truth<br>current<br>galaxy<br>van<br>half<br>segment |  
-| bip_39_word_new_br12 | mountain<br>frame<br>write<br>sound<br>duck<br>truth<br>current<br>galaxy<br>van<br>half<br>segment<br>arrive |  
-| bip_39_word_new_br2 | mountain<br>frame |  
-| bip_39_word_new_br3 | mountain<br>frame<br>write |  
-| bip_39_word_new_br4 | mountain<br>frame<br>write<br>sound |  
-| bip_39_word_new_br5 | mountain<br>frame<br>write<br>sound<br>duck |  
-| bip_39_word_new_br6 | mountain<br>frame<br>write<br>sound<br>duck<br>truth |  
-| bip_39_word_new_br7 | mountain<br>frame<br>write<br>sound<br>duck<br>truth<br>current |  
-| bip_39_word_new_br8 | mountain<br>frame<br>write<br>sound<br>duck<br>truth<br>current<br>galaxy |  
-| bip_39_word_new_br9 | mountain<br>frame<br>write<br>sound<br>duck<br>truth<br>current<br>galaxy<br>van |  
-| bip_39_word_new_line1 | mountain |  
-| bip_39_word_new_line10 | mountain
+| bip_39_word_new_br_1 | mountain |  
+| bip_39_word_new_br_10 | mountain<br>frame<br>write<br>sound<br>duck<br>truth<br>current<br>galaxy<br>van<br>half |  
+| bip_39_word_new_br_11 | mountain<br>frame<br>write<br>sound<br>duck<br>truth<br>current<br>galaxy<br>van<br>half<br>segment |  
+| bip_39_word_new_br_12 | mountain<br>frame<br>write<br>sound<br>duck<br>truth<br>current<br>galaxy<br>van<br>half<br>segment<br>arrive |  
+| bip_39_word_new_br_2 | mountain<br>frame |  
+| bip_39_word_new_br_3 | mountain<br>frame<br>write |  
+| bip_39_word_new_br_4 | mountain<br>frame<br>write<br>sound |  
+| bip_39_word_new_br_5 | mountain<br>frame<br>write<br>sound<br>duck |  
+| bip_39_word_new_br_6 | mountain<br>frame<br>write<br>sound<br>duck<br>truth |  
+| bip_39_word_new_br_7 | mountain<br>frame<br>write<br>sound<br>duck<br>truth<br>current |  
+| bip_39_word_new_br_8 | mountain<br>frame<br>write<br>sound<br>duck<br>truth<br>current<br>galaxy |  
+| bip_39_word_new_br_9 | mountain<br>frame<br>write<br>sound<br>duck<br>truth<br>current<br>galaxy<br>van |  
+| bip_39_word_new_line_1 | mountain |  
+| bip_39_word_new_line_10 | mountain
 frame
 write
 sound
@@ -55,7 +55,7 @@ current
 galaxy
 van
 half |  
-| bip_39_word_new_line11 | mountain
+| bip_39_word_new_line_11 | mountain
 frame
 write
 sound
@@ -66,7 +66,7 @@ galaxy
 van
 half
 segment |  
-| bip_39_word_new_line12 | mountain
+| bip_39_word_new_line_12 | mountain
 frame
 write
 sound
@@ -78,34 +78,34 @@ van
 half
 segment
 arrive |  
-| bip_39_word_new_line2 | mountain
+| bip_39_word_new_line_2 | mountain
 frame |  
-| bip_39_word_new_line3 | mountain
+| bip_39_word_new_line_3 | mountain
 frame
 write |  
-| bip_39_word_new_line4 | mountain
+| bip_39_word_new_line_4 | mountain
 frame
 write
 sound |  
-| bip_39_word_new_line5 | mountain
+| bip_39_word_new_line_5 | mountain
 frame
 write
 sound
 duck |  
-| bip_39_word_new_line6 | mountain
+| bip_39_word_new_line_6 | mountain
 frame
 write
 sound
 duck
 truth |  
-| bip_39_word_new_line7 | mountain
+| bip_39_word_new_line_7 | mountain
 frame
 write
 sound
 duck
 truth
 current |  
-| bip_39_word_new_line8 | mountain
+| bip_39_word_new_line_8 | mountain
 frame
 write
 sound
@@ -113,7 +113,7 @@ duck
 truth
 current
 galaxy |  
-| bip_39_word_new_line9 | mountain
+| bip_39_word_new_line_9 | mountain
 frame
 write
 sound

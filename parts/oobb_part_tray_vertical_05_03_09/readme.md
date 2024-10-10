@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | young |  
-| bip_39_word_new_br10 | young<br>replace<br>bike<br>inflict<br>tip<br>victory<br>cradle<br>mammal<br>dance<br>elephant |  
-| bip_39_word_new_br11 | young<br>replace<br>bike<br>inflict<br>tip<br>victory<br>cradle<br>mammal<br>dance<br>elephant<br>pig |  
-| bip_39_word_new_br12 | young<br>replace<br>bike<br>inflict<br>tip<br>victory<br>cradle<br>mammal<br>dance<br>elephant<br>pig<br>amused |  
-| bip_39_word_new_br2 | young<br>replace |  
-| bip_39_word_new_br3 | young<br>replace<br>bike |  
-| bip_39_word_new_br4 | young<br>replace<br>bike<br>inflict |  
-| bip_39_word_new_br5 | young<br>replace<br>bike<br>inflict<br>tip |  
-| bip_39_word_new_br6 | young<br>replace<br>bike<br>inflict<br>tip<br>victory |  
-| bip_39_word_new_br7 | young<br>replace<br>bike<br>inflict<br>tip<br>victory<br>cradle |  
-| bip_39_word_new_br8 | young<br>replace<br>bike<br>inflict<br>tip<br>victory<br>cradle<br>mammal |  
-| bip_39_word_new_br9 | young<br>replace<br>bike<br>inflict<br>tip<br>victory<br>cradle<br>mammal<br>dance |  
-| bip_39_word_new_line1 | young |  
-| bip_39_word_new_line10 | young
+| bip_39_word_new_br_1 | young |  
+| bip_39_word_new_br_10 | young<br>replace<br>bike<br>inflict<br>tip<br>victory<br>cradle<br>mammal<br>dance<br>elephant |  
+| bip_39_word_new_br_11 | young<br>replace<br>bike<br>inflict<br>tip<br>victory<br>cradle<br>mammal<br>dance<br>elephant<br>pig |  
+| bip_39_word_new_br_12 | young<br>replace<br>bike<br>inflict<br>tip<br>victory<br>cradle<br>mammal<br>dance<br>elephant<br>pig<br>amused |  
+| bip_39_word_new_br_2 | young<br>replace |  
+| bip_39_word_new_br_3 | young<br>replace<br>bike |  
+| bip_39_word_new_br_4 | young<br>replace<br>bike<br>inflict |  
+| bip_39_word_new_br_5 | young<br>replace<br>bike<br>inflict<br>tip |  
+| bip_39_word_new_br_6 | young<br>replace<br>bike<br>inflict<br>tip<br>victory |  
+| bip_39_word_new_br_7 | young<br>replace<br>bike<br>inflict<br>tip<br>victory<br>cradle |  
+| bip_39_word_new_br_8 | young<br>replace<br>bike<br>inflict<br>tip<br>victory<br>cradle<br>mammal |  
+| bip_39_word_new_br_9 | young<br>replace<br>bike<br>inflict<br>tip<br>victory<br>cradle<br>mammal<br>dance |  
+| bip_39_word_new_line_1 | young |  
+| bip_39_word_new_line_10 | young
 replace
 bike
 inflict
@@ -55,7 +55,7 @@ cradle
 mammal
 dance
 elephant |  
-| bip_39_word_new_line11 | young
+| bip_39_word_new_line_11 | young
 replace
 bike
 inflict
@@ -66,7 +66,7 @@ mammal
 dance
 elephant
 pig |  
-| bip_39_word_new_line12 | young
+| bip_39_word_new_line_12 | young
 replace
 bike
 inflict
@@ -78,34 +78,34 @@ dance
 elephant
 pig
 amused |  
-| bip_39_word_new_line2 | young
+| bip_39_word_new_line_2 | young
 replace |  
-| bip_39_word_new_line3 | young
+| bip_39_word_new_line_3 | young
 replace
 bike |  
-| bip_39_word_new_line4 | young
+| bip_39_word_new_line_4 | young
 replace
 bike
 inflict |  
-| bip_39_word_new_line5 | young
+| bip_39_word_new_line_5 | young
 replace
 bike
 inflict
 tip |  
-| bip_39_word_new_line6 | young
+| bip_39_word_new_line_6 | young
 replace
 bike
 inflict
 tip
 victory |  
-| bip_39_word_new_line7 | young
+| bip_39_word_new_line_7 | young
 replace
 bike
 inflict
 tip
 victory
 cradle |  
-| bip_39_word_new_line8 | young
+| bip_39_word_new_line_8 | young
 replace
 bike
 inflict
@@ -113,7 +113,7 @@ tip
 victory
 cradle
 mammal |  
-| bip_39_word_new_line9 | young
+| bip_39_word_new_line_9 | young
 replace
 bike
 inflict

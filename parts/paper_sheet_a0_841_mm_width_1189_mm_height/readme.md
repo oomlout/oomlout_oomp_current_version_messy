@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | clap |  
-| bip_39_word_new_br10 | clap<br>beach<br>entire<br>kiwi<br>peanut<br>speed<br>emerge<br>edge<br>lift<br>usual |  
-| bip_39_word_new_br11 | clap<br>beach<br>entire<br>kiwi<br>peanut<br>speed<br>emerge<br>edge<br>lift<br>usual<br>glow |  
-| bip_39_word_new_br12 | clap<br>beach<br>entire<br>kiwi<br>peanut<br>speed<br>emerge<br>edge<br>lift<br>usual<br>glow<br>absorb |  
-| bip_39_word_new_br2 | clap<br>beach |  
-| bip_39_word_new_br3 | clap<br>beach<br>entire |  
-| bip_39_word_new_br4 | clap<br>beach<br>entire<br>kiwi |  
-| bip_39_word_new_br5 | clap<br>beach<br>entire<br>kiwi<br>peanut |  
-| bip_39_word_new_br6 | clap<br>beach<br>entire<br>kiwi<br>peanut<br>speed |  
-| bip_39_word_new_br7 | clap<br>beach<br>entire<br>kiwi<br>peanut<br>speed<br>emerge |  
-| bip_39_word_new_br8 | clap<br>beach<br>entire<br>kiwi<br>peanut<br>speed<br>emerge<br>edge |  
-| bip_39_word_new_br9 | clap<br>beach<br>entire<br>kiwi<br>peanut<br>speed<br>emerge<br>edge<br>lift |  
-| bip_39_word_new_line1 | clap |  
-| bip_39_word_new_line10 | clap
+| bip_39_word_new_br_1 | clap |  
+| bip_39_word_new_br_10 | clap<br>beach<br>entire<br>kiwi<br>peanut<br>speed<br>emerge<br>edge<br>lift<br>usual |  
+| bip_39_word_new_br_11 | clap<br>beach<br>entire<br>kiwi<br>peanut<br>speed<br>emerge<br>edge<br>lift<br>usual<br>glow |  
+| bip_39_word_new_br_12 | clap<br>beach<br>entire<br>kiwi<br>peanut<br>speed<br>emerge<br>edge<br>lift<br>usual<br>glow<br>absorb |  
+| bip_39_word_new_br_2 | clap<br>beach |  
+| bip_39_word_new_br_3 | clap<br>beach<br>entire |  
+| bip_39_word_new_br_4 | clap<br>beach<br>entire<br>kiwi |  
+| bip_39_word_new_br_5 | clap<br>beach<br>entire<br>kiwi<br>peanut |  
+| bip_39_word_new_br_6 | clap<br>beach<br>entire<br>kiwi<br>peanut<br>speed |  
+| bip_39_word_new_br_7 | clap<br>beach<br>entire<br>kiwi<br>peanut<br>speed<br>emerge |  
+| bip_39_word_new_br_8 | clap<br>beach<br>entire<br>kiwi<br>peanut<br>speed<br>emerge<br>edge |  
+| bip_39_word_new_br_9 | clap<br>beach<br>entire<br>kiwi<br>peanut<br>speed<br>emerge<br>edge<br>lift |  
+| bip_39_word_new_line_1 | clap |  
+| bip_39_word_new_line_10 | clap
 beach
 entire
 kiwi
@@ -55,7 +55,7 @@ emerge
 edge
 lift
 usual |  
-| bip_39_word_new_line11 | clap
+| bip_39_word_new_line_11 | clap
 beach
 entire
 kiwi
@@ -66,7 +66,7 @@ edge
 lift
 usual
 glow |  
-| bip_39_word_new_line12 | clap
+| bip_39_word_new_line_12 | clap
 beach
 entire
 kiwi
@@ -78,34 +78,34 @@ lift
 usual
 glow
 absorb |  
-| bip_39_word_new_line2 | clap
+| bip_39_word_new_line_2 | clap
 beach |  
-| bip_39_word_new_line3 | clap
+| bip_39_word_new_line_3 | clap
 beach
 entire |  
-| bip_39_word_new_line4 | clap
+| bip_39_word_new_line_4 | clap
 beach
 entire
 kiwi |  
-| bip_39_word_new_line5 | clap
+| bip_39_word_new_line_5 | clap
 beach
 entire
 kiwi
 peanut |  
-| bip_39_word_new_line6 | clap
+| bip_39_word_new_line_6 | clap
 beach
 entire
 kiwi
 peanut
 speed |  
-| bip_39_word_new_line7 | clap
+| bip_39_word_new_line_7 | clap
 beach
 entire
 kiwi
 peanut
 speed
 emerge |  
-| bip_39_word_new_line8 | clap
+| bip_39_word_new_line_8 | clap
 beach
 entire
 kiwi
@@ -113,7 +113,7 @@ peanut
 speed
 emerge
 edge |  
-| bip_39_word_new_line9 | clap
+| bip_39_word_new_line_9 | clap
 beach
 entire
 kiwi

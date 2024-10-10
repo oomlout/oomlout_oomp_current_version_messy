@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | outer |  
-| bip_39_word_new_br10 | outer<br>escape<br>baby<br>return<br>penalty<br>helmet<br>riot<br>lunar<br>frequent<br>comfort |  
-| bip_39_word_new_br11 | outer<br>escape<br>baby<br>return<br>penalty<br>helmet<br>riot<br>lunar<br>frequent<br>comfort<br>doctor |  
-| bip_39_word_new_br12 | outer<br>escape<br>baby<br>return<br>penalty<br>helmet<br>riot<br>lunar<br>frequent<br>comfort<br>doctor<br>appear |  
-| bip_39_word_new_br2 | outer<br>escape |  
-| bip_39_word_new_br3 | outer<br>escape<br>baby |  
-| bip_39_word_new_br4 | outer<br>escape<br>baby<br>return |  
-| bip_39_word_new_br5 | outer<br>escape<br>baby<br>return<br>penalty |  
-| bip_39_word_new_br6 | outer<br>escape<br>baby<br>return<br>penalty<br>helmet |  
-| bip_39_word_new_br7 | outer<br>escape<br>baby<br>return<br>penalty<br>helmet<br>riot |  
-| bip_39_word_new_br8 | outer<br>escape<br>baby<br>return<br>penalty<br>helmet<br>riot<br>lunar |  
-| bip_39_word_new_br9 | outer<br>escape<br>baby<br>return<br>penalty<br>helmet<br>riot<br>lunar<br>frequent |  
-| bip_39_word_new_line1 | outer |  
-| bip_39_word_new_line10 | outer
+| bip_39_word_new_br_1 | outer |  
+| bip_39_word_new_br_10 | outer<br>escape<br>baby<br>return<br>penalty<br>helmet<br>riot<br>lunar<br>frequent<br>comfort |  
+| bip_39_word_new_br_11 | outer<br>escape<br>baby<br>return<br>penalty<br>helmet<br>riot<br>lunar<br>frequent<br>comfort<br>doctor |  
+| bip_39_word_new_br_12 | outer<br>escape<br>baby<br>return<br>penalty<br>helmet<br>riot<br>lunar<br>frequent<br>comfort<br>doctor<br>appear |  
+| bip_39_word_new_br_2 | outer<br>escape |  
+| bip_39_word_new_br_3 | outer<br>escape<br>baby |  
+| bip_39_word_new_br_4 | outer<br>escape<br>baby<br>return |  
+| bip_39_word_new_br_5 | outer<br>escape<br>baby<br>return<br>penalty |  
+| bip_39_word_new_br_6 | outer<br>escape<br>baby<br>return<br>penalty<br>helmet |  
+| bip_39_word_new_br_7 | outer<br>escape<br>baby<br>return<br>penalty<br>helmet<br>riot |  
+| bip_39_word_new_br_8 | outer<br>escape<br>baby<br>return<br>penalty<br>helmet<br>riot<br>lunar |  
+| bip_39_word_new_br_9 | outer<br>escape<br>baby<br>return<br>penalty<br>helmet<br>riot<br>lunar<br>frequent |  
+| bip_39_word_new_line_1 | outer |  
+| bip_39_word_new_line_10 | outer
 escape
 baby
 return
@@ -55,7 +55,7 @@ riot
 lunar
 frequent
 comfort |  
-| bip_39_word_new_line11 | outer
+| bip_39_word_new_line_11 | outer
 escape
 baby
 return
@@ -66,7 +66,7 @@ lunar
 frequent
 comfort
 doctor |  
-| bip_39_word_new_line12 | outer
+| bip_39_word_new_line_12 | outer
 escape
 baby
 return
@@ -78,34 +78,34 @@ frequent
 comfort
 doctor
 appear |  
-| bip_39_word_new_line2 | outer
+| bip_39_word_new_line_2 | outer
 escape |  
-| bip_39_word_new_line3 | outer
+| bip_39_word_new_line_3 | outer
 escape
 baby |  
-| bip_39_word_new_line4 | outer
+| bip_39_word_new_line_4 | outer
 escape
 baby
 return |  
-| bip_39_word_new_line5 | outer
+| bip_39_word_new_line_5 | outer
 escape
 baby
 return
 penalty |  
-| bip_39_word_new_line6 | outer
+| bip_39_word_new_line_6 | outer
 escape
 baby
 return
 penalty
 helmet |  
-| bip_39_word_new_line7 | outer
+| bip_39_word_new_line_7 | outer
 escape
 baby
 return
 penalty
 helmet
 riot |  
-| bip_39_word_new_line8 | outer
+| bip_39_word_new_line_8 | outer
 escape
 baby
 return
@@ -113,7 +113,7 @@ penalty
 helmet
 riot
 lunar |  
-| bip_39_word_new_line9 | outer
+| bip_39_word_new_line_9 | outer
 escape
 baby
 return

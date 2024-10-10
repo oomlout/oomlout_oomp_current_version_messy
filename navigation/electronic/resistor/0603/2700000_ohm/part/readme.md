@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | clap |  
-| bip_39_word_new_br10 | clap<br>tell<br>absent<br>skull<br>daring<br>family<br>about<br>cabbage<br>weekend<br>vague |  
-| bip_39_word_new_br11 | clap<br>tell<br>absent<br>skull<br>daring<br>family<br>about<br>cabbage<br>weekend<br>vague<br>festival |  
-| bip_39_word_new_br12 | clap<br>tell<br>absent<br>skull<br>daring<br>family<br>about<br>cabbage<br>weekend<br>vague<br>festival<br>approve |  
-| bip_39_word_new_br2 | clap<br>tell |  
-| bip_39_word_new_br3 | clap<br>tell<br>absent |  
-| bip_39_word_new_br4 | clap<br>tell<br>absent<br>skull |  
-| bip_39_word_new_br5 | clap<br>tell<br>absent<br>skull<br>daring |  
-| bip_39_word_new_br6 | clap<br>tell<br>absent<br>skull<br>daring<br>family |  
-| bip_39_word_new_br7 | clap<br>tell<br>absent<br>skull<br>daring<br>family<br>about |  
-| bip_39_word_new_br8 | clap<br>tell<br>absent<br>skull<br>daring<br>family<br>about<br>cabbage |  
-| bip_39_word_new_br9 | clap<br>tell<br>absent<br>skull<br>daring<br>family<br>about<br>cabbage<br>weekend |  
-| bip_39_word_new_line1 | clap |  
-| bip_39_word_new_line10 | clap
+| bip_39_word_new_br_1 | clap |  
+| bip_39_word_new_br_10 | clap<br>tell<br>absent<br>skull<br>daring<br>family<br>about<br>cabbage<br>weekend<br>vague |  
+| bip_39_word_new_br_11 | clap<br>tell<br>absent<br>skull<br>daring<br>family<br>about<br>cabbage<br>weekend<br>vague<br>festival |  
+| bip_39_word_new_br_12 | clap<br>tell<br>absent<br>skull<br>daring<br>family<br>about<br>cabbage<br>weekend<br>vague<br>festival<br>approve |  
+| bip_39_word_new_br_2 | clap<br>tell |  
+| bip_39_word_new_br_3 | clap<br>tell<br>absent |  
+| bip_39_word_new_br_4 | clap<br>tell<br>absent<br>skull |  
+| bip_39_word_new_br_5 | clap<br>tell<br>absent<br>skull<br>daring |  
+| bip_39_word_new_br_6 | clap<br>tell<br>absent<br>skull<br>daring<br>family |  
+| bip_39_word_new_br_7 | clap<br>tell<br>absent<br>skull<br>daring<br>family<br>about |  
+| bip_39_word_new_br_8 | clap<br>tell<br>absent<br>skull<br>daring<br>family<br>about<br>cabbage |  
+| bip_39_word_new_br_9 | clap<br>tell<br>absent<br>skull<br>daring<br>family<br>about<br>cabbage<br>weekend |  
+| bip_39_word_new_line_1 | clap |  
+| bip_39_word_new_line_10 | clap
 tell
 absent
 skull
@@ -55,7 +55,7 @@ about
 cabbage
 weekend
 vague |  
-| bip_39_word_new_line11 | clap
+| bip_39_word_new_line_11 | clap
 tell
 absent
 skull
@@ -66,7 +66,7 @@ cabbage
 weekend
 vague
 festival |  
-| bip_39_word_new_line12 | clap
+| bip_39_word_new_line_12 | clap
 tell
 absent
 skull
@@ -78,34 +78,34 @@ weekend
 vague
 festival
 approve |  
-| bip_39_word_new_line2 | clap
+| bip_39_word_new_line_2 | clap
 tell |  
-| bip_39_word_new_line3 | clap
+| bip_39_word_new_line_3 | clap
 tell
 absent |  
-| bip_39_word_new_line4 | clap
+| bip_39_word_new_line_4 | clap
 tell
 absent
 skull |  
-| bip_39_word_new_line5 | clap
+| bip_39_word_new_line_5 | clap
 tell
 absent
 skull
 daring |  
-| bip_39_word_new_line6 | clap
+| bip_39_word_new_line_6 | clap
 tell
 absent
 skull
 daring
 family |  
-| bip_39_word_new_line7 | clap
+| bip_39_word_new_line_7 | clap
 tell
 absent
 skull
 daring
 family
 about |  
-| bip_39_word_new_line8 | clap
+| bip_39_word_new_line_8 | clap
 tell
 absent
 skull
@@ -113,7 +113,7 @@ daring
 family
 about
 cabbage |  
-| bip_39_word_new_line9 | clap
+| bip_39_word_new_line_9 | clap
 tell
 absent
 skull

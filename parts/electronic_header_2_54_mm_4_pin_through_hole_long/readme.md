@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | public |  
-| bip_39_word_new_br10 | public<br>swallow<br>poverty<br>truly<br>ancient<br>dentist<br>hen<br>cross<br>motion<br>gospel |  
-| bip_39_word_new_br11 | public<br>swallow<br>poverty<br>truly<br>ancient<br>dentist<br>hen<br>cross<br>motion<br>gospel<br>clip |  
-| bip_39_word_new_br12 | public<br>swallow<br>poverty<br>truly<br>ancient<br>dentist<br>hen<br>cross<br>motion<br>gospel<br>clip<br>alcohol |  
-| bip_39_word_new_br2 | public<br>swallow |  
-| bip_39_word_new_br3 | public<br>swallow<br>poverty |  
-| bip_39_word_new_br4 | public<br>swallow<br>poverty<br>truly |  
-| bip_39_word_new_br5 | public<br>swallow<br>poverty<br>truly<br>ancient |  
-| bip_39_word_new_br6 | public<br>swallow<br>poverty<br>truly<br>ancient<br>dentist |  
-| bip_39_word_new_br7 | public<br>swallow<br>poverty<br>truly<br>ancient<br>dentist<br>hen |  
-| bip_39_word_new_br8 | public<br>swallow<br>poverty<br>truly<br>ancient<br>dentist<br>hen<br>cross |  
-| bip_39_word_new_br9 | public<br>swallow<br>poverty<br>truly<br>ancient<br>dentist<br>hen<br>cross<br>motion |  
-| bip_39_word_new_line1 | public |  
-| bip_39_word_new_line10 | public
+| bip_39_word_new_br_1 | public |  
+| bip_39_word_new_br_10 | public<br>swallow<br>poverty<br>truly<br>ancient<br>dentist<br>hen<br>cross<br>motion<br>gospel |  
+| bip_39_word_new_br_11 | public<br>swallow<br>poverty<br>truly<br>ancient<br>dentist<br>hen<br>cross<br>motion<br>gospel<br>clip |  
+| bip_39_word_new_br_12 | public<br>swallow<br>poverty<br>truly<br>ancient<br>dentist<br>hen<br>cross<br>motion<br>gospel<br>clip<br>alcohol |  
+| bip_39_word_new_br_2 | public<br>swallow |  
+| bip_39_word_new_br_3 | public<br>swallow<br>poverty |  
+| bip_39_word_new_br_4 | public<br>swallow<br>poverty<br>truly |  
+| bip_39_word_new_br_5 | public<br>swallow<br>poverty<br>truly<br>ancient |  
+| bip_39_word_new_br_6 | public<br>swallow<br>poverty<br>truly<br>ancient<br>dentist |  
+| bip_39_word_new_br_7 | public<br>swallow<br>poverty<br>truly<br>ancient<br>dentist<br>hen |  
+| bip_39_word_new_br_8 | public<br>swallow<br>poverty<br>truly<br>ancient<br>dentist<br>hen<br>cross |  
+| bip_39_word_new_br_9 | public<br>swallow<br>poverty<br>truly<br>ancient<br>dentist<br>hen<br>cross<br>motion |  
+| bip_39_word_new_line_1 | public |  
+| bip_39_word_new_line_10 | public
 swallow
 poverty
 truly
@@ -55,7 +55,7 @@ hen
 cross
 motion
 gospel |  
-| bip_39_word_new_line11 | public
+| bip_39_word_new_line_11 | public
 swallow
 poverty
 truly
@@ -66,7 +66,7 @@ cross
 motion
 gospel
 clip |  
-| bip_39_word_new_line12 | public
+| bip_39_word_new_line_12 | public
 swallow
 poverty
 truly
@@ -78,34 +78,34 @@ motion
 gospel
 clip
 alcohol |  
-| bip_39_word_new_line2 | public
+| bip_39_word_new_line_2 | public
 swallow |  
-| bip_39_word_new_line3 | public
+| bip_39_word_new_line_3 | public
 swallow
 poverty |  
-| bip_39_word_new_line4 | public
+| bip_39_word_new_line_4 | public
 swallow
 poverty
 truly |  
-| bip_39_word_new_line5 | public
+| bip_39_word_new_line_5 | public
 swallow
 poverty
 truly
 ancient |  
-| bip_39_word_new_line6 | public
+| bip_39_word_new_line_6 | public
 swallow
 poverty
 truly
 ancient
 dentist |  
-| bip_39_word_new_line7 | public
+| bip_39_word_new_line_7 | public
 swallow
 poverty
 truly
 ancient
 dentist
 hen |  
-| bip_39_word_new_line8 | public
+| bip_39_word_new_line_8 | public
 swallow
 poverty
 truly
@@ -113,7 +113,7 @@ ancient
 dentist
 hen
 cross |  
-| bip_39_word_new_line9 | public
+| bip_39_word_new_line_9 | public
 swallow
 poverty
 truly

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bronze |  
-| bip_39_word_new_br10 | bronze<br>slight<br>afraid<br>replace<br>point<br>when<br>mesh<br>surge<br>interest<br>lyrics |  
-| bip_39_word_new_br11 | bronze<br>slight<br>afraid<br>replace<br>point<br>when<br>mesh<br>surge<br>interest<br>lyrics<br>fold |  
-| bip_39_word_new_br12 | bronze<br>slight<br>afraid<br>replace<br>point<br>when<br>mesh<br>surge<br>interest<br>lyrics<br>fold<br>adapt |  
-| bip_39_word_new_br2 | bronze<br>slight |  
-| bip_39_word_new_br3 | bronze<br>slight<br>afraid |  
-| bip_39_word_new_br4 | bronze<br>slight<br>afraid<br>replace |  
-| bip_39_word_new_br5 | bronze<br>slight<br>afraid<br>replace<br>point |  
-| bip_39_word_new_br6 | bronze<br>slight<br>afraid<br>replace<br>point<br>when |  
-| bip_39_word_new_br7 | bronze<br>slight<br>afraid<br>replace<br>point<br>when<br>mesh |  
-| bip_39_word_new_br8 | bronze<br>slight<br>afraid<br>replace<br>point<br>when<br>mesh<br>surge |  
-| bip_39_word_new_br9 | bronze<br>slight<br>afraid<br>replace<br>point<br>when<br>mesh<br>surge<br>interest |  
-| bip_39_word_new_line1 | bronze |  
-| bip_39_word_new_line10 | bronze
+| bip_39_word_new_br_1 | bronze |  
+| bip_39_word_new_br_10 | bronze<br>slight<br>afraid<br>replace<br>point<br>when<br>mesh<br>surge<br>interest<br>lyrics |  
+| bip_39_word_new_br_11 | bronze<br>slight<br>afraid<br>replace<br>point<br>when<br>mesh<br>surge<br>interest<br>lyrics<br>fold |  
+| bip_39_word_new_br_12 | bronze<br>slight<br>afraid<br>replace<br>point<br>when<br>mesh<br>surge<br>interest<br>lyrics<br>fold<br>adapt |  
+| bip_39_word_new_br_2 | bronze<br>slight |  
+| bip_39_word_new_br_3 | bronze<br>slight<br>afraid |  
+| bip_39_word_new_br_4 | bronze<br>slight<br>afraid<br>replace |  
+| bip_39_word_new_br_5 | bronze<br>slight<br>afraid<br>replace<br>point |  
+| bip_39_word_new_br_6 | bronze<br>slight<br>afraid<br>replace<br>point<br>when |  
+| bip_39_word_new_br_7 | bronze<br>slight<br>afraid<br>replace<br>point<br>when<br>mesh |  
+| bip_39_word_new_br_8 | bronze<br>slight<br>afraid<br>replace<br>point<br>when<br>mesh<br>surge |  
+| bip_39_word_new_br_9 | bronze<br>slight<br>afraid<br>replace<br>point<br>when<br>mesh<br>surge<br>interest |  
+| bip_39_word_new_line_1 | bronze |  
+| bip_39_word_new_line_10 | bronze
 slight
 afraid
 replace
@@ -55,7 +55,7 @@ mesh
 surge
 interest
 lyrics |  
-| bip_39_word_new_line11 | bronze
+| bip_39_word_new_line_11 | bronze
 slight
 afraid
 replace
@@ -66,7 +66,7 @@ surge
 interest
 lyrics
 fold |  
-| bip_39_word_new_line12 | bronze
+| bip_39_word_new_line_12 | bronze
 slight
 afraid
 replace
@@ -78,34 +78,34 @@ interest
 lyrics
 fold
 adapt |  
-| bip_39_word_new_line2 | bronze
+| bip_39_word_new_line_2 | bronze
 slight |  
-| bip_39_word_new_line3 | bronze
+| bip_39_word_new_line_3 | bronze
 slight
 afraid |  
-| bip_39_word_new_line4 | bronze
+| bip_39_word_new_line_4 | bronze
 slight
 afraid
 replace |  
-| bip_39_word_new_line5 | bronze
+| bip_39_word_new_line_5 | bronze
 slight
 afraid
 replace
 point |  
-| bip_39_word_new_line6 | bronze
+| bip_39_word_new_line_6 | bronze
 slight
 afraid
 replace
 point
 when |  
-| bip_39_word_new_line7 | bronze
+| bip_39_word_new_line_7 | bronze
 slight
 afraid
 replace
 point
 when
 mesh |  
-| bip_39_word_new_line8 | bronze
+| bip_39_word_new_line_8 | bronze
 slight
 afraid
 replace
@@ -113,7 +113,7 @@ point
 when
 mesh
 surge |  
-| bip_39_word_new_line9 | bronze
+| bip_39_word_new_line_9 | bronze
 slight
 afraid
 replace

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | distance |  
-| bip_39_word_new_br10 | distance<br>domain<br>bicycle<br>hire<br>render<br>east<br>decide<br>slab<br>turtle<br>wet |  
-| bip_39_word_new_br11 | distance<br>domain<br>bicycle<br>hire<br>render<br>east<br>decide<br>slab<br>turtle<br>wet<br>kind |  
-| bip_39_word_new_br12 | distance<br>domain<br>bicycle<br>hire<br>render<br>east<br>decide<br>slab<br>turtle<br>wet<br>kind<br>average |  
-| bip_39_word_new_br2 | distance<br>domain |  
-| bip_39_word_new_br3 | distance<br>domain<br>bicycle |  
-| bip_39_word_new_br4 | distance<br>domain<br>bicycle<br>hire |  
-| bip_39_word_new_br5 | distance<br>domain<br>bicycle<br>hire<br>render |  
-| bip_39_word_new_br6 | distance<br>domain<br>bicycle<br>hire<br>render<br>east |  
-| bip_39_word_new_br7 | distance<br>domain<br>bicycle<br>hire<br>render<br>east<br>decide |  
-| bip_39_word_new_br8 | distance<br>domain<br>bicycle<br>hire<br>render<br>east<br>decide<br>slab |  
-| bip_39_word_new_br9 | distance<br>domain<br>bicycle<br>hire<br>render<br>east<br>decide<br>slab<br>turtle |  
-| bip_39_word_new_line1 | distance |  
-| bip_39_word_new_line10 | distance
+| bip_39_word_new_br_1 | distance |  
+| bip_39_word_new_br_10 | distance<br>domain<br>bicycle<br>hire<br>render<br>east<br>decide<br>slab<br>turtle<br>wet |  
+| bip_39_word_new_br_11 | distance<br>domain<br>bicycle<br>hire<br>render<br>east<br>decide<br>slab<br>turtle<br>wet<br>kind |  
+| bip_39_word_new_br_12 | distance<br>domain<br>bicycle<br>hire<br>render<br>east<br>decide<br>slab<br>turtle<br>wet<br>kind<br>average |  
+| bip_39_word_new_br_2 | distance<br>domain |  
+| bip_39_word_new_br_3 | distance<br>domain<br>bicycle |  
+| bip_39_word_new_br_4 | distance<br>domain<br>bicycle<br>hire |  
+| bip_39_word_new_br_5 | distance<br>domain<br>bicycle<br>hire<br>render |  
+| bip_39_word_new_br_6 | distance<br>domain<br>bicycle<br>hire<br>render<br>east |  
+| bip_39_word_new_br_7 | distance<br>domain<br>bicycle<br>hire<br>render<br>east<br>decide |  
+| bip_39_word_new_br_8 | distance<br>domain<br>bicycle<br>hire<br>render<br>east<br>decide<br>slab |  
+| bip_39_word_new_br_9 | distance<br>domain<br>bicycle<br>hire<br>render<br>east<br>decide<br>slab<br>turtle |  
+| bip_39_word_new_line_1 | distance |  
+| bip_39_word_new_line_10 | distance
 domain
 bicycle
 hire
@@ -55,7 +55,7 @@ decide
 slab
 turtle
 wet |  
-| bip_39_word_new_line11 | distance
+| bip_39_word_new_line_11 | distance
 domain
 bicycle
 hire
@@ -66,7 +66,7 @@ slab
 turtle
 wet
 kind |  
-| bip_39_word_new_line12 | distance
+| bip_39_word_new_line_12 | distance
 domain
 bicycle
 hire
@@ -78,34 +78,34 @@ turtle
 wet
 kind
 average |  
-| bip_39_word_new_line2 | distance
+| bip_39_word_new_line_2 | distance
 domain |  
-| bip_39_word_new_line3 | distance
+| bip_39_word_new_line_3 | distance
 domain
 bicycle |  
-| bip_39_word_new_line4 | distance
+| bip_39_word_new_line_4 | distance
 domain
 bicycle
 hire |  
-| bip_39_word_new_line5 | distance
+| bip_39_word_new_line_5 | distance
 domain
 bicycle
 hire
 render |  
-| bip_39_word_new_line6 | distance
+| bip_39_word_new_line_6 | distance
 domain
 bicycle
 hire
 render
 east |  
-| bip_39_word_new_line7 | distance
+| bip_39_word_new_line_7 | distance
 domain
 bicycle
 hire
 render
 east
 decide |  
-| bip_39_word_new_line8 | distance
+| bip_39_word_new_line_8 | distance
 domain
 bicycle
 hire
@@ -113,7 +113,7 @@ render
 east
 decide
 slab |  
-| bip_39_word_new_line9 | distance
+| bip_39_word_new_line_9 | distance
 domain
 bicycle
 hire

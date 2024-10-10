@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cable |  
-| bip_39_word_new_br10 | cable<br>engage<br>admit<br>toe<br>rice<br>occur<br>dentist<br>front<br>tattoo<br>news |  
-| bip_39_word_new_br11 | cable<br>engage<br>admit<br>toe<br>rice<br>occur<br>dentist<br>front<br>tattoo<br>news<br>entry |  
-| bip_39_word_new_br12 | cable<br>engage<br>admit<br>toe<br>rice<br>occur<br>dentist<br>front<br>tattoo<br>news<br>entry<br>alert |  
-| bip_39_word_new_br2 | cable<br>engage |  
-| bip_39_word_new_br3 | cable<br>engage<br>admit |  
-| bip_39_word_new_br4 | cable<br>engage<br>admit<br>toe |  
-| bip_39_word_new_br5 | cable<br>engage<br>admit<br>toe<br>rice |  
-| bip_39_word_new_br6 | cable<br>engage<br>admit<br>toe<br>rice<br>occur |  
-| bip_39_word_new_br7 | cable<br>engage<br>admit<br>toe<br>rice<br>occur<br>dentist |  
-| bip_39_word_new_br8 | cable<br>engage<br>admit<br>toe<br>rice<br>occur<br>dentist<br>front |  
-| bip_39_word_new_br9 | cable<br>engage<br>admit<br>toe<br>rice<br>occur<br>dentist<br>front<br>tattoo |  
-| bip_39_word_new_line1 | cable |  
-| bip_39_word_new_line10 | cable
+| bip_39_word_new_br_1 | cable |  
+| bip_39_word_new_br_10 | cable<br>engage<br>admit<br>toe<br>rice<br>occur<br>dentist<br>front<br>tattoo<br>news |  
+| bip_39_word_new_br_11 | cable<br>engage<br>admit<br>toe<br>rice<br>occur<br>dentist<br>front<br>tattoo<br>news<br>entry |  
+| bip_39_word_new_br_12 | cable<br>engage<br>admit<br>toe<br>rice<br>occur<br>dentist<br>front<br>tattoo<br>news<br>entry<br>alert |  
+| bip_39_word_new_br_2 | cable<br>engage |  
+| bip_39_word_new_br_3 | cable<br>engage<br>admit |  
+| bip_39_word_new_br_4 | cable<br>engage<br>admit<br>toe |  
+| bip_39_word_new_br_5 | cable<br>engage<br>admit<br>toe<br>rice |  
+| bip_39_word_new_br_6 | cable<br>engage<br>admit<br>toe<br>rice<br>occur |  
+| bip_39_word_new_br_7 | cable<br>engage<br>admit<br>toe<br>rice<br>occur<br>dentist |  
+| bip_39_word_new_br_8 | cable<br>engage<br>admit<br>toe<br>rice<br>occur<br>dentist<br>front |  
+| bip_39_word_new_br_9 | cable<br>engage<br>admit<br>toe<br>rice<br>occur<br>dentist<br>front<br>tattoo |  
+| bip_39_word_new_line_1 | cable |  
+| bip_39_word_new_line_10 | cable
 engage
 admit
 toe
@@ -55,7 +55,7 @@ dentist
 front
 tattoo
 news |  
-| bip_39_word_new_line11 | cable
+| bip_39_word_new_line_11 | cable
 engage
 admit
 toe
@@ -66,7 +66,7 @@ front
 tattoo
 news
 entry |  
-| bip_39_word_new_line12 | cable
+| bip_39_word_new_line_12 | cable
 engage
 admit
 toe
@@ -78,34 +78,34 @@ tattoo
 news
 entry
 alert |  
-| bip_39_word_new_line2 | cable
+| bip_39_word_new_line_2 | cable
 engage |  
-| bip_39_word_new_line3 | cable
+| bip_39_word_new_line_3 | cable
 engage
 admit |  
-| bip_39_word_new_line4 | cable
+| bip_39_word_new_line_4 | cable
 engage
 admit
 toe |  
-| bip_39_word_new_line5 | cable
+| bip_39_word_new_line_5 | cable
 engage
 admit
 toe
 rice |  
-| bip_39_word_new_line6 | cable
+| bip_39_word_new_line_6 | cable
 engage
 admit
 toe
 rice
 occur |  
-| bip_39_word_new_line7 | cable
+| bip_39_word_new_line_7 | cable
 engage
 admit
 toe
 rice
 occur
 dentist |  
-| bip_39_word_new_line8 | cable
+| bip_39_word_new_line_8 | cable
 engage
 admit
 toe
@@ -113,7 +113,7 @@ rice
 occur
 dentist
 front |  
-| bip_39_word_new_line9 | cable
+| bip_39_word_new_line_9 | cable
 engage
 admit
 toe

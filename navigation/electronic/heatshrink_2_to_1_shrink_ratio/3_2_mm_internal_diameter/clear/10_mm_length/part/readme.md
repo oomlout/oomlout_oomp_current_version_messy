@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | potato |  
-| bip_39_word_new_br10 | potato<br>silk<br>seek<br>plate<br>uphold<br>enemy<br>element<br>spell<br>stairs<br>warfare |  
-| bip_39_word_new_br11 | potato<br>silk<br>seek<br>plate<br>uphold<br>enemy<br>element<br>spell<br>stairs<br>warfare<br>embark |  
-| bip_39_word_new_br12 | potato<br>silk<br>seek<br>plate<br>uphold<br>enemy<br>element<br>spell<br>stairs<br>warfare<br>embark<br>aspect |  
-| bip_39_word_new_br2 | potato<br>silk |  
-| bip_39_word_new_br3 | potato<br>silk<br>seek |  
-| bip_39_word_new_br4 | potato<br>silk<br>seek<br>plate |  
-| bip_39_word_new_br5 | potato<br>silk<br>seek<br>plate<br>uphold |  
-| bip_39_word_new_br6 | potato<br>silk<br>seek<br>plate<br>uphold<br>enemy |  
-| bip_39_word_new_br7 | potato<br>silk<br>seek<br>plate<br>uphold<br>enemy<br>element |  
-| bip_39_word_new_br8 | potato<br>silk<br>seek<br>plate<br>uphold<br>enemy<br>element<br>spell |  
-| bip_39_word_new_br9 | potato<br>silk<br>seek<br>plate<br>uphold<br>enemy<br>element<br>spell<br>stairs |  
-| bip_39_word_new_line1 | potato |  
-| bip_39_word_new_line10 | potato
+| bip_39_word_new_br_1 | potato |  
+| bip_39_word_new_br_10 | potato<br>silk<br>seek<br>plate<br>uphold<br>enemy<br>element<br>spell<br>stairs<br>warfare |  
+| bip_39_word_new_br_11 | potato<br>silk<br>seek<br>plate<br>uphold<br>enemy<br>element<br>spell<br>stairs<br>warfare<br>embark |  
+| bip_39_word_new_br_12 | potato<br>silk<br>seek<br>plate<br>uphold<br>enemy<br>element<br>spell<br>stairs<br>warfare<br>embark<br>aspect |  
+| bip_39_word_new_br_2 | potato<br>silk |  
+| bip_39_word_new_br_3 | potato<br>silk<br>seek |  
+| bip_39_word_new_br_4 | potato<br>silk<br>seek<br>plate |  
+| bip_39_word_new_br_5 | potato<br>silk<br>seek<br>plate<br>uphold |  
+| bip_39_word_new_br_6 | potato<br>silk<br>seek<br>plate<br>uphold<br>enemy |  
+| bip_39_word_new_br_7 | potato<br>silk<br>seek<br>plate<br>uphold<br>enemy<br>element |  
+| bip_39_word_new_br_8 | potato<br>silk<br>seek<br>plate<br>uphold<br>enemy<br>element<br>spell |  
+| bip_39_word_new_br_9 | potato<br>silk<br>seek<br>plate<br>uphold<br>enemy<br>element<br>spell<br>stairs |  
+| bip_39_word_new_line_1 | potato |  
+| bip_39_word_new_line_10 | potato
 silk
 seek
 plate
@@ -55,7 +55,7 @@ element
 spell
 stairs
 warfare |  
-| bip_39_word_new_line11 | potato
+| bip_39_word_new_line_11 | potato
 silk
 seek
 plate
@@ -66,7 +66,7 @@ spell
 stairs
 warfare
 embark |  
-| bip_39_word_new_line12 | potato
+| bip_39_word_new_line_12 | potato
 silk
 seek
 plate
@@ -78,34 +78,34 @@ stairs
 warfare
 embark
 aspect |  
-| bip_39_word_new_line2 | potato
+| bip_39_word_new_line_2 | potato
 silk |  
-| bip_39_word_new_line3 | potato
+| bip_39_word_new_line_3 | potato
 silk
 seek |  
-| bip_39_word_new_line4 | potato
+| bip_39_word_new_line_4 | potato
 silk
 seek
 plate |  
-| bip_39_word_new_line5 | potato
+| bip_39_word_new_line_5 | potato
 silk
 seek
 plate
 uphold |  
-| bip_39_word_new_line6 | potato
+| bip_39_word_new_line_6 | potato
 silk
 seek
 plate
 uphold
 enemy |  
-| bip_39_word_new_line7 | potato
+| bip_39_word_new_line_7 | potato
 silk
 seek
 plate
 uphold
 enemy
 element |  
-| bip_39_word_new_line8 | potato
+| bip_39_word_new_line_8 | potato
 silk
 seek
 plate
@@ -113,7 +113,7 @@ uphold
 enemy
 element
 spell |  
-| bip_39_word_new_line9 | potato
+| bip_39_word_new_line_9 | potato
 silk
 seek
 plate

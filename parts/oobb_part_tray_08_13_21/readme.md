@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | clock |  
-| bip_39_word_new_br10 | clock<br>person<br>core<br>believe<br>enjoy<br>matter<br>ordinary<br>soda<br>state<br>glove |  
-| bip_39_word_new_br11 | clock<br>person<br>core<br>believe<br>enjoy<br>matter<br>ordinary<br>soda<br>state<br>glove<br>jealous |  
-| bip_39_word_new_br12 | clock<br>person<br>core<br>believe<br>enjoy<br>matter<br>ordinary<br>soda<br>state<br>glove<br>jealous<br>argue |  
-| bip_39_word_new_br2 | clock<br>person |  
-| bip_39_word_new_br3 | clock<br>person<br>core |  
-| bip_39_word_new_br4 | clock<br>person<br>core<br>believe |  
-| bip_39_word_new_br5 | clock<br>person<br>core<br>believe<br>enjoy |  
-| bip_39_word_new_br6 | clock<br>person<br>core<br>believe<br>enjoy<br>matter |  
-| bip_39_word_new_br7 | clock<br>person<br>core<br>believe<br>enjoy<br>matter<br>ordinary |  
-| bip_39_word_new_br8 | clock<br>person<br>core<br>believe<br>enjoy<br>matter<br>ordinary<br>soda |  
-| bip_39_word_new_br9 | clock<br>person<br>core<br>believe<br>enjoy<br>matter<br>ordinary<br>soda<br>state |  
-| bip_39_word_new_line1 | clock |  
-| bip_39_word_new_line10 | clock
+| bip_39_word_new_br_1 | clock |  
+| bip_39_word_new_br_10 | clock<br>person<br>core<br>believe<br>enjoy<br>matter<br>ordinary<br>soda<br>state<br>glove |  
+| bip_39_word_new_br_11 | clock<br>person<br>core<br>believe<br>enjoy<br>matter<br>ordinary<br>soda<br>state<br>glove<br>jealous |  
+| bip_39_word_new_br_12 | clock<br>person<br>core<br>believe<br>enjoy<br>matter<br>ordinary<br>soda<br>state<br>glove<br>jealous<br>argue |  
+| bip_39_word_new_br_2 | clock<br>person |  
+| bip_39_word_new_br_3 | clock<br>person<br>core |  
+| bip_39_word_new_br_4 | clock<br>person<br>core<br>believe |  
+| bip_39_word_new_br_5 | clock<br>person<br>core<br>believe<br>enjoy |  
+| bip_39_word_new_br_6 | clock<br>person<br>core<br>believe<br>enjoy<br>matter |  
+| bip_39_word_new_br_7 | clock<br>person<br>core<br>believe<br>enjoy<br>matter<br>ordinary |  
+| bip_39_word_new_br_8 | clock<br>person<br>core<br>believe<br>enjoy<br>matter<br>ordinary<br>soda |  
+| bip_39_word_new_br_9 | clock<br>person<br>core<br>believe<br>enjoy<br>matter<br>ordinary<br>soda<br>state |  
+| bip_39_word_new_line_1 | clock |  
+| bip_39_word_new_line_10 | clock
 person
 core
 believe
@@ -55,7 +55,7 @@ ordinary
 soda
 state
 glove |  
-| bip_39_word_new_line11 | clock
+| bip_39_word_new_line_11 | clock
 person
 core
 believe
@@ -66,7 +66,7 @@ soda
 state
 glove
 jealous |  
-| bip_39_word_new_line12 | clock
+| bip_39_word_new_line_12 | clock
 person
 core
 believe
@@ -78,34 +78,34 @@ state
 glove
 jealous
 argue |  
-| bip_39_word_new_line2 | clock
+| bip_39_word_new_line_2 | clock
 person |  
-| bip_39_word_new_line3 | clock
+| bip_39_word_new_line_3 | clock
 person
 core |  
-| bip_39_word_new_line4 | clock
+| bip_39_word_new_line_4 | clock
 person
 core
 believe |  
-| bip_39_word_new_line5 | clock
+| bip_39_word_new_line_5 | clock
 person
 core
 believe
 enjoy |  
-| bip_39_word_new_line6 | clock
+| bip_39_word_new_line_6 | clock
 person
 core
 believe
 enjoy
 matter |  
-| bip_39_word_new_line7 | clock
+| bip_39_word_new_line_7 | clock
 person
 core
 believe
 enjoy
 matter
 ordinary |  
-| bip_39_word_new_line8 | clock
+| bip_39_word_new_line_8 | clock
 person
 core
 believe
@@ -113,7 +113,7 @@ enjoy
 matter
 ordinary
 soda |  
-| bip_39_word_new_line9 | clock
+| bip_39_word_new_line_9 | clock
 person
 core
 believe

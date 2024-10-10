@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | merry |  
-| bip_39_word_new_br10 | merry<br>toe<br>steak<br>wheat<br>focus<br>fade<br>giggle<br>limit<br>depend<br>where |  
-| bip_39_word_new_br11 | merry<br>toe<br>steak<br>wheat<br>focus<br>fade<br>giggle<br>limit<br>depend<br>where<br>language |  
-| bip_39_word_new_br12 | merry<br>toe<br>steak<br>wheat<br>focus<br>fade<br>giggle<br>limit<br>depend<br>where<br>language<br>abuse |  
-| bip_39_word_new_br2 | merry<br>toe |  
-| bip_39_word_new_br3 | merry<br>toe<br>steak |  
-| bip_39_word_new_br4 | merry<br>toe<br>steak<br>wheat |  
-| bip_39_word_new_br5 | merry<br>toe<br>steak<br>wheat<br>focus |  
-| bip_39_word_new_br6 | merry<br>toe<br>steak<br>wheat<br>focus<br>fade |  
-| bip_39_word_new_br7 | merry<br>toe<br>steak<br>wheat<br>focus<br>fade<br>giggle |  
-| bip_39_word_new_br8 | merry<br>toe<br>steak<br>wheat<br>focus<br>fade<br>giggle<br>limit |  
-| bip_39_word_new_br9 | merry<br>toe<br>steak<br>wheat<br>focus<br>fade<br>giggle<br>limit<br>depend |  
-| bip_39_word_new_line1 | merry |  
-| bip_39_word_new_line10 | merry
+| bip_39_word_new_br_1 | merry |  
+| bip_39_word_new_br_10 | merry<br>toe<br>steak<br>wheat<br>focus<br>fade<br>giggle<br>limit<br>depend<br>where |  
+| bip_39_word_new_br_11 | merry<br>toe<br>steak<br>wheat<br>focus<br>fade<br>giggle<br>limit<br>depend<br>where<br>language |  
+| bip_39_word_new_br_12 | merry<br>toe<br>steak<br>wheat<br>focus<br>fade<br>giggle<br>limit<br>depend<br>where<br>language<br>abuse |  
+| bip_39_word_new_br_2 | merry<br>toe |  
+| bip_39_word_new_br_3 | merry<br>toe<br>steak |  
+| bip_39_word_new_br_4 | merry<br>toe<br>steak<br>wheat |  
+| bip_39_word_new_br_5 | merry<br>toe<br>steak<br>wheat<br>focus |  
+| bip_39_word_new_br_6 | merry<br>toe<br>steak<br>wheat<br>focus<br>fade |  
+| bip_39_word_new_br_7 | merry<br>toe<br>steak<br>wheat<br>focus<br>fade<br>giggle |  
+| bip_39_word_new_br_8 | merry<br>toe<br>steak<br>wheat<br>focus<br>fade<br>giggle<br>limit |  
+| bip_39_word_new_br_9 | merry<br>toe<br>steak<br>wheat<br>focus<br>fade<br>giggle<br>limit<br>depend |  
+| bip_39_word_new_line_1 | merry |  
+| bip_39_word_new_line_10 | merry
 toe
 steak
 wheat
@@ -55,7 +55,7 @@ giggle
 limit
 depend
 where |  
-| bip_39_word_new_line11 | merry
+| bip_39_word_new_line_11 | merry
 toe
 steak
 wheat
@@ -66,7 +66,7 @@ limit
 depend
 where
 language |  
-| bip_39_word_new_line12 | merry
+| bip_39_word_new_line_12 | merry
 toe
 steak
 wheat
@@ -78,34 +78,34 @@ depend
 where
 language
 abuse |  
-| bip_39_word_new_line2 | merry
+| bip_39_word_new_line_2 | merry
 toe |  
-| bip_39_word_new_line3 | merry
+| bip_39_word_new_line_3 | merry
 toe
 steak |  
-| bip_39_word_new_line4 | merry
+| bip_39_word_new_line_4 | merry
 toe
 steak
 wheat |  
-| bip_39_word_new_line5 | merry
+| bip_39_word_new_line_5 | merry
 toe
 steak
 wheat
 focus |  
-| bip_39_word_new_line6 | merry
+| bip_39_word_new_line_6 | merry
 toe
 steak
 wheat
 focus
 fade |  
-| bip_39_word_new_line7 | merry
+| bip_39_word_new_line_7 | merry
 toe
 steak
 wheat
 focus
 fade
 giggle |  
-| bip_39_word_new_line8 | merry
+| bip_39_word_new_line_8 | merry
 toe
 steak
 wheat
@@ -113,7 +113,7 @@ focus
 fade
 giggle
 limit |  
-| bip_39_word_new_line9 | merry
+| bip_39_word_new_line_9 | merry
 toe
 steak
 wheat

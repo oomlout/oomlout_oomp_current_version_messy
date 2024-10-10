@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | father |  
-| bip_39_word_new_br10 | father<br>immune<br>public<br>picnic<br>blossom<br>smile<br>minimum<br>achieve<br>stereo<br>gain |  
-| bip_39_word_new_br11 | father<br>immune<br>public<br>picnic<br>blossom<br>smile<br>minimum<br>achieve<br>stereo<br>gain<br>picture |  
-| bip_39_word_new_br12 | father<br>immune<br>public<br>picnic<br>blossom<br>smile<br>minimum<br>achieve<br>stereo<br>gain<br>picture<br>ahead |  
-| bip_39_word_new_br2 | father<br>immune |  
-| bip_39_word_new_br3 | father<br>immune<br>public |  
-| bip_39_word_new_br4 | father<br>immune<br>public<br>picnic |  
-| bip_39_word_new_br5 | father<br>immune<br>public<br>picnic<br>blossom |  
-| bip_39_word_new_br6 | father<br>immune<br>public<br>picnic<br>blossom<br>smile |  
-| bip_39_word_new_br7 | father<br>immune<br>public<br>picnic<br>blossom<br>smile<br>minimum |  
-| bip_39_word_new_br8 | father<br>immune<br>public<br>picnic<br>blossom<br>smile<br>minimum<br>achieve |  
-| bip_39_word_new_br9 | father<br>immune<br>public<br>picnic<br>blossom<br>smile<br>minimum<br>achieve<br>stereo |  
-| bip_39_word_new_line1 | father |  
-| bip_39_word_new_line10 | father
+| bip_39_word_new_br_1 | father |  
+| bip_39_word_new_br_10 | father<br>immune<br>public<br>picnic<br>blossom<br>smile<br>minimum<br>achieve<br>stereo<br>gain |  
+| bip_39_word_new_br_11 | father<br>immune<br>public<br>picnic<br>blossom<br>smile<br>minimum<br>achieve<br>stereo<br>gain<br>picture |  
+| bip_39_word_new_br_12 | father<br>immune<br>public<br>picnic<br>blossom<br>smile<br>minimum<br>achieve<br>stereo<br>gain<br>picture<br>ahead |  
+| bip_39_word_new_br_2 | father<br>immune |  
+| bip_39_word_new_br_3 | father<br>immune<br>public |  
+| bip_39_word_new_br_4 | father<br>immune<br>public<br>picnic |  
+| bip_39_word_new_br_5 | father<br>immune<br>public<br>picnic<br>blossom |  
+| bip_39_word_new_br_6 | father<br>immune<br>public<br>picnic<br>blossom<br>smile |  
+| bip_39_word_new_br_7 | father<br>immune<br>public<br>picnic<br>blossom<br>smile<br>minimum |  
+| bip_39_word_new_br_8 | father<br>immune<br>public<br>picnic<br>blossom<br>smile<br>minimum<br>achieve |  
+| bip_39_word_new_br_9 | father<br>immune<br>public<br>picnic<br>blossom<br>smile<br>minimum<br>achieve<br>stereo |  
+| bip_39_word_new_line_1 | father |  
+| bip_39_word_new_line_10 | father
 immune
 public
 picnic
@@ -55,7 +55,7 @@ minimum
 achieve
 stereo
 gain |  
-| bip_39_word_new_line11 | father
+| bip_39_word_new_line_11 | father
 immune
 public
 picnic
@@ -66,7 +66,7 @@ achieve
 stereo
 gain
 picture |  
-| bip_39_word_new_line12 | father
+| bip_39_word_new_line_12 | father
 immune
 public
 picnic
@@ -78,34 +78,34 @@ stereo
 gain
 picture
 ahead |  
-| bip_39_word_new_line2 | father
+| bip_39_word_new_line_2 | father
 immune |  
-| bip_39_word_new_line3 | father
+| bip_39_word_new_line_3 | father
 immune
 public |  
-| bip_39_word_new_line4 | father
+| bip_39_word_new_line_4 | father
 immune
 public
 picnic |  
-| bip_39_word_new_line5 | father
+| bip_39_word_new_line_5 | father
 immune
 public
 picnic
 blossom |  
-| bip_39_word_new_line6 | father
+| bip_39_word_new_line_6 | father
 immune
 public
 picnic
 blossom
 smile |  
-| bip_39_word_new_line7 | father
+| bip_39_word_new_line_7 | father
 immune
 public
 picnic
 blossom
 smile
 minimum |  
-| bip_39_word_new_line8 | father
+| bip_39_word_new_line_8 | father
 immune
 public
 picnic
@@ -113,7 +113,7 @@ blossom
 smile
 minimum
 achieve |  
-| bip_39_word_new_line9 | father
+| bip_39_word_new_line_9 | father
 immune
 public
 picnic

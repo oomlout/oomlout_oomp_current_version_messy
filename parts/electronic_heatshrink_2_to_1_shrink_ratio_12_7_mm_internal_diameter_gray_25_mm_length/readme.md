@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | struggle |  
-| bip_39_word_new_br10 | struggle<br>unusual<br>shine<br>network<br>check<br>school<br>alpha<br>round<br>glow<br>retire |  
-| bip_39_word_new_br11 | struggle<br>unusual<br>shine<br>network<br>check<br>school<br>alpha<br>round<br>glow<br>retire<br>van |  
-| bip_39_word_new_br12 | struggle<br>unusual<br>shine<br>network<br>check<br>school<br>alpha<br>round<br>glow<br>retire<br>van<br>actor |  
-| bip_39_word_new_br2 | struggle<br>unusual |  
-| bip_39_word_new_br3 | struggle<br>unusual<br>shine |  
-| bip_39_word_new_br4 | struggle<br>unusual<br>shine<br>network |  
-| bip_39_word_new_br5 | struggle<br>unusual<br>shine<br>network<br>check |  
-| bip_39_word_new_br6 | struggle<br>unusual<br>shine<br>network<br>check<br>school |  
-| bip_39_word_new_br7 | struggle<br>unusual<br>shine<br>network<br>check<br>school<br>alpha |  
-| bip_39_word_new_br8 | struggle<br>unusual<br>shine<br>network<br>check<br>school<br>alpha<br>round |  
-| bip_39_word_new_br9 | struggle<br>unusual<br>shine<br>network<br>check<br>school<br>alpha<br>round<br>glow |  
-| bip_39_word_new_line1 | struggle |  
-| bip_39_word_new_line10 | struggle
+| bip_39_word_new_br_1 | struggle |  
+| bip_39_word_new_br_10 | struggle<br>unusual<br>shine<br>network<br>check<br>school<br>alpha<br>round<br>glow<br>retire |  
+| bip_39_word_new_br_11 | struggle<br>unusual<br>shine<br>network<br>check<br>school<br>alpha<br>round<br>glow<br>retire<br>van |  
+| bip_39_word_new_br_12 | struggle<br>unusual<br>shine<br>network<br>check<br>school<br>alpha<br>round<br>glow<br>retire<br>van<br>actor |  
+| bip_39_word_new_br_2 | struggle<br>unusual |  
+| bip_39_word_new_br_3 | struggle<br>unusual<br>shine |  
+| bip_39_word_new_br_4 | struggle<br>unusual<br>shine<br>network |  
+| bip_39_word_new_br_5 | struggle<br>unusual<br>shine<br>network<br>check |  
+| bip_39_word_new_br_6 | struggle<br>unusual<br>shine<br>network<br>check<br>school |  
+| bip_39_word_new_br_7 | struggle<br>unusual<br>shine<br>network<br>check<br>school<br>alpha |  
+| bip_39_word_new_br_8 | struggle<br>unusual<br>shine<br>network<br>check<br>school<br>alpha<br>round |  
+| bip_39_word_new_br_9 | struggle<br>unusual<br>shine<br>network<br>check<br>school<br>alpha<br>round<br>glow |  
+| bip_39_word_new_line_1 | struggle |  
+| bip_39_word_new_line_10 | struggle
 unusual
 shine
 network
@@ -55,7 +55,7 @@ alpha
 round
 glow
 retire |  
-| bip_39_word_new_line11 | struggle
+| bip_39_word_new_line_11 | struggle
 unusual
 shine
 network
@@ -66,7 +66,7 @@ round
 glow
 retire
 van |  
-| bip_39_word_new_line12 | struggle
+| bip_39_word_new_line_12 | struggle
 unusual
 shine
 network
@@ -78,34 +78,34 @@ glow
 retire
 van
 actor |  
-| bip_39_word_new_line2 | struggle
+| bip_39_word_new_line_2 | struggle
 unusual |  
-| bip_39_word_new_line3 | struggle
+| bip_39_word_new_line_3 | struggle
 unusual
 shine |  
-| bip_39_word_new_line4 | struggle
+| bip_39_word_new_line_4 | struggle
 unusual
 shine
 network |  
-| bip_39_word_new_line5 | struggle
+| bip_39_word_new_line_5 | struggle
 unusual
 shine
 network
 check |  
-| bip_39_word_new_line6 | struggle
+| bip_39_word_new_line_6 | struggle
 unusual
 shine
 network
 check
 school |  
-| bip_39_word_new_line7 | struggle
+| bip_39_word_new_line_7 | struggle
 unusual
 shine
 network
 check
 school
 alpha |  
-| bip_39_word_new_line8 | struggle
+| bip_39_word_new_line_8 | struggle
 unusual
 shine
 network
@@ -113,7 +113,7 @@ check
 school
 alpha
 round |  
-| bip_39_word_new_line9 | struggle
+| bip_39_word_new_line_9 | struggle
 unusual
 shine
 network

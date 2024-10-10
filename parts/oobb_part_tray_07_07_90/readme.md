@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | combine |  
-| bip_39_word_new_br10 | combine<br>become<br>pepper<br>dynamic<br>train<br>adult<br>garage<br>gift<br>sponsor<br>rural |  
-| bip_39_word_new_br11 | combine<br>become<br>pepper<br>dynamic<br>train<br>adult<br>garage<br>gift<br>sponsor<br>rural<br>lake |  
-| bip_39_word_new_br12 | combine<br>become<br>pepper<br>dynamic<br>train<br>adult<br>garage<br>gift<br>sponsor<br>rural<br>lake<br>alpha |  
-| bip_39_word_new_br2 | combine<br>become |  
-| bip_39_word_new_br3 | combine<br>become<br>pepper |  
-| bip_39_word_new_br4 | combine<br>become<br>pepper<br>dynamic |  
-| bip_39_word_new_br5 | combine<br>become<br>pepper<br>dynamic<br>train |  
-| bip_39_word_new_br6 | combine<br>become<br>pepper<br>dynamic<br>train<br>adult |  
-| bip_39_word_new_br7 | combine<br>become<br>pepper<br>dynamic<br>train<br>adult<br>garage |  
-| bip_39_word_new_br8 | combine<br>become<br>pepper<br>dynamic<br>train<br>adult<br>garage<br>gift |  
-| bip_39_word_new_br9 | combine<br>become<br>pepper<br>dynamic<br>train<br>adult<br>garage<br>gift<br>sponsor |  
-| bip_39_word_new_line1 | combine |  
-| bip_39_word_new_line10 | combine
+| bip_39_word_new_br_1 | combine |  
+| bip_39_word_new_br_10 | combine<br>become<br>pepper<br>dynamic<br>train<br>adult<br>garage<br>gift<br>sponsor<br>rural |  
+| bip_39_word_new_br_11 | combine<br>become<br>pepper<br>dynamic<br>train<br>adult<br>garage<br>gift<br>sponsor<br>rural<br>lake |  
+| bip_39_word_new_br_12 | combine<br>become<br>pepper<br>dynamic<br>train<br>adult<br>garage<br>gift<br>sponsor<br>rural<br>lake<br>alpha |  
+| bip_39_word_new_br_2 | combine<br>become |  
+| bip_39_word_new_br_3 | combine<br>become<br>pepper |  
+| bip_39_word_new_br_4 | combine<br>become<br>pepper<br>dynamic |  
+| bip_39_word_new_br_5 | combine<br>become<br>pepper<br>dynamic<br>train |  
+| bip_39_word_new_br_6 | combine<br>become<br>pepper<br>dynamic<br>train<br>adult |  
+| bip_39_word_new_br_7 | combine<br>become<br>pepper<br>dynamic<br>train<br>adult<br>garage |  
+| bip_39_word_new_br_8 | combine<br>become<br>pepper<br>dynamic<br>train<br>adult<br>garage<br>gift |  
+| bip_39_word_new_br_9 | combine<br>become<br>pepper<br>dynamic<br>train<br>adult<br>garage<br>gift<br>sponsor |  
+| bip_39_word_new_line_1 | combine |  
+| bip_39_word_new_line_10 | combine
 become
 pepper
 dynamic
@@ -55,7 +55,7 @@ garage
 gift
 sponsor
 rural |  
-| bip_39_word_new_line11 | combine
+| bip_39_word_new_line_11 | combine
 become
 pepper
 dynamic
@@ -66,7 +66,7 @@ gift
 sponsor
 rural
 lake |  
-| bip_39_word_new_line12 | combine
+| bip_39_word_new_line_12 | combine
 become
 pepper
 dynamic
@@ -78,34 +78,34 @@ sponsor
 rural
 lake
 alpha |  
-| bip_39_word_new_line2 | combine
+| bip_39_word_new_line_2 | combine
 become |  
-| bip_39_word_new_line3 | combine
+| bip_39_word_new_line_3 | combine
 become
 pepper |  
-| bip_39_word_new_line4 | combine
+| bip_39_word_new_line_4 | combine
 become
 pepper
 dynamic |  
-| bip_39_word_new_line5 | combine
+| bip_39_word_new_line_5 | combine
 become
 pepper
 dynamic
 train |  
-| bip_39_word_new_line6 | combine
+| bip_39_word_new_line_6 | combine
 become
 pepper
 dynamic
 train
 adult |  
-| bip_39_word_new_line7 | combine
+| bip_39_word_new_line_7 | combine
 become
 pepper
 dynamic
 train
 adult
 garage |  
-| bip_39_word_new_line8 | combine
+| bip_39_word_new_line_8 | combine
 become
 pepper
 dynamic
@@ -113,7 +113,7 @@ train
 adult
 garage
 gift |  
-| bip_39_word_new_line9 | combine
+| bip_39_word_new_line_9 | combine
 become
 pepper
 dynamic

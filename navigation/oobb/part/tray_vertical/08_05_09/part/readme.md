@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ahead |  
-| bip_39_word_new_br10 | ahead<br>kind<br>write<br>chapter<br>husband<br>view<br>despair<br>runway<br>bean<br>system |  
-| bip_39_word_new_br11 | ahead<br>kind<br>write<br>chapter<br>husband<br>view<br>despair<br>runway<br>bean<br>system<br>polar |  
-| bip_39_word_new_br12 | ahead<br>kind<br>write<br>chapter<br>husband<br>view<br>despair<br>runway<br>bean<br>system<br>polar<br>already |  
-| bip_39_word_new_br2 | ahead<br>kind |  
-| bip_39_word_new_br3 | ahead<br>kind<br>write |  
-| bip_39_word_new_br4 | ahead<br>kind<br>write<br>chapter |  
-| bip_39_word_new_br5 | ahead<br>kind<br>write<br>chapter<br>husband |  
-| bip_39_word_new_br6 | ahead<br>kind<br>write<br>chapter<br>husband<br>view |  
-| bip_39_word_new_br7 | ahead<br>kind<br>write<br>chapter<br>husband<br>view<br>despair |  
-| bip_39_word_new_br8 | ahead<br>kind<br>write<br>chapter<br>husband<br>view<br>despair<br>runway |  
-| bip_39_word_new_br9 | ahead<br>kind<br>write<br>chapter<br>husband<br>view<br>despair<br>runway<br>bean |  
-| bip_39_word_new_line1 | ahead |  
-| bip_39_word_new_line10 | ahead
+| bip_39_word_new_br_1 | ahead |  
+| bip_39_word_new_br_10 | ahead<br>kind<br>write<br>chapter<br>husband<br>view<br>despair<br>runway<br>bean<br>system |  
+| bip_39_word_new_br_11 | ahead<br>kind<br>write<br>chapter<br>husband<br>view<br>despair<br>runway<br>bean<br>system<br>polar |  
+| bip_39_word_new_br_12 | ahead<br>kind<br>write<br>chapter<br>husband<br>view<br>despair<br>runway<br>bean<br>system<br>polar<br>already |  
+| bip_39_word_new_br_2 | ahead<br>kind |  
+| bip_39_word_new_br_3 | ahead<br>kind<br>write |  
+| bip_39_word_new_br_4 | ahead<br>kind<br>write<br>chapter |  
+| bip_39_word_new_br_5 | ahead<br>kind<br>write<br>chapter<br>husband |  
+| bip_39_word_new_br_6 | ahead<br>kind<br>write<br>chapter<br>husband<br>view |  
+| bip_39_word_new_br_7 | ahead<br>kind<br>write<br>chapter<br>husband<br>view<br>despair |  
+| bip_39_word_new_br_8 | ahead<br>kind<br>write<br>chapter<br>husband<br>view<br>despair<br>runway |  
+| bip_39_word_new_br_9 | ahead<br>kind<br>write<br>chapter<br>husband<br>view<br>despair<br>runway<br>bean |  
+| bip_39_word_new_line_1 | ahead |  
+| bip_39_word_new_line_10 | ahead
 kind
 write
 chapter
@@ -55,7 +55,7 @@ despair
 runway
 bean
 system |  
-| bip_39_word_new_line11 | ahead
+| bip_39_word_new_line_11 | ahead
 kind
 write
 chapter
@@ -66,7 +66,7 @@ runway
 bean
 system
 polar |  
-| bip_39_word_new_line12 | ahead
+| bip_39_word_new_line_12 | ahead
 kind
 write
 chapter
@@ -78,34 +78,34 @@ bean
 system
 polar
 already |  
-| bip_39_word_new_line2 | ahead
+| bip_39_word_new_line_2 | ahead
 kind |  
-| bip_39_word_new_line3 | ahead
+| bip_39_word_new_line_3 | ahead
 kind
 write |  
-| bip_39_word_new_line4 | ahead
+| bip_39_word_new_line_4 | ahead
 kind
 write
 chapter |  
-| bip_39_word_new_line5 | ahead
+| bip_39_word_new_line_5 | ahead
 kind
 write
 chapter
 husband |  
-| bip_39_word_new_line6 | ahead
+| bip_39_word_new_line_6 | ahead
 kind
 write
 chapter
 husband
 view |  
-| bip_39_word_new_line7 | ahead
+| bip_39_word_new_line_7 | ahead
 kind
 write
 chapter
 husband
 view
 despair |  
-| bip_39_word_new_line8 | ahead
+| bip_39_word_new_line_8 | ahead
 kind
 write
 chapter
@@ -113,7 +113,7 @@ husband
 view
 despair
 runway |  
-| bip_39_word_new_line9 | ahead
+| bip_39_word_new_line_9 | ahead
 kind
 write
 chapter

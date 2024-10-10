@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sorry |  
-| bip_39_word_new_br10 | sorry<br>camera<br>nephew<br>quit<br>enjoy<br>pelican<br>stone<br>vital<br>attract<br>basket |  
-| bip_39_word_new_br11 | sorry<br>camera<br>nephew<br>quit<br>enjoy<br>pelican<br>stone<br>vital<br>attract<br>basket<br>excite |  
-| bip_39_word_new_br12 | sorry<br>camera<br>nephew<br>quit<br>enjoy<br>pelican<br>stone<br>vital<br>attract<br>basket<br>excite<br>august |  
-| bip_39_word_new_br2 | sorry<br>camera |  
-| bip_39_word_new_br3 | sorry<br>camera<br>nephew |  
-| bip_39_word_new_br4 | sorry<br>camera<br>nephew<br>quit |  
-| bip_39_word_new_br5 | sorry<br>camera<br>nephew<br>quit<br>enjoy |  
-| bip_39_word_new_br6 | sorry<br>camera<br>nephew<br>quit<br>enjoy<br>pelican |  
-| bip_39_word_new_br7 | sorry<br>camera<br>nephew<br>quit<br>enjoy<br>pelican<br>stone |  
-| bip_39_word_new_br8 | sorry<br>camera<br>nephew<br>quit<br>enjoy<br>pelican<br>stone<br>vital |  
-| bip_39_word_new_br9 | sorry<br>camera<br>nephew<br>quit<br>enjoy<br>pelican<br>stone<br>vital<br>attract |  
-| bip_39_word_new_line1 | sorry |  
-| bip_39_word_new_line10 | sorry
+| bip_39_word_new_br_1 | sorry |  
+| bip_39_word_new_br_10 | sorry<br>camera<br>nephew<br>quit<br>enjoy<br>pelican<br>stone<br>vital<br>attract<br>basket |  
+| bip_39_word_new_br_11 | sorry<br>camera<br>nephew<br>quit<br>enjoy<br>pelican<br>stone<br>vital<br>attract<br>basket<br>excite |  
+| bip_39_word_new_br_12 | sorry<br>camera<br>nephew<br>quit<br>enjoy<br>pelican<br>stone<br>vital<br>attract<br>basket<br>excite<br>august |  
+| bip_39_word_new_br_2 | sorry<br>camera |  
+| bip_39_word_new_br_3 | sorry<br>camera<br>nephew |  
+| bip_39_word_new_br_4 | sorry<br>camera<br>nephew<br>quit |  
+| bip_39_word_new_br_5 | sorry<br>camera<br>nephew<br>quit<br>enjoy |  
+| bip_39_word_new_br_6 | sorry<br>camera<br>nephew<br>quit<br>enjoy<br>pelican |  
+| bip_39_word_new_br_7 | sorry<br>camera<br>nephew<br>quit<br>enjoy<br>pelican<br>stone |  
+| bip_39_word_new_br_8 | sorry<br>camera<br>nephew<br>quit<br>enjoy<br>pelican<br>stone<br>vital |  
+| bip_39_word_new_br_9 | sorry<br>camera<br>nephew<br>quit<br>enjoy<br>pelican<br>stone<br>vital<br>attract |  
+| bip_39_word_new_line_1 | sorry |  
+| bip_39_word_new_line_10 | sorry
 camera
 nephew
 quit
@@ -55,7 +55,7 @@ stone
 vital
 attract
 basket |  
-| bip_39_word_new_line11 | sorry
+| bip_39_word_new_line_11 | sorry
 camera
 nephew
 quit
@@ -66,7 +66,7 @@ vital
 attract
 basket
 excite |  
-| bip_39_word_new_line12 | sorry
+| bip_39_word_new_line_12 | sorry
 camera
 nephew
 quit
@@ -78,34 +78,34 @@ attract
 basket
 excite
 august |  
-| bip_39_word_new_line2 | sorry
+| bip_39_word_new_line_2 | sorry
 camera |  
-| bip_39_word_new_line3 | sorry
+| bip_39_word_new_line_3 | sorry
 camera
 nephew |  
-| bip_39_word_new_line4 | sorry
+| bip_39_word_new_line_4 | sorry
 camera
 nephew
 quit |  
-| bip_39_word_new_line5 | sorry
+| bip_39_word_new_line_5 | sorry
 camera
 nephew
 quit
 enjoy |  
-| bip_39_word_new_line6 | sorry
+| bip_39_word_new_line_6 | sorry
 camera
 nephew
 quit
 enjoy
 pelican |  
-| bip_39_word_new_line7 | sorry
+| bip_39_word_new_line_7 | sorry
 camera
 nephew
 quit
 enjoy
 pelican
 stone |  
-| bip_39_word_new_line8 | sorry
+| bip_39_word_new_line_8 | sorry
 camera
 nephew
 quit
@@ -113,7 +113,7 @@ enjoy
 pelican
 stone
 vital |  
-| bip_39_word_new_line9 | sorry
+| bip_39_word_new_line_9 | sorry
 camera
 nephew
 quit

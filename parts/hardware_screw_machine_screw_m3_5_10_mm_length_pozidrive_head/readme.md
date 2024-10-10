@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | prepare |  
-| bip_39_word_new_br10 | prepare<br>robust<br>noise<br>crew<br>fence<br>tonight<br>parrot<br>thank<br>clinic<br>cargo |  
-| bip_39_word_new_br11 | prepare<br>robust<br>noise<br>crew<br>fence<br>tonight<br>parrot<br>thank<br>clinic<br>cargo<br>easily |  
-| bip_39_word_new_br12 | prepare<br>robust<br>noise<br>crew<br>fence<br>tonight<br>parrot<br>thank<br>clinic<br>cargo<br>easily<br>attend |  
-| bip_39_word_new_br2 | prepare<br>robust |  
-| bip_39_word_new_br3 | prepare<br>robust<br>noise |  
-| bip_39_word_new_br4 | prepare<br>robust<br>noise<br>crew |  
-| bip_39_word_new_br5 | prepare<br>robust<br>noise<br>crew<br>fence |  
-| bip_39_word_new_br6 | prepare<br>robust<br>noise<br>crew<br>fence<br>tonight |  
-| bip_39_word_new_br7 | prepare<br>robust<br>noise<br>crew<br>fence<br>tonight<br>parrot |  
-| bip_39_word_new_br8 | prepare<br>robust<br>noise<br>crew<br>fence<br>tonight<br>parrot<br>thank |  
-| bip_39_word_new_br9 | prepare<br>robust<br>noise<br>crew<br>fence<br>tonight<br>parrot<br>thank<br>clinic |  
-| bip_39_word_new_line1 | prepare |  
-| bip_39_word_new_line10 | prepare
+| bip_39_word_new_br_1 | prepare |  
+| bip_39_word_new_br_10 | prepare<br>robust<br>noise<br>crew<br>fence<br>tonight<br>parrot<br>thank<br>clinic<br>cargo |  
+| bip_39_word_new_br_11 | prepare<br>robust<br>noise<br>crew<br>fence<br>tonight<br>parrot<br>thank<br>clinic<br>cargo<br>easily |  
+| bip_39_word_new_br_12 | prepare<br>robust<br>noise<br>crew<br>fence<br>tonight<br>parrot<br>thank<br>clinic<br>cargo<br>easily<br>attend |  
+| bip_39_word_new_br_2 | prepare<br>robust |  
+| bip_39_word_new_br_3 | prepare<br>robust<br>noise |  
+| bip_39_word_new_br_4 | prepare<br>robust<br>noise<br>crew |  
+| bip_39_word_new_br_5 | prepare<br>robust<br>noise<br>crew<br>fence |  
+| bip_39_word_new_br_6 | prepare<br>robust<br>noise<br>crew<br>fence<br>tonight |  
+| bip_39_word_new_br_7 | prepare<br>robust<br>noise<br>crew<br>fence<br>tonight<br>parrot |  
+| bip_39_word_new_br_8 | prepare<br>robust<br>noise<br>crew<br>fence<br>tonight<br>parrot<br>thank |  
+| bip_39_word_new_br_9 | prepare<br>robust<br>noise<br>crew<br>fence<br>tonight<br>parrot<br>thank<br>clinic |  
+| bip_39_word_new_line_1 | prepare |  
+| bip_39_word_new_line_10 | prepare
 robust
 noise
 crew
@@ -55,7 +55,7 @@ parrot
 thank
 clinic
 cargo |  
-| bip_39_word_new_line11 | prepare
+| bip_39_word_new_line_11 | prepare
 robust
 noise
 crew
@@ -66,7 +66,7 @@ thank
 clinic
 cargo
 easily |  
-| bip_39_word_new_line12 | prepare
+| bip_39_word_new_line_12 | prepare
 robust
 noise
 crew
@@ -78,34 +78,34 @@ clinic
 cargo
 easily
 attend |  
-| bip_39_word_new_line2 | prepare
+| bip_39_word_new_line_2 | prepare
 robust |  
-| bip_39_word_new_line3 | prepare
+| bip_39_word_new_line_3 | prepare
 robust
 noise |  
-| bip_39_word_new_line4 | prepare
+| bip_39_word_new_line_4 | prepare
 robust
 noise
 crew |  
-| bip_39_word_new_line5 | prepare
+| bip_39_word_new_line_5 | prepare
 robust
 noise
 crew
 fence |  
-| bip_39_word_new_line6 | prepare
+| bip_39_word_new_line_6 | prepare
 robust
 noise
 crew
 fence
 tonight |  
-| bip_39_word_new_line7 | prepare
+| bip_39_word_new_line_7 | prepare
 robust
 noise
 crew
 fence
 tonight
 parrot |  
-| bip_39_word_new_line8 | prepare
+| bip_39_word_new_line_8 | prepare
 robust
 noise
 crew
@@ -113,7 +113,7 @@ fence
 tonight
 parrot
 thank |  
-| bip_39_word_new_line9 | prepare
+| bip_39_word_new_line_9 | prepare
 robust
 noise
 crew

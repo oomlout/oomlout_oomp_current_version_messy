@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | nephew |  
-| bip_39_word_new_br10 | nephew<br>thrive<br>poverty<br>coil<br>earth<br>tornado<br>before<br>decorate<br>jelly<br>notice |  
-| bip_39_word_new_br11 | nephew<br>thrive<br>poverty<br>coil<br>earth<br>tornado<br>before<br>decorate<br>jelly<br>notice<br>wasp |  
-| bip_39_word_new_br12 | nephew<br>thrive<br>poverty<br>coil<br>earth<br>tornado<br>before<br>decorate<br>jelly<br>notice<br>wasp<br>ask |  
-| bip_39_word_new_br2 | nephew<br>thrive |  
-| bip_39_word_new_br3 | nephew<br>thrive<br>poverty |  
-| bip_39_word_new_br4 | nephew<br>thrive<br>poverty<br>coil |  
-| bip_39_word_new_br5 | nephew<br>thrive<br>poverty<br>coil<br>earth |  
-| bip_39_word_new_br6 | nephew<br>thrive<br>poverty<br>coil<br>earth<br>tornado |  
-| bip_39_word_new_br7 | nephew<br>thrive<br>poverty<br>coil<br>earth<br>tornado<br>before |  
-| bip_39_word_new_br8 | nephew<br>thrive<br>poverty<br>coil<br>earth<br>tornado<br>before<br>decorate |  
-| bip_39_word_new_br9 | nephew<br>thrive<br>poverty<br>coil<br>earth<br>tornado<br>before<br>decorate<br>jelly |  
-| bip_39_word_new_line1 | nephew |  
-| bip_39_word_new_line10 | nephew
+| bip_39_word_new_br_1 | nephew |  
+| bip_39_word_new_br_10 | nephew<br>thrive<br>poverty<br>coil<br>earth<br>tornado<br>before<br>decorate<br>jelly<br>notice |  
+| bip_39_word_new_br_11 | nephew<br>thrive<br>poverty<br>coil<br>earth<br>tornado<br>before<br>decorate<br>jelly<br>notice<br>wasp |  
+| bip_39_word_new_br_12 | nephew<br>thrive<br>poverty<br>coil<br>earth<br>tornado<br>before<br>decorate<br>jelly<br>notice<br>wasp<br>ask |  
+| bip_39_word_new_br_2 | nephew<br>thrive |  
+| bip_39_word_new_br_3 | nephew<br>thrive<br>poverty |  
+| bip_39_word_new_br_4 | nephew<br>thrive<br>poverty<br>coil |  
+| bip_39_word_new_br_5 | nephew<br>thrive<br>poverty<br>coil<br>earth |  
+| bip_39_word_new_br_6 | nephew<br>thrive<br>poverty<br>coil<br>earth<br>tornado |  
+| bip_39_word_new_br_7 | nephew<br>thrive<br>poverty<br>coil<br>earth<br>tornado<br>before |  
+| bip_39_word_new_br_8 | nephew<br>thrive<br>poverty<br>coil<br>earth<br>tornado<br>before<br>decorate |  
+| bip_39_word_new_br_9 | nephew<br>thrive<br>poverty<br>coil<br>earth<br>tornado<br>before<br>decorate<br>jelly |  
+| bip_39_word_new_line_1 | nephew |  
+| bip_39_word_new_line_10 | nephew
 thrive
 poverty
 coil
@@ -55,7 +55,7 @@ before
 decorate
 jelly
 notice |  
-| bip_39_word_new_line11 | nephew
+| bip_39_word_new_line_11 | nephew
 thrive
 poverty
 coil
@@ -66,7 +66,7 @@ decorate
 jelly
 notice
 wasp |  
-| bip_39_word_new_line12 | nephew
+| bip_39_word_new_line_12 | nephew
 thrive
 poverty
 coil
@@ -78,34 +78,34 @@ jelly
 notice
 wasp
 ask |  
-| bip_39_word_new_line2 | nephew
+| bip_39_word_new_line_2 | nephew
 thrive |  
-| bip_39_word_new_line3 | nephew
+| bip_39_word_new_line_3 | nephew
 thrive
 poverty |  
-| bip_39_word_new_line4 | nephew
+| bip_39_word_new_line_4 | nephew
 thrive
 poverty
 coil |  
-| bip_39_word_new_line5 | nephew
+| bip_39_word_new_line_5 | nephew
 thrive
 poverty
 coil
 earth |  
-| bip_39_word_new_line6 | nephew
+| bip_39_word_new_line_6 | nephew
 thrive
 poverty
 coil
 earth
 tornado |  
-| bip_39_word_new_line7 | nephew
+| bip_39_word_new_line_7 | nephew
 thrive
 poverty
 coil
 earth
 tornado
 before |  
-| bip_39_word_new_line8 | nephew
+| bip_39_word_new_line_8 | nephew
 thrive
 poverty
 coil
@@ -113,7 +113,7 @@ earth
 tornado
 before
 decorate |  
-| bip_39_word_new_line9 | nephew
+| bip_39_word_new_line_9 | nephew
 thrive
 poverty
 coil

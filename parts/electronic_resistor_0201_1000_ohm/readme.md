@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | south |  
-| bip_39_word_new_br10 | south<br>medal<br>core<br>wear<br>melody<br>accident<br>razor<br>deliver<br>pact<br>humor |  
-| bip_39_word_new_br11 | south<br>medal<br>core<br>wear<br>melody<br>accident<br>razor<br>deliver<br>pact<br>humor<br>panda |  
-| bip_39_word_new_br12 | south<br>medal<br>core<br>wear<br>melody<br>accident<br>razor<br>deliver<br>pact<br>humor<br>panda<br>amazing |  
-| bip_39_word_new_br2 | south<br>medal |  
-| bip_39_word_new_br3 | south<br>medal<br>core |  
-| bip_39_word_new_br4 | south<br>medal<br>core<br>wear |  
-| bip_39_word_new_br5 | south<br>medal<br>core<br>wear<br>melody |  
-| bip_39_word_new_br6 | south<br>medal<br>core<br>wear<br>melody<br>accident |  
-| bip_39_word_new_br7 | south<br>medal<br>core<br>wear<br>melody<br>accident<br>razor |  
-| bip_39_word_new_br8 | south<br>medal<br>core<br>wear<br>melody<br>accident<br>razor<br>deliver |  
-| bip_39_word_new_br9 | south<br>medal<br>core<br>wear<br>melody<br>accident<br>razor<br>deliver<br>pact |  
-| bip_39_word_new_line1 | south |  
-| bip_39_word_new_line10 | south
+| bip_39_word_new_br_1 | south |  
+| bip_39_word_new_br_10 | south<br>medal<br>core<br>wear<br>melody<br>accident<br>razor<br>deliver<br>pact<br>humor |  
+| bip_39_word_new_br_11 | south<br>medal<br>core<br>wear<br>melody<br>accident<br>razor<br>deliver<br>pact<br>humor<br>panda |  
+| bip_39_word_new_br_12 | south<br>medal<br>core<br>wear<br>melody<br>accident<br>razor<br>deliver<br>pact<br>humor<br>panda<br>amazing |  
+| bip_39_word_new_br_2 | south<br>medal |  
+| bip_39_word_new_br_3 | south<br>medal<br>core |  
+| bip_39_word_new_br_4 | south<br>medal<br>core<br>wear |  
+| bip_39_word_new_br_5 | south<br>medal<br>core<br>wear<br>melody |  
+| bip_39_word_new_br_6 | south<br>medal<br>core<br>wear<br>melody<br>accident |  
+| bip_39_word_new_br_7 | south<br>medal<br>core<br>wear<br>melody<br>accident<br>razor |  
+| bip_39_word_new_br_8 | south<br>medal<br>core<br>wear<br>melody<br>accident<br>razor<br>deliver |  
+| bip_39_word_new_br_9 | south<br>medal<br>core<br>wear<br>melody<br>accident<br>razor<br>deliver<br>pact |  
+| bip_39_word_new_line_1 | south |  
+| bip_39_word_new_line_10 | south
 medal
 core
 wear
@@ -55,7 +55,7 @@ razor
 deliver
 pact
 humor |  
-| bip_39_word_new_line11 | south
+| bip_39_word_new_line_11 | south
 medal
 core
 wear
@@ -66,7 +66,7 @@ deliver
 pact
 humor
 panda |  
-| bip_39_word_new_line12 | south
+| bip_39_word_new_line_12 | south
 medal
 core
 wear
@@ -78,34 +78,34 @@ pact
 humor
 panda
 amazing |  
-| bip_39_word_new_line2 | south
+| bip_39_word_new_line_2 | south
 medal |  
-| bip_39_word_new_line3 | south
+| bip_39_word_new_line_3 | south
 medal
 core |  
-| bip_39_word_new_line4 | south
+| bip_39_word_new_line_4 | south
 medal
 core
 wear |  
-| bip_39_word_new_line5 | south
+| bip_39_word_new_line_5 | south
 medal
 core
 wear
 melody |  
-| bip_39_word_new_line6 | south
+| bip_39_word_new_line_6 | south
 medal
 core
 wear
 melody
 accident |  
-| bip_39_word_new_line7 | south
+| bip_39_word_new_line_7 | south
 medal
 core
 wear
 melody
 accident
 razor |  
-| bip_39_word_new_line8 | south
+| bip_39_word_new_line_8 | south
 medal
 core
 wear
@@ -113,7 +113,7 @@ melody
 accident
 razor
 deliver |  
-| bip_39_word_new_line9 | south
+| bip_39_word_new_line_9 | south
 medal
 core
 wear

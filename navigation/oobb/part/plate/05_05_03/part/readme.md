@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | attack |  
-| bip_39_word_new_br10 | attack<br>park<br>elephant<br>piano<br>wisdom<br>ivory<br>discover<br>face<br>toilet<br>rent |  
-| bip_39_word_new_br11 | attack<br>park<br>elephant<br>piano<br>wisdom<br>ivory<br>discover<br>face<br>toilet<br>rent<br>attend |  
-| bip_39_word_new_br12 | attack<br>park<br>elephant<br>piano<br>wisdom<br>ivory<br>discover<br>face<br>toilet<br>rent<br>attend<br>alter |  
-| bip_39_word_new_br2 | attack<br>park |  
-| bip_39_word_new_br3 | attack<br>park<br>elephant |  
-| bip_39_word_new_br4 | attack<br>park<br>elephant<br>piano |  
-| bip_39_word_new_br5 | attack<br>park<br>elephant<br>piano<br>wisdom |  
-| bip_39_word_new_br6 | attack<br>park<br>elephant<br>piano<br>wisdom<br>ivory |  
-| bip_39_word_new_br7 | attack<br>park<br>elephant<br>piano<br>wisdom<br>ivory<br>discover |  
-| bip_39_word_new_br8 | attack<br>park<br>elephant<br>piano<br>wisdom<br>ivory<br>discover<br>face |  
-| bip_39_word_new_br9 | attack<br>park<br>elephant<br>piano<br>wisdom<br>ivory<br>discover<br>face<br>toilet |  
-| bip_39_word_new_line1 | attack |  
-| bip_39_word_new_line10 | attack
+| bip_39_word_new_br_1 | attack |  
+| bip_39_word_new_br_10 | attack<br>park<br>elephant<br>piano<br>wisdom<br>ivory<br>discover<br>face<br>toilet<br>rent |  
+| bip_39_word_new_br_11 | attack<br>park<br>elephant<br>piano<br>wisdom<br>ivory<br>discover<br>face<br>toilet<br>rent<br>attend |  
+| bip_39_word_new_br_12 | attack<br>park<br>elephant<br>piano<br>wisdom<br>ivory<br>discover<br>face<br>toilet<br>rent<br>attend<br>alter |  
+| bip_39_word_new_br_2 | attack<br>park |  
+| bip_39_word_new_br_3 | attack<br>park<br>elephant |  
+| bip_39_word_new_br_4 | attack<br>park<br>elephant<br>piano |  
+| bip_39_word_new_br_5 | attack<br>park<br>elephant<br>piano<br>wisdom |  
+| bip_39_word_new_br_6 | attack<br>park<br>elephant<br>piano<br>wisdom<br>ivory |  
+| bip_39_word_new_br_7 | attack<br>park<br>elephant<br>piano<br>wisdom<br>ivory<br>discover |  
+| bip_39_word_new_br_8 | attack<br>park<br>elephant<br>piano<br>wisdom<br>ivory<br>discover<br>face |  
+| bip_39_word_new_br_9 | attack<br>park<br>elephant<br>piano<br>wisdom<br>ivory<br>discover<br>face<br>toilet |  
+| bip_39_word_new_line_1 | attack |  
+| bip_39_word_new_line_10 | attack
 park
 elephant
 piano
@@ -55,7 +55,7 @@ discover
 face
 toilet
 rent |  
-| bip_39_word_new_line11 | attack
+| bip_39_word_new_line_11 | attack
 park
 elephant
 piano
@@ -66,7 +66,7 @@ face
 toilet
 rent
 attend |  
-| bip_39_word_new_line12 | attack
+| bip_39_word_new_line_12 | attack
 park
 elephant
 piano
@@ -78,34 +78,34 @@ toilet
 rent
 attend
 alter |  
-| bip_39_word_new_line2 | attack
+| bip_39_word_new_line_2 | attack
 park |  
-| bip_39_word_new_line3 | attack
+| bip_39_word_new_line_3 | attack
 park
 elephant |  
-| bip_39_word_new_line4 | attack
+| bip_39_word_new_line_4 | attack
 park
 elephant
 piano |  
-| bip_39_word_new_line5 | attack
+| bip_39_word_new_line_5 | attack
 park
 elephant
 piano
 wisdom |  
-| bip_39_word_new_line6 | attack
+| bip_39_word_new_line_6 | attack
 park
 elephant
 piano
 wisdom
 ivory |  
-| bip_39_word_new_line7 | attack
+| bip_39_word_new_line_7 | attack
 park
 elephant
 piano
 wisdom
 ivory
 discover |  
-| bip_39_word_new_line8 | attack
+| bip_39_word_new_line_8 | attack
 park
 elephant
 piano
@@ -113,7 +113,7 @@ wisdom
 ivory
 discover
 face |  
-| bip_39_word_new_line9 | attack
+| bip_39_word_new_line_9 | attack
 park
 elephant
 piano

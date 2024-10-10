@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | donor |  
-| bip_39_word_new_br10 | donor<br>duck<br>photo<br>solid<br>visual<br>ring<br>corn<br>release<br>salad<br>glue |  
-| bip_39_word_new_br11 | donor<br>duck<br>photo<br>solid<br>visual<br>ring<br>corn<br>release<br>salad<br>glue<br>demand |  
-| bip_39_word_new_br12 | donor<br>duck<br>photo<br>solid<br>visual<br>ring<br>corn<br>release<br>salad<br>glue<br>demand<br>artefact |  
-| bip_39_word_new_br2 | donor<br>duck |  
-| bip_39_word_new_br3 | donor<br>duck<br>photo |  
-| bip_39_word_new_br4 | donor<br>duck<br>photo<br>solid |  
-| bip_39_word_new_br5 | donor<br>duck<br>photo<br>solid<br>visual |  
-| bip_39_word_new_br6 | donor<br>duck<br>photo<br>solid<br>visual<br>ring |  
-| bip_39_word_new_br7 | donor<br>duck<br>photo<br>solid<br>visual<br>ring<br>corn |  
-| bip_39_word_new_br8 | donor<br>duck<br>photo<br>solid<br>visual<br>ring<br>corn<br>release |  
-| bip_39_word_new_br9 | donor<br>duck<br>photo<br>solid<br>visual<br>ring<br>corn<br>release<br>salad |  
-| bip_39_word_new_line1 | donor |  
-| bip_39_word_new_line10 | donor
+| bip_39_word_new_br_1 | donor |  
+| bip_39_word_new_br_10 | donor<br>duck<br>photo<br>solid<br>visual<br>ring<br>corn<br>release<br>salad<br>glue |  
+| bip_39_word_new_br_11 | donor<br>duck<br>photo<br>solid<br>visual<br>ring<br>corn<br>release<br>salad<br>glue<br>demand |  
+| bip_39_word_new_br_12 | donor<br>duck<br>photo<br>solid<br>visual<br>ring<br>corn<br>release<br>salad<br>glue<br>demand<br>artefact |  
+| bip_39_word_new_br_2 | donor<br>duck |  
+| bip_39_word_new_br_3 | donor<br>duck<br>photo |  
+| bip_39_word_new_br_4 | donor<br>duck<br>photo<br>solid |  
+| bip_39_word_new_br_5 | donor<br>duck<br>photo<br>solid<br>visual |  
+| bip_39_word_new_br_6 | donor<br>duck<br>photo<br>solid<br>visual<br>ring |  
+| bip_39_word_new_br_7 | donor<br>duck<br>photo<br>solid<br>visual<br>ring<br>corn |  
+| bip_39_word_new_br_8 | donor<br>duck<br>photo<br>solid<br>visual<br>ring<br>corn<br>release |  
+| bip_39_word_new_br_9 | donor<br>duck<br>photo<br>solid<br>visual<br>ring<br>corn<br>release<br>salad |  
+| bip_39_word_new_line_1 | donor |  
+| bip_39_word_new_line_10 | donor
 duck
 photo
 solid
@@ -55,7 +55,7 @@ corn
 release
 salad
 glue |  
-| bip_39_word_new_line11 | donor
+| bip_39_word_new_line_11 | donor
 duck
 photo
 solid
@@ -66,7 +66,7 @@ release
 salad
 glue
 demand |  
-| bip_39_word_new_line12 | donor
+| bip_39_word_new_line_12 | donor
 duck
 photo
 solid
@@ -78,34 +78,34 @@ salad
 glue
 demand
 artefact |  
-| bip_39_word_new_line2 | donor
+| bip_39_word_new_line_2 | donor
 duck |  
-| bip_39_word_new_line3 | donor
+| bip_39_word_new_line_3 | donor
 duck
 photo |  
-| bip_39_word_new_line4 | donor
+| bip_39_word_new_line_4 | donor
 duck
 photo
 solid |  
-| bip_39_word_new_line5 | donor
+| bip_39_word_new_line_5 | donor
 duck
 photo
 solid
 visual |  
-| bip_39_word_new_line6 | donor
+| bip_39_word_new_line_6 | donor
 duck
 photo
 solid
 visual
 ring |  
-| bip_39_word_new_line7 | donor
+| bip_39_word_new_line_7 | donor
 duck
 photo
 solid
 visual
 ring
 corn |  
-| bip_39_word_new_line8 | donor
+| bip_39_word_new_line_8 | donor
 duck
 photo
 solid
@@ -113,7 +113,7 @@ visual
 ring
 corn
 release |  
-| bip_39_word_new_line9 | donor
+| bip_39_word_new_line_9 | donor
 duck
 photo
 solid

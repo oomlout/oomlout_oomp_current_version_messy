@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | army |  
-| bip_39_word_new_br10 | army<br>ribbon<br>sing<br>bridge<br>way<br>essence<br>siege<br>wet<br>almost<br>party |  
-| bip_39_word_new_br11 | army<br>ribbon<br>sing<br>bridge<br>way<br>essence<br>siege<br>wet<br>almost<br>party<br>lesson |  
-| bip_39_word_new_br12 | army<br>ribbon<br>sing<br>bridge<br>way<br>essence<br>siege<br>wet<br>almost<br>party<br>lesson<br>arm |  
-| bip_39_word_new_br2 | army<br>ribbon |  
-| bip_39_word_new_br3 | army<br>ribbon<br>sing |  
-| bip_39_word_new_br4 | army<br>ribbon<br>sing<br>bridge |  
-| bip_39_word_new_br5 | army<br>ribbon<br>sing<br>bridge<br>way |  
-| bip_39_word_new_br6 | army<br>ribbon<br>sing<br>bridge<br>way<br>essence |  
-| bip_39_word_new_br7 | army<br>ribbon<br>sing<br>bridge<br>way<br>essence<br>siege |  
-| bip_39_word_new_br8 | army<br>ribbon<br>sing<br>bridge<br>way<br>essence<br>siege<br>wet |  
-| bip_39_word_new_br9 | army<br>ribbon<br>sing<br>bridge<br>way<br>essence<br>siege<br>wet<br>almost |  
-| bip_39_word_new_line1 | army |  
-| bip_39_word_new_line10 | army
+| bip_39_word_new_br_1 | army |  
+| bip_39_word_new_br_10 | army<br>ribbon<br>sing<br>bridge<br>way<br>essence<br>siege<br>wet<br>almost<br>party |  
+| bip_39_word_new_br_11 | army<br>ribbon<br>sing<br>bridge<br>way<br>essence<br>siege<br>wet<br>almost<br>party<br>lesson |  
+| bip_39_word_new_br_12 | army<br>ribbon<br>sing<br>bridge<br>way<br>essence<br>siege<br>wet<br>almost<br>party<br>lesson<br>arm |  
+| bip_39_word_new_br_2 | army<br>ribbon |  
+| bip_39_word_new_br_3 | army<br>ribbon<br>sing |  
+| bip_39_word_new_br_4 | army<br>ribbon<br>sing<br>bridge |  
+| bip_39_word_new_br_5 | army<br>ribbon<br>sing<br>bridge<br>way |  
+| bip_39_word_new_br_6 | army<br>ribbon<br>sing<br>bridge<br>way<br>essence |  
+| bip_39_word_new_br_7 | army<br>ribbon<br>sing<br>bridge<br>way<br>essence<br>siege |  
+| bip_39_word_new_br_8 | army<br>ribbon<br>sing<br>bridge<br>way<br>essence<br>siege<br>wet |  
+| bip_39_word_new_br_9 | army<br>ribbon<br>sing<br>bridge<br>way<br>essence<br>siege<br>wet<br>almost |  
+| bip_39_word_new_line_1 | army |  
+| bip_39_word_new_line_10 | army
 ribbon
 sing
 bridge
@@ -55,7 +55,7 @@ siege
 wet
 almost
 party |  
-| bip_39_word_new_line11 | army
+| bip_39_word_new_line_11 | army
 ribbon
 sing
 bridge
@@ -66,7 +66,7 @@ wet
 almost
 party
 lesson |  
-| bip_39_word_new_line12 | army
+| bip_39_word_new_line_12 | army
 ribbon
 sing
 bridge
@@ -78,34 +78,34 @@ almost
 party
 lesson
 arm |  
-| bip_39_word_new_line2 | army
+| bip_39_word_new_line_2 | army
 ribbon |  
-| bip_39_word_new_line3 | army
+| bip_39_word_new_line_3 | army
 ribbon
 sing |  
-| bip_39_word_new_line4 | army
+| bip_39_word_new_line_4 | army
 ribbon
 sing
 bridge |  
-| bip_39_word_new_line5 | army
+| bip_39_word_new_line_5 | army
 ribbon
 sing
 bridge
 way |  
-| bip_39_word_new_line6 | army
+| bip_39_word_new_line_6 | army
 ribbon
 sing
 bridge
 way
 essence |  
-| bip_39_word_new_line7 | army
+| bip_39_word_new_line_7 | army
 ribbon
 sing
 bridge
 way
 essence
 siege |  
-| bip_39_word_new_line8 | army
+| bip_39_word_new_line_8 | army
 ribbon
 sing
 bridge
@@ -113,7 +113,7 @@ way
 essence
 siege
 wet |  
-| bip_39_word_new_line9 | army
+| bip_39_word_new_line_9 | army
 ribbon
 sing
 bridge

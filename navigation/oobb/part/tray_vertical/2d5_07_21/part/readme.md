@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | arm |  
-| bip_39_word_new_br10 | arm<br>door<br>guilt<br>secret<br>tray<br>funny<br>curtain<br>great<br>endless<br>giggle |  
-| bip_39_word_new_br11 | arm<br>door<br>guilt<br>secret<br>tray<br>funny<br>curtain<br>great<br>endless<br>giggle<br>earth |  
-| bip_39_word_new_br12 | arm<br>door<br>guilt<br>secret<br>tray<br>funny<br>curtain<br>great<br>endless<br>giggle<br>earth<br>amazing |  
-| bip_39_word_new_br2 | arm<br>door |  
-| bip_39_word_new_br3 | arm<br>door<br>guilt |  
-| bip_39_word_new_br4 | arm<br>door<br>guilt<br>secret |  
-| bip_39_word_new_br5 | arm<br>door<br>guilt<br>secret<br>tray |  
-| bip_39_word_new_br6 | arm<br>door<br>guilt<br>secret<br>tray<br>funny |  
-| bip_39_word_new_br7 | arm<br>door<br>guilt<br>secret<br>tray<br>funny<br>curtain |  
-| bip_39_word_new_br8 | arm<br>door<br>guilt<br>secret<br>tray<br>funny<br>curtain<br>great |  
-| bip_39_word_new_br9 | arm<br>door<br>guilt<br>secret<br>tray<br>funny<br>curtain<br>great<br>endless |  
-| bip_39_word_new_line1 | arm |  
-| bip_39_word_new_line10 | arm
+| bip_39_word_new_br_1 | arm |  
+| bip_39_word_new_br_10 | arm<br>door<br>guilt<br>secret<br>tray<br>funny<br>curtain<br>great<br>endless<br>giggle |  
+| bip_39_word_new_br_11 | arm<br>door<br>guilt<br>secret<br>tray<br>funny<br>curtain<br>great<br>endless<br>giggle<br>earth |  
+| bip_39_word_new_br_12 | arm<br>door<br>guilt<br>secret<br>tray<br>funny<br>curtain<br>great<br>endless<br>giggle<br>earth<br>amazing |  
+| bip_39_word_new_br_2 | arm<br>door |  
+| bip_39_word_new_br_3 | arm<br>door<br>guilt |  
+| bip_39_word_new_br_4 | arm<br>door<br>guilt<br>secret |  
+| bip_39_word_new_br_5 | arm<br>door<br>guilt<br>secret<br>tray |  
+| bip_39_word_new_br_6 | arm<br>door<br>guilt<br>secret<br>tray<br>funny |  
+| bip_39_word_new_br_7 | arm<br>door<br>guilt<br>secret<br>tray<br>funny<br>curtain |  
+| bip_39_word_new_br_8 | arm<br>door<br>guilt<br>secret<br>tray<br>funny<br>curtain<br>great |  
+| bip_39_word_new_br_9 | arm<br>door<br>guilt<br>secret<br>tray<br>funny<br>curtain<br>great<br>endless |  
+| bip_39_word_new_line_1 | arm |  
+| bip_39_word_new_line_10 | arm
 door
 guilt
 secret
@@ -55,7 +55,7 @@ curtain
 great
 endless
 giggle |  
-| bip_39_word_new_line11 | arm
+| bip_39_word_new_line_11 | arm
 door
 guilt
 secret
@@ -66,7 +66,7 @@ great
 endless
 giggle
 earth |  
-| bip_39_word_new_line12 | arm
+| bip_39_word_new_line_12 | arm
 door
 guilt
 secret
@@ -78,34 +78,34 @@ endless
 giggle
 earth
 amazing |  
-| bip_39_word_new_line2 | arm
+| bip_39_word_new_line_2 | arm
 door |  
-| bip_39_word_new_line3 | arm
+| bip_39_word_new_line_3 | arm
 door
 guilt |  
-| bip_39_word_new_line4 | arm
+| bip_39_word_new_line_4 | arm
 door
 guilt
 secret |  
-| bip_39_word_new_line5 | arm
+| bip_39_word_new_line_5 | arm
 door
 guilt
 secret
 tray |  
-| bip_39_word_new_line6 | arm
+| bip_39_word_new_line_6 | arm
 door
 guilt
 secret
 tray
 funny |  
-| bip_39_word_new_line7 | arm
+| bip_39_word_new_line_7 | arm
 door
 guilt
 secret
 tray
 funny
 curtain |  
-| bip_39_word_new_line8 | arm
+| bip_39_word_new_line_8 | arm
 door
 guilt
 secret
@@ -113,7 +113,7 @@ tray
 funny
 curtain
 great |  
-| bip_39_word_new_line9 | arm
+| bip_39_word_new_line_9 | arm
 door
 guilt
 secret

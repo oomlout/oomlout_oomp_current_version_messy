@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | position |  
-| bip_39_word_new_br10 | position<br>join<br>leg<br>record<br>benefit<br>reunion<br>keen<br>firm<br>warfare<br>much |  
-| bip_39_word_new_br11 | position<br>join<br>leg<br>record<br>benefit<br>reunion<br>keen<br>firm<br>warfare<br>much<br>world |  
-| bip_39_word_new_br12 | position<br>join<br>leg<br>record<br>benefit<br>reunion<br>keen<br>firm<br>warfare<br>much<br>world<br>amateur |  
-| bip_39_word_new_br2 | position<br>join |  
-| bip_39_word_new_br3 | position<br>join<br>leg |  
-| bip_39_word_new_br4 | position<br>join<br>leg<br>record |  
-| bip_39_word_new_br5 | position<br>join<br>leg<br>record<br>benefit |  
-| bip_39_word_new_br6 | position<br>join<br>leg<br>record<br>benefit<br>reunion |  
-| bip_39_word_new_br7 | position<br>join<br>leg<br>record<br>benefit<br>reunion<br>keen |  
-| bip_39_word_new_br8 | position<br>join<br>leg<br>record<br>benefit<br>reunion<br>keen<br>firm |  
-| bip_39_word_new_br9 | position<br>join<br>leg<br>record<br>benefit<br>reunion<br>keen<br>firm<br>warfare |  
-| bip_39_word_new_line1 | position |  
-| bip_39_word_new_line10 | position
+| bip_39_word_new_br_1 | position |  
+| bip_39_word_new_br_10 | position<br>join<br>leg<br>record<br>benefit<br>reunion<br>keen<br>firm<br>warfare<br>much |  
+| bip_39_word_new_br_11 | position<br>join<br>leg<br>record<br>benefit<br>reunion<br>keen<br>firm<br>warfare<br>much<br>world |  
+| bip_39_word_new_br_12 | position<br>join<br>leg<br>record<br>benefit<br>reunion<br>keen<br>firm<br>warfare<br>much<br>world<br>amateur |  
+| bip_39_word_new_br_2 | position<br>join |  
+| bip_39_word_new_br_3 | position<br>join<br>leg |  
+| bip_39_word_new_br_4 | position<br>join<br>leg<br>record |  
+| bip_39_word_new_br_5 | position<br>join<br>leg<br>record<br>benefit |  
+| bip_39_word_new_br_6 | position<br>join<br>leg<br>record<br>benefit<br>reunion |  
+| bip_39_word_new_br_7 | position<br>join<br>leg<br>record<br>benefit<br>reunion<br>keen |  
+| bip_39_word_new_br_8 | position<br>join<br>leg<br>record<br>benefit<br>reunion<br>keen<br>firm |  
+| bip_39_word_new_br_9 | position<br>join<br>leg<br>record<br>benefit<br>reunion<br>keen<br>firm<br>warfare |  
+| bip_39_word_new_line_1 | position |  
+| bip_39_word_new_line_10 | position
 join
 leg
 record
@@ -55,7 +55,7 @@ keen
 firm
 warfare
 much |  
-| bip_39_word_new_line11 | position
+| bip_39_word_new_line_11 | position
 join
 leg
 record
@@ -66,7 +66,7 @@ firm
 warfare
 much
 world |  
-| bip_39_word_new_line12 | position
+| bip_39_word_new_line_12 | position
 join
 leg
 record
@@ -78,34 +78,34 @@ warfare
 much
 world
 amateur |  
-| bip_39_word_new_line2 | position
+| bip_39_word_new_line_2 | position
 join |  
-| bip_39_word_new_line3 | position
+| bip_39_word_new_line_3 | position
 join
 leg |  
-| bip_39_word_new_line4 | position
+| bip_39_word_new_line_4 | position
 join
 leg
 record |  
-| bip_39_word_new_line5 | position
+| bip_39_word_new_line_5 | position
 join
 leg
 record
 benefit |  
-| bip_39_word_new_line6 | position
+| bip_39_word_new_line_6 | position
 join
 leg
 record
 benefit
 reunion |  
-| bip_39_word_new_line7 | position
+| bip_39_word_new_line_7 | position
 join
 leg
 record
 benefit
 reunion
 keen |  
-| bip_39_word_new_line8 | position
+| bip_39_word_new_line_8 | position
 join
 leg
 record
@@ -113,7 +113,7 @@ benefit
 reunion
 keen
 firm |  
-| bip_39_word_new_line9 | position
+| bip_39_word_new_line_9 | position
 join
 leg
 record

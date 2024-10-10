@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | buddy |  
-| bip_39_word_new_br10 | buddy<br>soda<br>mosquito<br>smile<br>domain<br>farm<br>radio<br>rookie<br>absorb<br>arch |  
-| bip_39_word_new_br11 | buddy<br>soda<br>mosquito<br>smile<br>domain<br>farm<br>radio<br>rookie<br>absorb<br>arch<br>stay |  
-| bip_39_word_new_br12 | buddy<br>soda<br>mosquito<br>smile<br>domain<br>farm<br>radio<br>rookie<br>absorb<br>arch<br>stay<br>adapt |  
-| bip_39_word_new_br2 | buddy<br>soda |  
-| bip_39_word_new_br3 | buddy<br>soda<br>mosquito |  
-| bip_39_word_new_br4 | buddy<br>soda<br>mosquito<br>smile |  
-| bip_39_word_new_br5 | buddy<br>soda<br>mosquito<br>smile<br>domain |  
-| bip_39_word_new_br6 | buddy<br>soda<br>mosquito<br>smile<br>domain<br>farm |  
-| bip_39_word_new_br7 | buddy<br>soda<br>mosquito<br>smile<br>domain<br>farm<br>radio |  
-| bip_39_word_new_br8 | buddy<br>soda<br>mosquito<br>smile<br>domain<br>farm<br>radio<br>rookie |  
-| bip_39_word_new_br9 | buddy<br>soda<br>mosquito<br>smile<br>domain<br>farm<br>radio<br>rookie<br>absorb |  
-| bip_39_word_new_line1 | buddy |  
-| bip_39_word_new_line10 | buddy
+| bip_39_word_new_br_1 | buddy |  
+| bip_39_word_new_br_10 | buddy<br>soda<br>mosquito<br>smile<br>domain<br>farm<br>radio<br>rookie<br>absorb<br>arch |  
+| bip_39_word_new_br_11 | buddy<br>soda<br>mosquito<br>smile<br>domain<br>farm<br>radio<br>rookie<br>absorb<br>arch<br>stay |  
+| bip_39_word_new_br_12 | buddy<br>soda<br>mosquito<br>smile<br>domain<br>farm<br>radio<br>rookie<br>absorb<br>arch<br>stay<br>adapt |  
+| bip_39_word_new_br_2 | buddy<br>soda |  
+| bip_39_word_new_br_3 | buddy<br>soda<br>mosquito |  
+| bip_39_word_new_br_4 | buddy<br>soda<br>mosquito<br>smile |  
+| bip_39_word_new_br_5 | buddy<br>soda<br>mosquito<br>smile<br>domain |  
+| bip_39_word_new_br_6 | buddy<br>soda<br>mosquito<br>smile<br>domain<br>farm |  
+| bip_39_word_new_br_7 | buddy<br>soda<br>mosquito<br>smile<br>domain<br>farm<br>radio |  
+| bip_39_word_new_br_8 | buddy<br>soda<br>mosquito<br>smile<br>domain<br>farm<br>radio<br>rookie |  
+| bip_39_word_new_br_9 | buddy<br>soda<br>mosquito<br>smile<br>domain<br>farm<br>radio<br>rookie<br>absorb |  
+| bip_39_word_new_line_1 | buddy |  
+| bip_39_word_new_line_10 | buddy
 soda
 mosquito
 smile
@@ -55,7 +55,7 @@ radio
 rookie
 absorb
 arch |  
-| bip_39_word_new_line11 | buddy
+| bip_39_word_new_line_11 | buddy
 soda
 mosquito
 smile
@@ -66,7 +66,7 @@ rookie
 absorb
 arch
 stay |  
-| bip_39_word_new_line12 | buddy
+| bip_39_word_new_line_12 | buddy
 soda
 mosquito
 smile
@@ -78,34 +78,34 @@ absorb
 arch
 stay
 adapt |  
-| bip_39_word_new_line2 | buddy
+| bip_39_word_new_line_2 | buddy
 soda |  
-| bip_39_word_new_line3 | buddy
+| bip_39_word_new_line_3 | buddy
 soda
 mosquito |  
-| bip_39_word_new_line4 | buddy
+| bip_39_word_new_line_4 | buddy
 soda
 mosquito
 smile |  
-| bip_39_word_new_line5 | buddy
+| bip_39_word_new_line_5 | buddy
 soda
 mosquito
 smile
 domain |  
-| bip_39_word_new_line6 | buddy
+| bip_39_word_new_line_6 | buddy
 soda
 mosquito
 smile
 domain
 farm |  
-| bip_39_word_new_line7 | buddy
+| bip_39_word_new_line_7 | buddy
 soda
 mosquito
 smile
 domain
 farm
 radio |  
-| bip_39_word_new_line8 | buddy
+| bip_39_word_new_line_8 | buddy
 soda
 mosquito
 smile
@@ -113,7 +113,7 @@ domain
 farm
 radio
 rookie |  
-| bip_39_word_new_line9 | buddy
+| bip_39_word_new_line_9 | buddy
 soda
 mosquito
 smile

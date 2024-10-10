@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | possible |  
-| bip_39_word_new_br10 | possible<br>industry<br>crush<br>invite<br>off<br>bulb<br>neither<br>husband<br>stairs<br>quiz |  
-| bip_39_word_new_br11 | possible<br>industry<br>crush<br>invite<br>off<br>bulb<br>neither<br>husband<br>stairs<br>quiz<br>bag |  
-| bip_39_word_new_br12 | possible<br>industry<br>crush<br>invite<br>off<br>bulb<br>neither<br>husband<br>stairs<br>quiz<br>bag<br>alone |  
-| bip_39_word_new_br2 | possible<br>industry |  
-| bip_39_word_new_br3 | possible<br>industry<br>crush |  
-| bip_39_word_new_br4 | possible<br>industry<br>crush<br>invite |  
-| bip_39_word_new_br5 | possible<br>industry<br>crush<br>invite<br>off |  
-| bip_39_word_new_br6 | possible<br>industry<br>crush<br>invite<br>off<br>bulb |  
-| bip_39_word_new_br7 | possible<br>industry<br>crush<br>invite<br>off<br>bulb<br>neither |  
-| bip_39_word_new_br8 | possible<br>industry<br>crush<br>invite<br>off<br>bulb<br>neither<br>husband |  
-| bip_39_word_new_br9 | possible<br>industry<br>crush<br>invite<br>off<br>bulb<br>neither<br>husband<br>stairs |  
-| bip_39_word_new_line1 | possible |  
-| bip_39_word_new_line10 | possible
+| bip_39_word_new_br_1 | possible |  
+| bip_39_word_new_br_10 | possible<br>industry<br>crush<br>invite<br>off<br>bulb<br>neither<br>husband<br>stairs<br>quiz |  
+| bip_39_word_new_br_11 | possible<br>industry<br>crush<br>invite<br>off<br>bulb<br>neither<br>husband<br>stairs<br>quiz<br>bag |  
+| bip_39_word_new_br_12 | possible<br>industry<br>crush<br>invite<br>off<br>bulb<br>neither<br>husband<br>stairs<br>quiz<br>bag<br>alone |  
+| bip_39_word_new_br_2 | possible<br>industry |  
+| bip_39_word_new_br_3 | possible<br>industry<br>crush |  
+| bip_39_word_new_br_4 | possible<br>industry<br>crush<br>invite |  
+| bip_39_word_new_br_5 | possible<br>industry<br>crush<br>invite<br>off |  
+| bip_39_word_new_br_6 | possible<br>industry<br>crush<br>invite<br>off<br>bulb |  
+| bip_39_word_new_br_7 | possible<br>industry<br>crush<br>invite<br>off<br>bulb<br>neither |  
+| bip_39_word_new_br_8 | possible<br>industry<br>crush<br>invite<br>off<br>bulb<br>neither<br>husband |  
+| bip_39_word_new_br_9 | possible<br>industry<br>crush<br>invite<br>off<br>bulb<br>neither<br>husband<br>stairs |  
+| bip_39_word_new_line_1 | possible |  
+| bip_39_word_new_line_10 | possible
 industry
 crush
 invite
@@ -55,7 +55,7 @@ neither
 husband
 stairs
 quiz |  
-| bip_39_word_new_line11 | possible
+| bip_39_word_new_line_11 | possible
 industry
 crush
 invite
@@ -66,7 +66,7 @@ husband
 stairs
 quiz
 bag |  
-| bip_39_word_new_line12 | possible
+| bip_39_word_new_line_12 | possible
 industry
 crush
 invite
@@ -78,34 +78,34 @@ stairs
 quiz
 bag
 alone |  
-| bip_39_word_new_line2 | possible
+| bip_39_word_new_line_2 | possible
 industry |  
-| bip_39_word_new_line3 | possible
+| bip_39_word_new_line_3 | possible
 industry
 crush |  
-| bip_39_word_new_line4 | possible
+| bip_39_word_new_line_4 | possible
 industry
 crush
 invite |  
-| bip_39_word_new_line5 | possible
+| bip_39_word_new_line_5 | possible
 industry
 crush
 invite
 off |  
-| bip_39_word_new_line6 | possible
+| bip_39_word_new_line_6 | possible
 industry
 crush
 invite
 off
 bulb |  
-| bip_39_word_new_line7 | possible
+| bip_39_word_new_line_7 | possible
 industry
 crush
 invite
 off
 bulb
 neither |  
-| bip_39_word_new_line8 | possible
+| bip_39_word_new_line_8 | possible
 industry
 crush
 invite
@@ -113,7 +113,7 @@ off
 bulb
 neither
 husband |  
-| bip_39_word_new_line9 | possible
+| bip_39_word_new_line_9 | possible
 industry
 crush
 invite

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | spread |  
-| bip_39_word_new_br10 | spread<br>marriage<br>era<br>kiss<br>possible<br>pause<br>math<br>analyst<br>soul<br>entire |  
-| bip_39_word_new_br11 | spread<br>marriage<br>era<br>kiss<br>possible<br>pause<br>math<br>analyst<br>soul<br>entire<br>unusual |  
-| bip_39_word_new_br12 | spread<br>marriage<br>era<br>kiss<br>possible<br>pause<br>math<br>analyst<br>soul<br>entire<br>unusual<br>april |  
-| bip_39_word_new_br2 | spread<br>marriage |  
-| bip_39_word_new_br3 | spread<br>marriage<br>era |  
-| bip_39_word_new_br4 | spread<br>marriage<br>era<br>kiss |  
-| bip_39_word_new_br5 | spread<br>marriage<br>era<br>kiss<br>possible |  
-| bip_39_word_new_br6 | spread<br>marriage<br>era<br>kiss<br>possible<br>pause |  
-| bip_39_word_new_br7 | spread<br>marriage<br>era<br>kiss<br>possible<br>pause<br>math |  
-| bip_39_word_new_br8 | spread<br>marriage<br>era<br>kiss<br>possible<br>pause<br>math<br>analyst |  
-| bip_39_word_new_br9 | spread<br>marriage<br>era<br>kiss<br>possible<br>pause<br>math<br>analyst<br>soul |  
-| bip_39_word_new_line1 | spread |  
-| bip_39_word_new_line10 | spread
+| bip_39_word_new_br_1 | spread |  
+| bip_39_word_new_br_10 | spread<br>marriage<br>era<br>kiss<br>possible<br>pause<br>math<br>analyst<br>soul<br>entire |  
+| bip_39_word_new_br_11 | spread<br>marriage<br>era<br>kiss<br>possible<br>pause<br>math<br>analyst<br>soul<br>entire<br>unusual |  
+| bip_39_word_new_br_12 | spread<br>marriage<br>era<br>kiss<br>possible<br>pause<br>math<br>analyst<br>soul<br>entire<br>unusual<br>april |  
+| bip_39_word_new_br_2 | spread<br>marriage |  
+| bip_39_word_new_br_3 | spread<br>marriage<br>era |  
+| bip_39_word_new_br_4 | spread<br>marriage<br>era<br>kiss |  
+| bip_39_word_new_br_5 | spread<br>marriage<br>era<br>kiss<br>possible |  
+| bip_39_word_new_br_6 | spread<br>marriage<br>era<br>kiss<br>possible<br>pause |  
+| bip_39_word_new_br_7 | spread<br>marriage<br>era<br>kiss<br>possible<br>pause<br>math |  
+| bip_39_word_new_br_8 | spread<br>marriage<br>era<br>kiss<br>possible<br>pause<br>math<br>analyst |  
+| bip_39_word_new_br_9 | spread<br>marriage<br>era<br>kiss<br>possible<br>pause<br>math<br>analyst<br>soul |  
+| bip_39_word_new_line_1 | spread |  
+| bip_39_word_new_line_10 | spread
 marriage
 era
 kiss
@@ -55,7 +55,7 @@ math
 analyst
 soul
 entire |  
-| bip_39_word_new_line11 | spread
+| bip_39_word_new_line_11 | spread
 marriage
 era
 kiss
@@ -66,7 +66,7 @@ analyst
 soul
 entire
 unusual |  
-| bip_39_word_new_line12 | spread
+| bip_39_word_new_line_12 | spread
 marriage
 era
 kiss
@@ -78,34 +78,34 @@ soul
 entire
 unusual
 april |  
-| bip_39_word_new_line2 | spread
+| bip_39_word_new_line_2 | spread
 marriage |  
-| bip_39_word_new_line3 | spread
+| bip_39_word_new_line_3 | spread
 marriage
 era |  
-| bip_39_word_new_line4 | spread
+| bip_39_word_new_line_4 | spread
 marriage
 era
 kiss |  
-| bip_39_word_new_line5 | spread
+| bip_39_word_new_line_5 | spread
 marriage
 era
 kiss
 possible |  
-| bip_39_word_new_line6 | spread
+| bip_39_word_new_line_6 | spread
 marriage
 era
 kiss
 possible
 pause |  
-| bip_39_word_new_line7 | spread
+| bip_39_word_new_line_7 | spread
 marriage
 era
 kiss
 possible
 pause
 math |  
-| bip_39_word_new_line8 | spread
+| bip_39_word_new_line_8 | spread
 marriage
 era
 kiss
@@ -113,7 +113,7 @@ possible
 pause
 math
 analyst |  
-| bip_39_word_new_line9 | spread
+| bip_39_word_new_line_9 | spread
 marriage
 era
 kiss

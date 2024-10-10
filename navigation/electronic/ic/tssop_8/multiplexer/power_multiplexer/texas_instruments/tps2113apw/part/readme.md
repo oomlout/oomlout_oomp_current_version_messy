@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | one |  
-| bip_39_word_new_br10 | one<br>weasel<br>caution<br>remove<br>explain<br>ancient<br>chicken<br>winter<br>usage<br>genuine |  
-| bip_39_word_new_br11 | one<br>weasel<br>caution<br>remove<br>explain<br>ancient<br>chicken<br>winter<br>usage<br>genuine<br>situate |  
-| bip_39_word_new_br12 | one<br>weasel<br>caution<br>remove<br>explain<br>ancient<br>chicken<br>winter<br>usage<br>genuine<br>situate<br>amazing |  
-| bip_39_word_new_br2 | one<br>weasel |  
-| bip_39_word_new_br3 | one<br>weasel<br>caution |  
-| bip_39_word_new_br4 | one<br>weasel<br>caution<br>remove |  
-| bip_39_word_new_br5 | one<br>weasel<br>caution<br>remove<br>explain |  
-| bip_39_word_new_br6 | one<br>weasel<br>caution<br>remove<br>explain<br>ancient |  
-| bip_39_word_new_br7 | one<br>weasel<br>caution<br>remove<br>explain<br>ancient<br>chicken |  
-| bip_39_word_new_br8 | one<br>weasel<br>caution<br>remove<br>explain<br>ancient<br>chicken<br>winter |  
-| bip_39_word_new_br9 | one<br>weasel<br>caution<br>remove<br>explain<br>ancient<br>chicken<br>winter<br>usage |  
-| bip_39_word_new_line1 | one |  
-| bip_39_word_new_line10 | one
+| bip_39_word_new_br_1 | one |  
+| bip_39_word_new_br_10 | one<br>weasel<br>caution<br>remove<br>explain<br>ancient<br>chicken<br>winter<br>usage<br>genuine |  
+| bip_39_word_new_br_11 | one<br>weasel<br>caution<br>remove<br>explain<br>ancient<br>chicken<br>winter<br>usage<br>genuine<br>situate |  
+| bip_39_word_new_br_12 | one<br>weasel<br>caution<br>remove<br>explain<br>ancient<br>chicken<br>winter<br>usage<br>genuine<br>situate<br>amazing |  
+| bip_39_word_new_br_2 | one<br>weasel |  
+| bip_39_word_new_br_3 | one<br>weasel<br>caution |  
+| bip_39_word_new_br_4 | one<br>weasel<br>caution<br>remove |  
+| bip_39_word_new_br_5 | one<br>weasel<br>caution<br>remove<br>explain |  
+| bip_39_word_new_br_6 | one<br>weasel<br>caution<br>remove<br>explain<br>ancient |  
+| bip_39_word_new_br_7 | one<br>weasel<br>caution<br>remove<br>explain<br>ancient<br>chicken |  
+| bip_39_word_new_br_8 | one<br>weasel<br>caution<br>remove<br>explain<br>ancient<br>chicken<br>winter |  
+| bip_39_word_new_br_9 | one<br>weasel<br>caution<br>remove<br>explain<br>ancient<br>chicken<br>winter<br>usage |  
+| bip_39_word_new_line_1 | one |  
+| bip_39_word_new_line_10 | one
 weasel
 caution
 remove
@@ -55,7 +55,7 @@ chicken
 winter
 usage
 genuine |  
-| bip_39_word_new_line11 | one
+| bip_39_word_new_line_11 | one
 weasel
 caution
 remove
@@ -66,7 +66,7 @@ winter
 usage
 genuine
 situate |  
-| bip_39_word_new_line12 | one
+| bip_39_word_new_line_12 | one
 weasel
 caution
 remove
@@ -78,34 +78,34 @@ usage
 genuine
 situate
 amazing |  
-| bip_39_word_new_line2 | one
+| bip_39_word_new_line_2 | one
 weasel |  
-| bip_39_word_new_line3 | one
+| bip_39_word_new_line_3 | one
 weasel
 caution |  
-| bip_39_word_new_line4 | one
+| bip_39_word_new_line_4 | one
 weasel
 caution
 remove |  
-| bip_39_word_new_line5 | one
+| bip_39_word_new_line_5 | one
 weasel
 caution
 remove
 explain |  
-| bip_39_word_new_line6 | one
+| bip_39_word_new_line_6 | one
 weasel
 caution
 remove
 explain
 ancient |  
-| bip_39_word_new_line7 | one
+| bip_39_word_new_line_7 | one
 weasel
 caution
 remove
 explain
 ancient
 chicken |  
-| bip_39_word_new_line8 | one
+| bip_39_word_new_line_8 | one
 weasel
 caution
 remove
@@ -113,7 +113,7 @@ explain
 ancient
 chicken
 winter |  
-| bip_39_word_new_line9 | one
+| bip_39_word_new_line_9 | one
 weasel
 caution
 remove

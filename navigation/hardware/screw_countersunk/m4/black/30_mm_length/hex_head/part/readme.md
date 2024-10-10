@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rigid |  
-| bip_39_word_new_br10 | rigid<br>suit<br>lens<br>small<br>topple<br>able<br>device<br>arrest<br>useful<br>useful |  
-| bip_39_word_new_br11 | rigid<br>suit<br>lens<br>small<br>topple<br>able<br>device<br>arrest<br>useful<br>useful<br>speak |  
-| bip_39_word_new_br12 | rigid<br>suit<br>lens<br>small<br>topple<br>able<br>device<br>arrest<br>useful<br>useful<br>speak<br>admit |  
-| bip_39_word_new_br2 | rigid<br>suit |  
-| bip_39_word_new_br3 | rigid<br>suit<br>lens |  
-| bip_39_word_new_br4 | rigid<br>suit<br>lens<br>small |  
-| bip_39_word_new_br5 | rigid<br>suit<br>lens<br>small<br>topple |  
-| bip_39_word_new_br6 | rigid<br>suit<br>lens<br>small<br>topple<br>able |  
-| bip_39_word_new_br7 | rigid<br>suit<br>lens<br>small<br>topple<br>able<br>device |  
-| bip_39_word_new_br8 | rigid<br>suit<br>lens<br>small<br>topple<br>able<br>device<br>arrest |  
-| bip_39_word_new_br9 | rigid<br>suit<br>lens<br>small<br>topple<br>able<br>device<br>arrest<br>useful |  
-| bip_39_word_new_line1 | rigid |  
-| bip_39_word_new_line10 | rigid
+| bip_39_word_new_br_1 | rigid |  
+| bip_39_word_new_br_10 | rigid<br>suit<br>lens<br>small<br>topple<br>able<br>device<br>arrest<br>useful<br>useful |  
+| bip_39_word_new_br_11 | rigid<br>suit<br>lens<br>small<br>topple<br>able<br>device<br>arrest<br>useful<br>useful<br>speak |  
+| bip_39_word_new_br_12 | rigid<br>suit<br>lens<br>small<br>topple<br>able<br>device<br>arrest<br>useful<br>useful<br>speak<br>admit |  
+| bip_39_word_new_br_2 | rigid<br>suit |  
+| bip_39_word_new_br_3 | rigid<br>suit<br>lens |  
+| bip_39_word_new_br_4 | rigid<br>suit<br>lens<br>small |  
+| bip_39_word_new_br_5 | rigid<br>suit<br>lens<br>small<br>topple |  
+| bip_39_word_new_br_6 | rigid<br>suit<br>lens<br>small<br>topple<br>able |  
+| bip_39_word_new_br_7 | rigid<br>suit<br>lens<br>small<br>topple<br>able<br>device |  
+| bip_39_word_new_br_8 | rigid<br>suit<br>lens<br>small<br>topple<br>able<br>device<br>arrest |  
+| bip_39_word_new_br_9 | rigid<br>suit<br>lens<br>small<br>topple<br>able<br>device<br>arrest<br>useful |  
+| bip_39_word_new_line_1 | rigid |  
+| bip_39_word_new_line_10 | rigid
 suit
 lens
 small
@@ -55,7 +55,7 @@ device
 arrest
 useful
 useful |  
-| bip_39_word_new_line11 | rigid
+| bip_39_word_new_line_11 | rigid
 suit
 lens
 small
@@ -66,7 +66,7 @@ arrest
 useful
 useful
 speak |  
-| bip_39_word_new_line12 | rigid
+| bip_39_word_new_line_12 | rigid
 suit
 lens
 small
@@ -78,34 +78,34 @@ useful
 useful
 speak
 admit |  
-| bip_39_word_new_line2 | rigid
+| bip_39_word_new_line_2 | rigid
 suit |  
-| bip_39_word_new_line3 | rigid
+| bip_39_word_new_line_3 | rigid
 suit
 lens |  
-| bip_39_word_new_line4 | rigid
+| bip_39_word_new_line_4 | rigid
 suit
 lens
 small |  
-| bip_39_word_new_line5 | rigid
+| bip_39_word_new_line_5 | rigid
 suit
 lens
 small
 topple |  
-| bip_39_word_new_line6 | rigid
+| bip_39_word_new_line_6 | rigid
 suit
 lens
 small
 topple
 able |  
-| bip_39_word_new_line7 | rigid
+| bip_39_word_new_line_7 | rigid
 suit
 lens
 small
 topple
 able
 device |  
-| bip_39_word_new_line8 | rigid
+| bip_39_word_new_line_8 | rigid
 suit
 lens
 small
@@ -113,7 +113,7 @@ topple
 able
 device
 arrest |  
-| bip_39_word_new_line9 | rigid
+| bip_39_word_new_line_9 | rigid
 suit
 lens
 small

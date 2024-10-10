@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | feel |  
-| bip_39_word_new_br10 | feel<br>bonus<br>swap<br>voyage<br>talk<br>genuine<br>capable<br>quarter<br>will<br>vast |  
-| bip_39_word_new_br11 | feel<br>bonus<br>swap<br>voyage<br>talk<br>genuine<br>capable<br>quarter<br>will<br>vast<br>income |  
-| bip_39_word_new_br12 | feel<br>bonus<br>swap<br>voyage<br>talk<br>genuine<br>capable<br>quarter<br>will<br>vast<br>income<br>affair |  
-| bip_39_word_new_br2 | feel<br>bonus |  
-| bip_39_word_new_br3 | feel<br>bonus<br>swap |  
-| bip_39_word_new_br4 | feel<br>bonus<br>swap<br>voyage |  
-| bip_39_word_new_br5 | feel<br>bonus<br>swap<br>voyage<br>talk |  
-| bip_39_word_new_br6 | feel<br>bonus<br>swap<br>voyage<br>talk<br>genuine |  
-| bip_39_word_new_br7 | feel<br>bonus<br>swap<br>voyage<br>talk<br>genuine<br>capable |  
-| bip_39_word_new_br8 | feel<br>bonus<br>swap<br>voyage<br>talk<br>genuine<br>capable<br>quarter |  
-| bip_39_word_new_br9 | feel<br>bonus<br>swap<br>voyage<br>talk<br>genuine<br>capable<br>quarter<br>will |  
-| bip_39_word_new_line1 | feel |  
-| bip_39_word_new_line10 | feel
+| bip_39_word_new_br_1 | feel |  
+| bip_39_word_new_br_10 | feel<br>bonus<br>swap<br>voyage<br>talk<br>genuine<br>capable<br>quarter<br>will<br>vast |  
+| bip_39_word_new_br_11 | feel<br>bonus<br>swap<br>voyage<br>talk<br>genuine<br>capable<br>quarter<br>will<br>vast<br>income |  
+| bip_39_word_new_br_12 | feel<br>bonus<br>swap<br>voyage<br>talk<br>genuine<br>capable<br>quarter<br>will<br>vast<br>income<br>affair |  
+| bip_39_word_new_br_2 | feel<br>bonus |  
+| bip_39_word_new_br_3 | feel<br>bonus<br>swap |  
+| bip_39_word_new_br_4 | feel<br>bonus<br>swap<br>voyage |  
+| bip_39_word_new_br_5 | feel<br>bonus<br>swap<br>voyage<br>talk |  
+| bip_39_word_new_br_6 | feel<br>bonus<br>swap<br>voyage<br>talk<br>genuine |  
+| bip_39_word_new_br_7 | feel<br>bonus<br>swap<br>voyage<br>talk<br>genuine<br>capable |  
+| bip_39_word_new_br_8 | feel<br>bonus<br>swap<br>voyage<br>talk<br>genuine<br>capable<br>quarter |  
+| bip_39_word_new_br_9 | feel<br>bonus<br>swap<br>voyage<br>talk<br>genuine<br>capable<br>quarter<br>will |  
+| bip_39_word_new_line_1 | feel |  
+| bip_39_word_new_line_10 | feel
 bonus
 swap
 voyage
@@ -55,7 +55,7 @@ capable
 quarter
 will
 vast |  
-| bip_39_word_new_line11 | feel
+| bip_39_word_new_line_11 | feel
 bonus
 swap
 voyage
@@ -66,7 +66,7 @@ quarter
 will
 vast
 income |  
-| bip_39_word_new_line12 | feel
+| bip_39_word_new_line_12 | feel
 bonus
 swap
 voyage
@@ -78,34 +78,34 @@ will
 vast
 income
 affair |  
-| bip_39_word_new_line2 | feel
+| bip_39_word_new_line_2 | feel
 bonus |  
-| bip_39_word_new_line3 | feel
+| bip_39_word_new_line_3 | feel
 bonus
 swap |  
-| bip_39_word_new_line4 | feel
+| bip_39_word_new_line_4 | feel
 bonus
 swap
 voyage |  
-| bip_39_word_new_line5 | feel
+| bip_39_word_new_line_5 | feel
 bonus
 swap
 voyage
 talk |  
-| bip_39_word_new_line6 | feel
+| bip_39_word_new_line_6 | feel
 bonus
 swap
 voyage
 talk
 genuine |  
-| bip_39_word_new_line7 | feel
+| bip_39_word_new_line_7 | feel
 bonus
 swap
 voyage
 talk
 genuine
 capable |  
-| bip_39_word_new_line8 | feel
+| bip_39_word_new_line_8 | feel
 bonus
 swap
 voyage
@@ -113,7 +113,7 @@ talk
 genuine
 capable
 quarter |  
-| bip_39_word_new_line9 | feel
+| bip_39_word_new_line_9 | feel
 bonus
 swap
 voyage

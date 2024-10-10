@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | table |  
-| bip_39_word_new_br10 | table<br>connect<br>letter<br>congress<br>gold<br>forum<br>soon<br>tail<br>crane<br>simple |  
-| bip_39_word_new_br11 | table<br>connect<br>letter<br>congress<br>gold<br>forum<br>soon<br>tail<br>crane<br>simple<br>always |  
-| bip_39_word_new_br12 | table<br>connect<br>letter<br>congress<br>gold<br>forum<br>soon<br>tail<br>crane<br>simple<br>always<br>also |  
-| bip_39_word_new_br2 | table<br>connect |  
-| bip_39_word_new_br3 | table<br>connect<br>letter |  
-| bip_39_word_new_br4 | table<br>connect<br>letter<br>congress |  
-| bip_39_word_new_br5 | table<br>connect<br>letter<br>congress<br>gold |  
-| bip_39_word_new_br6 | table<br>connect<br>letter<br>congress<br>gold<br>forum |  
-| bip_39_word_new_br7 | table<br>connect<br>letter<br>congress<br>gold<br>forum<br>soon |  
-| bip_39_word_new_br8 | table<br>connect<br>letter<br>congress<br>gold<br>forum<br>soon<br>tail |  
-| bip_39_word_new_br9 | table<br>connect<br>letter<br>congress<br>gold<br>forum<br>soon<br>tail<br>crane |  
-| bip_39_word_new_line1 | table |  
-| bip_39_word_new_line10 | table
+| bip_39_word_new_br_1 | table |  
+| bip_39_word_new_br_10 | table<br>connect<br>letter<br>congress<br>gold<br>forum<br>soon<br>tail<br>crane<br>simple |  
+| bip_39_word_new_br_11 | table<br>connect<br>letter<br>congress<br>gold<br>forum<br>soon<br>tail<br>crane<br>simple<br>always |  
+| bip_39_word_new_br_12 | table<br>connect<br>letter<br>congress<br>gold<br>forum<br>soon<br>tail<br>crane<br>simple<br>always<br>also |  
+| bip_39_word_new_br_2 | table<br>connect |  
+| bip_39_word_new_br_3 | table<br>connect<br>letter |  
+| bip_39_word_new_br_4 | table<br>connect<br>letter<br>congress |  
+| bip_39_word_new_br_5 | table<br>connect<br>letter<br>congress<br>gold |  
+| bip_39_word_new_br_6 | table<br>connect<br>letter<br>congress<br>gold<br>forum |  
+| bip_39_word_new_br_7 | table<br>connect<br>letter<br>congress<br>gold<br>forum<br>soon |  
+| bip_39_word_new_br_8 | table<br>connect<br>letter<br>congress<br>gold<br>forum<br>soon<br>tail |  
+| bip_39_word_new_br_9 | table<br>connect<br>letter<br>congress<br>gold<br>forum<br>soon<br>tail<br>crane |  
+| bip_39_word_new_line_1 | table |  
+| bip_39_word_new_line_10 | table
 connect
 letter
 congress
@@ -55,7 +55,7 @@ soon
 tail
 crane
 simple |  
-| bip_39_word_new_line11 | table
+| bip_39_word_new_line_11 | table
 connect
 letter
 congress
@@ -66,7 +66,7 @@ tail
 crane
 simple
 always |  
-| bip_39_word_new_line12 | table
+| bip_39_word_new_line_12 | table
 connect
 letter
 congress
@@ -78,34 +78,34 @@ crane
 simple
 always
 also |  
-| bip_39_word_new_line2 | table
+| bip_39_word_new_line_2 | table
 connect |  
-| bip_39_word_new_line3 | table
+| bip_39_word_new_line_3 | table
 connect
 letter |  
-| bip_39_word_new_line4 | table
+| bip_39_word_new_line_4 | table
 connect
 letter
 congress |  
-| bip_39_word_new_line5 | table
+| bip_39_word_new_line_5 | table
 connect
 letter
 congress
 gold |  
-| bip_39_word_new_line6 | table
+| bip_39_word_new_line_6 | table
 connect
 letter
 congress
 gold
 forum |  
-| bip_39_word_new_line7 | table
+| bip_39_word_new_line_7 | table
 connect
 letter
 congress
 gold
 forum
 soon |  
-| bip_39_word_new_line8 | table
+| bip_39_word_new_line_8 | table
 connect
 letter
 congress
@@ -113,7 +113,7 @@ gold
 forum
 soon
 tail |  
-| bip_39_word_new_line9 | table
+| bip_39_word_new_line_9 | table
 connect
 letter
 congress

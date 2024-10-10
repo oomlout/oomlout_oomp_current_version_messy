@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | throw |  
-| bip_39_word_new_br10 | throw<br>broom<br>trash<br>flee<br>obey<br>asset<br>library<br>finish<br>visual<br>space |  
-| bip_39_word_new_br11 | throw<br>broom<br>trash<br>flee<br>obey<br>asset<br>library<br>finish<br>visual<br>space<br>worry |  
-| bip_39_word_new_br12 | throw<br>broom<br>trash<br>flee<br>obey<br>asset<br>library<br>finish<br>visual<br>space<br>worry<br>asset |  
-| bip_39_word_new_br2 | throw<br>broom |  
-| bip_39_word_new_br3 | throw<br>broom<br>trash |  
-| bip_39_word_new_br4 | throw<br>broom<br>trash<br>flee |  
-| bip_39_word_new_br5 | throw<br>broom<br>trash<br>flee<br>obey |  
-| bip_39_word_new_br6 | throw<br>broom<br>trash<br>flee<br>obey<br>asset |  
-| bip_39_word_new_br7 | throw<br>broom<br>trash<br>flee<br>obey<br>asset<br>library |  
-| bip_39_word_new_br8 | throw<br>broom<br>trash<br>flee<br>obey<br>asset<br>library<br>finish |  
-| bip_39_word_new_br9 | throw<br>broom<br>trash<br>flee<br>obey<br>asset<br>library<br>finish<br>visual |  
-| bip_39_word_new_line1 | throw |  
-| bip_39_word_new_line10 | throw
+| bip_39_word_new_br_1 | throw |  
+| bip_39_word_new_br_10 | throw<br>broom<br>trash<br>flee<br>obey<br>asset<br>library<br>finish<br>visual<br>space |  
+| bip_39_word_new_br_11 | throw<br>broom<br>trash<br>flee<br>obey<br>asset<br>library<br>finish<br>visual<br>space<br>worry |  
+| bip_39_word_new_br_12 | throw<br>broom<br>trash<br>flee<br>obey<br>asset<br>library<br>finish<br>visual<br>space<br>worry<br>asset |  
+| bip_39_word_new_br_2 | throw<br>broom |  
+| bip_39_word_new_br_3 | throw<br>broom<br>trash |  
+| bip_39_word_new_br_4 | throw<br>broom<br>trash<br>flee |  
+| bip_39_word_new_br_5 | throw<br>broom<br>trash<br>flee<br>obey |  
+| bip_39_word_new_br_6 | throw<br>broom<br>trash<br>flee<br>obey<br>asset |  
+| bip_39_word_new_br_7 | throw<br>broom<br>trash<br>flee<br>obey<br>asset<br>library |  
+| bip_39_word_new_br_8 | throw<br>broom<br>trash<br>flee<br>obey<br>asset<br>library<br>finish |  
+| bip_39_word_new_br_9 | throw<br>broom<br>trash<br>flee<br>obey<br>asset<br>library<br>finish<br>visual |  
+| bip_39_word_new_line_1 | throw |  
+| bip_39_word_new_line_10 | throw
 broom
 trash
 flee
@@ -55,7 +55,7 @@ library
 finish
 visual
 space |  
-| bip_39_word_new_line11 | throw
+| bip_39_word_new_line_11 | throw
 broom
 trash
 flee
@@ -66,7 +66,7 @@ finish
 visual
 space
 worry |  
-| bip_39_word_new_line12 | throw
+| bip_39_word_new_line_12 | throw
 broom
 trash
 flee
@@ -78,34 +78,34 @@ visual
 space
 worry
 asset |  
-| bip_39_word_new_line2 | throw
+| bip_39_word_new_line_2 | throw
 broom |  
-| bip_39_word_new_line3 | throw
+| bip_39_word_new_line_3 | throw
 broom
 trash |  
-| bip_39_word_new_line4 | throw
+| bip_39_word_new_line_4 | throw
 broom
 trash
 flee |  
-| bip_39_word_new_line5 | throw
+| bip_39_word_new_line_5 | throw
 broom
 trash
 flee
 obey |  
-| bip_39_word_new_line6 | throw
+| bip_39_word_new_line_6 | throw
 broom
 trash
 flee
 obey
 asset |  
-| bip_39_word_new_line7 | throw
+| bip_39_word_new_line_7 | throw
 broom
 trash
 flee
 obey
 asset
 library |  
-| bip_39_word_new_line8 | throw
+| bip_39_word_new_line_8 | throw
 broom
 trash
 flee
@@ -113,7 +113,7 @@ obey
 asset
 library
 finish |  
-| bip_39_word_new_line9 | throw
+| bip_39_word_new_line_9 | throw
 broom
 trash
 flee

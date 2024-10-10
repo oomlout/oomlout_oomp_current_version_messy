@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | race |  
-| bip_39_word_new_br10 | race<br>idea<br>laptop<br>giant<br>bracket<br>bird<br>fury<br>cement<br>lunch<br>sugar |  
-| bip_39_word_new_br11 | race<br>idea<br>laptop<br>giant<br>bracket<br>bird<br>fury<br>cement<br>lunch<br>sugar<br>tunnel |  
-| bip_39_word_new_br12 | race<br>idea<br>laptop<br>giant<br>bracket<br>bird<br>fury<br>cement<br>lunch<br>sugar<br>tunnel<br>angry |  
-| bip_39_word_new_br2 | race<br>idea |  
-| bip_39_word_new_br3 | race<br>idea<br>laptop |  
-| bip_39_word_new_br4 | race<br>idea<br>laptop<br>giant |  
-| bip_39_word_new_br5 | race<br>idea<br>laptop<br>giant<br>bracket |  
-| bip_39_word_new_br6 | race<br>idea<br>laptop<br>giant<br>bracket<br>bird |  
-| bip_39_word_new_br7 | race<br>idea<br>laptop<br>giant<br>bracket<br>bird<br>fury |  
-| bip_39_word_new_br8 | race<br>idea<br>laptop<br>giant<br>bracket<br>bird<br>fury<br>cement |  
-| bip_39_word_new_br9 | race<br>idea<br>laptop<br>giant<br>bracket<br>bird<br>fury<br>cement<br>lunch |  
-| bip_39_word_new_line1 | race |  
-| bip_39_word_new_line10 | race
+| bip_39_word_new_br_1 | race |  
+| bip_39_word_new_br_10 | race<br>idea<br>laptop<br>giant<br>bracket<br>bird<br>fury<br>cement<br>lunch<br>sugar |  
+| bip_39_word_new_br_11 | race<br>idea<br>laptop<br>giant<br>bracket<br>bird<br>fury<br>cement<br>lunch<br>sugar<br>tunnel |  
+| bip_39_word_new_br_12 | race<br>idea<br>laptop<br>giant<br>bracket<br>bird<br>fury<br>cement<br>lunch<br>sugar<br>tunnel<br>angry |  
+| bip_39_word_new_br_2 | race<br>idea |  
+| bip_39_word_new_br_3 | race<br>idea<br>laptop |  
+| bip_39_word_new_br_4 | race<br>idea<br>laptop<br>giant |  
+| bip_39_word_new_br_5 | race<br>idea<br>laptop<br>giant<br>bracket |  
+| bip_39_word_new_br_6 | race<br>idea<br>laptop<br>giant<br>bracket<br>bird |  
+| bip_39_word_new_br_7 | race<br>idea<br>laptop<br>giant<br>bracket<br>bird<br>fury |  
+| bip_39_word_new_br_8 | race<br>idea<br>laptop<br>giant<br>bracket<br>bird<br>fury<br>cement |  
+| bip_39_word_new_br_9 | race<br>idea<br>laptop<br>giant<br>bracket<br>bird<br>fury<br>cement<br>lunch |  
+| bip_39_word_new_line_1 | race |  
+| bip_39_word_new_line_10 | race
 idea
 laptop
 giant
@@ -55,7 +55,7 @@ fury
 cement
 lunch
 sugar |  
-| bip_39_word_new_line11 | race
+| bip_39_word_new_line_11 | race
 idea
 laptop
 giant
@@ -66,7 +66,7 @@ cement
 lunch
 sugar
 tunnel |  
-| bip_39_word_new_line12 | race
+| bip_39_word_new_line_12 | race
 idea
 laptop
 giant
@@ -78,34 +78,34 @@ lunch
 sugar
 tunnel
 angry |  
-| bip_39_word_new_line2 | race
+| bip_39_word_new_line_2 | race
 idea |  
-| bip_39_word_new_line3 | race
+| bip_39_word_new_line_3 | race
 idea
 laptop |  
-| bip_39_word_new_line4 | race
+| bip_39_word_new_line_4 | race
 idea
 laptop
 giant |  
-| bip_39_word_new_line5 | race
+| bip_39_word_new_line_5 | race
 idea
 laptop
 giant
 bracket |  
-| bip_39_word_new_line6 | race
+| bip_39_word_new_line_6 | race
 idea
 laptop
 giant
 bracket
 bird |  
-| bip_39_word_new_line7 | race
+| bip_39_word_new_line_7 | race
 idea
 laptop
 giant
 bracket
 bird
 fury |  
-| bip_39_word_new_line8 | race
+| bip_39_word_new_line_8 | race
 idea
 laptop
 giant
@@ -113,7 +113,7 @@ bracket
 bird
 fury
 cement |  
-| bip_39_word_new_line9 | race
+| bip_39_word_new_line_9 | race
 idea
 laptop
 giant

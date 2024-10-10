@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | shift |  
-| bip_39_word_new_br10 | shift<br>easy<br>mule<br>among<br>middle<br>target<br>fruit<br>fork<br>faculty<br>assault |  
-| bip_39_word_new_br11 | shift<br>easy<br>mule<br>among<br>middle<br>target<br>fruit<br>fork<br>faculty<br>assault<br>quote |  
-| bip_39_word_new_br12 | shift<br>easy<br>mule<br>among<br>middle<br>target<br>fruit<br>fork<br>faculty<br>assault<br>quote<br>argue |  
-| bip_39_word_new_br2 | shift<br>easy |  
-| bip_39_word_new_br3 | shift<br>easy<br>mule |  
-| bip_39_word_new_br4 | shift<br>easy<br>mule<br>among |  
-| bip_39_word_new_br5 | shift<br>easy<br>mule<br>among<br>middle |  
-| bip_39_word_new_br6 | shift<br>easy<br>mule<br>among<br>middle<br>target |  
-| bip_39_word_new_br7 | shift<br>easy<br>mule<br>among<br>middle<br>target<br>fruit |  
-| bip_39_word_new_br8 | shift<br>easy<br>mule<br>among<br>middle<br>target<br>fruit<br>fork |  
-| bip_39_word_new_br9 | shift<br>easy<br>mule<br>among<br>middle<br>target<br>fruit<br>fork<br>faculty |  
-| bip_39_word_new_line1 | shift |  
-| bip_39_word_new_line10 | shift
+| bip_39_word_new_br_1 | shift |  
+| bip_39_word_new_br_10 | shift<br>easy<br>mule<br>among<br>middle<br>target<br>fruit<br>fork<br>faculty<br>assault |  
+| bip_39_word_new_br_11 | shift<br>easy<br>mule<br>among<br>middle<br>target<br>fruit<br>fork<br>faculty<br>assault<br>quote |  
+| bip_39_word_new_br_12 | shift<br>easy<br>mule<br>among<br>middle<br>target<br>fruit<br>fork<br>faculty<br>assault<br>quote<br>argue |  
+| bip_39_word_new_br_2 | shift<br>easy |  
+| bip_39_word_new_br_3 | shift<br>easy<br>mule |  
+| bip_39_word_new_br_4 | shift<br>easy<br>mule<br>among |  
+| bip_39_word_new_br_5 | shift<br>easy<br>mule<br>among<br>middle |  
+| bip_39_word_new_br_6 | shift<br>easy<br>mule<br>among<br>middle<br>target |  
+| bip_39_word_new_br_7 | shift<br>easy<br>mule<br>among<br>middle<br>target<br>fruit |  
+| bip_39_word_new_br_8 | shift<br>easy<br>mule<br>among<br>middle<br>target<br>fruit<br>fork |  
+| bip_39_word_new_br_9 | shift<br>easy<br>mule<br>among<br>middle<br>target<br>fruit<br>fork<br>faculty |  
+| bip_39_word_new_line_1 | shift |  
+| bip_39_word_new_line_10 | shift
 easy
 mule
 among
@@ -55,7 +55,7 @@ fruit
 fork
 faculty
 assault |  
-| bip_39_word_new_line11 | shift
+| bip_39_word_new_line_11 | shift
 easy
 mule
 among
@@ -66,7 +66,7 @@ fork
 faculty
 assault
 quote |  
-| bip_39_word_new_line12 | shift
+| bip_39_word_new_line_12 | shift
 easy
 mule
 among
@@ -78,34 +78,34 @@ faculty
 assault
 quote
 argue |  
-| bip_39_word_new_line2 | shift
+| bip_39_word_new_line_2 | shift
 easy |  
-| bip_39_word_new_line3 | shift
+| bip_39_word_new_line_3 | shift
 easy
 mule |  
-| bip_39_word_new_line4 | shift
+| bip_39_word_new_line_4 | shift
 easy
 mule
 among |  
-| bip_39_word_new_line5 | shift
+| bip_39_word_new_line_5 | shift
 easy
 mule
 among
 middle |  
-| bip_39_word_new_line6 | shift
+| bip_39_word_new_line_6 | shift
 easy
 mule
 among
 middle
 target |  
-| bip_39_word_new_line7 | shift
+| bip_39_word_new_line_7 | shift
 easy
 mule
 among
 middle
 target
 fruit |  
-| bip_39_word_new_line8 | shift
+| bip_39_word_new_line_8 | shift
 easy
 mule
 among
@@ -113,7 +113,7 @@ middle
 target
 fruit
 fork |  
-| bip_39_word_new_line9 | shift
+| bip_39_word_new_line_9 | shift
 easy
 mule
 among

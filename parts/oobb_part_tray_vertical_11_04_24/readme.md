@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | promote |  
-| bip_39_word_new_br10 | promote<br>coin<br>vapor<br>curve<br>helmet<br>inquiry<br>absent<br>proud<br>foster<br>aunt |  
-| bip_39_word_new_br11 | promote<br>coin<br>vapor<br>curve<br>helmet<br>inquiry<br>absent<br>proud<br>foster<br>aunt<br>record |  
-| bip_39_word_new_br12 | promote<br>coin<br>vapor<br>curve<br>helmet<br>inquiry<br>absent<br>proud<br>foster<br>aunt<br>record<br>access |  
-| bip_39_word_new_br2 | promote<br>coin |  
-| bip_39_word_new_br3 | promote<br>coin<br>vapor |  
-| bip_39_word_new_br4 | promote<br>coin<br>vapor<br>curve |  
-| bip_39_word_new_br5 | promote<br>coin<br>vapor<br>curve<br>helmet |  
-| bip_39_word_new_br6 | promote<br>coin<br>vapor<br>curve<br>helmet<br>inquiry |  
-| bip_39_word_new_br7 | promote<br>coin<br>vapor<br>curve<br>helmet<br>inquiry<br>absent |  
-| bip_39_word_new_br8 | promote<br>coin<br>vapor<br>curve<br>helmet<br>inquiry<br>absent<br>proud |  
-| bip_39_word_new_br9 | promote<br>coin<br>vapor<br>curve<br>helmet<br>inquiry<br>absent<br>proud<br>foster |  
-| bip_39_word_new_line1 | promote |  
-| bip_39_word_new_line10 | promote
+| bip_39_word_new_br_1 | promote |  
+| bip_39_word_new_br_10 | promote<br>coin<br>vapor<br>curve<br>helmet<br>inquiry<br>absent<br>proud<br>foster<br>aunt |  
+| bip_39_word_new_br_11 | promote<br>coin<br>vapor<br>curve<br>helmet<br>inquiry<br>absent<br>proud<br>foster<br>aunt<br>record |  
+| bip_39_word_new_br_12 | promote<br>coin<br>vapor<br>curve<br>helmet<br>inquiry<br>absent<br>proud<br>foster<br>aunt<br>record<br>access |  
+| bip_39_word_new_br_2 | promote<br>coin |  
+| bip_39_word_new_br_3 | promote<br>coin<br>vapor |  
+| bip_39_word_new_br_4 | promote<br>coin<br>vapor<br>curve |  
+| bip_39_word_new_br_5 | promote<br>coin<br>vapor<br>curve<br>helmet |  
+| bip_39_word_new_br_6 | promote<br>coin<br>vapor<br>curve<br>helmet<br>inquiry |  
+| bip_39_word_new_br_7 | promote<br>coin<br>vapor<br>curve<br>helmet<br>inquiry<br>absent |  
+| bip_39_word_new_br_8 | promote<br>coin<br>vapor<br>curve<br>helmet<br>inquiry<br>absent<br>proud |  
+| bip_39_word_new_br_9 | promote<br>coin<br>vapor<br>curve<br>helmet<br>inquiry<br>absent<br>proud<br>foster |  
+| bip_39_word_new_line_1 | promote |  
+| bip_39_word_new_line_10 | promote
 coin
 vapor
 curve
@@ -55,7 +55,7 @@ absent
 proud
 foster
 aunt |  
-| bip_39_word_new_line11 | promote
+| bip_39_word_new_line_11 | promote
 coin
 vapor
 curve
@@ -66,7 +66,7 @@ proud
 foster
 aunt
 record |  
-| bip_39_word_new_line12 | promote
+| bip_39_word_new_line_12 | promote
 coin
 vapor
 curve
@@ -78,34 +78,34 @@ foster
 aunt
 record
 access |  
-| bip_39_word_new_line2 | promote
+| bip_39_word_new_line_2 | promote
 coin |  
-| bip_39_word_new_line3 | promote
+| bip_39_word_new_line_3 | promote
 coin
 vapor |  
-| bip_39_word_new_line4 | promote
+| bip_39_word_new_line_4 | promote
 coin
 vapor
 curve |  
-| bip_39_word_new_line5 | promote
+| bip_39_word_new_line_5 | promote
 coin
 vapor
 curve
 helmet |  
-| bip_39_word_new_line6 | promote
+| bip_39_word_new_line_6 | promote
 coin
 vapor
 curve
 helmet
 inquiry |  
-| bip_39_word_new_line7 | promote
+| bip_39_word_new_line_7 | promote
 coin
 vapor
 curve
 helmet
 inquiry
 absent |  
-| bip_39_word_new_line8 | promote
+| bip_39_word_new_line_8 | promote
 coin
 vapor
 curve
@@ -113,7 +113,7 @@ helmet
 inquiry
 absent
 proud |  
-| bip_39_word_new_line9 | promote
+| bip_39_word_new_line_9 | promote
 coin
 vapor
 curve

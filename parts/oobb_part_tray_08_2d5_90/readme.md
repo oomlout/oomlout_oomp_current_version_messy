@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | memory |  
-| bip_39_word_new_br10 | memory<br>tired<br>together<br>champion<br>entry<br>allow<br>elevator<br>obscure<br>solar<br>forum |  
-| bip_39_word_new_br11 | memory<br>tired<br>together<br>champion<br>entry<br>allow<br>elevator<br>obscure<br>solar<br>forum<br>cheap |  
-| bip_39_word_new_br12 | memory<br>tired<br>together<br>champion<br>entry<br>allow<br>elevator<br>obscure<br>solar<br>forum<br>cheap<br>alley |  
-| bip_39_word_new_br2 | memory<br>tired |  
-| bip_39_word_new_br3 | memory<br>tired<br>together |  
-| bip_39_word_new_br4 | memory<br>tired<br>together<br>champion |  
-| bip_39_word_new_br5 | memory<br>tired<br>together<br>champion<br>entry |  
-| bip_39_word_new_br6 | memory<br>tired<br>together<br>champion<br>entry<br>allow |  
-| bip_39_word_new_br7 | memory<br>tired<br>together<br>champion<br>entry<br>allow<br>elevator |  
-| bip_39_word_new_br8 | memory<br>tired<br>together<br>champion<br>entry<br>allow<br>elevator<br>obscure |  
-| bip_39_word_new_br9 | memory<br>tired<br>together<br>champion<br>entry<br>allow<br>elevator<br>obscure<br>solar |  
-| bip_39_word_new_line1 | memory |  
-| bip_39_word_new_line10 | memory
+| bip_39_word_new_br_1 | memory |  
+| bip_39_word_new_br_10 | memory<br>tired<br>together<br>champion<br>entry<br>allow<br>elevator<br>obscure<br>solar<br>forum |  
+| bip_39_word_new_br_11 | memory<br>tired<br>together<br>champion<br>entry<br>allow<br>elevator<br>obscure<br>solar<br>forum<br>cheap |  
+| bip_39_word_new_br_12 | memory<br>tired<br>together<br>champion<br>entry<br>allow<br>elevator<br>obscure<br>solar<br>forum<br>cheap<br>alley |  
+| bip_39_word_new_br_2 | memory<br>tired |  
+| bip_39_word_new_br_3 | memory<br>tired<br>together |  
+| bip_39_word_new_br_4 | memory<br>tired<br>together<br>champion |  
+| bip_39_word_new_br_5 | memory<br>tired<br>together<br>champion<br>entry |  
+| bip_39_word_new_br_6 | memory<br>tired<br>together<br>champion<br>entry<br>allow |  
+| bip_39_word_new_br_7 | memory<br>tired<br>together<br>champion<br>entry<br>allow<br>elevator |  
+| bip_39_word_new_br_8 | memory<br>tired<br>together<br>champion<br>entry<br>allow<br>elevator<br>obscure |  
+| bip_39_word_new_br_9 | memory<br>tired<br>together<br>champion<br>entry<br>allow<br>elevator<br>obscure<br>solar |  
+| bip_39_word_new_line_1 | memory |  
+| bip_39_word_new_line_10 | memory
 tired
 together
 champion
@@ -55,7 +55,7 @@ elevator
 obscure
 solar
 forum |  
-| bip_39_word_new_line11 | memory
+| bip_39_word_new_line_11 | memory
 tired
 together
 champion
@@ -66,7 +66,7 @@ obscure
 solar
 forum
 cheap |  
-| bip_39_word_new_line12 | memory
+| bip_39_word_new_line_12 | memory
 tired
 together
 champion
@@ -78,34 +78,34 @@ solar
 forum
 cheap
 alley |  
-| bip_39_word_new_line2 | memory
+| bip_39_word_new_line_2 | memory
 tired |  
-| bip_39_word_new_line3 | memory
+| bip_39_word_new_line_3 | memory
 tired
 together |  
-| bip_39_word_new_line4 | memory
+| bip_39_word_new_line_4 | memory
 tired
 together
 champion |  
-| bip_39_word_new_line5 | memory
+| bip_39_word_new_line_5 | memory
 tired
 together
 champion
 entry |  
-| bip_39_word_new_line6 | memory
+| bip_39_word_new_line_6 | memory
 tired
 together
 champion
 entry
 allow |  
-| bip_39_word_new_line7 | memory
+| bip_39_word_new_line_7 | memory
 tired
 together
 champion
 entry
 allow
 elevator |  
-| bip_39_word_new_line8 | memory
+| bip_39_word_new_line_8 | memory
 tired
 together
 champion
@@ -113,7 +113,7 @@ entry
 allow
 elevator
 obscure |  
-| bip_39_word_new_line9 | memory
+| bip_39_word_new_line_9 | memory
 tired
 together
 champion

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mirror |  
-| bip_39_word_new_br10 | mirror<br>upon<br>under<br>churn<br>enter<br>error<br>bird<br>property<br>barrel<br>mouse |  
-| bip_39_word_new_br11 | mirror<br>upon<br>under<br>churn<br>enter<br>error<br>bird<br>property<br>barrel<br>mouse<br>price |  
-| bip_39_word_new_br12 | mirror<br>upon<br>under<br>churn<br>enter<br>error<br>bird<br>property<br>barrel<br>mouse<br>price<br>already |  
-| bip_39_word_new_br2 | mirror<br>upon |  
-| bip_39_word_new_br3 | mirror<br>upon<br>under |  
-| bip_39_word_new_br4 | mirror<br>upon<br>under<br>churn |  
-| bip_39_word_new_br5 | mirror<br>upon<br>under<br>churn<br>enter |  
-| bip_39_word_new_br6 | mirror<br>upon<br>under<br>churn<br>enter<br>error |  
-| bip_39_word_new_br7 | mirror<br>upon<br>under<br>churn<br>enter<br>error<br>bird |  
-| bip_39_word_new_br8 | mirror<br>upon<br>under<br>churn<br>enter<br>error<br>bird<br>property |  
-| bip_39_word_new_br9 | mirror<br>upon<br>under<br>churn<br>enter<br>error<br>bird<br>property<br>barrel |  
-| bip_39_word_new_line1 | mirror |  
-| bip_39_word_new_line10 | mirror
+| bip_39_word_new_br_1 | mirror |  
+| bip_39_word_new_br_10 | mirror<br>upon<br>under<br>churn<br>enter<br>error<br>bird<br>property<br>barrel<br>mouse |  
+| bip_39_word_new_br_11 | mirror<br>upon<br>under<br>churn<br>enter<br>error<br>bird<br>property<br>barrel<br>mouse<br>price |  
+| bip_39_word_new_br_12 | mirror<br>upon<br>under<br>churn<br>enter<br>error<br>bird<br>property<br>barrel<br>mouse<br>price<br>already |  
+| bip_39_word_new_br_2 | mirror<br>upon |  
+| bip_39_word_new_br_3 | mirror<br>upon<br>under |  
+| bip_39_word_new_br_4 | mirror<br>upon<br>under<br>churn |  
+| bip_39_word_new_br_5 | mirror<br>upon<br>under<br>churn<br>enter |  
+| bip_39_word_new_br_6 | mirror<br>upon<br>under<br>churn<br>enter<br>error |  
+| bip_39_word_new_br_7 | mirror<br>upon<br>under<br>churn<br>enter<br>error<br>bird |  
+| bip_39_word_new_br_8 | mirror<br>upon<br>under<br>churn<br>enter<br>error<br>bird<br>property |  
+| bip_39_word_new_br_9 | mirror<br>upon<br>under<br>churn<br>enter<br>error<br>bird<br>property<br>barrel |  
+| bip_39_word_new_line_1 | mirror |  
+| bip_39_word_new_line_10 | mirror
 upon
 under
 churn
@@ -55,7 +55,7 @@ bird
 property
 barrel
 mouse |  
-| bip_39_word_new_line11 | mirror
+| bip_39_word_new_line_11 | mirror
 upon
 under
 churn
@@ -66,7 +66,7 @@ property
 barrel
 mouse
 price |  
-| bip_39_word_new_line12 | mirror
+| bip_39_word_new_line_12 | mirror
 upon
 under
 churn
@@ -78,34 +78,34 @@ barrel
 mouse
 price
 already |  
-| bip_39_word_new_line2 | mirror
+| bip_39_word_new_line_2 | mirror
 upon |  
-| bip_39_word_new_line3 | mirror
+| bip_39_word_new_line_3 | mirror
 upon
 under |  
-| bip_39_word_new_line4 | mirror
+| bip_39_word_new_line_4 | mirror
 upon
 under
 churn |  
-| bip_39_word_new_line5 | mirror
+| bip_39_word_new_line_5 | mirror
 upon
 under
 churn
 enter |  
-| bip_39_word_new_line6 | mirror
+| bip_39_word_new_line_6 | mirror
 upon
 under
 churn
 enter
 error |  
-| bip_39_word_new_line7 | mirror
+| bip_39_word_new_line_7 | mirror
 upon
 under
 churn
 enter
 error
 bird |  
-| bip_39_word_new_line8 | mirror
+| bip_39_word_new_line_8 | mirror
 upon
 under
 churn
@@ -113,7 +113,7 @@ enter
 error
 bird
 property |  
-| bip_39_word_new_line9 | mirror
+| bip_39_word_new_line_9 | mirror
 upon
 under
 churn

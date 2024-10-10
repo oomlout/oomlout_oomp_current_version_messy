@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | small |  
-| bip_39_word_new_br10 | small<br>slam<br>surge<br>arrange<br>girl<br>siren<br>excuse<br>enhance<br>hour<br>arrest |  
-| bip_39_word_new_br11 | small<br>slam<br>surge<br>arrange<br>girl<br>siren<br>excuse<br>enhance<br>hour<br>arrest<br>knock |  
-| bip_39_word_new_br12 | small<br>slam<br>surge<br>arrange<br>girl<br>siren<br>excuse<br>enhance<br>hour<br>arrest<br>knock<br>adult |  
-| bip_39_word_new_br2 | small<br>slam |  
-| bip_39_word_new_br3 | small<br>slam<br>surge |  
-| bip_39_word_new_br4 | small<br>slam<br>surge<br>arrange |  
-| bip_39_word_new_br5 | small<br>slam<br>surge<br>arrange<br>girl |  
-| bip_39_word_new_br6 | small<br>slam<br>surge<br>arrange<br>girl<br>siren |  
-| bip_39_word_new_br7 | small<br>slam<br>surge<br>arrange<br>girl<br>siren<br>excuse |  
-| bip_39_word_new_br8 | small<br>slam<br>surge<br>arrange<br>girl<br>siren<br>excuse<br>enhance |  
-| bip_39_word_new_br9 | small<br>slam<br>surge<br>arrange<br>girl<br>siren<br>excuse<br>enhance<br>hour |  
-| bip_39_word_new_line1 | small |  
-| bip_39_word_new_line10 | small
+| bip_39_word_new_br_1 | small |  
+| bip_39_word_new_br_10 | small<br>slam<br>surge<br>arrange<br>girl<br>siren<br>excuse<br>enhance<br>hour<br>arrest |  
+| bip_39_word_new_br_11 | small<br>slam<br>surge<br>arrange<br>girl<br>siren<br>excuse<br>enhance<br>hour<br>arrest<br>knock |  
+| bip_39_word_new_br_12 | small<br>slam<br>surge<br>arrange<br>girl<br>siren<br>excuse<br>enhance<br>hour<br>arrest<br>knock<br>adult |  
+| bip_39_word_new_br_2 | small<br>slam |  
+| bip_39_word_new_br_3 | small<br>slam<br>surge |  
+| bip_39_word_new_br_4 | small<br>slam<br>surge<br>arrange |  
+| bip_39_word_new_br_5 | small<br>slam<br>surge<br>arrange<br>girl |  
+| bip_39_word_new_br_6 | small<br>slam<br>surge<br>arrange<br>girl<br>siren |  
+| bip_39_word_new_br_7 | small<br>slam<br>surge<br>arrange<br>girl<br>siren<br>excuse |  
+| bip_39_word_new_br_8 | small<br>slam<br>surge<br>arrange<br>girl<br>siren<br>excuse<br>enhance |  
+| bip_39_word_new_br_9 | small<br>slam<br>surge<br>arrange<br>girl<br>siren<br>excuse<br>enhance<br>hour |  
+| bip_39_word_new_line_1 | small |  
+| bip_39_word_new_line_10 | small
 slam
 surge
 arrange
@@ -55,7 +55,7 @@ excuse
 enhance
 hour
 arrest |  
-| bip_39_word_new_line11 | small
+| bip_39_word_new_line_11 | small
 slam
 surge
 arrange
@@ -66,7 +66,7 @@ enhance
 hour
 arrest
 knock |  
-| bip_39_word_new_line12 | small
+| bip_39_word_new_line_12 | small
 slam
 surge
 arrange
@@ -78,34 +78,34 @@ hour
 arrest
 knock
 adult |  
-| bip_39_word_new_line2 | small
+| bip_39_word_new_line_2 | small
 slam |  
-| bip_39_word_new_line3 | small
+| bip_39_word_new_line_3 | small
 slam
 surge |  
-| bip_39_word_new_line4 | small
+| bip_39_word_new_line_4 | small
 slam
 surge
 arrange |  
-| bip_39_word_new_line5 | small
+| bip_39_word_new_line_5 | small
 slam
 surge
 arrange
 girl |  
-| bip_39_word_new_line6 | small
+| bip_39_word_new_line_6 | small
 slam
 surge
 arrange
 girl
 siren |  
-| bip_39_word_new_line7 | small
+| bip_39_word_new_line_7 | small
 slam
 surge
 arrange
 girl
 siren
 excuse |  
-| bip_39_word_new_line8 | small
+| bip_39_word_new_line_8 | small
 slam
 surge
 arrange
@@ -113,7 +113,7 @@ girl
 siren
 excuse
 enhance |  
-| bip_39_word_new_line9 | small
+| bip_39_word_new_line_9 | small
 slam
 surge
 arrange

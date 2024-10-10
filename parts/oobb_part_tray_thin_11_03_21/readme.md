@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wealth |  
-| bip_39_word_new_br10 | wealth<br>control<br>vehicle<br>modify<br>tornado<br>mansion<br>coffee<br>ability<br>donor<br>soup |  
-| bip_39_word_new_br11 | wealth<br>control<br>vehicle<br>modify<br>tornado<br>mansion<br>coffee<br>ability<br>donor<br>soup<br>involve |  
-| bip_39_word_new_br12 | wealth<br>control<br>vehicle<br>modify<br>tornado<br>mansion<br>coffee<br>ability<br>donor<br>soup<br>involve<br>achieve |  
-| bip_39_word_new_br2 | wealth<br>control |  
-| bip_39_word_new_br3 | wealth<br>control<br>vehicle |  
-| bip_39_word_new_br4 | wealth<br>control<br>vehicle<br>modify |  
-| bip_39_word_new_br5 | wealth<br>control<br>vehicle<br>modify<br>tornado |  
-| bip_39_word_new_br6 | wealth<br>control<br>vehicle<br>modify<br>tornado<br>mansion |  
-| bip_39_word_new_br7 | wealth<br>control<br>vehicle<br>modify<br>tornado<br>mansion<br>coffee |  
-| bip_39_word_new_br8 | wealth<br>control<br>vehicle<br>modify<br>tornado<br>mansion<br>coffee<br>ability |  
-| bip_39_word_new_br9 | wealth<br>control<br>vehicle<br>modify<br>tornado<br>mansion<br>coffee<br>ability<br>donor |  
-| bip_39_word_new_line1 | wealth |  
-| bip_39_word_new_line10 | wealth
+| bip_39_word_new_br_1 | wealth |  
+| bip_39_word_new_br_10 | wealth<br>control<br>vehicle<br>modify<br>tornado<br>mansion<br>coffee<br>ability<br>donor<br>soup |  
+| bip_39_word_new_br_11 | wealth<br>control<br>vehicle<br>modify<br>tornado<br>mansion<br>coffee<br>ability<br>donor<br>soup<br>involve |  
+| bip_39_word_new_br_12 | wealth<br>control<br>vehicle<br>modify<br>tornado<br>mansion<br>coffee<br>ability<br>donor<br>soup<br>involve<br>achieve |  
+| bip_39_word_new_br_2 | wealth<br>control |  
+| bip_39_word_new_br_3 | wealth<br>control<br>vehicle |  
+| bip_39_word_new_br_4 | wealth<br>control<br>vehicle<br>modify |  
+| bip_39_word_new_br_5 | wealth<br>control<br>vehicle<br>modify<br>tornado |  
+| bip_39_word_new_br_6 | wealth<br>control<br>vehicle<br>modify<br>tornado<br>mansion |  
+| bip_39_word_new_br_7 | wealth<br>control<br>vehicle<br>modify<br>tornado<br>mansion<br>coffee |  
+| bip_39_word_new_br_8 | wealth<br>control<br>vehicle<br>modify<br>tornado<br>mansion<br>coffee<br>ability |  
+| bip_39_word_new_br_9 | wealth<br>control<br>vehicle<br>modify<br>tornado<br>mansion<br>coffee<br>ability<br>donor |  
+| bip_39_word_new_line_1 | wealth |  
+| bip_39_word_new_line_10 | wealth
 control
 vehicle
 modify
@@ -55,7 +55,7 @@ coffee
 ability
 donor
 soup |  
-| bip_39_word_new_line11 | wealth
+| bip_39_word_new_line_11 | wealth
 control
 vehicle
 modify
@@ -66,7 +66,7 @@ ability
 donor
 soup
 involve |  
-| bip_39_word_new_line12 | wealth
+| bip_39_word_new_line_12 | wealth
 control
 vehicle
 modify
@@ -78,34 +78,34 @@ donor
 soup
 involve
 achieve |  
-| bip_39_word_new_line2 | wealth
+| bip_39_word_new_line_2 | wealth
 control |  
-| bip_39_word_new_line3 | wealth
+| bip_39_word_new_line_3 | wealth
 control
 vehicle |  
-| bip_39_word_new_line4 | wealth
+| bip_39_word_new_line_4 | wealth
 control
 vehicle
 modify |  
-| bip_39_word_new_line5 | wealth
+| bip_39_word_new_line_5 | wealth
 control
 vehicle
 modify
 tornado |  
-| bip_39_word_new_line6 | wealth
+| bip_39_word_new_line_6 | wealth
 control
 vehicle
 modify
 tornado
 mansion |  
-| bip_39_word_new_line7 | wealth
+| bip_39_word_new_line_7 | wealth
 control
 vehicle
 modify
 tornado
 mansion
 coffee |  
-| bip_39_word_new_line8 | wealth
+| bip_39_word_new_line_8 | wealth
 control
 vehicle
 modify
@@ -113,7 +113,7 @@ tornado
 mansion
 coffee
 ability |  
-| bip_39_word_new_line9 | wealth
+| bip_39_word_new_line_9 | wealth
 control
 vehicle
 modify

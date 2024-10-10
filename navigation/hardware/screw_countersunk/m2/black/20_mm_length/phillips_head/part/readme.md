@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | arch |  
-| bip_39_word_new_br10 | arch<br>page<br>extend<br>copy<br>private<br>price<br>modify<br>voice<br>moral<br>merge |  
-| bip_39_word_new_br11 | arch<br>page<br>extend<br>copy<br>private<br>price<br>modify<br>voice<br>moral<br>merge<br>define |  
-| bip_39_word_new_br12 | arch<br>page<br>extend<br>copy<br>private<br>price<br>modify<br>voice<br>moral<br>merge<br>define<br>accuse |  
-| bip_39_word_new_br2 | arch<br>page |  
-| bip_39_word_new_br3 | arch<br>page<br>extend |  
-| bip_39_word_new_br4 | arch<br>page<br>extend<br>copy |  
-| bip_39_word_new_br5 | arch<br>page<br>extend<br>copy<br>private |  
-| bip_39_word_new_br6 | arch<br>page<br>extend<br>copy<br>private<br>price |  
-| bip_39_word_new_br7 | arch<br>page<br>extend<br>copy<br>private<br>price<br>modify |  
-| bip_39_word_new_br8 | arch<br>page<br>extend<br>copy<br>private<br>price<br>modify<br>voice |  
-| bip_39_word_new_br9 | arch<br>page<br>extend<br>copy<br>private<br>price<br>modify<br>voice<br>moral |  
-| bip_39_word_new_line1 | arch |  
-| bip_39_word_new_line10 | arch
+| bip_39_word_new_br_1 | arch |  
+| bip_39_word_new_br_10 | arch<br>page<br>extend<br>copy<br>private<br>price<br>modify<br>voice<br>moral<br>merge |  
+| bip_39_word_new_br_11 | arch<br>page<br>extend<br>copy<br>private<br>price<br>modify<br>voice<br>moral<br>merge<br>define |  
+| bip_39_word_new_br_12 | arch<br>page<br>extend<br>copy<br>private<br>price<br>modify<br>voice<br>moral<br>merge<br>define<br>accuse |  
+| bip_39_word_new_br_2 | arch<br>page |  
+| bip_39_word_new_br_3 | arch<br>page<br>extend |  
+| bip_39_word_new_br_4 | arch<br>page<br>extend<br>copy |  
+| bip_39_word_new_br_5 | arch<br>page<br>extend<br>copy<br>private |  
+| bip_39_word_new_br_6 | arch<br>page<br>extend<br>copy<br>private<br>price |  
+| bip_39_word_new_br_7 | arch<br>page<br>extend<br>copy<br>private<br>price<br>modify |  
+| bip_39_word_new_br_8 | arch<br>page<br>extend<br>copy<br>private<br>price<br>modify<br>voice |  
+| bip_39_word_new_br_9 | arch<br>page<br>extend<br>copy<br>private<br>price<br>modify<br>voice<br>moral |  
+| bip_39_word_new_line_1 | arch |  
+| bip_39_word_new_line_10 | arch
 page
 extend
 copy
@@ -55,7 +55,7 @@ modify
 voice
 moral
 merge |  
-| bip_39_word_new_line11 | arch
+| bip_39_word_new_line_11 | arch
 page
 extend
 copy
@@ -66,7 +66,7 @@ voice
 moral
 merge
 define |  
-| bip_39_word_new_line12 | arch
+| bip_39_word_new_line_12 | arch
 page
 extend
 copy
@@ -78,34 +78,34 @@ moral
 merge
 define
 accuse |  
-| bip_39_word_new_line2 | arch
+| bip_39_word_new_line_2 | arch
 page |  
-| bip_39_word_new_line3 | arch
+| bip_39_word_new_line_3 | arch
 page
 extend |  
-| bip_39_word_new_line4 | arch
+| bip_39_word_new_line_4 | arch
 page
 extend
 copy |  
-| bip_39_word_new_line5 | arch
+| bip_39_word_new_line_5 | arch
 page
 extend
 copy
 private |  
-| bip_39_word_new_line6 | arch
+| bip_39_word_new_line_6 | arch
 page
 extend
 copy
 private
 price |  
-| bip_39_word_new_line7 | arch
+| bip_39_word_new_line_7 | arch
 page
 extend
 copy
 private
 price
 modify |  
-| bip_39_word_new_line8 | arch
+| bip_39_word_new_line_8 | arch
 page
 extend
 copy
@@ -113,7 +113,7 @@ private
 price
 modify
 voice |  
-| bip_39_word_new_line9 | arch
+| bip_39_word_new_line_9 | arch
 page
 extend
 copy

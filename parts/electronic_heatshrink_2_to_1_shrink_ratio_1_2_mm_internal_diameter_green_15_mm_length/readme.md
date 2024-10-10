@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | first |  
-| bip_39_word_new_br10 | first<br>payment<br>ticket<br>era<br>install<br>rebuild<br>craft<br>hammer<br>photo<br>best |  
-| bip_39_word_new_br11 | first<br>payment<br>ticket<br>era<br>install<br>rebuild<br>craft<br>hammer<br>photo<br>best<br>select |  
-| bip_39_word_new_br12 | first<br>payment<br>ticket<br>era<br>install<br>rebuild<br>craft<br>hammer<br>photo<br>best<br>select<br>artefact |  
-| bip_39_word_new_br2 | first<br>payment |  
-| bip_39_word_new_br3 | first<br>payment<br>ticket |  
-| bip_39_word_new_br4 | first<br>payment<br>ticket<br>era |  
-| bip_39_word_new_br5 | first<br>payment<br>ticket<br>era<br>install |  
-| bip_39_word_new_br6 | first<br>payment<br>ticket<br>era<br>install<br>rebuild |  
-| bip_39_word_new_br7 | first<br>payment<br>ticket<br>era<br>install<br>rebuild<br>craft |  
-| bip_39_word_new_br8 | first<br>payment<br>ticket<br>era<br>install<br>rebuild<br>craft<br>hammer |  
-| bip_39_word_new_br9 | first<br>payment<br>ticket<br>era<br>install<br>rebuild<br>craft<br>hammer<br>photo |  
-| bip_39_word_new_line1 | first |  
-| bip_39_word_new_line10 | first
+| bip_39_word_new_br_1 | first |  
+| bip_39_word_new_br_10 | first<br>payment<br>ticket<br>era<br>install<br>rebuild<br>craft<br>hammer<br>photo<br>best |  
+| bip_39_word_new_br_11 | first<br>payment<br>ticket<br>era<br>install<br>rebuild<br>craft<br>hammer<br>photo<br>best<br>select |  
+| bip_39_word_new_br_12 | first<br>payment<br>ticket<br>era<br>install<br>rebuild<br>craft<br>hammer<br>photo<br>best<br>select<br>artefact |  
+| bip_39_word_new_br_2 | first<br>payment |  
+| bip_39_word_new_br_3 | first<br>payment<br>ticket |  
+| bip_39_word_new_br_4 | first<br>payment<br>ticket<br>era |  
+| bip_39_word_new_br_5 | first<br>payment<br>ticket<br>era<br>install |  
+| bip_39_word_new_br_6 | first<br>payment<br>ticket<br>era<br>install<br>rebuild |  
+| bip_39_word_new_br_7 | first<br>payment<br>ticket<br>era<br>install<br>rebuild<br>craft |  
+| bip_39_word_new_br_8 | first<br>payment<br>ticket<br>era<br>install<br>rebuild<br>craft<br>hammer |  
+| bip_39_word_new_br_9 | first<br>payment<br>ticket<br>era<br>install<br>rebuild<br>craft<br>hammer<br>photo |  
+| bip_39_word_new_line_1 | first |  
+| bip_39_word_new_line_10 | first
 payment
 ticket
 era
@@ -55,7 +55,7 @@ craft
 hammer
 photo
 best |  
-| bip_39_word_new_line11 | first
+| bip_39_word_new_line_11 | first
 payment
 ticket
 era
@@ -66,7 +66,7 @@ hammer
 photo
 best
 select |  
-| bip_39_word_new_line12 | first
+| bip_39_word_new_line_12 | first
 payment
 ticket
 era
@@ -78,34 +78,34 @@ photo
 best
 select
 artefact |  
-| bip_39_word_new_line2 | first
+| bip_39_word_new_line_2 | first
 payment |  
-| bip_39_word_new_line3 | first
+| bip_39_word_new_line_3 | first
 payment
 ticket |  
-| bip_39_word_new_line4 | first
+| bip_39_word_new_line_4 | first
 payment
 ticket
 era |  
-| bip_39_word_new_line5 | first
+| bip_39_word_new_line_5 | first
 payment
 ticket
 era
 install |  
-| bip_39_word_new_line6 | first
+| bip_39_word_new_line_6 | first
 payment
 ticket
 era
 install
 rebuild |  
-| bip_39_word_new_line7 | first
+| bip_39_word_new_line_7 | first
 payment
 ticket
 era
 install
 rebuild
 craft |  
-| bip_39_word_new_line8 | first
+| bip_39_word_new_line_8 | first
 payment
 ticket
 era
@@ -113,7 +113,7 @@ install
 rebuild
 craft
 hammer |  
-| bip_39_word_new_line9 | first
+| bip_39_word_new_line_9 | first
 payment
 ticket
 era

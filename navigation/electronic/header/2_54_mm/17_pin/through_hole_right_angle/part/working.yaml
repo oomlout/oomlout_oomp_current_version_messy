@@ -1,17 +1,17 @@
-bip_39_word_new_br1: dismiss
-bip_39_word_new_br10: dismiss<br>section<br>tool<br>deposit<br>evil<br>always<br>girl<br>help<br>yellow<br>cool
-bip_39_word_new_br11: dismiss<br>section<br>tool<br>deposit<br>evil<br>always<br>girl<br>help<br>yellow<br>cool<br>weird
-bip_39_word_new_br12: dismiss<br>section<br>tool<br>deposit<br>evil<br>always<br>girl<br>help<br>yellow<br>cool<br>weird<br>ability
-bip_39_word_new_br2: dismiss<br>section
-bip_39_word_new_br3: dismiss<br>section<br>tool
-bip_39_word_new_br4: dismiss<br>section<br>tool<br>deposit
-bip_39_word_new_br5: dismiss<br>section<br>tool<br>deposit<br>evil
-bip_39_word_new_br6: dismiss<br>section<br>tool<br>deposit<br>evil<br>always
-bip_39_word_new_br7: dismiss<br>section<br>tool<br>deposit<br>evil<br>always<br>girl
-bip_39_word_new_br8: dismiss<br>section<br>tool<br>deposit<br>evil<br>always<br>girl<br>help
-bip_39_word_new_br9: dismiss<br>section<br>tool<br>deposit<br>evil<br>always<br>girl<br>help<br>yellow
-bip_39_word_new_line1: dismiss
-bip_39_word_new_line10: 'dismiss
+bip_39_word_new_br_1: dismiss
+bip_39_word_new_br_10: dismiss<br>section<br>tool<br>deposit<br>evil<br>always<br>girl<br>help<br>yellow<br>cool
+bip_39_word_new_br_11: dismiss<br>section<br>tool<br>deposit<br>evil<br>always<br>girl<br>help<br>yellow<br>cool<br>weird
+bip_39_word_new_br_12: dismiss<br>section<br>tool<br>deposit<br>evil<br>always<br>girl<br>help<br>yellow<br>cool<br>weird<br>ability
+bip_39_word_new_br_2: dismiss<br>section
+bip_39_word_new_br_3: dismiss<br>section<br>tool
+bip_39_word_new_br_4: dismiss<br>section<br>tool<br>deposit
+bip_39_word_new_br_5: dismiss<br>section<br>tool<br>deposit<br>evil
+bip_39_word_new_br_6: dismiss<br>section<br>tool<br>deposit<br>evil<br>always
+bip_39_word_new_br_7: dismiss<br>section<br>tool<br>deposit<br>evil<br>always<br>girl
+bip_39_word_new_br_8: dismiss<br>section<br>tool<br>deposit<br>evil<br>always<br>girl<br>help
+bip_39_word_new_br_9: dismiss<br>section<br>tool<br>deposit<br>evil<br>always<br>girl<br>help<br>yellow
+bip_39_word_new_line_1: dismiss
+bip_39_word_new_line_10: 'dismiss
 
   section
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'dismiss
   yellow
 
   cool'
-bip_39_word_new_line11: 'dismiss
+bip_39_word_new_line_11: 'dismiss
 
   section
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'dismiss
   cool
 
   weird'
-bip_39_word_new_line12: 'dismiss
+bip_39_word_new_line_12: 'dismiss
 
   section
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'dismiss
   weird
 
   ability'
-bip_39_word_new_line2: 'dismiss
+bip_39_word_new_line_2: 'dismiss
 
   section'
-bip_39_word_new_line3: 'dismiss
+bip_39_word_new_line_3: 'dismiss
 
   section
 
   tool'
-bip_39_word_new_line4: 'dismiss
+bip_39_word_new_line_4: 'dismiss
 
   section
 
   tool
 
   deposit'
-bip_39_word_new_line5: 'dismiss
+bip_39_word_new_line_5: 'dismiss
 
   section
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'dismiss
   deposit
 
   evil'
-bip_39_word_new_line6: 'dismiss
+bip_39_word_new_line_6: 'dismiss
 
   section
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'dismiss
   evil
 
   always'
-bip_39_word_new_line7: 'dismiss
+bip_39_word_new_line_7: 'dismiss
 
   section
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'dismiss
   always
 
   girl'
-bip_39_word_new_line8: 'dismiss
+bip_39_word_new_line_8: 'dismiss
 
   section
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'dismiss
   girl
 
   help'
-bip_39_word_new_line9: 'dismiss
+bip_39_word_new_line_9: 'dismiss
 
   section
 

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fan |  
-| bip_39_word_new_br10 | fan<br>pepper<br>west<br>ketchup<br>seed<br>buyer<br>couple<br>gown<br>merit<br>error |  
-| bip_39_word_new_br11 | fan<br>pepper<br>west<br>ketchup<br>seed<br>buyer<br>couple<br>gown<br>merit<br>error<br>phrase |  
-| bip_39_word_new_br12 | fan<br>pepper<br>west<br>ketchup<br>seed<br>buyer<br>couple<br>gown<br>merit<br>error<br>phrase<br>afraid |  
-| bip_39_word_new_br2 | fan<br>pepper |  
-| bip_39_word_new_br3 | fan<br>pepper<br>west |  
-| bip_39_word_new_br4 | fan<br>pepper<br>west<br>ketchup |  
-| bip_39_word_new_br5 | fan<br>pepper<br>west<br>ketchup<br>seed |  
-| bip_39_word_new_br6 | fan<br>pepper<br>west<br>ketchup<br>seed<br>buyer |  
-| bip_39_word_new_br7 | fan<br>pepper<br>west<br>ketchup<br>seed<br>buyer<br>couple |  
-| bip_39_word_new_br8 | fan<br>pepper<br>west<br>ketchup<br>seed<br>buyer<br>couple<br>gown |  
-| bip_39_word_new_br9 | fan<br>pepper<br>west<br>ketchup<br>seed<br>buyer<br>couple<br>gown<br>merit |  
-| bip_39_word_new_line1 | fan |  
-| bip_39_word_new_line10 | fan
+| bip_39_word_new_br_1 | fan |  
+| bip_39_word_new_br_10 | fan<br>pepper<br>west<br>ketchup<br>seed<br>buyer<br>couple<br>gown<br>merit<br>error |  
+| bip_39_word_new_br_11 | fan<br>pepper<br>west<br>ketchup<br>seed<br>buyer<br>couple<br>gown<br>merit<br>error<br>phrase |  
+| bip_39_word_new_br_12 | fan<br>pepper<br>west<br>ketchup<br>seed<br>buyer<br>couple<br>gown<br>merit<br>error<br>phrase<br>afraid |  
+| bip_39_word_new_br_2 | fan<br>pepper |  
+| bip_39_word_new_br_3 | fan<br>pepper<br>west |  
+| bip_39_word_new_br_4 | fan<br>pepper<br>west<br>ketchup |  
+| bip_39_word_new_br_5 | fan<br>pepper<br>west<br>ketchup<br>seed |  
+| bip_39_word_new_br_6 | fan<br>pepper<br>west<br>ketchup<br>seed<br>buyer |  
+| bip_39_word_new_br_7 | fan<br>pepper<br>west<br>ketchup<br>seed<br>buyer<br>couple |  
+| bip_39_word_new_br_8 | fan<br>pepper<br>west<br>ketchup<br>seed<br>buyer<br>couple<br>gown |  
+| bip_39_word_new_br_9 | fan<br>pepper<br>west<br>ketchup<br>seed<br>buyer<br>couple<br>gown<br>merit |  
+| bip_39_word_new_line_1 | fan |  
+| bip_39_word_new_line_10 | fan
 pepper
 west
 ketchup
@@ -55,7 +55,7 @@ couple
 gown
 merit
 error |  
-| bip_39_word_new_line11 | fan
+| bip_39_word_new_line_11 | fan
 pepper
 west
 ketchup
@@ -66,7 +66,7 @@ gown
 merit
 error
 phrase |  
-| bip_39_word_new_line12 | fan
+| bip_39_word_new_line_12 | fan
 pepper
 west
 ketchup
@@ -78,34 +78,34 @@ merit
 error
 phrase
 afraid |  
-| bip_39_word_new_line2 | fan
+| bip_39_word_new_line_2 | fan
 pepper |  
-| bip_39_word_new_line3 | fan
+| bip_39_word_new_line_3 | fan
 pepper
 west |  
-| bip_39_word_new_line4 | fan
+| bip_39_word_new_line_4 | fan
 pepper
 west
 ketchup |  
-| bip_39_word_new_line5 | fan
+| bip_39_word_new_line_5 | fan
 pepper
 west
 ketchup
 seed |  
-| bip_39_word_new_line6 | fan
+| bip_39_word_new_line_6 | fan
 pepper
 west
 ketchup
 seed
 buyer |  
-| bip_39_word_new_line7 | fan
+| bip_39_word_new_line_7 | fan
 pepper
 west
 ketchup
 seed
 buyer
 couple |  
-| bip_39_word_new_line8 | fan
+| bip_39_word_new_line_8 | fan
 pepper
 west
 ketchup
@@ -113,7 +113,7 @@ seed
 buyer
 couple
 gown |  
-| bip_39_word_new_line9 | fan
+| bip_39_word_new_line_9 | fan
 pepper
 west
 ketchup

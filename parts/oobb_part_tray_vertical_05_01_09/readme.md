@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | report |  
-| bip_39_word_new_br10 | report<br>leader<br>explain<br>sail<br>top<br>enforce<br>skill<br>suit<br>smoke<br>indoor |  
-| bip_39_word_new_br11 | report<br>leader<br>explain<br>sail<br>top<br>enforce<br>skill<br>suit<br>smoke<br>indoor<br>electric |  
-| bip_39_word_new_br12 | report<br>leader<br>explain<br>sail<br>top<br>enforce<br>skill<br>suit<br>smoke<br>indoor<br>electric<br>arch |  
-| bip_39_word_new_br2 | report<br>leader |  
-| bip_39_word_new_br3 | report<br>leader<br>explain |  
-| bip_39_word_new_br4 | report<br>leader<br>explain<br>sail |  
-| bip_39_word_new_br5 | report<br>leader<br>explain<br>sail<br>top |  
-| bip_39_word_new_br6 | report<br>leader<br>explain<br>sail<br>top<br>enforce |  
-| bip_39_word_new_br7 | report<br>leader<br>explain<br>sail<br>top<br>enforce<br>skill |  
-| bip_39_word_new_br8 | report<br>leader<br>explain<br>sail<br>top<br>enforce<br>skill<br>suit |  
-| bip_39_word_new_br9 | report<br>leader<br>explain<br>sail<br>top<br>enforce<br>skill<br>suit<br>smoke |  
-| bip_39_word_new_line1 | report |  
-| bip_39_word_new_line10 | report
+| bip_39_word_new_br_1 | report |  
+| bip_39_word_new_br_10 | report<br>leader<br>explain<br>sail<br>top<br>enforce<br>skill<br>suit<br>smoke<br>indoor |  
+| bip_39_word_new_br_11 | report<br>leader<br>explain<br>sail<br>top<br>enforce<br>skill<br>suit<br>smoke<br>indoor<br>electric |  
+| bip_39_word_new_br_12 | report<br>leader<br>explain<br>sail<br>top<br>enforce<br>skill<br>suit<br>smoke<br>indoor<br>electric<br>arch |  
+| bip_39_word_new_br_2 | report<br>leader |  
+| bip_39_word_new_br_3 | report<br>leader<br>explain |  
+| bip_39_word_new_br_4 | report<br>leader<br>explain<br>sail |  
+| bip_39_word_new_br_5 | report<br>leader<br>explain<br>sail<br>top |  
+| bip_39_word_new_br_6 | report<br>leader<br>explain<br>sail<br>top<br>enforce |  
+| bip_39_word_new_br_7 | report<br>leader<br>explain<br>sail<br>top<br>enforce<br>skill |  
+| bip_39_word_new_br_8 | report<br>leader<br>explain<br>sail<br>top<br>enforce<br>skill<br>suit |  
+| bip_39_word_new_br_9 | report<br>leader<br>explain<br>sail<br>top<br>enforce<br>skill<br>suit<br>smoke |  
+| bip_39_word_new_line_1 | report |  
+| bip_39_word_new_line_10 | report
 leader
 explain
 sail
@@ -55,7 +55,7 @@ skill
 suit
 smoke
 indoor |  
-| bip_39_word_new_line11 | report
+| bip_39_word_new_line_11 | report
 leader
 explain
 sail
@@ -66,7 +66,7 @@ suit
 smoke
 indoor
 electric |  
-| bip_39_word_new_line12 | report
+| bip_39_word_new_line_12 | report
 leader
 explain
 sail
@@ -78,34 +78,34 @@ smoke
 indoor
 electric
 arch |  
-| bip_39_word_new_line2 | report
+| bip_39_word_new_line_2 | report
 leader |  
-| bip_39_word_new_line3 | report
+| bip_39_word_new_line_3 | report
 leader
 explain |  
-| bip_39_word_new_line4 | report
+| bip_39_word_new_line_4 | report
 leader
 explain
 sail |  
-| bip_39_word_new_line5 | report
+| bip_39_word_new_line_5 | report
 leader
 explain
 sail
 top |  
-| bip_39_word_new_line6 | report
+| bip_39_word_new_line_6 | report
 leader
 explain
 sail
 top
 enforce |  
-| bip_39_word_new_line7 | report
+| bip_39_word_new_line_7 | report
 leader
 explain
 sail
 top
 enforce
 skill |  
-| bip_39_word_new_line8 | report
+| bip_39_word_new_line_8 | report
 leader
 explain
 sail
@@ -113,7 +113,7 @@ top
 enforce
 skill
 suit |  
-| bip_39_word_new_line9 | report
+| bip_39_word_new_line_9 | report
 leader
 explain
 sail

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | where |  
-| bip_39_word_new_br10 | where<br>hero<br>page<br>merge<br>deputy<br>dirt<br>hand<br>gravity<br>gap<br>nephew |  
-| bip_39_word_new_br11 | where<br>hero<br>page<br>merge<br>deputy<br>dirt<br>hand<br>gravity<br>gap<br>nephew<br>midnight |  
-| bip_39_word_new_br12 | where<br>hero<br>page<br>merge<br>deputy<br>dirt<br>hand<br>gravity<br>gap<br>nephew<br>midnight<br>audit |  
-| bip_39_word_new_br2 | where<br>hero |  
-| bip_39_word_new_br3 | where<br>hero<br>page |  
-| bip_39_word_new_br4 | where<br>hero<br>page<br>merge |  
-| bip_39_word_new_br5 | where<br>hero<br>page<br>merge<br>deputy |  
-| bip_39_word_new_br6 | where<br>hero<br>page<br>merge<br>deputy<br>dirt |  
-| bip_39_word_new_br7 | where<br>hero<br>page<br>merge<br>deputy<br>dirt<br>hand |  
-| bip_39_word_new_br8 | where<br>hero<br>page<br>merge<br>deputy<br>dirt<br>hand<br>gravity |  
-| bip_39_word_new_br9 | where<br>hero<br>page<br>merge<br>deputy<br>dirt<br>hand<br>gravity<br>gap |  
-| bip_39_word_new_line1 | where |  
-| bip_39_word_new_line10 | where
+| bip_39_word_new_br_1 | where |  
+| bip_39_word_new_br_10 | where<br>hero<br>page<br>merge<br>deputy<br>dirt<br>hand<br>gravity<br>gap<br>nephew |  
+| bip_39_word_new_br_11 | where<br>hero<br>page<br>merge<br>deputy<br>dirt<br>hand<br>gravity<br>gap<br>nephew<br>midnight |  
+| bip_39_word_new_br_12 | where<br>hero<br>page<br>merge<br>deputy<br>dirt<br>hand<br>gravity<br>gap<br>nephew<br>midnight<br>audit |  
+| bip_39_word_new_br_2 | where<br>hero |  
+| bip_39_word_new_br_3 | where<br>hero<br>page |  
+| bip_39_word_new_br_4 | where<br>hero<br>page<br>merge |  
+| bip_39_word_new_br_5 | where<br>hero<br>page<br>merge<br>deputy |  
+| bip_39_word_new_br_6 | where<br>hero<br>page<br>merge<br>deputy<br>dirt |  
+| bip_39_word_new_br_7 | where<br>hero<br>page<br>merge<br>deputy<br>dirt<br>hand |  
+| bip_39_word_new_br_8 | where<br>hero<br>page<br>merge<br>deputy<br>dirt<br>hand<br>gravity |  
+| bip_39_word_new_br_9 | where<br>hero<br>page<br>merge<br>deputy<br>dirt<br>hand<br>gravity<br>gap |  
+| bip_39_word_new_line_1 | where |  
+| bip_39_word_new_line_10 | where
 hero
 page
 merge
@@ -55,7 +55,7 @@ hand
 gravity
 gap
 nephew |  
-| bip_39_word_new_line11 | where
+| bip_39_word_new_line_11 | where
 hero
 page
 merge
@@ -66,7 +66,7 @@ gravity
 gap
 nephew
 midnight |  
-| bip_39_word_new_line12 | where
+| bip_39_word_new_line_12 | where
 hero
 page
 merge
@@ -78,34 +78,34 @@ gap
 nephew
 midnight
 audit |  
-| bip_39_word_new_line2 | where
+| bip_39_word_new_line_2 | where
 hero |  
-| bip_39_word_new_line3 | where
+| bip_39_word_new_line_3 | where
 hero
 page |  
-| bip_39_word_new_line4 | where
+| bip_39_word_new_line_4 | where
 hero
 page
 merge |  
-| bip_39_word_new_line5 | where
+| bip_39_word_new_line_5 | where
 hero
 page
 merge
 deputy |  
-| bip_39_word_new_line6 | where
+| bip_39_word_new_line_6 | where
 hero
 page
 merge
 deputy
 dirt |  
-| bip_39_word_new_line7 | where
+| bip_39_word_new_line_7 | where
 hero
 page
 merge
 deputy
 dirt
 hand |  
-| bip_39_word_new_line8 | where
+| bip_39_word_new_line_8 | where
 hero
 page
 merge
@@ -113,7 +113,7 @@ deputy
 dirt
 hand
 gravity |  
-| bip_39_word_new_line9 | where
+| bip_39_word_new_line_9 | where
 hero
 page
 merge

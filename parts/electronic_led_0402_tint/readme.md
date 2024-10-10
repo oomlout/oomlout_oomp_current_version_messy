@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | call |  
-| bip_39_word_new_br10 | call<br>scan<br>coil<br>impulse<br>genuine<br>lava<br>hard<br>agree<br>else<br>afford |  
-| bip_39_word_new_br11 | call<br>scan<br>coil<br>impulse<br>genuine<br>lava<br>hard<br>agree<br>else<br>afford<br>sad |  
-| bip_39_word_new_br12 | call<br>scan<br>coil<br>impulse<br>genuine<br>lava<br>hard<br>agree<br>else<br>afford<br>sad<br>attack |  
-| bip_39_word_new_br2 | call<br>scan |  
-| bip_39_word_new_br3 | call<br>scan<br>coil |  
-| bip_39_word_new_br4 | call<br>scan<br>coil<br>impulse |  
-| bip_39_word_new_br5 | call<br>scan<br>coil<br>impulse<br>genuine |  
-| bip_39_word_new_br6 | call<br>scan<br>coil<br>impulse<br>genuine<br>lava |  
-| bip_39_word_new_br7 | call<br>scan<br>coil<br>impulse<br>genuine<br>lava<br>hard |  
-| bip_39_word_new_br8 | call<br>scan<br>coil<br>impulse<br>genuine<br>lava<br>hard<br>agree |  
-| bip_39_word_new_br9 | call<br>scan<br>coil<br>impulse<br>genuine<br>lava<br>hard<br>agree<br>else |  
-| bip_39_word_new_line1 | call |  
-| bip_39_word_new_line10 | call
+| bip_39_word_new_br_1 | call |  
+| bip_39_word_new_br_10 | call<br>scan<br>coil<br>impulse<br>genuine<br>lava<br>hard<br>agree<br>else<br>afford |  
+| bip_39_word_new_br_11 | call<br>scan<br>coil<br>impulse<br>genuine<br>lava<br>hard<br>agree<br>else<br>afford<br>sad |  
+| bip_39_word_new_br_12 | call<br>scan<br>coil<br>impulse<br>genuine<br>lava<br>hard<br>agree<br>else<br>afford<br>sad<br>attack |  
+| bip_39_word_new_br_2 | call<br>scan |  
+| bip_39_word_new_br_3 | call<br>scan<br>coil |  
+| bip_39_word_new_br_4 | call<br>scan<br>coil<br>impulse |  
+| bip_39_word_new_br_5 | call<br>scan<br>coil<br>impulse<br>genuine |  
+| bip_39_word_new_br_6 | call<br>scan<br>coil<br>impulse<br>genuine<br>lava |  
+| bip_39_word_new_br_7 | call<br>scan<br>coil<br>impulse<br>genuine<br>lava<br>hard |  
+| bip_39_word_new_br_8 | call<br>scan<br>coil<br>impulse<br>genuine<br>lava<br>hard<br>agree |  
+| bip_39_word_new_br_9 | call<br>scan<br>coil<br>impulse<br>genuine<br>lava<br>hard<br>agree<br>else |  
+| bip_39_word_new_line_1 | call |  
+| bip_39_word_new_line_10 | call
 scan
 coil
 impulse
@@ -55,7 +55,7 @@ hard
 agree
 else
 afford |  
-| bip_39_word_new_line11 | call
+| bip_39_word_new_line_11 | call
 scan
 coil
 impulse
@@ -66,7 +66,7 @@ agree
 else
 afford
 sad |  
-| bip_39_word_new_line12 | call
+| bip_39_word_new_line_12 | call
 scan
 coil
 impulse
@@ -78,34 +78,34 @@ else
 afford
 sad
 attack |  
-| bip_39_word_new_line2 | call
+| bip_39_word_new_line_2 | call
 scan |  
-| bip_39_word_new_line3 | call
+| bip_39_word_new_line_3 | call
 scan
 coil |  
-| bip_39_word_new_line4 | call
+| bip_39_word_new_line_4 | call
 scan
 coil
 impulse |  
-| bip_39_word_new_line5 | call
+| bip_39_word_new_line_5 | call
 scan
 coil
 impulse
 genuine |  
-| bip_39_word_new_line6 | call
+| bip_39_word_new_line_6 | call
 scan
 coil
 impulse
 genuine
 lava |  
-| bip_39_word_new_line7 | call
+| bip_39_word_new_line_7 | call
 scan
 coil
 impulse
 genuine
 lava
 hard |  
-| bip_39_word_new_line8 | call
+| bip_39_word_new_line_8 | call
 scan
 coil
 impulse
@@ -113,7 +113,7 @@ genuine
 lava
 hard
 agree |  
-| bip_39_word_new_line9 | call
+| bip_39_word_new_line_9 | call
 scan
 coil
 impulse

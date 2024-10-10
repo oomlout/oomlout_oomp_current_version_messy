@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | snap |  
-| bip_39_word_new_br10 | snap<br>seminar<br>rug<br>stove<br>inflict<br>prefer<br>kiss<br>slight<br>book<br>dog |  
-| bip_39_word_new_br11 | snap<br>seminar<br>rug<br>stove<br>inflict<br>prefer<br>kiss<br>slight<br>book<br>dog<br>burger |  
-| bip_39_word_new_br12 | snap<br>seminar<br>rug<br>stove<br>inflict<br>prefer<br>kiss<br>slight<br>book<br>dog<br>burger<br>access |  
-| bip_39_word_new_br2 | snap<br>seminar |  
-| bip_39_word_new_br3 | snap<br>seminar<br>rug |  
-| bip_39_word_new_br4 | snap<br>seminar<br>rug<br>stove |  
-| bip_39_word_new_br5 | snap<br>seminar<br>rug<br>stove<br>inflict |  
-| bip_39_word_new_br6 | snap<br>seminar<br>rug<br>stove<br>inflict<br>prefer |  
-| bip_39_word_new_br7 | snap<br>seminar<br>rug<br>stove<br>inflict<br>prefer<br>kiss |  
-| bip_39_word_new_br8 | snap<br>seminar<br>rug<br>stove<br>inflict<br>prefer<br>kiss<br>slight |  
-| bip_39_word_new_br9 | snap<br>seminar<br>rug<br>stove<br>inflict<br>prefer<br>kiss<br>slight<br>book |  
-| bip_39_word_new_line1 | snap |  
-| bip_39_word_new_line10 | snap
+| bip_39_word_new_br_1 | snap |  
+| bip_39_word_new_br_10 | snap<br>seminar<br>rug<br>stove<br>inflict<br>prefer<br>kiss<br>slight<br>book<br>dog |  
+| bip_39_word_new_br_11 | snap<br>seminar<br>rug<br>stove<br>inflict<br>prefer<br>kiss<br>slight<br>book<br>dog<br>burger |  
+| bip_39_word_new_br_12 | snap<br>seminar<br>rug<br>stove<br>inflict<br>prefer<br>kiss<br>slight<br>book<br>dog<br>burger<br>access |  
+| bip_39_word_new_br_2 | snap<br>seminar |  
+| bip_39_word_new_br_3 | snap<br>seminar<br>rug |  
+| bip_39_word_new_br_4 | snap<br>seminar<br>rug<br>stove |  
+| bip_39_word_new_br_5 | snap<br>seminar<br>rug<br>stove<br>inflict |  
+| bip_39_word_new_br_6 | snap<br>seminar<br>rug<br>stove<br>inflict<br>prefer |  
+| bip_39_word_new_br_7 | snap<br>seminar<br>rug<br>stove<br>inflict<br>prefer<br>kiss |  
+| bip_39_word_new_br_8 | snap<br>seminar<br>rug<br>stove<br>inflict<br>prefer<br>kiss<br>slight |  
+| bip_39_word_new_br_9 | snap<br>seminar<br>rug<br>stove<br>inflict<br>prefer<br>kiss<br>slight<br>book |  
+| bip_39_word_new_line_1 | snap |  
+| bip_39_word_new_line_10 | snap
 seminar
 rug
 stove
@@ -55,7 +55,7 @@ kiss
 slight
 book
 dog |  
-| bip_39_word_new_line11 | snap
+| bip_39_word_new_line_11 | snap
 seminar
 rug
 stove
@@ -66,7 +66,7 @@ slight
 book
 dog
 burger |  
-| bip_39_word_new_line12 | snap
+| bip_39_word_new_line_12 | snap
 seminar
 rug
 stove
@@ -78,34 +78,34 @@ book
 dog
 burger
 access |  
-| bip_39_word_new_line2 | snap
+| bip_39_word_new_line_2 | snap
 seminar |  
-| bip_39_word_new_line3 | snap
+| bip_39_word_new_line_3 | snap
 seminar
 rug |  
-| bip_39_word_new_line4 | snap
+| bip_39_word_new_line_4 | snap
 seminar
 rug
 stove |  
-| bip_39_word_new_line5 | snap
+| bip_39_word_new_line_5 | snap
 seminar
 rug
 stove
 inflict |  
-| bip_39_word_new_line6 | snap
+| bip_39_word_new_line_6 | snap
 seminar
 rug
 stove
 inflict
 prefer |  
-| bip_39_word_new_line7 | snap
+| bip_39_word_new_line_7 | snap
 seminar
 rug
 stove
 inflict
 prefer
 kiss |  
-| bip_39_word_new_line8 | snap
+| bip_39_word_new_line_8 | snap
 seminar
 rug
 stove
@@ -113,7 +113,7 @@ inflict
 prefer
 kiss
 slight |  
-| bip_39_word_new_line9 | snap
+| bip_39_word_new_line_9 | snap
 seminar
 rug
 stove

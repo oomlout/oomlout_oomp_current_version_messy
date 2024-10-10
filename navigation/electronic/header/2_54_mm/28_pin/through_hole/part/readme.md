@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gossip |  
-| bip_39_word_new_br10 | gossip<br>scare<br>alley<br>weather<br>snake<br>letter<br>black<br>hover<br>shrimp<br>perfect |  
-| bip_39_word_new_br11 | gossip<br>scare<br>alley<br>weather<br>snake<br>letter<br>black<br>hover<br>shrimp<br>perfect<br>shift |  
-| bip_39_word_new_br12 | gossip<br>scare<br>alley<br>weather<br>snake<br>letter<br>black<br>hover<br>shrimp<br>perfect<br>shift<br>arch |  
-| bip_39_word_new_br2 | gossip<br>scare |  
-| bip_39_word_new_br3 | gossip<br>scare<br>alley |  
-| bip_39_word_new_br4 | gossip<br>scare<br>alley<br>weather |  
-| bip_39_word_new_br5 | gossip<br>scare<br>alley<br>weather<br>snake |  
-| bip_39_word_new_br6 | gossip<br>scare<br>alley<br>weather<br>snake<br>letter |  
-| bip_39_word_new_br7 | gossip<br>scare<br>alley<br>weather<br>snake<br>letter<br>black |  
-| bip_39_word_new_br8 | gossip<br>scare<br>alley<br>weather<br>snake<br>letter<br>black<br>hover |  
-| bip_39_word_new_br9 | gossip<br>scare<br>alley<br>weather<br>snake<br>letter<br>black<br>hover<br>shrimp |  
-| bip_39_word_new_line1 | gossip |  
-| bip_39_word_new_line10 | gossip
+| bip_39_word_new_br_1 | gossip |  
+| bip_39_word_new_br_10 | gossip<br>scare<br>alley<br>weather<br>snake<br>letter<br>black<br>hover<br>shrimp<br>perfect |  
+| bip_39_word_new_br_11 | gossip<br>scare<br>alley<br>weather<br>snake<br>letter<br>black<br>hover<br>shrimp<br>perfect<br>shift |  
+| bip_39_word_new_br_12 | gossip<br>scare<br>alley<br>weather<br>snake<br>letter<br>black<br>hover<br>shrimp<br>perfect<br>shift<br>arch |  
+| bip_39_word_new_br_2 | gossip<br>scare |  
+| bip_39_word_new_br_3 | gossip<br>scare<br>alley |  
+| bip_39_word_new_br_4 | gossip<br>scare<br>alley<br>weather |  
+| bip_39_word_new_br_5 | gossip<br>scare<br>alley<br>weather<br>snake |  
+| bip_39_word_new_br_6 | gossip<br>scare<br>alley<br>weather<br>snake<br>letter |  
+| bip_39_word_new_br_7 | gossip<br>scare<br>alley<br>weather<br>snake<br>letter<br>black |  
+| bip_39_word_new_br_8 | gossip<br>scare<br>alley<br>weather<br>snake<br>letter<br>black<br>hover |  
+| bip_39_word_new_br_9 | gossip<br>scare<br>alley<br>weather<br>snake<br>letter<br>black<br>hover<br>shrimp |  
+| bip_39_word_new_line_1 | gossip |  
+| bip_39_word_new_line_10 | gossip
 scare
 alley
 weather
@@ -55,7 +55,7 @@ black
 hover
 shrimp
 perfect |  
-| bip_39_word_new_line11 | gossip
+| bip_39_word_new_line_11 | gossip
 scare
 alley
 weather
@@ -66,7 +66,7 @@ hover
 shrimp
 perfect
 shift |  
-| bip_39_word_new_line12 | gossip
+| bip_39_word_new_line_12 | gossip
 scare
 alley
 weather
@@ -78,34 +78,34 @@ shrimp
 perfect
 shift
 arch |  
-| bip_39_word_new_line2 | gossip
+| bip_39_word_new_line_2 | gossip
 scare |  
-| bip_39_word_new_line3 | gossip
+| bip_39_word_new_line_3 | gossip
 scare
 alley |  
-| bip_39_word_new_line4 | gossip
+| bip_39_word_new_line_4 | gossip
 scare
 alley
 weather |  
-| bip_39_word_new_line5 | gossip
+| bip_39_word_new_line_5 | gossip
 scare
 alley
 weather
 snake |  
-| bip_39_word_new_line6 | gossip
+| bip_39_word_new_line_6 | gossip
 scare
 alley
 weather
 snake
 letter |  
-| bip_39_word_new_line7 | gossip
+| bip_39_word_new_line_7 | gossip
 scare
 alley
 weather
 snake
 letter
 black |  
-| bip_39_word_new_line8 | gossip
+| bip_39_word_new_line_8 | gossip
 scare
 alley
 weather
@@ -113,7 +113,7 @@ snake
 letter
 black
 hover |  
-| bip_39_word_new_line9 | gossip
+| bip_39_word_new_line_9 | gossip
 scare
 alley
 weather

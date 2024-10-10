@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | round |  
-| bip_39_word_new_br10 | round<br>add<br>truly<br>garlic<br>zebra<br>add<br>follow<br>spend<br>bicycle<br>photo |  
-| bip_39_word_new_br11 | round<br>add<br>truly<br>garlic<br>zebra<br>add<br>follow<br>spend<br>bicycle<br>photo<br>topple |  
-| bip_39_word_new_br12 | round<br>add<br>truly<br>garlic<br>zebra<br>add<br>follow<br>spend<br>bicycle<br>photo<br>topple<br>agree |  
-| bip_39_word_new_br2 | round<br>add |  
-| bip_39_word_new_br3 | round<br>add<br>truly |  
-| bip_39_word_new_br4 | round<br>add<br>truly<br>garlic |  
-| bip_39_word_new_br5 | round<br>add<br>truly<br>garlic<br>zebra |  
-| bip_39_word_new_br6 | round<br>add<br>truly<br>garlic<br>zebra<br>add |  
-| bip_39_word_new_br7 | round<br>add<br>truly<br>garlic<br>zebra<br>add<br>follow |  
-| bip_39_word_new_br8 | round<br>add<br>truly<br>garlic<br>zebra<br>add<br>follow<br>spend |  
-| bip_39_word_new_br9 | round<br>add<br>truly<br>garlic<br>zebra<br>add<br>follow<br>spend<br>bicycle |  
-| bip_39_word_new_line1 | round |  
-| bip_39_word_new_line10 | round
+| bip_39_word_new_br_1 | round |  
+| bip_39_word_new_br_10 | round<br>add<br>truly<br>garlic<br>zebra<br>add<br>follow<br>spend<br>bicycle<br>photo |  
+| bip_39_word_new_br_11 | round<br>add<br>truly<br>garlic<br>zebra<br>add<br>follow<br>spend<br>bicycle<br>photo<br>topple |  
+| bip_39_word_new_br_12 | round<br>add<br>truly<br>garlic<br>zebra<br>add<br>follow<br>spend<br>bicycle<br>photo<br>topple<br>agree |  
+| bip_39_word_new_br_2 | round<br>add |  
+| bip_39_word_new_br_3 | round<br>add<br>truly |  
+| bip_39_word_new_br_4 | round<br>add<br>truly<br>garlic |  
+| bip_39_word_new_br_5 | round<br>add<br>truly<br>garlic<br>zebra |  
+| bip_39_word_new_br_6 | round<br>add<br>truly<br>garlic<br>zebra<br>add |  
+| bip_39_word_new_br_7 | round<br>add<br>truly<br>garlic<br>zebra<br>add<br>follow |  
+| bip_39_word_new_br_8 | round<br>add<br>truly<br>garlic<br>zebra<br>add<br>follow<br>spend |  
+| bip_39_word_new_br_9 | round<br>add<br>truly<br>garlic<br>zebra<br>add<br>follow<br>spend<br>bicycle |  
+| bip_39_word_new_line_1 | round |  
+| bip_39_word_new_line_10 | round
 add
 truly
 garlic
@@ -55,7 +55,7 @@ follow
 spend
 bicycle
 photo |  
-| bip_39_word_new_line11 | round
+| bip_39_word_new_line_11 | round
 add
 truly
 garlic
@@ -66,7 +66,7 @@ spend
 bicycle
 photo
 topple |  
-| bip_39_word_new_line12 | round
+| bip_39_word_new_line_12 | round
 add
 truly
 garlic
@@ -78,34 +78,34 @@ bicycle
 photo
 topple
 agree |  
-| bip_39_word_new_line2 | round
+| bip_39_word_new_line_2 | round
 add |  
-| bip_39_word_new_line3 | round
+| bip_39_word_new_line_3 | round
 add
 truly |  
-| bip_39_word_new_line4 | round
+| bip_39_word_new_line_4 | round
 add
 truly
 garlic |  
-| bip_39_word_new_line5 | round
+| bip_39_word_new_line_5 | round
 add
 truly
 garlic
 zebra |  
-| bip_39_word_new_line6 | round
+| bip_39_word_new_line_6 | round
 add
 truly
 garlic
 zebra
 add |  
-| bip_39_word_new_line7 | round
+| bip_39_word_new_line_7 | round
 add
 truly
 garlic
 zebra
 add
 follow |  
-| bip_39_word_new_line8 | round
+| bip_39_word_new_line_8 | round
 add
 truly
 garlic
@@ -113,7 +113,7 @@ zebra
 add
 follow
 spend |  
-| bip_39_word_new_line9 | round
+| bip_39_word_new_line_9 | round
 add
 truly
 garlic

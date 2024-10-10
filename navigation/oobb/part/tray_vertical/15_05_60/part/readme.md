@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | soldier |  
-| bip_39_word_new_br10 | soldier<br>essay<br>jump<br>surprise<br>wealth<br>sheriff<br>lock<br>draft<br>moral<br>property |  
-| bip_39_word_new_br11 | soldier<br>essay<br>jump<br>surprise<br>wealth<br>sheriff<br>lock<br>draft<br>moral<br>property<br>habit |  
-| bip_39_word_new_br12 | soldier<br>essay<br>jump<br>surprise<br>wealth<br>sheriff<br>lock<br>draft<br>moral<br>property<br>habit<br>art |  
-| bip_39_word_new_br2 | soldier<br>essay |  
-| bip_39_word_new_br3 | soldier<br>essay<br>jump |  
-| bip_39_word_new_br4 | soldier<br>essay<br>jump<br>surprise |  
-| bip_39_word_new_br5 | soldier<br>essay<br>jump<br>surprise<br>wealth |  
-| bip_39_word_new_br6 | soldier<br>essay<br>jump<br>surprise<br>wealth<br>sheriff |  
-| bip_39_word_new_br7 | soldier<br>essay<br>jump<br>surprise<br>wealth<br>sheriff<br>lock |  
-| bip_39_word_new_br8 | soldier<br>essay<br>jump<br>surprise<br>wealth<br>sheriff<br>lock<br>draft |  
-| bip_39_word_new_br9 | soldier<br>essay<br>jump<br>surprise<br>wealth<br>sheriff<br>lock<br>draft<br>moral |  
-| bip_39_word_new_line1 | soldier |  
-| bip_39_word_new_line10 | soldier
+| bip_39_word_new_br_1 | soldier |  
+| bip_39_word_new_br_10 | soldier<br>essay<br>jump<br>surprise<br>wealth<br>sheriff<br>lock<br>draft<br>moral<br>property |  
+| bip_39_word_new_br_11 | soldier<br>essay<br>jump<br>surprise<br>wealth<br>sheriff<br>lock<br>draft<br>moral<br>property<br>habit |  
+| bip_39_word_new_br_12 | soldier<br>essay<br>jump<br>surprise<br>wealth<br>sheriff<br>lock<br>draft<br>moral<br>property<br>habit<br>art |  
+| bip_39_word_new_br_2 | soldier<br>essay |  
+| bip_39_word_new_br_3 | soldier<br>essay<br>jump |  
+| bip_39_word_new_br_4 | soldier<br>essay<br>jump<br>surprise |  
+| bip_39_word_new_br_5 | soldier<br>essay<br>jump<br>surprise<br>wealth |  
+| bip_39_word_new_br_6 | soldier<br>essay<br>jump<br>surprise<br>wealth<br>sheriff |  
+| bip_39_word_new_br_7 | soldier<br>essay<br>jump<br>surprise<br>wealth<br>sheriff<br>lock |  
+| bip_39_word_new_br_8 | soldier<br>essay<br>jump<br>surprise<br>wealth<br>sheriff<br>lock<br>draft |  
+| bip_39_word_new_br_9 | soldier<br>essay<br>jump<br>surprise<br>wealth<br>sheriff<br>lock<br>draft<br>moral |  
+| bip_39_word_new_line_1 | soldier |  
+| bip_39_word_new_line_10 | soldier
 essay
 jump
 surprise
@@ -55,7 +55,7 @@ lock
 draft
 moral
 property |  
-| bip_39_word_new_line11 | soldier
+| bip_39_word_new_line_11 | soldier
 essay
 jump
 surprise
@@ -66,7 +66,7 @@ draft
 moral
 property
 habit |  
-| bip_39_word_new_line12 | soldier
+| bip_39_word_new_line_12 | soldier
 essay
 jump
 surprise
@@ -78,34 +78,34 @@ moral
 property
 habit
 art |  
-| bip_39_word_new_line2 | soldier
+| bip_39_word_new_line_2 | soldier
 essay |  
-| bip_39_word_new_line3 | soldier
+| bip_39_word_new_line_3 | soldier
 essay
 jump |  
-| bip_39_word_new_line4 | soldier
+| bip_39_word_new_line_4 | soldier
 essay
 jump
 surprise |  
-| bip_39_word_new_line5 | soldier
+| bip_39_word_new_line_5 | soldier
 essay
 jump
 surprise
 wealth |  
-| bip_39_word_new_line6 | soldier
+| bip_39_word_new_line_6 | soldier
 essay
 jump
 surprise
 wealth
 sheriff |  
-| bip_39_word_new_line7 | soldier
+| bip_39_word_new_line_7 | soldier
 essay
 jump
 surprise
 wealth
 sheriff
 lock |  
-| bip_39_word_new_line8 | soldier
+| bip_39_word_new_line_8 | soldier
 essay
 jump
 surprise
@@ -113,7 +113,7 @@ wealth
 sheriff
 lock
 draft |  
-| bip_39_word_new_line9 | soldier
+| bip_39_word_new_line_9 | soldier
 essay
 jump
 surprise

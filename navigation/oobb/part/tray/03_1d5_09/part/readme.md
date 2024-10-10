@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | must |  
-| bip_39_word_new_br10 | must<br>edit<br>table<br>local<br>resource<br>odor<br>deliver<br>today<br>cushion<br>pulse |  
-| bip_39_word_new_br11 | must<br>edit<br>table<br>local<br>resource<br>odor<br>deliver<br>today<br>cushion<br>pulse<br>push |  
-| bip_39_word_new_br12 | must<br>edit<br>table<br>local<br>resource<br>odor<br>deliver<br>today<br>cushion<br>pulse<br>push<br>approve |  
-| bip_39_word_new_br2 | must<br>edit |  
-| bip_39_word_new_br3 | must<br>edit<br>table |  
-| bip_39_word_new_br4 | must<br>edit<br>table<br>local |  
-| bip_39_word_new_br5 | must<br>edit<br>table<br>local<br>resource |  
-| bip_39_word_new_br6 | must<br>edit<br>table<br>local<br>resource<br>odor |  
-| bip_39_word_new_br7 | must<br>edit<br>table<br>local<br>resource<br>odor<br>deliver |  
-| bip_39_word_new_br8 | must<br>edit<br>table<br>local<br>resource<br>odor<br>deliver<br>today |  
-| bip_39_word_new_br9 | must<br>edit<br>table<br>local<br>resource<br>odor<br>deliver<br>today<br>cushion |  
-| bip_39_word_new_line1 | must |  
-| bip_39_word_new_line10 | must
+| bip_39_word_new_br_1 | must |  
+| bip_39_word_new_br_10 | must<br>edit<br>table<br>local<br>resource<br>odor<br>deliver<br>today<br>cushion<br>pulse |  
+| bip_39_word_new_br_11 | must<br>edit<br>table<br>local<br>resource<br>odor<br>deliver<br>today<br>cushion<br>pulse<br>push |  
+| bip_39_word_new_br_12 | must<br>edit<br>table<br>local<br>resource<br>odor<br>deliver<br>today<br>cushion<br>pulse<br>push<br>approve |  
+| bip_39_word_new_br_2 | must<br>edit |  
+| bip_39_word_new_br_3 | must<br>edit<br>table |  
+| bip_39_word_new_br_4 | must<br>edit<br>table<br>local |  
+| bip_39_word_new_br_5 | must<br>edit<br>table<br>local<br>resource |  
+| bip_39_word_new_br_6 | must<br>edit<br>table<br>local<br>resource<br>odor |  
+| bip_39_word_new_br_7 | must<br>edit<br>table<br>local<br>resource<br>odor<br>deliver |  
+| bip_39_word_new_br_8 | must<br>edit<br>table<br>local<br>resource<br>odor<br>deliver<br>today |  
+| bip_39_word_new_br_9 | must<br>edit<br>table<br>local<br>resource<br>odor<br>deliver<br>today<br>cushion |  
+| bip_39_word_new_line_1 | must |  
+| bip_39_word_new_line_10 | must
 edit
 table
 local
@@ -55,7 +55,7 @@ deliver
 today
 cushion
 pulse |  
-| bip_39_word_new_line11 | must
+| bip_39_word_new_line_11 | must
 edit
 table
 local
@@ -66,7 +66,7 @@ today
 cushion
 pulse
 push |  
-| bip_39_word_new_line12 | must
+| bip_39_word_new_line_12 | must
 edit
 table
 local
@@ -78,34 +78,34 @@ cushion
 pulse
 push
 approve |  
-| bip_39_word_new_line2 | must
+| bip_39_word_new_line_2 | must
 edit |  
-| bip_39_word_new_line3 | must
+| bip_39_word_new_line_3 | must
 edit
 table |  
-| bip_39_word_new_line4 | must
+| bip_39_word_new_line_4 | must
 edit
 table
 local |  
-| bip_39_word_new_line5 | must
+| bip_39_word_new_line_5 | must
 edit
 table
 local
 resource |  
-| bip_39_word_new_line6 | must
+| bip_39_word_new_line_6 | must
 edit
 table
 local
 resource
 odor |  
-| bip_39_word_new_line7 | must
+| bip_39_word_new_line_7 | must
 edit
 table
 local
 resource
 odor
 deliver |  
-| bip_39_word_new_line8 | must
+| bip_39_word_new_line_8 | must
 edit
 table
 local
@@ -113,7 +113,7 @@ resource
 odor
 deliver
 today |  
-| bip_39_word_new_line9 | must
+| bip_39_word_new_line_9 | must
 edit
 table
 local

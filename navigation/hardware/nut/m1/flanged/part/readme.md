@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mass |  
-| bip_39_word_new_br10 | mass<br>song<br>enforce<br>enemy<br>indicate<br>erupt<br>ahead<br>input<br>truck<br>mammal |  
-| bip_39_word_new_br11 | mass<br>song<br>enforce<br>enemy<br>indicate<br>erupt<br>ahead<br>input<br>truck<br>mammal<br>sleep |  
-| bip_39_word_new_br12 | mass<br>song<br>enforce<br>enemy<br>indicate<br>erupt<br>ahead<br>input<br>truck<br>mammal<br>sleep<br>auto |  
-| bip_39_word_new_br2 | mass<br>song |  
-| bip_39_word_new_br3 | mass<br>song<br>enforce |  
-| bip_39_word_new_br4 | mass<br>song<br>enforce<br>enemy |  
-| bip_39_word_new_br5 | mass<br>song<br>enforce<br>enemy<br>indicate |  
-| bip_39_word_new_br6 | mass<br>song<br>enforce<br>enemy<br>indicate<br>erupt |  
-| bip_39_word_new_br7 | mass<br>song<br>enforce<br>enemy<br>indicate<br>erupt<br>ahead |  
-| bip_39_word_new_br8 | mass<br>song<br>enforce<br>enemy<br>indicate<br>erupt<br>ahead<br>input |  
-| bip_39_word_new_br9 | mass<br>song<br>enforce<br>enemy<br>indicate<br>erupt<br>ahead<br>input<br>truck |  
-| bip_39_word_new_line1 | mass |  
-| bip_39_word_new_line10 | mass
+| bip_39_word_new_br_1 | mass |  
+| bip_39_word_new_br_10 | mass<br>song<br>enforce<br>enemy<br>indicate<br>erupt<br>ahead<br>input<br>truck<br>mammal |  
+| bip_39_word_new_br_11 | mass<br>song<br>enforce<br>enemy<br>indicate<br>erupt<br>ahead<br>input<br>truck<br>mammal<br>sleep |  
+| bip_39_word_new_br_12 | mass<br>song<br>enforce<br>enemy<br>indicate<br>erupt<br>ahead<br>input<br>truck<br>mammal<br>sleep<br>auto |  
+| bip_39_word_new_br_2 | mass<br>song |  
+| bip_39_word_new_br_3 | mass<br>song<br>enforce |  
+| bip_39_word_new_br_4 | mass<br>song<br>enforce<br>enemy |  
+| bip_39_word_new_br_5 | mass<br>song<br>enforce<br>enemy<br>indicate |  
+| bip_39_word_new_br_6 | mass<br>song<br>enforce<br>enemy<br>indicate<br>erupt |  
+| bip_39_word_new_br_7 | mass<br>song<br>enforce<br>enemy<br>indicate<br>erupt<br>ahead |  
+| bip_39_word_new_br_8 | mass<br>song<br>enforce<br>enemy<br>indicate<br>erupt<br>ahead<br>input |  
+| bip_39_word_new_br_9 | mass<br>song<br>enforce<br>enemy<br>indicate<br>erupt<br>ahead<br>input<br>truck |  
+| bip_39_word_new_line_1 | mass |  
+| bip_39_word_new_line_10 | mass
 song
 enforce
 enemy
@@ -55,7 +55,7 @@ ahead
 input
 truck
 mammal |  
-| bip_39_word_new_line11 | mass
+| bip_39_word_new_line_11 | mass
 song
 enforce
 enemy
@@ -66,7 +66,7 @@ input
 truck
 mammal
 sleep |  
-| bip_39_word_new_line12 | mass
+| bip_39_word_new_line_12 | mass
 song
 enforce
 enemy
@@ -78,34 +78,34 @@ truck
 mammal
 sleep
 auto |  
-| bip_39_word_new_line2 | mass
+| bip_39_word_new_line_2 | mass
 song |  
-| bip_39_word_new_line3 | mass
+| bip_39_word_new_line_3 | mass
 song
 enforce |  
-| bip_39_word_new_line4 | mass
+| bip_39_word_new_line_4 | mass
 song
 enforce
 enemy |  
-| bip_39_word_new_line5 | mass
+| bip_39_word_new_line_5 | mass
 song
 enforce
 enemy
 indicate |  
-| bip_39_word_new_line6 | mass
+| bip_39_word_new_line_6 | mass
 song
 enforce
 enemy
 indicate
 erupt |  
-| bip_39_word_new_line7 | mass
+| bip_39_word_new_line_7 | mass
 song
 enforce
 enemy
 indicate
 erupt
 ahead |  
-| bip_39_word_new_line8 | mass
+| bip_39_word_new_line_8 | mass
 song
 enforce
 enemy
@@ -113,7 +113,7 @@ indicate
 erupt
 ahead
 input |  
-| bip_39_word_new_line9 | mass
+| bip_39_word_new_line_9 | mass
 song
 enforce
 enemy

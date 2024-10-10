@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | judge |  
-| bip_39_word_new_br10 | judge<br>left<br>nothing<br>obey<br>clever<br>fan<br>switch<br>idle<br>stock<br>tissue |  
-| bip_39_word_new_br11 | judge<br>left<br>nothing<br>obey<br>clever<br>fan<br>switch<br>idle<br>stock<br>tissue<br>pumpkin |  
-| bip_39_word_new_br12 | judge<br>left<br>nothing<br>obey<br>clever<br>fan<br>switch<br>idle<br>stock<br>tissue<br>pumpkin<br>aisle |  
-| bip_39_word_new_br2 | judge<br>left |  
-| bip_39_word_new_br3 | judge<br>left<br>nothing |  
-| bip_39_word_new_br4 | judge<br>left<br>nothing<br>obey |  
-| bip_39_word_new_br5 | judge<br>left<br>nothing<br>obey<br>clever |  
-| bip_39_word_new_br6 | judge<br>left<br>nothing<br>obey<br>clever<br>fan |  
-| bip_39_word_new_br7 | judge<br>left<br>nothing<br>obey<br>clever<br>fan<br>switch |  
-| bip_39_word_new_br8 | judge<br>left<br>nothing<br>obey<br>clever<br>fan<br>switch<br>idle |  
-| bip_39_word_new_br9 | judge<br>left<br>nothing<br>obey<br>clever<br>fan<br>switch<br>idle<br>stock |  
-| bip_39_word_new_line1 | judge |  
-| bip_39_word_new_line10 | judge
+| bip_39_word_new_br_1 | judge |  
+| bip_39_word_new_br_10 | judge<br>left<br>nothing<br>obey<br>clever<br>fan<br>switch<br>idle<br>stock<br>tissue |  
+| bip_39_word_new_br_11 | judge<br>left<br>nothing<br>obey<br>clever<br>fan<br>switch<br>idle<br>stock<br>tissue<br>pumpkin |  
+| bip_39_word_new_br_12 | judge<br>left<br>nothing<br>obey<br>clever<br>fan<br>switch<br>idle<br>stock<br>tissue<br>pumpkin<br>aisle |  
+| bip_39_word_new_br_2 | judge<br>left |  
+| bip_39_word_new_br_3 | judge<br>left<br>nothing |  
+| bip_39_word_new_br_4 | judge<br>left<br>nothing<br>obey |  
+| bip_39_word_new_br_5 | judge<br>left<br>nothing<br>obey<br>clever |  
+| bip_39_word_new_br_6 | judge<br>left<br>nothing<br>obey<br>clever<br>fan |  
+| bip_39_word_new_br_7 | judge<br>left<br>nothing<br>obey<br>clever<br>fan<br>switch |  
+| bip_39_word_new_br_8 | judge<br>left<br>nothing<br>obey<br>clever<br>fan<br>switch<br>idle |  
+| bip_39_word_new_br_9 | judge<br>left<br>nothing<br>obey<br>clever<br>fan<br>switch<br>idle<br>stock |  
+| bip_39_word_new_line_1 | judge |  
+| bip_39_word_new_line_10 | judge
 left
 nothing
 obey
@@ -55,7 +55,7 @@ switch
 idle
 stock
 tissue |  
-| bip_39_word_new_line11 | judge
+| bip_39_word_new_line_11 | judge
 left
 nothing
 obey
@@ -66,7 +66,7 @@ idle
 stock
 tissue
 pumpkin |  
-| bip_39_word_new_line12 | judge
+| bip_39_word_new_line_12 | judge
 left
 nothing
 obey
@@ -78,34 +78,34 @@ stock
 tissue
 pumpkin
 aisle |  
-| bip_39_word_new_line2 | judge
+| bip_39_word_new_line_2 | judge
 left |  
-| bip_39_word_new_line3 | judge
+| bip_39_word_new_line_3 | judge
 left
 nothing |  
-| bip_39_word_new_line4 | judge
+| bip_39_word_new_line_4 | judge
 left
 nothing
 obey |  
-| bip_39_word_new_line5 | judge
+| bip_39_word_new_line_5 | judge
 left
 nothing
 obey
 clever |  
-| bip_39_word_new_line6 | judge
+| bip_39_word_new_line_6 | judge
 left
 nothing
 obey
 clever
 fan |  
-| bip_39_word_new_line7 | judge
+| bip_39_word_new_line_7 | judge
 left
 nothing
 obey
 clever
 fan
 switch |  
-| bip_39_word_new_line8 | judge
+| bip_39_word_new_line_8 | judge
 left
 nothing
 obey
@@ -113,7 +113,7 @@ clever
 fan
 switch
 idle |  
-| bip_39_word_new_line9 | judge
+| bip_39_word_new_line_9 | judge
 left
 nothing
 obey

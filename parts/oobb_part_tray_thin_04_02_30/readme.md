@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | october |  
-| bip_39_word_new_br10 | october<br>artist<br>leaf<br>swift<br>regret<br>guitar<br>gold<br>theory<br>mercy<br>evolve |  
-| bip_39_word_new_br11 | october<br>artist<br>leaf<br>swift<br>regret<br>guitar<br>gold<br>theory<br>mercy<br>evolve<br>joy |  
-| bip_39_word_new_br12 | october<br>artist<br>leaf<br>swift<br>regret<br>guitar<br>gold<br>theory<br>mercy<br>evolve<br>joy<br>another |  
-| bip_39_word_new_br2 | october<br>artist |  
-| bip_39_word_new_br3 | october<br>artist<br>leaf |  
-| bip_39_word_new_br4 | october<br>artist<br>leaf<br>swift |  
-| bip_39_word_new_br5 | october<br>artist<br>leaf<br>swift<br>regret |  
-| bip_39_word_new_br6 | october<br>artist<br>leaf<br>swift<br>regret<br>guitar |  
-| bip_39_word_new_br7 | october<br>artist<br>leaf<br>swift<br>regret<br>guitar<br>gold |  
-| bip_39_word_new_br8 | october<br>artist<br>leaf<br>swift<br>regret<br>guitar<br>gold<br>theory |  
-| bip_39_word_new_br9 | october<br>artist<br>leaf<br>swift<br>regret<br>guitar<br>gold<br>theory<br>mercy |  
-| bip_39_word_new_line1 | october |  
-| bip_39_word_new_line10 | october
+| bip_39_word_new_br_1 | october |  
+| bip_39_word_new_br_10 | october<br>artist<br>leaf<br>swift<br>regret<br>guitar<br>gold<br>theory<br>mercy<br>evolve |  
+| bip_39_word_new_br_11 | october<br>artist<br>leaf<br>swift<br>regret<br>guitar<br>gold<br>theory<br>mercy<br>evolve<br>joy |  
+| bip_39_word_new_br_12 | october<br>artist<br>leaf<br>swift<br>regret<br>guitar<br>gold<br>theory<br>mercy<br>evolve<br>joy<br>another |  
+| bip_39_word_new_br_2 | october<br>artist |  
+| bip_39_word_new_br_3 | october<br>artist<br>leaf |  
+| bip_39_word_new_br_4 | october<br>artist<br>leaf<br>swift |  
+| bip_39_word_new_br_5 | october<br>artist<br>leaf<br>swift<br>regret |  
+| bip_39_word_new_br_6 | october<br>artist<br>leaf<br>swift<br>regret<br>guitar |  
+| bip_39_word_new_br_7 | october<br>artist<br>leaf<br>swift<br>regret<br>guitar<br>gold |  
+| bip_39_word_new_br_8 | october<br>artist<br>leaf<br>swift<br>regret<br>guitar<br>gold<br>theory |  
+| bip_39_word_new_br_9 | october<br>artist<br>leaf<br>swift<br>regret<br>guitar<br>gold<br>theory<br>mercy |  
+| bip_39_word_new_line_1 | october |  
+| bip_39_word_new_line_10 | october
 artist
 leaf
 swift
@@ -55,7 +55,7 @@ gold
 theory
 mercy
 evolve |  
-| bip_39_word_new_line11 | october
+| bip_39_word_new_line_11 | october
 artist
 leaf
 swift
@@ -66,7 +66,7 @@ theory
 mercy
 evolve
 joy |  
-| bip_39_word_new_line12 | october
+| bip_39_word_new_line_12 | october
 artist
 leaf
 swift
@@ -78,34 +78,34 @@ mercy
 evolve
 joy
 another |  
-| bip_39_word_new_line2 | october
+| bip_39_word_new_line_2 | october
 artist |  
-| bip_39_word_new_line3 | october
+| bip_39_word_new_line_3 | october
 artist
 leaf |  
-| bip_39_word_new_line4 | october
+| bip_39_word_new_line_4 | october
 artist
 leaf
 swift |  
-| bip_39_word_new_line5 | october
+| bip_39_word_new_line_5 | october
 artist
 leaf
 swift
 regret |  
-| bip_39_word_new_line6 | october
+| bip_39_word_new_line_6 | october
 artist
 leaf
 swift
 regret
 guitar |  
-| bip_39_word_new_line7 | october
+| bip_39_word_new_line_7 | october
 artist
 leaf
 swift
 regret
 guitar
 gold |  
-| bip_39_word_new_line8 | october
+| bip_39_word_new_line_8 | october
 artist
 leaf
 swift
@@ -113,7 +113,7 @@ regret
 guitar
 gold
 theory |  
-| bip_39_word_new_line9 | october
+| bip_39_word_new_line_9 | october
 artist
 leaf
 swift

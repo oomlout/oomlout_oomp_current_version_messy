@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mean |  
-| bip_39_word_new_br10 | mean<br>exchange<br>promote<br>kingdom<br>truly<br>monkey<br>climb<br>unfair<br>clown<br>fence |  
-| bip_39_word_new_br11 | mean<br>exchange<br>promote<br>kingdom<br>truly<br>monkey<br>climb<br>unfair<br>clown<br>fence<br>credit |  
-| bip_39_word_new_br12 | mean<br>exchange<br>promote<br>kingdom<br>truly<br>monkey<br>climb<br>unfair<br>clown<br>fence<br>credit<br>amateur |  
-| bip_39_word_new_br2 | mean<br>exchange |  
-| bip_39_word_new_br3 | mean<br>exchange<br>promote |  
-| bip_39_word_new_br4 | mean<br>exchange<br>promote<br>kingdom |  
-| bip_39_word_new_br5 | mean<br>exchange<br>promote<br>kingdom<br>truly |  
-| bip_39_word_new_br6 | mean<br>exchange<br>promote<br>kingdom<br>truly<br>monkey |  
-| bip_39_word_new_br7 | mean<br>exchange<br>promote<br>kingdom<br>truly<br>monkey<br>climb |  
-| bip_39_word_new_br8 | mean<br>exchange<br>promote<br>kingdom<br>truly<br>monkey<br>climb<br>unfair |  
-| bip_39_word_new_br9 | mean<br>exchange<br>promote<br>kingdom<br>truly<br>monkey<br>climb<br>unfair<br>clown |  
-| bip_39_word_new_line1 | mean |  
-| bip_39_word_new_line10 | mean
+| bip_39_word_new_br_1 | mean |  
+| bip_39_word_new_br_10 | mean<br>exchange<br>promote<br>kingdom<br>truly<br>monkey<br>climb<br>unfair<br>clown<br>fence |  
+| bip_39_word_new_br_11 | mean<br>exchange<br>promote<br>kingdom<br>truly<br>monkey<br>climb<br>unfair<br>clown<br>fence<br>credit |  
+| bip_39_word_new_br_12 | mean<br>exchange<br>promote<br>kingdom<br>truly<br>monkey<br>climb<br>unfair<br>clown<br>fence<br>credit<br>amateur |  
+| bip_39_word_new_br_2 | mean<br>exchange |  
+| bip_39_word_new_br_3 | mean<br>exchange<br>promote |  
+| bip_39_word_new_br_4 | mean<br>exchange<br>promote<br>kingdom |  
+| bip_39_word_new_br_5 | mean<br>exchange<br>promote<br>kingdom<br>truly |  
+| bip_39_word_new_br_6 | mean<br>exchange<br>promote<br>kingdom<br>truly<br>monkey |  
+| bip_39_word_new_br_7 | mean<br>exchange<br>promote<br>kingdom<br>truly<br>monkey<br>climb |  
+| bip_39_word_new_br_8 | mean<br>exchange<br>promote<br>kingdom<br>truly<br>monkey<br>climb<br>unfair |  
+| bip_39_word_new_br_9 | mean<br>exchange<br>promote<br>kingdom<br>truly<br>monkey<br>climb<br>unfair<br>clown |  
+| bip_39_word_new_line_1 | mean |  
+| bip_39_word_new_line_10 | mean
 exchange
 promote
 kingdom
@@ -55,7 +55,7 @@ climb
 unfair
 clown
 fence |  
-| bip_39_word_new_line11 | mean
+| bip_39_word_new_line_11 | mean
 exchange
 promote
 kingdom
@@ -66,7 +66,7 @@ unfair
 clown
 fence
 credit |  
-| bip_39_word_new_line12 | mean
+| bip_39_word_new_line_12 | mean
 exchange
 promote
 kingdom
@@ -78,34 +78,34 @@ clown
 fence
 credit
 amateur |  
-| bip_39_word_new_line2 | mean
+| bip_39_word_new_line_2 | mean
 exchange |  
-| bip_39_word_new_line3 | mean
+| bip_39_word_new_line_3 | mean
 exchange
 promote |  
-| bip_39_word_new_line4 | mean
+| bip_39_word_new_line_4 | mean
 exchange
 promote
 kingdom |  
-| bip_39_word_new_line5 | mean
+| bip_39_word_new_line_5 | mean
 exchange
 promote
 kingdom
 truly |  
-| bip_39_word_new_line6 | mean
+| bip_39_word_new_line_6 | mean
 exchange
 promote
 kingdom
 truly
 monkey |  
-| bip_39_word_new_line7 | mean
+| bip_39_word_new_line_7 | mean
 exchange
 promote
 kingdom
 truly
 monkey
 climb |  
-| bip_39_word_new_line8 | mean
+| bip_39_word_new_line_8 | mean
 exchange
 promote
 kingdom
@@ -113,7 +113,7 @@ truly
 monkey
 climb
 unfair |  
-| bip_39_word_new_line9 | mean
+| bip_39_word_new_line_9 | mean
 exchange
 promote
 kingdom

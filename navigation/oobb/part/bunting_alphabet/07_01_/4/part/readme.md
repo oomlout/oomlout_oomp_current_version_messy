@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | horse |  
-| bip_39_word_new_br10 | horse<br>nephew<br>will<br>dwarf<br>capital<br>remain<br>stage<br>neutral<br>glimpse<br>minimum |  
-| bip_39_word_new_br11 | horse<br>nephew<br>will<br>dwarf<br>capital<br>remain<br>stage<br>neutral<br>glimpse<br>minimum<br>student |  
-| bip_39_word_new_br12 | horse<br>nephew<br>will<br>dwarf<br>capital<br>remain<br>stage<br>neutral<br>glimpse<br>minimum<br>student<br>armor |  
-| bip_39_word_new_br2 | horse<br>nephew |  
-| bip_39_word_new_br3 | horse<br>nephew<br>will |  
-| bip_39_word_new_br4 | horse<br>nephew<br>will<br>dwarf |  
-| bip_39_word_new_br5 | horse<br>nephew<br>will<br>dwarf<br>capital |  
-| bip_39_word_new_br6 | horse<br>nephew<br>will<br>dwarf<br>capital<br>remain |  
-| bip_39_word_new_br7 | horse<br>nephew<br>will<br>dwarf<br>capital<br>remain<br>stage |  
-| bip_39_word_new_br8 | horse<br>nephew<br>will<br>dwarf<br>capital<br>remain<br>stage<br>neutral |  
-| bip_39_word_new_br9 | horse<br>nephew<br>will<br>dwarf<br>capital<br>remain<br>stage<br>neutral<br>glimpse |  
-| bip_39_word_new_line1 | horse |  
-| bip_39_word_new_line10 | horse
+| bip_39_word_new_br_1 | horse |  
+| bip_39_word_new_br_10 | horse<br>nephew<br>will<br>dwarf<br>capital<br>remain<br>stage<br>neutral<br>glimpse<br>minimum |  
+| bip_39_word_new_br_11 | horse<br>nephew<br>will<br>dwarf<br>capital<br>remain<br>stage<br>neutral<br>glimpse<br>minimum<br>student |  
+| bip_39_word_new_br_12 | horse<br>nephew<br>will<br>dwarf<br>capital<br>remain<br>stage<br>neutral<br>glimpse<br>minimum<br>student<br>armor |  
+| bip_39_word_new_br_2 | horse<br>nephew |  
+| bip_39_word_new_br_3 | horse<br>nephew<br>will |  
+| bip_39_word_new_br_4 | horse<br>nephew<br>will<br>dwarf |  
+| bip_39_word_new_br_5 | horse<br>nephew<br>will<br>dwarf<br>capital |  
+| bip_39_word_new_br_6 | horse<br>nephew<br>will<br>dwarf<br>capital<br>remain |  
+| bip_39_word_new_br_7 | horse<br>nephew<br>will<br>dwarf<br>capital<br>remain<br>stage |  
+| bip_39_word_new_br_8 | horse<br>nephew<br>will<br>dwarf<br>capital<br>remain<br>stage<br>neutral |  
+| bip_39_word_new_br_9 | horse<br>nephew<br>will<br>dwarf<br>capital<br>remain<br>stage<br>neutral<br>glimpse |  
+| bip_39_word_new_line_1 | horse |  
+| bip_39_word_new_line_10 | horse
 nephew
 will
 dwarf
@@ -55,7 +55,7 @@ stage
 neutral
 glimpse
 minimum |  
-| bip_39_word_new_line11 | horse
+| bip_39_word_new_line_11 | horse
 nephew
 will
 dwarf
@@ -66,7 +66,7 @@ neutral
 glimpse
 minimum
 student |  
-| bip_39_word_new_line12 | horse
+| bip_39_word_new_line_12 | horse
 nephew
 will
 dwarf
@@ -78,34 +78,34 @@ glimpse
 minimum
 student
 armor |  
-| bip_39_word_new_line2 | horse
+| bip_39_word_new_line_2 | horse
 nephew |  
-| bip_39_word_new_line3 | horse
+| bip_39_word_new_line_3 | horse
 nephew
 will |  
-| bip_39_word_new_line4 | horse
+| bip_39_word_new_line_4 | horse
 nephew
 will
 dwarf |  
-| bip_39_word_new_line5 | horse
+| bip_39_word_new_line_5 | horse
 nephew
 will
 dwarf
 capital |  
-| bip_39_word_new_line6 | horse
+| bip_39_word_new_line_6 | horse
 nephew
 will
 dwarf
 capital
 remain |  
-| bip_39_word_new_line7 | horse
+| bip_39_word_new_line_7 | horse
 nephew
 will
 dwarf
 capital
 remain
 stage |  
-| bip_39_word_new_line8 | horse
+| bip_39_word_new_line_8 | horse
 nephew
 will
 dwarf
@@ -113,7 +113,7 @@ capital
 remain
 stage
 neutral |  
-| bip_39_word_new_line9 | horse
+| bip_39_word_new_line_9 | horse
 nephew
 will
 dwarf

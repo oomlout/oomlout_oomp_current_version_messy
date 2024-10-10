@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | size |  
-| bip_39_word_new_br10 | size<br>donate<br>viable<br>own<br>champion<br>census<br>child<br>lucky<br>bird<br>keen |  
-| bip_39_word_new_br11 | size<br>donate<br>viable<br>own<br>champion<br>census<br>child<br>lucky<br>bird<br>keen<br>present |  
-| bip_39_word_new_br12 | size<br>donate<br>viable<br>own<br>champion<br>census<br>child<br>lucky<br>bird<br>keen<br>present<br>any |  
-| bip_39_word_new_br2 | size<br>donate |  
-| bip_39_word_new_br3 | size<br>donate<br>viable |  
-| bip_39_word_new_br4 | size<br>donate<br>viable<br>own |  
-| bip_39_word_new_br5 | size<br>donate<br>viable<br>own<br>champion |  
-| bip_39_word_new_br6 | size<br>donate<br>viable<br>own<br>champion<br>census |  
-| bip_39_word_new_br7 | size<br>donate<br>viable<br>own<br>champion<br>census<br>child |  
-| bip_39_word_new_br8 | size<br>donate<br>viable<br>own<br>champion<br>census<br>child<br>lucky |  
-| bip_39_word_new_br9 | size<br>donate<br>viable<br>own<br>champion<br>census<br>child<br>lucky<br>bird |  
-| bip_39_word_new_line1 | size |  
-| bip_39_word_new_line10 | size
+| bip_39_word_new_br_1 | size |  
+| bip_39_word_new_br_10 | size<br>donate<br>viable<br>own<br>champion<br>census<br>child<br>lucky<br>bird<br>keen |  
+| bip_39_word_new_br_11 | size<br>donate<br>viable<br>own<br>champion<br>census<br>child<br>lucky<br>bird<br>keen<br>present |  
+| bip_39_word_new_br_12 | size<br>donate<br>viable<br>own<br>champion<br>census<br>child<br>lucky<br>bird<br>keen<br>present<br>any |  
+| bip_39_word_new_br_2 | size<br>donate |  
+| bip_39_word_new_br_3 | size<br>donate<br>viable |  
+| bip_39_word_new_br_4 | size<br>donate<br>viable<br>own |  
+| bip_39_word_new_br_5 | size<br>donate<br>viable<br>own<br>champion |  
+| bip_39_word_new_br_6 | size<br>donate<br>viable<br>own<br>champion<br>census |  
+| bip_39_word_new_br_7 | size<br>donate<br>viable<br>own<br>champion<br>census<br>child |  
+| bip_39_word_new_br_8 | size<br>donate<br>viable<br>own<br>champion<br>census<br>child<br>lucky |  
+| bip_39_word_new_br_9 | size<br>donate<br>viable<br>own<br>champion<br>census<br>child<br>lucky<br>bird |  
+| bip_39_word_new_line_1 | size |  
+| bip_39_word_new_line_10 | size
 donate
 viable
 own
@@ -55,7 +55,7 @@ child
 lucky
 bird
 keen |  
-| bip_39_word_new_line11 | size
+| bip_39_word_new_line_11 | size
 donate
 viable
 own
@@ -66,7 +66,7 @@ lucky
 bird
 keen
 present |  
-| bip_39_word_new_line12 | size
+| bip_39_word_new_line_12 | size
 donate
 viable
 own
@@ -78,34 +78,34 @@ bird
 keen
 present
 any |  
-| bip_39_word_new_line2 | size
+| bip_39_word_new_line_2 | size
 donate |  
-| bip_39_word_new_line3 | size
+| bip_39_word_new_line_3 | size
 donate
 viable |  
-| bip_39_word_new_line4 | size
+| bip_39_word_new_line_4 | size
 donate
 viable
 own |  
-| bip_39_word_new_line5 | size
+| bip_39_word_new_line_5 | size
 donate
 viable
 own
 champion |  
-| bip_39_word_new_line6 | size
+| bip_39_word_new_line_6 | size
 donate
 viable
 own
 champion
 census |  
-| bip_39_word_new_line7 | size
+| bip_39_word_new_line_7 | size
 donate
 viable
 own
 champion
 census
 child |  
-| bip_39_word_new_line8 | size
+| bip_39_word_new_line_8 | size
 donate
 viable
 own
@@ -113,7 +113,7 @@ champion
 census
 child
 lucky |  
-| bip_39_word_new_line9 | size
+| bip_39_word_new_line_9 | size
 donate
 viable
 own

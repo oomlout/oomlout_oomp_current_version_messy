@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hire |  
-| bip_39_word_new_br10 | hire<br>diesel<br>faculty<br>junk<br>require<br>prize<br>worth<br>hotel<br>wool<br>decide |  
-| bip_39_word_new_br11 | hire<br>diesel<br>faculty<br>junk<br>require<br>prize<br>worth<br>hotel<br>wool<br>decide<br>country |  
-| bip_39_word_new_br12 | hire<br>diesel<br>faculty<br>junk<br>require<br>prize<br>worth<br>hotel<br>wool<br>decide<br>country<br>amused |  
-| bip_39_word_new_br2 | hire<br>diesel |  
-| bip_39_word_new_br3 | hire<br>diesel<br>faculty |  
-| bip_39_word_new_br4 | hire<br>diesel<br>faculty<br>junk |  
-| bip_39_word_new_br5 | hire<br>diesel<br>faculty<br>junk<br>require |  
-| bip_39_word_new_br6 | hire<br>diesel<br>faculty<br>junk<br>require<br>prize |  
-| bip_39_word_new_br7 | hire<br>diesel<br>faculty<br>junk<br>require<br>prize<br>worth |  
-| bip_39_word_new_br8 | hire<br>diesel<br>faculty<br>junk<br>require<br>prize<br>worth<br>hotel |  
-| bip_39_word_new_br9 | hire<br>diesel<br>faculty<br>junk<br>require<br>prize<br>worth<br>hotel<br>wool |  
-| bip_39_word_new_line1 | hire |  
-| bip_39_word_new_line10 | hire
+| bip_39_word_new_br_1 | hire |  
+| bip_39_word_new_br_10 | hire<br>diesel<br>faculty<br>junk<br>require<br>prize<br>worth<br>hotel<br>wool<br>decide |  
+| bip_39_word_new_br_11 | hire<br>diesel<br>faculty<br>junk<br>require<br>prize<br>worth<br>hotel<br>wool<br>decide<br>country |  
+| bip_39_word_new_br_12 | hire<br>diesel<br>faculty<br>junk<br>require<br>prize<br>worth<br>hotel<br>wool<br>decide<br>country<br>amused |  
+| bip_39_word_new_br_2 | hire<br>diesel |  
+| bip_39_word_new_br_3 | hire<br>diesel<br>faculty |  
+| bip_39_word_new_br_4 | hire<br>diesel<br>faculty<br>junk |  
+| bip_39_word_new_br_5 | hire<br>diesel<br>faculty<br>junk<br>require |  
+| bip_39_word_new_br_6 | hire<br>diesel<br>faculty<br>junk<br>require<br>prize |  
+| bip_39_word_new_br_7 | hire<br>diesel<br>faculty<br>junk<br>require<br>prize<br>worth |  
+| bip_39_word_new_br_8 | hire<br>diesel<br>faculty<br>junk<br>require<br>prize<br>worth<br>hotel |  
+| bip_39_word_new_br_9 | hire<br>diesel<br>faculty<br>junk<br>require<br>prize<br>worth<br>hotel<br>wool |  
+| bip_39_word_new_line_1 | hire |  
+| bip_39_word_new_line_10 | hire
 diesel
 faculty
 junk
@@ -55,7 +55,7 @@ worth
 hotel
 wool
 decide |  
-| bip_39_word_new_line11 | hire
+| bip_39_word_new_line_11 | hire
 diesel
 faculty
 junk
@@ -66,7 +66,7 @@ hotel
 wool
 decide
 country |  
-| bip_39_word_new_line12 | hire
+| bip_39_word_new_line_12 | hire
 diesel
 faculty
 junk
@@ -78,34 +78,34 @@ wool
 decide
 country
 amused |  
-| bip_39_word_new_line2 | hire
+| bip_39_word_new_line_2 | hire
 diesel |  
-| bip_39_word_new_line3 | hire
+| bip_39_word_new_line_3 | hire
 diesel
 faculty |  
-| bip_39_word_new_line4 | hire
+| bip_39_word_new_line_4 | hire
 diesel
 faculty
 junk |  
-| bip_39_word_new_line5 | hire
+| bip_39_word_new_line_5 | hire
 diesel
 faculty
 junk
 require |  
-| bip_39_word_new_line6 | hire
+| bip_39_word_new_line_6 | hire
 diesel
 faculty
 junk
 require
 prize |  
-| bip_39_word_new_line7 | hire
+| bip_39_word_new_line_7 | hire
 diesel
 faculty
 junk
 require
 prize
 worth |  
-| bip_39_word_new_line8 | hire
+| bip_39_word_new_line_8 | hire
 diesel
 faculty
 junk
@@ -113,7 +113,7 @@ require
 prize
 worth
 hotel |  
-| bip_39_word_new_line9 | hire
+| bip_39_word_new_line_9 | hire
 diesel
 faculty
 junk

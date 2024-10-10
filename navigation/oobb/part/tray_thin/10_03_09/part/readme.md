@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | account |  
-| bip_39_word_new_br10 | account<br>broom<br>medal<br>lava<br>world<br>crater<br>smooth<br>athlete<br>fatal<br>wire |  
-| bip_39_word_new_br11 | account<br>broom<br>medal<br>lava<br>world<br>crater<br>smooth<br>athlete<br>fatal<br>wire<br>dignity |  
-| bip_39_word_new_br12 | account<br>broom<br>medal<br>lava<br>world<br>crater<br>smooth<br>athlete<br>fatal<br>wire<br>dignity<br>allow |  
-| bip_39_word_new_br2 | account<br>broom |  
-| bip_39_word_new_br3 | account<br>broom<br>medal |  
-| bip_39_word_new_br4 | account<br>broom<br>medal<br>lava |  
-| bip_39_word_new_br5 | account<br>broom<br>medal<br>lava<br>world |  
-| bip_39_word_new_br6 | account<br>broom<br>medal<br>lava<br>world<br>crater |  
-| bip_39_word_new_br7 | account<br>broom<br>medal<br>lava<br>world<br>crater<br>smooth |  
-| bip_39_word_new_br8 | account<br>broom<br>medal<br>lava<br>world<br>crater<br>smooth<br>athlete |  
-| bip_39_word_new_br9 | account<br>broom<br>medal<br>lava<br>world<br>crater<br>smooth<br>athlete<br>fatal |  
-| bip_39_word_new_line1 | account |  
-| bip_39_word_new_line10 | account
+| bip_39_word_new_br_1 | account |  
+| bip_39_word_new_br_10 | account<br>broom<br>medal<br>lava<br>world<br>crater<br>smooth<br>athlete<br>fatal<br>wire |  
+| bip_39_word_new_br_11 | account<br>broom<br>medal<br>lava<br>world<br>crater<br>smooth<br>athlete<br>fatal<br>wire<br>dignity |  
+| bip_39_word_new_br_12 | account<br>broom<br>medal<br>lava<br>world<br>crater<br>smooth<br>athlete<br>fatal<br>wire<br>dignity<br>allow |  
+| bip_39_word_new_br_2 | account<br>broom |  
+| bip_39_word_new_br_3 | account<br>broom<br>medal |  
+| bip_39_word_new_br_4 | account<br>broom<br>medal<br>lava |  
+| bip_39_word_new_br_5 | account<br>broom<br>medal<br>lava<br>world |  
+| bip_39_word_new_br_6 | account<br>broom<br>medal<br>lava<br>world<br>crater |  
+| bip_39_word_new_br_7 | account<br>broom<br>medal<br>lava<br>world<br>crater<br>smooth |  
+| bip_39_word_new_br_8 | account<br>broom<br>medal<br>lava<br>world<br>crater<br>smooth<br>athlete |  
+| bip_39_word_new_br_9 | account<br>broom<br>medal<br>lava<br>world<br>crater<br>smooth<br>athlete<br>fatal |  
+| bip_39_word_new_line_1 | account |  
+| bip_39_word_new_line_10 | account
 broom
 medal
 lava
@@ -55,7 +55,7 @@ smooth
 athlete
 fatal
 wire |  
-| bip_39_word_new_line11 | account
+| bip_39_word_new_line_11 | account
 broom
 medal
 lava
@@ -66,7 +66,7 @@ athlete
 fatal
 wire
 dignity |  
-| bip_39_word_new_line12 | account
+| bip_39_word_new_line_12 | account
 broom
 medal
 lava
@@ -78,34 +78,34 @@ fatal
 wire
 dignity
 allow |  
-| bip_39_word_new_line2 | account
+| bip_39_word_new_line_2 | account
 broom |  
-| bip_39_word_new_line3 | account
+| bip_39_word_new_line_3 | account
 broom
 medal |  
-| bip_39_word_new_line4 | account
+| bip_39_word_new_line_4 | account
 broom
 medal
 lava |  
-| bip_39_word_new_line5 | account
+| bip_39_word_new_line_5 | account
 broom
 medal
 lava
 world |  
-| bip_39_word_new_line6 | account
+| bip_39_word_new_line_6 | account
 broom
 medal
 lava
 world
 crater |  
-| bip_39_word_new_line7 | account
+| bip_39_word_new_line_7 | account
 broom
 medal
 lava
 world
 crater
 smooth |  
-| bip_39_word_new_line8 | account
+| bip_39_word_new_line_8 | account
 broom
 medal
 lava
@@ -113,7 +113,7 @@ world
 crater
 smooth
 athlete |  
-| bip_39_word_new_line9 | account
+| bip_39_word_new_line_9 | account
 broom
 medal
 lava

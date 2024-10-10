@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | other |  
-| bip_39_word_new_br10 | other<br>path<br>cancel<br>primary<br>sense<br>genius<br>danger<br>stumble<br>calm<br>unit |  
-| bip_39_word_new_br11 | other<br>path<br>cancel<br>primary<br>sense<br>genius<br>danger<br>stumble<br>calm<br>unit<br>maze |  
-| bip_39_word_new_br12 | other<br>path<br>cancel<br>primary<br>sense<br>genius<br>danger<br>stumble<br>calm<br>unit<br>maze<br>agent |  
-| bip_39_word_new_br2 | other<br>path |  
-| bip_39_word_new_br3 | other<br>path<br>cancel |  
-| bip_39_word_new_br4 | other<br>path<br>cancel<br>primary |  
-| bip_39_word_new_br5 | other<br>path<br>cancel<br>primary<br>sense |  
-| bip_39_word_new_br6 | other<br>path<br>cancel<br>primary<br>sense<br>genius |  
-| bip_39_word_new_br7 | other<br>path<br>cancel<br>primary<br>sense<br>genius<br>danger |  
-| bip_39_word_new_br8 | other<br>path<br>cancel<br>primary<br>sense<br>genius<br>danger<br>stumble |  
-| bip_39_word_new_br9 | other<br>path<br>cancel<br>primary<br>sense<br>genius<br>danger<br>stumble<br>calm |  
-| bip_39_word_new_line1 | other |  
-| bip_39_word_new_line10 | other
+| bip_39_word_new_br_1 | other |  
+| bip_39_word_new_br_10 | other<br>path<br>cancel<br>primary<br>sense<br>genius<br>danger<br>stumble<br>calm<br>unit |  
+| bip_39_word_new_br_11 | other<br>path<br>cancel<br>primary<br>sense<br>genius<br>danger<br>stumble<br>calm<br>unit<br>maze |  
+| bip_39_word_new_br_12 | other<br>path<br>cancel<br>primary<br>sense<br>genius<br>danger<br>stumble<br>calm<br>unit<br>maze<br>agent |  
+| bip_39_word_new_br_2 | other<br>path |  
+| bip_39_word_new_br_3 | other<br>path<br>cancel |  
+| bip_39_word_new_br_4 | other<br>path<br>cancel<br>primary |  
+| bip_39_word_new_br_5 | other<br>path<br>cancel<br>primary<br>sense |  
+| bip_39_word_new_br_6 | other<br>path<br>cancel<br>primary<br>sense<br>genius |  
+| bip_39_word_new_br_7 | other<br>path<br>cancel<br>primary<br>sense<br>genius<br>danger |  
+| bip_39_word_new_br_8 | other<br>path<br>cancel<br>primary<br>sense<br>genius<br>danger<br>stumble |  
+| bip_39_word_new_br_9 | other<br>path<br>cancel<br>primary<br>sense<br>genius<br>danger<br>stumble<br>calm |  
+| bip_39_word_new_line_1 | other |  
+| bip_39_word_new_line_10 | other
 path
 cancel
 primary
@@ -55,7 +55,7 @@ danger
 stumble
 calm
 unit |  
-| bip_39_word_new_line11 | other
+| bip_39_word_new_line_11 | other
 path
 cancel
 primary
@@ -66,7 +66,7 @@ stumble
 calm
 unit
 maze |  
-| bip_39_word_new_line12 | other
+| bip_39_word_new_line_12 | other
 path
 cancel
 primary
@@ -78,34 +78,34 @@ calm
 unit
 maze
 agent |  
-| bip_39_word_new_line2 | other
+| bip_39_word_new_line_2 | other
 path |  
-| bip_39_word_new_line3 | other
+| bip_39_word_new_line_3 | other
 path
 cancel |  
-| bip_39_word_new_line4 | other
+| bip_39_word_new_line_4 | other
 path
 cancel
 primary |  
-| bip_39_word_new_line5 | other
+| bip_39_word_new_line_5 | other
 path
 cancel
 primary
 sense |  
-| bip_39_word_new_line6 | other
+| bip_39_word_new_line_6 | other
 path
 cancel
 primary
 sense
 genius |  
-| bip_39_word_new_line7 | other
+| bip_39_word_new_line_7 | other
 path
 cancel
 primary
 sense
 genius
 danger |  
-| bip_39_word_new_line8 | other
+| bip_39_word_new_line_8 | other
 path
 cancel
 primary
@@ -113,7 +113,7 @@ sense
 genius
 danger
 stumble |  
-| bip_39_word_new_line9 | other
+| bip_39_word_new_line_9 | other
 path
 cancel
 primary

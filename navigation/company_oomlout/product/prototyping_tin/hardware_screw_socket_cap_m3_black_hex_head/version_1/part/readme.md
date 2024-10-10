@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mask |  
-| bip_39_word_new_br10 | mask<br>various<br>people<br>ripple<br>length<br>major<br>curve<br>lawn<br>change<br>tent |  
-| bip_39_word_new_br11 | mask<br>various<br>people<br>ripple<br>length<br>major<br>curve<br>lawn<br>change<br>tent<br>clay |  
-| bip_39_word_new_br12 | mask<br>various<br>people<br>ripple<br>length<br>major<br>curve<br>lawn<br>change<br>tent<br>clay<br>apart |  
-| bip_39_word_new_br2 | mask<br>various |  
-| bip_39_word_new_br3 | mask<br>various<br>people |  
-| bip_39_word_new_br4 | mask<br>various<br>people<br>ripple |  
-| bip_39_word_new_br5 | mask<br>various<br>people<br>ripple<br>length |  
-| bip_39_word_new_br6 | mask<br>various<br>people<br>ripple<br>length<br>major |  
-| bip_39_word_new_br7 | mask<br>various<br>people<br>ripple<br>length<br>major<br>curve |  
-| bip_39_word_new_br8 | mask<br>various<br>people<br>ripple<br>length<br>major<br>curve<br>lawn |  
-| bip_39_word_new_br9 | mask<br>various<br>people<br>ripple<br>length<br>major<br>curve<br>lawn<br>change |  
-| bip_39_word_new_line1 | mask |  
-| bip_39_word_new_line10 | mask
+| bip_39_word_new_br_1 | mask |  
+| bip_39_word_new_br_10 | mask<br>various<br>people<br>ripple<br>length<br>major<br>curve<br>lawn<br>change<br>tent |  
+| bip_39_word_new_br_11 | mask<br>various<br>people<br>ripple<br>length<br>major<br>curve<br>lawn<br>change<br>tent<br>clay |  
+| bip_39_word_new_br_12 | mask<br>various<br>people<br>ripple<br>length<br>major<br>curve<br>lawn<br>change<br>tent<br>clay<br>apart |  
+| bip_39_word_new_br_2 | mask<br>various |  
+| bip_39_word_new_br_3 | mask<br>various<br>people |  
+| bip_39_word_new_br_4 | mask<br>various<br>people<br>ripple |  
+| bip_39_word_new_br_5 | mask<br>various<br>people<br>ripple<br>length |  
+| bip_39_word_new_br_6 | mask<br>various<br>people<br>ripple<br>length<br>major |  
+| bip_39_word_new_br_7 | mask<br>various<br>people<br>ripple<br>length<br>major<br>curve |  
+| bip_39_word_new_br_8 | mask<br>various<br>people<br>ripple<br>length<br>major<br>curve<br>lawn |  
+| bip_39_word_new_br_9 | mask<br>various<br>people<br>ripple<br>length<br>major<br>curve<br>lawn<br>change |  
+| bip_39_word_new_line_1 | mask |  
+| bip_39_word_new_line_10 | mask
 various
 people
 ripple
@@ -55,7 +55,7 @@ curve
 lawn
 change
 tent |  
-| bip_39_word_new_line11 | mask
+| bip_39_word_new_line_11 | mask
 various
 people
 ripple
@@ -66,7 +66,7 @@ lawn
 change
 tent
 clay |  
-| bip_39_word_new_line12 | mask
+| bip_39_word_new_line_12 | mask
 various
 people
 ripple
@@ -78,34 +78,34 @@ change
 tent
 clay
 apart |  
-| bip_39_word_new_line2 | mask
+| bip_39_word_new_line_2 | mask
 various |  
-| bip_39_word_new_line3 | mask
+| bip_39_word_new_line_3 | mask
 various
 people |  
-| bip_39_word_new_line4 | mask
+| bip_39_word_new_line_4 | mask
 various
 people
 ripple |  
-| bip_39_word_new_line5 | mask
+| bip_39_word_new_line_5 | mask
 various
 people
 ripple
 length |  
-| bip_39_word_new_line6 | mask
+| bip_39_word_new_line_6 | mask
 various
 people
 ripple
 length
 major |  
-| bip_39_word_new_line7 | mask
+| bip_39_word_new_line_7 | mask
 various
 people
 ripple
 length
 major
 curve |  
-| bip_39_word_new_line8 | mask
+| bip_39_word_new_line_8 | mask
 various
 people
 ripple
@@ -113,7 +113,7 @@ length
 major
 curve
 lawn |  
-| bip_39_word_new_line9 | mask
+| bip_39_word_new_line_9 | mask
 various
 people
 ripple

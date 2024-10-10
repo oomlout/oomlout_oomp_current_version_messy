@@ -1,17 +1,17 @@
-bip_39_word_new_br1: infant
-bip_39_word_new_br10: infant<br>burst<br>party<br>duck<br>sibling<br>hint<br>bulb<br>gossip<br>culture<br>liar
-bip_39_word_new_br11: infant<br>burst<br>party<br>duck<br>sibling<br>hint<br>bulb<br>gossip<br>culture<br>liar<br>stuff
-bip_39_word_new_br12: infant<br>burst<br>party<br>duck<br>sibling<br>hint<br>bulb<br>gossip<br>culture<br>liar<br>stuff<br>area
-bip_39_word_new_br2: infant<br>burst
-bip_39_word_new_br3: infant<br>burst<br>party
-bip_39_word_new_br4: infant<br>burst<br>party<br>duck
-bip_39_word_new_br5: infant<br>burst<br>party<br>duck<br>sibling
-bip_39_word_new_br6: infant<br>burst<br>party<br>duck<br>sibling<br>hint
-bip_39_word_new_br7: infant<br>burst<br>party<br>duck<br>sibling<br>hint<br>bulb
-bip_39_word_new_br8: infant<br>burst<br>party<br>duck<br>sibling<br>hint<br>bulb<br>gossip
-bip_39_word_new_br9: infant<br>burst<br>party<br>duck<br>sibling<br>hint<br>bulb<br>gossip<br>culture
-bip_39_word_new_line1: infant
-bip_39_word_new_line10: 'infant
+bip_39_word_new_br_1: infant
+bip_39_word_new_br_10: infant<br>burst<br>party<br>duck<br>sibling<br>hint<br>bulb<br>gossip<br>culture<br>liar
+bip_39_word_new_br_11: infant<br>burst<br>party<br>duck<br>sibling<br>hint<br>bulb<br>gossip<br>culture<br>liar<br>stuff
+bip_39_word_new_br_12: infant<br>burst<br>party<br>duck<br>sibling<br>hint<br>bulb<br>gossip<br>culture<br>liar<br>stuff<br>area
+bip_39_word_new_br_2: infant<br>burst
+bip_39_word_new_br_3: infant<br>burst<br>party
+bip_39_word_new_br_4: infant<br>burst<br>party<br>duck
+bip_39_word_new_br_5: infant<br>burst<br>party<br>duck<br>sibling
+bip_39_word_new_br_6: infant<br>burst<br>party<br>duck<br>sibling<br>hint
+bip_39_word_new_br_7: infant<br>burst<br>party<br>duck<br>sibling<br>hint<br>bulb
+bip_39_word_new_br_8: infant<br>burst<br>party<br>duck<br>sibling<br>hint<br>bulb<br>gossip
+bip_39_word_new_br_9: infant<br>burst<br>party<br>duck<br>sibling<br>hint<br>bulb<br>gossip<br>culture
+bip_39_word_new_line_1: infant
+bip_39_word_new_line_10: 'infant
 
   burst
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'infant
   culture
 
   liar'
-bip_39_word_new_line11: 'infant
+bip_39_word_new_line_11: 'infant
 
   burst
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'infant
   liar
 
   stuff'
-bip_39_word_new_line12: 'infant
+bip_39_word_new_line_12: 'infant
 
   burst
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'infant
   stuff
 
   area'
-bip_39_word_new_line2: 'infant
+bip_39_word_new_line_2: 'infant
 
   burst'
-bip_39_word_new_line3: 'infant
+bip_39_word_new_line_3: 'infant
 
   burst
 
   party'
-bip_39_word_new_line4: 'infant
+bip_39_word_new_line_4: 'infant
 
   burst
 
   party
 
   duck'
-bip_39_word_new_line5: 'infant
+bip_39_word_new_line_5: 'infant
 
   burst
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'infant
   duck
 
   sibling'
-bip_39_word_new_line6: 'infant
+bip_39_word_new_line_6: 'infant
 
   burst
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'infant
   sibling
 
   hint'
-bip_39_word_new_line7: 'infant
+bip_39_word_new_line_7: 'infant
 
   burst
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'infant
   hint
 
   bulb'
-bip_39_word_new_line8: 'infant
+bip_39_word_new_line_8: 'infant
 
   burst
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'infant
   bulb
 
   gossip'
-bip_39_word_new_line9: 'infant
+bip_39_word_new_line_9: 'infant
 
   burst
 

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | spread |  
-| bip_39_word_new_br10 | spread<br>pave<br>until<br>banana<br>month<br>cinnamon<br>member<br>stand<br>wire<br>volume |  
-| bip_39_word_new_br11 | spread<br>pave<br>until<br>banana<br>month<br>cinnamon<br>member<br>stand<br>wire<br>volume<br>pen |  
-| bip_39_word_new_br12 | spread<br>pave<br>until<br>banana<br>month<br>cinnamon<br>member<br>stand<br>wire<br>volume<br>pen<br>alley |  
-| bip_39_word_new_br2 | spread<br>pave |  
-| bip_39_word_new_br3 | spread<br>pave<br>until |  
-| bip_39_word_new_br4 | spread<br>pave<br>until<br>banana |  
-| bip_39_word_new_br5 | spread<br>pave<br>until<br>banana<br>month |  
-| bip_39_word_new_br6 | spread<br>pave<br>until<br>banana<br>month<br>cinnamon |  
-| bip_39_word_new_br7 | spread<br>pave<br>until<br>banana<br>month<br>cinnamon<br>member |  
-| bip_39_word_new_br8 | spread<br>pave<br>until<br>banana<br>month<br>cinnamon<br>member<br>stand |  
-| bip_39_word_new_br9 | spread<br>pave<br>until<br>banana<br>month<br>cinnamon<br>member<br>stand<br>wire |  
-| bip_39_word_new_line1 | spread |  
-| bip_39_word_new_line10 | spread
+| bip_39_word_new_br_1 | spread |  
+| bip_39_word_new_br_10 | spread<br>pave<br>until<br>banana<br>month<br>cinnamon<br>member<br>stand<br>wire<br>volume |  
+| bip_39_word_new_br_11 | spread<br>pave<br>until<br>banana<br>month<br>cinnamon<br>member<br>stand<br>wire<br>volume<br>pen |  
+| bip_39_word_new_br_12 | spread<br>pave<br>until<br>banana<br>month<br>cinnamon<br>member<br>stand<br>wire<br>volume<br>pen<br>alley |  
+| bip_39_word_new_br_2 | spread<br>pave |  
+| bip_39_word_new_br_3 | spread<br>pave<br>until |  
+| bip_39_word_new_br_4 | spread<br>pave<br>until<br>banana |  
+| bip_39_word_new_br_5 | spread<br>pave<br>until<br>banana<br>month |  
+| bip_39_word_new_br_6 | spread<br>pave<br>until<br>banana<br>month<br>cinnamon |  
+| bip_39_word_new_br_7 | spread<br>pave<br>until<br>banana<br>month<br>cinnamon<br>member |  
+| bip_39_word_new_br_8 | spread<br>pave<br>until<br>banana<br>month<br>cinnamon<br>member<br>stand |  
+| bip_39_word_new_br_9 | spread<br>pave<br>until<br>banana<br>month<br>cinnamon<br>member<br>stand<br>wire |  
+| bip_39_word_new_line_1 | spread |  
+| bip_39_word_new_line_10 | spread
 pave
 until
 banana
@@ -55,7 +55,7 @@ member
 stand
 wire
 volume |  
-| bip_39_word_new_line11 | spread
+| bip_39_word_new_line_11 | spread
 pave
 until
 banana
@@ -66,7 +66,7 @@ stand
 wire
 volume
 pen |  
-| bip_39_word_new_line12 | spread
+| bip_39_word_new_line_12 | spread
 pave
 until
 banana
@@ -78,34 +78,34 @@ wire
 volume
 pen
 alley |  
-| bip_39_word_new_line2 | spread
+| bip_39_word_new_line_2 | spread
 pave |  
-| bip_39_word_new_line3 | spread
+| bip_39_word_new_line_3 | spread
 pave
 until |  
-| bip_39_word_new_line4 | spread
+| bip_39_word_new_line_4 | spread
 pave
 until
 banana |  
-| bip_39_word_new_line5 | spread
+| bip_39_word_new_line_5 | spread
 pave
 until
 banana
 month |  
-| bip_39_word_new_line6 | spread
+| bip_39_word_new_line_6 | spread
 pave
 until
 banana
 month
 cinnamon |  
-| bip_39_word_new_line7 | spread
+| bip_39_word_new_line_7 | spread
 pave
 until
 banana
 month
 cinnamon
 member |  
-| bip_39_word_new_line8 | spread
+| bip_39_word_new_line_8 | spread
 pave
 until
 banana
@@ -113,7 +113,7 @@ month
 cinnamon
 member
 stand |  
-| bip_39_word_new_line9 | spread
+| bip_39_word_new_line_9 | spread
 pave
 until
 banana

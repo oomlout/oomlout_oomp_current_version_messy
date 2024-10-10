@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | outside |  
-| bip_39_word_new_br10 | outside<br>domain<br>strike<br>sing<br>sudden<br>enlist<br>climb<br>beach<br>icon<br>acoustic |  
-| bip_39_word_new_br11 | outside<br>domain<br>strike<br>sing<br>sudden<br>enlist<br>climb<br>beach<br>icon<br>acoustic<br>suit |  
-| bip_39_word_new_br12 | outside<br>domain<br>strike<br>sing<br>sudden<br>enlist<br>climb<br>beach<br>icon<br>acoustic<br>suit<br>afraid |  
-| bip_39_word_new_br2 | outside<br>domain |  
-| bip_39_word_new_br3 | outside<br>domain<br>strike |  
-| bip_39_word_new_br4 | outside<br>domain<br>strike<br>sing |  
-| bip_39_word_new_br5 | outside<br>domain<br>strike<br>sing<br>sudden |  
-| bip_39_word_new_br6 | outside<br>domain<br>strike<br>sing<br>sudden<br>enlist |  
-| bip_39_word_new_br7 | outside<br>domain<br>strike<br>sing<br>sudden<br>enlist<br>climb |  
-| bip_39_word_new_br8 | outside<br>domain<br>strike<br>sing<br>sudden<br>enlist<br>climb<br>beach |  
-| bip_39_word_new_br9 | outside<br>domain<br>strike<br>sing<br>sudden<br>enlist<br>climb<br>beach<br>icon |  
-| bip_39_word_new_line1 | outside |  
-| bip_39_word_new_line10 | outside
+| bip_39_word_new_br_1 | outside |  
+| bip_39_word_new_br_10 | outside<br>domain<br>strike<br>sing<br>sudden<br>enlist<br>climb<br>beach<br>icon<br>acoustic |  
+| bip_39_word_new_br_11 | outside<br>domain<br>strike<br>sing<br>sudden<br>enlist<br>climb<br>beach<br>icon<br>acoustic<br>suit |  
+| bip_39_word_new_br_12 | outside<br>domain<br>strike<br>sing<br>sudden<br>enlist<br>climb<br>beach<br>icon<br>acoustic<br>suit<br>afraid |  
+| bip_39_word_new_br_2 | outside<br>domain |  
+| bip_39_word_new_br_3 | outside<br>domain<br>strike |  
+| bip_39_word_new_br_4 | outside<br>domain<br>strike<br>sing |  
+| bip_39_word_new_br_5 | outside<br>domain<br>strike<br>sing<br>sudden |  
+| bip_39_word_new_br_6 | outside<br>domain<br>strike<br>sing<br>sudden<br>enlist |  
+| bip_39_word_new_br_7 | outside<br>domain<br>strike<br>sing<br>sudden<br>enlist<br>climb |  
+| bip_39_word_new_br_8 | outside<br>domain<br>strike<br>sing<br>sudden<br>enlist<br>climb<br>beach |  
+| bip_39_word_new_br_9 | outside<br>domain<br>strike<br>sing<br>sudden<br>enlist<br>climb<br>beach<br>icon |  
+| bip_39_word_new_line_1 | outside |  
+| bip_39_word_new_line_10 | outside
 domain
 strike
 sing
@@ -55,7 +55,7 @@ climb
 beach
 icon
 acoustic |  
-| bip_39_word_new_line11 | outside
+| bip_39_word_new_line_11 | outside
 domain
 strike
 sing
@@ -66,7 +66,7 @@ beach
 icon
 acoustic
 suit |  
-| bip_39_word_new_line12 | outside
+| bip_39_word_new_line_12 | outside
 domain
 strike
 sing
@@ -78,34 +78,34 @@ icon
 acoustic
 suit
 afraid |  
-| bip_39_word_new_line2 | outside
+| bip_39_word_new_line_2 | outside
 domain |  
-| bip_39_word_new_line3 | outside
+| bip_39_word_new_line_3 | outside
 domain
 strike |  
-| bip_39_word_new_line4 | outside
+| bip_39_word_new_line_4 | outside
 domain
 strike
 sing |  
-| bip_39_word_new_line5 | outside
+| bip_39_word_new_line_5 | outside
 domain
 strike
 sing
 sudden |  
-| bip_39_word_new_line6 | outside
+| bip_39_word_new_line_6 | outside
 domain
 strike
 sing
 sudden
 enlist |  
-| bip_39_word_new_line7 | outside
+| bip_39_word_new_line_7 | outside
 domain
 strike
 sing
 sudden
 enlist
 climb |  
-| bip_39_word_new_line8 | outside
+| bip_39_word_new_line_8 | outside
 domain
 strike
 sing
@@ -113,7 +113,7 @@ sudden
 enlist
 climb
 beach |  
-| bip_39_word_new_line9 | outside
+| bip_39_word_new_line_9 | outside
 domain
 strike
 sing

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | game |  
-| bip_39_word_new_br10 | game<br>machine<br>solid<br>despair<br>citizen<br>purse<br>unknown<br>story<br>pride<br>believe |  
-| bip_39_word_new_br11 | game<br>machine<br>solid<br>despair<br>citizen<br>purse<br>unknown<br>story<br>pride<br>believe<br>write |  
-| bip_39_word_new_br12 | game<br>machine<br>solid<br>despair<br>citizen<br>purse<br>unknown<br>story<br>pride<br>believe<br>write<br>another |  
-| bip_39_word_new_br2 | game<br>machine |  
-| bip_39_word_new_br3 | game<br>machine<br>solid |  
-| bip_39_word_new_br4 | game<br>machine<br>solid<br>despair |  
-| bip_39_word_new_br5 | game<br>machine<br>solid<br>despair<br>citizen |  
-| bip_39_word_new_br6 | game<br>machine<br>solid<br>despair<br>citizen<br>purse |  
-| bip_39_word_new_br7 | game<br>machine<br>solid<br>despair<br>citizen<br>purse<br>unknown |  
-| bip_39_word_new_br8 | game<br>machine<br>solid<br>despair<br>citizen<br>purse<br>unknown<br>story |  
-| bip_39_word_new_br9 | game<br>machine<br>solid<br>despair<br>citizen<br>purse<br>unknown<br>story<br>pride |  
-| bip_39_word_new_line1 | game |  
-| bip_39_word_new_line10 | game
+| bip_39_word_new_br_1 | game |  
+| bip_39_word_new_br_10 | game<br>machine<br>solid<br>despair<br>citizen<br>purse<br>unknown<br>story<br>pride<br>believe |  
+| bip_39_word_new_br_11 | game<br>machine<br>solid<br>despair<br>citizen<br>purse<br>unknown<br>story<br>pride<br>believe<br>write |  
+| bip_39_word_new_br_12 | game<br>machine<br>solid<br>despair<br>citizen<br>purse<br>unknown<br>story<br>pride<br>believe<br>write<br>another |  
+| bip_39_word_new_br_2 | game<br>machine |  
+| bip_39_word_new_br_3 | game<br>machine<br>solid |  
+| bip_39_word_new_br_4 | game<br>machine<br>solid<br>despair |  
+| bip_39_word_new_br_5 | game<br>machine<br>solid<br>despair<br>citizen |  
+| bip_39_word_new_br_6 | game<br>machine<br>solid<br>despair<br>citizen<br>purse |  
+| bip_39_word_new_br_7 | game<br>machine<br>solid<br>despair<br>citizen<br>purse<br>unknown |  
+| bip_39_word_new_br_8 | game<br>machine<br>solid<br>despair<br>citizen<br>purse<br>unknown<br>story |  
+| bip_39_word_new_br_9 | game<br>machine<br>solid<br>despair<br>citizen<br>purse<br>unknown<br>story<br>pride |  
+| bip_39_word_new_line_1 | game |  
+| bip_39_word_new_line_10 | game
 machine
 solid
 despair
@@ -55,7 +55,7 @@ unknown
 story
 pride
 believe |  
-| bip_39_word_new_line11 | game
+| bip_39_word_new_line_11 | game
 machine
 solid
 despair
@@ -66,7 +66,7 @@ story
 pride
 believe
 write |  
-| bip_39_word_new_line12 | game
+| bip_39_word_new_line_12 | game
 machine
 solid
 despair
@@ -78,34 +78,34 @@ pride
 believe
 write
 another |  
-| bip_39_word_new_line2 | game
+| bip_39_word_new_line_2 | game
 machine |  
-| bip_39_word_new_line3 | game
+| bip_39_word_new_line_3 | game
 machine
 solid |  
-| bip_39_word_new_line4 | game
+| bip_39_word_new_line_4 | game
 machine
 solid
 despair |  
-| bip_39_word_new_line5 | game
+| bip_39_word_new_line_5 | game
 machine
 solid
 despair
 citizen |  
-| bip_39_word_new_line6 | game
+| bip_39_word_new_line_6 | game
 machine
 solid
 despair
 citizen
 purse |  
-| bip_39_word_new_line7 | game
+| bip_39_word_new_line_7 | game
 machine
 solid
 despair
 citizen
 purse
 unknown |  
-| bip_39_word_new_line8 | game
+| bip_39_word_new_line_8 | game
 machine
 solid
 despair
@@ -113,7 +113,7 @@ citizen
 purse
 unknown
 story |  
-| bip_39_word_new_line9 | game
+| bip_39_word_new_line_9 | game
 machine
 solid
 despair

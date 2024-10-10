@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | index |  
-| bip_39_word_new_br10 | index<br>alpha<br>enter<br>ripple<br>economy<br>quantum<br>rubber<br>audit<br>absent<br>join |  
-| bip_39_word_new_br11 | index<br>alpha<br>enter<br>ripple<br>economy<br>quantum<br>rubber<br>audit<br>absent<br>join<br>captain |  
-| bip_39_word_new_br12 | index<br>alpha<br>enter<br>ripple<br>economy<br>quantum<br>rubber<br>audit<br>absent<br>join<br>captain<br>advance |  
-| bip_39_word_new_br2 | index<br>alpha |  
-| bip_39_word_new_br3 | index<br>alpha<br>enter |  
-| bip_39_word_new_br4 | index<br>alpha<br>enter<br>ripple |  
-| bip_39_word_new_br5 | index<br>alpha<br>enter<br>ripple<br>economy |  
-| bip_39_word_new_br6 | index<br>alpha<br>enter<br>ripple<br>economy<br>quantum |  
-| bip_39_word_new_br7 | index<br>alpha<br>enter<br>ripple<br>economy<br>quantum<br>rubber |  
-| bip_39_word_new_br8 | index<br>alpha<br>enter<br>ripple<br>economy<br>quantum<br>rubber<br>audit |  
-| bip_39_word_new_br9 | index<br>alpha<br>enter<br>ripple<br>economy<br>quantum<br>rubber<br>audit<br>absent |  
-| bip_39_word_new_line1 | index |  
-| bip_39_word_new_line10 | index
+| bip_39_word_new_br_1 | index |  
+| bip_39_word_new_br_10 | index<br>alpha<br>enter<br>ripple<br>economy<br>quantum<br>rubber<br>audit<br>absent<br>join |  
+| bip_39_word_new_br_11 | index<br>alpha<br>enter<br>ripple<br>economy<br>quantum<br>rubber<br>audit<br>absent<br>join<br>captain |  
+| bip_39_word_new_br_12 | index<br>alpha<br>enter<br>ripple<br>economy<br>quantum<br>rubber<br>audit<br>absent<br>join<br>captain<br>advance |  
+| bip_39_word_new_br_2 | index<br>alpha |  
+| bip_39_word_new_br_3 | index<br>alpha<br>enter |  
+| bip_39_word_new_br_4 | index<br>alpha<br>enter<br>ripple |  
+| bip_39_word_new_br_5 | index<br>alpha<br>enter<br>ripple<br>economy |  
+| bip_39_word_new_br_6 | index<br>alpha<br>enter<br>ripple<br>economy<br>quantum |  
+| bip_39_word_new_br_7 | index<br>alpha<br>enter<br>ripple<br>economy<br>quantum<br>rubber |  
+| bip_39_word_new_br_8 | index<br>alpha<br>enter<br>ripple<br>economy<br>quantum<br>rubber<br>audit |  
+| bip_39_word_new_br_9 | index<br>alpha<br>enter<br>ripple<br>economy<br>quantum<br>rubber<br>audit<br>absent |  
+| bip_39_word_new_line_1 | index |  
+| bip_39_word_new_line_10 | index
 alpha
 enter
 ripple
@@ -55,7 +55,7 @@ rubber
 audit
 absent
 join |  
-| bip_39_word_new_line11 | index
+| bip_39_word_new_line_11 | index
 alpha
 enter
 ripple
@@ -66,7 +66,7 @@ audit
 absent
 join
 captain |  
-| bip_39_word_new_line12 | index
+| bip_39_word_new_line_12 | index
 alpha
 enter
 ripple
@@ -78,34 +78,34 @@ absent
 join
 captain
 advance |  
-| bip_39_word_new_line2 | index
+| bip_39_word_new_line_2 | index
 alpha |  
-| bip_39_word_new_line3 | index
+| bip_39_word_new_line_3 | index
 alpha
 enter |  
-| bip_39_word_new_line4 | index
+| bip_39_word_new_line_4 | index
 alpha
 enter
 ripple |  
-| bip_39_word_new_line5 | index
+| bip_39_word_new_line_5 | index
 alpha
 enter
 ripple
 economy |  
-| bip_39_word_new_line6 | index
+| bip_39_word_new_line_6 | index
 alpha
 enter
 ripple
 economy
 quantum |  
-| bip_39_word_new_line7 | index
+| bip_39_word_new_line_7 | index
 alpha
 enter
 ripple
 economy
 quantum
 rubber |  
-| bip_39_word_new_line8 | index
+| bip_39_word_new_line_8 | index
 alpha
 enter
 ripple
@@ -113,7 +113,7 @@ economy
 quantum
 rubber
 audit |  
-| bip_39_word_new_line9 | index
+| bip_39_word_new_line_9 | index
 alpha
 enter
 ripple

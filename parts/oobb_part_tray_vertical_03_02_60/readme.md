@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | resource |  
-| bip_39_word_new_br10 | resource<br>weather<br>physical<br>flame<br>lava<br>daughter<br>grief<br>fame<br>hero<br>cash |  
-| bip_39_word_new_br11 | resource<br>weather<br>physical<br>flame<br>lava<br>daughter<br>grief<br>fame<br>hero<br>cash<br>age |  
-| bip_39_word_new_br12 | resource<br>weather<br>physical<br>flame<br>lava<br>daughter<br>grief<br>fame<br>hero<br>cash<br>age<br>april |  
-| bip_39_word_new_br2 | resource<br>weather |  
-| bip_39_word_new_br3 | resource<br>weather<br>physical |  
-| bip_39_word_new_br4 | resource<br>weather<br>physical<br>flame |  
-| bip_39_word_new_br5 | resource<br>weather<br>physical<br>flame<br>lava |  
-| bip_39_word_new_br6 | resource<br>weather<br>physical<br>flame<br>lava<br>daughter |  
-| bip_39_word_new_br7 | resource<br>weather<br>physical<br>flame<br>lava<br>daughter<br>grief |  
-| bip_39_word_new_br8 | resource<br>weather<br>physical<br>flame<br>lava<br>daughter<br>grief<br>fame |  
-| bip_39_word_new_br9 | resource<br>weather<br>physical<br>flame<br>lava<br>daughter<br>grief<br>fame<br>hero |  
-| bip_39_word_new_line1 | resource |  
-| bip_39_word_new_line10 | resource
+| bip_39_word_new_br_1 | resource |  
+| bip_39_word_new_br_10 | resource<br>weather<br>physical<br>flame<br>lava<br>daughter<br>grief<br>fame<br>hero<br>cash |  
+| bip_39_word_new_br_11 | resource<br>weather<br>physical<br>flame<br>lava<br>daughter<br>grief<br>fame<br>hero<br>cash<br>age |  
+| bip_39_word_new_br_12 | resource<br>weather<br>physical<br>flame<br>lava<br>daughter<br>grief<br>fame<br>hero<br>cash<br>age<br>april |  
+| bip_39_word_new_br_2 | resource<br>weather |  
+| bip_39_word_new_br_3 | resource<br>weather<br>physical |  
+| bip_39_word_new_br_4 | resource<br>weather<br>physical<br>flame |  
+| bip_39_word_new_br_5 | resource<br>weather<br>physical<br>flame<br>lava |  
+| bip_39_word_new_br_6 | resource<br>weather<br>physical<br>flame<br>lava<br>daughter |  
+| bip_39_word_new_br_7 | resource<br>weather<br>physical<br>flame<br>lava<br>daughter<br>grief |  
+| bip_39_word_new_br_8 | resource<br>weather<br>physical<br>flame<br>lava<br>daughter<br>grief<br>fame |  
+| bip_39_word_new_br_9 | resource<br>weather<br>physical<br>flame<br>lava<br>daughter<br>grief<br>fame<br>hero |  
+| bip_39_word_new_line_1 | resource |  
+| bip_39_word_new_line_10 | resource
 weather
 physical
 flame
@@ -55,7 +55,7 @@ grief
 fame
 hero
 cash |  
-| bip_39_word_new_line11 | resource
+| bip_39_word_new_line_11 | resource
 weather
 physical
 flame
@@ -66,7 +66,7 @@ fame
 hero
 cash
 age |  
-| bip_39_word_new_line12 | resource
+| bip_39_word_new_line_12 | resource
 weather
 physical
 flame
@@ -78,34 +78,34 @@ hero
 cash
 age
 april |  
-| bip_39_word_new_line2 | resource
+| bip_39_word_new_line_2 | resource
 weather |  
-| bip_39_word_new_line3 | resource
+| bip_39_word_new_line_3 | resource
 weather
 physical |  
-| bip_39_word_new_line4 | resource
+| bip_39_word_new_line_4 | resource
 weather
 physical
 flame |  
-| bip_39_word_new_line5 | resource
+| bip_39_word_new_line_5 | resource
 weather
 physical
 flame
 lava |  
-| bip_39_word_new_line6 | resource
+| bip_39_word_new_line_6 | resource
 weather
 physical
 flame
 lava
 daughter |  
-| bip_39_word_new_line7 | resource
+| bip_39_word_new_line_7 | resource
 weather
 physical
 flame
 lava
 daughter
 grief |  
-| bip_39_word_new_line8 | resource
+| bip_39_word_new_line_8 | resource
 weather
 physical
 flame
@@ -113,7 +113,7 @@ lava
 daughter
 grief
 fame |  
-| bip_39_word_new_line9 | resource
+| bip_39_word_new_line_9 | resource
 weather
 physical
 flame

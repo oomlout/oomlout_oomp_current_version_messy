@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | exclude |  
-| bip_39_word_new_br10 | exclude<br>degree<br>buddy<br>love<br>adjust<br>evil<br>frame<br>grocery<br>manage<br>swing |  
-| bip_39_word_new_br11 | exclude<br>degree<br>buddy<br>love<br>adjust<br>evil<br>frame<br>grocery<br>manage<br>swing<br>young |  
-| bip_39_word_new_br12 | exclude<br>degree<br>buddy<br>love<br>adjust<br>evil<br>frame<br>grocery<br>manage<br>swing<br>young<br>arm |  
-| bip_39_word_new_br2 | exclude<br>degree |  
-| bip_39_word_new_br3 | exclude<br>degree<br>buddy |  
-| bip_39_word_new_br4 | exclude<br>degree<br>buddy<br>love |  
-| bip_39_word_new_br5 | exclude<br>degree<br>buddy<br>love<br>adjust |  
-| bip_39_word_new_br6 | exclude<br>degree<br>buddy<br>love<br>adjust<br>evil |  
-| bip_39_word_new_br7 | exclude<br>degree<br>buddy<br>love<br>adjust<br>evil<br>frame |  
-| bip_39_word_new_br8 | exclude<br>degree<br>buddy<br>love<br>adjust<br>evil<br>frame<br>grocery |  
-| bip_39_word_new_br9 | exclude<br>degree<br>buddy<br>love<br>adjust<br>evil<br>frame<br>grocery<br>manage |  
-| bip_39_word_new_line1 | exclude |  
-| bip_39_word_new_line10 | exclude
+| bip_39_word_new_br_1 | exclude |  
+| bip_39_word_new_br_10 | exclude<br>degree<br>buddy<br>love<br>adjust<br>evil<br>frame<br>grocery<br>manage<br>swing |  
+| bip_39_word_new_br_11 | exclude<br>degree<br>buddy<br>love<br>adjust<br>evil<br>frame<br>grocery<br>manage<br>swing<br>young |  
+| bip_39_word_new_br_12 | exclude<br>degree<br>buddy<br>love<br>adjust<br>evil<br>frame<br>grocery<br>manage<br>swing<br>young<br>arm |  
+| bip_39_word_new_br_2 | exclude<br>degree |  
+| bip_39_word_new_br_3 | exclude<br>degree<br>buddy |  
+| bip_39_word_new_br_4 | exclude<br>degree<br>buddy<br>love |  
+| bip_39_word_new_br_5 | exclude<br>degree<br>buddy<br>love<br>adjust |  
+| bip_39_word_new_br_6 | exclude<br>degree<br>buddy<br>love<br>adjust<br>evil |  
+| bip_39_word_new_br_7 | exclude<br>degree<br>buddy<br>love<br>adjust<br>evil<br>frame |  
+| bip_39_word_new_br_8 | exclude<br>degree<br>buddy<br>love<br>adjust<br>evil<br>frame<br>grocery |  
+| bip_39_word_new_br_9 | exclude<br>degree<br>buddy<br>love<br>adjust<br>evil<br>frame<br>grocery<br>manage |  
+| bip_39_word_new_line_1 | exclude |  
+| bip_39_word_new_line_10 | exclude
 degree
 buddy
 love
@@ -55,7 +55,7 @@ frame
 grocery
 manage
 swing |  
-| bip_39_word_new_line11 | exclude
+| bip_39_word_new_line_11 | exclude
 degree
 buddy
 love
@@ -66,7 +66,7 @@ grocery
 manage
 swing
 young |  
-| bip_39_word_new_line12 | exclude
+| bip_39_word_new_line_12 | exclude
 degree
 buddy
 love
@@ -78,34 +78,34 @@ manage
 swing
 young
 arm |  
-| bip_39_word_new_line2 | exclude
+| bip_39_word_new_line_2 | exclude
 degree |  
-| bip_39_word_new_line3 | exclude
+| bip_39_word_new_line_3 | exclude
 degree
 buddy |  
-| bip_39_word_new_line4 | exclude
+| bip_39_word_new_line_4 | exclude
 degree
 buddy
 love |  
-| bip_39_word_new_line5 | exclude
+| bip_39_word_new_line_5 | exclude
 degree
 buddy
 love
 adjust |  
-| bip_39_word_new_line6 | exclude
+| bip_39_word_new_line_6 | exclude
 degree
 buddy
 love
 adjust
 evil |  
-| bip_39_word_new_line7 | exclude
+| bip_39_word_new_line_7 | exclude
 degree
 buddy
 love
 adjust
 evil
 frame |  
-| bip_39_word_new_line8 | exclude
+| bip_39_word_new_line_8 | exclude
 degree
 buddy
 love
@@ -113,7 +113,7 @@ adjust
 evil
 frame
 grocery |  
-| bip_39_word_new_line9 | exclude
+| bip_39_word_new_line_9 | exclude
 degree
 buddy
 love

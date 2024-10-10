@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | average |  
-| bip_39_word_new_br10 | average<br>caution<br>price<br>moment<br>return<br>bullet<br>reform<br>pave<br>meadow<br>indicate |  
-| bip_39_word_new_br11 | average<br>caution<br>price<br>moment<br>return<br>bullet<br>reform<br>pave<br>meadow<br>indicate<br>nerve |  
-| bip_39_word_new_br12 | average<br>caution<br>price<br>moment<br>return<br>bullet<br>reform<br>pave<br>meadow<br>indicate<br>nerve<br>address |  
-| bip_39_word_new_br2 | average<br>caution |  
-| bip_39_word_new_br3 | average<br>caution<br>price |  
-| bip_39_word_new_br4 | average<br>caution<br>price<br>moment |  
-| bip_39_word_new_br5 | average<br>caution<br>price<br>moment<br>return |  
-| bip_39_word_new_br6 | average<br>caution<br>price<br>moment<br>return<br>bullet |  
-| bip_39_word_new_br7 | average<br>caution<br>price<br>moment<br>return<br>bullet<br>reform |  
-| bip_39_word_new_br8 | average<br>caution<br>price<br>moment<br>return<br>bullet<br>reform<br>pave |  
-| bip_39_word_new_br9 | average<br>caution<br>price<br>moment<br>return<br>bullet<br>reform<br>pave<br>meadow |  
-| bip_39_word_new_line1 | average |  
-| bip_39_word_new_line10 | average
+| bip_39_word_new_br_1 | average |  
+| bip_39_word_new_br_10 | average<br>caution<br>price<br>moment<br>return<br>bullet<br>reform<br>pave<br>meadow<br>indicate |  
+| bip_39_word_new_br_11 | average<br>caution<br>price<br>moment<br>return<br>bullet<br>reform<br>pave<br>meadow<br>indicate<br>nerve |  
+| bip_39_word_new_br_12 | average<br>caution<br>price<br>moment<br>return<br>bullet<br>reform<br>pave<br>meadow<br>indicate<br>nerve<br>address |  
+| bip_39_word_new_br_2 | average<br>caution |  
+| bip_39_word_new_br_3 | average<br>caution<br>price |  
+| bip_39_word_new_br_4 | average<br>caution<br>price<br>moment |  
+| bip_39_word_new_br_5 | average<br>caution<br>price<br>moment<br>return |  
+| bip_39_word_new_br_6 | average<br>caution<br>price<br>moment<br>return<br>bullet |  
+| bip_39_word_new_br_7 | average<br>caution<br>price<br>moment<br>return<br>bullet<br>reform |  
+| bip_39_word_new_br_8 | average<br>caution<br>price<br>moment<br>return<br>bullet<br>reform<br>pave |  
+| bip_39_word_new_br_9 | average<br>caution<br>price<br>moment<br>return<br>bullet<br>reform<br>pave<br>meadow |  
+| bip_39_word_new_line_1 | average |  
+| bip_39_word_new_line_10 | average
 caution
 price
 moment
@@ -55,7 +55,7 @@ reform
 pave
 meadow
 indicate |  
-| bip_39_word_new_line11 | average
+| bip_39_word_new_line_11 | average
 caution
 price
 moment
@@ -66,7 +66,7 @@ pave
 meadow
 indicate
 nerve |  
-| bip_39_word_new_line12 | average
+| bip_39_word_new_line_12 | average
 caution
 price
 moment
@@ -78,34 +78,34 @@ meadow
 indicate
 nerve
 address |  
-| bip_39_word_new_line2 | average
+| bip_39_word_new_line_2 | average
 caution |  
-| bip_39_word_new_line3 | average
+| bip_39_word_new_line_3 | average
 caution
 price |  
-| bip_39_word_new_line4 | average
+| bip_39_word_new_line_4 | average
 caution
 price
 moment |  
-| bip_39_word_new_line5 | average
+| bip_39_word_new_line_5 | average
 caution
 price
 moment
 return |  
-| bip_39_word_new_line6 | average
+| bip_39_word_new_line_6 | average
 caution
 price
 moment
 return
 bullet |  
-| bip_39_word_new_line7 | average
+| bip_39_word_new_line_7 | average
 caution
 price
 moment
 return
 bullet
 reform |  
-| bip_39_word_new_line8 | average
+| bip_39_word_new_line_8 | average
 caution
 price
 moment
@@ -113,7 +113,7 @@ return
 bullet
 reform
 pave |  
-| bip_39_word_new_line9 | average
+| bip_39_word_new_line_9 | average
 caution
 price
 moment

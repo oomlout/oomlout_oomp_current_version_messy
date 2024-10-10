@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | spirit |  
-| bip_39_word_new_br10 | spirit<br>uncover<br>fury<br>pupil<br>law<br>absent<br>fall<br>real<br>kite<br>bread |  
-| bip_39_word_new_br11 | spirit<br>uncover<br>fury<br>pupil<br>law<br>absent<br>fall<br>real<br>kite<br>bread<br>electric |  
-| bip_39_word_new_br12 | spirit<br>uncover<br>fury<br>pupil<br>law<br>absent<br>fall<br>real<br>kite<br>bread<br>electric<br>anchor |  
-| bip_39_word_new_br2 | spirit<br>uncover |  
-| bip_39_word_new_br3 | spirit<br>uncover<br>fury |  
-| bip_39_word_new_br4 | spirit<br>uncover<br>fury<br>pupil |  
-| bip_39_word_new_br5 | spirit<br>uncover<br>fury<br>pupil<br>law |  
-| bip_39_word_new_br6 | spirit<br>uncover<br>fury<br>pupil<br>law<br>absent |  
-| bip_39_word_new_br7 | spirit<br>uncover<br>fury<br>pupil<br>law<br>absent<br>fall |  
-| bip_39_word_new_br8 | spirit<br>uncover<br>fury<br>pupil<br>law<br>absent<br>fall<br>real |  
-| bip_39_word_new_br9 | spirit<br>uncover<br>fury<br>pupil<br>law<br>absent<br>fall<br>real<br>kite |  
-| bip_39_word_new_line1 | spirit |  
-| bip_39_word_new_line10 | spirit
+| bip_39_word_new_br_1 | spirit |  
+| bip_39_word_new_br_10 | spirit<br>uncover<br>fury<br>pupil<br>law<br>absent<br>fall<br>real<br>kite<br>bread |  
+| bip_39_word_new_br_11 | spirit<br>uncover<br>fury<br>pupil<br>law<br>absent<br>fall<br>real<br>kite<br>bread<br>electric |  
+| bip_39_word_new_br_12 | spirit<br>uncover<br>fury<br>pupil<br>law<br>absent<br>fall<br>real<br>kite<br>bread<br>electric<br>anchor |  
+| bip_39_word_new_br_2 | spirit<br>uncover |  
+| bip_39_word_new_br_3 | spirit<br>uncover<br>fury |  
+| bip_39_word_new_br_4 | spirit<br>uncover<br>fury<br>pupil |  
+| bip_39_word_new_br_5 | spirit<br>uncover<br>fury<br>pupil<br>law |  
+| bip_39_word_new_br_6 | spirit<br>uncover<br>fury<br>pupil<br>law<br>absent |  
+| bip_39_word_new_br_7 | spirit<br>uncover<br>fury<br>pupil<br>law<br>absent<br>fall |  
+| bip_39_word_new_br_8 | spirit<br>uncover<br>fury<br>pupil<br>law<br>absent<br>fall<br>real |  
+| bip_39_word_new_br_9 | spirit<br>uncover<br>fury<br>pupil<br>law<br>absent<br>fall<br>real<br>kite |  
+| bip_39_word_new_line_1 | spirit |  
+| bip_39_word_new_line_10 | spirit
 uncover
 fury
 pupil
@@ -55,7 +55,7 @@ fall
 real
 kite
 bread |  
-| bip_39_word_new_line11 | spirit
+| bip_39_word_new_line_11 | spirit
 uncover
 fury
 pupil
@@ -66,7 +66,7 @@ real
 kite
 bread
 electric |  
-| bip_39_word_new_line12 | spirit
+| bip_39_word_new_line_12 | spirit
 uncover
 fury
 pupil
@@ -78,34 +78,34 @@ kite
 bread
 electric
 anchor |  
-| bip_39_word_new_line2 | spirit
+| bip_39_word_new_line_2 | spirit
 uncover |  
-| bip_39_word_new_line3 | spirit
+| bip_39_word_new_line_3 | spirit
 uncover
 fury |  
-| bip_39_word_new_line4 | spirit
+| bip_39_word_new_line_4 | spirit
 uncover
 fury
 pupil |  
-| bip_39_word_new_line5 | spirit
+| bip_39_word_new_line_5 | spirit
 uncover
 fury
 pupil
 law |  
-| bip_39_word_new_line6 | spirit
+| bip_39_word_new_line_6 | spirit
 uncover
 fury
 pupil
 law
 absent |  
-| bip_39_word_new_line7 | spirit
+| bip_39_word_new_line_7 | spirit
 uncover
 fury
 pupil
 law
 absent
 fall |  
-| bip_39_word_new_line8 | spirit
+| bip_39_word_new_line_8 | spirit
 uncover
 fury
 pupil
@@ -113,7 +113,7 @@ law
 absent
 fall
 real |  
-| bip_39_word_new_line9 | spirit
+| bip_39_word_new_line_9 | spirit
 uncover
 fury
 pupil

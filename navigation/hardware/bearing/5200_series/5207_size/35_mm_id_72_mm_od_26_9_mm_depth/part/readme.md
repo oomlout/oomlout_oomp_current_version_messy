@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | shallow |  
-| bip_39_word_new_br10 | shallow<br>dice<br>deny<br>feed<br>tell<br>layer<br>corn<br>supply<br>unfair<br>indoor |  
-| bip_39_word_new_br11 | shallow<br>dice<br>deny<br>feed<br>tell<br>layer<br>corn<br>supply<br>unfair<br>indoor<br>arch |  
-| bip_39_word_new_br12 | shallow<br>dice<br>deny<br>feed<br>tell<br>layer<br>corn<br>supply<br>unfair<br>indoor<br>arch<br>almost |  
-| bip_39_word_new_br2 | shallow<br>dice |  
-| bip_39_word_new_br3 | shallow<br>dice<br>deny |  
-| bip_39_word_new_br4 | shallow<br>dice<br>deny<br>feed |  
-| bip_39_word_new_br5 | shallow<br>dice<br>deny<br>feed<br>tell |  
-| bip_39_word_new_br6 | shallow<br>dice<br>deny<br>feed<br>tell<br>layer |  
-| bip_39_word_new_br7 | shallow<br>dice<br>deny<br>feed<br>tell<br>layer<br>corn |  
-| bip_39_word_new_br8 | shallow<br>dice<br>deny<br>feed<br>tell<br>layer<br>corn<br>supply |  
-| bip_39_word_new_br9 | shallow<br>dice<br>deny<br>feed<br>tell<br>layer<br>corn<br>supply<br>unfair |  
-| bip_39_word_new_line1 | shallow |  
-| bip_39_word_new_line10 | shallow
+| bip_39_word_new_br_1 | shallow |  
+| bip_39_word_new_br_10 | shallow<br>dice<br>deny<br>feed<br>tell<br>layer<br>corn<br>supply<br>unfair<br>indoor |  
+| bip_39_word_new_br_11 | shallow<br>dice<br>deny<br>feed<br>tell<br>layer<br>corn<br>supply<br>unfair<br>indoor<br>arch |  
+| bip_39_word_new_br_12 | shallow<br>dice<br>deny<br>feed<br>tell<br>layer<br>corn<br>supply<br>unfair<br>indoor<br>arch<br>almost |  
+| bip_39_word_new_br_2 | shallow<br>dice |  
+| bip_39_word_new_br_3 | shallow<br>dice<br>deny |  
+| bip_39_word_new_br_4 | shallow<br>dice<br>deny<br>feed |  
+| bip_39_word_new_br_5 | shallow<br>dice<br>deny<br>feed<br>tell |  
+| bip_39_word_new_br_6 | shallow<br>dice<br>deny<br>feed<br>tell<br>layer |  
+| bip_39_word_new_br_7 | shallow<br>dice<br>deny<br>feed<br>tell<br>layer<br>corn |  
+| bip_39_word_new_br_8 | shallow<br>dice<br>deny<br>feed<br>tell<br>layer<br>corn<br>supply |  
+| bip_39_word_new_br_9 | shallow<br>dice<br>deny<br>feed<br>tell<br>layer<br>corn<br>supply<br>unfair |  
+| bip_39_word_new_line_1 | shallow |  
+| bip_39_word_new_line_10 | shallow
 dice
 deny
 feed
@@ -55,7 +55,7 @@ corn
 supply
 unfair
 indoor |  
-| bip_39_word_new_line11 | shallow
+| bip_39_word_new_line_11 | shallow
 dice
 deny
 feed
@@ -66,7 +66,7 @@ supply
 unfair
 indoor
 arch |  
-| bip_39_word_new_line12 | shallow
+| bip_39_word_new_line_12 | shallow
 dice
 deny
 feed
@@ -78,34 +78,34 @@ unfair
 indoor
 arch
 almost |  
-| bip_39_word_new_line2 | shallow
+| bip_39_word_new_line_2 | shallow
 dice |  
-| bip_39_word_new_line3 | shallow
+| bip_39_word_new_line_3 | shallow
 dice
 deny |  
-| bip_39_word_new_line4 | shallow
+| bip_39_word_new_line_4 | shallow
 dice
 deny
 feed |  
-| bip_39_word_new_line5 | shallow
+| bip_39_word_new_line_5 | shallow
 dice
 deny
 feed
 tell |  
-| bip_39_word_new_line6 | shallow
+| bip_39_word_new_line_6 | shallow
 dice
 deny
 feed
 tell
 layer |  
-| bip_39_word_new_line7 | shallow
+| bip_39_word_new_line_7 | shallow
 dice
 deny
 feed
 tell
 layer
 corn |  
-| bip_39_word_new_line8 | shallow
+| bip_39_word_new_line_8 | shallow
 dice
 deny
 feed
@@ -113,7 +113,7 @@ tell
 layer
 corn
 supply |  
-| bip_39_word_new_line9 | shallow
+| bip_39_word_new_line_9 | shallow
 dice
 deny
 feed

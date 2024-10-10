@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bubble |  
-| bip_39_word_new_br10 | bubble<br>clerk<br>myth<br>tiny<br>monitor<br>tenant<br>chunk<br>tell<br>core<br>patch |  
-| bip_39_word_new_br11 | bubble<br>clerk<br>myth<br>tiny<br>monitor<br>tenant<br>chunk<br>tell<br>core<br>patch<br>roast |  
-| bip_39_word_new_br12 | bubble<br>clerk<br>myth<br>tiny<br>monitor<br>tenant<br>chunk<br>tell<br>core<br>patch<br>roast<br>assist |  
-| bip_39_word_new_br2 | bubble<br>clerk |  
-| bip_39_word_new_br3 | bubble<br>clerk<br>myth |  
-| bip_39_word_new_br4 | bubble<br>clerk<br>myth<br>tiny |  
-| bip_39_word_new_br5 | bubble<br>clerk<br>myth<br>tiny<br>monitor |  
-| bip_39_word_new_br6 | bubble<br>clerk<br>myth<br>tiny<br>monitor<br>tenant |  
-| bip_39_word_new_br7 | bubble<br>clerk<br>myth<br>tiny<br>monitor<br>tenant<br>chunk |  
-| bip_39_word_new_br8 | bubble<br>clerk<br>myth<br>tiny<br>monitor<br>tenant<br>chunk<br>tell |  
-| bip_39_word_new_br9 | bubble<br>clerk<br>myth<br>tiny<br>monitor<br>tenant<br>chunk<br>tell<br>core |  
-| bip_39_word_new_line1 | bubble |  
-| bip_39_word_new_line10 | bubble
+| bip_39_word_new_br_1 | bubble |  
+| bip_39_word_new_br_10 | bubble<br>clerk<br>myth<br>tiny<br>monitor<br>tenant<br>chunk<br>tell<br>core<br>patch |  
+| bip_39_word_new_br_11 | bubble<br>clerk<br>myth<br>tiny<br>monitor<br>tenant<br>chunk<br>tell<br>core<br>patch<br>roast |  
+| bip_39_word_new_br_12 | bubble<br>clerk<br>myth<br>tiny<br>monitor<br>tenant<br>chunk<br>tell<br>core<br>patch<br>roast<br>assist |  
+| bip_39_word_new_br_2 | bubble<br>clerk |  
+| bip_39_word_new_br_3 | bubble<br>clerk<br>myth |  
+| bip_39_word_new_br_4 | bubble<br>clerk<br>myth<br>tiny |  
+| bip_39_word_new_br_5 | bubble<br>clerk<br>myth<br>tiny<br>monitor |  
+| bip_39_word_new_br_6 | bubble<br>clerk<br>myth<br>tiny<br>monitor<br>tenant |  
+| bip_39_word_new_br_7 | bubble<br>clerk<br>myth<br>tiny<br>monitor<br>tenant<br>chunk |  
+| bip_39_word_new_br_8 | bubble<br>clerk<br>myth<br>tiny<br>monitor<br>tenant<br>chunk<br>tell |  
+| bip_39_word_new_br_9 | bubble<br>clerk<br>myth<br>tiny<br>monitor<br>tenant<br>chunk<br>tell<br>core |  
+| bip_39_word_new_line_1 | bubble |  
+| bip_39_word_new_line_10 | bubble
 clerk
 myth
 tiny
@@ -55,7 +55,7 @@ chunk
 tell
 core
 patch |  
-| bip_39_word_new_line11 | bubble
+| bip_39_word_new_line_11 | bubble
 clerk
 myth
 tiny
@@ -66,7 +66,7 @@ tell
 core
 patch
 roast |  
-| bip_39_word_new_line12 | bubble
+| bip_39_word_new_line_12 | bubble
 clerk
 myth
 tiny
@@ -78,34 +78,34 @@ core
 patch
 roast
 assist |  
-| bip_39_word_new_line2 | bubble
+| bip_39_word_new_line_2 | bubble
 clerk |  
-| bip_39_word_new_line3 | bubble
+| bip_39_word_new_line_3 | bubble
 clerk
 myth |  
-| bip_39_word_new_line4 | bubble
+| bip_39_word_new_line_4 | bubble
 clerk
 myth
 tiny |  
-| bip_39_word_new_line5 | bubble
+| bip_39_word_new_line_5 | bubble
 clerk
 myth
 tiny
 monitor |  
-| bip_39_word_new_line6 | bubble
+| bip_39_word_new_line_6 | bubble
 clerk
 myth
 tiny
 monitor
 tenant |  
-| bip_39_word_new_line7 | bubble
+| bip_39_word_new_line_7 | bubble
 clerk
 myth
 tiny
 monitor
 tenant
 chunk |  
-| bip_39_word_new_line8 | bubble
+| bip_39_word_new_line_8 | bubble
 clerk
 myth
 tiny
@@ -113,7 +113,7 @@ monitor
 tenant
 chunk
 tell |  
-| bip_39_word_new_line9 | bubble
+| bip_39_word_new_line_9 | bubble
 clerk
 myth
 tiny

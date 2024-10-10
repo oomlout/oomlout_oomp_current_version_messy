@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | tumble |  
-| bip_39_word_new_br10 | tumble<br>hill<br>rich<br>father<br>split<br>smooth<br>off<br>key<br>rude<br>always |  
-| bip_39_word_new_br11 | tumble<br>hill<br>rich<br>father<br>split<br>smooth<br>off<br>key<br>rude<br>always<br>tennis |  
-| bip_39_word_new_br12 | tumble<br>hill<br>rich<br>father<br>split<br>smooth<br>off<br>key<br>rude<br>always<br>tennis<br>abuse |  
-| bip_39_word_new_br2 | tumble<br>hill |  
-| bip_39_word_new_br3 | tumble<br>hill<br>rich |  
-| bip_39_word_new_br4 | tumble<br>hill<br>rich<br>father |  
-| bip_39_word_new_br5 | tumble<br>hill<br>rich<br>father<br>split |  
-| bip_39_word_new_br6 | tumble<br>hill<br>rich<br>father<br>split<br>smooth |  
-| bip_39_word_new_br7 | tumble<br>hill<br>rich<br>father<br>split<br>smooth<br>off |  
-| bip_39_word_new_br8 | tumble<br>hill<br>rich<br>father<br>split<br>smooth<br>off<br>key |  
-| bip_39_word_new_br9 | tumble<br>hill<br>rich<br>father<br>split<br>smooth<br>off<br>key<br>rude |  
-| bip_39_word_new_line1 | tumble |  
-| bip_39_word_new_line10 | tumble
+| bip_39_word_new_br_1 | tumble |  
+| bip_39_word_new_br_10 | tumble<br>hill<br>rich<br>father<br>split<br>smooth<br>off<br>key<br>rude<br>always |  
+| bip_39_word_new_br_11 | tumble<br>hill<br>rich<br>father<br>split<br>smooth<br>off<br>key<br>rude<br>always<br>tennis |  
+| bip_39_word_new_br_12 | tumble<br>hill<br>rich<br>father<br>split<br>smooth<br>off<br>key<br>rude<br>always<br>tennis<br>abuse |  
+| bip_39_word_new_br_2 | tumble<br>hill |  
+| bip_39_word_new_br_3 | tumble<br>hill<br>rich |  
+| bip_39_word_new_br_4 | tumble<br>hill<br>rich<br>father |  
+| bip_39_word_new_br_5 | tumble<br>hill<br>rich<br>father<br>split |  
+| bip_39_word_new_br_6 | tumble<br>hill<br>rich<br>father<br>split<br>smooth |  
+| bip_39_word_new_br_7 | tumble<br>hill<br>rich<br>father<br>split<br>smooth<br>off |  
+| bip_39_word_new_br_8 | tumble<br>hill<br>rich<br>father<br>split<br>smooth<br>off<br>key |  
+| bip_39_word_new_br_9 | tumble<br>hill<br>rich<br>father<br>split<br>smooth<br>off<br>key<br>rude |  
+| bip_39_word_new_line_1 | tumble |  
+| bip_39_word_new_line_10 | tumble
 hill
 rich
 father
@@ -55,7 +55,7 @@ off
 key
 rude
 always |  
-| bip_39_word_new_line11 | tumble
+| bip_39_word_new_line_11 | tumble
 hill
 rich
 father
@@ -66,7 +66,7 @@ key
 rude
 always
 tennis |  
-| bip_39_word_new_line12 | tumble
+| bip_39_word_new_line_12 | tumble
 hill
 rich
 father
@@ -78,34 +78,34 @@ rude
 always
 tennis
 abuse |  
-| bip_39_word_new_line2 | tumble
+| bip_39_word_new_line_2 | tumble
 hill |  
-| bip_39_word_new_line3 | tumble
+| bip_39_word_new_line_3 | tumble
 hill
 rich |  
-| bip_39_word_new_line4 | tumble
+| bip_39_word_new_line_4 | tumble
 hill
 rich
 father |  
-| bip_39_word_new_line5 | tumble
+| bip_39_word_new_line_5 | tumble
 hill
 rich
 father
 split |  
-| bip_39_word_new_line6 | tumble
+| bip_39_word_new_line_6 | tumble
 hill
 rich
 father
 split
 smooth |  
-| bip_39_word_new_line7 | tumble
+| bip_39_word_new_line_7 | tumble
 hill
 rich
 father
 split
 smooth
 off |  
-| bip_39_word_new_line8 | tumble
+| bip_39_word_new_line_8 | tumble
 hill
 rich
 father
@@ -113,7 +113,7 @@ split
 smooth
 off
 key |  
-| bip_39_word_new_line9 | tumble
+| bip_39_word_new_line_9 | tumble
 hill
 rich
 father

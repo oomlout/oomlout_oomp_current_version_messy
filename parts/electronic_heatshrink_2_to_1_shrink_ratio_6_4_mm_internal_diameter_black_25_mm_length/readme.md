@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | license |  
-| bip_39_word_new_br10 | license<br>file<br>toddler<br>kangaroo<br>gasp<br>casual<br>work<br>escape<br>blossom<br>ocean |  
-| bip_39_word_new_br11 | license<br>file<br>toddler<br>kangaroo<br>gasp<br>casual<br>work<br>escape<br>blossom<br>ocean<br>alien |  
-| bip_39_word_new_br12 | license<br>file<br>toddler<br>kangaroo<br>gasp<br>casual<br>work<br>escape<br>blossom<br>ocean<br>alien<br>apple |  
-| bip_39_word_new_br2 | license<br>file |  
-| bip_39_word_new_br3 | license<br>file<br>toddler |  
-| bip_39_word_new_br4 | license<br>file<br>toddler<br>kangaroo |  
-| bip_39_word_new_br5 | license<br>file<br>toddler<br>kangaroo<br>gasp |  
-| bip_39_word_new_br6 | license<br>file<br>toddler<br>kangaroo<br>gasp<br>casual |  
-| bip_39_word_new_br7 | license<br>file<br>toddler<br>kangaroo<br>gasp<br>casual<br>work |  
-| bip_39_word_new_br8 | license<br>file<br>toddler<br>kangaroo<br>gasp<br>casual<br>work<br>escape |  
-| bip_39_word_new_br9 | license<br>file<br>toddler<br>kangaroo<br>gasp<br>casual<br>work<br>escape<br>blossom |  
-| bip_39_word_new_line1 | license |  
-| bip_39_word_new_line10 | license
+| bip_39_word_new_br_1 | license |  
+| bip_39_word_new_br_10 | license<br>file<br>toddler<br>kangaroo<br>gasp<br>casual<br>work<br>escape<br>blossom<br>ocean |  
+| bip_39_word_new_br_11 | license<br>file<br>toddler<br>kangaroo<br>gasp<br>casual<br>work<br>escape<br>blossom<br>ocean<br>alien |  
+| bip_39_word_new_br_12 | license<br>file<br>toddler<br>kangaroo<br>gasp<br>casual<br>work<br>escape<br>blossom<br>ocean<br>alien<br>apple |  
+| bip_39_word_new_br_2 | license<br>file |  
+| bip_39_word_new_br_3 | license<br>file<br>toddler |  
+| bip_39_word_new_br_4 | license<br>file<br>toddler<br>kangaroo |  
+| bip_39_word_new_br_5 | license<br>file<br>toddler<br>kangaroo<br>gasp |  
+| bip_39_word_new_br_6 | license<br>file<br>toddler<br>kangaroo<br>gasp<br>casual |  
+| bip_39_word_new_br_7 | license<br>file<br>toddler<br>kangaroo<br>gasp<br>casual<br>work |  
+| bip_39_word_new_br_8 | license<br>file<br>toddler<br>kangaroo<br>gasp<br>casual<br>work<br>escape |  
+| bip_39_word_new_br_9 | license<br>file<br>toddler<br>kangaroo<br>gasp<br>casual<br>work<br>escape<br>blossom |  
+| bip_39_word_new_line_1 | license |  
+| bip_39_word_new_line_10 | license
 file
 toddler
 kangaroo
@@ -55,7 +55,7 @@ work
 escape
 blossom
 ocean |  
-| bip_39_word_new_line11 | license
+| bip_39_word_new_line_11 | license
 file
 toddler
 kangaroo
@@ -66,7 +66,7 @@ escape
 blossom
 ocean
 alien |  
-| bip_39_word_new_line12 | license
+| bip_39_word_new_line_12 | license
 file
 toddler
 kangaroo
@@ -78,34 +78,34 @@ blossom
 ocean
 alien
 apple |  
-| bip_39_word_new_line2 | license
+| bip_39_word_new_line_2 | license
 file |  
-| bip_39_word_new_line3 | license
+| bip_39_word_new_line_3 | license
 file
 toddler |  
-| bip_39_word_new_line4 | license
+| bip_39_word_new_line_4 | license
 file
 toddler
 kangaroo |  
-| bip_39_word_new_line5 | license
+| bip_39_word_new_line_5 | license
 file
 toddler
 kangaroo
 gasp |  
-| bip_39_word_new_line6 | license
+| bip_39_word_new_line_6 | license
 file
 toddler
 kangaroo
 gasp
 casual |  
-| bip_39_word_new_line7 | license
+| bip_39_word_new_line_7 | license
 file
 toddler
 kangaroo
 gasp
 casual
 work |  
-| bip_39_word_new_line8 | license
+| bip_39_word_new_line_8 | license
 file
 toddler
 kangaroo
@@ -113,7 +113,7 @@ gasp
 casual
 work
 escape |  
-| bip_39_word_new_line9 | license
+| bip_39_word_new_line_9 | license
 file
 toddler
 kangaroo

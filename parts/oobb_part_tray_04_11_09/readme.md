@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | keep |  
-| bip_39_word_new_br10 | keep<br>hope<br>claim<br>ginger<br>immense<br>lamp<br>quiz<br>scorpion<br>quarter<br>property |  
-| bip_39_word_new_br11 | keep<br>hope<br>claim<br>ginger<br>immense<br>lamp<br>quiz<br>scorpion<br>quarter<br>property<br>island |  
-| bip_39_word_new_br12 | keep<br>hope<br>claim<br>ginger<br>immense<br>lamp<br>quiz<br>scorpion<br>quarter<br>property<br>island<br>airport |  
-| bip_39_word_new_br2 | keep<br>hope |  
-| bip_39_word_new_br3 | keep<br>hope<br>claim |  
-| bip_39_word_new_br4 | keep<br>hope<br>claim<br>ginger |  
-| bip_39_word_new_br5 | keep<br>hope<br>claim<br>ginger<br>immense |  
-| bip_39_word_new_br6 | keep<br>hope<br>claim<br>ginger<br>immense<br>lamp |  
-| bip_39_word_new_br7 | keep<br>hope<br>claim<br>ginger<br>immense<br>lamp<br>quiz |  
-| bip_39_word_new_br8 | keep<br>hope<br>claim<br>ginger<br>immense<br>lamp<br>quiz<br>scorpion |  
-| bip_39_word_new_br9 | keep<br>hope<br>claim<br>ginger<br>immense<br>lamp<br>quiz<br>scorpion<br>quarter |  
-| bip_39_word_new_line1 | keep |  
-| bip_39_word_new_line10 | keep
+| bip_39_word_new_br_1 | keep |  
+| bip_39_word_new_br_10 | keep<br>hope<br>claim<br>ginger<br>immense<br>lamp<br>quiz<br>scorpion<br>quarter<br>property |  
+| bip_39_word_new_br_11 | keep<br>hope<br>claim<br>ginger<br>immense<br>lamp<br>quiz<br>scorpion<br>quarter<br>property<br>island |  
+| bip_39_word_new_br_12 | keep<br>hope<br>claim<br>ginger<br>immense<br>lamp<br>quiz<br>scorpion<br>quarter<br>property<br>island<br>airport |  
+| bip_39_word_new_br_2 | keep<br>hope |  
+| bip_39_word_new_br_3 | keep<br>hope<br>claim |  
+| bip_39_word_new_br_4 | keep<br>hope<br>claim<br>ginger |  
+| bip_39_word_new_br_5 | keep<br>hope<br>claim<br>ginger<br>immense |  
+| bip_39_word_new_br_6 | keep<br>hope<br>claim<br>ginger<br>immense<br>lamp |  
+| bip_39_word_new_br_7 | keep<br>hope<br>claim<br>ginger<br>immense<br>lamp<br>quiz |  
+| bip_39_word_new_br_8 | keep<br>hope<br>claim<br>ginger<br>immense<br>lamp<br>quiz<br>scorpion |  
+| bip_39_word_new_br_9 | keep<br>hope<br>claim<br>ginger<br>immense<br>lamp<br>quiz<br>scorpion<br>quarter |  
+| bip_39_word_new_line_1 | keep |  
+| bip_39_word_new_line_10 | keep
 hope
 claim
 ginger
@@ -55,7 +55,7 @@ quiz
 scorpion
 quarter
 property |  
-| bip_39_word_new_line11 | keep
+| bip_39_word_new_line_11 | keep
 hope
 claim
 ginger
@@ -66,7 +66,7 @@ scorpion
 quarter
 property
 island |  
-| bip_39_word_new_line12 | keep
+| bip_39_word_new_line_12 | keep
 hope
 claim
 ginger
@@ -78,34 +78,34 @@ quarter
 property
 island
 airport |  
-| bip_39_word_new_line2 | keep
+| bip_39_word_new_line_2 | keep
 hope |  
-| bip_39_word_new_line3 | keep
+| bip_39_word_new_line_3 | keep
 hope
 claim |  
-| bip_39_word_new_line4 | keep
+| bip_39_word_new_line_4 | keep
 hope
 claim
 ginger |  
-| bip_39_word_new_line5 | keep
+| bip_39_word_new_line_5 | keep
 hope
 claim
 ginger
 immense |  
-| bip_39_word_new_line6 | keep
+| bip_39_word_new_line_6 | keep
 hope
 claim
 ginger
 immense
 lamp |  
-| bip_39_word_new_line7 | keep
+| bip_39_word_new_line_7 | keep
 hope
 claim
 ginger
 immense
 lamp
 quiz |  
-| bip_39_word_new_line8 | keep
+| bip_39_word_new_line_8 | keep
 hope
 claim
 ginger
@@ -113,7 +113,7 @@ immense
 lamp
 quiz
 scorpion |  
-| bip_39_word_new_line9 | keep
+| bip_39_word_new_line_9 | keep
 hope
 claim
 ginger

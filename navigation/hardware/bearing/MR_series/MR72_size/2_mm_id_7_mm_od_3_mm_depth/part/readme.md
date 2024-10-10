@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bronze |  
-| bip_39_word_new_br10 | bronze<br>crack<br>toss<br>kidney<br>cube<br>meat<br>enrich<br>extend<br>stable<br>faith |  
-| bip_39_word_new_br11 | bronze<br>crack<br>toss<br>kidney<br>cube<br>meat<br>enrich<br>extend<br>stable<br>faith<br>top |  
-| bip_39_word_new_br12 | bronze<br>crack<br>toss<br>kidney<br>cube<br>meat<br>enrich<br>extend<br>stable<br>faith<br>top<br>assume |  
-| bip_39_word_new_br2 | bronze<br>crack |  
-| bip_39_word_new_br3 | bronze<br>crack<br>toss |  
-| bip_39_word_new_br4 | bronze<br>crack<br>toss<br>kidney |  
-| bip_39_word_new_br5 | bronze<br>crack<br>toss<br>kidney<br>cube |  
-| bip_39_word_new_br6 | bronze<br>crack<br>toss<br>kidney<br>cube<br>meat |  
-| bip_39_word_new_br7 | bronze<br>crack<br>toss<br>kidney<br>cube<br>meat<br>enrich |  
-| bip_39_word_new_br8 | bronze<br>crack<br>toss<br>kidney<br>cube<br>meat<br>enrich<br>extend |  
-| bip_39_word_new_br9 | bronze<br>crack<br>toss<br>kidney<br>cube<br>meat<br>enrich<br>extend<br>stable |  
-| bip_39_word_new_line1 | bronze |  
-| bip_39_word_new_line10 | bronze
+| bip_39_word_new_br_1 | bronze |  
+| bip_39_word_new_br_10 | bronze<br>crack<br>toss<br>kidney<br>cube<br>meat<br>enrich<br>extend<br>stable<br>faith |  
+| bip_39_word_new_br_11 | bronze<br>crack<br>toss<br>kidney<br>cube<br>meat<br>enrich<br>extend<br>stable<br>faith<br>top |  
+| bip_39_word_new_br_12 | bronze<br>crack<br>toss<br>kidney<br>cube<br>meat<br>enrich<br>extend<br>stable<br>faith<br>top<br>assume |  
+| bip_39_word_new_br_2 | bronze<br>crack |  
+| bip_39_word_new_br_3 | bronze<br>crack<br>toss |  
+| bip_39_word_new_br_4 | bronze<br>crack<br>toss<br>kidney |  
+| bip_39_word_new_br_5 | bronze<br>crack<br>toss<br>kidney<br>cube |  
+| bip_39_word_new_br_6 | bronze<br>crack<br>toss<br>kidney<br>cube<br>meat |  
+| bip_39_word_new_br_7 | bronze<br>crack<br>toss<br>kidney<br>cube<br>meat<br>enrich |  
+| bip_39_word_new_br_8 | bronze<br>crack<br>toss<br>kidney<br>cube<br>meat<br>enrich<br>extend |  
+| bip_39_word_new_br_9 | bronze<br>crack<br>toss<br>kidney<br>cube<br>meat<br>enrich<br>extend<br>stable |  
+| bip_39_word_new_line_1 | bronze |  
+| bip_39_word_new_line_10 | bronze
 crack
 toss
 kidney
@@ -55,7 +55,7 @@ enrich
 extend
 stable
 faith |  
-| bip_39_word_new_line11 | bronze
+| bip_39_word_new_line_11 | bronze
 crack
 toss
 kidney
@@ -66,7 +66,7 @@ extend
 stable
 faith
 top |  
-| bip_39_word_new_line12 | bronze
+| bip_39_word_new_line_12 | bronze
 crack
 toss
 kidney
@@ -78,34 +78,34 @@ stable
 faith
 top
 assume |  
-| bip_39_word_new_line2 | bronze
+| bip_39_word_new_line_2 | bronze
 crack |  
-| bip_39_word_new_line3 | bronze
+| bip_39_word_new_line_3 | bronze
 crack
 toss |  
-| bip_39_word_new_line4 | bronze
+| bip_39_word_new_line_4 | bronze
 crack
 toss
 kidney |  
-| bip_39_word_new_line5 | bronze
+| bip_39_word_new_line_5 | bronze
 crack
 toss
 kidney
 cube |  
-| bip_39_word_new_line6 | bronze
+| bip_39_word_new_line_6 | bronze
 crack
 toss
 kidney
 cube
 meat |  
-| bip_39_word_new_line7 | bronze
+| bip_39_word_new_line_7 | bronze
 crack
 toss
 kidney
 cube
 meat
 enrich |  
-| bip_39_word_new_line8 | bronze
+| bip_39_word_new_line_8 | bronze
 crack
 toss
 kidney
@@ -113,7 +113,7 @@ cube
 meat
 enrich
 extend |  
-| bip_39_word_new_line9 | bronze
+| bip_39_word_new_line_9 | bronze
 crack
 toss
 kidney

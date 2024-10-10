@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | panel |  
-| bip_39_word_new_br10 | panel<br>debris<br>smart<br>shoot<br>door<br>person<br>cable<br>exclude<br>include<br>run |  
-| bip_39_word_new_br11 | panel<br>debris<br>smart<br>shoot<br>door<br>person<br>cable<br>exclude<br>include<br>run<br>buddy |  
-| bip_39_word_new_br12 | panel<br>debris<br>smart<br>shoot<br>door<br>person<br>cable<br>exclude<br>include<br>run<br>buddy<br>arch |  
-| bip_39_word_new_br2 | panel<br>debris |  
-| bip_39_word_new_br3 | panel<br>debris<br>smart |  
-| bip_39_word_new_br4 | panel<br>debris<br>smart<br>shoot |  
-| bip_39_word_new_br5 | panel<br>debris<br>smart<br>shoot<br>door |  
-| bip_39_word_new_br6 | panel<br>debris<br>smart<br>shoot<br>door<br>person |  
-| bip_39_word_new_br7 | panel<br>debris<br>smart<br>shoot<br>door<br>person<br>cable |  
-| bip_39_word_new_br8 | panel<br>debris<br>smart<br>shoot<br>door<br>person<br>cable<br>exclude |  
-| bip_39_word_new_br9 | panel<br>debris<br>smart<br>shoot<br>door<br>person<br>cable<br>exclude<br>include |  
-| bip_39_word_new_line1 | panel |  
-| bip_39_word_new_line10 | panel
+| bip_39_word_new_br_1 | panel |  
+| bip_39_word_new_br_10 | panel<br>debris<br>smart<br>shoot<br>door<br>person<br>cable<br>exclude<br>include<br>run |  
+| bip_39_word_new_br_11 | panel<br>debris<br>smart<br>shoot<br>door<br>person<br>cable<br>exclude<br>include<br>run<br>buddy |  
+| bip_39_word_new_br_12 | panel<br>debris<br>smart<br>shoot<br>door<br>person<br>cable<br>exclude<br>include<br>run<br>buddy<br>arch |  
+| bip_39_word_new_br_2 | panel<br>debris |  
+| bip_39_word_new_br_3 | panel<br>debris<br>smart |  
+| bip_39_word_new_br_4 | panel<br>debris<br>smart<br>shoot |  
+| bip_39_word_new_br_5 | panel<br>debris<br>smart<br>shoot<br>door |  
+| bip_39_word_new_br_6 | panel<br>debris<br>smart<br>shoot<br>door<br>person |  
+| bip_39_word_new_br_7 | panel<br>debris<br>smart<br>shoot<br>door<br>person<br>cable |  
+| bip_39_word_new_br_8 | panel<br>debris<br>smart<br>shoot<br>door<br>person<br>cable<br>exclude |  
+| bip_39_word_new_br_9 | panel<br>debris<br>smart<br>shoot<br>door<br>person<br>cable<br>exclude<br>include |  
+| bip_39_word_new_line_1 | panel |  
+| bip_39_word_new_line_10 | panel
 debris
 smart
 shoot
@@ -55,7 +55,7 @@ cable
 exclude
 include
 run |  
-| bip_39_word_new_line11 | panel
+| bip_39_word_new_line_11 | panel
 debris
 smart
 shoot
@@ -66,7 +66,7 @@ exclude
 include
 run
 buddy |  
-| bip_39_word_new_line12 | panel
+| bip_39_word_new_line_12 | panel
 debris
 smart
 shoot
@@ -78,34 +78,34 @@ include
 run
 buddy
 arch |  
-| bip_39_word_new_line2 | panel
+| bip_39_word_new_line_2 | panel
 debris |  
-| bip_39_word_new_line3 | panel
+| bip_39_word_new_line_3 | panel
 debris
 smart |  
-| bip_39_word_new_line4 | panel
+| bip_39_word_new_line_4 | panel
 debris
 smart
 shoot |  
-| bip_39_word_new_line5 | panel
+| bip_39_word_new_line_5 | panel
 debris
 smart
 shoot
 door |  
-| bip_39_word_new_line6 | panel
+| bip_39_word_new_line_6 | panel
 debris
 smart
 shoot
 door
 person |  
-| bip_39_word_new_line7 | panel
+| bip_39_word_new_line_7 | panel
 debris
 smart
 shoot
 door
 person
 cable |  
-| bip_39_word_new_line8 | panel
+| bip_39_word_new_line_8 | panel
 debris
 smart
 shoot
@@ -113,7 +113,7 @@ door
 person
 cable
 exclude |  
-| bip_39_word_new_line9 | panel
+| bip_39_word_new_line_9 | panel
 debris
 smart
 shoot

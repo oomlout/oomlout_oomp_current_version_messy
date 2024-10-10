@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | obvious |  
-| bip_39_word_new_br10 | obvious<br>call<br>effort<br>hamster<br>speak<br>toilet<br>road<br>legal<br>battle<br>easily |  
-| bip_39_word_new_br11 | obvious<br>call<br>effort<br>hamster<br>speak<br>toilet<br>road<br>legal<br>battle<br>easily<br>fiction |  
-| bip_39_word_new_br12 | obvious<br>call<br>effort<br>hamster<br>speak<br>toilet<br>road<br>legal<br>battle<br>easily<br>fiction<br>abuse |  
-| bip_39_word_new_br2 | obvious<br>call |  
-| bip_39_word_new_br3 | obvious<br>call<br>effort |  
-| bip_39_word_new_br4 | obvious<br>call<br>effort<br>hamster |  
-| bip_39_word_new_br5 | obvious<br>call<br>effort<br>hamster<br>speak |  
-| bip_39_word_new_br6 | obvious<br>call<br>effort<br>hamster<br>speak<br>toilet |  
-| bip_39_word_new_br7 | obvious<br>call<br>effort<br>hamster<br>speak<br>toilet<br>road |  
-| bip_39_word_new_br8 | obvious<br>call<br>effort<br>hamster<br>speak<br>toilet<br>road<br>legal |  
-| bip_39_word_new_br9 | obvious<br>call<br>effort<br>hamster<br>speak<br>toilet<br>road<br>legal<br>battle |  
-| bip_39_word_new_line1 | obvious |  
-| bip_39_word_new_line10 | obvious
+| bip_39_word_new_br_1 | obvious |  
+| bip_39_word_new_br_10 | obvious<br>call<br>effort<br>hamster<br>speak<br>toilet<br>road<br>legal<br>battle<br>easily |  
+| bip_39_word_new_br_11 | obvious<br>call<br>effort<br>hamster<br>speak<br>toilet<br>road<br>legal<br>battle<br>easily<br>fiction |  
+| bip_39_word_new_br_12 | obvious<br>call<br>effort<br>hamster<br>speak<br>toilet<br>road<br>legal<br>battle<br>easily<br>fiction<br>abuse |  
+| bip_39_word_new_br_2 | obvious<br>call |  
+| bip_39_word_new_br_3 | obvious<br>call<br>effort |  
+| bip_39_word_new_br_4 | obvious<br>call<br>effort<br>hamster |  
+| bip_39_word_new_br_5 | obvious<br>call<br>effort<br>hamster<br>speak |  
+| bip_39_word_new_br_6 | obvious<br>call<br>effort<br>hamster<br>speak<br>toilet |  
+| bip_39_word_new_br_7 | obvious<br>call<br>effort<br>hamster<br>speak<br>toilet<br>road |  
+| bip_39_word_new_br_8 | obvious<br>call<br>effort<br>hamster<br>speak<br>toilet<br>road<br>legal |  
+| bip_39_word_new_br_9 | obvious<br>call<br>effort<br>hamster<br>speak<br>toilet<br>road<br>legal<br>battle |  
+| bip_39_word_new_line_1 | obvious |  
+| bip_39_word_new_line_10 | obvious
 call
 effort
 hamster
@@ -55,7 +55,7 @@ road
 legal
 battle
 easily |  
-| bip_39_word_new_line11 | obvious
+| bip_39_word_new_line_11 | obvious
 call
 effort
 hamster
@@ -66,7 +66,7 @@ legal
 battle
 easily
 fiction |  
-| bip_39_word_new_line12 | obvious
+| bip_39_word_new_line_12 | obvious
 call
 effort
 hamster
@@ -78,34 +78,34 @@ battle
 easily
 fiction
 abuse |  
-| bip_39_word_new_line2 | obvious
+| bip_39_word_new_line_2 | obvious
 call |  
-| bip_39_word_new_line3 | obvious
+| bip_39_word_new_line_3 | obvious
 call
 effort |  
-| bip_39_word_new_line4 | obvious
+| bip_39_word_new_line_4 | obvious
 call
 effort
 hamster |  
-| bip_39_word_new_line5 | obvious
+| bip_39_word_new_line_5 | obvious
 call
 effort
 hamster
 speak |  
-| bip_39_word_new_line6 | obvious
+| bip_39_word_new_line_6 | obvious
 call
 effort
 hamster
 speak
 toilet |  
-| bip_39_word_new_line7 | obvious
+| bip_39_word_new_line_7 | obvious
 call
 effort
 hamster
 speak
 toilet
 road |  
-| bip_39_word_new_line8 | obvious
+| bip_39_word_new_line_8 | obvious
 call
 effort
 hamster
@@ -113,7 +113,7 @@ speak
 toilet
 road
 legal |  
-| bip_39_word_new_line9 | obvious
+| bip_39_word_new_line_9 | obvious
 call
 effort
 hamster

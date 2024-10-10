@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | inform |  
-| bip_39_word_new_br10 | inform<br>mixed<br>effort<br>hole<br>budget<br>mistake<br>slender<br>hamster<br>cradle<br>top |  
-| bip_39_word_new_br11 | inform<br>mixed<br>effort<br>hole<br>budget<br>mistake<br>slender<br>hamster<br>cradle<br>top<br>cigar |  
-| bip_39_word_new_br12 | inform<br>mixed<br>effort<br>hole<br>budget<br>mistake<br>slender<br>hamster<br>cradle<br>top<br>cigar<br>absorb |  
-| bip_39_word_new_br2 | inform<br>mixed |  
-| bip_39_word_new_br3 | inform<br>mixed<br>effort |  
-| bip_39_word_new_br4 | inform<br>mixed<br>effort<br>hole |  
-| bip_39_word_new_br5 | inform<br>mixed<br>effort<br>hole<br>budget |  
-| bip_39_word_new_br6 | inform<br>mixed<br>effort<br>hole<br>budget<br>mistake |  
-| bip_39_word_new_br7 | inform<br>mixed<br>effort<br>hole<br>budget<br>mistake<br>slender |  
-| bip_39_word_new_br8 | inform<br>mixed<br>effort<br>hole<br>budget<br>mistake<br>slender<br>hamster |  
-| bip_39_word_new_br9 | inform<br>mixed<br>effort<br>hole<br>budget<br>mistake<br>slender<br>hamster<br>cradle |  
-| bip_39_word_new_line1 | inform |  
-| bip_39_word_new_line10 | inform
+| bip_39_word_new_br_1 | inform |  
+| bip_39_word_new_br_10 | inform<br>mixed<br>effort<br>hole<br>budget<br>mistake<br>slender<br>hamster<br>cradle<br>top |  
+| bip_39_word_new_br_11 | inform<br>mixed<br>effort<br>hole<br>budget<br>mistake<br>slender<br>hamster<br>cradle<br>top<br>cigar |  
+| bip_39_word_new_br_12 | inform<br>mixed<br>effort<br>hole<br>budget<br>mistake<br>slender<br>hamster<br>cradle<br>top<br>cigar<br>absorb |  
+| bip_39_word_new_br_2 | inform<br>mixed |  
+| bip_39_word_new_br_3 | inform<br>mixed<br>effort |  
+| bip_39_word_new_br_4 | inform<br>mixed<br>effort<br>hole |  
+| bip_39_word_new_br_5 | inform<br>mixed<br>effort<br>hole<br>budget |  
+| bip_39_word_new_br_6 | inform<br>mixed<br>effort<br>hole<br>budget<br>mistake |  
+| bip_39_word_new_br_7 | inform<br>mixed<br>effort<br>hole<br>budget<br>mistake<br>slender |  
+| bip_39_word_new_br_8 | inform<br>mixed<br>effort<br>hole<br>budget<br>mistake<br>slender<br>hamster |  
+| bip_39_word_new_br_9 | inform<br>mixed<br>effort<br>hole<br>budget<br>mistake<br>slender<br>hamster<br>cradle |  
+| bip_39_word_new_line_1 | inform |  
+| bip_39_word_new_line_10 | inform
 mixed
 effort
 hole
@@ -55,7 +55,7 @@ slender
 hamster
 cradle
 top |  
-| bip_39_word_new_line11 | inform
+| bip_39_word_new_line_11 | inform
 mixed
 effort
 hole
@@ -66,7 +66,7 @@ hamster
 cradle
 top
 cigar |  
-| bip_39_word_new_line12 | inform
+| bip_39_word_new_line_12 | inform
 mixed
 effort
 hole
@@ -78,34 +78,34 @@ cradle
 top
 cigar
 absorb |  
-| bip_39_word_new_line2 | inform
+| bip_39_word_new_line_2 | inform
 mixed |  
-| bip_39_word_new_line3 | inform
+| bip_39_word_new_line_3 | inform
 mixed
 effort |  
-| bip_39_word_new_line4 | inform
+| bip_39_word_new_line_4 | inform
 mixed
 effort
 hole |  
-| bip_39_word_new_line5 | inform
+| bip_39_word_new_line_5 | inform
 mixed
 effort
 hole
 budget |  
-| bip_39_word_new_line6 | inform
+| bip_39_word_new_line_6 | inform
 mixed
 effort
 hole
 budget
 mistake |  
-| bip_39_word_new_line7 | inform
+| bip_39_word_new_line_7 | inform
 mixed
 effort
 hole
 budget
 mistake
 slender |  
-| bip_39_word_new_line8 | inform
+| bip_39_word_new_line_8 | inform
 mixed
 effort
 hole
@@ -113,7 +113,7 @@ budget
 mistake
 slender
 hamster |  
-| bip_39_word_new_line9 | inform
+| bip_39_word_new_line_9 | inform
 mixed
 effort
 hole

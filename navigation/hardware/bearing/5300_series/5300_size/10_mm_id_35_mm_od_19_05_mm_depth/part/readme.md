@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pear |  
-| bip_39_word_new_br10 | pear<br>charge<br>frame<br>neglect<br>shoot<br>exile<br>misery<br>cute<br>hover<br>goat |  
-| bip_39_word_new_br11 | pear<br>charge<br>frame<br>neglect<br>shoot<br>exile<br>misery<br>cute<br>hover<br>goat<br>staff |  
-| bip_39_word_new_br12 | pear<br>charge<br>frame<br>neglect<br>shoot<br>exile<br>misery<br>cute<br>hover<br>goat<br>staff<br>attract |  
-| bip_39_word_new_br2 | pear<br>charge |  
-| bip_39_word_new_br3 | pear<br>charge<br>frame |  
-| bip_39_word_new_br4 | pear<br>charge<br>frame<br>neglect |  
-| bip_39_word_new_br5 | pear<br>charge<br>frame<br>neglect<br>shoot |  
-| bip_39_word_new_br6 | pear<br>charge<br>frame<br>neglect<br>shoot<br>exile |  
-| bip_39_word_new_br7 | pear<br>charge<br>frame<br>neglect<br>shoot<br>exile<br>misery |  
-| bip_39_word_new_br8 | pear<br>charge<br>frame<br>neglect<br>shoot<br>exile<br>misery<br>cute |  
-| bip_39_word_new_br9 | pear<br>charge<br>frame<br>neglect<br>shoot<br>exile<br>misery<br>cute<br>hover |  
-| bip_39_word_new_line1 | pear |  
-| bip_39_word_new_line10 | pear
+| bip_39_word_new_br_1 | pear |  
+| bip_39_word_new_br_10 | pear<br>charge<br>frame<br>neglect<br>shoot<br>exile<br>misery<br>cute<br>hover<br>goat |  
+| bip_39_word_new_br_11 | pear<br>charge<br>frame<br>neglect<br>shoot<br>exile<br>misery<br>cute<br>hover<br>goat<br>staff |  
+| bip_39_word_new_br_12 | pear<br>charge<br>frame<br>neglect<br>shoot<br>exile<br>misery<br>cute<br>hover<br>goat<br>staff<br>attract |  
+| bip_39_word_new_br_2 | pear<br>charge |  
+| bip_39_word_new_br_3 | pear<br>charge<br>frame |  
+| bip_39_word_new_br_4 | pear<br>charge<br>frame<br>neglect |  
+| bip_39_word_new_br_5 | pear<br>charge<br>frame<br>neglect<br>shoot |  
+| bip_39_word_new_br_6 | pear<br>charge<br>frame<br>neglect<br>shoot<br>exile |  
+| bip_39_word_new_br_7 | pear<br>charge<br>frame<br>neglect<br>shoot<br>exile<br>misery |  
+| bip_39_word_new_br_8 | pear<br>charge<br>frame<br>neglect<br>shoot<br>exile<br>misery<br>cute |  
+| bip_39_word_new_br_9 | pear<br>charge<br>frame<br>neglect<br>shoot<br>exile<br>misery<br>cute<br>hover |  
+| bip_39_word_new_line_1 | pear |  
+| bip_39_word_new_line_10 | pear
 charge
 frame
 neglect
@@ -55,7 +55,7 @@ misery
 cute
 hover
 goat |  
-| bip_39_word_new_line11 | pear
+| bip_39_word_new_line_11 | pear
 charge
 frame
 neglect
@@ -66,7 +66,7 @@ cute
 hover
 goat
 staff |  
-| bip_39_word_new_line12 | pear
+| bip_39_word_new_line_12 | pear
 charge
 frame
 neglect
@@ -78,34 +78,34 @@ hover
 goat
 staff
 attract |  
-| bip_39_word_new_line2 | pear
+| bip_39_word_new_line_2 | pear
 charge |  
-| bip_39_word_new_line3 | pear
+| bip_39_word_new_line_3 | pear
 charge
 frame |  
-| bip_39_word_new_line4 | pear
+| bip_39_word_new_line_4 | pear
 charge
 frame
 neglect |  
-| bip_39_word_new_line5 | pear
+| bip_39_word_new_line_5 | pear
 charge
 frame
 neglect
 shoot |  
-| bip_39_word_new_line6 | pear
+| bip_39_word_new_line_6 | pear
 charge
 frame
 neglect
 shoot
 exile |  
-| bip_39_word_new_line7 | pear
+| bip_39_word_new_line_7 | pear
 charge
 frame
 neglect
 shoot
 exile
 misery |  
-| bip_39_word_new_line8 | pear
+| bip_39_word_new_line_8 | pear
 charge
 frame
 neglect
@@ -113,7 +113,7 @@ shoot
 exile
 misery
 cute |  
-| bip_39_word_new_line9 | pear
+| bip_39_word_new_line_9 | pear
 charge
 frame
 neglect

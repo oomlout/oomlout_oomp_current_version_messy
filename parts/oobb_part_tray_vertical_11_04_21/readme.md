@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sad |  
-| bip_39_word_new_br10 | sad<br>rail<br>argue<br>head<br>spray<br>poverty<br>butter<br>veteran<br>lucky<br>harsh |  
-| bip_39_word_new_br11 | sad<br>rail<br>argue<br>head<br>spray<br>poverty<br>butter<br>veteran<br>lucky<br>harsh<br>comfort |  
-| bip_39_word_new_br12 | sad<br>rail<br>argue<br>head<br>spray<br>poverty<br>butter<br>veteran<br>lucky<br>harsh<br>comfort<br>air |  
-| bip_39_word_new_br2 | sad<br>rail |  
-| bip_39_word_new_br3 | sad<br>rail<br>argue |  
-| bip_39_word_new_br4 | sad<br>rail<br>argue<br>head |  
-| bip_39_word_new_br5 | sad<br>rail<br>argue<br>head<br>spray |  
-| bip_39_word_new_br6 | sad<br>rail<br>argue<br>head<br>spray<br>poverty |  
-| bip_39_word_new_br7 | sad<br>rail<br>argue<br>head<br>spray<br>poverty<br>butter |  
-| bip_39_word_new_br8 | sad<br>rail<br>argue<br>head<br>spray<br>poverty<br>butter<br>veteran |  
-| bip_39_word_new_br9 | sad<br>rail<br>argue<br>head<br>spray<br>poverty<br>butter<br>veteran<br>lucky |  
-| bip_39_word_new_line1 | sad |  
-| bip_39_word_new_line10 | sad
+| bip_39_word_new_br_1 | sad |  
+| bip_39_word_new_br_10 | sad<br>rail<br>argue<br>head<br>spray<br>poverty<br>butter<br>veteran<br>lucky<br>harsh |  
+| bip_39_word_new_br_11 | sad<br>rail<br>argue<br>head<br>spray<br>poverty<br>butter<br>veteran<br>lucky<br>harsh<br>comfort |  
+| bip_39_word_new_br_12 | sad<br>rail<br>argue<br>head<br>spray<br>poverty<br>butter<br>veteran<br>lucky<br>harsh<br>comfort<br>air |  
+| bip_39_word_new_br_2 | sad<br>rail |  
+| bip_39_word_new_br_3 | sad<br>rail<br>argue |  
+| bip_39_word_new_br_4 | sad<br>rail<br>argue<br>head |  
+| bip_39_word_new_br_5 | sad<br>rail<br>argue<br>head<br>spray |  
+| bip_39_word_new_br_6 | sad<br>rail<br>argue<br>head<br>spray<br>poverty |  
+| bip_39_word_new_br_7 | sad<br>rail<br>argue<br>head<br>spray<br>poverty<br>butter |  
+| bip_39_word_new_br_8 | sad<br>rail<br>argue<br>head<br>spray<br>poverty<br>butter<br>veteran |  
+| bip_39_word_new_br_9 | sad<br>rail<br>argue<br>head<br>spray<br>poverty<br>butter<br>veteran<br>lucky |  
+| bip_39_word_new_line_1 | sad |  
+| bip_39_word_new_line_10 | sad
 rail
 argue
 head
@@ -55,7 +55,7 @@ butter
 veteran
 lucky
 harsh |  
-| bip_39_word_new_line11 | sad
+| bip_39_word_new_line_11 | sad
 rail
 argue
 head
@@ -66,7 +66,7 @@ veteran
 lucky
 harsh
 comfort |  
-| bip_39_word_new_line12 | sad
+| bip_39_word_new_line_12 | sad
 rail
 argue
 head
@@ -78,34 +78,34 @@ lucky
 harsh
 comfort
 air |  
-| bip_39_word_new_line2 | sad
+| bip_39_word_new_line_2 | sad
 rail |  
-| bip_39_word_new_line3 | sad
+| bip_39_word_new_line_3 | sad
 rail
 argue |  
-| bip_39_word_new_line4 | sad
+| bip_39_word_new_line_4 | sad
 rail
 argue
 head |  
-| bip_39_word_new_line5 | sad
+| bip_39_word_new_line_5 | sad
 rail
 argue
 head
 spray |  
-| bip_39_word_new_line6 | sad
+| bip_39_word_new_line_6 | sad
 rail
 argue
 head
 spray
 poverty |  
-| bip_39_word_new_line7 | sad
+| bip_39_word_new_line_7 | sad
 rail
 argue
 head
 spray
 poverty
 butter |  
-| bip_39_word_new_line8 | sad
+| bip_39_word_new_line_8 | sad
 rail
 argue
 head
@@ -113,7 +113,7 @@ spray
 poverty
 butter
 veteran |  
-| bip_39_word_new_line9 | sad
+| bip_39_word_new_line_9 | sad
 rail
 argue
 head

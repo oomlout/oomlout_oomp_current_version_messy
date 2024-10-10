@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bubble |  
-| bip_39_word_new_br10 | bubble<br>act<br>famous<br>hamster<br>net<br>tackle<br>order<br>glare<br>private<br>evoke |  
-| bip_39_word_new_br11 | bubble<br>act<br>famous<br>hamster<br>net<br>tackle<br>order<br>glare<br>private<br>evoke<br>theme |  
-| bip_39_word_new_br12 | bubble<br>act<br>famous<br>hamster<br>net<br>tackle<br>order<br>glare<br>private<br>evoke<br>theme<br>apart |  
-| bip_39_word_new_br2 | bubble<br>act |  
-| bip_39_word_new_br3 | bubble<br>act<br>famous |  
-| bip_39_word_new_br4 | bubble<br>act<br>famous<br>hamster |  
-| bip_39_word_new_br5 | bubble<br>act<br>famous<br>hamster<br>net |  
-| bip_39_word_new_br6 | bubble<br>act<br>famous<br>hamster<br>net<br>tackle |  
-| bip_39_word_new_br7 | bubble<br>act<br>famous<br>hamster<br>net<br>tackle<br>order |  
-| bip_39_word_new_br8 | bubble<br>act<br>famous<br>hamster<br>net<br>tackle<br>order<br>glare |  
-| bip_39_word_new_br9 | bubble<br>act<br>famous<br>hamster<br>net<br>tackle<br>order<br>glare<br>private |  
-| bip_39_word_new_line1 | bubble |  
-| bip_39_word_new_line10 | bubble
+| bip_39_word_new_br_1 | bubble |  
+| bip_39_word_new_br_10 | bubble<br>act<br>famous<br>hamster<br>net<br>tackle<br>order<br>glare<br>private<br>evoke |  
+| bip_39_word_new_br_11 | bubble<br>act<br>famous<br>hamster<br>net<br>tackle<br>order<br>glare<br>private<br>evoke<br>theme |  
+| bip_39_word_new_br_12 | bubble<br>act<br>famous<br>hamster<br>net<br>tackle<br>order<br>glare<br>private<br>evoke<br>theme<br>apart |  
+| bip_39_word_new_br_2 | bubble<br>act |  
+| bip_39_word_new_br_3 | bubble<br>act<br>famous |  
+| bip_39_word_new_br_4 | bubble<br>act<br>famous<br>hamster |  
+| bip_39_word_new_br_5 | bubble<br>act<br>famous<br>hamster<br>net |  
+| bip_39_word_new_br_6 | bubble<br>act<br>famous<br>hamster<br>net<br>tackle |  
+| bip_39_word_new_br_7 | bubble<br>act<br>famous<br>hamster<br>net<br>tackle<br>order |  
+| bip_39_word_new_br_8 | bubble<br>act<br>famous<br>hamster<br>net<br>tackle<br>order<br>glare |  
+| bip_39_word_new_br_9 | bubble<br>act<br>famous<br>hamster<br>net<br>tackle<br>order<br>glare<br>private |  
+| bip_39_word_new_line_1 | bubble |  
+| bip_39_word_new_line_10 | bubble
 act
 famous
 hamster
@@ -55,7 +55,7 @@ order
 glare
 private
 evoke |  
-| bip_39_word_new_line11 | bubble
+| bip_39_word_new_line_11 | bubble
 act
 famous
 hamster
@@ -66,7 +66,7 @@ glare
 private
 evoke
 theme |  
-| bip_39_word_new_line12 | bubble
+| bip_39_word_new_line_12 | bubble
 act
 famous
 hamster
@@ -78,34 +78,34 @@ private
 evoke
 theme
 apart |  
-| bip_39_word_new_line2 | bubble
+| bip_39_word_new_line_2 | bubble
 act |  
-| bip_39_word_new_line3 | bubble
+| bip_39_word_new_line_3 | bubble
 act
 famous |  
-| bip_39_word_new_line4 | bubble
+| bip_39_word_new_line_4 | bubble
 act
 famous
 hamster |  
-| bip_39_word_new_line5 | bubble
+| bip_39_word_new_line_5 | bubble
 act
 famous
 hamster
 net |  
-| bip_39_word_new_line6 | bubble
+| bip_39_word_new_line_6 | bubble
 act
 famous
 hamster
 net
 tackle |  
-| bip_39_word_new_line7 | bubble
+| bip_39_word_new_line_7 | bubble
 act
 famous
 hamster
 net
 tackle
 order |  
-| bip_39_word_new_line8 | bubble
+| bip_39_word_new_line_8 | bubble
 act
 famous
 hamster
@@ -113,7 +113,7 @@ net
 tackle
 order
 glare |  
-| bip_39_word_new_line9 | bubble
+| bip_39_word_new_line_9 | bubble
 act
 famous
 hamster

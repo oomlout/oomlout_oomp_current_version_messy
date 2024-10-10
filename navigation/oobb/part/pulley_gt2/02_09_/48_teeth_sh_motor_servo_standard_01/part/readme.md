@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ship |  
-| bip_39_word_new_br10 | ship<br>slush<br>gadget<br>time<br>wink<br>upgrade<br>nurse<br>near<br>exit<br>couch |  
-| bip_39_word_new_br11 | ship<br>slush<br>gadget<br>time<br>wink<br>upgrade<br>nurse<br>near<br>exit<br>couch<br>vast |  
-| bip_39_word_new_br2 | ship<br>slush |  
-| bip_39_word_new_br3 | ship<br>slush<br>gadget |  
-| bip_39_word_new_br4 | ship<br>slush<br>gadget<br>time |  
-| bip_39_word_new_br5 | ship<br>slush<br>gadget<br>time<br>wink |  
-| bip_39_word_new_br6 | ship<br>slush<br>gadget<br>time<br>wink<br>upgrade |  
-| bip_39_word_new_br7 | ship<br>slush<br>gadget<br>time<br>wink<br>upgrade<br>nurse |  
-| bip_39_word_new_br8 | ship<br>slush<br>gadget<br>time<br>wink<br>upgrade<br>nurse<br>near |  
-| bip_39_word_new_br9 | ship<br>slush<br>gadget<br>time<br>wink<br>upgrade<br>nurse<br>near<br>exit |  
-| bip_39_word_new_line1 | ship |  
-| bip_39_word_new_line10 | ship
+| bip_39_word_new_br_1 | ship |  
+| bip_39_word_new_br_10 | ship<br>slush<br>gadget<br>time<br>wink<br>upgrade<br>nurse<br>near<br>exit<br>couch |  
+| bip_39_word_new_br_11 | ship<br>slush<br>gadget<br>time<br>wink<br>upgrade<br>nurse<br>near<br>exit<br>couch<br>vast |  
+| bip_39_word_new_br_2 | ship<br>slush |  
+| bip_39_word_new_br_3 | ship<br>slush<br>gadget |  
+| bip_39_word_new_br_4 | ship<br>slush<br>gadget<br>time |  
+| bip_39_word_new_br_5 | ship<br>slush<br>gadget<br>time<br>wink |  
+| bip_39_word_new_br_6 | ship<br>slush<br>gadget<br>time<br>wink<br>upgrade |  
+| bip_39_word_new_br_7 | ship<br>slush<br>gadget<br>time<br>wink<br>upgrade<br>nurse |  
+| bip_39_word_new_br_8 | ship<br>slush<br>gadget<br>time<br>wink<br>upgrade<br>nurse<br>near |  
+| bip_39_word_new_br_9 | ship<br>slush<br>gadget<br>time<br>wink<br>upgrade<br>nurse<br>near<br>exit |  
+| bip_39_word_new_line_1 | ship |  
+| bip_39_word_new_line_10 | ship
 slush
 gadget
 time
@@ -54,7 +54,7 @@ nurse
 near
 exit
 couch |  
-| bip_39_word_new_line11 | ship
+| bip_39_word_new_line_11 | ship
 slush
 gadget
 time
@@ -65,34 +65,34 @@ near
 exit
 couch
 vast |  
-| bip_39_word_new_line2 | ship
+| bip_39_word_new_line_2 | ship
 slush |  
-| bip_39_word_new_line3 | ship
+| bip_39_word_new_line_3 | ship
 slush
 gadget |  
-| bip_39_word_new_line4 | ship
+| bip_39_word_new_line_4 | ship
 slush
 gadget
 time |  
-| bip_39_word_new_line5 | ship
+| bip_39_word_new_line_5 | ship
 slush
 gadget
 time
 wink |  
-| bip_39_word_new_line6 | ship
+| bip_39_word_new_line_6 | ship
 slush
 gadget
 time
 wink
 upgrade |  
-| bip_39_word_new_line7 | ship
+| bip_39_word_new_line_7 | ship
 slush
 gadget
 time
 wink
 upgrade
 nurse |  
-| bip_39_word_new_line8 | ship
+| bip_39_word_new_line_8 | ship
 slush
 gadget
 time
@@ -100,7 +100,7 @@ wink
 upgrade
 nurse
 near |  
-| bip_39_word_new_line9 | ship
+| bip_39_word_new_line_9 | ship
 slush
 gadget
 time

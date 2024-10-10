@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | resemble |  
-| bip_39_word_new_br10 | resemble<br>drip<br>maid<br>buzz<br>motor<br>level<br>junk<br>orbit<br>win<br>bone |  
-| bip_39_word_new_br11 | resemble<br>drip<br>maid<br>buzz<br>motor<br>level<br>junk<br>orbit<br>win<br>bone<br>box |  
-| bip_39_word_new_br12 | resemble<br>drip<br>maid<br>buzz<br>motor<br>level<br>junk<br>orbit<br>win<br>bone<br>box<br>absent |  
-| bip_39_word_new_br2 | resemble<br>drip |  
-| bip_39_word_new_br3 | resemble<br>drip<br>maid |  
-| bip_39_word_new_br4 | resemble<br>drip<br>maid<br>buzz |  
-| bip_39_word_new_br5 | resemble<br>drip<br>maid<br>buzz<br>motor |  
-| bip_39_word_new_br6 | resemble<br>drip<br>maid<br>buzz<br>motor<br>level |  
-| bip_39_word_new_br7 | resemble<br>drip<br>maid<br>buzz<br>motor<br>level<br>junk |  
-| bip_39_word_new_br8 | resemble<br>drip<br>maid<br>buzz<br>motor<br>level<br>junk<br>orbit |  
-| bip_39_word_new_br9 | resemble<br>drip<br>maid<br>buzz<br>motor<br>level<br>junk<br>orbit<br>win |  
-| bip_39_word_new_line1 | resemble |  
-| bip_39_word_new_line10 | resemble
+| bip_39_word_new_br_1 | resemble |  
+| bip_39_word_new_br_10 | resemble<br>drip<br>maid<br>buzz<br>motor<br>level<br>junk<br>orbit<br>win<br>bone |  
+| bip_39_word_new_br_11 | resemble<br>drip<br>maid<br>buzz<br>motor<br>level<br>junk<br>orbit<br>win<br>bone<br>box |  
+| bip_39_word_new_br_12 | resemble<br>drip<br>maid<br>buzz<br>motor<br>level<br>junk<br>orbit<br>win<br>bone<br>box<br>absent |  
+| bip_39_word_new_br_2 | resemble<br>drip |  
+| bip_39_word_new_br_3 | resemble<br>drip<br>maid |  
+| bip_39_word_new_br_4 | resemble<br>drip<br>maid<br>buzz |  
+| bip_39_word_new_br_5 | resemble<br>drip<br>maid<br>buzz<br>motor |  
+| bip_39_word_new_br_6 | resemble<br>drip<br>maid<br>buzz<br>motor<br>level |  
+| bip_39_word_new_br_7 | resemble<br>drip<br>maid<br>buzz<br>motor<br>level<br>junk |  
+| bip_39_word_new_br_8 | resemble<br>drip<br>maid<br>buzz<br>motor<br>level<br>junk<br>orbit |  
+| bip_39_word_new_br_9 | resemble<br>drip<br>maid<br>buzz<br>motor<br>level<br>junk<br>orbit<br>win |  
+| bip_39_word_new_line_1 | resemble |  
+| bip_39_word_new_line_10 | resemble
 drip
 maid
 buzz
@@ -55,7 +55,7 @@ junk
 orbit
 win
 bone |  
-| bip_39_word_new_line11 | resemble
+| bip_39_word_new_line_11 | resemble
 drip
 maid
 buzz
@@ -66,7 +66,7 @@ orbit
 win
 bone
 box |  
-| bip_39_word_new_line12 | resemble
+| bip_39_word_new_line_12 | resemble
 drip
 maid
 buzz
@@ -78,34 +78,34 @@ win
 bone
 box
 absent |  
-| bip_39_word_new_line2 | resemble
+| bip_39_word_new_line_2 | resemble
 drip |  
-| bip_39_word_new_line3 | resemble
+| bip_39_word_new_line_3 | resemble
 drip
 maid |  
-| bip_39_word_new_line4 | resemble
+| bip_39_word_new_line_4 | resemble
 drip
 maid
 buzz |  
-| bip_39_word_new_line5 | resemble
+| bip_39_word_new_line_5 | resemble
 drip
 maid
 buzz
 motor |  
-| bip_39_word_new_line6 | resemble
+| bip_39_word_new_line_6 | resemble
 drip
 maid
 buzz
 motor
 level |  
-| bip_39_word_new_line7 | resemble
+| bip_39_word_new_line_7 | resemble
 drip
 maid
 buzz
 motor
 level
 junk |  
-| bip_39_word_new_line8 | resemble
+| bip_39_word_new_line_8 | resemble
 drip
 maid
 buzz
@@ -113,7 +113,7 @@ motor
 level
 junk
 orbit |  
-| bip_39_word_new_line9 | resemble
+| bip_39_word_new_line_9 | resemble
 drip
 maid
 buzz

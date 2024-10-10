@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | spring |  
-| bip_39_word_new_br10 | spring<br>stool<br>slice<br>brother<br>hand<br>churn<br>cattle<br>glare<br>jelly<br>stamp |  
-| bip_39_word_new_br11 | spring<br>stool<br>slice<br>brother<br>hand<br>churn<br>cattle<br>glare<br>jelly<br>stamp<br>mammal |  
-| bip_39_word_new_br12 | spring<br>stool<br>slice<br>brother<br>hand<br>churn<br>cattle<br>glare<br>jelly<br>stamp<br>mammal<br>airport |  
-| bip_39_word_new_br2 | spring<br>stool |  
-| bip_39_word_new_br3 | spring<br>stool<br>slice |  
-| bip_39_word_new_br4 | spring<br>stool<br>slice<br>brother |  
-| bip_39_word_new_br5 | spring<br>stool<br>slice<br>brother<br>hand |  
-| bip_39_word_new_br6 | spring<br>stool<br>slice<br>brother<br>hand<br>churn |  
-| bip_39_word_new_br7 | spring<br>stool<br>slice<br>brother<br>hand<br>churn<br>cattle |  
-| bip_39_word_new_br8 | spring<br>stool<br>slice<br>brother<br>hand<br>churn<br>cattle<br>glare |  
-| bip_39_word_new_br9 | spring<br>stool<br>slice<br>brother<br>hand<br>churn<br>cattle<br>glare<br>jelly |  
-| bip_39_word_new_line1 | spring |  
-| bip_39_word_new_line10 | spring
+| bip_39_word_new_br_1 | spring |  
+| bip_39_word_new_br_10 | spring<br>stool<br>slice<br>brother<br>hand<br>churn<br>cattle<br>glare<br>jelly<br>stamp |  
+| bip_39_word_new_br_11 | spring<br>stool<br>slice<br>brother<br>hand<br>churn<br>cattle<br>glare<br>jelly<br>stamp<br>mammal |  
+| bip_39_word_new_br_12 | spring<br>stool<br>slice<br>brother<br>hand<br>churn<br>cattle<br>glare<br>jelly<br>stamp<br>mammal<br>airport |  
+| bip_39_word_new_br_2 | spring<br>stool |  
+| bip_39_word_new_br_3 | spring<br>stool<br>slice |  
+| bip_39_word_new_br_4 | spring<br>stool<br>slice<br>brother |  
+| bip_39_word_new_br_5 | spring<br>stool<br>slice<br>brother<br>hand |  
+| bip_39_word_new_br_6 | spring<br>stool<br>slice<br>brother<br>hand<br>churn |  
+| bip_39_word_new_br_7 | spring<br>stool<br>slice<br>brother<br>hand<br>churn<br>cattle |  
+| bip_39_word_new_br_8 | spring<br>stool<br>slice<br>brother<br>hand<br>churn<br>cattle<br>glare |  
+| bip_39_word_new_br_9 | spring<br>stool<br>slice<br>brother<br>hand<br>churn<br>cattle<br>glare<br>jelly |  
+| bip_39_word_new_line_1 | spring |  
+| bip_39_word_new_line_10 | spring
 stool
 slice
 brother
@@ -55,7 +55,7 @@ cattle
 glare
 jelly
 stamp |  
-| bip_39_word_new_line11 | spring
+| bip_39_word_new_line_11 | spring
 stool
 slice
 brother
@@ -66,7 +66,7 @@ glare
 jelly
 stamp
 mammal |  
-| bip_39_word_new_line12 | spring
+| bip_39_word_new_line_12 | spring
 stool
 slice
 brother
@@ -78,34 +78,34 @@ jelly
 stamp
 mammal
 airport |  
-| bip_39_word_new_line2 | spring
+| bip_39_word_new_line_2 | spring
 stool |  
-| bip_39_word_new_line3 | spring
+| bip_39_word_new_line_3 | spring
 stool
 slice |  
-| bip_39_word_new_line4 | spring
+| bip_39_word_new_line_4 | spring
 stool
 slice
 brother |  
-| bip_39_word_new_line5 | spring
+| bip_39_word_new_line_5 | spring
 stool
 slice
 brother
 hand |  
-| bip_39_word_new_line6 | spring
+| bip_39_word_new_line_6 | spring
 stool
 slice
 brother
 hand
 churn |  
-| bip_39_word_new_line7 | spring
+| bip_39_word_new_line_7 | spring
 stool
 slice
 brother
 hand
 churn
 cattle |  
-| bip_39_word_new_line8 | spring
+| bip_39_word_new_line_8 | spring
 stool
 slice
 brother
@@ -113,7 +113,7 @@ hand
 churn
 cattle
 glare |  
-| bip_39_word_new_line9 | spring
+| bip_39_word_new_line_9 | spring
 stool
 slice
 brother

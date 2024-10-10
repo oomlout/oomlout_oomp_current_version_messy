@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | doll |  
-| bip_39_word_new_br10 | doll<br>section<br>mad<br>lunar<br>forget<br>raw<br>film<br>mixed<br>lonely<br>wrong |  
-| bip_39_word_new_br11 | doll<br>section<br>mad<br>lunar<br>forget<br>raw<br>film<br>mixed<br>lonely<br>wrong<br>topic |  
-| bip_39_word_new_br12 | doll<br>section<br>mad<br>lunar<br>forget<br>raw<br>film<br>mixed<br>lonely<br>wrong<br>topic<br>arrest |  
-| bip_39_word_new_br2 | doll<br>section |  
-| bip_39_word_new_br3 | doll<br>section<br>mad |  
-| bip_39_word_new_br4 | doll<br>section<br>mad<br>lunar |  
-| bip_39_word_new_br5 | doll<br>section<br>mad<br>lunar<br>forget |  
-| bip_39_word_new_br6 | doll<br>section<br>mad<br>lunar<br>forget<br>raw |  
-| bip_39_word_new_br7 | doll<br>section<br>mad<br>lunar<br>forget<br>raw<br>film |  
-| bip_39_word_new_br8 | doll<br>section<br>mad<br>lunar<br>forget<br>raw<br>film<br>mixed |  
-| bip_39_word_new_br9 | doll<br>section<br>mad<br>lunar<br>forget<br>raw<br>film<br>mixed<br>lonely |  
-| bip_39_word_new_line1 | doll |  
-| bip_39_word_new_line10 | doll
+| bip_39_word_new_br_1 | doll |  
+| bip_39_word_new_br_10 | doll<br>section<br>mad<br>lunar<br>forget<br>raw<br>film<br>mixed<br>lonely<br>wrong |  
+| bip_39_word_new_br_11 | doll<br>section<br>mad<br>lunar<br>forget<br>raw<br>film<br>mixed<br>lonely<br>wrong<br>topic |  
+| bip_39_word_new_br_12 | doll<br>section<br>mad<br>lunar<br>forget<br>raw<br>film<br>mixed<br>lonely<br>wrong<br>topic<br>arrest |  
+| bip_39_word_new_br_2 | doll<br>section |  
+| bip_39_word_new_br_3 | doll<br>section<br>mad |  
+| bip_39_word_new_br_4 | doll<br>section<br>mad<br>lunar |  
+| bip_39_word_new_br_5 | doll<br>section<br>mad<br>lunar<br>forget |  
+| bip_39_word_new_br_6 | doll<br>section<br>mad<br>lunar<br>forget<br>raw |  
+| bip_39_word_new_br_7 | doll<br>section<br>mad<br>lunar<br>forget<br>raw<br>film |  
+| bip_39_word_new_br_8 | doll<br>section<br>mad<br>lunar<br>forget<br>raw<br>film<br>mixed |  
+| bip_39_word_new_br_9 | doll<br>section<br>mad<br>lunar<br>forget<br>raw<br>film<br>mixed<br>lonely |  
+| bip_39_word_new_line_1 | doll |  
+| bip_39_word_new_line_10 | doll
 section
 mad
 lunar
@@ -55,7 +55,7 @@ film
 mixed
 lonely
 wrong |  
-| bip_39_word_new_line11 | doll
+| bip_39_word_new_line_11 | doll
 section
 mad
 lunar
@@ -66,7 +66,7 @@ mixed
 lonely
 wrong
 topic |  
-| bip_39_word_new_line12 | doll
+| bip_39_word_new_line_12 | doll
 section
 mad
 lunar
@@ -78,34 +78,34 @@ lonely
 wrong
 topic
 arrest |  
-| bip_39_word_new_line2 | doll
+| bip_39_word_new_line_2 | doll
 section |  
-| bip_39_word_new_line3 | doll
+| bip_39_word_new_line_3 | doll
 section
 mad |  
-| bip_39_word_new_line4 | doll
+| bip_39_word_new_line_4 | doll
 section
 mad
 lunar |  
-| bip_39_word_new_line5 | doll
+| bip_39_word_new_line_5 | doll
 section
 mad
 lunar
 forget |  
-| bip_39_word_new_line6 | doll
+| bip_39_word_new_line_6 | doll
 section
 mad
 lunar
 forget
 raw |  
-| bip_39_word_new_line7 | doll
+| bip_39_word_new_line_7 | doll
 section
 mad
 lunar
 forget
 raw
 film |  
-| bip_39_word_new_line8 | doll
+| bip_39_word_new_line_8 | doll
 section
 mad
 lunar
@@ -113,7 +113,7 @@ forget
 raw
 film
 mixed |  
-| bip_39_word_new_line9 | doll
+| bip_39_word_new_line_9 | doll
 section
 mad
 lunar

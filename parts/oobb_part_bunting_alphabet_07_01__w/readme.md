@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | shiver |  
-| bip_39_word_new_br10 | shiver<br>wreck<br>rib<br>make<br>april<br>marriage<br>control<br>achieve<br>slide<br>address |  
-| bip_39_word_new_br11 | shiver<br>wreck<br>rib<br>make<br>april<br>marriage<br>control<br>achieve<br>slide<br>address<br>slogan |  
-| bip_39_word_new_br12 | shiver<br>wreck<br>rib<br>make<br>april<br>marriage<br>control<br>achieve<br>slide<br>address<br>slogan<br>around |  
-| bip_39_word_new_br2 | shiver<br>wreck |  
-| bip_39_word_new_br3 | shiver<br>wreck<br>rib |  
-| bip_39_word_new_br4 | shiver<br>wreck<br>rib<br>make |  
-| bip_39_word_new_br5 | shiver<br>wreck<br>rib<br>make<br>april |  
-| bip_39_word_new_br6 | shiver<br>wreck<br>rib<br>make<br>april<br>marriage |  
-| bip_39_word_new_br7 | shiver<br>wreck<br>rib<br>make<br>april<br>marriage<br>control |  
-| bip_39_word_new_br8 | shiver<br>wreck<br>rib<br>make<br>april<br>marriage<br>control<br>achieve |  
-| bip_39_word_new_br9 | shiver<br>wreck<br>rib<br>make<br>april<br>marriage<br>control<br>achieve<br>slide |  
-| bip_39_word_new_line1 | shiver |  
-| bip_39_word_new_line10 | shiver
+| bip_39_word_new_br_1 | shiver |  
+| bip_39_word_new_br_10 | shiver<br>wreck<br>rib<br>make<br>april<br>marriage<br>control<br>achieve<br>slide<br>address |  
+| bip_39_word_new_br_11 | shiver<br>wreck<br>rib<br>make<br>april<br>marriage<br>control<br>achieve<br>slide<br>address<br>slogan |  
+| bip_39_word_new_br_12 | shiver<br>wreck<br>rib<br>make<br>april<br>marriage<br>control<br>achieve<br>slide<br>address<br>slogan<br>around |  
+| bip_39_word_new_br_2 | shiver<br>wreck |  
+| bip_39_word_new_br_3 | shiver<br>wreck<br>rib |  
+| bip_39_word_new_br_4 | shiver<br>wreck<br>rib<br>make |  
+| bip_39_word_new_br_5 | shiver<br>wreck<br>rib<br>make<br>april |  
+| bip_39_word_new_br_6 | shiver<br>wreck<br>rib<br>make<br>april<br>marriage |  
+| bip_39_word_new_br_7 | shiver<br>wreck<br>rib<br>make<br>april<br>marriage<br>control |  
+| bip_39_word_new_br_8 | shiver<br>wreck<br>rib<br>make<br>april<br>marriage<br>control<br>achieve |  
+| bip_39_word_new_br_9 | shiver<br>wreck<br>rib<br>make<br>april<br>marriage<br>control<br>achieve<br>slide |  
+| bip_39_word_new_line_1 | shiver |  
+| bip_39_word_new_line_10 | shiver
 wreck
 rib
 make
@@ -55,7 +55,7 @@ control
 achieve
 slide
 address |  
-| bip_39_word_new_line11 | shiver
+| bip_39_word_new_line_11 | shiver
 wreck
 rib
 make
@@ -66,7 +66,7 @@ achieve
 slide
 address
 slogan |  
-| bip_39_word_new_line12 | shiver
+| bip_39_word_new_line_12 | shiver
 wreck
 rib
 make
@@ -78,34 +78,34 @@ slide
 address
 slogan
 around |  
-| bip_39_word_new_line2 | shiver
+| bip_39_word_new_line_2 | shiver
 wreck |  
-| bip_39_word_new_line3 | shiver
+| bip_39_word_new_line_3 | shiver
 wreck
 rib |  
-| bip_39_word_new_line4 | shiver
+| bip_39_word_new_line_4 | shiver
 wreck
 rib
 make |  
-| bip_39_word_new_line5 | shiver
+| bip_39_word_new_line_5 | shiver
 wreck
 rib
 make
 april |  
-| bip_39_word_new_line6 | shiver
+| bip_39_word_new_line_6 | shiver
 wreck
 rib
 make
 april
 marriage |  
-| bip_39_word_new_line7 | shiver
+| bip_39_word_new_line_7 | shiver
 wreck
 rib
 make
 april
 marriage
 control |  
-| bip_39_word_new_line8 | shiver
+| bip_39_word_new_line_8 | shiver
 wreck
 rib
 make
@@ -113,7 +113,7 @@ april
 marriage
 control
 achieve |  
-| bip_39_word_new_line9 | shiver
+| bip_39_word_new_line_9 | shiver
 wreck
 rib
 make

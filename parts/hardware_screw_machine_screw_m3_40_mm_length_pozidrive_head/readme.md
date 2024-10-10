@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | misery |  
-| bip_39_word_new_br10 | misery<br>toss<br>pipe<br>cigar<br>ostrich<br>draw<br>century<br>old<br>crash<br>supply |  
-| bip_39_word_new_br11 | misery<br>toss<br>pipe<br>cigar<br>ostrich<br>draw<br>century<br>old<br>crash<br>supply<br>author |  
-| bip_39_word_new_br12 | misery<br>toss<br>pipe<br>cigar<br>ostrich<br>draw<br>century<br>old<br>crash<br>supply<br>author<br>almost |  
-| bip_39_word_new_br2 | misery<br>toss |  
-| bip_39_word_new_br3 | misery<br>toss<br>pipe |  
-| bip_39_word_new_br4 | misery<br>toss<br>pipe<br>cigar |  
-| bip_39_word_new_br5 | misery<br>toss<br>pipe<br>cigar<br>ostrich |  
-| bip_39_word_new_br6 | misery<br>toss<br>pipe<br>cigar<br>ostrich<br>draw |  
-| bip_39_word_new_br7 | misery<br>toss<br>pipe<br>cigar<br>ostrich<br>draw<br>century |  
-| bip_39_word_new_br8 | misery<br>toss<br>pipe<br>cigar<br>ostrich<br>draw<br>century<br>old |  
-| bip_39_word_new_br9 | misery<br>toss<br>pipe<br>cigar<br>ostrich<br>draw<br>century<br>old<br>crash |  
-| bip_39_word_new_line1 | misery |  
-| bip_39_word_new_line10 | misery
+| bip_39_word_new_br_1 | misery |  
+| bip_39_word_new_br_10 | misery<br>toss<br>pipe<br>cigar<br>ostrich<br>draw<br>century<br>old<br>crash<br>supply |  
+| bip_39_word_new_br_11 | misery<br>toss<br>pipe<br>cigar<br>ostrich<br>draw<br>century<br>old<br>crash<br>supply<br>author |  
+| bip_39_word_new_br_12 | misery<br>toss<br>pipe<br>cigar<br>ostrich<br>draw<br>century<br>old<br>crash<br>supply<br>author<br>almost |  
+| bip_39_word_new_br_2 | misery<br>toss |  
+| bip_39_word_new_br_3 | misery<br>toss<br>pipe |  
+| bip_39_word_new_br_4 | misery<br>toss<br>pipe<br>cigar |  
+| bip_39_word_new_br_5 | misery<br>toss<br>pipe<br>cigar<br>ostrich |  
+| bip_39_word_new_br_6 | misery<br>toss<br>pipe<br>cigar<br>ostrich<br>draw |  
+| bip_39_word_new_br_7 | misery<br>toss<br>pipe<br>cigar<br>ostrich<br>draw<br>century |  
+| bip_39_word_new_br_8 | misery<br>toss<br>pipe<br>cigar<br>ostrich<br>draw<br>century<br>old |  
+| bip_39_word_new_br_9 | misery<br>toss<br>pipe<br>cigar<br>ostrich<br>draw<br>century<br>old<br>crash |  
+| bip_39_word_new_line_1 | misery |  
+| bip_39_word_new_line_10 | misery
 toss
 pipe
 cigar
@@ -55,7 +55,7 @@ century
 old
 crash
 supply |  
-| bip_39_word_new_line11 | misery
+| bip_39_word_new_line_11 | misery
 toss
 pipe
 cigar
@@ -66,7 +66,7 @@ old
 crash
 supply
 author |  
-| bip_39_word_new_line12 | misery
+| bip_39_word_new_line_12 | misery
 toss
 pipe
 cigar
@@ -78,34 +78,34 @@ crash
 supply
 author
 almost |  
-| bip_39_word_new_line2 | misery
+| bip_39_word_new_line_2 | misery
 toss |  
-| bip_39_word_new_line3 | misery
+| bip_39_word_new_line_3 | misery
 toss
 pipe |  
-| bip_39_word_new_line4 | misery
+| bip_39_word_new_line_4 | misery
 toss
 pipe
 cigar |  
-| bip_39_word_new_line5 | misery
+| bip_39_word_new_line_5 | misery
 toss
 pipe
 cigar
 ostrich |  
-| bip_39_word_new_line6 | misery
+| bip_39_word_new_line_6 | misery
 toss
 pipe
 cigar
 ostrich
 draw |  
-| bip_39_word_new_line7 | misery
+| bip_39_word_new_line_7 | misery
 toss
 pipe
 cigar
 ostrich
 draw
 century |  
-| bip_39_word_new_line8 | misery
+| bip_39_word_new_line_8 | misery
 toss
 pipe
 cigar
@@ -113,7 +113,7 @@ ostrich
 draw
 century
 old |  
-| bip_39_word_new_line9 | misery
+| bip_39_word_new_line_9 | misery
 toss
 pipe
 cigar

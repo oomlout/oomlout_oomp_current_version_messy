@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | tomorrow |  
-| bip_39_word_new_br10 | tomorrow<br>banner<br>minute<br>birth<br>impose<br>airport<br>evil<br>open<br>steel<br>dove |  
-| bip_39_word_new_br11 | tomorrow<br>banner<br>minute<br>birth<br>impose<br>airport<br>evil<br>open<br>steel<br>dove<br>satoshi |  
-| bip_39_word_new_br12 | tomorrow<br>banner<br>minute<br>birth<br>impose<br>airport<br>evil<br>open<br>steel<br>dove<br>satoshi<br>auto |  
-| bip_39_word_new_br2 | tomorrow<br>banner |  
-| bip_39_word_new_br3 | tomorrow<br>banner<br>minute |  
-| bip_39_word_new_br4 | tomorrow<br>banner<br>minute<br>birth |  
-| bip_39_word_new_br5 | tomorrow<br>banner<br>minute<br>birth<br>impose |  
-| bip_39_word_new_br6 | tomorrow<br>banner<br>minute<br>birth<br>impose<br>airport |  
-| bip_39_word_new_br7 | tomorrow<br>banner<br>minute<br>birth<br>impose<br>airport<br>evil |  
-| bip_39_word_new_br8 | tomorrow<br>banner<br>minute<br>birth<br>impose<br>airport<br>evil<br>open |  
-| bip_39_word_new_br9 | tomorrow<br>banner<br>minute<br>birth<br>impose<br>airport<br>evil<br>open<br>steel |  
-| bip_39_word_new_line1 | tomorrow |  
-| bip_39_word_new_line10 | tomorrow
+| bip_39_word_new_br_1 | tomorrow |  
+| bip_39_word_new_br_10 | tomorrow<br>banner<br>minute<br>birth<br>impose<br>airport<br>evil<br>open<br>steel<br>dove |  
+| bip_39_word_new_br_11 | tomorrow<br>banner<br>minute<br>birth<br>impose<br>airport<br>evil<br>open<br>steel<br>dove<br>satoshi |  
+| bip_39_word_new_br_12 | tomorrow<br>banner<br>minute<br>birth<br>impose<br>airport<br>evil<br>open<br>steel<br>dove<br>satoshi<br>auto |  
+| bip_39_word_new_br_2 | tomorrow<br>banner |  
+| bip_39_word_new_br_3 | tomorrow<br>banner<br>minute |  
+| bip_39_word_new_br_4 | tomorrow<br>banner<br>minute<br>birth |  
+| bip_39_word_new_br_5 | tomorrow<br>banner<br>minute<br>birth<br>impose |  
+| bip_39_word_new_br_6 | tomorrow<br>banner<br>minute<br>birth<br>impose<br>airport |  
+| bip_39_word_new_br_7 | tomorrow<br>banner<br>minute<br>birth<br>impose<br>airport<br>evil |  
+| bip_39_word_new_br_8 | tomorrow<br>banner<br>minute<br>birth<br>impose<br>airport<br>evil<br>open |  
+| bip_39_word_new_br_9 | tomorrow<br>banner<br>minute<br>birth<br>impose<br>airport<br>evil<br>open<br>steel |  
+| bip_39_word_new_line_1 | tomorrow |  
+| bip_39_word_new_line_10 | tomorrow
 banner
 minute
 birth
@@ -55,7 +55,7 @@ evil
 open
 steel
 dove |  
-| bip_39_word_new_line11 | tomorrow
+| bip_39_word_new_line_11 | tomorrow
 banner
 minute
 birth
@@ -66,7 +66,7 @@ open
 steel
 dove
 satoshi |  
-| bip_39_word_new_line12 | tomorrow
+| bip_39_word_new_line_12 | tomorrow
 banner
 minute
 birth
@@ -78,34 +78,34 @@ steel
 dove
 satoshi
 auto |  
-| bip_39_word_new_line2 | tomorrow
+| bip_39_word_new_line_2 | tomorrow
 banner |  
-| bip_39_word_new_line3 | tomorrow
+| bip_39_word_new_line_3 | tomorrow
 banner
 minute |  
-| bip_39_word_new_line4 | tomorrow
+| bip_39_word_new_line_4 | tomorrow
 banner
 minute
 birth |  
-| bip_39_word_new_line5 | tomorrow
+| bip_39_word_new_line_5 | tomorrow
 banner
 minute
 birth
 impose |  
-| bip_39_word_new_line6 | tomorrow
+| bip_39_word_new_line_6 | tomorrow
 banner
 minute
 birth
 impose
 airport |  
-| bip_39_word_new_line7 | tomorrow
+| bip_39_word_new_line_7 | tomorrow
 banner
 minute
 birth
 impose
 airport
 evil |  
-| bip_39_word_new_line8 | tomorrow
+| bip_39_word_new_line_8 | tomorrow
 banner
 minute
 birth
@@ -113,7 +113,7 @@ impose
 airport
 evil
 open |  
-| bip_39_word_new_line9 | tomorrow
+| bip_39_word_new_line_9 | tomorrow
 banner
 minute
 birth

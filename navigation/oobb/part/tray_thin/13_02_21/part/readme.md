@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | exercise |  
-| bip_39_word_new_br10 | exercise<br>glimpse<br>beyond<br>caught<br>security<br>bean<br>sorry<br>scrap<br>blood<br>speed |  
-| bip_39_word_new_br11 | exercise<br>glimpse<br>beyond<br>caught<br>security<br>bean<br>sorry<br>scrap<br>blood<br>speed<br>table |  
-| bip_39_word_new_br12 | exercise<br>glimpse<br>beyond<br>caught<br>security<br>bean<br>sorry<br>scrap<br>blood<br>speed<br>table<br>also |  
-| bip_39_word_new_br2 | exercise<br>glimpse |  
-| bip_39_word_new_br3 | exercise<br>glimpse<br>beyond |  
-| bip_39_word_new_br4 | exercise<br>glimpse<br>beyond<br>caught |  
-| bip_39_word_new_br5 | exercise<br>glimpse<br>beyond<br>caught<br>security |  
-| bip_39_word_new_br6 | exercise<br>glimpse<br>beyond<br>caught<br>security<br>bean |  
-| bip_39_word_new_br7 | exercise<br>glimpse<br>beyond<br>caught<br>security<br>bean<br>sorry |  
-| bip_39_word_new_br8 | exercise<br>glimpse<br>beyond<br>caught<br>security<br>bean<br>sorry<br>scrap |  
-| bip_39_word_new_br9 | exercise<br>glimpse<br>beyond<br>caught<br>security<br>bean<br>sorry<br>scrap<br>blood |  
-| bip_39_word_new_line1 | exercise |  
-| bip_39_word_new_line10 | exercise
+| bip_39_word_new_br_1 | exercise |  
+| bip_39_word_new_br_10 | exercise<br>glimpse<br>beyond<br>caught<br>security<br>bean<br>sorry<br>scrap<br>blood<br>speed |  
+| bip_39_word_new_br_11 | exercise<br>glimpse<br>beyond<br>caught<br>security<br>bean<br>sorry<br>scrap<br>blood<br>speed<br>table |  
+| bip_39_word_new_br_12 | exercise<br>glimpse<br>beyond<br>caught<br>security<br>bean<br>sorry<br>scrap<br>blood<br>speed<br>table<br>also |  
+| bip_39_word_new_br_2 | exercise<br>glimpse |  
+| bip_39_word_new_br_3 | exercise<br>glimpse<br>beyond |  
+| bip_39_word_new_br_4 | exercise<br>glimpse<br>beyond<br>caught |  
+| bip_39_word_new_br_5 | exercise<br>glimpse<br>beyond<br>caught<br>security |  
+| bip_39_word_new_br_6 | exercise<br>glimpse<br>beyond<br>caught<br>security<br>bean |  
+| bip_39_word_new_br_7 | exercise<br>glimpse<br>beyond<br>caught<br>security<br>bean<br>sorry |  
+| bip_39_word_new_br_8 | exercise<br>glimpse<br>beyond<br>caught<br>security<br>bean<br>sorry<br>scrap |  
+| bip_39_word_new_br_9 | exercise<br>glimpse<br>beyond<br>caught<br>security<br>bean<br>sorry<br>scrap<br>blood |  
+| bip_39_word_new_line_1 | exercise |  
+| bip_39_word_new_line_10 | exercise
 glimpse
 beyond
 caught
@@ -55,7 +55,7 @@ sorry
 scrap
 blood
 speed |  
-| bip_39_word_new_line11 | exercise
+| bip_39_word_new_line_11 | exercise
 glimpse
 beyond
 caught
@@ -66,7 +66,7 @@ scrap
 blood
 speed
 table |  
-| bip_39_word_new_line12 | exercise
+| bip_39_word_new_line_12 | exercise
 glimpse
 beyond
 caught
@@ -78,34 +78,34 @@ blood
 speed
 table
 also |  
-| bip_39_word_new_line2 | exercise
+| bip_39_word_new_line_2 | exercise
 glimpse |  
-| bip_39_word_new_line3 | exercise
+| bip_39_word_new_line_3 | exercise
 glimpse
 beyond |  
-| bip_39_word_new_line4 | exercise
+| bip_39_word_new_line_4 | exercise
 glimpse
 beyond
 caught |  
-| bip_39_word_new_line5 | exercise
+| bip_39_word_new_line_5 | exercise
 glimpse
 beyond
 caught
 security |  
-| bip_39_word_new_line6 | exercise
+| bip_39_word_new_line_6 | exercise
 glimpse
 beyond
 caught
 security
 bean |  
-| bip_39_word_new_line7 | exercise
+| bip_39_word_new_line_7 | exercise
 glimpse
 beyond
 caught
 security
 bean
 sorry |  
-| bip_39_word_new_line8 | exercise
+| bip_39_word_new_line_8 | exercise
 glimpse
 beyond
 caught
@@ -113,7 +113,7 @@ security
 bean
 sorry
 scrap |  
-| bip_39_word_new_line9 | exercise
+| bip_39_word_new_line_9 | exercise
 glimpse
 beyond
 caught

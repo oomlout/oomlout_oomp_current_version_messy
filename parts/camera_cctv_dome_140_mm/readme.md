@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | nut |  
-| bip_39_word_new_br10 | nut<br>blind<br>vacant<br>evil<br>surround<br>mango<br>once<br>armor<br>load<br>sad |  
-| bip_39_word_new_br11 | nut<br>blind<br>vacant<br>evil<br>surround<br>mango<br>once<br>armor<br>load<br>sad<br>glue |  
-| bip_39_word_new_br12 | nut<br>blind<br>vacant<br>evil<br>surround<br>mango<br>once<br>armor<br>load<br>sad<br>glue<br>affair |  
-| bip_39_word_new_br2 | nut<br>blind |  
-| bip_39_word_new_br3 | nut<br>blind<br>vacant |  
-| bip_39_word_new_br4 | nut<br>blind<br>vacant<br>evil |  
-| bip_39_word_new_br5 | nut<br>blind<br>vacant<br>evil<br>surround |  
-| bip_39_word_new_br6 | nut<br>blind<br>vacant<br>evil<br>surround<br>mango |  
-| bip_39_word_new_br7 | nut<br>blind<br>vacant<br>evil<br>surround<br>mango<br>once |  
-| bip_39_word_new_br8 | nut<br>blind<br>vacant<br>evil<br>surround<br>mango<br>once<br>armor |  
-| bip_39_word_new_br9 | nut<br>blind<br>vacant<br>evil<br>surround<br>mango<br>once<br>armor<br>load |  
-| bip_39_word_new_line1 | nut |  
-| bip_39_word_new_line10 | nut
+| bip_39_word_new_br_1 | nut |  
+| bip_39_word_new_br_10 | nut<br>blind<br>vacant<br>evil<br>surround<br>mango<br>once<br>armor<br>load<br>sad |  
+| bip_39_word_new_br_11 | nut<br>blind<br>vacant<br>evil<br>surround<br>mango<br>once<br>armor<br>load<br>sad<br>glue |  
+| bip_39_word_new_br_12 | nut<br>blind<br>vacant<br>evil<br>surround<br>mango<br>once<br>armor<br>load<br>sad<br>glue<br>affair |  
+| bip_39_word_new_br_2 | nut<br>blind |  
+| bip_39_word_new_br_3 | nut<br>blind<br>vacant |  
+| bip_39_word_new_br_4 | nut<br>blind<br>vacant<br>evil |  
+| bip_39_word_new_br_5 | nut<br>blind<br>vacant<br>evil<br>surround |  
+| bip_39_word_new_br_6 | nut<br>blind<br>vacant<br>evil<br>surround<br>mango |  
+| bip_39_word_new_br_7 | nut<br>blind<br>vacant<br>evil<br>surround<br>mango<br>once |  
+| bip_39_word_new_br_8 | nut<br>blind<br>vacant<br>evil<br>surround<br>mango<br>once<br>armor |  
+| bip_39_word_new_br_9 | nut<br>blind<br>vacant<br>evil<br>surround<br>mango<br>once<br>armor<br>load |  
+| bip_39_word_new_line_1 | nut |  
+| bip_39_word_new_line_10 | nut
 blind
 vacant
 evil
@@ -55,7 +55,7 @@ once
 armor
 load
 sad |  
-| bip_39_word_new_line11 | nut
+| bip_39_word_new_line_11 | nut
 blind
 vacant
 evil
@@ -66,7 +66,7 @@ armor
 load
 sad
 glue |  
-| bip_39_word_new_line12 | nut
+| bip_39_word_new_line_12 | nut
 blind
 vacant
 evil
@@ -78,34 +78,34 @@ load
 sad
 glue
 affair |  
-| bip_39_word_new_line2 | nut
+| bip_39_word_new_line_2 | nut
 blind |  
-| bip_39_word_new_line3 | nut
+| bip_39_word_new_line_3 | nut
 blind
 vacant |  
-| bip_39_word_new_line4 | nut
+| bip_39_word_new_line_4 | nut
 blind
 vacant
 evil |  
-| bip_39_word_new_line5 | nut
+| bip_39_word_new_line_5 | nut
 blind
 vacant
 evil
 surround |  
-| bip_39_word_new_line6 | nut
+| bip_39_word_new_line_6 | nut
 blind
 vacant
 evil
 surround
 mango |  
-| bip_39_word_new_line7 | nut
+| bip_39_word_new_line_7 | nut
 blind
 vacant
 evil
 surround
 mango
 once |  
-| bip_39_word_new_line8 | nut
+| bip_39_word_new_line_8 | nut
 blind
 vacant
 evil
@@ -113,7 +113,7 @@ surround
 mango
 once
 armor |  
-| bip_39_word_new_line9 | nut
+| bip_39_word_new_line_9 | nut
 blind
 vacant
 evil

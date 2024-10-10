@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | boat |  
-| bip_39_word_new_br10 | boat<br>village<br>soccer<br>artefact<br>juice<br>toast<br>mango<br>disease<br>festival<br>clip |  
-| bip_39_word_new_br11 | boat<br>village<br>soccer<br>artefact<br>juice<br>toast<br>mango<br>disease<br>festival<br>clip<br>merit |  
-| bip_39_word_new_br12 | boat<br>village<br>soccer<br>artefact<br>juice<br>toast<br>mango<br>disease<br>festival<br>clip<br>merit<br>almost |  
-| bip_39_word_new_br2 | boat<br>village |  
-| bip_39_word_new_br3 | boat<br>village<br>soccer |  
-| bip_39_word_new_br4 | boat<br>village<br>soccer<br>artefact |  
-| bip_39_word_new_br5 | boat<br>village<br>soccer<br>artefact<br>juice |  
-| bip_39_word_new_br6 | boat<br>village<br>soccer<br>artefact<br>juice<br>toast |  
-| bip_39_word_new_br7 | boat<br>village<br>soccer<br>artefact<br>juice<br>toast<br>mango |  
-| bip_39_word_new_br8 | boat<br>village<br>soccer<br>artefact<br>juice<br>toast<br>mango<br>disease |  
-| bip_39_word_new_br9 | boat<br>village<br>soccer<br>artefact<br>juice<br>toast<br>mango<br>disease<br>festival |  
-| bip_39_word_new_line1 | boat |  
-| bip_39_word_new_line10 | boat
+| bip_39_word_new_br_1 | boat |  
+| bip_39_word_new_br_10 | boat<br>village<br>soccer<br>artefact<br>juice<br>toast<br>mango<br>disease<br>festival<br>clip |  
+| bip_39_word_new_br_11 | boat<br>village<br>soccer<br>artefact<br>juice<br>toast<br>mango<br>disease<br>festival<br>clip<br>merit |  
+| bip_39_word_new_br_12 | boat<br>village<br>soccer<br>artefact<br>juice<br>toast<br>mango<br>disease<br>festival<br>clip<br>merit<br>almost |  
+| bip_39_word_new_br_2 | boat<br>village |  
+| bip_39_word_new_br_3 | boat<br>village<br>soccer |  
+| bip_39_word_new_br_4 | boat<br>village<br>soccer<br>artefact |  
+| bip_39_word_new_br_5 | boat<br>village<br>soccer<br>artefact<br>juice |  
+| bip_39_word_new_br_6 | boat<br>village<br>soccer<br>artefact<br>juice<br>toast |  
+| bip_39_word_new_br_7 | boat<br>village<br>soccer<br>artefact<br>juice<br>toast<br>mango |  
+| bip_39_word_new_br_8 | boat<br>village<br>soccer<br>artefact<br>juice<br>toast<br>mango<br>disease |  
+| bip_39_word_new_br_9 | boat<br>village<br>soccer<br>artefact<br>juice<br>toast<br>mango<br>disease<br>festival |  
+| bip_39_word_new_line_1 | boat |  
+| bip_39_word_new_line_10 | boat
 village
 soccer
 artefact
@@ -55,7 +55,7 @@ mango
 disease
 festival
 clip |  
-| bip_39_word_new_line11 | boat
+| bip_39_word_new_line_11 | boat
 village
 soccer
 artefact
@@ -66,7 +66,7 @@ disease
 festival
 clip
 merit |  
-| bip_39_word_new_line12 | boat
+| bip_39_word_new_line_12 | boat
 village
 soccer
 artefact
@@ -78,34 +78,34 @@ festival
 clip
 merit
 almost |  
-| bip_39_word_new_line2 | boat
+| bip_39_word_new_line_2 | boat
 village |  
-| bip_39_word_new_line3 | boat
+| bip_39_word_new_line_3 | boat
 village
 soccer |  
-| bip_39_word_new_line4 | boat
+| bip_39_word_new_line_4 | boat
 village
 soccer
 artefact |  
-| bip_39_word_new_line5 | boat
+| bip_39_word_new_line_5 | boat
 village
 soccer
 artefact
 juice |  
-| bip_39_word_new_line6 | boat
+| bip_39_word_new_line_6 | boat
 village
 soccer
 artefact
 juice
 toast |  
-| bip_39_word_new_line7 | boat
+| bip_39_word_new_line_7 | boat
 village
 soccer
 artefact
 juice
 toast
 mango |  
-| bip_39_word_new_line8 | boat
+| bip_39_word_new_line_8 | boat
 village
 soccer
 artefact
@@ -113,7 +113,7 @@ juice
 toast
 mango
 disease |  
-| bip_39_word_new_line9 | boat
+| bip_39_word_new_line_9 | boat
 village
 soccer
 artefact

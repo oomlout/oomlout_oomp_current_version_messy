@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | suffer |  
-| bip_39_word_new_br10 | suffer<br>ahead<br>female<br>tomato<br>alert<br>lobster<br>amazing<br>oak<br>skirt<br>laugh |  
-| bip_39_word_new_br11 | suffer<br>ahead<br>female<br>tomato<br>alert<br>lobster<br>amazing<br>oak<br>skirt<br>laugh<br>survey |  
-| bip_39_word_new_br12 | suffer<br>ahead<br>female<br>tomato<br>alert<br>lobster<br>amazing<br>oak<br>skirt<br>laugh<br>survey<br>asthma |  
-| bip_39_word_new_br2 | suffer<br>ahead |  
-| bip_39_word_new_br3 | suffer<br>ahead<br>female |  
-| bip_39_word_new_br4 | suffer<br>ahead<br>female<br>tomato |  
-| bip_39_word_new_br5 | suffer<br>ahead<br>female<br>tomato<br>alert |  
-| bip_39_word_new_br6 | suffer<br>ahead<br>female<br>tomato<br>alert<br>lobster |  
-| bip_39_word_new_br7 | suffer<br>ahead<br>female<br>tomato<br>alert<br>lobster<br>amazing |  
-| bip_39_word_new_br8 | suffer<br>ahead<br>female<br>tomato<br>alert<br>lobster<br>amazing<br>oak |  
-| bip_39_word_new_br9 | suffer<br>ahead<br>female<br>tomato<br>alert<br>lobster<br>amazing<br>oak<br>skirt |  
-| bip_39_word_new_line1 | suffer |  
-| bip_39_word_new_line10 | suffer
+| bip_39_word_new_br_1 | suffer |  
+| bip_39_word_new_br_10 | suffer<br>ahead<br>female<br>tomato<br>alert<br>lobster<br>amazing<br>oak<br>skirt<br>laugh |  
+| bip_39_word_new_br_11 | suffer<br>ahead<br>female<br>tomato<br>alert<br>lobster<br>amazing<br>oak<br>skirt<br>laugh<br>survey |  
+| bip_39_word_new_br_12 | suffer<br>ahead<br>female<br>tomato<br>alert<br>lobster<br>amazing<br>oak<br>skirt<br>laugh<br>survey<br>asthma |  
+| bip_39_word_new_br_2 | suffer<br>ahead |  
+| bip_39_word_new_br_3 | suffer<br>ahead<br>female |  
+| bip_39_word_new_br_4 | suffer<br>ahead<br>female<br>tomato |  
+| bip_39_word_new_br_5 | suffer<br>ahead<br>female<br>tomato<br>alert |  
+| bip_39_word_new_br_6 | suffer<br>ahead<br>female<br>tomato<br>alert<br>lobster |  
+| bip_39_word_new_br_7 | suffer<br>ahead<br>female<br>tomato<br>alert<br>lobster<br>amazing |  
+| bip_39_word_new_br_8 | suffer<br>ahead<br>female<br>tomato<br>alert<br>lobster<br>amazing<br>oak |  
+| bip_39_word_new_br_9 | suffer<br>ahead<br>female<br>tomato<br>alert<br>lobster<br>amazing<br>oak<br>skirt |  
+| bip_39_word_new_line_1 | suffer |  
+| bip_39_word_new_line_10 | suffer
 ahead
 female
 tomato
@@ -55,7 +55,7 @@ amazing
 oak
 skirt
 laugh |  
-| bip_39_word_new_line11 | suffer
+| bip_39_word_new_line_11 | suffer
 ahead
 female
 tomato
@@ -66,7 +66,7 @@ oak
 skirt
 laugh
 survey |  
-| bip_39_word_new_line12 | suffer
+| bip_39_word_new_line_12 | suffer
 ahead
 female
 tomato
@@ -78,34 +78,34 @@ skirt
 laugh
 survey
 asthma |  
-| bip_39_word_new_line2 | suffer
+| bip_39_word_new_line_2 | suffer
 ahead |  
-| bip_39_word_new_line3 | suffer
+| bip_39_word_new_line_3 | suffer
 ahead
 female |  
-| bip_39_word_new_line4 | suffer
+| bip_39_word_new_line_4 | suffer
 ahead
 female
 tomato |  
-| bip_39_word_new_line5 | suffer
+| bip_39_word_new_line_5 | suffer
 ahead
 female
 tomato
 alert |  
-| bip_39_word_new_line6 | suffer
+| bip_39_word_new_line_6 | suffer
 ahead
 female
 tomato
 alert
 lobster |  
-| bip_39_word_new_line7 | suffer
+| bip_39_word_new_line_7 | suffer
 ahead
 female
 tomato
 alert
 lobster
 amazing |  
-| bip_39_word_new_line8 | suffer
+| bip_39_word_new_line_8 | suffer
 ahead
 female
 tomato
@@ -113,7 +113,7 @@ alert
 lobster
 amazing
 oak |  
-| bip_39_word_new_line9 | suffer
+| bip_39_word_new_line_9 | suffer
 ahead
 female
 tomato

@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | aerobic |  
-| bip_39_word_new_br10 | aerobic<br>pioneer<br>pottery<br>write<br>fever<br>connect<br>treat<br>sunny<br>shiver<br>equip |  
-| bip_39_word_new_br11 | aerobic<br>pioneer<br>pottery<br>write<br>fever<br>connect<br>treat<br>sunny<br>shiver<br>equip<br>spy |  
-| bip_39_word_new_br2 | aerobic<br>pioneer |  
-| bip_39_word_new_br3 | aerobic<br>pioneer<br>pottery |  
-| bip_39_word_new_br4 | aerobic<br>pioneer<br>pottery<br>write |  
-| bip_39_word_new_br5 | aerobic<br>pioneer<br>pottery<br>write<br>fever |  
-| bip_39_word_new_br6 | aerobic<br>pioneer<br>pottery<br>write<br>fever<br>connect |  
-| bip_39_word_new_br7 | aerobic<br>pioneer<br>pottery<br>write<br>fever<br>connect<br>treat |  
-| bip_39_word_new_br8 | aerobic<br>pioneer<br>pottery<br>write<br>fever<br>connect<br>treat<br>sunny |  
-| bip_39_word_new_br9 | aerobic<br>pioneer<br>pottery<br>write<br>fever<br>connect<br>treat<br>sunny<br>shiver |  
-| bip_39_word_new_line1 | aerobic |  
-| bip_39_word_new_line10 | aerobic
+| bip_39_word_new_br_1 | aerobic |  
+| bip_39_word_new_br_10 | aerobic<br>pioneer<br>pottery<br>write<br>fever<br>connect<br>treat<br>sunny<br>shiver<br>equip |  
+| bip_39_word_new_br_11 | aerobic<br>pioneer<br>pottery<br>write<br>fever<br>connect<br>treat<br>sunny<br>shiver<br>equip<br>spy |  
+| bip_39_word_new_br_2 | aerobic<br>pioneer |  
+| bip_39_word_new_br_3 | aerobic<br>pioneer<br>pottery |  
+| bip_39_word_new_br_4 | aerobic<br>pioneer<br>pottery<br>write |  
+| bip_39_word_new_br_5 | aerobic<br>pioneer<br>pottery<br>write<br>fever |  
+| bip_39_word_new_br_6 | aerobic<br>pioneer<br>pottery<br>write<br>fever<br>connect |  
+| bip_39_word_new_br_7 | aerobic<br>pioneer<br>pottery<br>write<br>fever<br>connect<br>treat |  
+| bip_39_word_new_br_8 | aerobic<br>pioneer<br>pottery<br>write<br>fever<br>connect<br>treat<br>sunny |  
+| bip_39_word_new_br_9 | aerobic<br>pioneer<br>pottery<br>write<br>fever<br>connect<br>treat<br>sunny<br>shiver |  
+| bip_39_word_new_line_1 | aerobic |  
+| bip_39_word_new_line_10 | aerobic
 pioneer
 pottery
 write
@@ -54,7 +54,7 @@ treat
 sunny
 shiver
 equip |  
-| bip_39_word_new_line11 | aerobic
+| bip_39_word_new_line_11 | aerobic
 pioneer
 pottery
 write
@@ -65,34 +65,34 @@ sunny
 shiver
 equip
 spy |  
-| bip_39_word_new_line2 | aerobic
+| bip_39_word_new_line_2 | aerobic
 pioneer |  
-| bip_39_word_new_line3 | aerobic
+| bip_39_word_new_line_3 | aerobic
 pioneer
 pottery |  
-| bip_39_word_new_line4 | aerobic
+| bip_39_word_new_line_4 | aerobic
 pioneer
 pottery
 write |  
-| bip_39_word_new_line5 | aerobic
+| bip_39_word_new_line_5 | aerobic
 pioneer
 pottery
 write
 fever |  
-| bip_39_word_new_line6 | aerobic
+| bip_39_word_new_line_6 | aerobic
 pioneer
 pottery
 write
 fever
 connect |  
-| bip_39_word_new_line7 | aerobic
+| bip_39_word_new_line_7 | aerobic
 pioneer
 pottery
 write
 fever
 connect
 treat |  
-| bip_39_word_new_line8 | aerobic
+| bip_39_word_new_line_8 | aerobic
 pioneer
 pottery
 write
@@ -100,7 +100,7 @@ fever
 connect
 treat
 sunny |  
-| bip_39_word_new_line9 | aerobic
+| bip_39_word_new_line_9 | aerobic
 pioneer
 pottery
 write

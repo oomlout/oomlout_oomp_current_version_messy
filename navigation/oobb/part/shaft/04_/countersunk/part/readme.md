@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | door |  
-| bip_39_word_new_br10 | door<br>unknown<br>hip<br>zoo<br>decorate<br>athlete<br>side<br>damp<br>regular<br>avoid |  
-| bip_39_word_new_br11 | door<br>unknown<br>hip<br>zoo<br>decorate<br>athlete<br>side<br>damp<br>regular<br>avoid<br>gauge |  
-| bip_39_word_new_br12 | door<br>unknown<br>hip<br>zoo<br>decorate<br>athlete<br>side<br>damp<br>regular<br>avoid<br>gauge<br>across |  
-| bip_39_word_new_br2 | door<br>unknown |  
-| bip_39_word_new_br3 | door<br>unknown<br>hip |  
-| bip_39_word_new_br4 | door<br>unknown<br>hip<br>zoo |  
-| bip_39_word_new_br5 | door<br>unknown<br>hip<br>zoo<br>decorate |  
-| bip_39_word_new_br6 | door<br>unknown<br>hip<br>zoo<br>decorate<br>athlete |  
-| bip_39_word_new_br7 | door<br>unknown<br>hip<br>zoo<br>decorate<br>athlete<br>side |  
-| bip_39_word_new_br8 | door<br>unknown<br>hip<br>zoo<br>decorate<br>athlete<br>side<br>damp |  
-| bip_39_word_new_br9 | door<br>unknown<br>hip<br>zoo<br>decorate<br>athlete<br>side<br>damp<br>regular |  
-| bip_39_word_new_line1 | door |  
-| bip_39_word_new_line10 | door
+| bip_39_word_new_br_1 | door |  
+| bip_39_word_new_br_10 | door<br>unknown<br>hip<br>zoo<br>decorate<br>athlete<br>side<br>damp<br>regular<br>avoid |  
+| bip_39_word_new_br_11 | door<br>unknown<br>hip<br>zoo<br>decorate<br>athlete<br>side<br>damp<br>regular<br>avoid<br>gauge |  
+| bip_39_word_new_br_12 | door<br>unknown<br>hip<br>zoo<br>decorate<br>athlete<br>side<br>damp<br>regular<br>avoid<br>gauge<br>across |  
+| bip_39_word_new_br_2 | door<br>unknown |  
+| bip_39_word_new_br_3 | door<br>unknown<br>hip |  
+| bip_39_word_new_br_4 | door<br>unknown<br>hip<br>zoo |  
+| bip_39_word_new_br_5 | door<br>unknown<br>hip<br>zoo<br>decorate |  
+| bip_39_word_new_br_6 | door<br>unknown<br>hip<br>zoo<br>decorate<br>athlete |  
+| bip_39_word_new_br_7 | door<br>unknown<br>hip<br>zoo<br>decorate<br>athlete<br>side |  
+| bip_39_word_new_br_8 | door<br>unknown<br>hip<br>zoo<br>decorate<br>athlete<br>side<br>damp |  
+| bip_39_word_new_br_9 | door<br>unknown<br>hip<br>zoo<br>decorate<br>athlete<br>side<br>damp<br>regular |  
+| bip_39_word_new_line_1 | door |  
+| bip_39_word_new_line_10 | door
 unknown
 hip
 zoo
@@ -55,7 +55,7 @@ side
 damp
 regular
 avoid |  
-| bip_39_word_new_line11 | door
+| bip_39_word_new_line_11 | door
 unknown
 hip
 zoo
@@ -66,7 +66,7 @@ damp
 regular
 avoid
 gauge |  
-| bip_39_word_new_line12 | door
+| bip_39_word_new_line_12 | door
 unknown
 hip
 zoo
@@ -78,34 +78,34 @@ regular
 avoid
 gauge
 across |  
-| bip_39_word_new_line2 | door
+| bip_39_word_new_line_2 | door
 unknown |  
-| bip_39_word_new_line3 | door
+| bip_39_word_new_line_3 | door
 unknown
 hip |  
-| bip_39_word_new_line4 | door
+| bip_39_word_new_line_4 | door
 unknown
 hip
 zoo |  
-| bip_39_word_new_line5 | door
+| bip_39_word_new_line_5 | door
 unknown
 hip
 zoo
 decorate |  
-| bip_39_word_new_line6 | door
+| bip_39_word_new_line_6 | door
 unknown
 hip
 zoo
 decorate
 athlete |  
-| bip_39_word_new_line7 | door
+| bip_39_word_new_line_7 | door
 unknown
 hip
 zoo
 decorate
 athlete
 side |  
-| bip_39_word_new_line8 | door
+| bip_39_word_new_line_8 | door
 unknown
 hip
 zoo
@@ -113,7 +113,7 @@ decorate
 athlete
 side
 damp |  
-| bip_39_word_new_line9 | door
+| bip_39_word_new_line_9 | door
 unknown
 hip
 zoo

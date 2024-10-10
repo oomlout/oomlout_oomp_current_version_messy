@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | machine |  
-| bip_39_word_new_br10 | machine<br>robot<br>crack<br>habit<br>visit<br>bind<br>uphold<br>window<br>vague<br>decrease |  
-| bip_39_word_new_br11 | machine<br>robot<br>crack<br>habit<br>visit<br>bind<br>uphold<br>window<br>vague<br>decrease<br>human |  
-| bip_39_word_new_br12 | machine<br>robot<br>crack<br>habit<br>visit<br>bind<br>uphold<br>window<br>vague<br>decrease<br>human<br>advice |  
-| bip_39_word_new_br2 | machine<br>robot |  
-| bip_39_word_new_br3 | machine<br>robot<br>crack |  
-| bip_39_word_new_br4 | machine<br>robot<br>crack<br>habit |  
-| bip_39_word_new_br5 | machine<br>robot<br>crack<br>habit<br>visit |  
-| bip_39_word_new_br6 | machine<br>robot<br>crack<br>habit<br>visit<br>bind |  
-| bip_39_word_new_br7 | machine<br>robot<br>crack<br>habit<br>visit<br>bind<br>uphold |  
-| bip_39_word_new_br8 | machine<br>robot<br>crack<br>habit<br>visit<br>bind<br>uphold<br>window |  
-| bip_39_word_new_br9 | machine<br>robot<br>crack<br>habit<br>visit<br>bind<br>uphold<br>window<br>vague |  
-| bip_39_word_new_line1 | machine |  
-| bip_39_word_new_line10 | machine
+| bip_39_word_new_br_1 | machine |  
+| bip_39_word_new_br_10 | machine<br>robot<br>crack<br>habit<br>visit<br>bind<br>uphold<br>window<br>vague<br>decrease |  
+| bip_39_word_new_br_11 | machine<br>robot<br>crack<br>habit<br>visit<br>bind<br>uphold<br>window<br>vague<br>decrease<br>human |  
+| bip_39_word_new_br_12 | machine<br>robot<br>crack<br>habit<br>visit<br>bind<br>uphold<br>window<br>vague<br>decrease<br>human<br>advice |  
+| bip_39_word_new_br_2 | machine<br>robot |  
+| bip_39_word_new_br_3 | machine<br>robot<br>crack |  
+| bip_39_word_new_br_4 | machine<br>robot<br>crack<br>habit |  
+| bip_39_word_new_br_5 | machine<br>robot<br>crack<br>habit<br>visit |  
+| bip_39_word_new_br_6 | machine<br>robot<br>crack<br>habit<br>visit<br>bind |  
+| bip_39_word_new_br_7 | machine<br>robot<br>crack<br>habit<br>visit<br>bind<br>uphold |  
+| bip_39_word_new_br_8 | machine<br>robot<br>crack<br>habit<br>visit<br>bind<br>uphold<br>window |  
+| bip_39_word_new_br_9 | machine<br>robot<br>crack<br>habit<br>visit<br>bind<br>uphold<br>window<br>vague |  
+| bip_39_word_new_line_1 | machine |  
+| bip_39_word_new_line_10 | machine
 robot
 crack
 habit
@@ -55,7 +55,7 @@ uphold
 window
 vague
 decrease |  
-| bip_39_word_new_line11 | machine
+| bip_39_word_new_line_11 | machine
 robot
 crack
 habit
@@ -66,7 +66,7 @@ window
 vague
 decrease
 human |  
-| bip_39_word_new_line12 | machine
+| bip_39_word_new_line_12 | machine
 robot
 crack
 habit
@@ -78,34 +78,34 @@ vague
 decrease
 human
 advice |  
-| bip_39_word_new_line2 | machine
+| bip_39_word_new_line_2 | machine
 robot |  
-| bip_39_word_new_line3 | machine
+| bip_39_word_new_line_3 | machine
 robot
 crack |  
-| bip_39_word_new_line4 | machine
+| bip_39_word_new_line_4 | machine
 robot
 crack
 habit |  
-| bip_39_word_new_line5 | machine
+| bip_39_word_new_line_5 | machine
 robot
 crack
 habit
 visit |  
-| bip_39_word_new_line6 | machine
+| bip_39_word_new_line_6 | machine
 robot
 crack
 habit
 visit
 bind |  
-| bip_39_word_new_line7 | machine
+| bip_39_word_new_line_7 | machine
 robot
 crack
 habit
 visit
 bind
 uphold |  
-| bip_39_word_new_line8 | machine
+| bip_39_word_new_line_8 | machine
 robot
 crack
 habit
@@ -113,7 +113,7 @@ visit
 bind
 uphold
 window |  
-| bip_39_word_new_line9 | machine
+| bip_39_word_new_line_9 | machine
 robot
 crack
 habit

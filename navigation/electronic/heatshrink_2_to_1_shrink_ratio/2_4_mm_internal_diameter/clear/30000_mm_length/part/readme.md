@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | borrow |  
-| bip_39_word_new_br10 | borrow<br>angle<br>tide<br>force<br>true<br>power<br>hurry<br>half<br>ginger<br>solid |  
-| bip_39_word_new_br11 | borrow<br>angle<br>tide<br>force<br>true<br>power<br>hurry<br>half<br>ginger<br>solid<br>rescue |  
-| bip_39_word_new_br12 | borrow<br>angle<br>tide<br>force<br>true<br>power<br>hurry<br>half<br>ginger<br>solid<br>rescue<br>artwork |  
-| bip_39_word_new_br2 | borrow<br>angle |  
-| bip_39_word_new_br3 | borrow<br>angle<br>tide |  
-| bip_39_word_new_br4 | borrow<br>angle<br>tide<br>force |  
-| bip_39_word_new_br5 | borrow<br>angle<br>tide<br>force<br>true |  
-| bip_39_word_new_br6 | borrow<br>angle<br>tide<br>force<br>true<br>power |  
-| bip_39_word_new_br7 | borrow<br>angle<br>tide<br>force<br>true<br>power<br>hurry |  
-| bip_39_word_new_br8 | borrow<br>angle<br>tide<br>force<br>true<br>power<br>hurry<br>half |  
-| bip_39_word_new_br9 | borrow<br>angle<br>tide<br>force<br>true<br>power<br>hurry<br>half<br>ginger |  
-| bip_39_word_new_line1 | borrow |  
-| bip_39_word_new_line10 | borrow
+| bip_39_word_new_br_1 | borrow |  
+| bip_39_word_new_br_10 | borrow<br>angle<br>tide<br>force<br>true<br>power<br>hurry<br>half<br>ginger<br>solid |  
+| bip_39_word_new_br_11 | borrow<br>angle<br>tide<br>force<br>true<br>power<br>hurry<br>half<br>ginger<br>solid<br>rescue |  
+| bip_39_word_new_br_12 | borrow<br>angle<br>tide<br>force<br>true<br>power<br>hurry<br>half<br>ginger<br>solid<br>rescue<br>artwork |  
+| bip_39_word_new_br_2 | borrow<br>angle |  
+| bip_39_word_new_br_3 | borrow<br>angle<br>tide |  
+| bip_39_word_new_br_4 | borrow<br>angle<br>tide<br>force |  
+| bip_39_word_new_br_5 | borrow<br>angle<br>tide<br>force<br>true |  
+| bip_39_word_new_br_6 | borrow<br>angle<br>tide<br>force<br>true<br>power |  
+| bip_39_word_new_br_7 | borrow<br>angle<br>tide<br>force<br>true<br>power<br>hurry |  
+| bip_39_word_new_br_8 | borrow<br>angle<br>tide<br>force<br>true<br>power<br>hurry<br>half |  
+| bip_39_word_new_br_9 | borrow<br>angle<br>tide<br>force<br>true<br>power<br>hurry<br>half<br>ginger |  
+| bip_39_word_new_line_1 | borrow |  
+| bip_39_word_new_line_10 | borrow
 angle
 tide
 force
@@ -55,7 +55,7 @@ hurry
 half
 ginger
 solid |  
-| bip_39_word_new_line11 | borrow
+| bip_39_word_new_line_11 | borrow
 angle
 tide
 force
@@ -66,7 +66,7 @@ half
 ginger
 solid
 rescue |  
-| bip_39_word_new_line12 | borrow
+| bip_39_word_new_line_12 | borrow
 angle
 tide
 force
@@ -78,34 +78,34 @@ ginger
 solid
 rescue
 artwork |  
-| bip_39_word_new_line2 | borrow
+| bip_39_word_new_line_2 | borrow
 angle |  
-| bip_39_word_new_line3 | borrow
+| bip_39_word_new_line_3 | borrow
 angle
 tide |  
-| bip_39_word_new_line4 | borrow
+| bip_39_word_new_line_4 | borrow
 angle
 tide
 force |  
-| bip_39_word_new_line5 | borrow
+| bip_39_word_new_line_5 | borrow
 angle
 tide
 force
 true |  
-| bip_39_word_new_line6 | borrow
+| bip_39_word_new_line_6 | borrow
 angle
 tide
 force
 true
 power |  
-| bip_39_word_new_line7 | borrow
+| bip_39_word_new_line_7 | borrow
 angle
 tide
 force
 true
 power
 hurry |  
-| bip_39_word_new_line8 | borrow
+| bip_39_word_new_line_8 | borrow
 angle
 tide
 force
@@ -113,7 +113,7 @@ true
 power
 hurry
 half |  
-| bip_39_word_new_line9 | borrow
+| bip_39_word_new_line_9 | borrow
 angle
 tide
 force

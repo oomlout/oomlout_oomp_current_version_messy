@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | enemy |  
-| bip_39_word_new_br10 | enemy<br>bind<br>double<br>humor<br>sleep<br>mobile<br>loan<br>warm<br>solution<br>race |  
-| bip_39_word_new_br11 | enemy<br>bind<br>double<br>humor<br>sleep<br>mobile<br>loan<br>warm<br>solution<br>race<br>rich |  
-| bip_39_word_new_br12 | enemy<br>bind<br>double<br>humor<br>sleep<br>mobile<br>loan<br>warm<br>solution<br>race<br>rich<br>amazing |  
-| bip_39_word_new_br2 | enemy<br>bind |  
-| bip_39_word_new_br3 | enemy<br>bind<br>double |  
-| bip_39_word_new_br4 | enemy<br>bind<br>double<br>humor |  
-| bip_39_word_new_br5 | enemy<br>bind<br>double<br>humor<br>sleep |  
-| bip_39_word_new_br6 | enemy<br>bind<br>double<br>humor<br>sleep<br>mobile |  
-| bip_39_word_new_br7 | enemy<br>bind<br>double<br>humor<br>sleep<br>mobile<br>loan |  
-| bip_39_word_new_br8 | enemy<br>bind<br>double<br>humor<br>sleep<br>mobile<br>loan<br>warm |  
-| bip_39_word_new_br9 | enemy<br>bind<br>double<br>humor<br>sleep<br>mobile<br>loan<br>warm<br>solution |  
-| bip_39_word_new_line1 | enemy |  
-| bip_39_word_new_line10 | enemy
+| bip_39_word_new_br_1 | enemy |  
+| bip_39_word_new_br_10 | enemy<br>bind<br>double<br>humor<br>sleep<br>mobile<br>loan<br>warm<br>solution<br>race |  
+| bip_39_word_new_br_11 | enemy<br>bind<br>double<br>humor<br>sleep<br>mobile<br>loan<br>warm<br>solution<br>race<br>rich |  
+| bip_39_word_new_br_12 | enemy<br>bind<br>double<br>humor<br>sleep<br>mobile<br>loan<br>warm<br>solution<br>race<br>rich<br>amazing |  
+| bip_39_word_new_br_2 | enemy<br>bind |  
+| bip_39_word_new_br_3 | enemy<br>bind<br>double |  
+| bip_39_word_new_br_4 | enemy<br>bind<br>double<br>humor |  
+| bip_39_word_new_br_5 | enemy<br>bind<br>double<br>humor<br>sleep |  
+| bip_39_word_new_br_6 | enemy<br>bind<br>double<br>humor<br>sleep<br>mobile |  
+| bip_39_word_new_br_7 | enemy<br>bind<br>double<br>humor<br>sleep<br>mobile<br>loan |  
+| bip_39_word_new_br_8 | enemy<br>bind<br>double<br>humor<br>sleep<br>mobile<br>loan<br>warm |  
+| bip_39_word_new_br_9 | enemy<br>bind<br>double<br>humor<br>sleep<br>mobile<br>loan<br>warm<br>solution |  
+| bip_39_word_new_line_1 | enemy |  
+| bip_39_word_new_line_10 | enemy
 bind
 double
 humor
@@ -55,7 +55,7 @@ loan
 warm
 solution
 race |  
-| bip_39_word_new_line11 | enemy
+| bip_39_word_new_line_11 | enemy
 bind
 double
 humor
@@ -66,7 +66,7 @@ warm
 solution
 race
 rich |  
-| bip_39_word_new_line12 | enemy
+| bip_39_word_new_line_12 | enemy
 bind
 double
 humor
@@ -78,34 +78,34 @@ solution
 race
 rich
 amazing |  
-| bip_39_word_new_line2 | enemy
+| bip_39_word_new_line_2 | enemy
 bind |  
-| bip_39_word_new_line3 | enemy
+| bip_39_word_new_line_3 | enemy
 bind
 double |  
-| bip_39_word_new_line4 | enemy
+| bip_39_word_new_line_4 | enemy
 bind
 double
 humor |  
-| bip_39_word_new_line5 | enemy
+| bip_39_word_new_line_5 | enemy
 bind
 double
 humor
 sleep |  
-| bip_39_word_new_line6 | enemy
+| bip_39_word_new_line_6 | enemy
 bind
 double
 humor
 sleep
 mobile |  
-| bip_39_word_new_line7 | enemy
+| bip_39_word_new_line_7 | enemy
 bind
 double
 humor
 sleep
 mobile
 loan |  
-| bip_39_word_new_line8 | enemy
+| bip_39_word_new_line_8 | enemy
 bind
 double
 humor
@@ -113,7 +113,7 @@ sleep
 mobile
 loan
 warm |  
-| bip_39_word_new_line9 | enemy
+| bip_39_word_new_line_9 | enemy
 bind
 double
 humor

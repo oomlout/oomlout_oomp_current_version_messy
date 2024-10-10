@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | kangaroo |  
-| bip_39_word_new_br10 | kangaroo<br>dial<br>planet<br>holiday<br>trim<br>long<br>pulse<br>belt<br>payment<br>orphan |  
-| bip_39_word_new_br11 | kangaroo<br>dial<br>planet<br>holiday<br>trim<br>long<br>pulse<br>belt<br>payment<br>orphan<br>okay |  
-| bip_39_word_new_br12 | kangaroo<br>dial<br>planet<br>holiday<br>trim<br>long<br>pulse<br>belt<br>payment<br>orphan<br>okay<br>apology |  
-| bip_39_word_new_br2 | kangaroo<br>dial |  
-| bip_39_word_new_br3 | kangaroo<br>dial<br>planet |  
-| bip_39_word_new_br4 | kangaroo<br>dial<br>planet<br>holiday |  
-| bip_39_word_new_br5 | kangaroo<br>dial<br>planet<br>holiday<br>trim |  
-| bip_39_word_new_br6 | kangaroo<br>dial<br>planet<br>holiday<br>trim<br>long |  
-| bip_39_word_new_br7 | kangaroo<br>dial<br>planet<br>holiday<br>trim<br>long<br>pulse |  
-| bip_39_word_new_br8 | kangaroo<br>dial<br>planet<br>holiday<br>trim<br>long<br>pulse<br>belt |  
-| bip_39_word_new_br9 | kangaroo<br>dial<br>planet<br>holiday<br>trim<br>long<br>pulse<br>belt<br>payment |  
-| bip_39_word_new_line1 | kangaroo |  
-| bip_39_word_new_line10 | kangaroo
+| bip_39_word_new_br_1 | kangaroo |  
+| bip_39_word_new_br_10 | kangaroo<br>dial<br>planet<br>holiday<br>trim<br>long<br>pulse<br>belt<br>payment<br>orphan |  
+| bip_39_word_new_br_11 | kangaroo<br>dial<br>planet<br>holiday<br>trim<br>long<br>pulse<br>belt<br>payment<br>orphan<br>okay |  
+| bip_39_word_new_br_12 | kangaroo<br>dial<br>planet<br>holiday<br>trim<br>long<br>pulse<br>belt<br>payment<br>orphan<br>okay<br>apology |  
+| bip_39_word_new_br_2 | kangaroo<br>dial |  
+| bip_39_word_new_br_3 | kangaroo<br>dial<br>planet |  
+| bip_39_word_new_br_4 | kangaroo<br>dial<br>planet<br>holiday |  
+| bip_39_word_new_br_5 | kangaroo<br>dial<br>planet<br>holiday<br>trim |  
+| bip_39_word_new_br_6 | kangaroo<br>dial<br>planet<br>holiday<br>trim<br>long |  
+| bip_39_word_new_br_7 | kangaroo<br>dial<br>planet<br>holiday<br>trim<br>long<br>pulse |  
+| bip_39_word_new_br_8 | kangaroo<br>dial<br>planet<br>holiday<br>trim<br>long<br>pulse<br>belt |  
+| bip_39_word_new_br_9 | kangaroo<br>dial<br>planet<br>holiday<br>trim<br>long<br>pulse<br>belt<br>payment |  
+| bip_39_word_new_line_1 | kangaroo |  
+| bip_39_word_new_line_10 | kangaroo
 dial
 planet
 holiday
@@ -55,7 +55,7 @@ pulse
 belt
 payment
 orphan |  
-| bip_39_word_new_line11 | kangaroo
+| bip_39_word_new_line_11 | kangaroo
 dial
 planet
 holiday
@@ -66,7 +66,7 @@ belt
 payment
 orphan
 okay |  
-| bip_39_word_new_line12 | kangaroo
+| bip_39_word_new_line_12 | kangaroo
 dial
 planet
 holiday
@@ -78,34 +78,34 @@ payment
 orphan
 okay
 apology |  
-| bip_39_word_new_line2 | kangaroo
+| bip_39_word_new_line_2 | kangaroo
 dial |  
-| bip_39_word_new_line3 | kangaroo
+| bip_39_word_new_line_3 | kangaroo
 dial
 planet |  
-| bip_39_word_new_line4 | kangaroo
+| bip_39_word_new_line_4 | kangaroo
 dial
 planet
 holiday |  
-| bip_39_word_new_line5 | kangaroo
+| bip_39_word_new_line_5 | kangaroo
 dial
 planet
 holiday
 trim |  
-| bip_39_word_new_line6 | kangaroo
+| bip_39_word_new_line_6 | kangaroo
 dial
 planet
 holiday
 trim
 long |  
-| bip_39_word_new_line7 | kangaroo
+| bip_39_word_new_line_7 | kangaroo
 dial
 planet
 holiday
 trim
 long
 pulse |  
-| bip_39_word_new_line8 | kangaroo
+| bip_39_word_new_line_8 | kangaroo
 dial
 planet
 holiday
@@ -113,7 +113,7 @@ trim
 long
 pulse
 belt |  
-| bip_39_word_new_line9 | kangaroo
+| bip_39_word_new_line_9 | kangaroo
 dial
 planet
 holiday

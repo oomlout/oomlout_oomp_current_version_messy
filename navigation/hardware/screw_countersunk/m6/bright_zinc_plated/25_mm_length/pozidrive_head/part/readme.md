@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | discover |  
-| bip_39_word_new_br10 | discover<br>kite<br>fan<br>oval<br>vibrant<br>correct<br>bottom<br>mom<br>biology<br>earn |  
-| bip_39_word_new_br11 | discover<br>kite<br>fan<br>oval<br>vibrant<br>correct<br>bottom<br>mom<br>biology<br>earn<br>pelican |  
-| bip_39_word_new_br12 | discover<br>kite<br>fan<br>oval<br>vibrant<br>correct<br>bottom<br>mom<br>biology<br>earn<br>pelican<br>another |  
-| bip_39_word_new_br2 | discover<br>kite |  
-| bip_39_word_new_br3 | discover<br>kite<br>fan |  
-| bip_39_word_new_br4 | discover<br>kite<br>fan<br>oval |  
-| bip_39_word_new_br5 | discover<br>kite<br>fan<br>oval<br>vibrant |  
-| bip_39_word_new_br6 | discover<br>kite<br>fan<br>oval<br>vibrant<br>correct |  
-| bip_39_word_new_br7 | discover<br>kite<br>fan<br>oval<br>vibrant<br>correct<br>bottom |  
-| bip_39_word_new_br8 | discover<br>kite<br>fan<br>oval<br>vibrant<br>correct<br>bottom<br>mom |  
-| bip_39_word_new_br9 | discover<br>kite<br>fan<br>oval<br>vibrant<br>correct<br>bottom<br>mom<br>biology |  
-| bip_39_word_new_line1 | discover |  
-| bip_39_word_new_line10 | discover
+| bip_39_word_new_br_1 | discover |  
+| bip_39_word_new_br_10 | discover<br>kite<br>fan<br>oval<br>vibrant<br>correct<br>bottom<br>mom<br>biology<br>earn |  
+| bip_39_word_new_br_11 | discover<br>kite<br>fan<br>oval<br>vibrant<br>correct<br>bottom<br>mom<br>biology<br>earn<br>pelican |  
+| bip_39_word_new_br_12 | discover<br>kite<br>fan<br>oval<br>vibrant<br>correct<br>bottom<br>mom<br>biology<br>earn<br>pelican<br>another |  
+| bip_39_word_new_br_2 | discover<br>kite |  
+| bip_39_word_new_br_3 | discover<br>kite<br>fan |  
+| bip_39_word_new_br_4 | discover<br>kite<br>fan<br>oval |  
+| bip_39_word_new_br_5 | discover<br>kite<br>fan<br>oval<br>vibrant |  
+| bip_39_word_new_br_6 | discover<br>kite<br>fan<br>oval<br>vibrant<br>correct |  
+| bip_39_word_new_br_7 | discover<br>kite<br>fan<br>oval<br>vibrant<br>correct<br>bottom |  
+| bip_39_word_new_br_8 | discover<br>kite<br>fan<br>oval<br>vibrant<br>correct<br>bottom<br>mom |  
+| bip_39_word_new_br_9 | discover<br>kite<br>fan<br>oval<br>vibrant<br>correct<br>bottom<br>mom<br>biology |  
+| bip_39_word_new_line_1 | discover |  
+| bip_39_word_new_line_10 | discover
 kite
 fan
 oval
@@ -55,7 +55,7 @@ bottom
 mom
 biology
 earn |  
-| bip_39_word_new_line11 | discover
+| bip_39_word_new_line_11 | discover
 kite
 fan
 oval
@@ -66,7 +66,7 @@ mom
 biology
 earn
 pelican |  
-| bip_39_word_new_line12 | discover
+| bip_39_word_new_line_12 | discover
 kite
 fan
 oval
@@ -78,34 +78,34 @@ biology
 earn
 pelican
 another |  
-| bip_39_word_new_line2 | discover
+| bip_39_word_new_line_2 | discover
 kite |  
-| bip_39_word_new_line3 | discover
+| bip_39_word_new_line_3 | discover
 kite
 fan |  
-| bip_39_word_new_line4 | discover
+| bip_39_word_new_line_4 | discover
 kite
 fan
 oval |  
-| bip_39_word_new_line5 | discover
+| bip_39_word_new_line_5 | discover
 kite
 fan
 oval
 vibrant |  
-| bip_39_word_new_line6 | discover
+| bip_39_word_new_line_6 | discover
 kite
 fan
 oval
 vibrant
 correct |  
-| bip_39_word_new_line7 | discover
+| bip_39_word_new_line_7 | discover
 kite
 fan
 oval
 vibrant
 correct
 bottom |  
-| bip_39_word_new_line8 | discover
+| bip_39_word_new_line_8 | discover
 kite
 fan
 oval
@@ -113,7 +113,7 @@ vibrant
 correct
 bottom
 mom |  
-| bip_39_word_new_line9 | discover
+| bip_39_word_new_line_9 | discover
 kite
 fan
 oval

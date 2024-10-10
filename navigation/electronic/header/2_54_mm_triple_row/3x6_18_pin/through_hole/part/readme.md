@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | clean |  
-| bip_39_word_new_br10 | clean<br>lion<br>large<br>fever<br>tool<br>identify<br>eyebrow<br>olive<br>pave<br>minor |  
-| bip_39_word_new_br11 | clean<br>lion<br>large<br>fever<br>tool<br>identify<br>eyebrow<br>olive<br>pave<br>minor<br>mass |  
-| bip_39_word_new_br12 | clean<br>lion<br>large<br>fever<br>tool<br>identify<br>eyebrow<br>olive<br>pave<br>minor<br>mass<br>all |  
-| bip_39_word_new_br2 | clean<br>lion |  
-| bip_39_word_new_br3 | clean<br>lion<br>large |  
-| bip_39_word_new_br4 | clean<br>lion<br>large<br>fever |  
-| bip_39_word_new_br5 | clean<br>lion<br>large<br>fever<br>tool |  
-| bip_39_word_new_br6 | clean<br>lion<br>large<br>fever<br>tool<br>identify |  
-| bip_39_word_new_br7 | clean<br>lion<br>large<br>fever<br>tool<br>identify<br>eyebrow |  
-| bip_39_word_new_br8 | clean<br>lion<br>large<br>fever<br>tool<br>identify<br>eyebrow<br>olive |  
-| bip_39_word_new_br9 | clean<br>lion<br>large<br>fever<br>tool<br>identify<br>eyebrow<br>olive<br>pave |  
-| bip_39_word_new_line1 | clean |  
-| bip_39_word_new_line10 | clean
+| bip_39_word_new_br_1 | clean |  
+| bip_39_word_new_br_10 | clean<br>lion<br>large<br>fever<br>tool<br>identify<br>eyebrow<br>olive<br>pave<br>minor |  
+| bip_39_word_new_br_11 | clean<br>lion<br>large<br>fever<br>tool<br>identify<br>eyebrow<br>olive<br>pave<br>minor<br>mass |  
+| bip_39_word_new_br_12 | clean<br>lion<br>large<br>fever<br>tool<br>identify<br>eyebrow<br>olive<br>pave<br>minor<br>mass<br>all |  
+| bip_39_word_new_br_2 | clean<br>lion |  
+| bip_39_word_new_br_3 | clean<br>lion<br>large |  
+| bip_39_word_new_br_4 | clean<br>lion<br>large<br>fever |  
+| bip_39_word_new_br_5 | clean<br>lion<br>large<br>fever<br>tool |  
+| bip_39_word_new_br_6 | clean<br>lion<br>large<br>fever<br>tool<br>identify |  
+| bip_39_word_new_br_7 | clean<br>lion<br>large<br>fever<br>tool<br>identify<br>eyebrow |  
+| bip_39_word_new_br_8 | clean<br>lion<br>large<br>fever<br>tool<br>identify<br>eyebrow<br>olive |  
+| bip_39_word_new_br_9 | clean<br>lion<br>large<br>fever<br>tool<br>identify<br>eyebrow<br>olive<br>pave |  
+| bip_39_word_new_line_1 | clean |  
+| bip_39_word_new_line_10 | clean
 lion
 large
 fever
@@ -55,7 +55,7 @@ eyebrow
 olive
 pave
 minor |  
-| bip_39_word_new_line11 | clean
+| bip_39_word_new_line_11 | clean
 lion
 large
 fever
@@ -66,7 +66,7 @@ olive
 pave
 minor
 mass |  
-| bip_39_word_new_line12 | clean
+| bip_39_word_new_line_12 | clean
 lion
 large
 fever
@@ -78,34 +78,34 @@ pave
 minor
 mass
 all |  
-| bip_39_word_new_line2 | clean
+| bip_39_word_new_line_2 | clean
 lion |  
-| bip_39_word_new_line3 | clean
+| bip_39_word_new_line_3 | clean
 lion
 large |  
-| bip_39_word_new_line4 | clean
+| bip_39_word_new_line_4 | clean
 lion
 large
 fever |  
-| bip_39_word_new_line5 | clean
+| bip_39_word_new_line_5 | clean
 lion
 large
 fever
 tool |  
-| bip_39_word_new_line6 | clean
+| bip_39_word_new_line_6 | clean
 lion
 large
 fever
 tool
 identify |  
-| bip_39_word_new_line7 | clean
+| bip_39_word_new_line_7 | clean
 lion
 large
 fever
 tool
 identify
 eyebrow |  
-| bip_39_word_new_line8 | clean
+| bip_39_word_new_line_8 | clean
 lion
 large
 fever
@@ -113,7 +113,7 @@ tool
 identify
 eyebrow
 olive |  
-| bip_39_word_new_line9 | clean
+| bip_39_word_new_line_9 | clean
 lion
 large
 fever

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bamboo |  
-| bip_39_word_new_br10 | bamboo<br>coach<br>upset<br>team<br>priority<br>fashion<br>weekend<br>train<br>can<br>snack |  
-| bip_39_word_new_br11 | bamboo<br>coach<br>upset<br>team<br>priority<br>fashion<br>weekend<br>train<br>can<br>snack<br>unfold |  
-| bip_39_word_new_br12 | bamboo<br>coach<br>upset<br>team<br>priority<br>fashion<br>weekend<br>train<br>can<br>snack<br>unfold<br>alley |  
-| bip_39_word_new_br2 | bamboo<br>coach |  
-| bip_39_word_new_br3 | bamboo<br>coach<br>upset |  
-| bip_39_word_new_br4 | bamboo<br>coach<br>upset<br>team |  
-| bip_39_word_new_br5 | bamboo<br>coach<br>upset<br>team<br>priority |  
-| bip_39_word_new_br6 | bamboo<br>coach<br>upset<br>team<br>priority<br>fashion |  
-| bip_39_word_new_br7 | bamboo<br>coach<br>upset<br>team<br>priority<br>fashion<br>weekend |  
-| bip_39_word_new_br8 | bamboo<br>coach<br>upset<br>team<br>priority<br>fashion<br>weekend<br>train |  
-| bip_39_word_new_br9 | bamboo<br>coach<br>upset<br>team<br>priority<br>fashion<br>weekend<br>train<br>can |  
-| bip_39_word_new_line1 | bamboo |  
-| bip_39_word_new_line10 | bamboo
+| bip_39_word_new_br_1 | bamboo |  
+| bip_39_word_new_br_10 | bamboo<br>coach<br>upset<br>team<br>priority<br>fashion<br>weekend<br>train<br>can<br>snack |  
+| bip_39_word_new_br_11 | bamboo<br>coach<br>upset<br>team<br>priority<br>fashion<br>weekend<br>train<br>can<br>snack<br>unfold |  
+| bip_39_word_new_br_12 | bamboo<br>coach<br>upset<br>team<br>priority<br>fashion<br>weekend<br>train<br>can<br>snack<br>unfold<br>alley |  
+| bip_39_word_new_br_2 | bamboo<br>coach |  
+| bip_39_word_new_br_3 | bamboo<br>coach<br>upset |  
+| bip_39_word_new_br_4 | bamboo<br>coach<br>upset<br>team |  
+| bip_39_word_new_br_5 | bamboo<br>coach<br>upset<br>team<br>priority |  
+| bip_39_word_new_br_6 | bamboo<br>coach<br>upset<br>team<br>priority<br>fashion |  
+| bip_39_word_new_br_7 | bamboo<br>coach<br>upset<br>team<br>priority<br>fashion<br>weekend |  
+| bip_39_word_new_br_8 | bamboo<br>coach<br>upset<br>team<br>priority<br>fashion<br>weekend<br>train |  
+| bip_39_word_new_br_9 | bamboo<br>coach<br>upset<br>team<br>priority<br>fashion<br>weekend<br>train<br>can |  
+| bip_39_word_new_line_1 | bamboo |  
+| bip_39_word_new_line_10 | bamboo
 coach
 upset
 team
@@ -55,7 +55,7 @@ weekend
 train
 can
 snack |  
-| bip_39_word_new_line11 | bamboo
+| bip_39_word_new_line_11 | bamboo
 coach
 upset
 team
@@ -66,7 +66,7 @@ train
 can
 snack
 unfold |  
-| bip_39_word_new_line12 | bamboo
+| bip_39_word_new_line_12 | bamboo
 coach
 upset
 team
@@ -78,34 +78,34 @@ can
 snack
 unfold
 alley |  
-| bip_39_word_new_line2 | bamboo
+| bip_39_word_new_line_2 | bamboo
 coach |  
-| bip_39_word_new_line3 | bamboo
+| bip_39_word_new_line_3 | bamboo
 coach
 upset |  
-| bip_39_word_new_line4 | bamboo
+| bip_39_word_new_line_4 | bamboo
 coach
 upset
 team |  
-| bip_39_word_new_line5 | bamboo
+| bip_39_word_new_line_5 | bamboo
 coach
 upset
 team
 priority |  
-| bip_39_word_new_line6 | bamboo
+| bip_39_word_new_line_6 | bamboo
 coach
 upset
 team
 priority
 fashion |  
-| bip_39_word_new_line7 | bamboo
+| bip_39_word_new_line_7 | bamboo
 coach
 upset
 team
 priority
 fashion
 weekend |  
-| bip_39_word_new_line8 | bamboo
+| bip_39_word_new_line_8 | bamboo
 coach
 upset
 team
@@ -113,7 +113,7 @@ priority
 fashion
 weekend
 train |  
-| bip_39_word_new_line9 | bamboo
+| bip_39_word_new_line_9 | bamboo
 coach
 upset
 team

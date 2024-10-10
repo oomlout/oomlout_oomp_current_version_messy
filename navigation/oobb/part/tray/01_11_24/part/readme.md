@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | answer |  
-| bip_39_word_new_br10 | answer<br>talent<br>cave<br>season<br>stand<br>gas<br>frozen<br>obtain<br>hurdle<br>apple |  
-| bip_39_word_new_br11 | answer<br>talent<br>cave<br>season<br>stand<br>gas<br>frozen<br>obtain<br>hurdle<br>apple<br>cliff |  
-| bip_39_word_new_br12 | answer<br>talent<br>cave<br>season<br>stand<br>gas<br>frozen<br>obtain<br>hurdle<br>apple<br>cliff<br>armor |  
-| bip_39_word_new_br2 | answer<br>talent |  
-| bip_39_word_new_br3 | answer<br>talent<br>cave |  
-| bip_39_word_new_br4 | answer<br>talent<br>cave<br>season |  
-| bip_39_word_new_br5 | answer<br>talent<br>cave<br>season<br>stand |  
-| bip_39_word_new_br6 | answer<br>talent<br>cave<br>season<br>stand<br>gas |  
-| bip_39_word_new_br7 | answer<br>talent<br>cave<br>season<br>stand<br>gas<br>frozen |  
-| bip_39_word_new_br8 | answer<br>talent<br>cave<br>season<br>stand<br>gas<br>frozen<br>obtain |  
-| bip_39_word_new_br9 | answer<br>talent<br>cave<br>season<br>stand<br>gas<br>frozen<br>obtain<br>hurdle |  
-| bip_39_word_new_line1 | answer |  
-| bip_39_word_new_line10 | answer
+| bip_39_word_new_br_1 | answer |  
+| bip_39_word_new_br_10 | answer<br>talent<br>cave<br>season<br>stand<br>gas<br>frozen<br>obtain<br>hurdle<br>apple |  
+| bip_39_word_new_br_11 | answer<br>talent<br>cave<br>season<br>stand<br>gas<br>frozen<br>obtain<br>hurdle<br>apple<br>cliff |  
+| bip_39_word_new_br_12 | answer<br>talent<br>cave<br>season<br>stand<br>gas<br>frozen<br>obtain<br>hurdle<br>apple<br>cliff<br>armor |  
+| bip_39_word_new_br_2 | answer<br>talent |  
+| bip_39_word_new_br_3 | answer<br>talent<br>cave |  
+| bip_39_word_new_br_4 | answer<br>talent<br>cave<br>season |  
+| bip_39_word_new_br_5 | answer<br>talent<br>cave<br>season<br>stand |  
+| bip_39_word_new_br_6 | answer<br>talent<br>cave<br>season<br>stand<br>gas |  
+| bip_39_word_new_br_7 | answer<br>talent<br>cave<br>season<br>stand<br>gas<br>frozen |  
+| bip_39_word_new_br_8 | answer<br>talent<br>cave<br>season<br>stand<br>gas<br>frozen<br>obtain |  
+| bip_39_word_new_br_9 | answer<br>talent<br>cave<br>season<br>stand<br>gas<br>frozen<br>obtain<br>hurdle |  
+| bip_39_word_new_line_1 | answer |  
+| bip_39_word_new_line_10 | answer
 talent
 cave
 season
@@ -55,7 +55,7 @@ frozen
 obtain
 hurdle
 apple |  
-| bip_39_word_new_line11 | answer
+| bip_39_word_new_line_11 | answer
 talent
 cave
 season
@@ -66,7 +66,7 @@ obtain
 hurdle
 apple
 cliff |  
-| bip_39_word_new_line12 | answer
+| bip_39_word_new_line_12 | answer
 talent
 cave
 season
@@ -78,34 +78,34 @@ hurdle
 apple
 cliff
 armor |  
-| bip_39_word_new_line2 | answer
+| bip_39_word_new_line_2 | answer
 talent |  
-| bip_39_word_new_line3 | answer
+| bip_39_word_new_line_3 | answer
 talent
 cave |  
-| bip_39_word_new_line4 | answer
+| bip_39_word_new_line_4 | answer
 talent
 cave
 season |  
-| bip_39_word_new_line5 | answer
+| bip_39_word_new_line_5 | answer
 talent
 cave
 season
 stand |  
-| bip_39_word_new_line6 | answer
+| bip_39_word_new_line_6 | answer
 talent
 cave
 season
 stand
 gas |  
-| bip_39_word_new_line7 | answer
+| bip_39_word_new_line_7 | answer
 talent
 cave
 season
 stand
 gas
 frozen |  
-| bip_39_word_new_line8 | answer
+| bip_39_word_new_line_8 | answer
 talent
 cave
 season
@@ -113,7 +113,7 @@ stand
 gas
 frozen
 obtain |  
-| bip_39_word_new_line9 | answer
+| bip_39_word_new_line_9 | answer
 talent
 cave
 season

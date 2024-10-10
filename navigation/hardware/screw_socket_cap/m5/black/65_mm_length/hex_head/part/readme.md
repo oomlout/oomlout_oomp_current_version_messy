@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | slight |  
-| bip_39_word_new_br10 | slight<br>marriage<br>recall<br>intact<br>guess<br>stomach<br>rigid<br>divide<br>urge<br>print |  
-| bip_39_word_new_br11 | slight<br>marriage<br>recall<br>intact<br>guess<br>stomach<br>rigid<br>divide<br>urge<br>print<br>inquiry |  
-| bip_39_word_new_br12 | slight<br>marriage<br>recall<br>intact<br>guess<br>stomach<br>rigid<br>divide<br>urge<br>print<br>inquiry<br>asthma |  
-| bip_39_word_new_br2 | slight<br>marriage |  
-| bip_39_word_new_br3 | slight<br>marriage<br>recall |  
-| bip_39_word_new_br4 | slight<br>marriage<br>recall<br>intact |  
-| bip_39_word_new_br5 | slight<br>marriage<br>recall<br>intact<br>guess |  
-| bip_39_word_new_br6 | slight<br>marriage<br>recall<br>intact<br>guess<br>stomach |  
-| bip_39_word_new_br7 | slight<br>marriage<br>recall<br>intact<br>guess<br>stomach<br>rigid |  
-| bip_39_word_new_br8 | slight<br>marriage<br>recall<br>intact<br>guess<br>stomach<br>rigid<br>divide |  
-| bip_39_word_new_br9 | slight<br>marriage<br>recall<br>intact<br>guess<br>stomach<br>rigid<br>divide<br>urge |  
-| bip_39_word_new_line1 | slight |  
-| bip_39_word_new_line10 | slight
+| bip_39_word_new_br_1 | slight |  
+| bip_39_word_new_br_10 | slight<br>marriage<br>recall<br>intact<br>guess<br>stomach<br>rigid<br>divide<br>urge<br>print |  
+| bip_39_word_new_br_11 | slight<br>marriage<br>recall<br>intact<br>guess<br>stomach<br>rigid<br>divide<br>urge<br>print<br>inquiry |  
+| bip_39_word_new_br_12 | slight<br>marriage<br>recall<br>intact<br>guess<br>stomach<br>rigid<br>divide<br>urge<br>print<br>inquiry<br>asthma |  
+| bip_39_word_new_br_2 | slight<br>marriage |  
+| bip_39_word_new_br_3 | slight<br>marriage<br>recall |  
+| bip_39_word_new_br_4 | slight<br>marriage<br>recall<br>intact |  
+| bip_39_word_new_br_5 | slight<br>marriage<br>recall<br>intact<br>guess |  
+| bip_39_word_new_br_6 | slight<br>marriage<br>recall<br>intact<br>guess<br>stomach |  
+| bip_39_word_new_br_7 | slight<br>marriage<br>recall<br>intact<br>guess<br>stomach<br>rigid |  
+| bip_39_word_new_br_8 | slight<br>marriage<br>recall<br>intact<br>guess<br>stomach<br>rigid<br>divide |  
+| bip_39_word_new_br_9 | slight<br>marriage<br>recall<br>intact<br>guess<br>stomach<br>rigid<br>divide<br>urge |  
+| bip_39_word_new_line_1 | slight |  
+| bip_39_word_new_line_10 | slight
 marriage
 recall
 intact
@@ -55,7 +55,7 @@ rigid
 divide
 urge
 print |  
-| bip_39_word_new_line11 | slight
+| bip_39_word_new_line_11 | slight
 marriage
 recall
 intact
@@ -66,7 +66,7 @@ divide
 urge
 print
 inquiry |  
-| bip_39_word_new_line12 | slight
+| bip_39_word_new_line_12 | slight
 marriage
 recall
 intact
@@ -78,34 +78,34 @@ urge
 print
 inquiry
 asthma |  
-| bip_39_word_new_line2 | slight
+| bip_39_word_new_line_2 | slight
 marriage |  
-| bip_39_word_new_line3 | slight
+| bip_39_word_new_line_3 | slight
 marriage
 recall |  
-| bip_39_word_new_line4 | slight
+| bip_39_word_new_line_4 | slight
 marriage
 recall
 intact |  
-| bip_39_word_new_line5 | slight
+| bip_39_word_new_line_5 | slight
 marriage
 recall
 intact
 guess |  
-| bip_39_word_new_line6 | slight
+| bip_39_word_new_line_6 | slight
 marriage
 recall
 intact
 guess
 stomach |  
-| bip_39_word_new_line7 | slight
+| bip_39_word_new_line_7 | slight
 marriage
 recall
 intact
 guess
 stomach
 rigid |  
-| bip_39_word_new_line8 | slight
+| bip_39_word_new_line_8 | slight
 marriage
 recall
 intact
@@ -113,7 +113,7 @@ guess
 stomach
 rigid
 divide |  
-| bip_39_word_new_line9 | slight
+| bip_39_word_new_line_9 | slight
 marriage
 recall
 intact

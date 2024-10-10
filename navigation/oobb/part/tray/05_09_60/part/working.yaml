@@ -1,17 +1,17 @@
-bip_39_word_new_br1: liberty
-bip_39_word_new_br10: liberty<br>toward<br>spirit<br>blast<br>powder<br>butter<br>fatigue<br>else<br>average<br>sphere
-bip_39_word_new_br11: liberty<br>toward<br>spirit<br>blast<br>powder<br>butter<br>fatigue<br>else<br>average<br>sphere<br>fever
-bip_39_word_new_br12: liberty<br>toward<br>spirit<br>blast<br>powder<br>butter<br>fatigue<br>else<br>average<br>sphere<br>fever<br>always
-bip_39_word_new_br2: liberty<br>toward
-bip_39_word_new_br3: liberty<br>toward<br>spirit
-bip_39_word_new_br4: liberty<br>toward<br>spirit<br>blast
-bip_39_word_new_br5: liberty<br>toward<br>spirit<br>blast<br>powder
-bip_39_word_new_br6: liberty<br>toward<br>spirit<br>blast<br>powder<br>butter
-bip_39_word_new_br7: liberty<br>toward<br>spirit<br>blast<br>powder<br>butter<br>fatigue
-bip_39_word_new_br8: liberty<br>toward<br>spirit<br>blast<br>powder<br>butter<br>fatigue<br>else
-bip_39_word_new_br9: liberty<br>toward<br>spirit<br>blast<br>powder<br>butter<br>fatigue<br>else<br>average
-bip_39_word_new_line1: liberty
-bip_39_word_new_line10: 'liberty
+bip_39_word_new_br_1: liberty
+bip_39_word_new_br_10: liberty<br>toward<br>spirit<br>blast<br>powder<br>butter<br>fatigue<br>else<br>average<br>sphere
+bip_39_word_new_br_11: liberty<br>toward<br>spirit<br>blast<br>powder<br>butter<br>fatigue<br>else<br>average<br>sphere<br>fever
+bip_39_word_new_br_12: liberty<br>toward<br>spirit<br>blast<br>powder<br>butter<br>fatigue<br>else<br>average<br>sphere<br>fever<br>always
+bip_39_word_new_br_2: liberty<br>toward
+bip_39_word_new_br_3: liberty<br>toward<br>spirit
+bip_39_word_new_br_4: liberty<br>toward<br>spirit<br>blast
+bip_39_word_new_br_5: liberty<br>toward<br>spirit<br>blast<br>powder
+bip_39_word_new_br_6: liberty<br>toward<br>spirit<br>blast<br>powder<br>butter
+bip_39_word_new_br_7: liberty<br>toward<br>spirit<br>blast<br>powder<br>butter<br>fatigue
+bip_39_word_new_br_8: liberty<br>toward<br>spirit<br>blast<br>powder<br>butter<br>fatigue<br>else
+bip_39_word_new_br_9: liberty<br>toward<br>spirit<br>blast<br>powder<br>butter<br>fatigue<br>else<br>average
+bip_39_word_new_line_1: liberty
+bip_39_word_new_line_10: 'liberty
 
   toward
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'liberty
   average
 
   sphere'
-bip_39_word_new_line11: 'liberty
+bip_39_word_new_line_11: 'liberty
 
   toward
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'liberty
   sphere
 
   fever'
-bip_39_word_new_line12: 'liberty
+bip_39_word_new_line_12: 'liberty
 
   toward
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'liberty
   fever
 
   always'
-bip_39_word_new_line2: 'liberty
+bip_39_word_new_line_2: 'liberty
 
   toward'
-bip_39_word_new_line3: 'liberty
+bip_39_word_new_line_3: 'liberty
 
   toward
 
   spirit'
-bip_39_word_new_line4: 'liberty
+bip_39_word_new_line_4: 'liberty
 
   toward
 
   spirit
 
   blast'
-bip_39_word_new_line5: 'liberty
+bip_39_word_new_line_5: 'liberty
 
   toward
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'liberty
   blast
 
   powder'
-bip_39_word_new_line6: 'liberty
+bip_39_word_new_line_6: 'liberty
 
   toward
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'liberty
   powder
 
   butter'
-bip_39_word_new_line7: 'liberty
+bip_39_word_new_line_7: 'liberty
 
   toward
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'liberty
   butter
 
   fatigue'
-bip_39_word_new_line8: 'liberty
+bip_39_word_new_line_8: 'liberty
 
   toward
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'liberty
   fatigue
 
   else'
-bip_39_word_new_line9: 'liberty
+bip_39_word_new_line_9: 'liberty
 
   toward
 

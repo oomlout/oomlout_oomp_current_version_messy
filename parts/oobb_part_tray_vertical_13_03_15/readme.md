@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bag |  
-| bip_39_word_new_br10 | bag<br>wise<br>void<br>always<br>shy<br>cloth<br>float<br>pink<br>urban<br>maid |  
-| bip_39_word_new_br11 | bag<br>wise<br>void<br>always<br>shy<br>cloth<br>float<br>pink<br>urban<br>maid<br>woman |  
-| bip_39_word_new_br12 | bag<br>wise<br>void<br>always<br>shy<br>cloth<br>float<br>pink<br>urban<br>maid<br>woman<br>auto |  
-| bip_39_word_new_br2 | bag<br>wise |  
-| bip_39_word_new_br3 | bag<br>wise<br>void |  
-| bip_39_word_new_br4 | bag<br>wise<br>void<br>always |  
-| bip_39_word_new_br5 | bag<br>wise<br>void<br>always<br>shy |  
-| bip_39_word_new_br6 | bag<br>wise<br>void<br>always<br>shy<br>cloth |  
-| bip_39_word_new_br7 | bag<br>wise<br>void<br>always<br>shy<br>cloth<br>float |  
-| bip_39_word_new_br8 | bag<br>wise<br>void<br>always<br>shy<br>cloth<br>float<br>pink |  
-| bip_39_word_new_br9 | bag<br>wise<br>void<br>always<br>shy<br>cloth<br>float<br>pink<br>urban |  
-| bip_39_word_new_line1 | bag |  
-| bip_39_word_new_line10 | bag
+| bip_39_word_new_br_1 | bag |  
+| bip_39_word_new_br_10 | bag<br>wise<br>void<br>always<br>shy<br>cloth<br>float<br>pink<br>urban<br>maid |  
+| bip_39_word_new_br_11 | bag<br>wise<br>void<br>always<br>shy<br>cloth<br>float<br>pink<br>urban<br>maid<br>woman |  
+| bip_39_word_new_br_12 | bag<br>wise<br>void<br>always<br>shy<br>cloth<br>float<br>pink<br>urban<br>maid<br>woman<br>auto |  
+| bip_39_word_new_br_2 | bag<br>wise |  
+| bip_39_word_new_br_3 | bag<br>wise<br>void |  
+| bip_39_word_new_br_4 | bag<br>wise<br>void<br>always |  
+| bip_39_word_new_br_5 | bag<br>wise<br>void<br>always<br>shy |  
+| bip_39_word_new_br_6 | bag<br>wise<br>void<br>always<br>shy<br>cloth |  
+| bip_39_word_new_br_7 | bag<br>wise<br>void<br>always<br>shy<br>cloth<br>float |  
+| bip_39_word_new_br_8 | bag<br>wise<br>void<br>always<br>shy<br>cloth<br>float<br>pink |  
+| bip_39_word_new_br_9 | bag<br>wise<br>void<br>always<br>shy<br>cloth<br>float<br>pink<br>urban |  
+| bip_39_word_new_line_1 | bag |  
+| bip_39_word_new_line_10 | bag
 wise
 void
 always
@@ -55,7 +55,7 @@ float
 pink
 urban
 maid |  
-| bip_39_word_new_line11 | bag
+| bip_39_word_new_line_11 | bag
 wise
 void
 always
@@ -66,7 +66,7 @@ pink
 urban
 maid
 woman |  
-| bip_39_word_new_line12 | bag
+| bip_39_word_new_line_12 | bag
 wise
 void
 always
@@ -78,34 +78,34 @@ urban
 maid
 woman
 auto |  
-| bip_39_word_new_line2 | bag
+| bip_39_word_new_line_2 | bag
 wise |  
-| bip_39_word_new_line3 | bag
+| bip_39_word_new_line_3 | bag
 wise
 void |  
-| bip_39_word_new_line4 | bag
+| bip_39_word_new_line_4 | bag
 wise
 void
 always |  
-| bip_39_word_new_line5 | bag
+| bip_39_word_new_line_5 | bag
 wise
 void
 always
 shy |  
-| bip_39_word_new_line6 | bag
+| bip_39_word_new_line_6 | bag
 wise
 void
 always
 shy
 cloth |  
-| bip_39_word_new_line7 | bag
+| bip_39_word_new_line_7 | bag
 wise
 void
 always
 shy
 cloth
 float |  
-| bip_39_word_new_line8 | bag
+| bip_39_word_new_line_8 | bag
 wise
 void
 always
@@ -113,7 +113,7 @@ shy
 cloth
 float
 pink |  
-| bip_39_word_new_line9 | bag
+| bip_39_word_new_line_9 | bag
 wise
 void
 always

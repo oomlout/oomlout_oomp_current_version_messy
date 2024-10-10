@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | vote |  
-| bip_39_word_new_br10 | vote<br>early<br>nice<br>drive<br>elder<br>hobby<br>indoor<br>wife<br>since<br>lock |  
-| bip_39_word_new_br11 | vote<br>early<br>nice<br>drive<br>elder<br>hobby<br>indoor<br>wife<br>since<br>lock<br>three |  
-| bip_39_word_new_br12 | vote<br>early<br>nice<br>drive<br>elder<br>hobby<br>indoor<br>wife<br>since<br>lock<br>three<br>army |  
-| bip_39_word_new_br2 | vote<br>early |  
-| bip_39_word_new_br3 | vote<br>early<br>nice |  
-| bip_39_word_new_br4 | vote<br>early<br>nice<br>drive |  
-| bip_39_word_new_br5 | vote<br>early<br>nice<br>drive<br>elder |  
-| bip_39_word_new_br6 | vote<br>early<br>nice<br>drive<br>elder<br>hobby |  
-| bip_39_word_new_br7 | vote<br>early<br>nice<br>drive<br>elder<br>hobby<br>indoor |  
-| bip_39_word_new_br8 | vote<br>early<br>nice<br>drive<br>elder<br>hobby<br>indoor<br>wife |  
-| bip_39_word_new_br9 | vote<br>early<br>nice<br>drive<br>elder<br>hobby<br>indoor<br>wife<br>since |  
-| bip_39_word_new_line1 | vote |  
-| bip_39_word_new_line10 | vote
+| bip_39_word_new_br_1 | vote |  
+| bip_39_word_new_br_10 | vote<br>early<br>nice<br>drive<br>elder<br>hobby<br>indoor<br>wife<br>since<br>lock |  
+| bip_39_word_new_br_11 | vote<br>early<br>nice<br>drive<br>elder<br>hobby<br>indoor<br>wife<br>since<br>lock<br>three |  
+| bip_39_word_new_br_12 | vote<br>early<br>nice<br>drive<br>elder<br>hobby<br>indoor<br>wife<br>since<br>lock<br>three<br>army |  
+| bip_39_word_new_br_2 | vote<br>early |  
+| bip_39_word_new_br_3 | vote<br>early<br>nice |  
+| bip_39_word_new_br_4 | vote<br>early<br>nice<br>drive |  
+| bip_39_word_new_br_5 | vote<br>early<br>nice<br>drive<br>elder |  
+| bip_39_word_new_br_6 | vote<br>early<br>nice<br>drive<br>elder<br>hobby |  
+| bip_39_word_new_br_7 | vote<br>early<br>nice<br>drive<br>elder<br>hobby<br>indoor |  
+| bip_39_word_new_br_8 | vote<br>early<br>nice<br>drive<br>elder<br>hobby<br>indoor<br>wife |  
+| bip_39_word_new_br_9 | vote<br>early<br>nice<br>drive<br>elder<br>hobby<br>indoor<br>wife<br>since |  
+| bip_39_word_new_line_1 | vote |  
+| bip_39_word_new_line_10 | vote
 early
 nice
 drive
@@ -55,7 +55,7 @@ indoor
 wife
 since
 lock |  
-| bip_39_word_new_line11 | vote
+| bip_39_word_new_line_11 | vote
 early
 nice
 drive
@@ -66,7 +66,7 @@ wife
 since
 lock
 three |  
-| bip_39_word_new_line12 | vote
+| bip_39_word_new_line_12 | vote
 early
 nice
 drive
@@ -78,34 +78,34 @@ since
 lock
 three
 army |  
-| bip_39_word_new_line2 | vote
+| bip_39_word_new_line_2 | vote
 early |  
-| bip_39_word_new_line3 | vote
+| bip_39_word_new_line_3 | vote
 early
 nice |  
-| bip_39_word_new_line4 | vote
+| bip_39_word_new_line_4 | vote
 early
 nice
 drive |  
-| bip_39_word_new_line5 | vote
+| bip_39_word_new_line_5 | vote
 early
 nice
 drive
 elder |  
-| bip_39_word_new_line6 | vote
+| bip_39_word_new_line_6 | vote
 early
 nice
 drive
 elder
 hobby |  
-| bip_39_word_new_line7 | vote
+| bip_39_word_new_line_7 | vote
 early
 nice
 drive
 elder
 hobby
 indoor |  
-| bip_39_word_new_line8 | vote
+| bip_39_word_new_line_8 | vote
 early
 nice
 drive
@@ -113,7 +113,7 @@ elder
 hobby
 indoor
 wife |  
-| bip_39_word_new_line9 | vote
+| bip_39_word_new_line_9 | vote
 early
 nice
 drive

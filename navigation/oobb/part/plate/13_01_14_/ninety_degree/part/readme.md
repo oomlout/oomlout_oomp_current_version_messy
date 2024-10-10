@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | defy |  
-| bip_39_word_new_br10 | defy<br>deal<br>solid<br>loop<br>pupil<br>reveal<br>million<br>normal<br>story<br>coil |  
-| bip_39_word_new_br11 | defy<br>deal<br>solid<br>loop<br>pupil<br>reveal<br>million<br>normal<br>story<br>coil<br>notable |  
-| bip_39_word_new_br12 | defy<br>deal<br>solid<br>loop<br>pupil<br>reveal<br>million<br>normal<br>story<br>coil<br>notable<br>ability |  
-| bip_39_word_new_br2 | defy<br>deal |  
-| bip_39_word_new_br3 | defy<br>deal<br>solid |  
-| bip_39_word_new_br4 | defy<br>deal<br>solid<br>loop |  
-| bip_39_word_new_br5 | defy<br>deal<br>solid<br>loop<br>pupil |  
-| bip_39_word_new_br6 | defy<br>deal<br>solid<br>loop<br>pupil<br>reveal |  
-| bip_39_word_new_br7 | defy<br>deal<br>solid<br>loop<br>pupil<br>reveal<br>million |  
-| bip_39_word_new_br8 | defy<br>deal<br>solid<br>loop<br>pupil<br>reveal<br>million<br>normal |  
-| bip_39_word_new_br9 | defy<br>deal<br>solid<br>loop<br>pupil<br>reveal<br>million<br>normal<br>story |  
-| bip_39_word_new_line1 | defy |  
-| bip_39_word_new_line10 | defy
+| bip_39_word_new_br_1 | defy |  
+| bip_39_word_new_br_10 | defy<br>deal<br>solid<br>loop<br>pupil<br>reveal<br>million<br>normal<br>story<br>coil |  
+| bip_39_word_new_br_11 | defy<br>deal<br>solid<br>loop<br>pupil<br>reveal<br>million<br>normal<br>story<br>coil<br>notable |  
+| bip_39_word_new_br_12 | defy<br>deal<br>solid<br>loop<br>pupil<br>reveal<br>million<br>normal<br>story<br>coil<br>notable<br>ability |  
+| bip_39_word_new_br_2 | defy<br>deal |  
+| bip_39_word_new_br_3 | defy<br>deal<br>solid |  
+| bip_39_word_new_br_4 | defy<br>deal<br>solid<br>loop |  
+| bip_39_word_new_br_5 | defy<br>deal<br>solid<br>loop<br>pupil |  
+| bip_39_word_new_br_6 | defy<br>deal<br>solid<br>loop<br>pupil<br>reveal |  
+| bip_39_word_new_br_7 | defy<br>deal<br>solid<br>loop<br>pupil<br>reveal<br>million |  
+| bip_39_word_new_br_8 | defy<br>deal<br>solid<br>loop<br>pupil<br>reveal<br>million<br>normal |  
+| bip_39_word_new_br_9 | defy<br>deal<br>solid<br>loop<br>pupil<br>reveal<br>million<br>normal<br>story |  
+| bip_39_word_new_line_1 | defy |  
+| bip_39_word_new_line_10 | defy
 deal
 solid
 loop
@@ -55,7 +55,7 @@ million
 normal
 story
 coil |  
-| bip_39_word_new_line11 | defy
+| bip_39_word_new_line_11 | defy
 deal
 solid
 loop
@@ -66,7 +66,7 @@ normal
 story
 coil
 notable |  
-| bip_39_word_new_line12 | defy
+| bip_39_word_new_line_12 | defy
 deal
 solid
 loop
@@ -78,34 +78,34 @@ story
 coil
 notable
 ability |  
-| bip_39_word_new_line2 | defy
+| bip_39_word_new_line_2 | defy
 deal |  
-| bip_39_word_new_line3 | defy
+| bip_39_word_new_line_3 | defy
 deal
 solid |  
-| bip_39_word_new_line4 | defy
+| bip_39_word_new_line_4 | defy
 deal
 solid
 loop |  
-| bip_39_word_new_line5 | defy
+| bip_39_word_new_line_5 | defy
 deal
 solid
 loop
 pupil |  
-| bip_39_word_new_line6 | defy
+| bip_39_word_new_line_6 | defy
 deal
 solid
 loop
 pupil
 reveal |  
-| bip_39_word_new_line7 | defy
+| bip_39_word_new_line_7 | defy
 deal
 solid
 loop
 pupil
 reveal
 million |  
-| bip_39_word_new_line8 | defy
+| bip_39_word_new_line_8 | defy
 deal
 solid
 loop
@@ -113,7 +113,7 @@ pupil
 reveal
 million
 normal |  
-| bip_39_word_new_line9 | defy
+| bip_39_word_new_line_9 | defy
 deal
 solid
 loop

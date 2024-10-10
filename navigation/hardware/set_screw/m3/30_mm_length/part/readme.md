@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | base |  
-| bip_39_word_new_br10 | base<br>napkin<br>adjust<br>always<br>input<br>ladder<br>north<br>turtle<br>tape<br>joke |  
-| bip_39_word_new_br11 | base<br>napkin<br>adjust<br>always<br>input<br>ladder<br>north<br>turtle<br>tape<br>joke<br>orchard |  
-| bip_39_word_new_br12 | base<br>napkin<br>adjust<br>always<br>input<br>ladder<br>north<br>turtle<br>tape<br>joke<br>orchard<br>attitude |  
-| bip_39_word_new_br2 | base<br>napkin |  
-| bip_39_word_new_br3 | base<br>napkin<br>adjust |  
-| bip_39_word_new_br4 | base<br>napkin<br>adjust<br>always |  
-| bip_39_word_new_br5 | base<br>napkin<br>adjust<br>always<br>input |  
-| bip_39_word_new_br6 | base<br>napkin<br>adjust<br>always<br>input<br>ladder |  
-| bip_39_word_new_br7 | base<br>napkin<br>adjust<br>always<br>input<br>ladder<br>north |  
-| bip_39_word_new_br8 | base<br>napkin<br>adjust<br>always<br>input<br>ladder<br>north<br>turtle |  
-| bip_39_word_new_br9 | base<br>napkin<br>adjust<br>always<br>input<br>ladder<br>north<br>turtle<br>tape |  
-| bip_39_word_new_line1 | base |  
-| bip_39_word_new_line10 | base
+| bip_39_word_new_br_1 | base |  
+| bip_39_word_new_br_10 | base<br>napkin<br>adjust<br>always<br>input<br>ladder<br>north<br>turtle<br>tape<br>joke |  
+| bip_39_word_new_br_11 | base<br>napkin<br>adjust<br>always<br>input<br>ladder<br>north<br>turtle<br>tape<br>joke<br>orchard |  
+| bip_39_word_new_br_12 | base<br>napkin<br>adjust<br>always<br>input<br>ladder<br>north<br>turtle<br>tape<br>joke<br>orchard<br>attitude |  
+| bip_39_word_new_br_2 | base<br>napkin |  
+| bip_39_word_new_br_3 | base<br>napkin<br>adjust |  
+| bip_39_word_new_br_4 | base<br>napkin<br>adjust<br>always |  
+| bip_39_word_new_br_5 | base<br>napkin<br>adjust<br>always<br>input |  
+| bip_39_word_new_br_6 | base<br>napkin<br>adjust<br>always<br>input<br>ladder |  
+| bip_39_word_new_br_7 | base<br>napkin<br>adjust<br>always<br>input<br>ladder<br>north |  
+| bip_39_word_new_br_8 | base<br>napkin<br>adjust<br>always<br>input<br>ladder<br>north<br>turtle |  
+| bip_39_word_new_br_9 | base<br>napkin<br>adjust<br>always<br>input<br>ladder<br>north<br>turtle<br>tape |  
+| bip_39_word_new_line_1 | base |  
+| bip_39_word_new_line_10 | base
 napkin
 adjust
 always
@@ -55,7 +55,7 @@ north
 turtle
 tape
 joke |  
-| bip_39_word_new_line11 | base
+| bip_39_word_new_line_11 | base
 napkin
 adjust
 always
@@ -66,7 +66,7 @@ turtle
 tape
 joke
 orchard |  
-| bip_39_word_new_line12 | base
+| bip_39_word_new_line_12 | base
 napkin
 adjust
 always
@@ -78,34 +78,34 @@ tape
 joke
 orchard
 attitude |  
-| bip_39_word_new_line2 | base
+| bip_39_word_new_line_2 | base
 napkin |  
-| bip_39_word_new_line3 | base
+| bip_39_word_new_line_3 | base
 napkin
 adjust |  
-| bip_39_word_new_line4 | base
+| bip_39_word_new_line_4 | base
 napkin
 adjust
 always |  
-| bip_39_word_new_line5 | base
+| bip_39_word_new_line_5 | base
 napkin
 adjust
 always
 input |  
-| bip_39_word_new_line6 | base
+| bip_39_word_new_line_6 | base
 napkin
 adjust
 always
 input
 ladder |  
-| bip_39_word_new_line7 | base
+| bip_39_word_new_line_7 | base
 napkin
 adjust
 always
 input
 ladder
 north |  
-| bip_39_word_new_line8 | base
+| bip_39_word_new_line_8 | base
 napkin
 adjust
 always
@@ -113,7 +113,7 @@ input
 ladder
 north
 turtle |  
-| bip_39_word_new_line9 | base
+| bip_39_word_new_line_9 | base
 napkin
 adjust
 always

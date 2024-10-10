@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | piano |  
-| bip_39_word_new_br10 | piano<br>grain<br>farm<br>pitch<br>cactus<br>galaxy<br>census<br>fitness<br>foster<br>end |  
-| bip_39_word_new_br11 | piano<br>grain<br>farm<br>pitch<br>cactus<br>galaxy<br>census<br>fitness<br>foster<br>end<br>believe |  
-| bip_39_word_new_br12 | piano<br>grain<br>farm<br>pitch<br>cactus<br>galaxy<br>census<br>fitness<br>foster<br>end<br>believe<br>ask |  
-| bip_39_word_new_br2 | piano<br>grain |  
-| bip_39_word_new_br3 | piano<br>grain<br>farm |  
-| bip_39_word_new_br4 | piano<br>grain<br>farm<br>pitch |  
-| bip_39_word_new_br5 | piano<br>grain<br>farm<br>pitch<br>cactus |  
-| bip_39_word_new_br6 | piano<br>grain<br>farm<br>pitch<br>cactus<br>galaxy |  
-| bip_39_word_new_br7 | piano<br>grain<br>farm<br>pitch<br>cactus<br>galaxy<br>census |  
-| bip_39_word_new_br8 | piano<br>grain<br>farm<br>pitch<br>cactus<br>galaxy<br>census<br>fitness |  
-| bip_39_word_new_br9 | piano<br>grain<br>farm<br>pitch<br>cactus<br>galaxy<br>census<br>fitness<br>foster |  
-| bip_39_word_new_line1 | piano |  
-| bip_39_word_new_line10 | piano
+| bip_39_word_new_br_1 | piano |  
+| bip_39_word_new_br_10 | piano<br>grain<br>farm<br>pitch<br>cactus<br>galaxy<br>census<br>fitness<br>foster<br>end |  
+| bip_39_word_new_br_11 | piano<br>grain<br>farm<br>pitch<br>cactus<br>galaxy<br>census<br>fitness<br>foster<br>end<br>believe |  
+| bip_39_word_new_br_12 | piano<br>grain<br>farm<br>pitch<br>cactus<br>galaxy<br>census<br>fitness<br>foster<br>end<br>believe<br>ask |  
+| bip_39_word_new_br_2 | piano<br>grain |  
+| bip_39_word_new_br_3 | piano<br>grain<br>farm |  
+| bip_39_word_new_br_4 | piano<br>grain<br>farm<br>pitch |  
+| bip_39_word_new_br_5 | piano<br>grain<br>farm<br>pitch<br>cactus |  
+| bip_39_word_new_br_6 | piano<br>grain<br>farm<br>pitch<br>cactus<br>galaxy |  
+| bip_39_word_new_br_7 | piano<br>grain<br>farm<br>pitch<br>cactus<br>galaxy<br>census |  
+| bip_39_word_new_br_8 | piano<br>grain<br>farm<br>pitch<br>cactus<br>galaxy<br>census<br>fitness |  
+| bip_39_word_new_br_9 | piano<br>grain<br>farm<br>pitch<br>cactus<br>galaxy<br>census<br>fitness<br>foster |  
+| bip_39_word_new_line_1 | piano |  
+| bip_39_word_new_line_10 | piano
 grain
 farm
 pitch
@@ -55,7 +55,7 @@ census
 fitness
 foster
 end |  
-| bip_39_word_new_line11 | piano
+| bip_39_word_new_line_11 | piano
 grain
 farm
 pitch
@@ -66,7 +66,7 @@ fitness
 foster
 end
 believe |  
-| bip_39_word_new_line12 | piano
+| bip_39_word_new_line_12 | piano
 grain
 farm
 pitch
@@ -78,34 +78,34 @@ foster
 end
 believe
 ask |  
-| bip_39_word_new_line2 | piano
+| bip_39_word_new_line_2 | piano
 grain |  
-| bip_39_word_new_line3 | piano
+| bip_39_word_new_line_3 | piano
 grain
 farm |  
-| bip_39_word_new_line4 | piano
+| bip_39_word_new_line_4 | piano
 grain
 farm
 pitch |  
-| bip_39_word_new_line5 | piano
+| bip_39_word_new_line_5 | piano
 grain
 farm
 pitch
 cactus |  
-| bip_39_word_new_line6 | piano
+| bip_39_word_new_line_6 | piano
 grain
 farm
 pitch
 cactus
 galaxy |  
-| bip_39_word_new_line7 | piano
+| bip_39_word_new_line_7 | piano
 grain
 farm
 pitch
 cactus
 galaxy
 census |  
-| bip_39_word_new_line8 | piano
+| bip_39_word_new_line_8 | piano
 grain
 farm
 pitch
@@ -113,7 +113,7 @@ cactus
 galaxy
 census
 fitness |  
-| bip_39_word_new_line9 | piano
+| bip_39_word_new_line_9 | piano
 grain
 farm
 pitch

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | grunt |  
-| bip_39_word_new_br10 | grunt<br>swamp<br>order<br>story<br>glory<br>problem<br>cement<br>stool<br>almost<br>gauge |  
-| bip_39_word_new_br11 | grunt<br>swamp<br>order<br>story<br>glory<br>problem<br>cement<br>stool<br>almost<br>gauge<br>guard |  
-| bip_39_word_new_br12 | grunt<br>swamp<br>order<br>story<br>glory<br>problem<br>cement<br>stool<br>almost<br>gauge<br>guard<br>average |  
-| bip_39_word_new_br2 | grunt<br>swamp |  
-| bip_39_word_new_br3 | grunt<br>swamp<br>order |  
-| bip_39_word_new_br4 | grunt<br>swamp<br>order<br>story |  
-| bip_39_word_new_br5 | grunt<br>swamp<br>order<br>story<br>glory |  
-| bip_39_word_new_br6 | grunt<br>swamp<br>order<br>story<br>glory<br>problem |  
-| bip_39_word_new_br7 | grunt<br>swamp<br>order<br>story<br>glory<br>problem<br>cement |  
-| bip_39_word_new_br8 | grunt<br>swamp<br>order<br>story<br>glory<br>problem<br>cement<br>stool |  
-| bip_39_word_new_br9 | grunt<br>swamp<br>order<br>story<br>glory<br>problem<br>cement<br>stool<br>almost |  
-| bip_39_word_new_line1 | grunt |  
-| bip_39_word_new_line10 | grunt
+| bip_39_word_new_br_1 | grunt |  
+| bip_39_word_new_br_10 | grunt<br>swamp<br>order<br>story<br>glory<br>problem<br>cement<br>stool<br>almost<br>gauge |  
+| bip_39_word_new_br_11 | grunt<br>swamp<br>order<br>story<br>glory<br>problem<br>cement<br>stool<br>almost<br>gauge<br>guard |  
+| bip_39_word_new_br_12 | grunt<br>swamp<br>order<br>story<br>glory<br>problem<br>cement<br>stool<br>almost<br>gauge<br>guard<br>average |  
+| bip_39_word_new_br_2 | grunt<br>swamp |  
+| bip_39_word_new_br_3 | grunt<br>swamp<br>order |  
+| bip_39_word_new_br_4 | grunt<br>swamp<br>order<br>story |  
+| bip_39_word_new_br_5 | grunt<br>swamp<br>order<br>story<br>glory |  
+| bip_39_word_new_br_6 | grunt<br>swamp<br>order<br>story<br>glory<br>problem |  
+| bip_39_word_new_br_7 | grunt<br>swamp<br>order<br>story<br>glory<br>problem<br>cement |  
+| bip_39_word_new_br_8 | grunt<br>swamp<br>order<br>story<br>glory<br>problem<br>cement<br>stool |  
+| bip_39_word_new_br_9 | grunt<br>swamp<br>order<br>story<br>glory<br>problem<br>cement<br>stool<br>almost |  
+| bip_39_word_new_line_1 | grunt |  
+| bip_39_word_new_line_10 | grunt
 swamp
 order
 story
@@ -55,7 +55,7 @@ cement
 stool
 almost
 gauge |  
-| bip_39_word_new_line11 | grunt
+| bip_39_word_new_line_11 | grunt
 swamp
 order
 story
@@ -66,7 +66,7 @@ stool
 almost
 gauge
 guard |  
-| bip_39_word_new_line12 | grunt
+| bip_39_word_new_line_12 | grunt
 swamp
 order
 story
@@ -78,34 +78,34 @@ almost
 gauge
 guard
 average |  
-| bip_39_word_new_line2 | grunt
+| bip_39_word_new_line_2 | grunt
 swamp |  
-| bip_39_word_new_line3 | grunt
+| bip_39_word_new_line_3 | grunt
 swamp
 order |  
-| bip_39_word_new_line4 | grunt
+| bip_39_word_new_line_4 | grunt
 swamp
 order
 story |  
-| bip_39_word_new_line5 | grunt
+| bip_39_word_new_line_5 | grunt
 swamp
 order
 story
 glory |  
-| bip_39_word_new_line6 | grunt
+| bip_39_word_new_line_6 | grunt
 swamp
 order
 story
 glory
 problem |  
-| bip_39_word_new_line7 | grunt
+| bip_39_word_new_line_7 | grunt
 swamp
 order
 story
 glory
 problem
 cement |  
-| bip_39_word_new_line8 | grunt
+| bip_39_word_new_line_8 | grunt
 swamp
 order
 story
@@ -113,7 +113,7 @@ glory
 problem
 cement
 stool |  
-| bip_39_word_new_line9 | grunt
+| bip_39_word_new_line_9 | grunt
 swamp
 order
 story

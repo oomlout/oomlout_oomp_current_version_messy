@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | build |  
-| bip_39_word_new_br10 | build<br>labor<br>cool<br>talk<br>funny<br>still<br>stand<br>master<br>oxygen<br>media |  
-| bip_39_word_new_br11 | build<br>labor<br>cool<br>talk<br>funny<br>still<br>stand<br>master<br>oxygen<br>media<br>income |  
-| bip_39_word_new_br12 | build<br>labor<br>cool<br>talk<br>funny<br>still<br>stand<br>master<br>oxygen<br>media<br>income<br>area |  
-| bip_39_word_new_br2 | build<br>labor |  
-| bip_39_word_new_br3 | build<br>labor<br>cool |  
-| bip_39_word_new_br4 | build<br>labor<br>cool<br>talk |  
-| bip_39_word_new_br5 | build<br>labor<br>cool<br>talk<br>funny |  
-| bip_39_word_new_br6 | build<br>labor<br>cool<br>talk<br>funny<br>still |  
-| bip_39_word_new_br7 | build<br>labor<br>cool<br>talk<br>funny<br>still<br>stand |  
-| bip_39_word_new_br8 | build<br>labor<br>cool<br>talk<br>funny<br>still<br>stand<br>master |  
-| bip_39_word_new_br9 | build<br>labor<br>cool<br>talk<br>funny<br>still<br>stand<br>master<br>oxygen |  
-| bip_39_word_new_line1 | build |  
-| bip_39_word_new_line10 | build
+| bip_39_word_new_br_1 | build |  
+| bip_39_word_new_br_10 | build<br>labor<br>cool<br>talk<br>funny<br>still<br>stand<br>master<br>oxygen<br>media |  
+| bip_39_word_new_br_11 | build<br>labor<br>cool<br>talk<br>funny<br>still<br>stand<br>master<br>oxygen<br>media<br>income |  
+| bip_39_word_new_br_12 | build<br>labor<br>cool<br>talk<br>funny<br>still<br>stand<br>master<br>oxygen<br>media<br>income<br>area |  
+| bip_39_word_new_br_2 | build<br>labor |  
+| bip_39_word_new_br_3 | build<br>labor<br>cool |  
+| bip_39_word_new_br_4 | build<br>labor<br>cool<br>talk |  
+| bip_39_word_new_br_5 | build<br>labor<br>cool<br>talk<br>funny |  
+| bip_39_word_new_br_6 | build<br>labor<br>cool<br>talk<br>funny<br>still |  
+| bip_39_word_new_br_7 | build<br>labor<br>cool<br>talk<br>funny<br>still<br>stand |  
+| bip_39_word_new_br_8 | build<br>labor<br>cool<br>talk<br>funny<br>still<br>stand<br>master |  
+| bip_39_word_new_br_9 | build<br>labor<br>cool<br>talk<br>funny<br>still<br>stand<br>master<br>oxygen |  
+| bip_39_word_new_line_1 | build |  
+| bip_39_word_new_line_10 | build
 labor
 cool
 talk
@@ -55,7 +55,7 @@ stand
 master
 oxygen
 media |  
-| bip_39_word_new_line11 | build
+| bip_39_word_new_line_11 | build
 labor
 cool
 talk
@@ -66,7 +66,7 @@ master
 oxygen
 media
 income |  
-| bip_39_word_new_line12 | build
+| bip_39_word_new_line_12 | build
 labor
 cool
 talk
@@ -78,34 +78,34 @@ oxygen
 media
 income
 area |  
-| bip_39_word_new_line2 | build
+| bip_39_word_new_line_2 | build
 labor |  
-| bip_39_word_new_line3 | build
+| bip_39_word_new_line_3 | build
 labor
 cool |  
-| bip_39_word_new_line4 | build
+| bip_39_word_new_line_4 | build
 labor
 cool
 talk |  
-| bip_39_word_new_line5 | build
+| bip_39_word_new_line_5 | build
 labor
 cool
 talk
 funny |  
-| bip_39_word_new_line6 | build
+| bip_39_word_new_line_6 | build
 labor
 cool
 talk
 funny
 still |  
-| bip_39_word_new_line7 | build
+| bip_39_word_new_line_7 | build
 labor
 cool
 talk
 funny
 still
 stand |  
-| bip_39_word_new_line8 | build
+| bip_39_word_new_line_8 | build
 labor
 cool
 talk
@@ -113,7 +113,7 @@ funny
 still
 stand
 master |  
-| bip_39_word_new_line9 | build
+| bip_39_word_new_line_9 | build
 labor
 cool
 talk

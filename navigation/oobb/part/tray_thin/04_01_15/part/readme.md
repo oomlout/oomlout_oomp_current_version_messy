@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | donkey |  
-| bip_39_word_new_br10 | donkey<br>health<br>collect<br>stem<br>garment<br>shoulder<br>unique<br>prize<br>aerobic<br>wide |  
-| bip_39_word_new_br11 | donkey<br>health<br>collect<br>stem<br>garment<br>shoulder<br>unique<br>prize<br>aerobic<br>wide<br>umbrella |  
-| bip_39_word_new_br12 | donkey<br>health<br>collect<br>stem<br>garment<br>shoulder<br>unique<br>prize<br>aerobic<br>wide<br>umbrella<br>arctic |  
-| bip_39_word_new_br2 | donkey<br>health |  
-| bip_39_word_new_br3 | donkey<br>health<br>collect |  
-| bip_39_word_new_br4 | donkey<br>health<br>collect<br>stem |  
-| bip_39_word_new_br5 | donkey<br>health<br>collect<br>stem<br>garment |  
-| bip_39_word_new_br6 | donkey<br>health<br>collect<br>stem<br>garment<br>shoulder |  
-| bip_39_word_new_br7 | donkey<br>health<br>collect<br>stem<br>garment<br>shoulder<br>unique |  
-| bip_39_word_new_br8 | donkey<br>health<br>collect<br>stem<br>garment<br>shoulder<br>unique<br>prize |  
-| bip_39_word_new_br9 | donkey<br>health<br>collect<br>stem<br>garment<br>shoulder<br>unique<br>prize<br>aerobic |  
-| bip_39_word_new_line1 | donkey |  
-| bip_39_word_new_line10 | donkey
+| bip_39_word_new_br_1 | donkey |  
+| bip_39_word_new_br_10 | donkey<br>health<br>collect<br>stem<br>garment<br>shoulder<br>unique<br>prize<br>aerobic<br>wide |  
+| bip_39_word_new_br_11 | donkey<br>health<br>collect<br>stem<br>garment<br>shoulder<br>unique<br>prize<br>aerobic<br>wide<br>umbrella |  
+| bip_39_word_new_br_12 | donkey<br>health<br>collect<br>stem<br>garment<br>shoulder<br>unique<br>prize<br>aerobic<br>wide<br>umbrella<br>arctic |  
+| bip_39_word_new_br_2 | donkey<br>health |  
+| bip_39_word_new_br_3 | donkey<br>health<br>collect |  
+| bip_39_word_new_br_4 | donkey<br>health<br>collect<br>stem |  
+| bip_39_word_new_br_5 | donkey<br>health<br>collect<br>stem<br>garment |  
+| bip_39_word_new_br_6 | donkey<br>health<br>collect<br>stem<br>garment<br>shoulder |  
+| bip_39_word_new_br_7 | donkey<br>health<br>collect<br>stem<br>garment<br>shoulder<br>unique |  
+| bip_39_word_new_br_8 | donkey<br>health<br>collect<br>stem<br>garment<br>shoulder<br>unique<br>prize |  
+| bip_39_word_new_br_9 | donkey<br>health<br>collect<br>stem<br>garment<br>shoulder<br>unique<br>prize<br>aerobic |  
+| bip_39_word_new_line_1 | donkey |  
+| bip_39_word_new_line_10 | donkey
 health
 collect
 stem
@@ -55,7 +55,7 @@ unique
 prize
 aerobic
 wide |  
-| bip_39_word_new_line11 | donkey
+| bip_39_word_new_line_11 | donkey
 health
 collect
 stem
@@ -66,7 +66,7 @@ prize
 aerobic
 wide
 umbrella |  
-| bip_39_word_new_line12 | donkey
+| bip_39_word_new_line_12 | donkey
 health
 collect
 stem
@@ -78,34 +78,34 @@ aerobic
 wide
 umbrella
 arctic |  
-| bip_39_word_new_line2 | donkey
+| bip_39_word_new_line_2 | donkey
 health |  
-| bip_39_word_new_line3 | donkey
+| bip_39_word_new_line_3 | donkey
 health
 collect |  
-| bip_39_word_new_line4 | donkey
+| bip_39_word_new_line_4 | donkey
 health
 collect
 stem |  
-| bip_39_word_new_line5 | donkey
+| bip_39_word_new_line_5 | donkey
 health
 collect
 stem
 garment |  
-| bip_39_word_new_line6 | donkey
+| bip_39_word_new_line_6 | donkey
 health
 collect
 stem
 garment
 shoulder |  
-| bip_39_word_new_line7 | donkey
+| bip_39_word_new_line_7 | donkey
 health
 collect
 stem
 garment
 shoulder
 unique |  
-| bip_39_word_new_line8 | donkey
+| bip_39_word_new_line_8 | donkey
 health
 collect
 stem
@@ -113,7 +113,7 @@ garment
 shoulder
 unique
 prize |  
-| bip_39_word_new_line9 | donkey
+| bip_39_word_new_line_9 | donkey
 health
 collect
 stem

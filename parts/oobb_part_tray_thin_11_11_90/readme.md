@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | shoe |  
-| bip_39_word_new_br10 | shoe<br>voice<br>marriage<br>drop<br>sentence<br>reveal<br>roast<br>acquire<br>will<br>now |  
-| bip_39_word_new_br11 | shoe<br>voice<br>marriage<br>drop<br>sentence<br>reveal<br>roast<br>acquire<br>will<br>now<br>window |  
-| bip_39_word_new_br12 | shoe<br>voice<br>marriage<br>drop<br>sentence<br>reveal<br>roast<br>acquire<br>will<br>now<br>window<br>alley |  
-| bip_39_word_new_br2 | shoe<br>voice |  
-| bip_39_word_new_br3 | shoe<br>voice<br>marriage |  
-| bip_39_word_new_br4 | shoe<br>voice<br>marriage<br>drop |  
-| bip_39_word_new_br5 | shoe<br>voice<br>marriage<br>drop<br>sentence |  
-| bip_39_word_new_br6 | shoe<br>voice<br>marriage<br>drop<br>sentence<br>reveal |  
-| bip_39_word_new_br7 | shoe<br>voice<br>marriage<br>drop<br>sentence<br>reveal<br>roast |  
-| bip_39_word_new_br8 | shoe<br>voice<br>marriage<br>drop<br>sentence<br>reveal<br>roast<br>acquire |  
-| bip_39_word_new_br9 | shoe<br>voice<br>marriage<br>drop<br>sentence<br>reveal<br>roast<br>acquire<br>will |  
-| bip_39_word_new_line1 | shoe |  
-| bip_39_word_new_line10 | shoe
+| bip_39_word_new_br_1 | shoe |  
+| bip_39_word_new_br_10 | shoe<br>voice<br>marriage<br>drop<br>sentence<br>reveal<br>roast<br>acquire<br>will<br>now |  
+| bip_39_word_new_br_11 | shoe<br>voice<br>marriage<br>drop<br>sentence<br>reveal<br>roast<br>acquire<br>will<br>now<br>window |  
+| bip_39_word_new_br_12 | shoe<br>voice<br>marriage<br>drop<br>sentence<br>reveal<br>roast<br>acquire<br>will<br>now<br>window<br>alley |  
+| bip_39_word_new_br_2 | shoe<br>voice |  
+| bip_39_word_new_br_3 | shoe<br>voice<br>marriage |  
+| bip_39_word_new_br_4 | shoe<br>voice<br>marriage<br>drop |  
+| bip_39_word_new_br_5 | shoe<br>voice<br>marriage<br>drop<br>sentence |  
+| bip_39_word_new_br_6 | shoe<br>voice<br>marriage<br>drop<br>sentence<br>reveal |  
+| bip_39_word_new_br_7 | shoe<br>voice<br>marriage<br>drop<br>sentence<br>reveal<br>roast |  
+| bip_39_word_new_br_8 | shoe<br>voice<br>marriage<br>drop<br>sentence<br>reveal<br>roast<br>acquire |  
+| bip_39_word_new_br_9 | shoe<br>voice<br>marriage<br>drop<br>sentence<br>reveal<br>roast<br>acquire<br>will |  
+| bip_39_word_new_line_1 | shoe |  
+| bip_39_word_new_line_10 | shoe
 voice
 marriage
 drop
@@ -55,7 +55,7 @@ roast
 acquire
 will
 now |  
-| bip_39_word_new_line11 | shoe
+| bip_39_word_new_line_11 | shoe
 voice
 marriage
 drop
@@ -66,7 +66,7 @@ acquire
 will
 now
 window |  
-| bip_39_word_new_line12 | shoe
+| bip_39_word_new_line_12 | shoe
 voice
 marriage
 drop
@@ -78,34 +78,34 @@ will
 now
 window
 alley |  
-| bip_39_word_new_line2 | shoe
+| bip_39_word_new_line_2 | shoe
 voice |  
-| bip_39_word_new_line3 | shoe
+| bip_39_word_new_line_3 | shoe
 voice
 marriage |  
-| bip_39_word_new_line4 | shoe
+| bip_39_word_new_line_4 | shoe
 voice
 marriage
 drop |  
-| bip_39_word_new_line5 | shoe
+| bip_39_word_new_line_5 | shoe
 voice
 marriage
 drop
 sentence |  
-| bip_39_word_new_line6 | shoe
+| bip_39_word_new_line_6 | shoe
 voice
 marriage
 drop
 sentence
 reveal |  
-| bip_39_word_new_line7 | shoe
+| bip_39_word_new_line_7 | shoe
 voice
 marriage
 drop
 sentence
 reveal
 roast |  
-| bip_39_word_new_line8 | shoe
+| bip_39_word_new_line_8 | shoe
 voice
 marriage
 drop
@@ -113,7 +113,7 @@ sentence
 reveal
 roast
 acquire |  
-| bip_39_word_new_line9 | shoe
+| bip_39_word_new_line_9 | shoe
 voice
 marriage
 drop

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | void |  
-| bip_39_word_new_br10 | void<br>forward<br>human<br>project<br>ask<br>alley<br>bean<br>maid<br>parade<br>utility |  
-| bip_39_word_new_br11 | void<br>forward<br>human<br>project<br>ask<br>alley<br>bean<br>maid<br>parade<br>utility<br>host |  
-| bip_39_word_new_br12 | void<br>forward<br>human<br>project<br>ask<br>alley<br>bean<br>maid<br>parade<br>utility<br>host<br>acquire |  
-| bip_39_word_new_br2 | void<br>forward |  
-| bip_39_word_new_br3 | void<br>forward<br>human |  
-| bip_39_word_new_br4 | void<br>forward<br>human<br>project |  
-| bip_39_word_new_br5 | void<br>forward<br>human<br>project<br>ask |  
-| bip_39_word_new_br6 | void<br>forward<br>human<br>project<br>ask<br>alley |  
-| bip_39_word_new_br7 | void<br>forward<br>human<br>project<br>ask<br>alley<br>bean |  
-| bip_39_word_new_br8 | void<br>forward<br>human<br>project<br>ask<br>alley<br>bean<br>maid |  
-| bip_39_word_new_br9 | void<br>forward<br>human<br>project<br>ask<br>alley<br>bean<br>maid<br>parade |  
-| bip_39_word_new_line1 | void |  
-| bip_39_word_new_line10 | void
+| bip_39_word_new_br_1 | void |  
+| bip_39_word_new_br_10 | void<br>forward<br>human<br>project<br>ask<br>alley<br>bean<br>maid<br>parade<br>utility |  
+| bip_39_word_new_br_11 | void<br>forward<br>human<br>project<br>ask<br>alley<br>bean<br>maid<br>parade<br>utility<br>host |  
+| bip_39_word_new_br_12 | void<br>forward<br>human<br>project<br>ask<br>alley<br>bean<br>maid<br>parade<br>utility<br>host<br>acquire |  
+| bip_39_word_new_br_2 | void<br>forward |  
+| bip_39_word_new_br_3 | void<br>forward<br>human |  
+| bip_39_word_new_br_4 | void<br>forward<br>human<br>project |  
+| bip_39_word_new_br_5 | void<br>forward<br>human<br>project<br>ask |  
+| bip_39_word_new_br_6 | void<br>forward<br>human<br>project<br>ask<br>alley |  
+| bip_39_word_new_br_7 | void<br>forward<br>human<br>project<br>ask<br>alley<br>bean |  
+| bip_39_word_new_br_8 | void<br>forward<br>human<br>project<br>ask<br>alley<br>bean<br>maid |  
+| bip_39_word_new_br_9 | void<br>forward<br>human<br>project<br>ask<br>alley<br>bean<br>maid<br>parade |  
+| bip_39_word_new_line_1 | void |  
+| bip_39_word_new_line_10 | void
 forward
 human
 project
@@ -55,7 +55,7 @@ bean
 maid
 parade
 utility |  
-| bip_39_word_new_line11 | void
+| bip_39_word_new_line_11 | void
 forward
 human
 project
@@ -66,7 +66,7 @@ maid
 parade
 utility
 host |  
-| bip_39_word_new_line12 | void
+| bip_39_word_new_line_12 | void
 forward
 human
 project
@@ -78,34 +78,34 @@ parade
 utility
 host
 acquire |  
-| bip_39_word_new_line2 | void
+| bip_39_word_new_line_2 | void
 forward |  
-| bip_39_word_new_line3 | void
+| bip_39_word_new_line_3 | void
 forward
 human |  
-| bip_39_word_new_line4 | void
+| bip_39_word_new_line_4 | void
 forward
 human
 project |  
-| bip_39_word_new_line5 | void
+| bip_39_word_new_line_5 | void
 forward
 human
 project
 ask |  
-| bip_39_word_new_line6 | void
+| bip_39_word_new_line_6 | void
 forward
 human
 project
 ask
 alley |  
-| bip_39_word_new_line7 | void
+| bip_39_word_new_line_7 | void
 forward
 human
 project
 ask
 alley
 bean |  
-| bip_39_word_new_line8 | void
+| bip_39_word_new_line_8 | void
 forward
 human
 project
@@ -113,7 +113,7 @@ ask
 alley
 bean
 maid |  
-| bip_39_word_new_line9 | void
+| bip_39_word_new_line_9 | void
 forward
 human
 project

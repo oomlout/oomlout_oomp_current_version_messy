@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | blood |  
-| bip_39_word_new_br10 | blood<br>broken<br>puppy<br>voyage<br>grow<br>person<br>before<br>alert<br>sustain<br>waste |  
-| bip_39_word_new_br11 | blood<br>broken<br>puppy<br>voyage<br>grow<br>person<br>before<br>alert<br>sustain<br>waste<br>supply |  
-| bip_39_word_new_br12 | blood<br>broken<br>puppy<br>voyage<br>grow<br>person<br>before<br>alert<br>sustain<br>waste<br>supply<br>addict |  
-| bip_39_word_new_br2 | blood<br>broken |  
-| bip_39_word_new_br3 | blood<br>broken<br>puppy |  
-| bip_39_word_new_br4 | blood<br>broken<br>puppy<br>voyage |  
-| bip_39_word_new_br5 | blood<br>broken<br>puppy<br>voyage<br>grow |  
-| bip_39_word_new_br6 | blood<br>broken<br>puppy<br>voyage<br>grow<br>person |  
-| bip_39_word_new_br7 | blood<br>broken<br>puppy<br>voyage<br>grow<br>person<br>before |  
-| bip_39_word_new_br8 | blood<br>broken<br>puppy<br>voyage<br>grow<br>person<br>before<br>alert |  
-| bip_39_word_new_br9 | blood<br>broken<br>puppy<br>voyage<br>grow<br>person<br>before<br>alert<br>sustain |  
-| bip_39_word_new_line1 | blood |  
-| bip_39_word_new_line10 | blood
+| bip_39_word_new_br_1 | blood |  
+| bip_39_word_new_br_10 | blood<br>broken<br>puppy<br>voyage<br>grow<br>person<br>before<br>alert<br>sustain<br>waste |  
+| bip_39_word_new_br_11 | blood<br>broken<br>puppy<br>voyage<br>grow<br>person<br>before<br>alert<br>sustain<br>waste<br>supply |  
+| bip_39_word_new_br_12 | blood<br>broken<br>puppy<br>voyage<br>grow<br>person<br>before<br>alert<br>sustain<br>waste<br>supply<br>addict |  
+| bip_39_word_new_br_2 | blood<br>broken |  
+| bip_39_word_new_br_3 | blood<br>broken<br>puppy |  
+| bip_39_word_new_br_4 | blood<br>broken<br>puppy<br>voyage |  
+| bip_39_word_new_br_5 | blood<br>broken<br>puppy<br>voyage<br>grow |  
+| bip_39_word_new_br_6 | blood<br>broken<br>puppy<br>voyage<br>grow<br>person |  
+| bip_39_word_new_br_7 | blood<br>broken<br>puppy<br>voyage<br>grow<br>person<br>before |  
+| bip_39_word_new_br_8 | blood<br>broken<br>puppy<br>voyage<br>grow<br>person<br>before<br>alert |  
+| bip_39_word_new_br_9 | blood<br>broken<br>puppy<br>voyage<br>grow<br>person<br>before<br>alert<br>sustain |  
+| bip_39_word_new_line_1 | blood |  
+| bip_39_word_new_line_10 | blood
 broken
 puppy
 voyage
@@ -55,7 +55,7 @@ before
 alert
 sustain
 waste |  
-| bip_39_word_new_line11 | blood
+| bip_39_word_new_line_11 | blood
 broken
 puppy
 voyage
@@ -66,7 +66,7 @@ alert
 sustain
 waste
 supply |  
-| bip_39_word_new_line12 | blood
+| bip_39_word_new_line_12 | blood
 broken
 puppy
 voyage
@@ -78,34 +78,34 @@ sustain
 waste
 supply
 addict |  
-| bip_39_word_new_line2 | blood
+| bip_39_word_new_line_2 | blood
 broken |  
-| bip_39_word_new_line3 | blood
+| bip_39_word_new_line_3 | blood
 broken
 puppy |  
-| bip_39_word_new_line4 | blood
+| bip_39_word_new_line_4 | blood
 broken
 puppy
 voyage |  
-| bip_39_word_new_line5 | blood
+| bip_39_word_new_line_5 | blood
 broken
 puppy
 voyage
 grow |  
-| bip_39_word_new_line6 | blood
+| bip_39_word_new_line_6 | blood
 broken
 puppy
 voyage
 grow
 person |  
-| bip_39_word_new_line7 | blood
+| bip_39_word_new_line_7 | blood
 broken
 puppy
 voyage
 grow
 person
 before |  
-| bip_39_word_new_line8 | blood
+| bip_39_word_new_line_8 | blood
 broken
 puppy
 voyage
@@ -113,7 +113,7 @@ grow
 person
 before
 alert |  
-| bip_39_word_new_line9 | blood
+| bip_39_word_new_line_9 | blood
 broken
 puppy
 voyage

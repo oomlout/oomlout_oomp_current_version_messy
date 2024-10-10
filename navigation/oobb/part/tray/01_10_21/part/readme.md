@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bridge |  
-| bip_39_word_new_br10 | bridge<br>case<br>leg<br>conduct<br>unveil<br>sentence<br>can<br>element<br>mix<br>artefact |  
-| bip_39_word_new_br11 | bridge<br>case<br>leg<br>conduct<br>unveil<br>sentence<br>can<br>element<br>mix<br>artefact<br>century |  
-| bip_39_word_new_br12 | bridge<br>case<br>leg<br>conduct<br>unveil<br>sentence<br>can<br>element<br>mix<br>artefact<br>century<br>arctic |  
-| bip_39_word_new_br2 | bridge<br>case |  
-| bip_39_word_new_br3 | bridge<br>case<br>leg |  
-| bip_39_word_new_br4 | bridge<br>case<br>leg<br>conduct |  
-| bip_39_word_new_br5 | bridge<br>case<br>leg<br>conduct<br>unveil |  
-| bip_39_word_new_br6 | bridge<br>case<br>leg<br>conduct<br>unveil<br>sentence |  
-| bip_39_word_new_br7 | bridge<br>case<br>leg<br>conduct<br>unveil<br>sentence<br>can |  
-| bip_39_word_new_br8 | bridge<br>case<br>leg<br>conduct<br>unveil<br>sentence<br>can<br>element |  
-| bip_39_word_new_br9 | bridge<br>case<br>leg<br>conduct<br>unveil<br>sentence<br>can<br>element<br>mix |  
-| bip_39_word_new_line1 | bridge |  
-| bip_39_word_new_line10 | bridge
+| bip_39_word_new_br_1 | bridge |  
+| bip_39_word_new_br_10 | bridge<br>case<br>leg<br>conduct<br>unveil<br>sentence<br>can<br>element<br>mix<br>artefact |  
+| bip_39_word_new_br_11 | bridge<br>case<br>leg<br>conduct<br>unveil<br>sentence<br>can<br>element<br>mix<br>artefact<br>century |  
+| bip_39_word_new_br_12 | bridge<br>case<br>leg<br>conduct<br>unveil<br>sentence<br>can<br>element<br>mix<br>artefact<br>century<br>arctic |  
+| bip_39_word_new_br_2 | bridge<br>case |  
+| bip_39_word_new_br_3 | bridge<br>case<br>leg |  
+| bip_39_word_new_br_4 | bridge<br>case<br>leg<br>conduct |  
+| bip_39_word_new_br_5 | bridge<br>case<br>leg<br>conduct<br>unveil |  
+| bip_39_word_new_br_6 | bridge<br>case<br>leg<br>conduct<br>unveil<br>sentence |  
+| bip_39_word_new_br_7 | bridge<br>case<br>leg<br>conduct<br>unveil<br>sentence<br>can |  
+| bip_39_word_new_br_8 | bridge<br>case<br>leg<br>conduct<br>unveil<br>sentence<br>can<br>element |  
+| bip_39_word_new_br_9 | bridge<br>case<br>leg<br>conduct<br>unveil<br>sentence<br>can<br>element<br>mix |  
+| bip_39_word_new_line_1 | bridge |  
+| bip_39_word_new_line_10 | bridge
 case
 leg
 conduct
@@ -55,7 +55,7 @@ can
 element
 mix
 artefact |  
-| bip_39_word_new_line11 | bridge
+| bip_39_word_new_line_11 | bridge
 case
 leg
 conduct
@@ -66,7 +66,7 @@ element
 mix
 artefact
 century |  
-| bip_39_word_new_line12 | bridge
+| bip_39_word_new_line_12 | bridge
 case
 leg
 conduct
@@ -78,34 +78,34 @@ mix
 artefact
 century
 arctic |  
-| bip_39_word_new_line2 | bridge
+| bip_39_word_new_line_2 | bridge
 case |  
-| bip_39_word_new_line3 | bridge
+| bip_39_word_new_line_3 | bridge
 case
 leg |  
-| bip_39_word_new_line4 | bridge
+| bip_39_word_new_line_4 | bridge
 case
 leg
 conduct |  
-| bip_39_word_new_line5 | bridge
+| bip_39_word_new_line_5 | bridge
 case
 leg
 conduct
 unveil |  
-| bip_39_word_new_line6 | bridge
+| bip_39_word_new_line_6 | bridge
 case
 leg
 conduct
 unveil
 sentence |  
-| bip_39_word_new_line7 | bridge
+| bip_39_word_new_line_7 | bridge
 case
 leg
 conduct
 unveil
 sentence
 can |  
-| bip_39_word_new_line8 | bridge
+| bip_39_word_new_line_8 | bridge
 case
 leg
 conduct
@@ -113,7 +113,7 @@ unveil
 sentence
 can
 element |  
-| bip_39_word_new_line9 | bridge
+| bip_39_word_new_line_9 | bridge
 case
 leg
 conduct

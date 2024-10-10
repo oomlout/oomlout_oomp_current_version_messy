@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | black |  
-| bip_39_word_new_br10 | black<br>round<br>shadow<br>critic<br>guitar<br>luxury<br>aisle<br>win<br>skirt<br>crop |  
-| bip_39_word_new_br11 | black<br>round<br>shadow<br>critic<br>guitar<br>luxury<br>aisle<br>win<br>skirt<br>crop<br>original |  
-| bip_39_word_new_br12 | black<br>round<br>shadow<br>critic<br>guitar<br>luxury<br>aisle<br>win<br>skirt<br>crop<br>original<br>anger |  
-| bip_39_word_new_br2 | black<br>round |  
-| bip_39_word_new_br3 | black<br>round<br>shadow |  
-| bip_39_word_new_br4 | black<br>round<br>shadow<br>critic |  
-| bip_39_word_new_br5 | black<br>round<br>shadow<br>critic<br>guitar |  
-| bip_39_word_new_br6 | black<br>round<br>shadow<br>critic<br>guitar<br>luxury |  
-| bip_39_word_new_br7 | black<br>round<br>shadow<br>critic<br>guitar<br>luxury<br>aisle |  
-| bip_39_word_new_br8 | black<br>round<br>shadow<br>critic<br>guitar<br>luxury<br>aisle<br>win |  
-| bip_39_word_new_br9 | black<br>round<br>shadow<br>critic<br>guitar<br>luxury<br>aisle<br>win<br>skirt |  
-| bip_39_word_new_line1 | black |  
-| bip_39_word_new_line10 | black
+| bip_39_word_new_br_1 | black |  
+| bip_39_word_new_br_10 | black<br>round<br>shadow<br>critic<br>guitar<br>luxury<br>aisle<br>win<br>skirt<br>crop |  
+| bip_39_word_new_br_11 | black<br>round<br>shadow<br>critic<br>guitar<br>luxury<br>aisle<br>win<br>skirt<br>crop<br>original |  
+| bip_39_word_new_br_12 | black<br>round<br>shadow<br>critic<br>guitar<br>luxury<br>aisle<br>win<br>skirt<br>crop<br>original<br>anger |  
+| bip_39_word_new_br_2 | black<br>round |  
+| bip_39_word_new_br_3 | black<br>round<br>shadow |  
+| bip_39_word_new_br_4 | black<br>round<br>shadow<br>critic |  
+| bip_39_word_new_br_5 | black<br>round<br>shadow<br>critic<br>guitar |  
+| bip_39_word_new_br_6 | black<br>round<br>shadow<br>critic<br>guitar<br>luxury |  
+| bip_39_word_new_br_7 | black<br>round<br>shadow<br>critic<br>guitar<br>luxury<br>aisle |  
+| bip_39_word_new_br_8 | black<br>round<br>shadow<br>critic<br>guitar<br>luxury<br>aisle<br>win |  
+| bip_39_word_new_br_9 | black<br>round<br>shadow<br>critic<br>guitar<br>luxury<br>aisle<br>win<br>skirt |  
+| bip_39_word_new_line_1 | black |  
+| bip_39_word_new_line_10 | black
 round
 shadow
 critic
@@ -55,7 +55,7 @@ aisle
 win
 skirt
 crop |  
-| bip_39_word_new_line11 | black
+| bip_39_word_new_line_11 | black
 round
 shadow
 critic
@@ -66,7 +66,7 @@ win
 skirt
 crop
 original |  
-| bip_39_word_new_line12 | black
+| bip_39_word_new_line_12 | black
 round
 shadow
 critic
@@ -78,34 +78,34 @@ skirt
 crop
 original
 anger |  
-| bip_39_word_new_line2 | black
+| bip_39_word_new_line_2 | black
 round |  
-| bip_39_word_new_line3 | black
+| bip_39_word_new_line_3 | black
 round
 shadow |  
-| bip_39_word_new_line4 | black
+| bip_39_word_new_line_4 | black
 round
 shadow
 critic |  
-| bip_39_word_new_line5 | black
+| bip_39_word_new_line_5 | black
 round
 shadow
 critic
 guitar |  
-| bip_39_word_new_line6 | black
+| bip_39_word_new_line_6 | black
 round
 shadow
 critic
 guitar
 luxury |  
-| bip_39_word_new_line7 | black
+| bip_39_word_new_line_7 | black
 round
 shadow
 critic
 guitar
 luxury
 aisle |  
-| bip_39_word_new_line8 | black
+| bip_39_word_new_line_8 | black
 round
 shadow
 critic
@@ -113,7 +113,7 @@ guitar
 luxury
 aisle
 win |  
-| bip_39_word_new_line9 | black
+| bip_39_word_new_line_9 | black
 round
 shadow
 critic

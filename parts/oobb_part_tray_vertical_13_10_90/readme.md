@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | often |  
-| bip_39_word_new_br10 | often<br>romance<br>device<br>piano<br>impulse<br>song<br>giant<br>behave<br>ramp<br>expect |  
-| bip_39_word_new_br11 | often<br>romance<br>device<br>piano<br>impulse<br>song<br>giant<br>behave<br>ramp<br>expect<br>grab |  
-| bip_39_word_new_br12 | often<br>romance<br>device<br>piano<br>impulse<br>song<br>giant<br>behave<br>ramp<br>expect<br>grab<br>arrest |  
-| bip_39_word_new_br2 | often<br>romance |  
-| bip_39_word_new_br3 | often<br>romance<br>device |  
-| bip_39_word_new_br4 | often<br>romance<br>device<br>piano |  
-| bip_39_word_new_br5 | often<br>romance<br>device<br>piano<br>impulse |  
-| bip_39_word_new_br6 | often<br>romance<br>device<br>piano<br>impulse<br>song |  
-| bip_39_word_new_br7 | often<br>romance<br>device<br>piano<br>impulse<br>song<br>giant |  
-| bip_39_word_new_br8 | often<br>romance<br>device<br>piano<br>impulse<br>song<br>giant<br>behave |  
-| bip_39_word_new_br9 | often<br>romance<br>device<br>piano<br>impulse<br>song<br>giant<br>behave<br>ramp |  
-| bip_39_word_new_line1 | often |  
-| bip_39_word_new_line10 | often
+| bip_39_word_new_br_1 | often |  
+| bip_39_word_new_br_10 | often<br>romance<br>device<br>piano<br>impulse<br>song<br>giant<br>behave<br>ramp<br>expect |  
+| bip_39_word_new_br_11 | often<br>romance<br>device<br>piano<br>impulse<br>song<br>giant<br>behave<br>ramp<br>expect<br>grab |  
+| bip_39_word_new_br_12 | often<br>romance<br>device<br>piano<br>impulse<br>song<br>giant<br>behave<br>ramp<br>expect<br>grab<br>arrest |  
+| bip_39_word_new_br_2 | often<br>romance |  
+| bip_39_word_new_br_3 | often<br>romance<br>device |  
+| bip_39_word_new_br_4 | often<br>romance<br>device<br>piano |  
+| bip_39_word_new_br_5 | often<br>romance<br>device<br>piano<br>impulse |  
+| bip_39_word_new_br_6 | often<br>romance<br>device<br>piano<br>impulse<br>song |  
+| bip_39_word_new_br_7 | often<br>romance<br>device<br>piano<br>impulse<br>song<br>giant |  
+| bip_39_word_new_br_8 | often<br>romance<br>device<br>piano<br>impulse<br>song<br>giant<br>behave |  
+| bip_39_word_new_br_9 | often<br>romance<br>device<br>piano<br>impulse<br>song<br>giant<br>behave<br>ramp |  
+| bip_39_word_new_line_1 | often |  
+| bip_39_word_new_line_10 | often
 romance
 device
 piano
@@ -55,7 +55,7 @@ giant
 behave
 ramp
 expect |  
-| bip_39_word_new_line11 | often
+| bip_39_word_new_line_11 | often
 romance
 device
 piano
@@ -66,7 +66,7 @@ behave
 ramp
 expect
 grab |  
-| bip_39_word_new_line12 | often
+| bip_39_word_new_line_12 | often
 romance
 device
 piano
@@ -78,34 +78,34 @@ ramp
 expect
 grab
 arrest |  
-| bip_39_word_new_line2 | often
+| bip_39_word_new_line_2 | often
 romance |  
-| bip_39_word_new_line3 | often
+| bip_39_word_new_line_3 | often
 romance
 device |  
-| bip_39_word_new_line4 | often
+| bip_39_word_new_line_4 | often
 romance
 device
 piano |  
-| bip_39_word_new_line5 | often
+| bip_39_word_new_line_5 | often
 romance
 device
 piano
 impulse |  
-| bip_39_word_new_line6 | often
+| bip_39_word_new_line_6 | often
 romance
 device
 piano
 impulse
 song |  
-| bip_39_word_new_line7 | often
+| bip_39_word_new_line_7 | often
 romance
 device
 piano
 impulse
 song
 giant |  
-| bip_39_word_new_line8 | often
+| bip_39_word_new_line_8 | often
 romance
 device
 piano
@@ -113,7 +113,7 @@ impulse
 song
 giant
 behave |  
-| bip_39_word_new_line9 | often
+| bip_39_word_new_line_9 | often
 romance
 device
 piano

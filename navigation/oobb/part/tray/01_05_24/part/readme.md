@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rural |  
-| bip_39_word_new_br10 | rural<br>afraid<br>axis<br>range<br>cannon<br>enlist<br>special<br>bronze<br>will<br>solar |  
-| bip_39_word_new_br11 | rural<br>afraid<br>axis<br>range<br>cannon<br>enlist<br>special<br>bronze<br>will<br>solar<br>uphold |  
-| bip_39_word_new_br12 | rural<br>afraid<br>axis<br>range<br>cannon<br>enlist<br>special<br>bronze<br>will<br>solar<br>uphold<br>alone |  
-| bip_39_word_new_br2 | rural<br>afraid |  
-| bip_39_word_new_br3 | rural<br>afraid<br>axis |  
-| bip_39_word_new_br4 | rural<br>afraid<br>axis<br>range |  
-| bip_39_word_new_br5 | rural<br>afraid<br>axis<br>range<br>cannon |  
-| bip_39_word_new_br6 | rural<br>afraid<br>axis<br>range<br>cannon<br>enlist |  
-| bip_39_word_new_br7 | rural<br>afraid<br>axis<br>range<br>cannon<br>enlist<br>special |  
-| bip_39_word_new_br8 | rural<br>afraid<br>axis<br>range<br>cannon<br>enlist<br>special<br>bronze |  
-| bip_39_word_new_br9 | rural<br>afraid<br>axis<br>range<br>cannon<br>enlist<br>special<br>bronze<br>will |  
-| bip_39_word_new_line1 | rural |  
-| bip_39_word_new_line10 | rural
+| bip_39_word_new_br_1 | rural |  
+| bip_39_word_new_br_10 | rural<br>afraid<br>axis<br>range<br>cannon<br>enlist<br>special<br>bronze<br>will<br>solar |  
+| bip_39_word_new_br_11 | rural<br>afraid<br>axis<br>range<br>cannon<br>enlist<br>special<br>bronze<br>will<br>solar<br>uphold |  
+| bip_39_word_new_br_12 | rural<br>afraid<br>axis<br>range<br>cannon<br>enlist<br>special<br>bronze<br>will<br>solar<br>uphold<br>alone |  
+| bip_39_word_new_br_2 | rural<br>afraid |  
+| bip_39_word_new_br_3 | rural<br>afraid<br>axis |  
+| bip_39_word_new_br_4 | rural<br>afraid<br>axis<br>range |  
+| bip_39_word_new_br_5 | rural<br>afraid<br>axis<br>range<br>cannon |  
+| bip_39_word_new_br_6 | rural<br>afraid<br>axis<br>range<br>cannon<br>enlist |  
+| bip_39_word_new_br_7 | rural<br>afraid<br>axis<br>range<br>cannon<br>enlist<br>special |  
+| bip_39_word_new_br_8 | rural<br>afraid<br>axis<br>range<br>cannon<br>enlist<br>special<br>bronze |  
+| bip_39_word_new_br_9 | rural<br>afraid<br>axis<br>range<br>cannon<br>enlist<br>special<br>bronze<br>will |  
+| bip_39_word_new_line_1 | rural |  
+| bip_39_word_new_line_10 | rural
 afraid
 axis
 range
@@ -55,7 +55,7 @@ special
 bronze
 will
 solar |  
-| bip_39_word_new_line11 | rural
+| bip_39_word_new_line_11 | rural
 afraid
 axis
 range
@@ -66,7 +66,7 @@ bronze
 will
 solar
 uphold |  
-| bip_39_word_new_line12 | rural
+| bip_39_word_new_line_12 | rural
 afraid
 axis
 range
@@ -78,34 +78,34 @@ will
 solar
 uphold
 alone |  
-| bip_39_word_new_line2 | rural
+| bip_39_word_new_line_2 | rural
 afraid |  
-| bip_39_word_new_line3 | rural
+| bip_39_word_new_line_3 | rural
 afraid
 axis |  
-| bip_39_word_new_line4 | rural
+| bip_39_word_new_line_4 | rural
 afraid
 axis
 range |  
-| bip_39_word_new_line5 | rural
+| bip_39_word_new_line_5 | rural
 afraid
 axis
 range
 cannon |  
-| bip_39_word_new_line6 | rural
+| bip_39_word_new_line_6 | rural
 afraid
 axis
 range
 cannon
 enlist |  
-| bip_39_word_new_line7 | rural
+| bip_39_word_new_line_7 | rural
 afraid
 axis
 range
 cannon
 enlist
 special |  
-| bip_39_word_new_line8 | rural
+| bip_39_word_new_line_8 | rural
 afraid
 axis
 range
@@ -113,7 +113,7 @@ cannon
 enlist
 special
 bronze |  
-| bip_39_word_new_line9 | rural
+| bip_39_word_new_line_9 | rural
 afraid
 axis
 range

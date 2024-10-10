@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | arch |  
-| bip_39_word_new_br10 | arch<br>elephant<br>loyal<br>glimpse<br>plunge<br>glare<br>produce<br>trick<br>glance<br>spot |  
-| bip_39_word_new_br11 | arch<br>elephant<br>loyal<br>glimpse<br>plunge<br>glare<br>produce<br>trick<br>glance<br>spot<br>diamond |  
-| bip_39_word_new_br12 | arch<br>elephant<br>loyal<br>glimpse<br>plunge<br>glare<br>produce<br>trick<br>glance<br>spot<br>diamond<br>actor |  
-| bip_39_word_new_br2 | arch<br>elephant |  
-| bip_39_word_new_br3 | arch<br>elephant<br>loyal |  
-| bip_39_word_new_br4 | arch<br>elephant<br>loyal<br>glimpse |  
-| bip_39_word_new_br5 | arch<br>elephant<br>loyal<br>glimpse<br>plunge |  
-| bip_39_word_new_br6 | arch<br>elephant<br>loyal<br>glimpse<br>plunge<br>glare |  
-| bip_39_word_new_br7 | arch<br>elephant<br>loyal<br>glimpse<br>plunge<br>glare<br>produce |  
-| bip_39_word_new_br8 | arch<br>elephant<br>loyal<br>glimpse<br>plunge<br>glare<br>produce<br>trick |  
-| bip_39_word_new_br9 | arch<br>elephant<br>loyal<br>glimpse<br>plunge<br>glare<br>produce<br>trick<br>glance |  
-| bip_39_word_new_line1 | arch |  
-| bip_39_word_new_line10 | arch
+| bip_39_word_new_br_1 | arch |  
+| bip_39_word_new_br_10 | arch<br>elephant<br>loyal<br>glimpse<br>plunge<br>glare<br>produce<br>trick<br>glance<br>spot |  
+| bip_39_word_new_br_11 | arch<br>elephant<br>loyal<br>glimpse<br>plunge<br>glare<br>produce<br>trick<br>glance<br>spot<br>diamond |  
+| bip_39_word_new_br_12 | arch<br>elephant<br>loyal<br>glimpse<br>plunge<br>glare<br>produce<br>trick<br>glance<br>spot<br>diamond<br>actor |  
+| bip_39_word_new_br_2 | arch<br>elephant |  
+| bip_39_word_new_br_3 | arch<br>elephant<br>loyal |  
+| bip_39_word_new_br_4 | arch<br>elephant<br>loyal<br>glimpse |  
+| bip_39_word_new_br_5 | arch<br>elephant<br>loyal<br>glimpse<br>plunge |  
+| bip_39_word_new_br_6 | arch<br>elephant<br>loyal<br>glimpse<br>plunge<br>glare |  
+| bip_39_word_new_br_7 | arch<br>elephant<br>loyal<br>glimpse<br>plunge<br>glare<br>produce |  
+| bip_39_word_new_br_8 | arch<br>elephant<br>loyal<br>glimpse<br>plunge<br>glare<br>produce<br>trick |  
+| bip_39_word_new_br_9 | arch<br>elephant<br>loyal<br>glimpse<br>plunge<br>glare<br>produce<br>trick<br>glance |  
+| bip_39_word_new_line_1 | arch |  
+| bip_39_word_new_line_10 | arch
 elephant
 loyal
 glimpse
@@ -55,7 +55,7 @@ produce
 trick
 glance
 spot |  
-| bip_39_word_new_line11 | arch
+| bip_39_word_new_line_11 | arch
 elephant
 loyal
 glimpse
@@ -66,7 +66,7 @@ trick
 glance
 spot
 diamond |  
-| bip_39_word_new_line12 | arch
+| bip_39_word_new_line_12 | arch
 elephant
 loyal
 glimpse
@@ -78,34 +78,34 @@ glance
 spot
 diamond
 actor |  
-| bip_39_word_new_line2 | arch
+| bip_39_word_new_line_2 | arch
 elephant |  
-| bip_39_word_new_line3 | arch
+| bip_39_word_new_line_3 | arch
 elephant
 loyal |  
-| bip_39_word_new_line4 | arch
+| bip_39_word_new_line_4 | arch
 elephant
 loyal
 glimpse |  
-| bip_39_word_new_line5 | arch
+| bip_39_word_new_line_5 | arch
 elephant
 loyal
 glimpse
 plunge |  
-| bip_39_word_new_line6 | arch
+| bip_39_word_new_line_6 | arch
 elephant
 loyal
 glimpse
 plunge
 glare |  
-| bip_39_word_new_line7 | arch
+| bip_39_word_new_line_7 | arch
 elephant
 loyal
 glimpse
 plunge
 glare
 produce |  
-| bip_39_word_new_line8 | arch
+| bip_39_word_new_line_8 | arch
 elephant
 loyal
 glimpse
@@ -113,7 +113,7 @@ plunge
 glare
 produce
 trick |  
-| bip_39_word_new_line9 | arch
+| bip_39_word_new_line_9 | arch
 elephant
 loyal
 glimpse

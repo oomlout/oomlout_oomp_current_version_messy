@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | shoot |  
-| bip_39_word_new_br10 | shoot<br>cover<br>increase<br>copy<br>vendor<br>three<br>tired<br>dust<br>rescue<br>wage |  
-| bip_39_word_new_br11 | shoot<br>cover<br>increase<br>copy<br>vendor<br>three<br>tired<br>dust<br>rescue<br>wage<br>achieve |  
-| bip_39_word_new_br12 | shoot<br>cover<br>increase<br>copy<br>vendor<br>three<br>tired<br>dust<br>rescue<br>wage<br>achieve<br>allow |  
-| bip_39_word_new_br2 | shoot<br>cover |  
-| bip_39_word_new_br3 | shoot<br>cover<br>increase |  
-| bip_39_word_new_br4 | shoot<br>cover<br>increase<br>copy |  
-| bip_39_word_new_br5 | shoot<br>cover<br>increase<br>copy<br>vendor |  
-| bip_39_word_new_br6 | shoot<br>cover<br>increase<br>copy<br>vendor<br>three |  
-| bip_39_word_new_br7 | shoot<br>cover<br>increase<br>copy<br>vendor<br>three<br>tired |  
-| bip_39_word_new_br8 | shoot<br>cover<br>increase<br>copy<br>vendor<br>three<br>tired<br>dust |  
-| bip_39_word_new_br9 | shoot<br>cover<br>increase<br>copy<br>vendor<br>three<br>tired<br>dust<br>rescue |  
-| bip_39_word_new_line1 | shoot |  
-| bip_39_word_new_line10 | shoot
+| bip_39_word_new_br_1 | shoot |  
+| bip_39_word_new_br_10 | shoot<br>cover<br>increase<br>copy<br>vendor<br>three<br>tired<br>dust<br>rescue<br>wage |  
+| bip_39_word_new_br_11 | shoot<br>cover<br>increase<br>copy<br>vendor<br>three<br>tired<br>dust<br>rescue<br>wage<br>achieve |  
+| bip_39_word_new_br_12 | shoot<br>cover<br>increase<br>copy<br>vendor<br>three<br>tired<br>dust<br>rescue<br>wage<br>achieve<br>allow |  
+| bip_39_word_new_br_2 | shoot<br>cover |  
+| bip_39_word_new_br_3 | shoot<br>cover<br>increase |  
+| bip_39_word_new_br_4 | shoot<br>cover<br>increase<br>copy |  
+| bip_39_word_new_br_5 | shoot<br>cover<br>increase<br>copy<br>vendor |  
+| bip_39_word_new_br_6 | shoot<br>cover<br>increase<br>copy<br>vendor<br>three |  
+| bip_39_word_new_br_7 | shoot<br>cover<br>increase<br>copy<br>vendor<br>three<br>tired |  
+| bip_39_word_new_br_8 | shoot<br>cover<br>increase<br>copy<br>vendor<br>three<br>tired<br>dust |  
+| bip_39_word_new_br_9 | shoot<br>cover<br>increase<br>copy<br>vendor<br>three<br>tired<br>dust<br>rescue |  
+| bip_39_word_new_line_1 | shoot |  
+| bip_39_word_new_line_10 | shoot
 cover
 increase
 copy
@@ -55,7 +55,7 @@ tired
 dust
 rescue
 wage |  
-| bip_39_word_new_line11 | shoot
+| bip_39_word_new_line_11 | shoot
 cover
 increase
 copy
@@ -66,7 +66,7 @@ dust
 rescue
 wage
 achieve |  
-| bip_39_word_new_line12 | shoot
+| bip_39_word_new_line_12 | shoot
 cover
 increase
 copy
@@ -78,34 +78,34 @@ rescue
 wage
 achieve
 allow |  
-| bip_39_word_new_line2 | shoot
+| bip_39_word_new_line_2 | shoot
 cover |  
-| bip_39_word_new_line3 | shoot
+| bip_39_word_new_line_3 | shoot
 cover
 increase |  
-| bip_39_word_new_line4 | shoot
+| bip_39_word_new_line_4 | shoot
 cover
 increase
 copy |  
-| bip_39_word_new_line5 | shoot
+| bip_39_word_new_line_5 | shoot
 cover
 increase
 copy
 vendor |  
-| bip_39_word_new_line6 | shoot
+| bip_39_word_new_line_6 | shoot
 cover
 increase
 copy
 vendor
 three |  
-| bip_39_word_new_line7 | shoot
+| bip_39_word_new_line_7 | shoot
 cover
 increase
 copy
 vendor
 three
 tired |  
-| bip_39_word_new_line8 | shoot
+| bip_39_word_new_line_8 | shoot
 cover
 increase
 copy
@@ -113,7 +113,7 @@ vendor
 three
 tired
 dust |  
-| bip_39_word_new_line9 | shoot
+| bip_39_word_new_line_9 | shoot
 cover
 increase
 copy

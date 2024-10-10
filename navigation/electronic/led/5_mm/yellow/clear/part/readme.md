@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | burger |  
-| bip_39_word_new_br10 | burger<br>future<br>document<br>tuition<br>rent<br>weasel<br>excess<br>marble<br>tooth<br>sport |  
-| bip_39_word_new_br11 | burger<br>future<br>document<br>tuition<br>rent<br>weasel<br>excess<br>marble<br>tooth<br>sport<br>increase |  
-| bip_39_word_new_br12 | burger<br>future<br>document<br>tuition<br>rent<br>weasel<br>excess<br>marble<br>tooth<br>sport<br>increase<br>auction |  
-| bip_39_word_new_br2 | burger<br>future |  
-| bip_39_word_new_br3 | burger<br>future<br>document |  
-| bip_39_word_new_br4 | burger<br>future<br>document<br>tuition |  
-| bip_39_word_new_br5 | burger<br>future<br>document<br>tuition<br>rent |  
-| bip_39_word_new_br6 | burger<br>future<br>document<br>tuition<br>rent<br>weasel |  
-| bip_39_word_new_br7 | burger<br>future<br>document<br>tuition<br>rent<br>weasel<br>excess |  
-| bip_39_word_new_br8 | burger<br>future<br>document<br>tuition<br>rent<br>weasel<br>excess<br>marble |  
-| bip_39_word_new_br9 | burger<br>future<br>document<br>tuition<br>rent<br>weasel<br>excess<br>marble<br>tooth |  
-| bip_39_word_new_line1 | burger |  
-| bip_39_word_new_line10 | burger
+| bip_39_word_new_br_1 | burger |  
+| bip_39_word_new_br_10 | burger<br>future<br>document<br>tuition<br>rent<br>weasel<br>excess<br>marble<br>tooth<br>sport |  
+| bip_39_word_new_br_11 | burger<br>future<br>document<br>tuition<br>rent<br>weasel<br>excess<br>marble<br>tooth<br>sport<br>increase |  
+| bip_39_word_new_br_12 | burger<br>future<br>document<br>tuition<br>rent<br>weasel<br>excess<br>marble<br>tooth<br>sport<br>increase<br>auction |  
+| bip_39_word_new_br_2 | burger<br>future |  
+| bip_39_word_new_br_3 | burger<br>future<br>document |  
+| bip_39_word_new_br_4 | burger<br>future<br>document<br>tuition |  
+| bip_39_word_new_br_5 | burger<br>future<br>document<br>tuition<br>rent |  
+| bip_39_word_new_br_6 | burger<br>future<br>document<br>tuition<br>rent<br>weasel |  
+| bip_39_word_new_br_7 | burger<br>future<br>document<br>tuition<br>rent<br>weasel<br>excess |  
+| bip_39_word_new_br_8 | burger<br>future<br>document<br>tuition<br>rent<br>weasel<br>excess<br>marble |  
+| bip_39_word_new_br_9 | burger<br>future<br>document<br>tuition<br>rent<br>weasel<br>excess<br>marble<br>tooth |  
+| bip_39_word_new_line_1 | burger |  
+| bip_39_word_new_line_10 | burger
 future
 document
 tuition
@@ -55,7 +55,7 @@ excess
 marble
 tooth
 sport |  
-| bip_39_word_new_line11 | burger
+| bip_39_word_new_line_11 | burger
 future
 document
 tuition
@@ -66,7 +66,7 @@ marble
 tooth
 sport
 increase |  
-| bip_39_word_new_line12 | burger
+| bip_39_word_new_line_12 | burger
 future
 document
 tuition
@@ -78,34 +78,34 @@ tooth
 sport
 increase
 auction |  
-| bip_39_word_new_line2 | burger
+| bip_39_word_new_line_2 | burger
 future |  
-| bip_39_word_new_line3 | burger
+| bip_39_word_new_line_3 | burger
 future
 document |  
-| bip_39_word_new_line4 | burger
+| bip_39_word_new_line_4 | burger
 future
 document
 tuition |  
-| bip_39_word_new_line5 | burger
+| bip_39_word_new_line_5 | burger
 future
 document
 tuition
 rent |  
-| bip_39_word_new_line6 | burger
+| bip_39_word_new_line_6 | burger
 future
 document
 tuition
 rent
 weasel |  
-| bip_39_word_new_line7 | burger
+| bip_39_word_new_line_7 | burger
 future
 document
 tuition
 rent
 weasel
 excess |  
-| bip_39_word_new_line8 | burger
+| bip_39_word_new_line_8 | burger
 future
 document
 tuition
@@ -113,7 +113,7 @@ rent
 weasel
 excess
 marble |  
-| bip_39_word_new_line9 | burger
+| bip_39_word_new_line_9 | burger
 future
 document
 tuition

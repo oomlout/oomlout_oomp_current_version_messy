@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | adjust |  
-| bip_39_word_new_br10 | adjust<br>name<br>gossip<br>baby<br>page<br>quiz<br>tackle<br>carry<br>speak<br>front |  
-| bip_39_word_new_br11 | adjust<br>name<br>gossip<br>baby<br>page<br>quiz<br>tackle<br>carry<br>speak<br>front<br>keep |  
-| bip_39_word_new_br12 | adjust<br>name<br>gossip<br>baby<br>page<br>quiz<br>tackle<br>carry<br>speak<br>front<br>keep<br>amount |  
-| bip_39_word_new_br2 | adjust<br>name |  
-| bip_39_word_new_br3 | adjust<br>name<br>gossip |  
-| bip_39_word_new_br4 | adjust<br>name<br>gossip<br>baby |  
-| bip_39_word_new_br5 | adjust<br>name<br>gossip<br>baby<br>page |  
-| bip_39_word_new_br6 | adjust<br>name<br>gossip<br>baby<br>page<br>quiz |  
-| bip_39_word_new_br7 | adjust<br>name<br>gossip<br>baby<br>page<br>quiz<br>tackle |  
-| bip_39_word_new_br8 | adjust<br>name<br>gossip<br>baby<br>page<br>quiz<br>tackle<br>carry |  
-| bip_39_word_new_br9 | adjust<br>name<br>gossip<br>baby<br>page<br>quiz<br>tackle<br>carry<br>speak |  
-| bip_39_word_new_line1 | adjust |  
-| bip_39_word_new_line10 | adjust
+| bip_39_word_new_br_1 | adjust |  
+| bip_39_word_new_br_10 | adjust<br>name<br>gossip<br>baby<br>page<br>quiz<br>tackle<br>carry<br>speak<br>front |  
+| bip_39_word_new_br_11 | adjust<br>name<br>gossip<br>baby<br>page<br>quiz<br>tackle<br>carry<br>speak<br>front<br>keep |  
+| bip_39_word_new_br_12 | adjust<br>name<br>gossip<br>baby<br>page<br>quiz<br>tackle<br>carry<br>speak<br>front<br>keep<br>amount |  
+| bip_39_word_new_br_2 | adjust<br>name |  
+| bip_39_word_new_br_3 | adjust<br>name<br>gossip |  
+| bip_39_word_new_br_4 | adjust<br>name<br>gossip<br>baby |  
+| bip_39_word_new_br_5 | adjust<br>name<br>gossip<br>baby<br>page |  
+| bip_39_word_new_br_6 | adjust<br>name<br>gossip<br>baby<br>page<br>quiz |  
+| bip_39_word_new_br_7 | adjust<br>name<br>gossip<br>baby<br>page<br>quiz<br>tackle |  
+| bip_39_word_new_br_8 | adjust<br>name<br>gossip<br>baby<br>page<br>quiz<br>tackle<br>carry |  
+| bip_39_word_new_br_9 | adjust<br>name<br>gossip<br>baby<br>page<br>quiz<br>tackle<br>carry<br>speak |  
+| bip_39_word_new_line_1 | adjust |  
+| bip_39_word_new_line_10 | adjust
 name
 gossip
 baby
@@ -55,7 +55,7 @@ tackle
 carry
 speak
 front |  
-| bip_39_word_new_line11 | adjust
+| bip_39_word_new_line_11 | adjust
 name
 gossip
 baby
@@ -66,7 +66,7 @@ carry
 speak
 front
 keep |  
-| bip_39_word_new_line12 | adjust
+| bip_39_word_new_line_12 | adjust
 name
 gossip
 baby
@@ -78,34 +78,34 @@ speak
 front
 keep
 amount |  
-| bip_39_word_new_line2 | adjust
+| bip_39_word_new_line_2 | adjust
 name |  
-| bip_39_word_new_line3 | adjust
+| bip_39_word_new_line_3 | adjust
 name
 gossip |  
-| bip_39_word_new_line4 | adjust
+| bip_39_word_new_line_4 | adjust
 name
 gossip
 baby |  
-| bip_39_word_new_line5 | adjust
+| bip_39_word_new_line_5 | adjust
 name
 gossip
 baby
 page |  
-| bip_39_word_new_line6 | adjust
+| bip_39_word_new_line_6 | adjust
 name
 gossip
 baby
 page
 quiz |  
-| bip_39_word_new_line7 | adjust
+| bip_39_word_new_line_7 | adjust
 name
 gossip
 baby
 page
 quiz
 tackle |  
-| bip_39_word_new_line8 | adjust
+| bip_39_word_new_line_8 | adjust
 name
 gossip
 baby
@@ -113,7 +113,7 @@ page
 quiz
 tackle
 carry |  
-| bip_39_word_new_line9 | adjust
+| bip_39_word_new_line_9 | adjust
 name
 gossip
 baby

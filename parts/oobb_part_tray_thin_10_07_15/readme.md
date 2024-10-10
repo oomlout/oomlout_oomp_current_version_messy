@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dizzy |  
-| bip_39_word_new_br10 | dizzy<br>pizza<br>peasant<br>empower<br>veteran<br>birth<br>insect<br>arrow<br>solve<br>explain |  
-| bip_39_word_new_br11 | dizzy<br>pizza<br>peasant<br>empower<br>veteran<br>birth<br>insect<br>arrow<br>solve<br>explain<br>speak |  
-| bip_39_word_new_br12 | dizzy<br>pizza<br>peasant<br>empower<br>veteran<br>birth<br>insect<br>arrow<br>solve<br>explain<br>speak<br>abuse |  
-| bip_39_word_new_br2 | dizzy<br>pizza |  
-| bip_39_word_new_br3 | dizzy<br>pizza<br>peasant |  
-| bip_39_word_new_br4 | dizzy<br>pizza<br>peasant<br>empower |  
-| bip_39_word_new_br5 | dizzy<br>pizza<br>peasant<br>empower<br>veteran |  
-| bip_39_word_new_br6 | dizzy<br>pizza<br>peasant<br>empower<br>veteran<br>birth |  
-| bip_39_word_new_br7 | dizzy<br>pizza<br>peasant<br>empower<br>veteran<br>birth<br>insect |  
-| bip_39_word_new_br8 | dizzy<br>pizza<br>peasant<br>empower<br>veteran<br>birth<br>insect<br>arrow |  
-| bip_39_word_new_br9 | dizzy<br>pizza<br>peasant<br>empower<br>veteran<br>birth<br>insect<br>arrow<br>solve |  
-| bip_39_word_new_line1 | dizzy |  
-| bip_39_word_new_line10 | dizzy
+| bip_39_word_new_br_1 | dizzy |  
+| bip_39_word_new_br_10 | dizzy<br>pizza<br>peasant<br>empower<br>veteran<br>birth<br>insect<br>arrow<br>solve<br>explain |  
+| bip_39_word_new_br_11 | dizzy<br>pizza<br>peasant<br>empower<br>veteran<br>birth<br>insect<br>arrow<br>solve<br>explain<br>speak |  
+| bip_39_word_new_br_12 | dizzy<br>pizza<br>peasant<br>empower<br>veteran<br>birth<br>insect<br>arrow<br>solve<br>explain<br>speak<br>abuse |  
+| bip_39_word_new_br_2 | dizzy<br>pizza |  
+| bip_39_word_new_br_3 | dizzy<br>pizza<br>peasant |  
+| bip_39_word_new_br_4 | dizzy<br>pizza<br>peasant<br>empower |  
+| bip_39_word_new_br_5 | dizzy<br>pizza<br>peasant<br>empower<br>veteran |  
+| bip_39_word_new_br_6 | dizzy<br>pizza<br>peasant<br>empower<br>veteran<br>birth |  
+| bip_39_word_new_br_7 | dizzy<br>pizza<br>peasant<br>empower<br>veteran<br>birth<br>insect |  
+| bip_39_word_new_br_8 | dizzy<br>pizza<br>peasant<br>empower<br>veteran<br>birth<br>insect<br>arrow |  
+| bip_39_word_new_br_9 | dizzy<br>pizza<br>peasant<br>empower<br>veteran<br>birth<br>insect<br>arrow<br>solve |  
+| bip_39_word_new_line_1 | dizzy |  
+| bip_39_word_new_line_10 | dizzy
 pizza
 peasant
 empower
@@ -55,7 +55,7 @@ insect
 arrow
 solve
 explain |  
-| bip_39_word_new_line11 | dizzy
+| bip_39_word_new_line_11 | dizzy
 pizza
 peasant
 empower
@@ -66,7 +66,7 @@ arrow
 solve
 explain
 speak |  
-| bip_39_word_new_line12 | dizzy
+| bip_39_word_new_line_12 | dizzy
 pizza
 peasant
 empower
@@ -78,34 +78,34 @@ solve
 explain
 speak
 abuse |  
-| bip_39_word_new_line2 | dizzy
+| bip_39_word_new_line_2 | dizzy
 pizza |  
-| bip_39_word_new_line3 | dizzy
+| bip_39_word_new_line_3 | dizzy
 pizza
 peasant |  
-| bip_39_word_new_line4 | dizzy
+| bip_39_word_new_line_4 | dizzy
 pizza
 peasant
 empower |  
-| bip_39_word_new_line5 | dizzy
+| bip_39_word_new_line_5 | dizzy
 pizza
 peasant
 empower
 veteran |  
-| bip_39_word_new_line6 | dizzy
+| bip_39_word_new_line_6 | dizzy
 pizza
 peasant
 empower
 veteran
 birth |  
-| bip_39_word_new_line7 | dizzy
+| bip_39_word_new_line_7 | dizzy
 pizza
 peasant
 empower
 veteran
 birth
 insect |  
-| bip_39_word_new_line8 | dizzy
+| bip_39_word_new_line_8 | dizzy
 pizza
 peasant
 empower
@@ -113,7 +113,7 @@ veteran
 birth
 insect
 arrow |  
-| bip_39_word_new_line9 | dizzy
+| bip_39_word_new_line_9 | dizzy
 pizza
 peasant
 empower

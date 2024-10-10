@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | stadium |  
-| bip_39_word_new_br10 | stadium<br>all<br>cancel<br>type<br>punch<br>seat<br>drop<br>crush<br>spawn<br>fetch |  
-| bip_39_word_new_br11 | stadium<br>all<br>cancel<br>type<br>punch<br>seat<br>drop<br>crush<br>spawn<br>fetch<br>pole |  
-| bip_39_word_new_br12 | stadium<br>all<br>cancel<br>type<br>punch<br>seat<br>drop<br>crush<br>spawn<br>fetch<br>pole<br>any |  
-| bip_39_word_new_br2 | stadium<br>all |  
-| bip_39_word_new_br3 | stadium<br>all<br>cancel |  
-| bip_39_word_new_br4 | stadium<br>all<br>cancel<br>type |  
-| bip_39_word_new_br5 | stadium<br>all<br>cancel<br>type<br>punch |  
-| bip_39_word_new_br6 | stadium<br>all<br>cancel<br>type<br>punch<br>seat |  
-| bip_39_word_new_br7 | stadium<br>all<br>cancel<br>type<br>punch<br>seat<br>drop |  
-| bip_39_word_new_br8 | stadium<br>all<br>cancel<br>type<br>punch<br>seat<br>drop<br>crush |  
-| bip_39_word_new_br9 | stadium<br>all<br>cancel<br>type<br>punch<br>seat<br>drop<br>crush<br>spawn |  
-| bip_39_word_new_line1 | stadium |  
-| bip_39_word_new_line10 | stadium
+| bip_39_word_new_br_1 | stadium |  
+| bip_39_word_new_br_10 | stadium<br>all<br>cancel<br>type<br>punch<br>seat<br>drop<br>crush<br>spawn<br>fetch |  
+| bip_39_word_new_br_11 | stadium<br>all<br>cancel<br>type<br>punch<br>seat<br>drop<br>crush<br>spawn<br>fetch<br>pole |  
+| bip_39_word_new_br_12 | stadium<br>all<br>cancel<br>type<br>punch<br>seat<br>drop<br>crush<br>spawn<br>fetch<br>pole<br>any |  
+| bip_39_word_new_br_2 | stadium<br>all |  
+| bip_39_word_new_br_3 | stadium<br>all<br>cancel |  
+| bip_39_word_new_br_4 | stadium<br>all<br>cancel<br>type |  
+| bip_39_word_new_br_5 | stadium<br>all<br>cancel<br>type<br>punch |  
+| bip_39_word_new_br_6 | stadium<br>all<br>cancel<br>type<br>punch<br>seat |  
+| bip_39_word_new_br_7 | stadium<br>all<br>cancel<br>type<br>punch<br>seat<br>drop |  
+| bip_39_word_new_br_8 | stadium<br>all<br>cancel<br>type<br>punch<br>seat<br>drop<br>crush |  
+| bip_39_word_new_br_9 | stadium<br>all<br>cancel<br>type<br>punch<br>seat<br>drop<br>crush<br>spawn |  
+| bip_39_word_new_line_1 | stadium |  
+| bip_39_word_new_line_10 | stadium
 all
 cancel
 type
@@ -55,7 +55,7 @@ drop
 crush
 spawn
 fetch |  
-| bip_39_word_new_line11 | stadium
+| bip_39_word_new_line_11 | stadium
 all
 cancel
 type
@@ -66,7 +66,7 @@ crush
 spawn
 fetch
 pole |  
-| bip_39_word_new_line12 | stadium
+| bip_39_word_new_line_12 | stadium
 all
 cancel
 type
@@ -78,34 +78,34 @@ spawn
 fetch
 pole
 any |  
-| bip_39_word_new_line2 | stadium
+| bip_39_word_new_line_2 | stadium
 all |  
-| bip_39_word_new_line3 | stadium
+| bip_39_word_new_line_3 | stadium
 all
 cancel |  
-| bip_39_word_new_line4 | stadium
+| bip_39_word_new_line_4 | stadium
 all
 cancel
 type |  
-| bip_39_word_new_line5 | stadium
+| bip_39_word_new_line_5 | stadium
 all
 cancel
 type
 punch |  
-| bip_39_word_new_line6 | stadium
+| bip_39_word_new_line_6 | stadium
 all
 cancel
 type
 punch
 seat |  
-| bip_39_word_new_line7 | stadium
+| bip_39_word_new_line_7 | stadium
 all
 cancel
 type
 punch
 seat
 drop |  
-| bip_39_word_new_line8 | stadium
+| bip_39_word_new_line_8 | stadium
 all
 cancel
 type
@@ -113,7 +113,7 @@ punch
 seat
 drop
 crush |  
-| bip_39_word_new_line9 | stadium
+| bip_39_word_new_line_9 | stadium
 all
 cancel
 type

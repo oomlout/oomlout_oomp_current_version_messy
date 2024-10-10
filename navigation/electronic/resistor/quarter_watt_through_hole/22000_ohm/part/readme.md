@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | much |  
-| bip_39_word_new_br10 | much<br>confirm<br>lunch<br>friend<br>artist<br>blame<br>coast<br>giant<br>riot<br>reopen |  
-| bip_39_word_new_br11 | much<br>confirm<br>lunch<br>friend<br>artist<br>blame<br>coast<br>giant<br>riot<br>reopen<br>slam |  
-| bip_39_word_new_br12 | much<br>confirm<br>lunch<br>friend<br>artist<br>blame<br>coast<br>giant<br>riot<br>reopen<br>slam<br>able |  
-| bip_39_word_new_br2 | much<br>confirm |  
-| bip_39_word_new_br3 | much<br>confirm<br>lunch |  
-| bip_39_word_new_br4 | much<br>confirm<br>lunch<br>friend |  
-| bip_39_word_new_br5 | much<br>confirm<br>lunch<br>friend<br>artist |  
-| bip_39_word_new_br6 | much<br>confirm<br>lunch<br>friend<br>artist<br>blame |  
-| bip_39_word_new_br7 | much<br>confirm<br>lunch<br>friend<br>artist<br>blame<br>coast |  
-| bip_39_word_new_br8 | much<br>confirm<br>lunch<br>friend<br>artist<br>blame<br>coast<br>giant |  
-| bip_39_word_new_br9 | much<br>confirm<br>lunch<br>friend<br>artist<br>blame<br>coast<br>giant<br>riot |  
-| bip_39_word_new_line1 | much |  
-| bip_39_word_new_line10 | much
+| bip_39_word_new_br_1 | much |  
+| bip_39_word_new_br_10 | much<br>confirm<br>lunch<br>friend<br>artist<br>blame<br>coast<br>giant<br>riot<br>reopen |  
+| bip_39_word_new_br_11 | much<br>confirm<br>lunch<br>friend<br>artist<br>blame<br>coast<br>giant<br>riot<br>reopen<br>slam |  
+| bip_39_word_new_br_12 | much<br>confirm<br>lunch<br>friend<br>artist<br>blame<br>coast<br>giant<br>riot<br>reopen<br>slam<br>able |  
+| bip_39_word_new_br_2 | much<br>confirm |  
+| bip_39_word_new_br_3 | much<br>confirm<br>lunch |  
+| bip_39_word_new_br_4 | much<br>confirm<br>lunch<br>friend |  
+| bip_39_word_new_br_5 | much<br>confirm<br>lunch<br>friend<br>artist |  
+| bip_39_word_new_br_6 | much<br>confirm<br>lunch<br>friend<br>artist<br>blame |  
+| bip_39_word_new_br_7 | much<br>confirm<br>lunch<br>friend<br>artist<br>blame<br>coast |  
+| bip_39_word_new_br_8 | much<br>confirm<br>lunch<br>friend<br>artist<br>blame<br>coast<br>giant |  
+| bip_39_word_new_br_9 | much<br>confirm<br>lunch<br>friend<br>artist<br>blame<br>coast<br>giant<br>riot |  
+| bip_39_word_new_line_1 | much |  
+| bip_39_word_new_line_10 | much
 confirm
 lunch
 friend
@@ -55,7 +55,7 @@ coast
 giant
 riot
 reopen |  
-| bip_39_word_new_line11 | much
+| bip_39_word_new_line_11 | much
 confirm
 lunch
 friend
@@ -66,7 +66,7 @@ giant
 riot
 reopen
 slam |  
-| bip_39_word_new_line12 | much
+| bip_39_word_new_line_12 | much
 confirm
 lunch
 friend
@@ -78,34 +78,34 @@ riot
 reopen
 slam
 able |  
-| bip_39_word_new_line2 | much
+| bip_39_word_new_line_2 | much
 confirm |  
-| bip_39_word_new_line3 | much
+| bip_39_word_new_line_3 | much
 confirm
 lunch |  
-| bip_39_word_new_line4 | much
+| bip_39_word_new_line_4 | much
 confirm
 lunch
 friend |  
-| bip_39_word_new_line5 | much
+| bip_39_word_new_line_5 | much
 confirm
 lunch
 friend
 artist |  
-| bip_39_word_new_line6 | much
+| bip_39_word_new_line_6 | much
 confirm
 lunch
 friend
 artist
 blame |  
-| bip_39_word_new_line7 | much
+| bip_39_word_new_line_7 | much
 confirm
 lunch
 friend
 artist
 blame
 coast |  
-| bip_39_word_new_line8 | much
+| bip_39_word_new_line_8 | much
 confirm
 lunch
 friend
@@ -113,7 +113,7 @@ artist
 blame
 coast
 giant |  
-| bip_39_word_new_line9 | much
+| bip_39_word_new_line_9 | much
 confirm
 lunch
 friend

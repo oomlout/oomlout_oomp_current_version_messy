@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | chief |  
-| bip_39_word_new_br10 | chief<br>donkey<br>arrow<br>industry<br>humble<br>ticket<br>script<br>winner<br>wear<br>bulb |  
-| bip_39_word_new_br11 | chief<br>donkey<br>arrow<br>industry<br>humble<br>ticket<br>script<br>winner<br>wear<br>bulb<br>draw |  
-| bip_39_word_new_br12 | chief<br>donkey<br>arrow<br>industry<br>humble<br>ticket<br>script<br>winner<br>wear<br>bulb<br>draw<br>also |  
-| bip_39_word_new_br2 | chief<br>donkey |  
-| bip_39_word_new_br3 | chief<br>donkey<br>arrow |  
-| bip_39_word_new_br4 | chief<br>donkey<br>arrow<br>industry |  
-| bip_39_word_new_br5 | chief<br>donkey<br>arrow<br>industry<br>humble |  
-| bip_39_word_new_br6 | chief<br>donkey<br>arrow<br>industry<br>humble<br>ticket |  
-| bip_39_word_new_br7 | chief<br>donkey<br>arrow<br>industry<br>humble<br>ticket<br>script |  
-| bip_39_word_new_br8 | chief<br>donkey<br>arrow<br>industry<br>humble<br>ticket<br>script<br>winner |  
-| bip_39_word_new_br9 | chief<br>donkey<br>arrow<br>industry<br>humble<br>ticket<br>script<br>winner<br>wear |  
-| bip_39_word_new_line1 | chief |  
-| bip_39_word_new_line10 | chief
+| bip_39_word_new_br_1 | chief |  
+| bip_39_word_new_br_10 | chief<br>donkey<br>arrow<br>industry<br>humble<br>ticket<br>script<br>winner<br>wear<br>bulb |  
+| bip_39_word_new_br_11 | chief<br>donkey<br>arrow<br>industry<br>humble<br>ticket<br>script<br>winner<br>wear<br>bulb<br>draw |  
+| bip_39_word_new_br_12 | chief<br>donkey<br>arrow<br>industry<br>humble<br>ticket<br>script<br>winner<br>wear<br>bulb<br>draw<br>also |  
+| bip_39_word_new_br_2 | chief<br>donkey |  
+| bip_39_word_new_br_3 | chief<br>donkey<br>arrow |  
+| bip_39_word_new_br_4 | chief<br>donkey<br>arrow<br>industry |  
+| bip_39_word_new_br_5 | chief<br>donkey<br>arrow<br>industry<br>humble |  
+| bip_39_word_new_br_6 | chief<br>donkey<br>arrow<br>industry<br>humble<br>ticket |  
+| bip_39_word_new_br_7 | chief<br>donkey<br>arrow<br>industry<br>humble<br>ticket<br>script |  
+| bip_39_word_new_br_8 | chief<br>donkey<br>arrow<br>industry<br>humble<br>ticket<br>script<br>winner |  
+| bip_39_word_new_br_9 | chief<br>donkey<br>arrow<br>industry<br>humble<br>ticket<br>script<br>winner<br>wear |  
+| bip_39_word_new_line_1 | chief |  
+| bip_39_word_new_line_10 | chief
 donkey
 arrow
 industry
@@ -55,7 +55,7 @@ script
 winner
 wear
 bulb |  
-| bip_39_word_new_line11 | chief
+| bip_39_word_new_line_11 | chief
 donkey
 arrow
 industry
@@ -66,7 +66,7 @@ winner
 wear
 bulb
 draw |  
-| bip_39_word_new_line12 | chief
+| bip_39_word_new_line_12 | chief
 donkey
 arrow
 industry
@@ -78,34 +78,34 @@ wear
 bulb
 draw
 also |  
-| bip_39_word_new_line2 | chief
+| bip_39_word_new_line_2 | chief
 donkey |  
-| bip_39_word_new_line3 | chief
+| bip_39_word_new_line_3 | chief
 donkey
 arrow |  
-| bip_39_word_new_line4 | chief
+| bip_39_word_new_line_4 | chief
 donkey
 arrow
 industry |  
-| bip_39_word_new_line5 | chief
+| bip_39_word_new_line_5 | chief
 donkey
 arrow
 industry
 humble |  
-| bip_39_word_new_line6 | chief
+| bip_39_word_new_line_6 | chief
 donkey
 arrow
 industry
 humble
 ticket |  
-| bip_39_word_new_line7 | chief
+| bip_39_word_new_line_7 | chief
 donkey
 arrow
 industry
 humble
 ticket
 script |  
-| bip_39_word_new_line8 | chief
+| bip_39_word_new_line_8 | chief
 donkey
 arrow
 industry
@@ -113,7 +113,7 @@ humble
 ticket
 script
 winner |  
-| bip_39_word_new_line9 | chief
+| bip_39_word_new_line_9 | chief
 donkey
 arrow
 industry

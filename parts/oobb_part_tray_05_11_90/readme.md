@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | turtle |  
-| bip_39_word_new_br10 | turtle<br>decrease<br>option<br>punch<br>unfair<br>invest<br>caught<br>hazard<br>art<br>equal |  
-| bip_39_word_new_br11 | turtle<br>decrease<br>option<br>punch<br>unfair<br>invest<br>caught<br>hazard<br>art<br>equal<br>power |  
-| bip_39_word_new_br12 | turtle<br>decrease<br>option<br>punch<br>unfair<br>invest<br>caught<br>hazard<br>art<br>equal<br>power<br>acquire |  
-| bip_39_word_new_br2 | turtle<br>decrease |  
-| bip_39_word_new_br3 | turtle<br>decrease<br>option |  
-| bip_39_word_new_br4 | turtle<br>decrease<br>option<br>punch |  
-| bip_39_word_new_br5 | turtle<br>decrease<br>option<br>punch<br>unfair |  
-| bip_39_word_new_br6 | turtle<br>decrease<br>option<br>punch<br>unfair<br>invest |  
-| bip_39_word_new_br7 | turtle<br>decrease<br>option<br>punch<br>unfair<br>invest<br>caught |  
-| bip_39_word_new_br8 | turtle<br>decrease<br>option<br>punch<br>unfair<br>invest<br>caught<br>hazard |  
-| bip_39_word_new_br9 | turtle<br>decrease<br>option<br>punch<br>unfair<br>invest<br>caught<br>hazard<br>art |  
-| bip_39_word_new_line1 | turtle |  
-| bip_39_word_new_line10 | turtle
+| bip_39_word_new_br_1 | turtle |  
+| bip_39_word_new_br_10 | turtle<br>decrease<br>option<br>punch<br>unfair<br>invest<br>caught<br>hazard<br>art<br>equal |  
+| bip_39_word_new_br_11 | turtle<br>decrease<br>option<br>punch<br>unfair<br>invest<br>caught<br>hazard<br>art<br>equal<br>power |  
+| bip_39_word_new_br_12 | turtle<br>decrease<br>option<br>punch<br>unfair<br>invest<br>caught<br>hazard<br>art<br>equal<br>power<br>acquire |  
+| bip_39_word_new_br_2 | turtle<br>decrease |  
+| bip_39_word_new_br_3 | turtle<br>decrease<br>option |  
+| bip_39_word_new_br_4 | turtle<br>decrease<br>option<br>punch |  
+| bip_39_word_new_br_5 | turtle<br>decrease<br>option<br>punch<br>unfair |  
+| bip_39_word_new_br_6 | turtle<br>decrease<br>option<br>punch<br>unfair<br>invest |  
+| bip_39_word_new_br_7 | turtle<br>decrease<br>option<br>punch<br>unfair<br>invest<br>caught |  
+| bip_39_word_new_br_8 | turtle<br>decrease<br>option<br>punch<br>unfair<br>invest<br>caught<br>hazard |  
+| bip_39_word_new_br_9 | turtle<br>decrease<br>option<br>punch<br>unfair<br>invest<br>caught<br>hazard<br>art |  
+| bip_39_word_new_line_1 | turtle |  
+| bip_39_word_new_line_10 | turtle
 decrease
 option
 punch
@@ -55,7 +55,7 @@ caught
 hazard
 art
 equal |  
-| bip_39_word_new_line11 | turtle
+| bip_39_word_new_line_11 | turtle
 decrease
 option
 punch
@@ -66,7 +66,7 @@ hazard
 art
 equal
 power |  
-| bip_39_word_new_line12 | turtle
+| bip_39_word_new_line_12 | turtle
 decrease
 option
 punch
@@ -78,34 +78,34 @@ art
 equal
 power
 acquire |  
-| bip_39_word_new_line2 | turtle
+| bip_39_word_new_line_2 | turtle
 decrease |  
-| bip_39_word_new_line3 | turtle
+| bip_39_word_new_line_3 | turtle
 decrease
 option |  
-| bip_39_word_new_line4 | turtle
+| bip_39_word_new_line_4 | turtle
 decrease
 option
 punch |  
-| bip_39_word_new_line5 | turtle
+| bip_39_word_new_line_5 | turtle
 decrease
 option
 punch
 unfair |  
-| bip_39_word_new_line6 | turtle
+| bip_39_word_new_line_6 | turtle
 decrease
 option
 punch
 unfair
 invest |  
-| bip_39_word_new_line7 | turtle
+| bip_39_word_new_line_7 | turtle
 decrease
 option
 punch
 unfair
 invest
 caught |  
-| bip_39_word_new_line8 | turtle
+| bip_39_word_new_line_8 | turtle
 decrease
 option
 punch
@@ -113,7 +113,7 @@ unfair
 invest
 caught
 hazard |  
-| bip_39_word_new_line9 | turtle
+| bip_39_word_new_line_9 | turtle
 decrease
 option
 punch

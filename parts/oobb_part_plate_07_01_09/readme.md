@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fiscal |  
-| bip_39_word_new_br10 | fiscal<br>jealous<br>heart<br>radar<br>tobacco<br>age<br>piano<br>child<br>address<br>submit |  
-| bip_39_word_new_br11 | fiscal<br>jealous<br>heart<br>radar<br>tobacco<br>age<br>piano<br>child<br>address<br>submit<br>mesh |  
-| bip_39_word_new_br12 | fiscal<br>jealous<br>heart<br>radar<br>tobacco<br>age<br>piano<br>child<br>address<br>submit<br>mesh<br>another |  
-| bip_39_word_new_br2 | fiscal<br>jealous |  
-| bip_39_word_new_br3 | fiscal<br>jealous<br>heart |  
-| bip_39_word_new_br4 | fiscal<br>jealous<br>heart<br>radar |  
-| bip_39_word_new_br5 | fiscal<br>jealous<br>heart<br>radar<br>tobacco |  
-| bip_39_word_new_br6 | fiscal<br>jealous<br>heart<br>radar<br>tobacco<br>age |  
-| bip_39_word_new_br7 | fiscal<br>jealous<br>heart<br>radar<br>tobacco<br>age<br>piano |  
-| bip_39_word_new_br8 | fiscal<br>jealous<br>heart<br>radar<br>tobacco<br>age<br>piano<br>child |  
-| bip_39_word_new_br9 | fiscal<br>jealous<br>heart<br>radar<br>tobacco<br>age<br>piano<br>child<br>address |  
-| bip_39_word_new_line1 | fiscal |  
-| bip_39_word_new_line10 | fiscal
+| bip_39_word_new_br_1 | fiscal |  
+| bip_39_word_new_br_10 | fiscal<br>jealous<br>heart<br>radar<br>tobacco<br>age<br>piano<br>child<br>address<br>submit |  
+| bip_39_word_new_br_11 | fiscal<br>jealous<br>heart<br>radar<br>tobacco<br>age<br>piano<br>child<br>address<br>submit<br>mesh |  
+| bip_39_word_new_br_12 | fiscal<br>jealous<br>heart<br>radar<br>tobacco<br>age<br>piano<br>child<br>address<br>submit<br>mesh<br>another |  
+| bip_39_word_new_br_2 | fiscal<br>jealous |  
+| bip_39_word_new_br_3 | fiscal<br>jealous<br>heart |  
+| bip_39_word_new_br_4 | fiscal<br>jealous<br>heart<br>radar |  
+| bip_39_word_new_br_5 | fiscal<br>jealous<br>heart<br>radar<br>tobacco |  
+| bip_39_word_new_br_6 | fiscal<br>jealous<br>heart<br>radar<br>tobacco<br>age |  
+| bip_39_word_new_br_7 | fiscal<br>jealous<br>heart<br>radar<br>tobacco<br>age<br>piano |  
+| bip_39_word_new_br_8 | fiscal<br>jealous<br>heart<br>radar<br>tobacco<br>age<br>piano<br>child |  
+| bip_39_word_new_br_9 | fiscal<br>jealous<br>heart<br>radar<br>tobacco<br>age<br>piano<br>child<br>address |  
+| bip_39_word_new_line_1 | fiscal |  
+| bip_39_word_new_line_10 | fiscal
 jealous
 heart
 radar
@@ -55,7 +55,7 @@ piano
 child
 address
 submit |  
-| bip_39_word_new_line11 | fiscal
+| bip_39_word_new_line_11 | fiscal
 jealous
 heart
 radar
@@ -66,7 +66,7 @@ child
 address
 submit
 mesh |  
-| bip_39_word_new_line12 | fiscal
+| bip_39_word_new_line_12 | fiscal
 jealous
 heart
 radar
@@ -78,34 +78,34 @@ address
 submit
 mesh
 another |  
-| bip_39_word_new_line2 | fiscal
+| bip_39_word_new_line_2 | fiscal
 jealous |  
-| bip_39_word_new_line3 | fiscal
+| bip_39_word_new_line_3 | fiscal
 jealous
 heart |  
-| bip_39_word_new_line4 | fiscal
+| bip_39_word_new_line_4 | fiscal
 jealous
 heart
 radar |  
-| bip_39_word_new_line5 | fiscal
+| bip_39_word_new_line_5 | fiscal
 jealous
 heart
 radar
 tobacco |  
-| bip_39_word_new_line6 | fiscal
+| bip_39_word_new_line_6 | fiscal
 jealous
 heart
 radar
 tobacco
 age |  
-| bip_39_word_new_line7 | fiscal
+| bip_39_word_new_line_7 | fiscal
 jealous
 heart
 radar
 tobacco
 age
 piano |  
-| bip_39_word_new_line8 | fiscal
+| bip_39_word_new_line_8 | fiscal
 jealous
 heart
 radar
@@ -113,7 +113,7 @@ tobacco
 age
 piano
 child |  
-| bip_39_word_new_line9 | fiscal
+| bip_39_word_new_line_9 | fiscal
 jealous
 heart
 radar

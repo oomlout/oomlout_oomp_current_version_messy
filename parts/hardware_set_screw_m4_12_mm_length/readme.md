@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | face |  
-| bip_39_word_new_br10 | face<br>bid<br>energy<br>antenna<br>teach<br>tragic<br>build<br>distance<br>grocery<br>hint |  
-| bip_39_word_new_br11 | face<br>bid<br>energy<br>antenna<br>teach<br>tragic<br>build<br>distance<br>grocery<br>hint<br>develop |  
-| bip_39_word_new_br12 | face<br>bid<br>energy<br>antenna<br>teach<br>tragic<br>build<br>distance<br>grocery<br>hint<br>develop<br>area |  
-| bip_39_word_new_br2 | face<br>bid |  
-| bip_39_word_new_br3 | face<br>bid<br>energy |  
-| bip_39_word_new_br4 | face<br>bid<br>energy<br>antenna |  
-| bip_39_word_new_br5 | face<br>bid<br>energy<br>antenna<br>teach |  
-| bip_39_word_new_br6 | face<br>bid<br>energy<br>antenna<br>teach<br>tragic |  
-| bip_39_word_new_br7 | face<br>bid<br>energy<br>antenna<br>teach<br>tragic<br>build |  
-| bip_39_word_new_br8 | face<br>bid<br>energy<br>antenna<br>teach<br>tragic<br>build<br>distance |  
-| bip_39_word_new_br9 | face<br>bid<br>energy<br>antenna<br>teach<br>tragic<br>build<br>distance<br>grocery |  
-| bip_39_word_new_line1 | face |  
-| bip_39_word_new_line10 | face
+| bip_39_word_new_br_1 | face |  
+| bip_39_word_new_br_10 | face<br>bid<br>energy<br>antenna<br>teach<br>tragic<br>build<br>distance<br>grocery<br>hint |  
+| bip_39_word_new_br_11 | face<br>bid<br>energy<br>antenna<br>teach<br>tragic<br>build<br>distance<br>grocery<br>hint<br>develop |  
+| bip_39_word_new_br_12 | face<br>bid<br>energy<br>antenna<br>teach<br>tragic<br>build<br>distance<br>grocery<br>hint<br>develop<br>area |  
+| bip_39_word_new_br_2 | face<br>bid |  
+| bip_39_word_new_br_3 | face<br>bid<br>energy |  
+| bip_39_word_new_br_4 | face<br>bid<br>energy<br>antenna |  
+| bip_39_word_new_br_5 | face<br>bid<br>energy<br>antenna<br>teach |  
+| bip_39_word_new_br_6 | face<br>bid<br>energy<br>antenna<br>teach<br>tragic |  
+| bip_39_word_new_br_7 | face<br>bid<br>energy<br>antenna<br>teach<br>tragic<br>build |  
+| bip_39_word_new_br_8 | face<br>bid<br>energy<br>antenna<br>teach<br>tragic<br>build<br>distance |  
+| bip_39_word_new_br_9 | face<br>bid<br>energy<br>antenna<br>teach<br>tragic<br>build<br>distance<br>grocery |  
+| bip_39_word_new_line_1 | face |  
+| bip_39_word_new_line_10 | face
 bid
 energy
 antenna
@@ -55,7 +55,7 @@ build
 distance
 grocery
 hint |  
-| bip_39_word_new_line11 | face
+| bip_39_word_new_line_11 | face
 bid
 energy
 antenna
@@ -66,7 +66,7 @@ distance
 grocery
 hint
 develop |  
-| bip_39_word_new_line12 | face
+| bip_39_word_new_line_12 | face
 bid
 energy
 antenna
@@ -78,34 +78,34 @@ grocery
 hint
 develop
 area |  
-| bip_39_word_new_line2 | face
+| bip_39_word_new_line_2 | face
 bid |  
-| bip_39_word_new_line3 | face
+| bip_39_word_new_line_3 | face
 bid
 energy |  
-| bip_39_word_new_line4 | face
+| bip_39_word_new_line_4 | face
 bid
 energy
 antenna |  
-| bip_39_word_new_line5 | face
+| bip_39_word_new_line_5 | face
 bid
 energy
 antenna
 teach |  
-| bip_39_word_new_line6 | face
+| bip_39_word_new_line_6 | face
 bid
 energy
 antenna
 teach
 tragic |  
-| bip_39_word_new_line7 | face
+| bip_39_word_new_line_7 | face
 bid
 energy
 antenna
 teach
 tragic
 build |  
-| bip_39_word_new_line8 | face
+| bip_39_word_new_line_8 | face
 bid
 energy
 antenna
@@ -113,7 +113,7 @@ teach
 tragic
 build
 distance |  
-| bip_39_word_new_line9 | face
+| bip_39_word_new_line_9 | face
 bid
 energy
 antenna

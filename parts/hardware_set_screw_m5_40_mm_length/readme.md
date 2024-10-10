@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | more |  
-| bip_39_word_new_br10 | more<br>ribbon<br>phone<br>nerve<br>grit<br>fee<br>account<br>control<br>include<br>canoe |  
-| bip_39_word_new_br11 | more<br>ribbon<br>phone<br>nerve<br>grit<br>fee<br>account<br>control<br>include<br>canoe<br>govern |  
-| bip_39_word_new_br12 | more<br>ribbon<br>phone<br>nerve<br>grit<br>fee<br>account<br>control<br>include<br>canoe<br>govern<br>anxiety |  
-| bip_39_word_new_br2 | more<br>ribbon |  
-| bip_39_word_new_br3 | more<br>ribbon<br>phone |  
-| bip_39_word_new_br4 | more<br>ribbon<br>phone<br>nerve |  
-| bip_39_word_new_br5 | more<br>ribbon<br>phone<br>nerve<br>grit |  
-| bip_39_word_new_br6 | more<br>ribbon<br>phone<br>nerve<br>grit<br>fee |  
-| bip_39_word_new_br7 | more<br>ribbon<br>phone<br>nerve<br>grit<br>fee<br>account |  
-| bip_39_word_new_br8 | more<br>ribbon<br>phone<br>nerve<br>grit<br>fee<br>account<br>control |  
-| bip_39_word_new_br9 | more<br>ribbon<br>phone<br>nerve<br>grit<br>fee<br>account<br>control<br>include |  
-| bip_39_word_new_line1 | more |  
-| bip_39_word_new_line10 | more
+| bip_39_word_new_br_1 | more |  
+| bip_39_word_new_br_10 | more<br>ribbon<br>phone<br>nerve<br>grit<br>fee<br>account<br>control<br>include<br>canoe |  
+| bip_39_word_new_br_11 | more<br>ribbon<br>phone<br>nerve<br>grit<br>fee<br>account<br>control<br>include<br>canoe<br>govern |  
+| bip_39_word_new_br_12 | more<br>ribbon<br>phone<br>nerve<br>grit<br>fee<br>account<br>control<br>include<br>canoe<br>govern<br>anxiety |  
+| bip_39_word_new_br_2 | more<br>ribbon |  
+| bip_39_word_new_br_3 | more<br>ribbon<br>phone |  
+| bip_39_word_new_br_4 | more<br>ribbon<br>phone<br>nerve |  
+| bip_39_word_new_br_5 | more<br>ribbon<br>phone<br>nerve<br>grit |  
+| bip_39_word_new_br_6 | more<br>ribbon<br>phone<br>nerve<br>grit<br>fee |  
+| bip_39_word_new_br_7 | more<br>ribbon<br>phone<br>nerve<br>grit<br>fee<br>account |  
+| bip_39_word_new_br_8 | more<br>ribbon<br>phone<br>nerve<br>grit<br>fee<br>account<br>control |  
+| bip_39_word_new_br_9 | more<br>ribbon<br>phone<br>nerve<br>grit<br>fee<br>account<br>control<br>include |  
+| bip_39_word_new_line_1 | more |  
+| bip_39_word_new_line_10 | more
 ribbon
 phone
 nerve
@@ -55,7 +55,7 @@ account
 control
 include
 canoe |  
-| bip_39_word_new_line11 | more
+| bip_39_word_new_line_11 | more
 ribbon
 phone
 nerve
@@ -66,7 +66,7 @@ control
 include
 canoe
 govern |  
-| bip_39_word_new_line12 | more
+| bip_39_word_new_line_12 | more
 ribbon
 phone
 nerve
@@ -78,34 +78,34 @@ include
 canoe
 govern
 anxiety |  
-| bip_39_word_new_line2 | more
+| bip_39_word_new_line_2 | more
 ribbon |  
-| bip_39_word_new_line3 | more
+| bip_39_word_new_line_3 | more
 ribbon
 phone |  
-| bip_39_word_new_line4 | more
+| bip_39_word_new_line_4 | more
 ribbon
 phone
 nerve |  
-| bip_39_word_new_line5 | more
+| bip_39_word_new_line_5 | more
 ribbon
 phone
 nerve
 grit |  
-| bip_39_word_new_line6 | more
+| bip_39_word_new_line_6 | more
 ribbon
 phone
 nerve
 grit
 fee |  
-| bip_39_word_new_line7 | more
+| bip_39_word_new_line_7 | more
 ribbon
 phone
 nerve
 grit
 fee
 account |  
-| bip_39_word_new_line8 | more
+| bip_39_word_new_line_8 | more
 ribbon
 phone
 nerve
@@ -113,7 +113,7 @@ grit
 fee
 account
 control |  
-| bip_39_word_new_line9 | more
+| bip_39_word_new_line_9 | more
 ribbon
 phone
 nerve

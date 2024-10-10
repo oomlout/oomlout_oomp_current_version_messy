@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | inject |  
-| bip_39_word_new_br10 | inject<br>wise<br>adjust<br>release<br>arrow<br>depend<br>good<br>whip<br>leader<br>boy |  
-| bip_39_word_new_br11 | inject<br>wise<br>adjust<br>release<br>arrow<br>depend<br>good<br>whip<br>leader<br>boy<br>alarm |  
-| bip_39_word_new_br12 | inject<br>wise<br>adjust<br>release<br>arrow<br>depend<br>good<br>whip<br>leader<br>boy<br>alarm<br>allow |  
-| bip_39_word_new_br2 | inject<br>wise |  
-| bip_39_word_new_br3 | inject<br>wise<br>adjust |  
-| bip_39_word_new_br4 | inject<br>wise<br>adjust<br>release |  
-| bip_39_word_new_br5 | inject<br>wise<br>adjust<br>release<br>arrow |  
-| bip_39_word_new_br6 | inject<br>wise<br>adjust<br>release<br>arrow<br>depend |  
-| bip_39_word_new_br7 | inject<br>wise<br>adjust<br>release<br>arrow<br>depend<br>good |  
-| bip_39_word_new_br8 | inject<br>wise<br>adjust<br>release<br>arrow<br>depend<br>good<br>whip |  
-| bip_39_word_new_br9 | inject<br>wise<br>adjust<br>release<br>arrow<br>depend<br>good<br>whip<br>leader |  
-| bip_39_word_new_line1 | inject |  
-| bip_39_word_new_line10 | inject
+| bip_39_word_new_br_1 | inject |  
+| bip_39_word_new_br_10 | inject<br>wise<br>adjust<br>release<br>arrow<br>depend<br>good<br>whip<br>leader<br>boy |  
+| bip_39_word_new_br_11 | inject<br>wise<br>adjust<br>release<br>arrow<br>depend<br>good<br>whip<br>leader<br>boy<br>alarm |  
+| bip_39_word_new_br_12 | inject<br>wise<br>adjust<br>release<br>arrow<br>depend<br>good<br>whip<br>leader<br>boy<br>alarm<br>allow |  
+| bip_39_word_new_br_2 | inject<br>wise |  
+| bip_39_word_new_br_3 | inject<br>wise<br>adjust |  
+| bip_39_word_new_br_4 | inject<br>wise<br>adjust<br>release |  
+| bip_39_word_new_br_5 | inject<br>wise<br>adjust<br>release<br>arrow |  
+| bip_39_word_new_br_6 | inject<br>wise<br>adjust<br>release<br>arrow<br>depend |  
+| bip_39_word_new_br_7 | inject<br>wise<br>adjust<br>release<br>arrow<br>depend<br>good |  
+| bip_39_word_new_br_8 | inject<br>wise<br>adjust<br>release<br>arrow<br>depend<br>good<br>whip |  
+| bip_39_word_new_br_9 | inject<br>wise<br>adjust<br>release<br>arrow<br>depend<br>good<br>whip<br>leader |  
+| bip_39_word_new_line_1 | inject |  
+| bip_39_word_new_line_10 | inject
 wise
 adjust
 release
@@ -55,7 +55,7 @@ good
 whip
 leader
 boy |  
-| bip_39_word_new_line11 | inject
+| bip_39_word_new_line_11 | inject
 wise
 adjust
 release
@@ -66,7 +66,7 @@ whip
 leader
 boy
 alarm |  
-| bip_39_word_new_line12 | inject
+| bip_39_word_new_line_12 | inject
 wise
 adjust
 release
@@ -78,34 +78,34 @@ leader
 boy
 alarm
 allow |  
-| bip_39_word_new_line2 | inject
+| bip_39_word_new_line_2 | inject
 wise |  
-| bip_39_word_new_line3 | inject
+| bip_39_word_new_line_3 | inject
 wise
 adjust |  
-| bip_39_word_new_line4 | inject
+| bip_39_word_new_line_4 | inject
 wise
 adjust
 release |  
-| bip_39_word_new_line5 | inject
+| bip_39_word_new_line_5 | inject
 wise
 adjust
 release
 arrow |  
-| bip_39_word_new_line6 | inject
+| bip_39_word_new_line_6 | inject
 wise
 adjust
 release
 arrow
 depend |  
-| bip_39_word_new_line7 | inject
+| bip_39_word_new_line_7 | inject
 wise
 adjust
 release
 arrow
 depend
 good |  
-| bip_39_word_new_line8 | inject
+| bip_39_word_new_line_8 | inject
 wise
 adjust
 release
@@ -113,7 +113,7 @@ arrow
 depend
 good
 whip |  
-| bip_39_word_new_line9 | inject
+| bip_39_word_new_line_9 | inject
 wise
 adjust
 release

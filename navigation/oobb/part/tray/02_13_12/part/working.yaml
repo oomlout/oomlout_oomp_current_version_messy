@@ -1,17 +1,17 @@
-bip_39_word_new_br1: begin
-bip_39_word_new_br10: begin<br>green<br>beauty<br>session<br>toe<br>trip<br>whale<br>danger<br>forest<br>yard
-bip_39_word_new_br11: begin<br>green<br>beauty<br>session<br>toe<br>trip<br>whale<br>danger<br>forest<br>yard<br>short
-bip_39_word_new_br12: begin<br>green<br>beauty<br>session<br>toe<br>trip<br>whale<br>danger<br>forest<br>yard<br>short<br>arrange
-bip_39_word_new_br2: begin<br>green
-bip_39_word_new_br3: begin<br>green<br>beauty
-bip_39_word_new_br4: begin<br>green<br>beauty<br>session
-bip_39_word_new_br5: begin<br>green<br>beauty<br>session<br>toe
-bip_39_word_new_br6: begin<br>green<br>beauty<br>session<br>toe<br>trip
-bip_39_word_new_br7: begin<br>green<br>beauty<br>session<br>toe<br>trip<br>whale
-bip_39_word_new_br8: begin<br>green<br>beauty<br>session<br>toe<br>trip<br>whale<br>danger
-bip_39_word_new_br9: begin<br>green<br>beauty<br>session<br>toe<br>trip<br>whale<br>danger<br>forest
-bip_39_word_new_line1: begin
-bip_39_word_new_line10: 'begin
+bip_39_word_new_br_1: begin
+bip_39_word_new_br_10: begin<br>green<br>beauty<br>session<br>toe<br>trip<br>whale<br>danger<br>forest<br>yard
+bip_39_word_new_br_11: begin<br>green<br>beauty<br>session<br>toe<br>trip<br>whale<br>danger<br>forest<br>yard<br>short
+bip_39_word_new_br_12: begin<br>green<br>beauty<br>session<br>toe<br>trip<br>whale<br>danger<br>forest<br>yard<br>short<br>arrange
+bip_39_word_new_br_2: begin<br>green
+bip_39_word_new_br_3: begin<br>green<br>beauty
+bip_39_word_new_br_4: begin<br>green<br>beauty<br>session
+bip_39_word_new_br_5: begin<br>green<br>beauty<br>session<br>toe
+bip_39_word_new_br_6: begin<br>green<br>beauty<br>session<br>toe<br>trip
+bip_39_word_new_br_7: begin<br>green<br>beauty<br>session<br>toe<br>trip<br>whale
+bip_39_word_new_br_8: begin<br>green<br>beauty<br>session<br>toe<br>trip<br>whale<br>danger
+bip_39_word_new_br_9: begin<br>green<br>beauty<br>session<br>toe<br>trip<br>whale<br>danger<br>forest
+bip_39_word_new_line_1: begin
+bip_39_word_new_line_10: 'begin
 
   green
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'begin
   forest
 
   yard'
-bip_39_word_new_line11: 'begin
+bip_39_word_new_line_11: 'begin
 
   green
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'begin
   yard
 
   short'
-bip_39_word_new_line12: 'begin
+bip_39_word_new_line_12: 'begin
 
   green
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'begin
   short
 
   arrange'
-bip_39_word_new_line2: 'begin
+bip_39_word_new_line_2: 'begin
 
   green'
-bip_39_word_new_line3: 'begin
+bip_39_word_new_line_3: 'begin
 
   green
 
   beauty'
-bip_39_word_new_line4: 'begin
+bip_39_word_new_line_4: 'begin
 
   green
 
   beauty
 
   session'
-bip_39_word_new_line5: 'begin
+bip_39_word_new_line_5: 'begin
 
   green
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'begin
   session
 
   toe'
-bip_39_word_new_line6: 'begin
+bip_39_word_new_line_6: 'begin
 
   green
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'begin
   toe
 
   trip'
-bip_39_word_new_line7: 'begin
+bip_39_word_new_line_7: 'begin
 
   green
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'begin
   trip
 
   whale'
-bip_39_word_new_line8: 'begin
+bip_39_word_new_line_8: 'begin
 
   green
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'begin
   whale
 
   danger'
-bip_39_word_new_line9: 'begin
+bip_39_word_new_line_9: 'begin
 
   green
 

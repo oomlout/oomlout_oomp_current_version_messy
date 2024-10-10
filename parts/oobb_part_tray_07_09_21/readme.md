@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | select |  
-| bip_39_word_new_br10 | select<br>sight<br>swap<br>strike<br>divorce<br>item<br>ski<br>era<br>build<br>final |  
-| bip_39_word_new_br11 | select<br>sight<br>swap<br>strike<br>divorce<br>item<br>ski<br>era<br>build<br>final<br>hollow |  
-| bip_39_word_new_br12 | select<br>sight<br>swap<br>strike<br>divorce<br>item<br>ski<br>era<br>build<br>final<br>hollow<br>among |  
-| bip_39_word_new_br2 | select<br>sight |  
-| bip_39_word_new_br3 | select<br>sight<br>swap |  
-| bip_39_word_new_br4 | select<br>sight<br>swap<br>strike |  
-| bip_39_word_new_br5 | select<br>sight<br>swap<br>strike<br>divorce |  
-| bip_39_word_new_br6 | select<br>sight<br>swap<br>strike<br>divorce<br>item |  
-| bip_39_word_new_br7 | select<br>sight<br>swap<br>strike<br>divorce<br>item<br>ski |  
-| bip_39_word_new_br8 | select<br>sight<br>swap<br>strike<br>divorce<br>item<br>ski<br>era |  
-| bip_39_word_new_br9 | select<br>sight<br>swap<br>strike<br>divorce<br>item<br>ski<br>era<br>build |  
-| bip_39_word_new_line1 | select |  
-| bip_39_word_new_line10 | select
+| bip_39_word_new_br_1 | select |  
+| bip_39_word_new_br_10 | select<br>sight<br>swap<br>strike<br>divorce<br>item<br>ski<br>era<br>build<br>final |  
+| bip_39_word_new_br_11 | select<br>sight<br>swap<br>strike<br>divorce<br>item<br>ski<br>era<br>build<br>final<br>hollow |  
+| bip_39_word_new_br_12 | select<br>sight<br>swap<br>strike<br>divorce<br>item<br>ski<br>era<br>build<br>final<br>hollow<br>among |  
+| bip_39_word_new_br_2 | select<br>sight |  
+| bip_39_word_new_br_3 | select<br>sight<br>swap |  
+| bip_39_word_new_br_4 | select<br>sight<br>swap<br>strike |  
+| bip_39_word_new_br_5 | select<br>sight<br>swap<br>strike<br>divorce |  
+| bip_39_word_new_br_6 | select<br>sight<br>swap<br>strike<br>divorce<br>item |  
+| bip_39_word_new_br_7 | select<br>sight<br>swap<br>strike<br>divorce<br>item<br>ski |  
+| bip_39_word_new_br_8 | select<br>sight<br>swap<br>strike<br>divorce<br>item<br>ski<br>era |  
+| bip_39_word_new_br_9 | select<br>sight<br>swap<br>strike<br>divorce<br>item<br>ski<br>era<br>build |  
+| bip_39_word_new_line_1 | select |  
+| bip_39_word_new_line_10 | select
 sight
 swap
 strike
@@ -55,7 +55,7 @@ ski
 era
 build
 final |  
-| bip_39_word_new_line11 | select
+| bip_39_word_new_line_11 | select
 sight
 swap
 strike
@@ -66,7 +66,7 @@ era
 build
 final
 hollow |  
-| bip_39_word_new_line12 | select
+| bip_39_word_new_line_12 | select
 sight
 swap
 strike
@@ -78,34 +78,34 @@ build
 final
 hollow
 among |  
-| bip_39_word_new_line2 | select
+| bip_39_word_new_line_2 | select
 sight |  
-| bip_39_word_new_line3 | select
+| bip_39_word_new_line_3 | select
 sight
 swap |  
-| bip_39_word_new_line4 | select
+| bip_39_word_new_line_4 | select
 sight
 swap
 strike |  
-| bip_39_word_new_line5 | select
+| bip_39_word_new_line_5 | select
 sight
 swap
 strike
 divorce |  
-| bip_39_word_new_line6 | select
+| bip_39_word_new_line_6 | select
 sight
 swap
 strike
 divorce
 item |  
-| bip_39_word_new_line7 | select
+| bip_39_word_new_line_7 | select
 sight
 swap
 strike
 divorce
 item
 ski |  
-| bip_39_word_new_line8 | select
+| bip_39_word_new_line_8 | select
 sight
 swap
 strike
@@ -113,7 +113,7 @@ divorce
 item
 ski
 era |  
-| bip_39_word_new_line9 | select
+| bip_39_word_new_line_9 | select
 sight
 swap
 strike

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | liar |  
-| bip_39_word_new_br10 | liar<br>wave<br>steel<br>bacon<br>myth<br>lyrics<br>behind<br>copper<br>enhance<br>intact |  
-| bip_39_word_new_br11 | liar<br>wave<br>steel<br>bacon<br>myth<br>lyrics<br>behind<br>copper<br>enhance<br>intact<br>fiscal |  
-| bip_39_word_new_br12 | liar<br>wave<br>steel<br>bacon<br>myth<br>lyrics<br>behind<br>copper<br>enhance<br>intact<br>fiscal<br>anxiety |  
-| bip_39_word_new_br2 | liar<br>wave |  
-| bip_39_word_new_br3 | liar<br>wave<br>steel |  
-| bip_39_word_new_br4 | liar<br>wave<br>steel<br>bacon |  
-| bip_39_word_new_br5 | liar<br>wave<br>steel<br>bacon<br>myth |  
-| bip_39_word_new_br6 | liar<br>wave<br>steel<br>bacon<br>myth<br>lyrics |  
-| bip_39_word_new_br7 | liar<br>wave<br>steel<br>bacon<br>myth<br>lyrics<br>behind |  
-| bip_39_word_new_br8 | liar<br>wave<br>steel<br>bacon<br>myth<br>lyrics<br>behind<br>copper |  
-| bip_39_word_new_br9 | liar<br>wave<br>steel<br>bacon<br>myth<br>lyrics<br>behind<br>copper<br>enhance |  
-| bip_39_word_new_line1 | liar |  
-| bip_39_word_new_line10 | liar
+| bip_39_word_new_br_1 | liar |  
+| bip_39_word_new_br_10 | liar<br>wave<br>steel<br>bacon<br>myth<br>lyrics<br>behind<br>copper<br>enhance<br>intact |  
+| bip_39_word_new_br_11 | liar<br>wave<br>steel<br>bacon<br>myth<br>lyrics<br>behind<br>copper<br>enhance<br>intact<br>fiscal |  
+| bip_39_word_new_br_12 | liar<br>wave<br>steel<br>bacon<br>myth<br>lyrics<br>behind<br>copper<br>enhance<br>intact<br>fiscal<br>anxiety |  
+| bip_39_word_new_br_2 | liar<br>wave |  
+| bip_39_word_new_br_3 | liar<br>wave<br>steel |  
+| bip_39_word_new_br_4 | liar<br>wave<br>steel<br>bacon |  
+| bip_39_word_new_br_5 | liar<br>wave<br>steel<br>bacon<br>myth |  
+| bip_39_word_new_br_6 | liar<br>wave<br>steel<br>bacon<br>myth<br>lyrics |  
+| bip_39_word_new_br_7 | liar<br>wave<br>steel<br>bacon<br>myth<br>lyrics<br>behind |  
+| bip_39_word_new_br_8 | liar<br>wave<br>steel<br>bacon<br>myth<br>lyrics<br>behind<br>copper |  
+| bip_39_word_new_br_9 | liar<br>wave<br>steel<br>bacon<br>myth<br>lyrics<br>behind<br>copper<br>enhance |  
+| bip_39_word_new_line_1 | liar |  
+| bip_39_word_new_line_10 | liar
 wave
 steel
 bacon
@@ -55,7 +55,7 @@ behind
 copper
 enhance
 intact |  
-| bip_39_word_new_line11 | liar
+| bip_39_word_new_line_11 | liar
 wave
 steel
 bacon
@@ -66,7 +66,7 @@ copper
 enhance
 intact
 fiscal |  
-| bip_39_word_new_line12 | liar
+| bip_39_word_new_line_12 | liar
 wave
 steel
 bacon
@@ -78,34 +78,34 @@ enhance
 intact
 fiscal
 anxiety |  
-| bip_39_word_new_line2 | liar
+| bip_39_word_new_line_2 | liar
 wave |  
-| bip_39_word_new_line3 | liar
+| bip_39_word_new_line_3 | liar
 wave
 steel |  
-| bip_39_word_new_line4 | liar
+| bip_39_word_new_line_4 | liar
 wave
 steel
 bacon |  
-| bip_39_word_new_line5 | liar
+| bip_39_word_new_line_5 | liar
 wave
 steel
 bacon
 myth |  
-| bip_39_word_new_line6 | liar
+| bip_39_word_new_line_6 | liar
 wave
 steel
 bacon
 myth
 lyrics |  
-| bip_39_word_new_line7 | liar
+| bip_39_word_new_line_7 | liar
 wave
 steel
 bacon
 myth
 lyrics
 behind |  
-| bip_39_word_new_line8 | liar
+| bip_39_word_new_line_8 | liar
 wave
 steel
 bacon
@@ -113,7 +113,7 @@ myth
 lyrics
 behind
 copper |  
-| bip_39_word_new_line9 | liar
+| bip_39_word_new_line_9 | liar
 wave
 steel
 bacon

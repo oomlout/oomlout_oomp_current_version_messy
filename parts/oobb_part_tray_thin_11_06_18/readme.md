@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | easily |  
-| bip_39_word_new_br10 | easily<br>dinosaur<br>just<br>warm<br>buzz<br>advance<br>seek<br>lift<br>dune<br>remove |  
-| bip_39_word_new_br11 | easily<br>dinosaur<br>just<br>warm<br>buzz<br>advance<br>seek<br>lift<br>dune<br>remove<br>essay |  
-| bip_39_word_new_br12 | easily<br>dinosaur<br>just<br>warm<br>buzz<br>advance<br>seek<br>lift<br>dune<br>remove<br>essay<br>area |  
-| bip_39_word_new_br2 | easily<br>dinosaur |  
-| bip_39_word_new_br3 | easily<br>dinosaur<br>just |  
-| bip_39_word_new_br4 | easily<br>dinosaur<br>just<br>warm |  
-| bip_39_word_new_br5 | easily<br>dinosaur<br>just<br>warm<br>buzz |  
-| bip_39_word_new_br6 | easily<br>dinosaur<br>just<br>warm<br>buzz<br>advance |  
-| bip_39_word_new_br7 | easily<br>dinosaur<br>just<br>warm<br>buzz<br>advance<br>seek |  
-| bip_39_word_new_br8 | easily<br>dinosaur<br>just<br>warm<br>buzz<br>advance<br>seek<br>lift |  
-| bip_39_word_new_br9 | easily<br>dinosaur<br>just<br>warm<br>buzz<br>advance<br>seek<br>lift<br>dune |  
-| bip_39_word_new_line1 | easily |  
-| bip_39_word_new_line10 | easily
+| bip_39_word_new_br_1 | easily |  
+| bip_39_word_new_br_10 | easily<br>dinosaur<br>just<br>warm<br>buzz<br>advance<br>seek<br>lift<br>dune<br>remove |  
+| bip_39_word_new_br_11 | easily<br>dinosaur<br>just<br>warm<br>buzz<br>advance<br>seek<br>lift<br>dune<br>remove<br>essay |  
+| bip_39_word_new_br_12 | easily<br>dinosaur<br>just<br>warm<br>buzz<br>advance<br>seek<br>lift<br>dune<br>remove<br>essay<br>area |  
+| bip_39_word_new_br_2 | easily<br>dinosaur |  
+| bip_39_word_new_br_3 | easily<br>dinosaur<br>just |  
+| bip_39_word_new_br_4 | easily<br>dinosaur<br>just<br>warm |  
+| bip_39_word_new_br_5 | easily<br>dinosaur<br>just<br>warm<br>buzz |  
+| bip_39_word_new_br_6 | easily<br>dinosaur<br>just<br>warm<br>buzz<br>advance |  
+| bip_39_word_new_br_7 | easily<br>dinosaur<br>just<br>warm<br>buzz<br>advance<br>seek |  
+| bip_39_word_new_br_8 | easily<br>dinosaur<br>just<br>warm<br>buzz<br>advance<br>seek<br>lift |  
+| bip_39_word_new_br_9 | easily<br>dinosaur<br>just<br>warm<br>buzz<br>advance<br>seek<br>lift<br>dune |  
+| bip_39_word_new_line_1 | easily |  
+| bip_39_word_new_line_10 | easily
 dinosaur
 just
 warm
@@ -55,7 +55,7 @@ seek
 lift
 dune
 remove |  
-| bip_39_word_new_line11 | easily
+| bip_39_word_new_line_11 | easily
 dinosaur
 just
 warm
@@ -66,7 +66,7 @@ lift
 dune
 remove
 essay |  
-| bip_39_word_new_line12 | easily
+| bip_39_word_new_line_12 | easily
 dinosaur
 just
 warm
@@ -78,34 +78,34 @@ dune
 remove
 essay
 area |  
-| bip_39_word_new_line2 | easily
+| bip_39_word_new_line_2 | easily
 dinosaur |  
-| bip_39_word_new_line3 | easily
+| bip_39_word_new_line_3 | easily
 dinosaur
 just |  
-| bip_39_word_new_line4 | easily
+| bip_39_word_new_line_4 | easily
 dinosaur
 just
 warm |  
-| bip_39_word_new_line5 | easily
+| bip_39_word_new_line_5 | easily
 dinosaur
 just
 warm
 buzz |  
-| bip_39_word_new_line6 | easily
+| bip_39_word_new_line_6 | easily
 dinosaur
 just
 warm
 buzz
 advance |  
-| bip_39_word_new_line7 | easily
+| bip_39_word_new_line_7 | easily
 dinosaur
 just
 warm
 buzz
 advance
 seek |  
-| bip_39_word_new_line8 | easily
+| bip_39_word_new_line_8 | easily
 dinosaur
 just
 warm
@@ -113,7 +113,7 @@ buzz
 advance
 seek
 lift |  
-| bip_39_word_new_line9 | easily
+| bip_39_word_new_line_9 | easily
 dinosaur
 just
 warm

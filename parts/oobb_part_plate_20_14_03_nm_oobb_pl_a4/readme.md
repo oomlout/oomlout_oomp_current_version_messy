@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | forum |  
-| bip_39_word_new_br10 | forum<br>dignity<br>wash<br>feel<br>foot<br>accident<br>exotic<br>attitude<br>trash<br>valid |  
-| bip_39_word_new_br11 | forum<br>dignity<br>wash<br>feel<br>foot<br>accident<br>exotic<br>attitude<br>trash<br>valid<br>name |  
-| bip_39_word_new_br12 | forum<br>dignity<br>wash<br>feel<br>foot<br>accident<br>exotic<br>attitude<br>trash<br>valid<br>name<br>access |  
-| bip_39_word_new_br2 | forum<br>dignity |  
-| bip_39_word_new_br3 | forum<br>dignity<br>wash |  
-| bip_39_word_new_br4 | forum<br>dignity<br>wash<br>feel |  
-| bip_39_word_new_br5 | forum<br>dignity<br>wash<br>feel<br>foot |  
-| bip_39_word_new_br6 | forum<br>dignity<br>wash<br>feel<br>foot<br>accident |  
-| bip_39_word_new_br7 | forum<br>dignity<br>wash<br>feel<br>foot<br>accident<br>exotic |  
-| bip_39_word_new_br8 | forum<br>dignity<br>wash<br>feel<br>foot<br>accident<br>exotic<br>attitude |  
-| bip_39_word_new_br9 | forum<br>dignity<br>wash<br>feel<br>foot<br>accident<br>exotic<br>attitude<br>trash |  
-| bip_39_word_new_line1 | forum |  
-| bip_39_word_new_line10 | forum
+| bip_39_word_new_br_1 | forum |  
+| bip_39_word_new_br_10 | forum<br>dignity<br>wash<br>feel<br>foot<br>accident<br>exotic<br>attitude<br>trash<br>valid |  
+| bip_39_word_new_br_11 | forum<br>dignity<br>wash<br>feel<br>foot<br>accident<br>exotic<br>attitude<br>trash<br>valid<br>name |  
+| bip_39_word_new_br_12 | forum<br>dignity<br>wash<br>feel<br>foot<br>accident<br>exotic<br>attitude<br>trash<br>valid<br>name<br>access |  
+| bip_39_word_new_br_2 | forum<br>dignity |  
+| bip_39_word_new_br_3 | forum<br>dignity<br>wash |  
+| bip_39_word_new_br_4 | forum<br>dignity<br>wash<br>feel |  
+| bip_39_word_new_br_5 | forum<br>dignity<br>wash<br>feel<br>foot |  
+| bip_39_word_new_br_6 | forum<br>dignity<br>wash<br>feel<br>foot<br>accident |  
+| bip_39_word_new_br_7 | forum<br>dignity<br>wash<br>feel<br>foot<br>accident<br>exotic |  
+| bip_39_word_new_br_8 | forum<br>dignity<br>wash<br>feel<br>foot<br>accident<br>exotic<br>attitude |  
+| bip_39_word_new_br_9 | forum<br>dignity<br>wash<br>feel<br>foot<br>accident<br>exotic<br>attitude<br>trash |  
+| bip_39_word_new_line_1 | forum |  
+| bip_39_word_new_line_10 | forum
 dignity
 wash
 feel
@@ -55,7 +55,7 @@ exotic
 attitude
 trash
 valid |  
-| bip_39_word_new_line11 | forum
+| bip_39_word_new_line_11 | forum
 dignity
 wash
 feel
@@ -66,7 +66,7 @@ attitude
 trash
 valid
 name |  
-| bip_39_word_new_line12 | forum
+| bip_39_word_new_line_12 | forum
 dignity
 wash
 feel
@@ -78,34 +78,34 @@ trash
 valid
 name
 access |  
-| bip_39_word_new_line2 | forum
+| bip_39_word_new_line_2 | forum
 dignity |  
-| bip_39_word_new_line3 | forum
+| bip_39_word_new_line_3 | forum
 dignity
 wash |  
-| bip_39_word_new_line4 | forum
+| bip_39_word_new_line_4 | forum
 dignity
 wash
 feel |  
-| bip_39_word_new_line5 | forum
+| bip_39_word_new_line_5 | forum
 dignity
 wash
 feel
 foot |  
-| bip_39_word_new_line6 | forum
+| bip_39_word_new_line_6 | forum
 dignity
 wash
 feel
 foot
 accident |  
-| bip_39_word_new_line7 | forum
+| bip_39_word_new_line_7 | forum
 dignity
 wash
 feel
 foot
 accident
 exotic |  
-| bip_39_word_new_line8 | forum
+| bip_39_word_new_line_8 | forum
 dignity
 wash
 feel
@@ -113,7 +113,7 @@ foot
 accident
 exotic
 attitude |  
-| bip_39_word_new_line9 | forum
+| bip_39_word_new_line_9 | forum
 dignity
 wash
 feel

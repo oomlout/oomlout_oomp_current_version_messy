@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | shuffle |  
-| bip_39_word_new_br10 | shuffle<br>wisdom<br>helmet<br>elbow<br>moral<br>eager<br>total<br>install<br>upset<br>tone |  
-| bip_39_word_new_br11 | shuffle<br>wisdom<br>helmet<br>elbow<br>moral<br>eager<br>total<br>install<br>upset<br>tone<br>arm |  
-| bip_39_word_new_br12 | shuffle<br>wisdom<br>helmet<br>elbow<br>moral<br>eager<br>total<br>install<br>upset<br>tone<br>arm<br>actress |  
-| bip_39_word_new_br2 | shuffle<br>wisdom |  
-| bip_39_word_new_br3 | shuffle<br>wisdom<br>helmet |  
-| bip_39_word_new_br4 | shuffle<br>wisdom<br>helmet<br>elbow |  
-| bip_39_word_new_br5 | shuffle<br>wisdom<br>helmet<br>elbow<br>moral |  
-| bip_39_word_new_br6 | shuffle<br>wisdom<br>helmet<br>elbow<br>moral<br>eager |  
-| bip_39_word_new_br7 | shuffle<br>wisdom<br>helmet<br>elbow<br>moral<br>eager<br>total |  
-| bip_39_word_new_br8 | shuffle<br>wisdom<br>helmet<br>elbow<br>moral<br>eager<br>total<br>install |  
-| bip_39_word_new_br9 | shuffle<br>wisdom<br>helmet<br>elbow<br>moral<br>eager<br>total<br>install<br>upset |  
-| bip_39_word_new_line1 | shuffle |  
-| bip_39_word_new_line10 | shuffle
+| bip_39_word_new_br_1 | shuffle |  
+| bip_39_word_new_br_10 | shuffle<br>wisdom<br>helmet<br>elbow<br>moral<br>eager<br>total<br>install<br>upset<br>tone |  
+| bip_39_word_new_br_11 | shuffle<br>wisdom<br>helmet<br>elbow<br>moral<br>eager<br>total<br>install<br>upset<br>tone<br>arm |  
+| bip_39_word_new_br_12 | shuffle<br>wisdom<br>helmet<br>elbow<br>moral<br>eager<br>total<br>install<br>upset<br>tone<br>arm<br>actress |  
+| bip_39_word_new_br_2 | shuffle<br>wisdom |  
+| bip_39_word_new_br_3 | shuffle<br>wisdom<br>helmet |  
+| bip_39_word_new_br_4 | shuffle<br>wisdom<br>helmet<br>elbow |  
+| bip_39_word_new_br_5 | shuffle<br>wisdom<br>helmet<br>elbow<br>moral |  
+| bip_39_word_new_br_6 | shuffle<br>wisdom<br>helmet<br>elbow<br>moral<br>eager |  
+| bip_39_word_new_br_7 | shuffle<br>wisdom<br>helmet<br>elbow<br>moral<br>eager<br>total |  
+| bip_39_word_new_br_8 | shuffle<br>wisdom<br>helmet<br>elbow<br>moral<br>eager<br>total<br>install |  
+| bip_39_word_new_br_9 | shuffle<br>wisdom<br>helmet<br>elbow<br>moral<br>eager<br>total<br>install<br>upset |  
+| bip_39_word_new_line_1 | shuffle |  
+| bip_39_word_new_line_10 | shuffle
 wisdom
 helmet
 elbow
@@ -55,7 +55,7 @@ total
 install
 upset
 tone |  
-| bip_39_word_new_line11 | shuffle
+| bip_39_word_new_line_11 | shuffle
 wisdom
 helmet
 elbow
@@ -66,7 +66,7 @@ install
 upset
 tone
 arm |  
-| bip_39_word_new_line12 | shuffle
+| bip_39_word_new_line_12 | shuffle
 wisdom
 helmet
 elbow
@@ -78,34 +78,34 @@ upset
 tone
 arm
 actress |  
-| bip_39_word_new_line2 | shuffle
+| bip_39_word_new_line_2 | shuffle
 wisdom |  
-| bip_39_word_new_line3 | shuffle
+| bip_39_word_new_line_3 | shuffle
 wisdom
 helmet |  
-| bip_39_word_new_line4 | shuffle
+| bip_39_word_new_line_4 | shuffle
 wisdom
 helmet
 elbow |  
-| bip_39_word_new_line5 | shuffle
+| bip_39_word_new_line_5 | shuffle
 wisdom
 helmet
 elbow
 moral |  
-| bip_39_word_new_line6 | shuffle
+| bip_39_word_new_line_6 | shuffle
 wisdom
 helmet
 elbow
 moral
 eager |  
-| bip_39_word_new_line7 | shuffle
+| bip_39_word_new_line_7 | shuffle
 wisdom
 helmet
 elbow
 moral
 eager
 total |  
-| bip_39_word_new_line8 | shuffle
+| bip_39_word_new_line_8 | shuffle
 wisdom
 helmet
 elbow
@@ -113,7 +113,7 @@ moral
 eager
 total
 install |  
-| bip_39_word_new_line9 | shuffle
+| bip_39_word_new_line_9 | shuffle
 wisdom
 helmet
 elbow

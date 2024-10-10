@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | subway |  
-| bip_39_word_new_br10 | subway<br>spray<br>narrow<br>mansion<br>feel<br>pitch<br>raven<br>rude<br>palace<br>stick |  
-| bip_39_word_new_br11 | subway<br>spray<br>narrow<br>mansion<br>feel<br>pitch<br>raven<br>rude<br>palace<br>stick<br>account |  
-| bip_39_word_new_br12 | subway<br>spray<br>narrow<br>mansion<br>feel<br>pitch<br>raven<br>rude<br>palace<br>stick<br>account<br>angry |  
-| bip_39_word_new_br2 | subway<br>spray |  
-| bip_39_word_new_br3 | subway<br>spray<br>narrow |  
-| bip_39_word_new_br4 | subway<br>spray<br>narrow<br>mansion |  
-| bip_39_word_new_br5 | subway<br>spray<br>narrow<br>mansion<br>feel |  
-| bip_39_word_new_br6 | subway<br>spray<br>narrow<br>mansion<br>feel<br>pitch |  
-| bip_39_word_new_br7 | subway<br>spray<br>narrow<br>mansion<br>feel<br>pitch<br>raven |  
-| bip_39_word_new_br8 | subway<br>spray<br>narrow<br>mansion<br>feel<br>pitch<br>raven<br>rude |  
-| bip_39_word_new_br9 | subway<br>spray<br>narrow<br>mansion<br>feel<br>pitch<br>raven<br>rude<br>palace |  
-| bip_39_word_new_line1 | subway |  
-| bip_39_word_new_line10 | subway
+| bip_39_word_new_br_1 | subway |  
+| bip_39_word_new_br_10 | subway<br>spray<br>narrow<br>mansion<br>feel<br>pitch<br>raven<br>rude<br>palace<br>stick |  
+| bip_39_word_new_br_11 | subway<br>spray<br>narrow<br>mansion<br>feel<br>pitch<br>raven<br>rude<br>palace<br>stick<br>account |  
+| bip_39_word_new_br_12 | subway<br>spray<br>narrow<br>mansion<br>feel<br>pitch<br>raven<br>rude<br>palace<br>stick<br>account<br>angry |  
+| bip_39_word_new_br_2 | subway<br>spray |  
+| bip_39_word_new_br_3 | subway<br>spray<br>narrow |  
+| bip_39_word_new_br_4 | subway<br>spray<br>narrow<br>mansion |  
+| bip_39_word_new_br_5 | subway<br>spray<br>narrow<br>mansion<br>feel |  
+| bip_39_word_new_br_6 | subway<br>spray<br>narrow<br>mansion<br>feel<br>pitch |  
+| bip_39_word_new_br_7 | subway<br>spray<br>narrow<br>mansion<br>feel<br>pitch<br>raven |  
+| bip_39_word_new_br_8 | subway<br>spray<br>narrow<br>mansion<br>feel<br>pitch<br>raven<br>rude |  
+| bip_39_word_new_br_9 | subway<br>spray<br>narrow<br>mansion<br>feel<br>pitch<br>raven<br>rude<br>palace |  
+| bip_39_word_new_line_1 | subway |  
+| bip_39_word_new_line_10 | subway
 spray
 narrow
 mansion
@@ -55,7 +55,7 @@ raven
 rude
 palace
 stick |  
-| bip_39_word_new_line11 | subway
+| bip_39_word_new_line_11 | subway
 spray
 narrow
 mansion
@@ -66,7 +66,7 @@ rude
 palace
 stick
 account |  
-| bip_39_word_new_line12 | subway
+| bip_39_word_new_line_12 | subway
 spray
 narrow
 mansion
@@ -78,34 +78,34 @@ palace
 stick
 account
 angry |  
-| bip_39_word_new_line2 | subway
+| bip_39_word_new_line_2 | subway
 spray |  
-| bip_39_word_new_line3 | subway
+| bip_39_word_new_line_3 | subway
 spray
 narrow |  
-| bip_39_word_new_line4 | subway
+| bip_39_word_new_line_4 | subway
 spray
 narrow
 mansion |  
-| bip_39_word_new_line5 | subway
+| bip_39_word_new_line_5 | subway
 spray
 narrow
 mansion
 feel |  
-| bip_39_word_new_line6 | subway
+| bip_39_word_new_line_6 | subway
 spray
 narrow
 mansion
 feel
 pitch |  
-| bip_39_word_new_line7 | subway
+| bip_39_word_new_line_7 | subway
 spray
 narrow
 mansion
 feel
 pitch
 raven |  
-| bip_39_word_new_line8 | subway
+| bip_39_word_new_line_8 | subway
 spray
 narrow
 mansion
@@ -113,7 +113,7 @@ feel
 pitch
 raven
 rude |  
-| bip_39_word_new_line9 | subway
+| bip_39_word_new_line_9 | subway
 spray
 narrow
 mansion

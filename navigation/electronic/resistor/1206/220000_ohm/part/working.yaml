@@ -1,17 +1,17 @@
-bip_39_word_new_br1: doctor
-bip_39_word_new_br10: doctor<br>good<br>later<br>mimic<br>upset<br>soda<br>kite<br>swim<br>expose<br>peace
-bip_39_word_new_br11: doctor<br>good<br>later<br>mimic<br>upset<br>soda<br>kite<br>swim<br>expose<br>peace<br>keen
-bip_39_word_new_br12: doctor<br>good<br>later<br>mimic<br>upset<br>soda<br>kite<br>swim<br>expose<br>peace<br>keen<br>analyst
-bip_39_word_new_br2: doctor<br>good
-bip_39_word_new_br3: doctor<br>good<br>later
-bip_39_word_new_br4: doctor<br>good<br>later<br>mimic
-bip_39_word_new_br5: doctor<br>good<br>later<br>mimic<br>upset
-bip_39_word_new_br6: doctor<br>good<br>later<br>mimic<br>upset<br>soda
-bip_39_word_new_br7: doctor<br>good<br>later<br>mimic<br>upset<br>soda<br>kite
-bip_39_word_new_br8: doctor<br>good<br>later<br>mimic<br>upset<br>soda<br>kite<br>swim
-bip_39_word_new_br9: doctor<br>good<br>later<br>mimic<br>upset<br>soda<br>kite<br>swim<br>expose
-bip_39_word_new_line1: doctor
-bip_39_word_new_line10: 'doctor
+bip_39_word_new_br_1: doctor
+bip_39_word_new_br_10: doctor<br>good<br>later<br>mimic<br>upset<br>soda<br>kite<br>swim<br>expose<br>peace
+bip_39_word_new_br_11: doctor<br>good<br>later<br>mimic<br>upset<br>soda<br>kite<br>swim<br>expose<br>peace<br>keen
+bip_39_word_new_br_12: doctor<br>good<br>later<br>mimic<br>upset<br>soda<br>kite<br>swim<br>expose<br>peace<br>keen<br>analyst
+bip_39_word_new_br_2: doctor<br>good
+bip_39_word_new_br_3: doctor<br>good<br>later
+bip_39_word_new_br_4: doctor<br>good<br>later<br>mimic
+bip_39_word_new_br_5: doctor<br>good<br>later<br>mimic<br>upset
+bip_39_word_new_br_6: doctor<br>good<br>later<br>mimic<br>upset<br>soda
+bip_39_word_new_br_7: doctor<br>good<br>later<br>mimic<br>upset<br>soda<br>kite
+bip_39_word_new_br_8: doctor<br>good<br>later<br>mimic<br>upset<br>soda<br>kite<br>swim
+bip_39_word_new_br_9: doctor<br>good<br>later<br>mimic<br>upset<br>soda<br>kite<br>swim<br>expose
+bip_39_word_new_line_1: doctor
+bip_39_word_new_line_10: 'doctor
 
   good
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'doctor
   expose
 
   peace'
-bip_39_word_new_line11: 'doctor
+bip_39_word_new_line_11: 'doctor
 
   good
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'doctor
   peace
 
   keen'
-bip_39_word_new_line12: 'doctor
+bip_39_word_new_line_12: 'doctor
 
   good
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'doctor
   keen
 
   analyst'
-bip_39_word_new_line2: 'doctor
+bip_39_word_new_line_2: 'doctor
 
   good'
-bip_39_word_new_line3: 'doctor
+bip_39_word_new_line_3: 'doctor
 
   good
 
   later'
-bip_39_word_new_line4: 'doctor
+bip_39_word_new_line_4: 'doctor
 
   good
 
   later
 
   mimic'
-bip_39_word_new_line5: 'doctor
+bip_39_word_new_line_5: 'doctor
 
   good
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'doctor
   mimic
 
   upset'
-bip_39_word_new_line6: 'doctor
+bip_39_word_new_line_6: 'doctor
 
   good
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'doctor
   upset
 
   soda'
-bip_39_word_new_line7: 'doctor
+bip_39_word_new_line_7: 'doctor
 
   good
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'doctor
   soda
 
   kite'
-bip_39_word_new_line8: 'doctor
+bip_39_word_new_line_8: 'doctor
 
   good
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'doctor
   kite
 
   swim'
-bip_39_word_new_line9: 'doctor
+bip_39_word_new_line_9: 'doctor
 
   good
 

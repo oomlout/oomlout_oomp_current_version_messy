@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | column |  
-| bip_39_word_new_br10 | column<br>spice<br>farm<br>cup<br>time<br>balcony<br>demand<br>ghost<br>dove<br>carry |  
-| bip_39_word_new_br11 | column<br>spice<br>farm<br>cup<br>time<br>balcony<br>demand<br>ghost<br>dove<br>carry<br>exhaust |  
-| bip_39_word_new_br12 | column<br>spice<br>farm<br>cup<br>time<br>balcony<br>demand<br>ghost<br>dove<br>carry<br>exhaust<br>afraid |  
-| bip_39_word_new_br2 | column<br>spice |  
-| bip_39_word_new_br3 | column<br>spice<br>farm |  
-| bip_39_word_new_br4 | column<br>spice<br>farm<br>cup |  
-| bip_39_word_new_br5 | column<br>spice<br>farm<br>cup<br>time |  
-| bip_39_word_new_br6 | column<br>spice<br>farm<br>cup<br>time<br>balcony |  
-| bip_39_word_new_br7 | column<br>spice<br>farm<br>cup<br>time<br>balcony<br>demand |  
-| bip_39_word_new_br8 | column<br>spice<br>farm<br>cup<br>time<br>balcony<br>demand<br>ghost |  
-| bip_39_word_new_br9 | column<br>spice<br>farm<br>cup<br>time<br>balcony<br>demand<br>ghost<br>dove |  
-| bip_39_word_new_line1 | column |  
-| bip_39_word_new_line10 | column
+| bip_39_word_new_br_1 | column |  
+| bip_39_word_new_br_10 | column<br>spice<br>farm<br>cup<br>time<br>balcony<br>demand<br>ghost<br>dove<br>carry |  
+| bip_39_word_new_br_11 | column<br>spice<br>farm<br>cup<br>time<br>balcony<br>demand<br>ghost<br>dove<br>carry<br>exhaust |  
+| bip_39_word_new_br_12 | column<br>spice<br>farm<br>cup<br>time<br>balcony<br>demand<br>ghost<br>dove<br>carry<br>exhaust<br>afraid |  
+| bip_39_word_new_br_2 | column<br>spice |  
+| bip_39_word_new_br_3 | column<br>spice<br>farm |  
+| bip_39_word_new_br_4 | column<br>spice<br>farm<br>cup |  
+| bip_39_word_new_br_5 | column<br>spice<br>farm<br>cup<br>time |  
+| bip_39_word_new_br_6 | column<br>spice<br>farm<br>cup<br>time<br>balcony |  
+| bip_39_word_new_br_7 | column<br>spice<br>farm<br>cup<br>time<br>balcony<br>demand |  
+| bip_39_word_new_br_8 | column<br>spice<br>farm<br>cup<br>time<br>balcony<br>demand<br>ghost |  
+| bip_39_word_new_br_9 | column<br>spice<br>farm<br>cup<br>time<br>balcony<br>demand<br>ghost<br>dove |  
+| bip_39_word_new_line_1 | column |  
+| bip_39_word_new_line_10 | column
 spice
 farm
 cup
@@ -55,7 +55,7 @@ demand
 ghost
 dove
 carry |  
-| bip_39_word_new_line11 | column
+| bip_39_word_new_line_11 | column
 spice
 farm
 cup
@@ -66,7 +66,7 @@ ghost
 dove
 carry
 exhaust |  
-| bip_39_word_new_line12 | column
+| bip_39_word_new_line_12 | column
 spice
 farm
 cup
@@ -78,34 +78,34 @@ dove
 carry
 exhaust
 afraid |  
-| bip_39_word_new_line2 | column
+| bip_39_word_new_line_2 | column
 spice |  
-| bip_39_word_new_line3 | column
+| bip_39_word_new_line_3 | column
 spice
 farm |  
-| bip_39_word_new_line4 | column
+| bip_39_word_new_line_4 | column
 spice
 farm
 cup |  
-| bip_39_word_new_line5 | column
+| bip_39_word_new_line_5 | column
 spice
 farm
 cup
 time |  
-| bip_39_word_new_line6 | column
+| bip_39_word_new_line_6 | column
 spice
 farm
 cup
 time
 balcony |  
-| bip_39_word_new_line7 | column
+| bip_39_word_new_line_7 | column
 spice
 farm
 cup
 time
 balcony
 demand |  
-| bip_39_word_new_line8 | column
+| bip_39_word_new_line_8 | column
 spice
 farm
 cup
@@ -113,7 +113,7 @@ time
 balcony
 demand
 ghost |  
-| bip_39_word_new_line9 | column
+| bip_39_word_new_line_9 | column
 spice
 farm
 cup

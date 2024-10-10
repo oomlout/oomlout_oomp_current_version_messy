@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | decide |  
-| bip_39_word_new_br10 | decide<br>cargo<br>rival<br>stumble<br>play<br>profit<br>panda<br>brush<br>ring<br>submit |  
-| bip_39_word_new_br11 | decide<br>cargo<br>rival<br>stumble<br>play<br>profit<br>panda<br>brush<br>ring<br>submit<br>aerobic |  
-| bip_39_word_new_br12 | decide<br>cargo<br>rival<br>stumble<br>play<br>profit<br>panda<br>brush<br>ring<br>submit<br>aerobic<br>agent |  
-| bip_39_word_new_br2 | decide<br>cargo |  
-| bip_39_word_new_br3 | decide<br>cargo<br>rival |  
-| bip_39_word_new_br4 | decide<br>cargo<br>rival<br>stumble |  
-| bip_39_word_new_br5 | decide<br>cargo<br>rival<br>stumble<br>play |  
-| bip_39_word_new_br6 | decide<br>cargo<br>rival<br>stumble<br>play<br>profit |  
-| bip_39_word_new_br7 | decide<br>cargo<br>rival<br>stumble<br>play<br>profit<br>panda |  
-| bip_39_word_new_br8 | decide<br>cargo<br>rival<br>stumble<br>play<br>profit<br>panda<br>brush |  
-| bip_39_word_new_br9 | decide<br>cargo<br>rival<br>stumble<br>play<br>profit<br>panda<br>brush<br>ring |  
-| bip_39_word_new_line1 | decide |  
-| bip_39_word_new_line10 | decide
+| bip_39_word_new_br_1 | decide |  
+| bip_39_word_new_br_10 | decide<br>cargo<br>rival<br>stumble<br>play<br>profit<br>panda<br>brush<br>ring<br>submit |  
+| bip_39_word_new_br_11 | decide<br>cargo<br>rival<br>stumble<br>play<br>profit<br>panda<br>brush<br>ring<br>submit<br>aerobic |  
+| bip_39_word_new_br_12 | decide<br>cargo<br>rival<br>stumble<br>play<br>profit<br>panda<br>brush<br>ring<br>submit<br>aerobic<br>agent |  
+| bip_39_word_new_br_2 | decide<br>cargo |  
+| bip_39_word_new_br_3 | decide<br>cargo<br>rival |  
+| bip_39_word_new_br_4 | decide<br>cargo<br>rival<br>stumble |  
+| bip_39_word_new_br_5 | decide<br>cargo<br>rival<br>stumble<br>play |  
+| bip_39_word_new_br_6 | decide<br>cargo<br>rival<br>stumble<br>play<br>profit |  
+| bip_39_word_new_br_7 | decide<br>cargo<br>rival<br>stumble<br>play<br>profit<br>panda |  
+| bip_39_word_new_br_8 | decide<br>cargo<br>rival<br>stumble<br>play<br>profit<br>panda<br>brush |  
+| bip_39_word_new_br_9 | decide<br>cargo<br>rival<br>stumble<br>play<br>profit<br>panda<br>brush<br>ring |  
+| bip_39_word_new_line_1 | decide |  
+| bip_39_word_new_line_10 | decide
 cargo
 rival
 stumble
@@ -55,7 +55,7 @@ panda
 brush
 ring
 submit |  
-| bip_39_word_new_line11 | decide
+| bip_39_word_new_line_11 | decide
 cargo
 rival
 stumble
@@ -66,7 +66,7 @@ brush
 ring
 submit
 aerobic |  
-| bip_39_word_new_line12 | decide
+| bip_39_word_new_line_12 | decide
 cargo
 rival
 stumble
@@ -78,34 +78,34 @@ ring
 submit
 aerobic
 agent |  
-| bip_39_word_new_line2 | decide
+| bip_39_word_new_line_2 | decide
 cargo |  
-| bip_39_word_new_line3 | decide
+| bip_39_word_new_line_3 | decide
 cargo
 rival |  
-| bip_39_word_new_line4 | decide
+| bip_39_word_new_line_4 | decide
 cargo
 rival
 stumble |  
-| bip_39_word_new_line5 | decide
+| bip_39_word_new_line_5 | decide
 cargo
 rival
 stumble
 play |  
-| bip_39_word_new_line6 | decide
+| bip_39_word_new_line_6 | decide
 cargo
 rival
 stumble
 play
 profit |  
-| bip_39_word_new_line7 | decide
+| bip_39_word_new_line_7 | decide
 cargo
 rival
 stumble
 play
 profit
 panda |  
-| bip_39_word_new_line8 | decide
+| bip_39_word_new_line_8 | decide
 cargo
 rival
 stumble
@@ -113,7 +113,7 @@ play
 profit
 panda
 brush |  
-| bip_39_word_new_line9 | decide
+| bip_39_word_new_line_9 | decide
 cargo
 rival
 stumble

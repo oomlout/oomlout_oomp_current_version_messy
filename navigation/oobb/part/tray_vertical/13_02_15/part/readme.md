@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | arrive |  
-| bip_39_word_new_br10 | arrive<br>alter<br>movie<br>quality<br>valid<br>stand<br>spoon<br>swift<br>seven<br>measure |  
-| bip_39_word_new_br11 | arrive<br>alter<br>movie<br>quality<br>valid<br>stand<br>spoon<br>swift<br>seven<br>measure<br>defense |  
-| bip_39_word_new_br12 | arrive<br>alter<br>movie<br>quality<br>valid<br>stand<br>spoon<br>swift<br>seven<br>measure<br>defense<br>agree |  
-| bip_39_word_new_br2 | arrive<br>alter |  
-| bip_39_word_new_br3 | arrive<br>alter<br>movie |  
-| bip_39_word_new_br4 | arrive<br>alter<br>movie<br>quality |  
-| bip_39_word_new_br5 | arrive<br>alter<br>movie<br>quality<br>valid |  
-| bip_39_word_new_br6 | arrive<br>alter<br>movie<br>quality<br>valid<br>stand |  
-| bip_39_word_new_br7 | arrive<br>alter<br>movie<br>quality<br>valid<br>stand<br>spoon |  
-| bip_39_word_new_br8 | arrive<br>alter<br>movie<br>quality<br>valid<br>stand<br>spoon<br>swift |  
-| bip_39_word_new_br9 | arrive<br>alter<br>movie<br>quality<br>valid<br>stand<br>spoon<br>swift<br>seven |  
-| bip_39_word_new_line1 | arrive |  
-| bip_39_word_new_line10 | arrive
+| bip_39_word_new_br_1 | arrive |  
+| bip_39_word_new_br_10 | arrive<br>alter<br>movie<br>quality<br>valid<br>stand<br>spoon<br>swift<br>seven<br>measure |  
+| bip_39_word_new_br_11 | arrive<br>alter<br>movie<br>quality<br>valid<br>stand<br>spoon<br>swift<br>seven<br>measure<br>defense |  
+| bip_39_word_new_br_12 | arrive<br>alter<br>movie<br>quality<br>valid<br>stand<br>spoon<br>swift<br>seven<br>measure<br>defense<br>agree |  
+| bip_39_word_new_br_2 | arrive<br>alter |  
+| bip_39_word_new_br_3 | arrive<br>alter<br>movie |  
+| bip_39_word_new_br_4 | arrive<br>alter<br>movie<br>quality |  
+| bip_39_word_new_br_5 | arrive<br>alter<br>movie<br>quality<br>valid |  
+| bip_39_word_new_br_6 | arrive<br>alter<br>movie<br>quality<br>valid<br>stand |  
+| bip_39_word_new_br_7 | arrive<br>alter<br>movie<br>quality<br>valid<br>stand<br>spoon |  
+| bip_39_word_new_br_8 | arrive<br>alter<br>movie<br>quality<br>valid<br>stand<br>spoon<br>swift |  
+| bip_39_word_new_br_9 | arrive<br>alter<br>movie<br>quality<br>valid<br>stand<br>spoon<br>swift<br>seven |  
+| bip_39_word_new_line_1 | arrive |  
+| bip_39_word_new_line_10 | arrive
 alter
 movie
 quality
@@ -55,7 +55,7 @@ spoon
 swift
 seven
 measure |  
-| bip_39_word_new_line11 | arrive
+| bip_39_word_new_line_11 | arrive
 alter
 movie
 quality
@@ -66,7 +66,7 @@ swift
 seven
 measure
 defense |  
-| bip_39_word_new_line12 | arrive
+| bip_39_word_new_line_12 | arrive
 alter
 movie
 quality
@@ -78,34 +78,34 @@ seven
 measure
 defense
 agree |  
-| bip_39_word_new_line2 | arrive
+| bip_39_word_new_line_2 | arrive
 alter |  
-| bip_39_word_new_line3 | arrive
+| bip_39_word_new_line_3 | arrive
 alter
 movie |  
-| bip_39_word_new_line4 | arrive
+| bip_39_word_new_line_4 | arrive
 alter
 movie
 quality |  
-| bip_39_word_new_line5 | arrive
+| bip_39_word_new_line_5 | arrive
 alter
 movie
 quality
 valid |  
-| bip_39_word_new_line6 | arrive
+| bip_39_word_new_line_6 | arrive
 alter
 movie
 quality
 valid
 stand |  
-| bip_39_word_new_line7 | arrive
+| bip_39_word_new_line_7 | arrive
 alter
 movie
 quality
 valid
 stand
 spoon |  
-| bip_39_word_new_line8 | arrive
+| bip_39_word_new_line_8 | arrive
 alter
 movie
 quality
@@ -113,7 +113,7 @@ valid
 stand
 spoon
 swift |  
-| bip_39_word_new_line9 | arrive
+| bip_39_word_new_line_9 | arrive
 alter
 movie
 quality

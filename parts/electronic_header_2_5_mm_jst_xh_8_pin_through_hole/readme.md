@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | elephant |  
-| bip_39_word_new_br10 | elephant<br>bench<br>craft<br>erase<br>afraid<br>annual<br>magic<br>raven<br>doll<br>breeze |  
-| bip_39_word_new_br11 | elephant<br>bench<br>craft<br>erase<br>afraid<br>annual<br>magic<br>raven<br>doll<br>breeze<br>mandate |  
-| bip_39_word_new_br12 | elephant<br>bench<br>craft<br>erase<br>afraid<br>annual<br>magic<br>raven<br>doll<br>breeze<br>mandate<br>addict |  
-| bip_39_word_new_br2 | elephant<br>bench |  
-| bip_39_word_new_br3 | elephant<br>bench<br>craft |  
-| bip_39_word_new_br4 | elephant<br>bench<br>craft<br>erase |  
-| bip_39_word_new_br5 | elephant<br>bench<br>craft<br>erase<br>afraid |  
-| bip_39_word_new_br6 | elephant<br>bench<br>craft<br>erase<br>afraid<br>annual |  
-| bip_39_word_new_br7 | elephant<br>bench<br>craft<br>erase<br>afraid<br>annual<br>magic |  
-| bip_39_word_new_br8 | elephant<br>bench<br>craft<br>erase<br>afraid<br>annual<br>magic<br>raven |  
-| bip_39_word_new_br9 | elephant<br>bench<br>craft<br>erase<br>afraid<br>annual<br>magic<br>raven<br>doll |  
-| bip_39_word_new_line1 | elephant |  
-| bip_39_word_new_line10 | elephant
+| bip_39_word_new_br_1 | elephant |  
+| bip_39_word_new_br_10 | elephant<br>bench<br>craft<br>erase<br>afraid<br>annual<br>magic<br>raven<br>doll<br>breeze |  
+| bip_39_word_new_br_11 | elephant<br>bench<br>craft<br>erase<br>afraid<br>annual<br>magic<br>raven<br>doll<br>breeze<br>mandate |  
+| bip_39_word_new_br_12 | elephant<br>bench<br>craft<br>erase<br>afraid<br>annual<br>magic<br>raven<br>doll<br>breeze<br>mandate<br>addict |  
+| bip_39_word_new_br_2 | elephant<br>bench |  
+| bip_39_word_new_br_3 | elephant<br>bench<br>craft |  
+| bip_39_word_new_br_4 | elephant<br>bench<br>craft<br>erase |  
+| bip_39_word_new_br_5 | elephant<br>bench<br>craft<br>erase<br>afraid |  
+| bip_39_word_new_br_6 | elephant<br>bench<br>craft<br>erase<br>afraid<br>annual |  
+| bip_39_word_new_br_7 | elephant<br>bench<br>craft<br>erase<br>afraid<br>annual<br>magic |  
+| bip_39_word_new_br_8 | elephant<br>bench<br>craft<br>erase<br>afraid<br>annual<br>magic<br>raven |  
+| bip_39_word_new_br_9 | elephant<br>bench<br>craft<br>erase<br>afraid<br>annual<br>magic<br>raven<br>doll |  
+| bip_39_word_new_line_1 | elephant |  
+| bip_39_word_new_line_10 | elephant
 bench
 craft
 erase
@@ -55,7 +55,7 @@ magic
 raven
 doll
 breeze |  
-| bip_39_word_new_line11 | elephant
+| bip_39_word_new_line_11 | elephant
 bench
 craft
 erase
@@ -66,7 +66,7 @@ raven
 doll
 breeze
 mandate |  
-| bip_39_word_new_line12 | elephant
+| bip_39_word_new_line_12 | elephant
 bench
 craft
 erase
@@ -78,34 +78,34 @@ doll
 breeze
 mandate
 addict |  
-| bip_39_word_new_line2 | elephant
+| bip_39_word_new_line_2 | elephant
 bench |  
-| bip_39_word_new_line3 | elephant
+| bip_39_word_new_line_3 | elephant
 bench
 craft |  
-| bip_39_word_new_line4 | elephant
+| bip_39_word_new_line_4 | elephant
 bench
 craft
 erase |  
-| bip_39_word_new_line5 | elephant
+| bip_39_word_new_line_5 | elephant
 bench
 craft
 erase
 afraid |  
-| bip_39_word_new_line6 | elephant
+| bip_39_word_new_line_6 | elephant
 bench
 craft
 erase
 afraid
 annual |  
-| bip_39_word_new_line7 | elephant
+| bip_39_word_new_line_7 | elephant
 bench
 craft
 erase
 afraid
 annual
 magic |  
-| bip_39_word_new_line8 | elephant
+| bip_39_word_new_line_8 | elephant
 bench
 craft
 erase
@@ -113,7 +113,7 @@ afraid
 annual
 magic
 raven |  
-| bip_39_word_new_line9 | elephant
+| bip_39_word_new_line_9 | elephant
 bench
 craft
 erase

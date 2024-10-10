@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mountain |  
-| bip_39_word_new_br10 | mountain<br>strategy<br>ostrich<br>admit<br>crouch<br>enrich<br>industry<br>fossil<br>liar<br>jaguar |  
-| bip_39_word_new_br11 | mountain<br>strategy<br>ostrich<br>admit<br>crouch<br>enrich<br>industry<br>fossil<br>liar<br>jaguar<br>velvet |  
-| bip_39_word_new_br12 | mountain<br>strategy<br>ostrich<br>admit<br>crouch<br>enrich<br>industry<br>fossil<br>liar<br>jaguar<br>velvet<br>agent |  
-| bip_39_word_new_br2 | mountain<br>strategy |  
-| bip_39_word_new_br3 | mountain<br>strategy<br>ostrich |  
-| bip_39_word_new_br4 | mountain<br>strategy<br>ostrich<br>admit |  
-| bip_39_word_new_br5 | mountain<br>strategy<br>ostrich<br>admit<br>crouch |  
-| bip_39_word_new_br6 | mountain<br>strategy<br>ostrich<br>admit<br>crouch<br>enrich |  
-| bip_39_word_new_br7 | mountain<br>strategy<br>ostrich<br>admit<br>crouch<br>enrich<br>industry |  
-| bip_39_word_new_br8 | mountain<br>strategy<br>ostrich<br>admit<br>crouch<br>enrich<br>industry<br>fossil |  
-| bip_39_word_new_br9 | mountain<br>strategy<br>ostrich<br>admit<br>crouch<br>enrich<br>industry<br>fossil<br>liar |  
-| bip_39_word_new_line1 | mountain |  
-| bip_39_word_new_line10 | mountain
+| bip_39_word_new_br_1 | mountain |  
+| bip_39_word_new_br_10 | mountain<br>strategy<br>ostrich<br>admit<br>crouch<br>enrich<br>industry<br>fossil<br>liar<br>jaguar |  
+| bip_39_word_new_br_11 | mountain<br>strategy<br>ostrich<br>admit<br>crouch<br>enrich<br>industry<br>fossil<br>liar<br>jaguar<br>velvet |  
+| bip_39_word_new_br_12 | mountain<br>strategy<br>ostrich<br>admit<br>crouch<br>enrich<br>industry<br>fossil<br>liar<br>jaguar<br>velvet<br>agent |  
+| bip_39_word_new_br_2 | mountain<br>strategy |  
+| bip_39_word_new_br_3 | mountain<br>strategy<br>ostrich |  
+| bip_39_word_new_br_4 | mountain<br>strategy<br>ostrich<br>admit |  
+| bip_39_word_new_br_5 | mountain<br>strategy<br>ostrich<br>admit<br>crouch |  
+| bip_39_word_new_br_6 | mountain<br>strategy<br>ostrich<br>admit<br>crouch<br>enrich |  
+| bip_39_word_new_br_7 | mountain<br>strategy<br>ostrich<br>admit<br>crouch<br>enrich<br>industry |  
+| bip_39_word_new_br_8 | mountain<br>strategy<br>ostrich<br>admit<br>crouch<br>enrich<br>industry<br>fossil |  
+| bip_39_word_new_br_9 | mountain<br>strategy<br>ostrich<br>admit<br>crouch<br>enrich<br>industry<br>fossil<br>liar |  
+| bip_39_word_new_line_1 | mountain |  
+| bip_39_word_new_line_10 | mountain
 strategy
 ostrich
 admit
@@ -55,7 +55,7 @@ industry
 fossil
 liar
 jaguar |  
-| bip_39_word_new_line11 | mountain
+| bip_39_word_new_line_11 | mountain
 strategy
 ostrich
 admit
@@ -66,7 +66,7 @@ fossil
 liar
 jaguar
 velvet |  
-| bip_39_word_new_line12 | mountain
+| bip_39_word_new_line_12 | mountain
 strategy
 ostrich
 admit
@@ -78,34 +78,34 @@ liar
 jaguar
 velvet
 agent |  
-| bip_39_word_new_line2 | mountain
+| bip_39_word_new_line_2 | mountain
 strategy |  
-| bip_39_word_new_line3 | mountain
+| bip_39_word_new_line_3 | mountain
 strategy
 ostrich |  
-| bip_39_word_new_line4 | mountain
+| bip_39_word_new_line_4 | mountain
 strategy
 ostrich
 admit |  
-| bip_39_word_new_line5 | mountain
+| bip_39_word_new_line_5 | mountain
 strategy
 ostrich
 admit
 crouch |  
-| bip_39_word_new_line6 | mountain
+| bip_39_word_new_line_6 | mountain
 strategy
 ostrich
 admit
 crouch
 enrich |  
-| bip_39_word_new_line7 | mountain
+| bip_39_word_new_line_7 | mountain
 strategy
 ostrich
 admit
 crouch
 enrich
 industry |  
-| bip_39_word_new_line8 | mountain
+| bip_39_word_new_line_8 | mountain
 strategy
 ostrich
 admit
@@ -113,7 +113,7 @@ crouch
 enrich
 industry
 fossil |  
-| bip_39_word_new_line9 | mountain
+| bip_39_word_new_line_9 | mountain
 strategy
 ostrich
 admit

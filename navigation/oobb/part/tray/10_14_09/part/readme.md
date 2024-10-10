@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | desert |  
-| bip_39_word_new_br10 | desert<br>double<br>bike<br>output<br>stamp<br>razor<br>element<br>giggle<br>bean<br>know |  
-| bip_39_word_new_br11 | desert<br>double<br>bike<br>output<br>stamp<br>razor<br>element<br>giggle<br>bean<br>know<br>rough |  
-| bip_39_word_new_br12 | desert<br>double<br>bike<br>output<br>stamp<br>razor<br>element<br>giggle<br>bean<br>know<br>rough<br>air |  
-| bip_39_word_new_br2 | desert<br>double |  
-| bip_39_word_new_br3 | desert<br>double<br>bike |  
-| bip_39_word_new_br4 | desert<br>double<br>bike<br>output |  
-| bip_39_word_new_br5 | desert<br>double<br>bike<br>output<br>stamp |  
-| bip_39_word_new_br6 | desert<br>double<br>bike<br>output<br>stamp<br>razor |  
-| bip_39_word_new_br7 | desert<br>double<br>bike<br>output<br>stamp<br>razor<br>element |  
-| bip_39_word_new_br8 | desert<br>double<br>bike<br>output<br>stamp<br>razor<br>element<br>giggle |  
-| bip_39_word_new_br9 | desert<br>double<br>bike<br>output<br>stamp<br>razor<br>element<br>giggle<br>bean |  
-| bip_39_word_new_line1 | desert |  
-| bip_39_word_new_line10 | desert
+| bip_39_word_new_br_1 | desert |  
+| bip_39_word_new_br_10 | desert<br>double<br>bike<br>output<br>stamp<br>razor<br>element<br>giggle<br>bean<br>know |  
+| bip_39_word_new_br_11 | desert<br>double<br>bike<br>output<br>stamp<br>razor<br>element<br>giggle<br>bean<br>know<br>rough |  
+| bip_39_word_new_br_12 | desert<br>double<br>bike<br>output<br>stamp<br>razor<br>element<br>giggle<br>bean<br>know<br>rough<br>air |  
+| bip_39_word_new_br_2 | desert<br>double |  
+| bip_39_word_new_br_3 | desert<br>double<br>bike |  
+| bip_39_word_new_br_4 | desert<br>double<br>bike<br>output |  
+| bip_39_word_new_br_5 | desert<br>double<br>bike<br>output<br>stamp |  
+| bip_39_word_new_br_6 | desert<br>double<br>bike<br>output<br>stamp<br>razor |  
+| bip_39_word_new_br_7 | desert<br>double<br>bike<br>output<br>stamp<br>razor<br>element |  
+| bip_39_word_new_br_8 | desert<br>double<br>bike<br>output<br>stamp<br>razor<br>element<br>giggle |  
+| bip_39_word_new_br_9 | desert<br>double<br>bike<br>output<br>stamp<br>razor<br>element<br>giggle<br>bean |  
+| bip_39_word_new_line_1 | desert |  
+| bip_39_word_new_line_10 | desert
 double
 bike
 output
@@ -55,7 +55,7 @@ element
 giggle
 bean
 know |  
-| bip_39_word_new_line11 | desert
+| bip_39_word_new_line_11 | desert
 double
 bike
 output
@@ -66,7 +66,7 @@ giggle
 bean
 know
 rough |  
-| bip_39_word_new_line12 | desert
+| bip_39_word_new_line_12 | desert
 double
 bike
 output
@@ -78,34 +78,34 @@ bean
 know
 rough
 air |  
-| bip_39_word_new_line2 | desert
+| bip_39_word_new_line_2 | desert
 double |  
-| bip_39_word_new_line3 | desert
+| bip_39_word_new_line_3 | desert
 double
 bike |  
-| bip_39_word_new_line4 | desert
+| bip_39_word_new_line_4 | desert
 double
 bike
 output |  
-| bip_39_word_new_line5 | desert
+| bip_39_word_new_line_5 | desert
 double
 bike
 output
 stamp |  
-| bip_39_word_new_line6 | desert
+| bip_39_word_new_line_6 | desert
 double
 bike
 output
 stamp
 razor |  
-| bip_39_word_new_line7 | desert
+| bip_39_word_new_line_7 | desert
 double
 bike
 output
 stamp
 razor
 element |  
-| bip_39_word_new_line8 | desert
+| bip_39_word_new_line_8 | desert
 double
 bike
 output
@@ -113,7 +113,7 @@ stamp
 razor
 element
 giggle |  
-| bip_39_word_new_line9 | desert
+| bip_39_word_new_line_9 | desert
 double
 bike
 output

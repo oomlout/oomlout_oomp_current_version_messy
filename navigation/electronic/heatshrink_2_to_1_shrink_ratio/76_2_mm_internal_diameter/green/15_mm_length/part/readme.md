@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | riot |  
-| bip_39_word_new_br10 | riot<br>cattle<br>health<br>end<br>stable<br>between<br>yard<br>peanut<br>illness<br>fruit |  
-| bip_39_word_new_br11 | riot<br>cattle<br>health<br>end<br>stable<br>between<br>yard<br>peanut<br>illness<br>fruit<br>math |  
-| bip_39_word_new_br12 | riot<br>cattle<br>health<br>end<br>stable<br>between<br>yard<br>peanut<br>illness<br>fruit<br>math<br>analyst |  
-| bip_39_word_new_br2 | riot<br>cattle |  
-| bip_39_word_new_br3 | riot<br>cattle<br>health |  
-| bip_39_word_new_br4 | riot<br>cattle<br>health<br>end |  
-| bip_39_word_new_br5 | riot<br>cattle<br>health<br>end<br>stable |  
-| bip_39_word_new_br6 | riot<br>cattle<br>health<br>end<br>stable<br>between |  
-| bip_39_word_new_br7 | riot<br>cattle<br>health<br>end<br>stable<br>between<br>yard |  
-| bip_39_word_new_br8 | riot<br>cattle<br>health<br>end<br>stable<br>between<br>yard<br>peanut |  
-| bip_39_word_new_br9 | riot<br>cattle<br>health<br>end<br>stable<br>between<br>yard<br>peanut<br>illness |  
-| bip_39_word_new_line1 | riot |  
-| bip_39_word_new_line10 | riot
+| bip_39_word_new_br_1 | riot |  
+| bip_39_word_new_br_10 | riot<br>cattle<br>health<br>end<br>stable<br>between<br>yard<br>peanut<br>illness<br>fruit |  
+| bip_39_word_new_br_11 | riot<br>cattle<br>health<br>end<br>stable<br>between<br>yard<br>peanut<br>illness<br>fruit<br>math |  
+| bip_39_word_new_br_12 | riot<br>cattle<br>health<br>end<br>stable<br>between<br>yard<br>peanut<br>illness<br>fruit<br>math<br>analyst |  
+| bip_39_word_new_br_2 | riot<br>cattle |  
+| bip_39_word_new_br_3 | riot<br>cattle<br>health |  
+| bip_39_word_new_br_4 | riot<br>cattle<br>health<br>end |  
+| bip_39_word_new_br_5 | riot<br>cattle<br>health<br>end<br>stable |  
+| bip_39_word_new_br_6 | riot<br>cattle<br>health<br>end<br>stable<br>between |  
+| bip_39_word_new_br_7 | riot<br>cattle<br>health<br>end<br>stable<br>between<br>yard |  
+| bip_39_word_new_br_8 | riot<br>cattle<br>health<br>end<br>stable<br>between<br>yard<br>peanut |  
+| bip_39_word_new_br_9 | riot<br>cattle<br>health<br>end<br>stable<br>between<br>yard<br>peanut<br>illness |  
+| bip_39_word_new_line_1 | riot |  
+| bip_39_word_new_line_10 | riot
 cattle
 health
 end
@@ -55,7 +55,7 @@ yard
 peanut
 illness
 fruit |  
-| bip_39_word_new_line11 | riot
+| bip_39_word_new_line_11 | riot
 cattle
 health
 end
@@ -66,7 +66,7 @@ peanut
 illness
 fruit
 math |  
-| bip_39_word_new_line12 | riot
+| bip_39_word_new_line_12 | riot
 cattle
 health
 end
@@ -78,34 +78,34 @@ illness
 fruit
 math
 analyst |  
-| bip_39_word_new_line2 | riot
+| bip_39_word_new_line_2 | riot
 cattle |  
-| bip_39_word_new_line3 | riot
+| bip_39_word_new_line_3 | riot
 cattle
 health |  
-| bip_39_word_new_line4 | riot
+| bip_39_word_new_line_4 | riot
 cattle
 health
 end |  
-| bip_39_word_new_line5 | riot
+| bip_39_word_new_line_5 | riot
 cattle
 health
 end
 stable |  
-| bip_39_word_new_line6 | riot
+| bip_39_word_new_line_6 | riot
 cattle
 health
 end
 stable
 between |  
-| bip_39_word_new_line7 | riot
+| bip_39_word_new_line_7 | riot
 cattle
 health
 end
 stable
 between
 yard |  
-| bip_39_word_new_line8 | riot
+| bip_39_word_new_line_8 | riot
 cattle
 health
 end
@@ -113,7 +113,7 @@ stable
 between
 yard
 peanut |  
-| bip_39_word_new_line9 | riot
+| bip_39_word_new_line_9 | riot
 cattle
 health
 end

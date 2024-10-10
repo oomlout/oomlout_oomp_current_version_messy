@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | diet |  
-| bip_39_word_new_br10 | diet<br>pioneer<br>busy<br>garbage<br>design<br>hard<br>rapid<br>wrestle<br>person<br>inherit |  
-| bip_39_word_new_br11 | diet<br>pioneer<br>busy<br>garbage<br>design<br>hard<br>rapid<br>wrestle<br>person<br>inherit<br>tired |  
-| bip_39_word_new_br12 | diet<br>pioneer<br>busy<br>garbage<br>design<br>hard<br>rapid<br>wrestle<br>person<br>inherit<br>tired<br>adjust |  
-| bip_39_word_new_br2 | diet<br>pioneer |  
-| bip_39_word_new_br3 | diet<br>pioneer<br>busy |  
-| bip_39_word_new_br4 | diet<br>pioneer<br>busy<br>garbage |  
-| bip_39_word_new_br5 | diet<br>pioneer<br>busy<br>garbage<br>design |  
-| bip_39_word_new_br6 | diet<br>pioneer<br>busy<br>garbage<br>design<br>hard |  
-| bip_39_word_new_br7 | diet<br>pioneer<br>busy<br>garbage<br>design<br>hard<br>rapid |  
-| bip_39_word_new_br8 | diet<br>pioneer<br>busy<br>garbage<br>design<br>hard<br>rapid<br>wrestle |  
-| bip_39_word_new_br9 | diet<br>pioneer<br>busy<br>garbage<br>design<br>hard<br>rapid<br>wrestle<br>person |  
-| bip_39_word_new_line1 | diet |  
-| bip_39_word_new_line10 | diet
+| bip_39_word_new_br_1 | diet |  
+| bip_39_word_new_br_10 | diet<br>pioneer<br>busy<br>garbage<br>design<br>hard<br>rapid<br>wrestle<br>person<br>inherit |  
+| bip_39_word_new_br_11 | diet<br>pioneer<br>busy<br>garbage<br>design<br>hard<br>rapid<br>wrestle<br>person<br>inherit<br>tired |  
+| bip_39_word_new_br_12 | diet<br>pioneer<br>busy<br>garbage<br>design<br>hard<br>rapid<br>wrestle<br>person<br>inherit<br>tired<br>adjust |  
+| bip_39_word_new_br_2 | diet<br>pioneer |  
+| bip_39_word_new_br_3 | diet<br>pioneer<br>busy |  
+| bip_39_word_new_br_4 | diet<br>pioneer<br>busy<br>garbage |  
+| bip_39_word_new_br_5 | diet<br>pioneer<br>busy<br>garbage<br>design |  
+| bip_39_word_new_br_6 | diet<br>pioneer<br>busy<br>garbage<br>design<br>hard |  
+| bip_39_word_new_br_7 | diet<br>pioneer<br>busy<br>garbage<br>design<br>hard<br>rapid |  
+| bip_39_word_new_br_8 | diet<br>pioneer<br>busy<br>garbage<br>design<br>hard<br>rapid<br>wrestle |  
+| bip_39_word_new_br_9 | diet<br>pioneer<br>busy<br>garbage<br>design<br>hard<br>rapid<br>wrestle<br>person |  
+| bip_39_word_new_line_1 | diet |  
+| bip_39_word_new_line_10 | diet
 pioneer
 busy
 garbage
@@ -55,7 +55,7 @@ rapid
 wrestle
 person
 inherit |  
-| bip_39_word_new_line11 | diet
+| bip_39_word_new_line_11 | diet
 pioneer
 busy
 garbage
@@ -66,7 +66,7 @@ wrestle
 person
 inherit
 tired |  
-| bip_39_word_new_line12 | diet
+| bip_39_word_new_line_12 | diet
 pioneer
 busy
 garbage
@@ -78,34 +78,34 @@ person
 inherit
 tired
 adjust |  
-| bip_39_word_new_line2 | diet
+| bip_39_word_new_line_2 | diet
 pioneer |  
-| bip_39_word_new_line3 | diet
+| bip_39_word_new_line_3 | diet
 pioneer
 busy |  
-| bip_39_word_new_line4 | diet
+| bip_39_word_new_line_4 | diet
 pioneer
 busy
 garbage |  
-| bip_39_word_new_line5 | diet
+| bip_39_word_new_line_5 | diet
 pioneer
 busy
 garbage
 design |  
-| bip_39_word_new_line6 | diet
+| bip_39_word_new_line_6 | diet
 pioneer
 busy
 garbage
 design
 hard |  
-| bip_39_word_new_line7 | diet
+| bip_39_word_new_line_7 | diet
 pioneer
 busy
 garbage
 design
 hard
 rapid |  
-| bip_39_word_new_line8 | diet
+| bip_39_word_new_line_8 | diet
 pioneer
 busy
 garbage
@@ -113,7 +113,7 @@ design
 hard
 rapid
 wrestle |  
-| bip_39_word_new_line9 | diet
+| bip_39_word_new_line_9 | diet
 pioneer
 busy
 garbage

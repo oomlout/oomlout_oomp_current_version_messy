@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bracket |  
-| bip_39_word_new_br10 | bracket<br>romance<br>alpha<br>simple<br>water<br>forget<br>recipe<br>glass<br>blood<br>law |  
-| bip_39_word_new_br11 | bracket<br>romance<br>alpha<br>simple<br>water<br>forget<br>recipe<br>glass<br>blood<br>law<br>innocent |  
-| bip_39_word_new_br12 | bracket<br>romance<br>alpha<br>simple<br>water<br>forget<br>recipe<br>glass<br>blood<br>law<br>innocent<br>absurd |  
-| bip_39_word_new_br2 | bracket<br>romance |  
-| bip_39_word_new_br3 | bracket<br>romance<br>alpha |  
-| bip_39_word_new_br4 | bracket<br>romance<br>alpha<br>simple |  
-| bip_39_word_new_br5 | bracket<br>romance<br>alpha<br>simple<br>water |  
-| bip_39_word_new_br6 | bracket<br>romance<br>alpha<br>simple<br>water<br>forget |  
-| bip_39_word_new_br7 | bracket<br>romance<br>alpha<br>simple<br>water<br>forget<br>recipe |  
-| bip_39_word_new_br8 | bracket<br>romance<br>alpha<br>simple<br>water<br>forget<br>recipe<br>glass |  
-| bip_39_word_new_br9 | bracket<br>romance<br>alpha<br>simple<br>water<br>forget<br>recipe<br>glass<br>blood |  
-| bip_39_word_new_line1 | bracket |  
-| bip_39_word_new_line10 | bracket
+| bip_39_word_new_br_1 | bracket |  
+| bip_39_word_new_br_10 | bracket<br>romance<br>alpha<br>simple<br>water<br>forget<br>recipe<br>glass<br>blood<br>law |  
+| bip_39_word_new_br_11 | bracket<br>romance<br>alpha<br>simple<br>water<br>forget<br>recipe<br>glass<br>blood<br>law<br>innocent |  
+| bip_39_word_new_br_12 | bracket<br>romance<br>alpha<br>simple<br>water<br>forget<br>recipe<br>glass<br>blood<br>law<br>innocent<br>absurd |  
+| bip_39_word_new_br_2 | bracket<br>romance |  
+| bip_39_word_new_br_3 | bracket<br>romance<br>alpha |  
+| bip_39_word_new_br_4 | bracket<br>romance<br>alpha<br>simple |  
+| bip_39_word_new_br_5 | bracket<br>romance<br>alpha<br>simple<br>water |  
+| bip_39_word_new_br_6 | bracket<br>romance<br>alpha<br>simple<br>water<br>forget |  
+| bip_39_word_new_br_7 | bracket<br>romance<br>alpha<br>simple<br>water<br>forget<br>recipe |  
+| bip_39_word_new_br_8 | bracket<br>romance<br>alpha<br>simple<br>water<br>forget<br>recipe<br>glass |  
+| bip_39_word_new_br_9 | bracket<br>romance<br>alpha<br>simple<br>water<br>forget<br>recipe<br>glass<br>blood |  
+| bip_39_word_new_line_1 | bracket |  
+| bip_39_word_new_line_10 | bracket
 romance
 alpha
 simple
@@ -55,7 +55,7 @@ recipe
 glass
 blood
 law |  
-| bip_39_word_new_line11 | bracket
+| bip_39_word_new_line_11 | bracket
 romance
 alpha
 simple
@@ -66,7 +66,7 @@ glass
 blood
 law
 innocent |  
-| bip_39_word_new_line12 | bracket
+| bip_39_word_new_line_12 | bracket
 romance
 alpha
 simple
@@ -78,34 +78,34 @@ blood
 law
 innocent
 absurd |  
-| bip_39_word_new_line2 | bracket
+| bip_39_word_new_line_2 | bracket
 romance |  
-| bip_39_word_new_line3 | bracket
+| bip_39_word_new_line_3 | bracket
 romance
 alpha |  
-| bip_39_word_new_line4 | bracket
+| bip_39_word_new_line_4 | bracket
 romance
 alpha
 simple |  
-| bip_39_word_new_line5 | bracket
+| bip_39_word_new_line_5 | bracket
 romance
 alpha
 simple
 water |  
-| bip_39_word_new_line6 | bracket
+| bip_39_word_new_line_6 | bracket
 romance
 alpha
 simple
 water
 forget |  
-| bip_39_word_new_line7 | bracket
+| bip_39_word_new_line_7 | bracket
 romance
 alpha
 simple
 water
 forget
 recipe |  
-| bip_39_word_new_line8 | bracket
+| bip_39_word_new_line_8 | bracket
 romance
 alpha
 simple
@@ -113,7 +113,7 @@ water
 forget
 recipe
 glass |  
-| bip_39_word_new_line9 | bracket
+| bip_39_word_new_line_9 | bracket
 romance
 alpha
 simple

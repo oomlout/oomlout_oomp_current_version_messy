@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | when |  
-| bip_39_word_new_br10 | when<br>crew<br>cactus<br>fix<br>face<br>unit<br>patch<br>banner<br>roof<br>chapter |  
-| bip_39_word_new_br11 | when<br>crew<br>cactus<br>fix<br>face<br>unit<br>patch<br>banner<br>roof<br>chapter<br>render |  
-| bip_39_word_new_br12 | when<br>crew<br>cactus<br>fix<br>face<br>unit<br>patch<br>banner<br>roof<br>chapter<br>render<br>all |  
-| bip_39_word_new_br2 | when<br>crew |  
-| bip_39_word_new_br3 | when<br>crew<br>cactus |  
-| bip_39_word_new_br4 | when<br>crew<br>cactus<br>fix |  
-| bip_39_word_new_br5 | when<br>crew<br>cactus<br>fix<br>face |  
-| bip_39_word_new_br6 | when<br>crew<br>cactus<br>fix<br>face<br>unit |  
-| bip_39_word_new_br7 | when<br>crew<br>cactus<br>fix<br>face<br>unit<br>patch |  
-| bip_39_word_new_br8 | when<br>crew<br>cactus<br>fix<br>face<br>unit<br>patch<br>banner |  
-| bip_39_word_new_br9 | when<br>crew<br>cactus<br>fix<br>face<br>unit<br>patch<br>banner<br>roof |  
-| bip_39_word_new_line1 | when |  
-| bip_39_word_new_line10 | when
+| bip_39_word_new_br_1 | when |  
+| bip_39_word_new_br_10 | when<br>crew<br>cactus<br>fix<br>face<br>unit<br>patch<br>banner<br>roof<br>chapter |  
+| bip_39_word_new_br_11 | when<br>crew<br>cactus<br>fix<br>face<br>unit<br>patch<br>banner<br>roof<br>chapter<br>render |  
+| bip_39_word_new_br_12 | when<br>crew<br>cactus<br>fix<br>face<br>unit<br>patch<br>banner<br>roof<br>chapter<br>render<br>all |  
+| bip_39_word_new_br_2 | when<br>crew |  
+| bip_39_word_new_br_3 | when<br>crew<br>cactus |  
+| bip_39_word_new_br_4 | when<br>crew<br>cactus<br>fix |  
+| bip_39_word_new_br_5 | when<br>crew<br>cactus<br>fix<br>face |  
+| bip_39_word_new_br_6 | when<br>crew<br>cactus<br>fix<br>face<br>unit |  
+| bip_39_word_new_br_7 | when<br>crew<br>cactus<br>fix<br>face<br>unit<br>patch |  
+| bip_39_word_new_br_8 | when<br>crew<br>cactus<br>fix<br>face<br>unit<br>patch<br>banner |  
+| bip_39_word_new_br_9 | when<br>crew<br>cactus<br>fix<br>face<br>unit<br>patch<br>banner<br>roof |  
+| bip_39_word_new_line_1 | when |  
+| bip_39_word_new_line_10 | when
 crew
 cactus
 fix
@@ -55,7 +55,7 @@ patch
 banner
 roof
 chapter |  
-| bip_39_word_new_line11 | when
+| bip_39_word_new_line_11 | when
 crew
 cactus
 fix
@@ -66,7 +66,7 @@ banner
 roof
 chapter
 render |  
-| bip_39_word_new_line12 | when
+| bip_39_word_new_line_12 | when
 crew
 cactus
 fix
@@ -78,34 +78,34 @@ roof
 chapter
 render
 all |  
-| bip_39_word_new_line2 | when
+| bip_39_word_new_line_2 | when
 crew |  
-| bip_39_word_new_line3 | when
+| bip_39_word_new_line_3 | when
 crew
 cactus |  
-| bip_39_word_new_line4 | when
+| bip_39_word_new_line_4 | when
 crew
 cactus
 fix |  
-| bip_39_word_new_line5 | when
+| bip_39_word_new_line_5 | when
 crew
 cactus
 fix
 face |  
-| bip_39_word_new_line6 | when
+| bip_39_word_new_line_6 | when
 crew
 cactus
 fix
 face
 unit |  
-| bip_39_word_new_line7 | when
+| bip_39_word_new_line_7 | when
 crew
 cactus
 fix
 face
 unit
 patch |  
-| bip_39_word_new_line8 | when
+| bip_39_word_new_line_8 | when
 crew
 cactus
 fix
@@ -113,7 +113,7 @@ face
 unit
 patch
 banner |  
-| bip_39_word_new_line9 | when
+| bip_39_word_new_line_9 | when
 crew
 cactus
 fix

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mutual |  
-| bip_39_word_new_br10 | mutual<br>giant<br>flight<br>enjoy<br>toss<br>hand<br>blanket<br>just<br>struggle<br>side |  
-| bip_39_word_new_br11 | mutual<br>giant<br>flight<br>enjoy<br>toss<br>hand<br>blanket<br>just<br>struggle<br>side<br>crumble |  
-| bip_39_word_new_br12 | mutual<br>giant<br>flight<br>enjoy<br>toss<br>hand<br>blanket<br>just<br>struggle<br>side<br>crumble<br>alpha |  
-| bip_39_word_new_br2 | mutual<br>giant |  
-| bip_39_word_new_br3 | mutual<br>giant<br>flight |  
-| bip_39_word_new_br4 | mutual<br>giant<br>flight<br>enjoy |  
-| bip_39_word_new_br5 | mutual<br>giant<br>flight<br>enjoy<br>toss |  
-| bip_39_word_new_br6 | mutual<br>giant<br>flight<br>enjoy<br>toss<br>hand |  
-| bip_39_word_new_br7 | mutual<br>giant<br>flight<br>enjoy<br>toss<br>hand<br>blanket |  
-| bip_39_word_new_br8 | mutual<br>giant<br>flight<br>enjoy<br>toss<br>hand<br>blanket<br>just |  
-| bip_39_word_new_br9 | mutual<br>giant<br>flight<br>enjoy<br>toss<br>hand<br>blanket<br>just<br>struggle |  
-| bip_39_word_new_line1 | mutual |  
-| bip_39_word_new_line10 | mutual
+| bip_39_word_new_br_1 | mutual |  
+| bip_39_word_new_br_10 | mutual<br>giant<br>flight<br>enjoy<br>toss<br>hand<br>blanket<br>just<br>struggle<br>side |  
+| bip_39_word_new_br_11 | mutual<br>giant<br>flight<br>enjoy<br>toss<br>hand<br>blanket<br>just<br>struggle<br>side<br>crumble |  
+| bip_39_word_new_br_12 | mutual<br>giant<br>flight<br>enjoy<br>toss<br>hand<br>blanket<br>just<br>struggle<br>side<br>crumble<br>alpha |  
+| bip_39_word_new_br_2 | mutual<br>giant |  
+| bip_39_word_new_br_3 | mutual<br>giant<br>flight |  
+| bip_39_word_new_br_4 | mutual<br>giant<br>flight<br>enjoy |  
+| bip_39_word_new_br_5 | mutual<br>giant<br>flight<br>enjoy<br>toss |  
+| bip_39_word_new_br_6 | mutual<br>giant<br>flight<br>enjoy<br>toss<br>hand |  
+| bip_39_word_new_br_7 | mutual<br>giant<br>flight<br>enjoy<br>toss<br>hand<br>blanket |  
+| bip_39_word_new_br_8 | mutual<br>giant<br>flight<br>enjoy<br>toss<br>hand<br>blanket<br>just |  
+| bip_39_word_new_br_9 | mutual<br>giant<br>flight<br>enjoy<br>toss<br>hand<br>blanket<br>just<br>struggle |  
+| bip_39_word_new_line_1 | mutual |  
+| bip_39_word_new_line_10 | mutual
 giant
 flight
 enjoy
@@ -55,7 +55,7 @@ blanket
 just
 struggle
 side |  
-| bip_39_word_new_line11 | mutual
+| bip_39_word_new_line_11 | mutual
 giant
 flight
 enjoy
@@ -66,7 +66,7 @@ just
 struggle
 side
 crumble |  
-| bip_39_word_new_line12 | mutual
+| bip_39_word_new_line_12 | mutual
 giant
 flight
 enjoy
@@ -78,34 +78,34 @@ struggle
 side
 crumble
 alpha |  
-| bip_39_word_new_line2 | mutual
+| bip_39_word_new_line_2 | mutual
 giant |  
-| bip_39_word_new_line3 | mutual
+| bip_39_word_new_line_3 | mutual
 giant
 flight |  
-| bip_39_word_new_line4 | mutual
+| bip_39_word_new_line_4 | mutual
 giant
 flight
 enjoy |  
-| bip_39_word_new_line5 | mutual
+| bip_39_word_new_line_5 | mutual
 giant
 flight
 enjoy
 toss |  
-| bip_39_word_new_line6 | mutual
+| bip_39_word_new_line_6 | mutual
 giant
 flight
 enjoy
 toss
 hand |  
-| bip_39_word_new_line7 | mutual
+| bip_39_word_new_line_7 | mutual
 giant
 flight
 enjoy
 toss
 hand
 blanket |  
-| bip_39_word_new_line8 | mutual
+| bip_39_word_new_line_8 | mutual
 giant
 flight
 enjoy
@@ -113,7 +113,7 @@ toss
 hand
 blanket
 just |  
-| bip_39_word_new_line9 | mutual
+| bip_39_word_new_line_9 | mutual
 giant
 flight
 enjoy

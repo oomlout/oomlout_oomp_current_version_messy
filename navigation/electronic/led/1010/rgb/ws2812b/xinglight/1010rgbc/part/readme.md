@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | galaxy |  
-| bip_39_word_new_br10 | galaxy<br>render<br>lunch<br>spend<br>hip<br>spike<br>arm<br>trophy<br>diet<br>leisure |  
-| bip_39_word_new_br11 | galaxy<br>render<br>lunch<br>spend<br>hip<br>spike<br>arm<br>trophy<br>diet<br>leisure<br>mechanic |  
-| bip_39_word_new_br12 | galaxy<br>render<br>lunch<br>spend<br>hip<br>spike<br>arm<br>trophy<br>diet<br>leisure<br>mechanic<br>arrive |  
-| bip_39_word_new_br2 | galaxy<br>render |  
-| bip_39_word_new_br3 | galaxy<br>render<br>lunch |  
-| bip_39_word_new_br4 | galaxy<br>render<br>lunch<br>spend |  
-| bip_39_word_new_br5 | galaxy<br>render<br>lunch<br>spend<br>hip |  
-| bip_39_word_new_br6 | galaxy<br>render<br>lunch<br>spend<br>hip<br>spike |  
-| bip_39_word_new_br7 | galaxy<br>render<br>lunch<br>spend<br>hip<br>spike<br>arm |  
-| bip_39_word_new_br8 | galaxy<br>render<br>lunch<br>spend<br>hip<br>spike<br>arm<br>trophy |  
-| bip_39_word_new_br9 | galaxy<br>render<br>lunch<br>spend<br>hip<br>spike<br>arm<br>trophy<br>diet |  
-| bip_39_word_new_line1 | galaxy |  
-| bip_39_word_new_line10 | galaxy
+| bip_39_word_new_br_1 | galaxy |  
+| bip_39_word_new_br_10 | galaxy<br>render<br>lunch<br>spend<br>hip<br>spike<br>arm<br>trophy<br>diet<br>leisure |  
+| bip_39_word_new_br_11 | galaxy<br>render<br>lunch<br>spend<br>hip<br>spike<br>arm<br>trophy<br>diet<br>leisure<br>mechanic |  
+| bip_39_word_new_br_12 | galaxy<br>render<br>lunch<br>spend<br>hip<br>spike<br>arm<br>trophy<br>diet<br>leisure<br>mechanic<br>arrive |  
+| bip_39_word_new_br_2 | galaxy<br>render |  
+| bip_39_word_new_br_3 | galaxy<br>render<br>lunch |  
+| bip_39_word_new_br_4 | galaxy<br>render<br>lunch<br>spend |  
+| bip_39_word_new_br_5 | galaxy<br>render<br>lunch<br>spend<br>hip |  
+| bip_39_word_new_br_6 | galaxy<br>render<br>lunch<br>spend<br>hip<br>spike |  
+| bip_39_word_new_br_7 | galaxy<br>render<br>lunch<br>spend<br>hip<br>spike<br>arm |  
+| bip_39_word_new_br_8 | galaxy<br>render<br>lunch<br>spend<br>hip<br>spike<br>arm<br>trophy |  
+| bip_39_word_new_br_9 | galaxy<br>render<br>lunch<br>spend<br>hip<br>spike<br>arm<br>trophy<br>diet |  
+| bip_39_word_new_line_1 | galaxy |  
+| bip_39_word_new_line_10 | galaxy
 render
 lunch
 spend
@@ -55,7 +55,7 @@ arm
 trophy
 diet
 leisure |  
-| bip_39_word_new_line11 | galaxy
+| bip_39_word_new_line_11 | galaxy
 render
 lunch
 spend
@@ -66,7 +66,7 @@ trophy
 diet
 leisure
 mechanic |  
-| bip_39_word_new_line12 | galaxy
+| bip_39_word_new_line_12 | galaxy
 render
 lunch
 spend
@@ -78,34 +78,34 @@ diet
 leisure
 mechanic
 arrive |  
-| bip_39_word_new_line2 | galaxy
+| bip_39_word_new_line_2 | galaxy
 render |  
-| bip_39_word_new_line3 | galaxy
+| bip_39_word_new_line_3 | galaxy
 render
 lunch |  
-| bip_39_word_new_line4 | galaxy
+| bip_39_word_new_line_4 | galaxy
 render
 lunch
 spend |  
-| bip_39_word_new_line5 | galaxy
+| bip_39_word_new_line_5 | galaxy
 render
 lunch
 spend
 hip |  
-| bip_39_word_new_line6 | galaxy
+| bip_39_word_new_line_6 | galaxy
 render
 lunch
 spend
 hip
 spike |  
-| bip_39_word_new_line7 | galaxy
+| bip_39_word_new_line_7 | galaxy
 render
 lunch
 spend
 hip
 spike
 arm |  
-| bip_39_word_new_line8 | galaxy
+| bip_39_word_new_line_8 | galaxy
 render
 lunch
 spend
@@ -113,7 +113,7 @@ hip
 spike
 arm
 trophy |  
-| bip_39_word_new_line9 | galaxy
+| bip_39_word_new_line_9 | galaxy
 render
 lunch
 spend

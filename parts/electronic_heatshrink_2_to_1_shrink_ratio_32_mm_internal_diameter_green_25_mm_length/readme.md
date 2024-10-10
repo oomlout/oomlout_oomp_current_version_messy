@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | unique |  
-| bip_39_word_new_br10 | unique<br>dwarf<br>daring<br>clap<br>october<br>captain<br>expire<br>prefer<br>indicate<br>between |  
-| bip_39_word_new_br11 | unique<br>dwarf<br>daring<br>clap<br>october<br>captain<br>expire<br>prefer<br>indicate<br>between<br>blossom |  
-| bip_39_word_new_br12 | unique<br>dwarf<br>daring<br>clap<br>october<br>captain<br>expire<br>prefer<br>indicate<br>between<br>blossom<br>agree |  
-| bip_39_word_new_br2 | unique<br>dwarf |  
-| bip_39_word_new_br3 | unique<br>dwarf<br>daring |  
-| bip_39_word_new_br4 | unique<br>dwarf<br>daring<br>clap |  
-| bip_39_word_new_br5 | unique<br>dwarf<br>daring<br>clap<br>october |  
-| bip_39_word_new_br6 | unique<br>dwarf<br>daring<br>clap<br>october<br>captain |  
-| bip_39_word_new_br7 | unique<br>dwarf<br>daring<br>clap<br>october<br>captain<br>expire |  
-| bip_39_word_new_br8 | unique<br>dwarf<br>daring<br>clap<br>october<br>captain<br>expire<br>prefer |  
-| bip_39_word_new_br9 | unique<br>dwarf<br>daring<br>clap<br>october<br>captain<br>expire<br>prefer<br>indicate |  
-| bip_39_word_new_line1 | unique |  
-| bip_39_word_new_line10 | unique
+| bip_39_word_new_br_1 | unique |  
+| bip_39_word_new_br_10 | unique<br>dwarf<br>daring<br>clap<br>october<br>captain<br>expire<br>prefer<br>indicate<br>between |  
+| bip_39_word_new_br_11 | unique<br>dwarf<br>daring<br>clap<br>october<br>captain<br>expire<br>prefer<br>indicate<br>between<br>blossom |  
+| bip_39_word_new_br_12 | unique<br>dwarf<br>daring<br>clap<br>october<br>captain<br>expire<br>prefer<br>indicate<br>between<br>blossom<br>agree |  
+| bip_39_word_new_br_2 | unique<br>dwarf |  
+| bip_39_word_new_br_3 | unique<br>dwarf<br>daring |  
+| bip_39_word_new_br_4 | unique<br>dwarf<br>daring<br>clap |  
+| bip_39_word_new_br_5 | unique<br>dwarf<br>daring<br>clap<br>october |  
+| bip_39_word_new_br_6 | unique<br>dwarf<br>daring<br>clap<br>october<br>captain |  
+| bip_39_word_new_br_7 | unique<br>dwarf<br>daring<br>clap<br>october<br>captain<br>expire |  
+| bip_39_word_new_br_8 | unique<br>dwarf<br>daring<br>clap<br>october<br>captain<br>expire<br>prefer |  
+| bip_39_word_new_br_9 | unique<br>dwarf<br>daring<br>clap<br>october<br>captain<br>expire<br>prefer<br>indicate |  
+| bip_39_word_new_line_1 | unique |  
+| bip_39_word_new_line_10 | unique
 dwarf
 daring
 clap
@@ -55,7 +55,7 @@ expire
 prefer
 indicate
 between |  
-| bip_39_word_new_line11 | unique
+| bip_39_word_new_line_11 | unique
 dwarf
 daring
 clap
@@ -66,7 +66,7 @@ prefer
 indicate
 between
 blossom |  
-| bip_39_word_new_line12 | unique
+| bip_39_word_new_line_12 | unique
 dwarf
 daring
 clap
@@ -78,34 +78,34 @@ indicate
 between
 blossom
 agree |  
-| bip_39_word_new_line2 | unique
+| bip_39_word_new_line_2 | unique
 dwarf |  
-| bip_39_word_new_line3 | unique
+| bip_39_word_new_line_3 | unique
 dwarf
 daring |  
-| bip_39_word_new_line4 | unique
+| bip_39_word_new_line_4 | unique
 dwarf
 daring
 clap |  
-| bip_39_word_new_line5 | unique
+| bip_39_word_new_line_5 | unique
 dwarf
 daring
 clap
 october |  
-| bip_39_word_new_line6 | unique
+| bip_39_word_new_line_6 | unique
 dwarf
 daring
 clap
 october
 captain |  
-| bip_39_word_new_line7 | unique
+| bip_39_word_new_line_7 | unique
 dwarf
 daring
 clap
 october
 captain
 expire |  
-| bip_39_word_new_line8 | unique
+| bip_39_word_new_line_8 | unique
 dwarf
 daring
 clap
@@ -113,7 +113,7 @@ october
 captain
 expire
 prefer |  
-| bip_39_word_new_line9 | unique
+| bip_39_word_new_line_9 | unique
 dwarf
 daring
 clap

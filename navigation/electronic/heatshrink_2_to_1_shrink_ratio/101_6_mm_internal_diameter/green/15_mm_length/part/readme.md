@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | vicious |  
-| bip_39_word_new_br10 | vicious<br>mail<br>hair<br>sad<br>unfold<br>notice<br>welcome<br>pride<br>swallow<br>major |  
-| bip_39_word_new_br11 | vicious<br>mail<br>hair<br>sad<br>unfold<br>notice<br>welcome<br>pride<br>swallow<br>major<br>soup |  
-| bip_39_word_new_br12 | vicious<br>mail<br>hair<br>sad<br>unfold<br>notice<br>welcome<br>pride<br>swallow<br>major<br>soup<br>apple |  
-| bip_39_word_new_br2 | vicious<br>mail |  
-| bip_39_word_new_br3 | vicious<br>mail<br>hair |  
-| bip_39_word_new_br4 | vicious<br>mail<br>hair<br>sad |  
-| bip_39_word_new_br5 | vicious<br>mail<br>hair<br>sad<br>unfold |  
-| bip_39_word_new_br6 | vicious<br>mail<br>hair<br>sad<br>unfold<br>notice |  
-| bip_39_word_new_br7 | vicious<br>mail<br>hair<br>sad<br>unfold<br>notice<br>welcome |  
-| bip_39_word_new_br8 | vicious<br>mail<br>hair<br>sad<br>unfold<br>notice<br>welcome<br>pride |  
-| bip_39_word_new_br9 | vicious<br>mail<br>hair<br>sad<br>unfold<br>notice<br>welcome<br>pride<br>swallow |  
-| bip_39_word_new_line1 | vicious |  
-| bip_39_word_new_line10 | vicious
+| bip_39_word_new_br_1 | vicious |  
+| bip_39_word_new_br_10 | vicious<br>mail<br>hair<br>sad<br>unfold<br>notice<br>welcome<br>pride<br>swallow<br>major |  
+| bip_39_word_new_br_11 | vicious<br>mail<br>hair<br>sad<br>unfold<br>notice<br>welcome<br>pride<br>swallow<br>major<br>soup |  
+| bip_39_word_new_br_12 | vicious<br>mail<br>hair<br>sad<br>unfold<br>notice<br>welcome<br>pride<br>swallow<br>major<br>soup<br>apple |  
+| bip_39_word_new_br_2 | vicious<br>mail |  
+| bip_39_word_new_br_3 | vicious<br>mail<br>hair |  
+| bip_39_word_new_br_4 | vicious<br>mail<br>hair<br>sad |  
+| bip_39_word_new_br_5 | vicious<br>mail<br>hair<br>sad<br>unfold |  
+| bip_39_word_new_br_6 | vicious<br>mail<br>hair<br>sad<br>unfold<br>notice |  
+| bip_39_word_new_br_7 | vicious<br>mail<br>hair<br>sad<br>unfold<br>notice<br>welcome |  
+| bip_39_word_new_br_8 | vicious<br>mail<br>hair<br>sad<br>unfold<br>notice<br>welcome<br>pride |  
+| bip_39_word_new_br_9 | vicious<br>mail<br>hair<br>sad<br>unfold<br>notice<br>welcome<br>pride<br>swallow |  
+| bip_39_word_new_line_1 | vicious |  
+| bip_39_word_new_line_10 | vicious
 mail
 hair
 sad
@@ -55,7 +55,7 @@ welcome
 pride
 swallow
 major |  
-| bip_39_word_new_line11 | vicious
+| bip_39_word_new_line_11 | vicious
 mail
 hair
 sad
@@ -66,7 +66,7 @@ pride
 swallow
 major
 soup |  
-| bip_39_word_new_line12 | vicious
+| bip_39_word_new_line_12 | vicious
 mail
 hair
 sad
@@ -78,34 +78,34 @@ swallow
 major
 soup
 apple |  
-| bip_39_word_new_line2 | vicious
+| bip_39_word_new_line_2 | vicious
 mail |  
-| bip_39_word_new_line3 | vicious
+| bip_39_word_new_line_3 | vicious
 mail
 hair |  
-| bip_39_word_new_line4 | vicious
+| bip_39_word_new_line_4 | vicious
 mail
 hair
 sad |  
-| bip_39_word_new_line5 | vicious
+| bip_39_word_new_line_5 | vicious
 mail
 hair
 sad
 unfold |  
-| bip_39_word_new_line6 | vicious
+| bip_39_word_new_line_6 | vicious
 mail
 hair
 sad
 unfold
 notice |  
-| bip_39_word_new_line7 | vicious
+| bip_39_word_new_line_7 | vicious
 mail
 hair
 sad
 unfold
 notice
 welcome |  
-| bip_39_word_new_line8 | vicious
+| bip_39_word_new_line_8 | vicious
 mail
 hair
 sad
@@ -113,7 +113,7 @@ unfold
 notice
 welcome
 pride |  
-| bip_39_word_new_line9 | vicious
+| bip_39_word_new_line_9 | vicious
 mail
 hair
 sad

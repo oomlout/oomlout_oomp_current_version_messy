@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | strategy |  
-| bip_39_word_new_br10 | strategy<br>payment<br>burst<br>blade<br>strike<br>couple<br>snap<br>antenna<br>shrug<br>swallow |  
-| bip_39_word_new_br11 | strategy<br>payment<br>burst<br>blade<br>strike<br>couple<br>snap<br>antenna<br>shrug<br>swallow<br>bubble |  
-| bip_39_word_new_br12 | strategy<br>payment<br>burst<br>blade<br>strike<br>couple<br>snap<br>antenna<br>shrug<br>swallow<br>bubble<br>already |  
-| bip_39_word_new_br2 | strategy<br>payment |  
-| bip_39_word_new_br3 | strategy<br>payment<br>burst |  
-| bip_39_word_new_br4 | strategy<br>payment<br>burst<br>blade |  
-| bip_39_word_new_br5 | strategy<br>payment<br>burst<br>blade<br>strike |  
-| bip_39_word_new_br6 | strategy<br>payment<br>burst<br>blade<br>strike<br>couple |  
-| bip_39_word_new_br7 | strategy<br>payment<br>burst<br>blade<br>strike<br>couple<br>snap |  
-| bip_39_word_new_br8 | strategy<br>payment<br>burst<br>blade<br>strike<br>couple<br>snap<br>antenna |  
-| bip_39_word_new_br9 | strategy<br>payment<br>burst<br>blade<br>strike<br>couple<br>snap<br>antenna<br>shrug |  
-| bip_39_word_new_line1 | strategy |  
-| bip_39_word_new_line10 | strategy
+| bip_39_word_new_br_1 | strategy |  
+| bip_39_word_new_br_10 | strategy<br>payment<br>burst<br>blade<br>strike<br>couple<br>snap<br>antenna<br>shrug<br>swallow |  
+| bip_39_word_new_br_11 | strategy<br>payment<br>burst<br>blade<br>strike<br>couple<br>snap<br>antenna<br>shrug<br>swallow<br>bubble |  
+| bip_39_word_new_br_12 | strategy<br>payment<br>burst<br>blade<br>strike<br>couple<br>snap<br>antenna<br>shrug<br>swallow<br>bubble<br>already |  
+| bip_39_word_new_br_2 | strategy<br>payment |  
+| bip_39_word_new_br_3 | strategy<br>payment<br>burst |  
+| bip_39_word_new_br_4 | strategy<br>payment<br>burst<br>blade |  
+| bip_39_word_new_br_5 | strategy<br>payment<br>burst<br>blade<br>strike |  
+| bip_39_word_new_br_6 | strategy<br>payment<br>burst<br>blade<br>strike<br>couple |  
+| bip_39_word_new_br_7 | strategy<br>payment<br>burst<br>blade<br>strike<br>couple<br>snap |  
+| bip_39_word_new_br_8 | strategy<br>payment<br>burst<br>blade<br>strike<br>couple<br>snap<br>antenna |  
+| bip_39_word_new_br_9 | strategy<br>payment<br>burst<br>blade<br>strike<br>couple<br>snap<br>antenna<br>shrug |  
+| bip_39_word_new_line_1 | strategy |  
+| bip_39_word_new_line_10 | strategy
 payment
 burst
 blade
@@ -55,7 +55,7 @@ snap
 antenna
 shrug
 swallow |  
-| bip_39_word_new_line11 | strategy
+| bip_39_word_new_line_11 | strategy
 payment
 burst
 blade
@@ -66,7 +66,7 @@ antenna
 shrug
 swallow
 bubble |  
-| bip_39_word_new_line12 | strategy
+| bip_39_word_new_line_12 | strategy
 payment
 burst
 blade
@@ -78,34 +78,34 @@ shrug
 swallow
 bubble
 already |  
-| bip_39_word_new_line2 | strategy
+| bip_39_word_new_line_2 | strategy
 payment |  
-| bip_39_word_new_line3 | strategy
+| bip_39_word_new_line_3 | strategy
 payment
 burst |  
-| bip_39_word_new_line4 | strategy
+| bip_39_word_new_line_4 | strategy
 payment
 burst
 blade |  
-| bip_39_word_new_line5 | strategy
+| bip_39_word_new_line_5 | strategy
 payment
 burst
 blade
 strike |  
-| bip_39_word_new_line6 | strategy
+| bip_39_word_new_line_6 | strategy
 payment
 burst
 blade
 strike
 couple |  
-| bip_39_word_new_line7 | strategy
+| bip_39_word_new_line_7 | strategy
 payment
 burst
 blade
 strike
 couple
 snap |  
-| bip_39_word_new_line8 | strategy
+| bip_39_word_new_line_8 | strategy
 payment
 burst
 blade
@@ -113,7 +113,7 @@ strike
 couple
 snap
 antenna |  
-| bip_39_word_new_line9 | strategy
+| bip_39_word_new_line_9 | strategy
 payment
 burst
 blade

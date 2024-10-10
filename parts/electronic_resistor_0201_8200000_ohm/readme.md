@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | notice |  
-| bip_39_word_new_br10 | notice<br>blue<br>parrot<br>father<br>horn<br>urban<br>brass<br>today<br>ahead<br>slogan |  
-| bip_39_word_new_br11 | notice<br>blue<br>parrot<br>father<br>horn<br>urban<br>brass<br>today<br>ahead<br>slogan<br>glass |  
-| bip_39_word_new_br12 | notice<br>blue<br>parrot<br>father<br>horn<br>urban<br>brass<br>today<br>ahead<br>slogan<br>glass<br>asset |  
-| bip_39_word_new_br2 | notice<br>blue |  
-| bip_39_word_new_br3 | notice<br>blue<br>parrot |  
-| bip_39_word_new_br4 | notice<br>blue<br>parrot<br>father |  
-| bip_39_word_new_br5 | notice<br>blue<br>parrot<br>father<br>horn |  
-| bip_39_word_new_br6 | notice<br>blue<br>parrot<br>father<br>horn<br>urban |  
-| bip_39_word_new_br7 | notice<br>blue<br>parrot<br>father<br>horn<br>urban<br>brass |  
-| bip_39_word_new_br8 | notice<br>blue<br>parrot<br>father<br>horn<br>urban<br>brass<br>today |  
-| bip_39_word_new_br9 | notice<br>blue<br>parrot<br>father<br>horn<br>urban<br>brass<br>today<br>ahead |  
-| bip_39_word_new_line1 | notice |  
-| bip_39_word_new_line10 | notice
+| bip_39_word_new_br_1 | notice |  
+| bip_39_word_new_br_10 | notice<br>blue<br>parrot<br>father<br>horn<br>urban<br>brass<br>today<br>ahead<br>slogan |  
+| bip_39_word_new_br_11 | notice<br>blue<br>parrot<br>father<br>horn<br>urban<br>brass<br>today<br>ahead<br>slogan<br>glass |  
+| bip_39_word_new_br_12 | notice<br>blue<br>parrot<br>father<br>horn<br>urban<br>brass<br>today<br>ahead<br>slogan<br>glass<br>asset |  
+| bip_39_word_new_br_2 | notice<br>blue |  
+| bip_39_word_new_br_3 | notice<br>blue<br>parrot |  
+| bip_39_word_new_br_4 | notice<br>blue<br>parrot<br>father |  
+| bip_39_word_new_br_5 | notice<br>blue<br>parrot<br>father<br>horn |  
+| bip_39_word_new_br_6 | notice<br>blue<br>parrot<br>father<br>horn<br>urban |  
+| bip_39_word_new_br_7 | notice<br>blue<br>parrot<br>father<br>horn<br>urban<br>brass |  
+| bip_39_word_new_br_8 | notice<br>blue<br>parrot<br>father<br>horn<br>urban<br>brass<br>today |  
+| bip_39_word_new_br_9 | notice<br>blue<br>parrot<br>father<br>horn<br>urban<br>brass<br>today<br>ahead |  
+| bip_39_word_new_line_1 | notice |  
+| bip_39_word_new_line_10 | notice
 blue
 parrot
 father
@@ -55,7 +55,7 @@ brass
 today
 ahead
 slogan |  
-| bip_39_word_new_line11 | notice
+| bip_39_word_new_line_11 | notice
 blue
 parrot
 father
@@ -66,7 +66,7 @@ today
 ahead
 slogan
 glass |  
-| bip_39_word_new_line12 | notice
+| bip_39_word_new_line_12 | notice
 blue
 parrot
 father
@@ -78,34 +78,34 @@ ahead
 slogan
 glass
 asset |  
-| bip_39_word_new_line2 | notice
+| bip_39_word_new_line_2 | notice
 blue |  
-| bip_39_word_new_line3 | notice
+| bip_39_word_new_line_3 | notice
 blue
 parrot |  
-| bip_39_word_new_line4 | notice
+| bip_39_word_new_line_4 | notice
 blue
 parrot
 father |  
-| bip_39_word_new_line5 | notice
+| bip_39_word_new_line_5 | notice
 blue
 parrot
 father
 horn |  
-| bip_39_word_new_line6 | notice
+| bip_39_word_new_line_6 | notice
 blue
 parrot
 father
 horn
 urban |  
-| bip_39_word_new_line7 | notice
+| bip_39_word_new_line_7 | notice
 blue
 parrot
 father
 horn
 urban
 brass |  
-| bip_39_word_new_line8 | notice
+| bip_39_word_new_line_8 | notice
 blue
 parrot
 father
@@ -113,7 +113,7 @@ horn
 urban
 brass
 today |  
-| bip_39_word_new_line9 | notice
+| bip_39_word_new_line_9 | notice
 blue
 parrot
 father

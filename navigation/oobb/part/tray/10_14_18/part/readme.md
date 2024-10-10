@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dose |  
-| bip_39_word_new_br10 | dose<br>master<br>fatigue<br>input<br>actor<br>category<br>edit<br>fuel<br>loan<br>uncle |  
-| bip_39_word_new_br11 | dose<br>master<br>fatigue<br>input<br>actor<br>category<br>edit<br>fuel<br>loan<br>uncle<br>auto |  
-| bip_39_word_new_br12 | dose<br>master<br>fatigue<br>input<br>actor<br>category<br>edit<br>fuel<br>loan<br>uncle<br>auto<br>attitude |  
-| bip_39_word_new_br2 | dose<br>master |  
-| bip_39_word_new_br3 | dose<br>master<br>fatigue |  
-| bip_39_word_new_br4 | dose<br>master<br>fatigue<br>input |  
-| bip_39_word_new_br5 | dose<br>master<br>fatigue<br>input<br>actor |  
-| bip_39_word_new_br6 | dose<br>master<br>fatigue<br>input<br>actor<br>category |  
-| bip_39_word_new_br7 | dose<br>master<br>fatigue<br>input<br>actor<br>category<br>edit |  
-| bip_39_word_new_br8 | dose<br>master<br>fatigue<br>input<br>actor<br>category<br>edit<br>fuel |  
-| bip_39_word_new_br9 | dose<br>master<br>fatigue<br>input<br>actor<br>category<br>edit<br>fuel<br>loan |  
-| bip_39_word_new_line1 | dose |  
-| bip_39_word_new_line10 | dose
+| bip_39_word_new_br_1 | dose |  
+| bip_39_word_new_br_10 | dose<br>master<br>fatigue<br>input<br>actor<br>category<br>edit<br>fuel<br>loan<br>uncle |  
+| bip_39_word_new_br_11 | dose<br>master<br>fatigue<br>input<br>actor<br>category<br>edit<br>fuel<br>loan<br>uncle<br>auto |  
+| bip_39_word_new_br_12 | dose<br>master<br>fatigue<br>input<br>actor<br>category<br>edit<br>fuel<br>loan<br>uncle<br>auto<br>attitude |  
+| bip_39_word_new_br_2 | dose<br>master |  
+| bip_39_word_new_br_3 | dose<br>master<br>fatigue |  
+| bip_39_word_new_br_4 | dose<br>master<br>fatigue<br>input |  
+| bip_39_word_new_br_5 | dose<br>master<br>fatigue<br>input<br>actor |  
+| bip_39_word_new_br_6 | dose<br>master<br>fatigue<br>input<br>actor<br>category |  
+| bip_39_word_new_br_7 | dose<br>master<br>fatigue<br>input<br>actor<br>category<br>edit |  
+| bip_39_word_new_br_8 | dose<br>master<br>fatigue<br>input<br>actor<br>category<br>edit<br>fuel |  
+| bip_39_word_new_br_9 | dose<br>master<br>fatigue<br>input<br>actor<br>category<br>edit<br>fuel<br>loan |  
+| bip_39_word_new_line_1 | dose |  
+| bip_39_word_new_line_10 | dose
 master
 fatigue
 input
@@ -55,7 +55,7 @@ edit
 fuel
 loan
 uncle |  
-| bip_39_word_new_line11 | dose
+| bip_39_word_new_line_11 | dose
 master
 fatigue
 input
@@ -66,7 +66,7 @@ fuel
 loan
 uncle
 auto |  
-| bip_39_word_new_line12 | dose
+| bip_39_word_new_line_12 | dose
 master
 fatigue
 input
@@ -78,34 +78,34 @@ loan
 uncle
 auto
 attitude |  
-| bip_39_word_new_line2 | dose
+| bip_39_word_new_line_2 | dose
 master |  
-| bip_39_word_new_line3 | dose
+| bip_39_word_new_line_3 | dose
 master
 fatigue |  
-| bip_39_word_new_line4 | dose
+| bip_39_word_new_line_4 | dose
 master
 fatigue
 input |  
-| bip_39_word_new_line5 | dose
+| bip_39_word_new_line_5 | dose
 master
 fatigue
 input
 actor |  
-| bip_39_word_new_line6 | dose
+| bip_39_word_new_line_6 | dose
 master
 fatigue
 input
 actor
 category |  
-| bip_39_word_new_line7 | dose
+| bip_39_word_new_line_7 | dose
 master
 fatigue
 input
 actor
 category
 edit |  
-| bip_39_word_new_line8 | dose
+| bip_39_word_new_line_8 | dose
 master
 fatigue
 input
@@ -113,7 +113,7 @@ actor
 category
 edit
 fuel |  
-| bip_39_word_new_line9 | dose
+| bip_39_word_new_line_9 | dose
 master
 fatigue
 input

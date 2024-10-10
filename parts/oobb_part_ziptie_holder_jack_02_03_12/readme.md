@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | clap |  
-| bip_39_word_new_br10 | clap<br>chief<br>swap<br>gym<br>day<br>health<br>have<br>arch<br>diary<br>key |  
-| bip_39_word_new_br11 | clap<br>chief<br>swap<br>gym<br>day<br>health<br>have<br>arch<br>diary<br>key<br>quantum |  
-| bip_39_word_new_br12 | clap<br>chief<br>swap<br>gym<br>day<br>health<br>have<br>arch<br>diary<br>key<br>quantum<br>assault |  
-| bip_39_word_new_br2 | clap<br>chief |  
-| bip_39_word_new_br3 | clap<br>chief<br>swap |  
-| bip_39_word_new_br4 | clap<br>chief<br>swap<br>gym |  
-| bip_39_word_new_br5 | clap<br>chief<br>swap<br>gym<br>day |  
-| bip_39_word_new_br6 | clap<br>chief<br>swap<br>gym<br>day<br>health |  
-| bip_39_word_new_br7 | clap<br>chief<br>swap<br>gym<br>day<br>health<br>have |  
-| bip_39_word_new_br8 | clap<br>chief<br>swap<br>gym<br>day<br>health<br>have<br>arch |  
-| bip_39_word_new_br9 | clap<br>chief<br>swap<br>gym<br>day<br>health<br>have<br>arch<br>diary |  
-| bip_39_word_new_line1 | clap |  
-| bip_39_word_new_line10 | clap
+| bip_39_word_new_br_1 | clap |  
+| bip_39_word_new_br_10 | clap<br>chief<br>swap<br>gym<br>day<br>health<br>have<br>arch<br>diary<br>key |  
+| bip_39_word_new_br_11 | clap<br>chief<br>swap<br>gym<br>day<br>health<br>have<br>arch<br>diary<br>key<br>quantum |  
+| bip_39_word_new_br_12 | clap<br>chief<br>swap<br>gym<br>day<br>health<br>have<br>arch<br>diary<br>key<br>quantum<br>assault |  
+| bip_39_word_new_br_2 | clap<br>chief |  
+| bip_39_word_new_br_3 | clap<br>chief<br>swap |  
+| bip_39_word_new_br_4 | clap<br>chief<br>swap<br>gym |  
+| bip_39_word_new_br_5 | clap<br>chief<br>swap<br>gym<br>day |  
+| bip_39_word_new_br_6 | clap<br>chief<br>swap<br>gym<br>day<br>health |  
+| bip_39_word_new_br_7 | clap<br>chief<br>swap<br>gym<br>day<br>health<br>have |  
+| bip_39_word_new_br_8 | clap<br>chief<br>swap<br>gym<br>day<br>health<br>have<br>arch |  
+| bip_39_word_new_br_9 | clap<br>chief<br>swap<br>gym<br>day<br>health<br>have<br>arch<br>diary |  
+| bip_39_word_new_line_1 | clap |  
+| bip_39_word_new_line_10 | clap
 chief
 swap
 gym
@@ -55,7 +55,7 @@ have
 arch
 diary
 key |  
-| bip_39_word_new_line11 | clap
+| bip_39_word_new_line_11 | clap
 chief
 swap
 gym
@@ -66,7 +66,7 @@ arch
 diary
 key
 quantum |  
-| bip_39_word_new_line12 | clap
+| bip_39_word_new_line_12 | clap
 chief
 swap
 gym
@@ -78,34 +78,34 @@ diary
 key
 quantum
 assault |  
-| bip_39_word_new_line2 | clap
+| bip_39_word_new_line_2 | clap
 chief |  
-| bip_39_word_new_line3 | clap
+| bip_39_word_new_line_3 | clap
 chief
 swap |  
-| bip_39_word_new_line4 | clap
+| bip_39_word_new_line_4 | clap
 chief
 swap
 gym |  
-| bip_39_word_new_line5 | clap
+| bip_39_word_new_line_5 | clap
 chief
 swap
 gym
 day |  
-| bip_39_word_new_line6 | clap
+| bip_39_word_new_line_6 | clap
 chief
 swap
 gym
 day
 health |  
-| bip_39_word_new_line7 | clap
+| bip_39_word_new_line_7 | clap
 chief
 swap
 gym
 day
 health
 have |  
-| bip_39_word_new_line8 | clap
+| bip_39_word_new_line_8 | clap
 chief
 swap
 gym
@@ -113,7 +113,7 @@ day
 health
 have
 arch |  
-| bip_39_word_new_line9 | clap
+| bip_39_word_new_line_9 | clap
 chief
 swap
 gym

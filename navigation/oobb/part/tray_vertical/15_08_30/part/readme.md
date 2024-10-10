@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cook |  
-| bip_39_word_new_br10 | cook<br>legal<br>skill<br>notable<br>retire<br>outer<br>cattle<br>toward<br>primary<br>twice |  
-| bip_39_word_new_br11 | cook<br>legal<br>skill<br>notable<br>retire<br>outer<br>cattle<br>toward<br>primary<br>twice<br>devote |  
-| bip_39_word_new_br12 | cook<br>legal<br>skill<br>notable<br>retire<br>outer<br>cattle<br>toward<br>primary<br>twice<br>devote<br>again |  
-| bip_39_word_new_br2 | cook<br>legal |  
-| bip_39_word_new_br3 | cook<br>legal<br>skill |  
-| bip_39_word_new_br4 | cook<br>legal<br>skill<br>notable |  
-| bip_39_word_new_br5 | cook<br>legal<br>skill<br>notable<br>retire |  
-| bip_39_word_new_br6 | cook<br>legal<br>skill<br>notable<br>retire<br>outer |  
-| bip_39_word_new_br7 | cook<br>legal<br>skill<br>notable<br>retire<br>outer<br>cattle |  
-| bip_39_word_new_br8 | cook<br>legal<br>skill<br>notable<br>retire<br>outer<br>cattle<br>toward |  
-| bip_39_word_new_br9 | cook<br>legal<br>skill<br>notable<br>retire<br>outer<br>cattle<br>toward<br>primary |  
-| bip_39_word_new_line1 | cook |  
-| bip_39_word_new_line10 | cook
+| bip_39_word_new_br_1 | cook |  
+| bip_39_word_new_br_10 | cook<br>legal<br>skill<br>notable<br>retire<br>outer<br>cattle<br>toward<br>primary<br>twice |  
+| bip_39_word_new_br_11 | cook<br>legal<br>skill<br>notable<br>retire<br>outer<br>cattle<br>toward<br>primary<br>twice<br>devote |  
+| bip_39_word_new_br_12 | cook<br>legal<br>skill<br>notable<br>retire<br>outer<br>cattle<br>toward<br>primary<br>twice<br>devote<br>again |  
+| bip_39_word_new_br_2 | cook<br>legal |  
+| bip_39_word_new_br_3 | cook<br>legal<br>skill |  
+| bip_39_word_new_br_4 | cook<br>legal<br>skill<br>notable |  
+| bip_39_word_new_br_5 | cook<br>legal<br>skill<br>notable<br>retire |  
+| bip_39_word_new_br_6 | cook<br>legal<br>skill<br>notable<br>retire<br>outer |  
+| bip_39_word_new_br_7 | cook<br>legal<br>skill<br>notable<br>retire<br>outer<br>cattle |  
+| bip_39_word_new_br_8 | cook<br>legal<br>skill<br>notable<br>retire<br>outer<br>cattle<br>toward |  
+| bip_39_word_new_br_9 | cook<br>legal<br>skill<br>notable<br>retire<br>outer<br>cattle<br>toward<br>primary |  
+| bip_39_word_new_line_1 | cook |  
+| bip_39_word_new_line_10 | cook
 legal
 skill
 notable
@@ -55,7 +55,7 @@ cattle
 toward
 primary
 twice |  
-| bip_39_word_new_line11 | cook
+| bip_39_word_new_line_11 | cook
 legal
 skill
 notable
@@ -66,7 +66,7 @@ toward
 primary
 twice
 devote |  
-| bip_39_word_new_line12 | cook
+| bip_39_word_new_line_12 | cook
 legal
 skill
 notable
@@ -78,34 +78,34 @@ primary
 twice
 devote
 again |  
-| bip_39_word_new_line2 | cook
+| bip_39_word_new_line_2 | cook
 legal |  
-| bip_39_word_new_line3 | cook
+| bip_39_word_new_line_3 | cook
 legal
 skill |  
-| bip_39_word_new_line4 | cook
+| bip_39_word_new_line_4 | cook
 legal
 skill
 notable |  
-| bip_39_word_new_line5 | cook
+| bip_39_word_new_line_5 | cook
 legal
 skill
 notable
 retire |  
-| bip_39_word_new_line6 | cook
+| bip_39_word_new_line_6 | cook
 legal
 skill
 notable
 retire
 outer |  
-| bip_39_word_new_line7 | cook
+| bip_39_word_new_line_7 | cook
 legal
 skill
 notable
 retire
 outer
 cattle |  
-| bip_39_word_new_line8 | cook
+| bip_39_word_new_line_8 | cook
 legal
 skill
 notable
@@ -113,7 +113,7 @@ retire
 outer
 cattle
 toward |  
-| bip_39_word_new_line9 | cook
+| bip_39_word_new_line_9 | cook
 legal
 skill
 notable

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | radar |  
-| bip_39_word_new_br10 | radar<br>equip<br>unit<br>bird<br>shrimp<br>gun<br>struggle<br>chronic<br>isolate<br>demise |  
-| bip_39_word_new_br11 | radar<br>equip<br>unit<br>bird<br>shrimp<br>gun<br>struggle<br>chronic<br>isolate<br>demise<br>federal |  
-| bip_39_word_new_br12 | radar<br>equip<br>unit<br>bird<br>shrimp<br>gun<br>struggle<br>chronic<br>isolate<br>demise<br>federal<br>assume |  
-| bip_39_word_new_br2 | radar<br>equip |  
-| bip_39_word_new_br3 | radar<br>equip<br>unit |  
-| bip_39_word_new_br4 | radar<br>equip<br>unit<br>bird |  
-| bip_39_word_new_br5 | radar<br>equip<br>unit<br>bird<br>shrimp |  
-| bip_39_word_new_br6 | radar<br>equip<br>unit<br>bird<br>shrimp<br>gun |  
-| bip_39_word_new_br7 | radar<br>equip<br>unit<br>bird<br>shrimp<br>gun<br>struggle |  
-| bip_39_word_new_br8 | radar<br>equip<br>unit<br>bird<br>shrimp<br>gun<br>struggle<br>chronic |  
-| bip_39_word_new_br9 | radar<br>equip<br>unit<br>bird<br>shrimp<br>gun<br>struggle<br>chronic<br>isolate |  
-| bip_39_word_new_line1 | radar |  
-| bip_39_word_new_line10 | radar
+| bip_39_word_new_br_1 | radar |  
+| bip_39_word_new_br_10 | radar<br>equip<br>unit<br>bird<br>shrimp<br>gun<br>struggle<br>chronic<br>isolate<br>demise |  
+| bip_39_word_new_br_11 | radar<br>equip<br>unit<br>bird<br>shrimp<br>gun<br>struggle<br>chronic<br>isolate<br>demise<br>federal |  
+| bip_39_word_new_br_12 | radar<br>equip<br>unit<br>bird<br>shrimp<br>gun<br>struggle<br>chronic<br>isolate<br>demise<br>federal<br>assume |  
+| bip_39_word_new_br_2 | radar<br>equip |  
+| bip_39_word_new_br_3 | radar<br>equip<br>unit |  
+| bip_39_word_new_br_4 | radar<br>equip<br>unit<br>bird |  
+| bip_39_word_new_br_5 | radar<br>equip<br>unit<br>bird<br>shrimp |  
+| bip_39_word_new_br_6 | radar<br>equip<br>unit<br>bird<br>shrimp<br>gun |  
+| bip_39_word_new_br_7 | radar<br>equip<br>unit<br>bird<br>shrimp<br>gun<br>struggle |  
+| bip_39_word_new_br_8 | radar<br>equip<br>unit<br>bird<br>shrimp<br>gun<br>struggle<br>chronic |  
+| bip_39_word_new_br_9 | radar<br>equip<br>unit<br>bird<br>shrimp<br>gun<br>struggle<br>chronic<br>isolate |  
+| bip_39_word_new_line_1 | radar |  
+| bip_39_word_new_line_10 | radar
 equip
 unit
 bird
@@ -55,7 +55,7 @@ struggle
 chronic
 isolate
 demise |  
-| bip_39_word_new_line11 | radar
+| bip_39_word_new_line_11 | radar
 equip
 unit
 bird
@@ -66,7 +66,7 @@ chronic
 isolate
 demise
 federal |  
-| bip_39_word_new_line12 | radar
+| bip_39_word_new_line_12 | radar
 equip
 unit
 bird
@@ -78,34 +78,34 @@ isolate
 demise
 federal
 assume |  
-| bip_39_word_new_line2 | radar
+| bip_39_word_new_line_2 | radar
 equip |  
-| bip_39_word_new_line3 | radar
+| bip_39_word_new_line_3 | radar
 equip
 unit |  
-| bip_39_word_new_line4 | radar
+| bip_39_word_new_line_4 | radar
 equip
 unit
 bird |  
-| bip_39_word_new_line5 | radar
+| bip_39_word_new_line_5 | radar
 equip
 unit
 bird
 shrimp |  
-| bip_39_word_new_line6 | radar
+| bip_39_word_new_line_6 | radar
 equip
 unit
 bird
 shrimp
 gun |  
-| bip_39_word_new_line7 | radar
+| bip_39_word_new_line_7 | radar
 equip
 unit
 bird
 shrimp
 gun
 struggle |  
-| bip_39_word_new_line8 | radar
+| bip_39_word_new_line_8 | radar
 equip
 unit
 bird
@@ -113,7 +113,7 @@ shrimp
 gun
 struggle
 chronic |  
-| bip_39_word_new_line9 | radar
+| bip_39_word_new_line_9 | radar
 equip
 unit
 bird

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mass |  
-| bip_39_word_new_br10 | mass<br>joy<br>hunt<br>kiwi<br>life<br>physical<br>meadow<br>result<br>armed<br>ginger |  
-| bip_39_word_new_br11 | mass<br>joy<br>hunt<br>kiwi<br>life<br>physical<br>meadow<br>result<br>armed<br>ginger<br>target |  
-| bip_39_word_new_br12 | mass<br>joy<br>hunt<br>kiwi<br>life<br>physical<br>meadow<br>result<br>armed<br>ginger<br>target<br>admit |  
-| bip_39_word_new_br2 | mass<br>joy |  
-| bip_39_word_new_br3 | mass<br>joy<br>hunt |  
-| bip_39_word_new_br4 | mass<br>joy<br>hunt<br>kiwi |  
-| bip_39_word_new_br5 | mass<br>joy<br>hunt<br>kiwi<br>life |  
-| bip_39_word_new_br6 | mass<br>joy<br>hunt<br>kiwi<br>life<br>physical |  
-| bip_39_word_new_br7 | mass<br>joy<br>hunt<br>kiwi<br>life<br>physical<br>meadow |  
-| bip_39_word_new_br8 | mass<br>joy<br>hunt<br>kiwi<br>life<br>physical<br>meadow<br>result |  
-| bip_39_word_new_br9 | mass<br>joy<br>hunt<br>kiwi<br>life<br>physical<br>meadow<br>result<br>armed |  
-| bip_39_word_new_line1 | mass |  
-| bip_39_word_new_line10 | mass
+| bip_39_word_new_br_1 | mass |  
+| bip_39_word_new_br_10 | mass<br>joy<br>hunt<br>kiwi<br>life<br>physical<br>meadow<br>result<br>armed<br>ginger |  
+| bip_39_word_new_br_11 | mass<br>joy<br>hunt<br>kiwi<br>life<br>physical<br>meadow<br>result<br>armed<br>ginger<br>target |  
+| bip_39_word_new_br_12 | mass<br>joy<br>hunt<br>kiwi<br>life<br>physical<br>meadow<br>result<br>armed<br>ginger<br>target<br>admit |  
+| bip_39_word_new_br_2 | mass<br>joy |  
+| bip_39_word_new_br_3 | mass<br>joy<br>hunt |  
+| bip_39_word_new_br_4 | mass<br>joy<br>hunt<br>kiwi |  
+| bip_39_word_new_br_5 | mass<br>joy<br>hunt<br>kiwi<br>life |  
+| bip_39_word_new_br_6 | mass<br>joy<br>hunt<br>kiwi<br>life<br>physical |  
+| bip_39_word_new_br_7 | mass<br>joy<br>hunt<br>kiwi<br>life<br>physical<br>meadow |  
+| bip_39_word_new_br_8 | mass<br>joy<br>hunt<br>kiwi<br>life<br>physical<br>meadow<br>result |  
+| bip_39_word_new_br_9 | mass<br>joy<br>hunt<br>kiwi<br>life<br>physical<br>meadow<br>result<br>armed |  
+| bip_39_word_new_line_1 | mass |  
+| bip_39_word_new_line_10 | mass
 joy
 hunt
 kiwi
@@ -55,7 +55,7 @@ meadow
 result
 armed
 ginger |  
-| bip_39_word_new_line11 | mass
+| bip_39_word_new_line_11 | mass
 joy
 hunt
 kiwi
@@ -66,7 +66,7 @@ result
 armed
 ginger
 target |  
-| bip_39_word_new_line12 | mass
+| bip_39_word_new_line_12 | mass
 joy
 hunt
 kiwi
@@ -78,34 +78,34 @@ armed
 ginger
 target
 admit |  
-| bip_39_word_new_line2 | mass
+| bip_39_word_new_line_2 | mass
 joy |  
-| bip_39_word_new_line3 | mass
+| bip_39_word_new_line_3 | mass
 joy
 hunt |  
-| bip_39_word_new_line4 | mass
+| bip_39_word_new_line_4 | mass
 joy
 hunt
 kiwi |  
-| bip_39_word_new_line5 | mass
+| bip_39_word_new_line_5 | mass
 joy
 hunt
 kiwi
 life |  
-| bip_39_word_new_line6 | mass
+| bip_39_word_new_line_6 | mass
 joy
 hunt
 kiwi
 life
 physical |  
-| bip_39_word_new_line7 | mass
+| bip_39_word_new_line_7 | mass
 joy
 hunt
 kiwi
 life
 physical
 meadow |  
-| bip_39_word_new_line8 | mass
+| bip_39_word_new_line_8 | mass
 joy
 hunt
 kiwi
@@ -113,7 +113,7 @@ life
 physical
 meadow
 result |  
-| bip_39_word_new_line9 | mass
+| bip_39_word_new_line_9 | mass
 joy
 hunt
 kiwi

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rib |  
-| bip_39_word_new_br10 | rib<br>gold<br>magic<br>math<br>angle<br>oxygen<br>depth<br>time<br>expand<br>real |  
-| bip_39_word_new_br11 | rib<br>gold<br>magic<br>math<br>angle<br>oxygen<br>depth<br>time<br>expand<br>real<br>once |  
-| bip_39_word_new_br12 | rib<br>gold<br>magic<br>math<br>angle<br>oxygen<br>depth<br>time<br>expand<br>real<br>once<br>adapt |  
-| bip_39_word_new_br2 | rib<br>gold |  
-| bip_39_word_new_br3 | rib<br>gold<br>magic |  
-| bip_39_word_new_br4 | rib<br>gold<br>magic<br>math |  
-| bip_39_word_new_br5 | rib<br>gold<br>magic<br>math<br>angle |  
-| bip_39_word_new_br6 | rib<br>gold<br>magic<br>math<br>angle<br>oxygen |  
-| bip_39_word_new_br7 | rib<br>gold<br>magic<br>math<br>angle<br>oxygen<br>depth |  
-| bip_39_word_new_br8 | rib<br>gold<br>magic<br>math<br>angle<br>oxygen<br>depth<br>time |  
-| bip_39_word_new_br9 | rib<br>gold<br>magic<br>math<br>angle<br>oxygen<br>depth<br>time<br>expand |  
-| bip_39_word_new_line1 | rib |  
-| bip_39_word_new_line10 | rib
+| bip_39_word_new_br_1 | rib |  
+| bip_39_word_new_br_10 | rib<br>gold<br>magic<br>math<br>angle<br>oxygen<br>depth<br>time<br>expand<br>real |  
+| bip_39_word_new_br_11 | rib<br>gold<br>magic<br>math<br>angle<br>oxygen<br>depth<br>time<br>expand<br>real<br>once |  
+| bip_39_word_new_br_12 | rib<br>gold<br>magic<br>math<br>angle<br>oxygen<br>depth<br>time<br>expand<br>real<br>once<br>adapt |  
+| bip_39_word_new_br_2 | rib<br>gold |  
+| bip_39_word_new_br_3 | rib<br>gold<br>magic |  
+| bip_39_word_new_br_4 | rib<br>gold<br>magic<br>math |  
+| bip_39_word_new_br_5 | rib<br>gold<br>magic<br>math<br>angle |  
+| bip_39_word_new_br_6 | rib<br>gold<br>magic<br>math<br>angle<br>oxygen |  
+| bip_39_word_new_br_7 | rib<br>gold<br>magic<br>math<br>angle<br>oxygen<br>depth |  
+| bip_39_word_new_br_8 | rib<br>gold<br>magic<br>math<br>angle<br>oxygen<br>depth<br>time |  
+| bip_39_word_new_br_9 | rib<br>gold<br>magic<br>math<br>angle<br>oxygen<br>depth<br>time<br>expand |  
+| bip_39_word_new_line_1 | rib |  
+| bip_39_word_new_line_10 | rib
 gold
 magic
 math
@@ -55,7 +55,7 @@ depth
 time
 expand
 real |  
-| bip_39_word_new_line11 | rib
+| bip_39_word_new_line_11 | rib
 gold
 magic
 math
@@ -66,7 +66,7 @@ time
 expand
 real
 once |  
-| bip_39_word_new_line12 | rib
+| bip_39_word_new_line_12 | rib
 gold
 magic
 math
@@ -78,34 +78,34 @@ expand
 real
 once
 adapt |  
-| bip_39_word_new_line2 | rib
+| bip_39_word_new_line_2 | rib
 gold |  
-| bip_39_word_new_line3 | rib
+| bip_39_word_new_line_3 | rib
 gold
 magic |  
-| bip_39_word_new_line4 | rib
+| bip_39_word_new_line_4 | rib
 gold
 magic
 math |  
-| bip_39_word_new_line5 | rib
+| bip_39_word_new_line_5 | rib
 gold
 magic
 math
 angle |  
-| bip_39_word_new_line6 | rib
+| bip_39_word_new_line_6 | rib
 gold
 magic
 math
 angle
 oxygen |  
-| bip_39_word_new_line7 | rib
+| bip_39_word_new_line_7 | rib
 gold
 magic
 math
 angle
 oxygen
 depth |  
-| bip_39_word_new_line8 | rib
+| bip_39_word_new_line_8 | rib
 gold
 magic
 math
@@ -113,7 +113,7 @@ angle
 oxygen
 depth
 time |  
-| bip_39_word_new_line9 | rib
+| bip_39_word_new_line_9 | rib
 gold
 magic
 math

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rebel |  
-| bip_39_word_new_br10 | rebel<br>fossil<br>another<br>stumble<br>bottom<br>olive<br>hand<br>inject<br>inherit<br>hedgehog |  
-| bip_39_word_new_br11 | rebel<br>fossil<br>another<br>stumble<br>bottom<br>olive<br>hand<br>inject<br>inherit<br>hedgehog<br>response |  
-| bip_39_word_new_br12 | rebel<br>fossil<br>another<br>stumble<br>bottom<br>olive<br>hand<br>inject<br>inherit<br>hedgehog<br>response<br>auction |  
-| bip_39_word_new_br2 | rebel<br>fossil |  
-| bip_39_word_new_br3 | rebel<br>fossil<br>another |  
-| bip_39_word_new_br4 | rebel<br>fossil<br>another<br>stumble |  
-| bip_39_word_new_br5 | rebel<br>fossil<br>another<br>stumble<br>bottom |  
-| bip_39_word_new_br6 | rebel<br>fossil<br>another<br>stumble<br>bottom<br>olive |  
-| bip_39_word_new_br7 | rebel<br>fossil<br>another<br>stumble<br>bottom<br>olive<br>hand |  
-| bip_39_word_new_br8 | rebel<br>fossil<br>another<br>stumble<br>bottom<br>olive<br>hand<br>inject |  
-| bip_39_word_new_br9 | rebel<br>fossil<br>another<br>stumble<br>bottom<br>olive<br>hand<br>inject<br>inherit |  
-| bip_39_word_new_line1 | rebel |  
-| bip_39_word_new_line10 | rebel
+| bip_39_word_new_br_1 | rebel |  
+| bip_39_word_new_br_10 | rebel<br>fossil<br>another<br>stumble<br>bottom<br>olive<br>hand<br>inject<br>inherit<br>hedgehog |  
+| bip_39_word_new_br_11 | rebel<br>fossil<br>another<br>stumble<br>bottom<br>olive<br>hand<br>inject<br>inherit<br>hedgehog<br>response |  
+| bip_39_word_new_br_12 | rebel<br>fossil<br>another<br>stumble<br>bottom<br>olive<br>hand<br>inject<br>inherit<br>hedgehog<br>response<br>auction |  
+| bip_39_word_new_br_2 | rebel<br>fossil |  
+| bip_39_word_new_br_3 | rebel<br>fossil<br>another |  
+| bip_39_word_new_br_4 | rebel<br>fossil<br>another<br>stumble |  
+| bip_39_word_new_br_5 | rebel<br>fossil<br>another<br>stumble<br>bottom |  
+| bip_39_word_new_br_6 | rebel<br>fossil<br>another<br>stumble<br>bottom<br>olive |  
+| bip_39_word_new_br_7 | rebel<br>fossil<br>another<br>stumble<br>bottom<br>olive<br>hand |  
+| bip_39_word_new_br_8 | rebel<br>fossil<br>another<br>stumble<br>bottom<br>olive<br>hand<br>inject |  
+| bip_39_word_new_br_9 | rebel<br>fossil<br>another<br>stumble<br>bottom<br>olive<br>hand<br>inject<br>inherit |  
+| bip_39_word_new_line_1 | rebel |  
+| bip_39_word_new_line_10 | rebel
 fossil
 another
 stumble
@@ -55,7 +55,7 @@ hand
 inject
 inherit
 hedgehog |  
-| bip_39_word_new_line11 | rebel
+| bip_39_word_new_line_11 | rebel
 fossil
 another
 stumble
@@ -66,7 +66,7 @@ inject
 inherit
 hedgehog
 response |  
-| bip_39_word_new_line12 | rebel
+| bip_39_word_new_line_12 | rebel
 fossil
 another
 stumble
@@ -78,34 +78,34 @@ inherit
 hedgehog
 response
 auction |  
-| bip_39_word_new_line2 | rebel
+| bip_39_word_new_line_2 | rebel
 fossil |  
-| bip_39_word_new_line3 | rebel
+| bip_39_word_new_line_3 | rebel
 fossil
 another |  
-| bip_39_word_new_line4 | rebel
+| bip_39_word_new_line_4 | rebel
 fossil
 another
 stumble |  
-| bip_39_word_new_line5 | rebel
+| bip_39_word_new_line_5 | rebel
 fossil
 another
 stumble
 bottom |  
-| bip_39_word_new_line6 | rebel
+| bip_39_word_new_line_6 | rebel
 fossil
 another
 stumble
 bottom
 olive |  
-| bip_39_word_new_line7 | rebel
+| bip_39_word_new_line_7 | rebel
 fossil
 another
 stumble
 bottom
 olive
 hand |  
-| bip_39_word_new_line8 | rebel
+| bip_39_word_new_line_8 | rebel
 fossil
 another
 stumble
@@ -113,7 +113,7 @@ bottom
 olive
 hand
 inject |  
-| bip_39_word_new_line9 | rebel
+| bip_39_word_new_line_9 | rebel
 fossil
 another
 stumble

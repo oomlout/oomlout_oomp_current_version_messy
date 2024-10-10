@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gauge |  
-| bip_39_word_new_br10 | gauge<br>host<br>crew<br>debris<br>castle<br>sun<br>artwork<br>lens<br>nest<br>rail |  
-| bip_39_word_new_br11 | gauge<br>host<br>crew<br>debris<br>castle<br>sun<br>artwork<br>lens<br>nest<br>rail<br>diesel |  
-| bip_39_word_new_br12 | gauge<br>host<br>crew<br>debris<br>castle<br>sun<br>artwork<br>lens<br>nest<br>rail<br>diesel<br>artwork |  
-| bip_39_word_new_br2 | gauge<br>host |  
-| bip_39_word_new_br3 | gauge<br>host<br>crew |  
-| bip_39_word_new_br4 | gauge<br>host<br>crew<br>debris |  
-| bip_39_word_new_br5 | gauge<br>host<br>crew<br>debris<br>castle |  
-| bip_39_word_new_br6 | gauge<br>host<br>crew<br>debris<br>castle<br>sun |  
-| bip_39_word_new_br7 | gauge<br>host<br>crew<br>debris<br>castle<br>sun<br>artwork |  
-| bip_39_word_new_br8 | gauge<br>host<br>crew<br>debris<br>castle<br>sun<br>artwork<br>lens |  
-| bip_39_word_new_br9 | gauge<br>host<br>crew<br>debris<br>castle<br>sun<br>artwork<br>lens<br>nest |  
-| bip_39_word_new_line1 | gauge |  
-| bip_39_word_new_line10 | gauge
+| bip_39_word_new_br_1 | gauge |  
+| bip_39_word_new_br_10 | gauge<br>host<br>crew<br>debris<br>castle<br>sun<br>artwork<br>lens<br>nest<br>rail |  
+| bip_39_word_new_br_11 | gauge<br>host<br>crew<br>debris<br>castle<br>sun<br>artwork<br>lens<br>nest<br>rail<br>diesel |  
+| bip_39_word_new_br_12 | gauge<br>host<br>crew<br>debris<br>castle<br>sun<br>artwork<br>lens<br>nest<br>rail<br>diesel<br>artwork |  
+| bip_39_word_new_br_2 | gauge<br>host |  
+| bip_39_word_new_br_3 | gauge<br>host<br>crew |  
+| bip_39_word_new_br_4 | gauge<br>host<br>crew<br>debris |  
+| bip_39_word_new_br_5 | gauge<br>host<br>crew<br>debris<br>castle |  
+| bip_39_word_new_br_6 | gauge<br>host<br>crew<br>debris<br>castle<br>sun |  
+| bip_39_word_new_br_7 | gauge<br>host<br>crew<br>debris<br>castle<br>sun<br>artwork |  
+| bip_39_word_new_br_8 | gauge<br>host<br>crew<br>debris<br>castle<br>sun<br>artwork<br>lens |  
+| bip_39_word_new_br_9 | gauge<br>host<br>crew<br>debris<br>castle<br>sun<br>artwork<br>lens<br>nest |  
+| bip_39_word_new_line_1 | gauge |  
+| bip_39_word_new_line_10 | gauge
 host
 crew
 debris
@@ -55,7 +55,7 @@ artwork
 lens
 nest
 rail |  
-| bip_39_word_new_line11 | gauge
+| bip_39_word_new_line_11 | gauge
 host
 crew
 debris
@@ -66,7 +66,7 @@ lens
 nest
 rail
 diesel |  
-| bip_39_word_new_line12 | gauge
+| bip_39_word_new_line_12 | gauge
 host
 crew
 debris
@@ -78,34 +78,34 @@ nest
 rail
 diesel
 artwork |  
-| bip_39_word_new_line2 | gauge
+| bip_39_word_new_line_2 | gauge
 host |  
-| bip_39_word_new_line3 | gauge
+| bip_39_word_new_line_3 | gauge
 host
 crew |  
-| bip_39_word_new_line4 | gauge
+| bip_39_word_new_line_4 | gauge
 host
 crew
 debris |  
-| bip_39_word_new_line5 | gauge
+| bip_39_word_new_line_5 | gauge
 host
 crew
 debris
 castle |  
-| bip_39_word_new_line6 | gauge
+| bip_39_word_new_line_6 | gauge
 host
 crew
 debris
 castle
 sun |  
-| bip_39_word_new_line7 | gauge
+| bip_39_word_new_line_7 | gauge
 host
 crew
 debris
 castle
 sun
 artwork |  
-| bip_39_word_new_line8 | gauge
+| bip_39_word_new_line_8 | gauge
 host
 crew
 debris
@@ -113,7 +113,7 @@ castle
 sun
 artwork
 lens |  
-| bip_39_word_new_line9 | gauge
+| bip_39_word_new_line_9 | gauge
 host
 crew
 debris

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | loop |  
-| bip_39_word_new_br10 | loop<br>solar<br>bounce<br>stereo<br>thumb<br>elite<br>silk<br>type<br>clever<br>merry |  
-| bip_39_word_new_br11 | loop<br>solar<br>bounce<br>stereo<br>thumb<br>elite<br>silk<br>type<br>clever<br>merry<br>sister |  
-| bip_39_word_new_br12 | loop<br>solar<br>bounce<br>stereo<br>thumb<br>elite<br>silk<br>type<br>clever<br>merry<br>sister<br>alien |  
-| bip_39_word_new_br2 | loop<br>solar |  
-| bip_39_word_new_br3 | loop<br>solar<br>bounce |  
-| bip_39_word_new_br4 | loop<br>solar<br>bounce<br>stereo |  
-| bip_39_word_new_br5 | loop<br>solar<br>bounce<br>stereo<br>thumb |  
-| bip_39_word_new_br6 | loop<br>solar<br>bounce<br>stereo<br>thumb<br>elite |  
-| bip_39_word_new_br7 | loop<br>solar<br>bounce<br>stereo<br>thumb<br>elite<br>silk |  
-| bip_39_word_new_br8 | loop<br>solar<br>bounce<br>stereo<br>thumb<br>elite<br>silk<br>type |  
-| bip_39_word_new_br9 | loop<br>solar<br>bounce<br>stereo<br>thumb<br>elite<br>silk<br>type<br>clever |  
-| bip_39_word_new_line1 | loop |  
-| bip_39_word_new_line10 | loop
+| bip_39_word_new_br_1 | loop |  
+| bip_39_word_new_br_10 | loop<br>solar<br>bounce<br>stereo<br>thumb<br>elite<br>silk<br>type<br>clever<br>merry |  
+| bip_39_word_new_br_11 | loop<br>solar<br>bounce<br>stereo<br>thumb<br>elite<br>silk<br>type<br>clever<br>merry<br>sister |  
+| bip_39_word_new_br_12 | loop<br>solar<br>bounce<br>stereo<br>thumb<br>elite<br>silk<br>type<br>clever<br>merry<br>sister<br>alien |  
+| bip_39_word_new_br_2 | loop<br>solar |  
+| bip_39_word_new_br_3 | loop<br>solar<br>bounce |  
+| bip_39_word_new_br_4 | loop<br>solar<br>bounce<br>stereo |  
+| bip_39_word_new_br_5 | loop<br>solar<br>bounce<br>stereo<br>thumb |  
+| bip_39_word_new_br_6 | loop<br>solar<br>bounce<br>stereo<br>thumb<br>elite |  
+| bip_39_word_new_br_7 | loop<br>solar<br>bounce<br>stereo<br>thumb<br>elite<br>silk |  
+| bip_39_word_new_br_8 | loop<br>solar<br>bounce<br>stereo<br>thumb<br>elite<br>silk<br>type |  
+| bip_39_word_new_br_9 | loop<br>solar<br>bounce<br>stereo<br>thumb<br>elite<br>silk<br>type<br>clever |  
+| bip_39_word_new_line_1 | loop |  
+| bip_39_word_new_line_10 | loop
 solar
 bounce
 stereo
@@ -55,7 +55,7 @@ silk
 type
 clever
 merry |  
-| bip_39_word_new_line11 | loop
+| bip_39_word_new_line_11 | loop
 solar
 bounce
 stereo
@@ -66,7 +66,7 @@ type
 clever
 merry
 sister |  
-| bip_39_word_new_line12 | loop
+| bip_39_word_new_line_12 | loop
 solar
 bounce
 stereo
@@ -78,34 +78,34 @@ clever
 merry
 sister
 alien |  
-| bip_39_word_new_line2 | loop
+| bip_39_word_new_line_2 | loop
 solar |  
-| bip_39_word_new_line3 | loop
+| bip_39_word_new_line_3 | loop
 solar
 bounce |  
-| bip_39_word_new_line4 | loop
+| bip_39_word_new_line_4 | loop
 solar
 bounce
 stereo |  
-| bip_39_word_new_line5 | loop
+| bip_39_word_new_line_5 | loop
 solar
 bounce
 stereo
 thumb |  
-| bip_39_word_new_line6 | loop
+| bip_39_word_new_line_6 | loop
 solar
 bounce
 stereo
 thumb
 elite |  
-| bip_39_word_new_line7 | loop
+| bip_39_word_new_line_7 | loop
 solar
 bounce
 stereo
 thumb
 elite
 silk |  
-| bip_39_word_new_line8 | loop
+| bip_39_word_new_line_8 | loop
 solar
 bounce
 stereo
@@ -113,7 +113,7 @@ thumb
 elite
 silk
 type |  
-| bip_39_word_new_line9 | loop
+| bip_39_word_new_line_9 | loop
 solar
 bounce
 stereo

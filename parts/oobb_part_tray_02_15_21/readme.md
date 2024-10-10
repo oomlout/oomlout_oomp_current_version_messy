@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | boring |  
-| bip_39_word_new_br10 | boring<br>rigid<br>mango<br>usual<br>under<br>example<br>private<br>damage<br>stadium<br>doctor |  
-| bip_39_word_new_br11 | boring<br>rigid<br>mango<br>usual<br>under<br>example<br>private<br>damage<br>stadium<br>doctor<br>figure |  
-| bip_39_word_new_br12 | boring<br>rigid<br>mango<br>usual<br>under<br>example<br>private<br>damage<br>stadium<br>doctor<br>figure<br>acid |  
-| bip_39_word_new_br2 | boring<br>rigid |  
-| bip_39_word_new_br3 | boring<br>rigid<br>mango |  
-| bip_39_word_new_br4 | boring<br>rigid<br>mango<br>usual |  
-| bip_39_word_new_br5 | boring<br>rigid<br>mango<br>usual<br>under |  
-| bip_39_word_new_br6 | boring<br>rigid<br>mango<br>usual<br>under<br>example |  
-| bip_39_word_new_br7 | boring<br>rigid<br>mango<br>usual<br>under<br>example<br>private |  
-| bip_39_word_new_br8 | boring<br>rigid<br>mango<br>usual<br>under<br>example<br>private<br>damage |  
-| bip_39_word_new_br9 | boring<br>rigid<br>mango<br>usual<br>under<br>example<br>private<br>damage<br>stadium |  
-| bip_39_word_new_line1 | boring |  
-| bip_39_word_new_line10 | boring
+| bip_39_word_new_br_1 | boring |  
+| bip_39_word_new_br_10 | boring<br>rigid<br>mango<br>usual<br>under<br>example<br>private<br>damage<br>stadium<br>doctor |  
+| bip_39_word_new_br_11 | boring<br>rigid<br>mango<br>usual<br>under<br>example<br>private<br>damage<br>stadium<br>doctor<br>figure |  
+| bip_39_word_new_br_12 | boring<br>rigid<br>mango<br>usual<br>under<br>example<br>private<br>damage<br>stadium<br>doctor<br>figure<br>acid |  
+| bip_39_word_new_br_2 | boring<br>rigid |  
+| bip_39_word_new_br_3 | boring<br>rigid<br>mango |  
+| bip_39_word_new_br_4 | boring<br>rigid<br>mango<br>usual |  
+| bip_39_word_new_br_5 | boring<br>rigid<br>mango<br>usual<br>under |  
+| bip_39_word_new_br_6 | boring<br>rigid<br>mango<br>usual<br>under<br>example |  
+| bip_39_word_new_br_7 | boring<br>rigid<br>mango<br>usual<br>under<br>example<br>private |  
+| bip_39_word_new_br_8 | boring<br>rigid<br>mango<br>usual<br>under<br>example<br>private<br>damage |  
+| bip_39_word_new_br_9 | boring<br>rigid<br>mango<br>usual<br>under<br>example<br>private<br>damage<br>stadium |  
+| bip_39_word_new_line_1 | boring |  
+| bip_39_word_new_line_10 | boring
 rigid
 mango
 usual
@@ -55,7 +55,7 @@ private
 damage
 stadium
 doctor |  
-| bip_39_word_new_line11 | boring
+| bip_39_word_new_line_11 | boring
 rigid
 mango
 usual
@@ -66,7 +66,7 @@ damage
 stadium
 doctor
 figure |  
-| bip_39_word_new_line12 | boring
+| bip_39_word_new_line_12 | boring
 rigid
 mango
 usual
@@ -78,34 +78,34 @@ stadium
 doctor
 figure
 acid |  
-| bip_39_word_new_line2 | boring
+| bip_39_word_new_line_2 | boring
 rigid |  
-| bip_39_word_new_line3 | boring
+| bip_39_word_new_line_3 | boring
 rigid
 mango |  
-| bip_39_word_new_line4 | boring
+| bip_39_word_new_line_4 | boring
 rigid
 mango
 usual |  
-| bip_39_word_new_line5 | boring
+| bip_39_word_new_line_5 | boring
 rigid
 mango
 usual
 under |  
-| bip_39_word_new_line6 | boring
+| bip_39_word_new_line_6 | boring
 rigid
 mango
 usual
 under
 example |  
-| bip_39_word_new_line7 | boring
+| bip_39_word_new_line_7 | boring
 rigid
 mango
 usual
 under
 example
 private |  
-| bip_39_word_new_line8 | boring
+| bip_39_word_new_line_8 | boring
 rigid
 mango
 usual
@@ -113,7 +113,7 @@ under
 example
 private
 damage |  
-| bip_39_word_new_line9 | boring
+| bip_39_word_new_line_9 | boring
 rigid
 mango
 usual

@@ -1,17 +1,17 @@
-bip_39_word_new_br1: another
-bip_39_word_new_br10: another<br>combine<br>marble<br>obtain<br>marble<br>drink<br>cry<br>order<br>dwarf<br>fashion
-bip_39_word_new_br11: another<br>combine<br>marble<br>obtain<br>marble<br>drink<br>cry<br>order<br>dwarf<br>fashion<br>release
-bip_39_word_new_br12: another<br>combine<br>marble<br>obtain<br>marble<br>drink<br>cry<br>order<br>dwarf<br>fashion<br>release<br>artwork
-bip_39_word_new_br2: another<br>combine
-bip_39_word_new_br3: another<br>combine<br>marble
-bip_39_word_new_br4: another<br>combine<br>marble<br>obtain
-bip_39_word_new_br5: another<br>combine<br>marble<br>obtain<br>marble
-bip_39_word_new_br6: another<br>combine<br>marble<br>obtain<br>marble<br>drink
-bip_39_word_new_br7: another<br>combine<br>marble<br>obtain<br>marble<br>drink<br>cry
-bip_39_word_new_br8: another<br>combine<br>marble<br>obtain<br>marble<br>drink<br>cry<br>order
-bip_39_word_new_br9: another<br>combine<br>marble<br>obtain<br>marble<br>drink<br>cry<br>order<br>dwarf
-bip_39_word_new_line1: another
-bip_39_word_new_line10: 'another
+bip_39_word_new_br_1: another
+bip_39_word_new_br_10: another<br>combine<br>marble<br>obtain<br>marble<br>drink<br>cry<br>order<br>dwarf<br>fashion
+bip_39_word_new_br_11: another<br>combine<br>marble<br>obtain<br>marble<br>drink<br>cry<br>order<br>dwarf<br>fashion<br>release
+bip_39_word_new_br_12: another<br>combine<br>marble<br>obtain<br>marble<br>drink<br>cry<br>order<br>dwarf<br>fashion<br>release<br>artwork
+bip_39_word_new_br_2: another<br>combine
+bip_39_word_new_br_3: another<br>combine<br>marble
+bip_39_word_new_br_4: another<br>combine<br>marble<br>obtain
+bip_39_word_new_br_5: another<br>combine<br>marble<br>obtain<br>marble
+bip_39_word_new_br_6: another<br>combine<br>marble<br>obtain<br>marble<br>drink
+bip_39_word_new_br_7: another<br>combine<br>marble<br>obtain<br>marble<br>drink<br>cry
+bip_39_word_new_br_8: another<br>combine<br>marble<br>obtain<br>marble<br>drink<br>cry<br>order
+bip_39_word_new_br_9: another<br>combine<br>marble<br>obtain<br>marble<br>drink<br>cry<br>order<br>dwarf
+bip_39_word_new_line_1: another
+bip_39_word_new_line_10: 'another
 
   combine
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'another
   dwarf
 
   fashion'
-bip_39_word_new_line11: 'another
+bip_39_word_new_line_11: 'another
 
   combine
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'another
   fashion
 
   release'
-bip_39_word_new_line12: 'another
+bip_39_word_new_line_12: 'another
 
   combine
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'another
   release
 
   artwork'
-bip_39_word_new_line2: 'another
+bip_39_word_new_line_2: 'another
 
   combine'
-bip_39_word_new_line3: 'another
+bip_39_word_new_line_3: 'another
 
   combine
 
   marble'
-bip_39_word_new_line4: 'another
+bip_39_word_new_line_4: 'another
 
   combine
 
   marble
 
   obtain'
-bip_39_word_new_line5: 'another
+bip_39_word_new_line_5: 'another
 
   combine
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'another
   obtain
 
   marble'
-bip_39_word_new_line6: 'another
+bip_39_word_new_line_6: 'another
 
   combine
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'another
   marble
 
   drink'
-bip_39_word_new_line7: 'another
+bip_39_word_new_line_7: 'another
 
   combine
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'another
   drink
 
   cry'
-bip_39_word_new_line8: 'another
+bip_39_word_new_line_8: 'another
 
   combine
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'another
   cry
 
   order'
-bip_39_word_new_line9: 'another
+bip_39_word_new_line_9: 'another
 
   combine
 

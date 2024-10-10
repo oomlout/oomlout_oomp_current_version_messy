@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | battle |  
-| bip_39_word_new_br10 | battle<br>door<br>afraid<br>success<br>film<br>aisle<br>patch<br>toe<br>couple<br>coyote |  
-| bip_39_word_new_br11 | battle<br>door<br>afraid<br>success<br>film<br>aisle<br>patch<br>toe<br>couple<br>coyote<br>canvas |  
-| bip_39_word_new_br12 | battle<br>door<br>afraid<br>success<br>film<br>aisle<br>patch<br>toe<br>couple<br>coyote<br>canvas<br>alpha |  
-| bip_39_word_new_br2 | battle<br>door |  
-| bip_39_word_new_br3 | battle<br>door<br>afraid |  
-| bip_39_word_new_br4 | battle<br>door<br>afraid<br>success |  
-| bip_39_word_new_br5 | battle<br>door<br>afraid<br>success<br>film |  
-| bip_39_word_new_br6 | battle<br>door<br>afraid<br>success<br>film<br>aisle |  
-| bip_39_word_new_br7 | battle<br>door<br>afraid<br>success<br>film<br>aisle<br>patch |  
-| bip_39_word_new_br8 | battle<br>door<br>afraid<br>success<br>film<br>aisle<br>patch<br>toe |  
-| bip_39_word_new_br9 | battle<br>door<br>afraid<br>success<br>film<br>aisle<br>patch<br>toe<br>couple |  
-| bip_39_word_new_line1 | battle |  
-| bip_39_word_new_line10 | battle
+| bip_39_word_new_br_1 | battle |  
+| bip_39_word_new_br_10 | battle<br>door<br>afraid<br>success<br>film<br>aisle<br>patch<br>toe<br>couple<br>coyote |  
+| bip_39_word_new_br_11 | battle<br>door<br>afraid<br>success<br>film<br>aisle<br>patch<br>toe<br>couple<br>coyote<br>canvas |  
+| bip_39_word_new_br_12 | battle<br>door<br>afraid<br>success<br>film<br>aisle<br>patch<br>toe<br>couple<br>coyote<br>canvas<br>alpha |  
+| bip_39_word_new_br_2 | battle<br>door |  
+| bip_39_word_new_br_3 | battle<br>door<br>afraid |  
+| bip_39_word_new_br_4 | battle<br>door<br>afraid<br>success |  
+| bip_39_word_new_br_5 | battle<br>door<br>afraid<br>success<br>film |  
+| bip_39_word_new_br_6 | battle<br>door<br>afraid<br>success<br>film<br>aisle |  
+| bip_39_word_new_br_7 | battle<br>door<br>afraid<br>success<br>film<br>aisle<br>patch |  
+| bip_39_word_new_br_8 | battle<br>door<br>afraid<br>success<br>film<br>aisle<br>patch<br>toe |  
+| bip_39_word_new_br_9 | battle<br>door<br>afraid<br>success<br>film<br>aisle<br>patch<br>toe<br>couple |  
+| bip_39_word_new_line_1 | battle |  
+| bip_39_word_new_line_10 | battle
 door
 afraid
 success
@@ -55,7 +55,7 @@ patch
 toe
 couple
 coyote |  
-| bip_39_word_new_line11 | battle
+| bip_39_word_new_line_11 | battle
 door
 afraid
 success
@@ -66,7 +66,7 @@ toe
 couple
 coyote
 canvas |  
-| bip_39_word_new_line12 | battle
+| bip_39_word_new_line_12 | battle
 door
 afraid
 success
@@ -78,34 +78,34 @@ couple
 coyote
 canvas
 alpha |  
-| bip_39_word_new_line2 | battle
+| bip_39_word_new_line_2 | battle
 door |  
-| bip_39_word_new_line3 | battle
+| bip_39_word_new_line_3 | battle
 door
 afraid |  
-| bip_39_word_new_line4 | battle
+| bip_39_word_new_line_4 | battle
 door
 afraid
 success |  
-| bip_39_word_new_line5 | battle
+| bip_39_word_new_line_5 | battle
 door
 afraid
 success
 film |  
-| bip_39_word_new_line6 | battle
+| bip_39_word_new_line_6 | battle
 door
 afraid
 success
 film
 aisle |  
-| bip_39_word_new_line7 | battle
+| bip_39_word_new_line_7 | battle
 door
 afraid
 success
 film
 aisle
 patch |  
-| bip_39_word_new_line8 | battle
+| bip_39_word_new_line_8 | battle
 door
 afraid
 success
@@ -113,7 +113,7 @@ film
 aisle
 patch
 toe |  
-| bip_39_word_new_line9 | battle
+| bip_39_word_new_line_9 | battle
 door
 afraid
 success

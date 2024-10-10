@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | radio |  
-| bip_39_word_new_br10 | radio<br>bike<br>immense<br>fantasy<br>can<br>tourist<br>client<br>gun<br>girl<br>economy |  
-| bip_39_word_new_br11 | radio<br>bike<br>immense<br>fantasy<br>can<br>tourist<br>client<br>gun<br>girl<br>economy<br>earth |  
-| bip_39_word_new_br12 | radio<br>bike<br>immense<br>fantasy<br>can<br>tourist<br>client<br>gun<br>girl<br>economy<br>earth<br>among |  
-| bip_39_word_new_br2 | radio<br>bike |  
-| bip_39_word_new_br3 | radio<br>bike<br>immense |  
-| bip_39_word_new_br4 | radio<br>bike<br>immense<br>fantasy |  
-| bip_39_word_new_br5 | radio<br>bike<br>immense<br>fantasy<br>can |  
-| bip_39_word_new_br6 | radio<br>bike<br>immense<br>fantasy<br>can<br>tourist |  
-| bip_39_word_new_br7 | radio<br>bike<br>immense<br>fantasy<br>can<br>tourist<br>client |  
-| bip_39_word_new_br8 | radio<br>bike<br>immense<br>fantasy<br>can<br>tourist<br>client<br>gun |  
-| bip_39_word_new_br9 | radio<br>bike<br>immense<br>fantasy<br>can<br>tourist<br>client<br>gun<br>girl |  
-| bip_39_word_new_line1 | radio |  
-| bip_39_word_new_line10 | radio
+| bip_39_word_new_br_1 | radio |  
+| bip_39_word_new_br_10 | radio<br>bike<br>immense<br>fantasy<br>can<br>tourist<br>client<br>gun<br>girl<br>economy |  
+| bip_39_word_new_br_11 | radio<br>bike<br>immense<br>fantasy<br>can<br>tourist<br>client<br>gun<br>girl<br>economy<br>earth |  
+| bip_39_word_new_br_12 | radio<br>bike<br>immense<br>fantasy<br>can<br>tourist<br>client<br>gun<br>girl<br>economy<br>earth<br>among |  
+| bip_39_word_new_br_2 | radio<br>bike |  
+| bip_39_word_new_br_3 | radio<br>bike<br>immense |  
+| bip_39_word_new_br_4 | radio<br>bike<br>immense<br>fantasy |  
+| bip_39_word_new_br_5 | radio<br>bike<br>immense<br>fantasy<br>can |  
+| bip_39_word_new_br_6 | radio<br>bike<br>immense<br>fantasy<br>can<br>tourist |  
+| bip_39_word_new_br_7 | radio<br>bike<br>immense<br>fantasy<br>can<br>tourist<br>client |  
+| bip_39_word_new_br_8 | radio<br>bike<br>immense<br>fantasy<br>can<br>tourist<br>client<br>gun |  
+| bip_39_word_new_br_9 | radio<br>bike<br>immense<br>fantasy<br>can<br>tourist<br>client<br>gun<br>girl |  
+| bip_39_word_new_line_1 | radio |  
+| bip_39_word_new_line_10 | radio
 bike
 immense
 fantasy
@@ -55,7 +55,7 @@ client
 gun
 girl
 economy |  
-| bip_39_word_new_line11 | radio
+| bip_39_word_new_line_11 | radio
 bike
 immense
 fantasy
@@ -66,7 +66,7 @@ gun
 girl
 economy
 earth |  
-| bip_39_word_new_line12 | radio
+| bip_39_word_new_line_12 | radio
 bike
 immense
 fantasy
@@ -78,34 +78,34 @@ girl
 economy
 earth
 among |  
-| bip_39_word_new_line2 | radio
+| bip_39_word_new_line_2 | radio
 bike |  
-| bip_39_word_new_line3 | radio
+| bip_39_word_new_line_3 | radio
 bike
 immense |  
-| bip_39_word_new_line4 | radio
+| bip_39_word_new_line_4 | radio
 bike
 immense
 fantasy |  
-| bip_39_word_new_line5 | radio
+| bip_39_word_new_line_5 | radio
 bike
 immense
 fantasy
 can |  
-| bip_39_word_new_line6 | radio
+| bip_39_word_new_line_6 | radio
 bike
 immense
 fantasy
 can
 tourist |  
-| bip_39_word_new_line7 | radio
+| bip_39_word_new_line_7 | radio
 bike
 immense
 fantasy
 can
 tourist
 client |  
-| bip_39_word_new_line8 | radio
+| bip_39_word_new_line_8 | radio
 bike
 immense
 fantasy
@@ -113,7 +113,7 @@ can
 tourist
 client
 gun |  
-| bip_39_word_new_line9 | radio
+| bip_39_word_new_line_9 | radio
 bike
 immense
 fantasy

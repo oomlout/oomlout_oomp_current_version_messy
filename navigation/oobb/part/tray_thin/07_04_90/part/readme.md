@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | suggest |  
-| bip_39_word_new_br10 | suggest<br>rail<br>joke<br>wrong<br>guitar<br>noodle<br>bring<br>flame<br>approve<br>bracket |  
-| bip_39_word_new_br11 | suggest<br>rail<br>joke<br>wrong<br>guitar<br>noodle<br>bring<br>flame<br>approve<br>bracket<br>tent |  
-| bip_39_word_new_br12 | suggest<br>rail<br>joke<br>wrong<br>guitar<br>noodle<br>bring<br>flame<br>approve<br>bracket<br>tent<br>again |  
-| bip_39_word_new_br2 | suggest<br>rail |  
-| bip_39_word_new_br3 | suggest<br>rail<br>joke |  
-| bip_39_word_new_br4 | suggest<br>rail<br>joke<br>wrong |  
-| bip_39_word_new_br5 | suggest<br>rail<br>joke<br>wrong<br>guitar |  
-| bip_39_word_new_br6 | suggest<br>rail<br>joke<br>wrong<br>guitar<br>noodle |  
-| bip_39_word_new_br7 | suggest<br>rail<br>joke<br>wrong<br>guitar<br>noodle<br>bring |  
-| bip_39_word_new_br8 | suggest<br>rail<br>joke<br>wrong<br>guitar<br>noodle<br>bring<br>flame |  
-| bip_39_word_new_br9 | suggest<br>rail<br>joke<br>wrong<br>guitar<br>noodle<br>bring<br>flame<br>approve |  
-| bip_39_word_new_line1 | suggest |  
-| bip_39_word_new_line10 | suggest
+| bip_39_word_new_br_1 | suggest |  
+| bip_39_word_new_br_10 | suggest<br>rail<br>joke<br>wrong<br>guitar<br>noodle<br>bring<br>flame<br>approve<br>bracket |  
+| bip_39_word_new_br_11 | suggest<br>rail<br>joke<br>wrong<br>guitar<br>noodle<br>bring<br>flame<br>approve<br>bracket<br>tent |  
+| bip_39_word_new_br_12 | suggest<br>rail<br>joke<br>wrong<br>guitar<br>noodle<br>bring<br>flame<br>approve<br>bracket<br>tent<br>again |  
+| bip_39_word_new_br_2 | suggest<br>rail |  
+| bip_39_word_new_br_3 | suggest<br>rail<br>joke |  
+| bip_39_word_new_br_4 | suggest<br>rail<br>joke<br>wrong |  
+| bip_39_word_new_br_5 | suggest<br>rail<br>joke<br>wrong<br>guitar |  
+| bip_39_word_new_br_6 | suggest<br>rail<br>joke<br>wrong<br>guitar<br>noodle |  
+| bip_39_word_new_br_7 | suggest<br>rail<br>joke<br>wrong<br>guitar<br>noodle<br>bring |  
+| bip_39_word_new_br_8 | suggest<br>rail<br>joke<br>wrong<br>guitar<br>noodle<br>bring<br>flame |  
+| bip_39_word_new_br_9 | suggest<br>rail<br>joke<br>wrong<br>guitar<br>noodle<br>bring<br>flame<br>approve |  
+| bip_39_word_new_line_1 | suggest |  
+| bip_39_word_new_line_10 | suggest
 rail
 joke
 wrong
@@ -55,7 +55,7 @@ bring
 flame
 approve
 bracket |  
-| bip_39_word_new_line11 | suggest
+| bip_39_word_new_line_11 | suggest
 rail
 joke
 wrong
@@ -66,7 +66,7 @@ flame
 approve
 bracket
 tent |  
-| bip_39_word_new_line12 | suggest
+| bip_39_word_new_line_12 | suggest
 rail
 joke
 wrong
@@ -78,34 +78,34 @@ approve
 bracket
 tent
 again |  
-| bip_39_word_new_line2 | suggest
+| bip_39_word_new_line_2 | suggest
 rail |  
-| bip_39_word_new_line3 | suggest
+| bip_39_word_new_line_3 | suggest
 rail
 joke |  
-| bip_39_word_new_line4 | suggest
+| bip_39_word_new_line_4 | suggest
 rail
 joke
 wrong |  
-| bip_39_word_new_line5 | suggest
+| bip_39_word_new_line_5 | suggest
 rail
 joke
 wrong
 guitar |  
-| bip_39_word_new_line6 | suggest
+| bip_39_word_new_line_6 | suggest
 rail
 joke
 wrong
 guitar
 noodle |  
-| bip_39_word_new_line7 | suggest
+| bip_39_word_new_line_7 | suggest
 rail
 joke
 wrong
 guitar
 noodle
 bring |  
-| bip_39_word_new_line8 | suggest
+| bip_39_word_new_line_8 | suggest
 rail
 joke
 wrong
@@ -113,7 +113,7 @@ guitar
 noodle
 bring
 flame |  
-| bip_39_word_new_line9 | suggest
+| bip_39_word_new_line_9 | suggest
 rail
 joke
 wrong

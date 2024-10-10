@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | atom |  
-| bip_39_word_new_br10 | atom<br>cram<br>claim<br>speak<br>install<br>swamp<br>cannon<br>woman<br>bean<br>lesson |  
-| bip_39_word_new_br11 | atom<br>cram<br>claim<br>speak<br>install<br>swamp<br>cannon<br>woman<br>bean<br>lesson<br>twenty |  
-| bip_39_word_new_br12 | atom<br>cram<br>claim<br>speak<br>install<br>swamp<br>cannon<br>woman<br>bean<br>lesson<br>twenty<br>advice |  
-| bip_39_word_new_br2 | atom<br>cram |  
-| bip_39_word_new_br3 | atom<br>cram<br>claim |  
-| bip_39_word_new_br4 | atom<br>cram<br>claim<br>speak |  
-| bip_39_word_new_br5 | atom<br>cram<br>claim<br>speak<br>install |  
-| bip_39_word_new_br6 | atom<br>cram<br>claim<br>speak<br>install<br>swamp |  
-| bip_39_word_new_br7 | atom<br>cram<br>claim<br>speak<br>install<br>swamp<br>cannon |  
-| bip_39_word_new_br8 | atom<br>cram<br>claim<br>speak<br>install<br>swamp<br>cannon<br>woman |  
-| bip_39_word_new_br9 | atom<br>cram<br>claim<br>speak<br>install<br>swamp<br>cannon<br>woman<br>bean |  
-| bip_39_word_new_line1 | atom |  
-| bip_39_word_new_line10 | atom
+| bip_39_word_new_br_1 | atom |  
+| bip_39_word_new_br_10 | atom<br>cram<br>claim<br>speak<br>install<br>swamp<br>cannon<br>woman<br>bean<br>lesson |  
+| bip_39_word_new_br_11 | atom<br>cram<br>claim<br>speak<br>install<br>swamp<br>cannon<br>woman<br>bean<br>lesson<br>twenty |  
+| bip_39_word_new_br_12 | atom<br>cram<br>claim<br>speak<br>install<br>swamp<br>cannon<br>woman<br>bean<br>lesson<br>twenty<br>advice |  
+| bip_39_word_new_br_2 | atom<br>cram |  
+| bip_39_word_new_br_3 | atom<br>cram<br>claim |  
+| bip_39_word_new_br_4 | atom<br>cram<br>claim<br>speak |  
+| bip_39_word_new_br_5 | atom<br>cram<br>claim<br>speak<br>install |  
+| bip_39_word_new_br_6 | atom<br>cram<br>claim<br>speak<br>install<br>swamp |  
+| bip_39_word_new_br_7 | atom<br>cram<br>claim<br>speak<br>install<br>swamp<br>cannon |  
+| bip_39_word_new_br_8 | atom<br>cram<br>claim<br>speak<br>install<br>swamp<br>cannon<br>woman |  
+| bip_39_word_new_br_9 | atom<br>cram<br>claim<br>speak<br>install<br>swamp<br>cannon<br>woman<br>bean |  
+| bip_39_word_new_line_1 | atom |  
+| bip_39_word_new_line_10 | atom
 cram
 claim
 speak
@@ -55,7 +55,7 @@ cannon
 woman
 bean
 lesson |  
-| bip_39_word_new_line11 | atom
+| bip_39_word_new_line_11 | atom
 cram
 claim
 speak
@@ -66,7 +66,7 @@ woman
 bean
 lesson
 twenty |  
-| bip_39_word_new_line12 | atom
+| bip_39_word_new_line_12 | atom
 cram
 claim
 speak
@@ -78,34 +78,34 @@ bean
 lesson
 twenty
 advice |  
-| bip_39_word_new_line2 | atom
+| bip_39_word_new_line_2 | atom
 cram |  
-| bip_39_word_new_line3 | atom
+| bip_39_word_new_line_3 | atom
 cram
 claim |  
-| bip_39_word_new_line4 | atom
+| bip_39_word_new_line_4 | atom
 cram
 claim
 speak |  
-| bip_39_word_new_line5 | atom
+| bip_39_word_new_line_5 | atom
 cram
 claim
 speak
 install |  
-| bip_39_word_new_line6 | atom
+| bip_39_word_new_line_6 | atom
 cram
 claim
 speak
 install
 swamp |  
-| bip_39_word_new_line7 | atom
+| bip_39_word_new_line_7 | atom
 cram
 claim
 speak
 install
 swamp
 cannon |  
-| bip_39_word_new_line8 | atom
+| bip_39_word_new_line_8 | atom
 cram
 claim
 speak
@@ -113,7 +113,7 @@ install
 swamp
 cannon
 woman |  
-| bip_39_word_new_line9 | atom
+| bip_39_word_new_line_9 | atom
 cram
 claim
 speak

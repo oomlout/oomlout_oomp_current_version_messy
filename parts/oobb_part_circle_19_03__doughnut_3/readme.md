@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | asthma |  
-| bip_39_word_new_br10 | asthma<br>sense<br>disorder<br>august<br>increase<br>immune<br>valve<br>else<br>twist<br>juice |  
-| bip_39_word_new_br11 | asthma<br>sense<br>disorder<br>august<br>increase<br>immune<br>valve<br>else<br>twist<br>juice<br>loud |  
-| bip_39_word_new_br12 | asthma<br>sense<br>disorder<br>august<br>increase<br>immune<br>valve<br>else<br>twist<br>juice<br>loud<br>antique |  
-| bip_39_word_new_br2 | asthma<br>sense |  
-| bip_39_word_new_br3 | asthma<br>sense<br>disorder |  
-| bip_39_word_new_br4 | asthma<br>sense<br>disorder<br>august |  
-| bip_39_word_new_br5 | asthma<br>sense<br>disorder<br>august<br>increase |  
-| bip_39_word_new_br6 | asthma<br>sense<br>disorder<br>august<br>increase<br>immune |  
-| bip_39_word_new_br7 | asthma<br>sense<br>disorder<br>august<br>increase<br>immune<br>valve |  
-| bip_39_word_new_br8 | asthma<br>sense<br>disorder<br>august<br>increase<br>immune<br>valve<br>else |  
-| bip_39_word_new_br9 | asthma<br>sense<br>disorder<br>august<br>increase<br>immune<br>valve<br>else<br>twist |  
-| bip_39_word_new_line1 | asthma |  
-| bip_39_word_new_line10 | asthma
+| bip_39_word_new_br_1 | asthma |  
+| bip_39_word_new_br_10 | asthma<br>sense<br>disorder<br>august<br>increase<br>immune<br>valve<br>else<br>twist<br>juice |  
+| bip_39_word_new_br_11 | asthma<br>sense<br>disorder<br>august<br>increase<br>immune<br>valve<br>else<br>twist<br>juice<br>loud |  
+| bip_39_word_new_br_12 | asthma<br>sense<br>disorder<br>august<br>increase<br>immune<br>valve<br>else<br>twist<br>juice<br>loud<br>antique |  
+| bip_39_word_new_br_2 | asthma<br>sense |  
+| bip_39_word_new_br_3 | asthma<br>sense<br>disorder |  
+| bip_39_word_new_br_4 | asthma<br>sense<br>disorder<br>august |  
+| bip_39_word_new_br_5 | asthma<br>sense<br>disorder<br>august<br>increase |  
+| bip_39_word_new_br_6 | asthma<br>sense<br>disorder<br>august<br>increase<br>immune |  
+| bip_39_word_new_br_7 | asthma<br>sense<br>disorder<br>august<br>increase<br>immune<br>valve |  
+| bip_39_word_new_br_8 | asthma<br>sense<br>disorder<br>august<br>increase<br>immune<br>valve<br>else |  
+| bip_39_word_new_br_9 | asthma<br>sense<br>disorder<br>august<br>increase<br>immune<br>valve<br>else<br>twist |  
+| bip_39_word_new_line_1 | asthma |  
+| bip_39_word_new_line_10 | asthma
 sense
 disorder
 august
@@ -55,7 +55,7 @@ valve
 else
 twist
 juice |  
-| bip_39_word_new_line11 | asthma
+| bip_39_word_new_line_11 | asthma
 sense
 disorder
 august
@@ -66,7 +66,7 @@ else
 twist
 juice
 loud |  
-| bip_39_word_new_line12 | asthma
+| bip_39_word_new_line_12 | asthma
 sense
 disorder
 august
@@ -78,34 +78,34 @@ twist
 juice
 loud
 antique |  
-| bip_39_word_new_line2 | asthma
+| bip_39_word_new_line_2 | asthma
 sense |  
-| bip_39_word_new_line3 | asthma
+| bip_39_word_new_line_3 | asthma
 sense
 disorder |  
-| bip_39_word_new_line4 | asthma
+| bip_39_word_new_line_4 | asthma
 sense
 disorder
 august |  
-| bip_39_word_new_line5 | asthma
+| bip_39_word_new_line_5 | asthma
 sense
 disorder
 august
 increase |  
-| bip_39_word_new_line6 | asthma
+| bip_39_word_new_line_6 | asthma
 sense
 disorder
 august
 increase
 immune |  
-| bip_39_word_new_line7 | asthma
+| bip_39_word_new_line_7 | asthma
 sense
 disorder
 august
 increase
 immune
 valve |  
-| bip_39_word_new_line8 | asthma
+| bip_39_word_new_line_8 | asthma
 sense
 disorder
 august
@@ -113,7 +113,7 @@ increase
 immune
 valve
 else |  
-| bip_39_word_new_line9 | asthma
+| bip_39_word_new_line_9 | asthma
 sense
 disorder
 august

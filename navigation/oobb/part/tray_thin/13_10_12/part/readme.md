@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | column |  
-| bip_39_word_new_br10 | column<br>issue<br>cannon<br>decline<br>climb<br>sunny<br>ostrich<br>firm<br>shove<br>cost |  
-| bip_39_word_new_br11 | column<br>issue<br>cannon<br>decline<br>climb<br>sunny<br>ostrich<br>firm<br>shove<br>cost<br>debate |  
-| bip_39_word_new_br12 | column<br>issue<br>cannon<br>decline<br>climb<br>sunny<br>ostrich<br>firm<br>shove<br>cost<br>debate<br>ask |  
-| bip_39_word_new_br2 | column<br>issue |  
-| bip_39_word_new_br3 | column<br>issue<br>cannon |  
-| bip_39_word_new_br4 | column<br>issue<br>cannon<br>decline |  
-| bip_39_word_new_br5 | column<br>issue<br>cannon<br>decline<br>climb |  
-| bip_39_word_new_br6 | column<br>issue<br>cannon<br>decline<br>climb<br>sunny |  
-| bip_39_word_new_br7 | column<br>issue<br>cannon<br>decline<br>climb<br>sunny<br>ostrich |  
-| bip_39_word_new_br8 | column<br>issue<br>cannon<br>decline<br>climb<br>sunny<br>ostrich<br>firm |  
-| bip_39_word_new_br9 | column<br>issue<br>cannon<br>decline<br>climb<br>sunny<br>ostrich<br>firm<br>shove |  
-| bip_39_word_new_line1 | column |  
-| bip_39_word_new_line10 | column
+| bip_39_word_new_br_1 | column |  
+| bip_39_word_new_br_10 | column<br>issue<br>cannon<br>decline<br>climb<br>sunny<br>ostrich<br>firm<br>shove<br>cost |  
+| bip_39_word_new_br_11 | column<br>issue<br>cannon<br>decline<br>climb<br>sunny<br>ostrich<br>firm<br>shove<br>cost<br>debate |  
+| bip_39_word_new_br_12 | column<br>issue<br>cannon<br>decline<br>climb<br>sunny<br>ostrich<br>firm<br>shove<br>cost<br>debate<br>ask |  
+| bip_39_word_new_br_2 | column<br>issue |  
+| bip_39_word_new_br_3 | column<br>issue<br>cannon |  
+| bip_39_word_new_br_4 | column<br>issue<br>cannon<br>decline |  
+| bip_39_word_new_br_5 | column<br>issue<br>cannon<br>decline<br>climb |  
+| bip_39_word_new_br_6 | column<br>issue<br>cannon<br>decline<br>climb<br>sunny |  
+| bip_39_word_new_br_7 | column<br>issue<br>cannon<br>decline<br>climb<br>sunny<br>ostrich |  
+| bip_39_word_new_br_8 | column<br>issue<br>cannon<br>decline<br>climb<br>sunny<br>ostrich<br>firm |  
+| bip_39_word_new_br_9 | column<br>issue<br>cannon<br>decline<br>climb<br>sunny<br>ostrich<br>firm<br>shove |  
+| bip_39_word_new_line_1 | column |  
+| bip_39_word_new_line_10 | column
 issue
 cannon
 decline
@@ -55,7 +55,7 @@ ostrich
 firm
 shove
 cost |  
-| bip_39_word_new_line11 | column
+| bip_39_word_new_line_11 | column
 issue
 cannon
 decline
@@ -66,7 +66,7 @@ firm
 shove
 cost
 debate |  
-| bip_39_word_new_line12 | column
+| bip_39_word_new_line_12 | column
 issue
 cannon
 decline
@@ -78,34 +78,34 @@ shove
 cost
 debate
 ask |  
-| bip_39_word_new_line2 | column
+| bip_39_word_new_line_2 | column
 issue |  
-| bip_39_word_new_line3 | column
+| bip_39_word_new_line_3 | column
 issue
 cannon |  
-| bip_39_word_new_line4 | column
+| bip_39_word_new_line_4 | column
 issue
 cannon
 decline |  
-| bip_39_word_new_line5 | column
+| bip_39_word_new_line_5 | column
 issue
 cannon
 decline
 climb |  
-| bip_39_word_new_line6 | column
+| bip_39_word_new_line_6 | column
 issue
 cannon
 decline
 climb
 sunny |  
-| bip_39_word_new_line7 | column
+| bip_39_word_new_line_7 | column
 issue
 cannon
 decline
 climb
 sunny
 ostrich |  
-| bip_39_word_new_line8 | column
+| bip_39_word_new_line_8 | column
 issue
 cannon
 decline
@@ -113,7 +113,7 @@ climb
 sunny
 ostrich
 firm |  
-| bip_39_word_new_line9 | column
+| bip_39_word_new_line_9 | column
 issue
 cannon
 decline

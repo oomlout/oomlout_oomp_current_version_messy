@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | clip |  
-| bip_39_word_new_br10 | clip<br>cement<br>define<br>illness<br>swarm<br>also<br>dumb<br>spirit<br>orange<br>genuine |  
-| bip_39_word_new_br11 | clip<br>cement<br>define<br>illness<br>swarm<br>also<br>dumb<br>spirit<br>orange<br>genuine<br>veteran |  
-| bip_39_word_new_br12 | clip<br>cement<br>define<br>illness<br>swarm<br>also<br>dumb<br>spirit<br>orange<br>genuine<br>veteran<br>auction |  
-| bip_39_word_new_br2 | clip<br>cement |  
-| bip_39_word_new_br3 | clip<br>cement<br>define |  
-| bip_39_word_new_br4 | clip<br>cement<br>define<br>illness |  
-| bip_39_word_new_br5 | clip<br>cement<br>define<br>illness<br>swarm |  
-| bip_39_word_new_br6 | clip<br>cement<br>define<br>illness<br>swarm<br>also |  
-| bip_39_word_new_br7 | clip<br>cement<br>define<br>illness<br>swarm<br>also<br>dumb |  
-| bip_39_word_new_br8 | clip<br>cement<br>define<br>illness<br>swarm<br>also<br>dumb<br>spirit |  
-| bip_39_word_new_br9 | clip<br>cement<br>define<br>illness<br>swarm<br>also<br>dumb<br>spirit<br>orange |  
-| bip_39_word_new_line1 | clip |  
-| bip_39_word_new_line10 | clip
+| bip_39_word_new_br_1 | clip |  
+| bip_39_word_new_br_10 | clip<br>cement<br>define<br>illness<br>swarm<br>also<br>dumb<br>spirit<br>orange<br>genuine |  
+| bip_39_word_new_br_11 | clip<br>cement<br>define<br>illness<br>swarm<br>also<br>dumb<br>spirit<br>orange<br>genuine<br>veteran |  
+| bip_39_word_new_br_12 | clip<br>cement<br>define<br>illness<br>swarm<br>also<br>dumb<br>spirit<br>orange<br>genuine<br>veteran<br>auction |  
+| bip_39_word_new_br_2 | clip<br>cement |  
+| bip_39_word_new_br_3 | clip<br>cement<br>define |  
+| bip_39_word_new_br_4 | clip<br>cement<br>define<br>illness |  
+| bip_39_word_new_br_5 | clip<br>cement<br>define<br>illness<br>swarm |  
+| bip_39_word_new_br_6 | clip<br>cement<br>define<br>illness<br>swarm<br>also |  
+| bip_39_word_new_br_7 | clip<br>cement<br>define<br>illness<br>swarm<br>also<br>dumb |  
+| bip_39_word_new_br_8 | clip<br>cement<br>define<br>illness<br>swarm<br>also<br>dumb<br>spirit |  
+| bip_39_word_new_br_9 | clip<br>cement<br>define<br>illness<br>swarm<br>also<br>dumb<br>spirit<br>orange |  
+| bip_39_word_new_line_1 | clip |  
+| bip_39_word_new_line_10 | clip
 cement
 define
 illness
@@ -55,7 +55,7 @@ dumb
 spirit
 orange
 genuine |  
-| bip_39_word_new_line11 | clip
+| bip_39_word_new_line_11 | clip
 cement
 define
 illness
@@ -66,7 +66,7 @@ spirit
 orange
 genuine
 veteran |  
-| bip_39_word_new_line12 | clip
+| bip_39_word_new_line_12 | clip
 cement
 define
 illness
@@ -78,34 +78,34 @@ orange
 genuine
 veteran
 auction |  
-| bip_39_word_new_line2 | clip
+| bip_39_word_new_line_2 | clip
 cement |  
-| bip_39_word_new_line3 | clip
+| bip_39_word_new_line_3 | clip
 cement
 define |  
-| bip_39_word_new_line4 | clip
+| bip_39_word_new_line_4 | clip
 cement
 define
 illness |  
-| bip_39_word_new_line5 | clip
+| bip_39_word_new_line_5 | clip
 cement
 define
 illness
 swarm |  
-| bip_39_word_new_line6 | clip
+| bip_39_word_new_line_6 | clip
 cement
 define
 illness
 swarm
 also |  
-| bip_39_word_new_line7 | clip
+| bip_39_word_new_line_7 | clip
 cement
 define
 illness
 swarm
 also
 dumb |  
-| bip_39_word_new_line8 | clip
+| bip_39_word_new_line_8 | clip
 cement
 define
 illness
@@ -113,7 +113,7 @@ swarm
 also
 dumb
 spirit |  
-| bip_39_word_new_line9 | clip
+| bip_39_word_new_line_9 | clip
 cement
 define
 illness

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | manual |  
-| bip_39_word_new_br10 | manual<br>attend<br>model<br>exile<br>version<br>fuel<br>little<br>shoe<br>slice<br>shell |  
-| bip_39_word_new_br11 | manual<br>attend<br>model<br>exile<br>version<br>fuel<br>little<br>shoe<br>slice<br>shell<br>glad |  
-| bip_39_word_new_br12 | manual<br>attend<br>model<br>exile<br>version<br>fuel<br>little<br>shoe<br>slice<br>shell<br>glad<br>adapt |  
-| bip_39_word_new_br2 | manual<br>attend |  
-| bip_39_word_new_br3 | manual<br>attend<br>model |  
-| bip_39_word_new_br4 | manual<br>attend<br>model<br>exile |  
-| bip_39_word_new_br5 | manual<br>attend<br>model<br>exile<br>version |  
-| bip_39_word_new_br6 | manual<br>attend<br>model<br>exile<br>version<br>fuel |  
-| bip_39_word_new_br7 | manual<br>attend<br>model<br>exile<br>version<br>fuel<br>little |  
-| bip_39_word_new_br8 | manual<br>attend<br>model<br>exile<br>version<br>fuel<br>little<br>shoe |  
-| bip_39_word_new_br9 | manual<br>attend<br>model<br>exile<br>version<br>fuel<br>little<br>shoe<br>slice |  
-| bip_39_word_new_line1 | manual |  
-| bip_39_word_new_line10 | manual
+| bip_39_word_new_br_1 | manual |  
+| bip_39_word_new_br_10 | manual<br>attend<br>model<br>exile<br>version<br>fuel<br>little<br>shoe<br>slice<br>shell |  
+| bip_39_word_new_br_11 | manual<br>attend<br>model<br>exile<br>version<br>fuel<br>little<br>shoe<br>slice<br>shell<br>glad |  
+| bip_39_word_new_br_12 | manual<br>attend<br>model<br>exile<br>version<br>fuel<br>little<br>shoe<br>slice<br>shell<br>glad<br>adapt |  
+| bip_39_word_new_br_2 | manual<br>attend |  
+| bip_39_word_new_br_3 | manual<br>attend<br>model |  
+| bip_39_word_new_br_4 | manual<br>attend<br>model<br>exile |  
+| bip_39_word_new_br_5 | manual<br>attend<br>model<br>exile<br>version |  
+| bip_39_word_new_br_6 | manual<br>attend<br>model<br>exile<br>version<br>fuel |  
+| bip_39_word_new_br_7 | manual<br>attend<br>model<br>exile<br>version<br>fuel<br>little |  
+| bip_39_word_new_br_8 | manual<br>attend<br>model<br>exile<br>version<br>fuel<br>little<br>shoe |  
+| bip_39_word_new_br_9 | manual<br>attend<br>model<br>exile<br>version<br>fuel<br>little<br>shoe<br>slice |  
+| bip_39_word_new_line_1 | manual |  
+| bip_39_word_new_line_10 | manual
 attend
 model
 exile
@@ -55,7 +55,7 @@ little
 shoe
 slice
 shell |  
-| bip_39_word_new_line11 | manual
+| bip_39_word_new_line_11 | manual
 attend
 model
 exile
@@ -66,7 +66,7 @@ shoe
 slice
 shell
 glad |  
-| bip_39_word_new_line12 | manual
+| bip_39_word_new_line_12 | manual
 attend
 model
 exile
@@ -78,34 +78,34 @@ slice
 shell
 glad
 adapt |  
-| bip_39_word_new_line2 | manual
+| bip_39_word_new_line_2 | manual
 attend |  
-| bip_39_word_new_line3 | manual
+| bip_39_word_new_line_3 | manual
 attend
 model |  
-| bip_39_word_new_line4 | manual
+| bip_39_word_new_line_4 | manual
 attend
 model
 exile |  
-| bip_39_word_new_line5 | manual
+| bip_39_word_new_line_5 | manual
 attend
 model
 exile
 version |  
-| bip_39_word_new_line6 | manual
+| bip_39_word_new_line_6 | manual
 attend
 model
 exile
 version
 fuel |  
-| bip_39_word_new_line7 | manual
+| bip_39_word_new_line_7 | manual
 attend
 model
 exile
 version
 fuel
 little |  
-| bip_39_word_new_line8 | manual
+| bip_39_word_new_line_8 | manual
 attend
 model
 exile
@@ -113,7 +113,7 @@ version
 fuel
 little
 shoe |  
-| bip_39_word_new_line9 | manual
+| bip_39_word_new_line_9 | manual
 attend
 model
 exile

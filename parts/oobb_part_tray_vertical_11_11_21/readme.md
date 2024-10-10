@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | caution |  
-| bip_39_word_new_br10 | caution<br>remain<br>horror<br>cat<br>cupboard<br>open<br>flat<br>worth<br>lounge<br>slender |  
-| bip_39_word_new_br11 | caution<br>remain<br>horror<br>cat<br>cupboard<br>open<br>flat<br>worth<br>lounge<br>slender<br>check |  
-| bip_39_word_new_br12 | caution<br>remain<br>horror<br>cat<br>cupboard<br>open<br>flat<br>worth<br>lounge<br>slender<br>check<br>attitude |  
-| bip_39_word_new_br2 | caution<br>remain |  
-| bip_39_word_new_br3 | caution<br>remain<br>horror |  
-| bip_39_word_new_br4 | caution<br>remain<br>horror<br>cat |  
-| bip_39_word_new_br5 | caution<br>remain<br>horror<br>cat<br>cupboard |  
-| bip_39_word_new_br6 | caution<br>remain<br>horror<br>cat<br>cupboard<br>open |  
-| bip_39_word_new_br7 | caution<br>remain<br>horror<br>cat<br>cupboard<br>open<br>flat |  
-| bip_39_word_new_br8 | caution<br>remain<br>horror<br>cat<br>cupboard<br>open<br>flat<br>worth |  
-| bip_39_word_new_br9 | caution<br>remain<br>horror<br>cat<br>cupboard<br>open<br>flat<br>worth<br>lounge |  
-| bip_39_word_new_line1 | caution |  
-| bip_39_word_new_line10 | caution
+| bip_39_word_new_br_1 | caution |  
+| bip_39_word_new_br_10 | caution<br>remain<br>horror<br>cat<br>cupboard<br>open<br>flat<br>worth<br>lounge<br>slender |  
+| bip_39_word_new_br_11 | caution<br>remain<br>horror<br>cat<br>cupboard<br>open<br>flat<br>worth<br>lounge<br>slender<br>check |  
+| bip_39_word_new_br_12 | caution<br>remain<br>horror<br>cat<br>cupboard<br>open<br>flat<br>worth<br>lounge<br>slender<br>check<br>attitude |  
+| bip_39_word_new_br_2 | caution<br>remain |  
+| bip_39_word_new_br_3 | caution<br>remain<br>horror |  
+| bip_39_word_new_br_4 | caution<br>remain<br>horror<br>cat |  
+| bip_39_word_new_br_5 | caution<br>remain<br>horror<br>cat<br>cupboard |  
+| bip_39_word_new_br_6 | caution<br>remain<br>horror<br>cat<br>cupboard<br>open |  
+| bip_39_word_new_br_7 | caution<br>remain<br>horror<br>cat<br>cupboard<br>open<br>flat |  
+| bip_39_word_new_br_8 | caution<br>remain<br>horror<br>cat<br>cupboard<br>open<br>flat<br>worth |  
+| bip_39_word_new_br_9 | caution<br>remain<br>horror<br>cat<br>cupboard<br>open<br>flat<br>worth<br>lounge |  
+| bip_39_word_new_line_1 | caution |  
+| bip_39_word_new_line_10 | caution
 remain
 horror
 cat
@@ -55,7 +55,7 @@ flat
 worth
 lounge
 slender |  
-| bip_39_word_new_line11 | caution
+| bip_39_word_new_line_11 | caution
 remain
 horror
 cat
@@ -66,7 +66,7 @@ worth
 lounge
 slender
 check |  
-| bip_39_word_new_line12 | caution
+| bip_39_word_new_line_12 | caution
 remain
 horror
 cat
@@ -78,34 +78,34 @@ lounge
 slender
 check
 attitude |  
-| bip_39_word_new_line2 | caution
+| bip_39_word_new_line_2 | caution
 remain |  
-| bip_39_word_new_line3 | caution
+| bip_39_word_new_line_3 | caution
 remain
 horror |  
-| bip_39_word_new_line4 | caution
+| bip_39_word_new_line_4 | caution
 remain
 horror
 cat |  
-| bip_39_word_new_line5 | caution
+| bip_39_word_new_line_5 | caution
 remain
 horror
 cat
 cupboard |  
-| bip_39_word_new_line6 | caution
+| bip_39_word_new_line_6 | caution
 remain
 horror
 cat
 cupboard
 open |  
-| bip_39_word_new_line7 | caution
+| bip_39_word_new_line_7 | caution
 remain
 horror
 cat
 cupboard
 open
 flat |  
-| bip_39_word_new_line8 | caution
+| bip_39_word_new_line_8 | caution
 remain
 horror
 cat
@@ -113,7 +113,7 @@ cupboard
 open
 flat
 worth |  
-| bip_39_word_new_line9 | caution
+| bip_39_word_new_line_9 | caution
 remain
 horror
 cat

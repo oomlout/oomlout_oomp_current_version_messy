@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | tip |  
-| bip_39_word_new_br10 | tip<br>section<br>oyster<br>grass<br>left<br>end<br>slogan<br>sudden<br>slot<br>slush |  
-| bip_39_word_new_br11 | tip<br>section<br>oyster<br>grass<br>left<br>end<br>slogan<br>sudden<br>slot<br>slush<br>garage |  
-| bip_39_word_new_br12 | tip<br>section<br>oyster<br>grass<br>left<br>end<br>slogan<br>sudden<br>slot<br>slush<br>garage<br>amazing |  
-| bip_39_word_new_br2 | tip<br>section |  
-| bip_39_word_new_br3 | tip<br>section<br>oyster |  
-| bip_39_word_new_br4 | tip<br>section<br>oyster<br>grass |  
-| bip_39_word_new_br5 | tip<br>section<br>oyster<br>grass<br>left |  
-| bip_39_word_new_br6 | tip<br>section<br>oyster<br>grass<br>left<br>end |  
-| bip_39_word_new_br7 | tip<br>section<br>oyster<br>grass<br>left<br>end<br>slogan |  
-| bip_39_word_new_br8 | tip<br>section<br>oyster<br>grass<br>left<br>end<br>slogan<br>sudden |  
-| bip_39_word_new_br9 | tip<br>section<br>oyster<br>grass<br>left<br>end<br>slogan<br>sudden<br>slot |  
-| bip_39_word_new_line1 | tip |  
-| bip_39_word_new_line10 | tip
+| bip_39_word_new_br_1 | tip |  
+| bip_39_word_new_br_10 | tip<br>section<br>oyster<br>grass<br>left<br>end<br>slogan<br>sudden<br>slot<br>slush |  
+| bip_39_word_new_br_11 | tip<br>section<br>oyster<br>grass<br>left<br>end<br>slogan<br>sudden<br>slot<br>slush<br>garage |  
+| bip_39_word_new_br_12 | tip<br>section<br>oyster<br>grass<br>left<br>end<br>slogan<br>sudden<br>slot<br>slush<br>garage<br>amazing |  
+| bip_39_word_new_br_2 | tip<br>section |  
+| bip_39_word_new_br_3 | tip<br>section<br>oyster |  
+| bip_39_word_new_br_4 | tip<br>section<br>oyster<br>grass |  
+| bip_39_word_new_br_5 | tip<br>section<br>oyster<br>grass<br>left |  
+| bip_39_word_new_br_6 | tip<br>section<br>oyster<br>grass<br>left<br>end |  
+| bip_39_word_new_br_7 | tip<br>section<br>oyster<br>grass<br>left<br>end<br>slogan |  
+| bip_39_word_new_br_8 | tip<br>section<br>oyster<br>grass<br>left<br>end<br>slogan<br>sudden |  
+| bip_39_word_new_br_9 | tip<br>section<br>oyster<br>grass<br>left<br>end<br>slogan<br>sudden<br>slot |  
+| bip_39_word_new_line_1 | tip |  
+| bip_39_word_new_line_10 | tip
 section
 oyster
 grass
@@ -55,7 +55,7 @@ slogan
 sudden
 slot
 slush |  
-| bip_39_word_new_line11 | tip
+| bip_39_word_new_line_11 | tip
 section
 oyster
 grass
@@ -66,7 +66,7 @@ sudden
 slot
 slush
 garage |  
-| bip_39_word_new_line12 | tip
+| bip_39_word_new_line_12 | tip
 section
 oyster
 grass
@@ -78,34 +78,34 @@ slot
 slush
 garage
 amazing |  
-| bip_39_word_new_line2 | tip
+| bip_39_word_new_line_2 | tip
 section |  
-| bip_39_word_new_line3 | tip
+| bip_39_word_new_line_3 | tip
 section
 oyster |  
-| bip_39_word_new_line4 | tip
+| bip_39_word_new_line_4 | tip
 section
 oyster
 grass |  
-| bip_39_word_new_line5 | tip
+| bip_39_word_new_line_5 | tip
 section
 oyster
 grass
 left |  
-| bip_39_word_new_line6 | tip
+| bip_39_word_new_line_6 | tip
 section
 oyster
 grass
 left
 end |  
-| bip_39_word_new_line7 | tip
+| bip_39_word_new_line_7 | tip
 section
 oyster
 grass
 left
 end
 slogan |  
-| bip_39_word_new_line8 | tip
+| bip_39_word_new_line_8 | tip
 section
 oyster
 grass
@@ -113,7 +113,7 @@ left
 end
 slogan
 sudden |  
-| bip_39_word_new_line9 | tip
+| bip_39_word_new_line_9 | tip
 section
 oyster
 grass

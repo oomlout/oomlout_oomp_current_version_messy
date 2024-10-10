@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | motor |  
-| bip_39_word_new_br10 | motor<br>sick<br>adult<br>casino<br>thing<br>quality<br>year<br>visa<br>advance<br>royal |  
-| bip_39_word_new_br11 | motor<br>sick<br>adult<br>casino<br>thing<br>quality<br>year<br>visa<br>advance<br>royal<br>elbow |  
-| bip_39_word_new_br12 | motor<br>sick<br>adult<br>casino<br>thing<br>quality<br>year<br>visa<br>advance<br>royal<br>elbow<br>asset |  
-| bip_39_word_new_br2 | motor<br>sick |  
-| bip_39_word_new_br3 | motor<br>sick<br>adult |  
-| bip_39_word_new_br4 | motor<br>sick<br>adult<br>casino |  
-| bip_39_word_new_br5 | motor<br>sick<br>adult<br>casino<br>thing |  
-| bip_39_word_new_br6 | motor<br>sick<br>adult<br>casino<br>thing<br>quality |  
-| bip_39_word_new_br7 | motor<br>sick<br>adult<br>casino<br>thing<br>quality<br>year |  
-| bip_39_word_new_br8 | motor<br>sick<br>adult<br>casino<br>thing<br>quality<br>year<br>visa |  
-| bip_39_word_new_br9 | motor<br>sick<br>adult<br>casino<br>thing<br>quality<br>year<br>visa<br>advance |  
-| bip_39_word_new_line1 | motor |  
-| bip_39_word_new_line10 | motor
+| bip_39_word_new_br_1 | motor |  
+| bip_39_word_new_br_10 | motor<br>sick<br>adult<br>casino<br>thing<br>quality<br>year<br>visa<br>advance<br>royal |  
+| bip_39_word_new_br_11 | motor<br>sick<br>adult<br>casino<br>thing<br>quality<br>year<br>visa<br>advance<br>royal<br>elbow |  
+| bip_39_word_new_br_12 | motor<br>sick<br>adult<br>casino<br>thing<br>quality<br>year<br>visa<br>advance<br>royal<br>elbow<br>asset |  
+| bip_39_word_new_br_2 | motor<br>sick |  
+| bip_39_word_new_br_3 | motor<br>sick<br>adult |  
+| bip_39_word_new_br_4 | motor<br>sick<br>adult<br>casino |  
+| bip_39_word_new_br_5 | motor<br>sick<br>adult<br>casino<br>thing |  
+| bip_39_word_new_br_6 | motor<br>sick<br>adult<br>casino<br>thing<br>quality |  
+| bip_39_word_new_br_7 | motor<br>sick<br>adult<br>casino<br>thing<br>quality<br>year |  
+| bip_39_word_new_br_8 | motor<br>sick<br>adult<br>casino<br>thing<br>quality<br>year<br>visa |  
+| bip_39_word_new_br_9 | motor<br>sick<br>adult<br>casino<br>thing<br>quality<br>year<br>visa<br>advance |  
+| bip_39_word_new_line_1 | motor |  
+| bip_39_word_new_line_10 | motor
 sick
 adult
 casino
@@ -55,7 +55,7 @@ year
 visa
 advance
 royal |  
-| bip_39_word_new_line11 | motor
+| bip_39_word_new_line_11 | motor
 sick
 adult
 casino
@@ -66,7 +66,7 @@ visa
 advance
 royal
 elbow |  
-| bip_39_word_new_line12 | motor
+| bip_39_word_new_line_12 | motor
 sick
 adult
 casino
@@ -78,34 +78,34 @@ advance
 royal
 elbow
 asset |  
-| bip_39_word_new_line2 | motor
+| bip_39_word_new_line_2 | motor
 sick |  
-| bip_39_word_new_line3 | motor
+| bip_39_word_new_line_3 | motor
 sick
 adult |  
-| bip_39_word_new_line4 | motor
+| bip_39_word_new_line_4 | motor
 sick
 adult
 casino |  
-| bip_39_word_new_line5 | motor
+| bip_39_word_new_line_5 | motor
 sick
 adult
 casino
 thing |  
-| bip_39_word_new_line6 | motor
+| bip_39_word_new_line_6 | motor
 sick
 adult
 casino
 thing
 quality |  
-| bip_39_word_new_line7 | motor
+| bip_39_word_new_line_7 | motor
 sick
 adult
 casino
 thing
 quality
 year |  
-| bip_39_word_new_line8 | motor
+| bip_39_word_new_line_8 | motor
 sick
 adult
 casino
@@ -113,7 +113,7 @@ thing
 quality
 year
 visa |  
-| bip_39_word_new_line9 | motor
+| bip_39_word_new_line_9 | motor
 sick
 adult
 casino

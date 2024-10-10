@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fragile |  
-| bip_39_word_new_br10 | fragile<br>axis<br>rather<br>gym<br>pudding<br>hole<br>thank<br>magnet<br>display<br>shadow |  
-| bip_39_word_new_br11 | fragile<br>axis<br>rather<br>gym<br>pudding<br>hole<br>thank<br>magnet<br>display<br>shadow<br>prefer |  
-| bip_39_word_new_br12 | fragile<br>axis<br>rather<br>gym<br>pudding<br>hole<br>thank<br>magnet<br>display<br>shadow<br>prefer<br>add |  
-| bip_39_word_new_br2 | fragile<br>axis |  
-| bip_39_word_new_br3 | fragile<br>axis<br>rather |  
-| bip_39_word_new_br4 | fragile<br>axis<br>rather<br>gym |  
-| bip_39_word_new_br5 | fragile<br>axis<br>rather<br>gym<br>pudding |  
-| bip_39_word_new_br6 | fragile<br>axis<br>rather<br>gym<br>pudding<br>hole |  
-| bip_39_word_new_br7 | fragile<br>axis<br>rather<br>gym<br>pudding<br>hole<br>thank |  
-| bip_39_word_new_br8 | fragile<br>axis<br>rather<br>gym<br>pudding<br>hole<br>thank<br>magnet |  
-| bip_39_word_new_br9 | fragile<br>axis<br>rather<br>gym<br>pudding<br>hole<br>thank<br>magnet<br>display |  
-| bip_39_word_new_line1 | fragile |  
-| bip_39_word_new_line10 | fragile
+| bip_39_word_new_br_1 | fragile |  
+| bip_39_word_new_br_10 | fragile<br>axis<br>rather<br>gym<br>pudding<br>hole<br>thank<br>magnet<br>display<br>shadow |  
+| bip_39_word_new_br_11 | fragile<br>axis<br>rather<br>gym<br>pudding<br>hole<br>thank<br>magnet<br>display<br>shadow<br>prefer |  
+| bip_39_word_new_br_12 | fragile<br>axis<br>rather<br>gym<br>pudding<br>hole<br>thank<br>magnet<br>display<br>shadow<br>prefer<br>add |  
+| bip_39_word_new_br_2 | fragile<br>axis |  
+| bip_39_word_new_br_3 | fragile<br>axis<br>rather |  
+| bip_39_word_new_br_4 | fragile<br>axis<br>rather<br>gym |  
+| bip_39_word_new_br_5 | fragile<br>axis<br>rather<br>gym<br>pudding |  
+| bip_39_word_new_br_6 | fragile<br>axis<br>rather<br>gym<br>pudding<br>hole |  
+| bip_39_word_new_br_7 | fragile<br>axis<br>rather<br>gym<br>pudding<br>hole<br>thank |  
+| bip_39_word_new_br_8 | fragile<br>axis<br>rather<br>gym<br>pudding<br>hole<br>thank<br>magnet |  
+| bip_39_word_new_br_9 | fragile<br>axis<br>rather<br>gym<br>pudding<br>hole<br>thank<br>magnet<br>display |  
+| bip_39_word_new_line_1 | fragile |  
+| bip_39_word_new_line_10 | fragile
 axis
 rather
 gym
@@ -55,7 +55,7 @@ thank
 magnet
 display
 shadow |  
-| bip_39_word_new_line11 | fragile
+| bip_39_word_new_line_11 | fragile
 axis
 rather
 gym
@@ -66,7 +66,7 @@ magnet
 display
 shadow
 prefer |  
-| bip_39_word_new_line12 | fragile
+| bip_39_word_new_line_12 | fragile
 axis
 rather
 gym
@@ -78,34 +78,34 @@ display
 shadow
 prefer
 add |  
-| bip_39_word_new_line2 | fragile
+| bip_39_word_new_line_2 | fragile
 axis |  
-| bip_39_word_new_line3 | fragile
+| bip_39_word_new_line_3 | fragile
 axis
 rather |  
-| bip_39_word_new_line4 | fragile
+| bip_39_word_new_line_4 | fragile
 axis
 rather
 gym |  
-| bip_39_word_new_line5 | fragile
+| bip_39_word_new_line_5 | fragile
 axis
 rather
 gym
 pudding |  
-| bip_39_word_new_line6 | fragile
+| bip_39_word_new_line_6 | fragile
 axis
 rather
 gym
 pudding
 hole |  
-| bip_39_word_new_line7 | fragile
+| bip_39_word_new_line_7 | fragile
 axis
 rather
 gym
 pudding
 hole
 thank |  
-| bip_39_word_new_line8 | fragile
+| bip_39_word_new_line_8 | fragile
 axis
 rather
 gym
@@ -113,7 +113,7 @@ pudding
 hole
 thank
 magnet |  
-| bip_39_word_new_line9 | fragile
+| bip_39_word_new_line_9 | fragile
 axis
 rather
 gym

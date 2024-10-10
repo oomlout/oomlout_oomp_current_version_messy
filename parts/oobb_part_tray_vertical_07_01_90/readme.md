@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | upgrade |  
-| bip_39_word_new_br10 | upgrade<br>wasp<br>weapon<br>advice<br>lend<br>midnight<br>game<br>latin<br>bird<br>dish |  
-| bip_39_word_new_br11 | upgrade<br>wasp<br>weapon<br>advice<br>lend<br>midnight<br>game<br>latin<br>bird<br>dish<br>diamond |  
-| bip_39_word_new_br12 | upgrade<br>wasp<br>weapon<br>advice<br>lend<br>midnight<br>game<br>latin<br>bird<br>dish<br>diamond<br>add |  
-| bip_39_word_new_br2 | upgrade<br>wasp |  
-| bip_39_word_new_br3 | upgrade<br>wasp<br>weapon |  
-| bip_39_word_new_br4 | upgrade<br>wasp<br>weapon<br>advice |  
-| bip_39_word_new_br5 | upgrade<br>wasp<br>weapon<br>advice<br>lend |  
-| bip_39_word_new_br6 | upgrade<br>wasp<br>weapon<br>advice<br>lend<br>midnight |  
-| bip_39_word_new_br7 | upgrade<br>wasp<br>weapon<br>advice<br>lend<br>midnight<br>game |  
-| bip_39_word_new_br8 | upgrade<br>wasp<br>weapon<br>advice<br>lend<br>midnight<br>game<br>latin |  
-| bip_39_word_new_br9 | upgrade<br>wasp<br>weapon<br>advice<br>lend<br>midnight<br>game<br>latin<br>bird |  
-| bip_39_word_new_line1 | upgrade |  
-| bip_39_word_new_line10 | upgrade
+| bip_39_word_new_br_1 | upgrade |  
+| bip_39_word_new_br_10 | upgrade<br>wasp<br>weapon<br>advice<br>lend<br>midnight<br>game<br>latin<br>bird<br>dish |  
+| bip_39_word_new_br_11 | upgrade<br>wasp<br>weapon<br>advice<br>lend<br>midnight<br>game<br>latin<br>bird<br>dish<br>diamond |  
+| bip_39_word_new_br_12 | upgrade<br>wasp<br>weapon<br>advice<br>lend<br>midnight<br>game<br>latin<br>bird<br>dish<br>diamond<br>add |  
+| bip_39_word_new_br_2 | upgrade<br>wasp |  
+| bip_39_word_new_br_3 | upgrade<br>wasp<br>weapon |  
+| bip_39_word_new_br_4 | upgrade<br>wasp<br>weapon<br>advice |  
+| bip_39_word_new_br_5 | upgrade<br>wasp<br>weapon<br>advice<br>lend |  
+| bip_39_word_new_br_6 | upgrade<br>wasp<br>weapon<br>advice<br>lend<br>midnight |  
+| bip_39_word_new_br_7 | upgrade<br>wasp<br>weapon<br>advice<br>lend<br>midnight<br>game |  
+| bip_39_word_new_br_8 | upgrade<br>wasp<br>weapon<br>advice<br>lend<br>midnight<br>game<br>latin |  
+| bip_39_word_new_br_9 | upgrade<br>wasp<br>weapon<br>advice<br>lend<br>midnight<br>game<br>latin<br>bird |  
+| bip_39_word_new_line_1 | upgrade |  
+| bip_39_word_new_line_10 | upgrade
 wasp
 weapon
 advice
@@ -55,7 +55,7 @@ game
 latin
 bird
 dish |  
-| bip_39_word_new_line11 | upgrade
+| bip_39_word_new_line_11 | upgrade
 wasp
 weapon
 advice
@@ -66,7 +66,7 @@ latin
 bird
 dish
 diamond |  
-| bip_39_word_new_line12 | upgrade
+| bip_39_word_new_line_12 | upgrade
 wasp
 weapon
 advice
@@ -78,34 +78,34 @@ bird
 dish
 diamond
 add |  
-| bip_39_word_new_line2 | upgrade
+| bip_39_word_new_line_2 | upgrade
 wasp |  
-| bip_39_word_new_line3 | upgrade
+| bip_39_word_new_line_3 | upgrade
 wasp
 weapon |  
-| bip_39_word_new_line4 | upgrade
+| bip_39_word_new_line_4 | upgrade
 wasp
 weapon
 advice |  
-| bip_39_word_new_line5 | upgrade
+| bip_39_word_new_line_5 | upgrade
 wasp
 weapon
 advice
 lend |  
-| bip_39_word_new_line6 | upgrade
+| bip_39_word_new_line_6 | upgrade
 wasp
 weapon
 advice
 lend
 midnight |  
-| bip_39_word_new_line7 | upgrade
+| bip_39_word_new_line_7 | upgrade
 wasp
 weapon
 advice
 lend
 midnight
 game |  
-| bip_39_word_new_line8 | upgrade
+| bip_39_word_new_line_8 | upgrade
 wasp
 weapon
 advice
@@ -113,7 +113,7 @@ lend
 midnight
 game
 latin |  
-| bip_39_word_new_line9 | upgrade
+| bip_39_word_new_line_9 | upgrade
 wasp
 weapon
 advice

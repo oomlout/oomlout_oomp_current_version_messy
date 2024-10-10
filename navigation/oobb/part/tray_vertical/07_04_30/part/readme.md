@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | entry |  
-| bip_39_word_new_br10 | entry<br>math<br>camera<br>matter<br>able<br>utility<br>divert<br>mushroom<br>error<br>open |  
-| bip_39_word_new_br11 | entry<br>math<br>camera<br>matter<br>able<br>utility<br>divert<br>mushroom<br>error<br>open<br>social |  
-| bip_39_word_new_br12 | entry<br>math<br>camera<br>matter<br>able<br>utility<br>divert<br>mushroom<br>error<br>open<br>social<br>among |  
-| bip_39_word_new_br2 | entry<br>math |  
-| bip_39_word_new_br3 | entry<br>math<br>camera |  
-| bip_39_word_new_br4 | entry<br>math<br>camera<br>matter |  
-| bip_39_word_new_br5 | entry<br>math<br>camera<br>matter<br>able |  
-| bip_39_word_new_br6 | entry<br>math<br>camera<br>matter<br>able<br>utility |  
-| bip_39_word_new_br7 | entry<br>math<br>camera<br>matter<br>able<br>utility<br>divert |  
-| bip_39_word_new_br8 | entry<br>math<br>camera<br>matter<br>able<br>utility<br>divert<br>mushroom |  
-| bip_39_word_new_br9 | entry<br>math<br>camera<br>matter<br>able<br>utility<br>divert<br>mushroom<br>error |  
-| bip_39_word_new_line1 | entry |  
-| bip_39_word_new_line10 | entry
+| bip_39_word_new_br_1 | entry |  
+| bip_39_word_new_br_10 | entry<br>math<br>camera<br>matter<br>able<br>utility<br>divert<br>mushroom<br>error<br>open |  
+| bip_39_word_new_br_11 | entry<br>math<br>camera<br>matter<br>able<br>utility<br>divert<br>mushroom<br>error<br>open<br>social |  
+| bip_39_word_new_br_12 | entry<br>math<br>camera<br>matter<br>able<br>utility<br>divert<br>mushroom<br>error<br>open<br>social<br>among |  
+| bip_39_word_new_br_2 | entry<br>math |  
+| bip_39_word_new_br_3 | entry<br>math<br>camera |  
+| bip_39_word_new_br_4 | entry<br>math<br>camera<br>matter |  
+| bip_39_word_new_br_5 | entry<br>math<br>camera<br>matter<br>able |  
+| bip_39_word_new_br_6 | entry<br>math<br>camera<br>matter<br>able<br>utility |  
+| bip_39_word_new_br_7 | entry<br>math<br>camera<br>matter<br>able<br>utility<br>divert |  
+| bip_39_word_new_br_8 | entry<br>math<br>camera<br>matter<br>able<br>utility<br>divert<br>mushroom |  
+| bip_39_word_new_br_9 | entry<br>math<br>camera<br>matter<br>able<br>utility<br>divert<br>mushroom<br>error |  
+| bip_39_word_new_line_1 | entry |  
+| bip_39_word_new_line_10 | entry
 math
 camera
 matter
@@ -55,7 +55,7 @@ divert
 mushroom
 error
 open |  
-| bip_39_word_new_line11 | entry
+| bip_39_word_new_line_11 | entry
 math
 camera
 matter
@@ -66,7 +66,7 @@ mushroom
 error
 open
 social |  
-| bip_39_word_new_line12 | entry
+| bip_39_word_new_line_12 | entry
 math
 camera
 matter
@@ -78,34 +78,34 @@ error
 open
 social
 among |  
-| bip_39_word_new_line2 | entry
+| bip_39_word_new_line_2 | entry
 math |  
-| bip_39_word_new_line3 | entry
+| bip_39_word_new_line_3 | entry
 math
 camera |  
-| bip_39_word_new_line4 | entry
+| bip_39_word_new_line_4 | entry
 math
 camera
 matter |  
-| bip_39_word_new_line5 | entry
+| bip_39_word_new_line_5 | entry
 math
 camera
 matter
 able |  
-| bip_39_word_new_line6 | entry
+| bip_39_word_new_line_6 | entry
 math
 camera
 matter
 able
 utility |  
-| bip_39_word_new_line7 | entry
+| bip_39_word_new_line_7 | entry
 math
 camera
 matter
 able
 utility
 divert |  
-| bip_39_word_new_line8 | entry
+| bip_39_word_new_line_8 | entry
 math
 camera
 matter
@@ -113,7 +113,7 @@ able
 utility
 divert
 mushroom |  
-| bip_39_word_new_line9 | entry
+| bip_39_word_new_line_9 | entry
 math
 camera
 matter

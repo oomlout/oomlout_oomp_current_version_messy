@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | false |  
-| bip_39_word_new_br10 | false<br>endless<br>setup<br>put<br>theme<br>fabric<br>cabbage<br>repair<br>boat<br>modify |  
-| bip_39_word_new_br11 | false<br>endless<br>setup<br>put<br>theme<br>fabric<br>cabbage<br>repair<br>boat<br>modify<br>change |  
-| bip_39_word_new_br12 | false<br>endless<br>setup<br>put<br>theme<br>fabric<br>cabbage<br>repair<br>boat<br>modify<br>change<br>afford |  
-| bip_39_word_new_br2 | false<br>endless |  
-| bip_39_word_new_br3 | false<br>endless<br>setup |  
-| bip_39_word_new_br4 | false<br>endless<br>setup<br>put |  
-| bip_39_word_new_br5 | false<br>endless<br>setup<br>put<br>theme |  
-| bip_39_word_new_br6 | false<br>endless<br>setup<br>put<br>theme<br>fabric |  
-| bip_39_word_new_br7 | false<br>endless<br>setup<br>put<br>theme<br>fabric<br>cabbage |  
-| bip_39_word_new_br8 | false<br>endless<br>setup<br>put<br>theme<br>fabric<br>cabbage<br>repair |  
-| bip_39_word_new_br9 | false<br>endless<br>setup<br>put<br>theme<br>fabric<br>cabbage<br>repair<br>boat |  
-| bip_39_word_new_line1 | false |  
-| bip_39_word_new_line10 | false
+| bip_39_word_new_br_1 | false |  
+| bip_39_word_new_br_10 | false<br>endless<br>setup<br>put<br>theme<br>fabric<br>cabbage<br>repair<br>boat<br>modify |  
+| bip_39_word_new_br_11 | false<br>endless<br>setup<br>put<br>theme<br>fabric<br>cabbage<br>repair<br>boat<br>modify<br>change |  
+| bip_39_word_new_br_12 | false<br>endless<br>setup<br>put<br>theme<br>fabric<br>cabbage<br>repair<br>boat<br>modify<br>change<br>afford |  
+| bip_39_word_new_br_2 | false<br>endless |  
+| bip_39_word_new_br_3 | false<br>endless<br>setup |  
+| bip_39_word_new_br_4 | false<br>endless<br>setup<br>put |  
+| bip_39_word_new_br_5 | false<br>endless<br>setup<br>put<br>theme |  
+| bip_39_word_new_br_6 | false<br>endless<br>setup<br>put<br>theme<br>fabric |  
+| bip_39_word_new_br_7 | false<br>endless<br>setup<br>put<br>theme<br>fabric<br>cabbage |  
+| bip_39_word_new_br_8 | false<br>endless<br>setup<br>put<br>theme<br>fabric<br>cabbage<br>repair |  
+| bip_39_word_new_br_9 | false<br>endless<br>setup<br>put<br>theme<br>fabric<br>cabbage<br>repair<br>boat |  
+| bip_39_word_new_line_1 | false |  
+| bip_39_word_new_line_10 | false
 endless
 setup
 put
@@ -55,7 +55,7 @@ cabbage
 repair
 boat
 modify |  
-| bip_39_word_new_line11 | false
+| bip_39_word_new_line_11 | false
 endless
 setup
 put
@@ -66,7 +66,7 @@ repair
 boat
 modify
 change |  
-| bip_39_word_new_line12 | false
+| bip_39_word_new_line_12 | false
 endless
 setup
 put
@@ -78,34 +78,34 @@ boat
 modify
 change
 afford |  
-| bip_39_word_new_line2 | false
+| bip_39_word_new_line_2 | false
 endless |  
-| bip_39_word_new_line3 | false
+| bip_39_word_new_line_3 | false
 endless
 setup |  
-| bip_39_word_new_line4 | false
+| bip_39_word_new_line_4 | false
 endless
 setup
 put |  
-| bip_39_word_new_line5 | false
+| bip_39_word_new_line_5 | false
 endless
 setup
 put
 theme |  
-| bip_39_word_new_line6 | false
+| bip_39_word_new_line_6 | false
 endless
 setup
 put
 theme
 fabric |  
-| bip_39_word_new_line7 | false
+| bip_39_word_new_line_7 | false
 endless
 setup
 put
 theme
 fabric
 cabbage |  
-| bip_39_word_new_line8 | false
+| bip_39_word_new_line_8 | false
 endless
 setup
 put
@@ -113,7 +113,7 @@ theme
 fabric
 cabbage
 repair |  
-| bip_39_word_new_line9 | false
+| bip_39_word_new_line_9 | false
 endless
 setup
 put

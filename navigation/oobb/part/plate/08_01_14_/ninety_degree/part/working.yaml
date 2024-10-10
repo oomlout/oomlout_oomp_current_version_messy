@@ -1,17 +1,17 @@
-bip_39_word_new_br1: fury
-bip_39_word_new_br10: fury<br>solid<br>million<br>nice<br>network<br>aunt<br>kidney<br>wide<br>welcome<br>now
-bip_39_word_new_br11: fury<br>solid<br>million<br>nice<br>network<br>aunt<br>kidney<br>wide<br>welcome<br>now<br>glue
-bip_39_word_new_br12: fury<br>solid<br>million<br>nice<br>network<br>aunt<br>kidney<br>wide<br>welcome<br>now<br>glue<br>arctic
-bip_39_word_new_br2: fury<br>solid
-bip_39_word_new_br3: fury<br>solid<br>million
-bip_39_word_new_br4: fury<br>solid<br>million<br>nice
-bip_39_word_new_br5: fury<br>solid<br>million<br>nice<br>network
-bip_39_word_new_br6: fury<br>solid<br>million<br>nice<br>network<br>aunt
-bip_39_word_new_br7: fury<br>solid<br>million<br>nice<br>network<br>aunt<br>kidney
-bip_39_word_new_br8: fury<br>solid<br>million<br>nice<br>network<br>aunt<br>kidney<br>wide
-bip_39_word_new_br9: fury<br>solid<br>million<br>nice<br>network<br>aunt<br>kidney<br>wide<br>welcome
-bip_39_word_new_line1: fury
-bip_39_word_new_line10: 'fury
+bip_39_word_new_br_1: fury
+bip_39_word_new_br_10: fury<br>solid<br>million<br>nice<br>network<br>aunt<br>kidney<br>wide<br>welcome<br>now
+bip_39_word_new_br_11: fury<br>solid<br>million<br>nice<br>network<br>aunt<br>kidney<br>wide<br>welcome<br>now<br>glue
+bip_39_word_new_br_12: fury<br>solid<br>million<br>nice<br>network<br>aunt<br>kidney<br>wide<br>welcome<br>now<br>glue<br>arctic
+bip_39_word_new_br_2: fury<br>solid
+bip_39_word_new_br_3: fury<br>solid<br>million
+bip_39_word_new_br_4: fury<br>solid<br>million<br>nice
+bip_39_word_new_br_5: fury<br>solid<br>million<br>nice<br>network
+bip_39_word_new_br_6: fury<br>solid<br>million<br>nice<br>network<br>aunt
+bip_39_word_new_br_7: fury<br>solid<br>million<br>nice<br>network<br>aunt<br>kidney
+bip_39_word_new_br_8: fury<br>solid<br>million<br>nice<br>network<br>aunt<br>kidney<br>wide
+bip_39_word_new_br_9: fury<br>solid<br>million<br>nice<br>network<br>aunt<br>kidney<br>wide<br>welcome
+bip_39_word_new_line_1: fury
+bip_39_word_new_line_10: 'fury
 
   solid
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'fury
   welcome
 
   now'
-bip_39_word_new_line11: 'fury
+bip_39_word_new_line_11: 'fury
 
   solid
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'fury
   now
 
   glue'
-bip_39_word_new_line12: 'fury
+bip_39_word_new_line_12: 'fury
 
   solid
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'fury
   glue
 
   arctic'
-bip_39_word_new_line2: 'fury
+bip_39_word_new_line_2: 'fury
 
   solid'
-bip_39_word_new_line3: 'fury
+bip_39_word_new_line_3: 'fury
 
   solid
 
   million'
-bip_39_word_new_line4: 'fury
+bip_39_word_new_line_4: 'fury
 
   solid
 
   million
 
   nice'
-bip_39_word_new_line5: 'fury
+bip_39_word_new_line_5: 'fury
 
   solid
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'fury
   nice
 
   network'
-bip_39_word_new_line6: 'fury
+bip_39_word_new_line_6: 'fury
 
   solid
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'fury
   network
 
   aunt'
-bip_39_word_new_line7: 'fury
+bip_39_word_new_line_7: 'fury
 
   solid
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'fury
   aunt
 
   kidney'
-bip_39_word_new_line8: 'fury
+bip_39_word_new_line_8: 'fury
 
   solid
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'fury
   kidney
 
   wide'
-bip_39_word_new_line9: 'fury
+bip_39_word_new_line_9: 'fury
 
   solid
 

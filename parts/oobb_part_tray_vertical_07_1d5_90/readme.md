@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | spring |  
-| bip_39_word_new_br10 | spring<br>black<br>giggle<br>bus<br>answer<br>cargo<br>order<br>cruel<br>space<br>virtual |  
-| bip_39_word_new_br11 | spring<br>black<br>giggle<br>bus<br>answer<br>cargo<br>order<br>cruel<br>space<br>virtual<br>high |  
-| bip_39_word_new_br12 | spring<br>black<br>giggle<br>bus<br>answer<br>cargo<br>order<br>cruel<br>space<br>virtual<br>high<br>ankle |  
-| bip_39_word_new_br2 | spring<br>black |  
-| bip_39_word_new_br3 | spring<br>black<br>giggle |  
-| bip_39_word_new_br4 | spring<br>black<br>giggle<br>bus |  
-| bip_39_word_new_br5 | spring<br>black<br>giggle<br>bus<br>answer |  
-| bip_39_word_new_br6 | spring<br>black<br>giggle<br>bus<br>answer<br>cargo |  
-| bip_39_word_new_br7 | spring<br>black<br>giggle<br>bus<br>answer<br>cargo<br>order |  
-| bip_39_word_new_br8 | spring<br>black<br>giggle<br>bus<br>answer<br>cargo<br>order<br>cruel |  
-| bip_39_word_new_br9 | spring<br>black<br>giggle<br>bus<br>answer<br>cargo<br>order<br>cruel<br>space |  
-| bip_39_word_new_line1 | spring |  
-| bip_39_word_new_line10 | spring
+| bip_39_word_new_br_1 | spring |  
+| bip_39_word_new_br_10 | spring<br>black<br>giggle<br>bus<br>answer<br>cargo<br>order<br>cruel<br>space<br>virtual |  
+| bip_39_word_new_br_11 | spring<br>black<br>giggle<br>bus<br>answer<br>cargo<br>order<br>cruel<br>space<br>virtual<br>high |  
+| bip_39_word_new_br_12 | spring<br>black<br>giggle<br>bus<br>answer<br>cargo<br>order<br>cruel<br>space<br>virtual<br>high<br>ankle |  
+| bip_39_word_new_br_2 | spring<br>black |  
+| bip_39_word_new_br_3 | spring<br>black<br>giggle |  
+| bip_39_word_new_br_4 | spring<br>black<br>giggle<br>bus |  
+| bip_39_word_new_br_5 | spring<br>black<br>giggle<br>bus<br>answer |  
+| bip_39_word_new_br_6 | spring<br>black<br>giggle<br>bus<br>answer<br>cargo |  
+| bip_39_word_new_br_7 | spring<br>black<br>giggle<br>bus<br>answer<br>cargo<br>order |  
+| bip_39_word_new_br_8 | spring<br>black<br>giggle<br>bus<br>answer<br>cargo<br>order<br>cruel |  
+| bip_39_word_new_br_9 | spring<br>black<br>giggle<br>bus<br>answer<br>cargo<br>order<br>cruel<br>space |  
+| bip_39_word_new_line_1 | spring |  
+| bip_39_word_new_line_10 | spring
 black
 giggle
 bus
@@ -55,7 +55,7 @@ order
 cruel
 space
 virtual |  
-| bip_39_word_new_line11 | spring
+| bip_39_word_new_line_11 | spring
 black
 giggle
 bus
@@ -66,7 +66,7 @@ cruel
 space
 virtual
 high |  
-| bip_39_word_new_line12 | spring
+| bip_39_word_new_line_12 | spring
 black
 giggle
 bus
@@ -78,34 +78,34 @@ space
 virtual
 high
 ankle |  
-| bip_39_word_new_line2 | spring
+| bip_39_word_new_line_2 | spring
 black |  
-| bip_39_word_new_line3 | spring
+| bip_39_word_new_line_3 | spring
 black
 giggle |  
-| bip_39_word_new_line4 | spring
+| bip_39_word_new_line_4 | spring
 black
 giggle
 bus |  
-| bip_39_word_new_line5 | spring
+| bip_39_word_new_line_5 | spring
 black
 giggle
 bus
 answer |  
-| bip_39_word_new_line6 | spring
+| bip_39_word_new_line_6 | spring
 black
 giggle
 bus
 answer
 cargo |  
-| bip_39_word_new_line7 | spring
+| bip_39_word_new_line_7 | spring
 black
 giggle
 bus
 answer
 cargo
 order |  
-| bip_39_word_new_line8 | spring
+| bip_39_word_new_line_8 | spring
 black
 giggle
 bus
@@ -113,7 +113,7 @@ answer
 cargo
 order
 cruel |  
-| bip_39_word_new_line9 | spring
+| bip_39_word_new_line_9 | spring
 black
 giggle
 bus

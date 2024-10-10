@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | thunder |  
-| bip_39_word_new_br10 | thunder<br>patch<br>scare<br>odor<br>orphan<br>lounge<br>glide<br>hurry<br>output<br>boat |  
-| bip_39_word_new_br11 | thunder<br>patch<br>scare<br>odor<br>orphan<br>lounge<br>glide<br>hurry<br>output<br>boat<br>inject |  
-| bip_39_word_new_br12 | thunder<br>patch<br>scare<br>odor<br>orphan<br>lounge<br>glide<br>hurry<br>output<br>boat<br>inject<br>acoustic |  
-| bip_39_word_new_br2 | thunder<br>patch |  
-| bip_39_word_new_br3 | thunder<br>patch<br>scare |  
-| bip_39_word_new_br4 | thunder<br>patch<br>scare<br>odor |  
-| bip_39_word_new_br5 | thunder<br>patch<br>scare<br>odor<br>orphan |  
-| bip_39_word_new_br6 | thunder<br>patch<br>scare<br>odor<br>orphan<br>lounge |  
-| bip_39_word_new_br7 | thunder<br>patch<br>scare<br>odor<br>orphan<br>lounge<br>glide |  
-| bip_39_word_new_br8 | thunder<br>patch<br>scare<br>odor<br>orphan<br>lounge<br>glide<br>hurry |  
-| bip_39_word_new_br9 | thunder<br>patch<br>scare<br>odor<br>orphan<br>lounge<br>glide<br>hurry<br>output |  
-| bip_39_word_new_line1 | thunder |  
-| bip_39_word_new_line10 | thunder
+| bip_39_word_new_br_1 | thunder |  
+| bip_39_word_new_br_10 | thunder<br>patch<br>scare<br>odor<br>orphan<br>lounge<br>glide<br>hurry<br>output<br>boat |  
+| bip_39_word_new_br_11 | thunder<br>patch<br>scare<br>odor<br>orphan<br>lounge<br>glide<br>hurry<br>output<br>boat<br>inject |  
+| bip_39_word_new_br_12 | thunder<br>patch<br>scare<br>odor<br>orphan<br>lounge<br>glide<br>hurry<br>output<br>boat<br>inject<br>acoustic |  
+| bip_39_word_new_br_2 | thunder<br>patch |  
+| bip_39_word_new_br_3 | thunder<br>patch<br>scare |  
+| bip_39_word_new_br_4 | thunder<br>patch<br>scare<br>odor |  
+| bip_39_word_new_br_5 | thunder<br>patch<br>scare<br>odor<br>orphan |  
+| bip_39_word_new_br_6 | thunder<br>patch<br>scare<br>odor<br>orphan<br>lounge |  
+| bip_39_word_new_br_7 | thunder<br>patch<br>scare<br>odor<br>orphan<br>lounge<br>glide |  
+| bip_39_word_new_br_8 | thunder<br>patch<br>scare<br>odor<br>orphan<br>lounge<br>glide<br>hurry |  
+| bip_39_word_new_br_9 | thunder<br>patch<br>scare<br>odor<br>orphan<br>lounge<br>glide<br>hurry<br>output |  
+| bip_39_word_new_line_1 | thunder |  
+| bip_39_word_new_line_10 | thunder
 patch
 scare
 odor
@@ -55,7 +55,7 @@ glide
 hurry
 output
 boat |  
-| bip_39_word_new_line11 | thunder
+| bip_39_word_new_line_11 | thunder
 patch
 scare
 odor
@@ -66,7 +66,7 @@ hurry
 output
 boat
 inject |  
-| bip_39_word_new_line12 | thunder
+| bip_39_word_new_line_12 | thunder
 patch
 scare
 odor
@@ -78,34 +78,34 @@ output
 boat
 inject
 acoustic |  
-| bip_39_word_new_line2 | thunder
+| bip_39_word_new_line_2 | thunder
 patch |  
-| bip_39_word_new_line3 | thunder
+| bip_39_word_new_line_3 | thunder
 patch
 scare |  
-| bip_39_word_new_line4 | thunder
+| bip_39_word_new_line_4 | thunder
 patch
 scare
 odor |  
-| bip_39_word_new_line5 | thunder
+| bip_39_word_new_line_5 | thunder
 patch
 scare
 odor
 orphan |  
-| bip_39_word_new_line6 | thunder
+| bip_39_word_new_line_6 | thunder
 patch
 scare
 odor
 orphan
 lounge |  
-| bip_39_word_new_line7 | thunder
+| bip_39_word_new_line_7 | thunder
 patch
 scare
 odor
 orphan
 lounge
 glide |  
-| bip_39_word_new_line8 | thunder
+| bip_39_word_new_line_8 | thunder
 patch
 scare
 odor
@@ -113,7 +113,7 @@ orphan
 lounge
 glide
 hurry |  
-| bip_39_word_new_line9 | thunder
+| bip_39_word_new_line_9 | thunder
 patch
 scare
 odor

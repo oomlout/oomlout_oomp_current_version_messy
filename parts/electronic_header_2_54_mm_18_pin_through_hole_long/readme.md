@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | helmet |  
-| bip_39_word_new_br10 | helmet<br>ridge<br>bomb<br>cradle<br>order<br>skate<br>combine<br>boy<br>verify<br>auction |  
-| bip_39_word_new_br11 | helmet<br>ridge<br>bomb<br>cradle<br>order<br>skate<br>combine<br>boy<br>verify<br>auction<br>menu |  
-| bip_39_word_new_br12 | helmet<br>ridge<br>bomb<br>cradle<br>order<br>skate<br>combine<br>boy<br>verify<br>auction<br>menu<br>accident |  
-| bip_39_word_new_br2 | helmet<br>ridge |  
-| bip_39_word_new_br3 | helmet<br>ridge<br>bomb |  
-| bip_39_word_new_br4 | helmet<br>ridge<br>bomb<br>cradle |  
-| bip_39_word_new_br5 | helmet<br>ridge<br>bomb<br>cradle<br>order |  
-| bip_39_word_new_br6 | helmet<br>ridge<br>bomb<br>cradle<br>order<br>skate |  
-| bip_39_word_new_br7 | helmet<br>ridge<br>bomb<br>cradle<br>order<br>skate<br>combine |  
-| bip_39_word_new_br8 | helmet<br>ridge<br>bomb<br>cradle<br>order<br>skate<br>combine<br>boy |  
-| bip_39_word_new_br9 | helmet<br>ridge<br>bomb<br>cradle<br>order<br>skate<br>combine<br>boy<br>verify |  
-| bip_39_word_new_line1 | helmet |  
-| bip_39_word_new_line10 | helmet
+| bip_39_word_new_br_1 | helmet |  
+| bip_39_word_new_br_10 | helmet<br>ridge<br>bomb<br>cradle<br>order<br>skate<br>combine<br>boy<br>verify<br>auction |  
+| bip_39_word_new_br_11 | helmet<br>ridge<br>bomb<br>cradle<br>order<br>skate<br>combine<br>boy<br>verify<br>auction<br>menu |  
+| bip_39_word_new_br_12 | helmet<br>ridge<br>bomb<br>cradle<br>order<br>skate<br>combine<br>boy<br>verify<br>auction<br>menu<br>accident |  
+| bip_39_word_new_br_2 | helmet<br>ridge |  
+| bip_39_word_new_br_3 | helmet<br>ridge<br>bomb |  
+| bip_39_word_new_br_4 | helmet<br>ridge<br>bomb<br>cradle |  
+| bip_39_word_new_br_5 | helmet<br>ridge<br>bomb<br>cradle<br>order |  
+| bip_39_word_new_br_6 | helmet<br>ridge<br>bomb<br>cradle<br>order<br>skate |  
+| bip_39_word_new_br_7 | helmet<br>ridge<br>bomb<br>cradle<br>order<br>skate<br>combine |  
+| bip_39_word_new_br_8 | helmet<br>ridge<br>bomb<br>cradle<br>order<br>skate<br>combine<br>boy |  
+| bip_39_word_new_br_9 | helmet<br>ridge<br>bomb<br>cradle<br>order<br>skate<br>combine<br>boy<br>verify |  
+| bip_39_word_new_line_1 | helmet |  
+| bip_39_word_new_line_10 | helmet
 ridge
 bomb
 cradle
@@ -55,7 +55,7 @@ combine
 boy
 verify
 auction |  
-| bip_39_word_new_line11 | helmet
+| bip_39_word_new_line_11 | helmet
 ridge
 bomb
 cradle
@@ -66,7 +66,7 @@ boy
 verify
 auction
 menu |  
-| bip_39_word_new_line12 | helmet
+| bip_39_word_new_line_12 | helmet
 ridge
 bomb
 cradle
@@ -78,34 +78,34 @@ verify
 auction
 menu
 accident |  
-| bip_39_word_new_line2 | helmet
+| bip_39_word_new_line_2 | helmet
 ridge |  
-| bip_39_word_new_line3 | helmet
+| bip_39_word_new_line_3 | helmet
 ridge
 bomb |  
-| bip_39_word_new_line4 | helmet
+| bip_39_word_new_line_4 | helmet
 ridge
 bomb
 cradle |  
-| bip_39_word_new_line5 | helmet
+| bip_39_word_new_line_5 | helmet
 ridge
 bomb
 cradle
 order |  
-| bip_39_word_new_line6 | helmet
+| bip_39_word_new_line_6 | helmet
 ridge
 bomb
 cradle
 order
 skate |  
-| bip_39_word_new_line7 | helmet
+| bip_39_word_new_line_7 | helmet
 ridge
 bomb
 cradle
 order
 skate
 combine |  
-| bip_39_word_new_line8 | helmet
+| bip_39_word_new_line_8 | helmet
 ridge
 bomb
 cradle
@@ -113,7 +113,7 @@ order
 skate
 combine
 boy |  
-| bip_39_word_new_line9 | helmet
+| bip_39_word_new_line_9 | helmet
 ridge
 bomb
 cradle

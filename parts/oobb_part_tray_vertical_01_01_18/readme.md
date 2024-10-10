@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | whale |  
-| bip_39_word_new_br10 | whale<br>knee<br>armed<br>best<br>hurt<br>super<br>tiger<br>load<br>glance<br>habit |  
-| bip_39_word_new_br11 | whale<br>knee<br>armed<br>best<br>hurt<br>super<br>tiger<br>load<br>glance<br>habit<br>envelope |  
-| bip_39_word_new_br12 | whale<br>knee<br>armed<br>best<br>hurt<br>super<br>tiger<br>load<br>glance<br>habit<br>envelope<br>about |  
-| bip_39_word_new_br2 | whale<br>knee |  
-| bip_39_word_new_br3 | whale<br>knee<br>armed |  
-| bip_39_word_new_br4 | whale<br>knee<br>armed<br>best |  
-| bip_39_word_new_br5 | whale<br>knee<br>armed<br>best<br>hurt |  
-| bip_39_word_new_br6 | whale<br>knee<br>armed<br>best<br>hurt<br>super |  
-| bip_39_word_new_br7 | whale<br>knee<br>armed<br>best<br>hurt<br>super<br>tiger |  
-| bip_39_word_new_br8 | whale<br>knee<br>armed<br>best<br>hurt<br>super<br>tiger<br>load |  
-| bip_39_word_new_br9 | whale<br>knee<br>armed<br>best<br>hurt<br>super<br>tiger<br>load<br>glance |  
-| bip_39_word_new_line1 | whale |  
-| bip_39_word_new_line10 | whale
+| bip_39_word_new_br_1 | whale |  
+| bip_39_word_new_br_10 | whale<br>knee<br>armed<br>best<br>hurt<br>super<br>tiger<br>load<br>glance<br>habit |  
+| bip_39_word_new_br_11 | whale<br>knee<br>armed<br>best<br>hurt<br>super<br>tiger<br>load<br>glance<br>habit<br>envelope |  
+| bip_39_word_new_br_12 | whale<br>knee<br>armed<br>best<br>hurt<br>super<br>tiger<br>load<br>glance<br>habit<br>envelope<br>about |  
+| bip_39_word_new_br_2 | whale<br>knee |  
+| bip_39_word_new_br_3 | whale<br>knee<br>armed |  
+| bip_39_word_new_br_4 | whale<br>knee<br>armed<br>best |  
+| bip_39_word_new_br_5 | whale<br>knee<br>armed<br>best<br>hurt |  
+| bip_39_word_new_br_6 | whale<br>knee<br>armed<br>best<br>hurt<br>super |  
+| bip_39_word_new_br_7 | whale<br>knee<br>armed<br>best<br>hurt<br>super<br>tiger |  
+| bip_39_word_new_br_8 | whale<br>knee<br>armed<br>best<br>hurt<br>super<br>tiger<br>load |  
+| bip_39_word_new_br_9 | whale<br>knee<br>armed<br>best<br>hurt<br>super<br>tiger<br>load<br>glance |  
+| bip_39_word_new_line_1 | whale |  
+| bip_39_word_new_line_10 | whale
 knee
 armed
 best
@@ -55,7 +55,7 @@ tiger
 load
 glance
 habit |  
-| bip_39_word_new_line11 | whale
+| bip_39_word_new_line_11 | whale
 knee
 armed
 best
@@ -66,7 +66,7 @@ load
 glance
 habit
 envelope |  
-| bip_39_word_new_line12 | whale
+| bip_39_word_new_line_12 | whale
 knee
 armed
 best
@@ -78,34 +78,34 @@ glance
 habit
 envelope
 about |  
-| bip_39_word_new_line2 | whale
+| bip_39_word_new_line_2 | whale
 knee |  
-| bip_39_word_new_line3 | whale
+| bip_39_word_new_line_3 | whale
 knee
 armed |  
-| bip_39_word_new_line4 | whale
+| bip_39_word_new_line_4 | whale
 knee
 armed
 best |  
-| bip_39_word_new_line5 | whale
+| bip_39_word_new_line_5 | whale
 knee
 armed
 best
 hurt |  
-| bip_39_word_new_line6 | whale
+| bip_39_word_new_line_6 | whale
 knee
 armed
 best
 hurt
 super |  
-| bip_39_word_new_line7 | whale
+| bip_39_word_new_line_7 | whale
 knee
 armed
 best
 hurt
 super
 tiger |  
-| bip_39_word_new_line8 | whale
+| bip_39_word_new_line_8 | whale
 knee
 armed
 best
@@ -113,7 +113,7 @@ hurt
 super
 tiger
 load |  
-| bip_39_word_new_line9 | whale
+| bip_39_word_new_line_9 | whale
 knee
 armed
 best

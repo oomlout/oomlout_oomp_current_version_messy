@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | receive |  
-| bip_39_word_new_br10 | receive<br>cricket<br>elevator<br>before<br>dash<br>candy<br>clown<br>field<br>outer<br>buyer |  
-| bip_39_word_new_br11 | receive<br>cricket<br>elevator<br>before<br>dash<br>candy<br>clown<br>field<br>outer<br>buyer<br>width |  
-| bip_39_word_new_br12 | receive<br>cricket<br>elevator<br>before<br>dash<br>candy<br>clown<br>field<br>outer<br>buyer<br>width<br>affair |  
-| bip_39_word_new_br2 | receive<br>cricket |  
-| bip_39_word_new_br3 | receive<br>cricket<br>elevator |  
-| bip_39_word_new_br4 | receive<br>cricket<br>elevator<br>before |  
-| bip_39_word_new_br5 | receive<br>cricket<br>elevator<br>before<br>dash |  
-| bip_39_word_new_br6 | receive<br>cricket<br>elevator<br>before<br>dash<br>candy |  
-| bip_39_word_new_br7 | receive<br>cricket<br>elevator<br>before<br>dash<br>candy<br>clown |  
-| bip_39_word_new_br8 | receive<br>cricket<br>elevator<br>before<br>dash<br>candy<br>clown<br>field |  
-| bip_39_word_new_br9 | receive<br>cricket<br>elevator<br>before<br>dash<br>candy<br>clown<br>field<br>outer |  
-| bip_39_word_new_line1 | receive |  
-| bip_39_word_new_line10 | receive
+| bip_39_word_new_br_1 | receive |  
+| bip_39_word_new_br_10 | receive<br>cricket<br>elevator<br>before<br>dash<br>candy<br>clown<br>field<br>outer<br>buyer |  
+| bip_39_word_new_br_11 | receive<br>cricket<br>elevator<br>before<br>dash<br>candy<br>clown<br>field<br>outer<br>buyer<br>width |  
+| bip_39_word_new_br_12 | receive<br>cricket<br>elevator<br>before<br>dash<br>candy<br>clown<br>field<br>outer<br>buyer<br>width<br>affair |  
+| bip_39_word_new_br_2 | receive<br>cricket |  
+| bip_39_word_new_br_3 | receive<br>cricket<br>elevator |  
+| bip_39_word_new_br_4 | receive<br>cricket<br>elevator<br>before |  
+| bip_39_word_new_br_5 | receive<br>cricket<br>elevator<br>before<br>dash |  
+| bip_39_word_new_br_6 | receive<br>cricket<br>elevator<br>before<br>dash<br>candy |  
+| bip_39_word_new_br_7 | receive<br>cricket<br>elevator<br>before<br>dash<br>candy<br>clown |  
+| bip_39_word_new_br_8 | receive<br>cricket<br>elevator<br>before<br>dash<br>candy<br>clown<br>field |  
+| bip_39_word_new_br_9 | receive<br>cricket<br>elevator<br>before<br>dash<br>candy<br>clown<br>field<br>outer |  
+| bip_39_word_new_line_1 | receive |  
+| bip_39_word_new_line_10 | receive
 cricket
 elevator
 before
@@ -55,7 +55,7 @@ clown
 field
 outer
 buyer |  
-| bip_39_word_new_line11 | receive
+| bip_39_word_new_line_11 | receive
 cricket
 elevator
 before
@@ -66,7 +66,7 @@ field
 outer
 buyer
 width |  
-| bip_39_word_new_line12 | receive
+| bip_39_word_new_line_12 | receive
 cricket
 elevator
 before
@@ -78,34 +78,34 @@ outer
 buyer
 width
 affair |  
-| bip_39_word_new_line2 | receive
+| bip_39_word_new_line_2 | receive
 cricket |  
-| bip_39_word_new_line3 | receive
+| bip_39_word_new_line_3 | receive
 cricket
 elevator |  
-| bip_39_word_new_line4 | receive
+| bip_39_word_new_line_4 | receive
 cricket
 elevator
 before |  
-| bip_39_word_new_line5 | receive
+| bip_39_word_new_line_5 | receive
 cricket
 elevator
 before
 dash |  
-| bip_39_word_new_line6 | receive
+| bip_39_word_new_line_6 | receive
 cricket
 elevator
 before
 dash
 candy |  
-| bip_39_word_new_line7 | receive
+| bip_39_word_new_line_7 | receive
 cricket
 elevator
 before
 dash
 candy
 clown |  
-| bip_39_word_new_line8 | receive
+| bip_39_word_new_line_8 | receive
 cricket
 elevator
 before
@@ -113,7 +113,7 @@ dash
 candy
 clown
 field |  
-| bip_39_word_new_line9 | receive
+| bip_39_word_new_line_9 | receive
 cricket
 elevator
 before

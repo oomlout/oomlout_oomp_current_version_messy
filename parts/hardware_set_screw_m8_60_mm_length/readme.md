@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | caught |  
-| bip_39_word_new_br10 | caught<br>orbit<br>else<br>either<br>loop<br>coin<br>all<br>you<br>pipe<br>grape |  
-| bip_39_word_new_br11 | caught<br>orbit<br>else<br>either<br>loop<br>coin<br>all<br>you<br>pipe<br>grape<br>biology |  
-| bip_39_word_new_br12 | caught<br>orbit<br>else<br>either<br>loop<br>coin<br>all<br>you<br>pipe<br>grape<br>biology<br>almost |  
-| bip_39_word_new_br2 | caught<br>orbit |  
-| bip_39_word_new_br3 | caught<br>orbit<br>else |  
-| bip_39_word_new_br4 | caught<br>orbit<br>else<br>either |  
-| bip_39_word_new_br5 | caught<br>orbit<br>else<br>either<br>loop |  
-| bip_39_word_new_br6 | caught<br>orbit<br>else<br>either<br>loop<br>coin |  
-| bip_39_word_new_br7 | caught<br>orbit<br>else<br>either<br>loop<br>coin<br>all |  
-| bip_39_word_new_br8 | caught<br>orbit<br>else<br>either<br>loop<br>coin<br>all<br>you |  
-| bip_39_word_new_br9 | caught<br>orbit<br>else<br>either<br>loop<br>coin<br>all<br>you<br>pipe |  
-| bip_39_word_new_line1 | caught |  
-| bip_39_word_new_line10 | caught
+| bip_39_word_new_br_1 | caught |  
+| bip_39_word_new_br_10 | caught<br>orbit<br>else<br>either<br>loop<br>coin<br>all<br>you<br>pipe<br>grape |  
+| bip_39_word_new_br_11 | caught<br>orbit<br>else<br>either<br>loop<br>coin<br>all<br>you<br>pipe<br>grape<br>biology |  
+| bip_39_word_new_br_12 | caught<br>orbit<br>else<br>either<br>loop<br>coin<br>all<br>you<br>pipe<br>grape<br>biology<br>almost |  
+| bip_39_word_new_br_2 | caught<br>orbit |  
+| bip_39_word_new_br_3 | caught<br>orbit<br>else |  
+| bip_39_word_new_br_4 | caught<br>orbit<br>else<br>either |  
+| bip_39_word_new_br_5 | caught<br>orbit<br>else<br>either<br>loop |  
+| bip_39_word_new_br_6 | caught<br>orbit<br>else<br>either<br>loop<br>coin |  
+| bip_39_word_new_br_7 | caught<br>orbit<br>else<br>either<br>loop<br>coin<br>all |  
+| bip_39_word_new_br_8 | caught<br>orbit<br>else<br>either<br>loop<br>coin<br>all<br>you |  
+| bip_39_word_new_br_9 | caught<br>orbit<br>else<br>either<br>loop<br>coin<br>all<br>you<br>pipe |  
+| bip_39_word_new_line_1 | caught |  
+| bip_39_word_new_line_10 | caught
 orbit
 else
 either
@@ -55,7 +55,7 @@ all
 you
 pipe
 grape |  
-| bip_39_word_new_line11 | caught
+| bip_39_word_new_line_11 | caught
 orbit
 else
 either
@@ -66,7 +66,7 @@ you
 pipe
 grape
 biology |  
-| bip_39_word_new_line12 | caught
+| bip_39_word_new_line_12 | caught
 orbit
 else
 either
@@ -78,34 +78,34 @@ pipe
 grape
 biology
 almost |  
-| bip_39_word_new_line2 | caught
+| bip_39_word_new_line_2 | caught
 orbit |  
-| bip_39_word_new_line3 | caught
+| bip_39_word_new_line_3 | caught
 orbit
 else |  
-| bip_39_word_new_line4 | caught
+| bip_39_word_new_line_4 | caught
 orbit
 else
 either |  
-| bip_39_word_new_line5 | caught
+| bip_39_word_new_line_5 | caught
 orbit
 else
 either
 loop |  
-| bip_39_word_new_line6 | caught
+| bip_39_word_new_line_6 | caught
 orbit
 else
 either
 loop
 coin |  
-| bip_39_word_new_line7 | caught
+| bip_39_word_new_line_7 | caught
 orbit
 else
 either
 loop
 coin
 all |  
-| bip_39_word_new_line8 | caught
+| bip_39_word_new_line_8 | caught
 orbit
 else
 either
@@ -113,7 +113,7 @@ loop
 coin
 all
 you |  
-| bip_39_word_new_line9 | caught
+| bip_39_word_new_line_9 | caught
 orbit
 else
 either

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | live |  
-| bip_39_word_new_br10 | live<br>thunder<br>retire<br>hair<br>water<br>loop<br>tonight<br>point<br>divide<br>blade |  
-| bip_39_word_new_br11 | live<br>thunder<br>retire<br>hair<br>water<br>loop<br>tonight<br>point<br>divide<br>blade<br>village |  
-| bip_39_word_new_br12 | live<br>thunder<br>retire<br>hair<br>water<br>loop<br>tonight<br>point<br>divide<br>blade<br>village<br>afford |  
-| bip_39_word_new_br2 | live<br>thunder |  
-| bip_39_word_new_br3 | live<br>thunder<br>retire |  
-| bip_39_word_new_br4 | live<br>thunder<br>retire<br>hair |  
-| bip_39_word_new_br5 | live<br>thunder<br>retire<br>hair<br>water |  
-| bip_39_word_new_br6 | live<br>thunder<br>retire<br>hair<br>water<br>loop |  
-| bip_39_word_new_br7 | live<br>thunder<br>retire<br>hair<br>water<br>loop<br>tonight |  
-| bip_39_word_new_br8 | live<br>thunder<br>retire<br>hair<br>water<br>loop<br>tonight<br>point |  
-| bip_39_word_new_br9 | live<br>thunder<br>retire<br>hair<br>water<br>loop<br>tonight<br>point<br>divide |  
-| bip_39_word_new_line1 | live |  
-| bip_39_word_new_line10 | live
+| bip_39_word_new_br_1 | live |  
+| bip_39_word_new_br_10 | live<br>thunder<br>retire<br>hair<br>water<br>loop<br>tonight<br>point<br>divide<br>blade |  
+| bip_39_word_new_br_11 | live<br>thunder<br>retire<br>hair<br>water<br>loop<br>tonight<br>point<br>divide<br>blade<br>village |  
+| bip_39_word_new_br_12 | live<br>thunder<br>retire<br>hair<br>water<br>loop<br>tonight<br>point<br>divide<br>blade<br>village<br>afford |  
+| bip_39_word_new_br_2 | live<br>thunder |  
+| bip_39_word_new_br_3 | live<br>thunder<br>retire |  
+| bip_39_word_new_br_4 | live<br>thunder<br>retire<br>hair |  
+| bip_39_word_new_br_5 | live<br>thunder<br>retire<br>hair<br>water |  
+| bip_39_word_new_br_6 | live<br>thunder<br>retire<br>hair<br>water<br>loop |  
+| bip_39_word_new_br_7 | live<br>thunder<br>retire<br>hair<br>water<br>loop<br>tonight |  
+| bip_39_word_new_br_8 | live<br>thunder<br>retire<br>hair<br>water<br>loop<br>tonight<br>point |  
+| bip_39_word_new_br_9 | live<br>thunder<br>retire<br>hair<br>water<br>loop<br>tonight<br>point<br>divide |  
+| bip_39_word_new_line_1 | live |  
+| bip_39_word_new_line_10 | live
 thunder
 retire
 hair
@@ -55,7 +55,7 @@ tonight
 point
 divide
 blade |  
-| bip_39_word_new_line11 | live
+| bip_39_word_new_line_11 | live
 thunder
 retire
 hair
@@ -66,7 +66,7 @@ point
 divide
 blade
 village |  
-| bip_39_word_new_line12 | live
+| bip_39_word_new_line_12 | live
 thunder
 retire
 hair
@@ -78,34 +78,34 @@ divide
 blade
 village
 afford |  
-| bip_39_word_new_line2 | live
+| bip_39_word_new_line_2 | live
 thunder |  
-| bip_39_word_new_line3 | live
+| bip_39_word_new_line_3 | live
 thunder
 retire |  
-| bip_39_word_new_line4 | live
+| bip_39_word_new_line_4 | live
 thunder
 retire
 hair |  
-| bip_39_word_new_line5 | live
+| bip_39_word_new_line_5 | live
 thunder
 retire
 hair
 water |  
-| bip_39_word_new_line6 | live
+| bip_39_word_new_line_6 | live
 thunder
 retire
 hair
 water
 loop |  
-| bip_39_word_new_line7 | live
+| bip_39_word_new_line_7 | live
 thunder
 retire
 hair
 water
 loop
 tonight |  
-| bip_39_word_new_line8 | live
+| bip_39_word_new_line_8 | live
 thunder
 retire
 hair
@@ -113,7 +113,7 @@ water
 loop
 tonight
 point |  
-| bip_39_word_new_line9 | live
+| bip_39_word_new_line_9 | live
 thunder
 retire
 hair

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | purity |  
-| bip_39_word_new_br10 | purity<br>certain<br>token<br>write<br>frost<br>bubble<br>pudding<br>educate<br>chronic<br>base |  
-| bip_39_word_new_br11 | purity<br>certain<br>token<br>write<br>frost<br>bubble<br>pudding<br>educate<br>chronic<br>base<br>drum |  
-| bip_39_word_new_br12 | purity<br>certain<br>token<br>write<br>frost<br>bubble<br>pudding<br>educate<br>chronic<br>base<br>drum<br>afford |  
-| bip_39_word_new_br2 | purity<br>certain |  
-| bip_39_word_new_br3 | purity<br>certain<br>token |  
-| bip_39_word_new_br4 | purity<br>certain<br>token<br>write |  
-| bip_39_word_new_br5 | purity<br>certain<br>token<br>write<br>frost |  
-| bip_39_word_new_br6 | purity<br>certain<br>token<br>write<br>frost<br>bubble |  
-| bip_39_word_new_br7 | purity<br>certain<br>token<br>write<br>frost<br>bubble<br>pudding |  
-| bip_39_word_new_br8 | purity<br>certain<br>token<br>write<br>frost<br>bubble<br>pudding<br>educate |  
-| bip_39_word_new_br9 | purity<br>certain<br>token<br>write<br>frost<br>bubble<br>pudding<br>educate<br>chronic |  
-| bip_39_word_new_line1 | purity |  
-| bip_39_word_new_line10 | purity
+| bip_39_word_new_br_1 | purity |  
+| bip_39_word_new_br_10 | purity<br>certain<br>token<br>write<br>frost<br>bubble<br>pudding<br>educate<br>chronic<br>base |  
+| bip_39_word_new_br_11 | purity<br>certain<br>token<br>write<br>frost<br>bubble<br>pudding<br>educate<br>chronic<br>base<br>drum |  
+| bip_39_word_new_br_12 | purity<br>certain<br>token<br>write<br>frost<br>bubble<br>pudding<br>educate<br>chronic<br>base<br>drum<br>afford |  
+| bip_39_word_new_br_2 | purity<br>certain |  
+| bip_39_word_new_br_3 | purity<br>certain<br>token |  
+| bip_39_word_new_br_4 | purity<br>certain<br>token<br>write |  
+| bip_39_word_new_br_5 | purity<br>certain<br>token<br>write<br>frost |  
+| bip_39_word_new_br_6 | purity<br>certain<br>token<br>write<br>frost<br>bubble |  
+| bip_39_word_new_br_7 | purity<br>certain<br>token<br>write<br>frost<br>bubble<br>pudding |  
+| bip_39_word_new_br_8 | purity<br>certain<br>token<br>write<br>frost<br>bubble<br>pudding<br>educate |  
+| bip_39_word_new_br_9 | purity<br>certain<br>token<br>write<br>frost<br>bubble<br>pudding<br>educate<br>chronic |  
+| bip_39_word_new_line_1 | purity |  
+| bip_39_word_new_line_10 | purity
 certain
 token
 write
@@ -55,7 +55,7 @@ pudding
 educate
 chronic
 base |  
-| bip_39_word_new_line11 | purity
+| bip_39_word_new_line_11 | purity
 certain
 token
 write
@@ -66,7 +66,7 @@ educate
 chronic
 base
 drum |  
-| bip_39_word_new_line12 | purity
+| bip_39_word_new_line_12 | purity
 certain
 token
 write
@@ -78,34 +78,34 @@ chronic
 base
 drum
 afford |  
-| bip_39_word_new_line2 | purity
+| bip_39_word_new_line_2 | purity
 certain |  
-| bip_39_word_new_line3 | purity
+| bip_39_word_new_line_3 | purity
 certain
 token |  
-| bip_39_word_new_line4 | purity
+| bip_39_word_new_line_4 | purity
 certain
 token
 write |  
-| bip_39_word_new_line5 | purity
+| bip_39_word_new_line_5 | purity
 certain
 token
 write
 frost |  
-| bip_39_word_new_line6 | purity
+| bip_39_word_new_line_6 | purity
 certain
 token
 write
 frost
 bubble |  
-| bip_39_word_new_line7 | purity
+| bip_39_word_new_line_7 | purity
 certain
 token
 write
 frost
 bubble
 pudding |  
-| bip_39_word_new_line8 | purity
+| bip_39_word_new_line_8 | purity
 certain
 token
 write
@@ -113,7 +113,7 @@ frost
 bubble
 pudding
 educate |  
-| bip_39_word_new_line9 | purity
+| bip_39_word_new_line_9 | purity
 certain
 token
 write

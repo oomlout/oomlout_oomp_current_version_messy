@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | habit |  
-| bip_39_word_new_br10 | habit<br>glove<br>core<br>aerobic<br>video<br>curious<br>brave<br>concert<br>gospel<br>unable |  
-| bip_39_word_new_br11 | habit<br>glove<br>core<br>aerobic<br>video<br>curious<br>brave<br>concert<br>gospel<br>unable<br>head |  
-| bip_39_word_new_br12 | habit<br>glove<br>core<br>aerobic<br>video<br>curious<br>brave<br>concert<br>gospel<br>unable<br>head<br>amazing |  
-| bip_39_word_new_br2 | habit<br>glove |  
-| bip_39_word_new_br3 | habit<br>glove<br>core |  
-| bip_39_word_new_br4 | habit<br>glove<br>core<br>aerobic |  
-| bip_39_word_new_br5 | habit<br>glove<br>core<br>aerobic<br>video |  
-| bip_39_word_new_br6 | habit<br>glove<br>core<br>aerobic<br>video<br>curious |  
-| bip_39_word_new_br7 | habit<br>glove<br>core<br>aerobic<br>video<br>curious<br>brave |  
-| bip_39_word_new_br8 | habit<br>glove<br>core<br>aerobic<br>video<br>curious<br>brave<br>concert |  
-| bip_39_word_new_br9 | habit<br>glove<br>core<br>aerobic<br>video<br>curious<br>brave<br>concert<br>gospel |  
-| bip_39_word_new_line1 | habit |  
-| bip_39_word_new_line10 | habit
+| bip_39_word_new_br_1 | habit |  
+| bip_39_word_new_br_10 | habit<br>glove<br>core<br>aerobic<br>video<br>curious<br>brave<br>concert<br>gospel<br>unable |  
+| bip_39_word_new_br_11 | habit<br>glove<br>core<br>aerobic<br>video<br>curious<br>brave<br>concert<br>gospel<br>unable<br>head |  
+| bip_39_word_new_br_12 | habit<br>glove<br>core<br>aerobic<br>video<br>curious<br>brave<br>concert<br>gospel<br>unable<br>head<br>amazing |  
+| bip_39_word_new_br_2 | habit<br>glove |  
+| bip_39_word_new_br_3 | habit<br>glove<br>core |  
+| bip_39_word_new_br_4 | habit<br>glove<br>core<br>aerobic |  
+| bip_39_word_new_br_5 | habit<br>glove<br>core<br>aerobic<br>video |  
+| bip_39_word_new_br_6 | habit<br>glove<br>core<br>aerobic<br>video<br>curious |  
+| bip_39_word_new_br_7 | habit<br>glove<br>core<br>aerobic<br>video<br>curious<br>brave |  
+| bip_39_word_new_br_8 | habit<br>glove<br>core<br>aerobic<br>video<br>curious<br>brave<br>concert |  
+| bip_39_word_new_br_9 | habit<br>glove<br>core<br>aerobic<br>video<br>curious<br>brave<br>concert<br>gospel |  
+| bip_39_word_new_line_1 | habit |  
+| bip_39_word_new_line_10 | habit
 glove
 core
 aerobic
@@ -55,7 +55,7 @@ brave
 concert
 gospel
 unable |  
-| bip_39_word_new_line11 | habit
+| bip_39_word_new_line_11 | habit
 glove
 core
 aerobic
@@ -66,7 +66,7 @@ concert
 gospel
 unable
 head |  
-| bip_39_word_new_line12 | habit
+| bip_39_word_new_line_12 | habit
 glove
 core
 aerobic
@@ -78,34 +78,34 @@ gospel
 unable
 head
 amazing |  
-| bip_39_word_new_line2 | habit
+| bip_39_word_new_line_2 | habit
 glove |  
-| bip_39_word_new_line3 | habit
+| bip_39_word_new_line_3 | habit
 glove
 core |  
-| bip_39_word_new_line4 | habit
+| bip_39_word_new_line_4 | habit
 glove
 core
 aerobic |  
-| bip_39_word_new_line5 | habit
+| bip_39_word_new_line_5 | habit
 glove
 core
 aerobic
 video |  
-| bip_39_word_new_line6 | habit
+| bip_39_word_new_line_6 | habit
 glove
 core
 aerobic
 video
 curious |  
-| bip_39_word_new_line7 | habit
+| bip_39_word_new_line_7 | habit
 glove
 core
 aerobic
 video
 curious
 brave |  
-| bip_39_word_new_line8 | habit
+| bip_39_word_new_line_8 | habit
 glove
 core
 aerobic
@@ -113,7 +113,7 @@ video
 curious
 brave
 concert |  
-| bip_39_word_new_line9 | habit
+| bip_39_word_new_line_9 | habit
 glove
 core
 aerobic

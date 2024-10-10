@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | clap |  
-| bip_39_word_new_br10 | clap<br>horror<br>have<br>lyrics<br>observe<br>hand<br>enrich<br>memory<br>early<br>ill |  
-| bip_39_word_new_br11 | clap<br>horror<br>have<br>lyrics<br>observe<br>hand<br>enrich<br>memory<br>early<br>ill<br>miss |  
-| bip_39_word_new_br12 | clap<br>horror<br>have<br>lyrics<br>observe<br>hand<br>enrich<br>memory<br>early<br>ill<br>miss<br>arena |  
-| bip_39_word_new_br2 | clap<br>horror |  
-| bip_39_word_new_br3 | clap<br>horror<br>have |  
-| bip_39_word_new_br4 | clap<br>horror<br>have<br>lyrics |  
-| bip_39_word_new_br5 | clap<br>horror<br>have<br>lyrics<br>observe |  
-| bip_39_word_new_br6 | clap<br>horror<br>have<br>lyrics<br>observe<br>hand |  
-| bip_39_word_new_br7 | clap<br>horror<br>have<br>lyrics<br>observe<br>hand<br>enrich |  
-| bip_39_word_new_br8 | clap<br>horror<br>have<br>lyrics<br>observe<br>hand<br>enrich<br>memory |  
-| bip_39_word_new_br9 | clap<br>horror<br>have<br>lyrics<br>observe<br>hand<br>enrich<br>memory<br>early |  
-| bip_39_word_new_line1 | clap |  
-| bip_39_word_new_line10 | clap
+| bip_39_word_new_br_1 | clap |  
+| bip_39_word_new_br_10 | clap<br>horror<br>have<br>lyrics<br>observe<br>hand<br>enrich<br>memory<br>early<br>ill |  
+| bip_39_word_new_br_11 | clap<br>horror<br>have<br>lyrics<br>observe<br>hand<br>enrich<br>memory<br>early<br>ill<br>miss |  
+| bip_39_word_new_br_12 | clap<br>horror<br>have<br>lyrics<br>observe<br>hand<br>enrich<br>memory<br>early<br>ill<br>miss<br>arena |  
+| bip_39_word_new_br_2 | clap<br>horror |  
+| bip_39_word_new_br_3 | clap<br>horror<br>have |  
+| bip_39_word_new_br_4 | clap<br>horror<br>have<br>lyrics |  
+| bip_39_word_new_br_5 | clap<br>horror<br>have<br>lyrics<br>observe |  
+| bip_39_word_new_br_6 | clap<br>horror<br>have<br>lyrics<br>observe<br>hand |  
+| bip_39_word_new_br_7 | clap<br>horror<br>have<br>lyrics<br>observe<br>hand<br>enrich |  
+| bip_39_word_new_br_8 | clap<br>horror<br>have<br>lyrics<br>observe<br>hand<br>enrich<br>memory |  
+| bip_39_word_new_br_9 | clap<br>horror<br>have<br>lyrics<br>observe<br>hand<br>enrich<br>memory<br>early |  
+| bip_39_word_new_line_1 | clap |  
+| bip_39_word_new_line_10 | clap
 horror
 have
 lyrics
@@ -55,7 +55,7 @@ enrich
 memory
 early
 ill |  
-| bip_39_word_new_line11 | clap
+| bip_39_word_new_line_11 | clap
 horror
 have
 lyrics
@@ -66,7 +66,7 @@ memory
 early
 ill
 miss |  
-| bip_39_word_new_line12 | clap
+| bip_39_word_new_line_12 | clap
 horror
 have
 lyrics
@@ -78,34 +78,34 @@ early
 ill
 miss
 arena |  
-| bip_39_word_new_line2 | clap
+| bip_39_word_new_line_2 | clap
 horror |  
-| bip_39_word_new_line3 | clap
+| bip_39_word_new_line_3 | clap
 horror
 have |  
-| bip_39_word_new_line4 | clap
+| bip_39_word_new_line_4 | clap
 horror
 have
 lyrics |  
-| bip_39_word_new_line5 | clap
+| bip_39_word_new_line_5 | clap
 horror
 have
 lyrics
 observe |  
-| bip_39_word_new_line6 | clap
+| bip_39_word_new_line_6 | clap
 horror
 have
 lyrics
 observe
 hand |  
-| bip_39_word_new_line7 | clap
+| bip_39_word_new_line_7 | clap
 horror
 have
 lyrics
 observe
 hand
 enrich |  
-| bip_39_word_new_line8 | clap
+| bip_39_word_new_line_8 | clap
 horror
 have
 lyrics
@@ -113,7 +113,7 @@ observe
 hand
 enrich
 memory |  
-| bip_39_word_new_line9 | clap
+| bip_39_word_new_line_9 | clap
 horror
 have
 lyrics

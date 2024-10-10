@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | accident |  
-| bip_39_word_new_br10 | accident<br>leg<br>bright<br>flush<br>soon<br>weapon<br>talk<br>jeans<br>close<br>deposit |  
-| bip_39_word_new_br11 | accident<br>leg<br>bright<br>flush<br>soon<br>weapon<br>talk<br>jeans<br>close<br>deposit<br>lounge |  
-| bip_39_word_new_br12 | accident<br>leg<br>bright<br>flush<br>soon<br>weapon<br>talk<br>jeans<br>close<br>deposit<br>lounge<br>author |  
-| bip_39_word_new_br2 | accident<br>leg |  
-| bip_39_word_new_br3 | accident<br>leg<br>bright |  
-| bip_39_word_new_br4 | accident<br>leg<br>bright<br>flush |  
-| bip_39_word_new_br5 | accident<br>leg<br>bright<br>flush<br>soon |  
-| bip_39_word_new_br6 | accident<br>leg<br>bright<br>flush<br>soon<br>weapon |  
-| bip_39_word_new_br7 | accident<br>leg<br>bright<br>flush<br>soon<br>weapon<br>talk |  
-| bip_39_word_new_br8 | accident<br>leg<br>bright<br>flush<br>soon<br>weapon<br>talk<br>jeans |  
-| bip_39_word_new_br9 | accident<br>leg<br>bright<br>flush<br>soon<br>weapon<br>talk<br>jeans<br>close |  
-| bip_39_word_new_line1 | accident |  
-| bip_39_word_new_line10 | accident
+| bip_39_word_new_br_1 | accident |  
+| bip_39_word_new_br_10 | accident<br>leg<br>bright<br>flush<br>soon<br>weapon<br>talk<br>jeans<br>close<br>deposit |  
+| bip_39_word_new_br_11 | accident<br>leg<br>bright<br>flush<br>soon<br>weapon<br>talk<br>jeans<br>close<br>deposit<br>lounge |  
+| bip_39_word_new_br_12 | accident<br>leg<br>bright<br>flush<br>soon<br>weapon<br>talk<br>jeans<br>close<br>deposit<br>lounge<br>author |  
+| bip_39_word_new_br_2 | accident<br>leg |  
+| bip_39_word_new_br_3 | accident<br>leg<br>bright |  
+| bip_39_word_new_br_4 | accident<br>leg<br>bright<br>flush |  
+| bip_39_word_new_br_5 | accident<br>leg<br>bright<br>flush<br>soon |  
+| bip_39_word_new_br_6 | accident<br>leg<br>bright<br>flush<br>soon<br>weapon |  
+| bip_39_word_new_br_7 | accident<br>leg<br>bright<br>flush<br>soon<br>weapon<br>talk |  
+| bip_39_word_new_br_8 | accident<br>leg<br>bright<br>flush<br>soon<br>weapon<br>talk<br>jeans |  
+| bip_39_word_new_br_9 | accident<br>leg<br>bright<br>flush<br>soon<br>weapon<br>talk<br>jeans<br>close |  
+| bip_39_word_new_line_1 | accident |  
+| bip_39_word_new_line_10 | accident
 leg
 bright
 flush
@@ -55,7 +55,7 @@ talk
 jeans
 close
 deposit |  
-| bip_39_word_new_line11 | accident
+| bip_39_word_new_line_11 | accident
 leg
 bright
 flush
@@ -66,7 +66,7 @@ jeans
 close
 deposit
 lounge |  
-| bip_39_word_new_line12 | accident
+| bip_39_word_new_line_12 | accident
 leg
 bright
 flush
@@ -78,34 +78,34 @@ close
 deposit
 lounge
 author |  
-| bip_39_word_new_line2 | accident
+| bip_39_word_new_line_2 | accident
 leg |  
-| bip_39_word_new_line3 | accident
+| bip_39_word_new_line_3 | accident
 leg
 bright |  
-| bip_39_word_new_line4 | accident
+| bip_39_word_new_line_4 | accident
 leg
 bright
 flush |  
-| bip_39_word_new_line5 | accident
+| bip_39_word_new_line_5 | accident
 leg
 bright
 flush
 soon |  
-| bip_39_word_new_line6 | accident
+| bip_39_word_new_line_6 | accident
 leg
 bright
 flush
 soon
 weapon |  
-| bip_39_word_new_line7 | accident
+| bip_39_word_new_line_7 | accident
 leg
 bright
 flush
 soon
 weapon
 talk |  
-| bip_39_word_new_line8 | accident
+| bip_39_word_new_line_8 | accident
 leg
 bright
 flush
@@ -113,7 +113,7 @@ soon
 weapon
 talk
 jeans |  
-| bip_39_word_new_line9 | accident
+| bip_39_word_new_line_9 | accident
 leg
 bright
 flush

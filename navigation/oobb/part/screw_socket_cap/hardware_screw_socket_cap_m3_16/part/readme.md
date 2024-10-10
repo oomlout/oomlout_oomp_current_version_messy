@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gold |  
-| bip_39_word_new_br10 | gold<br>card<br>repair<br>sentence<br>warrior<br>mail<br>ecology<br>own<br>afraid<br>mail |  
-| bip_39_word_new_br11 | gold<br>card<br>repair<br>sentence<br>warrior<br>mail<br>ecology<br>own<br>afraid<br>mail<br>weasel |  
-| bip_39_word_new_br12 | gold<br>card<br>repair<br>sentence<br>warrior<br>mail<br>ecology<br>own<br>afraid<br>mail<br>weasel<br>assume |  
-| bip_39_word_new_br2 | gold<br>card |  
-| bip_39_word_new_br3 | gold<br>card<br>repair |  
-| bip_39_word_new_br4 | gold<br>card<br>repair<br>sentence |  
-| bip_39_word_new_br5 | gold<br>card<br>repair<br>sentence<br>warrior |  
-| bip_39_word_new_br6 | gold<br>card<br>repair<br>sentence<br>warrior<br>mail |  
-| bip_39_word_new_br7 | gold<br>card<br>repair<br>sentence<br>warrior<br>mail<br>ecology |  
-| bip_39_word_new_br8 | gold<br>card<br>repair<br>sentence<br>warrior<br>mail<br>ecology<br>own |  
-| bip_39_word_new_br9 | gold<br>card<br>repair<br>sentence<br>warrior<br>mail<br>ecology<br>own<br>afraid |  
-| bip_39_word_new_line1 | gold |  
-| bip_39_word_new_line10 | gold
+| bip_39_word_new_br_1 | gold |  
+| bip_39_word_new_br_10 | gold<br>card<br>repair<br>sentence<br>warrior<br>mail<br>ecology<br>own<br>afraid<br>mail |  
+| bip_39_word_new_br_11 | gold<br>card<br>repair<br>sentence<br>warrior<br>mail<br>ecology<br>own<br>afraid<br>mail<br>weasel |  
+| bip_39_word_new_br_12 | gold<br>card<br>repair<br>sentence<br>warrior<br>mail<br>ecology<br>own<br>afraid<br>mail<br>weasel<br>assume |  
+| bip_39_word_new_br_2 | gold<br>card |  
+| bip_39_word_new_br_3 | gold<br>card<br>repair |  
+| bip_39_word_new_br_4 | gold<br>card<br>repair<br>sentence |  
+| bip_39_word_new_br_5 | gold<br>card<br>repair<br>sentence<br>warrior |  
+| bip_39_word_new_br_6 | gold<br>card<br>repair<br>sentence<br>warrior<br>mail |  
+| bip_39_word_new_br_7 | gold<br>card<br>repair<br>sentence<br>warrior<br>mail<br>ecology |  
+| bip_39_word_new_br_8 | gold<br>card<br>repair<br>sentence<br>warrior<br>mail<br>ecology<br>own |  
+| bip_39_word_new_br_9 | gold<br>card<br>repair<br>sentence<br>warrior<br>mail<br>ecology<br>own<br>afraid |  
+| bip_39_word_new_line_1 | gold |  
+| bip_39_word_new_line_10 | gold
 card
 repair
 sentence
@@ -55,7 +55,7 @@ ecology
 own
 afraid
 mail |  
-| bip_39_word_new_line11 | gold
+| bip_39_word_new_line_11 | gold
 card
 repair
 sentence
@@ -66,7 +66,7 @@ own
 afraid
 mail
 weasel |  
-| bip_39_word_new_line12 | gold
+| bip_39_word_new_line_12 | gold
 card
 repair
 sentence
@@ -78,34 +78,34 @@ afraid
 mail
 weasel
 assume |  
-| bip_39_word_new_line2 | gold
+| bip_39_word_new_line_2 | gold
 card |  
-| bip_39_word_new_line3 | gold
+| bip_39_word_new_line_3 | gold
 card
 repair |  
-| bip_39_word_new_line4 | gold
+| bip_39_word_new_line_4 | gold
 card
 repair
 sentence |  
-| bip_39_word_new_line5 | gold
+| bip_39_word_new_line_5 | gold
 card
 repair
 sentence
 warrior |  
-| bip_39_word_new_line6 | gold
+| bip_39_word_new_line_6 | gold
 card
 repair
 sentence
 warrior
 mail |  
-| bip_39_word_new_line7 | gold
+| bip_39_word_new_line_7 | gold
 card
 repair
 sentence
 warrior
 mail
 ecology |  
-| bip_39_word_new_line8 | gold
+| bip_39_word_new_line_8 | gold
 card
 repair
 sentence
@@ -113,7 +113,7 @@ warrior
 mail
 ecology
 own |  
-| bip_39_word_new_line9 | gold
+| bip_39_word_new_line_9 | gold
 card
 repair
 sentence

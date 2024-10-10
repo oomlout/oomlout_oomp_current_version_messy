@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | turtle |  
-| bip_39_word_new_br10 | turtle<br>amateur<br>unknown<br>member<br>gadget<br>swim<br>giraffe<br>royal<br>neither<br>hire |  
-| bip_39_word_new_br11 | turtle<br>amateur<br>unknown<br>member<br>gadget<br>swim<br>giraffe<br>royal<br>neither<br>hire<br>calm |  
-| bip_39_word_new_br12 | turtle<br>amateur<br>unknown<br>member<br>gadget<br>swim<br>giraffe<br>royal<br>neither<br>hire<br>calm<br>angry |  
-| bip_39_word_new_br2 | turtle<br>amateur |  
-| bip_39_word_new_br3 | turtle<br>amateur<br>unknown |  
-| bip_39_word_new_br4 | turtle<br>amateur<br>unknown<br>member |  
-| bip_39_word_new_br5 | turtle<br>amateur<br>unknown<br>member<br>gadget |  
-| bip_39_word_new_br6 | turtle<br>amateur<br>unknown<br>member<br>gadget<br>swim |  
-| bip_39_word_new_br7 | turtle<br>amateur<br>unknown<br>member<br>gadget<br>swim<br>giraffe |  
-| bip_39_word_new_br8 | turtle<br>amateur<br>unknown<br>member<br>gadget<br>swim<br>giraffe<br>royal |  
-| bip_39_word_new_br9 | turtle<br>amateur<br>unknown<br>member<br>gadget<br>swim<br>giraffe<br>royal<br>neither |  
-| bip_39_word_new_line1 | turtle |  
-| bip_39_word_new_line10 | turtle
+| bip_39_word_new_br_1 | turtle |  
+| bip_39_word_new_br_10 | turtle<br>amateur<br>unknown<br>member<br>gadget<br>swim<br>giraffe<br>royal<br>neither<br>hire |  
+| bip_39_word_new_br_11 | turtle<br>amateur<br>unknown<br>member<br>gadget<br>swim<br>giraffe<br>royal<br>neither<br>hire<br>calm |  
+| bip_39_word_new_br_12 | turtle<br>amateur<br>unknown<br>member<br>gadget<br>swim<br>giraffe<br>royal<br>neither<br>hire<br>calm<br>angry |  
+| bip_39_word_new_br_2 | turtle<br>amateur |  
+| bip_39_word_new_br_3 | turtle<br>amateur<br>unknown |  
+| bip_39_word_new_br_4 | turtle<br>amateur<br>unknown<br>member |  
+| bip_39_word_new_br_5 | turtle<br>amateur<br>unknown<br>member<br>gadget |  
+| bip_39_word_new_br_6 | turtle<br>amateur<br>unknown<br>member<br>gadget<br>swim |  
+| bip_39_word_new_br_7 | turtle<br>amateur<br>unknown<br>member<br>gadget<br>swim<br>giraffe |  
+| bip_39_word_new_br_8 | turtle<br>amateur<br>unknown<br>member<br>gadget<br>swim<br>giraffe<br>royal |  
+| bip_39_word_new_br_9 | turtle<br>amateur<br>unknown<br>member<br>gadget<br>swim<br>giraffe<br>royal<br>neither |  
+| bip_39_word_new_line_1 | turtle |  
+| bip_39_word_new_line_10 | turtle
 amateur
 unknown
 member
@@ -55,7 +55,7 @@ giraffe
 royal
 neither
 hire |  
-| bip_39_word_new_line11 | turtle
+| bip_39_word_new_line_11 | turtle
 amateur
 unknown
 member
@@ -66,7 +66,7 @@ royal
 neither
 hire
 calm |  
-| bip_39_word_new_line12 | turtle
+| bip_39_word_new_line_12 | turtle
 amateur
 unknown
 member
@@ -78,34 +78,34 @@ neither
 hire
 calm
 angry |  
-| bip_39_word_new_line2 | turtle
+| bip_39_word_new_line_2 | turtle
 amateur |  
-| bip_39_word_new_line3 | turtle
+| bip_39_word_new_line_3 | turtle
 amateur
 unknown |  
-| bip_39_word_new_line4 | turtle
+| bip_39_word_new_line_4 | turtle
 amateur
 unknown
 member |  
-| bip_39_word_new_line5 | turtle
+| bip_39_word_new_line_5 | turtle
 amateur
 unknown
 member
 gadget |  
-| bip_39_word_new_line6 | turtle
+| bip_39_word_new_line_6 | turtle
 amateur
 unknown
 member
 gadget
 swim |  
-| bip_39_word_new_line7 | turtle
+| bip_39_word_new_line_7 | turtle
 amateur
 unknown
 member
 gadget
 swim
 giraffe |  
-| bip_39_word_new_line8 | turtle
+| bip_39_word_new_line_8 | turtle
 amateur
 unknown
 member
@@ -113,7 +113,7 @@ gadget
 swim
 giraffe
 royal |  
-| bip_39_word_new_line9 | turtle
+| bip_39_word_new_line_9 | turtle
 amateur
 unknown
 member

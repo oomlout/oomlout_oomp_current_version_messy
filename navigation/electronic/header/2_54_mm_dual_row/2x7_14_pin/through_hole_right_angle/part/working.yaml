@@ -1,17 +1,17 @@
-bip_39_word_new_br1: federal
-bip_39_word_new_br10: federal<br>salad<br>income<br>path<br>alarm<br>bird<br>bright<br>later<br>attack<br>bubble
-bip_39_word_new_br11: federal<br>salad<br>income<br>path<br>alarm<br>bird<br>bright<br>later<br>attack<br>bubble<br>seven
-bip_39_word_new_br12: federal<br>salad<br>income<br>path<br>alarm<br>bird<br>bright<br>later<br>attack<br>bubble<br>seven<br>aspect
-bip_39_word_new_br2: federal<br>salad
-bip_39_word_new_br3: federal<br>salad<br>income
-bip_39_word_new_br4: federal<br>salad<br>income<br>path
-bip_39_word_new_br5: federal<br>salad<br>income<br>path<br>alarm
-bip_39_word_new_br6: federal<br>salad<br>income<br>path<br>alarm<br>bird
-bip_39_word_new_br7: federal<br>salad<br>income<br>path<br>alarm<br>bird<br>bright
-bip_39_word_new_br8: federal<br>salad<br>income<br>path<br>alarm<br>bird<br>bright<br>later
-bip_39_word_new_br9: federal<br>salad<br>income<br>path<br>alarm<br>bird<br>bright<br>later<br>attack
-bip_39_word_new_line1: federal
-bip_39_word_new_line10: 'federal
+bip_39_word_new_br_1: federal
+bip_39_word_new_br_10: federal<br>salad<br>income<br>path<br>alarm<br>bird<br>bright<br>later<br>attack<br>bubble
+bip_39_word_new_br_11: federal<br>salad<br>income<br>path<br>alarm<br>bird<br>bright<br>later<br>attack<br>bubble<br>seven
+bip_39_word_new_br_12: federal<br>salad<br>income<br>path<br>alarm<br>bird<br>bright<br>later<br>attack<br>bubble<br>seven<br>aspect
+bip_39_word_new_br_2: federal<br>salad
+bip_39_word_new_br_3: federal<br>salad<br>income
+bip_39_word_new_br_4: federal<br>salad<br>income<br>path
+bip_39_word_new_br_5: federal<br>salad<br>income<br>path<br>alarm
+bip_39_word_new_br_6: federal<br>salad<br>income<br>path<br>alarm<br>bird
+bip_39_word_new_br_7: federal<br>salad<br>income<br>path<br>alarm<br>bird<br>bright
+bip_39_word_new_br_8: federal<br>salad<br>income<br>path<br>alarm<br>bird<br>bright<br>later
+bip_39_word_new_br_9: federal<br>salad<br>income<br>path<br>alarm<br>bird<br>bright<br>later<br>attack
+bip_39_word_new_line_1: federal
+bip_39_word_new_line_10: 'federal
 
   salad
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'federal
   attack
 
   bubble'
-bip_39_word_new_line11: 'federal
+bip_39_word_new_line_11: 'federal
 
   salad
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'federal
   bubble
 
   seven'
-bip_39_word_new_line12: 'federal
+bip_39_word_new_line_12: 'federal
 
   salad
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'federal
   seven
 
   aspect'
-bip_39_word_new_line2: 'federal
+bip_39_word_new_line_2: 'federal
 
   salad'
-bip_39_word_new_line3: 'federal
+bip_39_word_new_line_3: 'federal
 
   salad
 
   income'
-bip_39_word_new_line4: 'federal
+bip_39_word_new_line_4: 'federal
 
   salad
 
   income
 
   path'
-bip_39_word_new_line5: 'federal
+bip_39_word_new_line_5: 'federal
 
   salad
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'federal
   path
 
   alarm'
-bip_39_word_new_line6: 'federal
+bip_39_word_new_line_6: 'federal
 
   salad
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'federal
   alarm
 
   bird'
-bip_39_word_new_line7: 'federal
+bip_39_word_new_line_7: 'federal
 
   salad
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'federal
   bird
 
   bright'
-bip_39_word_new_line8: 'federal
+bip_39_word_new_line_8: 'federal
 
   salad
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'federal
   bright
 
   later'
-bip_39_word_new_line9: 'federal
+bip_39_word_new_line_9: 'federal
 
   salad
 

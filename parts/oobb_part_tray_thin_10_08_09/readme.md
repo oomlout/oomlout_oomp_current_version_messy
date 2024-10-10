@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | chuckle |  
-| bip_39_word_new_br10 | chuckle<br>shiver<br>horror<br>quick<br>february<br>load<br>kit<br>much<br>kid<br>wool |  
-| bip_39_word_new_br11 | chuckle<br>shiver<br>horror<br>quick<br>february<br>load<br>kit<br>much<br>kid<br>wool<br>usage |  
-| bip_39_word_new_br12 | chuckle<br>shiver<br>horror<br>quick<br>february<br>load<br>kit<br>much<br>kid<br>wool<br>usage<br>amused |  
-| bip_39_word_new_br2 | chuckle<br>shiver |  
-| bip_39_word_new_br3 | chuckle<br>shiver<br>horror |  
-| bip_39_word_new_br4 | chuckle<br>shiver<br>horror<br>quick |  
-| bip_39_word_new_br5 | chuckle<br>shiver<br>horror<br>quick<br>february |  
-| bip_39_word_new_br6 | chuckle<br>shiver<br>horror<br>quick<br>february<br>load |  
-| bip_39_word_new_br7 | chuckle<br>shiver<br>horror<br>quick<br>february<br>load<br>kit |  
-| bip_39_word_new_br8 | chuckle<br>shiver<br>horror<br>quick<br>february<br>load<br>kit<br>much |  
-| bip_39_word_new_br9 | chuckle<br>shiver<br>horror<br>quick<br>february<br>load<br>kit<br>much<br>kid |  
-| bip_39_word_new_line1 | chuckle |  
-| bip_39_word_new_line10 | chuckle
+| bip_39_word_new_br_1 | chuckle |  
+| bip_39_word_new_br_10 | chuckle<br>shiver<br>horror<br>quick<br>february<br>load<br>kit<br>much<br>kid<br>wool |  
+| bip_39_word_new_br_11 | chuckle<br>shiver<br>horror<br>quick<br>february<br>load<br>kit<br>much<br>kid<br>wool<br>usage |  
+| bip_39_word_new_br_12 | chuckle<br>shiver<br>horror<br>quick<br>february<br>load<br>kit<br>much<br>kid<br>wool<br>usage<br>amused |  
+| bip_39_word_new_br_2 | chuckle<br>shiver |  
+| bip_39_word_new_br_3 | chuckle<br>shiver<br>horror |  
+| bip_39_word_new_br_4 | chuckle<br>shiver<br>horror<br>quick |  
+| bip_39_word_new_br_5 | chuckle<br>shiver<br>horror<br>quick<br>february |  
+| bip_39_word_new_br_6 | chuckle<br>shiver<br>horror<br>quick<br>february<br>load |  
+| bip_39_word_new_br_7 | chuckle<br>shiver<br>horror<br>quick<br>february<br>load<br>kit |  
+| bip_39_word_new_br_8 | chuckle<br>shiver<br>horror<br>quick<br>february<br>load<br>kit<br>much |  
+| bip_39_word_new_br_9 | chuckle<br>shiver<br>horror<br>quick<br>february<br>load<br>kit<br>much<br>kid |  
+| bip_39_word_new_line_1 | chuckle |  
+| bip_39_word_new_line_10 | chuckle
 shiver
 horror
 quick
@@ -55,7 +55,7 @@ kit
 much
 kid
 wool |  
-| bip_39_word_new_line11 | chuckle
+| bip_39_word_new_line_11 | chuckle
 shiver
 horror
 quick
@@ -66,7 +66,7 @@ much
 kid
 wool
 usage |  
-| bip_39_word_new_line12 | chuckle
+| bip_39_word_new_line_12 | chuckle
 shiver
 horror
 quick
@@ -78,34 +78,34 @@ kid
 wool
 usage
 amused |  
-| bip_39_word_new_line2 | chuckle
+| bip_39_word_new_line_2 | chuckle
 shiver |  
-| bip_39_word_new_line3 | chuckle
+| bip_39_word_new_line_3 | chuckle
 shiver
 horror |  
-| bip_39_word_new_line4 | chuckle
+| bip_39_word_new_line_4 | chuckle
 shiver
 horror
 quick |  
-| bip_39_word_new_line5 | chuckle
+| bip_39_word_new_line_5 | chuckle
 shiver
 horror
 quick
 february |  
-| bip_39_word_new_line6 | chuckle
+| bip_39_word_new_line_6 | chuckle
 shiver
 horror
 quick
 february
 load |  
-| bip_39_word_new_line7 | chuckle
+| bip_39_word_new_line_7 | chuckle
 shiver
 horror
 quick
 february
 load
 kit |  
-| bip_39_word_new_line8 | chuckle
+| bip_39_word_new_line_8 | chuckle
 shiver
 horror
 quick
@@ -113,7 +113,7 @@ february
 load
 kit
 much |  
-| bip_39_word_new_line9 | chuckle
+| bip_39_word_new_line_9 | chuckle
 shiver
 horror
 quick

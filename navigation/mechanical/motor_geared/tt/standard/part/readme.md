@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | border |  
-| bip_39_word_new_br10 | border<br>such<br>cloud<br>doctor<br>bench<br>vintage<br>clerk<br>near<br>wasp<br>liar |  
-| bip_39_word_new_br11 | border<br>such<br>cloud<br>doctor<br>bench<br>vintage<br>clerk<br>near<br>wasp<br>liar<br>swear |  
-| bip_39_word_new_br12 | border<br>such<br>cloud<br>doctor<br>bench<br>vintage<br>clerk<br>near<br>wasp<br>liar<br>swear<br>among |  
-| bip_39_word_new_br2 | border<br>such |  
-| bip_39_word_new_br3 | border<br>such<br>cloud |  
-| bip_39_word_new_br4 | border<br>such<br>cloud<br>doctor |  
-| bip_39_word_new_br5 | border<br>such<br>cloud<br>doctor<br>bench |  
-| bip_39_word_new_br6 | border<br>such<br>cloud<br>doctor<br>bench<br>vintage |  
-| bip_39_word_new_br7 | border<br>such<br>cloud<br>doctor<br>bench<br>vintage<br>clerk |  
-| bip_39_word_new_br8 | border<br>such<br>cloud<br>doctor<br>bench<br>vintage<br>clerk<br>near |  
-| bip_39_word_new_br9 | border<br>such<br>cloud<br>doctor<br>bench<br>vintage<br>clerk<br>near<br>wasp |  
-| bip_39_word_new_line1 | border |  
-| bip_39_word_new_line10 | border
+| bip_39_word_new_br_1 | border |  
+| bip_39_word_new_br_10 | border<br>such<br>cloud<br>doctor<br>bench<br>vintage<br>clerk<br>near<br>wasp<br>liar |  
+| bip_39_word_new_br_11 | border<br>such<br>cloud<br>doctor<br>bench<br>vintage<br>clerk<br>near<br>wasp<br>liar<br>swear |  
+| bip_39_word_new_br_12 | border<br>such<br>cloud<br>doctor<br>bench<br>vintage<br>clerk<br>near<br>wasp<br>liar<br>swear<br>among |  
+| bip_39_word_new_br_2 | border<br>such |  
+| bip_39_word_new_br_3 | border<br>such<br>cloud |  
+| bip_39_word_new_br_4 | border<br>such<br>cloud<br>doctor |  
+| bip_39_word_new_br_5 | border<br>such<br>cloud<br>doctor<br>bench |  
+| bip_39_word_new_br_6 | border<br>such<br>cloud<br>doctor<br>bench<br>vintage |  
+| bip_39_word_new_br_7 | border<br>such<br>cloud<br>doctor<br>bench<br>vintage<br>clerk |  
+| bip_39_word_new_br_8 | border<br>such<br>cloud<br>doctor<br>bench<br>vintage<br>clerk<br>near |  
+| bip_39_word_new_br_9 | border<br>such<br>cloud<br>doctor<br>bench<br>vintage<br>clerk<br>near<br>wasp |  
+| bip_39_word_new_line_1 | border |  
+| bip_39_word_new_line_10 | border
 such
 cloud
 doctor
@@ -55,7 +55,7 @@ clerk
 near
 wasp
 liar |  
-| bip_39_word_new_line11 | border
+| bip_39_word_new_line_11 | border
 such
 cloud
 doctor
@@ -66,7 +66,7 @@ near
 wasp
 liar
 swear |  
-| bip_39_word_new_line12 | border
+| bip_39_word_new_line_12 | border
 such
 cloud
 doctor
@@ -78,34 +78,34 @@ wasp
 liar
 swear
 among |  
-| bip_39_word_new_line2 | border
+| bip_39_word_new_line_2 | border
 such |  
-| bip_39_word_new_line3 | border
+| bip_39_word_new_line_3 | border
 such
 cloud |  
-| bip_39_word_new_line4 | border
+| bip_39_word_new_line_4 | border
 such
 cloud
 doctor |  
-| bip_39_word_new_line5 | border
+| bip_39_word_new_line_5 | border
 such
 cloud
 doctor
 bench |  
-| bip_39_word_new_line6 | border
+| bip_39_word_new_line_6 | border
 such
 cloud
 doctor
 bench
 vintage |  
-| bip_39_word_new_line7 | border
+| bip_39_word_new_line_7 | border
 such
 cloud
 doctor
 bench
 vintage
 clerk |  
-| bip_39_word_new_line8 | border
+| bip_39_word_new_line_8 | border
 such
 cloud
 doctor
@@ -113,7 +113,7 @@ bench
 vintage
 clerk
 near |  
-| bip_39_word_new_line9 | border
+| bip_39_word_new_line_9 | border
 such
 cloud
 doctor

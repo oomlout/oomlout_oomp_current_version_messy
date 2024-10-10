@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fold |  
-| bip_39_word_new_br10 | fold<br>flower<br>disorder<br>artist<br>idea<br>settle<br>matrix<br>combine<br>twin<br>mistake |  
-| bip_39_word_new_br11 | fold<br>flower<br>disorder<br>artist<br>idea<br>settle<br>matrix<br>combine<br>twin<br>mistake<br>illegal |  
-| bip_39_word_new_br12 | fold<br>flower<br>disorder<br>artist<br>idea<br>settle<br>matrix<br>combine<br>twin<br>mistake<br>illegal<br>amount |  
-| bip_39_word_new_br2 | fold<br>flower |  
-| bip_39_word_new_br3 | fold<br>flower<br>disorder |  
-| bip_39_word_new_br4 | fold<br>flower<br>disorder<br>artist |  
-| bip_39_word_new_br5 | fold<br>flower<br>disorder<br>artist<br>idea |  
-| bip_39_word_new_br6 | fold<br>flower<br>disorder<br>artist<br>idea<br>settle |  
-| bip_39_word_new_br7 | fold<br>flower<br>disorder<br>artist<br>idea<br>settle<br>matrix |  
-| bip_39_word_new_br8 | fold<br>flower<br>disorder<br>artist<br>idea<br>settle<br>matrix<br>combine |  
-| bip_39_word_new_br9 | fold<br>flower<br>disorder<br>artist<br>idea<br>settle<br>matrix<br>combine<br>twin |  
-| bip_39_word_new_line1 | fold |  
-| bip_39_word_new_line10 | fold
+| bip_39_word_new_br_1 | fold |  
+| bip_39_word_new_br_10 | fold<br>flower<br>disorder<br>artist<br>idea<br>settle<br>matrix<br>combine<br>twin<br>mistake |  
+| bip_39_word_new_br_11 | fold<br>flower<br>disorder<br>artist<br>idea<br>settle<br>matrix<br>combine<br>twin<br>mistake<br>illegal |  
+| bip_39_word_new_br_12 | fold<br>flower<br>disorder<br>artist<br>idea<br>settle<br>matrix<br>combine<br>twin<br>mistake<br>illegal<br>amount |  
+| bip_39_word_new_br_2 | fold<br>flower |  
+| bip_39_word_new_br_3 | fold<br>flower<br>disorder |  
+| bip_39_word_new_br_4 | fold<br>flower<br>disorder<br>artist |  
+| bip_39_word_new_br_5 | fold<br>flower<br>disorder<br>artist<br>idea |  
+| bip_39_word_new_br_6 | fold<br>flower<br>disorder<br>artist<br>idea<br>settle |  
+| bip_39_word_new_br_7 | fold<br>flower<br>disorder<br>artist<br>idea<br>settle<br>matrix |  
+| bip_39_word_new_br_8 | fold<br>flower<br>disorder<br>artist<br>idea<br>settle<br>matrix<br>combine |  
+| bip_39_word_new_br_9 | fold<br>flower<br>disorder<br>artist<br>idea<br>settle<br>matrix<br>combine<br>twin |  
+| bip_39_word_new_line_1 | fold |  
+| bip_39_word_new_line_10 | fold
 flower
 disorder
 artist
@@ -55,7 +55,7 @@ matrix
 combine
 twin
 mistake |  
-| bip_39_word_new_line11 | fold
+| bip_39_word_new_line_11 | fold
 flower
 disorder
 artist
@@ -66,7 +66,7 @@ combine
 twin
 mistake
 illegal |  
-| bip_39_word_new_line12 | fold
+| bip_39_word_new_line_12 | fold
 flower
 disorder
 artist
@@ -78,34 +78,34 @@ twin
 mistake
 illegal
 amount |  
-| bip_39_word_new_line2 | fold
+| bip_39_word_new_line_2 | fold
 flower |  
-| bip_39_word_new_line3 | fold
+| bip_39_word_new_line_3 | fold
 flower
 disorder |  
-| bip_39_word_new_line4 | fold
+| bip_39_word_new_line_4 | fold
 flower
 disorder
 artist |  
-| bip_39_word_new_line5 | fold
+| bip_39_word_new_line_5 | fold
 flower
 disorder
 artist
 idea |  
-| bip_39_word_new_line6 | fold
+| bip_39_word_new_line_6 | fold
 flower
 disorder
 artist
 idea
 settle |  
-| bip_39_word_new_line7 | fold
+| bip_39_word_new_line_7 | fold
 flower
 disorder
 artist
 idea
 settle
 matrix |  
-| bip_39_word_new_line8 | fold
+| bip_39_word_new_line_8 | fold
 flower
 disorder
 artist
@@ -113,7 +113,7 @@ idea
 settle
 matrix
 combine |  
-| bip_39_word_new_line9 | fold
+| bip_39_word_new_line_9 | fold
 flower
 disorder
 artist

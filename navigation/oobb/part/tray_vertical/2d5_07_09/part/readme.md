@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | discover |  
-| bip_39_word_new_br10 | discover<br>end<br>room<br>impact<br>chest<br>earth<br>arrange<br>cycle<br>churn<br>announce |  
-| bip_39_word_new_br11 | discover<br>end<br>room<br>impact<br>chest<br>earth<br>arrange<br>cycle<br>churn<br>announce<br>bread |  
-| bip_39_word_new_br12 | discover<br>end<br>room<br>impact<br>chest<br>earth<br>arrange<br>cycle<br>churn<br>announce<br>bread<br>any |  
-| bip_39_word_new_br2 | discover<br>end |  
-| bip_39_word_new_br3 | discover<br>end<br>room |  
-| bip_39_word_new_br4 | discover<br>end<br>room<br>impact |  
-| bip_39_word_new_br5 | discover<br>end<br>room<br>impact<br>chest |  
-| bip_39_word_new_br6 | discover<br>end<br>room<br>impact<br>chest<br>earth |  
-| bip_39_word_new_br7 | discover<br>end<br>room<br>impact<br>chest<br>earth<br>arrange |  
-| bip_39_word_new_br8 | discover<br>end<br>room<br>impact<br>chest<br>earth<br>arrange<br>cycle |  
-| bip_39_word_new_br9 | discover<br>end<br>room<br>impact<br>chest<br>earth<br>arrange<br>cycle<br>churn |  
-| bip_39_word_new_line1 | discover |  
-| bip_39_word_new_line10 | discover
+| bip_39_word_new_br_1 | discover |  
+| bip_39_word_new_br_10 | discover<br>end<br>room<br>impact<br>chest<br>earth<br>arrange<br>cycle<br>churn<br>announce |  
+| bip_39_word_new_br_11 | discover<br>end<br>room<br>impact<br>chest<br>earth<br>arrange<br>cycle<br>churn<br>announce<br>bread |  
+| bip_39_word_new_br_12 | discover<br>end<br>room<br>impact<br>chest<br>earth<br>arrange<br>cycle<br>churn<br>announce<br>bread<br>any |  
+| bip_39_word_new_br_2 | discover<br>end |  
+| bip_39_word_new_br_3 | discover<br>end<br>room |  
+| bip_39_word_new_br_4 | discover<br>end<br>room<br>impact |  
+| bip_39_word_new_br_5 | discover<br>end<br>room<br>impact<br>chest |  
+| bip_39_word_new_br_6 | discover<br>end<br>room<br>impact<br>chest<br>earth |  
+| bip_39_word_new_br_7 | discover<br>end<br>room<br>impact<br>chest<br>earth<br>arrange |  
+| bip_39_word_new_br_8 | discover<br>end<br>room<br>impact<br>chest<br>earth<br>arrange<br>cycle |  
+| bip_39_word_new_br_9 | discover<br>end<br>room<br>impact<br>chest<br>earth<br>arrange<br>cycle<br>churn |  
+| bip_39_word_new_line_1 | discover |  
+| bip_39_word_new_line_10 | discover
 end
 room
 impact
@@ -55,7 +55,7 @@ arrange
 cycle
 churn
 announce |  
-| bip_39_word_new_line11 | discover
+| bip_39_word_new_line_11 | discover
 end
 room
 impact
@@ -66,7 +66,7 @@ cycle
 churn
 announce
 bread |  
-| bip_39_word_new_line12 | discover
+| bip_39_word_new_line_12 | discover
 end
 room
 impact
@@ -78,34 +78,34 @@ churn
 announce
 bread
 any |  
-| bip_39_word_new_line2 | discover
+| bip_39_word_new_line_2 | discover
 end |  
-| bip_39_word_new_line3 | discover
+| bip_39_word_new_line_3 | discover
 end
 room |  
-| bip_39_word_new_line4 | discover
+| bip_39_word_new_line_4 | discover
 end
 room
 impact |  
-| bip_39_word_new_line5 | discover
+| bip_39_word_new_line_5 | discover
 end
 room
 impact
 chest |  
-| bip_39_word_new_line6 | discover
+| bip_39_word_new_line_6 | discover
 end
 room
 impact
 chest
 earth |  
-| bip_39_word_new_line7 | discover
+| bip_39_word_new_line_7 | discover
 end
 room
 impact
 chest
 earth
 arrange |  
-| bip_39_word_new_line8 | discover
+| bip_39_word_new_line_8 | discover
 end
 room
 impact
@@ -113,7 +113,7 @@ chest
 earth
 arrange
 cycle |  
-| bip_39_word_new_line9 | discover
+| bip_39_word_new_line_9 | discover
 end
 room
 impact

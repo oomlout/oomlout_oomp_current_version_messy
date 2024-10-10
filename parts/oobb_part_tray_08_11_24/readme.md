@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cabbage |  
-| bip_39_word_new_br10 | cabbage<br>inquiry<br>ridge<br>adult<br>spoil<br>agent<br>crime<br>mountain<br>detect<br>vast |  
-| bip_39_word_new_br11 | cabbage<br>inquiry<br>ridge<br>adult<br>spoil<br>agent<br>crime<br>mountain<br>detect<br>vast<br>horror |  
-| bip_39_word_new_br12 | cabbage<br>inquiry<br>ridge<br>adult<br>spoil<br>agent<br>crime<br>mountain<br>detect<br>vast<br>horror<br>alert |  
-| bip_39_word_new_br2 | cabbage<br>inquiry |  
-| bip_39_word_new_br3 | cabbage<br>inquiry<br>ridge |  
-| bip_39_word_new_br4 | cabbage<br>inquiry<br>ridge<br>adult |  
-| bip_39_word_new_br5 | cabbage<br>inquiry<br>ridge<br>adult<br>spoil |  
-| bip_39_word_new_br6 | cabbage<br>inquiry<br>ridge<br>adult<br>spoil<br>agent |  
-| bip_39_word_new_br7 | cabbage<br>inquiry<br>ridge<br>adult<br>spoil<br>agent<br>crime |  
-| bip_39_word_new_br8 | cabbage<br>inquiry<br>ridge<br>adult<br>spoil<br>agent<br>crime<br>mountain |  
-| bip_39_word_new_br9 | cabbage<br>inquiry<br>ridge<br>adult<br>spoil<br>agent<br>crime<br>mountain<br>detect |  
-| bip_39_word_new_line1 | cabbage |  
-| bip_39_word_new_line10 | cabbage
+| bip_39_word_new_br_1 | cabbage |  
+| bip_39_word_new_br_10 | cabbage<br>inquiry<br>ridge<br>adult<br>spoil<br>agent<br>crime<br>mountain<br>detect<br>vast |  
+| bip_39_word_new_br_11 | cabbage<br>inquiry<br>ridge<br>adult<br>spoil<br>agent<br>crime<br>mountain<br>detect<br>vast<br>horror |  
+| bip_39_word_new_br_12 | cabbage<br>inquiry<br>ridge<br>adult<br>spoil<br>agent<br>crime<br>mountain<br>detect<br>vast<br>horror<br>alert |  
+| bip_39_word_new_br_2 | cabbage<br>inquiry |  
+| bip_39_word_new_br_3 | cabbage<br>inquiry<br>ridge |  
+| bip_39_word_new_br_4 | cabbage<br>inquiry<br>ridge<br>adult |  
+| bip_39_word_new_br_5 | cabbage<br>inquiry<br>ridge<br>adult<br>spoil |  
+| bip_39_word_new_br_6 | cabbage<br>inquiry<br>ridge<br>adult<br>spoil<br>agent |  
+| bip_39_word_new_br_7 | cabbage<br>inquiry<br>ridge<br>adult<br>spoil<br>agent<br>crime |  
+| bip_39_word_new_br_8 | cabbage<br>inquiry<br>ridge<br>adult<br>spoil<br>agent<br>crime<br>mountain |  
+| bip_39_word_new_br_9 | cabbage<br>inquiry<br>ridge<br>adult<br>spoil<br>agent<br>crime<br>mountain<br>detect |  
+| bip_39_word_new_line_1 | cabbage |  
+| bip_39_word_new_line_10 | cabbage
 inquiry
 ridge
 adult
@@ -55,7 +55,7 @@ crime
 mountain
 detect
 vast |  
-| bip_39_word_new_line11 | cabbage
+| bip_39_word_new_line_11 | cabbage
 inquiry
 ridge
 adult
@@ -66,7 +66,7 @@ mountain
 detect
 vast
 horror |  
-| bip_39_word_new_line12 | cabbage
+| bip_39_word_new_line_12 | cabbage
 inquiry
 ridge
 adult
@@ -78,34 +78,34 @@ detect
 vast
 horror
 alert |  
-| bip_39_word_new_line2 | cabbage
+| bip_39_word_new_line_2 | cabbage
 inquiry |  
-| bip_39_word_new_line3 | cabbage
+| bip_39_word_new_line_3 | cabbage
 inquiry
 ridge |  
-| bip_39_word_new_line4 | cabbage
+| bip_39_word_new_line_4 | cabbage
 inquiry
 ridge
 adult |  
-| bip_39_word_new_line5 | cabbage
+| bip_39_word_new_line_5 | cabbage
 inquiry
 ridge
 adult
 spoil |  
-| bip_39_word_new_line6 | cabbage
+| bip_39_word_new_line_6 | cabbage
 inquiry
 ridge
 adult
 spoil
 agent |  
-| bip_39_word_new_line7 | cabbage
+| bip_39_word_new_line_7 | cabbage
 inquiry
 ridge
 adult
 spoil
 agent
 crime |  
-| bip_39_word_new_line8 | cabbage
+| bip_39_word_new_line_8 | cabbage
 inquiry
 ridge
 adult
@@ -113,7 +113,7 @@ spoil
 agent
 crime
 mountain |  
-| bip_39_word_new_line9 | cabbage
+| bip_39_word_new_line_9 | cabbage
 inquiry
 ridge
 adult

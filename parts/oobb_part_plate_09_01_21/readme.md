@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | comfort |  
-| bip_39_word_new_br10 | comfort<br>baby<br>bid<br>zero<br>entire<br>episode<br>together<br>title<br>model<br>spot |  
-| bip_39_word_new_br11 | comfort<br>baby<br>bid<br>zero<br>entire<br>episode<br>together<br>title<br>model<br>spot<br>aware |  
-| bip_39_word_new_br12 | comfort<br>baby<br>bid<br>zero<br>entire<br>episode<br>together<br>title<br>model<br>spot<br>aware<br>author |  
-| bip_39_word_new_br2 | comfort<br>baby |  
-| bip_39_word_new_br3 | comfort<br>baby<br>bid |  
-| bip_39_word_new_br4 | comfort<br>baby<br>bid<br>zero |  
-| bip_39_word_new_br5 | comfort<br>baby<br>bid<br>zero<br>entire |  
-| bip_39_word_new_br6 | comfort<br>baby<br>bid<br>zero<br>entire<br>episode |  
-| bip_39_word_new_br7 | comfort<br>baby<br>bid<br>zero<br>entire<br>episode<br>together |  
-| bip_39_word_new_br8 | comfort<br>baby<br>bid<br>zero<br>entire<br>episode<br>together<br>title |  
-| bip_39_word_new_br9 | comfort<br>baby<br>bid<br>zero<br>entire<br>episode<br>together<br>title<br>model |  
-| bip_39_word_new_line1 | comfort |  
-| bip_39_word_new_line10 | comfort
+| bip_39_word_new_br_1 | comfort |  
+| bip_39_word_new_br_10 | comfort<br>baby<br>bid<br>zero<br>entire<br>episode<br>together<br>title<br>model<br>spot |  
+| bip_39_word_new_br_11 | comfort<br>baby<br>bid<br>zero<br>entire<br>episode<br>together<br>title<br>model<br>spot<br>aware |  
+| bip_39_word_new_br_12 | comfort<br>baby<br>bid<br>zero<br>entire<br>episode<br>together<br>title<br>model<br>spot<br>aware<br>author |  
+| bip_39_word_new_br_2 | comfort<br>baby |  
+| bip_39_word_new_br_3 | comfort<br>baby<br>bid |  
+| bip_39_word_new_br_4 | comfort<br>baby<br>bid<br>zero |  
+| bip_39_word_new_br_5 | comfort<br>baby<br>bid<br>zero<br>entire |  
+| bip_39_word_new_br_6 | comfort<br>baby<br>bid<br>zero<br>entire<br>episode |  
+| bip_39_word_new_br_7 | comfort<br>baby<br>bid<br>zero<br>entire<br>episode<br>together |  
+| bip_39_word_new_br_8 | comfort<br>baby<br>bid<br>zero<br>entire<br>episode<br>together<br>title |  
+| bip_39_word_new_br_9 | comfort<br>baby<br>bid<br>zero<br>entire<br>episode<br>together<br>title<br>model |  
+| bip_39_word_new_line_1 | comfort |  
+| bip_39_word_new_line_10 | comfort
 baby
 bid
 zero
@@ -55,7 +55,7 @@ together
 title
 model
 spot |  
-| bip_39_word_new_line11 | comfort
+| bip_39_word_new_line_11 | comfort
 baby
 bid
 zero
@@ -66,7 +66,7 @@ title
 model
 spot
 aware |  
-| bip_39_word_new_line12 | comfort
+| bip_39_word_new_line_12 | comfort
 baby
 bid
 zero
@@ -78,34 +78,34 @@ model
 spot
 aware
 author |  
-| bip_39_word_new_line2 | comfort
+| bip_39_word_new_line_2 | comfort
 baby |  
-| bip_39_word_new_line3 | comfort
+| bip_39_word_new_line_3 | comfort
 baby
 bid |  
-| bip_39_word_new_line4 | comfort
+| bip_39_word_new_line_4 | comfort
 baby
 bid
 zero |  
-| bip_39_word_new_line5 | comfort
+| bip_39_word_new_line_5 | comfort
 baby
 bid
 zero
 entire |  
-| bip_39_word_new_line6 | comfort
+| bip_39_word_new_line_6 | comfort
 baby
 bid
 zero
 entire
 episode |  
-| bip_39_word_new_line7 | comfort
+| bip_39_word_new_line_7 | comfort
 baby
 bid
 zero
 entire
 episode
 together |  
-| bip_39_word_new_line8 | comfort
+| bip_39_word_new_line_8 | comfort
 baby
 bid
 zero
@@ -113,7 +113,7 @@ entire
 episode
 together
 title |  
-| bip_39_word_new_line9 | comfort
+| bip_39_word_new_line_9 | comfort
 baby
 bid
 zero

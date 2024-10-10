@@ -1,17 +1,17 @@
-bip_39_word_new_br1: moral
-bip_39_word_new_br10: moral<br>cotton<br>discover<br>half<br>sea<br>employ<br>notice<br>that<br>spy<br>light
-bip_39_word_new_br11: moral<br>cotton<br>discover<br>half<br>sea<br>employ<br>notice<br>that<br>spy<br>light<br>illegal
-bip_39_word_new_br12: moral<br>cotton<br>discover<br>half<br>sea<br>employ<br>notice<br>that<br>spy<br>light<br>illegal<br>alarm
-bip_39_word_new_br2: moral<br>cotton
-bip_39_word_new_br3: moral<br>cotton<br>discover
-bip_39_word_new_br4: moral<br>cotton<br>discover<br>half
-bip_39_word_new_br5: moral<br>cotton<br>discover<br>half<br>sea
-bip_39_word_new_br6: moral<br>cotton<br>discover<br>half<br>sea<br>employ
-bip_39_word_new_br7: moral<br>cotton<br>discover<br>half<br>sea<br>employ<br>notice
-bip_39_word_new_br8: moral<br>cotton<br>discover<br>half<br>sea<br>employ<br>notice<br>that
-bip_39_word_new_br9: moral<br>cotton<br>discover<br>half<br>sea<br>employ<br>notice<br>that<br>spy
-bip_39_word_new_line1: moral
-bip_39_word_new_line10: 'moral
+bip_39_word_new_br_1: moral
+bip_39_word_new_br_10: moral<br>cotton<br>discover<br>half<br>sea<br>employ<br>notice<br>that<br>spy<br>light
+bip_39_word_new_br_11: moral<br>cotton<br>discover<br>half<br>sea<br>employ<br>notice<br>that<br>spy<br>light<br>illegal
+bip_39_word_new_br_12: moral<br>cotton<br>discover<br>half<br>sea<br>employ<br>notice<br>that<br>spy<br>light<br>illegal<br>alarm
+bip_39_word_new_br_2: moral<br>cotton
+bip_39_word_new_br_3: moral<br>cotton<br>discover
+bip_39_word_new_br_4: moral<br>cotton<br>discover<br>half
+bip_39_word_new_br_5: moral<br>cotton<br>discover<br>half<br>sea
+bip_39_word_new_br_6: moral<br>cotton<br>discover<br>half<br>sea<br>employ
+bip_39_word_new_br_7: moral<br>cotton<br>discover<br>half<br>sea<br>employ<br>notice
+bip_39_word_new_br_8: moral<br>cotton<br>discover<br>half<br>sea<br>employ<br>notice<br>that
+bip_39_word_new_br_9: moral<br>cotton<br>discover<br>half<br>sea<br>employ<br>notice<br>that<br>spy
+bip_39_word_new_line_1: moral
+bip_39_word_new_line_10: 'moral
 
   cotton
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'moral
   spy
 
   light'
-bip_39_word_new_line11: 'moral
+bip_39_word_new_line_11: 'moral
 
   cotton
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'moral
   light
 
   illegal'
-bip_39_word_new_line12: 'moral
+bip_39_word_new_line_12: 'moral
 
   cotton
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'moral
   illegal
 
   alarm'
-bip_39_word_new_line2: 'moral
+bip_39_word_new_line_2: 'moral
 
   cotton'
-bip_39_word_new_line3: 'moral
+bip_39_word_new_line_3: 'moral
 
   cotton
 
   discover'
-bip_39_word_new_line4: 'moral
+bip_39_word_new_line_4: 'moral
 
   cotton
 
   discover
 
   half'
-bip_39_word_new_line5: 'moral
+bip_39_word_new_line_5: 'moral
 
   cotton
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'moral
   half
 
   sea'
-bip_39_word_new_line6: 'moral
+bip_39_word_new_line_6: 'moral
 
   cotton
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'moral
   sea
 
   employ'
-bip_39_word_new_line7: 'moral
+bip_39_word_new_line_7: 'moral
 
   cotton
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'moral
   employ
 
   notice'
-bip_39_word_new_line8: 'moral
+bip_39_word_new_line_8: 'moral
 
   cotton
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'moral
   notice
 
   that'
-bip_39_word_new_line9: 'moral
+bip_39_word_new_line_9: 'moral
 
   cotton
 

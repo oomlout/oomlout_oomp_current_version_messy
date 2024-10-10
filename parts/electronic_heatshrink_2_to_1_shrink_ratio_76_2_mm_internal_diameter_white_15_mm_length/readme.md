@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | thrive |  
-| bip_39_word_new_br10 | thrive<br>shine<br>bar<br>miracle<br>snack<br>clutch<br>report<br>master<br>second<br>grab |  
-| bip_39_word_new_br11 | thrive<br>shine<br>bar<br>miracle<br>snack<br>clutch<br>report<br>master<br>second<br>grab<br>slot |  
-| bip_39_word_new_br12 | thrive<br>shine<br>bar<br>miracle<br>snack<br>clutch<br>report<br>master<br>second<br>grab<br>slot<br>age |  
-| bip_39_word_new_br2 | thrive<br>shine |  
-| bip_39_word_new_br3 | thrive<br>shine<br>bar |  
-| bip_39_word_new_br4 | thrive<br>shine<br>bar<br>miracle |  
-| bip_39_word_new_br5 | thrive<br>shine<br>bar<br>miracle<br>snack |  
-| bip_39_word_new_br6 | thrive<br>shine<br>bar<br>miracle<br>snack<br>clutch |  
-| bip_39_word_new_br7 | thrive<br>shine<br>bar<br>miracle<br>snack<br>clutch<br>report |  
-| bip_39_word_new_br8 | thrive<br>shine<br>bar<br>miracle<br>snack<br>clutch<br>report<br>master |  
-| bip_39_word_new_br9 | thrive<br>shine<br>bar<br>miracle<br>snack<br>clutch<br>report<br>master<br>second |  
-| bip_39_word_new_line1 | thrive |  
-| bip_39_word_new_line10 | thrive
+| bip_39_word_new_br_1 | thrive |  
+| bip_39_word_new_br_10 | thrive<br>shine<br>bar<br>miracle<br>snack<br>clutch<br>report<br>master<br>second<br>grab |  
+| bip_39_word_new_br_11 | thrive<br>shine<br>bar<br>miracle<br>snack<br>clutch<br>report<br>master<br>second<br>grab<br>slot |  
+| bip_39_word_new_br_12 | thrive<br>shine<br>bar<br>miracle<br>snack<br>clutch<br>report<br>master<br>second<br>grab<br>slot<br>age |  
+| bip_39_word_new_br_2 | thrive<br>shine |  
+| bip_39_word_new_br_3 | thrive<br>shine<br>bar |  
+| bip_39_word_new_br_4 | thrive<br>shine<br>bar<br>miracle |  
+| bip_39_word_new_br_5 | thrive<br>shine<br>bar<br>miracle<br>snack |  
+| bip_39_word_new_br_6 | thrive<br>shine<br>bar<br>miracle<br>snack<br>clutch |  
+| bip_39_word_new_br_7 | thrive<br>shine<br>bar<br>miracle<br>snack<br>clutch<br>report |  
+| bip_39_word_new_br_8 | thrive<br>shine<br>bar<br>miracle<br>snack<br>clutch<br>report<br>master |  
+| bip_39_word_new_br_9 | thrive<br>shine<br>bar<br>miracle<br>snack<br>clutch<br>report<br>master<br>second |  
+| bip_39_word_new_line_1 | thrive |  
+| bip_39_word_new_line_10 | thrive
 shine
 bar
 miracle
@@ -55,7 +55,7 @@ report
 master
 second
 grab |  
-| bip_39_word_new_line11 | thrive
+| bip_39_word_new_line_11 | thrive
 shine
 bar
 miracle
@@ -66,7 +66,7 @@ master
 second
 grab
 slot |  
-| bip_39_word_new_line12 | thrive
+| bip_39_word_new_line_12 | thrive
 shine
 bar
 miracle
@@ -78,34 +78,34 @@ second
 grab
 slot
 age |  
-| bip_39_word_new_line2 | thrive
+| bip_39_word_new_line_2 | thrive
 shine |  
-| bip_39_word_new_line3 | thrive
+| bip_39_word_new_line_3 | thrive
 shine
 bar |  
-| bip_39_word_new_line4 | thrive
+| bip_39_word_new_line_4 | thrive
 shine
 bar
 miracle |  
-| bip_39_word_new_line5 | thrive
+| bip_39_word_new_line_5 | thrive
 shine
 bar
 miracle
 snack |  
-| bip_39_word_new_line6 | thrive
+| bip_39_word_new_line_6 | thrive
 shine
 bar
 miracle
 snack
 clutch |  
-| bip_39_word_new_line7 | thrive
+| bip_39_word_new_line_7 | thrive
 shine
 bar
 miracle
 snack
 clutch
 report |  
-| bip_39_word_new_line8 | thrive
+| bip_39_word_new_line_8 | thrive
 shine
 bar
 miracle
@@ -113,7 +113,7 @@ snack
 clutch
 report
 master |  
-| bip_39_word_new_line9 | thrive
+| bip_39_word_new_line_9 | thrive
 shine
 bar
 miracle

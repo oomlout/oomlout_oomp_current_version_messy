@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | old |  
-| bip_39_word_new_br10 | old<br>toss<br>axis<br>hub<br>scan<br>prize<br>obey<br>pottery<br>cable<br>indicate |  
-| bip_39_word_new_br11 | old<br>toss<br>axis<br>hub<br>scan<br>prize<br>obey<br>pottery<br>cable<br>indicate<br>jewel |  
-| bip_39_word_new_br12 | old<br>toss<br>axis<br>hub<br>scan<br>prize<br>obey<br>pottery<br>cable<br>indicate<br>jewel<br>assist |  
-| bip_39_word_new_br2 | old<br>toss |  
-| bip_39_word_new_br3 | old<br>toss<br>axis |  
-| bip_39_word_new_br4 | old<br>toss<br>axis<br>hub |  
-| bip_39_word_new_br5 | old<br>toss<br>axis<br>hub<br>scan |  
-| bip_39_word_new_br6 | old<br>toss<br>axis<br>hub<br>scan<br>prize |  
-| bip_39_word_new_br7 | old<br>toss<br>axis<br>hub<br>scan<br>prize<br>obey |  
-| bip_39_word_new_br8 | old<br>toss<br>axis<br>hub<br>scan<br>prize<br>obey<br>pottery |  
-| bip_39_word_new_br9 | old<br>toss<br>axis<br>hub<br>scan<br>prize<br>obey<br>pottery<br>cable |  
-| bip_39_word_new_line1 | old |  
-| bip_39_word_new_line10 | old
+| bip_39_word_new_br_1 | old |  
+| bip_39_word_new_br_10 | old<br>toss<br>axis<br>hub<br>scan<br>prize<br>obey<br>pottery<br>cable<br>indicate |  
+| bip_39_word_new_br_11 | old<br>toss<br>axis<br>hub<br>scan<br>prize<br>obey<br>pottery<br>cable<br>indicate<br>jewel |  
+| bip_39_word_new_br_12 | old<br>toss<br>axis<br>hub<br>scan<br>prize<br>obey<br>pottery<br>cable<br>indicate<br>jewel<br>assist |  
+| bip_39_word_new_br_2 | old<br>toss |  
+| bip_39_word_new_br_3 | old<br>toss<br>axis |  
+| bip_39_word_new_br_4 | old<br>toss<br>axis<br>hub |  
+| bip_39_word_new_br_5 | old<br>toss<br>axis<br>hub<br>scan |  
+| bip_39_word_new_br_6 | old<br>toss<br>axis<br>hub<br>scan<br>prize |  
+| bip_39_word_new_br_7 | old<br>toss<br>axis<br>hub<br>scan<br>prize<br>obey |  
+| bip_39_word_new_br_8 | old<br>toss<br>axis<br>hub<br>scan<br>prize<br>obey<br>pottery |  
+| bip_39_word_new_br_9 | old<br>toss<br>axis<br>hub<br>scan<br>prize<br>obey<br>pottery<br>cable |  
+| bip_39_word_new_line_1 | old |  
+| bip_39_word_new_line_10 | old
 toss
 axis
 hub
@@ -55,7 +55,7 @@ obey
 pottery
 cable
 indicate |  
-| bip_39_word_new_line11 | old
+| bip_39_word_new_line_11 | old
 toss
 axis
 hub
@@ -66,7 +66,7 @@ pottery
 cable
 indicate
 jewel |  
-| bip_39_word_new_line12 | old
+| bip_39_word_new_line_12 | old
 toss
 axis
 hub
@@ -78,34 +78,34 @@ cable
 indicate
 jewel
 assist |  
-| bip_39_word_new_line2 | old
+| bip_39_word_new_line_2 | old
 toss |  
-| bip_39_word_new_line3 | old
+| bip_39_word_new_line_3 | old
 toss
 axis |  
-| bip_39_word_new_line4 | old
+| bip_39_word_new_line_4 | old
 toss
 axis
 hub |  
-| bip_39_word_new_line5 | old
+| bip_39_word_new_line_5 | old
 toss
 axis
 hub
 scan |  
-| bip_39_word_new_line6 | old
+| bip_39_word_new_line_6 | old
 toss
 axis
 hub
 scan
 prize |  
-| bip_39_word_new_line7 | old
+| bip_39_word_new_line_7 | old
 toss
 axis
 hub
 scan
 prize
 obey |  
-| bip_39_word_new_line8 | old
+| bip_39_word_new_line_8 | old
 toss
 axis
 hub
@@ -113,7 +113,7 @@ scan
 prize
 obey
 pottery |  
-| bip_39_word_new_line9 | old
+| bip_39_word_new_line_9 | old
 toss
 axis
 hub

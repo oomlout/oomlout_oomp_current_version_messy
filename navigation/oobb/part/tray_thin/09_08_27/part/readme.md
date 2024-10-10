@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mirror |  
-| bip_39_word_new_br10 | mirror<br>refuse<br>pull<br>tomorrow<br>hand<br>wire<br>neutral<br>visit<br>kitchen<br>shell |  
-| bip_39_word_new_br11 | mirror<br>refuse<br>pull<br>tomorrow<br>hand<br>wire<br>neutral<br>visit<br>kitchen<br>shell<br>gentle |  
-| bip_39_word_new_br12 | mirror<br>refuse<br>pull<br>tomorrow<br>hand<br>wire<br>neutral<br>visit<br>kitchen<br>shell<br>gentle<br>apology |  
-| bip_39_word_new_br2 | mirror<br>refuse |  
-| bip_39_word_new_br3 | mirror<br>refuse<br>pull |  
-| bip_39_word_new_br4 | mirror<br>refuse<br>pull<br>tomorrow |  
-| bip_39_word_new_br5 | mirror<br>refuse<br>pull<br>tomorrow<br>hand |  
-| bip_39_word_new_br6 | mirror<br>refuse<br>pull<br>tomorrow<br>hand<br>wire |  
-| bip_39_word_new_br7 | mirror<br>refuse<br>pull<br>tomorrow<br>hand<br>wire<br>neutral |  
-| bip_39_word_new_br8 | mirror<br>refuse<br>pull<br>tomorrow<br>hand<br>wire<br>neutral<br>visit |  
-| bip_39_word_new_br9 | mirror<br>refuse<br>pull<br>tomorrow<br>hand<br>wire<br>neutral<br>visit<br>kitchen |  
-| bip_39_word_new_line1 | mirror |  
-| bip_39_word_new_line10 | mirror
+| bip_39_word_new_br_1 | mirror |  
+| bip_39_word_new_br_10 | mirror<br>refuse<br>pull<br>tomorrow<br>hand<br>wire<br>neutral<br>visit<br>kitchen<br>shell |  
+| bip_39_word_new_br_11 | mirror<br>refuse<br>pull<br>tomorrow<br>hand<br>wire<br>neutral<br>visit<br>kitchen<br>shell<br>gentle |  
+| bip_39_word_new_br_12 | mirror<br>refuse<br>pull<br>tomorrow<br>hand<br>wire<br>neutral<br>visit<br>kitchen<br>shell<br>gentle<br>apology |  
+| bip_39_word_new_br_2 | mirror<br>refuse |  
+| bip_39_word_new_br_3 | mirror<br>refuse<br>pull |  
+| bip_39_word_new_br_4 | mirror<br>refuse<br>pull<br>tomorrow |  
+| bip_39_word_new_br_5 | mirror<br>refuse<br>pull<br>tomorrow<br>hand |  
+| bip_39_word_new_br_6 | mirror<br>refuse<br>pull<br>tomorrow<br>hand<br>wire |  
+| bip_39_word_new_br_7 | mirror<br>refuse<br>pull<br>tomorrow<br>hand<br>wire<br>neutral |  
+| bip_39_word_new_br_8 | mirror<br>refuse<br>pull<br>tomorrow<br>hand<br>wire<br>neutral<br>visit |  
+| bip_39_word_new_br_9 | mirror<br>refuse<br>pull<br>tomorrow<br>hand<br>wire<br>neutral<br>visit<br>kitchen |  
+| bip_39_word_new_line_1 | mirror |  
+| bip_39_word_new_line_10 | mirror
 refuse
 pull
 tomorrow
@@ -55,7 +55,7 @@ neutral
 visit
 kitchen
 shell |  
-| bip_39_word_new_line11 | mirror
+| bip_39_word_new_line_11 | mirror
 refuse
 pull
 tomorrow
@@ -66,7 +66,7 @@ visit
 kitchen
 shell
 gentle |  
-| bip_39_word_new_line12 | mirror
+| bip_39_word_new_line_12 | mirror
 refuse
 pull
 tomorrow
@@ -78,34 +78,34 @@ kitchen
 shell
 gentle
 apology |  
-| bip_39_word_new_line2 | mirror
+| bip_39_word_new_line_2 | mirror
 refuse |  
-| bip_39_word_new_line3 | mirror
+| bip_39_word_new_line_3 | mirror
 refuse
 pull |  
-| bip_39_word_new_line4 | mirror
+| bip_39_word_new_line_4 | mirror
 refuse
 pull
 tomorrow |  
-| bip_39_word_new_line5 | mirror
+| bip_39_word_new_line_5 | mirror
 refuse
 pull
 tomorrow
 hand |  
-| bip_39_word_new_line6 | mirror
+| bip_39_word_new_line_6 | mirror
 refuse
 pull
 tomorrow
 hand
 wire |  
-| bip_39_word_new_line7 | mirror
+| bip_39_word_new_line_7 | mirror
 refuse
 pull
 tomorrow
 hand
 wire
 neutral |  
-| bip_39_word_new_line8 | mirror
+| bip_39_word_new_line_8 | mirror
 refuse
 pull
 tomorrow
@@ -113,7 +113,7 @@ hand
 wire
 neutral
 visit |  
-| bip_39_word_new_line9 | mirror
+| bip_39_word_new_line_9 | mirror
 refuse
 pull
 tomorrow

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wreck |  
-| bip_39_word_new_br10 | wreck<br>pride<br>cricket<br>pen<br>fit<br>spot<br>vote<br>mass<br>snack<br>spin |  
-| bip_39_word_new_br11 | wreck<br>pride<br>cricket<br>pen<br>fit<br>spot<br>vote<br>mass<br>snack<br>spin<br>entry |  
-| bip_39_word_new_br12 | wreck<br>pride<br>cricket<br>pen<br>fit<br>spot<br>vote<br>mass<br>snack<br>spin<br>entry<br>angry |  
-| bip_39_word_new_br2 | wreck<br>pride |  
-| bip_39_word_new_br3 | wreck<br>pride<br>cricket |  
-| bip_39_word_new_br4 | wreck<br>pride<br>cricket<br>pen |  
-| bip_39_word_new_br5 | wreck<br>pride<br>cricket<br>pen<br>fit |  
-| bip_39_word_new_br6 | wreck<br>pride<br>cricket<br>pen<br>fit<br>spot |  
-| bip_39_word_new_br7 | wreck<br>pride<br>cricket<br>pen<br>fit<br>spot<br>vote |  
-| bip_39_word_new_br8 | wreck<br>pride<br>cricket<br>pen<br>fit<br>spot<br>vote<br>mass |  
-| bip_39_word_new_br9 | wreck<br>pride<br>cricket<br>pen<br>fit<br>spot<br>vote<br>mass<br>snack |  
-| bip_39_word_new_line1 | wreck |  
-| bip_39_word_new_line10 | wreck
+| bip_39_word_new_br_1 | wreck |  
+| bip_39_word_new_br_10 | wreck<br>pride<br>cricket<br>pen<br>fit<br>spot<br>vote<br>mass<br>snack<br>spin |  
+| bip_39_word_new_br_11 | wreck<br>pride<br>cricket<br>pen<br>fit<br>spot<br>vote<br>mass<br>snack<br>spin<br>entry |  
+| bip_39_word_new_br_12 | wreck<br>pride<br>cricket<br>pen<br>fit<br>spot<br>vote<br>mass<br>snack<br>spin<br>entry<br>angry |  
+| bip_39_word_new_br_2 | wreck<br>pride |  
+| bip_39_word_new_br_3 | wreck<br>pride<br>cricket |  
+| bip_39_word_new_br_4 | wreck<br>pride<br>cricket<br>pen |  
+| bip_39_word_new_br_5 | wreck<br>pride<br>cricket<br>pen<br>fit |  
+| bip_39_word_new_br_6 | wreck<br>pride<br>cricket<br>pen<br>fit<br>spot |  
+| bip_39_word_new_br_7 | wreck<br>pride<br>cricket<br>pen<br>fit<br>spot<br>vote |  
+| bip_39_word_new_br_8 | wreck<br>pride<br>cricket<br>pen<br>fit<br>spot<br>vote<br>mass |  
+| bip_39_word_new_br_9 | wreck<br>pride<br>cricket<br>pen<br>fit<br>spot<br>vote<br>mass<br>snack |  
+| bip_39_word_new_line_1 | wreck |  
+| bip_39_word_new_line_10 | wreck
 pride
 cricket
 pen
@@ -55,7 +55,7 @@ vote
 mass
 snack
 spin |  
-| bip_39_word_new_line11 | wreck
+| bip_39_word_new_line_11 | wreck
 pride
 cricket
 pen
@@ -66,7 +66,7 @@ mass
 snack
 spin
 entry |  
-| bip_39_word_new_line12 | wreck
+| bip_39_word_new_line_12 | wreck
 pride
 cricket
 pen
@@ -78,34 +78,34 @@ snack
 spin
 entry
 angry |  
-| bip_39_word_new_line2 | wreck
+| bip_39_word_new_line_2 | wreck
 pride |  
-| bip_39_word_new_line3 | wreck
+| bip_39_word_new_line_3 | wreck
 pride
 cricket |  
-| bip_39_word_new_line4 | wreck
+| bip_39_word_new_line_4 | wreck
 pride
 cricket
 pen |  
-| bip_39_word_new_line5 | wreck
+| bip_39_word_new_line_5 | wreck
 pride
 cricket
 pen
 fit |  
-| bip_39_word_new_line6 | wreck
+| bip_39_word_new_line_6 | wreck
 pride
 cricket
 pen
 fit
 spot |  
-| bip_39_word_new_line7 | wreck
+| bip_39_word_new_line_7 | wreck
 pride
 cricket
 pen
 fit
 spot
 vote |  
-| bip_39_word_new_line8 | wreck
+| bip_39_word_new_line_8 | wreck
 pride
 cricket
 pen
@@ -113,7 +113,7 @@ fit
 spot
 vote
 mass |  
-| bip_39_word_new_line9 | wreck
+| bip_39_word_new_line_9 | wreck
 pride
 cricket
 pen

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | high |  
-| bip_39_word_new_br10 | high<br>general<br>kick<br>roof<br>scheme<br>six<br>north<br>license<br>tragic<br>prosper |  
-| bip_39_word_new_br11 | high<br>general<br>kick<br>roof<br>scheme<br>six<br>north<br>license<br>tragic<br>prosper<br>owner |  
-| bip_39_word_new_br12 | high<br>general<br>kick<br>roof<br>scheme<br>six<br>north<br>license<br>tragic<br>prosper<br>owner<br>arch |  
-| bip_39_word_new_br2 | high<br>general |  
-| bip_39_word_new_br3 | high<br>general<br>kick |  
-| bip_39_word_new_br4 | high<br>general<br>kick<br>roof |  
-| bip_39_word_new_br5 | high<br>general<br>kick<br>roof<br>scheme |  
-| bip_39_word_new_br6 | high<br>general<br>kick<br>roof<br>scheme<br>six |  
-| bip_39_word_new_br7 | high<br>general<br>kick<br>roof<br>scheme<br>six<br>north |  
-| bip_39_word_new_br8 | high<br>general<br>kick<br>roof<br>scheme<br>six<br>north<br>license |  
-| bip_39_word_new_br9 | high<br>general<br>kick<br>roof<br>scheme<br>six<br>north<br>license<br>tragic |  
-| bip_39_word_new_line1 | high |  
-| bip_39_word_new_line10 | high
+| bip_39_word_new_br_1 | high |  
+| bip_39_word_new_br_10 | high<br>general<br>kick<br>roof<br>scheme<br>six<br>north<br>license<br>tragic<br>prosper |  
+| bip_39_word_new_br_11 | high<br>general<br>kick<br>roof<br>scheme<br>six<br>north<br>license<br>tragic<br>prosper<br>owner |  
+| bip_39_word_new_br_12 | high<br>general<br>kick<br>roof<br>scheme<br>six<br>north<br>license<br>tragic<br>prosper<br>owner<br>arch |  
+| bip_39_word_new_br_2 | high<br>general |  
+| bip_39_word_new_br_3 | high<br>general<br>kick |  
+| bip_39_word_new_br_4 | high<br>general<br>kick<br>roof |  
+| bip_39_word_new_br_5 | high<br>general<br>kick<br>roof<br>scheme |  
+| bip_39_word_new_br_6 | high<br>general<br>kick<br>roof<br>scheme<br>six |  
+| bip_39_word_new_br_7 | high<br>general<br>kick<br>roof<br>scheme<br>six<br>north |  
+| bip_39_word_new_br_8 | high<br>general<br>kick<br>roof<br>scheme<br>six<br>north<br>license |  
+| bip_39_word_new_br_9 | high<br>general<br>kick<br>roof<br>scheme<br>six<br>north<br>license<br>tragic |  
+| bip_39_word_new_line_1 | high |  
+| bip_39_word_new_line_10 | high
 general
 kick
 roof
@@ -55,7 +55,7 @@ north
 license
 tragic
 prosper |  
-| bip_39_word_new_line11 | high
+| bip_39_word_new_line_11 | high
 general
 kick
 roof
@@ -66,7 +66,7 @@ license
 tragic
 prosper
 owner |  
-| bip_39_word_new_line12 | high
+| bip_39_word_new_line_12 | high
 general
 kick
 roof
@@ -78,34 +78,34 @@ tragic
 prosper
 owner
 arch |  
-| bip_39_word_new_line2 | high
+| bip_39_word_new_line_2 | high
 general |  
-| bip_39_word_new_line3 | high
+| bip_39_word_new_line_3 | high
 general
 kick |  
-| bip_39_word_new_line4 | high
+| bip_39_word_new_line_4 | high
 general
 kick
 roof |  
-| bip_39_word_new_line5 | high
+| bip_39_word_new_line_5 | high
 general
 kick
 roof
 scheme |  
-| bip_39_word_new_line6 | high
+| bip_39_word_new_line_6 | high
 general
 kick
 roof
 scheme
 six |  
-| bip_39_word_new_line7 | high
+| bip_39_word_new_line_7 | high
 general
 kick
 roof
 scheme
 six
 north |  
-| bip_39_word_new_line8 | high
+| bip_39_word_new_line_8 | high
 general
 kick
 roof
@@ -113,7 +113,7 @@ scheme
 six
 north
 license |  
-| bip_39_word_new_line9 | high
+| bip_39_word_new_line_9 | high
 general
 kick
 roof

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | crime |  
-| bip_39_word_new_br10 | crime<br>hold<br>devote<br>funny<br>tent<br>three<br>luxury<br>purchase<br>under<br>forest |  
-| bip_39_word_new_br11 | crime<br>hold<br>devote<br>funny<br>tent<br>three<br>luxury<br>purchase<br>under<br>forest<br>cruel |  
-| bip_39_word_new_br12 | crime<br>hold<br>devote<br>funny<br>tent<br>three<br>luxury<br>purchase<br>under<br>forest<br>cruel<br>auto |  
-| bip_39_word_new_br2 | crime<br>hold |  
-| bip_39_word_new_br3 | crime<br>hold<br>devote |  
-| bip_39_word_new_br4 | crime<br>hold<br>devote<br>funny |  
-| bip_39_word_new_br5 | crime<br>hold<br>devote<br>funny<br>tent |  
-| bip_39_word_new_br6 | crime<br>hold<br>devote<br>funny<br>tent<br>three |  
-| bip_39_word_new_br7 | crime<br>hold<br>devote<br>funny<br>tent<br>three<br>luxury |  
-| bip_39_word_new_br8 | crime<br>hold<br>devote<br>funny<br>tent<br>three<br>luxury<br>purchase |  
-| bip_39_word_new_br9 | crime<br>hold<br>devote<br>funny<br>tent<br>three<br>luxury<br>purchase<br>under |  
-| bip_39_word_new_line1 | crime |  
-| bip_39_word_new_line10 | crime
+| bip_39_word_new_br_1 | crime |  
+| bip_39_word_new_br_10 | crime<br>hold<br>devote<br>funny<br>tent<br>three<br>luxury<br>purchase<br>under<br>forest |  
+| bip_39_word_new_br_11 | crime<br>hold<br>devote<br>funny<br>tent<br>three<br>luxury<br>purchase<br>under<br>forest<br>cruel |  
+| bip_39_word_new_br_12 | crime<br>hold<br>devote<br>funny<br>tent<br>three<br>luxury<br>purchase<br>under<br>forest<br>cruel<br>auto |  
+| bip_39_word_new_br_2 | crime<br>hold |  
+| bip_39_word_new_br_3 | crime<br>hold<br>devote |  
+| bip_39_word_new_br_4 | crime<br>hold<br>devote<br>funny |  
+| bip_39_word_new_br_5 | crime<br>hold<br>devote<br>funny<br>tent |  
+| bip_39_word_new_br_6 | crime<br>hold<br>devote<br>funny<br>tent<br>three |  
+| bip_39_word_new_br_7 | crime<br>hold<br>devote<br>funny<br>tent<br>three<br>luxury |  
+| bip_39_word_new_br_8 | crime<br>hold<br>devote<br>funny<br>tent<br>three<br>luxury<br>purchase |  
+| bip_39_word_new_br_9 | crime<br>hold<br>devote<br>funny<br>tent<br>three<br>luxury<br>purchase<br>under |  
+| bip_39_word_new_line_1 | crime |  
+| bip_39_word_new_line_10 | crime
 hold
 devote
 funny
@@ -55,7 +55,7 @@ luxury
 purchase
 under
 forest |  
-| bip_39_word_new_line11 | crime
+| bip_39_word_new_line_11 | crime
 hold
 devote
 funny
@@ -66,7 +66,7 @@ purchase
 under
 forest
 cruel |  
-| bip_39_word_new_line12 | crime
+| bip_39_word_new_line_12 | crime
 hold
 devote
 funny
@@ -78,34 +78,34 @@ under
 forest
 cruel
 auto |  
-| bip_39_word_new_line2 | crime
+| bip_39_word_new_line_2 | crime
 hold |  
-| bip_39_word_new_line3 | crime
+| bip_39_word_new_line_3 | crime
 hold
 devote |  
-| bip_39_word_new_line4 | crime
+| bip_39_word_new_line_4 | crime
 hold
 devote
 funny |  
-| bip_39_word_new_line5 | crime
+| bip_39_word_new_line_5 | crime
 hold
 devote
 funny
 tent |  
-| bip_39_word_new_line6 | crime
+| bip_39_word_new_line_6 | crime
 hold
 devote
 funny
 tent
 three |  
-| bip_39_word_new_line7 | crime
+| bip_39_word_new_line_7 | crime
 hold
 devote
 funny
 tent
 three
 luxury |  
-| bip_39_word_new_line8 | crime
+| bip_39_word_new_line_8 | crime
 hold
 devote
 funny
@@ -113,7 +113,7 @@ tent
 three
 luxury
 purchase |  
-| bip_39_word_new_line9 | crime
+| bip_39_word_new_line_9 | crime
 hold
 devote
 funny

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | leader |  
-| bip_39_word_new_br10 | leader<br>panel<br>bean<br>symptom<br>friend<br>put<br>another<br>grain<br>protect<br>ribbon |  
-| bip_39_word_new_br11 | leader<br>panel<br>bean<br>symptom<br>friend<br>put<br>another<br>grain<br>protect<br>ribbon<br>garage |  
-| bip_39_word_new_br12 | leader<br>panel<br>bean<br>symptom<br>friend<br>put<br>another<br>grain<br>protect<br>ribbon<br>garage<br>alpha |  
-| bip_39_word_new_br2 | leader<br>panel |  
-| bip_39_word_new_br3 | leader<br>panel<br>bean |  
-| bip_39_word_new_br4 | leader<br>panel<br>bean<br>symptom |  
-| bip_39_word_new_br5 | leader<br>panel<br>bean<br>symptom<br>friend |  
-| bip_39_word_new_br6 | leader<br>panel<br>bean<br>symptom<br>friend<br>put |  
-| bip_39_word_new_br7 | leader<br>panel<br>bean<br>symptom<br>friend<br>put<br>another |  
-| bip_39_word_new_br8 | leader<br>panel<br>bean<br>symptom<br>friend<br>put<br>another<br>grain |  
-| bip_39_word_new_br9 | leader<br>panel<br>bean<br>symptom<br>friend<br>put<br>another<br>grain<br>protect |  
-| bip_39_word_new_line1 | leader |  
-| bip_39_word_new_line10 | leader
+| bip_39_word_new_br_1 | leader |  
+| bip_39_word_new_br_10 | leader<br>panel<br>bean<br>symptom<br>friend<br>put<br>another<br>grain<br>protect<br>ribbon |  
+| bip_39_word_new_br_11 | leader<br>panel<br>bean<br>symptom<br>friend<br>put<br>another<br>grain<br>protect<br>ribbon<br>garage |  
+| bip_39_word_new_br_12 | leader<br>panel<br>bean<br>symptom<br>friend<br>put<br>another<br>grain<br>protect<br>ribbon<br>garage<br>alpha |  
+| bip_39_word_new_br_2 | leader<br>panel |  
+| bip_39_word_new_br_3 | leader<br>panel<br>bean |  
+| bip_39_word_new_br_4 | leader<br>panel<br>bean<br>symptom |  
+| bip_39_word_new_br_5 | leader<br>panel<br>bean<br>symptom<br>friend |  
+| bip_39_word_new_br_6 | leader<br>panel<br>bean<br>symptom<br>friend<br>put |  
+| bip_39_word_new_br_7 | leader<br>panel<br>bean<br>symptom<br>friend<br>put<br>another |  
+| bip_39_word_new_br_8 | leader<br>panel<br>bean<br>symptom<br>friend<br>put<br>another<br>grain |  
+| bip_39_word_new_br_9 | leader<br>panel<br>bean<br>symptom<br>friend<br>put<br>another<br>grain<br>protect |  
+| bip_39_word_new_line_1 | leader |  
+| bip_39_word_new_line_10 | leader
 panel
 bean
 symptom
@@ -55,7 +55,7 @@ another
 grain
 protect
 ribbon |  
-| bip_39_word_new_line11 | leader
+| bip_39_word_new_line_11 | leader
 panel
 bean
 symptom
@@ -66,7 +66,7 @@ grain
 protect
 ribbon
 garage |  
-| bip_39_word_new_line12 | leader
+| bip_39_word_new_line_12 | leader
 panel
 bean
 symptom
@@ -78,34 +78,34 @@ protect
 ribbon
 garage
 alpha |  
-| bip_39_word_new_line2 | leader
+| bip_39_word_new_line_2 | leader
 panel |  
-| bip_39_word_new_line3 | leader
+| bip_39_word_new_line_3 | leader
 panel
 bean |  
-| bip_39_word_new_line4 | leader
+| bip_39_word_new_line_4 | leader
 panel
 bean
 symptom |  
-| bip_39_word_new_line5 | leader
+| bip_39_word_new_line_5 | leader
 panel
 bean
 symptom
 friend |  
-| bip_39_word_new_line6 | leader
+| bip_39_word_new_line_6 | leader
 panel
 bean
 symptom
 friend
 put |  
-| bip_39_word_new_line7 | leader
+| bip_39_word_new_line_7 | leader
 panel
 bean
 symptom
 friend
 put
 another |  
-| bip_39_word_new_line8 | leader
+| bip_39_word_new_line_8 | leader
 panel
 bean
 symptom
@@ -113,7 +113,7 @@ friend
 put
 another
 grain |  
-| bip_39_word_new_line9 | leader
+| bip_39_word_new_line_9 | leader
 panel
 bean
 symptom

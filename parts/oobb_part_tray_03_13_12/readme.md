@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | defense |  
-| bip_39_word_new_br10 | defense<br>affair<br>rain<br>drink<br>pull<br>repair<br>rescue<br>reunion<br>small<br>current |  
-| bip_39_word_new_br11 | defense<br>affair<br>rain<br>drink<br>pull<br>repair<br>rescue<br>reunion<br>small<br>current<br>wear |  
-| bip_39_word_new_br12 | defense<br>affair<br>rain<br>drink<br>pull<br>repair<br>rescue<br>reunion<br>small<br>current<br>wear<br>access |  
-| bip_39_word_new_br2 | defense<br>affair |  
-| bip_39_word_new_br3 | defense<br>affair<br>rain |  
-| bip_39_word_new_br4 | defense<br>affair<br>rain<br>drink |  
-| bip_39_word_new_br5 | defense<br>affair<br>rain<br>drink<br>pull |  
-| bip_39_word_new_br6 | defense<br>affair<br>rain<br>drink<br>pull<br>repair |  
-| bip_39_word_new_br7 | defense<br>affair<br>rain<br>drink<br>pull<br>repair<br>rescue |  
-| bip_39_word_new_br8 | defense<br>affair<br>rain<br>drink<br>pull<br>repair<br>rescue<br>reunion |  
-| bip_39_word_new_br9 | defense<br>affair<br>rain<br>drink<br>pull<br>repair<br>rescue<br>reunion<br>small |  
-| bip_39_word_new_line1 | defense |  
-| bip_39_word_new_line10 | defense
+| bip_39_word_new_br_1 | defense |  
+| bip_39_word_new_br_10 | defense<br>affair<br>rain<br>drink<br>pull<br>repair<br>rescue<br>reunion<br>small<br>current |  
+| bip_39_word_new_br_11 | defense<br>affair<br>rain<br>drink<br>pull<br>repair<br>rescue<br>reunion<br>small<br>current<br>wear |  
+| bip_39_word_new_br_12 | defense<br>affair<br>rain<br>drink<br>pull<br>repair<br>rescue<br>reunion<br>small<br>current<br>wear<br>access |  
+| bip_39_word_new_br_2 | defense<br>affair |  
+| bip_39_word_new_br_3 | defense<br>affair<br>rain |  
+| bip_39_word_new_br_4 | defense<br>affair<br>rain<br>drink |  
+| bip_39_word_new_br_5 | defense<br>affair<br>rain<br>drink<br>pull |  
+| bip_39_word_new_br_6 | defense<br>affair<br>rain<br>drink<br>pull<br>repair |  
+| bip_39_word_new_br_7 | defense<br>affair<br>rain<br>drink<br>pull<br>repair<br>rescue |  
+| bip_39_word_new_br_8 | defense<br>affair<br>rain<br>drink<br>pull<br>repair<br>rescue<br>reunion |  
+| bip_39_word_new_br_9 | defense<br>affair<br>rain<br>drink<br>pull<br>repair<br>rescue<br>reunion<br>small |  
+| bip_39_word_new_line_1 | defense |  
+| bip_39_word_new_line_10 | defense
 affair
 rain
 drink
@@ -55,7 +55,7 @@ rescue
 reunion
 small
 current |  
-| bip_39_word_new_line11 | defense
+| bip_39_word_new_line_11 | defense
 affair
 rain
 drink
@@ -66,7 +66,7 @@ reunion
 small
 current
 wear |  
-| bip_39_word_new_line12 | defense
+| bip_39_word_new_line_12 | defense
 affair
 rain
 drink
@@ -78,34 +78,34 @@ small
 current
 wear
 access |  
-| bip_39_word_new_line2 | defense
+| bip_39_word_new_line_2 | defense
 affair |  
-| bip_39_word_new_line3 | defense
+| bip_39_word_new_line_3 | defense
 affair
 rain |  
-| bip_39_word_new_line4 | defense
+| bip_39_word_new_line_4 | defense
 affair
 rain
 drink |  
-| bip_39_word_new_line5 | defense
+| bip_39_word_new_line_5 | defense
 affair
 rain
 drink
 pull |  
-| bip_39_word_new_line6 | defense
+| bip_39_word_new_line_6 | defense
 affair
 rain
 drink
 pull
 repair |  
-| bip_39_word_new_line7 | defense
+| bip_39_word_new_line_7 | defense
 affair
 rain
 drink
 pull
 repair
 rescue |  
-| bip_39_word_new_line8 | defense
+| bip_39_word_new_line_8 | defense
 affair
 rain
 drink
@@ -113,7 +113,7 @@ pull
 repair
 rescue
 reunion |  
-| bip_39_word_new_line9 | defense
+| bip_39_word_new_line_9 | defense
 affair
 rain
 drink

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | adapt |  
-| bip_39_word_new_br10 | adapt<br>income<br>chicken<br>tribe<br>copy<br>fossil<br>change<br>distance<br>country<br>safe |  
-| bip_39_word_new_br11 | adapt<br>income<br>chicken<br>tribe<br>copy<br>fossil<br>change<br>distance<br>country<br>safe<br>evoke |  
-| bip_39_word_new_br12 | adapt<br>income<br>chicken<br>tribe<br>copy<br>fossil<br>change<br>distance<br>country<br>safe<br>evoke<br>air |  
-| bip_39_word_new_br2 | adapt<br>income |  
-| bip_39_word_new_br3 | adapt<br>income<br>chicken |  
-| bip_39_word_new_br4 | adapt<br>income<br>chicken<br>tribe |  
-| bip_39_word_new_br5 | adapt<br>income<br>chicken<br>tribe<br>copy |  
-| bip_39_word_new_br6 | adapt<br>income<br>chicken<br>tribe<br>copy<br>fossil |  
-| bip_39_word_new_br7 | adapt<br>income<br>chicken<br>tribe<br>copy<br>fossil<br>change |  
-| bip_39_word_new_br8 | adapt<br>income<br>chicken<br>tribe<br>copy<br>fossil<br>change<br>distance |  
-| bip_39_word_new_br9 | adapt<br>income<br>chicken<br>tribe<br>copy<br>fossil<br>change<br>distance<br>country |  
-| bip_39_word_new_line1 | adapt |  
-| bip_39_word_new_line10 | adapt
+| bip_39_word_new_br_1 | adapt |  
+| bip_39_word_new_br_10 | adapt<br>income<br>chicken<br>tribe<br>copy<br>fossil<br>change<br>distance<br>country<br>safe |  
+| bip_39_word_new_br_11 | adapt<br>income<br>chicken<br>tribe<br>copy<br>fossil<br>change<br>distance<br>country<br>safe<br>evoke |  
+| bip_39_word_new_br_12 | adapt<br>income<br>chicken<br>tribe<br>copy<br>fossil<br>change<br>distance<br>country<br>safe<br>evoke<br>air |  
+| bip_39_word_new_br_2 | adapt<br>income |  
+| bip_39_word_new_br_3 | adapt<br>income<br>chicken |  
+| bip_39_word_new_br_4 | adapt<br>income<br>chicken<br>tribe |  
+| bip_39_word_new_br_5 | adapt<br>income<br>chicken<br>tribe<br>copy |  
+| bip_39_word_new_br_6 | adapt<br>income<br>chicken<br>tribe<br>copy<br>fossil |  
+| bip_39_word_new_br_7 | adapt<br>income<br>chicken<br>tribe<br>copy<br>fossil<br>change |  
+| bip_39_word_new_br_8 | adapt<br>income<br>chicken<br>tribe<br>copy<br>fossil<br>change<br>distance |  
+| bip_39_word_new_br_9 | adapt<br>income<br>chicken<br>tribe<br>copy<br>fossil<br>change<br>distance<br>country |  
+| bip_39_word_new_line_1 | adapt |  
+| bip_39_word_new_line_10 | adapt
 income
 chicken
 tribe
@@ -55,7 +55,7 @@ change
 distance
 country
 safe |  
-| bip_39_word_new_line11 | adapt
+| bip_39_word_new_line_11 | adapt
 income
 chicken
 tribe
@@ -66,7 +66,7 @@ distance
 country
 safe
 evoke |  
-| bip_39_word_new_line12 | adapt
+| bip_39_word_new_line_12 | adapt
 income
 chicken
 tribe
@@ -78,34 +78,34 @@ country
 safe
 evoke
 air |  
-| bip_39_word_new_line2 | adapt
+| bip_39_word_new_line_2 | adapt
 income |  
-| bip_39_word_new_line3 | adapt
+| bip_39_word_new_line_3 | adapt
 income
 chicken |  
-| bip_39_word_new_line4 | adapt
+| bip_39_word_new_line_4 | adapt
 income
 chicken
 tribe |  
-| bip_39_word_new_line5 | adapt
+| bip_39_word_new_line_5 | adapt
 income
 chicken
 tribe
 copy |  
-| bip_39_word_new_line6 | adapt
+| bip_39_word_new_line_6 | adapt
 income
 chicken
 tribe
 copy
 fossil |  
-| bip_39_word_new_line7 | adapt
+| bip_39_word_new_line_7 | adapt
 income
 chicken
 tribe
 copy
 fossil
 change |  
-| bip_39_word_new_line8 | adapt
+| bip_39_word_new_line_8 | adapt
 income
 chicken
 tribe
@@ -113,7 +113,7 @@ copy
 fossil
 change
 distance |  
-| bip_39_word_new_line9 | adapt
+| bip_39_word_new_line_9 | adapt
 income
 chicken
 tribe

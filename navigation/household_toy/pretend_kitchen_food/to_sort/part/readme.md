@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | enable |  
-| bip_39_word_new_br10 | enable<br>they<br>extend<br>fruit<br>improve<br>domain<br>coyote<br>you<br>industry<br>spare |  
-| bip_39_word_new_br11 | enable<br>they<br>extend<br>fruit<br>improve<br>domain<br>coyote<br>you<br>industry<br>spare<br>liquid |  
-| bip_39_word_new_br12 | enable<br>they<br>extend<br>fruit<br>improve<br>domain<br>coyote<br>you<br>industry<br>spare<br>liquid<br>among |  
-| bip_39_word_new_br2 | enable<br>they |  
-| bip_39_word_new_br3 | enable<br>they<br>extend |  
-| bip_39_word_new_br4 | enable<br>they<br>extend<br>fruit |  
-| bip_39_word_new_br5 | enable<br>they<br>extend<br>fruit<br>improve |  
-| bip_39_word_new_br6 | enable<br>they<br>extend<br>fruit<br>improve<br>domain |  
-| bip_39_word_new_br7 | enable<br>they<br>extend<br>fruit<br>improve<br>domain<br>coyote |  
-| bip_39_word_new_br8 | enable<br>they<br>extend<br>fruit<br>improve<br>domain<br>coyote<br>you |  
-| bip_39_word_new_br9 | enable<br>they<br>extend<br>fruit<br>improve<br>domain<br>coyote<br>you<br>industry |  
-| bip_39_word_new_line1 | enable |  
-| bip_39_word_new_line10 | enable
+| bip_39_word_new_br_1 | enable |  
+| bip_39_word_new_br_10 | enable<br>they<br>extend<br>fruit<br>improve<br>domain<br>coyote<br>you<br>industry<br>spare |  
+| bip_39_word_new_br_11 | enable<br>they<br>extend<br>fruit<br>improve<br>domain<br>coyote<br>you<br>industry<br>spare<br>liquid |  
+| bip_39_word_new_br_12 | enable<br>they<br>extend<br>fruit<br>improve<br>domain<br>coyote<br>you<br>industry<br>spare<br>liquid<br>among |  
+| bip_39_word_new_br_2 | enable<br>they |  
+| bip_39_word_new_br_3 | enable<br>they<br>extend |  
+| bip_39_word_new_br_4 | enable<br>they<br>extend<br>fruit |  
+| bip_39_word_new_br_5 | enable<br>they<br>extend<br>fruit<br>improve |  
+| bip_39_word_new_br_6 | enable<br>they<br>extend<br>fruit<br>improve<br>domain |  
+| bip_39_word_new_br_7 | enable<br>they<br>extend<br>fruit<br>improve<br>domain<br>coyote |  
+| bip_39_word_new_br_8 | enable<br>they<br>extend<br>fruit<br>improve<br>domain<br>coyote<br>you |  
+| bip_39_word_new_br_9 | enable<br>they<br>extend<br>fruit<br>improve<br>domain<br>coyote<br>you<br>industry |  
+| bip_39_word_new_line_1 | enable |  
+| bip_39_word_new_line_10 | enable
 they
 extend
 fruit
@@ -55,7 +55,7 @@ coyote
 you
 industry
 spare |  
-| bip_39_word_new_line11 | enable
+| bip_39_word_new_line_11 | enable
 they
 extend
 fruit
@@ -66,7 +66,7 @@ you
 industry
 spare
 liquid |  
-| bip_39_word_new_line12 | enable
+| bip_39_word_new_line_12 | enable
 they
 extend
 fruit
@@ -78,34 +78,34 @@ industry
 spare
 liquid
 among |  
-| bip_39_word_new_line2 | enable
+| bip_39_word_new_line_2 | enable
 they |  
-| bip_39_word_new_line3 | enable
+| bip_39_word_new_line_3 | enable
 they
 extend |  
-| bip_39_word_new_line4 | enable
+| bip_39_word_new_line_4 | enable
 they
 extend
 fruit |  
-| bip_39_word_new_line5 | enable
+| bip_39_word_new_line_5 | enable
 they
 extend
 fruit
 improve |  
-| bip_39_word_new_line6 | enable
+| bip_39_word_new_line_6 | enable
 they
 extend
 fruit
 improve
 domain |  
-| bip_39_word_new_line7 | enable
+| bip_39_word_new_line_7 | enable
 they
 extend
 fruit
 improve
 domain
 coyote |  
-| bip_39_word_new_line8 | enable
+| bip_39_word_new_line_8 | enable
 they
 extend
 fruit
@@ -113,7 +113,7 @@ improve
 domain
 coyote
 you |  
-| bip_39_word_new_line9 | enable
+| bip_39_word_new_line_9 | enable
 they
 extend
 fruit

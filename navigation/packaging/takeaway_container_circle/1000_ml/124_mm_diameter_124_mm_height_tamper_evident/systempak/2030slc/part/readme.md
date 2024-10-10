@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | avoid |  
-| bip_39_word_new_br10 | avoid<br>rent<br>frown<br>alley<br>tide<br>transfer<br>slide<br>fork<br>sock<br>believe |  
-| bip_39_word_new_br11 | avoid<br>rent<br>frown<br>alley<br>tide<br>transfer<br>slide<br>fork<br>sock<br>believe<br>cherry |  
-| bip_39_word_new_br12 | avoid<br>rent<br>frown<br>alley<br>tide<br>transfer<br>slide<br>fork<br>sock<br>believe<br>cherry<br>admit |  
-| bip_39_word_new_br2 | avoid<br>rent |  
-| bip_39_word_new_br3 | avoid<br>rent<br>frown |  
-| bip_39_word_new_br4 | avoid<br>rent<br>frown<br>alley |  
-| bip_39_word_new_br5 | avoid<br>rent<br>frown<br>alley<br>tide |  
-| bip_39_word_new_br6 | avoid<br>rent<br>frown<br>alley<br>tide<br>transfer |  
-| bip_39_word_new_br7 | avoid<br>rent<br>frown<br>alley<br>tide<br>transfer<br>slide |  
-| bip_39_word_new_br8 | avoid<br>rent<br>frown<br>alley<br>tide<br>transfer<br>slide<br>fork |  
-| bip_39_word_new_br9 | avoid<br>rent<br>frown<br>alley<br>tide<br>transfer<br>slide<br>fork<br>sock |  
-| bip_39_word_new_line1 | avoid |  
-| bip_39_word_new_line10 | avoid
+| bip_39_word_new_br_1 | avoid |  
+| bip_39_word_new_br_10 | avoid<br>rent<br>frown<br>alley<br>tide<br>transfer<br>slide<br>fork<br>sock<br>believe |  
+| bip_39_word_new_br_11 | avoid<br>rent<br>frown<br>alley<br>tide<br>transfer<br>slide<br>fork<br>sock<br>believe<br>cherry |  
+| bip_39_word_new_br_12 | avoid<br>rent<br>frown<br>alley<br>tide<br>transfer<br>slide<br>fork<br>sock<br>believe<br>cherry<br>admit |  
+| bip_39_word_new_br_2 | avoid<br>rent |  
+| bip_39_word_new_br_3 | avoid<br>rent<br>frown |  
+| bip_39_word_new_br_4 | avoid<br>rent<br>frown<br>alley |  
+| bip_39_word_new_br_5 | avoid<br>rent<br>frown<br>alley<br>tide |  
+| bip_39_word_new_br_6 | avoid<br>rent<br>frown<br>alley<br>tide<br>transfer |  
+| bip_39_word_new_br_7 | avoid<br>rent<br>frown<br>alley<br>tide<br>transfer<br>slide |  
+| bip_39_word_new_br_8 | avoid<br>rent<br>frown<br>alley<br>tide<br>transfer<br>slide<br>fork |  
+| bip_39_word_new_br_9 | avoid<br>rent<br>frown<br>alley<br>tide<br>transfer<br>slide<br>fork<br>sock |  
+| bip_39_word_new_line_1 | avoid |  
+| bip_39_word_new_line_10 | avoid
 rent
 frown
 alley
@@ -55,7 +55,7 @@ slide
 fork
 sock
 believe |  
-| bip_39_word_new_line11 | avoid
+| bip_39_word_new_line_11 | avoid
 rent
 frown
 alley
@@ -66,7 +66,7 @@ fork
 sock
 believe
 cherry |  
-| bip_39_word_new_line12 | avoid
+| bip_39_word_new_line_12 | avoid
 rent
 frown
 alley
@@ -78,34 +78,34 @@ sock
 believe
 cherry
 admit |  
-| bip_39_word_new_line2 | avoid
+| bip_39_word_new_line_2 | avoid
 rent |  
-| bip_39_word_new_line3 | avoid
+| bip_39_word_new_line_3 | avoid
 rent
 frown |  
-| bip_39_word_new_line4 | avoid
+| bip_39_word_new_line_4 | avoid
 rent
 frown
 alley |  
-| bip_39_word_new_line5 | avoid
+| bip_39_word_new_line_5 | avoid
 rent
 frown
 alley
 tide |  
-| bip_39_word_new_line6 | avoid
+| bip_39_word_new_line_6 | avoid
 rent
 frown
 alley
 tide
 transfer |  
-| bip_39_word_new_line7 | avoid
+| bip_39_word_new_line_7 | avoid
 rent
 frown
 alley
 tide
 transfer
 slide |  
-| bip_39_word_new_line8 | avoid
+| bip_39_word_new_line_8 | avoid
 rent
 frown
 alley
@@ -113,7 +113,7 @@ tide
 transfer
 slide
 fork |  
-| bip_39_word_new_line9 | avoid
+| bip_39_word_new_line_9 | avoid
 rent
 frown
 alley

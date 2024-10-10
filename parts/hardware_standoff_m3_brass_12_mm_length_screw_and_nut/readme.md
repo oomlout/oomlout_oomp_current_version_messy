@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | zone |  
-| bip_39_word_new_br10 | zone<br>seek<br>police<br>foot<br>lock<br>produce<br>unit<br>school<br>share<br>other |  
-| bip_39_word_new_br11 | zone<br>seek<br>police<br>foot<br>lock<br>produce<br>unit<br>school<br>share<br>other<br>aware |  
-| bip_39_word_new_br12 | zone<br>seek<br>police<br>foot<br>lock<br>produce<br>unit<br>school<br>share<br>other<br>aware<br>air |  
-| bip_39_word_new_br2 | zone<br>seek |  
-| bip_39_word_new_br3 | zone<br>seek<br>police |  
-| bip_39_word_new_br4 | zone<br>seek<br>police<br>foot |  
-| bip_39_word_new_br5 | zone<br>seek<br>police<br>foot<br>lock |  
-| bip_39_word_new_br6 | zone<br>seek<br>police<br>foot<br>lock<br>produce |  
-| bip_39_word_new_br7 | zone<br>seek<br>police<br>foot<br>lock<br>produce<br>unit |  
-| bip_39_word_new_br8 | zone<br>seek<br>police<br>foot<br>lock<br>produce<br>unit<br>school |  
-| bip_39_word_new_br9 | zone<br>seek<br>police<br>foot<br>lock<br>produce<br>unit<br>school<br>share |  
-| bip_39_word_new_line1 | zone |  
-| bip_39_word_new_line10 | zone
+| bip_39_word_new_br_1 | zone |  
+| bip_39_word_new_br_10 | zone<br>seek<br>police<br>foot<br>lock<br>produce<br>unit<br>school<br>share<br>other |  
+| bip_39_word_new_br_11 | zone<br>seek<br>police<br>foot<br>lock<br>produce<br>unit<br>school<br>share<br>other<br>aware |  
+| bip_39_word_new_br_12 | zone<br>seek<br>police<br>foot<br>lock<br>produce<br>unit<br>school<br>share<br>other<br>aware<br>air |  
+| bip_39_word_new_br_2 | zone<br>seek |  
+| bip_39_word_new_br_3 | zone<br>seek<br>police |  
+| bip_39_word_new_br_4 | zone<br>seek<br>police<br>foot |  
+| bip_39_word_new_br_5 | zone<br>seek<br>police<br>foot<br>lock |  
+| bip_39_word_new_br_6 | zone<br>seek<br>police<br>foot<br>lock<br>produce |  
+| bip_39_word_new_br_7 | zone<br>seek<br>police<br>foot<br>lock<br>produce<br>unit |  
+| bip_39_word_new_br_8 | zone<br>seek<br>police<br>foot<br>lock<br>produce<br>unit<br>school |  
+| bip_39_word_new_br_9 | zone<br>seek<br>police<br>foot<br>lock<br>produce<br>unit<br>school<br>share |  
+| bip_39_word_new_line_1 | zone |  
+| bip_39_word_new_line_10 | zone
 seek
 police
 foot
@@ -55,7 +55,7 @@ unit
 school
 share
 other |  
-| bip_39_word_new_line11 | zone
+| bip_39_word_new_line_11 | zone
 seek
 police
 foot
@@ -66,7 +66,7 @@ school
 share
 other
 aware |  
-| bip_39_word_new_line12 | zone
+| bip_39_word_new_line_12 | zone
 seek
 police
 foot
@@ -78,34 +78,34 @@ share
 other
 aware
 air |  
-| bip_39_word_new_line2 | zone
+| bip_39_word_new_line_2 | zone
 seek |  
-| bip_39_word_new_line3 | zone
+| bip_39_word_new_line_3 | zone
 seek
 police |  
-| bip_39_word_new_line4 | zone
+| bip_39_word_new_line_4 | zone
 seek
 police
 foot |  
-| bip_39_word_new_line5 | zone
+| bip_39_word_new_line_5 | zone
 seek
 police
 foot
 lock |  
-| bip_39_word_new_line6 | zone
+| bip_39_word_new_line_6 | zone
 seek
 police
 foot
 lock
 produce |  
-| bip_39_word_new_line7 | zone
+| bip_39_word_new_line_7 | zone
 seek
 police
 foot
 lock
 produce
 unit |  
-| bip_39_word_new_line8 | zone
+| bip_39_word_new_line_8 | zone
 seek
 police
 foot
@@ -113,7 +113,7 @@ lock
 produce
 unit
 school |  
-| bip_39_word_new_line9 | zone
+| bip_39_word_new_line_9 | zone
 seek
 police
 foot

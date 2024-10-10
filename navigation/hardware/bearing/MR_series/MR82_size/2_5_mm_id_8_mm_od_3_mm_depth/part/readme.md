@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | grain |  
-| bip_39_word_new_br10 | grain<br>reward<br>monster<br>climb<br>eager<br>cash<br>donkey<br>skin<br>solar<br>universe |  
-| bip_39_word_new_br11 | grain<br>reward<br>monster<br>climb<br>eager<br>cash<br>donkey<br>skin<br>solar<br>universe<br>panda |  
-| bip_39_word_new_br12 | grain<br>reward<br>monster<br>climb<br>eager<br>cash<br>donkey<br>skin<br>solar<br>universe<br>panda<br>asset |  
-| bip_39_word_new_br2 | grain<br>reward |  
-| bip_39_word_new_br3 | grain<br>reward<br>monster |  
-| bip_39_word_new_br4 | grain<br>reward<br>monster<br>climb |  
-| bip_39_word_new_br5 | grain<br>reward<br>monster<br>climb<br>eager |  
-| bip_39_word_new_br6 | grain<br>reward<br>monster<br>climb<br>eager<br>cash |  
-| bip_39_word_new_br7 | grain<br>reward<br>monster<br>climb<br>eager<br>cash<br>donkey |  
-| bip_39_word_new_br8 | grain<br>reward<br>monster<br>climb<br>eager<br>cash<br>donkey<br>skin |  
-| bip_39_word_new_br9 | grain<br>reward<br>monster<br>climb<br>eager<br>cash<br>donkey<br>skin<br>solar |  
-| bip_39_word_new_line1 | grain |  
-| bip_39_word_new_line10 | grain
+| bip_39_word_new_br_1 | grain |  
+| bip_39_word_new_br_10 | grain<br>reward<br>monster<br>climb<br>eager<br>cash<br>donkey<br>skin<br>solar<br>universe |  
+| bip_39_word_new_br_11 | grain<br>reward<br>monster<br>climb<br>eager<br>cash<br>donkey<br>skin<br>solar<br>universe<br>panda |  
+| bip_39_word_new_br_12 | grain<br>reward<br>monster<br>climb<br>eager<br>cash<br>donkey<br>skin<br>solar<br>universe<br>panda<br>asset |  
+| bip_39_word_new_br_2 | grain<br>reward |  
+| bip_39_word_new_br_3 | grain<br>reward<br>monster |  
+| bip_39_word_new_br_4 | grain<br>reward<br>monster<br>climb |  
+| bip_39_word_new_br_5 | grain<br>reward<br>monster<br>climb<br>eager |  
+| bip_39_word_new_br_6 | grain<br>reward<br>monster<br>climb<br>eager<br>cash |  
+| bip_39_word_new_br_7 | grain<br>reward<br>monster<br>climb<br>eager<br>cash<br>donkey |  
+| bip_39_word_new_br_8 | grain<br>reward<br>monster<br>climb<br>eager<br>cash<br>donkey<br>skin |  
+| bip_39_word_new_br_9 | grain<br>reward<br>monster<br>climb<br>eager<br>cash<br>donkey<br>skin<br>solar |  
+| bip_39_word_new_line_1 | grain |  
+| bip_39_word_new_line_10 | grain
 reward
 monster
 climb
@@ -55,7 +55,7 @@ donkey
 skin
 solar
 universe |  
-| bip_39_word_new_line11 | grain
+| bip_39_word_new_line_11 | grain
 reward
 monster
 climb
@@ -66,7 +66,7 @@ skin
 solar
 universe
 panda |  
-| bip_39_word_new_line12 | grain
+| bip_39_word_new_line_12 | grain
 reward
 monster
 climb
@@ -78,34 +78,34 @@ solar
 universe
 panda
 asset |  
-| bip_39_word_new_line2 | grain
+| bip_39_word_new_line_2 | grain
 reward |  
-| bip_39_word_new_line3 | grain
+| bip_39_word_new_line_3 | grain
 reward
 monster |  
-| bip_39_word_new_line4 | grain
+| bip_39_word_new_line_4 | grain
 reward
 monster
 climb |  
-| bip_39_word_new_line5 | grain
+| bip_39_word_new_line_5 | grain
 reward
 monster
 climb
 eager |  
-| bip_39_word_new_line6 | grain
+| bip_39_word_new_line_6 | grain
 reward
 monster
 climb
 eager
 cash |  
-| bip_39_word_new_line7 | grain
+| bip_39_word_new_line_7 | grain
 reward
 monster
 climb
 eager
 cash
 donkey |  
-| bip_39_word_new_line8 | grain
+| bip_39_word_new_line_8 | grain
 reward
 monster
 climb
@@ -113,7 +113,7 @@ eager
 cash
 donkey
 skin |  
-| bip_39_word_new_line9 | grain
+| bip_39_word_new_line_9 | grain
 reward
 monster
 climb

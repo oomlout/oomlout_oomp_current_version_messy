@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | decrease |  
-| bip_39_word_new_br10 | decrease<br>famous<br>depend<br>slot<br>affair<br>tragic<br>tumble<br>spice<br>noodle<br>cat |  
-| bip_39_word_new_br11 | decrease<br>famous<br>depend<br>slot<br>affair<br>tragic<br>tumble<br>spice<br>noodle<br>cat<br>federal |  
-| bip_39_word_new_br12 | decrease<br>famous<br>depend<br>slot<br>affair<br>tragic<br>tumble<br>spice<br>noodle<br>cat<br>federal<br>adapt |  
-| bip_39_word_new_br2 | decrease<br>famous |  
-| bip_39_word_new_br3 | decrease<br>famous<br>depend |  
-| bip_39_word_new_br4 | decrease<br>famous<br>depend<br>slot |  
-| bip_39_word_new_br5 | decrease<br>famous<br>depend<br>slot<br>affair |  
-| bip_39_word_new_br6 | decrease<br>famous<br>depend<br>slot<br>affair<br>tragic |  
-| bip_39_word_new_br7 | decrease<br>famous<br>depend<br>slot<br>affair<br>tragic<br>tumble |  
-| bip_39_word_new_br8 | decrease<br>famous<br>depend<br>slot<br>affair<br>tragic<br>tumble<br>spice |  
-| bip_39_word_new_br9 | decrease<br>famous<br>depend<br>slot<br>affair<br>tragic<br>tumble<br>spice<br>noodle |  
-| bip_39_word_new_line1 | decrease |  
-| bip_39_word_new_line10 | decrease
+| bip_39_word_new_br_1 | decrease |  
+| bip_39_word_new_br_10 | decrease<br>famous<br>depend<br>slot<br>affair<br>tragic<br>tumble<br>spice<br>noodle<br>cat |  
+| bip_39_word_new_br_11 | decrease<br>famous<br>depend<br>slot<br>affair<br>tragic<br>tumble<br>spice<br>noodle<br>cat<br>federal |  
+| bip_39_word_new_br_12 | decrease<br>famous<br>depend<br>slot<br>affair<br>tragic<br>tumble<br>spice<br>noodle<br>cat<br>federal<br>adapt |  
+| bip_39_word_new_br_2 | decrease<br>famous |  
+| bip_39_word_new_br_3 | decrease<br>famous<br>depend |  
+| bip_39_word_new_br_4 | decrease<br>famous<br>depend<br>slot |  
+| bip_39_word_new_br_5 | decrease<br>famous<br>depend<br>slot<br>affair |  
+| bip_39_word_new_br_6 | decrease<br>famous<br>depend<br>slot<br>affair<br>tragic |  
+| bip_39_word_new_br_7 | decrease<br>famous<br>depend<br>slot<br>affair<br>tragic<br>tumble |  
+| bip_39_word_new_br_8 | decrease<br>famous<br>depend<br>slot<br>affair<br>tragic<br>tumble<br>spice |  
+| bip_39_word_new_br_9 | decrease<br>famous<br>depend<br>slot<br>affair<br>tragic<br>tumble<br>spice<br>noodle |  
+| bip_39_word_new_line_1 | decrease |  
+| bip_39_word_new_line_10 | decrease
 famous
 depend
 slot
@@ -55,7 +55,7 @@ tumble
 spice
 noodle
 cat |  
-| bip_39_word_new_line11 | decrease
+| bip_39_word_new_line_11 | decrease
 famous
 depend
 slot
@@ -66,7 +66,7 @@ spice
 noodle
 cat
 federal |  
-| bip_39_word_new_line12 | decrease
+| bip_39_word_new_line_12 | decrease
 famous
 depend
 slot
@@ -78,34 +78,34 @@ noodle
 cat
 federal
 adapt |  
-| bip_39_word_new_line2 | decrease
+| bip_39_word_new_line_2 | decrease
 famous |  
-| bip_39_word_new_line3 | decrease
+| bip_39_word_new_line_3 | decrease
 famous
 depend |  
-| bip_39_word_new_line4 | decrease
+| bip_39_word_new_line_4 | decrease
 famous
 depend
 slot |  
-| bip_39_word_new_line5 | decrease
+| bip_39_word_new_line_5 | decrease
 famous
 depend
 slot
 affair |  
-| bip_39_word_new_line6 | decrease
+| bip_39_word_new_line_6 | decrease
 famous
 depend
 slot
 affair
 tragic |  
-| bip_39_word_new_line7 | decrease
+| bip_39_word_new_line_7 | decrease
 famous
 depend
 slot
 affair
 tragic
 tumble |  
-| bip_39_word_new_line8 | decrease
+| bip_39_word_new_line_8 | decrease
 famous
 depend
 slot
@@ -113,7 +113,7 @@ affair
 tragic
 tumble
 spice |  
-| bip_39_word_new_line9 | decrease
+| bip_39_word_new_line_9 | decrease
 famous
 depend
 slot

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | liar |  
-| bip_39_word_new_br10 | liar<br>riot<br>violin<br>step<br>embark<br>curtain<br>phrase<br>hill<br>supply<br>denial |  
-| bip_39_word_new_br11 | liar<br>riot<br>violin<br>step<br>embark<br>curtain<br>phrase<br>hill<br>supply<br>denial<br>exit |  
-| bip_39_word_new_br12 | liar<br>riot<br>violin<br>step<br>embark<br>curtain<br>phrase<br>hill<br>supply<br>denial<br>exit<br>analyst |  
-| bip_39_word_new_br2 | liar<br>riot |  
-| bip_39_word_new_br3 | liar<br>riot<br>violin |  
-| bip_39_word_new_br4 | liar<br>riot<br>violin<br>step |  
-| bip_39_word_new_br5 | liar<br>riot<br>violin<br>step<br>embark |  
-| bip_39_word_new_br6 | liar<br>riot<br>violin<br>step<br>embark<br>curtain |  
-| bip_39_word_new_br7 | liar<br>riot<br>violin<br>step<br>embark<br>curtain<br>phrase |  
-| bip_39_word_new_br8 | liar<br>riot<br>violin<br>step<br>embark<br>curtain<br>phrase<br>hill |  
-| bip_39_word_new_br9 | liar<br>riot<br>violin<br>step<br>embark<br>curtain<br>phrase<br>hill<br>supply |  
-| bip_39_word_new_line1 | liar |  
-| bip_39_word_new_line10 | liar
+| bip_39_word_new_br_1 | liar |  
+| bip_39_word_new_br_10 | liar<br>riot<br>violin<br>step<br>embark<br>curtain<br>phrase<br>hill<br>supply<br>denial |  
+| bip_39_word_new_br_11 | liar<br>riot<br>violin<br>step<br>embark<br>curtain<br>phrase<br>hill<br>supply<br>denial<br>exit |  
+| bip_39_word_new_br_12 | liar<br>riot<br>violin<br>step<br>embark<br>curtain<br>phrase<br>hill<br>supply<br>denial<br>exit<br>analyst |  
+| bip_39_word_new_br_2 | liar<br>riot |  
+| bip_39_word_new_br_3 | liar<br>riot<br>violin |  
+| bip_39_word_new_br_4 | liar<br>riot<br>violin<br>step |  
+| bip_39_word_new_br_5 | liar<br>riot<br>violin<br>step<br>embark |  
+| bip_39_word_new_br_6 | liar<br>riot<br>violin<br>step<br>embark<br>curtain |  
+| bip_39_word_new_br_7 | liar<br>riot<br>violin<br>step<br>embark<br>curtain<br>phrase |  
+| bip_39_word_new_br_8 | liar<br>riot<br>violin<br>step<br>embark<br>curtain<br>phrase<br>hill |  
+| bip_39_word_new_br_9 | liar<br>riot<br>violin<br>step<br>embark<br>curtain<br>phrase<br>hill<br>supply |  
+| bip_39_word_new_line_1 | liar |  
+| bip_39_word_new_line_10 | liar
 riot
 violin
 step
@@ -55,7 +55,7 @@ phrase
 hill
 supply
 denial |  
-| bip_39_word_new_line11 | liar
+| bip_39_word_new_line_11 | liar
 riot
 violin
 step
@@ -66,7 +66,7 @@ hill
 supply
 denial
 exit |  
-| bip_39_word_new_line12 | liar
+| bip_39_word_new_line_12 | liar
 riot
 violin
 step
@@ -78,34 +78,34 @@ supply
 denial
 exit
 analyst |  
-| bip_39_word_new_line2 | liar
+| bip_39_word_new_line_2 | liar
 riot |  
-| bip_39_word_new_line3 | liar
+| bip_39_word_new_line_3 | liar
 riot
 violin |  
-| bip_39_word_new_line4 | liar
+| bip_39_word_new_line_4 | liar
 riot
 violin
 step |  
-| bip_39_word_new_line5 | liar
+| bip_39_word_new_line_5 | liar
 riot
 violin
 step
 embark |  
-| bip_39_word_new_line6 | liar
+| bip_39_word_new_line_6 | liar
 riot
 violin
 step
 embark
 curtain |  
-| bip_39_word_new_line7 | liar
+| bip_39_word_new_line_7 | liar
 riot
 violin
 step
 embark
 curtain
 phrase |  
-| bip_39_word_new_line8 | liar
+| bip_39_word_new_line_8 | liar
 riot
 violin
 step
@@ -113,7 +113,7 @@ embark
 curtain
 phrase
 hill |  
-| bip_39_word_new_line9 | liar
+| bip_39_word_new_line_9 | liar
 riot
 violin
 step

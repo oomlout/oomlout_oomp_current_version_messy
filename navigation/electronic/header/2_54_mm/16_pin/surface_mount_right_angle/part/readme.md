@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | issue |  
-| bip_39_word_new_br10 | issue<br>flavor<br>tennis<br>reduce<br>casual<br>original<br>doll<br>secret<br>fee<br>ship |  
-| bip_39_word_new_br11 | issue<br>flavor<br>tennis<br>reduce<br>casual<br>original<br>doll<br>secret<br>fee<br>ship<br>large |  
-| bip_39_word_new_br12 | issue<br>flavor<br>tennis<br>reduce<br>casual<br>original<br>doll<br>secret<br>fee<br>ship<br>large<br>autumn |  
-| bip_39_word_new_br2 | issue<br>flavor |  
-| bip_39_word_new_br3 | issue<br>flavor<br>tennis |  
-| bip_39_word_new_br4 | issue<br>flavor<br>tennis<br>reduce |  
-| bip_39_word_new_br5 | issue<br>flavor<br>tennis<br>reduce<br>casual |  
-| bip_39_word_new_br6 | issue<br>flavor<br>tennis<br>reduce<br>casual<br>original |  
-| bip_39_word_new_br7 | issue<br>flavor<br>tennis<br>reduce<br>casual<br>original<br>doll |  
-| bip_39_word_new_br8 | issue<br>flavor<br>tennis<br>reduce<br>casual<br>original<br>doll<br>secret |  
-| bip_39_word_new_br9 | issue<br>flavor<br>tennis<br>reduce<br>casual<br>original<br>doll<br>secret<br>fee |  
-| bip_39_word_new_line1 | issue |  
-| bip_39_word_new_line10 | issue
+| bip_39_word_new_br_1 | issue |  
+| bip_39_word_new_br_10 | issue<br>flavor<br>tennis<br>reduce<br>casual<br>original<br>doll<br>secret<br>fee<br>ship |  
+| bip_39_word_new_br_11 | issue<br>flavor<br>tennis<br>reduce<br>casual<br>original<br>doll<br>secret<br>fee<br>ship<br>large |  
+| bip_39_word_new_br_12 | issue<br>flavor<br>tennis<br>reduce<br>casual<br>original<br>doll<br>secret<br>fee<br>ship<br>large<br>autumn |  
+| bip_39_word_new_br_2 | issue<br>flavor |  
+| bip_39_word_new_br_3 | issue<br>flavor<br>tennis |  
+| bip_39_word_new_br_4 | issue<br>flavor<br>tennis<br>reduce |  
+| bip_39_word_new_br_5 | issue<br>flavor<br>tennis<br>reduce<br>casual |  
+| bip_39_word_new_br_6 | issue<br>flavor<br>tennis<br>reduce<br>casual<br>original |  
+| bip_39_word_new_br_7 | issue<br>flavor<br>tennis<br>reduce<br>casual<br>original<br>doll |  
+| bip_39_word_new_br_8 | issue<br>flavor<br>tennis<br>reduce<br>casual<br>original<br>doll<br>secret |  
+| bip_39_word_new_br_9 | issue<br>flavor<br>tennis<br>reduce<br>casual<br>original<br>doll<br>secret<br>fee |  
+| bip_39_word_new_line_1 | issue |  
+| bip_39_word_new_line_10 | issue
 flavor
 tennis
 reduce
@@ -55,7 +55,7 @@ doll
 secret
 fee
 ship |  
-| bip_39_word_new_line11 | issue
+| bip_39_word_new_line_11 | issue
 flavor
 tennis
 reduce
@@ -66,7 +66,7 @@ secret
 fee
 ship
 large |  
-| bip_39_word_new_line12 | issue
+| bip_39_word_new_line_12 | issue
 flavor
 tennis
 reduce
@@ -78,34 +78,34 @@ fee
 ship
 large
 autumn |  
-| bip_39_word_new_line2 | issue
+| bip_39_word_new_line_2 | issue
 flavor |  
-| bip_39_word_new_line3 | issue
+| bip_39_word_new_line_3 | issue
 flavor
 tennis |  
-| bip_39_word_new_line4 | issue
+| bip_39_word_new_line_4 | issue
 flavor
 tennis
 reduce |  
-| bip_39_word_new_line5 | issue
+| bip_39_word_new_line_5 | issue
 flavor
 tennis
 reduce
 casual |  
-| bip_39_word_new_line6 | issue
+| bip_39_word_new_line_6 | issue
 flavor
 tennis
 reduce
 casual
 original |  
-| bip_39_word_new_line7 | issue
+| bip_39_word_new_line_7 | issue
 flavor
 tennis
 reduce
 casual
 original
 doll |  
-| bip_39_word_new_line8 | issue
+| bip_39_word_new_line_8 | issue
 flavor
 tennis
 reduce
@@ -113,7 +113,7 @@ casual
 original
 doll
 secret |  
-| bip_39_word_new_line9 | issue
+| bip_39_word_new_line_9 | issue
 flavor
 tennis
 reduce

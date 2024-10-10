@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | very |  
-| bip_39_word_new_br10 | very<br>educate<br>utility<br>ankle<br>bird<br>photo<br>require<br>dirt<br>normal<br>roof |  
-| bip_39_word_new_br11 | very<br>educate<br>utility<br>ankle<br>bird<br>photo<br>require<br>dirt<br>normal<br>roof<br>fetch |  
-| bip_39_word_new_br12 | very<br>educate<br>utility<br>ankle<br>bird<br>photo<br>require<br>dirt<br>normal<br>roof<br>fetch<br>auto |  
-| bip_39_word_new_br2 | very<br>educate |  
-| bip_39_word_new_br3 | very<br>educate<br>utility |  
-| bip_39_word_new_br4 | very<br>educate<br>utility<br>ankle |  
-| bip_39_word_new_br5 | very<br>educate<br>utility<br>ankle<br>bird |  
-| bip_39_word_new_br6 | very<br>educate<br>utility<br>ankle<br>bird<br>photo |  
-| bip_39_word_new_br7 | very<br>educate<br>utility<br>ankle<br>bird<br>photo<br>require |  
-| bip_39_word_new_br8 | very<br>educate<br>utility<br>ankle<br>bird<br>photo<br>require<br>dirt |  
-| bip_39_word_new_br9 | very<br>educate<br>utility<br>ankle<br>bird<br>photo<br>require<br>dirt<br>normal |  
-| bip_39_word_new_line1 | very |  
-| bip_39_word_new_line10 | very
+| bip_39_word_new_br_1 | very |  
+| bip_39_word_new_br_10 | very<br>educate<br>utility<br>ankle<br>bird<br>photo<br>require<br>dirt<br>normal<br>roof |  
+| bip_39_word_new_br_11 | very<br>educate<br>utility<br>ankle<br>bird<br>photo<br>require<br>dirt<br>normal<br>roof<br>fetch |  
+| bip_39_word_new_br_12 | very<br>educate<br>utility<br>ankle<br>bird<br>photo<br>require<br>dirt<br>normal<br>roof<br>fetch<br>auto |  
+| bip_39_word_new_br_2 | very<br>educate |  
+| bip_39_word_new_br_3 | very<br>educate<br>utility |  
+| bip_39_word_new_br_4 | very<br>educate<br>utility<br>ankle |  
+| bip_39_word_new_br_5 | very<br>educate<br>utility<br>ankle<br>bird |  
+| bip_39_word_new_br_6 | very<br>educate<br>utility<br>ankle<br>bird<br>photo |  
+| bip_39_word_new_br_7 | very<br>educate<br>utility<br>ankle<br>bird<br>photo<br>require |  
+| bip_39_word_new_br_8 | very<br>educate<br>utility<br>ankle<br>bird<br>photo<br>require<br>dirt |  
+| bip_39_word_new_br_9 | very<br>educate<br>utility<br>ankle<br>bird<br>photo<br>require<br>dirt<br>normal |  
+| bip_39_word_new_line_1 | very |  
+| bip_39_word_new_line_10 | very
 educate
 utility
 ankle
@@ -55,7 +55,7 @@ require
 dirt
 normal
 roof |  
-| bip_39_word_new_line11 | very
+| bip_39_word_new_line_11 | very
 educate
 utility
 ankle
@@ -66,7 +66,7 @@ dirt
 normal
 roof
 fetch |  
-| bip_39_word_new_line12 | very
+| bip_39_word_new_line_12 | very
 educate
 utility
 ankle
@@ -78,34 +78,34 @@ normal
 roof
 fetch
 auto |  
-| bip_39_word_new_line2 | very
+| bip_39_word_new_line_2 | very
 educate |  
-| bip_39_word_new_line3 | very
+| bip_39_word_new_line_3 | very
 educate
 utility |  
-| bip_39_word_new_line4 | very
+| bip_39_word_new_line_4 | very
 educate
 utility
 ankle |  
-| bip_39_word_new_line5 | very
+| bip_39_word_new_line_5 | very
 educate
 utility
 ankle
 bird |  
-| bip_39_word_new_line6 | very
+| bip_39_word_new_line_6 | very
 educate
 utility
 ankle
 bird
 photo |  
-| bip_39_word_new_line7 | very
+| bip_39_word_new_line_7 | very
 educate
 utility
 ankle
 bird
 photo
 require |  
-| bip_39_word_new_line8 | very
+| bip_39_word_new_line_8 | very
 educate
 utility
 ankle
@@ -113,7 +113,7 @@ bird
 photo
 require
 dirt |  
-| bip_39_word_new_line9 | very
+| bip_39_word_new_line_9 | very
 educate
 utility
 ankle

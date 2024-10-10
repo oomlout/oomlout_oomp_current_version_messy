@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pottery |  
-| bip_39_word_new_br10 | pottery<br>silly<br>hope<br>trumpet<br>mandate<br>uphold<br>basic<br>clap<br>same<br>attitude |  
-| bip_39_word_new_br11 | pottery<br>silly<br>hope<br>trumpet<br>mandate<br>uphold<br>basic<br>clap<br>same<br>attitude<br>arrow |  
-| bip_39_word_new_br12 | pottery<br>silly<br>hope<br>trumpet<br>mandate<br>uphold<br>basic<br>clap<br>same<br>attitude<br>arrow<br>avocado |  
-| bip_39_word_new_br2 | pottery<br>silly |  
-| bip_39_word_new_br3 | pottery<br>silly<br>hope |  
-| bip_39_word_new_br4 | pottery<br>silly<br>hope<br>trumpet |  
-| bip_39_word_new_br5 | pottery<br>silly<br>hope<br>trumpet<br>mandate |  
-| bip_39_word_new_br6 | pottery<br>silly<br>hope<br>trumpet<br>mandate<br>uphold |  
-| bip_39_word_new_br7 | pottery<br>silly<br>hope<br>trumpet<br>mandate<br>uphold<br>basic |  
-| bip_39_word_new_br8 | pottery<br>silly<br>hope<br>trumpet<br>mandate<br>uphold<br>basic<br>clap |  
-| bip_39_word_new_br9 | pottery<br>silly<br>hope<br>trumpet<br>mandate<br>uphold<br>basic<br>clap<br>same |  
-| bip_39_word_new_line1 | pottery |  
-| bip_39_word_new_line10 | pottery
+| bip_39_word_new_br_1 | pottery |  
+| bip_39_word_new_br_10 | pottery<br>silly<br>hope<br>trumpet<br>mandate<br>uphold<br>basic<br>clap<br>same<br>attitude |  
+| bip_39_word_new_br_11 | pottery<br>silly<br>hope<br>trumpet<br>mandate<br>uphold<br>basic<br>clap<br>same<br>attitude<br>arrow |  
+| bip_39_word_new_br_12 | pottery<br>silly<br>hope<br>trumpet<br>mandate<br>uphold<br>basic<br>clap<br>same<br>attitude<br>arrow<br>avocado |  
+| bip_39_word_new_br_2 | pottery<br>silly |  
+| bip_39_word_new_br_3 | pottery<br>silly<br>hope |  
+| bip_39_word_new_br_4 | pottery<br>silly<br>hope<br>trumpet |  
+| bip_39_word_new_br_5 | pottery<br>silly<br>hope<br>trumpet<br>mandate |  
+| bip_39_word_new_br_6 | pottery<br>silly<br>hope<br>trumpet<br>mandate<br>uphold |  
+| bip_39_word_new_br_7 | pottery<br>silly<br>hope<br>trumpet<br>mandate<br>uphold<br>basic |  
+| bip_39_word_new_br_8 | pottery<br>silly<br>hope<br>trumpet<br>mandate<br>uphold<br>basic<br>clap |  
+| bip_39_word_new_br_9 | pottery<br>silly<br>hope<br>trumpet<br>mandate<br>uphold<br>basic<br>clap<br>same |  
+| bip_39_word_new_line_1 | pottery |  
+| bip_39_word_new_line_10 | pottery
 silly
 hope
 trumpet
@@ -55,7 +55,7 @@ basic
 clap
 same
 attitude |  
-| bip_39_word_new_line11 | pottery
+| bip_39_word_new_line_11 | pottery
 silly
 hope
 trumpet
@@ -66,7 +66,7 @@ clap
 same
 attitude
 arrow |  
-| bip_39_word_new_line12 | pottery
+| bip_39_word_new_line_12 | pottery
 silly
 hope
 trumpet
@@ -78,34 +78,34 @@ same
 attitude
 arrow
 avocado |  
-| bip_39_word_new_line2 | pottery
+| bip_39_word_new_line_2 | pottery
 silly |  
-| bip_39_word_new_line3 | pottery
+| bip_39_word_new_line_3 | pottery
 silly
 hope |  
-| bip_39_word_new_line4 | pottery
+| bip_39_word_new_line_4 | pottery
 silly
 hope
 trumpet |  
-| bip_39_word_new_line5 | pottery
+| bip_39_word_new_line_5 | pottery
 silly
 hope
 trumpet
 mandate |  
-| bip_39_word_new_line6 | pottery
+| bip_39_word_new_line_6 | pottery
 silly
 hope
 trumpet
 mandate
 uphold |  
-| bip_39_word_new_line7 | pottery
+| bip_39_word_new_line_7 | pottery
 silly
 hope
 trumpet
 mandate
 uphold
 basic |  
-| bip_39_word_new_line8 | pottery
+| bip_39_word_new_line_8 | pottery
 silly
 hope
 trumpet
@@ -113,7 +113,7 @@ mandate
 uphold
 basic
 clap |  
-| bip_39_word_new_line9 | pottery
+| bip_39_word_new_line_9 | pottery
 silly
 hope
 trumpet

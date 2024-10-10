@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | that |  
-| bip_39_word_new_br10 | that<br>pave<br>diamond<br>budget<br>add<br>coach<br>silk<br>myself<br>clay<br>mammal |  
-| bip_39_word_new_br11 | that<br>pave<br>diamond<br>budget<br>add<br>coach<br>silk<br>myself<br>clay<br>mammal<br>actual |  
-| bip_39_word_new_br12 | that<br>pave<br>diamond<br>budget<br>add<br>coach<br>silk<br>myself<br>clay<br>mammal<br>actual<br>also |  
-| bip_39_word_new_br2 | that<br>pave |  
-| bip_39_word_new_br3 | that<br>pave<br>diamond |  
-| bip_39_word_new_br4 | that<br>pave<br>diamond<br>budget |  
-| bip_39_word_new_br5 | that<br>pave<br>diamond<br>budget<br>add |  
-| bip_39_word_new_br6 | that<br>pave<br>diamond<br>budget<br>add<br>coach |  
-| bip_39_word_new_br7 | that<br>pave<br>diamond<br>budget<br>add<br>coach<br>silk |  
-| bip_39_word_new_br8 | that<br>pave<br>diamond<br>budget<br>add<br>coach<br>silk<br>myself |  
-| bip_39_word_new_br9 | that<br>pave<br>diamond<br>budget<br>add<br>coach<br>silk<br>myself<br>clay |  
-| bip_39_word_new_line1 | that |  
-| bip_39_word_new_line10 | that
+| bip_39_word_new_br_1 | that |  
+| bip_39_word_new_br_10 | that<br>pave<br>diamond<br>budget<br>add<br>coach<br>silk<br>myself<br>clay<br>mammal |  
+| bip_39_word_new_br_11 | that<br>pave<br>diamond<br>budget<br>add<br>coach<br>silk<br>myself<br>clay<br>mammal<br>actual |  
+| bip_39_word_new_br_12 | that<br>pave<br>diamond<br>budget<br>add<br>coach<br>silk<br>myself<br>clay<br>mammal<br>actual<br>also |  
+| bip_39_word_new_br_2 | that<br>pave |  
+| bip_39_word_new_br_3 | that<br>pave<br>diamond |  
+| bip_39_word_new_br_4 | that<br>pave<br>diamond<br>budget |  
+| bip_39_word_new_br_5 | that<br>pave<br>diamond<br>budget<br>add |  
+| bip_39_word_new_br_6 | that<br>pave<br>diamond<br>budget<br>add<br>coach |  
+| bip_39_word_new_br_7 | that<br>pave<br>diamond<br>budget<br>add<br>coach<br>silk |  
+| bip_39_word_new_br_8 | that<br>pave<br>diamond<br>budget<br>add<br>coach<br>silk<br>myself |  
+| bip_39_word_new_br_9 | that<br>pave<br>diamond<br>budget<br>add<br>coach<br>silk<br>myself<br>clay |  
+| bip_39_word_new_line_1 | that |  
+| bip_39_word_new_line_10 | that
 pave
 diamond
 budget
@@ -55,7 +55,7 @@ silk
 myself
 clay
 mammal |  
-| bip_39_word_new_line11 | that
+| bip_39_word_new_line_11 | that
 pave
 diamond
 budget
@@ -66,7 +66,7 @@ myself
 clay
 mammal
 actual |  
-| bip_39_word_new_line12 | that
+| bip_39_word_new_line_12 | that
 pave
 diamond
 budget
@@ -78,34 +78,34 @@ clay
 mammal
 actual
 also |  
-| bip_39_word_new_line2 | that
+| bip_39_word_new_line_2 | that
 pave |  
-| bip_39_word_new_line3 | that
+| bip_39_word_new_line_3 | that
 pave
 diamond |  
-| bip_39_word_new_line4 | that
+| bip_39_word_new_line_4 | that
 pave
 diamond
 budget |  
-| bip_39_word_new_line5 | that
+| bip_39_word_new_line_5 | that
 pave
 diamond
 budget
 add |  
-| bip_39_word_new_line6 | that
+| bip_39_word_new_line_6 | that
 pave
 diamond
 budget
 add
 coach |  
-| bip_39_word_new_line7 | that
+| bip_39_word_new_line_7 | that
 pave
 diamond
 budget
 add
 coach
 silk |  
-| bip_39_word_new_line8 | that
+| bip_39_word_new_line_8 | that
 pave
 diamond
 budget
@@ -113,7 +113,7 @@ add
 coach
 silk
 myself |  
-| bip_39_word_new_line9 | that
+| bip_39_word_new_line_9 | that
 pave
 diamond
 budget

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | attack |  
-| bip_39_word_new_br10 | attack<br>deer<br>glide<br>brisk<br>knife<br>fire<br>first<br>glow<br>kiwi<br>room |  
-| bip_39_word_new_br11 | attack<br>deer<br>glide<br>brisk<br>knife<br>fire<br>first<br>glow<br>kiwi<br>room<br>tired |  
-| bip_39_word_new_br12 | attack<br>deer<br>glide<br>brisk<br>knife<br>fire<br>first<br>glow<br>kiwi<br>room<br>tired<br>athlete |  
-| bip_39_word_new_br2 | attack<br>deer |  
-| bip_39_word_new_br3 | attack<br>deer<br>glide |  
-| bip_39_word_new_br4 | attack<br>deer<br>glide<br>brisk |  
-| bip_39_word_new_br5 | attack<br>deer<br>glide<br>brisk<br>knife |  
-| bip_39_word_new_br6 | attack<br>deer<br>glide<br>brisk<br>knife<br>fire |  
-| bip_39_word_new_br7 | attack<br>deer<br>glide<br>brisk<br>knife<br>fire<br>first |  
-| bip_39_word_new_br8 | attack<br>deer<br>glide<br>brisk<br>knife<br>fire<br>first<br>glow |  
-| bip_39_word_new_br9 | attack<br>deer<br>glide<br>brisk<br>knife<br>fire<br>first<br>glow<br>kiwi |  
-| bip_39_word_new_line1 | attack |  
-| bip_39_word_new_line10 | attack
+| bip_39_word_new_br_1 | attack |  
+| bip_39_word_new_br_10 | attack<br>deer<br>glide<br>brisk<br>knife<br>fire<br>first<br>glow<br>kiwi<br>room |  
+| bip_39_word_new_br_11 | attack<br>deer<br>glide<br>brisk<br>knife<br>fire<br>first<br>glow<br>kiwi<br>room<br>tired |  
+| bip_39_word_new_br_12 | attack<br>deer<br>glide<br>brisk<br>knife<br>fire<br>first<br>glow<br>kiwi<br>room<br>tired<br>athlete |  
+| bip_39_word_new_br_2 | attack<br>deer |  
+| bip_39_word_new_br_3 | attack<br>deer<br>glide |  
+| bip_39_word_new_br_4 | attack<br>deer<br>glide<br>brisk |  
+| bip_39_word_new_br_5 | attack<br>deer<br>glide<br>brisk<br>knife |  
+| bip_39_word_new_br_6 | attack<br>deer<br>glide<br>brisk<br>knife<br>fire |  
+| bip_39_word_new_br_7 | attack<br>deer<br>glide<br>brisk<br>knife<br>fire<br>first |  
+| bip_39_word_new_br_8 | attack<br>deer<br>glide<br>brisk<br>knife<br>fire<br>first<br>glow |  
+| bip_39_word_new_br_9 | attack<br>deer<br>glide<br>brisk<br>knife<br>fire<br>first<br>glow<br>kiwi |  
+| bip_39_word_new_line_1 | attack |  
+| bip_39_word_new_line_10 | attack
 deer
 glide
 brisk
@@ -55,7 +55,7 @@ first
 glow
 kiwi
 room |  
-| bip_39_word_new_line11 | attack
+| bip_39_word_new_line_11 | attack
 deer
 glide
 brisk
@@ -66,7 +66,7 @@ glow
 kiwi
 room
 tired |  
-| bip_39_word_new_line12 | attack
+| bip_39_word_new_line_12 | attack
 deer
 glide
 brisk
@@ -78,34 +78,34 @@ kiwi
 room
 tired
 athlete |  
-| bip_39_word_new_line2 | attack
+| bip_39_word_new_line_2 | attack
 deer |  
-| bip_39_word_new_line3 | attack
+| bip_39_word_new_line_3 | attack
 deer
 glide |  
-| bip_39_word_new_line4 | attack
+| bip_39_word_new_line_4 | attack
 deer
 glide
 brisk |  
-| bip_39_word_new_line5 | attack
+| bip_39_word_new_line_5 | attack
 deer
 glide
 brisk
 knife |  
-| bip_39_word_new_line6 | attack
+| bip_39_word_new_line_6 | attack
 deer
 glide
 brisk
 knife
 fire |  
-| bip_39_word_new_line7 | attack
+| bip_39_word_new_line_7 | attack
 deer
 glide
 brisk
 knife
 fire
 first |  
-| bip_39_word_new_line8 | attack
+| bip_39_word_new_line_8 | attack
 deer
 glide
 brisk
@@ -113,7 +113,7 @@ knife
 fire
 first
 glow |  
-| bip_39_word_new_line9 | attack
+| bip_39_word_new_line_9 | attack
 deer
 glide
 brisk

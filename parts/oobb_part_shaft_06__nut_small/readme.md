@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | grain |  
-| bip_39_word_new_br10 | grain<br>credit<br>aim<br>struggle<br>result<br>keep<br>venture<br>pepper<br>error<br>gaze |  
-| bip_39_word_new_br11 | grain<br>credit<br>aim<br>struggle<br>result<br>keep<br>venture<br>pepper<br>error<br>gaze<br>paddle |  
-| bip_39_word_new_br12 | grain<br>credit<br>aim<br>struggle<br>result<br>keep<br>venture<br>pepper<br>error<br>gaze<br>paddle<br>aspect |  
-| bip_39_word_new_br2 | grain<br>credit |  
-| bip_39_word_new_br3 | grain<br>credit<br>aim |  
-| bip_39_word_new_br4 | grain<br>credit<br>aim<br>struggle |  
-| bip_39_word_new_br5 | grain<br>credit<br>aim<br>struggle<br>result |  
-| bip_39_word_new_br6 | grain<br>credit<br>aim<br>struggle<br>result<br>keep |  
-| bip_39_word_new_br7 | grain<br>credit<br>aim<br>struggle<br>result<br>keep<br>venture |  
-| bip_39_word_new_br8 | grain<br>credit<br>aim<br>struggle<br>result<br>keep<br>venture<br>pepper |  
-| bip_39_word_new_br9 | grain<br>credit<br>aim<br>struggle<br>result<br>keep<br>venture<br>pepper<br>error |  
-| bip_39_word_new_line1 | grain |  
-| bip_39_word_new_line10 | grain
+| bip_39_word_new_br_1 | grain |  
+| bip_39_word_new_br_10 | grain<br>credit<br>aim<br>struggle<br>result<br>keep<br>venture<br>pepper<br>error<br>gaze |  
+| bip_39_word_new_br_11 | grain<br>credit<br>aim<br>struggle<br>result<br>keep<br>venture<br>pepper<br>error<br>gaze<br>paddle |  
+| bip_39_word_new_br_12 | grain<br>credit<br>aim<br>struggle<br>result<br>keep<br>venture<br>pepper<br>error<br>gaze<br>paddle<br>aspect |  
+| bip_39_word_new_br_2 | grain<br>credit |  
+| bip_39_word_new_br_3 | grain<br>credit<br>aim |  
+| bip_39_word_new_br_4 | grain<br>credit<br>aim<br>struggle |  
+| bip_39_word_new_br_5 | grain<br>credit<br>aim<br>struggle<br>result |  
+| bip_39_word_new_br_6 | grain<br>credit<br>aim<br>struggle<br>result<br>keep |  
+| bip_39_word_new_br_7 | grain<br>credit<br>aim<br>struggle<br>result<br>keep<br>venture |  
+| bip_39_word_new_br_8 | grain<br>credit<br>aim<br>struggle<br>result<br>keep<br>venture<br>pepper |  
+| bip_39_word_new_br_9 | grain<br>credit<br>aim<br>struggle<br>result<br>keep<br>venture<br>pepper<br>error |  
+| bip_39_word_new_line_1 | grain |  
+| bip_39_word_new_line_10 | grain
 credit
 aim
 struggle
@@ -55,7 +55,7 @@ venture
 pepper
 error
 gaze |  
-| bip_39_word_new_line11 | grain
+| bip_39_word_new_line_11 | grain
 credit
 aim
 struggle
@@ -66,7 +66,7 @@ pepper
 error
 gaze
 paddle |  
-| bip_39_word_new_line12 | grain
+| bip_39_word_new_line_12 | grain
 credit
 aim
 struggle
@@ -78,34 +78,34 @@ error
 gaze
 paddle
 aspect |  
-| bip_39_word_new_line2 | grain
+| bip_39_word_new_line_2 | grain
 credit |  
-| bip_39_word_new_line3 | grain
+| bip_39_word_new_line_3 | grain
 credit
 aim |  
-| bip_39_word_new_line4 | grain
+| bip_39_word_new_line_4 | grain
 credit
 aim
 struggle |  
-| bip_39_word_new_line5 | grain
+| bip_39_word_new_line_5 | grain
 credit
 aim
 struggle
 result |  
-| bip_39_word_new_line6 | grain
+| bip_39_word_new_line_6 | grain
 credit
 aim
 struggle
 result
 keep |  
-| bip_39_word_new_line7 | grain
+| bip_39_word_new_line_7 | grain
 credit
 aim
 struggle
 result
 keep
 venture |  
-| bip_39_word_new_line8 | grain
+| bip_39_word_new_line_8 | grain
 credit
 aim
 struggle
@@ -113,7 +113,7 @@ result
 keep
 venture
 pepper |  
-| bip_39_word_new_line9 | grain
+| bip_39_word_new_line_9 | grain
 credit
 aim
 struggle

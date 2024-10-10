@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | about |  
-| bip_39_word_new_br10 | about<br>pill<br>owner<br>valve<br>since<br>memory<br>quantum<br>arrest<br>paddle<br>inherit |  
-| bip_39_word_new_br11 | about<br>pill<br>owner<br>valve<br>since<br>memory<br>quantum<br>arrest<br>paddle<br>inherit<br>basic |  
-| bip_39_word_new_br12 | about<br>pill<br>owner<br>valve<br>since<br>memory<br>quantum<br>arrest<br>paddle<br>inherit<br>basic<br>acquire |  
-| bip_39_word_new_br2 | about<br>pill |  
-| bip_39_word_new_br3 | about<br>pill<br>owner |  
-| bip_39_word_new_br4 | about<br>pill<br>owner<br>valve |  
-| bip_39_word_new_br5 | about<br>pill<br>owner<br>valve<br>since |  
-| bip_39_word_new_br6 | about<br>pill<br>owner<br>valve<br>since<br>memory |  
-| bip_39_word_new_br7 | about<br>pill<br>owner<br>valve<br>since<br>memory<br>quantum |  
-| bip_39_word_new_br8 | about<br>pill<br>owner<br>valve<br>since<br>memory<br>quantum<br>arrest |  
-| bip_39_word_new_br9 | about<br>pill<br>owner<br>valve<br>since<br>memory<br>quantum<br>arrest<br>paddle |  
-| bip_39_word_new_line1 | about |  
-| bip_39_word_new_line10 | about
+| bip_39_word_new_br_1 | about |  
+| bip_39_word_new_br_10 | about<br>pill<br>owner<br>valve<br>since<br>memory<br>quantum<br>arrest<br>paddle<br>inherit |  
+| bip_39_word_new_br_11 | about<br>pill<br>owner<br>valve<br>since<br>memory<br>quantum<br>arrest<br>paddle<br>inherit<br>basic |  
+| bip_39_word_new_br_12 | about<br>pill<br>owner<br>valve<br>since<br>memory<br>quantum<br>arrest<br>paddle<br>inherit<br>basic<br>acquire |  
+| bip_39_word_new_br_2 | about<br>pill |  
+| bip_39_word_new_br_3 | about<br>pill<br>owner |  
+| bip_39_word_new_br_4 | about<br>pill<br>owner<br>valve |  
+| bip_39_word_new_br_5 | about<br>pill<br>owner<br>valve<br>since |  
+| bip_39_word_new_br_6 | about<br>pill<br>owner<br>valve<br>since<br>memory |  
+| bip_39_word_new_br_7 | about<br>pill<br>owner<br>valve<br>since<br>memory<br>quantum |  
+| bip_39_word_new_br_8 | about<br>pill<br>owner<br>valve<br>since<br>memory<br>quantum<br>arrest |  
+| bip_39_word_new_br_9 | about<br>pill<br>owner<br>valve<br>since<br>memory<br>quantum<br>arrest<br>paddle |  
+| bip_39_word_new_line_1 | about |  
+| bip_39_word_new_line_10 | about
 pill
 owner
 valve
@@ -55,7 +55,7 @@ quantum
 arrest
 paddle
 inherit |  
-| bip_39_word_new_line11 | about
+| bip_39_word_new_line_11 | about
 pill
 owner
 valve
@@ -66,7 +66,7 @@ arrest
 paddle
 inherit
 basic |  
-| bip_39_word_new_line12 | about
+| bip_39_word_new_line_12 | about
 pill
 owner
 valve
@@ -78,34 +78,34 @@ paddle
 inherit
 basic
 acquire |  
-| bip_39_word_new_line2 | about
+| bip_39_word_new_line_2 | about
 pill |  
-| bip_39_word_new_line3 | about
+| bip_39_word_new_line_3 | about
 pill
 owner |  
-| bip_39_word_new_line4 | about
+| bip_39_word_new_line_4 | about
 pill
 owner
 valve |  
-| bip_39_word_new_line5 | about
+| bip_39_word_new_line_5 | about
 pill
 owner
 valve
 since |  
-| bip_39_word_new_line6 | about
+| bip_39_word_new_line_6 | about
 pill
 owner
 valve
 since
 memory |  
-| bip_39_word_new_line7 | about
+| bip_39_word_new_line_7 | about
 pill
 owner
 valve
 since
 memory
 quantum |  
-| bip_39_word_new_line8 | about
+| bip_39_word_new_line_8 | about
 pill
 owner
 valve
@@ -113,7 +113,7 @@ since
 memory
 quantum
 arrest |  
-| bip_39_word_new_line9 | about
+| bip_39_word_new_line_9 | about
 pill
 owner
 valve

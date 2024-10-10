@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | glove |  
-| bip_39_word_new_br10 | glove<br>dentist<br>next<br>oblige<br>violin<br>divorce<br>swift<br>baby<br>tattoo<br>snap |  
-| bip_39_word_new_br11 | glove<br>dentist<br>next<br>oblige<br>violin<br>divorce<br>swift<br>baby<br>tattoo<br>snap<br>among |  
-| bip_39_word_new_br12 | glove<br>dentist<br>next<br>oblige<br>violin<br>divorce<br>swift<br>baby<br>tattoo<br>snap<br>among<br>acoustic |  
-| bip_39_word_new_br2 | glove<br>dentist |  
-| bip_39_word_new_br3 | glove<br>dentist<br>next |  
-| bip_39_word_new_br4 | glove<br>dentist<br>next<br>oblige |  
-| bip_39_word_new_br5 | glove<br>dentist<br>next<br>oblige<br>violin |  
-| bip_39_word_new_br6 | glove<br>dentist<br>next<br>oblige<br>violin<br>divorce |  
-| bip_39_word_new_br7 | glove<br>dentist<br>next<br>oblige<br>violin<br>divorce<br>swift |  
-| bip_39_word_new_br8 | glove<br>dentist<br>next<br>oblige<br>violin<br>divorce<br>swift<br>baby |  
-| bip_39_word_new_br9 | glove<br>dentist<br>next<br>oblige<br>violin<br>divorce<br>swift<br>baby<br>tattoo |  
-| bip_39_word_new_line1 | glove |  
-| bip_39_word_new_line10 | glove
+| bip_39_word_new_br_1 | glove |  
+| bip_39_word_new_br_10 | glove<br>dentist<br>next<br>oblige<br>violin<br>divorce<br>swift<br>baby<br>tattoo<br>snap |  
+| bip_39_word_new_br_11 | glove<br>dentist<br>next<br>oblige<br>violin<br>divorce<br>swift<br>baby<br>tattoo<br>snap<br>among |  
+| bip_39_word_new_br_12 | glove<br>dentist<br>next<br>oblige<br>violin<br>divorce<br>swift<br>baby<br>tattoo<br>snap<br>among<br>acoustic |  
+| bip_39_word_new_br_2 | glove<br>dentist |  
+| bip_39_word_new_br_3 | glove<br>dentist<br>next |  
+| bip_39_word_new_br_4 | glove<br>dentist<br>next<br>oblige |  
+| bip_39_word_new_br_5 | glove<br>dentist<br>next<br>oblige<br>violin |  
+| bip_39_word_new_br_6 | glove<br>dentist<br>next<br>oblige<br>violin<br>divorce |  
+| bip_39_word_new_br_7 | glove<br>dentist<br>next<br>oblige<br>violin<br>divorce<br>swift |  
+| bip_39_word_new_br_8 | glove<br>dentist<br>next<br>oblige<br>violin<br>divorce<br>swift<br>baby |  
+| bip_39_word_new_br_9 | glove<br>dentist<br>next<br>oblige<br>violin<br>divorce<br>swift<br>baby<br>tattoo |  
+| bip_39_word_new_line_1 | glove |  
+| bip_39_word_new_line_10 | glove
 dentist
 next
 oblige
@@ -55,7 +55,7 @@ swift
 baby
 tattoo
 snap |  
-| bip_39_word_new_line11 | glove
+| bip_39_word_new_line_11 | glove
 dentist
 next
 oblige
@@ -66,7 +66,7 @@ baby
 tattoo
 snap
 among |  
-| bip_39_word_new_line12 | glove
+| bip_39_word_new_line_12 | glove
 dentist
 next
 oblige
@@ -78,34 +78,34 @@ tattoo
 snap
 among
 acoustic |  
-| bip_39_word_new_line2 | glove
+| bip_39_word_new_line_2 | glove
 dentist |  
-| bip_39_word_new_line3 | glove
+| bip_39_word_new_line_3 | glove
 dentist
 next |  
-| bip_39_word_new_line4 | glove
+| bip_39_word_new_line_4 | glove
 dentist
 next
 oblige |  
-| bip_39_word_new_line5 | glove
+| bip_39_word_new_line_5 | glove
 dentist
 next
 oblige
 violin |  
-| bip_39_word_new_line6 | glove
+| bip_39_word_new_line_6 | glove
 dentist
 next
 oblige
 violin
 divorce |  
-| bip_39_word_new_line7 | glove
+| bip_39_word_new_line_7 | glove
 dentist
 next
 oblige
 violin
 divorce
 swift |  
-| bip_39_word_new_line8 | glove
+| bip_39_word_new_line_8 | glove
 dentist
 next
 oblige
@@ -113,7 +113,7 @@ violin
 divorce
 swift
 baby |  
-| bip_39_word_new_line9 | glove
+| bip_39_word_new_line_9 | glove
 dentist
 next
 oblige

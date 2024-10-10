@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | loop |  
-| bip_39_word_new_br10 | loop<br>barely<br>immense<br>scene<br>end<br>bone<br>pause<br>silver<br>symptom<br>shrimp |  
-| bip_39_word_new_br11 | loop<br>barely<br>immense<br>scene<br>end<br>bone<br>pause<br>silver<br>symptom<br>shrimp<br>avoid |  
-| bip_39_word_new_br12 | loop<br>barely<br>immense<br>scene<br>end<br>bone<br>pause<br>silver<br>symptom<br>shrimp<br>avoid<br>ability |  
-| bip_39_word_new_br2 | loop<br>barely |  
-| bip_39_word_new_br3 | loop<br>barely<br>immense |  
-| bip_39_word_new_br4 | loop<br>barely<br>immense<br>scene |  
-| bip_39_word_new_br5 | loop<br>barely<br>immense<br>scene<br>end |  
-| bip_39_word_new_br6 | loop<br>barely<br>immense<br>scene<br>end<br>bone |  
-| bip_39_word_new_br7 | loop<br>barely<br>immense<br>scene<br>end<br>bone<br>pause |  
-| bip_39_word_new_br8 | loop<br>barely<br>immense<br>scene<br>end<br>bone<br>pause<br>silver |  
-| bip_39_word_new_br9 | loop<br>barely<br>immense<br>scene<br>end<br>bone<br>pause<br>silver<br>symptom |  
-| bip_39_word_new_line1 | loop |  
-| bip_39_word_new_line10 | loop
+| bip_39_word_new_br_1 | loop |  
+| bip_39_word_new_br_10 | loop<br>barely<br>immense<br>scene<br>end<br>bone<br>pause<br>silver<br>symptom<br>shrimp |  
+| bip_39_word_new_br_11 | loop<br>barely<br>immense<br>scene<br>end<br>bone<br>pause<br>silver<br>symptom<br>shrimp<br>avoid |  
+| bip_39_word_new_br_12 | loop<br>barely<br>immense<br>scene<br>end<br>bone<br>pause<br>silver<br>symptom<br>shrimp<br>avoid<br>ability |  
+| bip_39_word_new_br_2 | loop<br>barely |  
+| bip_39_word_new_br_3 | loop<br>barely<br>immense |  
+| bip_39_word_new_br_4 | loop<br>barely<br>immense<br>scene |  
+| bip_39_word_new_br_5 | loop<br>barely<br>immense<br>scene<br>end |  
+| bip_39_word_new_br_6 | loop<br>barely<br>immense<br>scene<br>end<br>bone |  
+| bip_39_word_new_br_7 | loop<br>barely<br>immense<br>scene<br>end<br>bone<br>pause |  
+| bip_39_word_new_br_8 | loop<br>barely<br>immense<br>scene<br>end<br>bone<br>pause<br>silver |  
+| bip_39_word_new_br_9 | loop<br>barely<br>immense<br>scene<br>end<br>bone<br>pause<br>silver<br>symptom |  
+| bip_39_word_new_line_1 | loop |  
+| bip_39_word_new_line_10 | loop
 barely
 immense
 scene
@@ -55,7 +55,7 @@ pause
 silver
 symptom
 shrimp |  
-| bip_39_word_new_line11 | loop
+| bip_39_word_new_line_11 | loop
 barely
 immense
 scene
@@ -66,7 +66,7 @@ silver
 symptom
 shrimp
 avoid |  
-| bip_39_word_new_line12 | loop
+| bip_39_word_new_line_12 | loop
 barely
 immense
 scene
@@ -78,34 +78,34 @@ symptom
 shrimp
 avoid
 ability |  
-| bip_39_word_new_line2 | loop
+| bip_39_word_new_line_2 | loop
 barely |  
-| bip_39_word_new_line3 | loop
+| bip_39_word_new_line_3 | loop
 barely
 immense |  
-| bip_39_word_new_line4 | loop
+| bip_39_word_new_line_4 | loop
 barely
 immense
 scene |  
-| bip_39_word_new_line5 | loop
+| bip_39_word_new_line_5 | loop
 barely
 immense
 scene
 end |  
-| bip_39_word_new_line6 | loop
+| bip_39_word_new_line_6 | loop
 barely
 immense
 scene
 end
 bone |  
-| bip_39_word_new_line7 | loop
+| bip_39_word_new_line_7 | loop
 barely
 immense
 scene
 end
 bone
 pause |  
-| bip_39_word_new_line8 | loop
+| bip_39_word_new_line_8 | loop
 barely
 immense
 scene
@@ -113,7 +113,7 @@ end
 bone
 pause
 silver |  
-| bip_39_word_new_line9 | loop
+| bip_39_word_new_line_9 | loop
 barely
 immense
 scene

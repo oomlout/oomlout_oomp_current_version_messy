@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | logic |  
-| bip_39_word_new_br10 | logic<br>innocent<br>dance<br>diagram<br>gentle<br>depth<br>balcony<br>pretty<br>elbow<br>apple |  
-| bip_39_word_new_br11 | logic<br>innocent<br>dance<br>diagram<br>gentle<br>depth<br>balcony<br>pretty<br>elbow<br>apple<br>tumble |  
-| bip_39_word_new_br12 | logic<br>innocent<br>dance<br>diagram<br>gentle<br>depth<br>balcony<br>pretty<br>elbow<br>apple<br>tumble<br>attract |  
-| bip_39_word_new_br2 | logic<br>innocent |  
-| bip_39_word_new_br3 | logic<br>innocent<br>dance |  
-| bip_39_word_new_br4 | logic<br>innocent<br>dance<br>diagram |  
-| bip_39_word_new_br5 | logic<br>innocent<br>dance<br>diagram<br>gentle |  
-| bip_39_word_new_br6 | logic<br>innocent<br>dance<br>diagram<br>gentle<br>depth |  
-| bip_39_word_new_br7 | logic<br>innocent<br>dance<br>diagram<br>gentle<br>depth<br>balcony |  
-| bip_39_word_new_br8 | logic<br>innocent<br>dance<br>diagram<br>gentle<br>depth<br>balcony<br>pretty |  
-| bip_39_word_new_br9 | logic<br>innocent<br>dance<br>diagram<br>gentle<br>depth<br>balcony<br>pretty<br>elbow |  
-| bip_39_word_new_line1 | logic |  
-| bip_39_word_new_line10 | logic
+| bip_39_word_new_br_1 | logic |  
+| bip_39_word_new_br_10 | logic<br>innocent<br>dance<br>diagram<br>gentle<br>depth<br>balcony<br>pretty<br>elbow<br>apple |  
+| bip_39_word_new_br_11 | logic<br>innocent<br>dance<br>diagram<br>gentle<br>depth<br>balcony<br>pretty<br>elbow<br>apple<br>tumble |  
+| bip_39_word_new_br_12 | logic<br>innocent<br>dance<br>diagram<br>gentle<br>depth<br>balcony<br>pretty<br>elbow<br>apple<br>tumble<br>attract |  
+| bip_39_word_new_br_2 | logic<br>innocent |  
+| bip_39_word_new_br_3 | logic<br>innocent<br>dance |  
+| bip_39_word_new_br_4 | logic<br>innocent<br>dance<br>diagram |  
+| bip_39_word_new_br_5 | logic<br>innocent<br>dance<br>diagram<br>gentle |  
+| bip_39_word_new_br_6 | logic<br>innocent<br>dance<br>diagram<br>gentle<br>depth |  
+| bip_39_word_new_br_7 | logic<br>innocent<br>dance<br>diagram<br>gentle<br>depth<br>balcony |  
+| bip_39_word_new_br_8 | logic<br>innocent<br>dance<br>diagram<br>gentle<br>depth<br>balcony<br>pretty |  
+| bip_39_word_new_br_9 | logic<br>innocent<br>dance<br>diagram<br>gentle<br>depth<br>balcony<br>pretty<br>elbow |  
+| bip_39_word_new_line_1 | logic |  
+| bip_39_word_new_line_10 | logic
 innocent
 dance
 diagram
@@ -55,7 +55,7 @@ balcony
 pretty
 elbow
 apple |  
-| bip_39_word_new_line11 | logic
+| bip_39_word_new_line_11 | logic
 innocent
 dance
 diagram
@@ -66,7 +66,7 @@ pretty
 elbow
 apple
 tumble |  
-| bip_39_word_new_line12 | logic
+| bip_39_word_new_line_12 | logic
 innocent
 dance
 diagram
@@ -78,34 +78,34 @@ elbow
 apple
 tumble
 attract |  
-| bip_39_word_new_line2 | logic
+| bip_39_word_new_line_2 | logic
 innocent |  
-| bip_39_word_new_line3 | logic
+| bip_39_word_new_line_3 | logic
 innocent
 dance |  
-| bip_39_word_new_line4 | logic
+| bip_39_word_new_line_4 | logic
 innocent
 dance
 diagram |  
-| bip_39_word_new_line5 | logic
+| bip_39_word_new_line_5 | logic
 innocent
 dance
 diagram
 gentle |  
-| bip_39_word_new_line6 | logic
+| bip_39_word_new_line_6 | logic
 innocent
 dance
 diagram
 gentle
 depth |  
-| bip_39_word_new_line7 | logic
+| bip_39_word_new_line_7 | logic
 innocent
 dance
 diagram
 gentle
 depth
 balcony |  
-| bip_39_word_new_line8 | logic
+| bip_39_word_new_line_8 | logic
 innocent
 dance
 diagram
@@ -113,7 +113,7 @@ gentle
 depth
 balcony
 pretty |  
-| bip_39_word_new_line9 | logic
+| bip_39_word_new_line_9 | logic
 innocent
 dance
 diagram

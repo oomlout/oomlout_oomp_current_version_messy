@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pretty |  
-| bip_39_word_new_br10 | pretty<br>elevator<br>cruise<br>clean<br>bid<br>jacket<br>million<br>dish<br>link<br>street |  
-| bip_39_word_new_br11 | pretty<br>elevator<br>cruise<br>clean<br>bid<br>jacket<br>million<br>dish<br>link<br>street<br>license |  
-| bip_39_word_new_br12 | pretty<br>elevator<br>cruise<br>clean<br>bid<br>jacket<br>million<br>dish<br>link<br>street<br>license<br>apple |  
-| bip_39_word_new_br2 | pretty<br>elevator |  
-| bip_39_word_new_br3 | pretty<br>elevator<br>cruise |  
-| bip_39_word_new_br4 | pretty<br>elevator<br>cruise<br>clean |  
-| bip_39_word_new_br5 | pretty<br>elevator<br>cruise<br>clean<br>bid |  
-| bip_39_word_new_br6 | pretty<br>elevator<br>cruise<br>clean<br>bid<br>jacket |  
-| bip_39_word_new_br7 | pretty<br>elevator<br>cruise<br>clean<br>bid<br>jacket<br>million |  
-| bip_39_word_new_br8 | pretty<br>elevator<br>cruise<br>clean<br>bid<br>jacket<br>million<br>dish |  
-| bip_39_word_new_br9 | pretty<br>elevator<br>cruise<br>clean<br>bid<br>jacket<br>million<br>dish<br>link |  
-| bip_39_word_new_line1 | pretty |  
-| bip_39_word_new_line10 | pretty
+| bip_39_word_new_br_1 | pretty |  
+| bip_39_word_new_br_10 | pretty<br>elevator<br>cruise<br>clean<br>bid<br>jacket<br>million<br>dish<br>link<br>street |  
+| bip_39_word_new_br_11 | pretty<br>elevator<br>cruise<br>clean<br>bid<br>jacket<br>million<br>dish<br>link<br>street<br>license |  
+| bip_39_word_new_br_12 | pretty<br>elevator<br>cruise<br>clean<br>bid<br>jacket<br>million<br>dish<br>link<br>street<br>license<br>apple |  
+| bip_39_word_new_br_2 | pretty<br>elevator |  
+| bip_39_word_new_br_3 | pretty<br>elevator<br>cruise |  
+| bip_39_word_new_br_4 | pretty<br>elevator<br>cruise<br>clean |  
+| bip_39_word_new_br_5 | pretty<br>elevator<br>cruise<br>clean<br>bid |  
+| bip_39_word_new_br_6 | pretty<br>elevator<br>cruise<br>clean<br>bid<br>jacket |  
+| bip_39_word_new_br_7 | pretty<br>elevator<br>cruise<br>clean<br>bid<br>jacket<br>million |  
+| bip_39_word_new_br_8 | pretty<br>elevator<br>cruise<br>clean<br>bid<br>jacket<br>million<br>dish |  
+| bip_39_word_new_br_9 | pretty<br>elevator<br>cruise<br>clean<br>bid<br>jacket<br>million<br>dish<br>link |  
+| bip_39_word_new_line_1 | pretty |  
+| bip_39_word_new_line_10 | pretty
 elevator
 cruise
 clean
@@ -55,7 +55,7 @@ million
 dish
 link
 street |  
-| bip_39_word_new_line11 | pretty
+| bip_39_word_new_line_11 | pretty
 elevator
 cruise
 clean
@@ -66,7 +66,7 @@ dish
 link
 street
 license |  
-| bip_39_word_new_line12 | pretty
+| bip_39_word_new_line_12 | pretty
 elevator
 cruise
 clean
@@ -78,34 +78,34 @@ link
 street
 license
 apple |  
-| bip_39_word_new_line2 | pretty
+| bip_39_word_new_line_2 | pretty
 elevator |  
-| bip_39_word_new_line3 | pretty
+| bip_39_word_new_line_3 | pretty
 elevator
 cruise |  
-| bip_39_word_new_line4 | pretty
+| bip_39_word_new_line_4 | pretty
 elevator
 cruise
 clean |  
-| bip_39_word_new_line5 | pretty
+| bip_39_word_new_line_5 | pretty
 elevator
 cruise
 clean
 bid |  
-| bip_39_word_new_line6 | pretty
+| bip_39_word_new_line_6 | pretty
 elevator
 cruise
 clean
 bid
 jacket |  
-| bip_39_word_new_line7 | pretty
+| bip_39_word_new_line_7 | pretty
 elevator
 cruise
 clean
 bid
 jacket
 million |  
-| bip_39_word_new_line8 | pretty
+| bip_39_word_new_line_8 | pretty
 elevator
 cruise
 clean
@@ -113,7 +113,7 @@ bid
 jacket
 million
 dish |  
-| bip_39_word_new_line9 | pretty
+| bip_39_word_new_line_9 | pretty
 elevator
 cruise
 clean

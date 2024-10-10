@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | strike |  
-| bip_39_word_new_br10 | strike<br>immense<br>suffer<br>today<br>cricket<br>fox<br>atom<br>artwork<br>blind<br>pottery |  
-| bip_39_word_new_br11 | strike<br>immense<br>suffer<br>today<br>cricket<br>fox<br>atom<br>artwork<br>blind<br>pottery<br>labor |  
-| bip_39_word_new_br12 | strike<br>immense<br>suffer<br>today<br>cricket<br>fox<br>atom<br>artwork<br>blind<br>pottery<br>labor<br>asset |  
-| bip_39_word_new_br2 | strike<br>immense |  
-| bip_39_word_new_br3 | strike<br>immense<br>suffer |  
-| bip_39_word_new_br4 | strike<br>immense<br>suffer<br>today |  
-| bip_39_word_new_br5 | strike<br>immense<br>suffer<br>today<br>cricket |  
-| bip_39_word_new_br6 | strike<br>immense<br>suffer<br>today<br>cricket<br>fox |  
-| bip_39_word_new_br7 | strike<br>immense<br>suffer<br>today<br>cricket<br>fox<br>atom |  
-| bip_39_word_new_br8 | strike<br>immense<br>suffer<br>today<br>cricket<br>fox<br>atom<br>artwork |  
-| bip_39_word_new_br9 | strike<br>immense<br>suffer<br>today<br>cricket<br>fox<br>atom<br>artwork<br>blind |  
-| bip_39_word_new_line1 | strike |  
-| bip_39_word_new_line10 | strike
+| bip_39_word_new_br_1 | strike |  
+| bip_39_word_new_br_10 | strike<br>immense<br>suffer<br>today<br>cricket<br>fox<br>atom<br>artwork<br>blind<br>pottery |  
+| bip_39_word_new_br_11 | strike<br>immense<br>suffer<br>today<br>cricket<br>fox<br>atom<br>artwork<br>blind<br>pottery<br>labor |  
+| bip_39_word_new_br_12 | strike<br>immense<br>suffer<br>today<br>cricket<br>fox<br>atom<br>artwork<br>blind<br>pottery<br>labor<br>asset |  
+| bip_39_word_new_br_2 | strike<br>immense |  
+| bip_39_word_new_br_3 | strike<br>immense<br>suffer |  
+| bip_39_word_new_br_4 | strike<br>immense<br>suffer<br>today |  
+| bip_39_word_new_br_5 | strike<br>immense<br>suffer<br>today<br>cricket |  
+| bip_39_word_new_br_6 | strike<br>immense<br>suffer<br>today<br>cricket<br>fox |  
+| bip_39_word_new_br_7 | strike<br>immense<br>suffer<br>today<br>cricket<br>fox<br>atom |  
+| bip_39_word_new_br_8 | strike<br>immense<br>suffer<br>today<br>cricket<br>fox<br>atom<br>artwork |  
+| bip_39_word_new_br_9 | strike<br>immense<br>suffer<br>today<br>cricket<br>fox<br>atom<br>artwork<br>blind |  
+| bip_39_word_new_line_1 | strike |  
+| bip_39_word_new_line_10 | strike
 immense
 suffer
 today
@@ -55,7 +55,7 @@ atom
 artwork
 blind
 pottery |  
-| bip_39_word_new_line11 | strike
+| bip_39_word_new_line_11 | strike
 immense
 suffer
 today
@@ -66,7 +66,7 @@ artwork
 blind
 pottery
 labor |  
-| bip_39_word_new_line12 | strike
+| bip_39_word_new_line_12 | strike
 immense
 suffer
 today
@@ -78,34 +78,34 @@ blind
 pottery
 labor
 asset |  
-| bip_39_word_new_line2 | strike
+| bip_39_word_new_line_2 | strike
 immense |  
-| bip_39_word_new_line3 | strike
+| bip_39_word_new_line_3 | strike
 immense
 suffer |  
-| bip_39_word_new_line4 | strike
+| bip_39_word_new_line_4 | strike
 immense
 suffer
 today |  
-| bip_39_word_new_line5 | strike
+| bip_39_word_new_line_5 | strike
 immense
 suffer
 today
 cricket |  
-| bip_39_word_new_line6 | strike
+| bip_39_word_new_line_6 | strike
 immense
 suffer
 today
 cricket
 fox |  
-| bip_39_word_new_line7 | strike
+| bip_39_word_new_line_7 | strike
 immense
 suffer
 today
 cricket
 fox
 atom |  
-| bip_39_word_new_line8 | strike
+| bip_39_word_new_line_8 | strike
 immense
 suffer
 today
@@ -113,7 +113,7 @@ cricket
 fox
 atom
 artwork |  
-| bip_39_word_new_line9 | strike
+| bip_39_word_new_line_9 | strike
 immense
 suffer
 today

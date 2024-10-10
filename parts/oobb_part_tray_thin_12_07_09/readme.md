@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | volcano |  
-| bip_39_word_new_br10 | volcano<br>change<br>hurry<br>genre<br>power<br>dress<br>gadget<br>shop<br>cargo<br>calm |  
-| bip_39_word_new_br11 | volcano<br>change<br>hurry<br>genre<br>power<br>dress<br>gadget<br>shop<br>cargo<br>calm<br>forward |  
-| bip_39_word_new_br12 | volcano<br>change<br>hurry<br>genre<br>power<br>dress<br>gadget<br>shop<br>cargo<br>calm<br>forward<br>abstract |  
-| bip_39_word_new_br2 | volcano<br>change |  
-| bip_39_word_new_br3 | volcano<br>change<br>hurry |  
-| bip_39_word_new_br4 | volcano<br>change<br>hurry<br>genre |  
-| bip_39_word_new_br5 | volcano<br>change<br>hurry<br>genre<br>power |  
-| bip_39_word_new_br6 | volcano<br>change<br>hurry<br>genre<br>power<br>dress |  
-| bip_39_word_new_br7 | volcano<br>change<br>hurry<br>genre<br>power<br>dress<br>gadget |  
-| bip_39_word_new_br8 | volcano<br>change<br>hurry<br>genre<br>power<br>dress<br>gadget<br>shop |  
-| bip_39_word_new_br9 | volcano<br>change<br>hurry<br>genre<br>power<br>dress<br>gadget<br>shop<br>cargo |  
-| bip_39_word_new_line1 | volcano |  
-| bip_39_word_new_line10 | volcano
+| bip_39_word_new_br_1 | volcano |  
+| bip_39_word_new_br_10 | volcano<br>change<br>hurry<br>genre<br>power<br>dress<br>gadget<br>shop<br>cargo<br>calm |  
+| bip_39_word_new_br_11 | volcano<br>change<br>hurry<br>genre<br>power<br>dress<br>gadget<br>shop<br>cargo<br>calm<br>forward |  
+| bip_39_word_new_br_12 | volcano<br>change<br>hurry<br>genre<br>power<br>dress<br>gadget<br>shop<br>cargo<br>calm<br>forward<br>abstract |  
+| bip_39_word_new_br_2 | volcano<br>change |  
+| bip_39_word_new_br_3 | volcano<br>change<br>hurry |  
+| bip_39_word_new_br_4 | volcano<br>change<br>hurry<br>genre |  
+| bip_39_word_new_br_5 | volcano<br>change<br>hurry<br>genre<br>power |  
+| bip_39_word_new_br_6 | volcano<br>change<br>hurry<br>genre<br>power<br>dress |  
+| bip_39_word_new_br_7 | volcano<br>change<br>hurry<br>genre<br>power<br>dress<br>gadget |  
+| bip_39_word_new_br_8 | volcano<br>change<br>hurry<br>genre<br>power<br>dress<br>gadget<br>shop |  
+| bip_39_word_new_br_9 | volcano<br>change<br>hurry<br>genre<br>power<br>dress<br>gadget<br>shop<br>cargo |  
+| bip_39_word_new_line_1 | volcano |  
+| bip_39_word_new_line_10 | volcano
 change
 hurry
 genre
@@ -55,7 +55,7 @@ gadget
 shop
 cargo
 calm |  
-| bip_39_word_new_line11 | volcano
+| bip_39_word_new_line_11 | volcano
 change
 hurry
 genre
@@ -66,7 +66,7 @@ shop
 cargo
 calm
 forward |  
-| bip_39_word_new_line12 | volcano
+| bip_39_word_new_line_12 | volcano
 change
 hurry
 genre
@@ -78,34 +78,34 @@ cargo
 calm
 forward
 abstract |  
-| bip_39_word_new_line2 | volcano
+| bip_39_word_new_line_2 | volcano
 change |  
-| bip_39_word_new_line3 | volcano
+| bip_39_word_new_line_3 | volcano
 change
 hurry |  
-| bip_39_word_new_line4 | volcano
+| bip_39_word_new_line_4 | volcano
 change
 hurry
 genre |  
-| bip_39_word_new_line5 | volcano
+| bip_39_word_new_line_5 | volcano
 change
 hurry
 genre
 power |  
-| bip_39_word_new_line6 | volcano
+| bip_39_word_new_line_6 | volcano
 change
 hurry
 genre
 power
 dress |  
-| bip_39_word_new_line7 | volcano
+| bip_39_word_new_line_7 | volcano
 change
 hurry
 genre
 power
 dress
 gadget |  
-| bip_39_word_new_line8 | volcano
+| bip_39_word_new_line_8 | volcano
 change
 hurry
 genre
@@ -113,7 +113,7 @@ power
 dress
 gadget
 shop |  
-| bip_39_word_new_line9 | volcano
+| bip_39_word_new_line_9 | volcano
 change
 hurry
 genre

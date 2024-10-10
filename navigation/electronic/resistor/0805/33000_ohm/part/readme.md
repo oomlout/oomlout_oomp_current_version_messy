@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | airport |  
-| bip_39_word_new_br10 | airport<br>race<br>ability<br>bird<br>mechanic<br>bachelor<br>turtle<br>mouse<br>almost<br>ribbon |  
-| bip_39_word_new_br11 | airport<br>race<br>ability<br>bird<br>mechanic<br>bachelor<br>turtle<br>mouse<br>almost<br>ribbon<br>erase |  
-| bip_39_word_new_br12 | airport<br>race<br>ability<br>bird<br>mechanic<br>bachelor<br>turtle<br>mouse<br>almost<br>ribbon<br>erase<br>artefact |  
-| bip_39_word_new_br2 | airport<br>race |  
-| bip_39_word_new_br3 | airport<br>race<br>ability |  
-| bip_39_word_new_br4 | airport<br>race<br>ability<br>bird |  
-| bip_39_word_new_br5 | airport<br>race<br>ability<br>bird<br>mechanic |  
-| bip_39_word_new_br6 | airport<br>race<br>ability<br>bird<br>mechanic<br>bachelor |  
-| bip_39_word_new_br7 | airport<br>race<br>ability<br>bird<br>mechanic<br>bachelor<br>turtle |  
-| bip_39_word_new_br8 | airport<br>race<br>ability<br>bird<br>mechanic<br>bachelor<br>turtle<br>mouse |  
-| bip_39_word_new_br9 | airport<br>race<br>ability<br>bird<br>mechanic<br>bachelor<br>turtle<br>mouse<br>almost |  
-| bip_39_word_new_line1 | airport |  
-| bip_39_word_new_line10 | airport
+| bip_39_word_new_br_1 | airport |  
+| bip_39_word_new_br_10 | airport<br>race<br>ability<br>bird<br>mechanic<br>bachelor<br>turtle<br>mouse<br>almost<br>ribbon |  
+| bip_39_word_new_br_11 | airport<br>race<br>ability<br>bird<br>mechanic<br>bachelor<br>turtle<br>mouse<br>almost<br>ribbon<br>erase |  
+| bip_39_word_new_br_12 | airport<br>race<br>ability<br>bird<br>mechanic<br>bachelor<br>turtle<br>mouse<br>almost<br>ribbon<br>erase<br>artefact |  
+| bip_39_word_new_br_2 | airport<br>race |  
+| bip_39_word_new_br_3 | airport<br>race<br>ability |  
+| bip_39_word_new_br_4 | airport<br>race<br>ability<br>bird |  
+| bip_39_word_new_br_5 | airport<br>race<br>ability<br>bird<br>mechanic |  
+| bip_39_word_new_br_6 | airport<br>race<br>ability<br>bird<br>mechanic<br>bachelor |  
+| bip_39_word_new_br_7 | airport<br>race<br>ability<br>bird<br>mechanic<br>bachelor<br>turtle |  
+| bip_39_word_new_br_8 | airport<br>race<br>ability<br>bird<br>mechanic<br>bachelor<br>turtle<br>mouse |  
+| bip_39_word_new_br_9 | airport<br>race<br>ability<br>bird<br>mechanic<br>bachelor<br>turtle<br>mouse<br>almost |  
+| bip_39_word_new_line_1 | airport |  
+| bip_39_word_new_line_10 | airport
 race
 ability
 bird
@@ -55,7 +55,7 @@ turtle
 mouse
 almost
 ribbon |  
-| bip_39_word_new_line11 | airport
+| bip_39_word_new_line_11 | airport
 race
 ability
 bird
@@ -66,7 +66,7 @@ mouse
 almost
 ribbon
 erase |  
-| bip_39_word_new_line12 | airport
+| bip_39_word_new_line_12 | airport
 race
 ability
 bird
@@ -78,34 +78,34 @@ almost
 ribbon
 erase
 artefact |  
-| bip_39_word_new_line2 | airport
+| bip_39_word_new_line_2 | airport
 race |  
-| bip_39_word_new_line3 | airport
+| bip_39_word_new_line_3 | airport
 race
 ability |  
-| bip_39_word_new_line4 | airport
+| bip_39_word_new_line_4 | airport
 race
 ability
 bird |  
-| bip_39_word_new_line5 | airport
+| bip_39_word_new_line_5 | airport
 race
 ability
 bird
 mechanic |  
-| bip_39_word_new_line6 | airport
+| bip_39_word_new_line_6 | airport
 race
 ability
 bird
 mechanic
 bachelor |  
-| bip_39_word_new_line7 | airport
+| bip_39_word_new_line_7 | airport
 race
 ability
 bird
 mechanic
 bachelor
 turtle |  
-| bip_39_word_new_line8 | airport
+| bip_39_word_new_line_8 | airport
 race
 ability
 bird
@@ -113,7 +113,7 @@ mechanic
 bachelor
 turtle
 mouse |  
-| bip_39_word_new_line9 | airport
+| bip_39_word_new_line_9 | airport
 race
 ability
 bird

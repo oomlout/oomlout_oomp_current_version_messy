@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | all |  
-| bip_39_word_new_br10 | all<br>orange<br>foot<br>wheat<br>myself<br>glance<br>trigger<br>cook<br>feed<br>adapt |  
-| bip_39_word_new_br11 | all<br>orange<br>foot<br>wheat<br>myself<br>glance<br>trigger<br>cook<br>feed<br>adapt<br>arrange |  
-| bip_39_word_new_br12 | all<br>orange<br>foot<br>wheat<br>myself<br>glance<br>trigger<br>cook<br>feed<br>adapt<br>arrange<br>announce |  
-| bip_39_word_new_br2 | all<br>orange |  
-| bip_39_word_new_br3 | all<br>orange<br>foot |  
-| bip_39_word_new_br4 | all<br>orange<br>foot<br>wheat |  
-| bip_39_word_new_br5 | all<br>orange<br>foot<br>wheat<br>myself |  
-| bip_39_word_new_br6 | all<br>orange<br>foot<br>wheat<br>myself<br>glance |  
-| bip_39_word_new_br7 | all<br>orange<br>foot<br>wheat<br>myself<br>glance<br>trigger |  
-| bip_39_word_new_br8 | all<br>orange<br>foot<br>wheat<br>myself<br>glance<br>trigger<br>cook |  
-| bip_39_word_new_br9 | all<br>orange<br>foot<br>wheat<br>myself<br>glance<br>trigger<br>cook<br>feed |  
-| bip_39_word_new_line1 | all |  
-| bip_39_word_new_line10 | all
+| bip_39_word_new_br_1 | all |  
+| bip_39_word_new_br_10 | all<br>orange<br>foot<br>wheat<br>myself<br>glance<br>trigger<br>cook<br>feed<br>adapt |  
+| bip_39_word_new_br_11 | all<br>orange<br>foot<br>wheat<br>myself<br>glance<br>trigger<br>cook<br>feed<br>adapt<br>arrange |  
+| bip_39_word_new_br_12 | all<br>orange<br>foot<br>wheat<br>myself<br>glance<br>trigger<br>cook<br>feed<br>adapt<br>arrange<br>announce |  
+| bip_39_word_new_br_2 | all<br>orange |  
+| bip_39_word_new_br_3 | all<br>orange<br>foot |  
+| bip_39_word_new_br_4 | all<br>orange<br>foot<br>wheat |  
+| bip_39_word_new_br_5 | all<br>orange<br>foot<br>wheat<br>myself |  
+| bip_39_word_new_br_6 | all<br>orange<br>foot<br>wheat<br>myself<br>glance |  
+| bip_39_word_new_br_7 | all<br>orange<br>foot<br>wheat<br>myself<br>glance<br>trigger |  
+| bip_39_word_new_br_8 | all<br>orange<br>foot<br>wheat<br>myself<br>glance<br>trigger<br>cook |  
+| bip_39_word_new_br_9 | all<br>orange<br>foot<br>wheat<br>myself<br>glance<br>trigger<br>cook<br>feed |  
+| bip_39_word_new_line_1 | all |  
+| bip_39_word_new_line_10 | all
 orange
 foot
 wheat
@@ -55,7 +55,7 @@ trigger
 cook
 feed
 adapt |  
-| bip_39_word_new_line11 | all
+| bip_39_word_new_line_11 | all
 orange
 foot
 wheat
@@ -66,7 +66,7 @@ cook
 feed
 adapt
 arrange |  
-| bip_39_word_new_line12 | all
+| bip_39_word_new_line_12 | all
 orange
 foot
 wheat
@@ -78,34 +78,34 @@ feed
 adapt
 arrange
 announce |  
-| bip_39_word_new_line2 | all
+| bip_39_word_new_line_2 | all
 orange |  
-| bip_39_word_new_line3 | all
+| bip_39_word_new_line_3 | all
 orange
 foot |  
-| bip_39_word_new_line4 | all
+| bip_39_word_new_line_4 | all
 orange
 foot
 wheat |  
-| bip_39_word_new_line5 | all
+| bip_39_word_new_line_5 | all
 orange
 foot
 wheat
 myself |  
-| bip_39_word_new_line6 | all
+| bip_39_word_new_line_6 | all
 orange
 foot
 wheat
 myself
 glance |  
-| bip_39_word_new_line7 | all
+| bip_39_word_new_line_7 | all
 orange
 foot
 wheat
 myself
 glance
 trigger |  
-| bip_39_word_new_line8 | all
+| bip_39_word_new_line_8 | all
 orange
 foot
 wheat
@@ -113,7 +113,7 @@ myself
 glance
 trigger
 cook |  
-| bip_39_word_new_line9 | all
+| bip_39_word_new_line_9 | all
 orange
 foot
 wheat

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | exhaust |  
-| bip_39_word_new_br10 | exhaust<br>frequent<br>inmate<br>entire<br>eager<br>metal<br>risk<br>rescue<br>sadness<br>rubber |  
-| bip_39_word_new_br11 | exhaust<br>frequent<br>inmate<br>entire<br>eager<br>metal<br>risk<br>rescue<br>sadness<br>rubber<br>view |  
-| bip_39_word_new_br12 | exhaust<br>frequent<br>inmate<br>entire<br>eager<br>metal<br>risk<br>rescue<br>sadness<br>rubber<br>view<br>alley |  
-| bip_39_word_new_br2 | exhaust<br>frequent |  
-| bip_39_word_new_br3 | exhaust<br>frequent<br>inmate |  
-| bip_39_word_new_br4 | exhaust<br>frequent<br>inmate<br>entire |  
-| bip_39_word_new_br5 | exhaust<br>frequent<br>inmate<br>entire<br>eager |  
-| bip_39_word_new_br6 | exhaust<br>frequent<br>inmate<br>entire<br>eager<br>metal |  
-| bip_39_word_new_br7 | exhaust<br>frequent<br>inmate<br>entire<br>eager<br>metal<br>risk |  
-| bip_39_word_new_br8 | exhaust<br>frequent<br>inmate<br>entire<br>eager<br>metal<br>risk<br>rescue |  
-| bip_39_word_new_br9 | exhaust<br>frequent<br>inmate<br>entire<br>eager<br>metal<br>risk<br>rescue<br>sadness |  
-| bip_39_word_new_line1 | exhaust |  
-| bip_39_word_new_line10 | exhaust
+| bip_39_word_new_br_1 | exhaust |  
+| bip_39_word_new_br_10 | exhaust<br>frequent<br>inmate<br>entire<br>eager<br>metal<br>risk<br>rescue<br>sadness<br>rubber |  
+| bip_39_word_new_br_11 | exhaust<br>frequent<br>inmate<br>entire<br>eager<br>metal<br>risk<br>rescue<br>sadness<br>rubber<br>view |  
+| bip_39_word_new_br_12 | exhaust<br>frequent<br>inmate<br>entire<br>eager<br>metal<br>risk<br>rescue<br>sadness<br>rubber<br>view<br>alley |  
+| bip_39_word_new_br_2 | exhaust<br>frequent |  
+| bip_39_word_new_br_3 | exhaust<br>frequent<br>inmate |  
+| bip_39_word_new_br_4 | exhaust<br>frequent<br>inmate<br>entire |  
+| bip_39_word_new_br_5 | exhaust<br>frequent<br>inmate<br>entire<br>eager |  
+| bip_39_word_new_br_6 | exhaust<br>frequent<br>inmate<br>entire<br>eager<br>metal |  
+| bip_39_word_new_br_7 | exhaust<br>frequent<br>inmate<br>entire<br>eager<br>metal<br>risk |  
+| bip_39_word_new_br_8 | exhaust<br>frequent<br>inmate<br>entire<br>eager<br>metal<br>risk<br>rescue |  
+| bip_39_word_new_br_9 | exhaust<br>frequent<br>inmate<br>entire<br>eager<br>metal<br>risk<br>rescue<br>sadness |  
+| bip_39_word_new_line_1 | exhaust |  
+| bip_39_word_new_line_10 | exhaust
 frequent
 inmate
 entire
@@ -55,7 +55,7 @@ risk
 rescue
 sadness
 rubber |  
-| bip_39_word_new_line11 | exhaust
+| bip_39_word_new_line_11 | exhaust
 frequent
 inmate
 entire
@@ -66,7 +66,7 @@ rescue
 sadness
 rubber
 view |  
-| bip_39_word_new_line12 | exhaust
+| bip_39_word_new_line_12 | exhaust
 frequent
 inmate
 entire
@@ -78,34 +78,34 @@ sadness
 rubber
 view
 alley |  
-| bip_39_word_new_line2 | exhaust
+| bip_39_word_new_line_2 | exhaust
 frequent |  
-| bip_39_word_new_line3 | exhaust
+| bip_39_word_new_line_3 | exhaust
 frequent
 inmate |  
-| bip_39_word_new_line4 | exhaust
+| bip_39_word_new_line_4 | exhaust
 frequent
 inmate
 entire |  
-| bip_39_word_new_line5 | exhaust
+| bip_39_word_new_line_5 | exhaust
 frequent
 inmate
 entire
 eager |  
-| bip_39_word_new_line6 | exhaust
+| bip_39_word_new_line_6 | exhaust
 frequent
 inmate
 entire
 eager
 metal |  
-| bip_39_word_new_line7 | exhaust
+| bip_39_word_new_line_7 | exhaust
 frequent
 inmate
 entire
 eager
 metal
 risk |  
-| bip_39_word_new_line8 | exhaust
+| bip_39_word_new_line_8 | exhaust
 frequent
 inmate
 entire
@@ -113,7 +113,7 @@ eager
 metal
 risk
 rescue |  
-| bip_39_word_new_line9 | exhaust
+| bip_39_word_new_line_9 | exhaust
 frequent
 inmate
 entire

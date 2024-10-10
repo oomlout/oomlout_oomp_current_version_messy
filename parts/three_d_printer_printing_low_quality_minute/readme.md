@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | physical |  
-| bip_39_word_new_br10 | physical<br>eager<br>hungry<br>virus<br>finger<br>notice<br>west<br>hood<br>lawn<br>phrase |  
-| bip_39_word_new_br11 | physical<br>eager<br>hungry<br>virus<br>finger<br>notice<br>west<br>hood<br>lawn<br>phrase<br>choose |  
-| bip_39_word_new_br12 | physical<br>eager<br>hungry<br>virus<br>finger<br>notice<br>west<br>hood<br>lawn<br>phrase<br>choose<br>angry |  
-| bip_39_word_new_br2 | physical<br>eager |  
-| bip_39_word_new_br3 | physical<br>eager<br>hungry |  
-| bip_39_word_new_br4 | physical<br>eager<br>hungry<br>virus |  
-| bip_39_word_new_br5 | physical<br>eager<br>hungry<br>virus<br>finger |  
-| bip_39_word_new_br6 | physical<br>eager<br>hungry<br>virus<br>finger<br>notice |  
-| bip_39_word_new_br7 | physical<br>eager<br>hungry<br>virus<br>finger<br>notice<br>west |  
-| bip_39_word_new_br8 | physical<br>eager<br>hungry<br>virus<br>finger<br>notice<br>west<br>hood |  
-| bip_39_word_new_br9 | physical<br>eager<br>hungry<br>virus<br>finger<br>notice<br>west<br>hood<br>lawn |  
-| bip_39_word_new_line1 | physical |  
-| bip_39_word_new_line10 | physical
+| bip_39_word_new_br_1 | physical |  
+| bip_39_word_new_br_10 | physical<br>eager<br>hungry<br>virus<br>finger<br>notice<br>west<br>hood<br>lawn<br>phrase |  
+| bip_39_word_new_br_11 | physical<br>eager<br>hungry<br>virus<br>finger<br>notice<br>west<br>hood<br>lawn<br>phrase<br>choose |  
+| bip_39_word_new_br_12 | physical<br>eager<br>hungry<br>virus<br>finger<br>notice<br>west<br>hood<br>lawn<br>phrase<br>choose<br>angry |  
+| bip_39_word_new_br_2 | physical<br>eager |  
+| bip_39_word_new_br_3 | physical<br>eager<br>hungry |  
+| bip_39_word_new_br_4 | physical<br>eager<br>hungry<br>virus |  
+| bip_39_word_new_br_5 | physical<br>eager<br>hungry<br>virus<br>finger |  
+| bip_39_word_new_br_6 | physical<br>eager<br>hungry<br>virus<br>finger<br>notice |  
+| bip_39_word_new_br_7 | physical<br>eager<br>hungry<br>virus<br>finger<br>notice<br>west |  
+| bip_39_word_new_br_8 | physical<br>eager<br>hungry<br>virus<br>finger<br>notice<br>west<br>hood |  
+| bip_39_word_new_br_9 | physical<br>eager<br>hungry<br>virus<br>finger<br>notice<br>west<br>hood<br>lawn |  
+| bip_39_word_new_line_1 | physical |  
+| bip_39_word_new_line_10 | physical
 eager
 hungry
 virus
@@ -55,7 +55,7 @@ west
 hood
 lawn
 phrase |  
-| bip_39_word_new_line11 | physical
+| bip_39_word_new_line_11 | physical
 eager
 hungry
 virus
@@ -66,7 +66,7 @@ hood
 lawn
 phrase
 choose |  
-| bip_39_word_new_line12 | physical
+| bip_39_word_new_line_12 | physical
 eager
 hungry
 virus
@@ -78,34 +78,34 @@ lawn
 phrase
 choose
 angry |  
-| bip_39_word_new_line2 | physical
+| bip_39_word_new_line_2 | physical
 eager |  
-| bip_39_word_new_line3 | physical
+| bip_39_word_new_line_3 | physical
 eager
 hungry |  
-| bip_39_word_new_line4 | physical
+| bip_39_word_new_line_4 | physical
 eager
 hungry
 virus |  
-| bip_39_word_new_line5 | physical
+| bip_39_word_new_line_5 | physical
 eager
 hungry
 virus
 finger |  
-| bip_39_word_new_line6 | physical
+| bip_39_word_new_line_6 | physical
 eager
 hungry
 virus
 finger
 notice |  
-| bip_39_word_new_line7 | physical
+| bip_39_word_new_line_7 | physical
 eager
 hungry
 virus
 finger
 notice
 west |  
-| bip_39_word_new_line8 | physical
+| bip_39_word_new_line_8 | physical
 eager
 hungry
 virus
@@ -113,7 +113,7 @@ finger
 notice
 west
 hood |  
-| bip_39_word_new_line9 | physical
+| bip_39_word_new_line_9 | physical
 eager
 hungry
 virus

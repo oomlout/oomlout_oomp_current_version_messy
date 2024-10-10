@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | loud |  
-| bip_39_word_new_br10 | loud<br>beauty<br>tobacco<br>arm<br>culture<br>reform<br>search<br>trim<br>giraffe<br>forest |  
-| bip_39_word_new_br11 | loud<br>beauty<br>tobacco<br>arm<br>culture<br>reform<br>search<br>trim<br>giraffe<br>forest<br>flee |  
-| bip_39_word_new_br12 | loud<br>beauty<br>tobacco<br>arm<br>culture<br>reform<br>search<br>trim<br>giraffe<br>forest<br>flee<br>assist |  
-| bip_39_word_new_br2 | loud<br>beauty |  
-| bip_39_word_new_br3 | loud<br>beauty<br>tobacco |  
-| bip_39_word_new_br4 | loud<br>beauty<br>tobacco<br>arm |  
-| bip_39_word_new_br5 | loud<br>beauty<br>tobacco<br>arm<br>culture |  
-| bip_39_word_new_br6 | loud<br>beauty<br>tobacco<br>arm<br>culture<br>reform |  
-| bip_39_word_new_br7 | loud<br>beauty<br>tobacco<br>arm<br>culture<br>reform<br>search |  
-| bip_39_word_new_br8 | loud<br>beauty<br>tobacco<br>arm<br>culture<br>reform<br>search<br>trim |  
-| bip_39_word_new_br9 | loud<br>beauty<br>tobacco<br>arm<br>culture<br>reform<br>search<br>trim<br>giraffe |  
-| bip_39_word_new_line1 | loud |  
-| bip_39_word_new_line10 | loud
+| bip_39_word_new_br_1 | loud |  
+| bip_39_word_new_br_10 | loud<br>beauty<br>tobacco<br>arm<br>culture<br>reform<br>search<br>trim<br>giraffe<br>forest |  
+| bip_39_word_new_br_11 | loud<br>beauty<br>tobacco<br>arm<br>culture<br>reform<br>search<br>trim<br>giraffe<br>forest<br>flee |  
+| bip_39_word_new_br_12 | loud<br>beauty<br>tobacco<br>arm<br>culture<br>reform<br>search<br>trim<br>giraffe<br>forest<br>flee<br>assist |  
+| bip_39_word_new_br_2 | loud<br>beauty |  
+| bip_39_word_new_br_3 | loud<br>beauty<br>tobacco |  
+| bip_39_word_new_br_4 | loud<br>beauty<br>tobacco<br>arm |  
+| bip_39_word_new_br_5 | loud<br>beauty<br>tobacco<br>arm<br>culture |  
+| bip_39_word_new_br_6 | loud<br>beauty<br>tobacco<br>arm<br>culture<br>reform |  
+| bip_39_word_new_br_7 | loud<br>beauty<br>tobacco<br>arm<br>culture<br>reform<br>search |  
+| bip_39_word_new_br_8 | loud<br>beauty<br>tobacco<br>arm<br>culture<br>reform<br>search<br>trim |  
+| bip_39_word_new_br_9 | loud<br>beauty<br>tobacco<br>arm<br>culture<br>reform<br>search<br>trim<br>giraffe |  
+| bip_39_word_new_line_1 | loud |  
+| bip_39_word_new_line_10 | loud
 beauty
 tobacco
 arm
@@ -55,7 +55,7 @@ search
 trim
 giraffe
 forest |  
-| bip_39_word_new_line11 | loud
+| bip_39_word_new_line_11 | loud
 beauty
 tobacco
 arm
@@ -66,7 +66,7 @@ trim
 giraffe
 forest
 flee |  
-| bip_39_word_new_line12 | loud
+| bip_39_word_new_line_12 | loud
 beauty
 tobacco
 arm
@@ -78,34 +78,34 @@ giraffe
 forest
 flee
 assist |  
-| bip_39_word_new_line2 | loud
+| bip_39_word_new_line_2 | loud
 beauty |  
-| bip_39_word_new_line3 | loud
+| bip_39_word_new_line_3 | loud
 beauty
 tobacco |  
-| bip_39_word_new_line4 | loud
+| bip_39_word_new_line_4 | loud
 beauty
 tobacco
 arm |  
-| bip_39_word_new_line5 | loud
+| bip_39_word_new_line_5 | loud
 beauty
 tobacco
 arm
 culture |  
-| bip_39_word_new_line6 | loud
+| bip_39_word_new_line_6 | loud
 beauty
 tobacco
 arm
 culture
 reform |  
-| bip_39_word_new_line7 | loud
+| bip_39_word_new_line_7 | loud
 beauty
 tobacco
 arm
 culture
 reform
 search |  
-| bip_39_word_new_line8 | loud
+| bip_39_word_new_line_8 | loud
 beauty
 tobacco
 arm
@@ -113,7 +113,7 @@ culture
 reform
 search
 trim |  
-| bip_39_word_new_line9 | loud
+| bip_39_word_new_line_9 | loud
 beauty
 tobacco
 arm

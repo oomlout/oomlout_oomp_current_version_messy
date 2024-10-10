@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | beef |  
-| bip_39_word_new_br10 | beef<br>liquid<br>only<br>mushroom<br>worry<br>visit<br>camera<br>horn<br>jacket<br>level |  
-| bip_39_word_new_br11 | beef<br>liquid<br>only<br>mushroom<br>worry<br>visit<br>camera<br>horn<br>jacket<br>level<br>transfer |  
-| bip_39_word_new_br12 | beef<br>liquid<br>only<br>mushroom<br>worry<br>visit<br>camera<br>horn<br>jacket<br>level<br>transfer<br>approve |  
-| bip_39_word_new_br2 | beef<br>liquid |  
-| bip_39_word_new_br3 | beef<br>liquid<br>only |  
-| bip_39_word_new_br4 | beef<br>liquid<br>only<br>mushroom |  
-| bip_39_word_new_br5 | beef<br>liquid<br>only<br>mushroom<br>worry |  
-| bip_39_word_new_br6 | beef<br>liquid<br>only<br>mushroom<br>worry<br>visit |  
-| bip_39_word_new_br7 | beef<br>liquid<br>only<br>mushroom<br>worry<br>visit<br>camera |  
-| bip_39_word_new_br8 | beef<br>liquid<br>only<br>mushroom<br>worry<br>visit<br>camera<br>horn |  
-| bip_39_word_new_br9 | beef<br>liquid<br>only<br>mushroom<br>worry<br>visit<br>camera<br>horn<br>jacket |  
-| bip_39_word_new_line1 | beef |  
-| bip_39_word_new_line10 | beef
+| bip_39_word_new_br_1 | beef |  
+| bip_39_word_new_br_10 | beef<br>liquid<br>only<br>mushroom<br>worry<br>visit<br>camera<br>horn<br>jacket<br>level |  
+| bip_39_word_new_br_11 | beef<br>liquid<br>only<br>mushroom<br>worry<br>visit<br>camera<br>horn<br>jacket<br>level<br>transfer |  
+| bip_39_word_new_br_12 | beef<br>liquid<br>only<br>mushroom<br>worry<br>visit<br>camera<br>horn<br>jacket<br>level<br>transfer<br>approve |  
+| bip_39_word_new_br_2 | beef<br>liquid |  
+| bip_39_word_new_br_3 | beef<br>liquid<br>only |  
+| bip_39_word_new_br_4 | beef<br>liquid<br>only<br>mushroom |  
+| bip_39_word_new_br_5 | beef<br>liquid<br>only<br>mushroom<br>worry |  
+| bip_39_word_new_br_6 | beef<br>liquid<br>only<br>mushroom<br>worry<br>visit |  
+| bip_39_word_new_br_7 | beef<br>liquid<br>only<br>mushroom<br>worry<br>visit<br>camera |  
+| bip_39_word_new_br_8 | beef<br>liquid<br>only<br>mushroom<br>worry<br>visit<br>camera<br>horn |  
+| bip_39_word_new_br_9 | beef<br>liquid<br>only<br>mushroom<br>worry<br>visit<br>camera<br>horn<br>jacket |  
+| bip_39_word_new_line_1 | beef |  
+| bip_39_word_new_line_10 | beef
 liquid
 only
 mushroom
@@ -55,7 +55,7 @@ camera
 horn
 jacket
 level |  
-| bip_39_word_new_line11 | beef
+| bip_39_word_new_line_11 | beef
 liquid
 only
 mushroom
@@ -66,7 +66,7 @@ horn
 jacket
 level
 transfer |  
-| bip_39_word_new_line12 | beef
+| bip_39_word_new_line_12 | beef
 liquid
 only
 mushroom
@@ -78,34 +78,34 @@ jacket
 level
 transfer
 approve |  
-| bip_39_word_new_line2 | beef
+| bip_39_word_new_line_2 | beef
 liquid |  
-| bip_39_word_new_line3 | beef
+| bip_39_word_new_line_3 | beef
 liquid
 only |  
-| bip_39_word_new_line4 | beef
+| bip_39_word_new_line_4 | beef
 liquid
 only
 mushroom |  
-| bip_39_word_new_line5 | beef
+| bip_39_word_new_line_5 | beef
 liquid
 only
 mushroom
 worry |  
-| bip_39_word_new_line6 | beef
+| bip_39_word_new_line_6 | beef
 liquid
 only
 mushroom
 worry
 visit |  
-| bip_39_word_new_line7 | beef
+| bip_39_word_new_line_7 | beef
 liquid
 only
 mushroom
 worry
 visit
 camera |  
-| bip_39_word_new_line8 | beef
+| bip_39_word_new_line_8 | beef
 liquid
 only
 mushroom
@@ -113,7 +113,7 @@ worry
 visit
 camera
 horn |  
-| bip_39_word_new_line9 | beef
+| bip_39_word_new_line_9 | beef
 liquid
 only
 mushroom

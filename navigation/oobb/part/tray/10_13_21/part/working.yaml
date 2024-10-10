@@ -1,17 +1,17 @@
-bip_39_word_new_br1: kitten
-bip_39_word_new_br10: kitten<br>top<br>copper<br>dawn<br>century<br>famous<br>agent<br>dignity<br>gloom<br>noodle
-bip_39_word_new_br11: kitten<br>top<br>copper<br>dawn<br>century<br>famous<br>agent<br>dignity<br>gloom<br>noodle<br>skill
-bip_39_word_new_br12: kitten<br>top<br>copper<br>dawn<br>century<br>famous<br>agent<br>dignity<br>gloom<br>noodle<br>skill<br>appear
-bip_39_word_new_br2: kitten<br>top
-bip_39_word_new_br3: kitten<br>top<br>copper
-bip_39_word_new_br4: kitten<br>top<br>copper<br>dawn
-bip_39_word_new_br5: kitten<br>top<br>copper<br>dawn<br>century
-bip_39_word_new_br6: kitten<br>top<br>copper<br>dawn<br>century<br>famous
-bip_39_word_new_br7: kitten<br>top<br>copper<br>dawn<br>century<br>famous<br>agent
-bip_39_word_new_br8: kitten<br>top<br>copper<br>dawn<br>century<br>famous<br>agent<br>dignity
-bip_39_word_new_br9: kitten<br>top<br>copper<br>dawn<br>century<br>famous<br>agent<br>dignity<br>gloom
-bip_39_word_new_line1: kitten
-bip_39_word_new_line10: 'kitten
+bip_39_word_new_br_1: kitten
+bip_39_word_new_br_10: kitten<br>top<br>copper<br>dawn<br>century<br>famous<br>agent<br>dignity<br>gloom<br>noodle
+bip_39_word_new_br_11: kitten<br>top<br>copper<br>dawn<br>century<br>famous<br>agent<br>dignity<br>gloom<br>noodle<br>skill
+bip_39_word_new_br_12: kitten<br>top<br>copper<br>dawn<br>century<br>famous<br>agent<br>dignity<br>gloom<br>noodle<br>skill<br>appear
+bip_39_word_new_br_2: kitten<br>top
+bip_39_word_new_br_3: kitten<br>top<br>copper
+bip_39_word_new_br_4: kitten<br>top<br>copper<br>dawn
+bip_39_word_new_br_5: kitten<br>top<br>copper<br>dawn<br>century
+bip_39_word_new_br_6: kitten<br>top<br>copper<br>dawn<br>century<br>famous
+bip_39_word_new_br_7: kitten<br>top<br>copper<br>dawn<br>century<br>famous<br>agent
+bip_39_word_new_br_8: kitten<br>top<br>copper<br>dawn<br>century<br>famous<br>agent<br>dignity
+bip_39_word_new_br_9: kitten<br>top<br>copper<br>dawn<br>century<br>famous<br>agent<br>dignity<br>gloom
+bip_39_word_new_line_1: kitten
+bip_39_word_new_line_10: 'kitten
 
   top
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'kitten
   gloom
 
   noodle'
-bip_39_word_new_line11: 'kitten
+bip_39_word_new_line_11: 'kitten
 
   top
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'kitten
   noodle
 
   skill'
-bip_39_word_new_line12: 'kitten
+bip_39_word_new_line_12: 'kitten
 
   top
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'kitten
   skill
 
   appear'
-bip_39_word_new_line2: 'kitten
+bip_39_word_new_line_2: 'kitten
 
   top'
-bip_39_word_new_line3: 'kitten
+bip_39_word_new_line_3: 'kitten
 
   top
 
   copper'
-bip_39_word_new_line4: 'kitten
+bip_39_word_new_line_4: 'kitten
 
   top
 
   copper
 
   dawn'
-bip_39_word_new_line5: 'kitten
+bip_39_word_new_line_5: 'kitten
 
   top
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'kitten
   dawn
 
   century'
-bip_39_word_new_line6: 'kitten
+bip_39_word_new_line_6: 'kitten
 
   top
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'kitten
   century
 
   famous'
-bip_39_word_new_line7: 'kitten
+bip_39_word_new_line_7: 'kitten
 
   top
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'kitten
   famous
 
   agent'
-bip_39_word_new_line8: 'kitten
+bip_39_word_new_line_8: 'kitten
 
   top
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'kitten
   agent
 
   dignity'
-bip_39_word_new_line9: 'kitten
+bip_39_word_new_line_9: 'kitten
 
   top
 

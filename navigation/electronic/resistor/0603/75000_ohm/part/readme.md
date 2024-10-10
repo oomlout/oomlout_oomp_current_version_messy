@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | imitate |  
-| bip_39_word_new_br10 | imitate<br>case<br>ivory<br>various<br>leave<br>reflect<br>crush<br>tribe<br>begin<br>radar |  
-| bip_39_word_new_br11 | imitate<br>case<br>ivory<br>various<br>leave<br>reflect<br>crush<br>tribe<br>begin<br>radar<br>clog |  
-| bip_39_word_new_br12 | imitate<br>case<br>ivory<br>various<br>leave<br>reflect<br>crush<br>tribe<br>begin<br>radar<br>clog<br>aspect |  
-| bip_39_word_new_br2 | imitate<br>case |  
-| bip_39_word_new_br3 | imitate<br>case<br>ivory |  
-| bip_39_word_new_br4 | imitate<br>case<br>ivory<br>various |  
-| bip_39_word_new_br5 | imitate<br>case<br>ivory<br>various<br>leave |  
-| bip_39_word_new_br6 | imitate<br>case<br>ivory<br>various<br>leave<br>reflect |  
-| bip_39_word_new_br7 | imitate<br>case<br>ivory<br>various<br>leave<br>reflect<br>crush |  
-| bip_39_word_new_br8 | imitate<br>case<br>ivory<br>various<br>leave<br>reflect<br>crush<br>tribe |  
-| bip_39_word_new_br9 | imitate<br>case<br>ivory<br>various<br>leave<br>reflect<br>crush<br>tribe<br>begin |  
-| bip_39_word_new_line1 | imitate |  
-| bip_39_word_new_line10 | imitate
+| bip_39_word_new_br_1 | imitate |  
+| bip_39_word_new_br_10 | imitate<br>case<br>ivory<br>various<br>leave<br>reflect<br>crush<br>tribe<br>begin<br>radar |  
+| bip_39_word_new_br_11 | imitate<br>case<br>ivory<br>various<br>leave<br>reflect<br>crush<br>tribe<br>begin<br>radar<br>clog |  
+| bip_39_word_new_br_12 | imitate<br>case<br>ivory<br>various<br>leave<br>reflect<br>crush<br>tribe<br>begin<br>radar<br>clog<br>aspect |  
+| bip_39_word_new_br_2 | imitate<br>case |  
+| bip_39_word_new_br_3 | imitate<br>case<br>ivory |  
+| bip_39_word_new_br_4 | imitate<br>case<br>ivory<br>various |  
+| bip_39_word_new_br_5 | imitate<br>case<br>ivory<br>various<br>leave |  
+| bip_39_word_new_br_6 | imitate<br>case<br>ivory<br>various<br>leave<br>reflect |  
+| bip_39_word_new_br_7 | imitate<br>case<br>ivory<br>various<br>leave<br>reflect<br>crush |  
+| bip_39_word_new_br_8 | imitate<br>case<br>ivory<br>various<br>leave<br>reflect<br>crush<br>tribe |  
+| bip_39_word_new_br_9 | imitate<br>case<br>ivory<br>various<br>leave<br>reflect<br>crush<br>tribe<br>begin |  
+| bip_39_word_new_line_1 | imitate |  
+| bip_39_word_new_line_10 | imitate
 case
 ivory
 various
@@ -55,7 +55,7 @@ crush
 tribe
 begin
 radar |  
-| bip_39_word_new_line11 | imitate
+| bip_39_word_new_line_11 | imitate
 case
 ivory
 various
@@ -66,7 +66,7 @@ tribe
 begin
 radar
 clog |  
-| bip_39_word_new_line12 | imitate
+| bip_39_word_new_line_12 | imitate
 case
 ivory
 various
@@ -78,34 +78,34 @@ begin
 radar
 clog
 aspect |  
-| bip_39_word_new_line2 | imitate
+| bip_39_word_new_line_2 | imitate
 case |  
-| bip_39_word_new_line3 | imitate
+| bip_39_word_new_line_3 | imitate
 case
 ivory |  
-| bip_39_word_new_line4 | imitate
+| bip_39_word_new_line_4 | imitate
 case
 ivory
 various |  
-| bip_39_word_new_line5 | imitate
+| bip_39_word_new_line_5 | imitate
 case
 ivory
 various
 leave |  
-| bip_39_word_new_line6 | imitate
+| bip_39_word_new_line_6 | imitate
 case
 ivory
 various
 leave
 reflect |  
-| bip_39_word_new_line7 | imitate
+| bip_39_word_new_line_7 | imitate
 case
 ivory
 various
 leave
 reflect
 crush |  
-| bip_39_word_new_line8 | imitate
+| bip_39_word_new_line_8 | imitate
 case
 ivory
 various
@@ -113,7 +113,7 @@ leave
 reflect
 crush
 tribe |  
-| bip_39_word_new_line9 | imitate
+| bip_39_word_new_line_9 | imitate
 case
 ivory
 various

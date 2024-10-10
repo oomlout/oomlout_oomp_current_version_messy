@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | depend |  
-| bip_39_word_new_br10 | depend<br>horror<br>tape<br>dynamic<br>purse<br>equip<br>evil<br>better<br>slight<br>rubber |  
-| bip_39_word_new_br11 | depend<br>horror<br>tape<br>dynamic<br>purse<br>equip<br>evil<br>better<br>slight<br>rubber<br>duck |  
-| bip_39_word_new_br12 | depend<br>horror<br>tape<br>dynamic<br>purse<br>equip<br>evil<br>better<br>slight<br>rubber<br>duck<br>animal |  
-| bip_39_word_new_br2 | depend<br>horror |  
-| bip_39_word_new_br3 | depend<br>horror<br>tape |  
-| bip_39_word_new_br4 | depend<br>horror<br>tape<br>dynamic |  
-| bip_39_word_new_br5 | depend<br>horror<br>tape<br>dynamic<br>purse |  
-| bip_39_word_new_br6 | depend<br>horror<br>tape<br>dynamic<br>purse<br>equip |  
-| bip_39_word_new_br7 | depend<br>horror<br>tape<br>dynamic<br>purse<br>equip<br>evil |  
-| bip_39_word_new_br8 | depend<br>horror<br>tape<br>dynamic<br>purse<br>equip<br>evil<br>better |  
-| bip_39_word_new_br9 | depend<br>horror<br>tape<br>dynamic<br>purse<br>equip<br>evil<br>better<br>slight |  
-| bip_39_word_new_line1 | depend |  
-| bip_39_word_new_line10 | depend
+| bip_39_word_new_br_1 | depend |  
+| bip_39_word_new_br_10 | depend<br>horror<br>tape<br>dynamic<br>purse<br>equip<br>evil<br>better<br>slight<br>rubber |  
+| bip_39_word_new_br_11 | depend<br>horror<br>tape<br>dynamic<br>purse<br>equip<br>evil<br>better<br>slight<br>rubber<br>duck |  
+| bip_39_word_new_br_12 | depend<br>horror<br>tape<br>dynamic<br>purse<br>equip<br>evil<br>better<br>slight<br>rubber<br>duck<br>animal |  
+| bip_39_word_new_br_2 | depend<br>horror |  
+| bip_39_word_new_br_3 | depend<br>horror<br>tape |  
+| bip_39_word_new_br_4 | depend<br>horror<br>tape<br>dynamic |  
+| bip_39_word_new_br_5 | depend<br>horror<br>tape<br>dynamic<br>purse |  
+| bip_39_word_new_br_6 | depend<br>horror<br>tape<br>dynamic<br>purse<br>equip |  
+| bip_39_word_new_br_7 | depend<br>horror<br>tape<br>dynamic<br>purse<br>equip<br>evil |  
+| bip_39_word_new_br_8 | depend<br>horror<br>tape<br>dynamic<br>purse<br>equip<br>evil<br>better |  
+| bip_39_word_new_br_9 | depend<br>horror<br>tape<br>dynamic<br>purse<br>equip<br>evil<br>better<br>slight |  
+| bip_39_word_new_line_1 | depend |  
+| bip_39_word_new_line_10 | depend
 horror
 tape
 dynamic
@@ -55,7 +55,7 @@ evil
 better
 slight
 rubber |  
-| bip_39_word_new_line11 | depend
+| bip_39_word_new_line_11 | depend
 horror
 tape
 dynamic
@@ -66,7 +66,7 @@ better
 slight
 rubber
 duck |  
-| bip_39_word_new_line12 | depend
+| bip_39_word_new_line_12 | depend
 horror
 tape
 dynamic
@@ -78,34 +78,34 @@ slight
 rubber
 duck
 animal |  
-| bip_39_word_new_line2 | depend
+| bip_39_word_new_line_2 | depend
 horror |  
-| bip_39_word_new_line3 | depend
+| bip_39_word_new_line_3 | depend
 horror
 tape |  
-| bip_39_word_new_line4 | depend
+| bip_39_word_new_line_4 | depend
 horror
 tape
 dynamic |  
-| bip_39_word_new_line5 | depend
+| bip_39_word_new_line_5 | depend
 horror
 tape
 dynamic
 purse |  
-| bip_39_word_new_line6 | depend
+| bip_39_word_new_line_6 | depend
 horror
 tape
 dynamic
 purse
 equip |  
-| bip_39_word_new_line7 | depend
+| bip_39_word_new_line_7 | depend
 horror
 tape
 dynamic
 purse
 equip
 evil |  
-| bip_39_word_new_line8 | depend
+| bip_39_word_new_line_8 | depend
 horror
 tape
 dynamic
@@ -113,7 +113,7 @@ purse
 equip
 evil
 better |  
-| bip_39_word_new_line9 | depend
+| bip_39_word_new_line_9 | depend
 horror
 tape
 dynamic

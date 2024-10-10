@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | easily |  
-| bip_39_word_new_br10 | easily<br>often<br>dirt<br>become<br>entire<br>obtain<br>box<br>peasant<br>monster<br>point |  
-| bip_39_word_new_br11 | easily<br>often<br>dirt<br>become<br>entire<br>obtain<br>box<br>peasant<br>monster<br>point<br>harvest |  
-| bip_39_word_new_br12 | easily<br>often<br>dirt<br>become<br>entire<br>obtain<br>box<br>peasant<br>monster<br>point<br>harvest<br>ask |  
-| bip_39_word_new_br2 | easily<br>often |  
-| bip_39_word_new_br3 | easily<br>often<br>dirt |  
-| bip_39_word_new_br4 | easily<br>often<br>dirt<br>become |  
-| bip_39_word_new_br5 | easily<br>often<br>dirt<br>become<br>entire |  
-| bip_39_word_new_br6 | easily<br>often<br>dirt<br>become<br>entire<br>obtain |  
-| bip_39_word_new_br7 | easily<br>often<br>dirt<br>become<br>entire<br>obtain<br>box |  
-| bip_39_word_new_br8 | easily<br>often<br>dirt<br>become<br>entire<br>obtain<br>box<br>peasant |  
-| bip_39_word_new_br9 | easily<br>often<br>dirt<br>become<br>entire<br>obtain<br>box<br>peasant<br>monster |  
-| bip_39_word_new_line1 | easily |  
-| bip_39_word_new_line10 | easily
+| bip_39_word_new_br_1 | easily |  
+| bip_39_word_new_br_10 | easily<br>often<br>dirt<br>become<br>entire<br>obtain<br>box<br>peasant<br>monster<br>point |  
+| bip_39_word_new_br_11 | easily<br>often<br>dirt<br>become<br>entire<br>obtain<br>box<br>peasant<br>monster<br>point<br>harvest |  
+| bip_39_word_new_br_12 | easily<br>often<br>dirt<br>become<br>entire<br>obtain<br>box<br>peasant<br>monster<br>point<br>harvest<br>ask |  
+| bip_39_word_new_br_2 | easily<br>often |  
+| bip_39_word_new_br_3 | easily<br>often<br>dirt |  
+| bip_39_word_new_br_4 | easily<br>often<br>dirt<br>become |  
+| bip_39_word_new_br_5 | easily<br>often<br>dirt<br>become<br>entire |  
+| bip_39_word_new_br_6 | easily<br>often<br>dirt<br>become<br>entire<br>obtain |  
+| bip_39_word_new_br_7 | easily<br>often<br>dirt<br>become<br>entire<br>obtain<br>box |  
+| bip_39_word_new_br_8 | easily<br>often<br>dirt<br>become<br>entire<br>obtain<br>box<br>peasant |  
+| bip_39_word_new_br_9 | easily<br>often<br>dirt<br>become<br>entire<br>obtain<br>box<br>peasant<br>monster |  
+| bip_39_word_new_line_1 | easily |  
+| bip_39_word_new_line_10 | easily
 often
 dirt
 become
@@ -55,7 +55,7 @@ box
 peasant
 monster
 point |  
-| bip_39_word_new_line11 | easily
+| bip_39_word_new_line_11 | easily
 often
 dirt
 become
@@ -66,7 +66,7 @@ peasant
 monster
 point
 harvest |  
-| bip_39_word_new_line12 | easily
+| bip_39_word_new_line_12 | easily
 often
 dirt
 become
@@ -78,34 +78,34 @@ monster
 point
 harvest
 ask |  
-| bip_39_word_new_line2 | easily
+| bip_39_word_new_line_2 | easily
 often |  
-| bip_39_word_new_line3 | easily
+| bip_39_word_new_line_3 | easily
 often
 dirt |  
-| bip_39_word_new_line4 | easily
+| bip_39_word_new_line_4 | easily
 often
 dirt
 become |  
-| bip_39_word_new_line5 | easily
+| bip_39_word_new_line_5 | easily
 often
 dirt
 become
 entire |  
-| bip_39_word_new_line6 | easily
+| bip_39_word_new_line_6 | easily
 often
 dirt
 become
 entire
 obtain |  
-| bip_39_word_new_line7 | easily
+| bip_39_word_new_line_7 | easily
 often
 dirt
 become
 entire
 obtain
 box |  
-| bip_39_word_new_line8 | easily
+| bip_39_word_new_line_8 | easily
 often
 dirt
 become
@@ -113,7 +113,7 @@ entire
 obtain
 box
 peasant |  
-| bip_39_word_new_line9 | easily
+| bip_39_word_new_line_9 | easily
 often
 dirt
 become

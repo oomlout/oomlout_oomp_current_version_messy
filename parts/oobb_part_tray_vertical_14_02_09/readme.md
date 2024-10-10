@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | start |  
-| bip_39_word_new_br10 | start<br>wife<br>east<br>asset<br>silk<br>blood<br>virtual<br>goat<br>lake<br>proof |  
-| bip_39_word_new_br11 | start<br>wife<br>east<br>asset<br>silk<br>blood<br>virtual<br>goat<br>lake<br>proof<br>riot |  
-| bip_39_word_new_br12 | start<br>wife<br>east<br>asset<br>silk<br>blood<br>virtual<br>goat<br>lake<br>proof<br>riot<br>announce |  
-| bip_39_word_new_br2 | start<br>wife |  
-| bip_39_word_new_br3 | start<br>wife<br>east |  
-| bip_39_word_new_br4 | start<br>wife<br>east<br>asset |  
-| bip_39_word_new_br5 | start<br>wife<br>east<br>asset<br>silk |  
-| bip_39_word_new_br6 | start<br>wife<br>east<br>asset<br>silk<br>blood |  
-| bip_39_word_new_br7 | start<br>wife<br>east<br>asset<br>silk<br>blood<br>virtual |  
-| bip_39_word_new_br8 | start<br>wife<br>east<br>asset<br>silk<br>blood<br>virtual<br>goat |  
-| bip_39_word_new_br9 | start<br>wife<br>east<br>asset<br>silk<br>blood<br>virtual<br>goat<br>lake |  
-| bip_39_word_new_line1 | start |  
-| bip_39_word_new_line10 | start
+| bip_39_word_new_br_1 | start |  
+| bip_39_word_new_br_10 | start<br>wife<br>east<br>asset<br>silk<br>blood<br>virtual<br>goat<br>lake<br>proof |  
+| bip_39_word_new_br_11 | start<br>wife<br>east<br>asset<br>silk<br>blood<br>virtual<br>goat<br>lake<br>proof<br>riot |  
+| bip_39_word_new_br_12 | start<br>wife<br>east<br>asset<br>silk<br>blood<br>virtual<br>goat<br>lake<br>proof<br>riot<br>announce |  
+| bip_39_word_new_br_2 | start<br>wife |  
+| bip_39_word_new_br_3 | start<br>wife<br>east |  
+| bip_39_word_new_br_4 | start<br>wife<br>east<br>asset |  
+| bip_39_word_new_br_5 | start<br>wife<br>east<br>asset<br>silk |  
+| bip_39_word_new_br_6 | start<br>wife<br>east<br>asset<br>silk<br>blood |  
+| bip_39_word_new_br_7 | start<br>wife<br>east<br>asset<br>silk<br>blood<br>virtual |  
+| bip_39_word_new_br_8 | start<br>wife<br>east<br>asset<br>silk<br>blood<br>virtual<br>goat |  
+| bip_39_word_new_br_9 | start<br>wife<br>east<br>asset<br>silk<br>blood<br>virtual<br>goat<br>lake |  
+| bip_39_word_new_line_1 | start |  
+| bip_39_word_new_line_10 | start
 wife
 east
 asset
@@ -55,7 +55,7 @@ virtual
 goat
 lake
 proof |  
-| bip_39_word_new_line11 | start
+| bip_39_word_new_line_11 | start
 wife
 east
 asset
@@ -66,7 +66,7 @@ goat
 lake
 proof
 riot |  
-| bip_39_word_new_line12 | start
+| bip_39_word_new_line_12 | start
 wife
 east
 asset
@@ -78,34 +78,34 @@ lake
 proof
 riot
 announce |  
-| bip_39_word_new_line2 | start
+| bip_39_word_new_line_2 | start
 wife |  
-| bip_39_word_new_line3 | start
+| bip_39_word_new_line_3 | start
 wife
 east |  
-| bip_39_word_new_line4 | start
+| bip_39_word_new_line_4 | start
 wife
 east
 asset |  
-| bip_39_word_new_line5 | start
+| bip_39_word_new_line_5 | start
 wife
 east
 asset
 silk |  
-| bip_39_word_new_line6 | start
+| bip_39_word_new_line_6 | start
 wife
 east
 asset
 silk
 blood |  
-| bip_39_word_new_line7 | start
+| bip_39_word_new_line_7 | start
 wife
 east
 asset
 silk
 blood
 virtual |  
-| bip_39_word_new_line8 | start
+| bip_39_word_new_line_8 | start
 wife
 east
 asset
@@ -113,7 +113,7 @@ silk
 blood
 virtual
 goat |  
-| bip_39_word_new_line9 | start
+| bip_39_word_new_line_9 | start
 wife
 east
 asset

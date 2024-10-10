@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | transfer |  
-| bip_39_word_new_br10 | transfer<br>typical<br>law<br>lucky<br>sort<br>brisk<br>expose<br>slender<br>grant<br>position |  
-| bip_39_word_new_br11 | transfer<br>typical<br>law<br>lucky<br>sort<br>brisk<br>expose<br>slender<br>grant<br>position<br>mail |  
-| bip_39_word_new_br12 | transfer<br>typical<br>law<br>lucky<br>sort<br>brisk<br>expose<br>slender<br>grant<br>position<br>mail<br>angry |  
-| bip_39_word_new_br2 | transfer<br>typical |  
-| bip_39_word_new_br3 | transfer<br>typical<br>law |  
-| bip_39_word_new_br4 | transfer<br>typical<br>law<br>lucky |  
-| bip_39_word_new_br5 | transfer<br>typical<br>law<br>lucky<br>sort |  
-| bip_39_word_new_br6 | transfer<br>typical<br>law<br>lucky<br>sort<br>brisk |  
-| bip_39_word_new_br7 | transfer<br>typical<br>law<br>lucky<br>sort<br>brisk<br>expose |  
-| bip_39_word_new_br8 | transfer<br>typical<br>law<br>lucky<br>sort<br>brisk<br>expose<br>slender |  
-| bip_39_word_new_br9 | transfer<br>typical<br>law<br>lucky<br>sort<br>brisk<br>expose<br>slender<br>grant |  
-| bip_39_word_new_line1 | transfer |  
-| bip_39_word_new_line10 | transfer
+| bip_39_word_new_br_1 | transfer |  
+| bip_39_word_new_br_10 | transfer<br>typical<br>law<br>lucky<br>sort<br>brisk<br>expose<br>slender<br>grant<br>position |  
+| bip_39_word_new_br_11 | transfer<br>typical<br>law<br>lucky<br>sort<br>brisk<br>expose<br>slender<br>grant<br>position<br>mail |  
+| bip_39_word_new_br_12 | transfer<br>typical<br>law<br>lucky<br>sort<br>brisk<br>expose<br>slender<br>grant<br>position<br>mail<br>angry |  
+| bip_39_word_new_br_2 | transfer<br>typical |  
+| bip_39_word_new_br_3 | transfer<br>typical<br>law |  
+| bip_39_word_new_br_4 | transfer<br>typical<br>law<br>lucky |  
+| bip_39_word_new_br_5 | transfer<br>typical<br>law<br>lucky<br>sort |  
+| bip_39_word_new_br_6 | transfer<br>typical<br>law<br>lucky<br>sort<br>brisk |  
+| bip_39_word_new_br_7 | transfer<br>typical<br>law<br>lucky<br>sort<br>brisk<br>expose |  
+| bip_39_word_new_br_8 | transfer<br>typical<br>law<br>lucky<br>sort<br>brisk<br>expose<br>slender |  
+| bip_39_word_new_br_9 | transfer<br>typical<br>law<br>lucky<br>sort<br>brisk<br>expose<br>slender<br>grant |  
+| bip_39_word_new_line_1 | transfer |  
+| bip_39_word_new_line_10 | transfer
 typical
 law
 lucky
@@ -55,7 +55,7 @@ expose
 slender
 grant
 position |  
-| bip_39_word_new_line11 | transfer
+| bip_39_word_new_line_11 | transfer
 typical
 law
 lucky
@@ -66,7 +66,7 @@ slender
 grant
 position
 mail |  
-| bip_39_word_new_line12 | transfer
+| bip_39_word_new_line_12 | transfer
 typical
 law
 lucky
@@ -78,34 +78,34 @@ grant
 position
 mail
 angry |  
-| bip_39_word_new_line2 | transfer
+| bip_39_word_new_line_2 | transfer
 typical |  
-| bip_39_word_new_line3 | transfer
+| bip_39_word_new_line_3 | transfer
 typical
 law |  
-| bip_39_word_new_line4 | transfer
+| bip_39_word_new_line_4 | transfer
 typical
 law
 lucky |  
-| bip_39_word_new_line5 | transfer
+| bip_39_word_new_line_5 | transfer
 typical
 law
 lucky
 sort |  
-| bip_39_word_new_line6 | transfer
+| bip_39_word_new_line_6 | transfer
 typical
 law
 lucky
 sort
 brisk |  
-| bip_39_word_new_line7 | transfer
+| bip_39_word_new_line_7 | transfer
 typical
 law
 lucky
 sort
 brisk
 expose |  
-| bip_39_word_new_line8 | transfer
+| bip_39_word_new_line_8 | transfer
 typical
 law
 lucky
@@ -113,7 +113,7 @@ sort
 brisk
 expose
 slender |  
-| bip_39_word_new_line9 | transfer
+| bip_39_word_new_line_9 | transfer
 typical
 law
 lucky

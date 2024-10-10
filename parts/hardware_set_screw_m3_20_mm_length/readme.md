@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | impulse |  
-| bip_39_word_new_br10 | impulse<br>voyage<br>tired<br>timber<br>bench<br>spoon<br>hundred<br>traffic<br>daring<br>grunt |  
-| bip_39_word_new_br11 | impulse<br>voyage<br>tired<br>timber<br>bench<br>spoon<br>hundred<br>traffic<br>daring<br>grunt<br>brief |  
-| bip_39_word_new_br12 | impulse<br>voyage<br>tired<br>timber<br>bench<br>spoon<br>hundred<br>traffic<br>daring<br>grunt<br>brief<br>artefact |  
-| bip_39_word_new_br2 | impulse<br>voyage |  
-| bip_39_word_new_br3 | impulse<br>voyage<br>tired |  
-| bip_39_word_new_br4 | impulse<br>voyage<br>tired<br>timber |  
-| bip_39_word_new_br5 | impulse<br>voyage<br>tired<br>timber<br>bench |  
-| bip_39_word_new_br6 | impulse<br>voyage<br>tired<br>timber<br>bench<br>spoon |  
-| bip_39_word_new_br7 | impulse<br>voyage<br>tired<br>timber<br>bench<br>spoon<br>hundred |  
-| bip_39_word_new_br8 | impulse<br>voyage<br>tired<br>timber<br>bench<br>spoon<br>hundred<br>traffic |  
-| bip_39_word_new_br9 | impulse<br>voyage<br>tired<br>timber<br>bench<br>spoon<br>hundred<br>traffic<br>daring |  
-| bip_39_word_new_line1 | impulse |  
-| bip_39_word_new_line10 | impulse
+| bip_39_word_new_br_1 | impulse |  
+| bip_39_word_new_br_10 | impulse<br>voyage<br>tired<br>timber<br>bench<br>spoon<br>hundred<br>traffic<br>daring<br>grunt |  
+| bip_39_word_new_br_11 | impulse<br>voyage<br>tired<br>timber<br>bench<br>spoon<br>hundred<br>traffic<br>daring<br>grunt<br>brief |  
+| bip_39_word_new_br_12 | impulse<br>voyage<br>tired<br>timber<br>bench<br>spoon<br>hundred<br>traffic<br>daring<br>grunt<br>brief<br>artefact |  
+| bip_39_word_new_br_2 | impulse<br>voyage |  
+| bip_39_word_new_br_3 | impulse<br>voyage<br>tired |  
+| bip_39_word_new_br_4 | impulse<br>voyage<br>tired<br>timber |  
+| bip_39_word_new_br_5 | impulse<br>voyage<br>tired<br>timber<br>bench |  
+| bip_39_word_new_br_6 | impulse<br>voyage<br>tired<br>timber<br>bench<br>spoon |  
+| bip_39_word_new_br_7 | impulse<br>voyage<br>tired<br>timber<br>bench<br>spoon<br>hundred |  
+| bip_39_word_new_br_8 | impulse<br>voyage<br>tired<br>timber<br>bench<br>spoon<br>hundred<br>traffic |  
+| bip_39_word_new_br_9 | impulse<br>voyage<br>tired<br>timber<br>bench<br>spoon<br>hundred<br>traffic<br>daring |  
+| bip_39_word_new_line_1 | impulse |  
+| bip_39_word_new_line_10 | impulse
 voyage
 tired
 timber
@@ -55,7 +55,7 @@ hundred
 traffic
 daring
 grunt |  
-| bip_39_word_new_line11 | impulse
+| bip_39_word_new_line_11 | impulse
 voyage
 tired
 timber
@@ -66,7 +66,7 @@ traffic
 daring
 grunt
 brief |  
-| bip_39_word_new_line12 | impulse
+| bip_39_word_new_line_12 | impulse
 voyage
 tired
 timber
@@ -78,34 +78,34 @@ daring
 grunt
 brief
 artefact |  
-| bip_39_word_new_line2 | impulse
+| bip_39_word_new_line_2 | impulse
 voyage |  
-| bip_39_word_new_line3 | impulse
+| bip_39_word_new_line_3 | impulse
 voyage
 tired |  
-| bip_39_word_new_line4 | impulse
+| bip_39_word_new_line_4 | impulse
 voyage
 tired
 timber |  
-| bip_39_word_new_line5 | impulse
+| bip_39_word_new_line_5 | impulse
 voyage
 tired
 timber
 bench |  
-| bip_39_word_new_line6 | impulse
+| bip_39_word_new_line_6 | impulse
 voyage
 tired
 timber
 bench
 spoon |  
-| bip_39_word_new_line7 | impulse
+| bip_39_word_new_line_7 | impulse
 voyage
 tired
 timber
 bench
 spoon
 hundred |  
-| bip_39_word_new_line8 | impulse
+| bip_39_word_new_line_8 | impulse
 voyage
 tired
 timber
@@ -113,7 +113,7 @@ bench
 spoon
 hundred
 traffic |  
-| bip_39_word_new_line9 | impulse
+| bip_39_word_new_line_9 | impulse
 voyage
 tired
 timber

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | suffer |  
-| bip_39_word_new_br10 | suffer<br>oven<br>song<br>pill<br>lake<br>opinion<br>across<br>next<br>symptom<br>harsh |  
-| bip_39_word_new_br11 | suffer<br>oven<br>song<br>pill<br>lake<br>opinion<br>across<br>next<br>symptom<br>harsh<br>teach |  
-| bip_39_word_new_br12 | suffer<br>oven<br>song<br>pill<br>lake<br>opinion<br>across<br>next<br>symptom<br>harsh<br>teach<br>adapt |  
-| bip_39_word_new_br2 | suffer<br>oven |  
-| bip_39_word_new_br3 | suffer<br>oven<br>song |  
-| bip_39_word_new_br4 | suffer<br>oven<br>song<br>pill |  
-| bip_39_word_new_br5 | suffer<br>oven<br>song<br>pill<br>lake |  
-| bip_39_word_new_br6 | suffer<br>oven<br>song<br>pill<br>lake<br>opinion |  
-| bip_39_word_new_br7 | suffer<br>oven<br>song<br>pill<br>lake<br>opinion<br>across |  
-| bip_39_word_new_br8 | suffer<br>oven<br>song<br>pill<br>lake<br>opinion<br>across<br>next |  
-| bip_39_word_new_br9 | suffer<br>oven<br>song<br>pill<br>lake<br>opinion<br>across<br>next<br>symptom |  
-| bip_39_word_new_line1 | suffer |  
-| bip_39_word_new_line10 | suffer
+| bip_39_word_new_br_1 | suffer |  
+| bip_39_word_new_br_10 | suffer<br>oven<br>song<br>pill<br>lake<br>opinion<br>across<br>next<br>symptom<br>harsh |  
+| bip_39_word_new_br_11 | suffer<br>oven<br>song<br>pill<br>lake<br>opinion<br>across<br>next<br>symptom<br>harsh<br>teach |  
+| bip_39_word_new_br_12 | suffer<br>oven<br>song<br>pill<br>lake<br>opinion<br>across<br>next<br>symptom<br>harsh<br>teach<br>adapt |  
+| bip_39_word_new_br_2 | suffer<br>oven |  
+| bip_39_word_new_br_3 | suffer<br>oven<br>song |  
+| bip_39_word_new_br_4 | suffer<br>oven<br>song<br>pill |  
+| bip_39_word_new_br_5 | suffer<br>oven<br>song<br>pill<br>lake |  
+| bip_39_word_new_br_6 | suffer<br>oven<br>song<br>pill<br>lake<br>opinion |  
+| bip_39_word_new_br_7 | suffer<br>oven<br>song<br>pill<br>lake<br>opinion<br>across |  
+| bip_39_word_new_br_8 | suffer<br>oven<br>song<br>pill<br>lake<br>opinion<br>across<br>next |  
+| bip_39_word_new_br_9 | suffer<br>oven<br>song<br>pill<br>lake<br>opinion<br>across<br>next<br>symptom |  
+| bip_39_word_new_line_1 | suffer |  
+| bip_39_word_new_line_10 | suffer
 oven
 song
 pill
@@ -55,7 +55,7 @@ across
 next
 symptom
 harsh |  
-| bip_39_word_new_line11 | suffer
+| bip_39_word_new_line_11 | suffer
 oven
 song
 pill
@@ -66,7 +66,7 @@ next
 symptom
 harsh
 teach |  
-| bip_39_word_new_line12 | suffer
+| bip_39_word_new_line_12 | suffer
 oven
 song
 pill
@@ -78,34 +78,34 @@ symptom
 harsh
 teach
 adapt |  
-| bip_39_word_new_line2 | suffer
+| bip_39_word_new_line_2 | suffer
 oven |  
-| bip_39_word_new_line3 | suffer
+| bip_39_word_new_line_3 | suffer
 oven
 song |  
-| bip_39_word_new_line4 | suffer
+| bip_39_word_new_line_4 | suffer
 oven
 song
 pill |  
-| bip_39_word_new_line5 | suffer
+| bip_39_word_new_line_5 | suffer
 oven
 song
 pill
 lake |  
-| bip_39_word_new_line6 | suffer
+| bip_39_word_new_line_6 | suffer
 oven
 song
 pill
 lake
 opinion |  
-| bip_39_word_new_line7 | suffer
+| bip_39_word_new_line_7 | suffer
 oven
 song
 pill
 lake
 opinion
 across |  
-| bip_39_word_new_line8 | suffer
+| bip_39_word_new_line_8 | suffer
 oven
 song
 pill
@@ -113,7 +113,7 @@ lake
 opinion
 across
 next |  
-| bip_39_word_new_line9 | suffer
+| bip_39_word_new_line_9 | suffer
 oven
 song
 pill

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | access |  
-| bip_39_word_new_br10 | access<br>steak<br>easy<br>boil<br>dash<br>oak<br>chair<br>room<br>cloth<br>box |  
-| bip_39_word_new_br11 | access<br>steak<br>easy<br>boil<br>dash<br>oak<br>chair<br>room<br>cloth<br>box<br>flame |  
-| bip_39_word_new_br12 | access<br>steak<br>easy<br>boil<br>dash<br>oak<br>chair<br>room<br>cloth<br>box<br>flame<br>asset |  
-| bip_39_word_new_br2 | access<br>steak |  
-| bip_39_word_new_br3 | access<br>steak<br>easy |  
-| bip_39_word_new_br4 | access<br>steak<br>easy<br>boil |  
-| bip_39_word_new_br5 | access<br>steak<br>easy<br>boil<br>dash |  
-| bip_39_word_new_br6 | access<br>steak<br>easy<br>boil<br>dash<br>oak |  
-| bip_39_word_new_br7 | access<br>steak<br>easy<br>boil<br>dash<br>oak<br>chair |  
-| bip_39_word_new_br8 | access<br>steak<br>easy<br>boil<br>dash<br>oak<br>chair<br>room |  
-| bip_39_word_new_br9 | access<br>steak<br>easy<br>boil<br>dash<br>oak<br>chair<br>room<br>cloth |  
-| bip_39_word_new_line1 | access |  
-| bip_39_word_new_line10 | access
+| bip_39_word_new_br_1 | access |  
+| bip_39_word_new_br_10 | access<br>steak<br>easy<br>boil<br>dash<br>oak<br>chair<br>room<br>cloth<br>box |  
+| bip_39_word_new_br_11 | access<br>steak<br>easy<br>boil<br>dash<br>oak<br>chair<br>room<br>cloth<br>box<br>flame |  
+| bip_39_word_new_br_12 | access<br>steak<br>easy<br>boil<br>dash<br>oak<br>chair<br>room<br>cloth<br>box<br>flame<br>asset |  
+| bip_39_word_new_br_2 | access<br>steak |  
+| bip_39_word_new_br_3 | access<br>steak<br>easy |  
+| bip_39_word_new_br_4 | access<br>steak<br>easy<br>boil |  
+| bip_39_word_new_br_5 | access<br>steak<br>easy<br>boil<br>dash |  
+| bip_39_word_new_br_6 | access<br>steak<br>easy<br>boil<br>dash<br>oak |  
+| bip_39_word_new_br_7 | access<br>steak<br>easy<br>boil<br>dash<br>oak<br>chair |  
+| bip_39_word_new_br_8 | access<br>steak<br>easy<br>boil<br>dash<br>oak<br>chair<br>room |  
+| bip_39_word_new_br_9 | access<br>steak<br>easy<br>boil<br>dash<br>oak<br>chair<br>room<br>cloth |  
+| bip_39_word_new_line_1 | access |  
+| bip_39_word_new_line_10 | access
 steak
 easy
 boil
@@ -55,7 +55,7 @@ chair
 room
 cloth
 box |  
-| bip_39_word_new_line11 | access
+| bip_39_word_new_line_11 | access
 steak
 easy
 boil
@@ -66,7 +66,7 @@ room
 cloth
 box
 flame |  
-| bip_39_word_new_line12 | access
+| bip_39_word_new_line_12 | access
 steak
 easy
 boil
@@ -78,34 +78,34 @@ cloth
 box
 flame
 asset |  
-| bip_39_word_new_line2 | access
+| bip_39_word_new_line_2 | access
 steak |  
-| bip_39_word_new_line3 | access
+| bip_39_word_new_line_3 | access
 steak
 easy |  
-| bip_39_word_new_line4 | access
+| bip_39_word_new_line_4 | access
 steak
 easy
 boil |  
-| bip_39_word_new_line5 | access
+| bip_39_word_new_line_5 | access
 steak
 easy
 boil
 dash |  
-| bip_39_word_new_line6 | access
+| bip_39_word_new_line_6 | access
 steak
 easy
 boil
 dash
 oak |  
-| bip_39_word_new_line7 | access
+| bip_39_word_new_line_7 | access
 steak
 easy
 boil
 dash
 oak
 chair |  
-| bip_39_word_new_line8 | access
+| bip_39_word_new_line_8 | access
 steak
 easy
 boil
@@ -113,7 +113,7 @@ dash
 oak
 chair
 room |  
-| bip_39_word_new_line9 | access
+| bip_39_word_new_line_9 | access
 steak
 easy
 boil

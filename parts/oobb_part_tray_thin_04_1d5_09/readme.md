@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | twist |  
-| bip_39_word_new_br10 | twist<br>friend<br>want<br>salad<br>dragon<br>rebel<br>tunnel<br>wagon<br>flight<br>city |  
-| bip_39_word_new_br11 | twist<br>friend<br>want<br>salad<br>dragon<br>rebel<br>tunnel<br>wagon<br>flight<br>city<br>journey |  
-| bip_39_word_new_br12 | twist<br>friend<br>want<br>salad<br>dragon<br>rebel<br>tunnel<br>wagon<br>flight<br>city<br>journey<br>arm |  
-| bip_39_word_new_br2 | twist<br>friend |  
-| bip_39_word_new_br3 | twist<br>friend<br>want |  
-| bip_39_word_new_br4 | twist<br>friend<br>want<br>salad |  
-| bip_39_word_new_br5 | twist<br>friend<br>want<br>salad<br>dragon |  
-| bip_39_word_new_br6 | twist<br>friend<br>want<br>salad<br>dragon<br>rebel |  
-| bip_39_word_new_br7 | twist<br>friend<br>want<br>salad<br>dragon<br>rebel<br>tunnel |  
-| bip_39_word_new_br8 | twist<br>friend<br>want<br>salad<br>dragon<br>rebel<br>tunnel<br>wagon |  
-| bip_39_word_new_br9 | twist<br>friend<br>want<br>salad<br>dragon<br>rebel<br>tunnel<br>wagon<br>flight |  
-| bip_39_word_new_line1 | twist |  
-| bip_39_word_new_line10 | twist
+| bip_39_word_new_br_1 | twist |  
+| bip_39_word_new_br_10 | twist<br>friend<br>want<br>salad<br>dragon<br>rebel<br>tunnel<br>wagon<br>flight<br>city |  
+| bip_39_word_new_br_11 | twist<br>friend<br>want<br>salad<br>dragon<br>rebel<br>tunnel<br>wagon<br>flight<br>city<br>journey |  
+| bip_39_word_new_br_12 | twist<br>friend<br>want<br>salad<br>dragon<br>rebel<br>tunnel<br>wagon<br>flight<br>city<br>journey<br>arm |  
+| bip_39_word_new_br_2 | twist<br>friend |  
+| bip_39_word_new_br_3 | twist<br>friend<br>want |  
+| bip_39_word_new_br_4 | twist<br>friend<br>want<br>salad |  
+| bip_39_word_new_br_5 | twist<br>friend<br>want<br>salad<br>dragon |  
+| bip_39_word_new_br_6 | twist<br>friend<br>want<br>salad<br>dragon<br>rebel |  
+| bip_39_word_new_br_7 | twist<br>friend<br>want<br>salad<br>dragon<br>rebel<br>tunnel |  
+| bip_39_word_new_br_8 | twist<br>friend<br>want<br>salad<br>dragon<br>rebel<br>tunnel<br>wagon |  
+| bip_39_word_new_br_9 | twist<br>friend<br>want<br>salad<br>dragon<br>rebel<br>tunnel<br>wagon<br>flight |  
+| bip_39_word_new_line_1 | twist |  
+| bip_39_word_new_line_10 | twist
 friend
 want
 salad
@@ -55,7 +55,7 @@ tunnel
 wagon
 flight
 city |  
-| bip_39_word_new_line11 | twist
+| bip_39_word_new_line_11 | twist
 friend
 want
 salad
@@ -66,7 +66,7 @@ wagon
 flight
 city
 journey |  
-| bip_39_word_new_line12 | twist
+| bip_39_word_new_line_12 | twist
 friend
 want
 salad
@@ -78,34 +78,34 @@ flight
 city
 journey
 arm |  
-| bip_39_word_new_line2 | twist
+| bip_39_word_new_line_2 | twist
 friend |  
-| bip_39_word_new_line3 | twist
+| bip_39_word_new_line_3 | twist
 friend
 want |  
-| bip_39_word_new_line4 | twist
+| bip_39_word_new_line_4 | twist
 friend
 want
 salad |  
-| bip_39_word_new_line5 | twist
+| bip_39_word_new_line_5 | twist
 friend
 want
 salad
 dragon |  
-| bip_39_word_new_line6 | twist
+| bip_39_word_new_line_6 | twist
 friend
 want
 salad
 dragon
 rebel |  
-| bip_39_word_new_line7 | twist
+| bip_39_word_new_line_7 | twist
 friend
 want
 salad
 dragon
 rebel
 tunnel |  
-| bip_39_word_new_line8 | twist
+| bip_39_word_new_line_8 | twist
 friend
 want
 salad
@@ -113,7 +113,7 @@ dragon
 rebel
 tunnel
 wagon |  
-| bip_39_word_new_line9 | twist
+| bip_39_word_new_line_9 | twist
 friend
 want
 salad

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | control |  
-| bip_39_word_new_br10 | control<br>combine<br>deer<br>sunset<br>spawn<br>pony<br>kind<br>canoe<br>burden<br>unusual |  
-| bip_39_word_new_br11 | control<br>combine<br>deer<br>sunset<br>spawn<br>pony<br>kind<br>canoe<br>burden<br>unusual<br>giraffe |  
-| bip_39_word_new_br12 | control<br>combine<br>deer<br>sunset<br>spawn<br>pony<br>kind<br>canoe<br>burden<br>unusual<br>giraffe<br>assist |  
-| bip_39_word_new_br2 | control<br>combine |  
-| bip_39_word_new_br3 | control<br>combine<br>deer |  
-| bip_39_word_new_br4 | control<br>combine<br>deer<br>sunset |  
-| bip_39_word_new_br5 | control<br>combine<br>deer<br>sunset<br>spawn |  
-| bip_39_word_new_br6 | control<br>combine<br>deer<br>sunset<br>spawn<br>pony |  
-| bip_39_word_new_br7 | control<br>combine<br>deer<br>sunset<br>spawn<br>pony<br>kind |  
-| bip_39_word_new_br8 | control<br>combine<br>deer<br>sunset<br>spawn<br>pony<br>kind<br>canoe |  
-| bip_39_word_new_br9 | control<br>combine<br>deer<br>sunset<br>spawn<br>pony<br>kind<br>canoe<br>burden |  
-| bip_39_word_new_line1 | control |  
-| bip_39_word_new_line10 | control
+| bip_39_word_new_br_1 | control |  
+| bip_39_word_new_br_10 | control<br>combine<br>deer<br>sunset<br>spawn<br>pony<br>kind<br>canoe<br>burden<br>unusual |  
+| bip_39_word_new_br_11 | control<br>combine<br>deer<br>sunset<br>spawn<br>pony<br>kind<br>canoe<br>burden<br>unusual<br>giraffe |  
+| bip_39_word_new_br_12 | control<br>combine<br>deer<br>sunset<br>spawn<br>pony<br>kind<br>canoe<br>burden<br>unusual<br>giraffe<br>assist |  
+| bip_39_word_new_br_2 | control<br>combine |  
+| bip_39_word_new_br_3 | control<br>combine<br>deer |  
+| bip_39_word_new_br_4 | control<br>combine<br>deer<br>sunset |  
+| bip_39_word_new_br_5 | control<br>combine<br>deer<br>sunset<br>spawn |  
+| bip_39_word_new_br_6 | control<br>combine<br>deer<br>sunset<br>spawn<br>pony |  
+| bip_39_word_new_br_7 | control<br>combine<br>deer<br>sunset<br>spawn<br>pony<br>kind |  
+| bip_39_word_new_br_8 | control<br>combine<br>deer<br>sunset<br>spawn<br>pony<br>kind<br>canoe |  
+| bip_39_word_new_br_9 | control<br>combine<br>deer<br>sunset<br>spawn<br>pony<br>kind<br>canoe<br>burden |  
+| bip_39_word_new_line_1 | control |  
+| bip_39_word_new_line_10 | control
 combine
 deer
 sunset
@@ -55,7 +55,7 @@ kind
 canoe
 burden
 unusual |  
-| bip_39_word_new_line11 | control
+| bip_39_word_new_line_11 | control
 combine
 deer
 sunset
@@ -66,7 +66,7 @@ canoe
 burden
 unusual
 giraffe |  
-| bip_39_word_new_line12 | control
+| bip_39_word_new_line_12 | control
 combine
 deer
 sunset
@@ -78,34 +78,34 @@ burden
 unusual
 giraffe
 assist |  
-| bip_39_word_new_line2 | control
+| bip_39_word_new_line_2 | control
 combine |  
-| bip_39_word_new_line3 | control
+| bip_39_word_new_line_3 | control
 combine
 deer |  
-| bip_39_word_new_line4 | control
+| bip_39_word_new_line_4 | control
 combine
 deer
 sunset |  
-| bip_39_word_new_line5 | control
+| bip_39_word_new_line_5 | control
 combine
 deer
 sunset
 spawn |  
-| bip_39_word_new_line6 | control
+| bip_39_word_new_line_6 | control
 combine
 deer
 sunset
 spawn
 pony |  
-| bip_39_word_new_line7 | control
+| bip_39_word_new_line_7 | control
 combine
 deer
 sunset
 spawn
 pony
 kind |  
-| bip_39_word_new_line8 | control
+| bip_39_word_new_line_8 | control
 combine
 deer
 sunset
@@ -113,7 +113,7 @@ spawn
 pony
 kind
 canoe |  
-| bip_39_word_new_line9 | control
+| bip_39_word_new_line_9 | control
 combine
 deer
 sunset

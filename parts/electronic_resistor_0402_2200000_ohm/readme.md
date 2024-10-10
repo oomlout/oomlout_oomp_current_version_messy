@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | question |  
-| bip_39_word_new_br10 | question<br>pitch<br>fork<br>magnet<br>abuse<br>outdoor<br>close<br>crystal<br>road<br>october |  
-| bip_39_word_new_br11 | question<br>pitch<br>fork<br>magnet<br>abuse<br>outdoor<br>close<br>crystal<br>road<br>october<br>orphan |  
-| bip_39_word_new_br12 | question<br>pitch<br>fork<br>magnet<br>abuse<br>outdoor<br>close<br>crystal<br>road<br>october<br>orphan<br>alpha |  
-| bip_39_word_new_br2 | question<br>pitch |  
-| bip_39_word_new_br3 | question<br>pitch<br>fork |  
-| bip_39_word_new_br4 | question<br>pitch<br>fork<br>magnet |  
-| bip_39_word_new_br5 | question<br>pitch<br>fork<br>magnet<br>abuse |  
-| bip_39_word_new_br6 | question<br>pitch<br>fork<br>magnet<br>abuse<br>outdoor |  
-| bip_39_word_new_br7 | question<br>pitch<br>fork<br>magnet<br>abuse<br>outdoor<br>close |  
-| bip_39_word_new_br8 | question<br>pitch<br>fork<br>magnet<br>abuse<br>outdoor<br>close<br>crystal |  
-| bip_39_word_new_br9 | question<br>pitch<br>fork<br>magnet<br>abuse<br>outdoor<br>close<br>crystal<br>road |  
-| bip_39_word_new_line1 | question |  
-| bip_39_word_new_line10 | question
+| bip_39_word_new_br_1 | question |  
+| bip_39_word_new_br_10 | question<br>pitch<br>fork<br>magnet<br>abuse<br>outdoor<br>close<br>crystal<br>road<br>october |  
+| bip_39_word_new_br_11 | question<br>pitch<br>fork<br>magnet<br>abuse<br>outdoor<br>close<br>crystal<br>road<br>october<br>orphan |  
+| bip_39_word_new_br_12 | question<br>pitch<br>fork<br>magnet<br>abuse<br>outdoor<br>close<br>crystal<br>road<br>october<br>orphan<br>alpha |  
+| bip_39_word_new_br_2 | question<br>pitch |  
+| bip_39_word_new_br_3 | question<br>pitch<br>fork |  
+| bip_39_word_new_br_4 | question<br>pitch<br>fork<br>magnet |  
+| bip_39_word_new_br_5 | question<br>pitch<br>fork<br>magnet<br>abuse |  
+| bip_39_word_new_br_6 | question<br>pitch<br>fork<br>magnet<br>abuse<br>outdoor |  
+| bip_39_word_new_br_7 | question<br>pitch<br>fork<br>magnet<br>abuse<br>outdoor<br>close |  
+| bip_39_word_new_br_8 | question<br>pitch<br>fork<br>magnet<br>abuse<br>outdoor<br>close<br>crystal |  
+| bip_39_word_new_br_9 | question<br>pitch<br>fork<br>magnet<br>abuse<br>outdoor<br>close<br>crystal<br>road |  
+| bip_39_word_new_line_1 | question |  
+| bip_39_word_new_line_10 | question
 pitch
 fork
 magnet
@@ -55,7 +55,7 @@ close
 crystal
 road
 october |  
-| bip_39_word_new_line11 | question
+| bip_39_word_new_line_11 | question
 pitch
 fork
 magnet
@@ -66,7 +66,7 @@ crystal
 road
 october
 orphan |  
-| bip_39_word_new_line12 | question
+| bip_39_word_new_line_12 | question
 pitch
 fork
 magnet
@@ -78,34 +78,34 @@ road
 october
 orphan
 alpha |  
-| bip_39_word_new_line2 | question
+| bip_39_word_new_line_2 | question
 pitch |  
-| bip_39_word_new_line3 | question
+| bip_39_word_new_line_3 | question
 pitch
 fork |  
-| bip_39_word_new_line4 | question
+| bip_39_word_new_line_4 | question
 pitch
 fork
 magnet |  
-| bip_39_word_new_line5 | question
+| bip_39_word_new_line_5 | question
 pitch
 fork
 magnet
 abuse |  
-| bip_39_word_new_line6 | question
+| bip_39_word_new_line_6 | question
 pitch
 fork
 magnet
 abuse
 outdoor |  
-| bip_39_word_new_line7 | question
+| bip_39_word_new_line_7 | question
 pitch
 fork
 magnet
 abuse
 outdoor
 close |  
-| bip_39_word_new_line8 | question
+| bip_39_word_new_line_8 | question
 pitch
 fork
 magnet
@@ -113,7 +113,7 @@ abuse
 outdoor
 close
 crystal |  
-| bip_39_word_new_line9 | question
+| bip_39_word_new_line_9 | question
 pitch
 fork
 magnet

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pig |  
-| bip_39_word_new_br10 | pig<br>hurt<br>path<br>tube<br>below<br>inherit<br>broom<br>kid<br>sorry<br>apart |  
-| bip_39_word_new_br11 | pig<br>hurt<br>path<br>tube<br>below<br>inherit<br>broom<br>kid<br>sorry<br>apart<br>never |  
-| bip_39_word_new_br12 | pig<br>hurt<br>path<br>tube<br>below<br>inherit<br>broom<br>kid<br>sorry<br>apart<br>never<br>able |  
-| bip_39_word_new_br2 | pig<br>hurt |  
-| bip_39_word_new_br3 | pig<br>hurt<br>path |  
-| bip_39_word_new_br4 | pig<br>hurt<br>path<br>tube |  
-| bip_39_word_new_br5 | pig<br>hurt<br>path<br>tube<br>below |  
-| bip_39_word_new_br6 | pig<br>hurt<br>path<br>tube<br>below<br>inherit |  
-| bip_39_word_new_br7 | pig<br>hurt<br>path<br>tube<br>below<br>inherit<br>broom |  
-| bip_39_word_new_br8 | pig<br>hurt<br>path<br>tube<br>below<br>inherit<br>broom<br>kid |  
-| bip_39_word_new_br9 | pig<br>hurt<br>path<br>tube<br>below<br>inherit<br>broom<br>kid<br>sorry |  
-| bip_39_word_new_line1 | pig |  
-| bip_39_word_new_line10 | pig
+| bip_39_word_new_br_1 | pig |  
+| bip_39_word_new_br_10 | pig<br>hurt<br>path<br>tube<br>below<br>inherit<br>broom<br>kid<br>sorry<br>apart |  
+| bip_39_word_new_br_11 | pig<br>hurt<br>path<br>tube<br>below<br>inherit<br>broom<br>kid<br>sorry<br>apart<br>never |  
+| bip_39_word_new_br_12 | pig<br>hurt<br>path<br>tube<br>below<br>inherit<br>broom<br>kid<br>sorry<br>apart<br>never<br>able |  
+| bip_39_word_new_br_2 | pig<br>hurt |  
+| bip_39_word_new_br_3 | pig<br>hurt<br>path |  
+| bip_39_word_new_br_4 | pig<br>hurt<br>path<br>tube |  
+| bip_39_word_new_br_5 | pig<br>hurt<br>path<br>tube<br>below |  
+| bip_39_word_new_br_6 | pig<br>hurt<br>path<br>tube<br>below<br>inherit |  
+| bip_39_word_new_br_7 | pig<br>hurt<br>path<br>tube<br>below<br>inherit<br>broom |  
+| bip_39_word_new_br_8 | pig<br>hurt<br>path<br>tube<br>below<br>inherit<br>broom<br>kid |  
+| bip_39_word_new_br_9 | pig<br>hurt<br>path<br>tube<br>below<br>inherit<br>broom<br>kid<br>sorry |  
+| bip_39_word_new_line_1 | pig |  
+| bip_39_word_new_line_10 | pig
 hurt
 path
 tube
@@ -55,7 +55,7 @@ broom
 kid
 sorry
 apart |  
-| bip_39_word_new_line11 | pig
+| bip_39_word_new_line_11 | pig
 hurt
 path
 tube
@@ -66,7 +66,7 @@ kid
 sorry
 apart
 never |  
-| bip_39_word_new_line12 | pig
+| bip_39_word_new_line_12 | pig
 hurt
 path
 tube
@@ -78,34 +78,34 @@ sorry
 apart
 never
 able |  
-| bip_39_word_new_line2 | pig
+| bip_39_word_new_line_2 | pig
 hurt |  
-| bip_39_word_new_line3 | pig
+| bip_39_word_new_line_3 | pig
 hurt
 path |  
-| bip_39_word_new_line4 | pig
+| bip_39_word_new_line_4 | pig
 hurt
 path
 tube |  
-| bip_39_word_new_line5 | pig
+| bip_39_word_new_line_5 | pig
 hurt
 path
 tube
 below |  
-| bip_39_word_new_line6 | pig
+| bip_39_word_new_line_6 | pig
 hurt
 path
 tube
 below
 inherit |  
-| bip_39_word_new_line7 | pig
+| bip_39_word_new_line_7 | pig
 hurt
 path
 tube
 below
 inherit
 broom |  
-| bip_39_word_new_line8 | pig
+| bip_39_word_new_line_8 | pig
 hurt
 path
 tube
@@ -113,7 +113,7 @@ below
 inherit
 broom
 kid |  
-| bip_39_word_new_line9 | pig
+| bip_39_word_new_line_9 | pig
 hurt
 path
 tube

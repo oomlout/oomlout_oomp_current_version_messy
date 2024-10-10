@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | teach |  
-| bip_39_word_new_br10 | teach<br>cry<br>collect<br>eight<br>gap<br>artist<br>final<br>drum<br>sign<br>sketch |  
-| bip_39_word_new_br11 | teach<br>cry<br>collect<br>eight<br>gap<br>artist<br>final<br>drum<br>sign<br>sketch<br>chuckle |  
-| bip_39_word_new_br12 | teach<br>cry<br>collect<br>eight<br>gap<br>artist<br>final<br>drum<br>sign<br>sketch<br>chuckle<br>advice |  
-| bip_39_word_new_br2 | teach<br>cry |  
-| bip_39_word_new_br3 | teach<br>cry<br>collect |  
-| bip_39_word_new_br4 | teach<br>cry<br>collect<br>eight |  
-| bip_39_word_new_br5 | teach<br>cry<br>collect<br>eight<br>gap |  
-| bip_39_word_new_br6 | teach<br>cry<br>collect<br>eight<br>gap<br>artist |  
-| bip_39_word_new_br7 | teach<br>cry<br>collect<br>eight<br>gap<br>artist<br>final |  
-| bip_39_word_new_br8 | teach<br>cry<br>collect<br>eight<br>gap<br>artist<br>final<br>drum |  
-| bip_39_word_new_br9 | teach<br>cry<br>collect<br>eight<br>gap<br>artist<br>final<br>drum<br>sign |  
-| bip_39_word_new_line1 | teach |  
-| bip_39_word_new_line10 | teach
+| bip_39_word_new_br_1 | teach |  
+| bip_39_word_new_br_10 | teach<br>cry<br>collect<br>eight<br>gap<br>artist<br>final<br>drum<br>sign<br>sketch |  
+| bip_39_word_new_br_11 | teach<br>cry<br>collect<br>eight<br>gap<br>artist<br>final<br>drum<br>sign<br>sketch<br>chuckle |  
+| bip_39_word_new_br_12 | teach<br>cry<br>collect<br>eight<br>gap<br>artist<br>final<br>drum<br>sign<br>sketch<br>chuckle<br>advice |  
+| bip_39_word_new_br_2 | teach<br>cry |  
+| bip_39_word_new_br_3 | teach<br>cry<br>collect |  
+| bip_39_word_new_br_4 | teach<br>cry<br>collect<br>eight |  
+| bip_39_word_new_br_5 | teach<br>cry<br>collect<br>eight<br>gap |  
+| bip_39_word_new_br_6 | teach<br>cry<br>collect<br>eight<br>gap<br>artist |  
+| bip_39_word_new_br_7 | teach<br>cry<br>collect<br>eight<br>gap<br>artist<br>final |  
+| bip_39_word_new_br_8 | teach<br>cry<br>collect<br>eight<br>gap<br>artist<br>final<br>drum |  
+| bip_39_word_new_br_9 | teach<br>cry<br>collect<br>eight<br>gap<br>artist<br>final<br>drum<br>sign |  
+| bip_39_word_new_line_1 | teach |  
+| bip_39_word_new_line_10 | teach
 cry
 collect
 eight
@@ -55,7 +55,7 @@ final
 drum
 sign
 sketch |  
-| bip_39_word_new_line11 | teach
+| bip_39_word_new_line_11 | teach
 cry
 collect
 eight
@@ -66,7 +66,7 @@ drum
 sign
 sketch
 chuckle |  
-| bip_39_word_new_line12 | teach
+| bip_39_word_new_line_12 | teach
 cry
 collect
 eight
@@ -78,34 +78,34 @@ sign
 sketch
 chuckle
 advice |  
-| bip_39_word_new_line2 | teach
+| bip_39_word_new_line_2 | teach
 cry |  
-| bip_39_word_new_line3 | teach
+| bip_39_word_new_line_3 | teach
 cry
 collect |  
-| bip_39_word_new_line4 | teach
+| bip_39_word_new_line_4 | teach
 cry
 collect
 eight |  
-| bip_39_word_new_line5 | teach
+| bip_39_word_new_line_5 | teach
 cry
 collect
 eight
 gap |  
-| bip_39_word_new_line6 | teach
+| bip_39_word_new_line_6 | teach
 cry
 collect
 eight
 gap
 artist |  
-| bip_39_word_new_line7 | teach
+| bip_39_word_new_line_7 | teach
 cry
 collect
 eight
 gap
 artist
 final |  
-| bip_39_word_new_line8 | teach
+| bip_39_word_new_line_8 | teach
 cry
 collect
 eight
@@ -113,7 +113,7 @@ gap
 artist
 final
 drum |  
-| bip_39_word_new_line9 | teach
+| bip_39_word_new_line_9 | teach
 cry
 collect
 eight

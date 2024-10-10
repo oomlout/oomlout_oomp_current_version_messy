@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | vague |  
-| bip_39_word_new_br10 | vague<br>beach<br>kiss<br>wasp<br>puzzle<br>bronze<br>foam<br>dismiss<br>maze<br>inflict |  
-| bip_39_word_new_br11 | vague<br>beach<br>kiss<br>wasp<br>puzzle<br>bronze<br>foam<br>dismiss<br>maze<br>inflict<br>extra |  
-| bip_39_word_new_br12 | vague<br>beach<br>kiss<br>wasp<br>puzzle<br>bronze<br>foam<br>dismiss<br>maze<br>inflict<br>extra<br>about |  
-| bip_39_word_new_br2 | vague<br>beach |  
-| bip_39_word_new_br3 | vague<br>beach<br>kiss |  
-| bip_39_word_new_br4 | vague<br>beach<br>kiss<br>wasp |  
-| bip_39_word_new_br5 | vague<br>beach<br>kiss<br>wasp<br>puzzle |  
-| bip_39_word_new_br6 | vague<br>beach<br>kiss<br>wasp<br>puzzle<br>bronze |  
-| bip_39_word_new_br7 | vague<br>beach<br>kiss<br>wasp<br>puzzle<br>bronze<br>foam |  
-| bip_39_word_new_br8 | vague<br>beach<br>kiss<br>wasp<br>puzzle<br>bronze<br>foam<br>dismiss |  
-| bip_39_word_new_br9 | vague<br>beach<br>kiss<br>wasp<br>puzzle<br>bronze<br>foam<br>dismiss<br>maze |  
-| bip_39_word_new_line1 | vague |  
-| bip_39_word_new_line10 | vague
+| bip_39_word_new_br_1 | vague |  
+| bip_39_word_new_br_10 | vague<br>beach<br>kiss<br>wasp<br>puzzle<br>bronze<br>foam<br>dismiss<br>maze<br>inflict |  
+| bip_39_word_new_br_11 | vague<br>beach<br>kiss<br>wasp<br>puzzle<br>bronze<br>foam<br>dismiss<br>maze<br>inflict<br>extra |  
+| bip_39_word_new_br_12 | vague<br>beach<br>kiss<br>wasp<br>puzzle<br>bronze<br>foam<br>dismiss<br>maze<br>inflict<br>extra<br>about |  
+| bip_39_word_new_br_2 | vague<br>beach |  
+| bip_39_word_new_br_3 | vague<br>beach<br>kiss |  
+| bip_39_word_new_br_4 | vague<br>beach<br>kiss<br>wasp |  
+| bip_39_word_new_br_5 | vague<br>beach<br>kiss<br>wasp<br>puzzle |  
+| bip_39_word_new_br_6 | vague<br>beach<br>kiss<br>wasp<br>puzzle<br>bronze |  
+| bip_39_word_new_br_7 | vague<br>beach<br>kiss<br>wasp<br>puzzle<br>bronze<br>foam |  
+| bip_39_word_new_br_8 | vague<br>beach<br>kiss<br>wasp<br>puzzle<br>bronze<br>foam<br>dismiss |  
+| bip_39_word_new_br_9 | vague<br>beach<br>kiss<br>wasp<br>puzzle<br>bronze<br>foam<br>dismiss<br>maze |  
+| bip_39_word_new_line_1 | vague |  
+| bip_39_word_new_line_10 | vague
 beach
 kiss
 wasp
@@ -55,7 +55,7 @@ foam
 dismiss
 maze
 inflict |  
-| bip_39_word_new_line11 | vague
+| bip_39_word_new_line_11 | vague
 beach
 kiss
 wasp
@@ -66,7 +66,7 @@ dismiss
 maze
 inflict
 extra |  
-| bip_39_word_new_line12 | vague
+| bip_39_word_new_line_12 | vague
 beach
 kiss
 wasp
@@ -78,34 +78,34 @@ maze
 inflict
 extra
 about |  
-| bip_39_word_new_line2 | vague
+| bip_39_word_new_line_2 | vague
 beach |  
-| bip_39_word_new_line3 | vague
+| bip_39_word_new_line_3 | vague
 beach
 kiss |  
-| bip_39_word_new_line4 | vague
+| bip_39_word_new_line_4 | vague
 beach
 kiss
 wasp |  
-| bip_39_word_new_line5 | vague
+| bip_39_word_new_line_5 | vague
 beach
 kiss
 wasp
 puzzle |  
-| bip_39_word_new_line6 | vague
+| bip_39_word_new_line_6 | vague
 beach
 kiss
 wasp
 puzzle
 bronze |  
-| bip_39_word_new_line7 | vague
+| bip_39_word_new_line_7 | vague
 beach
 kiss
 wasp
 puzzle
 bronze
 foam |  
-| bip_39_word_new_line8 | vague
+| bip_39_word_new_line_8 | vague
 beach
 kiss
 wasp
@@ -113,7 +113,7 @@ puzzle
 bronze
 foam
 dismiss |  
-| bip_39_word_new_line9 | vague
+| bip_39_word_new_line_9 | vague
 beach
 kiss
 wasp

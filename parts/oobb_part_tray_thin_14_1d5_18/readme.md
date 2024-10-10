@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | empower |  
-| bip_39_word_new_br10 | empower<br>orbit<br>resource<br>door<br>calm<br>mixture<br>afraid<br>profit<br>shield<br>lawn |  
-| bip_39_word_new_br11 | empower<br>orbit<br>resource<br>door<br>calm<br>mixture<br>afraid<br>profit<br>shield<br>lawn<br>exchange |  
-| bip_39_word_new_br12 | empower<br>orbit<br>resource<br>door<br>calm<br>mixture<br>afraid<br>profit<br>shield<br>lawn<br>exchange<br>aunt |  
-| bip_39_word_new_br2 | empower<br>orbit |  
-| bip_39_word_new_br3 | empower<br>orbit<br>resource |  
-| bip_39_word_new_br4 | empower<br>orbit<br>resource<br>door |  
-| bip_39_word_new_br5 | empower<br>orbit<br>resource<br>door<br>calm |  
-| bip_39_word_new_br6 | empower<br>orbit<br>resource<br>door<br>calm<br>mixture |  
-| bip_39_word_new_br7 | empower<br>orbit<br>resource<br>door<br>calm<br>mixture<br>afraid |  
-| bip_39_word_new_br8 | empower<br>orbit<br>resource<br>door<br>calm<br>mixture<br>afraid<br>profit |  
-| bip_39_word_new_br9 | empower<br>orbit<br>resource<br>door<br>calm<br>mixture<br>afraid<br>profit<br>shield |  
-| bip_39_word_new_line1 | empower |  
-| bip_39_word_new_line10 | empower
+| bip_39_word_new_br_1 | empower |  
+| bip_39_word_new_br_10 | empower<br>orbit<br>resource<br>door<br>calm<br>mixture<br>afraid<br>profit<br>shield<br>lawn |  
+| bip_39_word_new_br_11 | empower<br>orbit<br>resource<br>door<br>calm<br>mixture<br>afraid<br>profit<br>shield<br>lawn<br>exchange |  
+| bip_39_word_new_br_12 | empower<br>orbit<br>resource<br>door<br>calm<br>mixture<br>afraid<br>profit<br>shield<br>lawn<br>exchange<br>aunt |  
+| bip_39_word_new_br_2 | empower<br>orbit |  
+| bip_39_word_new_br_3 | empower<br>orbit<br>resource |  
+| bip_39_word_new_br_4 | empower<br>orbit<br>resource<br>door |  
+| bip_39_word_new_br_5 | empower<br>orbit<br>resource<br>door<br>calm |  
+| bip_39_word_new_br_6 | empower<br>orbit<br>resource<br>door<br>calm<br>mixture |  
+| bip_39_word_new_br_7 | empower<br>orbit<br>resource<br>door<br>calm<br>mixture<br>afraid |  
+| bip_39_word_new_br_8 | empower<br>orbit<br>resource<br>door<br>calm<br>mixture<br>afraid<br>profit |  
+| bip_39_word_new_br_9 | empower<br>orbit<br>resource<br>door<br>calm<br>mixture<br>afraid<br>profit<br>shield |  
+| bip_39_word_new_line_1 | empower |  
+| bip_39_word_new_line_10 | empower
 orbit
 resource
 door
@@ -55,7 +55,7 @@ afraid
 profit
 shield
 lawn |  
-| bip_39_word_new_line11 | empower
+| bip_39_word_new_line_11 | empower
 orbit
 resource
 door
@@ -66,7 +66,7 @@ profit
 shield
 lawn
 exchange |  
-| bip_39_word_new_line12 | empower
+| bip_39_word_new_line_12 | empower
 orbit
 resource
 door
@@ -78,34 +78,34 @@ shield
 lawn
 exchange
 aunt |  
-| bip_39_word_new_line2 | empower
+| bip_39_word_new_line_2 | empower
 orbit |  
-| bip_39_word_new_line3 | empower
+| bip_39_word_new_line_3 | empower
 orbit
 resource |  
-| bip_39_word_new_line4 | empower
+| bip_39_word_new_line_4 | empower
 orbit
 resource
 door |  
-| bip_39_word_new_line5 | empower
+| bip_39_word_new_line_5 | empower
 orbit
 resource
 door
 calm |  
-| bip_39_word_new_line6 | empower
+| bip_39_word_new_line_6 | empower
 orbit
 resource
 door
 calm
 mixture |  
-| bip_39_word_new_line7 | empower
+| bip_39_word_new_line_7 | empower
 orbit
 resource
 door
 calm
 mixture
 afraid |  
-| bip_39_word_new_line8 | empower
+| bip_39_word_new_line_8 | empower
 orbit
 resource
 door
@@ -113,7 +113,7 @@ calm
 mixture
 afraid
 profit |  
-| bip_39_word_new_line9 | empower
+| bip_39_word_new_line_9 | empower
 orbit
 resource
 door

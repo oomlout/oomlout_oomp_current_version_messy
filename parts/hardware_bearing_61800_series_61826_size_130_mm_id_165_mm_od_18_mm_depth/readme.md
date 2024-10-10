@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | damp |  
-| bip_39_word_new_br10 | damp<br>ugly<br>heart<br>group<br>cake<br>eagle<br>suit<br>beef<br>ignore<br>honey |  
-| bip_39_word_new_br11 | damp<br>ugly<br>heart<br>group<br>cake<br>eagle<br>suit<br>beef<br>ignore<br>honey<br>piano |  
-| bip_39_word_new_br12 | damp<br>ugly<br>heart<br>group<br>cake<br>eagle<br>suit<br>beef<br>ignore<br>honey<br>piano<br>attitude |  
-| bip_39_word_new_br2 | damp<br>ugly |  
-| bip_39_word_new_br3 | damp<br>ugly<br>heart |  
-| bip_39_word_new_br4 | damp<br>ugly<br>heart<br>group |  
-| bip_39_word_new_br5 | damp<br>ugly<br>heart<br>group<br>cake |  
-| bip_39_word_new_br6 | damp<br>ugly<br>heart<br>group<br>cake<br>eagle |  
-| bip_39_word_new_br7 | damp<br>ugly<br>heart<br>group<br>cake<br>eagle<br>suit |  
-| bip_39_word_new_br8 | damp<br>ugly<br>heart<br>group<br>cake<br>eagle<br>suit<br>beef |  
-| bip_39_word_new_br9 | damp<br>ugly<br>heart<br>group<br>cake<br>eagle<br>suit<br>beef<br>ignore |  
-| bip_39_word_new_line1 | damp |  
-| bip_39_word_new_line10 | damp
+| bip_39_word_new_br_1 | damp |  
+| bip_39_word_new_br_10 | damp<br>ugly<br>heart<br>group<br>cake<br>eagle<br>suit<br>beef<br>ignore<br>honey |  
+| bip_39_word_new_br_11 | damp<br>ugly<br>heart<br>group<br>cake<br>eagle<br>suit<br>beef<br>ignore<br>honey<br>piano |  
+| bip_39_word_new_br_12 | damp<br>ugly<br>heart<br>group<br>cake<br>eagle<br>suit<br>beef<br>ignore<br>honey<br>piano<br>attitude |  
+| bip_39_word_new_br_2 | damp<br>ugly |  
+| bip_39_word_new_br_3 | damp<br>ugly<br>heart |  
+| bip_39_word_new_br_4 | damp<br>ugly<br>heart<br>group |  
+| bip_39_word_new_br_5 | damp<br>ugly<br>heart<br>group<br>cake |  
+| bip_39_word_new_br_6 | damp<br>ugly<br>heart<br>group<br>cake<br>eagle |  
+| bip_39_word_new_br_7 | damp<br>ugly<br>heart<br>group<br>cake<br>eagle<br>suit |  
+| bip_39_word_new_br_8 | damp<br>ugly<br>heart<br>group<br>cake<br>eagle<br>suit<br>beef |  
+| bip_39_word_new_br_9 | damp<br>ugly<br>heart<br>group<br>cake<br>eagle<br>suit<br>beef<br>ignore |  
+| bip_39_word_new_line_1 | damp |  
+| bip_39_word_new_line_10 | damp
 ugly
 heart
 group
@@ -55,7 +55,7 @@ suit
 beef
 ignore
 honey |  
-| bip_39_word_new_line11 | damp
+| bip_39_word_new_line_11 | damp
 ugly
 heart
 group
@@ -66,7 +66,7 @@ beef
 ignore
 honey
 piano |  
-| bip_39_word_new_line12 | damp
+| bip_39_word_new_line_12 | damp
 ugly
 heart
 group
@@ -78,34 +78,34 @@ ignore
 honey
 piano
 attitude |  
-| bip_39_word_new_line2 | damp
+| bip_39_word_new_line_2 | damp
 ugly |  
-| bip_39_word_new_line3 | damp
+| bip_39_word_new_line_3 | damp
 ugly
 heart |  
-| bip_39_word_new_line4 | damp
+| bip_39_word_new_line_4 | damp
 ugly
 heart
 group |  
-| bip_39_word_new_line5 | damp
+| bip_39_word_new_line_5 | damp
 ugly
 heart
 group
 cake |  
-| bip_39_word_new_line6 | damp
+| bip_39_word_new_line_6 | damp
 ugly
 heart
 group
 cake
 eagle |  
-| bip_39_word_new_line7 | damp
+| bip_39_word_new_line_7 | damp
 ugly
 heart
 group
 cake
 eagle
 suit |  
-| bip_39_word_new_line8 | damp
+| bip_39_word_new_line_8 | damp
 ugly
 heart
 group
@@ -113,7 +113,7 @@ cake
 eagle
 suit
 beef |  
-| bip_39_word_new_line9 | damp
+| bip_39_word_new_line_9 | damp
 ugly
 heart
 group

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | display |  
-| bip_39_word_new_br10 | display<br>churn<br>question<br>fit<br>famous<br>nominee<br>poverty<br>shy<br>abuse<br>series |  
-| bip_39_word_new_br11 | display<br>churn<br>question<br>fit<br>famous<br>nominee<br>poverty<br>shy<br>abuse<br>series<br>inspire |  
-| bip_39_word_new_br12 | display<br>churn<br>question<br>fit<br>famous<br>nominee<br>poverty<br>shy<br>abuse<br>series<br>inspire<br>accuse |  
-| bip_39_word_new_br2 | display<br>churn |  
-| bip_39_word_new_br3 | display<br>churn<br>question |  
-| bip_39_word_new_br4 | display<br>churn<br>question<br>fit |  
-| bip_39_word_new_br5 | display<br>churn<br>question<br>fit<br>famous |  
-| bip_39_word_new_br6 | display<br>churn<br>question<br>fit<br>famous<br>nominee |  
-| bip_39_word_new_br7 | display<br>churn<br>question<br>fit<br>famous<br>nominee<br>poverty |  
-| bip_39_word_new_br8 | display<br>churn<br>question<br>fit<br>famous<br>nominee<br>poverty<br>shy |  
-| bip_39_word_new_br9 | display<br>churn<br>question<br>fit<br>famous<br>nominee<br>poverty<br>shy<br>abuse |  
-| bip_39_word_new_line1 | display |  
-| bip_39_word_new_line10 | display
+| bip_39_word_new_br_1 | display |  
+| bip_39_word_new_br_10 | display<br>churn<br>question<br>fit<br>famous<br>nominee<br>poverty<br>shy<br>abuse<br>series |  
+| bip_39_word_new_br_11 | display<br>churn<br>question<br>fit<br>famous<br>nominee<br>poverty<br>shy<br>abuse<br>series<br>inspire |  
+| bip_39_word_new_br_12 | display<br>churn<br>question<br>fit<br>famous<br>nominee<br>poverty<br>shy<br>abuse<br>series<br>inspire<br>accuse |  
+| bip_39_word_new_br_2 | display<br>churn |  
+| bip_39_word_new_br_3 | display<br>churn<br>question |  
+| bip_39_word_new_br_4 | display<br>churn<br>question<br>fit |  
+| bip_39_word_new_br_5 | display<br>churn<br>question<br>fit<br>famous |  
+| bip_39_word_new_br_6 | display<br>churn<br>question<br>fit<br>famous<br>nominee |  
+| bip_39_word_new_br_7 | display<br>churn<br>question<br>fit<br>famous<br>nominee<br>poverty |  
+| bip_39_word_new_br_8 | display<br>churn<br>question<br>fit<br>famous<br>nominee<br>poverty<br>shy |  
+| bip_39_word_new_br_9 | display<br>churn<br>question<br>fit<br>famous<br>nominee<br>poverty<br>shy<br>abuse |  
+| bip_39_word_new_line_1 | display |  
+| bip_39_word_new_line_10 | display
 churn
 question
 fit
@@ -55,7 +55,7 @@ poverty
 shy
 abuse
 series |  
-| bip_39_word_new_line11 | display
+| bip_39_word_new_line_11 | display
 churn
 question
 fit
@@ -66,7 +66,7 @@ shy
 abuse
 series
 inspire |  
-| bip_39_word_new_line12 | display
+| bip_39_word_new_line_12 | display
 churn
 question
 fit
@@ -78,34 +78,34 @@ abuse
 series
 inspire
 accuse |  
-| bip_39_word_new_line2 | display
+| bip_39_word_new_line_2 | display
 churn |  
-| bip_39_word_new_line3 | display
+| bip_39_word_new_line_3 | display
 churn
 question |  
-| bip_39_word_new_line4 | display
+| bip_39_word_new_line_4 | display
 churn
 question
 fit |  
-| bip_39_word_new_line5 | display
+| bip_39_word_new_line_5 | display
 churn
 question
 fit
 famous |  
-| bip_39_word_new_line6 | display
+| bip_39_word_new_line_6 | display
 churn
 question
 fit
 famous
 nominee |  
-| bip_39_word_new_line7 | display
+| bip_39_word_new_line_7 | display
 churn
 question
 fit
 famous
 nominee
 poverty |  
-| bip_39_word_new_line8 | display
+| bip_39_word_new_line_8 | display
 churn
 question
 fit
@@ -113,7 +113,7 @@ famous
 nominee
 poverty
 shy |  
-| bip_39_word_new_line9 | display
+| bip_39_word_new_line_9 | display
 churn
 question
 fit

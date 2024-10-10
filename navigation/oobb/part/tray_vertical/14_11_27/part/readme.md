@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ripple |  
-| bip_39_word_new_br10 | ripple<br>stick<br>syrup<br>youth<br>robot<br>tone<br>hen<br>tag<br>series<br>noodle |  
-| bip_39_word_new_br11 | ripple<br>stick<br>syrup<br>youth<br>robot<br>tone<br>hen<br>tag<br>series<br>noodle<br>practice |  
-| bip_39_word_new_br12 | ripple<br>stick<br>syrup<br>youth<br>robot<br>tone<br>hen<br>tag<br>series<br>noodle<br>practice<br>absent |  
-| bip_39_word_new_br2 | ripple<br>stick |  
-| bip_39_word_new_br3 | ripple<br>stick<br>syrup |  
-| bip_39_word_new_br4 | ripple<br>stick<br>syrup<br>youth |  
-| bip_39_word_new_br5 | ripple<br>stick<br>syrup<br>youth<br>robot |  
-| bip_39_word_new_br6 | ripple<br>stick<br>syrup<br>youth<br>robot<br>tone |  
-| bip_39_word_new_br7 | ripple<br>stick<br>syrup<br>youth<br>robot<br>tone<br>hen |  
-| bip_39_word_new_br8 | ripple<br>stick<br>syrup<br>youth<br>robot<br>tone<br>hen<br>tag |  
-| bip_39_word_new_br9 | ripple<br>stick<br>syrup<br>youth<br>robot<br>tone<br>hen<br>tag<br>series |  
-| bip_39_word_new_line1 | ripple |  
-| bip_39_word_new_line10 | ripple
+| bip_39_word_new_br_1 | ripple |  
+| bip_39_word_new_br_10 | ripple<br>stick<br>syrup<br>youth<br>robot<br>tone<br>hen<br>tag<br>series<br>noodle |  
+| bip_39_word_new_br_11 | ripple<br>stick<br>syrup<br>youth<br>robot<br>tone<br>hen<br>tag<br>series<br>noodle<br>practice |  
+| bip_39_word_new_br_12 | ripple<br>stick<br>syrup<br>youth<br>robot<br>tone<br>hen<br>tag<br>series<br>noodle<br>practice<br>absent |  
+| bip_39_word_new_br_2 | ripple<br>stick |  
+| bip_39_word_new_br_3 | ripple<br>stick<br>syrup |  
+| bip_39_word_new_br_4 | ripple<br>stick<br>syrup<br>youth |  
+| bip_39_word_new_br_5 | ripple<br>stick<br>syrup<br>youth<br>robot |  
+| bip_39_word_new_br_6 | ripple<br>stick<br>syrup<br>youth<br>robot<br>tone |  
+| bip_39_word_new_br_7 | ripple<br>stick<br>syrup<br>youth<br>robot<br>tone<br>hen |  
+| bip_39_word_new_br_8 | ripple<br>stick<br>syrup<br>youth<br>robot<br>tone<br>hen<br>tag |  
+| bip_39_word_new_br_9 | ripple<br>stick<br>syrup<br>youth<br>robot<br>tone<br>hen<br>tag<br>series |  
+| bip_39_word_new_line_1 | ripple |  
+| bip_39_word_new_line_10 | ripple
 stick
 syrup
 youth
@@ -55,7 +55,7 @@ hen
 tag
 series
 noodle |  
-| bip_39_word_new_line11 | ripple
+| bip_39_word_new_line_11 | ripple
 stick
 syrup
 youth
@@ -66,7 +66,7 @@ tag
 series
 noodle
 practice |  
-| bip_39_word_new_line12 | ripple
+| bip_39_word_new_line_12 | ripple
 stick
 syrup
 youth
@@ -78,34 +78,34 @@ series
 noodle
 practice
 absent |  
-| bip_39_word_new_line2 | ripple
+| bip_39_word_new_line_2 | ripple
 stick |  
-| bip_39_word_new_line3 | ripple
+| bip_39_word_new_line_3 | ripple
 stick
 syrup |  
-| bip_39_word_new_line4 | ripple
+| bip_39_word_new_line_4 | ripple
 stick
 syrup
 youth |  
-| bip_39_word_new_line5 | ripple
+| bip_39_word_new_line_5 | ripple
 stick
 syrup
 youth
 robot |  
-| bip_39_word_new_line6 | ripple
+| bip_39_word_new_line_6 | ripple
 stick
 syrup
 youth
 robot
 tone |  
-| bip_39_word_new_line7 | ripple
+| bip_39_word_new_line_7 | ripple
 stick
 syrup
 youth
 robot
 tone
 hen |  
-| bip_39_word_new_line8 | ripple
+| bip_39_word_new_line_8 | ripple
 stick
 syrup
 youth
@@ -113,7 +113,7 @@ robot
 tone
 hen
 tag |  
-| bip_39_word_new_line9 | ripple
+| bip_39_word_new_line_9 | ripple
 stick
 syrup
 youth

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | make |  
-| bip_39_word_new_br10 | make<br>alone<br>giraffe<br>two<br>smooth<br>sister<br>kitten<br>chunk<br>suffer<br>chuckle |  
-| bip_39_word_new_br11 | make<br>alone<br>giraffe<br>two<br>smooth<br>sister<br>kitten<br>chunk<br>suffer<br>chuckle<br>usage |  
-| bip_39_word_new_br12 | make<br>alone<br>giraffe<br>two<br>smooth<br>sister<br>kitten<br>chunk<br>suffer<br>chuckle<br>usage<br>annual |  
-| bip_39_word_new_br2 | make<br>alone |  
-| bip_39_word_new_br3 | make<br>alone<br>giraffe |  
-| bip_39_word_new_br4 | make<br>alone<br>giraffe<br>two |  
-| bip_39_word_new_br5 | make<br>alone<br>giraffe<br>two<br>smooth |  
-| bip_39_word_new_br6 | make<br>alone<br>giraffe<br>two<br>smooth<br>sister |  
-| bip_39_word_new_br7 | make<br>alone<br>giraffe<br>two<br>smooth<br>sister<br>kitten |  
-| bip_39_word_new_br8 | make<br>alone<br>giraffe<br>two<br>smooth<br>sister<br>kitten<br>chunk |  
-| bip_39_word_new_br9 | make<br>alone<br>giraffe<br>two<br>smooth<br>sister<br>kitten<br>chunk<br>suffer |  
-| bip_39_word_new_line1 | make |  
-| bip_39_word_new_line10 | make
+| bip_39_word_new_br_1 | make |  
+| bip_39_word_new_br_10 | make<br>alone<br>giraffe<br>two<br>smooth<br>sister<br>kitten<br>chunk<br>suffer<br>chuckle |  
+| bip_39_word_new_br_11 | make<br>alone<br>giraffe<br>two<br>smooth<br>sister<br>kitten<br>chunk<br>suffer<br>chuckle<br>usage |  
+| bip_39_word_new_br_12 | make<br>alone<br>giraffe<br>two<br>smooth<br>sister<br>kitten<br>chunk<br>suffer<br>chuckle<br>usage<br>annual |  
+| bip_39_word_new_br_2 | make<br>alone |  
+| bip_39_word_new_br_3 | make<br>alone<br>giraffe |  
+| bip_39_word_new_br_4 | make<br>alone<br>giraffe<br>two |  
+| bip_39_word_new_br_5 | make<br>alone<br>giraffe<br>two<br>smooth |  
+| bip_39_word_new_br_6 | make<br>alone<br>giraffe<br>two<br>smooth<br>sister |  
+| bip_39_word_new_br_7 | make<br>alone<br>giraffe<br>two<br>smooth<br>sister<br>kitten |  
+| bip_39_word_new_br_8 | make<br>alone<br>giraffe<br>two<br>smooth<br>sister<br>kitten<br>chunk |  
+| bip_39_word_new_br_9 | make<br>alone<br>giraffe<br>two<br>smooth<br>sister<br>kitten<br>chunk<br>suffer |  
+| bip_39_word_new_line_1 | make |  
+| bip_39_word_new_line_10 | make
 alone
 giraffe
 two
@@ -55,7 +55,7 @@ kitten
 chunk
 suffer
 chuckle |  
-| bip_39_word_new_line11 | make
+| bip_39_word_new_line_11 | make
 alone
 giraffe
 two
@@ -66,7 +66,7 @@ chunk
 suffer
 chuckle
 usage |  
-| bip_39_word_new_line12 | make
+| bip_39_word_new_line_12 | make
 alone
 giraffe
 two
@@ -78,34 +78,34 @@ suffer
 chuckle
 usage
 annual |  
-| bip_39_word_new_line2 | make
+| bip_39_word_new_line_2 | make
 alone |  
-| bip_39_word_new_line3 | make
+| bip_39_word_new_line_3 | make
 alone
 giraffe |  
-| bip_39_word_new_line4 | make
+| bip_39_word_new_line_4 | make
 alone
 giraffe
 two |  
-| bip_39_word_new_line5 | make
+| bip_39_word_new_line_5 | make
 alone
 giraffe
 two
 smooth |  
-| bip_39_word_new_line6 | make
+| bip_39_word_new_line_6 | make
 alone
 giraffe
 two
 smooth
 sister |  
-| bip_39_word_new_line7 | make
+| bip_39_word_new_line_7 | make
 alone
 giraffe
 two
 smooth
 sister
 kitten |  
-| bip_39_word_new_line8 | make
+| bip_39_word_new_line_8 | make
 alone
 giraffe
 two
@@ -113,7 +113,7 @@ smooth
 sister
 kitten
 chunk |  
-| bip_39_word_new_line9 | make
+| bip_39_word_new_line_9 | make
 alone
 giraffe
 two

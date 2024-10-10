@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bind |  
-| bip_39_word_new_br10 | bind<br>atom<br>culture<br>walk<br>skin<br>sister<br>maze<br>add<br>sell<br>silk |  
-| bip_39_word_new_br11 | bind<br>atom<br>culture<br>walk<br>skin<br>sister<br>maze<br>add<br>sell<br>silk<br>thrive |  
-| bip_39_word_new_br12 | bind<br>atom<br>culture<br>walk<br>skin<br>sister<br>maze<br>add<br>sell<br>silk<br>thrive<br>appear |  
-| bip_39_word_new_br2 | bind<br>atom |  
-| bip_39_word_new_br3 | bind<br>atom<br>culture |  
-| bip_39_word_new_br4 | bind<br>atom<br>culture<br>walk |  
-| bip_39_word_new_br5 | bind<br>atom<br>culture<br>walk<br>skin |  
-| bip_39_word_new_br6 | bind<br>atom<br>culture<br>walk<br>skin<br>sister |  
-| bip_39_word_new_br7 | bind<br>atom<br>culture<br>walk<br>skin<br>sister<br>maze |  
-| bip_39_word_new_br8 | bind<br>atom<br>culture<br>walk<br>skin<br>sister<br>maze<br>add |  
-| bip_39_word_new_br9 | bind<br>atom<br>culture<br>walk<br>skin<br>sister<br>maze<br>add<br>sell |  
-| bip_39_word_new_line1 | bind |  
-| bip_39_word_new_line10 | bind
+| bip_39_word_new_br_1 | bind |  
+| bip_39_word_new_br_10 | bind<br>atom<br>culture<br>walk<br>skin<br>sister<br>maze<br>add<br>sell<br>silk |  
+| bip_39_word_new_br_11 | bind<br>atom<br>culture<br>walk<br>skin<br>sister<br>maze<br>add<br>sell<br>silk<br>thrive |  
+| bip_39_word_new_br_12 | bind<br>atom<br>culture<br>walk<br>skin<br>sister<br>maze<br>add<br>sell<br>silk<br>thrive<br>appear |  
+| bip_39_word_new_br_2 | bind<br>atom |  
+| bip_39_word_new_br_3 | bind<br>atom<br>culture |  
+| bip_39_word_new_br_4 | bind<br>atom<br>culture<br>walk |  
+| bip_39_word_new_br_5 | bind<br>atom<br>culture<br>walk<br>skin |  
+| bip_39_word_new_br_6 | bind<br>atom<br>culture<br>walk<br>skin<br>sister |  
+| bip_39_word_new_br_7 | bind<br>atom<br>culture<br>walk<br>skin<br>sister<br>maze |  
+| bip_39_word_new_br_8 | bind<br>atom<br>culture<br>walk<br>skin<br>sister<br>maze<br>add |  
+| bip_39_word_new_br_9 | bind<br>atom<br>culture<br>walk<br>skin<br>sister<br>maze<br>add<br>sell |  
+| bip_39_word_new_line_1 | bind |  
+| bip_39_word_new_line_10 | bind
 atom
 culture
 walk
@@ -55,7 +55,7 @@ maze
 add
 sell
 silk |  
-| bip_39_word_new_line11 | bind
+| bip_39_word_new_line_11 | bind
 atom
 culture
 walk
@@ -66,7 +66,7 @@ add
 sell
 silk
 thrive |  
-| bip_39_word_new_line12 | bind
+| bip_39_word_new_line_12 | bind
 atom
 culture
 walk
@@ -78,34 +78,34 @@ sell
 silk
 thrive
 appear |  
-| bip_39_word_new_line2 | bind
+| bip_39_word_new_line_2 | bind
 atom |  
-| bip_39_word_new_line3 | bind
+| bip_39_word_new_line_3 | bind
 atom
 culture |  
-| bip_39_word_new_line4 | bind
+| bip_39_word_new_line_4 | bind
 atom
 culture
 walk |  
-| bip_39_word_new_line5 | bind
+| bip_39_word_new_line_5 | bind
 atom
 culture
 walk
 skin |  
-| bip_39_word_new_line6 | bind
+| bip_39_word_new_line_6 | bind
 atom
 culture
 walk
 skin
 sister |  
-| bip_39_word_new_line7 | bind
+| bip_39_word_new_line_7 | bind
 atom
 culture
 walk
 skin
 sister
 maze |  
-| bip_39_word_new_line8 | bind
+| bip_39_word_new_line_8 | bind
 atom
 culture
 walk
@@ -113,7 +113,7 @@ skin
 sister
 maze
 add |  
-| bip_39_word_new_line9 | bind
+| bip_39_word_new_line_9 | bind
 atom
 culture
 walk

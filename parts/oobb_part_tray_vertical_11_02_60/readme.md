@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sword |  
-| bip_39_word_new_br10 | sword<br>happy<br>such<br>below<br>poet<br>parrot<br>ozone<br>plug<br>music<br>cool |  
-| bip_39_word_new_br11 | sword<br>happy<br>such<br>below<br>poet<br>parrot<br>ozone<br>plug<br>music<br>cool<br>primary |  
-| bip_39_word_new_br12 | sword<br>happy<br>such<br>below<br>poet<br>parrot<br>ozone<br>plug<br>music<br>cool<br>primary<br>amazing |  
-| bip_39_word_new_br2 | sword<br>happy |  
-| bip_39_word_new_br3 | sword<br>happy<br>such |  
-| bip_39_word_new_br4 | sword<br>happy<br>such<br>below |  
-| bip_39_word_new_br5 | sword<br>happy<br>such<br>below<br>poet |  
-| bip_39_word_new_br6 | sword<br>happy<br>such<br>below<br>poet<br>parrot |  
-| bip_39_word_new_br7 | sword<br>happy<br>such<br>below<br>poet<br>parrot<br>ozone |  
-| bip_39_word_new_br8 | sword<br>happy<br>such<br>below<br>poet<br>parrot<br>ozone<br>plug |  
-| bip_39_word_new_br9 | sword<br>happy<br>such<br>below<br>poet<br>parrot<br>ozone<br>plug<br>music |  
-| bip_39_word_new_line1 | sword |  
-| bip_39_word_new_line10 | sword
+| bip_39_word_new_br_1 | sword |  
+| bip_39_word_new_br_10 | sword<br>happy<br>such<br>below<br>poet<br>parrot<br>ozone<br>plug<br>music<br>cool |  
+| bip_39_word_new_br_11 | sword<br>happy<br>such<br>below<br>poet<br>parrot<br>ozone<br>plug<br>music<br>cool<br>primary |  
+| bip_39_word_new_br_12 | sword<br>happy<br>such<br>below<br>poet<br>parrot<br>ozone<br>plug<br>music<br>cool<br>primary<br>amazing |  
+| bip_39_word_new_br_2 | sword<br>happy |  
+| bip_39_word_new_br_3 | sword<br>happy<br>such |  
+| bip_39_word_new_br_4 | sword<br>happy<br>such<br>below |  
+| bip_39_word_new_br_5 | sword<br>happy<br>such<br>below<br>poet |  
+| bip_39_word_new_br_6 | sword<br>happy<br>such<br>below<br>poet<br>parrot |  
+| bip_39_word_new_br_7 | sword<br>happy<br>such<br>below<br>poet<br>parrot<br>ozone |  
+| bip_39_word_new_br_8 | sword<br>happy<br>such<br>below<br>poet<br>parrot<br>ozone<br>plug |  
+| bip_39_word_new_br_9 | sword<br>happy<br>such<br>below<br>poet<br>parrot<br>ozone<br>plug<br>music |  
+| bip_39_word_new_line_1 | sword |  
+| bip_39_word_new_line_10 | sword
 happy
 such
 below
@@ -55,7 +55,7 @@ ozone
 plug
 music
 cool |  
-| bip_39_word_new_line11 | sword
+| bip_39_word_new_line_11 | sword
 happy
 such
 below
@@ -66,7 +66,7 @@ plug
 music
 cool
 primary |  
-| bip_39_word_new_line12 | sword
+| bip_39_word_new_line_12 | sword
 happy
 such
 below
@@ -78,34 +78,34 @@ music
 cool
 primary
 amazing |  
-| bip_39_word_new_line2 | sword
+| bip_39_word_new_line_2 | sword
 happy |  
-| bip_39_word_new_line3 | sword
+| bip_39_word_new_line_3 | sword
 happy
 such |  
-| bip_39_word_new_line4 | sword
+| bip_39_word_new_line_4 | sword
 happy
 such
 below |  
-| bip_39_word_new_line5 | sword
+| bip_39_word_new_line_5 | sword
 happy
 such
 below
 poet |  
-| bip_39_word_new_line6 | sword
+| bip_39_word_new_line_6 | sword
 happy
 such
 below
 poet
 parrot |  
-| bip_39_word_new_line7 | sword
+| bip_39_word_new_line_7 | sword
 happy
 such
 below
 poet
 parrot
 ozone |  
-| bip_39_word_new_line8 | sword
+| bip_39_word_new_line_8 | sword
 happy
 such
 below
@@ -113,7 +113,7 @@ poet
 parrot
 ozone
 plug |  
-| bip_39_word_new_line9 | sword
+| bip_39_word_new_line_9 | sword
 happy
 such
 below

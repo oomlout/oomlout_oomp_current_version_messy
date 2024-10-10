@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | upset |  
-| bip_39_word_new_br10 | upset<br>grunt<br>item<br>enable<br>broom<br>later<br>have<br>earth<br>upper<br>elder |  
-| bip_39_word_new_br11 | upset<br>grunt<br>item<br>enable<br>broom<br>later<br>have<br>earth<br>upper<br>elder<br>aunt |  
-| bip_39_word_new_br12 | upset<br>grunt<br>item<br>enable<br>broom<br>later<br>have<br>earth<br>upper<br>elder<br>aunt<br>alarm |  
-| bip_39_word_new_br2 | upset<br>grunt |  
-| bip_39_word_new_br3 | upset<br>grunt<br>item |  
-| bip_39_word_new_br4 | upset<br>grunt<br>item<br>enable |  
-| bip_39_word_new_br5 | upset<br>grunt<br>item<br>enable<br>broom |  
-| bip_39_word_new_br6 | upset<br>grunt<br>item<br>enable<br>broom<br>later |  
-| bip_39_word_new_br7 | upset<br>grunt<br>item<br>enable<br>broom<br>later<br>have |  
-| bip_39_word_new_br8 | upset<br>grunt<br>item<br>enable<br>broom<br>later<br>have<br>earth |  
-| bip_39_word_new_br9 | upset<br>grunt<br>item<br>enable<br>broom<br>later<br>have<br>earth<br>upper |  
-| bip_39_word_new_line1 | upset |  
-| bip_39_word_new_line10 | upset
+| bip_39_word_new_br_1 | upset |  
+| bip_39_word_new_br_10 | upset<br>grunt<br>item<br>enable<br>broom<br>later<br>have<br>earth<br>upper<br>elder |  
+| bip_39_word_new_br_11 | upset<br>grunt<br>item<br>enable<br>broom<br>later<br>have<br>earth<br>upper<br>elder<br>aunt |  
+| bip_39_word_new_br_12 | upset<br>grunt<br>item<br>enable<br>broom<br>later<br>have<br>earth<br>upper<br>elder<br>aunt<br>alarm |  
+| bip_39_word_new_br_2 | upset<br>grunt |  
+| bip_39_word_new_br_3 | upset<br>grunt<br>item |  
+| bip_39_word_new_br_4 | upset<br>grunt<br>item<br>enable |  
+| bip_39_word_new_br_5 | upset<br>grunt<br>item<br>enable<br>broom |  
+| bip_39_word_new_br_6 | upset<br>grunt<br>item<br>enable<br>broom<br>later |  
+| bip_39_word_new_br_7 | upset<br>grunt<br>item<br>enable<br>broom<br>later<br>have |  
+| bip_39_word_new_br_8 | upset<br>grunt<br>item<br>enable<br>broom<br>later<br>have<br>earth |  
+| bip_39_word_new_br_9 | upset<br>grunt<br>item<br>enable<br>broom<br>later<br>have<br>earth<br>upper |  
+| bip_39_word_new_line_1 | upset |  
+| bip_39_word_new_line_10 | upset
 grunt
 item
 enable
@@ -55,7 +55,7 @@ have
 earth
 upper
 elder |  
-| bip_39_word_new_line11 | upset
+| bip_39_word_new_line_11 | upset
 grunt
 item
 enable
@@ -66,7 +66,7 @@ earth
 upper
 elder
 aunt |  
-| bip_39_word_new_line12 | upset
+| bip_39_word_new_line_12 | upset
 grunt
 item
 enable
@@ -78,34 +78,34 @@ upper
 elder
 aunt
 alarm |  
-| bip_39_word_new_line2 | upset
+| bip_39_word_new_line_2 | upset
 grunt |  
-| bip_39_word_new_line3 | upset
+| bip_39_word_new_line_3 | upset
 grunt
 item |  
-| bip_39_word_new_line4 | upset
+| bip_39_word_new_line_4 | upset
 grunt
 item
 enable |  
-| bip_39_word_new_line5 | upset
+| bip_39_word_new_line_5 | upset
 grunt
 item
 enable
 broom |  
-| bip_39_word_new_line6 | upset
+| bip_39_word_new_line_6 | upset
 grunt
 item
 enable
 broom
 later |  
-| bip_39_word_new_line7 | upset
+| bip_39_word_new_line_7 | upset
 grunt
 item
 enable
 broom
 later
 have |  
-| bip_39_word_new_line8 | upset
+| bip_39_word_new_line_8 | upset
 grunt
 item
 enable
@@ -113,7 +113,7 @@ broom
 later
 have
 earth |  
-| bip_39_word_new_line9 | upset
+| bip_39_word_new_line_9 | upset
 grunt
 item
 enable

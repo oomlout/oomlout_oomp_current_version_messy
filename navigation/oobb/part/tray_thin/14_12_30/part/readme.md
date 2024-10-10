@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | retire |  
-| bip_39_word_new_br10 | retire<br>faith<br>sure<br>story<br>allow<br>submit<br>increase<br>hub<br>sting<br>modify |  
-| bip_39_word_new_br11 | retire<br>faith<br>sure<br>story<br>allow<br>submit<br>increase<br>hub<br>sting<br>modify<br>mixture |  
-| bip_39_word_new_br12 | retire<br>faith<br>sure<br>story<br>allow<br>submit<br>increase<br>hub<br>sting<br>modify<br>mixture<br>approve |  
-| bip_39_word_new_br2 | retire<br>faith |  
-| bip_39_word_new_br3 | retire<br>faith<br>sure |  
-| bip_39_word_new_br4 | retire<br>faith<br>sure<br>story |  
-| bip_39_word_new_br5 | retire<br>faith<br>sure<br>story<br>allow |  
-| bip_39_word_new_br6 | retire<br>faith<br>sure<br>story<br>allow<br>submit |  
-| bip_39_word_new_br7 | retire<br>faith<br>sure<br>story<br>allow<br>submit<br>increase |  
-| bip_39_word_new_br8 | retire<br>faith<br>sure<br>story<br>allow<br>submit<br>increase<br>hub |  
-| bip_39_word_new_br9 | retire<br>faith<br>sure<br>story<br>allow<br>submit<br>increase<br>hub<br>sting |  
-| bip_39_word_new_line1 | retire |  
-| bip_39_word_new_line10 | retire
+| bip_39_word_new_br_1 | retire |  
+| bip_39_word_new_br_10 | retire<br>faith<br>sure<br>story<br>allow<br>submit<br>increase<br>hub<br>sting<br>modify |  
+| bip_39_word_new_br_11 | retire<br>faith<br>sure<br>story<br>allow<br>submit<br>increase<br>hub<br>sting<br>modify<br>mixture |  
+| bip_39_word_new_br_12 | retire<br>faith<br>sure<br>story<br>allow<br>submit<br>increase<br>hub<br>sting<br>modify<br>mixture<br>approve |  
+| bip_39_word_new_br_2 | retire<br>faith |  
+| bip_39_word_new_br_3 | retire<br>faith<br>sure |  
+| bip_39_word_new_br_4 | retire<br>faith<br>sure<br>story |  
+| bip_39_word_new_br_5 | retire<br>faith<br>sure<br>story<br>allow |  
+| bip_39_word_new_br_6 | retire<br>faith<br>sure<br>story<br>allow<br>submit |  
+| bip_39_word_new_br_7 | retire<br>faith<br>sure<br>story<br>allow<br>submit<br>increase |  
+| bip_39_word_new_br_8 | retire<br>faith<br>sure<br>story<br>allow<br>submit<br>increase<br>hub |  
+| bip_39_word_new_br_9 | retire<br>faith<br>sure<br>story<br>allow<br>submit<br>increase<br>hub<br>sting |  
+| bip_39_word_new_line_1 | retire |  
+| bip_39_word_new_line_10 | retire
 faith
 sure
 story
@@ -55,7 +55,7 @@ increase
 hub
 sting
 modify |  
-| bip_39_word_new_line11 | retire
+| bip_39_word_new_line_11 | retire
 faith
 sure
 story
@@ -66,7 +66,7 @@ hub
 sting
 modify
 mixture |  
-| bip_39_word_new_line12 | retire
+| bip_39_word_new_line_12 | retire
 faith
 sure
 story
@@ -78,34 +78,34 @@ sting
 modify
 mixture
 approve |  
-| bip_39_word_new_line2 | retire
+| bip_39_word_new_line_2 | retire
 faith |  
-| bip_39_word_new_line3 | retire
+| bip_39_word_new_line_3 | retire
 faith
 sure |  
-| bip_39_word_new_line4 | retire
+| bip_39_word_new_line_4 | retire
 faith
 sure
 story |  
-| bip_39_word_new_line5 | retire
+| bip_39_word_new_line_5 | retire
 faith
 sure
 story
 allow |  
-| bip_39_word_new_line6 | retire
+| bip_39_word_new_line_6 | retire
 faith
 sure
 story
 allow
 submit |  
-| bip_39_word_new_line7 | retire
+| bip_39_word_new_line_7 | retire
 faith
 sure
 story
 allow
 submit
 increase |  
-| bip_39_word_new_line8 | retire
+| bip_39_word_new_line_8 | retire
 faith
 sure
 story
@@ -113,7 +113,7 @@ allow
 submit
 increase
 hub |  
-| bip_39_word_new_line9 | retire
+| bip_39_word_new_line_9 | retire
 faith
 sure
 story

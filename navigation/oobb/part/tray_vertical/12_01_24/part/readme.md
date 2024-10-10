@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | talent |  
-| bip_39_word_new_br10 | talent<br>play<br>naive<br>panda<br>puzzle<br>logic<br>salmon<br>economy<br>still<br>gesture |  
-| bip_39_word_new_br11 | talent<br>play<br>naive<br>panda<br>puzzle<br>logic<br>salmon<br>economy<br>still<br>gesture<br>mango |  
-| bip_39_word_new_br12 | talent<br>play<br>naive<br>panda<br>puzzle<br>logic<br>salmon<br>economy<br>still<br>gesture<br>mango<br>assume |  
-| bip_39_word_new_br2 | talent<br>play |  
-| bip_39_word_new_br3 | talent<br>play<br>naive |  
-| bip_39_word_new_br4 | talent<br>play<br>naive<br>panda |  
-| bip_39_word_new_br5 | talent<br>play<br>naive<br>panda<br>puzzle |  
-| bip_39_word_new_br6 | talent<br>play<br>naive<br>panda<br>puzzle<br>logic |  
-| bip_39_word_new_br7 | talent<br>play<br>naive<br>panda<br>puzzle<br>logic<br>salmon |  
-| bip_39_word_new_br8 | talent<br>play<br>naive<br>panda<br>puzzle<br>logic<br>salmon<br>economy |  
-| bip_39_word_new_br9 | talent<br>play<br>naive<br>panda<br>puzzle<br>logic<br>salmon<br>economy<br>still |  
-| bip_39_word_new_line1 | talent |  
-| bip_39_word_new_line10 | talent
+| bip_39_word_new_br_1 | talent |  
+| bip_39_word_new_br_10 | talent<br>play<br>naive<br>panda<br>puzzle<br>logic<br>salmon<br>economy<br>still<br>gesture |  
+| bip_39_word_new_br_11 | talent<br>play<br>naive<br>panda<br>puzzle<br>logic<br>salmon<br>economy<br>still<br>gesture<br>mango |  
+| bip_39_word_new_br_12 | talent<br>play<br>naive<br>panda<br>puzzle<br>logic<br>salmon<br>economy<br>still<br>gesture<br>mango<br>assume |  
+| bip_39_word_new_br_2 | talent<br>play |  
+| bip_39_word_new_br_3 | talent<br>play<br>naive |  
+| bip_39_word_new_br_4 | talent<br>play<br>naive<br>panda |  
+| bip_39_word_new_br_5 | talent<br>play<br>naive<br>panda<br>puzzle |  
+| bip_39_word_new_br_6 | talent<br>play<br>naive<br>panda<br>puzzle<br>logic |  
+| bip_39_word_new_br_7 | talent<br>play<br>naive<br>panda<br>puzzle<br>logic<br>salmon |  
+| bip_39_word_new_br_8 | talent<br>play<br>naive<br>panda<br>puzzle<br>logic<br>salmon<br>economy |  
+| bip_39_word_new_br_9 | talent<br>play<br>naive<br>panda<br>puzzle<br>logic<br>salmon<br>economy<br>still |  
+| bip_39_word_new_line_1 | talent |  
+| bip_39_word_new_line_10 | talent
 play
 naive
 panda
@@ -55,7 +55,7 @@ salmon
 economy
 still
 gesture |  
-| bip_39_word_new_line11 | talent
+| bip_39_word_new_line_11 | talent
 play
 naive
 panda
@@ -66,7 +66,7 @@ economy
 still
 gesture
 mango |  
-| bip_39_word_new_line12 | talent
+| bip_39_word_new_line_12 | talent
 play
 naive
 panda
@@ -78,34 +78,34 @@ still
 gesture
 mango
 assume |  
-| bip_39_word_new_line2 | talent
+| bip_39_word_new_line_2 | talent
 play |  
-| bip_39_word_new_line3 | talent
+| bip_39_word_new_line_3 | talent
 play
 naive |  
-| bip_39_word_new_line4 | talent
+| bip_39_word_new_line_4 | talent
 play
 naive
 panda |  
-| bip_39_word_new_line5 | talent
+| bip_39_word_new_line_5 | talent
 play
 naive
 panda
 puzzle |  
-| bip_39_word_new_line6 | talent
+| bip_39_word_new_line_6 | talent
 play
 naive
 panda
 puzzle
 logic |  
-| bip_39_word_new_line7 | talent
+| bip_39_word_new_line_7 | talent
 play
 naive
 panda
 puzzle
 logic
 salmon |  
-| bip_39_word_new_line8 | talent
+| bip_39_word_new_line_8 | talent
 play
 naive
 panda
@@ -113,7 +113,7 @@ puzzle
 logic
 salmon
 economy |  
-| bip_39_word_new_line9 | talent
+| bip_39_word_new_line_9 | talent
 play
 naive
 panda

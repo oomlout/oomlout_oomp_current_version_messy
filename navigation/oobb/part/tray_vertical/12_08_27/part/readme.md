@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hub |  
-| bip_39_word_new_br10 | hub<br>pig<br>column<br>enemy<br>toy<br>aunt<br>lift<br>penalty<br>chuckle<br>crazy |  
-| bip_39_word_new_br11 | hub<br>pig<br>column<br>enemy<br>toy<br>aunt<br>lift<br>penalty<br>chuckle<br>crazy<br>success |  
-| bip_39_word_new_br12 | hub<br>pig<br>column<br>enemy<br>toy<br>aunt<br>lift<br>penalty<br>chuckle<br>crazy<br>success<br>athlete |  
-| bip_39_word_new_br2 | hub<br>pig |  
-| bip_39_word_new_br3 | hub<br>pig<br>column |  
-| bip_39_word_new_br4 | hub<br>pig<br>column<br>enemy |  
-| bip_39_word_new_br5 | hub<br>pig<br>column<br>enemy<br>toy |  
-| bip_39_word_new_br6 | hub<br>pig<br>column<br>enemy<br>toy<br>aunt |  
-| bip_39_word_new_br7 | hub<br>pig<br>column<br>enemy<br>toy<br>aunt<br>lift |  
-| bip_39_word_new_br8 | hub<br>pig<br>column<br>enemy<br>toy<br>aunt<br>lift<br>penalty |  
-| bip_39_word_new_br9 | hub<br>pig<br>column<br>enemy<br>toy<br>aunt<br>lift<br>penalty<br>chuckle |  
-| bip_39_word_new_line1 | hub |  
-| bip_39_word_new_line10 | hub
+| bip_39_word_new_br_1 | hub |  
+| bip_39_word_new_br_10 | hub<br>pig<br>column<br>enemy<br>toy<br>aunt<br>lift<br>penalty<br>chuckle<br>crazy |  
+| bip_39_word_new_br_11 | hub<br>pig<br>column<br>enemy<br>toy<br>aunt<br>lift<br>penalty<br>chuckle<br>crazy<br>success |  
+| bip_39_word_new_br_12 | hub<br>pig<br>column<br>enemy<br>toy<br>aunt<br>lift<br>penalty<br>chuckle<br>crazy<br>success<br>athlete |  
+| bip_39_word_new_br_2 | hub<br>pig |  
+| bip_39_word_new_br_3 | hub<br>pig<br>column |  
+| bip_39_word_new_br_4 | hub<br>pig<br>column<br>enemy |  
+| bip_39_word_new_br_5 | hub<br>pig<br>column<br>enemy<br>toy |  
+| bip_39_word_new_br_6 | hub<br>pig<br>column<br>enemy<br>toy<br>aunt |  
+| bip_39_word_new_br_7 | hub<br>pig<br>column<br>enemy<br>toy<br>aunt<br>lift |  
+| bip_39_word_new_br_8 | hub<br>pig<br>column<br>enemy<br>toy<br>aunt<br>lift<br>penalty |  
+| bip_39_word_new_br_9 | hub<br>pig<br>column<br>enemy<br>toy<br>aunt<br>lift<br>penalty<br>chuckle |  
+| bip_39_word_new_line_1 | hub |  
+| bip_39_word_new_line_10 | hub
 pig
 column
 enemy
@@ -55,7 +55,7 @@ lift
 penalty
 chuckle
 crazy |  
-| bip_39_word_new_line11 | hub
+| bip_39_word_new_line_11 | hub
 pig
 column
 enemy
@@ -66,7 +66,7 @@ penalty
 chuckle
 crazy
 success |  
-| bip_39_word_new_line12 | hub
+| bip_39_word_new_line_12 | hub
 pig
 column
 enemy
@@ -78,34 +78,34 @@ chuckle
 crazy
 success
 athlete |  
-| bip_39_word_new_line2 | hub
+| bip_39_word_new_line_2 | hub
 pig |  
-| bip_39_word_new_line3 | hub
+| bip_39_word_new_line_3 | hub
 pig
 column |  
-| bip_39_word_new_line4 | hub
+| bip_39_word_new_line_4 | hub
 pig
 column
 enemy |  
-| bip_39_word_new_line5 | hub
+| bip_39_word_new_line_5 | hub
 pig
 column
 enemy
 toy |  
-| bip_39_word_new_line6 | hub
+| bip_39_word_new_line_6 | hub
 pig
 column
 enemy
 toy
 aunt |  
-| bip_39_word_new_line7 | hub
+| bip_39_word_new_line_7 | hub
 pig
 column
 enemy
 toy
 aunt
 lift |  
-| bip_39_word_new_line8 | hub
+| bip_39_word_new_line_8 | hub
 pig
 column
 enemy
@@ -113,7 +113,7 @@ toy
 aunt
 lift
 penalty |  
-| bip_39_word_new_line9 | hub
+| bip_39_word_new_line_9 | hub
 pig
 column
 enemy

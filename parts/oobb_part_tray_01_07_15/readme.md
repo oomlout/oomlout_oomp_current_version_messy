@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | uniform |  
-| bip_39_word_new_br10 | uniform<br>cart<br>express<br>solve<br>nut<br>have<br>phrase<br>sentence<br>viable<br>ramp |  
-| bip_39_word_new_br11 | uniform<br>cart<br>express<br>solve<br>nut<br>have<br>phrase<br>sentence<br>viable<br>ramp<br>live |  
-| bip_39_word_new_br12 | uniform<br>cart<br>express<br>solve<br>nut<br>have<br>phrase<br>sentence<br>viable<br>ramp<br>live<br>all |  
-| bip_39_word_new_br2 | uniform<br>cart |  
-| bip_39_word_new_br3 | uniform<br>cart<br>express |  
-| bip_39_word_new_br4 | uniform<br>cart<br>express<br>solve |  
-| bip_39_word_new_br5 | uniform<br>cart<br>express<br>solve<br>nut |  
-| bip_39_word_new_br6 | uniform<br>cart<br>express<br>solve<br>nut<br>have |  
-| bip_39_word_new_br7 | uniform<br>cart<br>express<br>solve<br>nut<br>have<br>phrase |  
-| bip_39_word_new_br8 | uniform<br>cart<br>express<br>solve<br>nut<br>have<br>phrase<br>sentence |  
-| bip_39_word_new_br9 | uniform<br>cart<br>express<br>solve<br>nut<br>have<br>phrase<br>sentence<br>viable |  
-| bip_39_word_new_line1 | uniform |  
-| bip_39_word_new_line10 | uniform
+| bip_39_word_new_br_1 | uniform |  
+| bip_39_word_new_br_10 | uniform<br>cart<br>express<br>solve<br>nut<br>have<br>phrase<br>sentence<br>viable<br>ramp |  
+| bip_39_word_new_br_11 | uniform<br>cart<br>express<br>solve<br>nut<br>have<br>phrase<br>sentence<br>viable<br>ramp<br>live |  
+| bip_39_word_new_br_12 | uniform<br>cart<br>express<br>solve<br>nut<br>have<br>phrase<br>sentence<br>viable<br>ramp<br>live<br>all |  
+| bip_39_word_new_br_2 | uniform<br>cart |  
+| bip_39_word_new_br_3 | uniform<br>cart<br>express |  
+| bip_39_word_new_br_4 | uniform<br>cart<br>express<br>solve |  
+| bip_39_word_new_br_5 | uniform<br>cart<br>express<br>solve<br>nut |  
+| bip_39_word_new_br_6 | uniform<br>cart<br>express<br>solve<br>nut<br>have |  
+| bip_39_word_new_br_7 | uniform<br>cart<br>express<br>solve<br>nut<br>have<br>phrase |  
+| bip_39_word_new_br_8 | uniform<br>cart<br>express<br>solve<br>nut<br>have<br>phrase<br>sentence |  
+| bip_39_word_new_br_9 | uniform<br>cart<br>express<br>solve<br>nut<br>have<br>phrase<br>sentence<br>viable |  
+| bip_39_word_new_line_1 | uniform |  
+| bip_39_word_new_line_10 | uniform
 cart
 express
 solve
@@ -55,7 +55,7 @@ phrase
 sentence
 viable
 ramp |  
-| bip_39_word_new_line11 | uniform
+| bip_39_word_new_line_11 | uniform
 cart
 express
 solve
@@ -66,7 +66,7 @@ sentence
 viable
 ramp
 live |  
-| bip_39_word_new_line12 | uniform
+| bip_39_word_new_line_12 | uniform
 cart
 express
 solve
@@ -78,34 +78,34 @@ viable
 ramp
 live
 all |  
-| bip_39_word_new_line2 | uniform
+| bip_39_word_new_line_2 | uniform
 cart |  
-| bip_39_word_new_line3 | uniform
+| bip_39_word_new_line_3 | uniform
 cart
 express |  
-| bip_39_word_new_line4 | uniform
+| bip_39_word_new_line_4 | uniform
 cart
 express
 solve |  
-| bip_39_word_new_line5 | uniform
+| bip_39_word_new_line_5 | uniform
 cart
 express
 solve
 nut |  
-| bip_39_word_new_line6 | uniform
+| bip_39_word_new_line_6 | uniform
 cart
 express
 solve
 nut
 have |  
-| bip_39_word_new_line7 | uniform
+| bip_39_word_new_line_7 | uniform
 cart
 express
 solve
 nut
 have
 phrase |  
-| bip_39_word_new_line8 | uniform
+| bip_39_word_new_line_8 | uniform
 cart
 express
 solve
@@ -113,7 +113,7 @@ nut
 have
 phrase
 sentence |  
-| bip_39_word_new_line9 | uniform
+| bip_39_word_new_line_9 | uniform
 cart
 express
 solve

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wife |  
-| bip_39_word_new_br10 | wife<br>hedgehog<br>true<br>ridge<br>viable<br>fragile<br>person<br>kiss<br>delay<br>cover |  
-| bip_39_word_new_br11 | wife<br>hedgehog<br>true<br>ridge<br>viable<br>fragile<br>person<br>kiss<br>delay<br>cover<br>hockey |  
-| bip_39_word_new_br12 | wife<br>hedgehog<br>true<br>ridge<br>viable<br>fragile<br>person<br>kiss<br>delay<br>cover<br>hockey<br>appear |  
-| bip_39_word_new_br2 | wife<br>hedgehog |  
-| bip_39_word_new_br3 | wife<br>hedgehog<br>true |  
-| bip_39_word_new_br4 | wife<br>hedgehog<br>true<br>ridge |  
-| bip_39_word_new_br5 | wife<br>hedgehog<br>true<br>ridge<br>viable |  
-| bip_39_word_new_br6 | wife<br>hedgehog<br>true<br>ridge<br>viable<br>fragile |  
-| bip_39_word_new_br7 | wife<br>hedgehog<br>true<br>ridge<br>viable<br>fragile<br>person |  
-| bip_39_word_new_br8 | wife<br>hedgehog<br>true<br>ridge<br>viable<br>fragile<br>person<br>kiss |  
-| bip_39_word_new_br9 | wife<br>hedgehog<br>true<br>ridge<br>viable<br>fragile<br>person<br>kiss<br>delay |  
-| bip_39_word_new_line1 | wife |  
-| bip_39_word_new_line10 | wife
+| bip_39_word_new_br_1 | wife |  
+| bip_39_word_new_br_10 | wife<br>hedgehog<br>true<br>ridge<br>viable<br>fragile<br>person<br>kiss<br>delay<br>cover |  
+| bip_39_word_new_br_11 | wife<br>hedgehog<br>true<br>ridge<br>viable<br>fragile<br>person<br>kiss<br>delay<br>cover<br>hockey |  
+| bip_39_word_new_br_12 | wife<br>hedgehog<br>true<br>ridge<br>viable<br>fragile<br>person<br>kiss<br>delay<br>cover<br>hockey<br>appear |  
+| bip_39_word_new_br_2 | wife<br>hedgehog |  
+| bip_39_word_new_br_3 | wife<br>hedgehog<br>true |  
+| bip_39_word_new_br_4 | wife<br>hedgehog<br>true<br>ridge |  
+| bip_39_word_new_br_5 | wife<br>hedgehog<br>true<br>ridge<br>viable |  
+| bip_39_word_new_br_6 | wife<br>hedgehog<br>true<br>ridge<br>viable<br>fragile |  
+| bip_39_word_new_br_7 | wife<br>hedgehog<br>true<br>ridge<br>viable<br>fragile<br>person |  
+| bip_39_word_new_br_8 | wife<br>hedgehog<br>true<br>ridge<br>viable<br>fragile<br>person<br>kiss |  
+| bip_39_word_new_br_9 | wife<br>hedgehog<br>true<br>ridge<br>viable<br>fragile<br>person<br>kiss<br>delay |  
+| bip_39_word_new_line_1 | wife |  
+| bip_39_word_new_line_10 | wife
 hedgehog
 true
 ridge
@@ -55,7 +55,7 @@ person
 kiss
 delay
 cover |  
-| bip_39_word_new_line11 | wife
+| bip_39_word_new_line_11 | wife
 hedgehog
 true
 ridge
@@ -66,7 +66,7 @@ kiss
 delay
 cover
 hockey |  
-| bip_39_word_new_line12 | wife
+| bip_39_word_new_line_12 | wife
 hedgehog
 true
 ridge
@@ -78,34 +78,34 @@ delay
 cover
 hockey
 appear |  
-| bip_39_word_new_line2 | wife
+| bip_39_word_new_line_2 | wife
 hedgehog |  
-| bip_39_word_new_line3 | wife
+| bip_39_word_new_line_3 | wife
 hedgehog
 true |  
-| bip_39_word_new_line4 | wife
+| bip_39_word_new_line_4 | wife
 hedgehog
 true
 ridge |  
-| bip_39_word_new_line5 | wife
+| bip_39_word_new_line_5 | wife
 hedgehog
 true
 ridge
 viable |  
-| bip_39_word_new_line6 | wife
+| bip_39_word_new_line_6 | wife
 hedgehog
 true
 ridge
 viable
 fragile |  
-| bip_39_word_new_line7 | wife
+| bip_39_word_new_line_7 | wife
 hedgehog
 true
 ridge
 viable
 fragile
 person |  
-| bip_39_word_new_line8 | wife
+| bip_39_word_new_line_8 | wife
 hedgehog
 true
 ridge
@@ -113,7 +113,7 @@ viable
 fragile
 person
 kiss |  
-| bip_39_word_new_line9 | wife
+| bip_39_word_new_line_9 | wife
 hedgehog
 true
 ridge

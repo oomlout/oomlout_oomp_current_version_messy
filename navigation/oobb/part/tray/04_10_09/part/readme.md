@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | market |  
-| bip_39_word_new_br10 | market<br>task<br>process<br>initial<br>degree<br>album<br>private<br>side<br>gaze<br>truth |  
-| bip_39_word_new_br11 | market<br>task<br>process<br>initial<br>degree<br>album<br>private<br>side<br>gaze<br>truth<br>mixture |  
-| bip_39_word_new_br12 | market<br>task<br>process<br>initial<br>degree<br>album<br>private<br>side<br>gaze<br>truth<br>mixture<br>anger |  
-| bip_39_word_new_br2 | market<br>task |  
-| bip_39_word_new_br3 | market<br>task<br>process |  
-| bip_39_word_new_br4 | market<br>task<br>process<br>initial |  
-| bip_39_word_new_br5 | market<br>task<br>process<br>initial<br>degree |  
-| bip_39_word_new_br6 | market<br>task<br>process<br>initial<br>degree<br>album |  
-| bip_39_word_new_br7 | market<br>task<br>process<br>initial<br>degree<br>album<br>private |  
-| bip_39_word_new_br8 | market<br>task<br>process<br>initial<br>degree<br>album<br>private<br>side |  
-| bip_39_word_new_br9 | market<br>task<br>process<br>initial<br>degree<br>album<br>private<br>side<br>gaze |  
-| bip_39_word_new_line1 | market |  
-| bip_39_word_new_line10 | market
+| bip_39_word_new_br_1 | market |  
+| bip_39_word_new_br_10 | market<br>task<br>process<br>initial<br>degree<br>album<br>private<br>side<br>gaze<br>truth |  
+| bip_39_word_new_br_11 | market<br>task<br>process<br>initial<br>degree<br>album<br>private<br>side<br>gaze<br>truth<br>mixture |  
+| bip_39_word_new_br_12 | market<br>task<br>process<br>initial<br>degree<br>album<br>private<br>side<br>gaze<br>truth<br>mixture<br>anger |  
+| bip_39_word_new_br_2 | market<br>task |  
+| bip_39_word_new_br_3 | market<br>task<br>process |  
+| bip_39_word_new_br_4 | market<br>task<br>process<br>initial |  
+| bip_39_word_new_br_5 | market<br>task<br>process<br>initial<br>degree |  
+| bip_39_word_new_br_6 | market<br>task<br>process<br>initial<br>degree<br>album |  
+| bip_39_word_new_br_7 | market<br>task<br>process<br>initial<br>degree<br>album<br>private |  
+| bip_39_word_new_br_8 | market<br>task<br>process<br>initial<br>degree<br>album<br>private<br>side |  
+| bip_39_word_new_br_9 | market<br>task<br>process<br>initial<br>degree<br>album<br>private<br>side<br>gaze |  
+| bip_39_word_new_line_1 | market |  
+| bip_39_word_new_line_10 | market
 task
 process
 initial
@@ -55,7 +55,7 @@ private
 side
 gaze
 truth |  
-| bip_39_word_new_line11 | market
+| bip_39_word_new_line_11 | market
 task
 process
 initial
@@ -66,7 +66,7 @@ side
 gaze
 truth
 mixture |  
-| bip_39_word_new_line12 | market
+| bip_39_word_new_line_12 | market
 task
 process
 initial
@@ -78,34 +78,34 @@ gaze
 truth
 mixture
 anger |  
-| bip_39_word_new_line2 | market
+| bip_39_word_new_line_2 | market
 task |  
-| bip_39_word_new_line3 | market
+| bip_39_word_new_line_3 | market
 task
 process |  
-| bip_39_word_new_line4 | market
+| bip_39_word_new_line_4 | market
 task
 process
 initial |  
-| bip_39_word_new_line5 | market
+| bip_39_word_new_line_5 | market
 task
 process
 initial
 degree |  
-| bip_39_word_new_line6 | market
+| bip_39_word_new_line_6 | market
 task
 process
 initial
 degree
 album |  
-| bip_39_word_new_line7 | market
+| bip_39_word_new_line_7 | market
 task
 process
 initial
 degree
 album
 private |  
-| bip_39_word_new_line8 | market
+| bip_39_word_new_line_8 | market
 task
 process
 initial
@@ -113,7 +113,7 @@ degree
 album
 private
 side |  
-| bip_39_word_new_line9 | market
+| bip_39_word_new_line_9 | market
 task
 process
 initial

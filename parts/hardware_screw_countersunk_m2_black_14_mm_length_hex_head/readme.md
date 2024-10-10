@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | chair |  
-| bip_39_word_new_br10 | chair<br>mountain<br>west<br>pilot<br>certain<br>sustain<br>decline<br>ecology<br>play<br>draw |  
-| bip_39_word_new_br11 | chair<br>mountain<br>west<br>pilot<br>certain<br>sustain<br>decline<br>ecology<br>play<br>draw<br>warrior |  
-| bip_39_word_new_br12 | chair<br>mountain<br>west<br>pilot<br>certain<br>sustain<br>decline<br>ecology<br>play<br>draw<br>warrior<br>able |  
-| bip_39_word_new_br2 | chair<br>mountain |  
-| bip_39_word_new_br3 | chair<br>mountain<br>west |  
-| bip_39_word_new_br4 | chair<br>mountain<br>west<br>pilot |  
-| bip_39_word_new_br5 | chair<br>mountain<br>west<br>pilot<br>certain |  
-| bip_39_word_new_br6 | chair<br>mountain<br>west<br>pilot<br>certain<br>sustain |  
-| bip_39_word_new_br7 | chair<br>mountain<br>west<br>pilot<br>certain<br>sustain<br>decline |  
-| bip_39_word_new_br8 | chair<br>mountain<br>west<br>pilot<br>certain<br>sustain<br>decline<br>ecology |  
-| bip_39_word_new_br9 | chair<br>mountain<br>west<br>pilot<br>certain<br>sustain<br>decline<br>ecology<br>play |  
-| bip_39_word_new_line1 | chair |  
-| bip_39_word_new_line10 | chair
+| bip_39_word_new_br_1 | chair |  
+| bip_39_word_new_br_10 | chair<br>mountain<br>west<br>pilot<br>certain<br>sustain<br>decline<br>ecology<br>play<br>draw |  
+| bip_39_word_new_br_11 | chair<br>mountain<br>west<br>pilot<br>certain<br>sustain<br>decline<br>ecology<br>play<br>draw<br>warrior |  
+| bip_39_word_new_br_12 | chair<br>mountain<br>west<br>pilot<br>certain<br>sustain<br>decline<br>ecology<br>play<br>draw<br>warrior<br>able |  
+| bip_39_word_new_br_2 | chair<br>mountain |  
+| bip_39_word_new_br_3 | chair<br>mountain<br>west |  
+| bip_39_word_new_br_4 | chair<br>mountain<br>west<br>pilot |  
+| bip_39_word_new_br_5 | chair<br>mountain<br>west<br>pilot<br>certain |  
+| bip_39_word_new_br_6 | chair<br>mountain<br>west<br>pilot<br>certain<br>sustain |  
+| bip_39_word_new_br_7 | chair<br>mountain<br>west<br>pilot<br>certain<br>sustain<br>decline |  
+| bip_39_word_new_br_8 | chair<br>mountain<br>west<br>pilot<br>certain<br>sustain<br>decline<br>ecology |  
+| bip_39_word_new_br_9 | chair<br>mountain<br>west<br>pilot<br>certain<br>sustain<br>decline<br>ecology<br>play |  
+| bip_39_word_new_line_1 | chair |  
+| bip_39_word_new_line_10 | chair
 mountain
 west
 pilot
@@ -55,7 +55,7 @@ decline
 ecology
 play
 draw |  
-| bip_39_word_new_line11 | chair
+| bip_39_word_new_line_11 | chair
 mountain
 west
 pilot
@@ -66,7 +66,7 @@ ecology
 play
 draw
 warrior |  
-| bip_39_word_new_line12 | chair
+| bip_39_word_new_line_12 | chair
 mountain
 west
 pilot
@@ -78,34 +78,34 @@ play
 draw
 warrior
 able |  
-| bip_39_word_new_line2 | chair
+| bip_39_word_new_line_2 | chair
 mountain |  
-| bip_39_word_new_line3 | chair
+| bip_39_word_new_line_3 | chair
 mountain
 west |  
-| bip_39_word_new_line4 | chair
+| bip_39_word_new_line_4 | chair
 mountain
 west
 pilot |  
-| bip_39_word_new_line5 | chair
+| bip_39_word_new_line_5 | chair
 mountain
 west
 pilot
 certain |  
-| bip_39_word_new_line6 | chair
+| bip_39_word_new_line_6 | chair
 mountain
 west
 pilot
 certain
 sustain |  
-| bip_39_word_new_line7 | chair
+| bip_39_word_new_line_7 | chair
 mountain
 west
 pilot
 certain
 sustain
 decline |  
-| bip_39_word_new_line8 | chair
+| bip_39_word_new_line_8 | chair
 mountain
 west
 pilot
@@ -113,7 +113,7 @@ certain
 sustain
 decline
 ecology |  
-| bip_39_word_new_line9 | chair
+| bip_39_word_new_line_9 | chair
 mountain
 west
 pilot

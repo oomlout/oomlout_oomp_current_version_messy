@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | maze |  
-| bip_39_word_new_br10 | maze<br>similar<br>you<br>wolf<br>until<br>pen<br>kiwi<br>salt<br>soda<br>oil |  
-| bip_39_word_new_br11 | maze<br>similar<br>you<br>wolf<br>until<br>pen<br>kiwi<br>salt<br>soda<br>oil<br>bag |  
-| bip_39_word_new_br12 | maze<br>similar<br>you<br>wolf<br>until<br>pen<br>kiwi<br>salt<br>soda<br>oil<br>bag<br>august |  
-| bip_39_word_new_br2 | maze<br>similar |  
-| bip_39_word_new_br3 | maze<br>similar<br>you |  
-| bip_39_word_new_br4 | maze<br>similar<br>you<br>wolf |  
-| bip_39_word_new_br5 | maze<br>similar<br>you<br>wolf<br>until |  
-| bip_39_word_new_br6 | maze<br>similar<br>you<br>wolf<br>until<br>pen |  
-| bip_39_word_new_br7 | maze<br>similar<br>you<br>wolf<br>until<br>pen<br>kiwi |  
-| bip_39_word_new_br8 | maze<br>similar<br>you<br>wolf<br>until<br>pen<br>kiwi<br>salt |  
-| bip_39_word_new_br9 | maze<br>similar<br>you<br>wolf<br>until<br>pen<br>kiwi<br>salt<br>soda |  
-| bip_39_word_new_line1 | maze |  
-| bip_39_word_new_line10 | maze
+| bip_39_word_new_br_1 | maze |  
+| bip_39_word_new_br_10 | maze<br>similar<br>you<br>wolf<br>until<br>pen<br>kiwi<br>salt<br>soda<br>oil |  
+| bip_39_word_new_br_11 | maze<br>similar<br>you<br>wolf<br>until<br>pen<br>kiwi<br>salt<br>soda<br>oil<br>bag |  
+| bip_39_word_new_br_12 | maze<br>similar<br>you<br>wolf<br>until<br>pen<br>kiwi<br>salt<br>soda<br>oil<br>bag<br>august |  
+| bip_39_word_new_br_2 | maze<br>similar |  
+| bip_39_word_new_br_3 | maze<br>similar<br>you |  
+| bip_39_word_new_br_4 | maze<br>similar<br>you<br>wolf |  
+| bip_39_word_new_br_5 | maze<br>similar<br>you<br>wolf<br>until |  
+| bip_39_word_new_br_6 | maze<br>similar<br>you<br>wolf<br>until<br>pen |  
+| bip_39_word_new_br_7 | maze<br>similar<br>you<br>wolf<br>until<br>pen<br>kiwi |  
+| bip_39_word_new_br_8 | maze<br>similar<br>you<br>wolf<br>until<br>pen<br>kiwi<br>salt |  
+| bip_39_word_new_br_9 | maze<br>similar<br>you<br>wolf<br>until<br>pen<br>kiwi<br>salt<br>soda |  
+| bip_39_word_new_line_1 | maze |  
+| bip_39_word_new_line_10 | maze
 similar
 you
 wolf
@@ -55,7 +55,7 @@ kiwi
 salt
 soda
 oil |  
-| bip_39_word_new_line11 | maze
+| bip_39_word_new_line_11 | maze
 similar
 you
 wolf
@@ -66,7 +66,7 @@ salt
 soda
 oil
 bag |  
-| bip_39_word_new_line12 | maze
+| bip_39_word_new_line_12 | maze
 similar
 you
 wolf
@@ -78,34 +78,34 @@ soda
 oil
 bag
 august |  
-| bip_39_word_new_line2 | maze
+| bip_39_word_new_line_2 | maze
 similar |  
-| bip_39_word_new_line3 | maze
+| bip_39_word_new_line_3 | maze
 similar
 you |  
-| bip_39_word_new_line4 | maze
+| bip_39_word_new_line_4 | maze
 similar
 you
 wolf |  
-| bip_39_word_new_line5 | maze
+| bip_39_word_new_line_5 | maze
 similar
 you
 wolf
 until |  
-| bip_39_word_new_line6 | maze
+| bip_39_word_new_line_6 | maze
 similar
 you
 wolf
 until
 pen |  
-| bip_39_word_new_line7 | maze
+| bip_39_word_new_line_7 | maze
 similar
 you
 wolf
 until
 pen
 kiwi |  
-| bip_39_word_new_line8 | maze
+| bip_39_word_new_line_8 | maze
 similar
 you
 wolf
@@ -113,7 +113,7 @@ until
 pen
 kiwi
 salt |  
-| bip_39_word_new_line9 | maze
+| bip_39_word_new_line_9 | maze
 similar
 you
 wolf

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | patient |  
-| bip_39_word_new_br10 | patient<br>animal<br>mail<br>balcony<br>various<br>poverty<br>soap<br>unable<br>minimum<br>kingdom |  
-| bip_39_word_new_br11 | patient<br>animal<br>mail<br>balcony<br>various<br>poverty<br>soap<br>unable<br>minimum<br>kingdom<br>blade |  
-| bip_39_word_new_br12 | patient<br>animal<br>mail<br>balcony<br>various<br>poverty<br>soap<br>unable<br>minimum<br>kingdom<br>blade<br>art |  
-| bip_39_word_new_br2 | patient<br>animal |  
-| bip_39_word_new_br3 | patient<br>animal<br>mail |  
-| bip_39_word_new_br4 | patient<br>animal<br>mail<br>balcony |  
-| bip_39_word_new_br5 | patient<br>animal<br>mail<br>balcony<br>various |  
-| bip_39_word_new_br6 | patient<br>animal<br>mail<br>balcony<br>various<br>poverty |  
-| bip_39_word_new_br7 | patient<br>animal<br>mail<br>balcony<br>various<br>poverty<br>soap |  
-| bip_39_word_new_br8 | patient<br>animal<br>mail<br>balcony<br>various<br>poverty<br>soap<br>unable |  
-| bip_39_word_new_br9 | patient<br>animal<br>mail<br>balcony<br>various<br>poverty<br>soap<br>unable<br>minimum |  
-| bip_39_word_new_line1 | patient |  
-| bip_39_word_new_line10 | patient
+| bip_39_word_new_br_1 | patient |  
+| bip_39_word_new_br_10 | patient<br>animal<br>mail<br>balcony<br>various<br>poverty<br>soap<br>unable<br>minimum<br>kingdom |  
+| bip_39_word_new_br_11 | patient<br>animal<br>mail<br>balcony<br>various<br>poverty<br>soap<br>unable<br>minimum<br>kingdom<br>blade |  
+| bip_39_word_new_br_12 | patient<br>animal<br>mail<br>balcony<br>various<br>poverty<br>soap<br>unable<br>minimum<br>kingdom<br>blade<br>art |  
+| bip_39_word_new_br_2 | patient<br>animal |  
+| bip_39_word_new_br_3 | patient<br>animal<br>mail |  
+| bip_39_word_new_br_4 | patient<br>animal<br>mail<br>balcony |  
+| bip_39_word_new_br_5 | patient<br>animal<br>mail<br>balcony<br>various |  
+| bip_39_word_new_br_6 | patient<br>animal<br>mail<br>balcony<br>various<br>poverty |  
+| bip_39_word_new_br_7 | patient<br>animal<br>mail<br>balcony<br>various<br>poverty<br>soap |  
+| bip_39_word_new_br_8 | patient<br>animal<br>mail<br>balcony<br>various<br>poverty<br>soap<br>unable |  
+| bip_39_word_new_br_9 | patient<br>animal<br>mail<br>balcony<br>various<br>poverty<br>soap<br>unable<br>minimum |  
+| bip_39_word_new_line_1 | patient |  
+| bip_39_word_new_line_10 | patient
 animal
 mail
 balcony
@@ -55,7 +55,7 @@ soap
 unable
 minimum
 kingdom |  
-| bip_39_word_new_line11 | patient
+| bip_39_word_new_line_11 | patient
 animal
 mail
 balcony
@@ -66,7 +66,7 @@ unable
 minimum
 kingdom
 blade |  
-| bip_39_word_new_line12 | patient
+| bip_39_word_new_line_12 | patient
 animal
 mail
 balcony
@@ -78,34 +78,34 @@ minimum
 kingdom
 blade
 art |  
-| bip_39_word_new_line2 | patient
+| bip_39_word_new_line_2 | patient
 animal |  
-| bip_39_word_new_line3 | patient
+| bip_39_word_new_line_3 | patient
 animal
 mail |  
-| bip_39_word_new_line4 | patient
+| bip_39_word_new_line_4 | patient
 animal
 mail
 balcony |  
-| bip_39_word_new_line5 | patient
+| bip_39_word_new_line_5 | patient
 animal
 mail
 balcony
 various |  
-| bip_39_word_new_line6 | patient
+| bip_39_word_new_line_6 | patient
 animal
 mail
 balcony
 various
 poverty |  
-| bip_39_word_new_line7 | patient
+| bip_39_word_new_line_7 | patient
 animal
 mail
 balcony
 various
 poverty
 soap |  
-| bip_39_word_new_line8 | patient
+| bip_39_word_new_line_8 | patient
 animal
 mail
 balcony
@@ -113,7 +113,7 @@ various
 poverty
 soap
 unable |  
-| bip_39_word_new_line9 | patient
+| bip_39_word_new_line_9 | patient
 animal
 mail
 balcony

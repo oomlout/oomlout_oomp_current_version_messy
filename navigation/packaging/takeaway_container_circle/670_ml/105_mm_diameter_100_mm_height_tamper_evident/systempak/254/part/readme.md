@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | october |  
-| bip_39_word_new_br10 | october<br>together<br>fringe<br>must<br>transfer<br>again<br>cash<br>around<br>village<br>civil |  
-| bip_39_word_new_br11 | october<br>together<br>fringe<br>must<br>transfer<br>again<br>cash<br>around<br>village<br>civil<br>online |  
-| bip_39_word_new_br12 | october<br>together<br>fringe<br>must<br>transfer<br>again<br>cash<br>around<br>village<br>civil<br>online<br>absent |  
-| bip_39_word_new_br2 | october<br>together |  
-| bip_39_word_new_br3 | october<br>together<br>fringe |  
-| bip_39_word_new_br4 | october<br>together<br>fringe<br>must |  
-| bip_39_word_new_br5 | october<br>together<br>fringe<br>must<br>transfer |  
-| bip_39_word_new_br6 | october<br>together<br>fringe<br>must<br>transfer<br>again |  
-| bip_39_word_new_br7 | october<br>together<br>fringe<br>must<br>transfer<br>again<br>cash |  
-| bip_39_word_new_br8 | october<br>together<br>fringe<br>must<br>transfer<br>again<br>cash<br>around |  
-| bip_39_word_new_br9 | october<br>together<br>fringe<br>must<br>transfer<br>again<br>cash<br>around<br>village |  
-| bip_39_word_new_line1 | october |  
-| bip_39_word_new_line10 | october
+| bip_39_word_new_br_1 | october |  
+| bip_39_word_new_br_10 | october<br>together<br>fringe<br>must<br>transfer<br>again<br>cash<br>around<br>village<br>civil |  
+| bip_39_word_new_br_11 | october<br>together<br>fringe<br>must<br>transfer<br>again<br>cash<br>around<br>village<br>civil<br>online |  
+| bip_39_word_new_br_12 | october<br>together<br>fringe<br>must<br>transfer<br>again<br>cash<br>around<br>village<br>civil<br>online<br>absent |  
+| bip_39_word_new_br_2 | october<br>together |  
+| bip_39_word_new_br_3 | october<br>together<br>fringe |  
+| bip_39_word_new_br_4 | october<br>together<br>fringe<br>must |  
+| bip_39_word_new_br_5 | october<br>together<br>fringe<br>must<br>transfer |  
+| bip_39_word_new_br_6 | october<br>together<br>fringe<br>must<br>transfer<br>again |  
+| bip_39_word_new_br_7 | october<br>together<br>fringe<br>must<br>transfer<br>again<br>cash |  
+| bip_39_word_new_br_8 | october<br>together<br>fringe<br>must<br>transfer<br>again<br>cash<br>around |  
+| bip_39_word_new_br_9 | october<br>together<br>fringe<br>must<br>transfer<br>again<br>cash<br>around<br>village |  
+| bip_39_word_new_line_1 | october |  
+| bip_39_word_new_line_10 | october
 together
 fringe
 must
@@ -55,7 +55,7 @@ cash
 around
 village
 civil |  
-| bip_39_word_new_line11 | october
+| bip_39_word_new_line_11 | october
 together
 fringe
 must
@@ -66,7 +66,7 @@ around
 village
 civil
 online |  
-| bip_39_word_new_line12 | october
+| bip_39_word_new_line_12 | october
 together
 fringe
 must
@@ -78,34 +78,34 @@ village
 civil
 online
 absent |  
-| bip_39_word_new_line2 | october
+| bip_39_word_new_line_2 | october
 together |  
-| bip_39_word_new_line3 | october
+| bip_39_word_new_line_3 | october
 together
 fringe |  
-| bip_39_word_new_line4 | october
+| bip_39_word_new_line_4 | october
 together
 fringe
 must |  
-| bip_39_word_new_line5 | october
+| bip_39_word_new_line_5 | october
 together
 fringe
 must
 transfer |  
-| bip_39_word_new_line6 | october
+| bip_39_word_new_line_6 | october
 together
 fringe
 must
 transfer
 again |  
-| bip_39_word_new_line7 | october
+| bip_39_word_new_line_7 | october
 together
 fringe
 must
 transfer
 again
 cash |  
-| bip_39_word_new_line8 | october
+| bip_39_word_new_line_8 | october
 together
 fringe
 must
@@ -113,7 +113,7 @@ transfer
 again
 cash
 around |  
-| bip_39_word_new_line9 | october
+| bip_39_word_new_line_9 | october
 together
 fringe
 must

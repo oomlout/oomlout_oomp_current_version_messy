@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | degree |  
-| bip_39_word_new_br10 | degree<br>cloth<br>allow<br>follow<br>unusual<br>slush<br>text<br>trophy<br>teach<br>grant |  
-| bip_39_word_new_br11 | degree<br>cloth<br>allow<br>follow<br>unusual<br>slush<br>text<br>trophy<br>teach<br>grant<br>orchard |  
-| bip_39_word_new_br12 | degree<br>cloth<br>allow<br>follow<br>unusual<br>slush<br>text<br>trophy<br>teach<br>grant<br>orchard<br>arena |  
-| bip_39_word_new_br2 | degree<br>cloth |  
-| bip_39_word_new_br3 | degree<br>cloth<br>allow |  
-| bip_39_word_new_br4 | degree<br>cloth<br>allow<br>follow |  
-| bip_39_word_new_br5 | degree<br>cloth<br>allow<br>follow<br>unusual |  
-| bip_39_word_new_br6 | degree<br>cloth<br>allow<br>follow<br>unusual<br>slush |  
-| bip_39_word_new_br7 | degree<br>cloth<br>allow<br>follow<br>unusual<br>slush<br>text |  
-| bip_39_word_new_br8 | degree<br>cloth<br>allow<br>follow<br>unusual<br>slush<br>text<br>trophy |  
-| bip_39_word_new_br9 | degree<br>cloth<br>allow<br>follow<br>unusual<br>slush<br>text<br>trophy<br>teach |  
-| bip_39_word_new_line1 | degree |  
-| bip_39_word_new_line10 | degree
+| bip_39_word_new_br_1 | degree |  
+| bip_39_word_new_br_10 | degree<br>cloth<br>allow<br>follow<br>unusual<br>slush<br>text<br>trophy<br>teach<br>grant |  
+| bip_39_word_new_br_11 | degree<br>cloth<br>allow<br>follow<br>unusual<br>slush<br>text<br>trophy<br>teach<br>grant<br>orchard |  
+| bip_39_word_new_br_12 | degree<br>cloth<br>allow<br>follow<br>unusual<br>slush<br>text<br>trophy<br>teach<br>grant<br>orchard<br>arena |  
+| bip_39_word_new_br_2 | degree<br>cloth |  
+| bip_39_word_new_br_3 | degree<br>cloth<br>allow |  
+| bip_39_word_new_br_4 | degree<br>cloth<br>allow<br>follow |  
+| bip_39_word_new_br_5 | degree<br>cloth<br>allow<br>follow<br>unusual |  
+| bip_39_word_new_br_6 | degree<br>cloth<br>allow<br>follow<br>unusual<br>slush |  
+| bip_39_word_new_br_7 | degree<br>cloth<br>allow<br>follow<br>unusual<br>slush<br>text |  
+| bip_39_word_new_br_8 | degree<br>cloth<br>allow<br>follow<br>unusual<br>slush<br>text<br>trophy |  
+| bip_39_word_new_br_9 | degree<br>cloth<br>allow<br>follow<br>unusual<br>slush<br>text<br>trophy<br>teach |  
+| bip_39_word_new_line_1 | degree |  
+| bip_39_word_new_line_10 | degree
 cloth
 allow
 follow
@@ -55,7 +55,7 @@ text
 trophy
 teach
 grant |  
-| bip_39_word_new_line11 | degree
+| bip_39_word_new_line_11 | degree
 cloth
 allow
 follow
@@ -66,7 +66,7 @@ trophy
 teach
 grant
 orchard |  
-| bip_39_word_new_line12 | degree
+| bip_39_word_new_line_12 | degree
 cloth
 allow
 follow
@@ -78,34 +78,34 @@ teach
 grant
 orchard
 arena |  
-| bip_39_word_new_line2 | degree
+| bip_39_word_new_line_2 | degree
 cloth |  
-| bip_39_word_new_line3 | degree
+| bip_39_word_new_line_3 | degree
 cloth
 allow |  
-| bip_39_word_new_line4 | degree
+| bip_39_word_new_line_4 | degree
 cloth
 allow
 follow |  
-| bip_39_word_new_line5 | degree
+| bip_39_word_new_line_5 | degree
 cloth
 allow
 follow
 unusual |  
-| bip_39_word_new_line6 | degree
+| bip_39_word_new_line_6 | degree
 cloth
 allow
 follow
 unusual
 slush |  
-| bip_39_word_new_line7 | degree
+| bip_39_word_new_line_7 | degree
 cloth
 allow
 follow
 unusual
 slush
 text |  
-| bip_39_word_new_line8 | degree
+| bip_39_word_new_line_8 | degree
 cloth
 allow
 follow
@@ -113,7 +113,7 @@ unusual
 slush
 text
 trophy |  
-| bip_39_word_new_line9 | degree
+| bip_39_word_new_line_9 | degree
 cloth
 allow
 follow

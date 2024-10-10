@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | trash |  
-| bip_39_word_new_br10 | trash<br>today<br>truth<br>surprise<br>truck<br>sleep<br>milk<br>harbor<br>parade<br>mistake |  
-| bip_39_word_new_br11 | trash<br>today<br>truth<br>surprise<br>truck<br>sleep<br>milk<br>harbor<br>parade<br>mistake<br>zebra |  
-| bip_39_word_new_br12 | trash<br>today<br>truth<br>surprise<br>truck<br>sleep<br>milk<br>harbor<br>parade<br>mistake<br>zebra<br>assault |  
-| bip_39_word_new_br2 | trash<br>today |  
-| bip_39_word_new_br3 | trash<br>today<br>truth |  
-| bip_39_word_new_br4 | trash<br>today<br>truth<br>surprise |  
-| bip_39_word_new_br5 | trash<br>today<br>truth<br>surprise<br>truck |  
-| bip_39_word_new_br6 | trash<br>today<br>truth<br>surprise<br>truck<br>sleep |  
-| bip_39_word_new_br7 | trash<br>today<br>truth<br>surprise<br>truck<br>sleep<br>milk |  
-| bip_39_word_new_br8 | trash<br>today<br>truth<br>surprise<br>truck<br>sleep<br>milk<br>harbor |  
-| bip_39_word_new_br9 | trash<br>today<br>truth<br>surprise<br>truck<br>sleep<br>milk<br>harbor<br>parade |  
-| bip_39_word_new_line1 | trash |  
-| bip_39_word_new_line10 | trash
+| bip_39_word_new_br_1 | trash |  
+| bip_39_word_new_br_10 | trash<br>today<br>truth<br>surprise<br>truck<br>sleep<br>milk<br>harbor<br>parade<br>mistake |  
+| bip_39_word_new_br_11 | trash<br>today<br>truth<br>surprise<br>truck<br>sleep<br>milk<br>harbor<br>parade<br>mistake<br>zebra |  
+| bip_39_word_new_br_12 | trash<br>today<br>truth<br>surprise<br>truck<br>sleep<br>milk<br>harbor<br>parade<br>mistake<br>zebra<br>assault |  
+| bip_39_word_new_br_2 | trash<br>today |  
+| bip_39_word_new_br_3 | trash<br>today<br>truth |  
+| bip_39_word_new_br_4 | trash<br>today<br>truth<br>surprise |  
+| bip_39_word_new_br_5 | trash<br>today<br>truth<br>surprise<br>truck |  
+| bip_39_word_new_br_6 | trash<br>today<br>truth<br>surprise<br>truck<br>sleep |  
+| bip_39_word_new_br_7 | trash<br>today<br>truth<br>surprise<br>truck<br>sleep<br>milk |  
+| bip_39_word_new_br_8 | trash<br>today<br>truth<br>surprise<br>truck<br>sleep<br>milk<br>harbor |  
+| bip_39_word_new_br_9 | trash<br>today<br>truth<br>surprise<br>truck<br>sleep<br>milk<br>harbor<br>parade |  
+| bip_39_word_new_line_1 | trash |  
+| bip_39_word_new_line_10 | trash
 today
 truth
 surprise
@@ -55,7 +55,7 @@ milk
 harbor
 parade
 mistake |  
-| bip_39_word_new_line11 | trash
+| bip_39_word_new_line_11 | trash
 today
 truth
 surprise
@@ -66,7 +66,7 @@ harbor
 parade
 mistake
 zebra |  
-| bip_39_word_new_line12 | trash
+| bip_39_word_new_line_12 | trash
 today
 truth
 surprise
@@ -78,34 +78,34 @@ parade
 mistake
 zebra
 assault |  
-| bip_39_word_new_line2 | trash
+| bip_39_word_new_line_2 | trash
 today |  
-| bip_39_word_new_line3 | trash
+| bip_39_word_new_line_3 | trash
 today
 truth |  
-| bip_39_word_new_line4 | trash
+| bip_39_word_new_line_4 | trash
 today
 truth
 surprise |  
-| bip_39_word_new_line5 | trash
+| bip_39_word_new_line_5 | trash
 today
 truth
 surprise
 truck |  
-| bip_39_word_new_line6 | trash
+| bip_39_word_new_line_6 | trash
 today
 truth
 surprise
 truck
 sleep |  
-| bip_39_word_new_line7 | trash
+| bip_39_word_new_line_7 | trash
 today
 truth
 surprise
 truck
 sleep
 milk |  
-| bip_39_word_new_line8 | trash
+| bip_39_word_new_line_8 | trash
 today
 truth
 surprise
@@ -113,7 +113,7 @@ truck
 sleep
 milk
 harbor |  
-| bip_39_word_new_line9 | trash
+| bip_39_word_new_line_9 | trash
 today
 truth
 surprise

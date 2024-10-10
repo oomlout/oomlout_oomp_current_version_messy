@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fan |  
-| bip_39_word_new_br10 | fan<br>leisure<br>panel<br>ramp<br>chief<br>birth<br>awesome<br>skull<br>prepare<br>upgrade |  
-| bip_39_word_new_br11 | fan<br>leisure<br>panel<br>ramp<br>chief<br>birth<br>awesome<br>skull<br>prepare<br>upgrade<br>spawn |  
-| bip_39_word_new_br12 | fan<br>leisure<br>panel<br>ramp<br>chief<br>birth<br>awesome<br>skull<br>prepare<br>upgrade<br>spawn<br>address |  
-| bip_39_word_new_br2 | fan<br>leisure |  
-| bip_39_word_new_br3 | fan<br>leisure<br>panel |  
-| bip_39_word_new_br4 | fan<br>leisure<br>panel<br>ramp |  
-| bip_39_word_new_br5 | fan<br>leisure<br>panel<br>ramp<br>chief |  
-| bip_39_word_new_br6 | fan<br>leisure<br>panel<br>ramp<br>chief<br>birth |  
-| bip_39_word_new_br7 | fan<br>leisure<br>panel<br>ramp<br>chief<br>birth<br>awesome |  
-| bip_39_word_new_br8 | fan<br>leisure<br>panel<br>ramp<br>chief<br>birth<br>awesome<br>skull |  
-| bip_39_word_new_br9 | fan<br>leisure<br>panel<br>ramp<br>chief<br>birth<br>awesome<br>skull<br>prepare |  
-| bip_39_word_new_line1 | fan |  
-| bip_39_word_new_line10 | fan
+| bip_39_word_new_br_1 | fan |  
+| bip_39_word_new_br_10 | fan<br>leisure<br>panel<br>ramp<br>chief<br>birth<br>awesome<br>skull<br>prepare<br>upgrade |  
+| bip_39_word_new_br_11 | fan<br>leisure<br>panel<br>ramp<br>chief<br>birth<br>awesome<br>skull<br>prepare<br>upgrade<br>spawn |  
+| bip_39_word_new_br_12 | fan<br>leisure<br>panel<br>ramp<br>chief<br>birth<br>awesome<br>skull<br>prepare<br>upgrade<br>spawn<br>address |  
+| bip_39_word_new_br_2 | fan<br>leisure |  
+| bip_39_word_new_br_3 | fan<br>leisure<br>panel |  
+| bip_39_word_new_br_4 | fan<br>leisure<br>panel<br>ramp |  
+| bip_39_word_new_br_5 | fan<br>leisure<br>panel<br>ramp<br>chief |  
+| bip_39_word_new_br_6 | fan<br>leisure<br>panel<br>ramp<br>chief<br>birth |  
+| bip_39_word_new_br_7 | fan<br>leisure<br>panel<br>ramp<br>chief<br>birth<br>awesome |  
+| bip_39_word_new_br_8 | fan<br>leisure<br>panel<br>ramp<br>chief<br>birth<br>awesome<br>skull |  
+| bip_39_word_new_br_9 | fan<br>leisure<br>panel<br>ramp<br>chief<br>birth<br>awesome<br>skull<br>prepare |  
+| bip_39_word_new_line_1 | fan |  
+| bip_39_word_new_line_10 | fan
 leisure
 panel
 ramp
@@ -55,7 +55,7 @@ awesome
 skull
 prepare
 upgrade |  
-| bip_39_word_new_line11 | fan
+| bip_39_word_new_line_11 | fan
 leisure
 panel
 ramp
@@ -66,7 +66,7 @@ skull
 prepare
 upgrade
 spawn |  
-| bip_39_word_new_line12 | fan
+| bip_39_word_new_line_12 | fan
 leisure
 panel
 ramp
@@ -78,34 +78,34 @@ prepare
 upgrade
 spawn
 address |  
-| bip_39_word_new_line2 | fan
+| bip_39_word_new_line_2 | fan
 leisure |  
-| bip_39_word_new_line3 | fan
+| bip_39_word_new_line_3 | fan
 leisure
 panel |  
-| bip_39_word_new_line4 | fan
+| bip_39_word_new_line_4 | fan
 leisure
 panel
 ramp |  
-| bip_39_word_new_line5 | fan
+| bip_39_word_new_line_5 | fan
 leisure
 panel
 ramp
 chief |  
-| bip_39_word_new_line6 | fan
+| bip_39_word_new_line_6 | fan
 leisure
 panel
 ramp
 chief
 birth |  
-| bip_39_word_new_line7 | fan
+| bip_39_word_new_line_7 | fan
 leisure
 panel
 ramp
 chief
 birth
 awesome |  
-| bip_39_word_new_line8 | fan
+| bip_39_word_new_line_8 | fan
 leisure
 panel
 ramp
@@ -113,7 +113,7 @@ chief
 birth
 awesome
 skull |  
-| bip_39_word_new_line9 | fan
+| bip_39_word_new_line_9 | fan
 leisure
 panel
 ramp

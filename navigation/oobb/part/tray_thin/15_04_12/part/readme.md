@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hard |  
-| bip_39_word_new_br10 | hard<br>seven<br>regular<br>vivid<br>together<br>benefit<br>rail<br>book<br>company<br>science |  
-| bip_39_word_new_br11 | hard<br>seven<br>regular<br>vivid<br>together<br>benefit<br>rail<br>book<br>company<br>science<br>deal |  
-| bip_39_word_new_br12 | hard<br>seven<br>regular<br>vivid<br>together<br>benefit<br>rail<br>book<br>company<br>science<br>deal<br>announce |  
-| bip_39_word_new_br2 | hard<br>seven |  
-| bip_39_word_new_br3 | hard<br>seven<br>regular |  
-| bip_39_word_new_br4 | hard<br>seven<br>regular<br>vivid |  
-| bip_39_word_new_br5 | hard<br>seven<br>regular<br>vivid<br>together |  
-| bip_39_word_new_br6 | hard<br>seven<br>regular<br>vivid<br>together<br>benefit |  
-| bip_39_word_new_br7 | hard<br>seven<br>regular<br>vivid<br>together<br>benefit<br>rail |  
-| bip_39_word_new_br8 | hard<br>seven<br>regular<br>vivid<br>together<br>benefit<br>rail<br>book |  
-| bip_39_word_new_br9 | hard<br>seven<br>regular<br>vivid<br>together<br>benefit<br>rail<br>book<br>company |  
-| bip_39_word_new_line1 | hard |  
-| bip_39_word_new_line10 | hard
+| bip_39_word_new_br_1 | hard |  
+| bip_39_word_new_br_10 | hard<br>seven<br>regular<br>vivid<br>together<br>benefit<br>rail<br>book<br>company<br>science |  
+| bip_39_word_new_br_11 | hard<br>seven<br>regular<br>vivid<br>together<br>benefit<br>rail<br>book<br>company<br>science<br>deal |  
+| bip_39_word_new_br_12 | hard<br>seven<br>regular<br>vivid<br>together<br>benefit<br>rail<br>book<br>company<br>science<br>deal<br>announce |  
+| bip_39_word_new_br_2 | hard<br>seven |  
+| bip_39_word_new_br_3 | hard<br>seven<br>regular |  
+| bip_39_word_new_br_4 | hard<br>seven<br>regular<br>vivid |  
+| bip_39_word_new_br_5 | hard<br>seven<br>regular<br>vivid<br>together |  
+| bip_39_word_new_br_6 | hard<br>seven<br>regular<br>vivid<br>together<br>benefit |  
+| bip_39_word_new_br_7 | hard<br>seven<br>regular<br>vivid<br>together<br>benefit<br>rail |  
+| bip_39_word_new_br_8 | hard<br>seven<br>regular<br>vivid<br>together<br>benefit<br>rail<br>book |  
+| bip_39_word_new_br_9 | hard<br>seven<br>regular<br>vivid<br>together<br>benefit<br>rail<br>book<br>company |  
+| bip_39_word_new_line_1 | hard |  
+| bip_39_word_new_line_10 | hard
 seven
 regular
 vivid
@@ -55,7 +55,7 @@ rail
 book
 company
 science |  
-| bip_39_word_new_line11 | hard
+| bip_39_word_new_line_11 | hard
 seven
 regular
 vivid
@@ -66,7 +66,7 @@ book
 company
 science
 deal |  
-| bip_39_word_new_line12 | hard
+| bip_39_word_new_line_12 | hard
 seven
 regular
 vivid
@@ -78,34 +78,34 @@ company
 science
 deal
 announce |  
-| bip_39_word_new_line2 | hard
+| bip_39_word_new_line_2 | hard
 seven |  
-| bip_39_word_new_line3 | hard
+| bip_39_word_new_line_3 | hard
 seven
 regular |  
-| bip_39_word_new_line4 | hard
+| bip_39_word_new_line_4 | hard
 seven
 regular
 vivid |  
-| bip_39_word_new_line5 | hard
+| bip_39_word_new_line_5 | hard
 seven
 regular
 vivid
 together |  
-| bip_39_word_new_line6 | hard
+| bip_39_word_new_line_6 | hard
 seven
 regular
 vivid
 together
 benefit |  
-| bip_39_word_new_line7 | hard
+| bip_39_word_new_line_7 | hard
 seven
 regular
 vivid
 together
 benefit
 rail |  
-| bip_39_word_new_line8 | hard
+| bip_39_word_new_line_8 | hard
 seven
 regular
 vivid
@@ -113,7 +113,7 @@ together
 benefit
 rail
 book |  
-| bip_39_word_new_line9 | hard
+| bip_39_word_new_line_9 | hard
 seven
 regular
 vivid

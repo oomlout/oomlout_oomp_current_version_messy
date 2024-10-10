@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | champion |  
-| bip_39_word_new_br10 | champion<br>turtle<br>top<br>curve<br>wait<br>gorilla<br>unknown<br>mistake<br>ceiling<br>kiss |  
-| bip_39_word_new_br11 | champion<br>turtle<br>top<br>curve<br>wait<br>gorilla<br>unknown<br>mistake<br>ceiling<br>kiss<br>timber |  
-| bip_39_word_new_br12 | champion<br>turtle<br>top<br>curve<br>wait<br>gorilla<br>unknown<br>mistake<br>ceiling<br>kiss<br>timber<br>arena |  
-| bip_39_word_new_br2 | champion<br>turtle |  
-| bip_39_word_new_br3 | champion<br>turtle<br>top |  
-| bip_39_word_new_br4 | champion<br>turtle<br>top<br>curve |  
-| bip_39_word_new_br5 | champion<br>turtle<br>top<br>curve<br>wait |  
-| bip_39_word_new_br6 | champion<br>turtle<br>top<br>curve<br>wait<br>gorilla |  
-| bip_39_word_new_br7 | champion<br>turtle<br>top<br>curve<br>wait<br>gorilla<br>unknown |  
-| bip_39_word_new_br8 | champion<br>turtle<br>top<br>curve<br>wait<br>gorilla<br>unknown<br>mistake |  
-| bip_39_word_new_br9 | champion<br>turtle<br>top<br>curve<br>wait<br>gorilla<br>unknown<br>mistake<br>ceiling |  
-| bip_39_word_new_line1 | champion |  
-| bip_39_word_new_line10 | champion
+| bip_39_word_new_br_1 | champion |  
+| bip_39_word_new_br_10 | champion<br>turtle<br>top<br>curve<br>wait<br>gorilla<br>unknown<br>mistake<br>ceiling<br>kiss |  
+| bip_39_word_new_br_11 | champion<br>turtle<br>top<br>curve<br>wait<br>gorilla<br>unknown<br>mistake<br>ceiling<br>kiss<br>timber |  
+| bip_39_word_new_br_12 | champion<br>turtle<br>top<br>curve<br>wait<br>gorilla<br>unknown<br>mistake<br>ceiling<br>kiss<br>timber<br>arena |  
+| bip_39_word_new_br_2 | champion<br>turtle |  
+| bip_39_word_new_br_3 | champion<br>turtle<br>top |  
+| bip_39_word_new_br_4 | champion<br>turtle<br>top<br>curve |  
+| bip_39_word_new_br_5 | champion<br>turtle<br>top<br>curve<br>wait |  
+| bip_39_word_new_br_6 | champion<br>turtle<br>top<br>curve<br>wait<br>gorilla |  
+| bip_39_word_new_br_7 | champion<br>turtle<br>top<br>curve<br>wait<br>gorilla<br>unknown |  
+| bip_39_word_new_br_8 | champion<br>turtle<br>top<br>curve<br>wait<br>gorilla<br>unknown<br>mistake |  
+| bip_39_word_new_br_9 | champion<br>turtle<br>top<br>curve<br>wait<br>gorilla<br>unknown<br>mistake<br>ceiling |  
+| bip_39_word_new_line_1 | champion |  
+| bip_39_word_new_line_10 | champion
 turtle
 top
 curve
@@ -55,7 +55,7 @@ unknown
 mistake
 ceiling
 kiss |  
-| bip_39_word_new_line11 | champion
+| bip_39_word_new_line_11 | champion
 turtle
 top
 curve
@@ -66,7 +66,7 @@ mistake
 ceiling
 kiss
 timber |  
-| bip_39_word_new_line12 | champion
+| bip_39_word_new_line_12 | champion
 turtle
 top
 curve
@@ -78,34 +78,34 @@ ceiling
 kiss
 timber
 arena |  
-| bip_39_word_new_line2 | champion
+| bip_39_word_new_line_2 | champion
 turtle |  
-| bip_39_word_new_line3 | champion
+| bip_39_word_new_line_3 | champion
 turtle
 top |  
-| bip_39_word_new_line4 | champion
+| bip_39_word_new_line_4 | champion
 turtle
 top
 curve |  
-| bip_39_word_new_line5 | champion
+| bip_39_word_new_line_5 | champion
 turtle
 top
 curve
 wait |  
-| bip_39_word_new_line6 | champion
+| bip_39_word_new_line_6 | champion
 turtle
 top
 curve
 wait
 gorilla |  
-| bip_39_word_new_line7 | champion
+| bip_39_word_new_line_7 | champion
 turtle
 top
 curve
 wait
 gorilla
 unknown |  
-| bip_39_word_new_line8 | champion
+| bip_39_word_new_line_8 | champion
 turtle
 top
 curve
@@ -113,7 +113,7 @@ wait
 gorilla
 unknown
 mistake |  
-| bip_39_word_new_line9 | champion
+| bip_39_word_new_line_9 | champion
 turtle
 top
 curve

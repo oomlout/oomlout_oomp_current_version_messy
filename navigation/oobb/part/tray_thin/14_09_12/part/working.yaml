@@ -1,17 +1,17 @@
-bip_39_word_new_br1: tiny
-bip_39_word_new_br10: tiny<br>borrow<br>solve<br>baby<br>bleak<br>feature<br>business<br>cereal<br>alcohol<br>twenty
-bip_39_word_new_br11: tiny<br>borrow<br>solve<br>baby<br>bleak<br>feature<br>business<br>cereal<br>alcohol<br>twenty<br>main
-bip_39_word_new_br12: tiny<br>borrow<br>solve<br>baby<br>bleak<br>feature<br>business<br>cereal<br>alcohol<br>twenty<br>main<br>armor
-bip_39_word_new_br2: tiny<br>borrow
-bip_39_word_new_br3: tiny<br>borrow<br>solve
-bip_39_word_new_br4: tiny<br>borrow<br>solve<br>baby
-bip_39_word_new_br5: tiny<br>borrow<br>solve<br>baby<br>bleak
-bip_39_word_new_br6: tiny<br>borrow<br>solve<br>baby<br>bleak<br>feature
-bip_39_word_new_br7: tiny<br>borrow<br>solve<br>baby<br>bleak<br>feature<br>business
-bip_39_word_new_br8: tiny<br>borrow<br>solve<br>baby<br>bleak<br>feature<br>business<br>cereal
-bip_39_word_new_br9: tiny<br>borrow<br>solve<br>baby<br>bleak<br>feature<br>business<br>cereal<br>alcohol
-bip_39_word_new_line1: tiny
-bip_39_word_new_line10: 'tiny
+bip_39_word_new_br_1: tiny
+bip_39_word_new_br_10: tiny<br>borrow<br>solve<br>baby<br>bleak<br>feature<br>business<br>cereal<br>alcohol<br>twenty
+bip_39_word_new_br_11: tiny<br>borrow<br>solve<br>baby<br>bleak<br>feature<br>business<br>cereal<br>alcohol<br>twenty<br>main
+bip_39_word_new_br_12: tiny<br>borrow<br>solve<br>baby<br>bleak<br>feature<br>business<br>cereal<br>alcohol<br>twenty<br>main<br>armor
+bip_39_word_new_br_2: tiny<br>borrow
+bip_39_word_new_br_3: tiny<br>borrow<br>solve
+bip_39_word_new_br_4: tiny<br>borrow<br>solve<br>baby
+bip_39_word_new_br_5: tiny<br>borrow<br>solve<br>baby<br>bleak
+bip_39_word_new_br_6: tiny<br>borrow<br>solve<br>baby<br>bleak<br>feature
+bip_39_word_new_br_7: tiny<br>borrow<br>solve<br>baby<br>bleak<br>feature<br>business
+bip_39_word_new_br_8: tiny<br>borrow<br>solve<br>baby<br>bleak<br>feature<br>business<br>cereal
+bip_39_word_new_br_9: tiny<br>borrow<br>solve<br>baby<br>bleak<br>feature<br>business<br>cereal<br>alcohol
+bip_39_word_new_line_1: tiny
+bip_39_word_new_line_10: 'tiny
 
   borrow
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'tiny
   alcohol
 
   twenty'
-bip_39_word_new_line11: 'tiny
+bip_39_word_new_line_11: 'tiny
 
   borrow
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'tiny
   twenty
 
   main'
-bip_39_word_new_line12: 'tiny
+bip_39_word_new_line_12: 'tiny
 
   borrow
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'tiny
   main
 
   armor'
-bip_39_word_new_line2: 'tiny
+bip_39_word_new_line_2: 'tiny
 
   borrow'
-bip_39_word_new_line3: 'tiny
+bip_39_word_new_line_3: 'tiny
 
   borrow
 
   solve'
-bip_39_word_new_line4: 'tiny
+bip_39_word_new_line_4: 'tiny
 
   borrow
 
   solve
 
   baby'
-bip_39_word_new_line5: 'tiny
+bip_39_word_new_line_5: 'tiny
 
   borrow
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'tiny
   baby
 
   bleak'
-bip_39_word_new_line6: 'tiny
+bip_39_word_new_line_6: 'tiny
 
   borrow
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'tiny
   bleak
 
   feature'
-bip_39_word_new_line7: 'tiny
+bip_39_word_new_line_7: 'tiny
 
   borrow
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'tiny
   feature
 
   business'
-bip_39_word_new_line8: 'tiny
+bip_39_word_new_line_8: 'tiny
 
   borrow
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'tiny
   business
 
   cereal'
-bip_39_word_new_line9: 'tiny
+bip_39_word_new_line_9: 'tiny
 
   borrow
 

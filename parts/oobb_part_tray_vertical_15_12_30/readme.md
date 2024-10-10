@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | old |  
-| bip_39_word_new_br10 | old<br>thrive<br>wave<br>track<br>regret<br>hundred<br>crawl<br>minute<br>advice<br>aim |  
-| bip_39_word_new_br11 | old<br>thrive<br>wave<br>track<br>regret<br>hundred<br>crawl<br>minute<br>advice<br>aim<br>gasp |  
-| bip_39_word_new_br12 | old<br>thrive<br>wave<br>track<br>regret<br>hundred<br>crawl<br>minute<br>advice<br>aim<br>gasp<br>arrange |  
-| bip_39_word_new_br2 | old<br>thrive |  
-| bip_39_word_new_br3 | old<br>thrive<br>wave |  
-| bip_39_word_new_br4 | old<br>thrive<br>wave<br>track |  
-| bip_39_word_new_br5 | old<br>thrive<br>wave<br>track<br>regret |  
-| bip_39_word_new_br6 | old<br>thrive<br>wave<br>track<br>regret<br>hundred |  
-| bip_39_word_new_br7 | old<br>thrive<br>wave<br>track<br>regret<br>hundred<br>crawl |  
-| bip_39_word_new_br8 | old<br>thrive<br>wave<br>track<br>regret<br>hundred<br>crawl<br>minute |  
-| bip_39_word_new_br9 | old<br>thrive<br>wave<br>track<br>regret<br>hundred<br>crawl<br>minute<br>advice |  
-| bip_39_word_new_line1 | old |  
-| bip_39_word_new_line10 | old
+| bip_39_word_new_br_1 | old |  
+| bip_39_word_new_br_10 | old<br>thrive<br>wave<br>track<br>regret<br>hundred<br>crawl<br>minute<br>advice<br>aim |  
+| bip_39_word_new_br_11 | old<br>thrive<br>wave<br>track<br>regret<br>hundred<br>crawl<br>minute<br>advice<br>aim<br>gasp |  
+| bip_39_word_new_br_12 | old<br>thrive<br>wave<br>track<br>regret<br>hundred<br>crawl<br>minute<br>advice<br>aim<br>gasp<br>arrange |  
+| bip_39_word_new_br_2 | old<br>thrive |  
+| bip_39_word_new_br_3 | old<br>thrive<br>wave |  
+| bip_39_word_new_br_4 | old<br>thrive<br>wave<br>track |  
+| bip_39_word_new_br_5 | old<br>thrive<br>wave<br>track<br>regret |  
+| bip_39_word_new_br_6 | old<br>thrive<br>wave<br>track<br>regret<br>hundred |  
+| bip_39_word_new_br_7 | old<br>thrive<br>wave<br>track<br>regret<br>hundred<br>crawl |  
+| bip_39_word_new_br_8 | old<br>thrive<br>wave<br>track<br>regret<br>hundred<br>crawl<br>minute |  
+| bip_39_word_new_br_9 | old<br>thrive<br>wave<br>track<br>regret<br>hundred<br>crawl<br>minute<br>advice |  
+| bip_39_word_new_line_1 | old |  
+| bip_39_word_new_line_10 | old
 thrive
 wave
 track
@@ -55,7 +55,7 @@ crawl
 minute
 advice
 aim |  
-| bip_39_word_new_line11 | old
+| bip_39_word_new_line_11 | old
 thrive
 wave
 track
@@ -66,7 +66,7 @@ minute
 advice
 aim
 gasp |  
-| bip_39_word_new_line12 | old
+| bip_39_word_new_line_12 | old
 thrive
 wave
 track
@@ -78,34 +78,34 @@ advice
 aim
 gasp
 arrange |  
-| bip_39_word_new_line2 | old
+| bip_39_word_new_line_2 | old
 thrive |  
-| bip_39_word_new_line3 | old
+| bip_39_word_new_line_3 | old
 thrive
 wave |  
-| bip_39_word_new_line4 | old
+| bip_39_word_new_line_4 | old
 thrive
 wave
 track |  
-| bip_39_word_new_line5 | old
+| bip_39_word_new_line_5 | old
 thrive
 wave
 track
 regret |  
-| bip_39_word_new_line6 | old
+| bip_39_word_new_line_6 | old
 thrive
 wave
 track
 regret
 hundred |  
-| bip_39_word_new_line7 | old
+| bip_39_word_new_line_7 | old
 thrive
 wave
 track
 regret
 hundred
 crawl |  
-| bip_39_word_new_line8 | old
+| bip_39_word_new_line_8 | old
 thrive
 wave
 track
@@ -113,7 +113,7 @@ regret
 hundred
 crawl
 minute |  
-| bip_39_word_new_line9 | old
+| bip_39_word_new_line_9 | old
 thrive
 wave
 track

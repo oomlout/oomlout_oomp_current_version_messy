@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | carry |  
-| bip_39_word_new_br10 | carry<br>sad<br>orphan<br>witness<br>erupt<br>spread<br>merry<br>coil<br>eager<br>tag |  
-| bip_39_word_new_br11 | carry<br>sad<br>orphan<br>witness<br>erupt<br>spread<br>merry<br>coil<br>eager<br>tag<br>merge |  
-| bip_39_word_new_br12 | carry<br>sad<br>orphan<br>witness<br>erupt<br>spread<br>merry<br>coil<br>eager<br>tag<br>merge<br>apology |  
-| bip_39_word_new_br2 | carry<br>sad |  
-| bip_39_word_new_br3 | carry<br>sad<br>orphan |  
-| bip_39_word_new_br4 | carry<br>sad<br>orphan<br>witness |  
-| bip_39_word_new_br5 | carry<br>sad<br>orphan<br>witness<br>erupt |  
-| bip_39_word_new_br6 | carry<br>sad<br>orphan<br>witness<br>erupt<br>spread |  
-| bip_39_word_new_br7 | carry<br>sad<br>orphan<br>witness<br>erupt<br>spread<br>merry |  
-| bip_39_word_new_br8 | carry<br>sad<br>orphan<br>witness<br>erupt<br>spread<br>merry<br>coil |  
-| bip_39_word_new_br9 | carry<br>sad<br>orphan<br>witness<br>erupt<br>spread<br>merry<br>coil<br>eager |  
-| bip_39_word_new_line1 | carry |  
-| bip_39_word_new_line10 | carry
+| bip_39_word_new_br_1 | carry |  
+| bip_39_word_new_br_10 | carry<br>sad<br>orphan<br>witness<br>erupt<br>spread<br>merry<br>coil<br>eager<br>tag |  
+| bip_39_word_new_br_11 | carry<br>sad<br>orphan<br>witness<br>erupt<br>spread<br>merry<br>coil<br>eager<br>tag<br>merge |  
+| bip_39_word_new_br_12 | carry<br>sad<br>orphan<br>witness<br>erupt<br>spread<br>merry<br>coil<br>eager<br>tag<br>merge<br>apology |  
+| bip_39_word_new_br_2 | carry<br>sad |  
+| bip_39_word_new_br_3 | carry<br>sad<br>orphan |  
+| bip_39_word_new_br_4 | carry<br>sad<br>orphan<br>witness |  
+| bip_39_word_new_br_5 | carry<br>sad<br>orphan<br>witness<br>erupt |  
+| bip_39_word_new_br_6 | carry<br>sad<br>orphan<br>witness<br>erupt<br>spread |  
+| bip_39_word_new_br_7 | carry<br>sad<br>orphan<br>witness<br>erupt<br>spread<br>merry |  
+| bip_39_word_new_br_8 | carry<br>sad<br>orphan<br>witness<br>erupt<br>spread<br>merry<br>coil |  
+| bip_39_word_new_br_9 | carry<br>sad<br>orphan<br>witness<br>erupt<br>spread<br>merry<br>coil<br>eager |  
+| bip_39_word_new_line_1 | carry |  
+| bip_39_word_new_line_10 | carry
 sad
 orphan
 witness
@@ -55,7 +55,7 @@ merry
 coil
 eager
 tag |  
-| bip_39_word_new_line11 | carry
+| bip_39_word_new_line_11 | carry
 sad
 orphan
 witness
@@ -66,7 +66,7 @@ coil
 eager
 tag
 merge |  
-| bip_39_word_new_line12 | carry
+| bip_39_word_new_line_12 | carry
 sad
 orphan
 witness
@@ -78,34 +78,34 @@ eager
 tag
 merge
 apology |  
-| bip_39_word_new_line2 | carry
+| bip_39_word_new_line_2 | carry
 sad |  
-| bip_39_word_new_line3 | carry
+| bip_39_word_new_line_3 | carry
 sad
 orphan |  
-| bip_39_word_new_line4 | carry
+| bip_39_word_new_line_4 | carry
 sad
 orphan
 witness |  
-| bip_39_word_new_line5 | carry
+| bip_39_word_new_line_5 | carry
 sad
 orphan
 witness
 erupt |  
-| bip_39_word_new_line6 | carry
+| bip_39_word_new_line_6 | carry
 sad
 orphan
 witness
 erupt
 spread |  
-| bip_39_word_new_line7 | carry
+| bip_39_word_new_line_7 | carry
 sad
 orphan
 witness
 erupt
 spread
 merry |  
-| bip_39_word_new_line8 | carry
+| bip_39_word_new_line_8 | carry
 sad
 orphan
 witness
@@ -113,7 +113,7 @@ erupt
 spread
 merry
 coil |  
-| bip_39_word_new_line9 | carry
+| bip_39_word_new_line_9 | carry
 sad
 orphan
 witness

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | damp |  
-| bip_39_word_new_br10 | damp<br>history<br>proud<br>slight<br>dinner<br>damage<br>ship<br>gorilla<br>island<br>solution |  
-| bip_39_word_new_br11 | damp<br>history<br>proud<br>slight<br>dinner<br>damage<br>ship<br>gorilla<br>island<br>solution<br>radio |  
-| bip_39_word_new_br12 | damp<br>history<br>proud<br>slight<br>dinner<br>damage<br>ship<br>gorilla<br>island<br>solution<br>radio<br>auction |  
-| bip_39_word_new_br2 | damp<br>history |  
-| bip_39_word_new_br3 | damp<br>history<br>proud |  
-| bip_39_word_new_br4 | damp<br>history<br>proud<br>slight |  
-| bip_39_word_new_br5 | damp<br>history<br>proud<br>slight<br>dinner |  
-| bip_39_word_new_br6 | damp<br>history<br>proud<br>slight<br>dinner<br>damage |  
-| bip_39_word_new_br7 | damp<br>history<br>proud<br>slight<br>dinner<br>damage<br>ship |  
-| bip_39_word_new_br8 | damp<br>history<br>proud<br>slight<br>dinner<br>damage<br>ship<br>gorilla |  
-| bip_39_word_new_br9 | damp<br>history<br>proud<br>slight<br>dinner<br>damage<br>ship<br>gorilla<br>island |  
-| bip_39_word_new_line1 | damp |  
-| bip_39_word_new_line10 | damp
+| bip_39_word_new_br_1 | damp |  
+| bip_39_word_new_br_10 | damp<br>history<br>proud<br>slight<br>dinner<br>damage<br>ship<br>gorilla<br>island<br>solution |  
+| bip_39_word_new_br_11 | damp<br>history<br>proud<br>slight<br>dinner<br>damage<br>ship<br>gorilla<br>island<br>solution<br>radio |  
+| bip_39_word_new_br_12 | damp<br>history<br>proud<br>slight<br>dinner<br>damage<br>ship<br>gorilla<br>island<br>solution<br>radio<br>auction |  
+| bip_39_word_new_br_2 | damp<br>history |  
+| bip_39_word_new_br_3 | damp<br>history<br>proud |  
+| bip_39_word_new_br_4 | damp<br>history<br>proud<br>slight |  
+| bip_39_word_new_br_5 | damp<br>history<br>proud<br>slight<br>dinner |  
+| bip_39_word_new_br_6 | damp<br>history<br>proud<br>slight<br>dinner<br>damage |  
+| bip_39_word_new_br_7 | damp<br>history<br>proud<br>slight<br>dinner<br>damage<br>ship |  
+| bip_39_word_new_br_8 | damp<br>history<br>proud<br>slight<br>dinner<br>damage<br>ship<br>gorilla |  
+| bip_39_word_new_br_9 | damp<br>history<br>proud<br>slight<br>dinner<br>damage<br>ship<br>gorilla<br>island |  
+| bip_39_word_new_line_1 | damp |  
+| bip_39_word_new_line_10 | damp
 history
 proud
 slight
@@ -55,7 +55,7 @@ ship
 gorilla
 island
 solution |  
-| bip_39_word_new_line11 | damp
+| bip_39_word_new_line_11 | damp
 history
 proud
 slight
@@ -66,7 +66,7 @@ gorilla
 island
 solution
 radio |  
-| bip_39_word_new_line12 | damp
+| bip_39_word_new_line_12 | damp
 history
 proud
 slight
@@ -78,34 +78,34 @@ island
 solution
 radio
 auction |  
-| bip_39_word_new_line2 | damp
+| bip_39_word_new_line_2 | damp
 history |  
-| bip_39_word_new_line3 | damp
+| bip_39_word_new_line_3 | damp
 history
 proud |  
-| bip_39_word_new_line4 | damp
+| bip_39_word_new_line_4 | damp
 history
 proud
 slight |  
-| bip_39_word_new_line5 | damp
+| bip_39_word_new_line_5 | damp
 history
 proud
 slight
 dinner |  
-| bip_39_word_new_line6 | damp
+| bip_39_word_new_line_6 | damp
 history
 proud
 slight
 dinner
 damage |  
-| bip_39_word_new_line7 | damp
+| bip_39_word_new_line_7 | damp
 history
 proud
 slight
 dinner
 damage
 ship |  
-| bip_39_word_new_line8 | damp
+| bip_39_word_new_line_8 | damp
 history
 proud
 slight
@@ -113,7 +113,7 @@ dinner
 damage
 ship
 gorilla |  
-| bip_39_word_new_line9 | damp
+| bip_39_word_new_line_9 | damp
 history
 proud
 slight

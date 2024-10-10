@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | uphold |  
-| bip_39_word_new_br10 | uphold<br>minimum<br>lecture<br>job<br>become<br>avoid<br>smoke<br>fortune<br>holiday<br>enter |  
-| bip_39_word_new_br11 | uphold<br>minimum<br>lecture<br>job<br>become<br>avoid<br>smoke<br>fortune<br>holiday<br>enter<br>obey |  
-| bip_39_word_new_br12 | uphold<br>minimum<br>lecture<br>job<br>become<br>avoid<br>smoke<br>fortune<br>holiday<br>enter<br>obey<br>athlete |  
-| bip_39_word_new_br2 | uphold<br>minimum |  
-| bip_39_word_new_br3 | uphold<br>minimum<br>lecture |  
-| bip_39_word_new_br4 | uphold<br>minimum<br>lecture<br>job |  
-| bip_39_word_new_br5 | uphold<br>minimum<br>lecture<br>job<br>become |  
-| bip_39_word_new_br6 | uphold<br>minimum<br>lecture<br>job<br>become<br>avoid |  
-| bip_39_word_new_br7 | uphold<br>minimum<br>lecture<br>job<br>become<br>avoid<br>smoke |  
-| bip_39_word_new_br8 | uphold<br>minimum<br>lecture<br>job<br>become<br>avoid<br>smoke<br>fortune |  
-| bip_39_word_new_br9 | uphold<br>minimum<br>lecture<br>job<br>become<br>avoid<br>smoke<br>fortune<br>holiday |  
-| bip_39_word_new_line1 | uphold |  
-| bip_39_word_new_line10 | uphold
+| bip_39_word_new_br_1 | uphold |  
+| bip_39_word_new_br_10 | uphold<br>minimum<br>lecture<br>job<br>become<br>avoid<br>smoke<br>fortune<br>holiday<br>enter |  
+| bip_39_word_new_br_11 | uphold<br>minimum<br>lecture<br>job<br>become<br>avoid<br>smoke<br>fortune<br>holiday<br>enter<br>obey |  
+| bip_39_word_new_br_12 | uphold<br>minimum<br>lecture<br>job<br>become<br>avoid<br>smoke<br>fortune<br>holiday<br>enter<br>obey<br>athlete |  
+| bip_39_word_new_br_2 | uphold<br>minimum |  
+| bip_39_word_new_br_3 | uphold<br>minimum<br>lecture |  
+| bip_39_word_new_br_4 | uphold<br>minimum<br>lecture<br>job |  
+| bip_39_word_new_br_5 | uphold<br>minimum<br>lecture<br>job<br>become |  
+| bip_39_word_new_br_6 | uphold<br>minimum<br>lecture<br>job<br>become<br>avoid |  
+| bip_39_word_new_br_7 | uphold<br>minimum<br>lecture<br>job<br>become<br>avoid<br>smoke |  
+| bip_39_word_new_br_8 | uphold<br>minimum<br>lecture<br>job<br>become<br>avoid<br>smoke<br>fortune |  
+| bip_39_word_new_br_9 | uphold<br>minimum<br>lecture<br>job<br>become<br>avoid<br>smoke<br>fortune<br>holiday |  
+| bip_39_word_new_line_1 | uphold |  
+| bip_39_word_new_line_10 | uphold
 minimum
 lecture
 job
@@ -55,7 +55,7 @@ smoke
 fortune
 holiday
 enter |  
-| bip_39_word_new_line11 | uphold
+| bip_39_word_new_line_11 | uphold
 minimum
 lecture
 job
@@ -66,7 +66,7 @@ fortune
 holiday
 enter
 obey |  
-| bip_39_word_new_line12 | uphold
+| bip_39_word_new_line_12 | uphold
 minimum
 lecture
 job
@@ -78,34 +78,34 @@ holiday
 enter
 obey
 athlete |  
-| bip_39_word_new_line2 | uphold
+| bip_39_word_new_line_2 | uphold
 minimum |  
-| bip_39_word_new_line3 | uphold
+| bip_39_word_new_line_3 | uphold
 minimum
 lecture |  
-| bip_39_word_new_line4 | uphold
+| bip_39_word_new_line_4 | uphold
 minimum
 lecture
 job |  
-| bip_39_word_new_line5 | uphold
+| bip_39_word_new_line_5 | uphold
 minimum
 lecture
 job
 become |  
-| bip_39_word_new_line6 | uphold
+| bip_39_word_new_line_6 | uphold
 minimum
 lecture
 job
 become
 avoid |  
-| bip_39_word_new_line7 | uphold
+| bip_39_word_new_line_7 | uphold
 minimum
 lecture
 job
 become
 avoid
 smoke |  
-| bip_39_word_new_line8 | uphold
+| bip_39_word_new_line_8 | uphold
 minimum
 lecture
 job
@@ -113,7 +113,7 @@ become
 avoid
 smoke
 fortune |  
-| bip_39_word_new_line9 | uphold
+| bip_39_word_new_line_9 | uphold
 minimum
 lecture
 job

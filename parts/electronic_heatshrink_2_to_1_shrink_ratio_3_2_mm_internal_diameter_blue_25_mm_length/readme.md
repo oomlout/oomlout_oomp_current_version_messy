@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | must |  
-| bip_39_word_new_br10 | must<br>walnut<br>lady<br>will<br>suggest<br>sibling<br>swamp<br>tent<br>fun<br>pistol |  
-| bip_39_word_new_br11 | must<br>walnut<br>lady<br>will<br>suggest<br>sibling<br>swamp<br>tent<br>fun<br>pistol<br>festival |  
-| bip_39_word_new_br12 | must<br>walnut<br>lady<br>will<br>suggest<br>sibling<br>swamp<br>tent<br>fun<br>pistol<br>festival<br>ankle |  
-| bip_39_word_new_br2 | must<br>walnut |  
-| bip_39_word_new_br3 | must<br>walnut<br>lady |  
-| bip_39_word_new_br4 | must<br>walnut<br>lady<br>will |  
-| bip_39_word_new_br5 | must<br>walnut<br>lady<br>will<br>suggest |  
-| bip_39_word_new_br6 | must<br>walnut<br>lady<br>will<br>suggest<br>sibling |  
-| bip_39_word_new_br7 | must<br>walnut<br>lady<br>will<br>suggest<br>sibling<br>swamp |  
-| bip_39_word_new_br8 | must<br>walnut<br>lady<br>will<br>suggest<br>sibling<br>swamp<br>tent |  
-| bip_39_word_new_br9 | must<br>walnut<br>lady<br>will<br>suggest<br>sibling<br>swamp<br>tent<br>fun |  
-| bip_39_word_new_line1 | must |  
-| bip_39_word_new_line10 | must
+| bip_39_word_new_br_1 | must |  
+| bip_39_word_new_br_10 | must<br>walnut<br>lady<br>will<br>suggest<br>sibling<br>swamp<br>tent<br>fun<br>pistol |  
+| bip_39_word_new_br_11 | must<br>walnut<br>lady<br>will<br>suggest<br>sibling<br>swamp<br>tent<br>fun<br>pistol<br>festival |  
+| bip_39_word_new_br_12 | must<br>walnut<br>lady<br>will<br>suggest<br>sibling<br>swamp<br>tent<br>fun<br>pistol<br>festival<br>ankle |  
+| bip_39_word_new_br_2 | must<br>walnut |  
+| bip_39_word_new_br_3 | must<br>walnut<br>lady |  
+| bip_39_word_new_br_4 | must<br>walnut<br>lady<br>will |  
+| bip_39_word_new_br_5 | must<br>walnut<br>lady<br>will<br>suggest |  
+| bip_39_word_new_br_6 | must<br>walnut<br>lady<br>will<br>suggest<br>sibling |  
+| bip_39_word_new_br_7 | must<br>walnut<br>lady<br>will<br>suggest<br>sibling<br>swamp |  
+| bip_39_word_new_br_8 | must<br>walnut<br>lady<br>will<br>suggest<br>sibling<br>swamp<br>tent |  
+| bip_39_word_new_br_9 | must<br>walnut<br>lady<br>will<br>suggest<br>sibling<br>swamp<br>tent<br>fun |  
+| bip_39_word_new_line_1 | must |  
+| bip_39_word_new_line_10 | must
 walnut
 lady
 will
@@ -55,7 +55,7 @@ swamp
 tent
 fun
 pistol |  
-| bip_39_word_new_line11 | must
+| bip_39_word_new_line_11 | must
 walnut
 lady
 will
@@ -66,7 +66,7 @@ tent
 fun
 pistol
 festival |  
-| bip_39_word_new_line12 | must
+| bip_39_word_new_line_12 | must
 walnut
 lady
 will
@@ -78,34 +78,34 @@ fun
 pistol
 festival
 ankle |  
-| bip_39_word_new_line2 | must
+| bip_39_word_new_line_2 | must
 walnut |  
-| bip_39_word_new_line3 | must
+| bip_39_word_new_line_3 | must
 walnut
 lady |  
-| bip_39_word_new_line4 | must
+| bip_39_word_new_line_4 | must
 walnut
 lady
 will |  
-| bip_39_word_new_line5 | must
+| bip_39_word_new_line_5 | must
 walnut
 lady
 will
 suggest |  
-| bip_39_word_new_line6 | must
+| bip_39_word_new_line_6 | must
 walnut
 lady
 will
 suggest
 sibling |  
-| bip_39_word_new_line7 | must
+| bip_39_word_new_line_7 | must
 walnut
 lady
 will
 suggest
 sibling
 swamp |  
-| bip_39_word_new_line8 | must
+| bip_39_word_new_line_8 | must
 walnut
 lady
 will
@@ -113,7 +113,7 @@ suggest
 sibling
 swamp
 tent |  
-| bip_39_word_new_line9 | must
+| bip_39_word_new_line_9 | must
 walnut
 lady
 will

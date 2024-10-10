@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | home |  
-| bip_39_word_new_br10 | home<br>rebel<br>large<br>cricket<br>alien<br>reward<br>trend<br>health<br>seat<br>dizzy |  
-| bip_39_word_new_br11 | home<br>rebel<br>large<br>cricket<br>alien<br>reward<br>trend<br>health<br>seat<br>dizzy<br>truth |  
-| bip_39_word_new_br12 | home<br>rebel<br>large<br>cricket<br>alien<br>reward<br>trend<br>health<br>seat<br>dizzy<br>truth<br>agree |  
-| bip_39_word_new_br2 | home<br>rebel |  
-| bip_39_word_new_br3 | home<br>rebel<br>large |  
-| bip_39_word_new_br4 | home<br>rebel<br>large<br>cricket |  
-| bip_39_word_new_br5 | home<br>rebel<br>large<br>cricket<br>alien |  
-| bip_39_word_new_br6 | home<br>rebel<br>large<br>cricket<br>alien<br>reward |  
-| bip_39_word_new_br7 | home<br>rebel<br>large<br>cricket<br>alien<br>reward<br>trend |  
-| bip_39_word_new_br8 | home<br>rebel<br>large<br>cricket<br>alien<br>reward<br>trend<br>health |  
-| bip_39_word_new_br9 | home<br>rebel<br>large<br>cricket<br>alien<br>reward<br>trend<br>health<br>seat |  
-| bip_39_word_new_line1 | home |  
-| bip_39_word_new_line10 | home
+| bip_39_word_new_br_1 | home |  
+| bip_39_word_new_br_10 | home<br>rebel<br>large<br>cricket<br>alien<br>reward<br>trend<br>health<br>seat<br>dizzy |  
+| bip_39_word_new_br_11 | home<br>rebel<br>large<br>cricket<br>alien<br>reward<br>trend<br>health<br>seat<br>dizzy<br>truth |  
+| bip_39_word_new_br_12 | home<br>rebel<br>large<br>cricket<br>alien<br>reward<br>trend<br>health<br>seat<br>dizzy<br>truth<br>agree |  
+| bip_39_word_new_br_2 | home<br>rebel |  
+| bip_39_word_new_br_3 | home<br>rebel<br>large |  
+| bip_39_word_new_br_4 | home<br>rebel<br>large<br>cricket |  
+| bip_39_word_new_br_5 | home<br>rebel<br>large<br>cricket<br>alien |  
+| bip_39_word_new_br_6 | home<br>rebel<br>large<br>cricket<br>alien<br>reward |  
+| bip_39_word_new_br_7 | home<br>rebel<br>large<br>cricket<br>alien<br>reward<br>trend |  
+| bip_39_word_new_br_8 | home<br>rebel<br>large<br>cricket<br>alien<br>reward<br>trend<br>health |  
+| bip_39_word_new_br_9 | home<br>rebel<br>large<br>cricket<br>alien<br>reward<br>trend<br>health<br>seat |  
+| bip_39_word_new_line_1 | home |  
+| bip_39_word_new_line_10 | home
 rebel
 large
 cricket
@@ -55,7 +55,7 @@ trend
 health
 seat
 dizzy |  
-| bip_39_word_new_line11 | home
+| bip_39_word_new_line_11 | home
 rebel
 large
 cricket
@@ -66,7 +66,7 @@ health
 seat
 dizzy
 truth |  
-| bip_39_word_new_line12 | home
+| bip_39_word_new_line_12 | home
 rebel
 large
 cricket
@@ -78,34 +78,34 @@ seat
 dizzy
 truth
 agree |  
-| bip_39_word_new_line2 | home
+| bip_39_word_new_line_2 | home
 rebel |  
-| bip_39_word_new_line3 | home
+| bip_39_word_new_line_3 | home
 rebel
 large |  
-| bip_39_word_new_line4 | home
+| bip_39_word_new_line_4 | home
 rebel
 large
 cricket |  
-| bip_39_word_new_line5 | home
+| bip_39_word_new_line_5 | home
 rebel
 large
 cricket
 alien |  
-| bip_39_word_new_line6 | home
+| bip_39_word_new_line_6 | home
 rebel
 large
 cricket
 alien
 reward |  
-| bip_39_word_new_line7 | home
+| bip_39_word_new_line_7 | home
 rebel
 large
 cricket
 alien
 reward
 trend |  
-| bip_39_word_new_line8 | home
+| bip_39_word_new_line_8 | home
 rebel
 large
 cricket
@@ -113,7 +113,7 @@ alien
 reward
 trend
 health |  
-| bip_39_word_new_line9 | home
+| bip_39_word_new_line_9 | home
 rebel
 large
 cricket

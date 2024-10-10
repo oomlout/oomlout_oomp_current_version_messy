@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | secret |  
-| bip_39_word_new_br10 | secret<br>radar<br>steel<br>among<br>viable<br>boat<br>monster<br>prize<br>romance<br>blouse |  
-| bip_39_word_new_br11 | secret<br>radar<br>steel<br>among<br>viable<br>boat<br>monster<br>prize<br>romance<br>blouse<br>fitness |  
-| bip_39_word_new_br12 | secret<br>radar<br>steel<br>among<br>viable<br>boat<br>monster<br>prize<br>romance<br>blouse<br>fitness<br>arrest |  
-| bip_39_word_new_br2 | secret<br>radar |  
-| bip_39_word_new_br3 | secret<br>radar<br>steel |  
-| bip_39_word_new_br4 | secret<br>radar<br>steel<br>among |  
-| bip_39_word_new_br5 | secret<br>radar<br>steel<br>among<br>viable |  
-| bip_39_word_new_br6 | secret<br>radar<br>steel<br>among<br>viable<br>boat |  
-| bip_39_word_new_br7 | secret<br>radar<br>steel<br>among<br>viable<br>boat<br>monster |  
-| bip_39_word_new_br8 | secret<br>radar<br>steel<br>among<br>viable<br>boat<br>monster<br>prize |  
-| bip_39_word_new_br9 | secret<br>radar<br>steel<br>among<br>viable<br>boat<br>monster<br>prize<br>romance |  
-| bip_39_word_new_line1 | secret |  
-| bip_39_word_new_line10 | secret
+| bip_39_word_new_br_1 | secret |  
+| bip_39_word_new_br_10 | secret<br>radar<br>steel<br>among<br>viable<br>boat<br>monster<br>prize<br>romance<br>blouse |  
+| bip_39_word_new_br_11 | secret<br>radar<br>steel<br>among<br>viable<br>boat<br>monster<br>prize<br>romance<br>blouse<br>fitness |  
+| bip_39_word_new_br_12 | secret<br>radar<br>steel<br>among<br>viable<br>boat<br>monster<br>prize<br>romance<br>blouse<br>fitness<br>arrest |  
+| bip_39_word_new_br_2 | secret<br>radar |  
+| bip_39_word_new_br_3 | secret<br>radar<br>steel |  
+| bip_39_word_new_br_4 | secret<br>radar<br>steel<br>among |  
+| bip_39_word_new_br_5 | secret<br>radar<br>steel<br>among<br>viable |  
+| bip_39_word_new_br_6 | secret<br>radar<br>steel<br>among<br>viable<br>boat |  
+| bip_39_word_new_br_7 | secret<br>radar<br>steel<br>among<br>viable<br>boat<br>monster |  
+| bip_39_word_new_br_8 | secret<br>radar<br>steel<br>among<br>viable<br>boat<br>monster<br>prize |  
+| bip_39_word_new_br_9 | secret<br>radar<br>steel<br>among<br>viable<br>boat<br>monster<br>prize<br>romance |  
+| bip_39_word_new_line_1 | secret |  
+| bip_39_word_new_line_10 | secret
 radar
 steel
 among
@@ -55,7 +55,7 @@ monster
 prize
 romance
 blouse |  
-| bip_39_word_new_line11 | secret
+| bip_39_word_new_line_11 | secret
 radar
 steel
 among
@@ -66,7 +66,7 @@ prize
 romance
 blouse
 fitness |  
-| bip_39_word_new_line12 | secret
+| bip_39_word_new_line_12 | secret
 radar
 steel
 among
@@ -78,34 +78,34 @@ romance
 blouse
 fitness
 arrest |  
-| bip_39_word_new_line2 | secret
+| bip_39_word_new_line_2 | secret
 radar |  
-| bip_39_word_new_line3 | secret
+| bip_39_word_new_line_3 | secret
 radar
 steel |  
-| bip_39_word_new_line4 | secret
+| bip_39_word_new_line_4 | secret
 radar
 steel
 among |  
-| bip_39_word_new_line5 | secret
+| bip_39_word_new_line_5 | secret
 radar
 steel
 among
 viable |  
-| bip_39_word_new_line6 | secret
+| bip_39_word_new_line_6 | secret
 radar
 steel
 among
 viable
 boat |  
-| bip_39_word_new_line7 | secret
+| bip_39_word_new_line_7 | secret
 radar
 steel
 among
 viable
 boat
 monster |  
-| bip_39_word_new_line8 | secret
+| bip_39_word_new_line_8 | secret
 radar
 steel
 among
@@ -113,7 +113,7 @@ viable
 boat
 monster
 prize |  
-| bip_39_word_new_line9 | secret
+| bip_39_word_new_line_9 | secret
 radar
 steel
 among

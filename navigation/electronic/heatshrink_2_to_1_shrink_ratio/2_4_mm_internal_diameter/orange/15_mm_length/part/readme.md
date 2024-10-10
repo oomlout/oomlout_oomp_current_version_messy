@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | trick |  
-| bip_39_word_new_br10 | trick<br>enter<br>gossip<br>captain<br>moral<br>speak<br>wrestle<br>sustain<br>luxury<br>option |  
-| bip_39_word_new_br11 | trick<br>enter<br>gossip<br>captain<br>moral<br>speak<br>wrestle<br>sustain<br>luxury<br>option<br>chair |  
-| bip_39_word_new_br12 | trick<br>enter<br>gossip<br>captain<br>moral<br>speak<br>wrestle<br>sustain<br>luxury<br>option<br>chair<br>attend |  
-| bip_39_word_new_br2 | trick<br>enter |  
-| bip_39_word_new_br3 | trick<br>enter<br>gossip |  
-| bip_39_word_new_br4 | trick<br>enter<br>gossip<br>captain |  
-| bip_39_word_new_br5 | trick<br>enter<br>gossip<br>captain<br>moral |  
-| bip_39_word_new_br6 | trick<br>enter<br>gossip<br>captain<br>moral<br>speak |  
-| bip_39_word_new_br7 | trick<br>enter<br>gossip<br>captain<br>moral<br>speak<br>wrestle |  
-| bip_39_word_new_br8 | trick<br>enter<br>gossip<br>captain<br>moral<br>speak<br>wrestle<br>sustain |  
-| bip_39_word_new_br9 | trick<br>enter<br>gossip<br>captain<br>moral<br>speak<br>wrestle<br>sustain<br>luxury |  
-| bip_39_word_new_line1 | trick |  
-| bip_39_word_new_line10 | trick
+| bip_39_word_new_br_1 | trick |  
+| bip_39_word_new_br_10 | trick<br>enter<br>gossip<br>captain<br>moral<br>speak<br>wrestle<br>sustain<br>luxury<br>option |  
+| bip_39_word_new_br_11 | trick<br>enter<br>gossip<br>captain<br>moral<br>speak<br>wrestle<br>sustain<br>luxury<br>option<br>chair |  
+| bip_39_word_new_br_12 | trick<br>enter<br>gossip<br>captain<br>moral<br>speak<br>wrestle<br>sustain<br>luxury<br>option<br>chair<br>attend |  
+| bip_39_word_new_br_2 | trick<br>enter |  
+| bip_39_word_new_br_3 | trick<br>enter<br>gossip |  
+| bip_39_word_new_br_4 | trick<br>enter<br>gossip<br>captain |  
+| bip_39_word_new_br_5 | trick<br>enter<br>gossip<br>captain<br>moral |  
+| bip_39_word_new_br_6 | trick<br>enter<br>gossip<br>captain<br>moral<br>speak |  
+| bip_39_word_new_br_7 | trick<br>enter<br>gossip<br>captain<br>moral<br>speak<br>wrestle |  
+| bip_39_word_new_br_8 | trick<br>enter<br>gossip<br>captain<br>moral<br>speak<br>wrestle<br>sustain |  
+| bip_39_word_new_br_9 | trick<br>enter<br>gossip<br>captain<br>moral<br>speak<br>wrestle<br>sustain<br>luxury |  
+| bip_39_word_new_line_1 | trick |  
+| bip_39_word_new_line_10 | trick
 enter
 gossip
 captain
@@ -55,7 +55,7 @@ wrestle
 sustain
 luxury
 option |  
-| bip_39_word_new_line11 | trick
+| bip_39_word_new_line_11 | trick
 enter
 gossip
 captain
@@ -66,7 +66,7 @@ sustain
 luxury
 option
 chair |  
-| bip_39_word_new_line12 | trick
+| bip_39_word_new_line_12 | trick
 enter
 gossip
 captain
@@ -78,34 +78,34 @@ luxury
 option
 chair
 attend |  
-| bip_39_word_new_line2 | trick
+| bip_39_word_new_line_2 | trick
 enter |  
-| bip_39_word_new_line3 | trick
+| bip_39_word_new_line_3 | trick
 enter
 gossip |  
-| bip_39_word_new_line4 | trick
+| bip_39_word_new_line_4 | trick
 enter
 gossip
 captain |  
-| bip_39_word_new_line5 | trick
+| bip_39_word_new_line_5 | trick
 enter
 gossip
 captain
 moral |  
-| bip_39_word_new_line6 | trick
+| bip_39_word_new_line_6 | trick
 enter
 gossip
 captain
 moral
 speak |  
-| bip_39_word_new_line7 | trick
+| bip_39_word_new_line_7 | trick
 enter
 gossip
 captain
 moral
 speak
 wrestle |  
-| bip_39_word_new_line8 | trick
+| bip_39_word_new_line_8 | trick
 enter
 gossip
 captain
@@ -113,7 +113,7 @@ moral
 speak
 wrestle
 sustain |  
-| bip_39_word_new_line9 | trick
+| bip_39_word_new_line_9 | trick
 enter
 gossip
 captain

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wet |  
-| bip_39_word_new_br10 | wet<br>reward<br>glow<br>melody<br>ride<br>lyrics<br>opinion<br>anchor<br>rude<br>actor |  
-| bip_39_word_new_br11 | wet<br>reward<br>glow<br>melody<br>ride<br>lyrics<br>opinion<br>anchor<br>rude<br>actor<br>zoo |  
-| bip_39_word_new_br12 | wet<br>reward<br>glow<br>melody<br>ride<br>lyrics<br>opinion<br>anchor<br>rude<br>actor<br>zoo<br>apple |  
-| bip_39_word_new_br2 | wet<br>reward |  
-| bip_39_word_new_br3 | wet<br>reward<br>glow |  
-| bip_39_word_new_br4 | wet<br>reward<br>glow<br>melody |  
-| bip_39_word_new_br5 | wet<br>reward<br>glow<br>melody<br>ride |  
-| bip_39_word_new_br6 | wet<br>reward<br>glow<br>melody<br>ride<br>lyrics |  
-| bip_39_word_new_br7 | wet<br>reward<br>glow<br>melody<br>ride<br>lyrics<br>opinion |  
-| bip_39_word_new_br8 | wet<br>reward<br>glow<br>melody<br>ride<br>lyrics<br>opinion<br>anchor |  
-| bip_39_word_new_br9 | wet<br>reward<br>glow<br>melody<br>ride<br>lyrics<br>opinion<br>anchor<br>rude |  
-| bip_39_word_new_line1 | wet |  
-| bip_39_word_new_line10 | wet
+| bip_39_word_new_br_1 | wet |  
+| bip_39_word_new_br_10 | wet<br>reward<br>glow<br>melody<br>ride<br>lyrics<br>opinion<br>anchor<br>rude<br>actor |  
+| bip_39_word_new_br_11 | wet<br>reward<br>glow<br>melody<br>ride<br>lyrics<br>opinion<br>anchor<br>rude<br>actor<br>zoo |  
+| bip_39_word_new_br_12 | wet<br>reward<br>glow<br>melody<br>ride<br>lyrics<br>opinion<br>anchor<br>rude<br>actor<br>zoo<br>apple |  
+| bip_39_word_new_br_2 | wet<br>reward |  
+| bip_39_word_new_br_3 | wet<br>reward<br>glow |  
+| bip_39_word_new_br_4 | wet<br>reward<br>glow<br>melody |  
+| bip_39_word_new_br_5 | wet<br>reward<br>glow<br>melody<br>ride |  
+| bip_39_word_new_br_6 | wet<br>reward<br>glow<br>melody<br>ride<br>lyrics |  
+| bip_39_word_new_br_7 | wet<br>reward<br>glow<br>melody<br>ride<br>lyrics<br>opinion |  
+| bip_39_word_new_br_8 | wet<br>reward<br>glow<br>melody<br>ride<br>lyrics<br>opinion<br>anchor |  
+| bip_39_word_new_br_9 | wet<br>reward<br>glow<br>melody<br>ride<br>lyrics<br>opinion<br>anchor<br>rude |  
+| bip_39_word_new_line_1 | wet |  
+| bip_39_word_new_line_10 | wet
 reward
 glow
 melody
@@ -55,7 +55,7 @@ opinion
 anchor
 rude
 actor |  
-| bip_39_word_new_line11 | wet
+| bip_39_word_new_line_11 | wet
 reward
 glow
 melody
@@ -66,7 +66,7 @@ anchor
 rude
 actor
 zoo |  
-| bip_39_word_new_line12 | wet
+| bip_39_word_new_line_12 | wet
 reward
 glow
 melody
@@ -78,34 +78,34 @@ rude
 actor
 zoo
 apple |  
-| bip_39_word_new_line2 | wet
+| bip_39_word_new_line_2 | wet
 reward |  
-| bip_39_word_new_line3 | wet
+| bip_39_word_new_line_3 | wet
 reward
 glow |  
-| bip_39_word_new_line4 | wet
+| bip_39_word_new_line_4 | wet
 reward
 glow
 melody |  
-| bip_39_word_new_line5 | wet
+| bip_39_word_new_line_5 | wet
 reward
 glow
 melody
 ride |  
-| bip_39_word_new_line6 | wet
+| bip_39_word_new_line_6 | wet
 reward
 glow
 melody
 ride
 lyrics |  
-| bip_39_word_new_line7 | wet
+| bip_39_word_new_line_7 | wet
 reward
 glow
 melody
 ride
 lyrics
 opinion |  
-| bip_39_word_new_line8 | wet
+| bip_39_word_new_line_8 | wet
 reward
 glow
 melody
@@ -113,7 +113,7 @@ ride
 lyrics
 opinion
 anchor |  
-| bip_39_word_new_line9 | wet
+| bip_39_word_new_line_9 | wet
 reward
 glow
 melody

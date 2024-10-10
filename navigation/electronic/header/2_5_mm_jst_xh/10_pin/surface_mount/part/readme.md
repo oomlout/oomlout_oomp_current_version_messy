@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | develop |  
-| bip_39_word_new_br10 | develop<br>blanket<br>trap<br>pottery<br>jaguar<br>liberty<br>giraffe<br>wheel<br>clerk<br>lumber |  
-| bip_39_word_new_br11 | develop<br>blanket<br>trap<br>pottery<br>jaguar<br>liberty<br>giraffe<br>wheel<br>clerk<br>lumber<br>parent |  
-| bip_39_word_new_br12 | develop<br>blanket<br>trap<br>pottery<br>jaguar<br>liberty<br>giraffe<br>wheel<br>clerk<br>lumber<br>parent<br>alarm |  
-| bip_39_word_new_br2 | develop<br>blanket |  
-| bip_39_word_new_br3 | develop<br>blanket<br>trap |  
-| bip_39_word_new_br4 | develop<br>blanket<br>trap<br>pottery |  
-| bip_39_word_new_br5 | develop<br>blanket<br>trap<br>pottery<br>jaguar |  
-| bip_39_word_new_br6 | develop<br>blanket<br>trap<br>pottery<br>jaguar<br>liberty |  
-| bip_39_word_new_br7 | develop<br>blanket<br>trap<br>pottery<br>jaguar<br>liberty<br>giraffe |  
-| bip_39_word_new_br8 | develop<br>blanket<br>trap<br>pottery<br>jaguar<br>liberty<br>giraffe<br>wheel |  
-| bip_39_word_new_br9 | develop<br>blanket<br>trap<br>pottery<br>jaguar<br>liberty<br>giraffe<br>wheel<br>clerk |  
-| bip_39_word_new_line1 | develop |  
-| bip_39_word_new_line10 | develop
+| bip_39_word_new_br_1 | develop |  
+| bip_39_word_new_br_10 | develop<br>blanket<br>trap<br>pottery<br>jaguar<br>liberty<br>giraffe<br>wheel<br>clerk<br>lumber |  
+| bip_39_word_new_br_11 | develop<br>blanket<br>trap<br>pottery<br>jaguar<br>liberty<br>giraffe<br>wheel<br>clerk<br>lumber<br>parent |  
+| bip_39_word_new_br_12 | develop<br>blanket<br>trap<br>pottery<br>jaguar<br>liberty<br>giraffe<br>wheel<br>clerk<br>lumber<br>parent<br>alarm |  
+| bip_39_word_new_br_2 | develop<br>blanket |  
+| bip_39_word_new_br_3 | develop<br>blanket<br>trap |  
+| bip_39_word_new_br_4 | develop<br>blanket<br>trap<br>pottery |  
+| bip_39_word_new_br_5 | develop<br>blanket<br>trap<br>pottery<br>jaguar |  
+| bip_39_word_new_br_6 | develop<br>blanket<br>trap<br>pottery<br>jaguar<br>liberty |  
+| bip_39_word_new_br_7 | develop<br>blanket<br>trap<br>pottery<br>jaguar<br>liberty<br>giraffe |  
+| bip_39_word_new_br_8 | develop<br>blanket<br>trap<br>pottery<br>jaguar<br>liberty<br>giraffe<br>wheel |  
+| bip_39_word_new_br_9 | develop<br>blanket<br>trap<br>pottery<br>jaguar<br>liberty<br>giraffe<br>wheel<br>clerk |  
+| bip_39_word_new_line_1 | develop |  
+| bip_39_word_new_line_10 | develop
 blanket
 trap
 pottery
@@ -55,7 +55,7 @@ giraffe
 wheel
 clerk
 lumber |  
-| bip_39_word_new_line11 | develop
+| bip_39_word_new_line_11 | develop
 blanket
 trap
 pottery
@@ -66,7 +66,7 @@ wheel
 clerk
 lumber
 parent |  
-| bip_39_word_new_line12 | develop
+| bip_39_word_new_line_12 | develop
 blanket
 trap
 pottery
@@ -78,34 +78,34 @@ clerk
 lumber
 parent
 alarm |  
-| bip_39_word_new_line2 | develop
+| bip_39_word_new_line_2 | develop
 blanket |  
-| bip_39_word_new_line3 | develop
+| bip_39_word_new_line_3 | develop
 blanket
 trap |  
-| bip_39_word_new_line4 | develop
+| bip_39_word_new_line_4 | develop
 blanket
 trap
 pottery |  
-| bip_39_word_new_line5 | develop
+| bip_39_word_new_line_5 | develop
 blanket
 trap
 pottery
 jaguar |  
-| bip_39_word_new_line6 | develop
+| bip_39_word_new_line_6 | develop
 blanket
 trap
 pottery
 jaguar
 liberty |  
-| bip_39_word_new_line7 | develop
+| bip_39_word_new_line_7 | develop
 blanket
 trap
 pottery
 jaguar
 liberty
 giraffe |  
-| bip_39_word_new_line8 | develop
+| bip_39_word_new_line_8 | develop
 blanket
 trap
 pottery
@@ -113,7 +113,7 @@ jaguar
 liberty
 giraffe
 wheel |  
-| bip_39_word_new_line9 | develop
+| bip_39_word_new_line_9 | develop
 blanket
 trap
 pottery

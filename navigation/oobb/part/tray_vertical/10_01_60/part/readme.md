@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | false |  
-| bip_39_word_new_br10 | false<br>talent<br>gown<br>dumb<br>faith<br>arch<br>camera<br>nominee<br>panic<br>core |  
-| bip_39_word_new_br11 | false<br>talent<br>gown<br>dumb<br>faith<br>arch<br>camera<br>nominee<br>panic<br>core<br>jar |  
-| bip_39_word_new_br12 | false<br>talent<br>gown<br>dumb<br>faith<br>arch<br>camera<br>nominee<br>panic<br>core<br>jar<br>atom |  
-| bip_39_word_new_br2 | false<br>talent |  
-| bip_39_word_new_br3 | false<br>talent<br>gown |  
-| bip_39_word_new_br4 | false<br>talent<br>gown<br>dumb |  
-| bip_39_word_new_br5 | false<br>talent<br>gown<br>dumb<br>faith |  
-| bip_39_word_new_br6 | false<br>talent<br>gown<br>dumb<br>faith<br>arch |  
-| bip_39_word_new_br7 | false<br>talent<br>gown<br>dumb<br>faith<br>arch<br>camera |  
-| bip_39_word_new_br8 | false<br>talent<br>gown<br>dumb<br>faith<br>arch<br>camera<br>nominee |  
-| bip_39_word_new_br9 | false<br>talent<br>gown<br>dumb<br>faith<br>arch<br>camera<br>nominee<br>panic |  
-| bip_39_word_new_line1 | false |  
-| bip_39_word_new_line10 | false
+| bip_39_word_new_br_1 | false |  
+| bip_39_word_new_br_10 | false<br>talent<br>gown<br>dumb<br>faith<br>arch<br>camera<br>nominee<br>panic<br>core |  
+| bip_39_word_new_br_11 | false<br>talent<br>gown<br>dumb<br>faith<br>arch<br>camera<br>nominee<br>panic<br>core<br>jar |  
+| bip_39_word_new_br_12 | false<br>talent<br>gown<br>dumb<br>faith<br>arch<br>camera<br>nominee<br>panic<br>core<br>jar<br>atom |  
+| bip_39_word_new_br_2 | false<br>talent |  
+| bip_39_word_new_br_3 | false<br>talent<br>gown |  
+| bip_39_word_new_br_4 | false<br>talent<br>gown<br>dumb |  
+| bip_39_word_new_br_5 | false<br>talent<br>gown<br>dumb<br>faith |  
+| bip_39_word_new_br_6 | false<br>talent<br>gown<br>dumb<br>faith<br>arch |  
+| bip_39_word_new_br_7 | false<br>talent<br>gown<br>dumb<br>faith<br>arch<br>camera |  
+| bip_39_word_new_br_8 | false<br>talent<br>gown<br>dumb<br>faith<br>arch<br>camera<br>nominee |  
+| bip_39_word_new_br_9 | false<br>talent<br>gown<br>dumb<br>faith<br>arch<br>camera<br>nominee<br>panic |  
+| bip_39_word_new_line_1 | false |  
+| bip_39_word_new_line_10 | false
 talent
 gown
 dumb
@@ -55,7 +55,7 @@ camera
 nominee
 panic
 core |  
-| bip_39_word_new_line11 | false
+| bip_39_word_new_line_11 | false
 talent
 gown
 dumb
@@ -66,7 +66,7 @@ nominee
 panic
 core
 jar |  
-| bip_39_word_new_line12 | false
+| bip_39_word_new_line_12 | false
 talent
 gown
 dumb
@@ -78,34 +78,34 @@ panic
 core
 jar
 atom |  
-| bip_39_word_new_line2 | false
+| bip_39_word_new_line_2 | false
 talent |  
-| bip_39_word_new_line3 | false
+| bip_39_word_new_line_3 | false
 talent
 gown |  
-| bip_39_word_new_line4 | false
+| bip_39_word_new_line_4 | false
 talent
 gown
 dumb |  
-| bip_39_word_new_line5 | false
+| bip_39_word_new_line_5 | false
 talent
 gown
 dumb
 faith |  
-| bip_39_word_new_line6 | false
+| bip_39_word_new_line_6 | false
 talent
 gown
 dumb
 faith
 arch |  
-| bip_39_word_new_line7 | false
+| bip_39_word_new_line_7 | false
 talent
 gown
 dumb
 faith
 arch
 camera |  
-| bip_39_word_new_line8 | false
+| bip_39_word_new_line_8 | false
 talent
 gown
 dumb
@@ -113,7 +113,7 @@ faith
 arch
 camera
 nominee |  
-| bip_39_word_new_line9 | false
+| bip_39_word_new_line_9 | false
 talent
 gown
 dumb

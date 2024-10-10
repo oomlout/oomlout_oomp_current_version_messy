@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | discover |  
-| bip_39_word_new_br10 | discover<br>deputy<br>bronze<br>judge<br>promote<br>memory<br>boss<br>drive<br>consider<br>text |  
-| bip_39_word_new_br11 | discover<br>deputy<br>bronze<br>judge<br>promote<br>memory<br>boss<br>drive<br>consider<br>text<br>birth |  
-| bip_39_word_new_br12 | discover<br>deputy<br>bronze<br>judge<br>promote<br>memory<br>boss<br>drive<br>consider<br>text<br>birth<br>alone |  
-| bip_39_word_new_br2 | discover<br>deputy |  
-| bip_39_word_new_br3 | discover<br>deputy<br>bronze |  
-| bip_39_word_new_br4 | discover<br>deputy<br>bronze<br>judge |  
-| bip_39_word_new_br5 | discover<br>deputy<br>bronze<br>judge<br>promote |  
-| bip_39_word_new_br6 | discover<br>deputy<br>bronze<br>judge<br>promote<br>memory |  
-| bip_39_word_new_br7 | discover<br>deputy<br>bronze<br>judge<br>promote<br>memory<br>boss |  
-| bip_39_word_new_br8 | discover<br>deputy<br>bronze<br>judge<br>promote<br>memory<br>boss<br>drive |  
-| bip_39_word_new_br9 | discover<br>deputy<br>bronze<br>judge<br>promote<br>memory<br>boss<br>drive<br>consider |  
-| bip_39_word_new_line1 | discover |  
-| bip_39_word_new_line10 | discover
+| bip_39_word_new_br_1 | discover |  
+| bip_39_word_new_br_10 | discover<br>deputy<br>bronze<br>judge<br>promote<br>memory<br>boss<br>drive<br>consider<br>text |  
+| bip_39_word_new_br_11 | discover<br>deputy<br>bronze<br>judge<br>promote<br>memory<br>boss<br>drive<br>consider<br>text<br>birth |  
+| bip_39_word_new_br_12 | discover<br>deputy<br>bronze<br>judge<br>promote<br>memory<br>boss<br>drive<br>consider<br>text<br>birth<br>alone |  
+| bip_39_word_new_br_2 | discover<br>deputy |  
+| bip_39_word_new_br_3 | discover<br>deputy<br>bronze |  
+| bip_39_word_new_br_4 | discover<br>deputy<br>bronze<br>judge |  
+| bip_39_word_new_br_5 | discover<br>deputy<br>bronze<br>judge<br>promote |  
+| bip_39_word_new_br_6 | discover<br>deputy<br>bronze<br>judge<br>promote<br>memory |  
+| bip_39_word_new_br_7 | discover<br>deputy<br>bronze<br>judge<br>promote<br>memory<br>boss |  
+| bip_39_word_new_br_8 | discover<br>deputy<br>bronze<br>judge<br>promote<br>memory<br>boss<br>drive |  
+| bip_39_word_new_br_9 | discover<br>deputy<br>bronze<br>judge<br>promote<br>memory<br>boss<br>drive<br>consider |  
+| bip_39_word_new_line_1 | discover |  
+| bip_39_word_new_line_10 | discover
 deputy
 bronze
 judge
@@ -55,7 +55,7 @@ boss
 drive
 consider
 text |  
-| bip_39_word_new_line11 | discover
+| bip_39_word_new_line_11 | discover
 deputy
 bronze
 judge
@@ -66,7 +66,7 @@ drive
 consider
 text
 birth |  
-| bip_39_word_new_line12 | discover
+| bip_39_word_new_line_12 | discover
 deputy
 bronze
 judge
@@ -78,34 +78,34 @@ consider
 text
 birth
 alone |  
-| bip_39_word_new_line2 | discover
+| bip_39_word_new_line_2 | discover
 deputy |  
-| bip_39_word_new_line3 | discover
+| bip_39_word_new_line_3 | discover
 deputy
 bronze |  
-| bip_39_word_new_line4 | discover
+| bip_39_word_new_line_4 | discover
 deputy
 bronze
 judge |  
-| bip_39_word_new_line5 | discover
+| bip_39_word_new_line_5 | discover
 deputy
 bronze
 judge
 promote |  
-| bip_39_word_new_line6 | discover
+| bip_39_word_new_line_6 | discover
 deputy
 bronze
 judge
 promote
 memory |  
-| bip_39_word_new_line7 | discover
+| bip_39_word_new_line_7 | discover
 deputy
 bronze
 judge
 promote
 memory
 boss |  
-| bip_39_word_new_line8 | discover
+| bip_39_word_new_line_8 | discover
 deputy
 bronze
 judge
@@ -113,7 +113,7 @@ promote
 memory
 boss
 drive |  
-| bip_39_word_new_line9 | discover
+| bip_39_word_new_line_9 | discover
 deputy
 bronze
 judge

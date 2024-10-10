@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pact |  
-| bip_39_word_new_br10 | pact<br>tape<br>similar<br>nuclear<br>team<br>huge<br>degree<br>orange<br>dress<br>extra |  
-| bip_39_word_new_br11 | pact<br>tape<br>similar<br>nuclear<br>team<br>huge<br>degree<br>orange<br>dress<br>extra<br>define |  
-| bip_39_word_new_br12 | pact<br>tape<br>similar<br>nuclear<br>team<br>huge<br>degree<br>orange<br>dress<br>extra<br>define<br>artefact |  
-| bip_39_word_new_br2 | pact<br>tape |  
-| bip_39_word_new_br3 | pact<br>tape<br>similar |  
-| bip_39_word_new_br4 | pact<br>tape<br>similar<br>nuclear |  
-| bip_39_word_new_br5 | pact<br>tape<br>similar<br>nuclear<br>team |  
-| bip_39_word_new_br6 | pact<br>tape<br>similar<br>nuclear<br>team<br>huge |  
-| bip_39_word_new_br7 | pact<br>tape<br>similar<br>nuclear<br>team<br>huge<br>degree |  
-| bip_39_word_new_br8 | pact<br>tape<br>similar<br>nuclear<br>team<br>huge<br>degree<br>orange |  
-| bip_39_word_new_br9 | pact<br>tape<br>similar<br>nuclear<br>team<br>huge<br>degree<br>orange<br>dress |  
-| bip_39_word_new_line1 | pact |  
-| bip_39_word_new_line10 | pact
+| bip_39_word_new_br_1 | pact |  
+| bip_39_word_new_br_10 | pact<br>tape<br>similar<br>nuclear<br>team<br>huge<br>degree<br>orange<br>dress<br>extra |  
+| bip_39_word_new_br_11 | pact<br>tape<br>similar<br>nuclear<br>team<br>huge<br>degree<br>orange<br>dress<br>extra<br>define |  
+| bip_39_word_new_br_12 | pact<br>tape<br>similar<br>nuclear<br>team<br>huge<br>degree<br>orange<br>dress<br>extra<br>define<br>artefact |  
+| bip_39_word_new_br_2 | pact<br>tape |  
+| bip_39_word_new_br_3 | pact<br>tape<br>similar |  
+| bip_39_word_new_br_4 | pact<br>tape<br>similar<br>nuclear |  
+| bip_39_word_new_br_5 | pact<br>tape<br>similar<br>nuclear<br>team |  
+| bip_39_word_new_br_6 | pact<br>tape<br>similar<br>nuclear<br>team<br>huge |  
+| bip_39_word_new_br_7 | pact<br>tape<br>similar<br>nuclear<br>team<br>huge<br>degree |  
+| bip_39_word_new_br_8 | pact<br>tape<br>similar<br>nuclear<br>team<br>huge<br>degree<br>orange |  
+| bip_39_word_new_br_9 | pact<br>tape<br>similar<br>nuclear<br>team<br>huge<br>degree<br>orange<br>dress |  
+| bip_39_word_new_line_1 | pact |  
+| bip_39_word_new_line_10 | pact
 tape
 similar
 nuclear
@@ -55,7 +55,7 @@ degree
 orange
 dress
 extra |  
-| bip_39_word_new_line11 | pact
+| bip_39_word_new_line_11 | pact
 tape
 similar
 nuclear
@@ -66,7 +66,7 @@ orange
 dress
 extra
 define |  
-| bip_39_word_new_line12 | pact
+| bip_39_word_new_line_12 | pact
 tape
 similar
 nuclear
@@ -78,34 +78,34 @@ dress
 extra
 define
 artefact |  
-| bip_39_word_new_line2 | pact
+| bip_39_word_new_line_2 | pact
 tape |  
-| bip_39_word_new_line3 | pact
+| bip_39_word_new_line_3 | pact
 tape
 similar |  
-| bip_39_word_new_line4 | pact
+| bip_39_word_new_line_4 | pact
 tape
 similar
 nuclear |  
-| bip_39_word_new_line5 | pact
+| bip_39_word_new_line_5 | pact
 tape
 similar
 nuclear
 team |  
-| bip_39_word_new_line6 | pact
+| bip_39_word_new_line_6 | pact
 tape
 similar
 nuclear
 team
 huge |  
-| bip_39_word_new_line7 | pact
+| bip_39_word_new_line_7 | pact
 tape
 similar
 nuclear
 team
 huge
 degree |  
-| bip_39_word_new_line8 | pact
+| bip_39_word_new_line_8 | pact
 tape
 similar
 nuclear
@@ -113,7 +113,7 @@ team
 huge
 degree
 orange |  
-| bip_39_word_new_line9 | pact
+| bip_39_word_new_line_9 | pact
 tape
 similar
 nuclear

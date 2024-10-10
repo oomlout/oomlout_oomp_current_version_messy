@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | put |  
-| bip_39_word_new_br10 | put<br>elbow<br>penalty<br>dance<br>tent<br>civil<br>segment<br>prize<br>foster<br>engine |  
-| bip_39_word_new_br11 | put<br>elbow<br>penalty<br>dance<br>tent<br>civil<br>segment<br>prize<br>foster<br>engine<br>toe |  
-| bip_39_word_new_br2 | put<br>elbow |  
-| bip_39_word_new_br3 | put<br>elbow<br>penalty |  
-| bip_39_word_new_br4 | put<br>elbow<br>penalty<br>dance |  
-| bip_39_word_new_br5 | put<br>elbow<br>penalty<br>dance<br>tent |  
-| bip_39_word_new_br6 | put<br>elbow<br>penalty<br>dance<br>tent<br>civil |  
-| bip_39_word_new_br7 | put<br>elbow<br>penalty<br>dance<br>tent<br>civil<br>segment |  
-| bip_39_word_new_br8 | put<br>elbow<br>penalty<br>dance<br>tent<br>civil<br>segment<br>prize |  
-| bip_39_word_new_br9 | put<br>elbow<br>penalty<br>dance<br>tent<br>civil<br>segment<br>prize<br>foster |  
-| bip_39_word_new_line1 | put |  
-| bip_39_word_new_line10 | put
+| bip_39_word_new_br_1 | put |  
+| bip_39_word_new_br_10 | put<br>elbow<br>penalty<br>dance<br>tent<br>civil<br>segment<br>prize<br>foster<br>engine |  
+| bip_39_word_new_br_11 | put<br>elbow<br>penalty<br>dance<br>tent<br>civil<br>segment<br>prize<br>foster<br>engine<br>toe |  
+| bip_39_word_new_br_2 | put<br>elbow |  
+| bip_39_word_new_br_3 | put<br>elbow<br>penalty |  
+| bip_39_word_new_br_4 | put<br>elbow<br>penalty<br>dance |  
+| bip_39_word_new_br_5 | put<br>elbow<br>penalty<br>dance<br>tent |  
+| bip_39_word_new_br_6 | put<br>elbow<br>penalty<br>dance<br>tent<br>civil |  
+| bip_39_word_new_br_7 | put<br>elbow<br>penalty<br>dance<br>tent<br>civil<br>segment |  
+| bip_39_word_new_br_8 | put<br>elbow<br>penalty<br>dance<br>tent<br>civil<br>segment<br>prize |  
+| bip_39_word_new_br_9 | put<br>elbow<br>penalty<br>dance<br>tent<br>civil<br>segment<br>prize<br>foster |  
+| bip_39_word_new_line_1 | put |  
+| bip_39_word_new_line_10 | put
 elbow
 penalty
 dance
@@ -54,7 +54,7 @@ segment
 prize
 foster
 engine |  
-| bip_39_word_new_line11 | put
+| bip_39_word_new_line_11 | put
 elbow
 penalty
 dance
@@ -65,34 +65,34 @@ prize
 foster
 engine
 toe |  
-| bip_39_word_new_line2 | put
+| bip_39_word_new_line_2 | put
 elbow |  
-| bip_39_word_new_line3 | put
+| bip_39_word_new_line_3 | put
 elbow
 penalty |  
-| bip_39_word_new_line4 | put
+| bip_39_word_new_line_4 | put
 elbow
 penalty
 dance |  
-| bip_39_word_new_line5 | put
+| bip_39_word_new_line_5 | put
 elbow
 penalty
 dance
 tent |  
-| bip_39_word_new_line6 | put
+| bip_39_word_new_line_6 | put
 elbow
 penalty
 dance
 tent
 civil |  
-| bip_39_word_new_line7 | put
+| bip_39_word_new_line_7 | put
 elbow
 penalty
 dance
 tent
 civil
 segment |  
-| bip_39_word_new_line8 | put
+| bip_39_word_new_line_8 | put
 elbow
 penalty
 dance
@@ -100,7 +100,7 @@ tent
 civil
 segment
 prize |  
-| bip_39_word_new_line9 | put
+| bip_39_word_new_line_9 | put
 elbow
 penalty
 dance

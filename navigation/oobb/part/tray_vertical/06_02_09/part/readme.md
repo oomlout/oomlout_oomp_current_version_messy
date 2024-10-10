@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | remove |  
-| bip_39_word_new_br10 | remove<br>input<br>powder<br>goose<br>fork<br>pluck<br>meadow<br>final<br>elevator<br>blind |  
-| bip_39_word_new_br11 | remove<br>input<br>powder<br>goose<br>fork<br>pluck<br>meadow<br>final<br>elevator<br>blind<br>corn |  
-| bip_39_word_new_br12 | remove<br>input<br>powder<br>goose<br>fork<br>pluck<br>meadow<br>final<br>elevator<br>blind<br>corn<br>aunt |  
-| bip_39_word_new_br2 | remove<br>input |  
-| bip_39_word_new_br3 | remove<br>input<br>powder |  
-| bip_39_word_new_br4 | remove<br>input<br>powder<br>goose |  
-| bip_39_word_new_br5 | remove<br>input<br>powder<br>goose<br>fork |  
-| bip_39_word_new_br6 | remove<br>input<br>powder<br>goose<br>fork<br>pluck |  
-| bip_39_word_new_br7 | remove<br>input<br>powder<br>goose<br>fork<br>pluck<br>meadow |  
-| bip_39_word_new_br8 | remove<br>input<br>powder<br>goose<br>fork<br>pluck<br>meadow<br>final |  
-| bip_39_word_new_br9 | remove<br>input<br>powder<br>goose<br>fork<br>pluck<br>meadow<br>final<br>elevator |  
-| bip_39_word_new_line1 | remove |  
-| bip_39_word_new_line10 | remove
+| bip_39_word_new_br_1 | remove |  
+| bip_39_word_new_br_10 | remove<br>input<br>powder<br>goose<br>fork<br>pluck<br>meadow<br>final<br>elevator<br>blind |  
+| bip_39_word_new_br_11 | remove<br>input<br>powder<br>goose<br>fork<br>pluck<br>meadow<br>final<br>elevator<br>blind<br>corn |  
+| bip_39_word_new_br_12 | remove<br>input<br>powder<br>goose<br>fork<br>pluck<br>meadow<br>final<br>elevator<br>blind<br>corn<br>aunt |  
+| bip_39_word_new_br_2 | remove<br>input |  
+| bip_39_word_new_br_3 | remove<br>input<br>powder |  
+| bip_39_word_new_br_4 | remove<br>input<br>powder<br>goose |  
+| bip_39_word_new_br_5 | remove<br>input<br>powder<br>goose<br>fork |  
+| bip_39_word_new_br_6 | remove<br>input<br>powder<br>goose<br>fork<br>pluck |  
+| bip_39_word_new_br_7 | remove<br>input<br>powder<br>goose<br>fork<br>pluck<br>meadow |  
+| bip_39_word_new_br_8 | remove<br>input<br>powder<br>goose<br>fork<br>pluck<br>meadow<br>final |  
+| bip_39_word_new_br_9 | remove<br>input<br>powder<br>goose<br>fork<br>pluck<br>meadow<br>final<br>elevator |  
+| bip_39_word_new_line_1 | remove |  
+| bip_39_word_new_line_10 | remove
 input
 powder
 goose
@@ -55,7 +55,7 @@ meadow
 final
 elevator
 blind |  
-| bip_39_word_new_line11 | remove
+| bip_39_word_new_line_11 | remove
 input
 powder
 goose
@@ -66,7 +66,7 @@ final
 elevator
 blind
 corn |  
-| bip_39_word_new_line12 | remove
+| bip_39_word_new_line_12 | remove
 input
 powder
 goose
@@ -78,34 +78,34 @@ elevator
 blind
 corn
 aunt |  
-| bip_39_word_new_line2 | remove
+| bip_39_word_new_line_2 | remove
 input |  
-| bip_39_word_new_line3 | remove
+| bip_39_word_new_line_3 | remove
 input
 powder |  
-| bip_39_word_new_line4 | remove
+| bip_39_word_new_line_4 | remove
 input
 powder
 goose |  
-| bip_39_word_new_line5 | remove
+| bip_39_word_new_line_5 | remove
 input
 powder
 goose
 fork |  
-| bip_39_word_new_line6 | remove
+| bip_39_word_new_line_6 | remove
 input
 powder
 goose
 fork
 pluck |  
-| bip_39_word_new_line7 | remove
+| bip_39_word_new_line_7 | remove
 input
 powder
 goose
 fork
 pluck
 meadow |  
-| bip_39_word_new_line8 | remove
+| bip_39_word_new_line_8 | remove
 input
 powder
 goose
@@ -113,7 +113,7 @@ fork
 pluck
 meadow
 final |  
-| bip_39_word_new_line9 | remove
+| bip_39_word_new_line_9 | remove
 input
 powder
 goose

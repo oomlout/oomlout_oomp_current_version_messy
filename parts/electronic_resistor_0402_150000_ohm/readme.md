@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | federal |  
-| bip_39_word_new_br10 | federal<br>decorate<br>cliff<br>goddess<br>brother<br>curtain<br>panic<br>special<br>subway<br>vibrant |  
-| bip_39_word_new_br11 | federal<br>decorate<br>cliff<br>goddess<br>brother<br>curtain<br>panic<br>special<br>subway<br>vibrant<br>smart |  
-| bip_39_word_new_br12 | federal<br>decorate<br>cliff<br>goddess<br>brother<br>curtain<br>panic<br>special<br>subway<br>vibrant<br>smart<br>agent |  
-| bip_39_word_new_br2 | federal<br>decorate |  
-| bip_39_word_new_br3 | federal<br>decorate<br>cliff |  
-| bip_39_word_new_br4 | federal<br>decorate<br>cliff<br>goddess |  
-| bip_39_word_new_br5 | federal<br>decorate<br>cliff<br>goddess<br>brother |  
-| bip_39_word_new_br6 | federal<br>decorate<br>cliff<br>goddess<br>brother<br>curtain |  
-| bip_39_word_new_br7 | federal<br>decorate<br>cliff<br>goddess<br>brother<br>curtain<br>panic |  
-| bip_39_word_new_br8 | federal<br>decorate<br>cliff<br>goddess<br>brother<br>curtain<br>panic<br>special |  
-| bip_39_word_new_br9 | federal<br>decorate<br>cliff<br>goddess<br>brother<br>curtain<br>panic<br>special<br>subway |  
-| bip_39_word_new_line1 | federal |  
-| bip_39_word_new_line10 | federal
+| bip_39_word_new_br_1 | federal |  
+| bip_39_word_new_br_10 | federal<br>decorate<br>cliff<br>goddess<br>brother<br>curtain<br>panic<br>special<br>subway<br>vibrant |  
+| bip_39_word_new_br_11 | federal<br>decorate<br>cliff<br>goddess<br>brother<br>curtain<br>panic<br>special<br>subway<br>vibrant<br>smart |  
+| bip_39_word_new_br_12 | federal<br>decorate<br>cliff<br>goddess<br>brother<br>curtain<br>panic<br>special<br>subway<br>vibrant<br>smart<br>agent |  
+| bip_39_word_new_br_2 | federal<br>decorate |  
+| bip_39_word_new_br_3 | federal<br>decorate<br>cliff |  
+| bip_39_word_new_br_4 | federal<br>decorate<br>cliff<br>goddess |  
+| bip_39_word_new_br_5 | federal<br>decorate<br>cliff<br>goddess<br>brother |  
+| bip_39_word_new_br_6 | federal<br>decorate<br>cliff<br>goddess<br>brother<br>curtain |  
+| bip_39_word_new_br_7 | federal<br>decorate<br>cliff<br>goddess<br>brother<br>curtain<br>panic |  
+| bip_39_word_new_br_8 | federal<br>decorate<br>cliff<br>goddess<br>brother<br>curtain<br>panic<br>special |  
+| bip_39_word_new_br_9 | federal<br>decorate<br>cliff<br>goddess<br>brother<br>curtain<br>panic<br>special<br>subway |  
+| bip_39_word_new_line_1 | federal |  
+| bip_39_word_new_line_10 | federal
 decorate
 cliff
 goddess
@@ -55,7 +55,7 @@ panic
 special
 subway
 vibrant |  
-| bip_39_word_new_line11 | federal
+| bip_39_word_new_line_11 | federal
 decorate
 cliff
 goddess
@@ -66,7 +66,7 @@ special
 subway
 vibrant
 smart |  
-| bip_39_word_new_line12 | federal
+| bip_39_word_new_line_12 | federal
 decorate
 cliff
 goddess
@@ -78,34 +78,34 @@ subway
 vibrant
 smart
 agent |  
-| bip_39_word_new_line2 | federal
+| bip_39_word_new_line_2 | federal
 decorate |  
-| bip_39_word_new_line3 | federal
+| bip_39_word_new_line_3 | federal
 decorate
 cliff |  
-| bip_39_word_new_line4 | federal
+| bip_39_word_new_line_4 | federal
 decorate
 cliff
 goddess |  
-| bip_39_word_new_line5 | federal
+| bip_39_word_new_line_5 | federal
 decorate
 cliff
 goddess
 brother |  
-| bip_39_word_new_line6 | federal
+| bip_39_word_new_line_6 | federal
 decorate
 cliff
 goddess
 brother
 curtain |  
-| bip_39_word_new_line7 | federal
+| bip_39_word_new_line_7 | federal
 decorate
 cliff
 goddess
 brother
 curtain
 panic |  
-| bip_39_word_new_line8 | federal
+| bip_39_word_new_line_8 | federal
 decorate
 cliff
 goddess
@@ -113,7 +113,7 @@ brother
 curtain
 panic
 special |  
-| bip_39_word_new_line9 | federal
+| bip_39_word_new_line_9 | federal
 decorate
 cliff
 goddess

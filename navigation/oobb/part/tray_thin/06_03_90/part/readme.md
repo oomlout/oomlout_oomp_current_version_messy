@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | chronic |  
-| bip_39_word_new_br10 | chronic<br>lecture<br>few<br>come<br>surround<br>swear<br>month<br>velvet<br>marine<br>route |  
-| bip_39_word_new_br11 | chronic<br>lecture<br>few<br>come<br>surround<br>swear<br>month<br>velvet<br>marine<br>route<br>visual |  
-| bip_39_word_new_br12 | chronic<br>lecture<br>few<br>come<br>surround<br>swear<br>month<br>velvet<br>marine<br>route<br>visual<br>artist |  
-| bip_39_word_new_br2 | chronic<br>lecture |  
-| bip_39_word_new_br3 | chronic<br>lecture<br>few |  
-| bip_39_word_new_br4 | chronic<br>lecture<br>few<br>come |  
-| bip_39_word_new_br5 | chronic<br>lecture<br>few<br>come<br>surround |  
-| bip_39_word_new_br6 | chronic<br>lecture<br>few<br>come<br>surround<br>swear |  
-| bip_39_word_new_br7 | chronic<br>lecture<br>few<br>come<br>surround<br>swear<br>month |  
-| bip_39_word_new_br8 | chronic<br>lecture<br>few<br>come<br>surround<br>swear<br>month<br>velvet |  
-| bip_39_word_new_br9 | chronic<br>lecture<br>few<br>come<br>surround<br>swear<br>month<br>velvet<br>marine |  
-| bip_39_word_new_line1 | chronic |  
-| bip_39_word_new_line10 | chronic
+| bip_39_word_new_br_1 | chronic |  
+| bip_39_word_new_br_10 | chronic<br>lecture<br>few<br>come<br>surround<br>swear<br>month<br>velvet<br>marine<br>route |  
+| bip_39_word_new_br_11 | chronic<br>lecture<br>few<br>come<br>surround<br>swear<br>month<br>velvet<br>marine<br>route<br>visual |  
+| bip_39_word_new_br_12 | chronic<br>lecture<br>few<br>come<br>surround<br>swear<br>month<br>velvet<br>marine<br>route<br>visual<br>artist |  
+| bip_39_word_new_br_2 | chronic<br>lecture |  
+| bip_39_word_new_br_3 | chronic<br>lecture<br>few |  
+| bip_39_word_new_br_4 | chronic<br>lecture<br>few<br>come |  
+| bip_39_word_new_br_5 | chronic<br>lecture<br>few<br>come<br>surround |  
+| bip_39_word_new_br_6 | chronic<br>lecture<br>few<br>come<br>surround<br>swear |  
+| bip_39_word_new_br_7 | chronic<br>lecture<br>few<br>come<br>surround<br>swear<br>month |  
+| bip_39_word_new_br_8 | chronic<br>lecture<br>few<br>come<br>surround<br>swear<br>month<br>velvet |  
+| bip_39_word_new_br_9 | chronic<br>lecture<br>few<br>come<br>surround<br>swear<br>month<br>velvet<br>marine |  
+| bip_39_word_new_line_1 | chronic |  
+| bip_39_word_new_line_10 | chronic
 lecture
 few
 come
@@ -55,7 +55,7 @@ month
 velvet
 marine
 route |  
-| bip_39_word_new_line11 | chronic
+| bip_39_word_new_line_11 | chronic
 lecture
 few
 come
@@ -66,7 +66,7 @@ velvet
 marine
 route
 visual |  
-| bip_39_word_new_line12 | chronic
+| bip_39_word_new_line_12 | chronic
 lecture
 few
 come
@@ -78,34 +78,34 @@ marine
 route
 visual
 artist |  
-| bip_39_word_new_line2 | chronic
+| bip_39_word_new_line_2 | chronic
 lecture |  
-| bip_39_word_new_line3 | chronic
+| bip_39_word_new_line_3 | chronic
 lecture
 few |  
-| bip_39_word_new_line4 | chronic
+| bip_39_word_new_line_4 | chronic
 lecture
 few
 come |  
-| bip_39_word_new_line5 | chronic
+| bip_39_word_new_line_5 | chronic
 lecture
 few
 come
 surround |  
-| bip_39_word_new_line6 | chronic
+| bip_39_word_new_line_6 | chronic
 lecture
 few
 come
 surround
 swear |  
-| bip_39_word_new_line7 | chronic
+| bip_39_word_new_line_7 | chronic
 lecture
 few
 come
 surround
 swear
 month |  
-| bip_39_word_new_line8 | chronic
+| bip_39_word_new_line_8 | chronic
 lecture
 few
 come
@@ -113,7 +113,7 @@ surround
 swear
 month
 velvet |  
-| bip_39_word_new_line9 | chronic
+| bip_39_word_new_line_9 | chronic
 lecture
 few
 come

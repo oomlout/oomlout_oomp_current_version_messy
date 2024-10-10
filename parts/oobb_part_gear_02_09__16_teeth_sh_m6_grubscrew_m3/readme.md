@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mean |  
-| bip_39_word_new_br10 | mean<br>brave<br>strong<br>segment<br>obtain<br>owner<br>perfect<br>need<br>title<br>cheese |  
-| bip_39_word_new_br11 | mean<br>brave<br>strong<br>segment<br>obtain<br>owner<br>perfect<br>need<br>title<br>cheese<br>knee |  
-| bip_39_word_new_br12 | mean<br>brave<br>strong<br>segment<br>obtain<br>owner<br>perfect<br>need<br>title<br>cheese<br>knee<br>agent |  
-| bip_39_word_new_br2 | mean<br>brave |  
-| bip_39_word_new_br3 | mean<br>brave<br>strong |  
-| bip_39_word_new_br4 | mean<br>brave<br>strong<br>segment |  
-| bip_39_word_new_br5 | mean<br>brave<br>strong<br>segment<br>obtain |  
-| bip_39_word_new_br6 | mean<br>brave<br>strong<br>segment<br>obtain<br>owner |  
-| bip_39_word_new_br7 | mean<br>brave<br>strong<br>segment<br>obtain<br>owner<br>perfect |  
-| bip_39_word_new_br8 | mean<br>brave<br>strong<br>segment<br>obtain<br>owner<br>perfect<br>need |  
-| bip_39_word_new_br9 | mean<br>brave<br>strong<br>segment<br>obtain<br>owner<br>perfect<br>need<br>title |  
-| bip_39_word_new_line1 | mean |  
-| bip_39_word_new_line10 | mean
+| bip_39_word_new_br_1 | mean |  
+| bip_39_word_new_br_10 | mean<br>brave<br>strong<br>segment<br>obtain<br>owner<br>perfect<br>need<br>title<br>cheese |  
+| bip_39_word_new_br_11 | mean<br>brave<br>strong<br>segment<br>obtain<br>owner<br>perfect<br>need<br>title<br>cheese<br>knee |  
+| bip_39_word_new_br_12 | mean<br>brave<br>strong<br>segment<br>obtain<br>owner<br>perfect<br>need<br>title<br>cheese<br>knee<br>agent |  
+| bip_39_word_new_br_2 | mean<br>brave |  
+| bip_39_word_new_br_3 | mean<br>brave<br>strong |  
+| bip_39_word_new_br_4 | mean<br>brave<br>strong<br>segment |  
+| bip_39_word_new_br_5 | mean<br>brave<br>strong<br>segment<br>obtain |  
+| bip_39_word_new_br_6 | mean<br>brave<br>strong<br>segment<br>obtain<br>owner |  
+| bip_39_word_new_br_7 | mean<br>brave<br>strong<br>segment<br>obtain<br>owner<br>perfect |  
+| bip_39_word_new_br_8 | mean<br>brave<br>strong<br>segment<br>obtain<br>owner<br>perfect<br>need |  
+| bip_39_word_new_br_9 | mean<br>brave<br>strong<br>segment<br>obtain<br>owner<br>perfect<br>need<br>title |  
+| bip_39_word_new_line_1 | mean |  
+| bip_39_word_new_line_10 | mean
 brave
 strong
 segment
@@ -55,7 +55,7 @@ perfect
 need
 title
 cheese |  
-| bip_39_word_new_line11 | mean
+| bip_39_word_new_line_11 | mean
 brave
 strong
 segment
@@ -66,7 +66,7 @@ need
 title
 cheese
 knee |  
-| bip_39_word_new_line12 | mean
+| bip_39_word_new_line_12 | mean
 brave
 strong
 segment
@@ -78,34 +78,34 @@ title
 cheese
 knee
 agent |  
-| bip_39_word_new_line2 | mean
+| bip_39_word_new_line_2 | mean
 brave |  
-| bip_39_word_new_line3 | mean
+| bip_39_word_new_line_3 | mean
 brave
 strong |  
-| bip_39_word_new_line4 | mean
+| bip_39_word_new_line_4 | mean
 brave
 strong
 segment |  
-| bip_39_word_new_line5 | mean
+| bip_39_word_new_line_5 | mean
 brave
 strong
 segment
 obtain |  
-| bip_39_word_new_line6 | mean
+| bip_39_word_new_line_6 | mean
 brave
 strong
 segment
 obtain
 owner |  
-| bip_39_word_new_line7 | mean
+| bip_39_word_new_line_7 | mean
 brave
 strong
 segment
 obtain
 owner
 perfect |  
-| bip_39_word_new_line8 | mean
+| bip_39_word_new_line_8 | mean
 brave
 strong
 segment
@@ -113,7 +113,7 @@ obtain
 owner
 perfect
 need |  
-| bip_39_word_new_line9 | mean
+| bip_39_word_new_line_9 | mean
 brave
 strong
 segment

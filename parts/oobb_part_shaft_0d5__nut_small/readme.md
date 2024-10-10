@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | panic |  
-| bip_39_word_new_br10 | panic<br>frequent<br>suffer<br>arrow<br>story<br>brain<br>tiny<br>below<br>cupboard<br>artwork |  
-| bip_39_word_new_br11 | panic<br>frequent<br>suffer<br>arrow<br>story<br>brain<br>tiny<br>below<br>cupboard<br>artwork<br>immense |  
-| bip_39_word_new_br12 | panic<br>frequent<br>suffer<br>arrow<br>story<br>brain<br>tiny<br>below<br>cupboard<br>artwork<br>immense<br>above |  
-| bip_39_word_new_br2 | panic<br>frequent |  
-| bip_39_word_new_br3 | panic<br>frequent<br>suffer |  
-| bip_39_word_new_br4 | panic<br>frequent<br>suffer<br>arrow |  
-| bip_39_word_new_br5 | panic<br>frequent<br>suffer<br>arrow<br>story |  
-| bip_39_word_new_br6 | panic<br>frequent<br>suffer<br>arrow<br>story<br>brain |  
-| bip_39_word_new_br7 | panic<br>frequent<br>suffer<br>arrow<br>story<br>brain<br>tiny |  
-| bip_39_word_new_br8 | panic<br>frequent<br>suffer<br>arrow<br>story<br>brain<br>tiny<br>below |  
-| bip_39_word_new_br9 | panic<br>frequent<br>suffer<br>arrow<br>story<br>brain<br>tiny<br>below<br>cupboard |  
-| bip_39_word_new_line1 | panic |  
-| bip_39_word_new_line10 | panic
+| bip_39_word_new_br_1 | panic |  
+| bip_39_word_new_br_10 | panic<br>frequent<br>suffer<br>arrow<br>story<br>brain<br>tiny<br>below<br>cupboard<br>artwork |  
+| bip_39_word_new_br_11 | panic<br>frequent<br>suffer<br>arrow<br>story<br>brain<br>tiny<br>below<br>cupboard<br>artwork<br>immense |  
+| bip_39_word_new_br_12 | panic<br>frequent<br>suffer<br>arrow<br>story<br>brain<br>tiny<br>below<br>cupboard<br>artwork<br>immense<br>above |  
+| bip_39_word_new_br_2 | panic<br>frequent |  
+| bip_39_word_new_br_3 | panic<br>frequent<br>suffer |  
+| bip_39_word_new_br_4 | panic<br>frequent<br>suffer<br>arrow |  
+| bip_39_word_new_br_5 | panic<br>frequent<br>suffer<br>arrow<br>story |  
+| bip_39_word_new_br_6 | panic<br>frequent<br>suffer<br>arrow<br>story<br>brain |  
+| bip_39_word_new_br_7 | panic<br>frequent<br>suffer<br>arrow<br>story<br>brain<br>tiny |  
+| bip_39_word_new_br_8 | panic<br>frequent<br>suffer<br>arrow<br>story<br>brain<br>tiny<br>below |  
+| bip_39_word_new_br_9 | panic<br>frequent<br>suffer<br>arrow<br>story<br>brain<br>tiny<br>below<br>cupboard |  
+| bip_39_word_new_line_1 | panic |  
+| bip_39_word_new_line_10 | panic
 frequent
 suffer
 arrow
@@ -55,7 +55,7 @@ tiny
 below
 cupboard
 artwork |  
-| bip_39_word_new_line11 | panic
+| bip_39_word_new_line_11 | panic
 frequent
 suffer
 arrow
@@ -66,7 +66,7 @@ below
 cupboard
 artwork
 immense |  
-| bip_39_word_new_line12 | panic
+| bip_39_word_new_line_12 | panic
 frequent
 suffer
 arrow
@@ -78,34 +78,34 @@ cupboard
 artwork
 immense
 above |  
-| bip_39_word_new_line2 | panic
+| bip_39_word_new_line_2 | panic
 frequent |  
-| bip_39_word_new_line3 | panic
+| bip_39_word_new_line_3 | panic
 frequent
 suffer |  
-| bip_39_word_new_line4 | panic
+| bip_39_word_new_line_4 | panic
 frequent
 suffer
 arrow |  
-| bip_39_word_new_line5 | panic
+| bip_39_word_new_line_5 | panic
 frequent
 suffer
 arrow
 story |  
-| bip_39_word_new_line6 | panic
+| bip_39_word_new_line_6 | panic
 frequent
 suffer
 arrow
 story
 brain |  
-| bip_39_word_new_line7 | panic
+| bip_39_word_new_line_7 | panic
 frequent
 suffer
 arrow
 story
 brain
 tiny |  
-| bip_39_word_new_line8 | panic
+| bip_39_word_new_line_8 | panic
 frequent
 suffer
 arrow
@@ -113,7 +113,7 @@ story
 brain
 tiny
 below |  
-| bip_39_word_new_line9 | panic
+| bip_39_word_new_line_9 | panic
 frequent
 suffer
 arrow

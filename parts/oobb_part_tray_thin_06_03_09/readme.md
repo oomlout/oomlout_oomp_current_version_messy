@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sing |  
-| bip_39_word_new_br10 | sing<br>bitter<br>portion<br>join<br>elite<br>bronze<br>leopard<br>apart<br>nice<br>weasel |  
-| bip_39_word_new_br11 | sing<br>bitter<br>portion<br>join<br>elite<br>bronze<br>leopard<br>apart<br>nice<br>weasel<br>tag |  
-| bip_39_word_new_br12 | sing<br>bitter<br>portion<br>join<br>elite<br>bronze<br>leopard<br>apart<br>nice<br>weasel<br>tag<br>angle |  
-| bip_39_word_new_br2 | sing<br>bitter |  
-| bip_39_word_new_br3 | sing<br>bitter<br>portion |  
-| bip_39_word_new_br4 | sing<br>bitter<br>portion<br>join |  
-| bip_39_word_new_br5 | sing<br>bitter<br>portion<br>join<br>elite |  
-| bip_39_word_new_br6 | sing<br>bitter<br>portion<br>join<br>elite<br>bronze |  
-| bip_39_word_new_br7 | sing<br>bitter<br>portion<br>join<br>elite<br>bronze<br>leopard |  
-| bip_39_word_new_br8 | sing<br>bitter<br>portion<br>join<br>elite<br>bronze<br>leopard<br>apart |  
-| bip_39_word_new_br9 | sing<br>bitter<br>portion<br>join<br>elite<br>bronze<br>leopard<br>apart<br>nice |  
-| bip_39_word_new_line1 | sing |  
-| bip_39_word_new_line10 | sing
+| bip_39_word_new_br_1 | sing |  
+| bip_39_word_new_br_10 | sing<br>bitter<br>portion<br>join<br>elite<br>bronze<br>leopard<br>apart<br>nice<br>weasel |  
+| bip_39_word_new_br_11 | sing<br>bitter<br>portion<br>join<br>elite<br>bronze<br>leopard<br>apart<br>nice<br>weasel<br>tag |  
+| bip_39_word_new_br_12 | sing<br>bitter<br>portion<br>join<br>elite<br>bronze<br>leopard<br>apart<br>nice<br>weasel<br>tag<br>angle |  
+| bip_39_word_new_br_2 | sing<br>bitter |  
+| bip_39_word_new_br_3 | sing<br>bitter<br>portion |  
+| bip_39_word_new_br_4 | sing<br>bitter<br>portion<br>join |  
+| bip_39_word_new_br_5 | sing<br>bitter<br>portion<br>join<br>elite |  
+| bip_39_word_new_br_6 | sing<br>bitter<br>portion<br>join<br>elite<br>bronze |  
+| bip_39_word_new_br_7 | sing<br>bitter<br>portion<br>join<br>elite<br>bronze<br>leopard |  
+| bip_39_word_new_br_8 | sing<br>bitter<br>portion<br>join<br>elite<br>bronze<br>leopard<br>apart |  
+| bip_39_word_new_br_9 | sing<br>bitter<br>portion<br>join<br>elite<br>bronze<br>leopard<br>apart<br>nice |  
+| bip_39_word_new_line_1 | sing |  
+| bip_39_word_new_line_10 | sing
 bitter
 portion
 join
@@ -55,7 +55,7 @@ leopard
 apart
 nice
 weasel |  
-| bip_39_word_new_line11 | sing
+| bip_39_word_new_line_11 | sing
 bitter
 portion
 join
@@ -66,7 +66,7 @@ apart
 nice
 weasel
 tag |  
-| bip_39_word_new_line12 | sing
+| bip_39_word_new_line_12 | sing
 bitter
 portion
 join
@@ -78,34 +78,34 @@ nice
 weasel
 tag
 angle |  
-| bip_39_word_new_line2 | sing
+| bip_39_word_new_line_2 | sing
 bitter |  
-| bip_39_word_new_line3 | sing
+| bip_39_word_new_line_3 | sing
 bitter
 portion |  
-| bip_39_word_new_line4 | sing
+| bip_39_word_new_line_4 | sing
 bitter
 portion
 join |  
-| bip_39_word_new_line5 | sing
+| bip_39_word_new_line_5 | sing
 bitter
 portion
 join
 elite |  
-| bip_39_word_new_line6 | sing
+| bip_39_word_new_line_6 | sing
 bitter
 portion
 join
 elite
 bronze |  
-| bip_39_word_new_line7 | sing
+| bip_39_word_new_line_7 | sing
 bitter
 portion
 join
 elite
 bronze
 leopard |  
-| bip_39_word_new_line8 | sing
+| bip_39_word_new_line_8 | sing
 bitter
 portion
 join
@@ -113,7 +113,7 @@ elite
 bronze
 leopard
 apart |  
-| bip_39_word_new_line9 | sing
+| bip_39_word_new_line_9 | sing
 bitter
 portion
 join

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wasp |  
-| bip_39_word_new_br10 | wasp<br>buddy<br>visa<br>senior<br>glue<br>gift<br>possible<br>seek<br>artefact<br>include |  
-| bip_39_word_new_br11 | wasp<br>buddy<br>visa<br>senior<br>glue<br>gift<br>possible<br>seek<br>artefact<br>include<br>pony |  
-| bip_39_word_new_br12 | wasp<br>buddy<br>visa<br>senior<br>glue<br>gift<br>possible<br>seek<br>artefact<br>include<br>pony<br>alley |  
-| bip_39_word_new_br2 | wasp<br>buddy |  
-| bip_39_word_new_br3 | wasp<br>buddy<br>visa |  
-| bip_39_word_new_br4 | wasp<br>buddy<br>visa<br>senior |  
-| bip_39_word_new_br5 | wasp<br>buddy<br>visa<br>senior<br>glue |  
-| bip_39_word_new_br6 | wasp<br>buddy<br>visa<br>senior<br>glue<br>gift |  
-| bip_39_word_new_br7 | wasp<br>buddy<br>visa<br>senior<br>glue<br>gift<br>possible |  
-| bip_39_word_new_br8 | wasp<br>buddy<br>visa<br>senior<br>glue<br>gift<br>possible<br>seek |  
-| bip_39_word_new_br9 | wasp<br>buddy<br>visa<br>senior<br>glue<br>gift<br>possible<br>seek<br>artefact |  
-| bip_39_word_new_line1 | wasp |  
-| bip_39_word_new_line10 | wasp
+| bip_39_word_new_br_1 | wasp |  
+| bip_39_word_new_br_10 | wasp<br>buddy<br>visa<br>senior<br>glue<br>gift<br>possible<br>seek<br>artefact<br>include |  
+| bip_39_word_new_br_11 | wasp<br>buddy<br>visa<br>senior<br>glue<br>gift<br>possible<br>seek<br>artefact<br>include<br>pony |  
+| bip_39_word_new_br_12 | wasp<br>buddy<br>visa<br>senior<br>glue<br>gift<br>possible<br>seek<br>artefact<br>include<br>pony<br>alley |  
+| bip_39_word_new_br_2 | wasp<br>buddy |  
+| bip_39_word_new_br_3 | wasp<br>buddy<br>visa |  
+| bip_39_word_new_br_4 | wasp<br>buddy<br>visa<br>senior |  
+| bip_39_word_new_br_5 | wasp<br>buddy<br>visa<br>senior<br>glue |  
+| bip_39_word_new_br_6 | wasp<br>buddy<br>visa<br>senior<br>glue<br>gift |  
+| bip_39_word_new_br_7 | wasp<br>buddy<br>visa<br>senior<br>glue<br>gift<br>possible |  
+| bip_39_word_new_br_8 | wasp<br>buddy<br>visa<br>senior<br>glue<br>gift<br>possible<br>seek |  
+| bip_39_word_new_br_9 | wasp<br>buddy<br>visa<br>senior<br>glue<br>gift<br>possible<br>seek<br>artefact |  
+| bip_39_word_new_line_1 | wasp |  
+| bip_39_word_new_line_10 | wasp
 buddy
 visa
 senior
@@ -55,7 +55,7 @@ possible
 seek
 artefact
 include |  
-| bip_39_word_new_line11 | wasp
+| bip_39_word_new_line_11 | wasp
 buddy
 visa
 senior
@@ -66,7 +66,7 @@ seek
 artefact
 include
 pony |  
-| bip_39_word_new_line12 | wasp
+| bip_39_word_new_line_12 | wasp
 buddy
 visa
 senior
@@ -78,34 +78,34 @@ artefact
 include
 pony
 alley |  
-| bip_39_word_new_line2 | wasp
+| bip_39_word_new_line_2 | wasp
 buddy |  
-| bip_39_word_new_line3 | wasp
+| bip_39_word_new_line_3 | wasp
 buddy
 visa |  
-| bip_39_word_new_line4 | wasp
+| bip_39_word_new_line_4 | wasp
 buddy
 visa
 senior |  
-| bip_39_word_new_line5 | wasp
+| bip_39_word_new_line_5 | wasp
 buddy
 visa
 senior
 glue |  
-| bip_39_word_new_line6 | wasp
+| bip_39_word_new_line_6 | wasp
 buddy
 visa
 senior
 glue
 gift |  
-| bip_39_word_new_line7 | wasp
+| bip_39_word_new_line_7 | wasp
 buddy
 visa
 senior
 glue
 gift
 possible |  
-| bip_39_word_new_line8 | wasp
+| bip_39_word_new_line_8 | wasp
 buddy
 visa
 senior
@@ -113,7 +113,7 @@ glue
 gift
 possible
 seek |  
-| bip_39_word_new_line9 | wasp
+| bip_39_word_new_line_9 | wasp
 buddy
 visa
 senior

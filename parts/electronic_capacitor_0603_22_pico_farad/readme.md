@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | when |  
-| bip_39_word_new_br10 | when<br>observe<br>envelope<br>elevator<br>target<br>chuckle<br>check<br>scan<br>tiny<br>venue |  
-| bip_39_word_new_br11 | when<br>observe<br>envelope<br>elevator<br>target<br>chuckle<br>check<br>scan<br>tiny<br>venue<br>peanut |  
-| bip_39_word_new_br12 | when<br>observe<br>envelope<br>elevator<br>target<br>chuckle<br>check<br>scan<br>tiny<br>venue<br>peanut<br>attract |  
-| bip_39_word_new_br2 | when<br>observe |  
-| bip_39_word_new_br3 | when<br>observe<br>envelope |  
-| bip_39_word_new_br4 | when<br>observe<br>envelope<br>elevator |  
-| bip_39_word_new_br5 | when<br>observe<br>envelope<br>elevator<br>target |  
-| bip_39_word_new_br6 | when<br>observe<br>envelope<br>elevator<br>target<br>chuckle |  
-| bip_39_word_new_br7 | when<br>observe<br>envelope<br>elevator<br>target<br>chuckle<br>check |  
-| bip_39_word_new_br8 | when<br>observe<br>envelope<br>elevator<br>target<br>chuckle<br>check<br>scan |  
-| bip_39_word_new_br9 | when<br>observe<br>envelope<br>elevator<br>target<br>chuckle<br>check<br>scan<br>tiny |  
-| bip_39_word_new_line1 | when |  
-| bip_39_word_new_line10 | when
+| bip_39_word_new_br_1 | when |  
+| bip_39_word_new_br_10 | when<br>observe<br>envelope<br>elevator<br>target<br>chuckle<br>check<br>scan<br>tiny<br>venue |  
+| bip_39_word_new_br_11 | when<br>observe<br>envelope<br>elevator<br>target<br>chuckle<br>check<br>scan<br>tiny<br>venue<br>peanut |  
+| bip_39_word_new_br_12 | when<br>observe<br>envelope<br>elevator<br>target<br>chuckle<br>check<br>scan<br>tiny<br>venue<br>peanut<br>attract |  
+| bip_39_word_new_br_2 | when<br>observe |  
+| bip_39_word_new_br_3 | when<br>observe<br>envelope |  
+| bip_39_word_new_br_4 | when<br>observe<br>envelope<br>elevator |  
+| bip_39_word_new_br_5 | when<br>observe<br>envelope<br>elevator<br>target |  
+| bip_39_word_new_br_6 | when<br>observe<br>envelope<br>elevator<br>target<br>chuckle |  
+| bip_39_word_new_br_7 | when<br>observe<br>envelope<br>elevator<br>target<br>chuckle<br>check |  
+| bip_39_word_new_br_8 | when<br>observe<br>envelope<br>elevator<br>target<br>chuckle<br>check<br>scan |  
+| bip_39_word_new_br_9 | when<br>observe<br>envelope<br>elevator<br>target<br>chuckle<br>check<br>scan<br>tiny |  
+| bip_39_word_new_line_1 | when |  
+| bip_39_word_new_line_10 | when
 observe
 envelope
 elevator
@@ -55,7 +55,7 @@ check
 scan
 tiny
 venue |  
-| bip_39_word_new_line11 | when
+| bip_39_word_new_line_11 | when
 observe
 envelope
 elevator
@@ -66,7 +66,7 @@ scan
 tiny
 venue
 peanut |  
-| bip_39_word_new_line12 | when
+| bip_39_word_new_line_12 | when
 observe
 envelope
 elevator
@@ -78,34 +78,34 @@ tiny
 venue
 peanut
 attract |  
-| bip_39_word_new_line2 | when
+| bip_39_word_new_line_2 | when
 observe |  
-| bip_39_word_new_line3 | when
+| bip_39_word_new_line_3 | when
 observe
 envelope |  
-| bip_39_word_new_line4 | when
+| bip_39_word_new_line_4 | when
 observe
 envelope
 elevator |  
-| bip_39_word_new_line5 | when
+| bip_39_word_new_line_5 | when
 observe
 envelope
 elevator
 target |  
-| bip_39_word_new_line6 | when
+| bip_39_word_new_line_6 | when
 observe
 envelope
 elevator
 target
 chuckle |  
-| bip_39_word_new_line7 | when
+| bip_39_word_new_line_7 | when
 observe
 envelope
 elevator
 target
 chuckle
 check |  
-| bip_39_word_new_line8 | when
+| bip_39_word_new_line_8 | when
 observe
 envelope
 elevator
@@ -113,7 +113,7 @@ target
 chuckle
 check
 scan |  
-| bip_39_word_new_line9 | when
+| bip_39_word_new_line_9 | when
 observe
 envelope
 elevator

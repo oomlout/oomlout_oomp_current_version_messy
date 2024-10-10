@@ -1,17 +1,17 @@
-bip_39_word_new_br1: thought
-bip_39_word_new_br10: thought<br>toe<br>own<br>wealth<br>ribbon<br>broom<br>interest<br>try<br>rule<br>area
-bip_39_word_new_br11: thought<br>toe<br>own<br>wealth<br>ribbon<br>broom<br>interest<br>try<br>rule<br>area<br>cat
-bip_39_word_new_br12: thought<br>toe<br>own<br>wealth<br>ribbon<br>broom<br>interest<br>try<br>rule<br>area<br>cat<br>armed
-bip_39_word_new_br2: thought<br>toe
-bip_39_word_new_br3: thought<br>toe<br>own
-bip_39_word_new_br4: thought<br>toe<br>own<br>wealth
-bip_39_word_new_br5: thought<br>toe<br>own<br>wealth<br>ribbon
-bip_39_word_new_br6: thought<br>toe<br>own<br>wealth<br>ribbon<br>broom
-bip_39_word_new_br7: thought<br>toe<br>own<br>wealth<br>ribbon<br>broom<br>interest
-bip_39_word_new_br8: thought<br>toe<br>own<br>wealth<br>ribbon<br>broom<br>interest<br>try
-bip_39_word_new_br9: thought<br>toe<br>own<br>wealth<br>ribbon<br>broom<br>interest<br>try<br>rule
-bip_39_word_new_line1: thought
-bip_39_word_new_line10: 'thought
+bip_39_word_new_br_1: thought
+bip_39_word_new_br_10: thought<br>toe<br>own<br>wealth<br>ribbon<br>broom<br>interest<br>try<br>rule<br>area
+bip_39_word_new_br_11: thought<br>toe<br>own<br>wealth<br>ribbon<br>broom<br>interest<br>try<br>rule<br>area<br>cat
+bip_39_word_new_br_12: thought<br>toe<br>own<br>wealth<br>ribbon<br>broom<br>interest<br>try<br>rule<br>area<br>cat<br>armed
+bip_39_word_new_br_2: thought<br>toe
+bip_39_word_new_br_3: thought<br>toe<br>own
+bip_39_word_new_br_4: thought<br>toe<br>own<br>wealth
+bip_39_word_new_br_5: thought<br>toe<br>own<br>wealth<br>ribbon
+bip_39_word_new_br_6: thought<br>toe<br>own<br>wealth<br>ribbon<br>broom
+bip_39_word_new_br_7: thought<br>toe<br>own<br>wealth<br>ribbon<br>broom<br>interest
+bip_39_word_new_br_8: thought<br>toe<br>own<br>wealth<br>ribbon<br>broom<br>interest<br>try
+bip_39_word_new_br_9: thought<br>toe<br>own<br>wealth<br>ribbon<br>broom<br>interest<br>try<br>rule
+bip_39_word_new_line_1: thought
+bip_39_word_new_line_10: 'thought
 
   toe
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'thought
   rule
 
   area'
-bip_39_word_new_line11: 'thought
+bip_39_word_new_line_11: 'thought
 
   toe
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'thought
   area
 
   cat'
-bip_39_word_new_line12: 'thought
+bip_39_word_new_line_12: 'thought
 
   toe
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'thought
   cat
 
   armed'
-bip_39_word_new_line2: 'thought
+bip_39_word_new_line_2: 'thought
 
   toe'
-bip_39_word_new_line3: 'thought
+bip_39_word_new_line_3: 'thought
 
   toe
 
   own'
-bip_39_word_new_line4: 'thought
+bip_39_word_new_line_4: 'thought
 
   toe
 
   own
 
   wealth'
-bip_39_word_new_line5: 'thought
+bip_39_word_new_line_5: 'thought
 
   toe
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'thought
   wealth
 
   ribbon'
-bip_39_word_new_line6: 'thought
+bip_39_word_new_line_6: 'thought
 
   toe
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'thought
   ribbon
 
   broom'
-bip_39_word_new_line7: 'thought
+bip_39_word_new_line_7: 'thought
 
   toe
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'thought
   broom
 
   interest'
-bip_39_word_new_line8: 'thought
+bip_39_word_new_line_8: 'thought
 
   toe
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'thought
   interest
 
   try'
-bip_39_word_new_line9: 'thought
+bip_39_word_new_line_9: 'thought
 
   toe
 

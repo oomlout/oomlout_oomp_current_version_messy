@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | try |  
-| bip_39_word_new_br10 | try<br>hill<br>leopard<br>abstract<br>knee<br>rice<br>process<br>gift<br>pair<br>swift |  
-| bip_39_word_new_br11 | try<br>hill<br>leopard<br>abstract<br>knee<br>rice<br>process<br>gift<br>pair<br>swift<br>dose |  
-| bip_39_word_new_br12 | try<br>hill<br>leopard<br>abstract<br>knee<br>rice<br>process<br>gift<br>pair<br>swift<br>dose<br>atom |  
-| bip_39_word_new_br2 | try<br>hill |  
-| bip_39_word_new_br3 | try<br>hill<br>leopard |  
-| bip_39_word_new_br4 | try<br>hill<br>leopard<br>abstract |  
-| bip_39_word_new_br5 | try<br>hill<br>leopard<br>abstract<br>knee |  
-| bip_39_word_new_br6 | try<br>hill<br>leopard<br>abstract<br>knee<br>rice |  
-| bip_39_word_new_br7 | try<br>hill<br>leopard<br>abstract<br>knee<br>rice<br>process |  
-| bip_39_word_new_br8 | try<br>hill<br>leopard<br>abstract<br>knee<br>rice<br>process<br>gift |  
-| bip_39_word_new_br9 | try<br>hill<br>leopard<br>abstract<br>knee<br>rice<br>process<br>gift<br>pair |  
-| bip_39_word_new_line1 | try |  
-| bip_39_word_new_line10 | try
+| bip_39_word_new_br_1 | try |  
+| bip_39_word_new_br_10 | try<br>hill<br>leopard<br>abstract<br>knee<br>rice<br>process<br>gift<br>pair<br>swift |  
+| bip_39_word_new_br_11 | try<br>hill<br>leopard<br>abstract<br>knee<br>rice<br>process<br>gift<br>pair<br>swift<br>dose |  
+| bip_39_word_new_br_12 | try<br>hill<br>leopard<br>abstract<br>knee<br>rice<br>process<br>gift<br>pair<br>swift<br>dose<br>atom |  
+| bip_39_word_new_br_2 | try<br>hill |  
+| bip_39_word_new_br_3 | try<br>hill<br>leopard |  
+| bip_39_word_new_br_4 | try<br>hill<br>leopard<br>abstract |  
+| bip_39_word_new_br_5 | try<br>hill<br>leopard<br>abstract<br>knee |  
+| bip_39_word_new_br_6 | try<br>hill<br>leopard<br>abstract<br>knee<br>rice |  
+| bip_39_word_new_br_7 | try<br>hill<br>leopard<br>abstract<br>knee<br>rice<br>process |  
+| bip_39_word_new_br_8 | try<br>hill<br>leopard<br>abstract<br>knee<br>rice<br>process<br>gift |  
+| bip_39_word_new_br_9 | try<br>hill<br>leopard<br>abstract<br>knee<br>rice<br>process<br>gift<br>pair |  
+| bip_39_word_new_line_1 | try |  
+| bip_39_word_new_line_10 | try
 hill
 leopard
 abstract
@@ -55,7 +55,7 @@ process
 gift
 pair
 swift |  
-| bip_39_word_new_line11 | try
+| bip_39_word_new_line_11 | try
 hill
 leopard
 abstract
@@ -66,7 +66,7 @@ gift
 pair
 swift
 dose |  
-| bip_39_word_new_line12 | try
+| bip_39_word_new_line_12 | try
 hill
 leopard
 abstract
@@ -78,34 +78,34 @@ pair
 swift
 dose
 atom |  
-| bip_39_word_new_line2 | try
+| bip_39_word_new_line_2 | try
 hill |  
-| bip_39_word_new_line3 | try
+| bip_39_word_new_line_3 | try
 hill
 leopard |  
-| bip_39_word_new_line4 | try
+| bip_39_word_new_line_4 | try
 hill
 leopard
 abstract |  
-| bip_39_word_new_line5 | try
+| bip_39_word_new_line_5 | try
 hill
 leopard
 abstract
 knee |  
-| bip_39_word_new_line6 | try
+| bip_39_word_new_line_6 | try
 hill
 leopard
 abstract
 knee
 rice |  
-| bip_39_word_new_line7 | try
+| bip_39_word_new_line_7 | try
 hill
 leopard
 abstract
 knee
 rice
 process |  
-| bip_39_word_new_line8 | try
+| bip_39_word_new_line_8 | try
 hill
 leopard
 abstract
@@ -113,7 +113,7 @@ knee
 rice
 process
 gift |  
-| bip_39_word_new_line9 | try
+| bip_39_word_new_line_9 | try
 hill
 leopard
 abstract

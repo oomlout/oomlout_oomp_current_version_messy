@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | decide |  
-| bip_39_word_new_br10 | decide<br>pink<br>surge<br>senior<br>build<br>mass<br>escape<br>moment<br>anger<br>climb |  
-| bip_39_word_new_br11 | decide<br>pink<br>surge<br>senior<br>build<br>mass<br>escape<br>moment<br>anger<br>climb<br>enact |  
-| bip_39_word_new_br12 | decide<br>pink<br>surge<br>senior<br>build<br>mass<br>escape<br>moment<br>anger<br>climb<br>enact<br>actress |  
-| bip_39_word_new_br2 | decide<br>pink |  
-| bip_39_word_new_br3 | decide<br>pink<br>surge |  
-| bip_39_word_new_br4 | decide<br>pink<br>surge<br>senior |  
-| bip_39_word_new_br5 | decide<br>pink<br>surge<br>senior<br>build |  
-| bip_39_word_new_br6 | decide<br>pink<br>surge<br>senior<br>build<br>mass |  
-| bip_39_word_new_br7 | decide<br>pink<br>surge<br>senior<br>build<br>mass<br>escape |  
-| bip_39_word_new_br8 | decide<br>pink<br>surge<br>senior<br>build<br>mass<br>escape<br>moment |  
-| bip_39_word_new_br9 | decide<br>pink<br>surge<br>senior<br>build<br>mass<br>escape<br>moment<br>anger |  
-| bip_39_word_new_line1 | decide |  
-| bip_39_word_new_line10 | decide
+| bip_39_word_new_br_1 | decide |  
+| bip_39_word_new_br_10 | decide<br>pink<br>surge<br>senior<br>build<br>mass<br>escape<br>moment<br>anger<br>climb |  
+| bip_39_word_new_br_11 | decide<br>pink<br>surge<br>senior<br>build<br>mass<br>escape<br>moment<br>anger<br>climb<br>enact |  
+| bip_39_word_new_br_12 | decide<br>pink<br>surge<br>senior<br>build<br>mass<br>escape<br>moment<br>anger<br>climb<br>enact<br>actress |  
+| bip_39_word_new_br_2 | decide<br>pink |  
+| bip_39_word_new_br_3 | decide<br>pink<br>surge |  
+| bip_39_word_new_br_4 | decide<br>pink<br>surge<br>senior |  
+| bip_39_word_new_br_5 | decide<br>pink<br>surge<br>senior<br>build |  
+| bip_39_word_new_br_6 | decide<br>pink<br>surge<br>senior<br>build<br>mass |  
+| bip_39_word_new_br_7 | decide<br>pink<br>surge<br>senior<br>build<br>mass<br>escape |  
+| bip_39_word_new_br_8 | decide<br>pink<br>surge<br>senior<br>build<br>mass<br>escape<br>moment |  
+| bip_39_word_new_br_9 | decide<br>pink<br>surge<br>senior<br>build<br>mass<br>escape<br>moment<br>anger |  
+| bip_39_word_new_line_1 | decide |  
+| bip_39_word_new_line_10 | decide
 pink
 surge
 senior
@@ -55,7 +55,7 @@ escape
 moment
 anger
 climb |  
-| bip_39_word_new_line11 | decide
+| bip_39_word_new_line_11 | decide
 pink
 surge
 senior
@@ -66,7 +66,7 @@ moment
 anger
 climb
 enact |  
-| bip_39_word_new_line12 | decide
+| bip_39_word_new_line_12 | decide
 pink
 surge
 senior
@@ -78,34 +78,34 @@ anger
 climb
 enact
 actress |  
-| bip_39_word_new_line2 | decide
+| bip_39_word_new_line_2 | decide
 pink |  
-| bip_39_word_new_line3 | decide
+| bip_39_word_new_line_3 | decide
 pink
 surge |  
-| bip_39_word_new_line4 | decide
+| bip_39_word_new_line_4 | decide
 pink
 surge
 senior |  
-| bip_39_word_new_line5 | decide
+| bip_39_word_new_line_5 | decide
 pink
 surge
 senior
 build |  
-| bip_39_word_new_line6 | decide
+| bip_39_word_new_line_6 | decide
 pink
 surge
 senior
 build
 mass |  
-| bip_39_word_new_line7 | decide
+| bip_39_word_new_line_7 | decide
 pink
 surge
 senior
 build
 mass
 escape |  
-| bip_39_word_new_line8 | decide
+| bip_39_word_new_line_8 | decide
 pink
 surge
 senior
@@ -113,7 +113,7 @@ build
 mass
 escape
 moment |  
-| bip_39_word_new_line9 | decide
+| bip_39_word_new_line_9 | decide
 pink
 surge
 senior

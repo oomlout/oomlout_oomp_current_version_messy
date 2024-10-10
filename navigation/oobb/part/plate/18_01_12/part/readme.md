@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | prepare |  
-| bip_39_word_new_br10 | prepare<br>arctic<br>frog<br>unique<br>inherit<br>simple<br>humor<br>powder<br>blast<br>ankle |  
-| bip_39_word_new_br11 | prepare<br>arctic<br>frog<br>unique<br>inherit<br>simple<br>humor<br>powder<br>blast<br>ankle<br>flame |  
-| bip_39_word_new_br12 | prepare<br>arctic<br>frog<br>unique<br>inherit<br>simple<br>humor<br>powder<br>blast<br>ankle<br>flame<br>admit |  
-| bip_39_word_new_br2 | prepare<br>arctic |  
-| bip_39_word_new_br3 | prepare<br>arctic<br>frog |  
-| bip_39_word_new_br4 | prepare<br>arctic<br>frog<br>unique |  
-| bip_39_word_new_br5 | prepare<br>arctic<br>frog<br>unique<br>inherit |  
-| bip_39_word_new_br6 | prepare<br>arctic<br>frog<br>unique<br>inherit<br>simple |  
-| bip_39_word_new_br7 | prepare<br>arctic<br>frog<br>unique<br>inherit<br>simple<br>humor |  
-| bip_39_word_new_br8 | prepare<br>arctic<br>frog<br>unique<br>inherit<br>simple<br>humor<br>powder |  
-| bip_39_word_new_br9 | prepare<br>arctic<br>frog<br>unique<br>inherit<br>simple<br>humor<br>powder<br>blast |  
-| bip_39_word_new_line1 | prepare |  
-| bip_39_word_new_line10 | prepare
+| bip_39_word_new_br_1 | prepare |  
+| bip_39_word_new_br_10 | prepare<br>arctic<br>frog<br>unique<br>inherit<br>simple<br>humor<br>powder<br>blast<br>ankle |  
+| bip_39_word_new_br_11 | prepare<br>arctic<br>frog<br>unique<br>inherit<br>simple<br>humor<br>powder<br>blast<br>ankle<br>flame |  
+| bip_39_word_new_br_12 | prepare<br>arctic<br>frog<br>unique<br>inherit<br>simple<br>humor<br>powder<br>blast<br>ankle<br>flame<br>admit |  
+| bip_39_word_new_br_2 | prepare<br>arctic |  
+| bip_39_word_new_br_3 | prepare<br>arctic<br>frog |  
+| bip_39_word_new_br_4 | prepare<br>arctic<br>frog<br>unique |  
+| bip_39_word_new_br_5 | prepare<br>arctic<br>frog<br>unique<br>inherit |  
+| bip_39_word_new_br_6 | prepare<br>arctic<br>frog<br>unique<br>inherit<br>simple |  
+| bip_39_word_new_br_7 | prepare<br>arctic<br>frog<br>unique<br>inherit<br>simple<br>humor |  
+| bip_39_word_new_br_8 | prepare<br>arctic<br>frog<br>unique<br>inherit<br>simple<br>humor<br>powder |  
+| bip_39_word_new_br_9 | prepare<br>arctic<br>frog<br>unique<br>inherit<br>simple<br>humor<br>powder<br>blast |  
+| bip_39_word_new_line_1 | prepare |  
+| bip_39_word_new_line_10 | prepare
 arctic
 frog
 unique
@@ -55,7 +55,7 @@ humor
 powder
 blast
 ankle |  
-| bip_39_word_new_line11 | prepare
+| bip_39_word_new_line_11 | prepare
 arctic
 frog
 unique
@@ -66,7 +66,7 @@ powder
 blast
 ankle
 flame |  
-| bip_39_word_new_line12 | prepare
+| bip_39_word_new_line_12 | prepare
 arctic
 frog
 unique
@@ -78,34 +78,34 @@ blast
 ankle
 flame
 admit |  
-| bip_39_word_new_line2 | prepare
+| bip_39_word_new_line_2 | prepare
 arctic |  
-| bip_39_word_new_line3 | prepare
+| bip_39_word_new_line_3 | prepare
 arctic
 frog |  
-| bip_39_word_new_line4 | prepare
+| bip_39_word_new_line_4 | prepare
 arctic
 frog
 unique |  
-| bip_39_word_new_line5 | prepare
+| bip_39_word_new_line_5 | prepare
 arctic
 frog
 unique
 inherit |  
-| bip_39_word_new_line6 | prepare
+| bip_39_word_new_line_6 | prepare
 arctic
 frog
 unique
 inherit
 simple |  
-| bip_39_word_new_line7 | prepare
+| bip_39_word_new_line_7 | prepare
 arctic
 frog
 unique
 inherit
 simple
 humor |  
-| bip_39_word_new_line8 | prepare
+| bip_39_word_new_line_8 | prepare
 arctic
 frog
 unique
@@ -113,7 +113,7 @@ inherit
 simple
 humor
 powder |  
-| bip_39_word_new_line9 | prepare
+| bip_39_word_new_line_9 | prepare
 arctic
 frog
 unique

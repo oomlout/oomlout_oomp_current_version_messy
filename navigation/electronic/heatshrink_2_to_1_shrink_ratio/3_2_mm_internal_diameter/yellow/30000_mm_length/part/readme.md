@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wink |  
-| bip_39_word_new_br10 | wink<br>sail<br>recycle<br>item<br>usage<br>immense<br>usage<br>later<br>include<br>cover |  
-| bip_39_word_new_br11 | wink<br>sail<br>recycle<br>item<br>usage<br>immense<br>usage<br>later<br>include<br>cover<br>gesture |  
-| bip_39_word_new_br12 | wink<br>sail<br>recycle<br>item<br>usage<br>immense<br>usage<br>later<br>include<br>cover<br>gesture<br>absent |  
-| bip_39_word_new_br2 | wink<br>sail |  
-| bip_39_word_new_br3 | wink<br>sail<br>recycle |  
-| bip_39_word_new_br4 | wink<br>sail<br>recycle<br>item |  
-| bip_39_word_new_br5 | wink<br>sail<br>recycle<br>item<br>usage |  
-| bip_39_word_new_br6 | wink<br>sail<br>recycle<br>item<br>usage<br>immense |  
-| bip_39_word_new_br7 | wink<br>sail<br>recycle<br>item<br>usage<br>immense<br>usage |  
-| bip_39_word_new_br8 | wink<br>sail<br>recycle<br>item<br>usage<br>immense<br>usage<br>later |  
-| bip_39_word_new_br9 | wink<br>sail<br>recycle<br>item<br>usage<br>immense<br>usage<br>later<br>include |  
-| bip_39_word_new_line1 | wink |  
-| bip_39_word_new_line10 | wink
+| bip_39_word_new_br_1 | wink |  
+| bip_39_word_new_br_10 | wink<br>sail<br>recycle<br>item<br>usage<br>immense<br>usage<br>later<br>include<br>cover |  
+| bip_39_word_new_br_11 | wink<br>sail<br>recycle<br>item<br>usage<br>immense<br>usage<br>later<br>include<br>cover<br>gesture |  
+| bip_39_word_new_br_12 | wink<br>sail<br>recycle<br>item<br>usage<br>immense<br>usage<br>later<br>include<br>cover<br>gesture<br>absent |  
+| bip_39_word_new_br_2 | wink<br>sail |  
+| bip_39_word_new_br_3 | wink<br>sail<br>recycle |  
+| bip_39_word_new_br_4 | wink<br>sail<br>recycle<br>item |  
+| bip_39_word_new_br_5 | wink<br>sail<br>recycle<br>item<br>usage |  
+| bip_39_word_new_br_6 | wink<br>sail<br>recycle<br>item<br>usage<br>immense |  
+| bip_39_word_new_br_7 | wink<br>sail<br>recycle<br>item<br>usage<br>immense<br>usage |  
+| bip_39_word_new_br_8 | wink<br>sail<br>recycle<br>item<br>usage<br>immense<br>usage<br>later |  
+| bip_39_word_new_br_9 | wink<br>sail<br>recycle<br>item<br>usage<br>immense<br>usage<br>later<br>include |  
+| bip_39_word_new_line_1 | wink |  
+| bip_39_word_new_line_10 | wink
 sail
 recycle
 item
@@ -55,7 +55,7 @@ usage
 later
 include
 cover |  
-| bip_39_word_new_line11 | wink
+| bip_39_word_new_line_11 | wink
 sail
 recycle
 item
@@ -66,7 +66,7 @@ later
 include
 cover
 gesture |  
-| bip_39_word_new_line12 | wink
+| bip_39_word_new_line_12 | wink
 sail
 recycle
 item
@@ -78,34 +78,34 @@ include
 cover
 gesture
 absent |  
-| bip_39_word_new_line2 | wink
+| bip_39_word_new_line_2 | wink
 sail |  
-| bip_39_word_new_line3 | wink
+| bip_39_word_new_line_3 | wink
 sail
 recycle |  
-| bip_39_word_new_line4 | wink
+| bip_39_word_new_line_4 | wink
 sail
 recycle
 item |  
-| bip_39_word_new_line5 | wink
+| bip_39_word_new_line_5 | wink
 sail
 recycle
 item
 usage |  
-| bip_39_word_new_line6 | wink
+| bip_39_word_new_line_6 | wink
 sail
 recycle
 item
 usage
 immense |  
-| bip_39_word_new_line7 | wink
+| bip_39_word_new_line_7 | wink
 sail
 recycle
 item
 usage
 immense
 usage |  
-| bip_39_word_new_line8 | wink
+| bip_39_word_new_line_8 | wink
 sail
 recycle
 item
@@ -113,7 +113,7 @@ usage
 immense
 usage
 later |  
-| bip_39_word_new_line9 | wink
+| bip_39_word_new_line_9 | wink
 sail
 recycle
 item

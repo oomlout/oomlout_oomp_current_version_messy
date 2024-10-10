@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | spider |  
-| bip_39_word_new_br10 | spider<br>input<br>once<br>tornado<br>aim<br>type<br>tuition<br>oxygen<br>raccoon<br>hospital |  
-| bip_39_word_new_br11 | spider<br>input<br>once<br>tornado<br>aim<br>type<br>tuition<br>oxygen<br>raccoon<br>hospital<br>doctor |  
-| bip_39_word_new_br12 | spider<br>input<br>once<br>tornado<br>aim<br>type<br>tuition<br>oxygen<br>raccoon<br>hospital<br>doctor<br>arm |  
-| bip_39_word_new_br2 | spider<br>input |  
-| bip_39_word_new_br3 | spider<br>input<br>once |  
-| bip_39_word_new_br4 | spider<br>input<br>once<br>tornado |  
-| bip_39_word_new_br5 | spider<br>input<br>once<br>tornado<br>aim |  
-| bip_39_word_new_br6 | spider<br>input<br>once<br>tornado<br>aim<br>type |  
-| bip_39_word_new_br7 | spider<br>input<br>once<br>tornado<br>aim<br>type<br>tuition |  
-| bip_39_word_new_br8 | spider<br>input<br>once<br>tornado<br>aim<br>type<br>tuition<br>oxygen |  
-| bip_39_word_new_br9 | spider<br>input<br>once<br>tornado<br>aim<br>type<br>tuition<br>oxygen<br>raccoon |  
-| bip_39_word_new_line1 | spider |  
-| bip_39_word_new_line10 | spider
+| bip_39_word_new_br_1 | spider |  
+| bip_39_word_new_br_10 | spider<br>input<br>once<br>tornado<br>aim<br>type<br>tuition<br>oxygen<br>raccoon<br>hospital |  
+| bip_39_word_new_br_11 | spider<br>input<br>once<br>tornado<br>aim<br>type<br>tuition<br>oxygen<br>raccoon<br>hospital<br>doctor |  
+| bip_39_word_new_br_12 | spider<br>input<br>once<br>tornado<br>aim<br>type<br>tuition<br>oxygen<br>raccoon<br>hospital<br>doctor<br>arm |  
+| bip_39_word_new_br_2 | spider<br>input |  
+| bip_39_word_new_br_3 | spider<br>input<br>once |  
+| bip_39_word_new_br_4 | spider<br>input<br>once<br>tornado |  
+| bip_39_word_new_br_5 | spider<br>input<br>once<br>tornado<br>aim |  
+| bip_39_word_new_br_6 | spider<br>input<br>once<br>tornado<br>aim<br>type |  
+| bip_39_word_new_br_7 | spider<br>input<br>once<br>tornado<br>aim<br>type<br>tuition |  
+| bip_39_word_new_br_8 | spider<br>input<br>once<br>tornado<br>aim<br>type<br>tuition<br>oxygen |  
+| bip_39_word_new_br_9 | spider<br>input<br>once<br>tornado<br>aim<br>type<br>tuition<br>oxygen<br>raccoon |  
+| bip_39_word_new_line_1 | spider |  
+| bip_39_word_new_line_10 | spider
 input
 once
 tornado
@@ -55,7 +55,7 @@ tuition
 oxygen
 raccoon
 hospital |  
-| bip_39_word_new_line11 | spider
+| bip_39_word_new_line_11 | spider
 input
 once
 tornado
@@ -66,7 +66,7 @@ oxygen
 raccoon
 hospital
 doctor |  
-| bip_39_word_new_line12 | spider
+| bip_39_word_new_line_12 | spider
 input
 once
 tornado
@@ -78,34 +78,34 @@ raccoon
 hospital
 doctor
 arm |  
-| bip_39_word_new_line2 | spider
+| bip_39_word_new_line_2 | spider
 input |  
-| bip_39_word_new_line3 | spider
+| bip_39_word_new_line_3 | spider
 input
 once |  
-| bip_39_word_new_line4 | spider
+| bip_39_word_new_line_4 | spider
 input
 once
 tornado |  
-| bip_39_word_new_line5 | spider
+| bip_39_word_new_line_5 | spider
 input
 once
 tornado
 aim |  
-| bip_39_word_new_line6 | spider
+| bip_39_word_new_line_6 | spider
 input
 once
 tornado
 aim
 type |  
-| bip_39_word_new_line7 | spider
+| bip_39_word_new_line_7 | spider
 input
 once
 tornado
 aim
 type
 tuition |  
-| bip_39_word_new_line8 | spider
+| bip_39_word_new_line_8 | spider
 input
 once
 tornado
@@ -113,7 +113,7 @@ aim
 type
 tuition
 oxygen |  
-| bip_39_word_new_line9 | spider
+| bip_39_word_new_line_9 | spider
 input
 once
 tornado

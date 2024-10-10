@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | teach |  
-| bip_39_word_new_br10 | teach<br>sweet<br>advance<br>genre<br>thing<br>remove<br>grass<br>engine<br>canyon<br>stuff |  
-| bip_39_word_new_br11 | teach<br>sweet<br>advance<br>genre<br>thing<br>remove<br>grass<br>engine<br>canyon<br>stuff<br>middle |  
-| bip_39_word_new_br12 | teach<br>sweet<br>advance<br>genre<br>thing<br>remove<br>grass<br>engine<br>canyon<br>stuff<br>middle<br>already |  
-| bip_39_word_new_br2 | teach<br>sweet |  
-| bip_39_word_new_br3 | teach<br>sweet<br>advance |  
-| bip_39_word_new_br4 | teach<br>sweet<br>advance<br>genre |  
-| bip_39_word_new_br5 | teach<br>sweet<br>advance<br>genre<br>thing |  
-| bip_39_word_new_br6 | teach<br>sweet<br>advance<br>genre<br>thing<br>remove |  
-| bip_39_word_new_br7 | teach<br>sweet<br>advance<br>genre<br>thing<br>remove<br>grass |  
-| bip_39_word_new_br8 | teach<br>sweet<br>advance<br>genre<br>thing<br>remove<br>grass<br>engine |  
-| bip_39_word_new_br9 | teach<br>sweet<br>advance<br>genre<br>thing<br>remove<br>grass<br>engine<br>canyon |  
-| bip_39_word_new_line1 | teach |  
-| bip_39_word_new_line10 | teach
+| bip_39_word_new_br_1 | teach |  
+| bip_39_word_new_br_10 | teach<br>sweet<br>advance<br>genre<br>thing<br>remove<br>grass<br>engine<br>canyon<br>stuff |  
+| bip_39_word_new_br_11 | teach<br>sweet<br>advance<br>genre<br>thing<br>remove<br>grass<br>engine<br>canyon<br>stuff<br>middle |  
+| bip_39_word_new_br_12 | teach<br>sweet<br>advance<br>genre<br>thing<br>remove<br>grass<br>engine<br>canyon<br>stuff<br>middle<br>already |  
+| bip_39_word_new_br_2 | teach<br>sweet |  
+| bip_39_word_new_br_3 | teach<br>sweet<br>advance |  
+| bip_39_word_new_br_4 | teach<br>sweet<br>advance<br>genre |  
+| bip_39_word_new_br_5 | teach<br>sweet<br>advance<br>genre<br>thing |  
+| bip_39_word_new_br_6 | teach<br>sweet<br>advance<br>genre<br>thing<br>remove |  
+| bip_39_word_new_br_7 | teach<br>sweet<br>advance<br>genre<br>thing<br>remove<br>grass |  
+| bip_39_word_new_br_8 | teach<br>sweet<br>advance<br>genre<br>thing<br>remove<br>grass<br>engine |  
+| bip_39_word_new_br_9 | teach<br>sweet<br>advance<br>genre<br>thing<br>remove<br>grass<br>engine<br>canyon |  
+| bip_39_word_new_line_1 | teach |  
+| bip_39_word_new_line_10 | teach
 sweet
 advance
 genre
@@ -55,7 +55,7 @@ grass
 engine
 canyon
 stuff |  
-| bip_39_word_new_line11 | teach
+| bip_39_word_new_line_11 | teach
 sweet
 advance
 genre
@@ -66,7 +66,7 @@ engine
 canyon
 stuff
 middle |  
-| bip_39_word_new_line12 | teach
+| bip_39_word_new_line_12 | teach
 sweet
 advance
 genre
@@ -78,34 +78,34 @@ canyon
 stuff
 middle
 already |  
-| bip_39_word_new_line2 | teach
+| bip_39_word_new_line_2 | teach
 sweet |  
-| bip_39_word_new_line3 | teach
+| bip_39_word_new_line_3 | teach
 sweet
 advance |  
-| bip_39_word_new_line4 | teach
+| bip_39_word_new_line_4 | teach
 sweet
 advance
 genre |  
-| bip_39_word_new_line5 | teach
+| bip_39_word_new_line_5 | teach
 sweet
 advance
 genre
 thing |  
-| bip_39_word_new_line6 | teach
+| bip_39_word_new_line_6 | teach
 sweet
 advance
 genre
 thing
 remove |  
-| bip_39_word_new_line7 | teach
+| bip_39_word_new_line_7 | teach
 sweet
 advance
 genre
 thing
 remove
 grass |  
-| bip_39_word_new_line8 | teach
+| bip_39_word_new_line_8 | teach
 sweet
 advance
 genre
@@ -113,7 +113,7 @@ thing
 remove
 grass
 engine |  
-| bip_39_word_new_line9 | teach
+| bip_39_word_new_line_9 | teach
 sweet
 advance
 genre

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | weird |  
-| bip_39_word_new_br10 | weird<br>basket<br>gain<br>uncover<br>hub<br>dawn<br>swing<br>acid<br>found<br>timber |  
-| bip_39_word_new_br11 | weird<br>basket<br>gain<br>uncover<br>hub<br>dawn<br>swing<br>acid<br>found<br>timber<br>music |  
-| bip_39_word_new_br12 | weird<br>basket<br>gain<br>uncover<br>hub<br>dawn<br>swing<br>acid<br>found<br>timber<br>music<br>artist |  
-| bip_39_word_new_br2 | weird<br>basket |  
-| bip_39_word_new_br3 | weird<br>basket<br>gain |  
-| bip_39_word_new_br4 | weird<br>basket<br>gain<br>uncover |  
-| bip_39_word_new_br5 | weird<br>basket<br>gain<br>uncover<br>hub |  
-| bip_39_word_new_br6 | weird<br>basket<br>gain<br>uncover<br>hub<br>dawn |  
-| bip_39_word_new_br7 | weird<br>basket<br>gain<br>uncover<br>hub<br>dawn<br>swing |  
-| bip_39_word_new_br8 | weird<br>basket<br>gain<br>uncover<br>hub<br>dawn<br>swing<br>acid |  
-| bip_39_word_new_br9 | weird<br>basket<br>gain<br>uncover<br>hub<br>dawn<br>swing<br>acid<br>found |  
-| bip_39_word_new_line1 | weird |  
-| bip_39_word_new_line10 | weird
+| bip_39_word_new_br_1 | weird |  
+| bip_39_word_new_br_10 | weird<br>basket<br>gain<br>uncover<br>hub<br>dawn<br>swing<br>acid<br>found<br>timber |  
+| bip_39_word_new_br_11 | weird<br>basket<br>gain<br>uncover<br>hub<br>dawn<br>swing<br>acid<br>found<br>timber<br>music |  
+| bip_39_word_new_br_12 | weird<br>basket<br>gain<br>uncover<br>hub<br>dawn<br>swing<br>acid<br>found<br>timber<br>music<br>artist |  
+| bip_39_word_new_br_2 | weird<br>basket |  
+| bip_39_word_new_br_3 | weird<br>basket<br>gain |  
+| bip_39_word_new_br_4 | weird<br>basket<br>gain<br>uncover |  
+| bip_39_word_new_br_5 | weird<br>basket<br>gain<br>uncover<br>hub |  
+| bip_39_word_new_br_6 | weird<br>basket<br>gain<br>uncover<br>hub<br>dawn |  
+| bip_39_word_new_br_7 | weird<br>basket<br>gain<br>uncover<br>hub<br>dawn<br>swing |  
+| bip_39_word_new_br_8 | weird<br>basket<br>gain<br>uncover<br>hub<br>dawn<br>swing<br>acid |  
+| bip_39_word_new_br_9 | weird<br>basket<br>gain<br>uncover<br>hub<br>dawn<br>swing<br>acid<br>found |  
+| bip_39_word_new_line_1 | weird |  
+| bip_39_word_new_line_10 | weird
 basket
 gain
 uncover
@@ -55,7 +55,7 @@ swing
 acid
 found
 timber |  
-| bip_39_word_new_line11 | weird
+| bip_39_word_new_line_11 | weird
 basket
 gain
 uncover
@@ -66,7 +66,7 @@ acid
 found
 timber
 music |  
-| bip_39_word_new_line12 | weird
+| bip_39_word_new_line_12 | weird
 basket
 gain
 uncover
@@ -78,34 +78,34 @@ found
 timber
 music
 artist |  
-| bip_39_word_new_line2 | weird
+| bip_39_word_new_line_2 | weird
 basket |  
-| bip_39_word_new_line3 | weird
+| bip_39_word_new_line_3 | weird
 basket
 gain |  
-| bip_39_word_new_line4 | weird
+| bip_39_word_new_line_4 | weird
 basket
 gain
 uncover |  
-| bip_39_word_new_line5 | weird
+| bip_39_word_new_line_5 | weird
 basket
 gain
 uncover
 hub |  
-| bip_39_word_new_line6 | weird
+| bip_39_word_new_line_6 | weird
 basket
 gain
 uncover
 hub
 dawn |  
-| bip_39_word_new_line7 | weird
+| bip_39_word_new_line_7 | weird
 basket
 gain
 uncover
 hub
 dawn
 swing |  
-| bip_39_word_new_line8 | weird
+| bip_39_word_new_line_8 | weird
 basket
 gain
 uncover
@@ -113,7 +113,7 @@ hub
 dawn
 swing
 acid |  
-| bip_39_word_new_line9 | weird
+| bip_39_word_new_line_9 | weird
 basket
 gain
 uncover

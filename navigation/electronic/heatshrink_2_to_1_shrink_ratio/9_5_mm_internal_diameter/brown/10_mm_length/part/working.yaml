@@ -1,17 +1,17 @@
-bip_39_word_new_br1: key
-bip_39_word_new_br10: key<br>later<br>indoor<br>become<br>enter<br>shoulder<br>strategy<br>very<br>stable<br>margin
-bip_39_word_new_br11: key<br>later<br>indoor<br>become<br>enter<br>shoulder<br>strategy<br>very<br>stable<br>margin<br>this
-bip_39_word_new_br12: key<br>later<br>indoor<br>become<br>enter<br>shoulder<br>strategy<br>very<br>stable<br>margin<br>this<br>add
-bip_39_word_new_br2: key<br>later
-bip_39_word_new_br3: key<br>later<br>indoor
-bip_39_word_new_br4: key<br>later<br>indoor<br>become
-bip_39_word_new_br5: key<br>later<br>indoor<br>become<br>enter
-bip_39_word_new_br6: key<br>later<br>indoor<br>become<br>enter<br>shoulder
-bip_39_word_new_br7: key<br>later<br>indoor<br>become<br>enter<br>shoulder<br>strategy
-bip_39_word_new_br8: key<br>later<br>indoor<br>become<br>enter<br>shoulder<br>strategy<br>very
-bip_39_word_new_br9: key<br>later<br>indoor<br>become<br>enter<br>shoulder<br>strategy<br>very<br>stable
-bip_39_word_new_line1: key
-bip_39_word_new_line10: 'key
+bip_39_word_new_br_1: key
+bip_39_word_new_br_10: key<br>later<br>indoor<br>become<br>enter<br>shoulder<br>strategy<br>very<br>stable<br>margin
+bip_39_word_new_br_11: key<br>later<br>indoor<br>become<br>enter<br>shoulder<br>strategy<br>very<br>stable<br>margin<br>this
+bip_39_word_new_br_12: key<br>later<br>indoor<br>become<br>enter<br>shoulder<br>strategy<br>very<br>stable<br>margin<br>this<br>add
+bip_39_word_new_br_2: key<br>later
+bip_39_word_new_br_3: key<br>later<br>indoor
+bip_39_word_new_br_4: key<br>later<br>indoor<br>become
+bip_39_word_new_br_5: key<br>later<br>indoor<br>become<br>enter
+bip_39_word_new_br_6: key<br>later<br>indoor<br>become<br>enter<br>shoulder
+bip_39_word_new_br_7: key<br>later<br>indoor<br>become<br>enter<br>shoulder<br>strategy
+bip_39_word_new_br_8: key<br>later<br>indoor<br>become<br>enter<br>shoulder<br>strategy<br>very
+bip_39_word_new_br_9: key<br>later<br>indoor<br>become<br>enter<br>shoulder<br>strategy<br>very<br>stable
+bip_39_word_new_line_1: key
+bip_39_word_new_line_10: 'key
 
   later
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'key
   stable
 
   margin'
-bip_39_word_new_line11: 'key
+bip_39_word_new_line_11: 'key
 
   later
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'key
   margin
 
   this'
-bip_39_word_new_line12: 'key
+bip_39_word_new_line_12: 'key
 
   later
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'key
   this
 
   add'
-bip_39_word_new_line2: 'key
+bip_39_word_new_line_2: 'key
 
   later'
-bip_39_word_new_line3: 'key
+bip_39_word_new_line_3: 'key
 
   later
 
   indoor'
-bip_39_word_new_line4: 'key
+bip_39_word_new_line_4: 'key
 
   later
 
   indoor
 
   become'
-bip_39_word_new_line5: 'key
+bip_39_word_new_line_5: 'key
 
   later
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'key
   become
 
   enter'
-bip_39_word_new_line6: 'key
+bip_39_word_new_line_6: 'key
 
   later
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'key
   enter
 
   shoulder'
-bip_39_word_new_line7: 'key
+bip_39_word_new_line_7: 'key
 
   later
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'key
   shoulder
 
   strategy'
-bip_39_word_new_line8: 'key
+bip_39_word_new_line_8: 'key
 
   later
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'key
   strategy
 
   very'
-bip_39_word_new_line9: 'key
+bip_39_word_new_line_9: 'key
 
   later
 

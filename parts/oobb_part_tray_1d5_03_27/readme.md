@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | exit |  
-| bip_39_word_new_br10 | exit<br>outer<br>obey<br>suit<br>update<br>swallow<br>oil<br>little<br>enact<br>reject |  
-| bip_39_word_new_br11 | exit<br>outer<br>obey<br>suit<br>update<br>swallow<br>oil<br>little<br>enact<br>reject<br>modify |  
-| bip_39_word_new_br12 | exit<br>outer<br>obey<br>suit<br>update<br>swallow<br>oil<br>little<br>enact<br>reject<br>modify<br>almost |  
-| bip_39_word_new_br2 | exit<br>outer |  
-| bip_39_word_new_br3 | exit<br>outer<br>obey |  
-| bip_39_word_new_br4 | exit<br>outer<br>obey<br>suit |  
-| bip_39_word_new_br5 | exit<br>outer<br>obey<br>suit<br>update |  
-| bip_39_word_new_br6 | exit<br>outer<br>obey<br>suit<br>update<br>swallow |  
-| bip_39_word_new_br7 | exit<br>outer<br>obey<br>suit<br>update<br>swallow<br>oil |  
-| bip_39_word_new_br8 | exit<br>outer<br>obey<br>suit<br>update<br>swallow<br>oil<br>little |  
-| bip_39_word_new_br9 | exit<br>outer<br>obey<br>suit<br>update<br>swallow<br>oil<br>little<br>enact |  
-| bip_39_word_new_line1 | exit |  
-| bip_39_word_new_line10 | exit
+| bip_39_word_new_br_1 | exit |  
+| bip_39_word_new_br_10 | exit<br>outer<br>obey<br>suit<br>update<br>swallow<br>oil<br>little<br>enact<br>reject |  
+| bip_39_word_new_br_11 | exit<br>outer<br>obey<br>suit<br>update<br>swallow<br>oil<br>little<br>enact<br>reject<br>modify |  
+| bip_39_word_new_br_12 | exit<br>outer<br>obey<br>suit<br>update<br>swallow<br>oil<br>little<br>enact<br>reject<br>modify<br>almost |  
+| bip_39_word_new_br_2 | exit<br>outer |  
+| bip_39_word_new_br_3 | exit<br>outer<br>obey |  
+| bip_39_word_new_br_4 | exit<br>outer<br>obey<br>suit |  
+| bip_39_word_new_br_5 | exit<br>outer<br>obey<br>suit<br>update |  
+| bip_39_word_new_br_6 | exit<br>outer<br>obey<br>suit<br>update<br>swallow |  
+| bip_39_word_new_br_7 | exit<br>outer<br>obey<br>suit<br>update<br>swallow<br>oil |  
+| bip_39_word_new_br_8 | exit<br>outer<br>obey<br>suit<br>update<br>swallow<br>oil<br>little |  
+| bip_39_word_new_br_9 | exit<br>outer<br>obey<br>suit<br>update<br>swallow<br>oil<br>little<br>enact |  
+| bip_39_word_new_line_1 | exit |  
+| bip_39_word_new_line_10 | exit
 outer
 obey
 suit
@@ -55,7 +55,7 @@ oil
 little
 enact
 reject |  
-| bip_39_word_new_line11 | exit
+| bip_39_word_new_line_11 | exit
 outer
 obey
 suit
@@ -66,7 +66,7 @@ little
 enact
 reject
 modify |  
-| bip_39_word_new_line12 | exit
+| bip_39_word_new_line_12 | exit
 outer
 obey
 suit
@@ -78,34 +78,34 @@ enact
 reject
 modify
 almost |  
-| bip_39_word_new_line2 | exit
+| bip_39_word_new_line_2 | exit
 outer |  
-| bip_39_word_new_line3 | exit
+| bip_39_word_new_line_3 | exit
 outer
 obey |  
-| bip_39_word_new_line4 | exit
+| bip_39_word_new_line_4 | exit
 outer
 obey
 suit |  
-| bip_39_word_new_line5 | exit
+| bip_39_word_new_line_5 | exit
 outer
 obey
 suit
 update |  
-| bip_39_word_new_line6 | exit
+| bip_39_word_new_line_6 | exit
 outer
 obey
 suit
 update
 swallow |  
-| bip_39_word_new_line7 | exit
+| bip_39_word_new_line_7 | exit
 outer
 obey
 suit
 update
 swallow
 oil |  
-| bip_39_word_new_line8 | exit
+| bip_39_word_new_line_8 | exit
 outer
 obey
 suit
@@ -113,7 +113,7 @@ update
 swallow
 oil
 little |  
-| bip_39_word_new_line9 | exit
+| bip_39_word_new_line_9 | exit
 outer
 obey
 suit

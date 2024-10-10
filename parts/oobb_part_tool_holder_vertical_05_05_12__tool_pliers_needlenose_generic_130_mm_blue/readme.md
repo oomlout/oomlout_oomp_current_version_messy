@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | define |  
-| bip_39_word_new_br10 | define<br>solution<br>kingdom<br>crisp<br>again<br>thunder<br>clock<br>city<br>outer<br>pattern |  
-| bip_39_word_new_br11 | define<br>solution<br>kingdom<br>crisp<br>again<br>thunder<br>clock<br>city<br>outer<br>pattern<br>floor |  
-| bip_39_word_new_br12 | define<br>solution<br>kingdom<br>crisp<br>again<br>thunder<br>clock<br>city<br>outer<br>pattern<br>floor<br>achieve |  
-| bip_39_word_new_br2 | define<br>solution |  
-| bip_39_word_new_br3 | define<br>solution<br>kingdom |  
-| bip_39_word_new_br4 | define<br>solution<br>kingdom<br>crisp |  
-| bip_39_word_new_br5 | define<br>solution<br>kingdom<br>crisp<br>again |  
-| bip_39_word_new_br6 | define<br>solution<br>kingdom<br>crisp<br>again<br>thunder |  
-| bip_39_word_new_br7 | define<br>solution<br>kingdom<br>crisp<br>again<br>thunder<br>clock |  
-| bip_39_word_new_br8 | define<br>solution<br>kingdom<br>crisp<br>again<br>thunder<br>clock<br>city |  
-| bip_39_word_new_br9 | define<br>solution<br>kingdom<br>crisp<br>again<br>thunder<br>clock<br>city<br>outer |  
-| bip_39_word_new_line1 | define |  
-| bip_39_word_new_line10 | define
+| bip_39_word_new_br_1 | define |  
+| bip_39_word_new_br_10 | define<br>solution<br>kingdom<br>crisp<br>again<br>thunder<br>clock<br>city<br>outer<br>pattern |  
+| bip_39_word_new_br_11 | define<br>solution<br>kingdom<br>crisp<br>again<br>thunder<br>clock<br>city<br>outer<br>pattern<br>floor |  
+| bip_39_word_new_br_12 | define<br>solution<br>kingdom<br>crisp<br>again<br>thunder<br>clock<br>city<br>outer<br>pattern<br>floor<br>achieve |  
+| bip_39_word_new_br_2 | define<br>solution |  
+| bip_39_word_new_br_3 | define<br>solution<br>kingdom |  
+| bip_39_word_new_br_4 | define<br>solution<br>kingdom<br>crisp |  
+| bip_39_word_new_br_5 | define<br>solution<br>kingdom<br>crisp<br>again |  
+| bip_39_word_new_br_6 | define<br>solution<br>kingdom<br>crisp<br>again<br>thunder |  
+| bip_39_word_new_br_7 | define<br>solution<br>kingdom<br>crisp<br>again<br>thunder<br>clock |  
+| bip_39_word_new_br_8 | define<br>solution<br>kingdom<br>crisp<br>again<br>thunder<br>clock<br>city |  
+| bip_39_word_new_br_9 | define<br>solution<br>kingdom<br>crisp<br>again<br>thunder<br>clock<br>city<br>outer |  
+| bip_39_word_new_line_1 | define |  
+| bip_39_word_new_line_10 | define
 solution
 kingdom
 crisp
@@ -55,7 +55,7 @@ clock
 city
 outer
 pattern |  
-| bip_39_word_new_line11 | define
+| bip_39_word_new_line_11 | define
 solution
 kingdom
 crisp
@@ -66,7 +66,7 @@ city
 outer
 pattern
 floor |  
-| bip_39_word_new_line12 | define
+| bip_39_word_new_line_12 | define
 solution
 kingdom
 crisp
@@ -78,34 +78,34 @@ outer
 pattern
 floor
 achieve |  
-| bip_39_word_new_line2 | define
+| bip_39_word_new_line_2 | define
 solution |  
-| bip_39_word_new_line3 | define
+| bip_39_word_new_line_3 | define
 solution
 kingdom |  
-| bip_39_word_new_line4 | define
+| bip_39_word_new_line_4 | define
 solution
 kingdom
 crisp |  
-| bip_39_word_new_line5 | define
+| bip_39_word_new_line_5 | define
 solution
 kingdom
 crisp
 again |  
-| bip_39_word_new_line6 | define
+| bip_39_word_new_line_6 | define
 solution
 kingdom
 crisp
 again
 thunder |  
-| bip_39_word_new_line7 | define
+| bip_39_word_new_line_7 | define
 solution
 kingdom
 crisp
 again
 thunder
 clock |  
-| bip_39_word_new_line8 | define
+| bip_39_word_new_line_8 | define
 solution
 kingdom
 crisp
@@ -113,7 +113,7 @@ again
 thunder
 clock
 city |  
-| bip_39_word_new_line9 | define
+| bip_39_word_new_line_9 | define
 solution
 kingdom
 crisp

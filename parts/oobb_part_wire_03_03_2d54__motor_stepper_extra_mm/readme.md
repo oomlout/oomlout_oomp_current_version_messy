@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cream |  
-| bip_39_word_new_br10 | cream<br>vanish<br>jaguar<br>amount<br>foot<br>maid<br>aim<br>govern<br>mouse<br>add |  
-| bip_39_word_new_br11 | cream<br>vanish<br>jaguar<br>amount<br>foot<br>maid<br>aim<br>govern<br>mouse<br>add<br>empty |  
-| bip_39_word_new_br12 | cream<br>vanish<br>jaguar<br>amount<br>foot<br>maid<br>aim<br>govern<br>mouse<br>add<br>empty<br>afford |  
-| bip_39_word_new_br2 | cream<br>vanish |  
-| bip_39_word_new_br3 | cream<br>vanish<br>jaguar |  
-| bip_39_word_new_br4 | cream<br>vanish<br>jaguar<br>amount |  
-| bip_39_word_new_br5 | cream<br>vanish<br>jaguar<br>amount<br>foot |  
-| bip_39_word_new_br6 | cream<br>vanish<br>jaguar<br>amount<br>foot<br>maid |  
-| bip_39_word_new_br7 | cream<br>vanish<br>jaguar<br>amount<br>foot<br>maid<br>aim |  
-| bip_39_word_new_br8 | cream<br>vanish<br>jaguar<br>amount<br>foot<br>maid<br>aim<br>govern |  
-| bip_39_word_new_br9 | cream<br>vanish<br>jaguar<br>amount<br>foot<br>maid<br>aim<br>govern<br>mouse |  
-| bip_39_word_new_line1 | cream |  
-| bip_39_word_new_line10 | cream
+| bip_39_word_new_br_1 | cream |  
+| bip_39_word_new_br_10 | cream<br>vanish<br>jaguar<br>amount<br>foot<br>maid<br>aim<br>govern<br>mouse<br>add |  
+| bip_39_word_new_br_11 | cream<br>vanish<br>jaguar<br>amount<br>foot<br>maid<br>aim<br>govern<br>mouse<br>add<br>empty |  
+| bip_39_word_new_br_12 | cream<br>vanish<br>jaguar<br>amount<br>foot<br>maid<br>aim<br>govern<br>mouse<br>add<br>empty<br>afford |  
+| bip_39_word_new_br_2 | cream<br>vanish |  
+| bip_39_word_new_br_3 | cream<br>vanish<br>jaguar |  
+| bip_39_word_new_br_4 | cream<br>vanish<br>jaguar<br>amount |  
+| bip_39_word_new_br_5 | cream<br>vanish<br>jaguar<br>amount<br>foot |  
+| bip_39_word_new_br_6 | cream<br>vanish<br>jaguar<br>amount<br>foot<br>maid |  
+| bip_39_word_new_br_7 | cream<br>vanish<br>jaguar<br>amount<br>foot<br>maid<br>aim |  
+| bip_39_word_new_br_8 | cream<br>vanish<br>jaguar<br>amount<br>foot<br>maid<br>aim<br>govern |  
+| bip_39_word_new_br_9 | cream<br>vanish<br>jaguar<br>amount<br>foot<br>maid<br>aim<br>govern<br>mouse |  
+| bip_39_word_new_line_1 | cream |  
+| bip_39_word_new_line_10 | cream
 vanish
 jaguar
 amount
@@ -55,7 +55,7 @@ aim
 govern
 mouse
 add |  
-| bip_39_word_new_line11 | cream
+| bip_39_word_new_line_11 | cream
 vanish
 jaguar
 amount
@@ -66,7 +66,7 @@ govern
 mouse
 add
 empty |  
-| bip_39_word_new_line12 | cream
+| bip_39_word_new_line_12 | cream
 vanish
 jaguar
 amount
@@ -78,34 +78,34 @@ mouse
 add
 empty
 afford |  
-| bip_39_word_new_line2 | cream
+| bip_39_word_new_line_2 | cream
 vanish |  
-| bip_39_word_new_line3 | cream
+| bip_39_word_new_line_3 | cream
 vanish
 jaguar |  
-| bip_39_word_new_line4 | cream
+| bip_39_word_new_line_4 | cream
 vanish
 jaguar
 amount |  
-| bip_39_word_new_line5 | cream
+| bip_39_word_new_line_5 | cream
 vanish
 jaguar
 amount
 foot |  
-| bip_39_word_new_line6 | cream
+| bip_39_word_new_line_6 | cream
 vanish
 jaguar
 amount
 foot
 maid |  
-| bip_39_word_new_line7 | cream
+| bip_39_word_new_line_7 | cream
 vanish
 jaguar
 amount
 foot
 maid
 aim |  
-| bip_39_word_new_line8 | cream
+| bip_39_word_new_line_8 | cream
 vanish
 jaguar
 amount
@@ -113,7 +113,7 @@ foot
 maid
 aim
 govern |  
-| bip_39_word_new_line9 | cream
+| bip_39_word_new_line_9 | cream
 vanish
 jaguar
 amount

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bread |  
-| bip_39_word_new_br10 | bread<br>brother<br>burger<br>winter<br>recall<br>obscure<br>pool<br>genre<br>stereo<br>sausage |  
-| bip_39_word_new_br11 | bread<br>brother<br>burger<br>winter<br>recall<br>obscure<br>pool<br>genre<br>stereo<br>sausage<br>duck |  
-| bip_39_word_new_br12 | bread<br>brother<br>burger<br>winter<br>recall<br>obscure<br>pool<br>genre<br>stereo<br>sausage<br>duck<br>attend |  
-| bip_39_word_new_br2 | bread<br>brother |  
-| bip_39_word_new_br3 | bread<br>brother<br>burger |  
-| bip_39_word_new_br4 | bread<br>brother<br>burger<br>winter |  
-| bip_39_word_new_br5 | bread<br>brother<br>burger<br>winter<br>recall |  
-| bip_39_word_new_br6 | bread<br>brother<br>burger<br>winter<br>recall<br>obscure |  
-| bip_39_word_new_br7 | bread<br>brother<br>burger<br>winter<br>recall<br>obscure<br>pool |  
-| bip_39_word_new_br8 | bread<br>brother<br>burger<br>winter<br>recall<br>obscure<br>pool<br>genre |  
-| bip_39_word_new_br9 | bread<br>brother<br>burger<br>winter<br>recall<br>obscure<br>pool<br>genre<br>stereo |  
-| bip_39_word_new_line1 | bread |  
-| bip_39_word_new_line10 | bread
+| bip_39_word_new_br_1 | bread |  
+| bip_39_word_new_br_10 | bread<br>brother<br>burger<br>winter<br>recall<br>obscure<br>pool<br>genre<br>stereo<br>sausage |  
+| bip_39_word_new_br_11 | bread<br>brother<br>burger<br>winter<br>recall<br>obscure<br>pool<br>genre<br>stereo<br>sausage<br>duck |  
+| bip_39_word_new_br_12 | bread<br>brother<br>burger<br>winter<br>recall<br>obscure<br>pool<br>genre<br>stereo<br>sausage<br>duck<br>attend |  
+| bip_39_word_new_br_2 | bread<br>brother |  
+| bip_39_word_new_br_3 | bread<br>brother<br>burger |  
+| bip_39_word_new_br_4 | bread<br>brother<br>burger<br>winter |  
+| bip_39_word_new_br_5 | bread<br>brother<br>burger<br>winter<br>recall |  
+| bip_39_word_new_br_6 | bread<br>brother<br>burger<br>winter<br>recall<br>obscure |  
+| bip_39_word_new_br_7 | bread<br>brother<br>burger<br>winter<br>recall<br>obscure<br>pool |  
+| bip_39_word_new_br_8 | bread<br>brother<br>burger<br>winter<br>recall<br>obscure<br>pool<br>genre |  
+| bip_39_word_new_br_9 | bread<br>brother<br>burger<br>winter<br>recall<br>obscure<br>pool<br>genre<br>stereo |  
+| bip_39_word_new_line_1 | bread |  
+| bip_39_word_new_line_10 | bread
 brother
 burger
 winter
@@ -55,7 +55,7 @@ pool
 genre
 stereo
 sausage |  
-| bip_39_word_new_line11 | bread
+| bip_39_word_new_line_11 | bread
 brother
 burger
 winter
@@ -66,7 +66,7 @@ genre
 stereo
 sausage
 duck |  
-| bip_39_word_new_line12 | bread
+| bip_39_word_new_line_12 | bread
 brother
 burger
 winter
@@ -78,34 +78,34 @@ stereo
 sausage
 duck
 attend |  
-| bip_39_word_new_line2 | bread
+| bip_39_word_new_line_2 | bread
 brother |  
-| bip_39_word_new_line3 | bread
+| bip_39_word_new_line_3 | bread
 brother
 burger |  
-| bip_39_word_new_line4 | bread
+| bip_39_word_new_line_4 | bread
 brother
 burger
 winter |  
-| bip_39_word_new_line5 | bread
+| bip_39_word_new_line_5 | bread
 brother
 burger
 winter
 recall |  
-| bip_39_word_new_line6 | bread
+| bip_39_word_new_line_6 | bread
 brother
 burger
 winter
 recall
 obscure |  
-| bip_39_word_new_line7 | bread
+| bip_39_word_new_line_7 | bread
 brother
 burger
 winter
 recall
 obscure
 pool |  
-| bip_39_word_new_line8 | bread
+| bip_39_word_new_line_8 | bread
 brother
 burger
 winter
@@ -113,7 +113,7 @@ recall
 obscure
 pool
 genre |  
-| bip_39_word_new_line9 | bread
+| bip_39_word_new_line_9 | bread
 brother
 burger
 winter

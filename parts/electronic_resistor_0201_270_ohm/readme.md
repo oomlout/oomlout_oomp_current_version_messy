@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gossip |  
-| bip_39_word_new_br10 | gossip<br>theory<br>high<br>lift<br>rescue<br>produce<br>cricket<br>raw<br>easy<br>liquid |  
-| bip_39_word_new_br11 | gossip<br>theory<br>high<br>lift<br>rescue<br>produce<br>cricket<br>raw<br>easy<br>liquid<br>nominee |  
-| bip_39_word_new_br12 | gossip<br>theory<br>high<br>lift<br>rescue<br>produce<br>cricket<br>raw<br>easy<br>liquid<br>nominee<br>again |  
-| bip_39_word_new_br2 | gossip<br>theory |  
-| bip_39_word_new_br3 | gossip<br>theory<br>high |  
-| bip_39_word_new_br4 | gossip<br>theory<br>high<br>lift |  
-| bip_39_word_new_br5 | gossip<br>theory<br>high<br>lift<br>rescue |  
-| bip_39_word_new_br6 | gossip<br>theory<br>high<br>lift<br>rescue<br>produce |  
-| bip_39_word_new_br7 | gossip<br>theory<br>high<br>lift<br>rescue<br>produce<br>cricket |  
-| bip_39_word_new_br8 | gossip<br>theory<br>high<br>lift<br>rescue<br>produce<br>cricket<br>raw |  
-| bip_39_word_new_br9 | gossip<br>theory<br>high<br>lift<br>rescue<br>produce<br>cricket<br>raw<br>easy |  
-| bip_39_word_new_line1 | gossip |  
-| bip_39_word_new_line10 | gossip
+| bip_39_word_new_br_1 | gossip |  
+| bip_39_word_new_br_10 | gossip<br>theory<br>high<br>lift<br>rescue<br>produce<br>cricket<br>raw<br>easy<br>liquid |  
+| bip_39_word_new_br_11 | gossip<br>theory<br>high<br>lift<br>rescue<br>produce<br>cricket<br>raw<br>easy<br>liquid<br>nominee |  
+| bip_39_word_new_br_12 | gossip<br>theory<br>high<br>lift<br>rescue<br>produce<br>cricket<br>raw<br>easy<br>liquid<br>nominee<br>again |  
+| bip_39_word_new_br_2 | gossip<br>theory |  
+| bip_39_word_new_br_3 | gossip<br>theory<br>high |  
+| bip_39_word_new_br_4 | gossip<br>theory<br>high<br>lift |  
+| bip_39_word_new_br_5 | gossip<br>theory<br>high<br>lift<br>rescue |  
+| bip_39_word_new_br_6 | gossip<br>theory<br>high<br>lift<br>rescue<br>produce |  
+| bip_39_word_new_br_7 | gossip<br>theory<br>high<br>lift<br>rescue<br>produce<br>cricket |  
+| bip_39_word_new_br_8 | gossip<br>theory<br>high<br>lift<br>rescue<br>produce<br>cricket<br>raw |  
+| bip_39_word_new_br_9 | gossip<br>theory<br>high<br>lift<br>rescue<br>produce<br>cricket<br>raw<br>easy |  
+| bip_39_word_new_line_1 | gossip |  
+| bip_39_word_new_line_10 | gossip
 theory
 high
 lift
@@ -55,7 +55,7 @@ cricket
 raw
 easy
 liquid |  
-| bip_39_word_new_line11 | gossip
+| bip_39_word_new_line_11 | gossip
 theory
 high
 lift
@@ -66,7 +66,7 @@ raw
 easy
 liquid
 nominee |  
-| bip_39_word_new_line12 | gossip
+| bip_39_word_new_line_12 | gossip
 theory
 high
 lift
@@ -78,34 +78,34 @@ easy
 liquid
 nominee
 again |  
-| bip_39_word_new_line2 | gossip
+| bip_39_word_new_line_2 | gossip
 theory |  
-| bip_39_word_new_line3 | gossip
+| bip_39_word_new_line_3 | gossip
 theory
 high |  
-| bip_39_word_new_line4 | gossip
+| bip_39_word_new_line_4 | gossip
 theory
 high
 lift |  
-| bip_39_word_new_line5 | gossip
+| bip_39_word_new_line_5 | gossip
 theory
 high
 lift
 rescue |  
-| bip_39_word_new_line6 | gossip
+| bip_39_word_new_line_6 | gossip
 theory
 high
 lift
 rescue
 produce |  
-| bip_39_word_new_line7 | gossip
+| bip_39_word_new_line_7 | gossip
 theory
 high
 lift
 rescue
 produce
 cricket |  
-| bip_39_word_new_line8 | gossip
+| bip_39_word_new_line_8 | gossip
 theory
 high
 lift
@@ -113,7 +113,7 @@ rescue
 produce
 cricket
 raw |  
-| bip_39_word_new_line9 | gossip
+| bip_39_word_new_line_9 | gossip
 theory
 high
 lift

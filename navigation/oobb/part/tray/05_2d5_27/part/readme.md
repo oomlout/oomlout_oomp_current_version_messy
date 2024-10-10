@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | guard |  
-| bip_39_word_new_br10 | guard<br>bid<br>broken<br>weather<br>skill<br>inmate<br>spread<br>border<br>hero<br>pole |  
-| bip_39_word_new_br11 | guard<br>bid<br>broken<br>weather<br>skill<br>inmate<br>spread<br>border<br>hero<br>pole<br>harsh |  
-| bip_39_word_new_br12 | guard<br>bid<br>broken<br>weather<br>skill<br>inmate<br>spread<br>border<br>hero<br>pole<br>harsh<br>athlete |  
-| bip_39_word_new_br2 | guard<br>bid |  
-| bip_39_word_new_br3 | guard<br>bid<br>broken |  
-| bip_39_word_new_br4 | guard<br>bid<br>broken<br>weather |  
-| bip_39_word_new_br5 | guard<br>bid<br>broken<br>weather<br>skill |  
-| bip_39_word_new_br6 | guard<br>bid<br>broken<br>weather<br>skill<br>inmate |  
-| bip_39_word_new_br7 | guard<br>bid<br>broken<br>weather<br>skill<br>inmate<br>spread |  
-| bip_39_word_new_br8 | guard<br>bid<br>broken<br>weather<br>skill<br>inmate<br>spread<br>border |  
-| bip_39_word_new_br9 | guard<br>bid<br>broken<br>weather<br>skill<br>inmate<br>spread<br>border<br>hero |  
-| bip_39_word_new_line1 | guard |  
-| bip_39_word_new_line10 | guard
+| bip_39_word_new_br_1 | guard |  
+| bip_39_word_new_br_10 | guard<br>bid<br>broken<br>weather<br>skill<br>inmate<br>spread<br>border<br>hero<br>pole |  
+| bip_39_word_new_br_11 | guard<br>bid<br>broken<br>weather<br>skill<br>inmate<br>spread<br>border<br>hero<br>pole<br>harsh |  
+| bip_39_word_new_br_12 | guard<br>bid<br>broken<br>weather<br>skill<br>inmate<br>spread<br>border<br>hero<br>pole<br>harsh<br>athlete |  
+| bip_39_word_new_br_2 | guard<br>bid |  
+| bip_39_word_new_br_3 | guard<br>bid<br>broken |  
+| bip_39_word_new_br_4 | guard<br>bid<br>broken<br>weather |  
+| bip_39_word_new_br_5 | guard<br>bid<br>broken<br>weather<br>skill |  
+| bip_39_word_new_br_6 | guard<br>bid<br>broken<br>weather<br>skill<br>inmate |  
+| bip_39_word_new_br_7 | guard<br>bid<br>broken<br>weather<br>skill<br>inmate<br>spread |  
+| bip_39_word_new_br_8 | guard<br>bid<br>broken<br>weather<br>skill<br>inmate<br>spread<br>border |  
+| bip_39_word_new_br_9 | guard<br>bid<br>broken<br>weather<br>skill<br>inmate<br>spread<br>border<br>hero |  
+| bip_39_word_new_line_1 | guard |  
+| bip_39_word_new_line_10 | guard
 bid
 broken
 weather
@@ -55,7 +55,7 @@ spread
 border
 hero
 pole |  
-| bip_39_word_new_line11 | guard
+| bip_39_word_new_line_11 | guard
 bid
 broken
 weather
@@ -66,7 +66,7 @@ border
 hero
 pole
 harsh |  
-| bip_39_word_new_line12 | guard
+| bip_39_word_new_line_12 | guard
 bid
 broken
 weather
@@ -78,34 +78,34 @@ hero
 pole
 harsh
 athlete |  
-| bip_39_word_new_line2 | guard
+| bip_39_word_new_line_2 | guard
 bid |  
-| bip_39_word_new_line3 | guard
+| bip_39_word_new_line_3 | guard
 bid
 broken |  
-| bip_39_word_new_line4 | guard
+| bip_39_word_new_line_4 | guard
 bid
 broken
 weather |  
-| bip_39_word_new_line5 | guard
+| bip_39_word_new_line_5 | guard
 bid
 broken
 weather
 skill |  
-| bip_39_word_new_line6 | guard
+| bip_39_word_new_line_6 | guard
 bid
 broken
 weather
 skill
 inmate |  
-| bip_39_word_new_line7 | guard
+| bip_39_word_new_line_7 | guard
 bid
 broken
 weather
 skill
 inmate
 spread |  
-| bip_39_word_new_line8 | guard
+| bip_39_word_new_line_8 | guard
 bid
 broken
 weather
@@ -113,7 +113,7 @@ skill
 inmate
 spread
 border |  
-| bip_39_word_new_line9 | guard
+| bip_39_word_new_line_9 | guard
 bid
 broken
 weather

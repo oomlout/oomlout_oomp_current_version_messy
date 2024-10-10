@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | joke |  
-| bip_39_word_new_br10 | joke<br>gesture<br>random<br>stumble<br>soccer<br>cinnamon<br>tunnel<br>truck<br>grunt<br>leg |  
-| bip_39_word_new_br11 | joke<br>gesture<br>random<br>stumble<br>soccer<br>cinnamon<br>tunnel<br>truck<br>grunt<br>leg<br>mother |  
-| bip_39_word_new_br12 | joke<br>gesture<br>random<br>stumble<br>soccer<br>cinnamon<br>tunnel<br>truck<br>grunt<br>leg<br>mother<br>arctic |  
-| bip_39_word_new_br2 | joke<br>gesture |  
-| bip_39_word_new_br3 | joke<br>gesture<br>random |  
-| bip_39_word_new_br4 | joke<br>gesture<br>random<br>stumble |  
-| bip_39_word_new_br5 | joke<br>gesture<br>random<br>stumble<br>soccer |  
-| bip_39_word_new_br6 | joke<br>gesture<br>random<br>stumble<br>soccer<br>cinnamon |  
-| bip_39_word_new_br7 | joke<br>gesture<br>random<br>stumble<br>soccer<br>cinnamon<br>tunnel |  
-| bip_39_word_new_br8 | joke<br>gesture<br>random<br>stumble<br>soccer<br>cinnamon<br>tunnel<br>truck |  
-| bip_39_word_new_br9 | joke<br>gesture<br>random<br>stumble<br>soccer<br>cinnamon<br>tunnel<br>truck<br>grunt |  
-| bip_39_word_new_line1 | joke |  
-| bip_39_word_new_line10 | joke
+| bip_39_word_new_br_1 | joke |  
+| bip_39_word_new_br_10 | joke<br>gesture<br>random<br>stumble<br>soccer<br>cinnamon<br>tunnel<br>truck<br>grunt<br>leg |  
+| bip_39_word_new_br_11 | joke<br>gesture<br>random<br>stumble<br>soccer<br>cinnamon<br>tunnel<br>truck<br>grunt<br>leg<br>mother |  
+| bip_39_word_new_br_12 | joke<br>gesture<br>random<br>stumble<br>soccer<br>cinnamon<br>tunnel<br>truck<br>grunt<br>leg<br>mother<br>arctic |  
+| bip_39_word_new_br_2 | joke<br>gesture |  
+| bip_39_word_new_br_3 | joke<br>gesture<br>random |  
+| bip_39_word_new_br_4 | joke<br>gesture<br>random<br>stumble |  
+| bip_39_word_new_br_5 | joke<br>gesture<br>random<br>stumble<br>soccer |  
+| bip_39_word_new_br_6 | joke<br>gesture<br>random<br>stumble<br>soccer<br>cinnamon |  
+| bip_39_word_new_br_7 | joke<br>gesture<br>random<br>stumble<br>soccer<br>cinnamon<br>tunnel |  
+| bip_39_word_new_br_8 | joke<br>gesture<br>random<br>stumble<br>soccer<br>cinnamon<br>tunnel<br>truck |  
+| bip_39_word_new_br_9 | joke<br>gesture<br>random<br>stumble<br>soccer<br>cinnamon<br>tunnel<br>truck<br>grunt |  
+| bip_39_word_new_line_1 | joke |  
+| bip_39_word_new_line_10 | joke
 gesture
 random
 stumble
@@ -55,7 +55,7 @@ tunnel
 truck
 grunt
 leg |  
-| bip_39_word_new_line11 | joke
+| bip_39_word_new_line_11 | joke
 gesture
 random
 stumble
@@ -66,7 +66,7 @@ truck
 grunt
 leg
 mother |  
-| bip_39_word_new_line12 | joke
+| bip_39_word_new_line_12 | joke
 gesture
 random
 stumble
@@ -78,34 +78,34 @@ grunt
 leg
 mother
 arctic |  
-| bip_39_word_new_line2 | joke
+| bip_39_word_new_line_2 | joke
 gesture |  
-| bip_39_word_new_line3 | joke
+| bip_39_word_new_line_3 | joke
 gesture
 random |  
-| bip_39_word_new_line4 | joke
+| bip_39_word_new_line_4 | joke
 gesture
 random
 stumble |  
-| bip_39_word_new_line5 | joke
+| bip_39_word_new_line_5 | joke
 gesture
 random
 stumble
 soccer |  
-| bip_39_word_new_line6 | joke
+| bip_39_word_new_line_6 | joke
 gesture
 random
 stumble
 soccer
 cinnamon |  
-| bip_39_word_new_line7 | joke
+| bip_39_word_new_line_7 | joke
 gesture
 random
 stumble
 soccer
 cinnamon
 tunnel |  
-| bip_39_word_new_line8 | joke
+| bip_39_word_new_line_8 | joke
 gesture
 random
 stumble
@@ -113,7 +113,7 @@ soccer
 cinnamon
 tunnel
 truck |  
-| bip_39_word_new_line9 | joke
+| bip_39_word_new_line_9 | joke
 gesture
 random
 stumble

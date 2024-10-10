@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | blade |  
-| bip_39_word_new_br10 | blade<br>please<br>drink<br>rabbit<br>prison<br>harsh<br>oppose<br>speak<br>shop<br>start |  
-| bip_39_word_new_br11 | blade<br>please<br>drink<br>rabbit<br>prison<br>harsh<br>oppose<br>speak<br>shop<br>start<br>gallery |  
-| bip_39_word_new_br12 | blade<br>please<br>drink<br>rabbit<br>prison<br>harsh<br>oppose<br>speak<br>shop<br>start<br>gallery<br>arrange |  
-| bip_39_word_new_br2 | blade<br>please |  
-| bip_39_word_new_br3 | blade<br>please<br>drink |  
-| bip_39_word_new_br4 | blade<br>please<br>drink<br>rabbit |  
-| bip_39_word_new_br5 | blade<br>please<br>drink<br>rabbit<br>prison |  
-| bip_39_word_new_br6 | blade<br>please<br>drink<br>rabbit<br>prison<br>harsh |  
-| bip_39_word_new_br7 | blade<br>please<br>drink<br>rabbit<br>prison<br>harsh<br>oppose |  
-| bip_39_word_new_br8 | blade<br>please<br>drink<br>rabbit<br>prison<br>harsh<br>oppose<br>speak |  
-| bip_39_word_new_br9 | blade<br>please<br>drink<br>rabbit<br>prison<br>harsh<br>oppose<br>speak<br>shop |  
-| bip_39_word_new_line1 | blade |  
-| bip_39_word_new_line10 | blade
+| bip_39_word_new_br_1 | blade |  
+| bip_39_word_new_br_10 | blade<br>please<br>drink<br>rabbit<br>prison<br>harsh<br>oppose<br>speak<br>shop<br>start |  
+| bip_39_word_new_br_11 | blade<br>please<br>drink<br>rabbit<br>prison<br>harsh<br>oppose<br>speak<br>shop<br>start<br>gallery |  
+| bip_39_word_new_br_12 | blade<br>please<br>drink<br>rabbit<br>prison<br>harsh<br>oppose<br>speak<br>shop<br>start<br>gallery<br>arrange |  
+| bip_39_word_new_br_2 | blade<br>please |  
+| bip_39_word_new_br_3 | blade<br>please<br>drink |  
+| bip_39_word_new_br_4 | blade<br>please<br>drink<br>rabbit |  
+| bip_39_word_new_br_5 | blade<br>please<br>drink<br>rabbit<br>prison |  
+| bip_39_word_new_br_6 | blade<br>please<br>drink<br>rabbit<br>prison<br>harsh |  
+| bip_39_word_new_br_7 | blade<br>please<br>drink<br>rabbit<br>prison<br>harsh<br>oppose |  
+| bip_39_word_new_br_8 | blade<br>please<br>drink<br>rabbit<br>prison<br>harsh<br>oppose<br>speak |  
+| bip_39_word_new_br_9 | blade<br>please<br>drink<br>rabbit<br>prison<br>harsh<br>oppose<br>speak<br>shop |  
+| bip_39_word_new_line_1 | blade |  
+| bip_39_word_new_line_10 | blade
 please
 drink
 rabbit
@@ -55,7 +55,7 @@ oppose
 speak
 shop
 start |  
-| bip_39_word_new_line11 | blade
+| bip_39_word_new_line_11 | blade
 please
 drink
 rabbit
@@ -66,7 +66,7 @@ speak
 shop
 start
 gallery |  
-| bip_39_word_new_line12 | blade
+| bip_39_word_new_line_12 | blade
 please
 drink
 rabbit
@@ -78,34 +78,34 @@ shop
 start
 gallery
 arrange |  
-| bip_39_word_new_line2 | blade
+| bip_39_word_new_line_2 | blade
 please |  
-| bip_39_word_new_line3 | blade
+| bip_39_word_new_line_3 | blade
 please
 drink |  
-| bip_39_word_new_line4 | blade
+| bip_39_word_new_line_4 | blade
 please
 drink
 rabbit |  
-| bip_39_word_new_line5 | blade
+| bip_39_word_new_line_5 | blade
 please
 drink
 rabbit
 prison |  
-| bip_39_word_new_line6 | blade
+| bip_39_word_new_line_6 | blade
 please
 drink
 rabbit
 prison
 harsh |  
-| bip_39_word_new_line7 | blade
+| bip_39_word_new_line_7 | blade
 please
 drink
 rabbit
 prison
 harsh
 oppose |  
-| bip_39_word_new_line8 | blade
+| bip_39_word_new_line_8 | blade
 please
 drink
 rabbit
@@ -113,7 +113,7 @@ prison
 harsh
 oppose
 speak |  
-| bip_39_word_new_line9 | blade
+| bip_39_word_new_line_9 | blade
 please
 drink
 rabbit

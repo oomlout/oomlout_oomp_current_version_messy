@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | edit |  
-| bip_39_word_new_br10 | edit<br>chapter<br>physical<br>floor<br>type<br>tonight<br>myself<br>damage<br>street<br>delay |  
-| bip_39_word_new_br11 | edit<br>chapter<br>physical<br>floor<br>type<br>tonight<br>myself<br>damage<br>street<br>delay<br>syrup |  
-| bip_39_word_new_br12 | edit<br>chapter<br>physical<br>floor<br>type<br>tonight<br>myself<br>damage<br>street<br>delay<br>syrup<br>august |  
-| bip_39_word_new_br2 | edit<br>chapter |  
-| bip_39_word_new_br3 | edit<br>chapter<br>physical |  
-| bip_39_word_new_br4 | edit<br>chapter<br>physical<br>floor |  
-| bip_39_word_new_br5 | edit<br>chapter<br>physical<br>floor<br>type |  
-| bip_39_word_new_br6 | edit<br>chapter<br>physical<br>floor<br>type<br>tonight |  
-| bip_39_word_new_br7 | edit<br>chapter<br>physical<br>floor<br>type<br>tonight<br>myself |  
-| bip_39_word_new_br8 | edit<br>chapter<br>physical<br>floor<br>type<br>tonight<br>myself<br>damage |  
-| bip_39_word_new_br9 | edit<br>chapter<br>physical<br>floor<br>type<br>tonight<br>myself<br>damage<br>street |  
-| bip_39_word_new_line1 | edit |  
-| bip_39_word_new_line10 | edit
+| bip_39_word_new_br_1 | edit |  
+| bip_39_word_new_br_10 | edit<br>chapter<br>physical<br>floor<br>type<br>tonight<br>myself<br>damage<br>street<br>delay |  
+| bip_39_word_new_br_11 | edit<br>chapter<br>physical<br>floor<br>type<br>tonight<br>myself<br>damage<br>street<br>delay<br>syrup |  
+| bip_39_word_new_br_12 | edit<br>chapter<br>physical<br>floor<br>type<br>tonight<br>myself<br>damage<br>street<br>delay<br>syrup<br>august |  
+| bip_39_word_new_br_2 | edit<br>chapter |  
+| bip_39_word_new_br_3 | edit<br>chapter<br>physical |  
+| bip_39_word_new_br_4 | edit<br>chapter<br>physical<br>floor |  
+| bip_39_word_new_br_5 | edit<br>chapter<br>physical<br>floor<br>type |  
+| bip_39_word_new_br_6 | edit<br>chapter<br>physical<br>floor<br>type<br>tonight |  
+| bip_39_word_new_br_7 | edit<br>chapter<br>physical<br>floor<br>type<br>tonight<br>myself |  
+| bip_39_word_new_br_8 | edit<br>chapter<br>physical<br>floor<br>type<br>tonight<br>myself<br>damage |  
+| bip_39_word_new_br_9 | edit<br>chapter<br>physical<br>floor<br>type<br>tonight<br>myself<br>damage<br>street |  
+| bip_39_word_new_line_1 | edit |  
+| bip_39_word_new_line_10 | edit
 chapter
 physical
 floor
@@ -55,7 +55,7 @@ myself
 damage
 street
 delay |  
-| bip_39_word_new_line11 | edit
+| bip_39_word_new_line_11 | edit
 chapter
 physical
 floor
@@ -66,7 +66,7 @@ damage
 street
 delay
 syrup |  
-| bip_39_word_new_line12 | edit
+| bip_39_word_new_line_12 | edit
 chapter
 physical
 floor
@@ -78,34 +78,34 @@ street
 delay
 syrup
 august |  
-| bip_39_word_new_line2 | edit
+| bip_39_word_new_line_2 | edit
 chapter |  
-| bip_39_word_new_line3 | edit
+| bip_39_word_new_line_3 | edit
 chapter
 physical |  
-| bip_39_word_new_line4 | edit
+| bip_39_word_new_line_4 | edit
 chapter
 physical
 floor |  
-| bip_39_word_new_line5 | edit
+| bip_39_word_new_line_5 | edit
 chapter
 physical
 floor
 type |  
-| bip_39_word_new_line6 | edit
+| bip_39_word_new_line_6 | edit
 chapter
 physical
 floor
 type
 tonight |  
-| bip_39_word_new_line7 | edit
+| bip_39_word_new_line_7 | edit
 chapter
 physical
 floor
 type
 tonight
 myself |  
-| bip_39_word_new_line8 | edit
+| bip_39_word_new_line_8 | edit
 chapter
 physical
 floor
@@ -113,7 +113,7 @@ type
 tonight
 myself
 damage |  
-| bip_39_word_new_line9 | edit
+| bip_39_word_new_line_9 | edit
 chapter
 physical
 floor

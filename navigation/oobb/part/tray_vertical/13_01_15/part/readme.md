@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | resist |  
-| bip_39_word_new_br10 | resist<br>grief<br>tail<br>victory<br>alpha<br>trigger<br>catch<br>oval<br>better<br>century |  
-| bip_39_word_new_br11 | resist<br>grief<br>tail<br>victory<br>alpha<br>trigger<br>catch<br>oval<br>better<br>century<br>notable |  
-| bip_39_word_new_br12 | resist<br>grief<br>tail<br>victory<br>alpha<br>trigger<br>catch<br>oval<br>better<br>century<br>notable<br>art |  
-| bip_39_word_new_br2 | resist<br>grief |  
-| bip_39_word_new_br3 | resist<br>grief<br>tail |  
-| bip_39_word_new_br4 | resist<br>grief<br>tail<br>victory |  
-| bip_39_word_new_br5 | resist<br>grief<br>tail<br>victory<br>alpha |  
-| bip_39_word_new_br6 | resist<br>grief<br>tail<br>victory<br>alpha<br>trigger |  
-| bip_39_word_new_br7 | resist<br>grief<br>tail<br>victory<br>alpha<br>trigger<br>catch |  
-| bip_39_word_new_br8 | resist<br>grief<br>tail<br>victory<br>alpha<br>trigger<br>catch<br>oval |  
-| bip_39_word_new_br9 | resist<br>grief<br>tail<br>victory<br>alpha<br>trigger<br>catch<br>oval<br>better |  
-| bip_39_word_new_line1 | resist |  
-| bip_39_word_new_line10 | resist
+| bip_39_word_new_br_1 | resist |  
+| bip_39_word_new_br_10 | resist<br>grief<br>tail<br>victory<br>alpha<br>trigger<br>catch<br>oval<br>better<br>century |  
+| bip_39_word_new_br_11 | resist<br>grief<br>tail<br>victory<br>alpha<br>trigger<br>catch<br>oval<br>better<br>century<br>notable |  
+| bip_39_word_new_br_12 | resist<br>grief<br>tail<br>victory<br>alpha<br>trigger<br>catch<br>oval<br>better<br>century<br>notable<br>art |  
+| bip_39_word_new_br_2 | resist<br>grief |  
+| bip_39_word_new_br_3 | resist<br>grief<br>tail |  
+| bip_39_word_new_br_4 | resist<br>grief<br>tail<br>victory |  
+| bip_39_word_new_br_5 | resist<br>grief<br>tail<br>victory<br>alpha |  
+| bip_39_word_new_br_6 | resist<br>grief<br>tail<br>victory<br>alpha<br>trigger |  
+| bip_39_word_new_br_7 | resist<br>grief<br>tail<br>victory<br>alpha<br>trigger<br>catch |  
+| bip_39_word_new_br_8 | resist<br>grief<br>tail<br>victory<br>alpha<br>trigger<br>catch<br>oval |  
+| bip_39_word_new_br_9 | resist<br>grief<br>tail<br>victory<br>alpha<br>trigger<br>catch<br>oval<br>better |  
+| bip_39_word_new_line_1 | resist |  
+| bip_39_word_new_line_10 | resist
 grief
 tail
 victory
@@ -55,7 +55,7 @@ catch
 oval
 better
 century |  
-| bip_39_word_new_line11 | resist
+| bip_39_word_new_line_11 | resist
 grief
 tail
 victory
@@ -66,7 +66,7 @@ oval
 better
 century
 notable |  
-| bip_39_word_new_line12 | resist
+| bip_39_word_new_line_12 | resist
 grief
 tail
 victory
@@ -78,34 +78,34 @@ better
 century
 notable
 art |  
-| bip_39_word_new_line2 | resist
+| bip_39_word_new_line_2 | resist
 grief |  
-| bip_39_word_new_line3 | resist
+| bip_39_word_new_line_3 | resist
 grief
 tail |  
-| bip_39_word_new_line4 | resist
+| bip_39_word_new_line_4 | resist
 grief
 tail
 victory |  
-| bip_39_word_new_line5 | resist
+| bip_39_word_new_line_5 | resist
 grief
 tail
 victory
 alpha |  
-| bip_39_word_new_line6 | resist
+| bip_39_word_new_line_6 | resist
 grief
 tail
 victory
 alpha
 trigger |  
-| bip_39_word_new_line7 | resist
+| bip_39_word_new_line_7 | resist
 grief
 tail
 victory
 alpha
 trigger
 catch |  
-| bip_39_word_new_line8 | resist
+| bip_39_word_new_line_8 | resist
 grief
 tail
 victory
@@ -113,7 +113,7 @@ alpha
 trigger
 catch
 oval |  
-| bip_39_word_new_line9 | resist
+| bip_39_word_new_line_9 | resist
 grief
 tail
 victory

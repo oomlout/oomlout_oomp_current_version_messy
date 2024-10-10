@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | such |  
-| bip_39_word_new_br10 | such<br>taxi<br>erosion<br>seminar<br>broken<br>priority<br>hub<br>glove<br>tired<br>siege |  
-| bip_39_word_new_br11 | such<br>taxi<br>erosion<br>seminar<br>broken<br>priority<br>hub<br>glove<br>tired<br>siege<br>asthma |  
-| bip_39_word_new_br12 | such<br>taxi<br>erosion<br>seminar<br>broken<br>priority<br>hub<br>glove<br>tired<br>siege<br>asthma<br>antenna |  
-| bip_39_word_new_br2 | such<br>taxi |  
-| bip_39_word_new_br3 | such<br>taxi<br>erosion |  
-| bip_39_word_new_br4 | such<br>taxi<br>erosion<br>seminar |  
-| bip_39_word_new_br5 | such<br>taxi<br>erosion<br>seminar<br>broken |  
-| bip_39_word_new_br6 | such<br>taxi<br>erosion<br>seminar<br>broken<br>priority |  
-| bip_39_word_new_br7 | such<br>taxi<br>erosion<br>seminar<br>broken<br>priority<br>hub |  
-| bip_39_word_new_br8 | such<br>taxi<br>erosion<br>seminar<br>broken<br>priority<br>hub<br>glove |  
-| bip_39_word_new_br9 | such<br>taxi<br>erosion<br>seminar<br>broken<br>priority<br>hub<br>glove<br>tired |  
-| bip_39_word_new_line1 | such |  
-| bip_39_word_new_line10 | such
+| bip_39_word_new_br_1 | such |  
+| bip_39_word_new_br_10 | such<br>taxi<br>erosion<br>seminar<br>broken<br>priority<br>hub<br>glove<br>tired<br>siege |  
+| bip_39_word_new_br_11 | such<br>taxi<br>erosion<br>seminar<br>broken<br>priority<br>hub<br>glove<br>tired<br>siege<br>asthma |  
+| bip_39_word_new_br_12 | such<br>taxi<br>erosion<br>seminar<br>broken<br>priority<br>hub<br>glove<br>tired<br>siege<br>asthma<br>antenna |  
+| bip_39_word_new_br_2 | such<br>taxi |  
+| bip_39_word_new_br_3 | such<br>taxi<br>erosion |  
+| bip_39_word_new_br_4 | such<br>taxi<br>erosion<br>seminar |  
+| bip_39_word_new_br_5 | such<br>taxi<br>erosion<br>seminar<br>broken |  
+| bip_39_word_new_br_6 | such<br>taxi<br>erosion<br>seminar<br>broken<br>priority |  
+| bip_39_word_new_br_7 | such<br>taxi<br>erosion<br>seminar<br>broken<br>priority<br>hub |  
+| bip_39_word_new_br_8 | such<br>taxi<br>erosion<br>seminar<br>broken<br>priority<br>hub<br>glove |  
+| bip_39_word_new_br_9 | such<br>taxi<br>erosion<br>seminar<br>broken<br>priority<br>hub<br>glove<br>tired |  
+| bip_39_word_new_line_1 | such |  
+| bip_39_word_new_line_10 | such
 taxi
 erosion
 seminar
@@ -55,7 +55,7 @@ hub
 glove
 tired
 siege |  
-| bip_39_word_new_line11 | such
+| bip_39_word_new_line_11 | such
 taxi
 erosion
 seminar
@@ -66,7 +66,7 @@ glove
 tired
 siege
 asthma |  
-| bip_39_word_new_line12 | such
+| bip_39_word_new_line_12 | such
 taxi
 erosion
 seminar
@@ -78,34 +78,34 @@ tired
 siege
 asthma
 antenna |  
-| bip_39_word_new_line2 | such
+| bip_39_word_new_line_2 | such
 taxi |  
-| bip_39_word_new_line3 | such
+| bip_39_word_new_line_3 | such
 taxi
 erosion |  
-| bip_39_word_new_line4 | such
+| bip_39_word_new_line_4 | such
 taxi
 erosion
 seminar |  
-| bip_39_word_new_line5 | such
+| bip_39_word_new_line_5 | such
 taxi
 erosion
 seminar
 broken |  
-| bip_39_word_new_line6 | such
+| bip_39_word_new_line_6 | such
 taxi
 erosion
 seminar
 broken
 priority |  
-| bip_39_word_new_line7 | such
+| bip_39_word_new_line_7 | such
 taxi
 erosion
 seminar
 broken
 priority
 hub |  
-| bip_39_word_new_line8 | such
+| bip_39_word_new_line_8 | such
 taxi
 erosion
 seminar
@@ -113,7 +113,7 @@ broken
 priority
 hub
 glove |  
-| bip_39_word_new_line9 | such
+| bip_39_word_new_line_9 | such
 taxi
 erosion
 seminar

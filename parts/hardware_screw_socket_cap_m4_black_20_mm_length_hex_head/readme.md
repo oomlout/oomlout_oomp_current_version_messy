@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | tent |  
-| bip_39_word_new_br10 | tent<br>genius<br>jeans<br>angry<br>vanish<br>island<br>speak<br>just<br>artwork<br>chuckle |  
-| bip_39_word_new_br11 | tent<br>genius<br>jeans<br>angry<br>vanish<br>island<br>speak<br>just<br>artwork<br>chuckle<br>goose |  
-| bip_39_word_new_br12 | tent<br>genius<br>jeans<br>angry<br>vanish<br>island<br>speak<br>just<br>artwork<br>chuckle<br>goose<br>aim |  
-| bip_39_word_new_br2 | tent<br>genius |  
-| bip_39_word_new_br3 | tent<br>genius<br>jeans |  
-| bip_39_word_new_br4 | tent<br>genius<br>jeans<br>angry |  
-| bip_39_word_new_br5 | tent<br>genius<br>jeans<br>angry<br>vanish |  
-| bip_39_word_new_br6 | tent<br>genius<br>jeans<br>angry<br>vanish<br>island |  
-| bip_39_word_new_br7 | tent<br>genius<br>jeans<br>angry<br>vanish<br>island<br>speak |  
-| bip_39_word_new_br8 | tent<br>genius<br>jeans<br>angry<br>vanish<br>island<br>speak<br>just |  
-| bip_39_word_new_br9 | tent<br>genius<br>jeans<br>angry<br>vanish<br>island<br>speak<br>just<br>artwork |  
-| bip_39_word_new_line1 | tent |  
-| bip_39_word_new_line10 | tent
+| bip_39_word_new_br_1 | tent |  
+| bip_39_word_new_br_10 | tent<br>genius<br>jeans<br>angry<br>vanish<br>island<br>speak<br>just<br>artwork<br>chuckle |  
+| bip_39_word_new_br_11 | tent<br>genius<br>jeans<br>angry<br>vanish<br>island<br>speak<br>just<br>artwork<br>chuckle<br>goose |  
+| bip_39_word_new_br_12 | tent<br>genius<br>jeans<br>angry<br>vanish<br>island<br>speak<br>just<br>artwork<br>chuckle<br>goose<br>aim |  
+| bip_39_word_new_br_2 | tent<br>genius |  
+| bip_39_word_new_br_3 | tent<br>genius<br>jeans |  
+| bip_39_word_new_br_4 | tent<br>genius<br>jeans<br>angry |  
+| bip_39_word_new_br_5 | tent<br>genius<br>jeans<br>angry<br>vanish |  
+| bip_39_word_new_br_6 | tent<br>genius<br>jeans<br>angry<br>vanish<br>island |  
+| bip_39_word_new_br_7 | tent<br>genius<br>jeans<br>angry<br>vanish<br>island<br>speak |  
+| bip_39_word_new_br_8 | tent<br>genius<br>jeans<br>angry<br>vanish<br>island<br>speak<br>just |  
+| bip_39_word_new_br_9 | tent<br>genius<br>jeans<br>angry<br>vanish<br>island<br>speak<br>just<br>artwork |  
+| bip_39_word_new_line_1 | tent |  
+| bip_39_word_new_line_10 | tent
 genius
 jeans
 angry
@@ -55,7 +55,7 @@ speak
 just
 artwork
 chuckle |  
-| bip_39_word_new_line11 | tent
+| bip_39_word_new_line_11 | tent
 genius
 jeans
 angry
@@ -66,7 +66,7 @@ just
 artwork
 chuckle
 goose |  
-| bip_39_word_new_line12 | tent
+| bip_39_word_new_line_12 | tent
 genius
 jeans
 angry
@@ -78,34 +78,34 @@ artwork
 chuckle
 goose
 aim |  
-| bip_39_word_new_line2 | tent
+| bip_39_word_new_line_2 | tent
 genius |  
-| bip_39_word_new_line3 | tent
+| bip_39_word_new_line_3 | tent
 genius
 jeans |  
-| bip_39_word_new_line4 | tent
+| bip_39_word_new_line_4 | tent
 genius
 jeans
 angry |  
-| bip_39_word_new_line5 | tent
+| bip_39_word_new_line_5 | tent
 genius
 jeans
 angry
 vanish |  
-| bip_39_word_new_line6 | tent
+| bip_39_word_new_line_6 | tent
 genius
 jeans
 angry
 vanish
 island |  
-| bip_39_word_new_line7 | tent
+| bip_39_word_new_line_7 | tent
 genius
 jeans
 angry
 vanish
 island
 speak |  
-| bip_39_word_new_line8 | tent
+| bip_39_word_new_line_8 | tent
 genius
 jeans
 angry
@@ -113,7 +113,7 @@ vanish
 island
 speak
 just |  
-| bip_39_word_new_line9 | tent
+| bip_39_word_new_line_9 | tent
 genius
 jeans
 angry

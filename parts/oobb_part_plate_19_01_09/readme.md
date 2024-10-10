@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | capital |  
-| bip_39_word_new_br10 | capital<br>ladder<br>history<br>head<br>bottom<br>zebra<br>liberty<br>fee<br>review<br>reduce |  
-| bip_39_word_new_br11 | capital<br>ladder<br>history<br>head<br>bottom<br>zebra<br>liberty<br>fee<br>review<br>reduce<br>mystery |  
-| bip_39_word_new_br12 | capital<br>ladder<br>history<br>head<br>bottom<br>zebra<br>liberty<br>fee<br>review<br>reduce<br>mystery<br>alone |  
-| bip_39_word_new_br2 | capital<br>ladder |  
-| bip_39_word_new_br3 | capital<br>ladder<br>history |  
-| bip_39_word_new_br4 | capital<br>ladder<br>history<br>head |  
-| bip_39_word_new_br5 | capital<br>ladder<br>history<br>head<br>bottom |  
-| bip_39_word_new_br6 | capital<br>ladder<br>history<br>head<br>bottom<br>zebra |  
-| bip_39_word_new_br7 | capital<br>ladder<br>history<br>head<br>bottom<br>zebra<br>liberty |  
-| bip_39_word_new_br8 | capital<br>ladder<br>history<br>head<br>bottom<br>zebra<br>liberty<br>fee |  
-| bip_39_word_new_br9 | capital<br>ladder<br>history<br>head<br>bottom<br>zebra<br>liberty<br>fee<br>review |  
-| bip_39_word_new_line1 | capital |  
-| bip_39_word_new_line10 | capital
+| bip_39_word_new_br_1 | capital |  
+| bip_39_word_new_br_10 | capital<br>ladder<br>history<br>head<br>bottom<br>zebra<br>liberty<br>fee<br>review<br>reduce |  
+| bip_39_word_new_br_11 | capital<br>ladder<br>history<br>head<br>bottom<br>zebra<br>liberty<br>fee<br>review<br>reduce<br>mystery |  
+| bip_39_word_new_br_12 | capital<br>ladder<br>history<br>head<br>bottom<br>zebra<br>liberty<br>fee<br>review<br>reduce<br>mystery<br>alone |  
+| bip_39_word_new_br_2 | capital<br>ladder |  
+| bip_39_word_new_br_3 | capital<br>ladder<br>history |  
+| bip_39_word_new_br_4 | capital<br>ladder<br>history<br>head |  
+| bip_39_word_new_br_5 | capital<br>ladder<br>history<br>head<br>bottom |  
+| bip_39_word_new_br_6 | capital<br>ladder<br>history<br>head<br>bottom<br>zebra |  
+| bip_39_word_new_br_7 | capital<br>ladder<br>history<br>head<br>bottom<br>zebra<br>liberty |  
+| bip_39_word_new_br_8 | capital<br>ladder<br>history<br>head<br>bottom<br>zebra<br>liberty<br>fee |  
+| bip_39_word_new_br_9 | capital<br>ladder<br>history<br>head<br>bottom<br>zebra<br>liberty<br>fee<br>review |  
+| bip_39_word_new_line_1 | capital |  
+| bip_39_word_new_line_10 | capital
 ladder
 history
 head
@@ -55,7 +55,7 @@ liberty
 fee
 review
 reduce |  
-| bip_39_word_new_line11 | capital
+| bip_39_word_new_line_11 | capital
 ladder
 history
 head
@@ -66,7 +66,7 @@ fee
 review
 reduce
 mystery |  
-| bip_39_word_new_line12 | capital
+| bip_39_word_new_line_12 | capital
 ladder
 history
 head
@@ -78,34 +78,34 @@ review
 reduce
 mystery
 alone |  
-| bip_39_word_new_line2 | capital
+| bip_39_word_new_line_2 | capital
 ladder |  
-| bip_39_word_new_line3 | capital
+| bip_39_word_new_line_3 | capital
 ladder
 history |  
-| bip_39_word_new_line4 | capital
+| bip_39_word_new_line_4 | capital
 ladder
 history
 head |  
-| bip_39_word_new_line5 | capital
+| bip_39_word_new_line_5 | capital
 ladder
 history
 head
 bottom |  
-| bip_39_word_new_line6 | capital
+| bip_39_word_new_line_6 | capital
 ladder
 history
 head
 bottom
 zebra |  
-| bip_39_word_new_line7 | capital
+| bip_39_word_new_line_7 | capital
 ladder
 history
 head
 bottom
 zebra
 liberty |  
-| bip_39_word_new_line8 | capital
+| bip_39_word_new_line_8 | capital
 ladder
 history
 head
@@ -113,7 +113,7 @@ bottom
 zebra
 liberty
 fee |  
-| bip_39_word_new_line9 | capital
+| bip_39_word_new_line_9 | capital
 ladder
 history
 head

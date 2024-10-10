@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | scout |  
-| bip_39_word_new_br10 | scout<br>squeeze<br>damp<br>verify<br>badge<br>major<br>actor<br>cancel<br>token<br>venue |  
-| bip_39_word_new_br11 | scout<br>squeeze<br>damp<br>verify<br>badge<br>major<br>actor<br>cancel<br>token<br>venue<br>connect |  
-| bip_39_word_new_br12 | scout<br>squeeze<br>damp<br>verify<br>badge<br>major<br>actor<br>cancel<br>token<br>venue<br>connect<br>access |  
-| bip_39_word_new_br2 | scout<br>squeeze |  
-| bip_39_word_new_br3 | scout<br>squeeze<br>damp |  
-| bip_39_word_new_br4 | scout<br>squeeze<br>damp<br>verify |  
-| bip_39_word_new_br5 | scout<br>squeeze<br>damp<br>verify<br>badge |  
-| bip_39_word_new_br6 | scout<br>squeeze<br>damp<br>verify<br>badge<br>major |  
-| bip_39_word_new_br7 | scout<br>squeeze<br>damp<br>verify<br>badge<br>major<br>actor |  
-| bip_39_word_new_br8 | scout<br>squeeze<br>damp<br>verify<br>badge<br>major<br>actor<br>cancel |  
-| bip_39_word_new_br9 | scout<br>squeeze<br>damp<br>verify<br>badge<br>major<br>actor<br>cancel<br>token |  
-| bip_39_word_new_line1 | scout |  
-| bip_39_word_new_line10 | scout
+| bip_39_word_new_br_1 | scout |  
+| bip_39_word_new_br_10 | scout<br>squeeze<br>damp<br>verify<br>badge<br>major<br>actor<br>cancel<br>token<br>venue |  
+| bip_39_word_new_br_11 | scout<br>squeeze<br>damp<br>verify<br>badge<br>major<br>actor<br>cancel<br>token<br>venue<br>connect |  
+| bip_39_word_new_br_12 | scout<br>squeeze<br>damp<br>verify<br>badge<br>major<br>actor<br>cancel<br>token<br>venue<br>connect<br>access |  
+| bip_39_word_new_br_2 | scout<br>squeeze |  
+| bip_39_word_new_br_3 | scout<br>squeeze<br>damp |  
+| bip_39_word_new_br_4 | scout<br>squeeze<br>damp<br>verify |  
+| bip_39_word_new_br_5 | scout<br>squeeze<br>damp<br>verify<br>badge |  
+| bip_39_word_new_br_6 | scout<br>squeeze<br>damp<br>verify<br>badge<br>major |  
+| bip_39_word_new_br_7 | scout<br>squeeze<br>damp<br>verify<br>badge<br>major<br>actor |  
+| bip_39_word_new_br_8 | scout<br>squeeze<br>damp<br>verify<br>badge<br>major<br>actor<br>cancel |  
+| bip_39_word_new_br_9 | scout<br>squeeze<br>damp<br>verify<br>badge<br>major<br>actor<br>cancel<br>token |  
+| bip_39_word_new_line_1 | scout |  
+| bip_39_word_new_line_10 | scout
 squeeze
 damp
 verify
@@ -55,7 +55,7 @@ actor
 cancel
 token
 venue |  
-| bip_39_word_new_line11 | scout
+| bip_39_word_new_line_11 | scout
 squeeze
 damp
 verify
@@ -66,7 +66,7 @@ cancel
 token
 venue
 connect |  
-| bip_39_word_new_line12 | scout
+| bip_39_word_new_line_12 | scout
 squeeze
 damp
 verify
@@ -78,34 +78,34 @@ token
 venue
 connect
 access |  
-| bip_39_word_new_line2 | scout
+| bip_39_word_new_line_2 | scout
 squeeze |  
-| bip_39_word_new_line3 | scout
+| bip_39_word_new_line_3 | scout
 squeeze
 damp |  
-| bip_39_word_new_line4 | scout
+| bip_39_word_new_line_4 | scout
 squeeze
 damp
 verify |  
-| bip_39_word_new_line5 | scout
+| bip_39_word_new_line_5 | scout
 squeeze
 damp
 verify
 badge |  
-| bip_39_word_new_line6 | scout
+| bip_39_word_new_line_6 | scout
 squeeze
 damp
 verify
 badge
 major |  
-| bip_39_word_new_line7 | scout
+| bip_39_word_new_line_7 | scout
 squeeze
 damp
 verify
 badge
 major
 actor |  
-| bip_39_word_new_line8 | scout
+| bip_39_word_new_line_8 | scout
 squeeze
 damp
 verify
@@ -113,7 +113,7 @@ badge
 major
 actor
 cancel |  
-| bip_39_word_new_line9 | scout
+| bip_39_word_new_line_9 | scout
 squeeze
 damp
 verify

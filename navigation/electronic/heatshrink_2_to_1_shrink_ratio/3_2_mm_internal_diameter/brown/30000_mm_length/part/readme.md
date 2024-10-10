@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | myself |  
-| bip_39_word_new_br10 | myself<br>asset<br>ready<br>weather<br>news<br>jacket<br>copper<br>cotton<br>vague<br>kind |  
-| bip_39_word_new_br11 | myself<br>asset<br>ready<br>weather<br>news<br>jacket<br>copper<br>cotton<br>vague<br>kind<br>twist |  
-| bip_39_word_new_br12 | myself<br>asset<br>ready<br>weather<br>news<br>jacket<br>copper<br>cotton<br>vague<br>kind<br>twist<br>autumn |  
-| bip_39_word_new_br2 | myself<br>asset |  
-| bip_39_word_new_br3 | myself<br>asset<br>ready |  
-| bip_39_word_new_br4 | myself<br>asset<br>ready<br>weather |  
-| bip_39_word_new_br5 | myself<br>asset<br>ready<br>weather<br>news |  
-| bip_39_word_new_br6 | myself<br>asset<br>ready<br>weather<br>news<br>jacket |  
-| bip_39_word_new_br7 | myself<br>asset<br>ready<br>weather<br>news<br>jacket<br>copper |  
-| bip_39_word_new_br8 | myself<br>asset<br>ready<br>weather<br>news<br>jacket<br>copper<br>cotton |  
-| bip_39_word_new_br9 | myself<br>asset<br>ready<br>weather<br>news<br>jacket<br>copper<br>cotton<br>vague |  
-| bip_39_word_new_line1 | myself |  
-| bip_39_word_new_line10 | myself
+| bip_39_word_new_br_1 | myself |  
+| bip_39_word_new_br_10 | myself<br>asset<br>ready<br>weather<br>news<br>jacket<br>copper<br>cotton<br>vague<br>kind |  
+| bip_39_word_new_br_11 | myself<br>asset<br>ready<br>weather<br>news<br>jacket<br>copper<br>cotton<br>vague<br>kind<br>twist |  
+| bip_39_word_new_br_12 | myself<br>asset<br>ready<br>weather<br>news<br>jacket<br>copper<br>cotton<br>vague<br>kind<br>twist<br>autumn |  
+| bip_39_word_new_br_2 | myself<br>asset |  
+| bip_39_word_new_br_3 | myself<br>asset<br>ready |  
+| bip_39_word_new_br_4 | myself<br>asset<br>ready<br>weather |  
+| bip_39_word_new_br_5 | myself<br>asset<br>ready<br>weather<br>news |  
+| bip_39_word_new_br_6 | myself<br>asset<br>ready<br>weather<br>news<br>jacket |  
+| bip_39_word_new_br_7 | myself<br>asset<br>ready<br>weather<br>news<br>jacket<br>copper |  
+| bip_39_word_new_br_8 | myself<br>asset<br>ready<br>weather<br>news<br>jacket<br>copper<br>cotton |  
+| bip_39_word_new_br_9 | myself<br>asset<br>ready<br>weather<br>news<br>jacket<br>copper<br>cotton<br>vague |  
+| bip_39_word_new_line_1 | myself |  
+| bip_39_word_new_line_10 | myself
 asset
 ready
 weather
@@ -55,7 +55,7 @@ copper
 cotton
 vague
 kind |  
-| bip_39_word_new_line11 | myself
+| bip_39_word_new_line_11 | myself
 asset
 ready
 weather
@@ -66,7 +66,7 @@ cotton
 vague
 kind
 twist |  
-| bip_39_word_new_line12 | myself
+| bip_39_word_new_line_12 | myself
 asset
 ready
 weather
@@ -78,34 +78,34 @@ vague
 kind
 twist
 autumn |  
-| bip_39_word_new_line2 | myself
+| bip_39_word_new_line_2 | myself
 asset |  
-| bip_39_word_new_line3 | myself
+| bip_39_word_new_line_3 | myself
 asset
 ready |  
-| bip_39_word_new_line4 | myself
+| bip_39_word_new_line_4 | myself
 asset
 ready
 weather |  
-| bip_39_word_new_line5 | myself
+| bip_39_word_new_line_5 | myself
 asset
 ready
 weather
 news |  
-| bip_39_word_new_line6 | myself
+| bip_39_word_new_line_6 | myself
 asset
 ready
 weather
 news
 jacket |  
-| bip_39_word_new_line7 | myself
+| bip_39_word_new_line_7 | myself
 asset
 ready
 weather
 news
 jacket
 copper |  
-| bip_39_word_new_line8 | myself
+| bip_39_word_new_line_8 | myself
 asset
 ready
 weather
@@ -113,7 +113,7 @@ news
 jacket
 copper
 cotton |  
-| bip_39_word_new_line9 | myself
+| bip_39_word_new_line_9 | myself
 asset
 ready
 weather

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | drop |  
-| bip_39_word_new_br10 | drop<br>label<br>piece<br>display<br>poem<br>object<br>know<br>tone<br>grit<br>abstract |  
-| bip_39_word_new_br11 | drop<br>label<br>piece<br>display<br>poem<br>object<br>know<br>tone<br>grit<br>abstract<br>degree |  
-| bip_39_word_new_br12 | drop<br>label<br>piece<br>display<br>poem<br>object<br>know<br>tone<br>grit<br>abstract<br>degree<br>across |  
-| bip_39_word_new_br2 | drop<br>label |  
-| bip_39_word_new_br3 | drop<br>label<br>piece |  
-| bip_39_word_new_br4 | drop<br>label<br>piece<br>display |  
-| bip_39_word_new_br5 | drop<br>label<br>piece<br>display<br>poem |  
-| bip_39_word_new_br6 | drop<br>label<br>piece<br>display<br>poem<br>object |  
-| bip_39_word_new_br7 | drop<br>label<br>piece<br>display<br>poem<br>object<br>know |  
-| bip_39_word_new_br8 | drop<br>label<br>piece<br>display<br>poem<br>object<br>know<br>tone |  
-| bip_39_word_new_br9 | drop<br>label<br>piece<br>display<br>poem<br>object<br>know<br>tone<br>grit |  
-| bip_39_word_new_line1 | drop |  
-| bip_39_word_new_line10 | drop
+| bip_39_word_new_br_1 | drop |  
+| bip_39_word_new_br_10 | drop<br>label<br>piece<br>display<br>poem<br>object<br>know<br>tone<br>grit<br>abstract |  
+| bip_39_word_new_br_11 | drop<br>label<br>piece<br>display<br>poem<br>object<br>know<br>tone<br>grit<br>abstract<br>degree |  
+| bip_39_word_new_br_12 | drop<br>label<br>piece<br>display<br>poem<br>object<br>know<br>tone<br>grit<br>abstract<br>degree<br>across |  
+| bip_39_word_new_br_2 | drop<br>label |  
+| bip_39_word_new_br_3 | drop<br>label<br>piece |  
+| bip_39_word_new_br_4 | drop<br>label<br>piece<br>display |  
+| bip_39_word_new_br_5 | drop<br>label<br>piece<br>display<br>poem |  
+| bip_39_word_new_br_6 | drop<br>label<br>piece<br>display<br>poem<br>object |  
+| bip_39_word_new_br_7 | drop<br>label<br>piece<br>display<br>poem<br>object<br>know |  
+| bip_39_word_new_br_8 | drop<br>label<br>piece<br>display<br>poem<br>object<br>know<br>tone |  
+| bip_39_word_new_br_9 | drop<br>label<br>piece<br>display<br>poem<br>object<br>know<br>tone<br>grit |  
+| bip_39_word_new_line_1 | drop |  
+| bip_39_word_new_line_10 | drop
 label
 piece
 display
@@ -55,7 +55,7 @@ know
 tone
 grit
 abstract |  
-| bip_39_word_new_line11 | drop
+| bip_39_word_new_line_11 | drop
 label
 piece
 display
@@ -66,7 +66,7 @@ tone
 grit
 abstract
 degree |  
-| bip_39_word_new_line12 | drop
+| bip_39_word_new_line_12 | drop
 label
 piece
 display
@@ -78,34 +78,34 @@ grit
 abstract
 degree
 across |  
-| bip_39_word_new_line2 | drop
+| bip_39_word_new_line_2 | drop
 label |  
-| bip_39_word_new_line3 | drop
+| bip_39_word_new_line_3 | drop
 label
 piece |  
-| bip_39_word_new_line4 | drop
+| bip_39_word_new_line_4 | drop
 label
 piece
 display |  
-| bip_39_word_new_line5 | drop
+| bip_39_word_new_line_5 | drop
 label
 piece
 display
 poem |  
-| bip_39_word_new_line6 | drop
+| bip_39_word_new_line_6 | drop
 label
 piece
 display
 poem
 object |  
-| bip_39_word_new_line7 | drop
+| bip_39_word_new_line_7 | drop
 label
 piece
 display
 poem
 object
 know |  
-| bip_39_word_new_line8 | drop
+| bip_39_word_new_line_8 | drop
 label
 piece
 display
@@ -113,7 +113,7 @@ poem
 object
 know
 tone |  
-| bip_39_word_new_line9 | drop
+| bip_39_word_new_line_9 | drop
 label
 piece
 display

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hint |  
-| bip_39_word_new_br10 | hint<br>expand<br>lobster<br>vault<br>gloom<br>scan<br>letter<br>velvet<br>edge<br>side |  
-| bip_39_word_new_br11 | hint<br>expand<br>lobster<br>vault<br>gloom<br>scan<br>letter<br>velvet<br>edge<br>side<br>lady |  
-| bip_39_word_new_br12 | hint<br>expand<br>lobster<br>vault<br>gloom<br>scan<br>letter<br>velvet<br>edge<br>side<br>lady<br>agree |  
-| bip_39_word_new_br2 | hint<br>expand |  
-| bip_39_word_new_br3 | hint<br>expand<br>lobster |  
-| bip_39_word_new_br4 | hint<br>expand<br>lobster<br>vault |  
-| bip_39_word_new_br5 | hint<br>expand<br>lobster<br>vault<br>gloom |  
-| bip_39_word_new_br6 | hint<br>expand<br>lobster<br>vault<br>gloom<br>scan |  
-| bip_39_word_new_br7 | hint<br>expand<br>lobster<br>vault<br>gloom<br>scan<br>letter |  
-| bip_39_word_new_br8 | hint<br>expand<br>lobster<br>vault<br>gloom<br>scan<br>letter<br>velvet |  
-| bip_39_word_new_br9 | hint<br>expand<br>lobster<br>vault<br>gloom<br>scan<br>letter<br>velvet<br>edge |  
-| bip_39_word_new_line1 | hint |  
-| bip_39_word_new_line10 | hint
+| bip_39_word_new_br_1 | hint |  
+| bip_39_word_new_br_10 | hint<br>expand<br>lobster<br>vault<br>gloom<br>scan<br>letter<br>velvet<br>edge<br>side |  
+| bip_39_word_new_br_11 | hint<br>expand<br>lobster<br>vault<br>gloom<br>scan<br>letter<br>velvet<br>edge<br>side<br>lady |  
+| bip_39_word_new_br_12 | hint<br>expand<br>lobster<br>vault<br>gloom<br>scan<br>letter<br>velvet<br>edge<br>side<br>lady<br>agree |  
+| bip_39_word_new_br_2 | hint<br>expand |  
+| bip_39_word_new_br_3 | hint<br>expand<br>lobster |  
+| bip_39_word_new_br_4 | hint<br>expand<br>lobster<br>vault |  
+| bip_39_word_new_br_5 | hint<br>expand<br>lobster<br>vault<br>gloom |  
+| bip_39_word_new_br_6 | hint<br>expand<br>lobster<br>vault<br>gloom<br>scan |  
+| bip_39_word_new_br_7 | hint<br>expand<br>lobster<br>vault<br>gloom<br>scan<br>letter |  
+| bip_39_word_new_br_8 | hint<br>expand<br>lobster<br>vault<br>gloom<br>scan<br>letter<br>velvet |  
+| bip_39_word_new_br_9 | hint<br>expand<br>lobster<br>vault<br>gloom<br>scan<br>letter<br>velvet<br>edge |  
+| bip_39_word_new_line_1 | hint |  
+| bip_39_word_new_line_10 | hint
 expand
 lobster
 vault
@@ -55,7 +55,7 @@ letter
 velvet
 edge
 side |  
-| bip_39_word_new_line11 | hint
+| bip_39_word_new_line_11 | hint
 expand
 lobster
 vault
@@ -66,7 +66,7 @@ velvet
 edge
 side
 lady |  
-| bip_39_word_new_line12 | hint
+| bip_39_word_new_line_12 | hint
 expand
 lobster
 vault
@@ -78,34 +78,34 @@ edge
 side
 lady
 agree |  
-| bip_39_word_new_line2 | hint
+| bip_39_word_new_line_2 | hint
 expand |  
-| bip_39_word_new_line3 | hint
+| bip_39_word_new_line_3 | hint
 expand
 lobster |  
-| bip_39_word_new_line4 | hint
+| bip_39_word_new_line_4 | hint
 expand
 lobster
 vault |  
-| bip_39_word_new_line5 | hint
+| bip_39_word_new_line_5 | hint
 expand
 lobster
 vault
 gloom |  
-| bip_39_word_new_line6 | hint
+| bip_39_word_new_line_6 | hint
 expand
 lobster
 vault
 gloom
 scan |  
-| bip_39_word_new_line7 | hint
+| bip_39_word_new_line_7 | hint
 expand
 lobster
 vault
 gloom
 scan
 letter |  
-| bip_39_word_new_line8 | hint
+| bip_39_word_new_line_8 | hint
 expand
 lobster
 vault
@@ -113,7 +113,7 @@ gloom
 scan
 letter
 velvet |  
-| bip_39_word_new_line9 | hint
+| bip_39_word_new_line_9 | hint
 expand
 lobster
 vault

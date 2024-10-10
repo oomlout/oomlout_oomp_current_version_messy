@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | prepare |  
-| bip_39_word_new_br10 | prepare<br>album<br>round<br>draft<br>include<br>hamster<br>pupil<br>dry<br>cereal<br>talk |  
-| bip_39_word_new_br11 | prepare<br>album<br>round<br>draft<br>include<br>hamster<br>pupil<br>dry<br>cereal<br>talk<br>casual |  
-| bip_39_word_new_br12 | prepare<br>album<br>round<br>draft<br>include<br>hamster<br>pupil<br>dry<br>cereal<br>talk<br>casual<br>anger |  
-| bip_39_word_new_br2 | prepare<br>album |  
-| bip_39_word_new_br3 | prepare<br>album<br>round |  
-| bip_39_word_new_br4 | prepare<br>album<br>round<br>draft |  
-| bip_39_word_new_br5 | prepare<br>album<br>round<br>draft<br>include |  
-| bip_39_word_new_br6 | prepare<br>album<br>round<br>draft<br>include<br>hamster |  
-| bip_39_word_new_br7 | prepare<br>album<br>round<br>draft<br>include<br>hamster<br>pupil |  
-| bip_39_word_new_br8 | prepare<br>album<br>round<br>draft<br>include<br>hamster<br>pupil<br>dry |  
-| bip_39_word_new_br9 | prepare<br>album<br>round<br>draft<br>include<br>hamster<br>pupil<br>dry<br>cereal |  
-| bip_39_word_new_line1 | prepare |  
-| bip_39_word_new_line10 | prepare
+| bip_39_word_new_br_1 | prepare |  
+| bip_39_word_new_br_10 | prepare<br>album<br>round<br>draft<br>include<br>hamster<br>pupil<br>dry<br>cereal<br>talk |  
+| bip_39_word_new_br_11 | prepare<br>album<br>round<br>draft<br>include<br>hamster<br>pupil<br>dry<br>cereal<br>talk<br>casual |  
+| bip_39_word_new_br_12 | prepare<br>album<br>round<br>draft<br>include<br>hamster<br>pupil<br>dry<br>cereal<br>talk<br>casual<br>anger |  
+| bip_39_word_new_br_2 | prepare<br>album |  
+| bip_39_word_new_br_3 | prepare<br>album<br>round |  
+| bip_39_word_new_br_4 | prepare<br>album<br>round<br>draft |  
+| bip_39_word_new_br_5 | prepare<br>album<br>round<br>draft<br>include |  
+| bip_39_word_new_br_6 | prepare<br>album<br>round<br>draft<br>include<br>hamster |  
+| bip_39_word_new_br_7 | prepare<br>album<br>round<br>draft<br>include<br>hamster<br>pupil |  
+| bip_39_word_new_br_8 | prepare<br>album<br>round<br>draft<br>include<br>hamster<br>pupil<br>dry |  
+| bip_39_word_new_br_9 | prepare<br>album<br>round<br>draft<br>include<br>hamster<br>pupil<br>dry<br>cereal |  
+| bip_39_word_new_line_1 | prepare |  
+| bip_39_word_new_line_10 | prepare
 album
 round
 draft
@@ -55,7 +55,7 @@ pupil
 dry
 cereal
 talk |  
-| bip_39_word_new_line11 | prepare
+| bip_39_word_new_line_11 | prepare
 album
 round
 draft
@@ -66,7 +66,7 @@ dry
 cereal
 talk
 casual |  
-| bip_39_word_new_line12 | prepare
+| bip_39_word_new_line_12 | prepare
 album
 round
 draft
@@ -78,34 +78,34 @@ cereal
 talk
 casual
 anger |  
-| bip_39_word_new_line2 | prepare
+| bip_39_word_new_line_2 | prepare
 album |  
-| bip_39_word_new_line3 | prepare
+| bip_39_word_new_line_3 | prepare
 album
 round |  
-| bip_39_word_new_line4 | prepare
+| bip_39_word_new_line_4 | prepare
 album
 round
 draft |  
-| bip_39_word_new_line5 | prepare
+| bip_39_word_new_line_5 | prepare
 album
 round
 draft
 include |  
-| bip_39_word_new_line6 | prepare
+| bip_39_word_new_line_6 | prepare
 album
 round
 draft
 include
 hamster |  
-| bip_39_word_new_line7 | prepare
+| bip_39_word_new_line_7 | prepare
 album
 round
 draft
 include
 hamster
 pupil |  
-| bip_39_word_new_line8 | prepare
+| bip_39_word_new_line_8 | prepare
 album
 round
 draft
@@ -113,7 +113,7 @@ include
 hamster
 pupil
 dry |  
-| bip_39_word_new_line9 | prepare
+| bip_39_word_new_line_9 | prepare
 album
 round
 draft

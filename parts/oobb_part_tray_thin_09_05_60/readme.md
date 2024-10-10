@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | weapon |  
-| bip_39_word_new_br10 | weapon<br>bag<br>favorite<br>lake<br>danger<br>segment<br>position<br>lunar<br>marriage<br>tattoo |  
-| bip_39_word_new_br11 | weapon<br>bag<br>favorite<br>lake<br>danger<br>segment<br>position<br>lunar<br>marriage<br>tattoo<br>gadget |  
-| bip_39_word_new_br12 | weapon<br>bag<br>favorite<br>lake<br>danger<br>segment<br>position<br>lunar<br>marriage<br>tattoo<br>gadget<br>accuse |  
-| bip_39_word_new_br2 | weapon<br>bag |  
-| bip_39_word_new_br3 | weapon<br>bag<br>favorite |  
-| bip_39_word_new_br4 | weapon<br>bag<br>favorite<br>lake |  
-| bip_39_word_new_br5 | weapon<br>bag<br>favorite<br>lake<br>danger |  
-| bip_39_word_new_br6 | weapon<br>bag<br>favorite<br>lake<br>danger<br>segment |  
-| bip_39_word_new_br7 | weapon<br>bag<br>favorite<br>lake<br>danger<br>segment<br>position |  
-| bip_39_word_new_br8 | weapon<br>bag<br>favorite<br>lake<br>danger<br>segment<br>position<br>lunar |  
-| bip_39_word_new_br9 | weapon<br>bag<br>favorite<br>lake<br>danger<br>segment<br>position<br>lunar<br>marriage |  
-| bip_39_word_new_line1 | weapon |  
-| bip_39_word_new_line10 | weapon
+| bip_39_word_new_br_1 | weapon |  
+| bip_39_word_new_br_10 | weapon<br>bag<br>favorite<br>lake<br>danger<br>segment<br>position<br>lunar<br>marriage<br>tattoo |  
+| bip_39_word_new_br_11 | weapon<br>bag<br>favorite<br>lake<br>danger<br>segment<br>position<br>lunar<br>marriage<br>tattoo<br>gadget |  
+| bip_39_word_new_br_12 | weapon<br>bag<br>favorite<br>lake<br>danger<br>segment<br>position<br>lunar<br>marriage<br>tattoo<br>gadget<br>accuse |  
+| bip_39_word_new_br_2 | weapon<br>bag |  
+| bip_39_word_new_br_3 | weapon<br>bag<br>favorite |  
+| bip_39_word_new_br_4 | weapon<br>bag<br>favorite<br>lake |  
+| bip_39_word_new_br_5 | weapon<br>bag<br>favorite<br>lake<br>danger |  
+| bip_39_word_new_br_6 | weapon<br>bag<br>favorite<br>lake<br>danger<br>segment |  
+| bip_39_word_new_br_7 | weapon<br>bag<br>favorite<br>lake<br>danger<br>segment<br>position |  
+| bip_39_word_new_br_8 | weapon<br>bag<br>favorite<br>lake<br>danger<br>segment<br>position<br>lunar |  
+| bip_39_word_new_br_9 | weapon<br>bag<br>favorite<br>lake<br>danger<br>segment<br>position<br>lunar<br>marriage |  
+| bip_39_word_new_line_1 | weapon |  
+| bip_39_word_new_line_10 | weapon
 bag
 favorite
 lake
@@ -55,7 +55,7 @@ position
 lunar
 marriage
 tattoo |  
-| bip_39_word_new_line11 | weapon
+| bip_39_word_new_line_11 | weapon
 bag
 favorite
 lake
@@ -66,7 +66,7 @@ lunar
 marriage
 tattoo
 gadget |  
-| bip_39_word_new_line12 | weapon
+| bip_39_word_new_line_12 | weapon
 bag
 favorite
 lake
@@ -78,34 +78,34 @@ marriage
 tattoo
 gadget
 accuse |  
-| bip_39_word_new_line2 | weapon
+| bip_39_word_new_line_2 | weapon
 bag |  
-| bip_39_word_new_line3 | weapon
+| bip_39_word_new_line_3 | weapon
 bag
 favorite |  
-| bip_39_word_new_line4 | weapon
+| bip_39_word_new_line_4 | weapon
 bag
 favorite
 lake |  
-| bip_39_word_new_line5 | weapon
+| bip_39_word_new_line_5 | weapon
 bag
 favorite
 lake
 danger |  
-| bip_39_word_new_line6 | weapon
+| bip_39_word_new_line_6 | weapon
 bag
 favorite
 lake
 danger
 segment |  
-| bip_39_word_new_line7 | weapon
+| bip_39_word_new_line_7 | weapon
 bag
 favorite
 lake
 danger
 segment
 position |  
-| bip_39_word_new_line8 | weapon
+| bip_39_word_new_line_8 | weapon
 bag
 favorite
 lake
@@ -113,7 +113,7 @@ danger
 segment
 position
 lunar |  
-| bip_39_word_new_line9 | weapon
+| bip_39_word_new_line_9 | weapon
 bag
 favorite
 lake

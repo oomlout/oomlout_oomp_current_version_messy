@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | vicious |  
-| bip_39_word_new_br10 | vicious<br>angry<br>spoon<br>proud<br>horn<br>cliff<br>gospel<br>sign<br>manage<br>patient |  
-| bip_39_word_new_br11 | vicious<br>angry<br>spoon<br>proud<br>horn<br>cliff<br>gospel<br>sign<br>manage<br>patient<br>name |  
-| bip_39_word_new_br12 | vicious<br>angry<br>spoon<br>proud<br>horn<br>cliff<br>gospel<br>sign<br>manage<br>patient<br>name<br>alpha |  
-| bip_39_word_new_br2 | vicious<br>angry |  
-| bip_39_word_new_br3 | vicious<br>angry<br>spoon |  
-| bip_39_word_new_br4 | vicious<br>angry<br>spoon<br>proud |  
-| bip_39_word_new_br5 | vicious<br>angry<br>spoon<br>proud<br>horn |  
-| bip_39_word_new_br6 | vicious<br>angry<br>spoon<br>proud<br>horn<br>cliff |  
-| bip_39_word_new_br7 | vicious<br>angry<br>spoon<br>proud<br>horn<br>cliff<br>gospel |  
-| bip_39_word_new_br8 | vicious<br>angry<br>spoon<br>proud<br>horn<br>cliff<br>gospel<br>sign |  
-| bip_39_word_new_br9 | vicious<br>angry<br>spoon<br>proud<br>horn<br>cliff<br>gospel<br>sign<br>manage |  
-| bip_39_word_new_line1 | vicious |  
-| bip_39_word_new_line10 | vicious
+| bip_39_word_new_br_1 | vicious |  
+| bip_39_word_new_br_10 | vicious<br>angry<br>spoon<br>proud<br>horn<br>cliff<br>gospel<br>sign<br>manage<br>patient |  
+| bip_39_word_new_br_11 | vicious<br>angry<br>spoon<br>proud<br>horn<br>cliff<br>gospel<br>sign<br>manage<br>patient<br>name |  
+| bip_39_word_new_br_12 | vicious<br>angry<br>spoon<br>proud<br>horn<br>cliff<br>gospel<br>sign<br>manage<br>patient<br>name<br>alpha |  
+| bip_39_word_new_br_2 | vicious<br>angry |  
+| bip_39_word_new_br_3 | vicious<br>angry<br>spoon |  
+| bip_39_word_new_br_4 | vicious<br>angry<br>spoon<br>proud |  
+| bip_39_word_new_br_5 | vicious<br>angry<br>spoon<br>proud<br>horn |  
+| bip_39_word_new_br_6 | vicious<br>angry<br>spoon<br>proud<br>horn<br>cliff |  
+| bip_39_word_new_br_7 | vicious<br>angry<br>spoon<br>proud<br>horn<br>cliff<br>gospel |  
+| bip_39_word_new_br_8 | vicious<br>angry<br>spoon<br>proud<br>horn<br>cliff<br>gospel<br>sign |  
+| bip_39_word_new_br_9 | vicious<br>angry<br>spoon<br>proud<br>horn<br>cliff<br>gospel<br>sign<br>manage |  
+| bip_39_word_new_line_1 | vicious |  
+| bip_39_word_new_line_10 | vicious
 angry
 spoon
 proud
@@ -55,7 +55,7 @@ gospel
 sign
 manage
 patient |  
-| bip_39_word_new_line11 | vicious
+| bip_39_word_new_line_11 | vicious
 angry
 spoon
 proud
@@ -66,7 +66,7 @@ sign
 manage
 patient
 name |  
-| bip_39_word_new_line12 | vicious
+| bip_39_word_new_line_12 | vicious
 angry
 spoon
 proud
@@ -78,34 +78,34 @@ manage
 patient
 name
 alpha |  
-| bip_39_word_new_line2 | vicious
+| bip_39_word_new_line_2 | vicious
 angry |  
-| bip_39_word_new_line3 | vicious
+| bip_39_word_new_line_3 | vicious
 angry
 spoon |  
-| bip_39_word_new_line4 | vicious
+| bip_39_word_new_line_4 | vicious
 angry
 spoon
 proud |  
-| bip_39_word_new_line5 | vicious
+| bip_39_word_new_line_5 | vicious
 angry
 spoon
 proud
 horn |  
-| bip_39_word_new_line6 | vicious
+| bip_39_word_new_line_6 | vicious
 angry
 spoon
 proud
 horn
 cliff |  
-| bip_39_word_new_line7 | vicious
+| bip_39_word_new_line_7 | vicious
 angry
 spoon
 proud
 horn
 cliff
 gospel |  
-| bip_39_word_new_line8 | vicious
+| bip_39_word_new_line_8 | vicious
 angry
 spoon
 proud
@@ -113,7 +113,7 @@ horn
 cliff
 gospel
 sign |  
-| bip_39_word_new_line9 | vicious
+| bip_39_word_new_line_9 | vicious
 angry
 spoon
 proud

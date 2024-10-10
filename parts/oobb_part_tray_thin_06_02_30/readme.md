@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dilemma |  
-| bip_39_word_new_br10 | dilemma<br>capital<br>canvas<br>enable<br>liquid<br>seat<br>alpha<br>nice<br>soft<br>flavor |  
-| bip_39_word_new_br11 | dilemma<br>capital<br>canvas<br>enable<br>liquid<br>seat<br>alpha<br>nice<br>soft<br>flavor<br>hen |  
-| bip_39_word_new_br12 | dilemma<br>capital<br>canvas<br>enable<br>liquid<br>seat<br>alpha<br>nice<br>soft<br>flavor<br>hen<br>arena |  
-| bip_39_word_new_br2 | dilemma<br>capital |  
-| bip_39_word_new_br3 | dilemma<br>capital<br>canvas |  
-| bip_39_word_new_br4 | dilemma<br>capital<br>canvas<br>enable |  
-| bip_39_word_new_br5 | dilemma<br>capital<br>canvas<br>enable<br>liquid |  
-| bip_39_word_new_br6 | dilemma<br>capital<br>canvas<br>enable<br>liquid<br>seat |  
-| bip_39_word_new_br7 | dilemma<br>capital<br>canvas<br>enable<br>liquid<br>seat<br>alpha |  
-| bip_39_word_new_br8 | dilemma<br>capital<br>canvas<br>enable<br>liquid<br>seat<br>alpha<br>nice |  
-| bip_39_word_new_br9 | dilemma<br>capital<br>canvas<br>enable<br>liquid<br>seat<br>alpha<br>nice<br>soft |  
-| bip_39_word_new_line1 | dilemma |  
-| bip_39_word_new_line10 | dilemma
+| bip_39_word_new_br_1 | dilemma |  
+| bip_39_word_new_br_10 | dilemma<br>capital<br>canvas<br>enable<br>liquid<br>seat<br>alpha<br>nice<br>soft<br>flavor |  
+| bip_39_word_new_br_11 | dilemma<br>capital<br>canvas<br>enable<br>liquid<br>seat<br>alpha<br>nice<br>soft<br>flavor<br>hen |  
+| bip_39_word_new_br_12 | dilemma<br>capital<br>canvas<br>enable<br>liquid<br>seat<br>alpha<br>nice<br>soft<br>flavor<br>hen<br>arena |  
+| bip_39_word_new_br_2 | dilemma<br>capital |  
+| bip_39_word_new_br_3 | dilemma<br>capital<br>canvas |  
+| bip_39_word_new_br_4 | dilemma<br>capital<br>canvas<br>enable |  
+| bip_39_word_new_br_5 | dilemma<br>capital<br>canvas<br>enable<br>liquid |  
+| bip_39_word_new_br_6 | dilemma<br>capital<br>canvas<br>enable<br>liquid<br>seat |  
+| bip_39_word_new_br_7 | dilemma<br>capital<br>canvas<br>enable<br>liquid<br>seat<br>alpha |  
+| bip_39_word_new_br_8 | dilemma<br>capital<br>canvas<br>enable<br>liquid<br>seat<br>alpha<br>nice |  
+| bip_39_word_new_br_9 | dilemma<br>capital<br>canvas<br>enable<br>liquid<br>seat<br>alpha<br>nice<br>soft |  
+| bip_39_word_new_line_1 | dilemma |  
+| bip_39_word_new_line_10 | dilemma
 capital
 canvas
 enable
@@ -55,7 +55,7 @@ alpha
 nice
 soft
 flavor |  
-| bip_39_word_new_line11 | dilemma
+| bip_39_word_new_line_11 | dilemma
 capital
 canvas
 enable
@@ -66,7 +66,7 @@ nice
 soft
 flavor
 hen |  
-| bip_39_word_new_line12 | dilemma
+| bip_39_word_new_line_12 | dilemma
 capital
 canvas
 enable
@@ -78,34 +78,34 @@ soft
 flavor
 hen
 arena |  
-| bip_39_word_new_line2 | dilemma
+| bip_39_word_new_line_2 | dilemma
 capital |  
-| bip_39_word_new_line3 | dilemma
+| bip_39_word_new_line_3 | dilemma
 capital
 canvas |  
-| bip_39_word_new_line4 | dilemma
+| bip_39_word_new_line_4 | dilemma
 capital
 canvas
 enable |  
-| bip_39_word_new_line5 | dilemma
+| bip_39_word_new_line_5 | dilemma
 capital
 canvas
 enable
 liquid |  
-| bip_39_word_new_line6 | dilemma
+| bip_39_word_new_line_6 | dilemma
 capital
 canvas
 enable
 liquid
 seat |  
-| bip_39_word_new_line7 | dilemma
+| bip_39_word_new_line_7 | dilemma
 capital
 canvas
 enable
 liquid
 seat
 alpha |  
-| bip_39_word_new_line8 | dilemma
+| bip_39_word_new_line_8 | dilemma
 capital
 canvas
 enable
@@ -113,7 +113,7 @@ liquid
 seat
 alpha
 nice |  
-| bip_39_word_new_line9 | dilemma
+| bip_39_word_new_line_9 | dilemma
 capital
 canvas
 enable

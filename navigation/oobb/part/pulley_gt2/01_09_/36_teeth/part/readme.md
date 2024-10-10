@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | script |  
-| bip_39_word_new_br10 | script<br>catch<br>lake<br>merge<br>finish<br>armed<br>pipe<br>merit<br>what<br>sketch |  
-| bip_39_word_new_br11 | script<br>catch<br>lake<br>merge<br>finish<br>armed<br>pipe<br>merit<br>what<br>sketch<br>powder |  
-| bip_39_word_new_br12 | script<br>catch<br>lake<br>merge<br>finish<br>armed<br>pipe<br>merit<br>what<br>sketch<br>powder<br>announce |  
-| bip_39_word_new_br2 | script<br>catch |  
-| bip_39_word_new_br3 | script<br>catch<br>lake |  
-| bip_39_word_new_br4 | script<br>catch<br>lake<br>merge |  
-| bip_39_word_new_br5 | script<br>catch<br>lake<br>merge<br>finish |  
-| bip_39_word_new_br6 | script<br>catch<br>lake<br>merge<br>finish<br>armed |  
-| bip_39_word_new_br7 | script<br>catch<br>lake<br>merge<br>finish<br>armed<br>pipe |  
-| bip_39_word_new_br8 | script<br>catch<br>lake<br>merge<br>finish<br>armed<br>pipe<br>merit |  
-| bip_39_word_new_br9 | script<br>catch<br>lake<br>merge<br>finish<br>armed<br>pipe<br>merit<br>what |  
-| bip_39_word_new_line1 | script |  
-| bip_39_word_new_line10 | script
+| bip_39_word_new_br_1 | script |  
+| bip_39_word_new_br_10 | script<br>catch<br>lake<br>merge<br>finish<br>armed<br>pipe<br>merit<br>what<br>sketch |  
+| bip_39_word_new_br_11 | script<br>catch<br>lake<br>merge<br>finish<br>armed<br>pipe<br>merit<br>what<br>sketch<br>powder |  
+| bip_39_word_new_br_12 | script<br>catch<br>lake<br>merge<br>finish<br>armed<br>pipe<br>merit<br>what<br>sketch<br>powder<br>announce |  
+| bip_39_word_new_br_2 | script<br>catch |  
+| bip_39_word_new_br_3 | script<br>catch<br>lake |  
+| bip_39_word_new_br_4 | script<br>catch<br>lake<br>merge |  
+| bip_39_word_new_br_5 | script<br>catch<br>lake<br>merge<br>finish |  
+| bip_39_word_new_br_6 | script<br>catch<br>lake<br>merge<br>finish<br>armed |  
+| bip_39_word_new_br_7 | script<br>catch<br>lake<br>merge<br>finish<br>armed<br>pipe |  
+| bip_39_word_new_br_8 | script<br>catch<br>lake<br>merge<br>finish<br>armed<br>pipe<br>merit |  
+| bip_39_word_new_br_9 | script<br>catch<br>lake<br>merge<br>finish<br>armed<br>pipe<br>merit<br>what |  
+| bip_39_word_new_line_1 | script |  
+| bip_39_word_new_line_10 | script
 catch
 lake
 merge
@@ -55,7 +55,7 @@ pipe
 merit
 what
 sketch |  
-| bip_39_word_new_line11 | script
+| bip_39_word_new_line_11 | script
 catch
 lake
 merge
@@ -66,7 +66,7 @@ merit
 what
 sketch
 powder |  
-| bip_39_word_new_line12 | script
+| bip_39_word_new_line_12 | script
 catch
 lake
 merge
@@ -78,34 +78,34 @@ what
 sketch
 powder
 announce |  
-| bip_39_word_new_line2 | script
+| bip_39_word_new_line_2 | script
 catch |  
-| bip_39_word_new_line3 | script
+| bip_39_word_new_line_3 | script
 catch
 lake |  
-| bip_39_word_new_line4 | script
+| bip_39_word_new_line_4 | script
 catch
 lake
 merge |  
-| bip_39_word_new_line5 | script
+| bip_39_word_new_line_5 | script
 catch
 lake
 merge
 finish |  
-| bip_39_word_new_line6 | script
+| bip_39_word_new_line_6 | script
 catch
 lake
 merge
 finish
 armed |  
-| bip_39_word_new_line7 | script
+| bip_39_word_new_line_7 | script
 catch
 lake
 merge
 finish
 armed
 pipe |  
-| bip_39_word_new_line8 | script
+| bip_39_word_new_line_8 | script
 catch
 lake
 merge
@@ -113,7 +113,7 @@ finish
 armed
 pipe
 merit |  
-| bip_39_word_new_line9 | script
+| bip_39_word_new_line_9 | script
 catch
 lake
 merge

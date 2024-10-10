@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | choice |  
-| bip_39_word_new_br10 | choice<br>parent<br>mechanic<br>stable<br>repair<br>dog<br>during<br>tumble<br>render<br>duck |  
-| bip_39_word_new_br11 | choice<br>parent<br>mechanic<br>stable<br>repair<br>dog<br>during<br>tumble<br>render<br>duck<br>delay |  
-| bip_39_word_new_br12 | choice<br>parent<br>mechanic<br>stable<br>repair<br>dog<br>during<br>tumble<br>render<br>duck<br>delay<br>amount |  
-| bip_39_word_new_br2 | choice<br>parent |  
-| bip_39_word_new_br3 | choice<br>parent<br>mechanic |  
-| bip_39_word_new_br4 | choice<br>parent<br>mechanic<br>stable |  
-| bip_39_word_new_br5 | choice<br>parent<br>mechanic<br>stable<br>repair |  
-| bip_39_word_new_br6 | choice<br>parent<br>mechanic<br>stable<br>repair<br>dog |  
-| bip_39_word_new_br7 | choice<br>parent<br>mechanic<br>stable<br>repair<br>dog<br>during |  
-| bip_39_word_new_br8 | choice<br>parent<br>mechanic<br>stable<br>repair<br>dog<br>during<br>tumble |  
-| bip_39_word_new_br9 | choice<br>parent<br>mechanic<br>stable<br>repair<br>dog<br>during<br>tumble<br>render |  
-| bip_39_word_new_line1 | choice |  
-| bip_39_word_new_line10 | choice
+| bip_39_word_new_br_1 | choice |  
+| bip_39_word_new_br_10 | choice<br>parent<br>mechanic<br>stable<br>repair<br>dog<br>during<br>tumble<br>render<br>duck |  
+| bip_39_word_new_br_11 | choice<br>parent<br>mechanic<br>stable<br>repair<br>dog<br>during<br>tumble<br>render<br>duck<br>delay |  
+| bip_39_word_new_br_12 | choice<br>parent<br>mechanic<br>stable<br>repair<br>dog<br>during<br>tumble<br>render<br>duck<br>delay<br>amount |  
+| bip_39_word_new_br_2 | choice<br>parent |  
+| bip_39_word_new_br_3 | choice<br>parent<br>mechanic |  
+| bip_39_word_new_br_4 | choice<br>parent<br>mechanic<br>stable |  
+| bip_39_word_new_br_5 | choice<br>parent<br>mechanic<br>stable<br>repair |  
+| bip_39_word_new_br_6 | choice<br>parent<br>mechanic<br>stable<br>repair<br>dog |  
+| bip_39_word_new_br_7 | choice<br>parent<br>mechanic<br>stable<br>repair<br>dog<br>during |  
+| bip_39_word_new_br_8 | choice<br>parent<br>mechanic<br>stable<br>repair<br>dog<br>during<br>tumble |  
+| bip_39_word_new_br_9 | choice<br>parent<br>mechanic<br>stable<br>repair<br>dog<br>during<br>tumble<br>render |  
+| bip_39_word_new_line_1 | choice |  
+| bip_39_word_new_line_10 | choice
 parent
 mechanic
 stable
@@ -55,7 +55,7 @@ during
 tumble
 render
 duck |  
-| bip_39_word_new_line11 | choice
+| bip_39_word_new_line_11 | choice
 parent
 mechanic
 stable
@@ -66,7 +66,7 @@ tumble
 render
 duck
 delay |  
-| bip_39_word_new_line12 | choice
+| bip_39_word_new_line_12 | choice
 parent
 mechanic
 stable
@@ -78,34 +78,34 @@ render
 duck
 delay
 amount |  
-| bip_39_word_new_line2 | choice
+| bip_39_word_new_line_2 | choice
 parent |  
-| bip_39_word_new_line3 | choice
+| bip_39_word_new_line_3 | choice
 parent
 mechanic |  
-| bip_39_word_new_line4 | choice
+| bip_39_word_new_line_4 | choice
 parent
 mechanic
 stable |  
-| bip_39_word_new_line5 | choice
+| bip_39_word_new_line_5 | choice
 parent
 mechanic
 stable
 repair |  
-| bip_39_word_new_line6 | choice
+| bip_39_word_new_line_6 | choice
 parent
 mechanic
 stable
 repair
 dog |  
-| bip_39_word_new_line7 | choice
+| bip_39_word_new_line_7 | choice
 parent
 mechanic
 stable
 repair
 dog
 during |  
-| bip_39_word_new_line8 | choice
+| bip_39_word_new_line_8 | choice
 parent
 mechanic
 stable
@@ -113,7 +113,7 @@ repair
 dog
 during
 tumble |  
-| bip_39_word_new_line9 | choice
+| bip_39_word_new_line_9 | choice
 parent
 mechanic
 stable

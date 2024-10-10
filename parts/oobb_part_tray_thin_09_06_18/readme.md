@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | asset |  
-| bip_39_word_new_br10 | asset<br>adapt<br>moment<br>struggle<br>chicken<br>loud<br>aisle<br>pole<br>unique<br>salad |  
-| bip_39_word_new_br11 | asset<br>adapt<br>moment<br>struggle<br>chicken<br>loud<br>aisle<br>pole<br>unique<br>salad<br>trash |  
-| bip_39_word_new_br12 | asset<br>adapt<br>moment<br>struggle<br>chicken<br>loud<br>aisle<br>pole<br>unique<br>salad<br>trash<br>amused |  
-| bip_39_word_new_br2 | asset<br>adapt |  
-| bip_39_word_new_br3 | asset<br>adapt<br>moment |  
-| bip_39_word_new_br4 | asset<br>adapt<br>moment<br>struggle |  
-| bip_39_word_new_br5 | asset<br>adapt<br>moment<br>struggle<br>chicken |  
-| bip_39_word_new_br6 | asset<br>adapt<br>moment<br>struggle<br>chicken<br>loud |  
-| bip_39_word_new_br7 | asset<br>adapt<br>moment<br>struggle<br>chicken<br>loud<br>aisle |  
-| bip_39_word_new_br8 | asset<br>adapt<br>moment<br>struggle<br>chicken<br>loud<br>aisle<br>pole |  
-| bip_39_word_new_br9 | asset<br>adapt<br>moment<br>struggle<br>chicken<br>loud<br>aisle<br>pole<br>unique |  
-| bip_39_word_new_line1 | asset |  
-| bip_39_word_new_line10 | asset
+| bip_39_word_new_br_1 | asset |  
+| bip_39_word_new_br_10 | asset<br>adapt<br>moment<br>struggle<br>chicken<br>loud<br>aisle<br>pole<br>unique<br>salad |  
+| bip_39_word_new_br_11 | asset<br>adapt<br>moment<br>struggle<br>chicken<br>loud<br>aisle<br>pole<br>unique<br>salad<br>trash |  
+| bip_39_word_new_br_12 | asset<br>adapt<br>moment<br>struggle<br>chicken<br>loud<br>aisle<br>pole<br>unique<br>salad<br>trash<br>amused |  
+| bip_39_word_new_br_2 | asset<br>adapt |  
+| bip_39_word_new_br_3 | asset<br>adapt<br>moment |  
+| bip_39_word_new_br_4 | asset<br>adapt<br>moment<br>struggle |  
+| bip_39_word_new_br_5 | asset<br>adapt<br>moment<br>struggle<br>chicken |  
+| bip_39_word_new_br_6 | asset<br>adapt<br>moment<br>struggle<br>chicken<br>loud |  
+| bip_39_word_new_br_7 | asset<br>adapt<br>moment<br>struggle<br>chicken<br>loud<br>aisle |  
+| bip_39_word_new_br_8 | asset<br>adapt<br>moment<br>struggle<br>chicken<br>loud<br>aisle<br>pole |  
+| bip_39_word_new_br_9 | asset<br>adapt<br>moment<br>struggle<br>chicken<br>loud<br>aisle<br>pole<br>unique |  
+| bip_39_word_new_line_1 | asset |  
+| bip_39_word_new_line_10 | asset
 adapt
 moment
 struggle
@@ -55,7 +55,7 @@ aisle
 pole
 unique
 salad |  
-| bip_39_word_new_line11 | asset
+| bip_39_word_new_line_11 | asset
 adapt
 moment
 struggle
@@ -66,7 +66,7 @@ pole
 unique
 salad
 trash |  
-| bip_39_word_new_line12 | asset
+| bip_39_word_new_line_12 | asset
 adapt
 moment
 struggle
@@ -78,34 +78,34 @@ unique
 salad
 trash
 amused |  
-| bip_39_word_new_line2 | asset
+| bip_39_word_new_line_2 | asset
 adapt |  
-| bip_39_word_new_line3 | asset
+| bip_39_word_new_line_3 | asset
 adapt
 moment |  
-| bip_39_word_new_line4 | asset
+| bip_39_word_new_line_4 | asset
 adapt
 moment
 struggle |  
-| bip_39_word_new_line5 | asset
+| bip_39_word_new_line_5 | asset
 adapt
 moment
 struggle
 chicken |  
-| bip_39_word_new_line6 | asset
+| bip_39_word_new_line_6 | asset
 adapt
 moment
 struggle
 chicken
 loud |  
-| bip_39_word_new_line7 | asset
+| bip_39_word_new_line_7 | asset
 adapt
 moment
 struggle
 chicken
 loud
 aisle |  
-| bip_39_word_new_line8 | asset
+| bip_39_word_new_line_8 | asset
 adapt
 moment
 struggle
@@ -113,7 +113,7 @@ chicken
 loud
 aisle
 pole |  
-| bip_39_word_new_line9 | asset
+| bip_39_word_new_line_9 | asset
 adapt
 moment
 struggle

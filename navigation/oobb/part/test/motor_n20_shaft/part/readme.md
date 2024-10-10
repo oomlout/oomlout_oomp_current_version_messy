@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | east |  
-| bip_39_word_new_br10 | east<br>omit<br>column<br>lunch<br>fiscal<br>direct<br>trust<br>sock<br>execute<br>manage |  
-| bip_39_word_new_br11 | east<br>omit<br>column<br>lunch<br>fiscal<br>direct<br>trust<br>sock<br>execute<br>manage<br>add |  
-| bip_39_word_new_br12 | east<br>omit<br>column<br>lunch<br>fiscal<br>direct<br>trust<br>sock<br>execute<br>manage<br>add<br>alone |  
-| bip_39_word_new_br2 | east<br>omit |  
-| bip_39_word_new_br3 | east<br>omit<br>column |  
-| bip_39_word_new_br4 | east<br>omit<br>column<br>lunch |  
-| bip_39_word_new_br5 | east<br>omit<br>column<br>lunch<br>fiscal |  
-| bip_39_word_new_br6 | east<br>omit<br>column<br>lunch<br>fiscal<br>direct |  
-| bip_39_word_new_br7 | east<br>omit<br>column<br>lunch<br>fiscal<br>direct<br>trust |  
-| bip_39_word_new_br8 | east<br>omit<br>column<br>lunch<br>fiscal<br>direct<br>trust<br>sock |  
-| bip_39_word_new_br9 | east<br>omit<br>column<br>lunch<br>fiscal<br>direct<br>trust<br>sock<br>execute |  
-| bip_39_word_new_line1 | east |  
-| bip_39_word_new_line10 | east
+| bip_39_word_new_br_1 | east |  
+| bip_39_word_new_br_10 | east<br>omit<br>column<br>lunch<br>fiscal<br>direct<br>trust<br>sock<br>execute<br>manage |  
+| bip_39_word_new_br_11 | east<br>omit<br>column<br>lunch<br>fiscal<br>direct<br>trust<br>sock<br>execute<br>manage<br>add |  
+| bip_39_word_new_br_12 | east<br>omit<br>column<br>lunch<br>fiscal<br>direct<br>trust<br>sock<br>execute<br>manage<br>add<br>alone |  
+| bip_39_word_new_br_2 | east<br>omit |  
+| bip_39_word_new_br_3 | east<br>omit<br>column |  
+| bip_39_word_new_br_4 | east<br>omit<br>column<br>lunch |  
+| bip_39_word_new_br_5 | east<br>omit<br>column<br>lunch<br>fiscal |  
+| bip_39_word_new_br_6 | east<br>omit<br>column<br>lunch<br>fiscal<br>direct |  
+| bip_39_word_new_br_7 | east<br>omit<br>column<br>lunch<br>fiscal<br>direct<br>trust |  
+| bip_39_word_new_br_8 | east<br>omit<br>column<br>lunch<br>fiscal<br>direct<br>trust<br>sock |  
+| bip_39_word_new_br_9 | east<br>omit<br>column<br>lunch<br>fiscal<br>direct<br>trust<br>sock<br>execute |  
+| bip_39_word_new_line_1 | east |  
+| bip_39_word_new_line_10 | east
 omit
 column
 lunch
@@ -55,7 +55,7 @@ trust
 sock
 execute
 manage |  
-| bip_39_word_new_line11 | east
+| bip_39_word_new_line_11 | east
 omit
 column
 lunch
@@ -66,7 +66,7 @@ sock
 execute
 manage
 add |  
-| bip_39_word_new_line12 | east
+| bip_39_word_new_line_12 | east
 omit
 column
 lunch
@@ -78,34 +78,34 @@ execute
 manage
 add
 alone |  
-| bip_39_word_new_line2 | east
+| bip_39_word_new_line_2 | east
 omit |  
-| bip_39_word_new_line3 | east
+| bip_39_word_new_line_3 | east
 omit
 column |  
-| bip_39_word_new_line4 | east
+| bip_39_word_new_line_4 | east
 omit
 column
 lunch |  
-| bip_39_word_new_line5 | east
+| bip_39_word_new_line_5 | east
 omit
 column
 lunch
 fiscal |  
-| bip_39_word_new_line6 | east
+| bip_39_word_new_line_6 | east
 omit
 column
 lunch
 fiscal
 direct |  
-| bip_39_word_new_line7 | east
+| bip_39_word_new_line_7 | east
 omit
 column
 lunch
 fiscal
 direct
 trust |  
-| bip_39_word_new_line8 | east
+| bip_39_word_new_line_8 | east
 omit
 column
 lunch
@@ -113,7 +113,7 @@ fiscal
 direct
 trust
 sock |  
-| bip_39_word_new_line9 | east
+| bip_39_word_new_line_9 | east
 omit
 column
 lunch

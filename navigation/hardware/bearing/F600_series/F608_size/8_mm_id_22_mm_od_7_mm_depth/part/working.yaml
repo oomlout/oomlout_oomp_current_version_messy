@@ -1,17 +1,17 @@
-bip_39_word_new_br1: stage
-bip_39_word_new_br10: stage<br>saddle<br>ginger<br>erase<br>upon<br>educate<br>naive<br>galaxy<br>copper<br>vocal
-bip_39_word_new_br11: stage<br>saddle<br>ginger<br>erase<br>upon<br>educate<br>naive<br>galaxy<br>copper<br>vocal<br>neglect
-bip_39_word_new_br12: stage<br>saddle<br>ginger<br>erase<br>upon<br>educate<br>naive<br>galaxy<br>copper<br>vocal<br>neglect<br>adult
-bip_39_word_new_br2: stage<br>saddle
-bip_39_word_new_br3: stage<br>saddle<br>ginger
-bip_39_word_new_br4: stage<br>saddle<br>ginger<br>erase
-bip_39_word_new_br5: stage<br>saddle<br>ginger<br>erase<br>upon
-bip_39_word_new_br6: stage<br>saddle<br>ginger<br>erase<br>upon<br>educate
-bip_39_word_new_br7: stage<br>saddle<br>ginger<br>erase<br>upon<br>educate<br>naive
-bip_39_word_new_br8: stage<br>saddle<br>ginger<br>erase<br>upon<br>educate<br>naive<br>galaxy
-bip_39_word_new_br9: stage<br>saddle<br>ginger<br>erase<br>upon<br>educate<br>naive<br>galaxy<br>copper
-bip_39_word_new_line1: stage
-bip_39_word_new_line10: 'stage
+bip_39_word_new_br_1: stage
+bip_39_word_new_br_10: stage<br>saddle<br>ginger<br>erase<br>upon<br>educate<br>naive<br>galaxy<br>copper<br>vocal
+bip_39_word_new_br_11: stage<br>saddle<br>ginger<br>erase<br>upon<br>educate<br>naive<br>galaxy<br>copper<br>vocal<br>neglect
+bip_39_word_new_br_12: stage<br>saddle<br>ginger<br>erase<br>upon<br>educate<br>naive<br>galaxy<br>copper<br>vocal<br>neglect<br>adult
+bip_39_word_new_br_2: stage<br>saddle
+bip_39_word_new_br_3: stage<br>saddle<br>ginger
+bip_39_word_new_br_4: stage<br>saddle<br>ginger<br>erase
+bip_39_word_new_br_5: stage<br>saddle<br>ginger<br>erase<br>upon
+bip_39_word_new_br_6: stage<br>saddle<br>ginger<br>erase<br>upon<br>educate
+bip_39_word_new_br_7: stage<br>saddle<br>ginger<br>erase<br>upon<br>educate<br>naive
+bip_39_word_new_br_8: stage<br>saddle<br>ginger<br>erase<br>upon<br>educate<br>naive<br>galaxy
+bip_39_word_new_br_9: stage<br>saddle<br>ginger<br>erase<br>upon<br>educate<br>naive<br>galaxy<br>copper
+bip_39_word_new_line_1: stage
+bip_39_word_new_line_10: 'stage
 
   saddle
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'stage
   copper
 
   vocal'
-bip_39_word_new_line11: 'stage
+bip_39_word_new_line_11: 'stage
 
   saddle
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'stage
   vocal
 
   neglect'
-bip_39_word_new_line12: 'stage
+bip_39_word_new_line_12: 'stage
 
   saddle
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'stage
   neglect
 
   adult'
-bip_39_word_new_line2: 'stage
+bip_39_word_new_line_2: 'stage
 
   saddle'
-bip_39_word_new_line3: 'stage
+bip_39_word_new_line_3: 'stage
 
   saddle
 
   ginger'
-bip_39_word_new_line4: 'stage
+bip_39_word_new_line_4: 'stage
 
   saddle
 
   ginger
 
   erase'
-bip_39_word_new_line5: 'stage
+bip_39_word_new_line_5: 'stage
 
   saddle
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'stage
   erase
 
   upon'
-bip_39_word_new_line6: 'stage
+bip_39_word_new_line_6: 'stage
 
   saddle
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'stage
   upon
 
   educate'
-bip_39_word_new_line7: 'stage
+bip_39_word_new_line_7: 'stage
 
   saddle
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'stage
   educate
 
   naive'
-bip_39_word_new_line8: 'stage
+bip_39_word_new_line_8: 'stage
 
   saddle
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'stage
   naive
 
   galaxy'
-bip_39_word_new_line9: 'stage
+bip_39_word_new_line_9: 'stage
 
   saddle
 

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | leg |  
-| bip_39_word_new_br10 | leg<br>host<br>reopen<br>kick<br>bright<br>lounge<br>chalk<br>bullet<br>become<br>drastic |  
-| bip_39_word_new_br11 | leg<br>host<br>reopen<br>kick<br>bright<br>lounge<br>chalk<br>bullet<br>become<br>drastic<br>derive |  
-| bip_39_word_new_br12 | leg<br>host<br>reopen<br>kick<br>bright<br>lounge<br>chalk<br>bullet<br>become<br>drastic<br>derive<br>aisle |  
-| bip_39_word_new_br2 | leg<br>host |  
-| bip_39_word_new_br3 | leg<br>host<br>reopen |  
-| bip_39_word_new_br4 | leg<br>host<br>reopen<br>kick |  
-| bip_39_word_new_br5 | leg<br>host<br>reopen<br>kick<br>bright |  
-| bip_39_word_new_br6 | leg<br>host<br>reopen<br>kick<br>bright<br>lounge |  
-| bip_39_word_new_br7 | leg<br>host<br>reopen<br>kick<br>bright<br>lounge<br>chalk |  
-| bip_39_word_new_br8 | leg<br>host<br>reopen<br>kick<br>bright<br>lounge<br>chalk<br>bullet |  
-| bip_39_word_new_br9 | leg<br>host<br>reopen<br>kick<br>bright<br>lounge<br>chalk<br>bullet<br>become |  
-| bip_39_word_new_line1 | leg |  
-| bip_39_word_new_line10 | leg
+| bip_39_word_new_br_1 | leg |  
+| bip_39_word_new_br_10 | leg<br>host<br>reopen<br>kick<br>bright<br>lounge<br>chalk<br>bullet<br>become<br>drastic |  
+| bip_39_word_new_br_11 | leg<br>host<br>reopen<br>kick<br>bright<br>lounge<br>chalk<br>bullet<br>become<br>drastic<br>derive |  
+| bip_39_word_new_br_12 | leg<br>host<br>reopen<br>kick<br>bright<br>lounge<br>chalk<br>bullet<br>become<br>drastic<br>derive<br>aisle |  
+| bip_39_word_new_br_2 | leg<br>host |  
+| bip_39_word_new_br_3 | leg<br>host<br>reopen |  
+| bip_39_word_new_br_4 | leg<br>host<br>reopen<br>kick |  
+| bip_39_word_new_br_5 | leg<br>host<br>reopen<br>kick<br>bright |  
+| bip_39_word_new_br_6 | leg<br>host<br>reopen<br>kick<br>bright<br>lounge |  
+| bip_39_word_new_br_7 | leg<br>host<br>reopen<br>kick<br>bright<br>lounge<br>chalk |  
+| bip_39_word_new_br_8 | leg<br>host<br>reopen<br>kick<br>bright<br>lounge<br>chalk<br>bullet |  
+| bip_39_word_new_br_9 | leg<br>host<br>reopen<br>kick<br>bright<br>lounge<br>chalk<br>bullet<br>become |  
+| bip_39_word_new_line_1 | leg |  
+| bip_39_word_new_line_10 | leg
 host
 reopen
 kick
@@ -55,7 +55,7 @@ chalk
 bullet
 become
 drastic |  
-| bip_39_word_new_line11 | leg
+| bip_39_word_new_line_11 | leg
 host
 reopen
 kick
@@ -66,7 +66,7 @@ bullet
 become
 drastic
 derive |  
-| bip_39_word_new_line12 | leg
+| bip_39_word_new_line_12 | leg
 host
 reopen
 kick
@@ -78,34 +78,34 @@ become
 drastic
 derive
 aisle |  
-| bip_39_word_new_line2 | leg
+| bip_39_word_new_line_2 | leg
 host |  
-| bip_39_word_new_line3 | leg
+| bip_39_word_new_line_3 | leg
 host
 reopen |  
-| bip_39_word_new_line4 | leg
+| bip_39_word_new_line_4 | leg
 host
 reopen
 kick |  
-| bip_39_word_new_line5 | leg
+| bip_39_word_new_line_5 | leg
 host
 reopen
 kick
 bright |  
-| bip_39_word_new_line6 | leg
+| bip_39_word_new_line_6 | leg
 host
 reopen
 kick
 bright
 lounge |  
-| bip_39_word_new_line7 | leg
+| bip_39_word_new_line_7 | leg
 host
 reopen
 kick
 bright
 lounge
 chalk |  
-| bip_39_word_new_line8 | leg
+| bip_39_word_new_line_8 | leg
 host
 reopen
 kick
@@ -113,7 +113,7 @@ bright
 lounge
 chalk
 bullet |  
-| bip_39_word_new_line9 | leg
+| bip_39_word_new_line_9 | leg
 host
 reopen
 kick

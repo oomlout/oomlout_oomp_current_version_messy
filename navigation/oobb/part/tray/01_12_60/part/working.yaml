@@ -1,17 +1,17 @@
-bip_39_word_new_br1: drive
-bip_39_word_new_br10: drive<br>fiber<br>divide<br>ceiling<br>predict<br>split<br>mobile<br>magic<br>defy<br>focus
-bip_39_word_new_br11: drive<br>fiber<br>divide<br>ceiling<br>predict<br>split<br>mobile<br>magic<br>defy<br>focus<br>security
-bip_39_word_new_br12: drive<br>fiber<br>divide<br>ceiling<br>predict<br>split<br>mobile<br>magic<br>defy<br>focus<br>security<br>also
-bip_39_word_new_br2: drive<br>fiber
-bip_39_word_new_br3: drive<br>fiber<br>divide
-bip_39_word_new_br4: drive<br>fiber<br>divide<br>ceiling
-bip_39_word_new_br5: drive<br>fiber<br>divide<br>ceiling<br>predict
-bip_39_word_new_br6: drive<br>fiber<br>divide<br>ceiling<br>predict<br>split
-bip_39_word_new_br7: drive<br>fiber<br>divide<br>ceiling<br>predict<br>split<br>mobile
-bip_39_word_new_br8: drive<br>fiber<br>divide<br>ceiling<br>predict<br>split<br>mobile<br>magic
-bip_39_word_new_br9: drive<br>fiber<br>divide<br>ceiling<br>predict<br>split<br>mobile<br>magic<br>defy
-bip_39_word_new_line1: drive
-bip_39_word_new_line10: 'drive
+bip_39_word_new_br_1: drive
+bip_39_word_new_br_10: drive<br>fiber<br>divide<br>ceiling<br>predict<br>split<br>mobile<br>magic<br>defy<br>focus
+bip_39_word_new_br_11: drive<br>fiber<br>divide<br>ceiling<br>predict<br>split<br>mobile<br>magic<br>defy<br>focus<br>security
+bip_39_word_new_br_12: drive<br>fiber<br>divide<br>ceiling<br>predict<br>split<br>mobile<br>magic<br>defy<br>focus<br>security<br>also
+bip_39_word_new_br_2: drive<br>fiber
+bip_39_word_new_br_3: drive<br>fiber<br>divide
+bip_39_word_new_br_4: drive<br>fiber<br>divide<br>ceiling
+bip_39_word_new_br_5: drive<br>fiber<br>divide<br>ceiling<br>predict
+bip_39_word_new_br_6: drive<br>fiber<br>divide<br>ceiling<br>predict<br>split
+bip_39_word_new_br_7: drive<br>fiber<br>divide<br>ceiling<br>predict<br>split<br>mobile
+bip_39_word_new_br_8: drive<br>fiber<br>divide<br>ceiling<br>predict<br>split<br>mobile<br>magic
+bip_39_word_new_br_9: drive<br>fiber<br>divide<br>ceiling<br>predict<br>split<br>mobile<br>magic<br>defy
+bip_39_word_new_line_1: drive
+bip_39_word_new_line_10: 'drive
 
   fiber
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'drive
   defy
 
   focus'
-bip_39_word_new_line11: 'drive
+bip_39_word_new_line_11: 'drive
 
   fiber
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'drive
   focus
 
   security'
-bip_39_word_new_line12: 'drive
+bip_39_word_new_line_12: 'drive
 
   fiber
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'drive
   security
 
   also'
-bip_39_word_new_line2: 'drive
+bip_39_word_new_line_2: 'drive
 
   fiber'
-bip_39_word_new_line3: 'drive
+bip_39_word_new_line_3: 'drive
 
   fiber
 
   divide'
-bip_39_word_new_line4: 'drive
+bip_39_word_new_line_4: 'drive
 
   fiber
 
   divide
 
   ceiling'
-bip_39_word_new_line5: 'drive
+bip_39_word_new_line_5: 'drive
 
   fiber
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'drive
   ceiling
 
   predict'
-bip_39_word_new_line6: 'drive
+bip_39_word_new_line_6: 'drive
 
   fiber
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'drive
   predict
 
   split'
-bip_39_word_new_line7: 'drive
+bip_39_word_new_line_7: 'drive
 
   fiber
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'drive
   split
 
   mobile'
-bip_39_word_new_line8: 'drive
+bip_39_word_new_line_8: 'drive
 
   fiber
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'drive
   mobile
 
   magic'
-bip_39_word_new_line9: 'drive
+bip_39_word_new_line_9: 'drive
 
   fiber
 

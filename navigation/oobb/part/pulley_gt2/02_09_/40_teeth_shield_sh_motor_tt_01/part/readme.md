@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | seminar |  
-| bip_39_word_new_br10 | seminar<br>undo<br>style<br>same<br>power<br>wood<br>suit<br>badge<br>favorite<br>movie |  
-| bip_39_word_new_br11 | seminar<br>undo<br>style<br>same<br>power<br>wood<br>suit<br>badge<br>favorite<br>movie<br>urge |  
-| bip_39_word_new_br12 | seminar<br>undo<br>style<br>same<br>power<br>wood<br>suit<br>badge<br>favorite<br>movie<br>urge<br>about |  
-| bip_39_word_new_br2 | seminar<br>undo |  
-| bip_39_word_new_br3 | seminar<br>undo<br>style |  
-| bip_39_word_new_br4 | seminar<br>undo<br>style<br>same |  
-| bip_39_word_new_br5 | seminar<br>undo<br>style<br>same<br>power |  
-| bip_39_word_new_br6 | seminar<br>undo<br>style<br>same<br>power<br>wood |  
-| bip_39_word_new_br7 | seminar<br>undo<br>style<br>same<br>power<br>wood<br>suit |  
-| bip_39_word_new_br8 | seminar<br>undo<br>style<br>same<br>power<br>wood<br>suit<br>badge |  
-| bip_39_word_new_br9 | seminar<br>undo<br>style<br>same<br>power<br>wood<br>suit<br>badge<br>favorite |  
-| bip_39_word_new_line1 | seminar |  
-| bip_39_word_new_line10 | seminar
+| bip_39_word_new_br_1 | seminar |  
+| bip_39_word_new_br_10 | seminar<br>undo<br>style<br>same<br>power<br>wood<br>suit<br>badge<br>favorite<br>movie |  
+| bip_39_word_new_br_11 | seminar<br>undo<br>style<br>same<br>power<br>wood<br>suit<br>badge<br>favorite<br>movie<br>urge |  
+| bip_39_word_new_br_12 | seminar<br>undo<br>style<br>same<br>power<br>wood<br>suit<br>badge<br>favorite<br>movie<br>urge<br>about |  
+| bip_39_word_new_br_2 | seminar<br>undo |  
+| bip_39_word_new_br_3 | seminar<br>undo<br>style |  
+| bip_39_word_new_br_4 | seminar<br>undo<br>style<br>same |  
+| bip_39_word_new_br_5 | seminar<br>undo<br>style<br>same<br>power |  
+| bip_39_word_new_br_6 | seminar<br>undo<br>style<br>same<br>power<br>wood |  
+| bip_39_word_new_br_7 | seminar<br>undo<br>style<br>same<br>power<br>wood<br>suit |  
+| bip_39_word_new_br_8 | seminar<br>undo<br>style<br>same<br>power<br>wood<br>suit<br>badge |  
+| bip_39_word_new_br_9 | seminar<br>undo<br>style<br>same<br>power<br>wood<br>suit<br>badge<br>favorite |  
+| bip_39_word_new_line_1 | seminar |  
+| bip_39_word_new_line_10 | seminar
 undo
 style
 same
@@ -55,7 +55,7 @@ suit
 badge
 favorite
 movie |  
-| bip_39_word_new_line11 | seminar
+| bip_39_word_new_line_11 | seminar
 undo
 style
 same
@@ -66,7 +66,7 @@ badge
 favorite
 movie
 urge |  
-| bip_39_word_new_line12 | seminar
+| bip_39_word_new_line_12 | seminar
 undo
 style
 same
@@ -78,34 +78,34 @@ favorite
 movie
 urge
 about |  
-| bip_39_word_new_line2 | seminar
+| bip_39_word_new_line_2 | seminar
 undo |  
-| bip_39_word_new_line3 | seminar
+| bip_39_word_new_line_3 | seminar
 undo
 style |  
-| bip_39_word_new_line4 | seminar
+| bip_39_word_new_line_4 | seminar
 undo
 style
 same |  
-| bip_39_word_new_line5 | seminar
+| bip_39_word_new_line_5 | seminar
 undo
 style
 same
 power |  
-| bip_39_word_new_line6 | seminar
+| bip_39_word_new_line_6 | seminar
 undo
 style
 same
 power
 wood |  
-| bip_39_word_new_line7 | seminar
+| bip_39_word_new_line_7 | seminar
 undo
 style
 same
 power
 wood
 suit |  
-| bip_39_word_new_line8 | seminar
+| bip_39_word_new_line_8 | seminar
 undo
 style
 same
@@ -113,7 +113,7 @@ power
 wood
 suit
 badge |  
-| bip_39_word_new_line9 | seminar
+| bip_39_word_new_line_9 | seminar
 undo
 style
 same

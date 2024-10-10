@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | staff |  
-| bip_39_word_new_br10 | staff<br>pass<br>drop<br>wise<br>market<br>palm<br>there<br>scheme<br>hand<br>ordinary |  
-| bip_39_word_new_br11 | staff<br>pass<br>drop<br>wise<br>market<br>palm<br>there<br>scheme<br>hand<br>ordinary<br>rose |  
-| bip_39_word_new_br12 | staff<br>pass<br>drop<br>wise<br>market<br>palm<br>there<br>scheme<br>hand<br>ordinary<br>rose<br>accident |  
-| bip_39_word_new_br2 | staff<br>pass |  
-| bip_39_word_new_br3 | staff<br>pass<br>drop |  
-| bip_39_word_new_br4 | staff<br>pass<br>drop<br>wise |  
-| bip_39_word_new_br5 | staff<br>pass<br>drop<br>wise<br>market |  
-| bip_39_word_new_br6 | staff<br>pass<br>drop<br>wise<br>market<br>palm |  
-| bip_39_word_new_br7 | staff<br>pass<br>drop<br>wise<br>market<br>palm<br>there |  
-| bip_39_word_new_br8 | staff<br>pass<br>drop<br>wise<br>market<br>palm<br>there<br>scheme |  
-| bip_39_word_new_br9 | staff<br>pass<br>drop<br>wise<br>market<br>palm<br>there<br>scheme<br>hand |  
-| bip_39_word_new_line1 | staff |  
-| bip_39_word_new_line10 | staff
+| bip_39_word_new_br_1 | staff |  
+| bip_39_word_new_br_10 | staff<br>pass<br>drop<br>wise<br>market<br>palm<br>there<br>scheme<br>hand<br>ordinary |  
+| bip_39_word_new_br_11 | staff<br>pass<br>drop<br>wise<br>market<br>palm<br>there<br>scheme<br>hand<br>ordinary<br>rose |  
+| bip_39_word_new_br_12 | staff<br>pass<br>drop<br>wise<br>market<br>palm<br>there<br>scheme<br>hand<br>ordinary<br>rose<br>accident |  
+| bip_39_word_new_br_2 | staff<br>pass |  
+| bip_39_word_new_br_3 | staff<br>pass<br>drop |  
+| bip_39_word_new_br_4 | staff<br>pass<br>drop<br>wise |  
+| bip_39_word_new_br_5 | staff<br>pass<br>drop<br>wise<br>market |  
+| bip_39_word_new_br_6 | staff<br>pass<br>drop<br>wise<br>market<br>palm |  
+| bip_39_word_new_br_7 | staff<br>pass<br>drop<br>wise<br>market<br>palm<br>there |  
+| bip_39_word_new_br_8 | staff<br>pass<br>drop<br>wise<br>market<br>palm<br>there<br>scheme |  
+| bip_39_word_new_br_9 | staff<br>pass<br>drop<br>wise<br>market<br>palm<br>there<br>scheme<br>hand |  
+| bip_39_word_new_line_1 | staff |  
+| bip_39_word_new_line_10 | staff
 pass
 drop
 wise
@@ -55,7 +55,7 @@ there
 scheme
 hand
 ordinary |  
-| bip_39_word_new_line11 | staff
+| bip_39_word_new_line_11 | staff
 pass
 drop
 wise
@@ -66,7 +66,7 @@ scheme
 hand
 ordinary
 rose |  
-| bip_39_word_new_line12 | staff
+| bip_39_word_new_line_12 | staff
 pass
 drop
 wise
@@ -78,34 +78,34 @@ hand
 ordinary
 rose
 accident |  
-| bip_39_word_new_line2 | staff
+| bip_39_word_new_line_2 | staff
 pass |  
-| bip_39_word_new_line3 | staff
+| bip_39_word_new_line_3 | staff
 pass
 drop |  
-| bip_39_word_new_line4 | staff
+| bip_39_word_new_line_4 | staff
 pass
 drop
 wise |  
-| bip_39_word_new_line5 | staff
+| bip_39_word_new_line_5 | staff
 pass
 drop
 wise
 market |  
-| bip_39_word_new_line6 | staff
+| bip_39_word_new_line_6 | staff
 pass
 drop
 wise
 market
 palm |  
-| bip_39_word_new_line7 | staff
+| bip_39_word_new_line_7 | staff
 pass
 drop
 wise
 market
 palm
 there |  
-| bip_39_word_new_line8 | staff
+| bip_39_word_new_line_8 | staff
 pass
 drop
 wise
@@ -113,7 +113,7 @@ market
 palm
 there
 scheme |  
-| bip_39_word_new_line9 | staff
+| bip_39_word_new_line_9 | staff
 pass
 drop
 wise

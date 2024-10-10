@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | glow |  
-| bip_39_word_new_br10 | glow<br>game<br>pitch<br>horse<br>junk<br>term<br>general<br>dad<br>adult<br>suggest |  
-| bip_39_word_new_br11 | glow<br>game<br>pitch<br>horse<br>junk<br>term<br>general<br>dad<br>adult<br>suggest<br>eight |  
-| bip_39_word_new_br12 | glow<br>game<br>pitch<br>horse<br>junk<br>term<br>general<br>dad<br>adult<br>suggest<br>eight<br>afraid |  
-| bip_39_word_new_br2 | glow<br>game |  
-| bip_39_word_new_br3 | glow<br>game<br>pitch |  
-| bip_39_word_new_br4 | glow<br>game<br>pitch<br>horse |  
-| bip_39_word_new_br5 | glow<br>game<br>pitch<br>horse<br>junk |  
-| bip_39_word_new_br6 | glow<br>game<br>pitch<br>horse<br>junk<br>term |  
-| bip_39_word_new_br7 | glow<br>game<br>pitch<br>horse<br>junk<br>term<br>general |  
-| bip_39_word_new_br8 | glow<br>game<br>pitch<br>horse<br>junk<br>term<br>general<br>dad |  
-| bip_39_word_new_br9 | glow<br>game<br>pitch<br>horse<br>junk<br>term<br>general<br>dad<br>adult |  
-| bip_39_word_new_line1 | glow |  
-| bip_39_word_new_line10 | glow
+| bip_39_word_new_br_1 | glow |  
+| bip_39_word_new_br_10 | glow<br>game<br>pitch<br>horse<br>junk<br>term<br>general<br>dad<br>adult<br>suggest |  
+| bip_39_word_new_br_11 | glow<br>game<br>pitch<br>horse<br>junk<br>term<br>general<br>dad<br>adult<br>suggest<br>eight |  
+| bip_39_word_new_br_12 | glow<br>game<br>pitch<br>horse<br>junk<br>term<br>general<br>dad<br>adult<br>suggest<br>eight<br>afraid |  
+| bip_39_word_new_br_2 | glow<br>game |  
+| bip_39_word_new_br_3 | glow<br>game<br>pitch |  
+| bip_39_word_new_br_4 | glow<br>game<br>pitch<br>horse |  
+| bip_39_word_new_br_5 | glow<br>game<br>pitch<br>horse<br>junk |  
+| bip_39_word_new_br_6 | glow<br>game<br>pitch<br>horse<br>junk<br>term |  
+| bip_39_word_new_br_7 | glow<br>game<br>pitch<br>horse<br>junk<br>term<br>general |  
+| bip_39_word_new_br_8 | glow<br>game<br>pitch<br>horse<br>junk<br>term<br>general<br>dad |  
+| bip_39_word_new_br_9 | glow<br>game<br>pitch<br>horse<br>junk<br>term<br>general<br>dad<br>adult |  
+| bip_39_word_new_line_1 | glow |  
+| bip_39_word_new_line_10 | glow
 game
 pitch
 horse
@@ -55,7 +55,7 @@ general
 dad
 adult
 suggest |  
-| bip_39_word_new_line11 | glow
+| bip_39_word_new_line_11 | glow
 game
 pitch
 horse
@@ -66,7 +66,7 @@ dad
 adult
 suggest
 eight |  
-| bip_39_word_new_line12 | glow
+| bip_39_word_new_line_12 | glow
 game
 pitch
 horse
@@ -78,34 +78,34 @@ adult
 suggest
 eight
 afraid |  
-| bip_39_word_new_line2 | glow
+| bip_39_word_new_line_2 | glow
 game |  
-| bip_39_word_new_line3 | glow
+| bip_39_word_new_line_3 | glow
 game
 pitch |  
-| bip_39_word_new_line4 | glow
+| bip_39_word_new_line_4 | glow
 game
 pitch
 horse |  
-| bip_39_word_new_line5 | glow
+| bip_39_word_new_line_5 | glow
 game
 pitch
 horse
 junk |  
-| bip_39_word_new_line6 | glow
+| bip_39_word_new_line_6 | glow
 game
 pitch
 horse
 junk
 term |  
-| bip_39_word_new_line7 | glow
+| bip_39_word_new_line_7 | glow
 game
 pitch
 horse
 junk
 term
 general |  
-| bip_39_word_new_line8 | glow
+| bip_39_word_new_line_8 | glow
 game
 pitch
 horse
@@ -113,7 +113,7 @@ junk
 term
 general
 dad |  
-| bip_39_word_new_line9 | glow
+| bip_39_word_new_line_9 | glow
 game
 pitch
 horse

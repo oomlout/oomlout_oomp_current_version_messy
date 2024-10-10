@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sport |  
-| bip_39_word_new_br10 | sport<br>predict<br>brave<br>creek<br>sphere<br>trigger<br>degree<br>junk<br>kind<br>swear |  
-| bip_39_word_new_br11 | sport<br>predict<br>brave<br>creek<br>sphere<br>trigger<br>degree<br>junk<br>kind<br>swear<br>cave |  
-| bip_39_word_new_br12 | sport<br>predict<br>brave<br>creek<br>sphere<br>trigger<br>degree<br>junk<br>kind<br>swear<br>cave<br>album |  
-| bip_39_word_new_br2 | sport<br>predict |  
-| bip_39_word_new_br3 | sport<br>predict<br>brave |  
-| bip_39_word_new_br4 | sport<br>predict<br>brave<br>creek |  
-| bip_39_word_new_br5 | sport<br>predict<br>brave<br>creek<br>sphere |  
-| bip_39_word_new_br6 | sport<br>predict<br>brave<br>creek<br>sphere<br>trigger |  
-| bip_39_word_new_br7 | sport<br>predict<br>brave<br>creek<br>sphere<br>trigger<br>degree |  
-| bip_39_word_new_br8 | sport<br>predict<br>brave<br>creek<br>sphere<br>trigger<br>degree<br>junk |  
-| bip_39_word_new_br9 | sport<br>predict<br>brave<br>creek<br>sphere<br>trigger<br>degree<br>junk<br>kind |  
-| bip_39_word_new_line1 | sport |  
-| bip_39_word_new_line10 | sport
+| bip_39_word_new_br_1 | sport |  
+| bip_39_word_new_br_10 | sport<br>predict<br>brave<br>creek<br>sphere<br>trigger<br>degree<br>junk<br>kind<br>swear |  
+| bip_39_word_new_br_11 | sport<br>predict<br>brave<br>creek<br>sphere<br>trigger<br>degree<br>junk<br>kind<br>swear<br>cave |  
+| bip_39_word_new_br_12 | sport<br>predict<br>brave<br>creek<br>sphere<br>trigger<br>degree<br>junk<br>kind<br>swear<br>cave<br>album |  
+| bip_39_word_new_br_2 | sport<br>predict |  
+| bip_39_word_new_br_3 | sport<br>predict<br>brave |  
+| bip_39_word_new_br_4 | sport<br>predict<br>brave<br>creek |  
+| bip_39_word_new_br_5 | sport<br>predict<br>brave<br>creek<br>sphere |  
+| bip_39_word_new_br_6 | sport<br>predict<br>brave<br>creek<br>sphere<br>trigger |  
+| bip_39_word_new_br_7 | sport<br>predict<br>brave<br>creek<br>sphere<br>trigger<br>degree |  
+| bip_39_word_new_br_8 | sport<br>predict<br>brave<br>creek<br>sphere<br>trigger<br>degree<br>junk |  
+| bip_39_word_new_br_9 | sport<br>predict<br>brave<br>creek<br>sphere<br>trigger<br>degree<br>junk<br>kind |  
+| bip_39_word_new_line_1 | sport |  
+| bip_39_word_new_line_10 | sport
 predict
 brave
 creek
@@ -55,7 +55,7 @@ degree
 junk
 kind
 swear |  
-| bip_39_word_new_line11 | sport
+| bip_39_word_new_line_11 | sport
 predict
 brave
 creek
@@ -66,7 +66,7 @@ junk
 kind
 swear
 cave |  
-| bip_39_word_new_line12 | sport
+| bip_39_word_new_line_12 | sport
 predict
 brave
 creek
@@ -78,34 +78,34 @@ kind
 swear
 cave
 album |  
-| bip_39_word_new_line2 | sport
+| bip_39_word_new_line_2 | sport
 predict |  
-| bip_39_word_new_line3 | sport
+| bip_39_word_new_line_3 | sport
 predict
 brave |  
-| bip_39_word_new_line4 | sport
+| bip_39_word_new_line_4 | sport
 predict
 brave
 creek |  
-| bip_39_word_new_line5 | sport
+| bip_39_word_new_line_5 | sport
 predict
 brave
 creek
 sphere |  
-| bip_39_word_new_line6 | sport
+| bip_39_word_new_line_6 | sport
 predict
 brave
 creek
 sphere
 trigger |  
-| bip_39_word_new_line7 | sport
+| bip_39_word_new_line_7 | sport
 predict
 brave
 creek
 sphere
 trigger
 degree |  
-| bip_39_word_new_line8 | sport
+| bip_39_word_new_line_8 | sport
 predict
 brave
 creek
@@ -113,7 +113,7 @@ sphere
 trigger
 degree
 junk |  
-| bip_39_word_new_line9 | sport
+| bip_39_word_new_line_9 | sport
 predict
 brave
 creek

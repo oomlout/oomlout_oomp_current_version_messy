@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | black |  
-| bip_39_word_new_br10 | black<br>valve<br>brave<br>cousin<br>fire<br>finger<br>fiction<br>bind<br>retire<br>venue |  
-| bip_39_word_new_br11 | black<br>valve<br>brave<br>cousin<br>fire<br>finger<br>fiction<br>bind<br>retire<br>venue<br>confirm |  
-| bip_39_word_new_br12 | black<br>valve<br>brave<br>cousin<br>fire<br>finger<br>fiction<br>bind<br>retire<br>venue<br>confirm<br>above |  
-| bip_39_word_new_br2 | black<br>valve |  
-| bip_39_word_new_br3 | black<br>valve<br>brave |  
-| bip_39_word_new_br4 | black<br>valve<br>brave<br>cousin |  
-| bip_39_word_new_br5 | black<br>valve<br>brave<br>cousin<br>fire |  
-| bip_39_word_new_br6 | black<br>valve<br>brave<br>cousin<br>fire<br>finger |  
-| bip_39_word_new_br7 | black<br>valve<br>brave<br>cousin<br>fire<br>finger<br>fiction |  
-| bip_39_word_new_br8 | black<br>valve<br>brave<br>cousin<br>fire<br>finger<br>fiction<br>bind |  
-| bip_39_word_new_br9 | black<br>valve<br>brave<br>cousin<br>fire<br>finger<br>fiction<br>bind<br>retire |  
-| bip_39_word_new_line1 | black |  
-| bip_39_word_new_line10 | black
+| bip_39_word_new_br_1 | black |  
+| bip_39_word_new_br_10 | black<br>valve<br>brave<br>cousin<br>fire<br>finger<br>fiction<br>bind<br>retire<br>venue |  
+| bip_39_word_new_br_11 | black<br>valve<br>brave<br>cousin<br>fire<br>finger<br>fiction<br>bind<br>retire<br>venue<br>confirm |  
+| bip_39_word_new_br_12 | black<br>valve<br>brave<br>cousin<br>fire<br>finger<br>fiction<br>bind<br>retire<br>venue<br>confirm<br>above |  
+| bip_39_word_new_br_2 | black<br>valve |  
+| bip_39_word_new_br_3 | black<br>valve<br>brave |  
+| bip_39_word_new_br_4 | black<br>valve<br>brave<br>cousin |  
+| bip_39_word_new_br_5 | black<br>valve<br>brave<br>cousin<br>fire |  
+| bip_39_word_new_br_6 | black<br>valve<br>brave<br>cousin<br>fire<br>finger |  
+| bip_39_word_new_br_7 | black<br>valve<br>brave<br>cousin<br>fire<br>finger<br>fiction |  
+| bip_39_word_new_br_8 | black<br>valve<br>brave<br>cousin<br>fire<br>finger<br>fiction<br>bind |  
+| bip_39_word_new_br_9 | black<br>valve<br>brave<br>cousin<br>fire<br>finger<br>fiction<br>bind<br>retire |  
+| bip_39_word_new_line_1 | black |  
+| bip_39_word_new_line_10 | black
 valve
 brave
 cousin
@@ -55,7 +55,7 @@ fiction
 bind
 retire
 venue |  
-| bip_39_word_new_line11 | black
+| bip_39_word_new_line_11 | black
 valve
 brave
 cousin
@@ -66,7 +66,7 @@ bind
 retire
 venue
 confirm |  
-| bip_39_word_new_line12 | black
+| bip_39_word_new_line_12 | black
 valve
 brave
 cousin
@@ -78,34 +78,34 @@ retire
 venue
 confirm
 above |  
-| bip_39_word_new_line2 | black
+| bip_39_word_new_line_2 | black
 valve |  
-| bip_39_word_new_line3 | black
+| bip_39_word_new_line_3 | black
 valve
 brave |  
-| bip_39_word_new_line4 | black
+| bip_39_word_new_line_4 | black
 valve
 brave
 cousin |  
-| bip_39_word_new_line5 | black
+| bip_39_word_new_line_5 | black
 valve
 brave
 cousin
 fire |  
-| bip_39_word_new_line6 | black
+| bip_39_word_new_line_6 | black
 valve
 brave
 cousin
 fire
 finger |  
-| bip_39_word_new_line7 | black
+| bip_39_word_new_line_7 | black
 valve
 brave
 cousin
 fire
 finger
 fiction |  
-| bip_39_word_new_line8 | black
+| bip_39_word_new_line_8 | black
 valve
 brave
 cousin
@@ -113,7 +113,7 @@ fire
 finger
 fiction
 bind |  
-| bip_39_word_new_line9 | black
+| bip_39_word_new_line_9 | black
 valve
 brave
 cousin

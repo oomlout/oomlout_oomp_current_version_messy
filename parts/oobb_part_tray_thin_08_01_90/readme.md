@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | coast |  
-| bip_39_word_new_br10 | coast<br>gas<br>bid<br>myth<br>answer<br>waste<br>cheese<br>tent<br>drip<br>ginger |  
-| bip_39_word_new_br11 | coast<br>gas<br>bid<br>myth<br>answer<br>waste<br>cheese<br>tent<br>drip<br>ginger<br>club |  
-| bip_39_word_new_br12 | coast<br>gas<br>bid<br>myth<br>answer<br>waste<br>cheese<br>tent<br>drip<br>ginger<br>club<br>afraid |  
-| bip_39_word_new_br2 | coast<br>gas |  
-| bip_39_word_new_br3 | coast<br>gas<br>bid |  
-| bip_39_word_new_br4 | coast<br>gas<br>bid<br>myth |  
-| bip_39_word_new_br5 | coast<br>gas<br>bid<br>myth<br>answer |  
-| bip_39_word_new_br6 | coast<br>gas<br>bid<br>myth<br>answer<br>waste |  
-| bip_39_word_new_br7 | coast<br>gas<br>bid<br>myth<br>answer<br>waste<br>cheese |  
-| bip_39_word_new_br8 | coast<br>gas<br>bid<br>myth<br>answer<br>waste<br>cheese<br>tent |  
-| bip_39_word_new_br9 | coast<br>gas<br>bid<br>myth<br>answer<br>waste<br>cheese<br>tent<br>drip |  
-| bip_39_word_new_line1 | coast |  
-| bip_39_word_new_line10 | coast
+| bip_39_word_new_br_1 | coast |  
+| bip_39_word_new_br_10 | coast<br>gas<br>bid<br>myth<br>answer<br>waste<br>cheese<br>tent<br>drip<br>ginger |  
+| bip_39_word_new_br_11 | coast<br>gas<br>bid<br>myth<br>answer<br>waste<br>cheese<br>tent<br>drip<br>ginger<br>club |  
+| bip_39_word_new_br_12 | coast<br>gas<br>bid<br>myth<br>answer<br>waste<br>cheese<br>tent<br>drip<br>ginger<br>club<br>afraid |  
+| bip_39_word_new_br_2 | coast<br>gas |  
+| bip_39_word_new_br_3 | coast<br>gas<br>bid |  
+| bip_39_word_new_br_4 | coast<br>gas<br>bid<br>myth |  
+| bip_39_word_new_br_5 | coast<br>gas<br>bid<br>myth<br>answer |  
+| bip_39_word_new_br_6 | coast<br>gas<br>bid<br>myth<br>answer<br>waste |  
+| bip_39_word_new_br_7 | coast<br>gas<br>bid<br>myth<br>answer<br>waste<br>cheese |  
+| bip_39_word_new_br_8 | coast<br>gas<br>bid<br>myth<br>answer<br>waste<br>cheese<br>tent |  
+| bip_39_word_new_br_9 | coast<br>gas<br>bid<br>myth<br>answer<br>waste<br>cheese<br>tent<br>drip |  
+| bip_39_word_new_line_1 | coast |  
+| bip_39_word_new_line_10 | coast
 gas
 bid
 myth
@@ -55,7 +55,7 @@ cheese
 tent
 drip
 ginger |  
-| bip_39_word_new_line11 | coast
+| bip_39_word_new_line_11 | coast
 gas
 bid
 myth
@@ -66,7 +66,7 @@ tent
 drip
 ginger
 club |  
-| bip_39_word_new_line12 | coast
+| bip_39_word_new_line_12 | coast
 gas
 bid
 myth
@@ -78,34 +78,34 @@ drip
 ginger
 club
 afraid |  
-| bip_39_word_new_line2 | coast
+| bip_39_word_new_line_2 | coast
 gas |  
-| bip_39_word_new_line3 | coast
+| bip_39_word_new_line_3 | coast
 gas
 bid |  
-| bip_39_word_new_line4 | coast
+| bip_39_word_new_line_4 | coast
 gas
 bid
 myth |  
-| bip_39_word_new_line5 | coast
+| bip_39_word_new_line_5 | coast
 gas
 bid
 myth
 answer |  
-| bip_39_word_new_line6 | coast
+| bip_39_word_new_line_6 | coast
 gas
 bid
 myth
 answer
 waste |  
-| bip_39_word_new_line7 | coast
+| bip_39_word_new_line_7 | coast
 gas
 bid
 myth
 answer
 waste
 cheese |  
-| bip_39_word_new_line8 | coast
+| bip_39_word_new_line_8 | coast
 gas
 bid
 myth
@@ -113,7 +113,7 @@ answer
 waste
 cheese
 tent |  
-| bip_39_word_new_line9 | coast
+| bip_39_word_new_line_9 | coast
 gas
 bid
 myth

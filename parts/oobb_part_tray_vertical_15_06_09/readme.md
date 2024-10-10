@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | orbit |  
-| bip_39_word_new_br10 | orbit<br>copper<br>iron<br>label<br>bone<br>rookie<br>fiscal<br>clump<br>impact<br>popular |  
-| bip_39_word_new_br11 | orbit<br>copper<br>iron<br>label<br>bone<br>rookie<br>fiscal<br>clump<br>impact<br>popular<br>either |  
-| bip_39_word_new_br12 | orbit<br>copper<br>iron<br>label<br>bone<br>rookie<br>fiscal<br>clump<br>impact<br>popular<br>either<br>absorb |  
-| bip_39_word_new_br2 | orbit<br>copper |  
-| bip_39_word_new_br3 | orbit<br>copper<br>iron |  
-| bip_39_word_new_br4 | orbit<br>copper<br>iron<br>label |  
-| bip_39_word_new_br5 | orbit<br>copper<br>iron<br>label<br>bone |  
-| bip_39_word_new_br6 | orbit<br>copper<br>iron<br>label<br>bone<br>rookie |  
-| bip_39_word_new_br7 | orbit<br>copper<br>iron<br>label<br>bone<br>rookie<br>fiscal |  
-| bip_39_word_new_br8 | orbit<br>copper<br>iron<br>label<br>bone<br>rookie<br>fiscal<br>clump |  
-| bip_39_word_new_br9 | orbit<br>copper<br>iron<br>label<br>bone<br>rookie<br>fiscal<br>clump<br>impact |  
-| bip_39_word_new_line1 | orbit |  
-| bip_39_word_new_line10 | orbit
+| bip_39_word_new_br_1 | orbit |  
+| bip_39_word_new_br_10 | orbit<br>copper<br>iron<br>label<br>bone<br>rookie<br>fiscal<br>clump<br>impact<br>popular |  
+| bip_39_word_new_br_11 | orbit<br>copper<br>iron<br>label<br>bone<br>rookie<br>fiscal<br>clump<br>impact<br>popular<br>either |  
+| bip_39_word_new_br_12 | orbit<br>copper<br>iron<br>label<br>bone<br>rookie<br>fiscal<br>clump<br>impact<br>popular<br>either<br>absorb |  
+| bip_39_word_new_br_2 | orbit<br>copper |  
+| bip_39_word_new_br_3 | orbit<br>copper<br>iron |  
+| bip_39_word_new_br_4 | orbit<br>copper<br>iron<br>label |  
+| bip_39_word_new_br_5 | orbit<br>copper<br>iron<br>label<br>bone |  
+| bip_39_word_new_br_6 | orbit<br>copper<br>iron<br>label<br>bone<br>rookie |  
+| bip_39_word_new_br_7 | orbit<br>copper<br>iron<br>label<br>bone<br>rookie<br>fiscal |  
+| bip_39_word_new_br_8 | orbit<br>copper<br>iron<br>label<br>bone<br>rookie<br>fiscal<br>clump |  
+| bip_39_word_new_br_9 | orbit<br>copper<br>iron<br>label<br>bone<br>rookie<br>fiscal<br>clump<br>impact |  
+| bip_39_word_new_line_1 | orbit |  
+| bip_39_word_new_line_10 | orbit
 copper
 iron
 label
@@ -55,7 +55,7 @@ fiscal
 clump
 impact
 popular |  
-| bip_39_word_new_line11 | orbit
+| bip_39_word_new_line_11 | orbit
 copper
 iron
 label
@@ -66,7 +66,7 @@ clump
 impact
 popular
 either |  
-| bip_39_word_new_line12 | orbit
+| bip_39_word_new_line_12 | orbit
 copper
 iron
 label
@@ -78,34 +78,34 @@ impact
 popular
 either
 absorb |  
-| bip_39_word_new_line2 | orbit
+| bip_39_word_new_line_2 | orbit
 copper |  
-| bip_39_word_new_line3 | orbit
+| bip_39_word_new_line_3 | orbit
 copper
 iron |  
-| bip_39_word_new_line4 | orbit
+| bip_39_word_new_line_4 | orbit
 copper
 iron
 label |  
-| bip_39_word_new_line5 | orbit
+| bip_39_word_new_line_5 | orbit
 copper
 iron
 label
 bone |  
-| bip_39_word_new_line6 | orbit
+| bip_39_word_new_line_6 | orbit
 copper
 iron
 label
 bone
 rookie |  
-| bip_39_word_new_line7 | orbit
+| bip_39_word_new_line_7 | orbit
 copper
 iron
 label
 bone
 rookie
 fiscal |  
-| bip_39_word_new_line8 | orbit
+| bip_39_word_new_line_8 | orbit
 copper
 iron
 label
@@ -113,7 +113,7 @@ bone
 rookie
 fiscal
 clump |  
-| bip_39_word_new_line9 | orbit
+| bip_39_word_new_line_9 | orbit
 copper
 iron
 label

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | security |  
-| bip_39_word_new_br10 | security<br>bus<br>crush<br>shell<br>route<br>spawn<br>glass<br>speak<br>main<br>pass |  
-| bip_39_word_new_br11 | security<br>bus<br>crush<br>shell<br>route<br>spawn<br>glass<br>speak<br>main<br>pass<br>couch |  
-| bip_39_word_new_br12 | security<br>bus<br>crush<br>shell<br>route<br>spawn<br>glass<br>speak<br>main<br>pass<br>couch<br>alert |  
-| bip_39_word_new_br2 | security<br>bus |  
-| bip_39_word_new_br3 | security<br>bus<br>crush |  
-| bip_39_word_new_br4 | security<br>bus<br>crush<br>shell |  
-| bip_39_word_new_br5 | security<br>bus<br>crush<br>shell<br>route |  
-| bip_39_word_new_br6 | security<br>bus<br>crush<br>shell<br>route<br>spawn |  
-| bip_39_word_new_br7 | security<br>bus<br>crush<br>shell<br>route<br>spawn<br>glass |  
-| bip_39_word_new_br8 | security<br>bus<br>crush<br>shell<br>route<br>spawn<br>glass<br>speak |  
-| bip_39_word_new_br9 | security<br>bus<br>crush<br>shell<br>route<br>spawn<br>glass<br>speak<br>main |  
-| bip_39_word_new_line1 | security |  
-| bip_39_word_new_line10 | security
+| bip_39_word_new_br_1 | security |  
+| bip_39_word_new_br_10 | security<br>bus<br>crush<br>shell<br>route<br>spawn<br>glass<br>speak<br>main<br>pass |  
+| bip_39_word_new_br_11 | security<br>bus<br>crush<br>shell<br>route<br>spawn<br>glass<br>speak<br>main<br>pass<br>couch |  
+| bip_39_word_new_br_12 | security<br>bus<br>crush<br>shell<br>route<br>spawn<br>glass<br>speak<br>main<br>pass<br>couch<br>alert |  
+| bip_39_word_new_br_2 | security<br>bus |  
+| bip_39_word_new_br_3 | security<br>bus<br>crush |  
+| bip_39_word_new_br_4 | security<br>bus<br>crush<br>shell |  
+| bip_39_word_new_br_5 | security<br>bus<br>crush<br>shell<br>route |  
+| bip_39_word_new_br_6 | security<br>bus<br>crush<br>shell<br>route<br>spawn |  
+| bip_39_word_new_br_7 | security<br>bus<br>crush<br>shell<br>route<br>spawn<br>glass |  
+| bip_39_word_new_br_8 | security<br>bus<br>crush<br>shell<br>route<br>spawn<br>glass<br>speak |  
+| bip_39_word_new_br_9 | security<br>bus<br>crush<br>shell<br>route<br>spawn<br>glass<br>speak<br>main |  
+| bip_39_word_new_line_1 | security |  
+| bip_39_word_new_line_10 | security
 bus
 crush
 shell
@@ -55,7 +55,7 @@ glass
 speak
 main
 pass |  
-| bip_39_word_new_line11 | security
+| bip_39_word_new_line_11 | security
 bus
 crush
 shell
@@ -66,7 +66,7 @@ speak
 main
 pass
 couch |  
-| bip_39_word_new_line12 | security
+| bip_39_word_new_line_12 | security
 bus
 crush
 shell
@@ -78,34 +78,34 @@ main
 pass
 couch
 alert |  
-| bip_39_word_new_line2 | security
+| bip_39_word_new_line_2 | security
 bus |  
-| bip_39_word_new_line3 | security
+| bip_39_word_new_line_3 | security
 bus
 crush |  
-| bip_39_word_new_line4 | security
+| bip_39_word_new_line_4 | security
 bus
 crush
 shell |  
-| bip_39_word_new_line5 | security
+| bip_39_word_new_line_5 | security
 bus
 crush
 shell
 route |  
-| bip_39_word_new_line6 | security
+| bip_39_word_new_line_6 | security
 bus
 crush
 shell
 route
 spawn |  
-| bip_39_word_new_line7 | security
+| bip_39_word_new_line_7 | security
 bus
 crush
 shell
 route
 spawn
 glass |  
-| bip_39_word_new_line8 | security
+| bip_39_word_new_line_8 | security
 bus
 crush
 shell
@@ -113,7 +113,7 @@ route
 spawn
 glass
 speak |  
-| bip_39_word_new_line9 | security
+| bip_39_word_new_line_9 | security
 bus
 crush
 shell

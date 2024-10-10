@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | usual |  
-| bip_39_word_new_br10 | usual<br>ladder<br>wreck<br>coconut<br>whisper<br>grow<br>tide<br>loop<br>else<br>fly |  
-| bip_39_word_new_br11 | usual<br>ladder<br>wreck<br>coconut<br>whisper<br>grow<br>tide<br>loop<br>else<br>fly<br>danger |  
-| bip_39_word_new_br12 | usual<br>ladder<br>wreck<br>coconut<br>whisper<br>grow<br>tide<br>loop<br>else<br>fly<br>danger<br>adult |  
-| bip_39_word_new_br2 | usual<br>ladder |  
-| bip_39_word_new_br3 | usual<br>ladder<br>wreck |  
-| bip_39_word_new_br4 | usual<br>ladder<br>wreck<br>coconut |  
-| bip_39_word_new_br5 | usual<br>ladder<br>wreck<br>coconut<br>whisper |  
-| bip_39_word_new_br6 | usual<br>ladder<br>wreck<br>coconut<br>whisper<br>grow |  
-| bip_39_word_new_br7 | usual<br>ladder<br>wreck<br>coconut<br>whisper<br>grow<br>tide |  
-| bip_39_word_new_br8 | usual<br>ladder<br>wreck<br>coconut<br>whisper<br>grow<br>tide<br>loop |  
-| bip_39_word_new_br9 | usual<br>ladder<br>wreck<br>coconut<br>whisper<br>grow<br>tide<br>loop<br>else |  
-| bip_39_word_new_line1 | usual |  
-| bip_39_word_new_line10 | usual
+| bip_39_word_new_br_1 | usual |  
+| bip_39_word_new_br_10 | usual<br>ladder<br>wreck<br>coconut<br>whisper<br>grow<br>tide<br>loop<br>else<br>fly |  
+| bip_39_word_new_br_11 | usual<br>ladder<br>wreck<br>coconut<br>whisper<br>grow<br>tide<br>loop<br>else<br>fly<br>danger |  
+| bip_39_word_new_br_12 | usual<br>ladder<br>wreck<br>coconut<br>whisper<br>grow<br>tide<br>loop<br>else<br>fly<br>danger<br>adult |  
+| bip_39_word_new_br_2 | usual<br>ladder |  
+| bip_39_word_new_br_3 | usual<br>ladder<br>wreck |  
+| bip_39_word_new_br_4 | usual<br>ladder<br>wreck<br>coconut |  
+| bip_39_word_new_br_5 | usual<br>ladder<br>wreck<br>coconut<br>whisper |  
+| bip_39_word_new_br_6 | usual<br>ladder<br>wreck<br>coconut<br>whisper<br>grow |  
+| bip_39_word_new_br_7 | usual<br>ladder<br>wreck<br>coconut<br>whisper<br>grow<br>tide |  
+| bip_39_word_new_br_8 | usual<br>ladder<br>wreck<br>coconut<br>whisper<br>grow<br>tide<br>loop |  
+| bip_39_word_new_br_9 | usual<br>ladder<br>wreck<br>coconut<br>whisper<br>grow<br>tide<br>loop<br>else |  
+| bip_39_word_new_line_1 | usual |  
+| bip_39_word_new_line_10 | usual
 ladder
 wreck
 coconut
@@ -55,7 +55,7 @@ tide
 loop
 else
 fly |  
-| bip_39_word_new_line11 | usual
+| bip_39_word_new_line_11 | usual
 ladder
 wreck
 coconut
@@ -66,7 +66,7 @@ loop
 else
 fly
 danger |  
-| bip_39_word_new_line12 | usual
+| bip_39_word_new_line_12 | usual
 ladder
 wreck
 coconut
@@ -78,34 +78,34 @@ else
 fly
 danger
 adult |  
-| bip_39_word_new_line2 | usual
+| bip_39_word_new_line_2 | usual
 ladder |  
-| bip_39_word_new_line3 | usual
+| bip_39_word_new_line_3 | usual
 ladder
 wreck |  
-| bip_39_word_new_line4 | usual
+| bip_39_word_new_line_4 | usual
 ladder
 wreck
 coconut |  
-| bip_39_word_new_line5 | usual
+| bip_39_word_new_line_5 | usual
 ladder
 wreck
 coconut
 whisper |  
-| bip_39_word_new_line6 | usual
+| bip_39_word_new_line_6 | usual
 ladder
 wreck
 coconut
 whisper
 grow |  
-| bip_39_word_new_line7 | usual
+| bip_39_word_new_line_7 | usual
 ladder
 wreck
 coconut
 whisper
 grow
 tide |  
-| bip_39_word_new_line8 | usual
+| bip_39_word_new_line_8 | usual
 ladder
 wreck
 coconut
@@ -113,7 +113,7 @@ whisper
 grow
 tide
 loop |  
-| bip_39_word_new_line9 | usual
+| bip_39_word_new_line_9 | usual
 ladder
 wreck
 coconut

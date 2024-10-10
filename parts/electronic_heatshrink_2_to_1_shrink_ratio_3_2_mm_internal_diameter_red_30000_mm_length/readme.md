@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | misery |  
-| bip_39_word_new_br10 | misery<br>inject<br>total<br>anchor<br>stumble<br>wait<br>mixture<br>donkey<br>luggage<br>holiday |  
-| bip_39_word_new_br11 | misery<br>inject<br>total<br>anchor<br>stumble<br>wait<br>mixture<br>donkey<br>luggage<br>holiday<br>cattle |  
-| bip_39_word_new_br12 | misery<br>inject<br>total<br>anchor<br>stumble<br>wait<br>mixture<br>donkey<br>luggage<br>holiday<br>cattle<br>again |  
-| bip_39_word_new_br2 | misery<br>inject |  
-| bip_39_word_new_br3 | misery<br>inject<br>total |  
-| bip_39_word_new_br4 | misery<br>inject<br>total<br>anchor |  
-| bip_39_word_new_br5 | misery<br>inject<br>total<br>anchor<br>stumble |  
-| bip_39_word_new_br6 | misery<br>inject<br>total<br>anchor<br>stumble<br>wait |  
-| bip_39_word_new_br7 | misery<br>inject<br>total<br>anchor<br>stumble<br>wait<br>mixture |  
-| bip_39_word_new_br8 | misery<br>inject<br>total<br>anchor<br>stumble<br>wait<br>mixture<br>donkey |  
-| bip_39_word_new_br9 | misery<br>inject<br>total<br>anchor<br>stumble<br>wait<br>mixture<br>donkey<br>luggage |  
-| bip_39_word_new_line1 | misery |  
-| bip_39_word_new_line10 | misery
+| bip_39_word_new_br_1 | misery |  
+| bip_39_word_new_br_10 | misery<br>inject<br>total<br>anchor<br>stumble<br>wait<br>mixture<br>donkey<br>luggage<br>holiday |  
+| bip_39_word_new_br_11 | misery<br>inject<br>total<br>anchor<br>stumble<br>wait<br>mixture<br>donkey<br>luggage<br>holiday<br>cattle |  
+| bip_39_word_new_br_12 | misery<br>inject<br>total<br>anchor<br>stumble<br>wait<br>mixture<br>donkey<br>luggage<br>holiday<br>cattle<br>again |  
+| bip_39_word_new_br_2 | misery<br>inject |  
+| bip_39_word_new_br_3 | misery<br>inject<br>total |  
+| bip_39_word_new_br_4 | misery<br>inject<br>total<br>anchor |  
+| bip_39_word_new_br_5 | misery<br>inject<br>total<br>anchor<br>stumble |  
+| bip_39_word_new_br_6 | misery<br>inject<br>total<br>anchor<br>stumble<br>wait |  
+| bip_39_word_new_br_7 | misery<br>inject<br>total<br>anchor<br>stumble<br>wait<br>mixture |  
+| bip_39_word_new_br_8 | misery<br>inject<br>total<br>anchor<br>stumble<br>wait<br>mixture<br>donkey |  
+| bip_39_word_new_br_9 | misery<br>inject<br>total<br>anchor<br>stumble<br>wait<br>mixture<br>donkey<br>luggage |  
+| bip_39_word_new_line_1 | misery |  
+| bip_39_word_new_line_10 | misery
 inject
 total
 anchor
@@ -55,7 +55,7 @@ mixture
 donkey
 luggage
 holiday |  
-| bip_39_word_new_line11 | misery
+| bip_39_word_new_line_11 | misery
 inject
 total
 anchor
@@ -66,7 +66,7 @@ donkey
 luggage
 holiday
 cattle |  
-| bip_39_word_new_line12 | misery
+| bip_39_word_new_line_12 | misery
 inject
 total
 anchor
@@ -78,34 +78,34 @@ luggage
 holiday
 cattle
 again |  
-| bip_39_word_new_line2 | misery
+| bip_39_word_new_line_2 | misery
 inject |  
-| bip_39_word_new_line3 | misery
+| bip_39_word_new_line_3 | misery
 inject
 total |  
-| bip_39_word_new_line4 | misery
+| bip_39_word_new_line_4 | misery
 inject
 total
 anchor |  
-| bip_39_word_new_line5 | misery
+| bip_39_word_new_line_5 | misery
 inject
 total
 anchor
 stumble |  
-| bip_39_word_new_line6 | misery
+| bip_39_word_new_line_6 | misery
 inject
 total
 anchor
 stumble
 wait |  
-| bip_39_word_new_line7 | misery
+| bip_39_word_new_line_7 | misery
 inject
 total
 anchor
 stumble
 wait
 mixture |  
-| bip_39_word_new_line8 | misery
+| bip_39_word_new_line_8 | misery
 inject
 total
 anchor
@@ -113,7 +113,7 @@ stumble
 wait
 mixture
 donkey |  
-| bip_39_word_new_line9 | misery
+| bip_39_word_new_line_9 | misery
 inject
 total
 anchor

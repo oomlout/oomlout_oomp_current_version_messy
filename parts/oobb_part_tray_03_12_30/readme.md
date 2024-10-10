@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | copper |  
-| bip_39_word_new_br10 | copper<br>dance<br>team<br>auto<br>climb<br>nice<br>lucky<br>october<br>nose<br>country |  
-| bip_39_word_new_br11 | copper<br>dance<br>team<br>auto<br>climb<br>nice<br>lucky<br>october<br>nose<br>country<br>urge |  
-| bip_39_word_new_br12 | copper<br>dance<br>team<br>auto<br>climb<br>nice<br>lucky<br>october<br>nose<br>country<br>urge<br>alert |  
-| bip_39_word_new_br2 | copper<br>dance |  
-| bip_39_word_new_br3 | copper<br>dance<br>team |  
-| bip_39_word_new_br4 | copper<br>dance<br>team<br>auto |  
-| bip_39_word_new_br5 | copper<br>dance<br>team<br>auto<br>climb |  
-| bip_39_word_new_br6 | copper<br>dance<br>team<br>auto<br>climb<br>nice |  
-| bip_39_word_new_br7 | copper<br>dance<br>team<br>auto<br>climb<br>nice<br>lucky |  
-| bip_39_word_new_br8 | copper<br>dance<br>team<br>auto<br>climb<br>nice<br>lucky<br>october |  
-| bip_39_word_new_br9 | copper<br>dance<br>team<br>auto<br>climb<br>nice<br>lucky<br>october<br>nose |  
-| bip_39_word_new_line1 | copper |  
-| bip_39_word_new_line10 | copper
+| bip_39_word_new_br_1 | copper |  
+| bip_39_word_new_br_10 | copper<br>dance<br>team<br>auto<br>climb<br>nice<br>lucky<br>october<br>nose<br>country |  
+| bip_39_word_new_br_11 | copper<br>dance<br>team<br>auto<br>climb<br>nice<br>lucky<br>october<br>nose<br>country<br>urge |  
+| bip_39_word_new_br_12 | copper<br>dance<br>team<br>auto<br>climb<br>nice<br>lucky<br>october<br>nose<br>country<br>urge<br>alert |  
+| bip_39_word_new_br_2 | copper<br>dance |  
+| bip_39_word_new_br_3 | copper<br>dance<br>team |  
+| bip_39_word_new_br_4 | copper<br>dance<br>team<br>auto |  
+| bip_39_word_new_br_5 | copper<br>dance<br>team<br>auto<br>climb |  
+| bip_39_word_new_br_6 | copper<br>dance<br>team<br>auto<br>climb<br>nice |  
+| bip_39_word_new_br_7 | copper<br>dance<br>team<br>auto<br>climb<br>nice<br>lucky |  
+| bip_39_word_new_br_8 | copper<br>dance<br>team<br>auto<br>climb<br>nice<br>lucky<br>october |  
+| bip_39_word_new_br_9 | copper<br>dance<br>team<br>auto<br>climb<br>nice<br>lucky<br>october<br>nose |  
+| bip_39_word_new_line_1 | copper |  
+| bip_39_word_new_line_10 | copper
 dance
 team
 auto
@@ -55,7 +55,7 @@ lucky
 october
 nose
 country |  
-| bip_39_word_new_line11 | copper
+| bip_39_word_new_line_11 | copper
 dance
 team
 auto
@@ -66,7 +66,7 @@ october
 nose
 country
 urge |  
-| bip_39_word_new_line12 | copper
+| bip_39_word_new_line_12 | copper
 dance
 team
 auto
@@ -78,34 +78,34 @@ nose
 country
 urge
 alert |  
-| bip_39_word_new_line2 | copper
+| bip_39_word_new_line_2 | copper
 dance |  
-| bip_39_word_new_line3 | copper
+| bip_39_word_new_line_3 | copper
 dance
 team |  
-| bip_39_word_new_line4 | copper
+| bip_39_word_new_line_4 | copper
 dance
 team
 auto |  
-| bip_39_word_new_line5 | copper
+| bip_39_word_new_line_5 | copper
 dance
 team
 auto
 climb |  
-| bip_39_word_new_line6 | copper
+| bip_39_word_new_line_6 | copper
 dance
 team
 auto
 climb
 nice |  
-| bip_39_word_new_line7 | copper
+| bip_39_word_new_line_7 | copper
 dance
 team
 auto
 climb
 nice
 lucky |  
-| bip_39_word_new_line8 | copper
+| bip_39_word_new_line_8 | copper
 dance
 team
 auto
@@ -113,7 +113,7 @@ climb
 nice
 lucky
 october |  
-| bip_39_word_new_line9 | copper
+| bip_39_word_new_line_9 | copper
 dance
 team
 auto

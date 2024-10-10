@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mother |  
-| bip_39_word_new_br10 | mother<br>pear<br>whale<br>prefer<br>amount<br>vote<br>now<br>frog<br>doctor<br>web |  
-| bip_39_word_new_br11 | mother<br>pear<br>whale<br>prefer<br>amount<br>vote<br>now<br>frog<br>doctor<br>web<br>measure |  
-| bip_39_word_new_br12 | mother<br>pear<br>whale<br>prefer<br>amount<br>vote<br>now<br>frog<br>doctor<br>web<br>measure<br>among |  
-| bip_39_word_new_br2 | mother<br>pear |  
-| bip_39_word_new_br3 | mother<br>pear<br>whale |  
-| bip_39_word_new_br4 | mother<br>pear<br>whale<br>prefer |  
-| bip_39_word_new_br5 | mother<br>pear<br>whale<br>prefer<br>amount |  
-| bip_39_word_new_br6 | mother<br>pear<br>whale<br>prefer<br>amount<br>vote |  
-| bip_39_word_new_br7 | mother<br>pear<br>whale<br>prefer<br>amount<br>vote<br>now |  
-| bip_39_word_new_br8 | mother<br>pear<br>whale<br>prefer<br>amount<br>vote<br>now<br>frog |  
-| bip_39_word_new_br9 | mother<br>pear<br>whale<br>prefer<br>amount<br>vote<br>now<br>frog<br>doctor |  
-| bip_39_word_new_line1 | mother |  
-| bip_39_word_new_line10 | mother
+| bip_39_word_new_br_1 | mother |  
+| bip_39_word_new_br_10 | mother<br>pear<br>whale<br>prefer<br>amount<br>vote<br>now<br>frog<br>doctor<br>web |  
+| bip_39_word_new_br_11 | mother<br>pear<br>whale<br>prefer<br>amount<br>vote<br>now<br>frog<br>doctor<br>web<br>measure |  
+| bip_39_word_new_br_12 | mother<br>pear<br>whale<br>prefer<br>amount<br>vote<br>now<br>frog<br>doctor<br>web<br>measure<br>among |  
+| bip_39_word_new_br_2 | mother<br>pear |  
+| bip_39_word_new_br_3 | mother<br>pear<br>whale |  
+| bip_39_word_new_br_4 | mother<br>pear<br>whale<br>prefer |  
+| bip_39_word_new_br_5 | mother<br>pear<br>whale<br>prefer<br>amount |  
+| bip_39_word_new_br_6 | mother<br>pear<br>whale<br>prefer<br>amount<br>vote |  
+| bip_39_word_new_br_7 | mother<br>pear<br>whale<br>prefer<br>amount<br>vote<br>now |  
+| bip_39_word_new_br_8 | mother<br>pear<br>whale<br>prefer<br>amount<br>vote<br>now<br>frog |  
+| bip_39_word_new_br_9 | mother<br>pear<br>whale<br>prefer<br>amount<br>vote<br>now<br>frog<br>doctor |  
+| bip_39_word_new_line_1 | mother |  
+| bip_39_word_new_line_10 | mother
 pear
 whale
 prefer
@@ -55,7 +55,7 @@ now
 frog
 doctor
 web |  
-| bip_39_word_new_line11 | mother
+| bip_39_word_new_line_11 | mother
 pear
 whale
 prefer
@@ -66,7 +66,7 @@ frog
 doctor
 web
 measure |  
-| bip_39_word_new_line12 | mother
+| bip_39_word_new_line_12 | mother
 pear
 whale
 prefer
@@ -78,34 +78,34 @@ doctor
 web
 measure
 among |  
-| bip_39_word_new_line2 | mother
+| bip_39_word_new_line_2 | mother
 pear |  
-| bip_39_word_new_line3 | mother
+| bip_39_word_new_line_3 | mother
 pear
 whale |  
-| bip_39_word_new_line4 | mother
+| bip_39_word_new_line_4 | mother
 pear
 whale
 prefer |  
-| bip_39_word_new_line5 | mother
+| bip_39_word_new_line_5 | mother
 pear
 whale
 prefer
 amount |  
-| bip_39_word_new_line6 | mother
+| bip_39_word_new_line_6 | mother
 pear
 whale
 prefer
 amount
 vote |  
-| bip_39_word_new_line7 | mother
+| bip_39_word_new_line_7 | mother
 pear
 whale
 prefer
 amount
 vote
 now |  
-| bip_39_word_new_line8 | mother
+| bip_39_word_new_line_8 | mother
 pear
 whale
 prefer
@@ -113,7 +113,7 @@ amount
 vote
 now
 frog |  
-| bip_39_word_new_line9 | mother
+| bip_39_word_new_line_9 | mother
 pear
 whale
 prefer

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | monitor |  
-| bip_39_word_new_br10 | monitor<br>quote<br>cabin<br>robust<br>fence<br>paddle<br>kite<br>bread<br>lemon<br>goddess |  
-| bip_39_word_new_br11 | monitor<br>quote<br>cabin<br>robust<br>fence<br>paddle<br>kite<br>bread<br>lemon<br>goddess<br>bless |  
-| bip_39_word_new_br12 | monitor<br>quote<br>cabin<br>robust<br>fence<br>paddle<br>kite<br>bread<br>lemon<br>goddess<br>bless<br>apple |  
-| bip_39_word_new_br2 | monitor<br>quote |  
-| bip_39_word_new_br3 | monitor<br>quote<br>cabin |  
-| bip_39_word_new_br4 | monitor<br>quote<br>cabin<br>robust |  
-| bip_39_word_new_br5 | monitor<br>quote<br>cabin<br>robust<br>fence |  
-| bip_39_word_new_br6 | monitor<br>quote<br>cabin<br>robust<br>fence<br>paddle |  
-| bip_39_word_new_br7 | monitor<br>quote<br>cabin<br>robust<br>fence<br>paddle<br>kite |  
-| bip_39_word_new_br8 | monitor<br>quote<br>cabin<br>robust<br>fence<br>paddle<br>kite<br>bread |  
-| bip_39_word_new_br9 | monitor<br>quote<br>cabin<br>robust<br>fence<br>paddle<br>kite<br>bread<br>lemon |  
-| bip_39_word_new_line1 | monitor |  
-| bip_39_word_new_line10 | monitor
+| bip_39_word_new_br_1 | monitor |  
+| bip_39_word_new_br_10 | monitor<br>quote<br>cabin<br>robust<br>fence<br>paddle<br>kite<br>bread<br>lemon<br>goddess |  
+| bip_39_word_new_br_11 | monitor<br>quote<br>cabin<br>robust<br>fence<br>paddle<br>kite<br>bread<br>lemon<br>goddess<br>bless |  
+| bip_39_word_new_br_12 | monitor<br>quote<br>cabin<br>robust<br>fence<br>paddle<br>kite<br>bread<br>lemon<br>goddess<br>bless<br>apple |  
+| bip_39_word_new_br_2 | monitor<br>quote |  
+| bip_39_word_new_br_3 | monitor<br>quote<br>cabin |  
+| bip_39_word_new_br_4 | monitor<br>quote<br>cabin<br>robust |  
+| bip_39_word_new_br_5 | monitor<br>quote<br>cabin<br>robust<br>fence |  
+| bip_39_word_new_br_6 | monitor<br>quote<br>cabin<br>robust<br>fence<br>paddle |  
+| bip_39_word_new_br_7 | monitor<br>quote<br>cabin<br>robust<br>fence<br>paddle<br>kite |  
+| bip_39_word_new_br_8 | monitor<br>quote<br>cabin<br>robust<br>fence<br>paddle<br>kite<br>bread |  
+| bip_39_word_new_br_9 | monitor<br>quote<br>cabin<br>robust<br>fence<br>paddle<br>kite<br>bread<br>lemon |  
+| bip_39_word_new_line_1 | monitor |  
+| bip_39_word_new_line_10 | monitor
 quote
 cabin
 robust
@@ -55,7 +55,7 @@ kite
 bread
 lemon
 goddess |  
-| bip_39_word_new_line11 | monitor
+| bip_39_word_new_line_11 | monitor
 quote
 cabin
 robust
@@ -66,7 +66,7 @@ bread
 lemon
 goddess
 bless |  
-| bip_39_word_new_line12 | monitor
+| bip_39_word_new_line_12 | monitor
 quote
 cabin
 robust
@@ -78,34 +78,34 @@ lemon
 goddess
 bless
 apple |  
-| bip_39_word_new_line2 | monitor
+| bip_39_word_new_line_2 | monitor
 quote |  
-| bip_39_word_new_line3 | monitor
+| bip_39_word_new_line_3 | monitor
 quote
 cabin |  
-| bip_39_word_new_line4 | monitor
+| bip_39_word_new_line_4 | monitor
 quote
 cabin
 robust |  
-| bip_39_word_new_line5 | monitor
+| bip_39_word_new_line_5 | monitor
 quote
 cabin
 robust
 fence |  
-| bip_39_word_new_line6 | monitor
+| bip_39_word_new_line_6 | monitor
 quote
 cabin
 robust
 fence
 paddle |  
-| bip_39_word_new_line7 | monitor
+| bip_39_word_new_line_7 | monitor
 quote
 cabin
 robust
 fence
 paddle
 kite |  
-| bip_39_word_new_line8 | monitor
+| bip_39_word_new_line_8 | monitor
 quote
 cabin
 robust
@@ -113,7 +113,7 @@ fence
 paddle
 kite
 bread |  
-| bip_39_word_new_line9 | monitor
+| bip_39_word_new_line_9 | monitor
 quote
 cabin
 robust

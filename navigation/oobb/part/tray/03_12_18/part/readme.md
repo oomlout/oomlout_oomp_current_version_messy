@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | erase |  
-| bip_39_word_new_br10 | erase<br>wish<br>inherit<br>science<br>screen<br>sense<br>team<br>pulp<br>solid<br>caught |  
-| bip_39_word_new_br11 | erase<br>wish<br>inherit<br>science<br>screen<br>sense<br>team<br>pulp<br>solid<br>caught<br>math |  
-| bip_39_word_new_br12 | erase<br>wish<br>inherit<br>science<br>screen<br>sense<br>team<br>pulp<br>solid<br>caught<br>math<br>afford |  
-| bip_39_word_new_br2 | erase<br>wish |  
-| bip_39_word_new_br3 | erase<br>wish<br>inherit |  
-| bip_39_word_new_br4 | erase<br>wish<br>inherit<br>science |  
-| bip_39_word_new_br5 | erase<br>wish<br>inherit<br>science<br>screen |  
-| bip_39_word_new_br6 | erase<br>wish<br>inherit<br>science<br>screen<br>sense |  
-| bip_39_word_new_br7 | erase<br>wish<br>inherit<br>science<br>screen<br>sense<br>team |  
-| bip_39_word_new_br8 | erase<br>wish<br>inherit<br>science<br>screen<br>sense<br>team<br>pulp |  
-| bip_39_word_new_br9 | erase<br>wish<br>inherit<br>science<br>screen<br>sense<br>team<br>pulp<br>solid |  
-| bip_39_word_new_line1 | erase |  
-| bip_39_word_new_line10 | erase
+| bip_39_word_new_br_1 | erase |  
+| bip_39_word_new_br_10 | erase<br>wish<br>inherit<br>science<br>screen<br>sense<br>team<br>pulp<br>solid<br>caught |  
+| bip_39_word_new_br_11 | erase<br>wish<br>inherit<br>science<br>screen<br>sense<br>team<br>pulp<br>solid<br>caught<br>math |  
+| bip_39_word_new_br_12 | erase<br>wish<br>inherit<br>science<br>screen<br>sense<br>team<br>pulp<br>solid<br>caught<br>math<br>afford |  
+| bip_39_word_new_br_2 | erase<br>wish |  
+| bip_39_word_new_br_3 | erase<br>wish<br>inherit |  
+| bip_39_word_new_br_4 | erase<br>wish<br>inherit<br>science |  
+| bip_39_word_new_br_5 | erase<br>wish<br>inherit<br>science<br>screen |  
+| bip_39_word_new_br_6 | erase<br>wish<br>inherit<br>science<br>screen<br>sense |  
+| bip_39_word_new_br_7 | erase<br>wish<br>inherit<br>science<br>screen<br>sense<br>team |  
+| bip_39_word_new_br_8 | erase<br>wish<br>inherit<br>science<br>screen<br>sense<br>team<br>pulp |  
+| bip_39_word_new_br_9 | erase<br>wish<br>inherit<br>science<br>screen<br>sense<br>team<br>pulp<br>solid |  
+| bip_39_word_new_line_1 | erase |  
+| bip_39_word_new_line_10 | erase
 wish
 inherit
 science
@@ -55,7 +55,7 @@ team
 pulp
 solid
 caught |  
-| bip_39_word_new_line11 | erase
+| bip_39_word_new_line_11 | erase
 wish
 inherit
 science
@@ -66,7 +66,7 @@ pulp
 solid
 caught
 math |  
-| bip_39_word_new_line12 | erase
+| bip_39_word_new_line_12 | erase
 wish
 inherit
 science
@@ -78,34 +78,34 @@ solid
 caught
 math
 afford |  
-| bip_39_word_new_line2 | erase
+| bip_39_word_new_line_2 | erase
 wish |  
-| bip_39_word_new_line3 | erase
+| bip_39_word_new_line_3 | erase
 wish
 inherit |  
-| bip_39_word_new_line4 | erase
+| bip_39_word_new_line_4 | erase
 wish
 inherit
 science |  
-| bip_39_word_new_line5 | erase
+| bip_39_word_new_line_5 | erase
 wish
 inherit
 science
 screen |  
-| bip_39_word_new_line6 | erase
+| bip_39_word_new_line_6 | erase
 wish
 inherit
 science
 screen
 sense |  
-| bip_39_word_new_line7 | erase
+| bip_39_word_new_line_7 | erase
 wish
 inherit
 science
 screen
 sense
 team |  
-| bip_39_word_new_line8 | erase
+| bip_39_word_new_line_8 | erase
 wish
 inherit
 science
@@ -113,7 +113,7 @@ screen
 sense
 team
 pulp |  
-| bip_39_word_new_line9 | erase
+| bip_39_word_new_line_9 | erase
 wish
 inherit
 science

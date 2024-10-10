@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | reveal |  
-| bip_39_word_new_br10 | reveal<br>note<br>almost<br>employ<br>today<br>web<br>bicycle<br>father<br>alert<br>develop |  
-| bip_39_word_new_br11 | reveal<br>note<br>almost<br>employ<br>today<br>web<br>bicycle<br>father<br>alert<br>develop<br>ship |  
-| bip_39_word_new_br12 | reveal<br>note<br>almost<br>employ<br>today<br>web<br>bicycle<br>father<br>alert<br>develop<br>ship<br>army |  
-| bip_39_word_new_br2 | reveal<br>note |  
-| bip_39_word_new_br3 | reveal<br>note<br>almost |  
-| bip_39_word_new_br4 | reveal<br>note<br>almost<br>employ |  
-| bip_39_word_new_br5 | reveal<br>note<br>almost<br>employ<br>today |  
-| bip_39_word_new_br6 | reveal<br>note<br>almost<br>employ<br>today<br>web |  
-| bip_39_word_new_br7 | reveal<br>note<br>almost<br>employ<br>today<br>web<br>bicycle |  
-| bip_39_word_new_br8 | reveal<br>note<br>almost<br>employ<br>today<br>web<br>bicycle<br>father |  
-| bip_39_word_new_br9 | reveal<br>note<br>almost<br>employ<br>today<br>web<br>bicycle<br>father<br>alert |  
-| bip_39_word_new_line1 | reveal |  
-| bip_39_word_new_line10 | reveal
+| bip_39_word_new_br_1 | reveal |  
+| bip_39_word_new_br_10 | reveal<br>note<br>almost<br>employ<br>today<br>web<br>bicycle<br>father<br>alert<br>develop |  
+| bip_39_word_new_br_11 | reveal<br>note<br>almost<br>employ<br>today<br>web<br>bicycle<br>father<br>alert<br>develop<br>ship |  
+| bip_39_word_new_br_12 | reveal<br>note<br>almost<br>employ<br>today<br>web<br>bicycle<br>father<br>alert<br>develop<br>ship<br>army |  
+| bip_39_word_new_br_2 | reveal<br>note |  
+| bip_39_word_new_br_3 | reveal<br>note<br>almost |  
+| bip_39_word_new_br_4 | reveal<br>note<br>almost<br>employ |  
+| bip_39_word_new_br_5 | reveal<br>note<br>almost<br>employ<br>today |  
+| bip_39_word_new_br_6 | reveal<br>note<br>almost<br>employ<br>today<br>web |  
+| bip_39_word_new_br_7 | reveal<br>note<br>almost<br>employ<br>today<br>web<br>bicycle |  
+| bip_39_word_new_br_8 | reveal<br>note<br>almost<br>employ<br>today<br>web<br>bicycle<br>father |  
+| bip_39_word_new_br_9 | reveal<br>note<br>almost<br>employ<br>today<br>web<br>bicycle<br>father<br>alert |  
+| bip_39_word_new_line_1 | reveal |  
+| bip_39_word_new_line_10 | reveal
 note
 almost
 employ
@@ -55,7 +55,7 @@ bicycle
 father
 alert
 develop |  
-| bip_39_word_new_line11 | reveal
+| bip_39_word_new_line_11 | reveal
 note
 almost
 employ
@@ -66,7 +66,7 @@ father
 alert
 develop
 ship |  
-| bip_39_word_new_line12 | reveal
+| bip_39_word_new_line_12 | reveal
 note
 almost
 employ
@@ -78,34 +78,34 @@ alert
 develop
 ship
 army |  
-| bip_39_word_new_line2 | reveal
+| bip_39_word_new_line_2 | reveal
 note |  
-| bip_39_word_new_line3 | reveal
+| bip_39_word_new_line_3 | reveal
 note
 almost |  
-| bip_39_word_new_line4 | reveal
+| bip_39_word_new_line_4 | reveal
 note
 almost
 employ |  
-| bip_39_word_new_line5 | reveal
+| bip_39_word_new_line_5 | reveal
 note
 almost
 employ
 today |  
-| bip_39_word_new_line6 | reveal
+| bip_39_word_new_line_6 | reveal
 note
 almost
 employ
 today
 web |  
-| bip_39_word_new_line7 | reveal
+| bip_39_word_new_line_7 | reveal
 note
 almost
 employ
 today
 web
 bicycle |  
-| bip_39_word_new_line8 | reveal
+| bip_39_word_new_line_8 | reveal
 note
 almost
 employ
@@ -113,7 +113,7 @@ today
 web
 bicycle
 father |  
-| bip_39_word_new_line9 | reveal
+| bip_39_word_new_line_9 | reveal
 note
 almost
 employ

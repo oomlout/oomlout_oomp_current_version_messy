@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | punch |  
-| bip_39_word_new_br10 | punch<br>kite<br>level<br>aware<br>setup<br>sentence<br>way<br>smart<br>believe<br>negative |  
-| bip_39_word_new_br11 | punch<br>kite<br>level<br>aware<br>setup<br>sentence<br>way<br>smart<br>believe<br>negative<br>yellow |  
-| bip_39_word_new_br12 | punch<br>kite<br>level<br>aware<br>setup<br>sentence<br>way<br>smart<br>believe<br>negative<br>yellow<br>atom |  
-| bip_39_word_new_br2 | punch<br>kite |  
-| bip_39_word_new_br3 | punch<br>kite<br>level |  
-| bip_39_word_new_br4 | punch<br>kite<br>level<br>aware |  
-| bip_39_word_new_br5 | punch<br>kite<br>level<br>aware<br>setup |  
-| bip_39_word_new_br6 | punch<br>kite<br>level<br>aware<br>setup<br>sentence |  
-| bip_39_word_new_br7 | punch<br>kite<br>level<br>aware<br>setup<br>sentence<br>way |  
-| bip_39_word_new_br8 | punch<br>kite<br>level<br>aware<br>setup<br>sentence<br>way<br>smart |  
-| bip_39_word_new_br9 | punch<br>kite<br>level<br>aware<br>setup<br>sentence<br>way<br>smart<br>believe |  
-| bip_39_word_new_line1 | punch |  
-| bip_39_word_new_line10 | punch
+| bip_39_word_new_br_1 | punch |  
+| bip_39_word_new_br_10 | punch<br>kite<br>level<br>aware<br>setup<br>sentence<br>way<br>smart<br>believe<br>negative |  
+| bip_39_word_new_br_11 | punch<br>kite<br>level<br>aware<br>setup<br>sentence<br>way<br>smart<br>believe<br>negative<br>yellow |  
+| bip_39_word_new_br_12 | punch<br>kite<br>level<br>aware<br>setup<br>sentence<br>way<br>smart<br>believe<br>negative<br>yellow<br>atom |  
+| bip_39_word_new_br_2 | punch<br>kite |  
+| bip_39_word_new_br_3 | punch<br>kite<br>level |  
+| bip_39_word_new_br_4 | punch<br>kite<br>level<br>aware |  
+| bip_39_word_new_br_5 | punch<br>kite<br>level<br>aware<br>setup |  
+| bip_39_word_new_br_6 | punch<br>kite<br>level<br>aware<br>setup<br>sentence |  
+| bip_39_word_new_br_7 | punch<br>kite<br>level<br>aware<br>setup<br>sentence<br>way |  
+| bip_39_word_new_br_8 | punch<br>kite<br>level<br>aware<br>setup<br>sentence<br>way<br>smart |  
+| bip_39_word_new_br_9 | punch<br>kite<br>level<br>aware<br>setup<br>sentence<br>way<br>smart<br>believe |  
+| bip_39_word_new_line_1 | punch |  
+| bip_39_word_new_line_10 | punch
 kite
 level
 aware
@@ -55,7 +55,7 @@ way
 smart
 believe
 negative |  
-| bip_39_word_new_line11 | punch
+| bip_39_word_new_line_11 | punch
 kite
 level
 aware
@@ -66,7 +66,7 @@ smart
 believe
 negative
 yellow |  
-| bip_39_word_new_line12 | punch
+| bip_39_word_new_line_12 | punch
 kite
 level
 aware
@@ -78,34 +78,34 @@ believe
 negative
 yellow
 atom |  
-| bip_39_word_new_line2 | punch
+| bip_39_word_new_line_2 | punch
 kite |  
-| bip_39_word_new_line3 | punch
+| bip_39_word_new_line_3 | punch
 kite
 level |  
-| bip_39_word_new_line4 | punch
+| bip_39_word_new_line_4 | punch
 kite
 level
 aware |  
-| bip_39_word_new_line5 | punch
+| bip_39_word_new_line_5 | punch
 kite
 level
 aware
 setup |  
-| bip_39_word_new_line6 | punch
+| bip_39_word_new_line_6 | punch
 kite
 level
 aware
 setup
 sentence |  
-| bip_39_word_new_line7 | punch
+| bip_39_word_new_line_7 | punch
 kite
 level
 aware
 setup
 sentence
 way |  
-| bip_39_word_new_line8 | punch
+| bip_39_word_new_line_8 | punch
 kite
 level
 aware
@@ -113,7 +113,7 @@ setup
 sentence
 way
 smart |  
-| bip_39_word_new_line9 | punch
+| bip_39_word_new_line_9 | punch
 kite
 level
 aware

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | toe |  
-| bip_39_word_new_br10 | toe<br>craft<br>corn<br>news<br>original<br>opinion<br>deposit<br>security<br>man<br>paddle |  
-| bip_39_word_new_br11 | toe<br>craft<br>corn<br>news<br>original<br>opinion<br>deposit<br>security<br>man<br>paddle<br>smile |  
-| bip_39_word_new_br12 | toe<br>craft<br>corn<br>news<br>original<br>opinion<br>deposit<br>security<br>man<br>paddle<br>smile<br>another |  
-| bip_39_word_new_br2 | toe<br>craft |  
-| bip_39_word_new_br3 | toe<br>craft<br>corn |  
-| bip_39_word_new_br4 | toe<br>craft<br>corn<br>news |  
-| bip_39_word_new_br5 | toe<br>craft<br>corn<br>news<br>original |  
-| bip_39_word_new_br6 | toe<br>craft<br>corn<br>news<br>original<br>opinion |  
-| bip_39_word_new_br7 | toe<br>craft<br>corn<br>news<br>original<br>opinion<br>deposit |  
-| bip_39_word_new_br8 | toe<br>craft<br>corn<br>news<br>original<br>opinion<br>deposit<br>security |  
-| bip_39_word_new_br9 | toe<br>craft<br>corn<br>news<br>original<br>opinion<br>deposit<br>security<br>man |  
-| bip_39_word_new_line1 | toe |  
-| bip_39_word_new_line10 | toe
+| bip_39_word_new_br_1 | toe |  
+| bip_39_word_new_br_10 | toe<br>craft<br>corn<br>news<br>original<br>opinion<br>deposit<br>security<br>man<br>paddle |  
+| bip_39_word_new_br_11 | toe<br>craft<br>corn<br>news<br>original<br>opinion<br>deposit<br>security<br>man<br>paddle<br>smile |  
+| bip_39_word_new_br_12 | toe<br>craft<br>corn<br>news<br>original<br>opinion<br>deposit<br>security<br>man<br>paddle<br>smile<br>another |  
+| bip_39_word_new_br_2 | toe<br>craft |  
+| bip_39_word_new_br_3 | toe<br>craft<br>corn |  
+| bip_39_word_new_br_4 | toe<br>craft<br>corn<br>news |  
+| bip_39_word_new_br_5 | toe<br>craft<br>corn<br>news<br>original |  
+| bip_39_word_new_br_6 | toe<br>craft<br>corn<br>news<br>original<br>opinion |  
+| bip_39_word_new_br_7 | toe<br>craft<br>corn<br>news<br>original<br>opinion<br>deposit |  
+| bip_39_word_new_br_8 | toe<br>craft<br>corn<br>news<br>original<br>opinion<br>deposit<br>security |  
+| bip_39_word_new_br_9 | toe<br>craft<br>corn<br>news<br>original<br>opinion<br>deposit<br>security<br>man |  
+| bip_39_word_new_line_1 | toe |  
+| bip_39_word_new_line_10 | toe
 craft
 corn
 news
@@ -55,7 +55,7 @@ deposit
 security
 man
 paddle |  
-| bip_39_word_new_line11 | toe
+| bip_39_word_new_line_11 | toe
 craft
 corn
 news
@@ -66,7 +66,7 @@ security
 man
 paddle
 smile |  
-| bip_39_word_new_line12 | toe
+| bip_39_word_new_line_12 | toe
 craft
 corn
 news
@@ -78,34 +78,34 @@ man
 paddle
 smile
 another |  
-| bip_39_word_new_line2 | toe
+| bip_39_word_new_line_2 | toe
 craft |  
-| bip_39_word_new_line3 | toe
+| bip_39_word_new_line_3 | toe
 craft
 corn |  
-| bip_39_word_new_line4 | toe
+| bip_39_word_new_line_4 | toe
 craft
 corn
 news |  
-| bip_39_word_new_line5 | toe
+| bip_39_word_new_line_5 | toe
 craft
 corn
 news
 original |  
-| bip_39_word_new_line6 | toe
+| bip_39_word_new_line_6 | toe
 craft
 corn
 news
 original
 opinion |  
-| bip_39_word_new_line7 | toe
+| bip_39_word_new_line_7 | toe
 craft
 corn
 news
 original
 opinion
 deposit |  
-| bip_39_word_new_line8 | toe
+| bip_39_word_new_line_8 | toe
 craft
 corn
 news
@@ -113,7 +113,7 @@ original
 opinion
 deposit
 security |  
-| bip_39_word_new_line9 | toe
+| bip_39_word_new_line_9 | toe
 craft
 corn
 news

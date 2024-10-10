@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | lake |  
-| bip_39_word_new_br10 | lake<br>track<br>found<br>hobby<br>talent<br>planet<br>casino<br>logic<br>stomach<br>unable |  
-| bip_39_word_new_br11 | lake<br>track<br>found<br>hobby<br>talent<br>planet<br>casino<br>logic<br>stomach<br>unable<br>brown |  
-| bip_39_word_new_br12 | lake<br>track<br>found<br>hobby<br>talent<br>planet<br>casino<br>logic<br>stomach<br>unable<br>brown<br>art |  
-| bip_39_word_new_br2 | lake<br>track |  
-| bip_39_word_new_br3 | lake<br>track<br>found |  
-| bip_39_word_new_br4 | lake<br>track<br>found<br>hobby |  
-| bip_39_word_new_br5 | lake<br>track<br>found<br>hobby<br>talent |  
-| bip_39_word_new_br6 | lake<br>track<br>found<br>hobby<br>talent<br>planet |  
-| bip_39_word_new_br7 | lake<br>track<br>found<br>hobby<br>talent<br>planet<br>casino |  
-| bip_39_word_new_br8 | lake<br>track<br>found<br>hobby<br>talent<br>planet<br>casino<br>logic |  
-| bip_39_word_new_br9 | lake<br>track<br>found<br>hobby<br>talent<br>planet<br>casino<br>logic<br>stomach |  
-| bip_39_word_new_line1 | lake |  
-| bip_39_word_new_line10 | lake
+| bip_39_word_new_br_1 | lake |  
+| bip_39_word_new_br_10 | lake<br>track<br>found<br>hobby<br>talent<br>planet<br>casino<br>logic<br>stomach<br>unable |  
+| bip_39_word_new_br_11 | lake<br>track<br>found<br>hobby<br>talent<br>planet<br>casino<br>logic<br>stomach<br>unable<br>brown |  
+| bip_39_word_new_br_12 | lake<br>track<br>found<br>hobby<br>talent<br>planet<br>casino<br>logic<br>stomach<br>unable<br>brown<br>art |  
+| bip_39_word_new_br_2 | lake<br>track |  
+| bip_39_word_new_br_3 | lake<br>track<br>found |  
+| bip_39_word_new_br_4 | lake<br>track<br>found<br>hobby |  
+| bip_39_word_new_br_5 | lake<br>track<br>found<br>hobby<br>talent |  
+| bip_39_word_new_br_6 | lake<br>track<br>found<br>hobby<br>talent<br>planet |  
+| bip_39_word_new_br_7 | lake<br>track<br>found<br>hobby<br>talent<br>planet<br>casino |  
+| bip_39_word_new_br_8 | lake<br>track<br>found<br>hobby<br>talent<br>planet<br>casino<br>logic |  
+| bip_39_word_new_br_9 | lake<br>track<br>found<br>hobby<br>talent<br>planet<br>casino<br>logic<br>stomach |  
+| bip_39_word_new_line_1 | lake |  
+| bip_39_word_new_line_10 | lake
 track
 found
 hobby
@@ -55,7 +55,7 @@ casino
 logic
 stomach
 unable |  
-| bip_39_word_new_line11 | lake
+| bip_39_word_new_line_11 | lake
 track
 found
 hobby
@@ -66,7 +66,7 @@ logic
 stomach
 unable
 brown |  
-| bip_39_word_new_line12 | lake
+| bip_39_word_new_line_12 | lake
 track
 found
 hobby
@@ -78,34 +78,34 @@ stomach
 unable
 brown
 art |  
-| bip_39_word_new_line2 | lake
+| bip_39_word_new_line_2 | lake
 track |  
-| bip_39_word_new_line3 | lake
+| bip_39_word_new_line_3 | lake
 track
 found |  
-| bip_39_word_new_line4 | lake
+| bip_39_word_new_line_4 | lake
 track
 found
 hobby |  
-| bip_39_word_new_line5 | lake
+| bip_39_word_new_line_5 | lake
 track
 found
 hobby
 talent |  
-| bip_39_word_new_line6 | lake
+| bip_39_word_new_line_6 | lake
 track
 found
 hobby
 talent
 planet |  
-| bip_39_word_new_line7 | lake
+| bip_39_word_new_line_7 | lake
 track
 found
 hobby
 talent
 planet
 casino |  
-| bip_39_word_new_line8 | lake
+| bip_39_word_new_line_8 | lake
 track
 found
 hobby
@@ -113,7 +113,7 @@ talent
 planet
 casino
 logic |  
-| bip_39_word_new_line9 | lake
+| bip_39_word_new_line_9 | lake
 track
 found
 hobby

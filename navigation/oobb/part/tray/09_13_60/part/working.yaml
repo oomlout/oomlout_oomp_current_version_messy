@@ -1,17 +1,17 @@
-bip_39_word_new_br1: trigger
-bip_39_word_new_br10: trigger<br>invite<br>easily<br>deny<br>short<br>wedding<br>smart<br>furnace<br>thrive<br>faint
-bip_39_word_new_br11: trigger<br>invite<br>easily<br>deny<br>short<br>wedding<br>smart<br>furnace<br>thrive<br>faint<br>monster
-bip_39_word_new_br12: trigger<br>invite<br>easily<br>deny<br>short<br>wedding<br>smart<br>furnace<br>thrive<br>faint<br>monster<br>apart
-bip_39_word_new_br2: trigger<br>invite
-bip_39_word_new_br3: trigger<br>invite<br>easily
-bip_39_word_new_br4: trigger<br>invite<br>easily<br>deny
-bip_39_word_new_br5: trigger<br>invite<br>easily<br>deny<br>short
-bip_39_word_new_br6: trigger<br>invite<br>easily<br>deny<br>short<br>wedding
-bip_39_word_new_br7: trigger<br>invite<br>easily<br>deny<br>short<br>wedding<br>smart
-bip_39_word_new_br8: trigger<br>invite<br>easily<br>deny<br>short<br>wedding<br>smart<br>furnace
-bip_39_word_new_br9: trigger<br>invite<br>easily<br>deny<br>short<br>wedding<br>smart<br>furnace<br>thrive
-bip_39_word_new_line1: trigger
-bip_39_word_new_line10: 'trigger
+bip_39_word_new_br_1: trigger
+bip_39_word_new_br_10: trigger<br>invite<br>easily<br>deny<br>short<br>wedding<br>smart<br>furnace<br>thrive<br>faint
+bip_39_word_new_br_11: trigger<br>invite<br>easily<br>deny<br>short<br>wedding<br>smart<br>furnace<br>thrive<br>faint<br>monster
+bip_39_word_new_br_12: trigger<br>invite<br>easily<br>deny<br>short<br>wedding<br>smart<br>furnace<br>thrive<br>faint<br>monster<br>apart
+bip_39_word_new_br_2: trigger<br>invite
+bip_39_word_new_br_3: trigger<br>invite<br>easily
+bip_39_word_new_br_4: trigger<br>invite<br>easily<br>deny
+bip_39_word_new_br_5: trigger<br>invite<br>easily<br>deny<br>short
+bip_39_word_new_br_6: trigger<br>invite<br>easily<br>deny<br>short<br>wedding
+bip_39_word_new_br_7: trigger<br>invite<br>easily<br>deny<br>short<br>wedding<br>smart
+bip_39_word_new_br_8: trigger<br>invite<br>easily<br>deny<br>short<br>wedding<br>smart<br>furnace
+bip_39_word_new_br_9: trigger<br>invite<br>easily<br>deny<br>short<br>wedding<br>smart<br>furnace<br>thrive
+bip_39_word_new_line_1: trigger
+bip_39_word_new_line_10: 'trigger
 
   invite
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'trigger
   thrive
 
   faint'
-bip_39_word_new_line11: 'trigger
+bip_39_word_new_line_11: 'trigger
 
   invite
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'trigger
   faint
 
   monster'
-bip_39_word_new_line12: 'trigger
+bip_39_word_new_line_12: 'trigger
 
   invite
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'trigger
   monster
 
   apart'
-bip_39_word_new_line2: 'trigger
+bip_39_word_new_line_2: 'trigger
 
   invite'
-bip_39_word_new_line3: 'trigger
+bip_39_word_new_line_3: 'trigger
 
   invite
 
   easily'
-bip_39_word_new_line4: 'trigger
+bip_39_word_new_line_4: 'trigger
 
   invite
 
   easily
 
   deny'
-bip_39_word_new_line5: 'trigger
+bip_39_word_new_line_5: 'trigger
 
   invite
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'trigger
   deny
 
   short'
-bip_39_word_new_line6: 'trigger
+bip_39_word_new_line_6: 'trigger
 
   invite
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'trigger
   short
 
   wedding'
-bip_39_word_new_line7: 'trigger
+bip_39_word_new_line_7: 'trigger
 
   invite
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'trigger
   wedding
 
   smart'
-bip_39_word_new_line8: 'trigger
+bip_39_word_new_line_8: 'trigger
 
   invite
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'trigger
   smart
 
   furnace'
-bip_39_word_new_line9: 'trigger
+bip_39_word_new_line_9: 'trigger
 
   invite
 

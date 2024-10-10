@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | miss |  
-| bip_39_word_new_br10 | miss<br>use<br>chat<br>mass<br>pyramid<br>pill<br>mansion<br>north<br>divert<br>thank |  
-| bip_39_word_new_br11 | miss<br>use<br>chat<br>mass<br>pyramid<br>pill<br>mansion<br>north<br>divert<br>thank<br>latin |  
-| bip_39_word_new_br12 | miss<br>use<br>chat<br>mass<br>pyramid<br>pill<br>mansion<br>north<br>divert<br>thank<br>latin<br>afford |  
-| bip_39_word_new_br2 | miss<br>use |  
-| bip_39_word_new_br3 | miss<br>use<br>chat |  
-| bip_39_word_new_br4 | miss<br>use<br>chat<br>mass |  
-| bip_39_word_new_br5 | miss<br>use<br>chat<br>mass<br>pyramid |  
-| bip_39_word_new_br6 | miss<br>use<br>chat<br>mass<br>pyramid<br>pill |  
-| bip_39_word_new_br7 | miss<br>use<br>chat<br>mass<br>pyramid<br>pill<br>mansion |  
-| bip_39_word_new_br8 | miss<br>use<br>chat<br>mass<br>pyramid<br>pill<br>mansion<br>north |  
-| bip_39_word_new_br9 | miss<br>use<br>chat<br>mass<br>pyramid<br>pill<br>mansion<br>north<br>divert |  
-| bip_39_word_new_line1 | miss |  
-| bip_39_word_new_line10 | miss
+| bip_39_word_new_br_1 | miss |  
+| bip_39_word_new_br_10 | miss<br>use<br>chat<br>mass<br>pyramid<br>pill<br>mansion<br>north<br>divert<br>thank |  
+| bip_39_word_new_br_11 | miss<br>use<br>chat<br>mass<br>pyramid<br>pill<br>mansion<br>north<br>divert<br>thank<br>latin |  
+| bip_39_word_new_br_12 | miss<br>use<br>chat<br>mass<br>pyramid<br>pill<br>mansion<br>north<br>divert<br>thank<br>latin<br>afford |  
+| bip_39_word_new_br_2 | miss<br>use |  
+| bip_39_word_new_br_3 | miss<br>use<br>chat |  
+| bip_39_word_new_br_4 | miss<br>use<br>chat<br>mass |  
+| bip_39_word_new_br_5 | miss<br>use<br>chat<br>mass<br>pyramid |  
+| bip_39_word_new_br_6 | miss<br>use<br>chat<br>mass<br>pyramid<br>pill |  
+| bip_39_word_new_br_7 | miss<br>use<br>chat<br>mass<br>pyramid<br>pill<br>mansion |  
+| bip_39_word_new_br_8 | miss<br>use<br>chat<br>mass<br>pyramid<br>pill<br>mansion<br>north |  
+| bip_39_word_new_br_9 | miss<br>use<br>chat<br>mass<br>pyramid<br>pill<br>mansion<br>north<br>divert |  
+| bip_39_word_new_line_1 | miss |  
+| bip_39_word_new_line_10 | miss
 use
 chat
 mass
@@ -55,7 +55,7 @@ mansion
 north
 divert
 thank |  
-| bip_39_word_new_line11 | miss
+| bip_39_word_new_line_11 | miss
 use
 chat
 mass
@@ -66,7 +66,7 @@ north
 divert
 thank
 latin |  
-| bip_39_word_new_line12 | miss
+| bip_39_word_new_line_12 | miss
 use
 chat
 mass
@@ -78,34 +78,34 @@ divert
 thank
 latin
 afford |  
-| bip_39_word_new_line2 | miss
+| bip_39_word_new_line_2 | miss
 use |  
-| bip_39_word_new_line3 | miss
+| bip_39_word_new_line_3 | miss
 use
 chat |  
-| bip_39_word_new_line4 | miss
+| bip_39_word_new_line_4 | miss
 use
 chat
 mass |  
-| bip_39_word_new_line5 | miss
+| bip_39_word_new_line_5 | miss
 use
 chat
 mass
 pyramid |  
-| bip_39_word_new_line6 | miss
+| bip_39_word_new_line_6 | miss
 use
 chat
 mass
 pyramid
 pill |  
-| bip_39_word_new_line7 | miss
+| bip_39_word_new_line_7 | miss
 use
 chat
 mass
 pyramid
 pill
 mansion |  
-| bip_39_word_new_line8 | miss
+| bip_39_word_new_line_8 | miss
 use
 chat
 mass
@@ -113,7 +113,7 @@ pyramid
 pill
 mansion
 north |  
-| bip_39_word_new_line9 | miss
+| bip_39_word_new_line_9 | miss
 use
 chat
 mass

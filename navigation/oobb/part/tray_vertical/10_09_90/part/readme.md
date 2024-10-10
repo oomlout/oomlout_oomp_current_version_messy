@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | satisfy |  
-| bip_39_word_new_br10 | satisfy<br>scorpion<br>toss<br>unlock<br>impact<br>equip<br>blast<br>robot<br>eight<br>equal |  
-| bip_39_word_new_br11 | satisfy<br>scorpion<br>toss<br>unlock<br>impact<br>equip<br>blast<br>robot<br>eight<br>equal<br>report |  
-| bip_39_word_new_br12 | satisfy<br>scorpion<br>toss<br>unlock<br>impact<br>equip<br>blast<br>robot<br>eight<br>equal<br>report<br>allow |  
-| bip_39_word_new_br2 | satisfy<br>scorpion |  
-| bip_39_word_new_br3 | satisfy<br>scorpion<br>toss |  
-| bip_39_word_new_br4 | satisfy<br>scorpion<br>toss<br>unlock |  
-| bip_39_word_new_br5 | satisfy<br>scorpion<br>toss<br>unlock<br>impact |  
-| bip_39_word_new_br6 | satisfy<br>scorpion<br>toss<br>unlock<br>impact<br>equip |  
-| bip_39_word_new_br7 | satisfy<br>scorpion<br>toss<br>unlock<br>impact<br>equip<br>blast |  
-| bip_39_word_new_br8 | satisfy<br>scorpion<br>toss<br>unlock<br>impact<br>equip<br>blast<br>robot |  
-| bip_39_word_new_br9 | satisfy<br>scorpion<br>toss<br>unlock<br>impact<br>equip<br>blast<br>robot<br>eight |  
-| bip_39_word_new_line1 | satisfy |  
-| bip_39_word_new_line10 | satisfy
+| bip_39_word_new_br_1 | satisfy |  
+| bip_39_word_new_br_10 | satisfy<br>scorpion<br>toss<br>unlock<br>impact<br>equip<br>blast<br>robot<br>eight<br>equal |  
+| bip_39_word_new_br_11 | satisfy<br>scorpion<br>toss<br>unlock<br>impact<br>equip<br>blast<br>robot<br>eight<br>equal<br>report |  
+| bip_39_word_new_br_12 | satisfy<br>scorpion<br>toss<br>unlock<br>impact<br>equip<br>blast<br>robot<br>eight<br>equal<br>report<br>allow |  
+| bip_39_word_new_br_2 | satisfy<br>scorpion |  
+| bip_39_word_new_br_3 | satisfy<br>scorpion<br>toss |  
+| bip_39_word_new_br_4 | satisfy<br>scorpion<br>toss<br>unlock |  
+| bip_39_word_new_br_5 | satisfy<br>scorpion<br>toss<br>unlock<br>impact |  
+| bip_39_word_new_br_6 | satisfy<br>scorpion<br>toss<br>unlock<br>impact<br>equip |  
+| bip_39_word_new_br_7 | satisfy<br>scorpion<br>toss<br>unlock<br>impact<br>equip<br>blast |  
+| bip_39_word_new_br_8 | satisfy<br>scorpion<br>toss<br>unlock<br>impact<br>equip<br>blast<br>robot |  
+| bip_39_word_new_br_9 | satisfy<br>scorpion<br>toss<br>unlock<br>impact<br>equip<br>blast<br>robot<br>eight |  
+| bip_39_word_new_line_1 | satisfy |  
+| bip_39_word_new_line_10 | satisfy
 scorpion
 toss
 unlock
@@ -55,7 +55,7 @@ blast
 robot
 eight
 equal |  
-| bip_39_word_new_line11 | satisfy
+| bip_39_word_new_line_11 | satisfy
 scorpion
 toss
 unlock
@@ -66,7 +66,7 @@ robot
 eight
 equal
 report |  
-| bip_39_word_new_line12 | satisfy
+| bip_39_word_new_line_12 | satisfy
 scorpion
 toss
 unlock
@@ -78,34 +78,34 @@ eight
 equal
 report
 allow |  
-| bip_39_word_new_line2 | satisfy
+| bip_39_word_new_line_2 | satisfy
 scorpion |  
-| bip_39_word_new_line3 | satisfy
+| bip_39_word_new_line_3 | satisfy
 scorpion
 toss |  
-| bip_39_word_new_line4 | satisfy
+| bip_39_word_new_line_4 | satisfy
 scorpion
 toss
 unlock |  
-| bip_39_word_new_line5 | satisfy
+| bip_39_word_new_line_5 | satisfy
 scorpion
 toss
 unlock
 impact |  
-| bip_39_word_new_line6 | satisfy
+| bip_39_word_new_line_6 | satisfy
 scorpion
 toss
 unlock
 impact
 equip |  
-| bip_39_word_new_line7 | satisfy
+| bip_39_word_new_line_7 | satisfy
 scorpion
 toss
 unlock
 impact
 equip
 blast |  
-| bip_39_word_new_line8 | satisfy
+| bip_39_word_new_line_8 | satisfy
 scorpion
 toss
 unlock
@@ -113,7 +113,7 @@ impact
 equip
 blast
 robot |  
-| bip_39_word_new_line9 | satisfy
+| bip_39_word_new_line_9 | satisfy
 scorpion
 toss
 unlock

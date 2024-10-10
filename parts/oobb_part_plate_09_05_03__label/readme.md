@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | kick |  
-| bip_39_word_new_br10 | kick<br>gather<br>else<br>alarm<br>admit<br>select<br>primary<br>nerve<br>sun<br>thing |  
-| bip_39_word_new_br11 | kick<br>gather<br>else<br>alarm<br>admit<br>select<br>primary<br>nerve<br>sun<br>thing<br>hope |  
-| bip_39_word_new_br12 | kick<br>gather<br>else<br>alarm<br>admit<br>select<br>primary<br>nerve<br>sun<br>thing<br>hope<br>ancient |  
-| bip_39_word_new_br2 | kick<br>gather |  
-| bip_39_word_new_br3 | kick<br>gather<br>else |  
-| bip_39_word_new_br4 | kick<br>gather<br>else<br>alarm |  
-| bip_39_word_new_br5 | kick<br>gather<br>else<br>alarm<br>admit |  
-| bip_39_word_new_br6 | kick<br>gather<br>else<br>alarm<br>admit<br>select |  
-| bip_39_word_new_br7 | kick<br>gather<br>else<br>alarm<br>admit<br>select<br>primary |  
-| bip_39_word_new_br8 | kick<br>gather<br>else<br>alarm<br>admit<br>select<br>primary<br>nerve |  
-| bip_39_word_new_br9 | kick<br>gather<br>else<br>alarm<br>admit<br>select<br>primary<br>nerve<br>sun |  
-| bip_39_word_new_line1 | kick |  
-| bip_39_word_new_line10 | kick
+| bip_39_word_new_br_1 | kick |  
+| bip_39_word_new_br_10 | kick<br>gather<br>else<br>alarm<br>admit<br>select<br>primary<br>nerve<br>sun<br>thing |  
+| bip_39_word_new_br_11 | kick<br>gather<br>else<br>alarm<br>admit<br>select<br>primary<br>nerve<br>sun<br>thing<br>hope |  
+| bip_39_word_new_br_12 | kick<br>gather<br>else<br>alarm<br>admit<br>select<br>primary<br>nerve<br>sun<br>thing<br>hope<br>ancient |  
+| bip_39_word_new_br_2 | kick<br>gather |  
+| bip_39_word_new_br_3 | kick<br>gather<br>else |  
+| bip_39_word_new_br_4 | kick<br>gather<br>else<br>alarm |  
+| bip_39_word_new_br_5 | kick<br>gather<br>else<br>alarm<br>admit |  
+| bip_39_word_new_br_6 | kick<br>gather<br>else<br>alarm<br>admit<br>select |  
+| bip_39_word_new_br_7 | kick<br>gather<br>else<br>alarm<br>admit<br>select<br>primary |  
+| bip_39_word_new_br_8 | kick<br>gather<br>else<br>alarm<br>admit<br>select<br>primary<br>nerve |  
+| bip_39_word_new_br_9 | kick<br>gather<br>else<br>alarm<br>admit<br>select<br>primary<br>nerve<br>sun |  
+| bip_39_word_new_line_1 | kick |  
+| bip_39_word_new_line_10 | kick
 gather
 else
 alarm
@@ -55,7 +55,7 @@ primary
 nerve
 sun
 thing |  
-| bip_39_word_new_line11 | kick
+| bip_39_word_new_line_11 | kick
 gather
 else
 alarm
@@ -66,7 +66,7 @@ nerve
 sun
 thing
 hope |  
-| bip_39_word_new_line12 | kick
+| bip_39_word_new_line_12 | kick
 gather
 else
 alarm
@@ -78,34 +78,34 @@ sun
 thing
 hope
 ancient |  
-| bip_39_word_new_line2 | kick
+| bip_39_word_new_line_2 | kick
 gather |  
-| bip_39_word_new_line3 | kick
+| bip_39_word_new_line_3 | kick
 gather
 else |  
-| bip_39_word_new_line4 | kick
+| bip_39_word_new_line_4 | kick
 gather
 else
 alarm |  
-| bip_39_word_new_line5 | kick
+| bip_39_word_new_line_5 | kick
 gather
 else
 alarm
 admit |  
-| bip_39_word_new_line6 | kick
+| bip_39_word_new_line_6 | kick
 gather
 else
 alarm
 admit
 select |  
-| bip_39_word_new_line7 | kick
+| bip_39_word_new_line_7 | kick
 gather
 else
 alarm
 admit
 select
 primary |  
-| bip_39_word_new_line8 | kick
+| bip_39_word_new_line_8 | kick
 gather
 else
 alarm
@@ -113,7 +113,7 @@ admit
 select
 primary
 nerve |  
-| bip_39_word_new_line9 | kick
+| bip_39_word_new_line_9 | kick
 gather
 else
 alarm

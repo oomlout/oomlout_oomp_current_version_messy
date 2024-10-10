@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | twenty |  
-| bip_39_word_new_br10 | twenty<br>jewel<br>fury<br>idle<br>gain<br>renew<br>radio<br>repair<br>isolate<br>trap |  
-| bip_39_word_new_br11 | twenty<br>jewel<br>fury<br>idle<br>gain<br>renew<br>radio<br>repair<br>isolate<br>trap<br>only |  
-| bip_39_word_new_br12 | twenty<br>jewel<br>fury<br>idle<br>gain<br>renew<br>radio<br>repair<br>isolate<br>trap<br>only<br>already |  
-| bip_39_word_new_br2 | twenty<br>jewel |  
-| bip_39_word_new_br3 | twenty<br>jewel<br>fury |  
-| bip_39_word_new_br4 | twenty<br>jewel<br>fury<br>idle |  
-| bip_39_word_new_br5 | twenty<br>jewel<br>fury<br>idle<br>gain |  
-| bip_39_word_new_br6 | twenty<br>jewel<br>fury<br>idle<br>gain<br>renew |  
-| bip_39_word_new_br7 | twenty<br>jewel<br>fury<br>idle<br>gain<br>renew<br>radio |  
-| bip_39_word_new_br8 | twenty<br>jewel<br>fury<br>idle<br>gain<br>renew<br>radio<br>repair |  
-| bip_39_word_new_br9 | twenty<br>jewel<br>fury<br>idle<br>gain<br>renew<br>radio<br>repair<br>isolate |  
-| bip_39_word_new_line1 | twenty |  
-| bip_39_word_new_line10 | twenty
+| bip_39_word_new_br_1 | twenty |  
+| bip_39_word_new_br_10 | twenty<br>jewel<br>fury<br>idle<br>gain<br>renew<br>radio<br>repair<br>isolate<br>trap |  
+| bip_39_word_new_br_11 | twenty<br>jewel<br>fury<br>idle<br>gain<br>renew<br>radio<br>repair<br>isolate<br>trap<br>only |  
+| bip_39_word_new_br_12 | twenty<br>jewel<br>fury<br>idle<br>gain<br>renew<br>radio<br>repair<br>isolate<br>trap<br>only<br>already |  
+| bip_39_word_new_br_2 | twenty<br>jewel |  
+| bip_39_word_new_br_3 | twenty<br>jewel<br>fury |  
+| bip_39_word_new_br_4 | twenty<br>jewel<br>fury<br>idle |  
+| bip_39_word_new_br_5 | twenty<br>jewel<br>fury<br>idle<br>gain |  
+| bip_39_word_new_br_6 | twenty<br>jewel<br>fury<br>idle<br>gain<br>renew |  
+| bip_39_word_new_br_7 | twenty<br>jewel<br>fury<br>idle<br>gain<br>renew<br>radio |  
+| bip_39_word_new_br_8 | twenty<br>jewel<br>fury<br>idle<br>gain<br>renew<br>radio<br>repair |  
+| bip_39_word_new_br_9 | twenty<br>jewel<br>fury<br>idle<br>gain<br>renew<br>radio<br>repair<br>isolate |  
+| bip_39_word_new_line_1 | twenty |  
+| bip_39_word_new_line_10 | twenty
 jewel
 fury
 idle
@@ -55,7 +55,7 @@ radio
 repair
 isolate
 trap |  
-| bip_39_word_new_line11 | twenty
+| bip_39_word_new_line_11 | twenty
 jewel
 fury
 idle
@@ -66,7 +66,7 @@ repair
 isolate
 trap
 only |  
-| bip_39_word_new_line12 | twenty
+| bip_39_word_new_line_12 | twenty
 jewel
 fury
 idle
@@ -78,34 +78,34 @@ isolate
 trap
 only
 already |  
-| bip_39_word_new_line2 | twenty
+| bip_39_word_new_line_2 | twenty
 jewel |  
-| bip_39_word_new_line3 | twenty
+| bip_39_word_new_line_3 | twenty
 jewel
 fury |  
-| bip_39_word_new_line4 | twenty
+| bip_39_word_new_line_4 | twenty
 jewel
 fury
 idle |  
-| bip_39_word_new_line5 | twenty
+| bip_39_word_new_line_5 | twenty
 jewel
 fury
 idle
 gain |  
-| bip_39_word_new_line6 | twenty
+| bip_39_word_new_line_6 | twenty
 jewel
 fury
 idle
 gain
 renew |  
-| bip_39_word_new_line7 | twenty
+| bip_39_word_new_line_7 | twenty
 jewel
 fury
 idle
 gain
 renew
 radio |  
-| bip_39_word_new_line8 | twenty
+| bip_39_word_new_line_8 | twenty
 jewel
 fury
 idle
@@ -113,7 +113,7 @@ gain
 renew
 radio
 repair |  
-| bip_39_word_new_line9 | twenty
+| bip_39_word_new_line_9 | twenty
 jewel
 fury
 idle

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | blossom |  
-| bip_39_word_new_br10 | blossom<br>patrol<br>legal<br>glad<br>artist<br>average<br>blast<br>eyebrow<br>code<br>page |  
-| bip_39_word_new_br11 | blossom<br>patrol<br>legal<br>glad<br>artist<br>average<br>blast<br>eyebrow<br>code<br>page<br>shadow |  
-| bip_39_word_new_br12 | blossom<br>patrol<br>legal<br>glad<br>artist<br>average<br>blast<br>eyebrow<br>code<br>page<br>shadow<br>attack |  
-| bip_39_word_new_br2 | blossom<br>patrol |  
-| bip_39_word_new_br3 | blossom<br>patrol<br>legal |  
-| bip_39_word_new_br4 | blossom<br>patrol<br>legal<br>glad |  
-| bip_39_word_new_br5 | blossom<br>patrol<br>legal<br>glad<br>artist |  
-| bip_39_word_new_br6 | blossom<br>patrol<br>legal<br>glad<br>artist<br>average |  
-| bip_39_word_new_br7 | blossom<br>patrol<br>legal<br>glad<br>artist<br>average<br>blast |  
-| bip_39_word_new_br8 | blossom<br>patrol<br>legal<br>glad<br>artist<br>average<br>blast<br>eyebrow |  
-| bip_39_word_new_br9 | blossom<br>patrol<br>legal<br>glad<br>artist<br>average<br>blast<br>eyebrow<br>code |  
-| bip_39_word_new_line1 | blossom |  
-| bip_39_word_new_line10 | blossom
+| bip_39_word_new_br_1 | blossom |  
+| bip_39_word_new_br_10 | blossom<br>patrol<br>legal<br>glad<br>artist<br>average<br>blast<br>eyebrow<br>code<br>page |  
+| bip_39_word_new_br_11 | blossom<br>patrol<br>legal<br>glad<br>artist<br>average<br>blast<br>eyebrow<br>code<br>page<br>shadow |  
+| bip_39_word_new_br_12 | blossom<br>patrol<br>legal<br>glad<br>artist<br>average<br>blast<br>eyebrow<br>code<br>page<br>shadow<br>attack |  
+| bip_39_word_new_br_2 | blossom<br>patrol |  
+| bip_39_word_new_br_3 | blossom<br>patrol<br>legal |  
+| bip_39_word_new_br_4 | blossom<br>patrol<br>legal<br>glad |  
+| bip_39_word_new_br_5 | blossom<br>patrol<br>legal<br>glad<br>artist |  
+| bip_39_word_new_br_6 | blossom<br>patrol<br>legal<br>glad<br>artist<br>average |  
+| bip_39_word_new_br_7 | blossom<br>patrol<br>legal<br>glad<br>artist<br>average<br>blast |  
+| bip_39_word_new_br_8 | blossom<br>patrol<br>legal<br>glad<br>artist<br>average<br>blast<br>eyebrow |  
+| bip_39_word_new_br_9 | blossom<br>patrol<br>legal<br>glad<br>artist<br>average<br>blast<br>eyebrow<br>code |  
+| bip_39_word_new_line_1 | blossom |  
+| bip_39_word_new_line_10 | blossom
 patrol
 legal
 glad
@@ -55,7 +55,7 @@ blast
 eyebrow
 code
 page |  
-| bip_39_word_new_line11 | blossom
+| bip_39_word_new_line_11 | blossom
 patrol
 legal
 glad
@@ -66,7 +66,7 @@ eyebrow
 code
 page
 shadow |  
-| bip_39_word_new_line12 | blossom
+| bip_39_word_new_line_12 | blossom
 patrol
 legal
 glad
@@ -78,34 +78,34 @@ code
 page
 shadow
 attack |  
-| bip_39_word_new_line2 | blossom
+| bip_39_word_new_line_2 | blossom
 patrol |  
-| bip_39_word_new_line3 | blossom
+| bip_39_word_new_line_3 | blossom
 patrol
 legal |  
-| bip_39_word_new_line4 | blossom
+| bip_39_word_new_line_4 | blossom
 patrol
 legal
 glad |  
-| bip_39_word_new_line5 | blossom
+| bip_39_word_new_line_5 | blossom
 patrol
 legal
 glad
 artist |  
-| bip_39_word_new_line6 | blossom
+| bip_39_word_new_line_6 | blossom
 patrol
 legal
 glad
 artist
 average |  
-| bip_39_word_new_line7 | blossom
+| bip_39_word_new_line_7 | blossom
 patrol
 legal
 glad
 artist
 average
 blast |  
-| bip_39_word_new_line8 | blossom
+| bip_39_word_new_line_8 | blossom
 patrol
 legal
 glad
@@ -113,7 +113,7 @@ artist
 average
 blast
 eyebrow |  
-| bip_39_word_new_line9 | blossom
+| bip_39_word_new_line_9 | blossom
 patrol
 legal
 glad

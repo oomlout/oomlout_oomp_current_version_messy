@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | subject |  
-| bip_39_word_new_br10 | subject<br>biology<br>urban<br>huge<br>sweet<br>sausage<br>census<br>hobby<br>gasp<br>submit |  
-| bip_39_word_new_br11 | subject<br>biology<br>urban<br>huge<br>sweet<br>sausage<br>census<br>hobby<br>gasp<br>submit<br>search |  
-| bip_39_word_new_br12 | subject<br>biology<br>urban<br>huge<br>sweet<br>sausage<br>census<br>hobby<br>gasp<br>submit<br>search<br>amount |  
-| bip_39_word_new_br2 | subject<br>biology |  
-| bip_39_word_new_br3 | subject<br>biology<br>urban |  
-| bip_39_word_new_br4 | subject<br>biology<br>urban<br>huge |  
-| bip_39_word_new_br5 | subject<br>biology<br>urban<br>huge<br>sweet |  
-| bip_39_word_new_br6 | subject<br>biology<br>urban<br>huge<br>sweet<br>sausage |  
-| bip_39_word_new_br7 | subject<br>biology<br>urban<br>huge<br>sweet<br>sausage<br>census |  
-| bip_39_word_new_br8 | subject<br>biology<br>urban<br>huge<br>sweet<br>sausage<br>census<br>hobby |  
-| bip_39_word_new_br9 | subject<br>biology<br>urban<br>huge<br>sweet<br>sausage<br>census<br>hobby<br>gasp |  
-| bip_39_word_new_line1 | subject |  
-| bip_39_word_new_line10 | subject
+| bip_39_word_new_br_1 | subject |  
+| bip_39_word_new_br_10 | subject<br>biology<br>urban<br>huge<br>sweet<br>sausage<br>census<br>hobby<br>gasp<br>submit |  
+| bip_39_word_new_br_11 | subject<br>biology<br>urban<br>huge<br>sweet<br>sausage<br>census<br>hobby<br>gasp<br>submit<br>search |  
+| bip_39_word_new_br_12 | subject<br>biology<br>urban<br>huge<br>sweet<br>sausage<br>census<br>hobby<br>gasp<br>submit<br>search<br>amount |  
+| bip_39_word_new_br_2 | subject<br>biology |  
+| bip_39_word_new_br_3 | subject<br>biology<br>urban |  
+| bip_39_word_new_br_4 | subject<br>biology<br>urban<br>huge |  
+| bip_39_word_new_br_5 | subject<br>biology<br>urban<br>huge<br>sweet |  
+| bip_39_word_new_br_6 | subject<br>biology<br>urban<br>huge<br>sweet<br>sausage |  
+| bip_39_word_new_br_7 | subject<br>biology<br>urban<br>huge<br>sweet<br>sausage<br>census |  
+| bip_39_word_new_br_8 | subject<br>biology<br>urban<br>huge<br>sweet<br>sausage<br>census<br>hobby |  
+| bip_39_word_new_br_9 | subject<br>biology<br>urban<br>huge<br>sweet<br>sausage<br>census<br>hobby<br>gasp |  
+| bip_39_word_new_line_1 | subject |  
+| bip_39_word_new_line_10 | subject
 biology
 urban
 huge
@@ -55,7 +55,7 @@ census
 hobby
 gasp
 submit |  
-| bip_39_word_new_line11 | subject
+| bip_39_word_new_line_11 | subject
 biology
 urban
 huge
@@ -66,7 +66,7 @@ hobby
 gasp
 submit
 search |  
-| bip_39_word_new_line12 | subject
+| bip_39_word_new_line_12 | subject
 biology
 urban
 huge
@@ -78,34 +78,34 @@ gasp
 submit
 search
 amount |  
-| bip_39_word_new_line2 | subject
+| bip_39_word_new_line_2 | subject
 biology |  
-| bip_39_word_new_line3 | subject
+| bip_39_word_new_line_3 | subject
 biology
 urban |  
-| bip_39_word_new_line4 | subject
+| bip_39_word_new_line_4 | subject
 biology
 urban
 huge |  
-| bip_39_word_new_line5 | subject
+| bip_39_word_new_line_5 | subject
 biology
 urban
 huge
 sweet |  
-| bip_39_word_new_line6 | subject
+| bip_39_word_new_line_6 | subject
 biology
 urban
 huge
 sweet
 sausage |  
-| bip_39_word_new_line7 | subject
+| bip_39_word_new_line_7 | subject
 biology
 urban
 huge
 sweet
 sausage
 census |  
-| bip_39_word_new_line8 | subject
+| bip_39_word_new_line_8 | subject
 biology
 urban
 huge
@@ -113,7 +113,7 @@ sweet
 sausage
 census
 hobby |  
-| bip_39_word_new_line9 | subject
+| bip_39_word_new_line_9 | subject
 biology
 urban
 huge

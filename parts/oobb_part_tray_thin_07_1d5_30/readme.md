@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | since |  
-| bip_39_word_new_br10 | since<br>major<br>prepare<br>group<br>hurry<br>sea<br>palm<br>put<br>reward<br>couple |  
-| bip_39_word_new_br11 | since<br>major<br>prepare<br>group<br>hurry<br>sea<br>palm<br>put<br>reward<br>couple<br>almost |  
-| bip_39_word_new_br12 | since<br>major<br>prepare<br>group<br>hurry<br>sea<br>palm<br>put<br>reward<br>couple<br>almost<br>actor |  
-| bip_39_word_new_br2 | since<br>major |  
-| bip_39_word_new_br3 | since<br>major<br>prepare |  
-| bip_39_word_new_br4 | since<br>major<br>prepare<br>group |  
-| bip_39_word_new_br5 | since<br>major<br>prepare<br>group<br>hurry |  
-| bip_39_word_new_br6 | since<br>major<br>prepare<br>group<br>hurry<br>sea |  
-| bip_39_word_new_br7 | since<br>major<br>prepare<br>group<br>hurry<br>sea<br>palm |  
-| bip_39_word_new_br8 | since<br>major<br>prepare<br>group<br>hurry<br>sea<br>palm<br>put |  
-| bip_39_word_new_br9 | since<br>major<br>prepare<br>group<br>hurry<br>sea<br>palm<br>put<br>reward |  
-| bip_39_word_new_line1 | since |  
-| bip_39_word_new_line10 | since
+| bip_39_word_new_br_1 | since |  
+| bip_39_word_new_br_10 | since<br>major<br>prepare<br>group<br>hurry<br>sea<br>palm<br>put<br>reward<br>couple |  
+| bip_39_word_new_br_11 | since<br>major<br>prepare<br>group<br>hurry<br>sea<br>palm<br>put<br>reward<br>couple<br>almost |  
+| bip_39_word_new_br_12 | since<br>major<br>prepare<br>group<br>hurry<br>sea<br>palm<br>put<br>reward<br>couple<br>almost<br>actor |  
+| bip_39_word_new_br_2 | since<br>major |  
+| bip_39_word_new_br_3 | since<br>major<br>prepare |  
+| bip_39_word_new_br_4 | since<br>major<br>prepare<br>group |  
+| bip_39_word_new_br_5 | since<br>major<br>prepare<br>group<br>hurry |  
+| bip_39_word_new_br_6 | since<br>major<br>prepare<br>group<br>hurry<br>sea |  
+| bip_39_word_new_br_7 | since<br>major<br>prepare<br>group<br>hurry<br>sea<br>palm |  
+| bip_39_word_new_br_8 | since<br>major<br>prepare<br>group<br>hurry<br>sea<br>palm<br>put |  
+| bip_39_word_new_br_9 | since<br>major<br>prepare<br>group<br>hurry<br>sea<br>palm<br>put<br>reward |  
+| bip_39_word_new_line_1 | since |  
+| bip_39_word_new_line_10 | since
 major
 prepare
 group
@@ -55,7 +55,7 @@ palm
 put
 reward
 couple |  
-| bip_39_word_new_line11 | since
+| bip_39_word_new_line_11 | since
 major
 prepare
 group
@@ -66,7 +66,7 @@ put
 reward
 couple
 almost |  
-| bip_39_word_new_line12 | since
+| bip_39_word_new_line_12 | since
 major
 prepare
 group
@@ -78,34 +78,34 @@ reward
 couple
 almost
 actor |  
-| bip_39_word_new_line2 | since
+| bip_39_word_new_line_2 | since
 major |  
-| bip_39_word_new_line3 | since
+| bip_39_word_new_line_3 | since
 major
 prepare |  
-| bip_39_word_new_line4 | since
+| bip_39_word_new_line_4 | since
 major
 prepare
 group |  
-| bip_39_word_new_line5 | since
+| bip_39_word_new_line_5 | since
 major
 prepare
 group
 hurry |  
-| bip_39_word_new_line6 | since
+| bip_39_word_new_line_6 | since
 major
 prepare
 group
 hurry
 sea |  
-| bip_39_word_new_line7 | since
+| bip_39_word_new_line_7 | since
 major
 prepare
 group
 hurry
 sea
 palm |  
-| bip_39_word_new_line8 | since
+| bip_39_word_new_line_8 | since
 major
 prepare
 group
@@ -113,7 +113,7 @@ hurry
 sea
 palm
 put |  
-| bip_39_word_new_line9 | since
+| bip_39_word_new_line_9 | since
 major
 prepare
 group

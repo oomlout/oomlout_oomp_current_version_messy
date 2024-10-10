@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hybrid |  
-| bip_39_word_new_br10 | hybrid<br>thrive<br>drama<br>crime<br>interest<br>horse<br>decorate<br>camp<br>critic<br>vanish |  
-| bip_39_word_new_br11 | hybrid<br>thrive<br>drama<br>crime<br>interest<br>horse<br>decorate<br>camp<br>critic<br>vanish<br>two |  
-| bip_39_word_new_br12 | hybrid<br>thrive<br>drama<br>crime<br>interest<br>horse<br>decorate<br>camp<br>critic<br>vanish<br>two<br>address |  
-| bip_39_word_new_br2 | hybrid<br>thrive |  
-| bip_39_word_new_br3 | hybrid<br>thrive<br>drama |  
-| bip_39_word_new_br4 | hybrid<br>thrive<br>drama<br>crime |  
-| bip_39_word_new_br5 | hybrid<br>thrive<br>drama<br>crime<br>interest |  
-| bip_39_word_new_br6 | hybrid<br>thrive<br>drama<br>crime<br>interest<br>horse |  
-| bip_39_word_new_br7 | hybrid<br>thrive<br>drama<br>crime<br>interest<br>horse<br>decorate |  
-| bip_39_word_new_br8 | hybrid<br>thrive<br>drama<br>crime<br>interest<br>horse<br>decorate<br>camp |  
-| bip_39_word_new_br9 | hybrid<br>thrive<br>drama<br>crime<br>interest<br>horse<br>decorate<br>camp<br>critic |  
-| bip_39_word_new_line1 | hybrid |  
-| bip_39_word_new_line10 | hybrid
+| bip_39_word_new_br_1 | hybrid |  
+| bip_39_word_new_br_10 | hybrid<br>thrive<br>drama<br>crime<br>interest<br>horse<br>decorate<br>camp<br>critic<br>vanish |  
+| bip_39_word_new_br_11 | hybrid<br>thrive<br>drama<br>crime<br>interest<br>horse<br>decorate<br>camp<br>critic<br>vanish<br>two |  
+| bip_39_word_new_br_12 | hybrid<br>thrive<br>drama<br>crime<br>interest<br>horse<br>decorate<br>camp<br>critic<br>vanish<br>two<br>address |  
+| bip_39_word_new_br_2 | hybrid<br>thrive |  
+| bip_39_word_new_br_3 | hybrid<br>thrive<br>drama |  
+| bip_39_word_new_br_4 | hybrid<br>thrive<br>drama<br>crime |  
+| bip_39_word_new_br_5 | hybrid<br>thrive<br>drama<br>crime<br>interest |  
+| bip_39_word_new_br_6 | hybrid<br>thrive<br>drama<br>crime<br>interest<br>horse |  
+| bip_39_word_new_br_7 | hybrid<br>thrive<br>drama<br>crime<br>interest<br>horse<br>decorate |  
+| bip_39_word_new_br_8 | hybrid<br>thrive<br>drama<br>crime<br>interest<br>horse<br>decorate<br>camp |  
+| bip_39_word_new_br_9 | hybrid<br>thrive<br>drama<br>crime<br>interest<br>horse<br>decorate<br>camp<br>critic |  
+| bip_39_word_new_line_1 | hybrid |  
+| bip_39_word_new_line_10 | hybrid
 thrive
 drama
 crime
@@ -55,7 +55,7 @@ decorate
 camp
 critic
 vanish |  
-| bip_39_word_new_line11 | hybrid
+| bip_39_word_new_line_11 | hybrid
 thrive
 drama
 crime
@@ -66,7 +66,7 @@ camp
 critic
 vanish
 two |  
-| bip_39_word_new_line12 | hybrid
+| bip_39_word_new_line_12 | hybrid
 thrive
 drama
 crime
@@ -78,34 +78,34 @@ critic
 vanish
 two
 address |  
-| bip_39_word_new_line2 | hybrid
+| bip_39_word_new_line_2 | hybrid
 thrive |  
-| bip_39_word_new_line3 | hybrid
+| bip_39_word_new_line_3 | hybrid
 thrive
 drama |  
-| bip_39_word_new_line4 | hybrid
+| bip_39_word_new_line_4 | hybrid
 thrive
 drama
 crime |  
-| bip_39_word_new_line5 | hybrid
+| bip_39_word_new_line_5 | hybrid
 thrive
 drama
 crime
 interest |  
-| bip_39_word_new_line6 | hybrid
+| bip_39_word_new_line_6 | hybrid
 thrive
 drama
 crime
 interest
 horse |  
-| bip_39_word_new_line7 | hybrid
+| bip_39_word_new_line_7 | hybrid
 thrive
 drama
 crime
 interest
 horse
 decorate |  
-| bip_39_word_new_line8 | hybrid
+| bip_39_word_new_line_8 | hybrid
 thrive
 drama
 crime
@@ -113,7 +113,7 @@ interest
 horse
 decorate
 camp |  
-| bip_39_word_new_line9 | hybrid
+| bip_39_word_new_line_9 | hybrid
 thrive
 drama
 crime

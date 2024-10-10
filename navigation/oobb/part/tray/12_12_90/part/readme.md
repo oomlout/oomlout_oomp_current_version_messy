@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hub |  
-| bip_39_word_new_br10 | hub<br>useful<br>try<br>seminar<br>globe<br>potato<br>correct<br>anger<br>box<br>wreck |  
-| bip_39_word_new_br11 | hub<br>useful<br>try<br>seminar<br>globe<br>potato<br>correct<br>anger<br>box<br>wreck<br>urban |  
-| bip_39_word_new_br12 | hub<br>useful<br>try<br>seminar<br>globe<br>potato<br>correct<br>anger<br>box<br>wreck<br>urban<br>assault |  
-| bip_39_word_new_br2 | hub<br>useful |  
-| bip_39_word_new_br3 | hub<br>useful<br>try |  
-| bip_39_word_new_br4 | hub<br>useful<br>try<br>seminar |  
-| bip_39_word_new_br5 | hub<br>useful<br>try<br>seminar<br>globe |  
-| bip_39_word_new_br6 | hub<br>useful<br>try<br>seminar<br>globe<br>potato |  
-| bip_39_word_new_br7 | hub<br>useful<br>try<br>seminar<br>globe<br>potato<br>correct |  
-| bip_39_word_new_br8 | hub<br>useful<br>try<br>seminar<br>globe<br>potato<br>correct<br>anger |  
-| bip_39_word_new_br9 | hub<br>useful<br>try<br>seminar<br>globe<br>potato<br>correct<br>anger<br>box |  
-| bip_39_word_new_line1 | hub |  
-| bip_39_word_new_line10 | hub
+| bip_39_word_new_br_1 | hub |  
+| bip_39_word_new_br_10 | hub<br>useful<br>try<br>seminar<br>globe<br>potato<br>correct<br>anger<br>box<br>wreck |  
+| bip_39_word_new_br_11 | hub<br>useful<br>try<br>seminar<br>globe<br>potato<br>correct<br>anger<br>box<br>wreck<br>urban |  
+| bip_39_word_new_br_12 | hub<br>useful<br>try<br>seminar<br>globe<br>potato<br>correct<br>anger<br>box<br>wreck<br>urban<br>assault |  
+| bip_39_word_new_br_2 | hub<br>useful |  
+| bip_39_word_new_br_3 | hub<br>useful<br>try |  
+| bip_39_word_new_br_4 | hub<br>useful<br>try<br>seminar |  
+| bip_39_word_new_br_5 | hub<br>useful<br>try<br>seminar<br>globe |  
+| bip_39_word_new_br_6 | hub<br>useful<br>try<br>seminar<br>globe<br>potato |  
+| bip_39_word_new_br_7 | hub<br>useful<br>try<br>seminar<br>globe<br>potato<br>correct |  
+| bip_39_word_new_br_8 | hub<br>useful<br>try<br>seminar<br>globe<br>potato<br>correct<br>anger |  
+| bip_39_word_new_br_9 | hub<br>useful<br>try<br>seminar<br>globe<br>potato<br>correct<br>anger<br>box |  
+| bip_39_word_new_line_1 | hub |  
+| bip_39_word_new_line_10 | hub
 useful
 try
 seminar
@@ -55,7 +55,7 @@ correct
 anger
 box
 wreck |  
-| bip_39_word_new_line11 | hub
+| bip_39_word_new_line_11 | hub
 useful
 try
 seminar
@@ -66,7 +66,7 @@ anger
 box
 wreck
 urban |  
-| bip_39_word_new_line12 | hub
+| bip_39_word_new_line_12 | hub
 useful
 try
 seminar
@@ -78,34 +78,34 @@ box
 wreck
 urban
 assault |  
-| bip_39_word_new_line2 | hub
+| bip_39_word_new_line_2 | hub
 useful |  
-| bip_39_word_new_line3 | hub
+| bip_39_word_new_line_3 | hub
 useful
 try |  
-| bip_39_word_new_line4 | hub
+| bip_39_word_new_line_4 | hub
 useful
 try
 seminar |  
-| bip_39_word_new_line5 | hub
+| bip_39_word_new_line_5 | hub
 useful
 try
 seminar
 globe |  
-| bip_39_word_new_line6 | hub
+| bip_39_word_new_line_6 | hub
 useful
 try
 seminar
 globe
 potato |  
-| bip_39_word_new_line7 | hub
+| bip_39_word_new_line_7 | hub
 useful
 try
 seminar
 globe
 potato
 correct |  
-| bip_39_word_new_line8 | hub
+| bip_39_word_new_line_8 | hub
 useful
 try
 seminar
@@ -113,7 +113,7 @@ globe
 potato
 correct
 anger |  
-| bip_39_word_new_line9 | hub
+| bip_39_word_new_line_9 | hub
 useful
 try
 seminar

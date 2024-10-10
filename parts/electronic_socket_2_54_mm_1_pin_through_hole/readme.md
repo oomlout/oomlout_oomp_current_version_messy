@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | own |  
-| bip_39_word_new_br10 | own<br>misery<br>pretty<br>age<br>weapon<br>prevent<br>false<br>cram<br>amount<br>merit |  
-| bip_39_word_new_br11 | own<br>misery<br>pretty<br>age<br>weapon<br>prevent<br>false<br>cram<br>amount<br>merit<br>shrug |  
-| bip_39_word_new_br12 | own<br>misery<br>pretty<br>age<br>weapon<br>prevent<br>false<br>cram<br>amount<br>merit<br>shrug<br>avocado |  
-| bip_39_word_new_br2 | own<br>misery |  
-| bip_39_word_new_br3 | own<br>misery<br>pretty |  
-| bip_39_word_new_br4 | own<br>misery<br>pretty<br>age |  
-| bip_39_word_new_br5 | own<br>misery<br>pretty<br>age<br>weapon |  
-| bip_39_word_new_br6 | own<br>misery<br>pretty<br>age<br>weapon<br>prevent |  
-| bip_39_word_new_br7 | own<br>misery<br>pretty<br>age<br>weapon<br>prevent<br>false |  
-| bip_39_word_new_br8 | own<br>misery<br>pretty<br>age<br>weapon<br>prevent<br>false<br>cram |  
-| bip_39_word_new_br9 | own<br>misery<br>pretty<br>age<br>weapon<br>prevent<br>false<br>cram<br>amount |  
-| bip_39_word_new_line1 | own |  
-| bip_39_word_new_line10 | own
+| bip_39_word_new_br_1 | own |  
+| bip_39_word_new_br_10 | own<br>misery<br>pretty<br>age<br>weapon<br>prevent<br>false<br>cram<br>amount<br>merit |  
+| bip_39_word_new_br_11 | own<br>misery<br>pretty<br>age<br>weapon<br>prevent<br>false<br>cram<br>amount<br>merit<br>shrug |  
+| bip_39_word_new_br_12 | own<br>misery<br>pretty<br>age<br>weapon<br>prevent<br>false<br>cram<br>amount<br>merit<br>shrug<br>avocado |  
+| bip_39_word_new_br_2 | own<br>misery |  
+| bip_39_word_new_br_3 | own<br>misery<br>pretty |  
+| bip_39_word_new_br_4 | own<br>misery<br>pretty<br>age |  
+| bip_39_word_new_br_5 | own<br>misery<br>pretty<br>age<br>weapon |  
+| bip_39_word_new_br_6 | own<br>misery<br>pretty<br>age<br>weapon<br>prevent |  
+| bip_39_word_new_br_7 | own<br>misery<br>pretty<br>age<br>weapon<br>prevent<br>false |  
+| bip_39_word_new_br_8 | own<br>misery<br>pretty<br>age<br>weapon<br>prevent<br>false<br>cram |  
+| bip_39_word_new_br_9 | own<br>misery<br>pretty<br>age<br>weapon<br>prevent<br>false<br>cram<br>amount |  
+| bip_39_word_new_line_1 | own |  
+| bip_39_word_new_line_10 | own
 misery
 pretty
 age
@@ -55,7 +55,7 @@ false
 cram
 amount
 merit |  
-| bip_39_word_new_line11 | own
+| bip_39_word_new_line_11 | own
 misery
 pretty
 age
@@ -66,7 +66,7 @@ cram
 amount
 merit
 shrug |  
-| bip_39_word_new_line12 | own
+| bip_39_word_new_line_12 | own
 misery
 pretty
 age
@@ -78,34 +78,34 @@ amount
 merit
 shrug
 avocado |  
-| bip_39_word_new_line2 | own
+| bip_39_word_new_line_2 | own
 misery |  
-| bip_39_word_new_line3 | own
+| bip_39_word_new_line_3 | own
 misery
 pretty |  
-| bip_39_word_new_line4 | own
+| bip_39_word_new_line_4 | own
 misery
 pretty
 age |  
-| bip_39_word_new_line5 | own
+| bip_39_word_new_line_5 | own
 misery
 pretty
 age
 weapon |  
-| bip_39_word_new_line6 | own
+| bip_39_word_new_line_6 | own
 misery
 pretty
 age
 weapon
 prevent |  
-| bip_39_word_new_line7 | own
+| bip_39_word_new_line_7 | own
 misery
 pretty
 age
 weapon
 prevent
 false |  
-| bip_39_word_new_line8 | own
+| bip_39_word_new_line_8 | own
 misery
 pretty
 age
@@ -113,7 +113,7 @@ weapon
 prevent
 false
 cram |  
-| bip_39_word_new_line9 | own
+| bip_39_word_new_line_9 | own
 misery
 pretty
 age

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | join |  
-| bip_39_word_new_br10 | join<br>cactus<br>level<br>flip<br>mouse<br>observe<br>atom<br>box<br>giraffe<br>zoo |  
-| bip_39_word_new_br11 | join<br>cactus<br>level<br>flip<br>mouse<br>observe<br>atom<br>box<br>giraffe<br>zoo<br>wagon |  
-| bip_39_word_new_br12 | join<br>cactus<br>level<br>flip<br>mouse<br>observe<br>atom<br>box<br>giraffe<br>zoo<br>wagon<br>accuse |  
-| bip_39_word_new_br2 | join<br>cactus |  
-| bip_39_word_new_br3 | join<br>cactus<br>level |  
-| bip_39_word_new_br4 | join<br>cactus<br>level<br>flip |  
-| bip_39_word_new_br5 | join<br>cactus<br>level<br>flip<br>mouse |  
-| bip_39_word_new_br6 | join<br>cactus<br>level<br>flip<br>mouse<br>observe |  
-| bip_39_word_new_br7 | join<br>cactus<br>level<br>flip<br>mouse<br>observe<br>atom |  
-| bip_39_word_new_br8 | join<br>cactus<br>level<br>flip<br>mouse<br>observe<br>atom<br>box |  
-| bip_39_word_new_br9 | join<br>cactus<br>level<br>flip<br>mouse<br>observe<br>atom<br>box<br>giraffe |  
-| bip_39_word_new_line1 | join |  
-| bip_39_word_new_line10 | join
+| bip_39_word_new_br_1 | join |  
+| bip_39_word_new_br_10 | join<br>cactus<br>level<br>flip<br>mouse<br>observe<br>atom<br>box<br>giraffe<br>zoo |  
+| bip_39_word_new_br_11 | join<br>cactus<br>level<br>flip<br>mouse<br>observe<br>atom<br>box<br>giraffe<br>zoo<br>wagon |  
+| bip_39_word_new_br_12 | join<br>cactus<br>level<br>flip<br>mouse<br>observe<br>atom<br>box<br>giraffe<br>zoo<br>wagon<br>accuse |  
+| bip_39_word_new_br_2 | join<br>cactus |  
+| bip_39_word_new_br_3 | join<br>cactus<br>level |  
+| bip_39_word_new_br_4 | join<br>cactus<br>level<br>flip |  
+| bip_39_word_new_br_5 | join<br>cactus<br>level<br>flip<br>mouse |  
+| bip_39_word_new_br_6 | join<br>cactus<br>level<br>flip<br>mouse<br>observe |  
+| bip_39_word_new_br_7 | join<br>cactus<br>level<br>flip<br>mouse<br>observe<br>atom |  
+| bip_39_word_new_br_8 | join<br>cactus<br>level<br>flip<br>mouse<br>observe<br>atom<br>box |  
+| bip_39_word_new_br_9 | join<br>cactus<br>level<br>flip<br>mouse<br>observe<br>atom<br>box<br>giraffe |  
+| bip_39_word_new_line_1 | join |  
+| bip_39_word_new_line_10 | join
 cactus
 level
 flip
@@ -55,7 +55,7 @@ atom
 box
 giraffe
 zoo |  
-| bip_39_word_new_line11 | join
+| bip_39_word_new_line_11 | join
 cactus
 level
 flip
@@ -66,7 +66,7 @@ box
 giraffe
 zoo
 wagon |  
-| bip_39_word_new_line12 | join
+| bip_39_word_new_line_12 | join
 cactus
 level
 flip
@@ -78,34 +78,34 @@ giraffe
 zoo
 wagon
 accuse |  
-| bip_39_word_new_line2 | join
+| bip_39_word_new_line_2 | join
 cactus |  
-| bip_39_word_new_line3 | join
+| bip_39_word_new_line_3 | join
 cactus
 level |  
-| bip_39_word_new_line4 | join
+| bip_39_word_new_line_4 | join
 cactus
 level
 flip |  
-| bip_39_word_new_line5 | join
+| bip_39_word_new_line_5 | join
 cactus
 level
 flip
 mouse |  
-| bip_39_word_new_line6 | join
+| bip_39_word_new_line_6 | join
 cactus
 level
 flip
 mouse
 observe |  
-| bip_39_word_new_line7 | join
+| bip_39_word_new_line_7 | join
 cactus
 level
 flip
 mouse
 observe
 atom |  
-| bip_39_word_new_line8 | join
+| bip_39_word_new_line_8 | join
 cactus
 level
 flip
@@ -113,7 +113,7 @@ mouse
 observe
 atom
 box |  
-| bip_39_word_new_line9 | join
+| bip_39_word_new_line_9 | join
 cactus
 level
 flip

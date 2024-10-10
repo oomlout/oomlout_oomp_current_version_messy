@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | media |  
-| bip_39_word_new_br10 | media<br>bronze<br>wrong<br>salon<br>stove<br>nominee<br>since<br>state<br>crater<br>park |  
-| bip_39_word_new_br11 | media<br>bronze<br>wrong<br>salon<br>stove<br>nominee<br>since<br>state<br>crater<br>park<br>romance |  
-| bip_39_word_new_br12 | media<br>bronze<br>wrong<br>salon<br>stove<br>nominee<br>since<br>state<br>crater<br>park<br>romance<br>attitude |  
-| bip_39_word_new_br2 | media<br>bronze |  
-| bip_39_word_new_br3 | media<br>bronze<br>wrong |  
-| bip_39_word_new_br4 | media<br>bronze<br>wrong<br>salon |  
-| bip_39_word_new_br5 | media<br>bronze<br>wrong<br>salon<br>stove |  
-| bip_39_word_new_br6 | media<br>bronze<br>wrong<br>salon<br>stove<br>nominee |  
-| bip_39_word_new_br7 | media<br>bronze<br>wrong<br>salon<br>stove<br>nominee<br>since |  
-| bip_39_word_new_br8 | media<br>bronze<br>wrong<br>salon<br>stove<br>nominee<br>since<br>state |  
-| bip_39_word_new_br9 | media<br>bronze<br>wrong<br>salon<br>stove<br>nominee<br>since<br>state<br>crater |  
-| bip_39_word_new_line1 | media |  
-| bip_39_word_new_line10 | media
+| bip_39_word_new_br_1 | media |  
+| bip_39_word_new_br_10 | media<br>bronze<br>wrong<br>salon<br>stove<br>nominee<br>since<br>state<br>crater<br>park |  
+| bip_39_word_new_br_11 | media<br>bronze<br>wrong<br>salon<br>stove<br>nominee<br>since<br>state<br>crater<br>park<br>romance |  
+| bip_39_word_new_br_12 | media<br>bronze<br>wrong<br>salon<br>stove<br>nominee<br>since<br>state<br>crater<br>park<br>romance<br>attitude |  
+| bip_39_word_new_br_2 | media<br>bronze |  
+| bip_39_word_new_br_3 | media<br>bronze<br>wrong |  
+| bip_39_word_new_br_4 | media<br>bronze<br>wrong<br>salon |  
+| bip_39_word_new_br_5 | media<br>bronze<br>wrong<br>salon<br>stove |  
+| bip_39_word_new_br_6 | media<br>bronze<br>wrong<br>salon<br>stove<br>nominee |  
+| bip_39_word_new_br_7 | media<br>bronze<br>wrong<br>salon<br>stove<br>nominee<br>since |  
+| bip_39_word_new_br_8 | media<br>bronze<br>wrong<br>salon<br>stove<br>nominee<br>since<br>state |  
+| bip_39_word_new_br_9 | media<br>bronze<br>wrong<br>salon<br>stove<br>nominee<br>since<br>state<br>crater |  
+| bip_39_word_new_line_1 | media |  
+| bip_39_word_new_line_10 | media
 bronze
 wrong
 salon
@@ -55,7 +55,7 @@ since
 state
 crater
 park |  
-| bip_39_word_new_line11 | media
+| bip_39_word_new_line_11 | media
 bronze
 wrong
 salon
@@ -66,7 +66,7 @@ state
 crater
 park
 romance |  
-| bip_39_word_new_line12 | media
+| bip_39_word_new_line_12 | media
 bronze
 wrong
 salon
@@ -78,34 +78,34 @@ crater
 park
 romance
 attitude |  
-| bip_39_word_new_line2 | media
+| bip_39_word_new_line_2 | media
 bronze |  
-| bip_39_word_new_line3 | media
+| bip_39_word_new_line_3 | media
 bronze
 wrong |  
-| bip_39_word_new_line4 | media
+| bip_39_word_new_line_4 | media
 bronze
 wrong
 salon |  
-| bip_39_word_new_line5 | media
+| bip_39_word_new_line_5 | media
 bronze
 wrong
 salon
 stove |  
-| bip_39_word_new_line6 | media
+| bip_39_word_new_line_6 | media
 bronze
 wrong
 salon
 stove
 nominee |  
-| bip_39_word_new_line7 | media
+| bip_39_word_new_line_7 | media
 bronze
 wrong
 salon
 stove
 nominee
 since |  
-| bip_39_word_new_line8 | media
+| bip_39_word_new_line_8 | media
 bronze
 wrong
 salon
@@ -113,7 +113,7 @@ stove
 nominee
 since
 state |  
-| bip_39_word_new_line9 | media
+| bip_39_word_new_line_9 | media
 bronze
 wrong
 salon

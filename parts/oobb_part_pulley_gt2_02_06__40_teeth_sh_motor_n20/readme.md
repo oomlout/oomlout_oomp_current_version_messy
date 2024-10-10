@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | heavy |  
-| bip_39_word_new_br10 | heavy<br>weekend<br>december<br>egg<br>nature<br>develop<br>rug<br>tag<br>fish<br>slush |  
-| bip_39_word_new_br11 | heavy<br>weekend<br>december<br>egg<br>nature<br>develop<br>rug<br>tag<br>fish<br>slush<br>adjust |  
-| bip_39_word_new_br12 | heavy<br>weekend<br>december<br>egg<br>nature<br>develop<br>rug<br>tag<br>fish<br>slush<br>adjust<br>all |  
-| bip_39_word_new_br2 | heavy<br>weekend |  
-| bip_39_word_new_br3 | heavy<br>weekend<br>december |  
-| bip_39_word_new_br4 | heavy<br>weekend<br>december<br>egg |  
-| bip_39_word_new_br5 | heavy<br>weekend<br>december<br>egg<br>nature |  
-| bip_39_word_new_br6 | heavy<br>weekend<br>december<br>egg<br>nature<br>develop |  
-| bip_39_word_new_br7 | heavy<br>weekend<br>december<br>egg<br>nature<br>develop<br>rug |  
-| bip_39_word_new_br8 | heavy<br>weekend<br>december<br>egg<br>nature<br>develop<br>rug<br>tag |  
-| bip_39_word_new_br9 | heavy<br>weekend<br>december<br>egg<br>nature<br>develop<br>rug<br>tag<br>fish |  
-| bip_39_word_new_line1 | heavy |  
-| bip_39_word_new_line10 | heavy
+| bip_39_word_new_br_1 | heavy |  
+| bip_39_word_new_br_10 | heavy<br>weekend<br>december<br>egg<br>nature<br>develop<br>rug<br>tag<br>fish<br>slush |  
+| bip_39_word_new_br_11 | heavy<br>weekend<br>december<br>egg<br>nature<br>develop<br>rug<br>tag<br>fish<br>slush<br>adjust |  
+| bip_39_word_new_br_12 | heavy<br>weekend<br>december<br>egg<br>nature<br>develop<br>rug<br>tag<br>fish<br>slush<br>adjust<br>all |  
+| bip_39_word_new_br_2 | heavy<br>weekend |  
+| bip_39_word_new_br_3 | heavy<br>weekend<br>december |  
+| bip_39_word_new_br_4 | heavy<br>weekend<br>december<br>egg |  
+| bip_39_word_new_br_5 | heavy<br>weekend<br>december<br>egg<br>nature |  
+| bip_39_word_new_br_6 | heavy<br>weekend<br>december<br>egg<br>nature<br>develop |  
+| bip_39_word_new_br_7 | heavy<br>weekend<br>december<br>egg<br>nature<br>develop<br>rug |  
+| bip_39_word_new_br_8 | heavy<br>weekend<br>december<br>egg<br>nature<br>develop<br>rug<br>tag |  
+| bip_39_word_new_br_9 | heavy<br>weekend<br>december<br>egg<br>nature<br>develop<br>rug<br>tag<br>fish |  
+| bip_39_word_new_line_1 | heavy |  
+| bip_39_word_new_line_10 | heavy
 weekend
 december
 egg
@@ -55,7 +55,7 @@ rug
 tag
 fish
 slush |  
-| bip_39_word_new_line11 | heavy
+| bip_39_word_new_line_11 | heavy
 weekend
 december
 egg
@@ -66,7 +66,7 @@ tag
 fish
 slush
 adjust |  
-| bip_39_word_new_line12 | heavy
+| bip_39_word_new_line_12 | heavy
 weekend
 december
 egg
@@ -78,34 +78,34 @@ fish
 slush
 adjust
 all |  
-| bip_39_word_new_line2 | heavy
+| bip_39_word_new_line_2 | heavy
 weekend |  
-| bip_39_word_new_line3 | heavy
+| bip_39_word_new_line_3 | heavy
 weekend
 december |  
-| bip_39_word_new_line4 | heavy
+| bip_39_word_new_line_4 | heavy
 weekend
 december
 egg |  
-| bip_39_word_new_line5 | heavy
+| bip_39_word_new_line_5 | heavy
 weekend
 december
 egg
 nature |  
-| bip_39_word_new_line6 | heavy
+| bip_39_word_new_line_6 | heavy
 weekend
 december
 egg
 nature
 develop |  
-| bip_39_word_new_line7 | heavy
+| bip_39_word_new_line_7 | heavy
 weekend
 december
 egg
 nature
 develop
 rug |  
-| bip_39_word_new_line8 | heavy
+| bip_39_word_new_line_8 | heavy
 weekend
 december
 egg
@@ -113,7 +113,7 @@ nature
 develop
 rug
 tag |  
-| bip_39_word_new_line9 | heavy
+| bip_39_word_new_line_9 | heavy
 weekend
 december
 egg

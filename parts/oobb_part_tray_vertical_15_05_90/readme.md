@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | team |  
-| bip_39_word_new_br10 | team<br>couple<br>galaxy<br>wave<br>squeeze<br>bitter<br>below<br>rain<br>carry<br>any |  
-| bip_39_word_new_br11 | team<br>couple<br>galaxy<br>wave<br>squeeze<br>bitter<br>below<br>rain<br>carry<br>any<br>category |  
-| bip_39_word_new_br12 | team<br>couple<br>galaxy<br>wave<br>squeeze<br>bitter<br>below<br>rain<br>carry<br>any<br>category<br>account |  
-| bip_39_word_new_br2 | team<br>couple |  
-| bip_39_word_new_br3 | team<br>couple<br>galaxy |  
-| bip_39_word_new_br4 | team<br>couple<br>galaxy<br>wave |  
-| bip_39_word_new_br5 | team<br>couple<br>galaxy<br>wave<br>squeeze |  
-| bip_39_word_new_br6 | team<br>couple<br>galaxy<br>wave<br>squeeze<br>bitter |  
-| bip_39_word_new_br7 | team<br>couple<br>galaxy<br>wave<br>squeeze<br>bitter<br>below |  
-| bip_39_word_new_br8 | team<br>couple<br>galaxy<br>wave<br>squeeze<br>bitter<br>below<br>rain |  
-| bip_39_word_new_br9 | team<br>couple<br>galaxy<br>wave<br>squeeze<br>bitter<br>below<br>rain<br>carry |  
-| bip_39_word_new_line1 | team |  
-| bip_39_word_new_line10 | team
+| bip_39_word_new_br_1 | team |  
+| bip_39_word_new_br_10 | team<br>couple<br>galaxy<br>wave<br>squeeze<br>bitter<br>below<br>rain<br>carry<br>any |  
+| bip_39_word_new_br_11 | team<br>couple<br>galaxy<br>wave<br>squeeze<br>bitter<br>below<br>rain<br>carry<br>any<br>category |  
+| bip_39_word_new_br_12 | team<br>couple<br>galaxy<br>wave<br>squeeze<br>bitter<br>below<br>rain<br>carry<br>any<br>category<br>account |  
+| bip_39_word_new_br_2 | team<br>couple |  
+| bip_39_word_new_br_3 | team<br>couple<br>galaxy |  
+| bip_39_word_new_br_4 | team<br>couple<br>galaxy<br>wave |  
+| bip_39_word_new_br_5 | team<br>couple<br>galaxy<br>wave<br>squeeze |  
+| bip_39_word_new_br_6 | team<br>couple<br>galaxy<br>wave<br>squeeze<br>bitter |  
+| bip_39_word_new_br_7 | team<br>couple<br>galaxy<br>wave<br>squeeze<br>bitter<br>below |  
+| bip_39_word_new_br_8 | team<br>couple<br>galaxy<br>wave<br>squeeze<br>bitter<br>below<br>rain |  
+| bip_39_word_new_br_9 | team<br>couple<br>galaxy<br>wave<br>squeeze<br>bitter<br>below<br>rain<br>carry |  
+| bip_39_word_new_line_1 | team |  
+| bip_39_word_new_line_10 | team
 couple
 galaxy
 wave
@@ -55,7 +55,7 @@ below
 rain
 carry
 any |  
-| bip_39_word_new_line11 | team
+| bip_39_word_new_line_11 | team
 couple
 galaxy
 wave
@@ -66,7 +66,7 @@ rain
 carry
 any
 category |  
-| bip_39_word_new_line12 | team
+| bip_39_word_new_line_12 | team
 couple
 galaxy
 wave
@@ -78,34 +78,34 @@ carry
 any
 category
 account |  
-| bip_39_word_new_line2 | team
+| bip_39_word_new_line_2 | team
 couple |  
-| bip_39_word_new_line3 | team
+| bip_39_word_new_line_3 | team
 couple
 galaxy |  
-| bip_39_word_new_line4 | team
+| bip_39_word_new_line_4 | team
 couple
 galaxy
 wave |  
-| bip_39_word_new_line5 | team
+| bip_39_word_new_line_5 | team
 couple
 galaxy
 wave
 squeeze |  
-| bip_39_word_new_line6 | team
+| bip_39_word_new_line_6 | team
 couple
 galaxy
 wave
 squeeze
 bitter |  
-| bip_39_word_new_line7 | team
+| bip_39_word_new_line_7 | team
 couple
 galaxy
 wave
 squeeze
 bitter
 below |  
-| bip_39_word_new_line8 | team
+| bip_39_word_new_line_8 | team
 couple
 galaxy
 wave
@@ -113,7 +113,7 @@ squeeze
 bitter
 below
 rain |  
-| bip_39_word_new_line9 | team
+| bip_39_word_new_line_9 | team
 couple
 galaxy
 wave

@@ -1,17 +1,17 @@
-bip_39_word_new_br1: bus
-bip_39_word_new_br10: bus<br>stock<br>square<br>walk<br>elbow<br>soup<br>river<br>tired<br>salute<br>post
-bip_39_word_new_br11: bus<br>stock<br>square<br>walk<br>elbow<br>soup<br>river<br>tired<br>salute<br>post<br>nose
-bip_39_word_new_br12: bus<br>stock<br>square<br>walk<br>elbow<br>soup<br>river<br>tired<br>salute<br>post<br>nose<br>announce
-bip_39_word_new_br2: bus<br>stock
-bip_39_word_new_br3: bus<br>stock<br>square
-bip_39_word_new_br4: bus<br>stock<br>square<br>walk
-bip_39_word_new_br5: bus<br>stock<br>square<br>walk<br>elbow
-bip_39_word_new_br6: bus<br>stock<br>square<br>walk<br>elbow<br>soup
-bip_39_word_new_br7: bus<br>stock<br>square<br>walk<br>elbow<br>soup<br>river
-bip_39_word_new_br8: bus<br>stock<br>square<br>walk<br>elbow<br>soup<br>river<br>tired
-bip_39_word_new_br9: bus<br>stock<br>square<br>walk<br>elbow<br>soup<br>river<br>tired<br>salute
-bip_39_word_new_line1: bus
-bip_39_word_new_line10: 'bus
+bip_39_word_new_br_1: bus
+bip_39_word_new_br_10: bus<br>stock<br>square<br>walk<br>elbow<br>soup<br>river<br>tired<br>salute<br>post
+bip_39_word_new_br_11: bus<br>stock<br>square<br>walk<br>elbow<br>soup<br>river<br>tired<br>salute<br>post<br>nose
+bip_39_word_new_br_12: bus<br>stock<br>square<br>walk<br>elbow<br>soup<br>river<br>tired<br>salute<br>post<br>nose<br>announce
+bip_39_word_new_br_2: bus<br>stock
+bip_39_word_new_br_3: bus<br>stock<br>square
+bip_39_word_new_br_4: bus<br>stock<br>square<br>walk
+bip_39_word_new_br_5: bus<br>stock<br>square<br>walk<br>elbow
+bip_39_word_new_br_6: bus<br>stock<br>square<br>walk<br>elbow<br>soup
+bip_39_word_new_br_7: bus<br>stock<br>square<br>walk<br>elbow<br>soup<br>river
+bip_39_word_new_br_8: bus<br>stock<br>square<br>walk<br>elbow<br>soup<br>river<br>tired
+bip_39_word_new_br_9: bus<br>stock<br>square<br>walk<br>elbow<br>soup<br>river<br>tired<br>salute
+bip_39_word_new_line_1: bus
+bip_39_word_new_line_10: 'bus
 
   stock
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'bus
   salute
 
   post'
-bip_39_word_new_line11: 'bus
+bip_39_word_new_line_11: 'bus
 
   stock
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'bus
   post
 
   nose'
-bip_39_word_new_line12: 'bus
+bip_39_word_new_line_12: 'bus
 
   stock
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'bus
   nose
 
   announce'
-bip_39_word_new_line2: 'bus
+bip_39_word_new_line_2: 'bus
 
   stock'
-bip_39_word_new_line3: 'bus
+bip_39_word_new_line_3: 'bus
 
   stock
 
   square'
-bip_39_word_new_line4: 'bus
+bip_39_word_new_line_4: 'bus
 
   stock
 
   square
 
   walk'
-bip_39_word_new_line5: 'bus
+bip_39_word_new_line_5: 'bus
 
   stock
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'bus
   walk
 
   elbow'
-bip_39_word_new_line6: 'bus
+bip_39_word_new_line_6: 'bus
 
   stock
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'bus
   elbow
 
   soup'
-bip_39_word_new_line7: 'bus
+bip_39_word_new_line_7: 'bus
 
   stock
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'bus
   soup
 
   river'
-bip_39_word_new_line8: 'bus
+bip_39_word_new_line_8: 'bus
 
   stock
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'bus
   river
 
   tired'
-bip_39_word_new_line9: 'bus
+bip_39_word_new_line_9: 'bus
 
   stock
 

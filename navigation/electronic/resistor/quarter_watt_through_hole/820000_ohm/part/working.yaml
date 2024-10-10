@@ -1,17 +1,17 @@
-bip_39_word_new_br1: material
-bip_39_word_new_br10: material<br>miracle<br>shrimp<br>help<br>boil<br>praise<br>cause<br>swallow<br>way<br>culture
-bip_39_word_new_br11: material<br>miracle<br>shrimp<br>help<br>boil<br>praise<br>cause<br>swallow<br>way<br>culture<br>shoot
-bip_39_word_new_br12: material<br>miracle<br>shrimp<br>help<br>boil<br>praise<br>cause<br>swallow<br>way<br>culture<br>shoot<br>ahead
-bip_39_word_new_br2: material<br>miracle
-bip_39_word_new_br3: material<br>miracle<br>shrimp
-bip_39_word_new_br4: material<br>miracle<br>shrimp<br>help
-bip_39_word_new_br5: material<br>miracle<br>shrimp<br>help<br>boil
-bip_39_word_new_br6: material<br>miracle<br>shrimp<br>help<br>boil<br>praise
-bip_39_word_new_br7: material<br>miracle<br>shrimp<br>help<br>boil<br>praise<br>cause
-bip_39_word_new_br8: material<br>miracle<br>shrimp<br>help<br>boil<br>praise<br>cause<br>swallow
-bip_39_word_new_br9: material<br>miracle<br>shrimp<br>help<br>boil<br>praise<br>cause<br>swallow<br>way
-bip_39_word_new_line1: material
-bip_39_word_new_line10: 'material
+bip_39_word_new_br_1: material
+bip_39_word_new_br_10: material<br>miracle<br>shrimp<br>help<br>boil<br>praise<br>cause<br>swallow<br>way<br>culture
+bip_39_word_new_br_11: material<br>miracle<br>shrimp<br>help<br>boil<br>praise<br>cause<br>swallow<br>way<br>culture<br>shoot
+bip_39_word_new_br_12: material<br>miracle<br>shrimp<br>help<br>boil<br>praise<br>cause<br>swallow<br>way<br>culture<br>shoot<br>ahead
+bip_39_word_new_br_2: material<br>miracle
+bip_39_word_new_br_3: material<br>miracle<br>shrimp
+bip_39_word_new_br_4: material<br>miracle<br>shrimp<br>help
+bip_39_word_new_br_5: material<br>miracle<br>shrimp<br>help<br>boil
+bip_39_word_new_br_6: material<br>miracle<br>shrimp<br>help<br>boil<br>praise
+bip_39_word_new_br_7: material<br>miracle<br>shrimp<br>help<br>boil<br>praise<br>cause
+bip_39_word_new_br_8: material<br>miracle<br>shrimp<br>help<br>boil<br>praise<br>cause<br>swallow
+bip_39_word_new_br_9: material<br>miracle<br>shrimp<br>help<br>boil<br>praise<br>cause<br>swallow<br>way
+bip_39_word_new_line_1: material
+bip_39_word_new_line_10: 'material
 
   miracle
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'material
   way
 
   culture'
-bip_39_word_new_line11: 'material
+bip_39_word_new_line_11: 'material
 
   miracle
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'material
   culture
 
   shoot'
-bip_39_word_new_line12: 'material
+bip_39_word_new_line_12: 'material
 
   miracle
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'material
   shoot
 
   ahead'
-bip_39_word_new_line2: 'material
+bip_39_word_new_line_2: 'material
 
   miracle'
-bip_39_word_new_line3: 'material
+bip_39_word_new_line_3: 'material
 
   miracle
 
   shrimp'
-bip_39_word_new_line4: 'material
+bip_39_word_new_line_4: 'material
 
   miracle
 
   shrimp
 
   help'
-bip_39_word_new_line5: 'material
+bip_39_word_new_line_5: 'material
 
   miracle
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'material
   help
 
   boil'
-bip_39_word_new_line6: 'material
+bip_39_word_new_line_6: 'material
 
   miracle
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'material
   boil
 
   praise'
-bip_39_word_new_line7: 'material
+bip_39_word_new_line_7: 'material
 
   miracle
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'material
   praise
 
   cause'
-bip_39_word_new_line8: 'material
+bip_39_word_new_line_8: 'material
 
   miracle
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'material
   cause
 
   swallow'
-bip_39_word_new_line9: 'material
+bip_39_word_new_line_9: 'material
 
   miracle
 

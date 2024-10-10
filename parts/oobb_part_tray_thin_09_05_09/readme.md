@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | crouch |  
-| bip_39_word_new_br10 | crouch<br>grass<br>life<br>interest<br>beauty<br>response<br>prosper<br>hamster<br>equal<br>blur |  
-| bip_39_word_new_br11 | crouch<br>grass<br>life<br>interest<br>beauty<br>response<br>prosper<br>hamster<br>equal<br>blur<br>fiber |  
-| bip_39_word_new_br12 | crouch<br>grass<br>life<br>interest<br>beauty<br>response<br>prosper<br>hamster<br>equal<br>blur<br>fiber<br>argue |  
-| bip_39_word_new_br2 | crouch<br>grass |  
-| bip_39_word_new_br3 | crouch<br>grass<br>life |  
-| bip_39_word_new_br4 | crouch<br>grass<br>life<br>interest |  
-| bip_39_word_new_br5 | crouch<br>grass<br>life<br>interest<br>beauty |  
-| bip_39_word_new_br6 | crouch<br>grass<br>life<br>interest<br>beauty<br>response |  
-| bip_39_word_new_br7 | crouch<br>grass<br>life<br>interest<br>beauty<br>response<br>prosper |  
-| bip_39_word_new_br8 | crouch<br>grass<br>life<br>interest<br>beauty<br>response<br>prosper<br>hamster |  
-| bip_39_word_new_br9 | crouch<br>grass<br>life<br>interest<br>beauty<br>response<br>prosper<br>hamster<br>equal |  
-| bip_39_word_new_line1 | crouch |  
-| bip_39_word_new_line10 | crouch
+| bip_39_word_new_br_1 | crouch |  
+| bip_39_word_new_br_10 | crouch<br>grass<br>life<br>interest<br>beauty<br>response<br>prosper<br>hamster<br>equal<br>blur |  
+| bip_39_word_new_br_11 | crouch<br>grass<br>life<br>interest<br>beauty<br>response<br>prosper<br>hamster<br>equal<br>blur<br>fiber |  
+| bip_39_word_new_br_12 | crouch<br>grass<br>life<br>interest<br>beauty<br>response<br>prosper<br>hamster<br>equal<br>blur<br>fiber<br>argue |  
+| bip_39_word_new_br_2 | crouch<br>grass |  
+| bip_39_word_new_br_3 | crouch<br>grass<br>life |  
+| bip_39_word_new_br_4 | crouch<br>grass<br>life<br>interest |  
+| bip_39_word_new_br_5 | crouch<br>grass<br>life<br>interest<br>beauty |  
+| bip_39_word_new_br_6 | crouch<br>grass<br>life<br>interest<br>beauty<br>response |  
+| bip_39_word_new_br_7 | crouch<br>grass<br>life<br>interest<br>beauty<br>response<br>prosper |  
+| bip_39_word_new_br_8 | crouch<br>grass<br>life<br>interest<br>beauty<br>response<br>prosper<br>hamster |  
+| bip_39_word_new_br_9 | crouch<br>grass<br>life<br>interest<br>beauty<br>response<br>prosper<br>hamster<br>equal |  
+| bip_39_word_new_line_1 | crouch |  
+| bip_39_word_new_line_10 | crouch
 grass
 life
 interest
@@ -55,7 +55,7 @@ prosper
 hamster
 equal
 blur |  
-| bip_39_word_new_line11 | crouch
+| bip_39_word_new_line_11 | crouch
 grass
 life
 interest
@@ -66,7 +66,7 @@ hamster
 equal
 blur
 fiber |  
-| bip_39_word_new_line12 | crouch
+| bip_39_word_new_line_12 | crouch
 grass
 life
 interest
@@ -78,34 +78,34 @@ equal
 blur
 fiber
 argue |  
-| bip_39_word_new_line2 | crouch
+| bip_39_word_new_line_2 | crouch
 grass |  
-| bip_39_word_new_line3 | crouch
+| bip_39_word_new_line_3 | crouch
 grass
 life |  
-| bip_39_word_new_line4 | crouch
+| bip_39_word_new_line_4 | crouch
 grass
 life
 interest |  
-| bip_39_word_new_line5 | crouch
+| bip_39_word_new_line_5 | crouch
 grass
 life
 interest
 beauty |  
-| bip_39_word_new_line6 | crouch
+| bip_39_word_new_line_6 | crouch
 grass
 life
 interest
 beauty
 response |  
-| bip_39_word_new_line7 | crouch
+| bip_39_word_new_line_7 | crouch
 grass
 life
 interest
 beauty
 response
 prosper |  
-| bip_39_word_new_line8 | crouch
+| bip_39_word_new_line_8 | crouch
 grass
 life
 interest
@@ -113,7 +113,7 @@ beauty
 response
 prosper
 hamster |  
-| bip_39_word_new_line9 | crouch
+| bip_39_word_new_line_9 | crouch
 grass
 life
 interest

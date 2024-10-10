@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ignore |  
-| bip_39_word_new_br10 | ignore<br>truly<br>wide<br>panda<br>obvious<br>pipe<br>crime<br>trade<br>run<br>swing |  
-| bip_39_word_new_br11 | ignore<br>truly<br>wide<br>panda<br>obvious<br>pipe<br>crime<br>trade<br>run<br>swing<br>skull |  
-| bip_39_word_new_br12 | ignore<br>truly<br>wide<br>panda<br>obvious<br>pipe<br>crime<br>trade<br>run<br>swing<br>skull<br>addict |  
-| bip_39_word_new_br2 | ignore<br>truly |  
-| bip_39_word_new_br3 | ignore<br>truly<br>wide |  
-| bip_39_word_new_br4 | ignore<br>truly<br>wide<br>panda |  
-| bip_39_word_new_br5 | ignore<br>truly<br>wide<br>panda<br>obvious |  
-| bip_39_word_new_br6 | ignore<br>truly<br>wide<br>panda<br>obvious<br>pipe |  
-| bip_39_word_new_br7 | ignore<br>truly<br>wide<br>panda<br>obvious<br>pipe<br>crime |  
-| bip_39_word_new_br8 | ignore<br>truly<br>wide<br>panda<br>obvious<br>pipe<br>crime<br>trade |  
-| bip_39_word_new_br9 | ignore<br>truly<br>wide<br>panda<br>obvious<br>pipe<br>crime<br>trade<br>run |  
-| bip_39_word_new_line1 | ignore |  
-| bip_39_word_new_line10 | ignore
+| bip_39_word_new_br_1 | ignore |  
+| bip_39_word_new_br_10 | ignore<br>truly<br>wide<br>panda<br>obvious<br>pipe<br>crime<br>trade<br>run<br>swing |  
+| bip_39_word_new_br_11 | ignore<br>truly<br>wide<br>panda<br>obvious<br>pipe<br>crime<br>trade<br>run<br>swing<br>skull |  
+| bip_39_word_new_br_12 | ignore<br>truly<br>wide<br>panda<br>obvious<br>pipe<br>crime<br>trade<br>run<br>swing<br>skull<br>addict |  
+| bip_39_word_new_br_2 | ignore<br>truly |  
+| bip_39_word_new_br_3 | ignore<br>truly<br>wide |  
+| bip_39_word_new_br_4 | ignore<br>truly<br>wide<br>panda |  
+| bip_39_word_new_br_5 | ignore<br>truly<br>wide<br>panda<br>obvious |  
+| bip_39_word_new_br_6 | ignore<br>truly<br>wide<br>panda<br>obvious<br>pipe |  
+| bip_39_word_new_br_7 | ignore<br>truly<br>wide<br>panda<br>obvious<br>pipe<br>crime |  
+| bip_39_word_new_br_8 | ignore<br>truly<br>wide<br>panda<br>obvious<br>pipe<br>crime<br>trade |  
+| bip_39_word_new_br_9 | ignore<br>truly<br>wide<br>panda<br>obvious<br>pipe<br>crime<br>trade<br>run |  
+| bip_39_word_new_line_1 | ignore |  
+| bip_39_word_new_line_10 | ignore
 truly
 wide
 panda
@@ -55,7 +55,7 @@ crime
 trade
 run
 swing |  
-| bip_39_word_new_line11 | ignore
+| bip_39_word_new_line_11 | ignore
 truly
 wide
 panda
@@ -66,7 +66,7 @@ trade
 run
 swing
 skull |  
-| bip_39_word_new_line12 | ignore
+| bip_39_word_new_line_12 | ignore
 truly
 wide
 panda
@@ -78,34 +78,34 @@ run
 swing
 skull
 addict |  
-| bip_39_word_new_line2 | ignore
+| bip_39_word_new_line_2 | ignore
 truly |  
-| bip_39_word_new_line3 | ignore
+| bip_39_word_new_line_3 | ignore
 truly
 wide |  
-| bip_39_word_new_line4 | ignore
+| bip_39_word_new_line_4 | ignore
 truly
 wide
 panda |  
-| bip_39_word_new_line5 | ignore
+| bip_39_word_new_line_5 | ignore
 truly
 wide
 panda
 obvious |  
-| bip_39_word_new_line6 | ignore
+| bip_39_word_new_line_6 | ignore
 truly
 wide
 panda
 obvious
 pipe |  
-| bip_39_word_new_line7 | ignore
+| bip_39_word_new_line_7 | ignore
 truly
 wide
 panda
 obvious
 pipe
 crime |  
-| bip_39_word_new_line8 | ignore
+| bip_39_word_new_line_8 | ignore
 truly
 wide
 panda
@@ -113,7 +113,7 @@ obvious
 pipe
 crime
 trade |  
-| bip_39_word_new_line9 | ignore
+| bip_39_word_new_line_9 | ignore
 truly
 wide
 panda

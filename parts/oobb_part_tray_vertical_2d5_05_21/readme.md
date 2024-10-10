@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | much |  
-| bip_39_word_new_br10 | much<br>churn<br>local<br>social<br>trade<br>awesome<br>symbol<br>during<br>shield<br>slab |  
-| bip_39_word_new_br11 | much<br>churn<br>local<br>social<br>trade<br>awesome<br>symbol<br>during<br>shield<br>slab<br>rather |  
-| bip_39_word_new_br12 | much<br>churn<br>local<br>social<br>trade<br>awesome<br>symbol<br>during<br>shield<br>slab<br>rather<br>asset |  
-| bip_39_word_new_br2 | much<br>churn |  
-| bip_39_word_new_br3 | much<br>churn<br>local |  
-| bip_39_word_new_br4 | much<br>churn<br>local<br>social |  
-| bip_39_word_new_br5 | much<br>churn<br>local<br>social<br>trade |  
-| bip_39_word_new_br6 | much<br>churn<br>local<br>social<br>trade<br>awesome |  
-| bip_39_word_new_br7 | much<br>churn<br>local<br>social<br>trade<br>awesome<br>symbol |  
-| bip_39_word_new_br8 | much<br>churn<br>local<br>social<br>trade<br>awesome<br>symbol<br>during |  
-| bip_39_word_new_br9 | much<br>churn<br>local<br>social<br>trade<br>awesome<br>symbol<br>during<br>shield |  
-| bip_39_word_new_line1 | much |  
-| bip_39_word_new_line10 | much
+| bip_39_word_new_br_1 | much |  
+| bip_39_word_new_br_10 | much<br>churn<br>local<br>social<br>trade<br>awesome<br>symbol<br>during<br>shield<br>slab |  
+| bip_39_word_new_br_11 | much<br>churn<br>local<br>social<br>trade<br>awesome<br>symbol<br>during<br>shield<br>slab<br>rather |  
+| bip_39_word_new_br_12 | much<br>churn<br>local<br>social<br>trade<br>awesome<br>symbol<br>during<br>shield<br>slab<br>rather<br>asset |  
+| bip_39_word_new_br_2 | much<br>churn |  
+| bip_39_word_new_br_3 | much<br>churn<br>local |  
+| bip_39_word_new_br_4 | much<br>churn<br>local<br>social |  
+| bip_39_word_new_br_5 | much<br>churn<br>local<br>social<br>trade |  
+| bip_39_word_new_br_6 | much<br>churn<br>local<br>social<br>trade<br>awesome |  
+| bip_39_word_new_br_7 | much<br>churn<br>local<br>social<br>trade<br>awesome<br>symbol |  
+| bip_39_word_new_br_8 | much<br>churn<br>local<br>social<br>trade<br>awesome<br>symbol<br>during |  
+| bip_39_word_new_br_9 | much<br>churn<br>local<br>social<br>trade<br>awesome<br>symbol<br>during<br>shield |  
+| bip_39_word_new_line_1 | much |  
+| bip_39_word_new_line_10 | much
 churn
 local
 social
@@ -55,7 +55,7 @@ symbol
 during
 shield
 slab |  
-| bip_39_word_new_line11 | much
+| bip_39_word_new_line_11 | much
 churn
 local
 social
@@ -66,7 +66,7 @@ during
 shield
 slab
 rather |  
-| bip_39_word_new_line12 | much
+| bip_39_word_new_line_12 | much
 churn
 local
 social
@@ -78,34 +78,34 @@ shield
 slab
 rather
 asset |  
-| bip_39_word_new_line2 | much
+| bip_39_word_new_line_2 | much
 churn |  
-| bip_39_word_new_line3 | much
+| bip_39_word_new_line_3 | much
 churn
 local |  
-| bip_39_word_new_line4 | much
+| bip_39_word_new_line_4 | much
 churn
 local
 social |  
-| bip_39_word_new_line5 | much
+| bip_39_word_new_line_5 | much
 churn
 local
 social
 trade |  
-| bip_39_word_new_line6 | much
+| bip_39_word_new_line_6 | much
 churn
 local
 social
 trade
 awesome |  
-| bip_39_word_new_line7 | much
+| bip_39_word_new_line_7 | much
 churn
 local
 social
 trade
 awesome
 symbol |  
-| bip_39_word_new_line8 | much
+| bip_39_word_new_line_8 | much
 churn
 local
 social
@@ -113,7 +113,7 @@ trade
 awesome
 symbol
 during |  
-| bip_39_word_new_line9 | much
+| bip_39_word_new_line_9 | much
 churn
 local
 social

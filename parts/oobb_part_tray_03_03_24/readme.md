@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | caution |  
-| bip_39_word_new_br10 | caution<br>trash<br>fog<br>lady<br>together<br>salad<br>odor<br>hire<br>equip<br>era |  
-| bip_39_word_new_br11 | caution<br>trash<br>fog<br>lady<br>together<br>salad<br>odor<br>hire<br>equip<br>era<br>dish |  
-| bip_39_word_new_br12 | caution<br>trash<br>fog<br>lady<br>together<br>salad<br>odor<br>hire<br>equip<br>era<br>dish<br>ankle |  
-| bip_39_word_new_br2 | caution<br>trash |  
-| bip_39_word_new_br3 | caution<br>trash<br>fog |  
-| bip_39_word_new_br4 | caution<br>trash<br>fog<br>lady |  
-| bip_39_word_new_br5 | caution<br>trash<br>fog<br>lady<br>together |  
-| bip_39_word_new_br6 | caution<br>trash<br>fog<br>lady<br>together<br>salad |  
-| bip_39_word_new_br7 | caution<br>trash<br>fog<br>lady<br>together<br>salad<br>odor |  
-| bip_39_word_new_br8 | caution<br>trash<br>fog<br>lady<br>together<br>salad<br>odor<br>hire |  
-| bip_39_word_new_br9 | caution<br>trash<br>fog<br>lady<br>together<br>salad<br>odor<br>hire<br>equip |  
-| bip_39_word_new_line1 | caution |  
-| bip_39_word_new_line10 | caution
+| bip_39_word_new_br_1 | caution |  
+| bip_39_word_new_br_10 | caution<br>trash<br>fog<br>lady<br>together<br>salad<br>odor<br>hire<br>equip<br>era |  
+| bip_39_word_new_br_11 | caution<br>trash<br>fog<br>lady<br>together<br>salad<br>odor<br>hire<br>equip<br>era<br>dish |  
+| bip_39_word_new_br_12 | caution<br>trash<br>fog<br>lady<br>together<br>salad<br>odor<br>hire<br>equip<br>era<br>dish<br>ankle |  
+| bip_39_word_new_br_2 | caution<br>trash |  
+| bip_39_word_new_br_3 | caution<br>trash<br>fog |  
+| bip_39_word_new_br_4 | caution<br>trash<br>fog<br>lady |  
+| bip_39_word_new_br_5 | caution<br>trash<br>fog<br>lady<br>together |  
+| bip_39_word_new_br_6 | caution<br>trash<br>fog<br>lady<br>together<br>salad |  
+| bip_39_word_new_br_7 | caution<br>trash<br>fog<br>lady<br>together<br>salad<br>odor |  
+| bip_39_word_new_br_8 | caution<br>trash<br>fog<br>lady<br>together<br>salad<br>odor<br>hire |  
+| bip_39_word_new_br_9 | caution<br>trash<br>fog<br>lady<br>together<br>salad<br>odor<br>hire<br>equip |  
+| bip_39_word_new_line_1 | caution |  
+| bip_39_word_new_line_10 | caution
 trash
 fog
 lady
@@ -55,7 +55,7 @@ odor
 hire
 equip
 era |  
-| bip_39_word_new_line11 | caution
+| bip_39_word_new_line_11 | caution
 trash
 fog
 lady
@@ -66,7 +66,7 @@ hire
 equip
 era
 dish |  
-| bip_39_word_new_line12 | caution
+| bip_39_word_new_line_12 | caution
 trash
 fog
 lady
@@ -78,34 +78,34 @@ equip
 era
 dish
 ankle |  
-| bip_39_word_new_line2 | caution
+| bip_39_word_new_line_2 | caution
 trash |  
-| bip_39_word_new_line3 | caution
+| bip_39_word_new_line_3 | caution
 trash
 fog |  
-| bip_39_word_new_line4 | caution
+| bip_39_word_new_line_4 | caution
 trash
 fog
 lady |  
-| bip_39_word_new_line5 | caution
+| bip_39_word_new_line_5 | caution
 trash
 fog
 lady
 together |  
-| bip_39_word_new_line6 | caution
+| bip_39_word_new_line_6 | caution
 trash
 fog
 lady
 together
 salad |  
-| bip_39_word_new_line7 | caution
+| bip_39_word_new_line_7 | caution
 trash
 fog
 lady
 together
 salad
 odor |  
-| bip_39_word_new_line8 | caution
+| bip_39_word_new_line_8 | caution
 trash
 fog
 lady
@@ -113,7 +113,7 @@ together
 salad
 odor
 hire |  
-| bip_39_word_new_line9 | caution
+| bip_39_word_new_line_9 | caution
 trash
 fog
 lady

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bullet |  
-| bip_39_word_new_br10 | bullet<br>leave<br>midnight<br>toddler<br>clean<br>depart<br>original<br>calm<br>mistake<br>endless |  
-| bip_39_word_new_br11 | bullet<br>leave<br>midnight<br>toddler<br>clean<br>depart<br>original<br>calm<br>mistake<br>endless<br>penalty |  
-| bip_39_word_new_br12 | bullet<br>leave<br>midnight<br>toddler<br>clean<br>depart<br>original<br>calm<br>mistake<br>endless<br>penalty<br>alone |  
-| bip_39_word_new_br2 | bullet<br>leave |  
-| bip_39_word_new_br3 | bullet<br>leave<br>midnight |  
-| bip_39_word_new_br4 | bullet<br>leave<br>midnight<br>toddler |  
-| bip_39_word_new_br5 | bullet<br>leave<br>midnight<br>toddler<br>clean |  
-| bip_39_word_new_br6 | bullet<br>leave<br>midnight<br>toddler<br>clean<br>depart |  
-| bip_39_word_new_br7 | bullet<br>leave<br>midnight<br>toddler<br>clean<br>depart<br>original |  
-| bip_39_word_new_br8 | bullet<br>leave<br>midnight<br>toddler<br>clean<br>depart<br>original<br>calm |  
-| bip_39_word_new_br9 | bullet<br>leave<br>midnight<br>toddler<br>clean<br>depart<br>original<br>calm<br>mistake |  
-| bip_39_word_new_line1 | bullet |  
-| bip_39_word_new_line10 | bullet
+| bip_39_word_new_br_1 | bullet |  
+| bip_39_word_new_br_10 | bullet<br>leave<br>midnight<br>toddler<br>clean<br>depart<br>original<br>calm<br>mistake<br>endless |  
+| bip_39_word_new_br_11 | bullet<br>leave<br>midnight<br>toddler<br>clean<br>depart<br>original<br>calm<br>mistake<br>endless<br>penalty |  
+| bip_39_word_new_br_12 | bullet<br>leave<br>midnight<br>toddler<br>clean<br>depart<br>original<br>calm<br>mistake<br>endless<br>penalty<br>alone |  
+| bip_39_word_new_br_2 | bullet<br>leave |  
+| bip_39_word_new_br_3 | bullet<br>leave<br>midnight |  
+| bip_39_word_new_br_4 | bullet<br>leave<br>midnight<br>toddler |  
+| bip_39_word_new_br_5 | bullet<br>leave<br>midnight<br>toddler<br>clean |  
+| bip_39_word_new_br_6 | bullet<br>leave<br>midnight<br>toddler<br>clean<br>depart |  
+| bip_39_word_new_br_7 | bullet<br>leave<br>midnight<br>toddler<br>clean<br>depart<br>original |  
+| bip_39_word_new_br_8 | bullet<br>leave<br>midnight<br>toddler<br>clean<br>depart<br>original<br>calm |  
+| bip_39_word_new_br_9 | bullet<br>leave<br>midnight<br>toddler<br>clean<br>depart<br>original<br>calm<br>mistake |  
+| bip_39_word_new_line_1 | bullet |  
+| bip_39_word_new_line_10 | bullet
 leave
 midnight
 toddler
@@ -55,7 +55,7 @@ original
 calm
 mistake
 endless |  
-| bip_39_word_new_line11 | bullet
+| bip_39_word_new_line_11 | bullet
 leave
 midnight
 toddler
@@ -66,7 +66,7 @@ calm
 mistake
 endless
 penalty |  
-| bip_39_word_new_line12 | bullet
+| bip_39_word_new_line_12 | bullet
 leave
 midnight
 toddler
@@ -78,34 +78,34 @@ mistake
 endless
 penalty
 alone |  
-| bip_39_word_new_line2 | bullet
+| bip_39_word_new_line_2 | bullet
 leave |  
-| bip_39_word_new_line3 | bullet
+| bip_39_word_new_line_3 | bullet
 leave
 midnight |  
-| bip_39_word_new_line4 | bullet
+| bip_39_word_new_line_4 | bullet
 leave
 midnight
 toddler |  
-| bip_39_word_new_line5 | bullet
+| bip_39_word_new_line_5 | bullet
 leave
 midnight
 toddler
 clean |  
-| bip_39_word_new_line6 | bullet
+| bip_39_word_new_line_6 | bullet
 leave
 midnight
 toddler
 clean
 depart |  
-| bip_39_word_new_line7 | bullet
+| bip_39_word_new_line_7 | bullet
 leave
 midnight
 toddler
 clean
 depart
 original |  
-| bip_39_word_new_line8 | bullet
+| bip_39_word_new_line_8 | bullet
 leave
 midnight
 toddler
@@ -113,7 +113,7 @@ clean
 depart
 original
 calm |  
-| bip_39_word_new_line9 | bullet
+| bip_39_word_new_line_9 | bullet
 leave
 midnight
 toddler

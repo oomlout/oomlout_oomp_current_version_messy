@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bird |  
-| bip_39_word_new_br10 | bird<br>jaguar<br>pause<br>annual<br>intact<br>salon<br>pole<br>come<br>garlic<br>digital |  
-| bip_39_word_new_br11 | bird<br>jaguar<br>pause<br>annual<br>intact<br>salon<br>pole<br>come<br>garlic<br>digital<br>dog |  
-| bip_39_word_new_br12 | bird<br>jaguar<br>pause<br>annual<br>intact<br>salon<br>pole<br>come<br>garlic<br>digital<br>dog<br>always |  
-| bip_39_word_new_br2 | bird<br>jaguar |  
-| bip_39_word_new_br3 | bird<br>jaguar<br>pause |  
-| bip_39_word_new_br4 | bird<br>jaguar<br>pause<br>annual |  
-| bip_39_word_new_br5 | bird<br>jaguar<br>pause<br>annual<br>intact |  
-| bip_39_word_new_br6 | bird<br>jaguar<br>pause<br>annual<br>intact<br>salon |  
-| bip_39_word_new_br7 | bird<br>jaguar<br>pause<br>annual<br>intact<br>salon<br>pole |  
-| bip_39_word_new_br8 | bird<br>jaguar<br>pause<br>annual<br>intact<br>salon<br>pole<br>come |  
-| bip_39_word_new_br9 | bird<br>jaguar<br>pause<br>annual<br>intact<br>salon<br>pole<br>come<br>garlic |  
-| bip_39_word_new_line1 | bird |  
-| bip_39_word_new_line10 | bird
+| bip_39_word_new_br_1 | bird |  
+| bip_39_word_new_br_10 | bird<br>jaguar<br>pause<br>annual<br>intact<br>salon<br>pole<br>come<br>garlic<br>digital |  
+| bip_39_word_new_br_11 | bird<br>jaguar<br>pause<br>annual<br>intact<br>salon<br>pole<br>come<br>garlic<br>digital<br>dog |  
+| bip_39_word_new_br_12 | bird<br>jaguar<br>pause<br>annual<br>intact<br>salon<br>pole<br>come<br>garlic<br>digital<br>dog<br>always |  
+| bip_39_word_new_br_2 | bird<br>jaguar |  
+| bip_39_word_new_br_3 | bird<br>jaguar<br>pause |  
+| bip_39_word_new_br_4 | bird<br>jaguar<br>pause<br>annual |  
+| bip_39_word_new_br_5 | bird<br>jaguar<br>pause<br>annual<br>intact |  
+| bip_39_word_new_br_6 | bird<br>jaguar<br>pause<br>annual<br>intact<br>salon |  
+| bip_39_word_new_br_7 | bird<br>jaguar<br>pause<br>annual<br>intact<br>salon<br>pole |  
+| bip_39_word_new_br_8 | bird<br>jaguar<br>pause<br>annual<br>intact<br>salon<br>pole<br>come |  
+| bip_39_word_new_br_9 | bird<br>jaguar<br>pause<br>annual<br>intact<br>salon<br>pole<br>come<br>garlic |  
+| bip_39_word_new_line_1 | bird |  
+| bip_39_word_new_line_10 | bird
 jaguar
 pause
 annual
@@ -55,7 +55,7 @@ pole
 come
 garlic
 digital |  
-| bip_39_word_new_line11 | bird
+| bip_39_word_new_line_11 | bird
 jaguar
 pause
 annual
@@ -66,7 +66,7 @@ come
 garlic
 digital
 dog |  
-| bip_39_word_new_line12 | bird
+| bip_39_word_new_line_12 | bird
 jaguar
 pause
 annual
@@ -78,34 +78,34 @@ garlic
 digital
 dog
 always |  
-| bip_39_word_new_line2 | bird
+| bip_39_word_new_line_2 | bird
 jaguar |  
-| bip_39_word_new_line3 | bird
+| bip_39_word_new_line_3 | bird
 jaguar
 pause |  
-| bip_39_word_new_line4 | bird
+| bip_39_word_new_line_4 | bird
 jaguar
 pause
 annual |  
-| bip_39_word_new_line5 | bird
+| bip_39_word_new_line_5 | bird
 jaguar
 pause
 annual
 intact |  
-| bip_39_word_new_line6 | bird
+| bip_39_word_new_line_6 | bird
 jaguar
 pause
 annual
 intact
 salon |  
-| bip_39_word_new_line7 | bird
+| bip_39_word_new_line_7 | bird
 jaguar
 pause
 annual
 intact
 salon
 pole |  
-| bip_39_word_new_line8 | bird
+| bip_39_word_new_line_8 | bird
 jaguar
 pause
 annual
@@ -113,7 +113,7 @@ intact
 salon
 pole
 come |  
-| bip_39_word_new_line9 | bird
+| bip_39_word_new_line_9 | bird
 jaguar
 pause
 annual

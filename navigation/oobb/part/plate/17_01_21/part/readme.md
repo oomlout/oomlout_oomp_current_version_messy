@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | twice |  
-| bip_39_word_new_br10 | twice<br>daring<br>step<br>mimic<br>science<br>bench<br>end<br>palace<br>amount<br>shoot |  
-| bip_39_word_new_br11 | twice<br>daring<br>step<br>mimic<br>science<br>bench<br>end<br>palace<br>amount<br>shoot<br>kid |  
-| bip_39_word_new_br12 | twice<br>daring<br>step<br>mimic<br>science<br>bench<br>end<br>palace<br>amount<br>shoot<br>kid<br>approve |  
-| bip_39_word_new_br2 | twice<br>daring |  
-| bip_39_word_new_br3 | twice<br>daring<br>step |  
-| bip_39_word_new_br4 | twice<br>daring<br>step<br>mimic |  
-| bip_39_word_new_br5 | twice<br>daring<br>step<br>mimic<br>science |  
-| bip_39_word_new_br6 | twice<br>daring<br>step<br>mimic<br>science<br>bench |  
-| bip_39_word_new_br7 | twice<br>daring<br>step<br>mimic<br>science<br>bench<br>end |  
-| bip_39_word_new_br8 | twice<br>daring<br>step<br>mimic<br>science<br>bench<br>end<br>palace |  
-| bip_39_word_new_br9 | twice<br>daring<br>step<br>mimic<br>science<br>bench<br>end<br>palace<br>amount |  
-| bip_39_word_new_line1 | twice |  
-| bip_39_word_new_line10 | twice
+| bip_39_word_new_br_1 | twice |  
+| bip_39_word_new_br_10 | twice<br>daring<br>step<br>mimic<br>science<br>bench<br>end<br>palace<br>amount<br>shoot |  
+| bip_39_word_new_br_11 | twice<br>daring<br>step<br>mimic<br>science<br>bench<br>end<br>palace<br>amount<br>shoot<br>kid |  
+| bip_39_word_new_br_12 | twice<br>daring<br>step<br>mimic<br>science<br>bench<br>end<br>palace<br>amount<br>shoot<br>kid<br>approve |  
+| bip_39_word_new_br_2 | twice<br>daring |  
+| bip_39_word_new_br_3 | twice<br>daring<br>step |  
+| bip_39_word_new_br_4 | twice<br>daring<br>step<br>mimic |  
+| bip_39_word_new_br_5 | twice<br>daring<br>step<br>mimic<br>science |  
+| bip_39_word_new_br_6 | twice<br>daring<br>step<br>mimic<br>science<br>bench |  
+| bip_39_word_new_br_7 | twice<br>daring<br>step<br>mimic<br>science<br>bench<br>end |  
+| bip_39_word_new_br_8 | twice<br>daring<br>step<br>mimic<br>science<br>bench<br>end<br>palace |  
+| bip_39_word_new_br_9 | twice<br>daring<br>step<br>mimic<br>science<br>bench<br>end<br>palace<br>amount |  
+| bip_39_word_new_line_1 | twice |  
+| bip_39_word_new_line_10 | twice
 daring
 step
 mimic
@@ -55,7 +55,7 @@ end
 palace
 amount
 shoot |  
-| bip_39_word_new_line11 | twice
+| bip_39_word_new_line_11 | twice
 daring
 step
 mimic
@@ -66,7 +66,7 @@ palace
 amount
 shoot
 kid |  
-| bip_39_word_new_line12 | twice
+| bip_39_word_new_line_12 | twice
 daring
 step
 mimic
@@ -78,34 +78,34 @@ amount
 shoot
 kid
 approve |  
-| bip_39_word_new_line2 | twice
+| bip_39_word_new_line_2 | twice
 daring |  
-| bip_39_word_new_line3 | twice
+| bip_39_word_new_line_3 | twice
 daring
 step |  
-| bip_39_word_new_line4 | twice
+| bip_39_word_new_line_4 | twice
 daring
 step
 mimic |  
-| bip_39_word_new_line5 | twice
+| bip_39_word_new_line_5 | twice
 daring
 step
 mimic
 science |  
-| bip_39_word_new_line6 | twice
+| bip_39_word_new_line_6 | twice
 daring
 step
 mimic
 science
 bench |  
-| bip_39_word_new_line7 | twice
+| bip_39_word_new_line_7 | twice
 daring
 step
 mimic
 science
 bench
 end |  
-| bip_39_word_new_line8 | twice
+| bip_39_word_new_line_8 | twice
 daring
 step
 mimic
@@ -113,7 +113,7 @@ science
 bench
 end
 palace |  
-| bip_39_word_new_line9 | twice
+| bip_39_word_new_line_9 | twice
 daring
 step
 mimic

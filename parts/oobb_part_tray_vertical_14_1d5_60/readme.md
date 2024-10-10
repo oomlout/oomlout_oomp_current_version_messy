@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | liar |  
-| bip_39_word_new_br10 | liar<br>solar<br>cactus<br>claw<br>twelve<br>island<br>now<br>wagon<br>artwork<br>need |  
-| bip_39_word_new_br11 | liar<br>solar<br>cactus<br>claw<br>twelve<br>island<br>now<br>wagon<br>artwork<br>need<br>cereal |  
-| bip_39_word_new_br12 | liar<br>solar<br>cactus<br>claw<br>twelve<br>island<br>now<br>wagon<br>artwork<br>need<br>cereal<br>asthma |  
-| bip_39_word_new_br2 | liar<br>solar |  
-| bip_39_word_new_br3 | liar<br>solar<br>cactus |  
-| bip_39_word_new_br4 | liar<br>solar<br>cactus<br>claw |  
-| bip_39_word_new_br5 | liar<br>solar<br>cactus<br>claw<br>twelve |  
-| bip_39_word_new_br6 | liar<br>solar<br>cactus<br>claw<br>twelve<br>island |  
-| bip_39_word_new_br7 | liar<br>solar<br>cactus<br>claw<br>twelve<br>island<br>now |  
-| bip_39_word_new_br8 | liar<br>solar<br>cactus<br>claw<br>twelve<br>island<br>now<br>wagon |  
-| bip_39_word_new_br9 | liar<br>solar<br>cactus<br>claw<br>twelve<br>island<br>now<br>wagon<br>artwork |  
-| bip_39_word_new_line1 | liar |  
-| bip_39_word_new_line10 | liar
+| bip_39_word_new_br_1 | liar |  
+| bip_39_word_new_br_10 | liar<br>solar<br>cactus<br>claw<br>twelve<br>island<br>now<br>wagon<br>artwork<br>need |  
+| bip_39_word_new_br_11 | liar<br>solar<br>cactus<br>claw<br>twelve<br>island<br>now<br>wagon<br>artwork<br>need<br>cereal |  
+| bip_39_word_new_br_12 | liar<br>solar<br>cactus<br>claw<br>twelve<br>island<br>now<br>wagon<br>artwork<br>need<br>cereal<br>asthma |  
+| bip_39_word_new_br_2 | liar<br>solar |  
+| bip_39_word_new_br_3 | liar<br>solar<br>cactus |  
+| bip_39_word_new_br_4 | liar<br>solar<br>cactus<br>claw |  
+| bip_39_word_new_br_5 | liar<br>solar<br>cactus<br>claw<br>twelve |  
+| bip_39_word_new_br_6 | liar<br>solar<br>cactus<br>claw<br>twelve<br>island |  
+| bip_39_word_new_br_7 | liar<br>solar<br>cactus<br>claw<br>twelve<br>island<br>now |  
+| bip_39_word_new_br_8 | liar<br>solar<br>cactus<br>claw<br>twelve<br>island<br>now<br>wagon |  
+| bip_39_word_new_br_9 | liar<br>solar<br>cactus<br>claw<br>twelve<br>island<br>now<br>wagon<br>artwork |  
+| bip_39_word_new_line_1 | liar |  
+| bip_39_word_new_line_10 | liar
 solar
 cactus
 claw
@@ -55,7 +55,7 @@ now
 wagon
 artwork
 need |  
-| bip_39_word_new_line11 | liar
+| bip_39_word_new_line_11 | liar
 solar
 cactus
 claw
@@ -66,7 +66,7 @@ wagon
 artwork
 need
 cereal |  
-| bip_39_word_new_line12 | liar
+| bip_39_word_new_line_12 | liar
 solar
 cactus
 claw
@@ -78,34 +78,34 @@ artwork
 need
 cereal
 asthma |  
-| bip_39_word_new_line2 | liar
+| bip_39_word_new_line_2 | liar
 solar |  
-| bip_39_word_new_line3 | liar
+| bip_39_word_new_line_3 | liar
 solar
 cactus |  
-| bip_39_word_new_line4 | liar
+| bip_39_word_new_line_4 | liar
 solar
 cactus
 claw |  
-| bip_39_word_new_line5 | liar
+| bip_39_word_new_line_5 | liar
 solar
 cactus
 claw
 twelve |  
-| bip_39_word_new_line6 | liar
+| bip_39_word_new_line_6 | liar
 solar
 cactus
 claw
 twelve
 island |  
-| bip_39_word_new_line7 | liar
+| bip_39_word_new_line_7 | liar
 solar
 cactus
 claw
 twelve
 island
 now |  
-| bip_39_word_new_line8 | liar
+| bip_39_word_new_line_8 | liar
 solar
 cactus
 claw
@@ -113,7 +113,7 @@ twelve
 island
 now
 wagon |  
-| bip_39_word_new_line9 | liar
+| bip_39_word_new_line_9 | liar
 solar
 cactus
 claw

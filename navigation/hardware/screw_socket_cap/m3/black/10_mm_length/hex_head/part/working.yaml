@@ -1,17 +1,17 @@
-bip_39_word_new_br1: question
-bip_39_word_new_br10: question<br>silk<br>true<br>situate<br>raw<br>barrel<br>suspect<br>raw<br>position<br>round
-bip_39_word_new_br11: question<br>silk<br>true<br>situate<br>raw<br>barrel<br>suspect<br>raw<br>position<br>round<br>gift
-bip_39_word_new_br12: question<br>silk<br>true<br>situate<br>raw<br>barrel<br>suspect<br>raw<br>position<br>round<br>gift<br>alcohol
-bip_39_word_new_br2: question<br>silk
-bip_39_word_new_br3: question<br>silk<br>true
-bip_39_word_new_br4: question<br>silk<br>true<br>situate
-bip_39_word_new_br5: question<br>silk<br>true<br>situate<br>raw
-bip_39_word_new_br6: question<br>silk<br>true<br>situate<br>raw<br>barrel
-bip_39_word_new_br7: question<br>silk<br>true<br>situate<br>raw<br>barrel<br>suspect
-bip_39_word_new_br8: question<br>silk<br>true<br>situate<br>raw<br>barrel<br>suspect<br>raw
-bip_39_word_new_br9: question<br>silk<br>true<br>situate<br>raw<br>barrel<br>suspect<br>raw<br>position
-bip_39_word_new_line1: question
-bip_39_word_new_line10: 'question
+bip_39_word_new_br_1: question
+bip_39_word_new_br_10: question<br>silk<br>true<br>situate<br>raw<br>barrel<br>suspect<br>raw<br>position<br>round
+bip_39_word_new_br_11: question<br>silk<br>true<br>situate<br>raw<br>barrel<br>suspect<br>raw<br>position<br>round<br>gift
+bip_39_word_new_br_12: question<br>silk<br>true<br>situate<br>raw<br>barrel<br>suspect<br>raw<br>position<br>round<br>gift<br>alcohol
+bip_39_word_new_br_2: question<br>silk
+bip_39_word_new_br_3: question<br>silk<br>true
+bip_39_word_new_br_4: question<br>silk<br>true<br>situate
+bip_39_word_new_br_5: question<br>silk<br>true<br>situate<br>raw
+bip_39_word_new_br_6: question<br>silk<br>true<br>situate<br>raw<br>barrel
+bip_39_word_new_br_7: question<br>silk<br>true<br>situate<br>raw<br>barrel<br>suspect
+bip_39_word_new_br_8: question<br>silk<br>true<br>situate<br>raw<br>barrel<br>suspect<br>raw
+bip_39_word_new_br_9: question<br>silk<br>true<br>situate<br>raw<br>barrel<br>suspect<br>raw<br>position
+bip_39_word_new_line_1: question
+bip_39_word_new_line_10: 'question
 
   silk
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'question
   position
 
   round'
-bip_39_word_new_line11: 'question
+bip_39_word_new_line_11: 'question
 
   silk
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'question
   round
 
   gift'
-bip_39_word_new_line12: 'question
+bip_39_word_new_line_12: 'question
 
   silk
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'question
   gift
 
   alcohol'
-bip_39_word_new_line2: 'question
+bip_39_word_new_line_2: 'question
 
   silk'
-bip_39_word_new_line3: 'question
+bip_39_word_new_line_3: 'question
 
   silk
 
   true'
-bip_39_word_new_line4: 'question
+bip_39_word_new_line_4: 'question
 
   silk
 
   true
 
   situate'
-bip_39_word_new_line5: 'question
+bip_39_word_new_line_5: 'question
 
   silk
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'question
   situate
 
   raw'
-bip_39_word_new_line6: 'question
+bip_39_word_new_line_6: 'question
 
   silk
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'question
   raw
 
   barrel'
-bip_39_word_new_line7: 'question
+bip_39_word_new_line_7: 'question
 
   silk
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'question
   barrel
 
   suspect'
-bip_39_word_new_line8: 'question
+bip_39_word_new_line_8: 'question
 
   silk
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'question
   suspect
 
   raw'
-bip_39_word_new_line9: 'question
+bip_39_word_new_line_9: 'question
 
   silk
 

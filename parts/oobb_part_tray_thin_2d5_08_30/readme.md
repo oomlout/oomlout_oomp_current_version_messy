@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | donkey |  
-| bip_39_word_new_br10 | donkey<br>enemy<br>whisper<br>champion<br>differ<br>market<br>wisdom<br>slim<br>major<br>life |  
-| bip_39_word_new_br11 | donkey<br>enemy<br>whisper<br>champion<br>differ<br>market<br>wisdom<br>slim<br>major<br>life<br>bench |  
-| bip_39_word_new_br12 | donkey<br>enemy<br>whisper<br>champion<br>differ<br>market<br>wisdom<br>slim<br>major<br>life<br>bench<br>agent |  
-| bip_39_word_new_br2 | donkey<br>enemy |  
-| bip_39_word_new_br3 | donkey<br>enemy<br>whisper |  
-| bip_39_word_new_br4 | donkey<br>enemy<br>whisper<br>champion |  
-| bip_39_word_new_br5 | donkey<br>enemy<br>whisper<br>champion<br>differ |  
-| bip_39_word_new_br6 | donkey<br>enemy<br>whisper<br>champion<br>differ<br>market |  
-| bip_39_word_new_br7 | donkey<br>enemy<br>whisper<br>champion<br>differ<br>market<br>wisdom |  
-| bip_39_word_new_br8 | donkey<br>enemy<br>whisper<br>champion<br>differ<br>market<br>wisdom<br>slim |  
-| bip_39_word_new_br9 | donkey<br>enemy<br>whisper<br>champion<br>differ<br>market<br>wisdom<br>slim<br>major |  
-| bip_39_word_new_line1 | donkey |  
-| bip_39_word_new_line10 | donkey
+| bip_39_word_new_br_1 | donkey |  
+| bip_39_word_new_br_10 | donkey<br>enemy<br>whisper<br>champion<br>differ<br>market<br>wisdom<br>slim<br>major<br>life |  
+| bip_39_word_new_br_11 | donkey<br>enemy<br>whisper<br>champion<br>differ<br>market<br>wisdom<br>slim<br>major<br>life<br>bench |  
+| bip_39_word_new_br_12 | donkey<br>enemy<br>whisper<br>champion<br>differ<br>market<br>wisdom<br>slim<br>major<br>life<br>bench<br>agent |  
+| bip_39_word_new_br_2 | donkey<br>enemy |  
+| bip_39_word_new_br_3 | donkey<br>enemy<br>whisper |  
+| bip_39_word_new_br_4 | donkey<br>enemy<br>whisper<br>champion |  
+| bip_39_word_new_br_5 | donkey<br>enemy<br>whisper<br>champion<br>differ |  
+| bip_39_word_new_br_6 | donkey<br>enemy<br>whisper<br>champion<br>differ<br>market |  
+| bip_39_word_new_br_7 | donkey<br>enemy<br>whisper<br>champion<br>differ<br>market<br>wisdom |  
+| bip_39_word_new_br_8 | donkey<br>enemy<br>whisper<br>champion<br>differ<br>market<br>wisdom<br>slim |  
+| bip_39_word_new_br_9 | donkey<br>enemy<br>whisper<br>champion<br>differ<br>market<br>wisdom<br>slim<br>major |  
+| bip_39_word_new_line_1 | donkey |  
+| bip_39_word_new_line_10 | donkey
 enemy
 whisper
 champion
@@ -55,7 +55,7 @@ wisdom
 slim
 major
 life |  
-| bip_39_word_new_line11 | donkey
+| bip_39_word_new_line_11 | donkey
 enemy
 whisper
 champion
@@ -66,7 +66,7 @@ slim
 major
 life
 bench |  
-| bip_39_word_new_line12 | donkey
+| bip_39_word_new_line_12 | donkey
 enemy
 whisper
 champion
@@ -78,34 +78,34 @@ major
 life
 bench
 agent |  
-| bip_39_word_new_line2 | donkey
+| bip_39_word_new_line_2 | donkey
 enemy |  
-| bip_39_word_new_line3 | donkey
+| bip_39_word_new_line_3 | donkey
 enemy
 whisper |  
-| bip_39_word_new_line4 | donkey
+| bip_39_word_new_line_4 | donkey
 enemy
 whisper
 champion |  
-| bip_39_word_new_line5 | donkey
+| bip_39_word_new_line_5 | donkey
 enemy
 whisper
 champion
 differ |  
-| bip_39_word_new_line6 | donkey
+| bip_39_word_new_line_6 | donkey
 enemy
 whisper
 champion
 differ
 market |  
-| bip_39_word_new_line7 | donkey
+| bip_39_word_new_line_7 | donkey
 enemy
 whisper
 champion
 differ
 market
 wisdom |  
-| bip_39_word_new_line8 | donkey
+| bip_39_word_new_line_8 | donkey
 enemy
 whisper
 champion
@@ -113,7 +113,7 @@ differ
 market
 wisdom
 slim |  
-| bip_39_word_new_line9 | donkey
+| bip_39_word_new_line_9 | donkey
 enemy
 whisper
 champion

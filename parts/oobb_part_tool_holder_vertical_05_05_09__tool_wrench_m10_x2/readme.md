@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | animal |  
-| bip_39_word_new_br10 | animal<br>hockey<br>nut<br>shell<br>discover<br>cover<br>ugly<br>slow<br>battle<br>can |  
-| bip_39_word_new_br11 | animal<br>hockey<br>nut<br>shell<br>discover<br>cover<br>ugly<br>slow<br>battle<br>can<br>reason |  
-| bip_39_word_new_br12 | animal<br>hockey<br>nut<br>shell<br>discover<br>cover<br>ugly<br>slow<br>battle<br>can<br>reason<br>accuse |  
-| bip_39_word_new_br2 | animal<br>hockey |  
-| bip_39_word_new_br3 | animal<br>hockey<br>nut |  
-| bip_39_word_new_br4 | animal<br>hockey<br>nut<br>shell |  
-| bip_39_word_new_br5 | animal<br>hockey<br>nut<br>shell<br>discover |  
-| bip_39_word_new_br6 | animal<br>hockey<br>nut<br>shell<br>discover<br>cover |  
-| bip_39_word_new_br7 | animal<br>hockey<br>nut<br>shell<br>discover<br>cover<br>ugly |  
-| bip_39_word_new_br8 | animal<br>hockey<br>nut<br>shell<br>discover<br>cover<br>ugly<br>slow |  
-| bip_39_word_new_br9 | animal<br>hockey<br>nut<br>shell<br>discover<br>cover<br>ugly<br>slow<br>battle |  
-| bip_39_word_new_line1 | animal |  
-| bip_39_word_new_line10 | animal
+| bip_39_word_new_br_1 | animal |  
+| bip_39_word_new_br_10 | animal<br>hockey<br>nut<br>shell<br>discover<br>cover<br>ugly<br>slow<br>battle<br>can |  
+| bip_39_word_new_br_11 | animal<br>hockey<br>nut<br>shell<br>discover<br>cover<br>ugly<br>slow<br>battle<br>can<br>reason |  
+| bip_39_word_new_br_12 | animal<br>hockey<br>nut<br>shell<br>discover<br>cover<br>ugly<br>slow<br>battle<br>can<br>reason<br>accuse |  
+| bip_39_word_new_br_2 | animal<br>hockey |  
+| bip_39_word_new_br_3 | animal<br>hockey<br>nut |  
+| bip_39_word_new_br_4 | animal<br>hockey<br>nut<br>shell |  
+| bip_39_word_new_br_5 | animal<br>hockey<br>nut<br>shell<br>discover |  
+| bip_39_word_new_br_6 | animal<br>hockey<br>nut<br>shell<br>discover<br>cover |  
+| bip_39_word_new_br_7 | animal<br>hockey<br>nut<br>shell<br>discover<br>cover<br>ugly |  
+| bip_39_word_new_br_8 | animal<br>hockey<br>nut<br>shell<br>discover<br>cover<br>ugly<br>slow |  
+| bip_39_word_new_br_9 | animal<br>hockey<br>nut<br>shell<br>discover<br>cover<br>ugly<br>slow<br>battle |  
+| bip_39_word_new_line_1 | animal |  
+| bip_39_word_new_line_10 | animal
 hockey
 nut
 shell
@@ -55,7 +55,7 @@ ugly
 slow
 battle
 can |  
-| bip_39_word_new_line11 | animal
+| bip_39_word_new_line_11 | animal
 hockey
 nut
 shell
@@ -66,7 +66,7 @@ slow
 battle
 can
 reason |  
-| bip_39_word_new_line12 | animal
+| bip_39_word_new_line_12 | animal
 hockey
 nut
 shell
@@ -78,34 +78,34 @@ battle
 can
 reason
 accuse |  
-| bip_39_word_new_line2 | animal
+| bip_39_word_new_line_2 | animal
 hockey |  
-| bip_39_word_new_line3 | animal
+| bip_39_word_new_line_3 | animal
 hockey
 nut |  
-| bip_39_word_new_line4 | animal
+| bip_39_word_new_line_4 | animal
 hockey
 nut
 shell |  
-| bip_39_word_new_line5 | animal
+| bip_39_word_new_line_5 | animal
 hockey
 nut
 shell
 discover |  
-| bip_39_word_new_line6 | animal
+| bip_39_word_new_line_6 | animal
 hockey
 nut
 shell
 discover
 cover |  
-| bip_39_word_new_line7 | animal
+| bip_39_word_new_line_7 | animal
 hockey
 nut
 shell
 discover
 cover
 ugly |  
-| bip_39_word_new_line8 | animal
+| bip_39_word_new_line_8 | animal
 hockey
 nut
 shell
@@ -113,7 +113,7 @@ discover
 cover
 ugly
 slow |  
-| bip_39_word_new_line9 | animal
+| bip_39_word_new_line_9 | animal
 hockey
 nut
 shell

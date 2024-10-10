@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | trash |  
-| bip_39_word_new_br10 | trash<br>motion<br>accuse<br>sport<br>flag<br>wing<br>resemble<br>quarter<br>despair<br>muffin |  
-| bip_39_word_new_br11 | trash<br>motion<br>accuse<br>sport<br>flag<br>wing<br>resemble<br>quarter<br>despair<br>muffin<br>wear |  
-| bip_39_word_new_br12 | trash<br>motion<br>accuse<br>sport<br>flag<br>wing<br>resemble<br>quarter<br>despair<br>muffin<br>wear<br>athlete |  
-| bip_39_word_new_br2 | trash<br>motion |  
-| bip_39_word_new_br3 | trash<br>motion<br>accuse |  
-| bip_39_word_new_br4 | trash<br>motion<br>accuse<br>sport |  
-| bip_39_word_new_br5 | trash<br>motion<br>accuse<br>sport<br>flag |  
-| bip_39_word_new_br6 | trash<br>motion<br>accuse<br>sport<br>flag<br>wing |  
-| bip_39_word_new_br7 | trash<br>motion<br>accuse<br>sport<br>flag<br>wing<br>resemble |  
-| bip_39_word_new_br8 | trash<br>motion<br>accuse<br>sport<br>flag<br>wing<br>resemble<br>quarter |  
-| bip_39_word_new_br9 | trash<br>motion<br>accuse<br>sport<br>flag<br>wing<br>resemble<br>quarter<br>despair |  
-| bip_39_word_new_line1 | trash |  
-| bip_39_word_new_line10 | trash
+| bip_39_word_new_br_1 | trash |  
+| bip_39_word_new_br_10 | trash<br>motion<br>accuse<br>sport<br>flag<br>wing<br>resemble<br>quarter<br>despair<br>muffin |  
+| bip_39_word_new_br_11 | trash<br>motion<br>accuse<br>sport<br>flag<br>wing<br>resemble<br>quarter<br>despair<br>muffin<br>wear |  
+| bip_39_word_new_br_12 | trash<br>motion<br>accuse<br>sport<br>flag<br>wing<br>resemble<br>quarter<br>despair<br>muffin<br>wear<br>athlete |  
+| bip_39_word_new_br_2 | trash<br>motion |  
+| bip_39_word_new_br_3 | trash<br>motion<br>accuse |  
+| bip_39_word_new_br_4 | trash<br>motion<br>accuse<br>sport |  
+| bip_39_word_new_br_5 | trash<br>motion<br>accuse<br>sport<br>flag |  
+| bip_39_word_new_br_6 | trash<br>motion<br>accuse<br>sport<br>flag<br>wing |  
+| bip_39_word_new_br_7 | trash<br>motion<br>accuse<br>sport<br>flag<br>wing<br>resemble |  
+| bip_39_word_new_br_8 | trash<br>motion<br>accuse<br>sport<br>flag<br>wing<br>resemble<br>quarter |  
+| bip_39_word_new_br_9 | trash<br>motion<br>accuse<br>sport<br>flag<br>wing<br>resemble<br>quarter<br>despair |  
+| bip_39_word_new_line_1 | trash |  
+| bip_39_word_new_line_10 | trash
 motion
 accuse
 sport
@@ -55,7 +55,7 @@ resemble
 quarter
 despair
 muffin |  
-| bip_39_word_new_line11 | trash
+| bip_39_word_new_line_11 | trash
 motion
 accuse
 sport
@@ -66,7 +66,7 @@ quarter
 despair
 muffin
 wear |  
-| bip_39_word_new_line12 | trash
+| bip_39_word_new_line_12 | trash
 motion
 accuse
 sport
@@ -78,34 +78,34 @@ despair
 muffin
 wear
 athlete |  
-| bip_39_word_new_line2 | trash
+| bip_39_word_new_line_2 | trash
 motion |  
-| bip_39_word_new_line3 | trash
+| bip_39_word_new_line_3 | trash
 motion
 accuse |  
-| bip_39_word_new_line4 | trash
+| bip_39_word_new_line_4 | trash
 motion
 accuse
 sport |  
-| bip_39_word_new_line5 | trash
+| bip_39_word_new_line_5 | trash
 motion
 accuse
 sport
 flag |  
-| bip_39_word_new_line6 | trash
+| bip_39_word_new_line_6 | trash
 motion
 accuse
 sport
 flag
 wing |  
-| bip_39_word_new_line7 | trash
+| bip_39_word_new_line_7 | trash
 motion
 accuse
 sport
 flag
 wing
 resemble |  
-| bip_39_word_new_line8 | trash
+| bip_39_word_new_line_8 | trash
 motion
 accuse
 sport
@@ -113,7 +113,7 @@ flag
 wing
 resemble
 quarter |  
-| bip_39_word_new_line9 | trash
+| bip_39_word_new_line_9 | trash
 motion
 accuse
 sport

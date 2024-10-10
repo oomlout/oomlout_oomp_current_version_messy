@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | problem |  
-| bip_39_word_new_br10 | problem<br>six<br>code<br>balcony<br>excuse<br>stock<br>kingdom<br>mother<br>again<br>fancy |  
-| bip_39_word_new_br11 | problem<br>six<br>code<br>balcony<br>excuse<br>stock<br>kingdom<br>mother<br>again<br>fancy<br>valid |  
-| bip_39_word_new_br12 | problem<br>six<br>code<br>balcony<br>excuse<br>stock<br>kingdom<br>mother<br>again<br>fancy<br>valid<br>arrow |  
-| bip_39_word_new_br2 | problem<br>six |  
-| bip_39_word_new_br3 | problem<br>six<br>code |  
-| bip_39_word_new_br4 | problem<br>six<br>code<br>balcony |  
-| bip_39_word_new_br5 | problem<br>six<br>code<br>balcony<br>excuse |  
-| bip_39_word_new_br6 | problem<br>six<br>code<br>balcony<br>excuse<br>stock |  
-| bip_39_word_new_br7 | problem<br>six<br>code<br>balcony<br>excuse<br>stock<br>kingdom |  
-| bip_39_word_new_br8 | problem<br>six<br>code<br>balcony<br>excuse<br>stock<br>kingdom<br>mother |  
-| bip_39_word_new_br9 | problem<br>six<br>code<br>balcony<br>excuse<br>stock<br>kingdom<br>mother<br>again |  
-| bip_39_word_new_line1 | problem |  
-| bip_39_word_new_line10 | problem
+| bip_39_word_new_br_1 | problem |  
+| bip_39_word_new_br_10 | problem<br>six<br>code<br>balcony<br>excuse<br>stock<br>kingdom<br>mother<br>again<br>fancy |  
+| bip_39_word_new_br_11 | problem<br>six<br>code<br>balcony<br>excuse<br>stock<br>kingdom<br>mother<br>again<br>fancy<br>valid |  
+| bip_39_word_new_br_12 | problem<br>six<br>code<br>balcony<br>excuse<br>stock<br>kingdom<br>mother<br>again<br>fancy<br>valid<br>arrow |  
+| bip_39_word_new_br_2 | problem<br>six |  
+| bip_39_word_new_br_3 | problem<br>six<br>code |  
+| bip_39_word_new_br_4 | problem<br>six<br>code<br>balcony |  
+| bip_39_word_new_br_5 | problem<br>six<br>code<br>balcony<br>excuse |  
+| bip_39_word_new_br_6 | problem<br>six<br>code<br>balcony<br>excuse<br>stock |  
+| bip_39_word_new_br_7 | problem<br>six<br>code<br>balcony<br>excuse<br>stock<br>kingdom |  
+| bip_39_word_new_br_8 | problem<br>six<br>code<br>balcony<br>excuse<br>stock<br>kingdom<br>mother |  
+| bip_39_word_new_br_9 | problem<br>six<br>code<br>balcony<br>excuse<br>stock<br>kingdom<br>mother<br>again |  
+| bip_39_word_new_line_1 | problem |  
+| bip_39_word_new_line_10 | problem
 six
 code
 balcony
@@ -55,7 +55,7 @@ kingdom
 mother
 again
 fancy |  
-| bip_39_word_new_line11 | problem
+| bip_39_word_new_line_11 | problem
 six
 code
 balcony
@@ -66,7 +66,7 @@ mother
 again
 fancy
 valid |  
-| bip_39_word_new_line12 | problem
+| bip_39_word_new_line_12 | problem
 six
 code
 balcony
@@ -78,34 +78,34 @@ again
 fancy
 valid
 arrow |  
-| bip_39_word_new_line2 | problem
+| bip_39_word_new_line_2 | problem
 six |  
-| bip_39_word_new_line3 | problem
+| bip_39_word_new_line_3 | problem
 six
 code |  
-| bip_39_word_new_line4 | problem
+| bip_39_word_new_line_4 | problem
 six
 code
 balcony |  
-| bip_39_word_new_line5 | problem
+| bip_39_word_new_line_5 | problem
 six
 code
 balcony
 excuse |  
-| bip_39_word_new_line6 | problem
+| bip_39_word_new_line_6 | problem
 six
 code
 balcony
 excuse
 stock |  
-| bip_39_word_new_line7 | problem
+| bip_39_word_new_line_7 | problem
 six
 code
 balcony
 excuse
 stock
 kingdom |  
-| bip_39_word_new_line8 | problem
+| bip_39_word_new_line_8 | problem
 six
 code
 balcony
@@ -113,7 +113,7 @@ excuse
 stock
 kingdom
 mother |  
-| bip_39_word_new_line9 | problem
+| bip_39_word_new_line_9 | problem
 six
 code
 balcony

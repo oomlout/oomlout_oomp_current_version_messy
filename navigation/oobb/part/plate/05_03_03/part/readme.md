@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ugly |  
-| bip_39_word_new_br10 | ugly<br>hospital<br>rug<br>renew<br>wheat<br>stairs<br>castle<br>scout<br>ill<br>head |  
-| bip_39_word_new_br11 | ugly<br>hospital<br>rug<br>renew<br>wheat<br>stairs<br>castle<br>scout<br>ill<br>head<br>explain |  
-| bip_39_word_new_br12 | ugly<br>hospital<br>rug<br>renew<br>wheat<br>stairs<br>castle<br>scout<br>ill<br>head<br>explain<br>absurd |  
-| bip_39_word_new_br2 | ugly<br>hospital |  
-| bip_39_word_new_br3 | ugly<br>hospital<br>rug |  
-| bip_39_word_new_br4 | ugly<br>hospital<br>rug<br>renew |  
-| bip_39_word_new_br5 | ugly<br>hospital<br>rug<br>renew<br>wheat |  
-| bip_39_word_new_br6 | ugly<br>hospital<br>rug<br>renew<br>wheat<br>stairs |  
-| bip_39_word_new_br7 | ugly<br>hospital<br>rug<br>renew<br>wheat<br>stairs<br>castle |  
-| bip_39_word_new_br8 | ugly<br>hospital<br>rug<br>renew<br>wheat<br>stairs<br>castle<br>scout |  
-| bip_39_word_new_br9 | ugly<br>hospital<br>rug<br>renew<br>wheat<br>stairs<br>castle<br>scout<br>ill |  
-| bip_39_word_new_line1 | ugly |  
-| bip_39_word_new_line10 | ugly
+| bip_39_word_new_br_1 | ugly |  
+| bip_39_word_new_br_10 | ugly<br>hospital<br>rug<br>renew<br>wheat<br>stairs<br>castle<br>scout<br>ill<br>head |  
+| bip_39_word_new_br_11 | ugly<br>hospital<br>rug<br>renew<br>wheat<br>stairs<br>castle<br>scout<br>ill<br>head<br>explain |  
+| bip_39_word_new_br_12 | ugly<br>hospital<br>rug<br>renew<br>wheat<br>stairs<br>castle<br>scout<br>ill<br>head<br>explain<br>absurd |  
+| bip_39_word_new_br_2 | ugly<br>hospital |  
+| bip_39_word_new_br_3 | ugly<br>hospital<br>rug |  
+| bip_39_word_new_br_4 | ugly<br>hospital<br>rug<br>renew |  
+| bip_39_word_new_br_5 | ugly<br>hospital<br>rug<br>renew<br>wheat |  
+| bip_39_word_new_br_6 | ugly<br>hospital<br>rug<br>renew<br>wheat<br>stairs |  
+| bip_39_word_new_br_7 | ugly<br>hospital<br>rug<br>renew<br>wheat<br>stairs<br>castle |  
+| bip_39_word_new_br_8 | ugly<br>hospital<br>rug<br>renew<br>wheat<br>stairs<br>castle<br>scout |  
+| bip_39_word_new_br_9 | ugly<br>hospital<br>rug<br>renew<br>wheat<br>stairs<br>castle<br>scout<br>ill |  
+| bip_39_word_new_line_1 | ugly |  
+| bip_39_word_new_line_10 | ugly
 hospital
 rug
 renew
@@ -55,7 +55,7 @@ castle
 scout
 ill
 head |  
-| bip_39_word_new_line11 | ugly
+| bip_39_word_new_line_11 | ugly
 hospital
 rug
 renew
@@ -66,7 +66,7 @@ scout
 ill
 head
 explain |  
-| bip_39_word_new_line12 | ugly
+| bip_39_word_new_line_12 | ugly
 hospital
 rug
 renew
@@ -78,34 +78,34 @@ ill
 head
 explain
 absurd |  
-| bip_39_word_new_line2 | ugly
+| bip_39_word_new_line_2 | ugly
 hospital |  
-| bip_39_word_new_line3 | ugly
+| bip_39_word_new_line_3 | ugly
 hospital
 rug |  
-| bip_39_word_new_line4 | ugly
+| bip_39_word_new_line_4 | ugly
 hospital
 rug
 renew |  
-| bip_39_word_new_line5 | ugly
+| bip_39_word_new_line_5 | ugly
 hospital
 rug
 renew
 wheat |  
-| bip_39_word_new_line6 | ugly
+| bip_39_word_new_line_6 | ugly
 hospital
 rug
 renew
 wheat
 stairs |  
-| bip_39_word_new_line7 | ugly
+| bip_39_word_new_line_7 | ugly
 hospital
 rug
 renew
 wheat
 stairs
 castle |  
-| bip_39_word_new_line8 | ugly
+| bip_39_word_new_line_8 | ugly
 hospital
 rug
 renew
@@ -113,7 +113,7 @@ wheat
 stairs
 castle
 scout |  
-| bip_39_word_new_line9 | ugly
+| bip_39_word_new_line_9 | ugly
 hospital
 rug
 renew

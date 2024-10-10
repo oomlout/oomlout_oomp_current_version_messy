@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | isolate |  
-| bip_39_word_new_br10 | isolate<br>vehicle<br>fiscal<br>reduce<br>curve<br>setup<br>small<br>cram<br>use<br>minimum |  
-| bip_39_word_new_br11 | isolate<br>vehicle<br>fiscal<br>reduce<br>curve<br>setup<br>small<br>cram<br>use<br>minimum<br>panther |  
-| bip_39_word_new_br12 | isolate<br>vehicle<br>fiscal<br>reduce<br>curve<br>setup<br>small<br>cram<br>use<br>minimum<br>panther<br>add |  
-| bip_39_word_new_br2 | isolate<br>vehicle |  
-| bip_39_word_new_br3 | isolate<br>vehicle<br>fiscal |  
-| bip_39_word_new_br4 | isolate<br>vehicle<br>fiscal<br>reduce |  
-| bip_39_word_new_br5 | isolate<br>vehicle<br>fiscal<br>reduce<br>curve |  
-| bip_39_word_new_br6 | isolate<br>vehicle<br>fiscal<br>reduce<br>curve<br>setup |  
-| bip_39_word_new_br7 | isolate<br>vehicle<br>fiscal<br>reduce<br>curve<br>setup<br>small |  
-| bip_39_word_new_br8 | isolate<br>vehicle<br>fiscal<br>reduce<br>curve<br>setup<br>small<br>cram |  
-| bip_39_word_new_br9 | isolate<br>vehicle<br>fiscal<br>reduce<br>curve<br>setup<br>small<br>cram<br>use |  
-| bip_39_word_new_line1 | isolate |  
-| bip_39_word_new_line10 | isolate
+| bip_39_word_new_br_1 | isolate |  
+| bip_39_word_new_br_10 | isolate<br>vehicle<br>fiscal<br>reduce<br>curve<br>setup<br>small<br>cram<br>use<br>minimum |  
+| bip_39_word_new_br_11 | isolate<br>vehicle<br>fiscal<br>reduce<br>curve<br>setup<br>small<br>cram<br>use<br>minimum<br>panther |  
+| bip_39_word_new_br_12 | isolate<br>vehicle<br>fiscal<br>reduce<br>curve<br>setup<br>small<br>cram<br>use<br>minimum<br>panther<br>add |  
+| bip_39_word_new_br_2 | isolate<br>vehicle |  
+| bip_39_word_new_br_3 | isolate<br>vehicle<br>fiscal |  
+| bip_39_word_new_br_4 | isolate<br>vehicle<br>fiscal<br>reduce |  
+| bip_39_word_new_br_5 | isolate<br>vehicle<br>fiscal<br>reduce<br>curve |  
+| bip_39_word_new_br_6 | isolate<br>vehicle<br>fiscal<br>reduce<br>curve<br>setup |  
+| bip_39_word_new_br_7 | isolate<br>vehicle<br>fiscal<br>reduce<br>curve<br>setup<br>small |  
+| bip_39_word_new_br_8 | isolate<br>vehicle<br>fiscal<br>reduce<br>curve<br>setup<br>small<br>cram |  
+| bip_39_word_new_br_9 | isolate<br>vehicle<br>fiscal<br>reduce<br>curve<br>setup<br>small<br>cram<br>use |  
+| bip_39_word_new_line_1 | isolate |  
+| bip_39_word_new_line_10 | isolate
 vehicle
 fiscal
 reduce
@@ -55,7 +55,7 @@ small
 cram
 use
 minimum |  
-| bip_39_word_new_line11 | isolate
+| bip_39_word_new_line_11 | isolate
 vehicle
 fiscal
 reduce
@@ -66,7 +66,7 @@ cram
 use
 minimum
 panther |  
-| bip_39_word_new_line12 | isolate
+| bip_39_word_new_line_12 | isolate
 vehicle
 fiscal
 reduce
@@ -78,34 +78,34 @@ use
 minimum
 panther
 add |  
-| bip_39_word_new_line2 | isolate
+| bip_39_word_new_line_2 | isolate
 vehicle |  
-| bip_39_word_new_line3 | isolate
+| bip_39_word_new_line_3 | isolate
 vehicle
 fiscal |  
-| bip_39_word_new_line4 | isolate
+| bip_39_word_new_line_4 | isolate
 vehicle
 fiscal
 reduce |  
-| bip_39_word_new_line5 | isolate
+| bip_39_word_new_line_5 | isolate
 vehicle
 fiscal
 reduce
 curve |  
-| bip_39_word_new_line6 | isolate
+| bip_39_word_new_line_6 | isolate
 vehicle
 fiscal
 reduce
 curve
 setup |  
-| bip_39_word_new_line7 | isolate
+| bip_39_word_new_line_7 | isolate
 vehicle
 fiscal
 reduce
 curve
 setup
 small |  
-| bip_39_word_new_line8 | isolate
+| bip_39_word_new_line_8 | isolate
 vehicle
 fiscal
 reduce
@@ -113,7 +113,7 @@ curve
 setup
 small
 cram |  
-| bip_39_word_new_line9 | isolate
+| bip_39_word_new_line_9 | isolate
 vehicle
 fiscal
 reduce

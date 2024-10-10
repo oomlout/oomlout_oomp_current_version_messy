@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | uniform |  
-| bip_39_word_new_br10 | uniform<br>planet<br>bus<br>nose<br>summer<br>detect<br>patrol<br>joy<br>love<br>morning |  
-| bip_39_word_new_br11 | uniform<br>planet<br>bus<br>nose<br>summer<br>detect<br>patrol<br>joy<br>love<br>morning<br>install |  
-| bip_39_word_new_br12 | uniform<br>planet<br>bus<br>nose<br>summer<br>detect<br>patrol<br>joy<br>love<br>morning<br>install<br>apart |  
-| bip_39_word_new_br2 | uniform<br>planet |  
-| bip_39_word_new_br3 | uniform<br>planet<br>bus |  
-| bip_39_word_new_br4 | uniform<br>planet<br>bus<br>nose |  
-| bip_39_word_new_br5 | uniform<br>planet<br>bus<br>nose<br>summer |  
-| bip_39_word_new_br6 | uniform<br>planet<br>bus<br>nose<br>summer<br>detect |  
-| bip_39_word_new_br7 | uniform<br>planet<br>bus<br>nose<br>summer<br>detect<br>patrol |  
-| bip_39_word_new_br8 | uniform<br>planet<br>bus<br>nose<br>summer<br>detect<br>patrol<br>joy |  
-| bip_39_word_new_br9 | uniform<br>planet<br>bus<br>nose<br>summer<br>detect<br>patrol<br>joy<br>love |  
-| bip_39_word_new_line1 | uniform |  
-| bip_39_word_new_line10 | uniform
+| bip_39_word_new_br_1 | uniform |  
+| bip_39_word_new_br_10 | uniform<br>planet<br>bus<br>nose<br>summer<br>detect<br>patrol<br>joy<br>love<br>morning |  
+| bip_39_word_new_br_11 | uniform<br>planet<br>bus<br>nose<br>summer<br>detect<br>patrol<br>joy<br>love<br>morning<br>install |  
+| bip_39_word_new_br_12 | uniform<br>planet<br>bus<br>nose<br>summer<br>detect<br>patrol<br>joy<br>love<br>morning<br>install<br>apart |  
+| bip_39_word_new_br_2 | uniform<br>planet |  
+| bip_39_word_new_br_3 | uniform<br>planet<br>bus |  
+| bip_39_word_new_br_4 | uniform<br>planet<br>bus<br>nose |  
+| bip_39_word_new_br_5 | uniform<br>planet<br>bus<br>nose<br>summer |  
+| bip_39_word_new_br_6 | uniform<br>planet<br>bus<br>nose<br>summer<br>detect |  
+| bip_39_word_new_br_7 | uniform<br>planet<br>bus<br>nose<br>summer<br>detect<br>patrol |  
+| bip_39_word_new_br_8 | uniform<br>planet<br>bus<br>nose<br>summer<br>detect<br>patrol<br>joy |  
+| bip_39_word_new_br_9 | uniform<br>planet<br>bus<br>nose<br>summer<br>detect<br>patrol<br>joy<br>love |  
+| bip_39_word_new_line_1 | uniform |  
+| bip_39_word_new_line_10 | uniform
 planet
 bus
 nose
@@ -55,7 +55,7 @@ patrol
 joy
 love
 morning |  
-| bip_39_word_new_line11 | uniform
+| bip_39_word_new_line_11 | uniform
 planet
 bus
 nose
@@ -66,7 +66,7 @@ joy
 love
 morning
 install |  
-| bip_39_word_new_line12 | uniform
+| bip_39_word_new_line_12 | uniform
 planet
 bus
 nose
@@ -78,34 +78,34 @@ love
 morning
 install
 apart |  
-| bip_39_word_new_line2 | uniform
+| bip_39_word_new_line_2 | uniform
 planet |  
-| bip_39_word_new_line3 | uniform
+| bip_39_word_new_line_3 | uniform
 planet
 bus |  
-| bip_39_word_new_line4 | uniform
+| bip_39_word_new_line_4 | uniform
 planet
 bus
 nose |  
-| bip_39_word_new_line5 | uniform
+| bip_39_word_new_line_5 | uniform
 planet
 bus
 nose
 summer |  
-| bip_39_word_new_line6 | uniform
+| bip_39_word_new_line_6 | uniform
 planet
 bus
 nose
 summer
 detect |  
-| bip_39_word_new_line7 | uniform
+| bip_39_word_new_line_7 | uniform
 planet
 bus
 nose
 summer
 detect
 patrol |  
-| bip_39_word_new_line8 | uniform
+| bip_39_word_new_line_8 | uniform
 planet
 bus
 nose
@@ -113,7 +113,7 @@ summer
 detect
 patrol
 joy |  
-| bip_39_word_new_line9 | uniform
+| bip_39_word_new_line_9 | uniform
 planet
 bus
 nose

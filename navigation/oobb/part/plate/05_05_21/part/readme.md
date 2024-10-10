@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | prefer |  
-| bip_39_word_new_br10 | prefer<br>quote<br>utility<br>visual<br>solid<br>bleak<br>crowd<br>donor<br>album<br>pudding |  
-| bip_39_word_new_br11 | prefer<br>quote<br>utility<br>visual<br>solid<br>bleak<br>crowd<br>donor<br>album<br>pudding<br>duty |  
-| bip_39_word_new_br12 | prefer<br>quote<br>utility<br>visual<br>solid<br>bleak<br>crowd<br>donor<br>album<br>pudding<br>duty<br>action |  
-| bip_39_word_new_br2 | prefer<br>quote |  
-| bip_39_word_new_br3 | prefer<br>quote<br>utility |  
-| bip_39_word_new_br4 | prefer<br>quote<br>utility<br>visual |  
-| bip_39_word_new_br5 | prefer<br>quote<br>utility<br>visual<br>solid |  
-| bip_39_word_new_br6 | prefer<br>quote<br>utility<br>visual<br>solid<br>bleak |  
-| bip_39_word_new_br7 | prefer<br>quote<br>utility<br>visual<br>solid<br>bleak<br>crowd |  
-| bip_39_word_new_br8 | prefer<br>quote<br>utility<br>visual<br>solid<br>bleak<br>crowd<br>donor |  
-| bip_39_word_new_br9 | prefer<br>quote<br>utility<br>visual<br>solid<br>bleak<br>crowd<br>donor<br>album |  
-| bip_39_word_new_line1 | prefer |  
-| bip_39_word_new_line10 | prefer
+| bip_39_word_new_br_1 | prefer |  
+| bip_39_word_new_br_10 | prefer<br>quote<br>utility<br>visual<br>solid<br>bleak<br>crowd<br>donor<br>album<br>pudding |  
+| bip_39_word_new_br_11 | prefer<br>quote<br>utility<br>visual<br>solid<br>bleak<br>crowd<br>donor<br>album<br>pudding<br>duty |  
+| bip_39_word_new_br_12 | prefer<br>quote<br>utility<br>visual<br>solid<br>bleak<br>crowd<br>donor<br>album<br>pudding<br>duty<br>action |  
+| bip_39_word_new_br_2 | prefer<br>quote |  
+| bip_39_word_new_br_3 | prefer<br>quote<br>utility |  
+| bip_39_word_new_br_4 | prefer<br>quote<br>utility<br>visual |  
+| bip_39_word_new_br_5 | prefer<br>quote<br>utility<br>visual<br>solid |  
+| bip_39_word_new_br_6 | prefer<br>quote<br>utility<br>visual<br>solid<br>bleak |  
+| bip_39_word_new_br_7 | prefer<br>quote<br>utility<br>visual<br>solid<br>bleak<br>crowd |  
+| bip_39_word_new_br_8 | prefer<br>quote<br>utility<br>visual<br>solid<br>bleak<br>crowd<br>donor |  
+| bip_39_word_new_br_9 | prefer<br>quote<br>utility<br>visual<br>solid<br>bleak<br>crowd<br>donor<br>album |  
+| bip_39_word_new_line_1 | prefer |  
+| bip_39_word_new_line_10 | prefer
 quote
 utility
 visual
@@ -55,7 +55,7 @@ crowd
 donor
 album
 pudding |  
-| bip_39_word_new_line11 | prefer
+| bip_39_word_new_line_11 | prefer
 quote
 utility
 visual
@@ -66,7 +66,7 @@ donor
 album
 pudding
 duty |  
-| bip_39_word_new_line12 | prefer
+| bip_39_word_new_line_12 | prefer
 quote
 utility
 visual
@@ -78,34 +78,34 @@ album
 pudding
 duty
 action |  
-| bip_39_word_new_line2 | prefer
+| bip_39_word_new_line_2 | prefer
 quote |  
-| bip_39_word_new_line3 | prefer
+| bip_39_word_new_line_3 | prefer
 quote
 utility |  
-| bip_39_word_new_line4 | prefer
+| bip_39_word_new_line_4 | prefer
 quote
 utility
 visual |  
-| bip_39_word_new_line5 | prefer
+| bip_39_word_new_line_5 | prefer
 quote
 utility
 visual
 solid |  
-| bip_39_word_new_line6 | prefer
+| bip_39_word_new_line_6 | prefer
 quote
 utility
 visual
 solid
 bleak |  
-| bip_39_word_new_line7 | prefer
+| bip_39_word_new_line_7 | prefer
 quote
 utility
 visual
 solid
 bleak
 crowd |  
-| bip_39_word_new_line8 | prefer
+| bip_39_word_new_line_8 | prefer
 quote
 utility
 visual
@@ -113,7 +113,7 @@ solid
 bleak
 crowd
 donor |  
-| bip_39_word_new_line9 | prefer
+| bip_39_word_new_line_9 | prefer
 quote
 utility
 visual

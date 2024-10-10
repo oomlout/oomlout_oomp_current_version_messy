@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | modify |  
-| bip_39_word_new_br10 | modify<br>hole<br>warrior<br>fly<br>vapor<br>fancy<br>capital<br>soldier<br>found<br>dream |  
-| bip_39_word_new_br11 | modify<br>hole<br>warrior<br>fly<br>vapor<br>fancy<br>capital<br>soldier<br>found<br>dream<br>animal |  
-| bip_39_word_new_br12 | modify<br>hole<br>warrior<br>fly<br>vapor<br>fancy<br>capital<br>soldier<br>found<br>dream<br>animal<br>analyst |  
-| bip_39_word_new_br2 | modify<br>hole |  
-| bip_39_word_new_br3 | modify<br>hole<br>warrior |  
-| bip_39_word_new_br4 | modify<br>hole<br>warrior<br>fly |  
-| bip_39_word_new_br5 | modify<br>hole<br>warrior<br>fly<br>vapor |  
-| bip_39_word_new_br6 | modify<br>hole<br>warrior<br>fly<br>vapor<br>fancy |  
-| bip_39_word_new_br7 | modify<br>hole<br>warrior<br>fly<br>vapor<br>fancy<br>capital |  
-| bip_39_word_new_br8 | modify<br>hole<br>warrior<br>fly<br>vapor<br>fancy<br>capital<br>soldier |  
-| bip_39_word_new_br9 | modify<br>hole<br>warrior<br>fly<br>vapor<br>fancy<br>capital<br>soldier<br>found |  
-| bip_39_word_new_line1 | modify |  
-| bip_39_word_new_line10 | modify
+| bip_39_word_new_br_1 | modify |  
+| bip_39_word_new_br_10 | modify<br>hole<br>warrior<br>fly<br>vapor<br>fancy<br>capital<br>soldier<br>found<br>dream |  
+| bip_39_word_new_br_11 | modify<br>hole<br>warrior<br>fly<br>vapor<br>fancy<br>capital<br>soldier<br>found<br>dream<br>animal |  
+| bip_39_word_new_br_12 | modify<br>hole<br>warrior<br>fly<br>vapor<br>fancy<br>capital<br>soldier<br>found<br>dream<br>animal<br>analyst |  
+| bip_39_word_new_br_2 | modify<br>hole |  
+| bip_39_word_new_br_3 | modify<br>hole<br>warrior |  
+| bip_39_word_new_br_4 | modify<br>hole<br>warrior<br>fly |  
+| bip_39_word_new_br_5 | modify<br>hole<br>warrior<br>fly<br>vapor |  
+| bip_39_word_new_br_6 | modify<br>hole<br>warrior<br>fly<br>vapor<br>fancy |  
+| bip_39_word_new_br_7 | modify<br>hole<br>warrior<br>fly<br>vapor<br>fancy<br>capital |  
+| bip_39_word_new_br_8 | modify<br>hole<br>warrior<br>fly<br>vapor<br>fancy<br>capital<br>soldier |  
+| bip_39_word_new_br_9 | modify<br>hole<br>warrior<br>fly<br>vapor<br>fancy<br>capital<br>soldier<br>found |  
+| bip_39_word_new_line_1 | modify |  
+| bip_39_word_new_line_10 | modify
 hole
 warrior
 fly
@@ -55,7 +55,7 @@ capital
 soldier
 found
 dream |  
-| bip_39_word_new_line11 | modify
+| bip_39_word_new_line_11 | modify
 hole
 warrior
 fly
@@ -66,7 +66,7 @@ soldier
 found
 dream
 animal |  
-| bip_39_word_new_line12 | modify
+| bip_39_word_new_line_12 | modify
 hole
 warrior
 fly
@@ -78,34 +78,34 @@ found
 dream
 animal
 analyst |  
-| bip_39_word_new_line2 | modify
+| bip_39_word_new_line_2 | modify
 hole |  
-| bip_39_word_new_line3 | modify
+| bip_39_word_new_line_3 | modify
 hole
 warrior |  
-| bip_39_word_new_line4 | modify
+| bip_39_word_new_line_4 | modify
 hole
 warrior
 fly |  
-| bip_39_word_new_line5 | modify
+| bip_39_word_new_line_5 | modify
 hole
 warrior
 fly
 vapor |  
-| bip_39_word_new_line6 | modify
+| bip_39_word_new_line_6 | modify
 hole
 warrior
 fly
 vapor
 fancy |  
-| bip_39_word_new_line7 | modify
+| bip_39_word_new_line_7 | modify
 hole
 warrior
 fly
 vapor
 fancy
 capital |  
-| bip_39_word_new_line8 | modify
+| bip_39_word_new_line_8 | modify
 hole
 warrior
 fly
@@ -113,7 +113,7 @@ vapor
 fancy
 capital
 soldier |  
-| bip_39_word_new_line9 | modify
+| bip_39_word_new_line_9 | modify
 hole
 warrior
 fly

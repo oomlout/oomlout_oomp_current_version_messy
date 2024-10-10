@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | awful |  
-| bip_39_word_new_br10 | awful<br>match<br>unit<br>unlock<br>amateur<br>crater<br>dish<br>decade<br>print<br>romance |  
-| bip_39_word_new_br11 | awful<br>match<br>unit<br>unlock<br>amateur<br>crater<br>dish<br>decade<br>print<br>romance<br>figure |  
-| bip_39_word_new_br12 | awful<br>match<br>unit<br>unlock<br>amateur<br>crater<br>dish<br>decade<br>print<br>romance<br>figure<br>advance |  
-| bip_39_word_new_br2 | awful<br>match |  
-| bip_39_word_new_br3 | awful<br>match<br>unit |  
-| bip_39_word_new_br4 | awful<br>match<br>unit<br>unlock |  
-| bip_39_word_new_br5 | awful<br>match<br>unit<br>unlock<br>amateur |  
-| bip_39_word_new_br6 | awful<br>match<br>unit<br>unlock<br>amateur<br>crater |  
-| bip_39_word_new_br7 | awful<br>match<br>unit<br>unlock<br>amateur<br>crater<br>dish |  
-| bip_39_word_new_br8 | awful<br>match<br>unit<br>unlock<br>amateur<br>crater<br>dish<br>decade |  
-| bip_39_word_new_br9 | awful<br>match<br>unit<br>unlock<br>amateur<br>crater<br>dish<br>decade<br>print |  
-| bip_39_word_new_line1 | awful |  
-| bip_39_word_new_line10 | awful
+| bip_39_word_new_br_1 | awful |  
+| bip_39_word_new_br_10 | awful<br>match<br>unit<br>unlock<br>amateur<br>crater<br>dish<br>decade<br>print<br>romance |  
+| bip_39_word_new_br_11 | awful<br>match<br>unit<br>unlock<br>amateur<br>crater<br>dish<br>decade<br>print<br>romance<br>figure |  
+| bip_39_word_new_br_12 | awful<br>match<br>unit<br>unlock<br>amateur<br>crater<br>dish<br>decade<br>print<br>romance<br>figure<br>advance |  
+| bip_39_word_new_br_2 | awful<br>match |  
+| bip_39_word_new_br_3 | awful<br>match<br>unit |  
+| bip_39_word_new_br_4 | awful<br>match<br>unit<br>unlock |  
+| bip_39_word_new_br_5 | awful<br>match<br>unit<br>unlock<br>amateur |  
+| bip_39_word_new_br_6 | awful<br>match<br>unit<br>unlock<br>amateur<br>crater |  
+| bip_39_word_new_br_7 | awful<br>match<br>unit<br>unlock<br>amateur<br>crater<br>dish |  
+| bip_39_word_new_br_8 | awful<br>match<br>unit<br>unlock<br>amateur<br>crater<br>dish<br>decade |  
+| bip_39_word_new_br_9 | awful<br>match<br>unit<br>unlock<br>amateur<br>crater<br>dish<br>decade<br>print |  
+| bip_39_word_new_line_1 | awful |  
+| bip_39_word_new_line_10 | awful
 match
 unit
 unlock
@@ -55,7 +55,7 @@ dish
 decade
 print
 romance |  
-| bip_39_word_new_line11 | awful
+| bip_39_word_new_line_11 | awful
 match
 unit
 unlock
@@ -66,7 +66,7 @@ decade
 print
 romance
 figure |  
-| bip_39_word_new_line12 | awful
+| bip_39_word_new_line_12 | awful
 match
 unit
 unlock
@@ -78,34 +78,34 @@ print
 romance
 figure
 advance |  
-| bip_39_word_new_line2 | awful
+| bip_39_word_new_line_2 | awful
 match |  
-| bip_39_word_new_line3 | awful
+| bip_39_word_new_line_3 | awful
 match
 unit |  
-| bip_39_word_new_line4 | awful
+| bip_39_word_new_line_4 | awful
 match
 unit
 unlock |  
-| bip_39_word_new_line5 | awful
+| bip_39_word_new_line_5 | awful
 match
 unit
 unlock
 amateur |  
-| bip_39_word_new_line6 | awful
+| bip_39_word_new_line_6 | awful
 match
 unit
 unlock
 amateur
 crater |  
-| bip_39_word_new_line7 | awful
+| bip_39_word_new_line_7 | awful
 match
 unit
 unlock
 amateur
 crater
 dish |  
-| bip_39_word_new_line8 | awful
+| bip_39_word_new_line_8 | awful
 match
 unit
 unlock
@@ -113,7 +113,7 @@ amateur
 crater
 dish
 decade |  
-| bip_39_word_new_line9 | awful
+| bip_39_word_new_line_9 | awful
 match
 unit
 unlock

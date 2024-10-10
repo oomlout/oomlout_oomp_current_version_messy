@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | please |  
-| bip_39_word_new_br10 | please<br>sense<br>remove<br>tray<br>disagree<br>twin<br>hospital<br>lucky<br>rely<br>addict |  
-| bip_39_word_new_br11 | please<br>sense<br>remove<br>tray<br>disagree<br>twin<br>hospital<br>lucky<br>rely<br>addict<br>wasp |  
-| bip_39_word_new_br12 | please<br>sense<br>remove<br>tray<br>disagree<br>twin<br>hospital<br>lucky<br>rely<br>addict<br>wasp<br>across |  
-| bip_39_word_new_br2 | please<br>sense |  
-| bip_39_word_new_br3 | please<br>sense<br>remove |  
-| bip_39_word_new_br4 | please<br>sense<br>remove<br>tray |  
-| bip_39_word_new_br5 | please<br>sense<br>remove<br>tray<br>disagree |  
-| bip_39_word_new_br6 | please<br>sense<br>remove<br>tray<br>disagree<br>twin |  
-| bip_39_word_new_br7 | please<br>sense<br>remove<br>tray<br>disagree<br>twin<br>hospital |  
-| bip_39_word_new_br8 | please<br>sense<br>remove<br>tray<br>disagree<br>twin<br>hospital<br>lucky |  
-| bip_39_word_new_br9 | please<br>sense<br>remove<br>tray<br>disagree<br>twin<br>hospital<br>lucky<br>rely |  
-| bip_39_word_new_line1 | please |  
-| bip_39_word_new_line10 | please
+| bip_39_word_new_br_1 | please |  
+| bip_39_word_new_br_10 | please<br>sense<br>remove<br>tray<br>disagree<br>twin<br>hospital<br>lucky<br>rely<br>addict |  
+| bip_39_word_new_br_11 | please<br>sense<br>remove<br>tray<br>disagree<br>twin<br>hospital<br>lucky<br>rely<br>addict<br>wasp |  
+| bip_39_word_new_br_12 | please<br>sense<br>remove<br>tray<br>disagree<br>twin<br>hospital<br>lucky<br>rely<br>addict<br>wasp<br>across |  
+| bip_39_word_new_br_2 | please<br>sense |  
+| bip_39_word_new_br_3 | please<br>sense<br>remove |  
+| bip_39_word_new_br_4 | please<br>sense<br>remove<br>tray |  
+| bip_39_word_new_br_5 | please<br>sense<br>remove<br>tray<br>disagree |  
+| bip_39_word_new_br_6 | please<br>sense<br>remove<br>tray<br>disagree<br>twin |  
+| bip_39_word_new_br_7 | please<br>sense<br>remove<br>tray<br>disagree<br>twin<br>hospital |  
+| bip_39_word_new_br_8 | please<br>sense<br>remove<br>tray<br>disagree<br>twin<br>hospital<br>lucky |  
+| bip_39_word_new_br_9 | please<br>sense<br>remove<br>tray<br>disagree<br>twin<br>hospital<br>lucky<br>rely |  
+| bip_39_word_new_line_1 | please |  
+| bip_39_word_new_line_10 | please
 sense
 remove
 tray
@@ -55,7 +55,7 @@ hospital
 lucky
 rely
 addict |  
-| bip_39_word_new_line11 | please
+| bip_39_word_new_line_11 | please
 sense
 remove
 tray
@@ -66,7 +66,7 @@ lucky
 rely
 addict
 wasp |  
-| bip_39_word_new_line12 | please
+| bip_39_word_new_line_12 | please
 sense
 remove
 tray
@@ -78,34 +78,34 @@ rely
 addict
 wasp
 across |  
-| bip_39_word_new_line2 | please
+| bip_39_word_new_line_2 | please
 sense |  
-| bip_39_word_new_line3 | please
+| bip_39_word_new_line_3 | please
 sense
 remove |  
-| bip_39_word_new_line4 | please
+| bip_39_word_new_line_4 | please
 sense
 remove
 tray |  
-| bip_39_word_new_line5 | please
+| bip_39_word_new_line_5 | please
 sense
 remove
 tray
 disagree |  
-| bip_39_word_new_line6 | please
+| bip_39_word_new_line_6 | please
 sense
 remove
 tray
 disagree
 twin |  
-| bip_39_word_new_line7 | please
+| bip_39_word_new_line_7 | please
 sense
 remove
 tray
 disagree
 twin
 hospital |  
-| bip_39_word_new_line8 | please
+| bip_39_word_new_line_8 | please
 sense
 remove
 tray
@@ -113,7 +113,7 @@ disagree
 twin
 hospital
 lucky |  
-| bip_39_word_new_line9 | please
+| bip_39_word_new_line_9 | please
 sense
 remove
 tray

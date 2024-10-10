@@ -1,17 +1,17 @@
-bip_39_word_new_br1: among
-bip_39_word_new_br10: among<br>swift<br>frozen<br>glue<br>legend<br>faculty<br>case<br>stick<br>suffer<br>country
-bip_39_word_new_br11: among<br>swift<br>frozen<br>glue<br>legend<br>faculty<br>case<br>stick<br>suffer<br>country<br>border
-bip_39_word_new_br12: among<br>swift<br>frozen<br>glue<br>legend<br>faculty<br>case<br>stick<br>suffer<br>country<br>border<br>apple
-bip_39_word_new_br2: among<br>swift
-bip_39_word_new_br3: among<br>swift<br>frozen
-bip_39_word_new_br4: among<br>swift<br>frozen<br>glue
-bip_39_word_new_br5: among<br>swift<br>frozen<br>glue<br>legend
-bip_39_word_new_br6: among<br>swift<br>frozen<br>glue<br>legend<br>faculty
-bip_39_word_new_br7: among<br>swift<br>frozen<br>glue<br>legend<br>faculty<br>case
-bip_39_word_new_br8: among<br>swift<br>frozen<br>glue<br>legend<br>faculty<br>case<br>stick
-bip_39_word_new_br9: among<br>swift<br>frozen<br>glue<br>legend<br>faculty<br>case<br>stick<br>suffer
-bip_39_word_new_line1: among
-bip_39_word_new_line10: 'among
+bip_39_word_new_br_1: among
+bip_39_word_new_br_10: among<br>swift<br>frozen<br>glue<br>legend<br>faculty<br>case<br>stick<br>suffer<br>country
+bip_39_word_new_br_11: among<br>swift<br>frozen<br>glue<br>legend<br>faculty<br>case<br>stick<br>suffer<br>country<br>border
+bip_39_word_new_br_12: among<br>swift<br>frozen<br>glue<br>legend<br>faculty<br>case<br>stick<br>suffer<br>country<br>border<br>apple
+bip_39_word_new_br_2: among<br>swift
+bip_39_word_new_br_3: among<br>swift<br>frozen
+bip_39_word_new_br_4: among<br>swift<br>frozen<br>glue
+bip_39_word_new_br_5: among<br>swift<br>frozen<br>glue<br>legend
+bip_39_word_new_br_6: among<br>swift<br>frozen<br>glue<br>legend<br>faculty
+bip_39_word_new_br_7: among<br>swift<br>frozen<br>glue<br>legend<br>faculty<br>case
+bip_39_word_new_br_8: among<br>swift<br>frozen<br>glue<br>legend<br>faculty<br>case<br>stick
+bip_39_word_new_br_9: among<br>swift<br>frozen<br>glue<br>legend<br>faculty<br>case<br>stick<br>suffer
+bip_39_word_new_line_1: among
+bip_39_word_new_line_10: 'among
 
   swift
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'among
   suffer
 
   country'
-bip_39_word_new_line11: 'among
+bip_39_word_new_line_11: 'among
 
   swift
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'among
   country
 
   border'
-bip_39_word_new_line12: 'among
+bip_39_word_new_line_12: 'among
 
   swift
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'among
   border
 
   apple'
-bip_39_word_new_line2: 'among
+bip_39_word_new_line_2: 'among
 
   swift'
-bip_39_word_new_line3: 'among
+bip_39_word_new_line_3: 'among
 
   swift
 
   frozen'
-bip_39_word_new_line4: 'among
+bip_39_word_new_line_4: 'among
 
   swift
 
   frozen
 
   glue'
-bip_39_word_new_line5: 'among
+bip_39_word_new_line_5: 'among
 
   swift
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'among
   glue
 
   legend'
-bip_39_word_new_line6: 'among
+bip_39_word_new_line_6: 'among
 
   swift
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'among
   legend
 
   faculty'
-bip_39_word_new_line7: 'among
+bip_39_word_new_line_7: 'among
 
   swift
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'among
   faculty
 
   case'
-bip_39_word_new_line8: 'among
+bip_39_word_new_line_8: 'among
 
   swift
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'among
   case
 
   stick'
-bip_39_word_new_line9: 'among
+bip_39_word_new_line_9: 'among
 
   swift
 

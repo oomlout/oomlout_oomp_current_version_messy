@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bachelor |  
-| bip_39_word_new_br10 | bachelor<br>truly<br>ordinary<br>same<br>enable<br>walk<br>great<br>rookie<br>polar<br>shoot |  
-| bip_39_word_new_br11 | bachelor<br>truly<br>ordinary<br>same<br>enable<br>walk<br>great<br>rookie<br>polar<br>shoot<br>guilt |  
-| bip_39_word_new_br12 | bachelor<br>truly<br>ordinary<br>same<br>enable<br>walk<br>great<br>rookie<br>polar<br>shoot<br>guilt<br>any |  
-| bip_39_word_new_br2 | bachelor<br>truly |  
-| bip_39_word_new_br3 | bachelor<br>truly<br>ordinary |  
-| bip_39_word_new_br4 | bachelor<br>truly<br>ordinary<br>same |  
-| bip_39_word_new_br5 | bachelor<br>truly<br>ordinary<br>same<br>enable |  
-| bip_39_word_new_br6 | bachelor<br>truly<br>ordinary<br>same<br>enable<br>walk |  
-| bip_39_word_new_br7 | bachelor<br>truly<br>ordinary<br>same<br>enable<br>walk<br>great |  
-| bip_39_word_new_br8 | bachelor<br>truly<br>ordinary<br>same<br>enable<br>walk<br>great<br>rookie |  
-| bip_39_word_new_br9 | bachelor<br>truly<br>ordinary<br>same<br>enable<br>walk<br>great<br>rookie<br>polar |  
-| bip_39_word_new_line1 | bachelor |  
-| bip_39_word_new_line10 | bachelor
+| bip_39_word_new_br_1 | bachelor |  
+| bip_39_word_new_br_10 | bachelor<br>truly<br>ordinary<br>same<br>enable<br>walk<br>great<br>rookie<br>polar<br>shoot |  
+| bip_39_word_new_br_11 | bachelor<br>truly<br>ordinary<br>same<br>enable<br>walk<br>great<br>rookie<br>polar<br>shoot<br>guilt |  
+| bip_39_word_new_br_12 | bachelor<br>truly<br>ordinary<br>same<br>enable<br>walk<br>great<br>rookie<br>polar<br>shoot<br>guilt<br>any |  
+| bip_39_word_new_br_2 | bachelor<br>truly |  
+| bip_39_word_new_br_3 | bachelor<br>truly<br>ordinary |  
+| bip_39_word_new_br_4 | bachelor<br>truly<br>ordinary<br>same |  
+| bip_39_word_new_br_5 | bachelor<br>truly<br>ordinary<br>same<br>enable |  
+| bip_39_word_new_br_6 | bachelor<br>truly<br>ordinary<br>same<br>enable<br>walk |  
+| bip_39_word_new_br_7 | bachelor<br>truly<br>ordinary<br>same<br>enable<br>walk<br>great |  
+| bip_39_word_new_br_8 | bachelor<br>truly<br>ordinary<br>same<br>enable<br>walk<br>great<br>rookie |  
+| bip_39_word_new_br_9 | bachelor<br>truly<br>ordinary<br>same<br>enable<br>walk<br>great<br>rookie<br>polar |  
+| bip_39_word_new_line_1 | bachelor |  
+| bip_39_word_new_line_10 | bachelor
 truly
 ordinary
 same
@@ -55,7 +55,7 @@ great
 rookie
 polar
 shoot |  
-| bip_39_word_new_line11 | bachelor
+| bip_39_word_new_line_11 | bachelor
 truly
 ordinary
 same
@@ -66,7 +66,7 @@ rookie
 polar
 shoot
 guilt |  
-| bip_39_word_new_line12 | bachelor
+| bip_39_word_new_line_12 | bachelor
 truly
 ordinary
 same
@@ -78,34 +78,34 @@ polar
 shoot
 guilt
 any |  
-| bip_39_word_new_line2 | bachelor
+| bip_39_word_new_line_2 | bachelor
 truly |  
-| bip_39_word_new_line3 | bachelor
+| bip_39_word_new_line_3 | bachelor
 truly
 ordinary |  
-| bip_39_word_new_line4 | bachelor
+| bip_39_word_new_line_4 | bachelor
 truly
 ordinary
 same |  
-| bip_39_word_new_line5 | bachelor
+| bip_39_word_new_line_5 | bachelor
 truly
 ordinary
 same
 enable |  
-| bip_39_word_new_line6 | bachelor
+| bip_39_word_new_line_6 | bachelor
 truly
 ordinary
 same
 enable
 walk |  
-| bip_39_word_new_line7 | bachelor
+| bip_39_word_new_line_7 | bachelor
 truly
 ordinary
 same
 enable
 walk
 great |  
-| bip_39_word_new_line8 | bachelor
+| bip_39_word_new_line_8 | bachelor
 truly
 ordinary
 same
@@ -113,7 +113,7 @@ enable
 walk
 great
 rookie |  
-| bip_39_word_new_line9 | bachelor
+| bip_39_word_new_line_9 | bachelor
 truly
 ordinary
 same

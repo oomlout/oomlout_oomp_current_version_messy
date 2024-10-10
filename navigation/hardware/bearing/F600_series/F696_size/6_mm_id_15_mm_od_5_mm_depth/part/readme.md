@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wave |  
-| bip_39_word_new_br10 | wave<br>point<br>zone<br>frost<br>erosion<br>they<br>century<br>squeeze<br>foster<br>kingdom |  
-| bip_39_word_new_br11 | wave<br>point<br>zone<br>frost<br>erosion<br>they<br>century<br>squeeze<br>foster<br>kingdom<br>very |  
-| bip_39_word_new_br12 | wave<br>point<br>zone<br>frost<br>erosion<br>they<br>century<br>squeeze<br>foster<br>kingdom<br>very<br>ancient |  
-| bip_39_word_new_br2 | wave<br>point |  
-| bip_39_word_new_br3 | wave<br>point<br>zone |  
-| bip_39_word_new_br4 | wave<br>point<br>zone<br>frost |  
-| bip_39_word_new_br5 | wave<br>point<br>zone<br>frost<br>erosion |  
-| bip_39_word_new_br6 | wave<br>point<br>zone<br>frost<br>erosion<br>they |  
-| bip_39_word_new_br7 | wave<br>point<br>zone<br>frost<br>erosion<br>they<br>century |  
-| bip_39_word_new_br8 | wave<br>point<br>zone<br>frost<br>erosion<br>they<br>century<br>squeeze |  
-| bip_39_word_new_br9 | wave<br>point<br>zone<br>frost<br>erosion<br>they<br>century<br>squeeze<br>foster |  
-| bip_39_word_new_line1 | wave |  
-| bip_39_word_new_line10 | wave
+| bip_39_word_new_br_1 | wave |  
+| bip_39_word_new_br_10 | wave<br>point<br>zone<br>frost<br>erosion<br>they<br>century<br>squeeze<br>foster<br>kingdom |  
+| bip_39_word_new_br_11 | wave<br>point<br>zone<br>frost<br>erosion<br>they<br>century<br>squeeze<br>foster<br>kingdom<br>very |  
+| bip_39_word_new_br_12 | wave<br>point<br>zone<br>frost<br>erosion<br>they<br>century<br>squeeze<br>foster<br>kingdom<br>very<br>ancient |  
+| bip_39_word_new_br_2 | wave<br>point |  
+| bip_39_word_new_br_3 | wave<br>point<br>zone |  
+| bip_39_word_new_br_4 | wave<br>point<br>zone<br>frost |  
+| bip_39_word_new_br_5 | wave<br>point<br>zone<br>frost<br>erosion |  
+| bip_39_word_new_br_6 | wave<br>point<br>zone<br>frost<br>erosion<br>they |  
+| bip_39_word_new_br_7 | wave<br>point<br>zone<br>frost<br>erosion<br>they<br>century |  
+| bip_39_word_new_br_8 | wave<br>point<br>zone<br>frost<br>erosion<br>they<br>century<br>squeeze |  
+| bip_39_word_new_br_9 | wave<br>point<br>zone<br>frost<br>erosion<br>they<br>century<br>squeeze<br>foster |  
+| bip_39_word_new_line_1 | wave |  
+| bip_39_word_new_line_10 | wave
 point
 zone
 frost
@@ -55,7 +55,7 @@ century
 squeeze
 foster
 kingdom |  
-| bip_39_word_new_line11 | wave
+| bip_39_word_new_line_11 | wave
 point
 zone
 frost
@@ -66,7 +66,7 @@ squeeze
 foster
 kingdom
 very |  
-| bip_39_word_new_line12 | wave
+| bip_39_word_new_line_12 | wave
 point
 zone
 frost
@@ -78,34 +78,34 @@ foster
 kingdom
 very
 ancient |  
-| bip_39_word_new_line2 | wave
+| bip_39_word_new_line_2 | wave
 point |  
-| bip_39_word_new_line3 | wave
+| bip_39_word_new_line_3 | wave
 point
 zone |  
-| bip_39_word_new_line4 | wave
+| bip_39_word_new_line_4 | wave
 point
 zone
 frost |  
-| bip_39_word_new_line5 | wave
+| bip_39_word_new_line_5 | wave
 point
 zone
 frost
 erosion |  
-| bip_39_word_new_line6 | wave
+| bip_39_word_new_line_6 | wave
 point
 zone
 frost
 erosion
 they |  
-| bip_39_word_new_line7 | wave
+| bip_39_word_new_line_7 | wave
 point
 zone
 frost
 erosion
 they
 century |  
-| bip_39_word_new_line8 | wave
+| bip_39_word_new_line_8 | wave
 point
 zone
 frost
@@ -113,7 +113,7 @@ erosion
 they
 century
 squeeze |  
-| bip_39_word_new_line9 | wave
+| bip_39_word_new_line_9 | wave
 point
 zone
 frost

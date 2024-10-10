@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | good |  
-| bip_39_word_new_br10 | good<br>angry<br>pave<br>analyst<br>common<br>squirrel<br>common<br>shift<br>sound<br>account |  
-| bip_39_word_new_br11 | good<br>angry<br>pave<br>analyst<br>common<br>squirrel<br>common<br>shift<br>sound<br>account<br>sort |  
-| bip_39_word_new_br12 | good<br>angry<br>pave<br>analyst<br>common<br>squirrel<br>common<br>shift<br>sound<br>account<br>sort<br>antique |  
-| bip_39_word_new_br2 | good<br>angry |  
-| bip_39_word_new_br3 | good<br>angry<br>pave |  
-| bip_39_word_new_br4 | good<br>angry<br>pave<br>analyst |  
-| bip_39_word_new_br5 | good<br>angry<br>pave<br>analyst<br>common |  
-| bip_39_word_new_br6 | good<br>angry<br>pave<br>analyst<br>common<br>squirrel |  
-| bip_39_word_new_br7 | good<br>angry<br>pave<br>analyst<br>common<br>squirrel<br>common |  
-| bip_39_word_new_br8 | good<br>angry<br>pave<br>analyst<br>common<br>squirrel<br>common<br>shift |  
-| bip_39_word_new_br9 | good<br>angry<br>pave<br>analyst<br>common<br>squirrel<br>common<br>shift<br>sound |  
-| bip_39_word_new_line1 | good |  
-| bip_39_word_new_line10 | good
+| bip_39_word_new_br_1 | good |  
+| bip_39_word_new_br_10 | good<br>angry<br>pave<br>analyst<br>common<br>squirrel<br>common<br>shift<br>sound<br>account |  
+| bip_39_word_new_br_11 | good<br>angry<br>pave<br>analyst<br>common<br>squirrel<br>common<br>shift<br>sound<br>account<br>sort |  
+| bip_39_word_new_br_12 | good<br>angry<br>pave<br>analyst<br>common<br>squirrel<br>common<br>shift<br>sound<br>account<br>sort<br>antique |  
+| bip_39_word_new_br_2 | good<br>angry |  
+| bip_39_word_new_br_3 | good<br>angry<br>pave |  
+| bip_39_word_new_br_4 | good<br>angry<br>pave<br>analyst |  
+| bip_39_word_new_br_5 | good<br>angry<br>pave<br>analyst<br>common |  
+| bip_39_word_new_br_6 | good<br>angry<br>pave<br>analyst<br>common<br>squirrel |  
+| bip_39_word_new_br_7 | good<br>angry<br>pave<br>analyst<br>common<br>squirrel<br>common |  
+| bip_39_word_new_br_8 | good<br>angry<br>pave<br>analyst<br>common<br>squirrel<br>common<br>shift |  
+| bip_39_word_new_br_9 | good<br>angry<br>pave<br>analyst<br>common<br>squirrel<br>common<br>shift<br>sound |  
+| bip_39_word_new_line_1 | good |  
+| bip_39_word_new_line_10 | good
 angry
 pave
 analyst
@@ -55,7 +55,7 @@ common
 shift
 sound
 account |  
-| bip_39_word_new_line11 | good
+| bip_39_word_new_line_11 | good
 angry
 pave
 analyst
@@ -66,7 +66,7 @@ shift
 sound
 account
 sort |  
-| bip_39_word_new_line12 | good
+| bip_39_word_new_line_12 | good
 angry
 pave
 analyst
@@ -78,34 +78,34 @@ sound
 account
 sort
 antique |  
-| bip_39_word_new_line2 | good
+| bip_39_word_new_line_2 | good
 angry |  
-| bip_39_word_new_line3 | good
+| bip_39_word_new_line_3 | good
 angry
 pave |  
-| bip_39_word_new_line4 | good
+| bip_39_word_new_line_4 | good
 angry
 pave
 analyst |  
-| bip_39_word_new_line5 | good
+| bip_39_word_new_line_5 | good
 angry
 pave
 analyst
 common |  
-| bip_39_word_new_line6 | good
+| bip_39_word_new_line_6 | good
 angry
 pave
 analyst
 common
 squirrel |  
-| bip_39_word_new_line7 | good
+| bip_39_word_new_line_7 | good
 angry
 pave
 analyst
 common
 squirrel
 common |  
-| bip_39_word_new_line8 | good
+| bip_39_word_new_line_8 | good
 angry
 pave
 analyst
@@ -113,7 +113,7 @@ common
 squirrel
 common
 shift |  
-| bip_39_word_new_line9 | good
+| bip_39_word_new_line_9 | good
 angry
 pave
 analyst

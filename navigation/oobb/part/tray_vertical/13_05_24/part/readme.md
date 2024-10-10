@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | junk |  
-| bip_39_word_new_br10 | junk<br>tribe<br>finger<br>raccoon<br>fashion<br>wing<br>snow<br>law<br>trick<br>top |  
-| bip_39_word_new_br11 | junk<br>tribe<br>finger<br>raccoon<br>fashion<br>wing<br>snow<br>law<br>trick<br>top<br>erase |  
-| bip_39_word_new_br12 | junk<br>tribe<br>finger<br>raccoon<br>fashion<br>wing<br>snow<br>law<br>trick<br>top<br>erase<br>artwork |  
-| bip_39_word_new_br2 | junk<br>tribe |  
-| bip_39_word_new_br3 | junk<br>tribe<br>finger |  
-| bip_39_word_new_br4 | junk<br>tribe<br>finger<br>raccoon |  
-| bip_39_word_new_br5 | junk<br>tribe<br>finger<br>raccoon<br>fashion |  
-| bip_39_word_new_br6 | junk<br>tribe<br>finger<br>raccoon<br>fashion<br>wing |  
-| bip_39_word_new_br7 | junk<br>tribe<br>finger<br>raccoon<br>fashion<br>wing<br>snow |  
-| bip_39_word_new_br8 | junk<br>tribe<br>finger<br>raccoon<br>fashion<br>wing<br>snow<br>law |  
-| bip_39_word_new_br9 | junk<br>tribe<br>finger<br>raccoon<br>fashion<br>wing<br>snow<br>law<br>trick |  
-| bip_39_word_new_line1 | junk |  
-| bip_39_word_new_line10 | junk
+| bip_39_word_new_br_1 | junk |  
+| bip_39_word_new_br_10 | junk<br>tribe<br>finger<br>raccoon<br>fashion<br>wing<br>snow<br>law<br>trick<br>top |  
+| bip_39_word_new_br_11 | junk<br>tribe<br>finger<br>raccoon<br>fashion<br>wing<br>snow<br>law<br>trick<br>top<br>erase |  
+| bip_39_word_new_br_12 | junk<br>tribe<br>finger<br>raccoon<br>fashion<br>wing<br>snow<br>law<br>trick<br>top<br>erase<br>artwork |  
+| bip_39_word_new_br_2 | junk<br>tribe |  
+| bip_39_word_new_br_3 | junk<br>tribe<br>finger |  
+| bip_39_word_new_br_4 | junk<br>tribe<br>finger<br>raccoon |  
+| bip_39_word_new_br_5 | junk<br>tribe<br>finger<br>raccoon<br>fashion |  
+| bip_39_word_new_br_6 | junk<br>tribe<br>finger<br>raccoon<br>fashion<br>wing |  
+| bip_39_word_new_br_7 | junk<br>tribe<br>finger<br>raccoon<br>fashion<br>wing<br>snow |  
+| bip_39_word_new_br_8 | junk<br>tribe<br>finger<br>raccoon<br>fashion<br>wing<br>snow<br>law |  
+| bip_39_word_new_br_9 | junk<br>tribe<br>finger<br>raccoon<br>fashion<br>wing<br>snow<br>law<br>trick |  
+| bip_39_word_new_line_1 | junk |  
+| bip_39_word_new_line_10 | junk
 tribe
 finger
 raccoon
@@ -55,7 +55,7 @@ snow
 law
 trick
 top |  
-| bip_39_word_new_line11 | junk
+| bip_39_word_new_line_11 | junk
 tribe
 finger
 raccoon
@@ -66,7 +66,7 @@ law
 trick
 top
 erase |  
-| bip_39_word_new_line12 | junk
+| bip_39_word_new_line_12 | junk
 tribe
 finger
 raccoon
@@ -78,34 +78,34 @@ trick
 top
 erase
 artwork |  
-| bip_39_word_new_line2 | junk
+| bip_39_word_new_line_2 | junk
 tribe |  
-| bip_39_word_new_line3 | junk
+| bip_39_word_new_line_3 | junk
 tribe
 finger |  
-| bip_39_word_new_line4 | junk
+| bip_39_word_new_line_4 | junk
 tribe
 finger
 raccoon |  
-| bip_39_word_new_line5 | junk
+| bip_39_word_new_line_5 | junk
 tribe
 finger
 raccoon
 fashion |  
-| bip_39_word_new_line6 | junk
+| bip_39_word_new_line_6 | junk
 tribe
 finger
 raccoon
 fashion
 wing |  
-| bip_39_word_new_line7 | junk
+| bip_39_word_new_line_7 | junk
 tribe
 finger
 raccoon
 fashion
 wing
 snow |  
-| bip_39_word_new_line8 | junk
+| bip_39_word_new_line_8 | junk
 tribe
 finger
 raccoon
@@ -113,7 +113,7 @@ fashion
 wing
 snow
 law |  
-| bip_39_word_new_line9 | junk
+| bip_39_word_new_line_9 | junk
 tribe
 finger
 raccoon

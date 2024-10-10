@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | call |  
-| bip_39_word_new_br10 | call<br>behind<br>confirm<br>demand<br>eternal<br>please<br>deliver<br>target<br>always<br>warfare |  
-| bip_39_word_new_br11 | call<br>behind<br>confirm<br>demand<br>eternal<br>please<br>deliver<br>target<br>always<br>warfare<br>enlist |  
-| bip_39_word_new_br12 | call<br>behind<br>confirm<br>demand<br>eternal<br>please<br>deliver<br>target<br>always<br>warfare<br>enlist<br>auction |  
-| bip_39_word_new_br2 | call<br>behind |  
-| bip_39_word_new_br3 | call<br>behind<br>confirm |  
-| bip_39_word_new_br4 | call<br>behind<br>confirm<br>demand |  
-| bip_39_word_new_br5 | call<br>behind<br>confirm<br>demand<br>eternal |  
-| bip_39_word_new_br6 | call<br>behind<br>confirm<br>demand<br>eternal<br>please |  
-| bip_39_word_new_br7 | call<br>behind<br>confirm<br>demand<br>eternal<br>please<br>deliver |  
-| bip_39_word_new_br8 | call<br>behind<br>confirm<br>demand<br>eternal<br>please<br>deliver<br>target |  
-| bip_39_word_new_br9 | call<br>behind<br>confirm<br>demand<br>eternal<br>please<br>deliver<br>target<br>always |  
-| bip_39_word_new_line1 | call |  
-| bip_39_word_new_line10 | call
+| bip_39_word_new_br_1 | call |  
+| bip_39_word_new_br_10 | call<br>behind<br>confirm<br>demand<br>eternal<br>please<br>deliver<br>target<br>always<br>warfare |  
+| bip_39_word_new_br_11 | call<br>behind<br>confirm<br>demand<br>eternal<br>please<br>deliver<br>target<br>always<br>warfare<br>enlist |  
+| bip_39_word_new_br_12 | call<br>behind<br>confirm<br>demand<br>eternal<br>please<br>deliver<br>target<br>always<br>warfare<br>enlist<br>auction |  
+| bip_39_word_new_br_2 | call<br>behind |  
+| bip_39_word_new_br_3 | call<br>behind<br>confirm |  
+| bip_39_word_new_br_4 | call<br>behind<br>confirm<br>demand |  
+| bip_39_word_new_br_5 | call<br>behind<br>confirm<br>demand<br>eternal |  
+| bip_39_word_new_br_6 | call<br>behind<br>confirm<br>demand<br>eternal<br>please |  
+| bip_39_word_new_br_7 | call<br>behind<br>confirm<br>demand<br>eternal<br>please<br>deliver |  
+| bip_39_word_new_br_8 | call<br>behind<br>confirm<br>demand<br>eternal<br>please<br>deliver<br>target |  
+| bip_39_word_new_br_9 | call<br>behind<br>confirm<br>demand<br>eternal<br>please<br>deliver<br>target<br>always |  
+| bip_39_word_new_line_1 | call |  
+| bip_39_word_new_line_10 | call
 behind
 confirm
 demand
@@ -55,7 +55,7 @@ deliver
 target
 always
 warfare |  
-| bip_39_word_new_line11 | call
+| bip_39_word_new_line_11 | call
 behind
 confirm
 demand
@@ -66,7 +66,7 @@ target
 always
 warfare
 enlist |  
-| bip_39_word_new_line12 | call
+| bip_39_word_new_line_12 | call
 behind
 confirm
 demand
@@ -78,34 +78,34 @@ always
 warfare
 enlist
 auction |  
-| bip_39_word_new_line2 | call
+| bip_39_word_new_line_2 | call
 behind |  
-| bip_39_word_new_line3 | call
+| bip_39_word_new_line_3 | call
 behind
 confirm |  
-| bip_39_word_new_line4 | call
+| bip_39_word_new_line_4 | call
 behind
 confirm
 demand |  
-| bip_39_word_new_line5 | call
+| bip_39_word_new_line_5 | call
 behind
 confirm
 demand
 eternal |  
-| bip_39_word_new_line6 | call
+| bip_39_word_new_line_6 | call
 behind
 confirm
 demand
 eternal
 please |  
-| bip_39_word_new_line7 | call
+| bip_39_word_new_line_7 | call
 behind
 confirm
 demand
 eternal
 please
 deliver |  
-| bip_39_word_new_line8 | call
+| bip_39_word_new_line_8 | call
 behind
 confirm
 demand
@@ -113,7 +113,7 @@ eternal
 please
 deliver
 target |  
-| bip_39_word_new_line9 | call
+| bip_39_word_new_line_9 | call
 behind
 confirm
 demand

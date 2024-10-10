@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | guilt |  
-| bip_39_word_new_br10 | guilt<br>laptop<br>unaware<br>keen<br>cancel<br>apart<br>soldier<br>inherit<br>aim<br>decline |  
-| bip_39_word_new_br11 | guilt<br>laptop<br>unaware<br>keen<br>cancel<br>apart<br>soldier<br>inherit<br>aim<br>decline<br>drink |  
-| bip_39_word_new_br12 | guilt<br>laptop<br>unaware<br>keen<br>cancel<br>apart<br>soldier<br>inherit<br>aim<br>decline<br>drink<br>armor |  
-| bip_39_word_new_br2 | guilt<br>laptop |  
-| bip_39_word_new_br3 | guilt<br>laptop<br>unaware |  
-| bip_39_word_new_br4 | guilt<br>laptop<br>unaware<br>keen |  
-| bip_39_word_new_br5 | guilt<br>laptop<br>unaware<br>keen<br>cancel |  
-| bip_39_word_new_br6 | guilt<br>laptop<br>unaware<br>keen<br>cancel<br>apart |  
-| bip_39_word_new_br7 | guilt<br>laptop<br>unaware<br>keen<br>cancel<br>apart<br>soldier |  
-| bip_39_word_new_br8 | guilt<br>laptop<br>unaware<br>keen<br>cancel<br>apart<br>soldier<br>inherit |  
-| bip_39_word_new_br9 | guilt<br>laptop<br>unaware<br>keen<br>cancel<br>apart<br>soldier<br>inherit<br>aim |  
-| bip_39_word_new_line1 | guilt |  
-| bip_39_word_new_line10 | guilt
+| bip_39_word_new_br_1 | guilt |  
+| bip_39_word_new_br_10 | guilt<br>laptop<br>unaware<br>keen<br>cancel<br>apart<br>soldier<br>inherit<br>aim<br>decline |  
+| bip_39_word_new_br_11 | guilt<br>laptop<br>unaware<br>keen<br>cancel<br>apart<br>soldier<br>inherit<br>aim<br>decline<br>drink |  
+| bip_39_word_new_br_12 | guilt<br>laptop<br>unaware<br>keen<br>cancel<br>apart<br>soldier<br>inherit<br>aim<br>decline<br>drink<br>armor |  
+| bip_39_word_new_br_2 | guilt<br>laptop |  
+| bip_39_word_new_br_3 | guilt<br>laptop<br>unaware |  
+| bip_39_word_new_br_4 | guilt<br>laptop<br>unaware<br>keen |  
+| bip_39_word_new_br_5 | guilt<br>laptop<br>unaware<br>keen<br>cancel |  
+| bip_39_word_new_br_6 | guilt<br>laptop<br>unaware<br>keen<br>cancel<br>apart |  
+| bip_39_word_new_br_7 | guilt<br>laptop<br>unaware<br>keen<br>cancel<br>apart<br>soldier |  
+| bip_39_word_new_br_8 | guilt<br>laptop<br>unaware<br>keen<br>cancel<br>apart<br>soldier<br>inherit |  
+| bip_39_word_new_br_9 | guilt<br>laptop<br>unaware<br>keen<br>cancel<br>apart<br>soldier<br>inherit<br>aim |  
+| bip_39_word_new_line_1 | guilt |  
+| bip_39_word_new_line_10 | guilt
 laptop
 unaware
 keen
@@ -55,7 +55,7 @@ soldier
 inherit
 aim
 decline |  
-| bip_39_word_new_line11 | guilt
+| bip_39_word_new_line_11 | guilt
 laptop
 unaware
 keen
@@ -66,7 +66,7 @@ inherit
 aim
 decline
 drink |  
-| bip_39_word_new_line12 | guilt
+| bip_39_word_new_line_12 | guilt
 laptop
 unaware
 keen
@@ -78,34 +78,34 @@ aim
 decline
 drink
 armor |  
-| bip_39_word_new_line2 | guilt
+| bip_39_word_new_line_2 | guilt
 laptop |  
-| bip_39_word_new_line3 | guilt
+| bip_39_word_new_line_3 | guilt
 laptop
 unaware |  
-| bip_39_word_new_line4 | guilt
+| bip_39_word_new_line_4 | guilt
 laptop
 unaware
 keen |  
-| bip_39_word_new_line5 | guilt
+| bip_39_word_new_line_5 | guilt
 laptop
 unaware
 keen
 cancel |  
-| bip_39_word_new_line6 | guilt
+| bip_39_word_new_line_6 | guilt
 laptop
 unaware
 keen
 cancel
 apart |  
-| bip_39_word_new_line7 | guilt
+| bip_39_word_new_line_7 | guilt
 laptop
 unaware
 keen
 cancel
 apart
 soldier |  
-| bip_39_word_new_line8 | guilt
+| bip_39_word_new_line_8 | guilt
 laptop
 unaware
 keen
@@ -113,7 +113,7 @@ cancel
 apart
 soldier
 inherit |  
-| bip_39_word_new_line9 | guilt
+| bip_39_word_new_line_9 | guilt
 laptop
 unaware
 keen

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wage |  
-| bip_39_word_new_br10 | wage<br>angle<br>link<br>salmon<br>deer<br>faith<br>renew<br>flee<br>vessel<br>hockey |  
-| bip_39_word_new_br11 | wage<br>angle<br>link<br>salmon<br>deer<br>faith<br>renew<br>flee<br>vessel<br>hockey<br>thing |  
-| bip_39_word_new_br12 | wage<br>angle<br>link<br>salmon<br>deer<br>faith<br>renew<br>flee<br>vessel<br>hockey<br>thing<br>almost |  
-| bip_39_word_new_br2 | wage<br>angle |  
-| bip_39_word_new_br3 | wage<br>angle<br>link |  
-| bip_39_word_new_br4 | wage<br>angle<br>link<br>salmon |  
-| bip_39_word_new_br5 | wage<br>angle<br>link<br>salmon<br>deer |  
-| bip_39_word_new_br6 | wage<br>angle<br>link<br>salmon<br>deer<br>faith |  
-| bip_39_word_new_br7 | wage<br>angle<br>link<br>salmon<br>deer<br>faith<br>renew |  
-| bip_39_word_new_br8 | wage<br>angle<br>link<br>salmon<br>deer<br>faith<br>renew<br>flee |  
-| bip_39_word_new_br9 | wage<br>angle<br>link<br>salmon<br>deer<br>faith<br>renew<br>flee<br>vessel |  
-| bip_39_word_new_line1 | wage |  
-| bip_39_word_new_line10 | wage
+| bip_39_word_new_br_1 | wage |  
+| bip_39_word_new_br_10 | wage<br>angle<br>link<br>salmon<br>deer<br>faith<br>renew<br>flee<br>vessel<br>hockey |  
+| bip_39_word_new_br_11 | wage<br>angle<br>link<br>salmon<br>deer<br>faith<br>renew<br>flee<br>vessel<br>hockey<br>thing |  
+| bip_39_word_new_br_12 | wage<br>angle<br>link<br>salmon<br>deer<br>faith<br>renew<br>flee<br>vessel<br>hockey<br>thing<br>almost |  
+| bip_39_word_new_br_2 | wage<br>angle |  
+| bip_39_word_new_br_3 | wage<br>angle<br>link |  
+| bip_39_word_new_br_4 | wage<br>angle<br>link<br>salmon |  
+| bip_39_word_new_br_5 | wage<br>angle<br>link<br>salmon<br>deer |  
+| bip_39_word_new_br_6 | wage<br>angle<br>link<br>salmon<br>deer<br>faith |  
+| bip_39_word_new_br_7 | wage<br>angle<br>link<br>salmon<br>deer<br>faith<br>renew |  
+| bip_39_word_new_br_8 | wage<br>angle<br>link<br>salmon<br>deer<br>faith<br>renew<br>flee |  
+| bip_39_word_new_br_9 | wage<br>angle<br>link<br>salmon<br>deer<br>faith<br>renew<br>flee<br>vessel |  
+| bip_39_word_new_line_1 | wage |  
+| bip_39_word_new_line_10 | wage
 angle
 link
 salmon
@@ -55,7 +55,7 @@ renew
 flee
 vessel
 hockey |  
-| bip_39_word_new_line11 | wage
+| bip_39_word_new_line_11 | wage
 angle
 link
 salmon
@@ -66,7 +66,7 @@ flee
 vessel
 hockey
 thing |  
-| bip_39_word_new_line12 | wage
+| bip_39_word_new_line_12 | wage
 angle
 link
 salmon
@@ -78,34 +78,34 @@ vessel
 hockey
 thing
 almost |  
-| bip_39_word_new_line2 | wage
+| bip_39_word_new_line_2 | wage
 angle |  
-| bip_39_word_new_line3 | wage
+| bip_39_word_new_line_3 | wage
 angle
 link |  
-| bip_39_word_new_line4 | wage
+| bip_39_word_new_line_4 | wage
 angle
 link
 salmon |  
-| bip_39_word_new_line5 | wage
+| bip_39_word_new_line_5 | wage
 angle
 link
 salmon
 deer |  
-| bip_39_word_new_line6 | wage
+| bip_39_word_new_line_6 | wage
 angle
 link
 salmon
 deer
 faith |  
-| bip_39_word_new_line7 | wage
+| bip_39_word_new_line_7 | wage
 angle
 link
 salmon
 deer
 faith
 renew |  
-| bip_39_word_new_line8 | wage
+| bip_39_word_new_line_8 | wage
 angle
 link
 salmon
@@ -113,7 +113,7 @@ deer
 faith
 renew
 flee |  
-| bip_39_word_new_line9 | wage
+| bip_39_word_new_line_9 | wage
 angle
 link
 salmon

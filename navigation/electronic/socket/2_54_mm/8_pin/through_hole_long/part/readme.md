@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | actor |  
-| bip_39_word_new_br10 | actor<br>assist<br>joke<br>praise<br>divide<br>hidden<br>swamp<br>ladder<br>kitchen<br>idle |  
-| bip_39_word_new_br11 | actor<br>assist<br>joke<br>praise<br>divide<br>hidden<br>swamp<br>ladder<br>kitchen<br>idle<br>sweet |  
-| bip_39_word_new_br12 | actor<br>assist<br>joke<br>praise<br>divide<br>hidden<br>swamp<br>ladder<br>kitchen<br>idle<br>sweet<br>abstract |  
-| bip_39_word_new_br2 | actor<br>assist |  
-| bip_39_word_new_br3 | actor<br>assist<br>joke |  
-| bip_39_word_new_br4 | actor<br>assist<br>joke<br>praise |  
-| bip_39_word_new_br5 | actor<br>assist<br>joke<br>praise<br>divide |  
-| bip_39_word_new_br6 | actor<br>assist<br>joke<br>praise<br>divide<br>hidden |  
-| bip_39_word_new_br7 | actor<br>assist<br>joke<br>praise<br>divide<br>hidden<br>swamp |  
-| bip_39_word_new_br8 | actor<br>assist<br>joke<br>praise<br>divide<br>hidden<br>swamp<br>ladder |  
-| bip_39_word_new_br9 | actor<br>assist<br>joke<br>praise<br>divide<br>hidden<br>swamp<br>ladder<br>kitchen |  
-| bip_39_word_new_line1 | actor |  
-| bip_39_word_new_line10 | actor
+| bip_39_word_new_br_1 | actor |  
+| bip_39_word_new_br_10 | actor<br>assist<br>joke<br>praise<br>divide<br>hidden<br>swamp<br>ladder<br>kitchen<br>idle |  
+| bip_39_word_new_br_11 | actor<br>assist<br>joke<br>praise<br>divide<br>hidden<br>swamp<br>ladder<br>kitchen<br>idle<br>sweet |  
+| bip_39_word_new_br_12 | actor<br>assist<br>joke<br>praise<br>divide<br>hidden<br>swamp<br>ladder<br>kitchen<br>idle<br>sweet<br>abstract |  
+| bip_39_word_new_br_2 | actor<br>assist |  
+| bip_39_word_new_br_3 | actor<br>assist<br>joke |  
+| bip_39_word_new_br_4 | actor<br>assist<br>joke<br>praise |  
+| bip_39_word_new_br_5 | actor<br>assist<br>joke<br>praise<br>divide |  
+| bip_39_word_new_br_6 | actor<br>assist<br>joke<br>praise<br>divide<br>hidden |  
+| bip_39_word_new_br_7 | actor<br>assist<br>joke<br>praise<br>divide<br>hidden<br>swamp |  
+| bip_39_word_new_br_8 | actor<br>assist<br>joke<br>praise<br>divide<br>hidden<br>swamp<br>ladder |  
+| bip_39_word_new_br_9 | actor<br>assist<br>joke<br>praise<br>divide<br>hidden<br>swamp<br>ladder<br>kitchen |  
+| bip_39_word_new_line_1 | actor |  
+| bip_39_word_new_line_10 | actor
 assist
 joke
 praise
@@ -55,7 +55,7 @@ swamp
 ladder
 kitchen
 idle |  
-| bip_39_word_new_line11 | actor
+| bip_39_word_new_line_11 | actor
 assist
 joke
 praise
@@ -66,7 +66,7 @@ ladder
 kitchen
 idle
 sweet |  
-| bip_39_word_new_line12 | actor
+| bip_39_word_new_line_12 | actor
 assist
 joke
 praise
@@ -78,34 +78,34 @@ kitchen
 idle
 sweet
 abstract |  
-| bip_39_word_new_line2 | actor
+| bip_39_word_new_line_2 | actor
 assist |  
-| bip_39_word_new_line3 | actor
+| bip_39_word_new_line_3 | actor
 assist
 joke |  
-| bip_39_word_new_line4 | actor
+| bip_39_word_new_line_4 | actor
 assist
 joke
 praise |  
-| bip_39_word_new_line5 | actor
+| bip_39_word_new_line_5 | actor
 assist
 joke
 praise
 divide |  
-| bip_39_word_new_line6 | actor
+| bip_39_word_new_line_6 | actor
 assist
 joke
 praise
 divide
 hidden |  
-| bip_39_word_new_line7 | actor
+| bip_39_word_new_line_7 | actor
 assist
 joke
 praise
 divide
 hidden
 swamp |  
-| bip_39_word_new_line8 | actor
+| bip_39_word_new_line_8 | actor
 assist
 joke
 praise
@@ -113,7 +113,7 @@ divide
 hidden
 swamp
 ladder |  
-| bip_39_word_new_line9 | actor
+| bip_39_word_new_line_9 | actor
 assist
 joke
 praise

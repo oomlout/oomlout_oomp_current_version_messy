@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | vote |  
-| bip_39_word_new_br10 | vote<br>exotic<br>tail<br>good<br>traffic<br>satisfy<br>orphan<br>space<br>average<br>coyote |  
-| bip_39_word_new_br11 | vote<br>exotic<br>tail<br>good<br>traffic<br>satisfy<br>orphan<br>space<br>average<br>coyote<br>refuse |  
-| bip_39_word_new_br12 | vote<br>exotic<br>tail<br>good<br>traffic<br>satisfy<br>orphan<br>space<br>average<br>coyote<br>refuse<br>always |  
-| bip_39_word_new_br2 | vote<br>exotic |  
-| bip_39_word_new_br3 | vote<br>exotic<br>tail |  
-| bip_39_word_new_br4 | vote<br>exotic<br>tail<br>good |  
-| bip_39_word_new_br5 | vote<br>exotic<br>tail<br>good<br>traffic |  
-| bip_39_word_new_br6 | vote<br>exotic<br>tail<br>good<br>traffic<br>satisfy |  
-| bip_39_word_new_br7 | vote<br>exotic<br>tail<br>good<br>traffic<br>satisfy<br>orphan |  
-| bip_39_word_new_br8 | vote<br>exotic<br>tail<br>good<br>traffic<br>satisfy<br>orphan<br>space |  
-| bip_39_word_new_br9 | vote<br>exotic<br>tail<br>good<br>traffic<br>satisfy<br>orphan<br>space<br>average |  
-| bip_39_word_new_line1 | vote |  
-| bip_39_word_new_line10 | vote
+| bip_39_word_new_br_1 | vote |  
+| bip_39_word_new_br_10 | vote<br>exotic<br>tail<br>good<br>traffic<br>satisfy<br>orphan<br>space<br>average<br>coyote |  
+| bip_39_word_new_br_11 | vote<br>exotic<br>tail<br>good<br>traffic<br>satisfy<br>orphan<br>space<br>average<br>coyote<br>refuse |  
+| bip_39_word_new_br_12 | vote<br>exotic<br>tail<br>good<br>traffic<br>satisfy<br>orphan<br>space<br>average<br>coyote<br>refuse<br>always |  
+| bip_39_word_new_br_2 | vote<br>exotic |  
+| bip_39_word_new_br_3 | vote<br>exotic<br>tail |  
+| bip_39_word_new_br_4 | vote<br>exotic<br>tail<br>good |  
+| bip_39_word_new_br_5 | vote<br>exotic<br>tail<br>good<br>traffic |  
+| bip_39_word_new_br_6 | vote<br>exotic<br>tail<br>good<br>traffic<br>satisfy |  
+| bip_39_word_new_br_7 | vote<br>exotic<br>tail<br>good<br>traffic<br>satisfy<br>orphan |  
+| bip_39_word_new_br_8 | vote<br>exotic<br>tail<br>good<br>traffic<br>satisfy<br>orphan<br>space |  
+| bip_39_word_new_br_9 | vote<br>exotic<br>tail<br>good<br>traffic<br>satisfy<br>orphan<br>space<br>average |  
+| bip_39_word_new_line_1 | vote |  
+| bip_39_word_new_line_10 | vote
 exotic
 tail
 good
@@ -55,7 +55,7 @@ orphan
 space
 average
 coyote |  
-| bip_39_word_new_line11 | vote
+| bip_39_word_new_line_11 | vote
 exotic
 tail
 good
@@ -66,7 +66,7 @@ space
 average
 coyote
 refuse |  
-| bip_39_word_new_line12 | vote
+| bip_39_word_new_line_12 | vote
 exotic
 tail
 good
@@ -78,34 +78,34 @@ average
 coyote
 refuse
 always |  
-| bip_39_word_new_line2 | vote
+| bip_39_word_new_line_2 | vote
 exotic |  
-| bip_39_word_new_line3 | vote
+| bip_39_word_new_line_3 | vote
 exotic
 tail |  
-| bip_39_word_new_line4 | vote
+| bip_39_word_new_line_4 | vote
 exotic
 tail
 good |  
-| bip_39_word_new_line5 | vote
+| bip_39_word_new_line_5 | vote
 exotic
 tail
 good
 traffic |  
-| bip_39_word_new_line6 | vote
+| bip_39_word_new_line_6 | vote
 exotic
 tail
 good
 traffic
 satisfy |  
-| bip_39_word_new_line7 | vote
+| bip_39_word_new_line_7 | vote
 exotic
 tail
 good
 traffic
 satisfy
 orphan |  
-| bip_39_word_new_line8 | vote
+| bip_39_word_new_line_8 | vote
 exotic
 tail
 good
@@ -113,7 +113,7 @@ traffic
 satisfy
 orphan
 space |  
-| bip_39_word_new_line9 | vote
+| bip_39_word_new_line_9 | vote
 exotic
 tail
 good

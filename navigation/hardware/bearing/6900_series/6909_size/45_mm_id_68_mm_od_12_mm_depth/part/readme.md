@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | glow |  
-| bip_39_word_new_br10 | glow<br>fix<br>proud<br>jealous<br>hybrid<br>youth<br>bottom<br>job<br>other<br>bird |  
-| bip_39_word_new_br11 | glow<br>fix<br>proud<br>jealous<br>hybrid<br>youth<br>bottom<br>job<br>other<br>bird<br>excuse |  
-| bip_39_word_new_br12 | glow<br>fix<br>proud<br>jealous<br>hybrid<br>youth<br>bottom<br>job<br>other<br>bird<br>excuse<br>aunt |  
-| bip_39_word_new_br2 | glow<br>fix |  
-| bip_39_word_new_br3 | glow<br>fix<br>proud |  
-| bip_39_word_new_br4 | glow<br>fix<br>proud<br>jealous |  
-| bip_39_word_new_br5 | glow<br>fix<br>proud<br>jealous<br>hybrid |  
-| bip_39_word_new_br6 | glow<br>fix<br>proud<br>jealous<br>hybrid<br>youth |  
-| bip_39_word_new_br7 | glow<br>fix<br>proud<br>jealous<br>hybrid<br>youth<br>bottom |  
-| bip_39_word_new_br8 | glow<br>fix<br>proud<br>jealous<br>hybrid<br>youth<br>bottom<br>job |  
-| bip_39_word_new_br9 | glow<br>fix<br>proud<br>jealous<br>hybrid<br>youth<br>bottom<br>job<br>other |  
-| bip_39_word_new_line1 | glow |  
-| bip_39_word_new_line10 | glow
+| bip_39_word_new_br_1 | glow |  
+| bip_39_word_new_br_10 | glow<br>fix<br>proud<br>jealous<br>hybrid<br>youth<br>bottom<br>job<br>other<br>bird |  
+| bip_39_word_new_br_11 | glow<br>fix<br>proud<br>jealous<br>hybrid<br>youth<br>bottom<br>job<br>other<br>bird<br>excuse |  
+| bip_39_word_new_br_12 | glow<br>fix<br>proud<br>jealous<br>hybrid<br>youth<br>bottom<br>job<br>other<br>bird<br>excuse<br>aunt |  
+| bip_39_word_new_br_2 | glow<br>fix |  
+| bip_39_word_new_br_3 | glow<br>fix<br>proud |  
+| bip_39_word_new_br_4 | glow<br>fix<br>proud<br>jealous |  
+| bip_39_word_new_br_5 | glow<br>fix<br>proud<br>jealous<br>hybrid |  
+| bip_39_word_new_br_6 | glow<br>fix<br>proud<br>jealous<br>hybrid<br>youth |  
+| bip_39_word_new_br_7 | glow<br>fix<br>proud<br>jealous<br>hybrid<br>youth<br>bottom |  
+| bip_39_word_new_br_8 | glow<br>fix<br>proud<br>jealous<br>hybrid<br>youth<br>bottom<br>job |  
+| bip_39_word_new_br_9 | glow<br>fix<br>proud<br>jealous<br>hybrid<br>youth<br>bottom<br>job<br>other |  
+| bip_39_word_new_line_1 | glow |  
+| bip_39_word_new_line_10 | glow
 fix
 proud
 jealous
@@ -55,7 +55,7 @@ bottom
 job
 other
 bird |  
-| bip_39_word_new_line11 | glow
+| bip_39_word_new_line_11 | glow
 fix
 proud
 jealous
@@ -66,7 +66,7 @@ job
 other
 bird
 excuse |  
-| bip_39_word_new_line12 | glow
+| bip_39_word_new_line_12 | glow
 fix
 proud
 jealous
@@ -78,34 +78,34 @@ other
 bird
 excuse
 aunt |  
-| bip_39_word_new_line2 | glow
+| bip_39_word_new_line_2 | glow
 fix |  
-| bip_39_word_new_line3 | glow
+| bip_39_word_new_line_3 | glow
 fix
 proud |  
-| bip_39_word_new_line4 | glow
+| bip_39_word_new_line_4 | glow
 fix
 proud
 jealous |  
-| bip_39_word_new_line5 | glow
+| bip_39_word_new_line_5 | glow
 fix
 proud
 jealous
 hybrid |  
-| bip_39_word_new_line6 | glow
+| bip_39_word_new_line_6 | glow
 fix
 proud
 jealous
 hybrid
 youth |  
-| bip_39_word_new_line7 | glow
+| bip_39_word_new_line_7 | glow
 fix
 proud
 jealous
 hybrid
 youth
 bottom |  
-| bip_39_word_new_line8 | glow
+| bip_39_word_new_line_8 | glow
 fix
 proud
 jealous
@@ -113,7 +113,7 @@ hybrid
 youth
 bottom
 job |  
-| bip_39_word_new_line9 | glow
+| bip_39_word_new_line_9 | glow
 fix
 proud
 jealous

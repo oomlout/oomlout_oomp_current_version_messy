@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | price |  
-| bip_39_word_new_br10 | price<br>heavy<br>desk<br>venture<br>direct<br>angry<br>weapon<br>buddy<br>supreme<br>live |  
-| bip_39_word_new_br11 | price<br>heavy<br>desk<br>venture<br>direct<br>angry<br>weapon<br>buddy<br>supreme<br>live<br>dune |  
-| bip_39_word_new_br12 | price<br>heavy<br>desk<br>venture<br>direct<br>angry<br>weapon<br>buddy<br>supreme<br>live<br>dune<br>average |  
-| bip_39_word_new_br2 | price<br>heavy |  
-| bip_39_word_new_br3 | price<br>heavy<br>desk |  
-| bip_39_word_new_br4 | price<br>heavy<br>desk<br>venture |  
-| bip_39_word_new_br5 | price<br>heavy<br>desk<br>venture<br>direct |  
-| bip_39_word_new_br6 | price<br>heavy<br>desk<br>venture<br>direct<br>angry |  
-| bip_39_word_new_br7 | price<br>heavy<br>desk<br>venture<br>direct<br>angry<br>weapon |  
-| bip_39_word_new_br8 | price<br>heavy<br>desk<br>venture<br>direct<br>angry<br>weapon<br>buddy |  
-| bip_39_word_new_br9 | price<br>heavy<br>desk<br>venture<br>direct<br>angry<br>weapon<br>buddy<br>supreme |  
-| bip_39_word_new_line1 | price |  
-| bip_39_word_new_line10 | price
+| bip_39_word_new_br_1 | price |  
+| bip_39_word_new_br_10 | price<br>heavy<br>desk<br>venture<br>direct<br>angry<br>weapon<br>buddy<br>supreme<br>live |  
+| bip_39_word_new_br_11 | price<br>heavy<br>desk<br>venture<br>direct<br>angry<br>weapon<br>buddy<br>supreme<br>live<br>dune |  
+| bip_39_word_new_br_12 | price<br>heavy<br>desk<br>venture<br>direct<br>angry<br>weapon<br>buddy<br>supreme<br>live<br>dune<br>average |  
+| bip_39_word_new_br_2 | price<br>heavy |  
+| bip_39_word_new_br_3 | price<br>heavy<br>desk |  
+| bip_39_word_new_br_4 | price<br>heavy<br>desk<br>venture |  
+| bip_39_word_new_br_5 | price<br>heavy<br>desk<br>venture<br>direct |  
+| bip_39_word_new_br_6 | price<br>heavy<br>desk<br>venture<br>direct<br>angry |  
+| bip_39_word_new_br_7 | price<br>heavy<br>desk<br>venture<br>direct<br>angry<br>weapon |  
+| bip_39_word_new_br_8 | price<br>heavy<br>desk<br>venture<br>direct<br>angry<br>weapon<br>buddy |  
+| bip_39_word_new_br_9 | price<br>heavy<br>desk<br>venture<br>direct<br>angry<br>weapon<br>buddy<br>supreme |  
+| bip_39_word_new_line_1 | price |  
+| bip_39_word_new_line_10 | price
 heavy
 desk
 venture
@@ -55,7 +55,7 @@ weapon
 buddy
 supreme
 live |  
-| bip_39_word_new_line11 | price
+| bip_39_word_new_line_11 | price
 heavy
 desk
 venture
@@ -66,7 +66,7 @@ buddy
 supreme
 live
 dune |  
-| bip_39_word_new_line12 | price
+| bip_39_word_new_line_12 | price
 heavy
 desk
 venture
@@ -78,34 +78,34 @@ supreme
 live
 dune
 average |  
-| bip_39_word_new_line2 | price
+| bip_39_word_new_line_2 | price
 heavy |  
-| bip_39_word_new_line3 | price
+| bip_39_word_new_line_3 | price
 heavy
 desk |  
-| bip_39_word_new_line4 | price
+| bip_39_word_new_line_4 | price
 heavy
 desk
 venture |  
-| bip_39_word_new_line5 | price
+| bip_39_word_new_line_5 | price
 heavy
 desk
 venture
 direct |  
-| bip_39_word_new_line6 | price
+| bip_39_word_new_line_6 | price
 heavy
 desk
 venture
 direct
 angry |  
-| bip_39_word_new_line7 | price
+| bip_39_word_new_line_7 | price
 heavy
 desk
 venture
 direct
 angry
 weapon |  
-| bip_39_word_new_line8 | price
+| bip_39_word_new_line_8 | price
 heavy
 desk
 venture
@@ -113,7 +113,7 @@ direct
 angry
 weapon
 buddy |  
-| bip_39_word_new_line9 | price
+| bip_39_word_new_line_9 | price
 heavy
 desk
 venture

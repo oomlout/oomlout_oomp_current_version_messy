@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | clever |  
-| bip_39_word_new_br10 | clever<br>drop<br>announce<br>allow<br>maple<br>recipe<br>meat<br>manual<br>brick<br>shallow |  
-| bip_39_word_new_br11 | clever<br>drop<br>announce<br>allow<br>maple<br>recipe<br>meat<br>manual<br>brick<br>shallow<br>reduce |  
-| bip_39_word_new_br12 | clever<br>drop<br>announce<br>allow<br>maple<br>recipe<br>meat<br>manual<br>brick<br>shallow<br>reduce<br>always |  
-| bip_39_word_new_br2 | clever<br>drop |  
-| bip_39_word_new_br3 | clever<br>drop<br>announce |  
-| bip_39_word_new_br4 | clever<br>drop<br>announce<br>allow |  
-| bip_39_word_new_br5 | clever<br>drop<br>announce<br>allow<br>maple |  
-| bip_39_word_new_br6 | clever<br>drop<br>announce<br>allow<br>maple<br>recipe |  
-| bip_39_word_new_br7 | clever<br>drop<br>announce<br>allow<br>maple<br>recipe<br>meat |  
-| bip_39_word_new_br8 | clever<br>drop<br>announce<br>allow<br>maple<br>recipe<br>meat<br>manual |  
-| bip_39_word_new_br9 | clever<br>drop<br>announce<br>allow<br>maple<br>recipe<br>meat<br>manual<br>brick |  
-| bip_39_word_new_line1 | clever |  
-| bip_39_word_new_line10 | clever
+| bip_39_word_new_br_1 | clever |  
+| bip_39_word_new_br_10 | clever<br>drop<br>announce<br>allow<br>maple<br>recipe<br>meat<br>manual<br>brick<br>shallow |  
+| bip_39_word_new_br_11 | clever<br>drop<br>announce<br>allow<br>maple<br>recipe<br>meat<br>manual<br>brick<br>shallow<br>reduce |  
+| bip_39_word_new_br_12 | clever<br>drop<br>announce<br>allow<br>maple<br>recipe<br>meat<br>manual<br>brick<br>shallow<br>reduce<br>always |  
+| bip_39_word_new_br_2 | clever<br>drop |  
+| bip_39_word_new_br_3 | clever<br>drop<br>announce |  
+| bip_39_word_new_br_4 | clever<br>drop<br>announce<br>allow |  
+| bip_39_word_new_br_5 | clever<br>drop<br>announce<br>allow<br>maple |  
+| bip_39_word_new_br_6 | clever<br>drop<br>announce<br>allow<br>maple<br>recipe |  
+| bip_39_word_new_br_7 | clever<br>drop<br>announce<br>allow<br>maple<br>recipe<br>meat |  
+| bip_39_word_new_br_8 | clever<br>drop<br>announce<br>allow<br>maple<br>recipe<br>meat<br>manual |  
+| bip_39_word_new_br_9 | clever<br>drop<br>announce<br>allow<br>maple<br>recipe<br>meat<br>manual<br>brick |  
+| bip_39_word_new_line_1 | clever |  
+| bip_39_word_new_line_10 | clever
 drop
 announce
 allow
@@ -55,7 +55,7 @@ meat
 manual
 brick
 shallow |  
-| bip_39_word_new_line11 | clever
+| bip_39_word_new_line_11 | clever
 drop
 announce
 allow
@@ -66,7 +66,7 @@ manual
 brick
 shallow
 reduce |  
-| bip_39_word_new_line12 | clever
+| bip_39_word_new_line_12 | clever
 drop
 announce
 allow
@@ -78,34 +78,34 @@ brick
 shallow
 reduce
 always |  
-| bip_39_word_new_line2 | clever
+| bip_39_word_new_line_2 | clever
 drop |  
-| bip_39_word_new_line3 | clever
+| bip_39_word_new_line_3 | clever
 drop
 announce |  
-| bip_39_word_new_line4 | clever
+| bip_39_word_new_line_4 | clever
 drop
 announce
 allow |  
-| bip_39_word_new_line5 | clever
+| bip_39_word_new_line_5 | clever
 drop
 announce
 allow
 maple |  
-| bip_39_word_new_line6 | clever
+| bip_39_word_new_line_6 | clever
 drop
 announce
 allow
 maple
 recipe |  
-| bip_39_word_new_line7 | clever
+| bip_39_word_new_line_7 | clever
 drop
 announce
 allow
 maple
 recipe
 meat |  
-| bip_39_word_new_line8 | clever
+| bip_39_word_new_line_8 | clever
 drop
 announce
 allow
@@ -113,7 +113,7 @@ maple
 recipe
 meat
 manual |  
-| bip_39_word_new_line9 | clever
+| bip_39_word_new_line_9 | clever
 drop
 announce
 allow

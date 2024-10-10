@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | grain |  
-| bip_39_word_new_br10 | grain<br>kiss<br>ridge<br>able<br>garbage<br>orient<br>identify<br>step<br>gown<br>broccoli |  
-| bip_39_word_new_br11 | grain<br>kiss<br>ridge<br>able<br>garbage<br>orient<br>identify<br>step<br>gown<br>broccoli<br>sea |  
-| bip_39_word_new_br12 | grain<br>kiss<br>ridge<br>able<br>garbage<br>orient<br>identify<br>step<br>gown<br>broccoli<br>sea<br>author |  
-| bip_39_word_new_br2 | grain<br>kiss |  
-| bip_39_word_new_br3 | grain<br>kiss<br>ridge |  
-| bip_39_word_new_br4 | grain<br>kiss<br>ridge<br>able |  
-| bip_39_word_new_br5 | grain<br>kiss<br>ridge<br>able<br>garbage |  
-| bip_39_word_new_br6 | grain<br>kiss<br>ridge<br>able<br>garbage<br>orient |  
-| bip_39_word_new_br7 | grain<br>kiss<br>ridge<br>able<br>garbage<br>orient<br>identify |  
-| bip_39_word_new_br8 | grain<br>kiss<br>ridge<br>able<br>garbage<br>orient<br>identify<br>step |  
-| bip_39_word_new_br9 | grain<br>kiss<br>ridge<br>able<br>garbage<br>orient<br>identify<br>step<br>gown |  
-| bip_39_word_new_line1 | grain |  
-| bip_39_word_new_line10 | grain
+| bip_39_word_new_br_1 | grain |  
+| bip_39_word_new_br_10 | grain<br>kiss<br>ridge<br>able<br>garbage<br>orient<br>identify<br>step<br>gown<br>broccoli |  
+| bip_39_word_new_br_11 | grain<br>kiss<br>ridge<br>able<br>garbage<br>orient<br>identify<br>step<br>gown<br>broccoli<br>sea |  
+| bip_39_word_new_br_12 | grain<br>kiss<br>ridge<br>able<br>garbage<br>orient<br>identify<br>step<br>gown<br>broccoli<br>sea<br>author |  
+| bip_39_word_new_br_2 | grain<br>kiss |  
+| bip_39_word_new_br_3 | grain<br>kiss<br>ridge |  
+| bip_39_word_new_br_4 | grain<br>kiss<br>ridge<br>able |  
+| bip_39_word_new_br_5 | grain<br>kiss<br>ridge<br>able<br>garbage |  
+| bip_39_word_new_br_6 | grain<br>kiss<br>ridge<br>able<br>garbage<br>orient |  
+| bip_39_word_new_br_7 | grain<br>kiss<br>ridge<br>able<br>garbage<br>orient<br>identify |  
+| bip_39_word_new_br_8 | grain<br>kiss<br>ridge<br>able<br>garbage<br>orient<br>identify<br>step |  
+| bip_39_word_new_br_9 | grain<br>kiss<br>ridge<br>able<br>garbage<br>orient<br>identify<br>step<br>gown |  
+| bip_39_word_new_line_1 | grain |  
+| bip_39_word_new_line_10 | grain
 kiss
 ridge
 able
@@ -55,7 +55,7 @@ identify
 step
 gown
 broccoli |  
-| bip_39_word_new_line11 | grain
+| bip_39_word_new_line_11 | grain
 kiss
 ridge
 able
@@ -66,7 +66,7 @@ step
 gown
 broccoli
 sea |  
-| bip_39_word_new_line12 | grain
+| bip_39_word_new_line_12 | grain
 kiss
 ridge
 able
@@ -78,34 +78,34 @@ gown
 broccoli
 sea
 author |  
-| bip_39_word_new_line2 | grain
+| bip_39_word_new_line_2 | grain
 kiss |  
-| bip_39_word_new_line3 | grain
+| bip_39_word_new_line_3 | grain
 kiss
 ridge |  
-| bip_39_word_new_line4 | grain
+| bip_39_word_new_line_4 | grain
 kiss
 ridge
 able |  
-| bip_39_word_new_line5 | grain
+| bip_39_word_new_line_5 | grain
 kiss
 ridge
 able
 garbage |  
-| bip_39_word_new_line6 | grain
+| bip_39_word_new_line_6 | grain
 kiss
 ridge
 able
 garbage
 orient |  
-| bip_39_word_new_line7 | grain
+| bip_39_word_new_line_7 | grain
 kiss
 ridge
 able
 garbage
 orient
 identify |  
-| bip_39_word_new_line8 | grain
+| bip_39_word_new_line_8 | grain
 kiss
 ridge
 able
@@ -113,7 +113,7 @@ garbage
 orient
 identify
 step |  
-| bip_39_word_new_line9 | grain
+| bip_39_word_new_line_9 | grain
 kiss
 ridge
 able

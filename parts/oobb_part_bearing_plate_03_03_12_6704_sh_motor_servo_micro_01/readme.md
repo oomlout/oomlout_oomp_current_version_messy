@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | arm |  
-| bip_39_word_new_br10 | arm<br>pistol<br>short<br>alpha<br>possible<br>father<br>nice<br>sense<br>bracket<br>expand |  
-| bip_39_word_new_br11 | arm<br>pistol<br>short<br>alpha<br>possible<br>father<br>nice<br>sense<br>bracket<br>expand<br>ride |  
-| bip_39_word_new_br12 | arm<br>pistol<br>short<br>alpha<br>possible<br>father<br>nice<br>sense<br>bracket<br>expand<br>ride<br>ankle |  
-| bip_39_word_new_br2 | arm<br>pistol |  
-| bip_39_word_new_br3 | arm<br>pistol<br>short |  
-| bip_39_word_new_br4 | arm<br>pistol<br>short<br>alpha |  
-| bip_39_word_new_br5 | arm<br>pistol<br>short<br>alpha<br>possible |  
-| bip_39_word_new_br6 | arm<br>pistol<br>short<br>alpha<br>possible<br>father |  
-| bip_39_word_new_br7 | arm<br>pistol<br>short<br>alpha<br>possible<br>father<br>nice |  
-| bip_39_word_new_br8 | arm<br>pistol<br>short<br>alpha<br>possible<br>father<br>nice<br>sense |  
-| bip_39_word_new_br9 | arm<br>pistol<br>short<br>alpha<br>possible<br>father<br>nice<br>sense<br>bracket |  
-| bip_39_word_new_line1 | arm |  
-| bip_39_word_new_line10 | arm
+| bip_39_word_new_br_1 | arm |  
+| bip_39_word_new_br_10 | arm<br>pistol<br>short<br>alpha<br>possible<br>father<br>nice<br>sense<br>bracket<br>expand |  
+| bip_39_word_new_br_11 | arm<br>pistol<br>short<br>alpha<br>possible<br>father<br>nice<br>sense<br>bracket<br>expand<br>ride |  
+| bip_39_word_new_br_12 | arm<br>pistol<br>short<br>alpha<br>possible<br>father<br>nice<br>sense<br>bracket<br>expand<br>ride<br>ankle |  
+| bip_39_word_new_br_2 | arm<br>pistol |  
+| bip_39_word_new_br_3 | arm<br>pistol<br>short |  
+| bip_39_word_new_br_4 | arm<br>pistol<br>short<br>alpha |  
+| bip_39_word_new_br_5 | arm<br>pistol<br>short<br>alpha<br>possible |  
+| bip_39_word_new_br_6 | arm<br>pistol<br>short<br>alpha<br>possible<br>father |  
+| bip_39_word_new_br_7 | arm<br>pistol<br>short<br>alpha<br>possible<br>father<br>nice |  
+| bip_39_word_new_br_8 | arm<br>pistol<br>short<br>alpha<br>possible<br>father<br>nice<br>sense |  
+| bip_39_word_new_br_9 | arm<br>pistol<br>short<br>alpha<br>possible<br>father<br>nice<br>sense<br>bracket |  
+| bip_39_word_new_line_1 | arm |  
+| bip_39_word_new_line_10 | arm
 pistol
 short
 alpha
@@ -55,7 +55,7 @@ nice
 sense
 bracket
 expand |  
-| bip_39_word_new_line11 | arm
+| bip_39_word_new_line_11 | arm
 pistol
 short
 alpha
@@ -66,7 +66,7 @@ sense
 bracket
 expand
 ride |  
-| bip_39_word_new_line12 | arm
+| bip_39_word_new_line_12 | arm
 pistol
 short
 alpha
@@ -78,34 +78,34 @@ bracket
 expand
 ride
 ankle |  
-| bip_39_word_new_line2 | arm
+| bip_39_word_new_line_2 | arm
 pistol |  
-| bip_39_word_new_line3 | arm
+| bip_39_word_new_line_3 | arm
 pistol
 short |  
-| bip_39_word_new_line4 | arm
+| bip_39_word_new_line_4 | arm
 pistol
 short
 alpha |  
-| bip_39_word_new_line5 | arm
+| bip_39_word_new_line_5 | arm
 pistol
 short
 alpha
 possible |  
-| bip_39_word_new_line6 | arm
+| bip_39_word_new_line_6 | arm
 pistol
 short
 alpha
 possible
 father |  
-| bip_39_word_new_line7 | arm
+| bip_39_word_new_line_7 | arm
 pistol
 short
 alpha
 possible
 father
 nice |  
-| bip_39_word_new_line8 | arm
+| bip_39_word_new_line_8 | arm
 pistol
 short
 alpha
@@ -113,7 +113,7 @@ possible
 father
 nice
 sense |  
-| bip_39_word_new_line9 | arm
+| bip_39_word_new_line_9 | arm
 pistol
 short
 alpha

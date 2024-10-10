@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mask |  
-| bip_39_word_new_br10 | mask<br>coil<br>kiwi<br>daring<br>company<br>health<br>short<br>beyond<br>diagram<br>replace |  
-| bip_39_word_new_br11 | mask<br>coil<br>kiwi<br>daring<br>company<br>health<br>short<br>beyond<br>diagram<br>replace<br>flame |  
-| bip_39_word_new_br12 | mask<br>coil<br>kiwi<br>daring<br>company<br>health<br>short<br>beyond<br>diagram<br>replace<br>flame<br>artwork |  
-| bip_39_word_new_br2 | mask<br>coil |  
-| bip_39_word_new_br3 | mask<br>coil<br>kiwi |  
-| bip_39_word_new_br4 | mask<br>coil<br>kiwi<br>daring |  
-| bip_39_word_new_br5 | mask<br>coil<br>kiwi<br>daring<br>company |  
-| bip_39_word_new_br6 | mask<br>coil<br>kiwi<br>daring<br>company<br>health |  
-| bip_39_word_new_br7 | mask<br>coil<br>kiwi<br>daring<br>company<br>health<br>short |  
-| bip_39_word_new_br8 | mask<br>coil<br>kiwi<br>daring<br>company<br>health<br>short<br>beyond |  
-| bip_39_word_new_br9 | mask<br>coil<br>kiwi<br>daring<br>company<br>health<br>short<br>beyond<br>diagram |  
-| bip_39_word_new_line1 | mask |  
-| bip_39_word_new_line10 | mask
+| bip_39_word_new_br_1 | mask |  
+| bip_39_word_new_br_10 | mask<br>coil<br>kiwi<br>daring<br>company<br>health<br>short<br>beyond<br>diagram<br>replace |  
+| bip_39_word_new_br_11 | mask<br>coil<br>kiwi<br>daring<br>company<br>health<br>short<br>beyond<br>diagram<br>replace<br>flame |  
+| bip_39_word_new_br_12 | mask<br>coil<br>kiwi<br>daring<br>company<br>health<br>short<br>beyond<br>diagram<br>replace<br>flame<br>artwork |  
+| bip_39_word_new_br_2 | mask<br>coil |  
+| bip_39_word_new_br_3 | mask<br>coil<br>kiwi |  
+| bip_39_word_new_br_4 | mask<br>coil<br>kiwi<br>daring |  
+| bip_39_word_new_br_5 | mask<br>coil<br>kiwi<br>daring<br>company |  
+| bip_39_word_new_br_6 | mask<br>coil<br>kiwi<br>daring<br>company<br>health |  
+| bip_39_word_new_br_7 | mask<br>coil<br>kiwi<br>daring<br>company<br>health<br>short |  
+| bip_39_word_new_br_8 | mask<br>coil<br>kiwi<br>daring<br>company<br>health<br>short<br>beyond |  
+| bip_39_word_new_br_9 | mask<br>coil<br>kiwi<br>daring<br>company<br>health<br>short<br>beyond<br>diagram |  
+| bip_39_word_new_line_1 | mask |  
+| bip_39_word_new_line_10 | mask
 coil
 kiwi
 daring
@@ -55,7 +55,7 @@ short
 beyond
 diagram
 replace |  
-| bip_39_word_new_line11 | mask
+| bip_39_word_new_line_11 | mask
 coil
 kiwi
 daring
@@ -66,7 +66,7 @@ beyond
 diagram
 replace
 flame |  
-| bip_39_word_new_line12 | mask
+| bip_39_word_new_line_12 | mask
 coil
 kiwi
 daring
@@ -78,34 +78,34 @@ diagram
 replace
 flame
 artwork |  
-| bip_39_word_new_line2 | mask
+| bip_39_word_new_line_2 | mask
 coil |  
-| bip_39_word_new_line3 | mask
+| bip_39_word_new_line_3 | mask
 coil
 kiwi |  
-| bip_39_word_new_line4 | mask
+| bip_39_word_new_line_4 | mask
 coil
 kiwi
 daring |  
-| bip_39_word_new_line5 | mask
+| bip_39_word_new_line_5 | mask
 coil
 kiwi
 daring
 company |  
-| bip_39_word_new_line6 | mask
+| bip_39_word_new_line_6 | mask
 coil
 kiwi
 daring
 company
 health |  
-| bip_39_word_new_line7 | mask
+| bip_39_word_new_line_7 | mask
 coil
 kiwi
 daring
 company
 health
 short |  
-| bip_39_word_new_line8 | mask
+| bip_39_word_new_line_8 | mask
 coil
 kiwi
 daring
@@ -113,7 +113,7 @@ company
 health
 short
 beyond |  
-| bip_39_word_new_line9 | mask
+| bip_39_word_new_line_9 | mask
 coil
 kiwi
 daring

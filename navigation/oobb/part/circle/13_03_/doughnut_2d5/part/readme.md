@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | noble |  
-| bip_39_word_new_br10 | noble<br>actress<br>found<br>kite<br>carpet<br>matter<br>link<br>document<br>else<br>input |  
-| bip_39_word_new_br11 | noble<br>actress<br>found<br>kite<br>carpet<br>matter<br>link<br>document<br>else<br>input<br>tape |  
-| bip_39_word_new_br12 | noble<br>actress<br>found<br>kite<br>carpet<br>matter<br>link<br>document<br>else<br>input<br>tape<br>advance |  
-| bip_39_word_new_br2 | noble<br>actress |  
-| bip_39_word_new_br3 | noble<br>actress<br>found |  
-| bip_39_word_new_br4 | noble<br>actress<br>found<br>kite |  
-| bip_39_word_new_br5 | noble<br>actress<br>found<br>kite<br>carpet |  
-| bip_39_word_new_br6 | noble<br>actress<br>found<br>kite<br>carpet<br>matter |  
-| bip_39_word_new_br7 | noble<br>actress<br>found<br>kite<br>carpet<br>matter<br>link |  
-| bip_39_word_new_br8 | noble<br>actress<br>found<br>kite<br>carpet<br>matter<br>link<br>document |  
-| bip_39_word_new_br9 | noble<br>actress<br>found<br>kite<br>carpet<br>matter<br>link<br>document<br>else |  
-| bip_39_word_new_line1 | noble |  
-| bip_39_word_new_line10 | noble
+| bip_39_word_new_br_1 | noble |  
+| bip_39_word_new_br_10 | noble<br>actress<br>found<br>kite<br>carpet<br>matter<br>link<br>document<br>else<br>input |  
+| bip_39_word_new_br_11 | noble<br>actress<br>found<br>kite<br>carpet<br>matter<br>link<br>document<br>else<br>input<br>tape |  
+| bip_39_word_new_br_12 | noble<br>actress<br>found<br>kite<br>carpet<br>matter<br>link<br>document<br>else<br>input<br>tape<br>advance |  
+| bip_39_word_new_br_2 | noble<br>actress |  
+| bip_39_word_new_br_3 | noble<br>actress<br>found |  
+| bip_39_word_new_br_4 | noble<br>actress<br>found<br>kite |  
+| bip_39_word_new_br_5 | noble<br>actress<br>found<br>kite<br>carpet |  
+| bip_39_word_new_br_6 | noble<br>actress<br>found<br>kite<br>carpet<br>matter |  
+| bip_39_word_new_br_7 | noble<br>actress<br>found<br>kite<br>carpet<br>matter<br>link |  
+| bip_39_word_new_br_8 | noble<br>actress<br>found<br>kite<br>carpet<br>matter<br>link<br>document |  
+| bip_39_word_new_br_9 | noble<br>actress<br>found<br>kite<br>carpet<br>matter<br>link<br>document<br>else |  
+| bip_39_word_new_line_1 | noble |  
+| bip_39_word_new_line_10 | noble
 actress
 found
 kite
@@ -55,7 +55,7 @@ link
 document
 else
 input |  
-| bip_39_word_new_line11 | noble
+| bip_39_word_new_line_11 | noble
 actress
 found
 kite
@@ -66,7 +66,7 @@ document
 else
 input
 tape |  
-| bip_39_word_new_line12 | noble
+| bip_39_word_new_line_12 | noble
 actress
 found
 kite
@@ -78,34 +78,34 @@ else
 input
 tape
 advance |  
-| bip_39_word_new_line2 | noble
+| bip_39_word_new_line_2 | noble
 actress |  
-| bip_39_word_new_line3 | noble
+| bip_39_word_new_line_3 | noble
 actress
 found |  
-| bip_39_word_new_line4 | noble
+| bip_39_word_new_line_4 | noble
 actress
 found
 kite |  
-| bip_39_word_new_line5 | noble
+| bip_39_word_new_line_5 | noble
 actress
 found
 kite
 carpet |  
-| bip_39_word_new_line6 | noble
+| bip_39_word_new_line_6 | noble
 actress
 found
 kite
 carpet
 matter |  
-| bip_39_word_new_line7 | noble
+| bip_39_word_new_line_7 | noble
 actress
 found
 kite
 carpet
 matter
 link |  
-| bip_39_word_new_line8 | noble
+| bip_39_word_new_line_8 | noble
 actress
 found
 kite
@@ -113,7 +113,7 @@ carpet
 matter
 link
 document |  
-| bip_39_word_new_line9 | noble
+| bip_39_word_new_line_9 | noble
 actress
 found
 kite

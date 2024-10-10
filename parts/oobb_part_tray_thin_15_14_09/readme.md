@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | vibrant |  
-| bip_39_word_new_br10 | vibrant<br>indoor<br>minute<br>gold<br>upper<br>visa<br>exercise<br>extra<br>present<br>junk |  
-| bip_39_word_new_br11 | vibrant<br>indoor<br>minute<br>gold<br>upper<br>visa<br>exercise<br>extra<br>present<br>junk<br>arrange |  
-| bip_39_word_new_br12 | vibrant<br>indoor<br>minute<br>gold<br>upper<br>visa<br>exercise<br>extra<br>present<br>junk<br>arrange<br>arrest |  
-| bip_39_word_new_br2 | vibrant<br>indoor |  
-| bip_39_word_new_br3 | vibrant<br>indoor<br>minute |  
-| bip_39_word_new_br4 | vibrant<br>indoor<br>minute<br>gold |  
-| bip_39_word_new_br5 | vibrant<br>indoor<br>minute<br>gold<br>upper |  
-| bip_39_word_new_br6 | vibrant<br>indoor<br>minute<br>gold<br>upper<br>visa |  
-| bip_39_word_new_br7 | vibrant<br>indoor<br>minute<br>gold<br>upper<br>visa<br>exercise |  
-| bip_39_word_new_br8 | vibrant<br>indoor<br>minute<br>gold<br>upper<br>visa<br>exercise<br>extra |  
-| bip_39_word_new_br9 | vibrant<br>indoor<br>minute<br>gold<br>upper<br>visa<br>exercise<br>extra<br>present |  
-| bip_39_word_new_line1 | vibrant |  
-| bip_39_word_new_line10 | vibrant
+| bip_39_word_new_br_1 | vibrant |  
+| bip_39_word_new_br_10 | vibrant<br>indoor<br>minute<br>gold<br>upper<br>visa<br>exercise<br>extra<br>present<br>junk |  
+| bip_39_word_new_br_11 | vibrant<br>indoor<br>minute<br>gold<br>upper<br>visa<br>exercise<br>extra<br>present<br>junk<br>arrange |  
+| bip_39_word_new_br_12 | vibrant<br>indoor<br>minute<br>gold<br>upper<br>visa<br>exercise<br>extra<br>present<br>junk<br>arrange<br>arrest |  
+| bip_39_word_new_br_2 | vibrant<br>indoor |  
+| bip_39_word_new_br_3 | vibrant<br>indoor<br>minute |  
+| bip_39_word_new_br_4 | vibrant<br>indoor<br>minute<br>gold |  
+| bip_39_word_new_br_5 | vibrant<br>indoor<br>minute<br>gold<br>upper |  
+| bip_39_word_new_br_6 | vibrant<br>indoor<br>minute<br>gold<br>upper<br>visa |  
+| bip_39_word_new_br_7 | vibrant<br>indoor<br>minute<br>gold<br>upper<br>visa<br>exercise |  
+| bip_39_word_new_br_8 | vibrant<br>indoor<br>minute<br>gold<br>upper<br>visa<br>exercise<br>extra |  
+| bip_39_word_new_br_9 | vibrant<br>indoor<br>minute<br>gold<br>upper<br>visa<br>exercise<br>extra<br>present |  
+| bip_39_word_new_line_1 | vibrant |  
+| bip_39_word_new_line_10 | vibrant
 indoor
 minute
 gold
@@ -55,7 +55,7 @@ exercise
 extra
 present
 junk |  
-| bip_39_word_new_line11 | vibrant
+| bip_39_word_new_line_11 | vibrant
 indoor
 minute
 gold
@@ -66,7 +66,7 @@ extra
 present
 junk
 arrange |  
-| bip_39_word_new_line12 | vibrant
+| bip_39_word_new_line_12 | vibrant
 indoor
 minute
 gold
@@ -78,34 +78,34 @@ present
 junk
 arrange
 arrest |  
-| bip_39_word_new_line2 | vibrant
+| bip_39_word_new_line_2 | vibrant
 indoor |  
-| bip_39_word_new_line3 | vibrant
+| bip_39_word_new_line_3 | vibrant
 indoor
 minute |  
-| bip_39_word_new_line4 | vibrant
+| bip_39_word_new_line_4 | vibrant
 indoor
 minute
 gold |  
-| bip_39_word_new_line5 | vibrant
+| bip_39_word_new_line_5 | vibrant
 indoor
 minute
 gold
 upper |  
-| bip_39_word_new_line6 | vibrant
+| bip_39_word_new_line_6 | vibrant
 indoor
 minute
 gold
 upper
 visa |  
-| bip_39_word_new_line7 | vibrant
+| bip_39_word_new_line_7 | vibrant
 indoor
 minute
 gold
 upper
 visa
 exercise |  
-| bip_39_word_new_line8 | vibrant
+| bip_39_word_new_line_8 | vibrant
 indoor
 minute
 gold
@@ -113,7 +113,7 @@ upper
 visa
 exercise
 extra |  
-| bip_39_word_new_line9 | vibrant
+| bip_39_word_new_line_9 | vibrant
 indoor
 minute
 gold

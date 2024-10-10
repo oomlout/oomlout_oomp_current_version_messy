@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | custom |  
-| bip_39_word_new_br10 | custom<br>cycle<br>august<br>pact<br>knee<br>treat<br>peace<br>kiwi<br>approve<br>jealous |  
-| bip_39_word_new_br11 | custom<br>cycle<br>august<br>pact<br>knee<br>treat<br>peace<br>kiwi<br>approve<br>jealous<br>scare |  
-| bip_39_word_new_br12 | custom<br>cycle<br>august<br>pact<br>knee<br>treat<br>peace<br>kiwi<br>approve<br>jealous<br>scare<br>alpha |  
-| bip_39_word_new_br2 | custom<br>cycle |  
-| bip_39_word_new_br3 | custom<br>cycle<br>august |  
-| bip_39_word_new_br4 | custom<br>cycle<br>august<br>pact |  
-| bip_39_word_new_br5 | custom<br>cycle<br>august<br>pact<br>knee |  
-| bip_39_word_new_br6 | custom<br>cycle<br>august<br>pact<br>knee<br>treat |  
-| bip_39_word_new_br7 | custom<br>cycle<br>august<br>pact<br>knee<br>treat<br>peace |  
-| bip_39_word_new_br8 | custom<br>cycle<br>august<br>pact<br>knee<br>treat<br>peace<br>kiwi |  
-| bip_39_word_new_br9 | custom<br>cycle<br>august<br>pact<br>knee<br>treat<br>peace<br>kiwi<br>approve |  
-| bip_39_word_new_line1 | custom |  
-| bip_39_word_new_line10 | custom
+| bip_39_word_new_br_1 | custom |  
+| bip_39_word_new_br_10 | custom<br>cycle<br>august<br>pact<br>knee<br>treat<br>peace<br>kiwi<br>approve<br>jealous |  
+| bip_39_word_new_br_11 | custom<br>cycle<br>august<br>pact<br>knee<br>treat<br>peace<br>kiwi<br>approve<br>jealous<br>scare |  
+| bip_39_word_new_br_12 | custom<br>cycle<br>august<br>pact<br>knee<br>treat<br>peace<br>kiwi<br>approve<br>jealous<br>scare<br>alpha |  
+| bip_39_word_new_br_2 | custom<br>cycle |  
+| bip_39_word_new_br_3 | custom<br>cycle<br>august |  
+| bip_39_word_new_br_4 | custom<br>cycle<br>august<br>pact |  
+| bip_39_word_new_br_5 | custom<br>cycle<br>august<br>pact<br>knee |  
+| bip_39_word_new_br_6 | custom<br>cycle<br>august<br>pact<br>knee<br>treat |  
+| bip_39_word_new_br_7 | custom<br>cycle<br>august<br>pact<br>knee<br>treat<br>peace |  
+| bip_39_word_new_br_8 | custom<br>cycle<br>august<br>pact<br>knee<br>treat<br>peace<br>kiwi |  
+| bip_39_word_new_br_9 | custom<br>cycle<br>august<br>pact<br>knee<br>treat<br>peace<br>kiwi<br>approve |  
+| bip_39_word_new_line_1 | custom |  
+| bip_39_word_new_line_10 | custom
 cycle
 august
 pact
@@ -55,7 +55,7 @@ peace
 kiwi
 approve
 jealous |  
-| bip_39_word_new_line11 | custom
+| bip_39_word_new_line_11 | custom
 cycle
 august
 pact
@@ -66,7 +66,7 @@ kiwi
 approve
 jealous
 scare |  
-| bip_39_word_new_line12 | custom
+| bip_39_word_new_line_12 | custom
 cycle
 august
 pact
@@ -78,34 +78,34 @@ approve
 jealous
 scare
 alpha |  
-| bip_39_word_new_line2 | custom
+| bip_39_word_new_line_2 | custom
 cycle |  
-| bip_39_word_new_line3 | custom
+| bip_39_word_new_line_3 | custom
 cycle
 august |  
-| bip_39_word_new_line4 | custom
+| bip_39_word_new_line_4 | custom
 cycle
 august
 pact |  
-| bip_39_word_new_line5 | custom
+| bip_39_word_new_line_5 | custom
 cycle
 august
 pact
 knee |  
-| bip_39_word_new_line6 | custom
+| bip_39_word_new_line_6 | custom
 cycle
 august
 pact
 knee
 treat |  
-| bip_39_word_new_line7 | custom
+| bip_39_word_new_line_7 | custom
 cycle
 august
 pact
 knee
 treat
 peace |  
-| bip_39_word_new_line8 | custom
+| bip_39_word_new_line_8 | custom
 cycle
 august
 pact
@@ -113,7 +113,7 @@ knee
 treat
 peace
 kiwi |  
-| bip_39_word_new_line9 | custom
+| bip_39_word_new_line_9 | custom
 cycle
 august
 pact

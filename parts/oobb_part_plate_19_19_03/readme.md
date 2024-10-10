@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | reward |  
-| bip_39_word_new_br10 | reward<br>share<br>stairs<br>hungry<br>cry<br>olympic<br>fetch<br>holiday<br>endless<br>potato |  
-| bip_39_word_new_br11 | reward<br>share<br>stairs<br>hungry<br>cry<br>olympic<br>fetch<br>holiday<br>endless<br>potato<br>win |  
-| bip_39_word_new_br12 | reward<br>share<br>stairs<br>hungry<br>cry<br>olympic<br>fetch<br>holiday<br>endless<br>potato<br>win<br>autumn |  
-| bip_39_word_new_br2 | reward<br>share |  
-| bip_39_word_new_br3 | reward<br>share<br>stairs |  
-| bip_39_word_new_br4 | reward<br>share<br>stairs<br>hungry |  
-| bip_39_word_new_br5 | reward<br>share<br>stairs<br>hungry<br>cry |  
-| bip_39_word_new_br6 | reward<br>share<br>stairs<br>hungry<br>cry<br>olympic |  
-| bip_39_word_new_br7 | reward<br>share<br>stairs<br>hungry<br>cry<br>olympic<br>fetch |  
-| bip_39_word_new_br8 | reward<br>share<br>stairs<br>hungry<br>cry<br>olympic<br>fetch<br>holiday |  
-| bip_39_word_new_br9 | reward<br>share<br>stairs<br>hungry<br>cry<br>olympic<br>fetch<br>holiday<br>endless |  
-| bip_39_word_new_line1 | reward |  
-| bip_39_word_new_line10 | reward
+| bip_39_word_new_br_1 | reward |  
+| bip_39_word_new_br_10 | reward<br>share<br>stairs<br>hungry<br>cry<br>olympic<br>fetch<br>holiday<br>endless<br>potato |  
+| bip_39_word_new_br_11 | reward<br>share<br>stairs<br>hungry<br>cry<br>olympic<br>fetch<br>holiday<br>endless<br>potato<br>win |  
+| bip_39_word_new_br_12 | reward<br>share<br>stairs<br>hungry<br>cry<br>olympic<br>fetch<br>holiday<br>endless<br>potato<br>win<br>autumn |  
+| bip_39_word_new_br_2 | reward<br>share |  
+| bip_39_word_new_br_3 | reward<br>share<br>stairs |  
+| bip_39_word_new_br_4 | reward<br>share<br>stairs<br>hungry |  
+| bip_39_word_new_br_5 | reward<br>share<br>stairs<br>hungry<br>cry |  
+| bip_39_word_new_br_6 | reward<br>share<br>stairs<br>hungry<br>cry<br>olympic |  
+| bip_39_word_new_br_7 | reward<br>share<br>stairs<br>hungry<br>cry<br>olympic<br>fetch |  
+| bip_39_word_new_br_8 | reward<br>share<br>stairs<br>hungry<br>cry<br>olympic<br>fetch<br>holiday |  
+| bip_39_word_new_br_9 | reward<br>share<br>stairs<br>hungry<br>cry<br>olympic<br>fetch<br>holiday<br>endless |  
+| bip_39_word_new_line_1 | reward |  
+| bip_39_word_new_line_10 | reward
 share
 stairs
 hungry
@@ -55,7 +55,7 @@ fetch
 holiday
 endless
 potato |  
-| bip_39_word_new_line11 | reward
+| bip_39_word_new_line_11 | reward
 share
 stairs
 hungry
@@ -66,7 +66,7 @@ holiday
 endless
 potato
 win |  
-| bip_39_word_new_line12 | reward
+| bip_39_word_new_line_12 | reward
 share
 stairs
 hungry
@@ -78,34 +78,34 @@ endless
 potato
 win
 autumn |  
-| bip_39_word_new_line2 | reward
+| bip_39_word_new_line_2 | reward
 share |  
-| bip_39_word_new_line3 | reward
+| bip_39_word_new_line_3 | reward
 share
 stairs |  
-| bip_39_word_new_line4 | reward
+| bip_39_word_new_line_4 | reward
 share
 stairs
 hungry |  
-| bip_39_word_new_line5 | reward
+| bip_39_word_new_line_5 | reward
 share
 stairs
 hungry
 cry |  
-| bip_39_word_new_line6 | reward
+| bip_39_word_new_line_6 | reward
 share
 stairs
 hungry
 cry
 olympic |  
-| bip_39_word_new_line7 | reward
+| bip_39_word_new_line_7 | reward
 share
 stairs
 hungry
 cry
 olympic
 fetch |  
-| bip_39_word_new_line8 | reward
+| bip_39_word_new_line_8 | reward
 share
 stairs
 hungry
@@ -113,7 +113,7 @@ cry
 olympic
 fetch
 holiday |  
-| bip_39_word_new_line9 | reward
+| bip_39_word_new_line_9 | reward
 share
 stairs
 hungry

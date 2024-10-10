@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | trouble |  
-| bip_39_word_new_br10 | trouble<br>chicken<br>issue<br>mirror<br>language<br>winter<br>depend<br>stove<br>scare<br>bid |  
-| bip_39_word_new_br11 | trouble<br>chicken<br>issue<br>mirror<br>language<br>winter<br>depend<br>stove<br>scare<br>bid<br>fruit |  
-| bip_39_word_new_br12 | trouble<br>chicken<br>issue<br>mirror<br>language<br>winter<br>depend<br>stove<br>scare<br>bid<br>fruit<br>amount |  
-| bip_39_word_new_br2 | trouble<br>chicken |  
-| bip_39_word_new_br3 | trouble<br>chicken<br>issue |  
-| bip_39_word_new_br4 | trouble<br>chicken<br>issue<br>mirror |  
-| bip_39_word_new_br5 | trouble<br>chicken<br>issue<br>mirror<br>language |  
-| bip_39_word_new_br6 | trouble<br>chicken<br>issue<br>mirror<br>language<br>winter |  
-| bip_39_word_new_br7 | trouble<br>chicken<br>issue<br>mirror<br>language<br>winter<br>depend |  
-| bip_39_word_new_br8 | trouble<br>chicken<br>issue<br>mirror<br>language<br>winter<br>depend<br>stove |  
-| bip_39_word_new_br9 | trouble<br>chicken<br>issue<br>mirror<br>language<br>winter<br>depend<br>stove<br>scare |  
-| bip_39_word_new_line1 | trouble |  
-| bip_39_word_new_line10 | trouble
+| bip_39_word_new_br_1 | trouble |  
+| bip_39_word_new_br_10 | trouble<br>chicken<br>issue<br>mirror<br>language<br>winter<br>depend<br>stove<br>scare<br>bid |  
+| bip_39_word_new_br_11 | trouble<br>chicken<br>issue<br>mirror<br>language<br>winter<br>depend<br>stove<br>scare<br>bid<br>fruit |  
+| bip_39_word_new_br_12 | trouble<br>chicken<br>issue<br>mirror<br>language<br>winter<br>depend<br>stove<br>scare<br>bid<br>fruit<br>amount |  
+| bip_39_word_new_br_2 | trouble<br>chicken |  
+| bip_39_word_new_br_3 | trouble<br>chicken<br>issue |  
+| bip_39_word_new_br_4 | trouble<br>chicken<br>issue<br>mirror |  
+| bip_39_word_new_br_5 | trouble<br>chicken<br>issue<br>mirror<br>language |  
+| bip_39_word_new_br_6 | trouble<br>chicken<br>issue<br>mirror<br>language<br>winter |  
+| bip_39_word_new_br_7 | trouble<br>chicken<br>issue<br>mirror<br>language<br>winter<br>depend |  
+| bip_39_word_new_br_8 | trouble<br>chicken<br>issue<br>mirror<br>language<br>winter<br>depend<br>stove |  
+| bip_39_word_new_br_9 | trouble<br>chicken<br>issue<br>mirror<br>language<br>winter<br>depend<br>stove<br>scare |  
+| bip_39_word_new_line_1 | trouble |  
+| bip_39_word_new_line_10 | trouble
 chicken
 issue
 mirror
@@ -55,7 +55,7 @@ depend
 stove
 scare
 bid |  
-| bip_39_word_new_line11 | trouble
+| bip_39_word_new_line_11 | trouble
 chicken
 issue
 mirror
@@ -66,7 +66,7 @@ stove
 scare
 bid
 fruit |  
-| bip_39_word_new_line12 | trouble
+| bip_39_word_new_line_12 | trouble
 chicken
 issue
 mirror
@@ -78,34 +78,34 @@ scare
 bid
 fruit
 amount |  
-| bip_39_word_new_line2 | trouble
+| bip_39_word_new_line_2 | trouble
 chicken |  
-| bip_39_word_new_line3 | trouble
+| bip_39_word_new_line_3 | trouble
 chicken
 issue |  
-| bip_39_word_new_line4 | trouble
+| bip_39_word_new_line_4 | trouble
 chicken
 issue
 mirror |  
-| bip_39_word_new_line5 | trouble
+| bip_39_word_new_line_5 | trouble
 chicken
 issue
 mirror
 language |  
-| bip_39_word_new_line6 | trouble
+| bip_39_word_new_line_6 | trouble
 chicken
 issue
 mirror
 language
 winter |  
-| bip_39_word_new_line7 | trouble
+| bip_39_word_new_line_7 | trouble
 chicken
 issue
 mirror
 language
 winter
 depend |  
-| bip_39_word_new_line8 | trouble
+| bip_39_word_new_line_8 | trouble
 chicken
 issue
 mirror
@@ -113,7 +113,7 @@ language
 winter
 depend
 stove |  
-| bip_39_word_new_line9 | trouble
+| bip_39_word_new_line_9 | trouble
 chicken
 issue
 mirror

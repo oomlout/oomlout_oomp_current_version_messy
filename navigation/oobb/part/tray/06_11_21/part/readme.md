@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | phrase |  
-| bip_39_word_new_br10 | phrase<br>olympic<br>traffic<br>afraid<br>retreat<br>dose<br>destroy<br>trash<br>stove<br>amazing |  
-| bip_39_word_new_br11 | phrase<br>olympic<br>traffic<br>afraid<br>retreat<br>dose<br>destroy<br>trash<br>stove<br>amazing<br>leopard |  
-| bip_39_word_new_br12 | phrase<br>olympic<br>traffic<br>afraid<br>retreat<br>dose<br>destroy<br>trash<br>stove<br>amazing<br>leopard<br>audit |  
-| bip_39_word_new_br2 | phrase<br>olympic |  
-| bip_39_word_new_br3 | phrase<br>olympic<br>traffic |  
-| bip_39_word_new_br4 | phrase<br>olympic<br>traffic<br>afraid |  
-| bip_39_word_new_br5 | phrase<br>olympic<br>traffic<br>afraid<br>retreat |  
-| bip_39_word_new_br6 | phrase<br>olympic<br>traffic<br>afraid<br>retreat<br>dose |  
-| bip_39_word_new_br7 | phrase<br>olympic<br>traffic<br>afraid<br>retreat<br>dose<br>destroy |  
-| bip_39_word_new_br8 | phrase<br>olympic<br>traffic<br>afraid<br>retreat<br>dose<br>destroy<br>trash |  
-| bip_39_word_new_br9 | phrase<br>olympic<br>traffic<br>afraid<br>retreat<br>dose<br>destroy<br>trash<br>stove |  
-| bip_39_word_new_line1 | phrase |  
-| bip_39_word_new_line10 | phrase
+| bip_39_word_new_br_1 | phrase |  
+| bip_39_word_new_br_10 | phrase<br>olympic<br>traffic<br>afraid<br>retreat<br>dose<br>destroy<br>trash<br>stove<br>amazing |  
+| bip_39_word_new_br_11 | phrase<br>olympic<br>traffic<br>afraid<br>retreat<br>dose<br>destroy<br>trash<br>stove<br>amazing<br>leopard |  
+| bip_39_word_new_br_12 | phrase<br>olympic<br>traffic<br>afraid<br>retreat<br>dose<br>destroy<br>trash<br>stove<br>amazing<br>leopard<br>audit |  
+| bip_39_word_new_br_2 | phrase<br>olympic |  
+| bip_39_word_new_br_3 | phrase<br>olympic<br>traffic |  
+| bip_39_word_new_br_4 | phrase<br>olympic<br>traffic<br>afraid |  
+| bip_39_word_new_br_5 | phrase<br>olympic<br>traffic<br>afraid<br>retreat |  
+| bip_39_word_new_br_6 | phrase<br>olympic<br>traffic<br>afraid<br>retreat<br>dose |  
+| bip_39_word_new_br_7 | phrase<br>olympic<br>traffic<br>afraid<br>retreat<br>dose<br>destroy |  
+| bip_39_word_new_br_8 | phrase<br>olympic<br>traffic<br>afraid<br>retreat<br>dose<br>destroy<br>trash |  
+| bip_39_word_new_br_9 | phrase<br>olympic<br>traffic<br>afraid<br>retreat<br>dose<br>destroy<br>trash<br>stove |  
+| bip_39_word_new_line_1 | phrase |  
+| bip_39_word_new_line_10 | phrase
 olympic
 traffic
 afraid
@@ -55,7 +55,7 @@ destroy
 trash
 stove
 amazing |  
-| bip_39_word_new_line11 | phrase
+| bip_39_word_new_line_11 | phrase
 olympic
 traffic
 afraid
@@ -66,7 +66,7 @@ trash
 stove
 amazing
 leopard |  
-| bip_39_word_new_line12 | phrase
+| bip_39_word_new_line_12 | phrase
 olympic
 traffic
 afraid
@@ -78,34 +78,34 @@ stove
 amazing
 leopard
 audit |  
-| bip_39_word_new_line2 | phrase
+| bip_39_word_new_line_2 | phrase
 olympic |  
-| bip_39_word_new_line3 | phrase
+| bip_39_word_new_line_3 | phrase
 olympic
 traffic |  
-| bip_39_word_new_line4 | phrase
+| bip_39_word_new_line_4 | phrase
 olympic
 traffic
 afraid |  
-| bip_39_word_new_line5 | phrase
+| bip_39_word_new_line_5 | phrase
 olympic
 traffic
 afraid
 retreat |  
-| bip_39_word_new_line6 | phrase
+| bip_39_word_new_line_6 | phrase
 olympic
 traffic
 afraid
 retreat
 dose |  
-| bip_39_word_new_line7 | phrase
+| bip_39_word_new_line_7 | phrase
 olympic
 traffic
 afraid
 retreat
 dose
 destroy |  
-| bip_39_word_new_line8 | phrase
+| bip_39_word_new_line_8 | phrase
 olympic
 traffic
 afraid
@@ -113,7 +113,7 @@ retreat
 dose
 destroy
 trash |  
-| bip_39_word_new_line9 | phrase
+| bip_39_word_new_line_9 | phrase
 olympic
 traffic
 afraid

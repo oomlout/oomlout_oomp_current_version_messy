@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | depth |  
-| bip_39_word_new_br10 | depth<br>business<br>blanket<br>start<br>index<br>mechanic<br>become<br>knife<br>abuse<br>magnet |  
-| bip_39_word_new_br11 | depth<br>business<br>blanket<br>start<br>index<br>mechanic<br>become<br>knife<br>abuse<br>magnet<br>robust |  
-| bip_39_word_new_br12 | depth<br>business<br>blanket<br>start<br>index<br>mechanic<br>become<br>knife<br>abuse<br>magnet<br>robust<br>addict |  
-| bip_39_word_new_br2 | depth<br>business |  
-| bip_39_word_new_br3 | depth<br>business<br>blanket |  
-| bip_39_word_new_br4 | depth<br>business<br>blanket<br>start |  
-| bip_39_word_new_br5 | depth<br>business<br>blanket<br>start<br>index |  
-| bip_39_word_new_br6 | depth<br>business<br>blanket<br>start<br>index<br>mechanic |  
-| bip_39_word_new_br7 | depth<br>business<br>blanket<br>start<br>index<br>mechanic<br>become |  
-| bip_39_word_new_br8 | depth<br>business<br>blanket<br>start<br>index<br>mechanic<br>become<br>knife |  
-| bip_39_word_new_br9 | depth<br>business<br>blanket<br>start<br>index<br>mechanic<br>become<br>knife<br>abuse |  
-| bip_39_word_new_line1 | depth |  
-| bip_39_word_new_line10 | depth
+| bip_39_word_new_br_1 | depth |  
+| bip_39_word_new_br_10 | depth<br>business<br>blanket<br>start<br>index<br>mechanic<br>become<br>knife<br>abuse<br>magnet |  
+| bip_39_word_new_br_11 | depth<br>business<br>blanket<br>start<br>index<br>mechanic<br>become<br>knife<br>abuse<br>magnet<br>robust |  
+| bip_39_word_new_br_12 | depth<br>business<br>blanket<br>start<br>index<br>mechanic<br>become<br>knife<br>abuse<br>magnet<br>robust<br>addict |  
+| bip_39_word_new_br_2 | depth<br>business |  
+| bip_39_word_new_br_3 | depth<br>business<br>blanket |  
+| bip_39_word_new_br_4 | depth<br>business<br>blanket<br>start |  
+| bip_39_word_new_br_5 | depth<br>business<br>blanket<br>start<br>index |  
+| bip_39_word_new_br_6 | depth<br>business<br>blanket<br>start<br>index<br>mechanic |  
+| bip_39_word_new_br_7 | depth<br>business<br>blanket<br>start<br>index<br>mechanic<br>become |  
+| bip_39_word_new_br_8 | depth<br>business<br>blanket<br>start<br>index<br>mechanic<br>become<br>knife |  
+| bip_39_word_new_br_9 | depth<br>business<br>blanket<br>start<br>index<br>mechanic<br>become<br>knife<br>abuse |  
+| bip_39_word_new_line_1 | depth |  
+| bip_39_word_new_line_10 | depth
 business
 blanket
 start
@@ -55,7 +55,7 @@ become
 knife
 abuse
 magnet |  
-| bip_39_word_new_line11 | depth
+| bip_39_word_new_line_11 | depth
 business
 blanket
 start
@@ -66,7 +66,7 @@ knife
 abuse
 magnet
 robust |  
-| bip_39_word_new_line12 | depth
+| bip_39_word_new_line_12 | depth
 business
 blanket
 start
@@ -78,34 +78,34 @@ abuse
 magnet
 robust
 addict |  
-| bip_39_word_new_line2 | depth
+| bip_39_word_new_line_2 | depth
 business |  
-| bip_39_word_new_line3 | depth
+| bip_39_word_new_line_3 | depth
 business
 blanket |  
-| bip_39_word_new_line4 | depth
+| bip_39_word_new_line_4 | depth
 business
 blanket
 start |  
-| bip_39_word_new_line5 | depth
+| bip_39_word_new_line_5 | depth
 business
 blanket
 start
 index |  
-| bip_39_word_new_line6 | depth
+| bip_39_word_new_line_6 | depth
 business
 blanket
 start
 index
 mechanic |  
-| bip_39_word_new_line7 | depth
+| bip_39_word_new_line_7 | depth
 business
 blanket
 start
 index
 mechanic
 become |  
-| bip_39_word_new_line8 | depth
+| bip_39_word_new_line_8 | depth
 business
 blanket
 start
@@ -113,7 +113,7 @@ index
 mechanic
 become
 knife |  
-| bip_39_word_new_line9 | depth
+| bip_39_word_new_line_9 | depth
 business
 blanket
 start

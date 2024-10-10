@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bring |  
-| bip_39_word_new_br10 | bring<br>turkey<br>deputy<br>during<br>waste<br>kind<br>million<br>remind<br>awake<br>prison |  
-| bip_39_word_new_br11 | bring<br>turkey<br>deputy<br>during<br>waste<br>kind<br>million<br>remind<br>awake<br>prison<br>spawn |  
-| bip_39_word_new_br12 | bring<br>turkey<br>deputy<br>during<br>waste<br>kind<br>million<br>remind<br>awake<br>prison<br>spawn<br>anger |  
-| bip_39_word_new_br2 | bring<br>turkey |  
-| bip_39_word_new_br3 | bring<br>turkey<br>deputy |  
-| bip_39_word_new_br4 | bring<br>turkey<br>deputy<br>during |  
-| bip_39_word_new_br5 | bring<br>turkey<br>deputy<br>during<br>waste |  
-| bip_39_word_new_br6 | bring<br>turkey<br>deputy<br>during<br>waste<br>kind |  
-| bip_39_word_new_br7 | bring<br>turkey<br>deputy<br>during<br>waste<br>kind<br>million |  
-| bip_39_word_new_br8 | bring<br>turkey<br>deputy<br>during<br>waste<br>kind<br>million<br>remind |  
-| bip_39_word_new_br9 | bring<br>turkey<br>deputy<br>during<br>waste<br>kind<br>million<br>remind<br>awake |  
-| bip_39_word_new_line1 | bring |  
-| bip_39_word_new_line10 | bring
+| bip_39_word_new_br_1 | bring |  
+| bip_39_word_new_br_10 | bring<br>turkey<br>deputy<br>during<br>waste<br>kind<br>million<br>remind<br>awake<br>prison |  
+| bip_39_word_new_br_11 | bring<br>turkey<br>deputy<br>during<br>waste<br>kind<br>million<br>remind<br>awake<br>prison<br>spawn |  
+| bip_39_word_new_br_12 | bring<br>turkey<br>deputy<br>during<br>waste<br>kind<br>million<br>remind<br>awake<br>prison<br>spawn<br>anger |  
+| bip_39_word_new_br_2 | bring<br>turkey |  
+| bip_39_word_new_br_3 | bring<br>turkey<br>deputy |  
+| bip_39_word_new_br_4 | bring<br>turkey<br>deputy<br>during |  
+| bip_39_word_new_br_5 | bring<br>turkey<br>deputy<br>during<br>waste |  
+| bip_39_word_new_br_6 | bring<br>turkey<br>deputy<br>during<br>waste<br>kind |  
+| bip_39_word_new_br_7 | bring<br>turkey<br>deputy<br>during<br>waste<br>kind<br>million |  
+| bip_39_word_new_br_8 | bring<br>turkey<br>deputy<br>during<br>waste<br>kind<br>million<br>remind |  
+| bip_39_word_new_br_9 | bring<br>turkey<br>deputy<br>during<br>waste<br>kind<br>million<br>remind<br>awake |  
+| bip_39_word_new_line_1 | bring |  
+| bip_39_word_new_line_10 | bring
 turkey
 deputy
 during
@@ -55,7 +55,7 @@ million
 remind
 awake
 prison |  
-| bip_39_word_new_line11 | bring
+| bip_39_word_new_line_11 | bring
 turkey
 deputy
 during
@@ -66,7 +66,7 @@ remind
 awake
 prison
 spawn |  
-| bip_39_word_new_line12 | bring
+| bip_39_word_new_line_12 | bring
 turkey
 deputy
 during
@@ -78,34 +78,34 @@ awake
 prison
 spawn
 anger |  
-| bip_39_word_new_line2 | bring
+| bip_39_word_new_line_2 | bring
 turkey |  
-| bip_39_word_new_line3 | bring
+| bip_39_word_new_line_3 | bring
 turkey
 deputy |  
-| bip_39_word_new_line4 | bring
+| bip_39_word_new_line_4 | bring
 turkey
 deputy
 during |  
-| bip_39_word_new_line5 | bring
+| bip_39_word_new_line_5 | bring
 turkey
 deputy
 during
 waste |  
-| bip_39_word_new_line6 | bring
+| bip_39_word_new_line_6 | bring
 turkey
 deputy
 during
 waste
 kind |  
-| bip_39_word_new_line7 | bring
+| bip_39_word_new_line_7 | bring
 turkey
 deputy
 during
 waste
 kind
 million |  
-| bip_39_word_new_line8 | bring
+| bip_39_word_new_line_8 | bring
 turkey
 deputy
 during
@@ -113,7 +113,7 @@ waste
 kind
 million
 remind |  
-| bip_39_word_new_line9 | bring
+| bip_39_word_new_line_9 | bring
 turkey
 deputy
 during

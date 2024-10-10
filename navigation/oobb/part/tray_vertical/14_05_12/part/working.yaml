@@ -1,17 +1,17 @@
-bip_39_word_new_br1: accident
-bip_39_word_new_br10: accident<br>snow<br>advance<br>patch<br>elevator<br>permit<br>lesson<br>embody<br>way<br>plug
-bip_39_word_new_br11: accident<br>snow<br>advance<br>patch<br>elevator<br>permit<br>lesson<br>embody<br>way<br>plug<br>nasty
-bip_39_word_new_br12: accident<br>snow<br>advance<br>patch<br>elevator<br>permit<br>lesson<br>embody<br>way<br>plug<br>nasty<br>adapt
-bip_39_word_new_br2: accident<br>snow
-bip_39_word_new_br3: accident<br>snow<br>advance
-bip_39_word_new_br4: accident<br>snow<br>advance<br>patch
-bip_39_word_new_br5: accident<br>snow<br>advance<br>patch<br>elevator
-bip_39_word_new_br6: accident<br>snow<br>advance<br>patch<br>elevator<br>permit
-bip_39_word_new_br7: accident<br>snow<br>advance<br>patch<br>elevator<br>permit<br>lesson
-bip_39_word_new_br8: accident<br>snow<br>advance<br>patch<br>elevator<br>permit<br>lesson<br>embody
-bip_39_word_new_br9: accident<br>snow<br>advance<br>patch<br>elevator<br>permit<br>lesson<br>embody<br>way
-bip_39_word_new_line1: accident
-bip_39_word_new_line10: 'accident
+bip_39_word_new_br_1: accident
+bip_39_word_new_br_10: accident<br>snow<br>advance<br>patch<br>elevator<br>permit<br>lesson<br>embody<br>way<br>plug
+bip_39_word_new_br_11: accident<br>snow<br>advance<br>patch<br>elevator<br>permit<br>lesson<br>embody<br>way<br>plug<br>nasty
+bip_39_word_new_br_12: accident<br>snow<br>advance<br>patch<br>elevator<br>permit<br>lesson<br>embody<br>way<br>plug<br>nasty<br>adapt
+bip_39_word_new_br_2: accident<br>snow
+bip_39_word_new_br_3: accident<br>snow<br>advance
+bip_39_word_new_br_4: accident<br>snow<br>advance<br>patch
+bip_39_word_new_br_5: accident<br>snow<br>advance<br>patch<br>elevator
+bip_39_word_new_br_6: accident<br>snow<br>advance<br>patch<br>elevator<br>permit
+bip_39_word_new_br_7: accident<br>snow<br>advance<br>patch<br>elevator<br>permit<br>lesson
+bip_39_word_new_br_8: accident<br>snow<br>advance<br>patch<br>elevator<br>permit<br>lesson<br>embody
+bip_39_word_new_br_9: accident<br>snow<br>advance<br>patch<br>elevator<br>permit<br>lesson<br>embody<br>way
+bip_39_word_new_line_1: accident
+bip_39_word_new_line_10: 'accident
 
   snow
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'accident
   way
 
   plug'
-bip_39_word_new_line11: 'accident
+bip_39_word_new_line_11: 'accident
 
   snow
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'accident
   plug
 
   nasty'
-bip_39_word_new_line12: 'accident
+bip_39_word_new_line_12: 'accident
 
   snow
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'accident
   nasty
 
   adapt'
-bip_39_word_new_line2: 'accident
+bip_39_word_new_line_2: 'accident
 
   snow'
-bip_39_word_new_line3: 'accident
+bip_39_word_new_line_3: 'accident
 
   snow
 
   advance'
-bip_39_word_new_line4: 'accident
+bip_39_word_new_line_4: 'accident
 
   snow
 
   advance
 
   patch'
-bip_39_word_new_line5: 'accident
+bip_39_word_new_line_5: 'accident
 
   snow
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'accident
   patch
 
   elevator'
-bip_39_word_new_line6: 'accident
+bip_39_word_new_line_6: 'accident
 
   snow
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'accident
   elevator
 
   permit'
-bip_39_word_new_line7: 'accident
+bip_39_word_new_line_7: 'accident
 
   snow
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'accident
   permit
 
   lesson'
-bip_39_word_new_line8: 'accident
+bip_39_word_new_line_8: 'accident
 
   snow
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'accident
   lesson
 
   embody'
-bip_39_word_new_line9: 'accident
+bip_39_word_new_line_9: 'accident
 
   snow
 

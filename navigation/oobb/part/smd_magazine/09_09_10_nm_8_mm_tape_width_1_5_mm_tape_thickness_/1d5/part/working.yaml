@@ -1,17 +1,17 @@
-bip_39_word_new_br1: hamster
-bip_39_word_new_br10: hamster<br>either<br>uncover<br>shy<br>awkward<br>turtle<br>pony<br>refuse<br>embody<br>exhaust
-bip_39_word_new_br11: hamster<br>either<br>uncover<br>shy<br>awkward<br>turtle<br>pony<br>refuse<br>embody<br>exhaust<br>agree
-bip_39_word_new_br12: hamster<br>either<br>uncover<br>shy<br>awkward<br>turtle<br>pony<br>refuse<br>embody<br>exhaust<br>agree<br>almost
-bip_39_word_new_br2: hamster<br>either
-bip_39_word_new_br3: hamster<br>either<br>uncover
-bip_39_word_new_br4: hamster<br>either<br>uncover<br>shy
-bip_39_word_new_br5: hamster<br>either<br>uncover<br>shy<br>awkward
-bip_39_word_new_br6: hamster<br>either<br>uncover<br>shy<br>awkward<br>turtle
-bip_39_word_new_br7: hamster<br>either<br>uncover<br>shy<br>awkward<br>turtle<br>pony
-bip_39_word_new_br8: hamster<br>either<br>uncover<br>shy<br>awkward<br>turtle<br>pony<br>refuse
-bip_39_word_new_br9: hamster<br>either<br>uncover<br>shy<br>awkward<br>turtle<br>pony<br>refuse<br>embody
-bip_39_word_new_line1: hamster
-bip_39_word_new_line10: 'hamster
+bip_39_word_new_br_1: hamster
+bip_39_word_new_br_10: hamster<br>either<br>uncover<br>shy<br>awkward<br>turtle<br>pony<br>refuse<br>embody<br>exhaust
+bip_39_word_new_br_11: hamster<br>either<br>uncover<br>shy<br>awkward<br>turtle<br>pony<br>refuse<br>embody<br>exhaust<br>agree
+bip_39_word_new_br_12: hamster<br>either<br>uncover<br>shy<br>awkward<br>turtle<br>pony<br>refuse<br>embody<br>exhaust<br>agree<br>almost
+bip_39_word_new_br_2: hamster<br>either
+bip_39_word_new_br_3: hamster<br>either<br>uncover
+bip_39_word_new_br_4: hamster<br>either<br>uncover<br>shy
+bip_39_word_new_br_5: hamster<br>either<br>uncover<br>shy<br>awkward
+bip_39_word_new_br_6: hamster<br>either<br>uncover<br>shy<br>awkward<br>turtle
+bip_39_word_new_br_7: hamster<br>either<br>uncover<br>shy<br>awkward<br>turtle<br>pony
+bip_39_word_new_br_8: hamster<br>either<br>uncover<br>shy<br>awkward<br>turtle<br>pony<br>refuse
+bip_39_word_new_br_9: hamster<br>either<br>uncover<br>shy<br>awkward<br>turtle<br>pony<br>refuse<br>embody
+bip_39_word_new_line_1: hamster
+bip_39_word_new_line_10: 'hamster
 
   either
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'hamster
   embody
 
   exhaust'
-bip_39_word_new_line11: 'hamster
+bip_39_word_new_line_11: 'hamster
 
   either
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'hamster
   exhaust
 
   agree'
-bip_39_word_new_line12: 'hamster
+bip_39_word_new_line_12: 'hamster
 
   either
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'hamster
   agree
 
   almost'
-bip_39_word_new_line2: 'hamster
+bip_39_word_new_line_2: 'hamster
 
   either'
-bip_39_word_new_line3: 'hamster
+bip_39_word_new_line_3: 'hamster
 
   either
 
   uncover'
-bip_39_word_new_line4: 'hamster
+bip_39_word_new_line_4: 'hamster
 
   either
 
   uncover
 
   shy'
-bip_39_word_new_line5: 'hamster
+bip_39_word_new_line_5: 'hamster
 
   either
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'hamster
   shy
 
   awkward'
-bip_39_word_new_line6: 'hamster
+bip_39_word_new_line_6: 'hamster
 
   either
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'hamster
   awkward
 
   turtle'
-bip_39_word_new_line7: 'hamster
+bip_39_word_new_line_7: 'hamster
 
   either
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'hamster
   turtle
 
   pony'
-bip_39_word_new_line8: 'hamster
+bip_39_word_new_line_8: 'hamster
 
   either
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'hamster
   pony
 
   refuse'
-bip_39_word_new_line9: 'hamster
+bip_39_word_new_line_9: 'hamster
 
   either
 

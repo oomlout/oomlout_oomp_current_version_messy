@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | reveal |  
-| bip_39_word_new_br10 | reveal<br>screen<br>envelope<br>matter<br>trip<br>vintage<br>immense<br>expand<br>february<br>forward |  
-| bip_39_word_new_br11 | reveal<br>screen<br>envelope<br>matter<br>trip<br>vintage<br>immense<br>expand<br>february<br>forward<br>board |  
-| bip_39_word_new_br12 | reveal<br>screen<br>envelope<br>matter<br>trip<br>vintage<br>immense<br>expand<br>february<br>forward<br>board<br>alpha |  
-| bip_39_word_new_br2 | reveal<br>screen |  
-| bip_39_word_new_br3 | reveal<br>screen<br>envelope |  
-| bip_39_word_new_br4 | reveal<br>screen<br>envelope<br>matter |  
-| bip_39_word_new_br5 | reveal<br>screen<br>envelope<br>matter<br>trip |  
-| bip_39_word_new_br6 | reveal<br>screen<br>envelope<br>matter<br>trip<br>vintage |  
-| bip_39_word_new_br7 | reveal<br>screen<br>envelope<br>matter<br>trip<br>vintage<br>immense |  
-| bip_39_word_new_br8 | reveal<br>screen<br>envelope<br>matter<br>trip<br>vintage<br>immense<br>expand |  
-| bip_39_word_new_br9 | reveal<br>screen<br>envelope<br>matter<br>trip<br>vintage<br>immense<br>expand<br>february |  
-| bip_39_word_new_line1 | reveal |  
-| bip_39_word_new_line10 | reveal
+| bip_39_word_new_br_1 | reveal |  
+| bip_39_word_new_br_10 | reveal<br>screen<br>envelope<br>matter<br>trip<br>vintage<br>immense<br>expand<br>february<br>forward |  
+| bip_39_word_new_br_11 | reveal<br>screen<br>envelope<br>matter<br>trip<br>vintage<br>immense<br>expand<br>february<br>forward<br>board |  
+| bip_39_word_new_br_12 | reveal<br>screen<br>envelope<br>matter<br>trip<br>vintage<br>immense<br>expand<br>february<br>forward<br>board<br>alpha |  
+| bip_39_word_new_br_2 | reveal<br>screen |  
+| bip_39_word_new_br_3 | reveal<br>screen<br>envelope |  
+| bip_39_word_new_br_4 | reveal<br>screen<br>envelope<br>matter |  
+| bip_39_word_new_br_5 | reveal<br>screen<br>envelope<br>matter<br>trip |  
+| bip_39_word_new_br_6 | reveal<br>screen<br>envelope<br>matter<br>trip<br>vintage |  
+| bip_39_word_new_br_7 | reveal<br>screen<br>envelope<br>matter<br>trip<br>vintage<br>immense |  
+| bip_39_word_new_br_8 | reveal<br>screen<br>envelope<br>matter<br>trip<br>vintage<br>immense<br>expand |  
+| bip_39_word_new_br_9 | reveal<br>screen<br>envelope<br>matter<br>trip<br>vintage<br>immense<br>expand<br>february |  
+| bip_39_word_new_line_1 | reveal |  
+| bip_39_word_new_line_10 | reveal
 screen
 envelope
 matter
@@ -55,7 +55,7 @@ immense
 expand
 february
 forward |  
-| bip_39_word_new_line11 | reveal
+| bip_39_word_new_line_11 | reveal
 screen
 envelope
 matter
@@ -66,7 +66,7 @@ expand
 february
 forward
 board |  
-| bip_39_word_new_line12 | reveal
+| bip_39_word_new_line_12 | reveal
 screen
 envelope
 matter
@@ -78,34 +78,34 @@ february
 forward
 board
 alpha |  
-| bip_39_word_new_line2 | reveal
+| bip_39_word_new_line_2 | reveal
 screen |  
-| bip_39_word_new_line3 | reveal
+| bip_39_word_new_line_3 | reveal
 screen
 envelope |  
-| bip_39_word_new_line4 | reveal
+| bip_39_word_new_line_4 | reveal
 screen
 envelope
 matter |  
-| bip_39_word_new_line5 | reveal
+| bip_39_word_new_line_5 | reveal
 screen
 envelope
 matter
 trip |  
-| bip_39_word_new_line6 | reveal
+| bip_39_word_new_line_6 | reveal
 screen
 envelope
 matter
 trip
 vintage |  
-| bip_39_word_new_line7 | reveal
+| bip_39_word_new_line_7 | reveal
 screen
 envelope
 matter
 trip
 vintage
 immense |  
-| bip_39_word_new_line8 | reveal
+| bip_39_word_new_line_8 | reveal
 screen
 envelope
 matter
@@ -113,7 +113,7 @@ trip
 vintage
 immense
 expand |  
-| bip_39_word_new_line9 | reveal
+| bip_39_word_new_line_9 | reveal
 screen
 envelope
 matter

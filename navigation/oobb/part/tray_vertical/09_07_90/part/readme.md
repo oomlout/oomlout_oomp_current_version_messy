@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wing |  
-| bip_39_word_new_br10 | wing<br>typical<br>bachelor<br>hand<br>bitter<br>inmate<br>decide<br>kitten<br>wolf<br>blade |  
-| bip_39_word_new_br11 | wing<br>typical<br>bachelor<br>hand<br>bitter<br>inmate<br>decide<br>kitten<br>wolf<br>blade<br>release |  
-| bip_39_word_new_br12 | wing<br>typical<br>bachelor<br>hand<br>bitter<br>inmate<br>decide<br>kitten<br>wolf<br>blade<br>release<br>add |  
-| bip_39_word_new_br2 | wing<br>typical |  
-| bip_39_word_new_br3 | wing<br>typical<br>bachelor |  
-| bip_39_word_new_br4 | wing<br>typical<br>bachelor<br>hand |  
-| bip_39_word_new_br5 | wing<br>typical<br>bachelor<br>hand<br>bitter |  
-| bip_39_word_new_br6 | wing<br>typical<br>bachelor<br>hand<br>bitter<br>inmate |  
-| bip_39_word_new_br7 | wing<br>typical<br>bachelor<br>hand<br>bitter<br>inmate<br>decide |  
-| bip_39_word_new_br8 | wing<br>typical<br>bachelor<br>hand<br>bitter<br>inmate<br>decide<br>kitten |  
-| bip_39_word_new_br9 | wing<br>typical<br>bachelor<br>hand<br>bitter<br>inmate<br>decide<br>kitten<br>wolf |  
-| bip_39_word_new_line1 | wing |  
-| bip_39_word_new_line10 | wing
+| bip_39_word_new_br_1 | wing |  
+| bip_39_word_new_br_10 | wing<br>typical<br>bachelor<br>hand<br>bitter<br>inmate<br>decide<br>kitten<br>wolf<br>blade |  
+| bip_39_word_new_br_11 | wing<br>typical<br>bachelor<br>hand<br>bitter<br>inmate<br>decide<br>kitten<br>wolf<br>blade<br>release |  
+| bip_39_word_new_br_12 | wing<br>typical<br>bachelor<br>hand<br>bitter<br>inmate<br>decide<br>kitten<br>wolf<br>blade<br>release<br>add |  
+| bip_39_word_new_br_2 | wing<br>typical |  
+| bip_39_word_new_br_3 | wing<br>typical<br>bachelor |  
+| bip_39_word_new_br_4 | wing<br>typical<br>bachelor<br>hand |  
+| bip_39_word_new_br_5 | wing<br>typical<br>bachelor<br>hand<br>bitter |  
+| bip_39_word_new_br_6 | wing<br>typical<br>bachelor<br>hand<br>bitter<br>inmate |  
+| bip_39_word_new_br_7 | wing<br>typical<br>bachelor<br>hand<br>bitter<br>inmate<br>decide |  
+| bip_39_word_new_br_8 | wing<br>typical<br>bachelor<br>hand<br>bitter<br>inmate<br>decide<br>kitten |  
+| bip_39_word_new_br_9 | wing<br>typical<br>bachelor<br>hand<br>bitter<br>inmate<br>decide<br>kitten<br>wolf |  
+| bip_39_word_new_line_1 | wing |  
+| bip_39_word_new_line_10 | wing
 typical
 bachelor
 hand
@@ -55,7 +55,7 @@ decide
 kitten
 wolf
 blade |  
-| bip_39_word_new_line11 | wing
+| bip_39_word_new_line_11 | wing
 typical
 bachelor
 hand
@@ -66,7 +66,7 @@ kitten
 wolf
 blade
 release |  
-| bip_39_word_new_line12 | wing
+| bip_39_word_new_line_12 | wing
 typical
 bachelor
 hand
@@ -78,34 +78,34 @@ wolf
 blade
 release
 add |  
-| bip_39_word_new_line2 | wing
+| bip_39_word_new_line_2 | wing
 typical |  
-| bip_39_word_new_line3 | wing
+| bip_39_word_new_line_3 | wing
 typical
 bachelor |  
-| bip_39_word_new_line4 | wing
+| bip_39_word_new_line_4 | wing
 typical
 bachelor
 hand |  
-| bip_39_word_new_line5 | wing
+| bip_39_word_new_line_5 | wing
 typical
 bachelor
 hand
 bitter |  
-| bip_39_word_new_line6 | wing
+| bip_39_word_new_line_6 | wing
 typical
 bachelor
 hand
 bitter
 inmate |  
-| bip_39_word_new_line7 | wing
+| bip_39_word_new_line_7 | wing
 typical
 bachelor
 hand
 bitter
 inmate
 decide |  
-| bip_39_word_new_line8 | wing
+| bip_39_word_new_line_8 | wing
 typical
 bachelor
 hand
@@ -113,7 +113,7 @@ bitter
 inmate
 decide
 kitten |  
-| bip_39_word_new_line9 | wing
+| bip_39_word_new_line_9 | wing
 typical
 bachelor
 hand

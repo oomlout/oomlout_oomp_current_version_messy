@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | grain |  
-| bip_39_word_new_br10 | grain<br>photo<br>hub<br>bag<br>zero<br>fan<br>wrestle<br>race<br>sand<br>shoe |  
-| bip_39_word_new_br11 | grain<br>photo<br>hub<br>bag<br>zero<br>fan<br>wrestle<br>race<br>sand<br>shoe<br>athlete |  
-| bip_39_word_new_br12 | grain<br>photo<br>hub<br>bag<br>zero<br>fan<br>wrestle<br>race<br>sand<br>shoe<br>athlete<br>arctic |  
-| bip_39_word_new_br2 | grain<br>photo |  
-| bip_39_word_new_br3 | grain<br>photo<br>hub |  
-| bip_39_word_new_br4 | grain<br>photo<br>hub<br>bag |  
-| bip_39_word_new_br5 | grain<br>photo<br>hub<br>bag<br>zero |  
-| bip_39_word_new_br6 | grain<br>photo<br>hub<br>bag<br>zero<br>fan |  
-| bip_39_word_new_br7 | grain<br>photo<br>hub<br>bag<br>zero<br>fan<br>wrestle |  
-| bip_39_word_new_br8 | grain<br>photo<br>hub<br>bag<br>zero<br>fan<br>wrestle<br>race |  
-| bip_39_word_new_br9 | grain<br>photo<br>hub<br>bag<br>zero<br>fan<br>wrestle<br>race<br>sand |  
-| bip_39_word_new_line1 | grain |  
-| bip_39_word_new_line10 | grain
+| bip_39_word_new_br_1 | grain |  
+| bip_39_word_new_br_10 | grain<br>photo<br>hub<br>bag<br>zero<br>fan<br>wrestle<br>race<br>sand<br>shoe |  
+| bip_39_word_new_br_11 | grain<br>photo<br>hub<br>bag<br>zero<br>fan<br>wrestle<br>race<br>sand<br>shoe<br>athlete |  
+| bip_39_word_new_br_12 | grain<br>photo<br>hub<br>bag<br>zero<br>fan<br>wrestle<br>race<br>sand<br>shoe<br>athlete<br>arctic |  
+| bip_39_word_new_br_2 | grain<br>photo |  
+| bip_39_word_new_br_3 | grain<br>photo<br>hub |  
+| bip_39_word_new_br_4 | grain<br>photo<br>hub<br>bag |  
+| bip_39_word_new_br_5 | grain<br>photo<br>hub<br>bag<br>zero |  
+| bip_39_word_new_br_6 | grain<br>photo<br>hub<br>bag<br>zero<br>fan |  
+| bip_39_word_new_br_7 | grain<br>photo<br>hub<br>bag<br>zero<br>fan<br>wrestle |  
+| bip_39_word_new_br_8 | grain<br>photo<br>hub<br>bag<br>zero<br>fan<br>wrestle<br>race |  
+| bip_39_word_new_br_9 | grain<br>photo<br>hub<br>bag<br>zero<br>fan<br>wrestle<br>race<br>sand |  
+| bip_39_word_new_line_1 | grain |  
+| bip_39_word_new_line_10 | grain
 photo
 hub
 bag
@@ -55,7 +55,7 @@ wrestle
 race
 sand
 shoe |  
-| bip_39_word_new_line11 | grain
+| bip_39_word_new_line_11 | grain
 photo
 hub
 bag
@@ -66,7 +66,7 @@ race
 sand
 shoe
 athlete |  
-| bip_39_word_new_line12 | grain
+| bip_39_word_new_line_12 | grain
 photo
 hub
 bag
@@ -78,34 +78,34 @@ sand
 shoe
 athlete
 arctic |  
-| bip_39_word_new_line2 | grain
+| bip_39_word_new_line_2 | grain
 photo |  
-| bip_39_word_new_line3 | grain
+| bip_39_word_new_line_3 | grain
 photo
 hub |  
-| bip_39_word_new_line4 | grain
+| bip_39_word_new_line_4 | grain
 photo
 hub
 bag |  
-| bip_39_word_new_line5 | grain
+| bip_39_word_new_line_5 | grain
 photo
 hub
 bag
 zero |  
-| bip_39_word_new_line6 | grain
+| bip_39_word_new_line_6 | grain
 photo
 hub
 bag
 zero
 fan |  
-| bip_39_word_new_line7 | grain
+| bip_39_word_new_line_7 | grain
 photo
 hub
 bag
 zero
 fan
 wrestle |  
-| bip_39_word_new_line8 | grain
+| bip_39_word_new_line_8 | grain
 photo
 hub
 bag
@@ -113,7 +113,7 @@ zero
 fan
 wrestle
 race |  
-| bip_39_word_new_line9 | grain
+| bip_39_word_new_line_9 | grain
 photo
 hub
 bag

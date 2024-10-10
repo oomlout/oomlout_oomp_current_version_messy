@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | conduct |  
-| bip_39_word_new_br10 | conduct<br>estate<br>heavy<br>solid<br>armor<br>win<br>deputy<br>pair<br>indicate<br>modify |  
-| bip_39_word_new_br11 | conduct<br>estate<br>heavy<br>solid<br>armor<br>win<br>deputy<br>pair<br>indicate<br>modify<br>siren |  
-| bip_39_word_new_br12 | conduct<br>estate<br>heavy<br>solid<br>armor<br>win<br>deputy<br>pair<br>indicate<br>modify<br>siren<br>animal |  
-| bip_39_word_new_br2 | conduct<br>estate |  
-| bip_39_word_new_br3 | conduct<br>estate<br>heavy |  
-| bip_39_word_new_br4 | conduct<br>estate<br>heavy<br>solid |  
-| bip_39_word_new_br5 | conduct<br>estate<br>heavy<br>solid<br>armor |  
-| bip_39_word_new_br6 | conduct<br>estate<br>heavy<br>solid<br>armor<br>win |  
-| bip_39_word_new_br7 | conduct<br>estate<br>heavy<br>solid<br>armor<br>win<br>deputy |  
-| bip_39_word_new_br8 | conduct<br>estate<br>heavy<br>solid<br>armor<br>win<br>deputy<br>pair |  
-| bip_39_word_new_br9 | conduct<br>estate<br>heavy<br>solid<br>armor<br>win<br>deputy<br>pair<br>indicate |  
-| bip_39_word_new_line1 | conduct |  
-| bip_39_word_new_line10 | conduct
+| bip_39_word_new_br_1 | conduct |  
+| bip_39_word_new_br_10 | conduct<br>estate<br>heavy<br>solid<br>armor<br>win<br>deputy<br>pair<br>indicate<br>modify |  
+| bip_39_word_new_br_11 | conduct<br>estate<br>heavy<br>solid<br>armor<br>win<br>deputy<br>pair<br>indicate<br>modify<br>siren |  
+| bip_39_word_new_br_12 | conduct<br>estate<br>heavy<br>solid<br>armor<br>win<br>deputy<br>pair<br>indicate<br>modify<br>siren<br>animal |  
+| bip_39_word_new_br_2 | conduct<br>estate |  
+| bip_39_word_new_br_3 | conduct<br>estate<br>heavy |  
+| bip_39_word_new_br_4 | conduct<br>estate<br>heavy<br>solid |  
+| bip_39_word_new_br_5 | conduct<br>estate<br>heavy<br>solid<br>armor |  
+| bip_39_word_new_br_6 | conduct<br>estate<br>heavy<br>solid<br>armor<br>win |  
+| bip_39_word_new_br_7 | conduct<br>estate<br>heavy<br>solid<br>armor<br>win<br>deputy |  
+| bip_39_word_new_br_8 | conduct<br>estate<br>heavy<br>solid<br>armor<br>win<br>deputy<br>pair |  
+| bip_39_word_new_br_9 | conduct<br>estate<br>heavy<br>solid<br>armor<br>win<br>deputy<br>pair<br>indicate |  
+| bip_39_word_new_line_1 | conduct |  
+| bip_39_word_new_line_10 | conduct
 estate
 heavy
 solid
@@ -55,7 +55,7 @@ deputy
 pair
 indicate
 modify |  
-| bip_39_word_new_line11 | conduct
+| bip_39_word_new_line_11 | conduct
 estate
 heavy
 solid
@@ -66,7 +66,7 @@ pair
 indicate
 modify
 siren |  
-| bip_39_word_new_line12 | conduct
+| bip_39_word_new_line_12 | conduct
 estate
 heavy
 solid
@@ -78,34 +78,34 @@ indicate
 modify
 siren
 animal |  
-| bip_39_word_new_line2 | conduct
+| bip_39_word_new_line_2 | conduct
 estate |  
-| bip_39_word_new_line3 | conduct
+| bip_39_word_new_line_3 | conduct
 estate
 heavy |  
-| bip_39_word_new_line4 | conduct
+| bip_39_word_new_line_4 | conduct
 estate
 heavy
 solid |  
-| bip_39_word_new_line5 | conduct
+| bip_39_word_new_line_5 | conduct
 estate
 heavy
 solid
 armor |  
-| bip_39_word_new_line6 | conduct
+| bip_39_word_new_line_6 | conduct
 estate
 heavy
 solid
 armor
 win |  
-| bip_39_word_new_line7 | conduct
+| bip_39_word_new_line_7 | conduct
 estate
 heavy
 solid
 armor
 win
 deputy |  
-| bip_39_word_new_line8 | conduct
+| bip_39_word_new_line_8 | conduct
 estate
 heavy
 solid
@@ -113,7 +113,7 @@ armor
 win
 deputy
 pair |  
-| bip_39_word_new_line9 | conduct
+| bip_39_word_new_line_9 | conduct
 estate
 heavy
 solid

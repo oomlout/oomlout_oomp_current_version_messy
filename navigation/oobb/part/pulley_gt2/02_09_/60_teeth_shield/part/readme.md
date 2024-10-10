@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | raw |  
-| bip_39_word_new_br10 | raw<br>endorse<br>discover<br>rival<br>joke<br>cream<br>resist<br>drop<br>draft<br>surge |  
-| bip_39_word_new_br11 | raw<br>endorse<br>discover<br>rival<br>joke<br>cream<br>resist<br>drop<br>draft<br>surge<br>flee |  
-| bip_39_word_new_br12 | raw<br>endorse<br>discover<br>rival<br>joke<br>cream<br>resist<br>drop<br>draft<br>surge<br>flee<br>act |  
-| bip_39_word_new_br2 | raw<br>endorse |  
-| bip_39_word_new_br3 | raw<br>endorse<br>discover |  
-| bip_39_word_new_br4 | raw<br>endorse<br>discover<br>rival |  
-| bip_39_word_new_br5 | raw<br>endorse<br>discover<br>rival<br>joke |  
-| bip_39_word_new_br6 | raw<br>endorse<br>discover<br>rival<br>joke<br>cream |  
-| bip_39_word_new_br7 | raw<br>endorse<br>discover<br>rival<br>joke<br>cream<br>resist |  
-| bip_39_word_new_br8 | raw<br>endorse<br>discover<br>rival<br>joke<br>cream<br>resist<br>drop |  
-| bip_39_word_new_br9 | raw<br>endorse<br>discover<br>rival<br>joke<br>cream<br>resist<br>drop<br>draft |  
-| bip_39_word_new_line1 | raw |  
-| bip_39_word_new_line10 | raw
+| bip_39_word_new_br_1 | raw |  
+| bip_39_word_new_br_10 | raw<br>endorse<br>discover<br>rival<br>joke<br>cream<br>resist<br>drop<br>draft<br>surge |  
+| bip_39_word_new_br_11 | raw<br>endorse<br>discover<br>rival<br>joke<br>cream<br>resist<br>drop<br>draft<br>surge<br>flee |  
+| bip_39_word_new_br_12 | raw<br>endorse<br>discover<br>rival<br>joke<br>cream<br>resist<br>drop<br>draft<br>surge<br>flee<br>act |  
+| bip_39_word_new_br_2 | raw<br>endorse |  
+| bip_39_word_new_br_3 | raw<br>endorse<br>discover |  
+| bip_39_word_new_br_4 | raw<br>endorse<br>discover<br>rival |  
+| bip_39_word_new_br_5 | raw<br>endorse<br>discover<br>rival<br>joke |  
+| bip_39_word_new_br_6 | raw<br>endorse<br>discover<br>rival<br>joke<br>cream |  
+| bip_39_word_new_br_7 | raw<br>endorse<br>discover<br>rival<br>joke<br>cream<br>resist |  
+| bip_39_word_new_br_8 | raw<br>endorse<br>discover<br>rival<br>joke<br>cream<br>resist<br>drop |  
+| bip_39_word_new_br_9 | raw<br>endorse<br>discover<br>rival<br>joke<br>cream<br>resist<br>drop<br>draft |  
+| bip_39_word_new_line_1 | raw |  
+| bip_39_word_new_line_10 | raw
 endorse
 discover
 rival
@@ -55,7 +55,7 @@ resist
 drop
 draft
 surge |  
-| bip_39_word_new_line11 | raw
+| bip_39_word_new_line_11 | raw
 endorse
 discover
 rival
@@ -66,7 +66,7 @@ drop
 draft
 surge
 flee |  
-| bip_39_word_new_line12 | raw
+| bip_39_word_new_line_12 | raw
 endorse
 discover
 rival
@@ -78,34 +78,34 @@ draft
 surge
 flee
 act |  
-| bip_39_word_new_line2 | raw
+| bip_39_word_new_line_2 | raw
 endorse |  
-| bip_39_word_new_line3 | raw
+| bip_39_word_new_line_3 | raw
 endorse
 discover |  
-| bip_39_word_new_line4 | raw
+| bip_39_word_new_line_4 | raw
 endorse
 discover
 rival |  
-| bip_39_word_new_line5 | raw
+| bip_39_word_new_line_5 | raw
 endorse
 discover
 rival
 joke |  
-| bip_39_word_new_line6 | raw
+| bip_39_word_new_line_6 | raw
 endorse
 discover
 rival
 joke
 cream |  
-| bip_39_word_new_line7 | raw
+| bip_39_word_new_line_7 | raw
 endorse
 discover
 rival
 joke
 cream
 resist |  
-| bip_39_word_new_line8 | raw
+| bip_39_word_new_line_8 | raw
 endorse
 discover
 rival
@@ -113,7 +113,7 @@ joke
 cream
 resist
 drop |  
-| bip_39_word_new_line9 | raw
+| bip_39_word_new_line_9 | raw
 endorse
 discover
 rival

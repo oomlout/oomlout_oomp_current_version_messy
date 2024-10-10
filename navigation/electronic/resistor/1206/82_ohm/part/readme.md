@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | setup |  
-| bip_39_word_new_br10 | setup<br>scale<br>what<br>torch<br>sister<br>feel<br>wrap<br>acid<br>this<br>toast |  
-| bip_39_word_new_br11 | setup<br>scale<br>what<br>torch<br>sister<br>feel<br>wrap<br>acid<br>this<br>toast<br>fold |  
-| bip_39_word_new_br2 | setup<br>scale |  
-| bip_39_word_new_br3 | setup<br>scale<br>what |  
-| bip_39_word_new_br4 | setup<br>scale<br>what<br>torch |  
-| bip_39_word_new_br5 | setup<br>scale<br>what<br>torch<br>sister |  
-| bip_39_word_new_br6 | setup<br>scale<br>what<br>torch<br>sister<br>feel |  
-| bip_39_word_new_br7 | setup<br>scale<br>what<br>torch<br>sister<br>feel<br>wrap |  
-| bip_39_word_new_br8 | setup<br>scale<br>what<br>torch<br>sister<br>feel<br>wrap<br>acid |  
-| bip_39_word_new_br9 | setup<br>scale<br>what<br>torch<br>sister<br>feel<br>wrap<br>acid<br>this |  
-| bip_39_word_new_line1 | setup |  
-| bip_39_word_new_line10 | setup
+| bip_39_word_new_br_1 | setup |  
+| bip_39_word_new_br_10 | setup<br>scale<br>what<br>torch<br>sister<br>feel<br>wrap<br>acid<br>this<br>toast |  
+| bip_39_word_new_br_11 | setup<br>scale<br>what<br>torch<br>sister<br>feel<br>wrap<br>acid<br>this<br>toast<br>fold |  
+| bip_39_word_new_br_2 | setup<br>scale |  
+| bip_39_word_new_br_3 | setup<br>scale<br>what |  
+| bip_39_word_new_br_4 | setup<br>scale<br>what<br>torch |  
+| bip_39_word_new_br_5 | setup<br>scale<br>what<br>torch<br>sister |  
+| bip_39_word_new_br_6 | setup<br>scale<br>what<br>torch<br>sister<br>feel |  
+| bip_39_word_new_br_7 | setup<br>scale<br>what<br>torch<br>sister<br>feel<br>wrap |  
+| bip_39_word_new_br_8 | setup<br>scale<br>what<br>torch<br>sister<br>feel<br>wrap<br>acid |  
+| bip_39_word_new_br_9 | setup<br>scale<br>what<br>torch<br>sister<br>feel<br>wrap<br>acid<br>this |  
+| bip_39_word_new_line_1 | setup |  
+| bip_39_word_new_line_10 | setup
 scale
 what
 torch
@@ -54,7 +54,7 @@ wrap
 acid
 this
 toast |  
-| bip_39_word_new_line11 | setup
+| bip_39_word_new_line_11 | setup
 scale
 what
 torch
@@ -65,34 +65,34 @@ acid
 this
 toast
 fold |  
-| bip_39_word_new_line2 | setup
+| bip_39_word_new_line_2 | setup
 scale |  
-| bip_39_word_new_line3 | setup
+| bip_39_word_new_line_3 | setup
 scale
 what |  
-| bip_39_word_new_line4 | setup
+| bip_39_word_new_line_4 | setup
 scale
 what
 torch |  
-| bip_39_word_new_line5 | setup
+| bip_39_word_new_line_5 | setup
 scale
 what
 torch
 sister |  
-| bip_39_word_new_line6 | setup
+| bip_39_word_new_line_6 | setup
 scale
 what
 torch
 sister
 feel |  
-| bip_39_word_new_line7 | setup
+| bip_39_word_new_line_7 | setup
 scale
 what
 torch
 sister
 feel
 wrap |  
-| bip_39_word_new_line8 | setup
+| bip_39_word_new_line_8 | setup
 scale
 what
 torch
@@ -100,7 +100,7 @@ sister
 feel
 wrap
 acid |  
-| bip_39_word_new_line9 | setup
+| bip_39_word_new_line_9 | setup
 scale
 what
 torch

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | tilt |  
-| bip_39_word_new_br10 | tilt<br>comic<br>project<br>cup<br>survey<br>lava<br>differ<br>elevator<br>update<br>shrug |  
-| bip_39_word_new_br11 | tilt<br>comic<br>project<br>cup<br>survey<br>lava<br>differ<br>elevator<br>update<br>shrug<br>please |  
-| bip_39_word_new_br12 | tilt<br>comic<br>project<br>cup<br>survey<br>lava<br>differ<br>elevator<br>update<br>shrug<br>please<br>approve |  
-| bip_39_word_new_br2 | tilt<br>comic |  
-| bip_39_word_new_br3 | tilt<br>comic<br>project |  
-| bip_39_word_new_br4 | tilt<br>comic<br>project<br>cup |  
-| bip_39_word_new_br5 | tilt<br>comic<br>project<br>cup<br>survey |  
-| bip_39_word_new_br6 | tilt<br>comic<br>project<br>cup<br>survey<br>lava |  
-| bip_39_word_new_br7 | tilt<br>comic<br>project<br>cup<br>survey<br>lava<br>differ |  
-| bip_39_word_new_br8 | tilt<br>comic<br>project<br>cup<br>survey<br>lava<br>differ<br>elevator |  
-| bip_39_word_new_br9 | tilt<br>comic<br>project<br>cup<br>survey<br>lava<br>differ<br>elevator<br>update |  
-| bip_39_word_new_line1 | tilt |  
-| bip_39_word_new_line10 | tilt
+| bip_39_word_new_br_1 | tilt |  
+| bip_39_word_new_br_10 | tilt<br>comic<br>project<br>cup<br>survey<br>lava<br>differ<br>elevator<br>update<br>shrug |  
+| bip_39_word_new_br_11 | tilt<br>comic<br>project<br>cup<br>survey<br>lava<br>differ<br>elevator<br>update<br>shrug<br>please |  
+| bip_39_word_new_br_12 | tilt<br>comic<br>project<br>cup<br>survey<br>lava<br>differ<br>elevator<br>update<br>shrug<br>please<br>approve |  
+| bip_39_word_new_br_2 | tilt<br>comic |  
+| bip_39_word_new_br_3 | tilt<br>comic<br>project |  
+| bip_39_word_new_br_4 | tilt<br>comic<br>project<br>cup |  
+| bip_39_word_new_br_5 | tilt<br>comic<br>project<br>cup<br>survey |  
+| bip_39_word_new_br_6 | tilt<br>comic<br>project<br>cup<br>survey<br>lava |  
+| bip_39_word_new_br_7 | tilt<br>comic<br>project<br>cup<br>survey<br>lava<br>differ |  
+| bip_39_word_new_br_8 | tilt<br>comic<br>project<br>cup<br>survey<br>lava<br>differ<br>elevator |  
+| bip_39_word_new_br_9 | tilt<br>comic<br>project<br>cup<br>survey<br>lava<br>differ<br>elevator<br>update |  
+| bip_39_word_new_line_1 | tilt |  
+| bip_39_word_new_line_10 | tilt
 comic
 project
 cup
@@ -55,7 +55,7 @@ differ
 elevator
 update
 shrug |  
-| bip_39_word_new_line11 | tilt
+| bip_39_word_new_line_11 | tilt
 comic
 project
 cup
@@ -66,7 +66,7 @@ elevator
 update
 shrug
 please |  
-| bip_39_word_new_line12 | tilt
+| bip_39_word_new_line_12 | tilt
 comic
 project
 cup
@@ -78,34 +78,34 @@ update
 shrug
 please
 approve |  
-| bip_39_word_new_line2 | tilt
+| bip_39_word_new_line_2 | tilt
 comic |  
-| bip_39_word_new_line3 | tilt
+| bip_39_word_new_line_3 | tilt
 comic
 project |  
-| bip_39_word_new_line4 | tilt
+| bip_39_word_new_line_4 | tilt
 comic
 project
 cup |  
-| bip_39_word_new_line5 | tilt
+| bip_39_word_new_line_5 | tilt
 comic
 project
 cup
 survey |  
-| bip_39_word_new_line6 | tilt
+| bip_39_word_new_line_6 | tilt
 comic
 project
 cup
 survey
 lava |  
-| bip_39_word_new_line7 | tilt
+| bip_39_word_new_line_7 | tilt
 comic
 project
 cup
 survey
 lava
 differ |  
-| bip_39_word_new_line8 | tilt
+| bip_39_word_new_line_8 | tilt
 comic
 project
 cup
@@ -113,7 +113,7 @@ survey
 lava
 differ
 elevator |  
-| bip_39_word_new_line9 | tilt
+| bip_39_word_new_line_9 | tilt
 comic
 project
 cup

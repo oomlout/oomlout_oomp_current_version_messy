@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | spot |  
-| bip_39_word_new_br10 | spot<br>symptom<br>accuse<br>casino<br>famous<br>joy<br>aisle<br>happy<br>advice<br>lab |  
-| bip_39_word_new_br11 | spot<br>symptom<br>accuse<br>casino<br>famous<br>joy<br>aisle<br>happy<br>advice<br>lab<br>away |  
-| bip_39_word_new_br12 | spot<br>symptom<br>accuse<br>casino<br>famous<br>joy<br>aisle<br>happy<br>advice<br>lab<br>away<br>army |  
-| bip_39_word_new_br2 | spot<br>symptom |  
-| bip_39_word_new_br3 | spot<br>symptom<br>accuse |  
-| bip_39_word_new_br4 | spot<br>symptom<br>accuse<br>casino |  
-| bip_39_word_new_br5 | spot<br>symptom<br>accuse<br>casino<br>famous |  
-| bip_39_word_new_br6 | spot<br>symptom<br>accuse<br>casino<br>famous<br>joy |  
-| bip_39_word_new_br7 | spot<br>symptom<br>accuse<br>casino<br>famous<br>joy<br>aisle |  
-| bip_39_word_new_br8 | spot<br>symptom<br>accuse<br>casino<br>famous<br>joy<br>aisle<br>happy |  
-| bip_39_word_new_br9 | spot<br>symptom<br>accuse<br>casino<br>famous<br>joy<br>aisle<br>happy<br>advice |  
-| bip_39_word_new_line1 | spot |  
-| bip_39_word_new_line10 | spot
+| bip_39_word_new_br_1 | spot |  
+| bip_39_word_new_br_10 | spot<br>symptom<br>accuse<br>casino<br>famous<br>joy<br>aisle<br>happy<br>advice<br>lab |  
+| bip_39_word_new_br_11 | spot<br>symptom<br>accuse<br>casino<br>famous<br>joy<br>aisle<br>happy<br>advice<br>lab<br>away |  
+| bip_39_word_new_br_12 | spot<br>symptom<br>accuse<br>casino<br>famous<br>joy<br>aisle<br>happy<br>advice<br>lab<br>away<br>army |  
+| bip_39_word_new_br_2 | spot<br>symptom |  
+| bip_39_word_new_br_3 | spot<br>symptom<br>accuse |  
+| bip_39_word_new_br_4 | spot<br>symptom<br>accuse<br>casino |  
+| bip_39_word_new_br_5 | spot<br>symptom<br>accuse<br>casino<br>famous |  
+| bip_39_word_new_br_6 | spot<br>symptom<br>accuse<br>casino<br>famous<br>joy |  
+| bip_39_word_new_br_7 | spot<br>symptom<br>accuse<br>casino<br>famous<br>joy<br>aisle |  
+| bip_39_word_new_br_8 | spot<br>symptom<br>accuse<br>casino<br>famous<br>joy<br>aisle<br>happy |  
+| bip_39_word_new_br_9 | spot<br>symptom<br>accuse<br>casino<br>famous<br>joy<br>aisle<br>happy<br>advice |  
+| bip_39_word_new_line_1 | spot |  
+| bip_39_word_new_line_10 | spot
 symptom
 accuse
 casino
@@ -55,7 +55,7 @@ aisle
 happy
 advice
 lab |  
-| bip_39_word_new_line11 | spot
+| bip_39_word_new_line_11 | spot
 symptom
 accuse
 casino
@@ -66,7 +66,7 @@ happy
 advice
 lab
 away |  
-| bip_39_word_new_line12 | spot
+| bip_39_word_new_line_12 | spot
 symptom
 accuse
 casino
@@ -78,34 +78,34 @@ advice
 lab
 away
 army |  
-| bip_39_word_new_line2 | spot
+| bip_39_word_new_line_2 | spot
 symptom |  
-| bip_39_word_new_line3 | spot
+| bip_39_word_new_line_3 | spot
 symptom
 accuse |  
-| bip_39_word_new_line4 | spot
+| bip_39_word_new_line_4 | spot
 symptom
 accuse
 casino |  
-| bip_39_word_new_line5 | spot
+| bip_39_word_new_line_5 | spot
 symptom
 accuse
 casino
 famous |  
-| bip_39_word_new_line6 | spot
+| bip_39_word_new_line_6 | spot
 symptom
 accuse
 casino
 famous
 joy |  
-| bip_39_word_new_line7 | spot
+| bip_39_word_new_line_7 | spot
 symptom
 accuse
 casino
 famous
 joy
 aisle |  
-| bip_39_word_new_line8 | spot
+| bip_39_word_new_line_8 | spot
 symptom
 accuse
 casino
@@ -113,7 +113,7 @@ famous
 joy
 aisle
 happy |  
-| bip_39_word_new_line9 | spot
+| bip_39_word_new_line_9 | spot
 symptom
 accuse
 casino

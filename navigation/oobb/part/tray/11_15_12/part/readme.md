@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | scatter |  
-| bip_39_word_new_br10 | scatter<br>special<br>behind<br>turkey<br>short<br>gravity<br>gain<br>deposit<br>bottom<br>pelican |  
-| bip_39_word_new_br11 | scatter<br>special<br>behind<br>turkey<br>short<br>gravity<br>gain<br>deposit<br>bottom<br>pelican<br>service |  
-| bip_39_word_new_br12 | scatter<br>special<br>behind<br>turkey<br>short<br>gravity<br>gain<br>deposit<br>bottom<br>pelican<br>service<br>actor |  
-| bip_39_word_new_br2 | scatter<br>special |  
-| bip_39_word_new_br3 | scatter<br>special<br>behind |  
-| bip_39_word_new_br4 | scatter<br>special<br>behind<br>turkey |  
-| bip_39_word_new_br5 | scatter<br>special<br>behind<br>turkey<br>short |  
-| bip_39_word_new_br6 | scatter<br>special<br>behind<br>turkey<br>short<br>gravity |  
-| bip_39_word_new_br7 | scatter<br>special<br>behind<br>turkey<br>short<br>gravity<br>gain |  
-| bip_39_word_new_br8 | scatter<br>special<br>behind<br>turkey<br>short<br>gravity<br>gain<br>deposit |  
-| bip_39_word_new_br9 | scatter<br>special<br>behind<br>turkey<br>short<br>gravity<br>gain<br>deposit<br>bottom |  
-| bip_39_word_new_line1 | scatter |  
-| bip_39_word_new_line10 | scatter
+| bip_39_word_new_br_1 | scatter |  
+| bip_39_word_new_br_10 | scatter<br>special<br>behind<br>turkey<br>short<br>gravity<br>gain<br>deposit<br>bottom<br>pelican |  
+| bip_39_word_new_br_11 | scatter<br>special<br>behind<br>turkey<br>short<br>gravity<br>gain<br>deposit<br>bottom<br>pelican<br>service |  
+| bip_39_word_new_br_12 | scatter<br>special<br>behind<br>turkey<br>short<br>gravity<br>gain<br>deposit<br>bottom<br>pelican<br>service<br>actor |  
+| bip_39_word_new_br_2 | scatter<br>special |  
+| bip_39_word_new_br_3 | scatter<br>special<br>behind |  
+| bip_39_word_new_br_4 | scatter<br>special<br>behind<br>turkey |  
+| bip_39_word_new_br_5 | scatter<br>special<br>behind<br>turkey<br>short |  
+| bip_39_word_new_br_6 | scatter<br>special<br>behind<br>turkey<br>short<br>gravity |  
+| bip_39_word_new_br_7 | scatter<br>special<br>behind<br>turkey<br>short<br>gravity<br>gain |  
+| bip_39_word_new_br_8 | scatter<br>special<br>behind<br>turkey<br>short<br>gravity<br>gain<br>deposit |  
+| bip_39_word_new_br_9 | scatter<br>special<br>behind<br>turkey<br>short<br>gravity<br>gain<br>deposit<br>bottom |  
+| bip_39_word_new_line_1 | scatter |  
+| bip_39_word_new_line_10 | scatter
 special
 behind
 turkey
@@ -55,7 +55,7 @@ gain
 deposit
 bottom
 pelican |  
-| bip_39_word_new_line11 | scatter
+| bip_39_word_new_line_11 | scatter
 special
 behind
 turkey
@@ -66,7 +66,7 @@ deposit
 bottom
 pelican
 service |  
-| bip_39_word_new_line12 | scatter
+| bip_39_word_new_line_12 | scatter
 special
 behind
 turkey
@@ -78,34 +78,34 @@ bottom
 pelican
 service
 actor |  
-| bip_39_word_new_line2 | scatter
+| bip_39_word_new_line_2 | scatter
 special |  
-| bip_39_word_new_line3 | scatter
+| bip_39_word_new_line_3 | scatter
 special
 behind |  
-| bip_39_word_new_line4 | scatter
+| bip_39_word_new_line_4 | scatter
 special
 behind
 turkey |  
-| bip_39_word_new_line5 | scatter
+| bip_39_word_new_line_5 | scatter
 special
 behind
 turkey
 short |  
-| bip_39_word_new_line6 | scatter
+| bip_39_word_new_line_6 | scatter
 special
 behind
 turkey
 short
 gravity |  
-| bip_39_word_new_line7 | scatter
+| bip_39_word_new_line_7 | scatter
 special
 behind
 turkey
 short
 gravity
 gain |  
-| bip_39_word_new_line8 | scatter
+| bip_39_word_new_line_8 | scatter
 special
 behind
 turkey
@@ -113,7 +113,7 @@ short
 gravity
 gain
 deposit |  
-| bip_39_word_new_line9 | scatter
+| bip_39_word_new_line_9 | scatter
 special
 behind
 turkey

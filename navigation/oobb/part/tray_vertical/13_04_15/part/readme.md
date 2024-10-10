@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | clump |  
-| bip_39_word_new_br10 | clump<br>swarm<br>pause<br>wagon<br>tuition<br>special<br>begin<br>purity<br>creek<br>salon |  
-| bip_39_word_new_br11 | clump<br>swarm<br>pause<br>wagon<br>tuition<br>special<br>begin<br>purity<br>creek<br>salon<br>measure |  
-| bip_39_word_new_br12 | clump<br>swarm<br>pause<br>wagon<br>tuition<br>special<br>begin<br>purity<br>creek<br>salon<br>measure<br>angle |  
-| bip_39_word_new_br2 | clump<br>swarm |  
-| bip_39_word_new_br3 | clump<br>swarm<br>pause |  
-| bip_39_word_new_br4 | clump<br>swarm<br>pause<br>wagon |  
-| bip_39_word_new_br5 | clump<br>swarm<br>pause<br>wagon<br>tuition |  
-| bip_39_word_new_br6 | clump<br>swarm<br>pause<br>wagon<br>tuition<br>special |  
-| bip_39_word_new_br7 | clump<br>swarm<br>pause<br>wagon<br>tuition<br>special<br>begin |  
-| bip_39_word_new_br8 | clump<br>swarm<br>pause<br>wagon<br>tuition<br>special<br>begin<br>purity |  
-| bip_39_word_new_br9 | clump<br>swarm<br>pause<br>wagon<br>tuition<br>special<br>begin<br>purity<br>creek |  
-| bip_39_word_new_line1 | clump |  
-| bip_39_word_new_line10 | clump
+| bip_39_word_new_br_1 | clump |  
+| bip_39_word_new_br_10 | clump<br>swarm<br>pause<br>wagon<br>tuition<br>special<br>begin<br>purity<br>creek<br>salon |  
+| bip_39_word_new_br_11 | clump<br>swarm<br>pause<br>wagon<br>tuition<br>special<br>begin<br>purity<br>creek<br>salon<br>measure |  
+| bip_39_word_new_br_12 | clump<br>swarm<br>pause<br>wagon<br>tuition<br>special<br>begin<br>purity<br>creek<br>salon<br>measure<br>angle |  
+| bip_39_word_new_br_2 | clump<br>swarm |  
+| bip_39_word_new_br_3 | clump<br>swarm<br>pause |  
+| bip_39_word_new_br_4 | clump<br>swarm<br>pause<br>wagon |  
+| bip_39_word_new_br_5 | clump<br>swarm<br>pause<br>wagon<br>tuition |  
+| bip_39_word_new_br_6 | clump<br>swarm<br>pause<br>wagon<br>tuition<br>special |  
+| bip_39_word_new_br_7 | clump<br>swarm<br>pause<br>wagon<br>tuition<br>special<br>begin |  
+| bip_39_word_new_br_8 | clump<br>swarm<br>pause<br>wagon<br>tuition<br>special<br>begin<br>purity |  
+| bip_39_word_new_br_9 | clump<br>swarm<br>pause<br>wagon<br>tuition<br>special<br>begin<br>purity<br>creek |  
+| bip_39_word_new_line_1 | clump |  
+| bip_39_word_new_line_10 | clump
 swarm
 pause
 wagon
@@ -55,7 +55,7 @@ begin
 purity
 creek
 salon |  
-| bip_39_word_new_line11 | clump
+| bip_39_word_new_line_11 | clump
 swarm
 pause
 wagon
@@ -66,7 +66,7 @@ purity
 creek
 salon
 measure |  
-| bip_39_word_new_line12 | clump
+| bip_39_word_new_line_12 | clump
 swarm
 pause
 wagon
@@ -78,34 +78,34 @@ creek
 salon
 measure
 angle |  
-| bip_39_word_new_line2 | clump
+| bip_39_word_new_line_2 | clump
 swarm |  
-| bip_39_word_new_line3 | clump
+| bip_39_word_new_line_3 | clump
 swarm
 pause |  
-| bip_39_word_new_line4 | clump
+| bip_39_word_new_line_4 | clump
 swarm
 pause
 wagon |  
-| bip_39_word_new_line5 | clump
+| bip_39_word_new_line_5 | clump
 swarm
 pause
 wagon
 tuition |  
-| bip_39_word_new_line6 | clump
+| bip_39_word_new_line_6 | clump
 swarm
 pause
 wagon
 tuition
 special |  
-| bip_39_word_new_line7 | clump
+| bip_39_word_new_line_7 | clump
 swarm
 pause
 wagon
 tuition
 special
 begin |  
-| bip_39_word_new_line8 | clump
+| bip_39_word_new_line_8 | clump
 swarm
 pause
 wagon
@@ -113,7 +113,7 @@ tuition
 special
 begin
 purity |  
-| bip_39_word_new_line9 | clump
+| bip_39_word_new_line_9 | clump
 swarm
 pause
 wagon

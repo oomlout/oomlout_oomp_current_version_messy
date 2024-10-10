@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pepper |  
-| bip_39_word_new_br10 | pepper<br>horse<br>soul<br>outdoor<br>foster<br>course<br>midnight<br>fire<br>sword<br>someone |  
-| bip_39_word_new_br11 | pepper<br>horse<br>soul<br>outdoor<br>foster<br>course<br>midnight<br>fire<br>sword<br>someone<br>oil |  
-| bip_39_word_new_br12 | pepper<br>horse<br>soul<br>outdoor<br>foster<br>course<br>midnight<br>fire<br>sword<br>someone<br>oil<br>alien |  
-| bip_39_word_new_br2 | pepper<br>horse |  
-| bip_39_word_new_br3 | pepper<br>horse<br>soul |  
-| bip_39_word_new_br4 | pepper<br>horse<br>soul<br>outdoor |  
-| bip_39_word_new_br5 | pepper<br>horse<br>soul<br>outdoor<br>foster |  
-| bip_39_word_new_br6 | pepper<br>horse<br>soul<br>outdoor<br>foster<br>course |  
-| bip_39_word_new_br7 | pepper<br>horse<br>soul<br>outdoor<br>foster<br>course<br>midnight |  
-| bip_39_word_new_br8 | pepper<br>horse<br>soul<br>outdoor<br>foster<br>course<br>midnight<br>fire |  
-| bip_39_word_new_br9 | pepper<br>horse<br>soul<br>outdoor<br>foster<br>course<br>midnight<br>fire<br>sword |  
-| bip_39_word_new_line1 | pepper |  
-| bip_39_word_new_line10 | pepper
+| bip_39_word_new_br_1 | pepper |  
+| bip_39_word_new_br_10 | pepper<br>horse<br>soul<br>outdoor<br>foster<br>course<br>midnight<br>fire<br>sword<br>someone |  
+| bip_39_word_new_br_11 | pepper<br>horse<br>soul<br>outdoor<br>foster<br>course<br>midnight<br>fire<br>sword<br>someone<br>oil |  
+| bip_39_word_new_br_12 | pepper<br>horse<br>soul<br>outdoor<br>foster<br>course<br>midnight<br>fire<br>sword<br>someone<br>oil<br>alien |  
+| bip_39_word_new_br_2 | pepper<br>horse |  
+| bip_39_word_new_br_3 | pepper<br>horse<br>soul |  
+| bip_39_word_new_br_4 | pepper<br>horse<br>soul<br>outdoor |  
+| bip_39_word_new_br_5 | pepper<br>horse<br>soul<br>outdoor<br>foster |  
+| bip_39_word_new_br_6 | pepper<br>horse<br>soul<br>outdoor<br>foster<br>course |  
+| bip_39_word_new_br_7 | pepper<br>horse<br>soul<br>outdoor<br>foster<br>course<br>midnight |  
+| bip_39_word_new_br_8 | pepper<br>horse<br>soul<br>outdoor<br>foster<br>course<br>midnight<br>fire |  
+| bip_39_word_new_br_9 | pepper<br>horse<br>soul<br>outdoor<br>foster<br>course<br>midnight<br>fire<br>sword |  
+| bip_39_word_new_line_1 | pepper |  
+| bip_39_word_new_line_10 | pepper
 horse
 soul
 outdoor
@@ -55,7 +55,7 @@ midnight
 fire
 sword
 someone |  
-| bip_39_word_new_line11 | pepper
+| bip_39_word_new_line_11 | pepper
 horse
 soul
 outdoor
@@ -66,7 +66,7 @@ fire
 sword
 someone
 oil |  
-| bip_39_word_new_line12 | pepper
+| bip_39_word_new_line_12 | pepper
 horse
 soul
 outdoor
@@ -78,34 +78,34 @@ sword
 someone
 oil
 alien |  
-| bip_39_word_new_line2 | pepper
+| bip_39_word_new_line_2 | pepper
 horse |  
-| bip_39_word_new_line3 | pepper
+| bip_39_word_new_line_3 | pepper
 horse
 soul |  
-| bip_39_word_new_line4 | pepper
+| bip_39_word_new_line_4 | pepper
 horse
 soul
 outdoor |  
-| bip_39_word_new_line5 | pepper
+| bip_39_word_new_line_5 | pepper
 horse
 soul
 outdoor
 foster |  
-| bip_39_word_new_line6 | pepper
+| bip_39_word_new_line_6 | pepper
 horse
 soul
 outdoor
 foster
 course |  
-| bip_39_word_new_line7 | pepper
+| bip_39_word_new_line_7 | pepper
 horse
 soul
 outdoor
 foster
 course
 midnight |  
-| bip_39_word_new_line8 | pepper
+| bip_39_word_new_line_8 | pepper
 horse
 soul
 outdoor
@@ -113,7 +113,7 @@ foster
 course
 midnight
 fire |  
-| bip_39_word_new_line9 | pepper
+| bip_39_word_new_line_9 | pepper
 horse
 soul
 outdoor

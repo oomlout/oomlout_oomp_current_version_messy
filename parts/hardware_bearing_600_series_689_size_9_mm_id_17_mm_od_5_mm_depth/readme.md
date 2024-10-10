@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | must |  
-| bip_39_word_new_br10 | must<br>theory<br>process<br>siege<br>need<br>escape<br>axis<br>cup<br>energy<br>mention |  
-| bip_39_word_new_br11 | must<br>theory<br>process<br>siege<br>need<br>escape<br>axis<br>cup<br>energy<br>mention<br>bar |  
-| bip_39_word_new_br12 | must<br>theory<br>process<br>siege<br>need<br>escape<br>axis<br>cup<br>energy<br>mention<br>bar<br>amused |  
-| bip_39_word_new_br2 | must<br>theory |  
-| bip_39_word_new_br3 | must<br>theory<br>process |  
-| bip_39_word_new_br4 | must<br>theory<br>process<br>siege |  
-| bip_39_word_new_br5 | must<br>theory<br>process<br>siege<br>need |  
-| bip_39_word_new_br6 | must<br>theory<br>process<br>siege<br>need<br>escape |  
-| bip_39_word_new_br7 | must<br>theory<br>process<br>siege<br>need<br>escape<br>axis |  
-| bip_39_word_new_br8 | must<br>theory<br>process<br>siege<br>need<br>escape<br>axis<br>cup |  
-| bip_39_word_new_br9 | must<br>theory<br>process<br>siege<br>need<br>escape<br>axis<br>cup<br>energy |  
-| bip_39_word_new_line1 | must |  
-| bip_39_word_new_line10 | must
+| bip_39_word_new_br_1 | must |  
+| bip_39_word_new_br_10 | must<br>theory<br>process<br>siege<br>need<br>escape<br>axis<br>cup<br>energy<br>mention |  
+| bip_39_word_new_br_11 | must<br>theory<br>process<br>siege<br>need<br>escape<br>axis<br>cup<br>energy<br>mention<br>bar |  
+| bip_39_word_new_br_12 | must<br>theory<br>process<br>siege<br>need<br>escape<br>axis<br>cup<br>energy<br>mention<br>bar<br>amused |  
+| bip_39_word_new_br_2 | must<br>theory |  
+| bip_39_word_new_br_3 | must<br>theory<br>process |  
+| bip_39_word_new_br_4 | must<br>theory<br>process<br>siege |  
+| bip_39_word_new_br_5 | must<br>theory<br>process<br>siege<br>need |  
+| bip_39_word_new_br_6 | must<br>theory<br>process<br>siege<br>need<br>escape |  
+| bip_39_word_new_br_7 | must<br>theory<br>process<br>siege<br>need<br>escape<br>axis |  
+| bip_39_word_new_br_8 | must<br>theory<br>process<br>siege<br>need<br>escape<br>axis<br>cup |  
+| bip_39_word_new_br_9 | must<br>theory<br>process<br>siege<br>need<br>escape<br>axis<br>cup<br>energy |  
+| bip_39_word_new_line_1 | must |  
+| bip_39_word_new_line_10 | must
 theory
 process
 siege
@@ -55,7 +55,7 @@ axis
 cup
 energy
 mention |  
-| bip_39_word_new_line11 | must
+| bip_39_word_new_line_11 | must
 theory
 process
 siege
@@ -66,7 +66,7 @@ cup
 energy
 mention
 bar |  
-| bip_39_word_new_line12 | must
+| bip_39_word_new_line_12 | must
 theory
 process
 siege
@@ -78,34 +78,34 @@ energy
 mention
 bar
 amused |  
-| bip_39_word_new_line2 | must
+| bip_39_word_new_line_2 | must
 theory |  
-| bip_39_word_new_line3 | must
+| bip_39_word_new_line_3 | must
 theory
 process |  
-| bip_39_word_new_line4 | must
+| bip_39_word_new_line_4 | must
 theory
 process
 siege |  
-| bip_39_word_new_line5 | must
+| bip_39_word_new_line_5 | must
 theory
 process
 siege
 need |  
-| bip_39_word_new_line6 | must
+| bip_39_word_new_line_6 | must
 theory
 process
 siege
 need
 escape |  
-| bip_39_word_new_line7 | must
+| bip_39_word_new_line_7 | must
 theory
 process
 siege
 need
 escape
 axis |  
-| bip_39_word_new_line8 | must
+| bip_39_word_new_line_8 | must
 theory
 process
 siege
@@ -113,7 +113,7 @@ need
 escape
 axis
 cup |  
-| bip_39_word_new_line9 | must
+| bip_39_word_new_line_9 | must
 theory
 process
 siege

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | member |  
-| bip_39_word_new_br10 | member<br>strike<br>choice<br>orbit<br>seminar<br>until<br>couple<br>income<br>crack<br>avocado |  
-| bip_39_word_new_br11 | member<br>strike<br>choice<br>orbit<br>seminar<br>until<br>couple<br>income<br>crack<br>avocado<br>exhaust |  
-| bip_39_word_new_br12 | member<br>strike<br>choice<br>orbit<br>seminar<br>until<br>couple<br>income<br>crack<br>avocado<br>exhaust<br>acoustic |  
-| bip_39_word_new_br2 | member<br>strike |  
-| bip_39_word_new_br3 | member<br>strike<br>choice |  
-| bip_39_word_new_br4 | member<br>strike<br>choice<br>orbit |  
-| bip_39_word_new_br5 | member<br>strike<br>choice<br>orbit<br>seminar |  
-| bip_39_word_new_br6 | member<br>strike<br>choice<br>orbit<br>seminar<br>until |  
-| bip_39_word_new_br7 | member<br>strike<br>choice<br>orbit<br>seminar<br>until<br>couple |  
-| bip_39_word_new_br8 | member<br>strike<br>choice<br>orbit<br>seminar<br>until<br>couple<br>income |  
-| bip_39_word_new_br9 | member<br>strike<br>choice<br>orbit<br>seminar<br>until<br>couple<br>income<br>crack |  
-| bip_39_word_new_line1 | member |  
-| bip_39_word_new_line10 | member
+| bip_39_word_new_br_1 | member |  
+| bip_39_word_new_br_10 | member<br>strike<br>choice<br>orbit<br>seminar<br>until<br>couple<br>income<br>crack<br>avocado |  
+| bip_39_word_new_br_11 | member<br>strike<br>choice<br>orbit<br>seminar<br>until<br>couple<br>income<br>crack<br>avocado<br>exhaust |  
+| bip_39_word_new_br_12 | member<br>strike<br>choice<br>orbit<br>seminar<br>until<br>couple<br>income<br>crack<br>avocado<br>exhaust<br>acoustic |  
+| bip_39_word_new_br_2 | member<br>strike |  
+| bip_39_word_new_br_3 | member<br>strike<br>choice |  
+| bip_39_word_new_br_4 | member<br>strike<br>choice<br>orbit |  
+| bip_39_word_new_br_5 | member<br>strike<br>choice<br>orbit<br>seminar |  
+| bip_39_word_new_br_6 | member<br>strike<br>choice<br>orbit<br>seminar<br>until |  
+| bip_39_word_new_br_7 | member<br>strike<br>choice<br>orbit<br>seminar<br>until<br>couple |  
+| bip_39_word_new_br_8 | member<br>strike<br>choice<br>orbit<br>seminar<br>until<br>couple<br>income |  
+| bip_39_word_new_br_9 | member<br>strike<br>choice<br>orbit<br>seminar<br>until<br>couple<br>income<br>crack |  
+| bip_39_word_new_line_1 | member |  
+| bip_39_word_new_line_10 | member
 strike
 choice
 orbit
@@ -55,7 +55,7 @@ couple
 income
 crack
 avocado |  
-| bip_39_word_new_line11 | member
+| bip_39_word_new_line_11 | member
 strike
 choice
 orbit
@@ -66,7 +66,7 @@ income
 crack
 avocado
 exhaust |  
-| bip_39_word_new_line12 | member
+| bip_39_word_new_line_12 | member
 strike
 choice
 orbit
@@ -78,34 +78,34 @@ crack
 avocado
 exhaust
 acoustic |  
-| bip_39_word_new_line2 | member
+| bip_39_word_new_line_2 | member
 strike |  
-| bip_39_word_new_line3 | member
+| bip_39_word_new_line_3 | member
 strike
 choice |  
-| bip_39_word_new_line4 | member
+| bip_39_word_new_line_4 | member
 strike
 choice
 orbit |  
-| bip_39_word_new_line5 | member
+| bip_39_word_new_line_5 | member
 strike
 choice
 orbit
 seminar |  
-| bip_39_word_new_line6 | member
+| bip_39_word_new_line_6 | member
 strike
 choice
 orbit
 seminar
 until |  
-| bip_39_word_new_line7 | member
+| bip_39_word_new_line_7 | member
 strike
 choice
 orbit
 seminar
 until
 couple |  
-| bip_39_word_new_line8 | member
+| bip_39_word_new_line_8 | member
 strike
 choice
 orbit
@@ -113,7 +113,7 @@ seminar
 until
 couple
 income |  
-| bip_39_word_new_line9 | member
+| bip_39_word_new_line_9 | member
 strike
 choice
 orbit

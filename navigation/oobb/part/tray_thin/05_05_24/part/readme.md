@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | grab |  
-| bip_39_word_new_br10 | grab<br>scout<br>squeeze<br>skull<br>gold<br>merge<br>what<br>gentle<br>genius<br>century |  
-| bip_39_word_new_br11 | grab<br>scout<br>squeeze<br>skull<br>gold<br>merge<br>what<br>gentle<br>genius<br>century<br>account |  
-| bip_39_word_new_br12 | grab<br>scout<br>squeeze<br>skull<br>gold<br>merge<br>what<br>gentle<br>genius<br>century<br>account<br>admit |  
-| bip_39_word_new_br2 | grab<br>scout |  
-| bip_39_word_new_br3 | grab<br>scout<br>squeeze |  
-| bip_39_word_new_br4 | grab<br>scout<br>squeeze<br>skull |  
-| bip_39_word_new_br5 | grab<br>scout<br>squeeze<br>skull<br>gold |  
-| bip_39_word_new_br6 | grab<br>scout<br>squeeze<br>skull<br>gold<br>merge |  
-| bip_39_word_new_br7 | grab<br>scout<br>squeeze<br>skull<br>gold<br>merge<br>what |  
-| bip_39_word_new_br8 | grab<br>scout<br>squeeze<br>skull<br>gold<br>merge<br>what<br>gentle |  
-| bip_39_word_new_br9 | grab<br>scout<br>squeeze<br>skull<br>gold<br>merge<br>what<br>gentle<br>genius |  
-| bip_39_word_new_line1 | grab |  
-| bip_39_word_new_line10 | grab
+| bip_39_word_new_br_1 | grab |  
+| bip_39_word_new_br_10 | grab<br>scout<br>squeeze<br>skull<br>gold<br>merge<br>what<br>gentle<br>genius<br>century |  
+| bip_39_word_new_br_11 | grab<br>scout<br>squeeze<br>skull<br>gold<br>merge<br>what<br>gentle<br>genius<br>century<br>account |  
+| bip_39_word_new_br_12 | grab<br>scout<br>squeeze<br>skull<br>gold<br>merge<br>what<br>gentle<br>genius<br>century<br>account<br>admit |  
+| bip_39_word_new_br_2 | grab<br>scout |  
+| bip_39_word_new_br_3 | grab<br>scout<br>squeeze |  
+| bip_39_word_new_br_4 | grab<br>scout<br>squeeze<br>skull |  
+| bip_39_word_new_br_5 | grab<br>scout<br>squeeze<br>skull<br>gold |  
+| bip_39_word_new_br_6 | grab<br>scout<br>squeeze<br>skull<br>gold<br>merge |  
+| bip_39_word_new_br_7 | grab<br>scout<br>squeeze<br>skull<br>gold<br>merge<br>what |  
+| bip_39_word_new_br_8 | grab<br>scout<br>squeeze<br>skull<br>gold<br>merge<br>what<br>gentle |  
+| bip_39_word_new_br_9 | grab<br>scout<br>squeeze<br>skull<br>gold<br>merge<br>what<br>gentle<br>genius |  
+| bip_39_word_new_line_1 | grab |  
+| bip_39_word_new_line_10 | grab
 scout
 squeeze
 skull
@@ -55,7 +55,7 @@ what
 gentle
 genius
 century |  
-| bip_39_word_new_line11 | grab
+| bip_39_word_new_line_11 | grab
 scout
 squeeze
 skull
@@ -66,7 +66,7 @@ gentle
 genius
 century
 account |  
-| bip_39_word_new_line12 | grab
+| bip_39_word_new_line_12 | grab
 scout
 squeeze
 skull
@@ -78,34 +78,34 @@ genius
 century
 account
 admit |  
-| bip_39_word_new_line2 | grab
+| bip_39_word_new_line_2 | grab
 scout |  
-| bip_39_word_new_line3 | grab
+| bip_39_word_new_line_3 | grab
 scout
 squeeze |  
-| bip_39_word_new_line4 | grab
+| bip_39_word_new_line_4 | grab
 scout
 squeeze
 skull |  
-| bip_39_word_new_line5 | grab
+| bip_39_word_new_line_5 | grab
 scout
 squeeze
 skull
 gold |  
-| bip_39_word_new_line6 | grab
+| bip_39_word_new_line_6 | grab
 scout
 squeeze
 skull
 gold
 merge |  
-| bip_39_word_new_line7 | grab
+| bip_39_word_new_line_7 | grab
 scout
 squeeze
 skull
 gold
 merge
 what |  
-| bip_39_word_new_line8 | grab
+| bip_39_word_new_line_8 | grab
 scout
 squeeze
 skull
@@ -113,7 +113,7 @@ gold
 merge
 what
 gentle |  
-| bip_39_word_new_line9 | grab
+| bip_39_word_new_line_9 | grab
 scout
 squeeze
 skull

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | squirrel |  
-| bip_39_word_new_br10 | squirrel<br>luxury<br>book<br>chaos<br>fuel<br>half<br>wrestle<br>own<br>occur<br>cute |  
-| bip_39_word_new_br11 | squirrel<br>luxury<br>book<br>chaos<br>fuel<br>half<br>wrestle<br>own<br>occur<br>cute<br>guilt |  
-| bip_39_word_new_br12 | squirrel<br>luxury<br>book<br>chaos<br>fuel<br>half<br>wrestle<br>own<br>occur<br>cute<br>guilt<br>auto |  
-| bip_39_word_new_br2 | squirrel<br>luxury |  
-| bip_39_word_new_br3 | squirrel<br>luxury<br>book |  
-| bip_39_word_new_br4 | squirrel<br>luxury<br>book<br>chaos |  
-| bip_39_word_new_br5 | squirrel<br>luxury<br>book<br>chaos<br>fuel |  
-| bip_39_word_new_br6 | squirrel<br>luxury<br>book<br>chaos<br>fuel<br>half |  
-| bip_39_word_new_br7 | squirrel<br>luxury<br>book<br>chaos<br>fuel<br>half<br>wrestle |  
-| bip_39_word_new_br8 | squirrel<br>luxury<br>book<br>chaos<br>fuel<br>half<br>wrestle<br>own |  
-| bip_39_word_new_br9 | squirrel<br>luxury<br>book<br>chaos<br>fuel<br>half<br>wrestle<br>own<br>occur |  
-| bip_39_word_new_line1 | squirrel |  
-| bip_39_word_new_line10 | squirrel
+| bip_39_word_new_br_1 | squirrel |  
+| bip_39_word_new_br_10 | squirrel<br>luxury<br>book<br>chaos<br>fuel<br>half<br>wrestle<br>own<br>occur<br>cute |  
+| bip_39_word_new_br_11 | squirrel<br>luxury<br>book<br>chaos<br>fuel<br>half<br>wrestle<br>own<br>occur<br>cute<br>guilt |  
+| bip_39_word_new_br_12 | squirrel<br>luxury<br>book<br>chaos<br>fuel<br>half<br>wrestle<br>own<br>occur<br>cute<br>guilt<br>auto |  
+| bip_39_word_new_br_2 | squirrel<br>luxury |  
+| bip_39_word_new_br_3 | squirrel<br>luxury<br>book |  
+| bip_39_word_new_br_4 | squirrel<br>luxury<br>book<br>chaos |  
+| bip_39_word_new_br_5 | squirrel<br>luxury<br>book<br>chaos<br>fuel |  
+| bip_39_word_new_br_6 | squirrel<br>luxury<br>book<br>chaos<br>fuel<br>half |  
+| bip_39_word_new_br_7 | squirrel<br>luxury<br>book<br>chaos<br>fuel<br>half<br>wrestle |  
+| bip_39_word_new_br_8 | squirrel<br>luxury<br>book<br>chaos<br>fuel<br>half<br>wrestle<br>own |  
+| bip_39_word_new_br_9 | squirrel<br>luxury<br>book<br>chaos<br>fuel<br>half<br>wrestle<br>own<br>occur |  
+| bip_39_word_new_line_1 | squirrel |  
+| bip_39_word_new_line_10 | squirrel
 luxury
 book
 chaos
@@ -55,7 +55,7 @@ wrestle
 own
 occur
 cute |  
-| bip_39_word_new_line11 | squirrel
+| bip_39_word_new_line_11 | squirrel
 luxury
 book
 chaos
@@ -66,7 +66,7 @@ own
 occur
 cute
 guilt |  
-| bip_39_word_new_line12 | squirrel
+| bip_39_word_new_line_12 | squirrel
 luxury
 book
 chaos
@@ -78,34 +78,34 @@ occur
 cute
 guilt
 auto |  
-| bip_39_word_new_line2 | squirrel
+| bip_39_word_new_line_2 | squirrel
 luxury |  
-| bip_39_word_new_line3 | squirrel
+| bip_39_word_new_line_3 | squirrel
 luxury
 book |  
-| bip_39_word_new_line4 | squirrel
+| bip_39_word_new_line_4 | squirrel
 luxury
 book
 chaos |  
-| bip_39_word_new_line5 | squirrel
+| bip_39_word_new_line_5 | squirrel
 luxury
 book
 chaos
 fuel |  
-| bip_39_word_new_line6 | squirrel
+| bip_39_word_new_line_6 | squirrel
 luxury
 book
 chaos
 fuel
 half |  
-| bip_39_word_new_line7 | squirrel
+| bip_39_word_new_line_7 | squirrel
 luxury
 book
 chaos
 fuel
 half
 wrestle |  
-| bip_39_word_new_line8 | squirrel
+| bip_39_word_new_line_8 | squirrel
 luxury
 book
 chaos
@@ -113,7 +113,7 @@ fuel
 half
 wrestle
 own |  
-| bip_39_word_new_line9 | squirrel
+| bip_39_word_new_line_9 | squirrel
 luxury
 book
 chaos

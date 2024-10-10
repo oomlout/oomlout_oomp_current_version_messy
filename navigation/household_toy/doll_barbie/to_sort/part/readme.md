@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | warrior |  
-| bip_39_word_new_br10 | warrior<br>crush<br>fiscal<br>dog<br>relax<br>race<br>wide<br>expand<br>film<br>dynamic |  
-| bip_39_word_new_br11 | warrior<br>crush<br>fiscal<br>dog<br>relax<br>race<br>wide<br>expand<br>film<br>dynamic<br>record |  
-| bip_39_word_new_br12 | warrior<br>crush<br>fiscal<br>dog<br>relax<br>race<br>wide<br>expand<br>film<br>dynamic<br>record<br>aspect |  
-| bip_39_word_new_br2 | warrior<br>crush |  
-| bip_39_word_new_br3 | warrior<br>crush<br>fiscal |  
-| bip_39_word_new_br4 | warrior<br>crush<br>fiscal<br>dog |  
-| bip_39_word_new_br5 | warrior<br>crush<br>fiscal<br>dog<br>relax |  
-| bip_39_word_new_br6 | warrior<br>crush<br>fiscal<br>dog<br>relax<br>race |  
-| bip_39_word_new_br7 | warrior<br>crush<br>fiscal<br>dog<br>relax<br>race<br>wide |  
-| bip_39_word_new_br8 | warrior<br>crush<br>fiscal<br>dog<br>relax<br>race<br>wide<br>expand |  
-| bip_39_word_new_br9 | warrior<br>crush<br>fiscal<br>dog<br>relax<br>race<br>wide<br>expand<br>film |  
-| bip_39_word_new_line1 | warrior |  
-| bip_39_word_new_line10 | warrior
+| bip_39_word_new_br_1 | warrior |  
+| bip_39_word_new_br_10 | warrior<br>crush<br>fiscal<br>dog<br>relax<br>race<br>wide<br>expand<br>film<br>dynamic |  
+| bip_39_word_new_br_11 | warrior<br>crush<br>fiscal<br>dog<br>relax<br>race<br>wide<br>expand<br>film<br>dynamic<br>record |  
+| bip_39_word_new_br_12 | warrior<br>crush<br>fiscal<br>dog<br>relax<br>race<br>wide<br>expand<br>film<br>dynamic<br>record<br>aspect |  
+| bip_39_word_new_br_2 | warrior<br>crush |  
+| bip_39_word_new_br_3 | warrior<br>crush<br>fiscal |  
+| bip_39_word_new_br_4 | warrior<br>crush<br>fiscal<br>dog |  
+| bip_39_word_new_br_5 | warrior<br>crush<br>fiscal<br>dog<br>relax |  
+| bip_39_word_new_br_6 | warrior<br>crush<br>fiscal<br>dog<br>relax<br>race |  
+| bip_39_word_new_br_7 | warrior<br>crush<br>fiscal<br>dog<br>relax<br>race<br>wide |  
+| bip_39_word_new_br_8 | warrior<br>crush<br>fiscal<br>dog<br>relax<br>race<br>wide<br>expand |  
+| bip_39_word_new_br_9 | warrior<br>crush<br>fiscal<br>dog<br>relax<br>race<br>wide<br>expand<br>film |  
+| bip_39_word_new_line_1 | warrior |  
+| bip_39_word_new_line_10 | warrior
 crush
 fiscal
 dog
@@ -55,7 +55,7 @@ wide
 expand
 film
 dynamic |  
-| bip_39_word_new_line11 | warrior
+| bip_39_word_new_line_11 | warrior
 crush
 fiscal
 dog
@@ -66,7 +66,7 @@ expand
 film
 dynamic
 record |  
-| bip_39_word_new_line12 | warrior
+| bip_39_word_new_line_12 | warrior
 crush
 fiscal
 dog
@@ -78,34 +78,34 @@ film
 dynamic
 record
 aspect |  
-| bip_39_word_new_line2 | warrior
+| bip_39_word_new_line_2 | warrior
 crush |  
-| bip_39_word_new_line3 | warrior
+| bip_39_word_new_line_3 | warrior
 crush
 fiscal |  
-| bip_39_word_new_line4 | warrior
+| bip_39_word_new_line_4 | warrior
 crush
 fiscal
 dog |  
-| bip_39_word_new_line5 | warrior
+| bip_39_word_new_line_5 | warrior
 crush
 fiscal
 dog
 relax |  
-| bip_39_word_new_line6 | warrior
+| bip_39_word_new_line_6 | warrior
 crush
 fiscal
 dog
 relax
 race |  
-| bip_39_word_new_line7 | warrior
+| bip_39_word_new_line_7 | warrior
 crush
 fiscal
 dog
 relax
 race
 wide |  
-| bip_39_word_new_line8 | warrior
+| bip_39_word_new_line_8 | warrior
 crush
 fiscal
 dog
@@ -113,7 +113,7 @@ relax
 race
 wide
 expand |  
-| bip_39_word_new_line9 | warrior
+| bip_39_word_new_line_9 | warrior
 crush
 fiscal
 dog

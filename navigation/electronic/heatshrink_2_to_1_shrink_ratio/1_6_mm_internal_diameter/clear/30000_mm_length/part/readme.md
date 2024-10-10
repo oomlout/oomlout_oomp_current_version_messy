@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | refuse |  
-| bip_39_word_new_br10 | refuse<br>any<br>expose<br>feed<br>garage<br>mix<br>crane<br>maid<br>discover<br>empower |  
-| bip_39_word_new_br11 | refuse<br>any<br>expose<br>feed<br>garage<br>mix<br>crane<br>maid<br>discover<br>empower<br>dwarf |  
-| bip_39_word_new_br12 | refuse<br>any<br>expose<br>feed<br>garage<br>mix<br>crane<br>maid<br>discover<br>empower<br>dwarf<br>answer |  
-| bip_39_word_new_br2 | refuse<br>any |  
-| bip_39_word_new_br3 | refuse<br>any<br>expose |  
-| bip_39_word_new_br4 | refuse<br>any<br>expose<br>feed |  
-| bip_39_word_new_br5 | refuse<br>any<br>expose<br>feed<br>garage |  
-| bip_39_word_new_br6 | refuse<br>any<br>expose<br>feed<br>garage<br>mix |  
-| bip_39_word_new_br7 | refuse<br>any<br>expose<br>feed<br>garage<br>mix<br>crane |  
-| bip_39_word_new_br8 | refuse<br>any<br>expose<br>feed<br>garage<br>mix<br>crane<br>maid |  
-| bip_39_word_new_br9 | refuse<br>any<br>expose<br>feed<br>garage<br>mix<br>crane<br>maid<br>discover |  
-| bip_39_word_new_line1 | refuse |  
-| bip_39_word_new_line10 | refuse
+| bip_39_word_new_br_1 | refuse |  
+| bip_39_word_new_br_10 | refuse<br>any<br>expose<br>feed<br>garage<br>mix<br>crane<br>maid<br>discover<br>empower |  
+| bip_39_word_new_br_11 | refuse<br>any<br>expose<br>feed<br>garage<br>mix<br>crane<br>maid<br>discover<br>empower<br>dwarf |  
+| bip_39_word_new_br_12 | refuse<br>any<br>expose<br>feed<br>garage<br>mix<br>crane<br>maid<br>discover<br>empower<br>dwarf<br>answer |  
+| bip_39_word_new_br_2 | refuse<br>any |  
+| bip_39_word_new_br_3 | refuse<br>any<br>expose |  
+| bip_39_word_new_br_4 | refuse<br>any<br>expose<br>feed |  
+| bip_39_word_new_br_5 | refuse<br>any<br>expose<br>feed<br>garage |  
+| bip_39_word_new_br_6 | refuse<br>any<br>expose<br>feed<br>garage<br>mix |  
+| bip_39_word_new_br_7 | refuse<br>any<br>expose<br>feed<br>garage<br>mix<br>crane |  
+| bip_39_word_new_br_8 | refuse<br>any<br>expose<br>feed<br>garage<br>mix<br>crane<br>maid |  
+| bip_39_word_new_br_9 | refuse<br>any<br>expose<br>feed<br>garage<br>mix<br>crane<br>maid<br>discover |  
+| bip_39_word_new_line_1 | refuse |  
+| bip_39_word_new_line_10 | refuse
 any
 expose
 feed
@@ -55,7 +55,7 @@ crane
 maid
 discover
 empower |  
-| bip_39_word_new_line11 | refuse
+| bip_39_word_new_line_11 | refuse
 any
 expose
 feed
@@ -66,7 +66,7 @@ maid
 discover
 empower
 dwarf |  
-| bip_39_word_new_line12 | refuse
+| bip_39_word_new_line_12 | refuse
 any
 expose
 feed
@@ -78,34 +78,34 @@ discover
 empower
 dwarf
 answer |  
-| bip_39_word_new_line2 | refuse
+| bip_39_word_new_line_2 | refuse
 any |  
-| bip_39_word_new_line3 | refuse
+| bip_39_word_new_line_3 | refuse
 any
 expose |  
-| bip_39_word_new_line4 | refuse
+| bip_39_word_new_line_4 | refuse
 any
 expose
 feed |  
-| bip_39_word_new_line5 | refuse
+| bip_39_word_new_line_5 | refuse
 any
 expose
 feed
 garage |  
-| bip_39_word_new_line6 | refuse
+| bip_39_word_new_line_6 | refuse
 any
 expose
 feed
 garage
 mix |  
-| bip_39_word_new_line7 | refuse
+| bip_39_word_new_line_7 | refuse
 any
 expose
 feed
 garage
 mix
 crane |  
-| bip_39_word_new_line8 | refuse
+| bip_39_word_new_line_8 | refuse
 any
 expose
 feed
@@ -113,7 +113,7 @@ garage
 mix
 crane
 maid |  
-| bip_39_word_new_line9 | refuse
+| bip_39_word_new_line_9 | refuse
 any
 expose
 feed

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ocean |  
-| bip_39_word_new_br10 | ocean<br>mad<br>pride<br>avoid<br>symbol<br>fashion<br>area<br>smoke<br>vessel<br>tuition |  
-| bip_39_word_new_br11 | ocean<br>mad<br>pride<br>avoid<br>symbol<br>fashion<br>area<br>smoke<br>vessel<br>tuition<br>leader |  
-| bip_39_word_new_br12 | ocean<br>mad<br>pride<br>avoid<br>symbol<br>fashion<br>area<br>smoke<br>vessel<br>tuition<br>leader<br>add |  
-| bip_39_word_new_br2 | ocean<br>mad |  
-| bip_39_word_new_br3 | ocean<br>mad<br>pride |  
-| bip_39_word_new_br4 | ocean<br>mad<br>pride<br>avoid |  
-| bip_39_word_new_br5 | ocean<br>mad<br>pride<br>avoid<br>symbol |  
-| bip_39_word_new_br6 | ocean<br>mad<br>pride<br>avoid<br>symbol<br>fashion |  
-| bip_39_word_new_br7 | ocean<br>mad<br>pride<br>avoid<br>symbol<br>fashion<br>area |  
-| bip_39_word_new_br8 | ocean<br>mad<br>pride<br>avoid<br>symbol<br>fashion<br>area<br>smoke |  
-| bip_39_word_new_br9 | ocean<br>mad<br>pride<br>avoid<br>symbol<br>fashion<br>area<br>smoke<br>vessel |  
-| bip_39_word_new_line1 | ocean |  
-| bip_39_word_new_line10 | ocean
+| bip_39_word_new_br_1 | ocean |  
+| bip_39_word_new_br_10 | ocean<br>mad<br>pride<br>avoid<br>symbol<br>fashion<br>area<br>smoke<br>vessel<br>tuition |  
+| bip_39_word_new_br_11 | ocean<br>mad<br>pride<br>avoid<br>symbol<br>fashion<br>area<br>smoke<br>vessel<br>tuition<br>leader |  
+| bip_39_word_new_br_12 | ocean<br>mad<br>pride<br>avoid<br>symbol<br>fashion<br>area<br>smoke<br>vessel<br>tuition<br>leader<br>add |  
+| bip_39_word_new_br_2 | ocean<br>mad |  
+| bip_39_word_new_br_3 | ocean<br>mad<br>pride |  
+| bip_39_word_new_br_4 | ocean<br>mad<br>pride<br>avoid |  
+| bip_39_word_new_br_5 | ocean<br>mad<br>pride<br>avoid<br>symbol |  
+| bip_39_word_new_br_6 | ocean<br>mad<br>pride<br>avoid<br>symbol<br>fashion |  
+| bip_39_word_new_br_7 | ocean<br>mad<br>pride<br>avoid<br>symbol<br>fashion<br>area |  
+| bip_39_word_new_br_8 | ocean<br>mad<br>pride<br>avoid<br>symbol<br>fashion<br>area<br>smoke |  
+| bip_39_word_new_br_9 | ocean<br>mad<br>pride<br>avoid<br>symbol<br>fashion<br>area<br>smoke<br>vessel |  
+| bip_39_word_new_line_1 | ocean |  
+| bip_39_word_new_line_10 | ocean
 mad
 pride
 avoid
@@ -55,7 +55,7 @@ area
 smoke
 vessel
 tuition |  
-| bip_39_word_new_line11 | ocean
+| bip_39_word_new_line_11 | ocean
 mad
 pride
 avoid
@@ -66,7 +66,7 @@ smoke
 vessel
 tuition
 leader |  
-| bip_39_word_new_line12 | ocean
+| bip_39_word_new_line_12 | ocean
 mad
 pride
 avoid
@@ -78,34 +78,34 @@ vessel
 tuition
 leader
 add |  
-| bip_39_word_new_line2 | ocean
+| bip_39_word_new_line_2 | ocean
 mad |  
-| bip_39_word_new_line3 | ocean
+| bip_39_word_new_line_3 | ocean
 mad
 pride |  
-| bip_39_word_new_line4 | ocean
+| bip_39_word_new_line_4 | ocean
 mad
 pride
 avoid |  
-| bip_39_word_new_line5 | ocean
+| bip_39_word_new_line_5 | ocean
 mad
 pride
 avoid
 symbol |  
-| bip_39_word_new_line6 | ocean
+| bip_39_word_new_line_6 | ocean
 mad
 pride
 avoid
 symbol
 fashion |  
-| bip_39_word_new_line7 | ocean
+| bip_39_word_new_line_7 | ocean
 mad
 pride
 avoid
 symbol
 fashion
 area |  
-| bip_39_word_new_line8 | ocean
+| bip_39_word_new_line_8 | ocean
 mad
 pride
 avoid
@@ -113,7 +113,7 @@ symbol
 fashion
 area
 smoke |  
-| bip_39_word_new_line9 | ocean
+| bip_39_word_new_line_9 | ocean
 mad
 pride
 avoid

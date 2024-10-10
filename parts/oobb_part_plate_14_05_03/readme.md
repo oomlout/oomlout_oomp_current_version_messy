@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | club |  
-| bip_39_word_new_br10 | club<br>kind<br>globe<br>comic<br>benefit<br>sunny<br>riot<br>soon<br>sauce<br>clump |  
-| bip_39_word_new_br11 | club<br>kind<br>globe<br>comic<br>benefit<br>sunny<br>riot<br>soon<br>sauce<br>clump<br>fatigue |  
-| bip_39_word_new_br12 | club<br>kind<br>globe<br>comic<br>benefit<br>sunny<br>riot<br>soon<br>sauce<br>clump<br>fatigue<br>average |  
-| bip_39_word_new_br2 | club<br>kind |  
-| bip_39_word_new_br3 | club<br>kind<br>globe |  
-| bip_39_word_new_br4 | club<br>kind<br>globe<br>comic |  
-| bip_39_word_new_br5 | club<br>kind<br>globe<br>comic<br>benefit |  
-| bip_39_word_new_br6 | club<br>kind<br>globe<br>comic<br>benefit<br>sunny |  
-| bip_39_word_new_br7 | club<br>kind<br>globe<br>comic<br>benefit<br>sunny<br>riot |  
-| bip_39_word_new_br8 | club<br>kind<br>globe<br>comic<br>benefit<br>sunny<br>riot<br>soon |  
-| bip_39_word_new_br9 | club<br>kind<br>globe<br>comic<br>benefit<br>sunny<br>riot<br>soon<br>sauce |  
-| bip_39_word_new_line1 | club |  
-| bip_39_word_new_line10 | club
+| bip_39_word_new_br_1 | club |  
+| bip_39_word_new_br_10 | club<br>kind<br>globe<br>comic<br>benefit<br>sunny<br>riot<br>soon<br>sauce<br>clump |  
+| bip_39_word_new_br_11 | club<br>kind<br>globe<br>comic<br>benefit<br>sunny<br>riot<br>soon<br>sauce<br>clump<br>fatigue |  
+| bip_39_word_new_br_12 | club<br>kind<br>globe<br>comic<br>benefit<br>sunny<br>riot<br>soon<br>sauce<br>clump<br>fatigue<br>average |  
+| bip_39_word_new_br_2 | club<br>kind |  
+| bip_39_word_new_br_3 | club<br>kind<br>globe |  
+| bip_39_word_new_br_4 | club<br>kind<br>globe<br>comic |  
+| bip_39_word_new_br_5 | club<br>kind<br>globe<br>comic<br>benefit |  
+| bip_39_word_new_br_6 | club<br>kind<br>globe<br>comic<br>benefit<br>sunny |  
+| bip_39_word_new_br_7 | club<br>kind<br>globe<br>comic<br>benefit<br>sunny<br>riot |  
+| bip_39_word_new_br_8 | club<br>kind<br>globe<br>comic<br>benefit<br>sunny<br>riot<br>soon |  
+| bip_39_word_new_br_9 | club<br>kind<br>globe<br>comic<br>benefit<br>sunny<br>riot<br>soon<br>sauce |  
+| bip_39_word_new_line_1 | club |  
+| bip_39_word_new_line_10 | club
 kind
 globe
 comic
@@ -55,7 +55,7 @@ riot
 soon
 sauce
 clump |  
-| bip_39_word_new_line11 | club
+| bip_39_word_new_line_11 | club
 kind
 globe
 comic
@@ -66,7 +66,7 @@ soon
 sauce
 clump
 fatigue |  
-| bip_39_word_new_line12 | club
+| bip_39_word_new_line_12 | club
 kind
 globe
 comic
@@ -78,34 +78,34 @@ sauce
 clump
 fatigue
 average |  
-| bip_39_word_new_line2 | club
+| bip_39_word_new_line_2 | club
 kind |  
-| bip_39_word_new_line3 | club
+| bip_39_word_new_line_3 | club
 kind
 globe |  
-| bip_39_word_new_line4 | club
+| bip_39_word_new_line_4 | club
 kind
 globe
 comic |  
-| bip_39_word_new_line5 | club
+| bip_39_word_new_line_5 | club
 kind
 globe
 comic
 benefit |  
-| bip_39_word_new_line6 | club
+| bip_39_word_new_line_6 | club
 kind
 globe
 comic
 benefit
 sunny |  
-| bip_39_word_new_line7 | club
+| bip_39_word_new_line_7 | club
 kind
 globe
 comic
 benefit
 sunny
 riot |  
-| bip_39_word_new_line8 | club
+| bip_39_word_new_line_8 | club
 kind
 globe
 comic
@@ -113,7 +113,7 @@ benefit
 sunny
 riot
 soon |  
-| bip_39_word_new_line9 | club
+| bip_39_word_new_line_9 | club
 kind
 globe
 comic

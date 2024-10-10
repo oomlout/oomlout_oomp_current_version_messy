@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | circle |  
-| bip_39_word_new_br10 | circle<br>end<br>unfair<br>sweet<br>sweet<br>laugh<br>middle<br>attend<br>symptom<br>horror |  
-| bip_39_word_new_br11 | circle<br>end<br>unfair<br>sweet<br>sweet<br>laugh<br>middle<br>attend<br>symptom<br>horror<br>enemy |  
-| bip_39_word_new_br12 | circle<br>end<br>unfair<br>sweet<br>sweet<br>laugh<br>middle<br>attend<br>symptom<br>horror<br>enemy<br>act |  
-| bip_39_word_new_br2 | circle<br>end |  
-| bip_39_word_new_br3 | circle<br>end<br>unfair |  
-| bip_39_word_new_br4 | circle<br>end<br>unfair<br>sweet |  
-| bip_39_word_new_br5 | circle<br>end<br>unfair<br>sweet<br>sweet |  
-| bip_39_word_new_br6 | circle<br>end<br>unfair<br>sweet<br>sweet<br>laugh |  
-| bip_39_word_new_br7 | circle<br>end<br>unfair<br>sweet<br>sweet<br>laugh<br>middle |  
-| bip_39_word_new_br8 | circle<br>end<br>unfair<br>sweet<br>sweet<br>laugh<br>middle<br>attend |  
-| bip_39_word_new_br9 | circle<br>end<br>unfair<br>sweet<br>sweet<br>laugh<br>middle<br>attend<br>symptom |  
-| bip_39_word_new_line1 | circle |  
-| bip_39_word_new_line10 | circle
+| bip_39_word_new_br_1 | circle |  
+| bip_39_word_new_br_10 | circle<br>end<br>unfair<br>sweet<br>sweet<br>laugh<br>middle<br>attend<br>symptom<br>horror |  
+| bip_39_word_new_br_11 | circle<br>end<br>unfair<br>sweet<br>sweet<br>laugh<br>middle<br>attend<br>symptom<br>horror<br>enemy |  
+| bip_39_word_new_br_12 | circle<br>end<br>unfair<br>sweet<br>sweet<br>laugh<br>middle<br>attend<br>symptom<br>horror<br>enemy<br>act |  
+| bip_39_word_new_br_2 | circle<br>end |  
+| bip_39_word_new_br_3 | circle<br>end<br>unfair |  
+| bip_39_word_new_br_4 | circle<br>end<br>unfair<br>sweet |  
+| bip_39_word_new_br_5 | circle<br>end<br>unfair<br>sweet<br>sweet |  
+| bip_39_word_new_br_6 | circle<br>end<br>unfair<br>sweet<br>sweet<br>laugh |  
+| bip_39_word_new_br_7 | circle<br>end<br>unfair<br>sweet<br>sweet<br>laugh<br>middle |  
+| bip_39_word_new_br_8 | circle<br>end<br>unfair<br>sweet<br>sweet<br>laugh<br>middle<br>attend |  
+| bip_39_word_new_br_9 | circle<br>end<br>unfair<br>sweet<br>sweet<br>laugh<br>middle<br>attend<br>symptom |  
+| bip_39_word_new_line_1 | circle |  
+| bip_39_word_new_line_10 | circle
 end
 unfair
 sweet
@@ -55,7 +55,7 @@ middle
 attend
 symptom
 horror |  
-| bip_39_word_new_line11 | circle
+| bip_39_word_new_line_11 | circle
 end
 unfair
 sweet
@@ -66,7 +66,7 @@ attend
 symptom
 horror
 enemy |  
-| bip_39_word_new_line12 | circle
+| bip_39_word_new_line_12 | circle
 end
 unfair
 sweet
@@ -78,34 +78,34 @@ symptom
 horror
 enemy
 act |  
-| bip_39_word_new_line2 | circle
+| bip_39_word_new_line_2 | circle
 end |  
-| bip_39_word_new_line3 | circle
+| bip_39_word_new_line_3 | circle
 end
 unfair |  
-| bip_39_word_new_line4 | circle
+| bip_39_word_new_line_4 | circle
 end
 unfair
 sweet |  
-| bip_39_word_new_line5 | circle
+| bip_39_word_new_line_5 | circle
 end
 unfair
 sweet
 sweet |  
-| bip_39_word_new_line6 | circle
+| bip_39_word_new_line_6 | circle
 end
 unfair
 sweet
 sweet
 laugh |  
-| bip_39_word_new_line7 | circle
+| bip_39_word_new_line_7 | circle
 end
 unfair
 sweet
 sweet
 laugh
 middle |  
-| bip_39_word_new_line8 | circle
+| bip_39_word_new_line_8 | circle
 end
 unfair
 sweet
@@ -113,7 +113,7 @@ sweet
 laugh
 middle
 attend |  
-| bip_39_word_new_line9 | circle
+| bip_39_word_new_line_9 | circle
 end
 unfair
 sweet

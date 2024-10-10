@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | daughter |  
-| bip_39_word_new_br10 | daughter<br>vibrant<br>oil<br>marble<br>breeze<br>rely<br>demand<br>august<br>comfort<br>concert |  
-| bip_39_word_new_br11 | daughter<br>vibrant<br>oil<br>marble<br>breeze<br>rely<br>demand<br>august<br>comfort<br>concert<br>gaze |  
-| bip_39_word_new_br12 | daughter<br>vibrant<br>oil<br>marble<br>breeze<br>rely<br>demand<br>august<br>comfort<br>concert<br>gaze<br>already |  
-| bip_39_word_new_br2 | daughter<br>vibrant |  
-| bip_39_word_new_br3 | daughter<br>vibrant<br>oil |  
-| bip_39_word_new_br4 | daughter<br>vibrant<br>oil<br>marble |  
-| bip_39_word_new_br5 | daughter<br>vibrant<br>oil<br>marble<br>breeze |  
-| bip_39_word_new_br6 | daughter<br>vibrant<br>oil<br>marble<br>breeze<br>rely |  
-| bip_39_word_new_br7 | daughter<br>vibrant<br>oil<br>marble<br>breeze<br>rely<br>demand |  
-| bip_39_word_new_br8 | daughter<br>vibrant<br>oil<br>marble<br>breeze<br>rely<br>demand<br>august |  
-| bip_39_word_new_br9 | daughter<br>vibrant<br>oil<br>marble<br>breeze<br>rely<br>demand<br>august<br>comfort |  
-| bip_39_word_new_line1 | daughter |  
-| bip_39_word_new_line10 | daughter
+| bip_39_word_new_br_1 | daughter |  
+| bip_39_word_new_br_10 | daughter<br>vibrant<br>oil<br>marble<br>breeze<br>rely<br>demand<br>august<br>comfort<br>concert |  
+| bip_39_word_new_br_11 | daughter<br>vibrant<br>oil<br>marble<br>breeze<br>rely<br>demand<br>august<br>comfort<br>concert<br>gaze |  
+| bip_39_word_new_br_12 | daughter<br>vibrant<br>oil<br>marble<br>breeze<br>rely<br>demand<br>august<br>comfort<br>concert<br>gaze<br>already |  
+| bip_39_word_new_br_2 | daughter<br>vibrant |  
+| bip_39_word_new_br_3 | daughter<br>vibrant<br>oil |  
+| bip_39_word_new_br_4 | daughter<br>vibrant<br>oil<br>marble |  
+| bip_39_word_new_br_5 | daughter<br>vibrant<br>oil<br>marble<br>breeze |  
+| bip_39_word_new_br_6 | daughter<br>vibrant<br>oil<br>marble<br>breeze<br>rely |  
+| bip_39_word_new_br_7 | daughter<br>vibrant<br>oil<br>marble<br>breeze<br>rely<br>demand |  
+| bip_39_word_new_br_8 | daughter<br>vibrant<br>oil<br>marble<br>breeze<br>rely<br>demand<br>august |  
+| bip_39_word_new_br_9 | daughter<br>vibrant<br>oil<br>marble<br>breeze<br>rely<br>demand<br>august<br>comfort |  
+| bip_39_word_new_line_1 | daughter |  
+| bip_39_word_new_line_10 | daughter
 vibrant
 oil
 marble
@@ -55,7 +55,7 @@ demand
 august
 comfort
 concert |  
-| bip_39_word_new_line11 | daughter
+| bip_39_word_new_line_11 | daughter
 vibrant
 oil
 marble
@@ -66,7 +66,7 @@ august
 comfort
 concert
 gaze |  
-| bip_39_word_new_line12 | daughter
+| bip_39_word_new_line_12 | daughter
 vibrant
 oil
 marble
@@ -78,34 +78,34 @@ comfort
 concert
 gaze
 already |  
-| bip_39_word_new_line2 | daughter
+| bip_39_word_new_line_2 | daughter
 vibrant |  
-| bip_39_word_new_line3 | daughter
+| bip_39_word_new_line_3 | daughter
 vibrant
 oil |  
-| bip_39_word_new_line4 | daughter
+| bip_39_word_new_line_4 | daughter
 vibrant
 oil
 marble |  
-| bip_39_word_new_line5 | daughter
+| bip_39_word_new_line_5 | daughter
 vibrant
 oil
 marble
 breeze |  
-| bip_39_word_new_line6 | daughter
+| bip_39_word_new_line_6 | daughter
 vibrant
 oil
 marble
 breeze
 rely |  
-| bip_39_word_new_line7 | daughter
+| bip_39_word_new_line_7 | daughter
 vibrant
 oil
 marble
 breeze
 rely
 demand |  
-| bip_39_word_new_line8 | daughter
+| bip_39_word_new_line_8 | daughter
 vibrant
 oil
 marble
@@ -113,7 +113,7 @@ breeze
 rely
 demand
 august |  
-| bip_39_word_new_line9 | daughter
+| bip_39_word_new_line_9 | daughter
 vibrant
 oil
 marble

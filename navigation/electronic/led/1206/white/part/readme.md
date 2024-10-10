@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | minor |  
-| bip_39_word_new_br10 | minor<br>dumb<br>immense<br>basic<br>nest<br>cactus<br>stereo<br>pear<br>concert<br>find |  
-| bip_39_word_new_br11 | minor<br>dumb<br>immense<br>basic<br>nest<br>cactus<br>stereo<br>pear<br>concert<br>find<br>inflict |  
-| bip_39_word_new_br12 | minor<br>dumb<br>immense<br>basic<br>nest<br>cactus<br>stereo<br>pear<br>concert<br>find<br>inflict<br>aisle |  
-| bip_39_word_new_br2 | minor<br>dumb |  
-| bip_39_word_new_br3 | minor<br>dumb<br>immense |  
-| bip_39_word_new_br4 | minor<br>dumb<br>immense<br>basic |  
-| bip_39_word_new_br5 | minor<br>dumb<br>immense<br>basic<br>nest |  
-| bip_39_word_new_br6 | minor<br>dumb<br>immense<br>basic<br>nest<br>cactus |  
-| bip_39_word_new_br7 | minor<br>dumb<br>immense<br>basic<br>nest<br>cactus<br>stereo |  
-| bip_39_word_new_br8 | minor<br>dumb<br>immense<br>basic<br>nest<br>cactus<br>stereo<br>pear |  
-| bip_39_word_new_br9 | minor<br>dumb<br>immense<br>basic<br>nest<br>cactus<br>stereo<br>pear<br>concert |  
-| bip_39_word_new_line1 | minor |  
-| bip_39_word_new_line10 | minor
+| bip_39_word_new_br_1 | minor |  
+| bip_39_word_new_br_10 | minor<br>dumb<br>immense<br>basic<br>nest<br>cactus<br>stereo<br>pear<br>concert<br>find |  
+| bip_39_word_new_br_11 | minor<br>dumb<br>immense<br>basic<br>nest<br>cactus<br>stereo<br>pear<br>concert<br>find<br>inflict |  
+| bip_39_word_new_br_12 | minor<br>dumb<br>immense<br>basic<br>nest<br>cactus<br>stereo<br>pear<br>concert<br>find<br>inflict<br>aisle |  
+| bip_39_word_new_br_2 | minor<br>dumb |  
+| bip_39_word_new_br_3 | minor<br>dumb<br>immense |  
+| bip_39_word_new_br_4 | minor<br>dumb<br>immense<br>basic |  
+| bip_39_word_new_br_5 | minor<br>dumb<br>immense<br>basic<br>nest |  
+| bip_39_word_new_br_6 | minor<br>dumb<br>immense<br>basic<br>nest<br>cactus |  
+| bip_39_word_new_br_7 | minor<br>dumb<br>immense<br>basic<br>nest<br>cactus<br>stereo |  
+| bip_39_word_new_br_8 | minor<br>dumb<br>immense<br>basic<br>nest<br>cactus<br>stereo<br>pear |  
+| bip_39_word_new_br_9 | minor<br>dumb<br>immense<br>basic<br>nest<br>cactus<br>stereo<br>pear<br>concert |  
+| bip_39_word_new_line_1 | minor |  
+| bip_39_word_new_line_10 | minor
 dumb
 immense
 basic
@@ -55,7 +55,7 @@ stereo
 pear
 concert
 find |  
-| bip_39_word_new_line11 | minor
+| bip_39_word_new_line_11 | minor
 dumb
 immense
 basic
@@ -66,7 +66,7 @@ pear
 concert
 find
 inflict |  
-| bip_39_word_new_line12 | minor
+| bip_39_word_new_line_12 | minor
 dumb
 immense
 basic
@@ -78,34 +78,34 @@ concert
 find
 inflict
 aisle |  
-| bip_39_word_new_line2 | minor
+| bip_39_word_new_line_2 | minor
 dumb |  
-| bip_39_word_new_line3 | minor
+| bip_39_word_new_line_3 | minor
 dumb
 immense |  
-| bip_39_word_new_line4 | minor
+| bip_39_word_new_line_4 | minor
 dumb
 immense
 basic |  
-| bip_39_word_new_line5 | minor
+| bip_39_word_new_line_5 | minor
 dumb
 immense
 basic
 nest |  
-| bip_39_word_new_line6 | minor
+| bip_39_word_new_line_6 | minor
 dumb
 immense
 basic
 nest
 cactus |  
-| bip_39_word_new_line7 | minor
+| bip_39_word_new_line_7 | minor
 dumb
 immense
 basic
 nest
 cactus
 stereo |  
-| bip_39_word_new_line8 | minor
+| bip_39_word_new_line_8 | minor
 dumb
 immense
 basic
@@ -113,7 +113,7 @@ nest
 cactus
 stereo
 pear |  
-| bip_39_word_new_line9 | minor
+| bip_39_word_new_line_9 | minor
 dumb
 immense
 basic

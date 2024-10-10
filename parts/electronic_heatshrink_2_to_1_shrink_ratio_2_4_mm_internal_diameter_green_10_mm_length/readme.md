@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gain |  
-| bip_39_word_new_br10 | gain<br>maze<br>roast<br>trophy<br>battle<br>situate<br>category<br>brain<br>tree<br>ghost |  
-| bip_39_word_new_br11 | gain<br>maze<br>roast<br>trophy<br>battle<br>situate<br>category<br>brain<br>tree<br>ghost<br>shove |  
-| bip_39_word_new_br12 | gain<br>maze<br>roast<br>trophy<br>battle<br>situate<br>category<br>brain<br>tree<br>ghost<br>shove<br>apple |  
-| bip_39_word_new_br2 | gain<br>maze |  
-| bip_39_word_new_br3 | gain<br>maze<br>roast |  
-| bip_39_word_new_br4 | gain<br>maze<br>roast<br>trophy |  
-| bip_39_word_new_br5 | gain<br>maze<br>roast<br>trophy<br>battle |  
-| bip_39_word_new_br6 | gain<br>maze<br>roast<br>trophy<br>battle<br>situate |  
-| bip_39_word_new_br7 | gain<br>maze<br>roast<br>trophy<br>battle<br>situate<br>category |  
-| bip_39_word_new_br8 | gain<br>maze<br>roast<br>trophy<br>battle<br>situate<br>category<br>brain |  
-| bip_39_word_new_br9 | gain<br>maze<br>roast<br>trophy<br>battle<br>situate<br>category<br>brain<br>tree |  
-| bip_39_word_new_line1 | gain |  
-| bip_39_word_new_line10 | gain
+| bip_39_word_new_br_1 | gain |  
+| bip_39_word_new_br_10 | gain<br>maze<br>roast<br>trophy<br>battle<br>situate<br>category<br>brain<br>tree<br>ghost |  
+| bip_39_word_new_br_11 | gain<br>maze<br>roast<br>trophy<br>battle<br>situate<br>category<br>brain<br>tree<br>ghost<br>shove |  
+| bip_39_word_new_br_12 | gain<br>maze<br>roast<br>trophy<br>battle<br>situate<br>category<br>brain<br>tree<br>ghost<br>shove<br>apple |  
+| bip_39_word_new_br_2 | gain<br>maze |  
+| bip_39_word_new_br_3 | gain<br>maze<br>roast |  
+| bip_39_word_new_br_4 | gain<br>maze<br>roast<br>trophy |  
+| bip_39_word_new_br_5 | gain<br>maze<br>roast<br>trophy<br>battle |  
+| bip_39_word_new_br_6 | gain<br>maze<br>roast<br>trophy<br>battle<br>situate |  
+| bip_39_word_new_br_7 | gain<br>maze<br>roast<br>trophy<br>battle<br>situate<br>category |  
+| bip_39_word_new_br_8 | gain<br>maze<br>roast<br>trophy<br>battle<br>situate<br>category<br>brain |  
+| bip_39_word_new_br_9 | gain<br>maze<br>roast<br>trophy<br>battle<br>situate<br>category<br>brain<br>tree |  
+| bip_39_word_new_line_1 | gain |  
+| bip_39_word_new_line_10 | gain
 maze
 roast
 trophy
@@ -55,7 +55,7 @@ category
 brain
 tree
 ghost |  
-| bip_39_word_new_line11 | gain
+| bip_39_word_new_line_11 | gain
 maze
 roast
 trophy
@@ -66,7 +66,7 @@ brain
 tree
 ghost
 shove |  
-| bip_39_word_new_line12 | gain
+| bip_39_word_new_line_12 | gain
 maze
 roast
 trophy
@@ -78,34 +78,34 @@ tree
 ghost
 shove
 apple |  
-| bip_39_word_new_line2 | gain
+| bip_39_word_new_line_2 | gain
 maze |  
-| bip_39_word_new_line3 | gain
+| bip_39_word_new_line_3 | gain
 maze
 roast |  
-| bip_39_word_new_line4 | gain
+| bip_39_word_new_line_4 | gain
 maze
 roast
 trophy |  
-| bip_39_word_new_line5 | gain
+| bip_39_word_new_line_5 | gain
 maze
 roast
 trophy
 battle |  
-| bip_39_word_new_line6 | gain
+| bip_39_word_new_line_6 | gain
 maze
 roast
 trophy
 battle
 situate |  
-| bip_39_word_new_line7 | gain
+| bip_39_word_new_line_7 | gain
 maze
 roast
 trophy
 battle
 situate
 category |  
-| bip_39_word_new_line8 | gain
+| bip_39_word_new_line_8 | gain
 maze
 roast
 trophy
@@ -113,7 +113,7 @@ battle
 situate
 category
 brain |  
-| bip_39_word_new_line9 | gain
+| bip_39_word_new_line_9 | gain
 maze
 roast
 trophy

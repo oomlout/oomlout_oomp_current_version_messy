@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | diamond |  
-| bip_39_word_new_br10 | diamond<br>carry<br>swing<br>author<br>ignore<br>radar<br>frame<br>roast<br>slight<br>busy |  
-| bip_39_word_new_br11 | diamond<br>carry<br>swing<br>author<br>ignore<br>radar<br>frame<br>roast<br>slight<br>busy<br>canyon |  
-| bip_39_word_new_br2 | diamond<br>carry |  
-| bip_39_word_new_br3 | diamond<br>carry<br>swing |  
-| bip_39_word_new_br4 | diamond<br>carry<br>swing<br>author |  
-| bip_39_word_new_br5 | diamond<br>carry<br>swing<br>author<br>ignore |  
-| bip_39_word_new_br6 | diamond<br>carry<br>swing<br>author<br>ignore<br>radar |  
-| bip_39_word_new_br7 | diamond<br>carry<br>swing<br>author<br>ignore<br>radar<br>frame |  
-| bip_39_word_new_br8 | diamond<br>carry<br>swing<br>author<br>ignore<br>radar<br>frame<br>roast |  
-| bip_39_word_new_br9 | diamond<br>carry<br>swing<br>author<br>ignore<br>radar<br>frame<br>roast<br>slight |  
-| bip_39_word_new_line1 | diamond |  
-| bip_39_word_new_line10 | diamond
+| bip_39_word_new_br_1 | diamond |  
+| bip_39_word_new_br_10 | diamond<br>carry<br>swing<br>author<br>ignore<br>radar<br>frame<br>roast<br>slight<br>busy |  
+| bip_39_word_new_br_11 | diamond<br>carry<br>swing<br>author<br>ignore<br>radar<br>frame<br>roast<br>slight<br>busy<br>canyon |  
+| bip_39_word_new_br_2 | diamond<br>carry |  
+| bip_39_word_new_br_3 | diamond<br>carry<br>swing |  
+| bip_39_word_new_br_4 | diamond<br>carry<br>swing<br>author |  
+| bip_39_word_new_br_5 | diamond<br>carry<br>swing<br>author<br>ignore |  
+| bip_39_word_new_br_6 | diamond<br>carry<br>swing<br>author<br>ignore<br>radar |  
+| bip_39_word_new_br_7 | diamond<br>carry<br>swing<br>author<br>ignore<br>radar<br>frame |  
+| bip_39_word_new_br_8 | diamond<br>carry<br>swing<br>author<br>ignore<br>radar<br>frame<br>roast |  
+| bip_39_word_new_br_9 | diamond<br>carry<br>swing<br>author<br>ignore<br>radar<br>frame<br>roast<br>slight |  
+| bip_39_word_new_line_1 | diamond |  
+| bip_39_word_new_line_10 | diamond
 carry
 swing
 author
@@ -54,7 +54,7 @@ frame
 roast
 slight
 busy |  
-| bip_39_word_new_line11 | diamond
+| bip_39_word_new_line_11 | diamond
 carry
 swing
 author
@@ -65,34 +65,34 @@ roast
 slight
 busy
 canyon |  
-| bip_39_word_new_line2 | diamond
+| bip_39_word_new_line_2 | diamond
 carry |  
-| bip_39_word_new_line3 | diamond
+| bip_39_word_new_line_3 | diamond
 carry
 swing |  
-| bip_39_word_new_line4 | diamond
+| bip_39_word_new_line_4 | diamond
 carry
 swing
 author |  
-| bip_39_word_new_line5 | diamond
+| bip_39_word_new_line_5 | diamond
 carry
 swing
 author
 ignore |  
-| bip_39_word_new_line6 | diamond
+| bip_39_word_new_line_6 | diamond
 carry
 swing
 author
 ignore
 radar |  
-| bip_39_word_new_line7 | diamond
+| bip_39_word_new_line_7 | diamond
 carry
 swing
 author
 ignore
 radar
 frame |  
-| bip_39_word_new_line8 | diamond
+| bip_39_word_new_line_8 | diamond
 carry
 swing
 author
@@ -100,7 +100,7 @@ ignore
 radar
 frame
 roast |  
-| bip_39_word_new_line9 | diamond
+| bip_39_word_new_line_9 | diamond
 carry
 swing
 author

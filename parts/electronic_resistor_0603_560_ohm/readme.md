@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | barely |  
-| bip_39_word_new_br10 | barely<br>supreme<br>sign<br>analyst<br>adapt<br>nature<br>cause<br>mail<br>any<br>best |  
-| bip_39_word_new_br11 | barely<br>supreme<br>sign<br>analyst<br>adapt<br>nature<br>cause<br>mail<br>any<br>best<br>deputy |  
-| bip_39_word_new_br12 | barely<br>supreme<br>sign<br>analyst<br>adapt<br>nature<br>cause<br>mail<br>any<br>best<br>deputy<br>account |  
-| bip_39_word_new_br2 | barely<br>supreme |  
-| bip_39_word_new_br3 | barely<br>supreme<br>sign |  
-| bip_39_word_new_br4 | barely<br>supreme<br>sign<br>analyst |  
-| bip_39_word_new_br5 | barely<br>supreme<br>sign<br>analyst<br>adapt |  
-| bip_39_word_new_br6 | barely<br>supreme<br>sign<br>analyst<br>adapt<br>nature |  
-| bip_39_word_new_br7 | barely<br>supreme<br>sign<br>analyst<br>adapt<br>nature<br>cause |  
-| bip_39_word_new_br8 | barely<br>supreme<br>sign<br>analyst<br>adapt<br>nature<br>cause<br>mail |  
-| bip_39_word_new_br9 | barely<br>supreme<br>sign<br>analyst<br>adapt<br>nature<br>cause<br>mail<br>any |  
-| bip_39_word_new_line1 | barely |  
-| bip_39_word_new_line10 | barely
+| bip_39_word_new_br_1 | barely |  
+| bip_39_word_new_br_10 | barely<br>supreme<br>sign<br>analyst<br>adapt<br>nature<br>cause<br>mail<br>any<br>best |  
+| bip_39_word_new_br_11 | barely<br>supreme<br>sign<br>analyst<br>adapt<br>nature<br>cause<br>mail<br>any<br>best<br>deputy |  
+| bip_39_word_new_br_12 | barely<br>supreme<br>sign<br>analyst<br>adapt<br>nature<br>cause<br>mail<br>any<br>best<br>deputy<br>account |  
+| bip_39_word_new_br_2 | barely<br>supreme |  
+| bip_39_word_new_br_3 | barely<br>supreme<br>sign |  
+| bip_39_word_new_br_4 | barely<br>supreme<br>sign<br>analyst |  
+| bip_39_word_new_br_5 | barely<br>supreme<br>sign<br>analyst<br>adapt |  
+| bip_39_word_new_br_6 | barely<br>supreme<br>sign<br>analyst<br>adapt<br>nature |  
+| bip_39_word_new_br_7 | barely<br>supreme<br>sign<br>analyst<br>adapt<br>nature<br>cause |  
+| bip_39_word_new_br_8 | barely<br>supreme<br>sign<br>analyst<br>adapt<br>nature<br>cause<br>mail |  
+| bip_39_word_new_br_9 | barely<br>supreme<br>sign<br>analyst<br>adapt<br>nature<br>cause<br>mail<br>any |  
+| bip_39_word_new_line_1 | barely |  
+| bip_39_word_new_line_10 | barely
 supreme
 sign
 analyst
@@ -55,7 +55,7 @@ cause
 mail
 any
 best |  
-| bip_39_word_new_line11 | barely
+| bip_39_word_new_line_11 | barely
 supreme
 sign
 analyst
@@ -66,7 +66,7 @@ mail
 any
 best
 deputy |  
-| bip_39_word_new_line12 | barely
+| bip_39_word_new_line_12 | barely
 supreme
 sign
 analyst
@@ -78,34 +78,34 @@ any
 best
 deputy
 account |  
-| bip_39_word_new_line2 | barely
+| bip_39_word_new_line_2 | barely
 supreme |  
-| bip_39_word_new_line3 | barely
+| bip_39_word_new_line_3 | barely
 supreme
 sign |  
-| bip_39_word_new_line4 | barely
+| bip_39_word_new_line_4 | barely
 supreme
 sign
 analyst |  
-| bip_39_word_new_line5 | barely
+| bip_39_word_new_line_5 | barely
 supreme
 sign
 analyst
 adapt |  
-| bip_39_word_new_line6 | barely
+| bip_39_word_new_line_6 | barely
 supreme
 sign
 analyst
 adapt
 nature |  
-| bip_39_word_new_line7 | barely
+| bip_39_word_new_line_7 | barely
 supreme
 sign
 analyst
 adapt
 nature
 cause |  
-| bip_39_word_new_line8 | barely
+| bip_39_word_new_line_8 | barely
 supreme
 sign
 analyst
@@ -113,7 +113,7 @@ adapt
 nature
 cause
 mail |  
-| bip_39_word_new_line9 | barely
+| bip_39_word_new_line_9 | barely
 supreme
 sign
 analyst

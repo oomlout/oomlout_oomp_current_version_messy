@@ -1,17 +1,17 @@
-bip_39_word_new_br1: material
-bip_39_word_new_br10: material<br>power<br>equal<br>pigeon<br>good<br>office<br>voyage<br>can<br>birth<br>town
-bip_39_word_new_br11: material<br>power<br>equal<br>pigeon<br>good<br>office<br>voyage<br>can<br>birth<br>town<br>fetch
-bip_39_word_new_br12: material<br>power<br>equal<br>pigeon<br>good<br>office<br>voyage<br>can<br>birth<br>town<br>fetch<br>artist
-bip_39_word_new_br2: material<br>power
-bip_39_word_new_br3: material<br>power<br>equal
-bip_39_word_new_br4: material<br>power<br>equal<br>pigeon
-bip_39_word_new_br5: material<br>power<br>equal<br>pigeon<br>good
-bip_39_word_new_br6: material<br>power<br>equal<br>pigeon<br>good<br>office
-bip_39_word_new_br7: material<br>power<br>equal<br>pigeon<br>good<br>office<br>voyage
-bip_39_word_new_br8: material<br>power<br>equal<br>pigeon<br>good<br>office<br>voyage<br>can
-bip_39_word_new_br9: material<br>power<br>equal<br>pigeon<br>good<br>office<br>voyage<br>can<br>birth
-bip_39_word_new_line1: material
-bip_39_word_new_line10: 'material
+bip_39_word_new_br_1: material
+bip_39_word_new_br_10: material<br>power<br>equal<br>pigeon<br>good<br>office<br>voyage<br>can<br>birth<br>town
+bip_39_word_new_br_11: material<br>power<br>equal<br>pigeon<br>good<br>office<br>voyage<br>can<br>birth<br>town<br>fetch
+bip_39_word_new_br_12: material<br>power<br>equal<br>pigeon<br>good<br>office<br>voyage<br>can<br>birth<br>town<br>fetch<br>artist
+bip_39_word_new_br_2: material<br>power
+bip_39_word_new_br_3: material<br>power<br>equal
+bip_39_word_new_br_4: material<br>power<br>equal<br>pigeon
+bip_39_word_new_br_5: material<br>power<br>equal<br>pigeon<br>good
+bip_39_word_new_br_6: material<br>power<br>equal<br>pigeon<br>good<br>office
+bip_39_word_new_br_7: material<br>power<br>equal<br>pigeon<br>good<br>office<br>voyage
+bip_39_word_new_br_8: material<br>power<br>equal<br>pigeon<br>good<br>office<br>voyage<br>can
+bip_39_word_new_br_9: material<br>power<br>equal<br>pigeon<br>good<br>office<br>voyage<br>can<br>birth
+bip_39_word_new_line_1: material
+bip_39_word_new_line_10: 'material
 
   power
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'material
   birth
 
   town'
-bip_39_word_new_line11: 'material
+bip_39_word_new_line_11: 'material
 
   power
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'material
   town
 
   fetch'
-bip_39_word_new_line12: 'material
+bip_39_word_new_line_12: 'material
 
   power
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'material
   fetch
 
   artist'
-bip_39_word_new_line2: 'material
+bip_39_word_new_line_2: 'material
 
   power'
-bip_39_word_new_line3: 'material
+bip_39_word_new_line_3: 'material
 
   power
 
   equal'
-bip_39_word_new_line4: 'material
+bip_39_word_new_line_4: 'material
 
   power
 
   equal
 
   pigeon'
-bip_39_word_new_line5: 'material
+bip_39_word_new_line_5: 'material
 
   power
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'material
   pigeon
 
   good'
-bip_39_word_new_line6: 'material
+bip_39_word_new_line_6: 'material
 
   power
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'material
   good
 
   office'
-bip_39_word_new_line7: 'material
+bip_39_word_new_line_7: 'material
 
   power
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'material
   office
 
   voyage'
-bip_39_word_new_line8: 'material
+bip_39_word_new_line_8: 'material
 
   power
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'material
   voyage
 
   can'
-bip_39_word_new_line9: 'material
+bip_39_word_new_line_9: 'material
 
   power
 

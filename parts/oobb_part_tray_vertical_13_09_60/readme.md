@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | estate |  
-| bip_39_word_new_br10 | estate<br>nose<br>scrap<br>ritual<br>invite<br>depth<br>climb<br>helmet<br>visit<br>debate |  
-| bip_39_word_new_br11 | estate<br>nose<br>scrap<br>ritual<br>invite<br>depth<br>climb<br>helmet<br>visit<br>debate<br>crater |  
-| bip_39_word_new_br12 | estate<br>nose<br>scrap<br>ritual<br>invite<br>depth<br>climb<br>helmet<br>visit<br>debate<br>crater<br>atom |  
-| bip_39_word_new_br2 | estate<br>nose |  
-| bip_39_word_new_br3 | estate<br>nose<br>scrap |  
-| bip_39_word_new_br4 | estate<br>nose<br>scrap<br>ritual |  
-| bip_39_word_new_br5 | estate<br>nose<br>scrap<br>ritual<br>invite |  
-| bip_39_word_new_br6 | estate<br>nose<br>scrap<br>ritual<br>invite<br>depth |  
-| bip_39_word_new_br7 | estate<br>nose<br>scrap<br>ritual<br>invite<br>depth<br>climb |  
-| bip_39_word_new_br8 | estate<br>nose<br>scrap<br>ritual<br>invite<br>depth<br>climb<br>helmet |  
-| bip_39_word_new_br9 | estate<br>nose<br>scrap<br>ritual<br>invite<br>depth<br>climb<br>helmet<br>visit |  
-| bip_39_word_new_line1 | estate |  
-| bip_39_word_new_line10 | estate
+| bip_39_word_new_br_1 | estate |  
+| bip_39_word_new_br_10 | estate<br>nose<br>scrap<br>ritual<br>invite<br>depth<br>climb<br>helmet<br>visit<br>debate |  
+| bip_39_word_new_br_11 | estate<br>nose<br>scrap<br>ritual<br>invite<br>depth<br>climb<br>helmet<br>visit<br>debate<br>crater |  
+| bip_39_word_new_br_12 | estate<br>nose<br>scrap<br>ritual<br>invite<br>depth<br>climb<br>helmet<br>visit<br>debate<br>crater<br>atom |  
+| bip_39_word_new_br_2 | estate<br>nose |  
+| bip_39_word_new_br_3 | estate<br>nose<br>scrap |  
+| bip_39_word_new_br_4 | estate<br>nose<br>scrap<br>ritual |  
+| bip_39_word_new_br_5 | estate<br>nose<br>scrap<br>ritual<br>invite |  
+| bip_39_word_new_br_6 | estate<br>nose<br>scrap<br>ritual<br>invite<br>depth |  
+| bip_39_word_new_br_7 | estate<br>nose<br>scrap<br>ritual<br>invite<br>depth<br>climb |  
+| bip_39_word_new_br_8 | estate<br>nose<br>scrap<br>ritual<br>invite<br>depth<br>climb<br>helmet |  
+| bip_39_word_new_br_9 | estate<br>nose<br>scrap<br>ritual<br>invite<br>depth<br>climb<br>helmet<br>visit |  
+| bip_39_word_new_line_1 | estate |  
+| bip_39_word_new_line_10 | estate
 nose
 scrap
 ritual
@@ -55,7 +55,7 @@ climb
 helmet
 visit
 debate |  
-| bip_39_word_new_line11 | estate
+| bip_39_word_new_line_11 | estate
 nose
 scrap
 ritual
@@ -66,7 +66,7 @@ helmet
 visit
 debate
 crater |  
-| bip_39_word_new_line12 | estate
+| bip_39_word_new_line_12 | estate
 nose
 scrap
 ritual
@@ -78,34 +78,34 @@ visit
 debate
 crater
 atom |  
-| bip_39_word_new_line2 | estate
+| bip_39_word_new_line_2 | estate
 nose |  
-| bip_39_word_new_line3 | estate
+| bip_39_word_new_line_3 | estate
 nose
 scrap |  
-| bip_39_word_new_line4 | estate
+| bip_39_word_new_line_4 | estate
 nose
 scrap
 ritual |  
-| bip_39_word_new_line5 | estate
+| bip_39_word_new_line_5 | estate
 nose
 scrap
 ritual
 invite |  
-| bip_39_word_new_line6 | estate
+| bip_39_word_new_line_6 | estate
 nose
 scrap
 ritual
 invite
 depth |  
-| bip_39_word_new_line7 | estate
+| bip_39_word_new_line_7 | estate
 nose
 scrap
 ritual
 invite
 depth
 climb |  
-| bip_39_word_new_line8 | estate
+| bip_39_word_new_line_8 | estate
 nose
 scrap
 ritual
@@ -113,7 +113,7 @@ invite
 depth
 climb
 helmet |  
-| bip_39_word_new_line9 | estate
+| bip_39_word_new_line_9 | estate
 nose
 scrap
 ritual

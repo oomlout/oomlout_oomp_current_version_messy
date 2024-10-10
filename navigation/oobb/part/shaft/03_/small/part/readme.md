@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rigid |  
-| bip_39_word_new_br10 | rigid<br>notice<br>devote<br>wealth<br>caught<br>total<br>orient<br>parent<br>still<br>gossip |  
-| bip_39_word_new_br11 | rigid<br>notice<br>devote<br>wealth<br>caught<br>total<br>orient<br>parent<br>still<br>gossip<br>abstract |  
-| bip_39_word_new_br12 | rigid<br>notice<br>devote<br>wealth<br>caught<br>total<br>orient<br>parent<br>still<br>gossip<br>abstract<br>about |  
-| bip_39_word_new_br2 | rigid<br>notice |  
-| bip_39_word_new_br3 | rigid<br>notice<br>devote |  
-| bip_39_word_new_br4 | rigid<br>notice<br>devote<br>wealth |  
-| bip_39_word_new_br5 | rigid<br>notice<br>devote<br>wealth<br>caught |  
-| bip_39_word_new_br6 | rigid<br>notice<br>devote<br>wealth<br>caught<br>total |  
-| bip_39_word_new_br7 | rigid<br>notice<br>devote<br>wealth<br>caught<br>total<br>orient |  
-| bip_39_word_new_br8 | rigid<br>notice<br>devote<br>wealth<br>caught<br>total<br>orient<br>parent |  
-| bip_39_word_new_br9 | rigid<br>notice<br>devote<br>wealth<br>caught<br>total<br>orient<br>parent<br>still |  
-| bip_39_word_new_line1 | rigid |  
-| bip_39_word_new_line10 | rigid
+| bip_39_word_new_br_1 | rigid |  
+| bip_39_word_new_br_10 | rigid<br>notice<br>devote<br>wealth<br>caught<br>total<br>orient<br>parent<br>still<br>gossip |  
+| bip_39_word_new_br_11 | rigid<br>notice<br>devote<br>wealth<br>caught<br>total<br>orient<br>parent<br>still<br>gossip<br>abstract |  
+| bip_39_word_new_br_12 | rigid<br>notice<br>devote<br>wealth<br>caught<br>total<br>orient<br>parent<br>still<br>gossip<br>abstract<br>about |  
+| bip_39_word_new_br_2 | rigid<br>notice |  
+| bip_39_word_new_br_3 | rigid<br>notice<br>devote |  
+| bip_39_word_new_br_4 | rigid<br>notice<br>devote<br>wealth |  
+| bip_39_word_new_br_5 | rigid<br>notice<br>devote<br>wealth<br>caught |  
+| bip_39_word_new_br_6 | rigid<br>notice<br>devote<br>wealth<br>caught<br>total |  
+| bip_39_word_new_br_7 | rigid<br>notice<br>devote<br>wealth<br>caught<br>total<br>orient |  
+| bip_39_word_new_br_8 | rigid<br>notice<br>devote<br>wealth<br>caught<br>total<br>orient<br>parent |  
+| bip_39_word_new_br_9 | rigid<br>notice<br>devote<br>wealth<br>caught<br>total<br>orient<br>parent<br>still |  
+| bip_39_word_new_line_1 | rigid |  
+| bip_39_word_new_line_10 | rigid
 notice
 devote
 wealth
@@ -55,7 +55,7 @@ orient
 parent
 still
 gossip |  
-| bip_39_word_new_line11 | rigid
+| bip_39_word_new_line_11 | rigid
 notice
 devote
 wealth
@@ -66,7 +66,7 @@ parent
 still
 gossip
 abstract |  
-| bip_39_word_new_line12 | rigid
+| bip_39_word_new_line_12 | rigid
 notice
 devote
 wealth
@@ -78,34 +78,34 @@ still
 gossip
 abstract
 about |  
-| bip_39_word_new_line2 | rigid
+| bip_39_word_new_line_2 | rigid
 notice |  
-| bip_39_word_new_line3 | rigid
+| bip_39_word_new_line_3 | rigid
 notice
 devote |  
-| bip_39_word_new_line4 | rigid
+| bip_39_word_new_line_4 | rigid
 notice
 devote
 wealth |  
-| bip_39_word_new_line5 | rigid
+| bip_39_word_new_line_5 | rigid
 notice
 devote
 wealth
 caught |  
-| bip_39_word_new_line6 | rigid
+| bip_39_word_new_line_6 | rigid
 notice
 devote
 wealth
 caught
 total |  
-| bip_39_word_new_line7 | rigid
+| bip_39_word_new_line_7 | rigid
 notice
 devote
 wealth
 caught
 total
 orient |  
-| bip_39_word_new_line8 | rigid
+| bip_39_word_new_line_8 | rigid
 notice
 devote
 wealth
@@ -113,7 +113,7 @@ caught
 total
 orient
 parent |  
-| bip_39_word_new_line9 | rigid
+| bip_39_word_new_line_9 | rigid
 notice
 devote
 wealth

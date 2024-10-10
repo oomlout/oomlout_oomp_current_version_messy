@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wave |  
-| bip_39_word_new_br10 | wave<br>favorite<br>spice<br>distance<br>ecology<br>program<br>dose<br>senior<br>grow<br>dress |  
-| bip_39_word_new_br11 | wave<br>favorite<br>spice<br>distance<br>ecology<br>program<br>dose<br>senior<br>grow<br>dress<br>shell |  
-| bip_39_word_new_br12 | wave<br>favorite<br>spice<br>distance<br>ecology<br>program<br>dose<br>senior<br>grow<br>dress<br>shell<br>attack |  
-| bip_39_word_new_br2 | wave<br>favorite |  
-| bip_39_word_new_br3 | wave<br>favorite<br>spice |  
-| bip_39_word_new_br4 | wave<br>favorite<br>spice<br>distance |  
-| bip_39_word_new_br5 | wave<br>favorite<br>spice<br>distance<br>ecology |  
-| bip_39_word_new_br6 | wave<br>favorite<br>spice<br>distance<br>ecology<br>program |  
-| bip_39_word_new_br7 | wave<br>favorite<br>spice<br>distance<br>ecology<br>program<br>dose |  
-| bip_39_word_new_br8 | wave<br>favorite<br>spice<br>distance<br>ecology<br>program<br>dose<br>senior |  
-| bip_39_word_new_br9 | wave<br>favorite<br>spice<br>distance<br>ecology<br>program<br>dose<br>senior<br>grow |  
-| bip_39_word_new_line1 | wave |  
-| bip_39_word_new_line10 | wave
+| bip_39_word_new_br_1 | wave |  
+| bip_39_word_new_br_10 | wave<br>favorite<br>spice<br>distance<br>ecology<br>program<br>dose<br>senior<br>grow<br>dress |  
+| bip_39_word_new_br_11 | wave<br>favorite<br>spice<br>distance<br>ecology<br>program<br>dose<br>senior<br>grow<br>dress<br>shell |  
+| bip_39_word_new_br_12 | wave<br>favorite<br>spice<br>distance<br>ecology<br>program<br>dose<br>senior<br>grow<br>dress<br>shell<br>attack |  
+| bip_39_word_new_br_2 | wave<br>favorite |  
+| bip_39_word_new_br_3 | wave<br>favorite<br>spice |  
+| bip_39_word_new_br_4 | wave<br>favorite<br>spice<br>distance |  
+| bip_39_word_new_br_5 | wave<br>favorite<br>spice<br>distance<br>ecology |  
+| bip_39_word_new_br_6 | wave<br>favorite<br>spice<br>distance<br>ecology<br>program |  
+| bip_39_word_new_br_7 | wave<br>favorite<br>spice<br>distance<br>ecology<br>program<br>dose |  
+| bip_39_word_new_br_8 | wave<br>favorite<br>spice<br>distance<br>ecology<br>program<br>dose<br>senior |  
+| bip_39_word_new_br_9 | wave<br>favorite<br>spice<br>distance<br>ecology<br>program<br>dose<br>senior<br>grow |  
+| bip_39_word_new_line_1 | wave |  
+| bip_39_word_new_line_10 | wave
 favorite
 spice
 distance
@@ -55,7 +55,7 @@ dose
 senior
 grow
 dress |  
-| bip_39_word_new_line11 | wave
+| bip_39_word_new_line_11 | wave
 favorite
 spice
 distance
@@ -66,7 +66,7 @@ senior
 grow
 dress
 shell |  
-| bip_39_word_new_line12 | wave
+| bip_39_word_new_line_12 | wave
 favorite
 spice
 distance
@@ -78,34 +78,34 @@ grow
 dress
 shell
 attack |  
-| bip_39_word_new_line2 | wave
+| bip_39_word_new_line_2 | wave
 favorite |  
-| bip_39_word_new_line3 | wave
+| bip_39_word_new_line_3 | wave
 favorite
 spice |  
-| bip_39_word_new_line4 | wave
+| bip_39_word_new_line_4 | wave
 favorite
 spice
 distance |  
-| bip_39_word_new_line5 | wave
+| bip_39_word_new_line_5 | wave
 favorite
 spice
 distance
 ecology |  
-| bip_39_word_new_line6 | wave
+| bip_39_word_new_line_6 | wave
 favorite
 spice
 distance
 ecology
 program |  
-| bip_39_word_new_line7 | wave
+| bip_39_word_new_line_7 | wave
 favorite
 spice
 distance
 ecology
 program
 dose |  
-| bip_39_word_new_line8 | wave
+| bip_39_word_new_line_8 | wave
 favorite
 spice
 distance
@@ -113,7 +113,7 @@ ecology
 program
 dose
 senior |  
-| bip_39_word_new_line9 | wave
+| bip_39_word_new_line_9 | wave
 favorite
 spice
 distance

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | demise |  
-| bip_39_word_new_br10 | demise<br>total<br>twice<br>misery<br>museum<br>electric<br>awkward<br>wood<br>secret<br>spot |  
-| bip_39_word_new_br11 | demise<br>total<br>twice<br>misery<br>museum<br>electric<br>awkward<br>wood<br>secret<br>spot<br>slice |  
-| bip_39_word_new_br12 | demise<br>total<br>twice<br>misery<br>museum<br>electric<br>awkward<br>wood<br>secret<br>spot<br>slice<br>abstract |  
-| bip_39_word_new_br2 | demise<br>total |  
-| bip_39_word_new_br3 | demise<br>total<br>twice |  
-| bip_39_word_new_br4 | demise<br>total<br>twice<br>misery |  
-| bip_39_word_new_br5 | demise<br>total<br>twice<br>misery<br>museum |  
-| bip_39_word_new_br6 | demise<br>total<br>twice<br>misery<br>museum<br>electric |  
-| bip_39_word_new_br7 | demise<br>total<br>twice<br>misery<br>museum<br>electric<br>awkward |  
-| bip_39_word_new_br8 | demise<br>total<br>twice<br>misery<br>museum<br>electric<br>awkward<br>wood |  
-| bip_39_word_new_br9 | demise<br>total<br>twice<br>misery<br>museum<br>electric<br>awkward<br>wood<br>secret |  
-| bip_39_word_new_line1 | demise |  
-| bip_39_word_new_line10 | demise
+| bip_39_word_new_br_1 | demise |  
+| bip_39_word_new_br_10 | demise<br>total<br>twice<br>misery<br>museum<br>electric<br>awkward<br>wood<br>secret<br>spot |  
+| bip_39_word_new_br_11 | demise<br>total<br>twice<br>misery<br>museum<br>electric<br>awkward<br>wood<br>secret<br>spot<br>slice |  
+| bip_39_word_new_br_12 | demise<br>total<br>twice<br>misery<br>museum<br>electric<br>awkward<br>wood<br>secret<br>spot<br>slice<br>abstract |  
+| bip_39_word_new_br_2 | demise<br>total |  
+| bip_39_word_new_br_3 | demise<br>total<br>twice |  
+| bip_39_word_new_br_4 | demise<br>total<br>twice<br>misery |  
+| bip_39_word_new_br_5 | demise<br>total<br>twice<br>misery<br>museum |  
+| bip_39_word_new_br_6 | demise<br>total<br>twice<br>misery<br>museum<br>electric |  
+| bip_39_word_new_br_7 | demise<br>total<br>twice<br>misery<br>museum<br>electric<br>awkward |  
+| bip_39_word_new_br_8 | demise<br>total<br>twice<br>misery<br>museum<br>electric<br>awkward<br>wood |  
+| bip_39_word_new_br_9 | demise<br>total<br>twice<br>misery<br>museum<br>electric<br>awkward<br>wood<br>secret |  
+| bip_39_word_new_line_1 | demise |  
+| bip_39_word_new_line_10 | demise
 total
 twice
 misery
@@ -55,7 +55,7 @@ awkward
 wood
 secret
 spot |  
-| bip_39_word_new_line11 | demise
+| bip_39_word_new_line_11 | demise
 total
 twice
 misery
@@ -66,7 +66,7 @@ wood
 secret
 spot
 slice |  
-| bip_39_word_new_line12 | demise
+| bip_39_word_new_line_12 | demise
 total
 twice
 misery
@@ -78,34 +78,34 @@ secret
 spot
 slice
 abstract |  
-| bip_39_word_new_line2 | demise
+| bip_39_word_new_line_2 | demise
 total |  
-| bip_39_word_new_line3 | demise
+| bip_39_word_new_line_3 | demise
 total
 twice |  
-| bip_39_word_new_line4 | demise
+| bip_39_word_new_line_4 | demise
 total
 twice
 misery |  
-| bip_39_word_new_line5 | demise
+| bip_39_word_new_line_5 | demise
 total
 twice
 misery
 museum |  
-| bip_39_word_new_line6 | demise
+| bip_39_word_new_line_6 | demise
 total
 twice
 misery
 museum
 electric |  
-| bip_39_word_new_line7 | demise
+| bip_39_word_new_line_7 | demise
 total
 twice
 misery
 museum
 electric
 awkward |  
-| bip_39_word_new_line8 | demise
+| bip_39_word_new_line_8 | demise
 total
 twice
 misery
@@ -113,7 +113,7 @@ museum
 electric
 awkward
 wood |  
-| bip_39_word_new_line9 | demise
+| bip_39_word_new_line_9 | demise
 total
 twice
 misery

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | devote |  
-| bip_39_word_new_br10 | devote<br>enforce<br>mansion<br>random<br>mushroom<br>stamp<br>fix<br>bronze<br>race<br>blush |  
-| bip_39_word_new_br11 | devote<br>enforce<br>mansion<br>random<br>mushroom<br>stamp<br>fix<br>bronze<br>race<br>blush<br>yard |  
-| bip_39_word_new_br12 | devote<br>enforce<br>mansion<br>random<br>mushroom<br>stamp<br>fix<br>bronze<br>race<br>blush<br>yard<br>artefact |  
-| bip_39_word_new_br2 | devote<br>enforce |  
-| bip_39_word_new_br3 | devote<br>enforce<br>mansion |  
-| bip_39_word_new_br4 | devote<br>enforce<br>mansion<br>random |  
-| bip_39_word_new_br5 | devote<br>enforce<br>mansion<br>random<br>mushroom |  
-| bip_39_word_new_br6 | devote<br>enforce<br>mansion<br>random<br>mushroom<br>stamp |  
-| bip_39_word_new_br7 | devote<br>enforce<br>mansion<br>random<br>mushroom<br>stamp<br>fix |  
-| bip_39_word_new_br8 | devote<br>enforce<br>mansion<br>random<br>mushroom<br>stamp<br>fix<br>bronze |  
-| bip_39_word_new_br9 | devote<br>enforce<br>mansion<br>random<br>mushroom<br>stamp<br>fix<br>bronze<br>race |  
-| bip_39_word_new_line1 | devote |  
-| bip_39_word_new_line10 | devote
+| bip_39_word_new_br_1 | devote |  
+| bip_39_word_new_br_10 | devote<br>enforce<br>mansion<br>random<br>mushroom<br>stamp<br>fix<br>bronze<br>race<br>blush |  
+| bip_39_word_new_br_11 | devote<br>enforce<br>mansion<br>random<br>mushroom<br>stamp<br>fix<br>bronze<br>race<br>blush<br>yard |  
+| bip_39_word_new_br_12 | devote<br>enforce<br>mansion<br>random<br>mushroom<br>stamp<br>fix<br>bronze<br>race<br>blush<br>yard<br>artefact |  
+| bip_39_word_new_br_2 | devote<br>enforce |  
+| bip_39_word_new_br_3 | devote<br>enforce<br>mansion |  
+| bip_39_word_new_br_4 | devote<br>enforce<br>mansion<br>random |  
+| bip_39_word_new_br_5 | devote<br>enforce<br>mansion<br>random<br>mushroom |  
+| bip_39_word_new_br_6 | devote<br>enforce<br>mansion<br>random<br>mushroom<br>stamp |  
+| bip_39_word_new_br_7 | devote<br>enforce<br>mansion<br>random<br>mushroom<br>stamp<br>fix |  
+| bip_39_word_new_br_8 | devote<br>enforce<br>mansion<br>random<br>mushroom<br>stamp<br>fix<br>bronze |  
+| bip_39_word_new_br_9 | devote<br>enforce<br>mansion<br>random<br>mushroom<br>stamp<br>fix<br>bronze<br>race |  
+| bip_39_word_new_line_1 | devote |  
+| bip_39_word_new_line_10 | devote
 enforce
 mansion
 random
@@ -55,7 +55,7 @@ fix
 bronze
 race
 blush |  
-| bip_39_word_new_line11 | devote
+| bip_39_word_new_line_11 | devote
 enforce
 mansion
 random
@@ -66,7 +66,7 @@ bronze
 race
 blush
 yard |  
-| bip_39_word_new_line12 | devote
+| bip_39_word_new_line_12 | devote
 enforce
 mansion
 random
@@ -78,34 +78,34 @@ race
 blush
 yard
 artefact |  
-| bip_39_word_new_line2 | devote
+| bip_39_word_new_line_2 | devote
 enforce |  
-| bip_39_word_new_line3 | devote
+| bip_39_word_new_line_3 | devote
 enforce
 mansion |  
-| bip_39_word_new_line4 | devote
+| bip_39_word_new_line_4 | devote
 enforce
 mansion
 random |  
-| bip_39_word_new_line5 | devote
+| bip_39_word_new_line_5 | devote
 enforce
 mansion
 random
 mushroom |  
-| bip_39_word_new_line6 | devote
+| bip_39_word_new_line_6 | devote
 enforce
 mansion
 random
 mushroom
 stamp |  
-| bip_39_word_new_line7 | devote
+| bip_39_word_new_line_7 | devote
 enforce
 mansion
 random
 mushroom
 stamp
 fix |  
-| bip_39_word_new_line8 | devote
+| bip_39_word_new_line_8 | devote
 enforce
 mansion
 random
@@ -113,7 +113,7 @@ mushroom
 stamp
 fix
 bronze |  
-| bip_39_word_new_line9 | devote
+| bip_39_word_new_line_9 | devote
 enforce
 mansion
 random

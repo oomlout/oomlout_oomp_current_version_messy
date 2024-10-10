@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | figure |  
-| bip_39_word_new_br10 | figure<br>bitter<br>crime<br>found<br>length<br>vendor<br>boost<br>soft<br>dune<br>reduce |  
-| bip_39_word_new_br11 | figure<br>bitter<br>crime<br>found<br>length<br>vendor<br>boost<br>soft<br>dune<br>reduce<br>joke |  
-| bip_39_word_new_br12 | figure<br>bitter<br>crime<br>found<br>length<br>vendor<br>boost<br>soft<br>dune<br>reduce<br>joke<br>album |  
-| bip_39_word_new_br2 | figure<br>bitter |  
-| bip_39_word_new_br3 | figure<br>bitter<br>crime |  
-| bip_39_word_new_br4 | figure<br>bitter<br>crime<br>found |  
-| bip_39_word_new_br5 | figure<br>bitter<br>crime<br>found<br>length |  
-| bip_39_word_new_br6 | figure<br>bitter<br>crime<br>found<br>length<br>vendor |  
-| bip_39_word_new_br7 | figure<br>bitter<br>crime<br>found<br>length<br>vendor<br>boost |  
-| bip_39_word_new_br8 | figure<br>bitter<br>crime<br>found<br>length<br>vendor<br>boost<br>soft |  
-| bip_39_word_new_br9 | figure<br>bitter<br>crime<br>found<br>length<br>vendor<br>boost<br>soft<br>dune |  
-| bip_39_word_new_line1 | figure |  
-| bip_39_word_new_line10 | figure
+| bip_39_word_new_br_1 | figure |  
+| bip_39_word_new_br_10 | figure<br>bitter<br>crime<br>found<br>length<br>vendor<br>boost<br>soft<br>dune<br>reduce |  
+| bip_39_word_new_br_11 | figure<br>bitter<br>crime<br>found<br>length<br>vendor<br>boost<br>soft<br>dune<br>reduce<br>joke |  
+| bip_39_word_new_br_12 | figure<br>bitter<br>crime<br>found<br>length<br>vendor<br>boost<br>soft<br>dune<br>reduce<br>joke<br>album |  
+| bip_39_word_new_br_2 | figure<br>bitter |  
+| bip_39_word_new_br_3 | figure<br>bitter<br>crime |  
+| bip_39_word_new_br_4 | figure<br>bitter<br>crime<br>found |  
+| bip_39_word_new_br_5 | figure<br>bitter<br>crime<br>found<br>length |  
+| bip_39_word_new_br_6 | figure<br>bitter<br>crime<br>found<br>length<br>vendor |  
+| bip_39_word_new_br_7 | figure<br>bitter<br>crime<br>found<br>length<br>vendor<br>boost |  
+| bip_39_word_new_br_8 | figure<br>bitter<br>crime<br>found<br>length<br>vendor<br>boost<br>soft |  
+| bip_39_word_new_br_9 | figure<br>bitter<br>crime<br>found<br>length<br>vendor<br>boost<br>soft<br>dune |  
+| bip_39_word_new_line_1 | figure |  
+| bip_39_word_new_line_10 | figure
 bitter
 crime
 found
@@ -55,7 +55,7 @@ boost
 soft
 dune
 reduce |  
-| bip_39_word_new_line11 | figure
+| bip_39_word_new_line_11 | figure
 bitter
 crime
 found
@@ -66,7 +66,7 @@ soft
 dune
 reduce
 joke |  
-| bip_39_word_new_line12 | figure
+| bip_39_word_new_line_12 | figure
 bitter
 crime
 found
@@ -78,34 +78,34 @@ dune
 reduce
 joke
 album |  
-| bip_39_word_new_line2 | figure
+| bip_39_word_new_line_2 | figure
 bitter |  
-| bip_39_word_new_line3 | figure
+| bip_39_word_new_line_3 | figure
 bitter
 crime |  
-| bip_39_word_new_line4 | figure
+| bip_39_word_new_line_4 | figure
 bitter
 crime
 found |  
-| bip_39_word_new_line5 | figure
+| bip_39_word_new_line_5 | figure
 bitter
 crime
 found
 length |  
-| bip_39_word_new_line6 | figure
+| bip_39_word_new_line_6 | figure
 bitter
 crime
 found
 length
 vendor |  
-| bip_39_word_new_line7 | figure
+| bip_39_word_new_line_7 | figure
 bitter
 crime
 found
 length
 vendor
 boost |  
-| bip_39_word_new_line8 | figure
+| bip_39_word_new_line_8 | figure
 bitter
 crime
 found
@@ -113,7 +113,7 @@ length
 vendor
 boost
 soft |  
-| bip_39_word_new_line9 | figure
+| bip_39_word_new_line_9 | figure
 bitter
 crime
 found

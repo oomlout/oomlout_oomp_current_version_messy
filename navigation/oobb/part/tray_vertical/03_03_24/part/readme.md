@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | jelly |  
-| bip_39_word_new_br10 | jelly<br>moment<br>limb<br>doctor<br>addict<br>gasp<br>among<br>toss<br>satoshi<br>hammer |  
-| bip_39_word_new_br11 | jelly<br>moment<br>limb<br>doctor<br>addict<br>gasp<br>among<br>toss<br>satoshi<br>hammer<br>ramp |  
-| bip_39_word_new_br12 | jelly<br>moment<br>limb<br>doctor<br>addict<br>gasp<br>among<br>toss<br>satoshi<br>hammer<br>ramp<br>attend |  
-| bip_39_word_new_br2 | jelly<br>moment |  
-| bip_39_word_new_br3 | jelly<br>moment<br>limb |  
-| bip_39_word_new_br4 | jelly<br>moment<br>limb<br>doctor |  
-| bip_39_word_new_br5 | jelly<br>moment<br>limb<br>doctor<br>addict |  
-| bip_39_word_new_br6 | jelly<br>moment<br>limb<br>doctor<br>addict<br>gasp |  
-| bip_39_word_new_br7 | jelly<br>moment<br>limb<br>doctor<br>addict<br>gasp<br>among |  
-| bip_39_word_new_br8 | jelly<br>moment<br>limb<br>doctor<br>addict<br>gasp<br>among<br>toss |  
-| bip_39_word_new_br9 | jelly<br>moment<br>limb<br>doctor<br>addict<br>gasp<br>among<br>toss<br>satoshi |  
-| bip_39_word_new_line1 | jelly |  
-| bip_39_word_new_line10 | jelly
+| bip_39_word_new_br_1 | jelly |  
+| bip_39_word_new_br_10 | jelly<br>moment<br>limb<br>doctor<br>addict<br>gasp<br>among<br>toss<br>satoshi<br>hammer |  
+| bip_39_word_new_br_11 | jelly<br>moment<br>limb<br>doctor<br>addict<br>gasp<br>among<br>toss<br>satoshi<br>hammer<br>ramp |  
+| bip_39_word_new_br_12 | jelly<br>moment<br>limb<br>doctor<br>addict<br>gasp<br>among<br>toss<br>satoshi<br>hammer<br>ramp<br>attend |  
+| bip_39_word_new_br_2 | jelly<br>moment |  
+| bip_39_word_new_br_3 | jelly<br>moment<br>limb |  
+| bip_39_word_new_br_4 | jelly<br>moment<br>limb<br>doctor |  
+| bip_39_word_new_br_5 | jelly<br>moment<br>limb<br>doctor<br>addict |  
+| bip_39_word_new_br_6 | jelly<br>moment<br>limb<br>doctor<br>addict<br>gasp |  
+| bip_39_word_new_br_7 | jelly<br>moment<br>limb<br>doctor<br>addict<br>gasp<br>among |  
+| bip_39_word_new_br_8 | jelly<br>moment<br>limb<br>doctor<br>addict<br>gasp<br>among<br>toss |  
+| bip_39_word_new_br_9 | jelly<br>moment<br>limb<br>doctor<br>addict<br>gasp<br>among<br>toss<br>satoshi |  
+| bip_39_word_new_line_1 | jelly |  
+| bip_39_word_new_line_10 | jelly
 moment
 limb
 doctor
@@ -55,7 +55,7 @@ among
 toss
 satoshi
 hammer |  
-| bip_39_word_new_line11 | jelly
+| bip_39_word_new_line_11 | jelly
 moment
 limb
 doctor
@@ -66,7 +66,7 @@ toss
 satoshi
 hammer
 ramp |  
-| bip_39_word_new_line12 | jelly
+| bip_39_word_new_line_12 | jelly
 moment
 limb
 doctor
@@ -78,34 +78,34 @@ satoshi
 hammer
 ramp
 attend |  
-| bip_39_word_new_line2 | jelly
+| bip_39_word_new_line_2 | jelly
 moment |  
-| bip_39_word_new_line3 | jelly
+| bip_39_word_new_line_3 | jelly
 moment
 limb |  
-| bip_39_word_new_line4 | jelly
+| bip_39_word_new_line_4 | jelly
 moment
 limb
 doctor |  
-| bip_39_word_new_line5 | jelly
+| bip_39_word_new_line_5 | jelly
 moment
 limb
 doctor
 addict |  
-| bip_39_word_new_line6 | jelly
+| bip_39_word_new_line_6 | jelly
 moment
 limb
 doctor
 addict
 gasp |  
-| bip_39_word_new_line7 | jelly
+| bip_39_word_new_line_7 | jelly
 moment
 limb
 doctor
 addict
 gasp
 among |  
-| bip_39_word_new_line8 | jelly
+| bip_39_word_new_line_8 | jelly
 moment
 limb
 doctor
@@ -113,7 +113,7 @@ addict
 gasp
 among
 toss |  
-| bip_39_word_new_line9 | jelly
+| bip_39_word_new_line_9 | jelly
 moment
 limb
 doctor

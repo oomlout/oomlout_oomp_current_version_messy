@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | corn |  
-| bip_39_word_new_br10 | corn<br>dragon<br>civil<br>jar<br>magnet<br>clean<br>change<br>powder<br>couch<br>east |  
-| bip_39_word_new_br11 | corn<br>dragon<br>civil<br>jar<br>magnet<br>clean<br>change<br>powder<br>couch<br>east<br>museum |  
-| bip_39_word_new_br12 | corn<br>dragon<br>civil<br>jar<br>magnet<br>clean<br>change<br>powder<br>couch<br>east<br>museum<br>arctic |  
-| bip_39_word_new_br2 | corn<br>dragon |  
-| bip_39_word_new_br3 | corn<br>dragon<br>civil |  
-| bip_39_word_new_br4 | corn<br>dragon<br>civil<br>jar |  
-| bip_39_word_new_br5 | corn<br>dragon<br>civil<br>jar<br>magnet |  
-| bip_39_word_new_br6 | corn<br>dragon<br>civil<br>jar<br>magnet<br>clean |  
-| bip_39_word_new_br7 | corn<br>dragon<br>civil<br>jar<br>magnet<br>clean<br>change |  
-| bip_39_word_new_br8 | corn<br>dragon<br>civil<br>jar<br>magnet<br>clean<br>change<br>powder |  
-| bip_39_word_new_br9 | corn<br>dragon<br>civil<br>jar<br>magnet<br>clean<br>change<br>powder<br>couch |  
-| bip_39_word_new_line1 | corn |  
-| bip_39_word_new_line10 | corn
+| bip_39_word_new_br_1 | corn |  
+| bip_39_word_new_br_10 | corn<br>dragon<br>civil<br>jar<br>magnet<br>clean<br>change<br>powder<br>couch<br>east |  
+| bip_39_word_new_br_11 | corn<br>dragon<br>civil<br>jar<br>magnet<br>clean<br>change<br>powder<br>couch<br>east<br>museum |  
+| bip_39_word_new_br_12 | corn<br>dragon<br>civil<br>jar<br>magnet<br>clean<br>change<br>powder<br>couch<br>east<br>museum<br>arctic |  
+| bip_39_word_new_br_2 | corn<br>dragon |  
+| bip_39_word_new_br_3 | corn<br>dragon<br>civil |  
+| bip_39_word_new_br_4 | corn<br>dragon<br>civil<br>jar |  
+| bip_39_word_new_br_5 | corn<br>dragon<br>civil<br>jar<br>magnet |  
+| bip_39_word_new_br_6 | corn<br>dragon<br>civil<br>jar<br>magnet<br>clean |  
+| bip_39_word_new_br_7 | corn<br>dragon<br>civil<br>jar<br>magnet<br>clean<br>change |  
+| bip_39_word_new_br_8 | corn<br>dragon<br>civil<br>jar<br>magnet<br>clean<br>change<br>powder |  
+| bip_39_word_new_br_9 | corn<br>dragon<br>civil<br>jar<br>magnet<br>clean<br>change<br>powder<br>couch |  
+| bip_39_word_new_line_1 | corn |  
+| bip_39_word_new_line_10 | corn
 dragon
 civil
 jar
@@ -55,7 +55,7 @@ change
 powder
 couch
 east |  
-| bip_39_word_new_line11 | corn
+| bip_39_word_new_line_11 | corn
 dragon
 civil
 jar
@@ -66,7 +66,7 @@ powder
 couch
 east
 museum |  
-| bip_39_word_new_line12 | corn
+| bip_39_word_new_line_12 | corn
 dragon
 civil
 jar
@@ -78,34 +78,34 @@ couch
 east
 museum
 arctic |  
-| bip_39_word_new_line2 | corn
+| bip_39_word_new_line_2 | corn
 dragon |  
-| bip_39_word_new_line3 | corn
+| bip_39_word_new_line_3 | corn
 dragon
 civil |  
-| bip_39_word_new_line4 | corn
+| bip_39_word_new_line_4 | corn
 dragon
 civil
 jar |  
-| bip_39_word_new_line5 | corn
+| bip_39_word_new_line_5 | corn
 dragon
 civil
 jar
 magnet |  
-| bip_39_word_new_line6 | corn
+| bip_39_word_new_line_6 | corn
 dragon
 civil
 jar
 magnet
 clean |  
-| bip_39_word_new_line7 | corn
+| bip_39_word_new_line_7 | corn
 dragon
 civil
 jar
 magnet
 clean
 change |  
-| bip_39_word_new_line8 | corn
+| bip_39_word_new_line_8 | corn
 dragon
 civil
 jar
@@ -113,7 +113,7 @@ magnet
 clean
 change
 powder |  
-| bip_39_word_new_line9 | corn
+| bip_39_word_new_line_9 | corn
 dragon
 civil
 jar

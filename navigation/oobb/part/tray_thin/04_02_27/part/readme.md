@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wagon |  
-| bip_39_word_new_br10 | wagon<br>share<br>stadium<br>tree<br>pigeon<br>tent<br>door<br>forward<br>chief<br>blue |  
-| bip_39_word_new_br11 | wagon<br>share<br>stadium<br>tree<br>pigeon<br>tent<br>door<br>forward<br>chief<br>blue<br>life |  
-| bip_39_word_new_br12 | wagon<br>share<br>stadium<br>tree<br>pigeon<br>tent<br>door<br>forward<br>chief<br>blue<br>life<br>amateur |  
-| bip_39_word_new_br2 | wagon<br>share |  
-| bip_39_word_new_br3 | wagon<br>share<br>stadium |  
-| bip_39_word_new_br4 | wagon<br>share<br>stadium<br>tree |  
-| bip_39_word_new_br5 | wagon<br>share<br>stadium<br>tree<br>pigeon |  
-| bip_39_word_new_br6 | wagon<br>share<br>stadium<br>tree<br>pigeon<br>tent |  
-| bip_39_word_new_br7 | wagon<br>share<br>stadium<br>tree<br>pigeon<br>tent<br>door |  
-| bip_39_word_new_br8 | wagon<br>share<br>stadium<br>tree<br>pigeon<br>tent<br>door<br>forward |  
-| bip_39_word_new_br9 | wagon<br>share<br>stadium<br>tree<br>pigeon<br>tent<br>door<br>forward<br>chief |  
-| bip_39_word_new_line1 | wagon |  
-| bip_39_word_new_line10 | wagon
+| bip_39_word_new_br_1 | wagon |  
+| bip_39_word_new_br_10 | wagon<br>share<br>stadium<br>tree<br>pigeon<br>tent<br>door<br>forward<br>chief<br>blue |  
+| bip_39_word_new_br_11 | wagon<br>share<br>stadium<br>tree<br>pigeon<br>tent<br>door<br>forward<br>chief<br>blue<br>life |  
+| bip_39_word_new_br_12 | wagon<br>share<br>stadium<br>tree<br>pigeon<br>tent<br>door<br>forward<br>chief<br>blue<br>life<br>amateur |  
+| bip_39_word_new_br_2 | wagon<br>share |  
+| bip_39_word_new_br_3 | wagon<br>share<br>stadium |  
+| bip_39_word_new_br_4 | wagon<br>share<br>stadium<br>tree |  
+| bip_39_word_new_br_5 | wagon<br>share<br>stadium<br>tree<br>pigeon |  
+| bip_39_word_new_br_6 | wagon<br>share<br>stadium<br>tree<br>pigeon<br>tent |  
+| bip_39_word_new_br_7 | wagon<br>share<br>stadium<br>tree<br>pigeon<br>tent<br>door |  
+| bip_39_word_new_br_8 | wagon<br>share<br>stadium<br>tree<br>pigeon<br>tent<br>door<br>forward |  
+| bip_39_word_new_br_9 | wagon<br>share<br>stadium<br>tree<br>pigeon<br>tent<br>door<br>forward<br>chief |  
+| bip_39_word_new_line_1 | wagon |  
+| bip_39_word_new_line_10 | wagon
 share
 stadium
 tree
@@ -55,7 +55,7 @@ door
 forward
 chief
 blue |  
-| bip_39_word_new_line11 | wagon
+| bip_39_word_new_line_11 | wagon
 share
 stadium
 tree
@@ -66,7 +66,7 @@ forward
 chief
 blue
 life |  
-| bip_39_word_new_line12 | wagon
+| bip_39_word_new_line_12 | wagon
 share
 stadium
 tree
@@ -78,34 +78,34 @@ chief
 blue
 life
 amateur |  
-| bip_39_word_new_line2 | wagon
+| bip_39_word_new_line_2 | wagon
 share |  
-| bip_39_word_new_line3 | wagon
+| bip_39_word_new_line_3 | wagon
 share
 stadium |  
-| bip_39_word_new_line4 | wagon
+| bip_39_word_new_line_4 | wagon
 share
 stadium
 tree |  
-| bip_39_word_new_line5 | wagon
+| bip_39_word_new_line_5 | wagon
 share
 stadium
 tree
 pigeon |  
-| bip_39_word_new_line6 | wagon
+| bip_39_word_new_line_6 | wagon
 share
 stadium
 tree
 pigeon
 tent |  
-| bip_39_word_new_line7 | wagon
+| bip_39_word_new_line_7 | wagon
 share
 stadium
 tree
 pigeon
 tent
 door |  
-| bip_39_word_new_line8 | wagon
+| bip_39_word_new_line_8 | wagon
 share
 stadium
 tree
@@ -113,7 +113,7 @@ pigeon
 tent
 door
 forward |  
-| bip_39_word_new_line9 | wagon
+| bip_39_word_new_line_9 | wagon
 share
 stadium
 tree

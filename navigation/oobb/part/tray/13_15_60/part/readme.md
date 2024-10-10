@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | excess |  
-| bip_39_word_new_br10 | excess<br>tree<br>alarm<br>once<br>error<br>half<br>dinosaur<br>uphold<br>garden<br>symptom |  
-| bip_39_word_new_br11 | excess<br>tree<br>alarm<br>once<br>error<br>half<br>dinosaur<br>uphold<br>garden<br>symptom<br>demise |  
-| bip_39_word_new_br12 | excess<br>tree<br>alarm<br>once<br>error<br>half<br>dinosaur<br>uphold<br>garden<br>symptom<br>demise<br>always |  
-| bip_39_word_new_br2 | excess<br>tree |  
-| bip_39_word_new_br3 | excess<br>tree<br>alarm |  
-| bip_39_word_new_br4 | excess<br>tree<br>alarm<br>once |  
-| bip_39_word_new_br5 | excess<br>tree<br>alarm<br>once<br>error |  
-| bip_39_word_new_br6 | excess<br>tree<br>alarm<br>once<br>error<br>half |  
-| bip_39_word_new_br7 | excess<br>tree<br>alarm<br>once<br>error<br>half<br>dinosaur |  
-| bip_39_word_new_br8 | excess<br>tree<br>alarm<br>once<br>error<br>half<br>dinosaur<br>uphold |  
-| bip_39_word_new_br9 | excess<br>tree<br>alarm<br>once<br>error<br>half<br>dinosaur<br>uphold<br>garden |  
-| bip_39_word_new_line1 | excess |  
-| bip_39_word_new_line10 | excess
+| bip_39_word_new_br_1 | excess |  
+| bip_39_word_new_br_10 | excess<br>tree<br>alarm<br>once<br>error<br>half<br>dinosaur<br>uphold<br>garden<br>symptom |  
+| bip_39_word_new_br_11 | excess<br>tree<br>alarm<br>once<br>error<br>half<br>dinosaur<br>uphold<br>garden<br>symptom<br>demise |  
+| bip_39_word_new_br_12 | excess<br>tree<br>alarm<br>once<br>error<br>half<br>dinosaur<br>uphold<br>garden<br>symptom<br>demise<br>always |  
+| bip_39_word_new_br_2 | excess<br>tree |  
+| bip_39_word_new_br_3 | excess<br>tree<br>alarm |  
+| bip_39_word_new_br_4 | excess<br>tree<br>alarm<br>once |  
+| bip_39_word_new_br_5 | excess<br>tree<br>alarm<br>once<br>error |  
+| bip_39_word_new_br_6 | excess<br>tree<br>alarm<br>once<br>error<br>half |  
+| bip_39_word_new_br_7 | excess<br>tree<br>alarm<br>once<br>error<br>half<br>dinosaur |  
+| bip_39_word_new_br_8 | excess<br>tree<br>alarm<br>once<br>error<br>half<br>dinosaur<br>uphold |  
+| bip_39_word_new_br_9 | excess<br>tree<br>alarm<br>once<br>error<br>half<br>dinosaur<br>uphold<br>garden |  
+| bip_39_word_new_line_1 | excess |  
+| bip_39_word_new_line_10 | excess
 tree
 alarm
 once
@@ -55,7 +55,7 @@ dinosaur
 uphold
 garden
 symptom |  
-| bip_39_word_new_line11 | excess
+| bip_39_word_new_line_11 | excess
 tree
 alarm
 once
@@ -66,7 +66,7 @@ uphold
 garden
 symptom
 demise |  
-| bip_39_word_new_line12 | excess
+| bip_39_word_new_line_12 | excess
 tree
 alarm
 once
@@ -78,34 +78,34 @@ garden
 symptom
 demise
 always |  
-| bip_39_word_new_line2 | excess
+| bip_39_word_new_line_2 | excess
 tree |  
-| bip_39_word_new_line3 | excess
+| bip_39_word_new_line_3 | excess
 tree
 alarm |  
-| bip_39_word_new_line4 | excess
+| bip_39_word_new_line_4 | excess
 tree
 alarm
 once |  
-| bip_39_word_new_line5 | excess
+| bip_39_word_new_line_5 | excess
 tree
 alarm
 once
 error |  
-| bip_39_word_new_line6 | excess
+| bip_39_word_new_line_6 | excess
 tree
 alarm
 once
 error
 half |  
-| bip_39_word_new_line7 | excess
+| bip_39_word_new_line_7 | excess
 tree
 alarm
 once
 error
 half
 dinosaur |  
-| bip_39_word_new_line8 | excess
+| bip_39_word_new_line_8 | excess
 tree
 alarm
 once
@@ -113,7 +113,7 @@ error
 half
 dinosaur
 uphold |  
-| bip_39_word_new_line9 | excess
+| bip_39_word_new_line_9 | excess
 tree
 alarm
 once

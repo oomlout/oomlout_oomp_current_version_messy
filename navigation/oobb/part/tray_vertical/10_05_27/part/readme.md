@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | diet |  
-| bip_39_word_new_br10 | diet<br>life<br>inner<br>noodle<br>rude<br>coyote<br>oil<br>horn<br>calm<br>riot |  
-| bip_39_word_new_br11 | diet<br>life<br>inner<br>noodle<br>rude<br>coyote<br>oil<br>horn<br>calm<br>riot<br>vehicle |  
-| bip_39_word_new_br12 | diet<br>life<br>inner<br>noodle<br>rude<br>coyote<br>oil<br>horn<br>calm<br>riot<br>vehicle<br>alter |  
-| bip_39_word_new_br2 | diet<br>life |  
-| bip_39_word_new_br3 | diet<br>life<br>inner |  
-| bip_39_word_new_br4 | diet<br>life<br>inner<br>noodle |  
-| bip_39_word_new_br5 | diet<br>life<br>inner<br>noodle<br>rude |  
-| bip_39_word_new_br6 | diet<br>life<br>inner<br>noodle<br>rude<br>coyote |  
-| bip_39_word_new_br7 | diet<br>life<br>inner<br>noodle<br>rude<br>coyote<br>oil |  
-| bip_39_word_new_br8 | diet<br>life<br>inner<br>noodle<br>rude<br>coyote<br>oil<br>horn |  
-| bip_39_word_new_br9 | diet<br>life<br>inner<br>noodle<br>rude<br>coyote<br>oil<br>horn<br>calm |  
-| bip_39_word_new_line1 | diet |  
-| bip_39_word_new_line10 | diet
+| bip_39_word_new_br_1 | diet |  
+| bip_39_word_new_br_10 | diet<br>life<br>inner<br>noodle<br>rude<br>coyote<br>oil<br>horn<br>calm<br>riot |  
+| bip_39_word_new_br_11 | diet<br>life<br>inner<br>noodle<br>rude<br>coyote<br>oil<br>horn<br>calm<br>riot<br>vehicle |  
+| bip_39_word_new_br_12 | diet<br>life<br>inner<br>noodle<br>rude<br>coyote<br>oil<br>horn<br>calm<br>riot<br>vehicle<br>alter |  
+| bip_39_word_new_br_2 | diet<br>life |  
+| bip_39_word_new_br_3 | diet<br>life<br>inner |  
+| bip_39_word_new_br_4 | diet<br>life<br>inner<br>noodle |  
+| bip_39_word_new_br_5 | diet<br>life<br>inner<br>noodle<br>rude |  
+| bip_39_word_new_br_6 | diet<br>life<br>inner<br>noodle<br>rude<br>coyote |  
+| bip_39_word_new_br_7 | diet<br>life<br>inner<br>noodle<br>rude<br>coyote<br>oil |  
+| bip_39_word_new_br_8 | diet<br>life<br>inner<br>noodle<br>rude<br>coyote<br>oil<br>horn |  
+| bip_39_word_new_br_9 | diet<br>life<br>inner<br>noodle<br>rude<br>coyote<br>oil<br>horn<br>calm |  
+| bip_39_word_new_line_1 | diet |  
+| bip_39_word_new_line_10 | diet
 life
 inner
 noodle
@@ -55,7 +55,7 @@ oil
 horn
 calm
 riot |  
-| bip_39_word_new_line11 | diet
+| bip_39_word_new_line_11 | diet
 life
 inner
 noodle
@@ -66,7 +66,7 @@ horn
 calm
 riot
 vehicle |  
-| bip_39_word_new_line12 | diet
+| bip_39_word_new_line_12 | diet
 life
 inner
 noodle
@@ -78,34 +78,34 @@ calm
 riot
 vehicle
 alter |  
-| bip_39_word_new_line2 | diet
+| bip_39_word_new_line_2 | diet
 life |  
-| bip_39_word_new_line3 | diet
+| bip_39_word_new_line_3 | diet
 life
 inner |  
-| bip_39_word_new_line4 | diet
+| bip_39_word_new_line_4 | diet
 life
 inner
 noodle |  
-| bip_39_word_new_line5 | diet
+| bip_39_word_new_line_5 | diet
 life
 inner
 noodle
 rude |  
-| bip_39_word_new_line6 | diet
+| bip_39_word_new_line_6 | diet
 life
 inner
 noodle
 rude
 coyote |  
-| bip_39_word_new_line7 | diet
+| bip_39_word_new_line_7 | diet
 life
 inner
 noodle
 rude
 coyote
 oil |  
-| bip_39_word_new_line8 | diet
+| bip_39_word_new_line_8 | diet
 life
 inner
 noodle
@@ -113,7 +113,7 @@ rude
 coyote
 oil
 horn |  
-| bip_39_word_new_line9 | diet
+| bip_39_word_new_line_9 | diet
 life
 inner
 noodle

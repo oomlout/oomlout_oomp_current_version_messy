@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ordinary |  
-| bip_39_word_new_br10 | ordinary<br>input<br>toy<br>marriage<br>similar<br>verify<br>ladder<br>bomb<br>energy<br>setup |  
-| bip_39_word_new_br11 | ordinary<br>input<br>toy<br>marriage<br>similar<br>verify<br>ladder<br>bomb<br>energy<br>setup<br>tissue |  
-| bip_39_word_new_br12 | ordinary<br>input<br>toy<br>marriage<br>similar<br>verify<br>ladder<br>bomb<br>energy<br>setup<br>tissue<br>attack |  
-| bip_39_word_new_br2 | ordinary<br>input |  
-| bip_39_word_new_br3 | ordinary<br>input<br>toy |  
-| bip_39_word_new_br4 | ordinary<br>input<br>toy<br>marriage |  
-| bip_39_word_new_br5 | ordinary<br>input<br>toy<br>marriage<br>similar |  
-| bip_39_word_new_br6 | ordinary<br>input<br>toy<br>marriage<br>similar<br>verify |  
-| bip_39_word_new_br7 | ordinary<br>input<br>toy<br>marriage<br>similar<br>verify<br>ladder |  
-| bip_39_word_new_br8 | ordinary<br>input<br>toy<br>marriage<br>similar<br>verify<br>ladder<br>bomb |  
-| bip_39_word_new_br9 | ordinary<br>input<br>toy<br>marriage<br>similar<br>verify<br>ladder<br>bomb<br>energy |  
-| bip_39_word_new_line1 | ordinary |  
-| bip_39_word_new_line10 | ordinary
+| bip_39_word_new_br_1 | ordinary |  
+| bip_39_word_new_br_10 | ordinary<br>input<br>toy<br>marriage<br>similar<br>verify<br>ladder<br>bomb<br>energy<br>setup |  
+| bip_39_word_new_br_11 | ordinary<br>input<br>toy<br>marriage<br>similar<br>verify<br>ladder<br>bomb<br>energy<br>setup<br>tissue |  
+| bip_39_word_new_br_12 | ordinary<br>input<br>toy<br>marriage<br>similar<br>verify<br>ladder<br>bomb<br>energy<br>setup<br>tissue<br>attack |  
+| bip_39_word_new_br_2 | ordinary<br>input |  
+| bip_39_word_new_br_3 | ordinary<br>input<br>toy |  
+| bip_39_word_new_br_4 | ordinary<br>input<br>toy<br>marriage |  
+| bip_39_word_new_br_5 | ordinary<br>input<br>toy<br>marriage<br>similar |  
+| bip_39_word_new_br_6 | ordinary<br>input<br>toy<br>marriage<br>similar<br>verify |  
+| bip_39_word_new_br_7 | ordinary<br>input<br>toy<br>marriage<br>similar<br>verify<br>ladder |  
+| bip_39_word_new_br_8 | ordinary<br>input<br>toy<br>marriage<br>similar<br>verify<br>ladder<br>bomb |  
+| bip_39_word_new_br_9 | ordinary<br>input<br>toy<br>marriage<br>similar<br>verify<br>ladder<br>bomb<br>energy |  
+| bip_39_word_new_line_1 | ordinary |  
+| bip_39_word_new_line_10 | ordinary
 input
 toy
 marriage
@@ -55,7 +55,7 @@ ladder
 bomb
 energy
 setup |  
-| bip_39_word_new_line11 | ordinary
+| bip_39_word_new_line_11 | ordinary
 input
 toy
 marriage
@@ -66,7 +66,7 @@ bomb
 energy
 setup
 tissue |  
-| bip_39_word_new_line12 | ordinary
+| bip_39_word_new_line_12 | ordinary
 input
 toy
 marriage
@@ -78,34 +78,34 @@ energy
 setup
 tissue
 attack |  
-| bip_39_word_new_line2 | ordinary
+| bip_39_word_new_line_2 | ordinary
 input |  
-| bip_39_word_new_line3 | ordinary
+| bip_39_word_new_line_3 | ordinary
 input
 toy |  
-| bip_39_word_new_line4 | ordinary
+| bip_39_word_new_line_4 | ordinary
 input
 toy
 marriage |  
-| bip_39_word_new_line5 | ordinary
+| bip_39_word_new_line_5 | ordinary
 input
 toy
 marriage
 similar |  
-| bip_39_word_new_line6 | ordinary
+| bip_39_word_new_line_6 | ordinary
 input
 toy
 marriage
 similar
 verify |  
-| bip_39_word_new_line7 | ordinary
+| bip_39_word_new_line_7 | ordinary
 input
 toy
 marriage
 similar
 verify
 ladder |  
-| bip_39_word_new_line8 | ordinary
+| bip_39_word_new_line_8 | ordinary
 input
 toy
 marriage
@@ -113,7 +113,7 @@ similar
 verify
 ladder
 bomb |  
-| bip_39_word_new_line9 | ordinary
+| bip_39_word_new_line_9 | ordinary
 input
 toy
 marriage

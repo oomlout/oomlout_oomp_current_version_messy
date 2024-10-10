@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | spare |  
-| bip_39_word_new_br10 | spare<br>myth<br>term<br>blanket<br>ribbon<br>rule<br>chair<br>picture<br>undo<br>antenna |  
-| bip_39_word_new_br11 | spare<br>myth<br>term<br>blanket<br>ribbon<br>rule<br>chair<br>picture<br>undo<br>antenna<br>hope |  
-| bip_39_word_new_br12 | spare<br>myth<br>term<br>blanket<br>ribbon<br>rule<br>chair<br>picture<br>undo<br>antenna<br>hope<br>amazing |  
-| bip_39_word_new_br2 | spare<br>myth |  
-| bip_39_word_new_br3 | spare<br>myth<br>term |  
-| bip_39_word_new_br4 | spare<br>myth<br>term<br>blanket |  
-| bip_39_word_new_br5 | spare<br>myth<br>term<br>blanket<br>ribbon |  
-| bip_39_word_new_br6 | spare<br>myth<br>term<br>blanket<br>ribbon<br>rule |  
-| bip_39_word_new_br7 | spare<br>myth<br>term<br>blanket<br>ribbon<br>rule<br>chair |  
-| bip_39_word_new_br8 | spare<br>myth<br>term<br>blanket<br>ribbon<br>rule<br>chair<br>picture |  
-| bip_39_word_new_br9 | spare<br>myth<br>term<br>blanket<br>ribbon<br>rule<br>chair<br>picture<br>undo |  
-| bip_39_word_new_line1 | spare |  
-| bip_39_word_new_line10 | spare
+| bip_39_word_new_br_1 | spare |  
+| bip_39_word_new_br_10 | spare<br>myth<br>term<br>blanket<br>ribbon<br>rule<br>chair<br>picture<br>undo<br>antenna |  
+| bip_39_word_new_br_11 | spare<br>myth<br>term<br>blanket<br>ribbon<br>rule<br>chair<br>picture<br>undo<br>antenna<br>hope |  
+| bip_39_word_new_br_12 | spare<br>myth<br>term<br>blanket<br>ribbon<br>rule<br>chair<br>picture<br>undo<br>antenna<br>hope<br>amazing |  
+| bip_39_word_new_br_2 | spare<br>myth |  
+| bip_39_word_new_br_3 | spare<br>myth<br>term |  
+| bip_39_word_new_br_4 | spare<br>myth<br>term<br>blanket |  
+| bip_39_word_new_br_5 | spare<br>myth<br>term<br>blanket<br>ribbon |  
+| bip_39_word_new_br_6 | spare<br>myth<br>term<br>blanket<br>ribbon<br>rule |  
+| bip_39_word_new_br_7 | spare<br>myth<br>term<br>blanket<br>ribbon<br>rule<br>chair |  
+| bip_39_word_new_br_8 | spare<br>myth<br>term<br>blanket<br>ribbon<br>rule<br>chair<br>picture |  
+| bip_39_word_new_br_9 | spare<br>myth<br>term<br>blanket<br>ribbon<br>rule<br>chair<br>picture<br>undo |  
+| bip_39_word_new_line_1 | spare |  
+| bip_39_word_new_line_10 | spare
 myth
 term
 blanket
@@ -55,7 +55,7 @@ chair
 picture
 undo
 antenna |  
-| bip_39_word_new_line11 | spare
+| bip_39_word_new_line_11 | spare
 myth
 term
 blanket
@@ -66,7 +66,7 @@ picture
 undo
 antenna
 hope |  
-| bip_39_word_new_line12 | spare
+| bip_39_word_new_line_12 | spare
 myth
 term
 blanket
@@ -78,34 +78,34 @@ undo
 antenna
 hope
 amazing |  
-| bip_39_word_new_line2 | spare
+| bip_39_word_new_line_2 | spare
 myth |  
-| bip_39_word_new_line3 | spare
+| bip_39_word_new_line_3 | spare
 myth
 term |  
-| bip_39_word_new_line4 | spare
+| bip_39_word_new_line_4 | spare
 myth
 term
 blanket |  
-| bip_39_word_new_line5 | spare
+| bip_39_word_new_line_5 | spare
 myth
 term
 blanket
 ribbon |  
-| bip_39_word_new_line6 | spare
+| bip_39_word_new_line_6 | spare
 myth
 term
 blanket
 ribbon
 rule |  
-| bip_39_word_new_line7 | spare
+| bip_39_word_new_line_7 | spare
 myth
 term
 blanket
 ribbon
 rule
 chair |  
-| bip_39_word_new_line8 | spare
+| bip_39_word_new_line_8 | spare
 myth
 term
 blanket
@@ -113,7 +113,7 @@ ribbon
 rule
 chair
 picture |  
-| bip_39_word_new_line9 | spare
+| bip_39_word_new_line_9 | spare
 myth
 term
 blanket

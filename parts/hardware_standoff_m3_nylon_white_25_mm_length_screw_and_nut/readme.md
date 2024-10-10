@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | degree |  
-| bip_39_word_new_br10 | degree<br>inquiry<br>ready<br>radio<br>grab<br>april<br>romance<br>creek<br>crunch<br>kite |  
-| bip_39_word_new_br11 | degree<br>inquiry<br>ready<br>radio<br>grab<br>april<br>romance<br>creek<br>crunch<br>kite<br>certain |  
-| bip_39_word_new_br12 | degree<br>inquiry<br>ready<br>radio<br>grab<br>april<br>romance<br>creek<br>crunch<br>kite<br>certain<br>acid |  
-| bip_39_word_new_br2 | degree<br>inquiry |  
-| bip_39_word_new_br3 | degree<br>inquiry<br>ready |  
-| bip_39_word_new_br4 | degree<br>inquiry<br>ready<br>radio |  
-| bip_39_word_new_br5 | degree<br>inquiry<br>ready<br>radio<br>grab |  
-| bip_39_word_new_br6 | degree<br>inquiry<br>ready<br>radio<br>grab<br>april |  
-| bip_39_word_new_br7 | degree<br>inquiry<br>ready<br>radio<br>grab<br>april<br>romance |  
-| bip_39_word_new_br8 | degree<br>inquiry<br>ready<br>radio<br>grab<br>april<br>romance<br>creek |  
-| bip_39_word_new_br9 | degree<br>inquiry<br>ready<br>radio<br>grab<br>april<br>romance<br>creek<br>crunch |  
-| bip_39_word_new_line1 | degree |  
-| bip_39_word_new_line10 | degree
+| bip_39_word_new_br_1 | degree |  
+| bip_39_word_new_br_10 | degree<br>inquiry<br>ready<br>radio<br>grab<br>april<br>romance<br>creek<br>crunch<br>kite |  
+| bip_39_word_new_br_11 | degree<br>inquiry<br>ready<br>radio<br>grab<br>april<br>romance<br>creek<br>crunch<br>kite<br>certain |  
+| bip_39_word_new_br_12 | degree<br>inquiry<br>ready<br>radio<br>grab<br>april<br>romance<br>creek<br>crunch<br>kite<br>certain<br>acid |  
+| bip_39_word_new_br_2 | degree<br>inquiry |  
+| bip_39_word_new_br_3 | degree<br>inquiry<br>ready |  
+| bip_39_word_new_br_4 | degree<br>inquiry<br>ready<br>radio |  
+| bip_39_word_new_br_5 | degree<br>inquiry<br>ready<br>radio<br>grab |  
+| bip_39_word_new_br_6 | degree<br>inquiry<br>ready<br>radio<br>grab<br>april |  
+| bip_39_word_new_br_7 | degree<br>inquiry<br>ready<br>radio<br>grab<br>april<br>romance |  
+| bip_39_word_new_br_8 | degree<br>inquiry<br>ready<br>radio<br>grab<br>april<br>romance<br>creek |  
+| bip_39_word_new_br_9 | degree<br>inquiry<br>ready<br>radio<br>grab<br>april<br>romance<br>creek<br>crunch |  
+| bip_39_word_new_line_1 | degree |  
+| bip_39_word_new_line_10 | degree
 inquiry
 ready
 radio
@@ -55,7 +55,7 @@ romance
 creek
 crunch
 kite |  
-| bip_39_word_new_line11 | degree
+| bip_39_word_new_line_11 | degree
 inquiry
 ready
 radio
@@ -66,7 +66,7 @@ creek
 crunch
 kite
 certain |  
-| bip_39_word_new_line12 | degree
+| bip_39_word_new_line_12 | degree
 inquiry
 ready
 radio
@@ -78,34 +78,34 @@ crunch
 kite
 certain
 acid |  
-| bip_39_word_new_line2 | degree
+| bip_39_word_new_line_2 | degree
 inquiry |  
-| bip_39_word_new_line3 | degree
+| bip_39_word_new_line_3 | degree
 inquiry
 ready |  
-| bip_39_word_new_line4 | degree
+| bip_39_word_new_line_4 | degree
 inquiry
 ready
 radio |  
-| bip_39_word_new_line5 | degree
+| bip_39_word_new_line_5 | degree
 inquiry
 ready
 radio
 grab |  
-| bip_39_word_new_line6 | degree
+| bip_39_word_new_line_6 | degree
 inquiry
 ready
 radio
 grab
 april |  
-| bip_39_word_new_line7 | degree
+| bip_39_word_new_line_7 | degree
 inquiry
 ready
 radio
 grab
 april
 romance |  
-| bip_39_word_new_line8 | degree
+| bip_39_word_new_line_8 | degree
 inquiry
 ready
 radio
@@ -113,7 +113,7 @@ grab
 april
 romance
 creek |  
-| bip_39_word_new_line9 | degree
+| bip_39_word_new_line_9 | degree
 inquiry
 ready
 radio

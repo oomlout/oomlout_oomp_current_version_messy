@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | source |  
-| bip_39_word_new_br10 | source<br>input<br>remain<br>flash<br>try<br>surge<br>shrimp<br>rebel<br>access<br>frequent |  
-| bip_39_word_new_br11 | source<br>input<br>remain<br>flash<br>try<br>surge<br>shrimp<br>rebel<br>access<br>frequent<br>attract |  
-| bip_39_word_new_br12 | source<br>input<br>remain<br>flash<br>try<br>surge<br>shrimp<br>rebel<br>access<br>frequent<br>attract<br>advance |  
-| bip_39_word_new_br2 | source<br>input |  
-| bip_39_word_new_br3 | source<br>input<br>remain |  
-| bip_39_word_new_br4 | source<br>input<br>remain<br>flash |  
-| bip_39_word_new_br5 | source<br>input<br>remain<br>flash<br>try |  
-| bip_39_word_new_br6 | source<br>input<br>remain<br>flash<br>try<br>surge |  
-| bip_39_word_new_br7 | source<br>input<br>remain<br>flash<br>try<br>surge<br>shrimp |  
-| bip_39_word_new_br8 | source<br>input<br>remain<br>flash<br>try<br>surge<br>shrimp<br>rebel |  
-| bip_39_word_new_br9 | source<br>input<br>remain<br>flash<br>try<br>surge<br>shrimp<br>rebel<br>access |  
-| bip_39_word_new_line1 | source |  
-| bip_39_word_new_line10 | source
+| bip_39_word_new_br_1 | source |  
+| bip_39_word_new_br_10 | source<br>input<br>remain<br>flash<br>try<br>surge<br>shrimp<br>rebel<br>access<br>frequent |  
+| bip_39_word_new_br_11 | source<br>input<br>remain<br>flash<br>try<br>surge<br>shrimp<br>rebel<br>access<br>frequent<br>attract |  
+| bip_39_word_new_br_12 | source<br>input<br>remain<br>flash<br>try<br>surge<br>shrimp<br>rebel<br>access<br>frequent<br>attract<br>advance |  
+| bip_39_word_new_br_2 | source<br>input |  
+| bip_39_word_new_br_3 | source<br>input<br>remain |  
+| bip_39_word_new_br_4 | source<br>input<br>remain<br>flash |  
+| bip_39_word_new_br_5 | source<br>input<br>remain<br>flash<br>try |  
+| bip_39_word_new_br_6 | source<br>input<br>remain<br>flash<br>try<br>surge |  
+| bip_39_word_new_br_7 | source<br>input<br>remain<br>flash<br>try<br>surge<br>shrimp |  
+| bip_39_word_new_br_8 | source<br>input<br>remain<br>flash<br>try<br>surge<br>shrimp<br>rebel |  
+| bip_39_word_new_br_9 | source<br>input<br>remain<br>flash<br>try<br>surge<br>shrimp<br>rebel<br>access |  
+| bip_39_word_new_line_1 | source |  
+| bip_39_word_new_line_10 | source
 input
 remain
 flash
@@ -55,7 +55,7 @@ shrimp
 rebel
 access
 frequent |  
-| bip_39_word_new_line11 | source
+| bip_39_word_new_line_11 | source
 input
 remain
 flash
@@ -66,7 +66,7 @@ rebel
 access
 frequent
 attract |  
-| bip_39_word_new_line12 | source
+| bip_39_word_new_line_12 | source
 input
 remain
 flash
@@ -78,34 +78,34 @@ access
 frequent
 attract
 advance |  
-| bip_39_word_new_line2 | source
+| bip_39_word_new_line_2 | source
 input |  
-| bip_39_word_new_line3 | source
+| bip_39_word_new_line_3 | source
 input
 remain |  
-| bip_39_word_new_line4 | source
+| bip_39_word_new_line_4 | source
 input
 remain
 flash |  
-| bip_39_word_new_line5 | source
+| bip_39_word_new_line_5 | source
 input
 remain
 flash
 try |  
-| bip_39_word_new_line6 | source
+| bip_39_word_new_line_6 | source
 input
 remain
 flash
 try
 surge |  
-| bip_39_word_new_line7 | source
+| bip_39_word_new_line_7 | source
 input
 remain
 flash
 try
 surge
 shrimp |  
-| bip_39_word_new_line8 | source
+| bip_39_word_new_line_8 | source
 input
 remain
 flash
@@ -113,7 +113,7 @@ try
 surge
 shrimp
 rebel |  
-| bip_39_word_new_line9 | source
+| bip_39_word_new_line_9 | source
 input
 remain
 flash

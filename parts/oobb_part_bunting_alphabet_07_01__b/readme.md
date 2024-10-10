@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | reflect |  
-| bip_39_word_new_br10 | reflect<br>box<br>milk<br>lumber<br>nephew<br>detect<br>paddle<br>tomato<br>select<br>orchard |  
-| bip_39_word_new_br11 | reflect<br>box<br>milk<br>lumber<br>nephew<br>detect<br>paddle<br>tomato<br>select<br>orchard<br>weird |  
-| bip_39_word_new_br12 | reflect<br>box<br>milk<br>lumber<br>nephew<br>detect<br>paddle<br>tomato<br>select<br>orchard<br>weird<br>alert |  
-| bip_39_word_new_br2 | reflect<br>box |  
-| bip_39_word_new_br3 | reflect<br>box<br>milk |  
-| bip_39_word_new_br4 | reflect<br>box<br>milk<br>lumber |  
-| bip_39_word_new_br5 | reflect<br>box<br>milk<br>lumber<br>nephew |  
-| bip_39_word_new_br6 | reflect<br>box<br>milk<br>lumber<br>nephew<br>detect |  
-| bip_39_word_new_br7 | reflect<br>box<br>milk<br>lumber<br>nephew<br>detect<br>paddle |  
-| bip_39_word_new_br8 | reflect<br>box<br>milk<br>lumber<br>nephew<br>detect<br>paddle<br>tomato |  
-| bip_39_word_new_br9 | reflect<br>box<br>milk<br>lumber<br>nephew<br>detect<br>paddle<br>tomato<br>select |  
-| bip_39_word_new_line1 | reflect |  
-| bip_39_word_new_line10 | reflect
+| bip_39_word_new_br_1 | reflect |  
+| bip_39_word_new_br_10 | reflect<br>box<br>milk<br>lumber<br>nephew<br>detect<br>paddle<br>tomato<br>select<br>orchard |  
+| bip_39_word_new_br_11 | reflect<br>box<br>milk<br>lumber<br>nephew<br>detect<br>paddle<br>tomato<br>select<br>orchard<br>weird |  
+| bip_39_word_new_br_12 | reflect<br>box<br>milk<br>lumber<br>nephew<br>detect<br>paddle<br>tomato<br>select<br>orchard<br>weird<br>alert |  
+| bip_39_word_new_br_2 | reflect<br>box |  
+| bip_39_word_new_br_3 | reflect<br>box<br>milk |  
+| bip_39_word_new_br_4 | reflect<br>box<br>milk<br>lumber |  
+| bip_39_word_new_br_5 | reflect<br>box<br>milk<br>lumber<br>nephew |  
+| bip_39_word_new_br_6 | reflect<br>box<br>milk<br>lumber<br>nephew<br>detect |  
+| bip_39_word_new_br_7 | reflect<br>box<br>milk<br>lumber<br>nephew<br>detect<br>paddle |  
+| bip_39_word_new_br_8 | reflect<br>box<br>milk<br>lumber<br>nephew<br>detect<br>paddle<br>tomato |  
+| bip_39_word_new_br_9 | reflect<br>box<br>milk<br>lumber<br>nephew<br>detect<br>paddle<br>tomato<br>select |  
+| bip_39_word_new_line_1 | reflect |  
+| bip_39_word_new_line_10 | reflect
 box
 milk
 lumber
@@ -55,7 +55,7 @@ paddle
 tomato
 select
 orchard |  
-| bip_39_word_new_line11 | reflect
+| bip_39_word_new_line_11 | reflect
 box
 milk
 lumber
@@ -66,7 +66,7 @@ tomato
 select
 orchard
 weird |  
-| bip_39_word_new_line12 | reflect
+| bip_39_word_new_line_12 | reflect
 box
 milk
 lumber
@@ -78,34 +78,34 @@ select
 orchard
 weird
 alert |  
-| bip_39_word_new_line2 | reflect
+| bip_39_word_new_line_2 | reflect
 box |  
-| bip_39_word_new_line3 | reflect
+| bip_39_word_new_line_3 | reflect
 box
 milk |  
-| bip_39_word_new_line4 | reflect
+| bip_39_word_new_line_4 | reflect
 box
 milk
 lumber |  
-| bip_39_word_new_line5 | reflect
+| bip_39_word_new_line_5 | reflect
 box
 milk
 lumber
 nephew |  
-| bip_39_word_new_line6 | reflect
+| bip_39_word_new_line_6 | reflect
 box
 milk
 lumber
 nephew
 detect |  
-| bip_39_word_new_line7 | reflect
+| bip_39_word_new_line_7 | reflect
 box
 milk
 lumber
 nephew
 detect
 paddle |  
-| bip_39_word_new_line8 | reflect
+| bip_39_word_new_line_8 | reflect
 box
 milk
 lumber
@@ -113,7 +113,7 @@ nephew
 detect
 paddle
 tomato |  
-| bip_39_word_new_line9 | reflect
+| bip_39_word_new_line_9 | reflect
 box
 milk
 lumber

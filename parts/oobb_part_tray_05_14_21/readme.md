@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cook |  
-| bip_39_word_new_br10 | cook<br>search<br>ice<br>wise<br>kingdom<br>turkey<br>wheel<br>oven<br>symptom<br>milk |  
-| bip_39_word_new_br11 | cook<br>search<br>ice<br>wise<br>kingdom<br>turkey<br>wheel<br>oven<br>symptom<br>milk<br>athlete |  
-| bip_39_word_new_br12 | cook<br>search<br>ice<br>wise<br>kingdom<br>turkey<br>wheel<br>oven<br>symptom<br>milk<br>athlete<br>afraid |  
-| bip_39_word_new_br2 | cook<br>search |  
-| bip_39_word_new_br3 | cook<br>search<br>ice |  
-| bip_39_word_new_br4 | cook<br>search<br>ice<br>wise |  
-| bip_39_word_new_br5 | cook<br>search<br>ice<br>wise<br>kingdom |  
-| bip_39_word_new_br6 | cook<br>search<br>ice<br>wise<br>kingdom<br>turkey |  
-| bip_39_word_new_br7 | cook<br>search<br>ice<br>wise<br>kingdom<br>turkey<br>wheel |  
-| bip_39_word_new_br8 | cook<br>search<br>ice<br>wise<br>kingdom<br>turkey<br>wheel<br>oven |  
-| bip_39_word_new_br9 | cook<br>search<br>ice<br>wise<br>kingdom<br>turkey<br>wheel<br>oven<br>symptom |  
-| bip_39_word_new_line1 | cook |  
-| bip_39_word_new_line10 | cook
+| bip_39_word_new_br_1 | cook |  
+| bip_39_word_new_br_10 | cook<br>search<br>ice<br>wise<br>kingdom<br>turkey<br>wheel<br>oven<br>symptom<br>milk |  
+| bip_39_word_new_br_11 | cook<br>search<br>ice<br>wise<br>kingdom<br>turkey<br>wheel<br>oven<br>symptom<br>milk<br>athlete |  
+| bip_39_word_new_br_12 | cook<br>search<br>ice<br>wise<br>kingdom<br>turkey<br>wheel<br>oven<br>symptom<br>milk<br>athlete<br>afraid |  
+| bip_39_word_new_br_2 | cook<br>search |  
+| bip_39_word_new_br_3 | cook<br>search<br>ice |  
+| bip_39_word_new_br_4 | cook<br>search<br>ice<br>wise |  
+| bip_39_word_new_br_5 | cook<br>search<br>ice<br>wise<br>kingdom |  
+| bip_39_word_new_br_6 | cook<br>search<br>ice<br>wise<br>kingdom<br>turkey |  
+| bip_39_word_new_br_7 | cook<br>search<br>ice<br>wise<br>kingdom<br>turkey<br>wheel |  
+| bip_39_word_new_br_8 | cook<br>search<br>ice<br>wise<br>kingdom<br>turkey<br>wheel<br>oven |  
+| bip_39_word_new_br_9 | cook<br>search<br>ice<br>wise<br>kingdom<br>turkey<br>wheel<br>oven<br>symptom |  
+| bip_39_word_new_line_1 | cook |  
+| bip_39_word_new_line_10 | cook
 search
 ice
 wise
@@ -55,7 +55,7 @@ wheel
 oven
 symptom
 milk |  
-| bip_39_word_new_line11 | cook
+| bip_39_word_new_line_11 | cook
 search
 ice
 wise
@@ -66,7 +66,7 @@ oven
 symptom
 milk
 athlete |  
-| bip_39_word_new_line12 | cook
+| bip_39_word_new_line_12 | cook
 search
 ice
 wise
@@ -78,34 +78,34 @@ symptom
 milk
 athlete
 afraid |  
-| bip_39_word_new_line2 | cook
+| bip_39_word_new_line_2 | cook
 search |  
-| bip_39_word_new_line3 | cook
+| bip_39_word_new_line_3 | cook
 search
 ice |  
-| bip_39_word_new_line4 | cook
+| bip_39_word_new_line_4 | cook
 search
 ice
 wise |  
-| bip_39_word_new_line5 | cook
+| bip_39_word_new_line_5 | cook
 search
 ice
 wise
 kingdom |  
-| bip_39_word_new_line6 | cook
+| bip_39_word_new_line_6 | cook
 search
 ice
 wise
 kingdom
 turkey |  
-| bip_39_word_new_line7 | cook
+| bip_39_word_new_line_7 | cook
 search
 ice
 wise
 kingdom
 turkey
 wheel |  
-| bip_39_word_new_line8 | cook
+| bip_39_word_new_line_8 | cook
 search
 ice
 wise
@@ -113,7 +113,7 @@ kingdom
 turkey
 wheel
 oven |  
-| bip_39_word_new_line9 | cook
+| bip_39_word_new_line_9 | cook
 search
 ice
 wise

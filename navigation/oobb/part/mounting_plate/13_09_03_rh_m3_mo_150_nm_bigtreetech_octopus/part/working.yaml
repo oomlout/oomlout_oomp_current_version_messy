@@ -1,17 +1,17 @@
-bip_39_word_new_br1: abuse
-bip_39_word_new_br10: abuse<br>grass<br>volcano<br>clever<br>unit<br>badge<br>bullet<br>false<br>that<br>garden
-bip_39_word_new_br11: abuse<br>grass<br>volcano<br>clever<br>unit<br>badge<br>bullet<br>false<br>that<br>garden<br>name
-bip_39_word_new_br12: abuse<br>grass<br>volcano<br>clever<br>unit<br>badge<br>bullet<br>false<br>that<br>garden<br>name<br>arch
-bip_39_word_new_br2: abuse<br>grass
-bip_39_word_new_br3: abuse<br>grass<br>volcano
-bip_39_word_new_br4: abuse<br>grass<br>volcano<br>clever
-bip_39_word_new_br5: abuse<br>grass<br>volcano<br>clever<br>unit
-bip_39_word_new_br6: abuse<br>grass<br>volcano<br>clever<br>unit<br>badge
-bip_39_word_new_br7: abuse<br>grass<br>volcano<br>clever<br>unit<br>badge<br>bullet
-bip_39_word_new_br8: abuse<br>grass<br>volcano<br>clever<br>unit<br>badge<br>bullet<br>false
-bip_39_word_new_br9: abuse<br>grass<br>volcano<br>clever<br>unit<br>badge<br>bullet<br>false<br>that
-bip_39_word_new_line1: abuse
-bip_39_word_new_line10: 'abuse
+bip_39_word_new_br_1: abuse
+bip_39_word_new_br_10: abuse<br>grass<br>volcano<br>clever<br>unit<br>badge<br>bullet<br>false<br>that<br>garden
+bip_39_word_new_br_11: abuse<br>grass<br>volcano<br>clever<br>unit<br>badge<br>bullet<br>false<br>that<br>garden<br>name
+bip_39_word_new_br_12: abuse<br>grass<br>volcano<br>clever<br>unit<br>badge<br>bullet<br>false<br>that<br>garden<br>name<br>arch
+bip_39_word_new_br_2: abuse<br>grass
+bip_39_word_new_br_3: abuse<br>grass<br>volcano
+bip_39_word_new_br_4: abuse<br>grass<br>volcano<br>clever
+bip_39_word_new_br_5: abuse<br>grass<br>volcano<br>clever<br>unit
+bip_39_word_new_br_6: abuse<br>grass<br>volcano<br>clever<br>unit<br>badge
+bip_39_word_new_br_7: abuse<br>grass<br>volcano<br>clever<br>unit<br>badge<br>bullet
+bip_39_word_new_br_8: abuse<br>grass<br>volcano<br>clever<br>unit<br>badge<br>bullet<br>false
+bip_39_word_new_br_9: abuse<br>grass<br>volcano<br>clever<br>unit<br>badge<br>bullet<br>false<br>that
+bip_39_word_new_line_1: abuse
+bip_39_word_new_line_10: 'abuse
 
   grass
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'abuse
   that
 
   garden'
-bip_39_word_new_line11: 'abuse
+bip_39_word_new_line_11: 'abuse
 
   grass
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'abuse
   garden
 
   name'
-bip_39_word_new_line12: 'abuse
+bip_39_word_new_line_12: 'abuse
 
   grass
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'abuse
   name
 
   arch'
-bip_39_word_new_line2: 'abuse
+bip_39_word_new_line_2: 'abuse
 
   grass'
-bip_39_word_new_line3: 'abuse
+bip_39_word_new_line_3: 'abuse
 
   grass
 
   volcano'
-bip_39_word_new_line4: 'abuse
+bip_39_word_new_line_4: 'abuse
 
   grass
 
   volcano
 
   clever'
-bip_39_word_new_line5: 'abuse
+bip_39_word_new_line_5: 'abuse
 
   grass
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'abuse
   clever
 
   unit'
-bip_39_word_new_line6: 'abuse
+bip_39_word_new_line_6: 'abuse
 
   grass
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'abuse
   unit
 
   badge'
-bip_39_word_new_line7: 'abuse
+bip_39_word_new_line_7: 'abuse
 
   grass
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'abuse
   badge
 
   bullet'
-bip_39_word_new_line8: 'abuse
+bip_39_word_new_line_8: 'abuse
 
   grass
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'abuse
   bullet
 
   false'
-bip_39_word_new_line9: 'abuse
+bip_39_word_new_line_9: 'abuse
 
   grass
 

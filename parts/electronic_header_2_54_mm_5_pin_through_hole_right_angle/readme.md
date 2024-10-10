@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | reform |  
-| bip_39_word_new_br10 | reform<br>wish<br>claw<br>doctor<br>feature<br>result<br>behind<br>weasel<br>season<br>pause |  
-| bip_39_word_new_br11 | reform<br>wish<br>claw<br>doctor<br>feature<br>result<br>behind<br>weasel<br>season<br>pause<br>narrow |  
-| bip_39_word_new_br12 | reform<br>wish<br>claw<br>doctor<br>feature<br>result<br>behind<br>weasel<br>season<br>pause<br>narrow<br>assault |  
-| bip_39_word_new_br2 | reform<br>wish |  
-| bip_39_word_new_br3 | reform<br>wish<br>claw |  
-| bip_39_word_new_br4 | reform<br>wish<br>claw<br>doctor |  
-| bip_39_word_new_br5 | reform<br>wish<br>claw<br>doctor<br>feature |  
-| bip_39_word_new_br6 | reform<br>wish<br>claw<br>doctor<br>feature<br>result |  
-| bip_39_word_new_br7 | reform<br>wish<br>claw<br>doctor<br>feature<br>result<br>behind |  
-| bip_39_word_new_br8 | reform<br>wish<br>claw<br>doctor<br>feature<br>result<br>behind<br>weasel |  
-| bip_39_word_new_br9 | reform<br>wish<br>claw<br>doctor<br>feature<br>result<br>behind<br>weasel<br>season |  
-| bip_39_word_new_line1 | reform |  
-| bip_39_word_new_line10 | reform
+| bip_39_word_new_br_1 | reform |  
+| bip_39_word_new_br_10 | reform<br>wish<br>claw<br>doctor<br>feature<br>result<br>behind<br>weasel<br>season<br>pause |  
+| bip_39_word_new_br_11 | reform<br>wish<br>claw<br>doctor<br>feature<br>result<br>behind<br>weasel<br>season<br>pause<br>narrow |  
+| bip_39_word_new_br_12 | reform<br>wish<br>claw<br>doctor<br>feature<br>result<br>behind<br>weasel<br>season<br>pause<br>narrow<br>assault |  
+| bip_39_word_new_br_2 | reform<br>wish |  
+| bip_39_word_new_br_3 | reform<br>wish<br>claw |  
+| bip_39_word_new_br_4 | reform<br>wish<br>claw<br>doctor |  
+| bip_39_word_new_br_5 | reform<br>wish<br>claw<br>doctor<br>feature |  
+| bip_39_word_new_br_6 | reform<br>wish<br>claw<br>doctor<br>feature<br>result |  
+| bip_39_word_new_br_7 | reform<br>wish<br>claw<br>doctor<br>feature<br>result<br>behind |  
+| bip_39_word_new_br_8 | reform<br>wish<br>claw<br>doctor<br>feature<br>result<br>behind<br>weasel |  
+| bip_39_word_new_br_9 | reform<br>wish<br>claw<br>doctor<br>feature<br>result<br>behind<br>weasel<br>season |  
+| bip_39_word_new_line_1 | reform |  
+| bip_39_word_new_line_10 | reform
 wish
 claw
 doctor
@@ -55,7 +55,7 @@ behind
 weasel
 season
 pause |  
-| bip_39_word_new_line11 | reform
+| bip_39_word_new_line_11 | reform
 wish
 claw
 doctor
@@ -66,7 +66,7 @@ weasel
 season
 pause
 narrow |  
-| bip_39_word_new_line12 | reform
+| bip_39_word_new_line_12 | reform
 wish
 claw
 doctor
@@ -78,34 +78,34 @@ season
 pause
 narrow
 assault |  
-| bip_39_word_new_line2 | reform
+| bip_39_word_new_line_2 | reform
 wish |  
-| bip_39_word_new_line3 | reform
+| bip_39_word_new_line_3 | reform
 wish
 claw |  
-| bip_39_word_new_line4 | reform
+| bip_39_word_new_line_4 | reform
 wish
 claw
 doctor |  
-| bip_39_word_new_line5 | reform
+| bip_39_word_new_line_5 | reform
 wish
 claw
 doctor
 feature |  
-| bip_39_word_new_line6 | reform
+| bip_39_word_new_line_6 | reform
 wish
 claw
 doctor
 feature
 result |  
-| bip_39_word_new_line7 | reform
+| bip_39_word_new_line_7 | reform
 wish
 claw
 doctor
 feature
 result
 behind |  
-| bip_39_word_new_line8 | reform
+| bip_39_word_new_line_8 | reform
 wish
 claw
 doctor
@@ -113,7 +113,7 @@ feature
 result
 behind
 weasel |  
-| bip_39_word_new_line9 | reform
+| bip_39_word_new_line_9 | reform
 wish
 claw
 doctor

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | miss |  
-| bip_39_word_new_br10 | miss<br>ugly<br>orphan<br>lady<br>toward<br>galaxy<br>race<br>title<br>fever<br>intact |  
-| bip_39_word_new_br11 | miss<br>ugly<br>orphan<br>lady<br>toward<br>galaxy<br>race<br>title<br>fever<br>intact<br>earth |  
-| bip_39_word_new_br12 | miss<br>ugly<br>orphan<br>lady<br>toward<br>galaxy<br>race<br>title<br>fever<br>intact<br>earth<br>anger |  
-| bip_39_word_new_br2 | miss<br>ugly |  
-| bip_39_word_new_br3 | miss<br>ugly<br>orphan |  
-| bip_39_word_new_br4 | miss<br>ugly<br>orphan<br>lady |  
-| bip_39_word_new_br5 | miss<br>ugly<br>orphan<br>lady<br>toward |  
-| bip_39_word_new_br6 | miss<br>ugly<br>orphan<br>lady<br>toward<br>galaxy |  
-| bip_39_word_new_br7 | miss<br>ugly<br>orphan<br>lady<br>toward<br>galaxy<br>race |  
-| bip_39_word_new_br8 | miss<br>ugly<br>orphan<br>lady<br>toward<br>galaxy<br>race<br>title |  
-| bip_39_word_new_br9 | miss<br>ugly<br>orphan<br>lady<br>toward<br>galaxy<br>race<br>title<br>fever |  
-| bip_39_word_new_line1 | miss |  
-| bip_39_word_new_line10 | miss
+| bip_39_word_new_br_1 | miss |  
+| bip_39_word_new_br_10 | miss<br>ugly<br>orphan<br>lady<br>toward<br>galaxy<br>race<br>title<br>fever<br>intact |  
+| bip_39_word_new_br_11 | miss<br>ugly<br>orphan<br>lady<br>toward<br>galaxy<br>race<br>title<br>fever<br>intact<br>earth |  
+| bip_39_word_new_br_12 | miss<br>ugly<br>orphan<br>lady<br>toward<br>galaxy<br>race<br>title<br>fever<br>intact<br>earth<br>anger |  
+| bip_39_word_new_br_2 | miss<br>ugly |  
+| bip_39_word_new_br_3 | miss<br>ugly<br>orphan |  
+| bip_39_word_new_br_4 | miss<br>ugly<br>orphan<br>lady |  
+| bip_39_word_new_br_5 | miss<br>ugly<br>orphan<br>lady<br>toward |  
+| bip_39_word_new_br_6 | miss<br>ugly<br>orphan<br>lady<br>toward<br>galaxy |  
+| bip_39_word_new_br_7 | miss<br>ugly<br>orphan<br>lady<br>toward<br>galaxy<br>race |  
+| bip_39_word_new_br_8 | miss<br>ugly<br>orphan<br>lady<br>toward<br>galaxy<br>race<br>title |  
+| bip_39_word_new_br_9 | miss<br>ugly<br>orphan<br>lady<br>toward<br>galaxy<br>race<br>title<br>fever |  
+| bip_39_word_new_line_1 | miss |  
+| bip_39_word_new_line_10 | miss
 ugly
 orphan
 lady
@@ -55,7 +55,7 @@ race
 title
 fever
 intact |  
-| bip_39_word_new_line11 | miss
+| bip_39_word_new_line_11 | miss
 ugly
 orphan
 lady
@@ -66,7 +66,7 @@ title
 fever
 intact
 earth |  
-| bip_39_word_new_line12 | miss
+| bip_39_word_new_line_12 | miss
 ugly
 orphan
 lady
@@ -78,34 +78,34 @@ fever
 intact
 earth
 anger |  
-| bip_39_word_new_line2 | miss
+| bip_39_word_new_line_2 | miss
 ugly |  
-| bip_39_word_new_line3 | miss
+| bip_39_word_new_line_3 | miss
 ugly
 orphan |  
-| bip_39_word_new_line4 | miss
+| bip_39_word_new_line_4 | miss
 ugly
 orphan
 lady |  
-| bip_39_word_new_line5 | miss
+| bip_39_word_new_line_5 | miss
 ugly
 orphan
 lady
 toward |  
-| bip_39_word_new_line6 | miss
+| bip_39_word_new_line_6 | miss
 ugly
 orphan
 lady
 toward
 galaxy |  
-| bip_39_word_new_line7 | miss
+| bip_39_word_new_line_7 | miss
 ugly
 orphan
 lady
 toward
 galaxy
 race |  
-| bip_39_word_new_line8 | miss
+| bip_39_word_new_line_8 | miss
 ugly
 orphan
 lady
@@ -113,7 +113,7 @@ toward
 galaxy
 race
 title |  
-| bip_39_word_new_line9 | miss
+| bip_39_word_new_line_9 | miss
 ugly
 orphan
 lady

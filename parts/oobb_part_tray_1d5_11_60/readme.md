@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | stone |  
-| bip_39_word_new_br10 | stone<br>elephant<br>kind<br>resist<br>project<br>planet<br>bid<br>nasty<br>warfare<br>print |  
-| bip_39_word_new_br11 | stone<br>elephant<br>kind<br>resist<br>project<br>planet<br>bid<br>nasty<br>warfare<br>print<br>dance |  
-| bip_39_word_new_br12 | stone<br>elephant<br>kind<br>resist<br>project<br>planet<br>bid<br>nasty<br>warfare<br>print<br>dance<br>answer |  
-| bip_39_word_new_br2 | stone<br>elephant |  
-| bip_39_word_new_br3 | stone<br>elephant<br>kind |  
-| bip_39_word_new_br4 | stone<br>elephant<br>kind<br>resist |  
-| bip_39_word_new_br5 | stone<br>elephant<br>kind<br>resist<br>project |  
-| bip_39_word_new_br6 | stone<br>elephant<br>kind<br>resist<br>project<br>planet |  
-| bip_39_word_new_br7 | stone<br>elephant<br>kind<br>resist<br>project<br>planet<br>bid |  
-| bip_39_word_new_br8 | stone<br>elephant<br>kind<br>resist<br>project<br>planet<br>bid<br>nasty |  
-| bip_39_word_new_br9 | stone<br>elephant<br>kind<br>resist<br>project<br>planet<br>bid<br>nasty<br>warfare |  
-| bip_39_word_new_line1 | stone |  
-| bip_39_word_new_line10 | stone
+| bip_39_word_new_br_1 | stone |  
+| bip_39_word_new_br_10 | stone<br>elephant<br>kind<br>resist<br>project<br>planet<br>bid<br>nasty<br>warfare<br>print |  
+| bip_39_word_new_br_11 | stone<br>elephant<br>kind<br>resist<br>project<br>planet<br>bid<br>nasty<br>warfare<br>print<br>dance |  
+| bip_39_word_new_br_12 | stone<br>elephant<br>kind<br>resist<br>project<br>planet<br>bid<br>nasty<br>warfare<br>print<br>dance<br>answer |  
+| bip_39_word_new_br_2 | stone<br>elephant |  
+| bip_39_word_new_br_3 | stone<br>elephant<br>kind |  
+| bip_39_word_new_br_4 | stone<br>elephant<br>kind<br>resist |  
+| bip_39_word_new_br_5 | stone<br>elephant<br>kind<br>resist<br>project |  
+| bip_39_word_new_br_6 | stone<br>elephant<br>kind<br>resist<br>project<br>planet |  
+| bip_39_word_new_br_7 | stone<br>elephant<br>kind<br>resist<br>project<br>planet<br>bid |  
+| bip_39_word_new_br_8 | stone<br>elephant<br>kind<br>resist<br>project<br>planet<br>bid<br>nasty |  
+| bip_39_word_new_br_9 | stone<br>elephant<br>kind<br>resist<br>project<br>planet<br>bid<br>nasty<br>warfare |  
+| bip_39_word_new_line_1 | stone |  
+| bip_39_word_new_line_10 | stone
 elephant
 kind
 resist
@@ -55,7 +55,7 @@ bid
 nasty
 warfare
 print |  
-| bip_39_word_new_line11 | stone
+| bip_39_word_new_line_11 | stone
 elephant
 kind
 resist
@@ -66,7 +66,7 @@ nasty
 warfare
 print
 dance |  
-| bip_39_word_new_line12 | stone
+| bip_39_word_new_line_12 | stone
 elephant
 kind
 resist
@@ -78,34 +78,34 @@ warfare
 print
 dance
 answer |  
-| bip_39_word_new_line2 | stone
+| bip_39_word_new_line_2 | stone
 elephant |  
-| bip_39_word_new_line3 | stone
+| bip_39_word_new_line_3 | stone
 elephant
 kind |  
-| bip_39_word_new_line4 | stone
+| bip_39_word_new_line_4 | stone
 elephant
 kind
 resist |  
-| bip_39_word_new_line5 | stone
+| bip_39_word_new_line_5 | stone
 elephant
 kind
 resist
 project |  
-| bip_39_word_new_line6 | stone
+| bip_39_word_new_line_6 | stone
 elephant
 kind
 resist
 project
 planet |  
-| bip_39_word_new_line7 | stone
+| bip_39_word_new_line_7 | stone
 elephant
 kind
 resist
 project
 planet
 bid |  
-| bip_39_word_new_line8 | stone
+| bip_39_word_new_line_8 | stone
 elephant
 kind
 resist
@@ -113,7 +113,7 @@ project
 planet
 bid
 nasty |  
-| bip_39_word_new_line9 | stone
+| bip_39_word_new_line_9 | stone
 elephant
 kind
 resist

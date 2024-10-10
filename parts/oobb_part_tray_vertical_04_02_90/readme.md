@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | west |  
-| bip_39_word_new_br10 | west<br>digital<br>juice<br>float<br>joke<br>student<br>cannon<br>boost<br>purity<br>crisp |  
-| bip_39_word_new_br11 | west<br>digital<br>juice<br>float<br>joke<br>student<br>cannon<br>boost<br>purity<br>crisp<br>sketch |  
-| bip_39_word_new_br12 | west<br>digital<br>juice<br>float<br>joke<br>student<br>cannon<br>boost<br>purity<br>crisp<br>sketch<br>also |  
-| bip_39_word_new_br2 | west<br>digital |  
-| bip_39_word_new_br3 | west<br>digital<br>juice |  
-| bip_39_word_new_br4 | west<br>digital<br>juice<br>float |  
-| bip_39_word_new_br5 | west<br>digital<br>juice<br>float<br>joke |  
-| bip_39_word_new_br6 | west<br>digital<br>juice<br>float<br>joke<br>student |  
-| bip_39_word_new_br7 | west<br>digital<br>juice<br>float<br>joke<br>student<br>cannon |  
-| bip_39_word_new_br8 | west<br>digital<br>juice<br>float<br>joke<br>student<br>cannon<br>boost |  
-| bip_39_word_new_br9 | west<br>digital<br>juice<br>float<br>joke<br>student<br>cannon<br>boost<br>purity |  
-| bip_39_word_new_line1 | west |  
-| bip_39_word_new_line10 | west
+| bip_39_word_new_br_1 | west |  
+| bip_39_word_new_br_10 | west<br>digital<br>juice<br>float<br>joke<br>student<br>cannon<br>boost<br>purity<br>crisp |  
+| bip_39_word_new_br_11 | west<br>digital<br>juice<br>float<br>joke<br>student<br>cannon<br>boost<br>purity<br>crisp<br>sketch |  
+| bip_39_word_new_br_12 | west<br>digital<br>juice<br>float<br>joke<br>student<br>cannon<br>boost<br>purity<br>crisp<br>sketch<br>also |  
+| bip_39_word_new_br_2 | west<br>digital |  
+| bip_39_word_new_br_3 | west<br>digital<br>juice |  
+| bip_39_word_new_br_4 | west<br>digital<br>juice<br>float |  
+| bip_39_word_new_br_5 | west<br>digital<br>juice<br>float<br>joke |  
+| bip_39_word_new_br_6 | west<br>digital<br>juice<br>float<br>joke<br>student |  
+| bip_39_word_new_br_7 | west<br>digital<br>juice<br>float<br>joke<br>student<br>cannon |  
+| bip_39_word_new_br_8 | west<br>digital<br>juice<br>float<br>joke<br>student<br>cannon<br>boost |  
+| bip_39_word_new_br_9 | west<br>digital<br>juice<br>float<br>joke<br>student<br>cannon<br>boost<br>purity |  
+| bip_39_word_new_line_1 | west |  
+| bip_39_word_new_line_10 | west
 digital
 juice
 float
@@ -55,7 +55,7 @@ cannon
 boost
 purity
 crisp |  
-| bip_39_word_new_line11 | west
+| bip_39_word_new_line_11 | west
 digital
 juice
 float
@@ -66,7 +66,7 @@ boost
 purity
 crisp
 sketch |  
-| bip_39_word_new_line12 | west
+| bip_39_word_new_line_12 | west
 digital
 juice
 float
@@ -78,34 +78,34 @@ purity
 crisp
 sketch
 also |  
-| bip_39_word_new_line2 | west
+| bip_39_word_new_line_2 | west
 digital |  
-| bip_39_word_new_line3 | west
+| bip_39_word_new_line_3 | west
 digital
 juice |  
-| bip_39_word_new_line4 | west
+| bip_39_word_new_line_4 | west
 digital
 juice
 float |  
-| bip_39_word_new_line5 | west
+| bip_39_word_new_line_5 | west
 digital
 juice
 float
 joke |  
-| bip_39_word_new_line6 | west
+| bip_39_word_new_line_6 | west
 digital
 juice
 float
 joke
 student |  
-| bip_39_word_new_line7 | west
+| bip_39_word_new_line_7 | west
 digital
 juice
 float
 joke
 student
 cannon |  
-| bip_39_word_new_line8 | west
+| bip_39_word_new_line_8 | west
 digital
 juice
 float
@@ -113,7 +113,7 @@ joke
 student
 cannon
 boost |  
-| bip_39_word_new_line9 | west
+| bip_39_word_new_line_9 | west
 digital
 juice
 float

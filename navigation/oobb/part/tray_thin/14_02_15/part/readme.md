@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | laugh |  
-| bip_39_word_new_br10 | laugh<br>memory<br>hero<br>kite<br>frog<br>buzz<br>window<br>west<br>chicken<br>drive |  
-| bip_39_word_new_br11 | laugh<br>memory<br>hero<br>kite<br>frog<br>buzz<br>window<br>west<br>chicken<br>drive<br>yard |  
-| bip_39_word_new_br12 | laugh<br>memory<br>hero<br>kite<br>frog<br>buzz<br>window<br>west<br>chicken<br>drive<br>yard<br>adapt |  
-| bip_39_word_new_br2 | laugh<br>memory |  
-| bip_39_word_new_br3 | laugh<br>memory<br>hero |  
-| bip_39_word_new_br4 | laugh<br>memory<br>hero<br>kite |  
-| bip_39_word_new_br5 | laugh<br>memory<br>hero<br>kite<br>frog |  
-| bip_39_word_new_br6 | laugh<br>memory<br>hero<br>kite<br>frog<br>buzz |  
-| bip_39_word_new_br7 | laugh<br>memory<br>hero<br>kite<br>frog<br>buzz<br>window |  
-| bip_39_word_new_br8 | laugh<br>memory<br>hero<br>kite<br>frog<br>buzz<br>window<br>west |  
-| bip_39_word_new_br9 | laugh<br>memory<br>hero<br>kite<br>frog<br>buzz<br>window<br>west<br>chicken |  
-| bip_39_word_new_line1 | laugh |  
-| bip_39_word_new_line10 | laugh
+| bip_39_word_new_br_1 | laugh |  
+| bip_39_word_new_br_10 | laugh<br>memory<br>hero<br>kite<br>frog<br>buzz<br>window<br>west<br>chicken<br>drive |  
+| bip_39_word_new_br_11 | laugh<br>memory<br>hero<br>kite<br>frog<br>buzz<br>window<br>west<br>chicken<br>drive<br>yard |  
+| bip_39_word_new_br_12 | laugh<br>memory<br>hero<br>kite<br>frog<br>buzz<br>window<br>west<br>chicken<br>drive<br>yard<br>adapt |  
+| bip_39_word_new_br_2 | laugh<br>memory |  
+| bip_39_word_new_br_3 | laugh<br>memory<br>hero |  
+| bip_39_word_new_br_4 | laugh<br>memory<br>hero<br>kite |  
+| bip_39_word_new_br_5 | laugh<br>memory<br>hero<br>kite<br>frog |  
+| bip_39_word_new_br_6 | laugh<br>memory<br>hero<br>kite<br>frog<br>buzz |  
+| bip_39_word_new_br_7 | laugh<br>memory<br>hero<br>kite<br>frog<br>buzz<br>window |  
+| bip_39_word_new_br_8 | laugh<br>memory<br>hero<br>kite<br>frog<br>buzz<br>window<br>west |  
+| bip_39_word_new_br_9 | laugh<br>memory<br>hero<br>kite<br>frog<br>buzz<br>window<br>west<br>chicken |  
+| bip_39_word_new_line_1 | laugh |  
+| bip_39_word_new_line_10 | laugh
 memory
 hero
 kite
@@ -55,7 +55,7 @@ window
 west
 chicken
 drive |  
-| bip_39_word_new_line11 | laugh
+| bip_39_word_new_line_11 | laugh
 memory
 hero
 kite
@@ -66,7 +66,7 @@ west
 chicken
 drive
 yard |  
-| bip_39_word_new_line12 | laugh
+| bip_39_word_new_line_12 | laugh
 memory
 hero
 kite
@@ -78,34 +78,34 @@ chicken
 drive
 yard
 adapt |  
-| bip_39_word_new_line2 | laugh
+| bip_39_word_new_line_2 | laugh
 memory |  
-| bip_39_word_new_line3 | laugh
+| bip_39_word_new_line_3 | laugh
 memory
 hero |  
-| bip_39_word_new_line4 | laugh
+| bip_39_word_new_line_4 | laugh
 memory
 hero
 kite |  
-| bip_39_word_new_line5 | laugh
+| bip_39_word_new_line_5 | laugh
 memory
 hero
 kite
 frog |  
-| bip_39_word_new_line6 | laugh
+| bip_39_word_new_line_6 | laugh
 memory
 hero
 kite
 frog
 buzz |  
-| bip_39_word_new_line7 | laugh
+| bip_39_word_new_line_7 | laugh
 memory
 hero
 kite
 frog
 buzz
 window |  
-| bip_39_word_new_line8 | laugh
+| bip_39_word_new_line_8 | laugh
 memory
 hero
 kite
@@ -113,7 +113,7 @@ frog
 buzz
 window
 west |  
-| bip_39_word_new_line9 | laugh
+| bip_39_word_new_line_9 | laugh
 memory
 hero
 kite

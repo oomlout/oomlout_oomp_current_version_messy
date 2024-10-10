@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | short |  
-| bip_39_word_new_br10 | short<br>symbol<br>uphold<br>sweet<br>frog<br>walk<br>parrot<br>visit<br>wealth<br>always |  
-| bip_39_word_new_br11 | short<br>symbol<br>uphold<br>sweet<br>frog<br>walk<br>parrot<br>visit<br>wealth<br>always<br>meadow |  
-| bip_39_word_new_br12 | short<br>symbol<br>uphold<br>sweet<br>frog<br>walk<br>parrot<br>visit<br>wealth<br>always<br>meadow<br>arrange |  
-| bip_39_word_new_br2 | short<br>symbol |  
-| bip_39_word_new_br3 | short<br>symbol<br>uphold |  
-| bip_39_word_new_br4 | short<br>symbol<br>uphold<br>sweet |  
-| bip_39_word_new_br5 | short<br>symbol<br>uphold<br>sweet<br>frog |  
-| bip_39_word_new_br6 | short<br>symbol<br>uphold<br>sweet<br>frog<br>walk |  
-| bip_39_word_new_br7 | short<br>symbol<br>uphold<br>sweet<br>frog<br>walk<br>parrot |  
-| bip_39_word_new_br8 | short<br>symbol<br>uphold<br>sweet<br>frog<br>walk<br>parrot<br>visit |  
-| bip_39_word_new_br9 | short<br>symbol<br>uphold<br>sweet<br>frog<br>walk<br>parrot<br>visit<br>wealth |  
-| bip_39_word_new_line1 | short |  
-| bip_39_word_new_line10 | short
+| bip_39_word_new_br_1 | short |  
+| bip_39_word_new_br_10 | short<br>symbol<br>uphold<br>sweet<br>frog<br>walk<br>parrot<br>visit<br>wealth<br>always |  
+| bip_39_word_new_br_11 | short<br>symbol<br>uphold<br>sweet<br>frog<br>walk<br>parrot<br>visit<br>wealth<br>always<br>meadow |  
+| bip_39_word_new_br_12 | short<br>symbol<br>uphold<br>sweet<br>frog<br>walk<br>parrot<br>visit<br>wealth<br>always<br>meadow<br>arrange |  
+| bip_39_word_new_br_2 | short<br>symbol |  
+| bip_39_word_new_br_3 | short<br>symbol<br>uphold |  
+| bip_39_word_new_br_4 | short<br>symbol<br>uphold<br>sweet |  
+| bip_39_word_new_br_5 | short<br>symbol<br>uphold<br>sweet<br>frog |  
+| bip_39_word_new_br_6 | short<br>symbol<br>uphold<br>sweet<br>frog<br>walk |  
+| bip_39_word_new_br_7 | short<br>symbol<br>uphold<br>sweet<br>frog<br>walk<br>parrot |  
+| bip_39_word_new_br_8 | short<br>symbol<br>uphold<br>sweet<br>frog<br>walk<br>parrot<br>visit |  
+| bip_39_word_new_br_9 | short<br>symbol<br>uphold<br>sweet<br>frog<br>walk<br>parrot<br>visit<br>wealth |  
+| bip_39_word_new_line_1 | short |  
+| bip_39_word_new_line_10 | short
 symbol
 uphold
 sweet
@@ -55,7 +55,7 @@ parrot
 visit
 wealth
 always |  
-| bip_39_word_new_line11 | short
+| bip_39_word_new_line_11 | short
 symbol
 uphold
 sweet
@@ -66,7 +66,7 @@ visit
 wealth
 always
 meadow |  
-| bip_39_word_new_line12 | short
+| bip_39_word_new_line_12 | short
 symbol
 uphold
 sweet
@@ -78,34 +78,34 @@ wealth
 always
 meadow
 arrange |  
-| bip_39_word_new_line2 | short
+| bip_39_word_new_line_2 | short
 symbol |  
-| bip_39_word_new_line3 | short
+| bip_39_word_new_line_3 | short
 symbol
 uphold |  
-| bip_39_word_new_line4 | short
+| bip_39_word_new_line_4 | short
 symbol
 uphold
 sweet |  
-| bip_39_word_new_line5 | short
+| bip_39_word_new_line_5 | short
 symbol
 uphold
 sweet
 frog |  
-| bip_39_word_new_line6 | short
+| bip_39_word_new_line_6 | short
 symbol
 uphold
 sweet
 frog
 walk |  
-| bip_39_word_new_line7 | short
+| bip_39_word_new_line_7 | short
 symbol
 uphold
 sweet
 frog
 walk
 parrot |  
-| bip_39_word_new_line8 | short
+| bip_39_word_new_line_8 | short
 symbol
 uphold
 sweet
@@ -113,7 +113,7 @@ frog
 walk
 parrot
 visit |  
-| bip_39_word_new_line9 | short
+| bip_39_word_new_line_9 | short
 symbol
 uphold
 sweet

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | friend |  
-| bip_39_word_new_br10 | friend<br>invite<br>noble<br>outer<br>pact<br>lucky<br>enforce<br>riot<br>park<br>amused |  
-| bip_39_word_new_br11 | friend<br>invite<br>noble<br>outer<br>pact<br>lucky<br>enforce<br>riot<br>park<br>amused<br>turtle |  
-| bip_39_word_new_br12 | friend<br>invite<br>noble<br>outer<br>pact<br>lucky<br>enforce<br>riot<br>park<br>amused<br>turtle<br>above |  
-| bip_39_word_new_br2 | friend<br>invite |  
-| bip_39_word_new_br3 | friend<br>invite<br>noble |  
-| bip_39_word_new_br4 | friend<br>invite<br>noble<br>outer |  
-| bip_39_word_new_br5 | friend<br>invite<br>noble<br>outer<br>pact |  
-| bip_39_word_new_br6 | friend<br>invite<br>noble<br>outer<br>pact<br>lucky |  
-| bip_39_word_new_br7 | friend<br>invite<br>noble<br>outer<br>pact<br>lucky<br>enforce |  
-| bip_39_word_new_br8 | friend<br>invite<br>noble<br>outer<br>pact<br>lucky<br>enforce<br>riot |  
-| bip_39_word_new_br9 | friend<br>invite<br>noble<br>outer<br>pact<br>lucky<br>enforce<br>riot<br>park |  
-| bip_39_word_new_line1 | friend |  
-| bip_39_word_new_line10 | friend
+| bip_39_word_new_br_1 | friend |  
+| bip_39_word_new_br_10 | friend<br>invite<br>noble<br>outer<br>pact<br>lucky<br>enforce<br>riot<br>park<br>amused |  
+| bip_39_word_new_br_11 | friend<br>invite<br>noble<br>outer<br>pact<br>lucky<br>enforce<br>riot<br>park<br>amused<br>turtle |  
+| bip_39_word_new_br_12 | friend<br>invite<br>noble<br>outer<br>pact<br>lucky<br>enforce<br>riot<br>park<br>amused<br>turtle<br>above |  
+| bip_39_word_new_br_2 | friend<br>invite |  
+| bip_39_word_new_br_3 | friend<br>invite<br>noble |  
+| bip_39_word_new_br_4 | friend<br>invite<br>noble<br>outer |  
+| bip_39_word_new_br_5 | friend<br>invite<br>noble<br>outer<br>pact |  
+| bip_39_word_new_br_6 | friend<br>invite<br>noble<br>outer<br>pact<br>lucky |  
+| bip_39_word_new_br_7 | friend<br>invite<br>noble<br>outer<br>pact<br>lucky<br>enforce |  
+| bip_39_word_new_br_8 | friend<br>invite<br>noble<br>outer<br>pact<br>lucky<br>enforce<br>riot |  
+| bip_39_word_new_br_9 | friend<br>invite<br>noble<br>outer<br>pact<br>lucky<br>enforce<br>riot<br>park |  
+| bip_39_word_new_line_1 | friend |  
+| bip_39_word_new_line_10 | friend
 invite
 noble
 outer
@@ -55,7 +55,7 @@ enforce
 riot
 park
 amused |  
-| bip_39_word_new_line11 | friend
+| bip_39_word_new_line_11 | friend
 invite
 noble
 outer
@@ -66,7 +66,7 @@ riot
 park
 amused
 turtle |  
-| bip_39_word_new_line12 | friend
+| bip_39_word_new_line_12 | friend
 invite
 noble
 outer
@@ -78,34 +78,34 @@ park
 amused
 turtle
 above |  
-| bip_39_word_new_line2 | friend
+| bip_39_word_new_line_2 | friend
 invite |  
-| bip_39_word_new_line3 | friend
+| bip_39_word_new_line_3 | friend
 invite
 noble |  
-| bip_39_word_new_line4 | friend
+| bip_39_word_new_line_4 | friend
 invite
 noble
 outer |  
-| bip_39_word_new_line5 | friend
+| bip_39_word_new_line_5 | friend
 invite
 noble
 outer
 pact |  
-| bip_39_word_new_line6 | friend
+| bip_39_word_new_line_6 | friend
 invite
 noble
 outer
 pact
 lucky |  
-| bip_39_word_new_line7 | friend
+| bip_39_word_new_line_7 | friend
 invite
 noble
 outer
 pact
 lucky
 enforce |  
-| bip_39_word_new_line8 | friend
+| bip_39_word_new_line_8 | friend
 invite
 noble
 outer
@@ -113,7 +113,7 @@ pact
 lucky
 enforce
 riot |  
-| bip_39_word_new_line9 | friend
+| bip_39_word_new_line_9 | friend
 invite
 noble
 outer

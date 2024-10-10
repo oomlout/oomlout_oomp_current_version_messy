@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | segment |  
-| bip_39_word_new_br10 | segment<br>north<br>people<br>blast<br>link<br>muffin<br>mouse<br>borrow<br>dinner<br>search |  
-| bip_39_word_new_br11 | segment<br>north<br>people<br>blast<br>link<br>muffin<br>mouse<br>borrow<br>dinner<br>search<br>illness |  
-| bip_39_word_new_br12 | segment<br>north<br>people<br>blast<br>link<br>muffin<br>mouse<br>borrow<br>dinner<br>search<br>illness<br>alarm |  
-| bip_39_word_new_br2 | segment<br>north |  
-| bip_39_word_new_br3 | segment<br>north<br>people |  
-| bip_39_word_new_br4 | segment<br>north<br>people<br>blast |  
-| bip_39_word_new_br5 | segment<br>north<br>people<br>blast<br>link |  
-| bip_39_word_new_br6 | segment<br>north<br>people<br>blast<br>link<br>muffin |  
-| bip_39_word_new_br7 | segment<br>north<br>people<br>blast<br>link<br>muffin<br>mouse |  
-| bip_39_word_new_br8 | segment<br>north<br>people<br>blast<br>link<br>muffin<br>mouse<br>borrow |  
-| bip_39_word_new_br9 | segment<br>north<br>people<br>blast<br>link<br>muffin<br>mouse<br>borrow<br>dinner |  
-| bip_39_word_new_line1 | segment |  
-| bip_39_word_new_line10 | segment
+| bip_39_word_new_br_1 | segment |  
+| bip_39_word_new_br_10 | segment<br>north<br>people<br>blast<br>link<br>muffin<br>mouse<br>borrow<br>dinner<br>search |  
+| bip_39_word_new_br_11 | segment<br>north<br>people<br>blast<br>link<br>muffin<br>mouse<br>borrow<br>dinner<br>search<br>illness |  
+| bip_39_word_new_br_12 | segment<br>north<br>people<br>blast<br>link<br>muffin<br>mouse<br>borrow<br>dinner<br>search<br>illness<br>alarm |  
+| bip_39_word_new_br_2 | segment<br>north |  
+| bip_39_word_new_br_3 | segment<br>north<br>people |  
+| bip_39_word_new_br_4 | segment<br>north<br>people<br>blast |  
+| bip_39_word_new_br_5 | segment<br>north<br>people<br>blast<br>link |  
+| bip_39_word_new_br_6 | segment<br>north<br>people<br>blast<br>link<br>muffin |  
+| bip_39_word_new_br_7 | segment<br>north<br>people<br>blast<br>link<br>muffin<br>mouse |  
+| bip_39_word_new_br_8 | segment<br>north<br>people<br>blast<br>link<br>muffin<br>mouse<br>borrow |  
+| bip_39_word_new_br_9 | segment<br>north<br>people<br>blast<br>link<br>muffin<br>mouse<br>borrow<br>dinner |  
+| bip_39_word_new_line_1 | segment |  
+| bip_39_word_new_line_10 | segment
 north
 people
 blast
@@ -55,7 +55,7 @@ mouse
 borrow
 dinner
 search |  
-| bip_39_word_new_line11 | segment
+| bip_39_word_new_line_11 | segment
 north
 people
 blast
@@ -66,7 +66,7 @@ borrow
 dinner
 search
 illness |  
-| bip_39_word_new_line12 | segment
+| bip_39_word_new_line_12 | segment
 north
 people
 blast
@@ -78,34 +78,34 @@ dinner
 search
 illness
 alarm |  
-| bip_39_word_new_line2 | segment
+| bip_39_word_new_line_2 | segment
 north |  
-| bip_39_word_new_line3 | segment
+| bip_39_word_new_line_3 | segment
 north
 people |  
-| bip_39_word_new_line4 | segment
+| bip_39_word_new_line_4 | segment
 north
 people
 blast |  
-| bip_39_word_new_line5 | segment
+| bip_39_word_new_line_5 | segment
 north
 people
 blast
 link |  
-| bip_39_word_new_line6 | segment
+| bip_39_word_new_line_6 | segment
 north
 people
 blast
 link
 muffin |  
-| bip_39_word_new_line7 | segment
+| bip_39_word_new_line_7 | segment
 north
 people
 blast
 link
 muffin
 mouse |  
-| bip_39_word_new_line8 | segment
+| bip_39_word_new_line_8 | segment
 north
 people
 blast
@@ -113,7 +113,7 @@ link
 muffin
 mouse
 borrow |  
-| bip_39_word_new_line9 | segment
+| bip_39_word_new_line_9 | segment
 north
 people
 blast

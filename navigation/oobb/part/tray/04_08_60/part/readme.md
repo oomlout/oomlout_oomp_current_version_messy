@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mention |  
-| bip_39_word_new_br10 | mention<br>broccoli<br>shrug<br>mix<br>napkin<br>master<br>smoke<br>sadness<br>offer<br>baby |  
-| bip_39_word_new_br11 | mention<br>broccoli<br>shrug<br>mix<br>napkin<br>master<br>smoke<br>sadness<br>offer<br>baby<br>else |  
-| bip_39_word_new_br12 | mention<br>broccoli<br>shrug<br>mix<br>napkin<br>master<br>smoke<br>sadness<br>offer<br>baby<br>else<br>attitude |  
-| bip_39_word_new_br2 | mention<br>broccoli |  
-| bip_39_word_new_br3 | mention<br>broccoli<br>shrug |  
-| bip_39_word_new_br4 | mention<br>broccoli<br>shrug<br>mix |  
-| bip_39_word_new_br5 | mention<br>broccoli<br>shrug<br>mix<br>napkin |  
-| bip_39_word_new_br6 | mention<br>broccoli<br>shrug<br>mix<br>napkin<br>master |  
-| bip_39_word_new_br7 | mention<br>broccoli<br>shrug<br>mix<br>napkin<br>master<br>smoke |  
-| bip_39_word_new_br8 | mention<br>broccoli<br>shrug<br>mix<br>napkin<br>master<br>smoke<br>sadness |  
-| bip_39_word_new_br9 | mention<br>broccoli<br>shrug<br>mix<br>napkin<br>master<br>smoke<br>sadness<br>offer |  
-| bip_39_word_new_line1 | mention |  
-| bip_39_word_new_line10 | mention
+| bip_39_word_new_br_1 | mention |  
+| bip_39_word_new_br_10 | mention<br>broccoli<br>shrug<br>mix<br>napkin<br>master<br>smoke<br>sadness<br>offer<br>baby |  
+| bip_39_word_new_br_11 | mention<br>broccoli<br>shrug<br>mix<br>napkin<br>master<br>smoke<br>sadness<br>offer<br>baby<br>else |  
+| bip_39_word_new_br_12 | mention<br>broccoli<br>shrug<br>mix<br>napkin<br>master<br>smoke<br>sadness<br>offer<br>baby<br>else<br>attitude |  
+| bip_39_word_new_br_2 | mention<br>broccoli |  
+| bip_39_word_new_br_3 | mention<br>broccoli<br>shrug |  
+| bip_39_word_new_br_4 | mention<br>broccoli<br>shrug<br>mix |  
+| bip_39_word_new_br_5 | mention<br>broccoli<br>shrug<br>mix<br>napkin |  
+| bip_39_word_new_br_6 | mention<br>broccoli<br>shrug<br>mix<br>napkin<br>master |  
+| bip_39_word_new_br_7 | mention<br>broccoli<br>shrug<br>mix<br>napkin<br>master<br>smoke |  
+| bip_39_word_new_br_8 | mention<br>broccoli<br>shrug<br>mix<br>napkin<br>master<br>smoke<br>sadness |  
+| bip_39_word_new_br_9 | mention<br>broccoli<br>shrug<br>mix<br>napkin<br>master<br>smoke<br>sadness<br>offer |  
+| bip_39_word_new_line_1 | mention |  
+| bip_39_word_new_line_10 | mention
 broccoli
 shrug
 mix
@@ -55,7 +55,7 @@ smoke
 sadness
 offer
 baby |  
-| bip_39_word_new_line11 | mention
+| bip_39_word_new_line_11 | mention
 broccoli
 shrug
 mix
@@ -66,7 +66,7 @@ sadness
 offer
 baby
 else |  
-| bip_39_word_new_line12 | mention
+| bip_39_word_new_line_12 | mention
 broccoli
 shrug
 mix
@@ -78,34 +78,34 @@ offer
 baby
 else
 attitude |  
-| bip_39_word_new_line2 | mention
+| bip_39_word_new_line_2 | mention
 broccoli |  
-| bip_39_word_new_line3 | mention
+| bip_39_word_new_line_3 | mention
 broccoli
 shrug |  
-| bip_39_word_new_line4 | mention
+| bip_39_word_new_line_4 | mention
 broccoli
 shrug
 mix |  
-| bip_39_word_new_line5 | mention
+| bip_39_word_new_line_5 | mention
 broccoli
 shrug
 mix
 napkin |  
-| bip_39_word_new_line6 | mention
+| bip_39_word_new_line_6 | mention
 broccoli
 shrug
 mix
 napkin
 master |  
-| bip_39_word_new_line7 | mention
+| bip_39_word_new_line_7 | mention
 broccoli
 shrug
 mix
 napkin
 master
 smoke |  
-| bip_39_word_new_line8 | mention
+| bip_39_word_new_line_8 | mention
 broccoli
 shrug
 mix
@@ -113,7 +113,7 @@ napkin
 master
 smoke
 sadness |  
-| bip_39_word_new_line9 | mention
+| bip_39_word_new_line_9 | mention
 broccoli
 shrug
 mix

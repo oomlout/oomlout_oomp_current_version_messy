@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | usage |  
-| bip_39_word_new_br10 | usage<br>afford<br>infant<br>hood<br>leave<br>again<br>expand<br>ritual<br>resemble<br>draw |  
-| bip_39_word_new_br11 | usage<br>afford<br>infant<br>hood<br>leave<br>again<br>expand<br>ritual<br>resemble<br>draw<br>month |  
-| bip_39_word_new_br12 | usage<br>afford<br>infant<br>hood<br>leave<br>again<br>expand<br>ritual<br>resemble<br>draw<br>month<br>artefact |  
-| bip_39_word_new_br2 | usage<br>afford |  
-| bip_39_word_new_br3 | usage<br>afford<br>infant |  
-| bip_39_word_new_br4 | usage<br>afford<br>infant<br>hood |  
-| bip_39_word_new_br5 | usage<br>afford<br>infant<br>hood<br>leave |  
-| bip_39_word_new_br6 | usage<br>afford<br>infant<br>hood<br>leave<br>again |  
-| bip_39_word_new_br7 | usage<br>afford<br>infant<br>hood<br>leave<br>again<br>expand |  
-| bip_39_word_new_br8 | usage<br>afford<br>infant<br>hood<br>leave<br>again<br>expand<br>ritual |  
-| bip_39_word_new_br9 | usage<br>afford<br>infant<br>hood<br>leave<br>again<br>expand<br>ritual<br>resemble |  
-| bip_39_word_new_line1 | usage |  
-| bip_39_word_new_line10 | usage
+| bip_39_word_new_br_1 | usage |  
+| bip_39_word_new_br_10 | usage<br>afford<br>infant<br>hood<br>leave<br>again<br>expand<br>ritual<br>resemble<br>draw |  
+| bip_39_word_new_br_11 | usage<br>afford<br>infant<br>hood<br>leave<br>again<br>expand<br>ritual<br>resemble<br>draw<br>month |  
+| bip_39_word_new_br_12 | usage<br>afford<br>infant<br>hood<br>leave<br>again<br>expand<br>ritual<br>resemble<br>draw<br>month<br>artefact |  
+| bip_39_word_new_br_2 | usage<br>afford |  
+| bip_39_word_new_br_3 | usage<br>afford<br>infant |  
+| bip_39_word_new_br_4 | usage<br>afford<br>infant<br>hood |  
+| bip_39_word_new_br_5 | usage<br>afford<br>infant<br>hood<br>leave |  
+| bip_39_word_new_br_6 | usage<br>afford<br>infant<br>hood<br>leave<br>again |  
+| bip_39_word_new_br_7 | usage<br>afford<br>infant<br>hood<br>leave<br>again<br>expand |  
+| bip_39_word_new_br_8 | usage<br>afford<br>infant<br>hood<br>leave<br>again<br>expand<br>ritual |  
+| bip_39_word_new_br_9 | usage<br>afford<br>infant<br>hood<br>leave<br>again<br>expand<br>ritual<br>resemble |  
+| bip_39_word_new_line_1 | usage |  
+| bip_39_word_new_line_10 | usage
 afford
 infant
 hood
@@ -55,7 +55,7 @@ expand
 ritual
 resemble
 draw |  
-| bip_39_word_new_line11 | usage
+| bip_39_word_new_line_11 | usage
 afford
 infant
 hood
@@ -66,7 +66,7 @@ ritual
 resemble
 draw
 month |  
-| bip_39_word_new_line12 | usage
+| bip_39_word_new_line_12 | usage
 afford
 infant
 hood
@@ -78,34 +78,34 @@ resemble
 draw
 month
 artefact |  
-| bip_39_word_new_line2 | usage
+| bip_39_word_new_line_2 | usage
 afford |  
-| bip_39_word_new_line3 | usage
+| bip_39_word_new_line_3 | usage
 afford
 infant |  
-| bip_39_word_new_line4 | usage
+| bip_39_word_new_line_4 | usage
 afford
 infant
 hood |  
-| bip_39_word_new_line5 | usage
+| bip_39_word_new_line_5 | usage
 afford
 infant
 hood
 leave |  
-| bip_39_word_new_line6 | usage
+| bip_39_word_new_line_6 | usage
 afford
 infant
 hood
 leave
 again |  
-| bip_39_word_new_line7 | usage
+| bip_39_word_new_line_7 | usage
 afford
 infant
 hood
 leave
 again
 expand |  
-| bip_39_word_new_line8 | usage
+| bip_39_word_new_line_8 | usage
 afford
 infant
 hood
@@ -113,7 +113,7 @@ leave
 again
 expand
 ritual |  
-| bip_39_word_new_line9 | usage
+| bip_39_word_new_line_9 | usage
 afford
 infant
 hood

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | left |  
-| bip_39_word_new_br10 | left<br>just<br>orient<br>extend<br>apple<br>open<br>program<br>ripple<br>bid<br>act |  
-| bip_39_word_new_br11 | left<br>just<br>orient<br>extend<br>apple<br>open<br>program<br>ripple<br>bid<br>act<br>craft |  
-| bip_39_word_new_br12 | left<br>just<br>orient<br>extend<br>apple<br>open<br>program<br>ripple<br>bid<br>act<br>craft<br>armor |  
-| bip_39_word_new_br2 | left<br>just |  
-| bip_39_word_new_br3 | left<br>just<br>orient |  
-| bip_39_word_new_br4 | left<br>just<br>orient<br>extend |  
-| bip_39_word_new_br5 | left<br>just<br>orient<br>extend<br>apple |  
-| bip_39_word_new_br6 | left<br>just<br>orient<br>extend<br>apple<br>open |  
-| bip_39_word_new_br7 | left<br>just<br>orient<br>extend<br>apple<br>open<br>program |  
-| bip_39_word_new_br8 | left<br>just<br>orient<br>extend<br>apple<br>open<br>program<br>ripple |  
-| bip_39_word_new_br9 | left<br>just<br>orient<br>extend<br>apple<br>open<br>program<br>ripple<br>bid |  
-| bip_39_word_new_line1 | left |  
-| bip_39_word_new_line10 | left
+| bip_39_word_new_br_1 | left |  
+| bip_39_word_new_br_10 | left<br>just<br>orient<br>extend<br>apple<br>open<br>program<br>ripple<br>bid<br>act |  
+| bip_39_word_new_br_11 | left<br>just<br>orient<br>extend<br>apple<br>open<br>program<br>ripple<br>bid<br>act<br>craft |  
+| bip_39_word_new_br_12 | left<br>just<br>orient<br>extend<br>apple<br>open<br>program<br>ripple<br>bid<br>act<br>craft<br>armor |  
+| bip_39_word_new_br_2 | left<br>just |  
+| bip_39_word_new_br_3 | left<br>just<br>orient |  
+| bip_39_word_new_br_4 | left<br>just<br>orient<br>extend |  
+| bip_39_word_new_br_5 | left<br>just<br>orient<br>extend<br>apple |  
+| bip_39_word_new_br_6 | left<br>just<br>orient<br>extend<br>apple<br>open |  
+| bip_39_word_new_br_7 | left<br>just<br>orient<br>extend<br>apple<br>open<br>program |  
+| bip_39_word_new_br_8 | left<br>just<br>orient<br>extend<br>apple<br>open<br>program<br>ripple |  
+| bip_39_word_new_br_9 | left<br>just<br>orient<br>extend<br>apple<br>open<br>program<br>ripple<br>bid |  
+| bip_39_word_new_line_1 | left |  
+| bip_39_word_new_line_10 | left
 just
 orient
 extend
@@ -55,7 +55,7 @@ program
 ripple
 bid
 act |  
-| bip_39_word_new_line11 | left
+| bip_39_word_new_line_11 | left
 just
 orient
 extend
@@ -66,7 +66,7 @@ ripple
 bid
 act
 craft |  
-| bip_39_word_new_line12 | left
+| bip_39_word_new_line_12 | left
 just
 orient
 extend
@@ -78,34 +78,34 @@ bid
 act
 craft
 armor |  
-| bip_39_word_new_line2 | left
+| bip_39_word_new_line_2 | left
 just |  
-| bip_39_word_new_line3 | left
+| bip_39_word_new_line_3 | left
 just
 orient |  
-| bip_39_word_new_line4 | left
+| bip_39_word_new_line_4 | left
 just
 orient
 extend |  
-| bip_39_word_new_line5 | left
+| bip_39_word_new_line_5 | left
 just
 orient
 extend
 apple |  
-| bip_39_word_new_line6 | left
+| bip_39_word_new_line_6 | left
 just
 orient
 extend
 apple
 open |  
-| bip_39_word_new_line7 | left
+| bip_39_word_new_line_7 | left
 just
 orient
 extend
 apple
 open
 program |  
-| bip_39_word_new_line8 | left
+| bip_39_word_new_line_8 | left
 just
 orient
 extend
@@ -113,7 +113,7 @@ apple
 open
 program
 ripple |  
-| bip_39_word_new_line9 | left
+| bip_39_word_new_line_9 | left
 just
 orient
 extend

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | glue |  
-| bip_39_word_new_br10 | glue<br>brother<br>ride<br>kidney<br>apple<br>retreat<br>demand<br>direct<br>slot<br>organ |  
-| bip_39_word_new_br11 | glue<br>brother<br>ride<br>kidney<br>apple<br>retreat<br>demand<br>direct<br>slot<br>organ<br>evoke |  
-| bip_39_word_new_br12 | glue<br>brother<br>ride<br>kidney<br>apple<br>retreat<br>demand<br>direct<br>slot<br>organ<br>evoke<br>assist |  
-| bip_39_word_new_br2 | glue<br>brother |  
-| bip_39_word_new_br3 | glue<br>brother<br>ride |  
-| bip_39_word_new_br4 | glue<br>brother<br>ride<br>kidney |  
-| bip_39_word_new_br5 | glue<br>brother<br>ride<br>kidney<br>apple |  
-| bip_39_word_new_br6 | glue<br>brother<br>ride<br>kidney<br>apple<br>retreat |  
-| bip_39_word_new_br7 | glue<br>brother<br>ride<br>kidney<br>apple<br>retreat<br>demand |  
-| bip_39_word_new_br8 | glue<br>brother<br>ride<br>kidney<br>apple<br>retreat<br>demand<br>direct |  
-| bip_39_word_new_br9 | glue<br>brother<br>ride<br>kidney<br>apple<br>retreat<br>demand<br>direct<br>slot |  
-| bip_39_word_new_line1 | glue |  
-| bip_39_word_new_line10 | glue
+| bip_39_word_new_br_1 | glue |  
+| bip_39_word_new_br_10 | glue<br>brother<br>ride<br>kidney<br>apple<br>retreat<br>demand<br>direct<br>slot<br>organ |  
+| bip_39_word_new_br_11 | glue<br>brother<br>ride<br>kidney<br>apple<br>retreat<br>demand<br>direct<br>slot<br>organ<br>evoke |  
+| bip_39_word_new_br_12 | glue<br>brother<br>ride<br>kidney<br>apple<br>retreat<br>demand<br>direct<br>slot<br>organ<br>evoke<br>assist |  
+| bip_39_word_new_br_2 | glue<br>brother |  
+| bip_39_word_new_br_3 | glue<br>brother<br>ride |  
+| bip_39_word_new_br_4 | glue<br>brother<br>ride<br>kidney |  
+| bip_39_word_new_br_5 | glue<br>brother<br>ride<br>kidney<br>apple |  
+| bip_39_word_new_br_6 | glue<br>brother<br>ride<br>kidney<br>apple<br>retreat |  
+| bip_39_word_new_br_7 | glue<br>brother<br>ride<br>kidney<br>apple<br>retreat<br>demand |  
+| bip_39_word_new_br_8 | glue<br>brother<br>ride<br>kidney<br>apple<br>retreat<br>demand<br>direct |  
+| bip_39_word_new_br_9 | glue<br>brother<br>ride<br>kidney<br>apple<br>retreat<br>demand<br>direct<br>slot |  
+| bip_39_word_new_line_1 | glue |  
+| bip_39_word_new_line_10 | glue
 brother
 ride
 kidney
@@ -55,7 +55,7 @@ demand
 direct
 slot
 organ |  
-| bip_39_word_new_line11 | glue
+| bip_39_word_new_line_11 | glue
 brother
 ride
 kidney
@@ -66,7 +66,7 @@ direct
 slot
 organ
 evoke |  
-| bip_39_word_new_line12 | glue
+| bip_39_word_new_line_12 | glue
 brother
 ride
 kidney
@@ -78,34 +78,34 @@ slot
 organ
 evoke
 assist |  
-| bip_39_word_new_line2 | glue
+| bip_39_word_new_line_2 | glue
 brother |  
-| bip_39_word_new_line3 | glue
+| bip_39_word_new_line_3 | glue
 brother
 ride |  
-| bip_39_word_new_line4 | glue
+| bip_39_word_new_line_4 | glue
 brother
 ride
 kidney |  
-| bip_39_word_new_line5 | glue
+| bip_39_word_new_line_5 | glue
 brother
 ride
 kidney
 apple |  
-| bip_39_word_new_line6 | glue
+| bip_39_word_new_line_6 | glue
 brother
 ride
 kidney
 apple
 retreat |  
-| bip_39_word_new_line7 | glue
+| bip_39_word_new_line_7 | glue
 brother
 ride
 kidney
 apple
 retreat
 demand |  
-| bip_39_word_new_line8 | glue
+| bip_39_word_new_line_8 | glue
 brother
 ride
 kidney
@@ -113,7 +113,7 @@ apple
 retreat
 demand
 direct |  
-| bip_39_word_new_line9 | glue
+| bip_39_word_new_line_9 | glue
 brother
 ride
 kidney

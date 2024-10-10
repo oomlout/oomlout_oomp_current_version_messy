@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | comfort |  
-| bip_39_word_new_br10 | comfort<br>pole<br>silk<br>twenty<br>jewel<br>celery<br>opera<br>portion<br>gaze<br>answer |  
-| bip_39_word_new_br11 | comfort<br>pole<br>silk<br>twenty<br>jewel<br>celery<br>opera<br>portion<br>gaze<br>answer<br>disorder |  
-| bip_39_word_new_br12 | comfort<br>pole<br>silk<br>twenty<br>jewel<br>celery<br>opera<br>portion<br>gaze<br>answer<br>disorder<br>alarm |  
-| bip_39_word_new_br2 | comfort<br>pole |  
-| bip_39_word_new_br3 | comfort<br>pole<br>silk |  
-| bip_39_word_new_br4 | comfort<br>pole<br>silk<br>twenty |  
-| bip_39_word_new_br5 | comfort<br>pole<br>silk<br>twenty<br>jewel |  
-| bip_39_word_new_br6 | comfort<br>pole<br>silk<br>twenty<br>jewel<br>celery |  
-| bip_39_word_new_br7 | comfort<br>pole<br>silk<br>twenty<br>jewel<br>celery<br>opera |  
-| bip_39_word_new_br8 | comfort<br>pole<br>silk<br>twenty<br>jewel<br>celery<br>opera<br>portion |  
-| bip_39_word_new_br9 | comfort<br>pole<br>silk<br>twenty<br>jewel<br>celery<br>opera<br>portion<br>gaze |  
-| bip_39_word_new_line1 | comfort |  
-| bip_39_word_new_line10 | comfort
+| bip_39_word_new_br_1 | comfort |  
+| bip_39_word_new_br_10 | comfort<br>pole<br>silk<br>twenty<br>jewel<br>celery<br>opera<br>portion<br>gaze<br>answer |  
+| bip_39_word_new_br_11 | comfort<br>pole<br>silk<br>twenty<br>jewel<br>celery<br>opera<br>portion<br>gaze<br>answer<br>disorder |  
+| bip_39_word_new_br_12 | comfort<br>pole<br>silk<br>twenty<br>jewel<br>celery<br>opera<br>portion<br>gaze<br>answer<br>disorder<br>alarm |  
+| bip_39_word_new_br_2 | comfort<br>pole |  
+| bip_39_word_new_br_3 | comfort<br>pole<br>silk |  
+| bip_39_word_new_br_4 | comfort<br>pole<br>silk<br>twenty |  
+| bip_39_word_new_br_5 | comfort<br>pole<br>silk<br>twenty<br>jewel |  
+| bip_39_word_new_br_6 | comfort<br>pole<br>silk<br>twenty<br>jewel<br>celery |  
+| bip_39_word_new_br_7 | comfort<br>pole<br>silk<br>twenty<br>jewel<br>celery<br>opera |  
+| bip_39_word_new_br_8 | comfort<br>pole<br>silk<br>twenty<br>jewel<br>celery<br>opera<br>portion |  
+| bip_39_word_new_br_9 | comfort<br>pole<br>silk<br>twenty<br>jewel<br>celery<br>opera<br>portion<br>gaze |  
+| bip_39_word_new_line_1 | comfort |  
+| bip_39_word_new_line_10 | comfort
 pole
 silk
 twenty
@@ -55,7 +55,7 @@ opera
 portion
 gaze
 answer |  
-| bip_39_word_new_line11 | comfort
+| bip_39_word_new_line_11 | comfort
 pole
 silk
 twenty
@@ -66,7 +66,7 @@ portion
 gaze
 answer
 disorder |  
-| bip_39_word_new_line12 | comfort
+| bip_39_word_new_line_12 | comfort
 pole
 silk
 twenty
@@ -78,34 +78,34 @@ gaze
 answer
 disorder
 alarm |  
-| bip_39_word_new_line2 | comfort
+| bip_39_word_new_line_2 | comfort
 pole |  
-| bip_39_word_new_line3 | comfort
+| bip_39_word_new_line_3 | comfort
 pole
 silk |  
-| bip_39_word_new_line4 | comfort
+| bip_39_word_new_line_4 | comfort
 pole
 silk
 twenty |  
-| bip_39_word_new_line5 | comfort
+| bip_39_word_new_line_5 | comfort
 pole
 silk
 twenty
 jewel |  
-| bip_39_word_new_line6 | comfort
+| bip_39_word_new_line_6 | comfort
 pole
 silk
 twenty
 jewel
 celery |  
-| bip_39_word_new_line7 | comfort
+| bip_39_word_new_line_7 | comfort
 pole
 silk
 twenty
 jewel
 celery
 opera |  
-| bip_39_word_new_line8 | comfort
+| bip_39_word_new_line_8 | comfort
 pole
 silk
 twenty
@@ -113,7 +113,7 @@ jewel
 celery
 opera
 portion |  
-| bip_39_word_new_line9 | comfort
+| bip_39_word_new_line_9 | comfort
 pole
 silk
 twenty

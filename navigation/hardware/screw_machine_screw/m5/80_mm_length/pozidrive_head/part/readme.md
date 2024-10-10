@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | luxury |  
-| bip_39_word_new_br10 | luxury<br>slender<br>clever<br>panel<br>offer<br>dirt<br>cloth<br>follow<br>rug<br>vacant |  
-| bip_39_word_new_br11 | luxury<br>slender<br>clever<br>panel<br>offer<br>dirt<br>cloth<br>follow<br>rug<br>vacant<br>neutral |  
-| bip_39_word_new_br12 | luxury<br>slender<br>clever<br>panel<br>offer<br>dirt<br>cloth<br>follow<br>rug<br>vacant<br>neutral<br>around |  
-| bip_39_word_new_br2 | luxury<br>slender |  
-| bip_39_word_new_br3 | luxury<br>slender<br>clever |  
-| bip_39_word_new_br4 | luxury<br>slender<br>clever<br>panel |  
-| bip_39_word_new_br5 | luxury<br>slender<br>clever<br>panel<br>offer |  
-| bip_39_word_new_br6 | luxury<br>slender<br>clever<br>panel<br>offer<br>dirt |  
-| bip_39_word_new_br7 | luxury<br>slender<br>clever<br>panel<br>offer<br>dirt<br>cloth |  
-| bip_39_word_new_br8 | luxury<br>slender<br>clever<br>panel<br>offer<br>dirt<br>cloth<br>follow |  
-| bip_39_word_new_br9 | luxury<br>slender<br>clever<br>panel<br>offer<br>dirt<br>cloth<br>follow<br>rug |  
-| bip_39_word_new_line1 | luxury |  
-| bip_39_word_new_line10 | luxury
+| bip_39_word_new_br_1 | luxury |  
+| bip_39_word_new_br_10 | luxury<br>slender<br>clever<br>panel<br>offer<br>dirt<br>cloth<br>follow<br>rug<br>vacant |  
+| bip_39_word_new_br_11 | luxury<br>slender<br>clever<br>panel<br>offer<br>dirt<br>cloth<br>follow<br>rug<br>vacant<br>neutral |  
+| bip_39_word_new_br_12 | luxury<br>slender<br>clever<br>panel<br>offer<br>dirt<br>cloth<br>follow<br>rug<br>vacant<br>neutral<br>around |  
+| bip_39_word_new_br_2 | luxury<br>slender |  
+| bip_39_word_new_br_3 | luxury<br>slender<br>clever |  
+| bip_39_word_new_br_4 | luxury<br>slender<br>clever<br>panel |  
+| bip_39_word_new_br_5 | luxury<br>slender<br>clever<br>panel<br>offer |  
+| bip_39_word_new_br_6 | luxury<br>slender<br>clever<br>panel<br>offer<br>dirt |  
+| bip_39_word_new_br_7 | luxury<br>slender<br>clever<br>panel<br>offer<br>dirt<br>cloth |  
+| bip_39_word_new_br_8 | luxury<br>slender<br>clever<br>panel<br>offer<br>dirt<br>cloth<br>follow |  
+| bip_39_word_new_br_9 | luxury<br>slender<br>clever<br>panel<br>offer<br>dirt<br>cloth<br>follow<br>rug |  
+| bip_39_word_new_line_1 | luxury |  
+| bip_39_word_new_line_10 | luxury
 slender
 clever
 panel
@@ -55,7 +55,7 @@ cloth
 follow
 rug
 vacant |  
-| bip_39_word_new_line11 | luxury
+| bip_39_word_new_line_11 | luxury
 slender
 clever
 panel
@@ -66,7 +66,7 @@ follow
 rug
 vacant
 neutral |  
-| bip_39_word_new_line12 | luxury
+| bip_39_word_new_line_12 | luxury
 slender
 clever
 panel
@@ -78,34 +78,34 @@ rug
 vacant
 neutral
 around |  
-| bip_39_word_new_line2 | luxury
+| bip_39_word_new_line_2 | luxury
 slender |  
-| bip_39_word_new_line3 | luxury
+| bip_39_word_new_line_3 | luxury
 slender
 clever |  
-| bip_39_word_new_line4 | luxury
+| bip_39_word_new_line_4 | luxury
 slender
 clever
 panel |  
-| bip_39_word_new_line5 | luxury
+| bip_39_word_new_line_5 | luxury
 slender
 clever
 panel
 offer |  
-| bip_39_word_new_line6 | luxury
+| bip_39_word_new_line_6 | luxury
 slender
 clever
 panel
 offer
 dirt |  
-| bip_39_word_new_line7 | luxury
+| bip_39_word_new_line_7 | luxury
 slender
 clever
 panel
 offer
 dirt
 cloth |  
-| bip_39_word_new_line8 | luxury
+| bip_39_word_new_line_8 | luxury
 slender
 clever
 panel
@@ -113,7 +113,7 @@ offer
 dirt
 cloth
 follow |  
-| bip_39_word_new_line9 | luxury
+| bip_39_word_new_line_9 | luxury
 slender
 clever
 panel

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | actress |  
-| bip_39_word_new_br10 | actress<br>method<br>ill<br>speak<br>middle<br>make<br>bargain<br>glide<br>crush<br>critic |  
-| bip_39_word_new_br11 | actress<br>method<br>ill<br>speak<br>middle<br>make<br>bargain<br>glide<br>crush<br>critic<br>rival |  
-| bip_39_word_new_br12 | actress<br>method<br>ill<br>speak<br>middle<br>make<br>bargain<br>glide<br>crush<br>critic<br>rival<br>acid |  
-| bip_39_word_new_br2 | actress<br>method |  
-| bip_39_word_new_br3 | actress<br>method<br>ill |  
-| bip_39_word_new_br4 | actress<br>method<br>ill<br>speak |  
-| bip_39_word_new_br5 | actress<br>method<br>ill<br>speak<br>middle |  
-| bip_39_word_new_br6 | actress<br>method<br>ill<br>speak<br>middle<br>make |  
-| bip_39_word_new_br7 | actress<br>method<br>ill<br>speak<br>middle<br>make<br>bargain |  
-| bip_39_word_new_br8 | actress<br>method<br>ill<br>speak<br>middle<br>make<br>bargain<br>glide |  
-| bip_39_word_new_br9 | actress<br>method<br>ill<br>speak<br>middle<br>make<br>bargain<br>glide<br>crush |  
-| bip_39_word_new_line1 | actress |  
-| bip_39_word_new_line10 | actress
+| bip_39_word_new_br_1 | actress |  
+| bip_39_word_new_br_10 | actress<br>method<br>ill<br>speak<br>middle<br>make<br>bargain<br>glide<br>crush<br>critic |  
+| bip_39_word_new_br_11 | actress<br>method<br>ill<br>speak<br>middle<br>make<br>bargain<br>glide<br>crush<br>critic<br>rival |  
+| bip_39_word_new_br_12 | actress<br>method<br>ill<br>speak<br>middle<br>make<br>bargain<br>glide<br>crush<br>critic<br>rival<br>acid |  
+| bip_39_word_new_br_2 | actress<br>method |  
+| bip_39_word_new_br_3 | actress<br>method<br>ill |  
+| bip_39_word_new_br_4 | actress<br>method<br>ill<br>speak |  
+| bip_39_word_new_br_5 | actress<br>method<br>ill<br>speak<br>middle |  
+| bip_39_word_new_br_6 | actress<br>method<br>ill<br>speak<br>middle<br>make |  
+| bip_39_word_new_br_7 | actress<br>method<br>ill<br>speak<br>middle<br>make<br>bargain |  
+| bip_39_word_new_br_8 | actress<br>method<br>ill<br>speak<br>middle<br>make<br>bargain<br>glide |  
+| bip_39_word_new_br_9 | actress<br>method<br>ill<br>speak<br>middle<br>make<br>bargain<br>glide<br>crush |  
+| bip_39_word_new_line_1 | actress |  
+| bip_39_word_new_line_10 | actress
 method
 ill
 speak
@@ -55,7 +55,7 @@ bargain
 glide
 crush
 critic |  
-| bip_39_word_new_line11 | actress
+| bip_39_word_new_line_11 | actress
 method
 ill
 speak
@@ -66,7 +66,7 @@ glide
 crush
 critic
 rival |  
-| bip_39_word_new_line12 | actress
+| bip_39_word_new_line_12 | actress
 method
 ill
 speak
@@ -78,34 +78,34 @@ crush
 critic
 rival
 acid |  
-| bip_39_word_new_line2 | actress
+| bip_39_word_new_line_2 | actress
 method |  
-| bip_39_word_new_line3 | actress
+| bip_39_word_new_line_3 | actress
 method
 ill |  
-| bip_39_word_new_line4 | actress
+| bip_39_word_new_line_4 | actress
 method
 ill
 speak |  
-| bip_39_word_new_line5 | actress
+| bip_39_word_new_line_5 | actress
 method
 ill
 speak
 middle |  
-| bip_39_word_new_line6 | actress
+| bip_39_word_new_line_6 | actress
 method
 ill
 speak
 middle
 make |  
-| bip_39_word_new_line7 | actress
+| bip_39_word_new_line_7 | actress
 method
 ill
 speak
 middle
 make
 bargain |  
-| bip_39_word_new_line8 | actress
+| bip_39_word_new_line_8 | actress
 method
 ill
 speak
@@ -113,7 +113,7 @@ middle
 make
 bargain
 glide |  
-| bip_39_word_new_line9 | actress
+| bip_39_word_new_line_9 | actress
 method
 ill
 speak

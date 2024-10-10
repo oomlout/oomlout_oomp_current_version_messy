@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | capital |  
-| bip_39_word_new_br10 | capital<br>zone<br>strategy<br>seven<br>silver<br>vanish<br>lemon<br>virus<br>raise<br>wonder |  
-| bip_39_word_new_br11 | capital<br>zone<br>strategy<br>seven<br>silver<br>vanish<br>lemon<br>virus<br>raise<br>wonder<br>toy |  
-| bip_39_word_new_br12 | capital<br>zone<br>strategy<br>seven<br>silver<br>vanish<br>lemon<br>virus<br>raise<br>wonder<br>toy<br>able |  
-| bip_39_word_new_br2 | capital<br>zone |  
-| bip_39_word_new_br3 | capital<br>zone<br>strategy |  
-| bip_39_word_new_br4 | capital<br>zone<br>strategy<br>seven |  
-| bip_39_word_new_br5 | capital<br>zone<br>strategy<br>seven<br>silver |  
-| bip_39_word_new_br6 | capital<br>zone<br>strategy<br>seven<br>silver<br>vanish |  
-| bip_39_word_new_br7 | capital<br>zone<br>strategy<br>seven<br>silver<br>vanish<br>lemon |  
-| bip_39_word_new_br8 | capital<br>zone<br>strategy<br>seven<br>silver<br>vanish<br>lemon<br>virus |  
-| bip_39_word_new_br9 | capital<br>zone<br>strategy<br>seven<br>silver<br>vanish<br>lemon<br>virus<br>raise |  
-| bip_39_word_new_line1 | capital |  
-| bip_39_word_new_line10 | capital
+| bip_39_word_new_br_1 | capital |  
+| bip_39_word_new_br_10 | capital<br>zone<br>strategy<br>seven<br>silver<br>vanish<br>lemon<br>virus<br>raise<br>wonder |  
+| bip_39_word_new_br_11 | capital<br>zone<br>strategy<br>seven<br>silver<br>vanish<br>lemon<br>virus<br>raise<br>wonder<br>toy |  
+| bip_39_word_new_br_12 | capital<br>zone<br>strategy<br>seven<br>silver<br>vanish<br>lemon<br>virus<br>raise<br>wonder<br>toy<br>able |  
+| bip_39_word_new_br_2 | capital<br>zone |  
+| bip_39_word_new_br_3 | capital<br>zone<br>strategy |  
+| bip_39_word_new_br_4 | capital<br>zone<br>strategy<br>seven |  
+| bip_39_word_new_br_5 | capital<br>zone<br>strategy<br>seven<br>silver |  
+| bip_39_word_new_br_6 | capital<br>zone<br>strategy<br>seven<br>silver<br>vanish |  
+| bip_39_word_new_br_7 | capital<br>zone<br>strategy<br>seven<br>silver<br>vanish<br>lemon |  
+| bip_39_word_new_br_8 | capital<br>zone<br>strategy<br>seven<br>silver<br>vanish<br>lemon<br>virus |  
+| bip_39_word_new_br_9 | capital<br>zone<br>strategy<br>seven<br>silver<br>vanish<br>lemon<br>virus<br>raise |  
+| bip_39_word_new_line_1 | capital |  
+| bip_39_word_new_line_10 | capital
 zone
 strategy
 seven
@@ -55,7 +55,7 @@ lemon
 virus
 raise
 wonder |  
-| bip_39_word_new_line11 | capital
+| bip_39_word_new_line_11 | capital
 zone
 strategy
 seven
@@ -66,7 +66,7 @@ virus
 raise
 wonder
 toy |  
-| bip_39_word_new_line12 | capital
+| bip_39_word_new_line_12 | capital
 zone
 strategy
 seven
@@ -78,34 +78,34 @@ raise
 wonder
 toy
 able |  
-| bip_39_word_new_line2 | capital
+| bip_39_word_new_line_2 | capital
 zone |  
-| bip_39_word_new_line3 | capital
+| bip_39_word_new_line_3 | capital
 zone
 strategy |  
-| bip_39_word_new_line4 | capital
+| bip_39_word_new_line_4 | capital
 zone
 strategy
 seven |  
-| bip_39_word_new_line5 | capital
+| bip_39_word_new_line_5 | capital
 zone
 strategy
 seven
 silver |  
-| bip_39_word_new_line6 | capital
+| bip_39_word_new_line_6 | capital
 zone
 strategy
 seven
 silver
 vanish |  
-| bip_39_word_new_line7 | capital
+| bip_39_word_new_line_7 | capital
 zone
 strategy
 seven
 silver
 vanish
 lemon |  
-| bip_39_word_new_line8 | capital
+| bip_39_word_new_line_8 | capital
 zone
 strategy
 seven
@@ -113,7 +113,7 @@ silver
 vanish
 lemon
 virus |  
-| bip_39_word_new_line9 | capital
+| bip_39_word_new_line_9 | capital
 zone
 strategy
 seven

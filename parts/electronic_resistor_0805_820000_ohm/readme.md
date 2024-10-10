@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | alone |  
-| bip_39_word_new_br10 | alone<br>van<br>salmon<br>carry<br>alarm<br>penalty<br>accident<br>gift<br>legend<br>often |  
-| bip_39_word_new_br11 | alone<br>van<br>salmon<br>carry<br>alarm<br>penalty<br>accident<br>gift<br>legend<br>often<br>boy |  
-| bip_39_word_new_br12 | alone<br>van<br>salmon<br>carry<br>alarm<br>penalty<br>accident<br>gift<br>legend<br>often<br>boy<br>afford |  
-| bip_39_word_new_br2 | alone<br>van |  
-| bip_39_word_new_br3 | alone<br>van<br>salmon |  
-| bip_39_word_new_br4 | alone<br>van<br>salmon<br>carry |  
-| bip_39_word_new_br5 | alone<br>van<br>salmon<br>carry<br>alarm |  
-| bip_39_word_new_br6 | alone<br>van<br>salmon<br>carry<br>alarm<br>penalty |  
-| bip_39_word_new_br7 | alone<br>van<br>salmon<br>carry<br>alarm<br>penalty<br>accident |  
-| bip_39_word_new_br8 | alone<br>van<br>salmon<br>carry<br>alarm<br>penalty<br>accident<br>gift |  
-| bip_39_word_new_br9 | alone<br>van<br>salmon<br>carry<br>alarm<br>penalty<br>accident<br>gift<br>legend |  
-| bip_39_word_new_line1 | alone |  
-| bip_39_word_new_line10 | alone
+| bip_39_word_new_br_1 | alone |  
+| bip_39_word_new_br_10 | alone<br>van<br>salmon<br>carry<br>alarm<br>penalty<br>accident<br>gift<br>legend<br>often |  
+| bip_39_word_new_br_11 | alone<br>van<br>salmon<br>carry<br>alarm<br>penalty<br>accident<br>gift<br>legend<br>often<br>boy |  
+| bip_39_word_new_br_12 | alone<br>van<br>salmon<br>carry<br>alarm<br>penalty<br>accident<br>gift<br>legend<br>often<br>boy<br>afford |  
+| bip_39_word_new_br_2 | alone<br>van |  
+| bip_39_word_new_br_3 | alone<br>van<br>salmon |  
+| bip_39_word_new_br_4 | alone<br>van<br>salmon<br>carry |  
+| bip_39_word_new_br_5 | alone<br>van<br>salmon<br>carry<br>alarm |  
+| bip_39_word_new_br_6 | alone<br>van<br>salmon<br>carry<br>alarm<br>penalty |  
+| bip_39_word_new_br_7 | alone<br>van<br>salmon<br>carry<br>alarm<br>penalty<br>accident |  
+| bip_39_word_new_br_8 | alone<br>van<br>salmon<br>carry<br>alarm<br>penalty<br>accident<br>gift |  
+| bip_39_word_new_br_9 | alone<br>van<br>salmon<br>carry<br>alarm<br>penalty<br>accident<br>gift<br>legend |  
+| bip_39_word_new_line_1 | alone |  
+| bip_39_word_new_line_10 | alone
 van
 salmon
 carry
@@ -55,7 +55,7 @@ accident
 gift
 legend
 often |  
-| bip_39_word_new_line11 | alone
+| bip_39_word_new_line_11 | alone
 van
 salmon
 carry
@@ -66,7 +66,7 @@ gift
 legend
 often
 boy |  
-| bip_39_word_new_line12 | alone
+| bip_39_word_new_line_12 | alone
 van
 salmon
 carry
@@ -78,34 +78,34 @@ legend
 often
 boy
 afford |  
-| bip_39_word_new_line2 | alone
+| bip_39_word_new_line_2 | alone
 van |  
-| bip_39_word_new_line3 | alone
+| bip_39_word_new_line_3 | alone
 van
 salmon |  
-| bip_39_word_new_line4 | alone
+| bip_39_word_new_line_4 | alone
 van
 salmon
 carry |  
-| bip_39_word_new_line5 | alone
+| bip_39_word_new_line_5 | alone
 van
 salmon
 carry
 alarm |  
-| bip_39_word_new_line6 | alone
+| bip_39_word_new_line_6 | alone
 van
 salmon
 carry
 alarm
 penalty |  
-| bip_39_word_new_line7 | alone
+| bip_39_word_new_line_7 | alone
 van
 salmon
 carry
 alarm
 penalty
 accident |  
-| bip_39_word_new_line8 | alone
+| bip_39_word_new_line_8 | alone
 van
 salmon
 carry
@@ -113,7 +113,7 @@ alarm
 penalty
 accident
 gift |  
-| bip_39_word_new_line9 | alone
+| bip_39_word_new_line_9 | alone
 van
 salmon
 carry

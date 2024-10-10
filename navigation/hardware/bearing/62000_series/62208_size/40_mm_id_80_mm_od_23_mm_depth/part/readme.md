@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | humor |  
-| bip_39_word_new_br10 | humor<br>basket<br>survey<br>craft<br>copy<br>lucky<br>truth<br>lake<br>humble<br>limit |  
-| bip_39_word_new_br11 | humor<br>basket<br>survey<br>craft<br>copy<br>lucky<br>truth<br>lake<br>humble<br>limit<br>kit |  
-| bip_39_word_new_br12 | humor<br>basket<br>survey<br>craft<br>copy<br>lucky<br>truth<br>lake<br>humble<br>limit<br>kit<br>anger |  
-| bip_39_word_new_br2 | humor<br>basket |  
-| bip_39_word_new_br3 | humor<br>basket<br>survey |  
-| bip_39_word_new_br4 | humor<br>basket<br>survey<br>craft |  
-| bip_39_word_new_br5 | humor<br>basket<br>survey<br>craft<br>copy |  
-| bip_39_word_new_br6 | humor<br>basket<br>survey<br>craft<br>copy<br>lucky |  
-| bip_39_word_new_br7 | humor<br>basket<br>survey<br>craft<br>copy<br>lucky<br>truth |  
-| bip_39_word_new_br8 | humor<br>basket<br>survey<br>craft<br>copy<br>lucky<br>truth<br>lake |  
-| bip_39_word_new_br9 | humor<br>basket<br>survey<br>craft<br>copy<br>lucky<br>truth<br>lake<br>humble |  
-| bip_39_word_new_line1 | humor |  
-| bip_39_word_new_line10 | humor
+| bip_39_word_new_br_1 | humor |  
+| bip_39_word_new_br_10 | humor<br>basket<br>survey<br>craft<br>copy<br>lucky<br>truth<br>lake<br>humble<br>limit |  
+| bip_39_word_new_br_11 | humor<br>basket<br>survey<br>craft<br>copy<br>lucky<br>truth<br>lake<br>humble<br>limit<br>kit |  
+| bip_39_word_new_br_12 | humor<br>basket<br>survey<br>craft<br>copy<br>lucky<br>truth<br>lake<br>humble<br>limit<br>kit<br>anger |  
+| bip_39_word_new_br_2 | humor<br>basket |  
+| bip_39_word_new_br_3 | humor<br>basket<br>survey |  
+| bip_39_word_new_br_4 | humor<br>basket<br>survey<br>craft |  
+| bip_39_word_new_br_5 | humor<br>basket<br>survey<br>craft<br>copy |  
+| bip_39_word_new_br_6 | humor<br>basket<br>survey<br>craft<br>copy<br>lucky |  
+| bip_39_word_new_br_7 | humor<br>basket<br>survey<br>craft<br>copy<br>lucky<br>truth |  
+| bip_39_word_new_br_8 | humor<br>basket<br>survey<br>craft<br>copy<br>lucky<br>truth<br>lake |  
+| bip_39_word_new_br_9 | humor<br>basket<br>survey<br>craft<br>copy<br>lucky<br>truth<br>lake<br>humble |  
+| bip_39_word_new_line_1 | humor |  
+| bip_39_word_new_line_10 | humor
 basket
 survey
 craft
@@ -55,7 +55,7 @@ truth
 lake
 humble
 limit |  
-| bip_39_word_new_line11 | humor
+| bip_39_word_new_line_11 | humor
 basket
 survey
 craft
@@ -66,7 +66,7 @@ lake
 humble
 limit
 kit |  
-| bip_39_word_new_line12 | humor
+| bip_39_word_new_line_12 | humor
 basket
 survey
 craft
@@ -78,34 +78,34 @@ humble
 limit
 kit
 anger |  
-| bip_39_word_new_line2 | humor
+| bip_39_word_new_line_2 | humor
 basket |  
-| bip_39_word_new_line3 | humor
+| bip_39_word_new_line_3 | humor
 basket
 survey |  
-| bip_39_word_new_line4 | humor
+| bip_39_word_new_line_4 | humor
 basket
 survey
 craft |  
-| bip_39_word_new_line5 | humor
+| bip_39_word_new_line_5 | humor
 basket
 survey
 craft
 copy |  
-| bip_39_word_new_line6 | humor
+| bip_39_word_new_line_6 | humor
 basket
 survey
 craft
 copy
 lucky |  
-| bip_39_word_new_line7 | humor
+| bip_39_word_new_line_7 | humor
 basket
 survey
 craft
 copy
 lucky
 truth |  
-| bip_39_word_new_line8 | humor
+| bip_39_word_new_line_8 | humor
 basket
 survey
 craft
@@ -113,7 +113,7 @@ copy
 lucky
 truth
 lake |  
-| bip_39_word_new_line9 | humor
+| bip_39_word_new_line_9 | humor
 basket
 survey
 craft

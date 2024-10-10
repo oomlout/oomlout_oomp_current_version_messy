@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rebuild |  
-| bip_39_word_new_br10 | rebuild<br>jeans<br>find<br>crawl<br>patrol<br>replace<br>leisure<br>embody<br>security<br>open |  
-| bip_39_word_new_br11 | rebuild<br>jeans<br>find<br>crawl<br>patrol<br>replace<br>leisure<br>embody<br>security<br>open<br>income |  
-| bip_39_word_new_br12 | rebuild<br>jeans<br>find<br>crawl<br>patrol<br>replace<br>leisure<br>embody<br>security<br>open<br>income<br>around |  
-| bip_39_word_new_br2 | rebuild<br>jeans |  
-| bip_39_word_new_br3 | rebuild<br>jeans<br>find |  
-| bip_39_word_new_br4 | rebuild<br>jeans<br>find<br>crawl |  
-| bip_39_word_new_br5 | rebuild<br>jeans<br>find<br>crawl<br>patrol |  
-| bip_39_word_new_br6 | rebuild<br>jeans<br>find<br>crawl<br>patrol<br>replace |  
-| bip_39_word_new_br7 | rebuild<br>jeans<br>find<br>crawl<br>patrol<br>replace<br>leisure |  
-| bip_39_word_new_br8 | rebuild<br>jeans<br>find<br>crawl<br>patrol<br>replace<br>leisure<br>embody |  
-| bip_39_word_new_br9 | rebuild<br>jeans<br>find<br>crawl<br>patrol<br>replace<br>leisure<br>embody<br>security |  
-| bip_39_word_new_line1 | rebuild |  
-| bip_39_word_new_line10 | rebuild
+| bip_39_word_new_br_1 | rebuild |  
+| bip_39_word_new_br_10 | rebuild<br>jeans<br>find<br>crawl<br>patrol<br>replace<br>leisure<br>embody<br>security<br>open |  
+| bip_39_word_new_br_11 | rebuild<br>jeans<br>find<br>crawl<br>patrol<br>replace<br>leisure<br>embody<br>security<br>open<br>income |  
+| bip_39_word_new_br_12 | rebuild<br>jeans<br>find<br>crawl<br>patrol<br>replace<br>leisure<br>embody<br>security<br>open<br>income<br>around |  
+| bip_39_word_new_br_2 | rebuild<br>jeans |  
+| bip_39_word_new_br_3 | rebuild<br>jeans<br>find |  
+| bip_39_word_new_br_4 | rebuild<br>jeans<br>find<br>crawl |  
+| bip_39_word_new_br_5 | rebuild<br>jeans<br>find<br>crawl<br>patrol |  
+| bip_39_word_new_br_6 | rebuild<br>jeans<br>find<br>crawl<br>patrol<br>replace |  
+| bip_39_word_new_br_7 | rebuild<br>jeans<br>find<br>crawl<br>patrol<br>replace<br>leisure |  
+| bip_39_word_new_br_8 | rebuild<br>jeans<br>find<br>crawl<br>patrol<br>replace<br>leisure<br>embody |  
+| bip_39_word_new_br_9 | rebuild<br>jeans<br>find<br>crawl<br>patrol<br>replace<br>leisure<br>embody<br>security |  
+| bip_39_word_new_line_1 | rebuild |  
+| bip_39_word_new_line_10 | rebuild
 jeans
 find
 crawl
@@ -55,7 +55,7 @@ leisure
 embody
 security
 open |  
-| bip_39_word_new_line11 | rebuild
+| bip_39_word_new_line_11 | rebuild
 jeans
 find
 crawl
@@ -66,7 +66,7 @@ embody
 security
 open
 income |  
-| bip_39_word_new_line12 | rebuild
+| bip_39_word_new_line_12 | rebuild
 jeans
 find
 crawl
@@ -78,34 +78,34 @@ security
 open
 income
 around |  
-| bip_39_word_new_line2 | rebuild
+| bip_39_word_new_line_2 | rebuild
 jeans |  
-| bip_39_word_new_line3 | rebuild
+| bip_39_word_new_line_3 | rebuild
 jeans
 find |  
-| bip_39_word_new_line4 | rebuild
+| bip_39_word_new_line_4 | rebuild
 jeans
 find
 crawl |  
-| bip_39_word_new_line5 | rebuild
+| bip_39_word_new_line_5 | rebuild
 jeans
 find
 crawl
 patrol |  
-| bip_39_word_new_line6 | rebuild
+| bip_39_word_new_line_6 | rebuild
 jeans
 find
 crawl
 patrol
 replace |  
-| bip_39_word_new_line7 | rebuild
+| bip_39_word_new_line_7 | rebuild
 jeans
 find
 crawl
 patrol
 replace
 leisure |  
-| bip_39_word_new_line8 | rebuild
+| bip_39_word_new_line_8 | rebuild
 jeans
 find
 crawl
@@ -113,7 +113,7 @@ patrol
 replace
 leisure
 embody |  
-| bip_39_word_new_line9 | rebuild
+| bip_39_word_new_line_9 | rebuild
 jeans
 find
 crawl

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | useful |  
-| bip_39_word_new_br10 | useful<br>hire<br>organ<br>drift<br>dinner<br>burger<br>leave<br>inmate<br>fresh<br>ring |  
-| bip_39_word_new_br11 | useful<br>hire<br>organ<br>drift<br>dinner<br>burger<br>leave<br>inmate<br>fresh<br>ring<br>proud |  
-| bip_39_word_new_br12 | useful<br>hire<br>organ<br>drift<br>dinner<br>burger<br>leave<br>inmate<br>fresh<br>ring<br>proud<br>arctic |  
-| bip_39_word_new_br2 | useful<br>hire |  
-| bip_39_word_new_br3 | useful<br>hire<br>organ |  
-| bip_39_word_new_br4 | useful<br>hire<br>organ<br>drift |  
-| bip_39_word_new_br5 | useful<br>hire<br>organ<br>drift<br>dinner |  
-| bip_39_word_new_br6 | useful<br>hire<br>organ<br>drift<br>dinner<br>burger |  
-| bip_39_word_new_br7 | useful<br>hire<br>organ<br>drift<br>dinner<br>burger<br>leave |  
-| bip_39_word_new_br8 | useful<br>hire<br>organ<br>drift<br>dinner<br>burger<br>leave<br>inmate |  
-| bip_39_word_new_br9 | useful<br>hire<br>organ<br>drift<br>dinner<br>burger<br>leave<br>inmate<br>fresh |  
-| bip_39_word_new_line1 | useful |  
-| bip_39_word_new_line10 | useful
+| bip_39_word_new_br_1 | useful |  
+| bip_39_word_new_br_10 | useful<br>hire<br>organ<br>drift<br>dinner<br>burger<br>leave<br>inmate<br>fresh<br>ring |  
+| bip_39_word_new_br_11 | useful<br>hire<br>organ<br>drift<br>dinner<br>burger<br>leave<br>inmate<br>fresh<br>ring<br>proud |  
+| bip_39_word_new_br_12 | useful<br>hire<br>organ<br>drift<br>dinner<br>burger<br>leave<br>inmate<br>fresh<br>ring<br>proud<br>arctic |  
+| bip_39_word_new_br_2 | useful<br>hire |  
+| bip_39_word_new_br_3 | useful<br>hire<br>organ |  
+| bip_39_word_new_br_4 | useful<br>hire<br>organ<br>drift |  
+| bip_39_word_new_br_5 | useful<br>hire<br>organ<br>drift<br>dinner |  
+| bip_39_word_new_br_6 | useful<br>hire<br>organ<br>drift<br>dinner<br>burger |  
+| bip_39_word_new_br_7 | useful<br>hire<br>organ<br>drift<br>dinner<br>burger<br>leave |  
+| bip_39_word_new_br_8 | useful<br>hire<br>organ<br>drift<br>dinner<br>burger<br>leave<br>inmate |  
+| bip_39_word_new_br_9 | useful<br>hire<br>organ<br>drift<br>dinner<br>burger<br>leave<br>inmate<br>fresh |  
+| bip_39_word_new_line_1 | useful |  
+| bip_39_word_new_line_10 | useful
 hire
 organ
 drift
@@ -55,7 +55,7 @@ leave
 inmate
 fresh
 ring |  
-| bip_39_word_new_line11 | useful
+| bip_39_word_new_line_11 | useful
 hire
 organ
 drift
@@ -66,7 +66,7 @@ inmate
 fresh
 ring
 proud |  
-| bip_39_word_new_line12 | useful
+| bip_39_word_new_line_12 | useful
 hire
 organ
 drift
@@ -78,34 +78,34 @@ fresh
 ring
 proud
 arctic |  
-| bip_39_word_new_line2 | useful
+| bip_39_word_new_line_2 | useful
 hire |  
-| bip_39_word_new_line3 | useful
+| bip_39_word_new_line_3 | useful
 hire
 organ |  
-| bip_39_word_new_line4 | useful
+| bip_39_word_new_line_4 | useful
 hire
 organ
 drift |  
-| bip_39_word_new_line5 | useful
+| bip_39_word_new_line_5 | useful
 hire
 organ
 drift
 dinner |  
-| bip_39_word_new_line6 | useful
+| bip_39_word_new_line_6 | useful
 hire
 organ
 drift
 dinner
 burger |  
-| bip_39_word_new_line7 | useful
+| bip_39_word_new_line_7 | useful
 hire
 organ
 drift
 dinner
 burger
 leave |  
-| bip_39_word_new_line8 | useful
+| bip_39_word_new_line_8 | useful
 hire
 organ
 drift
@@ -113,7 +113,7 @@ dinner
 burger
 leave
 inmate |  
-| bip_39_word_new_line9 | useful
+| bip_39_word_new_line_9 | useful
 hire
 organ
 drift

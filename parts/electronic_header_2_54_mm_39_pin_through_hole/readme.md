@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | month |  
-| bip_39_word_new_br10 | month<br>plug<br>bracket<br>rain<br>gaze<br>idle<br>raise<br>drum<br>latin<br>robust |  
-| bip_39_word_new_br11 | month<br>plug<br>bracket<br>rain<br>gaze<br>idle<br>raise<br>drum<br>latin<br>robust<br>engine |  
-| bip_39_word_new_br12 | month<br>plug<br>bracket<br>rain<br>gaze<br>idle<br>raise<br>drum<br>latin<br>robust<br>engine<br>address |  
-| bip_39_word_new_br2 | month<br>plug |  
-| bip_39_word_new_br3 | month<br>plug<br>bracket |  
-| bip_39_word_new_br4 | month<br>plug<br>bracket<br>rain |  
-| bip_39_word_new_br5 | month<br>plug<br>bracket<br>rain<br>gaze |  
-| bip_39_word_new_br6 | month<br>plug<br>bracket<br>rain<br>gaze<br>idle |  
-| bip_39_word_new_br7 | month<br>plug<br>bracket<br>rain<br>gaze<br>idle<br>raise |  
-| bip_39_word_new_br8 | month<br>plug<br>bracket<br>rain<br>gaze<br>idle<br>raise<br>drum |  
-| bip_39_word_new_br9 | month<br>plug<br>bracket<br>rain<br>gaze<br>idle<br>raise<br>drum<br>latin |  
-| bip_39_word_new_line1 | month |  
-| bip_39_word_new_line10 | month
+| bip_39_word_new_br_1 | month |  
+| bip_39_word_new_br_10 | month<br>plug<br>bracket<br>rain<br>gaze<br>idle<br>raise<br>drum<br>latin<br>robust |  
+| bip_39_word_new_br_11 | month<br>plug<br>bracket<br>rain<br>gaze<br>idle<br>raise<br>drum<br>latin<br>robust<br>engine |  
+| bip_39_word_new_br_12 | month<br>plug<br>bracket<br>rain<br>gaze<br>idle<br>raise<br>drum<br>latin<br>robust<br>engine<br>address |  
+| bip_39_word_new_br_2 | month<br>plug |  
+| bip_39_word_new_br_3 | month<br>plug<br>bracket |  
+| bip_39_word_new_br_4 | month<br>plug<br>bracket<br>rain |  
+| bip_39_word_new_br_5 | month<br>plug<br>bracket<br>rain<br>gaze |  
+| bip_39_word_new_br_6 | month<br>plug<br>bracket<br>rain<br>gaze<br>idle |  
+| bip_39_word_new_br_7 | month<br>plug<br>bracket<br>rain<br>gaze<br>idle<br>raise |  
+| bip_39_word_new_br_8 | month<br>plug<br>bracket<br>rain<br>gaze<br>idle<br>raise<br>drum |  
+| bip_39_word_new_br_9 | month<br>plug<br>bracket<br>rain<br>gaze<br>idle<br>raise<br>drum<br>latin |  
+| bip_39_word_new_line_1 | month |  
+| bip_39_word_new_line_10 | month
 plug
 bracket
 rain
@@ -55,7 +55,7 @@ raise
 drum
 latin
 robust |  
-| bip_39_word_new_line11 | month
+| bip_39_word_new_line_11 | month
 plug
 bracket
 rain
@@ -66,7 +66,7 @@ drum
 latin
 robust
 engine |  
-| bip_39_word_new_line12 | month
+| bip_39_word_new_line_12 | month
 plug
 bracket
 rain
@@ -78,34 +78,34 @@ latin
 robust
 engine
 address |  
-| bip_39_word_new_line2 | month
+| bip_39_word_new_line_2 | month
 plug |  
-| bip_39_word_new_line3 | month
+| bip_39_word_new_line_3 | month
 plug
 bracket |  
-| bip_39_word_new_line4 | month
+| bip_39_word_new_line_4 | month
 plug
 bracket
 rain |  
-| bip_39_word_new_line5 | month
+| bip_39_word_new_line_5 | month
 plug
 bracket
 rain
 gaze |  
-| bip_39_word_new_line6 | month
+| bip_39_word_new_line_6 | month
 plug
 bracket
 rain
 gaze
 idle |  
-| bip_39_word_new_line7 | month
+| bip_39_word_new_line_7 | month
 plug
 bracket
 rain
 gaze
 idle
 raise |  
-| bip_39_word_new_line8 | month
+| bip_39_word_new_line_8 | month
 plug
 bracket
 rain
@@ -113,7 +113,7 @@ gaze
 idle
 raise
 drum |  
-| bip_39_word_new_line9 | month
+| bip_39_word_new_line_9 | month
 plug
 bracket
 rain

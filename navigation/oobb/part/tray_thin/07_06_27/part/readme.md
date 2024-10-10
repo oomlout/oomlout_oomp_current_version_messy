@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | grid |  
-| bip_39_word_new_br10 | grid<br>pattern<br>rail<br>olympic<br>choose<br>gentle<br>inmate<br>online<br>problem<br>ocean |  
-| bip_39_word_new_br11 | grid<br>pattern<br>rail<br>olympic<br>choose<br>gentle<br>inmate<br>online<br>problem<br>ocean<br>gloom |  
-| bip_39_word_new_br12 | grid<br>pattern<br>rail<br>olympic<br>choose<br>gentle<br>inmate<br>online<br>problem<br>ocean<br>gloom<br>antenna |  
-| bip_39_word_new_br2 | grid<br>pattern |  
-| bip_39_word_new_br3 | grid<br>pattern<br>rail |  
-| bip_39_word_new_br4 | grid<br>pattern<br>rail<br>olympic |  
-| bip_39_word_new_br5 | grid<br>pattern<br>rail<br>olympic<br>choose |  
-| bip_39_word_new_br6 | grid<br>pattern<br>rail<br>olympic<br>choose<br>gentle |  
-| bip_39_word_new_br7 | grid<br>pattern<br>rail<br>olympic<br>choose<br>gentle<br>inmate |  
-| bip_39_word_new_br8 | grid<br>pattern<br>rail<br>olympic<br>choose<br>gentle<br>inmate<br>online |  
-| bip_39_word_new_br9 | grid<br>pattern<br>rail<br>olympic<br>choose<br>gentle<br>inmate<br>online<br>problem |  
-| bip_39_word_new_line1 | grid |  
-| bip_39_word_new_line10 | grid
+| bip_39_word_new_br_1 | grid |  
+| bip_39_word_new_br_10 | grid<br>pattern<br>rail<br>olympic<br>choose<br>gentle<br>inmate<br>online<br>problem<br>ocean |  
+| bip_39_word_new_br_11 | grid<br>pattern<br>rail<br>olympic<br>choose<br>gentle<br>inmate<br>online<br>problem<br>ocean<br>gloom |  
+| bip_39_word_new_br_12 | grid<br>pattern<br>rail<br>olympic<br>choose<br>gentle<br>inmate<br>online<br>problem<br>ocean<br>gloom<br>antenna |  
+| bip_39_word_new_br_2 | grid<br>pattern |  
+| bip_39_word_new_br_3 | grid<br>pattern<br>rail |  
+| bip_39_word_new_br_4 | grid<br>pattern<br>rail<br>olympic |  
+| bip_39_word_new_br_5 | grid<br>pattern<br>rail<br>olympic<br>choose |  
+| bip_39_word_new_br_6 | grid<br>pattern<br>rail<br>olympic<br>choose<br>gentle |  
+| bip_39_word_new_br_7 | grid<br>pattern<br>rail<br>olympic<br>choose<br>gentle<br>inmate |  
+| bip_39_word_new_br_8 | grid<br>pattern<br>rail<br>olympic<br>choose<br>gentle<br>inmate<br>online |  
+| bip_39_word_new_br_9 | grid<br>pattern<br>rail<br>olympic<br>choose<br>gentle<br>inmate<br>online<br>problem |  
+| bip_39_word_new_line_1 | grid |  
+| bip_39_word_new_line_10 | grid
 pattern
 rail
 olympic
@@ -55,7 +55,7 @@ inmate
 online
 problem
 ocean |  
-| bip_39_word_new_line11 | grid
+| bip_39_word_new_line_11 | grid
 pattern
 rail
 olympic
@@ -66,7 +66,7 @@ online
 problem
 ocean
 gloom |  
-| bip_39_word_new_line12 | grid
+| bip_39_word_new_line_12 | grid
 pattern
 rail
 olympic
@@ -78,34 +78,34 @@ problem
 ocean
 gloom
 antenna |  
-| bip_39_word_new_line2 | grid
+| bip_39_word_new_line_2 | grid
 pattern |  
-| bip_39_word_new_line3 | grid
+| bip_39_word_new_line_3 | grid
 pattern
 rail |  
-| bip_39_word_new_line4 | grid
+| bip_39_word_new_line_4 | grid
 pattern
 rail
 olympic |  
-| bip_39_word_new_line5 | grid
+| bip_39_word_new_line_5 | grid
 pattern
 rail
 olympic
 choose |  
-| bip_39_word_new_line6 | grid
+| bip_39_word_new_line_6 | grid
 pattern
 rail
 olympic
 choose
 gentle |  
-| bip_39_word_new_line7 | grid
+| bip_39_word_new_line_7 | grid
 pattern
 rail
 olympic
 choose
 gentle
 inmate |  
-| bip_39_word_new_line8 | grid
+| bip_39_word_new_line_8 | grid
 pattern
 rail
 olympic
@@ -113,7 +113,7 @@ choose
 gentle
 inmate
 online |  
-| bip_39_word_new_line9 | grid
+| bip_39_word_new_line_9 | grid
 pattern
 rail
 olympic

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | swap |  
-| bip_39_word_new_br10 | swap<br>clerk<br>lab<br>industry<br>remain<br>excess<br>open<br>mammal<br>marine<br>orbit |  
-| bip_39_word_new_br11 | swap<br>clerk<br>lab<br>industry<br>remain<br>excess<br>open<br>mammal<br>marine<br>orbit<br>enforce |  
-| bip_39_word_new_br12 | swap<br>clerk<br>lab<br>industry<br>remain<br>excess<br>open<br>mammal<br>marine<br>orbit<br>enforce<br>amateur |  
-| bip_39_word_new_br2 | swap<br>clerk |  
-| bip_39_word_new_br3 | swap<br>clerk<br>lab |  
-| bip_39_word_new_br4 | swap<br>clerk<br>lab<br>industry |  
-| bip_39_word_new_br5 | swap<br>clerk<br>lab<br>industry<br>remain |  
-| bip_39_word_new_br6 | swap<br>clerk<br>lab<br>industry<br>remain<br>excess |  
-| bip_39_word_new_br7 | swap<br>clerk<br>lab<br>industry<br>remain<br>excess<br>open |  
-| bip_39_word_new_br8 | swap<br>clerk<br>lab<br>industry<br>remain<br>excess<br>open<br>mammal |  
-| bip_39_word_new_br9 | swap<br>clerk<br>lab<br>industry<br>remain<br>excess<br>open<br>mammal<br>marine |  
-| bip_39_word_new_line1 | swap |  
-| bip_39_word_new_line10 | swap
+| bip_39_word_new_br_1 | swap |  
+| bip_39_word_new_br_10 | swap<br>clerk<br>lab<br>industry<br>remain<br>excess<br>open<br>mammal<br>marine<br>orbit |  
+| bip_39_word_new_br_11 | swap<br>clerk<br>lab<br>industry<br>remain<br>excess<br>open<br>mammal<br>marine<br>orbit<br>enforce |  
+| bip_39_word_new_br_12 | swap<br>clerk<br>lab<br>industry<br>remain<br>excess<br>open<br>mammal<br>marine<br>orbit<br>enforce<br>amateur |  
+| bip_39_word_new_br_2 | swap<br>clerk |  
+| bip_39_word_new_br_3 | swap<br>clerk<br>lab |  
+| bip_39_word_new_br_4 | swap<br>clerk<br>lab<br>industry |  
+| bip_39_word_new_br_5 | swap<br>clerk<br>lab<br>industry<br>remain |  
+| bip_39_word_new_br_6 | swap<br>clerk<br>lab<br>industry<br>remain<br>excess |  
+| bip_39_word_new_br_7 | swap<br>clerk<br>lab<br>industry<br>remain<br>excess<br>open |  
+| bip_39_word_new_br_8 | swap<br>clerk<br>lab<br>industry<br>remain<br>excess<br>open<br>mammal |  
+| bip_39_word_new_br_9 | swap<br>clerk<br>lab<br>industry<br>remain<br>excess<br>open<br>mammal<br>marine |  
+| bip_39_word_new_line_1 | swap |  
+| bip_39_word_new_line_10 | swap
 clerk
 lab
 industry
@@ -55,7 +55,7 @@ open
 mammal
 marine
 orbit |  
-| bip_39_word_new_line11 | swap
+| bip_39_word_new_line_11 | swap
 clerk
 lab
 industry
@@ -66,7 +66,7 @@ mammal
 marine
 orbit
 enforce |  
-| bip_39_word_new_line12 | swap
+| bip_39_word_new_line_12 | swap
 clerk
 lab
 industry
@@ -78,34 +78,34 @@ marine
 orbit
 enforce
 amateur |  
-| bip_39_word_new_line2 | swap
+| bip_39_word_new_line_2 | swap
 clerk |  
-| bip_39_word_new_line3 | swap
+| bip_39_word_new_line_3 | swap
 clerk
 lab |  
-| bip_39_word_new_line4 | swap
+| bip_39_word_new_line_4 | swap
 clerk
 lab
 industry |  
-| bip_39_word_new_line5 | swap
+| bip_39_word_new_line_5 | swap
 clerk
 lab
 industry
 remain |  
-| bip_39_word_new_line6 | swap
+| bip_39_word_new_line_6 | swap
 clerk
 lab
 industry
 remain
 excess |  
-| bip_39_word_new_line7 | swap
+| bip_39_word_new_line_7 | swap
 clerk
 lab
 industry
 remain
 excess
 open |  
-| bip_39_word_new_line8 | swap
+| bip_39_word_new_line_8 | swap
 clerk
 lab
 industry
@@ -113,7 +113,7 @@ remain
 excess
 open
 mammal |  
-| bip_39_word_new_line9 | swap
+| bip_39_word_new_line_9 | swap
 clerk
 lab
 industry

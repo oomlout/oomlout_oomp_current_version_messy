@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | crystal |  
-| bip_39_word_new_br10 | crystal<br>prize<br>copy<br>pitch<br>win<br>moment<br>fury<br>garden<br>section<br>mansion |  
-| bip_39_word_new_br11 | crystal<br>prize<br>copy<br>pitch<br>win<br>moment<br>fury<br>garden<br>section<br>mansion<br>shrug |  
-| bip_39_word_new_br12 | crystal<br>prize<br>copy<br>pitch<br>win<br>moment<br>fury<br>garden<br>section<br>mansion<br>shrug<br>address |  
-| bip_39_word_new_br2 | crystal<br>prize |  
-| bip_39_word_new_br3 | crystal<br>prize<br>copy |  
-| bip_39_word_new_br4 | crystal<br>prize<br>copy<br>pitch |  
-| bip_39_word_new_br5 | crystal<br>prize<br>copy<br>pitch<br>win |  
-| bip_39_word_new_br6 | crystal<br>prize<br>copy<br>pitch<br>win<br>moment |  
-| bip_39_word_new_br7 | crystal<br>prize<br>copy<br>pitch<br>win<br>moment<br>fury |  
-| bip_39_word_new_br8 | crystal<br>prize<br>copy<br>pitch<br>win<br>moment<br>fury<br>garden |  
-| bip_39_word_new_br9 | crystal<br>prize<br>copy<br>pitch<br>win<br>moment<br>fury<br>garden<br>section |  
-| bip_39_word_new_line1 | crystal |  
-| bip_39_word_new_line10 | crystal
+| bip_39_word_new_br_1 | crystal |  
+| bip_39_word_new_br_10 | crystal<br>prize<br>copy<br>pitch<br>win<br>moment<br>fury<br>garden<br>section<br>mansion |  
+| bip_39_word_new_br_11 | crystal<br>prize<br>copy<br>pitch<br>win<br>moment<br>fury<br>garden<br>section<br>mansion<br>shrug |  
+| bip_39_word_new_br_12 | crystal<br>prize<br>copy<br>pitch<br>win<br>moment<br>fury<br>garden<br>section<br>mansion<br>shrug<br>address |  
+| bip_39_word_new_br_2 | crystal<br>prize |  
+| bip_39_word_new_br_3 | crystal<br>prize<br>copy |  
+| bip_39_word_new_br_4 | crystal<br>prize<br>copy<br>pitch |  
+| bip_39_word_new_br_5 | crystal<br>prize<br>copy<br>pitch<br>win |  
+| bip_39_word_new_br_6 | crystal<br>prize<br>copy<br>pitch<br>win<br>moment |  
+| bip_39_word_new_br_7 | crystal<br>prize<br>copy<br>pitch<br>win<br>moment<br>fury |  
+| bip_39_word_new_br_8 | crystal<br>prize<br>copy<br>pitch<br>win<br>moment<br>fury<br>garden |  
+| bip_39_word_new_br_9 | crystal<br>prize<br>copy<br>pitch<br>win<br>moment<br>fury<br>garden<br>section |  
+| bip_39_word_new_line_1 | crystal |  
+| bip_39_word_new_line_10 | crystal
 prize
 copy
 pitch
@@ -55,7 +55,7 @@ fury
 garden
 section
 mansion |  
-| bip_39_word_new_line11 | crystal
+| bip_39_word_new_line_11 | crystal
 prize
 copy
 pitch
@@ -66,7 +66,7 @@ garden
 section
 mansion
 shrug |  
-| bip_39_word_new_line12 | crystal
+| bip_39_word_new_line_12 | crystal
 prize
 copy
 pitch
@@ -78,34 +78,34 @@ section
 mansion
 shrug
 address |  
-| bip_39_word_new_line2 | crystal
+| bip_39_word_new_line_2 | crystal
 prize |  
-| bip_39_word_new_line3 | crystal
+| bip_39_word_new_line_3 | crystal
 prize
 copy |  
-| bip_39_word_new_line4 | crystal
+| bip_39_word_new_line_4 | crystal
 prize
 copy
 pitch |  
-| bip_39_word_new_line5 | crystal
+| bip_39_word_new_line_5 | crystal
 prize
 copy
 pitch
 win |  
-| bip_39_word_new_line6 | crystal
+| bip_39_word_new_line_6 | crystal
 prize
 copy
 pitch
 win
 moment |  
-| bip_39_word_new_line7 | crystal
+| bip_39_word_new_line_7 | crystal
 prize
 copy
 pitch
 win
 moment
 fury |  
-| bip_39_word_new_line8 | crystal
+| bip_39_word_new_line_8 | crystal
 prize
 copy
 pitch
@@ -113,7 +113,7 @@ win
 moment
 fury
 garden |  
-| bip_39_word_new_line9 | crystal
+| bip_39_word_new_line_9 | crystal
 prize
 copy
 pitch

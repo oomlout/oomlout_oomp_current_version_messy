@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | judge |  
-| bip_39_word_new_br10 | judge<br>crazy<br>team<br>museum<br>exchange<br>grape<br>kitten<br>never<br>popular<br>mad |  
-| bip_39_word_new_br11 | judge<br>crazy<br>team<br>museum<br>exchange<br>grape<br>kitten<br>never<br>popular<br>mad<br>random |  
-| bip_39_word_new_br12 | judge<br>crazy<br>team<br>museum<br>exchange<br>grape<br>kitten<br>never<br>popular<br>mad<br>random<br>attitude |  
-| bip_39_word_new_br2 | judge<br>crazy |  
-| bip_39_word_new_br3 | judge<br>crazy<br>team |  
-| bip_39_word_new_br4 | judge<br>crazy<br>team<br>museum |  
-| bip_39_word_new_br5 | judge<br>crazy<br>team<br>museum<br>exchange |  
-| bip_39_word_new_br6 | judge<br>crazy<br>team<br>museum<br>exchange<br>grape |  
-| bip_39_word_new_br7 | judge<br>crazy<br>team<br>museum<br>exchange<br>grape<br>kitten |  
-| bip_39_word_new_br8 | judge<br>crazy<br>team<br>museum<br>exchange<br>grape<br>kitten<br>never |  
-| bip_39_word_new_br9 | judge<br>crazy<br>team<br>museum<br>exchange<br>grape<br>kitten<br>never<br>popular |  
-| bip_39_word_new_line1 | judge |  
-| bip_39_word_new_line10 | judge
+| bip_39_word_new_br_1 | judge |  
+| bip_39_word_new_br_10 | judge<br>crazy<br>team<br>museum<br>exchange<br>grape<br>kitten<br>never<br>popular<br>mad |  
+| bip_39_word_new_br_11 | judge<br>crazy<br>team<br>museum<br>exchange<br>grape<br>kitten<br>never<br>popular<br>mad<br>random |  
+| bip_39_word_new_br_12 | judge<br>crazy<br>team<br>museum<br>exchange<br>grape<br>kitten<br>never<br>popular<br>mad<br>random<br>attitude |  
+| bip_39_word_new_br_2 | judge<br>crazy |  
+| bip_39_word_new_br_3 | judge<br>crazy<br>team |  
+| bip_39_word_new_br_4 | judge<br>crazy<br>team<br>museum |  
+| bip_39_word_new_br_5 | judge<br>crazy<br>team<br>museum<br>exchange |  
+| bip_39_word_new_br_6 | judge<br>crazy<br>team<br>museum<br>exchange<br>grape |  
+| bip_39_word_new_br_7 | judge<br>crazy<br>team<br>museum<br>exchange<br>grape<br>kitten |  
+| bip_39_word_new_br_8 | judge<br>crazy<br>team<br>museum<br>exchange<br>grape<br>kitten<br>never |  
+| bip_39_word_new_br_9 | judge<br>crazy<br>team<br>museum<br>exchange<br>grape<br>kitten<br>never<br>popular |  
+| bip_39_word_new_line_1 | judge |  
+| bip_39_word_new_line_10 | judge
 crazy
 team
 museum
@@ -55,7 +55,7 @@ kitten
 never
 popular
 mad |  
-| bip_39_word_new_line11 | judge
+| bip_39_word_new_line_11 | judge
 crazy
 team
 museum
@@ -66,7 +66,7 @@ never
 popular
 mad
 random |  
-| bip_39_word_new_line12 | judge
+| bip_39_word_new_line_12 | judge
 crazy
 team
 museum
@@ -78,34 +78,34 @@ popular
 mad
 random
 attitude |  
-| bip_39_word_new_line2 | judge
+| bip_39_word_new_line_2 | judge
 crazy |  
-| bip_39_word_new_line3 | judge
+| bip_39_word_new_line_3 | judge
 crazy
 team |  
-| bip_39_word_new_line4 | judge
+| bip_39_word_new_line_4 | judge
 crazy
 team
 museum |  
-| bip_39_word_new_line5 | judge
+| bip_39_word_new_line_5 | judge
 crazy
 team
 museum
 exchange |  
-| bip_39_word_new_line6 | judge
+| bip_39_word_new_line_6 | judge
 crazy
 team
 museum
 exchange
 grape |  
-| bip_39_word_new_line7 | judge
+| bip_39_word_new_line_7 | judge
 crazy
 team
 museum
 exchange
 grape
 kitten |  
-| bip_39_word_new_line8 | judge
+| bip_39_word_new_line_8 | judge
 crazy
 team
 museum
@@ -113,7 +113,7 @@ exchange
 grape
 kitten
 never |  
-| bip_39_word_new_line9 | judge
+| bip_39_word_new_line_9 | judge
 crazy
 team
 museum

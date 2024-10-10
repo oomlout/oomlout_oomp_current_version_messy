@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mutual |  
-| bip_39_word_new_br10 | mutual<br>you<br>globe<br>grant<br>brand<br>broom<br>sentence<br>rotate<br>normal<br>month |  
-| bip_39_word_new_br11 | mutual<br>you<br>globe<br>grant<br>brand<br>broom<br>sentence<br>rotate<br>normal<br>month<br>cabbage |  
-| bip_39_word_new_br12 | mutual<br>you<br>globe<br>grant<br>brand<br>broom<br>sentence<br>rotate<br>normal<br>month<br>cabbage<br>alarm |  
-| bip_39_word_new_br2 | mutual<br>you |  
-| bip_39_word_new_br3 | mutual<br>you<br>globe |  
-| bip_39_word_new_br4 | mutual<br>you<br>globe<br>grant |  
-| bip_39_word_new_br5 | mutual<br>you<br>globe<br>grant<br>brand |  
-| bip_39_word_new_br6 | mutual<br>you<br>globe<br>grant<br>brand<br>broom |  
-| bip_39_word_new_br7 | mutual<br>you<br>globe<br>grant<br>brand<br>broom<br>sentence |  
-| bip_39_word_new_br8 | mutual<br>you<br>globe<br>grant<br>brand<br>broom<br>sentence<br>rotate |  
-| bip_39_word_new_br9 | mutual<br>you<br>globe<br>grant<br>brand<br>broom<br>sentence<br>rotate<br>normal |  
-| bip_39_word_new_line1 | mutual |  
-| bip_39_word_new_line10 | mutual
+| bip_39_word_new_br_1 | mutual |  
+| bip_39_word_new_br_10 | mutual<br>you<br>globe<br>grant<br>brand<br>broom<br>sentence<br>rotate<br>normal<br>month |  
+| bip_39_word_new_br_11 | mutual<br>you<br>globe<br>grant<br>brand<br>broom<br>sentence<br>rotate<br>normal<br>month<br>cabbage |  
+| bip_39_word_new_br_12 | mutual<br>you<br>globe<br>grant<br>brand<br>broom<br>sentence<br>rotate<br>normal<br>month<br>cabbage<br>alarm |  
+| bip_39_word_new_br_2 | mutual<br>you |  
+| bip_39_word_new_br_3 | mutual<br>you<br>globe |  
+| bip_39_word_new_br_4 | mutual<br>you<br>globe<br>grant |  
+| bip_39_word_new_br_5 | mutual<br>you<br>globe<br>grant<br>brand |  
+| bip_39_word_new_br_6 | mutual<br>you<br>globe<br>grant<br>brand<br>broom |  
+| bip_39_word_new_br_7 | mutual<br>you<br>globe<br>grant<br>brand<br>broom<br>sentence |  
+| bip_39_word_new_br_8 | mutual<br>you<br>globe<br>grant<br>brand<br>broom<br>sentence<br>rotate |  
+| bip_39_word_new_br_9 | mutual<br>you<br>globe<br>grant<br>brand<br>broom<br>sentence<br>rotate<br>normal |  
+| bip_39_word_new_line_1 | mutual |  
+| bip_39_word_new_line_10 | mutual
 you
 globe
 grant
@@ -55,7 +55,7 @@ sentence
 rotate
 normal
 month |  
-| bip_39_word_new_line11 | mutual
+| bip_39_word_new_line_11 | mutual
 you
 globe
 grant
@@ -66,7 +66,7 @@ rotate
 normal
 month
 cabbage |  
-| bip_39_word_new_line12 | mutual
+| bip_39_word_new_line_12 | mutual
 you
 globe
 grant
@@ -78,34 +78,34 @@ normal
 month
 cabbage
 alarm |  
-| bip_39_word_new_line2 | mutual
+| bip_39_word_new_line_2 | mutual
 you |  
-| bip_39_word_new_line3 | mutual
+| bip_39_word_new_line_3 | mutual
 you
 globe |  
-| bip_39_word_new_line4 | mutual
+| bip_39_word_new_line_4 | mutual
 you
 globe
 grant |  
-| bip_39_word_new_line5 | mutual
+| bip_39_word_new_line_5 | mutual
 you
 globe
 grant
 brand |  
-| bip_39_word_new_line6 | mutual
+| bip_39_word_new_line_6 | mutual
 you
 globe
 grant
 brand
 broom |  
-| bip_39_word_new_line7 | mutual
+| bip_39_word_new_line_7 | mutual
 you
 globe
 grant
 brand
 broom
 sentence |  
-| bip_39_word_new_line8 | mutual
+| bip_39_word_new_line_8 | mutual
 you
 globe
 grant
@@ -113,7 +113,7 @@ brand
 broom
 sentence
 rotate |  
-| bip_39_word_new_line9 | mutual
+| bip_39_word_new_line_9 | mutual
 you
 globe
 grant

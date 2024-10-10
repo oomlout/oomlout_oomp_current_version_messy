@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | give |  
-| bip_39_word_new_br10 | give<br>dog<br>cream<br>monster<br>noble<br>desk<br>bread<br>price<br>say<br>sunset |  
-| bip_39_word_new_br11 | give<br>dog<br>cream<br>monster<br>noble<br>desk<br>bread<br>price<br>say<br>sunset<br>valid |  
-| bip_39_word_new_br12 | give<br>dog<br>cream<br>monster<br>noble<br>desk<br>bread<br>price<br>say<br>sunset<br>valid<br>account |  
-| bip_39_word_new_br2 | give<br>dog |  
-| bip_39_word_new_br3 | give<br>dog<br>cream |  
-| bip_39_word_new_br4 | give<br>dog<br>cream<br>monster |  
-| bip_39_word_new_br5 | give<br>dog<br>cream<br>monster<br>noble |  
-| bip_39_word_new_br6 | give<br>dog<br>cream<br>monster<br>noble<br>desk |  
-| bip_39_word_new_br7 | give<br>dog<br>cream<br>monster<br>noble<br>desk<br>bread |  
-| bip_39_word_new_br8 | give<br>dog<br>cream<br>monster<br>noble<br>desk<br>bread<br>price |  
-| bip_39_word_new_br9 | give<br>dog<br>cream<br>monster<br>noble<br>desk<br>bread<br>price<br>say |  
-| bip_39_word_new_line1 | give |  
-| bip_39_word_new_line10 | give
+| bip_39_word_new_br_1 | give |  
+| bip_39_word_new_br_10 | give<br>dog<br>cream<br>monster<br>noble<br>desk<br>bread<br>price<br>say<br>sunset |  
+| bip_39_word_new_br_11 | give<br>dog<br>cream<br>monster<br>noble<br>desk<br>bread<br>price<br>say<br>sunset<br>valid |  
+| bip_39_word_new_br_12 | give<br>dog<br>cream<br>monster<br>noble<br>desk<br>bread<br>price<br>say<br>sunset<br>valid<br>account |  
+| bip_39_word_new_br_2 | give<br>dog |  
+| bip_39_word_new_br_3 | give<br>dog<br>cream |  
+| bip_39_word_new_br_4 | give<br>dog<br>cream<br>monster |  
+| bip_39_word_new_br_5 | give<br>dog<br>cream<br>monster<br>noble |  
+| bip_39_word_new_br_6 | give<br>dog<br>cream<br>monster<br>noble<br>desk |  
+| bip_39_word_new_br_7 | give<br>dog<br>cream<br>monster<br>noble<br>desk<br>bread |  
+| bip_39_word_new_br_8 | give<br>dog<br>cream<br>monster<br>noble<br>desk<br>bread<br>price |  
+| bip_39_word_new_br_9 | give<br>dog<br>cream<br>monster<br>noble<br>desk<br>bread<br>price<br>say |  
+| bip_39_word_new_line_1 | give |  
+| bip_39_word_new_line_10 | give
 dog
 cream
 monster
@@ -55,7 +55,7 @@ bread
 price
 say
 sunset |  
-| bip_39_word_new_line11 | give
+| bip_39_word_new_line_11 | give
 dog
 cream
 monster
@@ -66,7 +66,7 @@ price
 say
 sunset
 valid |  
-| bip_39_word_new_line12 | give
+| bip_39_word_new_line_12 | give
 dog
 cream
 monster
@@ -78,34 +78,34 @@ say
 sunset
 valid
 account |  
-| bip_39_word_new_line2 | give
+| bip_39_word_new_line_2 | give
 dog |  
-| bip_39_word_new_line3 | give
+| bip_39_word_new_line_3 | give
 dog
 cream |  
-| bip_39_word_new_line4 | give
+| bip_39_word_new_line_4 | give
 dog
 cream
 monster |  
-| bip_39_word_new_line5 | give
+| bip_39_word_new_line_5 | give
 dog
 cream
 monster
 noble |  
-| bip_39_word_new_line6 | give
+| bip_39_word_new_line_6 | give
 dog
 cream
 monster
 noble
 desk |  
-| bip_39_word_new_line7 | give
+| bip_39_word_new_line_7 | give
 dog
 cream
 monster
 noble
 desk
 bread |  
-| bip_39_word_new_line8 | give
+| bip_39_word_new_line_8 | give
 dog
 cream
 monster
@@ -113,7 +113,7 @@ noble
 desk
 bread
 price |  
-| bip_39_word_new_line9 | give
+| bip_39_word_new_line_9 | give
 dog
 cream
 monster

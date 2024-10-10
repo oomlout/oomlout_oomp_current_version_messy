@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | robust |  
-| bip_39_word_new_br10 | robust<br>present<br>fog<br>slim<br>youth<br>wheat<br>junior<br>breeze<br>trade<br>artwork |  
-| bip_39_word_new_br11 | robust<br>present<br>fog<br>slim<br>youth<br>wheat<br>junior<br>breeze<br>trade<br>artwork<br>mother |  
-| bip_39_word_new_br12 | robust<br>present<br>fog<br>slim<br>youth<br>wheat<br>junior<br>breeze<br>trade<br>artwork<br>mother<br>adapt |  
-| bip_39_word_new_br2 | robust<br>present |  
-| bip_39_word_new_br3 | robust<br>present<br>fog |  
-| bip_39_word_new_br4 | robust<br>present<br>fog<br>slim |  
-| bip_39_word_new_br5 | robust<br>present<br>fog<br>slim<br>youth |  
-| bip_39_word_new_br6 | robust<br>present<br>fog<br>slim<br>youth<br>wheat |  
-| bip_39_word_new_br7 | robust<br>present<br>fog<br>slim<br>youth<br>wheat<br>junior |  
-| bip_39_word_new_br8 | robust<br>present<br>fog<br>slim<br>youth<br>wheat<br>junior<br>breeze |  
-| bip_39_word_new_br9 | robust<br>present<br>fog<br>slim<br>youth<br>wheat<br>junior<br>breeze<br>trade |  
-| bip_39_word_new_line1 | robust |  
-| bip_39_word_new_line10 | robust
+| bip_39_word_new_br_1 | robust |  
+| bip_39_word_new_br_10 | robust<br>present<br>fog<br>slim<br>youth<br>wheat<br>junior<br>breeze<br>trade<br>artwork |  
+| bip_39_word_new_br_11 | robust<br>present<br>fog<br>slim<br>youth<br>wheat<br>junior<br>breeze<br>trade<br>artwork<br>mother |  
+| bip_39_word_new_br_12 | robust<br>present<br>fog<br>slim<br>youth<br>wheat<br>junior<br>breeze<br>trade<br>artwork<br>mother<br>adapt |  
+| bip_39_word_new_br_2 | robust<br>present |  
+| bip_39_word_new_br_3 | robust<br>present<br>fog |  
+| bip_39_word_new_br_4 | robust<br>present<br>fog<br>slim |  
+| bip_39_word_new_br_5 | robust<br>present<br>fog<br>slim<br>youth |  
+| bip_39_word_new_br_6 | robust<br>present<br>fog<br>slim<br>youth<br>wheat |  
+| bip_39_word_new_br_7 | robust<br>present<br>fog<br>slim<br>youth<br>wheat<br>junior |  
+| bip_39_word_new_br_8 | robust<br>present<br>fog<br>slim<br>youth<br>wheat<br>junior<br>breeze |  
+| bip_39_word_new_br_9 | robust<br>present<br>fog<br>slim<br>youth<br>wheat<br>junior<br>breeze<br>trade |  
+| bip_39_word_new_line_1 | robust |  
+| bip_39_word_new_line_10 | robust
 present
 fog
 slim
@@ -55,7 +55,7 @@ junior
 breeze
 trade
 artwork |  
-| bip_39_word_new_line11 | robust
+| bip_39_word_new_line_11 | robust
 present
 fog
 slim
@@ -66,7 +66,7 @@ breeze
 trade
 artwork
 mother |  
-| bip_39_word_new_line12 | robust
+| bip_39_word_new_line_12 | robust
 present
 fog
 slim
@@ -78,34 +78,34 @@ trade
 artwork
 mother
 adapt |  
-| bip_39_word_new_line2 | robust
+| bip_39_word_new_line_2 | robust
 present |  
-| bip_39_word_new_line3 | robust
+| bip_39_word_new_line_3 | robust
 present
 fog |  
-| bip_39_word_new_line4 | robust
+| bip_39_word_new_line_4 | robust
 present
 fog
 slim |  
-| bip_39_word_new_line5 | robust
+| bip_39_word_new_line_5 | robust
 present
 fog
 slim
 youth |  
-| bip_39_word_new_line6 | robust
+| bip_39_word_new_line_6 | robust
 present
 fog
 slim
 youth
 wheat |  
-| bip_39_word_new_line7 | robust
+| bip_39_word_new_line_7 | robust
 present
 fog
 slim
 youth
 wheat
 junior |  
-| bip_39_word_new_line8 | robust
+| bip_39_word_new_line_8 | robust
 present
 fog
 slim
@@ -113,7 +113,7 @@ youth
 wheat
 junior
 breeze |  
-| bip_39_word_new_line9 | robust
+| bip_39_word_new_line_9 | robust
 present
 fog
 slim

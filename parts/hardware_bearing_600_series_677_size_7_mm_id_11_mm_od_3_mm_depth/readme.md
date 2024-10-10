@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bargain |  
-| bip_39_word_new_br10 | bargain<br>useless<br>awake<br>vapor<br>brain<br>patch<br>aspect<br>bean<br>gallery<br>sense |  
-| bip_39_word_new_br11 | bargain<br>useless<br>awake<br>vapor<br>brain<br>patch<br>aspect<br>bean<br>gallery<br>sense<br>normal |  
-| bip_39_word_new_br12 | bargain<br>useless<br>awake<br>vapor<br>brain<br>patch<br>aspect<br>bean<br>gallery<br>sense<br>normal<br>arm |  
-| bip_39_word_new_br2 | bargain<br>useless |  
-| bip_39_word_new_br3 | bargain<br>useless<br>awake |  
-| bip_39_word_new_br4 | bargain<br>useless<br>awake<br>vapor |  
-| bip_39_word_new_br5 | bargain<br>useless<br>awake<br>vapor<br>brain |  
-| bip_39_word_new_br6 | bargain<br>useless<br>awake<br>vapor<br>brain<br>patch |  
-| bip_39_word_new_br7 | bargain<br>useless<br>awake<br>vapor<br>brain<br>patch<br>aspect |  
-| bip_39_word_new_br8 | bargain<br>useless<br>awake<br>vapor<br>brain<br>patch<br>aspect<br>bean |  
-| bip_39_word_new_br9 | bargain<br>useless<br>awake<br>vapor<br>brain<br>patch<br>aspect<br>bean<br>gallery |  
-| bip_39_word_new_line1 | bargain |  
-| bip_39_word_new_line10 | bargain
+| bip_39_word_new_br_1 | bargain |  
+| bip_39_word_new_br_10 | bargain<br>useless<br>awake<br>vapor<br>brain<br>patch<br>aspect<br>bean<br>gallery<br>sense |  
+| bip_39_word_new_br_11 | bargain<br>useless<br>awake<br>vapor<br>brain<br>patch<br>aspect<br>bean<br>gallery<br>sense<br>normal |  
+| bip_39_word_new_br_12 | bargain<br>useless<br>awake<br>vapor<br>brain<br>patch<br>aspect<br>bean<br>gallery<br>sense<br>normal<br>arm |  
+| bip_39_word_new_br_2 | bargain<br>useless |  
+| bip_39_word_new_br_3 | bargain<br>useless<br>awake |  
+| bip_39_word_new_br_4 | bargain<br>useless<br>awake<br>vapor |  
+| bip_39_word_new_br_5 | bargain<br>useless<br>awake<br>vapor<br>brain |  
+| bip_39_word_new_br_6 | bargain<br>useless<br>awake<br>vapor<br>brain<br>patch |  
+| bip_39_word_new_br_7 | bargain<br>useless<br>awake<br>vapor<br>brain<br>patch<br>aspect |  
+| bip_39_word_new_br_8 | bargain<br>useless<br>awake<br>vapor<br>brain<br>patch<br>aspect<br>bean |  
+| bip_39_word_new_br_9 | bargain<br>useless<br>awake<br>vapor<br>brain<br>patch<br>aspect<br>bean<br>gallery |  
+| bip_39_word_new_line_1 | bargain |  
+| bip_39_word_new_line_10 | bargain
 useless
 awake
 vapor
@@ -55,7 +55,7 @@ aspect
 bean
 gallery
 sense |  
-| bip_39_word_new_line11 | bargain
+| bip_39_word_new_line_11 | bargain
 useless
 awake
 vapor
@@ -66,7 +66,7 @@ bean
 gallery
 sense
 normal |  
-| bip_39_word_new_line12 | bargain
+| bip_39_word_new_line_12 | bargain
 useless
 awake
 vapor
@@ -78,34 +78,34 @@ gallery
 sense
 normal
 arm |  
-| bip_39_word_new_line2 | bargain
+| bip_39_word_new_line_2 | bargain
 useless |  
-| bip_39_word_new_line3 | bargain
+| bip_39_word_new_line_3 | bargain
 useless
 awake |  
-| bip_39_word_new_line4 | bargain
+| bip_39_word_new_line_4 | bargain
 useless
 awake
 vapor |  
-| bip_39_word_new_line5 | bargain
+| bip_39_word_new_line_5 | bargain
 useless
 awake
 vapor
 brain |  
-| bip_39_word_new_line6 | bargain
+| bip_39_word_new_line_6 | bargain
 useless
 awake
 vapor
 brain
 patch |  
-| bip_39_word_new_line7 | bargain
+| bip_39_word_new_line_7 | bargain
 useless
 awake
 vapor
 brain
 patch
 aspect |  
-| bip_39_word_new_line8 | bargain
+| bip_39_word_new_line_8 | bargain
 useless
 awake
 vapor
@@ -113,7 +113,7 @@ brain
 patch
 aspect
 bean |  
-| bip_39_word_new_line9 | bargain
+| bip_39_word_new_line_9 | bargain
 useless
 awake
 vapor

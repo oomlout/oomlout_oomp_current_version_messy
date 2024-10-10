@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | okay |  
-| bip_39_word_new_br10 | okay<br>ozone<br>skirt<br>tennis<br>finish<br>great<br>hundred<br>afraid<br>gospel<br>champion |  
-| bip_39_word_new_br11 | okay<br>ozone<br>skirt<br>tennis<br>finish<br>great<br>hundred<br>afraid<br>gospel<br>champion<br>ugly |  
-| bip_39_word_new_br12 | okay<br>ozone<br>skirt<br>tennis<br>finish<br>great<br>hundred<br>afraid<br>gospel<br>champion<br>ugly<br>arm |  
-| bip_39_word_new_br2 | okay<br>ozone |  
-| bip_39_word_new_br3 | okay<br>ozone<br>skirt |  
-| bip_39_word_new_br4 | okay<br>ozone<br>skirt<br>tennis |  
-| bip_39_word_new_br5 | okay<br>ozone<br>skirt<br>tennis<br>finish |  
-| bip_39_word_new_br6 | okay<br>ozone<br>skirt<br>tennis<br>finish<br>great |  
-| bip_39_word_new_br7 | okay<br>ozone<br>skirt<br>tennis<br>finish<br>great<br>hundred |  
-| bip_39_word_new_br8 | okay<br>ozone<br>skirt<br>tennis<br>finish<br>great<br>hundred<br>afraid |  
-| bip_39_word_new_br9 | okay<br>ozone<br>skirt<br>tennis<br>finish<br>great<br>hundred<br>afraid<br>gospel |  
-| bip_39_word_new_line1 | okay |  
-| bip_39_word_new_line10 | okay
+| bip_39_word_new_br_1 | okay |  
+| bip_39_word_new_br_10 | okay<br>ozone<br>skirt<br>tennis<br>finish<br>great<br>hundred<br>afraid<br>gospel<br>champion |  
+| bip_39_word_new_br_11 | okay<br>ozone<br>skirt<br>tennis<br>finish<br>great<br>hundred<br>afraid<br>gospel<br>champion<br>ugly |  
+| bip_39_word_new_br_12 | okay<br>ozone<br>skirt<br>tennis<br>finish<br>great<br>hundred<br>afraid<br>gospel<br>champion<br>ugly<br>arm |  
+| bip_39_word_new_br_2 | okay<br>ozone |  
+| bip_39_word_new_br_3 | okay<br>ozone<br>skirt |  
+| bip_39_word_new_br_4 | okay<br>ozone<br>skirt<br>tennis |  
+| bip_39_word_new_br_5 | okay<br>ozone<br>skirt<br>tennis<br>finish |  
+| bip_39_word_new_br_6 | okay<br>ozone<br>skirt<br>tennis<br>finish<br>great |  
+| bip_39_word_new_br_7 | okay<br>ozone<br>skirt<br>tennis<br>finish<br>great<br>hundred |  
+| bip_39_word_new_br_8 | okay<br>ozone<br>skirt<br>tennis<br>finish<br>great<br>hundred<br>afraid |  
+| bip_39_word_new_br_9 | okay<br>ozone<br>skirt<br>tennis<br>finish<br>great<br>hundred<br>afraid<br>gospel |  
+| bip_39_word_new_line_1 | okay |  
+| bip_39_word_new_line_10 | okay
 ozone
 skirt
 tennis
@@ -55,7 +55,7 @@ hundred
 afraid
 gospel
 champion |  
-| bip_39_word_new_line11 | okay
+| bip_39_word_new_line_11 | okay
 ozone
 skirt
 tennis
@@ -66,7 +66,7 @@ afraid
 gospel
 champion
 ugly |  
-| bip_39_word_new_line12 | okay
+| bip_39_word_new_line_12 | okay
 ozone
 skirt
 tennis
@@ -78,34 +78,34 @@ gospel
 champion
 ugly
 arm |  
-| bip_39_word_new_line2 | okay
+| bip_39_word_new_line_2 | okay
 ozone |  
-| bip_39_word_new_line3 | okay
+| bip_39_word_new_line_3 | okay
 ozone
 skirt |  
-| bip_39_word_new_line4 | okay
+| bip_39_word_new_line_4 | okay
 ozone
 skirt
 tennis |  
-| bip_39_word_new_line5 | okay
+| bip_39_word_new_line_5 | okay
 ozone
 skirt
 tennis
 finish |  
-| bip_39_word_new_line6 | okay
+| bip_39_word_new_line_6 | okay
 ozone
 skirt
 tennis
 finish
 great |  
-| bip_39_word_new_line7 | okay
+| bip_39_word_new_line_7 | okay
 ozone
 skirt
 tennis
 finish
 great
 hundred |  
-| bip_39_word_new_line8 | okay
+| bip_39_word_new_line_8 | okay
 ozone
 skirt
 tennis
@@ -113,7 +113,7 @@ finish
 great
 hundred
 afraid |  
-| bip_39_word_new_line9 | okay
+| bip_39_word_new_line_9 | okay
 ozone
 skirt
 tennis

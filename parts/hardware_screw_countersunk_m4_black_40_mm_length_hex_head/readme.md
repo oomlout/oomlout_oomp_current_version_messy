@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cupboard |  
-| bip_39_word_new_br10 | cupboard<br>sadness<br>oppose<br>van<br>episode<br>win<br>bridge<br>trial<br>scrap<br>primary |  
-| bip_39_word_new_br11 | cupboard<br>sadness<br>oppose<br>van<br>episode<br>win<br>bridge<br>trial<br>scrap<br>primary<br>oppose |  
-| bip_39_word_new_br12 | cupboard<br>sadness<br>oppose<br>van<br>episode<br>win<br>bridge<br>trial<br>scrap<br>primary<br>oppose<br>already |  
-| bip_39_word_new_br2 | cupboard<br>sadness |  
-| bip_39_word_new_br3 | cupboard<br>sadness<br>oppose |  
-| bip_39_word_new_br4 | cupboard<br>sadness<br>oppose<br>van |  
-| bip_39_word_new_br5 | cupboard<br>sadness<br>oppose<br>van<br>episode |  
-| bip_39_word_new_br6 | cupboard<br>sadness<br>oppose<br>van<br>episode<br>win |  
-| bip_39_word_new_br7 | cupboard<br>sadness<br>oppose<br>van<br>episode<br>win<br>bridge |  
-| bip_39_word_new_br8 | cupboard<br>sadness<br>oppose<br>van<br>episode<br>win<br>bridge<br>trial |  
-| bip_39_word_new_br9 | cupboard<br>sadness<br>oppose<br>van<br>episode<br>win<br>bridge<br>trial<br>scrap |  
-| bip_39_word_new_line1 | cupboard |  
-| bip_39_word_new_line10 | cupboard
+| bip_39_word_new_br_1 | cupboard |  
+| bip_39_word_new_br_10 | cupboard<br>sadness<br>oppose<br>van<br>episode<br>win<br>bridge<br>trial<br>scrap<br>primary |  
+| bip_39_word_new_br_11 | cupboard<br>sadness<br>oppose<br>van<br>episode<br>win<br>bridge<br>trial<br>scrap<br>primary<br>oppose |  
+| bip_39_word_new_br_12 | cupboard<br>sadness<br>oppose<br>van<br>episode<br>win<br>bridge<br>trial<br>scrap<br>primary<br>oppose<br>already |  
+| bip_39_word_new_br_2 | cupboard<br>sadness |  
+| bip_39_word_new_br_3 | cupboard<br>sadness<br>oppose |  
+| bip_39_word_new_br_4 | cupboard<br>sadness<br>oppose<br>van |  
+| bip_39_word_new_br_5 | cupboard<br>sadness<br>oppose<br>van<br>episode |  
+| bip_39_word_new_br_6 | cupboard<br>sadness<br>oppose<br>van<br>episode<br>win |  
+| bip_39_word_new_br_7 | cupboard<br>sadness<br>oppose<br>van<br>episode<br>win<br>bridge |  
+| bip_39_word_new_br_8 | cupboard<br>sadness<br>oppose<br>van<br>episode<br>win<br>bridge<br>trial |  
+| bip_39_word_new_br_9 | cupboard<br>sadness<br>oppose<br>van<br>episode<br>win<br>bridge<br>trial<br>scrap |  
+| bip_39_word_new_line_1 | cupboard |  
+| bip_39_word_new_line_10 | cupboard
 sadness
 oppose
 van
@@ -55,7 +55,7 @@ bridge
 trial
 scrap
 primary |  
-| bip_39_word_new_line11 | cupboard
+| bip_39_word_new_line_11 | cupboard
 sadness
 oppose
 van
@@ -66,7 +66,7 @@ trial
 scrap
 primary
 oppose |  
-| bip_39_word_new_line12 | cupboard
+| bip_39_word_new_line_12 | cupboard
 sadness
 oppose
 van
@@ -78,34 +78,34 @@ scrap
 primary
 oppose
 already |  
-| bip_39_word_new_line2 | cupboard
+| bip_39_word_new_line_2 | cupboard
 sadness |  
-| bip_39_word_new_line3 | cupboard
+| bip_39_word_new_line_3 | cupboard
 sadness
 oppose |  
-| bip_39_word_new_line4 | cupboard
+| bip_39_word_new_line_4 | cupboard
 sadness
 oppose
 van |  
-| bip_39_word_new_line5 | cupboard
+| bip_39_word_new_line_5 | cupboard
 sadness
 oppose
 van
 episode |  
-| bip_39_word_new_line6 | cupboard
+| bip_39_word_new_line_6 | cupboard
 sadness
 oppose
 van
 episode
 win |  
-| bip_39_word_new_line7 | cupboard
+| bip_39_word_new_line_7 | cupboard
 sadness
 oppose
 van
 episode
 win
 bridge |  
-| bip_39_word_new_line8 | cupboard
+| bip_39_word_new_line_8 | cupboard
 sadness
 oppose
 van
@@ -113,7 +113,7 @@ episode
 win
 bridge
 trial |  
-| bip_39_word_new_line9 | cupboard
+| bip_39_word_new_line_9 | cupboard
 sadness
 oppose
 van

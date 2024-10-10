@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | clock |  
-| bip_39_word_new_br10 | clock<br>brown<br>build<br>control<br>blind<br>metal<br>this<br>rate<br>pet<br>tool |  
-| bip_39_word_new_br11 | clock<br>brown<br>build<br>control<br>blind<br>metal<br>this<br>rate<br>pet<br>tool<br>cover |  
-| bip_39_word_new_br12 | clock<br>brown<br>build<br>control<br>blind<br>metal<br>this<br>rate<br>pet<br>tool<br>cover<br>affair |  
-| bip_39_word_new_br2 | clock<br>brown |  
-| bip_39_word_new_br3 | clock<br>brown<br>build |  
-| bip_39_word_new_br4 | clock<br>brown<br>build<br>control |  
-| bip_39_word_new_br5 | clock<br>brown<br>build<br>control<br>blind |  
-| bip_39_word_new_br6 | clock<br>brown<br>build<br>control<br>blind<br>metal |  
-| bip_39_word_new_br7 | clock<br>brown<br>build<br>control<br>blind<br>metal<br>this |  
-| bip_39_word_new_br8 | clock<br>brown<br>build<br>control<br>blind<br>metal<br>this<br>rate |  
-| bip_39_word_new_br9 | clock<br>brown<br>build<br>control<br>blind<br>metal<br>this<br>rate<br>pet |  
-| bip_39_word_new_line1 | clock |  
-| bip_39_word_new_line10 | clock
+| bip_39_word_new_br_1 | clock |  
+| bip_39_word_new_br_10 | clock<br>brown<br>build<br>control<br>blind<br>metal<br>this<br>rate<br>pet<br>tool |  
+| bip_39_word_new_br_11 | clock<br>brown<br>build<br>control<br>blind<br>metal<br>this<br>rate<br>pet<br>tool<br>cover |  
+| bip_39_word_new_br_12 | clock<br>brown<br>build<br>control<br>blind<br>metal<br>this<br>rate<br>pet<br>tool<br>cover<br>affair |  
+| bip_39_word_new_br_2 | clock<br>brown |  
+| bip_39_word_new_br_3 | clock<br>brown<br>build |  
+| bip_39_word_new_br_4 | clock<br>brown<br>build<br>control |  
+| bip_39_word_new_br_5 | clock<br>brown<br>build<br>control<br>blind |  
+| bip_39_word_new_br_6 | clock<br>brown<br>build<br>control<br>blind<br>metal |  
+| bip_39_word_new_br_7 | clock<br>brown<br>build<br>control<br>blind<br>metal<br>this |  
+| bip_39_word_new_br_8 | clock<br>brown<br>build<br>control<br>blind<br>metal<br>this<br>rate |  
+| bip_39_word_new_br_9 | clock<br>brown<br>build<br>control<br>blind<br>metal<br>this<br>rate<br>pet |  
+| bip_39_word_new_line_1 | clock |  
+| bip_39_word_new_line_10 | clock
 brown
 build
 control
@@ -55,7 +55,7 @@ this
 rate
 pet
 tool |  
-| bip_39_word_new_line11 | clock
+| bip_39_word_new_line_11 | clock
 brown
 build
 control
@@ -66,7 +66,7 @@ rate
 pet
 tool
 cover |  
-| bip_39_word_new_line12 | clock
+| bip_39_word_new_line_12 | clock
 brown
 build
 control
@@ -78,34 +78,34 @@ pet
 tool
 cover
 affair |  
-| bip_39_word_new_line2 | clock
+| bip_39_word_new_line_2 | clock
 brown |  
-| bip_39_word_new_line3 | clock
+| bip_39_word_new_line_3 | clock
 brown
 build |  
-| bip_39_word_new_line4 | clock
+| bip_39_word_new_line_4 | clock
 brown
 build
 control |  
-| bip_39_word_new_line5 | clock
+| bip_39_word_new_line_5 | clock
 brown
 build
 control
 blind |  
-| bip_39_word_new_line6 | clock
+| bip_39_word_new_line_6 | clock
 brown
 build
 control
 blind
 metal |  
-| bip_39_word_new_line7 | clock
+| bip_39_word_new_line_7 | clock
 brown
 build
 control
 blind
 metal
 this |  
-| bip_39_word_new_line8 | clock
+| bip_39_word_new_line_8 | clock
 brown
 build
 control
@@ -113,7 +113,7 @@ blind
 metal
 this
 rate |  
-| bip_39_word_new_line9 | clock
+| bip_39_word_new_line_9 | clock
 brown
 build
 control

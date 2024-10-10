@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | inherit |  
-| bip_39_word_new_br10 | inherit<br>human<br>auto<br>oyster<br>occur<br>entire<br>luggage<br>essence<br>clog<br>arch |  
-| bip_39_word_new_br11 | inherit<br>human<br>auto<br>oyster<br>occur<br>entire<br>luggage<br>essence<br>clog<br>arch<br>vessel |  
-| bip_39_word_new_br12 | inherit<br>human<br>auto<br>oyster<br>occur<br>entire<br>luggage<br>essence<br>clog<br>arch<br>vessel<br>ahead |  
-| bip_39_word_new_br2 | inherit<br>human |  
-| bip_39_word_new_br3 | inherit<br>human<br>auto |  
-| bip_39_word_new_br4 | inherit<br>human<br>auto<br>oyster |  
-| bip_39_word_new_br5 | inherit<br>human<br>auto<br>oyster<br>occur |  
-| bip_39_word_new_br6 | inherit<br>human<br>auto<br>oyster<br>occur<br>entire |  
-| bip_39_word_new_br7 | inherit<br>human<br>auto<br>oyster<br>occur<br>entire<br>luggage |  
-| bip_39_word_new_br8 | inherit<br>human<br>auto<br>oyster<br>occur<br>entire<br>luggage<br>essence |  
-| bip_39_word_new_br9 | inherit<br>human<br>auto<br>oyster<br>occur<br>entire<br>luggage<br>essence<br>clog |  
-| bip_39_word_new_line1 | inherit |  
-| bip_39_word_new_line10 | inherit
+| bip_39_word_new_br_1 | inherit |  
+| bip_39_word_new_br_10 | inherit<br>human<br>auto<br>oyster<br>occur<br>entire<br>luggage<br>essence<br>clog<br>arch |  
+| bip_39_word_new_br_11 | inherit<br>human<br>auto<br>oyster<br>occur<br>entire<br>luggage<br>essence<br>clog<br>arch<br>vessel |  
+| bip_39_word_new_br_12 | inherit<br>human<br>auto<br>oyster<br>occur<br>entire<br>luggage<br>essence<br>clog<br>arch<br>vessel<br>ahead |  
+| bip_39_word_new_br_2 | inherit<br>human |  
+| bip_39_word_new_br_3 | inherit<br>human<br>auto |  
+| bip_39_word_new_br_4 | inherit<br>human<br>auto<br>oyster |  
+| bip_39_word_new_br_5 | inherit<br>human<br>auto<br>oyster<br>occur |  
+| bip_39_word_new_br_6 | inherit<br>human<br>auto<br>oyster<br>occur<br>entire |  
+| bip_39_word_new_br_7 | inherit<br>human<br>auto<br>oyster<br>occur<br>entire<br>luggage |  
+| bip_39_word_new_br_8 | inherit<br>human<br>auto<br>oyster<br>occur<br>entire<br>luggage<br>essence |  
+| bip_39_word_new_br_9 | inherit<br>human<br>auto<br>oyster<br>occur<br>entire<br>luggage<br>essence<br>clog |  
+| bip_39_word_new_line_1 | inherit |  
+| bip_39_word_new_line_10 | inherit
 human
 auto
 oyster
@@ -55,7 +55,7 @@ luggage
 essence
 clog
 arch |  
-| bip_39_word_new_line11 | inherit
+| bip_39_word_new_line_11 | inherit
 human
 auto
 oyster
@@ -66,7 +66,7 @@ essence
 clog
 arch
 vessel |  
-| bip_39_word_new_line12 | inherit
+| bip_39_word_new_line_12 | inherit
 human
 auto
 oyster
@@ -78,34 +78,34 @@ clog
 arch
 vessel
 ahead |  
-| bip_39_word_new_line2 | inherit
+| bip_39_word_new_line_2 | inherit
 human |  
-| bip_39_word_new_line3 | inherit
+| bip_39_word_new_line_3 | inherit
 human
 auto |  
-| bip_39_word_new_line4 | inherit
+| bip_39_word_new_line_4 | inherit
 human
 auto
 oyster |  
-| bip_39_word_new_line5 | inherit
+| bip_39_word_new_line_5 | inherit
 human
 auto
 oyster
 occur |  
-| bip_39_word_new_line6 | inherit
+| bip_39_word_new_line_6 | inherit
 human
 auto
 oyster
 occur
 entire |  
-| bip_39_word_new_line7 | inherit
+| bip_39_word_new_line_7 | inherit
 human
 auto
 oyster
 occur
 entire
 luggage |  
-| bip_39_word_new_line8 | inherit
+| bip_39_word_new_line_8 | inherit
 human
 auto
 oyster
@@ -113,7 +113,7 @@ occur
 entire
 luggage
 essence |  
-| bip_39_word_new_line9 | inherit
+| bip_39_word_new_line_9 | inherit
 human
 auto
 oyster

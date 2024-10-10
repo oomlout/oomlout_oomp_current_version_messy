@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | smart |  
-| bip_39_word_new_br10 | smart<br>juice<br>prison<br>lunch<br>illegal<br>pony<br>age<br>bright<br>action<br>snap |  
-| bip_39_word_new_br11 | smart<br>juice<br>prison<br>lunch<br>illegal<br>pony<br>age<br>bright<br>action<br>snap<br>paper |  
-| bip_39_word_new_br12 | smart<br>juice<br>prison<br>lunch<br>illegal<br>pony<br>age<br>bright<br>action<br>snap<br>paper<br>advance |  
-| bip_39_word_new_br2 | smart<br>juice |  
-| bip_39_word_new_br3 | smart<br>juice<br>prison |  
-| bip_39_word_new_br4 | smart<br>juice<br>prison<br>lunch |  
-| bip_39_word_new_br5 | smart<br>juice<br>prison<br>lunch<br>illegal |  
-| bip_39_word_new_br6 | smart<br>juice<br>prison<br>lunch<br>illegal<br>pony |  
-| bip_39_word_new_br7 | smart<br>juice<br>prison<br>lunch<br>illegal<br>pony<br>age |  
-| bip_39_word_new_br8 | smart<br>juice<br>prison<br>lunch<br>illegal<br>pony<br>age<br>bright |  
-| bip_39_word_new_br9 | smart<br>juice<br>prison<br>lunch<br>illegal<br>pony<br>age<br>bright<br>action |  
-| bip_39_word_new_line1 | smart |  
-| bip_39_word_new_line10 | smart
+| bip_39_word_new_br_1 | smart |  
+| bip_39_word_new_br_10 | smart<br>juice<br>prison<br>lunch<br>illegal<br>pony<br>age<br>bright<br>action<br>snap |  
+| bip_39_word_new_br_11 | smart<br>juice<br>prison<br>lunch<br>illegal<br>pony<br>age<br>bright<br>action<br>snap<br>paper |  
+| bip_39_word_new_br_12 | smart<br>juice<br>prison<br>lunch<br>illegal<br>pony<br>age<br>bright<br>action<br>snap<br>paper<br>advance |  
+| bip_39_word_new_br_2 | smart<br>juice |  
+| bip_39_word_new_br_3 | smart<br>juice<br>prison |  
+| bip_39_word_new_br_4 | smart<br>juice<br>prison<br>lunch |  
+| bip_39_word_new_br_5 | smart<br>juice<br>prison<br>lunch<br>illegal |  
+| bip_39_word_new_br_6 | smart<br>juice<br>prison<br>lunch<br>illegal<br>pony |  
+| bip_39_word_new_br_7 | smart<br>juice<br>prison<br>lunch<br>illegal<br>pony<br>age |  
+| bip_39_word_new_br_8 | smart<br>juice<br>prison<br>lunch<br>illegal<br>pony<br>age<br>bright |  
+| bip_39_word_new_br_9 | smart<br>juice<br>prison<br>lunch<br>illegal<br>pony<br>age<br>bright<br>action |  
+| bip_39_word_new_line_1 | smart |  
+| bip_39_word_new_line_10 | smart
 juice
 prison
 lunch
@@ -55,7 +55,7 @@ age
 bright
 action
 snap |  
-| bip_39_word_new_line11 | smart
+| bip_39_word_new_line_11 | smart
 juice
 prison
 lunch
@@ -66,7 +66,7 @@ bright
 action
 snap
 paper |  
-| bip_39_word_new_line12 | smart
+| bip_39_word_new_line_12 | smart
 juice
 prison
 lunch
@@ -78,34 +78,34 @@ action
 snap
 paper
 advance |  
-| bip_39_word_new_line2 | smart
+| bip_39_word_new_line_2 | smart
 juice |  
-| bip_39_word_new_line3 | smart
+| bip_39_word_new_line_3 | smart
 juice
 prison |  
-| bip_39_word_new_line4 | smart
+| bip_39_word_new_line_4 | smart
 juice
 prison
 lunch |  
-| bip_39_word_new_line5 | smart
+| bip_39_word_new_line_5 | smart
 juice
 prison
 lunch
 illegal |  
-| bip_39_word_new_line6 | smart
+| bip_39_word_new_line_6 | smart
 juice
 prison
 lunch
 illegal
 pony |  
-| bip_39_word_new_line7 | smart
+| bip_39_word_new_line_7 | smart
 juice
 prison
 lunch
 illegal
 pony
 age |  
-| bip_39_word_new_line8 | smart
+| bip_39_word_new_line_8 | smart
 juice
 prison
 lunch
@@ -113,7 +113,7 @@ illegal
 pony
 age
 bright |  
-| bip_39_word_new_line9 | smart
+| bip_39_word_new_line_9 | smart
 juice
 prison
 lunch

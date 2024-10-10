@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | grace |  
-| bip_39_word_new_br10 | grace<br>shop<br>lab<br>magnet<br>jungle<br>copy<br>detect<br>seven<br>quit<br>devote |  
-| bip_39_word_new_br11 | grace<br>shop<br>lab<br>magnet<br>jungle<br>copy<br>detect<br>seven<br>quit<br>devote<br>club |  
-| bip_39_word_new_br12 | grace<br>shop<br>lab<br>magnet<br>jungle<br>copy<br>detect<br>seven<br>quit<br>devote<br>club<br>act |  
-| bip_39_word_new_br2 | grace<br>shop |  
-| bip_39_word_new_br3 | grace<br>shop<br>lab |  
-| bip_39_word_new_br4 | grace<br>shop<br>lab<br>magnet |  
-| bip_39_word_new_br5 | grace<br>shop<br>lab<br>magnet<br>jungle |  
-| bip_39_word_new_br6 | grace<br>shop<br>lab<br>magnet<br>jungle<br>copy |  
-| bip_39_word_new_br7 | grace<br>shop<br>lab<br>magnet<br>jungle<br>copy<br>detect |  
-| bip_39_word_new_br8 | grace<br>shop<br>lab<br>magnet<br>jungle<br>copy<br>detect<br>seven |  
-| bip_39_word_new_br9 | grace<br>shop<br>lab<br>magnet<br>jungle<br>copy<br>detect<br>seven<br>quit |  
-| bip_39_word_new_line1 | grace |  
-| bip_39_word_new_line10 | grace
+| bip_39_word_new_br_1 | grace |  
+| bip_39_word_new_br_10 | grace<br>shop<br>lab<br>magnet<br>jungle<br>copy<br>detect<br>seven<br>quit<br>devote |  
+| bip_39_word_new_br_11 | grace<br>shop<br>lab<br>magnet<br>jungle<br>copy<br>detect<br>seven<br>quit<br>devote<br>club |  
+| bip_39_word_new_br_12 | grace<br>shop<br>lab<br>magnet<br>jungle<br>copy<br>detect<br>seven<br>quit<br>devote<br>club<br>act |  
+| bip_39_word_new_br_2 | grace<br>shop |  
+| bip_39_word_new_br_3 | grace<br>shop<br>lab |  
+| bip_39_word_new_br_4 | grace<br>shop<br>lab<br>magnet |  
+| bip_39_word_new_br_5 | grace<br>shop<br>lab<br>magnet<br>jungle |  
+| bip_39_word_new_br_6 | grace<br>shop<br>lab<br>magnet<br>jungle<br>copy |  
+| bip_39_word_new_br_7 | grace<br>shop<br>lab<br>magnet<br>jungle<br>copy<br>detect |  
+| bip_39_word_new_br_8 | grace<br>shop<br>lab<br>magnet<br>jungle<br>copy<br>detect<br>seven |  
+| bip_39_word_new_br_9 | grace<br>shop<br>lab<br>magnet<br>jungle<br>copy<br>detect<br>seven<br>quit |  
+| bip_39_word_new_line_1 | grace |  
+| bip_39_word_new_line_10 | grace
 shop
 lab
 magnet
@@ -55,7 +55,7 @@ detect
 seven
 quit
 devote |  
-| bip_39_word_new_line11 | grace
+| bip_39_word_new_line_11 | grace
 shop
 lab
 magnet
@@ -66,7 +66,7 @@ seven
 quit
 devote
 club |  
-| bip_39_word_new_line12 | grace
+| bip_39_word_new_line_12 | grace
 shop
 lab
 magnet
@@ -78,34 +78,34 @@ quit
 devote
 club
 act |  
-| bip_39_word_new_line2 | grace
+| bip_39_word_new_line_2 | grace
 shop |  
-| bip_39_word_new_line3 | grace
+| bip_39_word_new_line_3 | grace
 shop
 lab |  
-| bip_39_word_new_line4 | grace
+| bip_39_word_new_line_4 | grace
 shop
 lab
 magnet |  
-| bip_39_word_new_line5 | grace
+| bip_39_word_new_line_5 | grace
 shop
 lab
 magnet
 jungle |  
-| bip_39_word_new_line6 | grace
+| bip_39_word_new_line_6 | grace
 shop
 lab
 magnet
 jungle
 copy |  
-| bip_39_word_new_line7 | grace
+| bip_39_word_new_line_7 | grace
 shop
 lab
 magnet
 jungle
 copy
 detect |  
-| bip_39_word_new_line8 | grace
+| bip_39_word_new_line_8 | grace
 shop
 lab
 magnet
@@ -113,7 +113,7 @@ jungle
 copy
 detect
 seven |  
-| bip_39_word_new_line9 | grace
+| bip_39_word_new_line_9 | grace
 shop
 lab
 magnet

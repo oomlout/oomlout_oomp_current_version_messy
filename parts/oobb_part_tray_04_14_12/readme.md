@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | motor |  
-| bip_39_word_new_br10 | motor<br>invest<br>same<br>suspect<br>hazard<br>prize<br>sleep<br>before<br>dress<br>photo |  
-| bip_39_word_new_br11 | motor<br>invest<br>same<br>suspect<br>hazard<br>prize<br>sleep<br>before<br>dress<br>photo<br>reveal |  
-| bip_39_word_new_br12 | motor<br>invest<br>same<br>suspect<br>hazard<br>prize<br>sleep<br>before<br>dress<br>photo<br>reveal<br>aim |  
-| bip_39_word_new_br2 | motor<br>invest |  
-| bip_39_word_new_br3 | motor<br>invest<br>same |  
-| bip_39_word_new_br4 | motor<br>invest<br>same<br>suspect |  
-| bip_39_word_new_br5 | motor<br>invest<br>same<br>suspect<br>hazard |  
-| bip_39_word_new_br6 | motor<br>invest<br>same<br>suspect<br>hazard<br>prize |  
-| bip_39_word_new_br7 | motor<br>invest<br>same<br>suspect<br>hazard<br>prize<br>sleep |  
-| bip_39_word_new_br8 | motor<br>invest<br>same<br>suspect<br>hazard<br>prize<br>sleep<br>before |  
-| bip_39_word_new_br9 | motor<br>invest<br>same<br>suspect<br>hazard<br>prize<br>sleep<br>before<br>dress |  
-| bip_39_word_new_line1 | motor |  
-| bip_39_word_new_line10 | motor
+| bip_39_word_new_br_1 | motor |  
+| bip_39_word_new_br_10 | motor<br>invest<br>same<br>suspect<br>hazard<br>prize<br>sleep<br>before<br>dress<br>photo |  
+| bip_39_word_new_br_11 | motor<br>invest<br>same<br>suspect<br>hazard<br>prize<br>sleep<br>before<br>dress<br>photo<br>reveal |  
+| bip_39_word_new_br_12 | motor<br>invest<br>same<br>suspect<br>hazard<br>prize<br>sleep<br>before<br>dress<br>photo<br>reveal<br>aim |  
+| bip_39_word_new_br_2 | motor<br>invest |  
+| bip_39_word_new_br_3 | motor<br>invest<br>same |  
+| bip_39_word_new_br_4 | motor<br>invest<br>same<br>suspect |  
+| bip_39_word_new_br_5 | motor<br>invest<br>same<br>suspect<br>hazard |  
+| bip_39_word_new_br_6 | motor<br>invest<br>same<br>suspect<br>hazard<br>prize |  
+| bip_39_word_new_br_7 | motor<br>invest<br>same<br>suspect<br>hazard<br>prize<br>sleep |  
+| bip_39_word_new_br_8 | motor<br>invest<br>same<br>suspect<br>hazard<br>prize<br>sleep<br>before |  
+| bip_39_word_new_br_9 | motor<br>invest<br>same<br>suspect<br>hazard<br>prize<br>sleep<br>before<br>dress |  
+| bip_39_word_new_line_1 | motor |  
+| bip_39_word_new_line_10 | motor
 invest
 same
 suspect
@@ -55,7 +55,7 @@ sleep
 before
 dress
 photo |  
-| bip_39_word_new_line11 | motor
+| bip_39_word_new_line_11 | motor
 invest
 same
 suspect
@@ -66,7 +66,7 @@ before
 dress
 photo
 reveal |  
-| bip_39_word_new_line12 | motor
+| bip_39_word_new_line_12 | motor
 invest
 same
 suspect
@@ -78,34 +78,34 @@ dress
 photo
 reveal
 aim |  
-| bip_39_word_new_line2 | motor
+| bip_39_word_new_line_2 | motor
 invest |  
-| bip_39_word_new_line3 | motor
+| bip_39_word_new_line_3 | motor
 invest
 same |  
-| bip_39_word_new_line4 | motor
+| bip_39_word_new_line_4 | motor
 invest
 same
 suspect |  
-| bip_39_word_new_line5 | motor
+| bip_39_word_new_line_5 | motor
 invest
 same
 suspect
 hazard |  
-| bip_39_word_new_line6 | motor
+| bip_39_word_new_line_6 | motor
 invest
 same
 suspect
 hazard
 prize |  
-| bip_39_word_new_line7 | motor
+| bip_39_word_new_line_7 | motor
 invest
 same
 suspect
 hazard
 prize
 sleep |  
-| bip_39_word_new_line8 | motor
+| bip_39_word_new_line_8 | motor
 invest
 same
 suspect
@@ -113,7 +113,7 @@ hazard
 prize
 sleep
 before |  
-| bip_39_word_new_line9 | motor
+| bip_39_word_new_line_9 | motor
 invest
 same
 suspect

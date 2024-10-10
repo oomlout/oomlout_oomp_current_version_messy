@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | decide |  
-| bip_39_word_new_br10 | decide<br>female<br>label<br>alien<br>sweet<br>donkey<br>patch<br>drama<br>salad<br>language |  
-| bip_39_word_new_br11 | decide<br>female<br>label<br>alien<br>sweet<br>donkey<br>patch<br>drama<br>salad<br>language<br>chef |  
-| bip_39_word_new_br12 | decide<br>female<br>label<br>alien<br>sweet<br>donkey<br>patch<br>drama<br>salad<br>language<br>chef<br>assist |  
-| bip_39_word_new_br2 | decide<br>female |  
-| bip_39_word_new_br3 | decide<br>female<br>label |  
-| bip_39_word_new_br4 | decide<br>female<br>label<br>alien |  
-| bip_39_word_new_br5 | decide<br>female<br>label<br>alien<br>sweet |  
-| bip_39_word_new_br6 | decide<br>female<br>label<br>alien<br>sweet<br>donkey |  
-| bip_39_word_new_br7 | decide<br>female<br>label<br>alien<br>sweet<br>donkey<br>patch |  
-| bip_39_word_new_br8 | decide<br>female<br>label<br>alien<br>sweet<br>donkey<br>patch<br>drama |  
-| bip_39_word_new_br9 | decide<br>female<br>label<br>alien<br>sweet<br>donkey<br>patch<br>drama<br>salad |  
-| bip_39_word_new_line1 | decide |  
-| bip_39_word_new_line10 | decide
+| bip_39_word_new_br_1 | decide |  
+| bip_39_word_new_br_10 | decide<br>female<br>label<br>alien<br>sweet<br>donkey<br>patch<br>drama<br>salad<br>language |  
+| bip_39_word_new_br_11 | decide<br>female<br>label<br>alien<br>sweet<br>donkey<br>patch<br>drama<br>salad<br>language<br>chef |  
+| bip_39_word_new_br_12 | decide<br>female<br>label<br>alien<br>sweet<br>donkey<br>patch<br>drama<br>salad<br>language<br>chef<br>assist |  
+| bip_39_word_new_br_2 | decide<br>female |  
+| bip_39_word_new_br_3 | decide<br>female<br>label |  
+| bip_39_word_new_br_4 | decide<br>female<br>label<br>alien |  
+| bip_39_word_new_br_5 | decide<br>female<br>label<br>alien<br>sweet |  
+| bip_39_word_new_br_6 | decide<br>female<br>label<br>alien<br>sweet<br>donkey |  
+| bip_39_word_new_br_7 | decide<br>female<br>label<br>alien<br>sweet<br>donkey<br>patch |  
+| bip_39_word_new_br_8 | decide<br>female<br>label<br>alien<br>sweet<br>donkey<br>patch<br>drama |  
+| bip_39_word_new_br_9 | decide<br>female<br>label<br>alien<br>sweet<br>donkey<br>patch<br>drama<br>salad |  
+| bip_39_word_new_line_1 | decide |  
+| bip_39_word_new_line_10 | decide
 female
 label
 alien
@@ -55,7 +55,7 @@ patch
 drama
 salad
 language |  
-| bip_39_word_new_line11 | decide
+| bip_39_word_new_line_11 | decide
 female
 label
 alien
@@ -66,7 +66,7 @@ drama
 salad
 language
 chef |  
-| bip_39_word_new_line12 | decide
+| bip_39_word_new_line_12 | decide
 female
 label
 alien
@@ -78,34 +78,34 @@ salad
 language
 chef
 assist |  
-| bip_39_word_new_line2 | decide
+| bip_39_word_new_line_2 | decide
 female |  
-| bip_39_word_new_line3 | decide
+| bip_39_word_new_line_3 | decide
 female
 label |  
-| bip_39_word_new_line4 | decide
+| bip_39_word_new_line_4 | decide
 female
 label
 alien |  
-| bip_39_word_new_line5 | decide
+| bip_39_word_new_line_5 | decide
 female
 label
 alien
 sweet |  
-| bip_39_word_new_line6 | decide
+| bip_39_word_new_line_6 | decide
 female
 label
 alien
 sweet
 donkey |  
-| bip_39_word_new_line7 | decide
+| bip_39_word_new_line_7 | decide
 female
 label
 alien
 sweet
 donkey
 patch |  
-| bip_39_word_new_line8 | decide
+| bip_39_word_new_line_8 | decide
 female
 label
 alien
@@ -113,7 +113,7 @@ sweet
 donkey
 patch
 drama |  
-| bip_39_word_new_line9 | decide
+| bip_39_word_new_line_9 | decide
 female
 label
 alien

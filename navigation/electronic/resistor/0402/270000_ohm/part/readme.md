@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | viable |  
-| bip_39_word_new_br10 | viable<br>vague<br>media<br>orient<br>rule<br>regular<br>dirt<br>enough<br>timber<br>trouble |  
-| bip_39_word_new_br11 | viable<br>vague<br>media<br>orient<br>rule<br>regular<br>dirt<br>enough<br>timber<br>trouble<br>tomato |  
-| bip_39_word_new_br12 | viable<br>vague<br>media<br>orient<br>rule<br>regular<br>dirt<br>enough<br>timber<br>trouble<br>tomato<br>armed |  
-| bip_39_word_new_br2 | viable<br>vague |  
-| bip_39_word_new_br3 | viable<br>vague<br>media |  
-| bip_39_word_new_br4 | viable<br>vague<br>media<br>orient |  
-| bip_39_word_new_br5 | viable<br>vague<br>media<br>orient<br>rule |  
-| bip_39_word_new_br6 | viable<br>vague<br>media<br>orient<br>rule<br>regular |  
-| bip_39_word_new_br7 | viable<br>vague<br>media<br>orient<br>rule<br>regular<br>dirt |  
-| bip_39_word_new_br8 | viable<br>vague<br>media<br>orient<br>rule<br>regular<br>dirt<br>enough |  
-| bip_39_word_new_br9 | viable<br>vague<br>media<br>orient<br>rule<br>regular<br>dirt<br>enough<br>timber |  
-| bip_39_word_new_line1 | viable |  
-| bip_39_word_new_line10 | viable
+| bip_39_word_new_br_1 | viable |  
+| bip_39_word_new_br_10 | viable<br>vague<br>media<br>orient<br>rule<br>regular<br>dirt<br>enough<br>timber<br>trouble |  
+| bip_39_word_new_br_11 | viable<br>vague<br>media<br>orient<br>rule<br>regular<br>dirt<br>enough<br>timber<br>trouble<br>tomato |  
+| bip_39_word_new_br_12 | viable<br>vague<br>media<br>orient<br>rule<br>regular<br>dirt<br>enough<br>timber<br>trouble<br>tomato<br>armed |  
+| bip_39_word_new_br_2 | viable<br>vague |  
+| bip_39_word_new_br_3 | viable<br>vague<br>media |  
+| bip_39_word_new_br_4 | viable<br>vague<br>media<br>orient |  
+| bip_39_word_new_br_5 | viable<br>vague<br>media<br>orient<br>rule |  
+| bip_39_word_new_br_6 | viable<br>vague<br>media<br>orient<br>rule<br>regular |  
+| bip_39_word_new_br_7 | viable<br>vague<br>media<br>orient<br>rule<br>regular<br>dirt |  
+| bip_39_word_new_br_8 | viable<br>vague<br>media<br>orient<br>rule<br>regular<br>dirt<br>enough |  
+| bip_39_word_new_br_9 | viable<br>vague<br>media<br>orient<br>rule<br>regular<br>dirt<br>enough<br>timber |  
+| bip_39_word_new_line_1 | viable |  
+| bip_39_word_new_line_10 | viable
 vague
 media
 orient
@@ -55,7 +55,7 @@ dirt
 enough
 timber
 trouble |  
-| bip_39_word_new_line11 | viable
+| bip_39_word_new_line_11 | viable
 vague
 media
 orient
@@ -66,7 +66,7 @@ enough
 timber
 trouble
 tomato |  
-| bip_39_word_new_line12 | viable
+| bip_39_word_new_line_12 | viable
 vague
 media
 orient
@@ -78,34 +78,34 @@ timber
 trouble
 tomato
 armed |  
-| bip_39_word_new_line2 | viable
+| bip_39_word_new_line_2 | viable
 vague |  
-| bip_39_word_new_line3 | viable
+| bip_39_word_new_line_3 | viable
 vague
 media |  
-| bip_39_word_new_line4 | viable
+| bip_39_word_new_line_4 | viable
 vague
 media
 orient |  
-| bip_39_word_new_line5 | viable
+| bip_39_word_new_line_5 | viable
 vague
 media
 orient
 rule |  
-| bip_39_word_new_line6 | viable
+| bip_39_word_new_line_6 | viable
 vague
 media
 orient
 rule
 regular |  
-| bip_39_word_new_line7 | viable
+| bip_39_word_new_line_7 | viable
 vague
 media
 orient
 rule
 regular
 dirt |  
-| bip_39_word_new_line8 | viable
+| bip_39_word_new_line_8 | viable
 vague
 media
 orient
@@ -113,7 +113,7 @@ rule
 regular
 dirt
 enough |  
-| bip_39_word_new_line9 | viable
+| bip_39_word_new_line_9 | viable
 vague
 media
 orient

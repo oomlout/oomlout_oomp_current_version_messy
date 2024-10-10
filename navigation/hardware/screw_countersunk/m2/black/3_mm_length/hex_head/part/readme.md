@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | loud |  
-| bip_39_word_new_br10 | loud<br>bunker<br>pattern<br>razor<br>dentist<br>cheap<br>hollow<br>resemble<br>defense<br>pencil |  
-| bip_39_word_new_br11 | loud<br>bunker<br>pattern<br>razor<br>dentist<br>cheap<br>hollow<br>resemble<br>defense<br>pencil<br>kidney |  
-| bip_39_word_new_br12 | loud<br>bunker<br>pattern<br>razor<br>dentist<br>cheap<br>hollow<br>resemble<br>defense<br>pencil<br>kidney<br>apart |  
-| bip_39_word_new_br2 | loud<br>bunker |  
-| bip_39_word_new_br3 | loud<br>bunker<br>pattern |  
-| bip_39_word_new_br4 | loud<br>bunker<br>pattern<br>razor |  
-| bip_39_word_new_br5 | loud<br>bunker<br>pattern<br>razor<br>dentist |  
-| bip_39_word_new_br6 | loud<br>bunker<br>pattern<br>razor<br>dentist<br>cheap |  
-| bip_39_word_new_br7 | loud<br>bunker<br>pattern<br>razor<br>dentist<br>cheap<br>hollow |  
-| bip_39_word_new_br8 | loud<br>bunker<br>pattern<br>razor<br>dentist<br>cheap<br>hollow<br>resemble |  
-| bip_39_word_new_br9 | loud<br>bunker<br>pattern<br>razor<br>dentist<br>cheap<br>hollow<br>resemble<br>defense |  
-| bip_39_word_new_line1 | loud |  
-| bip_39_word_new_line10 | loud
+| bip_39_word_new_br_1 | loud |  
+| bip_39_word_new_br_10 | loud<br>bunker<br>pattern<br>razor<br>dentist<br>cheap<br>hollow<br>resemble<br>defense<br>pencil |  
+| bip_39_word_new_br_11 | loud<br>bunker<br>pattern<br>razor<br>dentist<br>cheap<br>hollow<br>resemble<br>defense<br>pencil<br>kidney |  
+| bip_39_word_new_br_12 | loud<br>bunker<br>pattern<br>razor<br>dentist<br>cheap<br>hollow<br>resemble<br>defense<br>pencil<br>kidney<br>apart |  
+| bip_39_word_new_br_2 | loud<br>bunker |  
+| bip_39_word_new_br_3 | loud<br>bunker<br>pattern |  
+| bip_39_word_new_br_4 | loud<br>bunker<br>pattern<br>razor |  
+| bip_39_word_new_br_5 | loud<br>bunker<br>pattern<br>razor<br>dentist |  
+| bip_39_word_new_br_6 | loud<br>bunker<br>pattern<br>razor<br>dentist<br>cheap |  
+| bip_39_word_new_br_7 | loud<br>bunker<br>pattern<br>razor<br>dentist<br>cheap<br>hollow |  
+| bip_39_word_new_br_8 | loud<br>bunker<br>pattern<br>razor<br>dentist<br>cheap<br>hollow<br>resemble |  
+| bip_39_word_new_br_9 | loud<br>bunker<br>pattern<br>razor<br>dentist<br>cheap<br>hollow<br>resemble<br>defense |  
+| bip_39_word_new_line_1 | loud |  
+| bip_39_word_new_line_10 | loud
 bunker
 pattern
 razor
@@ -55,7 +55,7 @@ hollow
 resemble
 defense
 pencil |  
-| bip_39_word_new_line11 | loud
+| bip_39_word_new_line_11 | loud
 bunker
 pattern
 razor
@@ -66,7 +66,7 @@ resemble
 defense
 pencil
 kidney |  
-| bip_39_word_new_line12 | loud
+| bip_39_word_new_line_12 | loud
 bunker
 pattern
 razor
@@ -78,34 +78,34 @@ defense
 pencil
 kidney
 apart |  
-| bip_39_word_new_line2 | loud
+| bip_39_word_new_line_2 | loud
 bunker |  
-| bip_39_word_new_line3 | loud
+| bip_39_word_new_line_3 | loud
 bunker
 pattern |  
-| bip_39_word_new_line4 | loud
+| bip_39_word_new_line_4 | loud
 bunker
 pattern
 razor |  
-| bip_39_word_new_line5 | loud
+| bip_39_word_new_line_5 | loud
 bunker
 pattern
 razor
 dentist |  
-| bip_39_word_new_line6 | loud
+| bip_39_word_new_line_6 | loud
 bunker
 pattern
 razor
 dentist
 cheap |  
-| bip_39_word_new_line7 | loud
+| bip_39_word_new_line_7 | loud
 bunker
 pattern
 razor
 dentist
 cheap
 hollow |  
-| bip_39_word_new_line8 | loud
+| bip_39_word_new_line_8 | loud
 bunker
 pattern
 razor
@@ -113,7 +113,7 @@ dentist
 cheap
 hollow
 resemble |  
-| bip_39_word_new_line9 | loud
+| bip_39_word_new_line_9 | loud
 bunker
 pattern
 razor

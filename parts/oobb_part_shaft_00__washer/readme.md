@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | walk |  
-| bip_39_word_new_br10 | walk<br>stamp<br>camp<br>enable<br>segment<br>knock<br>daughter<br>lobster<br>menu<br>man |  
-| bip_39_word_new_br11 | walk<br>stamp<br>camp<br>enable<br>segment<br>knock<br>daughter<br>lobster<br>menu<br>man<br>element |  
-| bip_39_word_new_br12 | walk<br>stamp<br>camp<br>enable<br>segment<br>knock<br>daughter<br>lobster<br>menu<br>man<br>element<br>athlete |  
-| bip_39_word_new_br2 | walk<br>stamp |  
-| bip_39_word_new_br3 | walk<br>stamp<br>camp |  
-| bip_39_word_new_br4 | walk<br>stamp<br>camp<br>enable |  
-| bip_39_word_new_br5 | walk<br>stamp<br>camp<br>enable<br>segment |  
-| bip_39_word_new_br6 | walk<br>stamp<br>camp<br>enable<br>segment<br>knock |  
-| bip_39_word_new_br7 | walk<br>stamp<br>camp<br>enable<br>segment<br>knock<br>daughter |  
-| bip_39_word_new_br8 | walk<br>stamp<br>camp<br>enable<br>segment<br>knock<br>daughter<br>lobster |  
-| bip_39_word_new_br9 | walk<br>stamp<br>camp<br>enable<br>segment<br>knock<br>daughter<br>lobster<br>menu |  
-| bip_39_word_new_line1 | walk |  
-| bip_39_word_new_line10 | walk
+| bip_39_word_new_br_1 | walk |  
+| bip_39_word_new_br_10 | walk<br>stamp<br>camp<br>enable<br>segment<br>knock<br>daughter<br>lobster<br>menu<br>man |  
+| bip_39_word_new_br_11 | walk<br>stamp<br>camp<br>enable<br>segment<br>knock<br>daughter<br>lobster<br>menu<br>man<br>element |  
+| bip_39_word_new_br_12 | walk<br>stamp<br>camp<br>enable<br>segment<br>knock<br>daughter<br>lobster<br>menu<br>man<br>element<br>athlete |  
+| bip_39_word_new_br_2 | walk<br>stamp |  
+| bip_39_word_new_br_3 | walk<br>stamp<br>camp |  
+| bip_39_word_new_br_4 | walk<br>stamp<br>camp<br>enable |  
+| bip_39_word_new_br_5 | walk<br>stamp<br>camp<br>enable<br>segment |  
+| bip_39_word_new_br_6 | walk<br>stamp<br>camp<br>enable<br>segment<br>knock |  
+| bip_39_word_new_br_7 | walk<br>stamp<br>camp<br>enable<br>segment<br>knock<br>daughter |  
+| bip_39_word_new_br_8 | walk<br>stamp<br>camp<br>enable<br>segment<br>knock<br>daughter<br>lobster |  
+| bip_39_word_new_br_9 | walk<br>stamp<br>camp<br>enable<br>segment<br>knock<br>daughter<br>lobster<br>menu |  
+| bip_39_word_new_line_1 | walk |  
+| bip_39_word_new_line_10 | walk
 stamp
 camp
 enable
@@ -55,7 +55,7 @@ daughter
 lobster
 menu
 man |  
-| bip_39_word_new_line11 | walk
+| bip_39_word_new_line_11 | walk
 stamp
 camp
 enable
@@ -66,7 +66,7 @@ lobster
 menu
 man
 element |  
-| bip_39_word_new_line12 | walk
+| bip_39_word_new_line_12 | walk
 stamp
 camp
 enable
@@ -78,34 +78,34 @@ menu
 man
 element
 athlete |  
-| bip_39_word_new_line2 | walk
+| bip_39_word_new_line_2 | walk
 stamp |  
-| bip_39_word_new_line3 | walk
+| bip_39_word_new_line_3 | walk
 stamp
 camp |  
-| bip_39_word_new_line4 | walk
+| bip_39_word_new_line_4 | walk
 stamp
 camp
 enable |  
-| bip_39_word_new_line5 | walk
+| bip_39_word_new_line_5 | walk
 stamp
 camp
 enable
 segment |  
-| bip_39_word_new_line6 | walk
+| bip_39_word_new_line_6 | walk
 stamp
 camp
 enable
 segment
 knock |  
-| bip_39_word_new_line7 | walk
+| bip_39_word_new_line_7 | walk
 stamp
 camp
 enable
 segment
 knock
 daughter |  
-| bip_39_word_new_line8 | walk
+| bip_39_word_new_line_8 | walk
 stamp
 camp
 enable
@@ -113,7 +113,7 @@ segment
 knock
 daughter
 lobster |  
-| bip_39_word_new_line9 | walk
+| bip_39_word_new_line_9 | walk
 stamp
 camp
 enable

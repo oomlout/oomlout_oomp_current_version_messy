@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | alcohol |  
-| bip_39_word_new_br10 | alcohol<br>indicate<br>second<br>stove<br>token<br>whisper<br>plug<br>valley<br>cushion<br>boil |  
-| bip_39_word_new_br11 | alcohol<br>indicate<br>second<br>stove<br>token<br>whisper<br>plug<br>valley<br>cushion<br>boil<br>ozone |  
-| bip_39_word_new_br12 | alcohol<br>indicate<br>second<br>stove<br>token<br>whisper<br>plug<br>valley<br>cushion<br>boil<br>ozone<br>angry |  
-| bip_39_word_new_br2 | alcohol<br>indicate |  
-| bip_39_word_new_br3 | alcohol<br>indicate<br>second |  
-| bip_39_word_new_br4 | alcohol<br>indicate<br>second<br>stove |  
-| bip_39_word_new_br5 | alcohol<br>indicate<br>second<br>stove<br>token |  
-| bip_39_word_new_br6 | alcohol<br>indicate<br>second<br>stove<br>token<br>whisper |  
-| bip_39_word_new_br7 | alcohol<br>indicate<br>second<br>stove<br>token<br>whisper<br>plug |  
-| bip_39_word_new_br8 | alcohol<br>indicate<br>second<br>stove<br>token<br>whisper<br>plug<br>valley |  
-| bip_39_word_new_br9 | alcohol<br>indicate<br>second<br>stove<br>token<br>whisper<br>plug<br>valley<br>cushion |  
-| bip_39_word_new_line1 | alcohol |  
-| bip_39_word_new_line10 | alcohol
+| bip_39_word_new_br_1 | alcohol |  
+| bip_39_word_new_br_10 | alcohol<br>indicate<br>second<br>stove<br>token<br>whisper<br>plug<br>valley<br>cushion<br>boil |  
+| bip_39_word_new_br_11 | alcohol<br>indicate<br>second<br>stove<br>token<br>whisper<br>plug<br>valley<br>cushion<br>boil<br>ozone |  
+| bip_39_word_new_br_12 | alcohol<br>indicate<br>second<br>stove<br>token<br>whisper<br>plug<br>valley<br>cushion<br>boil<br>ozone<br>angry |  
+| bip_39_word_new_br_2 | alcohol<br>indicate |  
+| bip_39_word_new_br_3 | alcohol<br>indicate<br>second |  
+| bip_39_word_new_br_4 | alcohol<br>indicate<br>second<br>stove |  
+| bip_39_word_new_br_5 | alcohol<br>indicate<br>second<br>stove<br>token |  
+| bip_39_word_new_br_6 | alcohol<br>indicate<br>second<br>stove<br>token<br>whisper |  
+| bip_39_word_new_br_7 | alcohol<br>indicate<br>second<br>stove<br>token<br>whisper<br>plug |  
+| bip_39_word_new_br_8 | alcohol<br>indicate<br>second<br>stove<br>token<br>whisper<br>plug<br>valley |  
+| bip_39_word_new_br_9 | alcohol<br>indicate<br>second<br>stove<br>token<br>whisper<br>plug<br>valley<br>cushion |  
+| bip_39_word_new_line_1 | alcohol |  
+| bip_39_word_new_line_10 | alcohol
 indicate
 second
 stove
@@ -55,7 +55,7 @@ plug
 valley
 cushion
 boil |  
-| bip_39_word_new_line11 | alcohol
+| bip_39_word_new_line_11 | alcohol
 indicate
 second
 stove
@@ -66,7 +66,7 @@ valley
 cushion
 boil
 ozone |  
-| bip_39_word_new_line12 | alcohol
+| bip_39_word_new_line_12 | alcohol
 indicate
 second
 stove
@@ -78,34 +78,34 @@ cushion
 boil
 ozone
 angry |  
-| bip_39_word_new_line2 | alcohol
+| bip_39_word_new_line_2 | alcohol
 indicate |  
-| bip_39_word_new_line3 | alcohol
+| bip_39_word_new_line_3 | alcohol
 indicate
 second |  
-| bip_39_word_new_line4 | alcohol
+| bip_39_word_new_line_4 | alcohol
 indicate
 second
 stove |  
-| bip_39_word_new_line5 | alcohol
+| bip_39_word_new_line_5 | alcohol
 indicate
 second
 stove
 token |  
-| bip_39_word_new_line6 | alcohol
+| bip_39_word_new_line_6 | alcohol
 indicate
 second
 stove
 token
 whisper |  
-| bip_39_word_new_line7 | alcohol
+| bip_39_word_new_line_7 | alcohol
 indicate
 second
 stove
 token
 whisper
 plug |  
-| bip_39_word_new_line8 | alcohol
+| bip_39_word_new_line_8 | alcohol
 indicate
 second
 stove
@@ -113,7 +113,7 @@ token
 whisper
 plug
 valley |  
-| bip_39_word_new_line9 | alcohol
+| bip_39_word_new_line_9 | alcohol
 indicate
 second
 stove

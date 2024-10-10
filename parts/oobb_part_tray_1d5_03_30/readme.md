@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bitter |  
-| bip_39_word_new_br10 | bitter<br>swim<br>little<br>eight<br>movie<br>govern<br>fragile<br>churn<br>math<br>dismiss |  
-| bip_39_word_new_br11 | bitter<br>swim<br>little<br>eight<br>movie<br>govern<br>fragile<br>churn<br>math<br>dismiss<br>problem |  
-| bip_39_word_new_br12 | bitter<br>swim<br>little<br>eight<br>movie<br>govern<br>fragile<br>churn<br>math<br>dismiss<br>problem<br>among |  
-| bip_39_word_new_br2 | bitter<br>swim |  
-| bip_39_word_new_br3 | bitter<br>swim<br>little |  
-| bip_39_word_new_br4 | bitter<br>swim<br>little<br>eight |  
-| bip_39_word_new_br5 | bitter<br>swim<br>little<br>eight<br>movie |  
-| bip_39_word_new_br6 | bitter<br>swim<br>little<br>eight<br>movie<br>govern |  
-| bip_39_word_new_br7 | bitter<br>swim<br>little<br>eight<br>movie<br>govern<br>fragile |  
-| bip_39_word_new_br8 | bitter<br>swim<br>little<br>eight<br>movie<br>govern<br>fragile<br>churn |  
-| bip_39_word_new_br9 | bitter<br>swim<br>little<br>eight<br>movie<br>govern<br>fragile<br>churn<br>math |  
-| bip_39_word_new_line1 | bitter |  
-| bip_39_word_new_line10 | bitter
+| bip_39_word_new_br_1 | bitter |  
+| bip_39_word_new_br_10 | bitter<br>swim<br>little<br>eight<br>movie<br>govern<br>fragile<br>churn<br>math<br>dismiss |  
+| bip_39_word_new_br_11 | bitter<br>swim<br>little<br>eight<br>movie<br>govern<br>fragile<br>churn<br>math<br>dismiss<br>problem |  
+| bip_39_word_new_br_12 | bitter<br>swim<br>little<br>eight<br>movie<br>govern<br>fragile<br>churn<br>math<br>dismiss<br>problem<br>among |  
+| bip_39_word_new_br_2 | bitter<br>swim |  
+| bip_39_word_new_br_3 | bitter<br>swim<br>little |  
+| bip_39_word_new_br_4 | bitter<br>swim<br>little<br>eight |  
+| bip_39_word_new_br_5 | bitter<br>swim<br>little<br>eight<br>movie |  
+| bip_39_word_new_br_6 | bitter<br>swim<br>little<br>eight<br>movie<br>govern |  
+| bip_39_word_new_br_7 | bitter<br>swim<br>little<br>eight<br>movie<br>govern<br>fragile |  
+| bip_39_word_new_br_8 | bitter<br>swim<br>little<br>eight<br>movie<br>govern<br>fragile<br>churn |  
+| bip_39_word_new_br_9 | bitter<br>swim<br>little<br>eight<br>movie<br>govern<br>fragile<br>churn<br>math |  
+| bip_39_word_new_line_1 | bitter |  
+| bip_39_word_new_line_10 | bitter
 swim
 little
 eight
@@ -55,7 +55,7 @@ fragile
 churn
 math
 dismiss |  
-| bip_39_word_new_line11 | bitter
+| bip_39_word_new_line_11 | bitter
 swim
 little
 eight
@@ -66,7 +66,7 @@ churn
 math
 dismiss
 problem |  
-| bip_39_word_new_line12 | bitter
+| bip_39_word_new_line_12 | bitter
 swim
 little
 eight
@@ -78,34 +78,34 @@ math
 dismiss
 problem
 among |  
-| bip_39_word_new_line2 | bitter
+| bip_39_word_new_line_2 | bitter
 swim |  
-| bip_39_word_new_line3 | bitter
+| bip_39_word_new_line_3 | bitter
 swim
 little |  
-| bip_39_word_new_line4 | bitter
+| bip_39_word_new_line_4 | bitter
 swim
 little
 eight |  
-| bip_39_word_new_line5 | bitter
+| bip_39_word_new_line_5 | bitter
 swim
 little
 eight
 movie |  
-| bip_39_word_new_line6 | bitter
+| bip_39_word_new_line_6 | bitter
 swim
 little
 eight
 movie
 govern |  
-| bip_39_word_new_line7 | bitter
+| bip_39_word_new_line_7 | bitter
 swim
 little
 eight
 movie
 govern
 fragile |  
-| bip_39_word_new_line8 | bitter
+| bip_39_word_new_line_8 | bitter
 swim
 little
 eight
@@ -113,7 +113,7 @@ movie
 govern
 fragile
 churn |  
-| bip_39_word_new_line9 | bitter
+| bip_39_word_new_line_9 | bitter
 swim
 little
 eight

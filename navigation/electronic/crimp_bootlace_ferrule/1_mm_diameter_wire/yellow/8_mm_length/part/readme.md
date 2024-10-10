@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dumb |  
-| bip_39_word_new_br10 | dumb<br>bonus<br>meadow<br>tilt<br>feed<br>actress<br>protect<br>cup<br>tourist<br>humor |  
-| bip_39_word_new_br11 | dumb<br>bonus<br>meadow<br>tilt<br>feed<br>actress<br>protect<br>cup<br>tourist<br>humor<br>smart |  
-| bip_39_word_new_br12 | dumb<br>bonus<br>meadow<br>tilt<br>feed<br>actress<br>protect<br>cup<br>tourist<br>humor<br>smart<br>amazing |  
-| bip_39_word_new_br2 | dumb<br>bonus |  
-| bip_39_word_new_br3 | dumb<br>bonus<br>meadow |  
-| bip_39_word_new_br4 | dumb<br>bonus<br>meadow<br>tilt |  
-| bip_39_word_new_br5 | dumb<br>bonus<br>meadow<br>tilt<br>feed |  
-| bip_39_word_new_br6 | dumb<br>bonus<br>meadow<br>tilt<br>feed<br>actress |  
-| bip_39_word_new_br7 | dumb<br>bonus<br>meadow<br>tilt<br>feed<br>actress<br>protect |  
-| bip_39_word_new_br8 | dumb<br>bonus<br>meadow<br>tilt<br>feed<br>actress<br>protect<br>cup |  
-| bip_39_word_new_br9 | dumb<br>bonus<br>meadow<br>tilt<br>feed<br>actress<br>protect<br>cup<br>tourist |  
-| bip_39_word_new_line1 | dumb |  
-| bip_39_word_new_line10 | dumb
+| bip_39_word_new_br_1 | dumb |  
+| bip_39_word_new_br_10 | dumb<br>bonus<br>meadow<br>tilt<br>feed<br>actress<br>protect<br>cup<br>tourist<br>humor |  
+| bip_39_word_new_br_11 | dumb<br>bonus<br>meadow<br>tilt<br>feed<br>actress<br>protect<br>cup<br>tourist<br>humor<br>smart |  
+| bip_39_word_new_br_12 | dumb<br>bonus<br>meadow<br>tilt<br>feed<br>actress<br>protect<br>cup<br>tourist<br>humor<br>smart<br>amazing |  
+| bip_39_word_new_br_2 | dumb<br>bonus |  
+| bip_39_word_new_br_3 | dumb<br>bonus<br>meadow |  
+| bip_39_word_new_br_4 | dumb<br>bonus<br>meadow<br>tilt |  
+| bip_39_word_new_br_5 | dumb<br>bonus<br>meadow<br>tilt<br>feed |  
+| bip_39_word_new_br_6 | dumb<br>bonus<br>meadow<br>tilt<br>feed<br>actress |  
+| bip_39_word_new_br_7 | dumb<br>bonus<br>meadow<br>tilt<br>feed<br>actress<br>protect |  
+| bip_39_word_new_br_8 | dumb<br>bonus<br>meadow<br>tilt<br>feed<br>actress<br>protect<br>cup |  
+| bip_39_word_new_br_9 | dumb<br>bonus<br>meadow<br>tilt<br>feed<br>actress<br>protect<br>cup<br>tourist |  
+| bip_39_word_new_line_1 | dumb |  
+| bip_39_word_new_line_10 | dumb
 bonus
 meadow
 tilt
@@ -55,7 +55,7 @@ protect
 cup
 tourist
 humor |  
-| bip_39_word_new_line11 | dumb
+| bip_39_word_new_line_11 | dumb
 bonus
 meadow
 tilt
@@ -66,7 +66,7 @@ cup
 tourist
 humor
 smart |  
-| bip_39_word_new_line12 | dumb
+| bip_39_word_new_line_12 | dumb
 bonus
 meadow
 tilt
@@ -78,34 +78,34 @@ tourist
 humor
 smart
 amazing |  
-| bip_39_word_new_line2 | dumb
+| bip_39_word_new_line_2 | dumb
 bonus |  
-| bip_39_word_new_line3 | dumb
+| bip_39_word_new_line_3 | dumb
 bonus
 meadow |  
-| bip_39_word_new_line4 | dumb
+| bip_39_word_new_line_4 | dumb
 bonus
 meadow
 tilt |  
-| bip_39_word_new_line5 | dumb
+| bip_39_word_new_line_5 | dumb
 bonus
 meadow
 tilt
 feed |  
-| bip_39_word_new_line6 | dumb
+| bip_39_word_new_line_6 | dumb
 bonus
 meadow
 tilt
 feed
 actress |  
-| bip_39_word_new_line7 | dumb
+| bip_39_word_new_line_7 | dumb
 bonus
 meadow
 tilt
 feed
 actress
 protect |  
-| bip_39_word_new_line8 | dumb
+| bip_39_word_new_line_8 | dumb
 bonus
 meadow
 tilt
@@ -113,7 +113,7 @@ feed
 actress
 protect
 cup |  
-| bip_39_word_new_line9 | dumb
+| bip_39_word_new_line_9 | dumb
 bonus
 meadow
 tilt

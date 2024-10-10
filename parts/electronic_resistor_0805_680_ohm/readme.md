@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | diet |  
-| bip_39_word_new_br10 | diet<br>make<br>thank<br>comfort<br>pilot<br>wreck<br>easily<br>tornado<br>train<br>street |  
-| bip_39_word_new_br11 | diet<br>make<br>thank<br>comfort<br>pilot<br>wreck<br>easily<br>tornado<br>train<br>street<br>dolphin |  
-| bip_39_word_new_br12 | diet<br>make<br>thank<br>comfort<br>pilot<br>wreck<br>easily<br>tornado<br>train<br>street<br>dolphin<br>absurd |  
-| bip_39_word_new_br2 | diet<br>make |  
-| bip_39_word_new_br3 | diet<br>make<br>thank |  
-| bip_39_word_new_br4 | diet<br>make<br>thank<br>comfort |  
-| bip_39_word_new_br5 | diet<br>make<br>thank<br>comfort<br>pilot |  
-| bip_39_word_new_br6 | diet<br>make<br>thank<br>comfort<br>pilot<br>wreck |  
-| bip_39_word_new_br7 | diet<br>make<br>thank<br>comfort<br>pilot<br>wreck<br>easily |  
-| bip_39_word_new_br8 | diet<br>make<br>thank<br>comfort<br>pilot<br>wreck<br>easily<br>tornado |  
-| bip_39_word_new_br9 | diet<br>make<br>thank<br>comfort<br>pilot<br>wreck<br>easily<br>tornado<br>train |  
-| bip_39_word_new_line1 | diet |  
-| bip_39_word_new_line10 | diet
+| bip_39_word_new_br_1 | diet |  
+| bip_39_word_new_br_10 | diet<br>make<br>thank<br>comfort<br>pilot<br>wreck<br>easily<br>tornado<br>train<br>street |  
+| bip_39_word_new_br_11 | diet<br>make<br>thank<br>comfort<br>pilot<br>wreck<br>easily<br>tornado<br>train<br>street<br>dolphin |  
+| bip_39_word_new_br_12 | diet<br>make<br>thank<br>comfort<br>pilot<br>wreck<br>easily<br>tornado<br>train<br>street<br>dolphin<br>absurd |  
+| bip_39_word_new_br_2 | diet<br>make |  
+| bip_39_word_new_br_3 | diet<br>make<br>thank |  
+| bip_39_word_new_br_4 | diet<br>make<br>thank<br>comfort |  
+| bip_39_word_new_br_5 | diet<br>make<br>thank<br>comfort<br>pilot |  
+| bip_39_word_new_br_6 | diet<br>make<br>thank<br>comfort<br>pilot<br>wreck |  
+| bip_39_word_new_br_7 | diet<br>make<br>thank<br>comfort<br>pilot<br>wreck<br>easily |  
+| bip_39_word_new_br_8 | diet<br>make<br>thank<br>comfort<br>pilot<br>wreck<br>easily<br>tornado |  
+| bip_39_word_new_br_9 | diet<br>make<br>thank<br>comfort<br>pilot<br>wreck<br>easily<br>tornado<br>train |  
+| bip_39_word_new_line_1 | diet |  
+| bip_39_word_new_line_10 | diet
 make
 thank
 comfort
@@ -55,7 +55,7 @@ easily
 tornado
 train
 street |  
-| bip_39_word_new_line11 | diet
+| bip_39_word_new_line_11 | diet
 make
 thank
 comfort
@@ -66,7 +66,7 @@ tornado
 train
 street
 dolphin |  
-| bip_39_word_new_line12 | diet
+| bip_39_word_new_line_12 | diet
 make
 thank
 comfort
@@ -78,34 +78,34 @@ train
 street
 dolphin
 absurd |  
-| bip_39_word_new_line2 | diet
+| bip_39_word_new_line_2 | diet
 make |  
-| bip_39_word_new_line3 | diet
+| bip_39_word_new_line_3 | diet
 make
 thank |  
-| bip_39_word_new_line4 | diet
+| bip_39_word_new_line_4 | diet
 make
 thank
 comfort |  
-| bip_39_word_new_line5 | diet
+| bip_39_word_new_line_5 | diet
 make
 thank
 comfort
 pilot |  
-| bip_39_word_new_line6 | diet
+| bip_39_word_new_line_6 | diet
 make
 thank
 comfort
 pilot
 wreck |  
-| bip_39_word_new_line7 | diet
+| bip_39_word_new_line_7 | diet
 make
 thank
 comfort
 pilot
 wreck
 easily |  
-| bip_39_word_new_line8 | diet
+| bip_39_word_new_line_8 | diet
 make
 thank
 comfort
@@ -113,7 +113,7 @@ pilot
 wreck
 easily
 tornado |  
-| bip_39_word_new_line9 | diet
+| bip_39_word_new_line_9 | diet
 make
 thank
 comfort

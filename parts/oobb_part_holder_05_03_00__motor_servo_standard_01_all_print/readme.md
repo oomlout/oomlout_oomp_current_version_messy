@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | village |  
-| bip_39_word_new_br10 | village<br>ostrich<br>pave<br>mixture<br>rival<br>save<br>leg<br>arena<br>artwork<br>rude |  
-| bip_39_word_new_br11 | village<br>ostrich<br>pave<br>mixture<br>rival<br>save<br>leg<br>arena<br>artwork<br>rude<br>shoe |  
-| bip_39_word_new_br12 | village<br>ostrich<br>pave<br>mixture<br>rival<br>save<br>leg<br>arena<br>artwork<br>rude<br>shoe<br>artist |  
-| bip_39_word_new_br2 | village<br>ostrich |  
-| bip_39_word_new_br3 | village<br>ostrich<br>pave |  
-| bip_39_word_new_br4 | village<br>ostrich<br>pave<br>mixture |  
-| bip_39_word_new_br5 | village<br>ostrich<br>pave<br>mixture<br>rival |  
-| bip_39_word_new_br6 | village<br>ostrich<br>pave<br>mixture<br>rival<br>save |  
-| bip_39_word_new_br7 | village<br>ostrich<br>pave<br>mixture<br>rival<br>save<br>leg |  
-| bip_39_word_new_br8 | village<br>ostrich<br>pave<br>mixture<br>rival<br>save<br>leg<br>arena |  
-| bip_39_word_new_br9 | village<br>ostrich<br>pave<br>mixture<br>rival<br>save<br>leg<br>arena<br>artwork |  
-| bip_39_word_new_line1 | village |  
-| bip_39_word_new_line10 | village
+| bip_39_word_new_br_1 | village |  
+| bip_39_word_new_br_10 | village<br>ostrich<br>pave<br>mixture<br>rival<br>save<br>leg<br>arena<br>artwork<br>rude |  
+| bip_39_word_new_br_11 | village<br>ostrich<br>pave<br>mixture<br>rival<br>save<br>leg<br>arena<br>artwork<br>rude<br>shoe |  
+| bip_39_word_new_br_12 | village<br>ostrich<br>pave<br>mixture<br>rival<br>save<br>leg<br>arena<br>artwork<br>rude<br>shoe<br>artist |  
+| bip_39_word_new_br_2 | village<br>ostrich |  
+| bip_39_word_new_br_3 | village<br>ostrich<br>pave |  
+| bip_39_word_new_br_4 | village<br>ostrich<br>pave<br>mixture |  
+| bip_39_word_new_br_5 | village<br>ostrich<br>pave<br>mixture<br>rival |  
+| bip_39_word_new_br_6 | village<br>ostrich<br>pave<br>mixture<br>rival<br>save |  
+| bip_39_word_new_br_7 | village<br>ostrich<br>pave<br>mixture<br>rival<br>save<br>leg |  
+| bip_39_word_new_br_8 | village<br>ostrich<br>pave<br>mixture<br>rival<br>save<br>leg<br>arena |  
+| bip_39_word_new_br_9 | village<br>ostrich<br>pave<br>mixture<br>rival<br>save<br>leg<br>arena<br>artwork |  
+| bip_39_word_new_line_1 | village |  
+| bip_39_word_new_line_10 | village
 ostrich
 pave
 mixture
@@ -55,7 +55,7 @@ leg
 arena
 artwork
 rude |  
-| bip_39_word_new_line11 | village
+| bip_39_word_new_line_11 | village
 ostrich
 pave
 mixture
@@ -66,7 +66,7 @@ arena
 artwork
 rude
 shoe |  
-| bip_39_word_new_line12 | village
+| bip_39_word_new_line_12 | village
 ostrich
 pave
 mixture
@@ -78,34 +78,34 @@ artwork
 rude
 shoe
 artist |  
-| bip_39_word_new_line2 | village
+| bip_39_word_new_line_2 | village
 ostrich |  
-| bip_39_word_new_line3 | village
+| bip_39_word_new_line_3 | village
 ostrich
 pave |  
-| bip_39_word_new_line4 | village
+| bip_39_word_new_line_4 | village
 ostrich
 pave
 mixture |  
-| bip_39_word_new_line5 | village
+| bip_39_word_new_line_5 | village
 ostrich
 pave
 mixture
 rival |  
-| bip_39_word_new_line6 | village
+| bip_39_word_new_line_6 | village
 ostrich
 pave
 mixture
 rival
 save |  
-| bip_39_word_new_line7 | village
+| bip_39_word_new_line_7 | village
 ostrich
 pave
 mixture
 rival
 save
 leg |  
-| bip_39_word_new_line8 | village
+| bip_39_word_new_line_8 | village
 ostrich
 pave
 mixture
@@ -113,7 +113,7 @@ rival
 save
 leg
 arena |  
-| bip_39_word_new_line9 | village
+| bip_39_word_new_line_9 | village
 ostrich
 pave
 mixture

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ice |  
-| bip_39_word_new_br10 | ice<br>rough<br>stock<br>exhibit<br>all<br>retire<br>shuffle<br>shrimp<br>assault<br>liar |  
-| bip_39_word_new_br11 | ice<br>rough<br>stock<br>exhibit<br>all<br>retire<br>shuffle<br>shrimp<br>assault<br>liar<br>disorder |  
-| bip_39_word_new_br12 | ice<br>rough<br>stock<br>exhibit<br>all<br>retire<br>shuffle<br>shrimp<br>assault<br>liar<br>disorder<br>arrest |  
-| bip_39_word_new_br2 | ice<br>rough |  
-| bip_39_word_new_br3 | ice<br>rough<br>stock |  
-| bip_39_word_new_br4 | ice<br>rough<br>stock<br>exhibit |  
-| bip_39_word_new_br5 | ice<br>rough<br>stock<br>exhibit<br>all |  
-| bip_39_word_new_br6 | ice<br>rough<br>stock<br>exhibit<br>all<br>retire |  
-| bip_39_word_new_br7 | ice<br>rough<br>stock<br>exhibit<br>all<br>retire<br>shuffle |  
-| bip_39_word_new_br8 | ice<br>rough<br>stock<br>exhibit<br>all<br>retire<br>shuffle<br>shrimp |  
-| bip_39_word_new_br9 | ice<br>rough<br>stock<br>exhibit<br>all<br>retire<br>shuffle<br>shrimp<br>assault |  
-| bip_39_word_new_line1 | ice |  
-| bip_39_word_new_line10 | ice
+| bip_39_word_new_br_1 | ice |  
+| bip_39_word_new_br_10 | ice<br>rough<br>stock<br>exhibit<br>all<br>retire<br>shuffle<br>shrimp<br>assault<br>liar |  
+| bip_39_word_new_br_11 | ice<br>rough<br>stock<br>exhibit<br>all<br>retire<br>shuffle<br>shrimp<br>assault<br>liar<br>disorder |  
+| bip_39_word_new_br_12 | ice<br>rough<br>stock<br>exhibit<br>all<br>retire<br>shuffle<br>shrimp<br>assault<br>liar<br>disorder<br>arrest |  
+| bip_39_word_new_br_2 | ice<br>rough |  
+| bip_39_word_new_br_3 | ice<br>rough<br>stock |  
+| bip_39_word_new_br_4 | ice<br>rough<br>stock<br>exhibit |  
+| bip_39_word_new_br_5 | ice<br>rough<br>stock<br>exhibit<br>all |  
+| bip_39_word_new_br_6 | ice<br>rough<br>stock<br>exhibit<br>all<br>retire |  
+| bip_39_word_new_br_7 | ice<br>rough<br>stock<br>exhibit<br>all<br>retire<br>shuffle |  
+| bip_39_word_new_br_8 | ice<br>rough<br>stock<br>exhibit<br>all<br>retire<br>shuffle<br>shrimp |  
+| bip_39_word_new_br_9 | ice<br>rough<br>stock<br>exhibit<br>all<br>retire<br>shuffle<br>shrimp<br>assault |  
+| bip_39_word_new_line_1 | ice |  
+| bip_39_word_new_line_10 | ice
 rough
 stock
 exhibit
@@ -55,7 +55,7 @@ shuffle
 shrimp
 assault
 liar |  
-| bip_39_word_new_line11 | ice
+| bip_39_word_new_line_11 | ice
 rough
 stock
 exhibit
@@ -66,7 +66,7 @@ shrimp
 assault
 liar
 disorder |  
-| bip_39_word_new_line12 | ice
+| bip_39_word_new_line_12 | ice
 rough
 stock
 exhibit
@@ -78,34 +78,34 @@ assault
 liar
 disorder
 arrest |  
-| bip_39_word_new_line2 | ice
+| bip_39_word_new_line_2 | ice
 rough |  
-| bip_39_word_new_line3 | ice
+| bip_39_word_new_line_3 | ice
 rough
 stock |  
-| bip_39_word_new_line4 | ice
+| bip_39_word_new_line_4 | ice
 rough
 stock
 exhibit |  
-| bip_39_word_new_line5 | ice
+| bip_39_word_new_line_5 | ice
 rough
 stock
 exhibit
 all |  
-| bip_39_word_new_line6 | ice
+| bip_39_word_new_line_6 | ice
 rough
 stock
 exhibit
 all
 retire |  
-| bip_39_word_new_line7 | ice
+| bip_39_word_new_line_7 | ice
 rough
 stock
 exhibit
 all
 retire
 shuffle |  
-| bip_39_word_new_line8 | ice
+| bip_39_word_new_line_8 | ice
 rough
 stock
 exhibit
@@ -113,7 +113,7 @@ all
 retire
 shuffle
 shrimp |  
-| bip_39_word_new_line9 | ice
+| bip_39_word_new_line_9 | ice
 rough
 stock
 exhibit

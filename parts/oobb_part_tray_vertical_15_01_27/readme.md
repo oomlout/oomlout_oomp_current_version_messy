@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | traffic |  
-| bip_39_word_new_br10 | traffic<br>net<br>never<br>announce<br>gravity<br>glad<br>knock<br>fancy<br>elbow<br>tiny |  
-| bip_39_word_new_br11 | traffic<br>net<br>never<br>announce<br>gravity<br>glad<br>knock<br>fancy<br>elbow<br>tiny<br>search |  
-| bip_39_word_new_br12 | traffic<br>net<br>never<br>announce<br>gravity<br>glad<br>knock<br>fancy<br>elbow<br>tiny<br>search<br>again |  
-| bip_39_word_new_br2 | traffic<br>net |  
-| bip_39_word_new_br3 | traffic<br>net<br>never |  
-| bip_39_word_new_br4 | traffic<br>net<br>never<br>announce |  
-| bip_39_word_new_br5 | traffic<br>net<br>never<br>announce<br>gravity |  
-| bip_39_word_new_br6 | traffic<br>net<br>never<br>announce<br>gravity<br>glad |  
-| bip_39_word_new_br7 | traffic<br>net<br>never<br>announce<br>gravity<br>glad<br>knock |  
-| bip_39_word_new_br8 | traffic<br>net<br>never<br>announce<br>gravity<br>glad<br>knock<br>fancy |  
-| bip_39_word_new_br9 | traffic<br>net<br>never<br>announce<br>gravity<br>glad<br>knock<br>fancy<br>elbow |  
-| bip_39_word_new_line1 | traffic |  
-| bip_39_word_new_line10 | traffic
+| bip_39_word_new_br_1 | traffic |  
+| bip_39_word_new_br_10 | traffic<br>net<br>never<br>announce<br>gravity<br>glad<br>knock<br>fancy<br>elbow<br>tiny |  
+| bip_39_word_new_br_11 | traffic<br>net<br>never<br>announce<br>gravity<br>glad<br>knock<br>fancy<br>elbow<br>tiny<br>search |  
+| bip_39_word_new_br_12 | traffic<br>net<br>never<br>announce<br>gravity<br>glad<br>knock<br>fancy<br>elbow<br>tiny<br>search<br>again |  
+| bip_39_word_new_br_2 | traffic<br>net |  
+| bip_39_word_new_br_3 | traffic<br>net<br>never |  
+| bip_39_word_new_br_4 | traffic<br>net<br>never<br>announce |  
+| bip_39_word_new_br_5 | traffic<br>net<br>never<br>announce<br>gravity |  
+| bip_39_word_new_br_6 | traffic<br>net<br>never<br>announce<br>gravity<br>glad |  
+| bip_39_word_new_br_7 | traffic<br>net<br>never<br>announce<br>gravity<br>glad<br>knock |  
+| bip_39_word_new_br_8 | traffic<br>net<br>never<br>announce<br>gravity<br>glad<br>knock<br>fancy |  
+| bip_39_word_new_br_9 | traffic<br>net<br>never<br>announce<br>gravity<br>glad<br>knock<br>fancy<br>elbow |  
+| bip_39_word_new_line_1 | traffic |  
+| bip_39_word_new_line_10 | traffic
 net
 never
 announce
@@ -55,7 +55,7 @@ knock
 fancy
 elbow
 tiny |  
-| bip_39_word_new_line11 | traffic
+| bip_39_word_new_line_11 | traffic
 net
 never
 announce
@@ -66,7 +66,7 @@ fancy
 elbow
 tiny
 search |  
-| bip_39_word_new_line12 | traffic
+| bip_39_word_new_line_12 | traffic
 net
 never
 announce
@@ -78,34 +78,34 @@ elbow
 tiny
 search
 again |  
-| bip_39_word_new_line2 | traffic
+| bip_39_word_new_line_2 | traffic
 net |  
-| bip_39_word_new_line3 | traffic
+| bip_39_word_new_line_3 | traffic
 net
 never |  
-| bip_39_word_new_line4 | traffic
+| bip_39_word_new_line_4 | traffic
 net
 never
 announce |  
-| bip_39_word_new_line5 | traffic
+| bip_39_word_new_line_5 | traffic
 net
 never
 announce
 gravity |  
-| bip_39_word_new_line6 | traffic
+| bip_39_word_new_line_6 | traffic
 net
 never
 announce
 gravity
 glad |  
-| bip_39_word_new_line7 | traffic
+| bip_39_word_new_line_7 | traffic
 net
 never
 announce
 gravity
 glad
 knock |  
-| bip_39_word_new_line8 | traffic
+| bip_39_word_new_line_8 | traffic
 net
 never
 announce
@@ -113,7 +113,7 @@ gravity
 glad
 knock
 fancy |  
-| bip_39_word_new_line9 | traffic
+| bip_39_word_new_line_9 | traffic
 net
 never
 announce

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | unable |  
-| bip_39_word_new_br10 | unable<br>depend<br>hover<br>ride<br>song<br>hawk<br>humble<br>edit<br>dress<br>galaxy |  
-| bip_39_word_new_br11 | unable<br>depend<br>hover<br>ride<br>song<br>hawk<br>humble<br>edit<br>dress<br>galaxy<br>canal |  
-| bip_39_word_new_br12 | unable<br>depend<br>hover<br>ride<br>song<br>hawk<br>humble<br>edit<br>dress<br>galaxy<br>canal<br>again |  
-| bip_39_word_new_br2 | unable<br>depend |  
-| bip_39_word_new_br3 | unable<br>depend<br>hover |  
-| bip_39_word_new_br4 | unable<br>depend<br>hover<br>ride |  
-| bip_39_word_new_br5 | unable<br>depend<br>hover<br>ride<br>song |  
-| bip_39_word_new_br6 | unable<br>depend<br>hover<br>ride<br>song<br>hawk |  
-| bip_39_word_new_br7 | unable<br>depend<br>hover<br>ride<br>song<br>hawk<br>humble |  
-| bip_39_word_new_br8 | unable<br>depend<br>hover<br>ride<br>song<br>hawk<br>humble<br>edit |  
-| bip_39_word_new_br9 | unable<br>depend<br>hover<br>ride<br>song<br>hawk<br>humble<br>edit<br>dress |  
-| bip_39_word_new_line1 | unable |  
-| bip_39_word_new_line10 | unable
+| bip_39_word_new_br_1 | unable |  
+| bip_39_word_new_br_10 | unable<br>depend<br>hover<br>ride<br>song<br>hawk<br>humble<br>edit<br>dress<br>galaxy |  
+| bip_39_word_new_br_11 | unable<br>depend<br>hover<br>ride<br>song<br>hawk<br>humble<br>edit<br>dress<br>galaxy<br>canal |  
+| bip_39_word_new_br_12 | unable<br>depend<br>hover<br>ride<br>song<br>hawk<br>humble<br>edit<br>dress<br>galaxy<br>canal<br>again |  
+| bip_39_word_new_br_2 | unable<br>depend |  
+| bip_39_word_new_br_3 | unable<br>depend<br>hover |  
+| bip_39_word_new_br_4 | unable<br>depend<br>hover<br>ride |  
+| bip_39_word_new_br_5 | unable<br>depend<br>hover<br>ride<br>song |  
+| bip_39_word_new_br_6 | unable<br>depend<br>hover<br>ride<br>song<br>hawk |  
+| bip_39_word_new_br_7 | unable<br>depend<br>hover<br>ride<br>song<br>hawk<br>humble |  
+| bip_39_word_new_br_8 | unable<br>depend<br>hover<br>ride<br>song<br>hawk<br>humble<br>edit |  
+| bip_39_word_new_br_9 | unable<br>depend<br>hover<br>ride<br>song<br>hawk<br>humble<br>edit<br>dress |  
+| bip_39_word_new_line_1 | unable |  
+| bip_39_word_new_line_10 | unable
 depend
 hover
 ride
@@ -55,7 +55,7 @@ humble
 edit
 dress
 galaxy |  
-| bip_39_word_new_line11 | unable
+| bip_39_word_new_line_11 | unable
 depend
 hover
 ride
@@ -66,7 +66,7 @@ edit
 dress
 galaxy
 canal |  
-| bip_39_word_new_line12 | unable
+| bip_39_word_new_line_12 | unable
 depend
 hover
 ride
@@ -78,34 +78,34 @@ dress
 galaxy
 canal
 again |  
-| bip_39_word_new_line2 | unable
+| bip_39_word_new_line_2 | unable
 depend |  
-| bip_39_word_new_line3 | unable
+| bip_39_word_new_line_3 | unable
 depend
 hover |  
-| bip_39_word_new_line4 | unable
+| bip_39_word_new_line_4 | unable
 depend
 hover
 ride |  
-| bip_39_word_new_line5 | unable
+| bip_39_word_new_line_5 | unable
 depend
 hover
 ride
 song |  
-| bip_39_word_new_line6 | unable
+| bip_39_word_new_line_6 | unable
 depend
 hover
 ride
 song
 hawk |  
-| bip_39_word_new_line7 | unable
+| bip_39_word_new_line_7 | unable
 depend
 hover
 ride
 song
 hawk
 humble |  
-| bip_39_word_new_line8 | unable
+| bip_39_word_new_line_8 | unable
 depend
 hover
 ride
@@ -113,7 +113,7 @@ song
 hawk
 humble
 edit |  
-| bip_39_word_new_line9 | unable
+| bip_39_word_new_line_9 | unable
 depend
 hover
 ride

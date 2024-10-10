@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | space |  
-| bip_39_word_new_br10 | space<br>next<br>acoustic<br>language<br>identify<br>family<br>sick<br>predict<br>finger<br>fat |  
-| bip_39_word_new_br11 | space<br>next<br>acoustic<br>language<br>identify<br>family<br>sick<br>predict<br>finger<br>fat<br>when |  
-| bip_39_word_new_br12 | space<br>next<br>acoustic<br>language<br>identify<br>family<br>sick<br>predict<br>finger<br>fat<br>when<br>almost |  
-| bip_39_word_new_br2 | space<br>next |  
-| bip_39_word_new_br3 | space<br>next<br>acoustic |  
-| bip_39_word_new_br4 | space<br>next<br>acoustic<br>language |  
-| bip_39_word_new_br5 | space<br>next<br>acoustic<br>language<br>identify |  
-| bip_39_word_new_br6 | space<br>next<br>acoustic<br>language<br>identify<br>family |  
-| bip_39_word_new_br7 | space<br>next<br>acoustic<br>language<br>identify<br>family<br>sick |  
-| bip_39_word_new_br8 | space<br>next<br>acoustic<br>language<br>identify<br>family<br>sick<br>predict |  
-| bip_39_word_new_br9 | space<br>next<br>acoustic<br>language<br>identify<br>family<br>sick<br>predict<br>finger |  
-| bip_39_word_new_line1 | space |  
-| bip_39_word_new_line10 | space
+| bip_39_word_new_br_1 | space |  
+| bip_39_word_new_br_10 | space<br>next<br>acoustic<br>language<br>identify<br>family<br>sick<br>predict<br>finger<br>fat |  
+| bip_39_word_new_br_11 | space<br>next<br>acoustic<br>language<br>identify<br>family<br>sick<br>predict<br>finger<br>fat<br>when |  
+| bip_39_word_new_br_12 | space<br>next<br>acoustic<br>language<br>identify<br>family<br>sick<br>predict<br>finger<br>fat<br>when<br>almost |  
+| bip_39_word_new_br_2 | space<br>next |  
+| bip_39_word_new_br_3 | space<br>next<br>acoustic |  
+| bip_39_word_new_br_4 | space<br>next<br>acoustic<br>language |  
+| bip_39_word_new_br_5 | space<br>next<br>acoustic<br>language<br>identify |  
+| bip_39_word_new_br_6 | space<br>next<br>acoustic<br>language<br>identify<br>family |  
+| bip_39_word_new_br_7 | space<br>next<br>acoustic<br>language<br>identify<br>family<br>sick |  
+| bip_39_word_new_br_8 | space<br>next<br>acoustic<br>language<br>identify<br>family<br>sick<br>predict |  
+| bip_39_word_new_br_9 | space<br>next<br>acoustic<br>language<br>identify<br>family<br>sick<br>predict<br>finger |  
+| bip_39_word_new_line_1 | space |  
+| bip_39_word_new_line_10 | space
 next
 acoustic
 language
@@ -55,7 +55,7 @@ sick
 predict
 finger
 fat |  
-| bip_39_word_new_line11 | space
+| bip_39_word_new_line_11 | space
 next
 acoustic
 language
@@ -66,7 +66,7 @@ predict
 finger
 fat
 when |  
-| bip_39_word_new_line12 | space
+| bip_39_word_new_line_12 | space
 next
 acoustic
 language
@@ -78,34 +78,34 @@ finger
 fat
 when
 almost |  
-| bip_39_word_new_line2 | space
+| bip_39_word_new_line_2 | space
 next |  
-| bip_39_word_new_line3 | space
+| bip_39_word_new_line_3 | space
 next
 acoustic |  
-| bip_39_word_new_line4 | space
+| bip_39_word_new_line_4 | space
 next
 acoustic
 language |  
-| bip_39_word_new_line5 | space
+| bip_39_word_new_line_5 | space
 next
 acoustic
 language
 identify |  
-| bip_39_word_new_line6 | space
+| bip_39_word_new_line_6 | space
 next
 acoustic
 language
 identify
 family |  
-| bip_39_word_new_line7 | space
+| bip_39_word_new_line_7 | space
 next
 acoustic
 language
 identify
 family
 sick |  
-| bip_39_word_new_line8 | space
+| bip_39_word_new_line_8 | space
 next
 acoustic
 language
@@ -113,7 +113,7 @@ identify
 family
 sick
 predict |  
-| bip_39_word_new_line9 | space
+| bip_39_word_new_line_9 | space
 next
 acoustic
 language

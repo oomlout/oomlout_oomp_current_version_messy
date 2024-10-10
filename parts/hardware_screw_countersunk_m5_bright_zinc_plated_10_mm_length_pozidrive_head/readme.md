@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wire |  
-| bip_39_word_new_br10 | wire<br>canvas<br>palm<br>practice<br>parade<br>endorse<br>involve<br>mushroom<br>toilet<br>indoor |  
-| bip_39_word_new_br11 | wire<br>canvas<br>palm<br>practice<br>parade<br>endorse<br>involve<br>mushroom<br>toilet<br>indoor<br>urge |  
-| bip_39_word_new_br12 | wire<br>canvas<br>palm<br>practice<br>parade<br>endorse<br>involve<br>mushroom<br>toilet<br>indoor<br>urge<br>auto |  
-| bip_39_word_new_br2 | wire<br>canvas |  
-| bip_39_word_new_br3 | wire<br>canvas<br>palm |  
-| bip_39_word_new_br4 | wire<br>canvas<br>palm<br>practice |  
-| bip_39_word_new_br5 | wire<br>canvas<br>palm<br>practice<br>parade |  
-| bip_39_word_new_br6 | wire<br>canvas<br>palm<br>practice<br>parade<br>endorse |  
-| bip_39_word_new_br7 | wire<br>canvas<br>palm<br>practice<br>parade<br>endorse<br>involve |  
-| bip_39_word_new_br8 | wire<br>canvas<br>palm<br>practice<br>parade<br>endorse<br>involve<br>mushroom |  
-| bip_39_word_new_br9 | wire<br>canvas<br>palm<br>practice<br>parade<br>endorse<br>involve<br>mushroom<br>toilet |  
-| bip_39_word_new_line1 | wire |  
-| bip_39_word_new_line10 | wire
+| bip_39_word_new_br_1 | wire |  
+| bip_39_word_new_br_10 | wire<br>canvas<br>palm<br>practice<br>parade<br>endorse<br>involve<br>mushroom<br>toilet<br>indoor |  
+| bip_39_word_new_br_11 | wire<br>canvas<br>palm<br>practice<br>parade<br>endorse<br>involve<br>mushroom<br>toilet<br>indoor<br>urge |  
+| bip_39_word_new_br_12 | wire<br>canvas<br>palm<br>practice<br>parade<br>endorse<br>involve<br>mushroom<br>toilet<br>indoor<br>urge<br>auto |  
+| bip_39_word_new_br_2 | wire<br>canvas |  
+| bip_39_word_new_br_3 | wire<br>canvas<br>palm |  
+| bip_39_word_new_br_4 | wire<br>canvas<br>palm<br>practice |  
+| bip_39_word_new_br_5 | wire<br>canvas<br>palm<br>practice<br>parade |  
+| bip_39_word_new_br_6 | wire<br>canvas<br>palm<br>practice<br>parade<br>endorse |  
+| bip_39_word_new_br_7 | wire<br>canvas<br>palm<br>practice<br>parade<br>endorse<br>involve |  
+| bip_39_word_new_br_8 | wire<br>canvas<br>palm<br>practice<br>parade<br>endorse<br>involve<br>mushroom |  
+| bip_39_word_new_br_9 | wire<br>canvas<br>palm<br>practice<br>parade<br>endorse<br>involve<br>mushroom<br>toilet |  
+| bip_39_word_new_line_1 | wire |  
+| bip_39_word_new_line_10 | wire
 canvas
 palm
 practice
@@ -55,7 +55,7 @@ involve
 mushroom
 toilet
 indoor |  
-| bip_39_word_new_line11 | wire
+| bip_39_word_new_line_11 | wire
 canvas
 palm
 practice
@@ -66,7 +66,7 @@ mushroom
 toilet
 indoor
 urge |  
-| bip_39_word_new_line12 | wire
+| bip_39_word_new_line_12 | wire
 canvas
 palm
 practice
@@ -78,34 +78,34 @@ toilet
 indoor
 urge
 auto |  
-| bip_39_word_new_line2 | wire
+| bip_39_word_new_line_2 | wire
 canvas |  
-| bip_39_word_new_line3 | wire
+| bip_39_word_new_line_3 | wire
 canvas
 palm |  
-| bip_39_word_new_line4 | wire
+| bip_39_word_new_line_4 | wire
 canvas
 palm
 practice |  
-| bip_39_word_new_line5 | wire
+| bip_39_word_new_line_5 | wire
 canvas
 palm
 practice
 parade |  
-| bip_39_word_new_line6 | wire
+| bip_39_word_new_line_6 | wire
 canvas
 palm
 practice
 parade
 endorse |  
-| bip_39_word_new_line7 | wire
+| bip_39_word_new_line_7 | wire
 canvas
 palm
 practice
 parade
 endorse
 involve |  
-| bip_39_word_new_line8 | wire
+| bip_39_word_new_line_8 | wire
 canvas
 palm
 practice
@@ -113,7 +113,7 @@ parade
 endorse
 involve
 mushroom |  
-| bip_39_word_new_line9 | wire
+| bip_39_word_new_line_9 | wire
 canvas
 palm
 practice

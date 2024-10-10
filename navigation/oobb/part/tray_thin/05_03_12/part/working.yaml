@@ -1,17 +1,17 @@
-bip_39_word_new_br1: drift
-bip_39_word_new_br10: drift<br>symbol<br>mad<br>bind<br>special<br>pact<br>choose<br>broom<br>enhance<br>settle
-bip_39_word_new_br11: drift<br>symbol<br>mad<br>bind<br>special<br>pact<br>choose<br>broom<br>enhance<br>settle<br>pen
-bip_39_word_new_br12: drift<br>symbol<br>mad<br>bind<br>special<br>pact<br>choose<br>broom<br>enhance<br>settle<br>pen<br>accuse
-bip_39_word_new_br2: drift<br>symbol
-bip_39_word_new_br3: drift<br>symbol<br>mad
-bip_39_word_new_br4: drift<br>symbol<br>mad<br>bind
-bip_39_word_new_br5: drift<br>symbol<br>mad<br>bind<br>special
-bip_39_word_new_br6: drift<br>symbol<br>mad<br>bind<br>special<br>pact
-bip_39_word_new_br7: drift<br>symbol<br>mad<br>bind<br>special<br>pact<br>choose
-bip_39_word_new_br8: drift<br>symbol<br>mad<br>bind<br>special<br>pact<br>choose<br>broom
-bip_39_word_new_br9: drift<br>symbol<br>mad<br>bind<br>special<br>pact<br>choose<br>broom<br>enhance
-bip_39_word_new_line1: drift
-bip_39_word_new_line10: 'drift
+bip_39_word_new_br_1: drift
+bip_39_word_new_br_10: drift<br>symbol<br>mad<br>bind<br>special<br>pact<br>choose<br>broom<br>enhance<br>settle
+bip_39_word_new_br_11: drift<br>symbol<br>mad<br>bind<br>special<br>pact<br>choose<br>broom<br>enhance<br>settle<br>pen
+bip_39_word_new_br_12: drift<br>symbol<br>mad<br>bind<br>special<br>pact<br>choose<br>broom<br>enhance<br>settle<br>pen<br>accuse
+bip_39_word_new_br_2: drift<br>symbol
+bip_39_word_new_br_3: drift<br>symbol<br>mad
+bip_39_word_new_br_4: drift<br>symbol<br>mad<br>bind
+bip_39_word_new_br_5: drift<br>symbol<br>mad<br>bind<br>special
+bip_39_word_new_br_6: drift<br>symbol<br>mad<br>bind<br>special<br>pact
+bip_39_word_new_br_7: drift<br>symbol<br>mad<br>bind<br>special<br>pact<br>choose
+bip_39_word_new_br_8: drift<br>symbol<br>mad<br>bind<br>special<br>pact<br>choose<br>broom
+bip_39_word_new_br_9: drift<br>symbol<br>mad<br>bind<br>special<br>pact<br>choose<br>broom<br>enhance
+bip_39_word_new_line_1: drift
+bip_39_word_new_line_10: 'drift
 
   symbol
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'drift
   enhance
 
   settle'
-bip_39_word_new_line11: 'drift
+bip_39_word_new_line_11: 'drift
 
   symbol
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'drift
   settle
 
   pen'
-bip_39_word_new_line12: 'drift
+bip_39_word_new_line_12: 'drift
 
   symbol
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'drift
   pen
 
   accuse'
-bip_39_word_new_line2: 'drift
+bip_39_word_new_line_2: 'drift
 
   symbol'
-bip_39_word_new_line3: 'drift
+bip_39_word_new_line_3: 'drift
 
   symbol
 
   mad'
-bip_39_word_new_line4: 'drift
+bip_39_word_new_line_4: 'drift
 
   symbol
 
   mad
 
   bind'
-bip_39_word_new_line5: 'drift
+bip_39_word_new_line_5: 'drift
 
   symbol
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'drift
   bind
 
   special'
-bip_39_word_new_line6: 'drift
+bip_39_word_new_line_6: 'drift
 
   symbol
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'drift
   special
 
   pact'
-bip_39_word_new_line7: 'drift
+bip_39_word_new_line_7: 'drift
 
   symbol
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'drift
   pact
 
   choose'
-bip_39_word_new_line8: 'drift
+bip_39_word_new_line_8: 'drift
 
   symbol
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'drift
   choose
 
   broom'
-bip_39_word_new_line9: 'drift
+bip_39_word_new_line_9: 'drift
 
   symbol
 

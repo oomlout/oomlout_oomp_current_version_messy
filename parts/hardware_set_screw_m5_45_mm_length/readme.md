@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | discover |  
-| bip_39_word_new_br10 | discover<br>van<br>gospel<br>tragic<br>sweet<br>kangaroo<br>eternal<br>believe<br>type<br>very |  
-| bip_39_word_new_br11 | discover<br>van<br>gospel<br>tragic<br>sweet<br>kangaroo<br>eternal<br>believe<br>type<br>very<br>own |  
-| bip_39_word_new_br12 | discover<br>van<br>gospel<br>tragic<br>sweet<br>kangaroo<br>eternal<br>believe<br>type<br>very<br>own<br>aisle |  
-| bip_39_word_new_br2 | discover<br>van |  
-| bip_39_word_new_br3 | discover<br>van<br>gospel |  
-| bip_39_word_new_br4 | discover<br>van<br>gospel<br>tragic |  
-| bip_39_word_new_br5 | discover<br>van<br>gospel<br>tragic<br>sweet |  
-| bip_39_word_new_br6 | discover<br>van<br>gospel<br>tragic<br>sweet<br>kangaroo |  
-| bip_39_word_new_br7 | discover<br>van<br>gospel<br>tragic<br>sweet<br>kangaroo<br>eternal |  
-| bip_39_word_new_br8 | discover<br>van<br>gospel<br>tragic<br>sweet<br>kangaroo<br>eternal<br>believe |  
-| bip_39_word_new_br9 | discover<br>van<br>gospel<br>tragic<br>sweet<br>kangaroo<br>eternal<br>believe<br>type |  
-| bip_39_word_new_line1 | discover |  
-| bip_39_word_new_line10 | discover
+| bip_39_word_new_br_1 | discover |  
+| bip_39_word_new_br_10 | discover<br>van<br>gospel<br>tragic<br>sweet<br>kangaroo<br>eternal<br>believe<br>type<br>very |  
+| bip_39_word_new_br_11 | discover<br>van<br>gospel<br>tragic<br>sweet<br>kangaroo<br>eternal<br>believe<br>type<br>very<br>own |  
+| bip_39_word_new_br_12 | discover<br>van<br>gospel<br>tragic<br>sweet<br>kangaroo<br>eternal<br>believe<br>type<br>very<br>own<br>aisle |  
+| bip_39_word_new_br_2 | discover<br>van |  
+| bip_39_word_new_br_3 | discover<br>van<br>gospel |  
+| bip_39_word_new_br_4 | discover<br>van<br>gospel<br>tragic |  
+| bip_39_word_new_br_5 | discover<br>van<br>gospel<br>tragic<br>sweet |  
+| bip_39_word_new_br_6 | discover<br>van<br>gospel<br>tragic<br>sweet<br>kangaroo |  
+| bip_39_word_new_br_7 | discover<br>van<br>gospel<br>tragic<br>sweet<br>kangaroo<br>eternal |  
+| bip_39_word_new_br_8 | discover<br>van<br>gospel<br>tragic<br>sweet<br>kangaroo<br>eternal<br>believe |  
+| bip_39_word_new_br_9 | discover<br>van<br>gospel<br>tragic<br>sweet<br>kangaroo<br>eternal<br>believe<br>type |  
+| bip_39_word_new_line_1 | discover |  
+| bip_39_word_new_line_10 | discover
 van
 gospel
 tragic
@@ -55,7 +55,7 @@ eternal
 believe
 type
 very |  
-| bip_39_word_new_line11 | discover
+| bip_39_word_new_line_11 | discover
 van
 gospel
 tragic
@@ -66,7 +66,7 @@ believe
 type
 very
 own |  
-| bip_39_word_new_line12 | discover
+| bip_39_word_new_line_12 | discover
 van
 gospel
 tragic
@@ -78,34 +78,34 @@ type
 very
 own
 aisle |  
-| bip_39_word_new_line2 | discover
+| bip_39_word_new_line_2 | discover
 van |  
-| bip_39_word_new_line3 | discover
+| bip_39_word_new_line_3 | discover
 van
 gospel |  
-| bip_39_word_new_line4 | discover
+| bip_39_word_new_line_4 | discover
 van
 gospel
 tragic |  
-| bip_39_word_new_line5 | discover
+| bip_39_word_new_line_5 | discover
 van
 gospel
 tragic
 sweet |  
-| bip_39_word_new_line6 | discover
+| bip_39_word_new_line_6 | discover
 van
 gospel
 tragic
 sweet
 kangaroo |  
-| bip_39_word_new_line7 | discover
+| bip_39_word_new_line_7 | discover
 van
 gospel
 tragic
 sweet
 kangaroo
 eternal |  
-| bip_39_word_new_line8 | discover
+| bip_39_word_new_line_8 | discover
 van
 gospel
 tragic
@@ -113,7 +113,7 @@ sweet
 kangaroo
 eternal
 believe |  
-| bip_39_word_new_line9 | discover
+| bip_39_word_new_line_9 | discover
 van
 gospel
 tragic

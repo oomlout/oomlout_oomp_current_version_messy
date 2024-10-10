@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | nerve |  
-| bip_39_word_new_br10 | nerve<br>match<br>regular<br>code<br>idea<br>mask<br>eternal<br>slide<br>erode<br>salt |  
-| bip_39_word_new_br11 | nerve<br>match<br>regular<br>code<br>idea<br>mask<br>eternal<br>slide<br>erode<br>salt<br>need |  
-| bip_39_word_new_br12 | nerve<br>match<br>regular<br>code<br>idea<br>mask<br>eternal<br>slide<br>erode<br>salt<br>need<br>almost |  
-| bip_39_word_new_br2 | nerve<br>match |  
-| bip_39_word_new_br3 | nerve<br>match<br>regular |  
-| bip_39_word_new_br4 | nerve<br>match<br>regular<br>code |  
-| bip_39_word_new_br5 | nerve<br>match<br>regular<br>code<br>idea |  
-| bip_39_word_new_br6 | nerve<br>match<br>regular<br>code<br>idea<br>mask |  
-| bip_39_word_new_br7 | nerve<br>match<br>regular<br>code<br>idea<br>mask<br>eternal |  
-| bip_39_word_new_br8 | nerve<br>match<br>regular<br>code<br>idea<br>mask<br>eternal<br>slide |  
-| bip_39_word_new_br9 | nerve<br>match<br>regular<br>code<br>idea<br>mask<br>eternal<br>slide<br>erode |  
-| bip_39_word_new_line1 | nerve |  
-| bip_39_word_new_line10 | nerve
+| bip_39_word_new_br_1 | nerve |  
+| bip_39_word_new_br_10 | nerve<br>match<br>regular<br>code<br>idea<br>mask<br>eternal<br>slide<br>erode<br>salt |  
+| bip_39_word_new_br_11 | nerve<br>match<br>regular<br>code<br>idea<br>mask<br>eternal<br>slide<br>erode<br>salt<br>need |  
+| bip_39_word_new_br_12 | nerve<br>match<br>regular<br>code<br>idea<br>mask<br>eternal<br>slide<br>erode<br>salt<br>need<br>almost |  
+| bip_39_word_new_br_2 | nerve<br>match |  
+| bip_39_word_new_br_3 | nerve<br>match<br>regular |  
+| bip_39_word_new_br_4 | nerve<br>match<br>regular<br>code |  
+| bip_39_word_new_br_5 | nerve<br>match<br>regular<br>code<br>idea |  
+| bip_39_word_new_br_6 | nerve<br>match<br>regular<br>code<br>idea<br>mask |  
+| bip_39_word_new_br_7 | nerve<br>match<br>regular<br>code<br>idea<br>mask<br>eternal |  
+| bip_39_word_new_br_8 | nerve<br>match<br>regular<br>code<br>idea<br>mask<br>eternal<br>slide |  
+| bip_39_word_new_br_9 | nerve<br>match<br>regular<br>code<br>idea<br>mask<br>eternal<br>slide<br>erode |  
+| bip_39_word_new_line_1 | nerve |  
+| bip_39_word_new_line_10 | nerve
 match
 regular
 code
@@ -55,7 +55,7 @@ eternal
 slide
 erode
 salt |  
-| bip_39_word_new_line11 | nerve
+| bip_39_word_new_line_11 | nerve
 match
 regular
 code
@@ -66,7 +66,7 @@ slide
 erode
 salt
 need |  
-| bip_39_word_new_line12 | nerve
+| bip_39_word_new_line_12 | nerve
 match
 regular
 code
@@ -78,34 +78,34 @@ erode
 salt
 need
 almost |  
-| bip_39_word_new_line2 | nerve
+| bip_39_word_new_line_2 | nerve
 match |  
-| bip_39_word_new_line3 | nerve
+| bip_39_word_new_line_3 | nerve
 match
 regular |  
-| bip_39_word_new_line4 | nerve
+| bip_39_word_new_line_4 | nerve
 match
 regular
 code |  
-| bip_39_word_new_line5 | nerve
+| bip_39_word_new_line_5 | nerve
 match
 regular
 code
 idea |  
-| bip_39_word_new_line6 | nerve
+| bip_39_word_new_line_6 | nerve
 match
 regular
 code
 idea
 mask |  
-| bip_39_word_new_line7 | nerve
+| bip_39_word_new_line_7 | nerve
 match
 regular
 code
 idea
 mask
 eternal |  
-| bip_39_word_new_line8 | nerve
+| bip_39_word_new_line_8 | nerve
 match
 regular
 code
@@ -113,7 +113,7 @@ idea
 mask
 eternal
 slide |  
-| bip_39_word_new_line9 | nerve
+| bip_39_word_new_line_9 | nerve
 match
 regular
 code

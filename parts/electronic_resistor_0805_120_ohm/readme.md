@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | soon |  
-| bip_39_word_new_br10 | soon<br>industry<br>rely<br>forget<br>sword<br>fatigue<br>ketchup<br>wink<br>art<br>focus |  
-| bip_39_word_new_br11 | soon<br>industry<br>rely<br>forget<br>sword<br>fatigue<br>ketchup<br>wink<br>art<br>focus<br>evoke |  
-| bip_39_word_new_br12 | soon<br>industry<br>rely<br>forget<br>sword<br>fatigue<br>ketchup<br>wink<br>art<br>focus<br>evoke<br>allow |  
-| bip_39_word_new_br2 | soon<br>industry |  
-| bip_39_word_new_br3 | soon<br>industry<br>rely |  
-| bip_39_word_new_br4 | soon<br>industry<br>rely<br>forget |  
-| bip_39_word_new_br5 | soon<br>industry<br>rely<br>forget<br>sword |  
-| bip_39_word_new_br6 | soon<br>industry<br>rely<br>forget<br>sword<br>fatigue |  
-| bip_39_word_new_br7 | soon<br>industry<br>rely<br>forget<br>sword<br>fatigue<br>ketchup |  
-| bip_39_word_new_br8 | soon<br>industry<br>rely<br>forget<br>sword<br>fatigue<br>ketchup<br>wink |  
-| bip_39_word_new_br9 | soon<br>industry<br>rely<br>forget<br>sword<br>fatigue<br>ketchup<br>wink<br>art |  
-| bip_39_word_new_line1 | soon |  
-| bip_39_word_new_line10 | soon
+| bip_39_word_new_br_1 | soon |  
+| bip_39_word_new_br_10 | soon<br>industry<br>rely<br>forget<br>sword<br>fatigue<br>ketchup<br>wink<br>art<br>focus |  
+| bip_39_word_new_br_11 | soon<br>industry<br>rely<br>forget<br>sword<br>fatigue<br>ketchup<br>wink<br>art<br>focus<br>evoke |  
+| bip_39_word_new_br_12 | soon<br>industry<br>rely<br>forget<br>sword<br>fatigue<br>ketchup<br>wink<br>art<br>focus<br>evoke<br>allow |  
+| bip_39_word_new_br_2 | soon<br>industry |  
+| bip_39_word_new_br_3 | soon<br>industry<br>rely |  
+| bip_39_word_new_br_4 | soon<br>industry<br>rely<br>forget |  
+| bip_39_word_new_br_5 | soon<br>industry<br>rely<br>forget<br>sword |  
+| bip_39_word_new_br_6 | soon<br>industry<br>rely<br>forget<br>sword<br>fatigue |  
+| bip_39_word_new_br_7 | soon<br>industry<br>rely<br>forget<br>sword<br>fatigue<br>ketchup |  
+| bip_39_word_new_br_8 | soon<br>industry<br>rely<br>forget<br>sword<br>fatigue<br>ketchup<br>wink |  
+| bip_39_word_new_br_9 | soon<br>industry<br>rely<br>forget<br>sword<br>fatigue<br>ketchup<br>wink<br>art |  
+| bip_39_word_new_line_1 | soon |  
+| bip_39_word_new_line_10 | soon
 industry
 rely
 forget
@@ -55,7 +55,7 @@ ketchup
 wink
 art
 focus |  
-| bip_39_word_new_line11 | soon
+| bip_39_word_new_line_11 | soon
 industry
 rely
 forget
@@ -66,7 +66,7 @@ wink
 art
 focus
 evoke |  
-| bip_39_word_new_line12 | soon
+| bip_39_word_new_line_12 | soon
 industry
 rely
 forget
@@ -78,34 +78,34 @@ art
 focus
 evoke
 allow |  
-| bip_39_word_new_line2 | soon
+| bip_39_word_new_line_2 | soon
 industry |  
-| bip_39_word_new_line3 | soon
+| bip_39_word_new_line_3 | soon
 industry
 rely |  
-| bip_39_word_new_line4 | soon
+| bip_39_word_new_line_4 | soon
 industry
 rely
 forget |  
-| bip_39_word_new_line5 | soon
+| bip_39_word_new_line_5 | soon
 industry
 rely
 forget
 sword |  
-| bip_39_word_new_line6 | soon
+| bip_39_word_new_line_6 | soon
 industry
 rely
 forget
 sword
 fatigue |  
-| bip_39_word_new_line7 | soon
+| bip_39_word_new_line_7 | soon
 industry
 rely
 forget
 sword
 fatigue
 ketchup |  
-| bip_39_word_new_line8 | soon
+| bip_39_word_new_line_8 | soon
 industry
 rely
 forget
@@ -113,7 +113,7 @@ sword
 fatigue
 ketchup
 wink |  
-| bip_39_word_new_line9 | soon
+| bip_39_word_new_line_9 | soon
 industry
 rely
 forget

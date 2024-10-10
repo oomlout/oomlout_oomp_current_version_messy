@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | relief |  
-| bip_39_word_new_br10 | relief<br>flag<br>host<br>excess<br>energy<br>army<br>disease<br>expose<br>valley<br>faith |  
-| bip_39_word_new_br11 | relief<br>flag<br>host<br>excess<br>energy<br>army<br>disease<br>expose<br>valley<br>faith<br>promote |  
-| bip_39_word_new_br12 | relief<br>flag<br>host<br>excess<br>energy<br>army<br>disease<br>expose<br>valley<br>faith<br>promote<br>abstract |  
-| bip_39_word_new_br2 | relief<br>flag |  
-| bip_39_word_new_br3 | relief<br>flag<br>host |  
-| bip_39_word_new_br4 | relief<br>flag<br>host<br>excess |  
-| bip_39_word_new_br5 | relief<br>flag<br>host<br>excess<br>energy |  
-| bip_39_word_new_br6 | relief<br>flag<br>host<br>excess<br>energy<br>army |  
-| bip_39_word_new_br7 | relief<br>flag<br>host<br>excess<br>energy<br>army<br>disease |  
-| bip_39_word_new_br8 | relief<br>flag<br>host<br>excess<br>energy<br>army<br>disease<br>expose |  
-| bip_39_word_new_br9 | relief<br>flag<br>host<br>excess<br>energy<br>army<br>disease<br>expose<br>valley |  
-| bip_39_word_new_line1 | relief |  
-| bip_39_word_new_line10 | relief
+| bip_39_word_new_br_1 | relief |  
+| bip_39_word_new_br_10 | relief<br>flag<br>host<br>excess<br>energy<br>army<br>disease<br>expose<br>valley<br>faith |  
+| bip_39_word_new_br_11 | relief<br>flag<br>host<br>excess<br>energy<br>army<br>disease<br>expose<br>valley<br>faith<br>promote |  
+| bip_39_word_new_br_12 | relief<br>flag<br>host<br>excess<br>energy<br>army<br>disease<br>expose<br>valley<br>faith<br>promote<br>abstract |  
+| bip_39_word_new_br_2 | relief<br>flag |  
+| bip_39_word_new_br_3 | relief<br>flag<br>host |  
+| bip_39_word_new_br_4 | relief<br>flag<br>host<br>excess |  
+| bip_39_word_new_br_5 | relief<br>flag<br>host<br>excess<br>energy |  
+| bip_39_word_new_br_6 | relief<br>flag<br>host<br>excess<br>energy<br>army |  
+| bip_39_word_new_br_7 | relief<br>flag<br>host<br>excess<br>energy<br>army<br>disease |  
+| bip_39_word_new_br_8 | relief<br>flag<br>host<br>excess<br>energy<br>army<br>disease<br>expose |  
+| bip_39_word_new_br_9 | relief<br>flag<br>host<br>excess<br>energy<br>army<br>disease<br>expose<br>valley |  
+| bip_39_word_new_line_1 | relief |  
+| bip_39_word_new_line_10 | relief
 flag
 host
 excess
@@ -55,7 +55,7 @@ disease
 expose
 valley
 faith |  
-| bip_39_word_new_line11 | relief
+| bip_39_word_new_line_11 | relief
 flag
 host
 excess
@@ -66,7 +66,7 @@ expose
 valley
 faith
 promote |  
-| bip_39_word_new_line12 | relief
+| bip_39_word_new_line_12 | relief
 flag
 host
 excess
@@ -78,34 +78,34 @@ valley
 faith
 promote
 abstract |  
-| bip_39_word_new_line2 | relief
+| bip_39_word_new_line_2 | relief
 flag |  
-| bip_39_word_new_line3 | relief
+| bip_39_word_new_line_3 | relief
 flag
 host |  
-| bip_39_word_new_line4 | relief
+| bip_39_word_new_line_4 | relief
 flag
 host
 excess |  
-| bip_39_word_new_line5 | relief
+| bip_39_word_new_line_5 | relief
 flag
 host
 excess
 energy |  
-| bip_39_word_new_line6 | relief
+| bip_39_word_new_line_6 | relief
 flag
 host
 excess
 energy
 army |  
-| bip_39_word_new_line7 | relief
+| bip_39_word_new_line_7 | relief
 flag
 host
 excess
 energy
 army
 disease |  
-| bip_39_word_new_line8 | relief
+| bip_39_word_new_line_8 | relief
 flag
 host
 excess
@@ -113,7 +113,7 @@ energy
 army
 disease
 expose |  
-| bip_39_word_new_line9 | relief
+| bip_39_word_new_line_9 | relief
 flag
 host
 excess

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ethics |  
-| bip_39_word_new_br10 | ethics<br>turn<br>velvet<br>quiz<br>six<br>raise<br>diary<br>ecology<br>wrong<br>decrease |  
-| bip_39_word_new_br11 | ethics<br>turn<br>velvet<br>quiz<br>six<br>raise<br>diary<br>ecology<br>wrong<br>decrease<br>artist |  
-| bip_39_word_new_br12 | ethics<br>turn<br>velvet<br>quiz<br>six<br>raise<br>diary<br>ecology<br>wrong<br>decrease<br>artist<br>acid |  
-| bip_39_word_new_br2 | ethics<br>turn |  
-| bip_39_word_new_br3 | ethics<br>turn<br>velvet |  
-| bip_39_word_new_br4 | ethics<br>turn<br>velvet<br>quiz |  
-| bip_39_word_new_br5 | ethics<br>turn<br>velvet<br>quiz<br>six |  
-| bip_39_word_new_br6 | ethics<br>turn<br>velvet<br>quiz<br>six<br>raise |  
-| bip_39_word_new_br7 | ethics<br>turn<br>velvet<br>quiz<br>six<br>raise<br>diary |  
-| bip_39_word_new_br8 | ethics<br>turn<br>velvet<br>quiz<br>six<br>raise<br>diary<br>ecology |  
-| bip_39_word_new_br9 | ethics<br>turn<br>velvet<br>quiz<br>six<br>raise<br>diary<br>ecology<br>wrong |  
-| bip_39_word_new_line1 | ethics |  
-| bip_39_word_new_line10 | ethics
+| bip_39_word_new_br_1 | ethics |  
+| bip_39_word_new_br_10 | ethics<br>turn<br>velvet<br>quiz<br>six<br>raise<br>diary<br>ecology<br>wrong<br>decrease |  
+| bip_39_word_new_br_11 | ethics<br>turn<br>velvet<br>quiz<br>six<br>raise<br>diary<br>ecology<br>wrong<br>decrease<br>artist |  
+| bip_39_word_new_br_12 | ethics<br>turn<br>velvet<br>quiz<br>six<br>raise<br>diary<br>ecology<br>wrong<br>decrease<br>artist<br>acid |  
+| bip_39_word_new_br_2 | ethics<br>turn |  
+| bip_39_word_new_br_3 | ethics<br>turn<br>velvet |  
+| bip_39_word_new_br_4 | ethics<br>turn<br>velvet<br>quiz |  
+| bip_39_word_new_br_5 | ethics<br>turn<br>velvet<br>quiz<br>six |  
+| bip_39_word_new_br_6 | ethics<br>turn<br>velvet<br>quiz<br>six<br>raise |  
+| bip_39_word_new_br_7 | ethics<br>turn<br>velvet<br>quiz<br>six<br>raise<br>diary |  
+| bip_39_word_new_br_8 | ethics<br>turn<br>velvet<br>quiz<br>six<br>raise<br>diary<br>ecology |  
+| bip_39_word_new_br_9 | ethics<br>turn<br>velvet<br>quiz<br>six<br>raise<br>diary<br>ecology<br>wrong |  
+| bip_39_word_new_line_1 | ethics |  
+| bip_39_word_new_line_10 | ethics
 turn
 velvet
 quiz
@@ -55,7 +55,7 @@ diary
 ecology
 wrong
 decrease |  
-| bip_39_word_new_line11 | ethics
+| bip_39_word_new_line_11 | ethics
 turn
 velvet
 quiz
@@ -66,7 +66,7 @@ ecology
 wrong
 decrease
 artist |  
-| bip_39_word_new_line12 | ethics
+| bip_39_word_new_line_12 | ethics
 turn
 velvet
 quiz
@@ -78,34 +78,34 @@ wrong
 decrease
 artist
 acid |  
-| bip_39_word_new_line2 | ethics
+| bip_39_word_new_line_2 | ethics
 turn |  
-| bip_39_word_new_line3 | ethics
+| bip_39_word_new_line_3 | ethics
 turn
 velvet |  
-| bip_39_word_new_line4 | ethics
+| bip_39_word_new_line_4 | ethics
 turn
 velvet
 quiz |  
-| bip_39_word_new_line5 | ethics
+| bip_39_word_new_line_5 | ethics
 turn
 velvet
 quiz
 six |  
-| bip_39_word_new_line6 | ethics
+| bip_39_word_new_line_6 | ethics
 turn
 velvet
 quiz
 six
 raise |  
-| bip_39_word_new_line7 | ethics
+| bip_39_word_new_line_7 | ethics
 turn
 velvet
 quiz
 six
 raise
 diary |  
-| bip_39_word_new_line8 | ethics
+| bip_39_word_new_line_8 | ethics
 turn
 velvet
 quiz
@@ -113,7 +113,7 @@ six
 raise
 diary
 ecology |  
-| bip_39_word_new_line9 | ethics
+| bip_39_word_new_line_9 | ethics
 turn
 velvet
 quiz

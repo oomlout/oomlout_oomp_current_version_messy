@@ -1,17 +1,17 @@
-bip_39_word_new_br1: coral
-bip_39_word_new_br10: coral<br>toss<br>provide<br>into<br>field<br>below<br>cricket<br>medal<br>thrive<br>wood
-bip_39_word_new_br11: coral<br>toss<br>provide<br>into<br>field<br>below<br>cricket<br>medal<br>thrive<br>wood<br>act
-bip_39_word_new_br12: coral<br>toss<br>provide<br>into<br>field<br>below<br>cricket<br>medal<br>thrive<br>wood<br>act<br>armed
-bip_39_word_new_br2: coral<br>toss
-bip_39_word_new_br3: coral<br>toss<br>provide
-bip_39_word_new_br4: coral<br>toss<br>provide<br>into
-bip_39_word_new_br5: coral<br>toss<br>provide<br>into<br>field
-bip_39_word_new_br6: coral<br>toss<br>provide<br>into<br>field<br>below
-bip_39_word_new_br7: coral<br>toss<br>provide<br>into<br>field<br>below<br>cricket
-bip_39_word_new_br8: coral<br>toss<br>provide<br>into<br>field<br>below<br>cricket<br>medal
-bip_39_word_new_br9: coral<br>toss<br>provide<br>into<br>field<br>below<br>cricket<br>medal<br>thrive
-bip_39_word_new_line1: coral
-bip_39_word_new_line10: 'coral
+bip_39_word_new_br_1: coral
+bip_39_word_new_br_10: coral<br>toss<br>provide<br>into<br>field<br>below<br>cricket<br>medal<br>thrive<br>wood
+bip_39_word_new_br_11: coral<br>toss<br>provide<br>into<br>field<br>below<br>cricket<br>medal<br>thrive<br>wood<br>act
+bip_39_word_new_br_12: coral<br>toss<br>provide<br>into<br>field<br>below<br>cricket<br>medal<br>thrive<br>wood<br>act<br>armed
+bip_39_word_new_br_2: coral<br>toss
+bip_39_word_new_br_3: coral<br>toss<br>provide
+bip_39_word_new_br_4: coral<br>toss<br>provide<br>into
+bip_39_word_new_br_5: coral<br>toss<br>provide<br>into<br>field
+bip_39_word_new_br_6: coral<br>toss<br>provide<br>into<br>field<br>below
+bip_39_word_new_br_7: coral<br>toss<br>provide<br>into<br>field<br>below<br>cricket
+bip_39_word_new_br_8: coral<br>toss<br>provide<br>into<br>field<br>below<br>cricket<br>medal
+bip_39_word_new_br_9: coral<br>toss<br>provide<br>into<br>field<br>below<br>cricket<br>medal<br>thrive
+bip_39_word_new_line_1: coral
+bip_39_word_new_line_10: 'coral
 
   toss
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'coral
   thrive
 
   wood'
-bip_39_word_new_line11: 'coral
+bip_39_word_new_line_11: 'coral
 
   toss
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'coral
   wood
 
   act'
-bip_39_word_new_line12: 'coral
+bip_39_word_new_line_12: 'coral
 
   toss
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'coral
   act
 
   armed'
-bip_39_word_new_line2: 'coral
+bip_39_word_new_line_2: 'coral
 
   toss'
-bip_39_word_new_line3: 'coral
+bip_39_word_new_line_3: 'coral
 
   toss
 
   provide'
-bip_39_word_new_line4: 'coral
+bip_39_word_new_line_4: 'coral
 
   toss
 
   provide
 
   into'
-bip_39_word_new_line5: 'coral
+bip_39_word_new_line_5: 'coral
 
   toss
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'coral
   into
 
   field'
-bip_39_word_new_line6: 'coral
+bip_39_word_new_line_6: 'coral
 
   toss
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'coral
   field
 
   below'
-bip_39_word_new_line7: 'coral
+bip_39_word_new_line_7: 'coral
 
   toss
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'coral
   below
 
   cricket'
-bip_39_word_new_line8: 'coral
+bip_39_word_new_line_8: 'coral
 
   toss
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'coral
   cricket
 
   medal'
-bip_39_word_new_line9: 'coral
+bip_39_word_new_line_9: 'coral
 
   toss
 

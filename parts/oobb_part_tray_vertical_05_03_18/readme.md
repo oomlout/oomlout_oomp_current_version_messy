@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | situate |  
-| bip_39_word_new_br10 | situate<br>distance<br>broken<br>offer<br>pattern<br>choice<br>blouse<br>lesson<br>faith<br>despair |  
-| bip_39_word_new_br11 | situate<br>distance<br>broken<br>offer<br>pattern<br>choice<br>blouse<br>lesson<br>faith<br>despair<br>system |  
-| bip_39_word_new_br12 | situate<br>distance<br>broken<br>offer<br>pattern<br>choice<br>blouse<br>lesson<br>faith<br>despair<br>system<br>attract |  
-| bip_39_word_new_br2 | situate<br>distance |  
-| bip_39_word_new_br3 | situate<br>distance<br>broken |  
-| bip_39_word_new_br4 | situate<br>distance<br>broken<br>offer |  
-| bip_39_word_new_br5 | situate<br>distance<br>broken<br>offer<br>pattern |  
-| bip_39_word_new_br6 | situate<br>distance<br>broken<br>offer<br>pattern<br>choice |  
-| bip_39_word_new_br7 | situate<br>distance<br>broken<br>offer<br>pattern<br>choice<br>blouse |  
-| bip_39_word_new_br8 | situate<br>distance<br>broken<br>offer<br>pattern<br>choice<br>blouse<br>lesson |  
-| bip_39_word_new_br9 | situate<br>distance<br>broken<br>offer<br>pattern<br>choice<br>blouse<br>lesson<br>faith |  
-| bip_39_word_new_line1 | situate |  
-| bip_39_word_new_line10 | situate
+| bip_39_word_new_br_1 | situate |  
+| bip_39_word_new_br_10 | situate<br>distance<br>broken<br>offer<br>pattern<br>choice<br>blouse<br>lesson<br>faith<br>despair |  
+| bip_39_word_new_br_11 | situate<br>distance<br>broken<br>offer<br>pattern<br>choice<br>blouse<br>lesson<br>faith<br>despair<br>system |  
+| bip_39_word_new_br_12 | situate<br>distance<br>broken<br>offer<br>pattern<br>choice<br>blouse<br>lesson<br>faith<br>despair<br>system<br>attract |  
+| bip_39_word_new_br_2 | situate<br>distance |  
+| bip_39_word_new_br_3 | situate<br>distance<br>broken |  
+| bip_39_word_new_br_4 | situate<br>distance<br>broken<br>offer |  
+| bip_39_word_new_br_5 | situate<br>distance<br>broken<br>offer<br>pattern |  
+| bip_39_word_new_br_6 | situate<br>distance<br>broken<br>offer<br>pattern<br>choice |  
+| bip_39_word_new_br_7 | situate<br>distance<br>broken<br>offer<br>pattern<br>choice<br>blouse |  
+| bip_39_word_new_br_8 | situate<br>distance<br>broken<br>offer<br>pattern<br>choice<br>blouse<br>lesson |  
+| bip_39_word_new_br_9 | situate<br>distance<br>broken<br>offer<br>pattern<br>choice<br>blouse<br>lesson<br>faith |  
+| bip_39_word_new_line_1 | situate |  
+| bip_39_word_new_line_10 | situate
 distance
 broken
 offer
@@ -55,7 +55,7 @@ blouse
 lesson
 faith
 despair |  
-| bip_39_word_new_line11 | situate
+| bip_39_word_new_line_11 | situate
 distance
 broken
 offer
@@ -66,7 +66,7 @@ lesson
 faith
 despair
 system |  
-| bip_39_word_new_line12 | situate
+| bip_39_word_new_line_12 | situate
 distance
 broken
 offer
@@ -78,34 +78,34 @@ faith
 despair
 system
 attract |  
-| bip_39_word_new_line2 | situate
+| bip_39_word_new_line_2 | situate
 distance |  
-| bip_39_word_new_line3 | situate
+| bip_39_word_new_line_3 | situate
 distance
 broken |  
-| bip_39_word_new_line4 | situate
+| bip_39_word_new_line_4 | situate
 distance
 broken
 offer |  
-| bip_39_word_new_line5 | situate
+| bip_39_word_new_line_5 | situate
 distance
 broken
 offer
 pattern |  
-| bip_39_word_new_line6 | situate
+| bip_39_word_new_line_6 | situate
 distance
 broken
 offer
 pattern
 choice |  
-| bip_39_word_new_line7 | situate
+| bip_39_word_new_line_7 | situate
 distance
 broken
 offer
 pattern
 choice
 blouse |  
-| bip_39_word_new_line8 | situate
+| bip_39_word_new_line_8 | situate
 distance
 broken
 offer
@@ -113,7 +113,7 @@ pattern
 choice
 blouse
 lesson |  
-| bip_39_word_new_line9 | situate
+| bip_39_word_new_line_9 | situate
 distance
 broken
 offer

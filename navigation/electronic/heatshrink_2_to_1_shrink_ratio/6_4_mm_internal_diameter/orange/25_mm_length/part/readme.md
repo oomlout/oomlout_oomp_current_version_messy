@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | planet |  
-| bip_39_word_new_br10 | planet<br>beach<br>debris<br>afford<br>average<br>length<br>because<br>april<br>vendor<br>credit |  
-| bip_39_word_new_br11 | planet<br>beach<br>debris<br>afford<br>average<br>length<br>because<br>april<br>vendor<br>credit<br>garlic |  
-| bip_39_word_new_br12 | planet<br>beach<br>debris<br>afford<br>average<br>length<br>because<br>april<br>vendor<br>credit<br>garlic<br>arm |  
-| bip_39_word_new_br2 | planet<br>beach |  
-| bip_39_word_new_br3 | planet<br>beach<br>debris |  
-| bip_39_word_new_br4 | planet<br>beach<br>debris<br>afford |  
-| bip_39_word_new_br5 | planet<br>beach<br>debris<br>afford<br>average |  
-| bip_39_word_new_br6 | planet<br>beach<br>debris<br>afford<br>average<br>length |  
-| bip_39_word_new_br7 | planet<br>beach<br>debris<br>afford<br>average<br>length<br>because |  
-| bip_39_word_new_br8 | planet<br>beach<br>debris<br>afford<br>average<br>length<br>because<br>april |  
-| bip_39_word_new_br9 | planet<br>beach<br>debris<br>afford<br>average<br>length<br>because<br>april<br>vendor |  
-| bip_39_word_new_line1 | planet |  
-| bip_39_word_new_line10 | planet
+| bip_39_word_new_br_1 | planet |  
+| bip_39_word_new_br_10 | planet<br>beach<br>debris<br>afford<br>average<br>length<br>because<br>april<br>vendor<br>credit |  
+| bip_39_word_new_br_11 | planet<br>beach<br>debris<br>afford<br>average<br>length<br>because<br>april<br>vendor<br>credit<br>garlic |  
+| bip_39_word_new_br_12 | planet<br>beach<br>debris<br>afford<br>average<br>length<br>because<br>april<br>vendor<br>credit<br>garlic<br>arm |  
+| bip_39_word_new_br_2 | planet<br>beach |  
+| bip_39_word_new_br_3 | planet<br>beach<br>debris |  
+| bip_39_word_new_br_4 | planet<br>beach<br>debris<br>afford |  
+| bip_39_word_new_br_5 | planet<br>beach<br>debris<br>afford<br>average |  
+| bip_39_word_new_br_6 | planet<br>beach<br>debris<br>afford<br>average<br>length |  
+| bip_39_word_new_br_7 | planet<br>beach<br>debris<br>afford<br>average<br>length<br>because |  
+| bip_39_word_new_br_8 | planet<br>beach<br>debris<br>afford<br>average<br>length<br>because<br>april |  
+| bip_39_word_new_br_9 | planet<br>beach<br>debris<br>afford<br>average<br>length<br>because<br>april<br>vendor |  
+| bip_39_word_new_line_1 | planet |  
+| bip_39_word_new_line_10 | planet
 beach
 debris
 afford
@@ -55,7 +55,7 @@ because
 april
 vendor
 credit |  
-| bip_39_word_new_line11 | planet
+| bip_39_word_new_line_11 | planet
 beach
 debris
 afford
@@ -66,7 +66,7 @@ april
 vendor
 credit
 garlic |  
-| bip_39_word_new_line12 | planet
+| bip_39_word_new_line_12 | planet
 beach
 debris
 afford
@@ -78,34 +78,34 @@ vendor
 credit
 garlic
 arm |  
-| bip_39_word_new_line2 | planet
+| bip_39_word_new_line_2 | planet
 beach |  
-| bip_39_word_new_line3 | planet
+| bip_39_word_new_line_3 | planet
 beach
 debris |  
-| bip_39_word_new_line4 | planet
+| bip_39_word_new_line_4 | planet
 beach
 debris
 afford |  
-| bip_39_word_new_line5 | planet
+| bip_39_word_new_line_5 | planet
 beach
 debris
 afford
 average |  
-| bip_39_word_new_line6 | planet
+| bip_39_word_new_line_6 | planet
 beach
 debris
 afford
 average
 length |  
-| bip_39_word_new_line7 | planet
+| bip_39_word_new_line_7 | planet
 beach
 debris
 afford
 average
 length
 because |  
-| bip_39_word_new_line8 | planet
+| bip_39_word_new_line_8 | planet
 beach
 debris
 afford
@@ -113,7 +113,7 @@ average
 length
 because
 april |  
-| bip_39_word_new_line9 | planet
+| bip_39_word_new_line_9 | planet
 beach
 debris
 afford

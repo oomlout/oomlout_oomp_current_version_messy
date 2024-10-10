@@ -1,17 +1,17 @@
-bip_39_word_new_br1: gadget
-bip_39_word_new_br10: gadget<br>oppose<br>boy<br>daring<br>poverty<br>camp<br>flag<br>paper<br>lecture<br>raven
-bip_39_word_new_br11: gadget<br>oppose<br>boy<br>daring<br>poverty<br>camp<br>flag<br>paper<br>lecture<br>raven<br>gloom
-bip_39_word_new_br12: gadget<br>oppose<br>boy<br>daring<br>poverty<br>camp<br>flag<br>paper<br>lecture<br>raven<br>gloom<br>actual
-bip_39_word_new_br2: gadget<br>oppose
-bip_39_word_new_br3: gadget<br>oppose<br>boy
-bip_39_word_new_br4: gadget<br>oppose<br>boy<br>daring
-bip_39_word_new_br5: gadget<br>oppose<br>boy<br>daring<br>poverty
-bip_39_word_new_br6: gadget<br>oppose<br>boy<br>daring<br>poverty<br>camp
-bip_39_word_new_br7: gadget<br>oppose<br>boy<br>daring<br>poverty<br>camp<br>flag
-bip_39_word_new_br8: gadget<br>oppose<br>boy<br>daring<br>poverty<br>camp<br>flag<br>paper
-bip_39_word_new_br9: gadget<br>oppose<br>boy<br>daring<br>poverty<br>camp<br>flag<br>paper<br>lecture
-bip_39_word_new_line1: gadget
-bip_39_word_new_line10: 'gadget
+bip_39_word_new_br_1: gadget
+bip_39_word_new_br_10: gadget<br>oppose<br>boy<br>daring<br>poverty<br>camp<br>flag<br>paper<br>lecture<br>raven
+bip_39_word_new_br_11: gadget<br>oppose<br>boy<br>daring<br>poverty<br>camp<br>flag<br>paper<br>lecture<br>raven<br>gloom
+bip_39_word_new_br_12: gadget<br>oppose<br>boy<br>daring<br>poverty<br>camp<br>flag<br>paper<br>lecture<br>raven<br>gloom<br>actual
+bip_39_word_new_br_2: gadget<br>oppose
+bip_39_word_new_br_3: gadget<br>oppose<br>boy
+bip_39_word_new_br_4: gadget<br>oppose<br>boy<br>daring
+bip_39_word_new_br_5: gadget<br>oppose<br>boy<br>daring<br>poverty
+bip_39_word_new_br_6: gadget<br>oppose<br>boy<br>daring<br>poverty<br>camp
+bip_39_word_new_br_7: gadget<br>oppose<br>boy<br>daring<br>poverty<br>camp<br>flag
+bip_39_word_new_br_8: gadget<br>oppose<br>boy<br>daring<br>poverty<br>camp<br>flag<br>paper
+bip_39_word_new_br_9: gadget<br>oppose<br>boy<br>daring<br>poverty<br>camp<br>flag<br>paper<br>lecture
+bip_39_word_new_line_1: gadget
+bip_39_word_new_line_10: 'gadget
 
   oppose
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'gadget
   lecture
 
   raven'
-bip_39_word_new_line11: 'gadget
+bip_39_word_new_line_11: 'gadget
 
   oppose
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'gadget
   raven
 
   gloom'
-bip_39_word_new_line12: 'gadget
+bip_39_word_new_line_12: 'gadget
 
   oppose
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'gadget
   gloom
 
   actual'
-bip_39_word_new_line2: 'gadget
+bip_39_word_new_line_2: 'gadget
 
   oppose'
-bip_39_word_new_line3: 'gadget
+bip_39_word_new_line_3: 'gadget
 
   oppose
 
   boy'
-bip_39_word_new_line4: 'gadget
+bip_39_word_new_line_4: 'gadget
 
   oppose
 
   boy
 
   daring'
-bip_39_word_new_line5: 'gadget
+bip_39_word_new_line_5: 'gadget
 
   oppose
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'gadget
   daring
 
   poverty'
-bip_39_word_new_line6: 'gadget
+bip_39_word_new_line_6: 'gadget
 
   oppose
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'gadget
   poverty
 
   camp'
-bip_39_word_new_line7: 'gadget
+bip_39_word_new_line_7: 'gadget
 
   oppose
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'gadget
   camp
 
   flag'
-bip_39_word_new_line8: 'gadget
+bip_39_word_new_line_8: 'gadget
 
   oppose
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'gadget
   flag
 
   paper'
-bip_39_word_new_line9: 'gadget
+bip_39_word_new_line_9: 'gadget
 
   oppose
 

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | quick |  
-| bip_39_word_new_br10 | quick<br>strike<br>neck<br>into<br>abandon<br>clinic<br>fatal<br>degree<br>setup<br>verb |  
-| bip_39_word_new_br11 | quick<br>strike<br>neck<br>into<br>abandon<br>clinic<br>fatal<br>degree<br>setup<br>verb<br>normal |  
-| bip_39_word_new_br12 | quick<br>strike<br>neck<br>into<br>abandon<br>clinic<br>fatal<br>degree<br>setup<br>verb<br>normal<br>alter |  
-| bip_39_word_new_br2 | quick<br>strike |  
-| bip_39_word_new_br3 | quick<br>strike<br>neck |  
-| bip_39_word_new_br4 | quick<br>strike<br>neck<br>into |  
-| bip_39_word_new_br5 | quick<br>strike<br>neck<br>into<br>abandon |  
-| bip_39_word_new_br6 | quick<br>strike<br>neck<br>into<br>abandon<br>clinic |  
-| bip_39_word_new_br7 | quick<br>strike<br>neck<br>into<br>abandon<br>clinic<br>fatal |  
-| bip_39_word_new_br8 | quick<br>strike<br>neck<br>into<br>abandon<br>clinic<br>fatal<br>degree |  
-| bip_39_word_new_br9 | quick<br>strike<br>neck<br>into<br>abandon<br>clinic<br>fatal<br>degree<br>setup |  
-| bip_39_word_new_line1 | quick |  
-| bip_39_word_new_line10 | quick
+| bip_39_word_new_br_1 | quick |  
+| bip_39_word_new_br_10 | quick<br>strike<br>neck<br>into<br>abandon<br>clinic<br>fatal<br>degree<br>setup<br>verb |  
+| bip_39_word_new_br_11 | quick<br>strike<br>neck<br>into<br>abandon<br>clinic<br>fatal<br>degree<br>setup<br>verb<br>normal |  
+| bip_39_word_new_br_12 | quick<br>strike<br>neck<br>into<br>abandon<br>clinic<br>fatal<br>degree<br>setup<br>verb<br>normal<br>alter |  
+| bip_39_word_new_br_2 | quick<br>strike |  
+| bip_39_word_new_br_3 | quick<br>strike<br>neck |  
+| bip_39_word_new_br_4 | quick<br>strike<br>neck<br>into |  
+| bip_39_word_new_br_5 | quick<br>strike<br>neck<br>into<br>abandon |  
+| bip_39_word_new_br_6 | quick<br>strike<br>neck<br>into<br>abandon<br>clinic |  
+| bip_39_word_new_br_7 | quick<br>strike<br>neck<br>into<br>abandon<br>clinic<br>fatal |  
+| bip_39_word_new_br_8 | quick<br>strike<br>neck<br>into<br>abandon<br>clinic<br>fatal<br>degree |  
+| bip_39_word_new_br_9 | quick<br>strike<br>neck<br>into<br>abandon<br>clinic<br>fatal<br>degree<br>setup |  
+| bip_39_word_new_line_1 | quick |  
+| bip_39_word_new_line_10 | quick
 strike
 neck
 into
@@ -55,7 +55,7 @@ fatal
 degree
 setup
 verb |  
-| bip_39_word_new_line11 | quick
+| bip_39_word_new_line_11 | quick
 strike
 neck
 into
@@ -66,7 +66,7 @@ degree
 setup
 verb
 normal |  
-| bip_39_word_new_line12 | quick
+| bip_39_word_new_line_12 | quick
 strike
 neck
 into
@@ -78,34 +78,34 @@ setup
 verb
 normal
 alter |  
-| bip_39_word_new_line2 | quick
+| bip_39_word_new_line_2 | quick
 strike |  
-| bip_39_word_new_line3 | quick
+| bip_39_word_new_line_3 | quick
 strike
 neck |  
-| bip_39_word_new_line4 | quick
+| bip_39_word_new_line_4 | quick
 strike
 neck
 into |  
-| bip_39_word_new_line5 | quick
+| bip_39_word_new_line_5 | quick
 strike
 neck
 into
 abandon |  
-| bip_39_word_new_line6 | quick
+| bip_39_word_new_line_6 | quick
 strike
 neck
 into
 abandon
 clinic |  
-| bip_39_word_new_line7 | quick
+| bip_39_word_new_line_7 | quick
 strike
 neck
 into
 abandon
 clinic
 fatal |  
-| bip_39_word_new_line8 | quick
+| bip_39_word_new_line_8 | quick
 strike
 neck
 into
@@ -113,7 +113,7 @@ abandon
 clinic
 fatal
 degree |  
-| bip_39_word_new_line9 | quick
+| bip_39_word_new_line_9 | quick
 strike
 neck
 into

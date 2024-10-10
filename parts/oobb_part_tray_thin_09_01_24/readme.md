@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | erosion |  
-| bip_39_word_new_br10 | erosion<br>loud<br>again<br>dolphin<br>rail<br>artefact<br>jealous<br>permit<br>hire<br>humor |  
-| bip_39_word_new_br11 | erosion<br>loud<br>again<br>dolphin<br>rail<br>artefact<br>jealous<br>permit<br>hire<br>humor<br>good |  
-| bip_39_word_new_br12 | erosion<br>loud<br>again<br>dolphin<br>rail<br>artefact<br>jealous<br>permit<br>hire<br>humor<br>good<br>arctic |  
-| bip_39_word_new_br2 | erosion<br>loud |  
-| bip_39_word_new_br3 | erosion<br>loud<br>again |  
-| bip_39_word_new_br4 | erosion<br>loud<br>again<br>dolphin |  
-| bip_39_word_new_br5 | erosion<br>loud<br>again<br>dolphin<br>rail |  
-| bip_39_word_new_br6 | erosion<br>loud<br>again<br>dolphin<br>rail<br>artefact |  
-| bip_39_word_new_br7 | erosion<br>loud<br>again<br>dolphin<br>rail<br>artefact<br>jealous |  
-| bip_39_word_new_br8 | erosion<br>loud<br>again<br>dolphin<br>rail<br>artefact<br>jealous<br>permit |  
-| bip_39_word_new_br9 | erosion<br>loud<br>again<br>dolphin<br>rail<br>artefact<br>jealous<br>permit<br>hire |  
-| bip_39_word_new_line1 | erosion |  
-| bip_39_word_new_line10 | erosion
+| bip_39_word_new_br_1 | erosion |  
+| bip_39_word_new_br_10 | erosion<br>loud<br>again<br>dolphin<br>rail<br>artefact<br>jealous<br>permit<br>hire<br>humor |  
+| bip_39_word_new_br_11 | erosion<br>loud<br>again<br>dolphin<br>rail<br>artefact<br>jealous<br>permit<br>hire<br>humor<br>good |  
+| bip_39_word_new_br_12 | erosion<br>loud<br>again<br>dolphin<br>rail<br>artefact<br>jealous<br>permit<br>hire<br>humor<br>good<br>arctic |  
+| bip_39_word_new_br_2 | erosion<br>loud |  
+| bip_39_word_new_br_3 | erosion<br>loud<br>again |  
+| bip_39_word_new_br_4 | erosion<br>loud<br>again<br>dolphin |  
+| bip_39_word_new_br_5 | erosion<br>loud<br>again<br>dolphin<br>rail |  
+| bip_39_word_new_br_6 | erosion<br>loud<br>again<br>dolphin<br>rail<br>artefact |  
+| bip_39_word_new_br_7 | erosion<br>loud<br>again<br>dolphin<br>rail<br>artefact<br>jealous |  
+| bip_39_word_new_br_8 | erosion<br>loud<br>again<br>dolphin<br>rail<br>artefact<br>jealous<br>permit |  
+| bip_39_word_new_br_9 | erosion<br>loud<br>again<br>dolphin<br>rail<br>artefact<br>jealous<br>permit<br>hire |  
+| bip_39_word_new_line_1 | erosion |  
+| bip_39_word_new_line_10 | erosion
 loud
 again
 dolphin
@@ -55,7 +55,7 @@ jealous
 permit
 hire
 humor |  
-| bip_39_word_new_line11 | erosion
+| bip_39_word_new_line_11 | erosion
 loud
 again
 dolphin
@@ -66,7 +66,7 @@ permit
 hire
 humor
 good |  
-| bip_39_word_new_line12 | erosion
+| bip_39_word_new_line_12 | erosion
 loud
 again
 dolphin
@@ -78,34 +78,34 @@ hire
 humor
 good
 arctic |  
-| bip_39_word_new_line2 | erosion
+| bip_39_word_new_line_2 | erosion
 loud |  
-| bip_39_word_new_line3 | erosion
+| bip_39_word_new_line_3 | erosion
 loud
 again |  
-| bip_39_word_new_line4 | erosion
+| bip_39_word_new_line_4 | erosion
 loud
 again
 dolphin |  
-| bip_39_word_new_line5 | erosion
+| bip_39_word_new_line_5 | erosion
 loud
 again
 dolphin
 rail |  
-| bip_39_word_new_line6 | erosion
+| bip_39_word_new_line_6 | erosion
 loud
 again
 dolphin
 rail
 artefact |  
-| bip_39_word_new_line7 | erosion
+| bip_39_word_new_line_7 | erosion
 loud
 again
 dolphin
 rail
 artefact
 jealous |  
-| bip_39_word_new_line8 | erosion
+| bip_39_word_new_line_8 | erosion
 loud
 again
 dolphin
@@ -113,7 +113,7 @@ rail
 artefact
 jealous
 permit |  
-| bip_39_word_new_line9 | erosion
+| bip_39_word_new_line_9 | erosion
 loud
 again
 dolphin

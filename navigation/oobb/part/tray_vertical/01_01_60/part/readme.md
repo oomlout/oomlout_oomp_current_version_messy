@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | large |  
-| bip_39_word_new_br10 | large<br>before<br>scrap<br>ability<br>derive<br>pioneer<br>exhaust<br>library<br>kiwi<br>peasant |  
-| bip_39_word_new_br11 | large<br>before<br>scrap<br>ability<br>derive<br>pioneer<br>exhaust<br>library<br>kiwi<br>peasant<br>moment |  
-| bip_39_word_new_br12 | large<br>before<br>scrap<br>ability<br>derive<br>pioneer<br>exhaust<br>library<br>kiwi<br>peasant<br>moment<br>acid |  
-| bip_39_word_new_br2 | large<br>before |  
-| bip_39_word_new_br3 | large<br>before<br>scrap |  
-| bip_39_word_new_br4 | large<br>before<br>scrap<br>ability |  
-| bip_39_word_new_br5 | large<br>before<br>scrap<br>ability<br>derive |  
-| bip_39_word_new_br6 | large<br>before<br>scrap<br>ability<br>derive<br>pioneer |  
-| bip_39_word_new_br7 | large<br>before<br>scrap<br>ability<br>derive<br>pioneer<br>exhaust |  
-| bip_39_word_new_br8 | large<br>before<br>scrap<br>ability<br>derive<br>pioneer<br>exhaust<br>library |  
-| bip_39_word_new_br9 | large<br>before<br>scrap<br>ability<br>derive<br>pioneer<br>exhaust<br>library<br>kiwi |  
-| bip_39_word_new_line1 | large |  
-| bip_39_word_new_line10 | large
+| bip_39_word_new_br_1 | large |  
+| bip_39_word_new_br_10 | large<br>before<br>scrap<br>ability<br>derive<br>pioneer<br>exhaust<br>library<br>kiwi<br>peasant |  
+| bip_39_word_new_br_11 | large<br>before<br>scrap<br>ability<br>derive<br>pioneer<br>exhaust<br>library<br>kiwi<br>peasant<br>moment |  
+| bip_39_word_new_br_12 | large<br>before<br>scrap<br>ability<br>derive<br>pioneer<br>exhaust<br>library<br>kiwi<br>peasant<br>moment<br>acid |  
+| bip_39_word_new_br_2 | large<br>before |  
+| bip_39_word_new_br_3 | large<br>before<br>scrap |  
+| bip_39_word_new_br_4 | large<br>before<br>scrap<br>ability |  
+| bip_39_word_new_br_5 | large<br>before<br>scrap<br>ability<br>derive |  
+| bip_39_word_new_br_6 | large<br>before<br>scrap<br>ability<br>derive<br>pioneer |  
+| bip_39_word_new_br_7 | large<br>before<br>scrap<br>ability<br>derive<br>pioneer<br>exhaust |  
+| bip_39_word_new_br_8 | large<br>before<br>scrap<br>ability<br>derive<br>pioneer<br>exhaust<br>library |  
+| bip_39_word_new_br_9 | large<br>before<br>scrap<br>ability<br>derive<br>pioneer<br>exhaust<br>library<br>kiwi |  
+| bip_39_word_new_line_1 | large |  
+| bip_39_word_new_line_10 | large
 before
 scrap
 ability
@@ -55,7 +55,7 @@ exhaust
 library
 kiwi
 peasant |  
-| bip_39_word_new_line11 | large
+| bip_39_word_new_line_11 | large
 before
 scrap
 ability
@@ -66,7 +66,7 @@ library
 kiwi
 peasant
 moment |  
-| bip_39_word_new_line12 | large
+| bip_39_word_new_line_12 | large
 before
 scrap
 ability
@@ -78,34 +78,34 @@ kiwi
 peasant
 moment
 acid |  
-| bip_39_word_new_line2 | large
+| bip_39_word_new_line_2 | large
 before |  
-| bip_39_word_new_line3 | large
+| bip_39_word_new_line_3 | large
 before
 scrap |  
-| bip_39_word_new_line4 | large
+| bip_39_word_new_line_4 | large
 before
 scrap
 ability |  
-| bip_39_word_new_line5 | large
+| bip_39_word_new_line_5 | large
 before
 scrap
 ability
 derive |  
-| bip_39_word_new_line6 | large
+| bip_39_word_new_line_6 | large
 before
 scrap
 ability
 derive
 pioneer |  
-| bip_39_word_new_line7 | large
+| bip_39_word_new_line_7 | large
 before
 scrap
 ability
 derive
 pioneer
 exhaust |  
-| bip_39_word_new_line8 | large
+| bip_39_word_new_line_8 | large
 before
 scrap
 ability
@@ -113,7 +113,7 @@ derive
 pioneer
 exhaust
 library |  
-| bip_39_word_new_line9 | large
+| bip_39_word_new_line_9 | large
 before
 scrap
 ability

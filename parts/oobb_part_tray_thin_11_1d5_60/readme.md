@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | car |  
-| bip_39_word_new_br10 | car<br>comic<br>force<br>junior<br>galaxy<br>flat<br>alert<br>fault<br>tribe<br>area |  
-| bip_39_word_new_br11 | car<br>comic<br>force<br>junior<br>galaxy<br>flat<br>alert<br>fault<br>tribe<br>area<br>use |  
-| bip_39_word_new_br12 | car<br>comic<br>force<br>junior<br>galaxy<br>flat<br>alert<br>fault<br>tribe<br>area<br>use<br>anxiety |  
-| bip_39_word_new_br2 | car<br>comic |  
-| bip_39_word_new_br3 | car<br>comic<br>force |  
-| bip_39_word_new_br4 | car<br>comic<br>force<br>junior |  
-| bip_39_word_new_br5 | car<br>comic<br>force<br>junior<br>galaxy |  
-| bip_39_word_new_br6 | car<br>comic<br>force<br>junior<br>galaxy<br>flat |  
-| bip_39_word_new_br7 | car<br>comic<br>force<br>junior<br>galaxy<br>flat<br>alert |  
-| bip_39_word_new_br8 | car<br>comic<br>force<br>junior<br>galaxy<br>flat<br>alert<br>fault |  
-| bip_39_word_new_br9 | car<br>comic<br>force<br>junior<br>galaxy<br>flat<br>alert<br>fault<br>tribe |  
-| bip_39_word_new_line1 | car |  
-| bip_39_word_new_line10 | car
+| bip_39_word_new_br_1 | car |  
+| bip_39_word_new_br_10 | car<br>comic<br>force<br>junior<br>galaxy<br>flat<br>alert<br>fault<br>tribe<br>area |  
+| bip_39_word_new_br_11 | car<br>comic<br>force<br>junior<br>galaxy<br>flat<br>alert<br>fault<br>tribe<br>area<br>use |  
+| bip_39_word_new_br_12 | car<br>comic<br>force<br>junior<br>galaxy<br>flat<br>alert<br>fault<br>tribe<br>area<br>use<br>anxiety |  
+| bip_39_word_new_br_2 | car<br>comic |  
+| bip_39_word_new_br_3 | car<br>comic<br>force |  
+| bip_39_word_new_br_4 | car<br>comic<br>force<br>junior |  
+| bip_39_word_new_br_5 | car<br>comic<br>force<br>junior<br>galaxy |  
+| bip_39_word_new_br_6 | car<br>comic<br>force<br>junior<br>galaxy<br>flat |  
+| bip_39_word_new_br_7 | car<br>comic<br>force<br>junior<br>galaxy<br>flat<br>alert |  
+| bip_39_word_new_br_8 | car<br>comic<br>force<br>junior<br>galaxy<br>flat<br>alert<br>fault |  
+| bip_39_word_new_br_9 | car<br>comic<br>force<br>junior<br>galaxy<br>flat<br>alert<br>fault<br>tribe |  
+| bip_39_word_new_line_1 | car |  
+| bip_39_word_new_line_10 | car
 comic
 force
 junior
@@ -55,7 +55,7 @@ alert
 fault
 tribe
 area |  
-| bip_39_word_new_line11 | car
+| bip_39_word_new_line_11 | car
 comic
 force
 junior
@@ -66,7 +66,7 @@ fault
 tribe
 area
 use |  
-| bip_39_word_new_line12 | car
+| bip_39_word_new_line_12 | car
 comic
 force
 junior
@@ -78,34 +78,34 @@ tribe
 area
 use
 anxiety |  
-| bip_39_word_new_line2 | car
+| bip_39_word_new_line_2 | car
 comic |  
-| bip_39_word_new_line3 | car
+| bip_39_word_new_line_3 | car
 comic
 force |  
-| bip_39_word_new_line4 | car
+| bip_39_word_new_line_4 | car
 comic
 force
 junior |  
-| bip_39_word_new_line5 | car
+| bip_39_word_new_line_5 | car
 comic
 force
 junior
 galaxy |  
-| bip_39_word_new_line6 | car
+| bip_39_word_new_line_6 | car
 comic
 force
 junior
 galaxy
 flat |  
-| bip_39_word_new_line7 | car
+| bip_39_word_new_line_7 | car
 comic
 force
 junior
 galaxy
 flat
 alert |  
-| bip_39_word_new_line8 | car
+| bip_39_word_new_line_8 | car
 comic
 force
 junior
@@ -113,7 +113,7 @@ galaxy
 flat
 alert
 fault |  
-| bip_39_word_new_line9 | car
+| bip_39_word_new_line_9 | car
 comic
 force
 junior

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | depend |  
-| bip_39_word_new_br10 | depend<br>suspect<br>garage<br>together<br>egg<br>silent<br>list<br>knock<br>fetch<br>casual |  
-| bip_39_word_new_br11 | depend<br>suspect<br>garage<br>together<br>egg<br>silent<br>list<br>knock<br>fetch<br>casual<br>girl |  
-| bip_39_word_new_br12 | depend<br>suspect<br>garage<br>together<br>egg<br>silent<br>list<br>knock<br>fetch<br>casual<br>girl<br>afraid |  
-| bip_39_word_new_br2 | depend<br>suspect |  
-| bip_39_word_new_br3 | depend<br>suspect<br>garage |  
-| bip_39_word_new_br4 | depend<br>suspect<br>garage<br>together |  
-| bip_39_word_new_br5 | depend<br>suspect<br>garage<br>together<br>egg |  
-| bip_39_word_new_br6 | depend<br>suspect<br>garage<br>together<br>egg<br>silent |  
-| bip_39_word_new_br7 | depend<br>suspect<br>garage<br>together<br>egg<br>silent<br>list |  
-| bip_39_word_new_br8 | depend<br>suspect<br>garage<br>together<br>egg<br>silent<br>list<br>knock |  
-| bip_39_word_new_br9 | depend<br>suspect<br>garage<br>together<br>egg<br>silent<br>list<br>knock<br>fetch |  
-| bip_39_word_new_line1 | depend |  
-| bip_39_word_new_line10 | depend
+| bip_39_word_new_br_1 | depend |  
+| bip_39_word_new_br_10 | depend<br>suspect<br>garage<br>together<br>egg<br>silent<br>list<br>knock<br>fetch<br>casual |  
+| bip_39_word_new_br_11 | depend<br>suspect<br>garage<br>together<br>egg<br>silent<br>list<br>knock<br>fetch<br>casual<br>girl |  
+| bip_39_word_new_br_12 | depend<br>suspect<br>garage<br>together<br>egg<br>silent<br>list<br>knock<br>fetch<br>casual<br>girl<br>afraid |  
+| bip_39_word_new_br_2 | depend<br>suspect |  
+| bip_39_word_new_br_3 | depend<br>suspect<br>garage |  
+| bip_39_word_new_br_4 | depend<br>suspect<br>garage<br>together |  
+| bip_39_word_new_br_5 | depend<br>suspect<br>garage<br>together<br>egg |  
+| bip_39_word_new_br_6 | depend<br>suspect<br>garage<br>together<br>egg<br>silent |  
+| bip_39_word_new_br_7 | depend<br>suspect<br>garage<br>together<br>egg<br>silent<br>list |  
+| bip_39_word_new_br_8 | depend<br>suspect<br>garage<br>together<br>egg<br>silent<br>list<br>knock |  
+| bip_39_word_new_br_9 | depend<br>suspect<br>garage<br>together<br>egg<br>silent<br>list<br>knock<br>fetch |  
+| bip_39_word_new_line_1 | depend |  
+| bip_39_word_new_line_10 | depend
 suspect
 garage
 together
@@ -55,7 +55,7 @@ list
 knock
 fetch
 casual |  
-| bip_39_word_new_line11 | depend
+| bip_39_word_new_line_11 | depend
 suspect
 garage
 together
@@ -66,7 +66,7 @@ knock
 fetch
 casual
 girl |  
-| bip_39_word_new_line12 | depend
+| bip_39_word_new_line_12 | depend
 suspect
 garage
 together
@@ -78,34 +78,34 @@ fetch
 casual
 girl
 afraid |  
-| bip_39_word_new_line2 | depend
+| bip_39_word_new_line_2 | depend
 suspect |  
-| bip_39_word_new_line3 | depend
+| bip_39_word_new_line_3 | depend
 suspect
 garage |  
-| bip_39_word_new_line4 | depend
+| bip_39_word_new_line_4 | depend
 suspect
 garage
 together |  
-| bip_39_word_new_line5 | depend
+| bip_39_word_new_line_5 | depend
 suspect
 garage
 together
 egg |  
-| bip_39_word_new_line6 | depend
+| bip_39_word_new_line_6 | depend
 suspect
 garage
 together
 egg
 silent |  
-| bip_39_word_new_line7 | depend
+| bip_39_word_new_line_7 | depend
 suspect
 garage
 together
 egg
 silent
 list |  
-| bip_39_word_new_line8 | depend
+| bip_39_word_new_line_8 | depend
 suspect
 garage
 together
@@ -113,7 +113,7 @@ egg
 silent
 list
 knock |  
-| bip_39_word_new_line9 | depend
+| bip_39_word_new_line_9 | depend
 suspect
 garage
 together

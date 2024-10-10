@@ -1,17 +1,17 @@
-bip_39_word_new_br1: accident
-bip_39_word_new_br10: accident<br>behind<br>feature<br>token<br>document<br>crystal<br>sense<br>copy<br>slam<br>lizard
-bip_39_word_new_br11: accident<br>behind<br>feature<br>token<br>document<br>crystal<br>sense<br>copy<br>slam<br>lizard<br>harvest
-bip_39_word_new_br12: accident<br>behind<br>feature<br>token<br>document<br>crystal<br>sense<br>copy<br>slam<br>lizard<br>harvest<br>alert
-bip_39_word_new_br2: accident<br>behind
-bip_39_word_new_br3: accident<br>behind<br>feature
-bip_39_word_new_br4: accident<br>behind<br>feature<br>token
-bip_39_word_new_br5: accident<br>behind<br>feature<br>token<br>document
-bip_39_word_new_br6: accident<br>behind<br>feature<br>token<br>document<br>crystal
-bip_39_word_new_br7: accident<br>behind<br>feature<br>token<br>document<br>crystal<br>sense
-bip_39_word_new_br8: accident<br>behind<br>feature<br>token<br>document<br>crystal<br>sense<br>copy
-bip_39_word_new_br9: accident<br>behind<br>feature<br>token<br>document<br>crystal<br>sense<br>copy<br>slam
-bip_39_word_new_line1: accident
-bip_39_word_new_line10: 'accident
+bip_39_word_new_br_1: accident
+bip_39_word_new_br_10: accident<br>behind<br>feature<br>token<br>document<br>crystal<br>sense<br>copy<br>slam<br>lizard
+bip_39_word_new_br_11: accident<br>behind<br>feature<br>token<br>document<br>crystal<br>sense<br>copy<br>slam<br>lizard<br>harvest
+bip_39_word_new_br_12: accident<br>behind<br>feature<br>token<br>document<br>crystal<br>sense<br>copy<br>slam<br>lizard<br>harvest<br>alert
+bip_39_word_new_br_2: accident<br>behind
+bip_39_word_new_br_3: accident<br>behind<br>feature
+bip_39_word_new_br_4: accident<br>behind<br>feature<br>token
+bip_39_word_new_br_5: accident<br>behind<br>feature<br>token<br>document
+bip_39_word_new_br_6: accident<br>behind<br>feature<br>token<br>document<br>crystal
+bip_39_word_new_br_7: accident<br>behind<br>feature<br>token<br>document<br>crystal<br>sense
+bip_39_word_new_br_8: accident<br>behind<br>feature<br>token<br>document<br>crystal<br>sense<br>copy
+bip_39_word_new_br_9: accident<br>behind<br>feature<br>token<br>document<br>crystal<br>sense<br>copy<br>slam
+bip_39_word_new_line_1: accident
+bip_39_word_new_line_10: 'accident
 
   behind
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'accident
   slam
 
   lizard'
-bip_39_word_new_line11: 'accident
+bip_39_word_new_line_11: 'accident
 
   behind
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'accident
   lizard
 
   harvest'
-bip_39_word_new_line12: 'accident
+bip_39_word_new_line_12: 'accident
 
   behind
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'accident
   harvest
 
   alert'
-bip_39_word_new_line2: 'accident
+bip_39_word_new_line_2: 'accident
 
   behind'
-bip_39_word_new_line3: 'accident
+bip_39_word_new_line_3: 'accident
 
   behind
 
   feature'
-bip_39_word_new_line4: 'accident
+bip_39_word_new_line_4: 'accident
 
   behind
 
   feature
 
   token'
-bip_39_word_new_line5: 'accident
+bip_39_word_new_line_5: 'accident
 
   behind
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'accident
   token
 
   document'
-bip_39_word_new_line6: 'accident
+bip_39_word_new_line_6: 'accident
 
   behind
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'accident
   document
 
   crystal'
-bip_39_word_new_line7: 'accident
+bip_39_word_new_line_7: 'accident
 
   behind
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'accident
   crystal
 
   sense'
-bip_39_word_new_line8: 'accident
+bip_39_word_new_line_8: 'accident
 
   behind
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'accident
   sense
 
   copy'
-bip_39_word_new_line9: 'accident
+bip_39_word_new_line_9: 'accident
 
   behind
 

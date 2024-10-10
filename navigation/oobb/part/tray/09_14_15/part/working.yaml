@@ -1,17 +1,17 @@
-bip_39_word_new_br1: axis
-bip_39_word_new_br10: axis<br>right<br>garment<br>allow<br>valve<br>foam<br>gauge<br>seed<br>worth<br>hard
-bip_39_word_new_br11: axis<br>right<br>garment<br>allow<br>valve<br>foam<br>gauge<br>seed<br>worth<br>hard<br>front
-bip_39_word_new_br12: axis<br>right<br>garment<br>allow<br>valve<br>foam<br>gauge<br>seed<br>worth<br>hard<br>front<br>average
-bip_39_word_new_br2: axis<br>right
-bip_39_word_new_br3: axis<br>right<br>garment
-bip_39_word_new_br4: axis<br>right<br>garment<br>allow
-bip_39_word_new_br5: axis<br>right<br>garment<br>allow<br>valve
-bip_39_word_new_br6: axis<br>right<br>garment<br>allow<br>valve<br>foam
-bip_39_word_new_br7: axis<br>right<br>garment<br>allow<br>valve<br>foam<br>gauge
-bip_39_word_new_br8: axis<br>right<br>garment<br>allow<br>valve<br>foam<br>gauge<br>seed
-bip_39_word_new_br9: axis<br>right<br>garment<br>allow<br>valve<br>foam<br>gauge<br>seed<br>worth
-bip_39_word_new_line1: axis
-bip_39_word_new_line10: 'axis
+bip_39_word_new_br_1: axis
+bip_39_word_new_br_10: axis<br>right<br>garment<br>allow<br>valve<br>foam<br>gauge<br>seed<br>worth<br>hard
+bip_39_word_new_br_11: axis<br>right<br>garment<br>allow<br>valve<br>foam<br>gauge<br>seed<br>worth<br>hard<br>front
+bip_39_word_new_br_12: axis<br>right<br>garment<br>allow<br>valve<br>foam<br>gauge<br>seed<br>worth<br>hard<br>front<br>average
+bip_39_word_new_br_2: axis<br>right
+bip_39_word_new_br_3: axis<br>right<br>garment
+bip_39_word_new_br_4: axis<br>right<br>garment<br>allow
+bip_39_word_new_br_5: axis<br>right<br>garment<br>allow<br>valve
+bip_39_word_new_br_6: axis<br>right<br>garment<br>allow<br>valve<br>foam
+bip_39_word_new_br_7: axis<br>right<br>garment<br>allow<br>valve<br>foam<br>gauge
+bip_39_word_new_br_8: axis<br>right<br>garment<br>allow<br>valve<br>foam<br>gauge<br>seed
+bip_39_word_new_br_9: axis<br>right<br>garment<br>allow<br>valve<br>foam<br>gauge<br>seed<br>worth
+bip_39_word_new_line_1: axis
+bip_39_word_new_line_10: 'axis
 
   right
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'axis
   worth
 
   hard'
-bip_39_word_new_line11: 'axis
+bip_39_word_new_line_11: 'axis
 
   right
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'axis
   hard
 
   front'
-bip_39_word_new_line12: 'axis
+bip_39_word_new_line_12: 'axis
 
   right
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'axis
   front
 
   average'
-bip_39_word_new_line2: 'axis
+bip_39_word_new_line_2: 'axis
 
   right'
-bip_39_word_new_line3: 'axis
+bip_39_word_new_line_3: 'axis
 
   right
 
   garment'
-bip_39_word_new_line4: 'axis
+bip_39_word_new_line_4: 'axis
 
   right
 
   garment
 
   allow'
-bip_39_word_new_line5: 'axis
+bip_39_word_new_line_5: 'axis
 
   right
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'axis
   allow
 
   valve'
-bip_39_word_new_line6: 'axis
+bip_39_word_new_line_6: 'axis
 
   right
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'axis
   valve
 
   foam'
-bip_39_word_new_line7: 'axis
+bip_39_word_new_line_7: 'axis
 
   right
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'axis
   foam
 
   gauge'
-bip_39_word_new_line8: 'axis
+bip_39_word_new_line_8: 'axis
 
   right
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'axis
   gauge
 
   seed'
-bip_39_word_new_line9: 'axis
+bip_39_word_new_line_9: 'axis
 
   right
 

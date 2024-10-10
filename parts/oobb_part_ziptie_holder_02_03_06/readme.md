@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | width |  
-| bip_39_word_new_br10 | width<br>cruel<br>lyrics<br>speed<br>check<br>fine<br>task<br>install<br>ride<br>erode |  
-| bip_39_word_new_br11 | width<br>cruel<br>lyrics<br>speed<br>check<br>fine<br>task<br>install<br>ride<br>erode<br>one |  
-| bip_39_word_new_br12 | width<br>cruel<br>lyrics<br>speed<br>check<br>fine<br>task<br>install<br>ride<br>erode<br>one<br>action |  
-| bip_39_word_new_br2 | width<br>cruel |  
-| bip_39_word_new_br3 | width<br>cruel<br>lyrics |  
-| bip_39_word_new_br4 | width<br>cruel<br>lyrics<br>speed |  
-| bip_39_word_new_br5 | width<br>cruel<br>lyrics<br>speed<br>check |  
-| bip_39_word_new_br6 | width<br>cruel<br>lyrics<br>speed<br>check<br>fine |  
-| bip_39_word_new_br7 | width<br>cruel<br>lyrics<br>speed<br>check<br>fine<br>task |  
-| bip_39_word_new_br8 | width<br>cruel<br>lyrics<br>speed<br>check<br>fine<br>task<br>install |  
-| bip_39_word_new_br9 | width<br>cruel<br>lyrics<br>speed<br>check<br>fine<br>task<br>install<br>ride |  
-| bip_39_word_new_line1 | width |  
-| bip_39_word_new_line10 | width
+| bip_39_word_new_br_1 | width |  
+| bip_39_word_new_br_10 | width<br>cruel<br>lyrics<br>speed<br>check<br>fine<br>task<br>install<br>ride<br>erode |  
+| bip_39_word_new_br_11 | width<br>cruel<br>lyrics<br>speed<br>check<br>fine<br>task<br>install<br>ride<br>erode<br>one |  
+| bip_39_word_new_br_12 | width<br>cruel<br>lyrics<br>speed<br>check<br>fine<br>task<br>install<br>ride<br>erode<br>one<br>action |  
+| bip_39_word_new_br_2 | width<br>cruel |  
+| bip_39_word_new_br_3 | width<br>cruel<br>lyrics |  
+| bip_39_word_new_br_4 | width<br>cruel<br>lyrics<br>speed |  
+| bip_39_word_new_br_5 | width<br>cruel<br>lyrics<br>speed<br>check |  
+| bip_39_word_new_br_6 | width<br>cruel<br>lyrics<br>speed<br>check<br>fine |  
+| bip_39_word_new_br_7 | width<br>cruel<br>lyrics<br>speed<br>check<br>fine<br>task |  
+| bip_39_word_new_br_8 | width<br>cruel<br>lyrics<br>speed<br>check<br>fine<br>task<br>install |  
+| bip_39_word_new_br_9 | width<br>cruel<br>lyrics<br>speed<br>check<br>fine<br>task<br>install<br>ride |  
+| bip_39_word_new_line_1 | width |  
+| bip_39_word_new_line_10 | width
 cruel
 lyrics
 speed
@@ -55,7 +55,7 @@ task
 install
 ride
 erode |  
-| bip_39_word_new_line11 | width
+| bip_39_word_new_line_11 | width
 cruel
 lyrics
 speed
@@ -66,7 +66,7 @@ install
 ride
 erode
 one |  
-| bip_39_word_new_line12 | width
+| bip_39_word_new_line_12 | width
 cruel
 lyrics
 speed
@@ -78,34 +78,34 @@ ride
 erode
 one
 action |  
-| bip_39_word_new_line2 | width
+| bip_39_word_new_line_2 | width
 cruel |  
-| bip_39_word_new_line3 | width
+| bip_39_word_new_line_3 | width
 cruel
 lyrics |  
-| bip_39_word_new_line4 | width
+| bip_39_word_new_line_4 | width
 cruel
 lyrics
 speed |  
-| bip_39_word_new_line5 | width
+| bip_39_word_new_line_5 | width
 cruel
 lyrics
 speed
 check |  
-| bip_39_word_new_line6 | width
+| bip_39_word_new_line_6 | width
 cruel
 lyrics
 speed
 check
 fine |  
-| bip_39_word_new_line7 | width
+| bip_39_word_new_line_7 | width
 cruel
 lyrics
 speed
 check
 fine
 task |  
-| bip_39_word_new_line8 | width
+| bip_39_word_new_line_8 | width
 cruel
 lyrics
 speed
@@ -113,7 +113,7 @@ check
 fine
 task
 install |  
-| bip_39_word_new_line9 | width
+| bip_39_word_new_line_9 | width
 cruel
 lyrics
 speed

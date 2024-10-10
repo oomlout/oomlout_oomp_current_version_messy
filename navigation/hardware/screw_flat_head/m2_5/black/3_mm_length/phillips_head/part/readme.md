@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | injury |  
-| bip_39_word_new_br10 | injury<br>siren<br>bomb<br>uphold<br>crop<br>ensure<br>bracket<br>degree<br>annual<br>lucky |  
-| bip_39_word_new_br11 | injury<br>siren<br>bomb<br>uphold<br>crop<br>ensure<br>bracket<br>degree<br>annual<br>lucky<br>trash |  
-| bip_39_word_new_br12 | injury<br>siren<br>bomb<br>uphold<br>crop<br>ensure<br>bracket<br>degree<br>annual<br>lucky<br>trash<br>average |  
-| bip_39_word_new_br2 | injury<br>siren |  
-| bip_39_word_new_br3 | injury<br>siren<br>bomb |  
-| bip_39_word_new_br4 | injury<br>siren<br>bomb<br>uphold |  
-| bip_39_word_new_br5 | injury<br>siren<br>bomb<br>uphold<br>crop |  
-| bip_39_word_new_br6 | injury<br>siren<br>bomb<br>uphold<br>crop<br>ensure |  
-| bip_39_word_new_br7 | injury<br>siren<br>bomb<br>uphold<br>crop<br>ensure<br>bracket |  
-| bip_39_word_new_br8 | injury<br>siren<br>bomb<br>uphold<br>crop<br>ensure<br>bracket<br>degree |  
-| bip_39_word_new_br9 | injury<br>siren<br>bomb<br>uphold<br>crop<br>ensure<br>bracket<br>degree<br>annual |  
-| bip_39_word_new_line1 | injury |  
-| bip_39_word_new_line10 | injury
+| bip_39_word_new_br_1 | injury |  
+| bip_39_word_new_br_10 | injury<br>siren<br>bomb<br>uphold<br>crop<br>ensure<br>bracket<br>degree<br>annual<br>lucky |  
+| bip_39_word_new_br_11 | injury<br>siren<br>bomb<br>uphold<br>crop<br>ensure<br>bracket<br>degree<br>annual<br>lucky<br>trash |  
+| bip_39_word_new_br_12 | injury<br>siren<br>bomb<br>uphold<br>crop<br>ensure<br>bracket<br>degree<br>annual<br>lucky<br>trash<br>average |  
+| bip_39_word_new_br_2 | injury<br>siren |  
+| bip_39_word_new_br_3 | injury<br>siren<br>bomb |  
+| bip_39_word_new_br_4 | injury<br>siren<br>bomb<br>uphold |  
+| bip_39_word_new_br_5 | injury<br>siren<br>bomb<br>uphold<br>crop |  
+| bip_39_word_new_br_6 | injury<br>siren<br>bomb<br>uphold<br>crop<br>ensure |  
+| bip_39_word_new_br_7 | injury<br>siren<br>bomb<br>uphold<br>crop<br>ensure<br>bracket |  
+| bip_39_word_new_br_8 | injury<br>siren<br>bomb<br>uphold<br>crop<br>ensure<br>bracket<br>degree |  
+| bip_39_word_new_br_9 | injury<br>siren<br>bomb<br>uphold<br>crop<br>ensure<br>bracket<br>degree<br>annual |  
+| bip_39_word_new_line_1 | injury |  
+| bip_39_word_new_line_10 | injury
 siren
 bomb
 uphold
@@ -55,7 +55,7 @@ bracket
 degree
 annual
 lucky |  
-| bip_39_word_new_line11 | injury
+| bip_39_word_new_line_11 | injury
 siren
 bomb
 uphold
@@ -66,7 +66,7 @@ degree
 annual
 lucky
 trash |  
-| bip_39_word_new_line12 | injury
+| bip_39_word_new_line_12 | injury
 siren
 bomb
 uphold
@@ -78,34 +78,34 @@ annual
 lucky
 trash
 average |  
-| bip_39_word_new_line2 | injury
+| bip_39_word_new_line_2 | injury
 siren |  
-| bip_39_word_new_line3 | injury
+| bip_39_word_new_line_3 | injury
 siren
 bomb |  
-| bip_39_word_new_line4 | injury
+| bip_39_word_new_line_4 | injury
 siren
 bomb
 uphold |  
-| bip_39_word_new_line5 | injury
+| bip_39_word_new_line_5 | injury
 siren
 bomb
 uphold
 crop |  
-| bip_39_word_new_line6 | injury
+| bip_39_word_new_line_6 | injury
 siren
 bomb
 uphold
 crop
 ensure |  
-| bip_39_word_new_line7 | injury
+| bip_39_word_new_line_7 | injury
 siren
 bomb
 uphold
 crop
 ensure
 bracket |  
-| bip_39_word_new_line8 | injury
+| bip_39_word_new_line_8 | injury
 siren
 bomb
 uphold
@@ -113,7 +113,7 @@ crop
 ensure
 bracket
 degree |  
-| bip_39_word_new_line9 | injury
+| bip_39_word_new_line_9 | injury
 siren
 bomb
 uphold

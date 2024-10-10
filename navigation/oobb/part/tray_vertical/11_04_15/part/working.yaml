@@ -1,17 +1,17 @@
-bip_39_word_new_br1: great
-bip_39_word_new_br10: great<br>thing<br>exact<br>soda<br>mouse<br>rapid<br>curtain<br>melt<br>tooth<br>urge
-bip_39_word_new_br11: great<br>thing<br>exact<br>soda<br>mouse<br>rapid<br>curtain<br>melt<br>tooth<br>urge<br>about
-bip_39_word_new_br12: great<br>thing<br>exact<br>soda<br>mouse<br>rapid<br>curtain<br>melt<br>tooth<br>urge<br>about<br>actress
-bip_39_word_new_br2: great<br>thing
-bip_39_word_new_br3: great<br>thing<br>exact
-bip_39_word_new_br4: great<br>thing<br>exact<br>soda
-bip_39_word_new_br5: great<br>thing<br>exact<br>soda<br>mouse
-bip_39_word_new_br6: great<br>thing<br>exact<br>soda<br>mouse<br>rapid
-bip_39_word_new_br7: great<br>thing<br>exact<br>soda<br>mouse<br>rapid<br>curtain
-bip_39_word_new_br8: great<br>thing<br>exact<br>soda<br>mouse<br>rapid<br>curtain<br>melt
-bip_39_word_new_br9: great<br>thing<br>exact<br>soda<br>mouse<br>rapid<br>curtain<br>melt<br>tooth
-bip_39_word_new_line1: great
-bip_39_word_new_line10: 'great
+bip_39_word_new_br_1: great
+bip_39_word_new_br_10: great<br>thing<br>exact<br>soda<br>mouse<br>rapid<br>curtain<br>melt<br>tooth<br>urge
+bip_39_word_new_br_11: great<br>thing<br>exact<br>soda<br>mouse<br>rapid<br>curtain<br>melt<br>tooth<br>urge<br>about
+bip_39_word_new_br_12: great<br>thing<br>exact<br>soda<br>mouse<br>rapid<br>curtain<br>melt<br>tooth<br>urge<br>about<br>actress
+bip_39_word_new_br_2: great<br>thing
+bip_39_word_new_br_3: great<br>thing<br>exact
+bip_39_word_new_br_4: great<br>thing<br>exact<br>soda
+bip_39_word_new_br_5: great<br>thing<br>exact<br>soda<br>mouse
+bip_39_word_new_br_6: great<br>thing<br>exact<br>soda<br>mouse<br>rapid
+bip_39_word_new_br_7: great<br>thing<br>exact<br>soda<br>mouse<br>rapid<br>curtain
+bip_39_word_new_br_8: great<br>thing<br>exact<br>soda<br>mouse<br>rapid<br>curtain<br>melt
+bip_39_word_new_br_9: great<br>thing<br>exact<br>soda<br>mouse<br>rapid<br>curtain<br>melt<br>tooth
+bip_39_word_new_line_1: great
+bip_39_word_new_line_10: 'great
 
   thing
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'great
   tooth
 
   urge'
-bip_39_word_new_line11: 'great
+bip_39_word_new_line_11: 'great
 
   thing
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'great
   urge
 
   about'
-bip_39_word_new_line12: 'great
+bip_39_word_new_line_12: 'great
 
   thing
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'great
   about
 
   actress'
-bip_39_word_new_line2: 'great
+bip_39_word_new_line_2: 'great
 
   thing'
-bip_39_word_new_line3: 'great
+bip_39_word_new_line_3: 'great
 
   thing
 
   exact'
-bip_39_word_new_line4: 'great
+bip_39_word_new_line_4: 'great
 
   thing
 
   exact
 
   soda'
-bip_39_word_new_line5: 'great
+bip_39_word_new_line_5: 'great
 
   thing
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'great
   soda
 
   mouse'
-bip_39_word_new_line6: 'great
+bip_39_word_new_line_6: 'great
 
   thing
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'great
   mouse
 
   rapid'
-bip_39_word_new_line7: 'great
+bip_39_word_new_line_7: 'great
 
   thing
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'great
   rapid
 
   curtain'
-bip_39_word_new_line8: 'great
+bip_39_word_new_line_8: 'great
 
   thing
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'great
   curtain
 
   melt'
-bip_39_word_new_line9: 'great
+bip_39_word_new_line_9: 'great
 
   thing
 

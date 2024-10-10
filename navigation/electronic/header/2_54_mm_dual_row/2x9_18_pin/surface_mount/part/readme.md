@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | magic |  
-| bip_39_word_new_br10 | magic<br>canyon<br>project<br>annual<br>quote<br>boy<br>miracle<br>inherit<br>rude<br>report |  
-| bip_39_word_new_br11 | magic<br>canyon<br>project<br>annual<br>quote<br>boy<br>miracle<br>inherit<br>rude<br>report<br>visa |  
-| bip_39_word_new_br12 | magic<br>canyon<br>project<br>annual<br>quote<br>boy<br>miracle<br>inherit<br>rude<br>report<br>visa<br>action |  
-| bip_39_word_new_br2 | magic<br>canyon |  
-| bip_39_word_new_br3 | magic<br>canyon<br>project |  
-| bip_39_word_new_br4 | magic<br>canyon<br>project<br>annual |  
-| bip_39_word_new_br5 | magic<br>canyon<br>project<br>annual<br>quote |  
-| bip_39_word_new_br6 | magic<br>canyon<br>project<br>annual<br>quote<br>boy |  
-| bip_39_word_new_br7 | magic<br>canyon<br>project<br>annual<br>quote<br>boy<br>miracle |  
-| bip_39_word_new_br8 | magic<br>canyon<br>project<br>annual<br>quote<br>boy<br>miracle<br>inherit |  
-| bip_39_word_new_br9 | magic<br>canyon<br>project<br>annual<br>quote<br>boy<br>miracle<br>inherit<br>rude |  
-| bip_39_word_new_line1 | magic |  
-| bip_39_word_new_line10 | magic
+| bip_39_word_new_br_1 | magic |  
+| bip_39_word_new_br_10 | magic<br>canyon<br>project<br>annual<br>quote<br>boy<br>miracle<br>inherit<br>rude<br>report |  
+| bip_39_word_new_br_11 | magic<br>canyon<br>project<br>annual<br>quote<br>boy<br>miracle<br>inherit<br>rude<br>report<br>visa |  
+| bip_39_word_new_br_12 | magic<br>canyon<br>project<br>annual<br>quote<br>boy<br>miracle<br>inherit<br>rude<br>report<br>visa<br>action |  
+| bip_39_word_new_br_2 | magic<br>canyon |  
+| bip_39_word_new_br_3 | magic<br>canyon<br>project |  
+| bip_39_word_new_br_4 | magic<br>canyon<br>project<br>annual |  
+| bip_39_word_new_br_5 | magic<br>canyon<br>project<br>annual<br>quote |  
+| bip_39_word_new_br_6 | magic<br>canyon<br>project<br>annual<br>quote<br>boy |  
+| bip_39_word_new_br_7 | magic<br>canyon<br>project<br>annual<br>quote<br>boy<br>miracle |  
+| bip_39_word_new_br_8 | magic<br>canyon<br>project<br>annual<br>quote<br>boy<br>miracle<br>inherit |  
+| bip_39_word_new_br_9 | magic<br>canyon<br>project<br>annual<br>quote<br>boy<br>miracle<br>inherit<br>rude |  
+| bip_39_word_new_line_1 | magic |  
+| bip_39_word_new_line_10 | magic
 canyon
 project
 annual
@@ -55,7 +55,7 @@ miracle
 inherit
 rude
 report |  
-| bip_39_word_new_line11 | magic
+| bip_39_word_new_line_11 | magic
 canyon
 project
 annual
@@ -66,7 +66,7 @@ inherit
 rude
 report
 visa |  
-| bip_39_word_new_line12 | magic
+| bip_39_word_new_line_12 | magic
 canyon
 project
 annual
@@ -78,34 +78,34 @@ rude
 report
 visa
 action |  
-| bip_39_word_new_line2 | magic
+| bip_39_word_new_line_2 | magic
 canyon |  
-| bip_39_word_new_line3 | magic
+| bip_39_word_new_line_3 | magic
 canyon
 project |  
-| bip_39_word_new_line4 | magic
+| bip_39_word_new_line_4 | magic
 canyon
 project
 annual |  
-| bip_39_word_new_line5 | magic
+| bip_39_word_new_line_5 | magic
 canyon
 project
 annual
 quote |  
-| bip_39_word_new_line6 | magic
+| bip_39_word_new_line_6 | magic
 canyon
 project
 annual
 quote
 boy |  
-| bip_39_word_new_line7 | magic
+| bip_39_word_new_line_7 | magic
 canyon
 project
 annual
 quote
 boy
 miracle |  
-| bip_39_word_new_line8 | magic
+| bip_39_word_new_line_8 | magic
 canyon
 project
 annual
@@ -113,7 +113,7 @@ quote
 boy
 miracle
 inherit |  
-| bip_39_word_new_line9 | magic
+| bip_39_word_new_line_9 | magic
 canyon
 project
 annual

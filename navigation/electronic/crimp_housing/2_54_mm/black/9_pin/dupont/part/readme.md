@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ticket |  
-| bip_39_word_new_br10 | ticket<br>erupt<br>people<br>summer<br>famous<br>often<br>distance<br>record<br>unaware<br>stable |  
-| bip_39_word_new_br11 | ticket<br>erupt<br>people<br>summer<br>famous<br>often<br>distance<br>record<br>unaware<br>stable<br>whip |  
-| bip_39_word_new_br12 | ticket<br>erupt<br>people<br>summer<br>famous<br>often<br>distance<br>record<br>unaware<br>stable<br>whip<br>another |  
-| bip_39_word_new_br2 | ticket<br>erupt |  
-| bip_39_word_new_br3 | ticket<br>erupt<br>people |  
-| bip_39_word_new_br4 | ticket<br>erupt<br>people<br>summer |  
-| bip_39_word_new_br5 | ticket<br>erupt<br>people<br>summer<br>famous |  
-| bip_39_word_new_br6 | ticket<br>erupt<br>people<br>summer<br>famous<br>often |  
-| bip_39_word_new_br7 | ticket<br>erupt<br>people<br>summer<br>famous<br>often<br>distance |  
-| bip_39_word_new_br8 | ticket<br>erupt<br>people<br>summer<br>famous<br>often<br>distance<br>record |  
-| bip_39_word_new_br9 | ticket<br>erupt<br>people<br>summer<br>famous<br>often<br>distance<br>record<br>unaware |  
-| bip_39_word_new_line1 | ticket |  
-| bip_39_word_new_line10 | ticket
+| bip_39_word_new_br_1 | ticket |  
+| bip_39_word_new_br_10 | ticket<br>erupt<br>people<br>summer<br>famous<br>often<br>distance<br>record<br>unaware<br>stable |  
+| bip_39_word_new_br_11 | ticket<br>erupt<br>people<br>summer<br>famous<br>often<br>distance<br>record<br>unaware<br>stable<br>whip |  
+| bip_39_word_new_br_12 | ticket<br>erupt<br>people<br>summer<br>famous<br>often<br>distance<br>record<br>unaware<br>stable<br>whip<br>another |  
+| bip_39_word_new_br_2 | ticket<br>erupt |  
+| bip_39_word_new_br_3 | ticket<br>erupt<br>people |  
+| bip_39_word_new_br_4 | ticket<br>erupt<br>people<br>summer |  
+| bip_39_word_new_br_5 | ticket<br>erupt<br>people<br>summer<br>famous |  
+| bip_39_word_new_br_6 | ticket<br>erupt<br>people<br>summer<br>famous<br>often |  
+| bip_39_word_new_br_7 | ticket<br>erupt<br>people<br>summer<br>famous<br>often<br>distance |  
+| bip_39_word_new_br_8 | ticket<br>erupt<br>people<br>summer<br>famous<br>often<br>distance<br>record |  
+| bip_39_word_new_br_9 | ticket<br>erupt<br>people<br>summer<br>famous<br>often<br>distance<br>record<br>unaware |  
+| bip_39_word_new_line_1 | ticket |  
+| bip_39_word_new_line_10 | ticket
 erupt
 people
 summer
@@ -55,7 +55,7 @@ distance
 record
 unaware
 stable |  
-| bip_39_word_new_line11 | ticket
+| bip_39_word_new_line_11 | ticket
 erupt
 people
 summer
@@ -66,7 +66,7 @@ record
 unaware
 stable
 whip |  
-| bip_39_word_new_line12 | ticket
+| bip_39_word_new_line_12 | ticket
 erupt
 people
 summer
@@ -78,34 +78,34 @@ unaware
 stable
 whip
 another |  
-| bip_39_word_new_line2 | ticket
+| bip_39_word_new_line_2 | ticket
 erupt |  
-| bip_39_word_new_line3 | ticket
+| bip_39_word_new_line_3 | ticket
 erupt
 people |  
-| bip_39_word_new_line4 | ticket
+| bip_39_word_new_line_4 | ticket
 erupt
 people
 summer |  
-| bip_39_word_new_line5 | ticket
+| bip_39_word_new_line_5 | ticket
 erupt
 people
 summer
 famous |  
-| bip_39_word_new_line6 | ticket
+| bip_39_word_new_line_6 | ticket
 erupt
 people
 summer
 famous
 often |  
-| bip_39_word_new_line7 | ticket
+| bip_39_word_new_line_7 | ticket
 erupt
 people
 summer
 famous
 often
 distance |  
-| bip_39_word_new_line8 | ticket
+| bip_39_word_new_line_8 | ticket
 erupt
 people
 summer
@@ -113,7 +113,7 @@ famous
 often
 distance
 record |  
-| bip_39_word_new_line9 | ticket
+| bip_39_word_new_line_9 | ticket
 erupt
 people
 summer

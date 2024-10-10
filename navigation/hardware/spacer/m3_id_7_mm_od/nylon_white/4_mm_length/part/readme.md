@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sure |  
-| bip_39_word_new_br10 | sure<br>trust<br>indoor<br>omit<br>trend<br>peanut<br>humor<br>toe<br>drip<br>major |  
-| bip_39_word_new_br11 | sure<br>trust<br>indoor<br>omit<br>trend<br>peanut<br>humor<br>toe<br>drip<br>major<br>alone |  
-| bip_39_word_new_br12 | sure<br>trust<br>indoor<br>omit<br>trend<br>peanut<br>humor<br>toe<br>drip<br>major<br>alone<br>arrive |  
-| bip_39_word_new_br2 | sure<br>trust |  
-| bip_39_word_new_br3 | sure<br>trust<br>indoor |  
-| bip_39_word_new_br4 | sure<br>trust<br>indoor<br>omit |  
-| bip_39_word_new_br5 | sure<br>trust<br>indoor<br>omit<br>trend |  
-| bip_39_word_new_br6 | sure<br>trust<br>indoor<br>omit<br>trend<br>peanut |  
-| bip_39_word_new_br7 | sure<br>trust<br>indoor<br>omit<br>trend<br>peanut<br>humor |  
-| bip_39_word_new_br8 | sure<br>trust<br>indoor<br>omit<br>trend<br>peanut<br>humor<br>toe |  
-| bip_39_word_new_br9 | sure<br>trust<br>indoor<br>omit<br>trend<br>peanut<br>humor<br>toe<br>drip |  
-| bip_39_word_new_line1 | sure |  
-| bip_39_word_new_line10 | sure
+| bip_39_word_new_br_1 | sure |  
+| bip_39_word_new_br_10 | sure<br>trust<br>indoor<br>omit<br>trend<br>peanut<br>humor<br>toe<br>drip<br>major |  
+| bip_39_word_new_br_11 | sure<br>trust<br>indoor<br>omit<br>trend<br>peanut<br>humor<br>toe<br>drip<br>major<br>alone |  
+| bip_39_word_new_br_12 | sure<br>trust<br>indoor<br>omit<br>trend<br>peanut<br>humor<br>toe<br>drip<br>major<br>alone<br>arrive |  
+| bip_39_word_new_br_2 | sure<br>trust |  
+| bip_39_word_new_br_3 | sure<br>trust<br>indoor |  
+| bip_39_word_new_br_4 | sure<br>trust<br>indoor<br>omit |  
+| bip_39_word_new_br_5 | sure<br>trust<br>indoor<br>omit<br>trend |  
+| bip_39_word_new_br_6 | sure<br>trust<br>indoor<br>omit<br>trend<br>peanut |  
+| bip_39_word_new_br_7 | sure<br>trust<br>indoor<br>omit<br>trend<br>peanut<br>humor |  
+| bip_39_word_new_br_8 | sure<br>trust<br>indoor<br>omit<br>trend<br>peanut<br>humor<br>toe |  
+| bip_39_word_new_br_9 | sure<br>trust<br>indoor<br>omit<br>trend<br>peanut<br>humor<br>toe<br>drip |  
+| bip_39_word_new_line_1 | sure |  
+| bip_39_word_new_line_10 | sure
 trust
 indoor
 omit
@@ -55,7 +55,7 @@ humor
 toe
 drip
 major |  
-| bip_39_word_new_line11 | sure
+| bip_39_word_new_line_11 | sure
 trust
 indoor
 omit
@@ -66,7 +66,7 @@ toe
 drip
 major
 alone |  
-| bip_39_word_new_line12 | sure
+| bip_39_word_new_line_12 | sure
 trust
 indoor
 omit
@@ -78,34 +78,34 @@ drip
 major
 alone
 arrive |  
-| bip_39_word_new_line2 | sure
+| bip_39_word_new_line_2 | sure
 trust |  
-| bip_39_word_new_line3 | sure
+| bip_39_word_new_line_3 | sure
 trust
 indoor |  
-| bip_39_word_new_line4 | sure
+| bip_39_word_new_line_4 | sure
 trust
 indoor
 omit |  
-| bip_39_word_new_line5 | sure
+| bip_39_word_new_line_5 | sure
 trust
 indoor
 omit
 trend |  
-| bip_39_word_new_line6 | sure
+| bip_39_word_new_line_6 | sure
 trust
 indoor
 omit
 trend
 peanut |  
-| bip_39_word_new_line7 | sure
+| bip_39_word_new_line_7 | sure
 trust
 indoor
 omit
 trend
 peanut
 humor |  
-| bip_39_word_new_line8 | sure
+| bip_39_word_new_line_8 | sure
 trust
 indoor
 omit
@@ -113,7 +113,7 @@ trend
 peanut
 humor
 toe |  
-| bip_39_word_new_line9 | sure
+| bip_39_word_new_line_9 | sure
 trust
 indoor
 omit

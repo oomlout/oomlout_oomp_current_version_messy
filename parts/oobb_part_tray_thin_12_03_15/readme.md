@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | special |  
-| bip_39_word_new_br10 | special<br>light<br>crowd<br>shiver<br>stomach<br>bleak<br>bamboo<br>peace<br>pink<br>final |  
-| bip_39_word_new_br11 | special<br>light<br>crowd<br>shiver<br>stomach<br>bleak<br>bamboo<br>peace<br>pink<br>final<br>busy |  
-| bip_39_word_new_br12 | special<br>light<br>crowd<br>shiver<br>stomach<br>bleak<br>bamboo<br>peace<br>pink<br>final<br>busy<br>achieve |  
-| bip_39_word_new_br2 | special<br>light |  
-| bip_39_word_new_br3 | special<br>light<br>crowd |  
-| bip_39_word_new_br4 | special<br>light<br>crowd<br>shiver |  
-| bip_39_word_new_br5 | special<br>light<br>crowd<br>shiver<br>stomach |  
-| bip_39_word_new_br6 | special<br>light<br>crowd<br>shiver<br>stomach<br>bleak |  
-| bip_39_word_new_br7 | special<br>light<br>crowd<br>shiver<br>stomach<br>bleak<br>bamboo |  
-| bip_39_word_new_br8 | special<br>light<br>crowd<br>shiver<br>stomach<br>bleak<br>bamboo<br>peace |  
-| bip_39_word_new_br9 | special<br>light<br>crowd<br>shiver<br>stomach<br>bleak<br>bamboo<br>peace<br>pink |  
-| bip_39_word_new_line1 | special |  
-| bip_39_word_new_line10 | special
+| bip_39_word_new_br_1 | special |  
+| bip_39_word_new_br_10 | special<br>light<br>crowd<br>shiver<br>stomach<br>bleak<br>bamboo<br>peace<br>pink<br>final |  
+| bip_39_word_new_br_11 | special<br>light<br>crowd<br>shiver<br>stomach<br>bleak<br>bamboo<br>peace<br>pink<br>final<br>busy |  
+| bip_39_word_new_br_12 | special<br>light<br>crowd<br>shiver<br>stomach<br>bleak<br>bamboo<br>peace<br>pink<br>final<br>busy<br>achieve |  
+| bip_39_word_new_br_2 | special<br>light |  
+| bip_39_word_new_br_3 | special<br>light<br>crowd |  
+| bip_39_word_new_br_4 | special<br>light<br>crowd<br>shiver |  
+| bip_39_word_new_br_5 | special<br>light<br>crowd<br>shiver<br>stomach |  
+| bip_39_word_new_br_6 | special<br>light<br>crowd<br>shiver<br>stomach<br>bleak |  
+| bip_39_word_new_br_7 | special<br>light<br>crowd<br>shiver<br>stomach<br>bleak<br>bamboo |  
+| bip_39_word_new_br_8 | special<br>light<br>crowd<br>shiver<br>stomach<br>bleak<br>bamboo<br>peace |  
+| bip_39_word_new_br_9 | special<br>light<br>crowd<br>shiver<br>stomach<br>bleak<br>bamboo<br>peace<br>pink |  
+| bip_39_word_new_line_1 | special |  
+| bip_39_word_new_line_10 | special
 light
 crowd
 shiver
@@ -55,7 +55,7 @@ bamboo
 peace
 pink
 final |  
-| bip_39_word_new_line11 | special
+| bip_39_word_new_line_11 | special
 light
 crowd
 shiver
@@ -66,7 +66,7 @@ peace
 pink
 final
 busy |  
-| bip_39_word_new_line12 | special
+| bip_39_word_new_line_12 | special
 light
 crowd
 shiver
@@ -78,34 +78,34 @@ pink
 final
 busy
 achieve |  
-| bip_39_word_new_line2 | special
+| bip_39_word_new_line_2 | special
 light |  
-| bip_39_word_new_line3 | special
+| bip_39_word_new_line_3 | special
 light
 crowd |  
-| bip_39_word_new_line4 | special
+| bip_39_word_new_line_4 | special
 light
 crowd
 shiver |  
-| bip_39_word_new_line5 | special
+| bip_39_word_new_line_5 | special
 light
 crowd
 shiver
 stomach |  
-| bip_39_word_new_line6 | special
+| bip_39_word_new_line_6 | special
 light
 crowd
 shiver
 stomach
 bleak |  
-| bip_39_word_new_line7 | special
+| bip_39_word_new_line_7 | special
 light
 crowd
 shiver
 stomach
 bleak
 bamboo |  
-| bip_39_word_new_line8 | special
+| bip_39_word_new_line_8 | special
 light
 crowd
 shiver
@@ -113,7 +113,7 @@ stomach
 bleak
 bamboo
 peace |  
-| bip_39_word_new_line9 | special
+| bip_39_word_new_line_9 | special
 light
 crowd
 shiver

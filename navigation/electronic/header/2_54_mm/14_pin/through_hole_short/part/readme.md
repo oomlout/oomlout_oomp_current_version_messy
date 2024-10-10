@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | force |  
-| bip_39_word_new_br10 | force<br>shadow<br>embark<br>grab<br>guard<br>connect<br>power<br>season<br>gaze<br>gather |  
-| bip_39_word_new_br11 | force<br>shadow<br>embark<br>grab<br>guard<br>connect<br>power<br>season<br>gaze<br>gather<br>claw |  
-| bip_39_word_new_br12 | force<br>shadow<br>embark<br>grab<br>guard<br>connect<br>power<br>season<br>gaze<br>gather<br>claw<br>athlete |  
-| bip_39_word_new_br2 | force<br>shadow |  
-| bip_39_word_new_br3 | force<br>shadow<br>embark |  
-| bip_39_word_new_br4 | force<br>shadow<br>embark<br>grab |  
-| bip_39_word_new_br5 | force<br>shadow<br>embark<br>grab<br>guard |  
-| bip_39_word_new_br6 | force<br>shadow<br>embark<br>grab<br>guard<br>connect |  
-| bip_39_word_new_br7 | force<br>shadow<br>embark<br>grab<br>guard<br>connect<br>power |  
-| bip_39_word_new_br8 | force<br>shadow<br>embark<br>grab<br>guard<br>connect<br>power<br>season |  
-| bip_39_word_new_br9 | force<br>shadow<br>embark<br>grab<br>guard<br>connect<br>power<br>season<br>gaze |  
-| bip_39_word_new_line1 | force |  
-| bip_39_word_new_line10 | force
+| bip_39_word_new_br_1 | force |  
+| bip_39_word_new_br_10 | force<br>shadow<br>embark<br>grab<br>guard<br>connect<br>power<br>season<br>gaze<br>gather |  
+| bip_39_word_new_br_11 | force<br>shadow<br>embark<br>grab<br>guard<br>connect<br>power<br>season<br>gaze<br>gather<br>claw |  
+| bip_39_word_new_br_12 | force<br>shadow<br>embark<br>grab<br>guard<br>connect<br>power<br>season<br>gaze<br>gather<br>claw<br>athlete |  
+| bip_39_word_new_br_2 | force<br>shadow |  
+| bip_39_word_new_br_3 | force<br>shadow<br>embark |  
+| bip_39_word_new_br_4 | force<br>shadow<br>embark<br>grab |  
+| bip_39_word_new_br_5 | force<br>shadow<br>embark<br>grab<br>guard |  
+| bip_39_word_new_br_6 | force<br>shadow<br>embark<br>grab<br>guard<br>connect |  
+| bip_39_word_new_br_7 | force<br>shadow<br>embark<br>grab<br>guard<br>connect<br>power |  
+| bip_39_word_new_br_8 | force<br>shadow<br>embark<br>grab<br>guard<br>connect<br>power<br>season |  
+| bip_39_word_new_br_9 | force<br>shadow<br>embark<br>grab<br>guard<br>connect<br>power<br>season<br>gaze |  
+| bip_39_word_new_line_1 | force |  
+| bip_39_word_new_line_10 | force
 shadow
 embark
 grab
@@ -55,7 +55,7 @@ power
 season
 gaze
 gather |  
-| bip_39_word_new_line11 | force
+| bip_39_word_new_line_11 | force
 shadow
 embark
 grab
@@ -66,7 +66,7 @@ season
 gaze
 gather
 claw |  
-| bip_39_word_new_line12 | force
+| bip_39_word_new_line_12 | force
 shadow
 embark
 grab
@@ -78,34 +78,34 @@ gaze
 gather
 claw
 athlete |  
-| bip_39_word_new_line2 | force
+| bip_39_word_new_line_2 | force
 shadow |  
-| bip_39_word_new_line3 | force
+| bip_39_word_new_line_3 | force
 shadow
 embark |  
-| bip_39_word_new_line4 | force
+| bip_39_word_new_line_4 | force
 shadow
 embark
 grab |  
-| bip_39_word_new_line5 | force
+| bip_39_word_new_line_5 | force
 shadow
 embark
 grab
 guard |  
-| bip_39_word_new_line6 | force
+| bip_39_word_new_line_6 | force
 shadow
 embark
 grab
 guard
 connect |  
-| bip_39_word_new_line7 | force
+| bip_39_word_new_line_7 | force
 shadow
 embark
 grab
 guard
 connect
 power |  
-| bip_39_word_new_line8 | force
+| bip_39_word_new_line_8 | force
 shadow
 embark
 grab
@@ -113,7 +113,7 @@ guard
 connect
 power
 season |  
-| bip_39_word_new_line9 | force
+| bip_39_word_new_line_9 | force
 shadow
 embark
 grab

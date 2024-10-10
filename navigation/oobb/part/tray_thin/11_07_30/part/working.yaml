@@ -1,17 +1,17 @@
-bip_39_word_new_br1: genuine
-bip_39_word_new_br10: genuine<br>attend<br>sad<br>delay<br>need<br>opinion<br>fog<br>defy<br>atom<br>marble
-bip_39_word_new_br11: genuine<br>attend<br>sad<br>delay<br>need<br>opinion<br>fog<br>defy<br>atom<br>marble<br>car
-bip_39_word_new_br12: genuine<br>attend<br>sad<br>delay<br>need<br>opinion<br>fog<br>defy<br>atom<br>marble<br>car<br>any
-bip_39_word_new_br2: genuine<br>attend
-bip_39_word_new_br3: genuine<br>attend<br>sad
-bip_39_word_new_br4: genuine<br>attend<br>sad<br>delay
-bip_39_word_new_br5: genuine<br>attend<br>sad<br>delay<br>need
-bip_39_word_new_br6: genuine<br>attend<br>sad<br>delay<br>need<br>opinion
-bip_39_word_new_br7: genuine<br>attend<br>sad<br>delay<br>need<br>opinion<br>fog
-bip_39_word_new_br8: genuine<br>attend<br>sad<br>delay<br>need<br>opinion<br>fog<br>defy
-bip_39_word_new_br9: genuine<br>attend<br>sad<br>delay<br>need<br>opinion<br>fog<br>defy<br>atom
-bip_39_word_new_line1: genuine
-bip_39_word_new_line10: 'genuine
+bip_39_word_new_br_1: genuine
+bip_39_word_new_br_10: genuine<br>attend<br>sad<br>delay<br>need<br>opinion<br>fog<br>defy<br>atom<br>marble
+bip_39_word_new_br_11: genuine<br>attend<br>sad<br>delay<br>need<br>opinion<br>fog<br>defy<br>atom<br>marble<br>car
+bip_39_word_new_br_12: genuine<br>attend<br>sad<br>delay<br>need<br>opinion<br>fog<br>defy<br>atom<br>marble<br>car<br>any
+bip_39_word_new_br_2: genuine<br>attend
+bip_39_word_new_br_3: genuine<br>attend<br>sad
+bip_39_word_new_br_4: genuine<br>attend<br>sad<br>delay
+bip_39_word_new_br_5: genuine<br>attend<br>sad<br>delay<br>need
+bip_39_word_new_br_6: genuine<br>attend<br>sad<br>delay<br>need<br>opinion
+bip_39_word_new_br_7: genuine<br>attend<br>sad<br>delay<br>need<br>opinion<br>fog
+bip_39_word_new_br_8: genuine<br>attend<br>sad<br>delay<br>need<br>opinion<br>fog<br>defy
+bip_39_word_new_br_9: genuine<br>attend<br>sad<br>delay<br>need<br>opinion<br>fog<br>defy<br>atom
+bip_39_word_new_line_1: genuine
+bip_39_word_new_line_10: 'genuine
 
   attend
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'genuine
   atom
 
   marble'
-bip_39_word_new_line11: 'genuine
+bip_39_word_new_line_11: 'genuine
 
   attend
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'genuine
   marble
 
   car'
-bip_39_word_new_line12: 'genuine
+bip_39_word_new_line_12: 'genuine
 
   attend
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'genuine
   car
 
   any'
-bip_39_word_new_line2: 'genuine
+bip_39_word_new_line_2: 'genuine
 
   attend'
-bip_39_word_new_line3: 'genuine
+bip_39_word_new_line_3: 'genuine
 
   attend
 
   sad'
-bip_39_word_new_line4: 'genuine
+bip_39_word_new_line_4: 'genuine
 
   attend
 
   sad
 
   delay'
-bip_39_word_new_line5: 'genuine
+bip_39_word_new_line_5: 'genuine
 
   attend
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'genuine
   delay
 
   need'
-bip_39_word_new_line6: 'genuine
+bip_39_word_new_line_6: 'genuine
 
   attend
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'genuine
   need
 
   opinion'
-bip_39_word_new_line7: 'genuine
+bip_39_word_new_line_7: 'genuine
 
   attend
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'genuine
   opinion
 
   fog'
-bip_39_word_new_line8: 'genuine
+bip_39_word_new_line_8: 'genuine
 
   attend
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'genuine
   fog
 
   defy'
-bip_39_word_new_line9: 'genuine
+bip_39_word_new_line_9: 'genuine
 
   attend
 

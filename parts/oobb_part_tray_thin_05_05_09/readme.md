@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | column |  
-| bip_39_word_new_br10 | column<br>carry<br>wink<br>about<br>car<br>glory<br>history<br>pretty<br>toilet<br>hello |  
-| bip_39_word_new_br11 | column<br>carry<br>wink<br>about<br>car<br>glory<br>history<br>pretty<br>toilet<br>hello<br>cool |  
-| bip_39_word_new_br12 | column<br>carry<br>wink<br>about<br>car<br>glory<br>history<br>pretty<br>toilet<br>hello<br>cool<br>airport |  
-| bip_39_word_new_br2 | column<br>carry |  
-| bip_39_word_new_br3 | column<br>carry<br>wink |  
-| bip_39_word_new_br4 | column<br>carry<br>wink<br>about |  
-| bip_39_word_new_br5 | column<br>carry<br>wink<br>about<br>car |  
-| bip_39_word_new_br6 | column<br>carry<br>wink<br>about<br>car<br>glory |  
-| bip_39_word_new_br7 | column<br>carry<br>wink<br>about<br>car<br>glory<br>history |  
-| bip_39_word_new_br8 | column<br>carry<br>wink<br>about<br>car<br>glory<br>history<br>pretty |  
-| bip_39_word_new_br9 | column<br>carry<br>wink<br>about<br>car<br>glory<br>history<br>pretty<br>toilet |  
-| bip_39_word_new_line1 | column |  
-| bip_39_word_new_line10 | column
+| bip_39_word_new_br_1 | column |  
+| bip_39_word_new_br_10 | column<br>carry<br>wink<br>about<br>car<br>glory<br>history<br>pretty<br>toilet<br>hello |  
+| bip_39_word_new_br_11 | column<br>carry<br>wink<br>about<br>car<br>glory<br>history<br>pretty<br>toilet<br>hello<br>cool |  
+| bip_39_word_new_br_12 | column<br>carry<br>wink<br>about<br>car<br>glory<br>history<br>pretty<br>toilet<br>hello<br>cool<br>airport |  
+| bip_39_word_new_br_2 | column<br>carry |  
+| bip_39_word_new_br_3 | column<br>carry<br>wink |  
+| bip_39_word_new_br_4 | column<br>carry<br>wink<br>about |  
+| bip_39_word_new_br_5 | column<br>carry<br>wink<br>about<br>car |  
+| bip_39_word_new_br_6 | column<br>carry<br>wink<br>about<br>car<br>glory |  
+| bip_39_word_new_br_7 | column<br>carry<br>wink<br>about<br>car<br>glory<br>history |  
+| bip_39_word_new_br_8 | column<br>carry<br>wink<br>about<br>car<br>glory<br>history<br>pretty |  
+| bip_39_word_new_br_9 | column<br>carry<br>wink<br>about<br>car<br>glory<br>history<br>pretty<br>toilet |  
+| bip_39_word_new_line_1 | column |  
+| bip_39_word_new_line_10 | column
 carry
 wink
 about
@@ -55,7 +55,7 @@ history
 pretty
 toilet
 hello |  
-| bip_39_word_new_line11 | column
+| bip_39_word_new_line_11 | column
 carry
 wink
 about
@@ -66,7 +66,7 @@ pretty
 toilet
 hello
 cool |  
-| bip_39_word_new_line12 | column
+| bip_39_word_new_line_12 | column
 carry
 wink
 about
@@ -78,34 +78,34 @@ toilet
 hello
 cool
 airport |  
-| bip_39_word_new_line2 | column
+| bip_39_word_new_line_2 | column
 carry |  
-| bip_39_word_new_line3 | column
+| bip_39_word_new_line_3 | column
 carry
 wink |  
-| bip_39_word_new_line4 | column
+| bip_39_word_new_line_4 | column
 carry
 wink
 about |  
-| bip_39_word_new_line5 | column
+| bip_39_word_new_line_5 | column
 carry
 wink
 about
 car |  
-| bip_39_word_new_line6 | column
+| bip_39_word_new_line_6 | column
 carry
 wink
 about
 car
 glory |  
-| bip_39_word_new_line7 | column
+| bip_39_word_new_line_7 | column
 carry
 wink
 about
 car
 glory
 history |  
-| bip_39_word_new_line8 | column
+| bip_39_word_new_line_8 | column
 carry
 wink
 about
@@ -113,7 +113,7 @@ car
 glory
 history
 pretty |  
-| bip_39_word_new_line9 | column
+| bip_39_word_new_line_9 | column
 carry
 wink
 about

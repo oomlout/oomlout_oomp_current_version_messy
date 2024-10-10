@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | grief |  
-| bip_39_word_new_br10 | grief<br>banner<br>sound<br>moment<br>person<br>toward<br>ugly<br>abstract<br>else<br>hope |  
-| bip_39_word_new_br11 | grief<br>banner<br>sound<br>moment<br>person<br>toward<br>ugly<br>abstract<br>else<br>hope<br>always |  
-| bip_39_word_new_br12 | grief<br>banner<br>sound<br>moment<br>person<br>toward<br>ugly<br>abstract<br>else<br>hope<br>always<br>audit |  
-| bip_39_word_new_br2 | grief<br>banner |  
-| bip_39_word_new_br3 | grief<br>banner<br>sound |  
-| bip_39_word_new_br4 | grief<br>banner<br>sound<br>moment |  
-| bip_39_word_new_br5 | grief<br>banner<br>sound<br>moment<br>person |  
-| bip_39_word_new_br6 | grief<br>banner<br>sound<br>moment<br>person<br>toward |  
-| bip_39_word_new_br7 | grief<br>banner<br>sound<br>moment<br>person<br>toward<br>ugly |  
-| bip_39_word_new_br8 | grief<br>banner<br>sound<br>moment<br>person<br>toward<br>ugly<br>abstract |  
-| bip_39_word_new_br9 | grief<br>banner<br>sound<br>moment<br>person<br>toward<br>ugly<br>abstract<br>else |  
-| bip_39_word_new_line1 | grief |  
-| bip_39_word_new_line10 | grief
+| bip_39_word_new_br_1 | grief |  
+| bip_39_word_new_br_10 | grief<br>banner<br>sound<br>moment<br>person<br>toward<br>ugly<br>abstract<br>else<br>hope |  
+| bip_39_word_new_br_11 | grief<br>banner<br>sound<br>moment<br>person<br>toward<br>ugly<br>abstract<br>else<br>hope<br>always |  
+| bip_39_word_new_br_12 | grief<br>banner<br>sound<br>moment<br>person<br>toward<br>ugly<br>abstract<br>else<br>hope<br>always<br>audit |  
+| bip_39_word_new_br_2 | grief<br>banner |  
+| bip_39_word_new_br_3 | grief<br>banner<br>sound |  
+| bip_39_word_new_br_4 | grief<br>banner<br>sound<br>moment |  
+| bip_39_word_new_br_5 | grief<br>banner<br>sound<br>moment<br>person |  
+| bip_39_word_new_br_6 | grief<br>banner<br>sound<br>moment<br>person<br>toward |  
+| bip_39_word_new_br_7 | grief<br>banner<br>sound<br>moment<br>person<br>toward<br>ugly |  
+| bip_39_word_new_br_8 | grief<br>banner<br>sound<br>moment<br>person<br>toward<br>ugly<br>abstract |  
+| bip_39_word_new_br_9 | grief<br>banner<br>sound<br>moment<br>person<br>toward<br>ugly<br>abstract<br>else |  
+| bip_39_word_new_line_1 | grief |  
+| bip_39_word_new_line_10 | grief
 banner
 sound
 moment
@@ -55,7 +55,7 @@ ugly
 abstract
 else
 hope |  
-| bip_39_word_new_line11 | grief
+| bip_39_word_new_line_11 | grief
 banner
 sound
 moment
@@ -66,7 +66,7 @@ abstract
 else
 hope
 always |  
-| bip_39_word_new_line12 | grief
+| bip_39_word_new_line_12 | grief
 banner
 sound
 moment
@@ -78,34 +78,34 @@ else
 hope
 always
 audit |  
-| bip_39_word_new_line2 | grief
+| bip_39_word_new_line_2 | grief
 banner |  
-| bip_39_word_new_line3 | grief
+| bip_39_word_new_line_3 | grief
 banner
 sound |  
-| bip_39_word_new_line4 | grief
+| bip_39_word_new_line_4 | grief
 banner
 sound
 moment |  
-| bip_39_word_new_line5 | grief
+| bip_39_word_new_line_5 | grief
 banner
 sound
 moment
 person |  
-| bip_39_word_new_line6 | grief
+| bip_39_word_new_line_6 | grief
 banner
 sound
 moment
 person
 toward |  
-| bip_39_word_new_line7 | grief
+| bip_39_word_new_line_7 | grief
 banner
 sound
 moment
 person
 toward
 ugly |  
-| bip_39_word_new_line8 | grief
+| bip_39_word_new_line_8 | grief
 banner
 sound
 moment
@@ -113,7 +113,7 @@ person
 toward
 ugly
 abstract |  
-| bip_39_word_new_line9 | grief
+| bip_39_word_new_line_9 | grief
 banner
 sound
 moment

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | solar |  
-| bip_39_word_new_br10 | solar<br>guess<br>fish<br>skirt<br>luxury<br>security<br>end<br>thought<br>skirt<br>remember |  
-| bip_39_word_new_br11 | solar<br>guess<br>fish<br>skirt<br>luxury<br>security<br>end<br>thought<br>skirt<br>remember<br>better |  
-| bip_39_word_new_br12 | solar<br>guess<br>fish<br>skirt<br>luxury<br>security<br>end<br>thought<br>skirt<br>remember<br>better<br>arm |  
-| bip_39_word_new_br2 | solar<br>guess |  
-| bip_39_word_new_br3 | solar<br>guess<br>fish |  
-| bip_39_word_new_br4 | solar<br>guess<br>fish<br>skirt |  
-| bip_39_word_new_br5 | solar<br>guess<br>fish<br>skirt<br>luxury |  
-| bip_39_word_new_br6 | solar<br>guess<br>fish<br>skirt<br>luxury<br>security |  
-| bip_39_word_new_br7 | solar<br>guess<br>fish<br>skirt<br>luxury<br>security<br>end |  
-| bip_39_word_new_br8 | solar<br>guess<br>fish<br>skirt<br>luxury<br>security<br>end<br>thought |  
-| bip_39_word_new_br9 | solar<br>guess<br>fish<br>skirt<br>luxury<br>security<br>end<br>thought<br>skirt |  
-| bip_39_word_new_line1 | solar |  
-| bip_39_word_new_line10 | solar
+| bip_39_word_new_br_1 | solar |  
+| bip_39_word_new_br_10 | solar<br>guess<br>fish<br>skirt<br>luxury<br>security<br>end<br>thought<br>skirt<br>remember |  
+| bip_39_word_new_br_11 | solar<br>guess<br>fish<br>skirt<br>luxury<br>security<br>end<br>thought<br>skirt<br>remember<br>better |  
+| bip_39_word_new_br_12 | solar<br>guess<br>fish<br>skirt<br>luxury<br>security<br>end<br>thought<br>skirt<br>remember<br>better<br>arm |  
+| bip_39_word_new_br_2 | solar<br>guess |  
+| bip_39_word_new_br_3 | solar<br>guess<br>fish |  
+| bip_39_word_new_br_4 | solar<br>guess<br>fish<br>skirt |  
+| bip_39_word_new_br_5 | solar<br>guess<br>fish<br>skirt<br>luxury |  
+| bip_39_word_new_br_6 | solar<br>guess<br>fish<br>skirt<br>luxury<br>security |  
+| bip_39_word_new_br_7 | solar<br>guess<br>fish<br>skirt<br>luxury<br>security<br>end |  
+| bip_39_word_new_br_8 | solar<br>guess<br>fish<br>skirt<br>luxury<br>security<br>end<br>thought |  
+| bip_39_word_new_br_9 | solar<br>guess<br>fish<br>skirt<br>luxury<br>security<br>end<br>thought<br>skirt |  
+| bip_39_word_new_line_1 | solar |  
+| bip_39_word_new_line_10 | solar
 guess
 fish
 skirt
@@ -55,7 +55,7 @@ end
 thought
 skirt
 remember |  
-| bip_39_word_new_line11 | solar
+| bip_39_word_new_line_11 | solar
 guess
 fish
 skirt
@@ -66,7 +66,7 @@ thought
 skirt
 remember
 better |  
-| bip_39_word_new_line12 | solar
+| bip_39_word_new_line_12 | solar
 guess
 fish
 skirt
@@ -78,34 +78,34 @@ skirt
 remember
 better
 arm |  
-| bip_39_word_new_line2 | solar
+| bip_39_word_new_line_2 | solar
 guess |  
-| bip_39_word_new_line3 | solar
+| bip_39_word_new_line_3 | solar
 guess
 fish |  
-| bip_39_word_new_line4 | solar
+| bip_39_word_new_line_4 | solar
 guess
 fish
 skirt |  
-| bip_39_word_new_line5 | solar
+| bip_39_word_new_line_5 | solar
 guess
 fish
 skirt
 luxury |  
-| bip_39_word_new_line6 | solar
+| bip_39_word_new_line_6 | solar
 guess
 fish
 skirt
 luxury
 security |  
-| bip_39_word_new_line7 | solar
+| bip_39_word_new_line_7 | solar
 guess
 fish
 skirt
 luxury
 security
 end |  
-| bip_39_word_new_line8 | solar
+| bip_39_word_new_line_8 | solar
 guess
 fish
 skirt
@@ -113,7 +113,7 @@ luxury
 security
 end
 thought |  
-| bip_39_word_new_line9 | solar
+| bip_39_word_new_line_9 | solar
 guess
 fish
 skirt

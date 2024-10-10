@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | symptom |  
-| bip_39_word_new_br10 | symptom<br>trick<br>depend<br>aspect<br>rug<br>cave<br>claim<br>donor<br>silly<br>finger |  
-| bip_39_word_new_br11 | symptom<br>trick<br>depend<br>aspect<br>rug<br>cave<br>claim<br>donor<br>silly<br>finger<br>sad |  
-| bip_39_word_new_br12 | symptom<br>trick<br>depend<br>aspect<br>rug<br>cave<br>claim<br>donor<br>silly<br>finger<br>sad<br>among |  
-| bip_39_word_new_br2 | symptom<br>trick |  
-| bip_39_word_new_br3 | symptom<br>trick<br>depend |  
-| bip_39_word_new_br4 | symptom<br>trick<br>depend<br>aspect |  
-| bip_39_word_new_br5 | symptom<br>trick<br>depend<br>aspect<br>rug |  
-| bip_39_word_new_br6 | symptom<br>trick<br>depend<br>aspect<br>rug<br>cave |  
-| bip_39_word_new_br7 | symptom<br>trick<br>depend<br>aspect<br>rug<br>cave<br>claim |  
-| bip_39_word_new_br8 | symptom<br>trick<br>depend<br>aspect<br>rug<br>cave<br>claim<br>donor |  
-| bip_39_word_new_br9 | symptom<br>trick<br>depend<br>aspect<br>rug<br>cave<br>claim<br>donor<br>silly |  
-| bip_39_word_new_line1 | symptom |  
-| bip_39_word_new_line10 | symptom
+| bip_39_word_new_br_1 | symptom |  
+| bip_39_word_new_br_10 | symptom<br>trick<br>depend<br>aspect<br>rug<br>cave<br>claim<br>donor<br>silly<br>finger |  
+| bip_39_word_new_br_11 | symptom<br>trick<br>depend<br>aspect<br>rug<br>cave<br>claim<br>donor<br>silly<br>finger<br>sad |  
+| bip_39_word_new_br_12 | symptom<br>trick<br>depend<br>aspect<br>rug<br>cave<br>claim<br>donor<br>silly<br>finger<br>sad<br>among |  
+| bip_39_word_new_br_2 | symptom<br>trick |  
+| bip_39_word_new_br_3 | symptom<br>trick<br>depend |  
+| bip_39_word_new_br_4 | symptom<br>trick<br>depend<br>aspect |  
+| bip_39_word_new_br_5 | symptom<br>trick<br>depend<br>aspect<br>rug |  
+| bip_39_word_new_br_6 | symptom<br>trick<br>depend<br>aspect<br>rug<br>cave |  
+| bip_39_word_new_br_7 | symptom<br>trick<br>depend<br>aspect<br>rug<br>cave<br>claim |  
+| bip_39_word_new_br_8 | symptom<br>trick<br>depend<br>aspect<br>rug<br>cave<br>claim<br>donor |  
+| bip_39_word_new_br_9 | symptom<br>trick<br>depend<br>aspect<br>rug<br>cave<br>claim<br>donor<br>silly |  
+| bip_39_word_new_line_1 | symptom |  
+| bip_39_word_new_line_10 | symptom
 trick
 depend
 aspect
@@ -55,7 +55,7 @@ claim
 donor
 silly
 finger |  
-| bip_39_word_new_line11 | symptom
+| bip_39_word_new_line_11 | symptom
 trick
 depend
 aspect
@@ -66,7 +66,7 @@ donor
 silly
 finger
 sad |  
-| bip_39_word_new_line12 | symptom
+| bip_39_word_new_line_12 | symptom
 trick
 depend
 aspect
@@ -78,34 +78,34 @@ silly
 finger
 sad
 among |  
-| bip_39_word_new_line2 | symptom
+| bip_39_word_new_line_2 | symptom
 trick |  
-| bip_39_word_new_line3 | symptom
+| bip_39_word_new_line_3 | symptom
 trick
 depend |  
-| bip_39_word_new_line4 | symptom
+| bip_39_word_new_line_4 | symptom
 trick
 depend
 aspect |  
-| bip_39_word_new_line5 | symptom
+| bip_39_word_new_line_5 | symptom
 trick
 depend
 aspect
 rug |  
-| bip_39_word_new_line6 | symptom
+| bip_39_word_new_line_6 | symptom
 trick
 depend
 aspect
 rug
 cave |  
-| bip_39_word_new_line7 | symptom
+| bip_39_word_new_line_7 | symptom
 trick
 depend
 aspect
 rug
 cave
 claim |  
-| bip_39_word_new_line8 | symptom
+| bip_39_word_new_line_8 | symptom
 trick
 depend
 aspect
@@ -113,7 +113,7 @@ rug
 cave
 claim
 donor |  
-| bip_39_word_new_line9 | symptom
+| bip_39_word_new_line_9 | symptom
 trick
 depend
 aspect

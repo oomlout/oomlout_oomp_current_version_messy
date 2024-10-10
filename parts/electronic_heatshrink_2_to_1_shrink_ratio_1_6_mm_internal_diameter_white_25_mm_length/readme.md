@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | lucky |  
-| bip_39_word_new_br10 | lucky<br>eight<br>pole<br>arm<br>clay<br>enter<br>please<br>please<br>outside<br>hen |  
-| bip_39_word_new_br11 | lucky<br>eight<br>pole<br>arm<br>clay<br>enter<br>please<br>please<br>outside<br>hen<br>guilt |  
-| bip_39_word_new_br12 | lucky<br>eight<br>pole<br>arm<br>clay<br>enter<br>please<br>please<br>outside<br>hen<br>guilt<br>access |  
-| bip_39_word_new_br2 | lucky<br>eight |  
-| bip_39_word_new_br3 | lucky<br>eight<br>pole |  
-| bip_39_word_new_br4 | lucky<br>eight<br>pole<br>arm |  
-| bip_39_word_new_br5 | lucky<br>eight<br>pole<br>arm<br>clay |  
-| bip_39_word_new_br6 | lucky<br>eight<br>pole<br>arm<br>clay<br>enter |  
-| bip_39_word_new_br7 | lucky<br>eight<br>pole<br>arm<br>clay<br>enter<br>please |  
-| bip_39_word_new_br8 | lucky<br>eight<br>pole<br>arm<br>clay<br>enter<br>please<br>please |  
-| bip_39_word_new_br9 | lucky<br>eight<br>pole<br>arm<br>clay<br>enter<br>please<br>please<br>outside |  
-| bip_39_word_new_line1 | lucky |  
-| bip_39_word_new_line10 | lucky
+| bip_39_word_new_br_1 | lucky |  
+| bip_39_word_new_br_10 | lucky<br>eight<br>pole<br>arm<br>clay<br>enter<br>please<br>please<br>outside<br>hen |  
+| bip_39_word_new_br_11 | lucky<br>eight<br>pole<br>arm<br>clay<br>enter<br>please<br>please<br>outside<br>hen<br>guilt |  
+| bip_39_word_new_br_12 | lucky<br>eight<br>pole<br>arm<br>clay<br>enter<br>please<br>please<br>outside<br>hen<br>guilt<br>access |  
+| bip_39_word_new_br_2 | lucky<br>eight |  
+| bip_39_word_new_br_3 | lucky<br>eight<br>pole |  
+| bip_39_word_new_br_4 | lucky<br>eight<br>pole<br>arm |  
+| bip_39_word_new_br_5 | lucky<br>eight<br>pole<br>arm<br>clay |  
+| bip_39_word_new_br_6 | lucky<br>eight<br>pole<br>arm<br>clay<br>enter |  
+| bip_39_word_new_br_7 | lucky<br>eight<br>pole<br>arm<br>clay<br>enter<br>please |  
+| bip_39_word_new_br_8 | lucky<br>eight<br>pole<br>arm<br>clay<br>enter<br>please<br>please |  
+| bip_39_word_new_br_9 | lucky<br>eight<br>pole<br>arm<br>clay<br>enter<br>please<br>please<br>outside |  
+| bip_39_word_new_line_1 | lucky |  
+| bip_39_word_new_line_10 | lucky
 eight
 pole
 arm
@@ -55,7 +55,7 @@ please
 please
 outside
 hen |  
-| bip_39_word_new_line11 | lucky
+| bip_39_word_new_line_11 | lucky
 eight
 pole
 arm
@@ -66,7 +66,7 @@ please
 outside
 hen
 guilt |  
-| bip_39_word_new_line12 | lucky
+| bip_39_word_new_line_12 | lucky
 eight
 pole
 arm
@@ -78,34 +78,34 @@ outside
 hen
 guilt
 access |  
-| bip_39_word_new_line2 | lucky
+| bip_39_word_new_line_2 | lucky
 eight |  
-| bip_39_word_new_line3 | lucky
+| bip_39_word_new_line_3 | lucky
 eight
 pole |  
-| bip_39_word_new_line4 | lucky
+| bip_39_word_new_line_4 | lucky
 eight
 pole
 arm |  
-| bip_39_word_new_line5 | lucky
+| bip_39_word_new_line_5 | lucky
 eight
 pole
 arm
 clay |  
-| bip_39_word_new_line6 | lucky
+| bip_39_word_new_line_6 | lucky
 eight
 pole
 arm
 clay
 enter |  
-| bip_39_word_new_line7 | lucky
+| bip_39_word_new_line_7 | lucky
 eight
 pole
 arm
 clay
 enter
 please |  
-| bip_39_word_new_line8 | lucky
+| bip_39_word_new_line_8 | lucky
 eight
 pole
 arm
@@ -113,7 +113,7 @@ clay
 enter
 please
 please |  
-| bip_39_word_new_line9 | lucky
+| bip_39_word_new_line_9 | lucky
 eight
 pole
 arm

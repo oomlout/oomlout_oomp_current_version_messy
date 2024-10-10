@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | divide |  
-| bip_39_word_new_br10 | divide<br>endorse<br>crunch<br>perfect<br>castle<br>oak<br>south<br>side<br>message<br>desk |  
-| bip_39_word_new_br11 | divide<br>endorse<br>crunch<br>perfect<br>castle<br>oak<br>south<br>side<br>message<br>desk<br>loud |  
-| bip_39_word_new_br12 | divide<br>endorse<br>crunch<br>perfect<br>castle<br>oak<br>south<br>side<br>message<br>desk<br>loud<br>aunt |  
-| bip_39_word_new_br2 | divide<br>endorse |  
-| bip_39_word_new_br3 | divide<br>endorse<br>crunch |  
-| bip_39_word_new_br4 | divide<br>endorse<br>crunch<br>perfect |  
-| bip_39_word_new_br5 | divide<br>endorse<br>crunch<br>perfect<br>castle |  
-| bip_39_word_new_br6 | divide<br>endorse<br>crunch<br>perfect<br>castle<br>oak |  
-| bip_39_word_new_br7 | divide<br>endorse<br>crunch<br>perfect<br>castle<br>oak<br>south |  
-| bip_39_word_new_br8 | divide<br>endorse<br>crunch<br>perfect<br>castle<br>oak<br>south<br>side |  
-| bip_39_word_new_br9 | divide<br>endorse<br>crunch<br>perfect<br>castle<br>oak<br>south<br>side<br>message |  
-| bip_39_word_new_line1 | divide |  
-| bip_39_word_new_line10 | divide
+| bip_39_word_new_br_1 | divide |  
+| bip_39_word_new_br_10 | divide<br>endorse<br>crunch<br>perfect<br>castle<br>oak<br>south<br>side<br>message<br>desk |  
+| bip_39_word_new_br_11 | divide<br>endorse<br>crunch<br>perfect<br>castle<br>oak<br>south<br>side<br>message<br>desk<br>loud |  
+| bip_39_word_new_br_12 | divide<br>endorse<br>crunch<br>perfect<br>castle<br>oak<br>south<br>side<br>message<br>desk<br>loud<br>aunt |  
+| bip_39_word_new_br_2 | divide<br>endorse |  
+| bip_39_word_new_br_3 | divide<br>endorse<br>crunch |  
+| bip_39_word_new_br_4 | divide<br>endorse<br>crunch<br>perfect |  
+| bip_39_word_new_br_5 | divide<br>endorse<br>crunch<br>perfect<br>castle |  
+| bip_39_word_new_br_6 | divide<br>endorse<br>crunch<br>perfect<br>castle<br>oak |  
+| bip_39_word_new_br_7 | divide<br>endorse<br>crunch<br>perfect<br>castle<br>oak<br>south |  
+| bip_39_word_new_br_8 | divide<br>endorse<br>crunch<br>perfect<br>castle<br>oak<br>south<br>side |  
+| bip_39_word_new_br_9 | divide<br>endorse<br>crunch<br>perfect<br>castle<br>oak<br>south<br>side<br>message |  
+| bip_39_word_new_line_1 | divide |  
+| bip_39_word_new_line_10 | divide
 endorse
 crunch
 perfect
@@ -55,7 +55,7 @@ south
 side
 message
 desk |  
-| bip_39_word_new_line11 | divide
+| bip_39_word_new_line_11 | divide
 endorse
 crunch
 perfect
@@ -66,7 +66,7 @@ side
 message
 desk
 loud |  
-| bip_39_word_new_line12 | divide
+| bip_39_word_new_line_12 | divide
 endorse
 crunch
 perfect
@@ -78,34 +78,34 @@ message
 desk
 loud
 aunt |  
-| bip_39_word_new_line2 | divide
+| bip_39_word_new_line_2 | divide
 endorse |  
-| bip_39_word_new_line3 | divide
+| bip_39_word_new_line_3 | divide
 endorse
 crunch |  
-| bip_39_word_new_line4 | divide
+| bip_39_word_new_line_4 | divide
 endorse
 crunch
 perfect |  
-| bip_39_word_new_line5 | divide
+| bip_39_word_new_line_5 | divide
 endorse
 crunch
 perfect
 castle |  
-| bip_39_word_new_line6 | divide
+| bip_39_word_new_line_6 | divide
 endorse
 crunch
 perfect
 castle
 oak |  
-| bip_39_word_new_line7 | divide
+| bip_39_word_new_line_7 | divide
 endorse
 crunch
 perfect
 castle
 oak
 south |  
-| bip_39_word_new_line8 | divide
+| bip_39_word_new_line_8 | divide
 endorse
 crunch
 perfect
@@ -113,7 +113,7 @@ castle
 oak
 south
 side |  
-| bip_39_word_new_line9 | divide
+| bip_39_word_new_line_9 | divide
 endorse
 crunch
 perfect

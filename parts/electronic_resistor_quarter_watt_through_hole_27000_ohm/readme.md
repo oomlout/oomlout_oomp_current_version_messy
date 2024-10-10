@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pact |  
-| bip_39_word_new_br10 | pact<br>noble<br>possible<br>maximum<br>there<br>elder<br>genius<br>uncover<br>private<br>flavor |  
-| bip_39_word_new_br11 | pact<br>noble<br>possible<br>maximum<br>there<br>elder<br>genius<br>uncover<br>private<br>flavor<br>come |  
-| bip_39_word_new_br12 | pact<br>noble<br>possible<br>maximum<br>there<br>elder<br>genius<br>uncover<br>private<br>flavor<br>come<br>atom |  
-| bip_39_word_new_br2 | pact<br>noble |  
-| bip_39_word_new_br3 | pact<br>noble<br>possible |  
-| bip_39_word_new_br4 | pact<br>noble<br>possible<br>maximum |  
-| bip_39_word_new_br5 | pact<br>noble<br>possible<br>maximum<br>there |  
-| bip_39_word_new_br6 | pact<br>noble<br>possible<br>maximum<br>there<br>elder |  
-| bip_39_word_new_br7 | pact<br>noble<br>possible<br>maximum<br>there<br>elder<br>genius |  
-| bip_39_word_new_br8 | pact<br>noble<br>possible<br>maximum<br>there<br>elder<br>genius<br>uncover |  
-| bip_39_word_new_br9 | pact<br>noble<br>possible<br>maximum<br>there<br>elder<br>genius<br>uncover<br>private |  
-| bip_39_word_new_line1 | pact |  
-| bip_39_word_new_line10 | pact
+| bip_39_word_new_br_1 | pact |  
+| bip_39_word_new_br_10 | pact<br>noble<br>possible<br>maximum<br>there<br>elder<br>genius<br>uncover<br>private<br>flavor |  
+| bip_39_word_new_br_11 | pact<br>noble<br>possible<br>maximum<br>there<br>elder<br>genius<br>uncover<br>private<br>flavor<br>come |  
+| bip_39_word_new_br_12 | pact<br>noble<br>possible<br>maximum<br>there<br>elder<br>genius<br>uncover<br>private<br>flavor<br>come<br>atom |  
+| bip_39_word_new_br_2 | pact<br>noble |  
+| bip_39_word_new_br_3 | pact<br>noble<br>possible |  
+| bip_39_word_new_br_4 | pact<br>noble<br>possible<br>maximum |  
+| bip_39_word_new_br_5 | pact<br>noble<br>possible<br>maximum<br>there |  
+| bip_39_word_new_br_6 | pact<br>noble<br>possible<br>maximum<br>there<br>elder |  
+| bip_39_word_new_br_7 | pact<br>noble<br>possible<br>maximum<br>there<br>elder<br>genius |  
+| bip_39_word_new_br_8 | pact<br>noble<br>possible<br>maximum<br>there<br>elder<br>genius<br>uncover |  
+| bip_39_word_new_br_9 | pact<br>noble<br>possible<br>maximum<br>there<br>elder<br>genius<br>uncover<br>private |  
+| bip_39_word_new_line_1 | pact |  
+| bip_39_word_new_line_10 | pact
 noble
 possible
 maximum
@@ -55,7 +55,7 @@ genius
 uncover
 private
 flavor |  
-| bip_39_word_new_line11 | pact
+| bip_39_word_new_line_11 | pact
 noble
 possible
 maximum
@@ -66,7 +66,7 @@ uncover
 private
 flavor
 come |  
-| bip_39_word_new_line12 | pact
+| bip_39_word_new_line_12 | pact
 noble
 possible
 maximum
@@ -78,34 +78,34 @@ private
 flavor
 come
 atom |  
-| bip_39_word_new_line2 | pact
+| bip_39_word_new_line_2 | pact
 noble |  
-| bip_39_word_new_line3 | pact
+| bip_39_word_new_line_3 | pact
 noble
 possible |  
-| bip_39_word_new_line4 | pact
+| bip_39_word_new_line_4 | pact
 noble
 possible
 maximum |  
-| bip_39_word_new_line5 | pact
+| bip_39_word_new_line_5 | pact
 noble
 possible
 maximum
 there |  
-| bip_39_word_new_line6 | pact
+| bip_39_word_new_line_6 | pact
 noble
 possible
 maximum
 there
 elder |  
-| bip_39_word_new_line7 | pact
+| bip_39_word_new_line_7 | pact
 noble
 possible
 maximum
 there
 elder
 genius |  
-| bip_39_word_new_line8 | pact
+| bip_39_word_new_line_8 | pact
 noble
 possible
 maximum
@@ -113,7 +113,7 @@ there
 elder
 genius
 uncover |  
-| bip_39_word_new_line9 | pact
+| bip_39_word_new_line_9 | pact
 noble
 possible
 maximum

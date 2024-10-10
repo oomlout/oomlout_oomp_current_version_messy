@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | miss |  
-| bip_39_word_new_br10 | miss<br>hawk<br>husband<br>barely<br>icon<br>rapid<br>nephew<br>trend<br>pottery<br>athlete |  
-| bip_39_word_new_br11 | miss<br>hawk<br>husband<br>barely<br>icon<br>rapid<br>nephew<br>trend<br>pottery<br>athlete<br>amount |  
-| bip_39_word_new_br12 | miss<br>hawk<br>husband<br>barely<br>icon<br>rapid<br>nephew<br>trend<br>pottery<br>athlete<br>amount<br>arm |  
-| bip_39_word_new_br2 | miss<br>hawk |  
-| bip_39_word_new_br3 | miss<br>hawk<br>husband |  
-| bip_39_word_new_br4 | miss<br>hawk<br>husband<br>barely |  
-| bip_39_word_new_br5 | miss<br>hawk<br>husband<br>barely<br>icon |  
-| bip_39_word_new_br6 | miss<br>hawk<br>husband<br>barely<br>icon<br>rapid |  
-| bip_39_word_new_br7 | miss<br>hawk<br>husband<br>barely<br>icon<br>rapid<br>nephew |  
-| bip_39_word_new_br8 | miss<br>hawk<br>husband<br>barely<br>icon<br>rapid<br>nephew<br>trend |  
-| bip_39_word_new_br9 | miss<br>hawk<br>husband<br>barely<br>icon<br>rapid<br>nephew<br>trend<br>pottery |  
-| bip_39_word_new_line1 | miss |  
-| bip_39_word_new_line10 | miss
+| bip_39_word_new_br_1 | miss |  
+| bip_39_word_new_br_10 | miss<br>hawk<br>husband<br>barely<br>icon<br>rapid<br>nephew<br>trend<br>pottery<br>athlete |  
+| bip_39_word_new_br_11 | miss<br>hawk<br>husband<br>barely<br>icon<br>rapid<br>nephew<br>trend<br>pottery<br>athlete<br>amount |  
+| bip_39_word_new_br_12 | miss<br>hawk<br>husband<br>barely<br>icon<br>rapid<br>nephew<br>trend<br>pottery<br>athlete<br>amount<br>arm |  
+| bip_39_word_new_br_2 | miss<br>hawk |  
+| bip_39_word_new_br_3 | miss<br>hawk<br>husband |  
+| bip_39_word_new_br_4 | miss<br>hawk<br>husband<br>barely |  
+| bip_39_word_new_br_5 | miss<br>hawk<br>husband<br>barely<br>icon |  
+| bip_39_word_new_br_6 | miss<br>hawk<br>husband<br>barely<br>icon<br>rapid |  
+| bip_39_word_new_br_7 | miss<br>hawk<br>husband<br>barely<br>icon<br>rapid<br>nephew |  
+| bip_39_word_new_br_8 | miss<br>hawk<br>husband<br>barely<br>icon<br>rapid<br>nephew<br>trend |  
+| bip_39_word_new_br_9 | miss<br>hawk<br>husband<br>barely<br>icon<br>rapid<br>nephew<br>trend<br>pottery |  
+| bip_39_word_new_line_1 | miss |  
+| bip_39_word_new_line_10 | miss
 hawk
 husband
 barely
@@ -55,7 +55,7 @@ nephew
 trend
 pottery
 athlete |  
-| bip_39_word_new_line11 | miss
+| bip_39_word_new_line_11 | miss
 hawk
 husband
 barely
@@ -66,7 +66,7 @@ trend
 pottery
 athlete
 amount |  
-| bip_39_word_new_line12 | miss
+| bip_39_word_new_line_12 | miss
 hawk
 husband
 barely
@@ -78,34 +78,34 @@ pottery
 athlete
 amount
 arm |  
-| bip_39_word_new_line2 | miss
+| bip_39_word_new_line_2 | miss
 hawk |  
-| bip_39_word_new_line3 | miss
+| bip_39_word_new_line_3 | miss
 hawk
 husband |  
-| bip_39_word_new_line4 | miss
+| bip_39_word_new_line_4 | miss
 hawk
 husband
 barely |  
-| bip_39_word_new_line5 | miss
+| bip_39_word_new_line_5 | miss
 hawk
 husband
 barely
 icon |  
-| bip_39_word_new_line6 | miss
+| bip_39_word_new_line_6 | miss
 hawk
 husband
 barely
 icon
 rapid |  
-| bip_39_word_new_line7 | miss
+| bip_39_word_new_line_7 | miss
 hawk
 husband
 barely
 icon
 rapid
 nephew |  
-| bip_39_word_new_line8 | miss
+| bip_39_word_new_line_8 | miss
 hawk
 husband
 barely
@@ -113,7 +113,7 @@ icon
 rapid
 nephew
 trend |  
-| bip_39_word_new_line9 | miss
+| bip_39_word_new_line_9 | miss
 hawk
 husband
 barely

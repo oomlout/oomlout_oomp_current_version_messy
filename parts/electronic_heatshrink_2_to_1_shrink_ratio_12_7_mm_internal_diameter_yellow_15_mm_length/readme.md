@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | transfer |  
-| bip_39_word_new_br10 | transfer<br>invest<br>party<br>need<br>oyster<br>whale<br>drop<br>balance<br>nurse<br>cliff |  
-| bip_39_word_new_br11 | transfer<br>invest<br>party<br>need<br>oyster<br>whale<br>drop<br>balance<br>nurse<br>cliff<br>double |  
-| bip_39_word_new_br12 | transfer<br>invest<br>party<br>need<br>oyster<br>whale<br>drop<br>balance<br>nurse<br>cliff<br>double<br>art |  
-| bip_39_word_new_br2 | transfer<br>invest |  
-| bip_39_word_new_br3 | transfer<br>invest<br>party |  
-| bip_39_word_new_br4 | transfer<br>invest<br>party<br>need |  
-| bip_39_word_new_br5 | transfer<br>invest<br>party<br>need<br>oyster |  
-| bip_39_word_new_br6 | transfer<br>invest<br>party<br>need<br>oyster<br>whale |  
-| bip_39_word_new_br7 | transfer<br>invest<br>party<br>need<br>oyster<br>whale<br>drop |  
-| bip_39_word_new_br8 | transfer<br>invest<br>party<br>need<br>oyster<br>whale<br>drop<br>balance |  
-| bip_39_word_new_br9 | transfer<br>invest<br>party<br>need<br>oyster<br>whale<br>drop<br>balance<br>nurse |  
-| bip_39_word_new_line1 | transfer |  
-| bip_39_word_new_line10 | transfer
+| bip_39_word_new_br_1 | transfer |  
+| bip_39_word_new_br_10 | transfer<br>invest<br>party<br>need<br>oyster<br>whale<br>drop<br>balance<br>nurse<br>cliff |  
+| bip_39_word_new_br_11 | transfer<br>invest<br>party<br>need<br>oyster<br>whale<br>drop<br>balance<br>nurse<br>cliff<br>double |  
+| bip_39_word_new_br_12 | transfer<br>invest<br>party<br>need<br>oyster<br>whale<br>drop<br>balance<br>nurse<br>cliff<br>double<br>art |  
+| bip_39_word_new_br_2 | transfer<br>invest |  
+| bip_39_word_new_br_3 | transfer<br>invest<br>party |  
+| bip_39_word_new_br_4 | transfer<br>invest<br>party<br>need |  
+| bip_39_word_new_br_5 | transfer<br>invest<br>party<br>need<br>oyster |  
+| bip_39_word_new_br_6 | transfer<br>invest<br>party<br>need<br>oyster<br>whale |  
+| bip_39_word_new_br_7 | transfer<br>invest<br>party<br>need<br>oyster<br>whale<br>drop |  
+| bip_39_word_new_br_8 | transfer<br>invest<br>party<br>need<br>oyster<br>whale<br>drop<br>balance |  
+| bip_39_word_new_br_9 | transfer<br>invest<br>party<br>need<br>oyster<br>whale<br>drop<br>balance<br>nurse |  
+| bip_39_word_new_line_1 | transfer |  
+| bip_39_word_new_line_10 | transfer
 invest
 party
 need
@@ -55,7 +55,7 @@ drop
 balance
 nurse
 cliff |  
-| bip_39_word_new_line11 | transfer
+| bip_39_word_new_line_11 | transfer
 invest
 party
 need
@@ -66,7 +66,7 @@ balance
 nurse
 cliff
 double |  
-| bip_39_word_new_line12 | transfer
+| bip_39_word_new_line_12 | transfer
 invest
 party
 need
@@ -78,34 +78,34 @@ nurse
 cliff
 double
 art |  
-| bip_39_word_new_line2 | transfer
+| bip_39_word_new_line_2 | transfer
 invest |  
-| bip_39_word_new_line3 | transfer
+| bip_39_word_new_line_3 | transfer
 invest
 party |  
-| bip_39_word_new_line4 | transfer
+| bip_39_word_new_line_4 | transfer
 invest
 party
 need |  
-| bip_39_word_new_line5 | transfer
+| bip_39_word_new_line_5 | transfer
 invest
 party
 need
 oyster |  
-| bip_39_word_new_line6 | transfer
+| bip_39_word_new_line_6 | transfer
 invest
 party
 need
 oyster
 whale |  
-| bip_39_word_new_line7 | transfer
+| bip_39_word_new_line_7 | transfer
 invest
 party
 need
 oyster
 whale
 drop |  
-| bip_39_word_new_line8 | transfer
+| bip_39_word_new_line_8 | transfer
 invest
 party
 need
@@ -113,7 +113,7 @@ oyster
 whale
 drop
 balance |  
-| bip_39_word_new_line9 | transfer
+| bip_39_word_new_line_9 | transfer
 invest
 party
 need

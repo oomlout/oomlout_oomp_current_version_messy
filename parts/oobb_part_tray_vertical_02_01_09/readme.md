@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | soft |  
-| bip_39_word_new_br10 | soft<br>museum<br>clean<br>spirit<br>junk<br>walnut<br>brother<br>visit<br>milk<br>oak |  
-| bip_39_word_new_br11 | soft<br>museum<br>clean<br>spirit<br>junk<br>walnut<br>brother<br>visit<br>milk<br>oak<br>plunge |  
-| bip_39_word_new_br12 | soft<br>museum<br>clean<br>spirit<br>junk<br>walnut<br>brother<br>visit<br>milk<br>oak<br>plunge<br>armor |  
-| bip_39_word_new_br2 | soft<br>museum |  
-| bip_39_word_new_br3 | soft<br>museum<br>clean |  
-| bip_39_word_new_br4 | soft<br>museum<br>clean<br>spirit |  
-| bip_39_word_new_br5 | soft<br>museum<br>clean<br>spirit<br>junk |  
-| bip_39_word_new_br6 | soft<br>museum<br>clean<br>spirit<br>junk<br>walnut |  
-| bip_39_word_new_br7 | soft<br>museum<br>clean<br>spirit<br>junk<br>walnut<br>brother |  
-| bip_39_word_new_br8 | soft<br>museum<br>clean<br>spirit<br>junk<br>walnut<br>brother<br>visit |  
-| bip_39_word_new_br9 | soft<br>museum<br>clean<br>spirit<br>junk<br>walnut<br>brother<br>visit<br>milk |  
-| bip_39_word_new_line1 | soft |  
-| bip_39_word_new_line10 | soft
+| bip_39_word_new_br_1 | soft |  
+| bip_39_word_new_br_10 | soft<br>museum<br>clean<br>spirit<br>junk<br>walnut<br>brother<br>visit<br>milk<br>oak |  
+| bip_39_word_new_br_11 | soft<br>museum<br>clean<br>spirit<br>junk<br>walnut<br>brother<br>visit<br>milk<br>oak<br>plunge |  
+| bip_39_word_new_br_12 | soft<br>museum<br>clean<br>spirit<br>junk<br>walnut<br>brother<br>visit<br>milk<br>oak<br>plunge<br>armor |  
+| bip_39_word_new_br_2 | soft<br>museum |  
+| bip_39_word_new_br_3 | soft<br>museum<br>clean |  
+| bip_39_word_new_br_4 | soft<br>museum<br>clean<br>spirit |  
+| bip_39_word_new_br_5 | soft<br>museum<br>clean<br>spirit<br>junk |  
+| bip_39_word_new_br_6 | soft<br>museum<br>clean<br>spirit<br>junk<br>walnut |  
+| bip_39_word_new_br_7 | soft<br>museum<br>clean<br>spirit<br>junk<br>walnut<br>brother |  
+| bip_39_word_new_br_8 | soft<br>museum<br>clean<br>spirit<br>junk<br>walnut<br>brother<br>visit |  
+| bip_39_word_new_br_9 | soft<br>museum<br>clean<br>spirit<br>junk<br>walnut<br>brother<br>visit<br>milk |  
+| bip_39_word_new_line_1 | soft |  
+| bip_39_word_new_line_10 | soft
 museum
 clean
 spirit
@@ -55,7 +55,7 @@ brother
 visit
 milk
 oak |  
-| bip_39_word_new_line11 | soft
+| bip_39_word_new_line_11 | soft
 museum
 clean
 spirit
@@ -66,7 +66,7 @@ visit
 milk
 oak
 plunge |  
-| bip_39_word_new_line12 | soft
+| bip_39_word_new_line_12 | soft
 museum
 clean
 spirit
@@ -78,34 +78,34 @@ milk
 oak
 plunge
 armor |  
-| bip_39_word_new_line2 | soft
+| bip_39_word_new_line_2 | soft
 museum |  
-| bip_39_word_new_line3 | soft
+| bip_39_word_new_line_3 | soft
 museum
 clean |  
-| bip_39_word_new_line4 | soft
+| bip_39_word_new_line_4 | soft
 museum
 clean
 spirit |  
-| bip_39_word_new_line5 | soft
+| bip_39_word_new_line_5 | soft
 museum
 clean
 spirit
 junk |  
-| bip_39_word_new_line6 | soft
+| bip_39_word_new_line_6 | soft
 museum
 clean
 spirit
 junk
 walnut |  
-| bip_39_word_new_line7 | soft
+| bip_39_word_new_line_7 | soft
 museum
 clean
 spirit
 junk
 walnut
 brother |  
-| bip_39_word_new_line8 | soft
+| bip_39_word_new_line_8 | soft
 museum
 clean
 spirit
@@ -113,7 +113,7 @@ junk
 walnut
 brother
 visit |  
-| bip_39_word_new_line9 | soft
+| bip_39_word_new_line_9 | soft
 museum
 clean
 spirit

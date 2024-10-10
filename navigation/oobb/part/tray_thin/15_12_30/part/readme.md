@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | chair |  
-| bip_39_word_new_br10 | chair<br>ski<br>admit<br>light<br>unhappy<br>siege<br>play<br>happy<br>open<br>crush |  
-| bip_39_word_new_br11 | chair<br>ski<br>admit<br>light<br>unhappy<br>siege<br>play<br>happy<br>open<br>crush<br>excess |  
-| bip_39_word_new_br12 | chair<br>ski<br>admit<br>light<br>unhappy<br>siege<br>play<br>happy<br>open<br>crush<br>excess<br>artefact |  
-| bip_39_word_new_br2 | chair<br>ski |  
-| bip_39_word_new_br3 | chair<br>ski<br>admit |  
-| bip_39_word_new_br4 | chair<br>ski<br>admit<br>light |  
-| bip_39_word_new_br5 | chair<br>ski<br>admit<br>light<br>unhappy |  
-| bip_39_word_new_br6 | chair<br>ski<br>admit<br>light<br>unhappy<br>siege |  
-| bip_39_word_new_br7 | chair<br>ski<br>admit<br>light<br>unhappy<br>siege<br>play |  
-| bip_39_word_new_br8 | chair<br>ski<br>admit<br>light<br>unhappy<br>siege<br>play<br>happy |  
-| bip_39_word_new_br9 | chair<br>ski<br>admit<br>light<br>unhappy<br>siege<br>play<br>happy<br>open |  
-| bip_39_word_new_line1 | chair |  
-| bip_39_word_new_line10 | chair
+| bip_39_word_new_br_1 | chair |  
+| bip_39_word_new_br_10 | chair<br>ski<br>admit<br>light<br>unhappy<br>siege<br>play<br>happy<br>open<br>crush |  
+| bip_39_word_new_br_11 | chair<br>ski<br>admit<br>light<br>unhappy<br>siege<br>play<br>happy<br>open<br>crush<br>excess |  
+| bip_39_word_new_br_12 | chair<br>ski<br>admit<br>light<br>unhappy<br>siege<br>play<br>happy<br>open<br>crush<br>excess<br>artefact |  
+| bip_39_word_new_br_2 | chair<br>ski |  
+| bip_39_word_new_br_3 | chair<br>ski<br>admit |  
+| bip_39_word_new_br_4 | chair<br>ski<br>admit<br>light |  
+| bip_39_word_new_br_5 | chair<br>ski<br>admit<br>light<br>unhappy |  
+| bip_39_word_new_br_6 | chair<br>ski<br>admit<br>light<br>unhappy<br>siege |  
+| bip_39_word_new_br_7 | chair<br>ski<br>admit<br>light<br>unhappy<br>siege<br>play |  
+| bip_39_word_new_br_8 | chair<br>ski<br>admit<br>light<br>unhappy<br>siege<br>play<br>happy |  
+| bip_39_word_new_br_9 | chair<br>ski<br>admit<br>light<br>unhappy<br>siege<br>play<br>happy<br>open |  
+| bip_39_word_new_line_1 | chair |  
+| bip_39_word_new_line_10 | chair
 ski
 admit
 light
@@ -55,7 +55,7 @@ play
 happy
 open
 crush |  
-| bip_39_word_new_line11 | chair
+| bip_39_word_new_line_11 | chair
 ski
 admit
 light
@@ -66,7 +66,7 @@ happy
 open
 crush
 excess |  
-| bip_39_word_new_line12 | chair
+| bip_39_word_new_line_12 | chair
 ski
 admit
 light
@@ -78,34 +78,34 @@ open
 crush
 excess
 artefact |  
-| bip_39_word_new_line2 | chair
+| bip_39_word_new_line_2 | chair
 ski |  
-| bip_39_word_new_line3 | chair
+| bip_39_word_new_line_3 | chair
 ski
 admit |  
-| bip_39_word_new_line4 | chair
+| bip_39_word_new_line_4 | chair
 ski
 admit
 light |  
-| bip_39_word_new_line5 | chair
+| bip_39_word_new_line_5 | chair
 ski
 admit
 light
 unhappy |  
-| bip_39_word_new_line6 | chair
+| bip_39_word_new_line_6 | chair
 ski
 admit
 light
 unhappy
 siege |  
-| bip_39_word_new_line7 | chair
+| bip_39_word_new_line_7 | chair
 ski
 admit
 light
 unhappy
 siege
 play |  
-| bip_39_word_new_line8 | chair
+| bip_39_word_new_line_8 | chair
 ski
 admit
 light
@@ -113,7 +113,7 @@ unhappy
 siege
 play
 happy |  
-| bip_39_word_new_line9 | chair
+| bip_39_word_new_line_9 | chair
 ski
 admit
 light

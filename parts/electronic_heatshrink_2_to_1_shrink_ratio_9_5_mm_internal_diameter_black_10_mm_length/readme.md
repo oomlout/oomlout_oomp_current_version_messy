@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cream |  
-| bip_39_word_new_br10 | cream<br>boil<br>wealth<br>frost<br>salute<br>enough<br>cause<br>laugh<br>misery<br>switch |  
-| bip_39_word_new_br11 | cream<br>boil<br>wealth<br>frost<br>salute<br>enough<br>cause<br>laugh<br>misery<br>switch<br>powder |  
-| bip_39_word_new_br12 | cream<br>boil<br>wealth<br>frost<br>salute<br>enough<br>cause<br>laugh<br>misery<br>switch<br>powder<br>arctic |  
-| bip_39_word_new_br2 | cream<br>boil |  
-| bip_39_word_new_br3 | cream<br>boil<br>wealth |  
-| bip_39_word_new_br4 | cream<br>boil<br>wealth<br>frost |  
-| bip_39_word_new_br5 | cream<br>boil<br>wealth<br>frost<br>salute |  
-| bip_39_word_new_br6 | cream<br>boil<br>wealth<br>frost<br>salute<br>enough |  
-| bip_39_word_new_br7 | cream<br>boil<br>wealth<br>frost<br>salute<br>enough<br>cause |  
-| bip_39_word_new_br8 | cream<br>boil<br>wealth<br>frost<br>salute<br>enough<br>cause<br>laugh |  
-| bip_39_word_new_br9 | cream<br>boil<br>wealth<br>frost<br>salute<br>enough<br>cause<br>laugh<br>misery |  
-| bip_39_word_new_line1 | cream |  
-| bip_39_word_new_line10 | cream
+| bip_39_word_new_br_1 | cream |  
+| bip_39_word_new_br_10 | cream<br>boil<br>wealth<br>frost<br>salute<br>enough<br>cause<br>laugh<br>misery<br>switch |  
+| bip_39_word_new_br_11 | cream<br>boil<br>wealth<br>frost<br>salute<br>enough<br>cause<br>laugh<br>misery<br>switch<br>powder |  
+| bip_39_word_new_br_12 | cream<br>boil<br>wealth<br>frost<br>salute<br>enough<br>cause<br>laugh<br>misery<br>switch<br>powder<br>arctic |  
+| bip_39_word_new_br_2 | cream<br>boil |  
+| bip_39_word_new_br_3 | cream<br>boil<br>wealth |  
+| bip_39_word_new_br_4 | cream<br>boil<br>wealth<br>frost |  
+| bip_39_word_new_br_5 | cream<br>boil<br>wealth<br>frost<br>salute |  
+| bip_39_word_new_br_6 | cream<br>boil<br>wealth<br>frost<br>salute<br>enough |  
+| bip_39_word_new_br_7 | cream<br>boil<br>wealth<br>frost<br>salute<br>enough<br>cause |  
+| bip_39_word_new_br_8 | cream<br>boil<br>wealth<br>frost<br>salute<br>enough<br>cause<br>laugh |  
+| bip_39_word_new_br_9 | cream<br>boil<br>wealth<br>frost<br>salute<br>enough<br>cause<br>laugh<br>misery |  
+| bip_39_word_new_line_1 | cream |  
+| bip_39_word_new_line_10 | cream
 boil
 wealth
 frost
@@ -55,7 +55,7 @@ cause
 laugh
 misery
 switch |  
-| bip_39_word_new_line11 | cream
+| bip_39_word_new_line_11 | cream
 boil
 wealth
 frost
@@ -66,7 +66,7 @@ laugh
 misery
 switch
 powder |  
-| bip_39_word_new_line12 | cream
+| bip_39_word_new_line_12 | cream
 boil
 wealth
 frost
@@ -78,34 +78,34 @@ misery
 switch
 powder
 arctic |  
-| bip_39_word_new_line2 | cream
+| bip_39_word_new_line_2 | cream
 boil |  
-| bip_39_word_new_line3 | cream
+| bip_39_word_new_line_3 | cream
 boil
 wealth |  
-| bip_39_word_new_line4 | cream
+| bip_39_word_new_line_4 | cream
 boil
 wealth
 frost |  
-| bip_39_word_new_line5 | cream
+| bip_39_word_new_line_5 | cream
 boil
 wealth
 frost
 salute |  
-| bip_39_word_new_line6 | cream
+| bip_39_word_new_line_6 | cream
 boil
 wealth
 frost
 salute
 enough |  
-| bip_39_word_new_line7 | cream
+| bip_39_word_new_line_7 | cream
 boil
 wealth
 frost
 salute
 enough
 cause |  
-| bip_39_word_new_line8 | cream
+| bip_39_word_new_line_8 | cream
 boil
 wealth
 frost
@@ -113,7 +113,7 @@ salute
 enough
 cause
 laugh |  
-| bip_39_word_new_line9 | cream
+| bip_39_word_new_line_9 | cream
 boil
 wealth
 frost

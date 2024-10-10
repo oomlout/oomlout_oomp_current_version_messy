@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | endorse |  
-| bip_39_word_new_br10 | endorse<br>indoor<br>salon<br>audit<br>meat<br>give<br>similar<br>gadget<br>dial<br>album |  
-| bip_39_word_new_br11 | endorse<br>indoor<br>salon<br>audit<br>meat<br>give<br>similar<br>gadget<br>dial<br>album<br>swear |  
-| bip_39_word_new_br12 | endorse<br>indoor<br>salon<br>audit<br>meat<br>give<br>similar<br>gadget<br>dial<br>album<br>swear<br>abstract |  
-| bip_39_word_new_br2 | endorse<br>indoor |  
-| bip_39_word_new_br3 | endorse<br>indoor<br>salon |  
-| bip_39_word_new_br4 | endorse<br>indoor<br>salon<br>audit |  
-| bip_39_word_new_br5 | endorse<br>indoor<br>salon<br>audit<br>meat |  
-| bip_39_word_new_br6 | endorse<br>indoor<br>salon<br>audit<br>meat<br>give |  
-| bip_39_word_new_br7 | endorse<br>indoor<br>salon<br>audit<br>meat<br>give<br>similar |  
-| bip_39_word_new_br8 | endorse<br>indoor<br>salon<br>audit<br>meat<br>give<br>similar<br>gadget |  
-| bip_39_word_new_br9 | endorse<br>indoor<br>salon<br>audit<br>meat<br>give<br>similar<br>gadget<br>dial |  
-| bip_39_word_new_line1 | endorse |  
-| bip_39_word_new_line10 | endorse
+| bip_39_word_new_br_1 | endorse |  
+| bip_39_word_new_br_10 | endorse<br>indoor<br>salon<br>audit<br>meat<br>give<br>similar<br>gadget<br>dial<br>album |  
+| bip_39_word_new_br_11 | endorse<br>indoor<br>salon<br>audit<br>meat<br>give<br>similar<br>gadget<br>dial<br>album<br>swear |  
+| bip_39_word_new_br_12 | endorse<br>indoor<br>salon<br>audit<br>meat<br>give<br>similar<br>gadget<br>dial<br>album<br>swear<br>abstract |  
+| bip_39_word_new_br_2 | endorse<br>indoor |  
+| bip_39_word_new_br_3 | endorse<br>indoor<br>salon |  
+| bip_39_word_new_br_4 | endorse<br>indoor<br>salon<br>audit |  
+| bip_39_word_new_br_5 | endorse<br>indoor<br>salon<br>audit<br>meat |  
+| bip_39_word_new_br_6 | endorse<br>indoor<br>salon<br>audit<br>meat<br>give |  
+| bip_39_word_new_br_7 | endorse<br>indoor<br>salon<br>audit<br>meat<br>give<br>similar |  
+| bip_39_word_new_br_8 | endorse<br>indoor<br>salon<br>audit<br>meat<br>give<br>similar<br>gadget |  
+| bip_39_word_new_br_9 | endorse<br>indoor<br>salon<br>audit<br>meat<br>give<br>similar<br>gadget<br>dial |  
+| bip_39_word_new_line_1 | endorse |  
+| bip_39_word_new_line_10 | endorse
 indoor
 salon
 audit
@@ -55,7 +55,7 @@ similar
 gadget
 dial
 album |  
-| bip_39_word_new_line11 | endorse
+| bip_39_word_new_line_11 | endorse
 indoor
 salon
 audit
@@ -66,7 +66,7 @@ gadget
 dial
 album
 swear |  
-| bip_39_word_new_line12 | endorse
+| bip_39_word_new_line_12 | endorse
 indoor
 salon
 audit
@@ -78,34 +78,34 @@ dial
 album
 swear
 abstract |  
-| bip_39_word_new_line2 | endorse
+| bip_39_word_new_line_2 | endorse
 indoor |  
-| bip_39_word_new_line3 | endorse
+| bip_39_word_new_line_3 | endorse
 indoor
 salon |  
-| bip_39_word_new_line4 | endorse
+| bip_39_word_new_line_4 | endorse
 indoor
 salon
 audit |  
-| bip_39_word_new_line5 | endorse
+| bip_39_word_new_line_5 | endorse
 indoor
 salon
 audit
 meat |  
-| bip_39_word_new_line6 | endorse
+| bip_39_word_new_line_6 | endorse
 indoor
 salon
 audit
 meat
 give |  
-| bip_39_word_new_line7 | endorse
+| bip_39_word_new_line_7 | endorse
 indoor
 salon
 audit
 meat
 give
 similar |  
-| bip_39_word_new_line8 | endorse
+| bip_39_word_new_line_8 | endorse
 indoor
 salon
 audit
@@ -113,7 +113,7 @@ meat
 give
 similar
 gadget |  
-| bip_39_word_new_line9 | endorse
+| bip_39_word_new_line_9 | endorse
 indoor
 salon
 audit

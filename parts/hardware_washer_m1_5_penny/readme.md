@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | obtain |  
-| bip_39_word_new_br10 | obtain<br>ball<br>demand<br>napkin<br>climb<br>color<br>hero<br>poem<br>rose<br>hobby |  
-| bip_39_word_new_br11 | obtain<br>ball<br>demand<br>napkin<br>climb<br>color<br>hero<br>poem<br>rose<br>hobby<br>rather |  
-| bip_39_word_new_br12 | obtain<br>ball<br>demand<br>napkin<br>climb<br>color<br>hero<br>poem<br>rose<br>hobby<br>rather<br>asthma |  
-| bip_39_word_new_br2 | obtain<br>ball |  
-| bip_39_word_new_br3 | obtain<br>ball<br>demand |  
-| bip_39_word_new_br4 | obtain<br>ball<br>demand<br>napkin |  
-| bip_39_word_new_br5 | obtain<br>ball<br>demand<br>napkin<br>climb |  
-| bip_39_word_new_br6 | obtain<br>ball<br>demand<br>napkin<br>climb<br>color |  
-| bip_39_word_new_br7 | obtain<br>ball<br>demand<br>napkin<br>climb<br>color<br>hero |  
-| bip_39_word_new_br8 | obtain<br>ball<br>demand<br>napkin<br>climb<br>color<br>hero<br>poem |  
-| bip_39_word_new_br9 | obtain<br>ball<br>demand<br>napkin<br>climb<br>color<br>hero<br>poem<br>rose |  
-| bip_39_word_new_line1 | obtain |  
-| bip_39_word_new_line10 | obtain
+| bip_39_word_new_br_1 | obtain |  
+| bip_39_word_new_br_10 | obtain<br>ball<br>demand<br>napkin<br>climb<br>color<br>hero<br>poem<br>rose<br>hobby |  
+| bip_39_word_new_br_11 | obtain<br>ball<br>demand<br>napkin<br>climb<br>color<br>hero<br>poem<br>rose<br>hobby<br>rather |  
+| bip_39_word_new_br_12 | obtain<br>ball<br>demand<br>napkin<br>climb<br>color<br>hero<br>poem<br>rose<br>hobby<br>rather<br>asthma |  
+| bip_39_word_new_br_2 | obtain<br>ball |  
+| bip_39_word_new_br_3 | obtain<br>ball<br>demand |  
+| bip_39_word_new_br_4 | obtain<br>ball<br>demand<br>napkin |  
+| bip_39_word_new_br_5 | obtain<br>ball<br>demand<br>napkin<br>climb |  
+| bip_39_word_new_br_6 | obtain<br>ball<br>demand<br>napkin<br>climb<br>color |  
+| bip_39_word_new_br_7 | obtain<br>ball<br>demand<br>napkin<br>climb<br>color<br>hero |  
+| bip_39_word_new_br_8 | obtain<br>ball<br>demand<br>napkin<br>climb<br>color<br>hero<br>poem |  
+| bip_39_word_new_br_9 | obtain<br>ball<br>demand<br>napkin<br>climb<br>color<br>hero<br>poem<br>rose |  
+| bip_39_word_new_line_1 | obtain |  
+| bip_39_word_new_line_10 | obtain
 ball
 demand
 napkin
@@ -55,7 +55,7 @@ hero
 poem
 rose
 hobby |  
-| bip_39_word_new_line11 | obtain
+| bip_39_word_new_line_11 | obtain
 ball
 demand
 napkin
@@ -66,7 +66,7 @@ poem
 rose
 hobby
 rather |  
-| bip_39_word_new_line12 | obtain
+| bip_39_word_new_line_12 | obtain
 ball
 demand
 napkin
@@ -78,34 +78,34 @@ rose
 hobby
 rather
 asthma |  
-| bip_39_word_new_line2 | obtain
+| bip_39_word_new_line_2 | obtain
 ball |  
-| bip_39_word_new_line3 | obtain
+| bip_39_word_new_line_3 | obtain
 ball
 demand |  
-| bip_39_word_new_line4 | obtain
+| bip_39_word_new_line_4 | obtain
 ball
 demand
 napkin |  
-| bip_39_word_new_line5 | obtain
+| bip_39_word_new_line_5 | obtain
 ball
 demand
 napkin
 climb |  
-| bip_39_word_new_line6 | obtain
+| bip_39_word_new_line_6 | obtain
 ball
 demand
 napkin
 climb
 color |  
-| bip_39_word_new_line7 | obtain
+| bip_39_word_new_line_7 | obtain
 ball
 demand
 napkin
 climb
 color
 hero |  
-| bip_39_word_new_line8 | obtain
+| bip_39_word_new_line_8 | obtain
 ball
 demand
 napkin
@@ -113,7 +113,7 @@ climb
 color
 hero
 poem |  
-| bip_39_word_new_line9 | obtain
+| bip_39_word_new_line_9 | obtain
 ball
 demand
 napkin

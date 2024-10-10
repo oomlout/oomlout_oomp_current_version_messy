@@ -1,17 +1,17 @@
-bip_39_word_new_br1: best
-bip_39_word_new_br10: best<br>melody<br>property<br>lend<br>youth<br>whale<br>vintage<br>spin<br>gossip<br>brief
-bip_39_word_new_br11: best<br>melody<br>property<br>lend<br>youth<br>whale<br>vintage<br>spin<br>gossip<br>brief<br>tragic
-bip_39_word_new_br12: best<br>melody<br>property<br>lend<br>youth<br>whale<br>vintage<br>spin<br>gossip<br>brief<br>tragic<br>artwork
-bip_39_word_new_br2: best<br>melody
-bip_39_word_new_br3: best<br>melody<br>property
-bip_39_word_new_br4: best<br>melody<br>property<br>lend
-bip_39_word_new_br5: best<br>melody<br>property<br>lend<br>youth
-bip_39_word_new_br6: best<br>melody<br>property<br>lend<br>youth<br>whale
-bip_39_word_new_br7: best<br>melody<br>property<br>lend<br>youth<br>whale<br>vintage
-bip_39_word_new_br8: best<br>melody<br>property<br>lend<br>youth<br>whale<br>vintage<br>spin
-bip_39_word_new_br9: best<br>melody<br>property<br>lend<br>youth<br>whale<br>vintage<br>spin<br>gossip
-bip_39_word_new_line1: best
-bip_39_word_new_line10: 'best
+bip_39_word_new_br_1: best
+bip_39_word_new_br_10: best<br>melody<br>property<br>lend<br>youth<br>whale<br>vintage<br>spin<br>gossip<br>brief
+bip_39_word_new_br_11: best<br>melody<br>property<br>lend<br>youth<br>whale<br>vintage<br>spin<br>gossip<br>brief<br>tragic
+bip_39_word_new_br_12: best<br>melody<br>property<br>lend<br>youth<br>whale<br>vintage<br>spin<br>gossip<br>brief<br>tragic<br>artwork
+bip_39_word_new_br_2: best<br>melody
+bip_39_word_new_br_3: best<br>melody<br>property
+bip_39_word_new_br_4: best<br>melody<br>property<br>lend
+bip_39_word_new_br_5: best<br>melody<br>property<br>lend<br>youth
+bip_39_word_new_br_6: best<br>melody<br>property<br>lend<br>youth<br>whale
+bip_39_word_new_br_7: best<br>melody<br>property<br>lend<br>youth<br>whale<br>vintage
+bip_39_word_new_br_8: best<br>melody<br>property<br>lend<br>youth<br>whale<br>vintage<br>spin
+bip_39_word_new_br_9: best<br>melody<br>property<br>lend<br>youth<br>whale<br>vintage<br>spin<br>gossip
+bip_39_word_new_line_1: best
+bip_39_word_new_line_10: 'best
 
   melody
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'best
   gossip
 
   brief'
-bip_39_word_new_line11: 'best
+bip_39_word_new_line_11: 'best
 
   melody
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'best
   brief
 
   tragic'
-bip_39_word_new_line12: 'best
+bip_39_word_new_line_12: 'best
 
   melody
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'best
   tragic
 
   artwork'
-bip_39_word_new_line2: 'best
+bip_39_word_new_line_2: 'best
 
   melody'
-bip_39_word_new_line3: 'best
+bip_39_word_new_line_3: 'best
 
   melody
 
   property'
-bip_39_word_new_line4: 'best
+bip_39_word_new_line_4: 'best
 
   melody
 
   property
 
   lend'
-bip_39_word_new_line5: 'best
+bip_39_word_new_line_5: 'best
 
   melody
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'best
   lend
 
   youth'
-bip_39_word_new_line6: 'best
+bip_39_word_new_line_6: 'best
 
   melody
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'best
   youth
 
   whale'
-bip_39_word_new_line7: 'best
+bip_39_word_new_line_7: 'best
 
   melody
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'best
   whale
 
   vintage'
-bip_39_word_new_line8: 'best
+bip_39_word_new_line_8: 'best
 
   melody
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'best
   vintage
 
   spin'
-bip_39_word_new_line9: 'best
+bip_39_word_new_line_9: 'best
 
   melody
 

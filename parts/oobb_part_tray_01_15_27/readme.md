@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | village |  
-| bip_39_word_new_br10 | village<br>february<br>pretty<br>raise<br>board<br>during<br>private<br>kite<br>drastic<br>ripple |  
-| bip_39_word_new_br11 | village<br>february<br>pretty<br>raise<br>board<br>during<br>private<br>kite<br>drastic<br>ripple<br>fox |  
-| bip_39_word_new_br12 | village<br>february<br>pretty<br>raise<br>board<br>during<br>private<br>kite<br>drastic<br>ripple<br>fox<br>able |  
-| bip_39_word_new_br2 | village<br>february |  
-| bip_39_word_new_br3 | village<br>february<br>pretty |  
-| bip_39_word_new_br4 | village<br>february<br>pretty<br>raise |  
-| bip_39_word_new_br5 | village<br>february<br>pretty<br>raise<br>board |  
-| bip_39_word_new_br6 | village<br>february<br>pretty<br>raise<br>board<br>during |  
-| bip_39_word_new_br7 | village<br>february<br>pretty<br>raise<br>board<br>during<br>private |  
-| bip_39_word_new_br8 | village<br>february<br>pretty<br>raise<br>board<br>during<br>private<br>kite |  
-| bip_39_word_new_br9 | village<br>february<br>pretty<br>raise<br>board<br>during<br>private<br>kite<br>drastic |  
-| bip_39_word_new_line1 | village |  
-| bip_39_word_new_line10 | village
+| bip_39_word_new_br_1 | village |  
+| bip_39_word_new_br_10 | village<br>february<br>pretty<br>raise<br>board<br>during<br>private<br>kite<br>drastic<br>ripple |  
+| bip_39_word_new_br_11 | village<br>february<br>pretty<br>raise<br>board<br>during<br>private<br>kite<br>drastic<br>ripple<br>fox |  
+| bip_39_word_new_br_12 | village<br>february<br>pretty<br>raise<br>board<br>during<br>private<br>kite<br>drastic<br>ripple<br>fox<br>able |  
+| bip_39_word_new_br_2 | village<br>february |  
+| bip_39_word_new_br_3 | village<br>february<br>pretty |  
+| bip_39_word_new_br_4 | village<br>february<br>pretty<br>raise |  
+| bip_39_word_new_br_5 | village<br>february<br>pretty<br>raise<br>board |  
+| bip_39_word_new_br_6 | village<br>february<br>pretty<br>raise<br>board<br>during |  
+| bip_39_word_new_br_7 | village<br>february<br>pretty<br>raise<br>board<br>during<br>private |  
+| bip_39_word_new_br_8 | village<br>february<br>pretty<br>raise<br>board<br>during<br>private<br>kite |  
+| bip_39_word_new_br_9 | village<br>february<br>pretty<br>raise<br>board<br>during<br>private<br>kite<br>drastic |  
+| bip_39_word_new_line_1 | village |  
+| bip_39_word_new_line_10 | village
 february
 pretty
 raise
@@ -55,7 +55,7 @@ private
 kite
 drastic
 ripple |  
-| bip_39_word_new_line11 | village
+| bip_39_word_new_line_11 | village
 february
 pretty
 raise
@@ -66,7 +66,7 @@ kite
 drastic
 ripple
 fox |  
-| bip_39_word_new_line12 | village
+| bip_39_word_new_line_12 | village
 february
 pretty
 raise
@@ -78,34 +78,34 @@ drastic
 ripple
 fox
 able |  
-| bip_39_word_new_line2 | village
+| bip_39_word_new_line_2 | village
 february |  
-| bip_39_word_new_line3 | village
+| bip_39_word_new_line_3 | village
 february
 pretty |  
-| bip_39_word_new_line4 | village
+| bip_39_word_new_line_4 | village
 february
 pretty
 raise |  
-| bip_39_word_new_line5 | village
+| bip_39_word_new_line_5 | village
 february
 pretty
 raise
 board |  
-| bip_39_word_new_line6 | village
+| bip_39_word_new_line_6 | village
 february
 pretty
 raise
 board
 during |  
-| bip_39_word_new_line7 | village
+| bip_39_word_new_line_7 | village
 february
 pretty
 raise
 board
 during
 private |  
-| bip_39_word_new_line8 | village
+| bip_39_word_new_line_8 | village
 february
 pretty
 raise
@@ -113,7 +113,7 @@ board
 during
 private
 kite |  
-| bip_39_word_new_line9 | village
+| bip_39_word_new_line_9 | village
 february
 pretty
 raise

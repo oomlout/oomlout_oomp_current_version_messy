@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | throw |  
-| bip_39_word_new_br10 | throw<br>spy<br>never<br>material<br>kiwi<br>change<br>evidence<br>choice<br>game<br>rare |  
-| bip_39_word_new_br11 | throw<br>spy<br>never<br>material<br>kiwi<br>change<br>evidence<br>choice<br>game<br>rare<br>lamp |  
-| bip_39_word_new_br12 | throw<br>spy<br>never<br>material<br>kiwi<br>change<br>evidence<br>choice<br>game<br>rare<br>lamp<br>air |  
-| bip_39_word_new_br2 | throw<br>spy |  
-| bip_39_word_new_br3 | throw<br>spy<br>never |  
-| bip_39_word_new_br4 | throw<br>spy<br>never<br>material |  
-| bip_39_word_new_br5 | throw<br>spy<br>never<br>material<br>kiwi |  
-| bip_39_word_new_br6 | throw<br>spy<br>never<br>material<br>kiwi<br>change |  
-| bip_39_word_new_br7 | throw<br>spy<br>never<br>material<br>kiwi<br>change<br>evidence |  
-| bip_39_word_new_br8 | throw<br>spy<br>never<br>material<br>kiwi<br>change<br>evidence<br>choice |  
-| bip_39_word_new_br9 | throw<br>spy<br>never<br>material<br>kiwi<br>change<br>evidence<br>choice<br>game |  
-| bip_39_word_new_line1 | throw |  
-| bip_39_word_new_line10 | throw
+| bip_39_word_new_br_1 | throw |  
+| bip_39_word_new_br_10 | throw<br>spy<br>never<br>material<br>kiwi<br>change<br>evidence<br>choice<br>game<br>rare |  
+| bip_39_word_new_br_11 | throw<br>spy<br>never<br>material<br>kiwi<br>change<br>evidence<br>choice<br>game<br>rare<br>lamp |  
+| bip_39_word_new_br_12 | throw<br>spy<br>never<br>material<br>kiwi<br>change<br>evidence<br>choice<br>game<br>rare<br>lamp<br>air |  
+| bip_39_word_new_br_2 | throw<br>spy |  
+| bip_39_word_new_br_3 | throw<br>spy<br>never |  
+| bip_39_word_new_br_4 | throw<br>spy<br>never<br>material |  
+| bip_39_word_new_br_5 | throw<br>spy<br>never<br>material<br>kiwi |  
+| bip_39_word_new_br_6 | throw<br>spy<br>never<br>material<br>kiwi<br>change |  
+| bip_39_word_new_br_7 | throw<br>spy<br>never<br>material<br>kiwi<br>change<br>evidence |  
+| bip_39_word_new_br_8 | throw<br>spy<br>never<br>material<br>kiwi<br>change<br>evidence<br>choice |  
+| bip_39_word_new_br_9 | throw<br>spy<br>never<br>material<br>kiwi<br>change<br>evidence<br>choice<br>game |  
+| bip_39_word_new_line_1 | throw |  
+| bip_39_word_new_line_10 | throw
 spy
 never
 material
@@ -55,7 +55,7 @@ evidence
 choice
 game
 rare |  
-| bip_39_word_new_line11 | throw
+| bip_39_word_new_line_11 | throw
 spy
 never
 material
@@ -66,7 +66,7 @@ choice
 game
 rare
 lamp |  
-| bip_39_word_new_line12 | throw
+| bip_39_word_new_line_12 | throw
 spy
 never
 material
@@ -78,34 +78,34 @@ game
 rare
 lamp
 air |  
-| bip_39_word_new_line2 | throw
+| bip_39_word_new_line_2 | throw
 spy |  
-| bip_39_word_new_line3 | throw
+| bip_39_word_new_line_3 | throw
 spy
 never |  
-| bip_39_word_new_line4 | throw
+| bip_39_word_new_line_4 | throw
 spy
 never
 material |  
-| bip_39_word_new_line5 | throw
+| bip_39_word_new_line_5 | throw
 spy
 never
 material
 kiwi |  
-| bip_39_word_new_line6 | throw
+| bip_39_word_new_line_6 | throw
 spy
 never
 material
 kiwi
 change |  
-| bip_39_word_new_line7 | throw
+| bip_39_word_new_line_7 | throw
 spy
 never
 material
 kiwi
 change
 evidence |  
-| bip_39_word_new_line8 | throw
+| bip_39_word_new_line_8 | throw
 spy
 never
 material
@@ -113,7 +113,7 @@ kiwi
 change
 evidence
 choice |  
-| bip_39_word_new_line9 | throw
+| bip_39_word_new_line_9 | throw
 spy
 never
 material

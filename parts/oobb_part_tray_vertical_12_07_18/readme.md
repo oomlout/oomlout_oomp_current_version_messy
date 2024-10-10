@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rib |  
-| bip_39_word_new_br10 | rib<br>coyote<br>acquire<br>purpose<br>try<br>spider<br>glare<br>flee<br>october<br>shaft |  
-| bip_39_word_new_br11 | rib<br>coyote<br>acquire<br>purpose<br>try<br>spider<br>glare<br>flee<br>october<br>shaft<br>craft |  
-| bip_39_word_new_br12 | rib<br>coyote<br>acquire<br>purpose<br>try<br>spider<br>glare<br>flee<br>october<br>shaft<br>craft<br>angle |  
-| bip_39_word_new_br2 | rib<br>coyote |  
-| bip_39_word_new_br3 | rib<br>coyote<br>acquire |  
-| bip_39_word_new_br4 | rib<br>coyote<br>acquire<br>purpose |  
-| bip_39_word_new_br5 | rib<br>coyote<br>acquire<br>purpose<br>try |  
-| bip_39_word_new_br6 | rib<br>coyote<br>acquire<br>purpose<br>try<br>spider |  
-| bip_39_word_new_br7 | rib<br>coyote<br>acquire<br>purpose<br>try<br>spider<br>glare |  
-| bip_39_word_new_br8 | rib<br>coyote<br>acquire<br>purpose<br>try<br>spider<br>glare<br>flee |  
-| bip_39_word_new_br9 | rib<br>coyote<br>acquire<br>purpose<br>try<br>spider<br>glare<br>flee<br>october |  
-| bip_39_word_new_line1 | rib |  
-| bip_39_word_new_line10 | rib
+| bip_39_word_new_br_1 | rib |  
+| bip_39_word_new_br_10 | rib<br>coyote<br>acquire<br>purpose<br>try<br>spider<br>glare<br>flee<br>october<br>shaft |  
+| bip_39_word_new_br_11 | rib<br>coyote<br>acquire<br>purpose<br>try<br>spider<br>glare<br>flee<br>october<br>shaft<br>craft |  
+| bip_39_word_new_br_12 | rib<br>coyote<br>acquire<br>purpose<br>try<br>spider<br>glare<br>flee<br>october<br>shaft<br>craft<br>angle |  
+| bip_39_word_new_br_2 | rib<br>coyote |  
+| bip_39_word_new_br_3 | rib<br>coyote<br>acquire |  
+| bip_39_word_new_br_4 | rib<br>coyote<br>acquire<br>purpose |  
+| bip_39_word_new_br_5 | rib<br>coyote<br>acquire<br>purpose<br>try |  
+| bip_39_word_new_br_6 | rib<br>coyote<br>acquire<br>purpose<br>try<br>spider |  
+| bip_39_word_new_br_7 | rib<br>coyote<br>acquire<br>purpose<br>try<br>spider<br>glare |  
+| bip_39_word_new_br_8 | rib<br>coyote<br>acquire<br>purpose<br>try<br>spider<br>glare<br>flee |  
+| bip_39_word_new_br_9 | rib<br>coyote<br>acquire<br>purpose<br>try<br>spider<br>glare<br>flee<br>october |  
+| bip_39_word_new_line_1 | rib |  
+| bip_39_word_new_line_10 | rib
 coyote
 acquire
 purpose
@@ -55,7 +55,7 @@ glare
 flee
 october
 shaft |  
-| bip_39_word_new_line11 | rib
+| bip_39_word_new_line_11 | rib
 coyote
 acquire
 purpose
@@ -66,7 +66,7 @@ flee
 october
 shaft
 craft |  
-| bip_39_word_new_line12 | rib
+| bip_39_word_new_line_12 | rib
 coyote
 acquire
 purpose
@@ -78,34 +78,34 @@ october
 shaft
 craft
 angle |  
-| bip_39_word_new_line2 | rib
+| bip_39_word_new_line_2 | rib
 coyote |  
-| bip_39_word_new_line3 | rib
+| bip_39_word_new_line_3 | rib
 coyote
 acquire |  
-| bip_39_word_new_line4 | rib
+| bip_39_word_new_line_4 | rib
 coyote
 acquire
 purpose |  
-| bip_39_word_new_line5 | rib
+| bip_39_word_new_line_5 | rib
 coyote
 acquire
 purpose
 try |  
-| bip_39_word_new_line6 | rib
+| bip_39_word_new_line_6 | rib
 coyote
 acquire
 purpose
 try
 spider |  
-| bip_39_word_new_line7 | rib
+| bip_39_word_new_line_7 | rib
 coyote
 acquire
 purpose
 try
 spider
 glare |  
-| bip_39_word_new_line8 | rib
+| bip_39_word_new_line_8 | rib
 coyote
 acquire
 purpose
@@ -113,7 +113,7 @@ try
 spider
 glare
 flee |  
-| bip_39_word_new_line9 | rib
+| bip_39_word_new_line_9 | rib
 coyote
 acquire
 purpose

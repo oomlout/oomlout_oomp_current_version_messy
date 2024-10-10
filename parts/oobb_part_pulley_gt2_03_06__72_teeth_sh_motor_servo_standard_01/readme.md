@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | voice |  
-| bip_39_word_new_br10 | voice<br>seek<br>offer<br>uniform<br>obvious<br>swim<br>occur<br>boost<br>sick<br>dolphin |  
-| bip_39_word_new_br11 | voice<br>seek<br>offer<br>uniform<br>obvious<br>swim<br>occur<br>boost<br>sick<br>dolphin<br>auction |  
-| bip_39_word_new_br12 | voice<br>seek<br>offer<br>uniform<br>obvious<br>swim<br>occur<br>boost<br>sick<br>dolphin<br>auction<br>any |  
-| bip_39_word_new_br2 | voice<br>seek |  
-| bip_39_word_new_br3 | voice<br>seek<br>offer |  
-| bip_39_word_new_br4 | voice<br>seek<br>offer<br>uniform |  
-| bip_39_word_new_br5 | voice<br>seek<br>offer<br>uniform<br>obvious |  
-| bip_39_word_new_br6 | voice<br>seek<br>offer<br>uniform<br>obvious<br>swim |  
-| bip_39_word_new_br7 | voice<br>seek<br>offer<br>uniform<br>obvious<br>swim<br>occur |  
-| bip_39_word_new_br8 | voice<br>seek<br>offer<br>uniform<br>obvious<br>swim<br>occur<br>boost |  
-| bip_39_word_new_br9 | voice<br>seek<br>offer<br>uniform<br>obvious<br>swim<br>occur<br>boost<br>sick |  
-| bip_39_word_new_line1 | voice |  
-| bip_39_word_new_line10 | voice
+| bip_39_word_new_br_1 | voice |  
+| bip_39_word_new_br_10 | voice<br>seek<br>offer<br>uniform<br>obvious<br>swim<br>occur<br>boost<br>sick<br>dolphin |  
+| bip_39_word_new_br_11 | voice<br>seek<br>offer<br>uniform<br>obvious<br>swim<br>occur<br>boost<br>sick<br>dolphin<br>auction |  
+| bip_39_word_new_br_12 | voice<br>seek<br>offer<br>uniform<br>obvious<br>swim<br>occur<br>boost<br>sick<br>dolphin<br>auction<br>any |  
+| bip_39_word_new_br_2 | voice<br>seek |  
+| bip_39_word_new_br_3 | voice<br>seek<br>offer |  
+| bip_39_word_new_br_4 | voice<br>seek<br>offer<br>uniform |  
+| bip_39_word_new_br_5 | voice<br>seek<br>offer<br>uniform<br>obvious |  
+| bip_39_word_new_br_6 | voice<br>seek<br>offer<br>uniform<br>obvious<br>swim |  
+| bip_39_word_new_br_7 | voice<br>seek<br>offer<br>uniform<br>obvious<br>swim<br>occur |  
+| bip_39_word_new_br_8 | voice<br>seek<br>offer<br>uniform<br>obvious<br>swim<br>occur<br>boost |  
+| bip_39_word_new_br_9 | voice<br>seek<br>offer<br>uniform<br>obvious<br>swim<br>occur<br>boost<br>sick |  
+| bip_39_word_new_line_1 | voice |  
+| bip_39_word_new_line_10 | voice
 seek
 offer
 uniform
@@ -55,7 +55,7 @@ occur
 boost
 sick
 dolphin |  
-| bip_39_word_new_line11 | voice
+| bip_39_word_new_line_11 | voice
 seek
 offer
 uniform
@@ -66,7 +66,7 @@ boost
 sick
 dolphin
 auction |  
-| bip_39_word_new_line12 | voice
+| bip_39_word_new_line_12 | voice
 seek
 offer
 uniform
@@ -78,34 +78,34 @@ sick
 dolphin
 auction
 any |  
-| bip_39_word_new_line2 | voice
+| bip_39_word_new_line_2 | voice
 seek |  
-| bip_39_word_new_line3 | voice
+| bip_39_word_new_line_3 | voice
 seek
 offer |  
-| bip_39_word_new_line4 | voice
+| bip_39_word_new_line_4 | voice
 seek
 offer
 uniform |  
-| bip_39_word_new_line5 | voice
+| bip_39_word_new_line_5 | voice
 seek
 offer
 uniform
 obvious |  
-| bip_39_word_new_line6 | voice
+| bip_39_word_new_line_6 | voice
 seek
 offer
 uniform
 obvious
 swim |  
-| bip_39_word_new_line7 | voice
+| bip_39_word_new_line_7 | voice
 seek
 offer
 uniform
 obvious
 swim
 occur |  
-| bip_39_word_new_line8 | voice
+| bip_39_word_new_line_8 | voice
 seek
 offer
 uniform
@@ -113,7 +113,7 @@ obvious
 swim
 occur
 boost |  
-| bip_39_word_new_line9 | voice
+| bip_39_word_new_line_9 | voice
 seek
 offer
 uniform

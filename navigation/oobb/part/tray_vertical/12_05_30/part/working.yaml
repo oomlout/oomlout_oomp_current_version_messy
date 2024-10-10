@@ -1,17 +1,17 @@
-bip_39_word_new_br1: weasel
-bip_39_word_new_br10: weasel<br>carry<br>pigeon<br>real<br>claw<br>until<br>mule<br>organ<br>sphere<br>grant
-bip_39_word_new_br11: weasel<br>carry<br>pigeon<br>real<br>claw<br>until<br>mule<br>organ<br>sphere<br>grant<br>squirrel
-bip_39_word_new_br12: weasel<br>carry<br>pigeon<br>real<br>claw<br>until<br>mule<br>organ<br>sphere<br>grant<br>squirrel<br>alcohol
-bip_39_word_new_br2: weasel<br>carry
-bip_39_word_new_br3: weasel<br>carry<br>pigeon
-bip_39_word_new_br4: weasel<br>carry<br>pigeon<br>real
-bip_39_word_new_br5: weasel<br>carry<br>pigeon<br>real<br>claw
-bip_39_word_new_br6: weasel<br>carry<br>pigeon<br>real<br>claw<br>until
-bip_39_word_new_br7: weasel<br>carry<br>pigeon<br>real<br>claw<br>until<br>mule
-bip_39_word_new_br8: weasel<br>carry<br>pigeon<br>real<br>claw<br>until<br>mule<br>organ
-bip_39_word_new_br9: weasel<br>carry<br>pigeon<br>real<br>claw<br>until<br>mule<br>organ<br>sphere
-bip_39_word_new_line1: weasel
-bip_39_word_new_line10: 'weasel
+bip_39_word_new_br_1: weasel
+bip_39_word_new_br_10: weasel<br>carry<br>pigeon<br>real<br>claw<br>until<br>mule<br>organ<br>sphere<br>grant
+bip_39_word_new_br_11: weasel<br>carry<br>pigeon<br>real<br>claw<br>until<br>mule<br>organ<br>sphere<br>grant<br>squirrel
+bip_39_word_new_br_12: weasel<br>carry<br>pigeon<br>real<br>claw<br>until<br>mule<br>organ<br>sphere<br>grant<br>squirrel<br>alcohol
+bip_39_word_new_br_2: weasel<br>carry
+bip_39_word_new_br_3: weasel<br>carry<br>pigeon
+bip_39_word_new_br_4: weasel<br>carry<br>pigeon<br>real
+bip_39_word_new_br_5: weasel<br>carry<br>pigeon<br>real<br>claw
+bip_39_word_new_br_6: weasel<br>carry<br>pigeon<br>real<br>claw<br>until
+bip_39_word_new_br_7: weasel<br>carry<br>pigeon<br>real<br>claw<br>until<br>mule
+bip_39_word_new_br_8: weasel<br>carry<br>pigeon<br>real<br>claw<br>until<br>mule<br>organ
+bip_39_word_new_br_9: weasel<br>carry<br>pigeon<br>real<br>claw<br>until<br>mule<br>organ<br>sphere
+bip_39_word_new_line_1: weasel
+bip_39_word_new_line_10: 'weasel
 
   carry
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'weasel
   sphere
 
   grant'
-bip_39_word_new_line11: 'weasel
+bip_39_word_new_line_11: 'weasel
 
   carry
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'weasel
   grant
 
   squirrel'
-bip_39_word_new_line12: 'weasel
+bip_39_word_new_line_12: 'weasel
 
   carry
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'weasel
   squirrel
 
   alcohol'
-bip_39_word_new_line2: 'weasel
+bip_39_word_new_line_2: 'weasel
 
   carry'
-bip_39_word_new_line3: 'weasel
+bip_39_word_new_line_3: 'weasel
 
   carry
 
   pigeon'
-bip_39_word_new_line4: 'weasel
+bip_39_word_new_line_4: 'weasel
 
   carry
 
   pigeon
 
   real'
-bip_39_word_new_line5: 'weasel
+bip_39_word_new_line_5: 'weasel
 
   carry
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'weasel
   real
 
   claw'
-bip_39_word_new_line6: 'weasel
+bip_39_word_new_line_6: 'weasel
 
   carry
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'weasel
   claw
 
   until'
-bip_39_word_new_line7: 'weasel
+bip_39_word_new_line_7: 'weasel
 
   carry
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'weasel
   until
 
   mule'
-bip_39_word_new_line8: 'weasel
+bip_39_word_new_line_8: 'weasel
 
   carry
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'weasel
   mule
 
   organ'
-bip_39_word_new_line9: 'weasel
+bip_39_word_new_line_9: 'weasel
 
   carry
 

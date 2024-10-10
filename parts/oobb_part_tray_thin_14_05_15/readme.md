@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | diary |  
-| bip_39_word_new_br10 | diary<br>pottery<br>pulse<br>axis<br>blast<br>blur<br>sponsor<br>duck<br>vital<br>million |  
-| bip_39_word_new_br11 | diary<br>pottery<br>pulse<br>axis<br>blast<br>blur<br>sponsor<br>duck<br>vital<br>million<br>shoulder |  
-| bip_39_word_new_br12 | diary<br>pottery<br>pulse<br>axis<br>blast<br>blur<br>sponsor<br>duck<br>vital<br>million<br>shoulder<br>act |  
-| bip_39_word_new_br2 | diary<br>pottery |  
-| bip_39_word_new_br3 | diary<br>pottery<br>pulse |  
-| bip_39_word_new_br4 | diary<br>pottery<br>pulse<br>axis |  
-| bip_39_word_new_br5 | diary<br>pottery<br>pulse<br>axis<br>blast |  
-| bip_39_word_new_br6 | diary<br>pottery<br>pulse<br>axis<br>blast<br>blur |  
-| bip_39_word_new_br7 | diary<br>pottery<br>pulse<br>axis<br>blast<br>blur<br>sponsor |  
-| bip_39_word_new_br8 | diary<br>pottery<br>pulse<br>axis<br>blast<br>blur<br>sponsor<br>duck |  
-| bip_39_word_new_br9 | diary<br>pottery<br>pulse<br>axis<br>blast<br>blur<br>sponsor<br>duck<br>vital |  
-| bip_39_word_new_line1 | diary |  
-| bip_39_word_new_line10 | diary
+| bip_39_word_new_br_1 | diary |  
+| bip_39_word_new_br_10 | diary<br>pottery<br>pulse<br>axis<br>blast<br>blur<br>sponsor<br>duck<br>vital<br>million |  
+| bip_39_word_new_br_11 | diary<br>pottery<br>pulse<br>axis<br>blast<br>blur<br>sponsor<br>duck<br>vital<br>million<br>shoulder |  
+| bip_39_word_new_br_12 | diary<br>pottery<br>pulse<br>axis<br>blast<br>blur<br>sponsor<br>duck<br>vital<br>million<br>shoulder<br>act |  
+| bip_39_word_new_br_2 | diary<br>pottery |  
+| bip_39_word_new_br_3 | diary<br>pottery<br>pulse |  
+| bip_39_word_new_br_4 | diary<br>pottery<br>pulse<br>axis |  
+| bip_39_word_new_br_5 | diary<br>pottery<br>pulse<br>axis<br>blast |  
+| bip_39_word_new_br_6 | diary<br>pottery<br>pulse<br>axis<br>blast<br>blur |  
+| bip_39_word_new_br_7 | diary<br>pottery<br>pulse<br>axis<br>blast<br>blur<br>sponsor |  
+| bip_39_word_new_br_8 | diary<br>pottery<br>pulse<br>axis<br>blast<br>blur<br>sponsor<br>duck |  
+| bip_39_word_new_br_9 | diary<br>pottery<br>pulse<br>axis<br>blast<br>blur<br>sponsor<br>duck<br>vital |  
+| bip_39_word_new_line_1 | diary |  
+| bip_39_word_new_line_10 | diary
 pottery
 pulse
 axis
@@ -55,7 +55,7 @@ sponsor
 duck
 vital
 million |  
-| bip_39_word_new_line11 | diary
+| bip_39_word_new_line_11 | diary
 pottery
 pulse
 axis
@@ -66,7 +66,7 @@ duck
 vital
 million
 shoulder |  
-| bip_39_word_new_line12 | diary
+| bip_39_word_new_line_12 | diary
 pottery
 pulse
 axis
@@ -78,34 +78,34 @@ vital
 million
 shoulder
 act |  
-| bip_39_word_new_line2 | diary
+| bip_39_word_new_line_2 | diary
 pottery |  
-| bip_39_word_new_line3 | diary
+| bip_39_word_new_line_3 | diary
 pottery
 pulse |  
-| bip_39_word_new_line4 | diary
+| bip_39_word_new_line_4 | diary
 pottery
 pulse
 axis |  
-| bip_39_word_new_line5 | diary
+| bip_39_word_new_line_5 | diary
 pottery
 pulse
 axis
 blast |  
-| bip_39_word_new_line6 | diary
+| bip_39_word_new_line_6 | diary
 pottery
 pulse
 axis
 blast
 blur |  
-| bip_39_word_new_line7 | diary
+| bip_39_word_new_line_7 | diary
 pottery
 pulse
 axis
 blast
 blur
 sponsor |  
-| bip_39_word_new_line8 | diary
+| bip_39_word_new_line_8 | diary
 pottery
 pulse
 axis
@@ -113,7 +113,7 @@ blast
 blur
 sponsor
 duck |  
-| bip_39_word_new_line9 | diary
+| bip_39_word_new_line_9 | diary
 pottery
 pulse
 axis

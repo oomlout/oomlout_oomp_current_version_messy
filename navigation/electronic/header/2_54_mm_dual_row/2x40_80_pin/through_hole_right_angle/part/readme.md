@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | way |  
-| bip_39_word_new_br10 | way<br>hint<br>list<br>type<br>recycle<br>buddy<br>abandon<br>gold<br>weekend<br>hurry |  
-| bip_39_word_new_br11 | way<br>hint<br>list<br>type<br>recycle<br>buddy<br>abandon<br>gold<br>weekend<br>hurry<br>timber |  
-| bip_39_word_new_br12 | way<br>hint<br>list<br>type<br>recycle<br>buddy<br>abandon<br>gold<br>weekend<br>hurry<br>timber<br>agent |  
-| bip_39_word_new_br2 | way<br>hint |  
-| bip_39_word_new_br3 | way<br>hint<br>list |  
-| bip_39_word_new_br4 | way<br>hint<br>list<br>type |  
-| bip_39_word_new_br5 | way<br>hint<br>list<br>type<br>recycle |  
-| bip_39_word_new_br6 | way<br>hint<br>list<br>type<br>recycle<br>buddy |  
-| bip_39_word_new_br7 | way<br>hint<br>list<br>type<br>recycle<br>buddy<br>abandon |  
-| bip_39_word_new_br8 | way<br>hint<br>list<br>type<br>recycle<br>buddy<br>abandon<br>gold |  
-| bip_39_word_new_br9 | way<br>hint<br>list<br>type<br>recycle<br>buddy<br>abandon<br>gold<br>weekend |  
-| bip_39_word_new_line1 | way |  
-| bip_39_word_new_line10 | way
+| bip_39_word_new_br_1 | way |  
+| bip_39_word_new_br_10 | way<br>hint<br>list<br>type<br>recycle<br>buddy<br>abandon<br>gold<br>weekend<br>hurry |  
+| bip_39_word_new_br_11 | way<br>hint<br>list<br>type<br>recycle<br>buddy<br>abandon<br>gold<br>weekend<br>hurry<br>timber |  
+| bip_39_word_new_br_12 | way<br>hint<br>list<br>type<br>recycle<br>buddy<br>abandon<br>gold<br>weekend<br>hurry<br>timber<br>agent |  
+| bip_39_word_new_br_2 | way<br>hint |  
+| bip_39_word_new_br_3 | way<br>hint<br>list |  
+| bip_39_word_new_br_4 | way<br>hint<br>list<br>type |  
+| bip_39_word_new_br_5 | way<br>hint<br>list<br>type<br>recycle |  
+| bip_39_word_new_br_6 | way<br>hint<br>list<br>type<br>recycle<br>buddy |  
+| bip_39_word_new_br_7 | way<br>hint<br>list<br>type<br>recycle<br>buddy<br>abandon |  
+| bip_39_word_new_br_8 | way<br>hint<br>list<br>type<br>recycle<br>buddy<br>abandon<br>gold |  
+| bip_39_word_new_br_9 | way<br>hint<br>list<br>type<br>recycle<br>buddy<br>abandon<br>gold<br>weekend |  
+| bip_39_word_new_line_1 | way |  
+| bip_39_word_new_line_10 | way
 hint
 list
 type
@@ -55,7 +55,7 @@ abandon
 gold
 weekend
 hurry |  
-| bip_39_word_new_line11 | way
+| bip_39_word_new_line_11 | way
 hint
 list
 type
@@ -66,7 +66,7 @@ gold
 weekend
 hurry
 timber |  
-| bip_39_word_new_line12 | way
+| bip_39_word_new_line_12 | way
 hint
 list
 type
@@ -78,34 +78,34 @@ weekend
 hurry
 timber
 agent |  
-| bip_39_word_new_line2 | way
+| bip_39_word_new_line_2 | way
 hint |  
-| bip_39_word_new_line3 | way
+| bip_39_word_new_line_3 | way
 hint
 list |  
-| bip_39_word_new_line4 | way
+| bip_39_word_new_line_4 | way
 hint
 list
 type |  
-| bip_39_word_new_line5 | way
+| bip_39_word_new_line_5 | way
 hint
 list
 type
 recycle |  
-| bip_39_word_new_line6 | way
+| bip_39_word_new_line_6 | way
 hint
 list
 type
 recycle
 buddy |  
-| bip_39_word_new_line7 | way
+| bip_39_word_new_line_7 | way
 hint
 list
 type
 recycle
 buddy
 abandon |  
-| bip_39_word_new_line8 | way
+| bip_39_word_new_line_8 | way
 hint
 list
 type
@@ -113,7 +113,7 @@ recycle
 buddy
 abandon
 gold |  
-| bip_39_word_new_line9 | way
+| bip_39_word_new_line_9 | way
 hint
 list
 type

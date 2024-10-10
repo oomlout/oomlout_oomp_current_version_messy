@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | number |  
-| bip_39_word_new_br10 | number<br>inmate<br>feature<br>hello<br>radio<br>bread<br>matter<br>guilt<br>squirrel<br>balcony |  
-| bip_39_word_new_br11 | number<br>inmate<br>feature<br>hello<br>radio<br>bread<br>matter<br>guilt<br>squirrel<br>balcony<br>must |  
-| bip_39_word_new_br12 | number<br>inmate<br>feature<br>hello<br>radio<br>bread<br>matter<br>guilt<br>squirrel<br>balcony<br>must<br>antenna |  
-| bip_39_word_new_br2 | number<br>inmate |  
-| bip_39_word_new_br3 | number<br>inmate<br>feature |  
-| bip_39_word_new_br4 | number<br>inmate<br>feature<br>hello |  
-| bip_39_word_new_br5 | number<br>inmate<br>feature<br>hello<br>radio |  
-| bip_39_word_new_br6 | number<br>inmate<br>feature<br>hello<br>radio<br>bread |  
-| bip_39_word_new_br7 | number<br>inmate<br>feature<br>hello<br>radio<br>bread<br>matter |  
-| bip_39_word_new_br8 | number<br>inmate<br>feature<br>hello<br>radio<br>bread<br>matter<br>guilt |  
-| bip_39_word_new_br9 | number<br>inmate<br>feature<br>hello<br>radio<br>bread<br>matter<br>guilt<br>squirrel |  
-| bip_39_word_new_line1 | number |  
-| bip_39_word_new_line10 | number
+| bip_39_word_new_br_1 | number |  
+| bip_39_word_new_br_10 | number<br>inmate<br>feature<br>hello<br>radio<br>bread<br>matter<br>guilt<br>squirrel<br>balcony |  
+| bip_39_word_new_br_11 | number<br>inmate<br>feature<br>hello<br>radio<br>bread<br>matter<br>guilt<br>squirrel<br>balcony<br>must |  
+| bip_39_word_new_br_12 | number<br>inmate<br>feature<br>hello<br>radio<br>bread<br>matter<br>guilt<br>squirrel<br>balcony<br>must<br>antenna |  
+| bip_39_word_new_br_2 | number<br>inmate |  
+| bip_39_word_new_br_3 | number<br>inmate<br>feature |  
+| bip_39_word_new_br_4 | number<br>inmate<br>feature<br>hello |  
+| bip_39_word_new_br_5 | number<br>inmate<br>feature<br>hello<br>radio |  
+| bip_39_word_new_br_6 | number<br>inmate<br>feature<br>hello<br>radio<br>bread |  
+| bip_39_word_new_br_7 | number<br>inmate<br>feature<br>hello<br>radio<br>bread<br>matter |  
+| bip_39_word_new_br_8 | number<br>inmate<br>feature<br>hello<br>radio<br>bread<br>matter<br>guilt |  
+| bip_39_word_new_br_9 | number<br>inmate<br>feature<br>hello<br>radio<br>bread<br>matter<br>guilt<br>squirrel |  
+| bip_39_word_new_line_1 | number |  
+| bip_39_word_new_line_10 | number
 inmate
 feature
 hello
@@ -55,7 +55,7 @@ matter
 guilt
 squirrel
 balcony |  
-| bip_39_word_new_line11 | number
+| bip_39_word_new_line_11 | number
 inmate
 feature
 hello
@@ -66,7 +66,7 @@ guilt
 squirrel
 balcony
 must |  
-| bip_39_word_new_line12 | number
+| bip_39_word_new_line_12 | number
 inmate
 feature
 hello
@@ -78,34 +78,34 @@ squirrel
 balcony
 must
 antenna |  
-| bip_39_word_new_line2 | number
+| bip_39_word_new_line_2 | number
 inmate |  
-| bip_39_word_new_line3 | number
+| bip_39_word_new_line_3 | number
 inmate
 feature |  
-| bip_39_word_new_line4 | number
+| bip_39_word_new_line_4 | number
 inmate
 feature
 hello |  
-| bip_39_word_new_line5 | number
+| bip_39_word_new_line_5 | number
 inmate
 feature
 hello
 radio |  
-| bip_39_word_new_line6 | number
+| bip_39_word_new_line_6 | number
 inmate
 feature
 hello
 radio
 bread |  
-| bip_39_word_new_line7 | number
+| bip_39_word_new_line_7 | number
 inmate
 feature
 hello
 radio
 bread
 matter |  
-| bip_39_word_new_line8 | number
+| bip_39_word_new_line_8 | number
 inmate
 feature
 hello
@@ -113,7 +113,7 @@ radio
 bread
 matter
 guilt |  
-| bip_39_word_new_line9 | number
+| bip_39_word_new_line_9 | number
 inmate
 feature
 hello

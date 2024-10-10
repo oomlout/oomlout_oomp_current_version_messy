@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | observe |  
-| bip_39_word_new_br10 | observe<br>unknown<br>liar<br>wrestle<br>vote<br>sick<br>behind<br>erosion<br>corn<br>emerge |  
-| bip_39_word_new_br11 | observe<br>unknown<br>liar<br>wrestle<br>vote<br>sick<br>behind<br>erosion<br>corn<br>emerge<br>occur |  
-| bip_39_word_new_br12 | observe<br>unknown<br>liar<br>wrestle<br>vote<br>sick<br>behind<br>erosion<br>corn<br>emerge<br>occur<br>apology |  
-| bip_39_word_new_br2 | observe<br>unknown |  
-| bip_39_word_new_br3 | observe<br>unknown<br>liar |  
-| bip_39_word_new_br4 | observe<br>unknown<br>liar<br>wrestle |  
-| bip_39_word_new_br5 | observe<br>unknown<br>liar<br>wrestle<br>vote |  
-| bip_39_word_new_br6 | observe<br>unknown<br>liar<br>wrestle<br>vote<br>sick |  
-| bip_39_word_new_br7 | observe<br>unknown<br>liar<br>wrestle<br>vote<br>sick<br>behind |  
-| bip_39_word_new_br8 | observe<br>unknown<br>liar<br>wrestle<br>vote<br>sick<br>behind<br>erosion |  
-| bip_39_word_new_br9 | observe<br>unknown<br>liar<br>wrestle<br>vote<br>sick<br>behind<br>erosion<br>corn |  
-| bip_39_word_new_line1 | observe |  
-| bip_39_word_new_line10 | observe
+| bip_39_word_new_br_1 | observe |  
+| bip_39_word_new_br_10 | observe<br>unknown<br>liar<br>wrestle<br>vote<br>sick<br>behind<br>erosion<br>corn<br>emerge |  
+| bip_39_word_new_br_11 | observe<br>unknown<br>liar<br>wrestle<br>vote<br>sick<br>behind<br>erosion<br>corn<br>emerge<br>occur |  
+| bip_39_word_new_br_12 | observe<br>unknown<br>liar<br>wrestle<br>vote<br>sick<br>behind<br>erosion<br>corn<br>emerge<br>occur<br>apology |  
+| bip_39_word_new_br_2 | observe<br>unknown |  
+| bip_39_word_new_br_3 | observe<br>unknown<br>liar |  
+| bip_39_word_new_br_4 | observe<br>unknown<br>liar<br>wrestle |  
+| bip_39_word_new_br_5 | observe<br>unknown<br>liar<br>wrestle<br>vote |  
+| bip_39_word_new_br_6 | observe<br>unknown<br>liar<br>wrestle<br>vote<br>sick |  
+| bip_39_word_new_br_7 | observe<br>unknown<br>liar<br>wrestle<br>vote<br>sick<br>behind |  
+| bip_39_word_new_br_8 | observe<br>unknown<br>liar<br>wrestle<br>vote<br>sick<br>behind<br>erosion |  
+| bip_39_word_new_br_9 | observe<br>unknown<br>liar<br>wrestle<br>vote<br>sick<br>behind<br>erosion<br>corn |  
+| bip_39_word_new_line_1 | observe |  
+| bip_39_word_new_line_10 | observe
 unknown
 liar
 wrestle
@@ -55,7 +55,7 @@ behind
 erosion
 corn
 emerge |  
-| bip_39_word_new_line11 | observe
+| bip_39_word_new_line_11 | observe
 unknown
 liar
 wrestle
@@ -66,7 +66,7 @@ erosion
 corn
 emerge
 occur |  
-| bip_39_word_new_line12 | observe
+| bip_39_word_new_line_12 | observe
 unknown
 liar
 wrestle
@@ -78,34 +78,34 @@ corn
 emerge
 occur
 apology |  
-| bip_39_word_new_line2 | observe
+| bip_39_word_new_line_2 | observe
 unknown |  
-| bip_39_word_new_line3 | observe
+| bip_39_word_new_line_3 | observe
 unknown
 liar |  
-| bip_39_word_new_line4 | observe
+| bip_39_word_new_line_4 | observe
 unknown
 liar
 wrestle |  
-| bip_39_word_new_line5 | observe
+| bip_39_word_new_line_5 | observe
 unknown
 liar
 wrestle
 vote |  
-| bip_39_word_new_line6 | observe
+| bip_39_word_new_line_6 | observe
 unknown
 liar
 wrestle
 vote
 sick |  
-| bip_39_word_new_line7 | observe
+| bip_39_word_new_line_7 | observe
 unknown
 liar
 wrestle
 vote
 sick
 behind |  
-| bip_39_word_new_line8 | observe
+| bip_39_word_new_line_8 | observe
 unknown
 liar
 wrestle
@@ -113,7 +113,7 @@ vote
 sick
 behind
 erosion |  
-| bip_39_word_new_line9 | observe
+| bip_39_word_new_line_9 | observe
 unknown
 liar
 wrestle

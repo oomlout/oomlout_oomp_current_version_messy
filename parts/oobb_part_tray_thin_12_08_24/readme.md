@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | table |  
-| bip_39_word_new_br10 | table<br>cricket<br>law<br>glad<br>comfort<br>connect<br>nut<br>divorce<br>love<br>position |  
-| bip_39_word_new_br11 | table<br>cricket<br>law<br>glad<br>comfort<br>connect<br>nut<br>divorce<br>love<br>position<br>pipe |  
-| bip_39_word_new_br12 | table<br>cricket<br>law<br>glad<br>comfort<br>connect<br>nut<br>divorce<br>love<br>position<br>pipe<br>amused |  
-| bip_39_word_new_br2 | table<br>cricket |  
-| bip_39_word_new_br3 | table<br>cricket<br>law |  
-| bip_39_word_new_br4 | table<br>cricket<br>law<br>glad |  
-| bip_39_word_new_br5 | table<br>cricket<br>law<br>glad<br>comfort |  
-| bip_39_word_new_br6 | table<br>cricket<br>law<br>glad<br>comfort<br>connect |  
-| bip_39_word_new_br7 | table<br>cricket<br>law<br>glad<br>comfort<br>connect<br>nut |  
-| bip_39_word_new_br8 | table<br>cricket<br>law<br>glad<br>comfort<br>connect<br>nut<br>divorce |  
-| bip_39_word_new_br9 | table<br>cricket<br>law<br>glad<br>comfort<br>connect<br>nut<br>divorce<br>love |  
-| bip_39_word_new_line1 | table |  
-| bip_39_word_new_line10 | table
+| bip_39_word_new_br_1 | table |  
+| bip_39_word_new_br_10 | table<br>cricket<br>law<br>glad<br>comfort<br>connect<br>nut<br>divorce<br>love<br>position |  
+| bip_39_word_new_br_11 | table<br>cricket<br>law<br>glad<br>comfort<br>connect<br>nut<br>divorce<br>love<br>position<br>pipe |  
+| bip_39_word_new_br_12 | table<br>cricket<br>law<br>glad<br>comfort<br>connect<br>nut<br>divorce<br>love<br>position<br>pipe<br>amused |  
+| bip_39_word_new_br_2 | table<br>cricket |  
+| bip_39_word_new_br_3 | table<br>cricket<br>law |  
+| bip_39_word_new_br_4 | table<br>cricket<br>law<br>glad |  
+| bip_39_word_new_br_5 | table<br>cricket<br>law<br>glad<br>comfort |  
+| bip_39_word_new_br_6 | table<br>cricket<br>law<br>glad<br>comfort<br>connect |  
+| bip_39_word_new_br_7 | table<br>cricket<br>law<br>glad<br>comfort<br>connect<br>nut |  
+| bip_39_word_new_br_8 | table<br>cricket<br>law<br>glad<br>comfort<br>connect<br>nut<br>divorce |  
+| bip_39_word_new_br_9 | table<br>cricket<br>law<br>glad<br>comfort<br>connect<br>nut<br>divorce<br>love |  
+| bip_39_word_new_line_1 | table |  
+| bip_39_word_new_line_10 | table
 cricket
 law
 glad
@@ -55,7 +55,7 @@ nut
 divorce
 love
 position |  
-| bip_39_word_new_line11 | table
+| bip_39_word_new_line_11 | table
 cricket
 law
 glad
@@ -66,7 +66,7 @@ divorce
 love
 position
 pipe |  
-| bip_39_word_new_line12 | table
+| bip_39_word_new_line_12 | table
 cricket
 law
 glad
@@ -78,34 +78,34 @@ love
 position
 pipe
 amused |  
-| bip_39_word_new_line2 | table
+| bip_39_word_new_line_2 | table
 cricket |  
-| bip_39_word_new_line3 | table
+| bip_39_word_new_line_3 | table
 cricket
 law |  
-| bip_39_word_new_line4 | table
+| bip_39_word_new_line_4 | table
 cricket
 law
 glad |  
-| bip_39_word_new_line5 | table
+| bip_39_word_new_line_5 | table
 cricket
 law
 glad
 comfort |  
-| bip_39_word_new_line6 | table
+| bip_39_word_new_line_6 | table
 cricket
 law
 glad
 comfort
 connect |  
-| bip_39_word_new_line7 | table
+| bip_39_word_new_line_7 | table
 cricket
 law
 glad
 comfort
 connect
 nut |  
-| bip_39_word_new_line8 | table
+| bip_39_word_new_line_8 | table
 cricket
 law
 glad
@@ -113,7 +113,7 @@ comfort
 connect
 nut
 divorce |  
-| bip_39_word_new_line9 | table
+| bip_39_word_new_line_9 | table
 cricket
 law
 glad

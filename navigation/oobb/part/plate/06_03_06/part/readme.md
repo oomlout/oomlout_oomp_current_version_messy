@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | village |  
-| bip_39_word_new_br10 | village<br>pluck<br>such<br>cook<br>width<br>winner<br>mimic<br>make<br>seat<br>lawsuit |  
-| bip_39_word_new_br11 | village<br>pluck<br>such<br>cook<br>width<br>winner<br>mimic<br>make<br>seat<br>lawsuit<br>blast |  
-| bip_39_word_new_br12 | village<br>pluck<br>such<br>cook<br>width<br>winner<br>mimic<br>make<br>seat<br>lawsuit<br>blast<br>admit |  
-| bip_39_word_new_br2 | village<br>pluck |  
-| bip_39_word_new_br3 | village<br>pluck<br>such |  
-| bip_39_word_new_br4 | village<br>pluck<br>such<br>cook |  
-| bip_39_word_new_br5 | village<br>pluck<br>such<br>cook<br>width |  
-| bip_39_word_new_br6 | village<br>pluck<br>such<br>cook<br>width<br>winner |  
-| bip_39_word_new_br7 | village<br>pluck<br>such<br>cook<br>width<br>winner<br>mimic |  
-| bip_39_word_new_br8 | village<br>pluck<br>such<br>cook<br>width<br>winner<br>mimic<br>make |  
-| bip_39_word_new_br9 | village<br>pluck<br>such<br>cook<br>width<br>winner<br>mimic<br>make<br>seat |  
-| bip_39_word_new_line1 | village |  
-| bip_39_word_new_line10 | village
+| bip_39_word_new_br_1 | village |  
+| bip_39_word_new_br_10 | village<br>pluck<br>such<br>cook<br>width<br>winner<br>mimic<br>make<br>seat<br>lawsuit |  
+| bip_39_word_new_br_11 | village<br>pluck<br>such<br>cook<br>width<br>winner<br>mimic<br>make<br>seat<br>lawsuit<br>blast |  
+| bip_39_word_new_br_12 | village<br>pluck<br>such<br>cook<br>width<br>winner<br>mimic<br>make<br>seat<br>lawsuit<br>blast<br>admit |  
+| bip_39_word_new_br_2 | village<br>pluck |  
+| bip_39_word_new_br_3 | village<br>pluck<br>such |  
+| bip_39_word_new_br_4 | village<br>pluck<br>such<br>cook |  
+| bip_39_word_new_br_5 | village<br>pluck<br>such<br>cook<br>width |  
+| bip_39_word_new_br_6 | village<br>pluck<br>such<br>cook<br>width<br>winner |  
+| bip_39_word_new_br_7 | village<br>pluck<br>such<br>cook<br>width<br>winner<br>mimic |  
+| bip_39_word_new_br_8 | village<br>pluck<br>such<br>cook<br>width<br>winner<br>mimic<br>make |  
+| bip_39_word_new_br_9 | village<br>pluck<br>such<br>cook<br>width<br>winner<br>mimic<br>make<br>seat |  
+| bip_39_word_new_line_1 | village |  
+| bip_39_word_new_line_10 | village
 pluck
 such
 cook
@@ -55,7 +55,7 @@ mimic
 make
 seat
 lawsuit |  
-| bip_39_word_new_line11 | village
+| bip_39_word_new_line_11 | village
 pluck
 such
 cook
@@ -66,7 +66,7 @@ make
 seat
 lawsuit
 blast |  
-| bip_39_word_new_line12 | village
+| bip_39_word_new_line_12 | village
 pluck
 such
 cook
@@ -78,34 +78,34 @@ seat
 lawsuit
 blast
 admit |  
-| bip_39_word_new_line2 | village
+| bip_39_word_new_line_2 | village
 pluck |  
-| bip_39_word_new_line3 | village
+| bip_39_word_new_line_3 | village
 pluck
 such |  
-| bip_39_word_new_line4 | village
+| bip_39_word_new_line_4 | village
 pluck
 such
 cook |  
-| bip_39_word_new_line5 | village
+| bip_39_word_new_line_5 | village
 pluck
 such
 cook
 width |  
-| bip_39_word_new_line6 | village
+| bip_39_word_new_line_6 | village
 pluck
 such
 cook
 width
 winner |  
-| bip_39_word_new_line7 | village
+| bip_39_word_new_line_7 | village
 pluck
 such
 cook
 width
 winner
 mimic |  
-| bip_39_word_new_line8 | village
+| bip_39_word_new_line_8 | village
 pluck
 such
 cook
@@ -113,7 +113,7 @@ width
 winner
 mimic
 make |  
-| bip_39_word_new_line9 | village
+| bip_39_word_new_line_9 | village
 pluck
 such
 cook

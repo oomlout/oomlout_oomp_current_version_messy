@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | ladder |  
-| bip_39_word_new_br10 | ladder<br>music<br>elevator<br>faint<br>delay<br>power<br>frog<br>absorb<br>draft<br>twelve |  
-| bip_39_word_new_br11 | ladder<br>music<br>elevator<br>faint<br>delay<br>power<br>frog<br>absorb<br>draft<br>twelve<br>found |  
-| bip_39_word_new_br2 | ladder<br>music |  
-| bip_39_word_new_br3 | ladder<br>music<br>elevator |  
-| bip_39_word_new_br4 | ladder<br>music<br>elevator<br>faint |  
-| bip_39_word_new_br5 | ladder<br>music<br>elevator<br>faint<br>delay |  
-| bip_39_word_new_br6 | ladder<br>music<br>elevator<br>faint<br>delay<br>power |  
-| bip_39_word_new_br7 | ladder<br>music<br>elevator<br>faint<br>delay<br>power<br>frog |  
-| bip_39_word_new_br8 | ladder<br>music<br>elevator<br>faint<br>delay<br>power<br>frog<br>absorb |  
-| bip_39_word_new_br9 | ladder<br>music<br>elevator<br>faint<br>delay<br>power<br>frog<br>absorb<br>draft |  
-| bip_39_word_new_line1 | ladder |  
-| bip_39_word_new_line10 | ladder
+| bip_39_word_new_br_1 | ladder |  
+| bip_39_word_new_br_10 | ladder<br>music<br>elevator<br>faint<br>delay<br>power<br>frog<br>absorb<br>draft<br>twelve |  
+| bip_39_word_new_br_11 | ladder<br>music<br>elevator<br>faint<br>delay<br>power<br>frog<br>absorb<br>draft<br>twelve<br>found |  
+| bip_39_word_new_br_2 | ladder<br>music |  
+| bip_39_word_new_br_3 | ladder<br>music<br>elevator |  
+| bip_39_word_new_br_4 | ladder<br>music<br>elevator<br>faint |  
+| bip_39_word_new_br_5 | ladder<br>music<br>elevator<br>faint<br>delay |  
+| bip_39_word_new_br_6 | ladder<br>music<br>elevator<br>faint<br>delay<br>power |  
+| bip_39_word_new_br_7 | ladder<br>music<br>elevator<br>faint<br>delay<br>power<br>frog |  
+| bip_39_word_new_br_8 | ladder<br>music<br>elevator<br>faint<br>delay<br>power<br>frog<br>absorb |  
+| bip_39_word_new_br_9 | ladder<br>music<br>elevator<br>faint<br>delay<br>power<br>frog<br>absorb<br>draft |  
+| bip_39_word_new_line_1 | ladder |  
+| bip_39_word_new_line_10 | ladder
 music
 elevator
 faint
@@ -54,7 +54,7 @@ frog
 absorb
 draft
 twelve |  
-| bip_39_word_new_line11 | ladder
+| bip_39_word_new_line_11 | ladder
 music
 elevator
 faint
@@ -65,34 +65,34 @@ absorb
 draft
 twelve
 found |  
-| bip_39_word_new_line2 | ladder
+| bip_39_word_new_line_2 | ladder
 music |  
-| bip_39_word_new_line3 | ladder
+| bip_39_word_new_line_3 | ladder
 music
 elevator |  
-| bip_39_word_new_line4 | ladder
+| bip_39_word_new_line_4 | ladder
 music
 elevator
 faint |  
-| bip_39_word_new_line5 | ladder
+| bip_39_word_new_line_5 | ladder
 music
 elevator
 faint
 delay |  
-| bip_39_word_new_line6 | ladder
+| bip_39_word_new_line_6 | ladder
 music
 elevator
 faint
 delay
 power |  
-| bip_39_word_new_line7 | ladder
+| bip_39_word_new_line_7 | ladder
 music
 elevator
 faint
 delay
 power
 frog |  
-| bip_39_word_new_line8 | ladder
+| bip_39_word_new_line_8 | ladder
 music
 elevator
 faint
@@ -100,7 +100,7 @@ delay
 power
 frog
 absorb |  
-| bip_39_word_new_line9 | ladder
+| bip_39_word_new_line_9 | ladder
 music
 elevator
 faint

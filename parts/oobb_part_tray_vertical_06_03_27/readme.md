@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | result |  
-| bip_39_word_new_br10 | result<br>rescue<br>alley<br>true<br>rose<br>snow<br>artist<br>spread<br>harvest<br>travel |  
-| bip_39_word_new_br11 | result<br>rescue<br>alley<br>true<br>rose<br>snow<br>artist<br>spread<br>harvest<br>travel<br>rubber |  
-| bip_39_word_new_br12 | result<br>rescue<br>alley<br>true<br>rose<br>snow<br>artist<br>spread<br>harvest<br>travel<br>rubber<br>arrive |  
-| bip_39_word_new_br2 | result<br>rescue |  
-| bip_39_word_new_br3 | result<br>rescue<br>alley |  
-| bip_39_word_new_br4 | result<br>rescue<br>alley<br>true |  
-| bip_39_word_new_br5 | result<br>rescue<br>alley<br>true<br>rose |  
-| bip_39_word_new_br6 | result<br>rescue<br>alley<br>true<br>rose<br>snow |  
-| bip_39_word_new_br7 | result<br>rescue<br>alley<br>true<br>rose<br>snow<br>artist |  
-| bip_39_word_new_br8 | result<br>rescue<br>alley<br>true<br>rose<br>snow<br>artist<br>spread |  
-| bip_39_word_new_br9 | result<br>rescue<br>alley<br>true<br>rose<br>snow<br>artist<br>spread<br>harvest |  
-| bip_39_word_new_line1 | result |  
-| bip_39_word_new_line10 | result
+| bip_39_word_new_br_1 | result |  
+| bip_39_word_new_br_10 | result<br>rescue<br>alley<br>true<br>rose<br>snow<br>artist<br>spread<br>harvest<br>travel |  
+| bip_39_word_new_br_11 | result<br>rescue<br>alley<br>true<br>rose<br>snow<br>artist<br>spread<br>harvest<br>travel<br>rubber |  
+| bip_39_word_new_br_12 | result<br>rescue<br>alley<br>true<br>rose<br>snow<br>artist<br>spread<br>harvest<br>travel<br>rubber<br>arrive |  
+| bip_39_word_new_br_2 | result<br>rescue |  
+| bip_39_word_new_br_3 | result<br>rescue<br>alley |  
+| bip_39_word_new_br_4 | result<br>rescue<br>alley<br>true |  
+| bip_39_word_new_br_5 | result<br>rescue<br>alley<br>true<br>rose |  
+| bip_39_word_new_br_6 | result<br>rescue<br>alley<br>true<br>rose<br>snow |  
+| bip_39_word_new_br_7 | result<br>rescue<br>alley<br>true<br>rose<br>snow<br>artist |  
+| bip_39_word_new_br_8 | result<br>rescue<br>alley<br>true<br>rose<br>snow<br>artist<br>spread |  
+| bip_39_word_new_br_9 | result<br>rescue<br>alley<br>true<br>rose<br>snow<br>artist<br>spread<br>harvest |  
+| bip_39_word_new_line_1 | result |  
+| bip_39_word_new_line_10 | result
 rescue
 alley
 true
@@ -55,7 +55,7 @@ artist
 spread
 harvest
 travel |  
-| bip_39_word_new_line11 | result
+| bip_39_word_new_line_11 | result
 rescue
 alley
 true
@@ -66,7 +66,7 @@ spread
 harvest
 travel
 rubber |  
-| bip_39_word_new_line12 | result
+| bip_39_word_new_line_12 | result
 rescue
 alley
 true
@@ -78,34 +78,34 @@ harvest
 travel
 rubber
 arrive |  
-| bip_39_word_new_line2 | result
+| bip_39_word_new_line_2 | result
 rescue |  
-| bip_39_word_new_line3 | result
+| bip_39_word_new_line_3 | result
 rescue
 alley |  
-| bip_39_word_new_line4 | result
+| bip_39_word_new_line_4 | result
 rescue
 alley
 true |  
-| bip_39_word_new_line5 | result
+| bip_39_word_new_line_5 | result
 rescue
 alley
 true
 rose |  
-| bip_39_word_new_line6 | result
+| bip_39_word_new_line_6 | result
 rescue
 alley
 true
 rose
 snow |  
-| bip_39_word_new_line7 | result
+| bip_39_word_new_line_7 | result
 rescue
 alley
 true
 rose
 snow
 artist |  
-| bip_39_word_new_line8 | result
+| bip_39_word_new_line_8 | result
 rescue
 alley
 true
@@ -113,7 +113,7 @@ rose
 snow
 artist
 spread |  
-| bip_39_word_new_line9 | result
+| bip_39_word_new_line_9 | result
 rescue
 alley
 true

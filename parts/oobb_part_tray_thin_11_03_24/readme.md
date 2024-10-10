@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | primary |  
-| bip_39_word_new_br10 | primary<br>inform<br>once<br>pulp<br>helmet<br>wall<br>vacant<br>nephew<br>believe<br>slice |  
-| bip_39_word_new_br11 | primary<br>inform<br>once<br>pulp<br>helmet<br>wall<br>vacant<br>nephew<br>believe<br>slice<br>stairs |  
-| bip_39_word_new_br12 | primary<br>inform<br>once<br>pulp<br>helmet<br>wall<br>vacant<br>nephew<br>believe<br>slice<br>stairs<br>area |  
-| bip_39_word_new_br2 | primary<br>inform |  
-| bip_39_word_new_br3 | primary<br>inform<br>once |  
-| bip_39_word_new_br4 | primary<br>inform<br>once<br>pulp |  
-| bip_39_word_new_br5 | primary<br>inform<br>once<br>pulp<br>helmet |  
-| bip_39_word_new_br6 | primary<br>inform<br>once<br>pulp<br>helmet<br>wall |  
-| bip_39_word_new_br7 | primary<br>inform<br>once<br>pulp<br>helmet<br>wall<br>vacant |  
-| bip_39_word_new_br8 | primary<br>inform<br>once<br>pulp<br>helmet<br>wall<br>vacant<br>nephew |  
-| bip_39_word_new_br9 | primary<br>inform<br>once<br>pulp<br>helmet<br>wall<br>vacant<br>nephew<br>believe |  
-| bip_39_word_new_line1 | primary |  
-| bip_39_word_new_line10 | primary
+| bip_39_word_new_br_1 | primary |  
+| bip_39_word_new_br_10 | primary<br>inform<br>once<br>pulp<br>helmet<br>wall<br>vacant<br>nephew<br>believe<br>slice |  
+| bip_39_word_new_br_11 | primary<br>inform<br>once<br>pulp<br>helmet<br>wall<br>vacant<br>nephew<br>believe<br>slice<br>stairs |  
+| bip_39_word_new_br_12 | primary<br>inform<br>once<br>pulp<br>helmet<br>wall<br>vacant<br>nephew<br>believe<br>slice<br>stairs<br>area |  
+| bip_39_word_new_br_2 | primary<br>inform |  
+| bip_39_word_new_br_3 | primary<br>inform<br>once |  
+| bip_39_word_new_br_4 | primary<br>inform<br>once<br>pulp |  
+| bip_39_word_new_br_5 | primary<br>inform<br>once<br>pulp<br>helmet |  
+| bip_39_word_new_br_6 | primary<br>inform<br>once<br>pulp<br>helmet<br>wall |  
+| bip_39_word_new_br_7 | primary<br>inform<br>once<br>pulp<br>helmet<br>wall<br>vacant |  
+| bip_39_word_new_br_8 | primary<br>inform<br>once<br>pulp<br>helmet<br>wall<br>vacant<br>nephew |  
+| bip_39_word_new_br_9 | primary<br>inform<br>once<br>pulp<br>helmet<br>wall<br>vacant<br>nephew<br>believe |  
+| bip_39_word_new_line_1 | primary |  
+| bip_39_word_new_line_10 | primary
 inform
 once
 pulp
@@ -55,7 +55,7 @@ vacant
 nephew
 believe
 slice |  
-| bip_39_word_new_line11 | primary
+| bip_39_word_new_line_11 | primary
 inform
 once
 pulp
@@ -66,7 +66,7 @@ nephew
 believe
 slice
 stairs |  
-| bip_39_word_new_line12 | primary
+| bip_39_word_new_line_12 | primary
 inform
 once
 pulp
@@ -78,34 +78,34 @@ believe
 slice
 stairs
 area |  
-| bip_39_word_new_line2 | primary
+| bip_39_word_new_line_2 | primary
 inform |  
-| bip_39_word_new_line3 | primary
+| bip_39_word_new_line_3 | primary
 inform
 once |  
-| bip_39_word_new_line4 | primary
+| bip_39_word_new_line_4 | primary
 inform
 once
 pulp |  
-| bip_39_word_new_line5 | primary
+| bip_39_word_new_line_5 | primary
 inform
 once
 pulp
 helmet |  
-| bip_39_word_new_line6 | primary
+| bip_39_word_new_line_6 | primary
 inform
 once
 pulp
 helmet
 wall |  
-| bip_39_word_new_line7 | primary
+| bip_39_word_new_line_7 | primary
 inform
 once
 pulp
 helmet
 wall
 vacant |  
-| bip_39_word_new_line8 | primary
+| bip_39_word_new_line_8 | primary
 inform
 once
 pulp
@@ -113,7 +113,7 @@ helmet
 wall
 vacant
 nephew |  
-| bip_39_word_new_line9 | primary
+| bip_39_word_new_line_9 | primary
 inform
 once
 pulp

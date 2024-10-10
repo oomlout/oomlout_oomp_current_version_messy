@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | little |  
-| bip_39_word_new_br10 | little<br>cherry<br>air<br>buyer<br>deputy<br>pattern<br>thrive<br>stand<br>enroll<br>actress |  
-| bip_39_word_new_br11 | little<br>cherry<br>air<br>buyer<br>deputy<br>pattern<br>thrive<br>stand<br>enroll<br>actress<br>salt |  
-| bip_39_word_new_br12 | little<br>cherry<br>air<br>buyer<br>deputy<br>pattern<br>thrive<br>stand<br>enroll<br>actress<br>salt<br>arrange |  
-| bip_39_word_new_br2 | little<br>cherry |  
-| bip_39_word_new_br3 | little<br>cherry<br>air |  
-| bip_39_word_new_br4 | little<br>cherry<br>air<br>buyer |  
-| bip_39_word_new_br5 | little<br>cherry<br>air<br>buyer<br>deputy |  
-| bip_39_word_new_br6 | little<br>cherry<br>air<br>buyer<br>deputy<br>pattern |  
-| bip_39_word_new_br7 | little<br>cherry<br>air<br>buyer<br>deputy<br>pattern<br>thrive |  
-| bip_39_word_new_br8 | little<br>cherry<br>air<br>buyer<br>deputy<br>pattern<br>thrive<br>stand |  
-| bip_39_word_new_br9 | little<br>cherry<br>air<br>buyer<br>deputy<br>pattern<br>thrive<br>stand<br>enroll |  
-| bip_39_word_new_line1 | little |  
-| bip_39_word_new_line10 | little
+| bip_39_word_new_br_1 | little |  
+| bip_39_word_new_br_10 | little<br>cherry<br>air<br>buyer<br>deputy<br>pattern<br>thrive<br>stand<br>enroll<br>actress |  
+| bip_39_word_new_br_11 | little<br>cherry<br>air<br>buyer<br>deputy<br>pattern<br>thrive<br>stand<br>enroll<br>actress<br>salt |  
+| bip_39_word_new_br_12 | little<br>cherry<br>air<br>buyer<br>deputy<br>pattern<br>thrive<br>stand<br>enroll<br>actress<br>salt<br>arrange |  
+| bip_39_word_new_br_2 | little<br>cherry |  
+| bip_39_word_new_br_3 | little<br>cherry<br>air |  
+| bip_39_word_new_br_4 | little<br>cherry<br>air<br>buyer |  
+| bip_39_word_new_br_5 | little<br>cherry<br>air<br>buyer<br>deputy |  
+| bip_39_word_new_br_6 | little<br>cherry<br>air<br>buyer<br>deputy<br>pattern |  
+| bip_39_word_new_br_7 | little<br>cherry<br>air<br>buyer<br>deputy<br>pattern<br>thrive |  
+| bip_39_word_new_br_8 | little<br>cherry<br>air<br>buyer<br>deputy<br>pattern<br>thrive<br>stand |  
+| bip_39_word_new_br_9 | little<br>cherry<br>air<br>buyer<br>deputy<br>pattern<br>thrive<br>stand<br>enroll |  
+| bip_39_word_new_line_1 | little |  
+| bip_39_word_new_line_10 | little
 cherry
 air
 buyer
@@ -55,7 +55,7 @@ thrive
 stand
 enroll
 actress |  
-| bip_39_word_new_line11 | little
+| bip_39_word_new_line_11 | little
 cherry
 air
 buyer
@@ -66,7 +66,7 @@ stand
 enroll
 actress
 salt |  
-| bip_39_word_new_line12 | little
+| bip_39_word_new_line_12 | little
 cherry
 air
 buyer
@@ -78,34 +78,34 @@ enroll
 actress
 salt
 arrange |  
-| bip_39_word_new_line2 | little
+| bip_39_word_new_line_2 | little
 cherry |  
-| bip_39_word_new_line3 | little
+| bip_39_word_new_line_3 | little
 cherry
 air |  
-| bip_39_word_new_line4 | little
+| bip_39_word_new_line_4 | little
 cherry
 air
 buyer |  
-| bip_39_word_new_line5 | little
+| bip_39_word_new_line_5 | little
 cherry
 air
 buyer
 deputy |  
-| bip_39_word_new_line6 | little
+| bip_39_word_new_line_6 | little
 cherry
 air
 buyer
 deputy
 pattern |  
-| bip_39_word_new_line7 | little
+| bip_39_word_new_line_7 | little
 cherry
 air
 buyer
 deputy
 pattern
 thrive |  
-| bip_39_word_new_line8 | little
+| bip_39_word_new_line_8 | little
 cherry
 air
 buyer
@@ -113,7 +113,7 @@ deputy
 pattern
 thrive
 stand |  
-| bip_39_word_new_line9 | little
+| bip_39_word_new_line_9 | little
 cherry
 air
 buyer

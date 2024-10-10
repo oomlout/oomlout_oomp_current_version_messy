@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | behind |  
-| bip_39_word_new_br10 | behind<br>token<br>battle<br>toilet<br>hello<br>enrich<br>soft<br>pass<br>hope<br>say |  
-| bip_39_word_new_br11 | behind<br>token<br>battle<br>toilet<br>hello<br>enrich<br>soft<br>pass<br>hope<br>say<br>clarify |  
-| bip_39_word_new_br12 | behind<br>token<br>battle<br>toilet<br>hello<br>enrich<br>soft<br>pass<br>hope<br>say<br>clarify<br>art |  
-| bip_39_word_new_br2 | behind<br>token |  
-| bip_39_word_new_br3 | behind<br>token<br>battle |  
-| bip_39_word_new_br4 | behind<br>token<br>battle<br>toilet |  
-| bip_39_word_new_br5 | behind<br>token<br>battle<br>toilet<br>hello |  
-| bip_39_word_new_br6 | behind<br>token<br>battle<br>toilet<br>hello<br>enrich |  
-| bip_39_word_new_br7 | behind<br>token<br>battle<br>toilet<br>hello<br>enrich<br>soft |  
-| bip_39_word_new_br8 | behind<br>token<br>battle<br>toilet<br>hello<br>enrich<br>soft<br>pass |  
-| bip_39_word_new_br9 | behind<br>token<br>battle<br>toilet<br>hello<br>enrich<br>soft<br>pass<br>hope |  
-| bip_39_word_new_line1 | behind |  
-| bip_39_word_new_line10 | behind
+| bip_39_word_new_br_1 | behind |  
+| bip_39_word_new_br_10 | behind<br>token<br>battle<br>toilet<br>hello<br>enrich<br>soft<br>pass<br>hope<br>say |  
+| bip_39_word_new_br_11 | behind<br>token<br>battle<br>toilet<br>hello<br>enrich<br>soft<br>pass<br>hope<br>say<br>clarify |  
+| bip_39_word_new_br_12 | behind<br>token<br>battle<br>toilet<br>hello<br>enrich<br>soft<br>pass<br>hope<br>say<br>clarify<br>art |  
+| bip_39_word_new_br_2 | behind<br>token |  
+| bip_39_word_new_br_3 | behind<br>token<br>battle |  
+| bip_39_word_new_br_4 | behind<br>token<br>battle<br>toilet |  
+| bip_39_word_new_br_5 | behind<br>token<br>battle<br>toilet<br>hello |  
+| bip_39_word_new_br_6 | behind<br>token<br>battle<br>toilet<br>hello<br>enrich |  
+| bip_39_word_new_br_7 | behind<br>token<br>battle<br>toilet<br>hello<br>enrich<br>soft |  
+| bip_39_word_new_br_8 | behind<br>token<br>battle<br>toilet<br>hello<br>enrich<br>soft<br>pass |  
+| bip_39_word_new_br_9 | behind<br>token<br>battle<br>toilet<br>hello<br>enrich<br>soft<br>pass<br>hope |  
+| bip_39_word_new_line_1 | behind |  
+| bip_39_word_new_line_10 | behind
 token
 battle
 toilet
@@ -55,7 +55,7 @@ soft
 pass
 hope
 say |  
-| bip_39_word_new_line11 | behind
+| bip_39_word_new_line_11 | behind
 token
 battle
 toilet
@@ -66,7 +66,7 @@ pass
 hope
 say
 clarify |  
-| bip_39_word_new_line12 | behind
+| bip_39_word_new_line_12 | behind
 token
 battle
 toilet
@@ -78,34 +78,34 @@ hope
 say
 clarify
 art |  
-| bip_39_word_new_line2 | behind
+| bip_39_word_new_line_2 | behind
 token |  
-| bip_39_word_new_line3 | behind
+| bip_39_word_new_line_3 | behind
 token
 battle |  
-| bip_39_word_new_line4 | behind
+| bip_39_word_new_line_4 | behind
 token
 battle
 toilet |  
-| bip_39_word_new_line5 | behind
+| bip_39_word_new_line_5 | behind
 token
 battle
 toilet
 hello |  
-| bip_39_word_new_line6 | behind
+| bip_39_word_new_line_6 | behind
 token
 battle
 toilet
 hello
 enrich |  
-| bip_39_word_new_line7 | behind
+| bip_39_word_new_line_7 | behind
 token
 battle
 toilet
 hello
 enrich
 soft |  
-| bip_39_word_new_line8 | behind
+| bip_39_word_new_line_8 | behind
 token
 battle
 toilet
@@ -113,7 +113,7 @@ hello
 enrich
 soft
 pass |  
-| bip_39_word_new_line9 | behind
+| bip_39_word_new_line_9 | behind
 token
 battle
 toilet

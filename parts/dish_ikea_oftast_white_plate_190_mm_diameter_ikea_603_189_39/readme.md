@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | card |  
-| bip_39_word_new_br10 | card<br>trumpet<br>tooth<br>doctor<br>alert<br>toss<br>exclude<br>cream<br>upon<br>apart |  
-| bip_39_word_new_br11 | card<br>trumpet<br>tooth<br>doctor<br>alert<br>toss<br>exclude<br>cream<br>upon<br>apart<br>wedding |  
-| bip_39_word_new_br12 | card<br>trumpet<br>tooth<br>doctor<br>alert<br>toss<br>exclude<br>cream<br>upon<br>apart<br>wedding<br>arch |  
-| bip_39_word_new_br2 | card<br>trumpet |  
-| bip_39_word_new_br3 | card<br>trumpet<br>tooth |  
-| bip_39_word_new_br4 | card<br>trumpet<br>tooth<br>doctor |  
-| bip_39_word_new_br5 | card<br>trumpet<br>tooth<br>doctor<br>alert |  
-| bip_39_word_new_br6 | card<br>trumpet<br>tooth<br>doctor<br>alert<br>toss |  
-| bip_39_word_new_br7 | card<br>trumpet<br>tooth<br>doctor<br>alert<br>toss<br>exclude |  
-| bip_39_word_new_br8 | card<br>trumpet<br>tooth<br>doctor<br>alert<br>toss<br>exclude<br>cream |  
-| bip_39_word_new_br9 | card<br>trumpet<br>tooth<br>doctor<br>alert<br>toss<br>exclude<br>cream<br>upon |  
-| bip_39_word_new_line1 | card |  
-| bip_39_word_new_line10 | card
+| bip_39_word_new_br_1 | card |  
+| bip_39_word_new_br_10 | card<br>trumpet<br>tooth<br>doctor<br>alert<br>toss<br>exclude<br>cream<br>upon<br>apart |  
+| bip_39_word_new_br_11 | card<br>trumpet<br>tooth<br>doctor<br>alert<br>toss<br>exclude<br>cream<br>upon<br>apart<br>wedding |  
+| bip_39_word_new_br_12 | card<br>trumpet<br>tooth<br>doctor<br>alert<br>toss<br>exclude<br>cream<br>upon<br>apart<br>wedding<br>arch |  
+| bip_39_word_new_br_2 | card<br>trumpet |  
+| bip_39_word_new_br_3 | card<br>trumpet<br>tooth |  
+| bip_39_word_new_br_4 | card<br>trumpet<br>tooth<br>doctor |  
+| bip_39_word_new_br_5 | card<br>trumpet<br>tooth<br>doctor<br>alert |  
+| bip_39_word_new_br_6 | card<br>trumpet<br>tooth<br>doctor<br>alert<br>toss |  
+| bip_39_word_new_br_7 | card<br>trumpet<br>tooth<br>doctor<br>alert<br>toss<br>exclude |  
+| bip_39_word_new_br_8 | card<br>trumpet<br>tooth<br>doctor<br>alert<br>toss<br>exclude<br>cream |  
+| bip_39_word_new_br_9 | card<br>trumpet<br>tooth<br>doctor<br>alert<br>toss<br>exclude<br>cream<br>upon |  
+| bip_39_word_new_line_1 | card |  
+| bip_39_word_new_line_10 | card
 trumpet
 tooth
 doctor
@@ -55,7 +55,7 @@ exclude
 cream
 upon
 apart |  
-| bip_39_word_new_line11 | card
+| bip_39_word_new_line_11 | card
 trumpet
 tooth
 doctor
@@ -66,7 +66,7 @@ cream
 upon
 apart
 wedding |  
-| bip_39_word_new_line12 | card
+| bip_39_word_new_line_12 | card
 trumpet
 tooth
 doctor
@@ -78,34 +78,34 @@ upon
 apart
 wedding
 arch |  
-| bip_39_word_new_line2 | card
+| bip_39_word_new_line_2 | card
 trumpet |  
-| bip_39_word_new_line3 | card
+| bip_39_word_new_line_3 | card
 trumpet
 tooth |  
-| bip_39_word_new_line4 | card
+| bip_39_word_new_line_4 | card
 trumpet
 tooth
 doctor |  
-| bip_39_word_new_line5 | card
+| bip_39_word_new_line_5 | card
 trumpet
 tooth
 doctor
 alert |  
-| bip_39_word_new_line6 | card
+| bip_39_word_new_line_6 | card
 trumpet
 tooth
 doctor
 alert
 toss |  
-| bip_39_word_new_line7 | card
+| bip_39_word_new_line_7 | card
 trumpet
 tooth
 doctor
 alert
 toss
 exclude |  
-| bip_39_word_new_line8 | card
+| bip_39_word_new_line_8 | card
 trumpet
 tooth
 doctor
@@ -113,7 +113,7 @@ alert
 toss
 exclude
 cream |  
-| bip_39_word_new_line9 | card
+| bip_39_word_new_line_9 | card
 trumpet
 tooth
 doctor

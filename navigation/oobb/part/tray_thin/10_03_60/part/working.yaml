@@ -1,17 +1,17 @@
-bip_39_word_new_br1: mom
-bip_39_word_new_br10: mom<br>quick<br>luxury<br>vast<br>swear<br>dignity<br>answer<br>behave<br>champion<br>snow
-bip_39_word_new_br11: mom<br>quick<br>luxury<br>vast<br>swear<br>dignity<br>answer<br>behave<br>champion<br>snow<br>seed
-bip_39_word_new_br12: mom<br>quick<br>luxury<br>vast<br>swear<br>dignity<br>answer<br>behave<br>champion<br>snow<br>seed<br>afraid
-bip_39_word_new_br2: mom<br>quick
-bip_39_word_new_br3: mom<br>quick<br>luxury
-bip_39_word_new_br4: mom<br>quick<br>luxury<br>vast
-bip_39_word_new_br5: mom<br>quick<br>luxury<br>vast<br>swear
-bip_39_word_new_br6: mom<br>quick<br>luxury<br>vast<br>swear<br>dignity
-bip_39_word_new_br7: mom<br>quick<br>luxury<br>vast<br>swear<br>dignity<br>answer
-bip_39_word_new_br8: mom<br>quick<br>luxury<br>vast<br>swear<br>dignity<br>answer<br>behave
-bip_39_word_new_br9: mom<br>quick<br>luxury<br>vast<br>swear<br>dignity<br>answer<br>behave<br>champion
-bip_39_word_new_line1: mom
-bip_39_word_new_line10: 'mom
+bip_39_word_new_br_1: mom
+bip_39_word_new_br_10: mom<br>quick<br>luxury<br>vast<br>swear<br>dignity<br>answer<br>behave<br>champion<br>snow
+bip_39_word_new_br_11: mom<br>quick<br>luxury<br>vast<br>swear<br>dignity<br>answer<br>behave<br>champion<br>snow<br>seed
+bip_39_word_new_br_12: mom<br>quick<br>luxury<br>vast<br>swear<br>dignity<br>answer<br>behave<br>champion<br>snow<br>seed<br>afraid
+bip_39_word_new_br_2: mom<br>quick
+bip_39_word_new_br_3: mom<br>quick<br>luxury
+bip_39_word_new_br_4: mom<br>quick<br>luxury<br>vast
+bip_39_word_new_br_5: mom<br>quick<br>luxury<br>vast<br>swear
+bip_39_word_new_br_6: mom<br>quick<br>luxury<br>vast<br>swear<br>dignity
+bip_39_word_new_br_7: mom<br>quick<br>luxury<br>vast<br>swear<br>dignity<br>answer
+bip_39_word_new_br_8: mom<br>quick<br>luxury<br>vast<br>swear<br>dignity<br>answer<br>behave
+bip_39_word_new_br_9: mom<br>quick<br>luxury<br>vast<br>swear<br>dignity<br>answer<br>behave<br>champion
+bip_39_word_new_line_1: mom
+bip_39_word_new_line_10: 'mom
 
   quick
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'mom
   champion
 
   snow'
-bip_39_word_new_line11: 'mom
+bip_39_word_new_line_11: 'mom
 
   quick
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'mom
   snow
 
   seed'
-bip_39_word_new_line12: 'mom
+bip_39_word_new_line_12: 'mom
 
   quick
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'mom
   seed
 
   afraid'
-bip_39_word_new_line2: 'mom
+bip_39_word_new_line_2: 'mom
 
   quick'
-bip_39_word_new_line3: 'mom
+bip_39_word_new_line_3: 'mom
 
   quick
 
   luxury'
-bip_39_word_new_line4: 'mom
+bip_39_word_new_line_4: 'mom
 
   quick
 
   luxury
 
   vast'
-bip_39_word_new_line5: 'mom
+bip_39_word_new_line_5: 'mom
 
   quick
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'mom
   vast
 
   swear'
-bip_39_word_new_line6: 'mom
+bip_39_word_new_line_6: 'mom
 
   quick
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'mom
   swear
 
   dignity'
-bip_39_word_new_line7: 'mom
+bip_39_word_new_line_7: 'mom
 
   quick
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'mom
   dignity
 
   answer'
-bip_39_word_new_line8: 'mom
+bip_39_word_new_line_8: 'mom
 
   quick
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'mom
   answer
 
   behave'
-bip_39_word_new_line9: 'mom
+bip_39_word_new_line_9: 'mom
 
   quick
 

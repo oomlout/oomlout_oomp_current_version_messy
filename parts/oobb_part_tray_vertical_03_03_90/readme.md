@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | staff |  
-| bip_39_word_new_br10 | staff<br>duck<br>reason<br>travel<br>rival<br>relax<br>number<br>make<br>amount<br>return |  
-| bip_39_word_new_br11 | staff<br>duck<br>reason<br>travel<br>rival<br>relax<br>number<br>make<br>amount<br>return<br>deny |  
-| bip_39_word_new_br12 | staff<br>duck<br>reason<br>travel<br>rival<br>relax<br>number<br>make<br>amount<br>return<br>deny<br>arch |  
-| bip_39_word_new_br2 | staff<br>duck |  
-| bip_39_word_new_br3 | staff<br>duck<br>reason |  
-| bip_39_word_new_br4 | staff<br>duck<br>reason<br>travel |  
-| bip_39_word_new_br5 | staff<br>duck<br>reason<br>travel<br>rival |  
-| bip_39_word_new_br6 | staff<br>duck<br>reason<br>travel<br>rival<br>relax |  
-| bip_39_word_new_br7 | staff<br>duck<br>reason<br>travel<br>rival<br>relax<br>number |  
-| bip_39_word_new_br8 | staff<br>duck<br>reason<br>travel<br>rival<br>relax<br>number<br>make |  
-| bip_39_word_new_br9 | staff<br>duck<br>reason<br>travel<br>rival<br>relax<br>number<br>make<br>amount |  
-| bip_39_word_new_line1 | staff |  
-| bip_39_word_new_line10 | staff
+| bip_39_word_new_br_1 | staff |  
+| bip_39_word_new_br_10 | staff<br>duck<br>reason<br>travel<br>rival<br>relax<br>number<br>make<br>amount<br>return |  
+| bip_39_word_new_br_11 | staff<br>duck<br>reason<br>travel<br>rival<br>relax<br>number<br>make<br>amount<br>return<br>deny |  
+| bip_39_word_new_br_12 | staff<br>duck<br>reason<br>travel<br>rival<br>relax<br>number<br>make<br>amount<br>return<br>deny<br>arch |  
+| bip_39_word_new_br_2 | staff<br>duck |  
+| bip_39_word_new_br_3 | staff<br>duck<br>reason |  
+| bip_39_word_new_br_4 | staff<br>duck<br>reason<br>travel |  
+| bip_39_word_new_br_5 | staff<br>duck<br>reason<br>travel<br>rival |  
+| bip_39_word_new_br_6 | staff<br>duck<br>reason<br>travel<br>rival<br>relax |  
+| bip_39_word_new_br_7 | staff<br>duck<br>reason<br>travel<br>rival<br>relax<br>number |  
+| bip_39_word_new_br_8 | staff<br>duck<br>reason<br>travel<br>rival<br>relax<br>number<br>make |  
+| bip_39_word_new_br_9 | staff<br>duck<br>reason<br>travel<br>rival<br>relax<br>number<br>make<br>amount |  
+| bip_39_word_new_line_1 | staff |  
+| bip_39_word_new_line_10 | staff
 duck
 reason
 travel
@@ -55,7 +55,7 @@ number
 make
 amount
 return |  
-| bip_39_word_new_line11 | staff
+| bip_39_word_new_line_11 | staff
 duck
 reason
 travel
@@ -66,7 +66,7 @@ make
 amount
 return
 deny |  
-| bip_39_word_new_line12 | staff
+| bip_39_word_new_line_12 | staff
 duck
 reason
 travel
@@ -78,34 +78,34 @@ amount
 return
 deny
 arch |  
-| bip_39_word_new_line2 | staff
+| bip_39_word_new_line_2 | staff
 duck |  
-| bip_39_word_new_line3 | staff
+| bip_39_word_new_line_3 | staff
 duck
 reason |  
-| bip_39_word_new_line4 | staff
+| bip_39_word_new_line_4 | staff
 duck
 reason
 travel |  
-| bip_39_word_new_line5 | staff
+| bip_39_word_new_line_5 | staff
 duck
 reason
 travel
 rival |  
-| bip_39_word_new_line6 | staff
+| bip_39_word_new_line_6 | staff
 duck
 reason
 travel
 rival
 relax |  
-| bip_39_word_new_line7 | staff
+| bip_39_word_new_line_7 | staff
 duck
 reason
 travel
 rival
 relax
 number |  
-| bip_39_word_new_line8 | staff
+| bip_39_word_new_line_8 | staff
 duck
 reason
 travel
@@ -113,7 +113,7 @@ rival
 relax
 number
 make |  
-| bip_39_word_new_line9 | staff
+| bip_39_word_new_line_9 | staff
 duck
 reason
 travel

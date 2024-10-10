@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | chunk |  
-| bip_39_word_new_br10 | chunk<br>seven<br>margin<br>lucky<br>elder<br>chimney<br>noise<br>mandate<br>jar<br>eye |  
-| bip_39_word_new_br11 | chunk<br>seven<br>margin<br>lucky<br>elder<br>chimney<br>noise<br>mandate<br>jar<br>eye<br>bulb |  
-| bip_39_word_new_br12 | chunk<br>seven<br>margin<br>lucky<br>elder<br>chimney<br>noise<br>mandate<br>jar<br>eye<br>bulb<br>absent |  
-| bip_39_word_new_br2 | chunk<br>seven |  
-| bip_39_word_new_br3 | chunk<br>seven<br>margin |  
-| bip_39_word_new_br4 | chunk<br>seven<br>margin<br>lucky |  
-| bip_39_word_new_br5 | chunk<br>seven<br>margin<br>lucky<br>elder |  
-| bip_39_word_new_br6 | chunk<br>seven<br>margin<br>lucky<br>elder<br>chimney |  
-| bip_39_word_new_br7 | chunk<br>seven<br>margin<br>lucky<br>elder<br>chimney<br>noise |  
-| bip_39_word_new_br8 | chunk<br>seven<br>margin<br>lucky<br>elder<br>chimney<br>noise<br>mandate |  
-| bip_39_word_new_br9 | chunk<br>seven<br>margin<br>lucky<br>elder<br>chimney<br>noise<br>mandate<br>jar |  
-| bip_39_word_new_line1 | chunk |  
-| bip_39_word_new_line10 | chunk
+| bip_39_word_new_br_1 | chunk |  
+| bip_39_word_new_br_10 | chunk<br>seven<br>margin<br>lucky<br>elder<br>chimney<br>noise<br>mandate<br>jar<br>eye |  
+| bip_39_word_new_br_11 | chunk<br>seven<br>margin<br>lucky<br>elder<br>chimney<br>noise<br>mandate<br>jar<br>eye<br>bulb |  
+| bip_39_word_new_br_12 | chunk<br>seven<br>margin<br>lucky<br>elder<br>chimney<br>noise<br>mandate<br>jar<br>eye<br>bulb<br>absent |  
+| bip_39_word_new_br_2 | chunk<br>seven |  
+| bip_39_word_new_br_3 | chunk<br>seven<br>margin |  
+| bip_39_word_new_br_4 | chunk<br>seven<br>margin<br>lucky |  
+| bip_39_word_new_br_5 | chunk<br>seven<br>margin<br>lucky<br>elder |  
+| bip_39_word_new_br_6 | chunk<br>seven<br>margin<br>lucky<br>elder<br>chimney |  
+| bip_39_word_new_br_7 | chunk<br>seven<br>margin<br>lucky<br>elder<br>chimney<br>noise |  
+| bip_39_word_new_br_8 | chunk<br>seven<br>margin<br>lucky<br>elder<br>chimney<br>noise<br>mandate |  
+| bip_39_word_new_br_9 | chunk<br>seven<br>margin<br>lucky<br>elder<br>chimney<br>noise<br>mandate<br>jar |  
+| bip_39_word_new_line_1 | chunk |  
+| bip_39_word_new_line_10 | chunk
 seven
 margin
 lucky
@@ -55,7 +55,7 @@ noise
 mandate
 jar
 eye |  
-| bip_39_word_new_line11 | chunk
+| bip_39_word_new_line_11 | chunk
 seven
 margin
 lucky
@@ -66,7 +66,7 @@ mandate
 jar
 eye
 bulb |  
-| bip_39_word_new_line12 | chunk
+| bip_39_word_new_line_12 | chunk
 seven
 margin
 lucky
@@ -78,34 +78,34 @@ jar
 eye
 bulb
 absent |  
-| bip_39_word_new_line2 | chunk
+| bip_39_word_new_line_2 | chunk
 seven |  
-| bip_39_word_new_line3 | chunk
+| bip_39_word_new_line_3 | chunk
 seven
 margin |  
-| bip_39_word_new_line4 | chunk
+| bip_39_word_new_line_4 | chunk
 seven
 margin
 lucky |  
-| bip_39_word_new_line5 | chunk
+| bip_39_word_new_line_5 | chunk
 seven
 margin
 lucky
 elder |  
-| bip_39_word_new_line6 | chunk
+| bip_39_word_new_line_6 | chunk
 seven
 margin
 lucky
 elder
 chimney |  
-| bip_39_word_new_line7 | chunk
+| bip_39_word_new_line_7 | chunk
 seven
 margin
 lucky
 elder
 chimney
 noise |  
-| bip_39_word_new_line8 | chunk
+| bip_39_word_new_line_8 | chunk
 seven
 margin
 lucky
@@ -113,7 +113,7 @@ elder
 chimney
 noise
 mandate |  
-| bip_39_word_new_line9 | chunk
+| bip_39_word_new_line_9 | chunk
 seven
 margin
 lucky

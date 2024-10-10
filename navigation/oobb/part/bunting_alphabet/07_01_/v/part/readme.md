@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hybrid |  
-| bip_39_word_new_br10 | hybrid<br>amount<br>milk<br>vague<br>mule<br>cradle<br>boss<br>lottery<br>void<br>test |  
-| bip_39_word_new_br11 | hybrid<br>amount<br>milk<br>vague<br>mule<br>cradle<br>boss<br>lottery<br>void<br>test<br>enable |  
-| bip_39_word_new_br12 | hybrid<br>amount<br>milk<br>vague<br>mule<br>cradle<br>boss<br>lottery<br>void<br>test<br>enable<br>advance |  
-| bip_39_word_new_br2 | hybrid<br>amount |  
-| bip_39_word_new_br3 | hybrid<br>amount<br>milk |  
-| bip_39_word_new_br4 | hybrid<br>amount<br>milk<br>vague |  
-| bip_39_word_new_br5 | hybrid<br>amount<br>milk<br>vague<br>mule |  
-| bip_39_word_new_br6 | hybrid<br>amount<br>milk<br>vague<br>mule<br>cradle |  
-| bip_39_word_new_br7 | hybrid<br>amount<br>milk<br>vague<br>mule<br>cradle<br>boss |  
-| bip_39_word_new_br8 | hybrid<br>amount<br>milk<br>vague<br>mule<br>cradle<br>boss<br>lottery |  
-| bip_39_word_new_br9 | hybrid<br>amount<br>milk<br>vague<br>mule<br>cradle<br>boss<br>lottery<br>void |  
-| bip_39_word_new_line1 | hybrid |  
-| bip_39_word_new_line10 | hybrid
+| bip_39_word_new_br_1 | hybrid |  
+| bip_39_word_new_br_10 | hybrid<br>amount<br>milk<br>vague<br>mule<br>cradle<br>boss<br>lottery<br>void<br>test |  
+| bip_39_word_new_br_11 | hybrid<br>amount<br>milk<br>vague<br>mule<br>cradle<br>boss<br>lottery<br>void<br>test<br>enable |  
+| bip_39_word_new_br_12 | hybrid<br>amount<br>milk<br>vague<br>mule<br>cradle<br>boss<br>lottery<br>void<br>test<br>enable<br>advance |  
+| bip_39_word_new_br_2 | hybrid<br>amount |  
+| bip_39_word_new_br_3 | hybrid<br>amount<br>milk |  
+| bip_39_word_new_br_4 | hybrid<br>amount<br>milk<br>vague |  
+| bip_39_word_new_br_5 | hybrid<br>amount<br>milk<br>vague<br>mule |  
+| bip_39_word_new_br_6 | hybrid<br>amount<br>milk<br>vague<br>mule<br>cradle |  
+| bip_39_word_new_br_7 | hybrid<br>amount<br>milk<br>vague<br>mule<br>cradle<br>boss |  
+| bip_39_word_new_br_8 | hybrid<br>amount<br>milk<br>vague<br>mule<br>cradle<br>boss<br>lottery |  
+| bip_39_word_new_br_9 | hybrid<br>amount<br>milk<br>vague<br>mule<br>cradle<br>boss<br>lottery<br>void |  
+| bip_39_word_new_line_1 | hybrid |  
+| bip_39_word_new_line_10 | hybrid
 amount
 milk
 vague
@@ -55,7 +55,7 @@ boss
 lottery
 void
 test |  
-| bip_39_word_new_line11 | hybrid
+| bip_39_word_new_line_11 | hybrid
 amount
 milk
 vague
@@ -66,7 +66,7 @@ lottery
 void
 test
 enable |  
-| bip_39_word_new_line12 | hybrid
+| bip_39_word_new_line_12 | hybrid
 amount
 milk
 vague
@@ -78,34 +78,34 @@ void
 test
 enable
 advance |  
-| bip_39_word_new_line2 | hybrid
+| bip_39_word_new_line_2 | hybrid
 amount |  
-| bip_39_word_new_line3 | hybrid
+| bip_39_word_new_line_3 | hybrid
 amount
 milk |  
-| bip_39_word_new_line4 | hybrid
+| bip_39_word_new_line_4 | hybrid
 amount
 milk
 vague |  
-| bip_39_word_new_line5 | hybrid
+| bip_39_word_new_line_5 | hybrid
 amount
 milk
 vague
 mule |  
-| bip_39_word_new_line6 | hybrid
+| bip_39_word_new_line_6 | hybrid
 amount
 milk
 vague
 mule
 cradle |  
-| bip_39_word_new_line7 | hybrid
+| bip_39_word_new_line_7 | hybrid
 amount
 milk
 vague
 mule
 cradle
 boss |  
-| bip_39_word_new_line8 | hybrid
+| bip_39_word_new_line_8 | hybrid
 amount
 milk
 vague
@@ -113,7 +113,7 @@ mule
 cradle
 boss
 lottery |  
-| bip_39_word_new_line9 | hybrid
+| bip_39_word_new_line_9 | hybrid
 amount
 milk
 vague

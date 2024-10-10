@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | wage |  
-| bip_39_word_new_br10 | wage<br>retreat<br>banana<br>chest<br>bounce<br>average<br>custom<br>labor<br>sick<br>dentist |  
-| bip_39_word_new_br11 | wage<br>retreat<br>banana<br>chest<br>bounce<br>average<br>custom<br>labor<br>sick<br>dentist<br>cook |  
-| bip_39_word_new_br12 | wage<br>retreat<br>banana<br>chest<br>bounce<br>average<br>custom<br>labor<br>sick<br>dentist<br>cook<br>airport |  
-| bip_39_word_new_br2 | wage<br>retreat |  
-| bip_39_word_new_br3 | wage<br>retreat<br>banana |  
-| bip_39_word_new_br4 | wage<br>retreat<br>banana<br>chest |  
-| bip_39_word_new_br5 | wage<br>retreat<br>banana<br>chest<br>bounce |  
-| bip_39_word_new_br6 | wage<br>retreat<br>banana<br>chest<br>bounce<br>average |  
-| bip_39_word_new_br7 | wage<br>retreat<br>banana<br>chest<br>bounce<br>average<br>custom |  
-| bip_39_word_new_br8 | wage<br>retreat<br>banana<br>chest<br>bounce<br>average<br>custom<br>labor |  
-| bip_39_word_new_br9 | wage<br>retreat<br>banana<br>chest<br>bounce<br>average<br>custom<br>labor<br>sick |  
-| bip_39_word_new_line1 | wage |  
-| bip_39_word_new_line10 | wage
+| bip_39_word_new_br_1 | wage |  
+| bip_39_word_new_br_10 | wage<br>retreat<br>banana<br>chest<br>bounce<br>average<br>custom<br>labor<br>sick<br>dentist |  
+| bip_39_word_new_br_11 | wage<br>retreat<br>banana<br>chest<br>bounce<br>average<br>custom<br>labor<br>sick<br>dentist<br>cook |  
+| bip_39_word_new_br_12 | wage<br>retreat<br>banana<br>chest<br>bounce<br>average<br>custom<br>labor<br>sick<br>dentist<br>cook<br>airport |  
+| bip_39_word_new_br_2 | wage<br>retreat |  
+| bip_39_word_new_br_3 | wage<br>retreat<br>banana |  
+| bip_39_word_new_br_4 | wage<br>retreat<br>banana<br>chest |  
+| bip_39_word_new_br_5 | wage<br>retreat<br>banana<br>chest<br>bounce |  
+| bip_39_word_new_br_6 | wage<br>retreat<br>banana<br>chest<br>bounce<br>average |  
+| bip_39_word_new_br_7 | wage<br>retreat<br>banana<br>chest<br>bounce<br>average<br>custom |  
+| bip_39_word_new_br_8 | wage<br>retreat<br>banana<br>chest<br>bounce<br>average<br>custom<br>labor |  
+| bip_39_word_new_br_9 | wage<br>retreat<br>banana<br>chest<br>bounce<br>average<br>custom<br>labor<br>sick |  
+| bip_39_word_new_line_1 | wage |  
+| bip_39_word_new_line_10 | wage
 retreat
 banana
 chest
@@ -55,7 +55,7 @@ custom
 labor
 sick
 dentist |  
-| bip_39_word_new_line11 | wage
+| bip_39_word_new_line_11 | wage
 retreat
 banana
 chest
@@ -66,7 +66,7 @@ labor
 sick
 dentist
 cook |  
-| bip_39_word_new_line12 | wage
+| bip_39_word_new_line_12 | wage
 retreat
 banana
 chest
@@ -78,34 +78,34 @@ sick
 dentist
 cook
 airport |  
-| bip_39_word_new_line2 | wage
+| bip_39_word_new_line_2 | wage
 retreat |  
-| bip_39_word_new_line3 | wage
+| bip_39_word_new_line_3 | wage
 retreat
 banana |  
-| bip_39_word_new_line4 | wage
+| bip_39_word_new_line_4 | wage
 retreat
 banana
 chest |  
-| bip_39_word_new_line5 | wage
+| bip_39_word_new_line_5 | wage
 retreat
 banana
 chest
 bounce |  
-| bip_39_word_new_line6 | wage
+| bip_39_word_new_line_6 | wage
 retreat
 banana
 chest
 bounce
 average |  
-| bip_39_word_new_line7 | wage
+| bip_39_word_new_line_7 | wage
 retreat
 banana
 chest
 bounce
 average
 custom |  
-| bip_39_word_new_line8 | wage
+| bip_39_word_new_line_8 | wage
 retreat
 banana
 chest
@@ -113,7 +113,7 @@ bounce
 average
 custom
 labor |  
-| bip_39_word_new_line9 | wage
+| bip_39_word_new_line_9 | wage
 retreat
 banana
 chest

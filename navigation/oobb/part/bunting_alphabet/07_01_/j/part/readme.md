@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | glare |  
-| bip_39_word_new_br10 | glare<br>merry<br>insect<br>simple<br>giggle<br>hidden<br>badge<br>vehicle<br>return<br>fortune |  
-| bip_39_word_new_br11 | glare<br>merry<br>insect<br>simple<br>giggle<br>hidden<br>badge<br>vehicle<br>return<br>fortune<br>short |  
-| bip_39_word_new_br12 | glare<br>merry<br>insect<br>simple<br>giggle<br>hidden<br>badge<br>vehicle<br>return<br>fortune<br>short<br>arm |  
-| bip_39_word_new_br2 | glare<br>merry |  
-| bip_39_word_new_br3 | glare<br>merry<br>insect |  
-| bip_39_word_new_br4 | glare<br>merry<br>insect<br>simple |  
-| bip_39_word_new_br5 | glare<br>merry<br>insect<br>simple<br>giggle |  
-| bip_39_word_new_br6 | glare<br>merry<br>insect<br>simple<br>giggle<br>hidden |  
-| bip_39_word_new_br7 | glare<br>merry<br>insect<br>simple<br>giggle<br>hidden<br>badge |  
-| bip_39_word_new_br8 | glare<br>merry<br>insect<br>simple<br>giggle<br>hidden<br>badge<br>vehicle |  
-| bip_39_word_new_br9 | glare<br>merry<br>insect<br>simple<br>giggle<br>hidden<br>badge<br>vehicle<br>return |  
-| bip_39_word_new_line1 | glare |  
-| bip_39_word_new_line10 | glare
+| bip_39_word_new_br_1 | glare |  
+| bip_39_word_new_br_10 | glare<br>merry<br>insect<br>simple<br>giggle<br>hidden<br>badge<br>vehicle<br>return<br>fortune |  
+| bip_39_word_new_br_11 | glare<br>merry<br>insect<br>simple<br>giggle<br>hidden<br>badge<br>vehicle<br>return<br>fortune<br>short |  
+| bip_39_word_new_br_12 | glare<br>merry<br>insect<br>simple<br>giggle<br>hidden<br>badge<br>vehicle<br>return<br>fortune<br>short<br>arm |  
+| bip_39_word_new_br_2 | glare<br>merry |  
+| bip_39_word_new_br_3 | glare<br>merry<br>insect |  
+| bip_39_word_new_br_4 | glare<br>merry<br>insect<br>simple |  
+| bip_39_word_new_br_5 | glare<br>merry<br>insect<br>simple<br>giggle |  
+| bip_39_word_new_br_6 | glare<br>merry<br>insect<br>simple<br>giggle<br>hidden |  
+| bip_39_word_new_br_7 | glare<br>merry<br>insect<br>simple<br>giggle<br>hidden<br>badge |  
+| bip_39_word_new_br_8 | glare<br>merry<br>insect<br>simple<br>giggle<br>hidden<br>badge<br>vehicle |  
+| bip_39_word_new_br_9 | glare<br>merry<br>insect<br>simple<br>giggle<br>hidden<br>badge<br>vehicle<br>return |  
+| bip_39_word_new_line_1 | glare |  
+| bip_39_word_new_line_10 | glare
 merry
 insect
 simple
@@ -55,7 +55,7 @@ badge
 vehicle
 return
 fortune |  
-| bip_39_word_new_line11 | glare
+| bip_39_word_new_line_11 | glare
 merry
 insect
 simple
@@ -66,7 +66,7 @@ vehicle
 return
 fortune
 short |  
-| bip_39_word_new_line12 | glare
+| bip_39_word_new_line_12 | glare
 merry
 insect
 simple
@@ -78,34 +78,34 @@ return
 fortune
 short
 arm |  
-| bip_39_word_new_line2 | glare
+| bip_39_word_new_line_2 | glare
 merry |  
-| bip_39_word_new_line3 | glare
+| bip_39_word_new_line_3 | glare
 merry
 insect |  
-| bip_39_word_new_line4 | glare
+| bip_39_word_new_line_4 | glare
 merry
 insect
 simple |  
-| bip_39_word_new_line5 | glare
+| bip_39_word_new_line_5 | glare
 merry
 insect
 simple
 giggle |  
-| bip_39_word_new_line6 | glare
+| bip_39_word_new_line_6 | glare
 merry
 insect
 simple
 giggle
 hidden |  
-| bip_39_word_new_line7 | glare
+| bip_39_word_new_line_7 | glare
 merry
 insect
 simple
 giggle
 hidden
 badge |  
-| bip_39_word_new_line8 | glare
+| bip_39_word_new_line_8 | glare
 merry
 insect
 simple
@@ -113,7 +113,7 @@ giggle
 hidden
 badge
 vehicle |  
-| bip_39_word_new_line9 | glare
+| bip_39_word_new_line_9 | glare
 merry
 insect
 simple

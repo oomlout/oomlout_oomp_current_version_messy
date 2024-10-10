@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | double |  
-| bip_39_word_new_br10 | double<br>baby<br>brand<br>frost<br>phone<br>surge<br>toilet<br>useless<br>cigar<br>remind |  
-| bip_39_word_new_br11 | double<br>baby<br>brand<br>frost<br>phone<br>surge<br>toilet<br>useless<br>cigar<br>remind<br>armor |  
-| bip_39_word_new_br12 | double<br>baby<br>brand<br>frost<br>phone<br>surge<br>toilet<br>useless<br>cigar<br>remind<br>armor<br>auction |  
-| bip_39_word_new_br2 | double<br>baby |  
-| bip_39_word_new_br3 | double<br>baby<br>brand |  
-| bip_39_word_new_br4 | double<br>baby<br>brand<br>frost |  
-| bip_39_word_new_br5 | double<br>baby<br>brand<br>frost<br>phone |  
-| bip_39_word_new_br6 | double<br>baby<br>brand<br>frost<br>phone<br>surge |  
-| bip_39_word_new_br7 | double<br>baby<br>brand<br>frost<br>phone<br>surge<br>toilet |  
-| bip_39_word_new_br8 | double<br>baby<br>brand<br>frost<br>phone<br>surge<br>toilet<br>useless |  
-| bip_39_word_new_br9 | double<br>baby<br>brand<br>frost<br>phone<br>surge<br>toilet<br>useless<br>cigar |  
-| bip_39_word_new_line1 | double |  
-| bip_39_word_new_line10 | double
+| bip_39_word_new_br_1 | double |  
+| bip_39_word_new_br_10 | double<br>baby<br>brand<br>frost<br>phone<br>surge<br>toilet<br>useless<br>cigar<br>remind |  
+| bip_39_word_new_br_11 | double<br>baby<br>brand<br>frost<br>phone<br>surge<br>toilet<br>useless<br>cigar<br>remind<br>armor |  
+| bip_39_word_new_br_12 | double<br>baby<br>brand<br>frost<br>phone<br>surge<br>toilet<br>useless<br>cigar<br>remind<br>armor<br>auction |  
+| bip_39_word_new_br_2 | double<br>baby |  
+| bip_39_word_new_br_3 | double<br>baby<br>brand |  
+| bip_39_word_new_br_4 | double<br>baby<br>brand<br>frost |  
+| bip_39_word_new_br_5 | double<br>baby<br>brand<br>frost<br>phone |  
+| bip_39_word_new_br_6 | double<br>baby<br>brand<br>frost<br>phone<br>surge |  
+| bip_39_word_new_br_7 | double<br>baby<br>brand<br>frost<br>phone<br>surge<br>toilet |  
+| bip_39_word_new_br_8 | double<br>baby<br>brand<br>frost<br>phone<br>surge<br>toilet<br>useless |  
+| bip_39_word_new_br_9 | double<br>baby<br>brand<br>frost<br>phone<br>surge<br>toilet<br>useless<br>cigar |  
+| bip_39_word_new_line_1 | double |  
+| bip_39_word_new_line_10 | double
 baby
 brand
 frost
@@ -55,7 +55,7 @@ toilet
 useless
 cigar
 remind |  
-| bip_39_word_new_line11 | double
+| bip_39_word_new_line_11 | double
 baby
 brand
 frost
@@ -66,7 +66,7 @@ useless
 cigar
 remind
 armor |  
-| bip_39_word_new_line12 | double
+| bip_39_word_new_line_12 | double
 baby
 brand
 frost
@@ -78,34 +78,34 @@ cigar
 remind
 armor
 auction |  
-| bip_39_word_new_line2 | double
+| bip_39_word_new_line_2 | double
 baby |  
-| bip_39_word_new_line3 | double
+| bip_39_word_new_line_3 | double
 baby
 brand |  
-| bip_39_word_new_line4 | double
+| bip_39_word_new_line_4 | double
 baby
 brand
 frost |  
-| bip_39_word_new_line5 | double
+| bip_39_word_new_line_5 | double
 baby
 brand
 frost
 phone |  
-| bip_39_word_new_line6 | double
+| bip_39_word_new_line_6 | double
 baby
 brand
 frost
 phone
 surge |  
-| bip_39_word_new_line7 | double
+| bip_39_word_new_line_7 | double
 baby
 brand
 frost
 phone
 surge
 toilet |  
-| bip_39_word_new_line8 | double
+| bip_39_word_new_line_8 | double
 baby
 brand
 frost
@@ -113,7 +113,7 @@ phone
 surge
 toilet
 useless |  
-| bip_39_word_new_line9 | double
+| bip_39_word_new_line_9 | double
 baby
 brand
 frost

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | seat |  
-| bip_39_word_new_br10 | seat<br>ski<br>distance<br>lumber<br>coin<br>time<br>bomb<br>summer<br>bunker<br>tank |  
-| bip_39_word_new_br11 | seat<br>ski<br>distance<br>lumber<br>coin<br>time<br>bomb<br>summer<br>bunker<br>tank<br>wisdom |  
-| bip_39_word_new_br12 | seat<br>ski<br>distance<br>lumber<br>coin<br>time<br>bomb<br>summer<br>bunker<br>tank<br>wisdom<br>attack |  
-| bip_39_word_new_br2 | seat<br>ski |  
-| bip_39_word_new_br3 | seat<br>ski<br>distance |  
-| bip_39_word_new_br4 | seat<br>ski<br>distance<br>lumber |  
-| bip_39_word_new_br5 | seat<br>ski<br>distance<br>lumber<br>coin |  
-| bip_39_word_new_br6 | seat<br>ski<br>distance<br>lumber<br>coin<br>time |  
-| bip_39_word_new_br7 | seat<br>ski<br>distance<br>lumber<br>coin<br>time<br>bomb |  
-| bip_39_word_new_br8 | seat<br>ski<br>distance<br>lumber<br>coin<br>time<br>bomb<br>summer |  
-| bip_39_word_new_br9 | seat<br>ski<br>distance<br>lumber<br>coin<br>time<br>bomb<br>summer<br>bunker |  
-| bip_39_word_new_line1 | seat |  
-| bip_39_word_new_line10 | seat
+| bip_39_word_new_br_1 | seat |  
+| bip_39_word_new_br_10 | seat<br>ski<br>distance<br>lumber<br>coin<br>time<br>bomb<br>summer<br>bunker<br>tank |  
+| bip_39_word_new_br_11 | seat<br>ski<br>distance<br>lumber<br>coin<br>time<br>bomb<br>summer<br>bunker<br>tank<br>wisdom |  
+| bip_39_word_new_br_12 | seat<br>ski<br>distance<br>lumber<br>coin<br>time<br>bomb<br>summer<br>bunker<br>tank<br>wisdom<br>attack |  
+| bip_39_word_new_br_2 | seat<br>ski |  
+| bip_39_word_new_br_3 | seat<br>ski<br>distance |  
+| bip_39_word_new_br_4 | seat<br>ski<br>distance<br>lumber |  
+| bip_39_word_new_br_5 | seat<br>ski<br>distance<br>lumber<br>coin |  
+| bip_39_word_new_br_6 | seat<br>ski<br>distance<br>lumber<br>coin<br>time |  
+| bip_39_word_new_br_7 | seat<br>ski<br>distance<br>lumber<br>coin<br>time<br>bomb |  
+| bip_39_word_new_br_8 | seat<br>ski<br>distance<br>lumber<br>coin<br>time<br>bomb<br>summer |  
+| bip_39_word_new_br_9 | seat<br>ski<br>distance<br>lumber<br>coin<br>time<br>bomb<br>summer<br>bunker |  
+| bip_39_word_new_line_1 | seat |  
+| bip_39_word_new_line_10 | seat
 ski
 distance
 lumber
@@ -55,7 +55,7 @@ bomb
 summer
 bunker
 tank |  
-| bip_39_word_new_line11 | seat
+| bip_39_word_new_line_11 | seat
 ski
 distance
 lumber
@@ -66,7 +66,7 @@ summer
 bunker
 tank
 wisdom |  
-| bip_39_word_new_line12 | seat
+| bip_39_word_new_line_12 | seat
 ski
 distance
 lumber
@@ -78,34 +78,34 @@ bunker
 tank
 wisdom
 attack |  
-| bip_39_word_new_line2 | seat
+| bip_39_word_new_line_2 | seat
 ski |  
-| bip_39_word_new_line3 | seat
+| bip_39_word_new_line_3 | seat
 ski
 distance |  
-| bip_39_word_new_line4 | seat
+| bip_39_word_new_line_4 | seat
 ski
 distance
 lumber |  
-| bip_39_word_new_line5 | seat
+| bip_39_word_new_line_5 | seat
 ski
 distance
 lumber
 coin |  
-| bip_39_word_new_line6 | seat
+| bip_39_word_new_line_6 | seat
 ski
 distance
 lumber
 coin
 time |  
-| bip_39_word_new_line7 | seat
+| bip_39_word_new_line_7 | seat
 ski
 distance
 lumber
 coin
 time
 bomb |  
-| bip_39_word_new_line8 | seat
+| bip_39_word_new_line_8 | seat
 ski
 distance
 lumber
@@ -113,7 +113,7 @@ coin
 time
 bomb
 summer |  
-| bip_39_word_new_line9 | seat
+| bip_39_word_new_line_9 | seat
 ski
 distance
 lumber

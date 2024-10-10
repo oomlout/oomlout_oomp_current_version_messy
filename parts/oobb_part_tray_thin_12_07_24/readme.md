@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | math |  
-| bip_39_word_new_br10 | math<br>spell<br>pool<br>seek<br>luxury<br>split<br>cannon<br>retreat<br>equal<br>brain |  
-| bip_39_word_new_br11 | math<br>spell<br>pool<br>seek<br>luxury<br>split<br>cannon<br>retreat<br>equal<br>brain<br>mother |  
-| bip_39_word_new_br12 | math<br>spell<br>pool<br>seek<br>luxury<br>split<br>cannon<br>retreat<br>equal<br>brain<br>mother<br>acquire |  
-| bip_39_word_new_br2 | math<br>spell |  
-| bip_39_word_new_br3 | math<br>spell<br>pool |  
-| bip_39_word_new_br4 | math<br>spell<br>pool<br>seek |  
-| bip_39_word_new_br5 | math<br>spell<br>pool<br>seek<br>luxury |  
-| bip_39_word_new_br6 | math<br>spell<br>pool<br>seek<br>luxury<br>split |  
-| bip_39_word_new_br7 | math<br>spell<br>pool<br>seek<br>luxury<br>split<br>cannon |  
-| bip_39_word_new_br8 | math<br>spell<br>pool<br>seek<br>luxury<br>split<br>cannon<br>retreat |  
-| bip_39_word_new_br9 | math<br>spell<br>pool<br>seek<br>luxury<br>split<br>cannon<br>retreat<br>equal |  
-| bip_39_word_new_line1 | math |  
-| bip_39_word_new_line10 | math
+| bip_39_word_new_br_1 | math |  
+| bip_39_word_new_br_10 | math<br>spell<br>pool<br>seek<br>luxury<br>split<br>cannon<br>retreat<br>equal<br>brain |  
+| bip_39_word_new_br_11 | math<br>spell<br>pool<br>seek<br>luxury<br>split<br>cannon<br>retreat<br>equal<br>brain<br>mother |  
+| bip_39_word_new_br_12 | math<br>spell<br>pool<br>seek<br>luxury<br>split<br>cannon<br>retreat<br>equal<br>brain<br>mother<br>acquire |  
+| bip_39_word_new_br_2 | math<br>spell |  
+| bip_39_word_new_br_3 | math<br>spell<br>pool |  
+| bip_39_word_new_br_4 | math<br>spell<br>pool<br>seek |  
+| bip_39_word_new_br_5 | math<br>spell<br>pool<br>seek<br>luxury |  
+| bip_39_word_new_br_6 | math<br>spell<br>pool<br>seek<br>luxury<br>split |  
+| bip_39_word_new_br_7 | math<br>spell<br>pool<br>seek<br>luxury<br>split<br>cannon |  
+| bip_39_word_new_br_8 | math<br>spell<br>pool<br>seek<br>luxury<br>split<br>cannon<br>retreat |  
+| bip_39_word_new_br_9 | math<br>spell<br>pool<br>seek<br>luxury<br>split<br>cannon<br>retreat<br>equal |  
+| bip_39_word_new_line_1 | math |  
+| bip_39_word_new_line_10 | math
 spell
 pool
 seek
@@ -55,7 +55,7 @@ cannon
 retreat
 equal
 brain |  
-| bip_39_word_new_line11 | math
+| bip_39_word_new_line_11 | math
 spell
 pool
 seek
@@ -66,7 +66,7 @@ retreat
 equal
 brain
 mother |  
-| bip_39_word_new_line12 | math
+| bip_39_word_new_line_12 | math
 spell
 pool
 seek
@@ -78,34 +78,34 @@ equal
 brain
 mother
 acquire |  
-| bip_39_word_new_line2 | math
+| bip_39_word_new_line_2 | math
 spell |  
-| bip_39_word_new_line3 | math
+| bip_39_word_new_line_3 | math
 spell
 pool |  
-| bip_39_word_new_line4 | math
+| bip_39_word_new_line_4 | math
 spell
 pool
 seek |  
-| bip_39_word_new_line5 | math
+| bip_39_word_new_line_5 | math
 spell
 pool
 seek
 luxury |  
-| bip_39_word_new_line6 | math
+| bip_39_word_new_line_6 | math
 spell
 pool
 seek
 luxury
 split |  
-| bip_39_word_new_line7 | math
+| bip_39_word_new_line_7 | math
 spell
 pool
 seek
 luxury
 split
 cannon |  
-| bip_39_word_new_line8 | math
+| bip_39_word_new_line_8 | math
 spell
 pool
 seek
@@ -113,7 +113,7 @@ luxury
 split
 cannon
 retreat |  
-| bip_39_word_new_line9 | math
+| bip_39_word_new_line_9 | math
 spell
 pool
 seek

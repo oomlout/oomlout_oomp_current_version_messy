@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | best |  
-| bip_39_word_new_br10 | best<br>mother<br>tumble<br>wagon<br>birth<br>ten<br>door<br>lion<br>close<br>help |  
-| bip_39_word_new_br11 | best<br>mother<br>tumble<br>wagon<br>birth<br>ten<br>door<br>lion<br>close<br>help<br>slow |  
-| bip_39_word_new_br12 | best<br>mother<br>tumble<br>wagon<br>birth<br>ten<br>door<br>lion<br>close<br>help<br>slow<br>acid |  
-| bip_39_word_new_br2 | best<br>mother |  
-| bip_39_word_new_br3 | best<br>mother<br>tumble |  
-| bip_39_word_new_br4 | best<br>mother<br>tumble<br>wagon |  
-| bip_39_word_new_br5 | best<br>mother<br>tumble<br>wagon<br>birth |  
-| bip_39_word_new_br6 | best<br>mother<br>tumble<br>wagon<br>birth<br>ten |  
-| bip_39_word_new_br7 | best<br>mother<br>tumble<br>wagon<br>birth<br>ten<br>door |  
-| bip_39_word_new_br8 | best<br>mother<br>tumble<br>wagon<br>birth<br>ten<br>door<br>lion |  
-| bip_39_word_new_br9 | best<br>mother<br>tumble<br>wagon<br>birth<br>ten<br>door<br>lion<br>close |  
-| bip_39_word_new_line1 | best |  
-| bip_39_word_new_line10 | best
+| bip_39_word_new_br_1 | best |  
+| bip_39_word_new_br_10 | best<br>mother<br>tumble<br>wagon<br>birth<br>ten<br>door<br>lion<br>close<br>help |  
+| bip_39_word_new_br_11 | best<br>mother<br>tumble<br>wagon<br>birth<br>ten<br>door<br>lion<br>close<br>help<br>slow |  
+| bip_39_word_new_br_12 | best<br>mother<br>tumble<br>wagon<br>birth<br>ten<br>door<br>lion<br>close<br>help<br>slow<br>acid |  
+| bip_39_word_new_br_2 | best<br>mother |  
+| bip_39_word_new_br_3 | best<br>mother<br>tumble |  
+| bip_39_word_new_br_4 | best<br>mother<br>tumble<br>wagon |  
+| bip_39_word_new_br_5 | best<br>mother<br>tumble<br>wagon<br>birth |  
+| bip_39_word_new_br_6 | best<br>mother<br>tumble<br>wagon<br>birth<br>ten |  
+| bip_39_word_new_br_7 | best<br>mother<br>tumble<br>wagon<br>birth<br>ten<br>door |  
+| bip_39_word_new_br_8 | best<br>mother<br>tumble<br>wagon<br>birth<br>ten<br>door<br>lion |  
+| bip_39_word_new_br_9 | best<br>mother<br>tumble<br>wagon<br>birth<br>ten<br>door<br>lion<br>close |  
+| bip_39_word_new_line_1 | best |  
+| bip_39_word_new_line_10 | best
 mother
 tumble
 wagon
@@ -55,7 +55,7 @@ door
 lion
 close
 help |  
-| bip_39_word_new_line11 | best
+| bip_39_word_new_line_11 | best
 mother
 tumble
 wagon
@@ -66,7 +66,7 @@ lion
 close
 help
 slow |  
-| bip_39_word_new_line12 | best
+| bip_39_word_new_line_12 | best
 mother
 tumble
 wagon
@@ -78,34 +78,34 @@ close
 help
 slow
 acid |  
-| bip_39_word_new_line2 | best
+| bip_39_word_new_line_2 | best
 mother |  
-| bip_39_word_new_line3 | best
+| bip_39_word_new_line_3 | best
 mother
 tumble |  
-| bip_39_word_new_line4 | best
+| bip_39_word_new_line_4 | best
 mother
 tumble
 wagon |  
-| bip_39_word_new_line5 | best
+| bip_39_word_new_line_5 | best
 mother
 tumble
 wagon
 birth |  
-| bip_39_word_new_line6 | best
+| bip_39_word_new_line_6 | best
 mother
 tumble
 wagon
 birth
 ten |  
-| bip_39_word_new_line7 | best
+| bip_39_word_new_line_7 | best
 mother
 tumble
 wagon
 birth
 ten
 door |  
-| bip_39_word_new_line8 | best
+| bip_39_word_new_line_8 | best
 mother
 tumble
 wagon
@@ -113,7 +113,7 @@ birth
 ten
 door
 lion |  
-| bip_39_word_new_line9 | best
+| bip_39_word_new_line_9 | best
 mother
 tumble
 wagon

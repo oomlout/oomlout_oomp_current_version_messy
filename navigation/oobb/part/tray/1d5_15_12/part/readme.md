@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | domain |  
-| bip_39_word_new_br10 | domain<br>enter<br>artefact<br>mutual<br>talk<br>paper<br>vicious<br>diagram<br>animal<br>dinosaur |  
-| bip_39_word_new_br11 | domain<br>enter<br>artefact<br>mutual<br>talk<br>paper<br>vicious<br>diagram<br>animal<br>dinosaur<br>never |  
-| bip_39_word_new_br12 | domain<br>enter<br>artefact<br>mutual<br>talk<br>paper<br>vicious<br>diagram<br>animal<br>dinosaur<br>never<br>analyst |  
-| bip_39_word_new_br2 | domain<br>enter |  
-| bip_39_word_new_br3 | domain<br>enter<br>artefact |  
-| bip_39_word_new_br4 | domain<br>enter<br>artefact<br>mutual |  
-| bip_39_word_new_br5 | domain<br>enter<br>artefact<br>mutual<br>talk |  
-| bip_39_word_new_br6 | domain<br>enter<br>artefact<br>mutual<br>talk<br>paper |  
-| bip_39_word_new_br7 | domain<br>enter<br>artefact<br>mutual<br>talk<br>paper<br>vicious |  
-| bip_39_word_new_br8 | domain<br>enter<br>artefact<br>mutual<br>talk<br>paper<br>vicious<br>diagram |  
-| bip_39_word_new_br9 | domain<br>enter<br>artefact<br>mutual<br>talk<br>paper<br>vicious<br>diagram<br>animal |  
-| bip_39_word_new_line1 | domain |  
-| bip_39_word_new_line10 | domain
+| bip_39_word_new_br_1 | domain |  
+| bip_39_word_new_br_10 | domain<br>enter<br>artefact<br>mutual<br>talk<br>paper<br>vicious<br>diagram<br>animal<br>dinosaur |  
+| bip_39_word_new_br_11 | domain<br>enter<br>artefact<br>mutual<br>talk<br>paper<br>vicious<br>diagram<br>animal<br>dinosaur<br>never |  
+| bip_39_word_new_br_12 | domain<br>enter<br>artefact<br>mutual<br>talk<br>paper<br>vicious<br>diagram<br>animal<br>dinosaur<br>never<br>analyst |  
+| bip_39_word_new_br_2 | domain<br>enter |  
+| bip_39_word_new_br_3 | domain<br>enter<br>artefact |  
+| bip_39_word_new_br_4 | domain<br>enter<br>artefact<br>mutual |  
+| bip_39_word_new_br_5 | domain<br>enter<br>artefact<br>mutual<br>talk |  
+| bip_39_word_new_br_6 | domain<br>enter<br>artefact<br>mutual<br>talk<br>paper |  
+| bip_39_word_new_br_7 | domain<br>enter<br>artefact<br>mutual<br>talk<br>paper<br>vicious |  
+| bip_39_word_new_br_8 | domain<br>enter<br>artefact<br>mutual<br>talk<br>paper<br>vicious<br>diagram |  
+| bip_39_word_new_br_9 | domain<br>enter<br>artefact<br>mutual<br>talk<br>paper<br>vicious<br>diagram<br>animal |  
+| bip_39_word_new_line_1 | domain |  
+| bip_39_word_new_line_10 | domain
 enter
 artefact
 mutual
@@ -55,7 +55,7 @@ vicious
 diagram
 animal
 dinosaur |  
-| bip_39_word_new_line11 | domain
+| bip_39_word_new_line_11 | domain
 enter
 artefact
 mutual
@@ -66,7 +66,7 @@ diagram
 animal
 dinosaur
 never |  
-| bip_39_word_new_line12 | domain
+| bip_39_word_new_line_12 | domain
 enter
 artefact
 mutual
@@ -78,34 +78,34 @@ animal
 dinosaur
 never
 analyst |  
-| bip_39_word_new_line2 | domain
+| bip_39_word_new_line_2 | domain
 enter |  
-| bip_39_word_new_line3 | domain
+| bip_39_word_new_line_3 | domain
 enter
 artefact |  
-| bip_39_word_new_line4 | domain
+| bip_39_word_new_line_4 | domain
 enter
 artefact
 mutual |  
-| bip_39_word_new_line5 | domain
+| bip_39_word_new_line_5 | domain
 enter
 artefact
 mutual
 talk |  
-| bip_39_word_new_line6 | domain
+| bip_39_word_new_line_6 | domain
 enter
 artefact
 mutual
 talk
 paper |  
-| bip_39_word_new_line7 | domain
+| bip_39_word_new_line_7 | domain
 enter
 artefact
 mutual
 talk
 paper
 vicious |  
-| bip_39_word_new_line8 | domain
+| bip_39_word_new_line_8 | domain
 enter
 artefact
 mutual
@@ -113,7 +113,7 @@ talk
 paper
 vicious
 diagram |  
-| bip_39_word_new_line9 | domain
+| bip_39_word_new_line_9 | domain
 enter
 artefact
 mutual

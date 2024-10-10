@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | advance |  
-| bip_39_word_new_br10 | advance<br>penalty<br>buffalo<br>curve<br>athlete<br>swear<br>push<br>endless<br>eyebrow<br>dune |  
-| bip_39_word_new_br11 | advance<br>penalty<br>buffalo<br>curve<br>athlete<br>swear<br>push<br>endless<br>eyebrow<br>dune<br>erupt |  
-| bip_39_word_new_br12 | advance<br>penalty<br>buffalo<br>curve<br>athlete<br>swear<br>push<br>endless<br>eyebrow<br>dune<br>erupt<br>attack |  
-| bip_39_word_new_br2 | advance<br>penalty |  
-| bip_39_word_new_br3 | advance<br>penalty<br>buffalo |  
-| bip_39_word_new_br4 | advance<br>penalty<br>buffalo<br>curve |  
-| bip_39_word_new_br5 | advance<br>penalty<br>buffalo<br>curve<br>athlete |  
-| bip_39_word_new_br6 | advance<br>penalty<br>buffalo<br>curve<br>athlete<br>swear |  
-| bip_39_word_new_br7 | advance<br>penalty<br>buffalo<br>curve<br>athlete<br>swear<br>push |  
-| bip_39_word_new_br8 | advance<br>penalty<br>buffalo<br>curve<br>athlete<br>swear<br>push<br>endless |  
-| bip_39_word_new_br9 | advance<br>penalty<br>buffalo<br>curve<br>athlete<br>swear<br>push<br>endless<br>eyebrow |  
-| bip_39_word_new_line1 | advance |  
-| bip_39_word_new_line10 | advance
+| bip_39_word_new_br_1 | advance |  
+| bip_39_word_new_br_10 | advance<br>penalty<br>buffalo<br>curve<br>athlete<br>swear<br>push<br>endless<br>eyebrow<br>dune |  
+| bip_39_word_new_br_11 | advance<br>penalty<br>buffalo<br>curve<br>athlete<br>swear<br>push<br>endless<br>eyebrow<br>dune<br>erupt |  
+| bip_39_word_new_br_12 | advance<br>penalty<br>buffalo<br>curve<br>athlete<br>swear<br>push<br>endless<br>eyebrow<br>dune<br>erupt<br>attack |  
+| bip_39_word_new_br_2 | advance<br>penalty |  
+| bip_39_word_new_br_3 | advance<br>penalty<br>buffalo |  
+| bip_39_word_new_br_4 | advance<br>penalty<br>buffalo<br>curve |  
+| bip_39_word_new_br_5 | advance<br>penalty<br>buffalo<br>curve<br>athlete |  
+| bip_39_word_new_br_6 | advance<br>penalty<br>buffalo<br>curve<br>athlete<br>swear |  
+| bip_39_word_new_br_7 | advance<br>penalty<br>buffalo<br>curve<br>athlete<br>swear<br>push |  
+| bip_39_word_new_br_8 | advance<br>penalty<br>buffalo<br>curve<br>athlete<br>swear<br>push<br>endless |  
+| bip_39_word_new_br_9 | advance<br>penalty<br>buffalo<br>curve<br>athlete<br>swear<br>push<br>endless<br>eyebrow |  
+| bip_39_word_new_line_1 | advance |  
+| bip_39_word_new_line_10 | advance
 penalty
 buffalo
 curve
@@ -55,7 +55,7 @@ push
 endless
 eyebrow
 dune |  
-| bip_39_word_new_line11 | advance
+| bip_39_word_new_line_11 | advance
 penalty
 buffalo
 curve
@@ -66,7 +66,7 @@ endless
 eyebrow
 dune
 erupt |  
-| bip_39_word_new_line12 | advance
+| bip_39_word_new_line_12 | advance
 penalty
 buffalo
 curve
@@ -78,34 +78,34 @@ eyebrow
 dune
 erupt
 attack |  
-| bip_39_word_new_line2 | advance
+| bip_39_word_new_line_2 | advance
 penalty |  
-| bip_39_word_new_line3 | advance
+| bip_39_word_new_line_3 | advance
 penalty
 buffalo |  
-| bip_39_word_new_line4 | advance
+| bip_39_word_new_line_4 | advance
 penalty
 buffalo
 curve |  
-| bip_39_word_new_line5 | advance
+| bip_39_word_new_line_5 | advance
 penalty
 buffalo
 curve
 athlete |  
-| bip_39_word_new_line6 | advance
+| bip_39_word_new_line_6 | advance
 penalty
 buffalo
 curve
 athlete
 swear |  
-| bip_39_word_new_line7 | advance
+| bip_39_word_new_line_7 | advance
 penalty
 buffalo
 curve
 athlete
 swear
 push |  
-| bip_39_word_new_line8 | advance
+| bip_39_word_new_line_8 | advance
 penalty
 buffalo
 curve
@@ -113,7 +113,7 @@ athlete
 swear
 push
 endless |  
-| bip_39_word_new_line9 | advance
+| bip_39_word_new_line_9 | advance
 penalty
 buffalo
 curve

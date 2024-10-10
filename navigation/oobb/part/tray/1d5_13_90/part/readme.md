@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | skate |  
-| bip_39_word_new_br10 | skate<br>miracle<br>rug<br>race<br>audit<br>evolve<br>swear<br>setup<br>armed<br>trigger |  
-| bip_39_word_new_br11 | skate<br>miracle<br>rug<br>race<br>audit<br>evolve<br>swear<br>setup<br>armed<br>trigger<br>inject |  
-| bip_39_word_new_br12 | skate<br>miracle<br>rug<br>race<br>audit<br>evolve<br>swear<br>setup<br>armed<br>trigger<br>inject<br>artist |  
-| bip_39_word_new_br2 | skate<br>miracle |  
-| bip_39_word_new_br3 | skate<br>miracle<br>rug |  
-| bip_39_word_new_br4 | skate<br>miracle<br>rug<br>race |  
-| bip_39_word_new_br5 | skate<br>miracle<br>rug<br>race<br>audit |  
-| bip_39_word_new_br6 | skate<br>miracle<br>rug<br>race<br>audit<br>evolve |  
-| bip_39_word_new_br7 | skate<br>miracle<br>rug<br>race<br>audit<br>evolve<br>swear |  
-| bip_39_word_new_br8 | skate<br>miracle<br>rug<br>race<br>audit<br>evolve<br>swear<br>setup |  
-| bip_39_word_new_br9 | skate<br>miracle<br>rug<br>race<br>audit<br>evolve<br>swear<br>setup<br>armed |  
-| bip_39_word_new_line1 | skate |  
-| bip_39_word_new_line10 | skate
+| bip_39_word_new_br_1 | skate |  
+| bip_39_word_new_br_10 | skate<br>miracle<br>rug<br>race<br>audit<br>evolve<br>swear<br>setup<br>armed<br>trigger |  
+| bip_39_word_new_br_11 | skate<br>miracle<br>rug<br>race<br>audit<br>evolve<br>swear<br>setup<br>armed<br>trigger<br>inject |  
+| bip_39_word_new_br_12 | skate<br>miracle<br>rug<br>race<br>audit<br>evolve<br>swear<br>setup<br>armed<br>trigger<br>inject<br>artist |  
+| bip_39_word_new_br_2 | skate<br>miracle |  
+| bip_39_word_new_br_3 | skate<br>miracle<br>rug |  
+| bip_39_word_new_br_4 | skate<br>miracle<br>rug<br>race |  
+| bip_39_word_new_br_5 | skate<br>miracle<br>rug<br>race<br>audit |  
+| bip_39_word_new_br_6 | skate<br>miracle<br>rug<br>race<br>audit<br>evolve |  
+| bip_39_word_new_br_7 | skate<br>miracle<br>rug<br>race<br>audit<br>evolve<br>swear |  
+| bip_39_word_new_br_8 | skate<br>miracle<br>rug<br>race<br>audit<br>evolve<br>swear<br>setup |  
+| bip_39_word_new_br_9 | skate<br>miracle<br>rug<br>race<br>audit<br>evolve<br>swear<br>setup<br>armed |  
+| bip_39_word_new_line_1 | skate |  
+| bip_39_word_new_line_10 | skate
 miracle
 rug
 race
@@ -55,7 +55,7 @@ swear
 setup
 armed
 trigger |  
-| bip_39_word_new_line11 | skate
+| bip_39_word_new_line_11 | skate
 miracle
 rug
 race
@@ -66,7 +66,7 @@ setup
 armed
 trigger
 inject |  
-| bip_39_word_new_line12 | skate
+| bip_39_word_new_line_12 | skate
 miracle
 rug
 race
@@ -78,34 +78,34 @@ armed
 trigger
 inject
 artist |  
-| bip_39_word_new_line2 | skate
+| bip_39_word_new_line_2 | skate
 miracle |  
-| bip_39_word_new_line3 | skate
+| bip_39_word_new_line_3 | skate
 miracle
 rug |  
-| bip_39_word_new_line4 | skate
+| bip_39_word_new_line_4 | skate
 miracle
 rug
 race |  
-| bip_39_word_new_line5 | skate
+| bip_39_word_new_line_5 | skate
 miracle
 rug
 race
 audit |  
-| bip_39_word_new_line6 | skate
+| bip_39_word_new_line_6 | skate
 miracle
 rug
 race
 audit
 evolve |  
-| bip_39_word_new_line7 | skate
+| bip_39_word_new_line_7 | skate
 miracle
 rug
 race
 audit
 evolve
 swear |  
-| bip_39_word_new_line8 | skate
+| bip_39_word_new_line_8 | skate
 miracle
 rug
 race
@@ -113,7 +113,7 @@ audit
 evolve
 swear
 setup |  
-| bip_39_word_new_line9 | skate
+| bip_39_word_new_line_9 | skate
 miracle
 rug
 race

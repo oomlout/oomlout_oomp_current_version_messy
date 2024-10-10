@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | private |  
-| bip_39_word_new_br10 | private<br>inmate<br>crisp<br>surprise<br>voyage<br>draw<br>hint<br>ladder<br>fortune<br>cabin |  
-| bip_39_word_new_br11 | private<br>inmate<br>crisp<br>surprise<br>voyage<br>draw<br>hint<br>ladder<br>fortune<br>cabin<br>trend |  
-| bip_39_word_new_br12 | private<br>inmate<br>crisp<br>surprise<br>voyage<br>draw<br>hint<br>ladder<br>fortune<br>cabin<br>trend<br>athlete |  
-| bip_39_word_new_br2 | private<br>inmate |  
-| bip_39_word_new_br3 | private<br>inmate<br>crisp |  
-| bip_39_word_new_br4 | private<br>inmate<br>crisp<br>surprise |  
-| bip_39_word_new_br5 | private<br>inmate<br>crisp<br>surprise<br>voyage |  
-| bip_39_word_new_br6 | private<br>inmate<br>crisp<br>surprise<br>voyage<br>draw |  
-| bip_39_word_new_br7 | private<br>inmate<br>crisp<br>surprise<br>voyage<br>draw<br>hint |  
-| bip_39_word_new_br8 | private<br>inmate<br>crisp<br>surprise<br>voyage<br>draw<br>hint<br>ladder |  
-| bip_39_word_new_br9 | private<br>inmate<br>crisp<br>surprise<br>voyage<br>draw<br>hint<br>ladder<br>fortune |  
-| bip_39_word_new_line1 | private |  
-| bip_39_word_new_line10 | private
+| bip_39_word_new_br_1 | private |  
+| bip_39_word_new_br_10 | private<br>inmate<br>crisp<br>surprise<br>voyage<br>draw<br>hint<br>ladder<br>fortune<br>cabin |  
+| bip_39_word_new_br_11 | private<br>inmate<br>crisp<br>surprise<br>voyage<br>draw<br>hint<br>ladder<br>fortune<br>cabin<br>trend |  
+| bip_39_word_new_br_12 | private<br>inmate<br>crisp<br>surprise<br>voyage<br>draw<br>hint<br>ladder<br>fortune<br>cabin<br>trend<br>athlete |  
+| bip_39_word_new_br_2 | private<br>inmate |  
+| bip_39_word_new_br_3 | private<br>inmate<br>crisp |  
+| bip_39_word_new_br_4 | private<br>inmate<br>crisp<br>surprise |  
+| bip_39_word_new_br_5 | private<br>inmate<br>crisp<br>surprise<br>voyage |  
+| bip_39_word_new_br_6 | private<br>inmate<br>crisp<br>surprise<br>voyage<br>draw |  
+| bip_39_word_new_br_7 | private<br>inmate<br>crisp<br>surprise<br>voyage<br>draw<br>hint |  
+| bip_39_word_new_br_8 | private<br>inmate<br>crisp<br>surprise<br>voyage<br>draw<br>hint<br>ladder |  
+| bip_39_word_new_br_9 | private<br>inmate<br>crisp<br>surprise<br>voyage<br>draw<br>hint<br>ladder<br>fortune |  
+| bip_39_word_new_line_1 | private |  
+| bip_39_word_new_line_10 | private
 inmate
 crisp
 surprise
@@ -55,7 +55,7 @@ hint
 ladder
 fortune
 cabin |  
-| bip_39_word_new_line11 | private
+| bip_39_word_new_line_11 | private
 inmate
 crisp
 surprise
@@ -66,7 +66,7 @@ ladder
 fortune
 cabin
 trend |  
-| bip_39_word_new_line12 | private
+| bip_39_word_new_line_12 | private
 inmate
 crisp
 surprise
@@ -78,34 +78,34 @@ fortune
 cabin
 trend
 athlete |  
-| bip_39_word_new_line2 | private
+| bip_39_word_new_line_2 | private
 inmate |  
-| bip_39_word_new_line3 | private
+| bip_39_word_new_line_3 | private
 inmate
 crisp |  
-| bip_39_word_new_line4 | private
+| bip_39_word_new_line_4 | private
 inmate
 crisp
 surprise |  
-| bip_39_word_new_line5 | private
+| bip_39_word_new_line_5 | private
 inmate
 crisp
 surprise
 voyage |  
-| bip_39_word_new_line6 | private
+| bip_39_word_new_line_6 | private
 inmate
 crisp
 surprise
 voyage
 draw |  
-| bip_39_word_new_line7 | private
+| bip_39_word_new_line_7 | private
 inmate
 crisp
 surprise
 voyage
 draw
 hint |  
-| bip_39_word_new_line8 | private
+| bip_39_word_new_line_8 | private
 inmate
 crisp
 surprise
@@ -113,7 +113,7 @@ voyage
 draw
 hint
 ladder |  
-| bip_39_word_new_line9 | private
+| bip_39_word_new_line_9 | private
 inmate
 crisp
 surprise

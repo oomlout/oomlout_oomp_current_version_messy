@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | artist |  
-| bip_39_word_new_br10 | artist<br>hungry<br>verify<br>bonus<br>wreck<br>ensure<br>blast<br>search<br>suit<br>solar |  
-| bip_39_word_new_br11 | artist<br>hungry<br>verify<br>bonus<br>wreck<br>ensure<br>blast<br>search<br>suit<br>solar<br>cute |  
-| bip_39_word_new_br12 | artist<br>hungry<br>verify<br>bonus<br>wreck<br>ensure<br>blast<br>search<br>suit<br>solar<br>cute<br>alarm |  
-| bip_39_word_new_br2 | artist<br>hungry |  
-| bip_39_word_new_br3 | artist<br>hungry<br>verify |  
-| bip_39_word_new_br4 | artist<br>hungry<br>verify<br>bonus |  
-| bip_39_word_new_br5 | artist<br>hungry<br>verify<br>bonus<br>wreck |  
-| bip_39_word_new_br6 | artist<br>hungry<br>verify<br>bonus<br>wreck<br>ensure |  
-| bip_39_word_new_br7 | artist<br>hungry<br>verify<br>bonus<br>wreck<br>ensure<br>blast |  
-| bip_39_word_new_br8 | artist<br>hungry<br>verify<br>bonus<br>wreck<br>ensure<br>blast<br>search |  
-| bip_39_word_new_br9 | artist<br>hungry<br>verify<br>bonus<br>wreck<br>ensure<br>blast<br>search<br>suit |  
-| bip_39_word_new_line1 | artist |  
-| bip_39_word_new_line10 | artist
+| bip_39_word_new_br_1 | artist |  
+| bip_39_word_new_br_10 | artist<br>hungry<br>verify<br>bonus<br>wreck<br>ensure<br>blast<br>search<br>suit<br>solar |  
+| bip_39_word_new_br_11 | artist<br>hungry<br>verify<br>bonus<br>wreck<br>ensure<br>blast<br>search<br>suit<br>solar<br>cute |  
+| bip_39_word_new_br_12 | artist<br>hungry<br>verify<br>bonus<br>wreck<br>ensure<br>blast<br>search<br>suit<br>solar<br>cute<br>alarm |  
+| bip_39_word_new_br_2 | artist<br>hungry |  
+| bip_39_word_new_br_3 | artist<br>hungry<br>verify |  
+| bip_39_word_new_br_4 | artist<br>hungry<br>verify<br>bonus |  
+| bip_39_word_new_br_5 | artist<br>hungry<br>verify<br>bonus<br>wreck |  
+| bip_39_word_new_br_6 | artist<br>hungry<br>verify<br>bonus<br>wreck<br>ensure |  
+| bip_39_word_new_br_7 | artist<br>hungry<br>verify<br>bonus<br>wreck<br>ensure<br>blast |  
+| bip_39_word_new_br_8 | artist<br>hungry<br>verify<br>bonus<br>wreck<br>ensure<br>blast<br>search |  
+| bip_39_word_new_br_9 | artist<br>hungry<br>verify<br>bonus<br>wreck<br>ensure<br>blast<br>search<br>suit |  
+| bip_39_word_new_line_1 | artist |  
+| bip_39_word_new_line_10 | artist
 hungry
 verify
 bonus
@@ -55,7 +55,7 @@ blast
 search
 suit
 solar |  
-| bip_39_word_new_line11 | artist
+| bip_39_word_new_line_11 | artist
 hungry
 verify
 bonus
@@ -66,7 +66,7 @@ search
 suit
 solar
 cute |  
-| bip_39_word_new_line12 | artist
+| bip_39_word_new_line_12 | artist
 hungry
 verify
 bonus
@@ -78,34 +78,34 @@ suit
 solar
 cute
 alarm |  
-| bip_39_word_new_line2 | artist
+| bip_39_word_new_line_2 | artist
 hungry |  
-| bip_39_word_new_line3 | artist
+| bip_39_word_new_line_3 | artist
 hungry
 verify |  
-| bip_39_word_new_line4 | artist
+| bip_39_word_new_line_4 | artist
 hungry
 verify
 bonus |  
-| bip_39_word_new_line5 | artist
+| bip_39_word_new_line_5 | artist
 hungry
 verify
 bonus
 wreck |  
-| bip_39_word_new_line6 | artist
+| bip_39_word_new_line_6 | artist
 hungry
 verify
 bonus
 wreck
 ensure |  
-| bip_39_word_new_line7 | artist
+| bip_39_word_new_line_7 | artist
 hungry
 verify
 bonus
 wreck
 ensure
 blast |  
-| bip_39_word_new_line8 | artist
+| bip_39_word_new_line_8 | artist
 hungry
 verify
 bonus
@@ -113,7 +113,7 @@ wreck
 ensure
 blast
 search |  
-| bip_39_word_new_line9 | artist
+| bip_39_word_new_line_9 | artist
 hungry
 verify
 bonus

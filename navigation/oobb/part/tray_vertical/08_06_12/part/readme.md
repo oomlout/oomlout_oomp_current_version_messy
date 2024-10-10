@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | repair |  
-| bip_39_word_new_br10 | repair<br>shoe<br>blue<br>blind<br>top<br>remember<br>praise<br>indoor<br>used<br>attack |  
-| bip_39_word_new_br11 | repair<br>shoe<br>blue<br>blind<br>top<br>remember<br>praise<br>indoor<br>used<br>attack<br>code |  
-| bip_39_word_new_br12 | repair<br>shoe<br>blue<br>blind<br>top<br>remember<br>praise<br>indoor<br>used<br>attack<br>code<br>armed |  
-| bip_39_word_new_br2 | repair<br>shoe |  
-| bip_39_word_new_br3 | repair<br>shoe<br>blue |  
-| bip_39_word_new_br4 | repair<br>shoe<br>blue<br>blind |  
-| bip_39_word_new_br5 | repair<br>shoe<br>blue<br>blind<br>top |  
-| bip_39_word_new_br6 | repair<br>shoe<br>blue<br>blind<br>top<br>remember |  
-| bip_39_word_new_br7 | repair<br>shoe<br>blue<br>blind<br>top<br>remember<br>praise |  
-| bip_39_word_new_br8 | repair<br>shoe<br>blue<br>blind<br>top<br>remember<br>praise<br>indoor |  
-| bip_39_word_new_br9 | repair<br>shoe<br>blue<br>blind<br>top<br>remember<br>praise<br>indoor<br>used |  
-| bip_39_word_new_line1 | repair |  
-| bip_39_word_new_line10 | repair
+| bip_39_word_new_br_1 | repair |  
+| bip_39_word_new_br_10 | repair<br>shoe<br>blue<br>blind<br>top<br>remember<br>praise<br>indoor<br>used<br>attack |  
+| bip_39_word_new_br_11 | repair<br>shoe<br>blue<br>blind<br>top<br>remember<br>praise<br>indoor<br>used<br>attack<br>code |  
+| bip_39_word_new_br_12 | repair<br>shoe<br>blue<br>blind<br>top<br>remember<br>praise<br>indoor<br>used<br>attack<br>code<br>armed |  
+| bip_39_word_new_br_2 | repair<br>shoe |  
+| bip_39_word_new_br_3 | repair<br>shoe<br>blue |  
+| bip_39_word_new_br_4 | repair<br>shoe<br>blue<br>blind |  
+| bip_39_word_new_br_5 | repair<br>shoe<br>blue<br>blind<br>top |  
+| bip_39_word_new_br_6 | repair<br>shoe<br>blue<br>blind<br>top<br>remember |  
+| bip_39_word_new_br_7 | repair<br>shoe<br>blue<br>blind<br>top<br>remember<br>praise |  
+| bip_39_word_new_br_8 | repair<br>shoe<br>blue<br>blind<br>top<br>remember<br>praise<br>indoor |  
+| bip_39_word_new_br_9 | repair<br>shoe<br>blue<br>blind<br>top<br>remember<br>praise<br>indoor<br>used |  
+| bip_39_word_new_line_1 | repair |  
+| bip_39_word_new_line_10 | repair
 shoe
 blue
 blind
@@ -55,7 +55,7 @@ praise
 indoor
 used
 attack |  
-| bip_39_word_new_line11 | repair
+| bip_39_word_new_line_11 | repair
 shoe
 blue
 blind
@@ -66,7 +66,7 @@ indoor
 used
 attack
 code |  
-| bip_39_word_new_line12 | repair
+| bip_39_word_new_line_12 | repair
 shoe
 blue
 blind
@@ -78,34 +78,34 @@ used
 attack
 code
 armed |  
-| bip_39_word_new_line2 | repair
+| bip_39_word_new_line_2 | repair
 shoe |  
-| bip_39_word_new_line3 | repair
+| bip_39_word_new_line_3 | repair
 shoe
 blue |  
-| bip_39_word_new_line4 | repair
+| bip_39_word_new_line_4 | repair
 shoe
 blue
 blind |  
-| bip_39_word_new_line5 | repair
+| bip_39_word_new_line_5 | repair
 shoe
 blue
 blind
 top |  
-| bip_39_word_new_line6 | repair
+| bip_39_word_new_line_6 | repair
 shoe
 blue
 blind
 top
 remember |  
-| bip_39_word_new_line7 | repair
+| bip_39_word_new_line_7 | repair
 shoe
 blue
 blind
 top
 remember
 praise |  
-| bip_39_word_new_line8 | repair
+| bip_39_word_new_line_8 | repair
 shoe
 blue
 blind
@@ -113,7 +113,7 @@ top
 remember
 praise
 indoor |  
-| bip_39_word_new_line9 | repair
+| bip_39_word_new_line_9 | repair
 shoe
 blue
 blind

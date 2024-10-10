@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | receive |  
-| bip_39_word_new_br10 | receive<br>armed<br>stadium<br>owner<br>have<br>hurdle<br>modify<br>decorate<br>city<br>mixed |  
-| bip_39_word_new_br11 | receive<br>armed<br>stadium<br>owner<br>have<br>hurdle<br>modify<br>decorate<br>city<br>mixed<br>camp |  
-| bip_39_word_new_br12 | receive<br>armed<br>stadium<br>owner<br>have<br>hurdle<br>modify<br>decorate<br>city<br>mixed<br>camp<br>attract |  
-| bip_39_word_new_br2 | receive<br>armed |  
-| bip_39_word_new_br3 | receive<br>armed<br>stadium |  
-| bip_39_word_new_br4 | receive<br>armed<br>stadium<br>owner |  
-| bip_39_word_new_br5 | receive<br>armed<br>stadium<br>owner<br>have |  
-| bip_39_word_new_br6 | receive<br>armed<br>stadium<br>owner<br>have<br>hurdle |  
-| bip_39_word_new_br7 | receive<br>armed<br>stadium<br>owner<br>have<br>hurdle<br>modify |  
-| bip_39_word_new_br8 | receive<br>armed<br>stadium<br>owner<br>have<br>hurdle<br>modify<br>decorate |  
-| bip_39_word_new_br9 | receive<br>armed<br>stadium<br>owner<br>have<br>hurdle<br>modify<br>decorate<br>city |  
-| bip_39_word_new_line1 | receive |  
-| bip_39_word_new_line10 | receive
+| bip_39_word_new_br_1 | receive |  
+| bip_39_word_new_br_10 | receive<br>armed<br>stadium<br>owner<br>have<br>hurdle<br>modify<br>decorate<br>city<br>mixed |  
+| bip_39_word_new_br_11 | receive<br>armed<br>stadium<br>owner<br>have<br>hurdle<br>modify<br>decorate<br>city<br>mixed<br>camp |  
+| bip_39_word_new_br_12 | receive<br>armed<br>stadium<br>owner<br>have<br>hurdle<br>modify<br>decorate<br>city<br>mixed<br>camp<br>attract |  
+| bip_39_word_new_br_2 | receive<br>armed |  
+| bip_39_word_new_br_3 | receive<br>armed<br>stadium |  
+| bip_39_word_new_br_4 | receive<br>armed<br>stadium<br>owner |  
+| bip_39_word_new_br_5 | receive<br>armed<br>stadium<br>owner<br>have |  
+| bip_39_word_new_br_6 | receive<br>armed<br>stadium<br>owner<br>have<br>hurdle |  
+| bip_39_word_new_br_7 | receive<br>armed<br>stadium<br>owner<br>have<br>hurdle<br>modify |  
+| bip_39_word_new_br_8 | receive<br>armed<br>stadium<br>owner<br>have<br>hurdle<br>modify<br>decorate |  
+| bip_39_word_new_br_9 | receive<br>armed<br>stadium<br>owner<br>have<br>hurdle<br>modify<br>decorate<br>city |  
+| bip_39_word_new_line_1 | receive |  
+| bip_39_word_new_line_10 | receive
 armed
 stadium
 owner
@@ -55,7 +55,7 @@ modify
 decorate
 city
 mixed |  
-| bip_39_word_new_line11 | receive
+| bip_39_word_new_line_11 | receive
 armed
 stadium
 owner
@@ -66,7 +66,7 @@ decorate
 city
 mixed
 camp |  
-| bip_39_word_new_line12 | receive
+| bip_39_word_new_line_12 | receive
 armed
 stadium
 owner
@@ -78,34 +78,34 @@ city
 mixed
 camp
 attract |  
-| bip_39_word_new_line2 | receive
+| bip_39_word_new_line_2 | receive
 armed |  
-| bip_39_word_new_line3 | receive
+| bip_39_word_new_line_3 | receive
 armed
 stadium |  
-| bip_39_word_new_line4 | receive
+| bip_39_word_new_line_4 | receive
 armed
 stadium
 owner |  
-| bip_39_word_new_line5 | receive
+| bip_39_word_new_line_5 | receive
 armed
 stadium
 owner
 have |  
-| bip_39_word_new_line6 | receive
+| bip_39_word_new_line_6 | receive
 armed
 stadium
 owner
 have
 hurdle |  
-| bip_39_word_new_line7 | receive
+| bip_39_word_new_line_7 | receive
 armed
 stadium
 owner
 have
 hurdle
 modify |  
-| bip_39_word_new_line8 | receive
+| bip_39_word_new_line_8 | receive
 armed
 stadium
 owner
@@ -113,7 +113,7 @@ have
 hurdle
 modify
 decorate |  
-| bip_39_word_new_line9 | receive
+| bip_39_word_new_line_9 | receive
 armed
 stadium
 owner

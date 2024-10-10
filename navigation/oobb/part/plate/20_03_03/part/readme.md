@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sing |  
-| bip_39_word_new_br10 | sing<br>aisle<br>repair<br>stool<br>summer<br>grit<br>basic<br>inside<br>midnight<br>monitor |  
-| bip_39_word_new_br11 | sing<br>aisle<br>repair<br>stool<br>summer<br>grit<br>basic<br>inside<br>midnight<br>monitor<br>fruit |  
-| bip_39_word_new_br12 | sing<br>aisle<br>repair<br>stool<br>summer<br>grit<br>basic<br>inside<br>midnight<br>monitor<br>fruit<br>area |  
-| bip_39_word_new_br2 | sing<br>aisle |  
-| bip_39_word_new_br3 | sing<br>aisle<br>repair |  
-| bip_39_word_new_br4 | sing<br>aisle<br>repair<br>stool |  
-| bip_39_word_new_br5 | sing<br>aisle<br>repair<br>stool<br>summer |  
-| bip_39_word_new_br6 | sing<br>aisle<br>repair<br>stool<br>summer<br>grit |  
-| bip_39_word_new_br7 | sing<br>aisle<br>repair<br>stool<br>summer<br>grit<br>basic |  
-| bip_39_word_new_br8 | sing<br>aisle<br>repair<br>stool<br>summer<br>grit<br>basic<br>inside |  
-| bip_39_word_new_br9 | sing<br>aisle<br>repair<br>stool<br>summer<br>grit<br>basic<br>inside<br>midnight |  
-| bip_39_word_new_line1 | sing |  
-| bip_39_word_new_line10 | sing
+| bip_39_word_new_br_1 | sing |  
+| bip_39_word_new_br_10 | sing<br>aisle<br>repair<br>stool<br>summer<br>grit<br>basic<br>inside<br>midnight<br>monitor |  
+| bip_39_word_new_br_11 | sing<br>aisle<br>repair<br>stool<br>summer<br>grit<br>basic<br>inside<br>midnight<br>monitor<br>fruit |  
+| bip_39_word_new_br_12 | sing<br>aisle<br>repair<br>stool<br>summer<br>grit<br>basic<br>inside<br>midnight<br>monitor<br>fruit<br>area |  
+| bip_39_word_new_br_2 | sing<br>aisle |  
+| bip_39_word_new_br_3 | sing<br>aisle<br>repair |  
+| bip_39_word_new_br_4 | sing<br>aisle<br>repair<br>stool |  
+| bip_39_word_new_br_5 | sing<br>aisle<br>repair<br>stool<br>summer |  
+| bip_39_word_new_br_6 | sing<br>aisle<br>repair<br>stool<br>summer<br>grit |  
+| bip_39_word_new_br_7 | sing<br>aisle<br>repair<br>stool<br>summer<br>grit<br>basic |  
+| bip_39_word_new_br_8 | sing<br>aisle<br>repair<br>stool<br>summer<br>grit<br>basic<br>inside |  
+| bip_39_word_new_br_9 | sing<br>aisle<br>repair<br>stool<br>summer<br>grit<br>basic<br>inside<br>midnight |  
+| bip_39_word_new_line_1 | sing |  
+| bip_39_word_new_line_10 | sing
 aisle
 repair
 stool
@@ -55,7 +55,7 @@ basic
 inside
 midnight
 monitor |  
-| bip_39_word_new_line11 | sing
+| bip_39_word_new_line_11 | sing
 aisle
 repair
 stool
@@ -66,7 +66,7 @@ inside
 midnight
 monitor
 fruit |  
-| bip_39_word_new_line12 | sing
+| bip_39_word_new_line_12 | sing
 aisle
 repair
 stool
@@ -78,34 +78,34 @@ midnight
 monitor
 fruit
 area |  
-| bip_39_word_new_line2 | sing
+| bip_39_word_new_line_2 | sing
 aisle |  
-| bip_39_word_new_line3 | sing
+| bip_39_word_new_line_3 | sing
 aisle
 repair |  
-| bip_39_word_new_line4 | sing
+| bip_39_word_new_line_4 | sing
 aisle
 repair
 stool |  
-| bip_39_word_new_line5 | sing
+| bip_39_word_new_line_5 | sing
 aisle
 repair
 stool
 summer |  
-| bip_39_word_new_line6 | sing
+| bip_39_word_new_line_6 | sing
 aisle
 repair
 stool
 summer
 grit |  
-| bip_39_word_new_line7 | sing
+| bip_39_word_new_line_7 | sing
 aisle
 repair
 stool
 summer
 grit
 basic |  
-| bip_39_word_new_line8 | sing
+| bip_39_word_new_line_8 | sing
 aisle
 repair
 stool
@@ -113,7 +113,7 @@ summer
 grit
 basic
 inside |  
-| bip_39_word_new_line9 | sing
+| bip_39_word_new_line_9 | sing
 aisle
 repair
 stool

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | help |  
-| bip_39_word_new_br10 | help<br>confirm<br>awesome<br>turtle<br>anxiety<br>identify<br>disagree<br>rent<br>guitar<br>convince |  
-| bip_39_word_new_br11 | help<br>confirm<br>awesome<br>turtle<br>anxiety<br>identify<br>disagree<br>rent<br>guitar<br>convince<br>modify |  
-| bip_39_word_new_br12 | help<br>confirm<br>awesome<br>turtle<br>anxiety<br>identify<br>disagree<br>rent<br>guitar<br>convince<br>modify<br>antique |  
-| bip_39_word_new_br2 | help<br>confirm |  
-| bip_39_word_new_br3 | help<br>confirm<br>awesome |  
-| bip_39_word_new_br4 | help<br>confirm<br>awesome<br>turtle |  
-| bip_39_word_new_br5 | help<br>confirm<br>awesome<br>turtle<br>anxiety |  
-| bip_39_word_new_br6 | help<br>confirm<br>awesome<br>turtle<br>anxiety<br>identify |  
-| bip_39_word_new_br7 | help<br>confirm<br>awesome<br>turtle<br>anxiety<br>identify<br>disagree |  
-| bip_39_word_new_br8 | help<br>confirm<br>awesome<br>turtle<br>anxiety<br>identify<br>disagree<br>rent |  
-| bip_39_word_new_br9 | help<br>confirm<br>awesome<br>turtle<br>anxiety<br>identify<br>disagree<br>rent<br>guitar |  
-| bip_39_word_new_line1 | help |  
-| bip_39_word_new_line10 | help
+| bip_39_word_new_br_1 | help |  
+| bip_39_word_new_br_10 | help<br>confirm<br>awesome<br>turtle<br>anxiety<br>identify<br>disagree<br>rent<br>guitar<br>convince |  
+| bip_39_word_new_br_11 | help<br>confirm<br>awesome<br>turtle<br>anxiety<br>identify<br>disagree<br>rent<br>guitar<br>convince<br>modify |  
+| bip_39_word_new_br_12 | help<br>confirm<br>awesome<br>turtle<br>anxiety<br>identify<br>disagree<br>rent<br>guitar<br>convince<br>modify<br>antique |  
+| bip_39_word_new_br_2 | help<br>confirm |  
+| bip_39_word_new_br_3 | help<br>confirm<br>awesome |  
+| bip_39_word_new_br_4 | help<br>confirm<br>awesome<br>turtle |  
+| bip_39_word_new_br_5 | help<br>confirm<br>awesome<br>turtle<br>anxiety |  
+| bip_39_word_new_br_6 | help<br>confirm<br>awesome<br>turtle<br>anxiety<br>identify |  
+| bip_39_word_new_br_7 | help<br>confirm<br>awesome<br>turtle<br>anxiety<br>identify<br>disagree |  
+| bip_39_word_new_br_8 | help<br>confirm<br>awesome<br>turtle<br>anxiety<br>identify<br>disagree<br>rent |  
+| bip_39_word_new_br_9 | help<br>confirm<br>awesome<br>turtle<br>anxiety<br>identify<br>disagree<br>rent<br>guitar |  
+| bip_39_word_new_line_1 | help |  
+| bip_39_word_new_line_10 | help
 confirm
 awesome
 turtle
@@ -55,7 +55,7 @@ disagree
 rent
 guitar
 convince |  
-| bip_39_word_new_line11 | help
+| bip_39_word_new_line_11 | help
 confirm
 awesome
 turtle
@@ -66,7 +66,7 @@ rent
 guitar
 convince
 modify |  
-| bip_39_word_new_line12 | help
+| bip_39_word_new_line_12 | help
 confirm
 awesome
 turtle
@@ -78,34 +78,34 @@ guitar
 convince
 modify
 antique |  
-| bip_39_word_new_line2 | help
+| bip_39_word_new_line_2 | help
 confirm |  
-| bip_39_word_new_line3 | help
+| bip_39_word_new_line_3 | help
 confirm
 awesome |  
-| bip_39_word_new_line4 | help
+| bip_39_word_new_line_4 | help
 confirm
 awesome
 turtle |  
-| bip_39_word_new_line5 | help
+| bip_39_word_new_line_5 | help
 confirm
 awesome
 turtle
 anxiety |  
-| bip_39_word_new_line6 | help
+| bip_39_word_new_line_6 | help
 confirm
 awesome
 turtle
 anxiety
 identify |  
-| bip_39_word_new_line7 | help
+| bip_39_word_new_line_7 | help
 confirm
 awesome
 turtle
 anxiety
 identify
 disagree |  
-| bip_39_word_new_line8 | help
+| bip_39_word_new_line_8 | help
 confirm
 awesome
 turtle
@@ -113,7 +113,7 @@ anxiety
 identify
 disagree
 rent |  
-| bip_39_word_new_line9 | help
+| bip_39_word_new_line_9 | help
 confirm
 awesome
 turtle

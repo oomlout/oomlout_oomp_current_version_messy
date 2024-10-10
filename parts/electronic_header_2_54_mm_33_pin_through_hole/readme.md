@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | code |  
-| bip_39_word_new_br10 | code<br>about<br>oven<br>law<br>cruel<br>general<br>broom<br>pill<br>under<br>thing |  
-| bip_39_word_new_br11 | code<br>about<br>oven<br>law<br>cruel<br>general<br>broom<br>pill<br>under<br>thing<br>age |  
-| bip_39_word_new_br12 | code<br>about<br>oven<br>law<br>cruel<br>general<br>broom<br>pill<br>under<br>thing<br>age<br>auto |  
-| bip_39_word_new_br2 | code<br>about |  
-| bip_39_word_new_br3 | code<br>about<br>oven |  
-| bip_39_word_new_br4 | code<br>about<br>oven<br>law |  
-| bip_39_word_new_br5 | code<br>about<br>oven<br>law<br>cruel |  
-| bip_39_word_new_br6 | code<br>about<br>oven<br>law<br>cruel<br>general |  
-| bip_39_word_new_br7 | code<br>about<br>oven<br>law<br>cruel<br>general<br>broom |  
-| bip_39_word_new_br8 | code<br>about<br>oven<br>law<br>cruel<br>general<br>broom<br>pill |  
-| bip_39_word_new_br9 | code<br>about<br>oven<br>law<br>cruel<br>general<br>broom<br>pill<br>under |  
-| bip_39_word_new_line1 | code |  
-| bip_39_word_new_line10 | code
+| bip_39_word_new_br_1 | code |  
+| bip_39_word_new_br_10 | code<br>about<br>oven<br>law<br>cruel<br>general<br>broom<br>pill<br>under<br>thing |  
+| bip_39_word_new_br_11 | code<br>about<br>oven<br>law<br>cruel<br>general<br>broom<br>pill<br>under<br>thing<br>age |  
+| bip_39_word_new_br_12 | code<br>about<br>oven<br>law<br>cruel<br>general<br>broom<br>pill<br>under<br>thing<br>age<br>auto |  
+| bip_39_word_new_br_2 | code<br>about |  
+| bip_39_word_new_br_3 | code<br>about<br>oven |  
+| bip_39_word_new_br_4 | code<br>about<br>oven<br>law |  
+| bip_39_word_new_br_5 | code<br>about<br>oven<br>law<br>cruel |  
+| bip_39_word_new_br_6 | code<br>about<br>oven<br>law<br>cruel<br>general |  
+| bip_39_word_new_br_7 | code<br>about<br>oven<br>law<br>cruel<br>general<br>broom |  
+| bip_39_word_new_br_8 | code<br>about<br>oven<br>law<br>cruel<br>general<br>broom<br>pill |  
+| bip_39_word_new_br_9 | code<br>about<br>oven<br>law<br>cruel<br>general<br>broom<br>pill<br>under |  
+| bip_39_word_new_line_1 | code |  
+| bip_39_word_new_line_10 | code
 about
 oven
 law
@@ -55,7 +55,7 @@ broom
 pill
 under
 thing |  
-| bip_39_word_new_line11 | code
+| bip_39_word_new_line_11 | code
 about
 oven
 law
@@ -66,7 +66,7 @@ pill
 under
 thing
 age |  
-| bip_39_word_new_line12 | code
+| bip_39_word_new_line_12 | code
 about
 oven
 law
@@ -78,34 +78,34 @@ under
 thing
 age
 auto |  
-| bip_39_word_new_line2 | code
+| bip_39_word_new_line_2 | code
 about |  
-| bip_39_word_new_line3 | code
+| bip_39_word_new_line_3 | code
 about
 oven |  
-| bip_39_word_new_line4 | code
+| bip_39_word_new_line_4 | code
 about
 oven
 law |  
-| bip_39_word_new_line5 | code
+| bip_39_word_new_line_5 | code
 about
 oven
 law
 cruel |  
-| bip_39_word_new_line6 | code
+| bip_39_word_new_line_6 | code
 about
 oven
 law
 cruel
 general |  
-| bip_39_word_new_line7 | code
+| bip_39_word_new_line_7 | code
 about
 oven
 law
 cruel
 general
 broom |  
-| bip_39_word_new_line8 | code
+| bip_39_word_new_line_8 | code
 about
 oven
 law
@@ -113,7 +113,7 @@ cruel
 general
 broom
 pill |  
-| bip_39_word_new_line9 | code
+| bip_39_word_new_line_9 | code
 about
 oven
 law

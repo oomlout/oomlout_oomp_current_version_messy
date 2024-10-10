@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | vendor |  
-| bip_39_word_new_br10 | vendor<br>cost<br>tackle<br>calm<br>squirrel<br>pink<br>aim<br>olive<br>happy<br>sustain |  
-| bip_39_word_new_br11 | vendor<br>cost<br>tackle<br>calm<br>squirrel<br>pink<br>aim<br>olive<br>happy<br>sustain<br>category |  
-| bip_39_word_new_br12 | vendor<br>cost<br>tackle<br>calm<br>squirrel<br>pink<br>aim<br>olive<br>happy<br>sustain<br>category<br>arena |  
-| bip_39_word_new_br2 | vendor<br>cost |  
-| bip_39_word_new_br3 | vendor<br>cost<br>tackle |  
-| bip_39_word_new_br4 | vendor<br>cost<br>tackle<br>calm |  
-| bip_39_word_new_br5 | vendor<br>cost<br>tackle<br>calm<br>squirrel |  
-| bip_39_word_new_br6 | vendor<br>cost<br>tackle<br>calm<br>squirrel<br>pink |  
-| bip_39_word_new_br7 | vendor<br>cost<br>tackle<br>calm<br>squirrel<br>pink<br>aim |  
-| bip_39_word_new_br8 | vendor<br>cost<br>tackle<br>calm<br>squirrel<br>pink<br>aim<br>olive |  
-| bip_39_word_new_br9 | vendor<br>cost<br>tackle<br>calm<br>squirrel<br>pink<br>aim<br>olive<br>happy |  
-| bip_39_word_new_line1 | vendor |  
-| bip_39_word_new_line10 | vendor
+| bip_39_word_new_br_1 | vendor |  
+| bip_39_word_new_br_10 | vendor<br>cost<br>tackle<br>calm<br>squirrel<br>pink<br>aim<br>olive<br>happy<br>sustain |  
+| bip_39_word_new_br_11 | vendor<br>cost<br>tackle<br>calm<br>squirrel<br>pink<br>aim<br>olive<br>happy<br>sustain<br>category |  
+| bip_39_word_new_br_12 | vendor<br>cost<br>tackle<br>calm<br>squirrel<br>pink<br>aim<br>olive<br>happy<br>sustain<br>category<br>arena |  
+| bip_39_word_new_br_2 | vendor<br>cost |  
+| bip_39_word_new_br_3 | vendor<br>cost<br>tackle |  
+| bip_39_word_new_br_4 | vendor<br>cost<br>tackle<br>calm |  
+| bip_39_word_new_br_5 | vendor<br>cost<br>tackle<br>calm<br>squirrel |  
+| bip_39_word_new_br_6 | vendor<br>cost<br>tackle<br>calm<br>squirrel<br>pink |  
+| bip_39_word_new_br_7 | vendor<br>cost<br>tackle<br>calm<br>squirrel<br>pink<br>aim |  
+| bip_39_word_new_br_8 | vendor<br>cost<br>tackle<br>calm<br>squirrel<br>pink<br>aim<br>olive |  
+| bip_39_word_new_br_9 | vendor<br>cost<br>tackle<br>calm<br>squirrel<br>pink<br>aim<br>olive<br>happy |  
+| bip_39_word_new_line_1 | vendor |  
+| bip_39_word_new_line_10 | vendor
 cost
 tackle
 calm
@@ -55,7 +55,7 @@ aim
 olive
 happy
 sustain |  
-| bip_39_word_new_line11 | vendor
+| bip_39_word_new_line_11 | vendor
 cost
 tackle
 calm
@@ -66,7 +66,7 @@ olive
 happy
 sustain
 category |  
-| bip_39_word_new_line12 | vendor
+| bip_39_word_new_line_12 | vendor
 cost
 tackle
 calm
@@ -78,34 +78,34 @@ happy
 sustain
 category
 arena |  
-| bip_39_word_new_line2 | vendor
+| bip_39_word_new_line_2 | vendor
 cost |  
-| bip_39_word_new_line3 | vendor
+| bip_39_word_new_line_3 | vendor
 cost
 tackle |  
-| bip_39_word_new_line4 | vendor
+| bip_39_word_new_line_4 | vendor
 cost
 tackle
 calm |  
-| bip_39_word_new_line5 | vendor
+| bip_39_word_new_line_5 | vendor
 cost
 tackle
 calm
 squirrel |  
-| bip_39_word_new_line6 | vendor
+| bip_39_word_new_line_6 | vendor
 cost
 tackle
 calm
 squirrel
 pink |  
-| bip_39_word_new_line7 | vendor
+| bip_39_word_new_line_7 | vendor
 cost
 tackle
 calm
 squirrel
 pink
 aim |  
-| bip_39_word_new_line8 | vendor
+| bip_39_word_new_line_8 | vendor
 cost
 tackle
 calm
@@ -113,7 +113,7 @@ squirrel
 pink
 aim
 olive |  
-| bip_39_word_new_line9 | vendor
+| bip_39_word_new_line_9 | vendor
 cost
 tackle
 calm

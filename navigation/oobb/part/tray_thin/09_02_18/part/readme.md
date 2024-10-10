@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | inspire |  
-| bip_39_word_new_br10 | inspire<br>taxi<br>witness<br>spell<br>captain<br>crash<br>rival<br>buffalo<br>copper<br>sock |  
-| bip_39_word_new_br11 | inspire<br>taxi<br>witness<br>spell<br>captain<br>crash<br>rival<br>buffalo<br>copper<br>sock<br>material |  
-| bip_39_word_new_br12 | inspire<br>taxi<br>witness<br>spell<br>captain<br>crash<br>rival<br>buffalo<br>copper<br>sock<br>material<br>alien |  
-| bip_39_word_new_br2 | inspire<br>taxi |  
-| bip_39_word_new_br3 | inspire<br>taxi<br>witness |  
-| bip_39_word_new_br4 | inspire<br>taxi<br>witness<br>spell |  
-| bip_39_word_new_br5 | inspire<br>taxi<br>witness<br>spell<br>captain |  
-| bip_39_word_new_br6 | inspire<br>taxi<br>witness<br>spell<br>captain<br>crash |  
-| bip_39_word_new_br7 | inspire<br>taxi<br>witness<br>spell<br>captain<br>crash<br>rival |  
-| bip_39_word_new_br8 | inspire<br>taxi<br>witness<br>spell<br>captain<br>crash<br>rival<br>buffalo |  
-| bip_39_word_new_br9 | inspire<br>taxi<br>witness<br>spell<br>captain<br>crash<br>rival<br>buffalo<br>copper |  
-| bip_39_word_new_line1 | inspire |  
-| bip_39_word_new_line10 | inspire
+| bip_39_word_new_br_1 | inspire |  
+| bip_39_word_new_br_10 | inspire<br>taxi<br>witness<br>spell<br>captain<br>crash<br>rival<br>buffalo<br>copper<br>sock |  
+| bip_39_word_new_br_11 | inspire<br>taxi<br>witness<br>spell<br>captain<br>crash<br>rival<br>buffalo<br>copper<br>sock<br>material |  
+| bip_39_word_new_br_12 | inspire<br>taxi<br>witness<br>spell<br>captain<br>crash<br>rival<br>buffalo<br>copper<br>sock<br>material<br>alien |  
+| bip_39_word_new_br_2 | inspire<br>taxi |  
+| bip_39_word_new_br_3 | inspire<br>taxi<br>witness |  
+| bip_39_word_new_br_4 | inspire<br>taxi<br>witness<br>spell |  
+| bip_39_word_new_br_5 | inspire<br>taxi<br>witness<br>spell<br>captain |  
+| bip_39_word_new_br_6 | inspire<br>taxi<br>witness<br>spell<br>captain<br>crash |  
+| bip_39_word_new_br_7 | inspire<br>taxi<br>witness<br>spell<br>captain<br>crash<br>rival |  
+| bip_39_word_new_br_8 | inspire<br>taxi<br>witness<br>spell<br>captain<br>crash<br>rival<br>buffalo |  
+| bip_39_word_new_br_9 | inspire<br>taxi<br>witness<br>spell<br>captain<br>crash<br>rival<br>buffalo<br>copper |  
+| bip_39_word_new_line_1 | inspire |  
+| bip_39_word_new_line_10 | inspire
 taxi
 witness
 spell
@@ -55,7 +55,7 @@ rival
 buffalo
 copper
 sock |  
-| bip_39_word_new_line11 | inspire
+| bip_39_word_new_line_11 | inspire
 taxi
 witness
 spell
@@ -66,7 +66,7 @@ buffalo
 copper
 sock
 material |  
-| bip_39_word_new_line12 | inspire
+| bip_39_word_new_line_12 | inspire
 taxi
 witness
 spell
@@ -78,34 +78,34 @@ copper
 sock
 material
 alien |  
-| bip_39_word_new_line2 | inspire
+| bip_39_word_new_line_2 | inspire
 taxi |  
-| bip_39_word_new_line3 | inspire
+| bip_39_word_new_line_3 | inspire
 taxi
 witness |  
-| bip_39_word_new_line4 | inspire
+| bip_39_word_new_line_4 | inspire
 taxi
 witness
 spell |  
-| bip_39_word_new_line5 | inspire
+| bip_39_word_new_line_5 | inspire
 taxi
 witness
 spell
 captain |  
-| bip_39_word_new_line6 | inspire
+| bip_39_word_new_line_6 | inspire
 taxi
 witness
 spell
 captain
 crash |  
-| bip_39_word_new_line7 | inspire
+| bip_39_word_new_line_7 | inspire
 taxi
 witness
 spell
 captain
 crash
 rival |  
-| bip_39_word_new_line8 | inspire
+| bip_39_word_new_line_8 | inspire
 taxi
 witness
 spell
@@ -113,7 +113,7 @@ captain
 crash
 rival
 buffalo |  
-| bip_39_word_new_line9 | inspire
+| bip_39_word_new_line_9 | inspire
 taxi
 witness
 spell

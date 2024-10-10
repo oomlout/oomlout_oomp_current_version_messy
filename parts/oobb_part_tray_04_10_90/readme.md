@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | icon |  
-| bip_39_word_new_br10 | icon<br>repair<br>liberty<br>size<br>dune<br>foot<br>issue<br>warfare<br>loan<br>ugly |  
-| bip_39_word_new_br11 | icon<br>repair<br>liberty<br>size<br>dune<br>foot<br>issue<br>warfare<br>loan<br>ugly<br>over |  
-| bip_39_word_new_br12 | icon<br>repair<br>liberty<br>size<br>dune<br>foot<br>issue<br>warfare<br>loan<br>ugly<br>over<br>attitude |  
-| bip_39_word_new_br2 | icon<br>repair |  
-| bip_39_word_new_br3 | icon<br>repair<br>liberty |  
-| bip_39_word_new_br4 | icon<br>repair<br>liberty<br>size |  
-| bip_39_word_new_br5 | icon<br>repair<br>liberty<br>size<br>dune |  
-| bip_39_word_new_br6 | icon<br>repair<br>liberty<br>size<br>dune<br>foot |  
-| bip_39_word_new_br7 | icon<br>repair<br>liberty<br>size<br>dune<br>foot<br>issue |  
-| bip_39_word_new_br8 | icon<br>repair<br>liberty<br>size<br>dune<br>foot<br>issue<br>warfare |  
-| bip_39_word_new_br9 | icon<br>repair<br>liberty<br>size<br>dune<br>foot<br>issue<br>warfare<br>loan |  
-| bip_39_word_new_line1 | icon |  
-| bip_39_word_new_line10 | icon
+| bip_39_word_new_br_1 | icon |  
+| bip_39_word_new_br_10 | icon<br>repair<br>liberty<br>size<br>dune<br>foot<br>issue<br>warfare<br>loan<br>ugly |  
+| bip_39_word_new_br_11 | icon<br>repair<br>liberty<br>size<br>dune<br>foot<br>issue<br>warfare<br>loan<br>ugly<br>over |  
+| bip_39_word_new_br_12 | icon<br>repair<br>liberty<br>size<br>dune<br>foot<br>issue<br>warfare<br>loan<br>ugly<br>over<br>attitude |  
+| bip_39_word_new_br_2 | icon<br>repair |  
+| bip_39_word_new_br_3 | icon<br>repair<br>liberty |  
+| bip_39_word_new_br_4 | icon<br>repair<br>liberty<br>size |  
+| bip_39_word_new_br_5 | icon<br>repair<br>liberty<br>size<br>dune |  
+| bip_39_word_new_br_6 | icon<br>repair<br>liberty<br>size<br>dune<br>foot |  
+| bip_39_word_new_br_7 | icon<br>repair<br>liberty<br>size<br>dune<br>foot<br>issue |  
+| bip_39_word_new_br_8 | icon<br>repair<br>liberty<br>size<br>dune<br>foot<br>issue<br>warfare |  
+| bip_39_word_new_br_9 | icon<br>repair<br>liberty<br>size<br>dune<br>foot<br>issue<br>warfare<br>loan |  
+| bip_39_word_new_line_1 | icon |  
+| bip_39_word_new_line_10 | icon
 repair
 liberty
 size
@@ -55,7 +55,7 @@ issue
 warfare
 loan
 ugly |  
-| bip_39_word_new_line11 | icon
+| bip_39_word_new_line_11 | icon
 repair
 liberty
 size
@@ -66,7 +66,7 @@ warfare
 loan
 ugly
 over |  
-| bip_39_word_new_line12 | icon
+| bip_39_word_new_line_12 | icon
 repair
 liberty
 size
@@ -78,34 +78,34 @@ loan
 ugly
 over
 attitude |  
-| bip_39_word_new_line2 | icon
+| bip_39_word_new_line_2 | icon
 repair |  
-| bip_39_word_new_line3 | icon
+| bip_39_word_new_line_3 | icon
 repair
 liberty |  
-| bip_39_word_new_line4 | icon
+| bip_39_word_new_line_4 | icon
 repair
 liberty
 size |  
-| bip_39_word_new_line5 | icon
+| bip_39_word_new_line_5 | icon
 repair
 liberty
 size
 dune |  
-| bip_39_word_new_line6 | icon
+| bip_39_word_new_line_6 | icon
 repair
 liberty
 size
 dune
 foot |  
-| bip_39_word_new_line7 | icon
+| bip_39_word_new_line_7 | icon
 repair
 liberty
 size
 dune
 foot
 issue |  
-| bip_39_word_new_line8 | icon
+| bip_39_word_new_line_8 | icon
 repair
 liberty
 size
@@ -113,7 +113,7 @@ dune
 foot
 issue
 warfare |  
-| bip_39_word_new_line9 | icon
+| bip_39_word_new_line_9 | icon
 repair
 liberty
 size

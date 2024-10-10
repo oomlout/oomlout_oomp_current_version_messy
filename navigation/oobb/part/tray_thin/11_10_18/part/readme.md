@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sand |  
-| bip_39_word_new_br10 | sand<br>problem<br>menu<br>path<br>gospel<br>waste<br>detect<br>twin<br>snap<br>easily |  
-| bip_39_word_new_br11 | sand<br>problem<br>menu<br>path<br>gospel<br>waste<br>detect<br>twin<br>snap<br>easily<br>such |  
-| bip_39_word_new_br12 | sand<br>problem<br>menu<br>path<br>gospel<br>waste<br>detect<br>twin<br>snap<br>easily<br>such<br>ask |  
-| bip_39_word_new_br2 | sand<br>problem |  
-| bip_39_word_new_br3 | sand<br>problem<br>menu |  
-| bip_39_word_new_br4 | sand<br>problem<br>menu<br>path |  
-| bip_39_word_new_br5 | sand<br>problem<br>menu<br>path<br>gospel |  
-| bip_39_word_new_br6 | sand<br>problem<br>menu<br>path<br>gospel<br>waste |  
-| bip_39_word_new_br7 | sand<br>problem<br>menu<br>path<br>gospel<br>waste<br>detect |  
-| bip_39_word_new_br8 | sand<br>problem<br>menu<br>path<br>gospel<br>waste<br>detect<br>twin |  
-| bip_39_word_new_br9 | sand<br>problem<br>menu<br>path<br>gospel<br>waste<br>detect<br>twin<br>snap |  
-| bip_39_word_new_line1 | sand |  
-| bip_39_word_new_line10 | sand
+| bip_39_word_new_br_1 | sand |  
+| bip_39_word_new_br_10 | sand<br>problem<br>menu<br>path<br>gospel<br>waste<br>detect<br>twin<br>snap<br>easily |  
+| bip_39_word_new_br_11 | sand<br>problem<br>menu<br>path<br>gospel<br>waste<br>detect<br>twin<br>snap<br>easily<br>such |  
+| bip_39_word_new_br_12 | sand<br>problem<br>menu<br>path<br>gospel<br>waste<br>detect<br>twin<br>snap<br>easily<br>such<br>ask |  
+| bip_39_word_new_br_2 | sand<br>problem |  
+| bip_39_word_new_br_3 | sand<br>problem<br>menu |  
+| bip_39_word_new_br_4 | sand<br>problem<br>menu<br>path |  
+| bip_39_word_new_br_5 | sand<br>problem<br>menu<br>path<br>gospel |  
+| bip_39_word_new_br_6 | sand<br>problem<br>menu<br>path<br>gospel<br>waste |  
+| bip_39_word_new_br_7 | sand<br>problem<br>menu<br>path<br>gospel<br>waste<br>detect |  
+| bip_39_word_new_br_8 | sand<br>problem<br>menu<br>path<br>gospel<br>waste<br>detect<br>twin |  
+| bip_39_word_new_br_9 | sand<br>problem<br>menu<br>path<br>gospel<br>waste<br>detect<br>twin<br>snap |  
+| bip_39_word_new_line_1 | sand |  
+| bip_39_word_new_line_10 | sand
 problem
 menu
 path
@@ -55,7 +55,7 @@ detect
 twin
 snap
 easily |  
-| bip_39_word_new_line11 | sand
+| bip_39_word_new_line_11 | sand
 problem
 menu
 path
@@ -66,7 +66,7 @@ twin
 snap
 easily
 such |  
-| bip_39_word_new_line12 | sand
+| bip_39_word_new_line_12 | sand
 problem
 menu
 path
@@ -78,34 +78,34 @@ snap
 easily
 such
 ask |  
-| bip_39_word_new_line2 | sand
+| bip_39_word_new_line_2 | sand
 problem |  
-| bip_39_word_new_line3 | sand
+| bip_39_word_new_line_3 | sand
 problem
 menu |  
-| bip_39_word_new_line4 | sand
+| bip_39_word_new_line_4 | sand
 problem
 menu
 path |  
-| bip_39_word_new_line5 | sand
+| bip_39_word_new_line_5 | sand
 problem
 menu
 path
 gospel |  
-| bip_39_word_new_line6 | sand
+| bip_39_word_new_line_6 | sand
 problem
 menu
 path
 gospel
 waste |  
-| bip_39_word_new_line7 | sand
+| bip_39_word_new_line_7 | sand
 problem
 menu
 path
 gospel
 waste
 detect |  
-| bip_39_word_new_line8 | sand
+| bip_39_word_new_line_8 | sand
 problem
 menu
 path
@@ -113,7 +113,7 @@ gospel
 waste
 detect
 twin |  
-| bip_39_word_new_line9 | sand
+| bip_39_word_new_line_9 | sand
 problem
 menu
 path

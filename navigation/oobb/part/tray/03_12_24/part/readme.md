@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | people |  
-| bip_39_word_new_br10 | people<br>frequent<br>fragile<br>control<br>question<br>royal<br>category<br>patrol<br>drop<br>milk |  
-| bip_39_word_new_br11 | people<br>frequent<br>fragile<br>control<br>question<br>royal<br>category<br>patrol<br>drop<br>milk<br>october |  
-| bip_39_word_new_br12 | people<br>frequent<br>fragile<br>control<br>question<br>royal<br>category<br>patrol<br>drop<br>milk<br>october<br>assist |  
-| bip_39_word_new_br2 | people<br>frequent |  
-| bip_39_word_new_br3 | people<br>frequent<br>fragile |  
-| bip_39_word_new_br4 | people<br>frequent<br>fragile<br>control |  
-| bip_39_word_new_br5 | people<br>frequent<br>fragile<br>control<br>question |  
-| bip_39_word_new_br6 | people<br>frequent<br>fragile<br>control<br>question<br>royal |  
-| bip_39_word_new_br7 | people<br>frequent<br>fragile<br>control<br>question<br>royal<br>category |  
-| bip_39_word_new_br8 | people<br>frequent<br>fragile<br>control<br>question<br>royal<br>category<br>patrol |  
-| bip_39_word_new_br9 | people<br>frequent<br>fragile<br>control<br>question<br>royal<br>category<br>patrol<br>drop |  
-| bip_39_word_new_line1 | people |  
-| bip_39_word_new_line10 | people
+| bip_39_word_new_br_1 | people |  
+| bip_39_word_new_br_10 | people<br>frequent<br>fragile<br>control<br>question<br>royal<br>category<br>patrol<br>drop<br>milk |  
+| bip_39_word_new_br_11 | people<br>frequent<br>fragile<br>control<br>question<br>royal<br>category<br>patrol<br>drop<br>milk<br>october |  
+| bip_39_word_new_br_12 | people<br>frequent<br>fragile<br>control<br>question<br>royal<br>category<br>patrol<br>drop<br>milk<br>october<br>assist |  
+| bip_39_word_new_br_2 | people<br>frequent |  
+| bip_39_word_new_br_3 | people<br>frequent<br>fragile |  
+| bip_39_word_new_br_4 | people<br>frequent<br>fragile<br>control |  
+| bip_39_word_new_br_5 | people<br>frequent<br>fragile<br>control<br>question |  
+| bip_39_word_new_br_6 | people<br>frequent<br>fragile<br>control<br>question<br>royal |  
+| bip_39_word_new_br_7 | people<br>frequent<br>fragile<br>control<br>question<br>royal<br>category |  
+| bip_39_word_new_br_8 | people<br>frequent<br>fragile<br>control<br>question<br>royal<br>category<br>patrol |  
+| bip_39_word_new_br_9 | people<br>frequent<br>fragile<br>control<br>question<br>royal<br>category<br>patrol<br>drop |  
+| bip_39_word_new_line_1 | people |  
+| bip_39_word_new_line_10 | people
 frequent
 fragile
 control
@@ -55,7 +55,7 @@ category
 patrol
 drop
 milk |  
-| bip_39_word_new_line11 | people
+| bip_39_word_new_line_11 | people
 frequent
 fragile
 control
@@ -66,7 +66,7 @@ patrol
 drop
 milk
 october |  
-| bip_39_word_new_line12 | people
+| bip_39_word_new_line_12 | people
 frequent
 fragile
 control
@@ -78,34 +78,34 @@ drop
 milk
 october
 assist |  
-| bip_39_word_new_line2 | people
+| bip_39_word_new_line_2 | people
 frequent |  
-| bip_39_word_new_line3 | people
+| bip_39_word_new_line_3 | people
 frequent
 fragile |  
-| bip_39_word_new_line4 | people
+| bip_39_word_new_line_4 | people
 frequent
 fragile
 control |  
-| bip_39_word_new_line5 | people
+| bip_39_word_new_line_5 | people
 frequent
 fragile
 control
 question |  
-| bip_39_word_new_line6 | people
+| bip_39_word_new_line_6 | people
 frequent
 fragile
 control
 question
 royal |  
-| bip_39_word_new_line7 | people
+| bip_39_word_new_line_7 | people
 frequent
 fragile
 control
 question
 royal
 category |  
-| bip_39_word_new_line8 | people
+| bip_39_word_new_line_8 | people
 frequent
 fragile
 control
@@ -113,7 +113,7 @@ question
 royal
 category
 patrol |  
-| bip_39_word_new_line9 | people
+| bip_39_word_new_line_9 | people
 frequent
 fragile
 control

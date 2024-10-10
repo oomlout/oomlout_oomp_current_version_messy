@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | add |  
-| bip_39_word_new_br10 | add<br>off<br>awesome<br>please<br>dust<br>galaxy<br>custom<br>youth<br>art<br>disease |  
-| bip_39_word_new_br11 | add<br>off<br>awesome<br>please<br>dust<br>galaxy<br>custom<br>youth<br>art<br>disease<br>session |  
-| bip_39_word_new_br12 | add<br>off<br>awesome<br>please<br>dust<br>galaxy<br>custom<br>youth<br>art<br>disease<br>session<br>afford |  
-| bip_39_word_new_br2 | add<br>off |  
-| bip_39_word_new_br3 | add<br>off<br>awesome |  
-| bip_39_word_new_br4 | add<br>off<br>awesome<br>please |  
-| bip_39_word_new_br5 | add<br>off<br>awesome<br>please<br>dust |  
-| bip_39_word_new_br6 | add<br>off<br>awesome<br>please<br>dust<br>galaxy |  
-| bip_39_word_new_br7 | add<br>off<br>awesome<br>please<br>dust<br>galaxy<br>custom |  
-| bip_39_word_new_br8 | add<br>off<br>awesome<br>please<br>dust<br>galaxy<br>custom<br>youth |  
-| bip_39_word_new_br9 | add<br>off<br>awesome<br>please<br>dust<br>galaxy<br>custom<br>youth<br>art |  
-| bip_39_word_new_line1 | add |  
-| bip_39_word_new_line10 | add
+| bip_39_word_new_br_1 | add |  
+| bip_39_word_new_br_10 | add<br>off<br>awesome<br>please<br>dust<br>galaxy<br>custom<br>youth<br>art<br>disease |  
+| bip_39_word_new_br_11 | add<br>off<br>awesome<br>please<br>dust<br>galaxy<br>custom<br>youth<br>art<br>disease<br>session |  
+| bip_39_word_new_br_12 | add<br>off<br>awesome<br>please<br>dust<br>galaxy<br>custom<br>youth<br>art<br>disease<br>session<br>afford |  
+| bip_39_word_new_br_2 | add<br>off |  
+| bip_39_word_new_br_3 | add<br>off<br>awesome |  
+| bip_39_word_new_br_4 | add<br>off<br>awesome<br>please |  
+| bip_39_word_new_br_5 | add<br>off<br>awesome<br>please<br>dust |  
+| bip_39_word_new_br_6 | add<br>off<br>awesome<br>please<br>dust<br>galaxy |  
+| bip_39_word_new_br_7 | add<br>off<br>awesome<br>please<br>dust<br>galaxy<br>custom |  
+| bip_39_word_new_br_8 | add<br>off<br>awesome<br>please<br>dust<br>galaxy<br>custom<br>youth |  
+| bip_39_word_new_br_9 | add<br>off<br>awesome<br>please<br>dust<br>galaxy<br>custom<br>youth<br>art |  
+| bip_39_word_new_line_1 | add |  
+| bip_39_word_new_line_10 | add
 off
 awesome
 please
@@ -55,7 +55,7 @@ custom
 youth
 art
 disease |  
-| bip_39_word_new_line11 | add
+| bip_39_word_new_line_11 | add
 off
 awesome
 please
@@ -66,7 +66,7 @@ youth
 art
 disease
 session |  
-| bip_39_word_new_line12 | add
+| bip_39_word_new_line_12 | add
 off
 awesome
 please
@@ -78,34 +78,34 @@ art
 disease
 session
 afford |  
-| bip_39_word_new_line2 | add
+| bip_39_word_new_line_2 | add
 off |  
-| bip_39_word_new_line3 | add
+| bip_39_word_new_line_3 | add
 off
 awesome |  
-| bip_39_word_new_line4 | add
+| bip_39_word_new_line_4 | add
 off
 awesome
 please |  
-| bip_39_word_new_line5 | add
+| bip_39_word_new_line_5 | add
 off
 awesome
 please
 dust |  
-| bip_39_word_new_line6 | add
+| bip_39_word_new_line_6 | add
 off
 awesome
 please
 dust
 galaxy |  
-| bip_39_word_new_line7 | add
+| bip_39_word_new_line_7 | add
 off
 awesome
 please
 dust
 galaxy
 custom |  
-| bip_39_word_new_line8 | add
+| bip_39_word_new_line_8 | add
 off
 awesome
 please
@@ -113,7 +113,7 @@ dust
 galaxy
 custom
 youth |  
-| bip_39_word_new_line9 | add
+| bip_39_word_new_line_9 | add
 off
 awesome
 please

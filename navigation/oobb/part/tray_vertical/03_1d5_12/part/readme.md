@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | kiss |  
-| bip_39_word_new_br10 | kiss<br>weasel<br>crowd<br>act<br>possible<br>parade<br>mixture<br>wrong<br>age<br>shrug |  
-| bip_39_word_new_br11 | kiss<br>weasel<br>crowd<br>act<br>possible<br>parade<br>mixture<br>wrong<br>age<br>shrug<br>reduce |  
-| bip_39_word_new_br12 | kiss<br>weasel<br>crowd<br>act<br>possible<br>parade<br>mixture<br>wrong<br>age<br>shrug<br>reduce<br>aim |  
-| bip_39_word_new_br2 | kiss<br>weasel |  
-| bip_39_word_new_br3 | kiss<br>weasel<br>crowd |  
-| bip_39_word_new_br4 | kiss<br>weasel<br>crowd<br>act |  
-| bip_39_word_new_br5 | kiss<br>weasel<br>crowd<br>act<br>possible |  
-| bip_39_word_new_br6 | kiss<br>weasel<br>crowd<br>act<br>possible<br>parade |  
-| bip_39_word_new_br7 | kiss<br>weasel<br>crowd<br>act<br>possible<br>parade<br>mixture |  
-| bip_39_word_new_br8 | kiss<br>weasel<br>crowd<br>act<br>possible<br>parade<br>mixture<br>wrong |  
-| bip_39_word_new_br9 | kiss<br>weasel<br>crowd<br>act<br>possible<br>parade<br>mixture<br>wrong<br>age |  
-| bip_39_word_new_line1 | kiss |  
-| bip_39_word_new_line10 | kiss
+| bip_39_word_new_br_1 | kiss |  
+| bip_39_word_new_br_10 | kiss<br>weasel<br>crowd<br>act<br>possible<br>parade<br>mixture<br>wrong<br>age<br>shrug |  
+| bip_39_word_new_br_11 | kiss<br>weasel<br>crowd<br>act<br>possible<br>parade<br>mixture<br>wrong<br>age<br>shrug<br>reduce |  
+| bip_39_word_new_br_12 | kiss<br>weasel<br>crowd<br>act<br>possible<br>parade<br>mixture<br>wrong<br>age<br>shrug<br>reduce<br>aim |  
+| bip_39_word_new_br_2 | kiss<br>weasel |  
+| bip_39_word_new_br_3 | kiss<br>weasel<br>crowd |  
+| bip_39_word_new_br_4 | kiss<br>weasel<br>crowd<br>act |  
+| bip_39_word_new_br_5 | kiss<br>weasel<br>crowd<br>act<br>possible |  
+| bip_39_word_new_br_6 | kiss<br>weasel<br>crowd<br>act<br>possible<br>parade |  
+| bip_39_word_new_br_7 | kiss<br>weasel<br>crowd<br>act<br>possible<br>parade<br>mixture |  
+| bip_39_word_new_br_8 | kiss<br>weasel<br>crowd<br>act<br>possible<br>parade<br>mixture<br>wrong |  
+| bip_39_word_new_br_9 | kiss<br>weasel<br>crowd<br>act<br>possible<br>parade<br>mixture<br>wrong<br>age |  
+| bip_39_word_new_line_1 | kiss |  
+| bip_39_word_new_line_10 | kiss
 weasel
 crowd
 act
@@ -55,7 +55,7 @@ mixture
 wrong
 age
 shrug |  
-| bip_39_word_new_line11 | kiss
+| bip_39_word_new_line_11 | kiss
 weasel
 crowd
 act
@@ -66,7 +66,7 @@ wrong
 age
 shrug
 reduce |  
-| bip_39_word_new_line12 | kiss
+| bip_39_word_new_line_12 | kiss
 weasel
 crowd
 act
@@ -78,34 +78,34 @@ age
 shrug
 reduce
 aim |  
-| bip_39_word_new_line2 | kiss
+| bip_39_word_new_line_2 | kiss
 weasel |  
-| bip_39_word_new_line3 | kiss
+| bip_39_word_new_line_3 | kiss
 weasel
 crowd |  
-| bip_39_word_new_line4 | kiss
+| bip_39_word_new_line_4 | kiss
 weasel
 crowd
 act |  
-| bip_39_word_new_line5 | kiss
+| bip_39_word_new_line_5 | kiss
 weasel
 crowd
 act
 possible |  
-| bip_39_word_new_line6 | kiss
+| bip_39_word_new_line_6 | kiss
 weasel
 crowd
 act
 possible
 parade |  
-| bip_39_word_new_line7 | kiss
+| bip_39_word_new_line_7 | kiss
 weasel
 crowd
 act
 possible
 parade
 mixture |  
-| bip_39_word_new_line8 | kiss
+| bip_39_word_new_line_8 | kiss
 weasel
 crowd
 act
@@ -113,7 +113,7 @@ possible
 parade
 mixture
 wrong |  
-| bip_39_word_new_line9 | kiss
+| bip_39_word_new_line_9 | kiss
 weasel
 crowd
 act

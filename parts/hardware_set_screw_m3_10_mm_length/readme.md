@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | scale |  
-| bip_39_word_new_br10 | scale<br>ability<br>alpha<br>brass<br>liberty<br>dad<br>noise<br>culture<br>bonus<br>aerobic |  
-| bip_39_word_new_br11 | scale<br>ability<br>alpha<br>brass<br>liberty<br>dad<br>noise<br>culture<br>bonus<br>aerobic<br>sibling |  
-| bip_39_word_new_br12 | scale<br>ability<br>alpha<br>brass<br>liberty<br>dad<br>noise<br>culture<br>bonus<br>aerobic<br>sibling<br>amazing |  
-| bip_39_word_new_br2 | scale<br>ability |  
-| bip_39_word_new_br3 | scale<br>ability<br>alpha |  
-| bip_39_word_new_br4 | scale<br>ability<br>alpha<br>brass |  
-| bip_39_word_new_br5 | scale<br>ability<br>alpha<br>brass<br>liberty |  
-| bip_39_word_new_br6 | scale<br>ability<br>alpha<br>brass<br>liberty<br>dad |  
-| bip_39_word_new_br7 | scale<br>ability<br>alpha<br>brass<br>liberty<br>dad<br>noise |  
-| bip_39_word_new_br8 | scale<br>ability<br>alpha<br>brass<br>liberty<br>dad<br>noise<br>culture |  
-| bip_39_word_new_br9 | scale<br>ability<br>alpha<br>brass<br>liberty<br>dad<br>noise<br>culture<br>bonus |  
-| bip_39_word_new_line1 | scale |  
-| bip_39_word_new_line10 | scale
+| bip_39_word_new_br_1 | scale |  
+| bip_39_word_new_br_10 | scale<br>ability<br>alpha<br>brass<br>liberty<br>dad<br>noise<br>culture<br>bonus<br>aerobic |  
+| bip_39_word_new_br_11 | scale<br>ability<br>alpha<br>brass<br>liberty<br>dad<br>noise<br>culture<br>bonus<br>aerobic<br>sibling |  
+| bip_39_word_new_br_12 | scale<br>ability<br>alpha<br>brass<br>liberty<br>dad<br>noise<br>culture<br>bonus<br>aerobic<br>sibling<br>amazing |  
+| bip_39_word_new_br_2 | scale<br>ability |  
+| bip_39_word_new_br_3 | scale<br>ability<br>alpha |  
+| bip_39_word_new_br_4 | scale<br>ability<br>alpha<br>brass |  
+| bip_39_word_new_br_5 | scale<br>ability<br>alpha<br>brass<br>liberty |  
+| bip_39_word_new_br_6 | scale<br>ability<br>alpha<br>brass<br>liberty<br>dad |  
+| bip_39_word_new_br_7 | scale<br>ability<br>alpha<br>brass<br>liberty<br>dad<br>noise |  
+| bip_39_word_new_br_8 | scale<br>ability<br>alpha<br>brass<br>liberty<br>dad<br>noise<br>culture |  
+| bip_39_word_new_br_9 | scale<br>ability<br>alpha<br>brass<br>liberty<br>dad<br>noise<br>culture<br>bonus |  
+| bip_39_word_new_line_1 | scale |  
+| bip_39_word_new_line_10 | scale
 ability
 alpha
 brass
@@ -55,7 +55,7 @@ noise
 culture
 bonus
 aerobic |  
-| bip_39_word_new_line11 | scale
+| bip_39_word_new_line_11 | scale
 ability
 alpha
 brass
@@ -66,7 +66,7 @@ culture
 bonus
 aerobic
 sibling |  
-| bip_39_word_new_line12 | scale
+| bip_39_word_new_line_12 | scale
 ability
 alpha
 brass
@@ -78,34 +78,34 @@ bonus
 aerobic
 sibling
 amazing |  
-| bip_39_word_new_line2 | scale
+| bip_39_word_new_line_2 | scale
 ability |  
-| bip_39_word_new_line3 | scale
+| bip_39_word_new_line_3 | scale
 ability
 alpha |  
-| bip_39_word_new_line4 | scale
+| bip_39_word_new_line_4 | scale
 ability
 alpha
 brass |  
-| bip_39_word_new_line5 | scale
+| bip_39_word_new_line_5 | scale
 ability
 alpha
 brass
 liberty |  
-| bip_39_word_new_line6 | scale
+| bip_39_word_new_line_6 | scale
 ability
 alpha
 brass
 liberty
 dad |  
-| bip_39_word_new_line7 | scale
+| bip_39_word_new_line_7 | scale
 ability
 alpha
 brass
 liberty
 dad
 noise |  
-| bip_39_word_new_line8 | scale
+| bip_39_word_new_line_8 | scale
 ability
 alpha
 brass
@@ -113,7 +113,7 @@ liberty
 dad
 noise
 culture |  
-| bip_39_word_new_line9 | scale
+| bip_39_word_new_line_9 | scale
 ability
 alpha
 brass

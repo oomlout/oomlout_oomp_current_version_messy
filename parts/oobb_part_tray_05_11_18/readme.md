@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | mutual |  
-| bip_39_word_new_br10 | mutual<br>cycle<br>hollow<br>waste<br>rural<br>cabbage<br>mesh<br>edit<br>cat<br>sight |  
-| bip_39_word_new_br11 | mutual<br>cycle<br>hollow<br>waste<br>rural<br>cabbage<br>mesh<br>edit<br>cat<br>sight<br>magic |  
-| bip_39_word_new_br12 | mutual<br>cycle<br>hollow<br>waste<br>rural<br>cabbage<br>mesh<br>edit<br>cat<br>sight<br>magic<br>addict |  
-| bip_39_word_new_br2 | mutual<br>cycle |  
-| bip_39_word_new_br3 | mutual<br>cycle<br>hollow |  
-| bip_39_word_new_br4 | mutual<br>cycle<br>hollow<br>waste |  
-| bip_39_word_new_br5 | mutual<br>cycle<br>hollow<br>waste<br>rural |  
-| bip_39_word_new_br6 | mutual<br>cycle<br>hollow<br>waste<br>rural<br>cabbage |  
-| bip_39_word_new_br7 | mutual<br>cycle<br>hollow<br>waste<br>rural<br>cabbage<br>mesh |  
-| bip_39_word_new_br8 | mutual<br>cycle<br>hollow<br>waste<br>rural<br>cabbage<br>mesh<br>edit |  
-| bip_39_word_new_br9 | mutual<br>cycle<br>hollow<br>waste<br>rural<br>cabbage<br>mesh<br>edit<br>cat |  
-| bip_39_word_new_line1 | mutual |  
-| bip_39_word_new_line10 | mutual
+| bip_39_word_new_br_1 | mutual |  
+| bip_39_word_new_br_10 | mutual<br>cycle<br>hollow<br>waste<br>rural<br>cabbage<br>mesh<br>edit<br>cat<br>sight |  
+| bip_39_word_new_br_11 | mutual<br>cycle<br>hollow<br>waste<br>rural<br>cabbage<br>mesh<br>edit<br>cat<br>sight<br>magic |  
+| bip_39_word_new_br_12 | mutual<br>cycle<br>hollow<br>waste<br>rural<br>cabbage<br>mesh<br>edit<br>cat<br>sight<br>magic<br>addict |  
+| bip_39_word_new_br_2 | mutual<br>cycle |  
+| bip_39_word_new_br_3 | mutual<br>cycle<br>hollow |  
+| bip_39_word_new_br_4 | mutual<br>cycle<br>hollow<br>waste |  
+| bip_39_word_new_br_5 | mutual<br>cycle<br>hollow<br>waste<br>rural |  
+| bip_39_word_new_br_6 | mutual<br>cycle<br>hollow<br>waste<br>rural<br>cabbage |  
+| bip_39_word_new_br_7 | mutual<br>cycle<br>hollow<br>waste<br>rural<br>cabbage<br>mesh |  
+| bip_39_word_new_br_8 | mutual<br>cycle<br>hollow<br>waste<br>rural<br>cabbage<br>mesh<br>edit |  
+| bip_39_word_new_br_9 | mutual<br>cycle<br>hollow<br>waste<br>rural<br>cabbage<br>mesh<br>edit<br>cat |  
+| bip_39_word_new_line_1 | mutual |  
+| bip_39_word_new_line_10 | mutual
 cycle
 hollow
 waste
@@ -55,7 +55,7 @@ mesh
 edit
 cat
 sight |  
-| bip_39_word_new_line11 | mutual
+| bip_39_word_new_line_11 | mutual
 cycle
 hollow
 waste
@@ -66,7 +66,7 @@ edit
 cat
 sight
 magic |  
-| bip_39_word_new_line12 | mutual
+| bip_39_word_new_line_12 | mutual
 cycle
 hollow
 waste
@@ -78,34 +78,34 @@ cat
 sight
 magic
 addict |  
-| bip_39_word_new_line2 | mutual
+| bip_39_word_new_line_2 | mutual
 cycle |  
-| bip_39_word_new_line3 | mutual
+| bip_39_word_new_line_3 | mutual
 cycle
 hollow |  
-| bip_39_word_new_line4 | mutual
+| bip_39_word_new_line_4 | mutual
 cycle
 hollow
 waste |  
-| bip_39_word_new_line5 | mutual
+| bip_39_word_new_line_5 | mutual
 cycle
 hollow
 waste
 rural |  
-| bip_39_word_new_line6 | mutual
+| bip_39_word_new_line_6 | mutual
 cycle
 hollow
 waste
 rural
 cabbage |  
-| bip_39_word_new_line7 | mutual
+| bip_39_word_new_line_7 | mutual
 cycle
 hollow
 waste
 rural
 cabbage
 mesh |  
-| bip_39_word_new_line8 | mutual
+| bip_39_word_new_line_8 | mutual
 cycle
 hollow
 waste
@@ -113,7 +113,7 @@ rural
 cabbage
 mesh
 edit |  
-| bip_39_word_new_line9 | mutual
+| bip_39_word_new_line_9 | mutual
 cycle
 hollow
 waste

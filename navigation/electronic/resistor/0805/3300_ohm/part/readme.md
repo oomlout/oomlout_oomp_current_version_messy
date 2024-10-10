@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | female |  
-| bip_39_word_new_br10 | female<br>unknown<br>able<br>notable<br>ill<br>remember<br>mammal<br>body<br>mad<br>elegant |  
-| bip_39_word_new_br11 | female<br>unknown<br>able<br>notable<br>ill<br>remember<br>mammal<br>body<br>mad<br>elegant<br>dilemma |  
-| bip_39_word_new_br12 | female<br>unknown<br>able<br>notable<br>ill<br>remember<br>mammal<br>body<br>mad<br>elegant<br>dilemma<br>album |  
-| bip_39_word_new_br2 | female<br>unknown |  
-| bip_39_word_new_br3 | female<br>unknown<br>able |  
-| bip_39_word_new_br4 | female<br>unknown<br>able<br>notable |  
-| bip_39_word_new_br5 | female<br>unknown<br>able<br>notable<br>ill |  
-| bip_39_word_new_br6 | female<br>unknown<br>able<br>notable<br>ill<br>remember |  
-| bip_39_word_new_br7 | female<br>unknown<br>able<br>notable<br>ill<br>remember<br>mammal |  
-| bip_39_word_new_br8 | female<br>unknown<br>able<br>notable<br>ill<br>remember<br>mammal<br>body |  
-| bip_39_word_new_br9 | female<br>unknown<br>able<br>notable<br>ill<br>remember<br>mammal<br>body<br>mad |  
-| bip_39_word_new_line1 | female |  
-| bip_39_word_new_line10 | female
+| bip_39_word_new_br_1 | female |  
+| bip_39_word_new_br_10 | female<br>unknown<br>able<br>notable<br>ill<br>remember<br>mammal<br>body<br>mad<br>elegant |  
+| bip_39_word_new_br_11 | female<br>unknown<br>able<br>notable<br>ill<br>remember<br>mammal<br>body<br>mad<br>elegant<br>dilemma |  
+| bip_39_word_new_br_12 | female<br>unknown<br>able<br>notable<br>ill<br>remember<br>mammal<br>body<br>mad<br>elegant<br>dilemma<br>album |  
+| bip_39_word_new_br_2 | female<br>unknown |  
+| bip_39_word_new_br_3 | female<br>unknown<br>able |  
+| bip_39_word_new_br_4 | female<br>unknown<br>able<br>notable |  
+| bip_39_word_new_br_5 | female<br>unknown<br>able<br>notable<br>ill |  
+| bip_39_word_new_br_6 | female<br>unknown<br>able<br>notable<br>ill<br>remember |  
+| bip_39_word_new_br_7 | female<br>unknown<br>able<br>notable<br>ill<br>remember<br>mammal |  
+| bip_39_word_new_br_8 | female<br>unknown<br>able<br>notable<br>ill<br>remember<br>mammal<br>body |  
+| bip_39_word_new_br_9 | female<br>unknown<br>able<br>notable<br>ill<br>remember<br>mammal<br>body<br>mad |  
+| bip_39_word_new_line_1 | female |  
+| bip_39_word_new_line_10 | female
 unknown
 able
 notable
@@ -55,7 +55,7 @@ mammal
 body
 mad
 elegant |  
-| bip_39_word_new_line11 | female
+| bip_39_word_new_line_11 | female
 unknown
 able
 notable
@@ -66,7 +66,7 @@ body
 mad
 elegant
 dilemma |  
-| bip_39_word_new_line12 | female
+| bip_39_word_new_line_12 | female
 unknown
 able
 notable
@@ -78,34 +78,34 @@ mad
 elegant
 dilemma
 album |  
-| bip_39_word_new_line2 | female
+| bip_39_word_new_line_2 | female
 unknown |  
-| bip_39_word_new_line3 | female
+| bip_39_word_new_line_3 | female
 unknown
 able |  
-| bip_39_word_new_line4 | female
+| bip_39_word_new_line_4 | female
 unknown
 able
 notable |  
-| bip_39_word_new_line5 | female
+| bip_39_word_new_line_5 | female
 unknown
 able
 notable
 ill |  
-| bip_39_word_new_line6 | female
+| bip_39_word_new_line_6 | female
 unknown
 able
 notable
 ill
 remember |  
-| bip_39_word_new_line7 | female
+| bip_39_word_new_line_7 | female
 unknown
 able
 notable
 ill
 remember
 mammal |  
-| bip_39_word_new_line8 | female
+| bip_39_word_new_line_8 | female
 unknown
 able
 notable
@@ -113,7 +113,7 @@ ill
 remember
 mammal
 body |  
-| bip_39_word_new_line9 | female
+| bip_39_word_new_line_9 | female
 unknown
 able
 notable

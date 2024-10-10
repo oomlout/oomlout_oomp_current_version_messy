@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | absorb |  
-| bip_39_word_new_br10 | absorb<br>century<br>reduce<br>review<br>avoid<br>frame<br>embody<br>rough<br>chief<br>over |  
-| bip_39_word_new_br11 | absorb<br>century<br>reduce<br>review<br>avoid<br>frame<br>embody<br>rough<br>chief<br>over<br>emerge |  
-| bip_39_word_new_br12 | absorb<br>century<br>reduce<br>review<br>avoid<br>frame<br>embody<br>rough<br>chief<br>over<br>emerge<br>action |  
-| bip_39_word_new_br2 | absorb<br>century |  
-| bip_39_word_new_br3 | absorb<br>century<br>reduce |  
-| bip_39_word_new_br4 | absorb<br>century<br>reduce<br>review |  
-| bip_39_word_new_br5 | absorb<br>century<br>reduce<br>review<br>avoid |  
-| bip_39_word_new_br6 | absorb<br>century<br>reduce<br>review<br>avoid<br>frame |  
-| bip_39_word_new_br7 | absorb<br>century<br>reduce<br>review<br>avoid<br>frame<br>embody |  
-| bip_39_word_new_br8 | absorb<br>century<br>reduce<br>review<br>avoid<br>frame<br>embody<br>rough |  
-| bip_39_word_new_br9 | absorb<br>century<br>reduce<br>review<br>avoid<br>frame<br>embody<br>rough<br>chief |  
-| bip_39_word_new_line1 | absorb |  
-| bip_39_word_new_line10 | absorb
+| bip_39_word_new_br_1 | absorb |  
+| bip_39_word_new_br_10 | absorb<br>century<br>reduce<br>review<br>avoid<br>frame<br>embody<br>rough<br>chief<br>over |  
+| bip_39_word_new_br_11 | absorb<br>century<br>reduce<br>review<br>avoid<br>frame<br>embody<br>rough<br>chief<br>over<br>emerge |  
+| bip_39_word_new_br_12 | absorb<br>century<br>reduce<br>review<br>avoid<br>frame<br>embody<br>rough<br>chief<br>over<br>emerge<br>action |  
+| bip_39_word_new_br_2 | absorb<br>century |  
+| bip_39_word_new_br_3 | absorb<br>century<br>reduce |  
+| bip_39_word_new_br_4 | absorb<br>century<br>reduce<br>review |  
+| bip_39_word_new_br_5 | absorb<br>century<br>reduce<br>review<br>avoid |  
+| bip_39_word_new_br_6 | absorb<br>century<br>reduce<br>review<br>avoid<br>frame |  
+| bip_39_word_new_br_7 | absorb<br>century<br>reduce<br>review<br>avoid<br>frame<br>embody |  
+| bip_39_word_new_br_8 | absorb<br>century<br>reduce<br>review<br>avoid<br>frame<br>embody<br>rough |  
+| bip_39_word_new_br_9 | absorb<br>century<br>reduce<br>review<br>avoid<br>frame<br>embody<br>rough<br>chief |  
+| bip_39_word_new_line_1 | absorb |  
+| bip_39_word_new_line_10 | absorb
 century
 reduce
 review
@@ -55,7 +55,7 @@ embody
 rough
 chief
 over |  
-| bip_39_word_new_line11 | absorb
+| bip_39_word_new_line_11 | absorb
 century
 reduce
 review
@@ -66,7 +66,7 @@ rough
 chief
 over
 emerge |  
-| bip_39_word_new_line12 | absorb
+| bip_39_word_new_line_12 | absorb
 century
 reduce
 review
@@ -78,34 +78,34 @@ chief
 over
 emerge
 action |  
-| bip_39_word_new_line2 | absorb
+| bip_39_word_new_line_2 | absorb
 century |  
-| bip_39_word_new_line3 | absorb
+| bip_39_word_new_line_3 | absorb
 century
 reduce |  
-| bip_39_word_new_line4 | absorb
+| bip_39_word_new_line_4 | absorb
 century
 reduce
 review |  
-| bip_39_word_new_line5 | absorb
+| bip_39_word_new_line_5 | absorb
 century
 reduce
 review
 avoid |  
-| bip_39_word_new_line6 | absorb
+| bip_39_word_new_line_6 | absorb
 century
 reduce
 review
 avoid
 frame |  
-| bip_39_word_new_line7 | absorb
+| bip_39_word_new_line_7 | absorb
 century
 reduce
 review
 avoid
 frame
 embody |  
-| bip_39_word_new_line8 | absorb
+| bip_39_word_new_line_8 | absorb
 century
 reduce
 review
@@ -113,7 +113,7 @@ avoid
 frame
 embody
 rough |  
-| bip_39_word_new_line9 | absorb
+| bip_39_word_new_line_9 | absorb
 century
 reduce
 review

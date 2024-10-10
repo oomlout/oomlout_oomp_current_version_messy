@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pattern |  
-| bip_39_word_new_br10 | pattern<br>very<br>include<br>sing<br>sick<br>suffer<br>put<br>captain<br>kiwi<br>caution |  
-| bip_39_word_new_br11 | pattern<br>very<br>include<br>sing<br>sick<br>suffer<br>put<br>captain<br>kiwi<br>caution<br>scorpion |  
-| bip_39_word_new_br12 | pattern<br>very<br>include<br>sing<br>sick<br>suffer<br>put<br>captain<br>kiwi<br>caution<br>scorpion<br>appear |  
-| bip_39_word_new_br2 | pattern<br>very |  
-| bip_39_word_new_br3 | pattern<br>very<br>include |  
-| bip_39_word_new_br4 | pattern<br>very<br>include<br>sing |  
-| bip_39_word_new_br5 | pattern<br>very<br>include<br>sing<br>sick |  
-| bip_39_word_new_br6 | pattern<br>very<br>include<br>sing<br>sick<br>suffer |  
-| bip_39_word_new_br7 | pattern<br>very<br>include<br>sing<br>sick<br>suffer<br>put |  
-| bip_39_word_new_br8 | pattern<br>very<br>include<br>sing<br>sick<br>suffer<br>put<br>captain |  
-| bip_39_word_new_br9 | pattern<br>very<br>include<br>sing<br>sick<br>suffer<br>put<br>captain<br>kiwi |  
-| bip_39_word_new_line1 | pattern |  
-| bip_39_word_new_line10 | pattern
+| bip_39_word_new_br_1 | pattern |  
+| bip_39_word_new_br_10 | pattern<br>very<br>include<br>sing<br>sick<br>suffer<br>put<br>captain<br>kiwi<br>caution |  
+| bip_39_word_new_br_11 | pattern<br>very<br>include<br>sing<br>sick<br>suffer<br>put<br>captain<br>kiwi<br>caution<br>scorpion |  
+| bip_39_word_new_br_12 | pattern<br>very<br>include<br>sing<br>sick<br>suffer<br>put<br>captain<br>kiwi<br>caution<br>scorpion<br>appear |  
+| bip_39_word_new_br_2 | pattern<br>very |  
+| bip_39_word_new_br_3 | pattern<br>very<br>include |  
+| bip_39_word_new_br_4 | pattern<br>very<br>include<br>sing |  
+| bip_39_word_new_br_5 | pattern<br>very<br>include<br>sing<br>sick |  
+| bip_39_word_new_br_6 | pattern<br>very<br>include<br>sing<br>sick<br>suffer |  
+| bip_39_word_new_br_7 | pattern<br>very<br>include<br>sing<br>sick<br>suffer<br>put |  
+| bip_39_word_new_br_8 | pattern<br>very<br>include<br>sing<br>sick<br>suffer<br>put<br>captain |  
+| bip_39_word_new_br_9 | pattern<br>very<br>include<br>sing<br>sick<br>suffer<br>put<br>captain<br>kiwi |  
+| bip_39_word_new_line_1 | pattern |  
+| bip_39_word_new_line_10 | pattern
 very
 include
 sing
@@ -55,7 +55,7 @@ put
 captain
 kiwi
 caution |  
-| bip_39_word_new_line11 | pattern
+| bip_39_word_new_line_11 | pattern
 very
 include
 sing
@@ -66,7 +66,7 @@ captain
 kiwi
 caution
 scorpion |  
-| bip_39_word_new_line12 | pattern
+| bip_39_word_new_line_12 | pattern
 very
 include
 sing
@@ -78,34 +78,34 @@ kiwi
 caution
 scorpion
 appear |  
-| bip_39_word_new_line2 | pattern
+| bip_39_word_new_line_2 | pattern
 very |  
-| bip_39_word_new_line3 | pattern
+| bip_39_word_new_line_3 | pattern
 very
 include |  
-| bip_39_word_new_line4 | pattern
+| bip_39_word_new_line_4 | pattern
 very
 include
 sing |  
-| bip_39_word_new_line5 | pattern
+| bip_39_word_new_line_5 | pattern
 very
 include
 sing
 sick |  
-| bip_39_word_new_line6 | pattern
+| bip_39_word_new_line_6 | pattern
 very
 include
 sing
 sick
 suffer |  
-| bip_39_word_new_line7 | pattern
+| bip_39_word_new_line_7 | pattern
 very
 include
 sing
 sick
 suffer
 put |  
-| bip_39_word_new_line8 | pattern
+| bip_39_word_new_line_8 | pattern
 very
 include
 sing
@@ -113,7 +113,7 @@ sick
 suffer
 put
 captain |  
-| bip_39_word_new_line9 | pattern
+| bip_39_word_new_line_9 | pattern
 very
 include
 sing

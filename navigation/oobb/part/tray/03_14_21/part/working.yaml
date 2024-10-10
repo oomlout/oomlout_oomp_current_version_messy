@@ -1,17 +1,17 @@
-bip_39_word_new_br1: year
-bip_39_word_new_br10: year<br>worry<br>grace<br>ordinary<br>surge<br>movie<br>tail<br>this<br>uphold<br>outer
-bip_39_word_new_br11: year<br>worry<br>grace<br>ordinary<br>surge<br>movie<br>tail<br>this<br>uphold<br>outer<br>possible
-bip_39_word_new_br12: year<br>worry<br>grace<br>ordinary<br>surge<br>movie<br>tail<br>this<br>uphold<br>outer<br>possible<br>alpha
-bip_39_word_new_br2: year<br>worry
-bip_39_word_new_br3: year<br>worry<br>grace
-bip_39_word_new_br4: year<br>worry<br>grace<br>ordinary
-bip_39_word_new_br5: year<br>worry<br>grace<br>ordinary<br>surge
-bip_39_word_new_br6: year<br>worry<br>grace<br>ordinary<br>surge<br>movie
-bip_39_word_new_br7: year<br>worry<br>grace<br>ordinary<br>surge<br>movie<br>tail
-bip_39_word_new_br8: year<br>worry<br>grace<br>ordinary<br>surge<br>movie<br>tail<br>this
-bip_39_word_new_br9: year<br>worry<br>grace<br>ordinary<br>surge<br>movie<br>tail<br>this<br>uphold
-bip_39_word_new_line1: year
-bip_39_word_new_line10: 'year
+bip_39_word_new_br_1: year
+bip_39_word_new_br_10: year<br>worry<br>grace<br>ordinary<br>surge<br>movie<br>tail<br>this<br>uphold<br>outer
+bip_39_word_new_br_11: year<br>worry<br>grace<br>ordinary<br>surge<br>movie<br>tail<br>this<br>uphold<br>outer<br>possible
+bip_39_word_new_br_12: year<br>worry<br>grace<br>ordinary<br>surge<br>movie<br>tail<br>this<br>uphold<br>outer<br>possible<br>alpha
+bip_39_word_new_br_2: year<br>worry
+bip_39_word_new_br_3: year<br>worry<br>grace
+bip_39_word_new_br_4: year<br>worry<br>grace<br>ordinary
+bip_39_word_new_br_5: year<br>worry<br>grace<br>ordinary<br>surge
+bip_39_word_new_br_6: year<br>worry<br>grace<br>ordinary<br>surge<br>movie
+bip_39_word_new_br_7: year<br>worry<br>grace<br>ordinary<br>surge<br>movie<br>tail
+bip_39_word_new_br_8: year<br>worry<br>grace<br>ordinary<br>surge<br>movie<br>tail<br>this
+bip_39_word_new_br_9: year<br>worry<br>grace<br>ordinary<br>surge<br>movie<br>tail<br>this<br>uphold
+bip_39_word_new_line_1: year
+bip_39_word_new_line_10: 'year
 
   worry
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'year
   uphold
 
   outer'
-bip_39_word_new_line11: 'year
+bip_39_word_new_line_11: 'year
 
   worry
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'year
   outer
 
   possible'
-bip_39_word_new_line12: 'year
+bip_39_word_new_line_12: 'year
 
   worry
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'year
   possible
 
   alpha'
-bip_39_word_new_line2: 'year
+bip_39_word_new_line_2: 'year
 
   worry'
-bip_39_word_new_line3: 'year
+bip_39_word_new_line_3: 'year
 
   worry
 
   grace'
-bip_39_word_new_line4: 'year
+bip_39_word_new_line_4: 'year
 
   worry
 
   grace
 
   ordinary'
-bip_39_word_new_line5: 'year
+bip_39_word_new_line_5: 'year
 
   worry
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'year
   ordinary
 
   surge'
-bip_39_word_new_line6: 'year
+bip_39_word_new_line_6: 'year
 
   worry
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'year
   surge
 
   movie'
-bip_39_word_new_line7: 'year
+bip_39_word_new_line_7: 'year
 
   worry
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'year
   movie
 
   tail'
-bip_39_word_new_line8: 'year
+bip_39_word_new_line_8: 'year
 
   worry
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'year
   tail
 
   this'
-bip_39_word_new_line9: 'year
+bip_39_word_new_line_9: 'year
 
   worry
 

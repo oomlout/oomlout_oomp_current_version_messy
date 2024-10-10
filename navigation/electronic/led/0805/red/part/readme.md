@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | gesture |  
-| bip_39_word_new_br10 | gesture<br>action<br>syrup<br>slim<br>atom<br>crack<br>shed<br>bounce<br>act<br>work |  
-| bip_39_word_new_br11 | gesture<br>action<br>syrup<br>slim<br>atom<br>crack<br>shed<br>bounce<br>act<br>work<br>slide |  
-| bip_39_word_new_br12 | gesture<br>action<br>syrup<br>slim<br>atom<br>crack<br>shed<br>bounce<br>act<br>work<br>slide<br>autumn |  
-| bip_39_word_new_br2 | gesture<br>action |  
-| bip_39_word_new_br3 | gesture<br>action<br>syrup |  
-| bip_39_word_new_br4 | gesture<br>action<br>syrup<br>slim |  
-| bip_39_word_new_br5 | gesture<br>action<br>syrup<br>slim<br>atom |  
-| bip_39_word_new_br6 | gesture<br>action<br>syrup<br>slim<br>atom<br>crack |  
-| bip_39_word_new_br7 | gesture<br>action<br>syrup<br>slim<br>atom<br>crack<br>shed |  
-| bip_39_word_new_br8 | gesture<br>action<br>syrup<br>slim<br>atom<br>crack<br>shed<br>bounce |  
-| bip_39_word_new_br9 | gesture<br>action<br>syrup<br>slim<br>atom<br>crack<br>shed<br>bounce<br>act |  
-| bip_39_word_new_line1 | gesture |  
-| bip_39_word_new_line10 | gesture
+| bip_39_word_new_br_1 | gesture |  
+| bip_39_word_new_br_10 | gesture<br>action<br>syrup<br>slim<br>atom<br>crack<br>shed<br>bounce<br>act<br>work |  
+| bip_39_word_new_br_11 | gesture<br>action<br>syrup<br>slim<br>atom<br>crack<br>shed<br>bounce<br>act<br>work<br>slide |  
+| bip_39_word_new_br_12 | gesture<br>action<br>syrup<br>slim<br>atom<br>crack<br>shed<br>bounce<br>act<br>work<br>slide<br>autumn |  
+| bip_39_word_new_br_2 | gesture<br>action |  
+| bip_39_word_new_br_3 | gesture<br>action<br>syrup |  
+| bip_39_word_new_br_4 | gesture<br>action<br>syrup<br>slim |  
+| bip_39_word_new_br_5 | gesture<br>action<br>syrup<br>slim<br>atom |  
+| bip_39_word_new_br_6 | gesture<br>action<br>syrup<br>slim<br>atom<br>crack |  
+| bip_39_word_new_br_7 | gesture<br>action<br>syrup<br>slim<br>atom<br>crack<br>shed |  
+| bip_39_word_new_br_8 | gesture<br>action<br>syrup<br>slim<br>atom<br>crack<br>shed<br>bounce |  
+| bip_39_word_new_br_9 | gesture<br>action<br>syrup<br>slim<br>atom<br>crack<br>shed<br>bounce<br>act |  
+| bip_39_word_new_line_1 | gesture |  
+| bip_39_word_new_line_10 | gesture
 action
 syrup
 slim
@@ -55,7 +55,7 @@ shed
 bounce
 act
 work |  
-| bip_39_word_new_line11 | gesture
+| bip_39_word_new_line_11 | gesture
 action
 syrup
 slim
@@ -66,7 +66,7 @@ bounce
 act
 work
 slide |  
-| bip_39_word_new_line12 | gesture
+| bip_39_word_new_line_12 | gesture
 action
 syrup
 slim
@@ -78,34 +78,34 @@ act
 work
 slide
 autumn |  
-| bip_39_word_new_line2 | gesture
+| bip_39_word_new_line_2 | gesture
 action |  
-| bip_39_word_new_line3 | gesture
+| bip_39_word_new_line_3 | gesture
 action
 syrup |  
-| bip_39_word_new_line4 | gesture
+| bip_39_word_new_line_4 | gesture
 action
 syrup
 slim |  
-| bip_39_word_new_line5 | gesture
+| bip_39_word_new_line_5 | gesture
 action
 syrup
 slim
 atom |  
-| bip_39_word_new_line6 | gesture
+| bip_39_word_new_line_6 | gesture
 action
 syrup
 slim
 atom
 crack |  
-| bip_39_word_new_line7 | gesture
+| bip_39_word_new_line_7 | gesture
 action
 syrup
 slim
 atom
 crack
 shed |  
-| bip_39_word_new_line8 | gesture
+| bip_39_word_new_line_8 | gesture
 action
 syrup
 slim
@@ -113,7 +113,7 @@ atom
 crack
 shed
 bounce |  
-| bip_39_word_new_line9 | gesture
+| bip_39_word_new_line_9 | gesture
 action
 syrup
 slim

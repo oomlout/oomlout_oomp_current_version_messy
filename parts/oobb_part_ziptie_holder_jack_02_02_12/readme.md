@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | require |  
-| bip_39_word_new_br10 | require<br>survey<br>post<br>tomato<br>grocery<br>oblige<br>right<br>saddle<br>thought<br>pet |  
-| bip_39_word_new_br11 | require<br>survey<br>post<br>tomato<br>grocery<br>oblige<br>right<br>saddle<br>thought<br>pet<br>donate |  
-| bip_39_word_new_br12 | require<br>survey<br>post<br>tomato<br>grocery<br>oblige<br>right<br>saddle<br>thought<br>pet<br>donate<br>agent |  
-| bip_39_word_new_br2 | require<br>survey |  
-| bip_39_word_new_br3 | require<br>survey<br>post |  
-| bip_39_word_new_br4 | require<br>survey<br>post<br>tomato |  
-| bip_39_word_new_br5 | require<br>survey<br>post<br>tomato<br>grocery |  
-| bip_39_word_new_br6 | require<br>survey<br>post<br>tomato<br>grocery<br>oblige |  
-| bip_39_word_new_br7 | require<br>survey<br>post<br>tomato<br>grocery<br>oblige<br>right |  
-| bip_39_word_new_br8 | require<br>survey<br>post<br>tomato<br>grocery<br>oblige<br>right<br>saddle |  
-| bip_39_word_new_br9 | require<br>survey<br>post<br>tomato<br>grocery<br>oblige<br>right<br>saddle<br>thought |  
-| bip_39_word_new_line1 | require |  
-| bip_39_word_new_line10 | require
+| bip_39_word_new_br_1 | require |  
+| bip_39_word_new_br_10 | require<br>survey<br>post<br>tomato<br>grocery<br>oblige<br>right<br>saddle<br>thought<br>pet |  
+| bip_39_word_new_br_11 | require<br>survey<br>post<br>tomato<br>grocery<br>oblige<br>right<br>saddle<br>thought<br>pet<br>donate |  
+| bip_39_word_new_br_12 | require<br>survey<br>post<br>tomato<br>grocery<br>oblige<br>right<br>saddle<br>thought<br>pet<br>donate<br>agent |  
+| bip_39_word_new_br_2 | require<br>survey |  
+| bip_39_word_new_br_3 | require<br>survey<br>post |  
+| bip_39_word_new_br_4 | require<br>survey<br>post<br>tomato |  
+| bip_39_word_new_br_5 | require<br>survey<br>post<br>tomato<br>grocery |  
+| bip_39_word_new_br_6 | require<br>survey<br>post<br>tomato<br>grocery<br>oblige |  
+| bip_39_word_new_br_7 | require<br>survey<br>post<br>tomato<br>grocery<br>oblige<br>right |  
+| bip_39_word_new_br_8 | require<br>survey<br>post<br>tomato<br>grocery<br>oblige<br>right<br>saddle |  
+| bip_39_word_new_br_9 | require<br>survey<br>post<br>tomato<br>grocery<br>oblige<br>right<br>saddle<br>thought |  
+| bip_39_word_new_line_1 | require |  
+| bip_39_word_new_line_10 | require
 survey
 post
 tomato
@@ -55,7 +55,7 @@ right
 saddle
 thought
 pet |  
-| bip_39_word_new_line11 | require
+| bip_39_word_new_line_11 | require
 survey
 post
 tomato
@@ -66,7 +66,7 @@ saddle
 thought
 pet
 donate |  
-| bip_39_word_new_line12 | require
+| bip_39_word_new_line_12 | require
 survey
 post
 tomato
@@ -78,34 +78,34 @@ thought
 pet
 donate
 agent |  
-| bip_39_word_new_line2 | require
+| bip_39_word_new_line_2 | require
 survey |  
-| bip_39_word_new_line3 | require
+| bip_39_word_new_line_3 | require
 survey
 post |  
-| bip_39_word_new_line4 | require
+| bip_39_word_new_line_4 | require
 survey
 post
 tomato |  
-| bip_39_word_new_line5 | require
+| bip_39_word_new_line_5 | require
 survey
 post
 tomato
 grocery |  
-| bip_39_word_new_line6 | require
+| bip_39_word_new_line_6 | require
 survey
 post
 tomato
 grocery
 oblige |  
-| bip_39_word_new_line7 | require
+| bip_39_word_new_line_7 | require
 survey
 post
 tomato
 grocery
 oblige
 right |  
-| bip_39_word_new_line8 | require
+| bip_39_word_new_line_8 | require
 survey
 post
 tomato
@@ -113,7 +113,7 @@ grocery
 oblige
 right
 saddle |  
-| bip_39_word_new_line9 | require
+| bip_39_word_new_line_9 | require
 survey
 post
 tomato

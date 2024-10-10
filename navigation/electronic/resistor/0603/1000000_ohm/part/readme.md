@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | obscure |  
-| bip_39_word_new_br10 | obscure<br>mix<br>audit<br>found<br>sphere<br>elder<br>impose<br>depth<br>leopard<br>scare |  
-| bip_39_word_new_br11 | obscure<br>mix<br>audit<br>found<br>sphere<br>elder<br>impose<br>depth<br>leopard<br>scare<br>whale |  
-| bip_39_word_new_br12 | obscure<br>mix<br>audit<br>found<br>sphere<br>elder<br>impose<br>depth<br>leopard<br>scare<br>whale<br>also |  
-| bip_39_word_new_br2 | obscure<br>mix |  
-| bip_39_word_new_br3 | obscure<br>mix<br>audit |  
-| bip_39_word_new_br4 | obscure<br>mix<br>audit<br>found |  
-| bip_39_word_new_br5 | obscure<br>mix<br>audit<br>found<br>sphere |  
-| bip_39_word_new_br6 | obscure<br>mix<br>audit<br>found<br>sphere<br>elder |  
-| bip_39_word_new_br7 | obscure<br>mix<br>audit<br>found<br>sphere<br>elder<br>impose |  
-| bip_39_word_new_br8 | obscure<br>mix<br>audit<br>found<br>sphere<br>elder<br>impose<br>depth |  
-| bip_39_word_new_br9 | obscure<br>mix<br>audit<br>found<br>sphere<br>elder<br>impose<br>depth<br>leopard |  
-| bip_39_word_new_line1 | obscure |  
-| bip_39_word_new_line10 | obscure
+| bip_39_word_new_br_1 | obscure |  
+| bip_39_word_new_br_10 | obscure<br>mix<br>audit<br>found<br>sphere<br>elder<br>impose<br>depth<br>leopard<br>scare |  
+| bip_39_word_new_br_11 | obscure<br>mix<br>audit<br>found<br>sphere<br>elder<br>impose<br>depth<br>leopard<br>scare<br>whale |  
+| bip_39_word_new_br_12 | obscure<br>mix<br>audit<br>found<br>sphere<br>elder<br>impose<br>depth<br>leopard<br>scare<br>whale<br>also |  
+| bip_39_word_new_br_2 | obscure<br>mix |  
+| bip_39_word_new_br_3 | obscure<br>mix<br>audit |  
+| bip_39_word_new_br_4 | obscure<br>mix<br>audit<br>found |  
+| bip_39_word_new_br_5 | obscure<br>mix<br>audit<br>found<br>sphere |  
+| bip_39_word_new_br_6 | obscure<br>mix<br>audit<br>found<br>sphere<br>elder |  
+| bip_39_word_new_br_7 | obscure<br>mix<br>audit<br>found<br>sphere<br>elder<br>impose |  
+| bip_39_word_new_br_8 | obscure<br>mix<br>audit<br>found<br>sphere<br>elder<br>impose<br>depth |  
+| bip_39_word_new_br_9 | obscure<br>mix<br>audit<br>found<br>sphere<br>elder<br>impose<br>depth<br>leopard |  
+| bip_39_word_new_line_1 | obscure |  
+| bip_39_word_new_line_10 | obscure
 mix
 audit
 found
@@ -55,7 +55,7 @@ impose
 depth
 leopard
 scare |  
-| bip_39_word_new_line11 | obscure
+| bip_39_word_new_line_11 | obscure
 mix
 audit
 found
@@ -66,7 +66,7 @@ depth
 leopard
 scare
 whale |  
-| bip_39_word_new_line12 | obscure
+| bip_39_word_new_line_12 | obscure
 mix
 audit
 found
@@ -78,34 +78,34 @@ leopard
 scare
 whale
 also |  
-| bip_39_word_new_line2 | obscure
+| bip_39_word_new_line_2 | obscure
 mix |  
-| bip_39_word_new_line3 | obscure
+| bip_39_word_new_line_3 | obscure
 mix
 audit |  
-| bip_39_word_new_line4 | obscure
+| bip_39_word_new_line_4 | obscure
 mix
 audit
 found |  
-| bip_39_word_new_line5 | obscure
+| bip_39_word_new_line_5 | obscure
 mix
 audit
 found
 sphere |  
-| bip_39_word_new_line6 | obscure
+| bip_39_word_new_line_6 | obscure
 mix
 audit
 found
 sphere
 elder |  
-| bip_39_word_new_line7 | obscure
+| bip_39_word_new_line_7 | obscure
 mix
 audit
 found
 sphere
 elder
 impose |  
-| bip_39_word_new_line8 | obscure
+| bip_39_word_new_line_8 | obscure
 mix
 audit
 found
@@ -113,7 +113,7 @@ sphere
 elder
 impose
 depth |  
-| bip_39_word_new_line9 | obscure
+| bip_39_word_new_line_9 | obscure
 mix
 audit
 found

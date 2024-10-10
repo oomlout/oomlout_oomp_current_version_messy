@@ -1,17 +1,17 @@
-bip_39_word_new_br1: play
-bip_39_word_new_br10: play<br>draw<br>muffin<br>dress<br>demise<br>motor<br>drip<br>print<br>detail<br>phone
-bip_39_word_new_br11: play<br>draw<br>muffin<br>dress<br>demise<br>motor<br>drip<br>print<br>detail<br>phone<br>lounge
-bip_39_word_new_br12: play<br>draw<br>muffin<br>dress<br>demise<br>motor<br>drip<br>print<br>detail<br>phone<br>lounge<br>alone
-bip_39_word_new_br2: play<br>draw
-bip_39_word_new_br3: play<br>draw<br>muffin
-bip_39_word_new_br4: play<br>draw<br>muffin<br>dress
-bip_39_word_new_br5: play<br>draw<br>muffin<br>dress<br>demise
-bip_39_word_new_br6: play<br>draw<br>muffin<br>dress<br>demise<br>motor
-bip_39_word_new_br7: play<br>draw<br>muffin<br>dress<br>demise<br>motor<br>drip
-bip_39_word_new_br8: play<br>draw<br>muffin<br>dress<br>demise<br>motor<br>drip<br>print
-bip_39_word_new_br9: play<br>draw<br>muffin<br>dress<br>demise<br>motor<br>drip<br>print<br>detail
-bip_39_word_new_line1: play
-bip_39_word_new_line10: 'play
+bip_39_word_new_br_1: play
+bip_39_word_new_br_10: play<br>draw<br>muffin<br>dress<br>demise<br>motor<br>drip<br>print<br>detail<br>phone
+bip_39_word_new_br_11: play<br>draw<br>muffin<br>dress<br>demise<br>motor<br>drip<br>print<br>detail<br>phone<br>lounge
+bip_39_word_new_br_12: play<br>draw<br>muffin<br>dress<br>demise<br>motor<br>drip<br>print<br>detail<br>phone<br>lounge<br>alone
+bip_39_word_new_br_2: play<br>draw
+bip_39_word_new_br_3: play<br>draw<br>muffin
+bip_39_word_new_br_4: play<br>draw<br>muffin<br>dress
+bip_39_word_new_br_5: play<br>draw<br>muffin<br>dress<br>demise
+bip_39_word_new_br_6: play<br>draw<br>muffin<br>dress<br>demise<br>motor
+bip_39_word_new_br_7: play<br>draw<br>muffin<br>dress<br>demise<br>motor<br>drip
+bip_39_word_new_br_8: play<br>draw<br>muffin<br>dress<br>demise<br>motor<br>drip<br>print
+bip_39_word_new_br_9: play<br>draw<br>muffin<br>dress<br>demise<br>motor<br>drip<br>print<br>detail
+bip_39_word_new_line_1: play
+bip_39_word_new_line_10: 'play
 
   draw
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'play
   detail
 
   phone'
-bip_39_word_new_line11: 'play
+bip_39_word_new_line_11: 'play
 
   draw
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'play
   phone
 
   lounge'
-bip_39_word_new_line12: 'play
+bip_39_word_new_line_12: 'play
 
   draw
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'play
   lounge
 
   alone'
-bip_39_word_new_line2: 'play
+bip_39_word_new_line_2: 'play
 
   draw'
-bip_39_word_new_line3: 'play
+bip_39_word_new_line_3: 'play
 
   draw
 
   muffin'
-bip_39_word_new_line4: 'play
+bip_39_word_new_line_4: 'play
 
   draw
 
   muffin
 
   dress'
-bip_39_word_new_line5: 'play
+bip_39_word_new_line_5: 'play
 
   draw
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'play
   dress
 
   demise'
-bip_39_word_new_line6: 'play
+bip_39_word_new_line_6: 'play
 
   draw
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'play
   demise
 
   motor'
-bip_39_word_new_line7: 'play
+bip_39_word_new_line_7: 'play
 
   draw
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'play
   motor
 
   drip'
-bip_39_word_new_line8: 'play
+bip_39_word_new_line_8: 'play
 
   draw
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'play
   drip
 
   print'
-bip_39_word_new_line9: 'play
+bip_39_word_new_line_9: 'play
 
   draw
 

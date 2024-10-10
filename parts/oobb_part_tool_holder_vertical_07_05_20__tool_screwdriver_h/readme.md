@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bike |  
-| bip_39_word_new_br10 | bike<br>dinosaur<br>put<br>blood<br>tank<br>view<br>will<br>boat<br>grab<br>reduce |  
-| bip_39_word_new_br11 | bike<br>dinosaur<br>put<br>blood<br>tank<br>view<br>will<br>boat<br>grab<br>reduce<br>forget |  
-| bip_39_word_new_br12 | bike<br>dinosaur<br>put<br>blood<br>tank<br>view<br>will<br>boat<br>grab<br>reduce<br>forget<br>already |  
-| bip_39_word_new_br2 | bike<br>dinosaur |  
-| bip_39_word_new_br3 | bike<br>dinosaur<br>put |  
-| bip_39_word_new_br4 | bike<br>dinosaur<br>put<br>blood |  
-| bip_39_word_new_br5 | bike<br>dinosaur<br>put<br>blood<br>tank |  
-| bip_39_word_new_br6 | bike<br>dinosaur<br>put<br>blood<br>tank<br>view |  
-| bip_39_word_new_br7 | bike<br>dinosaur<br>put<br>blood<br>tank<br>view<br>will |  
-| bip_39_word_new_br8 | bike<br>dinosaur<br>put<br>blood<br>tank<br>view<br>will<br>boat |  
-| bip_39_word_new_br9 | bike<br>dinosaur<br>put<br>blood<br>tank<br>view<br>will<br>boat<br>grab |  
-| bip_39_word_new_line1 | bike |  
-| bip_39_word_new_line10 | bike
+| bip_39_word_new_br_1 | bike |  
+| bip_39_word_new_br_10 | bike<br>dinosaur<br>put<br>blood<br>tank<br>view<br>will<br>boat<br>grab<br>reduce |  
+| bip_39_word_new_br_11 | bike<br>dinosaur<br>put<br>blood<br>tank<br>view<br>will<br>boat<br>grab<br>reduce<br>forget |  
+| bip_39_word_new_br_12 | bike<br>dinosaur<br>put<br>blood<br>tank<br>view<br>will<br>boat<br>grab<br>reduce<br>forget<br>already |  
+| bip_39_word_new_br_2 | bike<br>dinosaur |  
+| bip_39_word_new_br_3 | bike<br>dinosaur<br>put |  
+| bip_39_word_new_br_4 | bike<br>dinosaur<br>put<br>blood |  
+| bip_39_word_new_br_5 | bike<br>dinosaur<br>put<br>blood<br>tank |  
+| bip_39_word_new_br_6 | bike<br>dinosaur<br>put<br>blood<br>tank<br>view |  
+| bip_39_word_new_br_7 | bike<br>dinosaur<br>put<br>blood<br>tank<br>view<br>will |  
+| bip_39_word_new_br_8 | bike<br>dinosaur<br>put<br>blood<br>tank<br>view<br>will<br>boat |  
+| bip_39_word_new_br_9 | bike<br>dinosaur<br>put<br>blood<br>tank<br>view<br>will<br>boat<br>grab |  
+| bip_39_word_new_line_1 | bike |  
+| bip_39_word_new_line_10 | bike
 dinosaur
 put
 blood
@@ -55,7 +55,7 @@ will
 boat
 grab
 reduce |  
-| bip_39_word_new_line11 | bike
+| bip_39_word_new_line_11 | bike
 dinosaur
 put
 blood
@@ -66,7 +66,7 @@ boat
 grab
 reduce
 forget |  
-| bip_39_word_new_line12 | bike
+| bip_39_word_new_line_12 | bike
 dinosaur
 put
 blood
@@ -78,34 +78,34 @@ grab
 reduce
 forget
 already |  
-| bip_39_word_new_line2 | bike
+| bip_39_word_new_line_2 | bike
 dinosaur |  
-| bip_39_word_new_line3 | bike
+| bip_39_word_new_line_3 | bike
 dinosaur
 put |  
-| bip_39_word_new_line4 | bike
+| bip_39_word_new_line_4 | bike
 dinosaur
 put
 blood |  
-| bip_39_word_new_line5 | bike
+| bip_39_word_new_line_5 | bike
 dinosaur
 put
 blood
 tank |  
-| bip_39_word_new_line6 | bike
+| bip_39_word_new_line_6 | bike
 dinosaur
 put
 blood
 tank
 view |  
-| bip_39_word_new_line7 | bike
+| bip_39_word_new_line_7 | bike
 dinosaur
 put
 blood
 tank
 view
 will |  
-| bip_39_word_new_line8 | bike
+| bip_39_word_new_line_8 | bike
 dinosaur
 put
 blood
@@ -113,7 +113,7 @@ tank
 view
 will
 boat |  
-| bip_39_word_new_line9 | bike
+| bip_39_word_new_line_9 | bike
 dinosaur
 put
 blood

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | burst |  
-| bip_39_word_new_br10 | burst<br>shine<br>empower<br>exist<br>habit<br>second<br>roast<br>betray<br>correct<br>thrive |  
-| bip_39_word_new_br11 | burst<br>shine<br>empower<br>exist<br>habit<br>second<br>roast<br>betray<br>correct<br>thrive<br>jazz |  
-| bip_39_word_new_br12 | burst<br>shine<br>empower<br>exist<br>habit<br>second<br>roast<br>betray<br>correct<br>thrive<br>jazz<br>annual |  
-| bip_39_word_new_br2 | burst<br>shine |  
-| bip_39_word_new_br3 | burst<br>shine<br>empower |  
-| bip_39_word_new_br4 | burst<br>shine<br>empower<br>exist |  
-| bip_39_word_new_br5 | burst<br>shine<br>empower<br>exist<br>habit |  
-| bip_39_word_new_br6 | burst<br>shine<br>empower<br>exist<br>habit<br>second |  
-| bip_39_word_new_br7 | burst<br>shine<br>empower<br>exist<br>habit<br>second<br>roast |  
-| bip_39_word_new_br8 | burst<br>shine<br>empower<br>exist<br>habit<br>second<br>roast<br>betray |  
-| bip_39_word_new_br9 | burst<br>shine<br>empower<br>exist<br>habit<br>second<br>roast<br>betray<br>correct |  
-| bip_39_word_new_line1 | burst |  
-| bip_39_word_new_line10 | burst
+| bip_39_word_new_br_1 | burst |  
+| bip_39_word_new_br_10 | burst<br>shine<br>empower<br>exist<br>habit<br>second<br>roast<br>betray<br>correct<br>thrive |  
+| bip_39_word_new_br_11 | burst<br>shine<br>empower<br>exist<br>habit<br>second<br>roast<br>betray<br>correct<br>thrive<br>jazz |  
+| bip_39_word_new_br_12 | burst<br>shine<br>empower<br>exist<br>habit<br>second<br>roast<br>betray<br>correct<br>thrive<br>jazz<br>annual |  
+| bip_39_word_new_br_2 | burst<br>shine |  
+| bip_39_word_new_br_3 | burst<br>shine<br>empower |  
+| bip_39_word_new_br_4 | burst<br>shine<br>empower<br>exist |  
+| bip_39_word_new_br_5 | burst<br>shine<br>empower<br>exist<br>habit |  
+| bip_39_word_new_br_6 | burst<br>shine<br>empower<br>exist<br>habit<br>second |  
+| bip_39_word_new_br_7 | burst<br>shine<br>empower<br>exist<br>habit<br>second<br>roast |  
+| bip_39_word_new_br_8 | burst<br>shine<br>empower<br>exist<br>habit<br>second<br>roast<br>betray |  
+| bip_39_word_new_br_9 | burst<br>shine<br>empower<br>exist<br>habit<br>second<br>roast<br>betray<br>correct |  
+| bip_39_word_new_line_1 | burst |  
+| bip_39_word_new_line_10 | burst
 shine
 empower
 exist
@@ -55,7 +55,7 @@ roast
 betray
 correct
 thrive |  
-| bip_39_word_new_line11 | burst
+| bip_39_word_new_line_11 | burst
 shine
 empower
 exist
@@ -66,7 +66,7 @@ betray
 correct
 thrive
 jazz |  
-| bip_39_word_new_line12 | burst
+| bip_39_word_new_line_12 | burst
 shine
 empower
 exist
@@ -78,34 +78,34 @@ correct
 thrive
 jazz
 annual |  
-| bip_39_word_new_line2 | burst
+| bip_39_word_new_line_2 | burst
 shine |  
-| bip_39_word_new_line3 | burst
+| bip_39_word_new_line_3 | burst
 shine
 empower |  
-| bip_39_word_new_line4 | burst
+| bip_39_word_new_line_4 | burst
 shine
 empower
 exist |  
-| bip_39_word_new_line5 | burst
+| bip_39_word_new_line_5 | burst
 shine
 empower
 exist
 habit |  
-| bip_39_word_new_line6 | burst
+| bip_39_word_new_line_6 | burst
 shine
 empower
 exist
 habit
 second |  
-| bip_39_word_new_line7 | burst
+| bip_39_word_new_line_7 | burst
 shine
 empower
 exist
 habit
 second
 roast |  
-| bip_39_word_new_line8 | burst
+| bip_39_word_new_line_8 | burst
 shine
 empower
 exist
@@ -113,7 +113,7 @@ habit
 second
 roast
 betray |  
-| bip_39_word_new_line9 | burst
+| bip_39_word_new_line_9 | burst
 shine
 empower
 exist

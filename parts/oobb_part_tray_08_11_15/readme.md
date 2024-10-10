@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | diesel |  
-| bip_39_word_new_br10 | diesel<br>candy<br>skill<br>situate<br>produce<br>shock<br>hamster<br>peace<br>educate<br>grit |  
-| bip_39_word_new_br11 | diesel<br>candy<br>skill<br>situate<br>produce<br>shock<br>hamster<br>peace<br>educate<br>grit<br>step |  
-| bip_39_word_new_br12 | diesel<br>candy<br>skill<br>situate<br>produce<br>shock<br>hamster<br>peace<br>educate<br>grit<br>step<br>aisle |  
-| bip_39_word_new_br2 | diesel<br>candy |  
-| bip_39_word_new_br3 | diesel<br>candy<br>skill |  
-| bip_39_word_new_br4 | diesel<br>candy<br>skill<br>situate |  
-| bip_39_word_new_br5 | diesel<br>candy<br>skill<br>situate<br>produce |  
-| bip_39_word_new_br6 | diesel<br>candy<br>skill<br>situate<br>produce<br>shock |  
-| bip_39_word_new_br7 | diesel<br>candy<br>skill<br>situate<br>produce<br>shock<br>hamster |  
-| bip_39_word_new_br8 | diesel<br>candy<br>skill<br>situate<br>produce<br>shock<br>hamster<br>peace |  
-| bip_39_word_new_br9 | diesel<br>candy<br>skill<br>situate<br>produce<br>shock<br>hamster<br>peace<br>educate |  
-| bip_39_word_new_line1 | diesel |  
-| bip_39_word_new_line10 | diesel
+| bip_39_word_new_br_1 | diesel |  
+| bip_39_word_new_br_10 | diesel<br>candy<br>skill<br>situate<br>produce<br>shock<br>hamster<br>peace<br>educate<br>grit |  
+| bip_39_word_new_br_11 | diesel<br>candy<br>skill<br>situate<br>produce<br>shock<br>hamster<br>peace<br>educate<br>grit<br>step |  
+| bip_39_word_new_br_12 | diesel<br>candy<br>skill<br>situate<br>produce<br>shock<br>hamster<br>peace<br>educate<br>grit<br>step<br>aisle |  
+| bip_39_word_new_br_2 | diesel<br>candy |  
+| bip_39_word_new_br_3 | diesel<br>candy<br>skill |  
+| bip_39_word_new_br_4 | diesel<br>candy<br>skill<br>situate |  
+| bip_39_word_new_br_5 | diesel<br>candy<br>skill<br>situate<br>produce |  
+| bip_39_word_new_br_6 | diesel<br>candy<br>skill<br>situate<br>produce<br>shock |  
+| bip_39_word_new_br_7 | diesel<br>candy<br>skill<br>situate<br>produce<br>shock<br>hamster |  
+| bip_39_word_new_br_8 | diesel<br>candy<br>skill<br>situate<br>produce<br>shock<br>hamster<br>peace |  
+| bip_39_word_new_br_9 | diesel<br>candy<br>skill<br>situate<br>produce<br>shock<br>hamster<br>peace<br>educate |  
+| bip_39_word_new_line_1 | diesel |  
+| bip_39_word_new_line_10 | diesel
 candy
 skill
 situate
@@ -55,7 +55,7 @@ hamster
 peace
 educate
 grit |  
-| bip_39_word_new_line11 | diesel
+| bip_39_word_new_line_11 | diesel
 candy
 skill
 situate
@@ -66,7 +66,7 @@ peace
 educate
 grit
 step |  
-| bip_39_word_new_line12 | diesel
+| bip_39_word_new_line_12 | diesel
 candy
 skill
 situate
@@ -78,34 +78,34 @@ educate
 grit
 step
 aisle |  
-| bip_39_word_new_line2 | diesel
+| bip_39_word_new_line_2 | diesel
 candy |  
-| bip_39_word_new_line3 | diesel
+| bip_39_word_new_line_3 | diesel
 candy
 skill |  
-| bip_39_word_new_line4 | diesel
+| bip_39_word_new_line_4 | diesel
 candy
 skill
 situate |  
-| bip_39_word_new_line5 | diesel
+| bip_39_word_new_line_5 | diesel
 candy
 skill
 situate
 produce |  
-| bip_39_word_new_line6 | diesel
+| bip_39_word_new_line_6 | diesel
 candy
 skill
 situate
 produce
 shock |  
-| bip_39_word_new_line7 | diesel
+| bip_39_word_new_line_7 | diesel
 candy
 skill
 situate
 produce
 shock
 hamster |  
-| bip_39_word_new_line8 | diesel
+| bip_39_word_new_line_8 | diesel
 candy
 skill
 situate
@@ -113,7 +113,7 @@ produce
 shock
 hamster
 peace |  
-| bip_39_word_new_line9 | diesel
+| bip_39_word_new_line_9 | diesel
 candy
 skill
 situate

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | lazy |  
-| bip_39_word_new_br10 | lazy<br>head<br>enforce<br>unaware<br>stamp<br>dutch<br>moon<br>tooth<br>carbon<br>tell |  
-| bip_39_word_new_br11 | lazy<br>head<br>enforce<br>unaware<br>stamp<br>dutch<br>moon<br>tooth<br>carbon<br>tell<br>anxiety |  
-| bip_39_word_new_br12 | lazy<br>head<br>enforce<br>unaware<br>stamp<br>dutch<br>moon<br>tooth<br>carbon<br>tell<br>anxiety<br>adult |  
-| bip_39_word_new_br2 | lazy<br>head |  
-| bip_39_word_new_br3 | lazy<br>head<br>enforce |  
-| bip_39_word_new_br4 | lazy<br>head<br>enforce<br>unaware |  
-| bip_39_word_new_br5 | lazy<br>head<br>enforce<br>unaware<br>stamp |  
-| bip_39_word_new_br6 | lazy<br>head<br>enforce<br>unaware<br>stamp<br>dutch |  
-| bip_39_word_new_br7 | lazy<br>head<br>enforce<br>unaware<br>stamp<br>dutch<br>moon |  
-| bip_39_word_new_br8 | lazy<br>head<br>enforce<br>unaware<br>stamp<br>dutch<br>moon<br>tooth |  
-| bip_39_word_new_br9 | lazy<br>head<br>enforce<br>unaware<br>stamp<br>dutch<br>moon<br>tooth<br>carbon |  
-| bip_39_word_new_line1 | lazy |  
-| bip_39_word_new_line10 | lazy
+| bip_39_word_new_br_1 | lazy |  
+| bip_39_word_new_br_10 | lazy<br>head<br>enforce<br>unaware<br>stamp<br>dutch<br>moon<br>tooth<br>carbon<br>tell |  
+| bip_39_word_new_br_11 | lazy<br>head<br>enforce<br>unaware<br>stamp<br>dutch<br>moon<br>tooth<br>carbon<br>tell<br>anxiety |  
+| bip_39_word_new_br_12 | lazy<br>head<br>enforce<br>unaware<br>stamp<br>dutch<br>moon<br>tooth<br>carbon<br>tell<br>anxiety<br>adult |  
+| bip_39_word_new_br_2 | lazy<br>head |  
+| bip_39_word_new_br_3 | lazy<br>head<br>enforce |  
+| bip_39_word_new_br_4 | lazy<br>head<br>enforce<br>unaware |  
+| bip_39_word_new_br_5 | lazy<br>head<br>enforce<br>unaware<br>stamp |  
+| bip_39_word_new_br_6 | lazy<br>head<br>enforce<br>unaware<br>stamp<br>dutch |  
+| bip_39_word_new_br_7 | lazy<br>head<br>enforce<br>unaware<br>stamp<br>dutch<br>moon |  
+| bip_39_word_new_br_8 | lazy<br>head<br>enforce<br>unaware<br>stamp<br>dutch<br>moon<br>tooth |  
+| bip_39_word_new_br_9 | lazy<br>head<br>enforce<br>unaware<br>stamp<br>dutch<br>moon<br>tooth<br>carbon |  
+| bip_39_word_new_line_1 | lazy |  
+| bip_39_word_new_line_10 | lazy
 head
 enforce
 unaware
@@ -55,7 +55,7 @@ moon
 tooth
 carbon
 tell |  
-| bip_39_word_new_line11 | lazy
+| bip_39_word_new_line_11 | lazy
 head
 enforce
 unaware
@@ -66,7 +66,7 @@ tooth
 carbon
 tell
 anxiety |  
-| bip_39_word_new_line12 | lazy
+| bip_39_word_new_line_12 | lazy
 head
 enforce
 unaware
@@ -78,34 +78,34 @@ carbon
 tell
 anxiety
 adult |  
-| bip_39_word_new_line2 | lazy
+| bip_39_word_new_line_2 | lazy
 head |  
-| bip_39_word_new_line3 | lazy
+| bip_39_word_new_line_3 | lazy
 head
 enforce |  
-| bip_39_word_new_line4 | lazy
+| bip_39_word_new_line_4 | lazy
 head
 enforce
 unaware |  
-| bip_39_word_new_line5 | lazy
+| bip_39_word_new_line_5 | lazy
 head
 enforce
 unaware
 stamp |  
-| bip_39_word_new_line6 | lazy
+| bip_39_word_new_line_6 | lazy
 head
 enforce
 unaware
 stamp
 dutch |  
-| bip_39_word_new_line7 | lazy
+| bip_39_word_new_line_7 | lazy
 head
 enforce
 unaware
 stamp
 dutch
 moon |  
-| bip_39_word_new_line8 | lazy
+| bip_39_word_new_line_8 | lazy
 head
 enforce
 unaware
@@ -113,7 +113,7 @@ stamp
 dutch
 moon
 tooth |  
-| bip_39_word_new_line9 | lazy
+| bip_39_word_new_line_9 | lazy
 head
 enforce
 unaware

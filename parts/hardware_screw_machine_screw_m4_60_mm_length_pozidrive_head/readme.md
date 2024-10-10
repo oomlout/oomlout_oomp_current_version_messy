@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | right |  
-| bip_39_word_new_br10 | right<br>expect<br>bring<br>vehicle<br>gesture<br>buyer<br>tissue<br>address<br>dune<br>round |  
-| bip_39_word_new_br11 | right<br>expect<br>bring<br>vehicle<br>gesture<br>buyer<br>tissue<br>address<br>dune<br>round<br>furnace |  
-| bip_39_word_new_br12 | right<br>expect<br>bring<br>vehicle<br>gesture<br>buyer<br>tissue<br>address<br>dune<br>round<br>furnace<br>account |  
-| bip_39_word_new_br2 | right<br>expect |  
-| bip_39_word_new_br3 | right<br>expect<br>bring |  
-| bip_39_word_new_br4 | right<br>expect<br>bring<br>vehicle |  
-| bip_39_word_new_br5 | right<br>expect<br>bring<br>vehicle<br>gesture |  
-| bip_39_word_new_br6 | right<br>expect<br>bring<br>vehicle<br>gesture<br>buyer |  
-| bip_39_word_new_br7 | right<br>expect<br>bring<br>vehicle<br>gesture<br>buyer<br>tissue |  
-| bip_39_word_new_br8 | right<br>expect<br>bring<br>vehicle<br>gesture<br>buyer<br>tissue<br>address |  
-| bip_39_word_new_br9 | right<br>expect<br>bring<br>vehicle<br>gesture<br>buyer<br>tissue<br>address<br>dune |  
-| bip_39_word_new_line1 | right |  
-| bip_39_word_new_line10 | right
+| bip_39_word_new_br_1 | right |  
+| bip_39_word_new_br_10 | right<br>expect<br>bring<br>vehicle<br>gesture<br>buyer<br>tissue<br>address<br>dune<br>round |  
+| bip_39_word_new_br_11 | right<br>expect<br>bring<br>vehicle<br>gesture<br>buyer<br>tissue<br>address<br>dune<br>round<br>furnace |  
+| bip_39_word_new_br_12 | right<br>expect<br>bring<br>vehicle<br>gesture<br>buyer<br>tissue<br>address<br>dune<br>round<br>furnace<br>account |  
+| bip_39_word_new_br_2 | right<br>expect |  
+| bip_39_word_new_br_3 | right<br>expect<br>bring |  
+| bip_39_word_new_br_4 | right<br>expect<br>bring<br>vehicle |  
+| bip_39_word_new_br_5 | right<br>expect<br>bring<br>vehicle<br>gesture |  
+| bip_39_word_new_br_6 | right<br>expect<br>bring<br>vehicle<br>gesture<br>buyer |  
+| bip_39_word_new_br_7 | right<br>expect<br>bring<br>vehicle<br>gesture<br>buyer<br>tissue |  
+| bip_39_word_new_br_8 | right<br>expect<br>bring<br>vehicle<br>gesture<br>buyer<br>tissue<br>address |  
+| bip_39_word_new_br_9 | right<br>expect<br>bring<br>vehicle<br>gesture<br>buyer<br>tissue<br>address<br>dune |  
+| bip_39_word_new_line_1 | right |  
+| bip_39_word_new_line_10 | right
 expect
 bring
 vehicle
@@ -55,7 +55,7 @@ tissue
 address
 dune
 round |  
-| bip_39_word_new_line11 | right
+| bip_39_word_new_line_11 | right
 expect
 bring
 vehicle
@@ -66,7 +66,7 @@ address
 dune
 round
 furnace |  
-| bip_39_word_new_line12 | right
+| bip_39_word_new_line_12 | right
 expect
 bring
 vehicle
@@ -78,34 +78,34 @@ dune
 round
 furnace
 account |  
-| bip_39_word_new_line2 | right
+| bip_39_word_new_line_2 | right
 expect |  
-| bip_39_word_new_line3 | right
+| bip_39_word_new_line_3 | right
 expect
 bring |  
-| bip_39_word_new_line4 | right
+| bip_39_word_new_line_4 | right
 expect
 bring
 vehicle |  
-| bip_39_word_new_line5 | right
+| bip_39_word_new_line_5 | right
 expect
 bring
 vehicle
 gesture |  
-| bip_39_word_new_line6 | right
+| bip_39_word_new_line_6 | right
 expect
 bring
 vehicle
 gesture
 buyer |  
-| bip_39_word_new_line7 | right
+| bip_39_word_new_line_7 | right
 expect
 bring
 vehicle
 gesture
 buyer
 tissue |  
-| bip_39_word_new_line8 | right
+| bip_39_word_new_line_8 | right
 expect
 bring
 vehicle
@@ -113,7 +113,7 @@ gesture
 buyer
 tissue
 address |  
-| bip_39_word_new_line9 | right
+| bip_39_word_new_line_9 | right
 expect
 bring
 vehicle

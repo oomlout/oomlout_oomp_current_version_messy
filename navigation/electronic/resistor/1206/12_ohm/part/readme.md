@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | allow |  
-| bip_39_word_new_br10 | allow<br>match<br>donor<br>fork<br>desert<br>label<br>increase<br>exhaust<br>nephew<br>rail |  
-| bip_39_word_new_br11 | allow<br>match<br>donor<br>fork<br>desert<br>label<br>increase<br>exhaust<br>nephew<br>rail<br>wave |  
-| bip_39_word_new_br12 | allow<br>match<br>donor<br>fork<br>desert<br>label<br>increase<br>exhaust<br>nephew<br>rail<br>wave<br>able |  
-| bip_39_word_new_br2 | allow<br>match |  
-| bip_39_word_new_br3 | allow<br>match<br>donor |  
-| bip_39_word_new_br4 | allow<br>match<br>donor<br>fork |  
-| bip_39_word_new_br5 | allow<br>match<br>donor<br>fork<br>desert |  
-| bip_39_word_new_br6 | allow<br>match<br>donor<br>fork<br>desert<br>label |  
-| bip_39_word_new_br7 | allow<br>match<br>donor<br>fork<br>desert<br>label<br>increase |  
-| bip_39_word_new_br8 | allow<br>match<br>donor<br>fork<br>desert<br>label<br>increase<br>exhaust |  
-| bip_39_word_new_br9 | allow<br>match<br>donor<br>fork<br>desert<br>label<br>increase<br>exhaust<br>nephew |  
-| bip_39_word_new_line1 | allow |  
-| bip_39_word_new_line10 | allow
+| bip_39_word_new_br_1 | allow |  
+| bip_39_word_new_br_10 | allow<br>match<br>donor<br>fork<br>desert<br>label<br>increase<br>exhaust<br>nephew<br>rail |  
+| bip_39_word_new_br_11 | allow<br>match<br>donor<br>fork<br>desert<br>label<br>increase<br>exhaust<br>nephew<br>rail<br>wave |  
+| bip_39_word_new_br_12 | allow<br>match<br>donor<br>fork<br>desert<br>label<br>increase<br>exhaust<br>nephew<br>rail<br>wave<br>able |  
+| bip_39_word_new_br_2 | allow<br>match |  
+| bip_39_word_new_br_3 | allow<br>match<br>donor |  
+| bip_39_word_new_br_4 | allow<br>match<br>donor<br>fork |  
+| bip_39_word_new_br_5 | allow<br>match<br>donor<br>fork<br>desert |  
+| bip_39_word_new_br_6 | allow<br>match<br>donor<br>fork<br>desert<br>label |  
+| bip_39_word_new_br_7 | allow<br>match<br>donor<br>fork<br>desert<br>label<br>increase |  
+| bip_39_word_new_br_8 | allow<br>match<br>donor<br>fork<br>desert<br>label<br>increase<br>exhaust |  
+| bip_39_word_new_br_9 | allow<br>match<br>donor<br>fork<br>desert<br>label<br>increase<br>exhaust<br>nephew |  
+| bip_39_word_new_line_1 | allow |  
+| bip_39_word_new_line_10 | allow
 match
 donor
 fork
@@ -55,7 +55,7 @@ increase
 exhaust
 nephew
 rail |  
-| bip_39_word_new_line11 | allow
+| bip_39_word_new_line_11 | allow
 match
 donor
 fork
@@ -66,7 +66,7 @@ exhaust
 nephew
 rail
 wave |  
-| bip_39_word_new_line12 | allow
+| bip_39_word_new_line_12 | allow
 match
 donor
 fork
@@ -78,34 +78,34 @@ nephew
 rail
 wave
 able |  
-| bip_39_word_new_line2 | allow
+| bip_39_word_new_line_2 | allow
 match |  
-| bip_39_word_new_line3 | allow
+| bip_39_word_new_line_3 | allow
 match
 donor |  
-| bip_39_word_new_line4 | allow
+| bip_39_word_new_line_4 | allow
 match
 donor
 fork |  
-| bip_39_word_new_line5 | allow
+| bip_39_word_new_line_5 | allow
 match
 donor
 fork
 desert |  
-| bip_39_word_new_line6 | allow
+| bip_39_word_new_line_6 | allow
 match
 donor
 fork
 desert
 label |  
-| bip_39_word_new_line7 | allow
+| bip_39_word_new_line_7 | allow
 match
 donor
 fork
 desert
 label
 increase |  
-| bip_39_word_new_line8 | allow
+| bip_39_word_new_line_8 | allow
 match
 donor
 fork
@@ -113,7 +113,7 @@ desert
 label
 increase
 exhaust |  
-| bip_39_word_new_line9 | allow
+| bip_39_word_new_line_9 | allow
 match
 donor
 fork

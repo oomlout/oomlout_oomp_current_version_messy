@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pass |  
-| bip_39_word_new_br10 | pass<br>party<br>kick<br>kingdom<br>lamp<br>lion<br>brand<br>athlete<br>basket<br>brick |  
-| bip_39_word_new_br11 | pass<br>party<br>kick<br>kingdom<br>lamp<br>lion<br>brand<br>athlete<br>basket<br>brick<br>cost |  
-| bip_39_word_new_br2 | pass<br>party |  
-| bip_39_word_new_br3 | pass<br>party<br>kick |  
-| bip_39_word_new_br4 | pass<br>party<br>kick<br>kingdom |  
-| bip_39_word_new_br5 | pass<br>party<br>kick<br>kingdom<br>lamp |  
-| bip_39_word_new_br6 | pass<br>party<br>kick<br>kingdom<br>lamp<br>lion |  
-| bip_39_word_new_br7 | pass<br>party<br>kick<br>kingdom<br>lamp<br>lion<br>brand |  
-| bip_39_word_new_br8 | pass<br>party<br>kick<br>kingdom<br>lamp<br>lion<br>brand<br>athlete |  
-| bip_39_word_new_br9 | pass<br>party<br>kick<br>kingdom<br>lamp<br>lion<br>brand<br>athlete<br>basket |  
-| bip_39_word_new_line1 | pass |  
-| bip_39_word_new_line10 | pass
+| bip_39_word_new_br_1 | pass |  
+| bip_39_word_new_br_10 | pass<br>party<br>kick<br>kingdom<br>lamp<br>lion<br>brand<br>athlete<br>basket<br>brick |  
+| bip_39_word_new_br_11 | pass<br>party<br>kick<br>kingdom<br>lamp<br>lion<br>brand<br>athlete<br>basket<br>brick<br>cost |  
+| bip_39_word_new_br_2 | pass<br>party |  
+| bip_39_word_new_br_3 | pass<br>party<br>kick |  
+| bip_39_word_new_br_4 | pass<br>party<br>kick<br>kingdom |  
+| bip_39_word_new_br_5 | pass<br>party<br>kick<br>kingdom<br>lamp |  
+| bip_39_word_new_br_6 | pass<br>party<br>kick<br>kingdom<br>lamp<br>lion |  
+| bip_39_word_new_br_7 | pass<br>party<br>kick<br>kingdom<br>lamp<br>lion<br>brand |  
+| bip_39_word_new_br_8 | pass<br>party<br>kick<br>kingdom<br>lamp<br>lion<br>brand<br>athlete |  
+| bip_39_word_new_br_9 | pass<br>party<br>kick<br>kingdom<br>lamp<br>lion<br>brand<br>athlete<br>basket |  
+| bip_39_word_new_line_1 | pass |  
+| bip_39_word_new_line_10 | pass
 party
 kick
 kingdom
@@ -54,7 +54,7 @@ brand
 athlete
 basket
 brick |  
-| bip_39_word_new_line11 | pass
+| bip_39_word_new_line_11 | pass
 party
 kick
 kingdom
@@ -65,34 +65,34 @@ athlete
 basket
 brick
 cost |  
-| bip_39_word_new_line2 | pass
+| bip_39_word_new_line_2 | pass
 party |  
-| bip_39_word_new_line3 | pass
+| bip_39_word_new_line_3 | pass
 party
 kick |  
-| bip_39_word_new_line4 | pass
+| bip_39_word_new_line_4 | pass
 party
 kick
 kingdom |  
-| bip_39_word_new_line5 | pass
+| bip_39_word_new_line_5 | pass
 party
 kick
 kingdom
 lamp |  
-| bip_39_word_new_line6 | pass
+| bip_39_word_new_line_6 | pass
 party
 kick
 kingdom
 lamp
 lion |  
-| bip_39_word_new_line7 | pass
+| bip_39_word_new_line_7 | pass
 party
 kick
 kingdom
 lamp
 lion
 brand |  
-| bip_39_word_new_line8 | pass
+| bip_39_word_new_line_8 | pass
 party
 kick
 kingdom
@@ -100,7 +100,7 @@ lamp
 lion
 brand
 athlete |  
-| bip_39_word_new_line9 | pass
+| bip_39_word_new_line_9 | pass
 party
 kick
 kingdom

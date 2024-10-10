@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fix |  
-| bip_39_word_new_br10 | fix<br>swift<br>method<br>rebel<br>oyster<br>situate<br>ten<br>wreck<br>antique<br>swallow |  
-| bip_39_word_new_br11 | fix<br>swift<br>method<br>rebel<br>oyster<br>situate<br>ten<br>wreck<br>antique<br>swallow<br>job |  
-| bip_39_word_new_br12 | fix<br>swift<br>method<br>rebel<br>oyster<br>situate<br>ten<br>wreck<br>antique<br>swallow<br>job<br>absurd |  
-| bip_39_word_new_br2 | fix<br>swift |  
-| bip_39_word_new_br3 | fix<br>swift<br>method |  
-| bip_39_word_new_br4 | fix<br>swift<br>method<br>rebel |  
-| bip_39_word_new_br5 | fix<br>swift<br>method<br>rebel<br>oyster |  
-| bip_39_word_new_br6 | fix<br>swift<br>method<br>rebel<br>oyster<br>situate |  
-| bip_39_word_new_br7 | fix<br>swift<br>method<br>rebel<br>oyster<br>situate<br>ten |  
-| bip_39_word_new_br8 | fix<br>swift<br>method<br>rebel<br>oyster<br>situate<br>ten<br>wreck |  
-| bip_39_word_new_br9 | fix<br>swift<br>method<br>rebel<br>oyster<br>situate<br>ten<br>wreck<br>antique |  
-| bip_39_word_new_line1 | fix |  
-| bip_39_word_new_line10 | fix
+| bip_39_word_new_br_1 | fix |  
+| bip_39_word_new_br_10 | fix<br>swift<br>method<br>rebel<br>oyster<br>situate<br>ten<br>wreck<br>antique<br>swallow |  
+| bip_39_word_new_br_11 | fix<br>swift<br>method<br>rebel<br>oyster<br>situate<br>ten<br>wreck<br>antique<br>swallow<br>job |  
+| bip_39_word_new_br_12 | fix<br>swift<br>method<br>rebel<br>oyster<br>situate<br>ten<br>wreck<br>antique<br>swallow<br>job<br>absurd |  
+| bip_39_word_new_br_2 | fix<br>swift |  
+| bip_39_word_new_br_3 | fix<br>swift<br>method |  
+| bip_39_word_new_br_4 | fix<br>swift<br>method<br>rebel |  
+| bip_39_word_new_br_5 | fix<br>swift<br>method<br>rebel<br>oyster |  
+| bip_39_word_new_br_6 | fix<br>swift<br>method<br>rebel<br>oyster<br>situate |  
+| bip_39_word_new_br_7 | fix<br>swift<br>method<br>rebel<br>oyster<br>situate<br>ten |  
+| bip_39_word_new_br_8 | fix<br>swift<br>method<br>rebel<br>oyster<br>situate<br>ten<br>wreck |  
+| bip_39_word_new_br_9 | fix<br>swift<br>method<br>rebel<br>oyster<br>situate<br>ten<br>wreck<br>antique |  
+| bip_39_word_new_line_1 | fix |  
+| bip_39_word_new_line_10 | fix
 swift
 method
 rebel
@@ -55,7 +55,7 @@ ten
 wreck
 antique
 swallow |  
-| bip_39_word_new_line11 | fix
+| bip_39_word_new_line_11 | fix
 swift
 method
 rebel
@@ -66,7 +66,7 @@ wreck
 antique
 swallow
 job |  
-| bip_39_word_new_line12 | fix
+| bip_39_word_new_line_12 | fix
 swift
 method
 rebel
@@ -78,34 +78,34 @@ antique
 swallow
 job
 absurd |  
-| bip_39_word_new_line2 | fix
+| bip_39_word_new_line_2 | fix
 swift |  
-| bip_39_word_new_line3 | fix
+| bip_39_word_new_line_3 | fix
 swift
 method |  
-| bip_39_word_new_line4 | fix
+| bip_39_word_new_line_4 | fix
 swift
 method
 rebel |  
-| bip_39_word_new_line5 | fix
+| bip_39_word_new_line_5 | fix
 swift
 method
 rebel
 oyster |  
-| bip_39_word_new_line6 | fix
+| bip_39_word_new_line_6 | fix
 swift
 method
 rebel
 oyster
 situate |  
-| bip_39_word_new_line7 | fix
+| bip_39_word_new_line_7 | fix
 swift
 method
 rebel
 oyster
 situate
 ten |  
-| bip_39_word_new_line8 | fix
+| bip_39_word_new_line_8 | fix
 swift
 method
 rebel
@@ -113,7 +113,7 @@ oyster
 situate
 ten
 wreck |  
-| bip_39_word_new_line9 | fix
+| bip_39_word_new_line_9 | fix
 swift
 method
 rebel

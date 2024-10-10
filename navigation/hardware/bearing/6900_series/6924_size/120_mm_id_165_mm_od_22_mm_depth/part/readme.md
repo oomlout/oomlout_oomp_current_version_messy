@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | lend |  
-| bip_39_word_new_br10 | lend<br>group<br>speed<br>blush<br>taste<br>island<br>exhaust<br>cliff<br>mobile<br>ahead |  
-| bip_39_word_new_br11 | lend<br>group<br>speed<br>blush<br>taste<br>island<br>exhaust<br>cliff<br>mobile<br>ahead<br>draft |  
-| bip_39_word_new_br12 | lend<br>group<br>speed<br>blush<br>taste<br>island<br>exhaust<br>cliff<br>mobile<br>ahead<br>draft<br>appear |  
-| bip_39_word_new_br2 | lend<br>group |  
-| bip_39_word_new_br3 | lend<br>group<br>speed |  
-| bip_39_word_new_br4 | lend<br>group<br>speed<br>blush |  
-| bip_39_word_new_br5 | lend<br>group<br>speed<br>blush<br>taste |  
-| bip_39_word_new_br6 | lend<br>group<br>speed<br>blush<br>taste<br>island |  
-| bip_39_word_new_br7 | lend<br>group<br>speed<br>blush<br>taste<br>island<br>exhaust |  
-| bip_39_word_new_br8 | lend<br>group<br>speed<br>blush<br>taste<br>island<br>exhaust<br>cliff |  
-| bip_39_word_new_br9 | lend<br>group<br>speed<br>blush<br>taste<br>island<br>exhaust<br>cliff<br>mobile |  
-| bip_39_word_new_line1 | lend |  
-| bip_39_word_new_line10 | lend
+| bip_39_word_new_br_1 | lend |  
+| bip_39_word_new_br_10 | lend<br>group<br>speed<br>blush<br>taste<br>island<br>exhaust<br>cliff<br>mobile<br>ahead |  
+| bip_39_word_new_br_11 | lend<br>group<br>speed<br>blush<br>taste<br>island<br>exhaust<br>cliff<br>mobile<br>ahead<br>draft |  
+| bip_39_word_new_br_12 | lend<br>group<br>speed<br>blush<br>taste<br>island<br>exhaust<br>cliff<br>mobile<br>ahead<br>draft<br>appear |  
+| bip_39_word_new_br_2 | lend<br>group |  
+| bip_39_word_new_br_3 | lend<br>group<br>speed |  
+| bip_39_word_new_br_4 | lend<br>group<br>speed<br>blush |  
+| bip_39_word_new_br_5 | lend<br>group<br>speed<br>blush<br>taste |  
+| bip_39_word_new_br_6 | lend<br>group<br>speed<br>blush<br>taste<br>island |  
+| bip_39_word_new_br_7 | lend<br>group<br>speed<br>blush<br>taste<br>island<br>exhaust |  
+| bip_39_word_new_br_8 | lend<br>group<br>speed<br>blush<br>taste<br>island<br>exhaust<br>cliff |  
+| bip_39_word_new_br_9 | lend<br>group<br>speed<br>blush<br>taste<br>island<br>exhaust<br>cliff<br>mobile |  
+| bip_39_word_new_line_1 | lend |  
+| bip_39_word_new_line_10 | lend
 group
 speed
 blush
@@ -55,7 +55,7 @@ exhaust
 cliff
 mobile
 ahead |  
-| bip_39_word_new_line11 | lend
+| bip_39_word_new_line_11 | lend
 group
 speed
 blush
@@ -66,7 +66,7 @@ cliff
 mobile
 ahead
 draft |  
-| bip_39_word_new_line12 | lend
+| bip_39_word_new_line_12 | lend
 group
 speed
 blush
@@ -78,34 +78,34 @@ mobile
 ahead
 draft
 appear |  
-| bip_39_word_new_line2 | lend
+| bip_39_word_new_line_2 | lend
 group |  
-| bip_39_word_new_line3 | lend
+| bip_39_word_new_line_3 | lend
 group
 speed |  
-| bip_39_word_new_line4 | lend
+| bip_39_word_new_line_4 | lend
 group
 speed
 blush |  
-| bip_39_word_new_line5 | lend
+| bip_39_word_new_line_5 | lend
 group
 speed
 blush
 taste |  
-| bip_39_word_new_line6 | lend
+| bip_39_word_new_line_6 | lend
 group
 speed
 blush
 taste
 island |  
-| bip_39_word_new_line7 | lend
+| bip_39_word_new_line_7 | lend
 group
 speed
 blush
 taste
 island
 exhaust |  
-| bip_39_word_new_line8 | lend
+| bip_39_word_new_line_8 | lend
 group
 speed
 blush
@@ -113,7 +113,7 @@ taste
 island
 exhaust
 cliff |  
-| bip_39_word_new_line9 | lend
+| bip_39_word_new_line_9 | lend
 group
 speed
 blush

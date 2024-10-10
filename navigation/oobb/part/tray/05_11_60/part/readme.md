@@ -32,19 +32,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | depart |  
-| bip_39_word_new_br10 | depart<br>they<br>insane<br>holiday<br>trim<br>ghost<br>wide<br>word<br>kangaroo<br>repair |  
-| bip_39_word_new_br11 | depart<br>they<br>insane<br>holiday<br>trim<br>ghost<br>wide<br>word<br>kangaroo<br>repair<br>concert |  
-| bip_39_word_new_br2 | depart<br>they |  
-| bip_39_word_new_br3 | depart<br>they<br>insane |  
-| bip_39_word_new_br4 | depart<br>they<br>insane<br>holiday |  
-| bip_39_word_new_br5 | depart<br>they<br>insane<br>holiday<br>trim |  
-| bip_39_word_new_br6 | depart<br>they<br>insane<br>holiday<br>trim<br>ghost |  
-| bip_39_word_new_br7 | depart<br>they<br>insane<br>holiday<br>trim<br>ghost<br>wide |  
-| bip_39_word_new_br8 | depart<br>they<br>insane<br>holiday<br>trim<br>ghost<br>wide<br>word |  
-| bip_39_word_new_br9 | depart<br>they<br>insane<br>holiday<br>trim<br>ghost<br>wide<br>word<br>kangaroo |  
-| bip_39_word_new_line1 | depart |  
-| bip_39_word_new_line10 | depart
+| bip_39_word_new_br_1 | depart |  
+| bip_39_word_new_br_10 | depart<br>they<br>insane<br>holiday<br>trim<br>ghost<br>wide<br>word<br>kangaroo<br>repair |  
+| bip_39_word_new_br_11 | depart<br>they<br>insane<br>holiday<br>trim<br>ghost<br>wide<br>word<br>kangaroo<br>repair<br>concert |  
+| bip_39_word_new_br_2 | depart<br>they |  
+| bip_39_word_new_br_3 | depart<br>they<br>insane |  
+| bip_39_word_new_br_4 | depart<br>they<br>insane<br>holiday |  
+| bip_39_word_new_br_5 | depart<br>they<br>insane<br>holiday<br>trim |  
+| bip_39_word_new_br_6 | depart<br>they<br>insane<br>holiday<br>trim<br>ghost |  
+| bip_39_word_new_br_7 | depart<br>they<br>insane<br>holiday<br>trim<br>ghost<br>wide |  
+| bip_39_word_new_br_8 | depart<br>they<br>insane<br>holiday<br>trim<br>ghost<br>wide<br>word |  
+| bip_39_word_new_br_9 | depart<br>they<br>insane<br>holiday<br>trim<br>ghost<br>wide<br>word<br>kangaroo |  
+| bip_39_word_new_line_1 | depart |  
+| bip_39_word_new_line_10 | depart
 they
 insane
 holiday
@@ -54,7 +54,7 @@ wide
 word
 kangaroo
 repair |  
-| bip_39_word_new_line11 | depart
+| bip_39_word_new_line_11 | depart
 they
 insane
 holiday
@@ -65,34 +65,34 @@ word
 kangaroo
 repair
 concert |  
-| bip_39_word_new_line2 | depart
+| bip_39_word_new_line_2 | depart
 they |  
-| bip_39_word_new_line3 | depart
+| bip_39_word_new_line_3 | depart
 they
 insane |  
-| bip_39_word_new_line4 | depart
+| bip_39_word_new_line_4 | depart
 they
 insane
 holiday |  
-| bip_39_word_new_line5 | depart
+| bip_39_word_new_line_5 | depart
 they
 insane
 holiday
 trim |  
-| bip_39_word_new_line6 | depart
+| bip_39_word_new_line_6 | depart
 they
 insane
 holiday
 trim
 ghost |  
-| bip_39_word_new_line7 | depart
+| bip_39_word_new_line_7 | depart
 they
 insane
 holiday
 trim
 ghost
 wide |  
-| bip_39_word_new_line8 | depart
+| bip_39_word_new_line_8 | depart
 they
 insane
 holiday
@@ -100,7 +100,7 @@ trim
 ghost
 wide
 word |  
-| bip_39_word_new_line9 | depart
+| bip_39_word_new_line_9 | depart
 they
 insane
 holiday

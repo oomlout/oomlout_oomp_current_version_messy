@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | genius |  
-| bip_39_word_new_br10 | genius<br>bachelor<br>hood<br>dirt<br>tomorrow<br>almost<br>hip<br>depend<br>weird<br>wing |  
-| bip_39_word_new_br11 | genius<br>bachelor<br>hood<br>dirt<br>tomorrow<br>almost<br>hip<br>depend<br>weird<br>wing<br>force |  
-| bip_39_word_new_br12 | genius<br>bachelor<br>hood<br>dirt<br>tomorrow<br>almost<br>hip<br>depend<br>weird<br>wing<br>force<br>ability |  
-| bip_39_word_new_br2 | genius<br>bachelor |  
-| bip_39_word_new_br3 | genius<br>bachelor<br>hood |  
-| bip_39_word_new_br4 | genius<br>bachelor<br>hood<br>dirt |  
-| bip_39_word_new_br5 | genius<br>bachelor<br>hood<br>dirt<br>tomorrow |  
-| bip_39_word_new_br6 | genius<br>bachelor<br>hood<br>dirt<br>tomorrow<br>almost |  
-| bip_39_word_new_br7 | genius<br>bachelor<br>hood<br>dirt<br>tomorrow<br>almost<br>hip |  
-| bip_39_word_new_br8 | genius<br>bachelor<br>hood<br>dirt<br>tomorrow<br>almost<br>hip<br>depend |  
-| bip_39_word_new_br9 | genius<br>bachelor<br>hood<br>dirt<br>tomorrow<br>almost<br>hip<br>depend<br>weird |  
-| bip_39_word_new_line1 | genius |  
-| bip_39_word_new_line10 | genius
+| bip_39_word_new_br_1 | genius |  
+| bip_39_word_new_br_10 | genius<br>bachelor<br>hood<br>dirt<br>tomorrow<br>almost<br>hip<br>depend<br>weird<br>wing |  
+| bip_39_word_new_br_11 | genius<br>bachelor<br>hood<br>dirt<br>tomorrow<br>almost<br>hip<br>depend<br>weird<br>wing<br>force |  
+| bip_39_word_new_br_12 | genius<br>bachelor<br>hood<br>dirt<br>tomorrow<br>almost<br>hip<br>depend<br>weird<br>wing<br>force<br>ability |  
+| bip_39_word_new_br_2 | genius<br>bachelor |  
+| bip_39_word_new_br_3 | genius<br>bachelor<br>hood |  
+| bip_39_word_new_br_4 | genius<br>bachelor<br>hood<br>dirt |  
+| bip_39_word_new_br_5 | genius<br>bachelor<br>hood<br>dirt<br>tomorrow |  
+| bip_39_word_new_br_6 | genius<br>bachelor<br>hood<br>dirt<br>tomorrow<br>almost |  
+| bip_39_word_new_br_7 | genius<br>bachelor<br>hood<br>dirt<br>tomorrow<br>almost<br>hip |  
+| bip_39_word_new_br_8 | genius<br>bachelor<br>hood<br>dirt<br>tomorrow<br>almost<br>hip<br>depend |  
+| bip_39_word_new_br_9 | genius<br>bachelor<br>hood<br>dirt<br>tomorrow<br>almost<br>hip<br>depend<br>weird |  
+| bip_39_word_new_line_1 | genius |  
+| bip_39_word_new_line_10 | genius
 bachelor
 hood
 dirt
@@ -55,7 +55,7 @@ hip
 depend
 weird
 wing |  
-| bip_39_word_new_line11 | genius
+| bip_39_word_new_line_11 | genius
 bachelor
 hood
 dirt
@@ -66,7 +66,7 @@ depend
 weird
 wing
 force |  
-| bip_39_word_new_line12 | genius
+| bip_39_word_new_line_12 | genius
 bachelor
 hood
 dirt
@@ -78,34 +78,34 @@ weird
 wing
 force
 ability |  
-| bip_39_word_new_line2 | genius
+| bip_39_word_new_line_2 | genius
 bachelor |  
-| bip_39_word_new_line3 | genius
+| bip_39_word_new_line_3 | genius
 bachelor
 hood |  
-| bip_39_word_new_line4 | genius
+| bip_39_word_new_line_4 | genius
 bachelor
 hood
 dirt |  
-| bip_39_word_new_line5 | genius
+| bip_39_word_new_line_5 | genius
 bachelor
 hood
 dirt
 tomorrow |  
-| bip_39_word_new_line6 | genius
+| bip_39_word_new_line_6 | genius
 bachelor
 hood
 dirt
 tomorrow
 almost |  
-| bip_39_word_new_line7 | genius
+| bip_39_word_new_line_7 | genius
 bachelor
 hood
 dirt
 tomorrow
 almost
 hip |  
-| bip_39_word_new_line8 | genius
+| bip_39_word_new_line_8 | genius
 bachelor
 hood
 dirt
@@ -113,7 +113,7 @@ tomorrow
 almost
 hip
 depend |  
-| bip_39_word_new_line9 | genius
+| bip_39_word_new_line_9 | genius
 bachelor
 hood
 dirt

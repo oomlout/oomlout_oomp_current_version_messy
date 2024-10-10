@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | try |  
-| bip_39_word_new_br10 | try<br>know<br>noble<br>smooth<br>ghost<br>hen<br>stumble<br>shy<br>olympic<br>curve |  
-| bip_39_word_new_br11 | try<br>know<br>noble<br>smooth<br>ghost<br>hen<br>stumble<br>shy<br>olympic<br>curve<br>raven |  
-| bip_39_word_new_br12 | try<br>know<br>noble<br>smooth<br>ghost<br>hen<br>stumble<br>shy<br>olympic<br>curve<br>raven<br>another |  
-| bip_39_word_new_br2 | try<br>know |  
-| bip_39_word_new_br3 | try<br>know<br>noble |  
-| bip_39_word_new_br4 | try<br>know<br>noble<br>smooth |  
-| bip_39_word_new_br5 | try<br>know<br>noble<br>smooth<br>ghost |  
-| bip_39_word_new_br6 | try<br>know<br>noble<br>smooth<br>ghost<br>hen |  
-| bip_39_word_new_br7 | try<br>know<br>noble<br>smooth<br>ghost<br>hen<br>stumble |  
-| bip_39_word_new_br8 | try<br>know<br>noble<br>smooth<br>ghost<br>hen<br>stumble<br>shy |  
-| bip_39_word_new_br9 | try<br>know<br>noble<br>smooth<br>ghost<br>hen<br>stumble<br>shy<br>olympic |  
-| bip_39_word_new_line1 | try |  
-| bip_39_word_new_line10 | try
+| bip_39_word_new_br_1 | try |  
+| bip_39_word_new_br_10 | try<br>know<br>noble<br>smooth<br>ghost<br>hen<br>stumble<br>shy<br>olympic<br>curve |  
+| bip_39_word_new_br_11 | try<br>know<br>noble<br>smooth<br>ghost<br>hen<br>stumble<br>shy<br>olympic<br>curve<br>raven |  
+| bip_39_word_new_br_12 | try<br>know<br>noble<br>smooth<br>ghost<br>hen<br>stumble<br>shy<br>olympic<br>curve<br>raven<br>another |  
+| bip_39_word_new_br_2 | try<br>know |  
+| bip_39_word_new_br_3 | try<br>know<br>noble |  
+| bip_39_word_new_br_4 | try<br>know<br>noble<br>smooth |  
+| bip_39_word_new_br_5 | try<br>know<br>noble<br>smooth<br>ghost |  
+| bip_39_word_new_br_6 | try<br>know<br>noble<br>smooth<br>ghost<br>hen |  
+| bip_39_word_new_br_7 | try<br>know<br>noble<br>smooth<br>ghost<br>hen<br>stumble |  
+| bip_39_word_new_br_8 | try<br>know<br>noble<br>smooth<br>ghost<br>hen<br>stumble<br>shy |  
+| bip_39_word_new_br_9 | try<br>know<br>noble<br>smooth<br>ghost<br>hen<br>stumble<br>shy<br>olympic |  
+| bip_39_word_new_line_1 | try |  
+| bip_39_word_new_line_10 | try
 know
 noble
 smooth
@@ -55,7 +55,7 @@ stumble
 shy
 olympic
 curve |  
-| bip_39_word_new_line11 | try
+| bip_39_word_new_line_11 | try
 know
 noble
 smooth
@@ -66,7 +66,7 @@ shy
 olympic
 curve
 raven |  
-| bip_39_word_new_line12 | try
+| bip_39_word_new_line_12 | try
 know
 noble
 smooth
@@ -78,34 +78,34 @@ olympic
 curve
 raven
 another |  
-| bip_39_word_new_line2 | try
+| bip_39_word_new_line_2 | try
 know |  
-| bip_39_word_new_line3 | try
+| bip_39_word_new_line_3 | try
 know
 noble |  
-| bip_39_word_new_line4 | try
+| bip_39_word_new_line_4 | try
 know
 noble
 smooth |  
-| bip_39_word_new_line5 | try
+| bip_39_word_new_line_5 | try
 know
 noble
 smooth
 ghost |  
-| bip_39_word_new_line6 | try
+| bip_39_word_new_line_6 | try
 know
 noble
 smooth
 ghost
 hen |  
-| bip_39_word_new_line7 | try
+| bip_39_word_new_line_7 | try
 know
 noble
 smooth
 ghost
 hen
 stumble |  
-| bip_39_word_new_line8 | try
+| bip_39_word_new_line_8 | try
 know
 noble
 smooth
@@ -113,7 +113,7 @@ ghost
 hen
 stumble
 shy |  
-| bip_39_word_new_line9 | try
+| bip_39_word_new_line_9 | try
 know
 noble
 smooth

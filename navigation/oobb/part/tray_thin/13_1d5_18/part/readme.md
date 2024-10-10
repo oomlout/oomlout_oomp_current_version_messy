@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | oppose |  
-| bip_39_word_new_br10 | oppose<br>spider<br>equip<br>point<br>reform<br>soft<br>hungry<br>box<br>sign<br>future |  
-| bip_39_word_new_br11 | oppose<br>spider<br>equip<br>point<br>reform<br>soft<br>hungry<br>box<br>sign<br>future<br>fall |  
-| bip_39_word_new_br12 | oppose<br>spider<br>equip<br>point<br>reform<br>soft<br>hungry<br>box<br>sign<br>future<br>fall<br>ahead |  
-| bip_39_word_new_br2 | oppose<br>spider |  
-| bip_39_word_new_br3 | oppose<br>spider<br>equip |  
-| bip_39_word_new_br4 | oppose<br>spider<br>equip<br>point |  
-| bip_39_word_new_br5 | oppose<br>spider<br>equip<br>point<br>reform |  
-| bip_39_word_new_br6 | oppose<br>spider<br>equip<br>point<br>reform<br>soft |  
-| bip_39_word_new_br7 | oppose<br>spider<br>equip<br>point<br>reform<br>soft<br>hungry |  
-| bip_39_word_new_br8 | oppose<br>spider<br>equip<br>point<br>reform<br>soft<br>hungry<br>box |  
-| bip_39_word_new_br9 | oppose<br>spider<br>equip<br>point<br>reform<br>soft<br>hungry<br>box<br>sign |  
-| bip_39_word_new_line1 | oppose |  
-| bip_39_word_new_line10 | oppose
+| bip_39_word_new_br_1 | oppose |  
+| bip_39_word_new_br_10 | oppose<br>spider<br>equip<br>point<br>reform<br>soft<br>hungry<br>box<br>sign<br>future |  
+| bip_39_word_new_br_11 | oppose<br>spider<br>equip<br>point<br>reform<br>soft<br>hungry<br>box<br>sign<br>future<br>fall |  
+| bip_39_word_new_br_12 | oppose<br>spider<br>equip<br>point<br>reform<br>soft<br>hungry<br>box<br>sign<br>future<br>fall<br>ahead |  
+| bip_39_word_new_br_2 | oppose<br>spider |  
+| bip_39_word_new_br_3 | oppose<br>spider<br>equip |  
+| bip_39_word_new_br_4 | oppose<br>spider<br>equip<br>point |  
+| bip_39_word_new_br_5 | oppose<br>spider<br>equip<br>point<br>reform |  
+| bip_39_word_new_br_6 | oppose<br>spider<br>equip<br>point<br>reform<br>soft |  
+| bip_39_word_new_br_7 | oppose<br>spider<br>equip<br>point<br>reform<br>soft<br>hungry |  
+| bip_39_word_new_br_8 | oppose<br>spider<br>equip<br>point<br>reform<br>soft<br>hungry<br>box |  
+| bip_39_word_new_br_9 | oppose<br>spider<br>equip<br>point<br>reform<br>soft<br>hungry<br>box<br>sign |  
+| bip_39_word_new_line_1 | oppose |  
+| bip_39_word_new_line_10 | oppose
 spider
 equip
 point
@@ -55,7 +55,7 @@ hungry
 box
 sign
 future |  
-| bip_39_word_new_line11 | oppose
+| bip_39_word_new_line_11 | oppose
 spider
 equip
 point
@@ -66,7 +66,7 @@ box
 sign
 future
 fall |  
-| bip_39_word_new_line12 | oppose
+| bip_39_word_new_line_12 | oppose
 spider
 equip
 point
@@ -78,34 +78,34 @@ sign
 future
 fall
 ahead |  
-| bip_39_word_new_line2 | oppose
+| bip_39_word_new_line_2 | oppose
 spider |  
-| bip_39_word_new_line3 | oppose
+| bip_39_word_new_line_3 | oppose
 spider
 equip |  
-| bip_39_word_new_line4 | oppose
+| bip_39_word_new_line_4 | oppose
 spider
 equip
 point |  
-| bip_39_word_new_line5 | oppose
+| bip_39_word_new_line_5 | oppose
 spider
 equip
 point
 reform |  
-| bip_39_word_new_line6 | oppose
+| bip_39_word_new_line_6 | oppose
 spider
 equip
 point
 reform
 soft |  
-| bip_39_word_new_line7 | oppose
+| bip_39_word_new_line_7 | oppose
 spider
 equip
 point
 reform
 soft
 hungry |  
-| bip_39_word_new_line8 | oppose
+| bip_39_word_new_line_8 | oppose
 spider
 equip
 point
@@ -113,7 +113,7 @@ reform
 soft
 hungry
 box |  
-| bip_39_word_new_line9 | oppose
+| bip_39_word_new_line_9 | oppose
 spider
 equip
 point

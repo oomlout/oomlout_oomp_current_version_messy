@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | motion |  
-| bip_39_word_new_br10 | motion<br>edge<br>planet<br>critic<br>visual<br>vague<br>divert<br>quote<br>order<br>legal |  
-| bip_39_word_new_br11 | motion<br>edge<br>planet<br>critic<br>visual<br>vague<br>divert<br>quote<br>order<br>legal<br>book |  
-| bip_39_word_new_br12 | motion<br>edge<br>planet<br>critic<br>visual<br>vague<br>divert<br>quote<br>order<br>legal<br>book<br>allow |  
-| bip_39_word_new_br2 | motion<br>edge |  
-| bip_39_word_new_br3 | motion<br>edge<br>planet |  
-| bip_39_word_new_br4 | motion<br>edge<br>planet<br>critic |  
-| bip_39_word_new_br5 | motion<br>edge<br>planet<br>critic<br>visual |  
-| bip_39_word_new_br6 | motion<br>edge<br>planet<br>critic<br>visual<br>vague |  
-| bip_39_word_new_br7 | motion<br>edge<br>planet<br>critic<br>visual<br>vague<br>divert |  
-| bip_39_word_new_br8 | motion<br>edge<br>planet<br>critic<br>visual<br>vague<br>divert<br>quote |  
-| bip_39_word_new_br9 | motion<br>edge<br>planet<br>critic<br>visual<br>vague<br>divert<br>quote<br>order |  
-| bip_39_word_new_line1 | motion |  
-| bip_39_word_new_line10 | motion
+| bip_39_word_new_br_1 | motion |  
+| bip_39_word_new_br_10 | motion<br>edge<br>planet<br>critic<br>visual<br>vague<br>divert<br>quote<br>order<br>legal |  
+| bip_39_word_new_br_11 | motion<br>edge<br>planet<br>critic<br>visual<br>vague<br>divert<br>quote<br>order<br>legal<br>book |  
+| bip_39_word_new_br_12 | motion<br>edge<br>planet<br>critic<br>visual<br>vague<br>divert<br>quote<br>order<br>legal<br>book<br>allow |  
+| bip_39_word_new_br_2 | motion<br>edge |  
+| bip_39_word_new_br_3 | motion<br>edge<br>planet |  
+| bip_39_word_new_br_4 | motion<br>edge<br>planet<br>critic |  
+| bip_39_word_new_br_5 | motion<br>edge<br>planet<br>critic<br>visual |  
+| bip_39_word_new_br_6 | motion<br>edge<br>planet<br>critic<br>visual<br>vague |  
+| bip_39_word_new_br_7 | motion<br>edge<br>planet<br>critic<br>visual<br>vague<br>divert |  
+| bip_39_word_new_br_8 | motion<br>edge<br>planet<br>critic<br>visual<br>vague<br>divert<br>quote |  
+| bip_39_word_new_br_9 | motion<br>edge<br>planet<br>critic<br>visual<br>vague<br>divert<br>quote<br>order |  
+| bip_39_word_new_line_1 | motion |  
+| bip_39_word_new_line_10 | motion
 edge
 planet
 critic
@@ -55,7 +55,7 @@ divert
 quote
 order
 legal |  
-| bip_39_word_new_line11 | motion
+| bip_39_word_new_line_11 | motion
 edge
 planet
 critic
@@ -66,7 +66,7 @@ quote
 order
 legal
 book |  
-| bip_39_word_new_line12 | motion
+| bip_39_word_new_line_12 | motion
 edge
 planet
 critic
@@ -78,34 +78,34 @@ order
 legal
 book
 allow |  
-| bip_39_word_new_line2 | motion
+| bip_39_word_new_line_2 | motion
 edge |  
-| bip_39_word_new_line3 | motion
+| bip_39_word_new_line_3 | motion
 edge
 planet |  
-| bip_39_word_new_line4 | motion
+| bip_39_word_new_line_4 | motion
 edge
 planet
 critic |  
-| bip_39_word_new_line5 | motion
+| bip_39_word_new_line_5 | motion
 edge
 planet
 critic
 visual |  
-| bip_39_word_new_line6 | motion
+| bip_39_word_new_line_6 | motion
 edge
 planet
 critic
 visual
 vague |  
-| bip_39_word_new_line7 | motion
+| bip_39_word_new_line_7 | motion
 edge
 planet
 critic
 visual
 vague
 divert |  
-| bip_39_word_new_line8 | motion
+| bip_39_word_new_line_8 | motion
 edge
 planet
 critic
@@ -113,7 +113,7 @@ visual
 vague
 divert
 quote |  
-| bip_39_word_new_line9 | motion
+| bip_39_word_new_line_9 | motion
 edge
 planet
 critic

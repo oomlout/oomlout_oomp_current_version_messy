@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | donate |  
-| bip_39_word_new_br10 | donate<br>sad<br>oval<br>shed<br>alpha<br>file<br>dad<br>possible<br>decline<br>cause |  
-| bip_39_word_new_br11 | donate<br>sad<br>oval<br>shed<br>alpha<br>file<br>dad<br>possible<br>decline<br>cause<br>together |  
-| bip_39_word_new_br12 | donate<br>sad<br>oval<br>shed<br>alpha<br>file<br>dad<br>possible<br>decline<br>cause<br>together<br>auto |  
-| bip_39_word_new_br2 | donate<br>sad |  
-| bip_39_word_new_br3 | donate<br>sad<br>oval |  
-| bip_39_word_new_br4 | donate<br>sad<br>oval<br>shed |  
-| bip_39_word_new_br5 | donate<br>sad<br>oval<br>shed<br>alpha |  
-| bip_39_word_new_br6 | donate<br>sad<br>oval<br>shed<br>alpha<br>file |  
-| bip_39_word_new_br7 | donate<br>sad<br>oval<br>shed<br>alpha<br>file<br>dad |  
-| bip_39_word_new_br8 | donate<br>sad<br>oval<br>shed<br>alpha<br>file<br>dad<br>possible |  
-| bip_39_word_new_br9 | donate<br>sad<br>oval<br>shed<br>alpha<br>file<br>dad<br>possible<br>decline |  
-| bip_39_word_new_line1 | donate |  
-| bip_39_word_new_line10 | donate
+| bip_39_word_new_br_1 | donate |  
+| bip_39_word_new_br_10 | donate<br>sad<br>oval<br>shed<br>alpha<br>file<br>dad<br>possible<br>decline<br>cause |  
+| bip_39_word_new_br_11 | donate<br>sad<br>oval<br>shed<br>alpha<br>file<br>dad<br>possible<br>decline<br>cause<br>together |  
+| bip_39_word_new_br_12 | donate<br>sad<br>oval<br>shed<br>alpha<br>file<br>dad<br>possible<br>decline<br>cause<br>together<br>auto |  
+| bip_39_word_new_br_2 | donate<br>sad |  
+| bip_39_word_new_br_3 | donate<br>sad<br>oval |  
+| bip_39_word_new_br_4 | donate<br>sad<br>oval<br>shed |  
+| bip_39_word_new_br_5 | donate<br>sad<br>oval<br>shed<br>alpha |  
+| bip_39_word_new_br_6 | donate<br>sad<br>oval<br>shed<br>alpha<br>file |  
+| bip_39_word_new_br_7 | donate<br>sad<br>oval<br>shed<br>alpha<br>file<br>dad |  
+| bip_39_word_new_br_8 | donate<br>sad<br>oval<br>shed<br>alpha<br>file<br>dad<br>possible |  
+| bip_39_word_new_br_9 | donate<br>sad<br>oval<br>shed<br>alpha<br>file<br>dad<br>possible<br>decline |  
+| bip_39_word_new_line_1 | donate |  
+| bip_39_word_new_line_10 | donate
 sad
 oval
 shed
@@ -55,7 +55,7 @@ dad
 possible
 decline
 cause |  
-| bip_39_word_new_line11 | donate
+| bip_39_word_new_line_11 | donate
 sad
 oval
 shed
@@ -66,7 +66,7 @@ possible
 decline
 cause
 together |  
-| bip_39_word_new_line12 | donate
+| bip_39_word_new_line_12 | donate
 sad
 oval
 shed
@@ -78,34 +78,34 @@ decline
 cause
 together
 auto |  
-| bip_39_word_new_line2 | donate
+| bip_39_word_new_line_2 | donate
 sad |  
-| bip_39_word_new_line3 | donate
+| bip_39_word_new_line_3 | donate
 sad
 oval |  
-| bip_39_word_new_line4 | donate
+| bip_39_word_new_line_4 | donate
 sad
 oval
 shed |  
-| bip_39_word_new_line5 | donate
+| bip_39_word_new_line_5 | donate
 sad
 oval
 shed
 alpha |  
-| bip_39_word_new_line6 | donate
+| bip_39_word_new_line_6 | donate
 sad
 oval
 shed
 alpha
 file |  
-| bip_39_word_new_line7 | donate
+| bip_39_word_new_line_7 | donate
 sad
 oval
 shed
 alpha
 file
 dad |  
-| bip_39_word_new_line8 | donate
+| bip_39_word_new_line_8 | donate
 sad
 oval
 shed
@@ -113,7 +113,7 @@ alpha
 file
 dad
 possible |  
-| bip_39_word_new_line9 | donate
+| bip_39_word_new_line_9 | donate
 sad
 oval
 shed

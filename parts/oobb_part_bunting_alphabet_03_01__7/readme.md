@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | alert |  
-| bip_39_word_new_br10 | alert<br>hamster<br>usual<br>kit<br>undo<br>festival<br>south<br>purpose<br>media<br>increase |  
-| bip_39_word_new_br11 | alert<br>hamster<br>usual<br>kit<br>undo<br>festival<br>south<br>purpose<br>media<br>increase<br>deny |  
-| bip_39_word_new_br12 | alert<br>hamster<br>usual<br>kit<br>undo<br>festival<br>south<br>purpose<br>media<br>increase<br>deny<br>accuse |  
-| bip_39_word_new_br2 | alert<br>hamster |  
-| bip_39_word_new_br3 | alert<br>hamster<br>usual |  
-| bip_39_word_new_br4 | alert<br>hamster<br>usual<br>kit |  
-| bip_39_word_new_br5 | alert<br>hamster<br>usual<br>kit<br>undo |  
-| bip_39_word_new_br6 | alert<br>hamster<br>usual<br>kit<br>undo<br>festival |  
-| bip_39_word_new_br7 | alert<br>hamster<br>usual<br>kit<br>undo<br>festival<br>south |  
-| bip_39_word_new_br8 | alert<br>hamster<br>usual<br>kit<br>undo<br>festival<br>south<br>purpose |  
-| bip_39_word_new_br9 | alert<br>hamster<br>usual<br>kit<br>undo<br>festival<br>south<br>purpose<br>media |  
-| bip_39_word_new_line1 | alert |  
-| bip_39_word_new_line10 | alert
+| bip_39_word_new_br_1 | alert |  
+| bip_39_word_new_br_10 | alert<br>hamster<br>usual<br>kit<br>undo<br>festival<br>south<br>purpose<br>media<br>increase |  
+| bip_39_word_new_br_11 | alert<br>hamster<br>usual<br>kit<br>undo<br>festival<br>south<br>purpose<br>media<br>increase<br>deny |  
+| bip_39_word_new_br_12 | alert<br>hamster<br>usual<br>kit<br>undo<br>festival<br>south<br>purpose<br>media<br>increase<br>deny<br>accuse |  
+| bip_39_word_new_br_2 | alert<br>hamster |  
+| bip_39_word_new_br_3 | alert<br>hamster<br>usual |  
+| bip_39_word_new_br_4 | alert<br>hamster<br>usual<br>kit |  
+| bip_39_word_new_br_5 | alert<br>hamster<br>usual<br>kit<br>undo |  
+| bip_39_word_new_br_6 | alert<br>hamster<br>usual<br>kit<br>undo<br>festival |  
+| bip_39_word_new_br_7 | alert<br>hamster<br>usual<br>kit<br>undo<br>festival<br>south |  
+| bip_39_word_new_br_8 | alert<br>hamster<br>usual<br>kit<br>undo<br>festival<br>south<br>purpose |  
+| bip_39_word_new_br_9 | alert<br>hamster<br>usual<br>kit<br>undo<br>festival<br>south<br>purpose<br>media |  
+| bip_39_word_new_line_1 | alert |  
+| bip_39_word_new_line_10 | alert
 hamster
 usual
 kit
@@ -55,7 +55,7 @@ south
 purpose
 media
 increase |  
-| bip_39_word_new_line11 | alert
+| bip_39_word_new_line_11 | alert
 hamster
 usual
 kit
@@ -66,7 +66,7 @@ purpose
 media
 increase
 deny |  
-| bip_39_word_new_line12 | alert
+| bip_39_word_new_line_12 | alert
 hamster
 usual
 kit
@@ -78,34 +78,34 @@ media
 increase
 deny
 accuse |  
-| bip_39_word_new_line2 | alert
+| bip_39_word_new_line_2 | alert
 hamster |  
-| bip_39_word_new_line3 | alert
+| bip_39_word_new_line_3 | alert
 hamster
 usual |  
-| bip_39_word_new_line4 | alert
+| bip_39_word_new_line_4 | alert
 hamster
 usual
 kit |  
-| bip_39_word_new_line5 | alert
+| bip_39_word_new_line_5 | alert
 hamster
 usual
 kit
 undo |  
-| bip_39_word_new_line6 | alert
+| bip_39_word_new_line_6 | alert
 hamster
 usual
 kit
 undo
 festival |  
-| bip_39_word_new_line7 | alert
+| bip_39_word_new_line_7 | alert
 hamster
 usual
 kit
 undo
 festival
 south |  
-| bip_39_word_new_line8 | alert
+| bip_39_word_new_line_8 | alert
 hamster
 usual
 kit
@@ -113,7 +113,7 @@ undo
 festival
 south
 purpose |  
-| bip_39_word_new_line9 | alert
+| bip_39_word_new_line_9 | alert
 hamster
 usual
 kit

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | perfect |  
-| bip_39_word_new_br10 | perfect<br>outdoor<br>follow<br>sausage<br>crisp<br>globe<br>still<br>early<br>hand<br>famous |  
-| bip_39_word_new_br11 | perfect<br>outdoor<br>follow<br>sausage<br>crisp<br>globe<br>still<br>early<br>hand<br>famous<br>flavor |  
-| bip_39_word_new_br12 | perfect<br>outdoor<br>follow<br>sausage<br>crisp<br>globe<br>still<br>early<br>hand<br>famous<br>flavor<br>actual |  
-| bip_39_word_new_br2 | perfect<br>outdoor |  
-| bip_39_word_new_br3 | perfect<br>outdoor<br>follow |  
-| bip_39_word_new_br4 | perfect<br>outdoor<br>follow<br>sausage |  
-| bip_39_word_new_br5 | perfect<br>outdoor<br>follow<br>sausage<br>crisp |  
-| bip_39_word_new_br6 | perfect<br>outdoor<br>follow<br>sausage<br>crisp<br>globe |  
-| bip_39_word_new_br7 | perfect<br>outdoor<br>follow<br>sausage<br>crisp<br>globe<br>still |  
-| bip_39_word_new_br8 | perfect<br>outdoor<br>follow<br>sausage<br>crisp<br>globe<br>still<br>early |  
-| bip_39_word_new_br9 | perfect<br>outdoor<br>follow<br>sausage<br>crisp<br>globe<br>still<br>early<br>hand |  
-| bip_39_word_new_line1 | perfect |  
-| bip_39_word_new_line10 | perfect
+| bip_39_word_new_br_1 | perfect |  
+| bip_39_word_new_br_10 | perfect<br>outdoor<br>follow<br>sausage<br>crisp<br>globe<br>still<br>early<br>hand<br>famous |  
+| bip_39_word_new_br_11 | perfect<br>outdoor<br>follow<br>sausage<br>crisp<br>globe<br>still<br>early<br>hand<br>famous<br>flavor |  
+| bip_39_word_new_br_12 | perfect<br>outdoor<br>follow<br>sausage<br>crisp<br>globe<br>still<br>early<br>hand<br>famous<br>flavor<br>actual |  
+| bip_39_word_new_br_2 | perfect<br>outdoor |  
+| bip_39_word_new_br_3 | perfect<br>outdoor<br>follow |  
+| bip_39_word_new_br_4 | perfect<br>outdoor<br>follow<br>sausage |  
+| bip_39_word_new_br_5 | perfect<br>outdoor<br>follow<br>sausage<br>crisp |  
+| bip_39_word_new_br_6 | perfect<br>outdoor<br>follow<br>sausage<br>crisp<br>globe |  
+| bip_39_word_new_br_7 | perfect<br>outdoor<br>follow<br>sausage<br>crisp<br>globe<br>still |  
+| bip_39_word_new_br_8 | perfect<br>outdoor<br>follow<br>sausage<br>crisp<br>globe<br>still<br>early |  
+| bip_39_word_new_br_9 | perfect<br>outdoor<br>follow<br>sausage<br>crisp<br>globe<br>still<br>early<br>hand |  
+| bip_39_word_new_line_1 | perfect |  
+| bip_39_word_new_line_10 | perfect
 outdoor
 follow
 sausage
@@ -55,7 +55,7 @@ still
 early
 hand
 famous |  
-| bip_39_word_new_line11 | perfect
+| bip_39_word_new_line_11 | perfect
 outdoor
 follow
 sausage
@@ -66,7 +66,7 @@ early
 hand
 famous
 flavor |  
-| bip_39_word_new_line12 | perfect
+| bip_39_word_new_line_12 | perfect
 outdoor
 follow
 sausage
@@ -78,34 +78,34 @@ hand
 famous
 flavor
 actual |  
-| bip_39_word_new_line2 | perfect
+| bip_39_word_new_line_2 | perfect
 outdoor |  
-| bip_39_word_new_line3 | perfect
+| bip_39_word_new_line_3 | perfect
 outdoor
 follow |  
-| bip_39_word_new_line4 | perfect
+| bip_39_word_new_line_4 | perfect
 outdoor
 follow
 sausage |  
-| bip_39_word_new_line5 | perfect
+| bip_39_word_new_line_5 | perfect
 outdoor
 follow
 sausage
 crisp |  
-| bip_39_word_new_line6 | perfect
+| bip_39_word_new_line_6 | perfect
 outdoor
 follow
 sausage
 crisp
 globe |  
-| bip_39_word_new_line7 | perfect
+| bip_39_word_new_line_7 | perfect
 outdoor
 follow
 sausage
 crisp
 globe
 still |  
-| bip_39_word_new_line8 | perfect
+| bip_39_word_new_line_8 | perfect
 outdoor
 follow
 sausage
@@ -113,7 +113,7 @@ crisp
 globe
 still
 early |  
-| bip_39_word_new_line9 | perfect
+| bip_39_word_new_line_9 | perfect
 outdoor
 follow
 sausage

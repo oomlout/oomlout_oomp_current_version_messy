@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | early |  
-| bip_39_word_new_br10 | early<br>kid<br>spice<br>crawl<br>frown<br>butter<br>gym<br>long<br>lucky<br>until |  
-| bip_39_word_new_br11 | early<br>kid<br>spice<br>crawl<br>frown<br>butter<br>gym<br>long<br>lucky<br>until<br>tape |  
-| bip_39_word_new_br12 | early<br>kid<br>spice<br>crawl<br>frown<br>butter<br>gym<br>long<br>lucky<br>until<br>tape<br>aerobic |  
-| bip_39_word_new_br2 | early<br>kid |  
-| bip_39_word_new_br3 | early<br>kid<br>spice |  
-| bip_39_word_new_br4 | early<br>kid<br>spice<br>crawl |  
-| bip_39_word_new_br5 | early<br>kid<br>spice<br>crawl<br>frown |  
-| bip_39_word_new_br6 | early<br>kid<br>spice<br>crawl<br>frown<br>butter |  
-| bip_39_word_new_br7 | early<br>kid<br>spice<br>crawl<br>frown<br>butter<br>gym |  
-| bip_39_word_new_br8 | early<br>kid<br>spice<br>crawl<br>frown<br>butter<br>gym<br>long |  
-| bip_39_word_new_br9 | early<br>kid<br>spice<br>crawl<br>frown<br>butter<br>gym<br>long<br>lucky |  
-| bip_39_word_new_line1 | early |  
-| bip_39_word_new_line10 | early
+| bip_39_word_new_br_1 | early |  
+| bip_39_word_new_br_10 | early<br>kid<br>spice<br>crawl<br>frown<br>butter<br>gym<br>long<br>lucky<br>until |  
+| bip_39_word_new_br_11 | early<br>kid<br>spice<br>crawl<br>frown<br>butter<br>gym<br>long<br>lucky<br>until<br>tape |  
+| bip_39_word_new_br_12 | early<br>kid<br>spice<br>crawl<br>frown<br>butter<br>gym<br>long<br>lucky<br>until<br>tape<br>aerobic |  
+| bip_39_word_new_br_2 | early<br>kid |  
+| bip_39_word_new_br_3 | early<br>kid<br>spice |  
+| bip_39_word_new_br_4 | early<br>kid<br>spice<br>crawl |  
+| bip_39_word_new_br_5 | early<br>kid<br>spice<br>crawl<br>frown |  
+| bip_39_word_new_br_6 | early<br>kid<br>spice<br>crawl<br>frown<br>butter |  
+| bip_39_word_new_br_7 | early<br>kid<br>spice<br>crawl<br>frown<br>butter<br>gym |  
+| bip_39_word_new_br_8 | early<br>kid<br>spice<br>crawl<br>frown<br>butter<br>gym<br>long |  
+| bip_39_word_new_br_9 | early<br>kid<br>spice<br>crawl<br>frown<br>butter<br>gym<br>long<br>lucky |  
+| bip_39_word_new_line_1 | early |  
+| bip_39_word_new_line_10 | early
 kid
 spice
 crawl
@@ -55,7 +55,7 @@ gym
 long
 lucky
 until |  
-| bip_39_word_new_line11 | early
+| bip_39_word_new_line_11 | early
 kid
 spice
 crawl
@@ -66,7 +66,7 @@ long
 lucky
 until
 tape |  
-| bip_39_word_new_line12 | early
+| bip_39_word_new_line_12 | early
 kid
 spice
 crawl
@@ -78,34 +78,34 @@ lucky
 until
 tape
 aerobic |  
-| bip_39_word_new_line2 | early
+| bip_39_word_new_line_2 | early
 kid |  
-| bip_39_word_new_line3 | early
+| bip_39_word_new_line_3 | early
 kid
 spice |  
-| bip_39_word_new_line4 | early
+| bip_39_word_new_line_4 | early
 kid
 spice
 crawl |  
-| bip_39_word_new_line5 | early
+| bip_39_word_new_line_5 | early
 kid
 spice
 crawl
 frown |  
-| bip_39_word_new_line6 | early
+| bip_39_word_new_line_6 | early
 kid
 spice
 crawl
 frown
 butter |  
-| bip_39_word_new_line7 | early
+| bip_39_word_new_line_7 | early
 kid
 spice
 crawl
 frown
 butter
 gym |  
-| bip_39_word_new_line8 | early
+| bip_39_word_new_line_8 | early
 kid
 spice
 crawl
@@ -113,7 +113,7 @@ frown
 butter
 gym
 long |  
-| bip_39_word_new_line9 | early
+| bip_39_word_new_line_9 | early
 kid
 spice
 crawl

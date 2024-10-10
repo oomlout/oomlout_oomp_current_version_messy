@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | attack |  
-| bip_39_word_new_br10 | attack<br>mosquito<br>hint<br>early<br>arrow<br>bridge<br>travel<br>change<br>hotel<br>garment |  
-| bip_39_word_new_br11 | attack<br>mosquito<br>hint<br>early<br>arrow<br>bridge<br>travel<br>change<br>hotel<br>garment<br>follow |  
-| bip_39_word_new_br12 | attack<br>mosquito<br>hint<br>early<br>arrow<br>bridge<br>travel<br>change<br>hotel<br>garment<br>follow<br>afford |  
-| bip_39_word_new_br2 | attack<br>mosquito |  
-| bip_39_word_new_br3 | attack<br>mosquito<br>hint |  
-| bip_39_word_new_br4 | attack<br>mosquito<br>hint<br>early |  
-| bip_39_word_new_br5 | attack<br>mosquito<br>hint<br>early<br>arrow |  
-| bip_39_word_new_br6 | attack<br>mosquito<br>hint<br>early<br>arrow<br>bridge |  
-| bip_39_word_new_br7 | attack<br>mosquito<br>hint<br>early<br>arrow<br>bridge<br>travel |  
-| bip_39_word_new_br8 | attack<br>mosquito<br>hint<br>early<br>arrow<br>bridge<br>travel<br>change |  
-| bip_39_word_new_br9 | attack<br>mosquito<br>hint<br>early<br>arrow<br>bridge<br>travel<br>change<br>hotel |  
-| bip_39_word_new_line1 | attack |  
-| bip_39_word_new_line10 | attack
+| bip_39_word_new_br_1 | attack |  
+| bip_39_word_new_br_10 | attack<br>mosquito<br>hint<br>early<br>arrow<br>bridge<br>travel<br>change<br>hotel<br>garment |  
+| bip_39_word_new_br_11 | attack<br>mosquito<br>hint<br>early<br>arrow<br>bridge<br>travel<br>change<br>hotel<br>garment<br>follow |  
+| bip_39_word_new_br_12 | attack<br>mosquito<br>hint<br>early<br>arrow<br>bridge<br>travel<br>change<br>hotel<br>garment<br>follow<br>afford |  
+| bip_39_word_new_br_2 | attack<br>mosquito |  
+| bip_39_word_new_br_3 | attack<br>mosquito<br>hint |  
+| bip_39_word_new_br_4 | attack<br>mosquito<br>hint<br>early |  
+| bip_39_word_new_br_5 | attack<br>mosquito<br>hint<br>early<br>arrow |  
+| bip_39_word_new_br_6 | attack<br>mosquito<br>hint<br>early<br>arrow<br>bridge |  
+| bip_39_word_new_br_7 | attack<br>mosquito<br>hint<br>early<br>arrow<br>bridge<br>travel |  
+| bip_39_word_new_br_8 | attack<br>mosquito<br>hint<br>early<br>arrow<br>bridge<br>travel<br>change |  
+| bip_39_word_new_br_9 | attack<br>mosquito<br>hint<br>early<br>arrow<br>bridge<br>travel<br>change<br>hotel |  
+| bip_39_word_new_line_1 | attack |  
+| bip_39_word_new_line_10 | attack
 mosquito
 hint
 early
@@ -55,7 +55,7 @@ travel
 change
 hotel
 garment |  
-| bip_39_word_new_line11 | attack
+| bip_39_word_new_line_11 | attack
 mosquito
 hint
 early
@@ -66,7 +66,7 @@ change
 hotel
 garment
 follow |  
-| bip_39_word_new_line12 | attack
+| bip_39_word_new_line_12 | attack
 mosquito
 hint
 early
@@ -78,34 +78,34 @@ hotel
 garment
 follow
 afford |  
-| bip_39_word_new_line2 | attack
+| bip_39_word_new_line_2 | attack
 mosquito |  
-| bip_39_word_new_line3 | attack
+| bip_39_word_new_line_3 | attack
 mosquito
 hint |  
-| bip_39_word_new_line4 | attack
+| bip_39_word_new_line_4 | attack
 mosquito
 hint
 early |  
-| bip_39_word_new_line5 | attack
+| bip_39_word_new_line_5 | attack
 mosquito
 hint
 early
 arrow |  
-| bip_39_word_new_line6 | attack
+| bip_39_word_new_line_6 | attack
 mosquito
 hint
 early
 arrow
 bridge |  
-| bip_39_word_new_line7 | attack
+| bip_39_word_new_line_7 | attack
 mosquito
 hint
 early
 arrow
 bridge
 travel |  
-| bip_39_word_new_line8 | attack
+| bip_39_word_new_line_8 | attack
 mosquito
 hint
 early
@@ -113,7 +113,7 @@ arrow
 bridge
 travel
 change |  
-| bip_39_word_new_line9 | attack
+| bip_39_word_new_line_9 | attack
 mosquito
 hint
 early

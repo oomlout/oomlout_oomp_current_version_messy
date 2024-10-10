@@ -1,17 +1,17 @@
-bip_39_word_new_br1: afraid
-bip_39_word_new_br10: afraid<br>brave<br>dash<br>cereal<br>off<br>shoot<br>alert<br>noble<br>whip<br>gauge
-bip_39_word_new_br11: afraid<br>brave<br>dash<br>cereal<br>off<br>shoot<br>alert<br>noble<br>whip<br>gauge<br>real
-bip_39_word_new_br12: afraid<br>brave<br>dash<br>cereal<br>off<br>shoot<br>alert<br>noble<br>whip<br>gauge<br>real<br>absent
-bip_39_word_new_br2: afraid<br>brave
-bip_39_word_new_br3: afraid<br>brave<br>dash
-bip_39_word_new_br4: afraid<br>brave<br>dash<br>cereal
-bip_39_word_new_br5: afraid<br>brave<br>dash<br>cereal<br>off
-bip_39_word_new_br6: afraid<br>brave<br>dash<br>cereal<br>off<br>shoot
-bip_39_word_new_br7: afraid<br>brave<br>dash<br>cereal<br>off<br>shoot<br>alert
-bip_39_word_new_br8: afraid<br>brave<br>dash<br>cereal<br>off<br>shoot<br>alert<br>noble
-bip_39_word_new_br9: afraid<br>brave<br>dash<br>cereal<br>off<br>shoot<br>alert<br>noble<br>whip
-bip_39_word_new_line1: afraid
-bip_39_word_new_line10: 'afraid
+bip_39_word_new_br_1: afraid
+bip_39_word_new_br_10: afraid<br>brave<br>dash<br>cereal<br>off<br>shoot<br>alert<br>noble<br>whip<br>gauge
+bip_39_word_new_br_11: afraid<br>brave<br>dash<br>cereal<br>off<br>shoot<br>alert<br>noble<br>whip<br>gauge<br>real
+bip_39_word_new_br_12: afraid<br>brave<br>dash<br>cereal<br>off<br>shoot<br>alert<br>noble<br>whip<br>gauge<br>real<br>absent
+bip_39_word_new_br_2: afraid<br>brave
+bip_39_word_new_br_3: afraid<br>brave<br>dash
+bip_39_word_new_br_4: afraid<br>brave<br>dash<br>cereal
+bip_39_word_new_br_5: afraid<br>brave<br>dash<br>cereal<br>off
+bip_39_word_new_br_6: afraid<br>brave<br>dash<br>cereal<br>off<br>shoot
+bip_39_word_new_br_7: afraid<br>brave<br>dash<br>cereal<br>off<br>shoot<br>alert
+bip_39_word_new_br_8: afraid<br>brave<br>dash<br>cereal<br>off<br>shoot<br>alert<br>noble
+bip_39_word_new_br_9: afraid<br>brave<br>dash<br>cereal<br>off<br>shoot<br>alert<br>noble<br>whip
+bip_39_word_new_line_1: afraid
+bip_39_word_new_line_10: 'afraid
 
   brave
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'afraid
   whip
 
   gauge'
-bip_39_word_new_line11: 'afraid
+bip_39_word_new_line_11: 'afraid
 
   brave
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'afraid
   gauge
 
   real'
-bip_39_word_new_line12: 'afraid
+bip_39_word_new_line_12: 'afraid
 
   brave
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'afraid
   real
 
   absent'
-bip_39_word_new_line2: 'afraid
+bip_39_word_new_line_2: 'afraid
 
   brave'
-bip_39_word_new_line3: 'afraid
+bip_39_word_new_line_3: 'afraid
 
   brave
 
   dash'
-bip_39_word_new_line4: 'afraid
+bip_39_word_new_line_4: 'afraid
 
   brave
 
   dash
 
   cereal'
-bip_39_word_new_line5: 'afraid
+bip_39_word_new_line_5: 'afraid
 
   brave
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'afraid
   cereal
 
   off'
-bip_39_word_new_line6: 'afraid
+bip_39_word_new_line_6: 'afraid
 
   brave
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'afraid
   off
 
   shoot'
-bip_39_word_new_line7: 'afraid
+bip_39_word_new_line_7: 'afraid
 
   brave
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'afraid
   shoot
 
   alert'
-bip_39_word_new_line8: 'afraid
+bip_39_word_new_line_8: 'afraid
 
   brave
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'afraid
   alert
 
   noble'
-bip_39_word_new_line9: 'afraid
+bip_39_word_new_line_9: 'afraid
 
   brave
 

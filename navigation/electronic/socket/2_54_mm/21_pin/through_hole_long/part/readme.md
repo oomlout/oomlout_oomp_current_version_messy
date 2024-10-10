@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | hundred |  
-| bip_39_word_new_br10 | hundred<br>vocal<br>run<br>one<br>recipe<br>social<br>chat<br>pass<br>fuel<br>range |  
-| bip_39_word_new_br11 | hundred<br>vocal<br>run<br>one<br>recipe<br>social<br>chat<br>pass<br>fuel<br>range<br>adult |  
-| bip_39_word_new_br12 | hundred<br>vocal<br>run<br>one<br>recipe<br>social<br>chat<br>pass<br>fuel<br>range<br>adult<br>afraid |  
-| bip_39_word_new_br2 | hundred<br>vocal |  
-| bip_39_word_new_br3 | hundred<br>vocal<br>run |  
-| bip_39_word_new_br4 | hundred<br>vocal<br>run<br>one |  
-| bip_39_word_new_br5 | hundred<br>vocal<br>run<br>one<br>recipe |  
-| bip_39_word_new_br6 | hundred<br>vocal<br>run<br>one<br>recipe<br>social |  
-| bip_39_word_new_br7 | hundred<br>vocal<br>run<br>one<br>recipe<br>social<br>chat |  
-| bip_39_word_new_br8 | hundred<br>vocal<br>run<br>one<br>recipe<br>social<br>chat<br>pass |  
-| bip_39_word_new_br9 | hundred<br>vocal<br>run<br>one<br>recipe<br>social<br>chat<br>pass<br>fuel |  
-| bip_39_word_new_line1 | hundred |  
-| bip_39_word_new_line10 | hundred
+| bip_39_word_new_br_1 | hundred |  
+| bip_39_word_new_br_10 | hundred<br>vocal<br>run<br>one<br>recipe<br>social<br>chat<br>pass<br>fuel<br>range |  
+| bip_39_word_new_br_11 | hundred<br>vocal<br>run<br>one<br>recipe<br>social<br>chat<br>pass<br>fuel<br>range<br>adult |  
+| bip_39_word_new_br_12 | hundred<br>vocal<br>run<br>one<br>recipe<br>social<br>chat<br>pass<br>fuel<br>range<br>adult<br>afraid |  
+| bip_39_word_new_br_2 | hundred<br>vocal |  
+| bip_39_word_new_br_3 | hundred<br>vocal<br>run |  
+| bip_39_word_new_br_4 | hundred<br>vocal<br>run<br>one |  
+| bip_39_word_new_br_5 | hundred<br>vocal<br>run<br>one<br>recipe |  
+| bip_39_word_new_br_6 | hundred<br>vocal<br>run<br>one<br>recipe<br>social |  
+| bip_39_word_new_br_7 | hundred<br>vocal<br>run<br>one<br>recipe<br>social<br>chat |  
+| bip_39_word_new_br_8 | hundred<br>vocal<br>run<br>one<br>recipe<br>social<br>chat<br>pass |  
+| bip_39_word_new_br_9 | hundred<br>vocal<br>run<br>one<br>recipe<br>social<br>chat<br>pass<br>fuel |  
+| bip_39_word_new_line_1 | hundred |  
+| bip_39_word_new_line_10 | hundred
 vocal
 run
 one
@@ -55,7 +55,7 @@ chat
 pass
 fuel
 range |  
-| bip_39_word_new_line11 | hundred
+| bip_39_word_new_line_11 | hundred
 vocal
 run
 one
@@ -66,7 +66,7 @@ pass
 fuel
 range
 adult |  
-| bip_39_word_new_line12 | hundred
+| bip_39_word_new_line_12 | hundred
 vocal
 run
 one
@@ -78,34 +78,34 @@ fuel
 range
 adult
 afraid |  
-| bip_39_word_new_line2 | hundred
+| bip_39_word_new_line_2 | hundred
 vocal |  
-| bip_39_word_new_line3 | hundred
+| bip_39_word_new_line_3 | hundred
 vocal
 run |  
-| bip_39_word_new_line4 | hundred
+| bip_39_word_new_line_4 | hundred
 vocal
 run
 one |  
-| bip_39_word_new_line5 | hundred
+| bip_39_word_new_line_5 | hundred
 vocal
 run
 one
 recipe |  
-| bip_39_word_new_line6 | hundred
+| bip_39_word_new_line_6 | hundred
 vocal
 run
 one
 recipe
 social |  
-| bip_39_word_new_line7 | hundred
+| bip_39_word_new_line_7 | hundred
 vocal
 run
 one
 recipe
 social
 chat |  
-| bip_39_word_new_line8 | hundred
+| bip_39_word_new_line_8 | hundred
 vocal
 run
 one
@@ -113,7 +113,7 @@ recipe
 social
 chat
 pass |  
-| bip_39_word_new_line9 | hundred
+| bip_39_word_new_line_9 | hundred
 vocal
 run
 one

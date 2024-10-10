@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | humble |  
-| bip_39_word_new_br10 | humble<br>deposit<br>nothing<br>rail<br>inherit<br>pony<br>mother<br>gold<br>grid<br>father |  
-| bip_39_word_new_br11 | humble<br>deposit<br>nothing<br>rail<br>inherit<br>pony<br>mother<br>gold<br>grid<br>father<br>among |  
-| bip_39_word_new_br12 | humble<br>deposit<br>nothing<br>rail<br>inherit<br>pony<br>mother<br>gold<br>grid<br>father<br>among<br>acoustic |  
-| bip_39_word_new_br2 | humble<br>deposit |  
-| bip_39_word_new_br3 | humble<br>deposit<br>nothing |  
-| bip_39_word_new_br4 | humble<br>deposit<br>nothing<br>rail |  
-| bip_39_word_new_br5 | humble<br>deposit<br>nothing<br>rail<br>inherit |  
-| bip_39_word_new_br6 | humble<br>deposit<br>nothing<br>rail<br>inherit<br>pony |  
-| bip_39_word_new_br7 | humble<br>deposit<br>nothing<br>rail<br>inherit<br>pony<br>mother |  
-| bip_39_word_new_br8 | humble<br>deposit<br>nothing<br>rail<br>inherit<br>pony<br>mother<br>gold |  
-| bip_39_word_new_br9 | humble<br>deposit<br>nothing<br>rail<br>inherit<br>pony<br>mother<br>gold<br>grid |  
-| bip_39_word_new_line1 | humble |  
-| bip_39_word_new_line10 | humble
+| bip_39_word_new_br_1 | humble |  
+| bip_39_word_new_br_10 | humble<br>deposit<br>nothing<br>rail<br>inherit<br>pony<br>mother<br>gold<br>grid<br>father |  
+| bip_39_word_new_br_11 | humble<br>deposit<br>nothing<br>rail<br>inherit<br>pony<br>mother<br>gold<br>grid<br>father<br>among |  
+| bip_39_word_new_br_12 | humble<br>deposit<br>nothing<br>rail<br>inherit<br>pony<br>mother<br>gold<br>grid<br>father<br>among<br>acoustic |  
+| bip_39_word_new_br_2 | humble<br>deposit |  
+| bip_39_word_new_br_3 | humble<br>deposit<br>nothing |  
+| bip_39_word_new_br_4 | humble<br>deposit<br>nothing<br>rail |  
+| bip_39_word_new_br_5 | humble<br>deposit<br>nothing<br>rail<br>inherit |  
+| bip_39_word_new_br_6 | humble<br>deposit<br>nothing<br>rail<br>inherit<br>pony |  
+| bip_39_word_new_br_7 | humble<br>deposit<br>nothing<br>rail<br>inherit<br>pony<br>mother |  
+| bip_39_word_new_br_8 | humble<br>deposit<br>nothing<br>rail<br>inherit<br>pony<br>mother<br>gold |  
+| bip_39_word_new_br_9 | humble<br>deposit<br>nothing<br>rail<br>inherit<br>pony<br>mother<br>gold<br>grid |  
+| bip_39_word_new_line_1 | humble |  
+| bip_39_word_new_line_10 | humble
 deposit
 nothing
 rail
@@ -55,7 +55,7 @@ mother
 gold
 grid
 father |  
-| bip_39_word_new_line11 | humble
+| bip_39_word_new_line_11 | humble
 deposit
 nothing
 rail
@@ -66,7 +66,7 @@ gold
 grid
 father
 among |  
-| bip_39_word_new_line12 | humble
+| bip_39_word_new_line_12 | humble
 deposit
 nothing
 rail
@@ -78,34 +78,34 @@ grid
 father
 among
 acoustic |  
-| bip_39_word_new_line2 | humble
+| bip_39_word_new_line_2 | humble
 deposit |  
-| bip_39_word_new_line3 | humble
+| bip_39_word_new_line_3 | humble
 deposit
 nothing |  
-| bip_39_word_new_line4 | humble
+| bip_39_word_new_line_4 | humble
 deposit
 nothing
 rail |  
-| bip_39_word_new_line5 | humble
+| bip_39_word_new_line_5 | humble
 deposit
 nothing
 rail
 inherit |  
-| bip_39_word_new_line6 | humble
+| bip_39_word_new_line_6 | humble
 deposit
 nothing
 rail
 inherit
 pony |  
-| bip_39_word_new_line7 | humble
+| bip_39_word_new_line_7 | humble
 deposit
 nothing
 rail
 inherit
 pony
 mother |  
-| bip_39_word_new_line8 | humble
+| bip_39_word_new_line_8 | humble
 deposit
 nothing
 rail
@@ -113,7 +113,7 @@ inherit
 pony
 mother
 gold |  
-| bip_39_word_new_line9 | humble
+| bip_39_word_new_line_9 | humble
 deposit
 nothing
 rail

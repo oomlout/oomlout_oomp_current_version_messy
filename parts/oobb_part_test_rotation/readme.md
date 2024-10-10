@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | come |  
-| bip_39_word_new_br10 | come<br>sail<br>leisure<br>unable<br>material<br>peasant<br>muffin<br>sun<br>common<br>benefit |  
-| bip_39_word_new_br11 | come<br>sail<br>leisure<br>unable<br>material<br>peasant<br>muffin<br>sun<br>common<br>benefit<br>ancient |  
-| bip_39_word_new_br12 | come<br>sail<br>leisure<br>unable<br>material<br>peasant<br>muffin<br>sun<br>common<br>benefit<br>ancient<br>auto |  
-| bip_39_word_new_br2 | come<br>sail |  
-| bip_39_word_new_br3 | come<br>sail<br>leisure |  
-| bip_39_word_new_br4 | come<br>sail<br>leisure<br>unable |  
-| bip_39_word_new_br5 | come<br>sail<br>leisure<br>unable<br>material |  
-| bip_39_word_new_br6 | come<br>sail<br>leisure<br>unable<br>material<br>peasant |  
-| bip_39_word_new_br7 | come<br>sail<br>leisure<br>unable<br>material<br>peasant<br>muffin |  
-| bip_39_word_new_br8 | come<br>sail<br>leisure<br>unable<br>material<br>peasant<br>muffin<br>sun |  
-| bip_39_word_new_br9 | come<br>sail<br>leisure<br>unable<br>material<br>peasant<br>muffin<br>sun<br>common |  
-| bip_39_word_new_line1 | come |  
-| bip_39_word_new_line10 | come
+| bip_39_word_new_br_1 | come |  
+| bip_39_word_new_br_10 | come<br>sail<br>leisure<br>unable<br>material<br>peasant<br>muffin<br>sun<br>common<br>benefit |  
+| bip_39_word_new_br_11 | come<br>sail<br>leisure<br>unable<br>material<br>peasant<br>muffin<br>sun<br>common<br>benefit<br>ancient |  
+| bip_39_word_new_br_12 | come<br>sail<br>leisure<br>unable<br>material<br>peasant<br>muffin<br>sun<br>common<br>benefit<br>ancient<br>auto |  
+| bip_39_word_new_br_2 | come<br>sail |  
+| bip_39_word_new_br_3 | come<br>sail<br>leisure |  
+| bip_39_word_new_br_4 | come<br>sail<br>leisure<br>unable |  
+| bip_39_word_new_br_5 | come<br>sail<br>leisure<br>unable<br>material |  
+| bip_39_word_new_br_6 | come<br>sail<br>leisure<br>unable<br>material<br>peasant |  
+| bip_39_word_new_br_7 | come<br>sail<br>leisure<br>unable<br>material<br>peasant<br>muffin |  
+| bip_39_word_new_br_8 | come<br>sail<br>leisure<br>unable<br>material<br>peasant<br>muffin<br>sun |  
+| bip_39_word_new_br_9 | come<br>sail<br>leisure<br>unable<br>material<br>peasant<br>muffin<br>sun<br>common |  
+| bip_39_word_new_line_1 | come |  
+| bip_39_word_new_line_10 | come
 sail
 leisure
 unable
@@ -55,7 +55,7 @@ muffin
 sun
 common
 benefit |  
-| bip_39_word_new_line11 | come
+| bip_39_word_new_line_11 | come
 sail
 leisure
 unable
@@ -66,7 +66,7 @@ sun
 common
 benefit
 ancient |  
-| bip_39_word_new_line12 | come
+| bip_39_word_new_line_12 | come
 sail
 leisure
 unable
@@ -78,34 +78,34 @@ common
 benefit
 ancient
 auto |  
-| bip_39_word_new_line2 | come
+| bip_39_word_new_line_2 | come
 sail |  
-| bip_39_word_new_line3 | come
+| bip_39_word_new_line_3 | come
 sail
 leisure |  
-| bip_39_word_new_line4 | come
+| bip_39_word_new_line_4 | come
 sail
 leisure
 unable |  
-| bip_39_word_new_line5 | come
+| bip_39_word_new_line_5 | come
 sail
 leisure
 unable
 material |  
-| bip_39_word_new_line6 | come
+| bip_39_word_new_line_6 | come
 sail
 leisure
 unable
 material
 peasant |  
-| bip_39_word_new_line7 | come
+| bip_39_word_new_line_7 | come
 sail
 leisure
 unable
 material
 peasant
 muffin |  
-| bip_39_word_new_line8 | come
+| bip_39_word_new_line_8 | come
 sail
 leisure
 unable
@@ -113,7 +113,7 @@ material
 peasant
 muffin
 sun |  
-| bip_39_word_new_line9 | come
+| bip_39_word_new_line_9 | come
 sail
 leisure
 unable

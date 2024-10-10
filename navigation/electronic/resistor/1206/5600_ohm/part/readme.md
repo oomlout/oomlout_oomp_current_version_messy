@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | basic |  
-| bip_39_word_new_br10 | basic<br>small<br>pulse<br>wine<br>ankle<br>patch<br>slender<br>decrease<br>demand<br>possible |  
-| bip_39_word_new_br11 | basic<br>small<br>pulse<br>wine<br>ankle<br>patch<br>slender<br>decrease<br>demand<br>possible<br>identify |  
-| bip_39_word_new_br12 | basic<br>small<br>pulse<br>wine<br>ankle<br>patch<br>slender<br>decrease<br>demand<br>possible<br>identify<br>asthma |  
-| bip_39_word_new_br2 | basic<br>small |  
-| bip_39_word_new_br3 | basic<br>small<br>pulse |  
-| bip_39_word_new_br4 | basic<br>small<br>pulse<br>wine |  
-| bip_39_word_new_br5 | basic<br>small<br>pulse<br>wine<br>ankle |  
-| bip_39_word_new_br6 | basic<br>small<br>pulse<br>wine<br>ankle<br>patch |  
-| bip_39_word_new_br7 | basic<br>small<br>pulse<br>wine<br>ankle<br>patch<br>slender |  
-| bip_39_word_new_br8 | basic<br>small<br>pulse<br>wine<br>ankle<br>patch<br>slender<br>decrease |  
-| bip_39_word_new_br9 | basic<br>small<br>pulse<br>wine<br>ankle<br>patch<br>slender<br>decrease<br>demand |  
-| bip_39_word_new_line1 | basic |  
-| bip_39_word_new_line10 | basic
+| bip_39_word_new_br_1 | basic |  
+| bip_39_word_new_br_10 | basic<br>small<br>pulse<br>wine<br>ankle<br>patch<br>slender<br>decrease<br>demand<br>possible |  
+| bip_39_word_new_br_11 | basic<br>small<br>pulse<br>wine<br>ankle<br>patch<br>slender<br>decrease<br>demand<br>possible<br>identify |  
+| bip_39_word_new_br_12 | basic<br>small<br>pulse<br>wine<br>ankle<br>patch<br>slender<br>decrease<br>demand<br>possible<br>identify<br>asthma |  
+| bip_39_word_new_br_2 | basic<br>small |  
+| bip_39_word_new_br_3 | basic<br>small<br>pulse |  
+| bip_39_word_new_br_4 | basic<br>small<br>pulse<br>wine |  
+| bip_39_word_new_br_5 | basic<br>small<br>pulse<br>wine<br>ankle |  
+| bip_39_word_new_br_6 | basic<br>small<br>pulse<br>wine<br>ankle<br>patch |  
+| bip_39_word_new_br_7 | basic<br>small<br>pulse<br>wine<br>ankle<br>patch<br>slender |  
+| bip_39_word_new_br_8 | basic<br>small<br>pulse<br>wine<br>ankle<br>patch<br>slender<br>decrease |  
+| bip_39_word_new_br_9 | basic<br>small<br>pulse<br>wine<br>ankle<br>patch<br>slender<br>decrease<br>demand |  
+| bip_39_word_new_line_1 | basic |  
+| bip_39_word_new_line_10 | basic
 small
 pulse
 wine
@@ -55,7 +55,7 @@ slender
 decrease
 demand
 possible |  
-| bip_39_word_new_line11 | basic
+| bip_39_word_new_line_11 | basic
 small
 pulse
 wine
@@ -66,7 +66,7 @@ decrease
 demand
 possible
 identify |  
-| bip_39_word_new_line12 | basic
+| bip_39_word_new_line_12 | basic
 small
 pulse
 wine
@@ -78,34 +78,34 @@ demand
 possible
 identify
 asthma |  
-| bip_39_word_new_line2 | basic
+| bip_39_word_new_line_2 | basic
 small |  
-| bip_39_word_new_line3 | basic
+| bip_39_word_new_line_3 | basic
 small
 pulse |  
-| bip_39_word_new_line4 | basic
+| bip_39_word_new_line_4 | basic
 small
 pulse
 wine |  
-| bip_39_word_new_line5 | basic
+| bip_39_word_new_line_5 | basic
 small
 pulse
 wine
 ankle |  
-| bip_39_word_new_line6 | basic
+| bip_39_word_new_line_6 | basic
 small
 pulse
 wine
 ankle
 patch |  
-| bip_39_word_new_line7 | basic
+| bip_39_word_new_line_7 | basic
 small
 pulse
 wine
 ankle
 patch
 slender |  
-| bip_39_word_new_line8 | basic
+| bip_39_word_new_line_8 | basic
 small
 pulse
 wine
@@ -113,7 +113,7 @@ ankle
 patch
 slender
 decrease |  
-| bip_39_word_new_line9 | basic
+| bip_39_word_new_line_9 | basic
 small
 pulse
 wine

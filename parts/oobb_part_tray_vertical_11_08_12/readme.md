@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | capable |  
-| bip_39_word_new_br10 | capable<br>balance<br>advance<br>allow<br>very<br>river<br>swap<br>satoshi<br>wasp<br>earn |  
-| bip_39_word_new_br11 | capable<br>balance<br>advance<br>allow<br>very<br>river<br>swap<br>satoshi<br>wasp<br>earn<br>road |  
-| bip_39_word_new_br12 | capable<br>balance<br>advance<br>allow<br>very<br>river<br>swap<br>satoshi<br>wasp<br>earn<br>road<br>alcohol |  
-| bip_39_word_new_br2 | capable<br>balance |  
-| bip_39_word_new_br3 | capable<br>balance<br>advance |  
-| bip_39_word_new_br4 | capable<br>balance<br>advance<br>allow |  
-| bip_39_word_new_br5 | capable<br>balance<br>advance<br>allow<br>very |  
-| bip_39_word_new_br6 | capable<br>balance<br>advance<br>allow<br>very<br>river |  
-| bip_39_word_new_br7 | capable<br>balance<br>advance<br>allow<br>very<br>river<br>swap |  
-| bip_39_word_new_br8 | capable<br>balance<br>advance<br>allow<br>very<br>river<br>swap<br>satoshi |  
-| bip_39_word_new_br9 | capable<br>balance<br>advance<br>allow<br>very<br>river<br>swap<br>satoshi<br>wasp |  
-| bip_39_word_new_line1 | capable |  
-| bip_39_word_new_line10 | capable
+| bip_39_word_new_br_1 | capable |  
+| bip_39_word_new_br_10 | capable<br>balance<br>advance<br>allow<br>very<br>river<br>swap<br>satoshi<br>wasp<br>earn |  
+| bip_39_word_new_br_11 | capable<br>balance<br>advance<br>allow<br>very<br>river<br>swap<br>satoshi<br>wasp<br>earn<br>road |  
+| bip_39_word_new_br_12 | capable<br>balance<br>advance<br>allow<br>very<br>river<br>swap<br>satoshi<br>wasp<br>earn<br>road<br>alcohol |  
+| bip_39_word_new_br_2 | capable<br>balance |  
+| bip_39_word_new_br_3 | capable<br>balance<br>advance |  
+| bip_39_word_new_br_4 | capable<br>balance<br>advance<br>allow |  
+| bip_39_word_new_br_5 | capable<br>balance<br>advance<br>allow<br>very |  
+| bip_39_word_new_br_6 | capable<br>balance<br>advance<br>allow<br>very<br>river |  
+| bip_39_word_new_br_7 | capable<br>balance<br>advance<br>allow<br>very<br>river<br>swap |  
+| bip_39_word_new_br_8 | capable<br>balance<br>advance<br>allow<br>very<br>river<br>swap<br>satoshi |  
+| bip_39_word_new_br_9 | capable<br>balance<br>advance<br>allow<br>very<br>river<br>swap<br>satoshi<br>wasp |  
+| bip_39_word_new_line_1 | capable |  
+| bip_39_word_new_line_10 | capable
 balance
 advance
 allow
@@ -55,7 +55,7 @@ swap
 satoshi
 wasp
 earn |  
-| bip_39_word_new_line11 | capable
+| bip_39_word_new_line_11 | capable
 balance
 advance
 allow
@@ -66,7 +66,7 @@ satoshi
 wasp
 earn
 road |  
-| bip_39_word_new_line12 | capable
+| bip_39_word_new_line_12 | capable
 balance
 advance
 allow
@@ -78,34 +78,34 @@ wasp
 earn
 road
 alcohol |  
-| bip_39_word_new_line2 | capable
+| bip_39_word_new_line_2 | capable
 balance |  
-| bip_39_word_new_line3 | capable
+| bip_39_word_new_line_3 | capable
 balance
 advance |  
-| bip_39_word_new_line4 | capable
+| bip_39_word_new_line_4 | capable
 balance
 advance
 allow |  
-| bip_39_word_new_line5 | capable
+| bip_39_word_new_line_5 | capable
 balance
 advance
 allow
 very |  
-| bip_39_word_new_line6 | capable
+| bip_39_word_new_line_6 | capable
 balance
 advance
 allow
 very
 river |  
-| bip_39_word_new_line7 | capable
+| bip_39_word_new_line_7 | capable
 balance
 advance
 allow
 very
 river
 swap |  
-| bip_39_word_new_line8 | capable
+| bip_39_word_new_line_8 | capable
 balance
 advance
 allow
@@ -113,7 +113,7 @@ very
 river
 swap
 satoshi |  
-| bip_39_word_new_line9 | capable
+| bip_39_word_new_line_9 | capable
 balance
 advance
 allow

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | amazing |  
-| bip_39_word_new_br10 | amazing<br>allow<br>web<br>nasty<br>bless<br>love<br>art<br>sick<br>rotate<br>dolphin |  
-| bip_39_word_new_br11 | amazing<br>allow<br>web<br>nasty<br>bless<br>love<br>art<br>sick<br>rotate<br>dolphin<br>marriage |  
-| bip_39_word_new_br12 | amazing<br>allow<br>web<br>nasty<br>bless<br>love<br>art<br>sick<br>rotate<br>dolphin<br>marriage<br>attract |  
-| bip_39_word_new_br2 | amazing<br>allow |  
-| bip_39_word_new_br3 | amazing<br>allow<br>web |  
-| bip_39_word_new_br4 | amazing<br>allow<br>web<br>nasty |  
-| bip_39_word_new_br5 | amazing<br>allow<br>web<br>nasty<br>bless |  
-| bip_39_word_new_br6 | amazing<br>allow<br>web<br>nasty<br>bless<br>love |  
-| bip_39_word_new_br7 | amazing<br>allow<br>web<br>nasty<br>bless<br>love<br>art |  
-| bip_39_word_new_br8 | amazing<br>allow<br>web<br>nasty<br>bless<br>love<br>art<br>sick |  
-| bip_39_word_new_br9 | amazing<br>allow<br>web<br>nasty<br>bless<br>love<br>art<br>sick<br>rotate |  
-| bip_39_word_new_line1 | amazing |  
-| bip_39_word_new_line10 | amazing
+| bip_39_word_new_br_1 | amazing |  
+| bip_39_word_new_br_10 | amazing<br>allow<br>web<br>nasty<br>bless<br>love<br>art<br>sick<br>rotate<br>dolphin |  
+| bip_39_word_new_br_11 | amazing<br>allow<br>web<br>nasty<br>bless<br>love<br>art<br>sick<br>rotate<br>dolphin<br>marriage |  
+| bip_39_word_new_br_12 | amazing<br>allow<br>web<br>nasty<br>bless<br>love<br>art<br>sick<br>rotate<br>dolphin<br>marriage<br>attract |  
+| bip_39_word_new_br_2 | amazing<br>allow |  
+| bip_39_word_new_br_3 | amazing<br>allow<br>web |  
+| bip_39_word_new_br_4 | amazing<br>allow<br>web<br>nasty |  
+| bip_39_word_new_br_5 | amazing<br>allow<br>web<br>nasty<br>bless |  
+| bip_39_word_new_br_6 | amazing<br>allow<br>web<br>nasty<br>bless<br>love |  
+| bip_39_word_new_br_7 | amazing<br>allow<br>web<br>nasty<br>bless<br>love<br>art |  
+| bip_39_word_new_br_8 | amazing<br>allow<br>web<br>nasty<br>bless<br>love<br>art<br>sick |  
+| bip_39_word_new_br_9 | amazing<br>allow<br>web<br>nasty<br>bless<br>love<br>art<br>sick<br>rotate |  
+| bip_39_word_new_line_1 | amazing |  
+| bip_39_word_new_line_10 | amazing
 allow
 web
 nasty
@@ -55,7 +55,7 @@ art
 sick
 rotate
 dolphin |  
-| bip_39_word_new_line11 | amazing
+| bip_39_word_new_line_11 | amazing
 allow
 web
 nasty
@@ -66,7 +66,7 @@ sick
 rotate
 dolphin
 marriage |  
-| bip_39_word_new_line12 | amazing
+| bip_39_word_new_line_12 | amazing
 allow
 web
 nasty
@@ -78,34 +78,34 @@ rotate
 dolphin
 marriage
 attract |  
-| bip_39_word_new_line2 | amazing
+| bip_39_word_new_line_2 | amazing
 allow |  
-| bip_39_word_new_line3 | amazing
+| bip_39_word_new_line_3 | amazing
 allow
 web |  
-| bip_39_word_new_line4 | amazing
+| bip_39_word_new_line_4 | amazing
 allow
 web
 nasty |  
-| bip_39_word_new_line5 | amazing
+| bip_39_word_new_line_5 | amazing
 allow
 web
 nasty
 bless |  
-| bip_39_word_new_line6 | amazing
+| bip_39_word_new_line_6 | amazing
 allow
 web
 nasty
 bless
 love |  
-| bip_39_word_new_line7 | amazing
+| bip_39_word_new_line_7 | amazing
 allow
 web
 nasty
 bless
 love
 art |  
-| bip_39_word_new_line8 | amazing
+| bip_39_word_new_line_8 | amazing
 allow
 web
 nasty
@@ -113,7 +113,7 @@ bless
 love
 art
 sick |  
-| bip_39_word_new_line9 | amazing
+| bip_39_word_new_line_9 | amazing
 allow
 web
 nasty

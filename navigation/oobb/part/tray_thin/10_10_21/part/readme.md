@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sample |  
-| bip_39_word_new_br10 | sample<br>buffalo<br>tooth<br>pluck<br>coin<br>staff<br>loop<br>easy<br>jelly<br>pear |  
-| bip_39_word_new_br11 | sample<br>buffalo<br>tooth<br>pluck<br>coin<br>staff<br>loop<br>easy<br>jelly<br>pear<br>twice |  
-| bip_39_word_new_br12 | sample<br>buffalo<br>tooth<br>pluck<br>coin<br>staff<br>loop<br>easy<br>jelly<br>pear<br>twice<br>arrow |  
-| bip_39_word_new_br2 | sample<br>buffalo |  
-| bip_39_word_new_br3 | sample<br>buffalo<br>tooth |  
-| bip_39_word_new_br4 | sample<br>buffalo<br>tooth<br>pluck |  
-| bip_39_word_new_br5 | sample<br>buffalo<br>tooth<br>pluck<br>coin |  
-| bip_39_word_new_br6 | sample<br>buffalo<br>tooth<br>pluck<br>coin<br>staff |  
-| bip_39_word_new_br7 | sample<br>buffalo<br>tooth<br>pluck<br>coin<br>staff<br>loop |  
-| bip_39_word_new_br8 | sample<br>buffalo<br>tooth<br>pluck<br>coin<br>staff<br>loop<br>easy |  
-| bip_39_word_new_br9 | sample<br>buffalo<br>tooth<br>pluck<br>coin<br>staff<br>loop<br>easy<br>jelly |  
-| bip_39_word_new_line1 | sample |  
-| bip_39_word_new_line10 | sample
+| bip_39_word_new_br_1 | sample |  
+| bip_39_word_new_br_10 | sample<br>buffalo<br>tooth<br>pluck<br>coin<br>staff<br>loop<br>easy<br>jelly<br>pear |  
+| bip_39_word_new_br_11 | sample<br>buffalo<br>tooth<br>pluck<br>coin<br>staff<br>loop<br>easy<br>jelly<br>pear<br>twice |  
+| bip_39_word_new_br_12 | sample<br>buffalo<br>tooth<br>pluck<br>coin<br>staff<br>loop<br>easy<br>jelly<br>pear<br>twice<br>arrow |  
+| bip_39_word_new_br_2 | sample<br>buffalo |  
+| bip_39_word_new_br_3 | sample<br>buffalo<br>tooth |  
+| bip_39_word_new_br_4 | sample<br>buffalo<br>tooth<br>pluck |  
+| bip_39_word_new_br_5 | sample<br>buffalo<br>tooth<br>pluck<br>coin |  
+| bip_39_word_new_br_6 | sample<br>buffalo<br>tooth<br>pluck<br>coin<br>staff |  
+| bip_39_word_new_br_7 | sample<br>buffalo<br>tooth<br>pluck<br>coin<br>staff<br>loop |  
+| bip_39_word_new_br_8 | sample<br>buffalo<br>tooth<br>pluck<br>coin<br>staff<br>loop<br>easy |  
+| bip_39_word_new_br_9 | sample<br>buffalo<br>tooth<br>pluck<br>coin<br>staff<br>loop<br>easy<br>jelly |  
+| bip_39_word_new_line_1 | sample |  
+| bip_39_word_new_line_10 | sample
 buffalo
 tooth
 pluck
@@ -55,7 +55,7 @@ loop
 easy
 jelly
 pear |  
-| bip_39_word_new_line11 | sample
+| bip_39_word_new_line_11 | sample
 buffalo
 tooth
 pluck
@@ -66,7 +66,7 @@ easy
 jelly
 pear
 twice |  
-| bip_39_word_new_line12 | sample
+| bip_39_word_new_line_12 | sample
 buffalo
 tooth
 pluck
@@ -78,34 +78,34 @@ jelly
 pear
 twice
 arrow |  
-| bip_39_word_new_line2 | sample
+| bip_39_word_new_line_2 | sample
 buffalo |  
-| bip_39_word_new_line3 | sample
+| bip_39_word_new_line_3 | sample
 buffalo
 tooth |  
-| bip_39_word_new_line4 | sample
+| bip_39_word_new_line_4 | sample
 buffalo
 tooth
 pluck |  
-| bip_39_word_new_line5 | sample
+| bip_39_word_new_line_5 | sample
 buffalo
 tooth
 pluck
 coin |  
-| bip_39_word_new_line6 | sample
+| bip_39_word_new_line_6 | sample
 buffalo
 tooth
 pluck
 coin
 staff |  
-| bip_39_word_new_line7 | sample
+| bip_39_word_new_line_7 | sample
 buffalo
 tooth
 pluck
 coin
 staff
 loop |  
-| bip_39_word_new_line8 | sample
+| bip_39_word_new_line_8 | sample
 buffalo
 tooth
 pluck
@@ -113,7 +113,7 @@ coin
 staff
 loop
 easy |  
-| bip_39_word_new_line9 | sample
+| bip_39_word_new_line_9 | sample
 buffalo
 tooth
 pluck

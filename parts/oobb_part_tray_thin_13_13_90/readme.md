@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | radar |  
-| bip_39_word_new_br10 | radar<br>broom<br>shift<br>practice<br>mushroom<br>echo<br>nature<br>work<br>faith<br>modify |  
-| bip_39_word_new_br11 | radar<br>broom<br>shift<br>practice<br>mushroom<br>echo<br>nature<br>work<br>faith<br>modify<br>game |  
-| bip_39_word_new_br12 | radar<br>broom<br>shift<br>practice<br>mushroom<br>echo<br>nature<br>work<br>faith<br>modify<br>game<br>almost |  
-| bip_39_word_new_br2 | radar<br>broom |  
-| bip_39_word_new_br3 | radar<br>broom<br>shift |  
-| bip_39_word_new_br4 | radar<br>broom<br>shift<br>practice |  
-| bip_39_word_new_br5 | radar<br>broom<br>shift<br>practice<br>mushroom |  
-| bip_39_word_new_br6 | radar<br>broom<br>shift<br>practice<br>mushroom<br>echo |  
-| bip_39_word_new_br7 | radar<br>broom<br>shift<br>practice<br>mushroom<br>echo<br>nature |  
-| bip_39_word_new_br8 | radar<br>broom<br>shift<br>practice<br>mushroom<br>echo<br>nature<br>work |  
-| bip_39_word_new_br9 | radar<br>broom<br>shift<br>practice<br>mushroom<br>echo<br>nature<br>work<br>faith |  
-| bip_39_word_new_line1 | radar |  
-| bip_39_word_new_line10 | radar
+| bip_39_word_new_br_1 | radar |  
+| bip_39_word_new_br_10 | radar<br>broom<br>shift<br>practice<br>mushroom<br>echo<br>nature<br>work<br>faith<br>modify |  
+| bip_39_word_new_br_11 | radar<br>broom<br>shift<br>practice<br>mushroom<br>echo<br>nature<br>work<br>faith<br>modify<br>game |  
+| bip_39_word_new_br_12 | radar<br>broom<br>shift<br>practice<br>mushroom<br>echo<br>nature<br>work<br>faith<br>modify<br>game<br>almost |  
+| bip_39_word_new_br_2 | radar<br>broom |  
+| bip_39_word_new_br_3 | radar<br>broom<br>shift |  
+| bip_39_word_new_br_4 | radar<br>broom<br>shift<br>practice |  
+| bip_39_word_new_br_5 | radar<br>broom<br>shift<br>practice<br>mushroom |  
+| bip_39_word_new_br_6 | radar<br>broom<br>shift<br>practice<br>mushroom<br>echo |  
+| bip_39_word_new_br_7 | radar<br>broom<br>shift<br>practice<br>mushroom<br>echo<br>nature |  
+| bip_39_word_new_br_8 | radar<br>broom<br>shift<br>practice<br>mushroom<br>echo<br>nature<br>work |  
+| bip_39_word_new_br_9 | radar<br>broom<br>shift<br>practice<br>mushroom<br>echo<br>nature<br>work<br>faith |  
+| bip_39_word_new_line_1 | radar |  
+| bip_39_word_new_line_10 | radar
 broom
 shift
 practice
@@ -55,7 +55,7 @@ nature
 work
 faith
 modify |  
-| bip_39_word_new_line11 | radar
+| bip_39_word_new_line_11 | radar
 broom
 shift
 practice
@@ -66,7 +66,7 @@ work
 faith
 modify
 game |  
-| bip_39_word_new_line12 | radar
+| bip_39_word_new_line_12 | radar
 broom
 shift
 practice
@@ -78,34 +78,34 @@ faith
 modify
 game
 almost |  
-| bip_39_word_new_line2 | radar
+| bip_39_word_new_line_2 | radar
 broom |  
-| bip_39_word_new_line3 | radar
+| bip_39_word_new_line_3 | radar
 broom
 shift |  
-| bip_39_word_new_line4 | radar
+| bip_39_word_new_line_4 | radar
 broom
 shift
 practice |  
-| bip_39_word_new_line5 | radar
+| bip_39_word_new_line_5 | radar
 broom
 shift
 practice
 mushroom |  
-| bip_39_word_new_line6 | radar
+| bip_39_word_new_line_6 | radar
 broom
 shift
 practice
 mushroom
 echo |  
-| bip_39_word_new_line7 | radar
+| bip_39_word_new_line_7 | radar
 broom
 shift
 practice
 mushroom
 echo
 nature |  
-| bip_39_word_new_line8 | radar
+| bip_39_word_new_line_8 | radar
 broom
 shift
 practice
@@ -113,7 +113,7 @@ mushroom
 echo
 nature
 work |  
-| bip_39_word_new_line9 | radar
+| bip_39_word_new_line_9 | radar
 broom
 shift
 practice

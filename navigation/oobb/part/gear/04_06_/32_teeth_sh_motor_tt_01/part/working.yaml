@@ -1,17 +1,17 @@
-bip_39_word_new_br1: palace
-bip_39_word_new_br10: palace<br>avoid<br>notable<br>twist<br>excite<br>sniff<br>prosper<br>daughter<br>snake<br>famous
-bip_39_word_new_br11: palace<br>avoid<br>notable<br>twist<br>excite<br>sniff<br>prosper<br>daughter<br>snake<br>famous<br>supply
-bip_39_word_new_br12: palace<br>avoid<br>notable<br>twist<br>excite<br>sniff<br>prosper<br>daughter<br>snake<br>famous<br>supply<br>alpha
-bip_39_word_new_br2: palace<br>avoid
-bip_39_word_new_br3: palace<br>avoid<br>notable
-bip_39_word_new_br4: palace<br>avoid<br>notable<br>twist
-bip_39_word_new_br5: palace<br>avoid<br>notable<br>twist<br>excite
-bip_39_word_new_br6: palace<br>avoid<br>notable<br>twist<br>excite<br>sniff
-bip_39_word_new_br7: palace<br>avoid<br>notable<br>twist<br>excite<br>sniff<br>prosper
-bip_39_word_new_br8: palace<br>avoid<br>notable<br>twist<br>excite<br>sniff<br>prosper<br>daughter
-bip_39_word_new_br9: palace<br>avoid<br>notable<br>twist<br>excite<br>sniff<br>prosper<br>daughter<br>snake
-bip_39_word_new_line1: palace
-bip_39_word_new_line10: 'palace
+bip_39_word_new_br_1: palace
+bip_39_word_new_br_10: palace<br>avoid<br>notable<br>twist<br>excite<br>sniff<br>prosper<br>daughter<br>snake<br>famous
+bip_39_word_new_br_11: palace<br>avoid<br>notable<br>twist<br>excite<br>sniff<br>prosper<br>daughter<br>snake<br>famous<br>supply
+bip_39_word_new_br_12: palace<br>avoid<br>notable<br>twist<br>excite<br>sniff<br>prosper<br>daughter<br>snake<br>famous<br>supply<br>alpha
+bip_39_word_new_br_2: palace<br>avoid
+bip_39_word_new_br_3: palace<br>avoid<br>notable
+bip_39_word_new_br_4: palace<br>avoid<br>notable<br>twist
+bip_39_word_new_br_5: palace<br>avoid<br>notable<br>twist<br>excite
+bip_39_word_new_br_6: palace<br>avoid<br>notable<br>twist<br>excite<br>sniff
+bip_39_word_new_br_7: palace<br>avoid<br>notable<br>twist<br>excite<br>sniff<br>prosper
+bip_39_word_new_br_8: palace<br>avoid<br>notable<br>twist<br>excite<br>sniff<br>prosper<br>daughter
+bip_39_word_new_br_9: palace<br>avoid<br>notable<br>twist<br>excite<br>sniff<br>prosper<br>daughter<br>snake
+bip_39_word_new_line_1: palace
+bip_39_word_new_line_10: 'palace
 
   avoid
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'palace
   snake
 
   famous'
-bip_39_word_new_line11: 'palace
+bip_39_word_new_line_11: 'palace
 
   avoid
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'palace
   famous
 
   supply'
-bip_39_word_new_line12: 'palace
+bip_39_word_new_line_12: 'palace
 
   avoid
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'palace
   supply
 
   alpha'
-bip_39_word_new_line2: 'palace
+bip_39_word_new_line_2: 'palace
 
   avoid'
-bip_39_word_new_line3: 'palace
+bip_39_word_new_line_3: 'palace
 
   avoid
 
   notable'
-bip_39_word_new_line4: 'palace
+bip_39_word_new_line_4: 'palace
 
   avoid
 
   notable
 
   twist'
-bip_39_word_new_line5: 'palace
+bip_39_word_new_line_5: 'palace
 
   avoid
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'palace
   twist
 
   excite'
-bip_39_word_new_line6: 'palace
+bip_39_word_new_line_6: 'palace
 
   avoid
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'palace
   excite
 
   sniff'
-bip_39_word_new_line7: 'palace
+bip_39_word_new_line_7: 'palace
 
   avoid
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'palace
   sniff
 
   prosper'
-bip_39_word_new_line8: 'palace
+bip_39_word_new_line_8: 'palace
 
   avoid
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'palace
   prosper
 
   daughter'
-bip_39_word_new_line9: 'palace
+bip_39_word_new_line_9: 'palace
 
   avoid
 

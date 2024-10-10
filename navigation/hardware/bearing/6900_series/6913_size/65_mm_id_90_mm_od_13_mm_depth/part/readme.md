@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | perfect |  
-| bip_39_word_new_br10 | perfect<br>scheme<br>again<br>play<br>noble<br>prepare<br>reopen<br>gasp<br>display<br>code |  
-| bip_39_word_new_br11 | perfect<br>scheme<br>again<br>play<br>noble<br>prepare<br>reopen<br>gasp<br>display<br>code<br>enable |  
-| bip_39_word_new_br12 | perfect<br>scheme<br>again<br>play<br>noble<br>prepare<br>reopen<br>gasp<br>display<br>code<br>enable<br>always |  
-| bip_39_word_new_br2 | perfect<br>scheme |  
-| bip_39_word_new_br3 | perfect<br>scheme<br>again |  
-| bip_39_word_new_br4 | perfect<br>scheme<br>again<br>play |  
-| bip_39_word_new_br5 | perfect<br>scheme<br>again<br>play<br>noble |  
-| bip_39_word_new_br6 | perfect<br>scheme<br>again<br>play<br>noble<br>prepare |  
-| bip_39_word_new_br7 | perfect<br>scheme<br>again<br>play<br>noble<br>prepare<br>reopen |  
-| bip_39_word_new_br8 | perfect<br>scheme<br>again<br>play<br>noble<br>prepare<br>reopen<br>gasp |  
-| bip_39_word_new_br9 | perfect<br>scheme<br>again<br>play<br>noble<br>prepare<br>reopen<br>gasp<br>display |  
-| bip_39_word_new_line1 | perfect |  
-| bip_39_word_new_line10 | perfect
+| bip_39_word_new_br_1 | perfect |  
+| bip_39_word_new_br_10 | perfect<br>scheme<br>again<br>play<br>noble<br>prepare<br>reopen<br>gasp<br>display<br>code |  
+| bip_39_word_new_br_11 | perfect<br>scheme<br>again<br>play<br>noble<br>prepare<br>reopen<br>gasp<br>display<br>code<br>enable |  
+| bip_39_word_new_br_12 | perfect<br>scheme<br>again<br>play<br>noble<br>prepare<br>reopen<br>gasp<br>display<br>code<br>enable<br>always |  
+| bip_39_word_new_br_2 | perfect<br>scheme |  
+| bip_39_word_new_br_3 | perfect<br>scheme<br>again |  
+| bip_39_word_new_br_4 | perfect<br>scheme<br>again<br>play |  
+| bip_39_word_new_br_5 | perfect<br>scheme<br>again<br>play<br>noble |  
+| bip_39_word_new_br_6 | perfect<br>scheme<br>again<br>play<br>noble<br>prepare |  
+| bip_39_word_new_br_7 | perfect<br>scheme<br>again<br>play<br>noble<br>prepare<br>reopen |  
+| bip_39_word_new_br_8 | perfect<br>scheme<br>again<br>play<br>noble<br>prepare<br>reopen<br>gasp |  
+| bip_39_word_new_br_9 | perfect<br>scheme<br>again<br>play<br>noble<br>prepare<br>reopen<br>gasp<br>display |  
+| bip_39_word_new_line_1 | perfect |  
+| bip_39_word_new_line_10 | perfect
 scheme
 again
 play
@@ -55,7 +55,7 @@ reopen
 gasp
 display
 code |  
-| bip_39_word_new_line11 | perfect
+| bip_39_word_new_line_11 | perfect
 scheme
 again
 play
@@ -66,7 +66,7 @@ gasp
 display
 code
 enable |  
-| bip_39_word_new_line12 | perfect
+| bip_39_word_new_line_12 | perfect
 scheme
 again
 play
@@ -78,34 +78,34 @@ display
 code
 enable
 always |  
-| bip_39_word_new_line2 | perfect
+| bip_39_word_new_line_2 | perfect
 scheme |  
-| bip_39_word_new_line3 | perfect
+| bip_39_word_new_line_3 | perfect
 scheme
 again |  
-| bip_39_word_new_line4 | perfect
+| bip_39_word_new_line_4 | perfect
 scheme
 again
 play |  
-| bip_39_word_new_line5 | perfect
+| bip_39_word_new_line_5 | perfect
 scheme
 again
 play
 noble |  
-| bip_39_word_new_line6 | perfect
+| bip_39_word_new_line_6 | perfect
 scheme
 again
 play
 noble
 prepare |  
-| bip_39_word_new_line7 | perfect
+| bip_39_word_new_line_7 | perfect
 scheme
 again
 play
 noble
 prepare
 reopen |  
-| bip_39_word_new_line8 | perfect
+| bip_39_word_new_line_8 | perfect
 scheme
 again
 play
@@ -113,7 +113,7 @@ noble
 prepare
 reopen
 gasp |  
-| bip_39_word_new_line9 | perfect
+| bip_39_word_new_line_9 | perfect
 scheme
 again
 play

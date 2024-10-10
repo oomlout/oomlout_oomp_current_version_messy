@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | bridge |  
-| bip_39_word_new_br10 | bridge<br>lady<br>verb<br>luggage<br>believe<br>piece<br>swamp<br>urge<br>float<br>buzz |  
-| bip_39_word_new_br11 | bridge<br>lady<br>verb<br>luggage<br>believe<br>piece<br>swamp<br>urge<br>float<br>buzz<br>action |  
-| bip_39_word_new_br12 | bridge<br>lady<br>verb<br>luggage<br>believe<br>piece<br>swamp<br>urge<br>float<br>buzz<br>action<br>advice |  
-| bip_39_word_new_br2 | bridge<br>lady |  
-| bip_39_word_new_br3 | bridge<br>lady<br>verb |  
-| bip_39_word_new_br4 | bridge<br>lady<br>verb<br>luggage |  
-| bip_39_word_new_br5 | bridge<br>lady<br>verb<br>luggage<br>believe |  
-| bip_39_word_new_br6 | bridge<br>lady<br>verb<br>luggage<br>believe<br>piece |  
-| bip_39_word_new_br7 | bridge<br>lady<br>verb<br>luggage<br>believe<br>piece<br>swamp |  
-| bip_39_word_new_br8 | bridge<br>lady<br>verb<br>luggage<br>believe<br>piece<br>swamp<br>urge |  
-| bip_39_word_new_br9 | bridge<br>lady<br>verb<br>luggage<br>believe<br>piece<br>swamp<br>urge<br>float |  
-| bip_39_word_new_line1 | bridge |  
-| bip_39_word_new_line10 | bridge
+| bip_39_word_new_br_1 | bridge |  
+| bip_39_word_new_br_10 | bridge<br>lady<br>verb<br>luggage<br>believe<br>piece<br>swamp<br>urge<br>float<br>buzz |  
+| bip_39_word_new_br_11 | bridge<br>lady<br>verb<br>luggage<br>believe<br>piece<br>swamp<br>urge<br>float<br>buzz<br>action |  
+| bip_39_word_new_br_12 | bridge<br>lady<br>verb<br>luggage<br>believe<br>piece<br>swamp<br>urge<br>float<br>buzz<br>action<br>advice |  
+| bip_39_word_new_br_2 | bridge<br>lady |  
+| bip_39_word_new_br_3 | bridge<br>lady<br>verb |  
+| bip_39_word_new_br_4 | bridge<br>lady<br>verb<br>luggage |  
+| bip_39_word_new_br_5 | bridge<br>lady<br>verb<br>luggage<br>believe |  
+| bip_39_word_new_br_6 | bridge<br>lady<br>verb<br>luggage<br>believe<br>piece |  
+| bip_39_word_new_br_7 | bridge<br>lady<br>verb<br>luggage<br>believe<br>piece<br>swamp |  
+| bip_39_word_new_br_8 | bridge<br>lady<br>verb<br>luggage<br>believe<br>piece<br>swamp<br>urge |  
+| bip_39_word_new_br_9 | bridge<br>lady<br>verb<br>luggage<br>believe<br>piece<br>swamp<br>urge<br>float |  
+| bip_39_word_new_line_1 | bridge |  
+| bip_39_word_new_line_10 | bridge
 lady
 verb
 luggage
@@ -55,7 +55,7 @@ swamp
 urge
 float
 buzz |  
-| bip_39_word_new_line11 | bridge
+| bip_39_word_new_line_11 | bridge
 lady
 verb
 luggage
@@ -66,7 +66,7 @@ urge
 float
 buzz
 action |  
-| bip_39_word_new_line12 | bridge
+| bip_39_word_new_line_12 | bridge
 lady
 verb
 luggage
@@ -78,34 +78,34 @@ float
 buzz
 action
 advice |  
-| bip_39_word_new_line2 | bridge
+| bip_39_word_new_line_2 | bridge
 lady |  
-| bip_39_word_new_line3 | bridge
+| bip_39_word_new_line_3 | bridge
 lady
 verb |  
-| bip_39_word_new_line4 | bridge
+| bip_39_word_new_line_4 | bridge
 lady
 verb
 luggage |  
-| bip_39_word_new_line5 | bridge
+| bip_39_word_new_line_5 | bridge
 lady
 verb
 luggage
 believe |  
-| bip_39_word_new_line6 | bridge
+| bip_39_word_new_line_6 | bridge
 lady
 verb
 luggage
 believe
 piece |  
-| bip_39_word_new_line7 | bridge
+| bip_39_word_new_line_7 | bridge
 lady
 verb
 luggage
 believe
 piece
 swamp |  
-| bip_39_word_new_line8 | bridge
+| bip_39_word_new_line_8 | bridge
 lady
 verb
 luggage
@@ -113,7 +113,7 @@ believe
 piece
 swamp
 urge |  
-| bip_39_word_new_line9 | bridge
+| bip_39_word_new_line_9 | bridge
 lady
 verb
 luggage

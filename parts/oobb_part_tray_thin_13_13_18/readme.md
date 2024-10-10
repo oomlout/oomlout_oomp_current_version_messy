@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | zoo |  
-| bip_39_word_new_br10 | zoo<br>display<br>nurse<br>skate<br>normal<br>own<br>often<br>ritual<br>stadium<br>celery |  
-| bip_39_word_new_br11 | zoo<br>display<br>nurse<br>skate<br>normal<br>own<br>often<br>ritual<br>stadium<br>celery<br>blur |  
-| bip_39_word_new_br12 | zoo<br>display<br>nurse<br>skate<br>normal<br>own<br>often<br>ritual<br>stadium<br>celery<br>blur<br>another |  
-| bip_39_word_new_br2 | zoo<br>display |  
-| bip_39_word_new_br3 | zoo<br>display<br>nurse |  
-| bip_39_word_new_br4 | zoo<br>display<br>nurse<br>skate |  
-| bip_39_word_new_br5 | zoo<br>display<br>nurse<br>skate<br>normal |  
-| bip_39_word_new_br6 | zoo<br>display<br>nurse<br>skate<br>normal<br>own |  
-| bip_39_word_new_br7 | zoo<br>display<br>nurse<br>skate<br>normal<br>own<br>often |  
-| bip_39_word_new_br8 | zoo<br>display<br>nurse<br>skate<br>normal<br>own<br>often<br>ritual |  
-| bip_39_word_new_br9 | zoo<br>display<br>nurse<br>skate<br>normal<br>own<br>often<br>ritual<br>stadium |  
-| bip_39_word_new_line1 | zoo |  
-| bip_39_word_new_line10 | zoo
+| bip_39_word_new_br_1 | zoo |  
+| bip_39_word_new_br_10 | zoo<br>display<br>nurse<br>skate<br>normal<br>own<br>often<br>ritual<br>stadium<br>celery |  
+| bip_39_word_new_br_11 | zoo<br>display<br>nurse<br>skate<br>normal<br>own<br>often<br>ritual<br>stadium<br>celery<br>blur |  
+| bip_39_word_new_br_12 | zoo<br>display<br>nurse<br>skate<br>normal<br>own<br>often<br>ritual<br>stadium<br>celery<br>blur<br>another |  
+| bip_39_word_new_br_2 | zoo<br>display |  
+| bip_39_word_new_br_3 | zoo<br>display<br>nurse |  
+| bip_39_word_new_br_4 | zoo<br>display<br>nurse<br>skate |  
+| bip_39_word_new_br_5 | zoo<br>display<br>nurse<br>skate<br>normal |  
+| bip_39_word_new_br_6 | zoo<br>display<br>nurse<br>skate<br>normal<br>own |  
+| bip_39_word_new_br_7 | zoo<br>display<br>nurse<br>skate<br>normal<br>own<br>often |  
+| bip_39_word_new_br_8 | zoo<br>display<br>nurse<br>skate<br>normal<br>own<br>often<br>ritual |  
+| bip_39_word_new_br_9 | zoo<br>display<br>nurse<br>skate<br>normal<br>own<br>often<br>ritual<br>stadium |  
+| bip_39_word_new_line_1 | zoo |  
+| bip_39_word_new_line_10 | zoo
 display
 nurse
 skate
@@ -55,7 +55,7 @@ often
 ritual
 stadium
 celery |  
-| bip_39_word_new_line11 | zoo
+| bip_39_word_new_line_11 | zoo
 display
 nurse
 skate
@@ -66,7 +66,7 @@ ritual
 stadium
 celery
 blur |  
-| bip_39_word_new_line12 | zoo
+| bip_39_word_new_line_12 | zoo
 display
 nurse
 skate
@@ -78,34 +78,34 @@ stadium
 celery
 blur
 another |  
-| bip_39_word_new_line2 | zoo
+| bip_39_word_new_line_2 | zoo
 display |  
-| bip_39_word_new_line3 | zoo
+| bip_39_word_new_line_3 | zoo
 display
 nurse |  
-| bip_39_word_new_line4 | zoo
+| bip_39_word_new_line_4 | zoo
 display
 nurse
 skate |  
-| bip_39_word_new_line5 | zoo
+| bip_39_word_new_line_5 | zoo
 display
 nurse
 skate
 normal |  
-| bip_39_word_new_line6 | zoo
+| bip_39_word_new_line_6 | zoo
 display
 nurse
 skate
 normal
 own |  
-| bip_39_word_new_line7 | zoo
+| bip_39_word_new_line_7 | zoo
 display
 nurse
 skate
 normal
 own
 often |  
-| bip_39_word_new_line8 | zoo
+| bip_39_word_new_line_8 | zoo
 display
 nurse
 skate
@@ -113,7 +113,7 @@ normal
 own
 often
 ritual |  
-| bip_39_word_new_line9 | zoo
+| bip_39_word_new_line_9 | zoo
 display
 nurse
 skate

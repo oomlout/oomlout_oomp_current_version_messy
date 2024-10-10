@@ -1,17 +1,17 @@
-bip_39_word_new_br1: cherry
-bip_39_word_new_br10: cherry<br>unfold<br>gospel<br>artefact<br>net<br>eight<br>narrow<br>juice<br>avocado<br>talent
-bip_39_word_new_br11: cherry<br>unfold<br>gospel<br>artefact<br>net<br>eight<br>narrow<br>juice<br>avocado<br>talent<br>craft
-bip_39_word_new_br12: cherry<br>unfold<br>gospel<br>artefact<br>net<br>eight<br>narrow<br>juice<br>avocado<br>talent<br>craft<br>argue
-bip_39_word_new_br2: cherry<br>unfold
-bip_39_word_new_br3: cherry<br>unfold<br>gospel
-bip_39_word_new_br4: cherry<br>unfold<br>gospel<br>artefact
-bip_39_word_new_br5: cherry<br>unfold<br>gospel<br>artefact<br>net
-bip_39_word_new_br6: cherry<br>unfold<br>gospel<br>artefact<br>net<br>eight
-bip_39_word_new_br7: cherry<br>unfold<br>gospel<br>artefact<br>net<br>eight<br>narrow
-bip_39_word_new_br8: cherry<br>unfold<br>gospel<br>artefact<br>net<br>eight<br>narrow<br>juice
-bip_39_word_new_br9: cherry<br>unfold<br>gospel<br>artefact<br>net<br>eight<br>narrow<br>juice<br>avocado
-bip_39_word_new_line1: cherry
-bip_39_word_new_line10: 'cherry
+bip_39_word_new_br_1: cherry
+bip_39_word_new_br_10: cherry<br>unfold<br>gospel<br>artefact<br>net<br>eight<br>narrow<br>juice<br>avocado<br>talent
+bip_39_word_new_br_11: cherry<br>unfold<br>gospel<br>artefact<br>net<br>eight<br>narrow<br>juice<br>avocado<br>talent<br>craft
+bip_39_word_new_br_12: cherry<br>unfold<br>gospel<br>artefact<br>net<br>eight<br>narrow<br>juice<br>avocado<br>talent<br>craft<br>argue
+bip_39_word_new_br_2: cherry<br>unfold
+bip_39_word_new_br_3: cherry<br>unfold<br>gospel
+bip_39_word_new_br_4: cherry<br>unfold<br>gospel<br>artefact
+bip_39_word_new_br_5: cherry<br>unfold<br>gospel<br>artefact<br>net
+bip_39_word_new_br_6: cherry<br>unfold<br>gospel<br>artefact<br>net<br>eight
+bip_39_word_new_br_7: cherry<br>unfold<br>gospel<br>artefact<br>net<br>eight<br>narrow
+bip_39_word_new_br_8: cherry<br>unfold<br>gospel<br>artefact<br>net<br>eight<br>narrow<br>juice
+bip_39_word_new_br_9: cherry<br>unfold<br>gospel<br>artefact<br>net<br>eight<br>narrow<br>juice<br>avocado
+bip_39_word_new_line_1: cherry
+bip_39_word_new_line_10: 'cherry
 
   unfold
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'cherry
   avocado
 
   talent'
-bip_39_word_new_line11: 'cherry
+bip_39_word_new_line_11: 'cherry
 
   unfold
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'cherry
   talent
 
   craft'
-bip_39_word_new_line12: 'cherry
+bip_39_word_new_line_12: 'cherry
 
   unfold
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'cherry
   craft
 
   argue'
-bip_39_word_new_line2: 'cherry
+bip_39_word_new_line_2: 'cherry
 
   unfold'
-bip_39_word_new_line3: 'cherry
+bip_39_word_new_line_3: 'cherry
 
   unfold
 
   gospel'
-bip_39_word_new_line4: 'cherry
+bip_39_word_new_line_4: 'cherry
 
   unfold
 
   gospel
 
   artefact'
-bip_39_word_new_line5: 'cherry
+bip_39_word_new_line_5: 'cherry
 
   unfold
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'cherry
   artefact
 
   net'
-bip_39_word_new_line6: 'cherry
+bip_39_word_new_line_6: 'cherry
 
   unfold
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'cherry
   net
 
   eight'
-bip_39_word_new_line7: 'cherry
+bip_39_word_new_line_7: 'cherry
 
   unfold
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'cherry
   eight
 
   narrow'
-bip_39_word_new_line8: 'cherry
+bip_39_word_new_line_8: 'cherry
 
   unfold
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'cherry
   narrow
 
   juice'
-bip_39_word_new_line9: 'cherry
+bip_39_word_new_line_9: 'cherry
 
   unfold
 

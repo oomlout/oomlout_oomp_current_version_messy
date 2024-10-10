@@ -1,17 +1,17 @@
-bip_39_word_new_br1: immune
-bip_39_word_new_br10: immune<br>minute<br>half<br>acid<br>minor<br>diet<br>dinosaur<br>matter<br>exhaust<br>poverty
-bip_39_word_new_br11: immune<br>minute<br>half<br>acid<br>minor<br>diet<br>dinosaur<br>matter<br>exhaust<br>poverty<br>cross
-bip_39_word_new_br12: immune<br>minute<br>half<br>acid<br>minor<br>diet<br>dinosaur<br>matter<br>exhaust<br>poverty<br>cross<br>amateur
-bip_39_word_new_br2: immune<br>minute
-bip_39_word_new_br3: immune<br>minute<br>half
-bip_39_word_new_br4: immune<br>minute<br>half<br>acid
-bip_39_word_new_br5: immune<br>minute<br>half<br>acid<br>minor
-bip_39_word_new_br6: immune<br>minute<br>half<br>acid<br>minor<br>diet
-bip_39_word_new_br7: immune<br>minute<br>half<br>acid<br>minor<br>diet<br>dinosaur
-bip_39_word_new_br8: immune<br>minute<br>half<br>acid<br>minor<br>diet<br>dinosaur<br>matter
-bip_39_word_new_br9: immune<br>minute<br>half<br>acid<br>minor<br>diet<br>dinosaur<br>matter<br>exhaust
-bip_39_word_new_line1: immune
-bip_39_word_new_line10: 'immune
+bip_39_word_new_br_1: immune
+bip_39_word_new_br_10: immune<br>minute<br>half<br>acid<br>minor<br>diet<br>dinosaur<br>matter<br>exhaust<br>poverty
+bip_39_word_new_br_11: immune<br>minute<br>half<br>acid<br>minor<br>diet<br>dinosaur<br>matter<br>exhaust<br>poverty<br>cross
+bip_39_word_new_br_12: immune<br>minute<br>half<br>acid<br>minor<br>diet<br>dinosaur<br>matter<br>exhaust<br>poverty<br>cross<br>amateur
+bip_39_word_new_br_2: immune<br>minute
+bip_39_word_new_br_3: immune<br>minute<br>half
+bip_39_word_new_br_4: immune<br>minute<br>half<br>acid
+bip_39_word_new_br_5: immune<br>minute<br>half<br>acid<br>minor
+bip_39_word_new_br_6: immune<br>minute<br>half<br>acid<br>minor<br>diet
+bip_39_word_new_br_7: immune<br>minute<br>half<br>acid<br>minor<br>diet<br>dinosaur
+bip_39_word_new_br_8: immune<br>minute<br>half<br>acid<br>minor<br>diet<br>dinosaur<br>matter
+bip_39_word_new_br_9: immune<br>minute<br>half<br>acid<br>minor<br>diet<br>dinosaur<br>matter<br>exhaust
+bip_39_word_new_line_1: immune
+bip_39_word_new_line_10: 'immune
 
   minute
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'immune
   exhaust
 
   poverty'
-bip_39_word_new_line11: 'immune
+bip_39_word_new_line_11: 'immune
 
   minute
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'immune
   poverty
 
   cross'
-bip_39_word_new_line12: 'immune
+bip_39_word_new_line_12: 'immune
 
   minute
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'immune
   cross
 
   amateur'
-bip_39_word_new_line2: 'immune
+bip_39_word_new_line_2: 'immune
 
   minute'
-bip_39_word_new_line3: 'immune
+bip_39_word_new_line_3: 'immune
 
   minute
 
   half'
-bip_39_word_new_line4: 'immune
+bip_39_word_new_line_4: 'immune
 
   minute
 
   half
 
   acid'
-bip_39_word_new_line5: 'immune
+bip_39_word_new_line_5: 'immune
 
   minute
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'immune
   acid
 
   minor'
-bip_39_word_new_line6: 'immune
+bip_39_word_new_line_6: 'immune
 
   minute
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'immune
   minor
 
   diet'
-bip_39_word_new_line7: 'immune
+bip_39_word_new_line_7: 'immune
 
   minute
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'immune
   diet
 
   dinosaur'
-bip_39_word_new_line8: 'immune
+bip_39_word_new_line_8: 'immune
 
   minute
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'immune
   dinosaur
 
   matter'
-bip_39_word_new_line9: 'immune
+bip_39_word_new_line_9: 'immune
 
   minute
 

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | sell |  
-| bip_39_word_new_br10 | sell<br>limit<br>diesel<br>depend<br>faint<br>chat<br>donor<br>turtle<br>good<br>galaxy |  
-| bip_39_word_new_br11 | sell<br>limit<br>diesel<br>depend<br>faint<br>chat<br>donor<br>turtle<br>good<br>galaxy<br>fine |  
-| bip_39_word_new_br12 | sell<br>limit<br>diesel<br>depend<br>faint<br>chat<br>donor<br>turtle<br>good<br>galaxy<br>fine<br>alley |  
-| bip_39_word_new_br2 | sell<br>limit |  
-| bip_39_word_new_br3 | sell<br>limit<br>diesel |  
-| bip_39_word_new_br4 | sell<br>limit<br>diesel<br>depend |  
-| bip_39_word_new_br5 | sell<br>limit<br>diesel<br>depend<br>faint |  
-| bip_39_word_new_br6 | sell<br>limit<br>diesel<br>depend<br>faint<br>chat |  
-| bip_39_word_new_br7 | sell<br>limit<br>diesel<br>depend<br>faint<br>chat<br>donor |  
-| bip_39_word_new_br8 | sell<br>limit<br>diesel<br>depend<br>faint<br>chat<br>donor<br>turtle |  
-| bip_39_word_new_br9 | sell<br>limit<br>diesel<br>depend<br>faint<br>chat<br>donor<br>turtle<br>good |  
-| bip_39_word_new_line1 | sell |  
-| bip_39_word_new_line10 | sell
+| bip_39_word_new_br_1 | sell |  
+| bip_39_word_new_br_10 | sell<br>limit<br>diesel<br>depend<br>faint<br>chat<br>donor<br>turtle<br>good<br>galaxy |  
+| bip_39_word_new_br_11 | sell<br>limit<br>diesel<br>depend<br>faint<br>chat<br>donor<br>turtle<br>good<br>galaxy<br>fine |  
+| bip_39_word_new_br_12 | sell<br>limit<br>diesel<br>depend<br>faint<br>chat<br>donor<br>turtle<br>good<br>galaxy<br>fine<br>alley |  
+| bip_39_word_new_br_2 | sell<br>limit |  
+| bip_39_word_new_br_3 | sell<br>limit<br>diesel |  
+| bip_39_word_new_br_4 | sell<br>limit<br>diesel<br>depend |  
+| bip_39_word_new_br_5 | sell<br>limit<br>diesel<br>depend<br>faint |  
+| bip_39_word_new_br_6 | sell<br>limit<br>diesel<br>depend<br>faint<br>chat |  
+| bip_39_word_new_br_7 | sell<br>limit<br>diesel<br>depend<br>faint<br>chat<br>donor |  
+| bip_39_word_new_br_8 | sell<br>limit<br>diesel<br>depend<br>faint<br>chat<br>donor<br>turtle |  
+| bip_39_word_new_br_9 | sell<br>limit<br>diesel<br>depend<br>faint<br>chat<br>donor<br>turtle<br>good |  
+| bip_39_word_new_line_1 | sell |  
+| bip_39_word_new_line_10 | sell
 limit
 diesel
 depend
@@ -55,7 +55,7 @@ donor
 turtle
 good
 galaxy |  
-| bip_39_word_new_line11 | sell
+| bip_39_word_new_line_11 | sell
 limit
 diesel
 depend
@@ -66,7 +66,7 @@ turtle
 good
 galaxy
 fine |  
-| bip_39_word_new_line12 | sell
+| bip_39_word_new_line_12 | sell
 limit
 diesel
 depend
@@ -78,34 +78,34 @@ good
 galaxy
 fine
 alley |  
-| bip_39_word_new_line2 | sell
+| bip_39_word_new_line_2 | sell
 limit |  
-| bip_39_word_new_line3 | sell
+| bip_39_word_new_line_3 | sell
 limit
 diesel |  
-| bip_39_word_new_line4 | sell
+| bip_39_word_new_line_4 | sell
 limit
 diesel
 depend |  
-| bip_39_word_new_line5 | sell
+| bip_39_word_new_line_5 | sell
 limit
 diesel
 depend
 faint |  
-| bip_39_word_new_line6 | sell
+| bip_39_word_new_line_6 | sell
 limit
 diesel
 depend
 faint
 chat |  
-| bip_39_word_new_line7 | sell
+| bip_39_word_new_line_7 | sell
 limit
 diesel
 depend
 faint
 chat
 donor |  
-| bip_39_word_new_line8 | sell
+| bip_39_word_new_line_8 | sell
 limit
 diesel
 depend
@@ -113,7 +113,7 @@ faint
 chat
 donor
 turtle |  
-| bip_39_word_new_line9 | sell
+| bip_39_word_new_line_9 | sell
 limit
 diesel
 depend

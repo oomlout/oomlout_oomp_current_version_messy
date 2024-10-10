@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | weapon |  
-| bip_39_word_new_br10 | weapon<br>crane<br>misery<br>side<br>visual<br>boring<br>party<br>episode<br>ancient<br>first |  
-| bip_39_word_new_br11 | weapon<br>crane<br>misery<br>side<br>visual<br>boring<br>party<br>episode<br>ancient<br>first<br>unveil |  
-| bip_39_word_new_br12 | weapon<br>crane<br>misery<br>side<br>visual<br>boring<br>party<br>episode<br>ancient<br>first<br>unveil<br>admit |  
-| bip_39_word_new_br2 | weapon<br>crane |  
-| bip_39_word_new_br3 | weapon<br>crane<br>misery |  
-| bip_39_word_new_br4 | weapon<br>crane<br>misery<br>side |  
-| bip_39_word_new_br5 | weapon<br>crane<br>misery<br>side<br>visual |  
-| bip_39_word_new_br6 | weapon<br>crane<br>misery<br>side<br>visual<br>boring |  
-| bip_39_word_new_br7 | weapon<br>crane<br>misery<br>side<br>visual<br>boring<br>party |  
-| bip_39_word_new_br8 | weapon<br>crane<br>misery<br>side<br>visual<br>boring<br>party<br>episode |  
-| bip_39_word_new_br9 | weapon<br>crane<br>misery<br>side<br>visual<br>boring<br>party<br>episode<br>ancient |  
-| bip_39_word_new_line1 | weapon |  
-| bip_39_word_new_line10 | weapon
+| bip_39_word_new_br_1 | weapon |  
+| bip_39_word_new_br_10 | weapon<br>crane<br>misery<br>side<br>visual<br>boring<br>party<br>episode<br>ancient<br>first |  
+| bip_39_word_new_br_11 | weapon<br>crane<br>misery<br>side<br>visual<br>boring<br>party<br>episode<br>ancient<br>first<br>unveil |  
+| bip_39_word_new_br_12 | weapon<br>crane<br>misery<br>side<br>visual<br>boring<br>party<br>episode<br>ancient<br>first<br>unveil<br>admit |  
+| bip_39_word_new_br_2 | weapon<br>crane |  
+| bip_39_word_new_br_3 | weapon<br>crane<br>misery |  
+| bip_39_word_new_br_4 | weapon<br>crane<br>misery<br>side |  
+| bip_39_word_new_br_5 | weapon<br>crane<br>misery<br>side<br>visual |  
+| bip_39_word_new_br_6 | weapon<br>crane<br>misery<br>side<br>visual<br>boring |  
+| bip_39_word_new_br_7 | weapon<br>crane<br>misery<br>side<br>visual<br>boring<br>party |  
+| bip_39_word_new_br_8 | weapon<br>crane<br>misery<br>side<br>visual<br>boring<br>party<br>episode |  
+| bip_39_word_new_br_9 | weapon<br>crane<br>misery<br>side<br>visual<br>boring<br>party<br>episode<br>ancient |  
+| bip_39_word_new_line_1 | weapon |  
+| bip_39_word_new_line_10 | weapon
 crane
 misery
 side
@@ -55,7 +55,7 @@ party
 episode
 ancient
 first |  
-| bip_39_word_new_line11 | weapon
+| bip_39_word_new_line_11 | weapon
 crane
 misery
 side
@@ -66,7 +66,7 @@ episode
 ancient
 first
 unveil |  
-| bip_39_word_new_line12 | weapon
+| bip_39_word_new_line_12 | weapon
 crane
 misery
 side
@@ -78,34 +78,34 @@ ancient
 first
 unveil
 admit |  
-| bip_39_word_new_line2 | weapon
+| bip_39_word_new_line_2 | weapon
 crane |  
-| bip_39_word_new_line3 | weapon
+| bip_39_word_new_line_3 | weapon
 crane
 misery |  
-| bip_39_word_new_line4 | weapon
+| bip_39_word_new_line_4 | weapon
 crane
 misery
 side |  
-| bip_39_word_new_line5 | weapon
+| bip_39_word_new_line_5 | weapon
 crane
 misery
 side
 visual |  
-| bip_39_word_new_line6 | weapon
+| bip_39_word_new_line_6 | weapon
 crane
 misery
 side
 visual
 boring |  
-| bip_39_word_new_line7 | weapon
+| bip_39_word_new_line_7 | weapon
 crane
 misery
 side
 visual
 boring
 party |  
-| bip_39_word_new_line8 | weapon
+| bip_39_word_new_line_8 | weapon
 crane
 misery
 side
@@ -113,7 +113,7 @@ visual
 boring
 party
 episode |  
-| bip_39_word_new_line9 | weapon
+| bip_39_word_new_line_9 | weapon
 crane
 misery
 side

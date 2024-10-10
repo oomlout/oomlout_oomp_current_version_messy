@@ -1,17 +1,17 @@
-bip_39_word_new_br1: hand
-bip_39_word_new_br10: hand<br>buddy<br>acquire<br>happy<br>satisfy<br>near<br>butter<br>adult<br>spray<br>elder
-bip_39_word_new_br11: hand<br>buddy<br>acquire<br>happy<br>satisfy<br>near<br>butter<br>adult<br>spray<br>elder<br>appear
-bip_39_word_new_br12: hand<br>buddy<br>acquire<br>happy<br>satisfy<br>near<br>butter<br>adult<br>spray<br>elder<br>appear<br>adjust
-bip_39_word_new_br2: hand<br>buddy
-bip_39_word_new_br3: hand<br>buddy<br>acquire
-bip_39_word_new_br4: hand<br>buddy<br>acquire<br>happy
-bip_39_word_new_br5: hand<br>buddy<br>acquire<br>happy<br>satisfy
-bip_39_word_new_br6: hand<br>buddy<br>acquire<br>happy<br>satisfy<br>near
-bip_39_word_new_br7: hand<br>buddy<br>acquire<br>happy<br>satisfy<br>near<br>butter
-bip_39_word_new_br8: hand<br>buddy<br>acquire<br>happy<br>satisfy<br>near<br>butter<br>adult
-bip_39_word_new_br9: hand<br>buddy<br>acquire<br>happy<br>satisfy<br>near<br>butter<br>adult<br>spray
-bip_39_word_new_line1: hand
-bip_39_word_new_line10: 'hand
+bip_39_word_new_br_1: hand
+bip_39_word_new_br_10: hand<br>buddy<br>acquire<br>happy<br>satisfy<br>near<br>butter<br>adult<br>spray<br>elder
+bip_39_word_new_br_11: hand<br>buddy<br>acquire<br>happy<br>satisfy<br>near<br>butter<br>adult<br>spray<br>elder<br>appear
+bip_39_word_new_br_12: hand<br>buddy<br>acquire<br>happy<br>satisfy<br>near<br>butter<br>adult<br>spray<br>elder<br>appear<br>adjust
+bip_39_word_new_br_2: hand<br>buddy
+bip_39_word_new_br_3: hand<br>buddy<br>acquire
+bip_39_word_new_br_4: hand<br>buddy<br>acquire<br>happy
+bip_39_word_new_br_5: hand<br>buddy<br>acquire<br>happy<br>satisfy
+bip_39_word_new_br_6: hand<br>buddy<br>acquire<br>happy<br>satisfy<br>near
+bip_39_word_new_br_7: hand<br>buddy<br>acquire<br>happy<br>satisfy<br>near<br>butter
+bip_39_word_new_br_8: hand<br>buddy<br>acquire<br>happy<br>satisfy<br>near<br>butter<br>adult
+bip_39_word_new_br_9: hand<br>buddy<br>acquire<br>happy<br>satisfy<br>near<br>butter<br>adult<br>spray
+bip_39_word_new_line_1: hand
+bip_39_word_new_line_10: 'hand
 
   buddy
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'hand
   spray
 
   elder'
-bip_39_word_new_line11: 'hand
+bip_39_word_new_line_11: 'hand
 
   buddy
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'hand
   elder
 
   appear'
-bip_39_word_new_line12: 'hand
+bip_39_word_new_line_12: 'hand
 
   buddy
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'hand
   appear
 
   adjust'
-bip_39_word_new_line2: 'hand
+bip_39_word_new_line_2: 'hand
 
   buddy'
-bip_39_word_new_line3: 'hand
+bip_39_word_new_line_3: 'hand
 
   buddy
 
   acquire'
-bip_39_word_new_line4: 'hand
+bip_39_word_new_line_4: 'hand
 
   buddy
 
   acquire
 
   happy'
-bip_39_word_new_line5: 'hand
+bip_39_word_new_line_5: 'hand
 
   buddy
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'hand
   happy
 
   satisfy'
-bip_39_word_new_line6: 'hand
+bip_39_word_new_line_6: 'hand
 
   buddy
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'hand
   satisfy
 
   near'
-bip_39_word_new_line7: 'hand
+bip_39_word_new_line_7: 'hand
 
   buddy
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'hand
   near
 
   butter'
-bip_39_word_new_line8: 'hand
+bip_39_word_new_line_8: 'hand
 
   buddy
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'hand
   butter
 
   adult'
-bip_39_word_new_line9: 'hand
+bip_39_word_new_line_9: 'hand
 
   buddy
 

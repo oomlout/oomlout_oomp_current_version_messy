@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | predict |  
-| bip_39_word_new_br10 | predict<br>easily<br>exchange<br>soft<br>reunion<br>coin<br>circle<br>frog<br>crowd<br>seek |  
-| bip_39_word_new_br11 | predict<br>easily<br>exchange<br>soft<br>reunion<br>coin<br>circle<br>frog<br>crowd<br>seek<br>provide |  
-| bip_39_word_new_br12 | predict<br>easily<br>exchange<br>soft<br>reunion<br>coin<br>circle<br>frog<br>crowd<br>seek<br>provide<br>armor |  
-| bip_39_word_new_br2 | predict<br>easily |  
-| bip_39_word_new_br3 | predict<br>easily<br>exchange |  
-| bip_39_word_new_br4 | predict<br>easily<br>exchange<br>soft |  
-| bip_39_word_new_br5 | predict<br>easily<br>exchange<br>soft<br>reunion |  
-| bip_39_word_new_br6 | predict<br>easily<br>exchange<br>soft<br>reunion<br>coin |  
-| bip_39_word_new_br7 | predict<br>easily<br>exchange<br>soft<br>reunion<br>coin<br>circle |  
-| bip_39_word_new_br8 | predict<br>easily<br>exchange<br>soft<br>reunion<br>coin<br>circle<br>frog |  
-| bip_39_word_new_br9 | predict<br>easily<br>exchange<br>soft<br>reunion<br>coin<br>circle<br>frog<br>crowd |  
-| bip_39_word_new_line1 | predict |  
-| bip_39_word_new_line10 | predict
+| bip_39_word_new_br_1 | predict |  
+| bip_39_word_new_br_10 | predict<br>easily<br>exchange<br>soft<br>reunion<br>coin<br>circle<br>frog<br>crowd<br>seek |  
+| bip_39_word_new_br_11 | predict<br>easily<br>exchange<br>soft<br>reunion<br>coin<br>circle<br>frog<br>crowd<br>seek<br>provide |  
+| bip_39_word_new_br_12 | predict<br>easily<br>exchange<br>soft<br>reunion<br>coin<br>circle<br>frog<br>crowd<br>seek<br>provide<br>armor |  
+| bip_39_word_new_br_2 | predict<br>easily |  
+| bip_39_word_new_br_3 | predict<br>easily<br>exchange |  
+| bip_39_word_new_br_4 | predict<br>easily<br>exchange<br>soft |  
+| bip_39_word_new_br_5 | predict<br>easily<br>exchange<br>soft<br>reunion |  
+| bip_39_word_new_br_6 | predict<br>easily<br>exchange<br>soft<br>reunion<br>coin |  
+| bip_39_word_new_br_7 | predict<br>easily<br>exchange<br>soft<br>reunion<br>coin<br>circle |  
+| bip_39_word_new_br_8 | predict<br>easily<br>exchange<br>soft<br>reunion<br>coin<br>circle<br>frog |  
+| bip_39_word_new_br_9 | predict<br>easily<br>exchange<br>soft<br>reunion<br>coin<br>circle<br>frog<br>crowd |  
+| bip_39_word_new_line_1 | predict |  
+| bip_39_word_new_line_10 | predict
 easily
 exchange
 soft
@@ -55,7 +55,7 @@ circle
 frog
 crowd
 seek |  
-| bip_39_word_new_line11 | predict
+| bip_39_word_new_line_11 | predict
 easily
 exchange
 soft
@@ -66,7 +66,7 @@ frog
 crowd
 seek
 provide |  
-| bip_39_word_new_line12 | predict
+| bip_39_word_new_line_12 | predict
 easily
 exchange
 soft
@@ -78,34 +78,34 @@ crowd
 seek
 provide
 armor |  
-| bip_39_word_new_line2 | predict
+| bip_39_word_new_line_2 | predict
 easily |  
-| bip_39_word_new_line3 | predict
+| bip_39_word_new_line_3 | predict
 easily
 exchange |  
-| bip_39_word_new_line4 | predict
+| bip_39_word_new_line_4 | predict
 easily
 exchange
 soft |  
-| bip_39_word_new_line5 | predict
+| bip_39_word_new_line_5 | predict
 easily
 exchange
 soft
 reunion |  
-| bip_39_word_new_line6 | predict
+| bip_39_word_new_line_6 | predict
 easily
 exchange
 soft
 reunion
 coin |  
-| bip_39_word_new_line7 | predict
+| bip_39_word_new_line_7 | predict
 easily
 exchange
 soft
 reunion
 coin
 circle |  
-| bip_39_word_new_line8 | predict
+| bip_39_word_new_line_8 | predict
 easily
 exchange
 soft
@@ -113,7 +113,7 @@ reunion
 coin
 circle
 frog |  
-| bip_39_word_new_line9 | predict
+| bip_39_word_new_line_9 | predict
 easily
 exchange
 soft

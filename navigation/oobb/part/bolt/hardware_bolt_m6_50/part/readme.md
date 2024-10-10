@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | arrest |  
-| bip_39_word_new_br10 | arrest<br>steel<br>half<br>sound<br>globe<br>believe<br>arena<br>enrich<br>private<br>educate |  
-| bip_39_word_new_br11 | arrest<br>steel<br>half<br>sound<br>globe<br>believe<br>arena<br>enrich<br>private<br>educate<br>panic |  
-| bip_39_word_new_br12 | arrest<br>steel<br>half<br>sound<br>globe<br>believe<br>arena<br>enrich<br>private<br>educate<br>panic<br>angry |  
-| bip_39_word_new_br2 | arrest<br>steel |  
-| bip_39_word_new_br3 | arrest<br>steel<br>half |  
-| bip_39_word_new_br4 | arrest<br>steel<br>half<br>sound |  
-| bip_39_word_new_br5 | arrest<br>steel<br>half<br>sound<br>globe |  
-| bip_39_word_new_br6 | arrest<br>steel<br>half<br>sound<br>globe<br>believe |  
-| bip_39_word_new_br7 | arrest<br>steel<br>half<br>sound<br>globe<br>believe<br>arena |  
-| bip_39_word_new_br8 | arrest<br>steel<br>half<br>sound<br>globe<br>believe<br>arena<br>enrich |  
-| bip_39_word_new_br9 | arrest<br>steel<br>half<br>sound<br>globe<br>believe<br>arena<br>enrich<br>private |  
-| bip_39_word_new_line1 | arrest |  
-| bip_39_word_new_line10 | arrest
+| bip_39_word_new_br_1 | arrest |  
+| bip_39_word_new_br_10 | arrest<br>steel<br>half<br>sound<br>globe<br>believe<br>arena<br>enrich<br>private<br>educate |  
+| bip_39_word_new_br_11 | arrest<br>steel<br>half<br>sound<br>globe<br>believe<br>arena<br>enrich<br>private<br>educate<br>panic |  
+| bip_39_word_new_br_12 | arrest<br>steel<br>half<br>sound<br>globe<br>believe<br>arena<br>enrich<br>private<br>educate<br>panic<br>angry |  
+| bip_39_word_new_br_2 | arrest<br>steel |  
+| bip_39_word_new_br_3 | arrest<br>steel<br>half |  
+| bip_39_word_new_br_4 | arrest<br>steel<br>half<br>sound |  
+| bip_39_word_new_br_5 | arrest<br>steel<br>half<br>sound<br>globe |  
+| bip_39_word_new_br_6 | arrest<br>steel<br>half<br>sound<br>globe<br>believe |  
+| bip_39_word_new_br_7 | arrest<br>steel<br>half<br>sound<br>globe<br>believe<br>arena |  
+| bip_39_word_new_br_8 | arrest<br>steel<br>half<br>sound<br>globe<br>believe<br>arena<br>enrich |  
+| bip_39_word_new_br_9 | arrest<br>steel<br>half<br>sound<br>globe<br>believe<br>arena<br>enrich<br>private |  
+| bip_39_word_new_line_1 | arrest |  
+| bip_39_word_new_line_10 | arrest
 steel
 half
 sound
@@ -55,7 +55,7 @@ arena
 enrich
 private
 educate |  
-| bip_39_word_new_line11 | arrest
+| bip_39_word_new_line_11 | arrest
 steel
 half
 sound
@@ -66,7 +66,7 @@ enrich
 private
 educate
 panic |  
-| bip_39_word_new_line12 | arrest
+| bip_39_word_new_line_12 | arrest
 steel
 half
 sound
@@ -78,34 +78,34 @@ private
 educate
 panic
 angry |  
-| bip_39_word_new_line2 | arrest
+| bip_39_word_new_line_2 | arrest
 steel |  
-| bip_39_word_new_line3 | arrest
+| bip_39_word_new_line_3 | arrest
 steel
 half |  
-| bip_39_word_new_line4 | arrest
+| bip_39_word_new_line_4 | arrest
 steel
 half
 sound |  
-| bip_39_word_new_line5 | arrest
+| bip_39_word_new_line_5 | arrest
 steel
 half
 sound
 globe |  
-| bip_39_word_new_line6 | arrest
+| bip_39_word_new_line_6 | arrest
 steel
 half
 sound
 globe
 believe |  
-| bip_39_word_new_line7 | arrest
+| bip_39_word_new_line_7 | arrest
 steel
 half
 sound
 globe
 believe
 arena |  
-| bip_39_word_new_line8 | arrest
+| bip_39_word_new_line_8 | arrest
 steel
 half
 sound
@@ -113,7 +113,7 @@ globe
 believe
 arena
 enrich |  
-| bip_39_word_new_line9 | arrest
+| bip_39_word_new_line_9 | arrest
 steel
 half
 sound

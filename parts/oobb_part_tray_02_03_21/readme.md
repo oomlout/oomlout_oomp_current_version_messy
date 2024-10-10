@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | dawn |  
-| bip_39_word_new_br10 | dawn<br>super<br>cliff<br>kiss<br>there<br>inflict<br>wreck<br>salmon<br>mesh<br>mesh |  
-| bip_39_word_new_br11 | dawn<br>super<br>cliff<br>kiss<br>there<br>inflict<br>wreck<br>salmon<br>mesh<br>mesh<br>pepper |  
-| bip_39_word_new_br12 | dawn<br>super<br>cliff<br>kiss<br>there<br>inflict<br>wreck<br>salmon<br>mesh<br>mesh<br>pepper<br>already |  
-| bip_39_word_new_br2 | dawn<br>super |  
-| bip_39_word_new_br3 | dawn<br>super<br>cliff |  
-| bip_39_word_new_br4 | dawn<br>super<br>cliff<br>kiss |  
-| bip_39_word_new_br5 | dawn<br>super<br>cliff<br>kiss<br>there |  
-| bip_39_word_new_br6 | dawn<br>super<br>cliff<br>kiss<br>there<br>inflict |  
-| bip_39_word_new_br7 | dawn<br>super<br>cliff<br>kiss<br>there<br>inflict<br>wreck |  
-| bip_39_word_new_br8 | dawn<br>super<br>cliff<br>kiss<br>there<br>inflict<br>wreck<br>salmon |  
-| bip_39_word_new_br9 | dawn<br>super<br>cliff<br>kiss<br>there<br>inflict<br>wreck<br>salmon<br>mesh |  
-| bip_39_word_new_line1 | dawn |  
-| bip_39_word_new_line10 | dawn
+| bip_39_word_new_br_1 | dawn |  
+| bip_39_word_new_br_10 | dawn<br>super<br>cliff<br>kiss<br>there<br>inflict<br>wreck<br>salmon<br>mesh<br>mesh |  
+| bip_39_word_new_br_11 | dawn<br>super<br>cliff<br>kiss<br>there<br>inflict<br>wreck<br>salmon<br>mesh<br>mesh<br>pepper |  
+| bip_39_word_new_br_12 | dawn<br>super<br>cliff<br>kiss<br>there<br>inflict<br>wreck<br>salmon<br>mesh<br>mesh<br>pepper<br>already |  
+| bip_39_word_new_br_2 | dawn<br>super |  
+| bip_39_word_new_br_3 | dawn<br>super<br>cliff |  
+| bip_39_word_new_br_4 | dawn<br>super<br>cliff<br>kiss |  
+| bip_39_word_new_br_5 | dawn<br>super<br>cliff<br>kiss<br>there |  
+| bip_39_word_new_br_6 | dawn<br>super<br>cliff<br>kiss<br>there<br>inflict |  
+| bip_39_word_new_br_7 | dawn<br>super<br>cliff<br>kiss<br>there<br>inflict<br>wreck |  
+| bip_39_word_new_br_8 | dawn<br>super<br>cliff<br>kiss<br>there<br>inflict<br>wreck<br>salmon |  
+| bip_39_word_new_br_9 | dawn<br>super<br>cliff<br>kiss<br>there<br>inflict<br>wreck<br>salmon<br>mesh |  
+| bip_39_word_new_line_1 | dawn |  
+| bip_39_word_new_line_10 | dawn
 super
 cliff
 kiss
@@ -55,7 +55,7 @@ wreck
 salmon
 mesh
 mesh |  
-| bip_39_word_new_line11 | dawn
+| bip_39_word_new_line_11 | dawn
 super
 cliff
 kiss
@@ -66,7 +66,7 @@ salmon
 mesh
 mesh
 pepper |  
-| bip_39_word_new_line12 | dawn
+| bip_39_word_new_line_12 | dawn
 super
 cliff
 kiss
@@ -78,34 +78,34 @@ mesh
 mesh
 pepper
 already |  
-| bip_39_word_new_line2 | dawn
+| bip_39_word_new_line_2 | dawn
 super |  
-| bip_39_word_new_line3 | dawn
+| bip_39_word_new_line_3 | dawn
 super
 cliff |  
-| bip_39_word_new_line4 | dawn
+| bip_39_word_new_line_4 | dawn
 super
 cliff
 kiss |  
-| bip_39_word_new_line5 | dawn
+| bip_39_word_new_line_5 | dawn
 super
 cliff
 kiss
 there |  
-| bip_39_word_new_line6 | dawn
+| bip_39_word_new_line_6 | dawn
 super
 cliff
 kiss
 there
 inflict |  
-| bip_39_word_new_line7 | dawn
+| bip_39_word_new_line_7 | dawn
 super
 cliff
 kiss
 there
 inflict
 wreck |  
-| bip_39_word_new_line8 | dawn
+| bip_39_word_new_line_8 | dawn
 super
 cliff
 kiss
@@ -113,7 +113,7 @@ there
 inflict
 wreck
 salmon |  
-| bip_39_word_new_line9 | dawn
+| bip_39_word_new_line_9 | dawn
 super
 cliff
 kiss

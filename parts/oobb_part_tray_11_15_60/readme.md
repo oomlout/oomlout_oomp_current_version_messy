@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | unique |  
-| bip_39_word_new_br10 | unique<br>muffin<br>boss<br>involve<br>embody<br>giant<br>boss<br>discover<br>arrow<br>harsh |  
-| bip_39_word_new_br11 | unique<br>muffin<br>boss<br>involve<br>embody<br>giant<br>boss<br>discover<br>arrow<br>harsh<br>setup |  
-| bip_39_word_new_br12 | unique<br>muffin<br>boss<br>involve<br>embody<br>giant<br>boss<br>discover<br>arrow<br>harsh<br>setup<br>author |  
-| bip_39_word_new_br2 | unique<br>muffin |  
-| bip_39_word_new_br3 | unique<br>muffin<br>boss |  
-| bip_39_word_new_br4 | unique<br>muffin<br>boss<br>involve |  
-| bip_39_word_new_br5 | unique<br>muffin<br>boss<br>involve<br>embody |  
-| bip_39_word_new_br6 | unique<br>muffin<br>boss<br>involve<br>embody<br>giant |  
-| bip_39_word_new_br7 | unique<br>muffin<br>boss<br>involve<br>embody<br>giant<br>boss |  
-| bip_39_word_new_br8 | unique<br>muffin<br>boss<br>involve<br>embody<br>giant<br>boss<br>discover |  
-| bip_39_word_new_br9 | unique<br>muffin<br>boss<br>involve<br>embody<br>giant<br>boss<br>discover<br>arrow |  
-| bip_39_word_new_line1 | unique |  
-| bip_39_word_new_line10 | unique
+| bip_39_word_new_br_1 | unique |  
+| bip_39_word_new_br_10 | unique<br>muffin<br>boss<br>involve<br>embody<br>giant<br>boss<br>discover<br>arrow<br>harsh |  
+| bip_39_word_new_br_11 | unique<br>muffin<br>boss<br>involve<br>embody<br>giant<br>boss<br>discover<br>arrow<br>harsh<br>setup |  
+| bip_39_word_new_br_12 | unique<br>muffin<br>boss<br>involve<br>embody<br>giant<br>boss<br>discover<br>arrow<br>harsh<br>setup<br>author |  
+| bip_39_word_new_br_2 | unique<br>muffin |  
+| bip_39_word_new_br_3 | unique<br>muffin<br>boss |  
+| bip_39_word_new_br_4 | unique<br>muffin<br>boss<br>involve |  
+| bip_39_word_new_br_5 | unique<br>muffin<br>boss<br>involve<br>embody |  
+| bip_39_word_new_br_6 | unique<br>muffin<br>boss<br>involve<br>embody<br>giant |  
+| bip_39_word_new_br_7 | unique<br>muffin<br>boss<br>involve<br>embody<br>giant<br>boss |  
+| bip_39_word_new_br_8 | unique<br>muffin<br>boss<br>involve<br>embody<br>giant<br>boss<br>discover |  
+| bip_39_word_new_br_9 | unique<br>muffin<br>boss<br>involve<br>embody<br>giant<br>boss<br>discover<br>arrow |  
+| bip_39_word_new_line_1 | unique |  
+| bip_39_word_new_line_10 | unique
 muffin
 boss
 involve
@@ -55,7 +55,7 @@ boss
 discover
 arrow
 harsh |  
-| bip_39_word_new_line11 | unique
+| bip_39_word_new_line_11 | unique
 muffin
 boss
 involve
@@ -66,7 +66,7 @@ discover
 arrow
 harsh
 setup |  
-| bip_39_word_new_line12 | unique
+| bip_39_word_new_line_12 | unique
 muffin
 boss
 involve
@@ -78,34 +78,34 @@ arrow
 harsh
 setup
 author |  
-| bip_39_word_new_line2 | unique
+| bip_39_word_new_line_2 | unique
 muffin |  
-| bip_39_word_new_line3 | unique
+| bip_39_word_new_line_3 | unique
 muffin
 boss |  
-| bip_39_word_new_line4 | unique
+| bip_39_word_new_line_4 | unique
 muffin
 boss
 involve |  
-| bip_39_word_new_line5 | unique
+| bip_39_word_new_line_5 | unique
 muffin
 boss
 involve
 embody |  
-| bip_39_word_new_line6 | unique
+| bip_39_word_new_line_6 | unique
 muffin
 boss
 involve
 embody
 giant |  
-| bip_39_word_new_line7 | unique
+| bip_39_word_new_line_7 | unique
 muffin
 boss
 involve
 embody
 giant
 boss |  
-| bip_39_word_new_line8 | unique
+| bip_39_word_new_line_8 | unique
 muffin
 boss
 involve
@@ -113,7 +113,7 @@ embody
 giant
 boss
 discover |  
-| bip_39_word_new_line9 | unique
+| bip_39_word_new_line_9 | unique
 muffin
 boss
 involve

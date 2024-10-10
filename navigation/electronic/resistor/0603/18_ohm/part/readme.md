@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | select |  
-| bip_39_word_new_br10 | select<br>narrow<br>funny<br>minute<br>enough<br>remain<br>soft<br>milk<br>shrimp<br>virtual |  
-| bip_39_word_new_br11 | select<br>narrow<br>funny<br>minute<br>enough<br>remain<br>soft<br>milk<br>shrimp<br>virtual<br>private |  
-| bip_39_word_new_br12 | select<br>narrow<br>funny<br>minute<br>enough<br>remain<br>soft<br>milk<br>shrimp<br>virtual<br>private<br>avocado |  
-| bip_39_word_new_br2 | select<br>narrow |  
-| bip_39_word_new_br3 | select<br>narrow<br>funny |  
-| bip_39_word_new_br4 | select<br>narrow<br>funny<br>minute |  
-| bip_39_word_new_br5 | select<br>narrow<br>funny<br>minute<br>enough |  
-| bip_39_word_new_br6 | select<br>narrow<br>funny<br>minute<br>enough<br>remain |  
-| bip_39_word_new_br7 | select<br>narrow<br>funny<br>minute<br>enough<br>remain<br>soft |  
-| bip_39_word_new_br8 | select<br>narrow<br>funny<br>minute<br>enough<br>remain<br>soft<br>milk |  
-| bip_39_word_new_br9 | select<br>narrow<br>funny<br>minute<br>enough<br>remain<br>soft<br>milk<br>shrimp |  
-| bip_39_word_new_line1 | select |  
-| bip_39_word_new_line10 | select
+| bip_39_word_new_br_1 | select |  
+| bip_39_word_new_br_10 | select<br>narrow<br>funny<br>minute<br>enough<br>remain<br>soft<br>milk<br>shrimp<br>virtual |  
+| bip_39_word_new_br_11 | select<br>narrow<br>funny<br>minute<br>enough<br>remain<br>soft<br>milk<br>shrimp<br>virtual<br>private |  
+| bip_39_word_new_br_12 | select<br>narrow<br>funny<br>minute<br>enough<br>remain<br>soft<br>milk<br>shrimp<br>virtual<br>private<br>avocado |  
+| bip_39_word_new_br_2 | select<br>narrow |  
+| bip_39_word_new_br_3 | select<br>narrow<br>funny |  
+| bip_39_word_new_br_4 | select<br>narrow<br>funny<br>minute |  
+| bip_39_word_new_br_5 | select<br>narrow<br>funny<br>minute<br>enough |  
+| bip_39_word_new_br_6 | select<br>narrow<br>funny<br>minute<br>enough<br>remain |  
+| bip_39_word_new_br_7 | select<br>narrow<br>funny<br>minute<br>enough<br>remain<br>soft |  
+| bip_39_word_new_br_8 | select<br>narrow<br>funny<br>minute<br>enough<br>remain<br>soft<br>milk |  
+| bip_39_word_new_br_9 | select<br>narrow<br>funny<br>minute<br>enough<br>remain<br>soft<br>milk<br>shrimp |  
+| bip_39_word_new_line_1 | select |  
+| bip_39_word_new_line_10 | select
 narrow
 funny
 minute
@@ -55,7 +55,7 @@ soft
 milk
 shrimp
 virtual |  
-| bip_39_word_new_line11 | select
+| bip_39_word_new_line_11 | select
 narrow
 funny
 minute
@@ -66,7 +66,7 @@ milk
 shrimp
 virtual
 private |  
-| bip_39_word_new_line12 | select
+| bip_39_word_new_line_12 | select
 narrow
 funny
 minute
@@ -78,34 +78,34 @@ shrimp
 virtual
 private
 avocado |  
-| bip_39_word_new_line2 | select
+| bip_39_word_new_line_2 | select
 narrow |  
-| bip_39_word_new_line3 | select
+| bip_39_word_new_line_3 | select
 narrow
 funny |  
-| bip_39_word_new_line4 | select
+| bip_39_word_new_line_4 | select
 narrow
 funny
 minute |  
-| bip_39_word_new_line5 | select
+| bip_39_word_new_line_5 | select
 narrow
 funny
 minute
 enough |  
-| bip_39_word_new_line6 | select
+| bip_39_word_new_line_6 | select
 narrow
 funny
 minute
 enough
 remain |  
-| bip_39_word_new_line7 | select
+| bip_39_word_new_line_7 | select
 narrow
 funny
 minute
 enough
 remain
 soft |  
-| bip_39_word_new_line8 | select
+| bip_39_word_new_line_8 | select
 narrow
 funny
 minute
@@ -113,7 +113,7 @@ enough
 remain
 soft
 milk |  
-| bip_39_word_new_line9 | select
+| bip_39_word_new_line_9 | select
 narrow
 funny
 minute

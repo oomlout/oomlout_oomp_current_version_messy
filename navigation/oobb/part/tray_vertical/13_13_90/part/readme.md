@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | clip |  
-| bip_39_word_new_br10 | clip<br>motor<br>resemble<br>chase<br>stove<br>calm<br>fit<br>ostrich<br>ahead<br>also |  
-| bip_39_word_new_br11 | clip<br>motor<br>resemble<br>chase<br>stove<br>calm<br>fit<br>ostrich<br>ahead<br>also<br>boss |  
-| bip_39_word_new_br12 | clip<br>motor<br>resemble<br>chase<br>stove<br>calm<br>fit<br>ostrich<br>ahead<br>also<br>boss<br>amount |  
-| bip_39_word_new_br2 | clip<br>motor |  
-| bip_39_word_new_br3 | clip<br>motor<br>resemble |  
-| bip_39_word_new_br4 | clip<br>motor<br>resemble<br>chase |  
-| bip_39_word_new_br5 | clip<br>motor<br>resemble<br>chase<br>stove |  
-| bip_39_word_new_br6 | clip<br>motor<br>resemble<br>chase<br>stove<br>calm |  
-| bip_39_word_new_br7 | clip<br>motor<br>resemble<br>chase<br>stove<br>calm<br>fit |  
-| bip_39_word_new_br8 | clip<br>motor<br>resemble<br>chase<br>stove<br>calm<br>fit<br>ostrich |  
-| bip_39_word_new_br9 | clip<br>motor<br>resemble<br>chase<br>stove<br>calm<br>fit<br>ostrich<br>ahead |  
-| bip_39_word_new_line1 | clip |  
-| bip_39_word_new_line10 | clip
+| bip_39_word_new_br_1 | clip |  
+| bip_39_word_new_br_10 | clip<br>motor<br>resemble<br>chase<br>stove<br>calm<br>fit<br>ostrich<br>ahead<br>also |  
+| bip_39_word_new_br_11 | clip<br>motor<br>resemble<br>chase<br>stove<br>calm<br>fit<br>ostrich<br>ahead<br>also<br>boss |  
+| bip_39_word_new_br_12 | clip<br>motor<br>resemble<br>chase<br>stove<br>calm<br>fit<br>ostrich<br>ahead<br>also<br>boss<br>amount |  
+| bip_39_word_new_br_2 | clip<br>motor |  
+| bip_39_word_new_br_3 | clip<br>motor<br>resemble |  
+| bip_39_word_new_br_4 | clip<br>motor<br>resemble<br>chase |  
+| bip_39_word_new_br_5 | clip<br>motor<br>resemble<br>chase<br>stove |  
+| bip_39_word_new_br_6 | clip<br>motor<br>resemble<br>chase<br>stove<br>calm |  
+| bip_39_word_new_br_7 | clip<br>motor<br>resemble<br>chase<br>stove<br>calm<br>fit |  
+| bip_39_word_new_br_8 | clip<br>motor<br>resemble<br>chase<br>stove<br>calm<br>fit<br>ostrich |  
+| bip_39_word_new_br_9 | clip<br>motor<br>resemble<br>chase<br>stove<br>calm<br>fit<br>ostrich<br>ahead |  
+| bip_39_word_new_line_1 | clip |  
+| bip_39_word_new_line_10 | clip
 motor
 resemble
 chase
@@ -55,7 +55,7 @@ fit
 ostrich
 ahead
 also |  
-| bip_39_word_new_line11 | clip
+| bip_39_word_new_line_11 | clip
 motor
 resemble
 chase
@@ -66,7 +66,7 @@ ostrich
 ahead
 also
 boss |  
-| bip_39_word_new_line12 | clip
+| bip_39_word_new_line_12 | clip
 motor
 resemble
 chase
@@ -78,34 +78,34 @@ ahead
 also
 boss
 amount |  
-| bip_39_word_new_line2 | clip
+| bip_39_word_new_line_2 | clip
 motor |  
-| bip_39_word_new_line3 | clip
+| bip_39_word_new_line_3 | clip
 motor
 resemble |  
-| bip_39_word_new_line4 | clip
+| bip_39_word_new_line_4 | clip
 motor
 resemble
 chase |  
-| bip_39_word_new_line5 | clip
+| bip_39_word_new_line_5 | clip
 motor
 resemble
 chase
 stove |  
-| bip_39_word_new_line6 | clip
+| bip_39_word_new_line_6 | clip
 motor
 resemble
 chase
 stove
 calm |  
-| bip_39_word_new_line7 | clip
+| bip_39_word_new_line_7 | clip
 motor
 resemble
 chase
 stove
 calm
 fit |  
-| bip_39_word_new_line8 | clip
+| bip_39_word_new_line_8 | clip
 motor
 resemble
 chase
@@ -113,7 +113,7 @@ stove
 calm
 fit
 ostrich |  
-| bip_39_word_new_line9 | clip
+| bip_39_word_new_line_9 | clip
 motor
 resemble
 chase

@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | beauty |  
-| bip_39_word_new_br10 | beauty<br>original<br>token<br>void<br>wool<br>upon<br>load<br>social<br>guard<br>civil |  
-| bip_39_word_new_br11 | beauty<br>original<br>token<br>void<br>wool<br>upon<br>load<br>social<br>guard<br>civil<br>kind |  
-| bip_39_word_new_br12 | beauty<br>original<br>token<br>void<br>wool<br>upon<br>load<br>social<br>guard<br>civil<br>kind<br>ask |  
-| bip_39_word_new_br2 | beauty<br>original |  
-| bip_39_word_new_br3 | beauty<br>original<br>token |  
-| bip_39_word_new_br4 | beauty<br>original<br>token<br>void |  
-| bip_39_word_new_br5 | beauty<br>original<br>token<br>void<br>wool |  
-| bip_39_word_new_br6 | beauty<br>original<br>token<br>void<br>wool<br>upon |  
-| bip_39_word_new_br7 | beauty<br>original<br>token<br>void<br>wool<br>upon<br>load |  
-| bip_39_word_new_br8 | beauty<br>original<br>token<br>void<br>wool<br>upon<br>load<br>social |  
-| bip_39_word_new_br9 | beauty<br>original<br>token<br>void<br>wool<br>upon<br>load<br>social<br>guard |  
-| bip_39_word_new_line1 | beauty |  
-| bip_39_word_new_line10 | beauty
+| bip_39_word_new_br_1 | beauty |  
+| bip_39_word_new_br_10 | beauty<br>original<br>token<br>void<br>wool<br>upon<br>load<br>social<br>guard<br>civil |  
+| bip_39_word_new_br_11 | beauty<br>original<br>token<br>void<br>wool<br>upon<br>load<br>social<br>guard<br>civil<br>kind |  
+| bip_39_word_new_br_12 | beauty<br>original<br>token<br>void<br>wool<br>upon<br>load<br>social<br>guard<br>civil<br>kind<br>ask |  
+| bip_39_word_new_br_2 | beauty<br>original |  
+| bip_39_word_new_br_3 | beauty<br>original<br>token |  
+| bip_39_word_new_br_4 | beauty<br>original<br>token<br>void |  
+| bip_39_word_new_br_5 | beauty<br>original<br>token<br>void<br>wool |  
+| bip_39_word_new_br_6 | beauty<br>original<br>token<br>void<br>wool<br>upon |  
+| bip_39_word_new_br_7 | beauty<br>original<br>token<br>void<br>wool<br>upon<br>load |  
+| bip_39_word_new_br_8 | beauty<br>original<br>token<br>void<br>wool<br>upon<br>load<br>social |  
+| bip_39_word_new_br_9 | beauty<br>original<br>token<br>void<br>wool<br>upon<br>load<br>social<br>guard |  
+| bip_39_word_new_line_1 | beauty |  
+| bip_39_word_new_line_10 | beauty
 original
 token
 void
@@ -55,7 +55,7 @@ load
 social
 guard
 civil |  
-| bip_39_word_new_line11 | beauty
+| bip_39_word_new_line_11 | beauty
 original
 token
 void
@@ -66,7 +66,7 @@ social
 guard
 civil
 kind |  
-| bip_39_word_new_line12 | beauty
+| bip_39_word_new_line_12 | beauty
 original
 token
 void
@@ -78,34 +78,34 @@ guard
 civil
 kind
 ask |  
-| bip_39_word_new_line2 | beauty
+| bip_39_word_new_line_2 | beauty
 original |  
-| bip_39_word_new_line3 | beauty
+| bip_39_word_new_line_3 | beauty
 original
 token |  
-| bip_39_word_new_line4 | beauty
+| bip_39_word_new_line_4 | beauty
 original
 token
 void |  
-| bip_39_word_new_line5 | beauty
+| bip_39_word_new_line_5 | beauty
 original
 token
 void
 wool |  
-| bip_39_word_new_line6 | beauty
+| bip_39_word_new_line_6 | beauty
 original
 token
 void
 wool
 upon |  
-| bip_39_word_new_line7 | beauty
+| bip_39_word_new_line_7 | beauty
 original
 token
 void
 wool
 upon
 load |  
-| bip_39_word_new_line8 | beauty
+| bip_39_word_new_line_8 | beauty
 original
 token
 void
@@ -113,7 +113,7 @@ wool
 upon
 load
 social |  
-| bip_39_word_new_line9 | beauty
+| bip_39_word_new_line_9 | beauty
 original
 token
 void

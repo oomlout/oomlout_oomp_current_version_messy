@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | rare |  
-| bip_39_word_new_br10 | rare<br>mesh<br>hundred<br>nephew<br>crash<br>symbol<br>happy<br>universe<br>festival<br>blanket |  
-| bip_39_word_new_br11 | rare<br>mesh<br>hundred<br>nephew<br>crash<br>symbol<br>happy<br>universe<br>festival<br>blanket<br>hockey |  
-| bip_39_word_new_br12 | rare<br>mesh<br>hundred<br>nephew<br>crash<br>symbol<br>happy<br>universe<br>festival<br>blanket<br>hockey<br>across |  
-| bip_39_word_new_br2 | rare<br>mesh |  
-| bip_39_word_new_br3 | rare<br>mesh<br>hundred |  
-| bip_39_word_new_br4 | rare<br>mesh<br>hundred<br>nephew |  
-| bip_39_word_new_br5 | rare<br>mesh<br>hundred<br>nephew<br>crash |  
-| bip_39_word_new_br6 | rare<br>mesh<br>hundred<br>nephew<br>crash<br>symbol |  
-| bip_39_word_new_br7 | rare<br>mesh<br>hundred<br>nephew<br>crash<br>symbol<br>happy |  
-| bip_39_word_new_br8 | rare<br>mesh<br>hundred<br>nephew<br>crash<br>symbol<br>happy<br>universe |  
-| bip_39_word_new_br9 | rare<br>mesh<br>hundred<br>nephew<br>crash<br>symbol<br>happy<br>universe<br>festival |  
-| bip_39_word_new_line1 | rare |  
-| bip_39_word_new_line10 | rare
+| bip_39_word_new_br_1 | rare |  
+| bip_39_word_new_br_10 | rare<br>mesh<br>hundred<br>nephew<br>crash<br>symbol<br>happy<br>universe<br>festival<br>blanket |  
+| bip_39_word_new_br_11 | rare<br>mesh<br>hundred<br>nephew<br>crash<br>symbol<br>happy<br>universe<br>festival<br>blanket<br>hockey |  
+| bip_39_word_new_br_12 | rare<br>mesh<br>hundred<br>nephew<br>crash<br>symbol<br>happy<br>universe<br>festival<br>blanket<br>hockey<br>across |  
+| bip_39_word_new_br_2 | rare<br>mesh |  
+| bip_39_word_new_br_3 | rare<br>mesh<br>hundred |  
+| bip_39_word_new_br_4 | rare<br>mesh<br>hundred<br>nephew |  
+| bip_39_word_new_br_5 | rare<br>mesh<br>hundred<br>nephew<br>crash |  
+| bip_39_word_new_br_6 | rare<br>mesh<br>hundred<br>nephew<br>crash<br>symbol |  
+| bip_39_word_new_br_7 | rare<br>mesh<br>hundred<br>nephew<br>crash<br>symbol<br>happy |  
+| bip_39_word_new_br_8 | rare<br>mesh<br>hundred<br>nephew<br>crash<br>symbol<br>happy<br>universe |  
+| bip_39_word_new_br_9 | rare<br>mesh<br>hundred<br>nephew<br>crash<br>symbol<br>happy<br>universe<br>festival |  
+| bip_39_word_new_line_1 | rare |  
+| bip_39_word_new_line_10 | rare
 mesh
 hundred
 nephew
@@ -55,7 +55,7 @@ happy
 universe
 festival
 blanket |  
-| bip_39_word_new_line11 | rare
+| bip_39_word_new_line_11 | rare
 mesh
 hundred
 nephew
@@ -66,7 +66,7 @@ universe
 festival
 blanket
 hockey |  
-| bip_39_word_new_line12 | rare
+| bip_39_word_new_line_12 | rare
 mesh
 hundred
 nephew
@@ -78,34 +78,34 @@ festival
 blanket
 hockey
 across |  
-| bip_39_word_new_line2 | rare
+| bip_39_word_new_line_2 | rare
 mesh |  
-| bip_39_word_new_line3 | rare
+| bip_39_word_new_line_3 | rare
 mesh
 hundred |  
-| bip_39_word_new_line4 | rare
+| bip_39_word_new_line_4 | rare
 mesh
 hundred
 nephew |  
-| bip_39_word_new_line5 | rare
+| bip_39_word_new_line_5 | rare
 mesh
 hundred
 nephew
 crash |  
-| bip_39_word_new_line6 | rare
+| bip_39_word_new_line_6 | rare
 mesh
 hundred
 nephew
 crash
 symbol |  
-| bip_39_word_new_line7 | rare
+| bip_39_word_new_line_7 | rare
 mesh
 hundred
 nephew
 crash
 symbol
 happy |  
-| bip_39_word_new_line8 | rare
+| bip_39_word_new_line_8 | rare
 mesh
 hundred
 nephew
@@ -113,7 +113,7 @@ crash
 symbol
 happy
 universe |  
-| bip_39_word_new_line9 | rare
+| bip_39_word_new_line_9 | rare
 mesh
 hundred
 nephew

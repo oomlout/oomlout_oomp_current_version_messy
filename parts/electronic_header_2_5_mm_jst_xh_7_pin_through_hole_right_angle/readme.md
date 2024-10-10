@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | worth |  
-| bip_39_word_new_br10 | worth<br>possible<br>kid<br>scene<br>grass<br>loyal<br>column<br>airport<br>clock<br>wish |  
-| bip_39_word_new_br11 | worth<br>possible<br>kid<br>scene<br>grass<br>loyal<br>column<br>airport<br>clock<br>wish<br>phrase |  
-| bip_39_word_new_br12 | worth<br>possible<br>kid<br>scene<br>grass<br>loyal<br>column<br>airport<br>clock<br>wish<br>phrase<br>assist |  
-| bip_39_word_new_br2 | worth<br>possible |  
-| bip_39_word_new_br3 | worth<br>possible<br>kid |  
-| bip_39_word_new_br4 | worth<br>possible<br>kid<br>scene |  
-| bip_39_word_new_br5 | worth<br>possible<br>kid<br>scene<br>grass |  
-| bip_39_word_new_br6 | worth<br>possible<br>kid<br>scene<br>grass<br>loyal |  
-| bip_39_word_new_br7 | worth<br>possible<br>kid<br>scene<br>grass<br>loyal<br>column |  
-| bip_39_word_new_br8 | worth<br>possible<br>kid<br>scene<br>grass<br>loyal<br>column<br>airport |  
-| bip_39_word_new_br9 | worth<br>possible<br>kid<br>scene<br>grass<br>loyal<br>column<br>airport<br>clock |  
-| bip_39_word_new_line1 | worth |  
-| bip_39_word_new_line10 | worth
+| bip_39_word_new_br_1 | worth |  
+| bip_39_word_new_br_10 | worth<br>possible<br>kid<br>scene<br>grass<br>loyal<br>column<br>airport<br>clock<br>wish |  
+| bip_39_word_new_br_11 | worth<br>possible<br>kid<br>scene<br>grass<br>loyal<br>column<br>airport<br>clock<br>wish<br>phrase |  
+| bip_39_word_new_br_12 | worth<br>possible<br>kid<br>scene<br>grass<br>loyal<br>column<br>airport<br>clock<br>wish<br>phrase<br>assist |  
+| bip_39_word_new_br_2 | worth<br>possible |  
+| bip_39_word_new_br_3 | worth<br>possible<br>kid |  
+| bip_39_word_new_br_4 | worth<br>possible<br>kid<br>scene |  
+| bip_39_word_new_br_5 | worth<br>possible<br>kid<br>scene<br>grass |  
+| bip_39_word_new_br_6 | worth<br>possible<br>kid<br>scene<br>grass<br>loyal |  
+| bip_39_word_new_br_7 | worth<br>possible<br>kid<br>scene<br>grass<br>loyal<br>column |  
+| bip_39_word_new_br_8 | worth<br>possible<br>kid<br>scene<br>grass<br>loyal<br>column<br>airport |  
+| bip_39_word_new_br_9 | worth<br>possible<br>kid<br>scene<br>grass<br>loyal<br>column<br>airport<br>clock |  
+| bip_39_word_new_line_1 | worth |  
+| bip_39_word_new_line_10 | worth
 possible
 kid
 scene
@@ -55,7 +55,7 @@ column
 airport
 clock
 wish |  
-| bip_39_word_new_line11 | worth
+| bip_39_word_new_line_11 | worth
 possible
 kid
 scene
@@ -66,7 +66,7 @@ airport
 clock
 wish
 phrase |  
-| bip_39_word_new_line12 | worth
+| bip_39_word_new_line_12 | worth
 possible
 kid
 scene
@@ -78,34 +78,34 @@ clock
 wish
 phrase
 assist |  
-| bip_39_word_new_line2 | worth
+| bip_39_word_new_line_2 | worth
 possible |  
-| bip_39_word_new_line3 | worth
+| bip_39_word_new_line_3 | worth
 possible
 kid |  
-| bip_39_word_new_line4 | worth
+| bip_39_word_new_line_4 | worth
 possible
 kid
 scene |  
-| bip_39_word_new_line5 | worth
+| bip_39_word_new_line_5 | worth
 possible
 kid
 scene
 grass |  
-| bip_39_word_new_line6 | worth
+| bip_39_word_new_line_6 | worth
 possible
 kid
 scene
 grass
 loyal |  
-| bip_39_word_new_line7 | worth
+| bip_39_word_new_line_7 | worth
 possible
 kid
 scene
 grass
 loyal
 column |  
-| bip_39_word_new_line8 | worth
+| bip_39_word_new_line_8 | worth
 possible
 kid
 scene
@@ -113,7 +113,7 @@ grass
 loyal
 column
 airport |  
-| bip_39_word_new_line9 | worth
+| bip_39_word_new_line_9 | worth
 possible
 kid
 scene

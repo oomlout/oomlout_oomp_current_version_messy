@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | pause |  
-| bip_39_word_new_br10 | pause<br>burger<br>credit<br>lawn<br>menu<br>inside<br>uphold<br>elephant<br>job<br>pact |  
-| bip_39_word_new_br11 | pause<br>burger<br>credit<br>lawn<br>menu<br>inside<br>uphold<br>elephant<br>job<br>pact<br>ticket |  
-| bip_39_word_new_br12 | pause<br>burger<br>credit<br>lawn<br>menu<br>inside<br>uphold<br>elephant<br>job<br>pact<br>ticket<br>anchor |  
-| bip_39_word_new_br2 | pause<br>burger |  
-| bip_39_word_new_br3 | pause<br>burger<br>credit |  
-| bip_39_word_new_br4 | pause<br>burger<br>credit<br>lawn |  
-| bip_39_word_new_br5 | pause<br>burger<br>credit<br>lawn<br>menu |  
-| bip_39_word_new_br6 | pause<br>burger<br>credit<br>lawn<br>menu<br>inside |  
-| bip_39_word_new_br7 | pause<br>burger<br>credit<br>lawn<br>menu<br>inside<br>uphold |  
-| bip_39_word_new_br8 | pause<br>burger<br>credit<br>lawn<br>menu<br>inside<br>uphold<br>elephant |  
-| bip_39_word_new_br9 | pause<br>burger<br>credit<br>lawn<br>menu<br>inside<br>uphold<br>elephant<br>job |  
-| bip_39_word_new_line1 | pause |  
-| bip_39_word_new_line10 | pause
+| bip_39_word_new_br_1 | pause |  
+| bip_39_word_new_br_10 | pause<br>burger<br>credit<br>lawn<br>menu<br>inside<br>uphold<br>elephant<br>job<br>pact |  
+| bip_39_word_new_br_11 | pause<br>burger<br>credit<br>lawn<br>menu<br>inside<br>uphold<br>elephant<br>job<br>pact<br>ticket |  
+| bip_39_word_new_br_12 | pause<br>burger<br>credit<br>lawn<br>menu<br>inside<br>uphold<br>elephant<br>job<br>pact<br>ticket<br>anchor |  
+| bip_39_word_new_br_2 | pause<br>burger |  
+| bip_39_word_new_br_3 | pause<br>burger<br>credit |  
+| bip_39_word_new_br_4 | pause<br>burger<br>credit<br>lawn |  
+| bip_39_word_new_br_5 | pause<br>burger<br>credit<br>lawn<br>menu |  
+| bip_39_word_new_br_6 | pause<br>burger<br>credit<br>lawn<br>menu<br>inside |  
+| bip_39_word_new_br_7 | pause<br>burger<br>credit<br>lawn<br>menu<br>inside<br>uphold |  
+| bip_39_word_new_br_8 | pause<br>burger<br>credit<br>lawn<br>menu<br>inside<br>uphold<br>elephant |  
+| bip_39_word_new_br_9 | pause<br>burger<br>credit<br>lawn<br>menu<br>inside<br>uphold<br>elephant<br>job |  
+| bip_39_word_new_line_1 | pause |  
+| bip_39_word_new_line_10 | pause
 burger
 credit
 lawn
@@ -55,7 +55,7 @@ uphold
 elephant
 job
 pact |  
-| bip_39_word_new_line11 | pause
+| bip_39_word_new_line_11 | pause
 burger
 credit
 lawn
@@ -66,7 +66,7 @@ elephant
 job
 pact
 ticket |  
-| bip_39_word_new_line12 | pause
+| bip_39_word_new_line_12 | pause
 burger
 credit
 lawn
@@ -78,34 +78,34 @@ job
 pact
 ticket
 anchor |  
-| bip_39_word_new_line2 | pause
+| bip_39_word_new_line_2 | pause
 burger |  
-| bip_39_word_new_line3 | pause
+| bip_39_word_new_line_3 | pause
 burger
 credit |  
-| bip_39_word_new_line4 | pause
+| bip_39_word_new_line_4 | pause
 burger
 credit
 lawn |  
-| bip_39_word_new_line5 | pause
+| bip_39_word_new_line_5 | pause
 burger
 credit
 lawn
 menu |  
-| bip_39_word_new_line6 | pause
+| bip_39_word_new_line_6 | pause
 burger
 credit
 lawn
 menu
 inside |  
-| bip_39_word_new_line7 | pause
+| bip_39_word_new_line_7 | pause
 burger
 credit
 lawn
 menu
 inside
 uphold |  
-| bip_39_word_new_line8 | pause
+| bip_39_word_new_line_8 | pause
 burger
 credit
 lawn
@@ -113,7 +113,7 @@ menu
 inside
 uphold
 elephant |  
-| bip_39_word_new_line9 | pause
+| bip_39_word_new_line_9 | pause
 burger
 credit
 lawn

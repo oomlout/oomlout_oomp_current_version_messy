@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | armed |  
-| bip_39_word_new_br10 | armed<br>pair<br>venue<br>document<br>sentence<br>often<br>umbrella<br>lady<br>index<br>pool |  
-| bip_39_word_new_br11 | armed<br>pair<br>venue<br>document<br>sentence<br>often<br>umbrella<br>lady<br>index<br>pool<br>snack |  
-| bip_39_word_new_br12 | armed<br>pair<br>venue<br>document<br>sentence<br>often<br>umbrella<br>lady<br>index<br>pool<br>snack<br>anger |  
-| bip_39_word_new_br2 | armed<br>pair |  
-| bip_39_word_new_br3 | armed<br>pair<br>venue |  
-| bip_39_word_new_br4 | armed<br>pair<br>venue<br>document |  
-| bip_39_word_new_br5 | armed<br>pair<br>venue<br>document<br>sentence |  
-| bip_39_word_new_br6 | armed<br>pair<br>venue<br>document<br>sentence<br>often |  
-| bip_39_word_new_br7 | armed<br>pair<br>venue<br>document<br>sentence<br>often<br>umbrella |  
-| bip_39_word_new_br8 | armed<br>pair<br>venue<br>document<br>sentence<br>often<br>umbrella<br>lady |  
-| bip_39_word_new_br9 | armed<br>pair<br>venue<br>document<br>sentence<br>often<br>umbrella<br>lady<br>index |  
-| bip_39_word_new_line1 | armed |  
-| bip_39_word_new_line10 | armed
+| bip_39_word_new_br_1 | armed |  
+| bip_39_word_new_br_10 | armed<br>pair<br>venue<br>document<br>sentence<br>often<br>umbrella<br>lady<br>index<br>pool |  
+| bip_39_word_new_br_11 | armed<br>pair<br>venue<br>document<br>sentence<br>often<br>umbrella<br>lady<br>index<br>pool<br>snack |  
+| bip_39_word_new_br_12 | armed<br>pair<br>venue<br>document<br>sentence<br>often<br>umbrella<br>lady<br>index<br>pool<br>snack<br>anger |  
+| bip_39_word_new_br_2 | armed<br>pair |  
+| bip_39_word_new_br_3 | armed<br>pair<br>venue |  
+| bip_39_word_new_br_4 | armed<br>pair<br>venue<br>document |  
+| bip_39_word_new_br_5 | armed<br>pair<br>venue<br>document<br>sentence |  
+| bip_39_word_new_br_6 | armed<br>pair<br>venue<br>document<br>sentence<br>often |  
+| bip_39_word_new_br_7 | armed<br>pair<br>venue<br>document<br>sentence<br>often<br>umbrella |  
+| bip_39_word_new_br_8 | armed<br>pair<br>venue<br>document<br>sentence<br>often<br>umbrella<br>lady |  
+| bip_39_word_new_br_9 | armed<br>pair<br>venue<br>document<br>sentence<br>often<br>umbrella<br>lady<br>index |  
+| bip_39_word_new_line_1 | armed |  
+| bip_39_word_new_line_10 | armed
 pair
 venue
 document
@@ -55,7 +55,7 @@ umbrella
 lady
 index
 pool |  
-| bip_39_word_new_line11 | armed
+| bip_39_word_new_line_11 | armed
 pair
 venue
 document
@@ -66,7 +66,7 @@ lady
 index
 pool
 snack |  
-| bip_39_word_new_line12 | armed
+| bip_39_word_new_line_12 | armed
 pair
 venue
 document
@@ -78,34 +78,34 @@ index
 pool
 snack
 anger |  
-| bip_39_word_new_line2 | armed
+| bip_39_word_new_line_2 | armed
 pair |  
-| bip_39_word_new_line3 | armed
+| bip_39_word_new_line_3 | armed
 pair
 venue |  
-| bip_39_word_new_line4 | armed
+| bip_39_word_new_line_4 | armed
 pair
 venue
 document |  
-| bip_39_word_new_line5 | armed
+| bip_39_word_new_line_5 | armed
 pair
 venue
 document
 sentence |  
-| bip_39_word_new_line6 | armed
+| bip_39_word_new_line_6 | armed
 pair
 venue
 document
 sentence
 often |  
-| bip_39_word_new_line7 | armed
+| bip_39_word_new_line_7 | armed
 pair
 venue
 document
 sentence
 often
 umbrella |  
-| bip_39_word_new_line8 | armed
+| bip_39_word_new_line_8 | armed
 pair
 venue
 document
@@ -113,7 +113,7 @@ sentence
 often
 umbrella
 lady |  
-| bip_39_word_new_line9 | armed
+| bip_39_word_new_line_9 | armed
 pair
 venue
 document

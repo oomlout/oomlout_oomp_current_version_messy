@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | similar |  
-| bip_39_word_new_br10 | similar<br>stage<br>spring<br>awake<br>lottery<br>ordinary<br>loan<br>machine<br>make<br>hazard |  
-| bip_39_word_new_br11 | similar<br>stage<br>spring<br>awake<br>lottery<br>ordinary<br>loan<br>machine<br>make<br>hazard<br>crystal |  
-| bip_39_word_new_br12 | similar<br>stage<br>spring<br>awake<br>lottery<br>ordinary<br>loan<br>machine<br>make<br>hazard<br>crystal<br>abstract |  
-| bip_39_word_new_br2 | similar<br>stage |  
-| bip_39_word_new_br3 | similar<br>stage<br>spring |  
-| bip_39_word_new_br4 | similar<br>stage<br>spring<br>awake |  
-| bip_39_word_new_br5 | similar<br>stage<br>spring<br>awake<br>lottery |  
-| bip_39_word_new_br6 | similar<br>stage<br>spring<br>awake<br>lottery<br>ordinary |  
-| bip_39_word_new_br7 | similar<br>stage<br>spring<br>awake<br>lottery<br>ordinary<br>loan |  
-| bip_39_word_new_br8 | similar<br>stage<br>spring<br>awake<br>lottery<br>ordinary<br>loan<br>machine |  
-| bip_39_word_new_br9 | similar<br>stage<br>spring<br>awake<br>lottery<br>ordinary<br>loan<br>machine<br>make |  
-| bip_39_word_new_line1 | similar |  
-| bip_39_word_new_line10 | similar
+| bip_39_word_new_br_1 | similar |  
+| bip_39_word_new_br_10 | similar<br>stage<br>spring<br>awake<br>lottery<br>ordinary<br>loan<br>machine<br>make<br>hazard |  
+| bip_39_word_new_br_11 | similar<br>stage<br>spring<br>awake<br>lottery<br>ordinary<br>loan<br>machine<br>make<br>hazard<br>crystal |  
+| bip_39_word_new_br_12 | similar<br>stage<br>spring<br>awake<br>lottery<br>ordinary<br>loan<br>machine<br>make<br>hazard<br>crystal<br>abstract |  
+| bip_39_word_new_br_2 | similar<br>stage |  
+| bip_39_word_new_br_3 | similar<br>stage<br>spring |  
+| bip_39_word_new_br_4 | similar<br>stage<br>spring<br>awake |  
+| bip_39_word_new_br_5 | similar<br>stage<br>spring<br>awake<br>lottery |  
+| bip_39_word_new_br_6 | similar<br>stage<br>spring<br>awake<br>lottery<br>ordinary |  
+| bip_39_word_new_br_7 | similar<br>stage<br>spring<br>awake<br>lottery<br>ordinary<br>loan |  
+| bip_39_word_new_br_8 | similar<br>stage<br>spring<br>awake<br>lottery<br>ordinary<br>loan<br>machine |  
+| bip_39_word_new_br_9 | similar<br>stage<br>spring<br>awake<br>lottery<br>ordinary<br>loan<br>machine<br>make |  
+| bip_39_word_new_line_1 | similar |  
+| bip_39_word_new_line_10 | similar
 stage
 spring
 awake
@@ -55,7 +55,7 @@ loan
 machine
 make
 hazard |  
-| bip_39_word_new_line11 | similar
+| bip_39_word_new_line_11 | similar
 stage
 spring
 awake
@@ -66,7 +66,7 @@ machine
 make
 hazard
 crystal |  
-| bip_39_word_new_line12 | similar
+| bip_39_word_new_line_12 | similar
 stage
 spring
 awake
@@ -78,34 +78,34 @@ make
 hazard
 crystal
 abstract |  
-| bip_39_word_new_line2 | similar
+| bip_39_word_new_line_2 | similar
 stage |  
-| bip_39_word_new_line3 | similar
+| bip_39_word_new_line_3 | similar
 stage
 spring |  
-| bip_39_word_new_line4 | similar
+| bip_39_word_new_line_4 | similar
 stage
 spring
 awake |  
-| bip_39_word_new_line5 | similar
+| bip_39_word_new_line_5 | similar
 stage
 spring
 awake
 lottery |  
-| bip_39_word_new_line6 | similar
+| bip_39_word_new_line_6 | similar
 stage
 spring
 awake
 lottery
 ordinary |  
-| bip_39_word_new_line7 | similar
+| bip_39_word_new_line_7 | similar
 stage
 spring
 awake
 lottery
 ordinary
 loan |  
-| bip_39_word_new_line8 | similar
+| bip_39_word_new_line_8 | similar
 stage
 spring
 awake
@@ -113,7 +113,7 @@ lottery
 ordinary
 loan
 machine |  
-| bip_39_word_new_line9 | similar
+| bip_39_word_new_line_9 | similar
 stage
 spring
 awake

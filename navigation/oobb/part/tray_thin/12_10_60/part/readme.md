@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | lounge |  
-| bip_39_word_new_br10 | lounge<br>soldier<br>toddler<br>valley<br>need<br>curious<br>clean<br>timber<br>that<br>cricket |  
-| bip_39_word_new_br11 | lounge<br>soldier<br>toddler<br>valley<br>need<br>curious<br>clean<br>timber<br>that<br>cricket<br>spring |  
-| bip_39_word_new_br12 | lounge<br>soldier<br>toddler<br>valley<br>need<br>curious<br>clean<br>timber<br>that<br>cricket<br>spring<br>arm |  
-| bip_39_word_new_br2 | lounge<br>soldier |  
-| bip_39_word_new_br3 | lounge<br>soldier<br>toddler |  
-| bip_39_word_new_br4 | lounge<br>soldier<br>toddler<br>valley |  
-| bip_39_word_new_br5 | lounge<br>soldier<br>toddler<br>valley<br>need |  
-| bip_39_word_new_br6 | lounge<br>soldier<br>toddler<br>valley<br>need<br>curious |  
-| bip_39_word_new_br7 | lounge<br>soldier<br>toddler<br>valley<br>need<br>curious<br>clean |  
-| bip_39_word_new_br8 | lounge<br>soldier<br>toddler<br>valley<br>need<br>curious<br>clean<br>timber |  
-| bip_39_word_new_br9 | lounge<br>soldier<br>toddler<br>valley<br>need<br>curious<br>clean<br>timber<br>that |  
-| bip_39_word_new_line1 | lounge |  
-| bip_39_word_new_line10 | lounge
+| bip_39_word_new_br_1 | lounge |  
+| bip_39_word_new_br_10 | lounge<br>soldier<br>toddler<br>valley<br>need<br>curious<br>clean<br>timber<br>that<br>cricket |  
+| bip_39_word_new_br_11 | lounge<br>soldier<br>toddler<br>valley<br>need<br>curious<br>clean<br>timber<br>that<br>cricket<br>spring |  
+| bip_39_word_new_br_12 | lounge<br>soldier<br>toddler<br>valley<br>need<br>curious<br>clean<br>timber<br>that<br>cricket<br>spring<br>arm |  
+| bip_39_word_new_br_2 | lounge<br>soldier |  
+| bip_39_word_new_br_3 | lounge<br>soldier<br>toddler |  
+| bip_39_word_new_br_4 | lounge<br>soldier<br>toddler<br>valley |  
+| bip_39_word_new_br_5 | lounge<br>soldier<br>toddler<br>valley<br>need |  
+| bip_39_word_new_br_6 | lounge<br>soldier<br>toddler<br>valley<br>need<br>curious |  
+| bip_39_word_new_br_7 | lounge<br>soldier<br>toddler<br>valley<br>need<br>curious<br>clean |  
+| bip_39_word_new_br_8 | lounge<br>soldier<br>toddler<br>valley<br>need<br>curious<br>clean<br>timber |  
+| bip_39_word_new_br_9 | lounge<br>soldier<br>toddler<br>valley<br>need<br>curious<br>clean<br>timber<br>that |  
+| bip_39_word_new_line_1 | lounge |  
+| bip_39_word_new_line_10 | lounge
 soldier
 toddler
 valley
@@ -55,7 +55,7 @@ clean
 timber
 that
 cricket |  
-| bip_39_word_new_line11 | lounge
+| bip_39_word_new_line_11 | lounge
 soldier
 toddler
 valley
@@ -66,7 +66,7 @@ timber
 that
 cricket
 spring |  
-| bip_39_word_new_line12 | lounge
+| bip_39_word_new_line_12 | lounge
 soldier
 toddler
 valley
@@ -78,34 +78,34 @@ that
 cricket
 spring
 arm |  
-| bip_39_word_new_line2 | lounge
+| bip_39_word_new_line_2 | lounge
 soldier |  
-| bip_39_word_new_line3 | lounge
+| bip_39_word_new_line_3 | lounge
 soldier
 toddler |  
-| bip_39_word_new_line4 | lounge
+| bip_39_word_new_line_4 | lounge
 soldier
 toddler
 valley |  
-| bip_39_word_new_line5 | lounge
+| bip_39_word_new_line_5 | lounge
 soldier
 toddler
 valley
 need |  
-| bip_39_word_new_line6 | lounge
+| bip_39_word_new_line_6 | lounge
 soldier
 toddler
 valley
 need
 curious |  
-| bip_39_word_new_line7 | lounge
+| bip_39_word_new_line_7 | lounge
 soldier
 toddler
 valley
 need
 curious
 clean |  
-| bip_39_word_new_line8 | lounge
+| bip_39_word_new_line_8 | lounge
 soldier
 toddler
 valley
@@ -113,7 +113,7 @@ need
 curious
 clean
 timber |  
-| bip_39_word_new_line9 | lounge
+| bip_39_word_new_line_9 | lounge
 soldier
 toddler
 valley

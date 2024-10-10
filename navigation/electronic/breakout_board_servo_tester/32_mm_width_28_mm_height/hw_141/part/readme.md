@@ -32,20 +32,20 @@ A servo tester
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | cross |  
-| bip_39_word_new_br10 | cross<br>anxiety<br>baby<br>bronze<br>repair<br>put<br>debris<br>void<br>dial<br>champion |  
-| bip_39_word_new_br11 | cross<br>anxiety<br>baby<br>bronze<br>repair<br>put<br>debris<br>void<br>dial<br>champion<br>sleep |  
-| bip_39_word_new_br12 | cross<br>anxiety<br>baby<br>bronze<br>repair<br>put<br>debris<br>void<br>dial<br>champion<br>sleep<br>approve |  
-| bip_39_word_new_br2 | cross<br>anxiety |  
-| bip_39_word_new_br3 | cross<br>anxiety<br>baby |  
-| bip_39_word_new_br4 | cross<br>anxiety<br>baby<br>bronze |  
-| bip_39_word_new_br5 | cross<br>anxiety<br>baby<br>bronze<br>repair |  
-| bip_39_word_new_br6 | cross<br>anxiety<br>baby<br>bronze<br>repair<br>put |  
-| bip_39_word_new_br7 | cross<br>anxiety<br>baby<br>bronze<br>repair<br>put<br>debris |  
-| bip_39_word_new_br8 | cross<br>anxiety<br>baby<br>bronze<br>repair<br>put<br>debris<br>void |  
-| bip_39_word_new_br9 | cross<br>anxiety<br>baby<br>bronze<br>repair<br>put<br>debris<br>void<br>dial |  
-| bip_39_word_new_line1 | cross |  
-| bip_39_word_new_line10 | cross
+| bip_39_word_new_br_1 | cross |  
+| bip_39_word_new_br_10 | cross<br>anxiety<br>baby<br>bronze<br>repair<br>put<br>debris<br>void<br>dial<br>champion |  
+| bip_39_word_new_br_11 | cross<br>anxiety<br>baby<br>bronze<br>repair<br>put<br>debris<br>void<br>dial<br>champion<br>sleep |  
+| bip_39_word_new_br_12 | cross<br>anxiety<br>baby<br>bronze<br>repair<br>put<br>debris<br>void<br>dial<br>champion<br>sleep<br>approve |  
+| bip_39_word_new_br_2 | cross<br>anxiety |  
+| bip_39_word_new_br_3 | cross<br>anxiety<br>baby |  
+| bip_39_word_new_br_4 | cross<br>anxiety<br>baby<br>bronze |  
+| bip_39_word_new_br_5 | cross<br>anxiety<br>baby<br>bronze<br>repair |  
+| bip_39_word_new_br_6 | cross<br>anxiety<br>baby<br>bronze<br>repair<br>put |  
+| bip_39_word_new_br_7 | cross<br>anxiety<br>baby<br>bronze<br>repair<br>put<br>debris |  
+| bip_39_word_new_br_8 | cross<br>anxiety<br>baby<br>bronze<br>repair<br>put<br>debris<br>void |  
+| bip_39_word_new_br_9 | cross<br>anxiety<br>baby<br>bronze<br>repair<br>put<br>debris<br>void<br>dial |  
+| bip_39_word_new_line_1 | cross |  
+| bip_39_word_new_line_10 | cross
 anxiety
 baby
 bronze
@@ -55,7 +55,7 @@ debris
 void
 dial
 champion |  
-| bip_39_word_new_line11 | cross
+| bip_39_word_new_line_11 | cross
 anxiety
 baby
 bronze
@@ -66,7 +66,7 @@ void
 dial
 champion
 sleep |  
-| bip_39_word_new_line12 | cross
+| bip_39_word_new_line_12 | cross
 anxiety
 baby
 bronze
@@ -78,34 +78,34 @@ dial
 champion
 sleep
 approve |  
-| bip_39_word_new_line2 | cross
+| bip_39_word_new_line_2 | cross
 anxiety |  
-| bip_39_word_new_line3 | cross
+| bip_39_word_new_line_3 | cross
 anxiety
 baby |  
-| bip_39_word_new_line4 | cross
+| bip_39_word_new_line_4 | cross
 anxiety
 baby
 bronze |  
-| bip_39_word_new_line5 | cross
+| bip_39_word_new_line_5 | cross
 anxiety
 baby
 bronze
 repair |  
-| bip_39_word_new_line6 | cross
+| bip_39_word_new_line_6 | cross
 anxiety
 baby
 bronze
 repair
 put |  
-| bip_39_word_new_line7 | cross
+| bip_39_word_new_line_7 | cross
 anxiety
 baby
 bronze
 repair
 put
 debris |  
-| bip_39_word_new_line8 | cross
+| bip_39_word_new_line_8 | cross
 anxiety
 baby
 bronze
@@ -113,7 +113,7 @@ repair
 put
 debris
 void |  
-| bip_39_word_new_line9 | cross
+| bip_39_word_new_line_9 | cross
 anxiety
 baby
 bronze

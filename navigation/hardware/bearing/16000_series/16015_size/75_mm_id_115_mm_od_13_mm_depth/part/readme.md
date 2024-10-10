@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | first |  
-| bip_39_word_new_br10 | first<br>season<br>ancient<br>muscle<br>marriage<br>zone<br>one<br>glance<br>use<br>grief |  
-| bip_39_word_new_br11 | first<br>season<br>ancient<br>muscle<br>marriage<br>zone<br>one<br>glance<br>use<br>grief<br>organ |  
-| bip_39_word_new_br12 | first<br>season<br>ancient<br>muscle<br>marriage<br>zone<br>one<br>glance<br>use<br>grief<br>organ<br>arrange |  
-| bip_39_word_new_br2 | first<br>season |  
-| bip_39_word_new_br3 | first<br>season<br>ancient |  
-| bip_39_word_new_br4 | first<br>season<br>ancient<br>muscle |  
-| bip_39_word_new_br5 | first<br>season<br>ancient<br>muscle<br>marriage |  
-| bip_39_word_new_br6 | first<br>season<br>ancient<br>muscle<br>marriage<br>zone |  
-| bip_39_word_new_br7 | first<br>season<br>ancient<br>muscle<br>marriage<br>zone<br>one |  
-| bip_39_word_new_br8 | first<br>season<br>ancient<br>muscle<br>marriage<br>zone<br>one<br>glance |  
-| bip_39_word_new_br9 | first<br>season<br>ancient<br>muscle<br>marriage<br>zone<br>one<br>glance<br>use |  
-| bip_39_word_new_line1 | first |  
-| bip_39_word_new_line10 | first
+| bip_39_word_new_br_1 | first |  
+| bip_39_word_new_br_10 | first<br>season<br>ancient<br>muscle<br>marriage<br>zone<br>one<br>glance<br>use<br>grief |  
+| bip_39_word_new_br_11 | first<br>season<br>ancient<br>muscle<br>marriage<br>zone<br>one<br>glance<br>use<br>grief<br>organ |  
+| bip_39_word_new_br_12 | first<br>season<br>ancient<br>muscle<br>marriage<br>zone<br>one<br>glance<br>use<br>grief<br>organ<br>arrange |  
+| bip_39_word_new_br_2 | first<br>season |  
+| bip_39_word_new_br_3 | first<br>season<br>ancient |  
+| bip_39_word_new_br_4 | first<br>season<br>ancient<br>muscle |  
+| bip_39_word_new_br_5 | first<br>season<br>ancient<br>muscle<br>marriage |  
+| bip_39_word_new_br_6 | first<br>season<br>ancient<br>muscle<br>marriage<br>zone |  
+| bip_39_word_new_br_7 | first<br>season<br>ancient<br>muscle<br>marriage<br>zone<br>one |  
+| bip_39_word_new_br_8 | first<br>season<br>ancient<br>muscle<br>marriage<br>zone<br>one<br>glance |  
+| bip_39_word_new_br_9 | first<br>season<br>ancient<br>muscle<br>marriage<br>zone<br>one<br>glance<br>use |  
+| bip_39_word_new_line_1 | first |  
+| bip_39_word_new_line_10 | first
 season
 ancient
 muscle
@@ -55,7 +55,7 @@ one
 glance
 use
 grief |  
-| bip_39_word_new_line11 | first
+| bip_39_word_new_line_11 | first
 season
 ancient
 muscle
@@ -66,7 +66,7 @@ glance
 use
 grief
 organ |  
-| bip_39_word_new_line12 | first
+| bip_39_word_new_line_12 | first
 season
 ancient
 muscle
@@ -78,34 +78,34 @@ use
 grief
 organ
 arrange |  
-| bip_39_word_new_line2 | first
+| bip_39_word_new_line_2 | first
 season |  
-| bip_39_word_new_line3 | first
+| bip_39_word_new_line_3 | first
 season
 ancient |  
-| bip_39_word_new_line4 | first
+| bip_39_word_new_line_4 | first
 season
 ancient
 muscle |  
-| bip_39_word_new_line5 | first
+| bip_39_word_new_line_5 | first
 season
 ancient
 muscle
 marriage |  
-| bip_39_word_new_line6 | first
+| bip_39_word_new_line_6 | first
 season
 ancient
 muscle
 marriage
 zone |  
-| bip_39_word_new_line7 | first
+| bip_39_word_new_line_7 | first
 season
 ancient
 muscle
 marriage
 zone
 one |  
-| bip_39_word_new_line8 | first
+| bip_39_word_new_line_8 | first
 season
 ancient
 muscle
@@ -113,7 +113,7 @@ marriage
 zone
 one
 glance |  
-| bip_39_word_new_line9 | first
+| bip_39_word_new_line_9 | first
 season
 ancient
 muscle

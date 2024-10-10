@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | coast |  
-| bip_39_word_new_br10 | coast<br>beyond<br>west<br>baby<br>master<br>coach<br>fiction<br>vital<br>jelly<br>invest |  
-| bip_39_word_new_br11 | coast<br>beyond<br>west<br>baby<br>master<br>coach<br>fiction<br>vital<br>jelly<br>invest<br>current |  
-| bip_39_word_new_br12 | coast<br>beyond<br>west<br>baby<br>master<br>coach<br>fiction<br>vital<br>jelly<br>invest<br>current<br>asthma |  
-| bip_39_word_new_br2 | coast<br>beyond |  
-| bip_39_word_new_br3 | coast<br>beyond<br>west |  
-| bip_39_word_new_br4 | coast<br>beyond<br>west<br>baby |  
-| bip_39_word_new_br5 | coast<br>beyond<br>west<br>baby<br>master |  
-| bip_39_word_new_br6 | coast<br>beyond<br>west<br>baby<br>master<br>coach |  
-| bip_39_word_new_br7 | coast<br>beyond<br>west<br>baby<br>master<br>coach<br>fiction |  
-| bip_39_word_new_br8 | coast<br>beyond<br>west<br>baby<br>master<br>coach<br>fiction<br>vital |  
-| bip_39_word_new_br9 | coast<br>beyond<br>west<br>baby<br>master<br>coach<br>fiction<br>vital<br>jelly |  
-| bip_39_word_new_line1 | coast |  
-| bip_39_word_new_line10 | coast
+| bip_39_word_new_br_1 | coast |  
+| bip_39_word_new_br_10 | coast<br>beyond<br>west<br>baby<br>master<br>coach<br>fiction<br>vital<br>jelly<br>invest |  
+| bip_39_word_new_br_11 | coast<br>beyond<br>west<br>baby<br>master<br>coach<br>fiction<br>vital<br>jelly<br>invest<br>current |  
+| bip_39_word_new_br_12 | coast<br>beyond<br>west<br>baby<br>master<br>coach<br>fiction<br>vital<br>jelly<br>invest<br>current<br>asthma |  
+| bip_39_word_new_br_2 | coast<br>beyond |  
+| bip_39_word_new_br_3 | coast<br>beyond<br>west |  
+| bip_39_word_new_br_4 | coast<br>beyond<br>west<br>baby |  
+| bip_39_word_new_br_5 | coast<br>beyond<br>west<br>baby<br>master |  
+| bip_39_word_new_br_6 | coast<br>beyond<br>west<br>baby<br>master<br>coach |  
+| bip_39_word_new_br_7 | coast<br>beyond<br>west<br>baby<br>master<br>coach<br>fiction |  
+| bip_39_word_new_br_8 | coast<br>beyond<br>west<br>baby<br>master<br>coach<br>fiction<br>vital |  
+| bip_39_word_new_br_9 | coast<br>beyond<br>west<br>baby<br>master<br>coach<br>fiction<br>vital<br>jelly |  
+| bip_39_word_new_line_1 | coast |  
+| bip_39_word_new_line_10 | coast
 beyond
 west
 baby
@@ -55,7 +55,7 @@ fiction
 vital
 jelly
 invest |  
-| bip_39_word_new_line11 | coast
+| bip_39_word_new_line_11 | coast
 beyond
 west
 baby
@@ -66,7 +66,7 @@ vital
 jelly
 invest
 current |  
-| bip_39_word_new_line12 | coast
+| bip_39_word_new_line_12 | coast
 beyond
 west
 baby
@@ -78,34 +78,34 @@ jelly
 invest
 current
 asthma |  
-| bip_39_word_new_line2 | coast
+| bip_39_word_new_line_2 | coast
 beyond |  
-| bip_39_word_new_line3 | coast
+| bip_39_word_new_line_3 | coast
 beyond
 west |  
-| bip_39_word_new_line4 | coast
+| bip_39_word_new_line_4 | coast
 beyond
 west
 baby |  
-| bip_39_word_new_line5 | coast
+| bip_39_word_new_line_5 | coast
 beyond
 west
 baby
 master |  
-| bip_39_word_new_line6 | coast
+| bip_39_word_new_line_6 | coast
 beyond
 west
 baby
 master
 coach |  
-| bip_39_word_new_line7 | coast
+| bip_39_word_new_line_7 | coast
 beyond
 west
 baby
 master
 coach
 fiction |  
-| bip_39_word_new_line8 | coast
+| bip_39_word_new_line_8 | coast
 beyond
 west
 baby
@@ -113,7 +113,7 @@ master
 coach
 fiction
 vital |  
-| bip_39_word_new_line9 | coast
+| bip_39_word_new_line_9 | coast
 beyond
 west
 baby

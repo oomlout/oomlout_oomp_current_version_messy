@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | final |  
-| bip_39_word_new_br10 | final<br>leg<br>program<br>silk<br>catalog<br>icon<br>buffalo<br>blood<br>nerve<br>earth |  
-| bip_39_word_new_br11 | final<br>leg<br>program<br>silk<br>catalog<br>icon<br>buffalo<br>blood<br>nerve<br>earth<br>solid |  
-| bip_39_word_new_br12 | final<br>leg<br>program<br>silk<br>catalog<br>icon<br>buffalo<br>blood<br>nerve<br>earth<br>solid<br>any |  
-| bip_39_word_new_br2 | final<br>leg |  
-| bip_39_word_new_br3 | final<br>leg<br>program |  
-| bip_39_word_new_br4 | final<br>leg<br>program<br>silk |  
-| bip_39_word_new_br5 | final<br>leg<br>program<br>silk<br>catalog |  
-| bip_39_word_new_br6 | final<br>leg<br>program<br>silk<br>catalog<br>icon |  
-| bip_39_word_new_br7 | final<br>leg<br>program<br>silk<br>catalog<br>icon<br>buffalo |  
-| bip_39_word_new_br8 | final<br>leg<br>program<br>silk<br>catalog<br>icon<br>buffalo<br>blood |  
-| bip_39_word_new_br9 | final<br>leg<br>program<br>silk<br>catalog<br>icon<br>buffalo<br>blood<br>nerve |  
-| bip_39_word_new_line1 | final |  
-| bip_39_word_new_line10 | final
+| bip_39_word_new_br_1 | final |  
+| bip_39_word_new_br_10 | final<br>leg<br>program<br>silk<br>catalog<br>icon<br>buffalo<br>blood<br>nerve<br>earth |  
+| bip_39_word_new_br_11 | final<br>leg<br>program<br>silk<br>catalog<br>icon<br>buffalo<br>blood<br>nerve<br>earth<br>solid |  
+| bip_39_word_new_br_12 | final<br>leg<br>program<br>silk<br>catalog<br>icon<br>buffalo<br>blood<br>nerve<br>earth<br>solid<br>any |  
+| bip_39_word_new_br_2 | final<br>leg |  
+| bip_39_word_new_br_3 | final<br>leg<br>program |  
+| bip_39_word_new_br_4 | final<br>leg<br>program<br>silk |  
+| bip_39_word_new_br_5 | final<br>leg<br>program<br>silk<br>catalog |  
+| bip_39_word_new_br_6 | final<br>leg<br>program<br>silk<br>catalog<br>icon |  
+| bip_39_word_new_br_7 | final<br>leg<br>program<br>silk<br>catalog<br>icon<br>buffalo |  
+| bip_39_word_new_br_8 | final<br>leg<br>program<br>silk<br>catalog<br>icon<br>buffalo<br>blood |  
+| bip_39_word_new_br_9 | final<br>leg<br>program<br>silk<br>catalog<br>icon<br>buffalo<br>blood<br>nerve |  
+| bip_39_word_new_line_1 | final |  
+| bip_39_word_new_line_10 | final
 leg
 program
 silk
@@ -55,7 +55,7 @@ buffalo
 blood
 nerve
 earth |  
-| bip_39_word_new_line11 | final
+| bip_39_word_new_line_11 | final
 leg
 program
 silk
@@ -66,7 +66,7 @@ blood
 nerve
 earth
 solid |  
-| bip_39_word_new_line12 | final
+| bip_39_word_new_line_12 | final
 leg
 program
 silk
@@ -78,34 +78,34 @@ nerve
 earth
 solid
 any |  
-| bip_39_word_new_line2 | final
+| bip_39_word_new_line_2 | final
 leg |  
-| bip_39_word_new_line3 | final
+| bip_39_word_new_line_3 | final
 leg
 program |  
-| bip_39_word_new_line4 | final
+| bip_39_word_new_line_4 | final
 leg
 program
 silk |  
-| bip_39_word_new_line5 | final
+| bip_39_word_new_line_5 | final
 leg
 program
 silk
 catalog |  
-| bip_39_word_new_line6 | final
+| bip_39_word_new_line_6 | final
 leg
 program
 silk
 catalog
 icon |  
-| bip_39_word_new_line7 | final
+| bip_39_word_new_line_7 | final
 leg
 program
 silk
 catalog
 icon
 buffalo |  
-| bip_39_word_new_line8 | final
+| bip_39_word_new_line_8 | final
 leg
 program
 silk
@@ -113,7 +113,7 @@ catalog
 icon
 buffalo
 blood |  
-| bip_39_word_new_line9 | final
+| bip_39_word_new_line_9 | final
 leg
 program
 silk

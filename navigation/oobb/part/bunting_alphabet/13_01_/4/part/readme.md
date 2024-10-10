@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | fetch |  
-| bip_39_word_new_br10 | fetch<br>comfort<br>educate<br>outside<br>slim<br>page<br>funny<br>waste<br>winner<br>vital |  
-| bip_39_word_new_br11 | fetch<br>comfort<br>educate<br>outside<br>slim<br>page<br>funny<br>waste<br>winner<br>vital<br>possible |  
-| bip_39_word_new_br12 | fetch<br>comfort<br>educate<br>outside<br>slim<br>page<br>funny<br>waste<br>winner<br>vital<br>possible<br>alone |  
-| bip_39_word_new_br2 | fetch<br>comfort |  
-| bip_39_word_new_br3 | fetch<br>comfort<br>educate |  
-| bip_39_word_new_br4 | fetch<br>comfort<br>educate<br>outside |  
-| bip_39_word_new_br5 | fetch<br>comfort<br>educate<br>outside<br>slim |  
-| bip_39_word_new_br6 | fetch<br>comfort<br>educate<br>outside<br>slim<br>page |  
-| bip_39_word_new_br7 | fetch<br>comfort<br>educate<br>outside<br>slim<br>page<br>funny |  
-| bip_39_word_new_br8 | fetch<br>comfort<br>educate<br>outside<br>slim<br>page<br>funny<br>waste |  
-| bip_39_word_new_br9 | fetch<br>comfort<br>educate<br>outside<br>slim<br>page<br>funny<br>waste<br>winner |  
-| bip_39_word_new_line1 | fetch |  
-| bip_39_word_new_line10 | fetch
+| bip_39_word_new_br_1 | fetch |  
+| bip_39_word_new_br_10 | fetch<br>comfort<br>educate<br>outside<br>slim<br>page<br>funny<br>waste<br>winner<br>vital |  
+| bip_39_word_new_br_11 | fetch<br>comfort<br>educate<br>outside<br>slim<br>page<br>funny<br>waste<br>winner<br>vital<br>possible |  
+| bip_39_word_new_br_12 | fetch<br>comfort<br>educate<br>outside<br>slim<br>page<br>funny<br>waste<br>winner<br>vital<br>possible<br>alone |  
+| bip_39_word_new_br_2 | fetch<br>comfort |  
+| bip_39_word_new_br_3 | fetch<br>comfort<br>educate |  
+| bip_39_word_new_br_4 | fetch<br>comfort<br>educate<br>outside |  
+| bip_39_word_new_br_5 | fetch<br>comfort<br>educate<br>outside<br>slim |  
+| bip_39_word_new_br_6 | fetch<br>comfort<br>educate<br>outside<br>slim<br>page |  
+| bip_39_word_new_br_7 | fetch<br>comfort<br>educate<br>outside<br>slim<br>page<br>funny |  
+| bip_39_word_new_br_8 | fetch<br>comfort<br>educate<br>outside<br>slim<br>page<br>funny<br>waste |  
+| bip_39_word_new_br_9 | fetch<br>comfort<br>educate<br>outside<br>slim<br>page<br>funny<br>waste<br>winner |  
+| bip_39_word_new_line_1 | fetch |  
+| bip_39_word_new_line_10 | fetch
 comfort
 educate
 outside
@@ -55,7 +55,7 @@ funny
 waste
 winner
 vital |  
-| bip_39_word_new_line11 | fetch
+| bip_39_word_new_line_11 | fetch
 comfort
 educate
 outside
@@ -66,7 +66,7 @@ waste
 winner
 vital
 possible |  
-| bip_39_word_new_line12 | fetch
+| bip_39_word_new_line_12 | fetch
 comfort
 educate
 outside
@@ -78,34 +78,34 @@ winner
 vital
 possible
 alone |  
-| bip_39_word_new_line2 | fetch
+| bip_39_word_new_line_2 | fetch
 comfort |  
-| bip_39_word_new_line3 | fetch
+| bip_39_word_new_line_3 | fetch
 comfort
 educate |  
-| bip_39_word_new_line4 | fetch
+| bip_39_word_new_line_4 | fetch
 comfort
 educate
 outside |  
-| bip_39_word_new_line5 | fetch
+| bip_39_word_new_line_5 | fetch
 comfort
 educate
 outside
 slim |  
-| bip_39_word_new_line6 | fetch
+| bip_39_word_new_line_6 | fetch
 comfort
 educate
 outside
 slim
 page |  
-| bip_39_word_new_line7 | fetch
+| bip_39_word_new_line_7 | fetch
 comfort
 educate
 outside
 slim
 page
 funny |  
-| bip_39_word_new_line8 | fetch
+| bip_39_word_new_line_8 | fetch
 comfort
 educate
 outside
@@ -113,7 +113,7 @@ slim
 page
 funny
 waste |  
-| bip_39_word_new_line9 | fetch
+| bip_39_word_new_line_9 | fetch
 comfort
 educate
 outside

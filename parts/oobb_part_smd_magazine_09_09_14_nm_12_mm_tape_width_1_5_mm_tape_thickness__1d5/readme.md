@@ -32,20 +32,20 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_new_br1 | evil |  
-| bip_39_word_new_br10 | evil<br>cruise<br>chronic<br>donate<br>canvas<br>ridge<br>charge<br>assault<br>wait<br>suspect |  
-| bip_39_word_new_br11 | evil<br>cruise<br>chronic<br>donate<br>canvas<br>ridge<br>charge<br>assault<br>wait<br>suspect<br>exile |  
-| bip_39_word_new_br12 | evil<br>cruise<br>chronic<br>donate<br>canvas<br>ridge<br>charge<br>assault<br>wait<br>suspect<br>exile<br>accuse |  
-| bip_39_word_new_br2 | evil<br>cruise |  
-| bip_39_word_new_br3 | evil<br>cruise<br>chronic |  
-| bip_39_word_new_br4 | evil<br>cruise<br>chronic<br>donate |  
-| bip_39_word_new_br5 | evil<br>cruise<br>chronic<br>donate<br>canvas |  
-| bip_39_word_new_br6 | evil<br>cruise<br>chronic<br>donate<br>canvas<br>ridge |  
-| bip_39_word_new_br7 | evil<br>cruise<br>chronic<br>donate<br>canvas<br>ridge<br>charge |  
-| bip_39_word_new_br8 | evil<br>cruise<br>chronic<br>donate<br>canvas<br>ridge<br>charge<br>assault |  
-| bip_39_word_new_br9 | evil<br>cruise<br>chronic<br>donate<br>canvas<br>ridge<br>charge<br>assault<br>wait |  
-| bip_39_word_new_line1 | evil |  
-| bip_39_word_new_line10 | evil
+| bip_39_word_new_br_1 | evil |  
+| bip_39_word_new_br_10 | evil<br>cruise<br>chronic<br>donate<br>canvas<br>ridge<br>charge<br>assault<br>wait<br>suspect |  
+| bip_39_word_new_br_11 | evil<br>cruise<br>chronic<br>donate<br>canvas<br>ridge<br>charge<br>assault<br>wait<br>suspect<br>exile |  
+| bip_39_word_new_br_12 | evil<br>cruise<br>chronic<br>donate<br>canvas<br>ridge<br>charge<br>assault<br>wait<br>suspect<br>exile<br>accuse |  
+| bip_39_word_new_br_2 | evil<br>cruise |  
+| bip_39_word_new_br_3 | evil<br>cruise<br>chronic |  
+| bip_39_word_new_br_4 | evil<br>cruise<br>chronic<br>donate |  
+| bip_39_word_new_br_5 | evil<br>cruise<br>chronic<br>donate<br>canvas |  
+| bip_39_word_new_br_6 | evil<br>cruise<br>chronic<br>donate<br>canvas<br>ridge |  
+| bip_39_word_new_br_7 | evil<br>cruise<br>chronic<br>donate<br>canvas<br>ridge<br>charge |  
+| bip_39_word_new_br_8 | evil<br>cruise<br>chronic<br>donate<br>canvas<br>ridge<br>charge<br>assault |  
+| bip_39_word_new_br_9 | evil<br>cruise<br>chronic<br>donate<br>canvas<br>ridge<br>charge<br>assault<br>wait |  
+| bip_39_word_new_line_1 | evil |  
+| bip_39_word_new_line_10 | evil
 cruise
 chronic
 donate
@@ -55,7 +55,7 @@ charge
 assault
 wait
 suspect |  
-| bip_39_word_new_line11 | evil
+| bip_39_word_new_line_11 | evil
 cruise
 chronic
 donate
@@ -66,7 +66,7 @@ assault
 wait
 suspect
 exile |  
-| bip_39_word_new_line12 | evil
+| bip_39_word_new_line_12 | evil
 cruise
 chronic
 donate
@@ -78,34 +78,34 @@ wait
 suspect
 exile
 accuse |  
-| bip_39_word_new_line2 | evil
+| bip_39_word_new_line_2 | evil
 cruise |  
-| bip_39_word_new_line3 | evil
+| bip_39_word_new_line_3 | evil
 cruise
 chronic |  
-| bip_39_word_new_line4 | evil
+| bip_39_word_new_line_4 | evil
 cruise
 chronic
 donate |  
-| bip_39_word_new_line5 | evil
+| bip_39_word_new_line_5 | evil
 cruise
 chronic
 donate
 canvas |  
-| bip_39_word_new_line6 | evil
+| bip_39_word_new_line_6 | evil
 cruise
 chronic
 donate
 canvas
 ridge |  
-| bip_39_word_new_line7 | evil
+| bip_39_word_new_line_7 | evil
 cruise
 chronic
 donate
 canvas
 ridge
 charge |  
-| bip_39_word_new_line8 | evil
+| bip_39_word_new_line_8 | evil
 cruise
 chronic
 donate
@@ -113,7 +113,7 @@ canvas
 ridge
 charge
 assault |  
-| bip_39_word_new_line9 | evil
+| bip_39_word_new_line_9 | evil
 cruise
 chronic
 donate

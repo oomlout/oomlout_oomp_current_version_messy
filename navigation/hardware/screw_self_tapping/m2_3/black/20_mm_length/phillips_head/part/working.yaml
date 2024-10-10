@@ -1,17 +1,17 @@
-bip_39_word_new_br1: strike
-bip_39_word_new_br10: strike<br>cotton<br>dry<br>anchor<br>mistake<br>chimney<br>draft<br>unique<br>logic<br>damp
-bip_39_word_new_br11: strike<br>cotton<br>dry<br>anchor<br>mistake<br>chimney<br>draft<br>unique<br>logic<br>damp<br>inner
-bip_39_word_new_br12: strike<br>cotton<br>dry<br>anchor<br>mistake<br>chimney<br>draft<br>unique<br>logic<br>damp<br>inner<br>aunt
-bip_39_word_new_br2: strike<br>cotton
-bip_39_word_new_br3: strike<br>cotton<br>dry
-bip_39_word_new_br4: strike<br>cotton<br>dry<br>anchor
-bip_39_word_new_br5: strike<br>cotton<br>dry<br>anchor<br>mistake
-bip_39_word_new_br6: strike<br>cotton<br>dry<br>anchor<br>mistake<br>chimney
-bip_39_word_new_br7: strike<br>cotton<br>dry<br>anchor<br>mistake<br>chimney<br>draft
-bip_39_word_new_br8: strike<br>cotton<br>dry<br>anchor<br>mistake<br>chimney<br>draft<br>unique
-bip_39_word_new_br9: strike<br>cotton<br>dry<br>anchor<br>mistake<br>chimney<br>draft<br>unique<br>logic
-bip_39_word_new_line1: strike
-bip_39_word_new_line10: 'strike
+bip_39_word_new_br_1: strike
+bip_39_word_new_br_10: strike<br>cotton<br>dry<br>anchor<br>mistake<br>chimney<br>draft<br>unique<br>logic<br>damp
+bip_39_word_new_br_11: strike<br>cotton<br>dry<br>anchor<br>mistake<br>chimney<br>draft<br>unique<br>logic<br>damp<br>inner
+bip_39_word_new_br_12: strike<br>cotton<br>dry<br>anchor<br>mistake<br>chimney<br>draft<br>unique<br>logic<br>damp<br>inner<br>aunt
+bip_39_word_new_br_2: strike<br>cotton
+bip_39_word_new_br_3: strike<br>cotton<br>dry
+bip_39_word_new_br_4: strike<br>cotton<br>dry<br>anchor
+bip_39_word_new_br_5: strike<br>cotton<br>dry<br>anchor<br>mistake
+bip_39_word_new_br_6: strike<br>cotton<br>dry<br>anchor<br>mistake<br>chimney
+bip_39_word_new_br_7: strike<br>cotton<br>dry<br>anchor<br>mistake<br>chimney<br>draft
+bip_39_word_new_br_8: strike<br>cotton<br>dry<br>anchor<br>mistake<br>chimney<br>draft<br>unique
+bip_39_word_new_br_9: strike<br>cotton<br>dry<br>anchor<br>mistake<br>chimney<br>draft<br>unique<br>logic
+bip_39_word_new_line_1: strike
+bip_39_word_new_line_10: 'strike
 
   cotton
 
@@ -30,7 +30,7 @@ bip_39_word_new_line10: 'strike
   logic
 
   damp'
-bip_39_word_new_line11: 'strike
+bip_39_word_new_line_11: 'strike
 
   cotton
 
@@ -51,7 +51,7 @@ bip_39_word_new_line11: 'strike
   damp
 
   inner'
-bip_39_word_new_line12: 'strike
+bip_39_word_new_line_12: 'strike
 
   cotton
 
@@ -74,22 +74,22 @@ bip_39_word_new_line12: 'strike
   inner
 
   aunt'
-bip_39_word_new_line2: 'strike
+bip_39_word_new_line_2: 'strike
 
   cotton'
-bip_39_word_new_line3: 'strike
+bip_39_word_new_line_3: 'strike
 
   cotton
 
   dry'
-bip_39_word_new_line4: 'strike
+bip_39_word_new_line_4: 'strike
 
   cotton
 
   dry
 
   anchor'
-bip_39_word_new_line5: 'strike
+bip_39_word_new_line_5: 'strike
 
   cotton
 
@@ -98,7 +98,7 @@ bip_39_word_new_line5: 'strike
   anchor
 
   mistake'
-bip_39_word_new_line6: 'strike
+bip_39_word_new_line_6: 'strike
 
   cotton
 
@@ -109,7 +109,7 @@ bip_39_word_new_line6: 'strike
   mistake
 
   chimney'
-bip_39_word_new_line7: 'strike
+bip_39_word_new_line_7: 'strike
 
   cotton
 
@@ -122,7 +122,7 @@ bip_39_word_new_line7: 'strike
   chimney
 
   draft'
-bip_39_word_new_line8: 'strike
+bip_39_word_new_line_8: 'strike
 
   cotton
 
@@ -137,7 +137,7 @@ bip_39_word_new_line8: 'strike
   draft
 
   unique'
-bip_39_word_new_line9: 'strike
+bip_39_word_new_line_9: 'strike
 
   cotton
 
